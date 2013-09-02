@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-02 09:02+0200\n"
+"PO-Revision-Date: 2013-09-02 09:34+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378108922.163263\n"
+"X-POOTLE-MTIME: 1378110856.917426\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -338,7 +338,7 @@ msgstr ""
 
 #: Congregate
 msgid "Target player gains 2 life for each creature on the battlefield."
-msgstr ""
+msgstr "Wskazany gracz dostaje 2 życia za każdego stwora na polu walki."
 
 #: Corpse Hauler
 msgid ""
@@ -403,7 +403,7 @@ msgstr ""
 
 #: Demolish
 msgid "Destroy target artifact or land."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: Devout Invocation
 msgid ""
@@ -430,10 +430,10 @@ msgid "Return target nonland permanent to its owner's hand."
 msgstr ""
 
 msgid "When Divine Favor enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy Divine Faver wchodzi na pole walki, dostajesz 3 życia."
 
 msgid "Enchanted creature gets +1/+3."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+3."
 
 msgid "You control enchanted creature."
 msgstr "Kontrolujesz zauroczonego stwora."
@@ -449,17 +449,21 @@ msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: Door of Destinies
 msgid "As Door of Destinies enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Gdy Door of Destinies wchodzi na pole walki, wybierz typ stwora."
 
 msgid ""
 "Whenever you cast a spell of the chosen type, put a charge counter on Door "
 "of Destinies."
 msgstr ""
+"Zawsze gdy rzucasz czar wybranego typu, połóż znacznik ładowania na Door of "
+"Destinies."
 
 msgid ""
 "Creatures you control of the chosen type get +1/+1 for each charge counter "
 "on Door of Destinies."
 msgstr ""
+"Stwory wybranego typu, które kontrolujesz dostają +1/+1 za każdy znacznik "
+"ładowania na Door of Destinies."
 
 msgid ""
 "When Dragon Egg dies, put a 2/2 red Dragon creature token with flying onto "
@@ -467,7 +471,7 @@ msgid ""
 msgstr ""
 
 msgid "{R}: Dragon Hatchling gets +1/+0 until end of turn."
-msgstr ""
+msgstr "{R}: Dragon Hatchling dostaje +1/+0 do końca tury."
 
 #: Duress
 msgid ""
@@ -480,21 +484,28 @@ msgid ""
 "When Elite Arcanist enters the battlefield, you may exile an instant card "
 "from your hand."
 msgstr ""
+"Kiedy Elite Arcanist wchodzi na pole walki, możesz wygnać kartę szybkiego "
+"czaru ze swojej ręki."
 
 msgid ""
 "{X}, {T}: Copy the exiled card. You may cast the copy without paying its "
 "mana cost. X is the converted mana cost of the exiled card."
 msgstr ""
+"{X}, {T}: Skopiuj wygnaną kartę. Możesz rzucić kopię bez płacenia kosztu "
+"many. X jest skonwertowanym kosztem many wygnanej karty."
 
 #: Elixir of Immortality
+#, fuzzy
 msgid ""
 "{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard "
 "into their owner's library."
 msgstr ""
+"{2}, {T}: Zyskujesz 5 życia. Wtasuj Elixir of Immortality oraz swój cmentarz "
+"do bibliotek ich właścicieli."
 
 #: Elvish Mystic
 msgid "{T}: Add {G} to your mana pool."
-msgstr ""
+msgstr "{T}: Dodaj {G} to swojego zasobnika many."
 
 #: Encroaching Wastes Mutavault Shimmering Grotto
 msgid "{T}: Add {1} to your mana pool."
@@ -527,6 +538,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.) "
 msgstr ""
+"Pierwszy Cios (Ten stwór zadaje obrażenia w walce przed stworami bez "
+"Pierwszego Ciosu.)"
 
 msgid ""
 "Fiendslayer Paladin can't be the target of black or red spells your "
