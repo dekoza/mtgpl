@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-02 19:59+0200\n"
+"PO-Revision-Date: 2013-09-02 20:15+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,20 +17,21 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378148379.240638\n"
+"X-POOTLE-MTIME: 1378149346.958254\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
 msgid "Put a 5/5 green Wurm creature token with trample onto the battlefield."
-msgstr "Połóż na polu walki żeton zielonego stwora Wurm 5/5 z Tratowaniem."
+msgstr ""
+"{U}: Wygnaj Ætherling. Przywróć go na pole walki pod kontrolą jego "
+"właściciela na początku następnego etapu końcowego."
 
 #: Ætherling
-#, fuzzy
 msgid ""
 "{U}: Exile Ætherling. Return it to the battlefield under its owner's control "
 "at the beginning of the next end step."
 msgstr ""
-"{U}: Wygnaj Ætherlinga. Przywróć go na pole walki pod kontrolą jego "
+"{U}: Wygnaj Ætherling. Przywróć go na pole walki pod kontrolą jego "
 "właściciela na początku następnego etapu końcowego."
 
 msgid "{U}: Ætherling can't be blocked this turn."
@@ -59,8 +60,9 @@ msgid "Flying, hexproof"
 msgstr "Latanie, Antyklątwa"
 
 #: Far // Away (Away)
+#, fuzzy
 msgid "Target player sacrifices a creature."
-msgstr "Wskazany gracz poświęca stwora."
+msgstr "Latanie, Antyklątwa"
 
 #: Awe for the Guilds
 msgid "Monocolored creatures can't block this turn."
@@ -82,20 +84,20 @@ msgid "Trample"
 msgstr "Tratowanie"
 
 #: Renegade Krasis
-#, fuzzy
 msgid ""
 "Evolve (Whenever a creature enters the battlefield under your control, if "
 "that creature has greater power or toughness than this creature, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
-"Rozwój (Kiedykolwiek stwór o większej sile lub wytrzymałości od tego stwora "
-"wejdzie na pole walki pod Twoją kontrolą, połóż znacznik +1/+1 na tym "
-"stworze.)"
+"Rozwój (Zawsze, gdy jakiś stwór wchodzi na pole walki pod twoją kontrolą, "
+"jeśli jego siła lub wytrzymałość jest większa niż tego stwora, połóż "
+"znacznik +1/+1 na tym stworze.)"
 
 #: Beck // Call (Beck)
 msgid ""
 "Whenever a creature enters the battlefield this turn, you may draw a card."
 msgstr ""
+"Kiedykolwiek stwór wejdzie na pole bitwy tej tury, możesz pociągnąc kartę."
 
 #: Beetleform Mage
 msgid ""
@@ -135,12 +137,16 @@ msgid ""
 "As long as you have 30 or more life and an opponent has 10 or less life, "
 "Blood Baron of Vizkopa gets +6/+6 and has flying."
 msgstr ""
+"Tak długo jak posiadasz 30 lub więcej życia i Twój przeciwnik posiada 10 lub "
+"mniej życia, Blood Baron of Vizkopa otrzymuje +6/+6 i Latanie."
 
 #: Blood Scrivener
 msgid ""
 "If you would draw a card while you have no cards in hand, instead draw two "
 "cards and lose 1 life."
 msgstr ""
+"Jeśli mógłbyś pociągnąć kartę nie posiadając kart na ręce, zamiast tego "
+"pociągnij dwie karty i strać 1 życia."
 
 #: Boros Battleshaper
 msgid ""
@@ -149,9 +155,10 @@ msgid ""
 "combat."
 msgstr ""
 
+# Słusznie przetłumaczone "or" - musi być "albo", gdyż w języku polskim "lub" zawiera w sobie "oraz". Taka tam logiczna ciekawostka :P
 #: Boros Cluestone
 msgid "{T}: Add {R} or {W} to your mana pool."
-msgstr ""
+msgstr "{T}: Dodaj {R} albo {W} do twojego zasobnika many."
 
 msgid "{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card."
 msgstr ""
