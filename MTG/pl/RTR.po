@@ -7,15 +7,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 02:36+0200\n"
-"PO-Revision-Date: 2013-09-02 02:57+0200\n"
-"Last-Translator: Dominik <Kozaczko>\n"
+"PO-Revision-Date: 2013-09-02 14:14+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 2.91.6\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1378127690.580698\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Abrupt Decay
@@ -708,7 +710,7 @@ msgstr ""
 
 #: Hover Barrier
 msgid "Defender, flying"
-msgstr ""
+msgstr "Oborńca, Latanie"
 
 #: Hussar Patrol Izzet Staticaster Skyline Predator
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
@@ -716,7 +718,7 @@ msgstr ""
 
 #: Hypersonic Dragon
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, Pośpiech"
 
 msgid ""
 "You may cast sorcery cards as though they had flash. (You may cast them any "
@@ -1117,7 +1119,7 @@ msgid ""
 msgstr ""
 
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, Tratowanie"
 
 msgid ""
 "Creature spells you cast cost {1} less to cast for each 1 life your "
@@ -1262,6 +1264,8 @@ msgid ""
 "Swampwalk (This creature can't be blocked as long as defending player "
 "controls a Swamp.)"
 msgstr ""
+"Zdobywca bagien (Ten stwór nie może być blokowany jeśli broniący gracz "
+"posiada Bagno)"
 
 msgid ""
 "Scavenge {2}{B} ({2}{B}, Exile this card from your graveyard: Put a number "
