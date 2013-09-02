@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-02 11:52+0200\n"
+"PO-Revision-Date: 2013-09-02 15:52+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378119131.779617\n"
+"X-POOTLE-MTIME: 1378133532.170150\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -182,7 +182,7 @@ msgstr ""
 
 #: Blood Bairn
 msgid "Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Poświęć innego stwora: Blood Bairn dostaje +2/+2 do końca tury."
 
 #: Blur Sliver
 #, fuzzy
@@ -230,6 +230,8 @@ msgid ""
 "When Briarpack Alpha enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
 msgstr ""
+"Kiedy Briarpack Alpha wchodzi na pole walki, wskazany stwór dostaje +2/+2 do "
+"końca tury."
 
 #: Brindle Boar
 msgid "Sacrifice Brindle Boar: You gain 4 life."
@@ -254,20 +256,22 @@ msgstr ""
 
 #: Cancel
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: Capashen Knight Mindsparker
 msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy Cios (Ten stwór zadaje obrażenia w walce przed stworami bez "
+"Pierwszego Ciosu.)"
 
 msgid "{1}{W}: Capashen Knight gets +1/+0 until end of turn."
-msgstr ""
+msgstr "{1}{W}: Capashen Knight dostaje +1/+0 do końca tury."
 
 #: Celestial Flare
 msgid "Target player sacrifices an attacking or blocking creature."
-msgstr ""
+msgstr "Wskazany gracz poświęca atakującego lub blokującego stwora."
 
 #: Chandra, Pyromaster
 #, fuzzy
@@ -679,11 +683,17 @@ msgid ""
 "assign enough damage to its blockers to destroy them, you may have it assign "
 "the rest of its damage to defending player or planeswalker.)"
 msgstr ""
+"Slivery pod twoją kontrolą mają Tratowanie. (Jeśli Sliver pod twoją kontrolą "
+"miałby zadać dość obrażeń, by zniszczyć blokujące go stwory, możesz "
+"przypisać pozostałe obrażenia w broniącego się gracza lub Wędrowca.)"
 
+#, fuzzy
 msgid ""
 "When a creature attacks you or a planeswalker you control, if Guardian of "
 "the Ages has defender, it loses defender and gains trample."
 msgstr ""
+"Kiedy stwór atakuje ciebie lub kontrolowanego przez ciebie Wędrowca, jeśli "
+"Guardian of Ages jest Obrońcą, przestaje być Obrońcą i dostaje Tratowanie."
 
 #: Haunted Plate Mail
 msgid "Equipped creature gets +4/+4."
@@ -779,15 +789,18 @@ msgstr ""
 
 msgid "Kalonian Hydra enters the battlefield with four +1/+1 counters on it."
 msgstr ""
+"Kalonian Hydra wchodzi na pole walki z czterema znacznikami +1/+1 na sobie."
 
 msgid ""
 "Whenever Kalonian Hydra attacks, double the number of +1/+1 counters on each "
 "creature you control."
 msgstr ""
+"Zawsze, gdy Kalonian Hydra atakuje, podwój liczbę znaczników +1/+1 na każdym "
+"stworze pod twoją kontrolą."
 
 #: Lava Axe
 msgid "Lava Axe deals 5 damage to target player."
-msgstr ""
+msgstr "Lava Axe zadaje 5 obrażeń wskazanemu graczowi."
 
 #: Lay of the Land
 msgid ""
