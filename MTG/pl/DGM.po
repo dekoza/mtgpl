@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-02 15:59+0200\n"
+"PO-Revision-Date: 2013-09-02 19:59+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,31 +17,34 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378133992.33192\n"
+"X-POOTLE-MTIME: 1378148379.240638\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
 msgid "Put a 5/5 green Wurm creature token with trample onto the battlefield."
-msgstr ""
+msgstr "Połóż na polu walki żeton zielonego stwora Wurm 5/5 z Tratowaniem."
 
 #: Ætherling
+#, fuzzy
 msgid ""
 "{U}: Exile Ætherling. Return it to the battlefield under its owner's control "
 "at the beginning of the next end step."
 msgstr ""
+"{U}: Wygnaj Ætherlinga. Przywróć go na pole walki pod kontrolą jego "
+"właściciela na początku następnego etapu końcowego."
 
 msgid "{U}: Ætherling can't be blocked this turn."
-msgstr ""
+msgstr "{U}: Ætherling nie może być blokowany w tej turze."
 
 msgid "{1}: Ætherling gets +1/-1 until end of turn."
-msgstr ""
+msgstr "{1}: Ætherling dostaje +1/-1 do końca tury."
 
 msgid "{1}: Ætherling gets -1/+1 until end of turn."
-msgstr ""
+msgstr "{1}: Ætherling dostaje -1/+1 do końca tury."
 
 #: Alive // Well (Alive)
 msgid "Put a 3/3 green Centaur creature token onto the battlefield."
-msgstr ""
+msgstr "Połóż na polu walki żeton zielonego stwora Centaur 3/3."
 
 msgid "Fuse (You may cast one or both halves of this card from your hand.)"
 msgstr "Fuzja (Możesz zagrać jedną lub obie połowy tej karty z ręki.)"
@@ -51,8 +54,9 @@ msgid "Target creature gets +1/+1 and gains double strike until end of turn."
 msgstr "Wskazany stwór dostaje +1/+1 oraz Podwójny Cios do końca tury."
 
 #: Ascended Lawmage
+#, fuzzy
 msgid "Flying, hexproof"
-msgstr ""
+msgstr "Latanie, Antyklątwa"
 
 #: Far // Away (Away)
 msgid "Target player sacrifices a creature."
@@ -78,11 +82,15 @@ msgid "Trample"
 msgstr "Tratowanie"
 
 #: Renegade Krasis
+#, fuzzy
 msgid ""
 "Evolve (Whenever a creature enters the battlefield under your control, if "
 "that creature has greater power or toughness than this creature, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
+"Rozwój (Kiedykolwiek stwór o większej sile lub wytrzymałości od tego stwora "
+"wejdzie na pole walki pod Twoją kontrolą, połóż znacznik +1/+1 na tym "
+"stworze.)"
 
 #: Beck // Call (Beck)
 msgid ""

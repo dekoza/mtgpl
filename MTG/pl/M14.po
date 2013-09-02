@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-02 19:05+0200\n"
+"PO-Revision-Date: 2013-09-02 19:59+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378145115.862237\n"
+"X-POOTLE-MTIME: 1378148384.183729\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -1079,7 +1079,7 @@ msgstr ""
 
 #: Savage Summoning
 msgid "Savage Summoning can't be countered."
-msgstr ""
+msgstr "Savage Summoning nie może być skontrowany."
 
 msgid ""
 "The next creature card you cast this turn can be cast as though it had "
@@ -1100,7 +1100,7 @@ msgid ""
 msgstr ""
 
 msgid "{R}: Scourge of Valkas gets +1/+0 until end of turn."
-msgstr ""
+msgstr "{R}: Scourge of Valkas dostaje +1/+0 do końca tury."
 
 #: Scroll Thief
 msgid "Whenever Scroll Thief deals combat damage to a player, draw a card."
@@ -1108,7 +1108,7 @@ msgstr ""
 
 #: Seismic Stomp
 msgid "Creatures without flying can't block this turn."
-msgstr ""
+msgstr "Stwory bez Latania nie mogą blokować w tej turze."
 
 msgid ""
 "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/"
@@ -1116,7 +1116,7 @@ msgid ""
 msgstr ""
 
 msgid "Enchanted creature gets -3/-0."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -3/-0."
 
 #: Sentinel Sliver
 msgid ""
@@ -1148,16 +1148,16 @@ msgid ""
 msgstr ""
 
 msgid "{1}, {T}: Add one mana of any color to your mana pool."
-msgstr ""
+msgstr "{1}, {T}: Dodaj jedną manę dowolnego koloru do swojego zasobnika many."
 
 msgid "{R}: Shivan Dragon gets +1/+0 until end of turn."
-msgstr ""
+msgstr "{R}: Shivan Dragon dostaje +1/+0 do końca tury."
 
 msgid "Enchanted creature gets +2/+2 and has flying."
 msgstr "Zauroczony stwór dostaje +2/+2 i ma Latanie."
 
 msgid "{R}: Enchanted creature gets +1/+0 until end of turn."
-msgstr "{R}: Zauroczony stwór dostaje +1/+0  do końca tury."
+msgstr "{R}: Zauroczony stwór dostaje +1/+0 do końca tury."
 
 #: Shock
 msgid "Shock deals 2 damage to target creature or player."
@@ -1233,7 +1233,7 @@ msgstr ""
 
 #: Steelform Sliver
 msgid "Sliver creatures you control get +0/+1."
-msgstr ""
+msgstr "Slivery pod twoją kontrolą dostają +0/+1."
 
 #: Stonehorn Chanter
 msgid ""
@@ -1270,12 +1270,16 @@ msgid ""
 "When Tenacious Dead dies, you may pay {1}{B}. If you do, return it to the "
 "battlefield tapped under its owner's control."
 msgstr ""
+"Kiedy Tenacious Dead umiera, możesz zapłacić {1}{B}. Gdy tak zrobisz, "
+"przywróć go stapowanego na pole walki pod kontrolą jego właściciela."
 
 #: Thorncaster Sliver
 msgid ""
 "Sliver creatures you control have \"Whenever this creature attacks, it deals "
 "1 damage to target creature or player.\""
 msgstr ""
+"Slivery pod twoją kontrolą mają \"Kiedy ten stwór atakuje, zadaje 1 obrażenie "
+"we wskazanego stwora lub gracza.\""
 
 #: Thunder Strike
 msgid ""
@@ -1292,17 +1296,20 @@ msgstr ""
 
 #: Time Ebb
 msgid "Put target creature on top of its owner's library."
-msgstr ""
+msgstr "Połóż wskazanego stwora na górze biblioteki jego właściciela."
 
 #: Tome Scour
 msgid ""
 "Target player puts the top five cards of his or her library into his or her "
 "graveyard."
 msgstr ""
+"Wskazany gracz przekłada pięć górnych kart swojej biblioteki do swojego "
+"cmentarza."
 
 #: Trading Post
+#, fuzzy
 msgid "{1}, {T}, Discard a card: You gain 4 life."
-msgstr ""
+msgstr "{1}, {T}, odrzuć kartę: Zyskujesz 4 życia."
 
 msgid ""
 "{1}, {T}, Pay 1 life: Put a 0/1 white Goat creature token onto the "
