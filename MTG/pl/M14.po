@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-02 19:59+0200\n"
+"PO-Revision-Date: 2013-09-02 20:32+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378148384.183729\n"
+"X-POOTLE-MTIME: 1378150373.723758\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -79,6 +79,8 @@ msgid ""
 "-8: Put X 2/2 white Cat creature tokens onto the battlefield, where X is "
 "your life total."
 msgstr ""
+"-8: Połóż na polu walki X żetonów białych stworów Cat 2/2, gdzie X jest "
+"liczbą twoich punktów życia."
 
 #: Ajani's Chosen
 msgid ""
@@ -103,6 +105,8 @@ msgid ""
 "At the beginning of each end step, if you gained 4 or more life this turn, "
 "put a 4/4 white Angel creature token with flying onto the battlefield."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli zyskałeś 4 lub więcej życia w tej "
+"turze, połóż na polu walki żeton białego stwora Angel 4/4 z Lataniem."
 
 #: Angelic Wall Dragon Egg Guardian of the Ages Frost
 msgid "Defender (This creature can't attack.)"
@@ -113,6 +117,8 @@ msgid ""
 "When Archaeomancer enters the battlefield, return target instant or sorcery "
 "card from your graveyard to your hand."
 msgstr ""
+"Kiedy Archaeomancer wchodzi na pole walki, przywróć wskazaną kartę Sztuczki "
+"lub Guseł ze swojego cmentarza do swojej ręki."
 
 #: Child of Night
 msgid ""
@@ -140,6 +146,8 @@ msgid ""
 "When Auramancer enters the battlefield, you may return target enchantment "
 "card from your graveyard to your hand."
 msgstr ""
+"Kiedy Auramancer wchodzi na pole walki, możesz przywrócić wskazaną kartę "
+"Uroku ze swojego cmentarza do swojej ręki."
 
 #: Awaken the Ancient
 #, fuzzy
@@ -159,6 +167,9 @@ msgid ""
 "opponent controls until Banisher Priest leaves the battlefield. (That "
 "creature returns under its owner's control.)"
 msgstr ""
+"Kiedy Banisher Priest wchodzi na pole walki, wygnaj wskazanego stwora "
+"kontrolowanego przez przeciwnika do czasu, aż Banisher Priest opuści pole "
+"walki. (Wygnany stwór wraca pod kontrolę swojego właściciela.)"
 
 #: Barrage of Expendables
 msgid ""
@@ -186,6 +197,8 @@ msgid ""
 "Whenever you cast an enchantment spell, you may have target creature get "
 "-2/-2 until end of turn."
 msgstr ""
+"Zawsze, gdy rzucasz Urok, możesz dać wskazanemu stworowi -2/-2 do końca "
+"tury."
 
 #: Blood Bairn
 msgid "Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn."
@@ -245,11 +258,11 @@ msgstr ""
 
 #: Brindle Boar
 msgid "Sacrifice Brindle Boar: You gain 4 life."
-msgstr "Poświęć Brindle Boar: Dostajesz 4 życia."
+msgstr "Poświęć Brindle Boar: Zyskujesz 4 życia."
 
 #: Bubbling Cauldron
 msgid "{1}, {T}, Sacrifice a creature: You gain 4 life."
-msgstr "{1}, {T}, poświęć stwora: Dostajesz 4 życia."
+msgstr "{1}, {T}, poświęć stwora: Zyskujesz 4 życia."
 
 msgid ""
 "{1}, {T}, Sacrifice a creature named Festering Newt: Each opponent loses 4 "
@@ -638,7 +651,6 @@ msgstr "Tratowanie"
 msgid "Play with the top card of your library revealed."
 msgstr ""
 
-#, fuzzy
 msgid ""
 "You may cast the top card of your library if it's a creature card. (Do this "
 "only any time you could cast that creature card. You still pay the spell's "
@@ -697,13 +709,14 @@ msgstr ""
 "miałby zadać dość obrażeń, by zniszczyć blokujące go stwory, możesz "
 "przypisać pozostałe obrażenia w broniącego się gracza lub Wędrowca.)"
 
+# Nie jestem przekonany, czy Defender jest dobrze przetłumaczony. Wolałbym słowo, które lepiej określa cechę, a nie rolę.
 #, fuzzy
 msgid ""
 "When a creature attacks you or a planeswalker you control, if Guardian of "
 "the Ages has defender, it loses defender and gains trample."
 msgstr ""
 "Kiedy stwór atakuje ciebie lub kontrolowanego przez ciebie Wędrowca, jeśli "
-"Guardian of Ages jest Obrońcą, przestaje być Obrońcą i dostaje Tratowanie."
+"Guardian of Ages jest Obrońcą, przestaje być Obrońcą i zyskuje Tratowanie."
 
 #: Haunted Plate Mail
 msgid "Equipped creature gets +4/+4."
