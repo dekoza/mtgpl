@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-02 09:34+0200\n"
+"PO-Revision-Date: 2013-09-02 11:52+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378110856.917426\n"
+"X-POOTLE-MTIME: 1378119131.779617\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -1131,22 +1131,22 @@ msgid "{R}: Shivan Dragon gets +1/+0 until end of turn."
 msgstr ""
 
 msgid "Enchanted creature gets +2/+2 and has flying."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma Latanie."
 
 msgid "{R}: Enchanted creature gets +1/+0 until end of turn."
-msgstr ""
+msgstr "{R}: Zauroczony stwór dostaje +1/+0  do końca tury."
 
 #: Shock
 msgid "Shock deals 2 damage to target creature or player."
-msgstr ""
+msgstr "Shock zadaje 2 obrażenia wskazanemu stworowi lub graczowi."
 
 #: Show of Valor
 msgid "Target creature gets +2/+4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje +2/+4 do końca tury."
 
 #: Shrivel
 msgid "All creatures get -1/-1 until end of turn."
-msgstr ""
+msgstr "Wszystkie stwory dostają -1/-1 do końca tury."
 
 #: Silence
 msgid ""
@@ -1156,15 +1156,15 @@ msgstr ""
 
 #: Smelt
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: Solemn Offering
 msgid "Destroy target artifact or enchantment. You gain 4 life."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok. Dostajesz 4 życia."
 
 #: Soulmender
 msgid "{T}: You gain 1 life."
-msgstr ""
+msgstr "{T}: Dostajesz 1 życie."
 
 #: Spell Blast
 msgid ""
@@ -1330,10 +1330,10 @@ msgstr ""
 
 #: Verdant Haven
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 msgid "When Verdant Haven enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy Verdant Haven wchodzi na pole walki, dostajesz 2 życia."
 
 msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds one mana of "
@@ -1370,17 +1370,17 @@ msgstr ""
 
 #: Wall of Swords
 msgid "Defender (This creature can't attack)"
-msgstr ""
+msgstr "Obrońca (Ten stwór nie może atakować)"
 
 msgid "Creature spells with flying you cast cost {1} less to cast."
 msgstr ""
 
 #: Water Servant
 msgid "{U}: Water Servant gets +1/-1 until end of turn."
-msgstr ""
+msgstr "{U}: Water Servant dostaje +1/-1 do końca tury."
 
 msgid "{U}: Water Servant gets -1/+1 until end of turn."
-msgstr ""
+msgstr "{U}: Water Servant dostaje -1/+1 do końca tury."
 
 #: Wild Guess
 msgid "As an additional cost to cast Wild Guess, discard a card."
@@ -1393,11 +1393,11 @@ msgid ""
 msgstr ""
 
 msgid "Whenever a creature with flying attacks, you may draw a card."
-msgstr ""
+msgstr "Zawsze, gdy atakuje stwór z Lataniem, możesz dobrać kartę."
 
 #: Windstorm
 msgid "Windstorm deals X damage to each creature with flying."
-msgstr ""
+msgstr "Windstorm zadaje X obrażeń każdemu stworowi z Lataniem."
 
 msgid ""
 "Whenever an opponent casts a blue or black spell during your turn, put a +1/"
@@ -1414,7 +1414,7 @@ msgstr ""
 
 #: Wring Flesh
 msgid "Target creature gets -3/-1 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -3/-1 do końca tury."
 
 #: Xathrid Necromancer
 msgid ""
