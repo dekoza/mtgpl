@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-02 15:52+0200\n"
+"PO-Revision-Date: 2013-09-02 19:05+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378133532.170150\n"
+"X-POOTLE-MTIME: 1378145115.862237\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -86,10 +86,13 @@ msgid ""
 "white Cat creature token onto the battlefield. If that enchantment is an "
 "Aura, you may attach it to the token."
 msgstr ""
+"Zawsze, gdy na pole walki pod twoją kontrolę wejdzie urok, połóż na polu "
+"walki żeton białego stwora Cat 2/2. Jeśli ten urok jest aurą, możesz "
+"dołączyć go do tego żetonu."
 
 #: Altar's Reap
 msgid "As an additional cost to cast Altar's Reap, sacrifice a creature."
-msgstr ""
+msgstr "Poświęć stwora jako dodatkowy koszt podczas rzucania Altar's Reap."
 
 #: Divination
 msgid "Draw two cards."
@@ -139,12 +142,16 @@ msgid ""
 msgstr ""
 
 #: Awaken the Ancient
+#, fuzzy
 msgid "Enchant Mountain"
-msgstr ""
+msgstr "Zaurocz Górę"
 
+#, fuzzy
 msgid ""
 "Enchanted Mountain is a 7/7 red Giant creature with haste. It's still a land."
 msgstr ""
+"Zauroczona Góra jest czerwonym stworem Giant 7/7 z Pośpiechem oraz nadal "
+"jest lądem."
 
 #: Banisher Priest
 msgid ""
@@ -198,6 +205,8 @@ msgid ""
 "{2}, {T}: Search your library for a card named Festering Newt or Bubbling "
 "Cauldron, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"{2}, {T}: Wyszukaj w swojej bibliotece kartę Festering Newt lub Bubbling "
+"Cauldron, połóż ją na polu walki stapowaną, następnie przetasuj bibliotekę."
 
 #: Bonescythe Sliver
 #, fuzzy
@@ -225,6 +234,7 @@ msgstr ""
 #: Briarpack Alpha Nephalia Seakite
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
+"Błysk (Możesz zagrać ten czar w każdej chwili, gdy możesz zagrać Sztuczkę.)"
 
 msgid ""
 "When Briarpack Alpha enters the battlefield, target creature gets +2/+2 "
