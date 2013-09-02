@@ -7,15 +7,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-02 03:13+0200\n"
-"Last-Translator: Dominik <Kozaczko>\n"
+"PO-Revision-Date: 2013-09-02 14:07+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 2.91.6\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1378127279.700082\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -42,11 +44,11 @@ msgid "Put a 3/3 green Centaur creature token onto the battlefield."
 msgstr ""
 
 msgid "Fuse (You may cast one or both halves of this card from your hand.)"
-msgstr ""
+msgstr "Fuzja (Możesz zagrać jedną lub obie połowy tej karty z ręki.)"
 
 #: Armed // Dangerous (Armed)
 msgid "Target creature gets +1/+1 and gains double strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje +1/+1 oraz Podwójny Cios do końca tury."
 
 #: Ascended Lawmage
 msgid "Flying, hexproof"
@@ -58,18 +60,18 @@ msgstr ""
 
 #: Awe for the Guilds
 msgid "Monocolored creatures can't block this turn."
-msgstr ""
+msgstr "Jednokolorowe stwory nie mogą blokować w tej turze."
 
 #: Azorius Cluestone
 msgid "{T}: Add {W} or {U} to your mana pool."
-msgstr ""
+msgstr "{T}: Dodaj {W} lub {U} do swojego zasobnika many."
 
 msgid "{W}{U}, {T}, Sacrifice Azorius Cluestone: Draw a card."
-msgstr ""
+msgstr "{W}{U}, {T}, poświęć Azorius Cluestone: Dobierz kartę."
 
 #: Azorius Guildgate
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Azorius Guildgate wchodzi na pole walki stapowany."
 
 #: Battering Krasis Maze Behemoth
 msgid "Trample"
@@ -92,6 +94,8 @@ msgid ""
 "{G}{U}: Beetleform Mage gets +2/+2 and gains flying until end of turn. "
 "Activate this ability only once each turn."
 msgstr ""
+"{G}{U}: Beetleform Mage dostaje +2/+2 oraz Latanie do końca tury. Aktywuj tę "
+"zdolność tylko raz na turę."
 
 #: Blast of Genius
 msgid ""
@@ -99,6 +103,9 @@ msgid ""
 "Blast of Genius deals damage equal to the discarded card's converted mana "
 "cost to that creature or player."
 msgstr ""
+"Wskaż stwora lub gracza. Dobierz trzy karty, a następnie odrzuć jedną kartę. "
+"Blast of Genius zadaje obrażenia równe całkowitemu kosztowi odrzuconej "
+"karty w tego stwora lub gracza."
 
 #: Blaze Commando
 msgid ""
