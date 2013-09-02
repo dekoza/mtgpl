@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-02 20:15+0200\n"
+"PO-Revision-Date: 2013-09-02 22:42+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378149346.958254\n"
+"X-POOTLE-MTIME: 1378158175.390947\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -118,21 +118,30 @@ msgstr ""
 "karty w tego stwora lub gracza."
 
 #: Blaze Commando
+#, fuzzy
 msgid ""
 "Whenever an instant or sorcery spell you control deals damage, put two 1/1 "
 "red and white Soldier creature tokens with haste onto the battlefield."
 msgstr ""
+"Kiedykolwiek sztuczka lub gusła, które kontrolujesz zadadzą obrażenia, połóż "
+"dwóch 1/1 czerwonych i białych stworów, żetonów Soldierów z pośpiechem na "
+"polu walki."
 
 #: Flesh // Blood (Blood)
+#, fuzzy
 msgid ""
 "Target creature you control deals damage equal to its power to target "
 "creature or player."
 msgstr ""
+"Wskazany stwór, którego kontrolujesz zadaje obrażenia równe jego sile "
+"wskazanemu stworowi lub graczowi."
 
+# Jak wytłumaczysz "Wampiryzm" u białych stworów? Przecież to się kojarzy co najwyżej z czarnymi.
 #: Blood Baron of Vizkopa
 msgid "Lifelink, protection from white and from black"
-msgstr ""
+msgstr "Więź życia, ochrona przed białym i przed czarnym."
 
+#, fuzzy
 msgid ""
 "As long as you have 30 or more life and an opponent has 10 or less life, "
 "Blood Baron of Vizkopa gets +6/+6 and has flying."
@@ -141,31 +150,39 @@ msgstr ""
 "mniej życia, Blood Baron of Vizkopa otrzymuje +6/+6 i Latanie."
 
 #: Blood Scrivener
+#, fuzzy
 msgid ""
 "If you would draw a card while you have no cards in hand, instead draw two "
 "cards and lose 1 life."
 msgstr ""
-"Jeśli mógłbyś pociągnąć kartę nie posiadając kart na ręce, zamiast tego "
-"pociągnij dwie karty i strać 1 życia."
+"Jeśli mógłbyś dobrać kartę nie posiadając kart na ręce, zamiast tego dobierz "
+"dwie karty i strać 1 życia."
 
 #: Boros Battleshaper
+#, fuzzy
 msgid ""
 "At the beginning of each combat, up to one target creature attacks or blocks "
 "this combat if able and up to one target creature can't attack or block this "
 "combat."
 msgstr ""
+"Na początku każdej walki, maksymalnie jeden wybrany stwór atakuje lub "
+"blokuje tej walki jeśli to możliwe i maksymalnie jeden wybrany stwór nie "
+"atakuje lub nie blokuje tej walki."
 
 # Słusznie przetłumaczone "or" - musi być "albo", gdyż w języku polskim "lub" zawiera w sobie "oraz". Taka tam logiczna ciekawostka :P
 #: Boros Cluestone
+#, fuzzy
 msgid "{T}: Add {R} or {W} to your mana pool."
 msgstr "{T}: Dodaj {R} albo {W} do twojego zasobnika many."
 
 msgid "{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card."
-msgstr ""
+msgstr "{R}{W}, {T}, poświęć Boros Cluestone: Dobierz kartę."
 
+# Ciekawa koncepcja na tłumaczenie "tapped" - wymaga jeszcze pracy, ale podoba mi się koncepcja.
 #: Boros Guildgate
+#, fuzzy
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Boros Guildgate wchodzi na pole walki przemęczony."
 
 #: Boros Mastiff
 msgid ""
@@ -173,37 +190,50 @@ msgid ""
 "Boros Mastiff gains lifelink until end of turn. (Damage dealt by a creature "
 "with lifelink also causes its controller to gain that much life.)"
 msgstr ""
+"Batalion — Zawsze, gdy Boros Mastiff i przynajmniej dwa inne stwory atakują, "
+"Boros Mastiff zyskuje Więź Życia do końca tury. (Obrażenia zadane przez "
+"stwora z Więzią Życia powodują zyskanie tej samej ilości życia przez jego "
+"właściciela.)"
 
 #: Breaking // Entering (Breaking)
+#, fuzzy
 msgid ""
 "Target player puts the top eight cards of his or her library into his or her "
 "graveyard."
 msgstr ""
+"Wskazany gracz kładzie osiem wierzchnich kart swojej biblioteki na swój "
+"cmentarz."
 
 #: Bred for the Hunt
+#, fuzzy
 msgid ""
 "Whenever a creature you control with a +1/+1 counter on it deals combat "
 "damage to a player, you may draw a card."
 msgstr ""
+"Kiedykolwiek stwór którego kontrolujesz ze znacznikami +1/+1 na nim zada "
+"obrażenia bojowe graczowi, możesz dobrać kartę."
 
 #: Bronzebeak Moa
+#, fuzzy
 msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "Bronzebeak Moa gets +3/+3 until end of turn."
 msgstr ""
+"Kiedykolwiek inny stwór wchodzi na pole walki pod twoja kontrolą, Bronzebeak "
+"Moa otrzymuje +3/+3 do końca tury."
 
 #: Turn // Burn (Burn)
 msgid "Burn deals 2 damage to target creature or player."
-msgstr ""
+msgstr "Burn zadaje 2 obrażenia wskazanemu stworowi lub graczowi."
 
 #: Beck // Call (Call)
 msgid ""
 "Put four 1/1 white Bird creature tokens with flying onto the battlefield."
-msgstr ""
+msgstr "Połóż na polu walki cztery żetony białych stworów Bird 1/1 z Lataniem."
 
 #: Carnage Gladiator
 msgid "Whenever a creature blocks, that creature's controller loses 1 life."
-msgstr ""
+msgstr "Zawsze, gdy jakiś stwór blokuje, kontroler tego stwora traci 1 życie."
 
 msgid "{1}{B}{R}: Regenerate Carnage Gladiator."
 msgstr ""
@@ -216,7 +246,7 @@ msgstr ""
 
 #: Clear a Path
 msgid "Destroy target creature with defender."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z Obrońcą."
 
 #: Council of the Absolute
 msgid ""
