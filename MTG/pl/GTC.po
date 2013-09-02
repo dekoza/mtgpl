@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-02 14:16+0200\n"
+"PO-Revision-Date: 2013-09-02 16:02+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378127796.175139\n"
+"X-POOTLE-MTIME: 1378134130.695215\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -886,16 +886,16 @@ msgstr ""
 
 #: Merciless Eviction
 msgid "Choose one — Exile all artifacts"
-msgstr ""
+msgstr "Wybierz jedno — Wygnaj wszystkie artefakty"
 
 msgid " or exile all creatures"
-msgstr ""
+msgstr " albo wygnaj wszystkie stwory"
 
 msgid " or exile all enchantments"
-msgstr ""
+msgstr " albo wygnaj wszystkie uroki"
 
 msgid " or exile all planeswalkers."
-msgstr " lub wygnaj wszystkich Wędrowców."
+msgstr "Wskazany gracz odrzuca kartę."
 
 #: Merfolk of the Depths Shambleshark
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
