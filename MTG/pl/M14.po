@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 19:33+0200\n"
+"PO-Revision-Date: 2013-09-03 20:14+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378233185.466426\n"
+"X-POOTLE-MTIME: 1378235679.397158\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -34,8 +34,8 @@ msgid ""
 "Whenever Academy Raider deals combat damage to a player, you may discard a "
 "card. If you do, draw a card."
 msgstr ""
-"Zawsze, gdy Academy Rider zada graczowi obrażenia bitewne, możesz odrzucić "
-"kartę. Jeśli tak zrobisz, dobierz kartę."
+"Zawsze, gdy Łupieżca Akademii zada graczowi obrażenia bitewne, możesz "
+"odrzucić kartę. Jeśli tak zrobisz, dobierz kartę."
 
 #: Accorder's Shield
 msgid ""
@@ -65,8 +65,8 @@ msgid ""
 "At the beginning of your end step, put a +1/+1 counter on target Beast "
 "creature you control."
 msgstr ""
-"Na początku swojego kroku końcowego połóż znacznik na wskazanym stworze "
-"Beast będącego pod twoją kontrolą."
+"Na początku swojego kroku końcowego połóż znacznik +1/+1 na wskazanej Bestii "
+"będącej pod twoją kontrolą."
 
 #: Air Servant Archangel of Thune Chandra's Phoenix Charging Griffin Deathgaze
 #: Cockatrice Dragon Hatchling Sentinel Jace's Mindseeker Messenger Drake
@@ -90,7 +90,7 @@ msgid ""
 "-8: Put X 2/2 white Cat creature tokens onto the battlefield, where X is "
 "your life total."
 msgstr ""
-"-8: Połóż na polu walki X żetonów białych stworów Cat 2/2, gdzie X jest "
+"-8: Połóż na polu walki X żetonów białych stworów Kot 2/2, gdzie X jest "
 "liczbą twoich punktów życia."
 
 #: Ajani's Chosen
@@ -100,10 +100,11 @@ msgid ""
 "Aura, you may attach it to the token."
 msgstr ""
 "Zawsze, gdy na pole walki pod twoją kontrolę wejdzie urok, połóż na polu "
-"walki żeton białego stwora Cat 2/2. Jeśli ten urok jest aurą, możesz "
+"walki żeton białego stwora Kot 2/2. Jeśli ten urok jest aurą, możesz "
 "dołączyć go do tego żetonu."
 
 #: Altar's Reap
+#, fuzzy
 msgid "As an additional cost to cast Altar's Reap, sacrifice a creature."
 msgstr "Poświęć stwora jako dodatkowy koszt podczas rzucania Altar's Reap."
 
@@ -128,8 +129,8 @@ msgid ""
 "When Archaeomancer enters the battlefield, return target instant or sorcery "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy Archaeomancer wchodzi na pole walki, przywróć wskazaną kartę Sztuczki "
-"lub Guseł ze swojego cmentarza do swojej ręki."
+"Kiedy Archeomanta wchodzi na pole walki, przywróć wskazaną kartę sztuczki "
+"lub guseł ze swojego cmentarza do swojej ręki."
 
 #: Child of Night
 msgid ""
@@ -161,8 +162,8 @@ msgid ""
 "When Auramancer enters the battlefield, you may return target enchantment "
 "card from your graveyard to your hand."
 msgstr ""
-"Kiedy Auramancer wchodzi na pole walki, możesz przywrócić wskazaną kartę "
-"Uroku ze swojego cmentarza do swojej ręki."
+"Kiedy Auromanta wchodzi na pole walki, możesz przywrócić wskazaną kartę "
+"uroku ze swojego cmentarza do swojej ręki."
 
 #: Awaken the Ancient
 msgid "Enchant Mountain"
@@ -175,6 +176,7 @@ msgstr ""
 "jest lądem."
 
 #: Banisher Priest
+#, fuzzy
 msgid ""
 "When Banisher Priest enters the battlefield, exile target creature an "
 "opponent controls until Banisher Priest leaves the battlefield. (That "
@@ -189,7 +191,7 @@ msgid ""
 "{R}, Sacrifice a creature: Barrage of Expendables deals 1 damage to target "
 "creature or player."
 msgstr ""
-"{R}, poświęć stwora: Barrage of Expendables zadaje 1 obrażenie wskazanemu "
+"{R}, poświęć stwora: Kanonada Straceńców zadaje 1 obrażenie wskazanemu "
 "stworowi lub graczowi."
 
 #: Battle Sliver
@@ -215,7 +217,7 @@ msgstr ""
 
 #: Blood Bairn
 msgid "Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn."
-msgstr "Poświęć innego stwora: Blood Bairn dostaje +2/+2 do końca tury."
+msgstr "Poświęć innego stwora: Dziecię Krwi dostaje +2/+2 do końca tury."
 
 #: Blur Sliver
 msgid ""
@@ -261,6 +263,7 @@ msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
 "Błysk (Możesz zagrać ten czar w każdej chwili, gdy możesz zagrać Sztuczkę.)"
 
+#, fuzzy
 msgid ""
 "When Briarpack Alpha enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
@@ -270,7 +273,7 @@ msgstr ""
 
 #: Brindle Boar
 msgid "Sacrifice Brindle Boar: You gain 4 life."
-msgstr "Poświęć Brindle Boar: Zyskujesz 4 życia."
+msgstr "Poświęć Moręgowatego Dzika: Zyskujesz 4 życia."
 
 #: Bubbling Cauldron
 msgid "{1}, {T}, Sacrifice a creature: You gain 4 life."
@@ -280,16 +283,15 @@ msgid ""
 "{1}, {T}, Sacrifice a creature named Festering Newt: Each opponent loses 4 "
 "life. You gain life equal to the life lost this way."
 msgstr ""
-"{1}, {T}, poświęć stwora o nazwie Festering Newt: Każdy przeciwnik traci 4 "
-"życia. Zyskujesz tyle życia, ile stracono w ten sposób."
+"{1}, {T}, poświęć stwora o nazwie Zaropiała Traszka: Każdy przeciwnik traci "
+"4 życia. Zyskujesz tyle życia, ile stracono w ten sposób."
 
 #: Burning Earth
-#, fuzzy
 msgid ""
 "Whenever a player taps a nonbasic land for mana, Burning Earth deals 1 "
 "damage to that player."
 msgstr ""
-"Zawsze, gdy jakiś gracz używa niepodstawowego lądu dla many, Burning Earth "
+"Zawsze, gdy jakiś gracz używa niepodstawowego lądu dla many, Płonąca Ziemia "
 "zadaje 1 obrażenie temu graczowi."
 
 #: Cancel
@@ -305,7 +307,7 @@ msgstr ""
 "Pierwszego Ciosu.)"
 
 msgid "{1}{W}: Capashen Knight gets +1/+0 until end of turn."
-msgstr "{1}{W}: Capashen Knight dostaje +1/+0 do końca tury."
+msgstr "{1}{W}: Rycerz z Capashen dostaje +1/+0 do końca tury."
 
 #: Celestial Flare
 msgid "Target player sacrifices an attacking or blocking creature."
@@ -317,13 +319,13 @@ msgid ""
 "to one target creature that player controls. That creature can't block this "
 "turn."
 msgstr ""
-"+1: Chandra, Pyromaster zadaje 1 obrażenie wskazanemu graczowi i 1 obrażenie "
+"+1: Chandra, Piromistrz zadaje 1 obrażenie wskazanemu graczowi i 1 obrażenie "
 "najwyżej jednemu stworowi pod kontrolą tego gracza. Ów stwór nie może "
 "blokować w tej turze."
 
 msgid "0: Exile the top card of your library. You may play it this turn."
 msgstr ""
-"0: Usuń z gry górną kartę ze swojej biblioteki. Możesz ją zagrać w tej "
+"0: Usuń z gry wierzchnią kartę ze swojej biblioteki. Możesz ją zagrać w tej "
 "turze."
 
 msgid ""
@@ -331,16 +333,17 @@ msgid ""
 "card exiled this way and copy it three times. You may cast the copies "
 "without paying their mana costs."
 msgstr ""
-"-7: Usuń z gry dziesięć górnych kart swojej biblioteki. Wybierz spośród nich "
-"kartę sztuczki lub guseł i skopiuj trzykrotnie. Możesz rzucić te kopie bez "
-"płacenia kosztów many."
+"-7: Usuń z gry dziesięć wierzchnich kart swojej biblioteki. Wybierz spośród "
+"nich kartę sztuczki lub guseł i skopiuj trzykrotnie. Możesz rzucić te kopie "
+"bez płacenia kosztów many."
 
 #: Chandra's Outrage
+#, fuzzy
 msgid ""
 "Chandra's Outrage deals 4 damage to target creature and 2 damage to that "
 "creature's controller."
 msgstr ""
-"Chandra's Outrage zadaje 4 obrażenia wskazanemu stworowi oraz 2 obrażenia "
+"Gniew Chandry zadaje 4 obrażenia wskazanemu stworowi oraz 2 obrażenia "
 "kontrolującego go graczowi."
 
 msgid ""
@@ -361,10 +364,10 @@ msgstr ""
 "swojej ręki."
 
 msgid "Whenever Charging Griffin attacks, it gets +1/+1 until end of turn."
-msgstr "Zawsze gdy Charging Griffin atakuje, dostaje +1/+1 do końca tury."
+msgstr "Zawsze gdy Szarżujący Gryf atakuje, dostaje +1/+1 do końca tury."
 
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr "Gdy Claustrophobia wchodzi na pole walki, zużyj zauroczonego stwora."
+msgstr "Gdy Klaustrofobia wchodzi na pole walki, zużyj zauroczonego stwora."
 
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
@@ -376,7 +379,7 @@ msgid ""
 "You may have Clone enter the battlefield as a copy of any creature on the "
 "battlefield."
 msgstr ""
-"Możesz sprawić, że Clone wejdzie na pole walki jako kopia dowolnego stwora "
+"Możesz sprawić, że Klon wejdzie na pole walki jako kopia dowolnego stwora "
 "znajdującego się na polu walki."
 
 #: Colossal Whale Merfolk Spy
@@ -392,9 +395,9 @@ msgid ""
 "player controls until Colossal Whale leaves the battlefield. (That creature "
 "returns under its owner's control.)"
 msgstr ""
-"Zawsze, gdy Colossal Whale atakuje, możesz usunąć z gry wskazanego stwora "
+"Zawsze, gdy Kolosalny Waleń atakuje, możesz usunąć z gry wskazanego stwora "
 "będącego pod kontrolą broniącego się gracza do czasu opuszczenia pola walki "
-"przez Colossal Whale. (Usunięty stwór wraca pod kontrolę swojego "
+"przez Kolosalnego Walenia. (Usunięty stwór wraca pod kontrolę swojego "
 "właściciela.)"
 
 #: Congregate
@@ -406,23 +409,23 @@ msgid ""
 "{2}{B}, Sacrifice Corpse Hauler: Return another target creature card from "
 "your graveyard to your hand."
 msgstr ""
-"{2}{B}, poświęć Corpse Hauler: Przywróć inną wskazaną kartę stwora ze "
-"swojego cmentarza do swojej ręki."
+"{2}{B}, poświęć Wozaka Zwłok: Przywróć inną wskazaną kartę stwora ze swojego "
+"cmentarza do swojej ręki."
 
 #: Corrupt
 msgid ""
 "Corrupt deals damage equal to the number of Swamps you control to target "
 "creature or player. You gain life equal to the damage dealt this way."
 msgstr ""
-"Corrupt zadaje wskazanemu stworowi lub graczowi obrażenia równe liczbie "
+"Zepsucie zadaje wskazanemu stworowi lub graczowi obrażenia równe liczbie "
 "kontrolowanych przez ciebie Bagien. Zyskujesz punkty życia równe obrażeniom "
 "zadanym w ten sposób."
 
 msgid "Cyclops Tyrant can't block creatures with power 2 or less."
-msgstr "Cyclops Tyrant nie może blokować stworów o Sile 2 lub mniej."
+msgstr "Cyklop Tyran nie może blokować stworów o sile 2 lub mniej."
 
 msgid "When Dark Favor enters the battlefield, you lose 1 life."
-msgstr "Kiedy Dark Favor wchodzi na pole walki, tracisz 1 życie."
+msgstr "Kiedy Mroczna Łaska wchodzi na pole walki, tracisz 1 życie."
 
 msgid "Enchanted creature gets +3/+1."
 msgstr "Zauroczony stwór dostaje +3/+1."
@@ -506,7 +509,7 @@ msgid "Return target nonland permanent to its owner's hand."
 msgstr "Zwróć wskazany permanent nie będący lądem do ręki jego właściciela."
 
 msgid "When Divine Favor enters the battlefield, you gain 3 life."
-msgstr "Kiedy Divine Faver wchodzi na pole walki, dostajesz 3 życia."
+msgstr "Kiedy Boska Łaska wchodzi na pole walki, dostajesz 3 życia."
 
 msgid "Enchanted creature gets +1/+3."
 msgstr "Zauroczony stwór dostaje +1/+3."
@@ -527,41 +530,42 @@ msgstr "Zniszcz wskazanego nieczarnego stwora."
 
 #: Door of Destinies
 msgid "As Door of Destinies enters the battlefield, choose a creature type."
-msgstr "Gdy Door of Destinies wchodzi na pole walki, wybierz typ stwora."
+msgstr "Gdy Drzwi Przeznaczeń wchodzą na pole walki, wybierz typ stwora."
 
 msgid ""
 "Whenever you cast a spell of the chosen type, put a charge counter on Door "
 "of Destinies."
 msgstr ""
-"Zawsze gdy rzucasz czar wybranego typu, połóż znacznik ładowania na Door of "
-"Destinies."
+"Zawsze gdy rzucasz czar wybranego typu, połóż znacznik ładowania na Drzwiach "
+"Przeznaczeń."
 
 msgid ""
 "Creatures you control of the chosen type get +1/+1 for each charge counter "
 "on Door of Destinies."
 msgstr ""
-"Stwory wybranego typu, które kontrolujesz dostają +1/+1 za każdy znacznik "
-"ładowania na Door of Destinies."
+"Kontrolowane przez ciebie stwory wybranego typu dostają +1/+1 za każdy "
+"znacznik ładowania na Drzwiach Przeznaczeń."
 
 msgid ""
 "When Dragon Egg dies, put a 2/2 red Dragon creature token with flying onto "
 "the battlefield. It has \"{R}: This creature gets +1/+0 until end of turn.\""
 msgstr ""
-"Kiedy Dragon Egg umiera, połóż na polu walki żeton czerwonego stwora Dragon "
+"Kiedy Smocze Jajo umiera, połóż na polu walki żeton czerwonego stwora Smok "
 "2/2 z Lataniem oraz \"{R}: Ten stwór dostaje +1/+0 do końca tury.\""
 
 msgid "{R}: Dragon Hatchling gets +1/+0 until end of turn."
-msgstr "{R}: Dragon Hatchling dostaje +1/+0 do końca tury."
+msgstr "{R}: Wykluty Smok dostaje +1/+0 do końca tury."
 
 #: Duress
 msgid ""
 "Target opponent reveals his or her hand. You choose a noncreature, nonland "
 "card from it. That player discards that card."
 msgstr ""
-"Wskazany przeciwnik pokazuje rękę. Wybierasz z niej kartę nie będącą stworem "
+"Wskazany przeciwnik ujawnia rękę. Wybierasz z niej kartę nie będącą stworem "
 "ani lądem. Ów gracz odrzuca tamtą kartę."
 
 #: Elite Arcanist
+#, fuzzy
 msgid ""
 "When Elite Arcanist enters the battlefield, you may exile an instant card "
 "from your hand."
@@ -592,9 +596,11 @@ msgstr "{T}: Dodaj {G} to swojego zasobnika many."
 msgid "{T}: Add {1} to your mana pool."
 msgstr "{T}: Dodaj {1} do swojego zasobnika many."
 
+#, fuzzy
 msgid "{4}, {T}, Sacrifice Encroaching Wastes: Destroy target nonbasic land."
 msgstr ""
-"{4}, {T}, poświęć Encroaching Wastes: Zniszcz wskazany niepodstawowy ląd."
+"{4}, {T}, poświęć Wdzierające się Pustkowie: Zniszcz wskazany niepodstawowy "
+"ląd."
 
 #: Enlarge
 msgid ""
@@ -618,9 +624,9 @@ msgid ""
 "until end of turn. That creature gets -4/-4 instead if you control a "
 "creature named Bogbrew Witch."
 msgstr ""
-"Gdy Festering Newt umiera, wskazany stwór kontrolowany przez przeciwnika "
+"Gdy Zaropiała Traszka umiera, wskazany stwór kontrolowany przez przeciwnika "
 "dostaje -1/-1 do końca tury. Ów stwór dostaje zamiast tego -4/-4 jeśli "
-"kontrolujesz stwora o nazwie Bogbrew Witch."
+"kontrolujesz stwora o nazwie Wiedźma z Bagien."
 
 #: Fiendslayer Paladin
 msgid ""
@@ -634,16 +640,15 @@ msgid ""
 "Fiendslayer Paladin can't be the target of black or red spells your "
 "opponents control."
 msgstr ""
-"Fiendslayer Paladin nie może być wskazywany przez czarne lub czerwone czary "
+"Paladyn Diablobójca nie może być wskazywany przez czarne lub czerwone czary "
 "kontrolowane przez twoich przeciwników."
 
 #: Fireshrieker
-#, fuzzy
 msgid ""
 "Equipped creature has double strike. (It deals both first-strike and regular "
 "combat damage.)"
 msgstr ""
-"Wyposażony stwór ma Podwójny Cios. (Zadaje obrażenia bitewne zarówno jako "
+"Wyposażony stwór ma Podwójny Cios. (Zadaje obrażenia bojowe zarówno jako "
 "Pierwszy Cios oraz normalnie.)"
 
 msgid ""
@@ -667,7 +672,7 @@ msgid ""
 "When Fleshpulper Giant enters the battlefield, you may destroy target "
 "creature with toughness 2 or less."
 msgstr ""
-"Kiedy Fleshpulper Giant wchodzi na pole walki, możesz zniszczyć wskazanego "
+"Kiedy Gigant Mięsogniot wchodzi na pole walki, możesz zniszczyć wskazanego "
 "stwora z wytrzymałością 2 lub mniej."
 
 #: Fog
@@ -704,9 +709,9 @@ msgid ""
 "revealed this way into your hand and the rest on the bottom of your library "
 "in any order."
 msgstr ""
-"+1: Pokaż pięć górnych kart swojej biblioteki. Weź wszystkie stwory pokazane "
-"w ten sposób do ręki, a pozostałe karty połóż na spód swojej biblioteki w "
-"dowolnej kolejności."
+"+1: Ujawnij pięć wierzchnich kart swojej biblioteki. Weź wszystkie stwory "
+"pokazane w ten sposób do ręki, a pozostałe karty połóż na spód swojej "
+"biblioteki w dowolnej kolejności."
 
 msgid ""
 "-3: You may put a green creature card from your hand onto the battlefield."
@@ -726,16 +731,16 @@ msgid "Trample"
 msgstr "Tratowanie"
 
 msgid "Play with the top card of your library revealed."
-msgstr "Graj z ujawnioną górną kartą swojej biblioteki."
+msgstr "Graj z ujawnioną wierzchnią kartą swojej biblioteki."
 
 msgid ""
 "You may cast the top card of your library if it's a creature card. (Do this "
 "only any time you could cast that creature card. You still pay the spell's "
 "costs.)"
 msgstr ""
-"Możesz zagrać górną kartę ze swojej biblioteki jeśli jest to karta stwora. "
-"(Zrób to tylko w chwili, gdy możesz zagrać tego stwora. Nadal musisz opłacić "
-"koszty.)"
+"Możesz zagrać wierzchnią kartę ze swojej biblioteki jeśli jest to karta "
+"stwora. (Zrób to tylko w chwili, gdy możesz zagrać tego stwora. Nadal musisz "
+"opłacić koszty.)"
 
 #: Giant Growth
 msgid "Target creature gets +3/+3 until end of turn."
@@ -754,8 +759,8 @@ msgid ""
 "Look at the top three cards of your library. Put one of them into your hand "
 "and the rest into your graveyard."
 msgstr ""
-"Obejrzyj trzy górne karty swojej biblioteki. Połóż jedną z nich do swojej "
-"ręki, a pozostałe do swojego cmentarza."
+"Obejrzyj trzy wierzchnie karty swojej biblioteki. Połóż jedną z nich do "
+"swojej ręki, a pozostałe do swojego cmentarza."
 
 #: Gnawing Zombie
 msgid ""
@@ -877,8 +882,8 @@ msgid ""
 "At the beginning of your upkeep, look at the top card of your library. If "
 "it's a land card, you may put it onto the battlefield."
 msgstr ""
-"Na początku swojego rozliczania, spójrz na górną kartę swojej biblioteki. "
-"Jeśli jest to karta lądu, możesz położyć ją na polu walki."
+"Na początku swojego rozliczania, spójrz na wierzchnią kartę swojej "
+"biblioteki. Jeśli jest to karta lądu, możesz położyć ją na polu walki."
 
 #: Island
 msgid "U"
@@ -889,14 +894,14 @@ msgid ""
 "+1: Draw a card. Target player puts the top card of his or her library into "
 "his or her graveyard."
 msgstr ""
-"+1: Dobierz kartę. Wskazany gracz kładzie górną kartę ze swojej biblioteki "
-"do swojego cmentarza."
+"+1: Dobierz kartę. Wskazany gracz kładzie wierzchnią kartę ze swojej "
+"biblioteki do swojego cmentarza."
 
 msgid ""
 "0: Target player puts the top ten cards of his or her library into his or "
 "her graveyard."
 msgstr ""
-"0: Wskazany gracz kładzie dziesięć górnych kart ze swojej biblioteki do "
+"0: Wskazany gracz kładzie dziesięć wierzchnich kart ze swojej biblioteki do "
 "swojego cmentarza."
 
 #, fuzzy
@@ -909,8 +914,8 @@ msgid ""
 "instant or sorcery card from among them without paying its mana cost."
 msgstr ""
 "Kiedy Jace's Mindseeker wchodzi na pole walki, wskazany przeciwnik przekłada "
-"pięć górnych kart ze swojej biblioteki do swojego cmentarza. Możesz rzucić "
-"sztuczkę lub gusła spośród tych kart bez płacenia kosztu many."
+"pięć wierzchnich kart ze swojej biblioteki do swojego cmentarza. Możesz "
+"rzucić sztuczkę lub gusła spośród tych kart bez płacenia kosztu many."
 
 msgid "Kalonian Hydra enters the battlefield with four +1/+1 counters on it."
 msgstr ""
@@ -932,7 +937,7 @@ msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle your library."
 msgstr ""
-"Poszukaj w swojej bibliotece karty podstawowego lądu, pokaż ją i połóż do "
+"Poszukaj w swojej bibliotece karty podstawowego lądu, ujawnij ją i połóż do "
 "swojej ręki, a następnie przetasuj bibliotekę."
 
 msgid ""
@@ -940,7 +945,7 @@ msgid ""
 "her hand. You choose a green or white creature card from it and exile that "
 "card."
 msgstr ""
-"Gdy Lifebane Zombie wchodzi na pole walki, wskazany przeciwnik odkrywa rękę. "
+"Gdy Lifebane Zombie wchodzi na pole walki, wskazany przeciwnik ujawnia rękę. "
 "Wybierasz z niej zieloną lub białą kartę stwora i usuwasz ją z gry."
 
 msgid ""
@@ -955,8 +960,8 @@ msgid ""
 "+1: Search your library for a Swamp card, reveal it, and put it into your "
 "hand. Then shuffle your library."
 msgstr ""
-"+1: Poszukaj karty Swamp w swojej bibliotece, pokaż ją i umieść ją w swojej "
-"ręce. Następnie przetasuj swoją bibliotekę."
+"+1: Poszukaj karty Swamp w swojej bibliotece, ujawnij ją i umieść ją w "
+"swojej ręce. Następnie przetasuj swoją bibliotekę."
 
 #, fuzzy
 msgid ""
@@ -1025,7 +1030,7 @@ msgid ""
 "Whenever Merfolk Spy deals combat damage to a player, that player reveals a "
 "card at random from his or her hand."
 msgstr ""
-"Zawsze, gdy Merfolk Spy zadaje graczowi obrażenia bojowe, ów gracz pokazuje "
+"Zawsze, gdy Merfolk Spy zadaje graczowi obrażenia bojowe, ów gracz ujawnia "
 "losową kartę ze swojej ręki."
 
 msgid "When Messenger Drake dies, draw a card."
@@ -1036,8 +1041,8 @@ msgid ""
 "{2}, {T}: Target player puts the top two cards of his or her library into "
 "his or her graveyard."
 msgstr ""
-"{2}, {T}: Wskazany gracz przekłada dwie górne karty ze swojej biblioteki do "
-"swojego cmentarza."
+"{2}, {T}: Wskazany gracz przekłada dwie wierzchnie karty ze swojej "
+"biblioteki do swojego cmentarza."
 
 #: Mind Rot
 msgid "Target player discards two cards."
@@ -1540,14 +1545,14 @@ msgstr ""
 
 #: Time Ebb
 msgid "Put target creature on top of its owner's library."
-msgstr "Połóż wskazanego stwora na górze biblioteki jego właściciela."
+msgstr "Połóż wskazanego stwora na wierzchu biblioteki jego właściciela."
 
 #: Tome Scour
 msgid ""
 "Target player puts the top five cards of his or her library into his or her "
 "graveyard."
 msgstr ""
-"Wskazany gracz przekłada pięć górnych kart swojej biblioteki do swojego "
+"Wskazany gracz przekłada pięć wierzchnich kart swojej biblioteki do swojego "
 "cmentarza."
 
 #: Trading Post
@@ -1582,8 +1587,8 @@ msgid ""
 "Target player puts the top half of his or her library, rounded down, into "
 "his or her graveyard."
 msgstr ""
-"Wskazany gracz przekłada górną połowę swojej biblioteki, zaokrągloną w dół, "
-"do swojego cmentarza."
+"Wskazany gracz przekłada wierzchnią połowę swojej biblioteki, zaokrągloną w "
+"dół, do swojego cmentarza."
 
 msgid ""
 "Enchanted creature gets +2/+2 and has \"{1}{G}: Regenerate this creature."

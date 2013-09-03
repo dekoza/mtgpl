@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 02:36+0200\n"
-"PO-Revision-Date: 2013-09-03 08:00+0200\n"
+"PO-Revision-Date: 2013-09-03 19:38+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,19 +17,21 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378191656.115856\n"
+"X-POOTLE-MTIME: 1378233531.39752\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Abrupt Decay
 msgid "Abrupt Decay can't be countered by spells or abilities."
-msgstr ""
+msgstr "Abrupt Decay nie może być skontrowany przez czary i zdolności."
 
 msgid "Destroy target nonland permanent with converted mana cost 3 or less."
 msgstr ""
+"Zniszcz wskazany permanent nie będący lądem o łącznym koszcie many 3 lub "
+"mniej."
 
 #: Aerial Predation
 msgid "Destroy target creature with flying. You gain 2 life."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z Lataniem. Zyskujesz 2 życia."
 
 #: Angel of Serenity Archon the Triumvirate Chaos Imps Concordia Pegasus
 #: Daggerdrome Imp Dark Revenant Desecration Demon Faerie Impostor Isperia,
@@ -58,7 +60,7 @@ msgstr ""
 
 #: Aquus Steed
 msgid "{2}{U}, {T}: Target creature gets -2/-0 until end of turn."
-msgstr ""
+msgstr "{2}{U}, {T}: Wskazany stwór dostaje -2/-0 do końca tury."
 
 msgid ""
 "Whenever Archon of the Triumvirate attacks, detain up to two target nonland "
@@ -80,9 +82,10 @@ msgid ""
 "with trample onto the battlefield."
 msgstr ""
 
+# A co tam, tłumaczymy też nazwy kart :D
 #: Armory Guard
 msgid "Armory Guard has vigilance as long as you control a Gate."
-msgstr ""
+msgstr "Strażnik Zbrojowni ma Czujność tak długo, jak długo kontrolujesz Bramę."
 
 #: Arrest Deviant Glee Ethereal Armor Knightly Valor Paralyzing Grasp Pursuit
 #: of Flight Righteous Authority Stab Wound
@@ -109,7 +112,7 @@ msgstr ""
 
 #: Auger Spree
 msgid "Target creature gets +4/-4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje +4/-4 do końca tury."
 
 #: Avenging Arrow
 msgid "Destroy target creature that dealt damage this turn."
