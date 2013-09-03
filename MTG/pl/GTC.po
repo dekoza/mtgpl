@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-02 16:02+0200\n"
+"PO-Revision-Date: 2013-09-03 07:44+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378134130.695215\n"
+"X-POOTLE-MTIME: 1378190676.763476\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -58,7 +58,7 @@ msgstr "{2}{U}: Zwróć Agoraphobia do ręki właściciela."
 
 #: Alms Beast
 msgid "Creatures blocking or blocked by Alms Beast have lifelink."
-msgstr ""
+msgstr "Stwory blokujące lub blokowane przez Alms Beast mają Więź Życia."
 
 msgid ""
 "Enchanted creature has hexproof and can't be blocked by more than one "
@@ -81,6 +81,8 @@ msgid ""
 "At the beginning of each combat, choose first strike, vigilance, or "
 "lifelink. Creatures you control gain that ability until end of turn."
 msgstr ""
+"Na początku każdej walki wybierz Pierwszy Cios, Czujność lub Więź Życia. "
+"Stwory, które kontrolujesz dostają tę zdolność do końca tury."
 
 #: Armored Transport
 msgid ""
@@ -217,11 +219,15 @@ msgstr ""
 msgid "{T}: Add {R} or {W} to your mana pool."
 msgstr ""
 
+#, fuzzy
 msgid ""
 "{R}{W}: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature "
 "with double strike until end of turn. (It deals both first-strike and "
 "regular combat damage.)"
 msgstr ""
+"{R}{W}: Do końca tury Boros Keyrune staje się czerwono-białym artefaktycznym "
+"stworem Soldier 1/1 z Podwójnym Ciosem. (Zadaje obrażenia jako Pierwszy "
+"Cios oraz normalnie.)"
 
 #: Boros Reckoner
 msgid ""
@@ -408,6 +414,8 @@ msgid ""
 "{U}{B}: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature "
 "until end of turn and can't be blocked this turn."
 msgstr ""
+"{U}{B}: Do końca tury Dimir Keyrune staje się niebiesko-czarnym "
+"artefaktycznym stworem Horror 2/2 i nie może być blokowany w tej turze."
 
 #: Dinrova Horror
 msgid ""
@@ -609,7 +617,7 @@ msgid "-15: Exile all other permanents."
 msgstr ""
 
 msgid "Enchanted creature gets +1/+1 and has flying and lifelink."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma Latanie oraz Więź Życia."
 
 #: Glaring Spotlight
 msgid ""
@@ -674,6 +682,8 @@ msgid ""
 "{R}{G}: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature "
 "with trample until end of turn."
 msgstr ""
+"{R}{G}: Do końca tury Gruul Keyrune staje się czerwono-zielonym "
+"artefaktycznym stworem Beast 3/2 z Tratowaniem."
 
 #: Gruul Ragebeast
 msgid ""
@@ -1045,6 +1055,8 @@ msgid ""
 "{W}{B}: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact "
 "creature with lifelink until end of turn."
 msgstr ""
+"{W}{B}: Do końca tury Orzhov Keyrune staje się biało-czarnym artefaktycznym "
+"stworem Thrull 1/4 z Więzią Życia."
 
 #: Paranoid Delusions
 msgid ""
@@ -1256,6 +1268,9 @@ msgid ""
 "with hexproof until end of turn. (It can't be the target of spells or "
 "abilities your opponents control.)"
 msgstr ""
+"{G}{U}: Do końca tury Simic Keyrune staje się zielono-niebieskim "
+"artefaktycznym stworem Crab 2/3 z Antyklątwą. (Nie może być wskazywany przez "
+"czary i zdolności kontrolowane przez twoich przeciwników.)"
 
 msgid ""
 "{T}, Remove one or more +1/+1 counters from Simic Manipulator: Gain control "
@@ -1337,7 +1352,7 @@ msgstr ""
 
 #: Spark Trooper
 msgid "Trample, lifelink, haste"
-msgstr ""
+msgstr "Tratowanie, Więź Życia, Pośpiech"
 
 msgid "At the beginning of the end step, sacrifice Spark Trooper."
 msgstr ""
