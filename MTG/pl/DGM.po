@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 07:35+0200\n"
+"PO-Revision-Date: 2013-09-03 07:58+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378190148.99930\n"
+"X-POOTLE-MTIME: 1378191518.607256\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -205,13 +205,12 @@ msgstr ""
 "cmentarz."
 
 #: Bred for the Hunt
-#, fuzzy
 msgid ""
 "Whenever a creature you control with a +1/+1 counter on it deals combat "
 "damage to a player, you may draw a card."
 msgstr ""
-"Kiedykolwiek stwór którego kontrolujesz ze znacznikami +1/+1 na nim zada "
-"obrażenia bojowe graczowi, możesz dobrać kartę."
+"Zawsze, gdy kontrolowany przez ciebie stwór ze znacznikami +1/+1 zada "
+"graczowi obrażenia bojowe, możesz dobrać kartę."
 
 #: Bronzebeak Moa
 #, fuzzy
@@ -1101,6 +1100,8 @@ msgid ""
 "Populate. (Put a token onto the battlefield that's a copy of a creature "
 "token you control.)"
 msgstr ""
+"Zaludnij. (Połóż na polu walki żeton, będący kopią kontrolowanego przez "
+"ciebie żetonu stwora.)"
 
 #: Warleader's Helix
 msgid ""
