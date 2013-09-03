@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 08:53+0200\n"
+"PO-Revision-Date: 2013-09-03 10:11+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378194796.977928\n"
+"X-POOTLE-MTIME: 1378199517.740871\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -1010,7 +1010,7 @@ msgid ""
 msgstr ""
 
 msgid "Rats you control have deathtouch."
-msgstr ""
+msgstr "Kontrolowane przez ciebie stwory Rat mają Dotyk Śmierci."
 
 msgid ""
 "Enchanted creature can't attack or block, and its activated abilities can't "
@@ -1529,7 +1529,7 @@ msgstr ""
 
 #: Wasteland Viper
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk Śmierci"
 
 msgid ""
 "Bloodrush — {G}, Discard Wasteland Viper: Target attacking creature gets +1/"

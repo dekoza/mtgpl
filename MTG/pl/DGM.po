@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 08:52+0200\n"
+"PO-Revision-Date: 2013-09-03 10:10+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378194726.489807\n"
+"X-POOTLE-MTIME: 1378199457.621073\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -77,7 +77,7 @@ msgstr "{W}{U}, {T}, poświęć Azorius Cluestone: Dobierz kartę."
 
 #: Azorius Guildgate
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr "Azorius Guildgate wchodzi na pole walki stapowany."
+msgstr "Azorius Guildgate wchodzi na pole walki jako zużyty."
 
 #: Battering Krasis Maze Behemoth
 msgid "Trample"
@@ -439,7 +439,7 @@ msgid ""
 "creature an opponent controls."
 msgstr ""
 "Zawsze, gdy Haazda Snare Squad atakuje, możesz zapłacić {W}. Jeśli to "
-"zrobisz, tapnij wskazanego stwora kontrolowanego przez przeciwnika."
+"zrobisz, zużyj wskazanego stwora kontrolowanego przez przeciwnika."
 
 #: Haunter of Nightveil
 msgid "Creatures your opponents control get -1/-0."
@@ -494,7 +494,7 @@ msgstr ""
 
 #: Korozda Gorgon
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk Śmierci"
 
 msgid ""
 "{2}, Remove a +1/+1 counter from a creature you control: Target creature "
@@ -556,7 +556,7 @@ msgstr ""
 
 #: Master of Cruelties
 msgid "First strike, deathtouch"
-msgstr ""
+msgstr "Pierwszy Cios, Dotyk Śmierci"
 
 msgid "Master of Cruelties can only attack alone."
 msgstr ""
@@ -580,9 +580,11 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk Śmierci (Stwór otrzymujący od tego jakiekolwiek obrażenia zostaje "
+"zniszczony.)"
 
 msgid "Multicolored creatures you control have deathtouch."
-msgstr ""
+msgstr "Kontrolowane przez ciebie wielokolorowe stwory mają Dotyk Śmierci."
 
 msgid "Multicolored creatures you control have trample."
 msgstr ""

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 09:48+0200\n"
+"PO-Revision-Date: 2013-09-03 10:09+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378198133.154601\n"
+"X-POOTLE-MTIME: 1378199396.304681\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -68,7 +68,6 @@ msgstr ""
 msgid "Flying"
 msgstr "Latanie"
 
-#, fuzzy
 msgid "{2}{U}: Tap target creature with flying."
 msgstr "{2}{U}: Zużyj wskazanego stwora z Lataniem."
 
@@ -173,9 +172,9 @@ msgid ""
 "opponent controls until Banisher Priest leaves the battlefield. (That "
 "creature returns under its owner's control.)"
 msgstr ""
-"Kiedy Banisher Priest wchodzi na pole walki, wygnaj wskazanego stwora "
+"Kiedy Banisher Priest wchodzi na pole walki, usuń wskazanego stwora "
 "kontrolowanego przez przeciwnika do czasu, aż Banisher Priest opuści pole "
-"walki. (Wygnany stwór wraca pod kontrolę swojego właściciela.)"
+"walki. (Usunięty stwór wraca pod kontrolę swojego właściciela.)"
 
 #: Barrage of Expendables
 msgid ""
@@ -315,20 +314,24 @@ msgstr ""
 "blokować w tej turze."
 
 msgid "0: Exile the top card of your library. You may play it this turn."
-msgstr ""
-"0: Wygnaj górną kartę ze swojej biblioteki. Możesz ją zagrać w tej turze."
+msgstr "0: Usuń górną kartę ze swojej biblioteki. Możesz ją zagrać w tej turze."
 
 msgid ""
 "-7: Exile the top ten cards of your library. Choose an instant or sorcery "
 "card exiled this way and copy it three times. You may cast the copies "
 "without paying their mana costs."
 msgstr ""
+"-7: Usuń dziesięć górnych kart swojej biblioteki. Wybierz spośród nich kartę "
+"sztuczki lub guseł i skopiuj trzykrotnie. Możesz rzucić te kopie bez "
+"płacenia kosztów many."
 
 #: Chandra's Outrage
 msgid ""
 "Chandra's Outrage deals 4 damage to target creature and 2 damage to that "
 "creature's controller."
 msgstr ""
+"Chandra's Outrage zadaje 4 obrażenia wskazanemu stworowi oraz 2 obrażenia "
+"kontrolującego go graczowi."
 
 msgid ""
 "Haste (This creature can attack and {T} as soon as it comes under your "
@@ -342,6 +345,10 @@ msgid ""
 "control or by a red planeswalker you control, return Chandra's Phoenix from "
 "your graveyard to your hand."
 msgstr ""
+"Zawsze, gdy przeciwnik otrzymuje obrażenia od kontrolowanego przez ciebie "
+"czerwonego czaru sztuczki lub guseł lub kontrolowanego przez ciebie "
+"czerwonego Wędrowca, przywróć Chandra's Phoenix ze swojego cmentarza do "
+"swojej ręki."
 
 msgid "Whenever Charging Griffin attacks, it gets +1/+1 until end of turn."
 msgstr "Zawsze gdy Charging Griffin atakuje, dostaje +1/+1 do końca tury."
@@ -351,24 +358,33 @@ msgstr "Gdy Claustrophobia wchodzi na pole walki, zużyj zauroczonego stwora."
 
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
+"Zauroczony stwór nie odświeża się podczas kroku odświeżania kontrolującego "
+"go gracza."
 
 #: Clone
 msgid ""
 "You may have Clone enter the battlefield as a copy of any creature on the "
 "battlefield."
 msgstr ""
+"Możesz sprawić, że Clone wejdzie na pole walki jako kopia dowolnego stwora "
+"znajdującego się na polu walki."
 
 #: Colossal Whale Merfolk Spy
 msgid ""
 "Islandwalk (This creature can't be blocked as long as defending player "
 "controls an Island.)"
 msgstr ""
+"Zdobywca wysp (Ten stwór nie może być blokowany tak długo, jak broniący się "
+"gracz posiada Wyspę.)"
 
 msgid ""
 "Whenever Colossal Whale attacks, you may exile target creature defending "
 "player controls until Colossal Whale leaves the battlefield. (That creature "
 "returns under its owner's control.)"
 msgstr ""
+"Zawsze, gdy Colossal Whale atakuje, możesz usunąć wskazanego stwora będącego "
+"pod kontrolą broniącego się gracza do czasu opuszczenia pola walki przez "
+"Colossal Whale. (Usunięty stwór wraca pod kontrolę swojego właściciela.)"
 
 #: Congregate
 msgid "Target player gains 2 life for each creature on the battlefield."
@@ -379,6 +395,8 @@ msgid ""
 "{2}{B}, Sacrifice Corpse Hauler: Return another target creature card from "
 "your graveyard to your hand."
 msgstr ""
+"{2}{B}, poświęć Corpse Hauler: Przywróć inną wskazaną kartę stwora ze "
+"swojego cmentarza do swojej ręki."
 
 #: Corrupt
 msgid ""
@@ -434,6 +452,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk Śmierci (Stwór otrzymujący od tego jakiekolwiek obrażenia zostaje "
+"zniszczony.)"
 
 #: Demolish
 msgid "Destroy target artifact or land."
@@ -521,15 +541,15 @@ msgid ""
 "When Elite Arcanist enters the battlefield, you may exile an instant card "
 "from your hand."
 msgstr ""
-"Kiedy Elite Arcanist wchodzi na pole walki, możesz wygnać kartę szybkiego "
-"czaru ze swojej ręki."
+"Kiedy Elite Arcanist wchodzi na pole walki, możesz usunąć kartę sztuczki ze "
+"swojej ręki."
 
 msgid ""
 "{X}, {T}: Copy the exiled card. You may cast the copy without paying its "
 "mana cost. X is the converted mana cost of the exiled card."
 msgstr ""
-"{X}, {T}: Skopiuj wygnaną kartę. Możesz rzucić kopię bez płacenia kosztu "
-"many. X jest skonwertowanym kosztem many wygnanej karty."
+"{X}, {T}: Skopiuj usuniętą kartę. Możesz rzucić kopię bez płacenia kosztu "
+"many. X jest skonwertowanym kosztem many usuniętej karty."
 
 #: Elixir of Immortality
 #, fuzzy
@@ -849,6 +869,8 @@ msgid ""
 "her hand. You choose a green or white creature card from it and exile that "
 "card."
 msgstr ""
+"Gdy Lifebane Zombie wchodzi na pole walki, wskazany przeciwnik odkrywa rękę. "
+"Wybierasz z niej zieloną lub białą kartę stwora i usuwasz ją."
 
 msgid ""
 "Enchanted creature gets +3/+0 and has first strike. (It deals combat damage "
@@ -1123,6 +1145,8 @@ msgid ""
 "{G}: Exile target card from a graveyard. If it was a creature card, put a +1/"
 "+1 counter on Scavenging Ooze and you gain 1 life."
 msgstr ""
+"{G}: Usuń wskazaną kartę z cmentarza. Jeśli była to karta stwora, połóż "
+"znacznik +1/+1 na Scavenging Ooze i zyskaj 1 życie."
 
 msgid ""
 "Whenever Scourge of Valkas or another Dragon enters the battlefield under "
@@ -1412,12 +1436,17 @@ msgid ""
 "{1}, Sacrifice Vial of Poison: Target creature gains deathtouch until end of "
 "turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
+"{1}, poświęć Vial of Poison: Wskazany stwór dostaje Dotyk Śmierci do końca "
+"tury. (Stwór otrzymujący od niego jakiekolwiek obrażenia zostaje "
+"zniszczony.)"
 
 #: Vile Rebirth
 msgid ""
 "Exile target creature card from a graveyard. Put a 2/2 black Zombie creature "
 "token onto the battlefield."
 msgstr ""
+"Usuń wskazaną kartę stwora z cmentarza. Połóż na polu walki żeton czarnego "
+"stwora Zombie 2/2."
 
 #: Volcanic Geyser
 msgid "Volcanic Geyser deals X damage to target creature or player."
