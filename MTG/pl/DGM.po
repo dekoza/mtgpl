@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 10:10+0200\n"
+"PO-Revision-Date: 2013-09-03 18:06+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378199457.621073\n"
+"X-POOTLE-MTIME: 1378227999.230355\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -55,12 +55,10 @@ msgid "Target creature gets +1/+1 and gains double strike until end of turn."
 msgstr "Wskazany stwór dostaje +1/+1 oraz Podwójny Cios do końca tury."
 
 #: Ascended Lawmage
-#, fuzzy
 msgid "Flying, hexproof"
 msgstr "Latanie, Antyklątwa"
 
 #: Far // Away (Away)
-#, fuzzy
 msgid "Target player sacrifices a creature."
 msgstr "Latanie, Antyklątwa"
 
@@ -128,12 +126,11 @@ msgstr ""
 "Pośpiechem."
 
 #: Flesh // Blood (Blood)
-#, fuzzy
 msgid ""
 "Target creature you control deals damage equal to its power to target "
 "creature or player."
 msgstr ""
-"Wskazany stwór, którego kontrolujesz zadaje obrażenia równe jego sile "
+"Wskazany kontrolowany przez ciebie stwór zadaje obrażenia równe swojej sile "
 "wskazanemu stworowi lub graczowi."
 
 # Jak wytłumaczysz "Wampiryzm" u białych stworów? Przecież to się kojarzy co najwyżej z czarnymi.
@@ -141,22 +138,20 @@ msgstr ""
 msgid "Lifelink, protection from white and from black"
 msgstr "Więź życia, ochrona przed białym i przed czarnym."
 
-#, fuzzy
 msgid ""
 "As long as you have 30 or more life and an opponent has 10 or less life, "
 "Blood Baron of Vizkopa gets +6/+6 and has flying."
 msgstr ""
-"Tak długo jak posiadasz 30 lub więcej życia i Twój przeciwnik posiada 10 lub "
-"mniej życia, Blood Baron of Vizkopa otrzymuje +6/+6 i Latanie."
+"Tak długo, jak posiadasz 30 lub więcej życia i twój przeciwnik posiada 10 "
+"lub mniej życia, Blood Baron of Vizkopa dostaje +6/+6 oraz Latanie."
 
 #: Blood Scrivener
-#, fuzzy
 msgid ""
 "If you would draw a card while you have no cards in hand, instead draw two "
 "cards and lose 1 life."
 msgstr ""
 "Jeśli mógłbyś dobrać kartę nie posiadając kart na ręce, zamiast tego dobierz "
-"dwie karty i strać 1 życia."
+"dwie karty i strać 1 życie."
 
 #: Boros Battleshaper
 #, fuzzy
@@ -171,9 +166,8 @@ msgstr ""
 
 # Słusznie przetłumaczone "or" - musi być "albo", gdyż w języku polskim "lub" zawiera w sobie "oraz". Taka tam logiczna ciekawostka :P
 #: Boros Cluestone
-#, fuzzy
 msgid "{T}: Add {R} or {W} to your mana pool."
-msgstr "{T}: Dodaj {R} albo {W} do twojego zasobnika many."
+msgstr "{T}: Dodaj {R} albo {W} do swojego zasobnika many."
 
 msgid "{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card."
 msgstr "{R}{W}, {T}, poświęć Boros Cluestone: Dobierz kartę."
@@ -195,12 +189,11 @@ msgstr ""
 "właściciela.)"
 
 #: Breaking // Entering (Breaking)
-#, fuzzy
 msgid ""
 "Target player puts the top eight cards of his or her library into his or her "
 "graveyard."
 msgstr ""
-"Wskazany gracz kładzie osiem wierzchnich kart swojej biblioteki na swój "
+"Wskazany gracz kładzie osiem górnych kart swojej biblioteki na swój "
 "cmentarz."
 
 #: Bred for the Hunt

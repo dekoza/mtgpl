@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 18:03+0200\n"
+"PO-Revision-Date: 2013-09-03 18:07+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378227813.956753\n"
+"X-POOTLE-MTIME: 1378228057.855470\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -159,11 +159,9 @@ msgstr ""
 "Uroku ze swojego cmentarza do swojej ręki."
 
 #: Awaken the Ancient
-#, fuzzy
 msgid "Enchant Mountain"
 msgstr "Zaurocz Górę"
 
-#, fuzzy
 msgid ""
 "Enchanted Mountain is a 7/7 red Giant creature with haste. It's still a land."
 msgstr ""
@@ -214,7 +212,6 @@ msgid "Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn."
 msgstr "Poświęć innego stwora: Blood Bairn dostaje +2/+2 do końca tury."
 
 #: Blur Sliver
-#, fuzzy
 msgid ""
 "Sliver creatures you control have haste. (They can attack and {T} as soon as "
 "they come under your control.)"
@@ -232,7 +229,6 @@ msgstr ""
 "bibliotekę."
 
 #: Bonescythe Sliver
-#, fuzzy
 msgid ""
 "Sliver creatures you control have double strike. (They deal both first-"
 "strike and regular combat damage.)"
