@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 17:50+0200\n"
+"PO-Revision-Date: 2013-09-03 18:03+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378227036.968486\n"
+"X-POOTLE-MTIME: 1378227813.956753\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -1213,6 +1213,8 @@ msgid ""
 "{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted "
 "mana cost equal to the number of charge counters on Ratchet Bomb."
 msgstr ""
+"{T}, poświęć Ratchet Bomb: zniszcz każdy nie będący lądem permanent, którego "
+"łączny koszt many jest równy liczbie znaczników ładowania na Ratchet Bomb."
 
 #: Ring of Three Wishes
 msgid ""
@@ -1385,12 +1387,16 @@ msgid ""
 "Counter target spell with converted mana cost X. (For example, if that "
 "spell's mana cost is {3}{U}{U}, X is 5.)"
 msgstr ""
+"Skontruj wskazany czar o łącznym koszcie many równym X. (Np. jeśli koszt "
+"tego czaru to {3}{U}{U}, X wynosi 5.)"
 
 #: Sporemound
 msgid ""
 "Whenever a land enters the battlefield under your control, put a 1/1 green "
 "Saproling creature token onto the battlefield."
 msgstr ""
+"Zawsze, gdy na pole walki pod twoją kontrolą wchodzi ląd, połóż na polu "
+"walki żeton zielonego stwora Saproling 1/1."
 
 #: Staff of the Death Magus
 msgid ""
@@ -1411,18 +1417,24 @@ msgid ""
 "Whenever you cast a blue spell or an Island enters the battlefield under "
 "your control, you gain 1 life."
 msgstr ""
+"Zawsze, gdy rzucasz niebieski czar albo Wyspa wchodzi na pole walki pod "
+"twoją kontrolą, zyskujesz 1 życie."
 
 #: Staff of the Sun Magus
 msgid ""
 "Whenever you cast a white spell or a Plains enters the battlefield under "
 "your control, you gain 1 life."
 msgstr ""
+"Zawsze, gdy rzucasz biały czar albo Równina wchodzi na pole walki pod twoją "
+"kontrolą, zyskujesz 1 życie."
 
 #: Staff of the Wild Magus
 msgid ""
 "Whenever you cast a green spell or a Forest enters the battlefield under "
 "your control, you gain 1 life."
 msgstr ""
+"Zawsze, gdy rzucasz zielony czar albo Las wchodzi na pole walki pod twoją "
+"kontrolą, zyskujesz 1 życie."
 
 #: Steelform Sliver
 msgid "Sliver creatures you control get +0/+1."
