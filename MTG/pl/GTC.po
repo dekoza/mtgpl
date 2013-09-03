@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 07:59+0200\n"
+"PO-Revision-Date: 2013-09-03 08:03+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378191548.782872\n"
+"X-POOTLE-MTIME: 1378191803.28847\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -268,6 +268,10 @@ msgid ""
 "control. Whenever that creature deals combat damage to a player, its "
 "controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
+"Szyfruj (Następnie możesz wygnać tę kartę kodując ją na kontrolowanym przez "
+"siebie stworze. Zawsze, gdy ów stwór zada graczowi obrażenia bojowe, "
+"kontrolujący go gracz może rzucić kopię zakodowanej karty bez płacenia "
+"kosztu many.)"
 
 #: Cartel Aristocrat
 msgid ""

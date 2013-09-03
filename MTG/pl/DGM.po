@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 07:58+0200\n"
+"PO-Revision-Date: 2013-09-03 08:11+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378191518.607256\n"
+"X-POOTLE-MTIME: 1378192266.53259\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -97,7 +97,8 @@ msgstr ""
 msgid ""
 "Whenever a creature enters the battlefield this turn, you may draw a card."
 msgstr ""
-"Kiedykolwiek stwór wejdzie na pole bitwy tej tury, możesz pociągnąc kartę."
+"Zawsze, gdy w tej turze jakiś stwór wejdzie na pole bitwy, możesz dobrać "
+"kartę."
 
 #: Beetleform Mage
 msgid ""
@@ -118,14 +119,13 @@ msgstr ""
 "karty w tego stwora lub gracza."
 
 #: Blaze Commando
-#, fuzzy
 msgid ""
 "Whenever an instant or sorcery spell you control deals damage, put two 1/1 "
 "red and white Soldier creature tokens with haste onto the battlefield."
 msgstr ""
-"Kiedykolwiek sztuczka lub gusła, które kontrolujesz zadadzą obrażenia, połóż "
-"dwóch 1/1 czerwonych i białych stworów, żetonów Soldierów z pośpiechem na "
-"polu walki."
+"Zawsze, gdy kontrolowana przez ciebie sztuczka lub gusła zada obrażenia, "
+"połóż na polu walki dwa żetony czerwono-białego stwora Soldier 1/1 z "
+"Pośpiechem."
 
 #: Flesh // Blood (Blood)
 #, fuzzy
@@ -213,13 +213,12 @@ msgstr ""
 "graczowi obrażenia bojowe, możesz dobrać kartę."
 
 #: Bronzebeak Moa
-#, fuzzy
 msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "Bronzebeak Moa gets +3/+3 until end of turn."
 msgstr ""
-"Kiedykolwiek inny stwór wchodzi na pole walki pod twoja kontrolą, Bronzebeak "
-"Moa otrzymuje +3/+3 do końca tury."
+"Zawsze, gdy jakiś inny stwór wchodzi na pole walki pod twoją kontrolą, "
+"Bronzebeak Moa dostaje +3/+3 do końca tury."
 
 #: Turn // Burn (Burn)
 msgid "Burn deals 2 damage to target creature or player."
@@ -232,7 +231,9 @@ msgstr "Połóż na polu walki cztery żetony białych stworów Bird 1/1 z Latan
 
 #: Carnage Gladiator
 msgid "Whenever a creature blocks, that creature's controller loses 1 life."
-msgstr "Zawsze, gdy jakiś stwór blokuje, kontroler tego stwora traci 1 życie."
+msgstr ""
+"Zawsze, gdy jakiś stwór blokuje, kontrolujący tego stwora gracz traci 1 "
+"życie."
 
 msgid "{1}{B}{R}: Regenerate Carnage Gladiator."
 msgstr ""
@@ -383,6 +384,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, you may switch Fluxcharger's "
 "power and toughness until end of turn."
 msgstr ""
+"Zawsze, gdy rzucasz sztuczkę lub gusła, możesz do końca tury zamienić siłę i "
+"wytrzymałość Fluxchargera."
 
 #: Gaze of Granite
 msgid "Destroy each nonland permanent with converted mana cost X or less."
@@ -395,6 +398,8 @@ msgstr ""
 #: Gleam of Battle
 msgid "Whenever a creature you control attacks, put a +1/+1 counter on it."
 msgstr ""
+"Zawsze, gdy kontrolowany przez ciebie stwór atakuje, połóż na nim znacznik "
+"+1/+1."
 
 msgid ""
 "{T}: Goblin Test Pilot deals 2 damage to target creature or player chosen at "
@@ -434,6 +439,8 @@ msgid ""
 "Whenever Haazda Snare Squad attacks, you may pay {W}. If you do, tap target "
 "creature an opponent controls."
 msgstr ""
+"Zawsze, gdy Haazda Snare Squad atakuje, możesz zapłacić {W}. Jeśli to "
+"zrobisz, tapnij wskazanego stwora kontrolowanego przez przeciwnika."
 
 #: Haunter of Nightveil
 msgid "Creatures your opponents control get -1/-0."
@@ -450,6 +457,10 @@ msgid ""
 "control. Whenever that creature deals combat damage to a player, its "
 "controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
+"Szyfruj (Następnie możesz wygnać tę kartę kodując ją na kontrolowanym przez "
+"siebie stworze. Zawsze, gdy ów stwór zada graczowi obrażenia bojowe, "
+"kontrolujący go gracz może rzucić kopię zakodowanej karty bez płacenia "
+"kosztu many.)"
 
 #: Hired Torturer Murmuring Phantasm Nivix Cyclops
 msgid "Defender"
@@ -479,6 +490,8 @@ msgid ""
 "Whenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until "
 "end of turn."
 msgstr ""
+"Zawsze, gdy Jelenn Sphinx atakuje, inne atakujące stwory dostają +1/+1 do "
+"końca tury."
 
 #: Korozda Gorgon
 msgid "Deathtouch"
