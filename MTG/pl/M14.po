@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 19:05+0200\n"
+"PO-Revision-Date: 2013-09-03 19:19+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378231558.731028\n"
+"X-POOTLE-MTIME: 1378232349.769075\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -42,11 +42,15 @@ msgid ""
 "Equipped creature gets +0/+3 and has vigilance. (Attacking doesn't cause it "
 "to tap.)"
 msgstr ""
+"Wyposażony stwór dostaje +0/+3 i ma Czujność. (Atak nie powoduje jego "
+"zużycia.)"
 
 msgid ""
 "Equip {3} ({3}: Attach to target creature you control. Equip only as a "
 "sorcery.)"
 msgstr ""
+"Wyposaż {3} ({3}: Dołącz do wskazanego stwora, którego kontrolujesz. Wyposaż "
+"wyłącznie jako gusła.)"
 
 #: Act of Treason
 msgid ""
@@ -143,12 +147,14 @@ msgstr ""
 
 #: Artificer's Hex
 msgid "Enchant Equipment"
-msgstr ""
+msgstr "Zaurocz Wyposażenie"
 
 msgid ""
 "At the beginning of your upkeep, if enchanted Equipment is attached to a "
 "creature, destroy that creature."
 msgstr ""
+"Na początku swojego utrzymania, jeśli zauroczone Wyposażenie jest dołączone "
+"do stwora, zniszcz tego stwora."
 
 #: Auramancer
 msgid ""
@@ -629,15 +635,20 @@ msgstr ""
 "kontrolowane przez twoich przeciwników."
 
 #: Fireshrieker
+#, fuzzy
 msgid ""
 "Equipped creature has double strike. (It deals both first-strike and regular "
 "combat damage.)"
 msgstr ""
+"Wyposażony stwór ma Podwójny Cios. (Zadaje obrażenia bitewne zarówno jako "
+"Pierwszy Cios oraz normalnie.)"
 
 msgid ""
 "Equip {2} ({2}: Attach to target creature you control. Equip only as a "
 "sorcery.)"
 msgstr ""
+"Wyposaż {2} ({2}: Dołącz do wskazanego stwora, którego kontrolujesz. Wyposaż "
+"wyłącznie jako gusła.)"
 
 # W języku polskim "lub" oznacza angielskie "and/or" ("or" to polskie "albo") - taka ciekawostka nomenklatury logiki matematycznej ;)
 #: Flames of the Firebrand
@@ -791,18 +802,23 @@ msgstr ""
 
 #: Haunted Plate Mail
 msgid "Equipped creature gets +4/+4."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +4/+4."
 
 msgid ""
 "{0}: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact "
 "creature that's no longer an Equipment. Activate this ability only if you "
 "control no creatures."
 msgstr ""
+"{0}: Do końca tury Haunted Plate Mail staje się artefaktycznym stworem "
+"Spirit 4/4, który nie jest Wyposażeniem. Aktywuj tę zdolność tylko jeśli nie "
+"kontrolujesz stworów."
 
 msgid ""
 "Equip {4} ({4}: Attach to target creature you control. Equip only as a "
 "sorcery.)"
 msgstr ""
+"Wyposaż {4} ({4}: Dołącz do wskazanego stwora, którego kontrolujesz. Wyposaż "
+"wyłącznie jako gusła.)"
 
 #: Hive Stirrings
 msgid "Put two 1/1 colorless Sliver creature tokens onto the battlefield."
@@ -1114,6 +1130,8 @@ msgstr ""
 #: Pay No Heed
 msgid "Prevent all damage a source of your choice would deal this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, które byłyby zadane przez wybrane przez ciebie "
+"źródło."
 
 #: Phantom Warrior
 msgid "Phantom Warrior can't be blocked."
@@ -1456,13 +1474,19 @@ msgid ""
 "Sliver creatures you control have first strike. (They deal combat damage "
 "before creatures without first strike.)"
 msgstr ""
+"Kontrolowane przez ciebie Slivery mają Pierwszy Cios. (Zadają obrażenia "
+"bojowe przed stworami nie posiadającymi Pierwszego Ciosu.)"
 
 #: Strionic Resonator
+#, fuzzy
 msgid ""
 "{2}, {T}: Copy target triggered ability you control. You may choose new "
 "targets for the copy. (A triggered ability uses the words \"when,\" "
 "\"whenever,\" or \"at.\")"
 msgstr ""
+"{2}, {T}: Skopiuj wskazaną zdolność wyzwalaną, którą kontrolujesz. Możesz "
+"wybrać nowe cele dla owej kopii. (Zdolność wyzwalana używa takich słów jak "
+"\"gdy\", \"kiedy\".)"
 
 #: Swamp
 msgid "B"
@@ -1473,6 +1497,8 @@ msgid ""
 "Sliver creatures you control have lifelink. (Damage dealt by a Sliver "
 "creature you control also causes you to gain that much life.)"
 msgstr ""
+"Kontrolowane przez ciebie Slivery mają Więź Życia. (Obrażenia zadane przez "
+"kontrolowanego przez ciebie Slivera powodują, że zyskujesz tyle samo życia.)"
 
 #: Tenacious Dead
 msgid ""
@@ -1495,6 +1521,8 @@ msgid ""
 "Target creature gets +2/+0 and gains first strike until end of turn. (It "
 "deals combat damage before creatures without first strike.)"
 msgstr ""
+"Wskazany stwór dostaje +2/+0 oraz Pierwszy Cios do końca tury. (Zadaje "
+"obrażenia bojowe przed stworami nie posiadającymi Pierwszego Ciosu.)"
 
 #: Tidebinder Mage
 msgid ""
@@ -1502,6 +1530,10 @@ msgid ""
 "creature an opponent controls. That creature doesn't untap during its "
 "controller's untap step for as long as you control Tidebinder Mage."
 msgstr ""
+"Kiedy Tidebinder Mage wchodzi na pole walki, zużyj wskazanego czerwonego lub "
+"zielonego stwora kontrolowanego przez przeciwnika. Ów stwór nie odświeża "
+"się podczas kroku odświeżania kontrolującego go gracza tak długo, jak "
+"kontrolujesz Tidebinder Mage."
 
 #: Time Ebb
 msgid "Put target creature on top of its owner's library."
@@ -1632,6 +1664,8 @@ msgid ""
 "Whenever Wall of Frost blocks a creature, that creature doesn't untap during "
 "its controller's next untap step."
 msgstr ""
+"Zawsze, gdy Wall of Frost blokuje stwora, ów stwór nie odświeża się w "
+"następnym kroku odświeżania kontrolującego go gracza."
 
 #: Wall of Swords
 msgid "Defender (This creature can't attack)"
