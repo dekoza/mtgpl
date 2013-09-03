@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 08:04+0200\n"
+"PO-Revision-Date: 2013-09-03 09:48+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378191856.168693\n"
+"X-POOTLE-MTIME: 1378198133.154601\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -70,7 +70,7 @@ msgstr "Latanie"
 
 #, fuzzy
 msgid "{2}{U}: Tap target creature with flying."
-msgstr "{2}{U}: Tapnij wskazanego stwora z Lataniem."
+msgstr "{2}{U}: Zużyj wskazanego stwora z Lataniem."
 
 #: Ajani, Caller of the Pride
 msgid "+1: Put a +1/+1 counter on up to one target creature."
@@ -225,7 +225,8 @@ msgid ""
 "Cauldron, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "{2}, {T}: Wyszukaj w swojej bibliotece kartę Festering Newt lub Bubbling "
-"Cauldron, połóż ją na polu walki stapowaną, następnie przetasuj bibliotekę."
+"Cauldron, połóż ją na polu walki jako zużytą, następnie przetasuj "
+"bibliotekę."
 
 #: Bonescythe Sliver
 #, fuzzy
@@ -346,7 +347,7 @@ msgid "Whenever Charging Griffin attacks, it gets +1/+1 until end of turn."
 msgstr "Zawsze gdy Charging Griffin atakuje, dostaje +1/+1 do końca tury."
 
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr "Gdy Claustrophobia wchodzi na pole walki, tapnij zauroczonego stwora."
+msgstr "Gdy Claustrophobia wchodzi na pole walki, zużyj zauroczonego stwora."
 
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
@@ -422,7 +423,7 @@ msgstr "{T}: Dodaj jedną manę w dowolnym kolorze do swojego zasobnika many."
 
 #: Dawnstrike Paladin
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atak nie powoduje tapnięcia tego stwora.)"
+msgstr "Czujność (Atak nie powoduje zużycia tego stwora.)"
 
 #: Deadly Recluse Giant Spider
 msgid "Reach (This creature can block creatures with flying.)"
@@ -444,6 +445,9 @@ msgid ""
 "creature token with flying onto the battlefield for each creature tapped "
 "this way."
 msgstr ""
+"Zużyj dowolną liczbę niezużytych stworów pod twoją kontrolą. Połóż na polu "
+"walki tyle żetonów białego stwora Angel 4/4 z Lataniem, ile stworów zużyto w "
+"ten sposób."
 
 #: Diabolic Tutor
 msgid ""
@@ -618,10 +622,13 @@ msgid " or creatures you control get +0/+2 until end of turn."
 msgstr " lub stwory pod twoją kontrolą dostają +0/+2 do końca tury."
 
 #: Frost Breath
+#, fuzzy
 msgid ""
 "Tap up to two target creatures. Those creatures don't untap during their "
 "controller's next untap step."
 msgstr ""
+"Zużyj najwyżej dwa wskazane stwory. Te stwory nie odświeżą się w najbliższym "
+"kroku odświeżania kontrolującego ich gracza."
 
 #: Galerider Sliver
 msgid "Sliver creatures you control have flying."
@@ -766,7 +773,7 @@ msgstr ""
 
 #: Imposing Sovereign
 msgid "Creatures your opponents control enter the battlefield tapped."
-msgstr "Stwory twoich przeciwników wchodzą na pole walki tapnięte."
+msgstr "Stwory twoich przeciwników wchodzą na pole walki jako zużyte."
 
 #: Indestructibility
 msgid "Enchant permanent"
@@ -869,6 +876,9 @@ msgid ""
 "discards a card and you put a 2/2 black Zombie creature token onto the "
 "battlefield tapped."
 msgstr ""
+"Zawsze, gdy Liliana's Reaver zada graczowi obrażenia bojowe, ów gracz "
+"odrzuca kartę, a ty kładziesz na polu walki zużyty żeton czarnego stwora "
+"Zombie 2/2."
 
 #: Liturgy of Blood
 msgid "Destroy target creature. Add {B}{B}{B} to your mana pool."
@@ -896,6 +906,8 @@ msgid ""
 "Whenever Master of Diversion attacks, tap target creature defending player "
 "controls."
 msgstr ""
+"Zawsze, gdy Master of Diversion atakuje, zużyj wskazanego stwora będącego "
+"pod kontrolą broniącego się gracza."
 
 #: Megantic Sliver
 msgid "Sliver creatures you control get +3/+3."
@@ -1142,6 +1154,8 @@ msgid ""
 "Sliver creatures you control have vigilance. (Attacking doesn't cause them "
 "to tap.)"
 msgstr ""
+"Slivery pod twoją kontrolą mają Czujność. (Atakowanie nie powoduje ich "
+"zużycia.)"
 
 msgid "Prevent all combat damage that would be dealt to Seraph of the Sword."
 msgstr ""
@@ -1260,6 +1274,9 @@ msgid ""
 "(Attacking doesn't cause it to tap. Damage dealt by it also causes you to "
 "gain that much life.)"
 msgstr ""
+"{5}{W}: Stonehorn Chanter zyskuje Czujność oraz Więź Życia do końca tury. "
+"(Atakowanie nie powoduje jego zużycia. Obrażenia przez niego zadane "
+"powodują, że dostajesz tyle samo życia.)"
 
 #: Striking Sliver
 msgid ""
@@ -1290,7 +1307,7 @@ msgid ""
 "battlefield tapped under its owner's control."
 msgstr ""
 "Kiedy Tenacious Dead umiera, możesz zapłacić {1}{B}. Gdy tak zrobisz, "
-"przywróć go stapowanego na pole walki pod kontrolą jego właściciela."
+"przywróć go zużytego na pole walki pod kontrolą jego właściciela."
 
 #: Thorncaster Sliver
 msgid ""
@@ -1470,6 +1487,8 @@ msgid ""
 "Whenever Xathrid Necromancer or another Human creature you control dies, put "
 "a 2/2 black Zombie creature token onto the battlefield tapped."
 msgstr ""
+"Zawsze, gdy Xathrid Necromancer lub inny kontrolowany przez ciebie Human "
+"umiera, połóż na polu walki zużyty żeton czarnego stwora Zombie 2/2."
 
 #: Young Pyromancer
 msgid ""

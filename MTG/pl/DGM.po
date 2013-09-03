@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 08:11+0200\n"
+"PO-Revision-Date: 2013-09-03 08:52+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,13 +17,13 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378192266.53259\n"
+"X-POOTLE-MTIME: 1378194726.489807\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
 msgid "Put a 5/5 green Wurm creature token with trample onto the battlefield."
 msgstr ""
-"{U}: Wygnaj Ætherling. Przywróć go na pole walki pod kontrolą jego "
+"{U}: Wygnaj Ætherlinga. Przywróć go na pole walki pod kontrolą jego "
 "właściciela na początku następnego etapu końcowego."
 
 #: Ætherling
@@ -31,7 +31,7 @@ msgid ""
 "{U}: Exile Ætherling. Return it to the battlefield under its owner's control "
 "at the beginning of the next end step."
 msgstr ""
-"{U}: Wygnaj Ætherling. Przywróć go na pole walki pod kontrolą jego "
+"{U}: Wygnaj Ætherlinga. Przywróć go na pole walki pod kontrolą jego "
 "właściciela na początku następnego etapu końcowego."
 
 msgid "{U}: Ætherling can't be blocked this turn."
@@ -180,9 +180,8 @@ msgstr "{R}{W}, {T}, poświęć Boros Cluestone: Dobierz kartę."
 
 # Ciekawa koncepcja na tłumaczenie "tapped" - wymaga jeszcze pracy, ale podoba mi się koncepcja.
 #: Boros Guildgate
-#, fuzzy
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Boros Guildgate wchodzi na pole walki przemęczony."
+msgstr "Boros Guildgate wchodzi na pole walki jako zużyty."
 
 #: Boros Mastiff
 msgid ""
@@ -567,6 +566,9 @@ msgid ""
 "player's life total becomes 1. Master of Cruelties assigns no combat damage "
 "this combat."
 msgstr ""
+"Zawsze, gdy Master of Cruelties atakuje gracza i nie jest blokowany, punkty "
+"życia tego gracza stają się równe 1. Master of Cruelties nie zadaje obrażeń "
+"bojowych w tej walce."
 
 #: Maw of the Obzedat
 msgid ""
@@ -627,6 +629,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell from your library, copy it. "
 "You may choose new targets for the copy."
 msgstr ""
+"Zawsze, gdy rzucasz sztuczkę lub gusła ze swojej biblioteki, skopiuj ów "
+"czar. Możesz wskazać nowe cele dla owej kopii."
 
 #: Mending Touch
 msgid "Regenerate target creature."
@@ -641,6 +645,9 @@ msgid ""
 "player reveals cards from the top of his or her library until he or she "
 "reveals four land cards, then puts those cards into his or her graveyard."
 msgstr ""
+"Zawsze, gdy Mirko Vosk, Mind Drinker zadaje graczowi obrażenia bojowe, ów "
+"gracz odkrywa karty z wierzchu swojej biblioteki do momentu, aż odkryje "
+"cztery lądy, następnie umieszcza te karty w swoim cmentarzu."
 
 #: Morgue Burst
 msgid ""
@@ -660,6 +667,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 "
 "until end of turn and can attack this turn as though it didn't have defender."
 msgstr ""
+"Zawsze, gdy rzucasz sztuczkę lub gusła, Nivix Cyclops dostaje +3/+0 do końca "
+"tury i może atakować w tej turze, jak by nie miał Obrońcy."
 
 #: Notion Thief Skylasher
 msgid "Flash"
@@ -710,10 +719,14 @@ msgid ""
 msgstr ""
 
 #: Pontiff of Blight
+#, fuzzy
 msgid ""
 "Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each "
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
+"Haracz (Zawsze, gdy rzucasz czar, możesz zapłacić {(w/b)}. Jeśli tak "
+"zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo "
+"życia.)"
 
 msgid ""
 "Other creatures you control have extort. (If a creature has multiple "
