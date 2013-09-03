@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 10:09+0200\n"
+"PO-Revision-Date: 2013-09-03 13:12+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378199396.304681\n"
+"X-POOTLE-MTIME: 1378210375.296056\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -53,12 +53,16 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and {T} this turn.)"
 msgstr ""
+"Przejmij kontrolę nad wskazanym stworem do końca tury. Odśwież tego stwora. "
+"Zyskuje on Pośpiech do końca tury. (Może atakować i {T} w tej turze.)"
 
 #: Advocate of the Beast
 msgid ""
 "At the beginning of your end step, put a +1/+1 counter on target Beast "
 "creature you control."
 msgstr ""
+"Na początku swojego kroku końcowego połóż znacznik na wskazanym stworze "
+"Beast będącego pod twoją kontrolą."
 
 #: Air Servant Archangel of Thune Chandra's Phoenix Charging Griffin Deathgaze
 #: Cockatrice Dragon Hatchling Sentinel Jace's Mindseeker Messenger Drake
@@ -278,10 +282,13 @@ msgstr ""
 "życia. Zyskujesz tyle życia, ile stracono w ten sposób."
 
 #: Burning Earth
+#, fuzzy
 msgid ""
 "Whenever a player taps a nonbasic land for mana, Burning Earth deals 1 "
 "damage to that player."
 msgstr ""
+"Zawsze, gdy jakiś gracz używa niepodstawowego lądu dla many, Burning Earth "
+"zadaje 1 obrażenie temu graczowi."
 
 #: Cancel
 msgid "Counter target spell."
@@ -474,6 +481,8 @@ msgid ""
 "Search your library for a card and put that card into your hand. Then "
 "shuffle your library."
 msgstr ""
+"Przeszukaj swoją bibliotekę w poszukiwaniu karty i umieść tę kartę w ręce. "
+"Następnie przetasuj swoją bibliotekę."
 
 #: Dismiss into Dream
 msgid ""
@@ -481,10 +490,13 @@ msgid ""
 "types and has \"When this creature becomes the target of a spell or ability, "
 "sacrifice it.\""
 msgstr ""
+"Każdy stwór kontrolowany przez twoich przeciwników jest dodatkowo typu "
+"Illusion i ma \"Kiedy ten stwór jest wskazywany przez czar lub zdolność, "
+"poświęć go\"."
 
 #: Disperse
 msgid "Return target nonland permanent to its owner's hand."
-msgstr ""
+msgstr "Zwróć wskazany permanent nie będący lądem do ręki jego właściciela."
 
 msgid "When Divine Favor enters the battlefield, you gain 3 life."
 msgstr "Kiedy Divine Faver wchodzi na pole walki, dostajesz 3 życia."
@@ -499,6 +511,8 @@ msgid ""
 "At the beginning of your end step, if enchanted creature's power is 4 or "
 "greater, sacrifice Domestication."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli siła zauroczonego stwora wynosi 4 "
+"lub więcej, poświęć Domestication."
 
 #: Doom Blade
 msgid "Destroy target nonblack creature."
@@ -526,6 +540,8 @@ msgid ""
 "When Dragon Egg dies, put a 2/2 red Dragon creature token with flying onto "
 "the battlefield. It has \"{R}: This creature gets +1/+0 until end of turn.\""
 msgstr ""
+"Kiedy Dragon Egg umiera, połóż na polu walki żeton czerwonego stwora Dragon "
+"2/2 z Lataniem oraz \"{R}: Ten stwór dostaje +1/+0 do końca tury.\""
 
 msgid "{R}: Dragon Hatchling gets +1/+0 until end of turn."
 msgstr "{R}: Dragon Hatchling dostaje +1/+0 do końca tury."
@@ -570,6 +586,7 @@ msgstr "{T}: Dodaj {1} do swojego zasobnika many."
 
 msgid "{4}, {T}, Sacrifice Encroaching Wastes: Destroy target nonbasic land."
 msgstr ""
+"{4}, {T}, poświęć Encroaching Wastes: Zniszcz wskazany niepodstawowy ląd."
 
 #: Enlarge
 msgid ""
@@ -581,7 +598,7 @@ msgstr ""
 
 #: Essence Scatter
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: Festering Newt
 msgid ""
@@ -589,6 +606,9 @@ msgid ""
 "until end of turn. That creature gets -4/-4 instead if you control a "
 "creature named Bogbrew Witch."
 msgstr ""
+"Gdy Festering Newt umiera, wskazany stwór kontrolowany przez przeciwnika "
+"dostaje -1/-1 do końca tury. Ów stwór dostaje zamiast tego -4/-4 jeśli "
+"kontrolujesz stwora o nazwie Bogbrew Witch."
 
 #: Fiendslayer Paladin
 msgid ""
@@ -602,6 +622,8 @@ msgid ""
 "Fiendslayer Paladin can't be the target of black or red spells your "
 "opponents control."
 msgstr ""
+"Fiendslayer Paladin nie może być wskazywany przez czarne lub czerwone czary "
+"kontrolowane przez twoich przeciwników."
 
 #: Fireshrieker
 msgid ""
@@ -614,17 +636,23 @@ msgid ""
 "sorcery.)"
 msgstr ""
 
+# W języku polskim "lub" oznacza angielskie "and/or" ("or" to polskie "albo") - taka ciekawostka nomenklatury logiki matematycznej ;)
 #: Flames of the Firebrand
+#, fuzzy
 msgid ""
 "Flames of the Firebrand deals 3 damage divided as you choose among one, two, "
 "or three target creatures and/or players."
 msgstr ""
+"Flames of the Firebrand zadaje 3 obrażenia rozdzielone według twojego wyboru "
+"pomiędzy jednego, dwóch albo trzech wskazanych stworów lub graczy."
 
 #: Fleshpulper Giant
 msgid ""
 "When Fleshpulper Giant enters the battlefield, you may destroy target "
 "creature with toughness 2 or less."
 msgstr ""
+"Kiedy Fleshpulper Giant wchodzi na pole walki, możesz zniszczyć wskazanego "
+"stwora z wytrzymałością 2 lub mniej."
 
 #: Fog
 msgid "Prevent all combat damage that would be dealt this turn."
@@ -731,6 +759,8 @@ msgid ""
 "Choose target creature card in a graveyard that was put there from the "
 "battlefield this turn. Put that card onto the battlefield under your control."
 msgstr ""
+"Wskaż kartę stwora w cmentarzu, która dostałą się tam z pola walki w tej "
+"turze. Połóż tę kartę na polu walki pod twoją kontrolą."
 
 #: Groundshaker Sliver
 msgid ""
@@ -768,20 +798,26 @@ msgstr ""
 
 #: Hive Stirrings
 msgid "Put two 1/1 colorless Sliver creature tokens onto the battlefield."
-msgstr ""
+msgstr "Połóż na polu walki dwa żetony bezkolorowego stwora Sliver 2/2."
 
 #: Howl of the Night Pack
 msgid ""
 "Put a 2/2 green Wolf creature token onto the battlefield for each Forest you "
 "control."
 msgstr ""
+"Połóż na polu walki tyle żetonów zielonego stwora Wolf 2/2, ile Lasów "
+"kontrolujesz."
 
 #: Hunt the Weak
+#, fuzzy
 msgid ""
 "Put a +1/+1 counter on target creature you control. Then that creature "
 "fights target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
+"Połóż znacznik +1/+1 na wskazanym stworze, którego kontrolujesz. Następnie "
+"ów stwór walczy ze wskazanym stworem, którego nie kontrolujesz. (Zadają "
+"sobie nawzajem obrażenia równe swojej sile.)"
 
 msgid "Enchanted creature gets +4/+4."
 msgstr "Zauroczony stwór dostaje +4/+4."
@@ -790,6 +826,8 @@ msgid ""
 "When enchanted creature becomes the target of a spell or ability, sacrifice "
 "Illusionary Armor."
 msgstr ""
+"Kiedy zauroczony stwór zostaje wskazany przez czar lub zdolność, poświęć "
+"Illusionary Armor."
 
 #: Imposing Sovereign
 msgid "Creatures your opponents control enter the battlefield tapped."
@@ -882,16 +920,23 @@ msgid ""
 "+1: Search your library for a Swamp card, reveal it, and put it into your "
 "hand. Then shuffle your library."
 msgstr ""
+"+1: Poszukaj karty Swamp w swojej bibliotece, pokaż ją i umieść ją w swojej "
+"ręce. Następnie przetasuj swoją bibliotekę."
 
+#, fuzzy
 msgid ""
 "-3: Target creature gets +X/+X or -X/-X until end of turn, where X is the "
 "number of Swamps you control."
 msgstr ""
+"-3: Wskazany stwór dostaje +X/+X albo -X/-X do końca tury, gdzie X jest "
+"liczbą Bagien, którekontrolujesz."
 
 msgid ""
 "-6: You get an emblem with \"Swamps you control have ‘{T}: Add {B}{B}{B}{B} "
 "to your mana pool.'\""
 msgstr ""
+"-6: Dostajesz emblemat o treści \"Kontrolowane przez ciebie Bagna mają '{T}: "
+"Dodaj {B}{B}{B}{B} do swojego zasobnika many.'\""
 
 msgid ""
 "Whenever Liliana's Reaver deals combat damage to a player, that player "
@@ -904,24 +949,30 @@ msgstr ""
 
 #: Liturgy of Blood
 msgid "Destroy target creature. Add {B}{B}{B} to your mana pool."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Dodaj {B}{B}{B} do swojego zasobnika many."
 
 #: Manaweft Sliver
 msgid ""
 "Sliver creatures you control have \"{T}: Add one mana of any color to your "
 "mana pool.\""
 msgstr ""
+"Kontrolowane przez ciebie Slivery mają \"{T}: Dodaj jedną manę dowolnego "
+"koloru do swojego zasobnika many.\""
 
 #: Marauding Maulhorn
 msgid ""
 "Marauding Maulhorn attacks each combat if able unless you control a creature "
 "named Advocate of the Beast."
 msgstr ""
+"Marauding Maulhorn atakuje w każdej walce jeśli może, chyba że kontrolujesz "
+"stwora o nazwie Advocate of the Beast."
 
 msgid ""
 "Enchanted creature gets +2/+2 and has lifelink. (Damage dealt by the "
 "creature also causes its controller to gain that much life.)"
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i ma Więź Życia. (Obrażenia zadane przez tego "
+"stwora powodują, że zyskujesz tyle samo życia.)"
 
 #: Master of Diversion
 msgid ""
@@ -933,7 +984,7 @@ msgstr ""
 
 #: Megantic Sliver
 msgid "Sliver creatures you control get +3/+3."
-msgstr ""
+msgstr "Kontrolowane przez ciebie Slivery dostają +3/+3."
 
 msgid ""
 "Whenever Merfolk Spy deals combat damage to a player, that player reveals a "
@@ -975,11 +1026,11 @@ msgstr ""
 
 #: Naturalize
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: Negate
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar nie będący stworem."
 
 msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps you "
@@ -987,7 +1038,7 @@ msgid ""
 msgstr ""
 
 msgid "{1}{B}: Nightwing Shade gets +1/+1 until end of turn."
-msgstr ""
+msgstr "{1}{B}: Nightwing Shade dostaje +1/+1 do końca tury."
 
 #: Oath of the Ancient Wood
 msgid ""
