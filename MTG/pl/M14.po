@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 13:54+0200\n"
+"PO-Revision-Date: 2013-09-03 14:35+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378212860.791193\n"
+"X-POOTLE-MTIME: 1378215337.392265\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -735,6 +735,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary i zdolności "
+"kontrolowane przez twoich przeciwników.)"
 
 #: Glimpse the Future
 msgid ""
@@ -860,6 +862,8 @@ msgid ""
 "At the beginning of your upkeep, look at the top card of your library. If "
 "it's a land card, you may put it onto the battlefield."
 msgstr ""
+"Na początku swojego rozliczania, spójrz na górną kartę swojej biblioteki. "
+"Jeśli jest to karta lądu, możesz położyć ją na polu walki."
 
 #: Island
 msgid "U"
@@ -1036,15 +1040,20 @@ msgid ""
 "Put two 1/1 red Elemental creature tokens onto the battlefield. Then flip a "
 "coin. If you win the flip, return Molten Birth to its owner's hand."
 msgstr ""
+"Połóż na polu walki dwa żetony czerwonego stwora Elemental 1/1. Następnie "
+"rzuć monetą. Jeśli wygrasz rzut, zwróć Molten Birth do ręki jego "
+"właściciela."
 
 #: Mountain
 msgid "R"
-msgstr ""
+msgstr "R"
 
 msgid ""
 "{1}: Mutavault becomes a 2/2 creature with all creature types until end of "
 "turn. It's still a land."
 msgstr ""
+"{1}: Mutavault do końca tury staje się stworem 2/2 liczącym się jako każdy "
+"typ stwora i wciąż jest lądem."
 
 #: Naturalize
 msgid "Destroy target artifact or enchantment."
@@ -1118,6 +1127,8 @@ msgstr "Phantom Warrior nie może być blokowany."
 msgid ""
 "When Pitchburn Devils dies, it deals 3 damage to target creature or player."
 msgstr ""
+"Kiedy Pitchburn Devils  umiera, zadaje 3 obrażenia we wskazanego stwora lub "
+"gracza."
 
 #: Plains
 msgid "W"
@@ -1133,22 +1144,27 @@ msgstr "Zniszcz wskazanego stwora z Lataniem."
 
 #: Predatory Sliver
 msgid "Sliver creatures you control get +1/+1."
-msgstr ""
+msgstr "Kontrolowane przez ciebie Slivery dostają +1/+1."
 
 #: Primeval Bounty
 msgid ""
 "Whenever you cast a creature spell, put a 3/3 green Beast creature token "
 "onto the battlefield."
 msgstr ""
+"Zawsze, gdy rzucasz czar stwora, połóż na polu walki żeton zielonego stwora "
+"Beast 3/3."
 
 msgid ""
 "Whenever you cast a noncreature spell, put three +1/+1 counters on target "
 "creature you control."
 msgstr ""
+"Zawsze, gdy rzucasz czar nie będący stworem, połóż trzy znaczniki +1/+1 na "
+"wskazanym stworze, którego kontrolujesz."
 
 msgid ""
 "Whenever a land enters the battlefield under your control, you gain 3 life."
 msgstr ""
+"Zawsze, gdy na pole walki wchodzi ląd pod twoją kontrolą, zyskujesz 3 życia."
 
 #: Pyromancer's Gauntlet
 msgid ""
@@ -1167,7 +1183,7 @@ msgid ""
 msgstr ""
 
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: Ranger's Guile
 msgid ""
@@ -1213,7 +1229,7 @@ msgstr ""
 
 #: Sanguine Bond
 msgid "Whenever you gain life, target opponent loses that much life."
-msgstr ""
+msgstr "Zawsze, gdy zyskujesz życie, wskazany przeciwnik traci tyle życia."
 
 #: Savage Summoning
 msgid "Savage Summoning can't be countered."
@@ -1224,6 +1240,9 @@ msgid ""
 "flash. That spell can't be countered. That creature enters the battlefield "
 "with an additional +1/+1 counter on it."
 msgstr ""
+"Następna karta stwora, którą rzucisz w tej turze może być rzucona tak, jakby "
+"miała Błysk. Ów czar nie może być skontrowany. Ów stwór wchodzi na pole "
+"walki z dodatkowym znacznikiem +1/+1."
 
 #: Scavenging Ooze
 msgid ""
@@ -1238,13 +1257,16 @@ msgid ""
 "your control, it deals X damage to target creature or player, where X is the "
 "number of Dragons you control."
 msgstr ""
+"Zawsze, gdy Scourge of Valkas lub inny Smok wchodzi na pole walki pod twoją "
+"kontrolą, zadaje X obrażeń wskazanemu stworowi lub graczowi, gdzie X jest "
+"liczbą Smoków, które kontrolujesz."
 
 msgid "{R}: Scourge of Valkas gets +1/+0 until end of turn."
 msgstr "{R}: Scourge of Valkas dostaje +1/+0 do końca tury."
 
 #: Scroll Thief
 msgid "Whenever Scroll Thief deals combat damage to a player, draw a card."
-msgstr ""
+msgstr "Zawsze, gdy Scroll Thief zada graczowi obrażenia bojowe, dobierz kartę."
 
 #: Seismic Stomp
 msgid "Creatures without flying can't block this turn."
@@ -1348,6 +1370,8 @@ msgid ""
 "Whenever you cast a black spell or a Swamp enters the battlefield under your "
 "control, you gain 1 life."
 msgstr ""
+"Zawsze, gdy rzucasz czarny czar albo Bagno wchodzi na pole walki pod twoją "
+"kontrolą, zyskujesz 1 życie."
 
 #: Staff of the Flame Magus
 msgid ""
