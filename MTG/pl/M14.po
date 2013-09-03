@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 13:12+0200\n"
+"PO-Revision-Date: 2013-09-03 13:54+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378210375.296056\n"
+"X-POOTLE-MTIME: 1378212860.791193\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -410,6 +410,9 @@ msgid ""
 "Corrupt deals damage equal to the number of Swamps you control to target "
 "creature or player. You gain life equal to the damage dealt this way."
 msgstr ""
+"Corrupt zadaje wskazanemu stworowi lub graczowi obrażenia równe liczbie "
+"kontrolowanych przez ciebie Bagien. Zyskujesz punkty życia równe obrażeniom "
+"zadanym w ten sposób."
 
 msgid "Cyclops Tyrant can't block creatures with power 2 or less."
 msgstr "Cyclops Tyrant nie może blokować stworów o Sile 2 lub mniej."
@@ -551,6 +554,8 @@ msgid ""
 "Target opponent reveals his or her hand. You choose a noncreature, nonland "
 "card from it. That player discards that card."
 msgstr ""
+"Wskazany przeciwnik pokazuje rękę. Wybierasz z niej kartę nie będącą stworem "
+"ani lądem. Ów gracz odrzuca tamtą kartę."
 
 #: Elite Arcanist
 msgid ""
@@ -710,7 +715,7 @@ msgid "Trample"
 msgstr "Tratowanie"
 
 msgid "Play with the top card of your library revealed."
-msgstr ""
+msgstr "Graj z ujawnioną górną kartą swojej biblioteki."
 
 msgid ""
 "You may cast the top card of your library if it's a creature card. (Do this "
@@ -736,6 +741,8 @@ msgid ""
 "Look at the top three cards of your library. Put one of them into your hand "
 "and the rest into your graveyard."
 msgstr ""
+"Obejrzyj trzy górne karty swojej biblioteki. Połóż jedną z nich do swojej "
+"ręki, a pozostałe do swojego cmentarza."
 
 #: Gnawing Zombie
 msgid ""
@@ -753,6 +760,8 @@ msgid ""
 "When Goblin Shortcutter enters the battlefield, target creature can't block "
 "this turn."
 msgstr ""
+"Kiedy Goblin Shortcutter wchodzi na pole walki, wskazany stwór nie może "
+"blokować w tej turze."
 
 #: Grim Return
 msgid ""
@@ -880,6 +889,9 @@ msgid ""
 "five cards of his or her library into his or her graveyard. You may cast an "
 "instant or sorcery card from among them without paying its mana cost."
 msgstr ""
+"Kiedy Jace's Mindseeker wchodzi na pole walki, wskazany przeciwnik przekłada "
+"pięć górnych kart ze swojej biblioteki do swojego cmentarza. Możesz rzucić "
+"sztuczkę lub gusła spośród tych kart bez płacenia kosztu many."
 
 msgid "Kalonian Hydra enters the battlefield with four +1/+1 counters on it."
 msgstr ""
@@ -901,6 +913,8 @@ msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
 "then shuffle your library."
 msgstr ""
+"Poszukaj w swojej bibliotece karty podstawowego lądu, pokaż ją i połóż do "
+"swojej ręki, a następnie przetasuj bibliotekę."
 
 msgid ""
 "When Lifebane Zombie enters the battlefield, target opponent reveals his or "
@@ -914,6 +928,8 @@ msgid ""
 "Enchanted creature gets +3/+0 and has first strike. (It deals combat damage "
 "before creatures without first strike.)"
 msgstr ""
+"Zauroczony stwór dostaje +3/+0 i ma Pierwszy Cios. (Zadaje obrażenia bojowe "
+"przed stworami nie posiadającymi Pierwszego Ciosu.)"
 
 #: Liliana of the Dark Realms
 msgid ""
@@ -990,24 +1006,30 @@ msgid ""
 "Whenever Merfolk Spy deals combat damage to a player, that player reveals a "
 "card at random from his or her hand."
 msgstr ""
+"Zawsze, gdy Merfolk Spy zadaje graczowi obrażenia bojowe, ów gracz pokazuje "
+"losową kartę ze swojej ręki."
 
 msgid "When Messenger Drake dies, draw a card."
-msgstr ""
+msgstr "Kiedy Messenger Drake umiera, dobierz kartę."
 
 #: Millstone
 msgid ""
 "{2}, {T}: Target player puts the top two cards of his or her library into "
 "his or her graveyard."
 msgstr ""
+"{2}, {T}: Wskazany gracz przekłada dwie górne karty ze swojej biblioteki do "
+"swojego cmentarza."
 
 #: Mind Rot
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 msgid ""
 "Whenever an opponent casts a white or blue instant or sorcery spell, "
 "Mindsparker deals 2 damage to that player."
 msgstr ""
+"Zawsze gdy przeciwniki rzuca biały lub niebieski czar sztuczki lub guseł, "
+"Mindsparker zadaje temu graczowi 2 obrażenia."
 
 #: Molten Birth
 msgid ""
@@ -1032,10 +1054,13 @@ msgstr "Zniszcz wskazany artefakt lub urok."
 msgid "Counter target noncreature spell."
 msgstr "Skontruj wskazany czar nie będący stworem."
 
+#, fuzzy
 msgid ""
 "Nightmare's power and toughness are each equal to the number of Swamps you "
 "control."
 msgstr ""
+"Zarówno siła jak i wytrzymałość Nightmare są obie równe liczbie Bagien, "
+"które kontrolujesz."
 
 msgid "{1}{B}: Nightwing Shade gets +1/+1 until end of turn."
 msgstr "{1}{B}: Nightwing Shade dostaje +1/+1 do końca tury."
@@ -1046,6 +1071,8 @@ msgid ""
 "battlefield under your control, you may put a +1/+1 counter on target "
 "creature."
 msgstr ""
+"Zawsze, gdy Oath of the Ancient Wood lub inny urok wchodzi na pole walki pod "
+"twoją kontrolą, możesz położyć znacznik +1/+1 na wskazanym stworze."
 
 #: Ogre Battledriver
 msgid ""
@@ -1053,24 +1080,31 @@ msgid ""
 "creature gets +2/+0 and gains haste until end of turn. (It can attack and "
 "{T} this turn.)"
 msgstr ""
+"Zawsze, gdy inny stwór wchodzi na pole walki pod twoją kontrolą, ów stwór "
+"dostaje +2/+0 oraz Pośpiech do końca tury. (Może atakować oraz {T} w tej "
+"turze.)"
 
 #: Opportunity
 msgid "Target player draws four cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera cztery karty."
 
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: Path of Bravery
 msgid ""
 "As long as your life total is greater than or equal to your starting life "
 "total, creatures you control get +1/+1."
 msgstr ""
+"Tak długo, jak liczba twoich punktów życia jest nie mniejsza od twojej "
+"początkowej liczby punktów życia, stwory pod twoją kontrolą dostają +1/+1."
 
 msgid ""
 "Whenever one or more creatures you control attack, you gain life equal to "
 "the number of attacking creatures."
 msgstr ""
+"Zawsze, gdy co najmniej jeden stwór pod twoją kontrolą atakuje, zyskujesz "
+"punkty życia równe liczbie atakujących stworów."
 
 #: Pay No Heed
 msgid "Prevent all damage a source of your choice would deal this turn."
@@ -1078,7 +1112,7 @@ msgstr ""
 
 #: Phantom Warrior
 msgid "Phantom Warrior can't be blocked."
-msgstr ""
+msgstr "Phantom Warrior nie może być blokowany."
 
 #: Pitchburn Devils
 msgid ""
@@ -1091,11 +1125,11 @@ msgstr ""
 
 #: Planar Cleansing
 msgid "Destroy all nonland permanents."
-msgstr ""
+msgstr "Zniszcz wszystkie permanenty nie będące lądami."
 
 #: Plummet
 msgid "Destroy target creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z Lataniem."
 
 #: Predatory Sliver
 msgid "Sliver creatures you control get +1/+1."
