@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 22:36+0200\n"
+"PO-Revision-Date: 2013-09-04 05:48+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378244169.589231\n"
+"X-POOTLE-MTIME: 1378270126.179660\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -154,15 +154,14 @@ msgstr ""
 "dwie karty i strać 1 życie."
 
 #: Boros Battleshaper
-#, fuzzy
 msgid ""
 "At the beginning of each combat, up to one target creature attacks or blocks "
 "this combat if able and up to one target creature can't attack or block this "
 "combat."
 msgstr ""
-"Na początku każdej walki, maksymalnie jeden wybrany stwór atakuje lub "
-"blokuje tej walki jeśli to możliwe i maksymalnie jeden wybrany stwór nie "
-"atakuje lub nie blokuje tej walki."
+"Na początku każdej walki, najwyżej jeden wskazany stwór atakuje lub blokuje "
+"w tej walce jeśli to możliwe i najwyżej jeden wskazany stwór nie może "
+"atakować lub blokować w tej walce."
 
 # Słusznie przetłumaczone "or" - musi być "albo", gdyż w języku polskim "lub" zawiera w sobie "oraz". Taka tam logiczna ciekawostka :P
 #: Boros Cluestone
@@ -231,13 +230,12 @@ msgid "{1}{B}{R}: Regenerate Carnage Gladiator."
 msgstr ""
 
 #: Catch // Release (Catch)
-#, fuzzy
 msgid ""
 "Gain control of target permanent until end of turn. Untap it. It gains haste "
 "until end of turn."
 msgstr ""
-"Przejmij kontrole nad wskazanym obiektem do końca tury. Odśwież go. Zyskuje "
-"pośpiech do końca tury."
+"Przejmij kontrolę nad wskazanym permanentem do końca tury. Odśwież go. "
+"Zyskuje on Pośpiech do końca tury."
 
 #: Clear a Path
 msgid "Destroy target creature with defender."
