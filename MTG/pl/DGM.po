@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 18:06+0200\n"
+"PO-Revision-Date: 2013-09-03 22:36+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378227999.230355\n"
+"X-POOTLE-MTIME: 1378244169.589231\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -231,26 +231,34 @@ msgid "{1}{B}{R}: Regenerate Carnage Gladiator."
 msgstr ""
 
 #: Catch // Release (Catch)
+#, fuzzy
 msgid ""
 "Gain control of target permanent until end of turn. Untap it. It gains haste "
 "until end of turn."
 msgstr ""
+"Przejmij kontrole nad wskazanym obiektem do końca tury. Odśwież go. Zyskuje "
+"pośpiech do końca tury."
 
 #: Clear a Path
 msgid "Destroy target creature with defender."
 msgstr "Zniszcz wskazanego stwora z Obrońcą."
 
 #: Council of the Absolute
+#, fuzzy
 msgid ""
 "As Council of the Absolute enters the battlefield, name a card other than a "
 "creature or land card."
 msgstr ""
+"Kiedy Council of the Absolute wchodzi na pole walki, nazwij kartę inną niż "
+"stwór lub ląd."
 
+#, fuzzy
 msgid "Your opponents can't cast cards with the chosen name."
-msgstr ""
+msgstr "Twój przeciwnik nie może rzucać kart z wybraną nazwą."
 
+#, fuzzy
 msgid "Spells with the chosen name you cast cost {2} less to cast."
-msgstr ""
+msgstr "Czary o wybranej nazwie, które rzucasz, kosztują {2} mniej."
 
 #: Crypt Incursion
 msgid ""
@@ -259,35 +267,50 @@ msgid ""
 msgstr ""
 
 #: Armed // Dangerous (Dangerous)
+#, fuzzy
 msgid "All creatures able to block target creature this turn do so."
-msgstr ""
+msgstr "Wszystkie stwory mogące zablokować wybranego stwora tej tury, robią to."
 
 #: Deadbridge Chant
+#, fuzzy
 msgid ""
 "When Deadbridge Chant enters the battlefield, put the top ten cards of your "
 "library into your graveyard."
 msgstr ""
+"Kiedy Deadbridge Chant wchodzi na pole walki, połóż 10 górnych kart swojej "
+"biblioteki do swojego cmentarza."
 
+#, fuzzy
 msgid ""
 "At the beginning of your upkeep, choose a card at random in your graveyard. "
 "If it's a creature card, put it onto the battlefield. Otherwise, put it into "
 "your hand."
 msgstr ""
+"Na początku swojego utrzymania, wybierz losowo kartę ze swojego cmentarza. "
+"Jeśli jest to stwór, połóż go na polu walki. W innym razie weź tę kartę na "
+"rękę."
 
 #: Debt to the Deathless
+#, fuzzy
 msgid ""
 "Each opponent loses two times X life. You gain life equal to the life lost "
 "this way."
 msgstr ""
+"Każdy przeciwnik traci dwukrotnie X życia. Zyskujesz życie równe życiowi "
+"straconemu tym sposobem."
 
 #: Deputy of Acquittals
+#, fuzzy
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucać ten czar kiedykolwiek możesz rzucic sztuczkę.)"
 
+#, fuzzy
 msgid ""
 "When Deputy of Acquittals enters the battlefield, you may return another "
 "target creature you control to its owner's hand."
 msgstr ""
+"Kiedy Deputy of Acquittal wchodzi na pole walki, możesz wrócić innego "
+"stwora, którego kontrolujesz, na ręke jego właściciela."
 
 #: Dimir Cluestone
 msgid "{T}: Add {U} or {B} to your mana pool."
