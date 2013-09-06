@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-03 10:11+0200\n"
+"PO-Revision-Date: 2013-09-06 22:45+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378199517.740871\n"
+"X-POOTLE-MTIME: 1378503936.682182\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -204,6 +204,8 @@ msgstr ""
 
 msgid " or permanents you control gain indestructible until end of turn"
 msgstr ""
+" albo kontrolowane przez ciebie bierki otrzymują Niezniszczalność do końca "
+"tury"
 
 msgid " or target creature gains double strike until end of turn."
 msgstr ""
@@ -429,6 +431,8 @@ msgid ""
 "When Dinrova Horror enters the battlefield, return target permanent to its "
 "owner's hand, then that player discards a card."
 msgstr ""
+"Kiedy Dinrova Horror wchodzi na pole walki, przywróć wskazaną bierkę do ręki "
+"właściciela, następnie ten gracz odrzuca kartę."
 
 #: Disciple of the Old Ways
 msgid "{R}: Disciple of the Old Ways gains first strike until end of turn."
@@ -621,7 +625,7 @@ msgid ""
 msgstr ""
 
 msgid "-15: Exile all other permanents."
-msgstr ""
+msgstr "-15: Usuń z gry wszystkie inne bierki."
 
 msgid "Enchanted creature gets +1/+1 and has flying and lifelink."
 msgstr "Zauroczony stwór dostaje +1/+1 i ma Latanie oraz Więź Życia."
@@ -652,7 +656,7 @@ msgstr ""
 
 #: Gridlock
 msgid "Tap X target nonland permanents."
-msgstr ""
+msgstr "Zużyj X wskazanych bierek nie będących lądami."
 
 #: Grisly Spectacle
 msgid ""
@@ -672,7 +676,7 @@ msgid "Choose one — Creatures without flying can't block this turn"
 msgstr ""
 
 msgid " or gain control of all permanents you own"
-msgstr ""
+msgstr " albo przejmij kontrolę nad wszystkimi własnymi bierkami"
 
 msgid " or Gruul Charm deals 3 damage to each creature with flying."
 msgstr ""
@@ -737,6 +741,8 @@ msgid ""
 "Whenever High Priest of Penance is dealt damage, you may destroy target "
 "nonland permanent."
 msgstr ""
+"Zawsze, gdy High Priest of Penance otrzymuje obrażenia, możesz zniszczyć "
+"wskazaną bierkę nie będącą lądem."
 
 #: Hindervines
 msgid ""
@@ -1253,7 +1259,7 @@ msgid "Choose one — Target creature gets +3/+3 until end of turn"
 msgstr ""
 
 msgid " or permanents you control gain hexproof until end of turn"
-msgstr ""
+msgstr " albo bierki, które kontrolujesz zyskują Antyklątwę do końca tury"
 
 msgid " or return target creature to its owner's hand."
 msgstr ""
@@ -1414,6 +1420,11 @@ msgid ""
 "destroyed this way, search your library for a Forest card and put that card "
 "onto the battlefield tapped. Then shuffle your library."
 msgstr ""
+"Kiedy Sylvan Primordial wchodzi na pole walki, dla każdego ze swoich "
+"przeciwników, zniszcz wskazaną bierkę nie będącą stworem kontrolowaną przez "
+"owego gracza. Dla każdej bierki zniszczonej w ten sposób, poszukaj w swojej "
+"bibliotece karty Lasu i połóż ją zużytą na polu walki. Następnie przetasuj "
+"bibliotekę."
 
 #: Thespian's Stage
 msgid "{T}: Add {1} to your mana pool."
@@ -1426,6 +1437,7 @@ msgstr ""
 
 msgid "{T}, Pay 2 life: Remove a counter from target nonland permanent."
 msgstr ""
+"{T}, zapłać 2 życia: Zdejmij znacznik ze wskazanej bierki nie będącej lądem."
 
 msgid "Enchanted land has \"{T}, Discard a card: Draw a card.\""
 msgstr ""
@@ -1433,6 +1445,8 @@ msgstr ""
 #: Totally Lost
 msgid "Put target nonland permanent on top of its owner's library."
 msgstr ""
+"Połóż wskazaną bierkę nie będącą lądem na wierzchu biblioteki jej "
+"właściciela."
 
 #: Tower Defense
 msgid "Creatures you control get +0/+5 and gain reach until end of turn."
@@ -1463,7 +1477,7 @@ msgstr ""
 #: Undercity Plague
 msgid ""
 "Target player loses 1 life, discards a card, then sacrifices a permanent."
-msgstr ""
+msgstr "Wskazany gracz traci 1 życie, odrzuca kartę, następnie poświęca bierkę."
 
 #: Unexpected Results
 msgid ""

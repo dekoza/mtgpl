@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 02:36+0200\n"
-"PO-Revision-Date: 2013-09-03 19:38+0200\n"
+"PO-Revision-Date: 2013-09-06 22:52+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378233531.39752\n"
+"X-POOTLE-MTIME: 1378504364.486879\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Abrupt Decay
@@ -26,8 +26,7 @@ msgstr "Abrupt Decay nie może być skontrowany przez czary i zdolności."
 
 msgid "Destroy target nonland permanent with converted mana cost 3 or less."
 msgstr ""
-"Zniszcz wskazany permanent nie będący lądem o łącznym koszcie many 3 lub "
-"mniej."
+"Zniszcz wskazaną bierkę nie będący lądem o łącznym koszcie many 3 lub mniej."
 
 #: Aerial Predation
 msgid "Destroy target creature with flying. You gain 2 life."
@@ -67,6 +66,10 @@ msgid ""
 "permanents your opponents control. (Until your next turn, those permanents "
 "can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
+"Zawsze, gdy Archon of the Triumvirate atakuje, uwięź do dwóch wskazanych "
+"bierek nie będących lądami znajdujących się pod kontrolą przeciwników. (Do "
+"twojej następnej tury bierki te nie mogą atakować ani blokować, a ich "
+"aktywowane zdolności nie mogą być aktywowane.)"
 
 #: Archweaver
 msgid "Reach, trample"
@@ -225,6 +228,9 @@ msgid ""
 "Overload {3}{U} (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie {3}{U} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
+"\"każdy.\")"
 
 #: Brushstrider Risen Sanctuary
 msgid "Vigilance"
@@ -261,6 +267,9 @@ msgid ""
 "Overload {3}{U}{R} (You may cast this spell for its overload cost. If you "
 "do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie {3}{U}{R} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
+"\"każdy.\")"
 
 #: Chorus of Might
 msgid ""
@@ -335,6 +344,9 @@ msgid ""
 "Overload {1}{U}{U}{R} (You may cast this spell for its overload cost. If you "
 "do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie {1}{U}{U}{R} (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
+"\"wskazany\" na \"każdy.\")"
 
 #: Coursers' Accord
 msgid ""
@@ -367,11 +379,16 @@ msgstr ""
 #: Cyclonic Rift
 msgid "Return target nonland permanent you don't control to its owner's hand."
 msgstr ""
+"Przywróć wskazaną bierkę nie będącą lądem, której nie kontrolujesz do ręki "
+"jej właściciela."
 
 msgid ""
 "Overload {6}{U} (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie {6}{U} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
+"\"każdy.\")"
 
 #: Trained Caracal
 msgid ""
@@ -456,6 +473,9 @@ msgid ""
 "Overload {2}{U} (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie {2}{U} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
+"\"każdy.\")"
 
 #: Drainpipe Vermin
 msgid ""
@@ -509,6 +529,9 @@ msgid ""
 "Overload {2}{R} (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie {2}{R} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
+"\"każdy.\")"
 
 #: Electrickery
 msgid "Electrickery deals 1 damage to target creature you don't control."
@@ -518,6 +541,9 @@ msgid ""
 "Overload {1}{R} (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie {1}{R} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
+"\"każdy.\")"
 
 #: Epic Experiment
 msgid ""
@@ -954,6 +980,9 @@ msgid ""
 "Overload {3}{R}{R}{R} (You may cast this spell for its overload cost. If you "
 "do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie {3}{R}{R}{R} (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
+"\"wskazany\" na \"każdy.\")"
 
 #: Mizzium Skin
 msgid ""
@@ -964,6 +993,9 @@ msgid ""
 "Overload {1}{U} (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie {1}{U} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
+"\"każdy.\")"
 
 #: Mountain
 msgid "R"
@@ -1428,6 +1460,9 @@ msgid ""
 "Overload {X}{X}{R}{R} (You may cast this spell for its overload cost. If you "
 "do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie {X}{X}{R}{R} (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
+"\"wskazany\" na \"każdy.\")"
 
 #: Street Sweeper
 msgid ""
@@ -1590,6 +1625,9 @@ msgid ""
 "Overload {4}{R} (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
+"Przeciążenie {4}{R} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
+"\"każdy.\")"
 
 #: Viashino Racketeer
 msgid ""
