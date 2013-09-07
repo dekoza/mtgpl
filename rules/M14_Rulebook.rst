@@ -69,209 +69,146 @@ Black
 
 
 
-                                                                                                               Parts of a Card
-             Card Name                                                                                                                                                            Mana Cost
-                                                                                                                                                                                  Mana is the main resource in the game.
-                                                                                                         Shivan Dragon                                     o4oRoR
-                                                                                                                                                                                  It’s produced by lands, and you spend
-                                                                                                                                                           OOO
-                                                                                                                                                                                  it to cast spells. The symbols in a card’s
-             Type Line
-                                                                                                                                                                                  upper right corner tell you the cost to
-             This tells you the card’s card type: artifact,
-                                                                                                                                                                                  cast that spell. If the mana cost reads
-                                                                                        Shivan Dragon
-             creature, enchantment, instant, land,
-                                                                                                                                                                                  o4oRoR, you pay four mana of any
-             planeswalker, or sorcery. If the card has
-                                                                                                                                                                                   kinds plus two red mana (from two
-             a subtype or supertype, that’s also listed
-                                                                                                                                                                                   Mountains) to cast it.
-             here. For example, Shivan Dragon is a
-             creature, and its subtype is the creature                                                                                                                 28101
-             type Dragon.                                                                                 Creature — Dragon
-                                                                                                                                                                                  Expansion Symbol
-                                                                                                          Flying
-                                                                                                                                                                                  This symbol tells you which Magic set
-                                                                                                          oR: Shivan Dragon gets +1/+0 until
-                                                                                                           end of turn.                                                RR06_M14
-                                                                                                                                                                                  the card is from. This version of Shivan
-                                                                                                          The undisputed master of the mountains                                  Dragon is from the Magic 2014 core set.
-             Text Box                                                                                     of Shiv.
-             This is where a card’s abilities appear. You                                                                                                                         The color of the symbol tells you the
-                                                                                                               Donato Giancola                               5/5
-             may also find flavor text printed in italics
-                                                                                                         ™ & © 2013 Wizards of the Coast 154/249
-                                                                                                                                                                                  card’s rarity: black for common cards,
-             (like this) that tells you something about                                                                                                                           silver for uncommons, gold for rares, and
-                                                                                                                 S-Spell                              0154_MTGM14
-             the Magic world. Flavor text has no effect                                                                                                                           red-orange for mythic rares.
-             on game play. Some abilities have italic
-             reminder text to help explain what they do.
-                                                                                                                                                   Power and Toughness
-                                                                                                                                                   Each creature card has a special box with its power and toughness.
-             Collector Number                                                                                                                      A creature’s power (the first number) is how much damage it
-             The collector number makes it easier to organize                                                                                      deals in combat. Its toughness (the second number) is how
-             your cards. For example, “154/249” means that the                                                                                     much damage must be dealt to it in a single turn to destroy it. (A
-             card is the 154th of 249 cards in its set.                                                                                            planeswalker card has a different special box with its loyalty here.)
-                                                                                                                         Card Types
-             Divination                                      o2oU
-                                                             OO        Every Magic card has one or more types. A card’s type tells you when you can play the card and what
-Divination
-                                                                       happens to the card after you do.
-                                                                       Sorcery
-                                                                       A sorcery represents a magical incantation. You can cast a sorcery only during a main phase of one of your
-                                                                       own turns. You can’t cast it when another spell is on the stack. (You’ll learn about phases and the stack in a
-                                                                    121599
-              Sorcery
-              Draw two cards.
-                                                                       bit.) A sorcery has its effect—in other words, you follow the instructions on the card—then you put it into
-              “The key to unlocking this puzzle is
-              within you.”
-                                                                       your graveyard, which is the game term for your discard pile.
-                                                                    CU18_M14
-              —Doriel, mentor of Mistral Isle
-                   Howard Lyon
-             ™ & © 2013 Wizards of the Coast 52/249
-                     S-Spell                          0052_MTGM14
-                                                                                                                                               5
-                                                                                                        Section 1: The Basics
 
-                       Doom Blade                                       o1oB
-                                                                        OO           Instant
-                                                                                     An instant is just like a sorcery, except you can cast it just about any time you want, even during your
-                                                                                     opponent’s turn or in response to another spell. Like a sorcery, an instant has its effect, then you put it into
-Doom Blade
-                                                                                     your graveyard.
-                                                                               121618
-                        Instant
-                           Destroy target nonblack creature.
-                                                                                     Enchantment
-                                                                                     An enchantment represents a stable magical manifestation. An enchantment is a permanent. This means two
-                                                                               UB07_M14
-                             Chippy
-                       ™ & © 2013 Wizards of the Coast 96/249
-                                                                                     things: you can cast one only at the time you could cast a sorcery, and after you cast one, you’ll put it on the
-                                                                                     table in front of you, near your lands. (Most players keep their lands closer to them, then put their other
-                               S-Spell                           0096_MTGM14
-                                                                                     cards closer to the middle of the table.) The card is now on the battlefield. A card on the battlefield is called a
-                       Awaken the Ancient                           o1oRoRoR
-                                                                    OOOO             permanent because it sticks around permanently (well, unless something destroys it).
-Awaken the Ancient
-                                                                                        Some enchantments are Auras. An Aura enters the battlefield attached to a permanent and affects that
-                                                                                     permanent while it’s on the battlefield. If the enchanted permanent leaves the battlefield, the Aura is put
-                                                                                     into its owner’s graveyard.
-                                                                               147427
-                        Enchantment — Aura
-                        Enchant Mountain
-                        Enchanted Mountain is a 7/7 red Giant
-                        creature with haste. It’s still a land.
-                        Some days you stand to greet the horizon.
-                                                                                     Artifact
-                                                                               RR09_M14
-                        Other days the horizon stands to greet you.                  An artifact represents a magical relic. Like an enchantment, an artifact is a permanent, so it’ll stay on the
-                             Jaime Jones
-                       ™ & © 2013 Wizards of the Coast 126/249                       battlefield affecting the game. Most artifacts are colorless, so you can cast one no matter what kinds of lands
-                               S-Spell                           0126_MTGM14
-                                                                                     you have.
-                                                                                        Some artifacts are Equipment. You can pay to attach an Equipment to a creature you control to make that
-                       Ring of Three Wishes                               o5
-                                                                          O
-                                                                                     creature more powerful. If an equipped creature leaves the battlefield, the Equipment doesn’t—the creature
-                                                                                     drops it and it remains on the battlefield.
-Ring of Three Wishes
-                                                                                     Creature
-                                                                               147462
-                        Artifact
-                        Ring of Three Wishes enters the battlefield
-                        with three wish counters on it.                              Creatures fight for you. They’re permanents, but unlike any other kind of permanent, creatures can attack
-                        o5, oT, Remove a wish counter from Ring
-                                                                                     and block. Each creature has power and toughness. Its power (the first number) is how much damage it deals
-                                                                               MA01_M14
-                         of Three Wishes: Search your library for
-                         a card and put that card into your hand.
-                         Then shuffle your library.
-                             Mark Winters
-                                                                                     in combat. Its toughness (the second number) is how much damage must be dealt to it in a single turn to
-                                                                                     destroy it. Creatures attack and block during the combat phase.
-                       ™ & © 2013 Wizards of the Coast 216/249
-                               S-Spell                           0216_MTGM14            Unlike other types of permanents, creatures enter the battlefield with “summoning sickness”: a creature
-                       Serra Angel                                    o3oWoW
-                                                                      OOO            can’t attack, or use an ability that has oT in its cost, until it has started your turn on the battlefield under
-                                                                                     your control. You can block with a creature or activate its other abilities no matter how long it’s been on
-Serra Angel
-                                                                                     the battlefield.
-                                                                                        Artifact creatures are both artifacts and creatures. They’re usually colorless like other artifacts, and they
-                                                                                     can attack and block like other creatures. An artifact creature can be affected by anything that affects
-                                                                               86905 artifacts, as well as anything that affects creatures.
-                        Creature — Angel
-                        Flying
-                        Vigilance (Attacking doesn’t cause this                UW04_M14
-                        creature to tap.)
-                        Follow the light. In its absence, follow her.
-                             Greg Staples                              4/4
-                       ™ & © 2013 Wizards of the Coast 32/249
-                                                                                                                              6
-                               S-Spell                           0032_MTGM14
-                                                                                                            Section 1: The Basics
+Parts of a Card
+---------------
 
-                      Garruk, Caller of Beasts                                    o4oGoG
-                                                                                  OOO                 Planeswalker
-Garruk, Beastcaller                                                                                   Planeswalkers are powerful allies you can call on to fight by your side. You can cast a planeswalker only at the
-                                                                                                      time you could cast a sorcery. They’re permanents, and each one enters the battlefield with the number of
-                                                                                                      loyalty counters indicated in its lower right corner.
-                                                                                                          Each planeswalker has loyalty abilities that are activated by adding or removing loyalty counters from the
-                                                                                           147378
-                                                                                                      planeswalker. For example, the symbol ! means “Put one loyalty counter on this planeswalker” and the symbol
-                       Planeswalker — Garruk
-                               Reveal the top five cards of your library. Put all
-                      +1 : creature cards revealed this way into your hand and
-                                                                                                      3 means “Remove three loyalty counters from this planeswalker.” You can activate one of these abilities only
-                                                                                                      at the time you could cast a sorcery and only if none of that planeswalker’s loyalty abilities have been activated
-                               the rest on the bottom of your library in any order.
-                      -3 : You may battlefield. creature card from your hand
-                                    put a green
-                                                                                           MG02_M14
-                           onto the
-                               You get an emblem with “Whenever you cast a
-                      -7 : creature spell, you may search your library then
-                           a creature card, put it onto the battlefield,
-                                                                         for                          yet that turn.
-                                                                                                          Your planeswalkers can be attacked by your opponent’s creatures (if so, you can block as normal), and
-                               shuffle your library.”
-                                                       Karl Kopinski                 4
-                                        ™ & © 2013 Wizards of the Coast 172/249
-                                                                                                      your opponents can damage them with their spells and abilities instead of damaging you. Any damage dealt
-                      P3-Planeswalker                                 0172_MTGM14
-                                                                                                      to a planeswalker causes it to lose that many loyalty counters. If a planeswalker has no loyalty counters, it’s
-                                                                                                      put into your graveyard.
-                      Mountain
-                                                                                                      Land
-Mountain
-                                                                                                      Although lands are permanents, they aren’t cast as spells. To play a land, just put it onto the battlefield. This
-                                                                                                      happens immediately, so no player can do anything else in response. You can play a land only during one
-                                                                                                      of your main phases while the stack is empty. You can’t play more than one land a turn.
-                                                                                           137571
-                                                                                                         Most lands have abilities that make mana. You’ll use lands to make the mana you need to pay for spells
-                       Basic Land — Mountain                                                          and abilities.
-                                                                                                         Each basic land has a mana ability that makes one mana of a particular color. Plains make white mana
-                                                                                                      (oW), Islands make blue mana (oU), Swamps make black mana (oB), Mountains make red mana (oR), and
-                                                                                           LL14_M14
-                                                                                                      Forests make green mana (oG). Any land other than these five is a nonbasic land.
-                            Cliff Childs
-                      ™ & © 2013 Wizards of the Coast 242/249
-                              S-Spell                                 0242_MTGM14
-                                                        Card type                                     Is a permanent           Is cast as           Is usually            Can attack        Can be attacked
-                                                                                                                                a spell             colorless
-                                                   Land
-                                                   Artifact
-                                                   Creature
-                                                   Enchantment
-                                                   Planeswalker
-                                                   Instant
-                                                   Sorcery
-                                                                                                                                               7
-                                                                                                                            Section 1: The Basics
+Card Name
+    _
+
+
+Mana Cost
+    Mana is the main resource in the game. It’s produced by lands, and you spend it to cast spells.
+    The symbols in a card’s upper right corner tell you the cost to cast that spell. If the mana cost reads
+    {4}{R}{R}, you pay four mana of any kinds plus two red mana (from two Mountains) to cast it.
+
+Type Line
+    This tells you the card’s card type: artifact, creature, enchantment, instant, land,
+    planeswalker, or sorcery. If the card has a subtype or supertype, that’s also listed
+    here. For example, Shivan Dragon is a creature, and its subtype is the creature                                                                                                                 28101
+    type Dragon.
+
+Expansion Symbol
+    This symbol tells you which Magic set the card is from. This version of Shivan
+    Dragon is from the Magic 2014 core set. The color of the symbol tells you the
+    card’s rarity: black for common cards, silver for uncommons, gold for rares, and
+    red-orange for mythic rares.
+
+Text Box
+    This is where a card’s abilities appear. You may also find flavor text printed in italics
+    (like this) that tells you something about the Magic world. Flavor text has no effect
+    on game play. Some abilities have italic reminder text to help explain what they do.
+
+Power and Toughness
+    Each creature card has a special box with its power and toughness. A creature’s power
+    (the first number) is how much damage it deals in combat. Its toughness (the second number)
+    is how much damage must be dealt to it in a single turn to destroy it. (A planeswalker
+    card has a different special box with its loyalty here.)
+
+Collector Number
+    The collector number makes it easier to organize
+    your cards. For example, “154/249” means that the
+    card is the 154th of 249 cards in its set.
+
+
+Card Types
+----------
+
+Every Magic card has one or more types. A card’s type tells you when you can play the card and what
+happens to the card after you do.
+
+Sorcery
+    A sorcery represents a magical incantation. You can cast a sorcery only during
+    a main phase of one of your own turns. You can’t cast it when another spell is
+    on the stack. (You’ll learn about phases and the stack in a bit.) A sorcery has
+    its effect—in other words, you follow the instructions on the card—then you put
+    it into your graveyard, which is the game term for your discard pile.
+
+Instant
+    An instant is just like a sorcery, except you can cast it just about any time
+    you want, even during your opponent’s turn or in response to another spell.
+    Like a sorcery, an instant has its effect, then you put it into your graveyard.
+
+Enchantment
+    An enchantment represents a stable magical manifestation. An enchantment is
+    a permanent. This means two things: you can cast one only at the time you
+    could cast a sorcery, and after you cast one, you’ll put it on the table
+    in front of you, near your lands. (Most players keep their lands closer to them,
+    then put their other cards closer to the middle of the table.) The card is now
+    on the battlefield. A card on the battlefield is called a permanent because it
+    sticks around permanently (well, unless something destroys it).
+
+    Some enchantments are Auras. An Aura enters the battlefield attached to
+    a permanent and affects that permanent while it’s on the battlefield. If the
+    enchanted permanent leaves the battlefield, the Aura is put into its owner’s
+    graveyard.
+
+Artifact
+    An artifact represents a magical relic. Like an enchantment, an artifact is a permanent, so it’ll stay on the
+    battlefield affecting the game. Most artifacts are colorless, so you can cast one no matter what kinds of lands
+    you have.
+
+    Some artifacts are Equipment. You can pay to attach an Equipment to a creature you control to make that
+    creature more powerful. If an equipped creature leaves the battlefield, the Equipment doesn’t—the creature
+    drops it and it remains on the battlefield.
+
+Creature
+    Creatures fight for you. They’re permanents, but unlike any other kind of permanent, creatures can attack
+    and block. Each creature has power and toughness. Its power (the first number) is how much damage it deals
+    in combat. Its toughness (the second number) is how much damage must be dealt to it in a single turn to
+    destroy it. Creatures attack and block during the combat phase.
+
+    Unlike other types of permanents, creatures enter the battlefield with “summoning sickness”: a creature
+    can’t attack, or use an ability that has oT in its cost, until it has started your turn on the battlefield under
+    your control. You can block with a creature or activate its other abilities no matter how long it’s been on
+    the battlefield.
+
+    Artifact creatures are both artifacts and creatures. They’re usually colorless like other artifacts, and they
+    can attack and block like other creatures. An artifact creature can be affected by anything that affects
+    artifacts, as well as anything that affects creatures.
+
+
+Planeswalker
+    Planeswalkers are powerful allies you can call on to fight by your side. You can cast a planeswalker only at the
+    time you could cast a sorcery. They’re permanents, and each one enters the battlefield with the number of
+    loyalty counters indicated in its lower right corner.
+
+    Each planeswalker has loyalty abilities that are activated by adding or removing loyalty counters from the
+    planeswalker. For example, the symbol {+1} means “Put one loyalty counter on this planeswalker” and the symbol
+    {-3} means “Remove three loyalty counters from this planeswalker.” You can activate one of these abilities only
+    at the time you could cast a sorcery and only if none of that planeswalker’s loyalty abilities have been activated
+    yet that turn.
+
+    Your planeswalkers can be attacked by your opponent’s creatures (if so, you can block as normal), and
+    your opponents can damage them with their spells and abilities instead of damaging you. Any damage dealt
+    to a planeswalker causes it to lose that many loyalty counters. If a planeswalker has no loyalty counters, it’s
+    put into your graveyard.
+
+Land
+    Although lands are permanents, they aren’t cast as spells. To play a land, just put it onto the battlefield. This
+    happens immediately, so no player can do anything else in response. You can play a land only during one
+    of your main phases while the stack is empty. You can’t play more than one land a turn.
+
+    Most lands have abilities that make mana. You’ll use lands to make the mana you need to pay for spells
+    and abilities.
+
+    Each basic land has a mana ability that makes one mana of a particular color. Plains make white mana
+    ({W}), Islands make blue mana ({U}), Swamps make black mana ({B}), Mountains make red mana ({R}), and
+    Forests make green mana ({G}). Any land other than these five is a nonbasic land.
+
++-------------+----------------+------------+------------+------------+------------------+
+|Card type    | Is a permanent | Is cast as | Is usually | Can attack | Can be attacked  |
+|             |                | a spell    | colorless  |            |                  |
++=============+================+============+============+============+==================+
+|Land         |       X        |            |     X      |            |                  |
+|Artifact     |       X        |     X      |     X      |            |                  |
+|Creature     |       X        |     X      |            |     X      |                  |
+|Enchantment  |       X        |     X      |            |            |                  |
+|Planeswalker |       X        |     X      |            |            |        X         |
+|Instant      |                |     X      |            |            |                  |
+|Sorcery      |                |     X      |            |            |                  |
++-------------+----------------+------------+------------+------------+------------------+
+                                                                                                           Section 1: The Basics
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Game Zones
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Library
