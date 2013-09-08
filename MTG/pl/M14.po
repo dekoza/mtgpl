@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-06 22:29+0200\n"
+"PO-Revision-Date: 2013-09-08 09:04+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378502997.95252\n"
+"X-POOTLE-MTIME: 1378627455.404455\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -245,7 +245,7 @@ msgstr ""
 
 #: Bramblecrush
 msgid "Destroy target noncreature permanent."
-msgstr "Zniszcz wskazaną bierkę nie będącą stworem."
+msgstr "Zniszcz wskazaną stałkę nie będącą stworem."
 
 #: Brave the Elements
 msgid ""
@@ -505,7 +505,7 @@ msgstr ""
 
 #: Disperse
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Zwróć wskazaną bierkę nie będącą lądem do ręki jego właściciela."
+msgstr "Zwróć wskazaną stałkę nie będącą lądem do ręki jego właściciela."
 
 msgid "When Divine Favor enters the battlefield, you gain 3 life."
 msgstr "Kiedy Boska Łaska wchodzi na pole walki, dostajesz 3 życia."
@@ -865,15 +865,15 @@ msgstr "Stwory twoich przeciwników wchodzą na pole walki jako zużyte."
 
 #: Indestructibility
 msgid "Enchant permanent"
-msgstr "Zaurocz bierkę"
+msgstr "Zaurocz stałkę"
 
 msgid ""
 "Enchanted permanent has indestructible. (Effects that say \"destroy\" don't "
 "destroy that permanent. A creature with indestructible can't be destroyed by "
 "damage.)"
 msgstr ""
-"Zauroczona bierka ma Niezniszczalność. (Efekty, które mówią \"zniszcz\", nie "
-"niszczą tej bierki. Stwór z Niezniszczalnością nie może być zniszczony przez "
+"Zauroczona stałka ma Niezniszczalność. (Efekty, które mówią \"zniszcz\", nie "
+"niszczą tej stałki. Stwór z Niezniszczalnością nie może być zniszczony przez "
 "obrażenia.)"
 
 #: Into the Wilds
@@ -1157,7 +1157,7 @@ msgstr "W"
 
 #: Planar Cleansing
 msgid "Destroy all nonland permanents."
-msgstr "Zniszcz wszystkie bierki nie będące lądami."
+msgstr "Zniszcz wszystkie stałki nie będące lądami."
 
 #: Plummet
 msgid "Destroy target creature with flying."
@@ -1194,8 +1194,8 @@ msgid ""
 "damage plus 2 to that permanent or player instead."
 msgstr ""
 "Jeśli kontrolowany przez ciebie czerwony czar sztuczki lub guseł albo "
-"kontrolowany przez ciebie Wędrowiec miałby zadać obrażenia bierce lub "
-"graczowi, zadaje tej bierce lub graczowi o 2 obrażenia więcej."
+"kontrolowany przez ciebie Wędrowiec miałby zadać obrażenia stałce lub "
+"graczowi, zadaje tej stałce lub graczowi o 2 obrażenia więcej."
 
 msgid "Enchanted creature gets -1/-1 for each Swamp you control."
 msgstr "Zauroczony stwór dostaje -1/-1 za każde Bagno, które kontrolujesz."
@@ -1229,7 +1229,7 @@ msgid ""
 "{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted "
 "mana cost equal to the number of charge counters on Ratchet Bomb."
 msgstr ""
-"{T}, poświęć Ratchet Bomb: zniszcz każdą nie będącą lądem bierkę, której "
+"{T}, poświęć Ratchet Bomb: zniszcz każdą nie będącą lądem stałkę, której "
 "łączny koszt many jest równy liczbie znaczników ładowania na Ratchet Bomb."
 
 #: Ring of Three Wishes

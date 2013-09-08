@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 02:36+0200\n"
-"PO-Revision-Date: 2013-09-06 22:52+0200\n"
+"PO-Revision-Date: 2013-09-08 09:08+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378504364.486879\n"
+"X-POOTLE-MTIME: 1378627716.266143\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Abrupt Decay
@@ -26,7 +26,7 @@ msgstr "Abrupt Decay nie może być skontrowany przez czary i zdolności."
 
 msgid "Destroy target nonland permanent with converted mana cost 3 or less."
 msgstr ""
-"Zniszcz wskazaną bierkę nie będący lądem o łącznym koszcie many 3 lub mniej."
+"Zniszcz wskazaną stałkę nie będącą lądem o łącznym koszcie many 3 lub mniej."
 
 #: Aerial Predation
 msgid "Destroy target creature with flying. You gain 2 life."
@@ -67,8 +67,8 @@ msgid ""
 "can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
 "Zawsze, gdy Archon of the Triumvirate atakuje, uwięź do dwóch wskazanych "
-"bierek nie będących lądami znajdujących się pod kontrolą przeciwników. (Do "
-"twojej następnej tury bierki te nie mogą atakować ani blokować, a ich "
+"stałek nie będących lądami znajdujących się pod kontrolą przeciwników. (Do "
+"twojej następnej tury stałki te nie mogą atakować ani blokować, a ich "
 "aktywowane zdolności nie mogą być aktywowane.)"
 
 #: Archweaver
@@ -379,7 +379,7 @@ msgstr ""
 #: Cyclonic Rift
 msgid "Return target nonland permanent you don't control to its owner's hand."
 msgstr ""
-"Przywróć wskazaną bierkę nie będącą lądem, której nie kontrolujesz do ręki "
+"Przywróć wskazaną stałkę nie będącą lądem, której nie kontrolujesz do ręki "
 "jej właściciela."
 
 msgid ""
@@ -1015,6 +1015,9 @@ msgid ""
 "next turn, that permanent can't attack or block and its activated abilities "
 "can't be activated.)"
 msgstr ""
+"{3}{W}{U}: Uwięź wskazaną stałkę nie będącą lądem kontrolowaną przez "
+"przeciwnika. (Do twojej następnej tury stałka ta nie może atakować ani "
+"blokować, a jej aktywowane zdolności nie mogą być aktywowane.)"
 
 #: Nivix Guildmage
 msgid "{1}{U}{R}: Draw a card, then discard a card."
@@ -1075,6 +1078,8 @@ msgid ""
 "All damage that would be dealt to you or another permanent you control is "
 "dealt to Palisade Giant instead."
 msgstr ""
+"Wszelkie obrażenia, które mogłyby zostać zadane innej kontrolowanej przez "
+"ciebie stałce albo tobie, są zamiast tego zadawane Palisade Giantowi."
 
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
@@ -1390,7 +1395,7 @@ msgstr ""
 
 #: Soul Tithe
 msgid "Enchant nonland permanent"
-msgstr ""
+msgstr "Zaurocz stałkę nie będącą lądem"
 
 msgid ""
 "At the beginning of the upkeep of enchanted permanent's controller, that "
@@ -1672,7 +1677,7 @@ msgid ""
 msgstr ""
 
 msgid "-3: Destroy target nonland permanent."
-msgstr ""
+msgstr "-3: Zniszcz wskazaną stałkę nie będącą lądem."
 
 msgid ""
 "-7: Put three 1/1 black Assassin creature tokens onto the battlefield with "

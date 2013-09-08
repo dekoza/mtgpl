@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-06 22:50+0200\n"
+"PO-Revision-Date: 2013-09-08 09:00+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378504215.79621\n"
+"X-POOTLE-MTIME: 1378627257.43140\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -235,7 +235,7 @@ msgid ""
 "Gain control of target permanent until end of turn. Untap it. It gains haste "
 "until end of turn."
 msgstr ""
-"Przejmij kontrolę nad wskazaną bierką do końca tury. Odśwież ją. Zyskuje ona "
+"Przejmij kontrolę nad wskazaną stałką do końca tury. Odśwież ją. Zyskuje ona "
 "Pośpiech do końca tury."
 
 #: Clear a Path
@@ -431,7 +431,7 @@ msgstr ""
 #: Gaze of Granite
 msgid "Destroy each nonland permanent with converted mana cost X or less."
 msgstr ""
-"Zniszcz każdą bierkę nie będący lądem mającą łączny koszt many X lub mniej."
+"Zniszcz każdą stałkę nie będącą lądem mającą łączny koszt many X lub mniej."
 
 #: Give // Take (Give)
 msgid "Put three +1/+1 counters on target creature."
@@ -500,8 +500,8 @@ msgid ""
 "You may tap or untap target permanent, then you may tap or untap another "
 "target permanent."
 msgstr ""
-"Możesz zużyć lub odświeżyć wskazaną bierkę, a następnie zużyć lub odświeżyć "
-"inną wskazaną bierkę."
+"Możesz zużyć lub odświeżyć wskazaną stałkę, a następnie zużyć lub odświeżyć "
+"inną wskazaną stałkę."
 
 msgid ""
 "Cipher (Then you may exile this spell card encoded on a creature you "
@@ -594,9 +594,9 @@ msgid ""
 "your next turn, those permanents can't attack or block and their activated "
 "abilities can't be activated.)"
 msgstr ""
-"Kiedy Lavinia of the Tenth wchodzi na pole walki, uwięź każdą bierkę nie "
+"Kiedy Lavinia of the Tenth wchodzi na pole walki, uwięź każdą stałkę nie "
 "będącą lądem, kontrolowaną przez twoich przeciwników, o łącznym koszcie many "
-"nie większym niż 4. (Do twojej następnej tury bierki te nie mogą atakować "
+"nie większym niż 4. (Do twojej następnej tury stałki te nie mogą atakować "
 "lub blokować, a ich aktywowane zdolności nie mogą zostać aktywowane.)"
 
 #: Legion's Initiative
@@ -769,7 +769,7 @@ msgstr ""
 
 #: Obzedat's Aid
 msgid "Return target permanent card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną bierkę ze swojego cmentarza na pole walki."
+msgstr "Przywróć wskazaną stałkę ze swojego cmentarza na pole walki."
 
 #: Opal Lake Gatekeepers
 msgid ""
@@ -905,7 +905,7 @@ msgstr ""
 
 #: Ral Zarek
 msgid "+1: Tap target permanent, then untap another target permanent."
-msgstr "+1: Zużyj wskazaną bierkę, następnie odśwież inną bierkę."
+msgstr "+1: Zużyj wskazaną stałkę, następnie odśwież inną stałkę."
 
 msgid "-2: Ral Zarek deals 3 damage to target creature or player."
 msgstr ""
@@ -962,7 +962,7 @@ msgstr ""
 
 #: Renounce the Guilds
 msgid "Each player sacrifices a multicolored permanent."
-msgstr "Każdy gracz poświęca wielokolorową bierkę."
+msgstr "Każdy gracz poświęca wielokolorową stałkę."
 
 #: Restore the Peace
 #, fuzzy
@@ -1212,7 +1212,7 @@ msgid ""
 "Change the text of target permanent by replacing all instances of one color "
 "word with another or one basic land type with another until end of turn."
 msgstr ""
-"Zmień tekst wskazanej bierki poprzez zmianę wszystkich wystąpień jednego "
+"Zmień tekst wskazanej stałki poprzez zmianę wszystkich wystąpień jednego "
 "koloru innym albo jednego podstawowego typu lądu innym, do końca tury."
 
 #: Trostani's Summoner
@@ -1280,7 +1280,7 @@ msgid ""
 "another of those counters on that permanent."
 msgstr ""
 "{G}{U}, {T}: Dla każdego znacznika na wskazanym artefakcie, stworze lub "
-"lądzie, połóż na owej bierce kolejny taki sam znacznik."
+"lądzie, połóż na owej stałce kolejny taki sam znacznik."
 
 #: Wake the Reflections
 msgid ""
