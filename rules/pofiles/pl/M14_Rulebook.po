@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 12:42\n"
-"PO-Revision-Date: 2013-09-09 13:36+0200\n"
+"PO-Revision-Date: 2013-09-09 22:45+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378730201.181999\n"
+"X-POOTLE-MTIME: 1378763148.475585\n"
 
 # 45201559181642ae9fa2ac72272dafdd
 #: ../../M14_Rulebook.rst:6
@@ -34,21 +34,43 @@ msgstr "Zapal swoją iskrę"
 #: ../../M14_Rulebook.rst:12
 msgid "In the **Magic™** game, you are counted among the elite spellcasters of the Multiverse — the Planeswalkers. Some are friends and others are foes. All wield terrifying magic and command armies of creatures torn from the endless planes of reality. Your deck of cards represents all the weapons in your arsenal. It contains the spells you know and the creatures you can summon to fight for you. Customize your own **Magic** deck, then challenge your friends to see whose spark burns the brightest!"
 msgstr ""
+"W grze **Magic™** jesteś jednym z elitarnych czarowników Wieloświata — "
+"Wędrowców. Jedni z nich są przyjaciółmi, inni wrogami. Wszyscy władają "
+"przerażającą magią i dowodzą armiami stworów zaciągniętymi wśród "
+"nieskończonych płaszczyzn rzeczywistości. Twoja talia kart reprezentuje cały "
+"twój arsenał. Zawiera czary, które znasz i stwory, które możesz przyzwać, "
+"by walczyły dla ciebie. Złóż swoją własną talię do **Magic,** a później staw "
+"czoła przyjaciołom, by przekonać się, czyja iskra płonie najjaśniej!"
 
 # 95e7dfd2bfb7457ba07a0c30421ae153
 #: ../../M14_Rulebook.rst:17
 msgid "Trading card games like the **Magic: The Gathering®** game combine collectable cards with a strategy game. Start your collection with an intro pack and begin battling immediately with a ready-to-play deck."
 msgstr ""
+"Gry kolekcjonerskie, takie jak **Magic: The Gathering®** łączą "
+"kolekcjonerskie karty z grą strategiczną. Zapoczątkuj kolekcję zestawem "
+"początkowym i stań w szranki z talią gotową do gry."
 
 # c5d51240b25f45af8711d3b5bee76735
 #: ../../M14_Rulebook.rst:20
+#, fuzzy
 msgid "Once you've gotten a handle on how to play, customize your deck using cards from booster packs, starting with the ones included in your intro pack. You don't know what cards you'll get in a **Magic** booster pack. You just start a collection and trade with other players to get the cards you want. You can find stores where **Magic** cards are sold at `Wizards.com/Locator`_."
 msgstr ""
+"Gdy już przyswoisz sobie zasady gry, ulepsz talię używając kart z pakietów "
+"zaczynając od tych zawartych w zestawie początkowym. Nigdy nie wiadomo, "
+"jakie karty trafisz w pakiecie. Po prostu zaczynasz kolekcję i wymieniasz "
+"się kartami z innymi graczami na te, które chcesz. Możesz też znaleźć sklepy "
+"sprzedające karty pod adresem `Wizards.com/Locator`_."
 
 # 5c119a89340445deb5bcd90a2920ca9b
 #: ../../M14_Rulebook.rst:24
 msgid "The best part about a trading card game is that it's always changing. You design and build your own unique decks, and each **Magic** game you play is different. New **Magic** expansions are released a few times a year, and each new expansion brings new ways to stupefy and defeat your opponents. Check out `MagicTheGathering.com`_ for daily articles, insider information, and news about upcoming sets!"
 msgstr ""
+"Najlepsze w grze kolekcjonerskiej jest to, że ciągle się ona zmienia. "
+"Projektujesz i składasz własną unikalną dalię i każda partia **Magic** jest "
+"inna. Nowe dodatki emitowane są kilka razy do roku i każdy z nich przynosi "
+"nowe sposoby na wprawienie przeciwników w osłupienie. Na "
+"`MagicTheGathering.com`_ codzeinnie znajdziesz artykuły, informacje i "
+"aktualności na temat nadchodzących zestawów!"
 
 # ce748bea707945bc8c6f71f0de10d519
 #: ../../M14_Rulebook.rst:31
@@ -59,6 +81,13 @@ msgstr "Sekcja 1: Podstawy"
 #: ../../M14_Rulebook.rst:33
 msgid "The **Magic: The Gathering** game is a strategy game played by two or more players, each of whom has a customized deck of **Magic** cards. Over the course of the game, each player will take turns playing cards such as lands (which enable you to play your other cards), creatures, sorceries, and other spells. Each player starts at 20 life. When you reduce your opponent to 0 life by attacking with creatures and playing spells, you win!"
 msgstr ""
+"**Magic: The Gathering** jest grą strategiczną dla dwóch lub więcej graczy, "
+"z których każdy ma talię ułożoną z kart do tej gry. Podczas rozgrywki każdy "
+"z graczy w czasie swojej tury zagrywa takie karty jak lądy (które "
+"umożliwiają zagrywanie innych kart), stwory, obrzędy i inne czary. Każdy "
+"gracz rozpoczyna grę z 20 punktami życia. Kiedy sprowadzisz punkty życia "
+"przeciwnika do zera poprzez atakowanie stworami i zagrywanie czarów - "
+"wygrywasz!"
 
 # 9c287901990541d4b5ac36622f9edfe1
 #: ../../M14_Rulebook.rst:39
@@ -69,6 +98,10 @@ msgstr "Pięć kolorów many"
 #: ../../M14_Rulebook.rst:41
 msgid "Only one thing unites the infinite planes of the Multiverse: mana, the energy that fuels all magic. The five colors of mana are imbued in the land itself, and a Planeswalker with a connection to a place can call upon its mana from across the sea of Æther between worlds."
 msgstr ""
+"Tylko jedna rzecz spaja nieskończone płaszczyzny Wieloświata: mana, energia "
+"napędzająca całą magię. Pięć kolorów many przesycają konkretne krainy, a "
+"Wędrowcy połączeni z takim miejscem mogą pobierać z niego manę poprzez morze "
+"eteru rozdzielające światy."
 
 # d799053ce63a4e7791e9a3c1f2e9f2c8
 #: ../../M14_Rulebook.rst:44
@@ -253,6 +286,8 @@ msgstr "Typy kart"
 #: ../../M14_Rulebook.rst:131
 msgid "Every **Magic** card has one or more types. A card's type tells you when you can play the card and what happens to the card after you do."
 msgstr ""
+"Każda karta do **Magic** ma jeden lub więcej typów. Mówi on o tym, kiedy "
+"możesz zagrać daną kartę i co się stanie po tym, jak to zrobisz."
 
 # 5dc7da2de4db46329c1476953e0feaf8
 # f63ee0724e1649f4aaf4ba6f8e9324d7
@@ -267,6 +302,12 @@ msgstr "Obrzęd"
 #: ../../M14_Rulebook.rst:138
 msgid "A sorcery represents a magical incantation. You can cast a sorcery only during a *main phase* of one of your own turns. You can't cast it when another spell is on the *stack*. (You'll learn about phases and the stack in a bit.) A sorcery has its *effect*—in other words, you follow the instructions on the card—then you put it into your *graveyard*, which is the game term for your discard pile."
 msgstr ""
+"Obrzęd reprezentuje magiczne zaklęcie. Możesz rzucić obrzęd wyłącznie "
+"podczas *fazy głównej* jednej ze swoich tur. Nie możesz go rzucić, gdy inny "
+"czar jest na *stosie*. (O fazach i stosie dowiesz się niebawem.) Obrzęd ma "
+"swój *efekt* - innymi słowy wykonujesz instrukcje na karcie - następnie "
+"wkładasz go do swojego *cmentarza*, który oznacza w grze stos kart "
+"odrzuconych."
 
 # 5ee4a29eb651429db46f696dc1e074bb
 # 5554eb40fcb34adea95aa6820f51eb54
@@ -281,6 +322,10 @@ msgstr "Sztuczka"
 #: ../../M14_Rulebook.rst:148
 msgid "An instant is just like a sorcery, except you can cast it just about any time you want, even during your opponent's turn or *in response* to another spell. Like a sorcery, an instant has its effect, then you put it into your graveyard."
 msgstr ""
+"Sztuczka jest podobna do obrzędu, z wyjątkiem tego, że możesz ją zagrać "
+"praktycznie kiedy tylko chcesz, nawet podczas tury przeciwnika lub *w "
+"odpowiedzi* na inny czar. Podobnie do obrzędu, sztuczka ma efekt, a "
+"następnie umieszczasz ją w swoim cmentarzu."
 
 # f9b65e109bf443a3b0a156500ab1fe00
 # fd8d12f31fac4fe8b751f54b47925e9d
@@ -295,11 +340,20 @@ msgstr "Urok"
 #: ../../M14_Rulebook.rst:156
 msgid "An enchantment represents a stable magical manifestation. An enchantment is a *permanent*. This means two things: you can cast one only at the time you could cast a sorcery, and after you cast one, you'll put it on the table in front of you, near your lands. (Most players keep their lands closer to them, then put their other cards closer to the middle of the table.) The card is now on the *battlefield*. A card on the battlefield is called a *permanent* because it sticks around permanently (well, unless something destroys it)."
 msgstr ""
+"Urok reprezentuje stały magiczny przejaw. Jest on *stałką*. Oznacza to dwie "
+"rzeczy: możesz go zagrać tylko wtedy, gdy możesz zagrać obrzęd, a po "
+"rzuceniu kładziesz go przed sobą na stole w pobliżu lądów. (Większość graczy "
+"trzyma lądy blisko siebie, a inne karty bliżej środka stołu.) Karta jest "
+"teraz na *polu walki*. Karta na polu walki nazywana jest *stałką*, ponieważ "
+"zostaje na stałe (cóż, przynajmniej do chwili, gdy coś ją zniszczy)."
 
 # f8f67a3a4d7e4c9da359737c03df26c9
 #: ../../M14_Rulebook.rst:164
 msgid "Some enchantments are *Auras*. An Aura enters the battlefield attached to a permanent and affects that permanent while it's on the battlefield. If the enchanted permanent leaves the battlefield, the Aura is put into its owner's graveyard."
 msgstr ""
+"Niektóre uroki są *Aurami*. Aura wchodzi na pole walki dołączona do stałki i "
+"wpływa na nią dopóki jest na polu walki. Jeśli zauroczona stałka opuszcza "
+"pole walki, Aura trafia do cmentarza swojego właściciela."
 
 # 36098e0f2b81491aa6111b69a0f0412b
 # 7ec6414cc94e4248a5b0eed387b9f9fc
@@ -314,11 +368,19 @@ msgstr "Artefakt"
 #: ../../M14_Rulebook.rst:173
 msgid "An artifact represents a magical relic. Like an enchantment, an artifact is a permanent, so it'll stay on the battlefield affecting the game. Most artifacts are colorless, so you can cast one no matter what kinds of lands you have."
 msgstr ""
+"Artefakt reprezentuje magiczny relikt. Podobnie do uroku, artefakt jest "
+"stałką, więc będzie trwał na polu walki wpływając na grę. Większość "
+"artefaktów jest bezkolorowa, więc możesz je rzucać bez względu na rodzaj "
+"posiadanych lądów."
 
 # e9db8aa29aa1413d9100769a14da26af
 #: ../../M14_Rulebook.rst:177
 msgid "Some artifacts are *Equipment*. You can pay to attach an Equipment to a creature you control to make that creature more powerful. If an equipped creature leaves the battlefield, the Equipment doesn't—the creature drops it and it remains on the battlefield."
 msgstr ""
+"Niektóre artefakty są *Wyposażeniem*. Możesz opłacić koszt, by dołączyć "
+"Ekwipunek do stwora, którym władasz, by uczynić go potężniejszym. Jeśli "
+"wyposażony stwór opuści pole walki, Wyposażenie pozostanie - stwór upuszcza "
+"je, więc pozostaje na polu walki."
 
 # 1063c5a841b749e7bf444d334c63b891
 # 4cddd669ccd24f52abcd74ab3aa575f9
@@ -333,16 +395,31 @@ msgstr "Stwór"
 #: ../../M14_Rulebook.rst:185
 msgid "Creatures fight for you. They're permanents, but unlike any other kind of permanent, creatures can *attack* and *block*. Each creature has *power* and *toughness*. Its power (the first number) is how much *damage* it deals in combat. Its toughness (the second number) is how much damage must be dealt to it in a single turn to destroy it. Creatures attack and block during the *combat phase*."
 msgstr ""
+"Stwory walczą dla ciebie. Są stałkami, ale w przeciwieństwie do innych "
+"stałek, stwory mogą *atakować* i *blokować*. Każda z nich ma *siłę* oraz "
+"*wytrzymałość*. Siła (pierwsza liczba) mówi, ile *obrażeń* zadaje w walce. "
+"Wytrzymałość (druga liczba) mówi, ile obrażeń trzeba zadać w jednej turze, "
+"aby stwora zniszczyć. Stwory atakują i blokują podczas *fazy walki*."
 
 # 5b4810281def4731b09844cff5574646
 #: ../../M14_Rulebook.rst:190
 msgid "Unlike other types of permanents, creatures enter the battlefield with \"summoning sickness\": a creature can't attack, or use an ability that has {T} in its cost, until it has started your turn on the battlefield under your control. You can block with a creature or activate its other abilities no matter how long it's been on the battlefield."
 msgstr ""
+"W przeciwieństwie do innych stałek, stwory wchodzą na pole walki z \"chorobą "
+"przyzwaniową\": stwór nie może atakować lub używać zdolności, która ma {T}w "
+"koszcie dopóki nie rozpocznie tury na polu walki pod twoim władaniem. Możesz "
+"blokować lub używać innych zdolności niezależnie od tego, jak długo dany "
+"stwór jest na polu walki."
 
 # 5991a2ab3bcb4578ac848adb87ffc4bf
 #: ../../M14_Rulebook.rst:195
+#, fuzzy
 msgid "Artifact creatures are both artifacts and creatures. They're usually colorless like other artifacts, and they can attack and block like other creatures. An artifact creature can be affected by anything that affects artifacts, as well as anything that affects creatures."
 msgstr ""
+"Stwory artefaktowe są jednocześnie artefaktami i stworami. Zwykle są "
+"bezkolorowe, jak inne artefakty, oraz mogą atakować i blokować jak inne "
+"stwory. Stwór artefaktowy może być pod wpływem wszystkiego, co wpływa na "
+"artefakty oraz wszystkiego, co wpływa na stwory."
 
 # 8f9c1efe62d34c1ab760e3f397d5f06b
 # af01e4e62412484781cf2738e3cd159b
