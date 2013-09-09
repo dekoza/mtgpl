@@ -99,8 +99,8 @@ type Dragon.
 
 Expansion Symbol
 ~~~~~~~~~~~~~~~~
-This symbol tells you which Magic set the card is from. This version of Shivan
-Dragon is from the Magic 2014 core set. The color of the symbol tells you the
+This symbol tells you which **Magic** set the card is from. This version of Shivan
+Dragon is from the *Magic 2014* core set. The color of the symbol tells you the
 card's rarity: black for common cards, silver for uncommons, gold for rares, and
 red-orange for mythic rares.
 
@@ -112,12 +112,10 @@ on game play. Some abilities have italic reminder text to help explain what they
 
 Power and Toughness
 ~~~~~~~~~~~~~~~~~~~
-Each creature card has a special box with its power and toughness. A creature's power
+Each creature card has a special box with its *power* and *toughness*. A creature's power
 (the first number) is how much damage it deals in combat. Its toughness (the second number)
 is how much damage must be dealt to it in a single turn to destroy it. (A planeswalker
 card has a different special box with its loyalty here.)
-
-
 
 Collector Number
 ~~~~~~~~~~~~~~~~
@@ -130,7 +128,7 @@ card is the 154th of 249 cards in its set.
 Card Types
 ----------
 
-Every Magic card has one or more types. A card's type tells you when you can play the card and what
+Every **Magic** card has one or more types. A card's type tells you when you can play the card and what
 happens to the card after you do.
 
 .. _sec-sorcery:
@@ -138,17 +136,17 @@ happens to the card after you do.
 Sorcery
 ~~~~~~~
 A sorcery represents a magical incantation. You can cast a sorcery only during
-a main phase of one of your own turns. You can't cast it when another spell is
-on the stack. (You'll learn about phases and the stack in a bit.) A sorcery has
-its effect—in other words, you follow the instructions on the card—then you put
-it into your graveyard, which is the game term for your discard pile.
+a *main phase* of one of your own turns. You can't cast it when another spell is
+on the *stack*. (You'll learn about phases and the stack in a bit.) A sorcery has
+its *effect*—in other words, you follow the instructions on the card—then you put
+it into your *graveyard*, which is the game term for your discard pile.
 
 .. _sec-instant:
 
 Instant
 ~~~~~~~
 An instant is just like a sorcery, except you can cast it just about any time
-you want, even during your opponent's turn or in response to another spell.
+you want, even during your opponent's turn or *in response* to another spell.
 Like a sorcery, an instant has its effect, then you put it into your graveyard.
 
 .. _sec-enchantment:
@@ -156,14 +154,14 @@ Like a sorcery, an instant has its effect, then you put it into your graveyard.
 Enchantment
 ~~~~~~~~~~~
 An enchantment represents a stable magical manifestation. An enchantment is
-a permanent. This means two things: you can cast one only at the time you
+a *permanent*. This means two things: you can cast one only at the time you
 could cast a sorcery, and after you cast one, you'll put it on the table
 in front of you, near your lands. (Most players keep their lands closer to them,
 then put their other cards closer to the middle of the table.) The card is now
-on the battlefield. A card on the battlefield is called a permanent because it
+on the *battlefield*. A card on the battlefield is called a *permanent* because it
 sticks around permanently (well, unless something destroys it).
 
-Some enchantments are Auras. An Aura enters the battlefield attached to
+Some enchantments are *Auras*. An Aura enters the battlefield attached to
 a permanent and affects that permanent while it's on the battlefield. If the
 enchanted permanent leaves the battlefield, the Aura is put into its owner's
 graveyard.
@@ -176,7 +174,7 @@ An artifact represents a magical relic. Like an enchantment, an artifact is a pe
 battlefield affecting the game. Most artifacts are colorless, so you can cast one no matter what kinds of lands
 you have.
 
-Some artifacts are Equipment. You can pay to attach an Equipment to a creature you control to make that
+Some artifacts are *Equipment*. You can pay to attach an Equipment to a creature you control to make that
 creature more powerful. If an equipped creature leaves the battlefield, the Equipment doesn't—the creature
 drops it and it remains on the battlefield.
 
@@ -184,13 +182,13 @@ drops it and it remains on the battlefield.
 
 Creature
 ~~~~~~~~
-Creatures fight for you. They're permanents, but unlike any other kind of permanent, creatures can attack
-and block. Each creature has power and toughness. Its power (the first number) is how much damage it deals
+Creatures fight for you. They're permanents, but unlike any other kind of permanent, creatures can *attack*
+and *block*. Each creature has *power* and *toughness*. Its power (the first number) is how much *damage* it deals
 in combat. Its toughness (the second number) is how much damage must be dealt to it in a single turn to
-destroy it. Creatures attack and block during the combat phase.
+destroy it. Creatures attack and block during the *combat phase*.
 
 Unlike other types of permanents, creatures enter the battlefield with "summoning sickness": a creature
-can't attack, or use an ability that has oT in its cost, until it has started your turn on the battlefield under
+can't attack, or use an ability that has {T} in its cost, until it has started your turn on the battlefield under
 your control. You can block with a creature or activate its other abilities no matter how long it's been on
 the battlefield.
 
@@ -204,9 +202,9 @@ Planeswalker
 ~~~~~~~~~~~~
 Planeswalkers are powerful allies you can call on to fight by your side. You can cast a planeswalker only at the
 time you could cast a sorcery. They're permanents, and each one enters the battlefield with the number of
-loyalty counters indicated in its lower right corner.
+*loyalty* counters indicated in its lower right corner.
 
-Each planeswalker has loyalty abilities that are activated by adding or removing loyalty counters from the
+Each planeswalker has *loyalty abilities* that are activated by adding or removing loyalty counters from the
 planeswalker. For example, the symbol {+1} means "Put one loyalty counter on this planeswalker" and the symbol
 {-3} means "Remove three loyalty counters from this planeswalker." You can activate one of these abilities only
 at the time you could cast a sorcery and only if none of that planeswalker's loyalty abilities have been activated
@@ -230,7 +228,7 @@ and abilities.
 
 Each basic land has a mana ability that makes one mana of a particular color. Plains make white mana
 ({W}), Islands make blue mana ({U}), Swamps make black mana ({B}), Mountains make red mana ({R}), and
-Forests make green mana ({G}). Any land other than these five is a nonbasic land.
+Forests make green mana ({G}). Any land other than these five is a *nonbasic land*.
 
 +-------------+----------------+------------+------------+------------+------------------+
 |Card type    | Is a permanent | Is cast as | Is usually | Can attack | Can be attacked  |
@@ -276,13 +274,13 @@ seven at the end of each of your turns.) Each player has his or her own hand.
 
 The Stack
 ~~~~~~~~~
-Spells and abilities exist on the stack. They wait there to resolve until both
+Spells and abilities exist on the stack. They wait there to *resolve* until both
 players choose not to cast any new spells or activate any new abilities. Then the
 last spell or ability that was put onto the stack resolves, and players get a chance
 to cast spells and activate abilities again. (You'll learn more about casting spells
 and activating abilities in the next section.) This zone is shared by both players.
 
-.. _sec-battlefield>:
+.. _sec-battlefield:
 
 Battlefield
 ~~~~~~~~~~~
@@ -291,13 +289,15 @@ is going to be. On each of your turns, you can play a land from your hand.
 Creatures, artifacts, enchantments, and planeswalkers also enter the battlefield
 after they resolve. You can arrange your permanents however you want (we
 recommend putting lands closest to you), but your opponent must be able to see
-all of them and tell whether they're tapped. This zone is shared by both players.
+all of them and tell whether they're *tapped*. This zone is shared by both players.
+
+.. _sec-graveyard:
 
 Graveyard
 ~~~~~~~~~
 Your graveyard is your discard pile. Your instant and sorcery spells go to your
 graveyard when they resolve. Your cards go to your graveyard if an effect causes
-them to be discarded, destroyed, sacrificed, or countered. Your planeswalkers go
+them to be *discarded*, *destroyed*, *sacrificed*, or *countered*. Your planeswalkers go
 to your graveyard if they lose all their loyalty counters. Your creatures go to
 your graveyard if the damage they're dealt in a single turn is equal to or greater
 than their toughness, or if their toughness is reduced to 0 or less. Cards in your
@@ -306,7 +306,7 @@ player has his or her own graveyard.
 
 Exile
 ~~~~~
-If a spell or ability exiles a card, that card is put in a game area that's set apart
+If a spell or ability *exiles* a card, that card is put in a game area that's set apart
 from the rest of the game. The card will remain there forever, unless whatever
 put it there is able to bring it back. Exiled cards are normally face up. This zone
 is shared by both players.
@@ -316,6 +316,8 @@ example, there aren't any exiled cards, and no spells
 are on the stack. (When you put a spell on the stack,
 you take the card from your hand and put it in the
 middle of the table until it finishes resolving.)
+
+.. _sec-building-blocks:
 
 ================================
  Section 2: The Building Blocks
@@ -333,19 +335,19 @@ Making Mana
 To do just about anything else in the game, you first need to be
 able to make mana. Think of mana as Magic money—it's what
 you use to pay most costs. Each mana is either one of the five
-Magic colors or is colorless. When a cost requires colored mana,
-you'll see colored mana symbols (oW for white, U for blue, B
-for black, R for red, G for green). When any kind of mana
+**Magic** *colors* or is *colorless*. When a cost requires colored mana,
+you'll see colored mana symbols ({W} for white, {U} for blue, {B}
+for black, {R} for red, {G} for green). When any kind of mana
 can be used to pay the cost, you'll see a symbol with a number
-in it (like 2).
+in it (like {2}).
 
 Where does mana come from? Nearly every land in the game
 has an ability that produces mana. Basic lands just have a large
 mana symbol in their text boxes to show this—you can tap one
-of them to add one mana of that color to your mana pool. (Your
+of them to add one mana of that color to your *mana pool*. (Your
 mana pool is where mana is stored until you spend it.) Other
 lands, as well as some creatures, artifacts, and spells, may also
-make mana. They'll say something like "Add G to your mana
+make mana. They'll say something like "Add {G} to your mana
 pool."
 
 +-----------------+-------------------+
@@ -370,11 +372,11 @@ make mana when you need it to cast a spell or activate an ability.
 Tapping
 ~~~~~~~
 To tap a card is to turn it sideways. You do this when you use a land to make mana,
-when you attack with a creature, or when you activate an ability that has the oT
-symbol as part of its cost (oT means "tap this permanent").
+when you attack with a creature, or when you activate an ability that has the {T}
+symbol as part of its cost ({T} means "tap this permanent").
 
 When a permanent is tapped, that usually means it's been used for the turn. You
-can't tap it again until it's been untapped (straightened out).
+can't tap it again until it's been *untapped* (straightened out).
 
 At the beginning of each of your turns, you untap your tapped cards so you can
 use them again.
@@ -420,7 +422,7 @@ activate the activated ability. Once you choose targets,
 you can't change your mind later.
 
 When the spell or ability resolves, it checks the
-targets to make sure they're still legal (they're still there,
+targets to make sure they're still *legal* (they're still there,
 and they match the requirements stated by the spell or
 ability). If a target isn't legal, the spell or ability can't
 affect it. If none of the targets are legal, the spell or
@@ -430,7 +432,7 @@ Responding to a Spell
 ~~~~~~~~~~~~~~~~~~~~~
 The spell doesn't resolve (have its effect) right away—it has to wait
 on the stack. Each player, including you, now gets a chance to cast
-an instant or activate an activated ability in response. If a player
+an instant or activate an activated ability *in response*. If a player
 does, that instant or ability goes on the stack on top of what was
 already waiting there. When all players decline to do anything, the
 top spell or ability on the stack will resolve.
@@ -443,7 +445,7 @@ follow the instructions on the card), then you put the card into
 your graveyard. If the spell is a creature, artifact, enchantment,
 or planeswalker, you put the card on the table in front of you,
 near your lands. The card is now on the battlefield. Any of your
-cards on the battlefield is called a permanent because it sticks
+cards on the battlefield is called a *permanent* because it sticks
 around permanently (well, until something happens to it). Many
 permanents have abilities, which is text on them that affects the
 game.
@@ -466,7 +468,7 @@ Examples of Spells on the Stack
 
 2. You respond to the Shock by casting Show of
    Valor on your Auramancer. Show of Valor goes
-   on the stack, on top of Shock.
+   on the stack, *on top of Shock*.
 
 3. You and your opponent both decline to do
    anything else. Show of Valor resolves, making
@@ -487,13 +489,15 @@ it! When the Show of Valor tries to resolve,
 its only target is no longer on the battlefield,
 so it's countered (it does nothing).
 
+.. _sec-abilities:
+
 Abilities
 ---------
 
 As you start to accumulate permanents on the battlefield, the game will change. That's because many
 permanents have text on them that affects the game. This text tells you a permanent's abilities. There
-are three different kinds of abilities a permanent can have: static abilities, triggered abilities, and activated
-abilities.
+are three different kinds of abilities a permanent can have: *static abilities*, *triggered abilities*,
+and *activated abilities*.
 
 Static Abilities
 ~~~~~~~~~~~~~~~~
@@ -514,6 +518,7 @@ ability came from leaves the battlefield, the ability will still resolve.
 You can't choose to delay or ignore a triggered ability. However, if the ability targets something or
 someone but you can't choose a legal target for it, the ability won't do anything.
 
+.. _sec-activated-abilities:
 
 Activated Abilities
 ~~~~~~~~~~~~~~~~~~~
@@ -526,13 +531,13 @@ casting an instant spell, except there's no card to put on the stack. The abilit
 a spell, and resolves just like a spell. If you activate an ability but then the permanent the ability came
 from leaves the battlefield, the ability will still resolve.
 
-Some activated abilities contain the oT symbol in their costs. This means that you must tap the
+Some activated abilities contain the {T} symbol in their costs. This means that you must tap the
 permanent to activate the ability. You can't activate the ability if the permanent is already tapped.
 
 Keywords
 ~~~~~~~~
 Some permanents have abilities that are shortened to a single word or phrase. Many of these have
-reminder text that gives you a brief description of the ability's effect. Keyword abilities in the core set
+*reminder text* that gives you a brief description of the ability's effect. Keyword abilities in the core set
 include deathtouch, defender, enchant, equip, first strike, flash, flying, haste, hexproof, indestructible,
 landwalk (such as swampwalk or forestwalk), lifelink, protection, reach, trample, and vigilance. Most
 of these are static abilities, but keyword abilities can also be triggered abilities or activated abilities.
@@ -547,17 +552,17 @@ The primary way to win the game is to attack with your creatures. If a creature 
 blocked, it deals damage equal to its power to him or her. It doesn't take that many hits to drop your opponent all the
 way from 20 life to 0!
 
-The middle of each turn is the combat phase. (You'll learn about the parts of the turn in a bit.) In your combat phase,
-you choose which of your creatures will attack, and you choose who or what they will attack. Each one can attack
-your opponent or one of your opponent's planeswalkers, but not any of his or her creatures. You tap the attacking creatures.
-They all attack at the same time, even if they're attacking different things. You can attack with a creature only if it's
-untapped, and only if it was on the battlefield under your control when the turn began.
+The middle of each turn is the *combat phase*. (You'll learn about the :ref:`parts of the turn <sec-parts-of-turn`
+in a bit.) In your combat phase, you choose which of your creatures will attack, and you choose who or what they will
+attack. Each one can attack your opponent or one of your opponent's planeswalkers, but not any of his or her creatures.
+You tap the attacking creatures. They all attack at the same time, even if they're attacking different things.
+You can attack with a creature only if it's untapped, and only if it was on the battlefield under your control
+when the turn began.
 
 Your opponent chooses which of his or her creatures will block. Tapped creatures can't be declared as blockers. For
 blocking, it doesn't matter how long the creature has been on the battlefield. Each creature can block only one attacker,
 but multiple blockers can gang up on a single attacking creature. If that happens, the attacking player orders
-the blockers to show which is first in line for damage, which is second, and so on. Creatures
-don't have to block.
+the blockers to show which is first in line for damage, which is second, and so on. Creatures don't have to block.
 
 After all blockers are chosen, combat damage is assigned. Each creature—both attackers and
 blockers—deals damage equal to its power.
@@ -607,6 +612,8 @@ The unblocked attacker deals 3 damage to the defending
 player. The blocked attackers and the blockers deal damage
 to each other. The smaller creatures die and the bigger
 creatures live.
+
+.. _building-own-deck:
 
 Building Your Own Deck
 ----------------------
@@ -661,7 +668,8 @@ You'll need your own Magic deck. You'll also need a way to keep track of both pl
 use as counters or tokens.
 
 When you're first getting started, you may want to pick up a ready-to-play deck, such as an intro pack or event deck, or
-borrow a deck from a friend. After you've built up your collection, try building your own deck using the guidelines on page 15.
+borrow a deck from a friend. After you've built up your collection, try building your own deck using
+:ref:`the guidelines <sec-building-own-deck>` [on page 15].
 
 
 Get a Friend
@@ -685,12 +693,13 @@ don't like your opening hand, you can mulligan. Shuffle your hand back into your
 a new hand of six cards. You can keep doing this, drawing a hand of one fewer card each
 time, until you decide to keep your cards.
 
+.. _sec-parts-of-turn:
 
 Parts of the Turn
 -----------------
 
 Below are the parts of a turn. Each turn proceeds in the same sequence. Whenever you enter a new step or phase, any triggered abilities
-that happen during that step or phase trigger and are put on the stack. The active player (the player whose turn it is) gets to cast spells and
+that happen during that step or phase trigger and are put on the stack. The *active player* (the player whose turn it is) gets to cast spells and
 activate abilities, then the other player does. When both players in a row decline to do anything and nothing is waiting to resolve, the game
 will move to the next step or phase.
 
@@ -849,7 +858,7 @@ permanents, spend your own mana, and so on.
 Commander
 ~~~~~~~~~
 In a Commander game, each player's deck is led by the legendary
-creature of his or her choice—fittingly, that's the deck's commander.
+creature of his or her choice—fittingly, that's the deck's *commander*.
 The rest of the deck is a specially crafted arsenal of creatures,
 artifacts, and other spells, designed to reflect the personality of
 that commander and take advantage of his or her strengths. A
@@ -1287,6 +1296,8 @@ Defender
 Defending player
     The player who is being attacked (or whose planeswalker is being
     attacked) during a combat phase.
+
+.. _gl-destroy:
 
 Destroy
     To move a permanent from the battlefield to its owner's graveyard.
@@ -2109,9 +2120,9 @@ Zone
    likenesses, the pentagon of colors, and the WUBRGT symbols are property of Wizards of the Coast LLC
    in the USA and other countries. U.S. Pat. No. RE 37,957. 300B10998001 EN
 
-..  Your Friday Night Destination
-    Join the community of Magic™ players who play every Friday night!
-    Illus. Brad Rigney
+.. Your Friday Night Destination
+   Join the community of Magic™ players who play every Friday night!
+   Illus. Brad Rigney
 
 .. _Wizards.com/MagicFormats: http://wizards.com/MagicFormats/
 .. _Wizards.com/Locator: http://www.wizards.com/Locator/
