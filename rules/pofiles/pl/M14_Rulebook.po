@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 12:42\n"
-"PO-Revision-Date: 2013-09-09 11:32+0200\n"
+"PO-Revision-Date: 2013-09-09 13:36+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378722738.448279\n"
+"X-POOTLE-MTIME: 1378730201.181999\n"
 
 # 45201559181642ae9fa2ac72272dafdd
 #: ../../M14_Rulebook.rst:6
@@ -88,6 +88,10 @@ msgstr "Biały"
 #: ../../M14_Rulebook.rst:49
 msgid "**White** is the color of law, order, and structure. The sprawling **Plains**, populated by soldiers, clerics, and angels, provide white mana. You send coordinated armies of smaller creatures into battle to teach the enemy a lesson."
 msgstr ""
+"**Biały** jest kolorem prawa, porządku i ładu. Rozległe **Równiny**, "
+"zamieszkałe przez żołnierzy, kleryków i anioły, dostarczają białą manę. "
+"Wysyłasz do walki zorganizowane armie mniejszych stworów, by dać "
+"przeciwnikowi nauczkę."
 
 # 86fa8619622a4caab05ae65a19f6e2bc
 #: ../../M14_Rulebook.rst:54
@@ -98,6 +102,10 @@ msgstr "Zielony"
 #: ../../M14_Rulebook.rst:55
 msgid "**Green** magic is about growth, life, and brute force. The **Forests** overflow with green mana, which represents the pulse of nature. You empower your creatures with the predatory might of nature and dominate through sheer size."
 msgstr ""
+"**Zielona** magia dotyczy wzrostu, życia i brutalnej siły. **Lasy** "
+"przepełnione są zieloną maną, która reprezentuje puls natury. Wzmacniasz "
+"swoje stwory drapieżną siłą natury i dominujesz poprzez ich niezrównany "
+"rozmiar."
 
 # a88ed8bf545142fe82abbefcda1f135a
 #: ../../M14_Rulebook.rst:60
@@ -108,6 +116,10 @@ msgstr "Niebieski"
 #: ../../M14_Rulebook.rst:61
 msgid "**Blue** magic relies on trickery and manipulation. **Islands** provide blue mana, the color of the deep sea and the endless sky. You work behind the scenes, controlling your environment completely before making a move."
 msgstr ""
+"**Niebieska** magia opiera się na sztuczkach i manipulacji. **Wyspy** "
+"dostarczają niebieską manę, kolor głębokiego morza i bezkresnego nieba. "
+"Pracujesz za kulisami, całkowicie kontrolując środowisko, zanim zrobisz "
+"jakiś ruch."
 
 # df597d5ecad941948290e439eb813c45
 #: ../../M14_Rulebook.rst:66
@@ -118,6 +130,10 @@ msgstr "Czerwony"
 #: ../../M14_Rulebook.rst:67
 msgid "**Red** magic erupts with fire, frenzy, and storms of rock and lava. Red mana comes from **Mountains** and volcanoes. You act quickly and recklessly, channeling your wild emotions to summon mighty dragons or crush the ground your enemies walk on."
 msgstr ""
+"**Czerwona** magia wybucha ogniem, szałem oraz nawałnicami skał i lawy. "
+"Czerwona mana pochodzi z **Gór** i wulkanów. Działasz szybko i bezwzględnie, "
+"używając swoich dzikich emocji do przywoływania potężnych smoków lub "
+"kruszenia gruntu, po którym stąpają twoi przeciwnicy."
 
 # 45df819b6fa540df8ee4496c7a19a14d
 #: ../../M14_Rulebook.rst:73
@@ -128,6 +144,10 @@ msgstr "Czarny"
 #: ../../M14_Rulebook.rst:74
 msgid "**Black** magic is about death, disease, and power at any cost. Black mana comes from dank **Swamps**, where things fester and rot. You are as selfish and twisted as the undead creatures and unspeakable horrors you command."
 msgstr ""
+"**Czarna** magia to śmierć, zaraza i władza za wszelką cenę. Czarna mana "
+"pochodzi z podmokłych **Bagien**, gdzie wszystko rozkłada się i gnije. "
+"Jesteś tak samolubny i szalony, jak nieumarłe stwory i niewypowiedziane "
+"okropności, którym przewodzisz."
 
 # 04cbe273ebd24998b39fa34069742481
 #: ../../M14_Rulebook.rst:82
@@ -148,6 +168,11 @@ msgstr "Koszt many"
 #: ../../M14_Rulebook.rst:89
 msgid "*Mana* is the main resource in the game. It's produced by lands, and you spend it to cast *spells*. The symbols in a card's upper right corner tell you the cost to cast that spell. If the mana cost reads {4}{R}{R}, you pay four mana of any kinds plus two red mana (from two Mountains) to cast it."
 msgstr ""
+"W grze głównym zasobem jest *mana*. Produkują ją lądy, a ty wydajesz ją, by "
+"rzucać *czary*. Symbole w górnym prawym roku karty pokazują koszt rzucenia "
+"czaru. Jeśli koszt many wynosi {4}{R}{R}, to żeby rzucić czar, musisz "
+"zapłacisz cztery many dowolnego rodzaju plus dwie czerwone many (z dwóch "
+"Gór)."
 
 # ce83856bb7f54ca6a48bedc371ee8d25
 #: ../../M14_Rulebook.rst:94
@@ -158,6 +183,10 @@ msgstr "Linia typu"
 #: ../../M14_Rulebook.rst:95
 msgid "This tells you the card's *card type*: artifact, creature, enchantment, instant, land, planeswalker, or sorcery. If the card has a *subtype* or *supertype*, that's also listed here. For example, Shivan Dragon is a creature, and its subtype is the creature type Dragon."
 msgstr ""
+"Tutaj znajduje się informacja o *typie karty*: artefakt, stwór, urok, "
+"sztuczka, ląd, wędrowiec lub obrzęd. Jeśli karta ma *podtyp* lub *nadtyp*, "
+"ta informacja też się tutaj znajduje. Przykładowo Smok z Shiv jest stworem, "
+"ja jego podtypem jest Smok."
 
 # ea884ef5362e4270b0c0787f778e76ea
 #: ../../M14_Rulebook.rst:101
@@ -168,16 +197,25 @@ msgstr "Symbol dodatku"
 #: ../../M14_Rulebook.rst:102
 msgid "This symbol tells you which **Magic** set the card is from. This version of Shivan Dragon is from the *Magic 2014* core set. The color of the symbol tells you the card's rarity: black for common cards, silver for uncommons, gold for rares, and red-orange for mythic rares."
 msgstr ""
+"Ten symbol mówi, z jakiego dodatku do **Magic** pochodzi dana karta. Ta "
+"wersja Smoka z Shiv pochodzi z zestawu podstawowego *Magic 2014*. Kolor "
+"symbolu mówi o rzadkości karty: czarny dla pospolitych, srebrny dla "
+"niepospolitych, złoty dla rzadkich i czerwono-pomarańczowy dla mitycznie "
+"rzadkich."
 
 # d3aa5842d06f40c7bc4d9916b6ee9be4
 #: ../../M14_Rulebook.rst:108
 msgid "Text Box"
-msgstr ""
+msgstr "Pole tekstu"
 
 # 134c945fa7264b58aa546c738f51c78d
 #: ../../M14_Rulebook.rst:109
 msgid "This is where a card's *abilities* appear. You may also find flavor text printed in italics (like this) that tells you something about the Magic world. Flavor text has no effect on game play. Some abilities have italic reminder text to help explain what they do."
 msgstr ""
+"To miejsce, gdzie pojawiają się *zdolności* karty. Możesz także znaleźć "
+"tutaj tekst klimatyczny zapisany kursywą (*w ten sposób*), który mówi co "
+"nieco o świecie gry. Tekst klimatyczny nie ma wpływu na rozgrywkę. Niektóre "
+"zdolności mają zapisany kursywą tekst pomocniczy, który wyjaśnia, co robią."
 
 # 63e0191d717c4c4a9dd85085282e34ea
 #: ../../M14_Rulebook.rst:114
@@ -188,6 +226,11 @@ msgstr "Siła i wytrzymałość"
 #: ../../M14_Rulebook.rst:115
 msgid "Each creature card has a special box with its *power* and *toughness*. A creature's power (the first number) is how much damage it deals in combat. Its toughness (the second number) is how much damage must be dealt to it in a single turn to destroy it. (A planeswalker card has a different special box with its loyalty here.)"
 msgstr ""
+"Każda karta stwora posiada specjalne pole z *siłą* i *wytrzymałością*. Siła "
+"stwora (pierwsza liczba) mówi o tym, ile obrażeń zadaje on w walce. "
+"Wytrzymałość (druga liczba) mówi, ile obrażeń trzeba temu stworowi zadać, "
+"aby go zniszczyć. (Karta Wędrowca ma w tym miejscu inne pole określające "
+"lojalność.)"
 
 # 646807e4e1a34bf78c683a624b881ba7
 #: ../../M14_Rulebook.rst:121
@@ -198,6 +241,8 @@ msgstr "Numer kolekcjonerski"
 #: ../../M14_Rulebook.rst:122
 msgid "The collector number makes it easier to organize your cards. For example, \"154/249\" means that the card is the 154th of 249 cards in its set."
 msgstr ""
+"Numer kolekcjonerski ułatwia organizację kart. Przykładowo \"154/249\" "
+"oznacza, że jest to 154-ta karta ze wszystkich 249 kart w tym zestawie."
 
 # e236ce3ef87d47ea856e219793062a65
 #: ../../M14_Rulebook.rst:129
@@ -216,7 +261,7 @@ msgstr ""
 #: ../../M14_Rulebook.rst:249
 #: ../../M14_Rulebook.rst:1911
 msgid "Sorcery"
-msgstr ""
+msgstr "Obrzęd"
 
 # 9a231ffc6ec04f6ab13bfcefec65653e
 #: ../../M14_Rulebook.rst:138
@@ -230,7 +275,7 @@ msgstr ""
 #: ../../M14_Rulebook.rst:247
 #: ../../M14_Rulebook.rst:1501
 msgid "Instant"
-msgstr ""
+msgstr "Sztuczka"
 
 # 529b7559baf0430da046c77d5530ba77
 #: ../../M14_Rulebook.rst:148
@@ -244,7 +289,7 @@ msgstr ""
 #: ../../M14_Rulebook.rst:243
 #: ../../M14_Rulebook.rst:1388
 msgid "Enchantment"
-msgstr ""
+msgstr "Urok"
 
 # 5219fef562e14e9e941ea92832b7fe10
 #: ../../M14_Rulebook.rst:156
@@ -312,6 +357,10 @@ msgstr "Wędrowiec"
 #: ../../M14_Rulebook.rst:203
 msgid "Planeswalkers are powerful allies you can call on to fight by your side. You can cast a planeswalker only at the time you could cast a sorcery. They're permanents, and each one enters the battlefield with the number of *loyalty* counters indicated in its lower right corner."
 msgstr ""
+"Wędrowcy są potężnymi sprzymierzeńcami, których możesz wezwać, by walczyli "
+"po twojej stronie. Możesz wezwać Wędrowca tylko wtedy, gdy możesz rzucić "
+"obrzęd. Są oni stałkami i każdy wchodzi na pole walki z taką liczbą "
+"znaczników *lojalności*, jaką wskazuje liczba w prawym dolnym rogu."
 
 # 5c5017664ae04f3da7eddbedc4cc93e9
 #: ../../M14_Rulebook.rst:207
