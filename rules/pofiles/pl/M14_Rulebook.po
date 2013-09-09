@@ -8,23 +8,27 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 11:22\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-09-09 10:07+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1378717626.982717\n"
 
 # 45201559181642ae9fa2ac72272dafdd
 #: ../../M14_Rulebook.rst:6
 msgid "Magic the Gathering - Basic Rulebook"
-msgstr ""
+msgstr "Magic the Gathering - Podręcznik"
 
 # 411801a48e824282b96cb40f00e8a0d5
 #: ../../M14_Rulebook.rst:10
 msgid "Ignite Your Spark"
-msgstr ""
+msgstr "Zapal swoją iskrę"
 
 # 1ede6b92d4604367be0b85f7214b2d37
 #: ../../M14_Rulebook.rst:12
@@ -59,7 +63,7 @@ msgstr ""
 # 9c287901990541d4b5ac36622f9edfe1
 #: ../../M14_Rulebook.rst:39
 msgid "Five Colors of Mana"
-msgstr ""
+msgstr "Pięć kolorów many"
 
 # 93ad8d1df35445c0821c1e74dd61e095
 #: ../../M14_Rulebook.rst:41
@@ -84,7 +88,7 @@ msgstr ""
 # 86fa8619622a4caab05ae65a19f6e2bc
 #: ../../M14_Rulebook.rst:54
 msgid "Green"
-msgstr ""
+msgstr "Zielony"
 
 # 0224257dc84247ba8cd6ed94dfd3d874
 #: ../../M14_Rulebook.rst:55
@@ -94,7 +98,7 @@ msgstr ""
 # a88ed8bf545142fe82abbefcda1f135a
 #: ../../M14_Rulebook.rst:60
 msgid "Blue"
-msgstr ""
+msgstr "Niebieski"
 
 # 1a29115c4f7d4fa8b5f4d0ac39a24c33
 #: ../../M14_Rulebook.rst:61
@@ -104,7 +108,7 @@ msgstr ""
 # df597d5ecad941948290e439eb813c45
 #: ../../M14_Rulebook.rst:66
 msgid "Red"
-msgstr ""
+msgstr "Czerwony"
 
 # a5b0f4d88f144eb99068a71e87e0f4bb
 #: ../../M14_Rulebook.rst:67
@@ -114,7 +118,7 @@ msgstr ""
 # 45df819b6fa540df8ee4496c7a19a14d
 #: ../../M14_Rulebook.rst:73
 msgid "Black"
-msgstr ""
+msgstr "Czarny"
 
 # 8be36350d4914a63999909a2114c1edd
 #: ../../M14_Rulebook.rst:74
@@ -129,12 +133,12 @@ msgstr ""
 # 519c5bafd2d2488588b102331445e8ac
 #: ../../M14_Rulebook.rst:85
 msgid "Card Name"
-msgstr ""
+msgstr "Nazwa karty"
 
 # 3e95359d608549e2a5468a2be8f23e21
 #: ../../M14_Rulebook.rst:88
 msgid "Mana Cost"
-msgstr ""
+msgstr "Koszt many"
 
 # a598d044fc2242feaa09388f6bc86360
 #: ../../M14_Rulebook.rst:89
@@ -1311,12 +1315,12 @@ msgstr ""
 # d9da440d27ed48c8b2aa3a742a67622e
 #: ../../M14_Rulebook.rst:898
 msgid "Section 5: Glossary"
-msgstr ""
+msgstr "Sekcja 5: Glosariusz"
 
 # 8da397cf65f241f8b9983da139b5a382
 #: ../../M14_Rulebook.rst:910
 msgid "{1}, {2}, {3}, and so on, {X}"
-msgstr ""
+msgstr "{1}, {2}, {3} itd., {X}"
 
 # 9b4a3584db6847d7848d66ddfc75af7e
 #: ../../M14_Rulebook.rst:901
@@ -1331,7 +1335,7 @@ msgstr ""
 # b5bd8f84d65d4c6eaa88fc4970501846
 #: ../../M14_Rulebook.rst:913
 msgid "{W} (white mana)"
-msgstr ""
+msgstr "{W} (biała mana}"
 
 # dfa254f6caf24431aeb922674f7c1c8f
 #: ../../M14_Rulebook.rst:913
