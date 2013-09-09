@@ -910,19 +910,19 @@ Learn more about these and other Magic formats at Wizards.com/MagicFormats.
     mana costs.
 
 {W} (white mana)
-    One white mana. Tapping a Plains makes oW. A card with oW in its mana cost is white.
+    One white mana. Tapping a Plains makes {W}. A card with {W} in its mana cost is white.
 
 {U} (blue mana)
-    One blue mana. Tapping an Island makes oU. A card with oU in its mana cost is blue.
+    One blue mana. Tapping an Island makes {U}. A card with {U} in its mana cost is blue.
 
 {B} (black mana)
-    One black mana. Tapping a Swamp makes oB. A card with oB in its mana cost is black.
+    One black mana. Tapping a Swamp makes {B}. A card with {B} in its mana cost is black.
 
 {R} (red mana)
-    One red mana. Tapping a Mountain makes oR. A card with oR in its mana cost is red.
+    One red mana. Tapping a Mountain makes {R}. A card with {R} in its mana cost is red.
 
 {G} (green mana)
-    One green mana. Tapping a Forest makes oG. A card with oG in its mana cost is green.
+    One green mana. Tapping a Forest makes {G}. A card with {G} in its mana cost is green.
 
 .. _gl-tap:
 
@@ -1106,7 +1106,7 @@ Booster, booster pack
     Wizards.com/Locator.
 
 Booster Draft
-    See :ref:`Limited Formats <sec-limited-formats>` on page 19.
+    See :ref:`Limited Formats <sec-limited-formats>` [on page 19].
 
 Card type
     Every card in your deck has at least one card type: artifact, creature,
@@ -1437,10 +1437,10 @@ Evasion ability
 Exile
     A game zone. Exile is essentially a holding area for cards. If a spell
     or ability exiles a card, that card is moved to the exile zone from
-    wherever it is. See "Exile" on page 8.
+    wherever it is. See :ref:`Exile <sec-exile>` [on page 8].
 
 Expansion symbol
-    See :ref:`Parts of a Card <sec-parts-of-card>` on page 5.
+    See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5].
 
 Fight
     Some effects cause a creature to fight another creature. When two
@@ -1594,7 +1594,7 @@ Mana
     The magical energy you use to pay for spells and some abilities.
 
     Most mana comes from tapping lands. There are five colors of
-    mana: W (white), U (blue), B (black), R (red), and G (green).
+    mana: {W} (white), {U} (blue), {B} (black), {R} (red), and {G} (green).
     There's also colorless mana.
 
 Mana ability
@@ -1604,7 +1604,7 @@ Mana ability
     the mana immediately.
 
 Mana cost
-    See "Parts of a Card" on page 5. Also see the glossary entry for
+    See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5]. Also see the glossary entry for
     "Converted mana cost."
 
 Mana pool
@@ -2084,7 +2084,7 @@ Winning the game
 X
     When you see X in a mana cost or an activation cost, you get
     to choose the number that X stands for. For example, Volcanic
-    Geyser is an instant spell that costs oXfoRoR and deals X damage.
+    Geyser is an instant spell that costs {X}{R}{R} and deals X damage.
     When you cast Volcanic Geyser, you choose what number X is.
     If you pick three, for example, Volcanic Geyser costs {3}{R}{R} and
     deals 3 damage. If you pick six, Volcanic Geyser costs {6}{R}{R} and
