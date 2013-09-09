@@ -94,7 +94,7 @@ Type Line
 ~~~~~~~~~
 This tells you the card's *card type*: artifact, creature, enchantment, instant, land,
 planeswalker, or sorcery. If the card has a *subtype* or *supertype*, that's also listed
-here. For example, Shivan Dragon is a creature, and its subtype is the creature                                                                                                                 28101
+here. For example, Shivan Dragon is a creature, and its subtype is the creature
 type Dragon.
 
 Expansion Symbol
