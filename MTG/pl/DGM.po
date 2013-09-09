@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-08 09:00+0200\n"
+"PO-Revision-Date: 2013-09-09 12:20+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378627257.43140\n"
+"X-POOTLE-MTIME: 1378725623.348566\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -226,7 +226,6 @@ msgstr ""
 "Zawsze, gdy jakiś stwór blokuje, kontrolujący tego stwora gracz traci 1 "
 "życie."
 
-#, fuzzy
 msgid "{1}{B}{R}: Regenerate Carnage Gladiator."
 msgstr "{1}{B}{R}: Zregeneruj Carnage Gladiator."
 
@@ -250,9 +249,8 @@ msgstr ""
 "Kiedy Council of the Absolute wchodzi na pole walki, nazwij kartę inną niż "
 "stwór lub ląd."
 
-#, fuzzy
 msgid "Your opponents can't cast cards with the chosen name."
-msgstr "Twój przeciwnik nie może zagrywać kart z wybraną nazwą."
+msgstr "Twoi przeciwnicy nie mogą zagrywać kart z wybraną nazwą."
 
 msgid "Spells with the chosen name you cast cost {2} less to cast."
 msgstr "Czary o wybranej nazwie, które ty rzucasz, kosztują {2} mniej."
@@ -311,13 +309,11 @@ msgstr ""
 "stwora, którego kontrolujesz, na ręke jego właściciela."
 
 #: Dimir Cluestone
-#, fuzzy
 msgid "{T}: Add {U} or {B} to your mana pool."
-msgstr "{T}: Dodaj {U} lub {B} do twojego zasobnika many."
+msgstr "{T}: Dodaj {U} lub {B} do swojego zasobnika many."
 
-#, fuzzy
 msgid "{U}{B}, {T}, Sacrifice Dimir Cluestone: Draw a card."
-msgstr "{U}{B}, {T}, Poświęć Dimir Cluestone: Dobierz kartę."
+msgstr "{U}{B}, {T}, poświęć Dimir Cluestone: Dobierz kartę."
 
 #: Dimir Guildgate
 msgid "Dimir Guildgate enters the battlefield tapped."
@@ -376,7 +372,6 @@ msgstr ""
 "pośpiech do końca tury."
 
 #: Exava, Rakdos Blood Witch
-#, fuzzy
 msgid "First strike, haste"
 msgstr "Pierwszy cios, pośpiech"
 
@@ -396,9 +391,8 @@ msgstr ""
 "pośpiech."
 
 #: Far // Away (Far)
-#, fuzzy
 msgid "Return target creature to its owner's hand."
-msgstr "Przywróc wskazanego stwora do ręki jego własciciela."
+msgstr "Przywróć wskazanego stwora do ręki jego właściciela."
 
 #: Fatal Fumes
 msgid "Target creature gets -4/-2 until end of turn."
@@ -443,16 +437,14 @@ msgstr ""
 "Zawsze, gdy kontrolowany przez ciebie stwór atakuje, połóż na nim znacznik "
 "+1/+1."
 
-#, fuzzy
 msgid ""
 "{T}: Goblin Test Pilot deals 2 damage to target creature or player chosen at "
 "random."
 msgstr ""
-"{T}: Goblin Test Pilot zadaje 2 obrażenia do losowo wskazanego stwora lub "
-"gracza."
+"{T}: Goblin Test Pilot zadaje 2 obrażenia losowo wskazanemu stworowi lub "
+"graczowi."
 
 #: Golgari Cluestone
-#, fuzzy
 msgid "{T}: Add {B} or {G} to your mana pool."
 msgstr "{T}: Dodaj {B} lub {G} do twojego zasobnika many."
 
@@ -493,7 +485,7 @@ msgstr ""
 
 #: Haunter of Nightveil
 msgid "Creatures your opponents control get -1/-0."
-msgstr ""
+msgstr "Stwory władane przez twoich przeciwników dostają -1/-0."
 
 #: Hidden Strings
 msgid ""
@@ -534,9 +526,8 @@ msgid "Izzet Guildgate enters the battlefield tapped."
 msgstr ""
 
 #: Jelenn Sphinx
-#, fuzzy
 msgid "Flying, vigilance"
-msgstr "Latanie, czujnośc"
+msgstr "Latanie, czujność"
 
 msgid ""
 "Whenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until "
@@ -549,16 +540,14 @@ msgstr ""
 msgid "Deathtouch"
 msgstr "Dotyk Śmierci"
 
-#, fuzzy
 msgid ""
 "{2}, Remove a +1/+1 counter from a creature you control: Target creature "
 "gets -1/-1 until end of turn."
 msgstr ""
-"{2}, Usuń znacznik +1/+1 ze stwora, którego kontrolujesz: Wskazana kreatura "
-"otrzymuje -1/-1 do końca tury."
+"{2}, Usuń znacznik +1/+1 ze stwora, którym władasz: Wskazany stwór dostaje "
+"-1/-1 do końca tury."
 
 #: Krasis Incubation Sinister Possession Unflinching Courage
-#, fuzzy
 msgid "Enchant creature"
 msgstr "Zaurocz stwora"
 
@@ -605,7 +594,7 @@ msgid "Red creatures you control get +1/+0."
 msgstr "Czerowne stwory pod twoją kontrolą dostają +1/+0."
 
 msgid "White creatures you control get +0/+1."
-msgstr ""
+msgstr "Białe stwory, którymi władasz dostają +0/+1."
 
 msgid ""
 "{R}{W}, Exile Legion's Initiative: Exile all creatures you control. At the "
@@ -615,7 +604,7 @@ msgstr ""
 
 #: Profit // Loss (Loss)
 msgid "Creatures your opponents control get -1/-1 until end of turn."
-msgstr ""
+msgstr "Stwory władane przez twoich przeciwników dostają -1/-1 do końca tury."
 
 #: Lyev Decree
 msgid ""
