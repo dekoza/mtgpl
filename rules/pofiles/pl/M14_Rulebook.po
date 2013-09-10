@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 12:42\n"
-"PO-Revision-Date: 2013-09-09 22:45+0200\n"
+"PO-Revision-Date: 2013-09-10 06:18+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378763148.475585\n"
+"X-POOTLE-MTIME: 1378790312.197803\n"
 
 # 45201559181642ae9fa2ac72272dafdd
 #: ../../M14_Rulebook.rst:6
@@ -443,11 +443,24 @@ msgstr ""
 #: ../../M14_Rulebook.rst:207
 msgid "Each planeswalker has *loyalty abilities* that are activated by adding or removing loyalty counters from the planeswalker. For example, the symbol {+1} means \"Put one loyalty counter on this planeswalker\" and the symbol {-3} means \"Remove three loyalty counters from this planeswalker.\" You can activate one of these abilities only at the time you could cast a sorcery and only if none of that planeswalker's loyalty abilities have been activated yet that turn."
 msgstr ""
+"Każdy wędrowiec ma *zdolności lojalnościowe,* które aktywowane są poprzez "
+"dodawanie lub usuwanie z niego znaczników lojalności. Przykładowo symbol "
+"{+1} oznacza \"Umieść jeden znacznik lojalności na tym wędrowcu\", a symbol "
+"{-3} oznacza \"Usuń trzy znaczniki lojalności z tego wędrowca\". Możesz "
+"aktywować te zdolności tylko wtedy, gdy można zagrać obrzęd i tylko jeśli "
+"żadna ze zdolności lojalnościowych tego wędrowca nie była jeszcze aktywowana "
+"w tej turze."
 
 # 32313234f0ad4d41a5972f8e8313b45b
 #: ../../M14_Rulebook.rst:213
 msgid "Your planeswalkers can be attacked by your opponent's creatures (if so, you can block as normal), and your opponents can damage them with their spells and abilities instead of damaging you. Any damage dealt to a planeswalker causes it to lose that many loyalty counters. If a planeswalker has no loyalty counters, it's put into your graveyard."
 msgstr ""
+"Twój wędrowiec może być atakowany przez stwory twojego przeciwnika (jeśli "
+"tak się stanie, blokujesz normalnie), a twoi przeciwnicy mogą zadawać im "
+"obrażenia za pomocą czarów i zdolności zamiast zadawać je tobie. Każde "
+"obrażenia zadane wędrowcowi powodują, że traci on tyle samo znaczników "
+"lojalności. Jeśli wędrowiec nie ma znaczników lojalności, trafia do "
+"cmentarza."
 
 # f32aada8400e4da9a8d04816018c3cf6
 # 624243c233c34878b030ff7fa5d7b5cd
@@ -462,11 +475,18 @@ msgstr "Ląd"
 #: ../../M14_Rulebook.rst:222
 msgid "Although lands are permanents, they aren't cast as spells. To play a land, just put it onto the battlefield. This happens immediately, so no player can do anything else in response. You can play a land only during one of your main phases while the stack is empty. You can't play more than one land a turn."
 msgstr ""
+"Mimo że lądy są stałkami, nie są zagrywane jako czary. Aby zagrać ląd, po "
+"prostu umieszczasz go na polu walki. Dzieje się to natychmiast, więc żaden z "
+"graczy nic nie może zrobić w odpowiedzi. Możesz zagrać ląd wyłącznie w "
+"jednej ze swoich faz głównych i tylko jeśli stos jest pusty. Nie możesz "
+"zagrać więcej niż jednego lądu na turę."
 
 # e7a312c29872455c9c8356ae0f07294b
 #: ../../M14_Rulebook.rst:226
 msgid "Most lands have abilities that make mana. You'll use lands to make the mana you need to pay for spells and abilities."
 msgstr ""
+"Większość lądów ma zdolności, które produkują manę. Będziesz używać lądów do "
+"produkcji many potrzebnej do opłacenia czarów i zdolności."
 
 # 0286cb70f03a41ee8ff854f66e23c1c1
 #: ../../M14_Rulebook.rst:229
