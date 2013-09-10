@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 12:42\n"
-"PO-Revision-Date: 2013-09-10 08:38+0200\n"
+"PO-Revision-Date: 2013-09-10 10:08+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378798737.822283\n"
+"X-POOTLE-MTIME: 1378804114.786943\n"
 
 # 45201559181642ae9fa2ac72272dafdd
 #: ../../M14_Rulebook.rst:6
@@ -75,7 +75,7 @@ msgstr ""
 # ce748bea707945bc8c6f71f0de10d519
 #: ../../M14_Rulebook.rst:31
 msgid "Section 1: The Basics"
-msgstr "Sekcja 1: Podstawy"
+msgstr "Rozdział 1: Podstawy"
 
 # f996e40a769c4d7f864543af03dc7497
 #: ../../M14_Rulebook.rst:33
@@ -626,7 +626,7 @@ msgstr ""
 "nowych zdolności. Następnie ostatni z czarów lub zdolności znajdujących się "
 "na stosie jest rozliczany i gracze mają okazję ponownie rzucać czary i "
 "aktywować zdolności. (Więcej na temat rzucania czarów i aktywowania "
-"zdolności dowiesz się w następnej sekcji.) Ta strefa jest współdzielona "
+"zdolności dowiesz się w następnym rozdziale.) Ta strefa jest współdzielona "
 "przez obu graczy."
 
 # 8f7be46fd2d149d899b1c031cb7819c3
@@ -674,12 +674,17 @@ msgstr ""
 #: ../../M14_Rulebook.rst:308
 #: ../../M14_Rulebook.rst:1440
 msgid "Exile"
-msgstr ""
+msgstr "Wygnanie"
 
 # 561cd398b0e64e62811d2c48d1b39829
 #: ../../M14_Rulebook.rst:309
 msgid "If a spell or ability *exiles* a card, that card is put in a game area that's set apart from the rest of the game. The card will remain there forever, unless whatever put it there is able to bring it back. Exiled cards are normally face up. This zone is shared by both players."
 msgstr ""
+"Jeśli czar lub zdolność *wygania* kartę, owa karta jest umieszczana w "
+"strefie oddzielonej od reszty gry. Karta zostanie tam na zawsze, "
+"przynajmniej do czasu, aż coś ją stamtąd sprowadzi z powrotem. Wygnane karty "
+"zazwyczaj zwrócone są obrazkiem do góry. Strefa ta jest współdzielona przez "
+"obu graczy."
 
 # 75b579f9b6e84b14a8ca1937d7b1713d
 #: ../../M14_Rulebook.rst:314
@@ -692,19 +697,24 @@ msgstr ""
 
 # 4d730315d1b44ce99d7609a645614e4e
 #: ../../M14_Rulebook.rst:324
-#, fuzzy
 msgid "Section 2: The Building Blocks"
-msgstr "Sekcja 2: Klocki"
+msgstr "Rozdział 2: Elementy układanki"
 
 # 1b309b5abc2a4bda9cdb65fbe8ced22b
 #: ../../M14_Rulebook.rst:326
 msgid "This section describes the actions that you'll take during a game. You'll learn how to make mana, which is the resource you need to cast spells. You'll learn how to cast a spell, as well as how to use abilities. You'll also learn how to attack and block with your creatures. The section finisheswith a brief description of how to build your first deck and an explanation of the game's :ref:`Golden Rule <sec-golden-rule>`."
 msgstr ""
+"Ten rozdział opisuje akcje, które możesz podjąć w czasie gry. Nauczysz się "
+"pobierać manę, która jest zasobem potrzebnym do rzucania czarów. Dowiesz "
+"się, jak rzucać czary oraz aktywować zdolności. Nauczysz się także jak "
+"atakować i blokować swoimi stworami. No końcu rozdziału znajduje się garść "
+"porad na temat budowy talii oraz wyjaśnienie, czym jest :ref:`Złota Zasada "
+"<sec-golden-rule>`."
 
 # 81c2e3bd11b749df9700e77574b62bd4
 #: ../../M14_Rulebook.rst:333
 msgid "Making Mana"
-msgstr ""
+msgstr "Wytwarzanie many"
 
 # effbca0cec4041bca9f2f3d7e20e78ca
 #: ../../M14_Rulebook.rst:335
@@ -721,12 +731,12 @@ msgstr ""
 #: ../../M14_Rulebook.rst:354
 #: ../../M14_Rulebook.rst:1065
 msgid "Basic land type"
-msgstr ""
+msgstr "Rodzaj lądu podstawowego"
 
 # 7b9f851cab2f4742abbf222e55ff9edf
 #: ../../M14_Rulebook.rst:354
 msgid "Can be tapped for"
-msgstr ""
+msgstr "Zużycie pozyskuje"
 
 # 00b74aa5444641c5bc46d16814202e2f
 #: ../../M14_Rulebook.rst:356
@@ -736,7 +746,7 @@ msgstr "Równina"
 # f5f3f0285da6465ea5487f7d83d1d706
 #: ../../M14_Rulebook.rst:356
 msgid "{W} (white)"
-msgstr "{W} (biała)"
+msgstr "{W} (biały)"
 
 # e5cf1745c13d4075b64faeb4ed333acd
 #: ../../M14_Rulebook.rst:358
@@ -746,7 +756,7 @@ msgstr "Wyspa"
 # 4604a9623f5c419183b7966bad02798c
 #: ../../M14_Rulebook.rst:358
 msgid "{U} (blue)"
-msgstr "{U} (niebieska)"
+msgstr "{U} (niebieski)"
 
 # e117e0b965284ee2b01082c9539dc5ad
 #: ../../M14_Rulebook.rst:360
@@ -766,17 +776,17 @@ msgstr "Góra"
 # 15a3c625f846437399885d11d4d4c0d9
 #: ../../M14_Rulebook.rst:362
 msgid "{R} (red)"
-msgstr "{R} (czerwona)"
+msgstr "{R} (czerwony)"
 
 # c4406e470e344dd48ed1692593c5ff20
 #: ../../M14_Rulebook.rst:364
 msgid "Forest"
-msgstr ""
+msgstr "Las"
 
 # bfffedf2d4ad410ebe6934e953375ba8
 #: ../../M14_Rulebook.rst:364
 msgid "{G} (green)"
-msgstr ""
+msgstr "{G} (zielony)"
 
 # 5efc93adfb004185b822c9d4622680b8
 #: ../../M14_Rulebook.rst:367
@@ -1138,7 +1148,7 @@ msgstr ""
 # d8ee3dee95cd45e19e9593de0934728b
 #: ../../M14_Rulebook.rst:657
 msgid "Section 3: Playing a Game"
-msgstr ""
+msgstr "Rozdział 3: Rozgrywka"
 
 # afd7ae0b83e1427aa37ff997ead2be2a
 #: ../../M14_Rulebook.rst:659
@@ -1195,22 +1205,31 @@ msgstr ""
 #: ../../M14_Rulebook.rst:699
 #: ../../M14_Rulebook.rst:2041
 msgid "Parts of the Turn"
-msgstr ""
+msgstr "Części tury"
 
 # 9201d2440a534a0986db11c8d2efbcf0
 #: ../../M14_Rulebook.rst:701
 msgid "Below are the parts of a turn. Each turn proceeds in the same sequence. Whenever you enter a new step or phase, any triggered abilities that happen during that step or phase trigger and are put on the stack. The *active player* (the player whose turn it is) gets to cast spells and activate abilities, then the other player does. When both players in a row decline to do anything and nothing is waiting to resolve, the game will move to the next step or phase."
 msgstr ""
+"Poniżej wyjaśnione są poszczególne części tury. Każda tura przebiega według "
+"tej samej sekwencji. Kiedy tylko zacznie się nowy krok lub faza, wszystkie "
+"wyzwalane zdolności, które dzieją się w danym momencie, są wyzwalane i "
+"trafiają na stos. *Aktywny gracz* (ten, którego tura właśnie przebiega) może "
+"rzucać czary i aktywować zdolności, następnie robi to drugi gracz. Kiedy "
+"obaj gracze pod rząd zrezygnują z podjęcia akcji i nic nie czeka na "
+"rozliczenie, gra przechodzi do kolejnego kroku lub fazy."
 
 # 4b24fc8eeae0485ead2fc15049dd65ae
 #: ../../M14_Rulebook.rst:706
 msgid "With each part of the turn is a description of what can happen during that part, if it's your turn."
 msgstr ""
+"Przy każdej części tury znajduje się opis tego, to się dzieje w danej "
+"części, jeśli to twoja tura."
 
 # c3479c94f4c94ad78e1af8fefb5ec5c4
 #: ../../M14_Rulebook.rst:708
 msgid "Beginning Phase"
-msgstr ""
+msgstr "Faza początkowa"
 
 # 2b59bce0e47f4b9986a8be83a69326d7
 # c9c8a06a7edc4d77a36998b2b08ce94e
@@ -1219,12 +1238,15 @@ msgstr ""
 #: ../../M14_Rulebook.rst:2022
 #: ../../M14_Rulebook.rst:2058
 msgid "Untap step"
-msgstr ""
+msgstr "Krok odświeżania"
 
 # bd2325f787414e3d88c88194b656ee20
 #: ../../M14_Rulebook.rst:711
 msgid "You untap all your tapped permanents. On the first turn of the game, you don't have any permanents, so you just skip this step. No one can cast spells or activate abilities during this step."
 msgstr ""
+"Odśwież (wyprostuj) wszystkie swoje zużyte stałki. Podczas pierwszej tury "
+"gry nie masz jeszcze żadnych stałek, więc po prostu pomijasz ten krok. Nikt "
+"nie może rzucać czarów ani aktywować zdolności w trakcie tego kroku."
 
 # 9b3193b5cb9d4e82b2e51b48e1b4f8d4
 # 378c77a605b0421982edd94231fc72f9
@@ -1247,29 +1269,37 @@ msgstr ""
 #: ../../M14_Rulebook.rst:1351
 #: ../../M14_Rulebook.rst:2024
 msgid "Draw step"
-msgstr ""
+msgstr "Krok dobierania"
 
 # 9711c9956ba54649a24a12f0eefbce55
 #: ../../M14_Rulebook.rst:722
 msgid "You draw a card from your library. (The player who goes first skips the draw step on his or her first turn to make up for the advantage of going first.) Players can then cast instants and activate abilities."
 msgstr ""
+"Dobierasz karty ze swojej biblioteki. (Rozpoczynający gracz pomija krok "
+"dobierania  podczas pierwszej tury, by zrekompensować przewagę uzyskaną z "
+"rozpoczynania.) Gracze mogą następnie zagrywać sztuczki i aktywować "
+"zdolności."
 
 # 70fb23f7b794453ebc9ed227736f8f37
 # 21a8a0d52cb04787b153eaf8283cb0a7
 #: ../../M14_Rulebook.rst:726
 #: ../../M14_Rulebook.rst:771
 msgid "Main Phase"
-msgstr ""
+msgstr "Faza główna"
 
 # 661f5290056b4e2b9c273026cdc92bcf
 #: ../../M14_Rulebook.rst:728
 msgid "You can cast any number of sorceries, instants, creatures, artifacts, enchantments, and planeswalkers, and you can activate abilities. You can play a land during this phase, but remember that you can play only one land during your turn. Your opponent can cast instants and activate abilities."
 msgstr ""
+"Możesz rzucić dowolną liczbę obrzedów, sztuczek, stworów, artefaktów, uroków "
+"i wędrowców oraz możesz aktywować zdolności. Możesz zagrać ląd w trakcie "
+"tej fazy, ale pamiętaj, że możesz zagrać tylko jeden ląd w swojej turze. "
+"Twoi przeciwnicy mogą rzucać sztuczki i aktywować zdolności."
 
 # c65de8cb0cab4eddb87aaa54445c31cf
 #: ../../M14_Rulebook.rst:734
 msgid "Combat Phase"
-msgstr ""
+msgstr "Faza walki"
 
 # 8bd1110097ff4f7587b22b3a7204af90
 #: ../../M14_Rulebook.rst:739
@@ -1388,7 +1418,7 @@ msgstr ""
 # d2a4f23c476643d0b8841ee514dbc351
 #: ../../M14_Rulebook.rst:810
 msgid "Section 4: Different Ways to Play"
-msgstr ""
+msgstr "Rozdział 4: Różne sposoby gry"
 
 # 49aed7dd24e74418afca9ea27b422db3
 #: ../../M14_Rulebook.rst:812
@@ -1511,7 +1541,7 @@ msgstr ""
 # d9da440d27ed48c8b2aa3a742a67622e
 #: ../../M14_Rulebook.rst:898
 msgid "Section 5: Glossary"
-msgstr "Sekcja 5: Glosariusz"
+msgstr "Rozdział 5: Glosariusz"
 
 # 8da397cf65f241f8b9983da139b5a382
 #: ../../M14_Rulebook.rst:910
