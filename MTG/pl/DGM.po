@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-09 12:20+0200\n"
+"PO-Revision-Date: 2013-09-10 17:00+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,13 +17,13 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378725623.348566\n"
+"X-POOTLE-MTIME: 1378828821.35655\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
 msgid "Put a 5/5 green Wurm creature token with trample onto the battlefield."
 msgstr ""
-"{U}: Wygnaj Ætherlinga. Przywróć go na pole walki pod kontrolą jego "
+"{U}: Wygnaj Ætherlinga. Przywróć go na pole walki pod władaniem jego "
 "właściciela na początku następnego etapu końcowego."
 
 #: Ætherling
@@ -31,7 +31,7 @@ msgid ""
 "{U}: Exile Ætherling. Return it to the battlefield under its owner's control "
 "at the beginning of the next end step."
 msgstr ""
-"{U}: Wygnaj Ætherlinga. Przywróć go na pole walki pod kontrolą jego "
+"{U}: Wygnaj Ætherlinga. Przywróć go na pole walki pod władaniem jego "
 "właściciela na początku następnego etapu końcowego."
 
 msgid "{U}: Ætherling can't be blocked this turn."
@@ -87,7 +87,7 @@ msgid ""
 "that creature has greater power or toughness than this creature, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
-"Rozwój (Zawsze, gdy jakiś stwór wchodzi na pole walki pod twoją kontrolą, "
+"Rozwój (Zawsze, gdy jakiś stwór wchodzi na pole walki pod twoim władaniem, "
 "jeśli jego siła lub wytrzymałość jest większa niż tego stwora, połóż "
 "znacznik +1/+1 na tym stworze.)"
 
@@ -121,16 +121,15 @@ msgid ""
 "Whenever an instant or sorcery spell you control deals damage, put two 1/1 "
 "red and white Soldier creature tokens with haste onto the battlefield."
 msgstr ""
-"Zawsze, gdy kontrolowana przez ciebie sztuczka lub gusła zada obrażenia, "
-"połóż na polu walki dwa żetony czerwono-białego stwora Soldier 1/1 z "
-"Pośpiechem."
+"Zawsze, gdy sztuczka lub gusła, którymi władasz, zada obrażenia, połóż na "
+"polu walki dwa żetony czerwono-białego stwora Soldier 1/1 z pośpiechem."
 
 #: Flesh // Blood (Blood)
 msgid ""
 "Target creature you control deals damage equal to its power to target "
 "creature or player."
 msgstr ""
-"Wskazany kontrolowany przez ciebie stwór zadaje obrażenia równe swojej sile "
+"Wskazany stwór, którym władasz, zadaje obrażenia równe swojej sile "
 "wskazanemu stworowi lub graczowi."
 
 # Jak wytłumaczysz "Wampiryzm" u białych stworów? Przecież to się kojarzy co najwyżej z czarnymi.
@@ -183,9 +182,8 @@ msgid ""
 "with lifelink also causes its controller to gain that much life.)"
 msgstr ""
 "Batalion — Zawsze, gdy Boros Mastiff i przynajmniej dwa inne stwory atakują, "
-"Boros Mastiff zyskuje Więź Życia do końca tury. (Obrażenia zadane przez "
-"stwora z Więzią Życia powodują zyskanie tej samej ilości życia przez jego "
-"właściciela.)"
+"Boros Mastiff zyskuje więź życia do końca tury. (Obrażenia zadane przez "
+"stwora z więzią życia powodują, że jego władca zyskuje tyle samo życia.)"
 
 #: Breaking // Entering (Breaking)
 msgid ""
@@ -200,15 +198,15 @@ msgid ""
 "Whenever a creature you control with a +1/+1 counter on it deals combat "
 "damage to a player, you may draw a card."
 msgstr ""
-"Zawsze, gdy kontrolowany przez ciebie stwór ze znacznikami +1/+1 zada "
-"graczowi obrażenia bojowe, możesz dobrać kartę."
+"Zawsze, gdy stwór, którym władasz, ze znacznikami +1/+1 zada graczowi "
+"obrażenia bojowe, możesz dobrać kartę."
 
 #: Bronzebeak Moa
 msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "Bronzebeak Moa gets +3/+3 until end of turn."
 msgstr ""
-"Zawsze, gdy jakiś inny stwór wchodzi na pole walki pod twoją kontrolą, "
+"Zawsze, gdy jakiś inny stwór wchodzi na pole walki pod twoim władaniem, "
 "Bronzebeak Moa dostaje +3/+3 do końca tury."
 
 #: Turn // Burn (Burn)
@@ -222,9 +220,7 @@ msgstr "Połóż na polu walki cztery żetony białych stworów Bird 1/1 z Latan
 
 #: Carnage Gladiator
 msgid "Whenever a creature blocks, that creature's controller loses 1 life."
-msgstr ""
-"Zawsze, gdy jakiś stwór blokuje, kontrolujący tego stwora gracz traci 1 "
-"życie."
+msgstr "Zawsze, gdy jakiś stwór blokuje, władający nim gracz traci 1 życie."
 
 msgid "{1}{B}{R}: Regenerate Carnage Gladiator."
 msgstr "{1}{B}{R}: Zregeneruj Carnage Gladiator."
@@ -234,7 +230,7 @@ msgid ""
 "Gain control of target permanent until end of turn. Untap it. It gains haste "
 "until end of turn."
 msgstr ""
-"Przejmij kontrolę nad wskazaną stałką do końca tury. Odśwież ją. Zyskuje ona "
+"Przejmij władanie nad wskazaną stałką do końca tury. Odśwież ją. Zyskuje ona "
 "Pośpiech do końca tury."
 
 #: Clear a Path
@@ -300,13 +296,12 @@ msgstr ""
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucać ten czar kiedykolwiek możesz rzucic sztuczkę.)"
 
-#, fuzzy
 msgid ""
 "When Deputy of Acquittals enters the battlefield, you may return another "
 "target creature you control to its owner's hand."
 msgstr ""
-"Kiedy Deputy of Acquittal wchodzi na pole walki, możesz wrócić innego "
-"stwora, którego kontrolujesz, na ręke jego właściciela."
+"Kiedy Deputy of Acquittals wchodzi na pole walki, możesz wrócić innego "
+"stwora, którym władasz, na rękę jego właściciela."
 
 #: Dimir Cluestone
 msgid "{T}: Add {U} or {B} to your mana pool."
@@ -332,8 +327,8 @@ msgid ""
 "Until end of turn, target creature you control becomes a 4/4 blue and red "
 "Dragon, loses all abilities, and gains flying."
 msgstr ""
-"Do końca tury, wskazany stwór, którego kontrolujesz, staje się niebiesko-"
-"czerwonym Smokiem 4/4, traci wszystkie zdolności, i zyskuje Latanie."
+"Do końca tury, wskazany stwór, którym władasz, staje się niebiesko-czerwonym "
+"Smokiem 4/4, traci wszystkie zdolności i zyskuje latanie."
 
 msgid ""
 "Overload {3}{U}{U}{R}{R} (You may cast this spell for its overload cost. If "
@@ -363,13 +358,12 @@ msgstr ""
 "które kontrolujesz."
 
 #: Breaking // Entering (Entering)
-#, fuzzy
 msgid ""
 "Put a creature card from a graveyard onto the battlefield under your "
 "control. It gains haste until end of turn."
 msgstr ""
-"Połóż kartę stwora z cmantarza na pole walki pod twoja kontrolą. Otrzymuje "
-"pośpiech do końca tury."
+"Połóż kartę stwora z cmentarza na polu walki pod twoim władaniem. Otrzymuje "
+"on pośpiech do końca tury."
 
 #: Exava, Rakdos Blood Witch
 msgid "First strike, haste"
@@ -384,11 +378,8 @@ msgstr ""
 "+1/+1 na sobie. Nie może blokować tak długo jak posiada znacznik +1/+1 na "
 "sobie.)"
 
-#, fuzzy
 msgid "Each other creature you control with a +1/+1 counter on it has haste."
-msgstr ""
-"Każdy inny stwór, którego kontrolujesz ze znacznikiem +1/+1 na nim, ma "
-"pośpiech."
+msgstr "Każdy inny stwór, którym władasz, ze znacznikiem +1/+1, ma pośpiech."
 
 #: Far // Away (Far)
 msgid "Return target creature to its owner's hand."
@@ -433,9 +424,7 @@ msgstr "Połóż trzy znaczniki +1/+1 na wskazanym stworze."
 
 #: Gleam of Battle
 msgid "Whenever a creature you control attacks, put a +1/+1 counter on it."
-msgstr ""
-"Zawsze, gdy kontrolowany przez ciebie stwór atakuje, połóż na nim znacznik "
-"+1/+1."
+msgstr "Zawsze gdy stwór, którym władasz, atakuje, połóż na nim znacznik +1/+1."
 
 msgid ""
 "{T}: Goblin Test Pilot deals 2 damage to target creature or player chosen at "
@@ -474,14 +463,16 @@ msgid ""
 "Each attacking creature you control gets +1/+0 and can't be blocked except "
 "by two or more creatures."
 msgstr ""
+"Każdy atakujący stwór, którym władasz, dostaje +1/+0 i nie może być "
+"blokowany przez mniej niż dwa stwory."
 
 #: Haazda Snare Squad
 msgid ""
 "Whenever Haazda Snare Squad attacks, you may pay {W}. If you do, tap target "
 "creature an opponent controls."
 msgstr ""
-"Zawsze, gdy Haazda Snare Squad atakuje, możesz zapłacić {W}. Jeśli to "
-"zrobisz, zużyj wskazanego stwora kontrolowanego przez przeciwnika."
+"Zawsze gdy Haazda Snare Squad atakuje, możesz zapłacić {W}. Jeśli to "
+"zrobisz, zużyj wskazanego stwora władanego przez przeciwnika."
 
 #: Haunter of Nightveil
 msgid "Creatures your opponents control get -1/-0."
@@ -500,10 +491,9 @@ msgid ""
 "control. Whenever that creature deals combat damage to a player, its "
 "controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
-"Szyfruj (Następnie możesz wygnać tę kartę kodując ją na kontrolowanym przez "
-"siebie stworze. Zawsze, gdy ów stwór zada graczowi obrażenia bojowe, "
-"kontrolujący go gracz może rzucić kopię zakodowanej karty bez płacenia "
-"kosztu many.)"
+"Szyfruj (Następnie możesz wygnać tę kartę kodując ją na stworze, którym "
+"władasz. Zawsze, gdy ów stwór zada graczowi obrażenia bojowe, jego władca "
+"może rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
 
 #: Hired Torturer Murmuring Phantasm Nivix Cyclops
 msgid "Defender"
@@ -584,23 +574,26 @@ msgid ""
 "abilities can't be activated.)"
 msgstr ""
 "Kiedy Lavinia of the Tenth wchodzi na pole walki, uwięź każdą stałkę nie "
-"będącą lądem, kontrolowaną przez twoich przeciwników, o łącznym koszcie many "
-"nie większym niż 4. (Do twojej następnej tury stałki te nie mogą atakować "
-"lub blokować, a ich aktywowane zdolności nie mogą zostać aktywowane.)"
+"będącą lądem, władaną przez twoich przeciwników, której łączny koszt many "
+"nie jest większy niż 4. (Do twojej następnej tury stałki te nie mogą "
+"atakować lub blokować, a ich aktywowane zdolności nie mogą zostać "
+"aktywowane.)"
 
 #: Legion's Initiative
-#, fuzzy
 msgid "Red creatures you control get +1/+0."
-msgstr "Czerowne stwory pod twoją kontrolą dostają +1/+0."
+msgstr "Czerwone stwory, którymi władasz, dostają +1/+0."
 
 msgid "White creatures you control get +0/+1."
-msgstr "Białe stwory, którymi władasz dostają +0/+1."
+msgstr "Białe stwory, którymi władasz, dostają +0/+1."
 
 msgid ""
 "{R}{W}, Exile Legion's Initiative: Exile all creatures you control. At the "
 "beginning of the next combat, return those cards to the battlefield under "
 "their owner's control and those creatures gain haste until end of turn."
 msgstr ""
+"{R}{W}, wygnaj Legion's Initiative: Wygnaj wszystkie stwory, którymi "
+"władasz. Na początku następnej walki przywróć te karty na pole walki pod "
+"władzą ich właściciela. Stwory te dostają pośpiech do końca tury."
 
 #: Profit // Loss (Loss)
 msgid "Creatures your opponents control get -1/-1 until end of turn."
@@ -612,6 +605,9 @@ msgid ""
 "turn, those creatures can't attack or block and their activated abilities "
 "can't be activated.)"
 msgstr ""
+"Uwięź do dwóch wskazanych stworów władanych przez przeciwników. (Do twojej "
+"następnej tury stwory te nie mogą atakować ani blokować, a ich aktywowane "
+"zdolności nie mogą być aktywowane.)"
 
 #: Master of Cruelties
 msgid "First strike, deathtouch"
@@ -632,7 +628,7 @@ msgstr ""
 #: Maw of the Obzedat
 msgid ""
 "Sacrifice a creature: Creatures you control get +1/+1 until end of turn."
-msgstr ""
+msgstr "Poświęć stwora: Stwory, którymi władasz, dostają +1/+1 do końca tury."
 
 #: Maze Abomination
 msgid ""
@@ -643,30 +639,28 @@ msgstr ""
 "zniszczony.)"
 
 msgid "Multicolored creatures you control have deathtouch."
-msgstr "Kontrolowane przez ciebie wielokolorowe stwory mają Dotyk Śmierci."
+msgstr "Wielokolorowe stwory, którymi władasz, mają dotyk śmierci."
 
 msgid "Multicolored creatures you control have trample."
-msgstr ""
+msgstr "Wielokolorowe stwory, którymi władasz, mają tratowanie."
 
 msgid "Multicolored creatures you control have flying."
-msgstr ""
+msgstr "Wielokolorowe stwory, którymi władasz, mają latanie."
 
 #: Maze Rusher Spike Jester Viashino Firstblade
 msgid "Haste"
 msgstr ""
 
-#, fuzzy
 msgid "Multicolored creatures you control have haste."
-msgstr "Wielekolorowe stwory pod twoja kontrolą mają pospiech."
+msgstr "Wielokolorowe stwory, którymi władasz, mają pośpiech."
 
 #: Maze Sentinel
 #, fuzzy
 msgid "Vigilance"
 msgstr "Czujność"
 
-#, fuzzy
 msgid "Multicolored creatures you control have vigilance."
-msgstr "Wielokolorowe story pod twoją kontrolą mają czujność."
+msgstr "Wielokolorowe stwory, którymi władasz, mają czujność."
 
 #: Maze's End
 #, fuzzy
@@ -677,16 +671,15 @@ msgstr "Maze's End wchodzi na pole walki jako zużyty ."
 msgid "{T}: Add {1} to your mana pool."
 msgstr "{T}: Dodaj {1} do twojego zasobnika many."
 
-#, fuzzy
 msgid ""
 "{3}, {T}, Return Maze's End to its owner's hand: Search your library for a "
 "Gate card, put it onto the battlefield, then shuffle your library. If you "
 "control ten or more Gates with different names, you win the game."
 msgstr ""
 "{3}, {T}, Zwróć Maze's End do ręki jego właściciela: Przeszukaj swoją "
-"biblioteke w poszukiwaniu Gate karty, połóż ją na pole walki, potem "
-"przetasuj swoją bibliotekę. Jeśli kontrolujesz dziesięć lub więcej Gate'ów z "
-"róznymi nazwami, wygrywasz grę."
+"bibliotekę w poszukiwaniu karty Bramy, połóż ją na pole walki, następnie "
+"przetasuj swoją bibliotekę. Jeśli masz we władaniu dziesięć lub więcej Bram "
+"z różnymi nazwami, wygrywasz grę."
 
 #: Melek, Izzet Paragon
 #, fuzzy
@@ -714,7 +707,7 @@ msgstr "Zregeneruj wskazanego stwora."
 
 #: Mindstatic
 msgid "Counter target spell unless its controller pays {6}."
-msgstr ""
+msgstr "Skontruj wskazany czar dopóki jego władce nie zapłaci {6}."
 
 msgid ""
 "Whenever Mirko Vosk, Mind Drinker deals combat damage to a player, that "
