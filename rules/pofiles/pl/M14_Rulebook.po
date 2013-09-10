@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 12:42\n"
-"PO-Revision-Date: 2013-09-10 06:18+0200\n"
+"PO-Revision-Date: 2013-09-10 07:25+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378790312.197803\n"
+"X-POOTLE-MTIME: 1378794317.421809\n"
 
 # 45201559181642ae9fa2ac72272dafdd
 #: ../../M14_Rulebook.rst:6
@@ -492,6 +492,10 @@ msgstr ""
 #: ../../M14_Rulebook.rst:229
 msgid "Each basic land has a mana ability that makes one mana of a particular color. Plains make white mana ({W}), Islands make blue mana ({U}), Swamps make black mana ({B}), Mountains make red mana ({R}), and Forests make green mana ({G}). Any land other than these five is a *nonbasic land*."
 msgstr ""
+"Każdy ląd podstawowy posiada zdolność, która produkuje manę określonego "
+"koloru. Równiny dają białą manę ({W}), Wyspy - niebieską ({U}), Bagna - "
+"czarną ({B}), Góry - czerwoną ({R}), a Lasy - zieloną ({G}). Każdy inny ląd "
+"jest *lądem niepodstawowym.*"
 
 # 1ef51ef078be4c46bbe7eab9ea490406
 # 982f2e1351ae4d02b54508a7a58b16c6
@@ -567,8 +571,11 @@ msgstr "Strefy gry"
 
 # c8f6648b10ce4129adba0c639ed69212
 #: ../../M14_Rulebook.rst:256
+#, fuzzy
 msgid "Since the Magic game doesn't have a game board, zones are the areas of play that exist on your table."
 msgstr ""
+"Ponieważ **Magic** nie ma planszy, strefy są miejscami gry istniejącymi na "
+"twoim stole."
 
 # 2572ee9c6f1e41a2a2945fd4a7356d53
 # b79ec7f1bab14e57ac2a980c0cd097f2
@@ -581,6 +588,11 @@ msgstr "Biblioteka"
 #: ../../M14_Rulebook.rst:261
 msgid "When the game begins, your deck of cards becomes your library (your draw pile). It's kept face down, and the cards stay in the order they were in at the beginning of the game. No one can look at the cards in your library, but you can know how many cards are in each player's library. Each player has his or her own library."
 msgstr ""
+"Na początku gry twoja talia staje się twoją biblioteką (stosem, z którego "
+"dobierasz karty). Trzymana jest obrazkiem do dołu, a karty pozostają w "
+"kolejności, w jakiej były na początku gry. Nikt nie może patrzeć na karty z "
+"twojej biblioteki, ale możesz się dowiedzieć, ile kart pozostało w "
+"bibliotece każdego z graczy. Każdy gracz posiada swoją własną bibliotekę."
 
 # 8bace97c339b46c99811f70e33cf599b
 # be31d531eb7046e3b67e071fc765eba8
@@ -593,6 +605,12 @@ msgstr "Ręka"
 #: ../../M14_Rulebook.rst:269
 msgid "When you draw cards, they go to your hand, just as in most other card games. No one except you can look at the cards in your hand. You start the game with seven cards in your hand, and you have a maximum hand size of seven. (You may have more than seven cards in your hand, but you must discard down to seven at the end of each of your turns.) Each player has his or her own hand."
 msgstr ""
+"Kiedy dobierasz karty, trafiają one do twojej ręki, tak jak w większości "
+"innych gier karcianych. Nikt poza tobą nie może patrzeć na karty na twojej "
+"ręce. Zaczynasz grę z siedmioma kartami w ręce, a twój maksymalny rozmiar "
+"ręki to siedem. (Możesz mieć na ręce więcej kart niż siedem, ale na koniec "
+"każdej z tur musisz odrzucić tyle kart, żeby mieć siedem.) Każdy gracz ma "
+"własną rękę."
 
 # 054f3082648f4c27b588bcc80f365f1e
 #: ../../M14_Rulebook.rst:276
@@ -603,6 +621,13 @@ msgstr "Stos"
 #: ../../M14_Rulebook.rst:277
 msgid "Spells and abilities exist on the stack. They wait there to *resolve* until both players choose not to cast any new spells or activate any new abilities. Then the last spell or ability that was put onto the stack resolves, and players get a chance to cast spells and activate abilities again. (You'll learn more about casting spells and activating abilities in the next section.) This zone is shared by both players."
 msgstr ""
+"Czary i zdolności funkcjonują na stosie. Czekają tam na *rozliczenie* dopóki "
+"obaj gracze nie zdecydują, że nie rzucają nowych czarów ani nie aktywują "
+"nowych zdolności. Następnie ostatni z czarów lub zdolności znajdujących się "
+"na stosie jest rozliczany i gracze mają okazję ponownie rzucać czary i "
+"aktywować zdolności. (Więcej na temat rzucania czarów i aktywowania "
+"zdolności dowiesz się w następnej sekcji.) Ta strefa jest współdzielona "
+"przez obu graczy."
 
 # 8f7be46fd2d149d899b1c031cb7819c3
 # 22c69dae895b49868cd20987aa5213ba
@@ -615,6 +640,13 @@ msgstr "Pole walki"
 #: ../../M14_Rulebook.rst:287
 msgid "You start the game with nothing on the battlefield, but this is where the action is going to be. On each of your turns, you can play a land from your hand. Creatures, artifacts, enchantments, and planeswalkers also enter the battlefield after they resolve. You can arrange your permanents however you want (we recommend putting lands closest to you), but your opponent must be able to see all of them and tell whether they're *tapped*. This zone is shared by both players."
 msgstr ""
+"Zaczynasz grę z pustym polem walki, ale to właśnie tu będzie się odbywać "
+"cała akcja. Podczas każdej z tur możesz zagrać z ręki ląd. Stwory, "
+"artefakty, uroki i wędrowcy także wchodzą na pole walki po ich rozliczeniu. "
+"Możesz dowolnie rozmieszczać swoje stałki (zalecamy umieszczanie lądów "
+"bliżej siebie), ale twoi przeciwnicy muszą mieć możliwość zobaczenia ich "
+"wszystkich i określenia czy są *zużyte*. Ta strefa jest współdzielona przez "
+"obu graczy."
 
 # 2a0c7ef6bad049b293c288139f92b5dd
 # 94a1f6485feb43c8ba3b427725c1f498
@@ -627,6 +659,15 @@ msgstr "Cmentarz"
 #: ../../M14_Rulebook.rst:298
 msgid "Your graveyard is your discard pile. Your instant and sorcery spells go to your graveyard when they resolve. Your cards go to your graveyard if an effect causes them to be *discarded*, *destroyed*, *sacrificed*, or *countered*. Your planeswalkers go to your graveyard if they lose all their loyalty counters. Your creatures go to your graveyard if the damage they're dealt in a single turn is equal to or greater than their toughness, or if their toughness is reduced to 0 or less. Cards in your graveyard are always face up and anyone can look at them at any time. Each player has his or her own graveyard."
 msgstr ""
+"Twój cmentarz jest stosem kart odrzuconych. Trafiają tam twoje sztuczki i "
+"obrzędy po tym, jak zostaną rozliczone. Twoje karty trafiają do cmentarza, "
+"jeśli efekt powoduje ich *odrzucenie*, *zniszczenie*, *poświęcenie*, lub "
+"*skontrowanie*. Twoi wędrowcy trafiają na cmentarz po utracie wszystkich "
+"znaczników lojalności. Stwory trafiają na cmentarz, jeśli obrażenia "
+"otrzymane przez nie w ciągu jednej tury są nie mniejsze od ich wytrzymałości "
+"lub gdy ich wytrzymałość zostanie zredukowana do zera lub poniżej. Karty w "
+"cmentarzu są zawsze obrazkiem do góry i każdy może je przejrzeć w dowolnym "
+"momencie. Każdy gracz ma swój własny cmentarz."
 
 # c5bd4cf8ac6a414cada50cde3919d5fb
 # 01b56b845d1243d4875df5ed0c108999
