@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 12:42\n"
-"PO-Revision-Date: 2013-09-10 14:13+0200\n"
+"PO-Revision-Date: 2013-09-10 18:07+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378818828.35844\n"
+"X-POOTLE-MTIME: 1378832860.600311\n"
 
 # 45201559181642ae9fa2ac72272dafdd
 #: ../../M14_Rulebook.rst:6
@@ -970,7 +970,7 @@ msgstr ""
 # 8a41dd7bc80540ac9760ff45efe3bcd6
 #: ../../M14_Rulebook.rst:460
 msgid "[Turn the page to see examples of spells on the stack.]"
-msgstr ""
+msgstr "[Na następnej stronie znajduje się przykład czarów na stosie.]"
 
 # 42160ef1cc404d83ad7ba85604cb966b
 #: ../../M14_Rulebook.rst:463
@@ -981,31 +981,44 @@ msgstr "Przykłady czarów na Stosie"
 #: ../../M14_Rulebook.rst:465
 msgid "Your opponent casts Shock targeting your Auramancer, a 2/2 creature. The Shock goes on the stack."
 msgstr ""
+"Twój przeciwnik rzuca Szok wskazując twojego Auromantę, stwora 2/2. Szok "
+"wchodzi na stos."
 
 # d9befe74a3ce475dba8517fb2517da4d
 #: ../../M14_Rulebook.rst:469
 msgid "You respond to the Shock by casting Show of Valor on your Auramancer. Show of Valor goes on the stack, *on top of Shock*."
 msgstr ""
+"Odpowiadasz na Szok rzucając Pokaz Dzielności na swojego Auromantę. Pokaz "
+"Dzielności wchodzi na stos *na wierzch Szoku*."
 
 # f6f2a4627aae4995b48ee8f2a7d5b571
 #: ../../M14_Rulebook.rst:473
 msgid "You and your opponent both decline to do anything else. Show of Valor resolves, making the Auramancer 4/6 until the end of the turn."
 msgstr ""
+"Ty i twój przeciwnik obaj pasujecie. W wyniku rozliczenia Pokazu Dzielności, "
+"Auromanta staje się 4/6 do końca tury."
 
 # d2dc9d4eff41419bb549c375fa922e1d
 #: ../../M14_Rulebook.rst:477
 msgid "Then the Shock resolves, dealing 2 damage to the pumped-up Auramancer. That's not enough to destroy it."
 msgstr ""
+"Następnie Szok jest rozliczany zadając dwa obrażenia do podpakowanego "
+"Auromanty. To nie wystarcza, by go zniszczyć."
 
 # 3aca0d7ceebc4220b8633d680a50fc1f
 #: ../../M14_Rulebook.rst:483
 msgid "**What would happen if the Show of Valor were cast first?**"
-msgstr ""
+msgstr "**Co by się stało, gdyby Pokaz Dzielności został rzucony najpierw?**"
 
 # 2b8cea37c07249d6a16dadbf314c507c
 #: ../../M14_Rulebook.rst:485
 msgid "The Shock goes on the stack on top of Show of Valor so it resolves first. It deals 2 damage to Auramancer—enough to destroy it! When the Show of Valor tries to resolve, its only target is no longer on the battlefield, so it's countered (it does nothing)."
 msgstr ""
+"Szok wchodzi na stos na wierzch Pokazu Dzielności, więc zostaje rozliczony "
+"jako pierwszy. Zadaje dwa obrażenia Auromancie - wystarczająco dużo, by go "
+"zniszczyć! Kiedy Pokaz Dzielności próbuje się rozliczyć, cel przez niego "
+"wskazywany nie znajduje się już na polu walki, więc zostaje skontrowany (nic "
+"nie robi)."
 
 # ccfd5150a2704b4db935462cb1e77efe
 #: ../../M14_Rulebook.rst:495
@@ -1016,41 +1029,64 @@ msgstr "Zdolności"
 #: ../../M14_Rulebook.rst:497
 msgid "As you start to accumulate permanents on the battlefield, the game will change. That's because many permanents have text on them that affects the game. This text tells you a permanent's abilities. There are three different kinds of abilities a permanent can have: *static abilities*, *triggered abilities*, and *activated abilities*."
 msgstr ""
+"W miarę jak zaczniesz zbierać stałki na polu walki, gra będzie się zmieniać. "
+"To dlatego, że wiele stałek ma treść, która modyfikuje rozgrywkę. Ten tekst "
+"opisuje zdolności stałki. Są trzy różne rodzaje zdolności, które stałka "
+"może posiadać: *zdolności statyczne*, *zdolności wyzwalane* oraz *zdolności "
+"aktywowane*."
 
 # 4e16a83573ea4ef890334195473eb31d
 #: ../../M14_Rulebook.rst:503
 msgid "Static Abilities"
-msgstr ""
+msgstr "Zdolności statyczne"
 
 # a8c68bc909844a1ab9a40ff839dc7e56
 #: ../../M14_Rulebook.rst:504
 msgid "A static ability is text that is always true while that card is on the battlefield. For example, Imposing Sovereign is a creature with the ability \"Creatures your opponents control enter the battlefield tapped.\" You don't activate a static ability. It just does what it says."
 msgstr ""
+"Zdolnością statyczną jest tekst, który jest zawsze prawdziwy, dopóki karta "
+"jest na polu walki. Przykładowo Okazały Suweren jest stworem ze zdolnością "
+"\"Stwory władane przez twoich przeciwników wchodzą na pole walki zużyte.\" Nie "
+"można aktywować zdolności statycznej. Ona po prostu robi to, co jest "
+"napisane."
 
 # 13bcff36924943c39362d8fd8f5cfc70
 #: ../../M14_Rulebook.rst:509
 msgid "Triggered Abilities"
-msgstr ""
+msgstr "Zdolności wyzwalane"
 
 # 7c01d081e63f453280a11c48844a51a7
 #: ../../M14_Rulebook.rst:510
+#, fuzzy
 msgid "A triggered ability is text that happens when a specific event occurs in the game. For example, Messenger Drake is a creature with the ability \"When Messenger Drake dies, draw a card.\""
 msgstr ""
+"Zdolnością wyzwalaną jest tekst, który działa, gdy w grze nastąpi określone "
+"zdarzenie. Przykładowo Messenger Drake jest stworem ze zdolnością \"Kiedy "
+"Messenger Drake umiera, dobierz kartę.\""
 
 # 7a85380857e94c00a424fafb2351160c
 #: ../../M14_Rulebook.rst:513
 msgid "Each triggered ability starts with the word \"when,\" \"whenever,\" or \"at.\" You don't activate a triggered ability. It automatically triggers whenever the first part of the ability happens. The ability goes on the stack just like a spell, and resolves just like a spell. If the ability triggers but then the permanent the ability came from leaves the battlefield, the ability will still resolve."
 msgstr ""
+"Każda z wyzwalanych zdolności zaczyna się od słów \"kiedy\", \"zawsze gdy\", \"na "
+"początku\" lub \"w trakcie\". Nie aktywujesz zdolności wyzwalanej. Jest ona "
+"automatycznie wyzwalana zawsze gdy wydarzy się pierwsza część zdolności. "
+"Zdolność wchodzi na stos zupełnie jak czar i jest rozliczana jak czar. Jeśli "
+"zdolność zostanie wyzwolona, a następnie stałka, z której ona pochodzi "
+"opuści pole walki, zdolność i tak zostanie rozliczona."
 
 # dd58120110d942ccb1cb3b361be1677c
 #: ../../M14_Rulebook.rst:518
 msgid "You can't choose to delay or ignore a triggered ability. However, if the ability targets something or someone but you can't choose a legal target for it, the ability won't do anything."
 msgstr ""
+"Nie możesz opóźnić lub zignorować wyzwalanej zdolności. Jednakże jeśli "
+"zdolność musi wskazywać coś lub kogoś, a ty nie możesz wybrać dla niej "
+"legalnego celu, nic ona nie zrobi."
 
 # 4496c3b55b574757bc9a437c81c8cbea
 #: ../../M14_Rulebook.rst:524
 msgid "Activated Abilities"
-msgstr ""
+msgstr "Zdolności aktywowane"
 
 # dbc453b776a94f7689942aa8f76822e9
 #: ../../M14_Rulebook.rst:525
