@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 12:42\n"
-"PO-Revision-Date: 2013-09-10 10:08+0200\n"
+"PO-Revision-Date: 2013-09-10 14:13+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378804114.786943\n"
+"X-POOTLE-MTIME: 1378818828.35844\n"
 
 # 45201559181642ae9fa2ac72272dafdd
 #: ../../M14_Rulebook.rst:6
@@ -720,11 +720,25 @@ msgstr "Wytwarzanie many"
 #: ../../M14_Rulebook.rst:335
 msgid "To do just about anything else in the game, you first need to be able to make mana. Think of mana as Magic money—it's what you use to pay most costs. Each mana is either one of the five **Magic** *colors* or is *colorless*. When a cost requires colored mana, you'll see colored mana symbols ({W} for white, {U} for blue, {B} for black, {R} for red, {G} for green). When any kind of mana can be used to pay the cost, you'll see a symbol with a number in it (like {2})."
 msgstr ""
+"Aby zrobić cokolwiek w grze, najpierw potrzebujesz uzyskać manę. Pomyśl o "
+"niej jak o pieniądzach - używasz jej do opłacania większości kosztów. Każda "
+"mana jest albo w jednym z pięciu *kolorów*, albo jest *bezkolorowa*. Kiedy "
+"koszt trzeba opłacić kolorową maną, zobaczysz symbole many ({W} dla białej, "
+"{U} - niebieskiej, {B} - czarnej, {R} - czerwonej, {G} - zielonej). Kiedy "
+"dowolny rodzaj many może być użyty do opłacenia kosztu, zobaczysz symbol z "
+"liczbą w środku (np. {2})."
 
 # 57fad8dc902e49f4874a70ba56976237
 #: ../../M14_Rulebook.rst:344
 msgid "Where does mana come from? Nearly every land in the game has an ability that produces mana. Basic lands just have a large mana symbol in their text boxes to show this—you can tap one of them to add one mana of that color to your *mana pool*. (Your mana pool is where mana is stored until you spend it.) Other lands, as well as some creatures, artifacts, and spells, may also make mana. They'll say something like \"Add {G} to your mana pool.\""
 msgstr ""
+"Skąd pochodzi mana? Niemal każdy ląd w grze posiada zdolność, która "
+"produkuje manę. Na lądach podstawowych przedstawione jest to za pomocą "
+"dużego symbolu many w polu tekstowym - możesz zużyć jeden z nich, by dodać "
+"jedną manę tego koloru do swojego *zasobnika many*. (Zasobnik many jest "
+"miejscem, gdzie mana jest przechowywana, zanim ją zużyjesz.) Inne lądy oraz "
+"niektóre stwory, artefakty oraz czary także mogą produkować manę. Będą mieć "
+"napisane coś w rodzaju \"Dodaj {G} do swojego zasobnika many\"."
 
 # 8821ce4ddf624570b36b9ba9112b4cd8
 # 3638cc046792422c8314f8b37c0511e6
@@ -792,6 +806,10 @@ msgstr "{G} (zielony)"
 #: ../../M14_Rulebook.rst:367
 msgid "Mana that you've made doesn't last forever. At the end of each step or phase of the turn, any unused mana in your mana pool disappears. This doesn't happen often because usually you'll only make mana when you need it to cast a spell or activate an ability."
 msgstr ""
+"Mana, którą produkujesz nie trwa wiecznie. Na końcu każdego kroku i fazy "
+"każda niewykorzystana mana pozostająca w zasobniku, znika. To nie zdarza się "
+"często, ponieważ zwykle produkujesz manę, kiedy potrzebujesz rzucić czar "
+"lub aktywować zdolność."
 
 # 8ddcf34569264771a49b2523dfecf0ab
 #: ../../M14_Rulebook.rst:373
@@ -802,16 +820,24 @@ msgstr "Zużywanie"
 #: ../../M14_Rulebook.rst:374
 msgid "To tap a card is to turn it sideways. You do this when you use a land to make mana, when you attack with a creature, or when you activate an ability that has the {T} symbol as part of its cost ({T} means \"tap this permanent\")."
 msgstr ""
+"Aby zużyć kartę, należy ustawić ją bokiem. Robisz tak, kiedy używasz lądu do "
+"produkcji many, kiedy atakujesz stworem lub gdy aktywujesz zdolność, która "
+"ma {T} w swoim koszcie ({T} oznacza \"zużyj tę stałkę\")."
 
 # d94cb79edfef46e2a950e396e074773a
 #: ../../M14_Rulebook.rst:378
 msgid "When a permanent is tapped, that usually means it's been used for the turn. You can't tap it again until it's been *untapped* (straightened out)."
 msgstr ""
+"Kiedy stałka jest zużyta, zwykle oznacza to, że została już wykorzystana w "
+"tej turze. Nie możesz jej ponownie zużyć dopóki nie zostanie *odświeżona* "
+"(wyprostowana)."
 
 # 6cd94b58fddd49d2950417d419b2d2ba
 #: ../../M14_Rulebook.rst:381
 msgid "At the beginning of each of your turns, you untap your tapped cards so you can use them again."
 msgstr ""
+"Na początku każdej ze swoich tur, odświeżasz swoje zużyte karty, żeby móc z "
+"nich znowu korzystać."
 
 # b1a2b8636ad44a92b22e8b8bc75463d4
 #: ../../M14_Rulebook.rst:385
@@ -822,6 +848,11 @@ msgstr "Czary"
 #: ../../M14_Rulebook.rst:387
 msgid "Now that you can make mana, you'll want to use it to cast spells. All cards except lands are cast as spells. You can cast sorceries, creatures, artifacts, enchantments, and planeswalkers only during one of your main phases when there's nothing else on the stack. Instants can be cast at any time."
 msgstr ""
+"Teraz, gdy już możesz produkować manę, możesz chcieć jej użyć do rzucania "
+"czarów. Wszystkie karty z wyjątkiem lądów są czarami. Możesz rzucać obrzędy, "
+"stwory, artefakty, uroki i wędrowców wyłącznie w czasie jednej ze swoich "
+"faz głównych, kiedy nic innego nie ma na stosie. Sztuczki mogą być rzucane w "
+"dowolnym momencie."
 
 # 2d86ae79360e474c88d00a8b1268d56d
 #: ../../M14_Rulebook.rst:393
@@ -832,63 +863,109 @@ msgstr "Rzucanie czaru"
 #: ../../M14_Rulebook.rst:394
 msgid "To cast a spell, take the card you want to cast from your hand, show it to your opponent, and put it on the stack. (The stack is the game zone where spells live. It's usually in the middle of the table.)"
 msgstr ""
+"Aby rzucić czar, weź jego kartę z ręki, pokaż przeciwnikowi i połóż na "
+"stosie (Stos jest strefą gry, w której przebywają czary. Zazwyczaj jest to "
+"środek stołu.)"
 
 # ae643b0dd8814130836bea61c5974e26
 #: ../../M14_Rulebook.rst:398
 msgid "There are a few choices that you need to make right now. If the spell is an instant or sorcery and says \"Choose one —,\" you choose which of the options you're using. If the spell is an instant or sorcery and it has a target, you choose what (or who) that target is. Aura spells also target the permanents they'll enchant. If the spell has {X} in its cost, you choose what number X stands for. Other choices will be made later, when the spell resolves."
 msgstr ""
+"W tej chwili musisz podjąć kilka decyzji. Jeśli czar jest sztuczką lub "
+"obrzędem i mówi \"Wybierz jedno -\", musisz zdecydować, której części będziesz "
+"używać. Jeśli czar jest sztuczką lub obrzędem i wymaga wskazania celu, "
+"wybierasz co (lub kogo) wskazuje. Czary Aur także wskazują stałki, które "
+"będą przez nie zauroczone. Jeśli czar ma {X} w swoim koszcie, wybierasz "
+"wartość X. Pozostałe decyzje zostaną podjęte, gdy czar będzie rozliczany."
 
 # a1500ca91ee74962ab32f1c61ec2752a
 #: ../../M14_Rulebook.rst:406
 msgid "Now check what the spell's cost is. Tap your lands to produce the mana necessary to pay that cost, and pay it. Once you do that, the spell has been cast."
 msgstr ""
+"Sprawdź teraz koszt czaru. Zużyj lądy, by pobrać manę konieczną do opłacenia "
+"tego kosztu i opłać go. W momencie, gdy to zrobisz, czar został rzucony."
 
 # 9f44ae1c333e4c5f946674326cc3cf58
 # ffb8e0873f0a483a9de4c15961d5101b
 #: ../../M14_Rulebook.rst:411
 #: ../../M14_Rulebook.rst:1978
 msgid "Target"
-msgstr ""
+msgstr "Wskazywanie"
 
 # cddab974700744a28888270f745e032c
 #: ../../M14_Rulebook.rst:412
 msgid "When you see the word \"target\" on a spell or ability, you have to choose one or more things for the spell or ability to affect. You'll be able to choose only certain kinds of things, such as \"target enchantment\" or \"target creature or player.\""
 msgstr ""
+"Kiedy widzisz słowo \"wskazany\" na czarze lub zdolności, musisz wybrać jedną "
+"lub więcej rzeczy, na które czar będzie miał wpływ. Będziesz mógł wybrać "
+"określony rodzaj rzeczy, np. \"wskazany urok\" albo \"wskazany stwór lub "
+"gracz\"."
 
 # 642b85018c8a4b59b7e26d81d9049cdd
 #: ../../M14_Rulebook.rst:417
+#, fuzzy
 msgid "You choose the targets for a spell when you cast it, and you choose targets for an activated ability when you activate it. If you can't meet the targeting requirements, you can't cast the spell or activate the activated ability. Once you choose targets, you can't change your mind later."
 msgstr ""
+"Wybierasz cel wskazywany przez czar podczas jego rzucania oraz cele "
+"wskazywane przez aktywowane zdolności podczas ich aktywacji. Jeśli nie "
+"spełnisz wymaganych warunków, nie możesz rzucić czaru ani aktywować "
+"zdolności. Gdy już wybierzesz cele, nie możesz później zmienić zdania."
 
 # 98ab901aa8d5448a9e0ff156ed74cd11
 #: ../../M14_Rulebook.rst:424
 msgid "When the spell or ability resolves, it checks the targets to make sure they're still *legal* (they're still there, and they match the requirements stated by the spell or ability). If a target isn't legal, the spell or ability can't affect it. If none of the targets are legal, the spell or ability is countered and does nothing at all."
 msgstr ""
+"Kiedy czar lub zdolność jest rozliczana, sprawdza wskazywane cele, by się "
+"upewnić, że wciąż są *legalne* (nadal są na miejscu oraz spełniają wymagania "
+"ustalone przez czar lub zdolność). Jeśli wskazany cel nie jest legalny, "
+"czar lub zdolność nie może na niego wpływać. Jeśli każdy z celów jest "
+"nielegalny, czar lub zdolność zostaje skontrowana i w ogóle nic nie robi."
 
 # 109963bcb6014c55b56061b5f9a4f32d
 #: ../../M14_Rulebook.rst:432
 msgid "Responding to a Spell"
-msgstr ""
+msgstr "Odpowiadanie na czar"
 
 # 3b7dd7e7e7fc47929b34736d1b1082d6
 #: ../../M14_Rulebook.rst:433
 msgid "The spell doesn't resolve (have its effect) right away—it has to wait on the stack. Each player, including you, now gets a chance to cast an instant or activate an activated ability *in response*. If a player does, that instant or ability goes on the stack on top of what was already waiting there. When all players decline to do anything, the top spell or ability on the stack will resolve."
 msgstr ""
+"Czar nie zostaje rozliczony (tzn. nie przynosi efektu) natychmiast - musi "
+"poczekać na stosie. Każdy gracz, włączając ciebie, może teraz rzucić "
+"sztuczkę lub aktywować zdolność *w odpowiedzi*. Jeśli jakiś gracz tak zrobi, "
+"owa sztuczka lub zdolność trafi na stos na wierzch tego, co już tam "
+"czekało. Kiedy wszyscy gracze zrezygnują z robienia czegokolwiek, wierzchni "
+"czar lub zdolność ze stosu zostanie rozliczony."
 
 # 870ca1cc6fba4ea9946cb7f3f3f8185c
 #: ../../M14_Rulebook.rst:441
 msgid "Resolving a Spell"
-msgstr ""
+msgstr "Rozliczanie czaru"
 
 # f9754990e0d74a7da8a38d6fd85e8be4
 #: ../../M14_Rulebook.rst:442
 msgid "When a spell resolves, one of two things happens. If the spell is an instant or sorcery, it has its effect (in other words, you follow the instructions on the card), then you put the card into your graveyard. If the spell is a creature, artifact, enchantment, or planeswalker, you put the card on the table in front of you, near your lands. The card is now on the battlefield. Any of your cards on the battlefield is called a *permanent* because it sticks around permanently (well, until something happens to it). Many permanents have abilities, which is text on them that affects the game."
 msgstr ""
+"Kiedy czar jest rozliczany, dzieje się jedna z dwóch rzeczy. Jeśli czar jest "
+"sztuczką lub obrzędem, to ma swój efekt (innymi słowy podążasz za "
+"instrukcjami na karcie), a następnie umieszczasz tę kartę w cmentarzu. Jeśli "
+"czar jest stworem, artefaktem, urokiem lub wędrowcem, umieszczasz tę kartę "
+"na stole przed sobą, w pobliżu lądów. Karta jest teraz na polu walki. Każda "
+"z kart znajdujących się na polu walki nazywana jest *stałką*, ponieważ "
+"będzie się tam stale znajdować (cóż, przynajmniej do czasu, gdy coś jej się "
+"przytrafi). Wiele stałek ma zdolności, które są na nich napisane i wpływają "
+"na grę."
 
 # 37fb4617302343e09524e8b0edea1c25
 #: ../../M14_Rulebook.rst:453
 msgid "After a spell or ability resolves, both players get the chance to play something new. If no one does, the next thing waiting on the stack will resolve (or if the stack is empty, the current part of the turn will end and the game will proceed to the next part). If either player plays something new, it goes on top of the stack and the process repeats."
 msgstr ""
+"Po tym jak czar lub zdolność zostanie rozliczony, obaj gracze mają szansę "
+"zagrać coś nowego. Jeśli nikt nic nie zrobi, następna rzecz czekają na "
+"stosie zostanie rozliczona (lub jeśli stos jest pusty, bieżąca część tury "
+"zakończy się i gra przejdzie do następnej części). Jeśli którykolwiek z "
+"graczy zagra coś nowego, wędruje to na wierzch stosu i cały proces się "
+"powtarza."
 
 # 8a41dd7bc80540ac9760ff45efe3bcd6
 #: ../../M14_Rulebook.rst:460
@@ -933,7 +1010,7 @@ msgstr ""
 # ccfd5150a2704b4db935462cb1e77efe
 #: ../../M14_Rulebook.rst:495
 msgid "Abilities"
-msgstr ""
+msgstr "Zdolności"
 
 # 4fe8980b85224c0dbff4e7abe32062d2
 #: ../../M14_Rulebook.rst:497
