@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 12:42\n"
-"PO-Revision-Date: 2013-09-10 07:25+0200\n"
+"PO-Revision-Date: 2013-09-10 08:38+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378794317.421809\n"
+"X-POOTLE-MTIME: 1378798737.822283\n"
 
 # 45201559181642ae9fa2ac72272dafdd
 #: ../../M14_Rulebook.rst:6
@@ -685,11 +685,16 @@ msgstr ""
 #: ../../M14_Rulebook.rst:314
 msgid "Here's what a game in progress looks like. In this example, there aren't any exiled cards, and no spells are on the stack. (When you put a spell on the stack, you take the card from your hand and put it in the middle of the table until it finishes resolving.)"
 msgstr ""
+"Oto jak może wyglądać stół w trakcie rozgrywki. W tym przykładzie nie ma "
+"żadnych wygnanych kart oraz stos jest pusty. (Kładąc czar na stosie bierzesz "
+"daną kartę z ręki i umieszczasz na środku stołu dopóki nie zostanie "
+"rozliczona.)"
 
 # 4d730315d1b44ce99d7609a645614e4e
 #: ../../M14_Rulebook.rst:324
+#, fuzzy
 msgid "Section 2: The Building Blocks"
-msgstr ""
+msgstr "Sekcja 2: Klocki"
 
 # 1b309b5abc2a4bda9cdb65fbe8ced22b
 #: ../../M14_Rulebook.rst:326
