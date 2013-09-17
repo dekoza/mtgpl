@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 13:17+0200\n"
-"PO-Revision-Date: 2013-09-17 20:42+0200\n"
+"PO-Revision-Date: 2013-09-17 21:06+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379446937.581661\n"
+"X-POOTLE-MTIME: 1379448371.939563\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Battlewise Valor
@@ -529,19 +529,25 @@ msgid ""
 "Return up to three target creatures your opponents control their owners' "
 "hands. Scry 1."
 msgstr ""
+"Przywróć najwyżej trzy wskazane stwory, którymi władają przeciwnicy, do ręki "
+"ich właścicieli. Wróż 1."
 
 #: Sealock Monster
 msgid ""
 "Sealock Monster can't attack unless defending player controls an Island."
 msgstr ""
+"Sealock Monster nie może atakować dopóki broniący się gracz nie kontroluje "
+"wyspy."
 
 msgid "{5}{U}{U}: Monstrosity 3"
-msgstr ""
+msgstr "{5}{U}{U}: Monstrualność 3"
 
 msgid ""
 "When Sealock Monster becomes monstrous, target land becomes an Island in "
 "addition to its other types."
 msgstr ""
+"Kiedy Sealock Monster staje się monstrualny, wskazany ląd staje się "
+"dodatkowo Wyspą."
 
 #: Shipbreaker Kraken
 msgid "{6}{U}{U}: Monstrosity 4"
@@ -551,12 +557,17 @@ msgid ""
 "(If this creature isn't monstrous, put four +1/+1 counters on it and it "
 "becomes monstrous.)"
 msgstr ""
+"(Jeśli ten stwór nie jest monstrualny, połóż na nim cztery znaczniki +1/+1 i "
+"staje się on monstrualny.)"
 
 msgid ""
 "When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. "
 "Those creatures don't untap during their controllers' untap steps for as "
 "long as you control Shipbreaker Kraken."
 msgstr ""
+"Kiedy Shipbreaker Kraken staje się monstrualny, zużyj najwyżej cztery "
+"wskazane stwory. Owe stwory nie odświeżają się podczas kroku odświeżania "
+"swoich władców dopóki władasz Shipbreaker Krakenem."
 
 #: Stymied Hopes
 msgid "Counter target spell unless its controller pays {1}. Scry 1."
@@ -567,6 +578,8 @@ msgid ""
 "Counter target enchantment, instant, or sorcery spell. Its controller puts a "
 "2/2 blue Bird creature token with flying onto the battlefield."
 msgstr ""
+"Skontruj wskazany czar uroku, sztuczki lub obrzędu. Jego władca kładzie na "
+"polu walki żeton niebieskiego stwora Bird 2/2 z lataniem."
 
 msgid ""
 "As long as your devotion to blue is less than five, Thassa isn't a creature."
@@ -591,6 +604,8 @@ msgid ""
 "Draw three cards. Target player puts the top three cards of his or her "
 "library into his or her graveyard."
 msgstr ""
+"Dobierz trzy karty. Wskazany gracz wkłada trzy wierzchnie karty swojej "
+"biblioteki do swojego cmentarza."
 
 #: Thassa's Emissary
 msgid "Bestow {5}{U}"
@@ -600,6 +615,8 @@ msgid ""
 "Whenever Thassa's Emissary or enchanted creature deals combat damage to a "
 "player, draw a card."
 msgstr ""
+"Ilekroć Thassa's Emissary lub zauroczony stwór zada graczowi obrażenia "
+"bojowe, dobierz kartę."
 
 msgid ""
 "- Whenever you cast a spell that targets Triton Fortune Hunter, draw a card."
@@ -651,7 +668,7 @@ msgstr ""
 "kultu czarnego.)"
 
 msgid "At the beginning of your upkeep, sacrifice a creature."
-msgstr ""
+msgstr "Na początku swojej fazy utrzymania, poświęć stwora."
 
 #: Agent of the Fates Hythonia Cruel Keepsake Gorgon Sedge Scorpion
 msgid "Deathtouch"
@@ -673,15 +690,17 @@ msgid "Bestow {4}{B}"
 msgstr "Obdarowanie {4}{B}"
 
 msgid "Enchanted creature gets +1/+1 and has deathtouch."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma dotyk śmierci."
 
 msgid "When Blood-Toll Harpy enters the battlefield, each player loses 1 life."
 msgstr ""
+"Kiedy Blood-Toll Harpy wchodzi na pole walki, każdy gracz traci 1 życie."
 
 #: Boon of Erebos
 msgid ""
 "Target creature gets +0/+2 until end of turn. Regenerate it. You lose 2 life."
 msgstr ""
+"Wskazany stwór dostaje +0/+2 do końca tury. Zregeneruj go. Tracisz 2 życia."
 
 #: Cavern Lampad Erebos's Emissary
 msgid "Bestow {5}{B}"
@@ -776,21 +795,27 @@ msgstr ""
 
 #: Lash of the Whip
 msgid "Target creature gets -4/-4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -4/-4 do końca tury."
 
 #: Loathsome Catoblepas
 msgid "{2}{G}: Loathsome Catoblepas must be blocked this turn if able."
 msgstr ""
+"{2}{G}: Loathsome Catoblepas muszą być blokowane w tej turze jeśli to "
+"możliwe."
 
 msgid ""
 "When Loathsome Catoblepas dies, target creature an opponent controls gets "
 "-3/-3 until end of turn."
 msgstr ""
+"Kiedy Loathsome Catoblepas umiera, wskazany stwór, którym włada przeciwnik, "
+"dostaje -3/-3 do końca tury."
 
 #: March of the Returned
 msgid ""
 "Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
+"Przywróć najwyżej dwie wskazane karty stwora ze swojego cmentarza do swojej "
+"ręki."
 
 #: Mogis's Marauder
 msgid ""
@@ -868,24 +893,26 @@ msgid ""
 msgstr ""
 
 msgid "When Scourgemark enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy Scourgemark wchodzi na pole walki, dobierz kartę."
 
 msgid "Enchanted creature gets +1/+0."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+0."
 
 #: Sip of Hemlock
 msgid "Destroy target creature. Its controller loses 2 life."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Jego władca traci 2 życia."
 
 #: Thoughtseize
 msgid ""
 "Target player reveals his or her hand. You choose a nonland card from it. "
 "That player discards that card. You lose 2 life."
 msgstr ""
+"Wskazany gracz ujawnia swoją rękę. Wybierasz z niej kartę nie będącą lądem. "
+"Ów gracz odrzuca tę kartę. Tracisz 2 życia."
 
 #: Tormented Hero
 msgid "Tormented Hero enters the battlefield tapped."
-msgstr ""
+msgstr "Tormented Hero wchodzi na pole walki jako zużyty."
 
 msgid ""
 "- Whenever you cast a spell that targets Tormented Hero, each opponent loses "
@@ -957,7 +984,7 @@ msgid "Destroy target artifact or land."
 msgstr "Zniszcz wskazany artefakt lub ląd."
 
 msgid "When Dragon Mantle enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy Dragon Mantle wchodzi na pole walki, dobierz kartę."
 
 msgid ""
 "Enchanted creature has \"{R}: This creature gets +1/+0 until end of turn.\""
@@ -965,11 +992,12 @@ msgstr ""
 
 #: Ember Swallower
 msgid "{5}{R}{R}: Monstrosity 3"
-msgstr ""
+msgstr "{5}{R}{R}: Monstrualność 3"
 
 msgid ""
 "When Ember Swallower becomes monstrous, each player sacrifices three lands."
 msgstr ""
+"Kiedy Ember Swallower staje się monstrualny, każdy gracz poświęca trzy lądy."
 
 #: Fanatic of Mogis
 msgid ""
