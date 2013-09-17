@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 13:17+0200\n"
-"PO-Revision-Date: 2013-09-17 21:54+0200\n"
+"PO-Revision-Date: 2013-09-17 22:13+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379451294.454056\n"
+"X-POOTLE-MTIME: 1379452400.444694\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Battlewise Valor
@@ -707,16 +707,18 @@ msgid "Bestow {5}{B}"
 msgstr "Obdarowanie {5}{B}"
 
 msgid "Intimidate"
-msgstr ""
+msgstr "Zastraszanie"
 
 msgid "Enchanted creature gets +2/+2 and has intimidate."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma zastraszanie."
 
 #: Cutthroat Maneuver
 msgid ""
 "Up to two target creatures each get +1/+1 and gain lifelink until end of "
 "turn."
 msgstr ""
+"Każdy z najwyżej dwóch wskazanych stworów dostaje do końca tury +1/+1 oraz "
+"więź życia."
 
 #: Dark Betrayal
 msgid "Destroy target black creature."
@@ -728,6 +730,9 @@ msgid ""
 "number of cards from his or her hand equal to your devotion to black. You "
 "choose one of them. That player discards that card."
 msgstr ""
+"Kiedy Desciple of Phenax wchodzi na pole walki, wskazany gracz ujawnia tyle "
+"kart ze swojej ręki, ile wynosi twój kult czarnego. Wybierasz jedną z nich. "
+"Ów gracz odrzuca ową kartę."
 
 msgid ""
 "As long as your devotion to black is less than five, Erebos isn't a creature."
@@ -787,11 +792,15 @@ msgid ""
 "(If this creature isn't monstrous, put a +1/+1 counter on it and it becomes "
 "monstrous.)"
 msgstr ""
+"(Jeśli ten stwór nie jest monstrualny, połóż na nim znacznik +1/+1 i staje "
+"się on monstrualny.)"
 
 msgid ""
 "When Keepsake Gorgon becomes monstrous, destroy target non-Gorgon creature "
 "an opponent controls."
 msgstr ""
+"Kiedy Keepsake Gorgon staje się monstrualny, zniszcz wskazanego stwora nie "
+"będącego Gorgonem, którym włada przeciwnik."
 
 #: Lash of the Whip
 msgid "Target creature gets -4/-4 until end of turn."
@@ -823,6 +832,9 @@ msgid ""
 "gain intimidate and haste until end of turn, where X is your devotion to "
 "black."
 msgstr ""
+"Kiedy Mogis's Marauder wchodzi na pole walki, każdy z najwyżej X wskazanych "
+"stworów dostaje do końca tury zastraszanie i pośpiech, gdzie X jest twoim "
+"kultem czarnego."
 
 #: Nighthowler
 msgid "Bestow {2}{B}{B}"
@@ -891,6 +903,8 @@ msgid ""
 "{1}{U}: Returned Phalanx can attack this turn as though it didn't have "
 "defender."
 msgstr ""
+"{1}{U}: Returned Phalanx może atakować w tej turze jakby nie miał "
+"obronności."
 
 msgid "When Scourgemark enters the battlefield, draw a card."
 msgstr "Kiedy Scourgemark wchodzi na pole walki, dobierz kartę."
@@ -1036,15 +1050,19 @@ msgid ""
 "Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike "
 "until end of turn."
 msgstr ""
+"Ilekroć wróżysz, Flamespeaker Adept dostaje do końca tury +2/+0 oraz "
+"pierwszy cios."
 
 #: Hammer of Purphoros
 msgid "Creatures you control have haste."
-msgstr ""
+msgstr "Stwory, którymi władasz, mają pośpiech."
 
 msgid ""
 "{2}{R}, {T}, Sacrifice a land: Put a 3/3 colorless Golem enchantment "
 "artifact creature token onto the battlefield."
 msgstr ""
+"{2}{R}, {T}, poświęć ląd: Połóż na polu walki żeton bezkolorowego "
+"artefaktycznego stwora-uroku Golem 3/3."
 
 #: Ill-Tempered Cyclops Rageblood Shaman Satyr Rambler Vulpine Goliath
 msgid "Trample"
@@ -1191,31 +1209,37 @@ msgid "Flying, haste, protection from white"
 msgstr "Latanie, pośpiech, ochrona przed białym"
 
 msgid "{5}{R}{R}: Monstrosity 3."
-msgstr ""
+msgstr "{5}{R}{R}: Monstrualność 3."
 
 msgid ""
 "When Stormbreath Dragon becomes monstrous, it deals damage to each opponent "
 "equal to the number of cards in that player's hand."
 msgstr ""
+"Kiedy Stormbreath Dragon staje się monstrualny, zadaje każdemu przeciwnikowi "
+"tyle obrażeń, ile kart znajduje się w ręce owego gracza."
 
 #: Titan of Eternal Fire
 msgid ""
 "Each Human creature you control has \"{R}, {T}: This creature deals 1 damage "
 "to target creature or player.\""
 msgstr ""
+"Każdy Human, którym władasz ma \"{R}, {T}: Ten stwór zadaje 1 obrażenie "
+"wskazanemu stworowi lub graczowi.\""
 
 #: Titan's Strength
 msgid "Target creature gets +3/+1 until end of turn. Scry 1."
-msgstr ""
+msgstr "Wskazany stwór dostaje +3/+1 do końca tury. Wróż 1."
 
 #: Wild Celebrants
 msgid ""
 "When Wild Celebrants enters the battlefield, you may destroy target artifact."
 msgstr ""
+"Kiedy Wild Celebrants wchodzi na pole walki, możesz zniszczyć wskazany "
+"artefakt."
 
 #: Agent of Horizons
 msgid "{2}{U}: Agent of Horizons can't be blocked this turn."
-msgstr ""
+msgstr "{2}{U}: Agent of Horizons nie może być blokowany w tej turze."
 
 msgid ""
 "- Whenever you cast a spell that targets Anthousa, Setessan Hero, up to "
@@ -1337,11 +1361,14 @@ msgstr "Mistcutter Hydra wchodzi na pole walki z X znacznikami +1/+1."
 msgid ""
 "Nemesis of Mortals costs {1} less for each creature card in your graveyard."
 msgstr ""
+"Nemesis of Mortals kosztuje o {1} mniej za każdego stwora w twoim cmentarzu."
 
 msgid ""
 "{7}{G}{G}: Monstrosity 5. This ability costs {1} less to activate for each "
 "creature card in your graveyard."
 msgstr ""
+"{7}{G}{G}: Monstrualność 5. Aktywacja tej zdolności kosztuje o {1} mniej za "
+"każdego stwora w twoim cmentarzu."
 
 msgid "{6}{G}: Monstrosity 4"
 msgstr "{6}{G}: Monstrualność 4"
@@ -1391,31 +1418,42 @@ msgid ""
 "When you sacrifice Ordeal of Nylea, search your library for two basic land "
 "cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Kiedy poświęcasz Ordeal of Nylea, poszukaj w swojej bibliotece dwóch kart "
+"podstawowych lądów, połóż je na polu walki jako zużyte, a następnie "
+"przetasuj swoją bibliotekę."
 
 #: Pheres-Band Centaurs Polukranos, World Eater
 msgid "{X}{X}{G}: Monstrosity X."
-msgstr ""
+msgstr "{X}{X}{G}: Monstrualność X."
 
 msgid ""
 "(If this creature isn't monstrous, put X +1/+1 counters on it and it becomes "
 "monstrous.)"
 msgstr ""
+"(Jeśli ten stwór nie jest monstrualny, połóż na nim X znaczników +1/+1 i "
+"staje się on monstrualny.)"
 
 msgid ""
 "When Polukranos, World Eater becomes monstrous, it deals X damage divided as "
 "you choose among any number of target creatures your opponents control. Each "
 "of those creatures deals damage equal to its power to Polukranos."
 msgstr ""
+"Kiedy Polukranos, World Eater staje się monstrualny, zadaje on X obrażeń "
+"rozdzielonych według twojej woli pomiędzy dowolną liczbę stworów władanych "
+"przez twoich przeciwników. Każdy z owych stworów zadaje Polukranosowi "
+"obrażenia równe swojej sile."
 
 #: Reverent Hunter
 msgid ""
 "When Reverent Hunter enters the battlefield, put a number of +1/+1 counters "
 "on it equal to your devotion to green."
 msgstr ""
+"Kiedy Reverent Hunter wchodzi na pole walki, połóż na nim tyle znaczników "
+"+1/+1, ile wynosi twój kult zielonego."
 
 #: Satyr Hedonist
 msgid "{R}, Sacrifice Satyr Hedonist: Add {R}{R}{R} to your mana pool."
-msgstr ""
+msgstr "{R}, poświęć Satyr Hedonist: Dodaj {R}{R}{R} do swojego zasobnika many."
 
 #: Satyr Piper
 msgid "{3}{G}: Target creature must be blocked if able."
