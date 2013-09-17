@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-08 09:02+0200\n"
+"PO-Revision-Date: 2013-09-17 13:42+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378627358.837452\n"
+"X-POOTLE-MTIME: 1379421752.318009\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -33,9 +33,9 @@ msgid ""
 "that creature has greater power or toughness than this creature, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
-"Rozwój (Zawsze, gdy jakiś stwór wchodzi na pole walki pod twoją kontrolą, "
-"jeśli jego siła lub wytrzymałość jest większa niż tego stwora, połóż "
-"znacznik +1/+1 na tym stworze.)"
+"Rozwój (Ilekroć jakiś stwór wchodzi na pole walki pod twoją kontrolą, jeśli "
+"jego siła lub wytrzymałość jest większa niż tego stwora, połóż znacznik "
+"+1/+1 na tym stworze.)"
 
 #: Aerial Maneuver
 msgid ""
@@ -149,6 +149,9 @@ msgid ""
 "Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each "
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
+"Wymuszenie (Ilekroć rzucasz czar, możesz zapłacić {(w/b)}. Jeśli tak "
+"zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo "
+"życia.)"
 
 #: Beckon Apparition
 msgid ""
@@ -274,7 +277,7 @@ msgid ""
 "controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
 "Szyfruj (Następnie możesz wygnać tę kartę kodując ją na kontrolowanym przez "
-"siebie stworze. Zawsze, gdy ów stwór zada graczowi obrażenia bojowe, "
+"siebie stworze. Ilekroć ów stwór zada graczowi obrażenia bojowe, "
 "kontrolujący go gracz może rzucić kopię zakodowanej karty bez płacenia "
 "kosztu many.)"
 
@@ -401,7 +404,7 @@ msgstr ""
 
 #: Dimir Charm
 msgid "Choose one — Counter target sorcery spell"
-msgstr ""
+msgstr "Wybierz jedno — Skontruj wskazany czar obrzędu"
 
 msgid " or destroy target creature with power 2 or less"
 msgstr ""
@@ -587,6 +590,8 @@ msgid ""
 "Sacrifice Frontline Medic: Counter target spell with {X} in its mana cost "
 "unless its controller pays {3}."
 msgstr ""
+"Poświęć Frontline Medic: Skontruj wskazany czar posiadający {X} w swoim "
+"koszcie dopóki jego władca nie zapłaci {3}."
 
 #: Furious Resistance
 msgid ""
@@ -625,7 +630,7 @@ msgid ""
 msgstr ""
 
 msgid "-15: Exile all other permanents."
-msgstr "-15: Usuń z gry wszystkie inne stałki."
+msgstr "-15: Wygnaj wszystkie inne stałki."
 
 msgid "Enchanted creature gets +1/+1 and has flying and lifelink."
 msgstr "Zauroczony stwór dostaje +1/+1 i ma Latanie oraz Więź Życia."
@@ -741,7 +746,7 @@ msgid ""
 "Whenever High Priest of Penance is dealt damage, you may destroy target "
 "nonland permanent."
 msgstr ""
-"Zawsze, gdy High Priest of Penance otrzymuje obrażenia, możesz zniszczyć "
+"Ilekroć High Priest of Penance otrzymuje obrażenia, możesz zniszczyć "
 "wskazaną stałkę nie będącą lądem."
 
 #: Hindervines
@@ -918,7 +923,7 @@ msgid " or exile all enchantments"
 msgstr " albo wygnaj wszystkie uroki"
 
 msgid " or exile all planeswalkers."
-msgstr "Wskazany gracz odrzuca kartę."
+msgstr " albo wygnaj wszystkich wędrowców."
 
 #: Merfolk of the Depths Shambleshark
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
@@ -975,6 +980,8 @@ msgid ""
 "Counter target spell. Put an X/X green Ooze creature token onto the "
 "battlefield, where X is that spell's converted mana cost."
 msgstr ""
+"Skontruj wskazany czar. Połóż na polu walki żeton zielonego stwora Ooze X/X, "
+"gdzie X jest łącznym kosztem many owego czaru."
 
 #: Naturalize
 msgid "Destroy target artifact or enchantment."
@@ -1115,6 +1122,8 @@ msgid ""
 "Counter target spell. Its controller puts the top two cards of his or her "
 "library into his or her graveyard."
 msgstr ""
+"Skontruj wskazany czar. Jego władca wkłada dwie wierzchnie karty ze swojej "
+"biblioteki do swojego cmentarza."
 
 #: Purge the Profane
 msgid "Target opponent discards two cards and you gain 2 life."
@@ -1204,7 +1213,7 @@ msgstr ""
 
 #: Scatter Arc
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: Scorchwalker
 msgid ""
@@ -1375,6 +1384,8 @@ msgid ""
 "Counter target spell unless its controller pays {X}, where X is the greatest "
 "power among creatures you control."
 msgstr ""
+"Skontruj wskazany czas dopóki jego władca nie zapłaci {X}, gdzie X jest "
+"największą siłą spośród stworów, którymi władasz."
 
 #: Spire Tracer
 msgid "Spire Tracer can't be blocked except by creatures with flying or reach."

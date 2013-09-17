@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-10 17:00+0200\n"
+"PO-Revision-Date: 2013-09-17 13:41+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378828821.35655\n"
+"X-POOTLE-MTIME: 1379421681.685926\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -87,16 +87,15 @@ msgid ""
 "that creature has greater power or toughness than this creature, put a +1/+1 "
 "counter on this creature.)"
 msgstr ""
-"Rozwój (Zawsze, gdy jakiś stwór wchodzi na pole walki pod twoim władaniem, "
-"jeśli jego siła lub wytrzymałość jest większa niż tego stwora, połóż "
-"znacznik +1/+1 na tym stworze.)"
+"Rozwój (Ilekroć jakiś stwór wchodzi na pole walki pod twoim władaniem, jeśli "
+"jego siła lub wytrzymałość jest większa niż tego stwora, połóż znacznik "
+"+1/+1 na tym stworze.)"
 
 #: Beck // Call (Beck)
 msgid ""
 "Whenever a creature enters the battlefield this turn, you may draw a card."
 msgstr ""
-"Zawsze, gdy w tej turze jakiś stwór wejdzie na pole bitwy, możesz dobrać "
-"kartę."
+"Ilekroć w tej turze jakiś stwór wejdzie na pole bitwy, możesz dobrać kartę."
 
 #: Beetleform Mage
 msgid ""
@@ -121,8 +120,8 @@ msgid ""
 "Whenever an instant or sorcery spell you control deals damage, put two 1/1 "
 "red and white Soldier creature tokens with haste onto the battlefield."
 msgstr ""
-"Zawsze, gdy sztuczka lub gusła, którymi władasz, zada obrażenia, połóż na "
-"polu walki dwa żetony czerwono-białego stwora Soldier 1/1 z pośpiechem."
+"Ilekroć sztuczka lub gusła, którymi władasz, zada obrażenia, połóż na polu "
+"walki dwa żetony czerwono-białego stwora Soldier 1/1 z pośpiechem."
 
 #: Flesh // Blood (Blood)
 msgid ""
@@ -181,7 +180,7 @@ msgid ""
 "Boros Mastiff gains lifelink until end of turn. (Damage dealt by a creature "
 "with lifelink also causes its controller to gain that much life.)"
 msgstr ""
-"Batalion — Zawsze, gdy Boros Mastiff i przynajmniej dwa inne stwory atakują, "
+"Batalion — Ilekroć Boros Mastiff i przynajmniej dwa inne stwory atakują, "
 "Boros Mastiff zyskuje więź życia do końca tury. (Obrażenia zadane przez "
 "stwora z więzią życia powodują, że jego władca zyskuje tyle samo życia.)"
 
@@ -198,15 +197,15 @@ msgid ""
 "Whenever a creature you control with a +1/+1 counter on it deals combat "
 "damage to a player, you may draw a card."
 msgstr ""
-"Zawsze, gdy stwór, którym władasz, ze znacznikami +1/+1 zada graczowi "
-"obrażenia bojowe, możesz dobrać kartę."
+"Ilekroć stwór, którym władasz, ze znacznikami +1/+1 zada graczowi obrażenia "
+"bojowe, możesz dobrać kartę."
 
 #: Bronzebeak Moa
 msgid ""
 "Whenever another creature enters the battlefield under your control, "
 "Bronzebeak Moa gets +3/+3 until end of turn."
 msgstr ""
-"Zawsze, gdy jakiś inny stwór wchodzi na pole walki pod twoim władaniem, "
+"Ilekroć jakiś inny stwór wchodzi na pole walki pod twoim władaniem, "
 "Bronzebeak Moa dostaje +3/+3 do końca tury."
 
 #: Turn // Burn (Burn)
@@ -220,7 +219,7 @@ msgstr "Połóż na polu walki cztery żetony białych stworów Bird 1/1 z Latan
 
 #: Carnage Gladiator
 msgid "Whenever a creature blocks, that creature's controller loses 1 life."
-msgstr "Zawsze, gdy jakiś stwór blokuje, władający nim gracz traci 1 życie."
+msgstr "Ilekroć jakiś stwór blokuje, władający nim gracz traci 1 życie."
 
 msgid "{1}{B}{R}: Regenerate Carnage Gladiator."
 msgstr "{1}{B}{R}: Zregeneruj Carnage Gladiator."
@@ -256,8 +255,8 @@ msgid ""
 "Exile all creature cards from target player's graveyard. You gain 3 life for "
 "each card exiled this way."
 msgstr ""
-"Usuń z gry wszystkie karty stworów z cmentarza wskazanego gracza. Zyskujesz "
-"3 życia za każdą kartę stwora usuniętą w ten sposób."
+"Wygnaj wszystkie karty stworów z cmentarza wskazanego gracza. Zyskujesz 3 "
+"życia za każdą kartę stwora wygnaną w ten sposób."
 
 #: Armed // Dangerous (Dangerous)
 #, fuzzy
@@ -398,8 +397,8 @@ msgid ""
 "Exile target creature card from a graveyard. Put X +1/+1 counters on target "
 "creature, where X is the power of the card you exiled."
 msgstr ""
-"Usuń wskazaną kartę stwora z cmentarza. Połóż X znaczników +1/+1 na "
-"wskazanym stworze, gdzie X to siła karty, którą usunięto."
+"Wygnaj wskazaną kartę stwora z cmentarza. Połóż X znaczników +1/+1 na "
+"wskazanym stworze, gdzie X to siła karty, którą wygnano."
 
 #: Fluxcharger Goblin Test Pilot Maze Glider Mirko Vosk, Mind Drinker Rakdos
 #: Drake Wind
@@ -410,7 +409,7 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, you may switch Fluxcharger's "
 "power and toughness until end of turn."
 msgstr ""
-"Zawsze, gdy rzucasz sztuczkę lub gusła, możesz do końca tury zamienić siłę i "
+"Ilekroć rzucasz sztuczkę lub gusła, możesz do końca tury zamienić siłę i "
 "wytrzymałość Fluxchargera."
 
 #: Gaze of Granite
@@ -424,7 +423,7 @@ msgstr "Połóż trzy znaczniki +1/+1 na wskazanym stworze."
 
 #: Gleam of Battle
 msgid "Whenever a creature you control attacks, put a +1/+1 counter on it."
-msgstr "Zawsze gdy stwór, którym władasz, atakuje, połóż na nim znacznik +1/+1."
+msgstr "Ilekroć stwór, którym władasz, atakuje, połóż na nim znacznik +1/+1."
 
 msgid ""
 "{T}: Goblin Test Pilot deals 2 damage to target creature or player chosen at "
@@ -471,8 +470,8 @@ msgid ""
 "Whenever Haazda Snare Squad attacks, you may pay {W}. If you do, tap target "
 "creature an opponent controls."
 msgstr ""
-"Zawsze gdy Haazda Snare Squad atakuje, możesz zapłacić {W}. Jeśli to "
-"zrobisz, zużyj wskazanego stwora władanego przez przeciwnika."
+"Ilekroć Haazda Snare Squad atakuje, możesz zapłacić {W}. Jeśli to zrobisz, "
+"zużyj wskazanego stwora władanego przez przeciwnika."
 
 #: Haunter of Nightveil
 msgid "Creatures your opponents control get -1/-0."
@@ -492,8 +491,8 @@ msgid ""
 "controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
 "Szyfruj (Następnie możesz wygnać tę kartę kodując ją na stworze, którym "
-"władasz. Zawsze, gdy ów stwór zada graczowi obrażenia bojowe, jego władca "
-"może rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
+"władasz. Ilekroć ów stwór zada graczowi obrażenia bojowe, jego władca może "
+"rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
 
 #: Hired Torturer Murmuring Phantasm Nivix Cyclops
 msgid "Defender"
@@ -523,8 +522,8 @@ msgid ""
 "Whenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until "
 "end of turn."
 msgstr ""
-"Zawsze, gdy Jelenn Sphinx atakuje, inne atakujące stwory dostają +1/+1 do "
-"końca tury."
+"Ilekroć Jelenn Sphinx atakuje, inne atakujące stwory dostają +1/+1 do końca "
+"tury."
 
 #: Korozda Gorgon
 msgid "Deathtouch"
@@ -621,7 +620,7 @@ msgid ""
 "player's life total becomes 1. Master of Cruelties assigns no combat damage "
 "this combat."
 msgstr ""
-"Zawsze, gdy Master of Cruelties atakuje gracza i nie jest blokowany, punkty "
+"Ilekroć Master of Cruelties atakuje gracza i nie jest blokowany, punkty "
 "życia tego gracza stają się równe 1. Master of Cruelties nie zadaje obrażeń "
 "bojowych w tej walce."
 
@@ -697,8 +696,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell from your library, copy it. "
 "You may choose new targets for the copy."
 msgstr ""
-"Zawsze, gdy rzucasz sztuczkę lub gusła ze swojej biblioteki, skopiuj ów "
-"czar. Możesz wskazać nowe cele dla owej kopii."
+"Ilekroć rzucasz sztuczkę lub gusła ze swojej biblioteki, skopiuj ów czar. "
+"Możesz wskazać nowe cele dla owej kopii."
 
 #: Mending Touch
 #, fuzzy
@@ -714,9 +713,9 @@ msgid ""
 "player reveals cards from the top of his or her library until he or she "
 "reveals four land cards, then puts those cards into his or her graveyard."
 msgstr ""
-"Zawsze, gdy Mirko Vosk, Mind Drinker zadaje graczowi obrażenia bojowe, ów "
-"gracz odkrywa karty z wierzchu swojej biblioteki do momentu, aż odkryje "
-"cztery lądy, następnie umieszcza te karty w swoim cmentarzu."
+"Ilekroć Mirko Vosk, Mind Drinker zadaje graczowi obrażenia bojowe, ów gracz "
+"odkrywa karty z wierzchu swojej biblioteki do momentu, aż odkryje cztery "
+"lądy, następnie umieszcza te karty w swoim cmentarzu."
 
 #: Morgue Burst
 msgid ""
@@ -736,7 +735,7 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 "
 "until end of turn and can attack this turn as though it didn't have defender."
 msgstr ""
-"Zawsze, gdy rzucasz sztuczkę lub gusła, Nivix Cyclops dostaje +3/+0 do końca "
+"Ilekroć rzucasz sztuczkę lub gusła, Nivix Cyclops dostaje +3/+0 do końca "
 "tury i może atakować w tej turze, jak by nie miał Obrońcy."
 
 #: Notion Thief Skylasher
@@ -786,32 +785,29 @@ msgstr ""
 "cmentarza. Dobierz kartę."
 
 #: Plasm Capture
-#, fuzzy
 msgid ""
 "Counter target spell. At the beginning of your next precombat main phase, "
 "add X mana in any combination of colors to your mana pool, where X is that "
 "spell's converted mana cost."
 msgstr ""
-"Skontruj wskazany czar. Na początku twojej następnej głównej fazy "
+"Skontruj wskazany czar. Na początku twojej następnej fazy główniej "
 "poprzedzającej walkę, dodaj X many w jakichkolwiek kombinacjach kolorów do "
 "twojego zasobnika many, gdzie X to łączny koszt skontrowanego czaru."
 
 #: Pontiff of Blight
-#, fuzzy
 msgid ""
 "Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each "
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
-"Haracz (Zawsze, gdy rzucasz czar, możesz zapłacić {(w/b)}. Jeśli tak "
+"Wymuszenie (Ilekroć rzucasz czar, możesz zapłacić {(w/b)}. Jeśli tak "
 "zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo "
 "życia.)"
 
-#, fuzzy
 msgid ""
 "Other creatures you control have extort. (If a creature has multiple "
 "instances of extort, each triggers separately.)"
 msgstr ""
-"Inne stwory pod twoją kontrolą mają wymuszenie. (Jeśli stór ma wiele "
+"Inne stwory pod twoim władaniem mają wymuszenie. (Jeśli stwór ma wiele "
 "wymuszeń, każdy działa osobno.)"
 
 #: Possibility Storm
@@ -823,11 +819,11 @@ msgid ""
 "without paying its mana cost. Then he or she puts all cards exiled with "
 "Possibility Storm on the bottom of his or her library in a random order."
 msgstr ""
-"Kiedykolwiek gracz rzuca czar z ręki, ten gracz usuwa go, następnie usuwa "
-"karty z góry swojej biblioteki do czasu aż usunie kartę, która dzieli z nią "
-"typ karty. Ten gracz może rzucić tą kartę bez płacenia jej kosztu many. "
-"Nastęnie kładzie on wszystkie usunięte przez Possibility Storm karty na "
-"spodzie swojej biblioteki w losowej kolejności."
+"Ilekroć gracz rzuca czar z ręki, ten gracz usuwa go, następnie usuwa karty z "
+"góry swojej biblioteki do czasu aż usunie kartę, która dzieli z nią typ "
+"karty. Ten gracz może rzucić tą kartę bez płacenia jej kosztu many. Nastęnie "
+"kładzie on wszystkie usunięte przez Possibility Storm karty na spodzie "
+"swojej biblioteki w losowej kolejności."
 
 #: Profit // Loss (Profit)
 #, fuzzy
@@ -910,7 +906,6 @@ msgstr ""
 "wszystkie stwoty pod twoją kontrolą."
 
 #: Reap Intellect
-#, fuzzy
 msgid ""
 "Target opponent reveals his or her hand. You choose up to X nonland cards "
 "from it and exile them. For each card exiled this way, search that player's "
@@ -918,9 +913,9 @@ msgid ""
 "that card and exile them. Then that player shuffles his or her library."
 msgstr ""
 "Wskazany przeciwnik ujawnia swoją rękę. Wybierasz do X kart niebędących "
-"lądami i usuwasz je. Za każdą kartę usuniętą w ten sposób, przeszukaj "
-"cmentarz, rękę i biblioteke tego gracza w poszukiwaniu kart o tej samej "
-"nazwie i usuń je. Następnie ten gracz tasuje swoja biblioteke."
+"lądami i wyganiasz je. Za każdą kartę wygnaną w ten sposób, przeszukaj "
+"cmentarz, rękę i bibliotekę owego gracza w poszukiwaniu kart o tej samej "
+"nazwie i wygnaj je. Następnie ten gracz tasuje swoja bibliotekę."
 
 #: Catch // Release (Release)
 #, fuzzy
@@ -930,17 +925,16 @@ msgid ""
 msgstr "Każdy gracz poświęca artefakt, stwota, urok, ląd i wędrowca."
 
 #: Render Silent
-#, fuzzy
 msgid "Counter target spell. Its controller can't cast spells this turn."
-msgstr "Skontruj wskazany czar. Jego kontroler nie może rzucać czarów tej tury."
+msgstr "Skontruj wskazany czar. Jego władca nie może rzucać czarów w tej turze."
 
 #, fuzzy
 msgid ""
 "Whenever Renegade Krasis evolves, put a +1/+1 counter on each other creature "
 "you control with a +1/+1 counter on it."
 msgstr ""
-"Kiedykolwiek Renegade Krasis ewoluuje połóż znacznik +1/+1 na wszystkich "
-"innych stworach, które kontrolujesz ze znacznikiem +1/+1 na nim."
+"Ilekroć Renegade Krasis ewoluuje połóż znacznik +1/+1 na wszystkich innych "
+"stworach, które kontrolujesz ze znacznikiem +1/+1 na nim."
 
 #: Renounce the Guilds
 msgid "Each player sacrifices a multicolored permanent."
@@ -1002,13 +996,12 @@ msgstr ""
 msgid "Ruric Thar, the Unbowed attacks each turn if able."
 msgstr "Ruric Thar, the Unbowed atakuje każdej tury jeśli to możliwe."
 
-#, fuzzy
 msgid ""
 "Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to "
 "that player."
 msgstr ""
-"Kiedykolwiek gracz rzuca czar niebędący stworem, Ruric Thar zadaje 6 obrażeń "
-"temu graczowi."
+"Ilekroć gracz rzuca czar nie będący stworem, Ruric Thar zadaje temu graczowi "
+"6 obrażeń."
 
 #: Saruli Gatekeepers
 #, fuzzy
@@ -1100,6 +1093,7 @@ msgstr ""
 msgid ""
 "Whenever enchanted creature attacks or blocks, its controller loses 2 life."
 msgstr ""
+"Ilekroć zauroczony stwór atakuje lub blokuje, jego władca traci 2 życia."
 
 #: Sire of Insanity
 #, fuzzy
@@ -1329,3 +1323,5 @@ msgstr ""
 msgid ""
 "Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent."
 msgstr ""
+"Ilekroć zużywasz Zhur-Taa Druid pobierając manę, zadaje on po 1 obrażeniu "
+"każdemu z przeciwników."

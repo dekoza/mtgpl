@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 02:36+0200\n"
-"PO-Revision-Date: 2013-09-08 09:08+0200\n"
+"PO-Revision-Date: 2013-09-17 13:22+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378627716.266143\n"
+"X-POOTLE-MTIME: 1379420575.669813\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Abrupt Decay
@@ -66,10 +66,10 @@ msgid ""
 "permanents your opponents control. (Until your next turn, those permanents "
 "can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
-"Zawsze, gdy Archon of the Triumvirate atakuje, uwięź do dwóch wskazanych "
-"stałek nie będących lądami znajdujących się pod kontrolą przeciwników. (Do "
-"twojej następnej tury stałki te nie mogą atakować ani blokować, a ich "
-"aktywowane zdolności nie mogą być aktywowane.)"
+"Ilekroć Archon of the Triumvirate atakuje, uwięź do dwóch wskazanych stałek "
+"nie będących lądami znajdujących się pod kontrolą przeciwników. (Do twojej "
+"następnej tury stałki te nie mogą atakować ani blokować, a ich aktywowane "
+"zdolności nie mogą być aktywowane.)"
 
 #: Archweaver
 msgid "Reach, trample"
@@ -242,7 +242,7 @@ msgstr ""
 
 #: Cancel
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: Centaur Healer
 msgid "When Centaur Healer enters the battlefield, you gain 3 life."
@@ -335,10 +335,10 @@ msgstr ""
 
 #: Counterflux
 msgid "Counterflux can't be countered by spells or abilities."
-msgstr ""
+msgstr "Counterflux nie może być skontrowany przez czary lub zdolności."
 
 msgid "Counter target spell you don't control."
-msgstr ""
+msgstr "Skontruj wskazany czar, którym nie władasz."
 
 msgid ""
 "Overload {1}{U}{U}{R} (You may cast this spell for its overload cost. If you "
@@ -457,7 +457,7 @@ msgstr ""
 
 #: Dispel
 msgid "Counter target instant spell."
-msgstr ""
+msgstr "Skontruj wskazany czar sztuczki."
 
 msgid ""
 "{2}{U}, {T}: Target player puts the top X cards of his or her library into "
@@ -823,8 +823,8 @@ msgid ""
 "Whenever Izzet Keyrune deals combat damage to a player, you may draw a card. "
 "If you do, discard a card."
 msgstr ""
-"Zawsze, gdy Izzet Keyrune zada graczowi obrażenia bojowe, możesz dobrać "
-"kartę. Jeśli tak zrobisz, odrzuć kartę."
+"Ilekroć Izzet Keyrune zada graczowi obrażenia bojowe, możesz dobrać kartę. "
+"Jeśli tak zrobisz, odrzuć kartę."
 
 msgid ""
 "{T}: Izzet Staticaster deals 1 damage to target creature and each other "
@@ -1695,8 +1695,8 @@ msgid ""
 "Whenever Wayfaring Temple deals combat damage to a player, populate. (Put a "
 "token onto the battlefield that's a copy of a creature token you control.)"
 msgstr ""
-"Zawsze, gdy Wayfaring Temple zadaje graczowi obrażenia bojowe, zaludnij. "
-"(Połóż na polu walki żeton, będący kopią kontrolowanego przez ciebie żetonu "
+"Ilekroć Wayfaring Temple zadaje graczowi obrażenia bojowe, zaludnij. (Połóż "
+"na polu walki żeton, będący kopią kontrolowanego przez ciebie żetonu "
 "stwora.)"
 
 #: Wild Beastmaster

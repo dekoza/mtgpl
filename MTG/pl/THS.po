@@ -6,20 +6,22 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 13:17+0200\n"
-"PO-Revision-Date: 2013-09-17 13:20+0200\n"
-"Last-Translator: Dominik <Kozaczko>\n"
+"PO-Revision-Date: 2013-09-17 20:42+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 2.91.6\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1379446937.581661\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Battlewise Valor
 msgid "Target creature gets +2/+2 until end of turn. Scry 1."
-msgstr ""
+msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Wróż 1."
 
 #: Cavalry Pegasus Decorated Griffin Setessan Wingsteed Rider Coastline
 #: Chimera Horizon Scholar Prescient Prognostic Sphinx Vaporkin Abhorrent
@@ -31,365 +33,437 @@ msgid ""
 "Whenever Cavalry Pegasus attacks, each attacking Human gains flying until "
 "end of turn."
 msgstr ""
+"Ilekroć Cavalry Pegasus atakuje, każdy atakujący Human dostaje latanie do "
+"końca tury."
 
 #: Celestial Archon
 msgid "Bestow {5}{W}{W}"
-msgstr ""
+msgstr "Obdarowanie {5}{W}{W}"
 
 msgid ""
 "(If you cast this card for its bestow cost, it's an Aura spell with enchant "
 "creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"(Jeśli zagrasz tę kartę za koszt obdarowania, jest on czarem Aury "
+"zauroczenia stwora. Ponownie staje się stworem, jeśli nie jest dołączony do "
+"stwora.)"
 
 #: Anvilwrought Raptor
 msgid "Flying, first strike"
-msgstr ""
+msgstr "Latanie, pierwszy cios"
 
 msgid "Enchanted creature gets +4/+4 and has flying and first strike."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +4/+4 oraz ma latanie i pierwszy cios."
 
 #: Chained to the Rocks
 msgid "Enchant Mountain you control"
-msgstr ""
+msgstr "Zaurocz górę, którą władasz"
 
 msgid ""
 "When Chained to the Rocks enters the battlefield, exile target creature an "
 "opponent controls until Chained to the Rocks leaves the battlefield."
 msgstr ""
+"Kiedy Chained to the Rocks wchodzi na pole walki, wygnaj wskazanego stwora "
+"władanego przez przeciwnika dopóki Chained to the Rocks nie opuści pola "
+"walki."
 
 msgid "(That creature returns under its owner's control.)"
-msgstr ""
+msgstr "(Ów stwór wraca pod władanie swojego właściciela.)"
 
 #: Chosen by Heliod Gift of Immortality Ordeal Aqueous Form Fate Foretold
 #: Thassa Erebos Scourgemark Viper's Kiss Dragon Mantle Messenger's Speed
 #: Purphoros Nylea
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 msgid "When Chosen by Heliod enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy Chosen by Heliod wchodzi na pole walki, dobierz kartę."
 
 msgid "Enchanted creature gets +0/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +0/+2."
 
 #: Dauntless Onslaught
 msgid "Up to two target creatures each get +2/+2 until end of turn."
-msgstr ""
+msgstr "Każdy z najwyżej dwóch wskazanych stworów dostaje +2/+2 do końca tury."
 
 msgid ""
 "{1}{W}: Prevent the next 1 combat damage that would be dealt to you this "
 "turn."
 msgstr ""
+"{1}{W}: Zażegnaj następne 1 obrażenie bojowe, które może zostać ci zadane w "
+"tej turze."
 
 #: Divine Verdict
 msgid "Destroy target attacking or blocking creature."
-msgstr ""
+msgstr "Zniszcz wskazanego atakującego lub blokującego stwora."
 
 #: Elspeth, Sun's Champion
 msgid "[+1]: Put three 1/1 white Soldier creature tokens onto the battlefield."
-msgstr ""
+msgstr "[+1]: Połóż na polu walki trzy żetony białego stwora Soldier 1/1."
 
 msgid "[-3]: Destroy all creatures with power 4 or greater."
-msgstr ""
+msgstr "[-3]: Zniszcz wszystkie stwory o sile 4 lub większej."
 
 msgid ""
 "[-7]: You get an emblem with \"Creatures you control get +2/+2 and have "
 "flying.\""
 msgstr ""
+"[-7]: Dostajesz emblemat o treści \"Stwory, którymi władasz dostają +2/+2 i "
+"mają latanie.\""
 
 #: Ephara's Warden
 msgid "{T}: Tap target creature with power 3 or less."
-msgstr ""
+msgstr "{T}: Zużyj wskazanego stwora o sile 3 lub mniejszej."
 
 #: Evangel of Heliod
 msgid ""
 "When Evangel of Heliod enters the battlefield, put a number of 1/1 white "
 "Soldier creature tokens onto the battlefield equal to your devotion to white."
 msgstr ""
+"Kiedy Evangel of Heliod wchodzi na pole walki, półóż tyle żetonów białego "
+"stwora Soldier 1/1 na polu walki, ile wynosi twój kult białego."
 
 #: Fabled Hero Two-Headed Cerberus
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: Favored Hoplite Phalanx Leader Setessan Battle Priest Artisan of Forms
 #: Triton Fortune Hunter Wavecrash Akroan Crusader Labyrinth Champion
 #: Anthousa, Hero Centaur Battlemaster Staunch-Hearted Warrior Battlewise
 msgid "Heroic"
-msgstr ""
+msgstr "Heroizm"
 
 msgid ""
 "- Whenever you cast a spell that targets Fabled Hero, put a +1/+1 counter on "
 "Fabled Hero."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący Fabled Hero, połóż znacznik +1/+1 na "
+"Fabled Hero."
 
 msgid ""
 "- Whenever you cast a spell that targets Favored Hoplite, put a +1/+1 "
 "counter on Favored Hoplite and prevent all damage that would be dealt to it "
 "this turn."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący Favored Hoplite, połóż znacznik +1/+1 na "
+"Favored Hoplite i zapobiegnij wszystkim obrażeniom, które mogłyby mu być "
+"zadane w tej turze."
 
 msgid ""
 "When enchanted creature dies, return that card to the battlefield under its "
 "owner's control. Return Gift of Immortality to the battlefield attached to "
 "that creature at the beginning of the next end step."
 msgstr ""
+"Gdy zauroczony stwór umiera, przywróć ową kartę na pole walki pod władaniem "
+"jej właściciela. Przywróć Gift of Immortality na pole walki dołączone do "
+"owego stwora na początku następnego kroku końcowego."
 
 #: Glare of Heresy
 msgid "Exile target white permanent."
-msgstr ""
+msgstr "Wygnaj wskazaną białą stałkę."
 
 #: Gods Willing
 msgid ""
 "Target creature you control gains protection from the color of your choice "
 "until end of turn. Scry 1."
 msgstr ""
+"Wskazany stwór, którym władasz, dostaje do końca tury ochronę przed wybranym "
+"przez ciebie kolorem. Wróż 1."
 
 msgid ""
 "(Look at the top card of your library. You may put that card on the bottom "
 "of your library.)"
 msgstr ""
+"(Spójrz na wierzchnią kartę swojej biblioteki. Możesz położyć tę kartę na "
+"spodzie swojej biblioteki.)"
 
 #: Heliod, God of the Sun Thassa, Sea Erebos, Dead Purphoros, Forge Nessian
 #: Courser Nylea, Hunt
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 msgid ""
 "As long as your devotion to white is less than five, Heliod isn't a creature."
 msgstr ""
+"Dopóki twój kult białego jest mniejszy niż pięć, Heliod nie jest stworem."
 
 msgid ""
 "(Each {W} in the mana costs of permanents you control counts toward your "
 "devotion to white.)"
 msgstr ""
+"(Każda {W} w kosztach many stałek, którymi władasz wlicza się do twojego "
+"kultu białego.)"
 
 msgid "Other creatures you control have vigilance."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają czujność."
 
 msgid ""
 "{2}{W}{W}: Put a 2/1 white Cleric enchantment creature token onto the "
 "battlefield."
-msgstr ""
+msgstr "{2}{W}{W}: Połóż na polu walki żeton białego stwora-uroku Cleric 2/1."
 
 #: Heliod's Emissary
 msgid "Bestow {6}{W}"
-msgstr ""
+msgstr "Obdarowanie {6}{W}"
 
 msgid ""
 "Whenever Heliod's Emissary or enchanted creature attacks, tap target "
 "creature an opponent controls."
 msgstr ""
+"Ilekroć Heliod's Emissary lub zauroczony stwór atakuje, zużyj wskazanego "
+"stwora, którym włada przeciwnik."
 
 msgid "Enchanted creature gets +3/+3."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+3."
 
 #: Hopeful Eidolon
 msgid "Bestow {3}{W}"
-msgstr ""
+msgstr "Obdarowanie {3}{W}"
 
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 msgid "Enchanted creature gets +1/+1 and gains lifelink."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma więź życia."
 
 #: Hundred-Handed One
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 msgid "{3}{W}{W}{W}: Monstrosity 3"
-msgstr ""
+msgstr "{3}{W}{W}{W}: Monstrualność 3"
 
 msgid ""
 "(If this creature isn't monstrous, put three +1/+1 counters on it and it "
 "becomes monstrous.)"
 msgstr ""
+"(Jeśli ten stwór nie jest monstrualny, połóż na nim trzy znaczniki +1/+1 i "
+"staje się on monstrualny.)"
 
 msgid ""
 "As long as Hundred-Handed One is monstrous, it has reach and can block an "
 "additional ninety-nine creatures each combat."
 msgstr ""
+"Dopóki Hundred-Handed One jest monstrualny, ma zasięg i może blokować "
+"dodatkowych dziewięćdziesiąt dziewięć stworów w każdej walce."
 
 #: Lagonna-Band Elder
 msgid ""
 "When Lagonna-Band Elder enters the battlefield, if you control an "
 "enchantment, you gain 3 life."
 msgstr ""
+"Kiedy Lagonna-Band Elde wchodzi na pole walki, jeśli władasz urokiem, "
+"zyskujesz 3 życia."
 
 #: Last Breath
 msgid ""
 "Exile target creature with power 2 or less. Its controller gains 4 life."
 msgstr ""
+"Wygnaj wskazanego stwora o sile 2 lub mniej. Jego władca zyskuje 4 życia."
 
 #: Leonin Snarecaster
 msgid ""
 "When Leonin Snarecaster enters the battlefield, you may tap target creature."
 msgstr ""
+"Kiedy Leonin Snarecaster wchodzi na pole walki, możesz zużyć wskazanego "
+"stwora."
 
 #: Observant Alseid
 msgid "Bestow {4}{W}"
-msgstr ""
+msgstr "Obdarowanie {4}{W}"
 
 msgid "Enchanted creature gets +2/+2 and has vigilance."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma czujność."
 
 msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod."
 msgstr ""
+"Ilekroć zauroczony stwór atakuje, połóż na nim znacznik +1/+1. Następnie "
+"jeśli ma on trzy lub więcej znaczników +1/+1, poświęć Ordeal of Heliod."
 
 msgid "When you sacrifice Ordeal of Heliod, you gain 10 life."
-msgstr ""
+msgstr "Kiedy poświęcisz Ordeal of Heliod, zyskujesz 10 życia."
 
 msgid ""
 "- Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter "
 "on each creature you control."
 msgstr ""
+"- Ilekroć rzucasz czar, który wskazuje Phalanx Leader, połóż znacznik +1/+1 "
+"na każdym stworze, którym władasz."
 
 #: Ray of Dissolution
 msgid "Destroy target enchantment. You gain 3 life."
-msgstr ""
+msgstr "Zniszcz wskazany urok. Zyskujesz 3 życia."
 
 #: Scholar of Athreos
 msgid ""
 "{2}{B}: Each opponent loses 1 life. You gain life equal to the life lost "
 "this way."
 msgstr ""
+"{2}{B}: Każdy z przeciwników traci po 1 życiu. Zyskujesz tyle życia, ile "
+"stracono w ten sposób."
 
 msgid ""
 "- Whenever you cast a spell that targets Setessan Battle Priest, you gain 2 "
 "life."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Setessan Battle Priest, zyskujesz 2 "
+"życia."
 
 msgid ""
 "{2}{G}{G}: Setessan Griffin gets +2/+2 until end of turn. Activate this "
 "ability only once each turn."
 msgstr ""
+"{2}{G}{G}: Setessan Griffin dostaje +2/+2 do końca tury. Aktywuj tę zdolność "
+"tylko raz na turę."
 
 #: Silent Artisan Soldier of the Pantheon
 msgid "Protection from multicolored"
-msgstr ""
+msgstr "Ochrona przed wielokolorowym"
 
 msgid "Whenever an opponent casts a multicolored spell, you ain 1 life."
-msgstr ""
+msgstr "Ilekroć przeciwnik rzuca wielokolorowy czar, dostajesz 1 życie."
 
 #: Spear of Heliod
 msgid "Creatures you control get +1/+1."
-msgstr ""
+msgstr "Stwory, którymi władasz dostają +1/+1."
 
 msgid ""
 "{1}{W}{W}, {T}: Destroy target creature that dealt damage to you this turn."
 msgstr ""
+"{1}{W}{W}, {T}: Zniszcz wskazanego stwora, który zadał ci obrażenia w tej "
+"turze."
 
 #: Traveling Philosopher Vanquish the Foul
 msgid "Destroy target creature with power 4 or greater. Scry 1."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 4 lub większej. Wróż 1."
 
 msgid ""
 "- Whenever you cast a spell that targets Wingsteed Rider, put a +1/+1 "
 "counter on Wingsteed Rider."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Wingsteed Rider, połóż znacznik +1/+1 "
+"na Wingsteed Rider."
 
 #: Yoked Ox Annul
 msgid "Counter target artifact or enchantment spell."
-msgstr ""
+msgstr "Skontruj wskazany czar artefaktu lub uroku."
 
 msgid "Enchanted creature can't be blocked."
-msgstr ""
+msgstr "Zauroczony stwór nie może być blokowany."
 
 msgid "Whenever enchanted creature attacks, scry 1."
-msgstr ""
+msgstr "Ilekroć zauroczony stwór atakuje, wróż 1."
 
 msgid ""
 "- Whenever you cast a spell that targets Artisan of Forms, you may have "
 "Artisan of Forms become a copy of target creature and gain this ability."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Artisan of Forms, możesz sprawić, by "
+"Artisan of Forms stał się kopią wskazanego stwora i otrzymał tę zdolność."
 
 #: Benthic Giant
 msgid "Hexproof"
-msgstr ""
+msgstr "Antyklątwa"
 
 #: Bident of Thassa
 msgid ""
 "Whenever a creature you control deals combat damage to a player, you may "
 "draw a card."
 msgstr ""
+"Ilekroć stwór, którym władasz, zada graczowi obrażenia bojowe, możesz dobrać "
+"kartę."
 
 msgid "{1}{U}, {T}: Creatures your opponents control attack this turn if able."
 msgstr ""
+"{1}{U}, {T}: Stwory, którymi władają przeciwnicy, atakują w tej turze jeśli "
+"mogą."
 
 #: Breaching Hippocamp Boon Satyr Feral Invocation Horizon Chimera
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 msgid ""
 "When Breaching Hippocamp enters the battlefield, untap another target "
 "creature you control."
 msgstr ""
+"Kiedy Breaching Hippocamp wchodzi na pole walki, odśwież innego wskazanego "
+"stwora, którym władasz."
 
 msgid "{1}{W}: Coastline Chimera can block an additional creature this turn."
-msgstr ""
+msgstr "{1}{W}: Coastline Chimera może blokować dodatkowego stwora w tej turze."
 
 #: Crackling Triton
 msgid ""
 "{2}{R}, Sacrifice Crackling Triton: Crackling Triton deals 2 damage to "
 "target creature or player."
 msgstr ""
+"{2}{R}, poświęć Crackling Triton: Crackling Triton zadaje 2 obrażenia "
+"wskazanemu stworowi lub graczowi."
 
 #: Curse of the Swine
 msgid ""
 "Exile X target creatures. For each creature exiled this way, its controller "
 "puts a 2/2 green Boar creature token onto the battlefield."
 msgstr ""
+"Wygnaj X wskazanych stworów. Za każdego stwora wygnanego w ten sposób, jego "
+"władca wkłada na pole walki żeton zielonego stwora Boar 2/2."
 
 #: Dissolve
 msgid "Counter target spell. Scry 1."
-msgstr ""
+msgstr "Skontruj wskazany czar. Wróż 1."
 
 msgid "When Fate Foretold enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy Fate Foretold wchodzi na pole walki, dobierz kartę."
 
 msgid "When enchanted creature dies, its controller draws a card."
-msgstr ""
+msgstr "Kiedy zauroczony stwór umiera, jego władca dobiera kartę."
 
 #: Gainsay
 msgid "Counter target blue spell."
-msgstr ""
+msgstr "Skontruj wskazany niebieski czar."
 
 #: Griptide
 msgid "Put target creature on top of its owner's library."
-msgstr ""
+msgstr "Połóż wskazanego stwora na wierzchu biblioteki jego właściciela."
 
 msgid "When Horizon Scholar enters the battlefield, scry 2."
-msgstr ""
+msgstr "Kiedy Horizon Scholar wchodzi na pole walki, wróż 2."
 
 #: Lost in a Labyrinth
 msgid "Target creature gets -3/-0 until end of turn. Scry 1."
-msgstr ""
+msgstr "Wskazany stwór dostaje -3/-0 do końca tury. Wróż 1."
 
 #: Master of Waves
 msgid "Protection from red"
-msgstr ""
+msgstr "Ochrona przed czerwonym"
 
 msgid "Elemental creatures you control get +1/+1."
-msgstr ""
+msgstr "Stwory Elemental, którymi władasz, dostają +1/+1."
 
 msgid ""
 "When Master of Waves enters the battlefield, put a number of 1/0 blue "
 "Elemental creature tokens onto the battlefield equal to your devotion to "
 "blue."
 msgstr ""
+"Kiedy Master of Waves wchodzi na pole walki, połóż tyle żetonów niebieskiego "
+"stwora Elemental 1/0, ile wynosi twój kult niebieskiego."
 
 msgid ""
 "(Each {U} in the mana costs of permanents you control counts toward your "
 "devotion to blue.)"
 msgstr ""
+"(Każda {U} w kosztach many stałek, którymi władasz wlicza się do twojego "
+"kultu niebieskiego.)"
 
 #: Meletis Charlatan
 msgid ""
 "{2}{U}, {T}: The controller of target instant or sorcery spell copies it. "
 "That player may choose new targets for the copy."
 msgstr ""
+"{2}{U}, {T}: Władca wskazanego czaru sztuczki lub obrzędu kopiuje go. Ów "
+"gracz może wybrać nowe cele dla kopii."
 
 #: Mnemonic Wall Returned Phalanx Akroan Horse Guardians of Meletis
 msgid "Defender"
@@ -399,45 +473,56 @@ msgid ""
 "When Mnemonic Wall enters the battlefield, you may return target instant or "
 "sorcery card from your graveyard to your hand."
 msgstr ""
+"Kiedy Mnemonic Wall wchodzi na pole walki możesz zwrócić wskazaną kartę "
+"sztuczki lub obrzędu ze swojego cmentarza do swojej ręki."
 
 #: Nimbus Naiad
 msgid "Bestow {4}{U}"
-msgstr ""
+msgstr "Obdarowanie {4}{U}"
 
 msgid "Enchanted creature gets +2/+2 and has flying."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma latanie."
 
 #: Omenspeaker
 msgid "When Omenspeaker enters the battlefield, scry 2."
-msgstr ""
+msgstr "Kiedy Omenspeaker wchodzi na pole walki, wróż 2."
 
 msgid ""
 "(Look at the top two cards of your library, then put any number of them on "
 "the bottom of your library in any order.)"
 msgstr ""
+"(Spójrz na dwie wierzchnie karty swojej biblioteki, następnie połóż dowolną "
+"liczbę z nich na spodzie swojej biblioteki, a pozostałe na wierzchu w "
+"dowolnej kolejności.)"
 
 msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Thassa."
 msgstr ""
+"Ilekroć zauroczony stwór atakuje, połóż na nim znacznik +1/+1. Następnie "
+"jeśli ma on trzy lub więcej znaczników +1/+1, poświęć Ordeal of Thassa."
 
 msgid "When you sacrifice Ordeal of Thassa, draw 2 cards."
-msgstr ""
+msgstr "Kiedy poświęcisz Ordeal of Thassa, dobierz 2 karty."
 
 msgid "Whenever you cast an instant or sorcery spell, scry 1."
-msgstr ""
+msgstr "Ilekroć rzucasz czar sztuczki lub obrzędu, wróż 1."
 
 msgid ""
 "Discard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it."
 msgstr ""
+"Odrzuć kartę: Prognostic Sphinx dostaje antyklątwę do końca tury. Zużyj go."
 
 msgid "Whenever Prognostic Sphinx attacks, scry 3."
-msgstr ""
+msgstr "Ilekroć Prognostic Sphinx atakuje, wróż 3."
 
 msgid ""
 "(Look at the top three cards of your library, then put any number of them on "
 "the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"(Spójrz na trzy wierzchnie karty swojej biblioteki, następnie połóż dowolną "
+"liczbę z nich na spodzie swojej biblioteki, a pozostałe na wierzchu w "
+"dowolnej kolejności.)"
 
 #: Sea God's Revenge
 msgid ""
@@ -460,7 +545,7 @@ msgstr ""
 
 #: Shipbreaker Kraken
 msgid "{6}{U}{U}: Monstrosity 4"
-msgstr ""
+msgstr "{6}{U}{U}: Monstrualność 4"
 
 msgid ""
 "(If this creature isn't monstrous, put four +1/+1 counters on it and it "
@@ -475,7 +560,7 @@ msgstr ""
 
 #: Stymied Hopes
 msgid "Counter target spell unless its controller pays {1}. Scry 1."
-msgstr ""
+msgstr "Skontruj wskazany czar dopóki jego władca nie zapłaci {1}. Wróż 1."
 
 #: Swan Song
 msgid ""
@@ -486,11 +571,15 @@ msgstr ""
 msgid ""
 "As long as your devotion to blue is less than five, Thassa isn't a creature."
 msgstr ""
+"Dopóki twój kult niebieskiego jest mniejszy niż pięć, Thassa nie jest "
+"stworem."
 
 msgid ""
 "(Each {U} in the mana costs of permanents you control adds to your devotion "
 "to blue.)"
 msgstr ""
+"(Każda {U} w kosztach many stałek, którymi władasz wlicza się do twojego "
+"kultu niebieskiego.)"
 
 msgid ""
 "At the beginning of your upkeep, scry 1. {1}{U}: Target creature you control "
@@ -505,7 +594,7 @@ msgstr ""
 
 #: Thassa's Emissary
 msgid "Bestow {5}{U}"
-msgstr ""
+msgstr "Obdarowanie {5}{U}"
 
 msgid ""
 "Whenever Thassa's Emissary or enchanted creature deals combat damage to a "
@@ -515,58 +604,73 @@ msgstr ""
 msgid ""
 "- Whenever you cast a spell that targets Triton Fortune Hunter, draw a card."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Triton Fortune Hunter, dobierz kartę."
 
 #: Triton Shorethief Tactics
+#, fuzzy
 msgid ""
 "Up to two target creatures each get +0/+3 until end of turn. Untap those "
 "creatures. At this turn's next end of combat, tap each creature that was "
 "blocked by one of those creatures this turn and it doesn't untap during its "
 "controller's next untap step."
 msgstr ""
+"Nie więcej niż dwa wskazane stwory dostają do końca tury +0/+3 każdy. "
+"Odśwież te stwory. W chwili najbliższego końca walki w tej turze, zużyj "
+"każdego stwora, który był blokowany przez te stwory i owe stwory nie "
+"odświeżą się w następnym kroku odświeżania ich władcy."
 
 msgid "Vaporkin can block only creatures with flying."
-msgstr ""
+msgstr "Vaporkin może blokować tylko stwory z lataniem."
 
 #: Voyage's End
 msgid "Return target creature to its owner's hand. Scry 1."
-msgstr ""
+msgstr "Przywróć wskazanego stwora do ręki jego właściciela. Wróż 1."
 
 msgid ""
 "- Whenever you cast a spell that targets Wavecrash Triton, tap target "
 "creature an opponent controls. That creature doesn't untap during its "
 "controller's next untap step."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Wavecrash Triton, zużyj wskazanego "
+"stwora, którym włada przeciwnik. Ów stwór nie odświeża się podczas "
+"następnego kroku odświeżania jego władcy."
 
 msgid ""
 "When Abhorrent Overlord enters the battlefield, put a number of 1/1 black "
 "Harpy creature tokens with flying onto the battlefield equal to your "
 "devotion to black."
 msgstr ""
+"Kiedy Abhorrent Overlord wchodzi na pole walki, połóż na polu walki tyle "
+"żetonów czarnego stwora Harpy 1/1 z lataniem, ile wynosi twój kult czarnego."
 
 msgid ""
 "(Each {B} in the mana costs of permanents you control counts toward your "
 "devotion to black.)"
 msgstr ""
+"(Każda {B} w kosztach many stałek, którymi władasz wlicza się do twojego "
+"kultu czarnego.)"
 
 msgid "At the beginning of your upkeep, sacrifice a creature."
 msgstr ""
 
 #: Agent of the Fates Hythonia Cruel Keepsake Gorgon Sedge Scorpion
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 msgid ""
 "- Whenever you cast a spell targeting Agent of the Fates, each opponent "
 "sacrifices a creature."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Agent of the Fates, każdy z "
+"przeciwników poświęca stwora."
 
 #: Asphodel Wanderer
 msgid "{2}{B}: Regenerate Asphodel Wanderer."
-msgstr ""
+msgstr "{2}{B}: Zregeneruj Asphodel Wanderer."
 
 #: Baleful Eidolon
 msgid "Bestow {4}{B}"
-msgstr ""
+msgstr "Obdarowanie {4}{B}"
 
 msgid "Enchanted creature gets +1/+1 and has deathtouch."
 msgstr ""
@@ -581,7 +685,7 @@ msgstr ""
 
 #: Cavern Lampad Erebos's Emissary
 msgid "Bestow {5}{B}"
-msgstr ""
+msgstr "Obdarowanie {5}{B}"
 
 msgid "Intimidate"
 msgstr ""
@@ -609,22 +713,26 @@ msgstr ""
 msgid ""
 "As long as your devotion to black is less than five, Erebos isn't a creature."
 msgstr ""
+"Dopóki twój kult czarnego jest mniejszy niż pięć, Erebos nie jest stworem."
 
 msgid "Your opponents can't gain life."
-msgstr ""
+msgstr "Twoi przeciwnicy nie mogą zyskiwać życia."
 
 msgid "{1}{B}, Pay 2 life: Draw a card."
-msgstr ""
+msgstr "{1}{B}, zapłać 2 życia: Dobierz kartę."
 
 msgid ""
 "Discard a creature card: Erebos's Emissary gets +2/+2 until end of turn. If "
 "Erebos's Emissary is an Aura, enchanted creature gets +2/+2 until end of "
 "turn instead."
 msgstr ""
+"Odrzuć kartę stwora: Erebos's Emissary dostaje +2/+2 do końca tury. Jeśli "
+"Erebos's Emissary jest Aurą, zamiast tego zauroczony stwór dostaje +2/+2 do "
+"końca tury."
 
 #: Felhide Minotaur Fleshmad Steed
 msgid "Whenever another creature dies, tap Fleshmad Steed."
-msgstr ""
+msgstr "Ilekroć umiera inny stwór, zużyj Fleshmad Steed."
 
 #: Gray Merchant of Asphodel
 msgid ""
@@ -632,21 +740,26 @@ msgid ""
 "life, where X is your devotion to black. You gain life equal to the life "
 "lost this way."
 msgstr ""
+"Kiedy Gray Merchant of Asphodel wchodzi na pole walki, każdy przeciwnik "
+"traci X życia, gdzie X jest twoim kultem czarnego. Zyskujesz tyle życia, ile "
+"stracono w ten sposób."
 
 #: Hero's Downfall
 msgid "Destroy target creature or planeswalker."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub wędrowca."
 
 msgid "{6}{B}{B}: Monstrosity 3."
-msgstr ""
+msgstr "{6}{B}{B}: Monstrualność 3."
 
 msgid ""
 "When Hythonia the Cruel becomes monstrous, destroy all non-Gorgon creatures."
 msgstr ""
+"Kiedy Hythonia the Cruel staje się monstrualny, zniszcz wszystkie stwory nie "
+"mające typu Gorgon."
 
 #: Insatiable Harpy
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 msgid "{5}{B}{B}: Monstrosity 1."
 msgstr ""
@@ -688,51 +801,66 @@ msgstr ""
 
 #: Nighthowler
 msgid "Bestow {2}{B}{B}"
-msgstr ""
+msgstr "Obdarowanie {2}{B}{B}"
 
 msgid ""
 "Nighthowler and enchanted creature both get +X/+X where X is equal to the "
 "number of creature cards in all graveyards."
 msgstr ""
+"Nighthowler oraz zauroczony stwór dostają +X/+X każdy, gdzie X jest równe "
+"liczbie kart stworów we wszystkich cmentarzach."
 
 msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos."
 msgstr ""
+"Ilekroć zauroczony stwór atakuje, połóż na nim znacznik +1/+1. Następnie "
+"jeśli ma on trzy lub więcej znaczników +1/+1, poświęć Ordeal of Erebos."
 
 msgid "When you sacrifice Ordeal of Erebos, target player discards two cards."
-msgstr ""
+msgstr "Kiedy poświęcasz Ordeal of Erebos, wskazany gracz odrzuca dwie karty."
 
 #: Pharika's Cure
 msgid "Pharika's Cure deals 2 damage to target creature and you gain 2 life."
 msgstr ""
+"Pharika's Cure zadaje 2 obrażenia wskazanemu stworowi, a ty zyskujesz 2 "
+"życia."
 
 #: Read the Bones
 msgid "Scry 2 then draw 2 cards. You lose 2 life."
-msgstr ""
+msgstr "Wróż 2, a następnie dobierz 2 karty. Tracisz 2 życia."
 
 msgid ""
 "(To scry 2, look at the top two cards of your library, then put any number "
 "of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"(By wróżyć 2, spójrz na dwie wierzchnie karty swojej biblioteki, następnie "
+"połóż dowolną liczbę z nich na spodzie swojej biblioteki, a pozostałe na "
+"wierzchu w dowolnej kolejności.)"
 
 #: Rescue from the Underworld
 msgid ""
 "As an additional cost to cast Rescue from the Underworld, sacrifice a "
 "creature."
 msgstr ""
+"Poświęć stwora jako dodatkowy koszt rzucenia Rescue from the Underworld."
 
 msgid ""
 "Choose target creature card in your graveyard. Return that card and the "
 "sacrificed card to the battlefield under your control at the beginning of "
 "your next upkeep. Exile Rescue from the Underworld."
 msgstr ""
+"Wskaż kartę stwora w swoim cmentarzu. Zwróć tę kartę oraz poświęconą kartę "
+"na pole walki pod swoim władaniem na początku swojej następnej fazy "
+"utrzymania. Wygnaj Rescue from the Underworld."
 
 #: Returned Centaur
 msgid ""
 "When Returned Centaur enters the battlefield, target player puts the top "
 "four cards of his or her library into his or her graveyard."
 msgstr ""
+"Kiedy Returned Centaur wchodzi na pole walki, wskazany gracz wkłada cztery "
+"wierzchnie karty swojej biblioteki do swojego cmentarza."
 
 msgid ""
 "{1}{U}: Returned Phalanx can attack this turn as though it didn't have "
@@ -771,7 +899,7 @@ msgstr ""
 
 #: Whip of Erebos
 msgid "Creatures you control have lifelink."
-msgstr ""
+msgstr "Stwory, którymi władasz, mają więź życia"
 
 msgid ""
 "{2}{B}{B}, {T}: Return target creature card from your graveyard to the "
@@ -779,40 +907,54 @@ msgid ""
 "If it would leave the battlefield, exile it instead of putting it anywhere "
 "else. Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"{2}{B}{B}, {T}: Przywróć wskazaną kartę stwora ze swojego cmentarza na pole "
+"walki. Dostaje on pośpiech. Wygnaj go na początku najbliższego kroku "
+"końcowego. Jeśli miałby opuścić pole walki, wygnaj go zamiast umieszczać go "
+"gdziekolwiek indziej. Aktywuj tę zdolność wyłącznie jako obrzęd."
 
 msgid ""
 "- Whenever you cast a spell that targets Akroan Crusader, put a 1/1 red "
 "Soldier creature token with haste onto the battlefield."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Akroan Crusader, połóż na polu walki "
+"żeton czerwonego stwora Soldier 1/1 z pośpiechem."
 
 #: Anger of the Gods
+#, fuzzy
 msgid ""
 "Anger of the Gods deals 3 damage to each creature. If a creature dealt "
 "damage this way would die this turn, exile it instead."
 msgstr ""
+"Anger of the Gods zadaje każdemu stworowi 3 obrażenia. Jeśli stwór, który "
+"otrzymał obrażenia w ten sposób, miałby umrzeć w tej turze, wygnaj go w "
+"zamian."
 
 #: Borderland Minotaur Boulderfall
 msgid ""
 "Boulderfall deals 5 damage divided as you choose among any number of target "
 "creatures and/or players."
 msgstr ""
+"Boulderfall zadaje 5 obrażeń rozdzielonych według twojej woli pomiędzy "
+"dowolną liczbę wskazanych stworów lub graczy."
 
 #: Coordinated Assault
 msgid ""
 "Up to two target creatures each get +1/+0 and gain first strike until end of "
 "turn."
 msgstr ""
+"Każdy z najwyżej dwóch wskazanych stworów dostaje do końca tury +1/+0 oraz "
+"pierwszy cios."
 
 #: Deathbellow Raider
 msgid "Deathbellow Raider attacks each turn if able."
-msgstr ""
+msgstr "Deathbellow Raider atakuje w każdej turze jeśli może."
 
 msgid "{2}{B}: Regenerate Deathbellow Raider."
-msgstr ""
+msgstr "{2}{B}: Zregeneruj Deathbellow Raider."
 
 #: Demolish
 msgid "Destroy target artifact or land."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd."
 
 msgid "When Dragon Mantle enters the battlefield, draw a card."
 msgstr ""
@@ -834,11 +976,15 @@ msgid ""
 "When Fanatic of Mogis enters the battlefield, it deals damage to each "
 "opponent equal to your devotion to red."
 msgstr ""
+"Kiedy Fanatic of Mogis wchodzi na pole walki, zadaje tyle obrażeń każdemu z "
+"przeciwników, ile wynosi twój kult czerwonego."
 
 msgid ""
 "(Each {R} in the mana costs of permanents you control counts toward your "
 "devotion to red.)"
 msgstr ""
+"(Każda {R} w kosztach many stałek, którymi władasz wlicza się do twojego "
+"kultu czerwonego.)"
 
 #: Firedrinker Satyr
 msgid ""
@@ -867,38 +1013,42 @@ msgstr ""
 
 #: Ill-Tempered Cyclops Rageblood Shaman Satyr Rambler Vulpine Goliath
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 msgid "{5}{R}: Monstrosity 3."
-msgstr ""
+msgstr "{5}{R}: Monstrualność 3."
 
 msgid ""
 "- Whenever you cast a spell that targets Labyrinth Champion, Labyrinth "
 "Champion deals 2 damage to target creature or player."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Labyrinth Champion, Labyrinth Champion "
+"zadaje wskazanemu stworowi lub graczowi 2 obrażenia."
 
 #: Lightning Strike
 msgid "Lightning Strike deals 3 damage to target creature or player."
-msgstr ""
+msgstr "Lightning Strike zadaje wskazanemu stworowi lub graczowi 3 obrażenia."
 
 #: Magma Jet
 msgid "Magma Jet deals 2 damage to target creature or player."
-msgstr ""
+msgstr "Magma Jet zadaje wskazanemu stworowi lub graczowi 2 obrażenia."
 
 msgid "Scry 2."
-msgstr ""
+msgstr "Wróż 2."
 
 msgid "Enchanted creature has trample and haste."
-msgstr ""
+msgstr "Zauroczony stwór ma tratowanie i pośpiech."
 
 #: Minotaur Skullcleaver
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 msgid ""
 "When Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end "
 "of turn."
 msgstr ""
+"Kiedy Minotaur Skullcleaver wchodzi na pole walki, dostaje do końca tury "
+"+2/+0."
 
 msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
@@ -941,47 +1091,54 @@ msgstr ""
 
 #: Purphoros' Emissary
 msgid "Bestow {6}{R}"
-msgstr ""
+msgstr "Obdarowanie {6}{R}"
 
 msgid "Purphoros' Emissary can only be blocked by two or more creatures."
 msgstr ""
+"Purphoros' Emissary może być blokowany tylko przez co najmniej dwa stwory."
 
 msgid ""
 "Enchanted creature gets +3/+3 and can only be blocked by two or more "
 "creatures."
 msgstr ""
+"Zauroczony stwór dostaje +3/+3 i może być blokowany tylko przez co najmniej "
+"dwa stwory."
 
 #: Rage of Purphoros
 msgid ""
 "Rage of Purphoros deals 4 damage to target creature. It can't be regenerated "
 "this turn. Scry 1."
 msgstr ""
+"Rage of Purphoros zadaje wskazanemu stworowi 4 obrażenia. Ów stwór nie może "
+"być zregenerowany w tej turze. Wróż 1."
 
 msgid "Other Minotaur creatures you control get +1/+1 and have trample."
-msgstr ""
+msgstr "Inne stwory Minotaur, którymi władasz, dostają +1/+1 i mają tratowanie."
 
 #: Spark Jolt
 msgid "Spark Jolt deals 1 damage to target creature or player. Scry 1."
-msgstr ""
+msgstr "Spark Jolt zadaje wskazanemu stworowi lub graczowi 1 obrażenie. Wróż 1."
 
 #: Spearpoint Oread
 msgid "Bestow {5}{R}"
-msgstr ""
+msgstr "Obdarowanie {5}{R}"
 
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 msgid "Enchanted creature gets +2/+2 and has first strike"
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma pierwszy cios"
 
 #: Stoneshock Giant
 msgid "{6}{R}{R}: Monstrosity 3"
-msgstr ""
+msgstr "{6}{R}{R}: Monstrualność 3"
 
 msgid ""
 "When Stoneshock Giant becomes monstrous, creatures without flying your "
 "opponents control can't block this turn."
 msgstr ""
+"Kiedy Stoneshock Giant staje się monstrualne, stwory bez latania, którymi "
+"władają przeciwnicy, nie mogą blokować w tej turze."
 
 #: Stormbreath Dragon
 msgid "Flying, haste, protection from white"
@@ -1025,26 +1182,28 @@ msgid "Reach"
 msgstr ""
 
 msgid "{3}{G}{G}{G}: Monstrosity 3."
-msgstr ""
+msgstr "{3}{G}{G}{G}: Monstrualność 3."
 
 msgid ""
 "When Arbor Colossus becomes monstrous, destroy target creature with flying "
 "an opponent controls."
 msgstr ""
+"Kiedy Arbor Colossus staje się monstrualny, zniszcz wskazanego stwora z "
+"lataniem, którym włada przeciwnik."
 
 #: Artisan's Sorrow
 msgid "Destroy target artifact or enchantment. Scry 2."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok. Wróż 2."
 
 msgid "Bestow {3}{G}{G}"
-msgstr ""
+msgstr "Obdarowanie {3}{G}{G}"
 
 msgid "Enchanted creature gets +4/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +4/+2."
 
 #: Bow of Nylea
 msgid "Attacking creatures you control have deathtouch."
-msgstr ""
+msgstr "Atakujące stwory, którymi władasz, mają dotyk śmierci."
 
 msgid ""
 "{1}{G}, {T}: Choose one - Put a +1/+1 counter on target creature; or Bow of "
@@ -1052,11 +1211,17 @@ msgid ""
 "put up to four target cards from your graveyard on the bottom of your "
 "library in any order."
 msgstr ""
+"{1}{G}, {T}: Wybierz jedno - Połóż znacznik +1/+1 na wskazanym stworze; albo "
+"Bow of Nylea zadaje wskazanemu stworowi z lataniem 2 obrażenia; albo "
+"zyskujesz 3 życia; albo połóż nie więcej niż cztery wskazane karty ze "
+"swojego cmentarza na spodzie swojej biblioteki w dowolnej kolejności."
 
 msgid ""
 "- Whenever you cast a spell that targets Centaur Battlemaster, put three +1/"
 "+1 counters on Centaur Battlemaster."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Centaur Battlemaster, połóż trzy "
+"znaczniki +1/+1 na Centaur Battlemaster."
 
 #: Commune with the Gods
 msgid ""
@@ -1064,10 +1229,14 @@ msgid ""
 "enchantment card from among them into your hand. Put the rest into your "
 "graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart swojej biblioteki. Możesz umieścić kartę "
+"stwora lub uroku spośród nich w swojej ręce. Połóż pozostałe w cmentarzu."
 
 #: Defend the Hearth
 msgid "Prevent all combat damage that would be dealt to players this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane w tej turze "
+"graczom."
 
 #: Fade into Antiquity
 msgid "Exile target artifact or enchantment."
@@ -1086,15 +1255,19 @@ msgstr ""
 msgid ""
 "{T}: Add an amount of {G} to your mana pool equal to your devotion to green."
 msgstr ""
+"{T}: Dodaj do swojego zasobnika many tyle {G}, ile wynosi twój kult "
+"zielonego."
 
 msgid ""
 "(Each {G} in the mana costs of permanents you control counts toward your "
 "devotion to green.)"
 msgstr ""
+"(Każda {G} w kosztach many stałek, którymi władasz wlicza się do twojego "
+"kultu zielonego.)"
 
 #: Leafcrown Dryad
 msgid "Bestow {3}{G}"
-msgstr ""
+msgstr "Obdarowanie {3}{G}"
 
 msgid "Enchanted creature gets +2/+2 and has reach."
 msgstr ""
@@ -1120,40 +1293,43 @@ msgid ""
 msgstr ""
 
 msgid "{6}{G}: Monstrosity 4"
-msgstr ""
+msgstr "{6}{G}: Monstrualność 4"
 
 msgid ""
 "As long as your devotion to green is less than five, Nylea isn't a creature."
 msgstr ""
+"Dopóki twój kult zielonego jest mniejszy niż pięć, Nylea nie jest stworem."
 
 msgid "Other creatures you control have trample."
-msgstr ""
+msgstr "Inne stwory, którymi władasz, mają tratowanie."
 
 msgid "{3}{G}: Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "{3}{G}: Wskazany stwór dostaje +2/+2 do końca tury."
 
 #: Nylea's Disciple
 msgid ""
 "When Nylea's Disciple enters the battlefield, you gain life equal to your "
 "devotion to green."
 msgstr ""
+"Kiedy Nylea's Disciple wchodzi na pole walki, zyskujesz tyle życia, ile "
+"wynosi twój kult zielonego."
 
 #: Nylea's Emissary
 msgid "Bestow {5}{G}"
-msgstr ""
+msgstr "Obdarowanie {5}{G}"
 
 msgid "Enchanted creature gets +3/+3 and has trample."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+3 i ma tratowanie."
 
 #: Nylea's Presence
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 msgid "When Nylea's Presence enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy Nylea's Presence wchodzi na pole walki, dobierz kartę."
 
 msgid "Enchanted land is every basic land type in addition to its other types."
-msgstr ""
+msgstr "Zauroczony ląd ma dodatkowo typ każdego lądu podstawowego."
 
 msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
@@ -1200,12 +1376,14 @@ msgstr ""
 
 #: Shredding Winds
 msgid "Shredding Winds deals 7 damage to target creature with flying."
-msgstr ""
+msgstr "Shredding Winds zadaje 7 obrażeń wskazanemu stworowi z lataniem."
 
 msgid ""
 "- Whenever you cast a spell that targets Staunch-Hearted Warrior, put two +1/"
 "+1 counters on Staunch-Hearted Warrior"
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Staunch-Hearted Warrior, połóż dwa "
+"znaczniki +1/+1 na Staunch-Hearted Warrior."
 
 #: Sylvan Caryatid
 msgid "Defender, hexproof"
@@ -1213,17 +1391,19 @@ msgstr ""
 
 #: Opaline Unicorn
 msgid "{T}: Add one mana of any color to your mana pool."
-msgstr ""
+msgstr "{T}: Dodaj jedną manę dowolnego koloru do swojego zasobnika many."
 
 #: Time to Feed
 msgid ""
 "Choose target creature an opponent controls. When that creature dies this "
 "turn, you gain 3 life. Target creature you control fights that creature."
 msgstr ""
+"Wskaż stwora władanego przez przeciwnika. Jeśli ów stwór umrze w tej turze, "
+"zyskasz 3 życia. Wskazany stwór, którym władasz, walczy z owym stworem."
 
 #: Voyaging Satyr
 msgid "{T}: Untap target land."
-msgstr ""
+msgstr "{T}: Odśwież wskazany ląd."
 
 #: Warriors' Lesson
 msgid ""
@@ -1272,6 +1452,8 @@ msgid ""
 "(To scry 1, look at the top card of your library, then you may put that card "
 "on the bottom of your library.)"
 msgstr ""
+"(By wróżyć 1, spójrz na wierzchnią kartę swojej biblioteki, następnie możesz "
+"położyć tę kartę na spodzie swojej biblioteki.)"
 
 #: Chronicler of Heroes
 msgid ""
@@ -1525,11 +1707,15 @@ msgid ""
 "{2}, {T}: Choose a color. Add to your mana pool an amount of mana of that "
 "color equal to your devotion to that color."
 msgstr ""
+"{2}, {T}: Wybierz kolor. Dodaj do swojego zasobnika many tyle many tego "
+"koloru, ile wynosi twój kult tego koloru."
 
 msgid ""
 "(Your devotion to a color is the number of mana symbols of that color in the "
 "mana costs of permanents you control.)"
 msgstr ""
+"(Twój kult koloru jest liczbą symboli many tego koloru w kosztach władanych "
+"przez ciebie stałek.)"
 
 #: Temple of Abandon
 msgid "Temple of Abandon enters the battlefield tapped."
