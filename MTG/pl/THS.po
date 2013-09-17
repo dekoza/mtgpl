@@ -1,35 +1,47 @@
+#
+# Dominik <Kozaczko>, 2013.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 13:17+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2013-09-17 13:20+0200\n"
+"Last-Translator: Dominik <Kozaczko>\n"
+"Language-Team: polski <>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0\n"
+"X-Generator: Gtranslator 2.91.6\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Battlewise Valor
 msgid "Target creature gets +2/+2 until end of turn. Scry 1."
 msgstr ""
 
-#: Cavalry Pegasus
+#: Cavalry Pegasus Decorated Griffin Setessan Wingsteed Rider Coastline
+#: Chimera Horizon Scholar Prescient Prognostic Sphinx Vaporkin Abhorrent
+#: Overlord Blood-Toll Harpy Ashen Medomai the Ageless Shipwreck Singer
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
-msgid "Whenever Cavalry Pegasus attacks, each attacking Human gains flying until end of turn."
+msgid ""
+"Whenever Cavalry Pegasus attacks, each attacking Human gains flying until "
+"end of turn."
 msgstr ""
 
 #: Celestial Archon
 msgid "Bestow {5}{W}{W}"
 msgstr ""
 
-msgid "(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid ""
+"(If you cast this card for its bestow cost, it's an Aura spell with enchant "
+"creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
+#: Anvilwrought Raptor
 msgid "Flying, first strike"
 msgstr ""
 
@@ -40,13 +52,17 @@ msgstr ""
 msgid "Enchant Mountain you control"
 msgstr ""
 
-msgid "When Chained to the Rocks enters the battlefield, exile target creature an opponent controls until Chained to the Rocks leaves the battlefield."
+msgid ""
+"When Chained to the Rocks enters the battlefield, exile target creature an "
+"opponent controls until Chained to the Rocks leaves the battlefield."
 msgstr ""
 
 msgid "(That creature returns under its owner's control.)"
 msgstr ""
 
-#: Chosen by Heliod 
+#: Chosen by Heliod Gift of Immortality Ordeal Aqueous Form Fate Foretold
+#: Thassa Erebos Scourgemark Viper's Kiss Dragon Mantle Messenger's Speed
+#: Purphoros Nylea
 msgid "Enchant creature"
 msgstr ""
 
@@ -60,11 +76,9 @@ msgstr ""
 msgid "Up to two target creatures each get +2/+2 until end of turn."
 msgstr ""
 
-#: Decorated Griffin
-msgid "Flying"
-msgstr ""
-
-msgid "{1}{W}: Prevent the next 1 combat damage that would be dealt to you this turn."
+msgid ""
+"{1}{W}: Prevent the next 1 combat damage that would be dealt to you this "
+"turn."
 msgstr ""
 
 #: Divine Verdict
@@ -78,7 +92,9 @@ msgstr ""
 msgid "[-3]: Destroy all creatures with power 4 or greater."
 msgstr ""
 
-msgid "[-7]: You get an emblem with \"Creatures you control get +2/+2 and have flying.\""
+msgid ""
+"[-7]: You get an emblem with \"Creatures you control get +2/+2 and have "
+"flying.\""
 msgstr ""
 
 #: Ephara's Warden
@@ -86,32 +102,36 @@ msgid "{T}: Tap target creature with power 3 or less."
 msgstr ""
 
 #: Evangel of Heliod
-msgid "When Evangel of Heliod enters the battlefield, put a number of 1/1 white Soldier creature tokens onto the battlefield equal to your devotion to white."
+msgid ""
+"When Evangel of Heliod enters the battlefield, put a number of 1/1 white "
+"Soldier creature tokens onto the battlefield equal to your devotion to white."
 msgstr ""
 
-#: Fabled Hero
+#: Fabled Hero Two-Headed Cerberus
 msgid "Double strike"
 msgstr ""
 
-
+#: Favored Hoplite Phalanx Leader Setessan Battle Priest Artisan of Forms
+#: Triton Fortune Hunter Wavecrash Akroan Crusader Labyrinth Champion
+#: Anthousa, Hero Centaur Battlemaster Staunch-Hearted Warrior Battlewise
 msgid "Heroic"
 msgstr ""
 
-msgid "- Whenever you cast a spell that targets Fabled Hero, put a +1/+1 counter on Fabled Hero."
+msgid ""
+"- Whenever you cast a spell that targets Fabled Hero, put a +1/+1 counter on "
+"Fabled Hero."
 msgstr ""
 
-#: Favored Hoplite
-msgid "Heroic"
+msgid ""
+"- Whenever you cast a spell that targets Favored Hoplite, put a +1/+1 "
+"counter on Favored Hoplite and prevent all damage that would be dealt to it "
+"this turn."
 msgstr ""
 
-msgid "- Whenever you cast a spell that targets Favored Hoplite, put a +1/+1 counter on Favored Hoplite and prevent all damage that would be dealt to it this turn."
-msgstr ""
-
-#: Gift of Immortality
-msgid "Enchant creature"
-msgstr ""
-
-msgid "When enchanted creature dies, return that card to the battlefield under its owner's control. Return Gift of Immortality to the battlefield attached to that creature at the beginning of the next end step."
+msgid ""
+"When enchanted creature dies, return that card to the battlefield under its "
+"owner's control. Return Gift of Immortality to the battlefield attached to "
+"that creature at the beginning of the next end step."
 msgstr ""
 
 #: Glare of Heresy
@@ -119,36 +139,45 @@ msgid "Exile target white permanent."
 msgstr ""
 
 #: Gods Willing
-msgid "Target creature you control gains protection from the color of your choice until end of turn. Scry 1."
+msgid ""
+"Target creature you control gains protection from the color of your choice "
+"until end of turn. Scry 1."
 msgstr ""
 
-msgid "(Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid ""
+"(Look at the top card of your library. You may put that card on the bottom "
+"of your library.)"
 msgstr ""
 
-#: Heliod, God of the Sun
+#: Heliod, God of the Sun Thassa, Sea Erebos, Dead Purphoros, Forge Nessian
+#: Courser Nylea, Hunt
 msgid "Indestructible"
 msgstr ""
 
-msgid "As long as your devotion to white is less than five, Heliod isn't a creature."
+msgid ""
+"As long as your devotion to white is less than five, Heliod isn't a creature."
 msgstr ""
 
-msgid "(Each {W} in the mana costs of permanents you control counts toward your devotion to white.)"
+msgid ""
+"(Each {W} in the mana costs of permanents you control counts toward your "
+"devotion to white.)"
 msgstr ""
 
 msgid "Other creatures you control have vigilance."
 msgstr ""
 
-msgid "{2}{W}{W}: Put a 2/1 white Cleric enchantment creature token onto the battlefield."
+msgid ""
+"{2}{W}{W}: Put a 2/1 white Cleric enchantment creature token onto the "
+"battlefield."
 msgstr ""
 
 #: Heliod's Emissary
 msgid "Bestow {6}{W}"
 msgstr ""
 
-msgid "(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
-msgstr ""
-
-msgid "Whenever Heliod's Emissary or enchanted creature attacks, tap target creature an opponent controls."
+msgid ""
+"Whenever Heliod's Emissary or enchanted creature attacks, tap target "
+"creature an opponent controls."
 msgstr ""
 
 msgid "Enchanted creature gets +3/+3."
@@ -171,52 +200,50 @@ msgstr ""
 msgid "{3}{W}{W}{W}: Monstrosity 3"
 msgstr ""
 
-msgid "(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+msgid ""
+"(If this creature isn't monstrous, put three +1/+1 counters on it and it "
+"becomes monstrous.)"
 msgstr ""
 
-msgid "As long as Hundred-Handed One is monstrous, it has reach and can block an additional ninety-nine creatures each combat."
+msgid ""
+"As long as Hundred-Handed One is monstrous, it has reach and can block an "
+"additional ninety-nine creatures each combat."
 msgstr ""
 
 #: Lagonna-Band Elder
-msgid "When Lagonna-Band Elder enters the battlefield, if you control an enchantment, you gain 3 life."
+msgid ""
+"When Lagonna-Band Elder enters the battlefield, if you control an "
+"enchantment, you gain 3 life."
 msgstr ""
 
 #: Last Breath
-msgid "Exile target creature with power 2 or less. Its controller gains 4 life."
+msgid ""
+"Exile target creature with power 2 or less. Its controller gains 4 life."
 msgstr ""
 
 #: Leonin Snarecaster
-msgid "When Leonin Snarecaster enters the battlefield, you may tap target creature."
+msgid ""
+"When Leonin Snarecaster enters the battlefield, you may tap target creature."
 msgstr ""
 
 #: Observant Alseid
 msgid "Bestow {4}{W}"
 msgstr ""
 
-msgid "(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
-msgstr ""
-
-msgid "Vigilance"
-msgstr ""
-
 msgid "Enchanted creature gets +2/+2 and has vigilance."
 msgstr ""
 
-#: Ordeal of Heliod
-msgid "Enchant creature"
-msgstr ""
-
-msgid "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod."
+msgid ""
+"Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
+"has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod."
 msgstr ""
 
 msgid "When you sacrifice Ordeal of Heliod, you gain 10 life."
 msgstr ""
 
-#: Phalanx Leader
-msgid "Heroic"
-msgstr ""
-
-msgid "- Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control."
+msgid ""
+"- Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter "
+"on each creature you control."
 msgstr ""
 
 #: Ray of Dissolution
@@ -224,25 +251,22 @@ msgid "Destroy target enchantment. You gain 3 life."
 msgstr ""
 
 #: Scholar of Athreos
-msgid "{2}{B}: Each opponent loses 1 life. You gain life equal to the life lost this way."
+msgid ""
+"{2}{B}: Each opponent loses 1 life. You gain life equal to the life lost "
+"this way."
 msgstr ""
 
-#: Setessan Battle Priest
-msgid "Heroic"
+msgid ""
+"- Whenever you cast a spell that targets Setessan Battle Priest, you gain 2 "
+"life."
 msgstr ""
 
-msgid "- Whenever you cast a spell that targets Setessan Battle Priest, you gain 2 life."
+msgid ""
+"{2}{G}{G}: Setessan Griffin gets +2/+2 until end of turn. Activate this "
+"ability only once each turn."
 msgstr ""
 
-#: Setessan Griffin
-msgid "Flying"
-msgstr ""
-
-msgid "{2}{G}{G}: Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn."
-msgstr ""
-
-#: Silent Artisan
-#: Soldier of the Pantheon
+#: Silent Artisan Soldier of the Pantheon
 msgid "Protection from multicolored"
 msgstr ""
 
@@ -253,35 +277,21 @@ msgstr ""
 msgid "Creatures you control get +1/+1."
 msgstr ""
 
-msgid "{1}{W}{W}, {T}: Destroy target creature that dealt damage to you this turn."
+msgid ""
+"{1}{W}{W}, {T}: Destroy target creature that dealt damage to you this turn."
 msgstr ""
 
-#: Traveling Philosopher
-#: Vanquish the Foul
+#: Traveling Philosopher Vanquish the Foul
 msgid "Destroy target creature with power 4 or greater. Scry 1."
 msgstr ""
 
-msgid "(Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid ""
+"- Whenever you cast a spell that targets Wingsteed Rider, put a +1/+1 "
+"counter on Wingsteed Rider."
 msgstr ""
 
-#: Wingsteed Rider
-msgid "Flying"
-msgstr ""
-
-
-msgid "Heroic"
-msgstr ""
-
-msgid "- Whenever you cast a spell that targets Wingsteed Rider, put a +1/+1 counter on Wingsteed Rider."
-msgstr ""
-
-#: Yoked Ox
-#: Annul
+#: Yoked Ox Annul
 msgid "Counter target artifact or enchantment spell."
-msgstr ""
-
-#: Aqueous Form
-msgid "Enchant creature"
 msgstr ""
 
 msgid "Enchanted creature can't be blocked."
@@ -290,11 +300,9 @@ msgstr ""
 msgid "Whenever enchanted creature attacks, scry 1."
 msgstr ""
 
-#: Artisan of Forms
-msgid "Heroic"
-msgstr ""
-
-msgid "- Whenever you cast a spell that targets Artisan of Forms, you may have Artisan of Forms become a copy of target creature and gain this ability."
+msgid ""
+"- Whenever you cast a spell that targets Artisan of Forms, you may have "
+"Artisan of Forms become a copy of target creature and gain this ability."
 msgstr ""
 
 #: Benthic Giant
@@ -302,43 +310,40 @@ msgid "Hexproof"
 msgstr ""
 
 #: Bident of Thassa
-msgid "Whenever a creature you control deals combat damage to a player, you may draw a card."
+msgid ""
+"Whenever a creature you control deals combat damage to a player, you may "
+"draw a card."
 msgstr ""
 
 msgid "{1}{U}, {T}: Creatures your opponents control attack this turn if able."
 msgstr ""
 
-#: Breaching Hippocamp
+#: Breaching Hippocamp Boon Satyr Feral Invocation Horizon Chimera
 msgid "Flash"
 msgstr ""
 
-msgid "When Breaching Hippocamp enters the battlefield, untap another target creature you control."
-msgstr ""
-
-#: Coastline Chimera
-msgid "Flying"
+msgid ""
+"When Breaching Hippocamp enters the battlefield, untap another target "
+"creature you control."
 msgstr ""
 
 msgid "{1}{W}: Coastline Chimera can block an additional creature this turn."
 msgstr ""
 
 #: Crackling Triton
-msgid "{2}{R}, Sacrifice Crackling Triton: Crackling Triton deals 2 damage to target creature or player."
+msgid ""
+"{2}{R}, Sacrifice Crackling Triton: Crackling Triton deals 2 damage to "
+"target creature or player."
 msgstr ""
 
 #: Curse of the Swine
-msgid "Exile X target creatures. For each creature exiled this way, its controller puts a 2/2 green Boar creature token onto the battlefield."
+msgid ""
+"Exile X target creatures. For each creature exiled this way, its controller "
+"puts a 2/2 green Boar creature token onto the battlefield."
 msgstr ""
 
 #: Dissolve
 msgid "Counter target spell. Scry 1."
-msgstr ""
-
-msgid "(Look at the top card of your library. You may put that card on the bottom of your library.)"
-msgstr ""
-
-#: Fate Foretold
-msgid "Enchant creature"
 msgstr ""
 
 msgid "When Fate Foretold enters the battlefield, draw a card."
@@ -355,18 +360,11 @@ msgstr ""
 msgid "Put target creature on top of its owner's library."
 msgstr ""
 
-#: Horizon Scholar
-msgid "Flying"
-msgstr ""
-
 msgid "When Horizon Scholar enters the battlefield, scry 2."
 msgstr ""
 
 #: Lost in a Labyrinth
 msgid "Target creature gets -3/-0 until end of turn. Scry 1."
-msgstr ""
-
-msgid "(Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
 #: Master of Waves
@@ -376,31 +374,34 @@ msgstr ""
 msgid "Elemental creatures you control get +1/+1."
 msgstr ""
 
-msgid "When Master of Waves enters the battlefield, put a number of 1/0 blue Elemental creature tokens onto the battlefield equal to your devotion to blue."
+msgid ""
+"When Master of Waves enters the battlefield, put a number of 1/0 blue "
+"Elemental creature tokens onto the battlefield equal to your devotion to "
+"blue."
 msgstr ""
 
-msgid "(Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
+msgid ""
+"(Each {U} in the mana costs of permanents you control counts toward your "
+"devotion to blue.)"
 msgstr ""
 
 #: Meletis Charlatan
-msgid "{2}{U}, {T}: The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy."
+msgid ""
+"{2}{U}, {T}: The controller of target instant or sorcery spell copies it. "
+"That player may choose new targets for the copy."
 msgstr ""
 
-#: Mnemonic Wall
+#: Mnemonic Wall Returned Phalanx Akroan Horse Guardians of Meletis
 msgid "Defender"
 msgstr ""
 
-msgid "When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand."
+msgid ""
+"When Mnemonic Wall enters the battlefield, you may return target instant or "
+"sorcery card from your graveyard to your hand."
 msgstr ""
 
 #: Nimbus Naiad
 msgid "Bestow {4}{U}"
-msgstr ""
-
-msgid "(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
-msgstr ""
-
-msgid "Flying"
 msgstr ""
 
 msgid "Enchanted creature gets +2/+2 and has flying."
@@ -410,64 +411,66 @@ msgstr ""
 msgid "When Omenspeaker enters the battlefield, scry 2."
 msgstr ""
 
-msgid "(Look at the top two cards of your library, then put any number of them on the bottom of your library in any order.)"
+msgid ""
+"(Look at the top two cards of your library, then put any number of them on "
+"the bottom of your library in any order.)"
 msgstr ""
 
-#: Ordeal of Thassa
-msgid "Enchant creature"
-msgstr ""
-
-msgid "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Thassa."
+msgid ""
+"Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
+"has three or more +1/+1 counters on it, sacrifice Ordeal of Thassa."
 msgstr ""
 
 msgid "When you sacrifice Ordeal of Thassa, draw 2 cards."
 msgstr ""
 
-#: Prescient Chimera
-msgid "Flying"
-msgstr ""
-
 msgid "Whenever you cast an instant or sorcery spell, scry 1."
 msgstr ""
 
-#: Prognostic Sphinx
-msgid "Flying"
-msgstr ""
-
-msgid "Discard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it."
+msgid ""
+"Discard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it."
 msgstr ""
 
 msgid "Whenever Prognostic Sphinx attacks, scry 3."
 msgstr ""
 
-msgid "(Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgid ""
+"(Look at the top three cards of your library, then put any number of them on "
+"the bottom of your library and the rest on top in any order.)"
 msgstr ""
 
 #: Sea God's Revenge
-msgid "Return up to three target creatures your opponents control their owners' hands. Scry 1."
+msgid ""
+"Return up to three target creatures your opponents control their owners' "
+"hands. Scry 1."
 msgstr ""
 
 #: Sealock Monster
-msgid "Sealock Monster can't attack unless defending player controls an Island."
+msgid ""
+"Sealock Monster can't attack unless defending player controls an Island."
 msgstr ""
 
 msgid "{5}{U}{U}: Monstrosity 3"
 msgstr ""
 
-msgid "(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
-msgstr ""
-
-msgid "When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types."
+msgid ""
+"When Sealock Monster becomes monstrous, target land becomes an Island in "
+"addition to its other types."
 msgstr ""
 
 #: Shipbreaker Kraken
 msgid "{6}{U}{U}: Monstrosity 4"
 msgstr ""
 
-msgid "(If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)"
+msgid ""
+"(If this creature isn't monstrous, put four +1/+1 counters on it and it "
+"becomes monstrous.)"
 msgstr ""
 
-msgid "When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control Shipbreaker Kraken."
+msgid ""
+"When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. "
+"Those creatures don't untap during their controllers' untap steps for as "
+"long as you control Shipbreaker Kraken."
 msgstr ""
 
 #: Stymied Hopes
@@ -475,53 +478,50 @@ msgid "Counter target spell unless its controller pays {1}. Scry 1."
 msgstr ""
 
 #: Swan Song
-msgid "Counter target enchantment, instant, or sorcery spell. Its controller puts a 2/2 blue Bird creature token with flying onto the battlefield."
+msgid ""
+"Counter target enchantment, instant, or sorcery spell. Its controller puts a "
+"2/2 blue Bird creature token with flying onto the battlefield."
 msgstr ""
 
-#: Thassa, God of the Sea
-msgid "Indestructible"
+msgid ""
+"As long as your devotion to blue is less than five, Thassa isn't a creature."
 msgstr ""
 
-msgid "As long as your devotion to blue is less than five, Thassa isn't a creature."
+msgid ""
+"(Each {U} in the mana costs of permanents you control adds to your devotion "
+"to blue.)"
 msgstr ""
 
-msgid "(Each {U} in the mana costs of permanents you control adds to your devotion to blue.)"
-msgstr ""
-
-msgid "At the beginning of your upkeep, scry 1. {1}{U}: Target creature you control can't be blocked this turn."
+msgid ""
+"At the beginning of your upkeep, scry 1. {1}{U}: Target creature you control "
+"can't be blocked this turn."
 msgstr ""
 
 #: Thassa's Bounty
-msgid "Draw three cards. Target player puts the top three cards of his or her library into his or her graveyard."
+msgid ""
+"Draw three cards. Target player puts the top three cards of his or her "
+"library into his or her graveyard."
 msgstr ""
 
 #: Thassa's Emissary
 msgid "Bestow {5}{U}"
 msgstr ""
 
-msgid "(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid ""
+"Whenever Thassa's Emissary or enchanted creature deals combat damage to a "
+"player, draw a card."
 msgstr ""
 
-msgid "Whenever Thassa's Emissary or enchanted creature deals combat damage to a player, draw a card."
+msgid ""
+"- Whenever you cast a spell that targets Triton Fortune Hunter, draw a card."
 msgstr ""
 
-msgid "Enchanted creature gets +3/+3."
-msgstr ""
-
-#: Triton Fortune Hunter
-msgid "Heroic"
-msgstr ""
-
-msgid "- Whenever you cast a spell that targets Triton Fortune Hunter, draw a card."
-msgstr ""
-
-#: Triton Shorethief
-#: Triton Tactics
-msgid "Up to two target creatures each get +0/+3 until end of turn. Untap those creatures. At this turn's next end of combat, tap each creature that was blocked by one of those creatures this turn and it doesn't untap during its controller's next untap step."
-msgstr ""
-
-#: Vaporkin
-msgid "Flying"
+#: Triton Shorethief Tactics
+msgid ""
+"Up to two target creatures each get +0/+3 until end of turn. Untap those "
+"creatures. At this turn's next end of combat, tap each creature that was "
+"blocked by one of those creatures this turn and it doesn't untap during its "
+"controller's next untap step."
 msgstr ""
 
 msgid "Vaporkin can block only creatures with flying."
@@ -531,38 +531,33 @@ msgstr ""
 msgid "Return target creature to its owner's hand. Scry 1."
 msgstr ""
 
-msgid "(Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid ""
+"- Whenever you cast a spell that targets Wavecrash Triton, tap target "
+"creature an opponent controls. That creature doesn't untap during its "
+"controller's next untap step."
 msgstr ""
 
-#: Wavecrash Triton
-msgid "Heroic"
+msgid ""
+"When Abhorrent Overlord enters the battlefield, put a number of 1/1 black "
+"Harpy creature tokens with flying onto the battlefield equal to your "
+"devotion to black."
 msgstr ""
 
-msgid "- Whenever you cast a spell that targets Wavecrash Triton, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step."
-msgstr ""
-
-#: Abhorrent Overlord
-msgid "Flying"
-msgstr ""
-
-msgid "When Abhorrent Overlord enters the battlefield, put a number of 1/1 black Harpy creature tokens with flying onto the battlefield equal to your devotion to black."
-msgstr ""
-
-msgid "(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)"
+msgid ""
+"(Each {B} in the mana costs of permanents you control counts toward your "
+"devotion to black.)"
 msgstr ""
 
 msgid "At the beginning of your upkeep, sacrifice a creature."
 msgstr ""
 
-#: Agent of the Fates
+#: Agent of the Fates Hythonia Cruel Keepsake Gorgon Sedge Scorpion
 msgid "Deathtouch"
 msgstr ""
 
-
-msgid "Heroic"
-msgstr ""
-
-msgid "- Whenever you cast a spell targeting Agent of the Fates, each opponent sacrifices a creature."
+msgid ""
+"- Whenever you cast a spell targeting Agent of the Fates, each opponent "
+"sacrifices a creature."
 msgstr ""
 
 #: Asphodel Wanderer
@@ -573,28 +568,19 @@ msgstr ""
 msgid "Bestow {4}{B}"
 msgstr ""
 
-msgid "Deathtouch"
-msgstr ""
-
 msgid "Enchanted creature gets +1/+1 and has deathtouch."
-msgstr ""
-
-#: Blood-Toll Harpy
-msgid "Flying"
 msgstr ""
 
 msgid "When Blood-Toll Harpy enters the battlefield, each player loses 1 life."
 msgstr ""
 
 #: Boon of Erebos
-msgid "Target creature gets +0/+2 until end of turn. Regenerate it. You lose 2 life."
+msgid ""
+"Target creature gets +0/+2 until end of turn. Regenerate it. You lose 2 life."
 msgstr ""
 
-#: Cavern Lampad
+#: Cavern Lampad Erebos's Emissary
 msgid "Bestow {5}{B}"
-msgstr ""
-
-msgid "(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 msgid "Intimidate"
@@ -604,7 +590,9 @@ msgid "Enchanted creature gets +2/+2 and has intimidate."
 msgstr ""
 
 #: Cutthroat Maneuver
-msgid "Up to two target creatures each get +1/+1 and gain lifelink until end of turn."
+msgid ""
+"Up to two target creatures each get +1/+1 and gain lifelink until end of "
+"turn."
 msgstr ""
 
 #: Dark Betrayal
@@ -612,17 +600,14 @@ msgid "Destroy target black creature."
 msgstr ""
 
 #: Disciple of Phenax
-msgid "When Desciple of Phenax enters the battlefield, target player reveals a number of cards from his or her hand equal to your devotion to black. You choose one of them. That player discards that card."
+msgid ""
+"When Desciple of Phenax enters the battlefield, target player reveals a "
+"number of cards from his or her hand equal to your devotion to black. You "
+"choose one of them. That player discards that card."
 msgstr ""
 
-#: Erebos, God of the Dead 
-msgid "Indestructible"
-msgstr ""
-
-msgid "As long as your devotion to black is less than five, Erebos isn't a creature."
-msgstr ""
-
-msgid "(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)"
+msgid ""
+"As long as your devotion to black is less than five, Erebos isn't a creature."
 msgstr ""
 
 msgid "Your opponents can't gain life."
@@ -631,60 +616,49 @@ msgstr ""
 msgid "{1}{B}, Pay 2 life: Draw a card."
 msgstr ""
 
-#: Erebos's Emissary
-msgid "Bestow {5}{B}"
+msgid ""
+"Discard a creature card: Erebos's Emissary gets +2/+2 until end of turn. If "
+"Erebos's Emissary is an Aura, enchanted creature gets +2/+2 until end of "
+"turn instead."
 msgstr ""
 
-msgid "Discard a creature card: Erebos's Emissary gets +2/+2 until end of turn. If Erebos's Emissary is an Aura, enchanted creature gets +2/+2 until end of turn instead."
-msgstr ""
-
-msgid "Enchanted creature gets +3/+3."
-msgstr ""
-
-#: Felhide Minotaur
-#: Fleshmad Steed
+#: Felhide Minotaur Fleshmad Steed
 msgid "Whenever another creature dies, tap Fleshmad Steed."
 msgstr ""
 
 #: Gray Merchant of Asphodel
-msgid "When Gray Merchant of Asphodel enters the battlefield, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way."
-msgstr ""
-
-msgid "(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)"
+msgid ""
+"When Gray Merchant of Asphodel enters the battlefield, each opponent loses X "
+"life, where X is your devotion to black. You gain life equal to the life "
+"lost this way."
 msgstr ""
 
 #: Hero's Downfall
 msgid "Destroy target creature or planeswalker."
 msgstr ""
 
-#: Hythonia the Cruel
-msgid "Deathtouch"
-msgstr ""
-
 msgid "{6}{B}{B}: Monstrosity 3."
 msgstr ""
 
-msgid "(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
-msgstr ""
-
-msgid "When Hythonia the Cruel becomes monstrous, destroy all non-Gorgon creatures."
+msgid ""
+"When Hythonia the Cruel becomes monstrous, destroy all non-Gorgon creatures."
 msgstr ""
 
 #: Insatiable Harpy
 msgid "Flying, lifelink"
 msgstr ""
 
-#: Keepsake Gorgon
-msgid "Deathtouch"
-msgstr ""
-
 msgid "{5}{B}{B}: Monstrosity 1."
 msgstr ""
 
-msgid "(If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
+msgid ""
+"(If this creature isn't monstrous, put a +1/+1 counter on it and it becomes "
+"monstrous.)"
 msgstr ""
 
-msgid "When Keepsake Gorgon becomes monstrous, destroy target non-Gorgon creature an opponent controls."
+msgid ""
+"When Keepsake Gorgon becomes monstrous, destroy target non-Gorgon creature "
+"an opponent controls."
 msgstr ""
 
 #: Lash of the Whip
@@ -695,29 +669,35 @@ msgstr ""
 msgid "{2}{G}: Loathsome Catoblepas must be blocked this turn if able."
 msgstr ""
 
-msgid "When Loathsome Catoblepas dies, target creature an opponent controls gets -3/-3 until end of turn."
+msgid ""
+"When Loathsome Catoblepas dies, target creature an opponent controls gets "
+"-3/-3 until end of turn."
 msgstr ""
 
 #: March of the Returned
-msgid "Return up to two target creature cards from your graveyard to your hand."
+msgid ""
+"Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
 
 #: Mogis's Marauder
-msgid "When Mogis's Marauder enters the battlefield, up to X target creatures each gain intimidate and haste until end of turn, where X is your devotion to black."
+msgid ""
+"When Mogis's Marauder enters the battlefield, up to X target creatures each "
+"gain intimidate and haste until end of turn, where X is your devotion to "
+"black."
 msgstr ""
 
 #: Nighthowler
 msgid "Bestow {2}{B}{B}"
 msgstr ""
 
-msgid "Nighthowler and enchanted creature both get +X/+X where X is equal to the number of creature cards in all graveyards."
+msgid ""
+"Nighthowler and enchanted creature both get +X/+X where X is equal to the "
+"number of creature cards in all graveyards."
 msgstr ""
 
-#: Ordeal of Erebos
-msgid "Enchant creature"
-msgstr ""
-
-msgid "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos."
+msgid ""
+"Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
+"has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos."
 msgstr ""
 
 msgid "When you sacrifice Ordeal of Erebos, target player discards two cards."
@@ -731,29 +711,32 @@ msgstr ""
 msgid "Scry 2 then draw 2 cards. You lose 2 life."
 msgstr ""
 
-msgid "(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgid ""
+"(To scry 2, look at the top two cards of your library, then put any number "
+"of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
 
 #: Rescue from the Underworld
-msgid "As an additional cost to cast Rescue from the Underworld, sacrifice a creature."
+msgid ""
+"As an additional cost to cast Rescue from the Underworld, sacrifice a "
+"creature."
 msgstr ""
 
-msgid "Choose target creature card in your graveyard. Return that card and the sacrificed card to the battlefield under your control at the beginning of your next upkeep. Exile Rescue from the Underworld."
+msgid ""
+"Choose target creature card in your graveyard. Return that card and the "
+"sacrificed card to the battlefield under your control at the beginning of "
+"your next upkeep. Exile Rescue from the Underworld."
 msgstr ""
 
 #: Returned Centaur
-msgid "When Returned Centaur enters the battlefield, target player puts the top four cards of his or her library into his or her graveyard."
+msgid ""
+"When Returned Centaur enters the battlefield, target player puts the top "
+"four cards of his or her library into his or her graveyard."
 msgstr ""
 
-#: Returned Phalanx
-msgid "Defender"
-msgstr ""
-
-msgid "{1}{U}: Returned Phalanx can attack this turn as though it didn't have defender."
-msgstr ""
-
-#: Scourgemark
-msgid "Enchant creature"
+msgid ""
+"{1}{U}: Returned Phalanx can attack this turn as though it didn't have "
+"defender."
 msgstr ""
 
 msgid "When Scourgemark enters the battlefield, draw a card."
@@ -767,52 +750,57 @@ msgid "Destroy target creature. Its controller loses 2 life."
 msgstr ""
 
 #: Thoughtseize
-msgid "Target player reveals his or her hand. You choose a nonland card from it. That player discards that card. You lose 2 life."
+msgid ""
+"Target player reveals his or her hand. You choose a nonland card from it. "
+"That player discards that card. You lose 2 life."
 msgstr ""
 
 #: Tormented Hero
 msgid "Tormented Hero enters the battlefield tapped."
 msgstr ""
 
-
-msgid "Heroic"
+msgid ""
+"- Whenever you cast a spell that targets Tormented Hero, each opponent loses "
+"1 life. You gain life equal to the life lost this way."
 msgstr ""
 
-msgid "- Whenever you cast a spell that targets Tormented Hero, each opponent loses 1 life. You gain life equal to the life lost this way."
-msgstr ""
-
-#: Viper's Kiss
-msgid "Enchant creature"
-msgstr ""
-
-msgid "Enchanted creature gets -1/-1, and its activated abilities can't be activated."
+msgid ""
+"Enchanted creature gets -1/-1, and its activated abilities can't be "
+"activated."
 msgstr ""
 
 #: Whip of Erebos
 msgid "Creatures you control have lifelink."
 msgstr ""
 
-msgid "{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery."
+msgid ""
+"{2}{B}{B}, {T}: Return target creature card from your graveyard to the "
+"battlefield. It gains haste. Exile it at the beginning of the next end step. "
+"If it would leave the battlefield, exile it instead of putting it anywhere "
+"else. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
-#: Akroan Crusader
-msgid "Heroic"
-msgstr ""
-
-msgid "- Whenever you cast a spell that targets Akroan Crusader, put a 1/1 red Soldier creature token with haste onto the battlefield."
+msgid ""
+"- Whenever you cast a spell that targets Akroan Crusader, put a 1/1 red "
+"Soldier creature token with haste onto the battlefield."
 msgstr ""
 
 #: Anger of the Gods
-msgid "Anger of the Gods deals 3 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead."
+msgid ""
+"Anger of the Gods deals 3 damage to each creature. If a creature dealt "
+"damage this way would die this turn, exile it instead."
 msgstr ""
 
-#: Borderland Minotaur
-#: Boulderfall
-msgid "Boulderfall deals 5 damage divided as you choose among any number of target creatures and/or players."
+#: Borderland Minotaur Boulderfall
+msgid ""
+"Boulderfall deals 5 damage divided as you choose among any number of target "
+"creatures and/or players."
 msgstr ""
 
 #: Coordinated Assault
-msgid "Up to two target creatures each get +1/+0 and gain first strike until end of turn."
+msgid ""
+"Up to two target creatures each get +1/+0 and gain first strike until end of "
+"turn."
 msgstr ""
 
 #: Deathbellow Raider
@@ -826,63 +814,67 @@ msgstr ""
 msgid "Destroy target artifact or land."
 msgstr ""
 
-#: Dragon Mantle
-msgid "Enchant creature"
-msgstr ""
-
 msgid "When Dragon Mantle enters the battlefield, draw a card."
 msgstr ""
 
-msgid "Enchanted creature has \"{R}: This creature gets +1/+0 until end of turn.\""
+msgid ""
+"Enchanted creature has \"{R}: This creature gets +1/+0 until end of turn.\""
 msgstr ""
 
 #: Ember Swallower
 msgid "{5}{R}{R}: Monstrosity 3"
 msgstr ""
 
-msgid "(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
-msgstr ""
-
-msgid "When Ember Swallower becomes monstrous, each player sacrifices three lands."
+msgid ""
+"When Ember Swallower becomes monstrous, each player sacrifices three lands."
 msgstr ""
 
 #: Fanatic of Mogis
-msgid "When Fanatic of Mogis enters the battlefield, it deals damage to each opponent equal to your devotion to red."
+msgid ""
+"When Fanatic of Mogis enters the battlefield, it deals damage to each "
+"opponent equal to your devotion to red."
 msgstr ""
 
-msgid "(Each {R} in the mana costs of permanents you control counts toward your devotion to red.)"
+msgid ""
+"(Each {R} in the mana costs of permanents you control counts toward your "
+"devotion to red.)"
 msgstr ""
 
 #: Firedrinker Satyr
-msgid "Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you."
+msgid ""
+"Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you."
 msgstr ""
 
-msgid "{1}{R}: Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to you."
+msgid ""
+"{1}{R}: Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to "
+"you."
 msgstr ""
 
 #: Flamespeaker Adept
-msgid "Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike until end of turn."
+msgid ""
+"Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike "
+"until end of turn."
 msgstr ""
 
 #: Hammer of Purphoros
 msgid "Creatures you control have haste."
 msgstr ""
 
-msgid "{2}{R}, {T}, Sacrifice a land: Put a 3/3 colorless Golem enchantment artifact creature token onto the battlefield."
+msgid ""
+"{2}{R}, {T}, Sacrifice a land: Put a 3/3 colorless Golem enchantment "
+"artifact creature token onto the battlefield."
 msgstr ""
 
-#: Ill-Tempered Cyclops
+#: Ill-Tempered Cyclops Rageblood Shaman Satyr Rambler Vulpine Goliath
 msgid "Trample"
 msgstr ""
 
 msgid "{5}{R}: Monstrosity 3."
 msgstr ""
 
-#: Labyrinth Champion
-msgid "Heroic"
-msgstr ""
-
-msgid "- Whenever you cast a spell that targets Labyrinth Champion, Labyrinth Champion deals 2 damage to target creature or player."
+msgid ""
+"- Whenever you cast a spell that targets Labyrinth Champion, Labyrinth "
+"Champion deals 2 damage to target creature or player."
 msgstr ""
 
 #: Lightning Strike
@@ -896,13 +888,6 @@ msgstr ""
 msgid "Scry 2."
 msgstr ""
 
-msgid "(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
-msgstr ""
-
-#: Messenger's Speed
-msgid "Enchant creature"
-msgstr ""
-
 msgid "Enchanted creature has trample and haste."
 msgstr ""
 
@@ -910,39 +895,45 @@ msgstr ""
 msgid "Haste"
 msgstr ""
 
-msgid "When Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end of turn."
+msgid ""
+"When Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end "
+"of turn."
 msgstr ""
 
-#: Ordeal of Purphoros
-msgid "Enchant creature"
+msgid ""
+"Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
+"has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros."
 msgstr ""
 
-msgid "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros."
-msgstr ""
-
-msgid "When you sacrifice Ordeal of Purphoros, it deals 3 damage to target creature or player."
+msgid ""
+"When you sacrifice Ordeal of Purphoros, it deals 3 damage to target creature "
+"or player."
 msgstr ""
 
 #: Peak Eruption
-msgid "Destroy target Mountain. Peak Eruption deals 3 damage to that land's controller."
+msgid ""
+"Destroy target Mountain. Peak Eruption deals 3 damage to that land's "
+"controller."
 msgstr ""
 
 #: Portent of Betrayal
-msgid "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1."
+msgid ""
+"Gain control of target creature until end of turn. Untap that creature. It "
+"gains haste until end of turn. Scry 1."
 msgstr ""
 
 #: Priest of Iroas
 msgid "{3}{W}, Sacrifice Priest of Iroas: Destroy target enchantment."
 msgstr ""
 
-#: Purphoros, God of the Forge
-msgid "Indestructible"
+msgid ""
+"As long as your devotion to red is less than five, Purphoros isn't a "
+"creature."
 msgstr ""
 
-msgid "As long as your devotion to red is less than five, Purphoros isn't a creature."
-msgstr ""
-
-msgid "Whenever a creature enters the battlefield under your control, Purphoros deals 2 damage to each opponent."
+msgid ""
+"Whenever a creature enters the battlefield under your control, Purphoros "
+"deals 2 damage to each opponent."
 msgstr ""
 
 msgid "{2}{R}: Each creature you control gets +1/+0 until end of turn."
@@ -955,22 +946,18 @@ msgstr ""
 msgid "Purphoros' Emissary can only be blocked by two or more creatures."
 msgstr ""
 
-msgid "Enchanted creature gets +3/+3 and can only be blocked by two or more creatures."
+msgid ""
+"Enchanted creature gets +3/+3 and can only be blocked by two or more "
+"creatures."
 msgstr ""
 
 #: Rage of Purphoros
-msgid "Rage of Purphoros deals 4 damage to target creature. It can't be regenerated this turn. Scry 1."
-msgstr ""
-
-#: Rageblood Shaman
-msgid "Trample"
+msgid ""
+"Rage of Purphoros deals 4 damage to target creature. It can't be regenerated "
+"this turn. Scry 1."
 msgstr ""
 
 msgid "Other Minotaur creatures you control get +1/+1 and have trample."
-msgstr ""
-
-#: Satyr Rambler
-msgid "Trample"
 msgstr ""
 
 #: Spark Jolt
@@ -979,9 +966,6 @@ msgstr ""
 
 #: Spearpoint Oread
 msgid "Bestow {5}{R}"
-msgstr ""
-
-msgid "(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 msgid "First strike"
@@ -994,10 +978,9 @@ msgstr ""
 msgid "{6}{R}{R}: Monstrosity 3"
 msgstr ""
 
-msgid "(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
-msgstr ""
-
-msgid "When Stoneshock Giant becomes monstrous, creatures without flying your opponents control can't block this turn."
+msgid ""
+"When Stoneshock Giant becomes monstrous, creatures without flying your "
+"opponents control can't block this turn."
 msgstr ""
 
 #: Stormbreath Dragon
@@ -1007,64 +990,53 @@ msgstr ""
 msgid "{5}{R}{R}: Monstrosity 3."
 msgstr ""
 
-msgid "(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
-msgstr ""
-
-msgid "When Stormbreath Dragon becomes monstrous, it deals damage to each opponent equal to the number of cards in that player's hand."
+msgid ""
+"When Stormbreath Dragon becomes monstrous, it deals damage to each opponent "
+"equal to the number of cards in that player's hand."
 msgstr ""
 
 #: Titan of Eternal Fire
-msgid "Each Human creature you control has \"{R}, {T}: This creature deals 1 damage to target creature or player.\""
+msgid ""
+"Each Human creature you control has \"{R}, {T}: This creature deals 1 damage "
+"to target creature or player.\""
 msgstr ""
 
 #: Titan's Strength
 msgid "Target creature gets +3/+1 until end of turn. Scry 1."
 msgstr ""
 
-#: Two-Headed Cerberus
-msgid "Double strike"
-msgstr ""
-
 #: Wild Celebrants
-msgid "When Wild Celebrants enters the battlefield, you may destroy target artifact."
+msgid ""
+"When Wild Celebrants enters the battlefield, you may destroy target artifact."
 msgstr ""
 
 #: Agent of Horizons
 msgid "{2}{U}: Agent of Horizons can't be blocked this turn."
 msgstr ""
 
-#: Anthousa, Setessan Hero
-msgid "Heroic"
+msgid ""
+"- Whenever you cast a spell that targets Anthousa, Setessan Hero, up to "
+"three target lands you control each become 2/2 Warrior creatures until end "
+"of turn. They're still lands."
 msgstr ""
 
-msgid "- Whenever you cast a spell that targets Anthousa, Setessan Hero, up to three target lands you control each become 2/2 Warrior creatures until end of turn. They're still lands."
-msgstr ""
-
-#: Arbor Colossus
+#: Arbor Colossus Nessian Asp
 msgid "Reach"
 msgstr ""
 
 msgid "{3}{G}{G}{G}: Monstrosity 3."
 msgstr ""
 
-msgid "(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
-msgstr ""
-
-msgid "When Arbor Colossus becomes monstrous, destroy target creature with flying an opponent controls."
+msgid ""
+"When Arbor Colossus becomes monstrous, destroy target creature with flying "
+"an opponent controls."
 msgstr ""
 
 #: Artisan's Sorrow
 msgid "Destroy target artifact or enchantment. Scry 2."
 msgstr ""
 
-#: Boon Satyr
-msgid "Flash"
-msgstr ""
-
 msgid "Bestow {3}{G}{G}"
-msgstr ""
-
-msgid "(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 msgid "Enchanted creature gets +4/+2."
@@ -1074,18 +1046,23 @@ msgstr ""
 msgid "Attacking creatures you control have deathtouch."
 msgstr ""
 
-msgid "{1}{G}, {T}: Choose one - Put a +1/+1 counter on target creature; or Bow of Nylea deals 2 damage to target creature with flying; or you gain 3 life; or put up to four target cards from your graveyard on the bottom of your library in any order."
+msgid ""
+"{1}{G}, {T}: Choose one - Put a +1/+1 counter on target creature; or Bow of "
+"Nylea deals 2 damage to target creature with flying; or you gain 3 life; or "
+"put up to four target cards from your graveyard on the bottom of your "
+"library in any order."
 msgstr ""
 
-#: Centaur Battlemaster
-msgid "Heroic"
-msgstr ""
-
-msgid "- Whenever you cast a spell that targets Centaur Battlemaster, put three +1/+1 counters on Centaur Battlemaster."
+msgid ""
+"- Whenever you cast a spell that targets Centaur Battlemaster, put three +1/"
+"+1 counters on Centaur Battlemaster."
 msgstr ""
 
 #: Commune with the Gods
-msgid "Reveal the top five cards of your library. You may put a creature or enchantment card from among them into your hand. Put the rest into your graveyard."
+msgid ""
+"Reveal the top five cards of your library. You may put a creature or "
+"enchantment card from among them into your hand. Put the rest into your "
+"graveyard."
 msgstr ""
 
 #: Defend the Hearth
@@ -1096,35 +1073,27 @@ msgstr ""
 msgid "Exile target artifact or enchantment."
 msgstr ""
 
-#: Feral Invocation
-msgid "Flash"
-msgstr ""
-
-msgid "Enchant creature"
-msgstr ""
-
 msgid "Enchanted creature gets +2/+2."
 msgstr ""
 
 #: Hunt the Hunter
-msgid "Target green creature you control gets +2/+2 until end of turn. If fights target green creature an opponent controls."
+msgid ""
+"Target green creature you control gets +2/+2 until end of turn. If fights "
+"target green creature an opponent controls."
 msgstr ""
 
 #: Karametra's Acolyte
-msgid "{T}: Add an amount of {G} to your mana pool equal to your devotion to green."
+msgid ""
+"{T}: Add an amount of {G} to your mana pool equal to your devotion to green."
 msgstr ""
 
-msgid "(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)"
+msgid ""
+"(Each {G} in the mana costs of permanents you control counts toward your "
+"devotion to green.)"
 msgstr ""
 
 #: Leafcrown Dryad
 msgid "Bestow {3}{G}"
-msgstr ""
-
-msgid "(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
-msgstr ""
-
-msgid "Reach"
 msgstr ""
 
 msgid "Enchanted creature gets +2/+2 and has reach."
@@ -1141,31 +1110,20 @@ msgid "Mistcutter Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
 #: Nemesis of Mortals
-msgid "Nemesis of Mortals costs {1} less for each creature card in your graveyard."
+msgid ""
+"Nemesis of Mortals costs {1} less for each creature card in your graveyard."
 msgstr ""
 
-msgid "{7}{G}{G}: Monstrosity 5. This ability costs {1} less to activate for each creature card in your graveyard."
-msgstr ""
-
-#: Nessian Asp
-msgid "Reach"
+msgid ""
+"{7}{G}{G}: Monstrosity 5. This ability costs {1} less to activate for each "
+"creature card in your graveyard."
 msgstr ""
 
 msgid "{6}{G}: Monstrosity 4"
 msgstr ""
 
-msgid "(If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)"
-msgstr ""
-
-#: Nessian Courser
-#: Nylea, God of the Hunt
-msgid "Indestructible"
-msgstr ""
-
-msgid "As long as your devotion to green is less than five, Nylea isn't a creature."
-msgstr ""
-
-msgid "(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)"
+msgid ""
+"As long as your devotion to green is less than five, Nylea isn't a creature."
 msgstr ""
 
 msgid "Other creatures you control have trample."
@@ -1175,14 +1133,13 @@ msgid "{3}{G}: Target creature gets +2/+2 until end of turn."
 msgstr ""
 
 #: Nylea's Disciple
-msgid "When Nylea's Disciple enters the battlefield, you gain life equal to your devotion to green."
+msgid ""
+"When Nylea's Disciple enters the battlefield, you gain life equal to your "
+"devotion to green."
 msgstr ""
 
 #: Nylea's Emissary
 msgid "Bestow {5}{G}"
-msgstr ""
-
-msgid "Trample"
 msgstr ""
 
 msgid "Enchanted creature gets +3/+3 and has trample."
@@ -1198,32 +1155,35 @@ msgstr ""
 msgid "Enchanted land is every basic land type in addition to its other types."
 msgstr ""
 
-#: Ordeal of Nylea
-msgid "Enchant creature"
+msgid ""
+"Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
+"has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea."
 msgstr ""
 
-msgid "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea."
+msgid ""
+"When you sacrifice Ordeal of Nylea, search your library for two basic land "
+"cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
-msgid "When you sacrifice Ordeal of Nylea, search your library for two basic land cards, put them onto the battlefield tapped, then shuffle your library."
-msgstr ""
-
-#: Pheres-Band Centaurs
-#: Polukranos, World Eater
+#: Pheres-Band Centaurs Polukranos, World Eater
 msgid "{X}{X}{G}: Monstrosity X."
 msgstr ""
 
-msgid "(If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)"
+msgid ""
+"(If this creature isn't monstrous, put X +1/+1 counters on it and it becomes "
+"monstrous.)"
 msgstr ""
 
-msgid "When Polukranos, World Eater becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos."
+msgid ""
+"When Polukranos, World Eater becomes monstrous, it deals X damage divided as "
+"you choose among any number of target creatures your opponents control. Each "
+"of those creatures deals damage equal to its power to Polukranos."
 msgstr ""
 
 #: Reverent Hunter
-msgid "When Reverent Hunter enters the battlefield, put a number of +1/+1 counters on it equal to your devotion to green."
-msgstr ""
-
-msgid "(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)"
+msgid ""
+"When Reverent Hunter enters the battlefield, put a number of +1/+1 counters "
+"on it equal to your devotion to green."
 msgstr ""
 
 #: Satyr Hedonist
@@ -1238,115 +1198,113 @@ msgstr ""
 msgid "Target creature gets +2/+2 until end of turn. Untap that creature."
 msgstr ""
 
-#: Sedge Scorpion
-msgid "Deathtouch"
-msgstr ""
-
 #: Shredding Winds
 msgid "Shredding Winds deals 7 damage to target creature with flying."
 msgstr ""
 
-#: Staunch-Hearted Warrior
-msgid "Heroic"
-msgstr ""
-
-msgid "- Whenever you cast a spell that targets Staunch-Hearted Warrior, put two +1/+1 counters on Staunch-Hearted Warrior"
+msgid ""
+"- Whenever you cast a spell that targets Staunch-Hearted Warrior, put two +1/"
+"+1 counters on Staunch-Hearted Warrior"
 msgstr ""
 
 #: Sylvan Caryatid
 msgid "Defender, hexproof"
 msgstr ""
 
+#: Opaline Unicorn
 msgid "{T}: Add one mana of any color to your mana pool."
 msgstr ""
 
 #: Time to Feed
-msgid "Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that creature."
+msgid ""
+"Choose target creature an opponent controls. When that creature dies this "
+"turn, you gain 3 life. Target creature you control fights that creature."
 msgstr ""
 
 #: Voyaging Satyr
 msgid "{T}: Untap target land."
 msgstr ""
 
-#: Vulpine Goliath
-msgid "Trample"
-msgstr ""
-
 #: Warriors' Lesson
-msgid "Until end of turn, up to two target creatures you control gain \"Whenever this creature deals combat damage to a player, draw a card.\""
+msgid ""
+"Until end of turn, up to two target creatures you control gain \"Whenever "
+"this creature deals combat damage to a player, draw a card.\""
 msgstr ""
 
 #: Akroan Hoplite
-msgid "Whenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where X is the number of attacking creatures you control."
+msgid ""
+"Whenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where X is "
+"the number of attacking creatures you control."
 msgstr ""
 
 #: Anax and Cymede
 msgid "First strike, vigilance"
 msgstr ""
 
-
-msgid "Heroic"
+msgid ""
+"- Whenever you cast a spell that targets Anax and Cymede, creatures you "
+"control get +1/+1 and gain trample until end of turn."
 msgstr ""
 
-msgid "- Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn."
-msgstr ""
-
-#: Ashen Rider
-msgid "Flying"
-msgstr ""
-
-msgid "Whenever Ashen Rider enters the battlefield or dies, exile target permanent."
+msgid ""
+"Whenever Ashen Rider enters the battlefield or dies, exile target permanent."
 msgstr ""
 
 #: Ashiok, Nightmare Weaver
 msgid "[+2]: Exile the top three cards of target opponent's library."
 msgstr ""
 
-msgid "[-X]: Put a creature card with converted mana cost X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types."
+msgid ""
+"[-X]: Put a creature card with converted mana cost X exiled with Ashiok, "
+"Nightmare Weaver onto the battlefield under your control. That creature is a "
+"Nightmare in addition to its other types."
 msgstr ""
 
 msgid "[-10]: Exile all cards from all opponents' hands and graveyards."
 msgstr ""
 
-#: Battlewise Hoplite
-msgid "Heroic"
+msgid ""
+"- Whenever you cast a spell that targets Battlewise Hoplite, put a +1/+1 "
+"counter on Battlewise Hoplite, then scry 1."
 msgstr ""
 
-msgid "- Whenever you cast a spell that targets Battlewise Hoplite, put a +1/+1 counter on Battlewise Hoplite, then scry 1."
-msgstr ""
-
-msgid "(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
+msgid ""
+"(To scry 1, look at the top card of your library, then you may put that card "
+"on the bottom of your library.)"
 msgstr ""
 
 #: Chronicler of Heroes
-msgid "When Chronicler of Heroes enters the battlefield, draw a card if you control a creature with a +1/+1 counter on it."
+msgid ""
+"When Chronicler of Heroes enters the battlefield, draw a card if you control "
+"a creature with a +1/+1 counter on it."
 msgstr ""
 
 #: Daxos of Meletis
 msgid "Daxos of Meletis can't be blocked by creatures with power 3 or greater."
 msgstr ""
 
-msgid "Whenever Daxos of Meletis deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's converted mana cost. Until end of turn, you may cast that card and you may spend mana as though it were many of any color to cast it."
+msgid ""
+"Whenever Daxos of Meletis deals combat damage to a player, exile the top "
+"card of that player's library. You gain life equal to that card's converted "
+"mana cost. Until end of turn, you may cast that card and you may spend mana "
+"as though it were many of any color to cast it."
 msgstr ""
 
 #: Destructive Revelry
-msgid "Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller."
+msgid ""
+"Destroy target artifact or enchantment. Destructive Revelry deals 2 damage "
+"to that permanent's controller."
 msgstr ""
 
 #: Fleecemane Lion
 msgid "{3}{G}{W}: Monstrosity 1."
 msgstr ""
 
-msgid "(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+msgid ""
+"As long as Fleecemane Lion is Monstrous, it has hexproof and indestructible."
 msgstr ""
 
-msgid "As long as Fleecemane Lion is Monstrous, it has hexproof and indestructible."
-msgstr ""
-
-#: Horizon Chimera
-msgid "Flash"
-msgstr ""
-
+#: Spellheart Chimera
 msgid "Flying, trample"
 msgstr ""
 
@@ -1357,21 +1315,22 @@ msgstr ""
 msgid "Minotaur creatures you control have haste."
 msgstr ""
 
-msgid "Whenever a Minotaur you control attacks, it gets +2/+0 until end of turn."
+msgid ""
+"Whenever a Minotaur you control attacks, it gets +2/+0 until end of turn."
 msgstr ""
 
-#: Medomai the Ageless
-msgid "Flying"
-msgstr ""
-
-msgid "Whenever Medomai the Ageless deals combat damage to a player, take an extra turn after this one."
+msgid ""
+"Whenever Medomai the Ageless deals combat damage to a player, take an extra "
+"turn after this one."
 msgstr ""
 
 msgid "Medomai the Ageless can't attack during extra turns."
 msgstr ""
 
 #: Pharika's Mender
-msgid "When Pharika's Mender enters the battlefield, you may return target creature or enchantment card from your graveyard to your hand."
+msgid ""
+"When Pharika's Mender enters the battlefield, you may return target creature "
+"or enchantment card from your graveyard to your hand."
 msgstr ""
 
 #: Polis Crusher
@@ -1381,28 +1340,30 @@ msgstr ""
 msgid "{4}{R}{G}: Monstrosity 3"
 msgstr ""
 
-msgid "(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
-msgstr ""
-
-msgid "Whenever Polis Crusher deals combat damage to a player, if Polis Crusher is monstrous, destroy target enchantment that player controls."
+msgid ""
+"Whenever Polis Crusher deals combat damage to a player, if Polis Crusher is "
+"monstrous, destroy target enchantment that player controls."
 msgstr ""
 
 #: Prophet of Kruphix
-msgid "Untap all creatures and lands you control during each other player's untap step."
+msgid ""
+"Untap all creatures and lands you control during each other player's untap "
+"step."
 msgstr ""
 
 msgid "You may cast creature cards as though they had flash."
 msgstr ""
 
 #: Psychic Intrusion
-msgid "Target opponent reveals his or her hand. You choose a nonland card from that player's graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell."
+msgid ""
+"Target opponent reveals his or her hand. You choose a nonland card from that "
+"player's graveyard or hand and exile it. You may cast that card for as long "
+"as it remains exiled, and you may spend mana as though it were mana of any "
+"color to cast that spell."
 msgstr ""
 
 #: Reaper of the Wilds
 msgid "Whenever another creature dies, scry 1."
-msgstr ""
-
-msgid "(Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
 msgid "{B}: Reaper of the Wilds gains deathtouch until end of turn."
@@ -1418,42 +1379,47 @@ msgstr ""
 msgid "{W}{B}, Pay 3 life: Regenerate Sentry of the Underworld."
 msgstr ""
 
-#: Shipwreck Singer
-msgid "Flying"
-msgstr ""
-
 msgid "{1}{U}: Target creature an opponent controls attacks this turn if able."
 msgstr ""
 
 msgid "{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn."
 msgstr ""
 
-#: Spellheart Chimera
-msgid "Flying, trample"
-msgstr ""
-
-msgid "Spellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard."
+msgid ""
+"Spellheart Chimera's power is equal to the number of instant and sorcery "
+"cards in your graveyard."
 msgstr ""
 
 #: Steam Augury
-msgid "Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard."
+msgid ""
+"Reveal the top five cards of your library and separate them into two piles. "
+"An opponent chooses one of those piles. Put that pile into your hand and the "
+"other into your graveyard."
 msgstr ""
 
 #: Triad of Fates
 msgid "{1}, {T}: Put a fate counter on another target creature."
 msgstr ""
 
-msgid "{W}, {T}: Exile target creature that has a fate counter on it, then return it to the battlefield under its owner's control."
+msgid ""
+"{W}, {T}: Exile target creature that has a fate counter on it, then return "
+"it to the battlefield under its owner's control."
 msgstr ""
 
-msgid "{B}, {T}: Exile target creature that has a fate counter on it. Its controller draws two cards."
+msgid ""
+"{B}, {T}: Exile target creature that has a fate counter on it. Its "
+"controller draws two cards."
 msgstr ""
 
 #: Tymaret, the Murder King
-msgid "{1}{R}, Sacrifice another creature: Tymaret, the Murder King deals 2 damage to target player."
+msgid ""
+"{1}{R}, Sacrifice another creature: Tymaret, the Murder King deals 2 damage "
+"to target player."
 msgstr ""
 
-msgid "{1}{B}. Sacrifice a creature: Return Tymaret from your graveyard to your hand."
+msgid ""
+"{1}{B}. Sacrifice a creature: Return Tymaret from your graveyard to your "
+"hand."
 msgstr ""
 
 #: Underworld Cerberus
@@ -1463,36 +1429,40 @@ msgstr ""
 msgid "Cards in graveyards can't be the targets of spells or abilities."
 msgstr ""
 
-msgid "When Underworld Cerberus dies, exile it and each player returns all creature cards from his or her graveyard to his or her hand."
+msgid ""
+"When Underworld Cerberus dies, exile it and each player returns all creature "
+"cards from his or her graveyard to his or her hand."
 msgstr ""
 
 #: Xenagos, the Reveler
-msgid "[+1]: Add X mana in any combination of {R} and/or {G} to your mana pool, where X is the number of creatures you control."
+msgid ""
+"[+1]: Add X mana in any combination of {R} and/or {G} to your mana pool, "
+"where X is the number of creatures you control."
 msgstr ""
 
-msgid "[0]: Put a 2/2 red and green Satyr creature token with haste onto the battlefield."
+msgid ""
+"[0]: Put a 2/2 red and green Satyr creature token with haste onto the "
+"battlefield."
 msgstr ""
 
-msgid "[-6]: Exile the top seven cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield."
+msgid ""
+"[-6]: Exile the top seven cards of your library. You may put any number of "
+"creature and/or land cards from among them onto the battlefield."
 msgstr ""
 
-#: Akroan Horse
-msgid "Defender"
+msgid ""
+"When Akroan Horse enters the battlefield, an opponent gains control of it."
 msgstr ""
 
-msgid "When Akroan Horse enters the battlefield, an opponent gains control of it."
+msgid ""
+"At the beginning of your upkeep, each opponent puts a 1/1 white Soldier "
+"creature token onto the battlefield."
 msgstr ""
 
-msgid "At the beginning of your upkeep, each opponent puts a 1/1 white Soldier creature token onto the battlefield."
-msgstr ""
-
-#: Anvilwrought Raptor
-msgid "Flying, first strike"
-msgstr ""
-
-#: Bronze Sable
-#: Burnished Hart
-msgid "{3}, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+#: Bronze Sable Burnished Hart
+msgid ""
+"{3}, Sacrifice Burnished Hart: Search your library for up to two basic land "
+"cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
 #: Colossus of Akros
@@ -1502,11 +1472,15 @@ msgstr ""
 msgid "{10}: Monstrosity 10."
 msgstr ""
 
-msgid "As long as Colossus of Akros is monstrous, it has trample and can attack as though it didn't have defender."
+msgid ""
+"As long as Colossus of Akros is monstrous, it has trample and can attack as "
+"though it didn't have defender."
 msgstr ""
 
 #: Flamecast Wheel
-msgid "{5}, {T}, Sacrifice Flamecast Wheel: Flamecast Wheel deals 3 damage to target creature."
+msgid ""
+"{5}, {T}, Sacrifice Flamecast Wheel: Flamecast Wheel deals 3 damage to "
+"target creature."
 msgstr ""
 
 #: Fleetfeather Sandals
@@ -1516,50 +1490,45 @@ msgstr ""
 msgid "Equip {2}"
 msgstr ""
 
-#: Guardians of Meletis
-msgid "Defender"
-msgstr ""
-
-#: Opaline Unicorn
-msgid "{T}: Add one mana of any color to your mana pool."
-msgstr ""
-
 #: Prowler's Helm
 msgid "Equipped creature can't be blocked except by walls."
-msgstr ""
-
-msgid "Equip {2}"
 msgstr ""
 
 #: Pyxis of Pandemonium
 msgid "{T}: Each player exiles the top card of his or her library face down."
 msgstr ""
 
-msgid "{7}, {T}: Sacrifice Pyxis of Pandemonium: Each player turns face up all cards he or she owns exiled with Pyxis of Pandemonium, then puts all permanent cards among them onto the battlefield."
+msgid ""
+"{7}, {T}: Sacrifice Pyxis of Pandemonium: Each player turns face up all "
+"cards he or she owns exiled with Pyxis of Pandemonium, then puts all "
+"permanent cards among them onto the battlefield."
 msgstr ""
 
 #: Traveler's Amulet
-msgid "{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library."
+msgid ""
+"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, "
+"reveal it, and put it into your hand. Then shuffle your library."
 msgstr ""
 
 #: Witches' Eye
 msgid "Equipped creature has \"{1}, {T}: Scry 1.\""
 msgstr ""
 
-msgid "(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
-msgstr ""
-
 msgid "Equip {1}"
 msgstr ""
 
-#: Nykthos, Shrine to Nyx
+#: Nykthos, Shrine to Nyx Unknown Shores
 msgid "{T}: Add {1} to your mana pool."
 msgstr ""
 
-msgid "{2}, {T}: Choose a color. Add to your mana pool an amount of mana of that color equal to your devotion to that color."
+msgid ""
+"{2}, {T}: Choose a color. Add to your mana pool an amount of mana of that "
+"color equal to your devotion to that color."
 msgstr ""
 
-msgid "(Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)"
+msgid ""
+"(Your devotion to a color is the number of mana symbols of that color in the "
+"mana costs of permanents you control.)"
 msgstr ""
 
 #: Temple of Abandon
@@ -1567,9 +1536,6 @@ msgid "Temple of Abandon enters the battlefield tapped."
 msgstr ""
 
 msgid "When Temple of Abandon enters the battlefield, scry 1."
-msgstr ""
-
-msgid "(Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
 msgid "{T}: Add {R} or {G} to your mana pool."
@@ -1582,9 +1548,6 @@ msgstr ""
 msgid "When Temple of Deceit enters the battlefield, scry 1."
 msgstr ""
 
-msgid "(Look at the top card of your library. You may put that card on the bottom of your library.)"
-msgstr ""
-
 msgid "{T}: Add {U} or {B} to your mana pool."
 msgstr ""
 
@@ -1593,9 +1556,6 @@ msgid "Temple of Mystery enters the battlefield tapped."
 msgstr ""
 
 msgid "When Temple of Mystery enters the battlefield, scry 1."
-msgstr ""
-
-msgid "(Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
 msgid "{T}: Add {G} or {U} to your mana pool."
@@ -1608,9 +1568,6 @@ msgstr ""
 msgid "When Temple of Silence enters the battlefield, scry 1."
 msgstr ""
 
-msgid "(Look at the top card of your library. You may put that card on the bottom of your library.)"
-msgstr ""
-
 msgid "{T}: Add {W} or {B} to your mana pool."
 msgstr ""
 
@@ -1621,14 +1578,7 @@ msgstr ""
 msgid "When Temple of Triumph enters the battlefield, scry 1."
 msgstr ""
 
-msgid "(Look at the top card of your library. You may put that card on the bottom of your library.)"
-msgstr ""
-
 msgid "{T}: Add {R} or {W} to your mana pool."
-msgstr ""
-
-#: Unknown Shores
-msgid "{T}: Add {1} to your mana pool."
 msgstr ""
 
 msgid "{1}, {T}: Add one mana of any color to your mana pool."
