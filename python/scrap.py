@@ -1,5 +1,7 @@
+#coding: utf-8
+
 from scrapy.item import Item, Field
-from scrapy.
+from scrapy.spider import BaseSpider
 
 class CardItem(Item):
     name = Field()  # card name
@@ -24,6 +26,8 @@ class MTGSalvationCrawler(BaseSpider):
             card['kind'] = t.select('.//tr//td[@width]').extract()[-2]
             card['text'] = '\n'.join([i.strip() for i in
                     t.select('.//tr//td[@colspan]/text()').extract()])
-            card['flav']
-            card['ptl']
+#            card['flav']
+#            card['ptl']
+            cards.append(card)
+        return cards
 
