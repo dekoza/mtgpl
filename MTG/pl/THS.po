@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 13:17+0200\n"
-"PO-Revision-Date: 2013-09-17 21:20+0200\n"
+"PO-Revision-Date: 2013-09-17 21:54+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379449200.938054\n"
+"X-POOTLE-MTIME: 1379451294.454056\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Battlewise Valor
@@ -720,7 +720,7 @@ msgstr ""
 
 #: Dark Betrayal
 msgid "Destroy target black creature."
-msgstr ""
+msgstr "Zniszcz wskazanego czarnego stwora."
 
 #: Disciple of Phenax
 msgid ""
@@ -781,7 +781,7 @@ msgid "Flying, lifelink"
 msgstr "Latanie, więź życia"
 
 msgid "{5}{B}{B}: Monstrosity 1."
-msgstr ""
+msgstr "{5}{B}{B}: Monstrualność 1."
 
 msgid ""
 "(If this creature isn't monstrous, put a +1/+1 counter on it and it becomes "
@@ -918,11 +918,15 @@ msgid ""
 "- Whenever you cast a spell that targets Tormented Hero, each opponent loses "
 "1 life. You gain life equal to the life lost this way."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Tormented Hero, każdy przeciwnik traci "
+"1 życie. Zyskujesz tyle życia, ile stracono w ten sposób."
 
 msgid ""
 "Enchanted creature gets -1/-1, and its activated abilities can't be "
 "activated."
 msgstr ""
+"Zauroczony stwór dostaje -1/-1 i jego aktywowane zdolności nie mogą być "
+"aktywowane."
 
 #: Whip of Erebos
 msgid "Creatures you control have lifelink."
@@ -947,14 +951,13 @@ msgstr ""
 "żeton czerwonego stwora Soldier 1/1 z pośpiechem."
 
 #: Anger of the Gods
-#, fuzzy
 msgid ""
 "Anger of the Gods deals 3 damage to each creature. If a creature dealt "
 "damage this way would die this turn, exile it instead."
 msgstr ""
 "Anger of the Gods zadaje każdemu stworowi 3 obrażenia. Jeśli stwór, który "
-"otrzymał obrażenia w ten sposób, miałby umrzeć w tej turze, wygnaj go w "
-"zamian."
+"otrzymał obrażenia w ten sposób, miałby umrzeć w tej turze, zostaje zamiast "
+"tego wygnany."
 
 #: Borderland Minotaur Boulderfall
 msgid ""
@@ -988,7 +991,7 @@ msgstr "Kiedy Dragon Mantle wchodzi na pole walki, dobierz kartę."
 
 msgid ""
 "Enchanted creature has \"{R}: This creature gets +1/+0 until end of turn.\""
-msgstr ""
+msgstr "Zauroczony stwór ma \"{R}: Ten stwór dostaje +1/+0 do końca tury.\""
 
 #: Ember Swallower
 msgid "{5}{R}{R}: Monstrosity 3"
@@ -1018,11 +1021,15 @@ msgstr ""
 msgid ""
 "Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you."
 msgstr ""
+"Ilekroć Firedrinker Satyr otrzymuje obrażenia, zadaje tyle samo obrażeń "
+"tobie."
 
 msgid ""
 "{1}{R}: Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to "
 "you."
 msgstr ""
+"{1}{R}: Firedrinker Satyr dostaje +1/+0 do końca tury i zadaje 1 obrażenie "
+"tobie."
 
 #: Flamespeaker Adept
 msgid ""
@@ -1082,40 +1089,51 @@ msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros."
 msgstr ""
+"Ilekroć zauroczony stwór atakuje, połóż na nim znacznik +1/+1. Następnie "
+"jeśli ma on trzy lub więcej znaczników +1/+1, poświęć Ordeal of Purphoros."
 
 msgid ""
 "When you sacrifice Ordeal of Purphoros, it deals 3 damage to target creature "
 "or player."
 msgstr ""
+"Kiedy poświęcasz Ordeal of Purphoros, zadaje on wskazanemu stworowi lub "
+"graczowi 3 obrażenia."
 
 #: Peak Eruption
 msgid ""
 "Destroy target Mountain. Peak Eruption deals 3 damage to that land's "
 "controller."
 msgstr ""
+"Zniszcz wskazaną Górę. Peak Eruption zadaje władcy owego lądu 3 obrażenia."
 
 #: Portent of Betrayal
 msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. Scry 1."
 msgstr ""
+"Przejmij władanie nad wskazanym stworem do końca tury. Odśwież tego stwora. "
+"Dostaje on pośpiech do końca tury. Wróż 1."
 
 #: Priest of Iroas
 msgid "{3}{W}, Sacrifice Priest of Iroas: Destroy target enchantment."
-msgstr ""
+msgstr "{3}{W}, poświęć Priest of Iroas: Zniszcz wskazany urok."
 
 msgid ""
 "As long as your devotion to red is less than five, Purphoros isn't a "
 "creature."
 msgstr ""
+"Dopóki twój kult czerwonego jest mniejszy niż pięć, Purphoros nie jest "
+"stworem."
 
 msgid ""
 "Whenever a creature enters the battlefield under your control, Purphoros "
 "deals 2 damage to each opponent."
 msgstr ""
+"Ilekroć na pole walki wchodzi stwór pod twoje władanie, Purphoros zadaje 2 "
+"obrażenia każdemu przeciwnikowi."
 
 msgid "{2}{R}: Each creature you control gets +1/+0 until end of turn."
-msgstr ""
+msgstr "{2}{R}: Każdy stwór, którym władasz, dostaje +1/+0 do końca tury."
 
 #: Purphoros' Emissary
 msgid "Bestow {6}{R}"
@@ -1170,7 +1188,7 @@ msgstr ""
 
 #: Stormbreath Dragon
 msgid "Flying, haste, protection from white"
-msgstr ""
+msgstr "Latanie, pośpiech, ochrona przed białym"
 
 msgid "{5}{R}{R}: Monstrosity 3."
 msgstr ""
@@ -1204,10 +1222,13 @@ msgid ""
 "three target lands you control each become 2/2 Warrior creatures until end "
 "of turn. They're still lands."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Anthousa, Setessan Hero, najwyżej trzy "
+"wskazane lądy, którymi władasz, stają się stworami Warrior 2/2 każdy i nadal "
+"są lądami."
 
 #: Arbor Colossus Nessian Asp
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 msgid "{3}{G}{G}{G}: Monstrosity 3."
 msgstr "{3}{G}{G}{G}: Monstrualność 3."
@@ -1268,16 +1289,18 @@ msgstr ""
 
 #: Fade into Antiquity
 msgid "Exile target artifact or enchantment."
-msgstr ""
+msgstr "Wygnaj wskazany artefakt lub urok."
 
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: Hunt the Hunter
 msgid ""
 "Target green creature you control gets +2/+2 until end of turn. If fights "
 "target green creature an opponent controls."
 msgstr ""
+"Wskazany zielony stwór, którym władasz, dostaje +2/+2 do końca tury. Walczy "
+"on ze wskazanym zielonym stworem, którym włada przeciwnik."
 
 #: Karametra's Acolyte
 msgid ""
@@ -1298,17 +1321,17 @@ msgid "Bestow {3}{G}"
 msgstr "Obdarowanie {3}{G}"
 
 msgid "Enchanted creature gets +2/+2 and has reach."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma zasięg."
 
 #: Mistcutter Hydra
 msgid "Mistcutter Hydra can't be countered."
-msgstr ""
+msgstr "Mistcutter Hydra nie może być skontrowana."
 
 msgid "Haste, protection from blue"
-msgstr ""
+msgstr "Pośpiech, ochrona przed niebieskim"
 
 msgid "Mistcutter Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Mistcutter Hydra wchodzi na pole walki z X znacznikami +1/+1."
 
 #: Nemesis of Mortals
 msgid ""
@@ -1396,11 +1419,11 @@ msgstr ""
 
 #: Satyr Piper
 msgid "{3}{G}: Target creature must be blocked if able."
-msgstr ""
+msgstr "{3}{G}: Wskazany stwór musi być blokowany jeśli to możliwe."
 
 #: Savage Surge
 msgid "Target creature gets +2/+2 until end of turn. Untap that creature."
-msgstr ""
+msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Odśwież owego stwora."
 
 #: Shredding Winds
 msgid "Shredding Winds deals 7 damage to target creature with flying."
@@ -1415,7 +1438,7 @@ msgstr ""
 
 #: Sylvan Caryatid
 msgid "Defender, hexproof"
-msgstr ""
+msgstr "Obronność, antyklątwa"
 
 #: Opaline Unicorn
 msgid "{T}: Add one mana of any color to your mana pool."
@@ -1438,29 +1461,37 @@ msgid ""
 "Until end of turn, up to two target creatures you control gain \"Whenever "
 "this creature deals combat damage to a player, draw a card.\""
 msgstr ""
+"Do końca tury najwyżej dwa wskazane stwory, którymi władasz, dostają "
+"\"Ilekroć ten stwór zadaje graczowi obrażenia bojowe, dobierz kartę.\""
 
 #: Akroan Hoplite
 msgid ""
 "Whenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where X is "
 "the number of attacking creatures you control."
 msgstr ""
+"Ilekroć Akroan Hoplite atakuje, dostaje on +X/+0 do końca tury, gdzie X jest "
+"liczbą atakujących stworów, którymi władasz."
 
 #: Anax and Cymede
 msgid "First strike, vigilance"
-msgstr ""
+msgstr "Pierwszy cios, czujność"
 
 msgid ""
 "- Whenever you cast a spell that targets Anax and Cymede, creatures you "
 "control get +1/+1 and gain trample until end of turn."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Anax and Cymede, stwory, którymi "
+"władasz, dostają +1/+1 oraz tratowanie do końca tury."
 
 msgid ""
 "Whenever Ashen Rider enters the battlefield or dies, exile target permanent."
 msgstr ""
+"Ilekroć Ashen Rider wchodzi na pole walki lub umiera, wygnaj wskazaną "
+"stałkę."
 
 #: Ashiok, Nightmare Weaver
 msgid "[+2]: Exile the top three cards of target opponent's library."
-msgstr ""
+msgstr "[+2]: Wygnaj trzy wierzchnie karty z biblioteki wskazanego przeciwnika."
 
 msgid ""
 "[-X]: Put a creature card with converted mana cost X exiled with Ashiok, "
@@ -1513,56 +1544,66 @@ msgstr ""
 msgid ""
 "As long as Fleecemane Lion is Monstrous, it has hexproof and indestructible."
 msgstr ""
+"Dopóki Fleecemane Lion jest monstrualny, ma antyklątwę i niezniszczalność."
 
 #: Spellheart Chimera
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 msgid "Whenever you draw a card, you gain 1 life."
-msgstr ""
+msgstr "Ilekroć dobierasz kartę, zyskujesz 1 życie."
 
 #: Kragma Warcaller
 msgid "Minotaur creatures you control have haste."
-msgstr ""
+msgstr "Stwory Minotaur, którymi władasz, mają pośpiech."
 
 msgid ""
 "Whenever a Minotaur you control attacks, it gets +2/+0 until end of turn."
 msgstr ""
+"Ilekroć Minotaur, którym władasz, atakuje, dostaje on +2/+0 do końca tury."
 
 msgid ""
 "Whenever Medomai the Ageless deals combat damage to a player, take an extra "
 "turn after this one."
 msgstr ""
+"Ilekroć Medomai the Ageless zadaje graczowi obrażenia bojowe, weź dodatkową "
+"turę po bieżącej."
 
 msgid "Medomai the Ageless can't attack during extra turns."
-msgstr ""
+msgstr "Medomai the Ageless nie może atakować podczas dodatkowych tur."
 
 #: Pharika's Mender
 msgid ""
 "When Pharika's Mender enters the battlefield, you may return target creature "
 "or enchantment card from your graveyard to your hand."
 msgstr ""
+"Kiedy Pharika's Mender wchodzi na pole walki, możesz przywrócić wskazaną "
+"kartę stwora lub uroku ze swojego cmentarza do swojej ręki."
 
 #: Polis Crusher
 msgid "Trample, protection from enchantments"
-msgstr ""
+msgstr "Tratowanie, ochrona przed urokami"
 
 msgid "{4}{R}{G}: Monstrosity 3"
-msgstr ""
+msgstr "{4}{R}{G}: Monstrualność 3"
 
 msgid ""
 "Whenever Polis Crusher deals combat damage to a player, if Polis Crusher is "
 "monstrous, destroy target enchantment that player controls."
 msgstr ""
+"Ilekroć Polis Crusher zadaje graczowi obrażenia bojowe, jeśli Polis Crusher "
+"jest monstrualny, zniszcz wskazany urok, którym włada ów gracz."
 
 #: Prophet of Kruphix
 msgid ""
 "Untap all creatures and lands you control during each other player's untap "
 "step."
 msgstr ""
+"Odśwież wszystkie stwory i lądy, którymi władasz, podczas kroku odświeżania "
+"każdego innego gracza."
 
 msgid "You may cast creature cards as though they had flash."
-msgstr ""
+msgstr "Możesz rzucać czary stworów tak jakby miały błysk."
 
 #: Psychic Intrusion
 msgid ""
@@ -1574,20 +1615,20 @@ msgstr ""
 
 #: Reaper of the Wilds
 msgid "Whenever another creature dies, scry 1."
-msgstr ""
+msgstr "Ilekroć umiera inny stwór, wróż 1."
 
 msgid "{B}: Reaper of the Wilds gains deathtouch until end of turn."
-msgstr ""
+msgstr "{B}: Reaper of the Wilds dostaje dotyk śmierci do końca tury."
 
 msgid "{1}{G}: Reaper of the Wilds gains hexproof until end of turn."
-msgstr ""
+msgstr "{1}{G}: Reaper of the Wilds dostaje antyklątwę do końca tury."
 
 #: Sentry of the Underworld
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 msgid "{W}{B}, Pay 3 life: Regenerate Sentry of the Underworld."
-msgstr ""
+msgstr "{W}{B}, zapłać 3 życia: Zregeneruj Sentry of the Underworld."
 
 msgid "{1}{U}: Target creature an opponent controls attacks this turn if able."
 msgstr ""
