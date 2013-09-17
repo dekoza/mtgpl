@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-17 21:20+0200\n"
+"PO-Revision-Date: 2013-09-17 23:00+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379449245.192777\n"
+"X-POOTLE-MTIME: 1379455231.974122\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -120,8 +120,8 @@ msgid ""
 "Whenever an instant or sorcery spell you control deals damage, put two 1/1 "
 "red and white Soldier creature tokens with haste onto the battlefield."
 msgstr ""
-"Ilekroć sztuczka lub gusła, którymi władasz, zada obrażenia, połóż na polu "
-"walki dwa żetony czerwono-białego stwora Soldier 1/1 z pośpiechem."
+"Ilekroć czar sztuczki lub obrzędu, którymi władasz, zada obrażenia, połóż na "
+"polu walki dwa żetony czerwono-białego stwora Soldier 1/1 z pośpiechem."
 
 #: Flesh // Blood (Blood)
 msgid ""
@@ -409,8 +409,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, you may switch Fluxcharger's "
 "power and toughness until end of turn."
 msgstr ""
-"Ilekroć rzucasz sztuczkę lub gusła, możesz do końca tury zamienić siłę i "
-"wytrzymałość Fluxchargera."
+"Ilekroć rzucasz czar sztuczki lub obrzędu, możesz do końca tury zamienić "
+"siłę i wytrzymałość Fluxchargera."
 
 #: Gaze of Granite
 msgid "Destroy each nonland permanent with converted mana cost X or less."
@@ -685,19 +685,18 @@ msgstr ""
 msgid "Play with the top card of your library revealed."
 msgstr "Graj z górną kartą twojej biblioteko odkrytą."
 
-#, fuzzy
 msgid ""
 "You may cast the top card of your library if it's an instant or sorcery card."
 msgstr ""
-"Możesz rzucać górną kartę twojej biblioteki jeśli jest to sztuczka lub "
-"gusła."
+"Możesz rzucać górną kartę swojej biblioteki jeśli jest to sztuczka lub "
+"obrzęd."
 
 msgid ""
 "Whenever you cast an instant or sorcery spell from your library, copy it. "
 "You may choose new targets for the copy."
 msgstr ""
-"Ilekroć rzucasz sztuczkę lub gusła ze swojej biblioteki, skopiuj ów czar. "
-"Możesz wskazać nowe cele dla owej kopii."
+"Ilekroć rzucasz czar sztuczki lub obrzędu ze swojej biblioteki, skopiuj ów "
+"czar. Możesz wskazać nowe cele dla owej kopii."
 
 #: Mending Touch
 #, fuzzy
@@ -1021,13 +1020,12 @@ msgstr "Podwójny cios"
 msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr "Savageborn Hydra wchodzi na wole walki z X znacznikami +1/+1 na niej."
 
-#, fuzzy
 msgid ""
 "{1}{(r/g)}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability "
 "only any time you could cast a sorcery."
 msgstr ""
-"{1}{(r/g)}: Połóż znacznik +1/+1 na Savageborn Hydra'ze. Aktywuj tę zdolność "
-"tylko wtedy, kiedy mógłbyś rzucić gusła."
+"{1}{(r/g)}: Połóż znacznik +1/+1 na Savageborn Hydrze. Aktywuj tę zdolność "
+"tylko wtedy, kiedy mógłbyś rzucić obrzęd."
 
 #: Scab-Clan Giant
 #, fuzzy

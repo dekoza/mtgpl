@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 13:17+0200\n"
-"PO-Revision-Date: 2013-09-17 22:13+0200\n"
+"PO-Revision-Date: 2013-09-17 22:52+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379452400.444694\n"
+"X-POOTLE-MTIME: 1379454758.513854\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Battlewise Valor
@@ -1413,6 +1413,8 @@ msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea."
 msgstr ""
+"Ilekroć zauroczony stwór atakuje, połóż na nim znacznik +1/+1. Następnie "
+"jeśli ma on trzy lub więcej znaczników +1/+1, poświęć Ordeal of Nylea."
 
 msgid ""
 "When you sacrifice Ordeal of Nylea, search your library for two basic land "
@@ -1536,14 +1538,20 @@ msgid ""
 "Nightmare Weaver onto the battlefield under your control. That creature is a "
 "Nightmare in addition to its other types."
 msgstr ""
+"[-X]: Połóż na polu walki pod swoim władaniem kartę stwora o łącznym koszcie "
+"many X wygnaną z użyciem Ashiok, Nightmare Weaver. Ów stwór jest dodatkowo "
+"typu Nightmare."
 
 msgid "[-10]: Exile all cards from all opponents' hands and graveyards."
 msgstr ""
+"[-10]: Wygnaj wszystkie karty z rąk i cmentarzy wszystkich przeciwników."
 
 msgid ""
 "- Whenever you cast a spell that targets Battlewise Hoplite, put a +1/+1 "
 "counter on Battlewise Hoplite, then scry 1."
 msgstr ""
+"- Ilekroć rzucasz czar wskazujący na Battlewise Hoplite, połóż znacznik "
+"+1/+1 na Battlewise Hoplite, następnie wróż 1."
 
 msgid ""
 "(To scry 1, look at the top card of your library, then you may put that card "
@@ -1557,27 +1565,37 @@ msgid ""
 "When Chronicler of Heroes enters the battlefield, draw a card if you control "
 "a creature with a +1/+1 counter on it."
 msgstr ""
+"Kiedy Chronicler of Heroes wchodzi na pole walki, dobierz kartę jeśli "
+"władasz stworem posiadającym znacznik +1/+1."
 
 #: Daxos of Meletis
 msgid "Daxos of Meletis can't be blocked by creatures with power 3 or greater."
 msgstr ""
+"Daxos of Meletis nie może być blokowany przez stwory o sile 3 lub większej."
 
+#, fuzzy
 msgid ""
 "Whenever Daxos of Meletis deals combat damage to a player, exile the top "
 "card of that player's library. You gain life equal to that card's converted "
 "mana cost. Until end of turn, you may cast that card and you may spend mana "
 "as though it were many of any color to cast it."
 msgstr ""
+"Ilekroć Daxos of Meletis zadaje graczowi obrażenia bojowe, wygnaj wierzchnią "
+"kartę owego gracza. Zyskujesz tyle życia, ile wynosi łączny koszt many owej "
+"karty. Do końca tury możesz zagrać ową kartę i możesz wydawać manę tak, "
+"jakby to była mana dowolnego koloru potrzebnego, by ją zagrać."
 
 #: Destructive Revelry
 msgid ""
 "Destroy target artifact or enchantment. Destructive Revelry deals 2 damage "
 "to that permanent's controller."
 msgstr ""
+"Zniszcz wskazany artefakt lub urok. Destructive Revelry zadaje 2 obrażenia "
+"władcy owej stałki."
 
 #: Fleecemane Lion
 msgid "{3}{G}{W}: Monstrosity 1."
-msgstr ""
+msgstr "{3}{G}{W}: Monstrualność 1."
 
 msgid ""
 "As long as Fleecemane Lion is Monstrous, it has hexproof and indestructible."
@@ -1644,12 +1662,17 @@ msgid "You may cast creature cards as though they had flash."
 msgstr "Możesz rzucać czary stworów tak jakby miały błysk."
 
 #: Psychic Intrusion
+#, fuzzy
 msgid ""
 "Target opponent reveals his or her hand. You choose a nonland card from that "
 "player's graveyard or hand and exile it. You may cast that card for as long "
 "as it remains exiled, and you may spend mana as though it were mana of any "
 "color to cast that spell."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz kartę nie będącą lądem z "
+"cmentarza lub ręki owego gracza i wyganiasz ją. Możesz zagrać ową kartę "
+"dopóki pozostaje ona wygnana i możesz wydawać manę tak, jakby była maną "
+"dowolnego koloru potrzebnego do rzucenia owego czaru."
 
 #: Reaper of the Wilds
 msgid "Whenever another creature dies, scry 1."
@@ -1670,14 +1693,18 @@ msgstr "{W}{B}, zapłać 3 życia: Zregeneruj Sentry of the Underworld."
 
 msgid "{1}{U}: Target creature an opponent controls attacks this turn if able."
 msgstr ""
+"{1}{U}: Wskazany stwór, którego kontroluje przeciwnik, atakuje w tej turze "
+"jeśli może."
 
 msgid "{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn."
-msgstr ""
+msgstr "{1}{B}, {T}: Atakujące stwory dostają -1/-1 do końca tury."
 
 msgid ""
 "Spellheart Chimera's power is equal to the number of instant and sorcery "
 "cards in your graveyard."
 msgstr ""
+"Spellheart Chimera's ma siłę równą liczbie kart sztuczek i obrzędów w twoim "
+"cmentarzu."
 
 #: Steam Augury
 msgid ""
@@ -1685,130 +1712,168 @@ msgid ""
 "An opponent chooses one of those piles. Put that pile into your hand and the "
 "other into your graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart swojej biblioteki i rozdziel je na dwa stosy. "
+"Przeciwnik wybiera jeden z tych stosów. Umieść ów stos w swojej ręce, a "
+"pozostały w swoim cmentarzu."
 
 #: Triad of Fates
 msgid "{1}, {T}: Put a fate counter on another target creature."
-msgstr ""
+msgstr "{1}, {T}: Umieść znacznik przeznaczenia na wskazanym stworze."
 
 msgid ""
 "{W}, {T}: Exile target creature that has a fate counter on it, then return "
 "it to the battlefield under its owner's control."
 msgstr ""
+"{W}, {T}: Wygnaj wskazanego stwora posiadającego znacznik przeznaczenia, a "
+"następnie przywróć go na pole walki pod swoim władaniem."
 
 msgid ""
 "{B}, {T}: Exile target creature that has a fate counter on it. Its "
 "controller draws two cards."
 msgstr ""
+"{B}, {T}: Wygnaj wskazanego stwora posiadającego znacznik przeznaczenia. "
+"Jego władca dobiera dwie karty."
 
 #: Tymaret, the Murder King
 msgid ""
 "{1}{R}, Sacrifice another creature: Tymaret, the Murder King deals 2 damage "
 "to target player."
 msgstr ""
+"{1}{R}, poświęć innego stwora: Tymaret, the Murder King zadaje 2 obrażenia "
+"wskazanemu graczowi."
 
 msgid ""
 "{1}{B}. Sacrifice a creature: Return Tymaret from your graveyard to your "
 "hand."
 msgstr ""
+"{1}{B}, poświęć stwora: Przywróć Tymaret ze swojego cmentarza na swoją rękę."
 
 #: Underworld Cerberus
 msgid "Underworld Cerberus can't be blocked except by three or more creatures."
-msgstr ""
+msgstr "Underworld Cerberus nie może być blokowany przez mniej niż trzy stwory."
 
 msgid "Cards in graveyards can't be the targets of spells or abilities."
-msgstr ""
+msgstr "Karty w cmentarzach nie mogą być wskazywane przez czary lub zdolności."
 
 msgid ""
 "When Underworld Cerberus dies, exile it and each player returns all creature "
 "cards from his or her graveyard to his or her hand."
 msgstr ""
+"Kiedy Underworld Cerberus umiera, wygnaj go, a każdy gracz przywraca "
+"wszystkie karty stworów ze swojego cmentarza na swoją rękę."
 
 #: Xenagos, the Reveler
 msgid ""
 "[+1]: Add X mana in any combination of {R} and/or {G} to your mana pool, "
 "where X is the number of creatures you control."
 msgstr ""
+"[+1]: Dodaj X many w dowolnej kombinacji {R} i {G} do swojego zasobnika "
+"many, gdzie X jest liczbą stworów, którymi władasz."
 
 msgid ""
 "[0]: Put a 2/2 red and green Satyr creature token with haste onto the "
 "battlefield."
 msgstr ""
+"[0]: Połóż na polu walki żeton czerwono-zielonego stwora Satyr 2/2 z "
+"pośpiechem."
 
 msgid ""
 "[-6]: Exile the top seven cards of your library. You may put any number of "
 "creature and/or land cards from among them onto the battlefield."
 msgstr ""
+"[-6]: Wygnaj siedem wierzchnich kart swojej biblioteki. Możesz położyć na "
+"polu walki dowolną liczbę kart stworów i lądów spośród nich."
 
 msgid ""
 "When Akroan Horse enters the battlefield, an opponent gains control of it."
 msgstr ""
+"Kiedy Akroan Horse wchodzi na pole walki, przeciwnik zyskuje władanie nad "
+"nim."
 
 msgid ""
 "At the beginning of your upkeep, each opponent puts a 1/1 white Soldier "
 "creature token onto the battlefield."
 msgstr ""
+"Na początku twojego utrzymania, każdy przeciwnik kładzie na polu walki żeton "
+"białego stwora Soldier 1/1."
 
 #: Bronze Sable Burnished Hart
 msgid ""
 "{3}, Sacrifice Burnished Hart: Search your library for up to two basic land "
 "cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"{3}, poświęć Burnished Hart: Poszukaj w swojej bibliotece najwyżej dwie "
+"karty podstawowych lądów, połóż je na polu walki jako zużyte, a następnie "
+"przetasuj swoją bibliotekę."
 
 #: Colossus of Akros
 msgid "Defender, indestructible"
-msgstr ""
+msgstr "Obronność, niezniszczalność"
 
 msgid "{10}: Monstrosity 10."
-msgstr ""
+msgstr "{10}: Monstrualność 10."
 
 msgid ""
 "As long as Colossus of Akros is monstrous, it has trample and can attack as "
 "though it didn't have defender."
 msgstr ""
+"Dopóki Colossus of Akros jest monstrualny, ma tratowanie i może atakować "
+"jakby nie miał obronności."
 
 #: Flamecast Wheel
 msgid ""
 "{5}, {T}, Sacrifice Flamecast Wheel: Flamecast Wheel deals 3 damage to "
 "target creature."
 msgstr ""
+"{5}, {T}, poświęć Flamecast Wheel: Flamecast Wheel zadaje 3 obrażenia "
+"wskazanemu stworowi."
 
 #: Fleetfeather Sandals
 msgid "Equipped creature has flying and haste."
-msgstr ""
+msgstr "Ekwipowany stwór ma latanie i pośpiech."
 
 msgid "Equip {2}"
-msgstr ""
+msgstr "Ekwipuj {2}"
 
 #: Prowler's Helm
 msgid "Equipped creature can't be blocked except by walls."
-msgstr ""
+msgstr "Ekwipowany stwór może być blokowany wyłącznie przez Ściany."
 
 #: Pyxis of Pandemonium
 msgid "{T}: Each player exiles the top card of his or her library face down."
 msgstr ""
+"{T}: Każdy gracz wygania wierzchnią kartę swojej biblioteki obrazkiem do "
+"dołu."
 
 msgid ""
 "{7}, {T}: Sacrifice Pyxis of Pandemonium: Each player turns face up all "
 "cards he or she owns exiled with Pyxis of Pandemonium, then puts all "
 "permanent cards among them onto the battlefield."
 msgstr ""
+"{7}, {T}: poświęć Pyxis of Pandemonium: Każdy gracz odwraca wszystkie własne "
+"karty wygnane z użyciem Pyxis of Pandemonium, następnie kładzie wszystkie "
+"karty stałek spośród nich na polu walki."
 
 #: Traveler's Amulet
+#, fuzzy
 msgid ""
 "{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, "
 "reveal it, and put it into your hand. Then shuffle your library."
 msgstr ""
+"{1}, poświęć Traveler's Amulet: Poszukaj w swojej bibliotece karty "
+"podstawowego lądu, ujawnij ją i dołóż do swojej ręki. Następnie przetasuj "
+"swoją bibliotekę."
 
 #: Witches' Eye
 msgid "Equipped creature has \"{1}, {T}: Scry 1.\""
-msgstr ""
+msgstr "Ekwipowany stwór ma \"{1}, {T}: Wróż 1.\""
 
 msgid "Equip {1}"
-msgstr ""
+msgstr "Ekwipuj {1}"
 
 #: Nykthos, Shrine to Nyx Unknown Shores
 msgid "{T}: Add {1} to your mana pool."
-msgstr ""
+msgstr "{T}: Dodaj {1} do swojego zasobnika many."
 
 msgid ""
 "{2}, {T}: Choose a color. Add to your mana pool an amount of mana of that "
@@ -1826,53 +1891,53 @@ msgstr ""
 
 #: Temple of Abandon
 msgid "Temple of Abandon enters the battlefield tapped."
-msgstr ""
+msgstr "Temple of Abandon wchodzi na pole walki jako zużyty."
 
 msgid "When Temple of Abandon enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy Temple of Abandon wchodzi na pole walki, wróż 1."
 
 msgid "{T}: Add {R} or {G} to your mana pool."
-msgstr ""
+msgstr "{T}: Dodaj {R} lub {G} do swojego zasobnika many."
 
 #: Temple of Deceit
 msgid "Temple of Deceit enters the battlefield tapped."
-msgstr ""
+msgstr "Temple of Deceit  wchodzi na pole walki jako zużyty."
 
 msgid "When Temple of Deceit enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy Temple of Deceit wchodzi na pole walki, wróż 1."
 
 msgid "{T}: Add {U} or {B} to your mana pool."
-msgstr ""
+msgstr "{T}: Dodaj {U} lub {B} do swojego zasobnika many."
 
 #: Temple of Mystery
 msgid "Temple of Mystery enters the battlefield tapped."
-msgstr ""
+msgstr "Temple of Mystery wchodzi na pole walki jako zużyty."
 
 msgid "When Temple of Mystery enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy Temple of Mystery wchodzi na pole walki,wróż 1."
 
 msgid "{T}: Add {G} or {U} to your mana pool."
-msgstr ""
+msgstr "{T}: Dodaj {G} lub {U} do swojego zasobnika many."
 
 #: Temple of Silence
 msgid "Temple of Silence enters the battlefield tapped."
-msgstr ""
+msgstr "Temple of Silence wchodzi na pole walki jako zużyty."
 
 msgid "When Temple of Silence enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy Temple of Silence wchodzi na pole walki, wróż 1."
 
 msgid "{T}: Add {W} or {B} to your mana pool."
-msgstr ""
+msgstr "{T}: Dodaj {W} lub {B} do swojego zasobnika many."
 
 #: Temple of Triumph
 msgid "Temple of Triumph enters the battlefield tapped."
-msgstr ""
+msgstr "Temple of Triumph wchodzi na pole walki jako zużyty."
 
 msgid "When Temple of Triumph enters the battlefield, scry 1."
-msgstr ""
+msgstr "Kiedy Temple of Triumph wchodzi na pole walki, wróż 1."
 
 msgid "{T}: Add {R} or {W} to your mana pool."
-msgstr ""
+msgstr "{T}: Dodaj {R} lub {W} do swojego zasobnika many."
 
 msgid "{1}, {T}: Add one mana of any color to your mana pool."
-msgstr ""
+msgstr "{1}, {T}: Dodaj jedną manę dowolnego koloru do swojego zasobnika many."
