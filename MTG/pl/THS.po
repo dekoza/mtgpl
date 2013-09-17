@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 13:17+0200\n"
-"PO-Revision-Date: 2013-09-17 21:06+0200\n"
+"PO-Revision-Date: 2013-09-17 21:20+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379448371.939563\n"
+"X-POOTLE-MTIME: 1379449200.938054\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Battlewise Valor
@@ -467,7 +467,7 @@ msgstr ""
 
 #: Mnemonic Wall Returned Phalanx Akroan Horse Guardians of Meletis
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 msgid ""
 "When Mnemonic Wall enters the battlefield, you may return target instant or "

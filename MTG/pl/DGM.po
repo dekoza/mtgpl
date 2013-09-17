@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-17 13:41+0200\n"
+"PO-Revision-Date: 2013-09-17 21:20+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379421681.685926\n"
+"X-POOTLE-MTIME: 1379449245.192777\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -234,7 +234,7 @@ msgstr ""
 
 #: Clear a Path
 msgid "Destroy target creature with defender."
-msgstr "Zniszcz wskazanego stwora z Obrońcą."
+msgstr "Zniszcz wskazanego stwora z obronnością."
 
 #: Council of the Absolute
 msgid ""
@@ -496,7 +496,7 @@ msgstr ""
 
 #: Hired Torturer Murmuring Phantasm Nivix Cyclops
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 msgid ""
 "{3}{B}, {T}: Target opponent loses 2 life, then reveals a card at random "
@@ -735,8 +735,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 "
 "until end of turn and can attack this turn as though it didn't have defender."
 msgstr ""
-"Ilekroć rzucasz sztuczkę lub gusła, Nivix Cyclops dostaje +3/+0 do końca "
-"tury i może atakować w tej turze, jak by nie miał Obrońcy."
+"Ilekroć rzucasz czar sztuczki lub obrzędu, Nivix Cyclops dostaje +3/+0 do "
+"końca tury i może atakować w tej turze, jak by nie miał obronności."
 
 #: Notion Thief Skylasher
 msgid "Flash"

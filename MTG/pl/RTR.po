@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 02:36+0200\n"
-"PO-Revision-Date: 2013-09-17 13:22+0200\n"
+"PO-Revision-Date: 2013-09-17 21:23+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379420575.669813\n"
+"X-POOTLE-MTIME: 1379449427.274253\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Abrupt Decay
@@ -124,12 +124,14 @@ msgstr ""
 #: Axebane Guardian Doorkeeper Gatecreeper Vine Lobber Crew Ogre Jailbreaker
 #: Trestle Troll
 msgid "Defender"
-msgstr "Obrońca"
+msgstr "Obronność"
 
 msgid ""
 "{T}: Add X mana in any combination of colors to your mana pool, where X is "
 "the number of creatures with defender you control."
 msgstr ""
+"{T}: Dodaj X many w dowolnej kombinacji kolorów do swojego zasobnika many, "
+"gdzie X jest liczbą władanych przez ciebie stworów z obronnością."
 
 #: Azorius Arrester
 msgid ""
@@ -464,6 +466,9 @@ msgid ""
 "his or her graveyard, where X is the number of creatures with defender you "
 "control."
 msgstr ""
+"{2}{U}, {T}: Wskazany gracz wkłada X wierzchnich kart swojej biblioteki do "
+"swojego cmentarza, gdzie X jest liczbą władanych przez ciebie stworów z "
+"obronnością."
 
 #: Downsize
 msgid "Target creature you don't control gets -4/-0 until end of turn."
@@ -752,7 +757,7 @@ msgstr ""
 
 #: Hover Barrier
 msgid "Defender, flying"
-msgstr "Oborńca, Latanie"
+msgstr "Obronność, latanie"
 
 #: Hussar Patrol Izzet Staticaster Skyline Predator
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
@@ -1052,6 +1057,8 @@ msgid ""
 "Ogre Jailbreaker can attack as though it didn't have defender as long as you "
 "control a Gate."
 msgstr ""
+"Ogre Jailbreaker może atakować jakby nie miał obronności dopóki kontrolujesz "
+"Bramę."
 
 #: Overgrown Tomb
 msgid "({T}: Add {B} or {G} to your mana pool.)"

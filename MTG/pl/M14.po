@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-17 13:44+0200\n"
+"PO-Revision-Date: 2013-09-17 21:21+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379421866.629653\n"
+"X-POOTLE-MTIME: 1379449266.374872\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -121,7 +121,7 @@ msgstr ""
 
 #: Angelic Wall Dragon Egg Guardian of the Ages Frost
 msgid "Defender (This creature can't attack.)"
-msgstr "Obrońca (Ten stwór nie może atakować.)"
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: Archaeomancer
 msgid ""
@@ -790,13 +790,12 @@ msgstr ""
 "przypisać pozostałe obrażenia w broniącego się gracza lub wędrowca.)"
 
 # Nie jestem przekonany, czy Defender jest dobrze przetłumaczony. Wolałbym słowo, które lepiej określa cechę, a nie rolę.
-#, fuzzy
 msgid ""
 "When a creature attacks you or a planeswalker you control, if Guardian of "
 "the Ages has defender, it loses defender and gains trample."
 msgstr ""
-"Kiedy stwór atakuje ciebie lub wędrowca, którym władasz, jeśli Guardian of "
-"Ages jest Obrońcą, przestaje być Obrońcą i zyskuje Tratowanie."
+"Kiedy jakiś stwór atakuje ciebie lub wędrowca, którym władasz, jeśli "
+"Guardian of Ages ma obronność, traci obronność i zyskuje tratowanie."
 
 #: Haunted Plate Mail
 msgid "Equipped creature gets +4/+4."
@@ -1663,7 +1662,7 @@ msgstr ""
 
 #: Wall of Swords
 msgid "Defender (This creature can't attack)"
-msgstr "Obrońca (Ten stwór nie może atakować)"
+msgstr "Obronność (Ten stwór nie może atakować)"
 
 #, fuzzy
 msgid "Creature spells with flying you cast cost {1} less to cast."
