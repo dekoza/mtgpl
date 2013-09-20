@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-17 23:00+0200\n"
+"PO-Revision-Date: 2013-09-20 08:03+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379455231.974122\n"
+"X-POOTLE-MTIME: 1379660622.636015\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -31,7 +31,7 @@ msgid ""
 "{U}: Exile Ætherling. Return it to the battlefield under its owner's control "
 "at the beginning of the next end step."
 msgstr ""
-"{U}: Wygnaj Ætherlinga. Przywróć go na pole walki pod władaniem jego "
+"{U}: Wypędź Ætherlinga. Przywróć go na pole walki pod władaniem jego "
 "właściciela na początku następnego etapu końcowego."
 
 msgid "{U}: Ætherling can't be blocked this turn."
@@ -255,8 +255,8 @@ msgid ""
 "Exile all creature cards from target player's graveyard. You gain 3 life for "
 "each card exiled this way."
 msgstr ""
-"Wygnaj wszystkie karty stworów z cmentarza wskazanego gracza. Zyskujesz 3 "
-"życia za każdą kartę stwora wygnaną w ten sposób."
+"Wypędź wszystkie karty stworów z cmentarza wskazanego gracza. Zyskujesz 3 "
+"życia za każdą kartę stwora wypędzoną w ten sposób."
 
 #: Armed // Dangerous (Dangerous)
 #, fuzzy
@@ -397,8 +397,8 @@ msgid ""
 "Exile target creature card from a graveyard. Put X +1/+1 counters on target "
 "creature, where X is the power of the card you exiled."
 msgstr ""
-"Wygnaj wskazaną kartę stwora z cmentarza. Połóż X znaczników +1/+1 na "
-"wskazanym stworze, gdzie X to siła karty, którą wygnano."
+"Wypędź wskazaną kartę stwora z cmentarza. Połóż X znaczników +1/+1 na "
+"wskazanym stworze, gdzie X to siła karty, którą wypędzono."
 
 #: Fluxcharger Goblin Test Pilot Maze Glider Mirko Vosk, Mind Drinker Rakdos
 #: Drake Wind
@@ -490,7 +490,7 @@ msgid ""
 "control. Whenever that creature deals combat damage to a player, its "
 "controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
-"Szyfruj (Następnie możesz wygnać tę kartę kodując ją na stworze, którym "
+"Szyfruj (Następnie możesz wypędzić tę kartę kodując ją na stworze, którym "
 "władasz. Ilekroć ów stwór zada graczowi obrażenia bojowe, jego władca może "
 "rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
 
@@ -590,7 +590,7 @@ msgid ""
 "beginning of the next combat, return those cards to the battlefield under "
 "their owner's control and those creatures gain haste until end of turn."
 msgstr ""
-"{R}{W}, wygnaj Legion's Initiative: Wygnaj wszystkie stwory, którymi "
+"{R}{W}, wypędź Legion's Initiative: Wypędź wszystkie stwory, którymi "
 "władasz. Na początku następnej walki przywróć te karty na pole walki pod "
 "władzą ich właściciela. Stwory te dostają pośpiech do końca tury."
 
@@ -810,7 +810,6 @@ msgstr ""
 "wymuszeń, każdy działa osobno.)"
 
 #: Possibility Storm
-#, fuzzy
 msgid ""
 "Whenever a player casts a spell from his or her hand, that player exiles it, "
 "then exiles cards from the top of his or her library until he or she exiles "
@@ -818,11 +817,11 @@ msgid ""
 "without paying its mana cost. Then he or she puts all cards exiled with "
 "Possibility Storm on the bottom of his or her library in a random order."
 msgstr ""
-"Ilekroć gracz rzuca czar z ręki, ten gracz usuwa go, następnie usuwa karty z "
-"góry swojej biblioteki do czasu aż usunie kartę, która dzieli z nią typ "
-"karty. Ten gracz może rzucić tą kartę bez płacenia jej kosztu many. Nastęnie "
-"kładzie on wszystkie usunięte przez Possibility Storm karty na spodzie "
-"swojej biblioteki w losowej kolejności."
+"Ilekroć gracz rzuca czar z ręki, ten gracz wypędza go, następnie wypędza "
+"karty z góry swojej biblioteki do czasu aż wypędzi kartę, która dzieli z nią "
+"typ karty. Ten gracz może rzucić ową kartę bez płacenia jej kosztu many. "
+"Następnie kładzie on wszystkie wypędzone przez Possibility Storm karty na "
+"spodzie swojej biblioteki w losowej kolejności."
 
 #: Profit // Loss (Profit)
 #, fuzzy
@@ -911,10 +910,10 @@ msgid ""
 "graveyard, hand, and library for any number of cards with the same name as "
 "that card and exile them. Then that player shuffles his or her library."
 msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz do X kart niebędących "
-"lądami i wyganiasz je. Za każdą kartę wygnaną w ten sposób, przeszukaj "
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz do X kart nie będących "
+"lądami i wypędzasz je. Za każdą kartę wypędzoną w ten sposób, przeszukaj "
 "cmentarz, rękę i bibliotekę owego gracza w poszukiwaniu kart o tej samej "
-"nazwie i wygnaj je. Następnie ten gracz tasuje swoja bibliotekę."
+"nazwie i wypędź je. Następnie ten gracz tasuje swoja bibliotekę."
 
 #: Catch // Release (Release)
 #, fuzzy

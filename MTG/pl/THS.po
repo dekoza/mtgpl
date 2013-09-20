@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-17 13:17+0200\n"
-"PO-Revision-Date: 2013-09-17 22:52+0200\n"
+"PO-Revision-Date: 2013-09-20 08:23+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379454758.513854\n"
+"X-POOTLE-MTIME: 1379661782.719360\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Battlewise Valor
@@ -63,7 +63,7 @@ msgid ""
 "When Chained to the Rocks enters the battlefield, exile target creature an "
 "opponent controls until Chained to the Rocks leaves the battlefield."
 msgstr ""
-"Kiedy Chained to the Rocks wchodzi na pole walki, wygnaj wskazanego stwora "
+"Kiedy Chained to the Rocks wchodzi na pole walki, wypędź wskazanego stwora "
 "władanego przez przeciwnika dopóki Chained to the Rocks nie opuści pola "
 "walki."
 
@@ -160,7 +160,7 @@ msgstr ""
 
 #: Glare of Heresy
 msgid "Exile target white permanent."
-msgstr "Wygnaj wskazaną białą stałkę."
+msgstr "Wypędź wskazaną białą stałkę."
 
 #: Gods Willing
 msgid ""
@@ -259,7 +259,7 @@ msgstr ""
 msgid ""
 "Exile target creature with power 2 or less. Its controller gains 4 life."
 msgstr ""
-"Wygnaj wskazanego stwora o sile 2 lub mniej. Jego władca zyskuje 4 życia."
+"Wypędź wskazanego stwora o sile 2 lub mniej. Jego władca zyskuje 4 życia."
 
 #: Leonin Snarecaster
 msgid ""
@@ -407,8 +407,8 @@ msgid ""
 "Exile X target creatures. For each creature exiled this way, its controller "
 "puts a 2/2 green Boar creature token onto the battlefield."
 msgstr ""
-"Wygnaj X wskazanych stworów. Za każdego stwora wygnanego w ten sposób, jego "
-"władca wkłada na pole walki żeton zielonego stwora Boar 2/2."
+"Wypędź X wskazanych stworów. Za każdego stwora wypędzonego w ten sposób, "
+"jego władca wkłada na pole walki żeton zielonego stwora Boar 2/2."
 
 #: Dissolve
 msgid "Counter target spell. Scry 1."
@@ -889,7 +889,7 @@ msgid ""
 msgstr ""
 "Wskaż kartę stwora w swoim cmentarzu. Zwróć tę kartę oraz poświęconą kartę "
 "na pole walki pod swoim władaniem na początku swojej następnej fazy "
-"utrzymania. Wygnaj Rescue from the Underworld."
+"utrzymania. Wypędź Rescue from the Underworld."
 
 #: Returned Centaur
 msgid ""
@@ -953,8 +953,8 @@ msgid ""
 "else. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 "{2}{B}{B}, {T}: Przywróć wskazaną kartę stwora ze swojego cmentarza na pole "
-"walki. Dostaje on pośpiech. Wygnaj go na początku najbliższego kroku "
-"końcowego. Jeśli miałby opuścić pole walki, wygnaj go zamiast umieszczać go "
+"walki. Dostaje on pośpiech. Wypędź go na początku najbliższego kroku "
+"końcowego. Jeśli miałby opuścić pole walki, wypędź go zamiast umieszczać go "
 "gdziekolwiek indziej. Aktywuj tę zdolność wyłącznie jako obrzęd."
 
 msgid ""
@@ -971,7 +971,7 @@ msgid ""
 msgstr ""
 "Anger of the Gods zadaje każdemu stworowi 3 obrażenia. Jeśli stwór, który "
 "otrzymał obrażenia w ten sposób, miałby umrzeć w tej turze, zostaje zamiast "
-"tego wygnany."
+"tego wypędzony."
 
 #: Borderland Minotaur Boulderfall
 msgid ""
@@ -1313,7 +1313,7 @@ msgstr ""
 
 #: Fade into Antiquity
 msgid "Exile target artifact or enchantment."
-msgstr "Wygnaj wskazany artefakt lub urok."
+msgstr "Wypędź wskazany artefakt lub urok."
 
 msgid "Enchanted creature gets +2/+2."
 msgstr "Zauroczony stwór dostaje +2/+2."
@@ -1526,12 +1526,12 @@ msgstr ""
 msgid ""
 "Whenever Ashen Rider enters the battlefield or dies, exile target permanent."
 msgstr ""
-"Ilekroć Ashen Rider wchodzi na pole walki lub umiera, wygnaj wskazaną "
+"Ilekroć Ashen Rider wchodzi na pole walki lub umiera, wypędź wskazaną "
 "stałkę."
 
 #: Ashiok, Nightmare Weaver
 msgid "[+2]: Exile the top three cards of target opponent's library."
-msgstr "[+2]: Wygnaj trzy wierzchnie karty z biblioteki wskazanego przeciwnika."
+msgstr "[+2]: Wypędź trzy wierzchnie karty z biblioteki wskazanego przeciwnika."
 
 msgid ""
 "[-X]: Put a creature card with converted mana cost X exiled with Ashiok, "
@@ -1539,12 +1539,12 @@ msgid ""
 "Nightmare in addition to its other types."
 msgstr ""
 "[-X]: Połóż na polu walki pod swoim władaniem kartę stwora o łącznym koszcie "
-"many X wygnaną z użyciem Ashiok, Nightmare Weaver. Ów stwór jest dodatkowo "
-"typu Nightmare."
+"many X wypędzoną z użyciem Ashiok, Nightmare Weaver. Ów stwór jest "
+"dodatkowo typu Nightmare."
 
 msgid "[-10]: Exile all cards from all opponents' hands and graveyards."
 msgstr ""
-"[-10]: Wygnaj wszystkie karty z rąk i cmentarzy wszystkich przeciwników."
+"[-10]: Wypędź wszystkie karty z rąk i cmentarzy wszystkich przeciwników."
 
 msgid ""
 "- Whenever you cast a spell that targets Battlewise Hoplite, put a +1/+1 "
@@ -1573,17 +1573,17 @@ msgid "Daxos of Meletis can't be blocked by creatures with power 3 or greater."
 msgstr ""
 "Daxos of Meletis nie może być blokowany przez stwory o sile 3 lub większej."
 
-#, fuzzy
 msgid ""
 "Whenever Daxos of Meletis deals combat damage to a player, exile the top "
 "card of that player's library. You gain life equal to that card's converted "
 "mana cost. Until end of turn, you may cast that card and you may spend mana "
 "as though it were many of any color to cast it."
 msgstr ""
-"Ilekroć Daxos of Meletis zadaje graczowi obrażenia bojowe, wygnaj wierzchnią "
-"kartę owego gracza. Zyskujesz tyle życia, ile wynosi łączny koszt many owej "
-"karty. Do końca tury możesz zagrać ową kartę i możesz wydawać manę tak, "
-"jakby to była mana dowolnego koloru potrzebnego, by ją zagrać."
+"Ilekroć Daxos of Meletis zadaje graczowi obrażenia bojowe, wypędź wierzchnią "
+"kartę biblioteki owego gracza. Zyskujesz tyle życia, ile wynosi łączny "
+"koszt many owej karty. Do końca tury możesz zagrać ową kartę i możesz "
+"wydawać manę tak, jakby to była mana dowolnego koloru potrzebnego, by ją "
+"zagrać."
 
 #: Destructive Revelry
 msgid ""
@@ -1662,7 +1662,6 @@ msgid "You may cast creature cards as though they had flash."
 msgstr "Możesz rzucać czary stworów tak jakby miały błysk."
 
 #: Psychic Intrusion
-#, fuzzy
 msgid ""
 "Target opponent reveals his or her hand. You choose a nonland card from that "
 "player's graveyard or hand and exile it. You may cast that card for as long "
@@ -1670,8 +1669,8 @@ msgid ""
 "color to cast that spell."
 msgstr ""
 "Wskazany przeciwnik ujawnia swoją rękę. Wybierasz kartę nie będącą lądem z "
-"cmentarza lub ręki owego gracza i wyganiasz ją. Możesz zagrać ową kartę "
-"dopóki pozostaje ona wygnana i możesz wydawać manę tak, jakby była maną "
+"cmentarza lub ręki owego gracza i wypędzasz ją. Możesz zagrać ową kartę "
+"dopóki pozostaje ona wypędzona i możesz wydawać manę tak, jakby była maną "
 "dowolnego koloru potrzebnego do rzucenia owego czaru."
 
 #: Reaper of the Wilds
@@ -1724,14 +1723,14 @@ msgid ""
 "{W}, {T}: Exile target creature that has a fate counter on it, then return "
 "it to the battlefield under its owner's control."
 msgstr ""
-"{W}, {T}: Wygnaj wskazanego stwora posiadającego znacznik przeznaczenia, a "
-"następnie przywróć go na pole walki pod swoim władaniem."
+"{W}, {T}: Wypędź wskazanego stwora posiadającego znacznik przeznaczenia, a "
+"następnie przywróć go na pole walki władaniem jego właściciela."
 
 msgid ""
 "{B}, {T}: Exile target creature that has a fate counter on it. Its "
 "controller draws two cards."
 msgstr ""
-"{B}, {T}: Wygnaj wskazanego stwora posiadającego znacznik przeznaczenia. "
+"{B}, {T}: Wypędź wskazanego stwora posiadającego znacznik przeznaczenia. "
 "Jego władca dobiera dwie karty."
 
 #: Tymaret, the Murder King
@@ -1759,7 +1758,7 @@ msgid ""
 "When Underworld Cerberus dies, exile it and each player returns all creature "
 "cards from his or her graveyard to his or her hand."
 msgstr ""
-"Kiedy Underworld Cerberus umiera, wygnaj go, a każdy gracz przywraca "
+"Kiedy Underworld Cerberus umiera, wypędź go, a każdy gracz przywraca "
 "wszystkie karty stworów ze swojego cmentarza na swoją rękę."
 
 #: Xenagos, the Reveler
@@ -1781,7 +1780,7 @@ msgid ""
 "[-6]: Exile the top seven cards of your library. You may put any number of "
 "creature and/or land cards from among them onto the battlefield."
 msgstr ""
-"[-6]: Wygnaj siedem wierzchnich kart swojej biblioteki. Możesz położyć na "
+"[-6]: Wypędź siedem wierzchnich kart swojej biblioteki. Możesz położyć na "
 "polu walki dowolną liczbę kart stworów i lądów spośród nich."
 
 msgid ""
@@ -1842,7 +1841,7 @@ msgstr "Ekwipowany stwór może być blokowany wyłącznie przez Ściany."
 #: Pyxis of Pandemonium
 msgid "{T}: Each player exiles the top card of his or her library face down."
 msgstr ""
-"{T}: Każdy gracz wygania wierzchnią kartę swojej biblioteki obrazkiem do "
+"{T}: Każdy gracz wypędza wierzchnią kartę swojej biblioteki obrazkiem do "
 "dołu."
 
 msgid ""
@@ -1851,7 +1850,7 @@ msgid ""
 "permanent cards among them onto the battlefield."
 msgstr ""
 "{7}, {T}: poświęć Pyxis of Pandemonium: Każdy gracz odwraca wszystkie własne "
-"karty wygnane z użyciem Pyxis of Pandemonium, następnie kładzie wszystkie "
+"karty wypędzone z użyciem Pyxis of Pandemonium, następnie kładzie wszystkie "
 "karty stałek spośród nich na polu walki."
 
 #: Traveler's Amulet

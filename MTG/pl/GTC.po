@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-17 21:56+0200\n"
+"PO-Revision-Date: 2013-09-20 08:11+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379451407.66429\n"
+"X-POOTLE-MTIME: 1379661063.499919\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -70,7 +70,7 @@ msgstr ""
 
 #: Angelic Edict
 msgid "Exile target creature or enchantment."
-msgstr "Wygnaj wskazanego stwora lub urok."
+msgstr "Wypędź wskazanego stwora lub urok."
 
 #: Angelic Skirmisher Assault Griffin Balustrade Spy Basilica Screecher
 #: Cloudfin Raptor Deathpact Angel Diluvian Primordial Duskmantle Seer
@@ -131,9 +131,10 @@ msgstr ""
 #: Bane Alley Broker
 msgid "{T}: Draw a card, then exile a card from your hand face down."
 msgstr ""
+"{T}: Dobierz kartę, następnie wypędź kartę ze swojej ręki obrazkiem do dołu."
 
 msgid "You may look at cards exiled with Bane Alley Broker."
-msgstr ""
+msgstr "Możesz patrzeć na karty wypędzone przez Bane Alley Broker."
 
 msgid ""
 "{U}{B}, {T}: Return a card exiled with Bane Alley Broker to its owner's hand."
@@ -276,10 +277,9 @@ msgid ""
 "control. Whenever that creature deals combat damage to a player, its "
 "controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
-"Szyfruj (Następnie możesz wygnać tę kartę kodując ją na kontrolowanym przez "
-"siebie stworze. Ilekroć ów stwór zada graczowi obrażenia bojowe, "
-"kontrolujący go gracz może rzucić kopię zakodowanej karty bez płacenia "
-"kosztu many.)"
+"Szyfruj (Następnie możesz wypędzić tę kartę kodując ją na stworze, którym "
+"władasz. Ilekroć ów stwór zada graczowi obrażenia bojowe, jego władca może "
+"rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
 
 #: Cartel Aristocrat
 msgid ""
@@ -630,7 +630,7 @@ msgid ""
 msgstr ""
 
 msgid "-15: Exile all other permanents."
-msgstr "-15: Wygnaj wszystkie inne stałki."
+msgstr "-15: Wypędź wszystkie inne stałki."
 
 msgid "Enchanted creature gets +1/+1 and has flying and lifelink."
 msgstr "Zauroczony stwór dostaje +1/+1 i ma Latanie oraz Więź Życia."
@@ -914,16 +914,16 @@ msgstr ""
 
 #: Merciless Eviction
 msgid "Choose one — Exile all artifacts"
-msgstr "Wybierz jedno — Wygnaj wszystkie artefakty"
+msgstr "Wybierz jedno — Wypędź wszystkie artefakty"
 
 msgid " or exile all creatures"
-msgstr " albo wygnaj wszystkie stwory"
+msgstr " albo wypędź wszystkie stwory"
 
 msgid " or exile all enchantments"
-msgstr " albo wygnaj wszystkie uroki"
+msgstr " albo wypędź wszystkie uroki"
 
 msgid " or exile all planeswalkers."
-msgstr " albo wygnaj wszystkich wędrowców."
+msgstr " albo wypędź wszystkich wędrowców."
 
 #: Merfolk of the Depths Shambleshark
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
@@ -1250,7 +1250,7 @@ msgstr ""
 
 #: Shattering Blow
 msgid "Exile target artifact."
-msgstr ""
+msgstr "Wypędź wskazany artefakt."
 
 #: Shielded Passage
 msgid "Prevent all damage that would be dealt to target creature this turn."
