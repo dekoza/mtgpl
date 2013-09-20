@@ -19,11 +19,21 @@ for s in sets:
             cards.extend(tmp)
             oldcards = tmp
 
-    with open("%s.pot" % s[1], 'wb') as dumpfile:
-        dumpfile.write("#. Please leave mana costs and tap symbol intact!\n")
+    #~ with open("%s.pot" % s[1], 'wb') as dumpfile:
+        #~ dumpfile.write("#. Please leave mana costs and tap symbol intact!\n")
+        #~ for card in cards:
+            #~ dumpfile.write("#: %s\n" % smart_str(card.name))
+            #~ lines = smart_str(card.rules_text).replace(' ; ', ';').replace('"', r'\"').split(';')
+            #~ for l in lines:
+                #~ dumpfile.write('msgid "%s"\nmsgstr ""\n\n' % l)
+            #~ dumpfile.write('\n')
+#~ 
+
+    with open("%s.rst" % s[1], 'wb') as dumpfile:
+        #~ dumpfile.write("#. Please leave mana costs and tap symbol intact!\n")
         for card in cards:
-            dumpfile.write("#: %s\n" % smart_str(card.name))
+            dumpfile.write("%s\n" % smart_str(card.name))
             lines = smart_str(card.rules_text).replace(' ; ', ';').replace('"', r'\"').split(';')
             for l in lines:
-                dumpfile.write('msgid "%s"\nmsgstr ""\n\n' % l)
+                dumpfile.write('    %s\n\n' % l)
             dumpfile.write('\n')

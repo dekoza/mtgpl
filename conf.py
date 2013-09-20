@@ -283,3 +283,6 @@ epub_copyright = u'2012, Dominik Kozaczko & strefa-gry.pl'
 
 # Allow duplicate toc entries.
 #epub_tocdup = True
+
+locale_dirs = ["translated/"]
+language = "pl"
