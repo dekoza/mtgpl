@@ -171,7 +171,7 @@ htmlhelp_basename = 'MTG-pldoc'
 
 latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
-#'papersize': 'letterpaper',
+'papersize': 'a4paper',
 
 # The font size ('10pt', '11pt' or '12pt').
 #'pointsize': '10pt',
@@ -185,6 +185,8 @@ latex_elements = {
 latex_documents = [
   ('index', 'MTG-pl.tex', u'MTG-pl Documentation',
    u'Dominik Kozaczko \\& strefa-gry.pl', 'manual'),
+  ('THS', 'THS.tex', u'Theros',
+  u'Dominik Kozaczko \\& strefa-gry.pl', 'manual'),   
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

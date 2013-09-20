@@ -6,11 +6,16 @@
 Welcome to MTG-pl's documentation!
 ==================================
 
+:doc:`Theros cards <THS>`
+
+
+
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
+    THS
 
 
 Indices and tables

@@ -283,3 +283,8 @@ epub_copyright = u'2013, Dominik Kozaczko'
 
 # Allow duplicate toc entries.
 #epub_tocdup = True
+
+
+locale_dirs = ["translated/"]
+language = "pl"
+
