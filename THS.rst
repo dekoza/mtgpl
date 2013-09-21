@@ -1,7 +1,7 @@
 .. Theros cards
 
-Theros cards
-============
+Theros
+======
 
 Abhorrent Overlord
     Flying

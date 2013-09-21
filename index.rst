@@ -3,25 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to MTG-pl's documentation!
-==================================
-
-:doc:`Theros cards <THS>`
 
 
+Tłumaczenie gry Magic: The Gathering
+====================================
 
-Contents:
+Instrukcja
+----------
+
+:doc:`Podręcznik Magic 2014<M14_Rulebook>`
+
+Tłumaczenie dodatków
+--------------------
+
+:doc:`Theros<THS>`
+
+
+
 
 .. toctree::
-   :maxdepth: 2
+   :hidden:
 
-    THS
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   THS
