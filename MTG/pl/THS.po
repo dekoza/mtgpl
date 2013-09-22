@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-22 19:35\n"
-"PO-Revision-Date: 2013-09-22 22:29+0200\n"
+"PO-Revision-Date: 2013-09-22 20:34+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,8 +15,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
-"X-POOTLE-MTIME: 1379661782.719360\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1379878484.550430\n"
 
 # 887ff143b14348b2b7b52aec3a556c81
 #: ../../THS.rst:6
@@ -1243,14 +1243,14 @@ msgstr ""
 # 40dff94366664dc69d5c27408984217e
 #: ../../THS.rst:423
 msgid "Equipped creature has flying and haste."
-msgstr "Ekwipowany stwór ma latanie i pośpiech."
+msgstr "Wyposażony stwór ma latanie i pośpiech."
 
 # 050a1e3d2f7c4bd2a99ba8ecf112af5e
 #: ../../THS.rst:425
 msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
-"Ekwipuj |mana_2| (|mana_2|: Dołącz do wskazanego stwora, którym władasz. "
-"Ekwipuj wyłącznie jako obrzęd.)"
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora, którym władasz. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 # 82f2a89eaa4841ecb06c1da615dd66ff
 #: ../../THS.rst:430
@@ -2395,12 +2395,12 @@ msgstr ""
 # 9b801a0623bd428493e75799c39f996d
 #: ../../THS.rst:861
 msgid "Equipped creature can't be blocked except by Walls."
-msgstr "Ekwipowany stwór może być blokowany wyłącznie przez Ściany."
+msgstr "Wyposażony stwór może być blokowany wyłącznie przez Ściany."
 
 # 71dadb07bced45459daa03947da18fcd
 #: ../../THS.rst:863
 msgid "Equip |mana_2|"
-msgstr "Ekwipuj |mana_2|"
+msgstr "Wyposaż |mana_2|"
 
 # 5075dee799714e0fbe2137c7bdb65434
 #: ../../THS.rst:868
@@ -3321,10 +3321,9 @@ msgstr ""
 
 # cb305117b2e2473fb35df3a4e51009e4
 #: ../../THS.rst:1207
-#, fuzzy
 msgid "Up to two target creatures each get +0/+3 until end of turn. Untap those creatures. At this turn's next end of combat, tap each creature that was blocked by one of those creatures this turn and it doesn't untap during its controller's next untap step."
 msgstr ""
-"Nie więcej niż dwa wskazane stwory dostają do końca tury +0/+3 każdy. "
+"Każdy z nie więcej niż dwóch wskazanych stworów dostaje do końca tury +0/+3. "
 "Odśwież te stwory. W chwili najbliższego końca walki w tej turze, zużyj "
 "każdego stwora, który był blokowany przez te stwory i owe stwory nie "
 "odświeżą się w następnym kroku odświeżania ich władcy."
@@ -3535,14 +3534,14 @@ msgstr ""
 #: ../../THS.rst:1287
 msgid "Equipped creature has \\\"|mana_1|, |tap|: Scry 1.\\\" (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
 msgstr ""
-"Ekwipowany stwór ma \\\"|mana_1|, |tap|: Wróż 1.\\\" (By wróżyć 1, spójrz na "
+"Wyposażony stwór ma \\\"|mana_1|, |tap|: Wróż 1.\\\" (By wróżyć 1, spójrz na "
 "wierzchnią kartę swojej biblioteki, następnie możesz położyć tę kartę na "
 "spodzie swojej biblioteki.)"
 
 # 06b092fed17f4e5b9376a35fe03ec590
 #: ../../THS.rst:1289
 msgid "Equip |mana_1|"
-msgstr "Ekwipuj |mana_1|"
+msgstr "Wyposaż |mana_1|"
 
 # 6dc199210fad409ba411eccd14a671ab
 #: ../../THS.rst:1298
