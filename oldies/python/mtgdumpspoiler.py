@@ -4,8 +4,8 @@ from mtglib.gatherer_request import SearchRequest
 from mtglib.card_extractor import CardExtractor
 from django.utils.encoding import smart_str
 
-#~ sets = [('Return to Ravnica', 'RTR'), ('Gatecrash', 'GTC'), ("Dragon's Maze", 'DGM'), ('Magic 2014 Core Set', 'M14')]
-sets = [('Theros', 'THS'),]
+sets = [('Return to Ravnica', 'RTR'), ('Gatecrash', 'GTC'), ("Dragon's Maze", 'DGM'), ('Magic 2014 Core Set', 'M14')]
+#sets = [('Theros', 'THS'),]
 for s in sets:
 #
     request = SearchRequest({'set': s[0]})
@@ -30,6 +30,8 @@ for s in sets:
 #~ 
 
     with open("%s.rst" % s[1], 'wb') as dumpfile:
+        dumpfile.write(".. %(name)s auto-download\n\n%(name)s" % {'name':s[0]})
+        dumpfile.write("".join(['=' for i in s[0]])+'\n\n')
         #~ dumpfile.write("#. Please leave mana costs and tap symbol intact!\n")
         for card in cards:
             dumpfile.write("%s\n" % smart_str(card.name))
