@@ -27,7 +27,7 @@ Annihilating Fire
 
 
 Aquus Steed
-    {2}{U}, {T}: Target creature gets -2/-0 until end of turn.
+    |mana_2| |mana_u|, |tap|: Target creature gets -2/-0 until end of turn.
 
 
 Archon of the Triumvirate
@@ -77,7 +77,7 @@ Avenging Arrow
 Axebane Guardian
     Defender
 
-    {T}: Add X mana in any combination of colors to your mana pool, where X is the number of creatures with defender you control.
+    |tap|: Add X mana in any combination of colors to your mana pool, where X is the number of creatures with defender you control.
 
 
 Axebane Stag
@@ -99,7 +99,7 @@ Azorius Charm
 Azorius Guildgate
     Azorius Guildgate enters the battlefield tapped.
 
-    {T}: Add {W} or {U} to your mana pool.
+    |tap|: Add |mana_w| or |mana_u| to your mana pool.
 
 
 Azorius Justiciar
@@ -107,9 +107,9 @@ Azorius Justiciar
 
 
 Azorius Keyrune
-    {T}: Add {W} or {U} to your mana pool.
+    |tap|: Add |mana_w| or |mana_u| to your mana pool.
 
-    {W}{U}: Azorius Keyrune becomes a 2/2 white and blue Bird artifact creature with flying until end of turn.
+    |mana_w| |mana_u|: Azorius Keyrune becomes a 2/2 white and blue Bird artifact creature with flying until end of turn.
 
 
 Azor's Elocutors
@@ -127,7 +127,7 @@ Bazaar Krovod
 
 
 Bellows Lizard
-    {1}{R}: Bellows Lizard gets +1/+0 until end of turn.
+    |mana_1| |mana_r|: Bellows Lizard gets +1/+0 until end of turn.
 
 
 Blistercoil Weird
@@ -135,7 +135,7 @@ Blistercoil Weird
 
 
 Blood Crypt
-    ({T}: Add {B} or {R} to your mana pool.)
+    (|tap|: Add |mana_b| or |mana_r| to your mana pool.)
 
     As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, Blood Crypt enters the battlefield tapped.
 
@@ -149,7 +149,7 @@ Bloodfray Giant
 Blustersquall
     Tap target creature you don't control.
 
-    Overload {3}{U} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_3| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Brushstrider
@@ -179,7 +179,7 @@ Centaur Healer
 
 
 Centaur's Herald
-    {2}{G}, Sacrifice Centaur's Herald: Put a 3/3 green Centaur creature token onto the battlefield.
+    |mana_2| |mana_g|, Sacrifice Centaur's Herald: Put a 3/3 green Centaur creature token onto the battlefield.
 
 
 Chaos Imps
@@ -193,7 +193,7 @@ Chaos Imps
 Chemister's Trick
     Target creature you don't control gets -2/-0 until end of turn and attacks this turn if able.
 
-    Overload {3}{U}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_3| |mana_u| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Chorus of Might
@@ -201,9 +201,9 @@ Chorus of Might
 
 
 Chromatic Lantern
-    Lands you control have \"{T}: Add one mana of any color to your mana pool.\"
+    Lands you control have \"|tap|: Add one mana of any color to your mana pool.\"
 
-    {T}: Add one mana of any color to your mana pool.
+    |tap|: Add one mana of any color to your mana pool.
 
 
 Chronic Flooding
@@ -215,7 +215,7 @@ Chronic Flooding
 Civic Saber
     Equipped creature gets +1/+0 for each of its colors.
 
-    Equip {1}
+    Equip |mana_1|
 
 
 Cobblebrute
@@ -223,9 +223,9 @@ Cobblebrute
 
 
 Codex Shredder
-    {T}: Target player puts the top card of his or her library into his or her graveyard.
+    |tap|: Target player puts the top card of his or her library into his or her graveyard.
 
-    {5}, {T}, Sacrifice Codex Shredder: Return target card from your graveyard to your hand.
+    |mana_5|, |tap|, Sacrifice Codex Shredder: Return target card from your graveyard to your hand.
 
 
 Collective Blessing
@@ -255,7 +255,7 @@ Counterflux
 
     Counter target spell you don't control.
 
-    Overload {1}{U}{U}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_1| |mana_u| |mana_u| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Coursers' Accord
@@ -281,7 +281,7 @@ Cryptborn Horror
 Cyclonic Rift
     Return target nonland permanent you don't control to its owner's hand.
 
-    Overload {6}{U} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_6| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Daggerdrome Imp
@@ -301,15 +301,15 @@ Dead Reveler
 
 
 Deadbridge Goliath
-    Scavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+    Scavenge |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
 
 
 Deathrite Shaman
-    {T}: Exile target land card from a graveyard. Add one mana of any color to your mana pool.
+    |tap|: Exile target land card from a graveyard. Add one mana of any color to your mana pool.
 
-    {B}, {T}: Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life.
+    |mana_b|, |tap|: Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life.
 
-    {G}, {T}: Exile target creature card from a graveyard. You gain 2 life.
+    |mana_g|, |tap|: Exile target creature card from a graveyard. You gain 2 life.
 
 
 Death's Presence
@@ -335,7 +335,7 @@ Detention Sphere
 Deviant Glee
     Enchant creature
 
-    Enchanted creature gets +2/+1 and has \"{R}: This creature gains trample until end of turn.\"
+    Enchanted creature gets +2/+1 and has \"|mana_r|: This creature gains trample until end of turn.\"
 
 
 Dispel
@@ -345,17 +345,17 @@ Dispel
 Doorkeeper
     Defender
 
-    {2}{U}, {T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of creatures with defender you control.
+    |mana_2| |mana_u|, |tap|: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of creatures with defender you control.
 
 
 Downsize
     Target creature you don't control gets -4/-0 until end of turn.
 
-    Overload {2}{U} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_2| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Drainpipe Vermin
-    When Drainpipe Vermin dies, you may pay {B}. If you do, target player discards a card.
+    When Drainpipe Vermin dies, you may pay |mana_b|. If you do, target player discards a card.
 
 
 Dramatic Rescue
@@ -369,11 +369,11 @@ Dreadbore
 Dreg Mangler
     Haste
 
-    Scavenge {3}{B}{G} ({3}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+    Scavenge |mana_3| |mana_b| |mana_g| (|mana_3| |mana_b| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
 
 
 Drudge Beetle
-    Scavenge {5}{G} ({5}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+    Scavenge |mana_5| |mana_g| (|mana_5| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
 
 
 Druid's Deliverance
@@ -387,13 +387,13 @@ Dryad Militant
 Dynacharge
     Target creature you control gets +2/+0 until end of turn.
 
-    Overload {2}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_2| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Electrickery
     Electrickery deals 1 damage to target creature you don't control.
 
-    Overload {1}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_1| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Epic Experiment
@@ -441,7 +441,7 @@ Forest
 
 
 Frostburn Weird
-    {(u/r)}: Frostburn Weird gets +1/-1 until end of turn.
+    |mana_ur|: Frostburn Weird gets +1/-1 until end of turn.
 
 
 Gatecreeper Vine
@@ -455,11 +455,11 @@ Giant Growth
 
 
 Gobbling Ooze
-    {G}, Sacrifice another creature: Put a +1/+1 counter on Gobbling Ooze.
+    |mana_g|, Sacrifice another creature: Put a +1/+1 counter on Gobbling Ooze.
 
 
 Goblin Electromancer
-    Instant and sorcery spells you cast cost {1} less to cast.
+    Instant and sorcery spells you cast cost |mana_1| less to cast.
 
 
 Goblin Rally
@@ -477,19 +477,19 @@ Golgari Charm
 Golgari Decoy
     All creatures able to block Golgari Decoy do so.
 
-    Scavenge {3}{G}{G} ({3}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+    Scavenge |mana_3| |mana_g| |mana_g| (|mana_3| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
 
 
 Golgari Guildgate
     Golgari Guildgate enters the battlefield tapped.
 
-    {T}: Add {B} or {G} to your mana pool.
+    |tap|: Add |mana_b| or |mana_g| to your mana pool.
 
 
 Golgari Keyrune
-    {T}: Add {B} or {G} to your mana pool.
+    |tap|: Add |mana_b| or |mana_g| to your mana pool.
 
-    {B}{G}: Golgari Keyrune becomes a 2/2 black and green Insect artifact creature with deathtouch until end of turn.
+    |mana_b| |mana_g|: Golgari Keyrune becomes a 2/2 black and green Insect artifact creature with deathtouch until end of turn.
 
 
 Golgari Longlegs
@@ -507,7 +507,7 @@ Grave Betrayal
 Grim Roustabout
     Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)
 
-    {1}{B}: Regenerate Grim Roustabout.
+    |mana_1| |mana_b|: Regenerate Grim Roustabout.
 
 
 Grisly Salvage
@@ -515,9 +515,9 @@ Grisly Salvage
 
 
 Grove of the Guardian
-    {T}: Add {1} to your mana pool.
+    |tap|: Add |mana_1| to your mana pool.
 
-    {3}{G}{W}, {T}, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Put an 8/8 green and white Elemental creature token with vigilance onto the battlefield.
+    |mana_3| |mana_g| |mana_w|, |tap|, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Put an 8/8 green and white Elemental creature token with vigilance onto the battlefield.
 
 
 Growing Ranks
@@ -533,7 +533,7 @@ Guttersnipe
 
 
 Hallowed Fountain
-    ({T}: Add {W} or {U} to your mana pool.)
+    (|tap|: Add |mana_w| or |mana_u| to your mana pool.)
 
     As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, Hallowed Fountain enters the battlefield tapped.
 
@@ -547,7 +547,7 @@ Havoc Festival
 Hellhole Flailer
     Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)
 
-    {2}{B}{R}, Sacrifice Hellhole Flailer: Hellhole Flailer deals damage equal to its power to target player.
+    |mana_2| |mana_b| |mana_r|, Sacrifice Hellhole Flailer: Hellhole Flailer deals damage equal to its power to target player.
 
 
 Heroes' Reunion
@@ -601,7 +601,7 @@ Isperia's Skywatch
 
 
 Izzet Charm
-    Choose one — Counter target noncreature spell unless its controller pays {2}
+    Choose one — Counter target noncreature spell unless its controller pays |mana_2|
 
      or Izzet Charm deals 2 damage to target creature
 
@@ -611,13 +611,13 @@ Izzet Charm
 Izzet Guildgate
     Izzet Guildgate enters the battlefield tapped.
 
-    {T}: Add {U} or {R} to your mana pool.
+    |tap|: Add |mana_u| or |mana_r| to your mana pool.
 
 
 Izzet Keyrune
-    {T}: Add {U} or {R} to your mana pool.
+    |tap|: Add |mana_u| or |mana_r| to your mana pool.
 
-    {U}{R}: Until end of turn, Izzet Keyrune becomes a 2/1 blue and red Elemental artifact creature.
+    |mana_u| |mana_r|: Until end of turn, Izzet Keyrune becomes a 2/1 blue and red Elemental artifact creature.
 
     Whenever Izzet Keyrune deals combat damage to a player, you may draw a card. If you do, discard a card.
 
@@ -627,7 +627,7 @@ Izzet Staticaster
 
     Haste
 
-    {T}: Izzet Staticaster deals 1 damage to target creature and each other creature with the same name as that creature.
+    |tap|: Izzet Staticaster deals 1 damage to target creature and each other creature with the same name as that creature.
 
 
 Jace, Architect of Thought
@@ -641,7 +641,7 @@ Jace, Architect of Thought
 Jarad, Golgari Lich Lord
     Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your graveyard.
 
-    {1}{B}{G}, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power.
+    |mana_1| |mana_b| |mana_g|, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power.
 
     Sacrifice a Swamp and a Forest: Return Jarad from your graveyard to your hand.
 
@@ -653,7 +653,7 @@ Jarad's Orders
 Judge's Familiar
     Flying
 
-    Sacrifice Judge's Familiar: Counter target instant or sorcery spell unless its controller pays {1}.
+    Sacrifice Judge's Familiar: Counter target instant or sorcery spell unless its controller pays |mana_1|.
 
 
 Keening Apparition
@@ -669,15 +669,15 @@ Knightly Valor
 
 
 Korozda Guildmage
-    {1}{B}{G}: Target creature gets +1/+1 and gains intimidate until end of turn.
+    |mana_1| |mana_b| |mana_g|: Target creature gets +1/+1 and gains intimidate until end of turn.
 
-    {2}{B}{G}, Sacrifice a nontoken creature: Put X 1/1 green Saproling creature tokens onto the battlefield, where X is the sacrificed creature's toughness.
+    |mana_2| |mana_b| |mana_g|, Sacrifice a nontoken creature: Put X 1/1 green Saproling creature tokens onto the battlefield, where X is the sacrificed creature's toughness.
 
 
 Korozda Monitor
     Trample
 
-    Scavenge {5}{G}{G} ({5}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+    Scavenge |mana_5| |mana_g| |mana_g| (|mana_5| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
 
 
 Launch Party
@@ -689,7 +689,7 @@ Launch Party
 Lobber Crew
     Defender
 
-    {T}: Lobber Crew deals 1 damage to each opponent.
+    |tap|: Lobber Crew deals 1 damage to each opponent.
 
     Whenever you cast a multicolored spell, untap Lobber Crew.
 
@@ -699,7 +699,7 @@ Lotleth Troll
 
     Discard a creature card: Put a +1/+1 counter on Lotleth Troll.
 
-    {B}: Regenerate Lotleth Troll.
+    |mana_b|: Regenerate Lotleth Troll.
 
 
 Loxodon Smiter
@@ -727,9 +727,9 @@ Martial Law
 
 
 Mercurial Chemister
-    {U}, {T}: Draw two cards.
+    |mana_u|, |tap|: Draw two cards.
 
-    {R}, {T}, Discard a card: Mercurial Chemister deals damage to target creature equal to the discarded card's converted mana cost.
+    |mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target creature equal to the discarded card's converted mana cost.
 
 
 Mind Rot
@@ -743,13 +743,13 @@ Minotaur Aggressor
 Mizzium Mortars
     Mizzium Mortars deals 4 damage to target creature you don't control.
 
-    Overload {3}{R}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_3| |mana_r| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Mizzium Skin
     Target creature you control gets +0/+1 and gains hexproof until end of turn.
 
-    Overload {1}{U} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_1| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Mountain
@@ -763,15 +763,15 @@ Necropolis Regent
 
 
 New Prahv Guildmage
-    {W}{U}: Target creature gains flying until end of turn.
+    |mana_w| |mana_u|: Target creature gains flying until end of turn.
 
-    {3}{W}{U}: Detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)
+    |mana_3| |mana_w| |mana_u|: Detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)
 
 
 Nivix Guildmage
-    {1}{U}{R}: Draw a card, then discard a card.
+    |mana_1| |mana_u| |mana_r|: Draw a card, then discard a card.
 
-    {2}{U}{R}: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+    |mana_2| |mana_u| |mana_r|: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
 
 
 Nivmagus Elemental
@@ -783,7 +783,7 @@ Niv-Mizzet, Dracogenius
 
     Whenever Niv-Mizzet, Dracogenius deals damage to a player, you may draw a card.
 
-    {U}{R}: Niv-Mizzet, Dracogenius deals 1 damage to target creature or player.
+    |mana_u| |mana_r|: Niv-Mizzet, Dracogenius deals 1 damage to target creature or player.
 
 
 Oak Street Innkeeper
@@ -797,7 +797,7 @@ Ogre Jailbreaker
 
 
 Overgrown Tomb
-    ({T}: Add {B} or {G} to your mana pool.)
+    (|tap|: Add |mana_b| or |mana_g| to your mana pool.)
 
     As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped.
 
@@ -805,7 +805,7 @@ Overgrown Tomb
 Pack Rat
     Pack Rat's power and toughness are each equal to the number of Rats you control.
 
-    {2}{B}, Discard a card: Put a token onto the battlefield that's a copy of Pack Rat.
+    |mana_2| |mana_b|, Discard a card: Put a token onto the battlefield that's a copy of Pack Rat.
 
 
 Palisade Giant
@@ -819,7 +819,7 @@ Paralyzing Grasp
 
 
 Perilous Shadow
-    {1}{B}: Perilous Shadow gets +2/+2 until end of turn.
+    |mana_1| |mana_b|: Perilous Shadow gets +2/+2 until end of turn.
 
 
 Phantom General
@@ -849,7 +849,7 @@ Psychic Spiral
 Pursuit of Flight
     Enchant creature
 
-    Enchanted creature gets +2/+2 and has \"{U}: This creature gains flying until end of turn.\"
+    Enchanted creature gets +2/+2 and has \"|mana_u|: This creature gains flying until end of turn.\"
 
 
 Pyroconvergence
@@ -859,7 +859,7 @@ Pyroconvergence
 Racecourse Fury
     Enchant land
 
-    Enchanted land has \"{T}: Target creature gains haste until end of turn.\"
+    Enchanted land has \"|tap|: Target creature gains haste until end of turn.\"
 
 
 Rakdos Cackler
@@ -877,13 +877,13 @@ Rakdos Charm
 Rakdos Guildgate
     Rakdos Guildgate enters the battlefield tapped.
 
-    {T}: Add {B} or {R} to your mana pool.
+    |tap|: Add |mana_b| or |mana_r| to your mana pool.
 
 
 Rakdos Keyrune
-    {T}: Add {B} or {R} to your mana pool.
+    |tap|: Add |mana_b| or |mana_r| to your mana pool.
 
-    {B}{R}: Rakdos Keyrune becomes a 3/1 black and red Devil artifact creature with first strike until end of turn.
+    |mana_b| |mana_r|: Rakdos Keyrune becomes a 3/1 black and red Devil artifact creature with first strike until end of turn.
 
 
 Rakdos Ragemutt
@@ -895,7 +895,7 @@ Rakdos Ringleader
 
     Whenever Rakdos Ringleader deals combat damage to a player, that player discards a card at random.
 
-    {B}: Regenerate Rakdos Ringleader.
+    |mana_b|: Regenerate Rakdos Ringleader.
 
 
 Rakdos Shred-Freak
@@ -907,7 +907,7 @@ Rakdos, Lord of Riots
 
     Flying, trample
 
-    Creature spells you cast cost {1} less to cast for each 1 life your opponents have lost this turn.
+    Creature spells you cast cost |mana_1| less to cast for each 1 life your opponents have lost this turn.
 
 
 Rakdos's Return
@@ -937,15 +937,15 @@ Rites of Reaping
 
 
 Rix Maadi Guildmage
-    {B}{R}: Target blocking creature gets -1/-1 until end of turn.
+    |mana_b| |mana_r|: Target blocking creature gets -1/-1 until end of turn.
 
-    {B}{R}: Target player who lost life this turn loses 1 life.
+    |mana_b| |mana_r|: Target player who lost life this turn loses 1 life.
 
 
 Rogue's Passage
-    {T}: Add {1} to your mana pool.
+    |tap|: Add |mana_1| to your mana pool.
 
-    {4}, {T}: Target creature can't be blocked this turn.
+    |mana_4|, |tap|: Target creature can't be blocked this turn.
 
 
 Rootborn Defenses
@@ -981,7 +981,7 @@ Security Blockade
 
     When Security Blockade enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield.
 
-    Enchanted land has \"{T}: Prevent the next 1 damage that would be dealt to you this turn.\"
+    Enchanted land has \"|tap|: Prevent the next 1 damage that would be dealt to you this turn.\"
 
 
 Seek the Horizon
@@ -999,17 +999,17 @@ Selesnya Charm
 Selesnya Guildgate
     Selesnya Guildgate enters the battlefield tapped.
 
-    {T}: Add {G} or {W} to your mana pool.
+    |tap|: Add |mana_g| or |mana_w| to your mana pool.
 
 
 Selesnya Keyrune
-    {T}: Add {G} or {W} to your mana pool.
+    |tap|: Add |mana_g| or |mana_w| to your mana pool.
 
-    {G}{W}: Selesnya Keyrune becomes a 3/3 green and white Wolf artifact creature until end of turn.
+    |mana_g| |mana_w|: Selesnya Keyrune becomes a 3/3 green and white Wolf artifact creature until end of turn.
 
 
 Selesnya Sentry
-    {5}{G}: Regenerate Selesnya Sentry.
+    |mana_5| |mana_g|: Regenerate Selesnya Sentry.
 
 
 Seller of Songbirds
@@ -1019,7 +1019,7 @@ Seller of Songbirds
 Sewer Shambler
     Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
 
-    Scavenge {2}{B} ({2}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+    Scavenge |mana_2| |mana_b| (|mana_2| |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
 
 
 Shrieking Affliction
@@ -1053,13 +1053,13 @@ Slime Molding
 
 
 Slitherhead
-    Scavenge {0} ({0}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+    Scavenge |mana_0| (|mana_0|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
 
 
 Sluiceway Scorpion
     Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 
-    Scavenge {1}{B}{G} ({1}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+    Scavenge |mana_1| |mana_b| |mana_g| (|mana_1| |mana_b| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
 
 
 Slum Reaper
@@ -1069,7 +1069,7 @@ Slum Reaper
 Soul Tithe
     Enchant nonland permanent
 
-    At the beginning of the upkeep of enchanted permanent's controller, that player sacrifices it unless he or she pays {X}, where X is its converted mana cost.
+    At the beginning of the upkeep of enchanted permanent's controller, that player sacrifices it unless he or she pays |mana_x|, where X is its converted mana cost.
 
 
 Soulsworn Spirit
@@ -1083,7 +1083,7 @@ Spawn of Rix Maadi
 
 
 Sphere of Safety
-    Creatures can't attack you or a planeswalker you control unless their controller pays {X} for each of those creatures, where X is the number of enchantments you control.
+    Creatures can't attack you or a planeswalker you control unless their controller pays |mana_x| for each of those creatures, where X is the number of enchantments you control.
 
 
 Sphinx of the Chimes
@@ -1115,19 +1115,19 @@ Stealer of Secrets
 
 
 Steam Vents
-    ({T}: Add {U} or {R} to your mana pool.)
+    (|tap|: Add |mana_u| or |mana_r| to your mana pool.)
 
     As Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped.
 
 
 Stonefare Crocodile
-    {2}{B}: Stonefare Crocodile gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)
+    |mana_2| |mana_b|: Stonefare Crocodile gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)
 
 
 Street Spasm
     Street Spasm deals X damage to target creature without flying you don't control.
 
-    Overload {X}{X}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_x| |mana_x| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Street Sweeper
@@ -1161,7 +1161,7 @@ Swift Justice
 
 
 Syncopate
-    Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+    Counter target spell unless its controller pays |mana_x|. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
 
 
 Tablet of the Guilds
@@ -1171,17 +1171,17 @@ Tablet of the Guilds
 
 
 Tavern Swindler
-    {T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.
+    |tap|, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.
 
 
 Teleportal
     Target creature you control gets +1/+0 until end of turn and can't be blocked this turn.
 
-    Overload {3}{U}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_3| |mana_u| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Temple Garden
-    ({T}: Add {G} or {W} to your mana pool.)
+    (|tap|: Add |mana_g| or |mana_w| to your mana pool.)
 
     As Temple Garden enters the battlefield, you may pay 2 life. If you don't, Temple Garden enters the battlefield tapped.
 
@@ -1191,7 +1191,7 @@ Tenement Crasher
 
 
 Terrus Wurm
-    Scavenge {6}{B} ({6}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+    Scavenge |mana_6| |mana_b| (|mana_6| |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
 
 
 Thoughtflare
@@ -1207,7 +1207,7 @@ Thrill-Kill Assassin
 Tower Drake
     Flying
 
-    {W}: Tower Drake gets +0/+1 until end of turn.
+    |mana_w|: Tower Drake gets +0/+1 until end of turn.
 
 
 Towering Indrik
@@ -1225,9 +1225,9 @@ Traitorous Instinct
 Transguild Promenade
     Transguild Promenade enters the battlefield tapped.
 
-    When Transguild Promenade enters the battlefield, sacrifice it unless you pay {1}.
+    When Transguild Promenade enters the battlefield, sacrifice it unless you pay |mana_1|.
 
-    {T}: Add one mana of any color to your mana pool.
+    |tap|: Add one mana of any color to your mana pool.
 
 
 Treasured Find
@@ -1239,13 +1239,13 @@ Trestle Troll
 
     Reach (This creature can block creatures with flying.)
 
-    {1}{B}{G}: Regenerate Trestle Troll.
+    |mana_1| |mana_b| |mana_g|: Regenerate Trestle Troll.
 
 
 Trostani, Selesnya's Voice
     Whenever another creature enters the battlefield under your control, you gain life equal to that creature's toughness.
 
-    {1}{G}{W}, {T}: Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)
+    |mana_1| |mana_g| |mana_w|, |tap|: Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)
 
 
 Trostani's Judgment
@@ -1259,7 +1259,7 @@ Ultimate Price
 Underworld Connections
     Enchant land
 
-    Enchanted land has \"{T}, Pay 1 life: Draw a card.\"
+    Enchanted land has \"|tap|, Pay 1 life: Draw a card.\"
 
 
 Urban Burgeoning
@@ -1277,7 +1277,7 @@ Utvara Hellkite
 Vandalblast
     Destroy target artifact you don't control.
 
-    Overload {4}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_4| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Vassal Soul
@@ -1289,9 +1289,9 @@ Viashino Racketeer
 
 
 Vitu-Ghazi Guildmage
-    {4}{G}{W}: Put a 3/3 green Centaur creature token onto the battlefield.
+    |mana_4| |mana_g| |mana_w|: Put a 3/3 green Centaur creature token onto the battlefield.
 
-    {2}{G}{W}: Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)
+    |mana_2| |mana_g| |mana_w|: Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)
 
 
 Voidwielder
@@ -1337,6 +1337,6 @@ Worldspine Wurm
 Zanikev Locust
     Flying
 
-    Scavenge {2}{B}{B} ({2}{B}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+    Scavenge |mana_2| |mana_b| |mana_b| (|mana_2| |mana_b| |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
 
 

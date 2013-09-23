@@ -14,6 +14,8 @@
    :alt: {R}
 .. |mana_x| image:: images/mana_x.png
    :alt: {X}
+.. |mana_0| image:: images/mana_0.png
+   :alt: {0}
 .. |mana_1| image:: images/mana_1.png
    :alt: {1}
 .. |mana_2| image:: images/mana_2.png

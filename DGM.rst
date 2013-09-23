@@ -379,7 +379,7 @@ Krasis Incubation
 
 
 Kraul Warrior
-    {5}|mana_g|: Kraul Warrior gets +3/+3 until end of turn.
+    |mana_5| |mana_g|: Kraul Warrior gets +3/+3 until end of turn.
 
 
 Lavinia of the Tenth
@@ -469,7 +469,7 @@ Mending Touch
 
 
 Mindstatic
-    Counter target spell unless its controller pays {6}.
+    Counter target spell unless its controller pays |mana_6|.
 
 
 Mirko Vosk, Mind Drinker
@@ -535,7 +535,7 @@ Plasm Capture
 
 
 Pontiff of Blight
-    Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+    Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)
 
     Other creatures you control have extort. (If a creature has multiple instances of extort, each triggers separately.)
 
@@ -679,7 +679,7 @@ Savageborn Hydra
 
     Savageborn Hydra enters the battlefield with X +1/+1 counters on it.
 
-    |mana_1|{(r/g)}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
+    |mana_1| |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
 
 
 Scab-Clan Giant
@@ -793,13 +793,13 @@ Teysa, Envoy of Ghosts
 Thrashing Mossdog
     Reach (This creature can block creatures with flying.)
 
-    Scavenge {4}|mana_g| |mana_g| ({4}|mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+    Scavenge |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
 
 
 Tithe Drinker
     Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 
-    Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+    Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)
 
 
 Toil // Trouble (Toil)

@@ -5,7 +5,7 @@ Gatecrash
 =========
 
 Act of Treason
-    Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
+    Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and |tap| this turn.)
 
 
 Adaptive Snapjaw
@@ -25,7 +25,7 @@ Agoraphobia
 
     Enchanted creature gets -5/-0.
 
-    {2}{U}: Return Agoraphobia to its owner's hand.
+    |mana_2| |mana_u|: Return Agoraphobia to its owner's hand.
 
 
 Alms Beast
@@ -81,23 +81,23 @@ Balustrade Spy
 
 
 Bane Alley Broker
-    {T}: Draw a card, then exile a card from your hand face down.
+    |tap|: Draw a card, then exile a card from your hand face down.
 
     You may look at cards exiled with Bane Alley Broker.
 
-    {U}{B}, {T}: Return a card exiled with Bane Alley Broker to its owner's hand.
+    |mana_u| |mana_b|, |tap|: Return a card exiled with Bane Alley Broker to its owner's hand.
 
 
 Basilica Guards
     Defender
 
-    Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+    Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)
 
 
 Basilica Screecher
     Flying
 
-    Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+    Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)
 
 
 Beckon Apparition
@@ -117,7 +117,7 @@ Biovisionary
 
 
 Blind Obedience
-    Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+    Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)
 
     Artifacts and creatures your opponents control enter the battlefield tapped.
 
@@ -149,29 +149,29 @@ Boros Elite
 Boros Guildgate
     Boros Guildgate enters the battlefield tapped.
 
-    {T}: Add {R} or {W} to your mana pool.
+    |tap|: Add |mana_r| or |mana_w| to your mana pool.
 
 
 Boros Keyrune
-    {T}: Add {R} or {W} to your mana pool.
+    |tap|: Add |mana_r| or |mana_w| to your mana pool.
 
-    {R}{W}: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature with double strike until end of turn. (It deals both first-strike and regular combat damage.)
+    |mana_r| |mana_w|: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature with double strike until end of turn. (It deals both first-strike and regular combat damage.)
 
 
 Boros Reckoner
     Whenever Boros Reckoner is dealt damage, it deals that much damage to target creature or player.
 
-    {(r/w)}: Boros Reckoner gains first strike until end of turn.
+    |mana_rw|: Boros Reckoner gains first strike until end of turn.
 
 
 Breeding Pool
-    ({T}: Add {G} or {U} to your mana pool.)
+    (|tap|: Add |mana_g| or |mana_u| to your mana pool.)
 
     As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, Breeding Pool enters the battlefield tapped.
 
 
 Burning-Tree Emissary
-    When Burning-Tree Emissary enters the battlefield, add {R}{G} to your mana pool.
+    When Burning-Tree Emissary enters the battlefield, add |mana_r| |mana_g| to your mana pool.
 
 
 Burst of Strength
@@ -189,7 +189,7 @@ Cartel Aristocrat
 
 
 Cinder Elemental
-    {X}{R}, {T}, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to target creature or player.
+    |mana_x| |mana_r|, |tap|, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to target creature or player.
 
 
 Clan Defiance
@@ -257,9 +257,9 @@ Crowned Ceratok
 
 
 Crypt Ghast
-    Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+    Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)
 
-    Whenever you tap a Swamp for mana, add {B} to your mana pool (in addition to the mana the land produces).
+    Whenever you tap a Swamp for mana, add |mana_b| to your mana pool (in addition to the mana the land produces).
 
 
 Daring Skyjek
@@ -273,7 +273,7 @@ Deathcult Rogue
 Deathpact Angel
     Flying
 
-    When Deathpact Angel dies, put a 1/1 white and black Cleric creature token onto the battlefield. It has \"{3}{W}{B}{B}, {T}, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield.\"
+    When Deathpact Angel dies, put a 1/1 white and black Cleric creature token onto the battlefield. It has \"|mana_3| |mana_w| |mana_b| |mana_b|, |tap|, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield.\"
 
 
 Death's Approach
@@ -285,7 +285,7 @@ Death's Approach
 Debtor's Pulpit
     Enchant land
 
-    Enchanted land has \"{T}: Tap target creature.\"
+    Enchanted land has \"|tap|: Tap target creature.\"
 
 
 Devour Flesh
@@ -309,13 +309,13 @@ Dimir Charm
 Dimir Guildgate
     Dimir Guildgate enters the battlefield tapped.
 
-    {T}: Add {U} or {B} to your mana pool.
+    |tap|: Add |mana_u| or |mana_b| to your mana pool.
 
 
 Dimir Keyrune
-    {T}: Add {U} or {B} to your mana pool.
+    |tap|: Add |mana_u| or |mana_b| to your mana pool.
 
-    {U}{B}: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature until end of turn and can't be blocked this turn.
+    |mana_u| |mana_b|: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature until end of turn and can't be blocked this turn.
 
 
 Dinrova Horror
@@ -323,7 +323,7 @@ Dinrova Horror
 
 
 Disciple of the Old Ways
-    {R}: Disciple of the Old Ways gains first strike until end of turn.
+    |mana_r|: Disciple of the Old Ways gains first strike until end of turn.
 
 
 Domri Rade
@@ -339,9 +339,9 @@ Drakewing Krasis
 
 
 Duskmantle Guildmage
-    {1}{U}{B}: Whenever a card is put into an opponent's graveyard from anywhere this turn, that player loses 1 life.
+    |mana_1| |mana_u| |mana_b|: Whenever a card is put into an opponent's graveyard from anywhere this turn, that player loses 1 life.
 
-    {2}{U}{B}: Target player puts the top two cards of his or her library into his or her graveyard.
+    |mana_2| |mana_u| |mana_b|: Target player puts the top two cards of his or her library into his or her graveyard.
 
 
 Duskmantle Seer
@@ -351,7 +351,7 @@ Duskmantle Seer
 
 
 Dutiful Thrull
-    {B}: Regenerate Dutiful Thrull.
+    |mana_b|: Regenerate Dutiful Thrull.
 
 
 Dying Wish
@@ -421,9 +421,9 @@ Fortress Cyclops
 Foundry Champion
     When Foundry Champion enters the battlefield, it deals damage to target creature or player equal to the number of creatures you control.
 
-    {R}: Foundry Champion gets +1/+0 until end of turn.
+    |mana_r|: Foundry Champion gets +1/+0 until end of turn.
 
-    {W}: Foundry Champion gets +0/+1 until end of turn.
+    |mana_w|: Foundry Champion gets +0/+1 until end of turn.
 
 
 Foundry Street Denizen
@@ -435,13 +435,13 @@ Frenzied Tilling
 
 
 Frilled Oculus
-    {1}{G}: Frilled Oculus gets +2/+2 until end of turn. Activate this ability only once each turn.
+    |mana_1| |mana_g|: Frilled Oculus gets +2/+2 until end of turn. Activate this ability only once each turn.
 
 
 Frontline Medic
     Battalion — Whenever Frontline Medic and at least two other creatures attack, creatures you control gain indestructible until end of turn.
 
-    Sacrifice Frontline Medic: Counter target spell with {X} in its mana cost unless its controller pays {3}.
+    Sacrifice Frontline Medic: Counter target spell with |mana_x| in its mana cost unless its controller pays |mana_3|.
 
 
 Furious Resistance
@@ -449,7 +449,7 @@ Furious Resistance
 
 
 Gateway Shade
-    {B}: Gateway Shade gets +1/+1 until end of turn.
+    |mana_b|: Gateway Shade gets +1/+1 until end of turn.
 
     Tap an untapped Gate you control: Gateway Shade gets +2/+2 until end of turn.
 
@@ -457,7 +457,7 @@ Gateway Shade
 Ghor-Clan Rampager
     Trample
 
-    Bloodrush — {R}{G}, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn.
+    Bloodrush — |mana_r| |mana_g|, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn.
 
 
 Giant Adephage
@@ -483,17 +483,17 @@ Gift of Orzhova
 Glaring Spotlight
     Creatures your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.
 
-    {3}, Sacrifice Glaring Spotlight: Creatures you control gain hexproof until end of turn and can't be blocked this turn.
+    |mana_3|, Sacrifice Glaring Spotlight: Creatures you control gain hexproof until end of turn and can't be blocked this turn.
 
 
 Godless Shrine
-    ({T}: Add {W} or {B} to your mana pool.)
+    (|tap|: Add |mana_w| or |mana_b| to your mana pool.)
 
     As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped.
 
 
 Greenside Watcher
-    {T}: Untap target Gate.
+    |tap|: Untap target Gate.
 
 
 Gridlock
@@ -519,13 +519,13 @@ Gruul Charm
 Gruul Guildgate
     Gruul Guildgate enters the battlefield tapped.
 
-    {T}: Add {R} or {G} to your mana pool.
+    |tap|: Add |mana_r| or |mana_g| to your mana pool.
 
 
 Gruul Keyrune
-    {T}: Add {R} or {G} to your mana pool.
+    |tap|: Add |mana_r| or |mana_g| to your mana pool.
 
-    {R}{G}: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature with trample until end of turn.
+    |mana_r| |mana_g|: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature with trample until end of turn.
 
 
 Gruul Ragebeast
@@ -553,7 +553,7 @@ Gutter Skulk
 Gyre Sage
     Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)
 
-    {T}: Add {G} to your mana pool for each +1/+1 counter on Gyre Sage.
+    |tap|: Add |mana_g| to your mana pool for each +1/+1 counter on Gyre Sage.
 
 
 Hands of Binding
@@ -597,7 +597,7 @@ Homing Lightning
 
 
 Horror of the Dim
-    {U}: Horror of the Dim gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+    |mana_u|: Horror of the Dim gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
 
 
 Hydroform
@@ -611,7 +611,7 @@ Illness in the Ranks
 Illusionist's Bracers
     Whenever an ability of equipped creature is activated, if it isn't a mana ability, copy that ability. You may choose new targets for the copy.
 
-    Equip {3}
+    Equip |mana_3|
 
 
 Immortal Servitude
@@ -639,13 +639,13 @@ Killing Glare
 Kingpin's Pet
     Flying
 
-    Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+    Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)
 
 
 Knight of Obligation
     Vigilance
 
-    Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+    Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)
 
 
 Knight Watch
@@ -733,7 +733,7 @@ Merfolk of the Depths
 Metropolis Sprite
     Flying
 
-    {U}: Metropolis Sprite gets +1/-1 until end of turn.
+    |mana_u|: Metropolis Sprite gets +1/-1 until end of turn.
 
 
 Midnight Recovery
@@ -827,7 +827,7 @@ One Thousand Lashes
 
 
 Ooze Flux
-    {1}{G}, Remove one or more +1/+1 counters from among creatures you control: Put an X/X green Ooze creature token onto the battlefield, where X is the number of +1/+1 counters removed this way.
+    |mana_1| |mana_g|, Remove one or more +1/+1 counters from among creatures you control: Put an X/X green Ooze creature token onto the battlefield, where X is the number of +1/+1 counters removed this way.
 
 
 Ordruun Veteran
@@ -845,13 +845,13 @@ Orzhov Charm
 Orzhov Guildgate
     Orzhov Guildgate enters the battlefield tapped.
 
-    {T}: Add {W} or {B} to your mana pool.
+    |tap|: Add |mana_w| or |mana_b| to your mana pool.
 
 
 Orzhov Keyrune
-    {T}: Add {W} or {B} to your mana pool.
+    |tap|: Add |mana_w| or |mana_b| to your mana pool.
 
-    {W}{B}: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact creature with lifelink until end of turn.
+    |mana_w| |mana_b|: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact creature with lifelink until end of turn.
 
 
 Paranoid Delusions
@@ -883,7 +883,7 @@ Prime Speaker Zegana
 Prophetic Prism
     When Prophetic Prism enters the battlefield, draw a card.
 
-    {1}, {T}: Add one mana of any color to your mana pool.
+    |mana_1|, |tap|: Add one mana of any color to your mana pool.
 
 
 Psychic Strike
@@ -899,7 +899,7 @@ Rapid Hybridization
 
 
 Razortip Whip
-    {1}, {T}: Razortip Whip deals 1 damage to target opponent.
+    |mana_1|, |tap|: Razortip Whip deals 1 damage to target opponent.
 
 
 Realmwright
@@ -915,7 +915,7 @@ Righteous Charge
 Riot Gear
     Equipped creature gets +1/+2.
 
-    Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
 Ripscale Predator
@@ -929,7 +929,7 @@ Rubblebelt Raiders
 Rubblehulk
     Rubblehulk's power and toughness are each equal to the number of lands you control.
 
-    Bloodrush — {1}{R}{G}, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control.
+    Bloodrush — |mana_1| |mana_r| |mana_g|, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control.
 
 
 Ruination Wurm
@@ -941,7 +941,7 @@ Rust Scarab
 
 
 Sacred Foundry
-    ({T}: Add {R} or {W} to your mana pool.)
+    (|tap|: Add |mana_r| or |mana_w| to your mana pool.)
 
     As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, Sacred Foundry enters the battlefield tapped.
 
@@ -957,7 +957,7 @@ Sapphire Drake
 
 
 Scab-Clan Charger
-    Bloodrush — {1}{G}, Discard Scab-Clan Charger: Target attacking creature gets +2/+4 until end of turn.
+    Bloodrush — |mana_1| |mana_g|, Discard Scab-Clan Charger: Target attacking creature gets +2/+4 until end of turn.
 
 
 Scatter Arc
@@ -967,7 +967,7 @@ Scatter Arc
 
 
 Scorchwalker
-    Bloodrush — {1}{R}{R}, Discard Scorchwalker: Target attacking creature gets +5/+1 until end of turn.
+    Bloodrush — |mana_1| |mana_r| |mana_r|, Discard Scorchwalker: Target attacking creature gets +5/+1 until end of turn.
 
 
 Sepulchral Primordial
@@ -1019,41 +1019,41 @@ Simic Charm
 Simic Fluxmage
     Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)
 
-    {1}{U}, {T}: Move a +1/+1 counter from Simic Fluxmage onto target creature.
+    |mana_1| |mana_u|, |tap|: Move a +1/+1 counter from Simic Fluxmage onto target creature.
 
 
 Simic Guildgate
     Simic Guildgate enters the battlefield tapped.
 
-    {T}: Add {G} or {U} to your mana pool.
+    |tap|: Add |mana_g| or |mana_u| to your mana pool.
 
 
 Simic Keyrune
-    {T}: Add {G} or {U} to your mana pool.
+    |tap|: Add |mana_g| or |mana_u| to your mana pool.
 
-    {G}{U}: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature with hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+    |mana_g| |mana_u|: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature with hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
 
 
 Simic Manipulator
     Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)
 
-    {T}, Remove one or more +1/+1 counters from Simic Manipulator: Gain control of target creature with power less than or equal to the number of +1/+1 counters removed this way.
+    |tap|, Remove one or more +1/+1 counters from Simic Manipulator: Gain control of target creature with power less than or equal to the number of +1/+1 counters removed this way.
 
 
 Skarrg Goliath
     Trample
 
-    Bloodrush — {5}{G}{G}, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.
+    Bloodrush — |mana_5| |mana_g| |mana_g|, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.
 
 
 Skarrg Guildmage
-    {R}{G}: Creatures you control gain trample until end of turn.
+    |mana_r| |mana_g|: Creatures you control gain trample until end of turn.
 
-    {1}{R}{G}: Target land you control becomes a 4/4 Elemental creature until end of turn. It's still a land.
+    |mana_1| |mana_r| |mana_g|: Target land you control becomes a 4/4 Elemental creature until end of turn. It's still a land.
 
 
 Skinbrand Goblin
-    Bloodrush — {R}, Discard Skinbrand Goblin: Target attacking creature gets +2/+1 until end of turn.
+    Bloodrush — |mana_r|, Discard Skinbrand Goblin: Target attacking creature gets +2/+1 until end of turn.
 
 
 Skullcrack
@@ -1063,13 +1063,13 @@ Skullcrack
 Skyblinder Staff
     Equipped creature gets +1/+0 and can't be blocked by creatures with flying.
 
-    Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+    Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)
 
 
 Skygames
     Enchant land
 
-    Enchanted land has \"{T}: Target creature gains flying until end of turn. Activate this ability only any time you could cast a sorcery.\"
+    Enchanted land has \"|tap|: Target creature gains flying until end of turn. Activate this ability only any time you could cast a sorcery.\"
 
 
 Skyknight Legionnaire
@@ -1081,7 +1081,7 @@ Slate Street Ruffian
 
 
 Slaughterhorn
-    Bloodrush — {G}, Discard Slaughterhorn: Target attacking creature gets +3/+2 until end of turn.
+    Bloodrush — |mana_g|, Discard Slaughterhorn: Target attacking creature gets +3/+2 until end of turn.
 
 
 Smite
@@ -1109,7 +1109,7 @@ Spark Trooper
 
 
 Spell Rupture
-    Counter target spell unless its controller pays {X}, where X is the greatest power among creatures you control.
+    Counter target spell unless its controller pays |mana_x|, where X is the greatest power among creatures you control.
 
 
 Spire Tracer
@@ -1123,7 +1123,7 @@ Stolen Identity
 
 
 Stomping Ground
-    ({T}: Add {R} or {G} to your mana pool.)
+    (|tap|: Add |mana_r| or |mana_g| to your mana pool.)
 
     As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped.
 
@@ -1133,9 +1133,9 @@ Structural Collapse
 
 
 Sunhome Guildmage
-    {1}{R}{W}: Creatures you control get +1/+0 until end of turn.
+    |mana_1| |mana_r| |mana_w|: Creatures you control get +1/+0 until end of turn.
 
-    {2}{R}{W}: Put a 1/1 red and white Soldier creature token with haste onto the battlefield.
+    |mana_2| |mana_r| |mana_w|: Put a 1/1 red and white Soldier creature token with haste onto the battlefield.
 
 
 Sylvan Primordial
@@ -1145,29 +1145,29 @@ Sylvan Primordial
 
 
 Syndic of Tithes
-    Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+    Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)
 
 
 Syndicate Enforcer
-    Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+    Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)
 
 
 Thespian's Stage
-    {T}: Add {1} to your mana pool.
+    |tap|: Add |mana_1| to your mana pool.
 
-    {2}, {T}: Thespian's Stage becomes a copy of target land and gains this ability.
+    |mana_2|, |tap|: Thespian's Stage becomes a copy of target land and gains this ability.
 
 
 Thrull Parasite
-    Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+    Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)
 
-    {T}, Pay 2 life: Remove a counter from target nonland permanent.
+    |tap|, Pay 2 life: Remove a counter from target nonland permanent.
 
 
 Tin Street Market
     Enchant land
 
-    Enchanted land has \"{T}, Discard a card: Draw a card.\"
+    Enchanted land has \"|tap|, Discard a card: Draw a card.\"
 
 
 Totally Lost
@@ -1179,11 +1179,11 @@ Tower Defense
 
 
 Towering Thunderfist
-    {W}: Towering Thunderfist gains vigilance until end of turn.
+    |mana_w|: Towering Thunderfist gains vigilance until end of turn.
 
 
 Treasury Thrull
-    Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+    Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)
 
     Whenever Treasury Thrull attacks, you may return target artifact, creature, or enchantment card from your graveyard to your hand.
 
@@ -1191,13 +1191,13 @@ Treasury Thrull
 Truefire Paladin
     Vigilance
 
-    {R}{W}: Truefire Paladin gets +2/+0 until end of turn.
+    |mana_r| |mana_w|: Truefire Paladin gets +2/+0 until end of turn.
 
-    {R}{W}: Truefire Paladin gains first strike until end of turn.
+    |mana_r| |mana_w|: Truefire Paladin gains first strike until end of turn.
 
 
 Undercity Informer
-    {1}, Sacrifice a creature: Target player reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.
+    |mana_1|, Sacrifice a creature: Target player reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.
 
 
 Undercity Plague
@@ -1229,19 +1229,19 @@ Verdant Haven
 Viashino Shanktail
     First strike
 
-    Bloodrush — {2}{R}, Discard Viashino Shanktail: Target attacking creature gets +3/+1 and gains first strike until end of turn.
+    Bloodrush — |mana_2| |mana_r|, Discard Viashino Shanktail: Target attacking creature gets +3/+1 and gains first strike until end of turn.
 
 
 Vizkopa Confessor
-    Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each opponent loses 1 life and you gain that much life.)
+    Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)
 
     When Vizkopa Confessor enters the battlefield, pay any amount of life. Target opponent reveals that many cards from his or her hand. You choose one of them and exile it.
 
 
 Vizkopa Guildmage
-    {1}{W}{B}: Target creature gains lifelink until end of turn.
+    |mana_1| |mana_w| |mana_b|: Target creature gains lifelink until end of turn.
 
-    {1}{W}{B}: Whenever you gain life this turn, each opponent loses that much life.
+    |mana_1| |mana_w| |mana_b|: Whenever you gain life this turn, each opponent loses that much life.
 
 
 Voidwalk
@@ -1257,11 +1257,11 @@ Warmind Infantry
 Wasteland Viper
     Deathtouch
 
-    Bloodrush — {G}, Discard Wasteland Viper: Target attacking creature gets +1/+2 and gains deathtouch until end of turn.
+    Bloodrush — |mana_g|, Discard Wasteland Viper: Target attacking creature gets +1/+2 and gains deathtouch until end of turn.
 
 
 Watery Grave
-    ({T}: Add {U} or {B} to your mana pool.)
+    (|tap|: Add |mana_u| or |mana_b| to your mana pool.)
 
     As Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped.
 
@@ -1295,20 +1295,20 @@ Wojek Halberdiers
 Wrecking Ogre
     Double strike
 
-    Bloodrush — {3}{R}{R}, Discard Wrecking Ogre: Target attacking creature gets +3/+3 and gains double strike until end of turn.
+    Bloodrush — |mana_3| |mana_r| |mana_r|, Discard Wrecking Ogre: Target attacking creature gets +3/+3 and gains double strike until end of turn.
 
 
 Zameck Guildmage
-    {G}{U}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.
+    |mana_g| |mana_u|: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.
 
-    {G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.
+    |mana_g| |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card.
 
 
 Zarichi Tiger
-    {1}{W}, {T}: You gain 2 life.
+    |mana_1| |mana_w|, |tap|: You gain 2 life.
 
 
 Zhur-Taa Swine
-    Bloodrush — {1}{R}{G}, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn.
+    Bloodrush — |mana_1| |mana_r| |mana_g|, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn.
 
 
