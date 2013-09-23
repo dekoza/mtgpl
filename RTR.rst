@@ -1,4 +1,5 @@
 .. Return to Ravnica auto-download
+.. include:: symbols.rst
 
 Return to Ravnica
 =================

@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"| | n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
 "X-POOTLE-MTIME: 1379661300.357827\n"
 
@@ -46,19 +46,19 @@ msgstr ""
 "zużycia.)"
 
 msgid ""
-"Equip {3} ({3}: Attach to target creature you control. Equip only as a "
+"Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a "
 "sorcery.)"
 msgstr ""
-"Wyposaż {3} ({3}: Dołącz do wskazanego stwora, którym władasz. Wyposaż "
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora, którym władasz. Wyposaż "
 "wyłącznie jako obrzęd.)"
 
 #: Act of Treason
 msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
-"gains haste until end of turn. (It can attack and {T} this turn.)"
+"gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
 "Przejmij władanie nad wskazanym stworem do końca tury. Odśwież tego stwora. "
-"Zyskuje on Pośpiech do końca tury. (Może atakować i {T} w tej turze.)"
+"Zyskuje on Pośpiech do końca tury. (Może atakować i |tap| w tej turze.)"
 
 #: Advocate of the Beast
 msgid ""
@@ -76,8 +76,8 @@ msgstr ""
 msgid "Flying"
 msgstr "Latanie"
 
-msgid "{2}{U}: Tap target creature with flying."
-msgstr "{2}{U}: Zużyj wskazanego stwora z Lataniem."
+msgid "|mana_2| |mana_u|: Tap target creature with flying."
+msgstr "|mana_2| |mana_u|: Zużyj wskazanego stwora z Lataniem."
 
 #: Ajani, Caller of the Pride
 msgid "+1: Put a +1/+1 counter on up to one target creature."
@@ -186,10 +186,10 @@ msgstr ""
 
 #: Barrage of Expendables
 msgid ""
-"{R}, Sacrifice a creature: Barrage of Expendables deals 1 damage to target "
+"|mana_r|, Sacrifice a creature: Barrage of Expendables deals 1 damage to target "
 "creature or player."
 msgstr ""
-"{R}, poświęć stwora: Kanonada Straceńców zadaje 1 obrażenie wskazanemu "
+"|mana_r|, poświęć stwora: Kanonada Straceńców zadaje 1 obrażenie wskazanemu "
 "stworowi lub graczowi."
 
 #: Battle Sliver
@@ -202,8 +202,8 @@ msgstr "Slivery, którymi władasz dostają +2/+0."
 msgid "Enchant creature"
 msgstr "Zaurocz stwora"
 
-msgid "{W}: Enchanted creature gets +1/+1 until end of turn."
-msgstr "{W}: Zauroczony stwór dostaje +1/+1 do końca tury."
+msgid "|mana_w|: Enchanted creature gets +1/+1 until end of turn."
+msgstr "|mana_w|: Zauroczony stwór dostaje +1/+1 do końca tury."
 
 #: Blightcaster
 msgid ""
@@ -218,18 +218,18 @@ msgstr "Poświęć innego stwora: Dziecię Krwi dostaje +2/+2 do końca tury."
 
 #: Blur Sliver
 msgid ""
-"Sliver creatures you control have haste. (They can attack and {T} as soon as "
+"Sliver creatures you control have haste. (They can attack and |tap| as soon as "
 "they come under your control.)"
 msgstr ""
-"Slivery, którymi władasz mają Pośpiech. (Mogą atakować i {T} od razu po "
+"Slivery, którymi władasz mają Pośpiech. (Mogą atakować i |tap| od razu po "
 "wejściu pod twoje władanie.)"
 
 #: Bogbrew Witch
 msgid ""
-"{2}, {T}: Search your library for a card named Festering Newt or Bubbling "
+"|mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling "
 "Cauldron, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"{2}, {T}: Wyszukaj w swojej bibliotece kartę Festering Newt lub Bubbling "
+"|mana_2|, |tap|: Wyszukaj w swojej bibliotece kartę Festering Newt lub Bubbling "
 "Cauldron, połóż ją na polu walki jako zużytą, następnie przetasuj "
 "bibliotekę."
 
@@ -273,14 +273,14 @@ msgid "Sacrifice Brindle Boar: You gain 4 life."
 msgstr "Poświęć Moręgowatego Dzika: Zyskujesz 4 życia."
 
 #: Bubbling Cauldron
-msgid "{1}, {T}, Sacrifice a creature: You gain 4 life."
-msgstr "{1}, {T}, poświęć stwora: Zyskujesz 4 życia."
+msgid "|mana_1|, |tap|, Sacrifice a creature: You gain 4 life."
+msgstr "|mana_1|, |tap|, poświęć stwora: Zyskujesz 4 życia."
 
 msgid ""
-"{1}, {T}, Sacrifice a creature named Festering Newt: Each opponent loses 4 "
+"|mana_1|, |tap|, Sacrifice a creature named Festering Newt: Each opponent loses 4 "
 "life. You gain life equal to the life lost this way."
 msgstr ""
-"{1}, {T}, poświęć stwora o nazwie Zaropiała Traszka: Każdy przeciwnik traci "
+"|mana_1|, |tap|, poświęć stwora o nazwie Zaropiała Traszka: Każdy przeciwnik traci "
 "4 życia. Zyskujesz tyle życia, ile stracono w ten sposób."
 
 #: Burning Earth
@@ -303,8 +303,8 @@ msgstr ""
 "Pierwszy Cios (Ten stwór zadaje obrażenia bojowe przed stworami bez "
 "Pierwszego Ciosu.)"
 
-msgid "{1}{W}: Capashen Knight gets +1/+0 until end of turn."
-msgstr "{1}{W}: Rycerz z Capashen dostaje +1/+0 do końca tury."
+msgid "|mana_1| |mana_w|: Capashen Knight gets +1/+0 until end of turn."
+msgstr "|mana_1| |mana_w|: Rycerz z Capashen dostaje +1/+0 do końca tury."
 
 #: Celestial Flare
 msgid "Target player sacrifices an attacking or blocking creature."
@@ -343,10 +343,10 @@ msgstr ""
 "owego stwora."
 
 msgid ""
-"Haste (This creature can attack and {T} as soon as it comes under your "
+"Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
-"Pośpiech (Ten stwór może atakować i {T} od razu po wejściu pod twoje "
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
 "władanie.)"
 
 msgid ""
@@ -399,10 +399,10 @@ msgstr "Wskazany gracz dostaje 2 życia za każdego stwora na polu walki."
 
 #: Corpse Hauler
 msgid ""
-"{2}{B}, Sacrifice Corpse Hauler: Return another target creature card from "
+"|mana_2| |mana_b|, Sacrifice Corpse Hauler: Return another target creature card from "
 "your graveyard to your hand."
 msgstr ""
-"{2}{B}, poświęć Wozaka Zwłok: Przywróć inną wskazaną kartę stwora ze swojego "
+"|mana_2| |mana_b|, poświęć Wozaka Zwłok: Przywróć inną wskazaną kartę stwora ze swojego "
 "cmentarza do swojej ręki."
 
 #: Corrupt
@@ -445,8 +445,8 @@ msgstr ""
 "Niezniszczalność (Efekty, które mówią \"zniszcz\", nie niszczą tego "
 "artefaktu.)"
 
-msgid "{T}: Add one mana of any color to your mana pool."
-msgstr "{T}: Dodaj jedną manę w dowolnym kolorze do swojego zasobnika many."
+msgid "|tap|: Add one mana of any color to your mana pool."
+msgstr "|tap|: Dodaj jedną manę w dowolnym kolorze do swojego zasobnika many."
 
 #: Dawnstrike Paladin
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
@@ -539,13 +539,13 @@ msgstr ""
 
 msgid ""
 "When Dragon Egg dies, put a 2/2 red Dragon creature token with flying onto "
-"the battlefield. It has \"{R}: This creature gets +1/+0 until end of turn.\""
+"the battlefield. It has \"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
 "Kiedy Smocze Jajo umiera, połóż na polu walki żeton czerwonego stwora Smok "
-"2/2 z Lataniem oraz \"{R}: Ten stwór dostaje +1/+0 do końca tury.\""
+"2/2 z Lataniem oraz \"|mana_r|: Ten stwór dostaje +1/+0 do końca tury.\""
 
-msgid "{R}: Dragon Hatchling gets +1/+0 until end of turn."
-msgstr "{R}: Wykluty Smok dostaje +1/+0 do końca tury."
+msgid "|mana_r|: Dragon Hatchling gets +1/+0 until end of turn."
+msgstr "|mana_r|: Wykluty Smok dostaje +1/+0 do końca tury."
 
 #: Duress
 msgid ""
@@ -564,32 +564,32 @@ msgstr ""
 "ze swojej ręki."
 
 msgid ""
-"{X}, {T}: Copy the exiled card. You may cast the copy without paying its "
+"|mana_x|, |tap|: Copy the exiled card. You may cast the copy without paying its "
 "mana cost. X is the converted mana cost of the exiled card."
 msgstr ""
-"{X}, {T}: Skopiuj ową wypędzoną kartę. Możesz rzucić kopię bez płacenia "
+"|mana_x|, |tap|: Skopiuj ową wypędzoną kartę. Możesz rzucić kopię bez płacenia "
 "kosztu many. X jest skonwertowanym kosztem many wypędzonej karty."
 
 #: Elixir of Immortality
 msgid ""
-"{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard "
+"|mana_2|, |tap|: You gain 5 life. Shuffle Elixir of Immortality and your graveyard "
 "into their owner's library."
 msgstr ""
-"{2}, {T}: Zyskujesz 5 życia. Wtasuj Elixir of Immortality oraz swój cmentarz "
+"|mana_2|, |tap|: Zyskujesz 5 życia. Wtasuj Elixir of Immortality oraz swój cmentarz "
 "do bibliotek ich właścicieli."
 
 #: Elvish Mystic
-msgid "{T}: Add {G} to your mana pool."
-msgstr "{T}: Dodaj {G} to swojego zasobnika many."
+msgid "|tap|: Add |mana_g| to your mana pool."
+msgstr "|tap|: Dodaj |mana_g| to swojego zasobnika many."
 
 #: Encroaching Wastes Mutavault Shimmering Grotto
-msgid "{T}: Add {1} to your mana pool."
-msgstr "{T}: Dodaj {1} do swojego zasobnika many."
+msgid "|tap|: Add |mana_1| to your mana pool."
+msgstr "|tap|: Dodaj |mana_1| do swojego zasobnika many."
 
 #, fuzzy
-msgid "{4}, {T}, Sacrifice Encroaching Wastes: Destroy target nonbasic land."
+msgid "|mana_4|, |tap|, Sacrifice Encroaching Wastes: Destroy target nonbasic land."
 msgstr ""
-"{4}, {T}, poświęć Wdzierające się Pustkowie: Zniszcz wskazany niepodstawowy "
+"|mana_4|, |tap|, poświęć Wdzierające się Pustkowie: Zniszcz wskazany niepodstawowy "
 "ląd."
 
 #: Enlarge
@@ -642,10 +642,10 @@ msgstr ""
 "Pierwszy Cios oraz normalnie.)"
 
 msgid ""
-"Equip {2} ({2}: Attach to target creature you control. Equip only as a "
+"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a "
 "sorcery.)"
 msgstr ""
-"Wyposaż {2} ({2}: Dołącz do wskazanego stwora, którym władasz. Wyposaż "
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora, którym władasz. Wyposaż "
 "wyłącznie jako obrzęd.)"
 
 # W języku polskim "lub" oznacza angielskie "and/or" ("or" to polskie "albo") - taka ciekawostka nomenklatury logiki matematycznej ;)
@@ -754,14 +754,14 @@ msgstr ""
 
 #: Gnawing Zombie
 msgid ""
-"{1}{B}, Sacrifice a creature: Target player loses 1 life and you gain 1 life."
+"|mana_1| |mana_b|, Sacrifice a creature: Target player loses 1 life and you gain 1 life."
 msgstr ""
-"{1}{B}, poświęć stwora: Wskazany gracz traci 1 życie, a ty otrzymujesz 1 "
+"|mana_1| |mana_b|, poświęć stwora: Wskazany gracz traci 1 życie, a ty otrzymujesz 1 "
 "życie."
 
 #: Goblin Diplomats
-msgid "{T}: Each creature attacks this turn if able."
-msgstr "{T}: Każdy stwór atakuje w tej turze, jeśli może."
+msgid "|tap|: Each creature attacks this turn if able."
+msgstr "|tap|: Każdy stwór atakuje w tej turze, jeśli może."
 
 #: Goblin Shortcutter
 msgid ""
@@ -802,19 +802,19 @@ msgid "Equipped creature gets +4/+4."
 msgstr "Wyposażony stwór dostaje +4/+4."
 
 msgid ""
-"{0}: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact "
+"|mana_0|: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact "
 "creature that's no longer an Equipment. Activate this ability only if you "
 "control no creatures."
 msgstr ""
-"{0}: Do końca tury Haunted Plate Mail staje się artefaktycznym stworem "
+"|mana_0|: Do końca tury Haunted Plate Mail staje się artefaktycznym stworem "
 "Spirit 4/4, który nie jest Wyposażeniem. Aktywuj tę zdolność tylko jeśli nie "
 "władasz żadnymi stworami."
 
 msgid ""
-"Equip {4} ({4}: Attach to target creature you control. Equip only as a "
+"Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only as a "
 "sorcery.)"
 msgstr ""
-"Wyposaż {4} ({4}: Dołącz do wskazanego stwora, którym władasz. Wyposaż "
+"Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora, którym władasz. Wyposaż "
 "wyłącznie jako obrzęd.)"
 
 #: Hive Stirrings
@@ -961,11 +961,11 @@ msgstr ""
 "liczbą Bagien, którymi władasz."
 
 msgid ""
-"-6: You get an emblem with \"Swamps you control have ‘{T}: Add {B}{B}{B}{B} "
+"-6: You get an emblem with \"Swamps you control have ‘|tap|: Add |mana_b| |mana_b| |mana_b| |mana_b| "
 "to your mana pool.'\""
 msgstr ""
-"-6: Dostajesz emblemat o treści \"Bagna, którymi władasz, mają '{T}: Dodaj "
-"{B}{B}{B}{B} do swojego zasobnika many.'\""
+"-6: Dostajesz emblemat o treści \"Bagna, którymi władasz, mają '|tap|: Dodaj "
+"|mana_b| |mana_b| |mana_b| |mana_b| do swojego zasobnika many.'\""
 
 msgid ""
 "Whenever Liliana's Reaver deals combat damage to a player, that player "
@@ -976,15 +976,15 @@ msgstr ""
 "kartę, a ty kładziesz na polu walki zużyty żeton czarnego stwora Zombie 2/2."
 
 #: Liturgy of Blood
-msgid "Destroy target creature. Add {B}{B}{B} to your mana pool."
-msgstr "Zniszcz wskazanego stwora. Dodaj {B}{B}{B} do swojego zasobnika many."
+msgid "Destroy target creature. Add |mana_b| |mana_b| |mana_b| to your mana pool."
+msgstr "Zniszcz wskazanego stwora. Dodaj |mana_b| |mana_b| |mana_b| do swojego zasobnika many."
 
 #: Manaweft Sliver
 msgid ""
-"Sliver creatures you control have \"{T}: Add one mana of any color to your "
+"Sliver creatures you control have \"|tap|: Add one mana of any color to your "
 "mana pool.\""
 msgstr ""
-"Slivery, którymi władasz, mają \"{T}: Dodaj jedną manę dowolnego koloru do "
+"Slivery, którymi władasz, mają \"|tap|: Dodaj jedną manę dowolnego koloru do "
 "swojego zasobnika many.\""
 
 #: Marauding Maulhorn
@@ -1026,10 +1026,10 @@ msgstr "Kiedy Messenger Drake umiera, dobierz kartę."
 
 #: Millstone
 msgid ""
-"{2}, {T}: Target player puts the top two cards of his or her library into "
+"|mana_2|, |tap|: Target player puts the top two cards of his or her library into "
 "his or her graveyard."
 msgstr ""
-"{2}, {T}: Wskazany gracz przekłada dwie wierzchnie karty ze swojej "
+"|mana_2|, |tap|: Wskazany gracz przekłada dwie wierzchnie karty ze swojej "
 "biblioteki do swojego cmentarza."
 
 #: Mind Rot
@@ -1057,10 +1057,10 @@ msgid "R"
 msgstr "R"
 
 msgid ""
-"{1}: Mutavault becomes a 2/2 creature with all creature types until end of "
+"|mana_1|: Mutavault becomes a 2/2 creature with all creature types until end of "
 "turn. It's still a land."
 msgstr ""
-"{1}: Mutavault do końca tury staje się stworem 2/2 liczącym się jako każdy "
+"|mana_1|: Mutavault do końca tury staje się stworem 2/2 liczącym się jako każdy "
 "typ stwora i wciąż jest lądem."
 
 #: Naturalize
@@ -1078,8 +1078,8 @@ msgstr ""
 "Siła oraz wytrzymałość Nightmare są obie równe liczbie Bagien, którymi "
 "władasz."
 
-msgid "{1}{B}: Nightwing Shade gets +1/+1 until end of turn."
-msgstr "{1}{B}: Nightwing Shade dostaje +1/+1 do końca tury."
+msgid "|mana_1| |mana_b|: Nightwing Shade gets +1/+1 until end of turn."
+msgstr "|mana_1| |mana_b|: Nightwing Shade dostaje +1/+1 do końca tury."
 
 #: Oath of the Ancient Wood
 msgid ""
@@ -1094,10 +1094,10 @@ msgstr ""
 msgid ""
 "Whenever another creature enters the battlefield under your control, that "
 "creature gets +2/+0 and gains haste until end of turn. (It can attack and "
-"{T} this turn.)"
+"|tap| this turn.)"
 msgstr ""
 "Ilekroć inny stwór wchodzi na pole walki pod twoim władaniem, ów stwór "
-"dostaje +2/+0 oraz Pośpiech do końca tury. (Może atakować oraz {T} w tej "
+"dostaje +2/+0 oraz Pośpiech do końca tury. (Może atakować oraz |tap| w tej "
 "turze.)"
 
 #: Opportunity
@@ -1210,14 +1210,14 @@ msgstr ""
 "przeciwników.)"
 
 #: Ratchet Bomb
-msgid "{T}: Put a charge counter on Ratchet Bomb."
-msgstr "{T}: Połóż znacznik ładowania na Ratchet Bomb."
+msgid "|tap|: Put a charge counter on Ratchet Bomb."
+msgstr "|tap|: Połóż znacznik ładowania na Ratchet Bomb."
 
 msgid ""
-"{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted "
+"|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted "
 "mana cost equal to the number of charge counters on Ratchet Bomb."
 msgstr ""
-"{T}, poświęć Ratchet Bomb: zniszcz każdą nie będącą lądem stałkę, której "
+"|tap|, poświęć Ratchet Bomb: zniszcz każdą nie będącą lądem stałkę, której "
 "łączny koszt many jest równy liczbie znaczników ładowania na Ratchet Bomb."
 
 #: Ring of Three Wishes
@@ -1227,11 +1227,11 @@ msgstr ""
 "Ring of Three Wishes wchodzi na pole walki z trzema znacznikami życzenia."
 
 msgid ""
-"{5}, {T}, Remove a wish counter from Ring of Three Wishes: Search your "
+"|mana_5|, |tap|, Remove a wish counter from Ring of Three Wishes: Search your "
 "library for a card and put that card into your hand. Then shuffle your "
 "library."
 msgstr ""
-"{5}, {T}, usuń znacznik życzenia z Ring of Three Wishes: Poszukaj kartę w "
+"|mana_5|, |tap|, usuń znacznik życzenia z Ring of Three Wishes: Poszukaj kartę w "
 "swojej bibliotece i dołóż ją do ręki. Następnie przetasuj bibliotekę."
 
 #: Rise of the Dark Realms
@@ -1243,16 +1243,16 @@ msgstr ""
 "wszystkich cmentarzy."
 
 #: Rod of Ruin
-msgid "{3}, {T}: Rod of Ruin deals 1 damage to target creature or player."
+msgid "|mana_3|, |tap|: Rod of Ruin deals 1 damage to target creature or player."
 msgstr ""
-"{3}, {T}: Rod of Ruin zadaje 1 obrażenie wskazanemu stworowi albo graczowi."
+"|mana_3|, |tap|: Rod of Ruin zadaje 1 obrażenie wskazanemu stworowi albo graczowi."
 
 #: Rootwalla
 msgid ""
-"{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only "
+"|mana_1| |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only "
 "once each turn."
 msgstr ""
-"{1}{G}: Rootwalla dostaje +2/+2 do końca tury. Aktywuj tę zdolność tylko raz "
+"|mana_1| |mana_g|: Rootwalla dostaje +2/+2 do końca tury. Aktywuj tę zdolność tylko raz "
 "na turę."
 
 #: Sanguine Bond
@@ -1274,10 +1274,10 @@ msgstr ""
 
 #: Scavenging Ooze
 msgid ""
-"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/"
+"|mana_g|: Exile target card from a graveyard. If it was a creature card, put a +1/"
 "+1 counter on Scavenging Ooze and you gain 1 life."
 msgstr ""
-"{G}: Wypędź wskazaną kartę z cmentarza. Jeśli była to karta stwora, połóż "
+"|mana_g|: Wypędź wskazaną kartę z cmentarza. Jeśli była to karta stwora, połóż "
 "znacznik +1/+1 na Scavenging Ooze i zyskaj 1 życie."
 
 msgid ""
@@ -1289,8 +1289,8 @@ msgstr ""
 "władaniem, zadaje on X obrażeń wskazanemu stworowi lub graczowi, gdzie X "
 "jest liczbą Smoków, którymi władasz."
 
-msgid "{R}: Scourge of Valkas gets +1/+0 until end of turn."
-msgstr "{R}: Scourge of Valkas dostaje +1/+0 do końca tury."
+msgid "|mana_r|: Scourge of Valkas gets +1/+0 until end of turn."
+msgstr "|mana_r|: Scourge of Valkas dostaje +1/+0 do końca tury."
 
 #: Scroll Thief
 msgid "Whenever Scroll Thief deals combat damage to a player, draw a card."
@@ -1328,11 +1328,11 @@ msgid "A deck can have any number of cards named Shadowborn Apostle."
 msgstr "Talia może mieć dowolną liczbę kart o nazwie Shadowborn Apostle."
 
 msgid ""
-"{B}, Sacrifice six creatures named Shadowborn Apostle: Search your library "
+"|mana_b|, Sacrifice six creatures named Shadowborn Apostle: Search your library "
 "for a Demon creature card and put it onto the battlefield. Then shuffle your "
 "library."
 msgstr ""
-"{B}, poświęć sześć stworów o nazwie Shadowborn Apostle: Poszukaj w swojej "
+"|mana_b|, poświęć sześć stworów o nazwie Shadowborn Apostle: Poszukaj w swojej "
 "bibliotece karty stwora Demon i połóż ją na polu walki. Następnie przetasuj "
 "bibliotekę."
 
@@ -1350,17 +1350,17 @@ msgstr ""
 "Na początku swojego utrzymania, jeśli w twoim cmentarzu jest mniej niż sześć "
 "kart stworów, poświęć stwora."
 
-msgid "{1}, {T}: Add one mana of any color to your mana pool."
-msgstr "{1}, {T}: Dodaj jedną manę dowolnego koloru do swojego zasobnika many."
+msgid "|mana_1|, |tap|: Add one mana of any color to your mana pool."
+msgstr "|mana_1|, |tap|: Dodaj jedną manę dowolnego koloru do swojego zasobnika many."
 
-msgid "{R}: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "{R}: Shivan Dragon dostaje +1/+0 do końca tury."
+msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
+msgstr "|mana_r|: Shivan Dragon dostaje +1/+0 do końca tury."
 
 msgid "Enchanted creature gets +2/+2 and has flying."
 msgstr "Zauroczony stwór dostaje +2/+2 i ma Latanie."
 
-msgid "{R}: Enchanted creature gets +1/+0 until end of turn."
-msgstr "{R}: Zauroczony stwór dostaje +1/+0 do końca tury."
+msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
+msgstr "|mana_r|: Zauroczony stwór dostaje +1/+0 do końca tury."
 
 #: Shock
 msgid "Shock deals 2 damage to target creature or player."
@@ -1391,16 +1391,16 @@ msgid "Destroy target artifact or enchantment. You gain 4 life."
 msgstr "Zniszcz wskazany artefakt lub urok. Dostajesz 4 życia."
 
 #: Soulmender
-msgid "{T}: You gain 1 life."
-msgstr "{T}: Dostajesz 1 życie."
+msgid "|tap|: You gain 1 life."
+msgstr "|tap|: Dostajesz 1 życie."
 
 #: Spell Blast
 msgid ""
 "Counter target spell with converted mana cost X. (For example, if that "
-"spell's mana cost is {3}{U}{U}, X is 5.)"
+"spell's mana cost is |mana_3| |mana_u| |mana_u|, X is 5.)"
 msgstr ""
 "Skontruj wskazany czar o łącznym koszcie many równym X. (Np. jeśli koszt "
-"tego czaru to {3}{U}{U}, X wynosi 5.)"
+"tego czaru to |mana_3| |mana_u| |mana_u|, X wynosi 5.)"
 
 #: Sporemound
 msgid ""
@@ -1456,11 +1456,11 @@ msgstr "Slivery, którymi władasz, dostają +0/+1."
 
 #: Stonehorn Chanter
 msgid ""
-"{5}{W}: Stonehorn Chanter gains vigilance and lifelink until end of turn. "
+"|mana_5| |mana_w|: Stonehorn Chanter gains vigilance and lifelink until end of turn. "
 "(Attacking doesn't cause it to tap. Damage dealt by it also causes you to "
 "gain that much life.)"
 msgstr ""
-"{5}{W}: Stonehorn Chanter zyskuje Czujność oraz Więź Życia do końca tury. "
+"|mana_5| |mana_w|: Stonehorn Chanter zyskuje Czujność oraz Więź Życia do końca tury. "
 "(Atakowanie nie powoduje jego zużycia. Obrażenia przez niego zadane "
 "powodują, że dostajesz tyle samo życia.)"
 
@@ -1475,11 +1475,11 @@ msgstr ""
 #: Strionic Resonator
 #, fuzzy
 msgid ""
-"{2}, {T}: Copy target triggered ability you control. You may choose new "
+"|mana_2|, |tap|: Copy target triggered ability you control. You may choose new "
 "targets for the copy. (A triggered ability uses the words \"when,\" "
 "\"whenever,\" or \"at.\")"
 msgstr ""
-"{2}, {T}: Skopiuj wskazaną zdolność wyzwalaną, którą władasz. Możesz wybrać "
+"|mana_2|, |tap|: Skopiuj wskazaną zdolność wyzwalaną, którą władasz. Możesz wybrać "
 "nowe cele dla owej kopii. (Zdolność wyzwalana używa takich słów jak \"gdy\", "
 "\"kiedy\", \"na początku\", \"podczas\".)"
 
@@ -1497,10 +1497,10 @@ msgstr ""
 
 #: Tenacious Dead
 msgid ""
-"When Tenacious Dead dies, you may pay {1}{B}. If you do, return it to the "
+"When Tenacious Dead dies, you may pay |mana_1| |mana_b|. If you do, return it to the "
 "battlefield tapped under its owner's control."
 msgstr ""
-"Kiedy Tenacious Dead umiera, możesz zapłacić {1}{B}. Gdy tak zrobisz, "
+"Kiedy Tenacious Dead umiera, możesz zapłacić |mana_1| |mana_b|. Gdy tak zrobisz, "
 "przywróć go zużytego na pole walki pod władaniem jego właściciela."
 
 #: Thorncaster Sliver
@@ -1543,24 +1543,24 @@ msgstr ""
 "cmentarza."
 
 #: Trading Post
-msgid "{1}, {T}, Discard a card: You gain 4 life."
-msgstr "{1}, {T}, odrzuć kartę: Zyskujesz 4 życia."
+msgid "|mana_1|, |tap|, Discard a card: You gain 4 life."
+msgstr "|mana_1|, |tap|, odrzuć kartę: Zyskujesz 4 życia."
 
 msgid ""
-"{1}, {T}, Pay 1 life: Put a 0/1 white Goat creature token onto the "
+"|mana_1|, |tap|, Pay 1 life: Put a 0/1 white Goat creature token onto the "
 "battlefield."
 msgstr ""
-"{1}, {T}, zapłać 1 życie: Połóż na polu walki żeton białego stwora Goat 0/1."
+"|mana_1|, |tap|, zapłać 1 życie: Połóż na polu walki żeton białego stwora Goat 0/1."
 
 msgid ""
-"{1}, {T}, Sacrifice a creature: Return target artifact card from your "
+"|mana_1|, |tap|, Sacrifice a creature: Return target artifact card from your "
 "graveyard to your hand."
 msgstr ""
-"{1}, {T}, poświęć stwora: Przywróć wskazany artefakt ze swojego cmentarza do "
+"|mana_1|, |tap|, poświęć stwora: Przywróć wskazany artefakt ze swojego cmentarza do "
 "swojej ręki."
 
-msgid "{1}, {T}, Sacrifice an artifact: Draw a card."
-msgstr "{1}, {T}, poświęć artefakt: dobierz kartę."
+msgid "|mana_1|, |tap|, Sacrifice an artifact: Draw a card."
+msgstr "|mana_1|, |tap|, poświęć artefakt: dobierz kartę."
 
 msgid ""
 "Whenever Trained Condor attacks, another target creature you control gains "
@@ -1578,11 +1578,11 @@ msgstr ""
 "dół, do swojego cmentarza."
 
 msgid ""
-"Enchanted creature gets +2/+2 and has \"{1}{G}: Regenerate this creature."
+"Enchanted creature gets +2/+2 and has \"|mana_1| |mana_g|: Regenerate this creature."
 "\" (The next time the creature would be destroyed this turn, it isn't. "
 "Instead tap it, remove all damage from it, and remove it from combat.)"
 msgstr ""
-"Zauroczony stwór dostaje +2/+2 oraz ma \"{1}{G}: Regeneruj tego stwora.\" "
+"Zauroczony stwór dostaje +2/+2 oraz ma \"|mana_1| |mana_g|: Regeneruj tego stwora.\" "
 "(Następnym razem w tej turze, kiedy ten stwór miałby zostać zniszczony, nie "
 "jest. Zamiast tego zużyj go, usuń z niego wszystkie obrażenia i usuń go z "
 "walki.)"
@@ -1627,10 +1627,10 @@ msgstr ""
 
 #: Vial of Poison
 msgid ""
-"{1}, Sacrifice Vial of Poison: Target creature gains deathtouch until end of "
+"|mana_1|, Sacrifice Vial of Poison: Target creature gains deathtouch until end of "
 "turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
-"{1}, poświęć Vial of Poison: Wskazany stwór dostaje Dotyk Śmierci do końca "
+"|mana_1|, poświęć Vial of Poison: Wskazany stwór dostaje Dotyk Śmierci do końca "
 "tury. (Stwór otrzymujący od niego jakiekolwiek obrażenia zostaje "
 "zniszczony.)"
 
@@ -1666,15 +1666,15 @@ msgid "Defender (This creature can't attack)"
 msgstr "Obronność (Ten stwór nie może atakować)"
 
 #, fuzzy
-msgid "Creature spells with flying you cast cost {1} less to cast."
-msgstr "Koszt rzucenia twoich czarów stworów z Lataniem jest zmniejszony o {1}."
+msgid "Creature spells with flying you cast cost |mana_1| less to cast."
+msgstr "Koszt rzucenia twoich czarów stworów z Lataniem jest zmniejszony o |mana_1|."
 
 #: Water Servant
-msgid "{U}: Water Servant gets +1/-1 until end of turn."
-msgstr "{U}: Water Servant dostaje +1/-1 do końca tury."
+msgid "|mana_u|: Water Servant gets +1/-1 until end of turn."
+msgstr "|mana_u|: Water Servant dostaje +1/-1 do końca tury."
 
-msgid "{U}: Water Servant gets -1/+1 until end of turn."
-msgstr "{U}: Water Servant dostaje -1/+1 do końca tury."
+msgid "|mana_u|: Water Servant gets -1/+1 until end of turn."
+msgstr "|mana_u|: Water Servant dostaje -1/+1 do końca tury."
 
 #: Wild Guess
 msgid "As an additional cost to cast Wild Guess, discard a card."
@@ -1735,5 +1735,5 @@ msgstr ""
 "czerwonego stwora Elemental 1/1."
 
 #: Zephyr Charge
-msgid "{1}{U}: Target creature gains flying until end of turn."
-msgstr "{1}{U}: Wskazany stwór dostaje Latanie do końca tury."
+msgid "|mana_1| |mana_u|: Target creature gains flying until end of turn."
+msgstr "|mana_1| |mana_u|: Wskazany stwór dostaje Latanie do końca tury."

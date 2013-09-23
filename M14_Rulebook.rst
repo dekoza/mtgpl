@@ -1,5 +1,6 @@
 .. Magic The Gathering Basc Rulebook by Wizards of the Coast
    Converting to reStructuredText and editing: Dominik Kozaczko <dominik@kozaczko.info>
+.. include:: symbols.rst
 
 **************************************
  Magic the Gathering - Basic Rulebook
@@ -41,8 +42,8 @@ Five Colors of Mana
 Only one thing unites the infinite planes of the Multiverse: mana, the energy that fuels all magic. The five colors of mana are imbued
 in the land itself, and a Planeswalker with a connection to a place can call upon its mana from across the sea of Æther between worlds.
 
-Each color of mana fuels a different kind of powerful magic for you to command. For example, red spells have {R} in their costs,
-and tapping (turning) a Mountain gives you {R} that you can spend to cast spells. It's up to you whether to master one color or all five.
+Each color of mana fuels a different kind of powerful magic for you to command. For example, red spells have |mana_r| in their costs,
+and tapping (turning) a Mountain gives you |mana_r| that you can spend to cast spells. It's up to you whether to master one color or all five.
 
 White
 ~~~~~
@@ -88,7 +89,7 @@ Mana Cost
 ~~~~~~~~~
 *Mana* is the main resource in the game. It's produced by lands, and you spend it to cast *spells*.
 The symbols in a card's upper right corner tell you the cost to cast that spell. If the mana cost reads
-{4}{R}{R}, you pay four mana of any kinds plus two red mana (from two Mountains) to cast it.
+|mana_4| |mana_r| |mana_r|, you pay four mana of any kinds plus two red mana (from two Mountains) to cast it.
 
 Type Line
 ~~~~~~~~~
@@ -188,7 +189,7 @@ in combat. Its toughness (the second number) is how much damage must be dealt to
 destroy it. Creatures attack and block during the *combat phase*.
 
 Unlike other types of permanents, creatures enter the battlefield with "summoning sickness": a creature
-can't attack, or use an ability that has {T} in its cost, until it has started your turn on the battlefield under
+can't attack, or use an ability that has |tap| in its cost, until it has started your turn on the battlefield under
 your control. You can block with a creature or activate its other abilities no matter how long it's been on
 the battlefield.
 
@@ -227,8 +228,8 @@ Most lands have abilities that make mana. You'll use lands to make the mana you 
 and abilities.
 
 Each basic land has a mana ability that makes one mana of a particular color. Plains make white mana
-({W}), Islands make blue mana ({U}), Swamps make black mana ({B}), Mountains make red mana ({R}), and
-Forests make green mana ({G}). Any land other than these five is a *nonbasic land*.
+(|mana_w|), Islands make blue mana (|mana_u|), Swamps make black mana (|mana_b|), Mountains make red mana (|mana_r|), and
+Forests make green mana (|mana_g|). Any land other than these five is a *nonbasic land*.
 
 +-------------+----------------+------------+------------+------------+------------------+
 |Card type    | Is a permanent | Is cast as | Is usually | Can attack | Can be attacked  |
@@ -336,10 +337,10 @@ To do just about anything else in the game, you first need to be
 able to make mana. Think of mana as Magic money—it's what
 you use to pay most costs. Each mana is either one of the five
 **Magic** *colors* or is *colorless*. When a cost requires colored mana,
-you'll see colored mana symbols ({W} for white, {U} for blue, {B}
-for black, {R} for red, {G} for green). When any kind of mana
+you'll see colored mana symbols (|mana_w| for white, |mana_u| for blue, |mana_b|
+for black, |mana_r| for red, |mana_g| for green). When any kind of mana
 can be used to pay the cost, you'll see a symbol with a number
-in it (like {2}).
+in it (like |mana_2|).
 
 Where does mana come from? Nearly every land in the game
 has an ability that produces mana. Basic lands just have a large
@@ -347,21 +348,21 @@ mana symbol in their text boxes to show this—you can tap one
 of them to add one mana of that color to your *mana pool*. (Your
 mana pool is where mana is stored until you spend it.) Other
 lands, as well as some creatures, artifacts, and spells, may also
-make mana. They'll say something like "Add {G} to your mana
+make mana. They'll say something like "Add |mana_g| to your mana
 pool."
 
 +-----------------+-------------------+
 | Basic land type | Can be tapped for |
 +=================+===================+
-| Plains          |    {W} (white)    |
+| Plains          | |mana_w| (white)  |
 +-----------------+-------------------+
-| Island          |    {U} (blue)     |
+| Island          | |mana_u| (blue)   |
 +-----------------+-------------------+
-| Swamp           |    {B} (black)    |
+| Swamp           | |mana_b| (black)  |
 +-----------------+-------------------+
-| Mountain        |    {R} (red)      |
+| Mountain        | |mana_r| (red)    |
 +-----------------+-------------------+
-| Forest          |    {G} (green)    |
+| Forest          | |mana_g| (green)  |
 +-----------------+-------------------+
 
 Mana that you've made doesn't last forever. At the end of each
@@ -372,8 +373,8 @@ make mana when you need it to cast a spell or activate an ability.
 Tapping
 ~~~~~~~
 To tap a card is to turn it sideways. You do this when you use a land to make mana,
-when you attack with a creature, or when you activate an ability that has the {T}
-symbol as part of its cost ({T} means "tap this permanent").
+when you attack with a creature, or when you activate an ability that has the |tap|
+symbol as part of its cost (|tap| means "tap this permanent").
 
 When a permanent is tapped, that usually means it's been used for the turn. You
 can't tap it again until it's been *untapped* (straightened out).
@@ -399,7 +400,7 @@ There are a few choices that you need to make right now. If the
 spell is an instant or sorcery and says "Choose one —," you choose
 which of the options you're using. If the spell is an instant or sorcery
 and it has a target, you choose what (or who) that target is. Aura
-spells also target the permanents they'll enchant. If the spell has {X} in
+spells also target the permanents they'll enchant. If the spell has |mana_x| in
 its cost, you choose what number X stands for. Other choices will be
 made later, when the spell resolves.
 
@@ -531,7 +532,7 @@ casting an instant spell, except there's no card to put on the stack. The abilit
 a spell, and resolves just like a spell. If you activate an ability but then the permanent the ability came
 from leaves the battlefield, the ability will still resolve.
 
-Some activated abilities contain the {T} symbol in their costs. This means that you must tap the
+Some activated abilities contain the |tap| symbol in their costs. This means that you must tap the
 permanent to activate the ability. You can't activate the ability if the permanent is already tapped.
 
 Keywords
@@ -897,36 +898,36 @@ Learn more about these and other Magic formats at Wizards.com/MagicFormats.
  Section 5: Glossary
 =====================
 
-{1}, {2}, {3}, and so on, {X}
+|mana_1|, |mana_2|, |mana_3|, and so on, |mana_x|
     One of these generic mana symbols in a cost means "this many of
-    any type of mana." For example, {2} in a cost means you can pay
-    two mana of any type, such as {R} and {G}, or {U} and {U}, or {R} and
+    any type of mana." For example, |mana_2| in a cost means you can pay
+    two mana of any type, such as |mana_r| and |mana_g|, or |mana_u| and |mana_u|, or |mana_r| and
     one colorless mana, and so on. (If oX is in a cost, you get to choose
     what number the X stands for.)
 
     These symbols are also found in some abilities that produce
-    mana, like "Add {1} to your mana pool." In this context, {1} means
+    mana, like "Add |mana_1| to your mana pool." In this context, |mana_1| means
     "one colorless mana." You can't use colorless mana to pay for colored
     mana costs.
 
-{W} (white mana)
-    One white mana. Tapping a Plains makes {W}. A card with {W} in its mana cost is white.
+|mana_w| (white mana)
+    One white mana. Tapping a Plains makes |mana_w|. A card with |mana_w| in its mana cost is white.
 
-{U} (blue mana)
-    One blue mana. Tapping an Island makes {U}. A card with {U} in its mana cost is blue.
+|mana_u| (blue mana)
+    One blue mana. Tapping an Island makes |mana_u|. A card with |mana_u| in its mana cost is blue.
 
-{B} (black mana)
-    One black mana. Tapping a Swamp makes {B}. A card with {B} in its mana cost is black.
+|mana_b| (black mana)
+    One black mana. Tapping a Swamp makes |mana_b|. A card with |mana_b| in its mana cost is black.
 
-{R} (red mana)
-    One red mana. Tapping a Mountain makes {R}. A card with {R} in its mana cost is red.
+|mana_r| (red mana)
+    One red mana. Tapping a Mountain makes |mana_r|. A card with |mana_r| in its mana cost is red.
 
-{G} (green mana)
-    One green mana. Tapping a Forest makes {G}. A card with {G} in its mana cost is green.
+|mana_g| (green mana)
+    One green mana. Tapping a Forest makes |mana_g|. A card with |mana_g| in its mana cost is green.
 
 .. _gl-tap:
 
-{T} (tap)
+|tap| (tap)
     This symbol means "tap this card" (turn it sideways to show that it's been
     used). It appears in activation costs. You can't pay a oT cost if the card is
     already tapped. Also, remember that you can't pay your creature's oT costs
@@ -1045,9 +1046,9 @@ Aura
 .. _gl-basic-land:
 
 Basic land
-    There are five basic lands. Plains make {W} (white mana). Islands make {U} (blue
-    mana). Swamps make {B} (black mana). Mountains make {R} (red mana). Forests
-    make {G} (green mana). They each say "basic" on their type line (basic is a
+    There are five basic lands. Plains make |mana_w| (white mana). Islands make |mana_u| (blue
+    mana). Swamps make |mana_b| (black mana). Mountains make |mana_r| (red mana). Forests
+    make |mana_g| (green mana). They each say "basic" on their type line (basic is a
     supertype). Lands other than these five are called nonbasic lands.
 
     When building a deck, you can include any number of basic lands. You
@@ -1061,8 +1062,8 @@ Basic land type
     five words as the basic land names. Some nonbasic lands also have
     basic land types. Any land with a basic land type has an activated
     ability that makes one mana of the appropriate color, even if it doesn't
-    say so in the text box. For example, every Forest has the ability "{T}:
-    Add {G} to your mana pool."
+    say so in the text box. For example, every Forest has the ability "|tap|:
+    Add |mana_g| to your mana pool."
 
 Battlefield
     A game zone. See :ref:`Battlefield <sec-battlefield>` [on page 8].
@@ -1594,7 +1595,7 @@ Mana
     The magical energy you use to pay for spells and some abilities.
 
     Most mana comes from tapping lands. There are five colors of
-    mana: {W} (white), {U} (blue), {B} (black), {R} (red), and {G} (green).
+    mana: |mana_w| (white), |mana_u| (blue), |mana_b| (black), |mana_r| (red), and |mana_g| (green).
     There's also colorless mana.
 
 Mana ability
@@ -1637,7 +1638,7 @@ Mulligan
 
 Multicolored card
     A card with more than one color of mana in its mana cost. For
-    example, a card with the mana cost {2}{B}{R} is both black and red.
+    example, a card with the mana cost |mana_2| |mana_b| |mana_r| is both black and red.
     Most multicolored cards have a gold background.
 
 Multiplayer game
@@ -2084,10 +2085,10 @@ Winning the game
 X
     When you see X in a mana cost or an activation cost, you get
     to choose the number that X stands for. For example, Volcanic
-    Geyser is an instant spell that costs {X}{R}{R} and deals X damage.
+    Geyser is an instant spell that costs |mana_x| |mana_r| |mana_r| and deals X damage.
     When you cast Volcanic Geyser, you choose what number X is.
-    If you pick three, for example, Volcanic Geyser costs {3}{R}{R} and
-    deals 3 damage. If you pick six, Volcanic Geyser costs {6}{R}{R} and
+    If you pick three, for example, Volcanic Geyser costs |mana_3| |mana_r| |mana_r| and
+    deals 3 damage. If you pick six, Volcanic Geyser costs |mana_6| |mana_r| |mana_r| and
     deals 6 damage.
 
 You

@@ -28,3 +28,19 @@
    :alt: {6}
 .. |mana_7| image:: images/mana_7.png
    :alt: {7}
+.. |mana_8| image:: images/mana_8.png
+   :alt: {8}
+.. |mana_9| image:: images/mana_9.png
+   :alt: {9}
+.. |mana_10| image:: images/mana_10.png
+   :alt: {10}
+.. |mana_rg| image:: images/mana_rg.png
+   :alt: {(r/g)}
+.. |mana_rw| image:: images/mana_rw.png
+   :alt: {(r/w)}
+.. |mana_ub| image:: images/mana_ub.png
+   :alt: {(u/b)}
+.. |mana_ur| image:: images/mana_ur.png
+   :alt: {(u/r)}
+.. |mana_wb| image:: images/mana_wv.png
+   :alt: {(w/b)}

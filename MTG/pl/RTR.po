@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"| | n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
 "X-POOTLE-MTIME: 1379661380.179395\n"
 
@@ -58,8 +58,8 @@ msgid ""
 msgstr ""
 
 #: Aquus Steed
-msgid "{2}{U}, {T}: Target creature gets -2/-0 until end of turn."
-msgstr "{2}{U}, {T}: Wskazany stwór dostaje -2/-0 do końca tury."
+msgid "|mana_2| |mana_u|, |tap|: Target creature gets -2/-0 until end of turn."
+msgstr "|mana_2| |mana_u|, |tap|: Wskazany stwór dostaje -2/-0 do końca tury."
 
 msgid ""
 "Whenever Archon of the Triumvirate attacks, detain up to two target nonland "
@@ -127,10 +127,10 @@ msgid "Defender"
 msgstr "Obronność"
 
 msgid ""
-"{T}: Add X mana in any combination of colors to your mana pool, where X is "
+"|tap|: Add X mana in any combination of colors to your mana pool, where X is "
 "the number of creatures with defender you control."
 msgstr ""
-"{T}: Dodaj X many w dowolnej kombinacji kolorów do swojego zasobnika many, "
+"|tap|: Dodaj X many w dowolnej kombinacji kolorów do swojego zasobnika many, "
 "gdzie X jest liczbą władanych przez ciebie stworów z obronnością."
 
 #: Azorius Arrester
@@ -156,7 +156,7 @@ msgid "Azorius Guildgate enters the battlefield tapped."
 msgstr ""
 
 #: Azorius Keyrune
-msgid "{T}: Add {W} or {U} to your mana pool."
+msgid "|tap|: Add |mana_w| or |mana_u| to your mana pool."
 msgstr ""
 
 #: Azorius Justiciar
@@ -167,10 +167,10 @@ msgid ""
 msgstr ""
 
 msgid ""
-"{W}{U}: Azorius Keyrune becomes a 2/2 white and blue Bird artifact creature "
+"|mana_w| |mana_u|: Azorius Keyrune becomes a 2/2 white and blue Bird artifact creature "
 "with flying until end of turn."
 msgstr ""
-"{W}{U}: Do końca tury Azorius Keyrune staje się biało-niebieskim "
+"|mana_w| |mana_u|: Do końca tury Azorius Keyrune staje się biało-niebieskim "
 "artefaktycznym stworem Bird 2/2 z Lataniem."
 
 #: Azor's Elocutors
@@ -197,7 +197,7 @@ msgid ""
 msgstr ""
 
 #: Bellows Lizard
-msgid "{1}{R}: Bellows Lizard gets +1/+0 until end of turn."
+msgid "|mana_1| |mana_r|: Bellows Lizard gets +1/+0 until end of turn."
 msgstr ""
 
 #: Blistercoil Weird
@@ -207,7 +207,7 @@ msgid ""
 msgstr ""
 
 #: Blood Crypt
-msgid "({T}: Add {B} or {R} to your mana pool.)"
+msgid "(|tap|: Add |mana_b| or |mana_r| to your mana pool.)"
 msgstr ""
 
 msgid ""
@@ -227,10 +227,10 @@ msgid "Tap target creature you don't control."
 msgstr ""
 
 msgid ""
-"Overload {3}{U} (You may cast this spell for its overload cost. If you do, "
+"Overload |mana_3| |mana_u| (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie {3}{U} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Przeciążenie |mana_3| |mana_u| (Możesz rzucić czar po jego przeciążeniowym koszcie. "
 "Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
 "\"każdy.\")"
 
@@ -252,7 +252,7 @@ msgstr ""
 
 #: Centaur's Herald
 msgid ""
-"{2}{G}, Sacrifice Centaur's Herald: Put a 3/3 green Centaur creature token "
+"|mana_2| |mana_g|, Sacrifice Centaur's Herald: Put a 3/3 green Centaur creature token "
 "onto the battlefield."
 msgstr ""
 
@@ -266,10 +266,10 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Overload {3}{U}{R} (You may cast this spell for its overload cost. If you "
+"Overload |mana_3| |mana_u| |mana_r| (You may cast this spell for its overload cost. If you "
 "do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie {3}{U}{R} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Przeciążenie |mana_3| |mana_u| |mana_r| (Możesz rzucić czar po jego przeciążeniowym koszcie. "
 "Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
 "\"każdy.\")"
 
@@ -281,10 +281,10 @@ msgstr ""
 
 #: Chromatic Lantern
 msgid ""
-"Lands you control have \"{T}: Add one mana of any color to your mana pool.\""
+"Lands you control have \"|tap|: Add one mana of any color to your mana pool.\""
 msgstr ""
 
-msgid "{T}: Add one mana of any color to your mana pool."
+msgid "|tap|: Add one mana of any color to your mana pool."
 msgstr ""
 
 #: Chronic Flooding Racecourse Fury Security Blockade Underworld Connections
@@ -301,17 +301,17 @@ msgstr ""
 msgid "Equipped creature gets +1/+0 for each of its colors."
 msgstr ""
 
-msgid "Equip {1}"
+msgid "Equip |mana_1|"
 msgstr ""
 
 #: Codex Shredder
 msgid ""
-"{T}: Target player puts the top card of his or her library into his or her "
+"|tap|: Target player puts the top card of his or her library into his or her "
 "graveyard."
 msgstr ""
 
 msgid ""
-"{5}, {T}, Sacrifice Codex Shredder: Return target card from your graveyard "
+"|mana_5|, |tap|, Sacrifice Codex Shredder: Return target card from your graveyard "
 "to your hand."
 msgstr ""
 
@@ -343,10 +343,10 @@ msgid "Counter target spell you don't control."
 msgstr "Skontruj wskazany czar, którym nie władasz."
 
 msgid ""
-"Overload {1}{U}{U}{R} (You may cast this spell for its overload cost. If you "
+"Overload |mana_1| |mana_u| |mana_u| |mana_r| (You may cast this spell for its overload cost. If you "
 "do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie {1}{U}{U}{R} (Możesz rzucić czar po jego przeciążeniowym "
+"Przeciążenie |mana_1| |mana_u| |mana_u| |mana_r| (Możesz rzucić czar po jego przeciążeniowym "
 "koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
 "\"wskazany\" na \"każdy.\")"
 
@@ -385,10 +385,10 @@ msgstr ""
 "jej właściciela."
 
 msgid ""
-"Overload {6}{U} (You may cast this spell for its overload cost. If you do, "
+"Overload |mana_6| |mana_u| (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie {6}{U} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Przeciążenie |mana_6| |mana_u| (Możesz rzucić czar po jego przeciążeniowym koszcie. "
 "Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
 "\"każdy.\")"
 
@@ -403,23 +403,23 @@ msgstr ""
 
 #: Deadbridge Goliath
 msgid ""
-"Scavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a "
+"Scavenge |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this card from your graveyard: Put a "
 "number of +1/+1 counters equal to this card's power on target creature. "
 "Scavenge only as a sorcery.)"
 msgstr ""
 
 #: Deathrite Shaman
 msgid ""
-"{T}: Exile target land card from a graveyard. Add one mana of any color to "
+"|tap|: Exile target land card from a graveyard. Add one mana of any color to "
 "your mana pool."
 msgstr ""
 
 msgid ""
-"{B}, {T}: Exile target instant or sorcery card from a graveyard. Each "
+"|mana_b|, |tap|: Exile target instant or sorcery card from a graveyard. Each "
 "opponent loses 2 life."
 msgstr ""
 
-msgid "{G}, {T}: Exile target creature card from a graveyard. You gain 2 life."
+msgid "|mana_g|, |tap|: Exile target creature card from a graveyard. You gain 2 life."
 msgstr ""
 
 #: Death's Presence
@@ -453,7 +453,7 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Enchanted creature gets +2/+1 and has \"{R}: This creature gains trample "
+"Enchanted creature gets +2/+1 and has \"|mana_r|: This creature gains trample "
 "until end of turn.\""
 msgstr ""
 
@@ -462,11 +462,11 @@ msgid "Counter target instant spell."
 msgstr "Skontruj wskazany czar sztuczki."
 
 msgid ""
-"{2}{U}, {T}: Target player puts the top X cards of his or her library into "
+"|mana_2| |mana_u|, |tap|: Target player puts the top X cards of his or her library into "
 "his or her graveyard, where X is the number of creatures with defender you "
 "control."
 msgstr ""
-"{2}{U}, {T}: Wskazany gracz wkłada X wierzchnich kart swojej biblioteki do "
+"|mana_2| |mana_u|, |tap|: Wskazany gracz wkłada X wierzchnich kart swojej biblioteki do "
 "swojego cmentarza, gdzie X jest liczbą władanych przez ciebie stworów z "
 "obronnością."
 
@@ -475,16 +475,16 @@ msgid "Target creature you don't control gets -4/-0 until end of turn."
 msgstr ""
 
 msgid ""
-"Overload {2}{U} (You may cast this spell for its overload cost. If you do, "
+"Overload |mana_2| |mana_u| (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie {2}{U} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Przeciążenie |mana_2| |mana_u| (Możesz rzucić czar po jego przeciążeniowym koszcie. "
 "Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
 "\"każdy.\")"
 
 #: Drainpipe Vermin
 msgid ""
-"When Drainpipe Vermin dies, you may pay {B}. If you do, target player "
+"When Drainpipe Vermin dies, you may pay |mana_b|. If you do, target player "
 "discards a card."
 msgstr ""
 
@@ -501,14 +501,14 @@ msgid "Haste"
 msgstr ""
 
 msgid ""
-"Scavenge {3}{B}{G} ({3}{B}{G}, Exile this card from your graveyard: Put a "
+"Scavenge |mana_3| |mana_b| |mana_g| (|mana_3| |mana_b| |mana_g|, Exile this card from your graveyard: Put a "
 "number of +1/+1 counters equal to this card's power on target creature. "
 "Scavenge only as a sorcery.)"
 msgstr ""
 
 #: Drudge Beetle
 msgid ""
-"Scavenge {5}{G} ({5}{G}, Exile this card from your graveyard: Put a number "
+"Scavenge |mana_5| |mana_g| (|mana_5| |mana_g|, Exile this card from your graveyard: Put a number "
 "of +1/+1 counters equal to this card's power on target creature. Scavenge "
 "only as a sorcery.)"
 msgstr ""
@@ -531,10 +531,10 @@ msgid "Target creature you control gets +2/+0 until end of turn."
 msgstr ""
 
 msgid ""
-"Overload {2}{R} (You may cast this spell for its overload cost. If you do, "
+"Overload |mana_2| |mana_r| (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie {2}{R} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Przeciążenie |mana_2| |mana_r| (Możesz rzucić czar po jego przeciążeniowym koszcie. "
 "Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
 "\"każdy.\")"
 
@@ -543,10 +543,10 @@ msgid "Electrickery deals 1 damage to target creature you don't control."
 msgstr ""
 
 msgid ""
-"Overload {1}{R} (You may cast this spell for its overload cost. If you do, "
+"Overload |mana_1| |mana_r| (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie {1}{R} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Przeciążenie |mana_1| |mana_r| (Możesz rzucić czar po jego przeciążeniowym koszcie. "
 "Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
 "\"każdy.\")"
 
@@ -610,7 +610,7 @@ msgid "G"
 msgstr ""
 
 #: Frostburn Weird
-msgid "{(u/r)}: Frostburn Weird gets +1/-1 until end of turn."
+msgid "|mana_ur|: Frostburn Weird gets +1/-1 until end of turn."
 msgstr ""
 
 msgid ""
@@ -624,11 +624,11 @@ msgid "Target creature gets +3/+3 until end of turn."
 msgstr ""
 
 #: Gobbling Ooze
-msgid "{G}, Sacrifice another creature: Put a +1/+1 counter on Gobbling Ooze."
+msgid "|mana_g|, Sacrifice another creature: Put a +1/+1 counter on Gobbling Ooze."
 msgstr ""
 
 #: Goblin Electromancer
-msgid "Instant and sorcery spells you cast cost {1} less to cast."
+msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
 msgstr ""
 
 #: Goblin Rally
@@ -650,7 +650,7 @@ msgid "All creatures able to block Golgari Decoy do so."
 msgstr ""
 
 msgid ""
-"Scavenge {3}{G}{G} ({3}{G}{G}, Exile this card from your graveyard: Put a "
+"Scavenge |mana_3| |mana_g| |mana_g| (|mana_3| |mana_g| |mana_g|, Exile this card from your graveyard: Put a "
 "number of +1/+1 counters equal to this card's power on target creature. "
 "Scavenge only as a sorcery.)"
 msgstr ""
@@ -660,14 +660,14 @@ msgid "Golgari Guildgate enters the battlefield tapped."
 msgstr ""
 
 #: Golgari Keyrune
-msgid "{T}: Add {B} or {G} to your mana pool."
+msgid "|tap|: Add |mana_b| or |mana_g| to your mana pool."
 msgstr ""
 
 msgid ""
-"{B}{G}: Golgari Keyrune becomes a 2/2 black and green Insect artifact "
+"|mana_b| |mana_g|: Golgari Keyrune becomes a 2/2 black and green Insect artifact "
 "creature with deathtouch until end of turn."
 msgstr ""
-"{B}{G}: Do końca tury Golgari Keyrune staje się czarno-zielonym "
+"|mana_b| |mana_g|: Do końca tury Golgari Keyrune staje się czarno-zielonym "
 "artefaktycznym stworem Insect 2/2 z Dotykiem Śmierci."
 
 #: Grave Betrayal
@@ -678,7 +678,7 @@ msgid ""
 "other colors and types."
 msgstr ""
 
-msgid "{1}{B}: Regenerate Grim Roustabout."
+msgid "|mana_1| |mana_b|: Regenerate Grim Roustabout."
 msgstr ""
 
 #: Grisly Salvage
@@ -688,11 +688,11 @@ msgid ""
 msgstr ""
 
 #: Grove of the Guardian Rogue's Passage
-msgid "{T}: Add {1} to your mana pool."
+msgid "|tap|: Add |mana_1| to your mana pool."
 msgstr ""
 
 msgid ""
-"{3}{G}{W}, {T}, Tap two untapped creatures you control, Sacrifice Grove of "
+"|mana_3| |mana_g| |mana_w|, |tap|, Tap two untapped creatures you control, Sacrifice Grove of "
 "the Guardian: Put an 8/8 green and white Elemental creature token with "
 "vigilance onto the battlefield."
 msgstr ""
@@ -719,7 +719,7 @@ msgid ""
 msgstr ""
 
 #: Hallowed Fountain
-msgid "({T}: Add {W} or {U} to your mana pool.)"
+msgid "(|tap|: Add |mana_w| or |mana_u| to your mana pool.)"
 msgstr ""
 
 msgid ""
@@ -737,7 +737,7 @@ msgid ""
 msgstr ""
 
 msgid ""
-"{2}{B}{R}, Sacrifice Hellhole Flailer: Hellhole Flailer deals damage equal "
+"|mana_2| |mana_b| |mana_r|, Sacrifice Hellhole Flailer: Hellhole Flailer deals damage equal "
 "to its power to target player."
 msgstr ""
 
@@ -800,7 +800,7 @@ msgstr ""
 
 #: Izzet Charm
 msgid ""
-"Choose one — Counter target noncreature spell unless its controller pays {2}"
+"Choose one — Counter target noncreature spell unless its controller pays |mana_2|"
 msgstr ""
 
 msgid " or Izzet Charm deals 2 damage to target creature"
@@ -814,14 +814,14 @@ msgid "Izzet Guildgate enters the battlefield tapped."
 msgstr ""
 
 #: Izzet Keyrune
-msgid "{T}: Add {U} or {R} to your mana pool."
+msgid "|tap|: Add |mana_u| or |mana_r| to your mana pool."
 msgstr ""
 
 msgid ""
-"{U}{R}: Until end of turn, Izzet Keyrune becomes a 2/1 blue and red "
+"|mana_u| |mana_r|: Until end of turn, Izzet Keyrune becomes a 2/1 blue and red "
 "Elemental artifact creature."
 msgstr ""
-"{U}{R}: Do końca tury Izzet Keyrune staje się niebiesko-czerwonym "
+"|mana_u| |mana_r|: Do końca tury Izzet Keyrune staje się niebiesko-czerwonym "
 "artefaktycznym stworem Elemental 2/1."
 
 msgid ""
@@ -832,7 +832,7 @@ msgstr ""
 "Jeśli tak zrobisz, odrzuć kartę."
 
 msgid ""
-"{T}: Izzet Staticaster deals 1 damage to target creature and each other "
+"|tap|: Izzet Staticaster deals 1 damage to target creature and each other "
 "creature with the same name as that creature."
 msgstr ""
 
@@ -860,7 +860,7 @@ msgid ""
 msgstr ""
 
 msgid ""
-"{1}{B}{G}, Sacrifice another creature: Each opponent loses life equal to the "
+"|mana_1| |mana_b| |mana_g|, Sacrifice another creature: Each opponent loses life equal to the "
 "sacrificed creature's power."
 msgstr ""
 
@@ -877,7 +877,7 @@ msgstr ""
 
 msgid ""
 "Sacrifice Judge's Familiar: Counter target instant or sorcery spell unless "
-"its controller pays {1}."
+"its controller pays |mana_1|."
 msgstr ""
 
 #: Keening Apparition
@@ -894,17 +894,17 @@ msgstr ""
 
 #: Korozda Guildmage
 msgid ""
-"{1}{B}{G}: Target creature gets +1/+1 and gains intimidate until end of turn."
+"|mana_1| |mana_b| |mana_g|: Target creature gets +1/+1 and gains intimidate until end of turn."
 msgstr ""
-"{1}{B}{G}: Wskazany stwór dostaje +1/+1 oraz zastraszanie do końca tury."
+"|mana_1| |mana_b| |mana_g|: Wskazany stwór dostaje +1/+1 oraz zastraszanie do końca tury."
 
 msgid ""
-"{2}{B}{G}, Sacrifice a nontoken creature: Put X 1/1 green Saproling creature "
+"|mana_2| |mana_b| |mana_g|, Sacrifice a nontoken creature: Put X 1/1 green Saproling creature "
 "tokens onto the battlefield, where X is the sacrificed creature's toughness."
 msgstr ""
 
 msgid ""
-"Scavenge {5}{G}{G} ({5}{G}{G}, Exile this card from your graveyard: Put a "
+"Scavenge |mana_5| |mana_g| |mana_g| (|mana_5| |mana_g| |mana_g|, Exile this card from your graveyard: Put a "
 "number of +1/+1 counters equal to this card's power on target creature. "
 "Scavenge only as a sorcery.)"
 msgstr ""
@@ -916,7 +916,7 @@ msgstr ""
 msgid "Destroy target creature. Its controller loses 2 life."
 msgstr ""
 
-msgid "{T}: Lobber Crew deals 1 damage to each opponent."
+msgid "|tap|: Lobber Crew deals 1 damage to each opponent."
 msgstr ""
 
 msgid "Whenever you cast a multicolored spell, untap Lobber Crew."
@@ -925,7 +925,7 @@ msgstr ""
 msgid "Discard a creature card: Put a +1/+1 counter on Lotleth Troll."
 msgstr ""
 
-msgid "{B}: Regenerate Lotleth Troll."
+msgid "|mana_b|: Regenerate Lotleth Troll."
 msgstr ""
 
 #: Loxodon Smiter
@@ -966,11 +966,11 @@ msgid ""
 msgstr ""
 
 #: Mercurial Chemister
-msgid "{U}, {T}: Draw two cards."
+msgid "|mana_u|, |tap|: Draw two cards."
 msgstr ""
 
 msgid ""
-"{R}, {T}, Discard a card: Mercurial Chemister deals damage to target "
+"|mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target "
 "creature equal to the discarded card's converted mana cost."
 msgstr ""
 
@@ -983,10 +983,10 @@ msgid "Mizzium Mortars deals 4 damage to target creature you don't control."
 msgstr ""
 
 msgid ""
-"Overload {3}{R}{R}{R} (You may cast this spell for its overload cost. If you "
+"Overload |mana_3| |mana_r| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you "
 "do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie {3}{R}{R}{R} (Możesz rzucić czar po jego przeciążeniowym "
+"Przeciążenie |mana_3| |mana_r| |mana_r| |mana_r| (Możesz rzucić czar po jego przeciążeniowym "
 "koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
 "\"wskazany\" na \"każdy.\")"
 
@@ -996,10 +996,10 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Overload {1}{U} (You may cast this spell for its overload cost. If you do, "
+"Overload |mana_1| |mana_u| (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie {1}{U} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Przeciążenie |mana_1| |mana_u| (Możesz rzucić czar po jego przeciążeniowym koszcie. "
 "Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
 "\"każdy.\")"
 
@@ -1013,24 +1013,24 @@ msgid ""
 msgstr ""
 
 #: New Prahv Guildmage
-msgid "{W}{U}: Target creature gains flying until end of turn."
+msgid "|mana_w| |mana_u|: Target creature gains flying until end of turn."
 msgstr ""
 
 msgid ""
-"{3}{W}{U}: Detain target nonland permanent an opponent controls. (Until your "
+"|mana_3| |mana_w| |mana_u|: Detain target nonland permanent an opponent controls. (Until your "
 "next turn, that permanent can't attack or block and its activated abilities "
 "can't be activated.)"
 msgstr ""
-"{3}{W}{U}: Uwięź wskazaną stałkę nie będącą lądem kontrolowaną przez "
+"|mana_3| |mana_w| |mana_u|: Uwięź wskazaną stałkę nie będącą lądem kontrolowaną przez "
 "przeciwnika. (Do twojej następnej tury stałka ta nie może atakować ani "
 "blokować, a jej aktywowane zdolności nie mogą być aktywowane.)"
 
 #: Nivix Guildmage
-msgid "{1}{U}{R}: Draw a card, then discard a card."
+msgid "|mana_1| |mana_u| |mana_r|: Draw a card, then discard a card."
 msgstr ""
 
 msgid ""
-"{2}{U}{R}: Copy target instant or sorcery spell you control. You may choose "
+"|mana_2| |mana_u| |mana_r|: Copy target instant or sorcery spell you control. You may choose "
 "new targets for the copy."
 msgstr ""
 
@@ -1046,7 +1046,7 @@ msgid ""
 msgstr ""
 
 msgid ""
-"{U}{R}: Niv-Mizzet, Dracogenius deals 1 damage to target creature or player."
+"|mana_u| |mana_r|: Niv-Mizzet, Dracogenius deals 1 damage to target creature or player."
 msgstr ""
 
 #: Oak Street Innkeeper
@@ -1062,7 +1062,7 @@ msgstr ""
 "Bramę."
 
 #: Overgrown Tomb
-msgid "({T}: Add {B} or {G} to your mana pool.)"
+msgid "(|tap|: Add |mana_b| or |mana_g| to your mana pool.)"
 msgstr ""
 
 msgid ""
@@ -1077,7 +1077,7 @@ msgid ""
 msgstr ""
 
 msgid ""
-"{2}{B}, Discard a card: Put a token onto the battlefield that's a copy of "
+"|mana_2| |mana_b|, Discard a card: Put a token onto the battlefield that's a copy of "
 "Pack Rat."
 msgstr ""
 
@@ -1093,7 +1093,7 @@ msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
 
 #: Perilous Shadow
-msgid "{1}{B}: Perilous Shadow gets +2/+2 until end of turn."
+msgid "|mana_1| |mana_b|: Perilous Shadow gets +2/+2 until end of turn."
 msgstr ""
 
 #: Phantom General
@@ -1129,7 +1129,7 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Enchanted creature gets +2/+2 and has \"{U}: This creature gains flying "
+"Enchanted creature gets +2/+2 and has \"|mana_u|: This creature gains flying "
 "until end of turn.\""
 msgstr ""
 
@@ -1140,7 +1140,7 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Enchanted land has \"{T}: Target creature gains haste until end of turn.\""
+"Enchanted land has \"|tap|: Target creature gains haste until end of turn.\""
 msgstr ""
 
 #: Rakdos Charm
@@ -1158,14 +1158,14 @@ msgid "Rakdos Guildgate enters the battlefield tapped."
 msgstr ""
 
 #: Rakdos Keyrune
-msgid "{T}: Add {B} or {R} to your mana pool."
+msgid "|tap|: Add |mana_b| or |mana_r| to your mana pool."
 msgstr ""
 
 msgid ""
-"{B}{R}: Rakdos Keyrune becomes a 3/1 black and red Devil artifact creature "
+"|mana_b| |mana_r|: Rakdos Keyrune becomes a 3/1 black and red Devil artifact creature "
 "with first strike until end of turn."
 msgstr ""
-"{B}{R}: Do końca tury Rakdos Keyrune staje się czarno-czerwonym "
+"|mana_b| |mana_r|: Do końca tury Rakdos Keyrune staje się czarno-czerwonym "
 "artefaktycznym stworem Devil 3/1 z Pierwszym Ciosem."
 
 #: Rakdos Ragemutt
@@ -1177,7 +1177,7 @@ msgid ""
 "discards a card at random."
 msgstr ""
 
-msgid "{B}: Regenerate Rakdos Ringleader."
+msgid "|mana_b|: Regenerate Rakdos Ringleader."
 msgstr ""
 
 #: Rakdos, Lord of Riots
@@ -1189,7 +1189,7 @@ msgid "Flying, trample"
 msgstr "Latanie, Tratowanie"
 
 msgid ""
-"Creature spells you cast cost {1} less to cast for each 1 life your "
+"Creature spells you cast cost |mana_1| less to cast for each 1 life your "
 "opponents have lost this turn."
 msgstr ""
 
@@ -1225,13 +1225,13 @@ msgid ""
 msgstr ""
 
 #: Rix Maadi Guildmage
-msgid "{B}{R}: Target blocking creature gets -1/-1 until end of turn."
+msgid "|mana_b| |mana_r|: Target blocking creature gets -1/-1 until end of turn."
 msgstr ""
 
-msgid "{B}{R}: Target player who lost life this turn loses 1 life."
+msgid "|mana_b| |mana_r|: Target player who lost life this turn loses 1 life."
 msgstr ""
 
-msgid "{4}, {T}: Target creature can't be blocked this turn."
+msgid "|mana_4|, |tap|: Target creature can't be blocked this turn."
 msgstr ""
 
 #: Rootborn Defenses
@@ -1284,7 +1284,7 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Enchanted land has \"{T}: Prevent the next 1 damage that would be dealt to "
+"Enchanted land has \"|tap|: Prevent the next 1 damage that would be dealt to "
 "you this turn.\""
 msgstr ""
 
@@ -1312,18 +1312,18 @@ msgid "Selesnya Guildgate enters the battlefield tapped."
 msgstr ""
 
 #: Selesnya Keyrune
-msgid "{T}: Add {G} or {W} to your mana pool."
+msgid "|tap|: Add |mana_g| or |mana_w| to your mana pool."
 msgstr ""
 
 msgid ""
-"{G}{W}: Selesnya Keyrune becomes a 3/3 green and white Wolf artifact "
+"|mana_g| |mana_w|: Selesnya Keyrune becomes a 3/3 green and white Wolf artifact "
 "creature until end of turn."
 msgstr ""
-"{G}{W}: Do końca tury Selesnya Keyrune staje się zielono-białym "
+"|mana_g| |mana_w|: Do końca tury Selesnya Keyrune staje się zielono-białym "
 "artefaktycznym stworem Wolf 3/3."
 
 #: Selesnya Sentry
-msgid "{5}{G}: Regenerate Selesnya Sentry."
+msgid "|mana_5| |mana_g|: Regenerate Selesnya Sentry."
 msgstr ""
 
 #: Seller of Songbirds
@@ -1341,7 +1341,7 @@ msgstr ""
 "posiada Bagno)"
 
 msgid ""
-"Scavenge {2}{B} ({2}{B}, Exile this card from your graveyard: Put a number "
+"Scavenge |mana_2| |mana_b| (|mana_2| |mana_b|, Exile this card from your graveyard: Put a number "
 "of +1/+1 counters equal to this card's power on target creature. Scavenge "
 "only as a sorcery.)"
 msgstr ""
@@ -1379,7 +1379,7 @@ msgstr ""
 
 #: Slitherhead
 msgid ""
-"Scavenge {0} ({0}, Exile this card from your graveyard: Put a number of +1/"
+"Scavenge |mana_0| (|mana_0|, Exile this card from your graveyard: Put a number of +1/"
 "+1 counters equal to this card's power on target creature. Scavenge only as "
 "a sorcery.)"
 msgstr ""
@@ -1391,7 +1391,7 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Scavenge {1}{B}{G} ({1}{B}{G}, Exile this card from your graveyard: Put a "
+"Scavenge |mana_1| |mana_b| |mana_g| (|mana_1| |mana_b| |mana_g|, Exile this card from your graveyard: Put a "
 "number of +1/+1 counters equal to this card's power on target creature. "
 "Scavenge only as a sorcery.)"
 msgstr ""
@@ -1407,7 +1407,7 @@ msgstr "Zaurocz stałkę nie będącą lądem"
 
 msgid ""
 "At the beginning of the upkeep of enchanted permanent's controller, that "
-"player sacrifices it unless he or she pays {X}, where X is its converted "
+"player sacrifices it unless he or she pays |mana_x|, where X is its converted "
 "mana cost."
 msgstr ""
 
@@ -1424,7 +1424,7 @@ msgstr ""
 #: Sphere of Safety
 msgid ""
 "Creatures can't attack you or a planeswalker you control unless their "
-"controller pays {X} for each of those creatures, where X is the number of "
+"controller pays |mana_x| for each of those creatures, where X is the number of "
 "enchantments you control."
 msgstr ""
 
@@ -1449,7 +1449,7 @@ msgid ""
 msgstr ""
 
 #: Steam Vents
-msgid "({T}: Add {U} or {R} to your mana pool.)"
+msgid "(|tap|: Add |mana_u| or |mana_r| to your mana pool.)"
 msgstr ""
 
 msgid ""
@@ -1459,7 +1459,7 @@ msgstr ""
 
 #: Stonefare Crocodile
 msgid ""
-"{2}{B}: Stonefare Crocodile gains lifelink until end of turn. (Damage dealt "
+"|mana_2| |mana_b|: Stonefare Crocodile gains lifelink until end of turn. (Damage dealt "
 "by this creature also causes you to gain that much life.)"
 msgstr ""
 
@@ -1470,10 +1470,10 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Overload {X}{X}{R}{R} (You may cast this spell for its overload cost. If you "
+"Overload |mana_x| |mana_x| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you "
 "do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie {X}{X}{R}{R} (Możesz rzucić czar po jego przeciążeniowym "
+"Przeciążenie |mana_x| |mana_x| |mana_r| |mana_r| (Możesz rzucić czar po jego przeciążeniowym "
 "koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
 "\"wskazany\" na \"każdy.\")"
 
@@ -1515,7 +1515,7 @@ msgstr ""
 
 #: Syncopate
 msgid ""
-"Counter target spell unless its controller pays {X}. If that spell is "
+"Counter target spell unless its controller pays |mana_x|. If that spell is "
 "countered this way, exile it instead of putting it into its owner's "
 "graveyard."
 msgstr ""
@@ -1530,7 +1530,7 @@ msgid ""
 msgstr ""
 
 #: Tavern Swindler
-msgid "{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life."
+msgid "|tap|, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life."
 msgstr ""
 
 #: Teleportal
@@ -1540,7 +1540,7 @@ msgid ""
 msgstr ""
 
 #: Temple Garden
-msgid "({T}: Add {G} or {W} to your mana pool.)"
+msgid "(|tap|: Add |mana_g| or |mana_w| to your mana pool.)"
 msgstr ""
 
 msgid ""
@@ -1550,7 +1550,7 @@ msgstr ""
 
 #: Terrus Wurm
 msgid ""
-"Scavenge {6}{B} ({6}{B}, Exile this card from your graveyard: Put a number "
+"Scavenge |mana_6| |mana_b| (|mana_6| |mana_b|, Exile this card from your graveyard: Put a number "
 "of +1/+1 counters equal to this card's power on target creature. Scavenge "
 "only as a sorcery.)"
 msgstr ""
@@ -1563,7 +1563,7 @@ msgstr ""
 msgid "Deathtouch"
 msgstr ""
 
-msgid "{W}: Tower Drake gets +0/+1 until end of turn."
+msgid "|mana_w|: Tower Drake gets +0/+1 until end of turn."
 msgstr ""
 
 #: Towering Indrik
@@ -1582,7 +1582,7 @@ msgstr ""
 
 msgid ""
 "When Transguild Promenade enters the battlefield, sacrifice it unless you "
-"pay {1}."
+"pay |mana_1|."
 msgstr ""
 
 #: Treasured Find
@@ -1590,7 +1590,7 @@ msgid ""
 "Return target card from your graveyard to your hand. Exile Treasured Find."
 msgstr ""
 
-msgid "{1}{B}{G}: Regenerate Trestle Troll."
+msgid "|mana_1| |mana_b| |mana_g|: Regenerate Trestle Troll."
 msgstr ""
 
 #: Trostani, Selesnya's Voice
@@ -1600,10 +1600,10 @@ msgid ""
 msgstr ""
 
 msgid ""
-"{1}{G}{W}, {T}: Populate. (Put a token onto the battlefield that's a copy of "
+"|mana_1| |mana_g| |mana_w|, |tap|: Populate. (Put a token onto the battlefield that's a copy of "
 "a creature token you control.)"
 msgstr ""
-"{1}{G}{W}, {T}: Zaludnij. (Połóż na polu walki żeton, będący kopią "
+"|mana_1| |mana_g| |mana_w|, |tap|: Zaludnij. (Połóż na polu walki żeton, będący kopią "
 "kontrolowanego przez ciebie żetonu stwora.)"
 
 #: Trostani's Judgment
@@ -1618,7 +1618,7 @@ msgstr ""
 msgid "Destroy target monocolored creature."
 msgstr ""
 
-msgid "Enchanted land has \"{T}, Pay 1 life: Draw a card.\""
+msgid "Enchanted land has \"|tap|, Pay 1 life: Draw a card.\""
 msgstr ""
 
 msgid ""
@@ -1635,10 +1635,10 @@ msgid "Destroy target artifact you don't control."
 msgstr ""
 
 msgid ""
-"Overload {4}{R} (You may cast this spell for its overload cost. If you do, "
+"Overload |mana_4| |mana_r| (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie {4}{R} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Przeciążenie |mana_4| |mana_r| (Możesz rzucić czar po jego przeciążeniowym koszcie. "
 "Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
 "\"każdy.\")"
 
@@ -1649,14 +1649,14 @@ msgid ""
 msgstr ""
 
 #: Vitu-Ghazi Guildmage
-msgid "{4}{G}{W}: Put a 3/3 green Centaur creature token onto the battlefield."
+msgid "|mana_4| |mana_g| |mana_w|: Put a 3/3 green Centaur creature token onto the battlefield."
 msgstr ""
 
 msgid ""
-"{2}{G}{W}: Populate. (Put a token onto the battlefield that's a copy of a "
+"|mana_2| |mana_g| |mana_w|: Populate. (Put a token onto the battlefield that's a copy of a "
 "creature token you control.)"
 msgstr ""
-"{2}{G}{W}: Zaludnij. (Połóż na polu walki żeton, będący kopią kontrolowanego "
+"|mana_2| |mana_g| |mana_w|: Zaludnij. (Połóż na polu walki żeton, będący kopią kontrolowanego "
 "przez ciebie żetonu stwora.)"
 
 #: Voidwielder
@@ -1724,7 +1724,7 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Scavenge {2}{B}{B} ({2}{B}{B}, Exile this card from your graveyard: Put a "
+"Scavenge |mana_2| |mana_b| |mana_b| (|mana_2| |mana_b| |mana_b|, Exile this card from your graveyard: Put a "
 "number of +1/+1 counters equal to this card's power on target creature. "
 "Scavenge only as a sorcery.)"
 msgstr ""

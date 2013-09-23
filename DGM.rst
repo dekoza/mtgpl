@@ -1,4 +1,5 @@
 .. Dragon's Maze auto-download
+.. include:: symbols.rst
 
 Dragon's Maze
 =============
@@ -8,13 +9,13 @@ Advent of the Wurm
 
 
 Ætherling
-    {U}: Exile Ætherling. Return it to the battlefield under its owner's control at the beginning of the next end step.
+    |mana_u|: Exile Ætherling. Return it to the battlefield under its owner's control at the beginning of the next end step.
 
-    {U}: Ætherling can't be blocked this turn.
+    |mana_u|: Ætherling can't be blocked this turn.
 
-    {1}: Ætherling gets +1/-1 until end of turn.
+    |mana_1|: Ætherling gets +1/-1 until end of turn.
 
-    {1}: Ætherling gets -1/+1 until end of turn.
+    |mana_1|: Ætherling gets -1/+1 until end of turn.
 
 
 Alive // Well (Alive)
@@ -48,15 +49,15 @@ Awe for the Guilds
 
 
 Azorius Cluestone
-    {T}: Add {W} or {U} to your mana pool.
+    |tap|: Add |mana_w| or |mana_u| to your mana pool.
 
-    {W}{U}, {T}, Sacrifice Azorius Cluestone: Draw a card.
+    |mana_w| |mana_u|, |tap|, Sacrifice Azorius Cluestone: Draw a card.
 
 
 Azorius Guildgate
     Azorius Guildgate enters the battlefield tapped.
 
-    {T}: Add {W} or {U} to your mana pool.
+    |tap|: Add |mana_w| or |mana_u| to your mana pool.
 
 
 Bane Alley Blackguard
@@ -76,7 +77,7 @@ Beck // Call (Beck)
 
 
 Beetleform Mage
-    {G}{U}: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn.
+    |mana_g| |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn.
 
 
 Blast of Genius
@@ -108,15 +109,15 @@ Boros Battleshaper
 
 
 Boros Cluestone
-    {T}: Add {R} or {W} to your mana pool.
+    |tap|: Add |mana_r| or |mana_w| to your mana pool.
 
-    {R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card.
+    |mana_r| |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card.
 
 
 Boros Guildgate
     Boros Guildgate enters the battlefield tapped.
 
-    {T}: Add {R} or {W} to your mana pool.
+    |tap|: Add |mana_r| or |mana_w| to your mana pool.
 
 
 Boros Mastiff
@@ -152,7 +153,7 @@ Beck // Call (Call)
 Carnage Gladiator
     Whenever a creature blocks, that creature's controller loses 1 life.
 
-    {1}{B}{R}: Regenerate Carnage Gladiator.
+    |mana_1| |mana_b| |mana_r|: Regenerate Carnage Gladiator.
 
 
 Catch // Release (Catch)
@@ -170,7 +171,7 @@ Council of the Absolute
 
     Your opponents can't cast cards with the chosen name.
 
-    Spells with the chosen name you cast cost {2} less to cast.
+    Spells with the chosen name you cast cost |mana_2| less to cast.
 
 
 Crypt Incursion
@@ -200,15 +201,15 @@ Deputy of Acquittals
 
 
 Dimir Cluestone
-    {T}: Add {U} or {B} to your mana pool.
+    |tap|: Add |mana_u| or |mana_b| to your mana pool.
 
-    {U}{B}, {T}, Sacrifice Dimir Cluestone: Draw a card.
+    |mana_u| |mana_b|, |tap|, Sacrifice Dimir Cluestone: Draw a card.
 
 
 Dimir Guildgate
     Dimir Guildgate enters the battlefield tapped.
 
-    {T}: Add {U} or {B} to your mana pool.
+    |tap|: Add |mana_u| or |mana_b| to your mana pool.
 
 
 Down // Dirty (Dirty)
@@ -226,7 +227,7 @@ Down // Dirty (Down)
 Dragonshift
     Until end of turn, target creature you control becomes a 4/4 blue and red Dragon, loses all abilities, and gains flying.
 
-    Overload {3}{U}{U}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_3| |mana_u| |mana_u| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Drown in Filth
@@ -262,7 +263,7 @@ Fatal Fumes
 
 
 Feral Animist
-    {3}: Feral Animist gets +X/+0 until end of turn, where X is its power.
+    |mana_3|: Feral Animist gets +X/+0 until end of turn, where X is its power.
 
 
 Flesh // Blood (Flesh)
@@ -294,31 +295,31 @@ Gleam of Battle
 Goblin Test Pilot
     Flying
 
-    {T}: Goblin Test Pilot deals 2 damage to target creature or player chosen at random.
+    |tap|: Goblin Test Pilot deals 2 damage to target creature or player chosen at random.
 
 
 Golgari Cluestone
-    {T}: Add {B} or {G} to your mana pool.
+    |tap|: Add |mana_b| or |mana_g| to your mana pool.
 
-    {B}{G}, {T}, Sacrifice Golgari Cluestone: Draw a card.
+    |mana_b| |mana_g|, |tap|, Sacrifice Golgari Cluestone: Draw a card.
 
 
 Golgari Guildgate
     Golgari Guildgate enters the battlefield tapped.
 
-    {T}: Add {B} or {G} to your mana pool.
+    |tap|: Add |mana_b| or |mana_g| to your mana pool.
 
 
 Gruul Cluestone
-    {T}: Add {R} or {G} to your mana pool.
+    |tap|: Add |mana_r| or |mana_g| to your mana pool.
 
-    {R}{G}, {T}, Sacrifice Gruul Cluestone: Draw a card.
+    |mana_r| |mana_g|, |tap|, Sacrifice Gruul Cluestone: Draw a card.
 
 
 Gruul Guildgate
     Gruul Guildgate enters the battlefield tapped.
 
-    {T}: Add {R} or {G} to your mana pool.
+    |tap|: Add |mana_r| or |mana_g| to your mana pool.
 
 
 Gruul War Chant
@@ -326,7 +327,7 @@ Gruul War Chant
 
 
 Haazda Snare Squad
-    Whenever Haazda Snare Squad attacks, you may pay {W}. If you do, tap target creature an opponent controls.
+    Whenever Haazda Snare Squad attacks, you may pay |mana_w|. If you do, tap target creature an opponent controls.
 
 
 Haunter of Nightveil
@@ -342,19 +343,19 @@ Hidden Strings
 Hired Torturer
     Defender
 
-    {3}{B}, {T}: Target opponent loses 2 life, then reveals a card at random from his or her hand.
+    |mana_3| |mana_b|, |tap|: Target opponent loses 2 life, then reveals a card at random from his or her hand.
 
 
 Izzet Cluestone
-    {T}: Add {U} or {R} to your mana pool.
+    |tap|: Add |mana_u| or |mana_r| to your mana pool.
 
-    {U}{R}, {T}, Sacrifice Izzet Cluestone: Draw a card.
+    |mana_u| |mana_r|, |tap|, Sacrifice Izzet Cluestone: Draw a card.
 
 
 Izzet Guildgate
     Izzet Guildgate enters the battlefield tapped.
 
-    {T}: Add {U} or {R} to your mana pool.
+    |tap|: Add |mana_u| or |mana_r| to your mana pool.
 
 
 Jelenn Sphinx
@@ -366,7 +367,7 @@ Jelenn Sphinx
 Korozda Gorgon
     Deathtouch
 
-    {2}, Remove a +1/+1 counter from a creature you control: Target creature gets -1/-1 until end of turn.
+    |mana_2|, Remove a +1/+1 counter from a creature you control: Target creature gets -1/-1 until end of turn.
 
 
 Krasis Incubation
@@ -374,11 +375,11 @@ Krasis Incubation
 
     Enchanted creature can't attack or block, and its activated abilities can't be activated.
 
-    {1}{G}{U}, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature.
+    |mana_1| |mana_g| |mana_u|, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature.
 
 
 Kraul Warrior
-    {5}{G}: Kraul Warrior gets +3/+3 until end of turn.
+    {5}|mana_g|: Kraul Warrior gets +3/+3 until end of turn.
 
 
 Lavinia of the Tenth
@@ -392,7 +393,7 @@ Legion's Initiative
 
     White creatures you control get +0/+1.
 
-    {R}{W}, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn.
+    |mana_r| |mana_w|, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn.
 
 
 Profit // Loss (Loss)
@@ -450,9 +451,9 @@ Maze Sentinel
 Maze's End
     Maze's End enters the battlefield tapped.
 
-    {T}: Add {1} to your mana pool.
+    |tap|: Add |mana_1| to your mana pool.
 
-    {3}, {T}, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game.
+    |mana_3|, |tap|, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game.
 
 
 Melek, Izzet Paragon
@@ -510,15 +511,15 @@ Opal Lake Gatekeepers
 
 
 Orzhov Cluestone
-    {T}: Add {W} or {B} to your mana pool.
+    |tap|: Add |mana_w| or |mana_b| to your mana pool.
 
-    {W}{B}, {T}, Sacrifice Orzhov Cluestone: Draw a card.
+    |mana_w| |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card.
 
 
 Orzhov Guildgate
     Orzhov Guildgate enters the battlefield tapped.
 
-    {T}: Add {W} or {B} to your mana pool.
+    |tap|: Add |mana_w| or |mana_b| to your mana pool.
 
 
 Phytoburst
@@ -568,15 +569,15 @@ Putrefy
 
 
 Pyrewild Shaman
-    Bloodrush — {1}{R}, Discard Pyrewild Shaman: Target attacking creature gets +3/+1 until end of turn.
+    Bloodrush — |mana_1| |mana_r|, Discard Pyrewild Shaman: Target attacking creature gets +3/+1 until end of turn.
 
-    Whenever one or more creatures you control deal combat damage to a player, if Pyrewild Shaman is in your graveyard, you may pay {3}. If you do, return Pyrewild Shaman to your hand.
+    Whenever one or more creatures you control deal combat damage to a player, if Pyrewild Shaman is in your graveyard, you may pay |mana_3|. If you do, return Pyrewild Shaman to your hand.
 
 
 Rakdos Cluestone
-    {T}: Add {B} or {R} to your mana pool.
+    |tap|: Add |mana_b| or |mana_r| to your mana pool.
 
-    {B}{R}, {T}, Sacrifice Rakdos Cluestone: Draw a card.
+    |mana_b| |mana_r|, |tap|, Sacrifice Rakdos Cluestone: Draw a card.
 
 
 Rakdos Drake
@@ -588,7 +589,7 @@ Rakdos Drake
 Rakdos Guildgate
     Rakdos Guildgate enters the battlefield tapped.
 
-    {T}: Add {B} or {R} to your mana pool.
+    |tap|: Add |mana_b| or |mana_r| to your mana pool.
 
 
 Ral Zarek
@@ -646,11 +647,11 @@ Riot Piker
 Rot Farm Skeleton
     Rot Farm Skeleton can't block.
 
-    {2}{B}{G}, Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.
+    |mana_2| |mana_b| |mana_g|, Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.
 
 
 Rubblebelt Maaka
-    Bloodrush — {R}, Discard Rubblebelt Maaka: Target attacking creature gets +3/+3 until end of turn.
+    Bloodrush — |mana_r|, Discard Rubblebelt Maaka: Target attacking creature gets +3/+3 until end of turn.
 
 
 Runner's Bane
@@ -678,7 +679,7 @@ Savageborn Hydra
 
     Savageborn Hydra enters the battlefield with X +1/+1 counters on it.
 
-    {1}{(r/g)}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
+    |mana_1|{(r/g)}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
 
 
 Scab-Clan Giant
@@ -690,15 +691,15 @@ Scion of Vitu-Ghazi
 
 
 Selesnya Cluestone
-    {T}: Add {G} or {W} to your mana pool.
+    |tap|: Add |mana_g| or |mana_w| to your mana pool.
 
-    {G}{W}, {T}, Sacrifice Selesnya Cluestone: Draw a card.
+    |mana_g| |mana_w|, |tap|, Sacrifice Selesnya Cluestone: Draw a card.
 
 
 Selesnya Guildgate
     Selesnya Guildgate enters the battlefield tapped.
 
-    {T}: Add {G} or {W} to your mana pool.
+    |tap|: Add |mana_g| or |mana_w| to your mana pool.
 
 
 Protect // Serve (Serve)
@@ -712,15 +713,15 @@ Showstopper
 
 
 Simic Cluestone
-    {T}: Add {G} or {U} to your mana pool.
+    |tap|: Add |mana_g| or |mana_u| to your mana pool.
 
-    {G}{U}, {T}, Sacrifice Simic Cluestone: Draw a card.
+    |mana_g| |mana_u|, |tap|, Sacrifice Simic Cluestone: Draw a card.
 
 
 Simic Guildgate
     Simic Guildgate enters the battlefield tapped.
 
-    {T}: Add {G} or {U} to your mana pool.
+    |tap|: Add |mana_g| or |mana_u| to your mana pool.
 
 
 Sin Collector
@@ -792,7 +793,7 @@ Teysa, Envoy of Ghosts
 Thrashing Mossdog
     Reach (This creature can block creatures with flying.)
 
-    Scavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+    Scavenge {4}|mana_g| |mana_g| ({4}|mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
 
 
 Tithe Drinker
@@ -860,7 +861,7 @@ Voice of Resurgence
 
 
 Vorel of the Hull Clade
-    {G}{U}, {T}: For each counter on target artifact, creature, or land, put another of those counters on that permanent.
+    |mana_g| |mana_u|, |tap|: For each counter on target artifact, creature, or land, put another of those counters on that permanent.
 
 
 Wake the Reflections
@@ -878,7 +879,7 @@ Warped Physique
 Weapon Surge
     Target creature you control gets +1/+0 and gains first strike until end of turn.
 
-    Overload {1}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
+    Overload |mana_1| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")
 
 
 Wear // Tear (Wear)
@@ -912,7 +913,7 @@ Zhur-Taa Ancient
 
 
 Zhur-Taa Druid
-    {T}: Add {G} to your mana pool.
+    |tap|: Add |mana_g| to your mana pool.
 
     Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.
 

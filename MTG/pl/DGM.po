@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"| | n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
 "X-POOTLE-MTIME: 1379660622.636015\n"
 
@@ -23,25 +23,25 @@ msgstr ""
 #: Advent of the Wurm
 msgid "Put a 5/5 green Wurm creature token with trample onto the battlefield."
 msgstr ""
-"{U}: Wygnaj Ætherlinga. Przywróć go na pole walki pod władaniem jego "
+"|mana_u|: Wygnaj Ætherlinga. Przywróć go na pole walki pod władaniem jego "
 "właściciela na początku następnego etapu końcowego."
 
 #: Ætherling
 msgid ""
-"{U}: Exile Ætherling. Return it to the battlefield under its owner's control "
+"|mana_u|: Exile Ætherling. Return it to the battlefield under its owner's control "
 "at the beginning of the next end step."
 msgstr ""
-"{U}: Wypędź Ætherlinga. Przywróć go na pole walki pod władaniem jego "
+"|mana_u|: Wypędź Ætherlinga. Przywróć go na pole walki pod władaniem jego "
 "właściciela na początku następnego etapu końcowego."
 
-msgid "{U}: Ætherling can't be blocked this turn."
-msgstr "{U}: Ætherling nie może być blokowany w tej turze."
+msgid "|mana_u|: Ætherling can't be blocked this turn."
+msgstr "|mana_u|: Ætherling nie może być blokowany w tej turze."
 
-msgid "{1}: Ætherling gets +1/-1 until end of turn."
-msgstr "{1}: Ætherling dostaje +1/-1 do końca tury."
+msgid "|mana_1|: Ætherling gets +1/-1 until end of turn."
+msgstr "|mana_1|: Ætherling dostaje +1/-1 do końca tury."
 
-msgid "{1}: Ætherling gets -1/+1 until end of turn."
-msgstr "{1}: Ætherling dostaje -1/+1 do końca tury."
+msgid "|mana_1|: Ætherling gets -1/+1 until end of turn."
+msgstr "|mana_1|: Ætherling dostaje -1/+1 do końca tury."
 
 #: Alive // Well (Alive)
 msgid "Put a 3/3 green Centaur creature token onto the battlefield."
@@ -67,11 +67,11 @@ msgid "Monocolored creatures can't block this turn."
 msgstr "Jednokolorowe stwory nie mogą blokować w tej turze."
 
 #: Azorius Cluestone
-msgid "{T}: Add {W} or {U} to your mana pool."
-msgstr "{T}: Dodaj {W} lub {U} do swojego zasobnika many."
+msgid "|tap|: Add |mana_w| or |mana_u| to your mana pool."
+msgstr "|tap|: Dodaj |mana_w| lub |mana_u| do swojego zasobnika many."
 
-msgid "{W}{U}, {T}, Sacrifice Azorius Cluestone: Draw a card."
-msgstr "{W}{U}, {T}, poświęć Azorius Cluestone: Dobierz kartę."
+msgid "|mana_w| |mana_u|, |tap|, Sacrifice Azorius Cluestone: Draw a card."
+msgstr "|mana_w| |mana_u|, |tap|, poświęć Azorius Cluestone: Dobierz kartę."
 
 #: Azorius Guildgate
 msgid "Azorius Guildgate enters the battlefield tapped."
@@ -99,10 +99,10 @@ msgstr ""
 
 #: Beetleform Mage
 msgid ""
-"{G}{U}: Beetleform Mage gets +2/+2 and gains flying until end of turn. "
+"|mana_g| |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end of turn. "
 "Activate this ability only once each turn."
 msgstr ""
-"{G}{U}: Beetleform Mage dostaje +2/+2 oraz Latanie do końca tury. Aktywuj tę "
+"|mana_g| |mana_u|: Beetleform Mage dostaje +2/+2 oraz Latanie do końca tury. Aktywuj tę "
 "zdolność tylko raz na turę."
 
 #: Blast of Genius
@@ -163,11 +163,11 @@ msgstr ""
 
 # Słusznie przetłumaczone "or" - musi być "albo", gdyż w języku polskim "lub" zawiera w sobie "oraz". Taka tam logiczna ciekawostka :P
 #: Boros Cluestone
-msgid "{T}: Add {R} or {W} to your mana pool."
-msgstr "{T}: Dodaj {R} albo {W} do swojego zasobnika many."
+msgid "|tap|: Add |mana_r| or |mana_w| to your mana pool."
+msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojego zasobnika many."
 
-msgid "{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card."
-msgstr "{R}{W}, {T}, poświęć Boros Cluestone: Dobierz kartę."
+msgid "|mana_r| |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card."
+msgstr "|mana_r| |mana_w|, |tap|, poświęć Boros Cluestone: Dobierz kartę."
 
 # Ciekawa koncepcja na tłumaczenie "tapped" - wymaga jeszcze pracy, ale podoba mi się koncepcja.
 #: Boros Guildgate
@@ -221,8 +221,8 @@ msgstr "Połóż na polu walki cztery żetony białych stworów Bird 1/1 z Latan
 msgid "Whenever a creature blocks, that creature's controller loses 1 life."
 msgstr "Ilekroć jakiś stwór blokuje, władający nim gracz traci 1 życie."
 
-msgid "{1}{B}{R}: Regenerate Carnage Gladiator."
-msgstr "{1}{B}{R}: Zregeneruj Carnage Gladiator."
+msgid "|mana_1| |mana_b| |mana_r|: Regenerate Carnage Gladiator."
+msgstr "|mana_1| |mana_b| |mana_r|: Zregeneruj Carnage Gladiator."
 
 #: Catch // Release (Catch)
 msgid ""
@@ -247,8 +247,8 @@ msgstr ""
 msgid "Your opponents can't cast cards with the chosen name."
 msgstr "Twoi przeciwnicy nie mogą zagrywać kart z wybraną nazwą."
 
-msgid "Spells with the chosen name you cast cost {2} less to cast."
-msgstr "Czary o wybranej nazwie, które ty rzucasz, kosztują {2} mniej."
+msgid "Spells with the chosen name you cast cost |mana_2| less to cast."
+msgstr "Czary o wybranej nazwie, które ty rzucasz, kosztują |mana_2| mniej."
 
 #: Crypt Incursion
 msgid ""
@@ -303,11 +303,11 @@ msgstr ""
 "stwora, którym władasz, na rękę jego właściciela."
 
 #: Dimir Cluestone
-msgid "{T}: Add {U} or {B} to your mana pool."
-msgstr "{T}: Dodaj {U} lub {B} do swojego zasobnika many."
+msgid "|tap|: Add |mana_u| or |mana_b| to your mana pool."
+msgstr "|tap|: Dodaj |mana_u| lub |mana_b| do swojego zasobnika many."
 
-msgid "{U}{B}, {T}, Sacrifice Dimir Cluestone: Draw a card."
-msgstr "{U}{B}, {T}, poświęć Dimir Cluestone: Dobierz kartę."
+msgid "|mana_u| |mana_b|, |tap|, Sacrifice Dimir Cluestone: Draw a card."
+msgstr "|mana_u| |mana_b|, |tap|, poświęć Dimir Cluestone: Dobierz kartę."
 
 #: Dimir Guildgate
 msgid "Dimir Guildgate enters the battlefield tapped."
@@ -330,11 +330,11 @@ msgstr ""
 "Smokiem 4/4, traci wszystkie zdolności i zyskuje latanie."
 
 msgid ""
-"Overload {3}{U}{U}{R}{R} (You may cast this spell for its overload cost. If "
+"Overload |mana_3| |mana_u| |mana_u| |mana_r| |mana_r| (You may cast this spell for its overload cost. If "
 "you do, change its text by replacing all instances of \"target\" with \"each."
 "\")"
 msgstr ""
-"Przeciążenie {3}{U}{U}{R}{R} (Możesz rzucić czar po jego przeciążeniowym "
+"Przeciążenie |mana_3| |mana_u| |mana_u| |mana_r| |mana_r| (Możesz rzucić czar po jego przeciążeniowym "
 "koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
 "\"wskazany\" na \"każdy.\")"
 
@@ -389,8 +389,8 @@ msgid "Target creature gets -4/-2 until end of turn."
 msgstr "Wskazany stwór dostaje -4/-2 do końca tury."
 
 #: Feral Animist
-msgid "{3}: Feral Animist gets +X/+0 until end of turn, where X is its power."
-msgstr "{3}: Feral Animist dostaje +X/+0 do końca tury, gdzie X to jego siła."
+msgid "|mana_3|: Feral Animist gets +X/+0 until end of turn, where X is its power."
+msgstr "|mana_3|: Feral Animist dostaje +X/+0 do końca tury, gdzie X to jego siła."
 
 #: Flesh // Blood (Flesh)
 msgid ""
@@ -426,19 +426,19 @@ msgid "Whenever a creature you control attacks, put a +1/+1 counter on it."
 msgstr "Ilekroć stwór, którym władasz, atakuje, połóż na nim znacznik +1/+1."
 
 msgid ""
-"{T}: Goblin Test Pilot deals 2 damage to target creature or player chosen at "
+"|tap|: Goblin Test Pilot deals 2 damage to target creature or player chosen at "
 "random."
 msgstr ""
-"{T}: Goblin Test Pilot zadaje 2 obrażenia losowo wskazanemu stworowi lub "
+"|tap|: Goblin Test Pilot zadaje 2 obrażenia losowo wskazanemu stworowi lub "
 "graczowi."
 
 #: Golgari Cluestone
-msgid "{T}: Add {B} or {G} to your mana pool."
-msgstr "{T}: Dodaj {B} lub {G} do twojego zasobnika many."
+msgid "|tap|: Add |mana_b| or |mana_g| to your mana pool."
+msgstr "|tap|: Dodaj |mana_b| lub |mana_g| do twojego zasobnika many."
 
 #, fuzzy
-msgid "{B}{G}, {T}, Sacrifice Golgari Cluestone: Draw a card."
-msgstr "{B}{G}, {T}, Poświęć Golgari Cluestone: Dobierz kartę."
+msgid "|mana_b| |mana_g|, |tap|, Sacrifice Golgari Cluestone: Draw a card."
+msgstr "|mana_b| |mana_g|, |tap|, Poświęć Golgari Cluestone: Dobierz kartę."
 
 #: Golgari Guildgate
 #, fuzzy
@@ -447,11 +447,11 @@ msgstr "Golgari Guildgate wchodzi na pole walki jako zużyty."
 
 #: Gruul Cluestone
 #, fuzzy
-msgid "{T}: Add {R} or {G} to your mana pool."
-msgstr "{T}: Dodaj {R} lub {G} do twojego zasobnika many."
+msgid "|tap|: Add |mana_r| or |mana_g| to your mana pool."
+msgstr "|tap|: Dodaj |mana_r| lub |mana_g| do twojego zasobnika many."
 
-msgid "{R}{G}, {T}, Sacrifice Gruul Cluestone: Draw a card."
-msgstr "{R}{G}, {T}, poświęć Gruul Cluestone: dobierz kartę."
+msgid "|mana_r| |mana_g|, |tap|, Sacrifice Gruul Cluestone: Draw a card."
+msgstr "|mana_r| |mana_g|, |tap|, poświęć Gruul Cluestone: dobierz kartę."
 
 #: Gruul Guildgate
 msgid "Gruul Guildgate enters the battlefield tapped."
@@ -467,10 +467,10 @@ msgstr ""
 
 #: Haazda Snare Squad
 msgid ""
-"Whenever Haazda Snare Squad attacks, you may pay {W}. If you do, tap target "
+"Whenever Haazda Snare Squad attacks, you may pay |mana_w|. If you do, tap target "
 "creature an opponent controls."
 msgstr ""
-"Ilekroć Haazda Snare Squad atakuje, możesz zapłacić {W}. Jeśli to zrobisz, "
+"Ilekroć Haazda Snare Squad atakuje, możesz zapłacić |mana_w|. Jeśli to zrobisz, "
 "zużyj wskazanego stwora władanego przez przeciwnika."
 
 #: Haunter of Nightveil
@@ -499,15 +499,15 @@ msgid "Defender"
 msgstr "Obronność"
 
 msgid ""
-"{3}{B}, {T}: Target opponent loses 2 life, then reveals a card at random "
+"|mana_3| |mana_b|, |tap|: Target opponent loses 2 life, then reveals a card at random "
 "from his or her hand."
 msgstr ""
 
 #: Izzet Cluestone
-msgid "{T}: Add {U} or {R} to your mana pool."
+msgid "|tap|: Add |mana_u| or |mana_r| to your mana pool."
 msgstr ""
 
-msgid "{U}{R}, {T}, Sacrifice Izzet Cluestone: Draw a card."
+msgid "|mana_u| |mana_r|, |tap|, Sacrifice Izzet Cluestone: Draw a card."
 msgstr ""
 
 #: Izzet Guildgate
@@ -530,10 +530,10 @@ msgid "Deathtouch"
 msgstr "Dotyk Śmierci"
 
 msgid ""
-"{2}, Remove a +1/+1 counter from a creature you control: Target creature "
+"|mana_2|, Remove a +1/+1 counter from a creature you control: Target creature "
 "gets -1/-1 until end of turn."
 msgstr ""
-"{2}, Usuń znacznik +1/+1 ze stwora, którym władasz: Wskazany stwór dostaje "
+"|mana_2|, Usuń znacznik +1/+1 ze stwora, którym władasz: Wskazany stwór dostaje "
 "-1/-1 do końca tury."
 
 #: Krasis Incubation Sinister Possession Unflinching Courage
@@ -550,16 +550,16 @@ msgstr ""
 
 #, fuzzy
 msgid ""
-"{1}{G}{U}, Return Krasis Incubation to its owner's hand: Put two +1/+1 "
+"|mana_1| |mana_g| |mana_u|, Return Krasis Incubation to its owner's hand: Put two +1/+1 "
 "counters on enchanted creature."
 msgstr ""
-"{1}{G}{U}, Zwróć Krasis Incubation do ręki jego właściciela: Połóż dwa "
+"|mana_1| |mana_g| |mana_u|, Zwróć Krasis Incubation do ręki jego właściciela: Połóż dwa "
 "znaczniki +1/+1 na zauroczonym stworze."
 
 #: Kraul Warrior
 #, fuzzy
-msgid "{5}{G}: Kraul Warrior gets +3/+3 until end of turn."
-msgstr "{5}{G}: Kraul Warrior dostaje +3/+3 do końca tury."
+msgid "|mana_5| |mana_g|: Kraul Warrior gets +3/+3 until end of turn."
+msgstr "|mana_5| |mana_g|: Kraul Warrior dostaje +3/+3 do końca tury."
 
 #: Lavinia of the Tenth
 #, fuzzy
@@ -586,11 +586,11 @@ msgid "White creatures you control get +0/+1."
 msgstr "Białe stwory, którymi władasz, dostają +0/+1."
 
 msgid ""
-"{R}{W}, Exile Legion's Initiative: Exile all creatures you control. At the "
+"|mana_r| |mana_w|, Exile Legion's Initiative: Exile all creatures you control. At the "
 "beginning of the next combat, return those cards to the battlefield under "
 "their owner's control and those creatures gain haste until end of turn."
 msgstr ""
-"{R}{W}, wypędź Legion's Initiative: Wypędź wszystkie stwory, którymi "
+"|mana_r| |mana_w|, wypędź Legion's Initiative: Wypędź wszystkie stwory, którymi "
 "władasz. Na początku następnej walki przywróć te karty na pole walki pod "
 "władzą ich właściciela. Stwory te dostają pośpiech do końca tury."
 
@@ -667,15 +667,15 @@ msgid "Maze's End enters the battlefield tapped."
 msgstr "Maze's End wchodzi na pole walki jako zużyty ."
 
 #, fuzzy
-msgid "{T}: Add {1} to your mana pool."
-msgstr "{T}: Dodaj {1} do twojego zasobnika many."
+msgid "|tap|: Add |mana_1| to your mana pool."
+msgstr "|tap|: Dodaj |mana_1| do twojego zasobnika many."
 
 msgid ""
-"{3}, {T}, Return Maze's End to its owner's hand: Search your library for a "
+"|mana_3|, |tap|, Return Maze's End to its owner's hand: Search your library for a "
 "Gate card, put it onto the battlefield, then shuffle your library. If you "
 "control ten or more Gates with different names, you win the game."
 msgstr ""
-"{3}, {T}, Zwróć Maze's End do ręki jego właściciela: Przeszukaj swoją "
+"|mana_3|, |tap|, Zwróć Maze's End do ręki jego właściciela: Przeszukaj swoją "
 "bibliotekę w poszukiwaniu karty Bramy, połóż ją na pole walki, następnie "
 "przetasuj swoją bibliotekę. Jeśli masz we władaniu dziesięć lub więcej Bram "
 "z różnymi nazwami, wygrywasz grę."
@@ -704,8 +704,8 @@ msgid "Regenerate target creature."
 msgstr "Zregeneruj wskazanego stwora."
 
 #: Mindstatic
-msgid "Counter target spell unless its controller pays {6}."
-msgstr "Skontruj wskazany czar dopóki jego władce nie zapłaci {6}."
+msgid "Counter target spell unless its controller pays |mana_6|."
+msgstr "Skontruj wskazany czar dopóki jego władce nie zapłaci |mana_6|."
 
 msgid ""
 "Whenever Mirko Vosk, Mind Drinker deals combat damage to a player, that "
@@ -758,10 +758,10 @@ msgid ""
 msgstr ""
 
 #: Orzhov Cluestone
-msgid "{T}: Add {W} or {B} to your mana pool."
+msgid "|tap|: Add |mana_w| or |mana_b| to your mana pool."
 msgstr ""
 
-msgid "{W}{B}, {T}, Sacrifice Orzhov Cluestone: Draw a card."
+msgid "|mana_w| |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
 msgstr ""
 
 #: Orzhov Guildgate
@@ -795,10 +795,10 @@ msgstr ""
 
 #: Pontiff of Blight
 msgid ""
-"Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each "
+"Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each "
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
-"Wymuszenie (Ilekroć rzucasz czar, możesz zapłacić {(w/b)}. Jeśli tak "
+"Wymuszenie (Ilekroć rzucasz czar, możesz zapłacić |mana_wb|. Jeśli tak "
 "zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo "
 "życia.)"
 
@@ -858,21 +858,21 @@ msgstr ""
 
 #: Pyrewild Shaman
 msgid ""
-"Bloodrush — {1}{R}, Discard Pyrewild Shaman: Target attacking creature gets "
+"Bloodrush — |mana_1| |mana_r|, Discard Pyrewild Shaman: Target attacking creature gets "
 "+3/+1 until end of turn."
 msgstr ""
 
 msgid ""
 "Whenever one or more creatures you control deal combat damage to a player, "
-"if Pyrewild Shaman is in your graveyard, you may pay {3}. If you do, return "
+"if Pyrewild Shaman is in your graveyard, you may pay |mana_3|. If you do, return "
 "Pyrewild Shaman to your hand."
 msgstr ""
 
 #: Rakdos Cluestone
-msgid "{T}: Add {B} or {R} to your mana pool."
+msgid "|tap|: Add |mana_b| or |mana_r| to your mana pool."
 msgstr ""
 
-msgid "{B}{R}, {T}, Sacrifice Rakdos Cluestone: Draw a card."
+msgid "|mana_b| |mana_r|, |tap|, Sacrifice Rakdos Cluestone: Draw a card."
 msgstr ""
 
 #: Rakdos Guildgate
@@ -965,14 +965,14 @@ msgid "Rot Farm Skeleton can't block."
 msgstr ""
 
 msgid ""
-"{2}{B}{G}, Put the top four cards of your library into your graveyard: "
+"|mana_2| |mana_b| |mana_g|, Put the top four cards of your library into your graveyard: "
 "Return Rot Farm Skeleton from your graveyard to the battlefield. Activate "
 "this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: Rubblebelt Maaka
 msgid ""
-"Bloodrush — {R}, Discard Rubblebelt Maaka: Target attacking creature gets +3/"
+"Bloodrush — |mana_r|, Discard Rubblebelt Maaka: Target attacking creature gets +3/"
 "+3 until end of turn."
 msgstr ""
 
@@ -1020,10 +1020,10 @@ msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr "Savageborn Hydra wchodzi na wole walki z X znacznikami +1/+1 na niej."
 
 msgid ""
-"{1}{(r/g)}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability "
+"|mana_1| |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability "
 "only any time you could cast a sorcery."
 msgstr ""
-"{1}{(r/g)}: Połóż znacznik +1/+1 na Savageborn Hydrze. Aktywuj tę zdolność "
+"|mana_1| |mana_rg|: Połóż znacznik +1/+1 na Savageborn Hydrze. Aktywuj tę zdolność "
 "tylko wtedy, kiedy mógłbyś rzucić obrzęd."
 
 #: Scab-Clan Giant
@@ -1050,10 +1050,10 @@ msgstr ""
 
 #: Selesnya Cluestone
 #, fuzzy
-msgid "{T}: Add {G} or {W} to your mana pool."
-msgstr "{T}: Dodaj {G} lub {W} do twojego zasobnika many."
+msgid "|tap|: Add |mana_g| or |mana_w| to your mana pool."
+msgstr "|tap|: Dodaj |mana_g| lub |mana_w| do twojego zasobnika many."
 
-msgid "{G}{W}, {T}, Sacrifice Selesnya Cluestone: Draw a card."
+msgid "|mana_g| |mana_w|, |tap|, Sacrifice Selesnya Cluestone: Draw a card."
 msgstr ""
 
 #: Selesnya Guildgate
@@ -1071,10 +1071,10 @@ msgid ""
 msgstr ""
 
 #: Simic Cluestone
-msgid "{T}: Add {G} or {U} to your mana pool."
+msgid "|tap|: Add |mana_g| or |mana_u| to your mana pool."
 msgstr ""
 
-msgid "{G}{U}, {T}, Sacrifice Simic Cluestone: Draw a card."
+msgid "|mana_g| |mana_u|, |tap|, Sacrifice Simic Cluestone: Draw a card."
 msgstr ""
 
 #: Simic Guildgate
@@ -1163,7 +1163,7 @@ msgid "Reach (This creature can block creatures with flying.)"
 msgstr ""
 
 msgid ""
-"Scavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a "
+"Scavenge |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this card from your graveyard: Put a "
 "number of +1/+1 counters equal to this card's power on target creature. "
 "Scavenge only as a sorcery.)"
 msgstr ""
@@ -1249,10 +1249,10 @@ msgstr ""
 
 #: Vorel of the Hull Clade
 msgid ""
-"{G}{U}, {T}: For each counter on target artifact, creature, or land, put "
+"|mana_g| |mana_u|, |tap|: For each counter on target artifact, creature, or land, put "
 "another of those counters on that permanent."
 msgstr ""
-"{G}{U}, {T}: Dla każdego znacznika na wskazanym artefakcie, stworze lub "
+"|mana_g| |mana_u|, |tap|: Dla każdego znacznika na wskazanym artefakcie, stworze lub "
 "lądzie, połóż na owej stałce kolejny taki sam znacznik."
 
 #: Wake the Reflections
@@ -1282,10 +1282,10 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Overload {1}{R} (You may cast this spell for its overload cost. If you do, "
+"Overload |mana_1| |mana_r| (You may cast this spell for its overload cost. If you do, "
 "change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
-"Przeciążenie {1}{R} (Możesz rzucić czar po jego przeciążeniowym koszcie. "
+"Przeciążenie |mana_1| |mana_r| (Możesz rzucić czar po jego przeciążeniowym koszcie. "
 "Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \"wskazany\" na "
 "\"każdy.\")"
 
@@ -1314,7 +1314,7 @@ msgid ""
 msgstr ""
 
 #: Zhur-Taa Druid
-msgid "{T}: Add {G} to your mana pool."
+msgid "|tap|: Add |mana_g| to your mana pool."
 msgstr ""
 
 msgid ""

@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"| | n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
 "X-POOTLE-MTIME: 1379661063.499919\n"
 
@@ -23,7 +23,7 @@ msgstr ""
 #: Act of Treason
 msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
-"gains haste until end of turn. (It can attack and {T} this turn.)"
+"gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
 
 #: Adaptive Snapjaw Experiment One Fathom Mage Gyre Sage Simic Fluxmage
@@ -56,8 +56,8 @@ msgstr "Zaurocz stwora"
 msgid "Enchanted creature gets -5/-0."
 msgstr "Zauroczony stwór dostaje -5/-0."
 
-msgid "{2}{U}: Return Agoraphobia to its owner's hand."
-msgstr "{2}{U}: Zwróć Agoraphobia do ręki właściciela."
+msgid "|mana_2| |mana_u|: Return Agoraphobia to its owner's hand."
+msgstr "|mana_2| |mana_u|: Zwróć Agoraphobia do ręki właściciela."
 
 #: Alms Beast
 msgid "Creatures blocking or blocked by Alms Beast have lifelink."
@@ -129,15 +129,15 @@ msgid ""
 msgstr ""
 
 #: Bane Alley Broker
-msgid "{T}: Draw a card, then exile a card from your hand face down."
+msgid "|tap|: Draw a card, then exile a card from your hand face down."
 msgstr ""
-"{T}: Dobierz kartę, następnie wypędź kartę ze swojej ręki obrazkiem do dołu."
+"|tap|: Dobierz kartę, następnie wypędź kartę ze swojej ręki obrazkiem do dołu."
 
 msgid "You may look at cards exiled with Bane Alley Broker."
 msgstr "Możesz patrzeć na karty wypędzone przez Bane Alley Broker."
 
 msgid ""
-"{U}{B}, {T}: Return a card exiled with Bane Alley Broker to its owner's hand."
+"|mana_u| |mana_b|, |tap|: Return a card exiled with Bane Alley Broker to its owner's hand."
 msgstr ""
 
 #: Basilica Guards Clinging Anemones Corpse Blockade
@@ -147,10 +147,10 @@ msgstr "Obronność"
 #: Blind Obedience Crypt Ghast Syndic of Tithes Syndicate Enforcer Thrull
 #: Parasite Treasury Vizkopa Confessor
 msgid ""
-"Extort (Whenever you cast a spell, you may pay {(w/b)}. If you do, each "
+"Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each "
 "opponent loses 1 life and you gain that much life.)"
 msgstr ""
-"Wymuszenie (Ilekroć rzucasz czar, możesz zapłacić {(w/b)}. Jeśli tak "
+"Wymuszenie (Ilekroć rzucasz czar, możesz zapłacić |mana_wb|. Jeśli tak "
 "zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo "
 "życia.)"
 
@@ -225,16 +225,16 @@ msgid "Boros Guildgate enters the battlefield tapped."
 msgstr ""
 
 #: Boros Keyrune
-msgid "{T}: Add {R} or {W} to your mana pool."
+msgid "|tap|: Add |mana_r| or |mana_w| to your mana pool."
 msgstr ""
 
 #, fuzzy
 msgid ""
-"{R}{W}: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature "
+"|mana_r| |mana_w|: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature "
 "with double strike until end of turn. (It deals both first-strike and "
 "regular combat damage.)"
 msgstr ""
-"{R}{W}: Do końca tury Boros Keyrune staje się czerwono-białym artefaktycznym "
+"|mana_r| |mana_w|: Do końca tury Boros Keyrune staje się czerwono-białym artefaktycznym "
 "stworem Soldier 1/1 z Podwójnym Ciosem. (Zadaje obrażenia bojowe jako "
 "Pierwszy Cios oraz normalnie.)"
 
@@ -244,11 +244,11 @@ msgid ""
 "creature or player."
 msgstr ""
 
-msgid "{(r/w)}: Boros Reckoner gains first strike until end of turn."
+msgid "|mana_rw|: Boros Reckoner gains first strike until end of turn."
 msgstr ""
 
 #: Breeding Pool
-msgid "({T}: Add {G} or {U} to your mana pool.)"
+msgid "(|tap|: Add |mana_g| or |mana_u| to your mana pool.)"
 msgstr ""
 
 msgid ""
@@ -258,7 +258,7 @@ msgstr ""
 
 #: Burning-Tree Emissary
 msgid ""
-"When Burning-Tree Emissary enters the battlefield, add {R}{G} to your mana "
+"When Burning-Tree Emissary enters the battlefield, add |mana_r| |mana_g| to your mana "
 "pool."
 msgstr ""
 
@@ -289,7 +289,7 @@ msgstr ""
 
 #: Cinder Elemental
 msgid ""
-"{X}{R}, {T}, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to "
+"|mana_x| |mana_r|, |tap|, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to "
 "target creature or player."
 msgstr ""
 
@@ -361,7 +361,7 @@ msgid "Each creature you control with a +1/+1 counter on it has trample."
 msgstr ""
 
 msgid ""
-"Whenever you tap a Swamp for mana, add {B} to your mana pool (in addition to "
+"Whenever you tap a Swamp for mana, add |mana_b| to your mana pool (in addition to "
 "the mana the land produces)."
 msgstr ""
 
@@ -377,7 +377,7 @@ msgstr ""
 
 msgid ""
 "When Deathpact Angel dies, put a 1/1 white and black Cleric creature token "
-"onto the battlefield. It has \"{3}{W}{B}{B}, {T}, Sacrifice this creature: "
+"onto the battlefield. It has \"|mana_3| |mana_w| |mana_b| |mana_b|, |tap|, Sacrifice this creature: "
 "Return a card named Deathpact Angel from your graveyard to the battlefield.\""
 msgstr ""
 
@@ -386,7 +386,7 @@ msgid ""
 "its controller's graveyard."
 msgstr ""
 
-msgid "Enchanted land has \"{T}: Tap target creature.\""
+msgid "Enchanted land has \"|tap|: Tap target creature.\""
 msgstr ""
 
 #: Devour Flesh
@@ -419,14 +419,14 @@ msgid "Dimir Guildgate enters the battlefield tapped."
 msgstr ""
 
 #: Dimir Keyrune
-msgid "{T}: Add {U} or {B} to your mana pool."
+msgid "|tap|: Add |mana_u| or |mana_b| to your mana pool."
 msgstr ""
 
 msgid ""
-"{U}{B}: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature "
+"|mana_u| |mana_b|: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature "
 "until end of turn and can't be blocked this turn."
 msgstr ""
-"{U}{B}: Do końca tury Dimir Keyrune staje się niebiesko-czarnym "
+"|mana_u| |mana_b|: Do końca tury Dimir Keyrune staje się niebiesko-czarnym "
 "artefaktycznym stworem Horror 2/2 i nie może być blokowany w tej turze."
 
 #: Dinrova Horror
@@ -438,7 +438,7 @@ msgstr ""
 "właściciela, następnie ten gracz odrzuca kartę."
 
 #: Disciple of the Old Ways
-msgid "{R}: Disciple of the Old Ways gains first strike until end of turn."
+msgid "|mana_r|: Disciple of the Old Ways gains first strike until end of turn."
 msgstr ""
 
 #: Domri Rade
@@ -461,12 +461,12 @@ msgstr ""
 
 #: Duskmantle Guildmage
 msgid ""
-"{1}{U}{B}: Whenever a card is put into an opponent's graveyard from anywhere "
+"|mana_1| |mana_u| |mana_b|: Whenever a card is put into an opponent's graveyard from anywhere "
 "this turn, that player loses 1 life."
 msgstr ""
 
 msgid ""
-"{2}{U}{B}: Target player puts the top two cards of his or her library into "
+"|mana_2| |mana_u| |mana_b|: Target player puts the top two cards of his or her library into "
 "his or her graveyard."
 msgstr ""
 
@@ -477,7 +477,7 @@ msgid ""
 msgstr ""
 
 #: Dutiful Thrull
-msgid "{B}: Regenerate Dutiful Thrull."
+msgid "|mana_b|: Regenerate Dutiful Thrull."
 msgstr ""
 
 #: Dying Wish Murder Investigation
@@ -556,10 +556,10 @@ msgid ""
 "creature or player equal to the number of creatures you control."
 msgstr ""
 
-msgid "{R}: Foundry Champion gets +1/+0 until end of turn."
+msgid "|mana_r|: Foundry Champion gets +1/+0 until end of turn."
 msgstr ""
 
-msgid "{W}: Foundry Champion gets +0/+1 until end of turn."
+msgid "|mana_w|: Foundry Champion gets +0/+1 until end of turn."
 msgstr ""
 
 #: Foundry Street Denizen
@@ -576,7 +576,7 @@ msgstr ""
 
 #: Frilled Oculus
 msgid ""
-"{1}{G}: Frilled Oculus gets +2/+2 until end of turn. Activate this ability "
+"|mana_1| |mana_g|: Frilled Oculus gets +2/+2 until end of turn. Activate this ability "
 "only once each turn."
 msgstr ""
 
@@ -587,11 +587,11 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Sacrifice Frontline Medic: Counter target spell with {X} in its mana cost "
-"unless its controller pays {3}."
+"Sacrifice Frontline Medic: Counter target spell with |mana_x| in its mana cost "
+"unless its controller pays |mana_3|."
 msgstr ""
-"Poświęć Frontline Medic: Skontruj wskazany czar posiadający {X} w swoim "
-"koszcie dopóki jego władca nie zapłaci {3}."
+"Poświęć Frontline Medic: Skontruj wskazany czar posiadający |mana_x| w swoim "
+"koszcie dopóki jego władca nie zapłaci |mana_3|."
 
 #: Furious Resistance
 msgid ""
@@ -599,7 +599,7 @@ msgid ""
 msgstr ""
 
 #: Gateway Shade
-msgid "{B}: Gateway Shade gets +1/+1 until end of turn."
+msgid "|mana_b|: Gateway Shade gets +1/+1 until end of turn."
 msgstr ""
 
 msgid ""
@@ -607,7 +607,7 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Bloodrush — {R}{G}, Discard Ghor-Clan Rampager: Target attacking creature "
+"Bloodrush — |mana_r| |mana_g|, Discard Ghor-Clan Rampager: Target attacking creature "
 "gets +4/+4 and gains trample until end of turn."
 msgstr ""
 
@@ -642,12 +642,12 @@ msgid ""
 msgstr ""
 
 msgid ""
-"{3}, Sacrifice Glaring Spotlight: Creatures you control gain hexproof until "
+"|mana_3|, Sacrifice Glaring Spotlight: Creatures you control gain hexproof until "
 "end of turn and can't be blocked this turn."
 msgstr ""
 
 #: Godless Shrine
-msgid "({T}: Add {W} or {B} to your mana pool.)"
+msgid "(|tap|: Add |mana_w| or |mana_b| to your mana pool.)"
 msgstr ""
 
 msgid ""
@@ -656,7 +656,7 @@ msgid ""
 msgstr ""
 
 #: Greenside Watcher
-msgid "{T}: Untap target Gate."
+msgid "|tap|: Untap target Gate."
 msgstr ""
 
 #: Gridlock
@@ -691,14 +691,14 @@ msgid "Gruul Guildgate enters the battlefield tapped."
 msgstr ""
 
 #: Gruul Keyrune
-msgid "{T}: Add {R} or {G} to your mana pool."
+msgid "|tap|: Add |mana_r| or |mana_g| to your mana pool."
 msgstr ""
 
 msgid ""
-"{R}{G}: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature "
+"|mana_r| |mana_g|: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature "
 "with trample until end of turn."
 msgstr ""
-"{R}{G}: Do końca tury Gruul Keyrune staje się czerwono-zielonym "
+"|mana_r| |mana_g|: Do końca tury Gruul Keyrune staje się czerwono-zielonym "
 "artefaktycznym stworem Beast 3/2 z Tratowaniem."
 
 #: Gruul Ragebeast
@@ -718,7 +718,7 @@ msgstr ""
 msgid "Enchanted creature has protection from multicolored."
 msgstr ""
 
-msgid "{T}: Add {G} to your mana pool for each +1/+1 counter on Gyre Sage."
+msgid "|tap|: Add |mana_g| to your mana pool for each +1/+1 counter on Gyre Sage."
 msgstr ""
 
 #: Hands of Binding
@@ -771,7 +771,7 @@ msgstr ""
 
 #: Horror of the Dim
 msgid ""
-"{U}: Horror of the Dim gains hexproof until end of turn. (It can't be the "
+"|mana_u|: Horror of the Dim gains hexproof until end of turn. (It can't be the "
 "target of spells or abilities your opponents control.)"
 msgstr ""
 
@@ -791,7 +791,7 @@ msgid ""
 "ability, copy that ability. You may choose new targets for the copy."
 msgstr ""
 
-msgid "Equip {3}"
+msgid "Equip |mana_3|"
 msgstr ""
 
 #: Immortal Servitude
@@ -929,7 +929,7 @@ msgstr " albo wypędź wszystkich wędrowców."
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
 
-msgid "{U}: Metropolis Sprite gets +1/-1 until end of turn."
+msgid "|mana_u|: Metropolis Sprite gets +1/-1 until end of turn."
 msgstr ""
 
 #: Midnight Recovery Wildwood Rebirth
@@ -1037,7 +1037,7 @@ msgstr ""
 
 #: Ooze Flux
 msgid ""
-"{1}{G}, Remove one or more +1/+1 counters from among creatures you control: "
+"|mana_1| |mana_g|, Remove one or more +1/+1 counters from among creatures you control: "
 "Put an X/X green Ooze creature token onto the battlefield, where X is the "
 "number of +1/+1 counters removed this way."
 msgstr ""
@@ -1068,14 +1068,14 @@ msgid "Orzhov Guildgate enters the battlefield tapped."
 msgstr ""
 
 #: Orzhov Keyrune
-msgid "{T}: Add {W} or {B} to your mana pool."
+msgid "|tap|: Add |mana_w| or |mana_b| to your mana pool."
 msgstr ""
 
 msgid ""
-"{W}{B}: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact "
+"|mana_w| |mana_b|: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact "
 "creature with lifelink until end of turn."
 msgstr ""
-"{W}{B}: Do końca tury Orzhov Keyrune staje się biało-czarnym artefaktycznym "
+"|mana_w| |mana_b|: Do końca tury Orzhov Keyrune staje się biało-czarnym artefaktycznym "
 "stworem Thrull 1/4 z Więzią Życia."
 
 #: Paranoid Delusions
@@ -1114,7 +1114,7 @@ msgstr ""
 msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgstr ""
 
-msgid "{1}, {T}: Add one mana of any color to your mana pool."
+msgid "|mana_1|, |tap|: Add one mana of any color to your mana pool."
 msgstr ""
 
 #: Psychic Strike
@@ -1136,7 +1136,7 @@ msgid ""
 msgstr ""
 
 #: Razortip Whip
-msgid "{1}, {T}: Razortip Whip deals 1 damage to target opponent."
+msgid "|mana_1|, |tap|: Razortip Whip deals 1 damage to target opponent."
 msgstr ""
 
 #: Realmwright
@@ -1155,7 +1155,7 @@ msgid "Equipped creature gets +1/+2."
 msgstr ""
 
 msgid ""
-"Equip {2} ({2}: Attach to target creature you control. Equip only as a "
+"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a "
 "sorcery.)"
 msgstr ""
 
@@ -1176,7 +1176,7 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Bloodrush — {1}{R}{G}, Discard Rubblehulk: Target attacking creature gets +X/"
+"Bloodrush — |mana_1| |mana_r| |mana_g|, Discard Rubblehulk: Target attacking creature gets +X/"
 "+X until end of turn, where X is the number of lands you control."
 msgstr ""
 
@@ -1187,7 +1187,7 @@ msgid ""
 msgstr ""
 
 #: Sacred Foundry
-msgid "({T}: Add {R} or {W} to your mana pool.)"
+msgid "(|tap|: Add |mana_r| or |mana_w| to your mana pool.)"
 msgstr ""
 
 msgid ""
@@ -1207,7 +1207,7 @@ msgstr ""
 
 #: Scab-Clan Charger
 msgid ""
-"Bloodrush — {1}{G}, Discard Scab-Clan Charger: Target attacking creature "
+"Bloodrush — |mana_1| |mana_g|, Discard Scab-Clan Charger: Target attacking creature "
 "gets +2/+4 until end of turn."
 msgstr ""
 
@@ -1217,7 +1217,7 @@ msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: Scorchwalker
 msgid ""
-"Bloodrush — {1}{R}{R}, Discard Scorchwalker: Target attacking creature gets "
+"Bloodrush — |mana_1| |mana_r| |mana_r|, Discard Scorchwalker: Target attacking creature gets "
 "+5/+1 until end of turn."
 msgstr ""
 
@@ -1274,7 +1274,7 @@ msgid " or return target creature to its owner's hand."
 msgstr ""
 
 msgid ""
-"{1}{U}, {T}: Move a +1/+1 counter from Simic Fluxmage onto target creature."
+"|mana_1| |mana_u|, |tap|: Move a +1/+1 counter from Simic Fluxmage onto target creature."
 msgstr ""
 
 #: Simic Guildgate
@@ -1282,41 +1282,41 @@ msgid "Simic Guildgate enters the battlefield tapped."
 msgstr ""
 
 #: Simic Keyrune
-msgid "{T}: Add {G} or {U} to your mana pool."
+msgid "|tap|: Add |mana_g| or |mana_u| to your mana pool."
 msgstr ""
 
 msgid ""
-"{G}{U}: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature "
+"|mana_g| |mana_u|: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature "
 "with hexproof until end of turn. (It can't be the target of spells or "
 "abilities your opponents control.)"
 msgstr ""
-"{G}{U}: Do końca tury Simic Keyrune staje się zielono-niebieskim "
+"|mana_g| |mana_u|: Do końca tury Simic Keyrune staje się zielono-niebieskim "
 "artefaktycznym stworem Crab 2/3 z Antyklątwą. (Nie może być wskazywany przez "
 "czary i zdolności kontrolowane przez twoich przeciwników.)"
 
 msgid ""
-"{T}, Remove one or more +1/+1 counters from Simic Manipulator: Gain control "
+"|tap|, Remove one or more +1/+1 counters from Simic Manipulator: Gain control "
 "of target creature with power less than or equal to the number of +1/+1 "
 "counters removed this way."
 msgstr ""
 
 msgid ""
-"Bloodrush — {5}{G}{G}, Discard Skarrg Goliath: Target attacking creature "
+"Bloodrush — |mana_5| |mana_g| |mana_g|, Discard Skarrg Goliath: Target attacking creature "
 "gets +9/+9 and gains trample until end of turn."
 msgstr ""
 
 #: Skarrg Guildmage
-msgid "{R}{G}: Creatures you control gain trample until end of turn."
+msgid "|mana_r| |mana_g|: Creatures you control gain trample until end of turn."
 msgstr ""
 
 msgid ""
-"{1}{R}{G}: Target land you control becomes a 4/4 Elemental creature until "
+"|mana_1| |mana_r| |mana_g|: Target land you control becomes a 4/4 Elemental creature until "
 "end of turn. It's still a land."
 msgstr ""
 
 #: Skinbrand Goblin
 msgid ""
-"Bloodrush — {R}, Discard Skinbrand Goblin: Target attacking creature gets +2/"
+"Bloodrush — |mana_r|, Discard Skinbrand Goblin: Target attacking creature gets +2/"
 "+1 until end of turn."
 msgstr ""
 
@@ -1332,12 +1332,12 @@ msgid ""
 msgstr ""
 
 msgid ""
-"Equip {3} ({3}: Attach to target creature you control. Equip only as a "
+"Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a "
 "sorcery.)"
 msgstr ""
 
 msgid ""
-"Enchanted land has \"{T}: Target creature gains flying until end of turn. "
+"Enchanted land has \"|tap|: Target creature gains flying until end of turn. "
 "Activate this ability only any time you could cast a sorcery.\""
 msgstr ""
 
@@ -1353,7 +1353,7 @@ msgstr ""
 
 #: Slaughterhorn
 msgid ""
-"Bloodrush — {G}, Discard Slaughterhorn: Target attacking creature gets +3/+2 "
+"Bloodrush — |mana_g|, Discard Slaughterhorn: Target attacking creature gets +3/+2 "
 "until end of turn."
 msgstr ""
 
@@ -1381,10 +1381,10 @@ msgstr ""
 
 #: Spell Rupture
 msgid ""
-"Counter target spell unless its controller pays {X}, where X is the greatest "
+"Counter target spell unless its controller pays |mana_x|, where X is the greatest "
 "power among creatures you control."
 msgstr ""
-"Skontruj wskazany czas dopóki jego władca nie zapłaci {X}, gdzie X jest "
+"Skontruj wskazany czas dopóki jego władca nie zapłaci |mana_x|, gdzie X jest "
 "największą siłą spośród stworów, którymi władasz."
 
 #: Spire Tracer
@@ -1398,7 +1398,7 @@ msgid ""
 msgstr ""
 
 #: Stomping Ground
-msgid "({T}: Add {R} or {G} to your mana pool.)"
+msgid "(|tap|: Add |mana_r| or |mana_g| to your mana pool.)"
 msgstr ""
 
 msgid ""
@@ -1413,11 +1413,11 @@ msgid ""
 msgstr ""
 
 #: Sunhome Guildmage
-msgid "{1}{R}{W}: Creatures you control get +1/+0 until end of turn."
+msgid "|mana_1| |mana_r| |mana_w|: Creatures you control get +1/+0 until end of turn."
 msgstr ""
 
 msgid ""
-"{2}{R}{W}: Put a 1/1 red and white Soldier creature token with haste onto "
+"|mana_2| |mana_r| |mana_w|: Put a 1/1 red and white Soldier creature token with haste onto "
 "the battlefield."
 msgstr ""
 
@@ -1438,19 +1438,19 @@ msgstr ""
 "bibliotekę."
 
 #: Thespian's Stage
-msgid "{T}: Add {1} to your mana pool."
+msgid "|tap|: Add |mana_1| to your mana pool."
 msgstr ""
 
 msgid ""
-"{2}, {T}: Thespian's Stage becomes a copy of target land and gains this "
+"|mana_2|, |tap|: Thespian's Stage becomes a copy of target land and gains this "
 "ability."
 msgstr ""
 
-msgid "{T}, Pay 2 life: Remove a counter from target nonland permanent."
+msgid "|tap|, Pay 2 life: Remove a counter from target nonland permanent."
 msgstr ""
-"{T}, zapłać 2 życia: Zdejmij znacznik ze wskazanej stałki nie będącej lądem."
+"|tap|, zapłać 2 życia: Zdejmij znacznik ze wskazanej stałki nie będącej lądem."
 
-msgid "Enchanted land has \"{T}, Discard a card: Draw a card.\""
+msgid "Enchanted land has \"|tap|, Discard a card: Draw a card.\""
 msgstr ""
 
 #: Totally Lost
@@ -1464,7 +1464,7 @@ msgid "Creatures you control get +0/+5 and gain reach until end of turn."
 msgstr ""
 
 #: Towering Thunderfist
-msgid "{W}: Towering Thunderfist gains vigilance until end of turn."
+msgid "|mana_w|: Towering Thunderfist gains vigilance until end of turn."
 msgstr ""
 
 msgid ""
@@ -1472,15 +1472,15 @@ msgid ""
 "or enchantment card from your graveyard to your hand."
 msgstr ""
 
-msgid "{R}{W}: Truefire Paladin gets +2/+0 until end of turn."
+msgid "|mana_r| |mana_w|: Truefire Paladin gets +2/+0 until end of turn."
 msgstr ""
 
-msgid "{R}{W}: Truefire Paladin gains first strike until end of turn."
+msgid "|mana_r| |mana_w|: Truefire Paladin gains first strike until end of turn."
 msgstr ""
 
 #: Undercity Informer
 msgid ""
-"{1}, Sacrifice a creature: Target player reveals cards from the top of his "
+"|mana_1|, Sacrifice a creature: Target player reveals cards from the top of his "
 "or her library until he or she reveals a land card, then puts those cards "
 "into his or her graveyard."
 msgstr ""
@@ -1521,7 +1521,7 @@ msgid "First strike"
 msgstr ""
 
 msgid ""
-"Bloodrush — {2}{R}, Discard Viashino Shanktail: Target attacking creature "
+"Bloodrush — |mana_2| |mana_r|, Discard Viashino Shanktail: Target attacking creature "
 "gets +3/+1 and gains first strike until end of turn."
 msgstr ""
 
@@ -1532,11 +1532,11 @@ msgid ""
 msgstr ""
 
 #: Vizkopa Guildmage
-msgid "{1}{W}{B}: Target creature gains lifelink until end of turn."
+msgid "|mana_1| |mana_w| |mana_b|: Target creature gains lifelink until end of turn."
 msgstr ""
 
 msgid ""
-"{1}{W}{B}: Whenever you gain life this turn, each opponent loses that much "
+"|mana_1| |mana_w| |mana_b|: Whenever you gain life this turn, each opponent loses that much "
 "life."
 msgstr ""
 
@@ -1557,12 +1557,12 @@ msgid "Deathtouch"
 msgstr "Dotyk Śmierci"
 
 msgid ""
-"Bloodrush — {G}, Discard Wasteland Viper: Target attacking creature gets +1/"
+"Bloodrush — |mana_g|, Discard Wasteland Viper: Target attacking creature gets +1/"
 "+2 and gains deathtouch until end of turn."
 msgstr ""
 
 #: Watery Grave
-msgid "({T}: Add {U} or {B} to your mana pool.)"
+msgid "(|tap|: Add |mana_u| or |mana_b| to your mana pool.)"
 msgstr ""
 
 msgid ""
@@ -1599,26 +1599,26 @@ msgid "Double strike"
 msgstr ""
 
 msgid ""
-"Bloodrush — {3}{R}{R}, Discard Wrecking Ogre: Target attacking creature gets "
+"Bloodrush — |mana_3| |mana_r| |mana_r|, Discard Wrecking Ogre: Target attacking creature gets "
 "+3/+3 and gains double strike until end of turn."
 msgstr ""
 
 #: Zameck Guildmage
 msgid ""
-"{G}{U}: This turn, each creature you control enters the battlefield with an "
+"|mana_g| |mana_u|: This turn, each creature you control enters the battlefield with an "
 "additional +1/+1 counter on it."
 msgstr ""
 
 msgid ""
-"{G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card."
+"|mana_g| |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card."
 msgstr ""
 
 #: Zarichi Tiger
-msgid "{1}{W}, {T}: You gain 2 life."
+msgid "|mana_1| |mana_w|, |tap|: You gain 2 life."
 msgstr ""
 
 #: Zhur-Taa Swine
 msgid ""
-"Bloodrush — {1}{R}{G}, Discard Zhur-Taa Swine: Target attacking creature "
+"Bloodrush — |mana_1| |mana_r| |mana_g|, Discard Zhur-Taa Swine: Target attacking creature "
 "gets +5/+4 until end of turn."
 msgstr ""

@@ -1,7 +1,7 @@
-# SOME DESCRIPTIVE TITLE.
+# Magic 2014 Core Set - Polish Translation
 # Copyright (C) 2013, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Dominik Kozaczko <dominik@kozaczko.info>, 2013.
 #
 msgid ""
 msgstr ""
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"| | n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
 "X-POOTLE-MTIME: 1378832860.600311\n"
 
@@ -105,11 +105,11 @@ msgstr ""
 
 # d799053ce63a4e7791e9a3c1f2e9f2c8
 #: ../../M14_Rulebook.rst:44
-msgid "Each color of mana fuels a different kind of powerful magic for you to command. For example, red spells have {R} in their costs, and tapping (turning) a Mountain gives you {R} that you can spend to cast spells. It's up to you whether to master one color or all five."
+msgid "Each color of mana fuels a different kind of powerful magic for you to command. For example, red spells have |mana_r| in their costs, and tapping (turning) a Mountain gives you |mana_r| that you can spend to cast spells. It's up to you whether to master one color or all five."
 msgstr ""
 "Każdy kolor many zasila inny rodzaj potężnej magii, którą możesz władać. "
-"Przykładowo czerwone czary mają {R} w koszcie, a zużycie (obrócenie) Góry "
-"daje {R}, które możesz użyć do rzucania czarów. Od ciebie zależy, czy "
+"Przykładowo czerwone czary mają |mana_r| w koszcie, a zużycie (obrócenie) Góry "
+"daje |mana_r|, które możesz użyć do rzucania czarów. Od ciebie zależy, czy "
 "opanujesz jeden kolor, czy wszystkie pięć."
 
 # 2e1d4b3d70c946739881178b034f133a
@@ -199,11 +199,11 @@ msgstr "Koszt many"
 
 # 2dd6ad9934964076b4095024a3edf7cb
 #: ../../M14_Rulebook.rst:89
-msgid "*Mana* is the main resource in the game. It's produced by lands, and you spend it to cast *spells*. The symbols in a card's upper right corner tell you the cost to cast that spell. If the mana cost reads {4}{R}{R}, you pay four mana of any kinds plus two red mana (from two Mountains) to cast it."
+msgid "*Mana* is the main resource in the game. It's produced by lands, and you spend it to cast *spells*. The symbols in a card's upper right corner tell you the cost to cast that spell. If the mana cost reads |mana_4| |mana_r| |mana_r|, you pay four mana of any kinds plus two red mana (from two Mountains) to cast it."
 msgstr ""
 "W grze głównym zasobem jest *mana*. Produkują ją lądy, a ty wydajesz ją, by "
 "rzucać *czary*. Symbole w górnym prawym roku karty pokazują koszt rzucenia "
-"czaru. Jeśli koszt many wynosi {4}{R}{R}, to żeby rzucić czar, musisz "
+"czaru. Jeśli koszt many wynosi |mana_4| |mana_r| |mana_r|, to żeby rzucić czar, musisz "
 "zapłacisz cztery many dowolnego rodzaju plus dwie czerwone many (z dwóch "
 "Gór)."
 
@@ -403,10 +403,10 @@ msgstr ""
 
 # 5b4810281def4731b09844cff5574646
 #: ../../M14_Rulebook.rst:190
-msgid "Unlike other types of permanents, creatures enter the battlefield with \"summoning sickness\": a creature can't attack, or use an ability that has {T} in its cost, until it has started your turn on the battlefield under your control. You can block with a creature or activate its other abilities no matter how long it's been on the battlefield."
+msgid "Unlike other types of permanents, creatures enter the battlefield with \"summoning sickness\": a creature can't attack, or use an ability that has |tap| in its cost, until it has started your turn on the battlefield under your control. You can block with a creature or activate its other abilities no matter how long it's been on the battlefield."
 msgstr ""
 "W przeciwieństwie do innych stałek, stwory wchodzą na pole walki z \"chorobą "
-"przyzwaniową\": stwór nie może atakować lub używać zdolności, która ma {T}w "
+"przyzwaniową\": stwór nie może atakować lub używać zdolności, która ma |tap|w "
 "koszcie dopóki nie rozpocznie tury na polu walki pod twoim władaniem. Możesz "
 "blokować lub używać innych zdolności niezależnie od tego, jak długo dany "
 "stwór jest na polu walki."
@@ -490,11 +490,11 @@ msgstr ""
 
 # 0286cb70f03a41ee8ff854f66e23c1c1
 #: ../../M14_Rulebook.rst:229
-msgid "Each basic land has a mana ability that makes one mana of a particular color. Plains make white mana ({W}), Islands make blue mana ({U}), Swamps make black mana ({B}), Mountains make red mana ({R}), and Forests make green mana ({G}). Any land other than these five is a *nonbasic land*."
+msgid "Each basic land has a mana ability that makes one mana of a particular color. Plains make white mana (|mana_w|), Islands make blue mana (|mana_u|), Swamps make black mana (|mana_b|), Mountains make red mana (|mana_r|), and Forests make green mana (|mana_g|). Any land other than these five is a *nonbasic land*."
 msgstr ""
 "Każdy ląd podstawowy posiada zdolność, która produkuje manę określonego "
-"koloru. Równiny dają białą manę ({W}), Wyspy - niebieską ({U}), Bagna - "
-"czarną ({B}), Góry - czerwoną ({R}), a Lasy - zieloną ({G}). Każdy inny ląd "
+"koloru. Równiny dają białą manę (|mana_w|), Wyspy - niebieską (|mana_u|), Bagna - "
+"czarną (|mana_b|), Góry - czerwoną (|mana_r|), a Lasy - zieloną (|mana_g|). Każdy inny ląd "
 "jest *lądem niepodstawowym.*"
 
 # 1ef51ef078be4c46bbe7eab9ea490406
@@ -718,19 +718,19 @@ msgstr "Wytwarzanie many"
 
 # effbca0cec4041bca9f2f3d7e20e78ca
 #: ../../M14_Rulebook.rst:335
-msgid "To do just about anything else in the game, you first need to be able to make mana. Think of mana as Magic money—it's what you use to pay most costs. Each mana is either one of the five **Magic** *colors* or is *colorless*. When a cost requires colored mana, you'll see colored mana symbols ({W} for white, {U} for blue, {B} for black, {R} for red, {G} for green). When any kind of mana can be used to pay the cost, you'll see a symbol with a number in it (like {2})."
+msgid "To do just about anything else in the game, you first need to be able to make mana. Think of mana as Magic money—it's what you use to pay most costs. Each mana is either one of the five **Magic** *colors* or is *colorless*. When a cost requires colored mana, you'll see colored mana symbols (|mana_w| for white, |mana_u| for blue, |mana_b| for black, |mana_r| for red, |mana_g| for green). When any kind of mana can be used to pay the cost, you'll see a symbol with a number in it (like |mana_2|)."
 msgstr ""
 "Aby zrobić cokolwiek w grze, najpierw potrzebujesz uzyskać manę. Pomyśl o "
 "niej jak o pieniądzach - używasz jej do opłacania większości kosztów. Każda "
 "mana jest albo w jednym z pięciu *kolorów*, albo jest *bezkolorowa*. Kiedy "
-"koszt trzeba opłacić kolorową maną, zobaczysz symbole many ({W} dla białej, "
-"{U} - niebieskiej, {B} - czarnej, {R} - czerwonej, {G} - zielonej). Kiedy "
+"koszt trzeba opłacić kolorową maną, zobaczysz symbole many (|mana_w| dla białej, "
+"|mana_u| - niebieskiej, |mana_b| - czarnej, |mana_r| - czerwonej, |mana_g| - zielonej). Kiedy "
 "dowolny rodzaj many może być użyty do opłacenia kosztu, zobaczysz symbol z "
-"liczbą w środku (np. {2})."
+"liczbą w środku (np. |mana_2|)."
 
 # 57fad8dc902e49f4874a70ba56976237
 #: ../../M14_Rulebook.rst:344
-msgid "Where does mana come from? Nearly every land in the game has an ability that produces mana. Basic lands just have a large mana symbol in their text boxes to show this—you can tap one of them to add one mana of that color to your *mana pool*. (Your mana pool is where mana is stored until you spend it.) Other lands, as well as some creatures, artifacts, and spells, may also make mana. They'll say something like \"Add {G} to your mana pool.\""
+msgid "Where does mana come from? Nearly every land in the game has an ability that produces mana. Basic lands just have a large mana symbol in their text boxes to show this—you can tap one of them to add one mana of that color to your *mana pool*. (Your mana pool is where mana is stored until you spend it.) Other lands, as well as some creatures, artifacts, and spells, may also make mana. They'll say something like \"Add |mana_g| to your mana pool.\""
 msgstr ""
 "Skąd pochodzi mana? Niemal każdy ląd w grze posiada zdolność, która "
 "produkuje manę. Na lądach podstawowych przedstawione jest to za pomocą "
@@ -738,7 +738,7 @@ msgstr ""
 "jedną manę tego koloru do swojego *zasobnika many*. (Zasobnik many jest "
 "miejscem, gdzie mana jest przechowywana, zanim ją zużyjesz.) Inne lądy oraz "
 "niektóre stwory, artefakty oraz czary także mogą produkować manę. Będą mieć "
-"napisane coś w rodzaju \"Dodaj {G} do swojego zasobnika many\"."
+"napisane coś w rodzaju \"Dodaj |mana_g| do swojego zasobnika many\"."
 
 # 8821ce4ddf624570b36b9ba9112b4cd8
 # 3638cc046792422c8314f8b37c0511e6
@@ -759,8 +759,8 @@ msgstr "Równina"
 
 # f5f3f0285da6465ea5487f7d83d1d706
 #: ../../M14_Rulebook.rst:356
-msgid "{W} (white)"
-msgstr "{W} (biały)"
+msgid "|mana_w| (white)"
+msgstr "|mana_w| (biały)"
 
 # e5cf1745c13d4075b64faeb4ed333acd
 #: ../../M14_Rulebook.rst:358
@@ -769,8 +769,8 @@ msgstr "Wyspa"
 
 # 4604a9623f5c419183b7966bad02798c
 #: ../../M14_Rulebook.rst:358
-msgid "{U} (blue)"
-msgstr "{U} (niebieski)"
+msgid "|mana_u| (blue)"
+msgstr "|mana_u| (niebieski)"
 
 # e117e0b965284ee2b01082c9539dc5ad
 #: ../../M14_Rulebook.rst:360
@@ -779,8 +779,8 @@ msgstr "Bagno"
 
 # 4f3bc0de9d1b44a2960d58f0a7613dc9
 #: ../../M14_Rulebook.rst:360
-msgid "{B} (black)"
-msgstr "{B} (czarny)"
+msgid "|mana_b| (black)"
+msgstr "|mana_b| (czarny)"
 
 # 9828c54f8653449ab42b49c8501477d6
 #: ../../M14_Rulebook.rst:362
@@ -789,8 +789,8 @@ msgstr "Góra"
 
 # 15a3c625f846437399885d11d4d4c0d9
 #: ../../M14_Rulebook.rst:362
-msgid "{R} (red)"
-msgstr "{R} (czerwony)"
+msgid "|mana_r| (red)"
+msgstr "|mana_r| (czerwony)"
 
 # c4406e470e344dd48ed1692593c5ff20
 #: ../../M14_Rulebook.rst:364
@@ -799,8 +799,8 @@ msgstr "Las"
 
 # bfffedf2d4ad410ebe6934e953375ba8
 #: ../../M14_Rulebook.rst:364
-msgid "{G} (green)"
-msgstr "{G} (zielony)"
+msgid "|mana_g| (green)"
+msgstr "|mana_g| (zielony)"
 
 # 5efc93adfb004185b822c9d4622680b8
 #: ../../M14_Rulebook.rst:367
@@ -818,11 +818,11 @@ msgstr "Zużywanie"
 
 # fcf8062a281f43b89c8e16d086528637
 #: ../../M14_Rulebook.rst:374
-msgid "To tap a card is to turn it sideways. You do this when you use a land to make mana, when you attack with a creature, or when you activate an ability that has the {T} symbol as part of its cost ({T} means \"tap this permanent\")."
+msgid "To tap a card is to turn it sideways. You do this when you use a land to make mana, when you attack with a creature, or when you activate an ability that has the |tap| symbol as part of its cost (|tap| means \"tap this permanent\")."
 msgstr ""
 "Aby zużyć kartę, należy ustawić ją bokiem. Robisz tak, kiedy używasz lądu do "
 "produkcji many, kiedy atakujesz stworem lub gdy aktywujesz zdolność, która "
-"ma {T} w swoim koszcie ({T} oznacza \"zużyj tę stałkę\")."
+"ma |tap| w swoim koszcie (|tap| oznacza \"zużyj tę stałkę\")."
 
 # d94cb79edfef46e2a950e396e074773a
 #: ../../M14_Rulebook.rst:378
@@ -869,13 +869,13 @@ msgstr ""
 
 # ae643b0dd8814130836bea61c5974e26
 #: ../../M14_Rulebook.rst:398
-msgid "There are a few choices that you need to make right now. If the spell is an instant or sorcery and says \"Choose one —,\" you choose which of the options you're using. If the spell is an instant or sorcery and it has a target, you choose what (or who) that target is. Aura spells also target the permanents they'll enchant. If the spell has {X} in its cost, you choose what number X stands for. Other choices will be made later, when the spell resolves."
+msgid "There are a few choices that you need to make right now. If the spell is an instant or sorcery and says \"Choose one —,\" you choose which of the options you're using. If the spell is an instant or sorcery and it has a target, you choose what (or who) that target is. Aura spells also target the permanents they'll enchant. If the spell has |mana_x| in its cost, you choose what number X stands for. Other choices will be made later, when the spell resolves."
 msgstr ""
 "W tej chwili musisz podjąć kilka decyzji. Jeśli czar jest sztuczką lub "
 "obrzędem i mówi \"Wybierz jedno -\", musisz zdecydować, której części będziesz "
 "używać. Jeśli czar jest sztuczką lub obrzędem i wymaga wskazania celu, "
 "wybierasz co (lub kogo) wskazuje. Czary Aur także wskazują stałki, które "
-"będą przez nie zauroczone. Jeśli czar ma {X} w swoim koszcie, wybierasz "
+"będą przez nie zauroczone. Jeśli czar ma |mana_x| w swoim koszcie, wybierasz "
 "wartość X. Pozostałe decyzje zostaną podjęte, gdy czar będzie rozliczany."
 
 # a1500ca91ee74962ab32f1c61ec2752a
@@ -1100,7 +1100,7 @@ msgstr ""
 
 # fac28ffdb30d48a3b533946bdb100d00
 #: ../../M14_Rulebook.rst:534
-msgid "Some activated abilities contain the {T} symbol in their costs. This means that you must tap the permanent to activate the ability. You can't activate the ability if the permanent is already tapped."
+msgid "Some activated abilities contain the |tap| symbol in their costs. This means that you must tap the permanent to activate the ability. You can't activate the ability if the permanent is already tapped."
 msgstr ""
 
 # 32dccad66bfd4f77ade52369bf4f905b
@@ -1658,72 +1658,72 @@ msgstr "Rozdział 5: Glosariusz"
 
 # 8da397cf65f241f8b9983da139b5a382
 #: ../../M14_Rulebook.rst:910
-msgid "{1}, {2}, {3}, and so on, {X}"
-msgstr "{1}, {2}, {3} itd., {X}"
+msgid "|mana_1|, |mana_2|, |mana_3|, and so on, |mana_x|"
+msgstr "|mana_1|, |mana_2|, |mana_3| itd., |mana_x|"
 
 # f89c8eb491ba4c60b95859ed72d2b135
 #: ../../M14_Rulebook.rst:901
-msgid "One of these generic mana symbols in a cost means \"this many of any type of mana.\" For example, {2} in a cost means you can pay two mana of any type, such as {R} and {G}, or {U} and {U}, or {R} and one colorless mana, and so on. (If oX is in a cost, you get to choose what number the X stands for.)"
+msgid "One of these generic mana symbols in a cost means \"this many of any type of mana.\" For example, |mana_2| in a cost means you can pay two mana of any type, such as |mana_r| and |mana_g|, or |mana_u| and |mana_u|, or |mana_r| and one colorless mana, and so on. (If oX is in a cost, you get to choose what number the X stands for.)"
 msgstr ""
 
 # 212f4cbf65254d788e456a03703fb35f
 #: ../../M14_Rulebook.rst:907
-msgid "These symbols are also found in some abilities that produce mana, like \"Add {1} to your mana pool.\" In this context, {1} means \"one colorless mana.\" You can't use colorless mana to pay for colored mana costs."
+msgid "These symbols are also found in some abilities that produce mana, like \"Add |mana_1| to your mana pool.\" In this context, |mana_1| means \"one colorless mana.\" You can't use colorless mana to pay for colored mana costs."
 msgstr ""
 
 # b5bd8f84d65d4c6eaa88fc4970501846
 #: ../../M14_Rulebook.rst:913
-msgid "{W} (white mana)"
-msgstr "{W} (biała mana}"
+msgid "|mana_w| (white mana)"
+msgstr "|mana_w| (biała mana}"
 
 # fb5e0b92c94b4e928931f893caf68a43
 #: ../../M14_Rulebook.rst:913
-msgid "One white mana. Tapping a Plains makes {W}. A card with {W} in its mana cost is white."
+msgid "One white mana. Tapping a Plains makes |mana_w|. A card with |mana_w| in its mana cost is white."
 msgstr ""
 
 # 86c53077bd8644e8be8d5fabc2227fc4
 #: ../../M14_Rulebook.rst:916
-msgid "{U} (blue mana)"
+msgid "|mana_u| (blue mana)"
 msgstr ""
 
 # e64bf512fa9e42b2b101d0ca518a0fe4
 #: ../../M14_Rulebook.rst:916
-msgid "One blue mana. Tapping an Island makes {U}. A card with {U} in its mana cost is blue."
+msgid "One blue mana. Tapping an Island makes |mana_u|. A card with |mana_u| in its mana cost is blue."
 msgstr ""
 
 # 795e00204d9e4565a5b9976d5d54af97
 #: ../../M14_Rulebook.rst:919
-msgid "{B} (black mana)"
+msgid "|mana_b| (black mana)"
 msgstr ""
 
 # ff541db27c394a71a0b970bbd0d8fc5c
 #: ../../M14_Rulebook.rst:919
-msgid "One black mana. Tapping a Swamp makes {B}. A card with {B} in its mana cost is black."
+msgid "One black mana. Tapping a Swamp makes |mana_b|. A card with |mana_b| in its mana cost is black."
 msgstr ""
 
 # 8caee66bb08a4ac88635064167600b3c
 #: ../../M14_Rulebook.rst:922
-msgid "{R} (red mana)"
+msgid "|mana_r| (red mana)"
 msgstr ""
 
 # c69862d1d1064620a9f03ce90720aca6
 #: ../../M14_Rulebook.rst:922
-msgid "One red mana. Tapping a Mountain makes {R}. A card with {R} in its mana cost is red."
+msgid "One red mana. Tapping a Mountain makes |mana_r|. A card with |mana_r| in its mana cost is red."
 msgstr ""
 
 # f41f85314504473291ca9c40a67ed01f
 #: ../../M14_Rulebook.rst:925
-msgid "{G} (green mana)"
+msgid "|mana_g| (green mana)"
 msgstr ""
 
 # 357cfe2d99dd47bb82804b0302e66a36
 #: ../../M14_Rulebook.rst:925
-msgid "One green mana. Tapping a Forest makes {G}. A card with {G} in its mana cost is green."
+msgid "One green mana. Tapping a Forest makes |mana_g|. A card with |mana_g| in its mana cost is green."
 msgstr ""
 
 # 35fbd5475fe84d5480032580df6afc7d
 #: ../../M14_Rulebook.rst:933
-msgid "{T} (tap)"
+msgid "|tap| (tap)"
 msgstr ""
 
 # e492d8e2e7e24d8b9d9a38d171ca218c
@@ -1733,7 +1733,7 @@ msgstr ""
 
 # fe4a69ed52e348f98e13720b5b055b55
 #: ../../M14_Rulebook.rst:942
-msgid "{w/u}, {b/g}, and so on"
+msgid "|mana_wu|, |mana_bg|, and so on"
 msgstr ""
 
 # 0f0d1f768d7840e9a4376f771999578f
@@ -1858,7 +1858,7 @@ msgstr ""
 
 # 3e34397e71a548c5b9d9dc7fcbb4cb72
 #: ../../M14_Rulebook.rst:1048
-msgid "There are five basic lands. Plains make {W} (white mana). Islands make {U} (blue mana). Swamps make {B} (black mana). Mountains make {R} (red mana). Forests make {G} (green mana). They each say \"basic\" on their type line (basic is a supertype). Lands other than these five are called nonbasic lands."
+msgid "There are five basic lands. Plains make |mana_w| (white mana). Islands make |mana_u| (blue mana). Swamps make |mana_b| (black mana). Mountains make |mana_r| (red mana). Forests make |mana_g| (green mana). They each say \"basic\" on their type line (basic is a supertype). Lands other than these five are called nonbasic lands."
 msgstr ""
 
 # 40cea0ff0ccc4fe8820240711dc829bc
@@ -1868,7 +1868,7 @@ msgstr ""
 
 # 8441930129bd4bd79e7d0189896db0ff
 #: ../../M14_Rulebook.rst:1059
-msgid "Each basic land has a subtype, which appears after \"Basic Land —\" on its type line. These are the \"basic land types,\" which are the same five words as the basic land names. Some nonbasic lands also have basic land types. Any land with a basic land type has an activated ability that makes one mana of the appropriate color, even if it doesn't say so in the text box. For example, every Forest has the ability \"{T}: Add {G} to your mana pool.\""
+msgid "Each basic land has a subtype, which appears after \"Basic Land —\" on its type line. These are the \"basic land types,\" which are the same five words as the basic land names. Some nonbasic lands also have basic land types. Any land with a basic land type has an activated ability that makes one mana of the appropriate color, even if it doesn't say so in the text box. For example, every Forest has the ability \"|tap|: Add |mana_g| to your mana pool.\""
 msgstr ""
 
 # 2626b58aa084492fa7fd717083e46c8b
@@ -2684,7 +2684,7 @@ msgstr ""
 
 # 6aeb6cbd27f5428885cd6b3a695f3f86
 #: ../../M14_Rulebook.rst:1596
-msgid "Most mana comes from tapping lands. There are five colors of mana: {W} (white), {U} (blue), {B} (black), {R} (red), and {G} (green). There's also colorless mana."
+msgid "Most mana comes from tapping lands. There are five colors of mana: |mana_w| (white), |mana_u| (blue), |mana_b| (black), |mana_r| (red), and |mana_g| (green). There's also colorless mana."
 msgstr ""
 
 # ea02e16749f04ee7ae599b9ecb2b5782
@@ -2759,7 +2759,7 @@ msgstr ""
 
 # 489f42fd5b414a0496b7f9103d6950b1
 #: ../../M14_Rulebook.rst:1639
-msgid "A card with more than one color of mana in its mana cost. For example, a card with the mana cost {2}{B}{R} is both black and red. Most multicolored cards have a gold background."
+msgid "A card with more than one color of mana in its mana cost. For example, a card with the mana cost |mana_2| |mana_b| |mana_r| is both black and red. Most multicolored cards have a gold background."
 msgstr ""
 
 # 5b3a75ce22124f708e6369949e5fc584
@@ -3449,7 +3449,7 @@ msgstr ""
 
 # 56843926644f4ab9a0a3b1737f7b7251
 #: ../../M14_Rulebook.rst:2085
-msgid "When you see X in a mana cost or an activation cost, you get to choose the number that X stands for. For example, Volcanic Geyser is an instant spell that costs {X}{R}{R} and deals X damage. When you cast Volcanic Geyser, you choose what number X is. If you pick three, for example, Volcanic Geyser costs {3}{R}{R} and deals 3 damage. If you pick six, Volcanic Geyser costs {6}{R}{R} and deals 6 damage."
+msgid "When you see X in a mana cost or an activation cost, you get to choose the number that X stands for. For example, Volcanic Geyser is an instant spell that costs |mana_x| |mana_r| |mana_r| and deals X damage. When you cast Volcanic Geyser, you choose what number X is. If you pick three, for example, Volcanic Geyser costs |mana_3| |mana_r| |mana_r| and deals 3 damage. If you pick six, Volcanic Geyser costs |mana_6| |mana_r| |mana_r| and deals 6 damage."
 msgstr ""
 
 # c0a674b7a643450db05a1fea8096b7ea

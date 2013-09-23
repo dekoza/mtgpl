@@ -1,4 +1,5 @@
 .. Gatecrash auto-download
+.. include:: symbols.rst
 
 Gatecrash
 =========

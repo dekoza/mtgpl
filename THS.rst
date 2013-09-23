@@ -1,5 +1,4 @@
 .. Theros cards
-
 .. include:: symbols.rst
 
 Theros
