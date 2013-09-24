@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-20 08:15+0200\n"
+"PO-Revision-Date: 2013-09-23 14:28+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,9 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"| | n%100>=20) ? 1 : 2);\n"
+"|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379661300.357827\n"
+"X-POOTLE-MTIME: 1379942907.294922\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Academy Raider Accursed Spirit Cyclops Tyrant Lifebane Zombie
@@ -84,13 +84,13 @@ msgid "+1: Put a +1/+1 counter on up to one target creature."
 msgstr "+1: Połóż znacznik +1/+1 na najwyżej jednym wskazanym stworze."
 
 msgid "-3: Target creature gains flying and double strike until end of turn."
-msgstr "-3: Wskazany stwór dostaje Latanie i Podwójny Cios do końca tury."
+msgstr "-3: Wskazany stwór dostaje do końca tury latanie oraz podwójny cios."
 
 msgid ""
 "-8: Put X 2/2 white Cat creature tokens onto the battlefield, where X is "
 "your life total."
 msgstr ""
-"-8: Połóż na polu walki X żetonów białych stworów Kot 2/2, gdzie X jest "
+"-8: Połóż na polu walki X żetonów białych stworów Cat 2/2, gdzie X jest "
 "liczbą twoich punktów życia."
 
 #: Ajani's Chosen
@@ -260,7 +260,6 @@ msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
 "Błysk (Możesz zagrać ten czar w każdej chwili, gdy możesz zagrać Sztuczkę.)"
 
-#, fuzzy
 msgid ""
 "When Briarpack Alpha enters the battlefield, target creature gets +2/+2 "
 "until end of turn."
@@ -586,10 +585,9 @@ msgstr "|tap|: Dodaj |mana_g| to swojego zasobnika many."
 msgid "|tap|: Add |mana_1| to your mana pool."
 msgstr "|tap|: Dodaj |mana_1| do swojego zasobnika many."
 
-#, fuzzy
 msgid "|mana_4|, |tap|, Sacrifice Encroaching Wastes: Destroy target nonbasic land."
 msgstr ""
-"|mana_4|, |tap|, poświęć Wdzierające się Pustkowie: Zniszcz wskazany niepodstawowy "
+"|mana_4|, |tap|, poświęć Encroaching Wastes: Zniszcz wskazany niepodstawowy "
 "ląd."
 
 #: Enlarge
@@ -893,9 +891,8 @@ msgstr ""
 "0: Wskazany gracz kładzie dziesięć wierzchnich kart ze swojej biblioteki do "
 "swojego cmentarza."
 
-#, fuzzy
 msgid "-7: Any number of target players each draw twenty cards."
-msgstr "-7: Dowolna liczba wskazanych graczy dobiera dwadzieścia kart."
+msgstr "-7: Każdy z dowolnych wskazanych graczy dobiera dwadzieścia kart."
 
 msgid ""
 "When Jace's Mindseeker enters the battlefield, target opponent puts the top "
@@ -1473,7 +1470,6 @@ msgstr ""
 "stworami nie posiadającymi pierwszego ciosu.)"
 
 #: Strionic Resonator
-#, fuzzy
 msgid ""
 "|mana_2|, |tap|: Copy target triggered ability you control. You may choose new "
 "targets for the copy. (A triggered ability uses the words \"when,\" "
@@ -1665,9 +1661,9 @@ msgstr ""
 msgid "Defender (This creature can't attack)"
 msgstr "Obronność (Ten stwór nie może atakować)"
 
-#, fuzzy
 msgid "Creature spells with flying you cast cost |mana_1| less to cast."
-msgstr "Koszt rzucenia twoich czarów stworów z Lataniem jest zmniejszony o |mana_1|."
+msgstr ""
+"Koszt rzucenia twoich czarów stworów z lataniem jest zmniejszony o |mana_1|."
 
 #: Water Servant
 msgid "|mana_u|: Water Servant gets +1/-1 until end of turn."
