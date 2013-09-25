@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-20 08:03+0200\n"
+"PO-Revision-Date: 2013-09-23 14:43+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -15,9 +15,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"| | n%100>=20) ? 1 : 2);\n"
+"|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379660622.636015\n"
+"X-POOTLE-MTIME: 1379943790.787632\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -505,7 +505,7 @@ msgstr ""
 
 #: Izzet Cluestone
 msgid "|tap|: Add |mana_u| or |mana_r| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_u| lub |mana_r| do swojego zasobnika many."
 
 msgid "|mana_u| |mana_r|, |tap|, Sacrifice Izzet Cluestone: Draw a card."
 msgstr ""
@@ -759,7 +759,7 @@ msgstr ""
 
 #: Orzhov Cluestone
 msgid "|tap|: Add |mana_w| or |mana_b| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_w| lub |mana_b| do swojego zasobnika many."
 
 msgid "|mana_w| |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
 msgstr ""
@@ -870,7 +870,7 @@ msgstr ""
 
 #: Rakdos Cluestone
 msgid "|tap|: Add |mana_b| or |mana_r| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do swojego zasobnika many."
 
 msgid "|mana_b| |mana_r|, |tap|, Sacrifice Rakdos Cluestone: Draw a card."
 msgstr ""
@@ -1049,9 +1049,8 @@ msgstr ""
 "którego kontrolujesz.)"
 
 #: Selesnya Cluestone
-#, fuzzy
 msgid "|tap|: Add |mana_g| or |mana_w| to your mana pool."
-msgstr "|tap|: Dodaj |mana_g| lub |mana_w| do twojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_g| lub |mana_w| do swojego zasobnika many."
 
 msgid "|mana_g| |mana_w|, |tap|, Sacrifice Selesnya Cluestone: Draw a card."
 msgstr ""
@@ -1072,7 +1071,7 @@ msgstr ""
 
 #: Simic Cluestone
 msgid "|tap|: Add |mana_g| or |mana_u| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_g| lub |mana_u| do swojego zasobnika many."
 
 msgid "|mana_g| |mana_u|, |tap|, Sacrifice Simic Cluestone: Draw a card."
 msgstr ""

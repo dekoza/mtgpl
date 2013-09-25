@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-23 12:09\n"
-"PO-Revision-Date: 2013-09-23 12:19+0200\n"
+"POT-Creation-Date: 2013-09-02 03:12+0200\n"
+"PO-Revision-Date: 2013-09-23 14:28+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -14,8 +14,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
-"X-POOTLE-MTIME: 1379661300.357827\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1379942907.294922\n"
 
 # 13a5a223cf9d45d19a919b30f1fc001d
 #: ../../M14.rst:5
@@ -171,13 +171,13 @@ msgstr "+1: Połóż znacznik +1/+1 na najwyżej jednym wskazanym stworze."
 # 5c2bd7eb7bf840f38d6cee0f04f139aa
 #: ../../M14.rst:40
 msgid "-3: Target creature gains flying and double strike until end of turn."
-msgstr "-3: Wskazany stwór dostaje Latanie i Podwójny Cios do końca tury."
+msgstr "-3: Wskazany stwór dostaje do końca tury latanie oraz podwójny cios."
 
 # 0acf461f3a5d404da8460238f39c54fc
 #: ../../M14.rst:42
 msgid "-8: Put X 2/2 white Cat creature tokens onto the battlefield, where X is your life total."
 msgstr ""
-"-8: Połóż na polu walki X żetonów białych stworów Kot 2/2, gdzie X jest "
+"-8: Połóż na polu walki X żetonów białych stworów Cat 2/2, gdzie X jest "
 "liczbą twoich punktów życia."
 
 # f31cb2eea1bf4a66bef94b8d26daeebe
@@ -498,10 +498,9 @@ msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
 "Błysk (Możesz zagrać ten czar w każdej chwili, gdy możesz zagrać Sztuczkę.)"
 
-# daf321d4298e4eb5b12226e37e51ebeb
-#: ../../M14.rst:146
-#, fuzzy
-msgid "When Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn."
+msgid ""
+"When Briarpack Alpha enters the battlefield, target creature gets +2/+2 "
+"until end of turn."
 msgstr ""
 "Kiedy Briarpack Alpha wchodzi na pole walki, wskazany stwór dostaje +2/+2 do "
 "końca tury."
@@ -1080,13 +1079,10 @@ msgstr ""
 msgid "|tap|: Add |mana_1| to your mana pool."
 msgstr "|tap|: Dodaj |mana_1| do swojego zasobnika many."
 
-# 809b5b8246d9472384d9e55221303299
-#: ../../M14.rst:376
-#, fuzzy
 msgid "|mana_4|, |tap|, Sacrifice Encroaching Wastes: Destroy target nonbasic land."
 msgstr ""
-"|mana_4|, |tap|, poświęć Wdzierające się Pustkowie: Zniszcz wskazany "
-"niepodstawowy ląd."
+"|mana_4|, |tap|, poświęć Encroaching Wastes: Zniszcz wskazany niepodstawowy "
+"ląd."
 
 # 13fceab03dc14305b5c51dfa7a1040fc
 #: ../../M14.rst:381
@@ -1554,11 +1550,8 @@ msgstr ""
 "0: Wskazany gracz kładzie dziesięć wierzchnich kart ze swojej biblioteki do "
 "swojego cmentarza."
 
-# 34f1246401954c619cf11bd828036a05
-#: ../../M14.rst:550
-#, fuzzy
 msgid "-7: Any number of target players each draw twenty cards."
-msgstr "-7: Dowolna liczba wskazanych graczy dobiera dwadzieścia kart."
+msgstr "-7: Każdy z dowolnych wskazanych graczy dobiera dwadzieścia kart."
 
 # 6ac18220aa934ddeb9c161aaf6784a4b
 #: ../../M14.rst:557
@@ -2607,9 +2600,11 @@ msgstr ""
 "Slivery, którymi władasz, mają pierwszy cios. (Zadają obrażenia bojowe przed "
 "stworami nie posiadającymi pierwszego ciosu.)"
 
-# 741bbb61d7c043d8990b33db9ace8f3b
-#: ../../M14.rst:991
-msgid "Strionic Resonator"
+#: Strionic Resonator
+msgid ""
+"|mana_2|, |tap|: Copy target triggered ability you control. You may choose new "
+"targets for the copy. (A triggered ability uses the words \"when,\" "
+"\"whenever,\" or \"at.\")"
 msgstr ""
 
 # 46a9340925fd4562ac35e60feedea728
@@ -2913,17 +2908,9 @@ msgstr ""
 msgid "Warden of Evos Isle"
 msgstr ""
 
-# b7eec406d5da484c8d08c159d7e7528e
-#: ../../M14.rst:1108
-#, fuzzy
 msgid "Creature spells with flying you cast cost |mana_1| less to cast."
 msgstr ""
-"Koszt rzucenia twoich czarów stworów z Lataniem jest zmniejszony o |mana_1|."
-
-# 4e2e4911b96e4f56a6d1f0b71f4692f6
-#: ../../M14.rst:1115
-msgid "Water Servant"
-msgstr ""
+"Koszt rzucenia twoich czarów stworów z lataniem jest zmniejszony o |mana_1|."
 
 # bcb954dcf24642729059ca3147297d90
 #: ../../M14.rst:1112

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-20 08:11+0200\n"
+"PO-Revision-Date: 2013-09-23 14:43+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -15,9 +15,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"| | n%100>=20) ? 1 : 2);\n"
+"|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379661063.499919\n"
+"X-POOTLE-MTIME: 1379943824.759229\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -162,7 +162,7 @@ msgstr ""
 
 #: Biomass Mutation
 msgid "Creatures you control become X/X until end of turn."
-msgstr ""
+msgstr "Stwory, którymi władasz stają się X/X do końca tury."
 
 #: Bioshift
 msgid ""
@@ -179,6 +179,8 @@ msgstr ""
 msgid ""
 "Artifacts and creatures your opponents control enter the battlefield tapped."
 msgstr ""
+"Artefakty i stwory, którymi władają twoi przeciwnicy wchodzą na pole walki "
+"jako zużyte."
 
 #: Bomber Corps
 msgid ""
@@ -189,7 +191,7 @@ msgstr ""
 #: Borborygmos Enraged Crowned Ceratok Ghor-Clan Rampager Giant Adephage
 #: Skarrg Goliath
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 msgid ""
 "Whenever Borborygmos Enraged deals combat damage to a player, reveal the top "
@@ -204,7 +206,7 @@ msgstr ""
 
 #: Boros Charm
 msgid "Choose one — Boros Charm deals 4 damage to target player"
-msgstr ""
+msgstr "Wybierz jedno — Boros Charm zadaje wskazanemu graczowi 4 obrażenia"
 
 msgid " or permanents you control gain indestructible until end of turn"
 msgstr ""
@@ -226,7 +228,7 @@ msgstr ""
 
 #: Boros Keyrune
 msgid "|tap|: Add |mana_r| or |mana_w| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_r| lub |mana_w| do swojego zasobnika many."
 
 #, fuzzy
 msgid ""
@@ -249,7 +251,7 @@ msgstr ""
 
 #: Breeding Pool
 msgid "(|tap|: Add |mana_g| or |mana_u| to your mana pool.)"
-msgstr ""
+msgstr "(|tap|: Dodaj |mana_g| lub |mana_u| do swojego zasobnika many.)"
 
 msgid ""
 "As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, "
@@ -420,7 +422,7 @@ msgstr ""
 
 #: Dimir Keyrune
 msgid "|tap|: Add |mana_u| or |mana_b| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_u| lub |mana_b| do swojego zasobnika many."
 
 msgid ""
 "|mana_u| |mana_b|: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature "
@@ -648,7 +650,7 @@ msgstr ""
 
 #: Godless Shrine
 msgid "(|tap|: Add |mana_w| or |mana_b| to your mana pool.)"
-msgstr ""
+msgstr "(|tap|: Dodaj |mana_w| lub |mana_b| do swojego zasobnika many.)"
 
 msgid ""
 "As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, "
@@ -692,7 +694,7 @@ msgstr ""
 
 #: Gruul Keyrune
 msgid "|tap|: Add |mana_r| or |mana_g| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_r| lub |mana_g| do swojego zasobnika many."
 
 msgid ""
 "|mana_r| |mana_g|: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature "
@@ -1069,7 +1071,7 @@ msgstr ""
 
 #: Orzhov Keyrune
 msgid "|tap|: Add |mana_w| or |mana_b| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_w| lub |mana_b| do swojego zasobnika many."
 
 msgid ""
 "|mana_w| |mana_b|: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact "
@@ -1188,7 +1190,7 @@ msgstr ""
 
 #: Sacred Foundry
 msgid "(|tap|: Add |mana_r| or |mana_w| to your mana pool.)"
-msgstr ""
+msgstr "(|tap|: Dodaj |mana_r| lub |mana_w| do swojego zasobnika many.)"
 
 msgid ""
 "As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, "
@@ -1283,7 +1285,7 @@ msgstr ""
 
 #: Simic Keyrune
 msgid "|tap|: Add |mana_g| or |mana_u| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_g| lub |mana_u| do swojego zasobnika many."
 
 msgid ""
 "|mana_g| |mana_u|: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature "
@@ -1399,7 +1401,7 @@ msgstr ""
 
 #: Stomping Ground
 msgid "(|tap|: Add |mana_r| or |mana_g| to your mana pool.)"
-msgstr ""
+msgstr "(|tap|: Dodaj |mana_r| lub |mana_g| do swojego zasobnika many.)"
 
 msgid ""
 "As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, "
@@ -1439,7 +1441,7 @@ msgstr ""
 
 #: Thespian's Stage
 msgid "|tap|: Add |mana_1| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_1| do swojego zasobnika many."
 
 msgid ""
 "|mana_2|, |tap|: Thespian's Stage becomes a copy of target land and gains this "
@@ -1563,7 +1565,7 @@ msgstr ""
 
 #: Watery Grave
 msgid "(|tap|: Add |mana_u| or |mana_b| to your mana pool.)"
-msgstr ""
+msgstr "(|tap|: Dodaj |mana_u| lub |mana_b| do swojego zasobnika many.)"
 
 msgid ""
 "As Watery Grave enters the battlefield, you may pay 2 life. If you don't, "
