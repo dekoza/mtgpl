@@ -1298,5 +1298,3 @@ Xenagos, the Reveler
 
 Yoked Ox
     
-
-
