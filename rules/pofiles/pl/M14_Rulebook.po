@@ -1,14 +1,14 @@
-# Magic 2014 Core Set - Polish Translation
+# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# Dominik Kozaczko <dominik@kozaczko.info>, 2013.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 12:42\n"
-"PO-Revision-Date: 2013-09-10 18:07+0200\n"
+"PO-Revision-Date: 2013-09-27 12:09+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -16,9 +16,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"| | n%100>=20) ? 1 : 2);\n"
+"|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1378832860.600311\n"
+"X-POOTLE-MTIME: 1380280196.875506\n"
 
 # 45201559181642ae9fa2ac72272dafdd
 #: ../../M14_Rulebook.rst:6
@@ -105,11 +105,11 @@ msgstr ""
 
 # d799053ce63a4e7791e9a3c1f2e9f2c8
 #: ../../M14_Rulebook.rst:44
-msgid "Each color of mana fuels a different kind of powerful magic for you to command. For example, red spells have |mana_r| in their costs, and tapping (turning) a Mountain gives you |mana_r| that you can spend to cast spells. It's up to you whether to master one color or all five."
+msgid "Each color of mana fuels a different kind of powerful magic for you to command. For example, red spells have {R} in their costs, and tapping (turning) a Mountain gives you {R} that you can spend to cast spells. It's up to you whether to master one color or all five."
 msgstr ""
 "Każdy kolor many zasila inny rodzaj potężnej magii, którą możesz władać. "
-"Przykładowo czerwone czary mają |mana_r| w koszcie, a zużycie (obrócenie) Góry "
-"daje |mana_r|, które możesz użyć do rzucania czarów. Od ciebie zależy, czy "
+"Przykładowo czerwone czary mają {R} w koszcie, a zużycie (obrócenie) Góry "
+"daje {R}, które możesz użyć do rzucania czarów. Od ciebie zależy, czy "
 "opanujesz jeden kolor, czy wszystkie pięć."
 
 # 2e1d4b3d70c946739881178b034f133a
@@ -199,11 +199,11 @@ msgstr "Koszt many"
 
 # 2dd6ad9934964076b4095024a3edf7cb
 #: ../../M14_Rulebook.rst:89
-msgid "*Mana* is the main resource in the game. It's produced by lands, and you spend it to cast *spells*. The symbols in a card's upper right corner tell you the cost to cast that spell. If the mana cost reads |mana_4| |mana_r| |mana_r|, you pay four mana of any kinds plus two red mana (from two Mountains) to cast it."
+msgid "*Mana* is the main resource in the game. It's produced by lands, and you spend it to cast *spells*. The symbols in a card's upper right corner tell you the cost to cast that spell. If the mana cost reads {4}{R}{R}, you pay four mana of any kinds plus two red mana (from two Mountains) to cast it."
 msgstr ""
 "W grze głównym zasobem jest *mana*. Produkują ją lądy, a ty wydajesz ją, by "
 "rzucać *czary*. Symbole w górnym prawym roku karty pokazują koszt rzucenia "
-"czaru. Jeśli koszt many wynosi |mana_4| |mana_r| |mana_r|, to żeby rzucić czar, musisz "
+"czaru. Jeśli koszt many wynosi {4}{R}{R}, to żeby rzucić czar, musisz "
 "zapłacisz cztery many dowolnego rodzaju plus dwie czerwone many (z dwóch "
 "Gór)."
 
@@ -403,10 +403,10 @@ msgstr ""
 
 # 5b4810281def4731b09844cff5574646
 #: ../../M14_Rulebook.rst:190
-msgid "Unlike other types of permanents, creatures enter the battlefield with \"summoning sickness\": a creature can't attack, or use an ability that has |tap| in its cost, until it has started your turn on the battlefield under your control. You can block with a creature or activate its other abilities no matter how long it's been on the battlefield."
+msgid "Unlike other types of permanents, creatures enter the battlefield with \"summoning sickness\": a creature can't attack, or use an ability that has {T} in its cost, until it has started your turn on the battlefield under your control. You can block with a creature or activate its other abilities no matter how long it's been on the battlefield."
 msgstr ""
 "W przeciwieństwie do innych stałek, stwory wchodzą na pole walki z \"chorobą "
-"przyzwaniową\": stwór nie może atakować lub używać zdolności, która ma |tap|w "
+"przyzwaniową\": stwór nie może atakować lub używać zdolności, która ma {T}w "
 "koszcie dopóki nie rozpocznie tury na polu walki pod twoim władaniem. Możesz "
 "blokować lub używać innych zdolności niezależnie od tego, jak długo dany "
 "stwór jest na polu walki."
@@ -490,11 +490,11 @@ msgstr ""
 
 # 0286cb70f03a41ee8ff854f66e23c1c1
 #: ../../M14_Rulebook.rst:229
-msgid "Each basic land has a mana ability that makes one mana of a particular color. Plains make white mana (|mana_w|), Islands make blue mana (|mana_u|), Swamps make black mana (|mana_b|), Mountains make red mana (|mana_r|), and Forests make green mana (|mana_g|). Any land other than these five is a *nonbasic land*."
+msgid "Each basic land has a mana ability that makes one mana of a particular color. Plains make white mana ({W}), Islands make blue mana ({U}), Swamps make black mana ({B}), Mountains make red mana ({R}), and Forests make green mana ({G}). Any land other than these five is a *nonbasic land*."
 msgstr ""
 "Każdy ląd podstawowy posiada zdolność, która produkuje manę określonego "
-"koloru. Równiny dają białą manę (|mana_w|), Wyspy - niebieską (|mana_u|), Bagna - "
-"czarną (|mana_b|), Góry - czerwoną (|mana_r|), a Lasy - zieloną (|mana_g|). Każdy inny ląd "
+"koloru. Równiny dają białą manę ({W}), Wyspy - niebieską ({U}), Bagna - "
+"czarną ({B}), Góry - czerwoną ({R}), a Lasy - zieloną ({G}). Każdy inny ląd "
 "jest *lądem niepodstawowym.*"
 
 # 1ef51ef078be4c46bbe7eab9ea490406
@@ -621,13 +621,13 @@ msgstr "Stos"
 #: ../../M14_Rulebook.rst:277
 msgid "Spells and abilities exist on the stack. They wait there to *resolve* until both players choose not to cast any new spells or activate any new abilities. Then the last spell or ability that was put onto the stack resolves, and players get a chance to cast spells and activate abilities again. (You'll learn more about casting spells and activating abilities in the next section.) This zone is shared by both players."
 msgstr ""
-"Czary i zdolności funkcjonują na stosie. Czekają tam na *rozliczenie* dopóki "
-"obaj gracze nie zdecydują, że nie rzucają nowych czarów ani nie aktywują "
-"nowych zdolności. Następnie ostatni z czarów lub zdolności znajdujących się "
-"na stosie jest rozliczany i gracze mają okazję ponownie rzucać czary i "
-"aktywować zdolności. (Więcej na temat rzucania czarów i aktywowania "
-"zdolności dowiesz się w następnym rozdziale.) Ta strefa jest współdzielona "
-"przez obu graczy."
+"Czary i zdolności funkcjonują na stosie. Czekają tam na *rozpatrzenie* "
+"dopóki obaj gracze nie zdecydują, że nie rzucają nowych czarów ani nie "
+"aktywują nowych zdolności. Następnie ostatni z czarów lub zdolności "
+"znajdujących się na stosie jest rozpatrywany i gracze mają okazję ponownie "
+"rzucać czary i aktywować zdolności. (Więcej na temat rzucania czarów i "
+"aktywowania zdolności dowiesz się w następnym rozdziale.) Ta strefa jest "
+"współdzielona przez obu graczy."
 
 # 8f7be46fd2d149d899b1c031cb7819c3
 # 22c69dae895b49868cd20987aa5213ba
@@ -642,7 +642,7 @@ msgid "You start the game with nothing on the battlefield, but this is where the
 msgstr ""
 "Zaczynasz grę z pustym polem walki, ale to właśnie tu będzie się odbywać "
 "cała akcja. Podczas każdej z tur możesz zagrać z ręki ląd. Stwory, "
-"artefakty, uroki i wędrowcy także wchodzą na pole walki po ich rozliczeniu. "
+"artefakty, uroki i wędrowcy także wchodzą na pole walki po ich rozpatrzeniu. "
 "Możesz dowolnie rozmieszczać swoje stałki (zalecamy umieszczanie lądów "
 "bliżej siebie), ale twoi przeciwnicy muszą mieć możliwość zobaczenia ich "
 "wszystkich i określenia czy są *zużyte*. Ta strefa jest współdzielona przez "
@@ -660,7 +660,7 @@ msgstr "Cmentarz"
 msgid "Your graveyard is your discard pile. Your instant and sorcery spells go to your graveyard when they resolve. Your cards go to your graveyard if an effect causes them to be *discarded*, *destroyed*, *sacrificed*, or *countered*. Your planeswalkers go to your graveyard if they lose all their loyalty counters. Your creatures go to your graveyard if the damage they're dealt in a single turn is equal to or greater than their toughness, or if their toughness is reduced to 0 or less. Cards in your graveyard are always face up and anyone can look at them at any time. Each player has his or her own graveyard."
 msgstr ""
 "Twój cmentarz jest stosem kart odrzuconych. Trafiają tam twoje sztuczki i "
-"obrzędy po tym, jak zostaną rozliczone. Twoje karty trafiają do cmentarza, "
+"obrzędy po tym, jak zostaną rozpatrzone. Twoje karty trafiają do cmentarza, "
 "jeśli efekt powoduje ich *odrzucenie*, *zniszczenie*, *poświęcenie*, lub "
 "*skontrowanie*. Twoi wędrowcy trafiają na cmentarz po utracie wszystkich "
 "znaczników lojalności. Stwory trafiają na cmentarz, jeśli obrażenia "
@@ -718,19 +718,19 @@ msgstr "Wytwarzanie many"
 
 # effbca0cec4041bca9f2f3d7e20e78ca
 #: ../../M14_Rulebook.rst:335
-msgid "To do just about anything else in the game, you first need to be able to make mana. Think of mana as Magic money—it's what you use to pay most costs. Each mana is either one of the five **Magic** *colors* or is *colorless*. When a cost requires colored mana, you'll see colored mana symbols (|mana_w| for white, |mana_u| for blue, |mana_b| for black, |mana_r| for red, |mana_g| for green). When any kind of mana can be used to pay the cost, you'll see a symbol with a number in it (like |mana_2|)."
+msgid "To do just about anything else in the game, you first need to be able to make mana. Think of mana as Magic money—it's what you use to pay most costs. Each mana is either one of the five **Magic** *colors* or is *colorless*. When a cost requires colored mana, you'll see colored mana symbols ({W} for white, {U} for blue, {B} for black, {R} for red, {G} for green). When any kind of mana can be used to pay the cost, you'll see a symbol with a number in it (like {2})."
 msgstr ""
 "Aby zrobić cokolwiek w grze, najpierw potrzebujesz uzyskać manę. Pomyśl o "
 "niej jak o pieniądzach - używasz jej do opłacania większości kosztów. Każda "
 "mana jest albo w jednym z pięciu *kolorów*, albo jest *bezkolorowa*. Kiedy "
-"koszt trzeba opłacić kolorową maną, zobaczysz symbole many (|mana_w| dla białej, "
-"|mana_u| - niebieskiej, |mana_b| - czarnej, |mana_r| - czerwonej, |mana_g| - zielonej). Kiedy "
+"koszt trzeba opłacić kolorową maną, zobaczysz symbole many ({W} dla białej, "
+"{U} - niebieskiej, {B} - czarnej, {R} - czerwonej, {G} - zielonej). Kiedy "
 "dowolny rodzaj many może być użyty do opłacenia kosztu, zobaczysz symbol z "
-"liczbą w środku (np. |mana_2|)."
+"liczbą w środku (np. {2})."
 
 # 57fad8dc902e49f4874a70ba56976237
 #: ../../M14_Rulebook.rst:344
-msgid "Where does mana come from? Nearly every land in the game has an ability that produces mana. Basic lands just have a large mana symbol in their text boxes to show this—you can tap one of them to add one mana of that color to your *mana pool*. (Your mana pool is where mana is stored until you spend it.) Other lands, as well as some creatures, artifacts, and spells, may also make mana. They'll say something like \"Add |mana_g| to your mana pool.\""
+msgid "Where does mana come from? Nearly every land in the game has an ability that produces mana. Basic lands just have a large mana symbol in their text boxes to show this—you can tap one of them to add one mana of that color to your *mana pool*. (Your mana pool is where mana is stored until you spend it.) Other lands, as well as some creatures, artifacts, and spells, may also make mana. They'll say something like \"Add {G} to your mana pool.\""
 msgstr ""
 "Skąd pochodzi mana? Niemal każdy ląd w grze posiada zdolność, która "
 "produkuje manę. Na lądach podstawowych przedstawione jest to za pomocą "
@@ -738,7 +738,7 @@ msgstr ""
 "jedną manę tego koloru do swojego *zasobnika many*. (Zasobnik many jest "
 "miejscem, gdzie mana jest przechowywana, zanim ją zużyjesz.) Inne lądy oraz "
 "niektóre stwory, artefakty oraz czary także mogą produkować manę. Będą mieć "
-"napisane coś w rodzaju \"Dodaj |mana_g| do swojego zasobnika many\"."
+"napisane coś w rodzaju \"Dodaj {G} do swojego zasobnika many\"."
 
 # 8821ce4ddf624570b36b9ba9112b4cd8
 # 3638cc046792422c8314f8b37c0511e6
@@ -759,8 +759,8 @@ msgstr "Równina"
 
 # f5f3f0285da6465ea5487f7d83d1d706
 #: ../../M14_Rulebook.rst:356
-msgid "|mana_w| (white)"
-msgstr "|mana_w| (biały)"
+msgid "{W} (white)"
+msgstr "{W} (biały)"
 
 # e5cf1745c13d4075b64faeb4ed333acd
 #: ../../M14_Rulebook.rst:358
@@ -769,8 +769,8 @@ msgstr "Wyspa"
 
 # 4604a9623f5c419183b7966bad02798c
 #: ../../M14_Rulebook.rst:358
-msgid "|mana_u| (blue)"
-msgstr "|mana_u| (niebieski)"
+msgid "{U} (blue)"
+msgstr "{U} (niebieski)"
 
 # e117e0b965284ee2b01082c9539dc5ad
 #: ../../M14_Rulebook.rst:360
@@ -779,8 +779,8 @@ msgstr "Bagno"
 
 # 4f3bc0de9d1b44a2960d58f0a7613dc9
 #: ../../M14_Rulebook.rst:360
-msgid "|mana_b| (black)"
-msgstr "|mana_b| (czarny)"
+msgid "{B} (black)"
+msgstr "{B} (czarny)"
 
 # 9828c54f8653449ab42b49c8501477d6
 #: ../../M14_Rulebook.rst:362
@@ -789,8 +789,8 @@ msgstr "Góra"
 
 # 15a3c625f846437399885d11d4d4c0d9
 #: ../../M14_Rulebook.rst:362
-msgid "|mana_r| (red)"
-msgstr "|mana_r| (czerwony)"
+msgid "{R} (red)"
+msgstr "{R} (czerwony)"
 
 # c4406e470e344dd48ed1692593c5ff20
 #: ../../M14_Rulebook.rst:364
@@ -799,8 +799,8 @@ msgstr "Las"
 
 # bfffedf2d4ad410ebe6934e953375ba8
 #: ../../M14_Rulebook.rst:364
-msgid "|mana_g| (green)"
-msgstr "|mana_g| (zielony)"
+msgid "{G} (green)"
+msgstr "{G} (zielony)"
 
 # 5efc93adfb004185b822c9d4622680b8
 #: ../../M14_Rulebook.rst:367
@@ -818,11 +818,11 @@ msgstr "Zużywanie"
 
 # fcf8062a281f43b89c8e16d086528637
 #: ../../M14_Rulebook.rst:374
-msgid "To tap a card is to turn it sideways. You do this when you use a land to make mana, when you attack with a creature, or when you activate an ability that has the |tap| symbol as part of its cost (|tap| means \"tap this permanent\")."
+msgid "To tap a card is to turn it sideways. You do this when you use a land to make mana, when you attack with a creature, or when you activate an ability that has the {T} symbol as part of its cost ({T} means \"tap this permanent\")."
 msgstr ""
 "Aby zużyć kartę, należy ustawić ją bokiem. Robisz tak, kiedy używasz lądu do "
 "produkcji many, kiedy atakujesz stworem lub gdy aktywujesz zdolność, która "
-"ma |tap| w swoim koszcie (|tap| oznacza \"zużyj tę stałkę\")."
+"ma {T} w swoim koszcie ({T} oznacza \"zużyj tę stałkę\")."
 
 # d94cb79edfef46e2a950e396e074773a
 #: ../../M14_Rulebook.rst:378
@@ -869,14 +869,14 @@ msgstr ""
 
 # ae643b0dd8814130836bea61c5974e26
 #: ../../M14_Rulebook.rst:398
-msgid "There are a few choices that you need to make right now. If the spell is an instant or sorcery and says \"Choose one —,\" you choose which of the options you're using. If the spell is an instant or sorcery and it has a target, you choose what (or who) that target is. Aura spells also target the permanents they'll enchant. If the spell has |mana_x| in its cost, you choose what number X stands for. Other choices will be made later, when the spell resolves."
+msgid "There are a few choices that you need to make right now. If the spell is an instant or sorcery and says \"Choose one —,\" you choose which of the options you're using. If the spell is an instant or sorcery and it has a target, you choose what (or who) that target is. Aura spells also target the permanents they'll enchant. If the spell has {X} in its cost, you choose what number X stands for. Other choices will be made later, when the spell resolves."
 msgstr ""
 "W tej chwili musisz podjąć kilka decyzji. Jeśli czar jest sztuczką lub "
 "obrzędem i mówi \"Wybierz jedno -\", musisz zdecydować, której części będziesz "
 "używać. Jeśli czar jest sztuczką lub obrzędem i wymaga wskazania celu, "
 "wybierasz co (lub kogo) wskazuje. Czary Aur także wskazują stałki, które "
-"będą przez nie zauroczone. Jeśli czar ma |mana_x| w swoim koszcie, wybierasz "
-"wartość X. Pozostałe decyzje zostaną podjęte, gdy czar będzie rozliczany."
+"będą przez nie zauroczone. Jeśli czar ma {X} w swoim koszcie, wybierasz "
+"wartość X. Pozostałe decyzje zostaną podjęte, gdy czar będzie rozpatrywany."
 
 # a1500ca91ee74962ab32f1c61ec2752a
 #: ../../M14_Rulebook.rst:406
@@ -915,11 +915,12 @@ msgstr ""
 #: ../../M14_Rulebook.rst:424
 msgid "When the spell or ability resolves, it checks the targets to make sure they're still *legal* (they're still there, and they match the requirements stated by the spell or ability). If a target isn't legal, the spell or ability can't affect it. If none of the targets are legal, the spell or ability is countered and does nothing at all."
 msgstr ""
-"Kiedy czar lub zdolność jest rozliczana, sprawdza wskazywane cele, by się "
-"upewnić, że wciąż są *legalne* (nadal są na miejscu oraz spełniają wymagania "
-"ustalone przez czar lub zdolność). Jeśli wskazany cel nie jest legalny, "
-"czar lub zdolność nie może na niego wpływać. Jeśli każdy z celów jest "
-"nielegalny, czar lub zdolność zostaje skontrowana i w ogóle nic nie robi."
+"Kiedy czar lub zdolność jest rozpatrywany, sprawdza on wskazywane cele, by "
+"się upewnić, że wciąż są *legalne* (nadal są na miejscu oraz spełniają "
+"wymagania ustalone przez czar lub zdolność). Jeśli wskazany cel nie jest "
+"legalny, czar lub zdolność nie może na niego wpływać. Jeśli każdy z celów "
+"jest nielegalny, czar lub zdolność zostaje skontrowana i w ogóle nic nie "
+"robi."
 
 # 109963bcb6014c55b56061b5f9a4f32d
 #: ../../M14_Rulebook.rst:432
@@ -995,14 +996,14 @@ msgstr ""
 #: ../../M14_Rulebook.rst:473
 msgid "You and your opponent both decline to do anything else. Show of Valor resolves, making the Auramancer 4/6 until the end of the turn."
 msgstr ""
-"Ty i twój przeciwnik obaj pasujecie. W wyniku rozliczenia Pokazu Dzielności, "
-"Auromanta staje się 4/6 do końca tury."
+"Ty i twój przeciwnik obaj pasujecie. W wyniku rozpatrzenia Pokazu "
+"Dzielności, Auromanta staje się 4/6 do końca tury."
 
 # d2dc9d4eff41419bb549c375fa922e1d
 #: ../../M14_Rulebook.rst:477
 msgid "Then the Shock resolves, dealing 2 damage to the pumped-up Auramancer. That's not enough to destroy it."
 msgstr ""
-"Następnie Szok jest rozliczany zadając dwa obrażenia do podpakowanego "
+"Następnie Szok jest rozpatrywany zadając dwa obrażenia do podpakowanego "
 "Auromanty. To nie wystarcza, by go zniszczyć."
 
 # 3aca0d7ceebc4220b8633d680a50fc1f
@@ -1014,11 +1015,11 @@ msgstr "**Co by się stało, gdyby Pokaz Dzielności został rzucony najpierw?**
 #: ../../M14_Rulebook.rst:485
 msgid "The Shock goes on the stack on top of Show of Valor so it resolves first. It deals 2 damage to Auramancer—enough to destroy it! When the Show of Valor tries to resolve, its only target is no longer on the battlefield, so it's countered (it does nothing)."
 msgstr ""
-"Szok wchodzi na stos na wierzch Pokazu Dzielności, więc zostaje rozliczony "
+"Szok wchodzi na stos na wierzch Pokazu Dzielności, więc zostaje rozpatrzony "
 "jako pierwszy. Zadaje dwa obrażenia Auromancie - wystarczająco dużo, by go "
-"zniszczyć! Kiedy Pokaz Dzielności próbuje się rozliczyć, cel przez niego "
-"wskazywany nie znajduje się już na polu walki, więc zostaje skontrowany (nic "
-"nie robi)."
+"zniszczyć! Kiedy przychodzi kolej rozpatrzenia Pokazu Dzielności, cel przez "
+"niego wskazywany nie znajduje się już na polu walki, więc czar zostaje "
+"skontrowany (nic nie robi)."
 
 # ccfd5150a2704b4db935462cb1e77efe
 #: ../../M14_Rulebook.rst:495
@@ -1068,12 +1069,12 @@ msgstr ""
 #: ../../M14_Rulebook.rst:513
 msgid "Each triggered ability starts with the word \"when,\" \"whenever,\" or \"at.\" You don't activate a triggered ability. It automatically triggers whenever the first part of the ability happens. The ability goes on the stack just like a spell, and resolves just like a spell. If the ability triggers but then the permanent the ability came from leaves the battlefield, the ability will still resolve."
 msgstr ""
-"Każda z wyzwalanych zdolności zaczyna się od słów \"kiedy\", \"zawsze gdy\", \"na "
-"początku\" lub \"w trakcie\". Nie aktywujesz zdolności wyzwalanej. Jest ona "
+"Każda z wyzwalanych zdolności zaczyna się od słów \"kiedy\", \"zawsze gdy\", \"z "
+"początkiem\" lub \"w trakcie\". Nie aktywujesz zdolności wyzwalanej. Jest ona "
 "automatycznie wyzwalana zawsze gdy wydarzy się pierwsza część zdolności. "
-"Zdolność wchodzi na stos zupełnie jak czar i jest rozliczana jak czar. Jeśli "
-"zdolność zostanie wyzwolona, a następnie stałka, z której ona pochodzi "
-"opuści pole walki, zdolność i tak zostanie rozliczona."
+"Zdolność wchodzi na stos zupełnie jak czar i jest rozpatrywana jak czar. "
+"Jeśli zdolność zostanie wyzwolona, a następnie stałka, z której ona pochodzi "
+"opuści pole walki, zdolność i tak zostanie rozpatrzona."
 
 # dd58120110d942ccb1cb3b361be1677c
 #: ../../M14_Rulebook.rst:518
@@ -1092,156 +1093,237 @@ msgstr "Zdolności aktywowane"
 #: ../../M14_Rulebook.rst:525
 msgid "An activated ability is an ability that you can activate whenever you want, as long as you can pay the cost. For example, Blood Bairn is a creature with the ability \"Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn.\""
 msgstr ""
+"Zdolność aktywowana jest zdolnością, której możesz użyć zawsze gdy chcesz, o "
+"ile możesz opłacić koszt. Przykładowo Dziecię Krwi jest stworem ze "
+"zdolnością \"Poświęć innego stwora: Dziecię Krwi dostaje +2/+2 do końca "
+"tury.\""
 
 # c4d106c1495f45a8866815569ec7c20c
 #: ../../M14_Rulebook.rst:529
 msgid "Each activated ability has a cost, then a colon (\":\"), then an effect. Activating one works exactly like casting an instant spell, except there's no card to put on the stack. The ability goes on the stack just like a spell, and resolves just like a spell. If you activate an ability but then the permanent the ability came from leaves the battlefield, the ability will still resolve."
 msgstr ""
+"Każda aktywowana zdolność posiada koszt, następnie dwukropek (\":\") i później "
+"efekt. Aktywowanie działa tak, jak rzucanie sztuczki, tylko żadna karta nie "
+"idzie na stos. Zdolność wchodzi na stos tak jak czar i jest rozpatrywana "
+"jak czar. Jeśli aktywujesz zdolność, ale później stałka, z której zdolność "
+"pochodzi, opuści pole walki - zdolność i tak zostanie rozpatrzona."
 
 # fac28ffdb30d48a3b533946bdb100d00
 #: ../../M14_Rulebook.rst:534
-msgid "Some activated abilities contain the |tap| symbol in their costs. This means that you must tap the permanent to activate the ability. You can't activate the ability if the permanent is already tapped."
+msgid "Some activated abilities contain the {T} symbol in their costs. This means that you must tap the permanent to activate the ability. You can't activate the ability if the permanent is already tapped."
 msgstr ""
+"Niektóre zdolności zawierają w koszcie symbol {T}. Oznacza to, że do "
+"aktywacji zdolności musisz zużyć stałkę. Nie możesz aktywować zdolności "
+"jeśli stałka jest już zużyta."
 
 # 32dccad66bfd4f77ade52369bf4f905b
 #: ../../M14_Rulebook.rst:538
 msgid "Keywords"
-msgstr ""
+msgstr "Słowa kluczowe"
 
 # 86b3ccd436364b4584f0c5ba660a3842
 #: ../../M14_Rulebook.rst:539
 msgid "Some permanents have abilities that are shortened to a single word or phrase. Many of these have *reminder text* that gives you a brief description of the ability's effect. Keyword abilities in the core set include deathtouch, defender, enchant, equip, first strike, flash, flying, haste, hexproof, indestructible, landwalk (such as swampwalk or forestwalk), lifelink, protection, reach, trample, and vigilance. Most of these are static abilities, but keyword abilities can also be triggered abilities or activated abilities. Detailed explanations of each of these abilities can be found in the glossary at the end of this rulebook."
 msgstr ""
+"Niektóre stałki mają zdolności, które są skrócone do pojedynczego hasła lub "
+"frazy. Wiele z nich posiada *tekst przypominający* dający krótki opis efektu "
+"zdolności. Hasła zdolności w zestawie podstawowym zawierają: dotyk śmierci, "
+"obronność, zaurocz, ekwipuj, pierwszy cios, błysk, latanie, pośpiech, "
+"antyklątwa, niezniszczalność, zdobywca lądów (np. zdobywca bagien czy "
+"zdobywca lasów), więź życia, ochrona, zasięg, tratowanie i czujność. "
+"Większość z nich to zdolności statyczne, ale hasła mogą określać też "
+"zdolności wyzwalane lub aktywowane. Szczegółowe wyjaśnienia każdej z tych "
+"zdolności znajdują się w glosariuszu na końcu tego podręcznika."
 
 # c22e7a08cdc34c84b6d54f1799e98e27
 #: ../../M14_Rulebook.rst:549
 msgid "Attacking and Blocking"
-msgstr ""
+msgstr "Atakowanie i blokowanie"
 
 # 44a8f851432a44219b24e44b9b293367
 #: ../../M14_Rulebook.rst:551
 msgid "The primary way to win the game is to attack with your creatures. If a creature that's attacking your opponent isn't blocked, it deals damage equal to its power to him or her. It doesn't take that many hits to drop your opponent all the way from 20 life to 0!"
 msgstr ""
+"Głównym sposobem na wygraną jest atakowanie swoimi stworami. Jeśli stwór "
+"atakujący przeciwnika nie jest zablokowany, to zadaje mu tyle obrażeń, ile "
+"ma siły. Nie potrzeba wielu ciosów, by sprowadzić przeciwnika z 20 punktów "
+"życia do zera!"
 
 # c93ad4f48a3644d6af3966c86960c575
 #: ../../M14_Rulebook.rst:555
 msgid "The middle of each turn is the *combat phase*. (You'll learn about the :ref:`parts of the turn <sec-parts-of-turn` in a bit.) In your combat phase, you choose which of your creatures will attack, and you choose who or what they will attack. Each one can attack your opponent or one of your opponent's planeswalkers, but not any of his or her creatures. You tap the attacking creatures. They all attack at the same time, even if they're attacking different things. You can attack with a creature only if it's untapped, and only if it was on the battlefield under your control when the turn began."
 msgstr ""
+"Pośrodku każdej tury jest *faza walki*. (Wkrótce dowiesz się więcej na temat "
+":ref:`części tury <sec-parts-of-turn>`.) W swojej fazie walki wybierasz, "
+"którymi stworami chcesz zaatakować oraz kogo lub co będą one atakować. Każda "
+"może atakować jednego z przeciwników lub wędrowców, ale nie mogą atakować "
+"stworów. Zużywasz stwory, którymi atakujesz. Wszystkie atakują w tym samym "
+"momencie - nawet jeśli atakują różne cele. Możesz atakować wyłącznie "
+"stworem, który nie jest zużyty i tylko jeśli jest on na polu walki pod twoim "
+"władaniem od samego początku tury."
 
 # 11eba8e787b8487a9157098c587c720f
 #: ../../M14_Rulebook.rst:562
 msgid "Your opponent chooses which of his or her creatures will block. Tapped creatures can't be declared as blockers. For blocking, it doesn't matter how long the creature has been on the battlefield. Each creature can block only one attacker, but multiple blockers can gang up on a single attacking creature. If that happens, the attacking player orders the blockers to show which is first in line for damage, which is second, and so on. Creatures don't have to block."
 msgstr ""
+"Przeciwnik wybiera stwory, które będą blokować. Zużyte stwory nie mogą być "
+"zadeklarowane jako blokujący. Podczas blokowania czas przebywania stwora na "
+"polu walki nie ma znaczenia. Każdy stwór może blokować tylko jednego "
+"atakującego, ale wielu blokujących może równocześnie blokować jednego "
+"atakującego stwora. Gdy tak się stanie, atakujący gracz ustawia blokujących "
+"w kolejności, by określić który otrzyma obrażenia jako pierwszy, drugi itd. "
+"Nie ma obowiązku blokowania."
 
 # 04505e62c1594201bf800ed960b4f44f
 #: ../../M14_Rulebook.rst:567
 msgid "After all blockers are chosen, combat damage is assigned. Each creature—both attackers and blockers—deals damage equal to its power."
 msgstr ""
+"Gdy już wszyscy blokujący zostali wybrani, następuje zadawanie obrażeń. "
+"Wszystkie stwory - tak atakujące jak i blokujące - zadają obrażenia równe "
+"swojej sile."
 
 # d76eef5a99284144879658860afad572
 #: ../../M14_Rulebook.rst:570
 msgid "An attacking creature that isn't blocked deals damage to the player or planeswalker it's attacking."
 msgstr ""
+"Atakujący stwór, który nie jest blokowany, zadaje obrażenia atakowanemu "
+"przez niego graczowi lub wędrowcowi."
 
 # 86d3242e4ec948c9aa24659cbea16ad9
 #: ../../M14_Rulebook.rst:573
 msgid "An attacking creature that is blocked deals damage to the blocking creatures. If one of your attacking creatures is blocked by multiple creatures, you decide how to divide its combat damage among them. You must assign at least enough damage to the first blocking creature in line to destroy it before you can assign damage to the next one in line, and so on."
 msgstr ""
+"Stwór, który został zablokowany zadaje obrażenia blokującym go stworom. "
+"Jeśli jeden z twoich atakujących jest blokowany przez kilka stworów, to ty "
+"decydujesz jak rozdzielić między nimi obrażenia. Musisz przypisać obrażenia "
+"wystarczające do zniszczenia pierwszemego z blokujących zanim będziesz mógł "
+"przypisać obrażenia do następnego w kolejce i tak dalej."
 
 # 6016032419b7471bb54d048e8d18a35f
 #: ../../M14_Rulebook.rst:580
 msgid "A blocking creature deals damage to the attacker it's blocking."
-msgstr ""
+msgstr "Blokujący stwór zadaje obrażenia stworowi, którego blokuje."
 
 # 9f24398467574435b492d89cde22239f
 #: ../../M14_Rulebook.rst:583
 msgid "If damage is dealt to your opponent, he or she loses that much life!"
 msgstr ""
+"Jeśli obrażenia zostają zadane przeciwnikowi, traci on tyle punktów życia!"
 
 # 61aebf1c83a9470a9dd5679b738b130d
 #: ../../M14_Rulebook.rst:585
 msgid "If damage is dealt to your opponent's planeswalker, that many loyalty counters are removed from it."
 msgstr ""
+"Jeśli obrażenia są zadane wędrowcowi twojego przeciwnika, usuwa się z niego "
+"tyle samo znaczników lojalności."
 
 # 565a051d94e24409bd2021c84e2a1820
 #: ../../M14_Rulebook.rst:587
 msgid "If a creature is dealt damage equal to or greater than its toughness over the course of a single turn, that creature is destroyed and goes to its owner's graveyard. If a creature takes damage that isn't lethal, that creature stays on the battlefield, but the damage doesn't wear off until the turn ends."
 msgstr ""
+"Jeśli stwór w trakcie całej tury otrzyma obrażenia równe lub większe swojej "
+"wytrzymałości, zostaje zniszczony i trafia do cmentarza swojego właściciela. "
+"Jeśli stwór otrzyma obrażenia, które nie są śmiertelna, zostaje na polu "
+"walki, ale obrażenia pozostają na nim do końca tury."
 
 # 950889884c4240769777b807dc61243d
 #: ../../M14_Rulebook.rst:591
 msgid "Turn the page to see an example of combat."
-msgstr ""
+msgstr "Na następnej stronie znajduje się przykładowa walka."
 
 # 033adce10ff448878d3d507f117eaedb
 #: ../../M14_Rulebook.rst:594
 msgid "Example of combat"
-msgstr ""
+msgstr "Przykład walki"
 
 # 4effc46441644658b357457219c0f16c
 #: ../../M14_Rulebook.rst:597
 msgid "Declare Attackers"
-msgstr ""
+msgstr "Deklaracja atakujących"
 
 # a757f11cd5f2456697de3d170d157a25
 #: ../../M14_Rulebook.rst:598
 msgid "The attacking player attacks with his three biggest creatures and taps them. He doesn't attack with the smallest because it's too easy to destroy, and it might be useful for blocking on the opponent's next turn."
 msgstr ""
+"Atakujący gracz wyznacza do ataku swoje trzy największe stwory i zużywa je. "
+"Nie atakuje najmniejszymi, bo zbyt łatwo je zniszczyć, a mogą się przydać do "
+"blokowania w turze przeciwnika."
 
 # 454cd3f99a2e4dd7ac364fed17dc8248
 #: ../../M14_Rulebook.rst:604
 msgid "Assign Blockers"
-msgstr ""
+msgstr "Przypisanie blokujących"
 
 # b69aa6038fc54744b3dcd1df997a24ef
 #: ../../M14_Rulebook.rst:605
 msgid "The defending player assigns blockers to two of the attackers and lets the third attacker through. Blocking choices are up to the defender."
 msgstr ""
+"Broniący się gracz przypisuje blokujących do dwóch atakujących i przepuszcza "
+"trzeciego. Wybór blokujących należy do broniącego się gracza."
 
 # e51ab013ff4841369eb12ab5cb10ce22
 #: ../../M14_Rulebook.rst:610
 msgid "Combat Damage"
-msgstr ""
+msgstr "Obrażenia"
 
 # edbaf5ce405c4fe89e2e6fa3276d7957
 #: ../../M14_Rulebook.rst:611
 msgid "The unblocked attacker deals 3 damage to the defending player. The blocked attackers and the blockers deal damage to each other. The smaller creatures die and the bigger creatures live."
 msgstr ""
+"Nieblokowany atakujący zadaje 3 obrażenia broniącemu się graczowi. "
+"Zablokowani atakujący oraz blokujący zadają sobie nawzajem obrażenia. "
+"Mniejsze stwory umierają, większe przeżywają."
 
 # 52d16e43d311450087a5c93768cc3d76
 #: ../../M14_Rulebook.rst:619
 msgid "Building Your Own Deck"
-msgstr ""
+msgstr "Zbuduj własną talię"
 
 # f7d9a60939a44f61a8018c14ab4313bb
 #: ../../M14_Rulebook.rst:621
 msgid "You play a Magic game with your own customized deck. You build it yourself using whichever Magic cards you want. There are two rules: your deck must have at least 60 cards, and your deck can't have more than four copies of any single card (except for basic lands). The rest is up to you, but here are some guidelines:"
 msgstr ""
+"W Magic gra się talią, którą składasz z wybranych przez siebie kart do "
+"Magic. Są tylko dwie zasady: twoja talia musi mieć co najmniej 60 kart oraz "
+"nie może zawierać więcej niż czterech kopii którejkolwiek z kart (z "
+"wyjątkiem podstawowych lądów). Reszta należy do ciebie. Poniżej znajdziesz "
+"garść porad:"
 
 # fd9b13fca36e4f1b9fc3f8fabd41b87d
 #: ../../M14_Rulebook.rst:625
 msgid "Lands. A good rule of thumb is that 40% of your deck should be lands. A 60-card deck usually has about 24 lands."
 msgstr ""
+"Lądy. Ogólnie przyjętą zasadą jest, że 40% twojej talii powinny stanowić "
+"lądy. Talia złożona z 60 kart powinna mieć około 24 lądów."
 
 # 50f449fad7124d33b503337a9c047d3d
 #: ../../M14_Rulebook.rst:627
 msgid "Creatures. Creatures account for 15 to 25 cards in a typical 60-card deck. Choose creatures that have a variety of mana costs."
 msgstr ""
+"Stwory. Zazwyczaj stwory stanowią od 15 do 25 kart typowej 60-o kartowej "
+"talii. Wybierz stwory o zróżnicowanym koszcie many."
 
 # 840f2e80559341b498fbd24327f33a1a
 #: ../../M14_Rulebook.rst:629
 msgid "Low-cost creatures are potent early on, but high-cost creatures can quickly win a game once they enter the battlefield."
 msgstr ""
+"Stwory o niskim koszcie są ważne na początku, a te drogie mogą szybko "
+"zakończyć grę, kiedy już wejdą na pole walki."
 
 # 9592e8d8a2e846288e7a3799b6f37310
 #: ../../M14_Rulebook.rst:631
 msgid "Other cards. Artifacts, enchantments, planeswalkers, instants, and sorceries round out your deck."
 msgstr ""
+"Inne karty. Talię dopełniają artefakty, uroki, wędrowcy, sztuczki i obrzędy."
 
 # ddaeac0833ec47ab848c0254947c08a2
 #: ../../M14_Rulebook.rst:633
 msgid "After you play with your new deck for a while, you can start to customize it. Take out cards you don't feel are working well and add new cards you want to try. The best part about trading card games is being able to play with whatever cards you want, so start experimenting!"
 msgstr ""
+"Kiedy już trochę pograsz swoją talią, możesz zacząć ją ulepszać. Wyjmij "
+"karty, które nie działają zbyt dobrze i dodaj karty, które chcesz sprawdzić. "
+"Najlepsza w kolekcjonerskich grach karcianych jest możliwość grania "
+"dowolnymi kartami, więc zacznij kombinować!"
 
 # 134ca1572ce44a86a8fd56d76a2de633
 #: ../../M14_Rulebook.rst:636
@@ -1251,12 +1333,19 @@ msgstr ""
 # f17d294876254c02b70a4f48abd32e2f
 #: ../../M14_Rulebook.rst:645
 msgid "The Golden Rule"
-msgstr ""
+msgstr "Złota Zasada"
 
 # 7ff4a84e82fa43faa6d7f5284ca99cdc
 #: ../../M14_Rulebook.rst:647
 msgid "When a Magic card contradicts the rulebook, the card wins. For example, the rules say creatures enter the battlefield untapped. But Imposing Sovereign is a creature that says \"Creatures your opponents control enter the battlefield tapped.\" Imposing Sovereign changes the rules as long as it's on the battlefield. One of the things that makes the Magic game fun to play is that there are individual cards that let you break almost every rule."
 msgstr ""
+"Kiedy treść karty stoi w sprzeczności z podręcznikiem, karta wygrywa. "
+"Przykładowo zasady mówią, że stwory wchodzą na pole walki odświeżone. "
+"Jednakże Imposing Sovereign jest stworem, który mówi \"Stwory twoich "
+"przeciwników wchodzą na pole walki jako zużyte.\" Imposing Sovereign zmienia "
+"zasady tak długo, jak jest na polu walki. Istnieją karty, które pozwalają "
+"złamać niemal każdą zasadę i jest to jedna z tych rzeczy, które sprawiają, "
+"że gra w Magic jest tak emocjonująca."
 
 # d8ee3dee95cd45e19e9593de0934728b
 #: ../../M14_Rulebook.rst:657
@@ -1271,12 +1360,15 @@ msgstr ""
 # aab169941ced4686add698d02d9ba396
 #: ../../M14_Rulebook.rst:665
 msgid "Get a Deck"
-msgstr ""
+msgstr "Zdobądź talię"
 
 # 2a8ddfb1ab1f483e8c42597732cb6963
 #: ../../M14_Rulebook.rst:667
 msgid "You'll need your own Magic deck. You'll also need a way to keep track of both players' life totals, as well as small items to use as counters or tokens."
 msgstr ""
+"Będziesz potrzebować własnej talii do Magic, jakiegoś sposobu na zapisywanie "
+"punktów życia obu graczy oraz kilku małych przedmiotów jako znaczniki i "
+"żetony."
 
 # baead90079a64a2cb42195dbbf677864
 #: ../../M14_Rulebook.rst:670
@@ -1292,16 +1384,22 @@ msgstr ""
 #: ../../M14_Rulebook.rst:678
 msgid "To play a game, you'll need an opponent! Your opponent will play against you using his or her own deck."
 msgstr ""
+"Aby grać, potrzebujesz przeciwnika! Będzie on grać przeciwko tobie używając "
+"własnej talii."
 
 # fb0129b7863b4536b010e2e17b20d5fc
 #: ../../M14_Rulebook.rst:682
 msgid "Start the Game"
-msgstr ""
+msgstr "Rozpocznij grę"
 
 # a7ec69d1cb074ebf98f59d1e5e67405e
 #: ../../M14_Rulebook.rst:684
 msgid "Each player starts at 20 life. You win the game by reducing your opponent to 0 life. You also win if your opponent has to draw a card when none are left in his or her deck, or if a spell or ability says that you win."
 msgstr ""
+"Każdy gracz rozpoczyna z 20 punktami życia. Wygrywasz jeśli sprowadzisz "
+"życie przeciwnika do 0. Wygrywasz też jeśli przeciwnik będzie musiał dobrać "
+"kartę, a nie będzie miał już kart w bibliotece lub też jeśli czar lub "
+"zdolność powie, że wygrywasz."
 
 # d51ef4369a5641f88c1a6dd2cea67247
 #: ../../M14_Rulebook.rst:688
@@ -1330,7 +1428,7 @@ msgstr ""
 "trafiają na stos. *Aktywny gracz* (ten, którego tura właśnie przebiega) może "
 "rzucać czary i aktywować zdolności, następnie robi to drugi gracz. Kiedy "
 "obaj gracze pod rząd zrezygnują z podjęcia akcji i nic nie czeka na "
-"rozliczenie, gra przechodzi do kolejnego kroku lub fazy."
+"rozpatrzenie, gra przechodzi do kolejnego kroku lub fazy."
 
 # 4b24fc8eeae0485ead2fc15049dd65ae
 #: ../../M14_Rulebook.rst:706
@@ -1658,72 +1756,72 @@ msgstr "Rozdział 5: Glosariusz"
 
 # 8da397cf65f241f8b9983da139b5a382
 #: ../../M14_Rulebook.rst:910
-msgid "|mana_1|, |mana_2|, |mana_3|, and so on, |mana_x|"
-msgstr "|mana_1|, |mana_2|, |mana_3| itd., |mana_x|"
+msgid "{1}, {2}, {3}, and so on, {X}"
+msgstr "{1}, {2}, {3} itd., {X}"
 
 # f89c8eb491ba4c60b95859ed72d2b135
 #: ../../M14_Rulebook.rst:901
-msgid "One of these generic mana symbols in a cost means \"this many of any type of mana.\" For example, |mana_2| in a cost means you can pay two mana of any type, such as |mana_r| and |mana_g|, or |mana_u| and |mana_u|, or |mana_r| and one colorless mana, and so on. (If oX is in a cost, you get to choose what number the X stands for.)"
+msgid "One of these generic mana symbols in a cost means \"this many of any type of mana.\" For example, {2} in a cost means you can pay two mana of any type, such as {R} and {G}, or {U} and {U}, or {R} and one colorless mana, and so on. (If oX is in a cost, you get to choose what number the X stands for.)"
 msgstr ""
 
 # 212f4cbf65254d788e456a03703fb35f
 #: ../../M14_Rulebook.rst:907
-msgid "These symbols are also found in some abilities that produce mana, like \"Add |mana_1| to your mana pool.\" In this context, |mana_1| means \"one colorless mana.\" You can't use colorless mana to pay for colored mana costs."
+msgid "These symbols are also found in some abilities that produce mana, like \"Add {1} to your mana pool.\" In this context, {1} means \"one colorless mana.\" You can't use colorless mana to pay for colored mana costs."
 msgstr ""
 
 # b5bd8f84d65d4c6eaa88fc4970501846
 #: ../../M14_Rulebook.rst:913
-msgid "|mana_w| (white mana)"
-msgstr "|mana_w| (biała mana}"
+msgid "{W} (white mana)"
+msgstr "{W} (biała mana}"
 
 # fb5e0b92c94b4e928931f893caf68a43
 #: ../../M14_Rulebook.rst:913
-msgid "One white mana. Tapping a Plains makes |mana_w|. A card with |mana_w| in its mana cost is white."
+msgid "One white mana. Tapping a Plains makes {W}. A card with {W} in its mana cost is white."
 msgstr ""
 
 # 86c53077bd8644e8be8d5fabc2227fc4
 #: ../../M14_Rulebook.rst:916
-msgid "|mana_u| (blue mana)"
+msgid "{U} (blue mana)"
 msgstr ""
 
 # e64bf512fa9e42b2b101d0ca518a0fe4
 #: ../../M14_Rulebook.rst:916
-msgid "One blue mana. Tapping an Island makes |mana_u|. A card with |mana_u| in its mana cost is blue."
+msgid "One blue mana. Tapping an Island makes {U}. A card with {U} in its mana cost is blue."
 msgstr ""
 
 # 795e00204d9e4565a5b9976d5d54af97
 #: ../../M14_Rulebook.rst:919
-msgid "|mana_b| (black mana)"
+msgid "{B} (black mana)"
 msgstr ""
 
 # ff541db27c394a71a0b970bbd0d8fc5c
 #: ../../M14_Rulebook.rst:919
-msgid "One black mana. Tapping a Swamp makes |mana_b|. A card with |mana_b| in its mana cost is black."
+msgid "One black mana. Tapping a Swamp makes {B}. A card with {B} in its mana cost is black."
 msgstr ""
 
 # 8caee66bb08a4ac88635064167600b3c
 #: ../../M14_Rulebook.rst:922
-msgid "|mana_r| (red mana)"
+msgid "{R} (red mana)"
 msgstr ""
 
 # c69862d1d1064620a9f03ce90720aca6
 #: ../../M14_Rulebook.rst:922
-msgid "One red mana. Tapping a Mountain makes |mana_r|. A card with |mana_r| in its mana cost is red."
+msgid "One red mana. Tapping a Mountain makes {R}. A card with {R} in its mana cost is red."
 msgstr ""
 
 # f41f85314504473291ca9c40a67ed01f
 #: ../../M14_Rulebook.rst:925
-msgid "|mana_g| (green mana)"
+msgid "{G} (green mana)"
 msgstr ""
 
 # 357cfe2d99dd47bb82804b0302e66a36
 #: ../../M14_Rulebook.rst:925
-msgid "One green mana. Tapping a Forest makes |mana_g|. A card with |mana_g| in its mana cost is green."
+msgid "One green mana. Tapping a Forest makes {G}. A card with {G} in its mana cost is green."
 msgstr ""
 
 # 35fbd5475fe84d5480032580df6afc7d
 #: ../../M14_Rulebook.rst:933
-msgid "|tap| (tap)"
+msgid "{T} (tap)"
 msgstr ""
 
 # e492d8e2e7e24d8b9d9a38d171ca218c
@@ -1733,7 +1831,7 @@ msgstr ""
 
 # fe4a69ed52e348f98e13720b5b055b55
 #: ../../M14_Rulebook.rst:942
-msgid "|mana_wu|, |mana_bg|, and so on"
+msgid "{w/u}, {b/g}, and so on"
 msgstr ""
 
 # 0f0d1f768d7840e9a4376f771999578f
@@ -1858,7 +1956,7 @@ msgstr ""
 
 # 3e34397e71a548c5b9d9dc7fcbb4cb72
 #: ../../M14_Rulebook.rst:1048
-msgid "There are five basic lands. Plains make |mana_w| (white mana). Islands make |mana_u| (blue mana). Swamps make |mana_b| (black mana). Mountains make |mana_r| (red mana). Forests make |mana_g| (green mana). They each say \"basic\" on their type line (basic is a supertype). Lands other than these five are called nonbasic lands."
+msgid "There are five basic lands. Plains make {W} (white mana). Islands make {U} (blue mana). Swamps make {B} (black mana). Mountains make {R} (red mana). Forests make {G} (green mana). They each say \"basic\" on their type line (basic is a supertype). Lands other than these five are called nonbasic lands."
 msgstr ""
 
 # 40cea0ff0ccc4fe8820240711dc829bc
@@ -1868,7 +1966,7 @@ msgstr ""
 
 # 8441930129bd4bd79e7d0189896db0ff
 #: ../../M14_Rulebook.rst:1059
-msgid "Each basic land has a subtype, which appears after \"Basic Land —\" on its type line. These are the \"basic land types,\" which are the same five words as the basic land names. Some nonbasic lands also have basic land types. Any land with a basic land type has an activated ability that makes one mana of the appropriate color, even if it doesn't say so in the text box. For example, every Forest has the ability \"|tap|: Add |mana_g| to your mana pool.\""
+msgid "Each basic land has a subtype, which appears after \"Basic Land —\" on its type line. These are the \"basic land types,\" which are the same five words as the basic land names. Some nonbasic lands also have basic land types. Any land with a basic land type has an activated ability that makes one mana of the appropriate color, even if it doesn't say so in the text box. For example, every Forest has the ability \"{T}: Add {G} to your mana pool.\""
 msgstr ""
 
 # 2626b58aa084492fa7fd717083e46c8b
@@ -2122,6 +2220,12 @@ msgstr ""
 #: ../../M14_Rulebook.rst:1223
 msgid "A cost is something you have to pay to take another action. You must pay a cost to cast a spell or activate an activated ability. Sometimes a spell or ability will also ask you to pay a cost when it resolves. You can't pay a cost unless you can pay all of it. For example, if an activated ability's cost (the part before the \":\") tells you to discard a card and you have no cards in your hand, you can't even try to pay it."
 msgstr ""
+"Koszt jest czymś, co musisz opłacić, by wykonać kolejną akcję. Musisz "
+"opłacić koszt rzucając czar lub aktywując zdolność aktywowaną. Czasem czar "
+"lub zdolność będzie prosić o zapłacenie kosztu podczas rozpatrywania. Nie "
+"możesz opłacić częściowego kosztu. Przykładowo jeśli koszt zdolności "
+"aktywowanej (część przed \":\") mówi, że musisz odrzucić kartę, a nie masz "
+"karty w ręce, nie możesz nawet próbować go opłacić."
 
 # 2382c2a39b964c0fb62dcc583ceab8b3
 #: ../../M14_Rulebook.rst:1234
@@ -2132,6 +2236,10 @@ msgstr ""
 #: ../../M14_Rulebook.rst:1231
 msgid "To cancel out a spell or ability so it has no effect. If a spell is countered, it's removed from the stack and put into its owner's graveyard. Once a spell or ability starts to resolve, it's too late to counter it. Lands aren't spells, so they can't be countered."
 msgstr ""
+"Anulować czar lub zdolność tak, by nie miała efektu. Jeśli czar zostaje "
+"skontrowany, jest usuwany ze stosu i umieszczany w cmentarzu swojego "
+"właściciela. Kiedy czar lub zdolność zaczynają być rozpatrywane, jest za "
+"późno na kontrę. Lądy nie są czarami, więc nie mogą zostać skontrowane."
 
 # d39bde52198e4c38b50a4e95be10b91b
 #: ../../M14_Rulebook.rst:1241
@@ -2208,12 +2316,12 @@ msgstr ""
 # 6fa42dca14a34fe3abdcb84534680e4f
 #: ../../M14_Rulebook.rst:1294
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 # ac6e8f3ced584fb4b96afdd5a442947d
 #: ../../M14_Rulebook.rst:1293
 msgid "A keyword ability seen on creatures. Creatures with defender can't attack."
-msgstr ""
+msgstr "Hasło zdolności stwora. Stwory z obronnością nie mogą atakować."
 
 # c1770f9921e142439f5158d6716d5ccd
 #: ../../M14_Rulebook.rst:1298
@@ -2304,6 +2412,9 @@ msgstr ""
 #: ../../M14_Rulebook.rst:1359
 msgid "What a spell or ability does when it resolves. There are several types of effects: one-shot effects, continuous effects, prevention effects, and replacement effects. You can look up each one in this glossary."
 msgstr ""
+"To, co robi czar lub zdolność kiedy jest rozpatrywany. Jest kilka rodzajów "
+"efektów: jednorazowe, ciągłe, zażegnujące i podstawiające. Możesz sprawdzić "
+"każdy z nich w glosariuszu."
 
 # a88d07a1c6af4d229e19c0b3cbc86dbd
 #: ../../M14_Rulebook.rst:1367
@@ -2684,7 +2795,7 @@ msgstr ""
 
 # 6aeb6cbd27f5428885cd6b3a695f3f86
 #: ../../M14_Rulebook.rst:1596
-msgid "Most mana comes from tapping lands. There are five colors of mana: |mana_w| (white), |mana_u| (blue), |mana_b| (black), |mana_r| (red), and |mana_g| (green). There's also colorless mana."
+msgid "Most mana comes from tapping lands. There are five colors of mana: {W} (white), {U} (blue), {B} (black), {R} (red), and {G} (green). There's also colorless mana."
 msgstr ""
 
 # ea02e16749f04ee7ae599b9ecb2b5782
@@ -2759,7 +2870,7 @@ msgstr ""
 
 # 489f42fd5b414a0496b7f9103d6950b1
 #: ../../M14_Rulebook.rst:1639
-msgid "A card with more than one color of mana in its mana cost. For example, a card with the mana cost |mana_2| |mana_b| |mana_r| is both black and red. Most multicolored cards have a gold background."
+msgid "A card with more than one color of mana in its mana cost. For example, a card with the mana cost {2}{B}{R} is both black and red. Most multicolored cards have a gold background."
 msgstr ""
 
 # 5b3a75ce22124f708e6369949e5fc584
@@ -3449,7 +3560,7 @@ msgstr ""
 
 # 56843926644f4ab9a0a3b1737f7b7251
 #: ../../M14_Rulebook.rst:2085
-msgid "When you see X in a mana cost or an activation cost, you get to choose the number that X stands for. For example, Volcanic Geyser is an instant spell that costs |mana_x| |mana_r| |mana_r| and deals X damage. When you cast Volcanic Geyser, you choose what number X is. If you pick three, for example, Volcanic Geyser costs |mana_3| |mana_r| |mana_r| and deals 3 damage. If you pick six, Volcanic Geyser costs |mana_6| |mana_r| |mana_r| and deals 6 damage."
+msgid "When you see X in a mana cost or an activation cost, you get to choose the number that X stands for. For example, Volcanic Geyser is an instant spell that costs {X}{R}{R} and deals X damage. When you cast Volcanic Geyser, you choose what number X is. If you pick three, for example, Volcanic Geyser costs {3}{R}{R} and deals 3 damage. If you pick six, Volcanic Geyser costs {6}{R}{R} and deals 6 damage."
 msgstr ""
 
 # c0a674b7a643450db05a1fea8096b7ea
