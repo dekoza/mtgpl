@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-27 07:07+0200\n"
+"PO-Revision-Date: 2013-09-27 11:57+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380262079.973248\n"
+"X-POOTLE-MTIME: 1380279463.824011\n"
 
 # 13a5a223cf9d45d19a919b30f1fc001d
 #: ../../M14.rst:5
@@ -86,7 +86,7 @@ msgstr ""
 # f6322a71f52e4b8bbe8960e9e28d4a41
 #: ../../M14.rst:29
 msgid "Advocate of the Beast"
-msgstr ""
+msgstr "Advocate of the Beast (Poskromiciel Bestii)"
 
 # 18ed7b92d36c4a5999df98cac230b009
 #: ../../M14.rst:28
@@ -161,7 +161,7 @@ msgstr "|mana_2| |mana_u|: Zużyj wskazanego stwora z Lataniem."
 # a232f3c677b442819113303a629f488a
 #: ../../M14.rst:43
 msgid "Ajani, Caller of the Pride"
-msgstr ""
+msgstr "Ajani, Caller of the Pride (Ajani Dumochwalny)"
 
 # ee71cf9cfd0349d786c2a102a8c3ee03
 #: ../../M14.rst:38
@@ -215,7 +215,7 @@ msgstr "Dobierz dwie karty."
 # ecf8b4eaf8df4c858e30e46bd736bf4d
 #: ../../M14.rst:57
 msgid "Angelic Accord"
-msgstr ""
+msgstr "Angelic Accord (Anielskie Przyzwolenie)"
 
 # 0584d55dd6384fdab0ed302a6b8337fd
 #: ../../M14.rst:56
@@ -333,7 +333,7 @@ msgstr ""
 # 36cbe76eb5e64bd0ad388b042badd329
 #: ../../M14.rst:99
 msgid "Banisher Priest"
-msgstr ""
+msgstr "Banisher Priest (Kapłan Banicji)"
 
 # 403b43144a9f4f9faa35d71c512031c4
 #: ../../M14.rst:98
@@ -346,7 +346,7 @@ msgstr ""
 # d1ea3eb3d9684f51a50b38b303bfec75
 #: ../../M14.rst:103
 msgid "Barrage of Expendables"
-msgstr ""
+msgstr "Barrage of Expendables (Kanonada Straceńców)"
 
 # 3290a181446e46b587310e447400a16f
 #: ../../M14.rst:102
@@ -368,7 +368,7 @@ msgstr "Slivery, którymi władasz dostają +2/+0."
 # fedceaa4213e46c588d1e214636b5c12
 #: ../../M14.rst:113
 msgid "Blessing"
-msgstr ""
+msgstr "Blessing (Błogosławieństwo)"
 
 # 123f6c854bdd488a9bc34d56ff336847
 # 7a7605a1225041c9a2c5cf4a9e9eee32
@@ -407,7 +407,7 @@ msgstr "|mana_w|: Zauroczony stwór dostaje +1/+1 do końca tury."
 # 52cb43b8342c42c792903f8cbe55e43a
 #: ../../M14.rst:117
 msgid "Blightcaster"
-msgstr ""
+msgstr "Blightcaster (Zarazodziej)"
 
 # f02e9a8bfca64c949d20fe2bc8f30f60
 #: ../../M14.rst:116
@@ -418,7 +418,7 @@ msgstr ""
 # 6d92369a387c45cfb5d3ca11233c1cf5
 #: ../../M14.rst:121
 msgid "Blood Bairn"
-msgstr ""
+msgstr "Blood Bairn (Dziecię Krwi)"
 
 # f9708982bf2142759619f621a86456be
 #: ../../M14.rst:120
@@ -440,7 +440,7 @@ msgstr ""
 # bddd755e2e254016887c0065444eae3b
 #: ../../M14.rst:129
 msgid "Bogbrew Witch"
-msgstr ""
+msgstr "Bogbrew Witch (Wiedźma Bagnowarka)"
 
 # 169fd5abd76046ff85e4a9cbd95c2dce
 #: ../../M14.rst:128
@@ -459,13 +459,14 @@ msgstr "Bonescythe Sliver (Drzazgul Kościokos)"
 #: ../../M14.rst:132
 msgid "Sliver creatures you control have double strike. (They deal both first-strike and regular combat damage.)"
 msgstr ""
-"Slivery, którymi władasz mają Podwójny Cios. (Zadają obrażenia bojowe "
+"Drzazgule, którymi władasz mają Podwójny Cios. (Zadają obrażenia bojowe "
 "zarówno jako Pierwszy Cios oraz normalnie.)"
 
 # 6cb0390e912947c8a988b1a7e1f51fbe
 #: ../../M14.rst:137
+#, fuzzy
 msgid "Bramblecrush"
-msgstr ""
+msgstr "Bramblecrush (Miażdżące Ciernie)"
 
 # ee7a20730956478fb35fb1e89605eac8
 #: ../../M14.rst:136
@@ -488,7 +489,7 @@ msgstr ""
 # 56a3294921434967aaa8139c7231255e
 #: ../../M14.rst:147
 msgid "Briarpack Alpha"
-msgstr ""
+msgstr "Briarpack Alpha (Alfa Wrzoścowej Watahy)"
 
 # b3988a7a13854694b86f296ad8d0574e
 # 1322a4158b8f4d539e5c3ef7ea223de8
@@ -508,7 +509,7 @@ msgstr ""
 # d13e5ef124e149cb994de1085e0816d6
 #: ../../M14.rst:151
 msgid "Brindle Boar"
-msgstr ""
+msgstr "Brindle Boar (Moręgowaty Dzik)"
 
 # d6c8901ec0e341dab2e09af400041f72
 #: ../../M14.rst:150
@@ -518,7 +519,7 @@ msgstr "Poświęć Moręgowatego Dzika: Zyskujesz 4 życia."
 # 74f00b5e1791493c99246460509fd914
 #: ../../M14.rst:157
 msgid "Bubbling Cauldron"
-msgstr ""
+msgstr "Bubbling Cauldron (Bulgocący Kociołek)"
 
 # ff833d5130864574af562aeb2219694e
 #: ../../M14.rst:154
@@ -535,7 +536,7 @@ msgstr ""
 # aac4e39b1aa0418a914e546fca81612f
 #: ../../M14.rst:161
 msgid "Burning Earth"
-msgstr ""
+msgstr "Burning Earth (Płonąca Ziemia)"
 
 # f231c7ac0a93456696194cb9ba211d73
 #: ../../M14.rst:160
@@ -557,12 +558,12 @@ msgstr "Skontruj wskazany czar."
 # ebdcbc9352da4d929b77a19e93b5be2a
 #: ../../M14.rst:167
 msgid "Canyon Minotaur"
-msgstr ""
+msgstr "Canyon Minotaur (Minotaur z Kanionu)"
 
 # 367756a64f30431fb2292436b2c3e648
 #: ../../M14.rst:175
 msgid "Capashen Knight"
-msgstr ""
+msgstr "Capashen Knight (Rycerz z Capashen)"
 
 # 8ceb90c9bbff432a8d554b6aae8308e9
 # 648e8b53b2254dd8bcc6284582634990
@@ -583,7 +584,7 @@ msgstr "|mana_1| |mana_w|: Rycerz z Capashen dostaje +1/+0 do końca tury."
 # 5cc3b39c4e7345a888ce48d2d922fabc
 #: ../../M14.rst:179
 msgid "Celestial Flare"
-msgstr ""
+msgstr "Celestial Flare (Niebiański Rozbłysk)"
 
 # ec6fbfecbc8443d1aae6a9ba36b04dde
 #: ../../M14.rst:178
@@ -593,7 +594,7 @@ msgstr "Wskazany gracz poświęca atakującego lub blokującego stwora."
 # cec491e462314047b6ecdfc26ebf4531
 #: ../../M14.rst:187
 msgid "Chandra, Pyromaster"
-msgstr ""
+msgstr "Chandra, Pyromaster (Chandra, Piromistrz)"
 
 # c35ba884674e4d1cb948fbce51094b74
 #: ../../M14.rst:182
@@ -621,19 +622,19 @@ msgstr ""
 # e0bfa3c7672b4c4686cdca3a964adff4
 #: ../../M14.rst:191
 msgid "Chandra's Outrage"
-msgstr ""
+msgstr "Chandra's Outrage (Gniew Chandry)"
 
 # 200cccfc076e4231b63c22bc7edb5813
 #: ../../M14.rst:190
 msgid "Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller."
 msgstr ""
-"Gniew Chandry zadaje 4 obrażenia wskazanemu stworowi oraz 2 obrażenia władcy "
-"owego stwora."
+"Chandra's Outrage zadaje 4 obrażenia wskazanemu stworowi oraz 2 obrażenia "
+"władcy owego stwora."
 
 # e856d75fd2d547a18599a5716aee6a18
 #: ../../M14.rst:199
 msgid "Chandra's Phoenix"
-msgstr ""
+msgstr "Chandra's Phoenix (Feniks Chandry)"
 
 # 0fbcbd2b2a9e416fa4527d88fa68d355
 #: ../../M14.rst:196
@@ -653,27 +654,27 @@ msgstr ""
 # d9116525d99b41b78b02d7419be5544a
 #: ../../M14.rst:205
 msgid "Charging Griffin"
-msgstr ""
+msgstr "Charging Griffin (Szarżujący Gryf)"
 
 # dc953d6b14424c878786ec668187afa8
 #: ../../M14.rst:204
 msgid "Whenever Charging Griffin attacks, it gets +1/+1 until end of turn."
-msgstr "Zawsze gdy Szarżujący Gryf atakuje, dostaje +1/+1 do końca tury."
+msgstr "Zawsze gdy Charging Griffin atakuje, dostaje +1/+1 do końca tury."
 
 # b5edf0feeb0b47499addd5525184f464
 #: ../../M14.rst:209
 msgid "Child of Night"
-msgstr ""
+msgstr "Child of Night (Dziecko Nocy)"
 
 # 4e7ee6adda1042169f24106f2c5f3511
 #: ../../M14.rst:217
 msgid "Claustrophobia"
-msgstr ""
+msgstr "Claustrophobia (Klaustrofobia)"
 
 # 4c043c21c85a4907890715999f032333
 #: ../../M14.rst:214
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr "Gdy Klaustrofobia wchodzi na pole walki, zużyj zauroczonego stwora."
+msgstr "Gdy Claustrophobia wchodzi na pole walki, zużyj zauroczonego stwora."
 
 # af7de5d6a54c405885b7e8d436477120
 #: ../../M14.rst:216
@@ -684,7 +685,7 @@ msgstr ""
 # f29db3587d33496c8584fec199ebfb3f
 #: ../../M14.rst:221
 msgid "Clone"
-msgstr ""
+msgstr "Clone (Klon)"
 
 # b7c42010e8e7445ba8af4a90a9c400ac
 #: ../../M14.rst:220
@@ -696,7 +697,7 @@ msgstr ""
 # 175f69edf00d4c25ad2fec2b7296720c
 #: ../../M14.rst:227
 msgid "Colossal Whale"
-msgstr ""
+msgstr "Colossal Whale (Kolosalny Waleń)"
 
 # fc6b7d7042854e9c893f9decbc12dbe0
 # 534e5d9936d24f98bb2830b652c187f0
@@ -712,8 +713,8 @@ msgstr ""
 msgid "Whenever Colossal Whale attacks, you may exile target creature defending player controls until Colossal Whale leaves the battlefield. (That creature returns under its owner's control.)"
 msgstr ""
 "Ilekroć Colossal Whale atakuje, możesz wypędzić wskazanego stwora władanego "
-"przez broniącego się gracza do czasu opuszczenia pola walki przez "
-"Kolosalnego Walenia. (Ów stwór wraca pod władanie swojego właściciela.)"
+"przez broniącego się gracza do czasu opuszczenia pola walki przez Colossal "
+"Whale. (Ów stwór wraca pod władanie swojego właściciela.)"
 
 # c7e778c049ed4fdbbadbe11307869ba3
 #: ../../M14.rst:231
@@ -733,13 +734,13 @@ msgstr ""
 # ca7a40b3f6c442eaa1c15ff77796107a
 #: ../../M14.rst:239
 msgid "Corpse Hauler"
-msgstr ""
+msgstr "Corpse Hauler (Wozak Zwłok)"
 
 # 040f049873e442628cc59443f03345bd
 #: ../../M14.rst:238
 msgid "|mana_2| |mana_b|, Sacrifice Corpse Hauler: Return another target creature card from your graveyard to your hand."
 msgstr ""
-"|mana_2| |mana_b|, poświęć Wozaka Zwłok: Przywróć inną wskazaną kartę stwora "
+"|mana_2| |mana_b|, poświęć Corpse Hauler: Zwróć inną wskazaną kartę stwora "
 "ze swojego cmentarza do swojej ręki."
 
 # b803bc038c404647bbe66b1141e94a04
@@ -763,17 +764,17 @@ msgstr ""
 # cee97542224a4f5180120b523d76ff30
 #: ../../M14.rst:248
 msgid "Cyclops Tyrant can't block creatures with power 2 or less."
-msgstr "Cyklop Tyran nie może blokować stworów o sile 2 lub mniej."
+msgstr "Cyclops Tyrant nie może blokować stworów o sile 2 lub mniej."
 
 # 8654d4bf8c994bda9fa343274a9f52ac
 #: ../../M14.rst:257
 msgid "Dark Favor"
-msgstr ""
+msgstr "Dark Favor (Mroczna Łaska)"
 
 # 3b977c467f004ec88a68839cd9da8f1a
 #: ../../M14.rst:254
 msgid "When Dark Favor enters the battlefield, you lose 1 life."
-msgstr "Kiedy Mroczna Łaska wchodzi na pole walki, tracisz 1 życie."
+msgstr "Kiedy Dark Favor wchodzi na pole walki, tracisz 1 życie."
 
 # 2b00b8f9b9de469eb7b54f4a364a8208
 #: ../../M14.rst:256
@@ -783,7 +784,7 @@ msgstr "Zauroczony stwór dostaje +3/+1."
 # 21d7c52445794e2498078488e3218d73
 #: ../../M14.rst:261
 msgid "Dark Prophecy"
-msgstr ""
+msgstr "Dark Prophecy (Mroczne Proroctwo)"
 
 # c3b0ec5191f24ab880ba0802ab72850e
 #: ../../M14.rst:260
@@ -813,6 +814,7 @@ msgstr ""
 #: ../../M14.rst:268
 msgid "Indestructible (Effects that say \\\"destroy\\\" don't destroy this artifact.)"
 msgstr ""
+"Niezniszczalność (Efekty mówiące \\\"zniszcz\\\" nie niszczą tego artefaktu.)"
 
 # 012b8bba9ae446a49e3f26d4ef913e3d
 #: ../../M14.rst:270
@@ -836,7 +838,7 @@ msgstr "Czujność (Atak nie powoduje zużycia tego stwora.)"
 # 117e97f41b2b4adbade0044f48000c2b
 #: ../../M14.rst:283
 msgid "Deadly Recluse"
-msgstr ""
+msgstr "Deadly Recluse (Śmiertelny Pustelnik)"
 
 # 3ac1790cfef14749b88fa6ab20b1c4d6
 # 57ef05476de34fe880dd720f69cd3b38
@@ -859,12 +861,12 @@ msgstr ""
 # 12c2fc4feabe4bbb847a22df6a61078a
 #: ../../M14.rst:289
 msgid "Deathgaze Cockatrice"
-msgstr ""
+msgstr "Deathgaze Cockatrice (Śmierciowzroczny Bazyliszek)"
 
 # e0aba369e5084515b528871197bde891
 #: ../../M14.rst:293
 msgid "Demolish"
-msgstr ""
+msgstr "Demolish (Wyburzenie)"
 
 # 76ed845c6d3249e5bade4f76cb216af5
 #: ../../M14.rst:292
@@ -887,7 +889,7 @@ msgstr ""
 # 364285a2df034014b587b71afe0f8982
 #: ../../M14.rst:301
 msgid "Diabolic Tutor"
-msgstr ""
+msgstr "Diabolic Tutor (Diaboliczny Nauczyciel)"
 
 # f67bfa558920478a9834f8c45864e10f
 #: ../../M14.rst:300
@@ -912,7 +914,7 @@ msgstr ""
 # 34fd833a8e864751990d4c6fe5636786
 #: ../../M14.rst:309
 msgid "Disperse"
-msgstr ""
+msgstr "Disperse (Rozproszenie)"
 
 # 131dc50a7fcd4bdc81370e21ee945fdb
 #: ../../M14.rst:308
@@ -927,12 +929,12 @@ msgstr ""
 # e909a62609bc4d39bd5ccbea1c683f46
 #: ../../M14.rst:321
 msgid "Divine Favor"
-msgstr ""
+msgstr "Divine Favor (Boska Łaska)"
 
 # 2d2bd88cdec64936afad5750a8896370
 #: ../../M14.rst:318
 msgid "When Divine Favor enters the battlefield, you gain 3 life."
-msgstr "Kiedy Boska Łaska wchodzi na pole walki, dostajesz 3 życia."
+msgstr "Kiedy Divine Favor wchodzi na pole walki, dostajesz 3 życia."
 
 # 8d2e7e0b6bea437e9d055398e5ebd002
 #: ../../M14.rst:320
@@ -942,7 +944,7 @@ msgstr "Zauroczony stwór dostaje +1/+3."
 # 5eca03eb6a2d4ff4bfd566a1fac8d390
 #: ../../M14.rst:329
 msgid "Domestication"
-msgstr ""
+msgstr "Domestication (Udomowienie)"
 
 # abd644fa105d483bab85b691df205222
 #: ../../M14.rst:326
@@ -959,7 +961,7 @@ msgstr ""
 # 6eb640d3f14f4a44808e177e88362c18
 #: ../../M14.rst:333
 msgid "Doom Blade"
-msgstr ""
+msgstr "Doom Blade (Ostrze Zagłady)"
 
 # 0f6339009ad4434f97bba9a7f13b1d80
 #: ../../M14.rst:332
@@ -969,7 +971,7 @@ msgstr "Zniszcz wskazanego nieczarnego stwora."
 # e656a45b60be477bb7e004e6d4980329
 #: ../../M14.rst:341
 msgid "Door of Destinies"
-msgstr ""
+msgstr "Door of Destinies (Drzwi Przeznaczeń)"
 
 # 695c09b30747463f926106b68ef7af1b
 #: ../../M14.rst:336
@@ -993,13 +995,13 @@ msgstr ""
 # a473438ff87a482291b462a0147f2082
 #: ../../M14.rst:347
 msgid "Dragon Egg"
-msgstr ""
+msgstr "Dragon Egg (Smocze Jajo)"
 
 # 6313255dd714486fbe800ae1bb66dd02
 #: ../../M14.rst:346
 msgid "When Dragon Egg dies, put a 2/2 red Dragon creature token with flying onto the battlefield. It has \\\"|mana_r|: This creature gets +1/+0 until end of turn.\\\""
 msgstr ""
-"Kiedy Smocze Jajo umiera, połóż na polu walki żeton czerwonego stwora Smok "
+"Kiedy Dragon Egg umiera, połóż na polu walki żeton czerwonego stwora Smok "
 "2/2 z Lataniem oraz \\\"|mana_r|: Ten stwór dostaje +1/+0 do końca tury.\\\""
 
 # acfad9b44dd34955b959a1827560b0c4
@@ -1015,7 +1017,7 @@ msgstr "|mana_r|: Wykluty Smok dostaje +1/+0 do końca tury."
 # 5270ef7a0ee94870ae0d4c8154adcb78
 #: ../../M14.rst:357
 msgid "Duress"
-msgstr ""
+msgstr "Duress (Przymus)"
 
 # 7410c63943b74fdcbb122ac5a7471419
 #: ../../M14.rst:356
@@ -1046,7 +1048,7 @@ msgstr ""
 # 5ec79365a88849acafa71a02e754b120
 #: ../../M14.rst:367
 msgid "Elixir of Immortality"
-msgstr ""
+msgstr "Elixir of Immortality (Eliksir Nieśmiertelności)"
 
 # 861c6fc2706446c0b8a7d2cba9e30762
 #: ../../M14.rst:366
@@ -1058,7 +1060,7 @@ msgstr ""
 # 4df4cc4222b947f482fb312a164d514f
 #: ../../M14.rst:371
 msgid "Elvish Mystic"
-msgstr ""
+msgstr "Elvish Mystic (Elfi Mistyk)"
 
 # c8ce2b4830074f77b316482ba879dfa3
 #: ../../M14.rst:370
@@ -1111,7 +1113,7 @@ msgstr "Skontruj wskazany czar stwora."
 # 3e783ea397c34978b48dbe6c77dbf7e6
 #: ../../M14.rst:389
 msgid "Festering Newt"
-msgstr ""
+msgstr "Festering Newt (Ropiejąca Traszka)"
 
 # a295fad164644b60ae56745ac58b0128
 #: ../../M14.rst:388
@@ -1135,8 +1137,9 @@ msgstr ""
 
 # 0a0e302dbfbe43799f35b51be6d5e5a2
 #: ../../M14.rst:403
+#, fuzzy
 msgid "Fireshrieker"
-msgstr ""
+msgstr "Fireshrieker (Ogniowrzask)"
 
 # 93dc12e25e7748d5a32f502299d8e2e9
 #: ../../M14.rst:400
@@ -1168,19 +1171,19 @@ msgstr ""
 # f357c8cee191413d91d731fafed598f4
 #: ../../M14.rst:411
 msgid "Fleshpulper Giant"
-msgstr ""
+msgstr "Fleshpulper Giant (Gigant Mięsogniot)"
 
 # 084547db10ee4e809a12960d347b2086
 #: ../../M14.rst:410
 msgid "When Fleshpulper Giant enters the battlefield, you may destroy target creature with toughness 2 or less."
 msgstr ""
-"Kiedy Gigant Mięsogniot wchodzi na pole walki, możesz zniszczyć wskazanego "
+"Kiedy Fleshpulper Giant wchodzi na pole walki, możesz zniszczyć wskazanego "
 "stwora z wytrzymałością 2 lub mniej."
 
 # 53a7c7f7c9de4bf0a405056500ed9a7e
 #: ../../M14.rst:415
 msgid "Fog"
-msgstr ""
+msgstr "Fog (Mgła)"
 
 # a5fe1295abcb4561b741d5098d6bb4e6
 #: ../../M14.rst:414
@@ -1191,7 +1194,7 @@ msgstr ""
 # 7b8d8931700540fdbb150b145713867f
 #: ../../M14.rst:419
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
 
 # bf3337681990492ea02950fa384888dc
 #: ../../M14.rst:418
@@ -1216,7 +1219,7 @@ msgstr "lub stwory, którymi władasz, dostają +0/+2 do końca tury."
 # 4bc5108ec17d4a0caf50a57d43455cc0
 #: ../../M14.rst:429
 msgid "Frost Breath"
-msgstr ""
+msgstr "Frost Breath (Oddech Mrozu)"
 
 # 2823f2cb05c247ba81e88c0bcf1698ad
 #: ../../M14.rst:428

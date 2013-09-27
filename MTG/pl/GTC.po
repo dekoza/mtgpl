@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-27 07:08+0200\n"
+"PO-Revision-Date: 2013-09-27 11:32+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380262084.379296\n"
+"X-POOTLE-MTIME: 1380277930.797979\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -42,10 +42,11 @@ msgid ""
 "Target creature gets +1/+1 and gains flying and first strike until end of "
 "turn."
 msgstr ""
+"Wskazany stwór dostaje +1/+1 oraz latanie i pierwszy cios do końca tury."
 
 #: Ætherize
 msgid "Return all attacking creatures to their owner's hand."
-msgstr ""
+msgstr "Zwróć wszystkie atakujące stwory na rękę ich właściciela."
 
 #: Agoraphobia Alpha Authority Death's Approach Forced Adaptation Gift of
 #: Orzhova Guildscorn Ward Holy Mantle Madcap Skills One Thousand Lashes
@@ -67,6 +68,8 @@ msgid ""
 "Enchanted creature has hexproof and can't be blocked by more than one "
 "creature."
 msgstr ""
+"Zauroczony stwór ma antyklątwę i nie może być blokowany przez więcej niż "
+"jednego stwora."
 
 #: Angelic Edict
 msgid "Exile target creature or enchantment."
@@ -92,11 +95,15 @@ msgid ""
 "Prevent all combat damage that would be dealt to Armored Transport by "
 "creatures blocking it."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby być zadane w Armored "
+"Transport przez stwory go blokujące."
 
 #: Arrows of Justice
 msgid ""
 "Arrows of Justice deals 4 damage to target attacking or blocking creature."
 msgstr ""
+"Arrows of Justice zadaje 4 obrażenia wskazanemu atakującemu lub blokującemu "
+"stworowi."
 
 #: Assemble the Legion
 msgid ""

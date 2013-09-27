@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-27 07:20+0200\n"
+"PO-Revision-Date: 2013-09-27 11:30+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380262846.413484\n"
+"X-POOTLE-MTIME: 1380277805.843051\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -499,13 +499,15 @@ msgid ""
 "|mana_3| |mana_b|, |tap|: Target opponent loses 2 life, then reveals a card at random "
 "from his or her hand."
 msgstr ""
+"|mana_3| |mana_b|, |tap|: Wskazany przeciwnik traci 2 życia, a następnie "
+"ujawnia losową kartę ze swojej ręki."
 
 #: Izzet Cluestone
 msgid "|tap|: Add |mana_u| or |mana_r| to your mana pool."
 msgstr "|tap|: Dodaj |mana_u| lub |mana_r| do swojego zasobnika many."
 
 msgid "|mana_u| |mana_r|, |tap|, Sacrifice Izzet Cluestone: Draw a card."
-msgstr ""
+msgstr "|mana_u| |mana_r|, |tap|, poświęć Izzet Cluestone: Dobierz kartę."
 
 #: Izzet Guildgate
 msgid "Izzet Guildgate enters the battlefield tapped."
@@ -544,21 +546,18 @@ msgstr ""
 "Zauroczony stwór nie może atakować ani blokować, a jego aktywowane zdolności "
 "nie mogą zostać aktywowane."
 
-#, fuzzy
 msgid ""
 "|mana_1| |mana_g| |mana_u|, Return Krasis Incubation to its owner's hand: Put two +1/+1 "
 "counters on enchanted creature."
 msgstr ""
-"|mana_1| |mana_g| |mana_u|, Zwróć Krasis Incubation do ręki jego właściciela: Połóż dwa "
-"znaczniki +1/+1 na zauroczonym stworze."
+"|mana_1| |mana_g| |mana_u|, zwróć Krasis Incubation do ręki jego "
+"właściciela: Połóż dwa znaczniki +1/+1 na zauroczonym stworze."
 
 #: Kraul Warrior
-#, fuzzy
 msgid "|mana_5| |mana_g|: Kraul Warrior gets +3/+3 until end of turn."
 msgstr "|mana_5| |mana_g|: Kraul Warrior dostaje +3/+3 do końca tury."
 
 #: Lavinia of the Tenth
-#, fuzzy
 msgid "Protection from red"
 msgstr "Ochrona przed czerwonym"
 
@@ -675,9 +674,8 @@ msgstr ""
 "z różnymi nazwami, wygrywasz grę."
 
 #: Melek, Izzet Paragon
-#, fuzzy
 msgid "Play with the top card of your library revealed."
-msgstr "Graj z górną kartą twojej biblioteko odkrytą."
+msgstr "Graj z ujawnioną wierzchnią kartą swojej biblioteki."
 
 msgid ""
 "You may cast the top card of your library if it's an instant or sorcery card."
@@ -693,7 +691,6 @@ msgstr ""
 "czar. Możesz wskazać nowe cele dla owej kopii."
 
 #: Mending Touch
-#, fuzzy
 msgid "Regenerate target creature."
 msgstr "Zregeneruj wskazanego stwora."
 
@@ -716,6 +713,9 @@ msgid ""
 "deals damage to target creature or player equal to the power of the card "
 "returned this way."
 msgstr ""
+"Zwróć wskazaną kartę stwora ze swojego cmentarza do swojej ręki. Morgue "
+"Burst zadaje wskazanemu stworowi lub graczowi obrażenia równe sile zwróconej "
+"w ten sposób karty."
 
 #: Mutant's Prey
 msgid ""
@@ -771,18 +771,16 @@ msgid "Orzhov Guildgate enters the battlefield tapped."
 msgstr "Orzhov Guildgate wchodzi na pole walki jako zużyty."
 
 #: Phytoburst
-#, fuzzy
 msgid "Target creature gets +5/+5 until end of turn."
 msgstr "Wskazany stwór dostaje +5/+5 do końa tury."
 
 #: Pilfered Plans
-#, fuzzy
 msgid ""
 "Target player puts the top two cards of his or her library into his or her "
 "graveyard. Draw two cards."
 msgstr ""
-"Wskazany gracz wkłada dwie górne karty swojej biblioteki do swojego "
-"cmentarza. Dobierz kartę."
+"Wskazany gracz wkłada dwie wierzchnie karty swojej biblioteki do swojego "
+"cmentarza. Dobierz dwie karty."
 
 #: Plasm Capture
 msgid ""
@@ -844,7 +842,6 @@ msgstr ""
 "który jest kopią tej kreatury, na pole walki."
 
 #: Protect // Serve (Protect)
-#, fuzzy
 msgid "Target creature gets +2/+4 until end of turn."
 msgstr "Wskazany stwór dostaje +2/+4 do końca tury."
 
@@ -853,6 +850,8 @@ msgid ""
 "Punish the Enemy deals 3 damage to target player and 3 damage to target "
 "creature."
 msgstr ""
+"Punish the Enemy zadaje 3 obrażenia wskazanemu graczowi i 3 obrażenia "
+"wskazanemu stworowi."
 
 #: Putrefy
 msgid "Destroy target artifact or creature. It can't be regenerated."
@@ -916,11 +915,10 @@ msgstr ""
 "nazwie i wypędź je. Następnie ów gracz tasuje swoja bibliotekę."
 
 #: Catch // Release (Release)
-#, fuzzy
 msgid ""
 "Each player sacrifices an artifact, a creature, an enchantment, a land, and "
 "a planeswalker."
-msgstr "Każdy gracz poświęca artefakt, stwota, urok, ląd i wędrowca."
+msgstr "Każdy gracz poświęca artefakt, stwora, urok, ląd i wędrowca."
 
 #: Render Silent
 msgid "Counter target spell. Its controller can't cast spells this turn."
@@ -939,19 +937,18 @@ msgid "Each player sacrifices a multicolored permanent."
 msgstr "Każdy gracz poświęca wielokolorową stałkę."
 
 #: Restore the Peace
-#, fuzzy
 msgid "Return each creature that dealt damage this turn to its owner's hand."
 msgstr ""
-"Zwróc każdego stwora, który zadał obrażenia tej tury do rąk ich właścicieli."
+"Zwróć każdego stwora, który zadał obrażenia w tej turze do ręki jego "
+"właściciela."
 
 #: Riot Control
-#, fuzzy
 msgid ""
 "You gain 1 life for each creature your opponents control. Prevent all damage "
 "that would be dealt to you this turn."
 msgstr ""
-"Zyskujesz 1 życia za każdego stwora pod kontrolą twoich przeciwników. "
-"Zapobiegnij wszystkim obrażeniom, które mogłyby być zadane tobie tej tury."
+"Zyskujesz 1 życie za każdego stwora władanego przez twoich przeciwników. "
+"Zażegnaj wszystkie obrażenia, które mogłyby być tobie zadane w tej turze."
 
 #: Riot Piker
 msgid "First strike"
@@ -1053,7 +1050,7 @@ msgid "|tap|: Add |mana_g| or |mana_w| to your mana pool."
 msgstr "|tap|: Dodaj |mana_g| lub |mana_w| do swojego zasobnika many."
 
 msgid "|mana_g| |mana_w|, |tap|, Sacrifice Selesnya Cluestone: Draw a card."
-msgstr ""
+msgstr "|mana_g| |mana_w|, |tap|, poświęć Selesnya Cluestone: Dobierz kartę."
 
 #: Selesnya Guildgate
 msgid "Selesnya Guildgate enters the battlefield tapped."
@@ -1068,13 +1065,15 @@ msgid ""
 "Until end of turn, creatures you control gain \"When this creature dies, it "
 "deals 2 damage to target creature an opponent controls.\""
 msgstr ""
+"Stwory, którymi władasz zyskują do końca tury \"Kiedy ten stwór umiera, "
+"zadaje 2 obrażenia wskazanemu stworowi władanemu przez przeciwnika.\""
 
 #: Simic Cluestone
 msgid "|tap|: Add |mana_g| or |mana_u| to your mana pool."
 msgstr "|tap|: Dodaj |mana_g| lub |mana_u| do swojego zasobnika many."
 
 msgid "|mana_g| |mana_u|, |tap|, Sacrifice Simic Cluestone: Draw a card."
-msgstr ""
+msgstr "|mana_g| |mana_u|, |tap|, poświęć Simic Cluestone: Dobierz kartę."
 
 #: Simic Guildgate
 msgid "Simic Guildgate enters the battlefield tapped."
@@ -1119,7 +1118,7 @@ msgstr ""
 
 #: Steeple Roc
 msgid "Flying, first strike"
-msgstr ""
+msgstr "Latanie, pierwszy cios"
 
 #: Sunspire Gatekeepers
 msgid ""
@@ -1130,7 +1129,7 @@ msgstr ""
 
 #: Tajic, Blade of the Legion
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 msgid ""
 "Battalion — Whenever Tajic, Blade of the Legion and at least two other "
@@ -1237,12 +1236,14 @@ msgstr ""
 "siła wypędzonej karty. Używaj jedynie jako obrzęd.)"
 
 msgid "Sacrifice another creature: Regenerate Varolz, the Scar-Striped."
-msgstr ""
+msgstr "Poświęć innego stwora: Zregeneruj Varolz, the Scar-Striped."
 
 msgid ""
 "When Viashino Firstblade enters the battlefield, it gets +2/+2 until end of "
 "turn."
 msgstr ""
+"Kiedy Viashino Firstblade wchodzi na pole walki, dostaje +2/+2 do końca "
+"tury."
 
 #: Voice of Resurgence
 msgid ""
@@ -1251,6 +1252,10 @@ msgid ""
 "battlefield with \"This creature's power and toughness are each equal to the "
 "number of creatures you control.\""
 msgstr ""
+"Ilekroć przeciwnik rzuca czar w twojej turze lub kiedy Voice of Resurgence "
+"umiera, połóż na polu walki zielono-białego stwora Elemental posiadającego "
+"\"Siła i wytrzymałość tego stwora są równe liczbie stworów pod twoim w "
+"władaniem każde.\""
 
 #: Vorel of the Hull Clade
 msgid ""
@@ -1273,18 +1278,24 @@ msgid ""
 "Warleader's Helix deals 4 damage to target creature or player and you gain 4 "
 "life."
 msgstr ""
+"Warleader's Helix zadaje 4 obrażenia wskazanemu stworowi lub graczowi, a ty "
+"zyskujesz 4 życia."
 
 #: Warped Physique
 msgid ""
 "Target creature gets +X/-X until end of turn, where X is the number of cards "
 "in your hand."
 msgstr ""
+"Wskazany stwór dostaje +X/-X do końca tury, gdzie X jest liczbą kart w "
+"twojej ręce."
 
 #: Weapon Surge
 msgid ""
 "Target creature you control gets +1/+0 and gains first strike until end of "
 "turn."
 msgstr ""
+"Wskazany stwór, którym władasz dostaje +1/+0 oraz pierwszy cios do końca "
+"tury."
 
 msgid ""
 "Overload |mana_1| |mana_r| (You may cast this spell for its overload cost. If you do, "
