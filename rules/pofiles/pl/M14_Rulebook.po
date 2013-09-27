@@ -1,23 +1,22 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2013, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Dominik <dominik@kozaczko.info>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 12:42\n"
-"PO-Revision-Date: 2013-09-27 12:09+0200\n"
+"PO-Revision-Date: 2013-09-27 20:11+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: tylko ja\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-POOTLE-MTIME: 1380280196.875506\n"
 
 # 45201559181642ae9fa2ac72272dafdd
@@ -760,7 +759,7 @@ msgstr "Równina"
 # f5f3f0285da6465ea5487f7d83d1d706
 #: ../../M14_Rulebook.rst:356
 msgid "{W} (white)"
-msgstr "{W} (biały)"
+msgstr "|mana_w| (biały)"
 
 # e5cf1745c13d4075b64faeb4ed333acd
 #: ../../M14_Rulebook.rst:358
@@ -770,7 +769,7 @@ msgstr "Wyspa"
 # 4604a9623f5c419183b7966bad02798c
 #: ../../M14_Rulebook.rst:358
 msgid "{U} (blue)"
-msgstr "{U} (niebieski)"
+msgstr "|mana_u| (niebieski)"
 
 # e117e0b965284ee2b01082c9539dc5ad
 #: ../../M14_Rulebook.rst:360
@@ -780,7 +779,7 @@ msgstr "Bagno"
 # 4f3bc0de9d1b44a2960d58f0a7613dc9
 #: ../../M14_Rulebook.rst:360
 msgid "{B} (black)"
-msgstr "{B} (czarny)"
+msgstr "|mana_b| (czarny)"
 
 # 9828c54f8653449ab42b49c8501477d6
 #: ../../M14_Rulebook.rst:362
@@ -790,7 +789,7 @@ msgstr "Góra"
 # 15a3c625f846437399885d11d4d4c0d9
 #: ../../M14_Rulebook.rst:362
 msgid "{R} (red)"
-msgstr "{R} (czerwony)"
+msgstr "|mana_r| (czerwony)"
 
 # c4406e470e344dd48ed1692593c5ff20
 #: ../../M14_Rulebook.rst:364
@@ -800,7 +799,7 @@ msgstr "Las"
 # bfffedf2d4ad410ebe6934e953375ba8
 #: ../../M14_Rulebook.rst:364
 msgid "{G} (green)"
-msgstr "{G} (zielony)"
+msgstr "|mana_g| (zielony)"
 
 # 5efc93adfb004185b822c9d4622680b8
 #: ../../M14_Rulebook.rst:367
@@ -822,7 +821,7 @@ msgid "To tap a card is to turn it sideways. You do this when you use a land to 
 msgstr ""
 "Aby zużyć kartę, należy ustawić ją bokiem. Robisz tak, kiedy używasz lądu do "
 "produkcji many, kiedy atakujesz stworem lub gdy aktywujesz zdolność, która "
-"ma {T} w swoim koszcie ({T} oznacza \"zużyj tę stałkę\")."
+"ma |tap| w swoim koszcie (|tap| oznacza \"zużyj tę stałkę\")."
 
 # d94cb79edfef46e2a950e396e074773a
 #: ../../M14_Rulebook.rst:378
@@ -1466,12 +1465,15 @@ msgstr ""
 #: ../../M14_Rulebook.rst:2023
 #: ../../M14_Rulebook.rst:2061
 msgid "Upkeep step"
-msgstr ""
+msgstr "Krok utrzymania"
 
 # 2678f729dd5b43fc8d59664d538c1aa7
 #: ../../M14_Rulebook.rst:716
 msgid "This part of the turn is mentioned on a number of cards. If something is supposed to happen just once per turn, right at the beginning, an ability will trigger \"at the beginning of your upkeep.\" Players can cast instants and activate abilities."
 msgstr ""
+"Ta część tury jest wymieniona na wielu kartach. Jeśli coś ma się wydarzyć "
+"raz na turę zaraz na jej początku, zdolność zostanie wyzwolona \"na początku "
+"twojego utrzymania\". Gracze mogą rzucać sztuczki i aktywować zdolności."
 
 # 1b956c039a1e481994bd6736d1270b29
 # 2660d3f83d344533b42170951e31e7e0
@@ -1515,7 +1517,7 @@ msgstr "Faza walki"
 # 8bd1110097ff4f7587b22b3a7204af90
 #: ../../M14_Rulebook.rst:739
 msgid "Beginningof combat step"
-msgstr ""
+msgstr "Krok początku walki"
 
 # 3d122f68d3e44a75acdccb96af265a8e
 #: ../../M14_Rulebook.rst:737
@@ -1529,7 +1531,7 @@ msgstr ""
 #: ../../M14_Rulebook.rst:1287
 #: ../../M14_Rulebook.rst:2031
 msgid "Declare attackers step"
-msgstr ""
+msgstr "Krok deklarowania atakujących"
 
 # 9ecbafe0ccbc4730b2c98fdfd172a9e0
 #: ../../M14_Rulebook.rst:742
@@ -1539,7 +1541,7 @@ msgstr ""
 # 50f19d191b1f4509a6fc59bc41374281
 #: ../../M14_Rulebook.rst:752
 msgid "Declare bLockers step"
-msgstr ""
+msgstr "Krok deklarowania blokujących"
 
 # 6dd9b690818647678373d8abe4317324
 #: ../../M14_Rulebook.rst:748
@@ -1553,7 +1555,7 @@ msgstr ""
 #: ../../M14_Rulebook.rst:1160
 #: ../../M14_Rulebook.rst:2033
 msgid "Combat damage step"
-msgstr ""
+msgstr "Krok obrażeń bojowych"
 
 # 3f67ef56d3cd4d0183bf600dfe4859a9
 #: ../../M14_Rulebook.rst:755
@@ -1567,12 +1569,12 @@ msgstr ""
 #: ../../M14_Rulebook.rst:1391
 #: ../../M14_Rulebook.rst:2034
 msgid "End of combat step"
-msgstr ""
+msgstr "Krok końca walki"
 
 # e9a1b2dd0e0b45e8a2fff6f170b1c617
 #: ../../M14_Rulebook.rst:768
 msgid "Players can cast instants and activate abilities."
-msgstr ""
+msgstr "Gracze mogą rzucać sztuczki i aktywować zdolności."
 
 # 9610cd33c89f49c289710afa3d722c1e
 #: ../../M14_Rulebook.rst:773
@@ -1582,44 +1584,56 @@ msgstr ""
 # 43f95dae66c145c78c05140b2a3c30fb
 #: ../../M14_Rulebook.rst:778
 msgid "Ending Phase"
-msgstr ""
+msgstr "Faza końcowa"
 
 # d65ca05a052344d9bb4dba8f014dc77b
 #: ../../M14_Rulebook.rst:782
 msgid "end step"
-msgstr ""
+msgstr "Krok końcowy"
 
 # fe916966eca54dda9d1910302b535a8e
 #: ../../M14_Rulebook.rst:781
 msgid "Abilities that trigger \"at the beginning of your end step\" go on the stack. Players can then cast instants and activate abilities."
 msgstr ""
+"Zdolności, które są wyzwalane \"z początkiem twojego kroku końcowego\" wchodzą "
+"na stos. Gracze mogą następnie rzucać sztuczki i aktywować zdolności."
 
 # 6de04d6653c14cf7bc82598921f46b02
 # 92700f886d694fc1ba7b544591beb27f
 #: ../../M14_Rulebook.rst:789
 #: ../../M14_Rulebook.rst:2041
 msgid "Cleanup step"
-msgstr ""
+msgstr "Krok uprzątnięcia"
 
 # 38cb822e9fc34fa6866114b2f4d50732
 #: ../../M14_Rulebook.rst:785
 msgid "If you have more than seven cards in your hand, choose and discard cards until you have only seven. Next, all damage on creatures is removed and all \"until end of turn\" and \"this turn\" effects end. No one can cast instants or activate abilities unless an ability triggers during this step."
 msgstr ""
+"Jeśli masz więcej niż siedem kart w ręce, wybierasz i odrzucasz karty dopóki "
+"nie masz siedmiu. Następnie wszystkie obrażenia są usuwane ze stworów i "
+"wszystkie efekty działające \"do końca tury\" i \"w tej turze\" kończą się. Nikt "
+"nie może rzucać sztuczek ani aktywować zdolności dopóki jakaś zdolność nie "
+"jest wyzwalana w tym kroku."
 
 # 40d11ed20f1944e4880caaa1d27d9f56
 #: ../../M14_Rulebook.rst:792
 msgid "The Next Turn"
-msgstr ""
+msgstr "Następna tura"
 
 # 8eeb807962d246e7b504283110f8629c
 #: ../../M14_Rulebook.rst:794
 msgid "Now it's your opponent's turn. That player untaps his or her permanents and goes from there. After that player is done, it will be your turn again. Keep going until a player is reduced to 0 life. As soon as a player has 0 life, the game ends immediately and the other player wins!"
 msgstr ""
+"Teraz następuje tura przeciwnika. Odświeża on swoje stałki i wszystko się "
+"powtarza. Kiedy przeciwnik skończy, znów nastąpi twoja tura. Powtarzajcie "
+"dopóki punkty życia któregoś z graczy nie zostanie sprowadzone do 0. W "
+"chwili, gdy któryś z graczy ma 0 życia gra natychmiast się kończy i wygrywa "
+"drugi gracz."
 
 # 27337407b84f4239a6f9dd630e3cace6
 #: ../../M14_Rulebook.rst:798
 msgid "The Ever-Changing Game"
-msgstr ""
+msgstr "Ciągle zmieniająca się gra"
 
 # 21c3da1729554473a43db3d61b5c88ce
 #: ../../M14_Rulebook.rst:799
@@ -1691,7 +1705,7 @@ msgstr ""
 #: ../../M14_Rulebook.rst:849
 #: ../../M14_Rulebook.rst:2044
 msgid "Two-Headed Giant"
-msgstr ""
+msgstr "Dwugłowy gigant"
 
 # 462a4234ae4b4edeac6de317f634d9e9
 #: ../../M14_Rulebook.rst:850
@@ -1703,7 +1717,7 @@ msgstr ""
 #: ../../M14_Rulebook.rst:859
 #: ../../M14_Rulebook.rst:1172
 msgid "Commander"
-msgstr ""
+msgstr "Dowódca"
 
 # 461c2228a30544b5a1ce35588228b70d
 #: ../../M14_Rulebook.rst:860
@@ -1727,7 +1741,7 @@ msgstr ""
 #: ../../M14_Rulebook.rst:880
 #: ../../M14_Rulebook.rst:1000
 msgid "Archenemy"
-msgstr ""
+msgstr "Arcywróg"
 
 # 6438d9bc6e7045e4b77bd5091628587a
 #: ../../M14_Rulebook.rst:881
@@ -1757,7 +1771,7 @@ msgstr "Rozdział 5: Glosariusz"
 # 8da397cf65f241f8b9983da139b5a382
 #: ../../M14_Rulebook.rst:910
 msgid "{1}, {2}, {3}, and so on, {X}"
-msgstr "{1}, {2}, {3} itd., {X}"
+msgstr "|mana_1|, |mana_2|, |mana_3| itd., |mana_x|"
 
 # f89c8eb491ba4c60b95859ed72d2b135
 #: ../../M14_Rulebook.rst:901
@@ -1772,77 +1786,95 @@ msgstr ""
 # b5bd8f84d65d4c6eaa88fc4970501846
 #: ../../M14_Rulebook.rst:913
 msgid "{W} (white mana)"
-msgstr "{W} (biała mana}"
+msgstr "|mana_w| (biała mana}"
 
 # fb5e0b92c94b4e928931f893caf68a43
 #: ../../M14_Rulebook.rst:913
 msgid "One white mana. Tapping a Plains makes {W}. A card with {W} in its mana cost is white."
 msgstr ""
+"Jedna biała mana. Zużycie Równiny daje |mana_w|. Karta, która w koszcie ma "
+"|mana_w| jest biała."
 
 # 86c53077bd8644e8be8d5fabc2227fc4
 #: ../../M14_Rulebook.rst:916
 msgid "{U} (blue mana)"
-msgstr ""
+msgstr "|mana_u| (niebieska mana)"
 
 # e64bf512fa9e42b2b101d0ca518a0fe4
 #: ../../M14_Rulebook.rst:916
 msgid "One blue mana. Tapping an Island makes {U}. A card with {U} in its mana cost is blue."
 msgstr ""
+"Jedna niebieska mana. Zużycie Wyspy daje |mana_u|. Karta, która w koszcie ma "
+"|mana_u| jest niebieska."
 
 # 795e00204d9e4565a5b9976d5d54af97
 #: ../../M14_Rulebook.rst:919
 msgid "{B} (black mana)"
-msgstr ""
+msgstr "|mana_b| (czarna mana)"
 
 # ff541db27c394a71a0b970bbd0d8fc5c
 #: ../../M14_Rulebook.rst:919
 msgid "One black mana. Tapping a Swamp makes {B}. A card with {B} in its mana cost is black."
 msgstr ""
+"Jedna czarna mana. Zużycie Bagien daje |mana_b|. Karta, która w koszcie ma "
+"|mana_b| jest czarna."
 
 # 8caee66bb08a4ac88635064167600b3c
 #: ../../M14_Rulebook.rst:922
 msgid "{R} (red mana)"
-msgstr ""
+msgstr "|mana_r| (czerwona mana)"
 
 # c69862d1d1064620a9f03ce90720aca6
 #: ../../M14_Rulebook.rst:922
 msgid "One red mana. Tapping a Mountain makes {R}. A card with {R} in its mana cost is red."
 msgstr ""
+"Jedna czerwona mana. Zużycie Góry daje |mana_r|. Karta, która w koszcie ma "
+"|mana_r| jest czerwona."
 
 # f41f85314504473291ca9c40a67ed01f
 #: ../../M14_Rulebook.rst:925
 msgid "{G} (green mana)"
-msgstr ""
+msgstr "|mana_g| (zielona mana)"
 
 # 357cfe2d99dd47bb82804b0302e66a36
 #: ../../M14_Rulebook.rst:925
 msgid "One green mana. Tapping a Forest makes {G}. A card with {G} in its mana cost is green."
 msgstr ""
+"Jedna zielona mana. Zużycie Lasu daje |mana_g|. Karta, która w koszcie ma "
+"|mana_g| jest zielona."
 
 # 35fbd5475fe84d5480032580df6afc7d
 #: ../../M14_Rulebook.rst:933
 msgid "{T} (tap)"
-msgstr ""
+msgstr "|tap| (zaznacz)"
 
 # e492d8e2e7e24d8b9d9a38d171ca218c
 #: ../../M14_Rulebook.rst:930
 msgid "This symbol means \"tap this card\" (turn it sideways to show that it's been used). It appears in activation costs. You can't pay a oT cost if the card is already tapped. Also, remember that you can't pay your creature's oT costs until the creature starts your turn on the battlefield under your control."
 msgstr ""
+"Ten symbol oznacza \"zaznacz tę kartę\" (przekręć ją w bok, by pokazać, że "
+"została użyta). Pojawia się w kosztach aktywacji. Nie możesz opłacić kosztu "
+"z |tap| jeśli karta jest już zaznaczona. Pamiętaj też, że nie możesz opłacać "
+"kosztu z |tap| stwora, który nie znajdował się na polu walki na początku "
+"twojej tury."
 
 # fe4a69ed52e348f98e13720b5b055b55
 #: ../../M14_Rulebook.rst:942
 msgid "{w/u}, {b/g}, and so on"
-msgstr ""
+msgstr "|mana_wb|, |mana_bg| itd."
 
 # 0f0d1f768d7840e9a4376f771999578f
 #: ../../M14_Rulebook.rst:938
 msgid "Hybrid mana symbols represent a cost that can be paid with either of two colors. For example, a cost represented by the oh1 symbol can be paid with one white mana or one blue mana. It's both a white and a blue mana symbol, and a card with oh1 in its mana cost is both white and blue."
 msgstr ""
+"Hybrydowe symbole many oznaczają koszt, który może być opłacony jednym z "
+"dwóch kolorów. Przykładowo koszt oznaczony przez |mana_wu| może być opłacony "
+"albo jedną białą maną, albo jedną niebieską."
 
 # d53a4bcdb8074e1992920aba102098c4
 #: ../../M14_Rulebook.rst:953
 msgid "\\*/\\*"
-msgstr ""
+msgstr "\\*/\\*"
 
 # c3b2529bceca48eda1d3c4cef830aa98
 #: ../../M14_Rulebook.rst:947
@@ -1852,7 +1884,7 @@ msgstr ""
 # 64f2dae8c6e5497ead80d365599f1079
 #: ../../M14_Rulebook.rst:966
 msgid "Ability"
-msgstr ""
+msgstr "Zdolność"
 
 # f88d709460544085a586b8fc09d619da
 #: ../../M14_Rulebook.rst:958
