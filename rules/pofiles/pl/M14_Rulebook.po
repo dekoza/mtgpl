@@ -7,9 +7,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-09 12:42\n"
-"PO-Revision-Date: 2013-09-27 20:11+0200\n"
+"PO-Revision-Date: 2013-09-28 01:46+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
-"Language-Team: tylko ja\n"
+"Language-Team: logrus\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2978,7 +2978,7 @@ msgstr ""
 # e2e15410284b401c97c2ec4c7f7ee460
 #: ../../M14_Rulebook.rst:1685
 msgid "Paying life"
-msgstr ""
+msgstr "Płacenie życia"
 
 # 6b295086cc8c49929a7c54af6efb8302
 #: ../../M14_Rulebook.rst:1682
@@ -2988,12 +2988,19 @@ msgstr ""
 # 333a62257e2f41d6879901c82c20316e
 #: ../../M14_Rulebook.rst:1700
 msgid "Permanent"
-msgstr ""
+msgstr "Stałka"
 
 # 36fdf04922c24477ad16242d1c012a62
 #: ../../M14_Rulebook.rst:1688
 msgid "A card or creature token on the battlefield. Permanents can be artifacts, creatures, enchantments, lands, or planeswalkers. Once a permanent is on the battlefield, it stays there until it's destroyed, sacrificed, or removed somehow. You can't remove a permanent from the battlefield just because you want to, even if you control it. If a permanent leaves the battlefield and then re-enters the battlefield, it's treated like a brand-new card. It doesn't \"remember\" anything about the last time it was on the battlefield."
 msgstr ""
+"Karta lub żeton stwora na polu walki. Stałkami mogą być artefakty, stwory, "
+"uroki, lądy i wędrowcy. Gdy stałka jest na polu walki, zostaje dam dopóki "
+"nie zostanie zniszczona, poświęcona albo w jakiś sposób usunięta. Nie możesz "
+"usunąć stałki z pola walki tylko dlatego, że tego chcesz, nawet jeśli nią "
+"władasz. Jeśli stałka opuści pole walki i później ponownie wejdzie na pole "
+"walki, traktowana jest jak zupełnie nowa karta. Nie \"pamięta\" ona niczego ze "
+"swojego poprzedniego pobytu na polu walki."
 
 # 355d1456c04f4e0dae57b0c2fee41ee7
 #: ../../M14_Rulebook.rst:1697
@@ -3058,7 +3065,7 @@ msgstr ""
 # d7ffbfc7959746bf95772a195919cdb3
 #: ../../M14_Rulebook.rst:1740
 msgid "Player"
-msgstr ""
+msgstr "Gracz"
 
 # 46e810b53fa94a758dbf85313424c100
 #: ../../M14_Rulebook.rst:1736
@@ -3068,7 +3075,7 @@ msgstr ""
 # f47d1a488282480cbf276043b8001ae2
 #: ../../M14_Rulebook.rst:1746
 msgid "Power"
-msgstr ""
+msgstr "Siła"
 
 # 7296fc13f9014939a51bc9f2266a1dfa
 #: ../../M14_Rulebook.rst:1743
@@ -3078,7 +3085,7 @@ msgstr ""
 # 8d6be47f399b45fcbe62fc76a0b1f94b
 #: ../../M14_Rulebook.rst:1750
 msgid "Prevent"
-msgstr ""
+msgstr "Zażegnanie"
 
 # c64baab9e40147e1b3dada9d1ead96ae
 #: ../../M14_Rulebook.rst:1749
@@ -3158,7 +3165,7 @@ msgstr ""
 # 815287a3450742dca2484e1715c84c32
 #: ../../M14_Rulebook.rst:1809
 msgid "Put onto the battlefield"
-msgstr ""
+msgstr "Położyć na polu walki"
 
 # dcfaadfc389945529c244d678dcbd037
 #: ../../M14_Rulebook.rst:1806
@@ -3168,7 +3175,7 @@ msgstr ""
 # 32fbe893239a47cbb562a4d5da7d5852
 #: ../../M14_Rulebook.rst:1816
 msgid "Rarity"
-msgstr ""
+msgstr "Rzadkość"
 
 # c9d663d3489c476a925244006a0446c2
 #: ../../M14_Rulebook.rst:1812
@@ -3178,17 +3185,20 @@ msgstr ""
 # 0a9e8006a8924aac927ff8362187fcfa
 #: ../../M14_Rulebook.rst:1821
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 # 26f78f804e2842f0b8bc966f42e8ce94
 #: ../../M14_Rulebook.rst:1819
 msgid "A keyword ability seen on creatures. A creature with reach can block a creature with flying. However, a creature with reach can be blocked by any kind of creature."
 msgstr ""
+"Zdolność hasłowa występująca na stworach. Stwór z zasięgiem może blokować "
+"stwora z lataniem. Jednakże stwór z zasięgiem może być blokowany przez "
+"dowolny rodzaj stwora."
 
 # c7e78e56a5db40289cbb0bbdf0292a0e
 #: ../../M14_Rulebook.rst:1836
 msgid "Regenerate"
-msgstr ""
+msgstr "Zregenerować"
 
 # 8d294abd91064090a3da7cf392611f54
 #: ../../M14_Rulebook.rst:1824
@@ -3213,7 +3223,7 @@ msgstr ""
 # a12cbfb151cf4c5e802a5ed0f0bfcf2f
 #: ../../M14_Rulebook.rst:1849
 msgid "Remove from combat"
-msgstr ""
+msgstr "Usunięcie z walki"
 
 # 142a33c8d7a74d0fbb10bfa95cf0f37c
 #: ../../M14_Rulebook.rst:1844
@@ -3233,7 +3243,7 @@ msgstr ""
 # 9b706b9466734ffdb4e69609f97575cb
 #: ../../M14_Rulebook.rst:1868
 msgid "Resolve"
-msgstr ""
+msgstr "Rozpatrzenie"
 
 # a169c25d70e746cb826285191b950b36
 #: ../../M14_Rulebook.rst:1862
@@ -3243,7 +3253,7 @@ msgstr ""
 # e12b1dbc509e407fa3a67c97e3d7533c
 #: ../../M14_Rulebook.rst:1873
 msgid "Respond, in response"
-msgstr ""
+msgstr "Odpowiedź, w odpowiedzi"
 
 # a51ffd29037d4595962982ddc0333ee4
 #: ../../M14_Rulebook.rst:1871
@@ -3253,12 +3263,14 @@ msgstr ""
 # 307a4f5081584a4aac9446268e1a92bf
 #: ../../M14_Rulebook.rst:1876
 msgid "Reveal"
-msgstr ""
+msgstr "Ujawnić"
 
 # 1c00b2e97ce246be81ba89ab4a371e56
 #: ../../M14_Rulebook.rst:1876
 msgid "When you reveal a card, it's shown to all the players in the game."
 msgstr ""
+"Kiedy ujawniasz kartę, jest ona pokazywana wszystkim graczom uczestniczącym "
+"w grze."
 
 # 7e304818abdf42fd85bef59a70c3a7bb
 #: ../../M14_Rulebook.rst:1883
@@ -3278,7 +3290,7 @@ msgstr ""
 # 5d08ef967fc946f6aa127d5a6c418093
 #: ../../M14_Rulebook.rst:1892
 msgid "Shuffle"
-msgstr ""
+msgstr "Tasowanie"
 
 # 0a23f4ff431540fcbada0251875be867
 #: ../../M14_Rulebook.rst:1889
@@ -3313,7 +3325,7 @@ msgstr ""
 # e05d3d7503ae47c780a15e86ee8ec357
 #: ../../M14_Rulebook.rst:1916
 msgid "Source"
-msgstr ""
+msgstr "Źródło"
 
 # 9cf2153e7283476b8d1e0e7d29dc0a56
 #: ../../M14_Rulebook.rst:1914
@@ -3323,7 +3335,7 @@ msgstr ""
 # 5d7dbe65acd64a7684a0ef62231e174b
 #: ../../M14_Rulebook.rst:1921
 msgid "Spell"
-msgstr ""
+msgstr "Czar"
 
 # 9a3d9444e2b04cb7bb62fe477768c599
 #: ../../M14_Rulebook.rst:1919
@@ -3333,7 +3345,7 @@ msgstr ""
 # 3232683f14004cbf9b6e2e5f36f33926
 #: ../../M14_Rulebook.rst:1924
 msgid "Stack"
-msgstr ""
+msgstr "Stos"
 
 # 1c4a1d37b8fd4e1a894a0daa952afab8
 #: ../../M14_Rulebook.rst:1924
@@ -3353,7 +3365,7 @@ msgstr ""
 # deeeab629ca747b0842a5cb2bbf193e5
 #: ../../M14_Rulebook.rst:1935
 msgid "Static ability"
-msgstr ""
+msgstr "Zdolność statyczna"
 
 # a7ad0927f2cc4776a7d0da92ed079498
 #: ../../M14_Rulebook.rst:1934
@@ -3363,7 +3375,7 @@ msgstr ""
 # 35789944ec8d43c09b01265eae5ffad2
 #: ../../M14_Rulebook.rst:1942
 msgid "Step"
-msgstr ""
+msgstr "Krok"
 
 # f8d8afb1d0b644d88e1d4e92030fa1f7
 #: ../../M14_Rulebook.rst:1938
@@ -3373,7 +3385,7 @@ msgstr ""
 # fafecd0cffe94580b0c0964971b32be7
 #: ../../M14_Rulebook.rst:1961
 msgid "Subtype"
-msgstr ""
+msgstr "Podtyp"
 
 # 94b1872133c740c3bb9b08a53a38645e
 #: ../../M14_Rulebook.rst:1945
@@ -3428,7 +3440,7 @@ msgstr ""
 # edd7f8f803894125a4501f86fdd5d136
 #: ../../M14_Rulebook.rst:1992
 msgid "Token"
-msgstr ""
+msgstr "Żeton"
 
 # 8a40262383334891883e33a8e750a7c4
 #: ../../M14_Rulebook.rst:1984
@@ -3443,7 +3455,7 @@ msgstr ""
 # 1e00b9f7e7e54831837b8f0dff9f1c04
 #: ../../M14_Rulebook.rst:1999
 msgid "Toughness"
-msgstr ""
+msgstr "Wytrzymałość"
 
 # 113d133a1dea483ca7257627cf403b53
 #: ../../M14_Rulebook.rst:1995
@@ -3453,7 +3465,7 @@ msgstr ""
 # 3b7f1a3ae63a4a8e8ef34a3c3ada9733
 #: ../../M14_Rulebook.rst:2009
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 # 592e0df94248411fae9dd2cd4136a4b3
 #: ../../M14_Rulebook.rst:2002
@@ -3473,7 +3485,7 @@ msgstr ""
 # baab5dc89d8f4508994adaeba4d8cbc7
 #: ../../M14_Rulebook.rst:2041
 msgid "Turn"
-msgstr ""
+msgstr "Tura"
 
 # c0b9aa66a2654021ae6b1dae1636f115
 #: ../../M14_Rulebook.rst:2016

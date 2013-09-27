@@ -3,8 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-
-
 Tłumaczenie gry Magic: The Gathering
 ====================================
 
@@ -16,18 +14,32 @@ Instrukcja
 Tłumaczenie dodatków
 --------------------
 
-
 * :doc:`Return to Ravnica<RTR>` (18%)
 * :doc:`Gatecrash<GTC>` (11%)
 * :doc:`Dragons' Maze<DGM>` (54%)
 * :doc:`Magic 2014 Core Set<M14>` (100%)
 * :doc:`Theros<THS>` (100%)
 
+Warto przeczytać
+----------------
+
+:doc:`Uzasadnienie tłumaczeń<rationale>`
+
+Ekipa
+-----
+
+Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
+
+* Dominik Kozaczko - pomysłodawca, główny tłumacz
+* Bartek Pękala - tłumacz
+* Zofia Wąchocka - tłumacz, filolog
+* Roman Cupek - nadzorca merytoryczny
+
 
 .. toctree::
    :hidden:
    
-   
+   rationale
    RTR
    GTC
    DGM
