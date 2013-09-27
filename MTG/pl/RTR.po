@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 02:36+0200\n"
-"PO-Revision-Date: 2013-09-20 08:16+0200\n"
+"PO-Revision-Date: 2013-09-27 07:09+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -15,9 +15,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"| | n%100>=20) ? 1 : 2);\n"
+"|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379661380.179395\n"
+"X-POOTLE-MTIME: 1380262152.79305\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Abrupt Decay
@@ -45,17 +45,24 @@ msgid ""
 "other target creatures from the battlefield and/or creature cards from "
 "graveyards."
 msgstr ""
+"Kiedy Angel of Serenity wchodzi na pole walki możesz wypędzić co najwyżej "
+"trzy inne wskazane stwory z pola walki lub karty stworów z cmentarzy."
 
 msgid ""
 "When Angel of Serenity leaves the battlefield, return the exiled cards to "
 "their owners' hands."
 msgstr ""
+"KIedy Angel of Serenity opuszcza pole walki, przywróć wypędzone karty do rąk "
+"ich właścicieli."
 
 #: Annihilating Fire
 msgid ""
 "Annihilating Fire deals 3 damage to target creature or player. If a creature "
 "dealt damage this way would die this turn, exile it instead."
 msgstr ""
+"Annihilating Fire zadaje 3 obrażenia wskazanemu graczowi lub stworowi. Jeśli "
+"stwór otrzymujący w ten sposób obrażenia miałby umrzeć w tej turze, wypędź "
+"go zamiast tego."
 
 #: Aquus Steed
 msgid "|mana_2| |mana_u|, |tap|: Target creature gets -2/-0 until end of turn."
@@ -362,7 +369,7 @@ msgstr ""
 
 #: Cremate
 msgid "Exile target card from a graveyard."
-msgstr ""
+msgstr "Wypędź wskazaną kartę z cmentarza."
 
 msgid "Draw a card."
 msgstr ""
@@ -407,20 +414,30 @@ msgid ""
 "number of +1/+1 counters equal to this card's power on target creature. "
 "Scavenge only as a sorcery.)"
 msgstr ""
+"Czystka |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, wypędź tę "
+"kartę ze swojego cmentarza: Połóż na wskazanym stworze tyle znaczników "
+"+1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: Deathrite Shaman
 msgid ""
 "|tap|: Exile target land card from a graveyard. Add one mana of any color to "
 "your mana pool."
 msgstr ""
+"|tap|: Wypędź wskazaną kartę lądu z cmentarza. Dodaj jedną manę dowolnego "
+"koloru do twojego zasobnika many."
 
+#, fuzzy
 msgid ""
 "|mana_b|, |tap|: Exile target instant or sorcery card from a graveyard. Each "
 "opponent loses 2 life."
 msgstr ""
+"|mana_b|, |tap|: Wypędź wskazaną kartę sztuczki lub obrzędu z cmentarza. "
+"Każdy z przeciwników traci 2 życia"
 
 msgid "|mana_g|, |tap|: Exile target creature card from a graveyard. You gain 2 life."
 msgstr ""
+"|mana_g|, |tap|: Wypędź wskazaną kartę stwora z cmentarza. Zyskujesz 2 "
+"życia."
 
 #: Death's Presence
 msgid ""
@@ -762,6 +779,7 @@ msgstr "Obronność, latanie"
 #: Hussar Patrol Izzet Staticaster Skyline Predator
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
+"Błysk (Możesz rzucić ten czar w każdej chwili, gdy możesz rzucić sztuczkę.)"
 
 #: Hypersonic Dragon
 msgid "Flying, haste"
@@ -771,6 +789,8 @@ msgid ""
 "You may cast sorcery cards as though they had flash. (You may cast them any "
 "time you could cast an instant.)"
 msgstr ""
+"Możesz rzucać karty obrzędu tak jakby miały błysk. (Możesz je rzucić w "
+"każdej chwili, gdy możesz rzucić sztuczkę.)"
 
 #: Inaction Injunction
 msgid ""

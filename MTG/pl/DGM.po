@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-23 14:43+0200\n"
+"PO-Revision-Date: 2013-09-27 07:20+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,14 +17,12 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1379943790.787632\n"
+"X-POOTLE-MTIME: 1380262846.413484\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
 msgid "Put a 5/5 green Wurm creature token with trample onto the battlefield."
-msgstr ""
-"|mana_u|: Wygnaj Ætherlinga. Przywróć go na pole walki pod władaniem jego "
-"właściciela na początku następnego etapu końcowego."
+msgstr "Połóż na polu walki żeton zielonego stwora Wurm 5/5 z tratowaniem."
 
 #: Ætherling
 msgid ""
@@ -56,7 +54,7 @@ msgstr "Wskazany stwór dostaje +1/+1 oraz Podwójny Cios do końca tury."
 
 #: Ascended Lawmage
 msgid "Flying, hexproof"
-msgstr "Latanie, Antyklątwa"
+msgstr "Latanie, antyklątwa"
 
 #: Far // Away (Away)
 msgid "Target player sacrifices a creature."
@@ -259,18 +257,17 @@ msgstr ""
 "życia za każdą kartę stwora wypędzoną w ten sposób."
 
 #: Armed // Dangerous (Dangerous)
-#, fuzzy
 msgid "All creatures able to block target creature this turn do so."
-msgstr "Wszystkie stwory mogące zablokować wybranego stwora tej tury, robią to."
+msgstr ""
+"Wszystkie stwory mogące zablokować wskazanego stwora w tej turze, robią to."
 
 #: Deadbridge Chant
-#, fuzzy
 msgid ""
 "When Deadbridge Chant enters the battlefield, put the top ten cards of your "
 "library into your graveyard."
 msgstr ""
-"Kiedy Deadbridge Chant wchodzi na pole walki, połóż 10 górnych kart swojej "
-"biblioteki do swojego cmentarza."
+"Kiedy Deadbridge Chant wchodzi na pole walki, połóż dziesięć wierzchnich "
+"kart ze swojej biblioteki do swojego cmentarza."
 
 #, fuzzy
 msgid ""
@@ -291,9 +288,9 @@ msgstr ""
 "straconemu w ten sposób."
 
 #: Deputy of Acquittals
-#, fuzzy
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr "Błysk (Możesz rzucać ten czar kiedykolwiek możesz rzucic sztuczkę.)"
+msgstr ""
+"Błysk (Możesz rzucić ten czar w każdej chwili, gdy możesz rzucić sztuczkę.)"
 
 msgid ""
 "When Deputy of Acquittals enters the battlefield, you may return another "
@@ -512,7 +509,7 @@ msgstr ""
 
 #: Izzet Guildgate
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Izzet Guildgate wchodzi na pole walki jako zużyty."
 
 #: Jelenn Sphinx
 msgid "Flying, vigilance"
@@ -540,12 +537,11 @@ msgstr ""
 msgid "Enchant creature"
 msgstr "Zaurocz stwora"
 
-#, fuzzy
 msgid ""
 "Enchanted creature can't attack or block, and its activated abilities can't "
 "be activated."
 msgstr ""
-"Zauroczony stwór nie może atakować ani blokować, i jego aktywowane zdolności "
+"Zauroczony stwór nie może atakować ani blokować, a jego aktywowane zdolności "
 "nie mogą zostać aktywowane."
 
 #, fuzzy
@@ -613,7 +609,7 @@ msgid "First strike, deathtouch"
 msgstr "Pierwszy Cios, Dotyk Śmierci"
 
 msgid "Master of Cruelties can only attack alone."
-msgstr ""
+msgstr "Master of Cruelties może atakować wyłącznie sam."
 
 msgid ""
 "Whenever Master of Cruelties attacks a player and isn't blocked, that "
@@ -648,13 +644,12 @@ msgstr "Wielokolorowe stwory, którymi władasz, mają latanie."
 
 #: Maze Rusher Spike Jester Viashino Firstblade
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 msgid "Multicolored creatures you control have haste."
 msgstr "Wielokolorowe stwory, którymi władasz, mają pośpiech."
 
 #: Maze Sentinel
-#, fuzzy
 msgid "Vigilance"
 msgstr "Czujność"
 
@@ -662,9 +657,8 @@ msgid "Multicolored creatures you control have vigilance."
 msgstr "Wielokolorowe stwory, którymi władasz, mają czujność."
 
 #: Maze's End
-#, fuzzy
 msgid "Maze's End enters the battlefield tapped."
-msgstr "Maze's End wchodzi na pole walki jako zużyty ."
+msgstr "Maze's End wchodzi na pole walki jako zużyty."
 
 #, fuzzy
 msgid "|tap|: Add |mana_1| to your mana pool."
@@ -729,6 +723,9 @@ msgid ""
 "creature an opponent controls. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
+"Wskazany stwór, którym władasz, posiadający znacznik +1/+1 walczy ze "
+"wskazanym stworem władanym przez przeciwnika. (Każdy zadaje drugiemu "
+"obrażenia równe swojej sile.)"
 
 msgid ""
 "Whenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 "
@@ -739,13 +736,16 @@ msgstr ""
 
 #: Notion Thief Skylasher
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 msgid ""
 "If an opponent would draw a card except the first one he or she draws in "
 "each of his or her draw steps, instead that player skips that draw and you "
 "draw a card."
 msgstr ""
+"Jeśli przeciwnik miałby dobrać kartę z wyjątkiem pierwszej, którą dobiera w "
+"swoim kroku dobierania, zamiast tego ów gracz pomija to dobieranie, a ty "
+"dobierasz kartę."
 
 #: Obzedat's Aid
 msgid "Return target permanent card from your graveyard to the battlefield."
@@ -756,16 +756,17 @@ msgid ""
 "When Opal Lake Gatekeepers enters the battlefield, if you control two or "
 "more Gates, you may draw a card."
 msgstr ""
+"Kiedy Opal Lake Gatekeepers wchodzi na pole walki możesz dobrać kartę jeśli "
+"kontrolujesz przynajmniej dwie Bramy."
 
 #: Orzhov Cluestone
 msgid "|tap|: Add |mana_w| or |mana_b| to your mana pool."
 msgstr "|tap|: Dodaj |mana_w| lub |mana_b| do swojego zasobnika many."
 
 msgid "|mana_w| |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
-msgstr ""
+msgstr "|mana_w| |mana_b|, |tap|, poświęć Orzhov Cluestone: Dobierz kartę."
 
 #: Orzhov Guildgate
-#, fuzzy
 msgid "Orzhov Guildgate enters the battlefield tapped."
 msgstr "Orzhov Guildgate wchodzi na pole walki jako zużyty."
 
@@ -810,6 +811,7 @@ msgstr ""
 "wymuszeń, każdy działa osobno.)"
 
 #: Possibility Storm
+#, fuzzy
 msgid ""
 "Whenever a player casts a spell from his or her hand, that player exiles it, "
 "then exiles cards from the top of his or her library until he or she exiles "
@@ -817,11 +819,11 @@ msgid ""
 "without paying its mana cost. Then he or she puts all cards exiled with "
 "Possibility Storm on the bottom of his or her library in a random order."
 msgstr ""
-"Ilekroć gracz rzuca czar z ręki, ten gracz wypędza go, następnie wypędza "
-"karty z góry swojej biblioteki do czasu aż wypędzi kartę, która dzieli z nią "
-"typ karty. Ten gracz może rzucić ową kartę bez płacenia jej kosztu many. "
-"Następnie kładzie on wszystkie wypędzone przez Possibility Storm karty na "
-"spodzie swojej biblioteki w losowej kolejności."
+"Ilekroć gracz rzuca czar z ręki, ów gracz wypędza go, następnie wypędza "
+"karty z góry swojej biblioteki do czasu aż wypędzi kartę, z którą owa karta "
+"współdzieli typ. Ten gracz może rzucić ową kartę bez płacenia jej kosztu "
+"many. Następnie kładzie on wszystkie wypędzone przez Possibility Storm karty "
+"na spodzie swojej biblioteki w losowej kolejności."
 
 #: Profit // Loss (Profit)
 #, fuzzy
@@ -854,7 +856,7 @@ msgstr ""
 
 #: Putrefy
 msgid "Destroy target artifact or creature. It can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub stwora. Nie może on zostać zregenerowany."
 
 #: Pyrewild Shaman
 msgid ""
@@ -877,16 +879,15 @@ msgstr ""
 
 #: Rakdos Guildgate
 msgid "Rakdos Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Rakdos Guildgate wchodzi na pole walki jako zużyty."
 
 #: Ral Zarek
 msgid "+1: Tap target permanent, then untap another target permanent."
 msgstr "+1: Zużyj wskazaną stałkę, następnie odśwież inną stałkę."
 
 msgid "-2: Ral Zarek deals 3 damage to target creature or player."
-msgstr ""
+msgstr "-2: Ral Zarek zadaje 3 obrażenia wskazanemu stworowi lub graczowi."
 
-#, fuzzy
 msgid ""
 "-7: Flip five coins. Take an extra turn after this one for each coin that "
 "comes up heads."
@@ -895,13 +896,12 @@ msgstr ""
 "po tej."
 
 #: Ready // Willing (Ready)
-#, fuzzy
 msgid ""
 "Creatures you control gain indestructible until end of turn. Untap each "
 "creature you control."
 msgstr ""
-"Stwory pod twoją kontrolą zyskuja niezniszczalnośc do końca tury. Odśwież "
-"wszystkie stwoty pod twoją kontrolą."
+"Stwory, którymi władasz, zyskują niezniszczalność do końca tury. Odśwież "
+"wszystkie stwory, którymi władasz."
 
 #: Reap Intellect
 msgid ""
@@ -913,7 +913,7 @@ msgstr ""
 "Wskazany przeciwnik ujawnia swoją rękę. Wybierasz do X kart nie będących "
 "lądami i wypędzasz je. Za każdą kartę wypędzoną w ten sposób, przeszukaj "
 "cmentarz, rękę i bibliotekę owego gracza w poszukiwaniu kart o tej samej "
-"nazwie i wypędź je. Następnie ten gracz tasuje swoja bibliotekę."
+"nazwie i wypędź je. Następnie ów gracz tasuje swoja bibliotekę."
 
 #: Catch // Release (Release)
 #, fuzzy
@@ -958,11 +958,11 @@ msgid "First strike"
 msgstr ""
 
 msgid "Riot Piker attacks each turn if able."
-msgstr ""
+msgstr "Riot Piker atakuje w każdej turze jeśli to możliwe."
 
 #: Rot Farm Skeleton
 msgid "Rot Farm Skeleton can't block."
-msgstr ""
+msgstr "Rot Farm Skeleton nie może blokować."
 
 msgid ""
 "|mana_2| |mana_b| |mana_g|, Put the top four cards of your library into your graveyard: "
@@ -978,19 +978,19 @@ msgstr ""
 
 #: Runner's Bane
 msgid "Enchant creature with power 3 or less"
-msgstr ""
+msgstr "Zaurocz stwora o sile nie większej niż 3"
 
 msgid "When Runner's Bane enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy Runner's Bane wchodzi na pole walki, zużyj zauroczonego stwora."
 
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
+"Zauroczony stwór nie odświeża się podczas kroku odświeżania swojego władcy."
 
 #: Ruric Thar, the Unbowed
 msgid "Vigilance, reach"
-msgstr ""
+msgstr "Czujność, zasięg"
 
-#, fuzzy
 msgid "Ruric Thar, the Unbowed attacks each turn if able."
 msgstr "Ruric Thar, the Unbowed atakuje każdej tury jeśli to możliwe."
 
@@ -1057,11 +1057,11 @@ msgstr ""
 
 #: Selesnya Guildgate
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Selesnya Guildgate wchodzi na pole walki jako zużyty."
 
 #: Protect // Serve (Serve)
 msgid "Target creature gets -6/-0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -6/-0 do końca tury."
 
 #: Showstopper
 msgid ""
@@ -1078,13 +1078,15 @@ msgstr ""
 
 #: Simic Guildgate
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Simic Guildgate wchodzi na pole walki jako zużyty."
 
 #: Sin Collector
 msgid ""
 "When Sin Collector enters the battlefield, target opponent reveals his or "
 "her hand. You choose an instant or sorcery card from it and exile that card."
 msgstr ""
+"Kiedy Sin Collector wchodzi na pole walki, wskazany przeciwnik ujawnia swoją "
+"rękę. Wybierasz z niej kartę sztuczki lub obrzędu i wypędzasz ją."
 
 msgid ""
 "Whenever enchanted creature attacks or blocks, its controller loses 2 life."
@@ -1092,18 +1094,15 @@ msgstr ""
 "Ilekroć zauroczony stwór atakuje lub blokuje, jego władca traci 2 życia."
 
 #: Sire of Insanity
-#, fuzzy
 msgid ""
 "At the beginning of each end step, each player discards his or her hand."
-msgstr "Na początku każdego końcowego etapu, każdy gracz odrzuca swoją rękę."
+msgstr "Z początkiem każdego kroku końcowego, każdy gracz odrzuca swoją rękę."
 
-#, fuzzy
 msgid "Skylasher can't be countered."
 msgstr "Skylasher nie może zostać skontrowany."
 
-#, fuzzy
 msgid "Reach, protection from blue"
-msgstr "Zasięg, ochrona przed niebieskim."
+msgstr "Zasięg, ochrona przed niebieskim"
 
 #: Smelt-Ward Gatekeepers
 msgid ""
@@ -1150,7 +1149,7 @@ msgstr ""
 
 #: Teysa, Envoy of Ghosts
 msgid "Vigilance, protection from creatures"
-msgstr ""
+msgstr "Czujność, ochrona przed stworami"
 
 msgid ""
 "Whenever a creature deals combat damage to you, destroy that creature. Put a "
@@ -1159,13 +1158,16 @@ msgstr ""
 
 #: Thrashing Mossdog
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 msgid ""
 "Scavenge |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this card from your graveyard: Put a "
 "number of +1/+1 counters equal to this card's power on target creature. "
 "Scavenge only as a sorcery.)"
 msgstr ""
+"Czystka |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, wypędź tę "
+"kartę ze swojego cmentarza: Połóż na wskazanym stworze tyle znaczników "
+"+1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: Tithe Drinker
 msgid ""
@@ -1177,7 +1179,7 @@ msgstr ""
 
 #: Toil // Trouble (Toil)
 msgid "Target player draws two cards and loses 2 life."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty i traci 2 życia."
 
 #: Trait Doctoring
 msgid ""
@@ -1229,6 +1231,10 @@ msgid ""
 "its mana cost: Put a number of +1/+1 counters equal to that card's power on "
 "target creature. Scavenge only as a sorcery.)"
 msgstr ""
+"Każda karta stwora w twoim cmentarzy ma czystkę. Koszt czystki jest równy "
+"kosztowi many tej karty. (Wypędź kartę stwora ze swojego cmentarza i opłać "
+"jej koszt many: Połóż na wskazanym stworze tyle znaczników +1/+1, ile wynosi "
+"siła wypędzonej karty. Używaj jedynie jako obrzęd.)"
 
 msgid "Sacrifice another creature: Regenerate Varolz, the Scar-Striped."
 msgstr ""
