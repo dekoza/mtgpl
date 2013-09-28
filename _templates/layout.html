@@ -1,19 +1,24 @@
 {% extends "!layout.html" %}
 {% block footer %}
 {{ super() }}
-<!-- Piwik --> 
+<!-- Piwik -->
 <script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ?
-        "https://stats.kozaczko.info/" : "http://stats.kozaczko.info/");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js'
-            type='text/javascript'%3E%3C/script%3E"));
-</script><script type="text/javascript">
-try {
-    var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 11);
-    piwikTracker.trackPageView();
-    piwikTracker.enableLinkTracking();
-} catch( err ) {}
-</script><noscript><p><img src="http://stats.kozaczko.info/piwik.php?idsite=11"
-    style="border:0" alt="" /></p></noscript>
-<!-- End Piwik Tracking Code -->
+  var _paq = _paq || [];
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://stats.kozaczko.info/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "11"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+<noscript>
+<!-- Piwik Image Tracker -->
+<img src="http://stats.kozaczko.info/piwik.php?idsite=11&amp;rec=1&action_name=MTG+pl" style="border:0" alt="" />
+<!-- End Piwik -->
+</noscript>
 {% endblock %}

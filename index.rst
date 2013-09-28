@@ -20,8 +20,10 @@ Tłumaczenie dodatków
 * :doc:`Magic 2014 Core Set<M14>` (100%)
 * :doc:`Theros<THS>` (100%)
 
-  * :doc:`Heroes<THS_heroes>`
-  * :doc:`Face the Hydra<THS_hydra>`
+  Specjalne karty:
+
+  * :doc:`Bohaterowie<THS_heroes>` (100%)
+  * :doc:`Staw czoła Hydrze<THS_hydra>` (100%)
 
 Warto przeczytać
 ----------------
