@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-27 11:32+0200\n"
+"PO-Revision-Date: 2013-09-28 14:18+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380277930.797979\n"
+"X-POOTLE-MTIME: 1380374336.900117\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -217,7 +217,7 @@ msgstr ""
 
 #: Boros Charm
 msgid "Choose one — Boros Charm deals 4 damage to target player"
-msgstr "Wybierz jedno — Boros Charm zadaje wskazanemu graczowi 4 obrażenia"
+msgstr "Wybierz jedno: Boros Charm zadaje wskazanemu graczowi 4 obrażenia"
 
 msgid " or permanents you control gain indestructible until end of turn"
 msgstr ""
@@ -421,7 +421,7 @@ msgstr ""
 
 #: Dimir Charm
 msgid "Choose one — Counter target sorcery spell"
-msgstr "Wybierz jedno — Skontruj wskazany czar obrzędu"
+msgstr "Wybierz jedno: Skontruj wskazany czar obrzędu"
 
 msgid " or destroy target creature with power 2 or less"
 msgstr ""
@@ -937,7 +937,7 @@ msgstr ""
 
 #: Merciless Eviction
 msgid "Choose one — Exile all artifacts"
-msgstr "Wybierz jedno — Wypędź wszystkie artefakty"
+msgstr "Wybierz jedno: Wypędź wszystkie artefakty"
 
 msgid " or exile all creatures"
 msgstr " albo wypędź wszystkie stwory"

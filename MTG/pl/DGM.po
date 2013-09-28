@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-27 11:30+0200\n"
+"PO-Revision-Date: 2013-09-28 14:18+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380277805.843051\n"
+"X-POOTLE-MTIME: 1380374308.207291\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Advent of the Wurm
@@ -178,7 +178,7 @@ msgid ""
 "Boros Mastiff gains lifelink until end of turn. (Damage dealt by a creature "
 "with lifelink also causes its controller to gain that much life.)"
 msgstr ""
-"Batalion — Ilekroć Boros Mastiff i przynajmniej dwa inne stwory atakują, "
+"Batalion: Ilekroć Boros Mastiff i przynajmniej dwa inne stwory atakują, "
 "Boros Mastiff zyskuje więź życia do końca tury. (Obrażenia zadane przez "
 "stwora z więzią życia powodują, że jego władca zyskuje tyle samo życia.)"
 
@@ -659,7 +659,6 @@ msgstr "Wielokolorowe stwory, którymi władasz, mają czujność."
 msgid "Maze's End enters the battlefield tapped."
 msgstr "Maze's End wchodzi na pole walki jako zużyty."
 
-#, fuzzy
 msgid "|tap|: Add |mana_1| to your mana pool."
 msgstr "|tap|: Dodaj |mana_1| do twojego zasobnika many."
 
@@ -818,15 +817,14 @@ msgid ""
 "Possibility Storm on the bottom of his or her library in a random order."
 msgstr ""
 "Ilekroć gracz rzuca czar z ręki, ów gracz wypędza go, następnie wypędza "
-"karty z góry swojej biblioteki do czasu aż wypędzi kartę, z którą owa karta "
-"współdzieli typ. Ten gracz może rzucić ową kartę bez płacenia jej kosztu "
-"many. Następnie kładzie on wszystkie wypędzone przez Possibility Storm karty "
-"na spodzie swojej biblioteki w losowej kolejności."
+"karty z wierzchu swojej biblioteki do czasu aż wypędzi kartę, z którą owa "
+"karta współdzieli typ. Ten gracz może rzucić ową kartę bez płacenia jej "
+"kosztu many. Następnie kładzie on wszystkie karty wypędzone przez "
+"Possibility Storm na spodzie swojej biblioteki w losowej kolejności."
 
 #: Profit // Loss (Profit)
-#, fuzzy
 msgid "Creatures you control get +1/+1 until end of turn."
-msgstr "Stwory pod twoją kontrolą dostają +1/+1 do końca tury."
+msgstr "Stwory, którymi władasz, dostają +1/+1 do końca tury."
 
 #: Progenitor Mimic
 #, fuzzy
@@ -868,13 +866,16 @@ msgid ""
 "if Pyrewild Shaman is in your graveyard, you may pay |mana_3|. If you do, return "
 "Pyrewild Shaman to your hand."
 msgstr ""
+"Ilekroć jeden lub więcej stworów, którymi władasz, zada graczowi obrażenia "
+"bojowe, jeśli Pyrewild Shaman jest w twoim cmentarzu możesz zapłacić "
+"|mana_3|. Jeśli tak zrobisz, zwróć Pyrewild Shaman do swojej ręki."
 
 #: Rakdos Cluestone
 msgid "|tap|: Add |mana_b| or |mana_r| to your mana pool."
 msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do swojego zasobnika many."
 
 msgid "|mana_b| |mana_r|, |tap|, Sacrifice Rakdos Cluestone: Draw a card."
-msgstr ""
+msgstr "|mana_b| |mana_r|, |tap|, poświęć Rakdos Cluestone: Dobierz kartę."
 
 #: Rakdos Guildgate
 msgid "Rakdos Guildgate enters the battlefield tapped."
@@ -952,7 +953,7 @@ msgstr ""
 
 #: Riot Piker
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 msgid "Riot Piker attacks each turn if able."
 msgstr "Riot Piker atakuje w każdej turze jeśli to możliwe."
@@ -966,6 +967,10 @@ msgid ""
 "Return Rot Farm Skeleton from your graveyard to the battlefield. Activate "
 "this ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_2| |mana_b| |mana_g|, połóż cztery wierzchnie karty ze swojej "
+"biblioteki do swojego cmentarza: Zwróć Rot Farm Skeleton ze swojego "
+"cmentarza na pole walki. Aktywuj tę zdolność tylko w chwili, gdy możesz "
+"rzucić obrzęd."
 
 #: Rubblebelt Maaka
 msgid ""
@@ -1012,9 +1017,8 @@ msgstr ""
 msgid "Double strike"
 msgstr "Podwójny cios"
 
-#, fuzzy
 msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
-msgstr "Savageborn Hydra wchodzi na wole walki z X znacznikami +1/+1 na niej."
+msgstr "Savageborn Hydra wchodzi na pole walki z X znacznikami +1/+1."
 
 msgid ""
 "|mana_1| |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability "
@@ -1115,6 +1119,8 @@ msgid ""
 "At the beginning of your upkeep, return a creature you control to its "
 "owner's hand."
 msgstr ""
+"Na początku swojego utrzymania zwróć stwora, którym władasz, do ręki jego "
+"właściciela."
 
 #: Steeple Roc
 msgid "Flying, first strike"
@@ -1135,6 +1141,8 @@ msgid ""
 "Battalion — Whenever Tajic, Blade of the Legion and at least two other "
 "creatures attack, Tajic gets +5/+5 until end of turn."
 msgstr ""
+"Batalion: Ilekroś Tajic, Blade of the Legion i przynajmniej dwa inne stwory "
+"atakują, Tajic dostaje +5/+5 do końca tury."
 
 #: Give // Take (Take)
 msgid ""
@@ -1144,7 +1152,7 @@ msgstr ""
 
 #: Wear // Tear (Tear)
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: Teysa, Envoy of Ghosts
 msgid "Vigilance, protection from creatures"
@@ -1307,11 +1315,11 @@ msgstr ""
 
 #: Wear // Tear (Wear)
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: Alive // Well (Well)
 msgid "You gain 2 life for each creature you control."
-msgstr ""
+msgstr "Zyskujesz 2 życia za każdego stwora, którym władasz."
 
 #: Ready // Willing (Willing)
 msgid "Creatures you control gain deathtouch and lifelink until end of turn."
