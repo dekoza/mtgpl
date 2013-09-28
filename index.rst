@@ -16,9 +16,12 @@ Tłumaczenie dodatków
 
 * :doc:`Return to Ravnica<RTR>` (18%)
 * :doc:`Gatecrash<GTC>` (11%)
-* :doc:`Dragons' Maze<DGM>` (54%)
+* :doc:`Dragons' Maze<DGM>` (81%)
 * :doc:`Magic 2014 Core Set<M14>` (100%)
 * :doc:`Theros<THS>` (100%)
+
+  * :doc:`Heroes<THS_heroes>`
+  * :doc:`Face the Hydra<THS_hydra>`
 
 Warto przeczytać
 ----------------
