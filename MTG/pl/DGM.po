@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-28 21:23\n"
-"PO-Revision-Date: 2013-09-28 22:04+0200\n"
+"PO-Revision-Date: 2013-09-28 20:37+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -14,18 +14,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
-"X-POOTLE-MTIME: 1380374308.207291\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1380397035.380210\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
 #: ../../DGM.rst:5
 msgid "Dragon's Maze"
-msgstr ""
+msgstr "Dragon's Maze (Labirynt Smoka)"
 
 # e4a31187a10046f18c298a4652efda1a
 #: ../../DGM.rst:9
+#, fuzzy
 msgid "Advent of the Wurm"
-msgstr ""
+msgstr "Advent of the Wurm"
 
 # 5fd45096577843cf83c9714446c850da
 #: ../../DGM.rst:8
@@ -34,8 +35,9 @@ msgstr "Połóż na polu walki żeton zielonego stwora Wurm 5/5 z tratowaniem."
 
 # f7319fec424944cb913ebc7f217992ff
 #: ../../DGM.rst:19
+#, fuzzy
 msgid "Ætherling"
-msgstr ""
+msgstr "Ætherling"
 
 # 2451a54d81e540aa89931afb70d4a252
 #: ../../DGM.rst:12
@@ -61,8 +63,9 @@ msgstr "|mana_1|: Ætherling dostaje -1/+1 do końca tury."
 
 # e38df00c0e304137943a4921019d7437
 #: ../../DGM.rst:25
+#, fuzzy
 msgid "Alive // Well (Alive)"
-msgstr ""
+msgstr "Alive // Well [Alive]"
 
 # 1fa25864d4d9496dbbb13a5511861f24
 #: ../../DGM.rst:22
@@ -134,8 +137,9 @@ msgstr "Fuzja (Możesz zagrać jedną lub obie połowy tej karty z ręki.)"
 
 # afc16165c5594b1bb4143f317a06724d
 #: ../../DGM.rst:31
+#, fuzzy
 msgid "Armed // Dangerous (Armed)"
-msgstr ""
+msgstr "Armed // Dangerous [Armed]"
 
 # 726108b10f5540cea74715ca6eb373e3
 #: ../../DGM.rst:28
@@ -144,13 +148,15 @@ msgstr "Wskazany stwór dostaje +1/+1 oraz Podwójny Cios do końca tury."
 
 # 8562f5a4f446494e8b1b69cee9d8508b
 #: ../../DGM.rst:33
+#, fuzzy
 msgid "Armored Wolf-Rider"
-msgstr ""
+msgstr "Armored Wolf-Rider"
 
 # f8298c606d0c4806812fc8750931b87f
 #: ../../DGM.rst:39
+#, fuzzy
 msgid "Ascended Lawmage"
-msgstr ""
+msgstr "Ascended Lawmage (Wzniesiony Prawodziej)"
 
 # c04c5fc1677e490b959579a6753d8494
 #: ../../DGM.rst:38
@@ -159,8 +165,9 @@ msgstr "Latanie, antyklątwa"
 
 # e9aff1c7d16542c681f40957d05cf387
 #: ../../DGM.rst:45
+#, fuzzy
 msgid "Far // Away (Away)"
-msgstr ""
+msgstr "Far // Away [Away]"
 
 # 94e09267ae0845c1a34c40c881794378
 #: ../../DGM.rst:42
@@ -169,8 +176,9 @@ msgstr "Latanie, Antyklątwa"
 
 # 0af335d3e7ec4276974f8b8bcc94c84d
 #: ../../DGM.rst:49
+#, fuzzy
 msgid "Awe for the Guilds"
-msgstr ""
+msgstr "Awe for the Guilds"
 
 # 303a437142fd4710bf228aef5b8021df
 #: ../../DGM.rst:48
@@ -179,8 +187,9 @@ msgstr "Jednokolorowe stwory nie mogą blokować w tej turze."
 
 # fbf66c05f0f84fff9213a6565d7fd277
 #: ../../DGM.rst:55
+#, fuzzy
 msgid "Azorius Cluestone"
-msgstr ""
+msgstr "Azorius Cluestone"
 
 # adedc50883634aaca7a05d91433f3d16
 # 5f4ccf8634304c22bbc3637210aef57a
@@ -196,8 +205,9 @@ msgstr "|mana_w| |mana_u|, |tap|, poświęć Azorius Cluestone: Dobierz kartę."
 
 # 497c827c69c844b1b3b7f2449f94fba6
 #: ../../DGM.rst:61
+#, fuzzy
 msgid "Azorius Guildgate"
-msgstr ""
+msgstr "Azorius Guildgate"
 
 # 9ba7e3ddf5144effb9cf7effc5812f3d
 #: ../../DGM.rst:58
@@ -206,13 +216,15 @@ msgstr "Azorius Guildgate wchodzi na pole walki jako zużyty."
 
 # 0a689d99b980437aa96e5a27e45b464b
 #: ../../DGM.rst:63
+#, fuzzy
 msgid "Bane Alley Blackguard"
-msgstr ""
+msgstr "Bane Alley Blackguard"
 
 # d83ef80d05944d3e82b9a0c4bb69168f
 #: ../../DGM.rst:71
+#, fuzzy
 msgid "Battering Krasis"
-msgstr ""
+msgstr "Battering Krasis"
 
 # 19f91b1071e546bda5c9f3f85c6c5112
 # c440fe7cc63e4513aed622076e6902ee
@@ -233,8 +245,9 @@ msgstr ""
 
 # e92a7cf8574643a38ecfefb1f0b3d984
 #: ../../DGM.rst:77
+#, fuzzy
 msgid "Beck // Call (Beck)"
-msgstr ""
+msgstr "Beck // Call [Beck]"
 
 # 5bc059112f0a4be3a7b883bf121648ee
 #: ../../DGM.rst:74
@@ -245,7 +258,7 @@ msgstr ""
 # b7a19ed0e5eb4d5fbdb69ee7c7d70411
 #: ../../DGM.rst:81
 msgid "Beetleform Mage"
-msgstr ""
+msgstr "Beetleform Mage (Żukokształtny Mag)"
 
 # a0ae77b4f50c4350b524dba878ba2d81
 #: ../../DGM.rst:80
@@ -256,8 +269,9 @@ msgstr ""
 
 # ad07ebe09d0d4e329d2e6e51a50e4078
 #: ../../DGM.rst:85
+#, fuzzy
 msgid "Blast of Genius"
-msgstr ""
+msgstr "Blast of Genius (Wybuch Geniuszu)"
 
 # a505e314cc604dac86b2965c5a3cfe85
 #: ../../DGM.rst:84
@@ -269,8 +283,9 @@ msgstr ""
 
 # 0a4cf1751d78404282ced83a7128ea2d
 #: ../../DGM.rst:89
+#, fuzzy
 msgid "Blaze Commando"
-msgstr ""
+msgstr "Blaze Commando"
 
 # cdae3396d816423a8f73a86f5eeeb16e
 #: ../../DGM.rst:88
@@ -282,7 +297,7 @@ msgstr ""
 # b113cdf91fb54ceaad343a3afec22943
 #: ../../DGM.rst:95
 msgid "Flesh // Blood (Blood)"
-msgstr ""
+msgstr "Flesh // Blood [Blood] (Mięso // Krew [Krew])"
 
 # 6e692244d8b04bf1965aedf49a5dfbf7
 #: ../../DGM.rst:92
@@ -311,8 +326,9 @@ msgstr ""
 
 # 0ba7ff12320c469eb2711aa6c4f3ae0e
 #: ../../DGM.rst:105
+#, fuzzy
 msgid "Blood Scrivener"
-msgstr ""
+msgstr "Blood Scrivener"
 
 # 5be88149a1f642cca49f1f6c91898492
 #: ../../DGM.rst:104
@@ -323,8 +339,9 @@ msgstr ""
 
 # 0cabd02e08464a1589915bb1cea9b2af
 #: ../../DGM.rst:109
+#, fuzzy
 msgid "Boros Battleshaper"
-msgstr ""
+msgstr "Boros Battleshaper"
 
 # 4ac0d688f954415080761f81d71f0f5c
 #: ../../DGM.rst:108
@@ -336,8 +353,9 @@ msgstr ""
 
 # 418b2a191d3d404b8b1aa481a9ca6371
 #: ../../DGM.rst:115
+#, fuzzy
 msgid "Boros Cluestone"
-msgstr ""
+msgstr "Boros Cluestone"
 
 # db7ced68354341608f4346ea0ace1e1e
 # 1e5fda36d8024873ba90c9b0a7a30328
@@ -354,8 +372,9 @@ msgstr "|mana_r| |mana_w|, |tap|, poświęć Boros Cluestone: Dobierz kartę."
 
 # a8f3f68c9e894e0297cc00a1f653663a
 #: ../../DGM.rst:121
+#, fuzzy
 msgid "Boros Guildgate"
-msgstr ""
+msgstr "Boros Guildgate"
 
 # 529f9c1321fe4c20b749a1ad315be735
 # Ciekawa koncepcja na tłumaczenie "tapped" - wymaga jeszcze pracy, ale podoba mi się koncepcja.
@@ -365,8 +384,9 @@ msgstr "Boros Guildgate wchodzi na pole walki jako zużyty."
 
 # f81b9b6664314dfd8ed9aae9f9c4ce83
 #: ../../DGM.rst:125
+#, fuzzy
 msgid "Boros Mastiff"
-msgstr ""
+msgstr "Boros Mastiff"
 
 # 9829ca75b6624519a0686d4866c3eaff
 #: ../../DGM.rst:124
@@ -378,8 +398,9 @@ msgstr ""
 
 # 063c99a88d304c619908de297096beff
 #: ../../DGM.rst:131
+#, fuzzy
 msgid "Breaking // Entering (Breaking)"
-msgstr ""
+msgstr "Breaking // Entering [Breaking]"
 
 # 4ec7f113f70f45b48fce82deaca30f29
 #: ../../DGM.rst:128
@@ -390,8 +411,9 @@ msgstr ""
 
 # 9855d8e3cc834ae3823706c773d1d6ea
 #: ../../DGM.rst:135
+#, fuzzy
 msgid "Bred for the Hunt"
-msgstr ""
+msgstr "Bred for the Hunt"
 
 # bad8bee5e0aa46d8ae718414e62b4d90
 #: ../../DGM.rst:134
@@ -414,8 +436,9 @@ msgstr ""
 
 # 7be292f2ad6c4423abb19b6c77ae8e34
 #: ../../DGM.rst:145
+#, fuzzy
 msgid "Turn // Burn (Burn)"
-msgstr ""
+msgstr "Turn // Burn [Burn]"
 
 # 2060a9ffecf84df7a6be32cc3cea8371
 #: ../../DGM.rst:142
@@ -424,8 +447,9 @@ msgstr "Burn zadaje 2 obrażenia wskazanemu stworowi lub graczowi."
 
 # 2bb0ca34a6124a77836f52dce5a5df52
 #: ../../DGM.rst:151
+#, fuzzy
 msgid "Beck // Call (Call)"
-msgstr ""
+msgstr "Beck // Call [Call]"
 
 # acbcd483de27473f96bab08dbb448a8c
 #: ../../DGM.rst:148
@@ -449,8 +473,9 @@ msgstr "|mana_1| |mana_b| |mana_r|: Zregeneruj Carnage Gladiator."
 
 # fd8a4363a19240fea17c0c7f2c39916f
 #: ../../DGM.rst:163
+#, fuzzy
 msgid "Catch // Release (Catch)"
-msgstr ""
+msgstr "Catch // Release [Catch] (Złap // Wypuść [Złap])"
 
 # 2c18b291c96f4a39b1882de830b7bbb0
 #: ../../DGM.rst:160
@@ -461,8 +486,9 @@ msgstr ""
 
 # 90e10e360c1a4077b1ccce43f32277e4
 #: ../../DGM.rst:167
+#, fuzzy
 msgid "Clear a Path"
-msgstr ""
+msgstr "Clear a Path"
 
 # 38246dd0c1bc4c52b42ef1d1f01f95e6
 #: ../../DGM.rst:166
@@ -472,7 +498,7 @@ msgstr "Zniszcz wskazanego stwora z obronnością."
 # eb8ff28328454f9b84766a8743a3bacf
 #: ../../DGM.rst:175
 msgid "Council of the Absolute"
-msgstr ""
+msgstr "Council of the Absolute (Rada Absolutu)"
 
 # a00e358dd8b746e4a2e3d80da7348b15
 #: ../../DGM.rst:170
@@ -493,8 +519,9 @@ msgstr "Czary o wybranej nazwie, które ty rzucasz, kosztują |mana_2| mniej."
 
 # 08e1a38e02814827a8cd1ae4b3238ffa
 #: ../../DGM.rst:179
+#, fuzzy
 msgid "Crypt Incursion"
-msgstr ""
+msgstr "Crypt Incursion"
 
 # 6026b13bc59345299ad6c3aa64dd5c50
 #: ../../DGM.rst:178
@@ -505,8 +532,9 @@ msgstr ""
 
 # a5ed968a8f844ea098e4a7e3332a41e6
 #: ../../DGM.rst:185
+#, fuzzy
 msgid "Armed // Dangerous (Dangerous)"
-msgstr ""
+msgstr "Armed // Dangerous [Dangerous]"
 
 # f1710e2b7def400fb577ba9faaba7651
 #: ../../DGM.rst:182
@@ -528,12 +556,11 @@ msgstr ""
 
 # 7f229971227c4f26a6587d829e1101c8
 #: ../../DGM.rst:190
-#, fuzzy
 msgid "At the beginning of your upkeep, choose a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, put it into your hand."
 msgstr ""
-"Na początku swojego utrzymania, wybierz losowo kartę ze swojego cmentarza. "
-"Jeśli jest to stwór, połóż go na polu walki. W innym razie weź tę kartę na "
-"rękę."
+"Na początku swojego utrzymania wybierz losowo kartę ze swojego cmentarza. "
+"Jeśli jest to karta stwora, połóż go na polu walki. W przeciwnym razie weź "
+"tę kartę do ręki."
 
 # 8d0390104a784404a89cfc5a145cf81a
 #: ../../DGM.rst:195
@@ -594,8 +621,9 @@ msgstr "Dimir Guildgate wchodzi na pole walki jako zużyty."
 
 # c8112746bb354adfb0a7303260dbdd61
 #: ../../DGM.rst:219
+#, fuzzy
 msgid "Down // Dirty (Dirty)"
-msgstr ""
+msgstr "Down // Dirty [Dirty]"
 
 # 34e48195605b4cc58deef872af862e56
 #: ../../DGM.rst:216
@@ -604,8 +632,9 @@ msgstr "Przywróć wskazaną kartę ze swojego cmentarza na swoją rękę."
 
 # 3f94db2e089f436a9a70e9413331bc92
 #: ../../DGM.rst:225
+#, fuzzy
 msgid "Down // Dirty (Down)"
-msgstr ""
+msgstr "Down // Dirty [Down]"
 
 # 5077102541394d94b6d688a4fbb6abd9
 #: ../../DGM.rst:222
@@ -661,8 +690,9 @@ msgstr ""
 
 # 8ac0b5e2d5d04d99ba6c5ba07f2e0351
 #: ../../DGM.rst:245
+#, fuzzy
 msgid "Breaking // Entering (Entering)"
-msgstr ""
+msgstr "Breaking // Entering [Entering]"
 
 # 6242a935293a438994caadec0e626193
 #: ../../DGM.rst:242
@@ -685,12 +715,10 @@ msgstr "Pierwszy cios, pośpiech"
 # 9b609efef36743d0938a0cabd363b3f3
 #: ../../DGM.rst:250
 #: ../../DGM.rst:586
-#, fuzzy
 msgid "Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)"
 msgstr ""
-"Poszczucie (Jeśli chcesz, ten stwór może wejśc na pole walki ze znacznikiem "
-"+1/+1 na sobie. Nie może blokować tak długo jak posiada znacznik +1/+1 na "
-"sobie.)"
+"Poszczucie (Możesz zdecydować, że ten stwór wejdzie na pole walki ze "
+"znacznikiem +1/+1. Ten stwór nie może blokować dopóki ma znacznik +1/+1.)"
 
 # 873c425aff9649b4b0cad3769b75716f
 #: ../../DGM.rst:252
@@ -699,8 +727,9 @@ msgstr "Każdy inny stwór, którym władasz, ze znacznikiem +1/+1, ma pośpiech
 
 # a0ac64a1fe9a47bbb0e5d1a0ec2df0e7
 #: ../../DGM.rst:259
+#, fuzzy
 msgid "Far // Away (Far)"
-msgstr ""
+msgstr "Far // Away [Far]"
 
 # 772cb560d82841e8a7fb052982cb4da9
 #: ../../DGM.rst:256
@@ -730,8 +759,9 @@ msgstr ""
 
 # 76e2b67833d641b28e7ef922f6cd1390
 #: ../../DGM.rst:273
+#, fuzzy
 msgid "Flesh // Blood (Flesh)"
-msgstr ""
+msgstr "Flesh // Blood [Flesh]"
 
 # 268fa5620bb84d439f532c72e0d3560c
 #: ../../DGM.rst:270
@@ -781,7 +811,7 @@ msgstr ""
 # 9820db6500054221a120befb714eee50
 #: ../../DGM.rst:289
 msgid "Give // Take (Give)"
-msgstr ""
+msgstr "Give // Take [Give] (Daj // Zabierz [Daj])"
 
 # 220b1d0c11c949bca096920a7ec9c3ea
 #: ../../DGM.rst:286
@@ -1089,7 +1119,7 @@ msgstr ""
 # 55c7665aeee9439a9c2313f617d599c2
 #: ../../DGM.rst:403
 msgid "Profit // Loss (Loss)"
-msgstr ""
+msgstr "Profit // Loss [Loss] (Zysk // Strata [Strata])"
 
 # d556eeb6bd3240de963830424eda7be4
 #: ../../DGM.rst:400
@@ -1482,7 +1512,7 @@ msgstr ""
 # 1b4b2ac815854c67afbda0aa9a78c604
 #: ../../DGM.rst:551
 msgid "Profit // Loss (Profit)"
-msgstr ""
+msgstr "Profit // Loss [Profit] (Zysk // Strata [Zysk])"
 
 # be5501bf3ea541978aafcfe7f281f3fb
 #: ../../DGM.rst:548
@@ -1506,7 +1536,7 @@ msgstr ""
 # e77c587774f24c95ab3750d3fd6c91cf
 #: ../../DGM.rst:561
 msgid "Protect // Serve (Protect)"
-msgstr ""
+msgstr "Protect // Serve [Protect] (Chroń // Służ [Chroń])"
 
 # 5e38519ffde34c31adb64e418bd1630a
 #: ../../DGM.rst:558
@@ -1609,8 +1639,9 @@ msgstr ""
 
 # 7a137d063ffb468db0c6ff37560ad661
 #: ../../DGM.rst:607
+#, fuzzy
 msgid "Ready // Willing (Ready)"
-msgstr ""
+msgstr "Ready // Willing [Ready] (Gotowy // Chętny [Gotowy])"
 
 # d5939e43ac274d04b6e7611300ad81b9
 #: ../../DGM.rst:604
@@ -1636,7 +1667,7 @@ msgstr ""
 # 34a652a4cf274d9880a843f5f4e7a611
 #: ../../DGM.rst:617
 msgid "Catch // Release (Release)"
-msgstr ""
+msgstr "Catch // Release [Release] (Złap // Wypuść [Wypuść])"
 
 # c38fd836f42547fe890a0fb69518bb18
 #: ../../DGM.rst:614
@@ -1690,8 +1721,9 @@ msgstr ""
 
 # 82ba6b3507404a6fb4ed3d214182cee7
 #: ../../DGM.rst:639
+#, fuzzy
 msgid "Riot Control"
-msgstr ""
+msgstr "Riot Control (Tłumienie Zamieszek)"
 
 # 8f0353e18bbf4ee290fb68f153f94773
 #: ../../DGM.rst:638
@@ -1794,11 +1826,10 @@ msgstr ""
 
 # 70b93ff0e71248efa48f733dbacb895f
 #: ../../DGM.rst:674
-#, fuzzy
 msgid "When Saruli Gatekeepers enters the battlefield, if you control two or more Gates, you gain 7 life."
 msgstr ""
-"Kiedy Saruli Gatekeepers wchodzi na pole walki, jeśli kontrolujesz dwa lub "
-"więcej Gate'y, zyskujesz 7 życia."
+"Kiedy Saruli Gatekeepers wchodzi na pole walki, jeśli władasz przynajmniej "
+"dwiema Bramami zyskujesz 7 życia."
 
 # c9f3c3a0462e49aebc076f5af38efbd6
 #: ../../DGM.rst:683
@@ -1847,9 +1878,9 @@ msgstr ""
 msgid "When Scion of Vitu-Ghazi enters the battlefield, if you cast it from your hand, put a 1/1 white Bird creature token with flying onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
 msgstr ""
 "Kiedy Scion of Vitu-Ghazi wchodzi na pole walki, jeśli był rzucony z ręki, "
-"połóż białego stwora Ptaka 1/1 z lataniem, będącego żetonem, na pole walki, "
-"następnie zaludnij. (Połóż żeton na pole walki będący kopią żetonu stwora, "
-"którego kontrolujesz.)"
+"połóż na polu walki żeton białego stwora Bird 1/1 z lataniem, a następnie "
+"zaludnij. (Połóż na polu walki żeton będący kopią władanego przez ciebie "
+"żetonu stwora.)"
 
 # 38117d0636ed450181bc5422e092b85a
 #: ../../DGM.rst:697
@@ -1880,8 +1911,9 @@ msgstr "Selesnya Guildgate wchodzi na pole walki jako zużyty."
 
 # 6f2884c5326e4e47a72b18b3e5ee9e36
 #: ../../DGM.rst:709
+#, fuzzy
 msgid "Protect // Serve (Serve)"
-msgstr ""
+msgstr "Protect // Serve [Serve] (Chroń // Służ [Służ])"
 
 # 8e5155ebdaf14ad1b19b761ab3ce677a
 #: ../../DGM.rst:706
@@ -2048,8 +2080,9 @@ msgstr ""
 
 # 58a465c7d95146eea5657425b6ce96af
 #: ../../DGM.rst:779
+#, fuzzy
 msgid "Give // Take (Take)"
-msgstr ""
+msgstr "Give // Take [Take] (Daj // Weź [Weź])"
 
 # 61b5574ab6fd4a97aad3eadc8821b0f5
 #: ../../DGM.rst:776
@@ -2060,8 +2093,9 @@ msgstr ""
 
 # 1bc071fb72f24aaaa4b765d9ec6e78ea
 #: ../../DGM.rst:785
+#, fuzzy
 msgid "Wear // Tear (Tear)"
-msgstr ""
+msgstr "Wear // Tear [Tear]"
 
 # b4bbf57898ba4cceae6bb3e8df2d720d
 #: ../../DGM.rst:782
@@ -2117,8 +2151,9 @@ msgstr ""
 
 # 5721c486428246109467ac0469096a02
 #: ../../DGM.rst:809
+#, fuzzy
 msgid "Toil // Trouble (Toil)"
-msgstr ""
+msgstr "Toil // Trouble [Toil]"
 
 # b5de698f4241477bbb71866cd093ff61
 #: ../../DGM.rst:806
@@ -2152,8 +2187,9 @@ msgstr ""
 
 # c9a15f40526b4304baa18a20ce9d81f2
 #: ../../DGM.rst:825
+#, fuzzy
 msgid "Toil // Trouble (Trouble)"
-msgstr ""
+msgstr "Toil // Trouble [Trouble]"
 
 # 57e723431aad48e9b224d1333cbf2d20
 #: ../../DGM.rst:822
@@ -2164,8 +2200,9 @@ msgstr ""
 
 # 537ed513057149d9a8af2e61a5a69aa4
 #: ../../DGM.rst:831
+#, fuzzy
 msgid "Turn // Burn (Turn)"
-msgstr ""
+msgstr "Turn // Burn [Turn]"
 
 # faea0a9b9fe040f994df1c9ec9759140
 #: ../../DGM.rst:828
@@ -2326,8 +2363,9 @@ msgstr ""
 
 # dbfafa5b1f7540b6bb11a2cad855a57b
 #: ../../DGM.rst:889
+#, fuzzy
 msgid "Wear // Tear (Wear)"
-msgstr ""
+msgstr "Wear // Tear [Wear]"
 
 # d6d432565b88412788cc83949bb87499
 #: ../../DGM.rst:886
@@ -2336,8 +2374,9 @@ msgstr "Zniszcz wskazany artefakt."
 
 # 74374413a10945e7b611957d292c948a
 #: ../../DGM.rst:895
+#, fuzzy
 msgid "Alive // Well (Well)"
-msgstr ""
+msgstr "Alive // Well [Well]"
 
 # f7404a2c4a454941a8c8288b1c886ae6
 #: ../../DGM.rst:892
@@ -2346,8 +2385,9 @@ msgstr "Zyskujesz 2 życia za każdego stwora, którym władasz."
 
 # 12e25bc208004725b41a72f118aab371
 #: ../../DGM.rst:901
+#, fuzzy
 msgid "Ready // Willing (Willing)"
-msgstr ""
+msgstr "Ready // Willing [Willing] (Gotowy // Chętny [Chętny])"
 
 # 12cd6d90fa5d4697a922200c90467ced
 #: ../../DGM.rst:898

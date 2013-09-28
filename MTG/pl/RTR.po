@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 02:36+0200\n"
-"PO-Revision-Date: 2013-09-27 07:09+0200\n"
+"PO-Revision-Date: 2013-09-28 20:26+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380262152.79305\n"
+"X-POOTLE-MTIME: 1380396398.161613\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Abrupt Decay
@@ -228,6 +228,8 @@ msgid ""
 "Unleash (You may have this creature enter the battlefield with a +1/+1 "
 "counter on it. It can't block as long as it has a +1/+1 counter on it.)"
 msgstr ""
+"Poszczucie (Możesz zdecydować, że ten stwór wejdzie na pole walki ze "
+"znacznikiem +1/+1. Ten stwór nie może blokować dopóki ma znacznik +1/+1.)"
 
 #: Blustersquall
 msgid "Tap target creature you don't control."
