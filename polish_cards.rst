@@ -1,4 +1,4 @@
-.. polish tokens
+.. polish cards
 
 ===============
  Polskie karty
@@ -9,8 +9,36 @@ Wszystkie karty zostały przygotowane w programie `Magic Set Editor`_.
 Lądy
 ----
 
+Las (Forest)
+    |image_forest_1|
+
+Wyspa (Island)
+    |image_island_1|
+
+Góra (Mountain)
+    |image_mountain_1| |image_mountain_2|
+
+Równina (Plains)
+    |image_plains_1| |image_plains_2| |image_plains_3|
+
+Bagno (Swamp)
+    |image_swamp_1| |image_swamp_2| 
 
 
+.. |image_forest_1| image:: images/lands/forest_1.png
+.. |image_forest_2| image:: images/lands/forest_2.png
+
+.. |image_island_1| image:: images/lands/island_1.png
+
+.. |image_mountain_1| image:: images/lands/mountain_1.png
+.. |image_mountain_2| image:: images/lands/mountain_2.png
+
+.. |image_plains_1| image:: images/lands/plains_1.png
+.. |image_plains_2| image:: images/lands/plains_2.png
+.. |image_plains_3| image:: images/lands/plains_3.png
+
+.. |image_swamp_1| image:: images/lands/swamp_1.png
+.. |image_swamp_2| image:: images/lands/swamp_2.png
 
 Żetony
 ------
@@ -18,7 +46,7 @@ Lądy
 Bestia (Beast)
     Pojawia się w znacznej części dodatków, ostatnio w Magic 2013.
     
-    |image_beast_1|
+    |image_beast_1| |image_beast_2| |image_beast_3|
 
 Ptak (Bird) Niebieski
     Pojawił się w dodatku :doc:`Theros<THS>`.
@@ -30,6 +58,11 @@ Ptak (Bird) Biały
     
     |image_bird_2| |image_bird_3|
 
+Knur (Boar)
+    Pojawił się w dodatku :doc:`Theros<THS>`.
+    
+    |image_boar_1|
+
 Rycerz (Knight)
     Obecny w bloku :doc:`Return to Ravnica<RTR>`
 
@@ -38,7 +71,7 @@ Rycerz (Knight)
 Drzazgul (Sliver)
     Obecny w podstawce :doc:`Magic 2014<M14>`.
     
-    |image_sliver|
+    |image_sliver_1|
 
 
 Piechur (Soldier) Biały
@@ -68,9 +101,11 @@ Wilk (Wolf)
 .. _Magic Set Editor: http://magicseteditor.sourceforge.net/
 
 
-.. |image_sliver| image:: images/tokens/sliver.jpg
+.. |image_sliver_1| image:: images/tokens/sliver_1.jpg
 
 .. |image_beast_1| image:: images/tokens/beast_1.jpg
+.. |image_beast_2| image:: images/tokens/beast_2.jpg
+.. |image_beast_3| image:: images/tokens/beast_3.jpg
 
 .. |image_bird_1| image:: images/tokens/bird_1.jpg
 .. |image_bird_2| image:: images/tokens/bird_2.jpg
@@ -88,3 +123,5 @@ Wilk (Wolf)
 .. |image_soldier_4| image:: images/tokens/soldier_4.jpg
 
 .. |image_wolf_1| image:: images/tokens/wolf_1.jpg
+
+.. |image_boar_1| image:: images/tokens/boar_1.jpg
