@@ -6,11 +6,13 @@
 
 Wszystkie karty zostały przygotowane w programie `Magic Set Editor`_.
 
+W miarę możliwości starałem się korzystać ze zdjęć lub rysunków zrobionych w Polsce lub z Polską się kojarzących.
+
 Lądy
 ----
 
 Las (Forest)
-    |image_forest_1|
+    |image_forest_1| |image_forest_2|
 
 Wyspa (Island)
     |image_island_1|

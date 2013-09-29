@@ -891,6 +891,25 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 =====================
 
 .. glossary::
+    :sorted:
+
+
+    Ability
+        Any text on a permanent (except reminder text and flavor text) tells
+        you the permanent's abilities. There are three kinds of abilities a
+        permanent can have: activated abilities, static abilities, and triggered
+        abilities. Unless they say otherwise, abilities "work" only while the
+        permanent they're on is on the battlefield. Once a triggered ability
+        triggers or an activated ability is activated, it will resolve unless
+        it's countered; it doesn't matter what happens to the source of the
+        ability once the ability goes on the stack. See :ref:`Activated Abilities`
+        [on page 12].
+
+    Activate
+        You activate an activated ability by putting it on the stack. You
+        activate an ability just as you cast a spell: announce it, choose its
+        targets, and pay its activation cost. See :ref:`Activated Abilities`
+        [on page 12].
 
     |mana_1|, |mana_2|, |mana_3|, and so on, |mana_x|
         One of these generic mana symbols in a cost means "this many of
@@ -942,22 +961,6 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         you control four Swamps when Nightmare enters the battlefield, it
         will be 4/4. If you play more Swamps later on, it will get even bigger.
 
-    Ability
-        Any text on a permanent (except reminder text and flavor text) tells
-        you the permanent's abilities. There are three kinds of abilities a
-        permanent can have: activated abilities, static abilities, and triggered
-        abilities. Unless they say otherwise, abilities "work" only while the
-        permanent they're on is on the battlefield. Once a triggered ability
-        triggers or an activated ability is activated, it will resolve unless
-        it's countered; it doesn't matter what happens to the source of the
-        ability once the ability goes on the stack. See :ref:`Activated Abilities`
-        [on page 12].
-
-    Activate
-        You activate an activated ability by putting it on the stack. You
-        activate an ability just as you cast a spell: announce it, choose its
-        targets, and pay its activation cost. See :ref:`Activated Abilities`
-        [on page 12].
 
     Activated ability
         One of the three kinds of abilities a permanent can have. An
