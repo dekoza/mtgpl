@@ -1971,32 +1971,32 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
         1. Beginning phase
 
-            a. Untap step
-            b. Upkeep step
-            c. Draw step
+           a. Untap step
+           b. Upkeep step
+           c. Draw step
 
         2. Main phase
 
         3. Combat phase
 
-            a. Beginning of combat step
-            b. Declare attackers step
-            c. Declare blockers step
-            d. Combat damage step
-            e. End of combat step
+           a. Beginning of combat step
+           b. Declare attackers step
+           c. Declare blockers step
+           d. Combat damage step
+           e. End of combat step
 
         4. Main phase (again)
 
         5. Ending phase
 
-            a. End step
-            b. Cleanup step
+           a. End step
+           b. Cleanup step
 
     Two-Headed Giant
-        :ref:See `Multiplayer Variants` [on page 20].
+        See :ref:`Multiplayer Variants` [on page 20].
 
     Type line
-        :ref:See `Parts of a Card` [on page 5].
+        See :ref:`Parts of a Card` [on page 5].
 
     Unblocked
         A creature is unblocked only if it's attacking and the defending
