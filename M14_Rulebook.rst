@@ -77,8 +77,6 @@ from dank **Swamps**, where things fester and rot. You are as selfish and twiste
 the undead creatures and unspeakable horrors you command.
 
 
-.. _sec-parts-of-card
-
 Parts of a Card
 ---------------
 
@@ -87,13 +85,13 @@ Card Name
 
 Mana Cost
 ~~~~~~~~~
-*Mana* is the main resource in the game. It's produced by lands, and you spend it to cast *spells*.
+*:term:`Mana`* is the main resource in the game. It's produced by lands, and you spend it to cast *spells*.
 The symbols in a card's upper right corner tell you the cost to cast that spell. If the mana cost reads
 |mana_4| |mana_r| |mana_r|, you pay four mana of any kinds plus two red mana (from two Mountains) to cast it.
 
 Type Line
 ~~~~~~~~~
-This tells you the card's *card type*: artifact, creature, enchantment, instant, land,
+This tells you the card's *:term:`card type`*: artifact, creature, enchantment, instant, land,
 planeswalker, or sorcery. If the card has a *subtype* or *supertype*, that's also listed
 here. For example, Shivan Dragon is a creature, and its subtype is the creature
 type Dragon.
@@ -124,7 +122,6 @@ The collector number makes it easier to organize
 your cards. For example, "154/249" means that the
 card is the 154th of 249 cards in its set.
 
-.. _sec-card-types:
 
 Card Types
 ----------
@@ -132,7 +129,6 @@ Card Types
 Every **Magic** card has one or more types. A card's type tells you when you can play the card and what
 happens to the card after you do.
 
-.. _sec-sorcery:
 
 Sorcery
 ~~~~~~~
@@ -142,7 +138,6 @@ on the *stack*. (You'll learn about phases and the stack in a bit.) A sorcery ha
 its *effect*—in other words, you follow the instructions on the card—then you put
 it into your *graveyard*, which is the game term for your discard pile.
 
-.. _sec-instant:
 
 Instant
 ~~~~~~~
@@ -150,7 +145,6 @@ An instant is just like a sorcery, except you can cast it just about any time
 you want, even during your opponent's turn or *in response* to another spell.
 Like a sorcery, an instant has its effect, then you put it into your graveyard.
 
-.. _sec-enchantment:
 
 Enchantment
 ~~~~~~~~~~~
@@ -167,7 +161,6 @@ a permanent and affects that permanent while it's on the battlefield. If the
 enchanted permanent leaves the battlefield, the Aura is put into its owner's
 graveyard.
 
-.. _sec-artifact:
 
 Artifact
 ~~~~~~~~
@@ -179,7 +172,6 @@ Some artifacts are *Equipment*. You can pay to attach an Equipment to a creature
 creature more powerful. If an equipped creature leaves the battlefield, the Equipment doesn't—the creature
 drops it and it remains on the battlefield.
 
-.. _sec-creature:
 
 Creature
 ~~~~~~~~
@@ -197,7 +189,6 @@ Artifact creatures are both artifacts and creatures. They're usually colorless l
 can attack and block like other creatures. An artifact creature can be affected by anything that affects
 artifacts, as well as anything that affects creatures.
 
-.. _sec-planeswalker:
 
 Planeswalker
 ~~~~~~~~~~~~
@@ -216,7 +207,6 @@ your opponents can damage them with their spells and abilities instead of damagi
 to a planeswalker causes it to lose that many loyalty counters. If a planeswalker has no loyalty counters, it's
 put into your graveyard.
 
-.. _sec-land:
 
 Land
 ~~~~
@@ -281,7 +271,6 @@ last spell or ability that was put onto the stack resolves, and players get a ch
 to cast spells and activate abilities again. (You'll learn more about casting spells
 and activating abilities in the next section.) This zone is shared by both players.
 
-.. _sec-battlefield:
 
 Battlefield
 ~~~~~~~~~~~
@@ -292,7 +281,6 @@ after they resolve. You can arrange your permanents however you want (we
 recommend putting lands closest to you), but your opponent must be able to see
 all of them and tell whether they're *tapped*. This zone is shared by both players.
 
-.. _sec-graveyard:
 
 Graveyard
 ~~~~~~~~~
@@ -318,7 +306,6 @@ are on the stack. (When you put a spell on the stack,
 you take the card from your hand and put it in the
 middle of the table until it finishes resolving.)
 
-.. _sec-building-blocks:
 
 ================================
  Section 2: The Building Blocks
@@ -328,7 +315,7 @@ This section describes the actions that you'll take during a game. You'll learn 
 make mana, which is the resource you need to cast spells. You'll learn how to cast a spell,
 as well as how to use abilities. You'll also learn how to attack and block with your creatures.
 The section finisheswith a brief description of how to build your first deck and an explanation
-of the game's :ref:`Golden Rule <sec-golden-rule>`.
+of the game's :ref:`Golden Rule`.
 
 Making Mana
 -----------
@@ -336,7 +323,7 @@ Making Mana
 To do just about anything else in the game, you first need to be
 able to make mana. Think of mana as Magic money—it's what
 you use to pay most costs. Each mana is either one of the five
-**Magic** *colors* or is *colorless*. When a cost requires colored mana,
+**Magic** *colors* or is :term:`colorless`. When a cost requires colored mana,
 you'll see colored mana symbols (|mana_w| for white, |mana_u| for blue, |mana_b|
 for black, |mana_r| for red, |mana_g| for green). When any kind of mana
 can be used to pay the cost, you'll see a symbol with a number
@@ -345,7 +332,7 @@ in it (like |mana_2|).
 Where does mana come from? Nearly every land in the game
 has an ability that produces mana. Basic lands just have a large
 mana symbol in their text boxes to show this—you can tap one
-of them to add one mana of that color to your *mana pool*. (Your
+of them to add one mana of that color to your :term:`mana pool`. (Your
 mana pool is where mana is stored until you spend it.) Other
 lands, as well as some creatures, artifacts, and spells, may also
 make mana. They'll say something like "Add |mana_g| to your mana
@@ -446,7 +433,7 @@ follow the instructions on the card), then you put the card into
 your graveyard. If the spell is a creature, artifact, enchantment,
 or planeswalker, you put the card on the table in front of you,
 near your lands. The card is now on the battlefield. Any of your
-cards on the battlefield is called a *permanent* because it sticks
+cards on the battlefield is called a :term:`permanent` because it sticks
 around permanently (well, until something happens to it). Many
 permanents have abilities, which is text on them that affects the
 game.
@@ -490,7 +477,6 @@ it! When the Show of Valor tries to resolve,
 its only target is no longer on the battlefield,
 so it's countered (it does nothing).
 
-.. _sec-abilities:
 
 Abilities
 ---------
@@ -519,7 +505,6 @@ ability came from leaves the battlefield, the ability will still resolve.
 You can't choose to delay or ignore a triggered ability. However, if the ability targets something or
 someone but you can't choose a legal target for it, the ability won't do anything.
 
-.. _sec-activated-abilities:
 
 Activated Abilities
 ~~~~~~~~~~~~~~~~~~~
@@ -539,12 +524,12 @@ Keywords
 ~~~~~~~~
 Some permanents have abilities that are shortened to a single word or phrase. Many of these have
 *reminder text* that gives you a brief description of the ability's effect. Keyword abilities in the core set
-include deathtouch, defender, enchant, equip, first strike, flash, flying, haste, hexproof, indestructible,
-landwalk (such as swampwalk or forestwalk), lifelink, protection, reach, trample, and vigilance. Most
+include :term:`deathtouch`, :term:`defender`, :term:`enchant`, :term:`equip`, :term:`first strike`, :term:`flash`,
+:term:`flying`, :term:`haste`, :term:`hexproof`, :term:`indestructible`, :term:`landwalk` (such as swampwalk
+or forestwalk), :term:`lifelink`, :term:`protection`, :term:`reach`, :term:`trample`, and :term:`vigilance`. Most
 of these are static abilities, but keyword abilities can also be triggered abilities or activated abilities.
 Detailed explanations of each of these abilities can be found in the glossary at the end of this rulebook.
 
-.. _sec-attacking-and-blocking:
 
 Attacking and Blocking
 ----------------------
@@ -553,7 +538,7 @@ The primary way to win the game is to attack with your creatures. If a creature 
 blocked, it deals damage equal to its power to him or her. It doesn't take that many hits to drop your opponent all the
 way from 20 life to 0!
 
-The middle of each turn is the *combat phase*. (You'll learn about the :ref:`parts of the turn <sec-parts-of-turn`
+The middle of each turn is the :term:`combat phase`. (You'll learn about the :ref:`parts of the turn<parts-of-the-turn>`
 in a bit.) In your combat phase, you choose which of your creatures will attack, and you choose who or what they will
 attack. Each one can attack your opponent or one of your opponent's planeswalkers, but not any of his or her creatures.
 You tap the attacking creatures. They all attack at the same time, even if they're attacking different things.
@@ -640,7 +625,6 @@ current block, the block that was released the previous October, and the most re
 events are available all year, worldwide. When you're ready to start exploring other Magic formats, go to `Wizards.com/MagicFormats`_ for
 more information.
 
-.. _sec-golden-rule:
 
 The Golden Rule
 ---------------
@@ -670,7 +654,7 @@ use as counters or tokens.
 
 When you're first getting started, you may want to pick up a ready-to-play deck, such as an intro pack or event deck, or
 borrow a deck from a friend. After you've built up your collection, try building your own deck using
-:ref:`the guidelines <sec-building-own-deck>` [on page 15].
+:ref:`the guidelines <building your own deck>` [on page 15].
 
 
 Get a Friend
@@ -694,7 +678,6 @@ don't like your opening hand, you can mulligan. Shuffle your hand back into your
 a new hand of six cards. You can keep doing this, drawing a hand of one fewer card each
 time, until you decide to keep your cards.
 
-.. _sec-parts-of-turn:
 
 Parts of the Turn
 -----------------
@@ -957,19 +940,19 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         permanent they're on is on the battlefield. Once a triggered ability
         triggers or an activated ability is activated, it will resolve unless
         it's countered; it doesn't matter what happens to the source of the
-        ability once the ability goes on the stack. See :ref:`Activated Abilities <sec-activated-abilities>`
+        ability once the ability goes on the stack. See :ref:`Activated Abilities`
         [on page 12].
 
     Activate
         You activate an activated ability by putting it on the stack. You
         activate an ability just as you cast a spell: announce it, choose its
-        targets, and pay its activation cost. See :ref:`Activated Abilities <sec-activated-abilities>`
+        targets, and pay its activation cost. See :ref:`Activated Abilities`
         [on page 12].
 
     Activated ability
         One of the three kinds of abilities a permanent can have. An
         activated ability is always written in the form "cost: effect." See
-        :ref:`Abilities <sec-abilities>` [on page 12].
+        :ref:`Abilities` [on page 12].
 
     Active player
         The player whose turn it is. The active player always gets the first
@@ -985,10 +968,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         cards.
 
     Artifact
-        A card type. See :ref:`Artifact <sec-artifact>` [on page 6].
+        A card type. See :ref:`Artifact` [on page 6].
 
     Artifact creature
-        This is both an artifact and a creature. See :ref:`Creature <sec-creature>` [on page 6].
+        This is both an artifact and a creature. See :ref:`Creature` [on page 6].
 
     Attack
         How your creatures deal damage to your opponent. During
@@ -998,7 +981,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         to tap. Creatures can attack only players or planeswalkers, not
         other creatures. Your opponent then gets a chance to block your
         attacking creatures with his or her own creatures. See
-        :ref:`Attacking and Blocking <sec-attacking-and-blocking>` [on page 13].
+        :ref:`Attacking and Blocking` [on page 13].
 
     Attacking creature
         A creature that's attacking. A creature is attacking from the time
@@ -1036,7 +1019,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         Add |mana_g| to your mana pool."
 
     Battlefield
-        A game zone. See :ref:`Battlefield <sec-battlefield>` [on page 8].
+        A game zone. See :ref:`Battlefield` [on page 8].
 
     Block
         To stop an attacking creature from damaging you or one of your
@@ -1047,7 +1030,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         untapped creatures gang up and block a single attacking creature. If
         an attacker is blocked, it will deal its combat damage to the creature
         blocking it instead of to the player or planeswalker it was attacking.
-        Blocking is optional. See :ref:`Attacking and Blocking <sec-attacking-and-blocking>`
+        Blocking is optional. See :ref:`Attacking and Blocking`
         [on page 13].
 
     Blocked creature
@@ -1077,7 +1060,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         `Wizards.com/Locator`_.
 
     Booster Draft
-        See :ref:`Limited Formats <sec-limited-formats>` [on page 19].
+        See :ref:`Limited Formats` [on page 19].
 
     Card type
         Every card in your deck has at least one card type: artifact, creature,
@@ -1092,7 +1075,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         can be cast at different times, but the things you have to do to
         cast a spell are always the same: announce it, choose its targets
         (and make certain other choices right away), and pay its cost. See
-        :ref:`Spells <sec-spells>` [on page 10].
+        :ref:`Spells` [on page 10].
 
     Choose one —
         When you see the phrase "Choose one —" on a card, you have to
@@ -1128,10 +1111,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         creature's ability during combat.
 
     Combat damage step
-        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+        See :ref:`Parts of the Turn` [on page 17].
 
     Combat phase
-        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+        See :ref:`Parts of the Turn` [on page 17].
 
     Command zone
         A game zone used for objects that affect the game but aren't
@@ -1212,7 +1195,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         anything you want as counters: glass beads, dice, or whatever.
 
     Creature
-        A card type. See :ref:`Creature <sec-creature>` [on page 6].
+        A card type. See :ref:`Creature` [on page 6].
 
     Creature type
         This tells you what kind of creature a creature is, such as Goblin,
@@ -1254,10 +1237,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         Once the game starts, your deck becomes your library.
 
     Declare attackers step
-        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+        See :ref:`Parts of the Turn` [on page 17].
 
     Declare blockers step
-        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+        See :ref:`Parts of the Turn` [on page 17].
 
     Defender
         A keyword ability seen on creatures. Creatures with defender can't
@@ -1316,7 +1299,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         use the word "draw," it doesn't count as drawing a card.
 
     Draw step
-        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+        See :ref:`Parts of the Turn` [on page 17].
 
     Draw the game
         The other meaning of "draw" is a game that ends with no winner.
@@ -1325,9 +1308,9 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
     Effect
         What a spell or ability does when it resolves. There are several
-        types of effects: one-shot effects, continuous effects, prevention
-        effects, and replacement effects. You can look up each one in this
-        glossary.
+        types of effects: :term:`one-shot effects`, :term:`continuous effects`,
+        :term:`prevention effects`, and :term:`replacement effects`.
+        You can look up each one in this glossary.
 
     Emblem
         Some planeswalkers' abilities create an emblem that leaves a
@@ -1353,13 +1336,13 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         life from its lifelink ability.
 
     Enchantment
-        A card type. See :ref:`Enchantment <sec-enchantment>` [on page 6].
+        A card type. See :ref:`Enchantment` [on page 6].
 
     End of combat step
-        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+        See :ref:`Parts of the Turn` [on page 17].
 
     End step
-        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+        See :ref:`Parts of the Turn` [on page 17].
 
     Enters the battlefield
         When artifact, creature, enchantment, and planeswalker spells
@@ -1405,10 +1388,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
     Exile
         A game zone. Exile is essentially a holding area for cards. If a spell
         or ability exiles a card, that card is moved to the exile zone from
-        wherever it is. See :ref:`Exile <sec-exile>` [on page 8].
+        wherever it is. See :ref:`Exile` [on page 8].
 
     Expansion symbol
-        See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5].
+        See :ref:`Parts of a Card` [on page 5].
 
     Fight
         Some effects cause a creature to fight another creature. When two
@@ -1441,13 +1424,13 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         blocked except by creatures with flying or reach.
 
     Forestwalk
-        A kind of landwalk. See the glossary entry for "Landwalk."
+        A kind of landwalk. See the glossary entry for :term:`Landwalk`.
 
     Graveyard
-        A game zone. See :ref:`Graveyard <sec-graveyard>` [on page 8].
+        A game zone. See :ref:`Graveyard` [on page 8].
 
     Hand
-        A game zone. See :ref:`Hand <sec-hand>` [on page 8].
+        A game zone. See :ref:`Hand` [on page 8].
 
     Haste
         A keyword ability seen on creatures. A creature with haste can
@@ -1463,14 +1446,14 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
     Indestructible
         An indestructible permanent can't be destroyed by damage or by
         effects that say "destroy." It can still be put into the graveyard for
-        other reasons. See the glossary entry for :ref:`Destroy <gl-destroy>`.
+        other reasons. See the glossary entry for :term:`Destroy`.
 
     Instant
-        A card type. See :ref:`Instant <sec-instant>` [on page 6].
+        A card type. See :ref:`Instant` [on page 6].
 
     Instead
         When you see this word, you know a spell or ability creates a replacement
-        effect. See the glossary entry for "Replacement effect."
+        effect. See the glossary entry for :term:`Replacement effect`.
 
     Intimidate
         A keyword ability seen on creatures. A creature with intimidate
@@ -1490,13 +1473,13 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         `Wizards.com/Locator`_.
 
     Islandwalk
-        A kind of landwalk. See the glossary entry for :ref:`Landwalk <gl-landwalk>`.
+        A kind of landwalk. See the glossary entry for :term:`Landwalk`.
 
     Land
-        A card type. See :ref:`Land <sec-land>` [on page 7].
+        A card type. See :ref:`Land` [on page 7].
 
     Land type
-        A subtype of a land. See the glossary entry for :ref:`Basic land type <gl-basic-land-type>`.
+        A subtype of a land. See the glossary entry for :term:`Basic land type`.
 
     Landwalk
         Landwalk is the name for a group of keyword abilities that
@@ -1521,7 +1504,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         with the same name.) This is known as the "legend rule."
 
     Library
-        A game zone. See :ref:`Library <sec-library>` [on page 8].
+        A game zone. See :ref:`Library` [on page 8].
 
     Life, life total
         Each player begins the game with 20 life. When you're dealt
@@ -1537,7 +1520,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
     Limited
         A group of play formats using cards from booster packs you open
-        just before you play. See :ref:`Limited Formats <sec-limited-formats>` [on page 19].
+        just before you play. See :ref:`Limited Formats` [on page 19].
 
     Losing life
         All damage dealt to you causes you to lose life, which is why
@@ -1552,11 +1535,11 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         a planeswalker's activated abilities is to put loyalty counters on it or remove
         loyalty counters from it. Each 1 damage dealt to a planeswalker causes a loyalty
         counter to be removed from it. If a planeswalker has no loyalty counters on it,
-        it's put into its owner's graveyard. See also :ref:`Planeswalker <sec-planeswalker>`
+        it's put into its owner's graveyard. See also :ref:`Planeswalker`
         [on page 7].
 
     Main phase
-        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+        See :ref:`Parts of the Turn` [on page 17].
 
     Mana
         The magical energy you use to pay for spells and some abilities.
@@ -1572,8 +1555,8 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         the mana immediately.
 
     Mana cost
-        See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5]. Also see the glossary entry for
-        "Converted mana cost."
+        See :ref:`Parts of a Card` [on page 5].
+        Also see the glossary entry for :term:`Converted mana cost`.
 
     Mana pool
         The place where your mana is stored until you spend it or until
@@ -1592,7 +1575,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         for more information.
 
     Mountainwalk
-        A kind of landwalk. See the glossary entry for :ref:`Landwalk <gl-landwalk>`.
+        A kind of landwalk. See the glossary entry for :term:`Landwalk`.
 
     Mulligan
         At the beginning of a Magic game, you draw the top seven
@@ -1609,11 +1592,11 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         Most multicolored cards have a gold background.
 
     Multiplayer game
-        A Magic game that starts with more than two players in it. See
-        :ref:`Multiplayer Variants <sec-multiplayer-variants` [on page 20].
+        A Magic game that starts with more than two players in it.
+        See :ref:`Multiplayer Variants` [on page 20].
 
     Name
-        See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5].
+        See :ref:`Parts of a Card` [on page 5].
 
         When a card's name appears in its text box, the card is referring
         to itself, not to any other cards with the same name.
@@ -1675,14 +1658,14 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         One of the main sections of a turn. There are five: beginning phase,
         first main phase, combat phase, second main phase, and ending
         phase. Some phases are divided into steps. If a player has mana left
-        over as a step or phase ends, that mana is lost. See
-        :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+        over as a step or phase ends, that mana is lost.
+        See :ref:`Parts of the Turn` [on page 17].
 
     Planechase
         A multiplayer variant that features oversized plane cards.
 
     Planeswalker
-        A card type. See :ref:`Planeswalker <sec-planeswalker>` [on page 7].
+        A card type. See :ref:`Planeswalker` [on page 7].
 
     Planeswalker type
         A subtype of a planeswalker. If a player controls two or more
@@ -1802,7 +1785,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
         Although a permanent with a regeneration shield can't be
         destroyed, it can still be put into the graveyard for other reasons.
-        See the glossary entry for :ref:`Destroy <gl-destroy>`.
+        See the glossary entry for :term:`Destroy`.
 
     Reminder text
         Italic text in parentheses (like this) in the text box that reminds you
@@ -1838,8 +1821,8 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
     Respond, in response
         To cast an instant or activate an activated ability right after another
-        spell or ability has been put on the stack. See
-        :ref:`Responding to a Spell <sec-responding-to-spell>` [on page 10].
+        spell or ability has been put on the stack.
+        See :ref:`Responding to a Spell` [on page 10].
 
     Reveal
         When you reveal a card, it's shown to all the players in the game.
@@ -1852,7 +1835,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         only if a spell or ability tells you to, or if it's part of a cost.
 
     Sealed Deck
-        See :ref:`Limited Formats <sec-limited-formats>` [on page 19].
+        See :ref:`Limited Formats` [on page 19].
 
     Shuffle
         To randomize the order of the cards in your deck. At the beginning
@@ -1877,7 +1860,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         least 40 cards.
 
     Sorcery
-        A card type. See :ref:`Sorcery <sec-sorcery>` [on page 5].
+        A card type. See :ref:`Sorcery` [on page 5].
 
     Source
         Where damage or an ability came from. Once an ability has gone
@@ -1890,7 +1873,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         it, it's a creature spell. When it resolves, it becomes a creature.
 
     Stack
-        A game zone. See :ref:`The Stack <sec-stack>` [on page 8].
+        A game zone. See :ref:`The Stack` [on page 8].
 
     Standard
         The most popular Constructed format. It uses only the newest
@@ -1900,15 +1883,15 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         for more information.
 
     Static ability
-        One of the three types of abilities a permanent can have. See
-        :ref:`Static Abilities <sec-static-abilities>` [on page 12].
+        One of the three types of abilities a permanent can have.
+        See :ref:`Static Abilities` [on page 12].
 
     Step
         Every phase except the main phase is divided into steps. Specific
         things happen during some steps. For example, you untap your
         permanents during your untap step. If a player has mana left over
-        as a step or phase ends, that mana is lost. See :ref:`Parts of the Turn <sec-parts-of-turn>`
-        [on page 17].
+        as a step or phase ends, that mana is lost.
+        See :ref:`Parts of the Turn` [on page 17].
 
     Subtype
         All types of cards can have subtypes. Subtypes come after the
@@ -1919,9 +1902,8 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         a card with just "Land" on its type line doesn't have a subtype.
 
         A few subtypes have special rules. See the glossary entries for
-        :ref:`Aura <gl-aura>`, :ref:`Equipment <gl-equipment>`,
-        :ref:`Basic land type <gl-basic-land-type>`,
-        and :ref:`Planeswalker type <gl-planeswalker-type>`. Creature subtypes
+        :term:`Aura`, :term:`Equipment`, :term:`Basic land type`,
+        and :term:`Planeswalker type`. Creature subtypes
         don't have any special rules associated with them.
 
         Some effects can change a permanent's subtype. For example,
@@ -1938,16 +1920,16 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         specific rules associated with them.
 
     Swampwalk
-        A kind of landwalk. See the glossary entry for :ref:`Landwalk <gl-landwalk>`.
+        A kind of landwalk. See the glossary entry for :term:`Landwalk`.
 
     Tap
-        To turn a card sideways. See :ref:`Tapping <sec-tapping>` [on page 9].
+        To turn a card sideways. See :ref:`Tapping` [on page 9].
 
     Target
-        A word used in spells and abilities. See :ref:`Target <sec-target>` [on page 10].
+        A word used in spells and abilities. See :ref:`Target` [on page 10].
 
     Text box
-        See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5].
+        See :ref:`Parts of a Card` [on page 5].
 
     Token
         Some instants, sorceries, and abilities can create creatures. These
@@ -1979,11 +1961,11 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
     Triggered ability
         One of the three types of abilities a permanent can have. See
-        :ref:`Triggered Abilities <sec-triggered abilities>` [on page 12].
+        :ref:`Triggered Abilities` [on page 12].
 
     Turn
         Each turn is divided into phases, and most phases have steps. See
-        :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+        :ref:`Parts of the Turn` [on page 17].
 
         Parts of the Turn:
 
@@ -2011,10 +1993,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
             b. Cleanup step
 
     Two-Headed Giant
-        :ref:See `Multiplayer Variants <sec-multiplayer-variants>` [on page 20].
+        :ref:See `Multiplayer Variants` [on page 20].
 
     Type line
-        :ref:See `Parts of a Card <sec-parts-of-card>` [on page 5].
+        :ref:See `Parts of a Card` [on page 5].
 
     Unblocked
         A creature is unblocked only if it's attacking and the defending
@@ -2022,13 +2004,13 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
     Untap
         To turn a tapped card upright so it's ready to be used again. See
-        :ref:`Tapping <sec-tapping>` [on page 9].
+        :ref:`Tapping` [on page 9].
 
     Untap step
-        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+        See :ref:`Parts of the Turn` [on page 17].
 
     Upkeep step
-        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+        See :ref:`Parts of the Turn` [on page 17].
 
     Vigilance
         A keyword ability seen on creatures. When a creature with
@@ -2065,7 +2047,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         of that spell or ability.
 
     Zone
-        An area of play in a Magic game. See `Game Zones <sec-game-zones>`
+        An area of play in a Magic game. See `Game Zones`
         [on page 8].
 
 .. mmm
