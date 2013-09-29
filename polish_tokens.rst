@@ -11,6 +11,15 @@ Bestia (Beast)
     
     |image_beast_1|
 
+Ptak (Bird) Niebieski
+    Pojawił się w dodatku `Theros<THS>`.
+    
+    |image_bird_1|
+
+Ptak (Bird) Biały
+    Pojawia się w sporej części dodatków, ostatnio w bloku `Return to Ravnica<RTR>`.
+    
+    |image_bird_2| |image_bird_3|
 
 Rycerz (Knight)
     Obecny w bloku :doc:`Return to Ravnica<RTR>`
@@ -48,7 +57,13 @@ Wilk (Wolf)
 
 
 .. |image_sliver| image:: images/tokens/sliver.jpg
+
 .. |image_beast_1| image:: images/tokens/beast_1.jpg
+
+.. |image_bird_1| image:: images/tokens/bird_1.jpg
+.. |image_bird_2| image:: images/tokens/bird_2.jpg
+.. |image_bird_3| image:: images/tokens/bird_3.jpg
+
 
 .. |image_knight_1| image:: images/tokens/knight_1.png
 .. |image_knight_2| image:: images/tokens/knight_2.png
