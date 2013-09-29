@@ -637,7 +637,7 @@ cards you want to try. The best part about trading card games is being able to p
 Once they build up their collections, Magic players often choose to build different decks for different formats. Formats are defined by
 what cards can be played in them. The most popular Magic format is called Standard. It uses only the newest sets the game has to offer. The
 current block, the block that was released the previous October, and the most recent core set are all legal to play in a Standard deck. Standard
-events are available all year, worldwide. When you're ready to start exploring other Magic formats, go to Wizards.com/MagicFormats for
+events are available all year, worldwide. When you're ready to start exploring other Magic formats, go to `Wizards.com/MagicFormats`_ for
 more information.
 
 .. _sec-golden-rule:
@@ -836,7 +836,7 @@ card, and pass the rest to your left. This process continues until all the cards
 but this time, you pass the pack to your right. After all those cards are drafted, you open the third pack and pass to the left again. Use
 your picks and any number of basic lands to build your 40-card deck.
 
-To play these formats and more, check out eventsat your local gaming store! **Wizards.com/Locator**
+To play these formats and more, check out eventsat your local gaming store! **`Wizards.com/Locator`_**
 
 Multiplayer Variants
 --------------------
@@ -891,7 +891,7 @@ of seven cards rather than six cards. Subsequent hands decrease by one card as n
 In a Two-Headed Giant game, the team who plays first skips the draw step of their first
 turn. In all other multiplayer games, no player skips the draw step of his or her first turn.
 
-Learn more about these and other Magic formats at Wizards.com/MagicFormats.
+Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
 =====================
  Section 5: Glossary
@@ -1074,7 +1074,7 @@ Learn more about these and other Magic formats at Wizards.com/MagicFormats.
         15-card booster packs contain one rare or mythic rare card,
         three uncommon cards, and eleven common cards, including
         one basic land card. Find stores where Magic cards are sold at
-        Wizards.com/Locator.
+        `Wizards.com/Locator`_.
 
     Booster Draft
         See :ref:`Limited Formats <sec-limited-formats>` [on page 19].
@@ -1487,7 +1487,7 @@ Learn more about these and other Magic formats at Wizards.com/MagicFormats.
         Magic 2014 core set has five intro packs. When you're just starting to
         play, modifying the deck from a Magic intro pack is a good way to start
         designing your own decks. Find stores where Magic cards are sold at
-        Wizards.com/Locator.
+        `Wizards.com/Locator`_.
 
     Islandwalk
         A kind of landwalk. See the glossary entry for :ref:`Landwalk <gl-landwalk>`.

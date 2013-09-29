@@ -31,7 +31,7 @@ Warto przeczytać
 
 * :doc:`Uzasadnienie tłumaczeń<rationale>`
 * :doc:`Nowe sposoby gry<game_variants>`
-
+* :doc:`Polskie żetony stworów<polish_tokens>`
 
 Ekipa
 -----
