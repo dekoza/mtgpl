@@ -768,7 +768,6 @@ With each part of the turn is a description of what can happen during that part,
    E. End of combat step
         Players can cast instants and activate abilities.
 
-
 4. Main Phase
 
    Your second main phase is just like your first main phase. You can
@@ -898,1206 +897,1176 @@ Learn more about these and other Magic formats at Wizards.com/MagicFormats.
  Section 5: Glossary
 =====================
 
-|mana_1|, |mana_2|, |mana_3|, and so on, |mana_x|
-    One of these generic mana symbols in a cost means "this many of
-    any type of mana." For example, |mana_2| in a cost means you can pay
-    two mana of any type, such as |mana_r| and |mana_g|, or |mana_u| and |mana_u|, or |mana_r| and
-    one colorless mana, and so on. (If oX is in a cost, you get to choose
-    what number the X stands for.)
-
-    These symbols are also found in some abilities that produce
-    mana, like "Add |mana_1| to your mana pool." In this context, |mana_1| means
-    "one colorless mana." You can't use colorless mana to pay for colored
-    mana costs.
-
-|mana_w| (white mana)
-    One white mana. Tapping a Plains makes |mana_w|. A card with |mana_w| in its mana cost is white.
-
-|mana_u| (blue mana)
-    One blue mana. Tapping an Island makes |mana_u|. A card with |mana_u| in its mana cost is blue.
-
-|mana_b| (black mana)
-    One black mana. Tapping a Swamp makes |mana_b|. A card with |mana_b| in its mana cost is black.
-
-|mana_r| (red mana)
-    One red mana. Tapping a Mountain makes |mana_r|. A card with |mana_r| in its mana cost is red.
-
-|mana_g| (green mana)
-    One green mana. Tapping a Forest makes |mana_g|. A card with |mana_g| in its mana cost is green.
-
-.. _gl-tap:
-
-|tap| (tap)
-    This symbol means "tap this card" (turn it sideways to show that it's been
-    used). It appears in activation costs. You can't pay a oT cost if the card is
-    already tapped. Also, remember that you can't pay your creature's oT costs
-    until the creature starts your turn on the battlefield under your control.
-
-.. _gl-hybrid-mana:
-
-{w/u}, {b/g}, and so on
-    Hybrid mana symbols represent a cost that can be paid with either
-    of two colors. For example, a cost represented by the oh1 symbol
-    can be paid with one white mana or one blue mana. It's both a
-    white and a blue mana symbol, and a card with oh1 in its mana
-    cost is both white and blue.
-
-.. _gl-asterisk-pt:
-
-\*/\*
-    Instead of numbers, some creatures have stars for their power and
-    toughness. This means the creature's power and toughness are set
-    by an ability it has rather than being fixed numbers. For example,
-    Nightmare has an ability that reads "Nightmare's power and
-    toughness are each equal to the number of Swamps you control." If
-    you control four Swamps when Nightmare enters the battlefield, it
-    will be 4/4. If you play more Swamps later on, it will get even bigger.
-
-.. _gl-ability:
-
-Ability
-    Any text on a permanent (except reminder text and flavor text) tells
-    you the permanent's abilities. There are three kinds of abilities a
-    permanent can have: activated abilities, static abilities, and triggered
-    abilities. Unless they say otherwise, abilities "work" only while the
-    permanent they're on is on the battlefield. Once a triggered ability
-    triggers or an activated ability is activated, it will resolve unless
-    it's countered; it doesn't matter what happens to the source of the
-    ability once the ability goes on the stack. See :ref:`Activated Abilities <sec-activated-abilities>`
-    [on page 12].
-
-.. _gl-activate:
-
-Activate
-    You activate an activated ability by putting it on the stack. You
-    activate an ability just as you cast a spell: announce it, choose its
-    targets, and pay its activation cost. See :ref:`Activated Abilities <sec-activated-abilities>`
-    [on page 12].
-
-.. _gl-activated-ability:
-
-Activated ability
-    One of the three kinds of abilities a permanent can have. An
-    activated ability is always written in the form "cost: effect." See
-    :ref:`Abilities <sec-abilities>` [on page 12].
-
-.. _gl-active-player:
-
-Active player
-    The player whose turn it is. The active player always gets the first
-    chance to cast spells and activate abilities.
-
-.. _gl-additional-cost:
-
-Additional cost
-    Some spells say they have an additional cost. To cast that spell, you
-    must pay both the mana cost in the upper right corner of the card
-    and its additional cost.
-
-.. _gl-archenemy:
-
-Archenemy
-    A one-on-many multiplayer variant that features oversized scheme
-    cards.
-
-.. _gl-artifact:
-
-Artifact
-    A card type. See :ref:`Artifact <sec-artifact>` [on page 6].
-
-.. _gl-artifact-creature:
-
-Artifact creature
-    This is both an artifact and a creature. See :ref:`Creature <sec-creature>` [on page 6].
-
-.. _gl-attack:
-
-Attack
-    How your creatures deal damage to your opponent. During
-    your combat phase, you decide which, if any, of your untapped
-    creatures will attack, and which player or planeswalker they will
-    attack, then they all do so at once. Attacking causes creatures
-    to tap. Creatures can attack only players or planeswalkers, not
-    other creatures. Your opponent then gets a chance to block your
-    attacking creatures with his or her own creatures. See
-    :ref:`Attacking and Blocking <sec-attacking-and-blocking>` [on page 13].
-
-.. _gl-attacking-creature:
-
-Attacking creature
-    A creature that's attacking. A creature is attacking from the time
-    it's declared as an attacker until the combat phase ends, unless
-    it's somehow removed from combat. There's no such thing as an
-    attacking creature outside of the combat phase.
-
-.. _gl-aura:
-
-Aura
-    A special type of enchantment that can be attached to a permanent
-    (or sometimes a player). Each Aura has the keyword "enchant"
-    followed by what it can be attached to: "enchant creature," "enchant
-    land," and so on. When you cast an Aura spell, you choose one
-    of the right kind of permanent to target. When the Aura resolves,
-    it's put onto the battlefield attached to that permanent (it's not
-    targeting it anymore). If an Aura is ever attached to something that
-    doesn't match its enchant ability—or attached to nothing at all—it's
-    put into its owner's graveyard.
-
-.. _gl-basic-land:
-
-Basic land
-    There are five basic lands. Plains make |mana_w| (white mana). Islands make |mana_u| (blue
-    mana). Swamps make |mana_b| (black mana). Mountains make |mana_r| (red mana). Forests
-    make |mana_g| (green mana). They each say "basic" on their type line (basic is a
-    supertype). Lands other than these five are called nonbasic lands.
-
-    When building a deck, you can include any number of basic lands. You
-    can't have more than four copies of any other cards in your deck.
-
-.. _gl-basic-land-type:
-
-Basic land type
-    Each basic land has a subtype, which appears after "Basic Land —"
-    on its type line. These are the "basic land types," which are the same
-    five words as the basic land names. Some nonbasic lands also have
-    basic land types. Any land with a basic land type has an activated
-    ability that makes one mana of the appropriate color, even if it doesn't
-    say so in the text box. For example, every Forest has the ability "|tap|:
-    Add |mana_g| to your mana pool."
-
-Battlefield
-    A game zone. See :ref:`Battlefield <sec-battlefield>` [on page 8].
-
-Block
-    To stop an attacking creature from damaging you or one of your
-    planeswalkers by having it fight one of your creatures instead.
-    After your opponent attacks with one or more creatures, you can
-    have any number of your untapped creatures block. Each one can
-    block one attacking creature. You can have two or more of your
-    untapped creatures gang up and block a single attacking creature. If
-    an attacker is blocked, it will deal its combat damage to the creature
-    blocking it instead of to the player or planeswalker it was attacking.
-    Blocking is optional. See :ref:`Attacking and Blocking <sec-attacking-and-blocking>`
-    [on page 13].
-
-Blocked creature
-    An attacking creature that's blocked by at least one creature. Once
-    a creature is blocked, it stays blocked for the rest of the combat
-    phase—even if all the creatures blocking it leave combat. In other
-    words, once a creature is blocked, there's no way for it to deal
-    damage to the player or planeswalker it's attacking (unless the
-    attacking creature has trample). There's no such thing as a blocked
-    creature outside of the combat phase.
-
-Blocking creature
-    A creature assigned to block an attacking creature. If a creature
-    blocks an attacker, the attacker deals its damage to the blocker
-    instead of to the player or planeswalker it's attacking. Once a
-    creature blocks, it stays a blocking creature for the rest of the
-    combat phase—even if the creature it's blocking leaves combat.
-    There's no such thing as a blocking creature outside of the
-    combat phase.
-
-Booster, booster pack
-    A pack of randomly assorted Magic cards. When you want to
-    add more cards to your collection, this is what you'll get. Most
-    15-card booster packs contain one rare or mythic rare card,
-    three uncommon cards, and eleven common cards, including
-    one basic land card. Find stores where Magic cards are sold at
-    Wizards.com/Locator.
-
-Booster Draft
-    See :ref:`Limited Formats <sec-limited-formats>` [on page 19].
-
-Card type
-    Every card in your deck has at least one card type: artifact, creature,
-    enchantment, instant, land, planeswalker, or sorcery. A card's type is
-    printed under its illustration. Some cards, like artifact creatures, have
-    more than one type. Some cards also have subtypes, such as "Goblin"
-    and "Warrior" in "Creature — Goblin Warrior," or supertypes, such
-    as "basic" in "Basic Land — Forest."
-
-Cast
-    You cast a spell by putting it on the stack. Different kinds of spells
-    can be cast at different times, but the things you have to do to
-    cast a spell are always the same: announce it, choose its targets
-    (and make certain other choices right away), and pay its cost. See
-    :ref:`Spells <sec-spells>` [on page 10].
-
-Choose one —
-    When you see the phrase "Choose one —" on a card, you have to
-    choose one option on the card when you cast it. You can't change
-    your mind and choose something else later on, even if your first
-    choice doesn't work out.
-
-Color
-    The five Magic colors are white, blue, black, red, and green. If a spell
-    or ability tells you to choose a color, you must choose one of those five.
-    A card's color is determined by its mana cost. For example, a card that
-    costs 1U is blue and a card that costs RW is both red and
-    white. Cards with no colored mana in their mana costs, like most artifacts,
-    are colorless. (Colorless is not a color.) Lands are also colorless.
-
-    Some effects can change a spell or permanent's color. For
-    example, "Target creature becomes blue until end of turn." The new
-    color replaces the previous colors, unless the ability says otherwise.
-
-Colorless
-    Lands and most artifacts are colorless. Colorless is not a color. If
-    something tells you to choose a color, you can't choose colorless.
-
-Combat
-    In general, combat means attacking, blocking, and all the stuff
-    that happens during a combat phase.
-
-Combat damage
-    Damage dealt by creatures due to attacking and blocking. A
-    creature deals combat damage equal to its power. This damage is
-    dealt during the combat damage step. Any other kind of damage
-    doesn't count as combat damage, even if it's dealt as the result of a
-    creature's ability during combat.
-
-Combat damage step
-    See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
-
-Combat phase
-    See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
-
-Command zone
-    A game zone used for objects that affect the game but aren't
-    permanents. Some planeswalkers create emblems that go here, and
-    some multiplayer variants use this zone for their oversized cards.
-
-Commander
-    A casual variant in which each player's deck is led by a legendary
-    creature.
-
-Concede
-    To stop playing a game and give your opponent the victory. You
-    can concede a game at any time (usually if you realize you won't
-    be able to avoid losing). When you concede, you lose the game.
-
-Constructed
-    A group of play formats that use decks you build in advance. A
-    Constructed deck must have at least 60 cards, and it can't have
-    more than four copies of any single card (except for basic lands).
-    Standard is the most popular Constructed format.
-
-Continuous effect
-    An effect that lasts for some duration. These are different from
-    one-shot effects, which just happen once and don't have a
-    duration. You can tell how long a continuous effect will last by
-    reading the spell or ability it came from. For example, it might say
-    "until end of turn." If the continuous effect comes from a static
-    ability, it lasts as long as the permanent with the ability is on the
-    battlefield.
-
-Control
-    You control spells you cast and permanents that entered the
-    battlefield on your side. You also control abilities that come from
-    permanents you control.
-
-    Only you can make decisions for things you control. If you
-    control a permanent, only you can activate its activated abilities.
-    Even if you put an Aura on your opponent's creature, you control
-    the Aura and its abilities.
-
-    Some spells and abilities let you gain control of a permanent.
-    Most of the time, this means the card will move from your
-    opponent's side to yours. But for Auras or Equipment attached to
-    other cards, the controller changes but it doesn't move.
-
-Controller
-    A spell's controller is the player who cast it. An activated ability's
-    controller is the player who activated it. A permanent's controller
-    is the player who cast it—unless another spell or ability changes
-    who controls it. A triggered ability's controller is the player who
-    controlled the source of the ability when it triggered.
-
-Converted mana cost
-    The total amount of mana in a mana cost, regardless of color. For
-    example, a card with a mana cost of 3UU has a converted mana
-    cost of 5. A card with mana cost RR has a converted mana cost
-    of 2.
-
-Cost
-    A cost is something you have to pay to take another action. You must
-    pay a cost to cast a spell or activate an activated ability. Sometimes
-    a spell or ability will also ask you to pay a cost when it resolves.
-    You can't pay a cost unless you can pay all of it. For example, if an
-    activated ability's cost (the part before the ":") tells you to discard a
-    card and you have no cards in your hand, you can't even try to pay it.
-
-Counter a spell or ability
-    To cancel out a spell or ability so it has no effect. If a spell is
-    countered, it's removed from the stack and put into its owner's
-    graveyard. Once a spell or ability starts to resolve, it's too late to
-    counter it. Lands aren't spells, so they can't be countered.
-
-Counter on a permanent
-    Some spells and abilities tell you to put a counter on a permanent.
-    The counter marks a change to the permanent that lasts for as long
-    as it's on the battlefield. A counter usually changes a creature's power
-    and toughness or tracks a planeswalker's current loyalty. You can use
-    anything you want as counters: glass beads, dice, or whatever.
-
-.. _creature:
-Creature
-    A card type. See :ref:`Creature <sec-creature>` [on page 6].
-
-Creature type
-    This tells you what kind of creature a creature is, such as Goblin,
-    Elf, or Warrior. You find creature types in the middle of the card
-    after "Creature — ." If a creature has more than one word after the
-    dash, the creature has all of those creature types.
-
-    Some spells and abilities affect multiple creatures with a certain
-    type. For example, Predatory Sliver reads "Sliver creatures you
-    control get +1/+1." All creatures you control with the Sliver
-    creature type, including Predatory Sliver, get the bonus.
-
-Damage
-    This is what knocks down a player's life total, lowers a planeswalker's
-    loyalty, and destroys creatures. Attacking and blocking creatures
-    deal damage equal to their power. Some spells and abilities can also
-    deal damage. Damage can be dealt only to creatures, planeswalkers,
-    or players. If a creature is dealt damage equal to or greater than
-    its toughness in one turn, it's destroyed. If a planeswalker is dealt
-    damage, that many loyalty counters are removed from it. If a player
-    is dealt damage, it's subtracted from the player's life total.
-
-    Damage is different from losing life. For example, Dark Favor is
-    an Aura with the drawback "When Dark Favor enters the battlefield,
-    you lose 1 life." That loss of life isn't damage, so it can't be prevented.
-
-Deathtouch
-    A keyword ability seen on creatures. Deathtouch is an ability that
-    causes a creature to deal an exceptionally lethal form of damage
-    to other creatures. A creature dealt any amount of damage by
-    a creature with deathtouch is destroyed. If your creature with
-    deathtouch is blocked by multiple creatures, you can assign as
-    little as 1 damage to each of the blocking creatures!
-
-Deck
-    At least 60 cards of your choice, well shuffled. (Limited formats in
-    which players build their decks as part of the event allow 40-card
-    decks.) To play a Magic game, you must have your own deck.
-    Once the game starts, your deck becomes your library.
-
-Declare attackers step
-    See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
-
-Declare blockers step
-    See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
-
-Defender
-    A keyword ability seen on creatures. Creatures with defender can't
-    attack.
-
-Defending player
-    The player who is being attacked (or whose planeswalker is being
-    attacked) during a combat phase.
-
-.. _gl-destroy:
-
-Destroy
-    To move a permanent from the battlefield to its owner's graveyard.
-    Creatures are destroyed when they've taken damage equal to or
-    greater than their toughness. Also, lots of spells and abilities can
-    destroy permanents (without dealing damage to them).
-
-    Sometimes permanents are put into the graveyard without
-    being destroyed. If a permanent is sacrificed, it isn't "destroyed,"
-    but it's still put into its owner's graveyard. The same is true if
-    a creature's toughness is reduced to 0 or less, two legendary
-    permanents with the same name controlled by the same player
-    are on the battlefield, two planeswalkers with the same subtype
-    controlled by the same player are on the battlefield, or an Aura
-    is on the battlefield but isn't enchanting what's described in its
-    "enchant" ability.
-
-Dies
-    "Dies" is another way to say that a creature "is put into a graveyard
-    from the battlefield."
-
-Discard
-    To take a card from your hand and put it into your graveyard. If a
-    spell or ability makes you discard cards, you get to choose which
-    cards to discard—unless the spell or ability says another player
-    chooses the cards or you have to discard "at random."
-
-    If you have more than seven cards in your hand during your own
-    cleanup step, you have to discard until you have seven.
-
-Double strike
-    A keyword ability seen on creatures. Creatures with double strike
-    deal their combat damage twice. When you reach the combat
-    damage step, check to see if any attacking or blocking creatures
-    have first strike or double strike. If so, an extra combat damage
-    step is created just for them. Only creatures with first strike and
-    double strike get to deal combat damage in this step. After that,
-    the normal combat damage step happens. All remaining attacking
-    and blocking creatures, as well as the ones with double strike, deal
-    combat damage during this second step.
-
-Draw a card
-    To take the top card of your library (deck) and put it into your
-    hand. You draw one card during each of your turns, at the start
-    of your draw step. You also draw if a spell or ability lets you; this
-    doesn't affect your normal draw for the turn. If a spell or ability
-    lets you put a card into your hand from your library but doesn't
-    use the word "draw," it doesn't count as drawing a card.
-
-Draw step
-    See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
-
-Draw the game
-    The other meaning of "draw" is a game that ends with no winner.
-    For example, if a spell like Earthquake deals enough damage so
-    that both players drop to 0 or less life, the game is a draw.
-
-Effect
-    What a spell or ability does when it resolves. There are several
-    types of effects: one-shot effects, continuous effects, prevention
-    effects, and replacement effects. You can look up each one in this
-    glossary.
-
-Emblem
-    Some planeswalkers' abilities create an emblem that leaves a
-    lasting effect on the game. Once an emblem is created, it can't be
-    destroyed and its abilities apply until the game ends.
-
-Enchant
-    A keyword ability seen on all Auras. It's usually followed by a
-    description of a permanent (for example, "enchant creature" or
-    "enchant land"), which tells you what kind of permanent the
-    Aura can be attached to. When you cast the Aura, you must target
-    that kind of permanent. Similarly, Auras with "enchant player" or
-    "enchant opponent" target a player when they're cast. If an Aura is
-    ever attached to something that doesn't match its enchant ability,
-    it's put into its owner's graveyard.
-
-Enchanted
-    When an ability of an Aura says "enchanted creature" (or "enchanted
-    artifact," "enchanted land," and so on), it means "the creature the Aura
-    is attached to." For example, Mark of the Vampire has the ability "Enchanted
-    creature gets +2/+2 and has lifelink." Only the creature that Mark of the
-    Vampire is attached to gets the bonus, and that creature's controller will gain
-    life from its lifelink ability.
-
-Enchantment
-    A card type. See :ref:`Enchantment <sec-enchantment>` [on page 6].
-
-End of combat step
-    See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
-
-End step
-    See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
-
-Enters the battlefield
-    When artifact, creature, enchantment, and planeswalker spells
-    resolve, they enter the battlefield as permanents. Lands also enter
-    the battlefield as permanents.
-
-    Some triggered abilities start with "When [this permanent] enters
-    the battlefield, . . . ." When a permanent with an ability like this is
-    put onto the battlefield, this ability triggers right away. Some abilities
-    also trigger when certain other permanents enter the battlefield.
-
-    Some cards say they enter the battlefield tapped. These cards
-    don't enter the battlefield and become tapped—they're already
-    tapped by the time they're put onto the battlefield. Similarly,
-    creatures that "enter the battlefield with (some number of) +1/+1
-    counters," or whose power or toughness will be modified by a
-    continuous effect, don't enter the battlefield and then change size.
-
-Equip
-    A keyword ability seen on all Equipment. It tells you how much it
-    costs to attach the Equipment to one of your creatures. It doesn't
-    matter whether the Equipment is unattached or is attached to a
-    different creature. You can activate this ability only during your
-    main phase, when no spells or abilities are on the stack. The equip
-    ability targets the creature you're moving the Equipment onto.
-
-Equipment
-    A type of artifact that represents a weapon, armor, or other item
-    that your creatures can use. When you cast an Equipment spell,
-    it enters the battlefield like any other artifact. Once it's on the
-    battlefield, you can pay its equip cost any time you could cast a
-    sorcery to attach it to a creature you control. You can do this even
-    if the Equipment is attached to another creature. Once it's attached
-    to a creature, the Equipment then has some effect on it. If the
-    equipped creature leaves the battlefield, the Equipment "drops to
-    the ground" and stays on the battlefield, waiting for you to attach
-    it to another creature.
-
-Evasion ability
-    A nickname for any ability that makes a creature harder to block.
-    Flying is the most common evasion ability.
-
-Exile
-    A game zone. Exile is essentially a holding area for cards. If a spell
-    or ability exiles a card, that card is moved to the exile zone from
-    wherever it is. See :ref:`Exile <sec-exile>` [on page 8].
-
-Expansion symbol
-    See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5].
-
-Fight
-    Some effects cause a creature to fight another creature. When two
-    creatures fight, each deals damage equal to its power to the other.
-
-First strike
-    A keyword ability seen on creatures. Creatures with first strike deal
-    their combat damage before creatures without first strike. When
-    you reach the combat damage step, check to see if any attacking
-    or blocking creatures have first strike or double strike. If so, an
-    extra combat damage step is created just for them. Only creatures
-    with first strike and double strike get to deal combat damage in
-    this step. After that, the normal combat damage step happens. All
-    remaining attacking and blocking creatures, as well as the ones
-    with double strike, deal combat damage during this second step.
-
-Flash
-    A keyword ability seen on creatures, artifacts, and enchantments.
-    A spell with flash can be cast any time you could cast an instant.
-
-Flavor text
-    Italic text (italic text looks like this) in a card's text box that's just for
-    fun. Flavor text sets a tone or describes part of the magical world of
-    the card. If the text is in parentheses, it's there to remind you about
-    a rule—it's not flavor text. Flavor text has no effect on how the card
-    is cast.
-
-Flying
-    A keyword ability seen on creatures. A creature with flying can't be
-    blocked except by creatures with flying or reach.
-
-Forestwalk
-    A kind of landwalk. See the glossary entry for "Landwalk."
-
-Graveyard
-    A game zone. See :ref:`Graveyard <sec-graveyard>` [on page 8].
-
-Hand
-    A game zone. See :ref:`Hand <sec-hand>` [on page 8].
-
-Haste
-    A keyword ability seen on creatures. A creature with haste can
-    attack as soon as it comes under your control. You can also
-    activate its activated abilities with oT in the cost.
-
-Hexproof
-    A keyword ability seen on permanents. A permanent with
-    hexproof can't be the target of spells or abilities controlled by an
-    opponent. The player who controls the permanent with hexproof
-    can still target it with spells and abilities.
-
-Indestructible
-    An indestructible permanent can't be destroyed by damage or by
-    effects that say "destroy." It can still be put into the graveyard for
-    other reasons. See the glossary entry for :ref:`Destroy <gl-destroy>`.
-
-Instant
-    A card type. See :ref:`Instant <sec-instant>` [on page 6].
-
-Instead
-    When you see this word, you know a spell or ability creates a replacement
-    effect. See the glossary entry for "Replacement effect."
-
-Intimidate
-    A keyword ability seen on creatures. A creature with intimidate
-    can't be blocked except by creatures that share a color with it and/
-    or artifact creatures. For example, a red creature with intimidate
-    could be blocked by a red creature, a red-and-green creature, or any
-    artifact creature. Intimidate only matters when the creature with the
-    ability is attacking.
-
-Intro pack
-    A pack that includes a ready-to-play deck featuring cards from a
-    particular set, as well as two bonus 15-card booster packs. You can play
-    decks from intro packs against each other right out of the box. The
-    Magic 2014 core set has five intro packs. When you're just starting to
-    play, modifying the deck from a Magic intro pack is a good way to start
-    designing your own decks. Find stores where Magic cards are sold at
-    Wizards.com/Locator.
-
-Islandwalk
-    A kind of landwalk. See the glossary entry for :ref:`Landwalk <gl-landwalk>`.
-
-Land
-    A card type. See :ref:`Land <sec-land>` [on page 7].
-
-Land type
-    A subtype of a land. See the glossary entry for :ref:`Basic land type <gl-basic-land-type>`.
-
-Landwalk
-    Landwalk is the name for a group of keyword abilities that
-    includes plainswalk, islandwalk, swampwalk, mountainwalk,
-    and forestwalk. A creature with landwalk is unblockable if the
-    defending player controls at least one land of the specified type.
-
-Leaves the battlefield
-    A permanent leaves the battlefield when it moves from the
-    battlefield zone to any other zone. It might return to a player's
-    hand from the battlefield, go to a graveyard from the battlefield,
-    or go to some other zone. If a card leaves the battlefield and later
-    returns to the battlefield, it's like a brand-new card. It doesn't
-    "remember" anything from the last time it was on the battlefield.
-
-Legendary
-    Legendary is a supertype, so you'll find it written on the type line
-    before the card type. If a player controls two or more legendary
-    permanents with the same name, that player chooses one of them
-    to stay on the battlefield and the rest are put into their owner's
-    graveyard. (Different players can control legendary permanents
-    with the same name.) This is known as the "legend rule."
-
-Library
-    A game zone. See :ref:`Library <sec-library>` [on page 8].
-
-Life, life total
-    Each player begins the game with 20 life. When you're dealt
-    damage by spells, abilities, or unblocked creatures, you subtract
-    the damage from your life total. If your life total drops to 0 or less,
-    you lose the game. If something causes both players' life totals to
-    drop to 0 or less at the same time, the game is a draw.
-
-Lifelink
-    A keyword ability seen on permanents. Damage dealt by a
-    permanent with lifelink causes that permanent's controller to
-    gain that much life, in addition to behaving like normal damage.
-
-Limited
-    A group of play formats using cards from booster packs you open
-    just before you play. See :ref:`Limited Formats <sec-limited-formats>` [on page 19].
-
-Losing life
-    All damage dealt to you causes you to lose life, which is why
-    it's subtracted from your life total. In addition, some spells and
-    abilities say that they cause you to lose life. This isn't the same as
-    damage, so it can't be prevented.
-
-Loyalty
-    Loyalty is a characteristic that only planeswalkers have. Each planeswalker
-    card has a loyalty number printed in its lower right corner: that's how many
-    loyalty counters it gets as it enters the battlefield. The cost to activate one of
-    a planeswalker's activated abilities is to put loyalty counters on it or remove
-    loyalty counters from it. Each 1 damage dealt to a planeswalker causes a loyalty
-    counter to be removed from it. If a planeswalker has no loyalty counters on it,
-    it's put into its owner's graveyard. See also :ref:`Planeswalker <sec-planeswalker>`
-    [on page 7].
-
-Main phase
-    See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
-
-Mana
-    The magical energy you use to pay for spells and some abilities.
-
-    Most mana comes from tapping lands. There are five colors of
-    mana: |mana_w| (white), |mana_u| (blue), |mana_b| (black), |mana_r| (red), and |mana_g| (green).
-    There's also colorless mana.
-
-Mana ability
-    An ability that adds mana to your mana pool. Mana abilities can
-    be activated abilities or triggered abilities. A mana ability doesn't
-    go on the stack when you activate it or it triggers—you simply get
-    the mana immediately.
-
-Mana cost
-    See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5]. Also see the glossary entry for
-    "Converted mana cost."
-
-Mana pool
-    The place where your mana is stored until you spend it or until
-    the current step or phase ends.
-
-Match
-    A series of games against the same opponent. Most matches are
-    best two out of three, so the first player to win two games wins
-    the match. The loser of the first game decides who goes first in
-    the second game, and so on.
-
-Modern
-    A Constructed format that's growing in popularity. The Modern
-    format uses core sets and blocks from Eighth Edition and
-    Mirrodin® to the present. See `Wizards.com/MagicFormats`_
-    for more information.
-
-Mountainwalk
-    A kind of landwalk. See the glossary entry for :ref:`Landwalk <gl-landwalk>`.
-
-Mulligan
-    At the beginning of a Magic game, you draw the top seven
-    cards of your library. If you don't like that hand of cards for
-    any reason, you can mulligan. When you mulligan, your hand
-    is shuffled into your library and you draw a new hand of one
-    fewer cards. You can mulligan as many times as you want, but
-    you draw one fewer card each time. When both players like their
-    opening hands, you start playing.
-
-Multicolored card
-    A card with more than one color of mana in its mana cost. For
-    example, a card with the mana cost |mana_2| |mana_b| |mana_r| is both black and red.
-    Most multicolored cards have a gold background.
-
-Multiplayer game
-    A Magic game that starts with more than two players in it. See
-    :ref:`Multiplayer Variants <sec-multiplayer-variants` [on page 20].
-
-Name
-    See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5].
-
-    When a card's name appears in its text box, the card is referring
-    to itself, not to any other cards with the same name.
-
-Non-
-    When a spell or ability's text refers to a "nonland card" or a
-    "nonblack creature," and so on, it means "a card that's not a land,"
-    "a creature that's not black," and so on.
-
-Nonbasic land
-    Any land that doesn't have the supertype "basic" on its type line—
-    in other words, any land not named Plains, Island, Swamp, Mountain, or
-    Forest. You can't put more than four copies of any one nonbasic land card
-    into a deck.
-
-One-shot effect
-    An effect that applies to the game once, and then it's done. For example,
-    Divination reads, "Draw two cards." When it resolves, its effect is done.
-    One-shot effects differ from continuous effects, which last for some amount of time.
-
-Opponent
-    A person you're playing against. If a card says "an opponent," it
-    means one of its controller's opponents.
-
-Owner
-    The person who started the game with the card in his or her deck.
-    Even if your opponent has control of one of your permanents,
-    you're still its owner. (If you loaned your friend a deck, he or she
-    will be the "owner" of all the cards in it during the game.) The
-    owner of a token is the player who controlled it when it entered
-    the battlefield.
-
-Paying life
-    Sometimes a spell or ability will ask you to pay life as part of its
-    cost. To pay life, subtract that amount of life from your life total.
-    You can't pay more life than you have. Paying life isn't damage, so
-    it can't be prevented.
-
-Permanent
-    A card or creature token on the battlefield. Permanents can be
-    artifacts, creatures, enchantments, lands, or planeswalkers. Once
-    a permanent is on the battlefield, it stays there until it's destroyed,
-    sacrificed, or removed somehow. You can't remove a permanent from
-    the battlefield just because you want to, even if you control it. If a
-    permanent leaves the battlefield and then re-enters the battlefield, it's
-    treated like a brand-new card. It doesn't "remember" anything about
-    the last time it was on the battlefield.
-
-    Unless they say otherwise, spells and abilities affect only
-    permanents. For example, Unsummon reads, "Return target
-    creature to its owner's hand." You must target a creature on the
-    battlefield, not a creature card in a graveyard or anywhere else.
-
-Permanent type
-    The permanent types are artifact, creature, enchantment, land, and
-    planeswalker. Permanents can have more than one type.
-
-Phase
-    One of the main sections of a turn. There are five: beginning phase,
-    first main phase, combat phase, second main phase, and ending
-    phase. Some phases are divided into steps. If a player has mana left
-    over as a step or phase ends, that mana is lost. See
-    :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
-
-Planechase
-    A multiplayer variant that features oversized plane cards.
-
-Planeswalker
-    A card type. See :ref:`Planeswalker <sec-planeswalker>` [on page 7].
-
-Planeswalker type
-    A subtype of a planeswalker. If a player controls two or more
-    planeswalkers with the same planeswalker type, that player chooses
-    one of them to stay on the battlefield and the rest are put into their
-    owner's graveyard. (Different players can control planeswalkers with
-    the same planeswalker type.)
-
-Play
-    You play a land by putting it onto the battlefield from your hand.
-    You can play a land only once each turn during one of your main
-    phases when nothing's on the stack. Lands don't go on the stack
-    when you play them.
-
-    Some effects tell you to play a card. That means to play a land
-    or cast a spell, depending on the card's type.
-
-Player
-    Either you or your opponent. If a spell or ability lets you choose
-    a player, you can choose yourself. You can't choose yourself if it
-    says "opponent." If you're playing a multiplayer game (a game
-    with more than two players), everyone in the game is a player,
-    including your teammates.
-
-Power
-    The number to the left of the slash in the box in the lower right
-    corner of a creature card. A creature deals combat damage equal
-    to its power. A creature with 0 power or less deals no damage in
-    combat.
-
-Prevent
-    When you see this word in the text of a spell or ability, you know
-    it's a prevention effect.
-
-Prevention effect
-    An effect that stops damage from being dealt. A prevention effect
-    works like a shield. If damage would be dealt but a prevention
-    shield is in place, some or all of that damage isn't dealt. A
-    prevention effect can prevent all damage a source would deal, or it
-    can prevent just a specific amount of damage.
-
-    For example, Fog reads, "Prevent all combat damage that would
-    be dealt this turn." You can cast Fog long before combat, and its
-    effect will hang around for the whole turn. Then, if creatures try
-    to deal combat damage during that turn, Fog prevents it.
-
-    Prevention effects can prevent damage from being dealt to
-    creatures, to players, or both. If a prevention effect could prevent
-    damage from being dealt by multiple sources at the same time,
-    the player who would be dealt that damage, or who controls the
-    creature that would be dealt that damage, chooses which source to
-    prevent the damage from.
-
-Priority
-    Since players can cast instants and activate abilities during each
-    other's turns, the game needs a system that makes sure only one
-    player can do something at a time. Priority determines, at any given
-    time, which player can cast a spell or activate an activated ability.
-
-    The active player (the player whose turn it is) gets priority at the
-    beginning of each step and each main phase—except for the untap
-    step and the cleanup step. When you get priority, you can cast a spell,
-    activate an activated ability, or pass (choose to do nothing). If you do
-    something, you keep priority, so you make the same choice again.
-    If you pass, your opponent gets priority, so now he or she gets that
-    choice. This goes back and forth until both players pass in a row.
-
-    When both players pass in a row, if there's a spell or ability
-    waiting on the stack, it resolves. Then the active player gets
-    priority again, and the system repeats. When both players pass in
-    a row, if there's no spell or ability waiting on the stack, that part of
-    the turn ends and the next one begins.
-
-Protection
-    A keyword ability seen on creatures. A creature with protection
-    will always have "protection from ________." That something is
-    what the creature is protected from. It might be protection from
-    red, for example, or protection from Goblins. Protection does
-    several specific things for the creature:
-    - All damage those kinds of sources would deal to the creature is
-      prevented.
-    - The creature can't be enchanted by those kinds of Auras or
-      equipped by those kinds of Equipment.
-    - The creature can't be blocked by those kinds of creatures.
-    - The creature can't be targeted by those kinds of spells or by
-      abilities from those kinds of cards.
-
-Put onto the battlefield
-    To move a card or token into the battlefield zone. When a spell or
-    ability tells you to put something onto the battlefield, that's not the
-    same as casting it. You just put it onto the battlefield without paying
-    its costs.
-
-Rarity
-    How likely it is you'll get a particular card. There are four
-    levels of rarity for Magic cards: common, uncommon,
-    rare, and mythic rare. Each 15-card booster pack typically
-    has eleven common cards including one basic land card, three uncommon cards, and one rare
-    card. Some boosters have a mythic rare card instead of a rare card.
-
-Reach
-    A keyword ability seen on creatures. A creature with reach can
-    block a creature with flying. However, a creature with reach can
-    be blocked by any kind of creature.
-
-Regenerate
-    To prevent a permanent from being destroyed later in the turn. A regeneration effect
-    works like a shield. A spell or ability that says "Regenerate [a permanent]" puts
-    a regeneration shield on that permanent that can be used up at any time during the turn.
-    If a permanent would be destroyed and it has a regeneration shield, it's not
-    destroyed. Instead, it becomes tapped, it's removed from combat (if it's an attacking
-    or blocking creature), and all damage is removed from it. That regeneration shield is
-    then used up. The permanent never leaves the battlefield, so any
-    Auras, Equipment, or counters that were on it remain there. Any
-    unused regeneration shields go away during the cleanup step.
-
-    Although a permanent with a regeneration shield can't be
-    destroyed, it can still be put into the graveyard for other reasons.
-    See the glossary entry for :ref:`Destroy <gl-destroy>`.
-
-Reminder text
-    Italic text in parentheses (like this) in the text box that reminds you
-    of a rule or keyword ability. Reminder text isn't meant to tell you all
-    the rules for an ability. It just reminds you of how the card works.
-
-Remove from combat
-    If an effect removes a creature from combat, it's not attacking or
-    blocking anymore. If it blocked a creature before it was removed,
-    the attacking creature stays blocked, so no damage would get
-    through to the player or planeswalker that's being attacked. A
-    creature that's removed from combat neither deals nor is dealt
-    combat damage.
-
-Replacement effect
-    A kind of effect that waits for a particular event and then replaces
-    that event with a different one. Replacement effects have the
-    word "instead" in them. For example, Darksteel Colossus reads,
-    in part, "If Darksteel Colossus would be put into a graveyard from
-    anywhere, reveal Darksteel Colossus and shuffle it into its owner's
-    library instead." The effect replaces the action of putting Darksteel
-    Colossus into the graveyard with the action of shuffling it into its
-    owner's library. Darksteel Colossus never hits the graveyard at all.
-
-Resolve
-    When you cast a spell or activate an activated ability, or when
-    a triggered ability triggers, nothing happens right away. It just
-    goes on the stack. After each player gets a chance to respond to
-    it, it will resolve and its effect will happen. If another spell or
-    ability counters it, or if none of its targets are legal when it tries
-    to resolve, it won't resolve at all (and if it's a spell, it's put into its
-    owner's graveyard).
-
-Respond, in response
-    To cast an instant or activate an activated ability right after another
-    spell or ability has been put on the stack. See
-    :ref:`Responding to a Spell <sec-responding-to-spell>` [on page 10].
-
-Reveal
-    When you reveal a card, it's shown to all the players in the game.
-
-Sacrifice
-    To choose one of your permanents on the battlefield and put it
-    into its owner's graveyard. You can sacrifice only permanents you
-    control. Sacrificing a permanent is different from destroying it, so
-    the permanent can't be regenerated. You can sacrifice a permanent
-    only if a spell or ability tells you to, or if it's part of a cost.
-
-Sealed Deck
-    See :ref:`Limited Formats <sec-limited-formats>` [on page 19].
-
-Shuffle
-    To randomize the order of the cards in your deck. At the beginning
-    of every Magic game, your deck is shuffled. Some cards will tell you
-    to shuffle your library as part of their effect (usually because the
-    effect let you look through your library).
-
-Sideboard
-    Magic events allow the use of a sideboard—a group of extra cards
-    that are particularly good against certain opponents. After you play
-    a game against an opponent, you may make changes to your deck
-    using cards from your sideboard. You must reset your deck to its
-    original configuration before playing someone new.
-
-    In Constructed formats, your sideboard consists of up to 15
-    cards. Your combined deck and sideboard can't have more than
-    four copies of any card other than basic land cards. Your deck
-    must have at least 60 cards.
-
-    In Limited formats, all the cards you opened that aren't in
-    your main deck are in your sideboard. Your deck must have at
-    least 40 cards.
-
-Sorcery
-    A card type. See :ref:`Sorcery <sec-sorcery>` [on page 5].
-
-Source
-    Where damage or an ability came from. Once an ability has gone
-    on the stack, removing its source doesn't stop the ability from
-    resolving.
-
-Spell
-    All types of cards except lands are spells while you're casting them.
-    For example, Serra Angel is a creature card. While you're casting
-    it, it's a creature spell. When it resolves, it becomes a creature.
-
-Stack
-    A game zone. See :ref:`The Stack <sec-stack>` [on page 8].
-
-Standard
-    The most popular Constructed format. It uses only the newest
-    sets the game has to offer. The current block, the block that was
-    released the previous October, and the most recent core set are all
-    legal to play in a Standard deck. See `Wizards.com/MagicFormats`_
-    for more information.
-
-Static ability
-    One of the three types of abilities a permanent can have. See
-    :ref:`Static Abilities <sec-static-abilities>` [on page 12].
-
-Step
-    Every phase except the main phase is divided into steps. Specific
-    things happen during some steps. For example, you untap your
-    permanents during your untap step. If a player has mana left over
-    as a step or phase ends, that mana is lost. See :ref:`Parts of the Turn <sec-parts-of-turn>`
-    [on page 17].
-
-Subtype
-    All types of cards can have subtypes. Subtypes come after the
-    long dash on the type line. Subtypes of creatures are also called
-    creature types, subtypes of lands are called land types, and so on.
-    A card can have multiple subtypes or none at all. For example, a
-    "Creature — Elf Warrior" has the subtypes Elf and Warrior, but
-    a card with just "Land" on its type line doesn't have a subtype.
-
-    A few subtypes have special rules. See the glossary entries for
-    :ref:`Aura <gl-aura>`, :ref:`Equipment <gl-equipment>`,
-    :ref:`Basic land type <gl-basic-land-type>`,
-    and :ref:`Planeswalker type <gl-planeswalker-type>`. Creature subtypes
-    don't have any special rules associated with them.
-
-    Some effects can change a permanent's subtype. For example,
-    "Target creature becomes an Elf until end of turn." The new
-    subtype replaces the previous subtypes of the appropriate kind,
-    unless the ability says otherwise.
-
-Supertype
-    All types of cards can have supertypes. Supertypes come before
-    the card type on the type line. For example, a "Basic Land —
-    Forest" has the supertype "basic," and a "Legendary Creature
-    — Human Warrior" has the supertype "legendary." Supertypes
-    have no specific correlation to card types. Some supertypes have
-    specific rules associated with them.
-
-Swampwalk
-    A kind of landwalk. See the glossary entry for :ref:`Landwalk <gl-landwalk>`.
-
-Tap
-    To turn a card sideways. See :ref:`Tapping <sec-tapping>` [on page 9].
-
-Target
-    A word used in spells and abilities. See :ref:`Target <sec-target>` [on page 10].
-
-Text box
-    See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5].
-
-Token
-    Some instants, sorceries, and abilities can create creatures. These
-    creatures are represented by tokens. You can use anything you
-    want as a token, but you should use something that can be tapped.
-
-    Tokens are considered creatures in every way, and they're
-    affected by all the rules, spells, and abilities that affect creatures.
-    If one of your token creatures leaves the battlefield, however,
-    it moves to the new zone (such as your graveyard) and then
-    immediately vanishes from the game.
-
-Toughness
-    The number to the right of the slash in the box in the lower right
-    corner of creature cards. If a creature is dealt damage equal to
-    or greater than its toughness in a single turn, it's destroyed. If a
-    creature's toughness is reduced to 0 or less, it's put into its owner's
-    graveyard.
-
-Trample
-    A keyword ability seen on creatures. Trample is an ability that
-    lets a creature deal excess damage to the player or planeswalker
-    it's attacking even if it's blocked. When a creature with trample is
-    blocked, you have to deal at least enough of its combat damage
-    to the creatures blocking it to destroy all those creatures. But if
-    each blocking creature is assigned damage at least equal to its
-    toughness, then you can assign any of the attacking creature's
-    damage that's left over to the player or planeswalker it's attacking.
-
-Triggered ability
-    One of the three types of abilities a permanent can have. See
-    :ref:`Triggered Abilities <sec-triggered abilities>` [on page 12].
-
-Turn
-    Each turn is divided into phases, and most phases have steps. See
-    :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
-
-        Parts of the Turn
-            1. Beginning phase
-
-                a. Untap step
-                b. Upkeep step
-                c. Draw step
-
-            2. Main phase
-
-            3. Combat phase
-
-                a. Beginning of combat step
-                b. Declare attackers step
-                c. Declare blockers step
-                d. Combat damage step
-                e. End of combat step
-
-            4. Main phase (again)
-
-            5. Ending phase
-
-                a. End step
-                b. Cleanup step
-
-Two-Headed Giant
-    :ref:See `Multiplayer Variants <sec-multiplayer-variants>` [on page 20].
-
-Type line
-    :ref:See `Parts of a Card <sec-parts-of-card>` [on page 5].
-
-Unblocked
-    A creature is unblocked only if it's attacking and the defending
-    player has decided not to block it.
-
-Untap
-    To turn a tapped card upright so it's ready to be used again. See
-    :ref:`Tapping <sec-tapping>` [on page 9].
-
-Untap step
-    See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
-
-Upkeep step
-    See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
-
-Vigilance
-    A keyword ability seen on creatures. When a creature with
-    vigilance attacks, it doesn't become tapped.
-
-Winning the game
-    You win the game when any of the following things happens:
-
-    - Your opponent's life total is reduced to 0 or less.
-    - Your opponent has to draw a card from an empty library.
-    - Your opponent has ten or more poison counters. (No cards
-      in the Magic 2014 core set can give players poison counters.)
-    - A spell or ability says that you win the game or your opponent
-      loses the game.
-    - Your opponent concedes.
-
-    If both players would lose the game at the same time, the game is
-    draw—nobody wins.
-
-    Different multiplayer variants may modify the conditions for
-    winning the game.
-
-X
-    When you see X in a mana cost or an activation cost, you get
-    to choose the number that X stands for. For example, Volcanic
-    Geyser is an instant spell that costs |mana_x| |mana_r| |mana_r| and deals X damage.
-    When you cast Volcanic Geyser, you choose what number X is.
-    If you pick three, for example, Volcanic Geyser costs |mana_3| |mana_r| |mana_r| and
-    deals 3 damage. If you pick six, Volcanic Geyser costs |mana_6| |mana_r| |mana_r| and
-    deals 6 damage.
-
-You
-    The word "you" on a spell or ability refers to the current controller
-    of that spell or ability.
-
-Zone
-    An area of play in a Magic game. See `Game Zones <sec-game-zones>`
-    [on page 8].
+.. glossary::
+
+    |mana_1|, |mana_2|, |mana_3|, and so on, |mana_x|
+        One of these generic mana symbols in a cost means "this many of
+        any type of mana." For example, |mana_2| in a cost means you can pay
+        two mana of any type, such as |mana_r| and |mana_g|, or |mana_u| and |mana_u|, or |mana_r| and
+        one colorless mana, and so on. (If oX is in a cost, you get to choose
+        what number the X stands for.)
+
+        These symbols are also found in some abilities that produce
+        mana, like "Add |mana_1| to your mana pool." In this context, |mana_1| means
+        "one colorless mana." You can't use colorless mana to pay for colored
+        mana costs.
+
+    |mana_w| (white mana)
+        One white mana. Tapping a Plains makes |mana_w|. A card with |mana_w| in its mana cost is white.
+
+    |mana_u| (blue mana)
+        One blue mana. Tapping an Island makes |mana_u|. A card with |mana_u| in its mana cost is blue.
+
+    |mana_b| (black mana)
+        One black mana. Tapping a Swamp makes |mana_b|. A card with |mana_b| in its mana cost is black.
+
+    |mana_r| (red mana)
+        One red mana. Tapping a Mountain makes |mana_r|. A card with |mana_r| in its mana cost is red.
+
+    |mana_g| (green mana)
+        One green mana. Tapping a Forest makes |mana_g|. A card with |mana_g| in its mana cost is green.
+
+
+    |tap| (tap)
+        This symbol means "tap this card" (turn it sideways to show that it's been
+        used). It appears in activation costs. You can't pay a oT cost if the card is
+        already tapped. Also, remember that you can't pay your creature's oT costs
+        until the creature starts your turn on the battlefield under your control.
+
+    {w/u}, {b/g}, and so on
+        Hybrid mana symbols represent a cost that can be paid with either
+        of two colors. For example, a cost represented by the oh1 symbol
+        can be paid with one white mana or one blue mana. It's both a
+        white and a blue mana symbol, and a card with oh1 in its mana
+        cost is both white and blue.
+
+    \*/\*
+        Instead of numbers, some creatures have stars for their power and
+        toughness. This means the creature's power and toughness are set
+        by an ability it has rather than being fixed numbers. For example,
+        Nightmare has an ability that reads "Nightmare's power and
+        toughness are each equal to the number of Swamps you control." If
+        you control four Swamps when Nightmare enters the battlefield, it
+        will be 4/4. If you play more Swamps later on, it will get even bigger.
+
+    Ability
+        Any text on a permanent (except reminder text and flavor text) tells
+        you the permanent's abilities. There are three kinds of abilities a
+        permanent can have: activated abilities, static abilities, and triggered
+        abilities. Unless they say otherwise, abilities "work" only while the
+        permanent they're on is on the battlefield. Once a triggered ability
+        triggers or an activated ability is activated, it will resolve unless
+        it's countered; it doesn't matter what happens to the source of the
+        ability once the ability goes on the stack. See :ref:`Activated Abilities <sec-activated-abilities>`
+        [on page 12].
+
+    Activate
+        You activate an activated ability by putting it on the stack. You
+        activate an ability just as you cast a spell: announce it, choose its
+        targets, and pay its activation cost. See :ref:`Activated Abilities <sec-activated-abilities>`
+        [on page 12].
+
+    Activated ability
+        One of the three kinds of abilities a permanent can have. An
+        activated ability is always written in the form "cost: effect." See
+        :ref:`Abilities <sec-abilities>` [on page 12].
+
+    Active player
+        The player whose turn it is. The active player always gets the first
+        chance to cast spells and activate abilities.
+
+    Additional cost
+        Some spells say they have an additional cost. To cast that spell, you
+        must pay both the mana cost in the upper right corner of the card
+        and its additional cost.
+
+    Archenemy
+        A one-on-many multiplayer variant that features oversized scheme
+        cards.
+
+    Artifact
+        A card type. See :ref:`Artifact <sec-artifact>` [on page 6].
+
+    Artifact creature
+        This is both an artifact and a creature. See :ref:`Creature <sec-creature>` [on page 6].
+
+    Attack
+        How your creatures deal damage to your opponent. During
+        your combat phase, you decide which, if any, of your untapped
+        creatures will attack, and which player or planeswalker they will
+        attack, then they all do so at once. Attacking causes creatures
+        to tap. Creatures can attack only players or planeswalkers, not
+        other creatures. Your opponent then gets a chance to block your
+        attacking creatures with his or her own creatures. See
+        :ref:`Attacking and Blocking <sec-attacking-and-blocking>` [on page 13].
+
+    Attacking creature
+        A creature that's attacking. A creature is attacking from the time
+        it's declared as an attacker until the combat phase ends, unless
+        it's somehow removed from combat. There's no such thing as an
+        attacking creature outside of the combat phase.
+
+    Aura
+        A special type of enchantment that can be attached to a permanent
+        (or sometimes a player). Each Aura has the keyword "enchant"
+        followed by what it can be attached to: "enchant creature," "enchant
+        land," and so on. When you cast an Aura spell, you choose one
+        of the right kind of permanent to target. When the Aura resolves,
+        it's put onto the battlefield attached to that permanent (it's not
+        targeting it anymore). If an Aura is ever attached to something that
+        doesn't match its enchant ability—or attached to nothing at all—it's
+        put into its owner's graveyard.
+
+    Basic land
+        There are five basic lands. Plains make |mana_w| (white mana). Islands make |mana_u| (blue
+        mana). Swamps make |mana_b| (black mana). Mountains make |mana_r| (red mana). Forests
+        make |mana_g| (green mana). They each say "basic" on their type line (basic is a
+        supertype). Lands other than these five are called nonbasic lands.
+
+        When building a deck, you can include any number of basic lands. You
+        can't have more than four copies of any other cards in your deck.
+
+    Basic land type
+        Each basic land has a subtype, which appears after "Basic Land —"
+        on its type line. These are the "basic land types," which are the same
+        five words as the basic land names. Some nonbasic lands also have
+        basic land types. Any land with a basic land type has an activated
+        ability that makes one mana of the appropriate color, even if it doesn't
+        say so in the text box. For example, every Forest has the ability "|tap|:
+        Add |mana_g| to your mana pool."
+
+    Battlefield
+        A game zone. See :ref:`Battlefield <sec-battlefield>` [on page 8].
+
+    Block
+        To stop an attacking creature from damaging you or one of your
+        planeswalkers by having it fight one of your creatures instead.
+        After your opponent attacks with one or more creatures, you can
+        have any number of your untapped creatures block. Each one can
+        block one attacking creature. You can have two or more of your
+        untapped creatures gang up and block a single attacking creature. If
+        an attacker is blocked, it will deal its combat damage to the creature
+        blocking it instead of to the player or planeswalker it was attacking.
+        Blocking is optional. See :ref:`Attacking and Blocking <sec-attacking-and-blocking>`
+        [on page 13].
+
+    Blocked creature
+        An attacking creature that's blocked by at least one creature. Once
+        a creature is blocked, it stays blocked for the rest of the combat
+        phase—even if all the creatures blocking it leave combat. In other
+        words, once a creature is blocked, there's no way for it to deal
+        damage to the player or planeswalker it's attacking (unless the
+        attacking creature has trample). There's no such thing as a blocked
+        creature outside of the combat phase.
+
+    Blocking creature
+        A creature assigned to block an attacking creature. If a creature
+        blocks an attacker, the attacker deals its damage to the blocker
+        instead of to the player or planeswalker it's attacking. Once a
+        creature blocks, it stays a blocking creature for the rest of the
+        combat phase—even if the creature it's blocking leaves combat.
+        There's no such thing as a blocking creature outside of the
+        combat phase.
+
+    Booster, booster pack
+        A pack of randomly assorted Magic cards. When you want to
+        add more cards to your collection, this is what you'll get. Most
+        15-card booster packs contain one rare or mythic rare card,
+        three uncommon cards, and eleven common cards, including
+        one basic land card. Find stores where Magic cards are sold at
+        Wizards.com/Locator.
+
+    Booster Draft
+        See :ref:`Limited Formats <sec-limited-formats>` [on page 19].
+
+    Card type
+        Every card in your deck has at least one card type: artifact, creature,
+        enchantment, instant, land, planeswalker, or sorcery. A card's type is
+        printed under its illustration. Some cards, like artifact creatures, have
+        more than one type. Some cards also have subtypes, such as "Goblin"
+        and "Warrior" in "Creature — Goblin Warrior," or supertypes, such
+        as "basic" in "Basic Land — Forest."
+
+    Cast
+        You cast a spell by putting it on the stack. Different kinds of spells
+        can be cast at different times, but the things you have to do to
+        cast a spell are always the same: announce it, choose its targets
+        (and make certain other choices right away), and pay its cost. See
+        :ref:`Spells <sec-spells>` [on page 10].
+
+    Choose one —
+        When you see the phrase "Choose one —" on a card, you have to
+        choose one option on the card when you cast it. You can't change
+        your mind and choose something else later on, even if your first
+        choice doesn't work out.
+
+    Color
+        The five Magic colors are white, blue, black, red, and green. If a spell
+        or ability tells you to choose a color, you must choose one of those five.
+        A card's color is determined by its mana cost. For example, a card that
+        costs 1U is blue and a card that costs RW is both red and
+        white. Cards with no colored mana in their mana costs, like most artifacts,
+        are colorless. (Colorless is not a color.) Lands are also colorless.
+
+        Some effects can change a spell or permanent's color. For
+        example, "Target creature becomes blue until end of turn." The new
+        color replaces the previous colors, unless the ability says otherwise.
+
+    Colorless
+        Lands and most artifacts are colorless. Colorless is not a color. If
+        something tells you to choose a color, you can't choose colorless.
+
+    Combat
+        In general, combat means attacking, blocking, and all the stuff
+        that happens during a combat phase.
+
+    Combat damage
+        Damage dealt by creatures due to attacking and blocking. A
+        creature deals combat damage equal to its power. This damage is
+        dealt during the combat damage step. Any other kind of damage
+        doesn't count as combat damage, even if it's dealt as the result of a
+        creature's ability during combat.
+
+    Combat damage step
+        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+
+    Combat phase
+        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+
+    Command zone
+        A game zone used for objects that affect the game but aren't
+        permanents. Some planeswalkers create emblems that go here, and
+        some multiplayer variants use this zone for their oversized cards.
+
+    Commander
+        A casual variant in which each player's deck is led by a legendary
+        creature.
+
+    Concede
+        To stop playing a game and give your opponent the victory. You
+        can concede a game at any time (usually if you realize you won't
+        be able to avoid losing). When you concede, you lose the game.
+
+    Constructed
+        A group of play formats that use decks you build in advance. A
+        Constructed deck must have at least 60 cards, and it can't have
+        more than four copies of any single card (except for basic lands).
+        Standard is the most popular Constructed format.
+
+    Continuous effect
+        An effect that lasts for some duration. These are different from
+        one-shot effects, which just happen once and don't have a
+        duration. You can tell how long a continuous effect will last by
+        reading the spell or ability it came from. For example, it might say
+        "until end of turn." If the continuous effect comes from a static
+        ability, it lasts as long as the permanent with the ability is on the
+        battlefield.
+
+    Control
+        You control spells you cast and permanents that entered the
+        battlefield on your side. You also control abilities that come from
+        permanents you control.
+
+        Only you can make decisions for things you control. If you
+        control a permanent, only you can activate its activated abilities.
+        Even if you put an Aura on your opponent's creature, you control
+        the Aura and its abilities.
+
+        Some spells and abilities let you gain control of a permanent.
+        Most of the time, this means the card will move from your
+        opponent's side to yours. But for Auras or Equipment attached to
+        other cards, the controller changes but it doesn't move.
+
+    Controller
+        A spell's controller is the player who cast it. An activated ability's
+        controller is the player who activated it. A permanent's controller
+        is the player who cast it—unless another spell or ability changes
+        who controls it. A triggered ability's controller is the player who
+        controlled the source of the ability when it triggered.
+
+    Converted mana cost
+        The total amount of mana in a mana cost, regardless of color. For
+        example, a card with a mana cost of 3UU has a converted mana
+        cost of 5. A card with mana cost RR has a converted mana cost
+        of 2.
+
+    Cost
+        A cost is something you have to pay to take another action. You must
+        pay a cost to cast a spell or activate an activated ability. Sometimes
+        a spell or ability will also ask you to pay a cost when it resolves.
+        You can't pay a cost unless you can pay all of it. For example, if an
+        activated ability's cost (the part before the ":") tells you to discard a
+        card and you have no cards in your hand, you can't even try to pay it.
+
+    Counter a spell or ability
+        To cancel out a spell or ability so it has no effect. If a spell is
+        countered, it's removed from the stack and put into its owner's
+        graveyard. Once a spell or ability starts to resolve, it's too late to
+        counter it. Lands aren't spells, so they can't be countered.
+
+    Counter on a permanent
+        Some spells and abilities tell you to put a counter on a permanent.
+        The counter marks a change to the permanent that lasts for as long
+        as it's on the battlefield. A counter usually changes a creature's power
+        and toughness or tracks a planeswalker's current loyalty. You can use
+        anything you want as counters: glass beads, dice, or whatever.
+
+    Creature
+        A card type. See :ref:`Creature <sec-creature>` [on page 6].
+
+    Creature type
+        This tells you what kind of creature a creature is, such as Goblin,
+        Elf, or Warrior. You find creature types in the middle of the card
+        after "Creature — ." If a creature has more than one word after the
+        dash, the creature has all of those creature types.
+
+        Some spells and abilities affect multiple creatures with a certain
+        type. For example, Predatory Sliver reads "Sliver creatures you
+        control get +1/+1." All creatures you control with the Sliver
+        creature type, including Predatory Sliver, get the bonus.
+
+    Damage
+        This is what knocks down a player's life total, lowers a planeswalker's
+        loyalty, and destroys creatures. Attacking and blocking creatures
+        deal damage equal to their power. Some spells and abilities can also
+        deal damage. Damage can be dealt only to creatures, planeswalkers,
+        or players. If a creature is dealt damage equal to or greater than
+        its toughness in one turn, it's destroyed. If a planeswalker is dealt
+        damage, that many loyalty counters are removed from it. If a player
+        is dealt damage, it's subtracted from the player's life total.
+
+        Damage is different from losing life. For example, Dark Favor is
+        an Aura with the drawback "When Dark Favor enters the battlefield,
+        you lose 1 life." That loss of life isn't damage, so it can't be prevented.
+
+    Deathtouch
+        A keyword ability seen on creatures. Deathtouch is an ability that
+        causes a creature to deal an exceptionally lethal form of damage
+        to other creatures. A creature dealt any amount of damage by
+        a creature with deathtouch is destroyed. If your creature with
+        deathtouch is blocked by multiple creatures, you can assign as
+        little as 1 damage to each of the blocking creatures!
+
+    Deck
+        At least 60 cards of your choice, well shuffled. (Limited formats in
+        which players build their decks as part of the event allow 40-card
+        decks.) To play a Magic game, you must have your own deck.
+        Once the game starts, your deck becomes your library.
+
+    Declare attackers step
+        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+
+    Declare blockers step
+        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+
+    Defender
+        A keyword ability seen on creatures. Creatures with defender can't
+        attack.
+
+    Defending player
+        The player who is being attacked (or whose planeswalker is being
+        attacked) during a combat phase.
+
+    Destroy
+        To move a permanent from the battlefield to its owner's graveyard.
+        Creatures are destroyed when they've taken damage equal to or
+        greater than their toughness. Also, lots of spells and abilities can
+        destroy permanents (without dealing damage to them).
+
+        Sometimes permanents are put into the graveyard without
+        being destroyed. If a permanent is sacrificed, it isn't "destroyed,"
+        but it's still put into its owner's graveyard. The same is true if
+        a creature's toughness is reduced to 0 or less, two legendary
+        permanents with the same name controlled by the same player
+        are on the battlefield, two planeswalkers with the same subtype
+        controlled by the same player are on the battlefield, or an Aura
+        is on the battlefield but isn't enchanting what's described in its
+        "enchant" ability.
+
+    Dies
+        "Dies" is another way to say that a creature "is put into a graveyard
+        from the battlefield."
+
+    Discard
+        To take a card from your hand and put it into your graveyard. If a
+        spell or ability makes you discard cards, you get to choose which
+        cards to discard—unless the spell or ability says another player
+        chooses the cards or you have to discard "at random."
+
+        If you have more than seven cards in your hand during your own
+        cleanup step, you have to discard until you have seven.
+
+    Double strike
+        A keyword ability seen on creatures. Creatures with double strike
+        deal their combat damage twice. When you reach the combat
+        damage step, check to see if any attacking or blocking creatures
+        have first strike or double strike. If so, an extra combat damage
+        step is created just for them. Only creatures with first strike and
+        double strike get to deal combat damage in this step. After that,
+        the normal combat damage step happens. All remaining attacking
+        and blocking creatures, as well as the ones with double strike, deal
+        combat damage during this second step.
+
+    Draw a card
+        To take the top card of your library (deck) and put it into your
+        hand. You draw one card during each of your turns, at the start
+        of your draw step. You also draw if a spell or ability lets you; this
+        doesn't affect your normal draw for the turn. If a spell or ability
+        lets you put a card into your hand from your library but doesn't
+        use the word "draw," it doesn't count as drawing a card.
+
+    Draw step
+        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+
+    Draw the game
+        The other meaning of "draw" is a game that ends with no winner.
+        For example, if a spell like Earthquake deals enough damage so
+        that both players drop to 0 or less life, the game is a draw.
+
+    Effect
+        What a spell or ability does when it resolves. There are several
+        types of effects: one-shot effects, continuous effects, prevention
+        effects, and replacement effects. You can look up each one in this
+        glossary.
+
+    Emblem
+        Some planeswalkers' abilities create an emblem that leaves a
+        lasting effect on the game. Once an emblem is created, it can't be
+        destroyed and its abilities apply until the game ends.
+
+    Enchant
+        A keyword ability seen on all Auras. It's usually followed by a
+        description of a permanent (for example, "enchant creature" or
+        "enchant land"), which tells you what kind of permanent the
+        Aura can be attached to. When you cast the Aura, you must target
+        that kind of permanent. Similarly, Auras with "enchant player" or
+        "enchant opponent" target a player when they're cast. If an Aura is
+        ever attached to something that doesn't match its enchant ability,
+        it's put into its owner's graveyard.
+
+    Enchanted
+        When an ability of an Aura says "enchanted creature" (or "enchanted
+        artifact," "enchanted land," and so on), it means "the creature the Aura
+        is attached to." For example, Mark of the Vampire has the ability "Enchanted
+        creature gets +2/+2 and has lifelink." Only the creature that Mark of the
+        Vampire is attached to gets the bonus, and that creature's controller will gain
+        life from its lifelink ability.
+
+    Enchantment
+        A card type. See :ref:`Enchantment <sec-enchantment>` [on page 6].
+
+    End of combat step
+        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+
+    End step
+        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+
+    Enters the battlefield
+        When artifact, creature, enchantment, and planeswalker spells
+        resolve, they enter the battlefield as permanents. Lands also enter
+        the battlefield as permanents.
+
+        Some triggered abilities start with "When [this permanent] enters
+        the battlefield, . . . ." When a permanent with an ability like this is
+        put onto the battlefield, this ability triggers right away. Some abilities
+        also trigger when certain other permanents enter the battlefield.
+
+        Some cards say they enter the battlefield tapped. These cards
+        don't enter the battlefield and become tapped—they're already
+        tapped by the time they're put onto the battlefield. Similarly,
+        creatures that "enter the battlefield with (some number of) +1/+1
+        counters," or whose power or toughness will be modified by a
+        continuous effect, don't enter the battlefield and then change size.
+
+    Equip
+        A keyword ability seen on all Equipment. It tells you how much it
+        costs to attach the Equipment to one of your creatures. It doesn't
+        matter whether the Equipment is unattached or is attached to a
+        different creature. You can activate this ability only during your
+        main phase, when no spells or abilities are on the stack. The equip
+        ability targets the creature you're moving the Equipment onto.
+
+    Equipment
+        A type of artifact that represents a weapon, armor, or other item
+        that your creatures can use. When you cast an Equipment spell,
+        it enters the battlefield like any other artifact. Once it's on the
+        battlefield, you can pay its equip cost any time you could cast a
+        sorcery to attach it to a creature you control. You can do this even
+        if the Equipment is attached to another creature. Once it's attached
+        to a creature, the Equipment then has some effect on it. If the
+        equipped creature leaves the battlefield, the Equipment "drops to
+        the ground" and stays on the battlefield, waiting for you to attach
+        it to another creature.
+
+    Evasion ability
+        A nickname for any ability that makes a creature harder to block.
+        Flying is the most common evasion ability.
+
+    Exile
+        A game zone. Exile is essentially a holding area for cards. If a spell
+        or ability exiles a card, that card is moved to the exile zone from
+        wherever it is. See :ref:`Exile <sec-exile>` [on page 8].
+
+    Expansion symbol
+        See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5].
+
+    Fight
+        Some effects cause a creature to fight another creature. When two
+        creatures fight, each deals damage equal to its power to the other.
+
+    First strike
+        A keyword ability seen on creatures. Creatures with first strike deal
+        their combat damage before creatures without first strike. When
+        you reach the combat damage step, check to see if any attacking
+        or blocking creatures have first strike or double strike. If so, an
+        extra combat damage step is created just for them. Only creatures
+        with first strike and double strike get to deal combat damage in
+        this step. After that, the normal combat damage step happens. All
+        remaining attacking and blocking creatures, as well as the ones
+        with double strike, deal combat damage during this second step.
+
+    Flash
+        A keyword ability seen on creatures, artifacts, and enchantments.
+        A spell with flash can be cast any time you could cast an instant.
+
+    Flavor text
+        Italic text (italic text looks like this) in a card's text box that's just for
+        fun. Flavor text sets a tone or describes part of the magical world of
+        the card. If the text is in parentheses, it's there to remind you about
+        a rule—it's not flavor text. Flavor text has no effect on how the card
+        is cast.
+
+    Flying
+        A keyword ability seen on creatures. A creature with flying can't be
+        blocked except by creatures with flying or reach.
+
+    Forestwalk
+        A kind of landwalk. See the glossary entry for "Landwalk."
+
+    Graveyard
+        A game zone. See :ref:`Graveyard <sec-graveyard>` [on page 8].
+
+    Hand
+        A game zone. See :ref:`Hand <sec-hand>` [on page 8].
+
+    Haste
+        A keyword ability seen on creatures. A creature with haste can
+        attack as soon as it comes under your control. You can also
+        activate its activated abilities with oT in the cost.
+
+    Hexproof
+        A keyword ability seen on permanents. A permanent with
+        hexproof can't be the target of spells or abilities controlled by an
+        opponent. The player who controls the permanent with hexproof
+        can still target it with spells and abilities.
+
+    Indestructible
+        An indestructible permanent can't be destroyed by damage or by
+        effects that say "destroy." It can still be put into the graveyard for
+        other reasons. See the glossary entry for :ref:`Destroy <gl-destroy>`.
+
+    Instant
+        A card type. See :ref:`Instant <sec-instant>` [on page 6].
+
+    Instead
+        When you see this word, you know a spell or ability creates a replacement
+        effect. See the glossary entry for "Replacement effect."
+
+    Intimidate
+        A keyword ability seen on creatures. A creature with intimidate
+        can't be blocked except by creatures that share a color with it and/
+        or artifact creatures. For example, a red creature with intimidate
+        could be blocked by a red creature, a red-and-green creature, or any
+        artifact creature. Intimidate only matters when the creature with the
+        ability is attacking.
+
+    Intro pack
+        A pack that includes a ready-to-play deck featuring cards from a
+        particular set, as well as two bonus 15-card booster packs. You can play
+        decks from intro packs against each other right out of the box. The
+        Magic 2014 core set has five intro packs. When you're just starting to
+        play, modifying the deck from a Magic intro pack is a good way to start
+        designing your own decks. Find stores where Magic cards are sold at
+        Wizards.com/Locator.
+
+    Islandwalk
+        A kind of landwalk. See the glossary entry for :ref:`Landwalk <gl-landwalk>`.
+
+    Land
+        A card type. See :ref:`Land <sec-land>` [on page 7].
+
+    Land type
+        A subtype of a land. See the glossary entry for :ref:`Basic land type <gl-basic-land-type>`.
+
+    Landwalk
+        Landwalk is the name for a group of keyword abilities that
+        includes plainswalk, islandwalk, swampwalk, mountainwalk,
+        and forestwalk. A creature with landwalk is unblockable if the
+        defending player controls at least one land of the specified type.
+
+    Leaves the battlefield
+        A permanent leaves the battlefield when it moves from the
+        battlefield zone to any other zone. It might return to a player's
+        hand from the battlefield, go to a graveyard from the battlefield,
+        or go to some other zone. If a card leaves the battlefield and later
+        returns to the battlefield, it's like a brand-new card. It doesn't
+        "remember" anything from the last time it was on the battlefield.
+
+    Legendary
+        Legendary is a supertype, so you'll find it written on the type line
+        before the card type. If a player controls two or more legendary
+        permanents with the same name, that player chooses one of them
+        to stay on the battlefield and the rest are put into their owner's
+        graveyard. (Different players can control legendary permanents
+        with the same name.) This is known as the "legend rule."
+
+    Library
+        A game zone. See :ref:`Library <sec-library>` [on page 8].
+
+    Life, life total
+        Each player begins the game with 20 life. When you're dealt
+        damage by spells, abilities, or unblocked creatures, you subtract
+        the damage from your life total. If your life total drops to 0 or less,
+        you lose the game. If something causes both players' life totals to
+        drop to 0 or less at the same time, the game is a draw.
+
+    Lifelink
+        A keyword ability seen on permanents. Damage dealt by a
+        permanent with lifelink causes that permanent's controller to
+        gain that much life, in addition to behaving like normal damage.
+
+    Limited
+        A group of play formats using cards from booster packs you open
+        just before you play. See :ref:`Limited Formats <sec-limited-formats>` [on page 19].
+
+    Losing life
+        All damage dealt to you causes you to lose life, which is why
+        it's subtracted from your life total. In addition, some spells and
+        abilities say that they cause you to lose life. This isn't the same as
+        damage, so it can't be prevented.
+
+    Loyalty
+        Loyalty is a characteristic that only planeswalkers have. Each planeswalker
+        card has a loyalty number printed in its lower right corner: that's how many
+        loyalty counters it gets as it enters the battlefield. The cost to activate one of
+        a planeswalker's activated abilities is to put loyalty counters on it or remove
+        loyalty counters from it. Each 1 damage dealt to a planeswalker causes a loyalty
+        counter to be removed from it. If a planeswalker has no loyalty counters on it,
+        it's put into its owner's graveyard. See also :ref:`Planeswalker <sec-planeswalker>`
+        [on page 7].
+
+    Main phase
+        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+
+    Mana
+        The magical energy you use to pay for spells and some abilities.
+
+        Most mana comes from tapping lands. There are five colors of
+        mana: |mana_w| (white), |mana_u| (blue), |mana_b| (black), |mana_r| (red), and |mana_g| (green).
+        There's also colorless mana.
+
+    Mana ability
+        An ability that adds mana to your mana pool. Mana abilities can
+        be activated abilities or triggered abilities. A mana ability doesn't
+        go on the stack when you activate it or it triggers—you simply get
+        the mana immediately.
+
+    Mana cost
+        See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5]. Also see the glossary entry for
+        "Converted mana cost."
+
+    Mana pool
+        The place where your mana is stored until you spend it or until
+        the current step or phase ends.
+
+    Match
+        A series of games against the same opponent. Most matches are
+        best two out of three, so the first player to win two games wins
+        the match. The loser of the first game decides who goes first in
+        the second game, and so on.
+
+    Modern
+        A Constructed format that's growing in popularity. The Modern
+        format uses core sets and blocks from Eighth Edition and
+        Mirrodin® to the present. See `Wizards.com/MagicFormats`_
+        for more information.
+
+    Mountainwalk
+        A kind of landwalk. See the glossary entry for :ref:`Landwalk <gl-landwalk>`.
+
+    Mulligan
+        At the beginning of a Magic game, you draw the top seven
+        cards of your library. If you don't like that hand of cards for
+        any reason, you can mulligan. When you mulligan, your hand
+        is shuffled into your library and you draw a new hand of one
+        fewer cards. You can mulligan as many times as you want, but
+        you draw one fewer card each time. When both players like their
+        opening hands, you start playing.
+
+    Multicolored card
+        A card with more than one color of mana in its mana cost. For
+        example, a card with the mana cost |mana_2| |mana_b| |mana_r| is both black and red.
+        Most multicolored cards have a gold background.
+
+    Multiplayer game
+        A Magic game that starts with more than two players in it. See
+        :ref:`Multiplayer Variants <sec-multiplayer-variants` [on page 20].
+
+    Name
+        See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5].
+
+        When a card's name appears in its text box, the card is referring
+        to itself, not to any other cards with the same name.
+
+    Non-
+        When a spell or ability's text refers to a "nonland card" or a
+        "nonblack creature," and so on, it means "a card that's not a land,"
+        "a creature that's not black," and so on.
+
+    Nonbasic land
+        Any land that doesn't have the supertype "basic" on its type line—
+        in other words, any land not named Plains, Island, Swamp, Mountain, or
+        Forest. You can't put more than four copies of any one nonbasic land card
+        into a deck.
+
+    One-shot effect
+        An effect that applies to the game once, and then it's done. For example,
+        Divination reads, "Draw two cards." When it resolves, its effect is done.
+        One-shot effects differ from continuous effects, which last for some amount of time.
+
+    Opponent
+        A person you're playing against. If a card says "an opponent," it
+        means one of its controller's opponents.
+
+    Owner
+        The person who started the game with the card in his or her deck.
+        Even if your opponent has control of one of your permanents,
+        you're still its owner. (If you loaned your friend a deck, he or she
+        will be the "owner" of all the cards in it during the game.) The
+        owner of a token is the player who controlled it when it entered
+        the battlefield.
+
+    Paying life
+        Sometimes a spell or ability will ask you to pay life as part of its
+        cost. To pay life, subtract that amount of life from your life total.
+        You can't pay more life than you have. Paying life isn't damage, so
+        it can't be prevented.
+
+    Permanent
+        A card or creature token on the battlefield. Permanents can be
+        artifacts, creatures, enchantments, lands, or planeswalkers. Once
+        a permanent is on the battlefield, it stays there until it's destroyed,
+        sacrificed, or removed somehow. You can't remove a permanent from
+        the battlefield just because you want to, even if you control it. If a
+        permanent leaves the battlefield and then re-enters the battlefield, it's
+        treated like a brand-new card. It doesn't "remember" anything about
+        the last time it was on the battlefield.
+
+        Unless they say otherwise, spells and abilities affect only
+        permanents. For example, Unsummon reads, "Return target
+        creature to its owner's hand." You must target a creature on the
+        battlefield, not a creature card in a graveyard or anywhere else.
+
+    Permanent type
+        The permanent types are artifact, creature, enchantment, land, and
+        planeswalker. Permanents can have more than one type.
+
+    Phase
+        One of the main sections of a turn. There are five: beginning phase,
+        first main phase, combat phase, second main phase, and ending
+        phase. Some phases are divided into steps. If a player has mana left
+        over as a step or phase ends, that mana is lost. See
+        :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+
+    Planechase
+        A multiplayer variant that features oversized plane cards.
+
+    Planeswalker
+        A card type. See :ref:`Planeswalker <sec-planeswalker>` [on page 7].
+
+    Planeswalker type
+        A subtype of a planeswalker. If a player controls two or more
+        planeswalkers with the same planeswalker type, that player chooses
+        one of them to stay on the battlefield and the rest are put into their
+        owner's graveyard. (Different players can control planeswalkers with
+        the same planeswalker type.)
+
+    Play
+        You play a land by putting it onto the battlefield from your hand.
+        You can play a land only once each turn during one of your main
+        phases when nothing's on the stack. Lands don't go on the stack
+        when you play them.
+
+        Some effects tell you to play a card. That means to play a land
+        or cast a spell, depending on the card's type.
+
+    Player
+        Either you or your opponent. If a spell or ability lets you choose
+        a player, you can choose yourself. You can't choose yourself if it
+        says "opponent." If you're playing a multiplayer game (a game
+        with more than two players), everyone in the game is a player,
+        including your teammates.
+
+    Power
+        The number to the left of the slash in the box in the lower right
+        corner of a creature card. A creature deals combat damage equal
+        to its power. A creature with 0 power or less deals no damage in
+        combat.
+
+    Prevent
+        When you see this word in the text of a spell or ability, you know
+        it's a prevention effect.
+
+    Prevention effect
+        An effect that stops damage from being dealt. A prevention effect
+        works like a shield. If damage would be dealt but a prevention
+        shield is in place, some or all of that damage isn't dealt. A
+        prevention effect can prevent all damage a source would deal, or it
+        can prevent just a specific amount of damage.
+
+        For example, Fog reads, "Prevent all combat damage that would
+        be dealt this turn." You can cast Fog long before combat, and its
+        effect will hang around for the whole turn. Then, if creatures try
+        to deal combat damage during that turn, Fog prevents it.
+
+        Prevention effects can prevent damage from being dealt to
+        creatures, to players, or both. If a prevention effect could prevent
+        damage from being dealt by multiple sources at the same time,
+        the player who would be dealt that damage, or who controls the
+        creature that would be dealt that damage, chooses which source to
+        prevent the damage from.
+
+    Priority
+        Since players can cast instants and activate abilities during each
+        other's turns, the game needs a system that makes sure only one
+        player can do something at a time. Priority determines, at any given
+        time, which player can cast a spell or activate an activated ability.
+
+        The active player (the player whose turn it is) gets priority at the
+        beginning of each step and each main phase—except for the untap
+        step and the cleanup step. When you get priority, you can cast a spell,
+        activate an activated ability, or pass (choose to do nothing). If you do
+        something, you keep priority, so you make the same choice again.
+        If you pass, your opponent gets priority, so now he or she gets that
+        choice. This goes back and forth until both players pass in a row.
+
+        When both players pass in a row, if there's a spell or ability
+        waiting on the stack, it resolves. Then the active player gets
+        priority again, and the system repeats. When both players pass in
+        a row, if there's no spell or ability waiting on the stack, that part of
+        the turn ends and the next one begins.
+
+    Protection
+        A keyword ability seen on creatures. A creature with protection
+        will always have "protection from ________." That something is
+        what the creature is protected from. It might be protection from
+        red, for example, or protection from Goblins. Protection does
+        several specific things for the creature:
+        
+        - All damage those kinds of sources would deal to the creature is
+          prevented.
+        - The creature can't be enchanted by those kinds of Auras or
+          equipped by those kinds of Equipment.
+        - The creature can't be blocked by those kinds of creatures.
+        - The creature can't be targeted by those kinds of spells or by
+          abilities from those kinds of cards.
+
+    Put onto the battlefield
+        To move a card or token into the battlefield zone. When a spell or
+        ability tells you to put something onto the battlefield, that's not the
+        same as casting it. You just put it onto the battlefield without paying
+        its costs.
+
+    Rarity
+        How likely it is you'll get a particular card. There are four
+        levels of rarity for Magic cards: common, uncommon,
+        rare, and mythic rare. Each 15-card booster pack typically
+        has eleven common cards including one basic land card, three uncommon cards, and one rare
+        card. Some boosters have a mythic rare card instead of a rare card.
+
+    Reach
+        A keyword ability seen on creatures. A creature with reach can
+        block a creature with flying. However, a creature with reach can
+        be blocked by any kind of creature.
+
+    Regenerate
+        To prevent a permanent from being destroyed later in the turn. A regeneration effect
+        works like a shield. A spell or ability that says "Regenerate [a permanent]" puts
+        a regeneration shield on that permanent that can be used up at any time during the turn.
+        If a permanent would be destroyed and it has a regeneration shield, it's not
+        destroyed. Instead, it becomes tapped, it's removed from combat (if it's an attacking
+        or blocking creature), and all damage is removed from it. That regeneration shield is
+        then used up. The permanent never leaves the battlefield, so any
+        Auras, Equipment, or counters that were on it remain there. Any
+        unused regeneration shields go away during the cleanup step.
+
+        Although a permanent with a regeneration shield can't be
+        destroyed, it can still be put into the graveyard for other reasons.
+        See the glossary entry for :ref:`Destroy <gl-destroy>`.
+
+    Reminder text
+        Italic text in parentheses (like this) in the text box that reminds you
+        of a rule or keyword ability. Reminder text isn't meant to tell you all
+        the rules for an ability. It just reminds you of how the card works.
+
+    Remove from combat
+        If an effect removes a creature from combat, it's not attacking or
+        blocking anymore. If it blocked a creature before it was removed,
+        the attacking creature stays blocked, so no damage would get
+        through to the player or planeswalker that's being attacked. A
+        creature that's removed from combat neither deals nor is dealt
+        combat damage.
+
+    Replacement effect
+        A kind of effect that waits for a particular event and then replaces
+        that event with a different one. Replacement effects have the
+        word "instead" in them. For example, Darksteel Colossus reads,
+        in part, "If Darksteel Colossus would be put into a graveyard from
+        anywhere, reveal Darksteel Colossus and shuffle it into its owner's
+        library instead." The effect replaces the action of putting Darksteel
+        Colossus into the graveyard with the action of shuffling it into its
+        owner's library. Darksteel Colossus never hits the graveyard at all.
+
+    Resolve
+        When you cast a spell or activate an activated ability, or when
+        a triggered ability triggers, nothing happens right away. It just
+        goes on the stack. After each player gets a chance to respond to
+        it, it will resolve and its effect will happen. If another spell or
+        ability counters it, or if none of its targets are legal when it tries
+        to resolve, it won't resolve at all (and if it's a spell, it's put into its
+        owner's graveyard).
+
+    Respond, in response
+        To cast an instant or activate an activated ability right after another
+        spell or ability has been put on the stack. See
+        :ref:`Responding to a Spell <sec-responding-to-spell>` [on page 10].
+
+    Reveal
+        When you reveal a card, it's shown to all the players in the game.
+
+    Sacrifice
+        To choose one of your permanents on the battlefield and put it
+        into its owner's graveyard. You can sacrifice only permanents you
+        control. Sacrificing a permanent is different from destroying it, so
+        the permanent can't be regenerated. You can sacrifice a permanent
+        only if a spell or ability tells you to, or if it's part of a cost.
+
+    Sealed Deck
+        See :ref:`Limited Formats <sec-limited-formats>` [on page 19].
+
+    Shuffle
+        To randomize the order of the cards in your deck. At the beginning
+        of every Magic game, your deck is shuffled. Some cards will tell you
+        to shuffle your library as part of their effect (usually because the
+        effect let you look through your library).
+
+    Sideboard
+        Magic events allow the use of a sideboard—a group of extra cards
+        that are particularly good against certain opponents. After you play
+        a game against an opponent, you may make changes to your deck
+        using cards from your sideboard. You must reset your deck to its
+        original configuration before playing someone new.
+
+        In Constructed formats, your sideboard consists of up to 15
+        cards. Your combined deck and sideboard can't have more than
+        four copies of any card other than basic land cards. Your deck
+        must have at least 60 cards.
+
+        In Limited formats, all the cards you opened that aren't in
+        your main deck are in your sideboard. Your deck must have at
+        least 40 cards.
+
+    Sorcery
+        A card type. See :ref:`Sorcery <sec-sorcery>` [on page 5].
+
+    Source
+        Where damage or an ability came from. Once an ability has gone
+        on the stack, removing its source doesn't stop the ability from
+        resolving.
+
+    Spell
+        All types of cards except lands are spells while you're casting them.
+        For example, Serra Angel is a creature card. While you're casting
+        it, it's a creature spell. When it resolves, it becomes a creature.
+
+    Stack
+        A game zone. See :ref:`The Stack <sec-stack>` [on page 8].
+
+    Standard
+        The most popular Constructed format. It uses only the newest
+        sets the game has to offer. The current block, the block that was
+        released the previous October, and the most recent core set are all
+        legal to play in a Standard deck. See `Wizards.com/MagicFormats`_
+        for more information.
+
+    Static ability
+        One of the three types of abilities a permanent can have. See
+        :ref:`Static Abilities <sec-static-abilities>` [on page 12].
+
+    Step
+        Every phase except the main phase is divided into steps. Specific
+        things happen during some steps. For example, you untap your
+        permanents during your untap step. If a player has mana left over
+        as a step or phase ends, that mana is lost. See :ref:`Parts of the Turn <sec-parts-of-turn>`
+        [on page 17].
+
+    Subtype
+        All types of cards can have subtypes. Subtypes come after the
+        long dash on the type line. Subtypes of creatures are also called
+        creature types, subtypes of lands are called land types, and so on.
+        A card can have multiple subtypes or none at all. For example, a
+        "Creature — Elf Warrior" has the subtypes Elf and Warrior, but
+        a card with just "Land" on its type line doesn't have a subtype.
+
+        A few subtypes have special rules. See the glossary entries for
+        :ref:`Aura <gl-aura>`, :ref:`Equipment <gl-equipment>`,
+        :ref:`Basic land type <gl-basic-land-type>`,
+        and :ref:`Planeswalker type <gl-planeswalker-type>`. Creature subtypes
+        don't have any special rules associated with them.
+
+        Some effects can change a permanent's subtype. For example,
+        "Target creature becomes an Elf until end of turn." The new
+        subtype replaces the previous subtypes of the appropriate kind,
+        unless the ability says otherwise.
+
+    Supertype
+        All types of cards can have supertypes. Supertypes come before
+        the card type on the type line. For example, a "Basic Land —
+        Forest" has the supertype "basic," and a "Legendary Creature
+        — Human Warrior" has the supertype "legendary." Supertypes
+        have no specific correlation to card types. Some supertypes have
+        specific rules associated with them.
+
+    Swampwalk
+        A kind of landwalk. See the glossary entry for :ref:`Landwalk <gl-landwalk>`.
+
+    Tap
+        To turn a card sideways. See :ref:`Tapping <sec-tapping>` [on page 9].
+
+    Target
+        A word used in spells and abilities. See :ref:`Target <sec-target>` [on page 10].
+
+    Text box
+        See :ref:`Parts of a Card <sec-parts-of-card>` [on page 5].
+
+    Token
+        Some instants, sorceries, and abilities can create creatures. These
+        creatures are represented by tokens. You can use anything you
+        want as a token, but you should use something that can be tapped.
+
+        Tokens are considered creatures in every way, and they're
+        affected by all the rules, spells, and abilities that affect creatures.
+        If one of your token creatures leaves the battlefield, however,
+        it moves to the new zone (such as your graveyard) and then
+        immediately vanishes from the game.
+
+    Toughness
+        The number to the right of the slash in the box in the lower right
+        corner of creature cards. If a creature is dealt damage equal to
+        or greater than its toughness in a single turn, it's destroyed. If a
+        creature's toughness is reduced to 0 or less, it's put into its owner's
+        graveyard.
+
+    Trample
+        A keyword ability seen on creatures. Trample is an ability that
+        lets a creature deal excess damage to the player or planeswalker
+        it's attacking even if it's blocked. When a creature with trample is
+        blocked, you have to deal at least enough of its combat damage
+        to the creatures blocking it to destroy all those creatures. But if
+        each blocking creature is assigned damage at least equal to its
+        toughness, then you can assign any of the attacking creature's
+        damage that's left over to the player or planeswalker it's attacking.
+
+    Triggered ability
+        One of the three types of abilities a permanent can have. See
+        :ref:`Triggered Abilities <sec-triggered abilities>` [on page 12].
+
+    Turn
+        Each turn is divided into phases, and most phases have steps. See
+        :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+
+        Parts of the Turn:
+
+        1. Beginning phase
+
+            a. Untap step
+            b. Upkeep step
+            c. Draw step
+
+        2. Main phase
+
+        3. Combat phase
+
+            a. Beginning of combat step
+            b. Declare attackers step
+            c. Declare blockers step
+            d. Combat damage step
+            e. End of combat step
+
+        4. Main phase (again)
+
+        5. Ending phase
+
+            a. End step
+            b. Cleanup step
+
+    Two-Headed Giant
+        :ref:See `Multiplayer Variants <sec-multiplayer-variants>` [on page 20].
+
+    Type line
+        :ref:See `Parts of a Card <sec-parts-of-card>` [on page 5].
+
+    Unblocked
+        A creature is unblocked only if it's attacking and the defending
+        player has decided not to block it.
+
+    Untap
+        To turn a tapped card upright so it's ready to be used again. See
+        :ref:`Tapping <sec-tapping>` [on page 9].
+
+    Untap step
+        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+
+    Upkeep step
+        See :ref:`Parts of the Turn <sec-parts-of-turn>` [on page 17].
+
+    Vigilance
+        A keyword ability seen on creatures. When a creature with
+        vigilance attacks, it doesn't become tapped.
+
+    Winning the game
+        You win the game when any of the following things happens:
+
+        - Your opponent's life total is reduced to 0 or less.
+        - Your opponent has to draw a card from an empty library.
+        - Your opponent has ten or more poison counters. (No cards
+          in the Magic 2014 core set can give players poison counters.)
+        - A spell or ability says that you win the game or your opponent
+          loses the game.
+        - Your opponent concedes.
+
+        If both players would lose the game at the same time, the game is
+        draw—nobody wins.
+
+        Different multiplayer variants may modify the conditions for
+        winning the game.
+
+    X
+        When you see X in a mana cost or an activation cost, you get
+        to choose the number that X stands for. For example, Volcanic
+        Geyser is an instant spell that costs |mana_x| |mana_r| |mana_r| and deals X damage.
+        When you cast Volcanic Geyser, you choose what number X is.
+        If you pick three, for example, Volcanic Geyser costs |mana_3| |mana_r| |mana_r| and
+        deals 3 damage. If you pick six, Volcanic Geyser costs |mana_6| |mana_r| |mana_r| and
+        deals 6 damage.
+
+    You
+        The word "you" on a spell or ability refers to the current controller
+        of that spell or ability.
+
+    Zone
+        An area of play in a Magic game. See `Game Zones <sec-game-zones>`
+        [on page 8].
 
 .. mmm
    Questions?

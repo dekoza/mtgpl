@@ -1,4 +1,6 @@
 .. Heroes of Theros
+.. include:: symbols.rst
+
 ==================
  Heroes of Theros
 ==================

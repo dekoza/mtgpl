@@ -44,5 +44,7 @@
    :alt: {(u/b)}
 .. |mana_ur| image:: images/mana_ur.png
    :alt: {(u/r)}
-.. |mana_wb| image:: images/mana_wv.png
+.. |mana_wb| image:: images/mana_wb.png
    :alt: {(w/b)}
+.. |mana_wu| image:: images/mana_wu.png
+   :alt: {(w/u)}
