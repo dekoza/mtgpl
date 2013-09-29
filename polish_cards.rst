@@ -1,10 +1,19 @@
 .. polish tokens
 
-========================
- Polskie żetony stworów
-========================
+===============
+ Polskie karty
+===============
 
-Żetony zostały przygotowane w programie `Magic Set Editor`_.
+Wszystkie karty zostały przygotowane w programie `Magic Set Editor`_.
+
+Lądy
+----
+
+
+
+
+Żetony
+------
 
 Bestia (Beast)
     Pojawia się w znacznej części dodatków, ostatnio w Magic 2013.
@@ -12,12 +21,12 @@ Bestia (Beast)
     |image_beast_1|
 
 Ptak (Bird) Niebieski
-    Pojawił się w dodatku `Theros<THS>`.
+    Pojawił się w dodatku :doc:`Theros<THS>`.
     
     |image_bird_1|
 
 Ptak (Bird) Biały
-    Pojawia się w sporej części dodatków, ostatnio w bloku `Return to Ravnica<RTR>`.
+    Pojawia się w sporej części dodatków, ostatnio w bloku :doc:`Return to Ravnica<RTR>`.
     
     |image_bird_2| |image_bird_3|
 
@@ -51,6 +60,9 @@ Wilk (Wolf)
     Pojawia się w sporej części dodatków, ostatnio w Magic 2013.
     
     |image_wolf_1|
+
+
+
 
 
 .. _Magic Set Editor: http://magicseteditor.sourceforge.net/

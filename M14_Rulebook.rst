@@ -692,64 +692,72 @@ With each part of the turn is a description of what can happen during that part,
 1. Beginning Phase
 
    A. Untap step
-        You untap all your tapped permanents. On the first turn of the
-        game, you don't have any permanents, so you just skip this step. No
-        one can cast spells or activate abilities during this step.
+   
+      You untap all your tapped permanents. On the first turn of the
+      game, you don't have any permanents, so you just skip this step. No
+      one can cast spells or activate abilities during this step.
 
    B. Upkeep step
-        This part of the turn is mentioned on a number of cards. If
-        something is supposed to happen just once per turn, right at the
-        beginning, an ability will trigger "at the beginning of your upkeep."
-        Players can cast instants and activate abilities.
+   
+      This part of the turn is mentioned on a number of cards. If
+      something is supposed to happen just once per turn, right at the
+      beginning, an ability will trigger "at the beginning of your upkeep."
+      Players can cast instants and activate abilities.
 
    C. Draw step
-        You draw a card from your library. (The player who goes first skips
-        the draw step on his or her first turn to make up for the advantage
-        of going first.) Players can then cast instants and activate abilities.
+   
+      You draw a card from your library. (The player who goes first skips
+      the draw step on his or her first turn to make up for the advantage
+      of going first.) Players can then cast instants and activate abilities.
 
 2. Main Phase
 
-    You can cast any number of sorceries, instants, creatures, artifacts,
-    enchantments, and planeswalkers, and you can activate abilities.
-    You can play a land during this phase, but remember that you
-    can play only one land during your turn. Your opponent can cast
-    instants and activate abilities.
+   You can cast any number of sorceries, instants, creatures, artifacts,
+   enchantments, and planeswalkers, and you can activate abilities.
+   You can play a land during this phase, but remember that you
+   can play only one land during your turn. Your opponent can cast
+   instants and activate abilities.
 
 3. Combat Phase
 
-    A. Beginningof combat step
-        Players can cast instants and activate abilities. This is your
-        opponent's last chance to cast spells or activate abilities that stop
-        your creatures from attacking.
+   A. Beginningof combat step
+   
+      Players can cast instants and activate abilities. This is your
+      opponent's last chance to cast spells or activate abilities that stop
+      your creatures from attacking.
 
-    B. Declare attackers step
-        You decide which, if any, of your untapped creatures will attack
-        and which player or planeswalker they will attack. Then they do
-        so. This taps the attacking creatures. Players can then cast instants
-        and activate abilities.
+   B. Declare attackers step
+   
+      You decide which, if any, of your untapped creatures will attack
+      and which player or planeswalker they will attack. Then they do
+      so. This taps the attacking creatures. Players can then cast instants
+      and activate abilities.
 
-    C. Declare bLockers step
-        Your opponent decides which, if any, of his or her untapped creatures
-        will block your attacking creatures, then they do so. If multiple
-        creatures block a single attacker, you order the blockers to show
-        which is first in line for damage, which is second, and so on. Players
-        can then cast instants and activate abilities.
+   C. Declare bLockers step
+   
+      Your opponent decides which, if any, of his or her untapped creatures
+      will block your attacking creatures, then they do so. If multiple
+      creatures block a single attacker, you order the blockers to show
+      which is first in line for damage, which is second, and so on. Players
+      can then cast instants and activate abilities.
 
-    D. Combat damage step
-        Each attacking or blocking creature that's still on the battlefield
-        assigns its combat damage to the defending player (if it's attacking
-        that player and wasn't blocked), to a planeswalker (if it's attacking
-        that planeswalker and wasn't blocked), to the creature or creatures
-        blocking it, or to the creature it's blocking. If an attacking creature is
-        blocked by multiple creatures, you divide its combat damage among
-        them by assigning at least enough damage to the first blocking
-        creature in line to destroy it before assigning damage to the next
-        one in line, and so on. Once players decide how the creatures they
-        control will deal their combat damage, the damage is all dealt at the
-        same time. Players can then cast instants and activate abilities.
+   D. Combat damage step
+   
+      Each attacking or blocking creature that's still on the battlefield
+      assigns its combat damage to the defending player (if it's attacking
+      that player and wasn't blocked), to a planeswalker (if it's attacking
+      that planeswalker and wasn't blocked), to the creature or creatures
+      blocking it, or to the creature it's blocking. If an attacking creature is
+      blocked by multiple creatures, you divide its combat damage among
+      them by assigning at least enough damage to the first blocking
+      creature in line to destroy it before assigning damage to the next
+      one in line, and so on. Once players decide how the creatures they
+      control will deal their combat damage, the damage is all dealt at the
+      same time. Players can then cast instants and activate abilities.
 
    E. End of combat step
-        Players can cast instants and activate abilities.
+   
+      Players can cast instants and activate abilities.
 
 4. Main Phase
 
@@ -760,16 +768,18 @@ With each part of the turn is a description of what can happen during that part,
 
 5. Ending Phase
 
-    A. end step
-        Abilities that trigger "at the beginning of your end step" go on the
-        stack. Players can then cast instants and activate abilities.
+   A. End step
+   
+      Abilities that trigger "at the beginning of your end step" go on the
+      stack. Players can then cast instants and activate abilities.
 
-    B. Cleanup step
-        If you have more than seven cards in your hand, choose and discard
-        cards until you have only seven. Next, all damage on creatures is
-        removed and all "until end of turn" and "this turn" effects end. No
-        one can cast instants or activate abilities unless an ability triggers
-        during this step.
+   B. Cleanup step
+
+      If you have more than seven cards in your hand, choose and discard
+      cards until you have only seven. Next, all damage on creatures is
+      removed and all "until end of turn" and "this turn" effects end. No
+      one can cast instants or activate abilities unless an ability triggers
+      during this step.
 
 The Next Turn
 -------------
@@ -819,7 +829,7 @@ card, and pass the rest to your left. This process continues until all the cards
 but this time, you pass the pack to your right. After all those cards are drafted, you open the third pack and pass to the left again. Use
 your picks and any number of basic lands to build your 40-card deck.
 
-To play these formats and more, check out eventsat your local gaming store! **`Wizards.com/Locator`_**
+To play these formats and more, check out events at your local gaming store! `Wizards.com/Locator`_
 
 Multiplayer Variants
 --------------------
@@ -916,7 +926,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         already tapped. Also, remember that you can't pay your creature's oT costs
         until the creature starts your turn on the battlefield under your control.
 
-    {w/u}, {b/g}, and so on
+    |mana_wu|, |mana_bg|, and so on
         Hybrid mana symbols represent a cost that can be paid with either
         of two colors. For example, a cost represented by the oh1 symbol
         can be paid with one white mana or one blue mana. It's both a

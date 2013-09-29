@@ -48,3 +48,5 @@
    :alt: {(w/b)}
 .. |mana_wu| image:: images/mana_wu.png
    :alt: {(w/u)}
+.. |mana_bg| image:: images/mana_bg.png
+   :alt: {(b/g)}
