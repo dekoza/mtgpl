@@ -85,13 +85,13 @@ Card Name
 
 Mana Cost
 ~~~~~~~~~
-*:term:`Mana`* is the main resource in the game. It's produced by lands, and you spend it to cast *spells*.
+*:term:`Mana<Mana gl>`* is the main resource in the game. It's produced by lands, and you spend it to cast *spells*.
 The symbols in a card's upper right corner tell you the cost to cast that spell. If the mana cost reads
 |mana_4| |mana_r| |mana_r|, you pay four mana of any kinds plus two red mana (from two Mountains) to cast it.
 
 Type Line
 ~~~~~~~~~
-This tells you the card's *:term:`card type`*: artifact, creature, enchantment, instant, land,
+This tells you the card's :term:`card type<card type gl>`: artifact, creature, enchantment, instant, land,
 planeswalker, or sorcery. If the card has a *subtype* or *supertype*, that's also listed
 here. For example, Shivan Dragon is a creature, and its subtype is the creature
 type Dragon.
@@ -129,6 +129,7 @@ Card Types
 Every **Magic** card has one or more types. A card's type tells you when you can play the card and what
 happens to the card after you do.
 
+.. _sec-sorcery:
 
 Sorcery
 ~~~~~~~
@@ -138,6 +139,7 @@ on the *stack*. (You'll learn about phases and the stack in a bit.) A sorcery ha
 its *effect*—in other words, you follow the instructions on the card—then you put
 it into your *graveyard*, which is the game term for your discard pile.
 
+.. _sec-instant:
 
 Instant
 ~~~~~~~
@@ -145,6 +147,8 @@ An instant is just like a sorcery, except you can cast it just about any time
 you want, even during your opponent's turn or *in response* to another spell.
 Like a sorcery, an instant has its effect, then you put it into your graveyard.
 
+
+.. _sec-enchantment:
 
 Enchantment
 ~~~~~~~~~~~
@@ -162,6 +166,8 @@ enchanted permanent leaves the battlefield, the Aura is put into its owner's
 graveyard.
 
 
+.. _sec-artifact:
+
 Artifact
 ~~~~~~~~
 An artifact represents a magical relic. Like an enchantment, an artifact is a permanent, so it'll stay on the
@@ -172,6 +178,8 @@ Some artifacts are *Equipment*. You can pay to attach an Equipment to a creature
 creature more powerful. If an equipped creature leaves the battlefield, the Equipment doesn't—the creature
 drops it and it remains on the battlefield.
 
+
+.. _sec-creature:
 
 Creature
 ~~~~~~~~
@@ -189,6 +197,7 @@ Artifact creatures are both artifacts and creatures. They're usually colorless l
 can attack and block like other creatures. An artifact creature can be affected by anything that affects
 artifacts, as well as anything that affects creatures.
 
+.. _sec-planeswalker:
 
 Planeswalker
 ~~~~~~~~~~~~
@@ -255,6 +264,8 @@ beginning of the game. No one can look at the cards in your library, but you
 can know how many cards are in each player's library. Each player has his or
 her own library.
 
+.. _sec-hand:
+
 Hand
 ~~~~
 When you draw cards, they go to your hand, just as in most other card games.
@@ -271,6 +282,8 @@ last spell or ability that was put onto the stack resolves, and players get a ch
 to cast spells and activate abilities again. (You'll learn more about casting spells
 and activating abilities in the next section.) This zone is shared by both players.
 
+
+.. _sec-battlefield:
 
 Battlefield
 ~~~~~~~~~~~
@@ -315,7 +328,7 @@ This section describes the actions that you'll take during a game. You'll learn 
 make mana, which is the resource you need to cast spells. You'll learn how to cast a spell,
 as well as how to use abilities. You'll also learn how to attack and block with your creatures.
 The section finisheswith a brief description of how to build your first deck and an explanation
-of the game's :ref:`Golden Rule`.
+of the game's :ref:`Golden Rule<sec-golden-rule>`.
 
 Making Mana
 -----------
@@ -323,7 +336,7 @@ Making Mana
 To do just about anything else in the game, you first need to be
 able to make mana. Think of mana as Magic money—it's what
 you use to pay most costs. Each mana is either one of the five
-**Magic** *colors* or is :term:`colorless`. When a cost requires colored mana,
+**Magic** *colors* or is :term:`colorless<colorless gl>`. When a cost requires colored mana,
 you'll see colored mana symbols (|mana_w| for white, |mana_u| for blue, |mana_b|
 for black, |mana_r| for red, |mana_g| for green). When any kind of mana
 can be used to pay the cost, you'll see a symbol with a number
@@ -332,7 +345,7 @@ in it (like |mana_2|).
 Where does mana come from? Nearly every land in the game
 has an ability that produces mana. Basic lands just have a large
 mana symbol in their text boxes to show this—you can tap one
-of them to add one mana of that color to your :term:`mana pool`. (Your
+of them to add one mana of that color to your :term:`mana pool<mana pool gl>`. (Your
 mana pool is where mana is stored until you spend it.) Other
 lands, as well as some creatures, artifacts, and spells, may also
 make mana. They'll say something like "Add |mana_g| to your mana
@@ -433,7 +446,7 @@ follow the instructions on the card), then you put the card into
 your graveyard. If the spell is a creature, artifact, enchantment,
 or planeswalker, you put the card on the table in front of you,
 near your lands. The card is now on the battlefield. Any of your
-cards on the battlefield is called a :term:`permanent` because it sticks
+cards on the battlefield is called a :term:`permanent<permanent gl>` because it sticks
 around permanently (well, until something happens to it). Many
 permanents have abilities, which is text on them that affects the
 game.
@@ -477,6 +490,7 @@ it! When the Show of Valor tries to resolve,
 its only target is no longer on the battlefield,
 so it's countered (it does nothing).
 
+.. _sec-abilities:
 
 Abilities
 ---------
@@ -506,6 +520,8 @@ You can't choose to delay or ignore a triggered ability. However, if the ability
 someone but you can't choose a legal target for it, the ability won't do anything.
 
 
+.. _sec-activated-abilities:
+
 Activated Abilities
 ~~~~~~~~~~~~~~~~~~~
 An activated ability is an ability that you can activate whenever you want, as long as you can pay the
@@ -523,13 +539,17 @@ permanent to activate the ability. You can't activate the ability if the permane
 Keywords
 ~~~~~~~~
 Some permanents have abilities that are shortened to a single word or phrase. Many of these have
-*reminder text* that gives you a brief description of the ability's effect. Keyword abilities in the core set
-include :term:`deathtouch`, :term:`defender`, :term:`enchant`, :term:`equip`, :term:`first strike`, :term:`flash`,
-:term:`flying`, :term:`haste`, :term:`hexproof`, :term:`indestructible`, :term:`landwalk` (such as swampwalk
-or forestwalk), :term:`lifelink`, :term:`protection`, :term:`reach`, :term:`trample`, and :term:`vigilance`. Most
-of these are static abilities, but keyword abilities can also be triggered abilities or activated abilities.
+:term:`reminder text<reminder text gl>` that gives you a brief description of the ability's effect.
+Keyword abilities in the core set include :term:`deathtouch<deathtouch gl>`, :term:`defender<defender gl>`,
+:term:`enchant<enchant gl>`, :term:`equip<equip gl>`, :term:`first strike<first strike gl>`, :term:`flash<flash gl>`,
+:term:`flying<flying gl>`, :term:`haste<haste gl>`, :term:`hexproof<hexproof gl>`, :term:`indestructible<indestructible gl>`,
+:term:`landwalk<landwalk gl>` (such as swampwalk or forestwalk), :term:`lifelink<lifelink gl>`,
+:term:`protection<protection gl>`, :term:`reach<reach gl>`, :term:`trample<trample gl>`, and :term:`vigilance<vigilance gl>`.
+Most of these are static abilities, but keyword abilities can also be triggered abilities or activated abilities.
 Detailed explanations of each of these abilities can be found in the glossary at the end of this rulebook.
 
+
+.. _sec-attacking-and-blocking:
 
 Attacking and Blocking
 ----------------------
@@ -538,7 +558,7 @@ The primary way to win the game is to attack with your creatures. If a creature 
 blocked, it deals damage equal to its power to him or her. It doesn't take that many hits to drop your opponent all the
 way from 20 life to 0!
 
-The middle of each turn is the :term:`combat phase`. (You'll learn about the :ref:`parts of the turn<parts-of-the-turn>`
+The middle of each turn is the :term:`combat phase<combat phase gl>`. (You'll learn about the :ref:`parts of the turn<sec-parts-of-the-turn>`
 in a bit.) In your combat phase, you choose which of your creatures will attack, and you choose who or what they will
 attack. Each one can attack your opponent or one of your opponent's planeswalkers, but not any of his or her creatures.
 You tap the attacking creatures. They all attack at the same time, even if they're attacking different things.
@@ -599,7 +619,7 @@ player. The blocked attackers and the blockers deal damage
 to each other. The smaller creatures die and the bigger
 creatures live.
 
-.. _building-own-deck:
+.. _sec-building-your-own-deck:
 
 Building Your Own Deck
 ----------------------
@@ -625,6 +645,8 @@ current block, the block that was released the previous October, and the most re
 events are available all year, worldwide. When you're ready to start exploring other Magic formats, go to `Wizards.com/MagicFormats`_ for
 more information.
 
+
+.. _sec-golden-rule:
 
 The Golden Rule
 ---------------
@@ -654,7 +676,7 @@ use as counters or tokens.
 
 When you're first getting started, you may want to pick up a ready-to-play deck, such as an intro pack or event deck, or
 borrow a deck from a friend. After you've built up your collection, try building your own deck using
-:ref:`the guidelines <building your own deck>` [on page 15].
+:ref:`the guidelines <sec-building-your-own-deck>` [on page 15].
 
 
 Get a Friend
@@ -678,6 +700,8 @@ don't like your opening hand, you can mulligan. Shuffle your hand back into your
 a new hand of six cards. You can keep doing this, drawing a hand of one fewer card each
 time, until you decide to keep your cards.
 
+
+.. _sec-parts-of-the-turn:
 
 Parts of the Turn
 -----------------
@@ -806,6 +830,10 @@ You know everything you need to play a Magic game. But what kind of game will yo
 many options, there are lots of different ways to play. Everyone can start on equal footing with brand-new cards rather than build decks
 in advance from the cards in their collections. You can even play with a bunch of friends, not just one.
 
+
+
+.. _sec-limited-formats:
+
 Limited Formats
 ---------------
 In Limited play, each player builds his or her own deck on the spot out of a number of booster packs. In other words, your deck is made
@@ -886,31 +914,20 @@ turn. In all other multiplayer games, no player skips the draw step of his or he
 
 Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
+.. note::
+    
+    We've collected info about new formats in separate document: :doc:`game_variants`
+    
+    *-- The translation team*
+
+
+
 =====================
  Section 5: Glossary
 =====================
 
 .. glossary::
-    :sorted:
-
-
-    Ability
-        Any text on a permanent (except reminder text and flavor text) tells
-        you the permanent's abilities. There are three kinds of abilities a
-        permanent can have: activated abilities, static abilities, and triggered
-        abilities. Unless they say otherwise, abilities "work" only while the
-        permanent they're on is on the battlefield. Once a triggered ability
-        triggers or an activated ability is activated, it will resolve unless
-        it's countered; it doesn't matter what happens to the source of the
-        ability once the ability goes on the stack. See :ref:`Activated Abilities`
-        [on page 12].
-
-    Activate
-        You activate an activated ability by putting it on the stack. You
-        activate an ability just as you cast a spell: announce it, choose its
-        targets, and pay its activation cost. See :ref:`Activated Abilities`
-        [on page 12].
-
+    
     |mana_1|, |mana_2|, |mana_3|, and so on, |mana_x|
         One of these generic mana symbols in a cost means "this many of
         any type of mana." For example, |mana_2| in a cost means you can pay
@@ -952,6 +969,24 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         white and a blue mana symbol, and a card with oh1 in its mana
         cost is both white and blue.
 
+
+    Ability gl
+        Any text on a permanent (except reminder text and flavor text) tells
+        you the permanent's abilities. There are three kinds of abilities a
+        permanent can have: activated abilities, static abilities, and triggered
+        abilities. Unless they say otherwise, abilities "work" only while the
+        permanent they're on is on the battlefield. Once a triggered ability
+        triggers or an activated ability is activated, it will resolve unless
+        it's countered; it doesn't matter what happens to the source of the
+        ability once the ability goes on the stack. See :ref:`Activated Abilities<sec-activated-abilities>`
+        [on page 12].
+
+    Activate gl
+        You activate an activated ability by putting it on the stack. You
+        activate an ability just as you cast a spell: announce it, choose its
+        targets, and pay its activation cost. See :ref:`Activated Abilities<sec-activated-abilities>`
+        [on page 12].
+
     \*/\*
         Instead of numbers, some creatures have stars for their power and
         toughness. This means the creature's power and toughness are set
@@ -962,31 +997,31 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         will be 4/4. If you play more Swamps later on, it will get even bigger.
 
 
-    Activated ability
+    Activated ability gl
         One of the three kinds of abilities a permanent can have. An
         activated ability is always written in the form "cost: effect." See
-        :ref:`Abilities` [on page 12].
+        :ref:`Abilities<sec-abilities>` [on page 12].
 
-    Active player
+    Active player gl
         The player whose turn it is. The active player always gets the first
         chance to cast spells and activate abilities.
 
-    Additional cost
+    Additional cost gl
         Some spells say they have an additional cost. To cast that spell, you
         must pay both the mana cost in the upper right corner of the card
         and its additional cost.
 
-    Archenemy
+    Archenemy gl
         A one-on-many multiplayer variant that features oversized scheme
         cards.
 
-    Artifact
-        A card type. See :ref:`Artifact` [on page 6].
+    Artifact gl
+        A card type. See :ref:`Artifact<sec-artifact>` [on page 6].
 
-    Artifact creature
-        This is both an artifact and a creature. See :ref:`Creature` [on page 6].
+    Artifact creature gl
+        This is both an artifact and a creature. See :ref:`Creature<sec-creature>` [on page 6].
 
-    Attack
+    Attack gl
         How your creatures deal damage to your opponent. During
         your combat phase, you decide which, if any, of your untapped
         creatures will attack, and which player or planeswalker they will
@@ -994,15 +1029,15 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         to tap. Creatures can attack only players or planeswalkers, not
         other creatures. Your opponent then gets a chance to block your
         attacking creatures with his or her own creatures. See
-        :ref:`Attacking and Blocking` [on page 13].
+        :ref:`Attacking and Blocking<sec-attacking-and-blocking>` [on page 13].
 
-    Attacking creature
+    Attacking creature gl
         A creature that's attacking. A creature is attacking from the time
         it's declared as an attacker until the combat phase ends, unless
         it's somehow removed from combat. There's no such thing as an
         attacking creature outside of the combat phase.
 
-    Aura
+    Aura gl
         A special type of enchantment that can be attached to a permanent
         (or sometimes a player). Each Aura has the keyword "enchant"
         followed by what it can be attached to: "enchant creature," "enchant
@@ -1013,7 +1048,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         doesn't match its enchant ability—or attached to nothing at all—it's
         put into its owner's graveyard.
 
-    Basic land
+    Basic land gl
         There are five basic lands. Plains make |mana_w| (white mana). Islands make |mana_u| (blue
         mana). Swamps make |mana_b| (black mana). Mountains make |mana_r| (red mana). Forests
         make |mana_g| (green mana). They each say "basic" on their type line (basic is a
@@ -1022,7 +1057,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         When building a deck, you can include any number of basic lands. You
         can't have more than four copies of any other cards in your deck.
 
-    Basic land type
+    Basic land type gl
         Each basic land has a subtype, which appears after "Basic Land —"
         on its type line. These are the "basic land types," which are the same
         five words as the basic land names. Some nonbasic lands also have
@@ -1031,10 +1066,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         say so in the text box. For example, every Forest has the ability "|tap|:
         Add |mana_g| to your mana pool."
 
-    Battlefield
-        A game zone. See :ref:`Battlefield` [on page 8].
+    Battlefield gl
+        A game zone. See :ref:`Battlefield<sec-battlefield>` [on page 8].
 
-    Block
+    Block gl
         To stop an attacking creature from damaging you or one of your
         planeswalkers by having it fight one of your creatures instead.
         After your opponent attacks with one or more creatures, you can
@@ -1043,10 +1078,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         untapped creatures gang up and block a single attacking creature. If
         an attacker is blocked, it will deal its combat damage to the creature
         blocking it instead of to the player or planeswalker it was attacking.
-        Blocking is optional. See :ref:`Attacking and Blocking`
+        Blocking is optional. See :ref:`Attacking and Blocking<sec-attacking-and-blocking>`
         [on page 13].
 
-    Blocked creature
+    Blocked creature gl
         An attacking creature that's blocked by at least one creature. Once
         a creature is blocked, it stays blocked for the rest of the combat
         phase—even if all the creatures blocking it leave combat. In other
@@ -1055,7 +1090,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         attacking creature has trample). There's no such thing as a blocked
         creature outside of the combat phase.
 
-    Blocking creature
+    Blocking creature gl
         A creature assigned to block an attacking creature. If a creature
         blocks an attacker, the attacker deals its damage to the blocker
         instead of to the player or planeswalker it's attacking. Once a
@@ -1064,7 +1099,8 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         There's no such thing as a blocking creature outside of the
         combat phase.
 
-    Booster, booster pack
+    Booster gl
+    Booster pack gl
         A pack of randomly assorted Magic cards. When you want to
         add more cards to your collection, this is what you'll get. Most
         15-card booster packs contain one rare or mythic rare card,
@@ -1072,10 +1108,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         one basic land card. Find stores where Magic cards are sold at
         `Wizards.com/Locator`_.
 
-    Booster Draft
-        See :ref:`Limited Formats` [on page 19].
+    Booster Draft gl
+        See :ref:`Limited Formats<sec-limited-formats>` [on page 19].
 
-    Card type
+    Card type gl
         Every card in your deck has at least one card type: artifact, creature,
         enchantment, instant, land, planeswalker, or sorcery. A card's type is
         printed under its illustration. Some cards, like artifact creatures, have
@@ -1083,20 +1119,20 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         and "Warrior" in "Creature — Goblin Warrior," or supertypes, such
         as "basic" in "Basic Land — Forest."
 
-    Cast
+    Cast gl
         You cast a spell by putting it on the stack. Different kinds of spells
         can be cast at different times, but the things you have to do to
         cast a spell are always the same: announce it, choose its targets
         (and make certain other choices right away), and pay its cost. See
         :ref:`Spells` [on page 10].
 
-    Choose one —
+    Choose one — gl
         When you see the phrase "Choose one —" on a card, you have to
         choose one option on the card when you cast it. You can't change
         your mind and choose something else later on, even if your first
         choice doesn't work out.
 
-    Color
+    Color gl
         The five Magic colors are white, blue, black, red, and green. If a spell
         or ability tells you to choose a color, you must choose one of those five.
         A card's color is determined by its mana cost. For example, a card that
@@ -1108,48 +1144,48 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         example, "Target creature becomes blue until end of turn." The new
         color replaces the previous colors, unless the ability says otherwise.
 
-    Colorless
+    Colorless gl
         Lands and most artifacts are colorless. Colorless is not a color. If
         something tells you to choose a color, you can't choose colorless.
 
-    Combat
+    Combat gl
         In general, combat means attacking, blocking, and all the stuff
         that happens during a combat phase.
 
-    Combat damage
+    Combat damage gl
         Damage dealt by creatures due to attacking and blocking. A
         creature deals combat damage equal to its power. This damage is
         dealt during the combat damage step. Any other kind of damage
         doesn't count as combat damage, even if it's dealt as the result of a
         creature's ability during combat.
 
-    Combat damage step
+    Combat damage step gl
         See :ref:`Parts of the Turn` [on page 17].
 
-    Combat phase
+    Combat phase gl
         See :ref:`Parts of the Turn` [on page 17].
 
-    Command zone
+    Command zone gl
         A game zone used for objects that affect the game but aren't
         permanents. Some planeswalkers create emblems that go here, and
         some multiplayer variants use this zone for their oversized cards.
 
-    Commander
+    Commander gl
         A casual variant in which each player's deck is led by a legendary
         creature.
 
-    Concede
+    Concede gl
         To stop playing a game and give your opponent the victory. You
         can concede a game at any time (usually if you realize you won't
         be able to avoid losing). When you concede, you lose the game.
 
-    Constructed
+    Constructed gl
         A group of play formats that use decks you build in advance. A
         Constructed deck must have at least 60 cards, and it can't have
         more than four copies of any single card (except for basic lands).
         Standard is the most popular Constructed format.
 
-    Continuous effect
+    Continuous effect gl
         An effect that lasts for some duration. These are different from
         one-shot effects, which just happen once and don't have a
         duration. You can tell how long a continuous effect will last by
@@ -1158,7 +1194,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         ability, it lasts as long as the permanent with the ability is on the
         battlefield.
 
-    Control
+    Control gl
         You control spells you cast and permanents that entered the
         battlefield on your side. You also control abilities that come from
         permanents you control.
@@ -1173,20 +1209,20 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         opponent's side to yours. But for Auras or Equipment attached to
         other cards, the controller changes but it doesn't move.
 
-    Controller
+    Controller gl
         A spell's controller is the player who cast it. An activated ability's
         controller is the player who activated it. A permanent's controller
         is the player who cast it—unless another spell or ability changes
         who controls it. A triggered ability's controller is the player who
         controlled the source of the ability when it triggered.
 
-    Converted mana cost
+    Converted mana cost gl
         The total amount of mana in a mana cost, regardless of color. For
         example, a card with a mana cost of 3UU has a converted mana
         cost of 5. A card with mana cost RR has a converted mana cost
         of 2.
 
-    Cost
+    Cost gl
         A cost is something you have to pay to take another action. You must
         pay a cost to cast a spell or activate an activated ability. Sometimes
         a spell or ability will also ask you to pay a cost when it resolves.
@@ -1194,23 +1230,23 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         activated ability's cost (the part before the ":") tells you to discard a
         card and you have no cards in your hand, you can't even try to pay it.
 
-    Counter a spell or ability
+    Counter a spell or ability gl
         To cancel out a spell or ability so it has no effect. If a spell is
         countered, it's removed from the stack and put into its owner's
         graveyard. Once a spell or ability starts to resolve, it's too late to
         counter it. Lands aren't spells, so they can't be countered.
 
-    Counter on a permanent
+    Counter on a permanent gl
         Some spells and abilities tell you to put a counter on a permanent.
         The counter marks a change to the permanent that lasts for as long
         as it's on the battlefield. A counter usually changes a creature's power
         and toughness or tracks a planeswalker's current loyalty. You can use
         anything you want as counters: glass beads, dice, or whatever.
 
-    Creature
+    Creature gl
         A card type. See :ref:`Creature` [on page 6].
 
-    Creature type
+    Creature type gl
         This tells you what kind of creature a creature is, such as Goblin,
         Elf, or Warrior. You find creature types in the middle of the card
         after "Creature — ." If a creature has more than one word after the
@@ -1221,7 +1257,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         control get +1/+1." All creatures you control with the Sliver
         creature type, including Predatory Sliver, get the bonus.
 
-    Damage
+    Damage gl
         This is what knocks down a player's life total, lowers a planeswalker's
         loyalty, and destroys creatures. Attacking and blocking creatures
         deal damage equal to their power. Some spells and abilities can also
@@ -1235,7 +1271,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         an Aura with the drawback "When Dark Favor enters the battlefield,
         you lose 1 life." That loss of life isn't damage, so it can't be prevented.
 
-    Deathtouch
+    Deathtouch gl
         A keyword ability seen on creatures. Deathtouch is an ability that
         causes a creature to deal an exceptionally lethal form of damage
         to other creatures. A creature dealt any amount of damage by
@@ -1243,27 +1279,27 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         deathtouch is blocked by multiple creatures, you can assign as
         little as 1 damage to each of the blocking creatures!
 
-    Deck
+    Deck gl
         At least 60 cards of your choice, well shuffled. (Limited formats in
         which players build their decks as part of the event allow 40-card
         decks.) To play a Magic game, you must have your own deck.
         Once the game starts, your deck becomes your library.
 
-    Declare attackers step
+    Declare attackers step gl
         See :ref:`Parts of the Turn` [on page 17].
 
-    Declare blockers step
+    Declare blockers step gl
         See :ref:`Parts of the Turn` [on page 17].
 
-    Defender
+    Defender gl
         A keyword ability seen on creatures. Creatures with defender can't
         attack.
 
-    Defending player
+    Defending player gl
         The player who is being attacked (or whose planeswalker is being
         attacked) during a combat phase.
 
-    Destroy
+    Destroy gl
         To move a permanent from the battlefield to its owner's graveyard.
         Creatures are destroyed when they've taken damage equal to or
         greater than their toughness. Also, lots of spells and abilities can
@@ -1279,11 +1315,11 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         is on the battlefield but isn't enchanting what's described in its
         "enchant" ability.
 
-    Dies
+    Dies gl
         "Dies" is another way to say that a creature "is put into a graveyard
         from the battlefield."
 
-    Discard
+    Discard gl
         To take a card from your hand and put it into your graveyard. If a
         spell or ability makes you discard cards, you get to choose which
         cards to discard—unless the spell or ability says another player
@@ -1292,7 +1328,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         If you have more than seven cards in your hand during your own
         cleanup step, you have to discard until you have seven.
 
-    Double strike
+    Double strike gl
         A keyword ability seen on creatures. Creatures with double strike
         deal their combat damage twice. When you reach the combat
         damage step, check to see if any attacking or blocking creatures
@@ -1303,7 +1339,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         and blocking creatures, as well as the ones with double strike, deal
         combat damage during this second step.
 
-    Draw a card
+    Draw a card gl
         To take the top card of your library (deck) and put it into your
         hand. You draw one card during each of your turns, at the start
         of your draw step. You also draw if a spell or ability lets you; this
@@ -1311,26 +1347,28 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         lets you put a card into your hand from your library but doesn't
         use the word "draw," it doesn't count as drawing a card.
 
-    Draw step
+    Draw step gl
         See :ref:`Parts of the Turn` [on page 17].
 
-    Draw the game
+    Draw the game gl
         The other meaning of "draw" is a game that ends with no winner.
         For example, if a spell like Earthquake deals enough damage so
         that both players drop to 0 or less life, the game is a draw.
 
-    Effect
+    Effect gl
         What a spell or ability does when it resolves. There are several
-        types of effects: :term:`one-shot effects`, :term:`continuous effects`,
-        :term:`prevention effects`, and :term:`replacement effects`.
+        types of effects: :term:`one-shot effects<one-shot effects gl>`,
+        :term:`continuous effects<continuous effects gl>`,
+        :term:`prevention effects<prevention effects gl>`,
+        and :term:`replacement effects<replacement effects gl>`.
         You can look up each one in this glossary.
 
-    Emblem
+    Emblem gl
         Some planeswalkers' abilities create an emblem that leaves a
         lasting effect on the game. Once an emblem is created, it can't be
         destroyed and its abilities apply until the game ends.
 
-    Enchant
+    Enchant gl
         A keyword ability seen on all Auras. It's usually followed by a
         description of a permanent (for example, "enchant creature" or
         "enchant land"), which tells you what kind of permanent the
@@ -1340,7 +1378,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         ever attached to something that doesn't match its enchant ability,
         it's put into its owner's graveyard.
 
-    Enchanted
+    Enchanted gl
         When an ability of an Aura says "enchanted creature" (or "enchanted
         artifact," "enchanted land," and so on), it means "the creature the Aura
         is attached to." For example, Mark of the Vampire has the ability "Enchanted
@@ -1348,16 +1386,16 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         Vampire is attached to gets the bonus, and that creature's controller will gain
         life from its lifelink ability.
 
-    Enchantment
+    Enchantment gl
         A card type. See :ref:`Enchantment` [on page 6].
 
-    End of combat step
+    End of combat step gl
         See :ref:`Parts of the Turn` [on page 17].
 
-    End step
+    End step gl
         See :ref:`Parts of the Turn` [on page 17].
 
-    Enters the battlefield
+    Enters the battlefield gl
         When artifact, creature, enchantment, and planeswalker spells
         resolve, they enter the battlefield as permanents. Lands also enter
         the battlefield as permanents.
@@ -1374,7 +1412,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         counters," or whose power or toughness will be modified by a
         continuous effect, don't enter the battlefield and then change size.
 
-    Equip
+    Equip gl
         A keyword ability seen on all Equipment. It tells you how much it
         costs to attach the Equipment to one of your creatures. It doesn't
         matter whether the Equipment is unattached or is attached to a
@@ -1382,7 +1420,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         main phase, when no spells or abilities are on the stack. The equip
         ability targets the creature you're moving the Equipment onto.
 
-    Equipment
+    Equipment gl
         A type of artifact that represents a weapon, armor, or other item
         that your creatures can use. When you cast an Equipment spell,
         it enters the battlefield like any other artifact. Once it's on the
@@ -1394,23 +1432,23 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         the ground" and stays on the battlefield, waiting for you to attach
         it to another creature.
 
-    Evasion ability
+    Evasion ability gl
         A nickname for any ability that makes a creature harder to block.
         Flying is the most common evasion ability.
 
-    Exile
+    Exile gl
         A game zone. Exile is essentially a holding area for cards. If a spell
         or ability exiles a card, that card is moved to the exile zone from
         wherever it is. See :ref:`Exile` [on page 8].
 
-    Expansion symbol
+    Expansion symbol gl
         See :ref:`Parts of a Card` [on page 5].
 
-    Fight
+    Fight gl
         Some effects cause a creature to fight another creature. When two
         creatures fight, each deals damage equal to its power to the other.
 
-    First strike
+    First strike gl
         A keyword ability seen on creatures. Creatures with first strike deal
         their combat damage before creatures without first strike. When
         you reach the combat damage step, check to see if any attacking
@@ -1421,54 +1459,54 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         remaining attacking and blocking creatures, as well as the ones
         with double strike, deal combat damage during this second step.
 
-    Flash
+    Flash gl
         A keyword ability seen on creatures, artifacts, and enchantments.
         A spell with flash can be cast any time you could cast an instant.
 
-    Flavor text
+    Flavor text gl
         Italic text (italic text looks like this) in a card's text box that's just for
         fun. Flavor text sets a tone or describes part of the magical world of
         the card. If the text is in parentheses, it's there to remind you about
         a rule—it's not flavor text. Flavor text has no effect on how the card
         is cast.
 
-    Flying
+    Flying gl
         A keyword ability seen on creatures. A creature with flying can't be
         blocked except by creatures with flying or reach.
 
-    Forestwalk
-        A kind of landwalk. See the glossary entry for :term:`Landwalk`.
+    Forestwalk gl
+        A kind of landwalk. See the glossary entry for :term:`Landwalk<landwalk gl>`.
 
-    Graveyard
-        A game zone. See :ref:`Graveyard` [on page 8].
+    Graveyard gl
+        A game zone. See :ref:`Graveyard<sec-graveyard>` [on page 8].
 
-    Hand
-        A game zone. See :ref:`Hand` [on page 8].
+    Hand gl
+        A game zone. See :ref:`Hand<sec-hand>` [on page 8].
 
-    Haste
+    Haste gl
         A keyword ability seen on creatures. A creature with haste can
         attack as soon as it comes under your control. You can also
         activate its activated abilities with oT in the cost.
 
-    Hexproof
+    Hexproof gl
         A keyword ability seen on permanents. A permanent with
         hexproof can't be the target of spells or abilities controlled by an
         opponent. The player who controls the permanent with hexproof
         can still target it with spells and abilities.
 
-    Indestructible
+    Indestructible gl
         An indestructible permanent can't be destroyed by damage or by
         effects that say "destroy." It can still be put into the graveyard for
-        other reasons. See the glossary entry for :term:`Destroy`.
+        other reasons. See the glossary entry for :term:`Destroy<destroy gl>`.
 
-    Instant
-        A card type. See :ref:`Instant` [on page 6].
+    Instant gl
+        A card type. See :ref:`Instant<sec-instant>` [on page 6].
 
-    Instead
+    Instead gl
         When you see this word, you know a spell or ability creates a replacement
-        effect. See the glossary entry for :term:`Replacement effect`.
+        effect. See the glossary entry for :term:`Replacement effect<replacement effect gl>`.
 
-    Intimidate
+    Intimidate gl
         A keyword ability seen on creatures. A creature with intimidate
         can't be blocked except by creatures that share a color with it and/
         or artifact creatures. For example, a red creature with intimidate
@@ -1476,7 +1514,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         artifact creature. Intimidate only matters when the creature with the
         ability is attacking.
 
-    Intro pack
+    Intro pack gl
         A pack that includes a ready-to-play deck featuring cards from a
         particular set, as well as two bonus 15-card booster packs. You can play
         decks from intro packs against each other right out of the box. The
@@ -1485,22 +1523,22 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         designing your own decks. Find stores where Magic cards are sold at
         `Wizards.com/Locator`_.
 
-    Islandwalk
-        A kind of landwalk. See the glossary entry for :term:`Landwalk`.
+    Islandwalk gl
+        A kind of landwalk. See the glossary entry for :term:`Landwalk<landwalk gl>`.
 
-    Land
+    Land gl
         A card type. See :ref:`Land` [on page 7].
 
-    Land type
-        A subtype of a land. See the glossary entry for :term:`Basic land type`.
+    Land type gl
+        A subtype of a land. See the glossary entry for :term:`Basic land type<basic land type gl>`.
 
-    Landwalk
+    Landwalk gl
         Landwalk is the name for a group of keyword abilities that
         includes plainswalk, islandwalk, swampwalk, mountainwalk,
         and forestwalk. A creature with landwalk is unblockable if the
         defending player controls at least one land of the specified type.
 
-    Leaves the battlefield
+    Leaves the battlefield gl
         A permanent leaves the battlefield when it moves from the
         battlefield zone to any other zone. It might return to a player's
         hand from the battlefield, go to a graveyard from the battlefield,
@@ -1508,7 +1546,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         returns to the battlefield, it's like a brand-new card. It doesn't
         "remember" anything from the last time it was on the battlefield.
 
-    Legendary
+    Legendary gl
         Legendary is a supertype, so you'll find it written on the type line
         before the card type. If a player controls two or more legendary
         permanents with the same name, that player chooses one of them
@@ -1516,32 +1554,33 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         graveyard. (Different players can control legendary permanents
         with the same name.) This is known as the "legend rule."
 
-    Library
+    Library gl
         A game zone. See :ref:`Library` [on page 8].
 
-    Life, life total
+    Life  gl
+    Life total  gl
         Each player begins the game with 20 life. When you're dealt
         damage by spells, abilities, or unblocked creatures, you subtract
         the damage from your life total. If your life total drops to 0 or less,
         you lose the game. If something causes both players' life totals to
         drop to 0 or less at the same time, the game is a draw.
 
-    Lifelink
+    Lifelink gl
         A keyword ability seen on permanents. Damage dealt by a
         permanent with lifelink causes that permanent's controller to
         gain that much life, in addition to behaving like normal damage.
 
-    Limited
+    Limited gl
         A group of play formats using cards from booster packs you open
         just before you play. See :ref:`Limited Formats` [on page 19].
 
-    Losing life
+    Losing life gl
         All damage dealt to you causes you to lose life, which is why
         it's subtracted from your life total. In addition, some spells and
         abilities say that they cause you to lose life. This isn't the same as
         damage, so it can't be prevented.
 
-    Loyalty
+    Loyalty gl
         Loyalty is a characteristic that only planeswalkers have. Each planeswalker
         card has a loyalty number printed in its lower right corner: that's how many
         loyalty counters it gets as it enters the battlefield. The cost to activate one of
@@ -1551,46 +1590,46 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         it's put into its owner's graveyard. See also :ref:`Planeswalker`
         [on page 7].
 
-    Main phase
+    Main phase gl
         See :ref:`Parts of the Turn` [on page 17].
 
-    Mana
+    Mana gl
         The magical energy you use to pay for spells and some abilities.
 
         Most mana comes from tapping lands. There are five colors of
         mana: |mana_w| (white), |mana_u| (blue), |mana_b| (black), |mana_r| (red), and |mana_g| (green).
         There's also colorless mana.
 
-    Mana ability
+    Mana ability gl
         An ability that adds mana to your mana pool. Mana abilities can
         be activated abilities or triggered abilities. A mana ability doesn't
         go on the stack when you activate it or it triggers—you simply get
         the mana immediately.
 
-    Mana cost
-        See :ref:`Parts of a Card` [on page 5].
-        Also see the glossary entry for :term:`Converted mana cost`.
+    Mana cost gl
+        See :ref:`Parts of a Card<sec-parts-of-a-card>` [on page 5].
+        Also see the glossary entry for :term:`Converted mana cost<converted mana cost gl>`.
 
-    Mana pool
+    Mana pool gl
         The place where your mana is stored until you spend it or until
         the current step or phase ends.
 
-    Match
+    Match gl
         A series of games against the same opponent. Most matches are
         best two out of three, so the first player to win two games wins
         the match. The loser of the first game decides who goes first in
         the second game, and so on.
 
-    Modern
+    Modern gl
         A Constructed format that's growing in popularity. The Modern
         format uses core sets and blocks from Eighth Edition and
         Mirrodin® to the present. See `Wizards.com/MagicFormats`_
         for more information.
 
-    Mountainwalk
-        A kind of landwalk. See the glossary entry for :term:`Landwalk`.
+    Mountainwalk gl
+        A kind of landwalk. See the glossary entry for :term:`Landwalk<landwalk gl>`.
 
-    Mulligan
+    Mulligan gl
         At the beginning of a Magic game, you draw the top seven
         cards of your library. If you don't like that hand of cards for
         any reason, you can mulligan. When you mulligan, your hand
@@ -1599,42 +1638,42 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         you draw one fewer card each time. When both players like their
         opening hands, you start playing.
 
-    Multicolored card
+    Multicolored card gl
         A card with more than one color of mana in its mana cost. For
         example, a card with the mana cost |mana_2| |mana_b| |mana_r| is both black and red.
         Most multicolored cards have a gold background.
 
-    Multiplayer game
+    Multiplayer game gl
         A Magic game that starts with more than two players in it.
-        See :ref:`Multiplayer Variants` [on page 20].
+        See :ref:`Multiplayer Variants<sec-multiplayer-variants` [on page 20].
 
-    Name
-        See :ref:`Parts of a Card` [on page 5].
+    Name gl
+        See :ref:`Parts of a Card<sec-parts-of-a-card>` [on page 5].
 
         When a card's name appears in its text box, the card is referring
         to itself, not to any other cards with the same name.
 
-    Non-
+    Non- gl
         When a spell or ability's text refers to a "nonland card" or a
         "nonblack creature," and so on, it means "a card that's not a land,"
         "a creature that's not black," and so on.
 
-    Nonbasic land
+    Nonbasic land gl
         Any land that doesn't have the supertype "basic" on its type line—
         in other words, any land not named Plains, Island, Swamp, Mountain, or
         Forest. You can't put more than four copies of any one nonbasic land card
         into a deck.
 
-    One-shot effect
+    One-shot effect gl
         An effect that applies to the game once, and then it's done. For example,
         Divination reads, "Draw two cards." When it resolves, its effect is done.
         One-shot effects differ from continuous effects, which last for some amount of time.
 
-    Opponent
+    Opponent gl
         A person you're playing against. If a card says "an opponent," it
         means one of its controller's opponents.
 
-    Owner
+    Owner gl
         The person who started the game with the card in his or her deck.
         Even if your opponent has control of one of your permanents,
         you're still its owner. (If you loaned your friend a deck, he or she
@@ -1642,13 +1681,13 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         owner of a token is the player who controlled it when it entered
         the battlefield.
 
-    Paying life
+    Paying life gl
         Sometimes a spell or ability will ask you to pay life as part of its
         cost. To pay life, subtract that amount of life from your life total.
         You can't pay more life than you have. Paying life isn't damage, so
         it can't be prevented.
 
-    Permanent
+    Permanent gl
         A card or creature token on the battlefield. Permanents can be
         artifacts, creatures, enchantments, lands, or planeswalkers. Once
         a permanent is on the battlefield, it stays there until it's destroyed,
@@ -1663,31 +1702,31 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         creature to its owner's hand." You must target a creature on the
         battlefield, not a creature card in a graveyard or anywhere else.
 
-    Permanent type
+    Permanent type gl
         The permanent types are artifact, creature, enchantment, land, and
         planeswalker. Permanents can have more than one type.
 
-    Phase
+    Phase gl
         One of the main sections of a turn. There are five: beginning phase,
         first main phase, combat phase, second main phase, and ending
         phase. Some phases are divided into steps. If a player has mana left
         over as a step or phase ends, that mana is lost.
         See :ref:`Parts of the Turn` [on page 17].
 
-    Planechase
+    Planechase gl
         A multiplayer variant that features oversized plane cards.
 
-    Planeswalker
+    Planeswalker gl
         A card type. See :ref:`Planeswalker` [on page 7].
 
-    Planeswalker type
+    Planeswalker type gl
         A subtype of a planeswalker. If a player controls two or more
         planeswalkers with the same planeswalker type, that player chooses
         one of them to stay on the battlefield and the rest are put into their
         owner's graveyard. (Different players can control planeswalkers with
         the same planeswalker type.)
 
-    Play
+    Play gl
         You play a land by putting it onto the battlefield from your hand.
         You can play a land only once each turn during one of your main
         phases when nothing's on the stack. Lands don't go on the stack
@@ -1696,24 +1735,24 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         Some effects tell you to play a card. That means to play a land
         or cast a spell, depending on the card's type.
 
-    Player
+    Player gl
         Either you or your opponent. If a spell or ability lets you choose
         a player, you can choose yourself. You can't choose yourself if it
         says "opponent." If you're playing a multiplayer game (a game
         with more than two players), everyone in the game is a player,
         including your teammates.
 
-    Power
+    Power gl
         The number to the left of the slash in the box in the lower right
         corner of a creature card. A creature deals combat damage equal
         to its power. A creature with 0 power or less deals no damage in
         combat.
 
-    Prevent
+    Prevent gl
         When you see this word in the text of a spell or ability, you know
         it's a prevention effect.
 
-    Prevention effect
+    Prevention effect gl
         An effect that stops damage from being dealt. A prevention effect
         works like a shield. If damage would be dealt but a prevention
         shield is in place, some or all of that damage isn't dealt. A
@@ -1732,7 +1771,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         creature that would be dealt that damage, chooses which source to
         prevent the damage from.
 
-    Priority
+    Priority gl
         Since players can cast instants and activate abilities during each
         other's turns, the game needs a system that makes sure only one
         player can do something at a time. Priority determines, at any given
@@ -1752,7 +1791,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         a row, if there's no spell or ability waiting on the stack, that part of
         the turn ends and the next one begins.
 
-    Protection
+    Protection gl
         A keyword ability seen on creatures. A creature with protection
         will always have "protection from ________." That something is
         what the creature is protected from. It might be protection from
@@ -1767,25 +1806,25 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         - The creature can't be targeted by those kinds of spells or by
           abilities from those kinds of cards.
 
-    Put onto the battlefield
+    Put onto the battlefield gl
         To move a card or token into the battlefield zone. When a spell or
         ability tells you to put something onto the battlefield, that's not the
         same as casting it. You just put it onto the battlefield without paying
         its costs.
 
-    Rarity
+    Rarity gl
         How likely it is you'll get a particular card. There are four
         levels of rarity for Magic cards: common, uncommon,
         rare, and mythic rare. Each 15-card booster pack typically
         has eleven common cards including one basic land card, three uncommon cards, and one rare
         card. Some boosters have a mythic rare card instead of a rare card.
 
-    Reach
+    Reach gl
         A keyword ability seen on creatures. A creature with reach can
         block a creature with flying. However, a creature with reach can
         be blocked by any kind of creature.
 
-    Regenerate
+    Regenerate gl
         To prevent a permanent from being destroyed later in the turn. A regeneration effect
         works like a shield. A spell or ability that says "Regenerate [a permanent]" puts
         a regeneration shield on that permanent that can be used up at any time during the turn.
@@ -1798,14 +1837,14 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
         Although a permanent with a regeneration shield can't be
         destroyed, it can still be put into the graveyard for other reasons.
-        See the glossary entry for :term:`Destroy`.
+        See the glossary entry for :term:`Destroy<destroy gl>`.
 
-    Reminder text
+    Reminder text gl
         Italic text in parentheses (like this) in the text box that reminds you
         of a rule or keyword ability. Reminder text isn't meant to tell you all
         the rules for an ability. It just reminds you of how the card works.
 
-    Remove from combat
+    Remove from combat gl
         If an effect removes a creature from combat, it's not attacking or
         blocking anymore. If it blocked a creature before it was removed,
         the attacking creature stays blocked, so no damage would get
@@ -1813,7 +1852,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         creature that's removed from combat neither deals nor is dealt
         combat damage.
 
-    Replacement effect
+    Replacement effect gl
         A kind of effect that waits for a particular event and then replaces
         that event with a different one. Replacement effects have the
         word "instead" in them. For example, Darksteel Colossus reads,
@@ -1823,7 +1862,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         Colossus into the graveyard with the action of shuffling it into its
         owner's library. Darksteel Colossus never hits the graveyard at all.
 
-    Resolve
+    Resolve gl
         When you cast a spell or activate an activated ability, or when
         a triggered ability triggers, nothing happens right away. It just
         goes on the stack. After each player gets a chance to respond to
@@ -1832,31 +1871,32 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         to resolve, it won't resolve at all (and if it's a spell, it's put into its
         owner's graveyard).
 
-    Respond, in response
+    Respond gl
+    In response gl
         To cast an instant or activate an activated ability right after another
         spell or ability has been put on the stack.
         See :ref:`Responding to a Spell` [on page 10].
 
-    Reveal
+    Reveal gl
         When you reveal a card, it's shown to all the players in the game.
 
-    Sacrifice
+    Sacrifice gl
         To choose one of your permanents on the battlefield and put it
         into its owner's graveyard. You can sacrifice only permanents you
         control. Sacrificing a permanent is different from destroying it, so
         the permanent can't be regenerated. You can sacrifice a permanent
         only if a spell or ability tells you to, or if it's part of a cost.
 
-    Sealed Deck
+    Sealed Deck gl
         See :ref:`Limited Formats` [on page 19].
 
-    Shuffle
+    Shuffle gl
         To randomize the order of the cards in your deck. At the beginning
         of every Magic game, your deck is shuffled. Some cards will tell you
         to shuffle your library as part of their effect (usually because the
         effect let you look through your library).
 
-    Sideboard
+    Sideboard gl
         Magic events allow the use of a sideboard—a group of extra cards
         that are particularly good against certain opponents. After you play
         a game against an opponent, you may make changes to your deck
@@ -1872,41 +1912,41 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         your main deck are in your sideboard. Your deck must have at
         least 40 cards.
 
-    Sorcery
-        A card type. See :ref:`Sorcery` [on page 5].
+    Sorcery gl
+        A card type. See :ref:`Sorcery<sec-sorcery>` [on page 5].
 
-    Source
+    Source gl
         Where damage or an ability came from. Once an ability has gone
         on the stack, removing its source doesn't stop the ability from
         resolving.
 
-    Spell
+    Spell gl
         All types of cards except lands are spells while you're casting them.
         For example, Serra Angel is a creature card. While you're casting
         it, it's a creature spell. When it resolves, it becomes a creature.
 
-    Stack
+    Stack gl
         A game zone. See :ref:`The Stack` [on page 8].
 
-    Standard
+    Standard gl
         The most popular Constructed format. It uses only the newest
         sets the game has to offer. The current block, the block that was
         released the previous October, and the most recent core set are all
         legal to play in a Standard deck. See `Wizards.com/MagicFormats`_
         for more information.
 
-    Static ability
+    Static ability gl
         One of the three types of abilities a permanent can have.
         See :ref:`Static Abilities` [on page 12].
 
-    Step
+    Step gl
         Every phase except the main phase is divided into steps. Specific
         things happen during some steps. For example, you untap your
         permanents during your untap step. If a player has mana left over
         as a step or phase ends, that mana is lost.
         See :ref:`Parts of the Turn` [on page 17].
 
-    Subtype
+    Subtype gl
         All types of cards can have subtypes. Subtypes come after the
         long dash on the type line. Subtypes of creatures are also called
         creature types, subtypes of lands are called land types, and so on.
@@ -1915,8 +1955,9 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         a card with just "Land" on its type line doesn't have a subtype.
 
         A few subtypes have special rules. See the glossary entries for
-        :term:`Aura`, :term:`Equipment`, :term:`Basic land type`,
-        and :term:`Planeswalker type`. Creature subtypes
+        :term:`Aura<aura gl>`, :term:`Equipment<equipment gl>`,
+        :term:`Basic land type<basic land type gl>`,
+        and :term:`Planeswalker type<planeswalker type gl>`. Creature subtypes
         don't have any special rules associated with them.
 
         Some effects can change a permanent's subtype. For example,
@@ -1924,7 +1965,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         subtype replaces the previous subtypes of the appropriate kind,
         unless the ability says otherwise.
 
-    Supertype
+    Supertype gl
         All types of cards can have supertypes. Supertypes come before
         the card type on the type line. For example, a "Basic Land —
         Forest" has the supertype "basic," and a "Legendary Creature
@@ -1932,19 +1973,19 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         have no specific correlation to card types. Some supertypes have
         specific rules associated with them.
 
-    Swampwalk
-        A kind of landwalk. See the glossary entry for :term:`Landwalk`.
+    Swampwalk gl
+        A kind of landwalk. See the glossary entry for :term:`Landwalk<landwalk gl>`.
 
-    Tap
-        To turn a card sideways. See :ref:`Tapping` [on page 9].
+    Tap gl
+        To turn a card sideways. See :ref:`Tapping<sec-tapping>` [on page 9].
 
-    Target
-        A word used in spells and abilities. See :ref:`Target` [on page 10].
+    Target gl
+        A word used in spells and abilities. See :ref:`Target<sec-target>` [on page 10].
 
-    Text box
-        See :ref:`Parts of a Card` [on page 5].
+    Text box gl
+        See :ref:`Parts of a Card<sec-parts-of-a-card>` [on page 5].
 
-    Token
+    Token gl
         Some instants, sorceries, and abilities can create creatures. These
         creatures are represented by tokens. You can use anything you
         want as a token, but you should use something that can be tapped.
@@ -1955,14 +1996,14 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         it moves to the new zone (such as your graveyard) and then
         immediately vanishes from the game.
 
-    Toughness
+    Toughness gl
         The number to the right of the slash in the box in the lower right
         corner of creature cards. If a creature is dealt damage equal to
         or greater than its toughness in a single turn, it's destroyed. If a
         creature's toughness is reduced to 0 or less, it's put into its owner's
         graveyard.
 
-    Trample
+    Trample gl
         A keyword ability seen on creatures. Trample is an ability that
         lets a creature deal excess damage to the player or planeswalker
         it's attacking even if it's blocked. When a creature with trample is
@@ -1972,11 +2013,11 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         toughness, then you can assign any of the attacking creature's
         damage that's left over to the player or planeswalker it's attacking.
 
-    Triggered ability
+    Triggered ability gl
         One of the three types of abilities a permanent can have. See
         :ref:`Triggered Abilities` [on page 12].
 
-    Turn
+    Turn gl
         Each turn is divided into phases, and most phases have steps. See
         :ref:`Parts of the Turn` [on page 17].
 
@@ -2005,31 +2046,31 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
            a. End step
            b. Cleanup step
 
-    Two-Headed Giant
+    Two-Headed Giant gl
         See :ref:`Multiplayer Variants` [on page 20].
 
-    Type line
-        See :ref:`Parts of a Card` [on page 5].
+    Type line gl
+        See :ref:`Parts of a Card<sec-parts-of-a-card>` [on page 5].
 
-    Unblocked
+    Unblocked gl
         A creature is unblocked only if it's attacking and the defending
         player has decided not to block it.
 
-    Untap
+    Untap gl
         To turn a tapped card upright so it's ready to be used again. See
         :ref:`Tapping` [on page 9].
 
-    Untap step
+    Untap step gl
         See :ref:`Parts of the Turn` [on page 17].
 
-    Upkeep step
+    Upkeep step gl
         See :ref:`Parts of the Turn` [on page 17].
 
-    Vigilance
+    Vigilance gl
         A keyword ability seen on creatures. When a creature with
         vigilance attacks, it doesn't become tapped.
 
-    Winning the game
+    Winning the game gl
         You win the game when any of the following things happens:
 
         - Your opponent's life total is reduced to 0 or less.
@@ -2046,7 +2087,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         Different multiplayer variants may modify the conditions for
         winning the game.
 
-    X
+    X gl
         When you see X in a mana cost or an activation cost, you get
         to choose the number that X stands for. For example, Volcanic
         Geyser is an instant spell that costs |mana_x| |mana_r| |mana_r| and deals X damage.
@@ -2055,11 +2096,11 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         deals 3 damage. If you pick six, Volcanic Geyser costs |mana_6| |mana_r| |mana_r| and
         deals 6 damage.
 
-    You
+    You gl
         The word "you" on a spell or ability refers to the current controller
         of that spell or ability.
 
-    Zone
+    Zone gl
         An area of play in a Magic game. See `Game Zones`
         [on page 8].
 
