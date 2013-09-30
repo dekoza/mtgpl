@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-30 05:52+0200\n"
-"PO-Revision-Date: 2013-09-30 06:06+0200\n"
+"PO-Revision-Date: 2013-09-30 04:42+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
-"X-POOTLE-MTIME: 1380280196.875506\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1380512558.889060\n"
 
 # 9eae85a8cc75401990e1ded7ffda9afb
 # e88b0cdfa4604521bd64281436540a59
@@ -377,7 +377,7 @@ msgstr ""
 # d3aa5842d06f40c7bc4d9916b6ee9be4
 #: ../../M14_Rulebook.rst:107
 msgid "Text Box"
-msgstr "Pole tekstu"
+msgstr "Pole treści"
 
 # cd14c95991814e45a1ecd96a5d2f4379
 # 0ba2ed7f0e2d4bf4a48951b30cf0838d
@@ -1240,11 +1240,11 @@ msgid "Where does mana come from? Nearly every land in the game has an ability t
 msgstr ""
 "Skąd pochodzi mana? Niemal każdy ląd w grze posiada zdolność, która "
 "produkuje manę. Na lądach podstawowych przedstawione jest to za pomocą "
-"dużego symbolu many w polu tekstowym - możesz zużyć jeden z nich, by dodać "
+"dużego symbolu many w polu treści — możesz zaznaczyć jeden z nich, by dodać "
 "jedną manę tego koloru do swojej :term:`puli many<mana pool gl>`. (Pula many "
 "jest miejscem, gdzie mana jest przechowywana, zanim ją zużyjesz.) Inne lądy "
 "oraz niektóre stwory, artefakty oraz czary także mogą produkować manę. Będą "
-"mieć napisane coś w rodzaju \"Dodaj |mana_g| do swojego zasobnika many\"."
+"mieć napisane coś w rodzaju \"Dodaj |mana_g| do twojej puli many\"."
 
 # 074530c498e34d558cb5791a517b5d7a
 # c7cc47e092b344f4a54de01e99a33195
@@ -3069,7 +3069,7 @@ msgstr ""
 # de6ff9311e1f4d1eb1f7ad5ce4d4c660
 #: ../../M14_Rulebook.rst:976
 msgid "Activate gl"
-msgstr ""
+msgstr "Activate / Aktywować"
 
 # 722719e13b4b4732a16f8167ca3fa289
 #: ../../M14_Rulebook.rst:978
@@ -3090,7 +3090,7 @@ msgstr ""
 # 0a0273a7e8114dd8bd20f8de64ce7927
 #: ../../M14_Rulebook.rst:992
 msgid "Activated ability gl"
-msgstr ""
+msgstr "Activated ability / Zdolność aktywowana"
 
 # 54bfceaa9be94108b5ac7df85132d074
 #: ../../M14_Rulebook.rst:994
@@ -3100,7 +3100,7 @@ msgstr ""
 # 59decf2869334904b6d5489658013229
 #: ../../M14_Rulebook.rst:997
 msgid "Active player gl"
-msgstr ""
+msgstr "Active player / Aktywny gracz"
 
 # 78c56a2528064c2d9c8dacc1c6b70326
 #: ../../M14_Rulebook.rst:999
@@ -3110,7 +3110,7 @@ msgstr ""
 # b20f1186da984897973a58c548f13592
 #: ../../M14_Rulebook.rst:1001
 msgid "Additional cost gl"
-msgstr ""
+msgstr "Additional cost / Dodatkowy koszt"
 
 # 4e2da70ac20b4e42b899e257a06f9edc
 #: ../../M14_Rulebook.rst:1003
@@ -3120,7 +3120,7 @@ msgstr ""
 # f2796eed5f244516b118f0baea2fd318
 #: ../../M14_Rulebook.rst:1006
 msgid "Archenemy gl"
-msgstr ""
+msgstr "Archenemy / Arcywróg"
 
 # 1798f66a90bd473cb14db5e9a3f1b498
 #: ../../M14_Rulebook.rst:1008
@@ -3130,7 +3130,7 @@ msgstr ""
 # c7cc9b5ce32b4cc4aca0c377c5323eec
 #: ../../M14_Rulebook.rst:1010
 msgid "Artifact gl"
-msgstr ""
+msgstr "Artifact / Artefakt"
 
 # 20cbee876aa245f18cf3080390ec47f5
 #: ../../M14_Rulebook.rst:1012
@@ -3140,7 +3140,7 @@ msgstr ""
 # 773c8fd8484543538790abadda15aaf6
 #: ../../M14_Rulebook.rst:1013
 msgid "Artifact creature gl"
-msgstr ""
+msgstr "Artifact creature / Stwór artefaktowy"
 
 # 26a17e38efd7472b8553214000bdbfb1
 #: ../../M14_Rulebook.rst:1015
@@ -3150,7 +3150,7 @@ msgstr ""
 # d70dc2bb67c547abbf10171187ef4d6b
 #: ../../M14_Rulebook.rst:1016
 msgid "Attack gl"
-msgstr ""
+msgstr "Attack / Atak"
 
 # c0e64187b7744c9d88475d1c614c2ca1
 #: ../../M14_Rulebook.rst:1018
@@ -3160,7 +3160,7 @@ msgstr ""
 # 45c89172b7b34da89df509a0eab72825
 #: ../../M14_Rulebook.rst:1026
 msgid "Attacking creature gl"
-msgstr ""
+msgstr "Attacking creature / Atakujący stwór"
 
 # 6866bcaca35c4993a366d4c4e17df40c
 #: ../../M14_Rulebook.rst:1028
@@ -3170,7 +3170,7 @@ msgstr ""
 # 4febbc888f684353a967f2042f146397
 #: ../../M14_Rulebook.rst:1032
 msgid "Aura gl"
-msgstr ""
+msgstr "Aura"
 
 # 81de64f3c53f44368d47209e1d553054
 #: ../../M14_Rulebook.rst:1034
@@ -3180,7 +3180,7 @@ msgstr ""
 # e085bb34f5e14102bb1b66264f33fa7f
 #: ../../M14_Rulebook.rst:1043
 msgid "Basic land gl"
-msgstr ""
+msgstr "Basic land / Zwykły ląd"
 
 # 42b7786da3d64d3085e5ad37279e82bc
 #: ../../M14_Rulebook.rst:1045
@@ -3195,7 +3195,7 @@ msgstr ""
 # 320de95b048a4dc0bb6e2d91efbd98c4
 #: ../../M14_Rulebook.rst:1052
 msgid "Basic land type gl"
-msgstr ""
+msgstr "Basic land type / Typ zwykłego lądu"
 
 # c6f1ce36476e43afab233c09f813cb5b
 #: ../../M14_Rulebook.rst:1054
@@ -3205,7 +3205,7 @@ msgstr ""
 # a3f488159e04411ea961f10c6fc95549
 #: ../../M14_Rulebook.rst:1061
 msgid "Battlefield gl"
-msgstr ""
+msgstr "Battlefield / Pole walki"
 
 # daa5991a05244a08965da99bd6e9c48f
 #: ../../M14_Rulebook.rst:1063
@@ -3215,7 +3215,7 @@ msgstr ""
 # fc4e78cd96fa4fd1833e04be3a10fbd2
 #: ../../M14_Rulebook.rst:1064
 msgid "Block gl"
-msgstr ""
+msgstr "Block / Blokowanie"
 
 # 9b9eede87fd141d78329c14924719385
 #: ../../M14_Rulebook.rst:1066
@@ -3225,7 +3225,7 @@ msgstr ""
 # e41b6ce93cc84c258178d8f3d2a56ad2
 #: ../../M14_Rulebook.rst:1076
 msgid "Blocked creature gl"
-msgstr ""
+msgstr "Blocked creature / Zablokowany stwór"
 
 # 53132c768f3c4083bfdc6c894a064eb6
 #: ../../M14_Rulebook.rst:1078
@@ -3235,7 +3235,7 @@ msgstr ""
 # 9d95e33784614735b6c268d1cc7e7264
 #: ../../M14_Rulebook.rst:1085
 msgid "Blocking creature gl"
-msgstr ""
+msgstr "Blocking creature / Blokujący stwór"
 
 # 1bde3f32d79b40fd8cdc8f74096f4608
 #: ../../M14_Rulebook.rst:1087
@@ -3244,8 +3244,9 @@ msgstr ""
 
 # bb0f24cd3f59461fbb998a19177eacb5
 #: ../../M14_Rulebook.rst:1094
+#, fuzzy
 msgid "Booster glBooster pack gl"
-msgstr ""
+msgstr "Booster, booster pack"
 
 # 75ccb5dc9b964f3ead69403838d31f90
 #: ../../M14_Rulebook.rst:1097
@@ -3254,8 +3255,9 @@ msgstr ""
 
 # 55c57836758c4b5ab11de6e64acb1d54
 #: ../../M14_Rulebook.rst:1103
+#, fuzzy
 msgid "Booster Draft gl"
-msgstr ""
+msgstr "Booster Draft"
 
 # 658d7f76de3e423893bc6a7f1d5e4776
 #: ../../M14_Rulebook.rst:1105
@@ -3265,7 +3267,7 @@ msgstr ""
 # f25d759f59474c3891761b2b7c955e10
 #: ../../M14_Rulebook.rst:1106
 msgid "Card type gl"
-msgstr ""
+msgstr "Card type / Typ karty"
 
 # e0b4c0d801ba499581f42335fd9d7851
 #: ../../M14_Rulebook.rst:1108
@@ -3275,7 +3277,7 @@ msgstr ""
 # de6ea3f575e84e608e3c7d32e6cb269a
 #: ../../M14_Rulebook.rst:1114
 msgid "Cast gl"
-msgstr ""
+msgstr "Cast / Rzucać"
 
 # 0cea7e7d45cf4702a6ab910aecad835e
 #: ../../M14_Rulebook.rst:1116
@@ -3373,7 +3375,7 @@ msgstr "Combat phase / Faza walki"
 # 6d4a231ed6114fa2b1f2e0b73c6f0acf
 #: ../../M14_Rulebook.rst:1160
 msgid "Command zone gl"
-msgstr ""
+msgstr "Command zone / Strefa dowodzenia"
 
 # fb9e920091e1480e8aadb664d6fa9c21
 #: ../../M14_Rulebook.rst:1162
@@ -3393,7 +3395,7 @@ msgstr ""
 # f4fb46f47f5f4d7686f44cb1239074cf
 #: ../../M14_Rulebook.rst:1169
 msgid "Concede gl"
-msgstr ""
+msgstr "Concede / Poddać się"
 
 # de8f81ef2610485a96e0bb4812b7ed31
 #: ../../M14_Rulebook.rst:1171
@@ -3402,8 +3404,9 @@ msgstr ""
 
 # a7fbfe38185142dd9ebe6c496f487465
 #: ../../M14_Rulebook.rst:1174
+#, fuzzy
 msgid "Constructed gl"
-msgstr ""
+msgstr "Constructed"
 
 # 67f081bd2dd2471f96028a203a0bdb53
 #: ../../M14_Rulebook.rst:1176
@@ -3413,7 +3416,7 @@ msgstr ""
 # 8fd0a1455652427e9ae7ef3bc46d1650
 #: ../../M14_Rulebook.rst:1180
 msgid "Continuous effect gl"
-msgstr ""
+msgstr "Continuous effect / Efekt ciągły"
 
 # c6db016ca1db498c9a27cf338b654746
 #: ../../M14_Rulebook.rst:1182
@@ -3423,7 +3426,7 @@ msgstr ""
 # 656ca185af994eb2902307128bc1eb2f
 #: ../../M14_Rulebook.rst:1189
 msgid "Control gl"
-msgstr ""
+msgstr "Control / Władanie"
 
 # 0080a7fdc09f4601a1428e6fa06d044e
 #: ../../M14_Rulebook.rst:1191
@@ -3443,7 +3446,7 @@ msgstr ""
 # 0c464e5045904a0d8cf8da3d2d089f41
 #: ../../M14_Rulebook.rst:1204
 msgid "Controller gl"
-msgstr ""
+msgstr "Controller / Władca"
 
 # cec114dc2bb64e209820aec46d1335e1
 #: ../../M14_Rulebook.rst:1206
@@ -3453,7 +3456,7 @@ msgstr ""
 # 5a3746ed41f64ae08646a7951de1a7d0
 #: ../../M14_Rulebook.rst:1211
 msgid "Converted mana cost gl"
-msgstr ""
+msgstr "Converted mana cost / Łączny koszt many"
 
 # a1036ab878e7451083814a759d5f60e1
 #: ../../M14_Rulebook.rst:1213
@@ -3463,7 +3466,7 @@ msgstr ""
 # aa0765df80624a2bb1a8e383f986eba2
 #: ../../M14_Rulebook.rst:1217
 msgid "Cost gl"
-msgstr ""
+msgstr "Cost / Koszt"
 
 # c7f97bdece0e4b61a70f29dd1b27be15
 # afa00a656fe84402ae5b82cf98135093
@@ -3484,7 +3487,7 @@ msgstr ""
 # e5d9f11932f6431f82ceb6e6810f16a6
 #: ../../M14_Rulebook.rst:1225
 msgid "Counter a spell or ability gl"
-msgstr ""
+msgstr "Counter a spell or ability / Skontrować czar lub zdolność"
 
 # 634bfcdb4781464185bdce1358da1d3a
 # 6cb10ae18d8047f6944ed0205b7a74f1
@@ -3503,7 +3506,7 @@ msgstr ""
 # 75f3c715cef74547bd5ea4300706c41d
 #: ../../M14_Rulebook.rst:1231
 msgid "Counter on a permanent gl"
-msgstr ""
+msgstr "Counter on a permanent / Znacznik na stałce"
 
 # 6dc8695b13f640b783f04186977f1c8c
 #: ../../M14_Rulebook.rst:1233
@@ -3513,7 +3516,7 @@ msgstr ""
 # 2464e1e5aefc497d80a543b08d58b6d2
 #: ../../M14_Rulebook.rst:1238
 msgid "Creature gl"
-msgstr ""
+msgstr "Creature / Stwór"
 
 # e0cdf5462fe9437f92a6e073402f5ead
 #: ../../M14_Rulebook.rst:1240
@@ -3523,7 +3526,7 @@ msgstr ""
 # 015664fe0f144af78f3c696c7f8bc090
 #: ../../M14_Rulebook.rst:1241
 msgid "Creature type gl"
-msgstr ""
+msgstr "Creature type / Typ stwora"
 
 # c78cc49ae9c642438151c16bc8bfbc85
 #: ../../M14_Rulebook.rst:1243
@@ -3538,7 +3541,7 @@ msgstr ""
 # 585599c895294c86a02e042e6b882fd2
 #: ../../M14_Rulebook.rst:1252
 msgid "Damage gl"
-msgstr ""
+msgstr "Damage / Obrażenia"
 
 # 7aa17b0991154802ab0465dfffad3147
 #: ../../M14_Rulebook.rst:1254
@@ -3553,7 +3556,7 @@ msgstr ""
 # 70aa6ca5eda94da09e3a69f86e4bde37
 #: ../../M14_Rulebook.rst:1266
 msgid "Deathtouch gl"
-msgstr ""
+msgstr "Deathtouch / Dotyk śmierci"
 
 # 3e3e641b45a648bc985891821d63d22e
 #: ../../M14_Rulebook.rst:1268
@@ -3563,7 +3566,7 @@ msgstr ""
 # 29b823e7274b48ab94b903ce8cd7ad15
 #: ../../M14_Rulebook.rst:1274
 msgid "Deck gl"
-msgstr ""
+msgstr "Deck / Talia"
 
 # b04f2db4b4fa49b99269185475c8ed20
 #: ../../M14_Rulebook.rst:1276
@@ -3573,17 +3576,17 @@ msgstr ""
 # c75d5dd3374f474eb4f441e2d7ea8e78
 #: ../../M14_Rulebook.rst:1280
 msgid "Declare attackers step gl"
-msgstr ""
+msgstr "Declare attackers step / Krok deklarowania atakujących"
 
 # d4b1a16a3c47428daf03d8c1b824975d
 #: ../../M14_Rulebook.rst:1283
 msgid "Declare blockers step gl"
-msgstr ""
+msgstr "Declare blockers step / Krok deklarowania blokujących"
 
 # f8e5b5f267dd44078a9303c10cec2293
 #: ../../M14_Rulebook.rst:1286
 msgid "Defender gl"
-msgstr ""
+msgstr "Defender / Obronność"
 
 # 8087c80df3a34b6d8b490beb0764f195
 # 2de658b5010a438e9b26866908295214
@@ -3598,7 +3601,7 @@ msgstr "Hasło zdolności stwora. Stwory z obronnością nie mogą atakować."
 # 0d326e44135c4cec8f9142df244b003c
 #: ../../M14_Rulebook.rst:1290
 msgid "Defending player gl"
-msgstr ""
+msgstr "Defending player / Broniący się gacz"
 
 # 2e0943d500b5498087a0a55975806d43
 #: ../../M14_Rulebook.rst:1292
@@ -3608,7 +3611,7 @@ msgstr ""
 # 76ec460addaa467e8647db1eb147e596
 #: ../../M14_Rulebook.rst:1294
 msgid "Destroy gl"
-msgstr ""
+msgstr "Destroy / Zniszczyć"
 
 # 161b1f654e444e6293fb43cd1cedbeea
 #: ../../M14_Rulebook.rst:1296
@@ -3623,7 +3626,7 @@ msgstr ""
 # 8972a5081a4d40ed811c3e2ff1b20508
 #: ../../M14_Rulebook.rst:1310
 msgid "Dies gl"
-msgstr ""
+msgstr "Dies / Umiera"
 
 # ac622169ffb84c31b014ada352773c6e
 #: ../../M14_Rulebook.rst:1312
@@ -3633,7 +3636,7 @@ msgstr ""
 # d449ffe83a7c4e578d2ff9175e533dce
 #: ../../M14_Rulebook.rst:1314
 msgid "Discard gl"
-msgstr ""
+msgstr "Discard / Odrzucić kartę"
 
 # 4910d0b9e493446ab815e207067991d2
 #: ../../M14_Rulebook.rst:1316
@@ -3648,7 +3651,7 @@ msgstr ""
 # 2094daf0c6df4d2289ea439a89aea6e6
 #: ../../M14_Rulebook.rst:1323
 msgid "Double strike gl"
-msgstr ""
+msgstr "Double strike / Podwójny cios"
 
 # e5a3a0264d814214a8eb3b448ed084c3
 #: ../../M14_Rulebook.rst:1325
@@ -3658,7 +3661,7 @@ msgstr ""
 # 6b33762fe8fa4515967271a73d6de6e9
 #: ../../M14_Rulebook.rst:1334
 msgid "Draw a card gl"
-msgstr ""
+msgstr "Draw a card / Dobrać kartę"
 
 # 186d371405d44fde9dee22c0e785636e
 #: ../../M14_Rulebook.rst:1336
@@ -3668,12 +3671,12 @@ msgstr ""
 # 86d0e7d8de714692b09c62c2ed17e2a1
 #: ../../M14_Rulebook.rst:1342
 msgid "Draw step gl"
-msgstr ""
+msgstr "Draw step / Krok dobierania"
 
 # 51d75bad26cd473f85b82f615904db1f
 #: ../../M14_Rulebook.rst:1345
 msgid "Draw the game gl"
-msgstr ""
+msgstr "Draw the game / Remis"
 
 # 76587aab7db14be687785ae8d7f8e69e
 #: ../../M14_Rulebook.rst:1347
@@ -3683,7 +3686,7 @@ msgstr ""
 # 920bf92ff8bc4d35a0d00a5d939b22ca
 #: ../../M14_Rulebook.rst:1350
 msgid "Effect gl"
-msgstr ""
+msgstr "Effect / Efekt"
 
 # 44fae2b05cc847e2a0b1b6071d08a444
 #: ../../M14_Rulebook.rst:1352
@@ -3693,7 +3696,7 @@ msgstr ""
 # 0f8c4487acbf4d5c8d0225ddbe3ab3cc
 #: ../../M14_Rulebook.rst:1358
 msgid "Emblem gl"
-msgstr ""
+msgstr "Emblem / Emblemat"
 
 # b6884e1a92ea46ef993e73c7f2e3d624
 #: ../../M14_Rulebook.rst:1360
@@ -3703,7 +3706,7 @@ msgstr ""
 # 0d3c8aa429114e7c8987be60e81567eb
 #: ../../M14_Rulebook.rst:1363
 msgid "Enchant gl"
-msgstr ""
+msgstr "Enchant / Zaurocz"
 
 # 7bae792640fd4e0e845584771b4e5831
 #: ../../M14_Rulebook.rst:1365
@@ -3713,7 +3716,7 @@ msgstr ""
 # c102f9f71f7049cf8b72740011d0dec3
 #: ../../M14_Rulebook.rst:1373
 msgid "Enchanted gl"
-msgstr ""
+msgstr "Enchanted / Zauroczony"
 
 # 4e7ef5bc2d5f4752bf8eb6f8cfb93f2f
 #: ../../M14_Rulebook.rst:1375
@@ -3723,7 +3726,7 @@ msgstr ""
 # 3250fca1da7d49cb89cdde66f78f1b70
 #: ../../M14_Rulebook.rst:1381
 msgid "Enchantment gl"
-msgstr ""
+msgstr "Enchantment / Urok"
 
 # 5d6eeca1ea9a4799982494894da9fbf8
 #: ../../M14_Rulebook.rst:1383
@@ -3733,17 +3736,17 @@ msgstr ""
 # dbd6cb813e8d41d0ae97477c69b96718
 #: ../../M14_Rulebook.rst:1384
 msgid "End of combat step gl"
-msgstr ""
+msgstr "End of combat step / Krok końca walki"
 
 # 5e9c5c2b317c425fb6210e8d297c98f6
 #: ../../M14_Rulebook.rst:1387
 msgid "End step gl"
-msgstr ""
+msgstr "End step / Krok końcowy"
 
 # dfe8c68a74ea42c080508cb17820dc2f
 #: ../../M14_Rulebook.rst:1390
 msgid "Enters the battlefield gl"
-msgstr ""
+msgstr "Enters the battlefield / Wchodzi na pole walki"
 
 # 9f3b2dfcd6834dba8689b4f75cc3aa52
 #: ../../M14_Rulebook.rst:1392
@@ -3763,7 +3766,7 @@ msgstr ""
 # e66bd1c820a54a1fb43b8515861bd8c8
 #: ../../M14_Rulebook.rst:1407
 msgid "Equip gl"
-msgstr ""
+msgstr "Equip / Wyposaż"
 
 # 04d6a8af27ad4a8a8f53f4723dbe11f8
 #: ../../M14_Rulebook.rst:1409
@@ -3773,7 +3776,7 @@ msgstr ""
 # 11011870df334daab4d847ff3a883af4
 #: ../../M14_Rulebook.rst:1415
 msgid "Equipment gl"
-msgstr ""
+msgstr "Equipment / Wyposażenie"
 
 # fef715891d504ac5a68fe6204239842d
 #: ../../M14_Rulebook.rst:1417
@@ -3783,7 +3786,7 @@ msgstr ""
 # d014b530b3fb42858a7b8374b5fec25c
 #: ../../M14_Rulebook.rst:1427
 msgid "Evasion ability gl"
-msgstr ""
+msgstr "Evasion ability / Zdolność unikania"
 
 # 01acaaeeb3044d83b8530bf501277e96
 #: ../../M14_Rulebook.rst:1429
@@ -3793,7 +3796,7 @@ msgstr ""
 # e540d57ad7d149f58420c11c8562de84
 #: ../../M14_Rulebook.rst:1431
 msgid "Exile gl"
-msgstr ""
+msgstr "Exile / Wypędzenie"
 
 # 058d935a875d4ece83d8e582303a046d
 #: ../../M14_Rulebook.rst:1433
@@ -3803,7 +3806,7 @@ msgstr ""
 # 3fa37b9a1b9d4595bd3fb87db5f09cc1
 #: ../../M14_Rulebook.rst:1436
 msgid "Expansion symbol gl"
-msgstr ""
+msgstr "Expansion symbol / Symbol rozszerzenia"
 
 # 365bea0760464caebd686d63eb15d2b3
 #: ../../M14_Rulebook.rst:1438
@@ -3813,7 +3816,7 @@ msgstr ""
 # a7156687d1904900b168c8d2bb9fdae1
 #: ../../M14_Rulebook.rst:1439
 msgid "Fight gl"
-msgstr ""
+msgstr "Fight / Bić się"
 
 # 187998427cbc45f4a05130a401a2968b
 #: ../../M14_Rulebook.rst:1441
@@ -3823,7 +3826,7 @@ msgstr ""
 # 3f57b1019ff64950bf558f2ba506cc88
 #: ../../M14_Rulebook.rst:1443
 msgid "First strike gl"
-msgstr ""
+msgstr "First strike / Pierwszy cios"
 
 # 2eed64a3ea6b42a682c876d0d8234e64
 #: ../../M14_Rulebook.rst:1445
@@ -3833,7 +3836,7 @@ msgstr ""
 # 8a4b855a235f4c6589b730451141922e
 #: ../../M14_Rulebook.rst:1454
 msgid "Flash gl"
-msgstr ""
+msgstr "Flash / Błysk"
 
 # 2c150695e2334500af64c58db7199e45
 #: ../../M14_Rulebook.rst:1456
@@ -3843,7 +3846,7 @@ msgstr ""
 # 8587a6fd42704b2086a43fb6b56597e9
 #: ../../M14_Rulebook.rst:1458
 msgid "Flavor text gl"
-msgstr ""
+msgstr "Flavor text / Kontekst"
 
 # 690cc822430142ce93561e87f7a78ed6
 #: ../../M14_Rulebook.rst:1460
@@ -3853,7 +3856,7 @@ msgstr ""
 # 7da2ef7a8b8f4bf5aa72e62647d17d1e
 #: ../../M14_Rulebook.rst:1465
 msgid "Flying gl"
-msgstr ""
+msgstr "Flying / Latanie"
 
 # 36ebf72161b44750a2151a7a6501cfec
 #: ../../M14_Rulebook.rst:1467
@@ -3863,7 +3866,7 @@ msgstr ""
 # 4267877693924e26b0405de2c285d55f
 #: ../../M14_Rulebook.rst:1469
 msgid "Forestwalk gl"
-msgstr ""
+msgstr "Forestwalk / Zdobywca lasów"
 
 # 6d8093340c5e49098e445ffece1ff4b5
 # 62949d307d5e451a97f99bda350f3cf6
@@ -3879,7 +3882,7 @@ msgstr ""
 # 0e1fdc26f34e4869a1b36deac2be42ea
 #: ../../M14_Rulebook.rst:1472
 msgid "Graveyard gl"
-msgstr ""
+msgstr "Graveyard / Cmentarz"
 
 # 34059d2ddb9e439baf2760a9bdf32e11
 #: ../../M14_Rulebook.rst:1474
@@ -3889,7 +3892,7 @@ msgstr ""
 # 69b28ebc79624ff1bba9ee62df8385c5
 #: ../../M14_Rulebook.rst:1475
 msgid "Hand gl"
-msgstr ""
+msgstr "Hand / Ręka"
 
 # c539cc75c0094bc9a2e01d286f1d0bb4
 #: ../../M14_Rulebook.rst:1477
@@ -3899,7 +3902,7 @@ msgstr ""
 # a4e9d9d7a6f24523b4a4bdde9a2b05ee
 #: ../../M14_Rulebook.rst:1478
 msgid "Haste gl"
-msgstr ""
+msgstr "Haste / Pośpiech"
 
 # 0c8de527447c45baa4db4212da30cfed
 #: ../../M14_Rulebook.rst:1480
@@ -3909,7 +3912,7 @@ msgstr ""
 # 2654b8d785bb460282b19d772e2e3e43
 #: ../../M14_Rulebook.rst:1483
 msgid "Hexproof gl"
-msgstr ""
+msgstr "Hexproof / Antyklątwa"
 
 # 7f385c9c7fdb43b3be7e726266991520
 #: ../../M14_Rulebook.rst:1485
@@ -3919,7 +3922,7 @@ msgstr ""
 # 5d13a6d3079b4ae18d69f46591d2119c
 #: ../../M14_Rulebook.rst:1489
 msgid "Indestructible gl"
-msgstr ""
+msgstr "Indestructible / Niezniszczalność"
 
 # a3f326fb08cf433e91970e98992455b4
 #: ../../M14_Rulebook.rst:1491
@@ -3929,7 +3932,7 @@ msgstr ""
 # 10a522695f3e41ef97eba93813f98c6e
 #: ../../M14_Rulebook.rst:1494
 msgid "Instant gl"
-msgstr ""
+msgstr "Instant / Sztuczka"
 
 # 42a2d0809a804e3b8123c21ee9e54073
 #: ../../M14_Rulebook.rst:1496
@@ -3939,7 +3942,7 @@ msgstr ""
 # db617a38c8c444f5a0a967ff2552a5d9
 #: ../../M14_Rulebook.rst:1497
 msgid "Instead gl"
-msgstr ""
+msgstr "Instead / Zamiast tego"
 
 # 66b49e1347cf481988ea6d254efa1064
 #: ../../M14_Rulebook.rst:1499
@@ -3949,7 +3952,7 @@ msgstr ""
 # f223bb17a00349e3b844831487f76bd8
 #: ../../M14_Rulebook.rst:1501
 msgid "Intimidate gl"
-msgstr ""
+msgstr "Intimidate / Zastraszenie"
 
 # 7edb7bbac2684d1babffda8ce447d903
 #: ../../M14_Rulebook.rst:1503
@@ -3958,8 +3961,9 @@ msgstr ""
 
 # 389b422498d24664add15f2f2688f832
 #: ../../M14_Rulebook.rst:1509
+#, fuzzy
 msgid "Intro pack gl"
-msgstr ""
+msgstr "Intro pack"
 
 # f8b39a1b24af4a2da9c42e0e9cbe7916
 #: ../../M14_Rulebook.rst:1511
@@ -3969,12 +3973,12 @@ msgstr ""
 # 91e32faab69f4f159a18226df25d5755
 #: ../../M14_Rulebook.rst:1518
 msgid "Islandwalk gl"
-msgstr ""
+msgstr "Islandwalk / Zdobywca wysp"
 
 # c0725d3de1214191a838f19ed9d83dff
 #: ../../M14_Rulebook.rst:1521
 msgid "Land gl"
-msgstr ""
+msgstr "Land / Ląd"
 
 # fad9008ae3704377942017b811770cad
 #: ../../M14_Rulebook.rst:1523
@@ -3984,7 +3988,7 @@ msgstr ""
 # 25bd684be577435daaf90826e892609e
 #: ../../M14_Rulebook.rst:1524
 msgid "Land type gl"
-msgstr ""
+msgstr "Land type / Typ lądu"
 
 # a10cf065150149f9b6b1d6c5b094c2b7
 #: ../../M14_Rulebook.rst:1526
@@ -3994,7 +3998,7 @@ msgstr ""
 # 76319bfb97344c74887e101fc41082e7
 #: ../../M14_Rulebook.rst:1527
 msgid "Landwalk gl"
-msgstr ""
+msgstr "Landwalk / Zdobywca"
 
 # fc6ccbea008e47dba1e48a5a80428e8d
 #: ../../M14_Rulebook.rst:1529
@@ -4004,7 +4008,7 @@ msgstr ""
 # f9a0c02312e54be98266114053fe5443
 #: ../../M14_Rulebook.rst:1533
 msgid "Leaves the battlefield gl"
-msgstr ""
+msgstr "Leaves the battlefield / Opuszcza pole walki"
 
 # e41c2134ad7a42058d59dafad3cc6abd
 #: ../../M14_Rulebook.rst:1535
@@ -4014,7 +4018,7 @@ msgstr ""
 # 3ee40c7a77d5455eb733e9b4c946c11d
 #: ../../M14_Rulebook.rst:1541
 msgid "Legendary gl"
-msgstr ""
+msgstr "Legendary / Legendarny"
 
 # 0043a4f077df40dfbf751bcc7846ffac
 #: ../../M14_Rulebook.rst:1543
@@ -4024,7 +4028,7 @@ msgstr ""
 # 6cd2e09823f549ab88a3678c9c074aa0
 #: ../../M14_Rulebook.rst:1549
 msgid "Library gl"
-msgstr ""
+msgstr "Library / Biblioteka"
 
 # 2717470549dd4d6990cccb145643bcce
 #: ../../M14_Rulebook.rst:1551
@@ -4034,7 +4038,7 @@ msgstr ""
 # 49eb97f4e1024b53ae76d75d5bdec4b4
 #: ../../M14_Rulebook.rst:1552
 msgid "Life  glLife total  gl"
-msgstr ""
+msgstr "Life, life total / Życie, punkty życia"
 
 # f6bd2991a3684ebe9f55535af083dcda
 #: ../../M14_Rulebook.rst:1555
@@ -4044,7 +4048,7 @@ msgstr ""
 # d603885bf8584fd29f19c507c12d0a95
 #: ../../M14_Rulebook.rst:1560
 msgid "Lifelink gl"
-msgstr ""
+msgstr "Lifelink / Więź życia"
 
 # 78634abb406b47ad81911a089814093d
 #: ../../M14_Rulebook.rst:1562
@@ -4053,8 +4057,9 @@ msgstr ""
 
 # e2579d0b556b47938734c84e547965a6
 #: ../../M14_Rulebook.rst:1565
+#, fuzzy
 msgid "Limited gl"
-msgstr ""
+msgstr "Limited"
 
 # 2cc584e1d8234c88885d8a6d69305fe0
 #: ../../M14_Rulebook.rst:1567
@@ -4064,7 +4069,7 @@ msgstr ""
 # cabd22cfe3414325b2de3ee60063e15f
 #: ../../M14_Rulebook.rst:1569
 msgid "Losing life gl"
-msgstr ""
+msgstr "Losing life / Tracić życie"
 
 # 06b8babf1d57460c81c33dc85525d49b
 #: ../../M14_Rulebook.rst:1571
@@ -4074,7 +4079,7 @@ msgstr ""
 # 49161cbf74744a0485298090e7c6ee76
 #: ../../M14_Rulebook.rst:1575
 msgid "Loyalty gl"
-msgstr ""
+msgstr "Loyalty / Lojalność"
 
 # d63dd12187884e07b46ca1fc9cbc2b7c
 #: ../../M14_Rulebook.rst:1577
@@ -4084,12 +4089,12 @@ msgstr ""
 # 55c80a977e45494fb1ac21bbe1248bf0
 #: ../../M14_Rulebook.rst:1585
 msgid "Main phase gl"
-msgstr ""
+msgstr "Main phase / Faza główna"
 
 # 2a216b0d3b824b8695a0f1a6769776f2
 #: ../../M14_Rulebook.rst:1588
 msgid "Mana gl"
-msgstr ""
+msgstr "Mana"
 
 # 5ad35e52a00748a58569a5cee3009e4f
 #: ../../M14_Rulebook.rst:1590
@@ -4104,7 +4109,7 @@ msgstr ""
 # 87129f3c17ae447cb1bf1bba1d6b2ae4
 #: ../../M14_Rulebook.rst:1595
 msgid "Mana ability gl"
-msgstr ""
+msgstr "Mana ability / Zdolność dająca manę"
 
 # e340ec436ecb4e7bba4104d17729ebc9
 #: ../../M14_Rulebook.rst:1597
@@ -4114,7 +4119,7 @@ msgstr ""
 # bd30d29fddb2466da2a747a448a38268
 #: ../../M14_Rulebook.rst:1601
 msgid "Mana cost gl"
-msgstr ""
+msgstr "Mana cost / Koszt many"
 
 # d0ecf9409cc544aeb07e044ca4cf3d80
 #: ../../M14_Rulebook.rst:1603
@@ -4124,7 +4129,7 @@ msgstr ""
 # dbc0906cf6784cf49b78918279d40426
 #: ../../M14_Rulebook.rst:1605
 msgid "Mana pool gl"
-msgstr ""
+msgstr "Mana pool / Pula many"
 
 # 07bce08197bf4e6aaae2af6b5226668b
 #: ../../M14_Rulebook.rst:1607
@@ -4134,7 +4139,7 @@ msgstr ""
 # cfc493143dd94f74abdf5d83fc2c35f7
 #: ../../M14_Rulebook.rst:1609
 msgid "Match gl"
-msgstr ""
+msgstr "Match / Mecz"
 
 # cf96fa30de614d2bb7e0d0f1825953d5
 #: ../../M14_Rulebook.rst:1611
@@ -4143,8 +4148,9 @@ msgstr ""
 
 # f223953f0232437cad90c337c425c921
 #: ../../M14_Rulebook.rst:1615
+#, fuzzy
 msgid "Modern gl"
-msgstr ""
+msgstr "Modern"
 
 # f151607aa28f43b2bbffe84101e432f7
 #: ../../M14_Rulebook.rst:1617
@@ -4154,12 +4160,12 @@ msgstr ""
 # 8b70a94e490740b1ba7571c0091feec2
 #: ../../M14_Rulebook.rst:1621
 msgid "Mountainwalk gl"
-msgstr ""
+msgstr "Mountainwalk / Zdobywca gór"
 
 # 453b715ca53a4e5eb156f6dee71d94af
 #: ../../M14_Rulebook.rst:1624
 msgid "Mulligan gl"
-msgstr ""
+msgstr "Mulligan"
 
 # 79538fcec0e8453aa7312fb063ebcf65
 #: ../../M14_Rulebook.rst:1626
@@ -4169,7 +4175,7 @@ msgstr ""
 # ed49cdbee49a401f970eaaa0e8167727
 #: ../../M14_Rulebook.rst:1633
 msgid "Multicolored card gl"
-msgstr ""
+msgstr "Multicolored card / Karta wielokolorowa"
 
 # 531d3c73baa54ef3852b98cbc0f8cd04
 #: ../../M14_Rulebook.rst:1635
@@ -4179,7 +4185,7 @@ msgstr ""
 # 24b8f707cfcd4573ae354b270c7f18aa
 #: ../../M14_Rulebook.rst:1638
 msgid "Multiplayer game gl"
-msgstr ""
+msgstr "Multiplayer game / Gra wieloosobowa"
 
 # a582a386b5024db2bdb010dd66d8028a
 #: ../../M14_Rulebook.rst:1640
@@ -4189,7 +4195,7 @@ msgstr ""
 # 3083cab3b3f74d0393360fa117e885f5
 #: ../../M14_Rulebook.rst:1642
 msgid "Name gl"
-msgstr ""
+msgstr "Name / Nazwa"
 
 # 3f6c394b9cc84a5cb9ffdcf29992ff91
 # 58fff8dee1b149b29fdf01ed04bbb364
@@ -4208,7 +4214,7 @@ msgstr ""
 # 19b7eaf84ce94b9683178280d966cc2e
 #: ../../M14_Rulebook.rst:1648
 msgid "Non- gl"
-msgstr ""
+msgstr "Non- / Nie-"
 
 # f56a183808214a03afa6cf7ca363978d
 #: ../../M14_Rulebook.rst:1650
@@ -4218,7 +4224,7 @@ msgstr ""
 # 231822108c2743c89799a0c0b670d2d6
 #: ../../M14_Rulebook.rst:1653
 msgid "Nonbasic land gl"
-msgstr ""
+msgstr "Nonbasic land / Niezwykły ląd"
 
 # 3815a0d224334a4480e024bb61afbc59
 #: ../../M14_Rulebook.rst:1655
@@ -4228,7 +4234,7 @@ msgstr ""
 # 89407bf818ba491baab4bc063305a35b
 #: ../../M14_Rulebook.rst:1659
 msgid "One-shot effect gl"
-msgstr ""
+msgstr "One-shot effect / Jednorazowy efekt"
 
 # 7ae5f44c32064c28bb0b539cf5833796
 #: ../../M14_Rulebook.rst:1661
@@ -4238,7 +4244,7 @@ msgstr ""
 # e28ec984551544bea9b1182effefa972
 #: ../../M14_Rulebook.rst:1664
 msgid "Opponent gl"
-msgstr ""
+msgstr "Opponent / Przeciwnik"
 
 # 6ef3bab5050d4a0592b0c3dfdb842d2c
 #: ../../M14_Rulebook.rst:1666
@@ -4248,7 +4254,7 @@ msgstr ""
 # a5fd3dbc9d7b4bf680ae4789e363c7b8
 #: ../../M14_Rulebook.rst:1668
 msgid "Owner gl"
-msgstr ""
+msgstr "Owner / Właściciel"
 
 # 205d2e34739b4e0688767d57f637a4c9
 #: ../../M14_Rulebook.rst:1670
@@ -4258,7 +4264,7 @@ msgstr ""
 # ceb859603c3c48b2830ff80a869fe10c
 #: ../../M14_Rulebook.rst:1676
 msgid "Paying life gl"
-msgstr ""
+msgstr "Paying life / Płacenie życia"
 
 # 8e64323835ee4704b001c516eed7e781
 #: ../../M14_Rulebook.rst:1678
@@ -4268,7 +4274,7 @@ msgstr ""
 # 0639fa15244c4a5d895159c6073f634b
 #: ../../M14_Rulebook.rst:1682
 msgid "Permanent gl"
-msgstr ""
+msgstr "Permanent / Stałka"
 
 # 92c6ee6ad8544525a533f964085ad14d
 # 4bd4411925f24903b55fd717615b7a37
@@ -4295,7 +4301,7 @@ msgstr ""
 # 9f32110402804b5bb699c493813852de
 #: ../../M14_Rulebook.rst:1697
 msgid "Permanent type gl"
-msgstr ""
+msgstr "Permanent type / Typ stałki"
 
 # 39fc3addfaba4edeb09f1ca533e3a8c3
 #: ../../M14_Rulebook.rst:1699
@@ -4305,7 +4311,7 @@ msgstr ""
 # fc72057c84c84b459fe6239af5397295
 #: ../../M14_Rulebook.rst:1701
 msgid "Phase gl"
-msgstr ""
+msgstr "Phase / Faza"
 
 # bcde824d1ac14680874b0629cde7f0c5
 #: ../../M14_Rulebook.rst:1703
@@ -4314,8 +4320,9 @@ msgstr ""
 
 # e1e501d51f6c4197a108c85a29ffd6e3
 #: ../../M14_Rulebook.rst:1708
+#, fuzzy
 msgid "Planechase gl"
-msgstr ""
+msgstr "Planechase"
 
 # b31740c97ef1429493d4d461a6952b1f
 #: ../../M14_Rulebook.rst:1710
@@ -4325,7 +4332,7 @@ msgstr ""
 # 2bf0d95e3efe4eacad32f7cc04eec3c7
 #: ../../M14_Rulebook.rst:1711
 msgid "Planeswalker gl"
-msgstr ""
+msgstr "Planeswalker / Wędrowiec"
 
 # 445f3fd4bffb43bf9b6ee96d6b273bfb
 #: ../../M14_Rulebook.rst:1713
@@ -4335,7 +4342,7 @@ msgstr ""
 # 7b8257dd6da04d4eaf72006a01d26961
 #: ../../M14_Rulebook.rst:1714
 msgid "Planeswalker type gl"
-msgstr ""
+msgstr "Planeswalker type / Typ wędrowca"
 
 # cae39f44c2dd4c19a15dd0d00e7b8c4e
 #: ../../M14_Rulebook.rst:1716
@@ -4345,7 +4352,7 @@ msgstr ""
 # 1b0a76c62e7d43d89eb8fd76ab804839
 #: ../../M14_Rulebook.rst:1721
 msgid "Play gl"
-msgstr ""
+msgstr "Play / Zagrywać"
 
 # d3d1a466f38e4355a141837281ba2732
 #: ../../M14_Rulebook.rst:1723
@@ -4360,7 +4367,7 @@ msgstr ""
 # 95da83fa11614d62ac2db491d7890440
 #: ../../M14_Rulebook.rst:1730
 msgid "Player gl"
-msgstr ""
+msgstr "Player / Gracz"
 
 # d6d19d9b63a84530959143a3c093356d
 #: ../../M14_Rulebook.rst:1732
@@ -4370,7 +4377,7 @@ msgstr ""
 # 1a33fe5a8dd54d9ca0f504ef25ea2f8f
 #: ../../M14_Rulebook.rst:1737
 msgid "Power gl"
-msgstr ""
+msgstr "Power / Siła"
 
 # 685b8e88978743e89e65bb96d79675a8
 #: ../../M14_Rulebook.rst:1739
@@ -4380,7 +4387,7 @@ msgstr ""
 # 7be2c930b39e4d1f9af26e606e9e76af
 #: ../../M14_Rulebook.rst:1743
 msgid "Prevent gl"
-msgstr ""
+msgstr "Prevent / Zażegnać"
 
 # 0a72fdc2cf6046db84f5da658d778279
 #: ../../M14_Rulebook.rst:1745
@@ -4390,7 +4397,7 @@ msgstr ""
 # a7283ba5d5e94992a591cab656481c9d
 #: ../../M14_Rulebook.rst:1747
 msgid "Prevention effect gl"
-msgstr ""
+msgstr "Prevention effect / Efekt zażegnujący"
 
 # a488f8e631f64ad8ab4115d2579be609
 #: ../../M14_Rulebook.rst:1749
@@ -4410,7 +4417,7 @@ msgstr ""
 # 7070ca49136247f5a3141434b057fcd0
 #: ../../M14_Rulebook.rst:1766
 msgid "Priority gl"
-msgstr ""
+msgstr "Priority / Priorytet"
 
 # fef27de3caca43dc8ef9406c45812e60
 #: ../../M14_Rulebook.rst:1768
@@ -4430,7 +4437,7 @@ msgstr ""
 # 864967819897460bb1536491a96d5654
 #: ../../M14_Rulebook.rst:1786
 msgid "Protection gl"
-msgstr ""
+msgstr "Protection / Ochrona"
 
 # f8e825d684054b739cbfd68176682de2
 #: ../../M14_Rulebook.rst:1788
@@ -4460,7 +4467,7 @@ msgstr ""
 # 085bead194804470a13c3a831a132806
 #: ../../M14_Rulebook.rst:1801
 msgid "Put onto the battlefield gl"
-msgstr ""
+msgstr "Put onto the battlefield / Położyć na polu walki"
 
 # 5a38b41ee1574b49bf3f98857195d73e
 #: ../../M14_Rulebook.rst:1803
@@ -4470,7 +4477,7 @@ msgstr ""
 # d7b3b8f1b92246b085d15708fcd2337e
 #: ../../M14_Rulebook.rst:1807
 msgid "Rarity gl"
-msgstr ""
+msgstr "Rarity / Rzadkość"
 
 # 6eb3ae89e8ce45c387c1c32808c94ab5
 #: ../../M14_Rulebook.rst:1809
@@ -4480,7 +4487,7 @@ msgstr ""
 # c7c667dea2844027bbdda4aba69c7ade
 #: ../../M14_Rulebook.rst:1814
 msgid "Reach gl"
-msgstr ""
+msgstr "Reach / Zasięg"
 
 # af8c687edeeb43a88ab175ff475443a6
 # 60ce7b38d9e04a4baa4de213a3483ee5
@@ -4498,7 +4505,7 @@ msgstr ""
 # 4c0ddbae3f974c619cff7bfe5bfe87eb
 #: ../../M14_Rulebook.rst:1819
 msgid "Regenerate gl"
-msgstr ""
+msgstr "Regenerate / Zregenerować"
 
 # 1e0bb674df674104bf83b64263b34a58
 #: ../../M14_Rulebook.rst:1821
@@ -4513,7 +4520,7 @@ msgstr ""
 # 9680c126bf054bee9570b07564d2d753
 #: ../../M14_Rulebook.rst:1834
 msgid "Reminder text gl"
-msgstr ""
+msgstr "Reminder text / Tekst przypominający"
 
 # 4eb743e03e484ae997d160b149efecbc
 #: ../../M14_Rulebook.rst:1836
@@ -4523,7 +4530,7 @@ msgstr ""
 # d4bcfe8ba2544c0e8582e45be70657ec
 #: ../../M14_Rulebook.rst:1839
 msgid "Remove from combat gl"
-msgstr ""
+msgstr "Remove from combat / Usunąć z walki"
 
 # 2abdb13cbe9c436195a8bd31931da851
 #: ../../M14_Rulebook.rst:1841
@@ -4533,7 +4540,7 @@ msgstr ""
 # 45e907e152424bdd908dace19258f9f3
 #: ../../M14_Rulebook.rst:1847
 msgid "Replacement effect gl"
-msgstr ""
+msgstr "Replacement effect / Efekt podmieniający"
 
 # 6b138177f5624c5fa4e360d487870c29
 #: ../../M14_Rulebook.rst:1849
@@ -4543,7 +4550,7 @@ msgstr ""
 # 48468d0fdaa14cbd932abe142ae206c4
 #: ../../M14_Rulebook.rst:1857
 msgid "Resolve gl"
-msgstr ""
+msgstr "Resolve / Rozpatrzyć"
 
 # 63071345f5484edbbaa57cb865af7e97
 #: ../../M14_Rulebook.rst:1859
@@ -4553,7 +4560,7 @@ msgstr ""
 # c0be9593e1194e959b0c6a7ab445f71d
 #: ../../M14_Rulebook.rst:1866
 msgid "Respond glIn response gl"
-msgstr ""
+msgstr "Respond, in response / Odpowiedzieć, w odpowiedzi"
 
 # 6cb1b4f9ad0d48eb947725f27c5a8bbd
 #: ../../M14_Rulebook.rst:1869
@@ -4563,7 +4570,7 @@ msgstr ""
 # 0fffb1b35f034eebb4fc557ea2ebd70b
 #: ../../M14_Rulebook.rst:1872
 msgid "Reveal gl"
-msgstr ""
+msgstr "Reveal / Ujawnić"
 
 # 4cc15d6ff79c45d198f713e9c8c34098
 # c83f06059cb146b181edcd04a68d0e9d
@@ -4580,7 +4587,7 @@ msgstr ""
 # 70ed9db7aa524f4a8e9127a3c3e812b8
 #: ../../M14_Rulebook.rst:1875
 msgid "Sacrifice gl"
-msgstr ""
+msgstr "Sacrifice / Poświęcić"
 
 # 295235da757e4ea5b8e1ee4f150914bc
 #: ../../M14_Rulebook.rst:1877
@@ -4589,8 +4596,9 @@ msgstr ""
 
 # f9e4190c760347488e364f62243ee8e6
 #: ../../M14_Rulebook.rst:1882
+#, fuzzy
 msgid "Sealed Deck gl"
-msgstr ""
+msgstr "Sealed Deck"
 
 # cbabbaa3a7bf44af871e5810c5afdf6a
 #: ../../M14_Rulebook.rst:1884
@@ -4600,7 +4608,7 @@ msgstr ""
 # 6049acd2149d4dc097ebe7326ab2248b
 #: ../../M14_Rulebook.rst:1885
 msgid "Shuffle gl"
-msgstr ""
+msgstr "Shuffle / Tasować"
 
 # 0df70c96573f4962a0f9059cc861d5c9
 #: ../../M14_Rulebook.rst:1887
@@ -4609,8 +4617,9 @@ msgstr ""
 
 # f78331e514fb4e0bada79ef6f539bc44
 #: ../../M14_Rulebook.rst:1891
+#, fuzzy
 msgid "Sideboard gl"
-msgstr ""
+msgstr "Sideboard"
 
 # 87803263cefc4f28babd92468e89c756
 #: ../../M14_Rulebook.rst:1893
@@ -4630,7 +4639,7 @@ msgstr ""
 # 191d388b80884c3986e7256855d779ee
 #: ../../M14_Rulebook.rst:1907
 msgid "Sorcery gl"
-msgstr ""
+msgstr "Sorcery / Obrzęd"
 
 # eb64ea7810c04ae2a0abccc082ae92bb
 #: ../../M14_Rulebook.rst:1909
@@ -4640,7 +4649,7 @@ msgstr ""
 # a7e07a2a1efa44889f9693be2b73907f
 #: ../../M14_Rulebook.rst:1910
 msgid "Source gl"
-msgstr ""
+msgstr "Source / Źródło"
 
 # ff8c3b86c63746f1a166c4cc00ef5c0c
 #: ../../M14_Rulebook.rst:1912
@@ -4650,7 +4659,7 @@ msgstr ""
 # c9f97a4544ff41b585ea3ea419c7cb49
 #: ../../M14_Rulebook.rst:1915
 msgid "Spell gl"
-msgstr ""
+msgstr "Spell / Czar"
 
 # fbe494da239e45c598a2ffddd6f0eb5a
 #: ../../M14_Rulebook.rst:1917
@@ -4660,7 +4669,7 @@ msgstr ""
 # 583daa8dbe954f938bdd7a5bf81dd8cf
 #: ../../M14_Rulebook.rst:1920
 msgid "Stack gl"
-msgstr ""
+msgstr "Stack / Stos"
 
 # ae02362f28fd42da9e740372118e7772
 #: ../../M14_Rulebook.rst:1922
@@ -4669,8 +4678,9 @@ msgstr ""
 
 # 1cf5d3e69f7d4fd2aeed0a6155909f46
 #: ../../M14_Rulebook.rst:1923
+#, fuzzy
 msgid "Standard gl"
-msgstr ""
+msgstr "Standard"
 
 # aa4955887dfe499184b448086c870f79
 #: ../../M14_Rulebook.rst:1925
@@ -4680,7 +4690,7 @@ msgstr ""
 # b02a72d7c2f24da5b98528da22891ea3
 #: ../../M14_Rulebook.rst:1930
 msgid "Static ability gl"
-msgstr ""
+msgstr "Static ability / Zdolność statyczna"
 
 # dc0e6e4557f74a0b82a5681c363de522
 #: ../../M14_Rulebook.rst:1932
@@ -4690,7 +4700,7 @@ msgstr ""
 # 879d9838941e4839b09c6ec4a18164fa
 #: ../../M14_Rulebook.rst:1934
 msgid "Step gl"
-msgstr ""
+msgstr "Step / Krok"
 
 # e2ded1423ee845b191df69946453cbd2
 #: ../../M14_Rulebook.rst:1936
@@ -4700,7 +4710,7 @@ msgstr ""
 # 860fdf7ae09f4a7f9a13a8fe320455b0
 #: ../../M14_Rulebook.rst:1941
 msgid "Subtype gl"
-msgstr ""
+msgstr "Subtype / Podtyp"
 
 # 01176dbe42e848d780ee03c9915d8d1a
 #: ../../M14_Rulebook.rst:1943
@@ -4720,7 +4730,7 @@ msgstr ""
 # 3f70538991fa40d4b3e591c91513f340
 #: ../../M14_Rulebook.rst:1960
 msgid "Supertype gl"
-msgstr ""
+msgstr "Supertype / Nadtyp"
 
 # 9054141cda114686a03f38254054a2c0
 #: ../../M14_Rulebook.rst:1962
@@ -4730,12 +4740,12 @@ msgstr ""
 # 0758d8b36bd74db2b9c37905eca5eb58
 #: ../../M14_Rulebook.rst:1968
 msgid "Swampwalk gl"
-msgstr ""
+msgstr "Swampwalk / Zdobywca bagien"
 
 # fa1e42fbecaf4003be274de4d0aef563
 #: ../../M14_Rulebook.rst:1971
 msgid "Tap gl"
-msgstr ""
+msgstr "Tap / Zaznaczyć"
 
 # 3811851c3a604b719df388c89e7ea18e
 #: ../../M14_Rulebook.rst:1973
@@ -4745,7 +4755,7 @@ msgstr ""
 # a7b64c5043c6413495dfe78808097428
 #: ../../M14_Rulebook.rst:1974
 msgid "Target gl"
-msgstr ""
+msgstr "Target / Wskazywać"
 
 # 86006cc7814d4340b2ad48463239f290
 #: ../../M14_Rulebook.rst:1976
@@ -4755,12 +4765,12 @@ msgstr ""
 # b636e9e8b0214b1dbb2d0f6a62fb7593
 #: ../../M14_Rulebook.rst:1977
 msgid "Text box gl"
-msgstr ""
+msgstr "Text box / Pole treści"
 
 # 8d01bb3c0d3c484586a5095eddb8025a
 #: ../../M14_Rulebook.rst:1980
 msgid "Token gl"
-msgstr ""
+msgstr "Token / Żeton"
 
 # a1645ff4f57840b7ad053553813194a9
 #: ../../M14_Rulebook.rst:1982
@@ -4775,7 +4785,7 @@ msgstr ""
 # 0b3e48a2e0fc4a09a14938f7764e7447
 #: ../../M14_Rulebook.rst:1991
 msgid "Toughness gl"
-msgstr ""
+msgstr "Toughness / Wytrzymałość"
 
 # 047784a434e54151bd216fec12e7d999
 #: ../../M14_Rulebook.rst:1993
@@ -4785,7 +4795,7 @@ msgstr ""
 # 11d8d28217174b69bd7ec80941375bd2
 #: ../../M14_Rulebook.rst:1998
 msgid "Trample gl"
-msgstr ""
+msgstr "Trample / Tratowanie"
 
 # e8f706e7b74c48c08311932c78d3653c
 #: ../../M14_Rulebook.rst:2000
@@ -4795,7 +4805,7 @@ msgstr ""
 # bf2809a487b442bb81b250e6c4fbcdaa
 #: ../../M14_Rulebook.rst:2008
 msgid "Triggered ability gl"
-msgstr ""
+msgstr "Triggered ability / Zdolność wyzwalana"
 
 # f03177097e4240f9a95abb430faa2479
 #: ../../M14_Rulebook.rst:2010
@@ -4805,7 +4815,7 @@ msgstr ""
 # dbf1f2a9ee124bc2b7022e6e8217d5c0
 #: ../../M14_Rulebook.rst:2012
 msgid "Turn gl"
-msgstr ""
+msgstr "Turn / Tura"
 
 # 71718c9e98dd47cb8a910d63bca8ec83
 #: ../../M14_Rulebook.rst:2014
@@ -4896,7 +4906,7 @@ msgstr "Faza końcowa"
 # 2df9cb103b7744ca8873f44033450d47
 #: ../../M14_Rulebook.rst:2041
 msgid "Two-Headed Giant gl"
-msgstr ""
+msgstr "Two-Headed Giant / Dwugłowy Gigant"
 
 # 0b3c3633668d458ca7d8ff8de9ebb3a4
 #: ../../M14_Rulebook.rst:2043
@@ -4906,12 +4916,12 @@ msgstr ""
 # c5795ac0e2574381995c53ff4010b4ed
 #: ../../M14_Rulebook.rst:2044
 msgid "Type line gl"
-msgstr ""
+msgstr "Type line / Linia typu"
 
 # c5e4dabcc5e04085bd5223c9f54f92ff
 #: ../../M14_Rulebook.rst:2047
 msgid "Unblocked gl"
-msgstr ""
+msgstr "Unblocked / Niezablokowany"
 
 # 1b38f572e42548e5938498e46dd061bd
 #: ../../M14_Rulebook.rst:2049
@@ -4921,7 +4931,7 @@ msgstr ""
 # 71ecb68f0f8542408925509a1188644f
 #: ../../M14_Rulebook.rst:2051
 msgid "Untap gl"
-msgstr ""
+msgstr "Untap / Odznacz"
 
 # c60c1cfe3aa64eeb9c0f6021230376b1
 #: ../../M14_Rulebook.rst:2053
@@ -4931,17 +4941,17 @@ msgstr ""
 # 8e0b0ef32c3d4804b9b07ddb0d47a7cd
 #: ../../M14_Rulebook.rst:2055
 msgid "Untap step gl"
-msgstr ""
+msgstr "Untap step / Krok odznaczania"
 
 # bf304e01d9fa40368c28aefd9fdbf474
 #: ../../M14_Rulebook.rst:2058
 msgid "Upkeep step gl"
-msgstr ""
+msgstr "Upkeep step / Krok utrzymania"
 
 # 65ed79c028b6491bb943331fc4ee5268
 #: ../../M14_Rulebook.rst:2061
 msgid "Vigilance gl"
-msgstr ""
+msgstr "Vigilance / Czujność"
 
 # f38cf4baa17c4d8788ef5125aba8faea
 # ed6119e5a45e480fa24cf588faebf1c9
@@ -4957,7 +4967,7 @@ msgstr ""
 # 50b8032100344ee4a1afbf47e5f8b53c
 #: ../../M14_Rulebook.rst:2065
 msgid "Winning the game gl"
-msgstr ""
+msgstr "Winning the game / Zwycięstwo w grze"
 
 # ca961d0b37ce45fe8992f182bc3121ea
 # 1063d54cd2bc48328db014d43995d266
@@ -5039,7 +5049,7 @@ msgstr "Różne warianty gry wieloosobowej mogą zmieniać warunki zwycięstwa."
 # 632868d8d43044848acf3135322b4918
 #: ../../M14_Rulebook.rst:2082
 msgid "X gl"
-msgstr ""
+msgstr "X"
 
 # 9195c85d87ed4ba2b2d216bb2513d965
 #: ../../M14_Rulebook.rst:2084
@@ -5059,7 +5069,7 @@ msgstr ""
 # 388753d007a04db8a52f12957ff9181d
 #: ../../M14_Rulebook.rst:2095
 msgid "Zone gl"
-msgstr ""
+msgstr "Zone / Strefa"
 
 # 70e9e7febc274ce1a5e689aa39f76883
 #: ../../M14_Rulebook.rst:2097
