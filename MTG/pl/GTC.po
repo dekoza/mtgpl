@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-30 17:25+0200\n"
+"PO-Revision-Date: 2013-09-30 19:58+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380558335.704447\n"
+"X-POOTLE-MTIME: 1380567538.946460\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -374,12 +374,17 @@ msgid ""
 "Consuming Aberration's power and toughness are each equal to the number of "
 "cards in your opponents' graveyards."
 msgstr ""
+"Siła i wytrzymałość Consuming Aberration są równe całkowitej liczbie kart w "
+"cmentarzach twoich przeciwników."
 
 msgid ""
 "Whenever you cast a spell, each opponent reveals cards from the top of his "
 "or her library until he or she reveals a land card, then puts those cards "
 "into his or her graveyard."
 msgstr ""
+"Ilekroć rzucasz czar, każdy przeciwnik ujawnia karty z wierzchu swojej "
+"biblioteki, aż ujawni kartę lądu, po czym przekłada wszystkie ujawnione w "
+"ten sposób karty na swój cmentarz."
 
 #: Contaminated Ground Debtor's Pulpit Skygames Tin Street Market Verdant
 #: Haven
@@ -516,36 +521,44 @@ msgstr ""
 
 #: Disciple of the Old Ways
 msgid "|mana_r|: Disciple of the Old Ways gains first strike until end of turn."
-msgstr ""
+msgstr "|mana_r|: Disciple of the Old Ways zyskuje pierwszy cios do końca tury."
 
 #: Domri Rade
 msgid ""
 "+1: Look at the top card of your library. If it's a creature card, you may "
 "reveal it and put it into your hand."
 msgstr ""
+"+1: Spójrz na wierzchnią kartę ze swojej biblioteki. Jeśli jest to karta "
+"stwora, możesz ją ujawnić i dołożyć do swojej ręki."
 
 msgid "-2: Target creature you control fights another target creature."
-msgstr ""
+msgstr "-2: Wskazany stwór, którym władasz bije się z innym wskazanym stworem."
 
 msgid ""
 "-7: You get an emblem with \"Creatures you control have double strike, "
 "trample, hexproof, and haste.\""
 msgstr ""
+"-7: Dostajesz emblemat o treści: \"Stwory, którymi władasz mają podwójny "
+"cios, tratowanie, antyklątwę i pośpiech.\""
 
 #: Drakewing Krasis Hellkite Tyrant
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: Duskmantle Guildmage
 msgid ""
 "|mana_1| |mana_u| |mana_b|: Whenever a card is put into an opponent's graveyard from anywhere "
 "this turn, that player loses 1 life."
 msgstr ""
+"|mana_1| |mana_u| |mana_b|: Ilekroć w tej turze karta zostaje położona z "
+"dowolnego miejsca na cmentarzu któregoś przeciwnika, ów gracz traci 1 życie."
 
 msgid ""
 "|mana_2| |mana_u| |mana_b|: Target player puts the top two cards of his or her library into "
 "his or her graveyard."
 msgstr ""
+"|mana_2| |mana_u| |mana_b|: Wskazany gracz wkłada dwie wierzchnie karty ze "
+"swojej biblioteki do swojego cmentarza."
 
 msgid ""
 "At the beginning of your upkeep, each player reveals the top card of his or "
@@ -657,7 +670,7 @@ msgstr ""
 "graczowi obrażenia równe liczbie stworów, którymi władasz."
 
 msgid "|mana_r|: Foundry Champion gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_r|: Foundry Champion dostaje +1/+0 do końca tury."
 
 msgid "|mana_w|: Foundry Champion gets +0/+1 until end of turn."
 msgstr "|mana_w|: Foundry Champion dostaje +0/+1 do końca tury."

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-28 21:23\n"
-"PO-Revision-Date: 2013-09-30 17:19+0200\n"
+"PO-Revision-Date: 2013-09-30 19:55+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380557982.588465\n"
+"X-POOTLE-MTIME: 1380567329.155611\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
 #: ../../DGM.rst:5
@@ -1118,10 +1118,10 @@ msgstr "Profit // Loss [Loss] (Zysk // Strata [Strata])"
 msgid "Creatures your opponents control get -1/-1 until end of turn."
 msgstr "Stwory władane przez twoich przeciwników dostają -1/-1 do końca tury."
 
-# a0c8283099f24ffca43528ae0b58c300
+# Lyev są jedną z frakcji wewnątrz Azorius (patrz flavor na Azoriu Cluestone)
 #: ../../DGM.rst:407
 msgid "Lyev Decree"
-msgstr ""
+msgstr "Lyev Decree (Dekret Lyevów)"
 
 # 62048919b76a472593a33f2e08f331c1
 #: ../../DGM.rst:406
@@ -1977,7 +1977,7 @@ msgstr ""
 # 46b1595daabe42ea9048f38b175ac542
 #: ../../DGM.rst:739
 msgid "Sire of Insanity"
-msgstr ""
+msgstr "Sire of Insanity (Ojciec Szaleństwa)"
 
 # 8d2d270f77e248fc940098c6e3738237
 #: ../../DGM.rst:738
