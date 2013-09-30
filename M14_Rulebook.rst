@@ -45,6 +45,10 @@ in the land itself, and a Planeswalker with a connection to a place can call upo
 Each color of mana fuels a different kind of powerful magic for you to command. For example, red spells have |mana_r| in their costs,
 and tapping (turning) a Mountain gives you |mana_r| that you can spend to cast spells. It's up to you whether to master one color or all five.
 
+
+.. image:: images/star_seating.jpg
+   :align: right
+
 White
 ~~~~~
 **White** is the color of law, order, and structure. The sprawling **Plains**,
@@ -77,11 +81,14 @@ from dank **Swamps**, where things fester and rot. You are as selfish and twiste
 the undead creatures and unspeakable horrors you command.
 
 
+.. _sec-parts-of-a-card:
+
 Parts of a Card
 ---------------
 
-Card Name
-~~~~~~~~~
+.. image:: images/parts_of_card.png
+   :align: center
+
 
 Mana Cost
 ~~~~~~~~~
@@ -92,7 +99,7 @@ The symbols in a card's upper right corner tell you the cost to cast that spell.
 Type Line
 ~~~~~~~~~
 This tells you the card's :term:`card type<card type gl>`: artifact, creature, enchantment, instant, land,
-planeswalker, or sorcery. If the card has a *subtype* or *supertype*, that's also listed
+planeswalker, or sorcery. If the card has a :term:`subtype<subtype gl>` or :term:`supertype<supertype gl>`, that's also listed
 here. For example, Shivan Dragon is a creature, and its subtype is the creature
 type Dragon.
 
@@ -111,7 +118,7 @@ on game play. Some abilities have italic reminder text to help explain what they
 
 Power and Toughness
 ~~~~~~~~~~~~~~~~~~~
-Each creature card has a special box with its *power* and *toughness*. A creature's power
+Each creature card has a special box with its :term:`power<power gl>` and :term:`toughness<toughness gl>`. A creature's power
 (the first number) is how much damage it deals in combat. Its toughness (the second number)
 is how much damage must be dealt to it in a single turn to destroy it. (A planeswalker
 card has a different special box with its loyalty here.)
@@ -216,6 +223,7 @@ your opponents can damage them with their spells and abilities instead of damagi
 to a planeswalker causes it to lose that many loyalty counters. If a planeswalker has no loyalty counters, it's
 put into your graveyard.
 
+.. _sec-land:
 
 Land
 ~~~~
@@ -256,6 +264,8 @@ Game Zones
 Since the Magic game doesn't have a game board,
 zones are the areas of play that exist on your table.
 
+.. _sec-library:
+
 Library
 ~~~~~~~
 When the game begins, your deck of cards becomes your library (your draw
@@ -273,6 +283,8 @@ No one except you can look at the cards in your hand. You start the game with
 seven cards in your hand, and you have a maximum hand size of seven. (You
 may have more than seven cards in your hand, but you must discard down to
 seven at the end of each of your turns.) Each player has his or her own hand.
+
+.. _sec-the-stack:
 
 The Stack
 ~~~~~~~~~
@@ -294,6 +306,7 @@ after they resolve. You can arrange your permanents however you want (we
 recommend putting lands closest to you), but your opponent must be able to see
 all of them and tell whether they're *tapped*. This zone is shared by both players.
 
+.. _sec-graveyard:
 
 Graveyard
 ~~~~~~~~~
@@ -305,6 +318,8 @@ your graveyard if the damage they're dealt in a single turn is equal to or great
 than their toughness, or if their toughness is reduced to 0 or less. Cards in your
 graveyard are always face up and anyone can look at them at any time. Each
 player has his or her own graveyard.
+
+.. _sec-exile:
 
 Exile
 ~~~~~
@@ -370,6 +385,8 @@ step or phase of the turn, any unused mana in your mana pool
 disappears. This doesn't happen often because usually you'll only
 make mana when you need it to cast a spell or activate an ability.
 
+.. _sec-tapping:
+
 Tapping
 ~~~~~~~
 To tap a card is to turn it sideways. You do this when you use a land to make mana,
@@ -381,6 +398,8 @@ can't tap it again until it's been *untapped* (straightened out).
 
 At the beginning of each of your turns, you untap your tapped cards so you can
 use them again.
+
+.. _sec-spells:
 
 Spells
 ------
@@ -408,6 +427,8 @@ Now check what the spell's cost is. Tap your lands to produce
 the mana necessary to pay that cost, and pay it. Once you do that,
 the spell has been cast.
 
+.. _sec-target:
+
 Target
 ~~~~~~
 When you see the word "target" on a spell or ability, you have to
@@ -429,6 +450,8 @@ ability). If a target isn't legal, the spell or ability can't
 affect it. If none of the targets are legal, the spell or
 ability is countered and does nothing at all.
 
+.. _sec-responding-to-a-spell:
+
 Responding to a Spell
 ~~~~~~~~~~~~~~~~~~~~~
 The spell doesn't resolve (have its effect) right away—it has to wait
@@ -437,6 +460,8 @@ an instant or activate an activated ability *in response*. If a player
 does, that instant or ability goes on the stack on top of what was
 already waiting there. When all players decline to do anything, the
 top spell or ability on the stack will resolve.
+
+.. _sec-resolving-a-spell:
 
 Resolving a Spell
 ~~~~~~~~~~~~~~~~~
@@ -500,11 +525,15 @@ permanents have text on them that affects the game. This text tells you a perman
 are three different kinds of abilities a permanent can have: *static abilities*, *triggered abilities*,
 and *activated abilities*.
 
+.. _sec-static-abilities:
+
 Static Abilities
 ~~~~~~~~~~~~~~~~
 A static ability is text that is always true while that card is on the battlefield. For example, Imposing
 Sovereign is a creature with the ability "Creatures your opponents control enter the battlefield tapped."
 You don't activate a static ability. It just does what it says.
+
+.. _sec-triggered-abilities:
 
 Triggered Abilities
 ~~~~~~~~~~~~~~~~~~~
@@ -859,6 +888,8 @@ your picks and any number of basic lands to build your 40-card deck.
 
 To play these formats and more, check out events at your local gaming store! `Wizards.com/Locator`_
 
+.. _sec-multiplayer-variants:
+
 Multiplayer Variants
 --------------------
 
@@ -1048,7 +1079,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         doesn't match its enchant ability—or attached to nothing at all—it's
         put into its owner's graveyard.
 
+
     Basic land gl
+        |basic_forest|
+        
         There are five basic lands. Plains make |mana_w| (white mana). Islands make |mana_u| (blue
         mana). Swamps make |mana_b| (black mana). Mountains make |mana_r| (red mana). Forests
         make |mana_g| (green mana). They each say "basic" on their type line (basic is a
@@ -1099,8 +1133,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         There's no such thing as a blocking creature outside of the
         combat phase.
 
-    Booster gl
-    Booster pack gl
+    Booster, booster pack gl
         A pack of randomly assorted Magic cards. When you want to
         add more cards to your collection, this is what you'll get. Most
         15-card booster packs contain one rare or mythic rare card,
@@ -1124,7 +1157,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         can be cast at different times, but the things you have to do to
         cast a spell are always the same: announce it, choose its targets
         (and make certain other choices right away), and pay its cost. See
-        :ref:`Spells` [on page 10].
+        :ref:`Spells<sec-spells>` [on page 10].
 
     Choose one — gl
         When you see the phrase "Choose one —" on a card, you have to
@@ -1133,6 +1166,8 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         choice doesn't work out.
 
     Color gl
+        |colorwheel|
+        
         The five Magic colors are white, blue, black, red, and green. If a spell
         or ability tells you to choose a color, you must choose one of those five.
         A card's color is determined by its mana cost. For example, a card that
@@ -1160,10 +1195,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         creature's ability during combat.
 
     Combat damage step gl
-        See :ref:`Parts of the Turn` [on page 17].
+        See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17].
 
     Combat phase gl
-        See :ref:`Parts of the Turn` [on page 17].
+        See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17].
 
     Command zone gl
         A game zone used for objects that affect the game but aren't
@@ -1244,7 +1279,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         anything you want as counters: glass beads, dice, or whatever.
 
     Creature gl
-        A card type. See :ref:`Creature` [on page 6].
+        A card type. See :ref:`Creature<sec-creature>` [on page 6].
 
     Creature type gl
         This tells you what kind of creature a creature is, such as Goblin,
@@ -1286,10 +1321,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         Once the game starts, your deck becomes your library.
 
     Declare attackers step gl
-        See :ref:`Parts of the Turn` [on page 17].
+        See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17].
 
     Declare blockers step gl
-        See :ref:`Parts of the Turn` [on page 17].
+        See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17].
 
     Defender gl
         A keyword ability seen on creatures. Creatures with defender can't
@@ -1348,7 +1383,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         use the word "draw," it doesn't count as drawing a card.
 
     Draw step gl
-        See :ref:`Parts of the Turn` [on page 17].
+        See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17].
 
     Draw the game gl
         The other meaning of "draw" is a game that ends with no winner.
@@ -1357,10 +1392,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
     Effect gl
         What a spell or ability does when it resolves. There are several
-        types of effects: :term:`one-shot effects<one-shot effects gl>`,
-        :term:`continuous effects<continuous effects gl>`,
-        :term:`prevention effects<prevention effects gl>`,
-        and :term:`replacement effects<replacement effects gl>`.
+        types of effects: :term:`one-shot effects<one-shot effect gl>`,
+        :term:`continuous effects<continuous effect gl>`,
+        :term:`prevention effects<prevention effect gl>`,
+        and :term:`replacement effects<replacement effect gl>`.
         You can look up each one in this glossary.
 
     Emblem gl
@@ -1387,13 +1422,13 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         life from its lifelink ability.
 
     Enchantment gl
-        A card type. See :ref:`Enchantment` [on page 6].
+        A card type. See :ref:`Enchantment<sec-enchantment>` [on page 6].
 
     End of combat step gl
-        See :ref:`Parts of the Turn` [on page 17].
+        See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17].
 
     End step gl
-        See :ref:`Parts of the Turn` [on page 17].
+        See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17].
 
     Enters the battlefield gl
         When artifact, creature, enchantment, and planeswalker spells
@@ -1439,10 +1474,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
     Exile gl
         A game zone. Exile is essentially a holding area for cards. If a spell
         or ability exiles a card, that card is moved to the exile zone from
-        wherever it is. See :ref:`Exile` [on page 8].
+        wherever it is. See :ref:`Exile<sec-exile>` [on page 8].
 
     Expansion symbol gl
-        See :ref:`Parts of a Card` [on page 5].
+        See :ref:`Parts of a Card<sec-parts-of-a-card>` [on page 5].
 
     Fight gl
         Some effects cause a creature to fight another creature. When two
@@ -1527,7 +1562,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         A kind of landwalk. See the glossary entry for :term:`Landwalk<landwalk gl>`.
 
     Land gl
-        A card type. See :ref:`Land` [on page 7].
+        A card type. See :ref:`Land<sec-land>` [on page 7].
 
     Land type gl
         A subtype of a land. See the glossary entry for :term:`Basic land type<basic land type gl>`.
@@ -1555,10 +1590,9 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         with the same name.) This is known as the "legend rule."
 
     Library gl
-        A game zone. See :ref:`Library` [on page 8].
+        A game zone. See :ref:`Library<sec-library>` [on page 8].
 
-    Life  gl
-    Life total  gl
+    Life, life total  gl
         Each player begins the game with 20 life. When you're dealt
         damage by spells, abilities, or unblocked creatures, you subtract
         the damage from your life total. If your life total drops to 0 or less,
@@ -1572,7 +1606,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
     Limited gl
         A group of play formats using cards from booster packs you open
-        just before you play. See :ref:`Limited Formats` [on page 19].
+        just before you play. See :ref:`Limited Formats<sec-limited-formats>` [on page 19].
 
     Losing life gl
         All damage dealt to you causes you to lose life, which is why
@@ -1587,11 +1621,11 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         a planeswalker's activated abilities is to put loyalty counters on it or remove
         loyalty counters from it. Each 1 damage dealt to a planeswalker causes a loyalty
         counter to be removed from it. If a planeswalker has no loyalty counters on it,
-        it's put into its owner's graveyard. See also :ref:`Planeswalker`
+        it's put into its owner's graveyard. See also :ref:`Planeswalker<sec-planeswalker>`
         [on page 7].
 
     Main phase gl
-        See :ref:`Parts of the Turn` [on page 17].
+        See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17].
 
     Mana gl
         The magical energy you use to pay for spells and some abilities.
@@ -1645,7 +1679,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
     Multiplayer game gl
         A Magic game that starts with more than two players in it.
-        See :ref:`Multiplayer Variants<sec-multiplayer-variants` [on page 20].
+        See :ref:`Multiplayer Variants<sec-multiplayer-variants>` [on page 20].
 
     Name gl
         See :ref:`Parts of a Card<sec-parts-of-a-card>` [on page 5].
@@ -1711,13 +1745,13 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         first main phase, combat phase, second main phase, and ending
         phase. Some phases are divided into steps. If a player has mana left
         over as a step or phase ends, that mana is lost.
-        See :ref:`Parts of the Turn` [on page 17].
+        See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17].
 
     Planechase gl
         A multiplayer variant that features oversized plane cards.
 
     Planeswalker gl
-        A card type. See :ref:`Planeswalker` [on page 7].
+        A card type. See :ref:`Planeswalker<sec-planeswalker>` [on page 7].
 
     Planeswalker type gl
         A subtype of a planeswalker. If a player controls two or more
@@ -1871,11 +1905,10 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         to resolve, it won't resolve at all (and if it's a spell, it's put into its
         owner's graveyard).
 
-    Respond gl
-    In response gl
+    Respond, in response gl
         To cast an instant or activate an activated ability right after another
         spell or ability has been put on the stack.
-        See :ref:`Responding to a Spell` [on page 10].
+        See :ref:`Responding to a Spell<sec-responding-to-a-spell>` [on page 10].
 
     Reveal gl
         When you reveal a card, it's shown to all the players in the game.
@@ -1888,7 +1921,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         only if a spell or ability tells you to, or if it's part of a cost.
 
     Sealed Deck gl
-        See :ref:`Limited Formats` [on page 19].
+        See :ref:`Limited Formats<sec-limited-formats>` [on page 19].
 
     Shuffle gl
         To randomize the order of the cards in your deck. At the beginning
@@ -1926,7 +1959,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
         it, it's a creature spell. When it resolves, it becomes a creature.
 
     Stack gl
-        A game zone. See :ref:`The Stack` [on page 8].
+        A game zone. See :ref:`The Stack<sec-the-stack>` [on page 8].
 
     Standard gl
         The most popular Constructed format. It uses only the newest
@@ -1937,14 +1970,14 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
     Static ability gl
         One of the three types of abilities a permanent can have.
-        See :ref:`Static Abilities` [on page 12].
+        See :ref:`Static Abilities<sec-static-abilities>` [on page 12].
 
     Step gl
         Every phase except the main phase is divided into steps. Specific
         things happen during some steps. For example, you untap your
         permanents during your untap step. If a player has mana left over
         as a step or phase ends, that mana is lost.
-        See :ref:`Parts of the Turn` [on page 17].
+        See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17].
 
     Subtype gl
         All types of cards can have subtypes. Subtypes come after the
@@ -2015,11 +2048,11 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
     Triggered ability gl
         One of the three types of abilities a permanent can have. See
-        :ref:`Triggered Abilities` [on page 12].
+        :ref:`Triggered Abilities<sec-triggered-abilities>` [on page 12].
 
     Turn gl
         Each turn is divided into phases, and most phases have steps. See
-        :ref:`Parts of the Turn` [on page 17].
+        :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17].
 
         Parts of the Turn:
 
@@ -2047,7 +2080,7 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
            b. Cleanup step
 
     Two-Headed Giant gl
-        See :ref:`Multiplayer Variants` [on page 20].
+        See :ref:`Multiplayer Variants<sec-multiplayer-variants>` [on page 20].
 
     Type line gl
         See :ref:`Parts of a Card<sec-parts-of-a-card>` [on page 5].
@@ -2058,13 +2091,13 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 
     Untap gl
         To turn a tapped card upright so it's ready to be used again. See
-        :ref:`Tapping` [on page 9].
+        :ref:`Tapping<sec-tapping>` [on page 9].
 
     Untap step gl
-        See :ref:`Parts of the Turn` [on page 17].
+        See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17].
 
     Upkeep step gl
-        See :ref:`Parts of the Turn` [on page 17].
+        See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17].
 
     Vigilance gl
         A keyword ability seen on creatures. When a creature with
@@ -2133,3 +2166,11 @@ Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_.
 .. _Wizards.com/MagicFormats: http://wizards.com/MagicFormats/
 .. _Wizards.com/Locator: http://www.wizards.com/Locator/
 .. _MagicTheGathering.com: http://magicthegathering.com/
+
+
+.. |basic_forest| image:: images/lands/forest_1.png
+   :scale: 50%
+   :alt: Forest
+
+.. |colorwheel| image:: images/star_seating.jpg
+   :scale: 50%

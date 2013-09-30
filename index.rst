@@ -47,9 +47,16 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 .. toctree::
    :hidden:
    
+   
    rationale
+   M14_Rulebook
    RTR
    GTC
    DGM
    M14
    THS
+   THS_heroes
+   THS_hydra
+   game_variants
+   polish_cards
+   symbols
