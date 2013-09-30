@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-30 12:49+0200\n"
-"PO-Revision-Date: 2013-09-30 15:30+0200\n"
+"PO-Revision-Date: 2013-09-30 23:04+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -173,7 +173,7 @@ msgid "Each color of mana fuels a different kind of powerful magic for you to co
 msgstr ""
 "Każdy kolor many zasila inny rodzaj potężnej magii, którą możesz władać. "
 "Przykładowo czerwone czary mają |mana_r| w koszcie, a zaznaczenie "
-"(obrócenie) Góry daje |mana_r|, które możesz użyć do rzucania czarów. Od "
+"(obrócenie) Góry daje |mana_r|, którą możesz użyć do rzucania czaru. Od "
 "ciebie zależy, czy opanujesz jeden kolor, czy wszystkie pięć."
 
 # 2af795962e644bfeacb4e361a19e3f92
@@ -1195,8 +1195,8 @@ msgstr ""
 "artefakty, uroki i wędrowcy także wchodzą na pole walki po ich rozpatrzeniu. "
 "Możesz dowolnie rozmieszczać swoje stałki (zalecamy umieszczanie lądów "
 "bliżej siebie), ale twoi przeciwnicy muszą mieć możliwość zobaczenia ich "
-"wszystkich i określenia czy są *zużyte*. Ta strefa jest współdzielona przez "
-"obu graczy."
+"wszystkich i określenia czy są *zaznaczone*. Ta strefa jest współdzielona "
+"przez obu graczy."
 
 # 89ff6d5f3b3c43759542188764ce1a52
 # b3cd545e2fec43498ec1e43ea2da0dd0
@@ -1358,7 +1358,7 @@ msgstr "Rodzaj lądu podstawowego"
 # 7b9f851cab2f4742abbf222e55ff9edf
 #: ../../M14_Rulebook.rst:370
 msgid "Can be tapped for"
-msgstr "Zużycie pozyskuje"
+msgstr "Zaznaczenie daje"
 
 # d8c7c5a1d17441e1bdb146b8c494aa7d
 # d5bfe9e78c68468b8bc50d955fde066e
@@ -1500,9 +1500,9 @@ msgstr "Zaznaczanie"
 #: ../../M14_Rulebook.rst:392
 msgid "To tap a card is to turn it sideways. You do this when you use a land to make mana, when you attack with a creature, or when you activate an ability that has the |tap| symbol as part of its cost (|tap| means \"tap this permanent\")."
 msgstr ""
-"Aby zużyć kartę, należy ustawić ją bokiem. Robisz tak, kiedy używasz lądu do "
-"produkcji many, kiedy atakujesz stworem lub gdy aktywujesz zdolność, która "
-"ma |tap| w swoim koszcie (|tap| oznacza \"zużyj tę stałkę\")."
+"Aby zaznaczyć kartę, należy ustawić ją bokiem. Robisz tak, kiedy używasz "
+"lądu do produkcji many, kiedy atakujesz stworem lub gdy aktywujesz zdolność, "
+"która ma |tap| w swoim koszcie (|tap| oznacza \"zaznacz tę stałkę\")."
 
 # 913c138a062944f1a695fa6089e110d1
 # 57fc66a9229842e59f0897a0ba9f6e39
@@ -1514,8 +1514,8 @@ msgstr ""
 #: ../../M14_Rulebook.rst:396
 msgid "When a permanent is tapped, that usually means it's been used for the turn. You can't tap it again until it's been *untapped* (straightened out)."
 msgstr ""
-"Kiedy stałka jest zużyta, zwykle oznacza to, że została już wykorzystana w "
-"tej turze. Nie możesz jej ponownie zużyć dopóki nie zostanie *odświeżona* "
+"Kiedy stałka jest zaznaczona, zwykle oznacza to, że została już użyta w tej "
+"turze. Nie możesz jej ponownie zaznaczyć dopóki nie zostanie *odznaczona* "
 "(wyprostowana)."
 
 # b4fbcfe3f3ff4600ac10118c0e6a3c40
@@ -1528,8 +1528,8 @@ msgstr ""
 #: ../../M14_Rulebook.rst:399
 msgid "At the beginning of each of your turns, you untap your tapped cards so you can use them again."
 msgstr ""
-"Na początku każdej ze swoich tur, odświeżasz swoje zużyte karty, żeby móc z "
-"nich znowu korzystać."
+"Na początku każdej ze swoich tur, odznaczasz swoje zaznaczone karty, żeby "
+"móc ich ponownie użyć."
 
 # ca7441ed23104025b9cbf02f68b372cb
 # df683706939e4562ae1eab27bb6bea14
@@ -1609,8 +1609,9 @@ msgstr ""
 #: ../../M14_Rulebook.rst:426
 msgid "Now check what the spell's cost is. Tap your lands to produce the mana necessary to pay that cost, and pay it. Once you do that, the spell has been cast."
 msgstr ""
-"Sprawdź teraz koszt czaru. Zużyj lądy, by pobrać manę konieczną do opłacenia "
-"tego kosztu i opłać go. W momencie, gdy to zrobisz, czar został rzucony."
+"Sprawdź teraz koszt czaru. Zaznacz lądy, by pobrać manę konieczną do "
+"opłacenia tego kosztu i opłać go. W momencie, gdy to zrobisz, czar został "
+"rzucony."
 
 # ebd0562f42a74c458a4682c6e395d682
 # 10d89db69b6e463c9e448d03984c1ae2
@@ -1895,8 +1896,8 @@ msgid "A static ability is text that is always true while that card is on the ba
 msgstr ""
 "Zdolnością statyczną jest tekst, który jest zawsze prawdziwy, dopóki karta "
 "jest na polu walki. Przykładowo Okazały Suweren jest stworem ze zdolnością "
-"\"Stwory władane przez twoich przeciwników wchodzą na pole walki zużyte.\" Nie "
-"można aktywować zdolności statycznej. Ona po prostu robi to, co jest "
+"\"Stwory władane przez twoich przeciwników wchodzą na pole walki zaznaczone.\" "
+"Nie można aktywować zdolności statycznej. Ona po prostu robi to, co jest "
 "napisane."
 
 # 566a75209e7741aea2ea4b268f9c75ec
@@ -2008,8 +2009,8 @@ msgstr ""
 msgid "Some activated abilities contain the |tap| symbol in their costs. This means that you must tap the permanent to activate the ability. You can't activate the ability if the permanent is already tapped."
 msgstr ""
 "Niektóre zdolności zawierają w koszcie symbol |tap|. Oznacza to, że do "
-"aktywacji zdolności musisz zużyć stałkę. Nie możesz aktywować zdolności "
-"jeśli stałka jest już zużyta."
+"aktywacji zdolności musisz zaznaczyć stałkę. Nie możesz aktywować zdolności "
+"jeśli stałka jest już zaznaczona."
 
 # 14d26a130ed44dfdb7f571227ba125f4
 # 562a5cb4c55147c092b610fdee227c67
@@ -2077,10 +2078,11 @@ msgstr ""
 "dowiesz się więcej na temat :ref:`części tury<sec-parts-of-the-turn>`.) W "
 "swojej fazie walki wybierasz, którymi stworami chcesz zaatakować oraz kogo "
 "lub co będą one atakować. Każda może atakować jednego z przeciwników lub "
-"wędrowców, ale nie mogą atakować stworów. Zużywasz stwory, którymi "
+"wędrowców, ale nie mogą atakować stworów. Zaznaczasz stwory, którymi "
 "atakujesz. Wszystkie atakują w tym samym momencie - nawet jeśli atakują "
-"różne cele. Możesz atakować wyłącznie stworem, który nie jest zużyty i tylko "
-"jeśli jest on na polu walki pod twoim władaniem od samego początku tury."
+"różne cele. Możesz atakować wyłącznie stworem, który nie jest zaznaczony i "
+"tylko jeśli jest on na polu walki pod twoim władaniem od samego początku "
+"tury."
 
 # 8d82246a3c234568991e98b1c5512e9e
 # ed7402a5a66548f4832abe0735e7dd94
@@ -2092,9 +2094,9 @@ msgstr ""
 #: ../../M14_Rulebook.rst:597
 msgid "Your opponent chooses which of his or her creatures will block. Tapped creatures can't be declared as blockers. For blocking, it doesn't matter how long the creature has been on the battlefield. Each creature can block only one attacker, but multiple blockers can gang up on a single attacking creature. If that happens, the attacking player orders the blockers to show which is first in line for damage, which is second, and so on. Creatures don't have to block."
 msgstr ""
-"Przeciwnik wybiera stwory, które będą blokować. Zużyte stwory nie mogą być "
-"zadeklarowane jako blokujący. Podczas blokowania czas przebywania stwora na "
-"polu walki nie ma znaczenia. Każdy stwór może blokować tylko jednego "
+"Przeciwnik wybiera stwory, które będą blokować. Zaznaczone stwory nie mogą "
+"być zadeklarowane jako blokujący. Podczas blokowania czas przebywania stwora "
+"na polu walki nie ma znaczenia. Każdy stwór może blokować tylko jednego "
 "atakującego, ale wielu blokujących może równocześnie blokować jednego "
 "atakującego stwora. Gdy tak się stanie, atakujący gracz ustawia blokujących "
 "w kolejności, by określić który otrzyma obrażenia jako pierwszy, drugi itd. "
@@ -2237,9 +2239,9 @@ msgstr "Deklaracja atakujących"
 #: ../../M14_Rulebook.rst:633
 msgid "The attacking player attacks with his three biggest creatures and taps them. He doesn't attack with the smallest because it's too easy to destroy, and it might be useful for blocking on the opponent's next turn."
 msgstr ""
-"Atakujący gracz wyznacza do ataku swoje trzy największe stwory i zużywa je. "
-"Nie atakuje najmniejszymi, bo zbyt łatwo je zniszczyć, a mogą się przydać do "
-"blokowania w turze przeciwnika."
+"Atakujący gracz wyznacza do ataku swoje trzy największe stwory i zaznacza "
+"je. Nie atakuje najmniejszymi, bo zbyt łatwo je zniszczyć, a mogą się "
+"przydać do blokowania w turze przeciwnika."
 
 # 7cd63f65f9eb454e9124d6de0496f5e2
 # 62b828317100478a8f1e0b9a89ee55f7
@@ -2418,9 +2420,9 @@ msgstr "Złota Zasada"
 msgid "When a Magic card contradicts the rulebook, the card wins. For example, the rules say creatures enter the battlefield untapped. But Imposing Sovereign is a creature that says \"Creatures your opponents control enter the battlefield tapped.\" Imposing Sovereign changes the rules as long as it's on the battlefield. One of the things that makes the Magic game fun to play is that there are individual cards that let you break almost every rule."
 msgstr ""
 "Kiedy treść karty stoi w sprzeczności z podręcznikiem, karta wygrywa. "
-"Przykładowo zasady mówią, że stwory wchodzą na pole walki odświeżone. "
-"Jednakże Imposing Sovereign jest stworem, który mówi \"Stwory twoich "
-"przeciwników wchodzą na pole walki jako zużyte.\" Imposing Sovereign zmienia "
+"Przykładowo zasady mówią, że stwory wchodzą na pole walki odznaczone. "
+"Jednakże Okazały Suweren jest stworem, który mówi \"Stwory twoich "
+"przeciwników wchodzą na pole walki zaznaczone.\" Okazały Suweren zmienia "
 "zasady tak długo, jak jest na polu walki. Istnieją karty, które pozwalają "
 "złamać niemal każdą zasadę i jest to jedna z tych rzeczy, które sprawiają, "
 "że gra w Magic jest tak emocjonująca."
@@ -2602,7 +2604,7 @@ msgstr "Faza początkowa"
 #: ../../M14_Rulebook.rst:747
 #: ../../M14_Rulebook.rst:2061
 msgid "Untap step"
-msgstr "Krok odświeżania"
+msgstr "Krok odznaczania"
 
 # b7b651a6b78f4b0c84976d6d7fcd64ac
 # 69856765256440419f9ad5e65ef2cde8
@@ -2614,9 +2616,9 @@ msgstr "Krok odświeżania"
 #: ../../M14_Rulebook.rst:749
 msgid "You untap all your tapped permanents. On the first turn of the game, you don't have any permanents, so you just skip this step. No one can cast spells or activate abilities during this step."
 msgstr ""
-"Odśwież (wyprostuj) wszystkie swoje zużyte stałki. Podczas pierwszej tury "
-"gry nie masz jeszcze żadnych stałek, więc po prostu pomijasz ten krok. Nikt "
-"nie może rzucać czarów ani aktywować zdolności w trakcie tego kroku."
+"Odznacz (wyprostuj) wszystkie swoje zaznaczone stałki. Podczas pierwszej "
+"tury gry nie masz jeszcze żadnych stałek, więc po prostu pomijasz ten krok. "
+"Nikt nie może rzucać czarów ani aktywować zdolności w trakcie tego kroku."
 
 # b7089a042f08477ab9e5bc9620b13bb1
 # 2f88ab8f8ef04a0281f57519ffb55ab0
@@ -2956,7 +2958,7 @@ msgstr "Następna tura"
 #: ../../M14_Rulebook.rst:840
 msgid "Now it's your opponent's turn. That player untaps his or her permanents and goes from there. After that player is done, it will be your turn again. Keep going until a player is reduced to 0 life. As soon as a player has 0 life, the game ends immediately and the other player wins!"
 msgstr ""
-"Teraz następuje tura przeciwnika. Odświeża on swoje stałki i wszystko się "
+"Teraz następuje tura przeciwnika. Odznacza on swoje stałki i wszystko się "
 "powtarza. Kiedy przeciwnik skończy, znów nastąpi twoja tura. Powtarzajcie "
 "dopóki punkty życia któregoś z graczy nie zostanie sprowadzone do 0. W "
 "chwili, gdy któryś z graczy ma 0 życia gra natychmiast się kończy i wygrywa "
@@ -3294,8 +3296,8 @@ msgstr ""
 "Ten symbol oznacza \"zaznacz tę kartę\" (przekręć ją w bok, by pokazać, że "
 "została użyta). Pojawia się w kosztach aktywacji. Nie możesz opłacić kosztu "
 "z |tap| jeśli karta jest już zaznaczona. Pamiętaj też, że nie możesz opłacać "
-"kosztu z |tap| stwora, który nie znajdował się na polu walki na początku "
-"twojej tury."
+"kosztu z |tap| stwora, który nie znajdował się na polu walki pod twoim "
+"władaniem na początku twojej tury."
 
 # 8f8b71c5ac0347b3afb30a6fd54cd76b
 # 006faa7c794f42e2b979f41e17545bf2
@@ -5422,7 +5424,7 @@ msgstr "Vigilance / Czujność"
 msgid "A keyword ability seen on creatures. When a creature with vigilance attacks, it doesn't become tapped."
 msgstr ""
 "Zdolność hasłowa obecna na stworach. Kiedy stwór z czujnością atakuje, nie "
-"staje się zużyty."
+"staje się zaznaczony."
 
 # c99fd2e1ace5495cacc57c289da562af
 # 50b8032100344ee4a1afbf47e5f8b53c
