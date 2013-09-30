@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-28 21:23\n"
-"PO-Revision-Date: 2013-09-30 21:27+0200\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2013-09-30 21:45+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380572852.21237\n"
+"X-POOTLE-MTIME: 1380573956.559498\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
 #: ../../DGM.rst:5
@@ -145,9 +145,8 @@ msgstr "Wskazany stwór dostaje +1/+1 oraz Podwójny Cios do końca tury."
 
 # 8562f5a4f446494e8b1b69cee9d8508b
 #: ../../DGM.rst:33
-#, fuzzy
 msgid "Armored Wolf-Rider"
-msgstr "Armored Wolf-Rider"
+msgstr "Armored Wolf-Rider (Pancerny Wilczy Jeździec)"
 
 # f8298c606d0c4806812fc8750931b87f
 #: ../../DGM.rst:39
@@ -169,7 +168,7 @@ msgstr "Far // Away [Away]"
 # 94e09267ae0845c1a34c40c881794378
 #: ../../DGM.rst:42
 msgid "Target player sacrifices a creature."
-msgstr "Latanie, Antyklątwa"
+msgstr "Wskazany gracz poświęca stwora."
 
 # 0af335d3e7ec4276974f8b8bcc94c84d
 #: ../../DGM.rst:49
@@ -792,7 +791,7 @@ msgstr ""
 # 86d7a7bb97384e9582804af6ebf14dfe
 #: ../../DGM.rst:283
 msgid "Gaze of Granite"
-msgstr ""
+msgstr "Gaze of Granite (Granitowe Spojrzenie)"
 
 # 5b9ad1c7fe9943558be9f3d8f9bde34b
 #: ../../DGM.rst:282
@@ -924,7 +923,7 @@ msgstr "Stwory władane przez twoich przeciwników dostają -1/-0."
 # 7a64fe06c4634705a56d2eac2e2de5c9
 #: ../../DGM.rst:341
 msgid "Hidden Strings"
-msgstr ""
+msgstr "Hidden Strings (Ukryte Sznurki)"
 
 # 02305e77b97447f4a626fb85a4815b42
 #: ../../DGM.rst:338
@@ -946,7 +945,7 @@ msgstr ""
 # de84c2555acc4384b7f3daf65df0c58f
 #: ../../DGM.rst:347
 msgid "Hired Torturer"
-msgstr ""
+msgstr "Hired Torturer (Wynajety Oprawca)"
 
 # aef93e7041b2492f8f2d11d58390d7fe
 # f530990755844f7d839cbc788922e505
@@ -1439,7 +1438,7 @@ msgstr "Wskazany stwór dostaje +5/+5 do końa tury."
 # 5ca40d41865b44e5abd23ab67109887e
 #: ../../DGM.rst:531
 msgid "Pilfered Plans"
-msgstr ""
+msgstr "Pilfered Plans (Podkradzione Plany)"
 
 # 6f7a319cdc8f4dac909103bd638c7867
 #: ../../DGM.rst:530
@@ -1464,7 +1463,7 @@ msgstr ""
 # 826d63e55ad34b8b86b9d9e4821afaf1
 #: ../../DGM.rst:541
 msgid "Pontiff of Blight"
-msgstr ""
+msgstr "Pontiff of Blight (Arcykapłan Zarazy)"
 
 # 16d5d887a4c140949b17cc3cd85a6424
 # fe1dfbf03a484163b3f7823e2b4bda93
@@ -1486,7 +1485,7 @@ msgstr ""
 # a8a3cfed9bfc4771a06e9fdba9798c21
 #: ../../DGM.rst:545
 msgid "Possibility Storm"
-msgstr ""
+msgstr "Possibility Storm (Burza Możliwości)"
 
 # ad27e8649b994749a69f1e496f590dbc
 #: ../../DGM.rst:544
