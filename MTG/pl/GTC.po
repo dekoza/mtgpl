@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-30 19:58+0200\n"
+"PO-Revision-Date: 2013-09-30 21:16+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380567538.946460\n"
+"X-POOTLE-MTIME: 1380572179.643547\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -723,11 +723,13 @@ msgstr ""
 
 #: Gateway Shade
 msgid "|mana_b|: Gateway Shade gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_b|: Gateway Shade dostaje +1/+1 do końca tury."
 
 msgid ""
 "Tap an untapped Gate you control: Gateway Shade gets +2/+2 until end of turn."
 msgstr ""
+"Zaznacz odznaczoną bramę, którą władasz: Gateway Shade dostaje +2/+2 do "
+"końca tury."
 
 msgid ""
 "Bloodrush — |mana_r| |mana_g|, Discard Ghor-Clan Rampager: Target attacking creature "
@@ -738,12 +740,16 @@ msgid ""
 "Whenever Giant Adephage deals combat damage to a player, put a token onto "
 "the battlefield that's a copy of Giant Adephage."
 msgstr ""
+"Ilekroć Giant Adephage zadaje graczowi obrażenia bojowe, połóż na polu walki "
+"żeton będący kopią Giant Adephage."
 
 #: Gideon, Champion of Justice
 msgid ""
 "+1: Put a loyalty counter on Gideon, Champion of Justice for each creature "
 "target opponent controls."
 msgstr ""
+"+1: Połóż na Gideonie jeden znacznik lojalności za każdego stwora władanego "
+"przez wskazanego przeciwnika."
 
 msgid ""
 "0: Until end of turn, Gideon, Champion of Justice becomes a Human Soldier "
@@ -751,6 +757,10 @@ msgid ""
 "counters on him and gains indestructible. He's still a planeswalker. Prevent "
 "all damage that would be dealt to him this turn."
 msgstr ""
+"0: Do końca tury Gideon staje się stworem Człowiekiem Piechurem z siłą i "
+"wytrzymałością równą liczbie posiadanych przez niego znaczników lojalności "
+"oraz zyskuje niezniszczalność. Nadal jest wędrowcem. Zażegnaj wszystkie "
+"obrażenia, jakie mogłyby mu zostać zadane w tej turze."
 
 msgid "-15: Exile all other permanents."
 msgstr "-15: Wypędź wszystkie inne stałki."
@@ -763,6 +773,9 @@ msgid ""
 "Creatures your opponents control with hexproof can be the targets of spells "
 "and abilities you control as though they didn't have hexproof."
 msgstr ""
+"Stwory mające antyklątwę władane przez twoich przeciwników mogą być "
+"wskazywane przez czary i zdolności, którymi władasz tak, jakby nie miały "
+"antyklątwy."
 
 msgid ""
 "|mana_3|, Sacrifice Glaring Spotlight: Creatures you control gain hexproof until "
@@ -780,7 +793,7 @@ msgstr ""
 
 #: Greenside Watcher
 msgid "|tap|: Untap target Gate."
-msgstr ""
+msgstr "|tap|: Odznacz wskazaną Bramę."
 
 #: Gridlock
 msgid "Tap X target nonland permanents."
@@ -829,6 +842,9 @@ msgid ""
 "Whenever Gruul Ragebeast or another creature enters the battlefield under "
 "your control, that creature fights target creature an opponent controls."
 msgstr ""
+"Ilekroć Gruul Ragebeast lub inny stwór wchodzi na pole walki pod twoim "
+"władaniem, ów stwór bije się ze wskazanym stworem władanym przez "
+"przeciwnika."
 
 msgid "Guardian of the Gateless can block any number of creatures."
 msgstr ""
@@ -1227,6 +1243,8 @@ msgid ""
 "Target creature you control fights another target creature. (Each deals "
 "damage equal to its power to the other.)"
 msgstr ""
+"Wskazany stwór, którym władasz bije się z innym wskazanym stworem.  (Zadają "
+"sobie nawzajem obrażenia równe swojej sile.)"
 
 #: Predator's Rapport
 msgid ""
