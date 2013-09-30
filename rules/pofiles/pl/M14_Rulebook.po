@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-30 05:52+0200\n"
-"PO-Revision-Date: 2013-09-30 05:57+0200\n"
+"PO-Revision-Date: 2013-09-30 06:06+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -319,6 +319,11 @@ msgstr "Koszt many"
 #: ../../M14_Rulebook.rst:88
 msgid "*:term:`Mana<Mana gl>`* is the main resource in the game. It's produced by lands, and you spend it to cast *spells*. The symbols in a card's upper right corner tell you the cost to cast that spell. If the mana cost reads |mana_4| |mana_r| |mana_r|, you pay four mana of any kinds plus two red mana (from two Mountains) to cast it."
 msgstr ""
+"W grze głównym zasobem jest :term:`mana<mana gl>`. Produkują ją lądy, a ty "
+"wydajesz ją, by rzucać *czary*. Symbole w górnym prawym roku karty pokazują "
+"koszt rzucenia czaru. Jeśli koszt many wynosi |mana_4| |mana_r| |mana_r|, to "
+"żeby rzucić czar, musisz zapłacisz cztery many dowolnego rodzaju plus dwie "
+"czerwone many (z dwóch Gór)."
 
 # 81282469d64549b68e2ea7a805b2b620
 # 6e46a8fac0dd4561ae1b2980367a34d5
@@ -334,6 +339,10 @@ msgstr "Linia typu"
 #: ../../M14_Rulebook.rst:94
 msgid "This tells you the card's :term:`card type<card type gl>`: artifact, creature, enchantment, instant, land, planeswalker, or sorcery. If the card has a *subtype* or *supertype*, that's also listed here. For example, Shivan Dragon is a creature, and its subtype is the creature type Dragon."
 msgstr ""
+"Tutaj znajduje się informacja o :term:`typie karty<card type gl>`: artefakt, "
+"stwór, urok, sztuczka, ląd, wędrowiec lub obrzęd. Jeśli karta ma *podtyp* "
+"lub *nadtyp*, ta informacja też się tutaj znajduje. Przykładowo Smok z Shiv "
+"jest stworem, ja jego podtypem jest Smok."
 
 # 0b33465e3a0447f389d18a5a7c21ec5b
 # 61ba455538d64f9aa54bb764dd751b9e
@@ -1195,6 +1204,12 @@ msgstr "Rozdział 2: Elementy układanki"
 #: ../../M14_Rulebook.rst:320
 msgid "This section describes the actions that you'll take during a game. You'll learn how to make mana, which is the resource you need to cast spells. You'll learn how to cast a spell, as well as how to use abilities. You'll also learn how to attack and block with your creatures. The section finisheswith a brief description of how to build your first deck and an explanation of the game's :ref:`Golden Rule<sec-golden-rule>`."
 msgstr ""
+"Ten rozdział opisuje akcje, które możesz podjąć w czasie gry. Nauczysz się "
+"pobierać manę, która jest zasobem potrzebnym do rzucania czarów. Dowiesz "
+"się, jak rzucać czary oraz aktywować zdolności. Nauczysz się także jak "
+"atakować i blokować swoimi stworami. No końcu rozdziału znajduje się garść "
+"porad na temat budowy talii oraz wyjaśnienie, czym jest :ref:`Złota Zasada"
+"<sec-golden-rule>`."
 
 # 07f941f70a3a4430a7dc4a029a53606d
 # e59984cefbde4455829402cd6751bf88
@@ -1210,11 +1225,26 @@ msgstr "Wytwarzanie many"
 #: ../../M14_Rulebook.rst:329
 msgid "To do just about anything else in the game, you first need to be able to make mana. Think of mana as Magic money—it's what you use to pay most costs. Each mana is either one of the five **Magic** *colors* or is :term:`colorless<colorless gl>`. When a cost requires colored mana, you'll see colored mana symbols (|mana_w| for white, |mana_u| for blue, |mana_b| for black, |mana_r| for red, |mana_g| for green). When any kind of mana can be used to pay the cost, you'll see a symbol with a number in it (like |mana_2|)."
 msgstr ""
+"Aby zrobić cokolwiek w grze, najpierw potrzebujesz uzyskać manę. Pomyśl o "
+"niej jak o pieniądzach - używasz jej do opłacania większości kosztów. Każda "
+"mana jest albo w jednym z pięciu *kolorów*, albo jest "
+":term:`bezkolorowa<colorless gl>`. Kiedy koszt trzeba opłacić kolorową maną, "
+"zobaczysz symbole many (|mana_w| dla białej, |mana_u| - niebieskiej, "
+"|mana_b| - czarnej, |mana_r| - czerwonej, |mana_g| - zielonej). Kiedy "
+"dowolny rodzaj many może być użyty do opłacenia kosztu, zobaczysz symbol z "
+"liczbą w środku (np. |mana_2|)."
 
 # 85351ad122c84852be3c487e97cb766d
 #: ../../M14_Rulebook.rst:338
 msgid "Where does mana come from? Nearly every land in the game has an ability that produces mana. Basic lands just have a large mana symbol in their text boxes to show this—you can tap one of them to add one mana of that color to your :term:`mana pool<mana pool gl>`. (Your mana pool is where mana is stored until you spend it.) Other lands, as well as some creatures, artifacts, and spells, may also make mana. They'll say something like \"Add |mana_g| to your mana pool.\""
 msgstr ""
+"Skąd pochodzi mana? Niemal każdy ląd w grze posiada zdolność, która "
+"produkuje manę. Na lądach podstawowych przedstawione jest to za pomocą "
+"dużego symbolu many w polu tekstowym - możesz zużyć jeden z nich, by dodać "
+"jedną manę tego koloru do swojej :term:`puli many<mana pool gl>`. (Pula many "
+"jest miejscem, gdzie mana jest przechowywana, zanim ją zużyjesz.) Inne lądy "
+"oraz niektóre stwory, artefakty oraz czary także mogą produkować manę. Będą "
+"mieć napisane coś w rodzaju \"Dodaj |mana_g| do swojego zasobnika many\"."
 
 # 074530c498e34d558cb5791a517b5d7a
 # c7cc47e092b344f4a54de01e99a33195
@@ -1566,6 +1596,15 @@ msgstr "Rozpatrywanie czaru"
 #: ../../M14_Rulebook.rst:436
 msgid "When a spell resolves, one of two things happens. If the spell is an instant or sorcery, it has its effect (in other words, you follow the instructions on the card), then you put the card into your graveyard. If the spell is a creature, artifact, enchantment, or planeswalker, you put the card on the table in front of you, near your lands. The card is now on the battlefield. Any of your cards on the battlefield is called a :term:`permanent<permanent gl>` because it sticks around permanently (well, until something happens to it). Many permanents have abilities, which is text on them that affects the game."
 msgstr ""
+"Kiedy czar jest rozpatrywany, dzieje się jedna z dwóch rzeczy. Jeśli czar "
+"jest sztuczką lub obrzędem, to ma swój efekt (innymi słowy podążasz za "
+"instrukcjami na karcie), a następnie umieszczasz tę kartę w cmentarzu. Jeśli "
+"czar jest stworem, artefaktem, urokiem lub wędrowcem, umieszczasz tę kartę "
+"na stole przed sobą, w pobliżu lądów. Karta jest teraz na polu walki. Każda "
+"z kart znajdujących się na polu walki nazywana jest :term:`stałką<permanent "
+"gl>`, ponieważ będzie się tam stale znajdować (cóż, przynajmniej do czasu, "
+"gdy coś jej się przytrafi). Wiele stałek ma zdolności, które są na nich "
+"napisane i wpływają na grę."
 
 # 443d022fd65f4fb194fc5fef1e884569
 # e15fa7890c67430cac6d1a6cb5c77dff
@@ -1844,6 +1883,20 @@ msgstr "Słowa kluczowe"
 #: ../../M14_Rulebook.rst:534
 msgid "Some permanents have abilities that are shortened to a single word or phrase. Many of these have :term:`reminder text<reminder text gl>` that gives you a brief description of the ability's effect. Keyword abilities in the core set include :term:`deathtouch<deathtouch gl>`, :term:`defender<defender gl>`, :term:`enchant<enchant gl>`, :term:`equip<equip gl>`, :term:`first strike<first strike gl>`, :term:`flash<flash gl>`, :term:`flying<flying gl>`, :term:`haste<haste gl>`, :term:`hexproof<hexproof gl>`, :term:`indestructible<indestructible gl>`, :term:`landwalk<landwalk gl>` (such as swampwalk or forestwalk), :term:`lifelink<lifelink gl>`, :term:`protection<protection gl>`, :term:`reach<reach gl>`, :term:`trample<trample gl>`, and :term:`vigilance<vigilance gl>`. Most of these are static abilities, but keyword abilities can also be triggered abilities or activated abilities. Detailed explanations of each of these abilities can be found in the glossary at the end of this rulebook."
 msgstr ""
+"Niektóre stałki mają zdolności, które są skrócone do pojedynczego hasła lub "
+"frazy. Wiele z nich posiada *tekst przypominający* dający krótki opis efektu "
+"zdolności. Hasła zdolności w zestawie podstawowym zawierają: :term:`dotyk "
+"śmierci<deathtouch gl>`, :term:`obronność<defender gl>`, "
+":term:`zaurocz<enchant gl>`, :term:`ekwipuj<equip gl>`, :term:`pierwszy "
+"cios<first strike gl>`, :term:`błysk<flash gl>`, :term:`latanie<flying gl>`, "
+":term:`pośpiech<haste gl>`, :term:`antyklątwa<hexproof gl>`, "
+":term:`niezniszczalność<indestructible gl>`, :term:`zdobywca lądów<landwalk "
+"gl>` (np. zdobywca bagien czy zdobywca lasów), :term:`więź życia<lifelink "
+"gl>`, :term:`ochrona<protection gl>`, :term:`zasięg<reach gl>`, "
+":term:`tratowanie<trample gl>` i :term:`czujność<vigilance gl>`. Większość z "
+"nich to zdolności statyczne, ale hasła mogą określać też zdolności "
+"wyzwalane lub aktywowane. Szczegółowe wyjaśnienia każdej z tych zdolności "
+"znajdują się w glosariuszu na końcu tego podręcznika."
 
 # 76f94ae797a74a0e974c890dda74929d
 # 7888e579c8f745babd508f41aacecf9d
@@ -1873,6 +1926,14 @@ msgstr ""
 #: ../../M14_Rulebook.rst:554
 msgid "The middle of each turn is the :term:`combat phase<combat phase gl>`. (You'll learn about the :ref:`parts of the turn<sec-parts-of-the-turn>` in a bit.) In your combat phase, you choose which of your creatures will attack, and you choose who or what they will attack. Each one can attack your opponent or one of your opponent's planeswalkers, but not any of his or her creatures. You tap the attacking creatures. They all attack at the same time, even if they're attacking different things. You can attack with a creature only if it's untapped, and only if it was on the battlefield under your control when the turn began."
 msgstr ""
+"Pośrodku każdej tury jest :term:`faza walki<combat phase gl>`. (Wkrótce "
+"dowiesz się więcej na temat :ref:`części tury<sec-parts-of-the-turn>`.) W "
+"swojej fazie walki wybierasz, którymi stworami chcesz zaatakować oraz kogo "
+"lub co będą one atakować. Każda może atakować jednego z przeciwników lub "
+"wędrowców, ale nie mogą atakować stworów. Zużywasz stwory, którymi "
+"atakujesz. Wszystkie atakują w tym samym momencie - nawet jeśli atakują "
+"różne cele. Możesz atakować wyłącznie stworem, który nie jest zużyty i tylko "
+"jeśli jest on na polu walki pod twoim władaniem od samego początku tury."
 
 # ed7402a5a66548f4832abe0735e7dd94
 # 9df319db95c14d92a73dde5aad0a09f4
@@ -2483,6 +2544,9 @@ msgstr "Krok początku walki"
 #: ../../M14_Rulebook.rst:742
 msgid "Players can cast instants and activate abilities. This is your opponent's last chance to cast spells or activate abilities that stop your creatures from attacking."
 msgstr ""
+"Gracze mogą rzucać sztuczki i aktywować zdolności. Przeciwnik ma ostatnią "
+"szansę na rzucenie czaru lub aktywację zdolności, która uniemożliwi twoim "
+"stworom atak."
 
 # 62ea9778a3d945fb85f166de3ced1609
 # 1e9ce93b45a9468dafb5ed7ceb557322
@@ -2995,7 +3059,7 @@ msgstr ""
 # 86e402221e504b9d8e384e96dcbd53c6
 #: ../../M14_Rulebook.rst:965
 msgid "Ability gl"
-msgstr ""
+msgstr "Ability / Zdolność"
 
 # 59239606531d4d59a89f5563a2e10f93
 #: ../../M14_Rulebook.rst:967
