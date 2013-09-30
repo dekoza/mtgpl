@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-28 14:19+0200\n"
+"PO-Revision-Date: 2013-09-30 05:14+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380374357.379610\n"
+"X-POOTLE-MTIME: 1380514469.433212\n"
 
 # 13a5a223cf9d45d19a919b30f1fc001d
 #: ../../M14.rst:5
@@ -56,8 +56,8 @@ msgstr ""
 #: ../../M14.rst:14
 msgid "Equipped creature gets +0/+3 and has vigilance. (Attacking doesn't cause it to tap.)"
 msgstr ""
-"Wyposażony stwór dostaje +0/+3 i ma Czujność. (Atak nie powoduje jego "
-"zużycia.)"
+"Wyposażony stwór dostaje +0/+3 i ma czujność. (Atak nie powoduje jego "
+"zaznaczenia.)"
 
 # 17c705b68a2f49ecbe47cbdc5f906141
 #: ../../M14.rst:16
@@ -80,7 +80,7 @@ msgstr "Act of Treason (Akt Zdrady)"
 #: ../../M14.rst:24
 msgid "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Przejmij władanie nad wskazanym stworem do końca tury. Odśwież tego stwora. "
+"Przejmij władanie nad wskazanym stworem do końca tury. Odznacz tego stwora. "
 "Zyskuje on Pośpiech do końca tury. (Może atakować i |tap| w tej turze.)"
 
 # f6322a71f52e4b8bbe8960e9e28d4a41
@@ -156,7 +156,7 @@ msgstr "Latanie"
 # 0ba7862ef5e042fa986a96e16d509220
 #: ../../M14.rst:34
 msgid "|mana_2| |mana_u|: Tap target creature with flying."
-msgstr "|mana_2| |mana_u|: Zużyj wskazanego stwora z Lataniem."
+msgstr "|mana_2| |mana_u|: Zaznacz wskazanego stwora z Lataniem."
 
 # a232f3c677b442819113303a629f488a
 #: ../../M14.rst:43
@@ -434,7 +434,7 @@ msgstr "Blur Sliver (Drzazgul Rozmycia)"
 #: ../../M14.rst:124
 msgid "Sliver creatures you control have haste. (They can attack and |tap| as soon as they come under your control.)"
 msgstr ""
-"Slivery, którymi władasz mają Pośpiech. (Mogą atakować i |tap| od razu po "
+"Drzazgule, którymi władasz mają Pośpiech. (Mogą atakować i |tap| od razu po "
 "wejściu pod twoje władanie.)"
 
 # bddd755e2e254016887c0065444eae3b
@@ -447,7 +447,7 @@ msgstr "Bogbrew Witch (Wiedźma Bagnowarka)"
 msgid "|mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_2|, |tap|: Wyszukaj w swojej bibliotece kartę Festering Newt lub "
-"Bubbling Cauldron, połóż ją na polu walki jako zużytą, następnie przetasuj "
+"Bubbling Cauldron, połóż ją na polu walki zaznaczoną, następnie przetasuj "
 "bibliotekę."
 
 # f0030207c22e493b95ed1f1738627c5b
@@ -542,7 +542,7 @@ msgstr "Burning Earth (Płonąca Ziemia)"
 #: ../../M14.rst:160
 msgid "Whenever a player taps a nonbasic land for mana, Burning Earth deals 1 damage to that player."
 msgstr ""
-"Ilekroć jakiś gracz używa niepodstawowy ląd pobierając manę, Burning Earth "
+"Ilekroć jakiś gracz zaznacza niezwykły ląd pobierając manę, Burning Earth "
 "zadaje 1 obrażenie temu graczowi."
 
 # 6a6defb2b15f4e9ba0f5efe4197a5942
@@ -674,13 +674,13 @@ msgstr "Claustrophobia (Klaustrofobia)"
 # 4c043c21c85a4907890715999f032333
 #: ../../M14.rst:214
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr "Gdy Claustrophobia wchodzi na pole walki, zużyj zauroczonego stwora."
+msgstr "Gdy Claustrophobia wchodzi na pole walki, zaznacz zauroczonego stwora."
 
 # af7de5d6a54c405885b7e8d436477120
 #: ../../M14.rst:216
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
-"Zauroczony stwór nie odświeża się podczas kroku odświeżania swojego władcy."
+"Zauroczony stwór nie odznacza się podczas kroku odznaczania swojego władcy."
 
 # f29db3587d33496c8584fec199ebfb3f
 #: ../../M14.rst:221
@@ -819,7 +819,7 @@ msgstr ""
 # 012b8bba9ae446a49e3f26d4ef913e3d
 #: ../../M14.rst:270
 msgid "|tap|: Add one mana of any color to your mana pool."
-msgstr "|tap|: Dodaj jedną manę w dowolnym kolorze do swojego zasobnika many."
+msgstr "|tap|: Dodaj jedną manę w dowolnym kolorze do twojej puli many."
 
 # 55a2fa7c951b49449f77f3976cf50ce0
 #: ../../M14.rst:277
@@ -833,7 +833,7 @@ msgstr ""
 #: ../../M14.rst:482
 #: ../../M14.rst:876
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atak nie powoduje zużycia tego stwora.)"
+msgstr "Czujność (Atak nie powoduje zaznaczenia tego stwora.)"
 
 # 117e97f41b2b4adbade0044f48000c2b
 #: ../../M14.rst:283
@@ -882,9 +882,9 @@ msgstr ""
 #: ../../M14.rst:296
 msgid "Tap any number of untapped creatures you control. Put a 4/4 white Angel creature token with flying onto the battlefield for each creature tapped this way."
 msgstr ""
-"Zużyj dowolną liczbę niezużytych stworów, którymi władasz. Połóż na polu "
-"walki tyle żetonów białego stwora Angel 4/4 z lataniem, ile stworów zużyto w "
-"ten sposób."
+"Zaznacz dowolną liczbę odznaczonych stworów, którymi władasz. Połóż na polu "
+"walki tyle żetonów białego stwora Angel 4/4 z lataniem, ile stworów "
+"zaznaczono w ten sposób."
 
 # 364285a2df034014b587b71afe0f8982
 #: ../../M14.rst:301
@@ -1065,7 +1065,7 @@ msgstr "Elvish Mystic (Elfi Mistyk)"
 # c8ce2b4830074f77b316482ba879dfa3
 #: ../../M14.rst:370
 msgid "|tap|: Add |mana_g| to your mana pool."
-msgstr "|tap|: Dodaj |mana_g| to swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_g| to twojej puli many."
 
 # 46430a90a6ad435d9a41e5916850e070
 #: ../../M14.rst:377
@@ -1079,7 +1079,7 @@ msgstr ""
 #: ../../M14.rst:670
 #: ../../M14.rst:894
 msgid "|tap|: Add |mana_1| to your mana pool."
-msgstr "|tap|: Dodaj |mana_1| do swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_1| do twojej puli many."
 
 msgid "|mana_4|, |tap|, Sacrifice Encroaching Wastes: Destroy target nonbasic land."
 msgstr ""
@@ -1225,8 +1225,8 @@ msgstr "Frost Breath (Oddech Mrozu)"
 #: ../../M14.rst:428
 msgid "Tap up to two target creatures. Those creatures don't untap during their controller's next untap step."
 msgstr ""
-"Zużyj najwyżej dwa wskazane stwory. Te stwory nie odświeżą się w najbliższym "
-"kroku odświeżania swojego władcy."
+"Zaznacz najwyżej dwa wskazane stwory. Te stwory nie odznaczą się w "
+"najbliższym kroku odznaczania swojego władcy."
 
 # 4eb0bc8ef41b4136ab7d65bae82b1723
 #: ../../M14.rst:433
@@ -1492,7 +1492,8 @@ msgstr ""
 # 3b38bdf795034584a6824b32c48a3052
 #: ../../M14.rst:528
 msgid "Creatures your opponents control enter the battlefield tapped."
-msgstr "Stwory władane przez twoich przeciwników wchodzą na pole walki zużyte."
+msgstr ""
+"Stwory władane przez twoich przeciwników wchodzą na pole walki zaznaczone."
 
 # 3ae960dec578492aa913fda276cf538f
 #: ../../M14.rst:535
@@ -1663,7 +1664,7 @@ msgstr ""
 msgid "-6: You get an emblem with \\\"Swamps you control have ‘|tap|: Add |mana_b| |mana_b| |mana_b| |mana_b| to your mana pool.'\\\""
 msgstr ""
 "-6: Dostajesz emblemat o treści \\\"Bagna, którymi władasz, mają '|tap|: Dodaj "
-"|mana_b| |mana_b| |mana_b| |mana_b| do swojego zasobnika many.'\\\""
+"|mana_b| |mana_b| |mana_b| |mana_b| do twojej puli many.'\\\""
 
 # beeba386ae1141a49b071a9be3821304
 #: ../../M14.rst:603
@@ -1675,7 +1676,8 @@ msgstr ""
 msgid "Whenever Liliana's Reaver deals combat damage to a player, that player discards a card and you put a 2/2 black Zombie creature token onto the battlefield tapped."
 msgstr ""
 "Ilekroć Liliana's Reaver zada graczowi obrażenia bojowe, ów gracz odrzuca "
-"kartę, a ty kładziesz na polu walki zużyty żeton czarnego stwora Zombie 2/2."
+"kartę, a ty kładziesz na polu walki zaznaczony żeton czarnego stwora Zombie "
+"2/2."
 
 # 3cd1c89bbaf243a2a4173563aa441d74
 #: ../../M14.rst:607
@@ -1686,8 +1688,8 @@ msgstr ""
 #: ../../M14.rst:606
 msgid "Destroy target creature. Add |mana_b| |mana_b| |mana_b| to your mana pool."
 msgstr ""
-"Zniszcz wskazanego stwora. Dodaj |mana_b| |mana_b| |mana_b| do swojego "
-"zasobnika many."
+"Zniszcz wskazanego stwora. Dodaj |mana_b| |mana_b| |mana_b| do twojej puli "
+"many."
 
 # cf04df4de8c047e090dedc6523fc5b07
 #: ../../M14.rst:611
@@ -1699,7 +1701,7 @@ msgstr "Manaweft Sliver (Drzazgul Manoplot)"
 msgid "Sliver creatures you control have \\\"|tap|: Add one mana of any color to your mana pool.\\\""
 msgstr ""
 "Drzazgule, którymi władasz, mają \\\"|tap|: Dodaj jedną manę dowolnego koloru "
-"do swojego zasobnika many.\\\""
+"do twojej puli many.\\\""
 
 # 697fda7a92c646d7b32b8c8ff51eab99
 #: ../../M14.rst:615
@@ -1734,8 +1736,8 @@ msgstr ""
 #: ../../M14.rst:624
 msgid "Whenever Master of Diversion attacks, tap target creature defending player controls."
 msgstr ""
-"Ilekroć Master of Diversion atakuje, zużyj wskazanego stwora władanego przez "
-"broniącego się gracza."
+"Ilekroć Master of Diversion atakuje, zaznacz wskazanego stwora władanego "
+"przez broniącego się gracza."
 
 # bde423976f534bc2b9fa070edc289f84
 #: ../../M14.rst:629
@@ -2309,7 +2311,7 @@ msgstr "Sentinel Sliver (Drzazgul Wartownik)"
 msgid "Sliver creatures you control have vigilance. (Attacking doesn't cause them to tap.)"
 msgstr ""
 "Drzazgule, którymi władasz, mają czujność. (Atakowanie nie powoduje ich "
-"zużycia.)"
+"zaznaczenia.)"
 
 # 3fca71c9b36c4d9c8c77f34cf9207f21
 #: ../../M14.rst:871
@@ -2373,9 +2375,7 @@ msgstr ""
 # 27b960e90e3d490ca54e28d09106e199
 #: ../../M14.rst:896
 msgid "|mana_1|, |tap|: Add one mana of any color to your mana pool."
-msgstr ""
-"|mana_1|, |tap|: Dodaj jedną manę dowolnego koloru do swojego zasobnika "
-"many."
+msgstr "|mana_1|, |tap|: Dodaj jedną manę dowolnego koloru do twojej puli many."
 
 # 6b163b2423ac4cc182e2e09ae7acc992
 #: ../../M14.rst:903
@@ -2483,7 +2483,7 @@ msgstr ""
 # 04b19f2b2481461fb0870d619e4f9a40
 #: ../../M14.rst:946
 msgid "|tap|: You gain 1 life."
-msgstr "|tap|: Dostajesz 1 życie."
+msgstr "|tap|: Zyskujesz 1 życie."
 
 # 4306c74e338740728db7c31a8b3f2270
 #: ../../M14.rst:951
@@ -2588,8 +2588,8 @@ msgstr ""
 #: ../../M14.rst:982
 msgid "|mana_5| |mana_w|: Stonehorn Chanter gains vigilance and lifelink until end of turn. (Attacking doesn't cause it to tap. Damage dealt by it also causes you to gain that much life.)"
 msgstr ""
-"|mana_5| |mana_w|: Stonehorn Chanter zyskuje Czujność oraz Więź Życia do "
-"końca tury. (Atakowanie nie powoduje jego zużycia. Obrażenia przez niego "
+"|mana_5| |mana_w|: Stonehorn Chanter zyskuje czujność oraz więź życia do "
+"końca tury. (Atakowanie nie powoduje jego zaznaczenia. Obrażenia przez niego "
 "zadane powodują, że dostajesz tyle samo życia.)"
 
 # 8dfff97a816b43f6a6cfe15c08779cb7
@@ -2656,7 +2656,8 @@ msgstr ""
 msgid "When Tenacious Dead dies, you may pay |mana_1| |mana_b|. If you do, return it to the battlefield tapped under its owner's control."
 msgstr ""
 "Kiedy Tenacious Dead umiera, możesz zapłacić |mana_1| |mana_b|. Gdy tak "
-"zrobisz, przywróć go zużytego na pole walki pod władaniem jego właściciela."
+"zrobisz, przywróć go zaznaczonego na pole walki pod władaniem jego "
+"właściciela."
 
 # d4e8d07c18d0454f909a570f998f7136
 #: ../../M14.rst:1011
@@ -2691,9 +2692,9 @@ msgstr ""
 #: ../../M14.rst:1018
 msgid "When Tidebinder Mage enters the battlefield, tap target red or green creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Tidebinder Mage."
 msgstr ""
-"Kiedy Tidebinder Mage wchodzi na pole walki, zużyj wskazanego czerwonego lub "
-"zielonego stwora władanego przez przeciwnika. Ów stwór nie odświeża się "
-"podczas kroku odświeżania władającego nim gracza tak długo, jak władasz "
+"Kiedy Tidebinder Mage wchodzi na pole walki, zaznacz wskazanego czerwonego "
+"lub zielonego stwora władanego przez przeciwnika. Ów stwór nie odznacza się "
+"podczas kroku odznaczania władającego nim gracza tak długo, jak władasz "
 "Tidebinder Mage."
 
 # 06947873cf3b479eb7af1c46d2ac0cf6
@@ -2782,7 +2783,7 @@ msgid "Enchanted creature gets +2/+2 and has \\\"|mana_1| |mana_g|: Regenerate t
 msgstr ""
 "Zauroczony stwór dostaje +2/+2 oraz ma \\\"|mana_1| |mana_g|: Regeneruj tego "
 "stwora.\\\" (Następnym razem w tej turze, kiedy ten stwór miałby zostać "
-"zniszczony, nie jest. Zamiast tego zużyj go, usuń z niego wszystkie "
+"zniszczony, nie jest. Zamiast tego zaznacz go, usuń z niego wszystkie "
 "obrażenia i usuń go z walki.)"
 
 # 8585131a12bd45cb88452937b49ad6e7
@@ -2801,7 +2802,7 @@ msgid "Sacrifice another creature: Regenerate Vampire Warlord. (The next time th
 msgstr ""
 "Poświęć innego stwora: Regeneruj Vampire Warlord. (Następnym razem w tej "
 "turze, kiedy ten stwór miałby zostać zniszczony, nie jest. Zamiast tego "
-"zużyj go, usuń z niego wszystkie obrażenia i usuń go z walki.)"
+"zaznacz go, usuń z niego wszystkie obrażenia i usuń go z walki.)"
 
 # d33a8b4773914c8091c065953e554e30
 #: ../../M14.rst:1067
@@ -2839,9 +2840,9 @@ msgstr "Kiedy Verdant Haven wchodzi na pole walki, dostajesz 2 życia."
 #: ../../M14.rst:1074
 msgid "Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces)."
 msgstr ""
-"Ilekroć zauroczony ląd jest zużywany dla many, władający nim gracz dodaje "
-"jedną manę dowolnego koloru do swojego zasobnika many (oprócz many, którą "
-"ten ląd produkuje)."
+"Ilekroć zauroczony ląd jest zaznaczany przy pobieraniu many, władający nim "
+"gracz dodaje jedną manę dowolnego koloru do swojej puli many (oprócz many, "
+"którą ten ląd produkuje)."
 
 # 476bd21874bc472abbb877fddcfe533e
 #: ../../M14.rst:1079
@@ -2899,8 +2900,8 @@ msgstr ""
 #: ../../M14.rst:1096
 msgid "Whenever Wall of Frost blocks a creature, that creature doesn't untap during its controller's next untap step."
 msgstr ""
-"Ilekroć Wall of Frost blokuje stwora, ów stwór nie odświeża się w następnym "
-"kroku odświeżania władającego nim gracza."
+"Ilekroć Wall of Frost blokuje stwora, ów stwór nie odznacza się w następnym "
+"kroku odznaczania władającego nim gracza."
 
 # 6a994cf65afd4ebab5e699baad37d6a8
 #: ../../M14.rst:1103
@@ -3014,7 +3015,7 @@ msgstr ""
 msgid "Whenever Xathrid Necromancer or another Human creature you control dies, put a 2/2 black Zombie creature token onto the battlefield tapped."
 msgstr ""
 "Ilekroć Xathrid Necromancer lub inny Human, którym władasz, umiera, połóż na "
-"polu walki zużyty żeton czarnego stwora Zombie 2/2."
+"polu walki zaznaczont żeton czarnego stwora Zombie 2/2."
 
 # ec6020cd584e4fdabbe95eafa8fd1d13
 #: ../../M14.rst:1157

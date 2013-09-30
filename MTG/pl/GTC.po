@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-28 14:18+0200\n"
+"PO-Revision-Date: 2013-09-30 05:08+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380374336.900117\n"
+"X-POOTLE-MTIME: 1380514124.398948\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -25,6 +25,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
+"Do końca tury przejmij władanie nad wskazanym stworem. Odznacz go. Do końca "
+"tury zyskuje on pośpiech. (W tej turze może atakować i |tap|.)"
 
 #: Adaptive Snapjaw Experiment One Fathom Mage Gyre Sage Simic Fluxmage
 #: Manipulator
@@ -121,6 +123,9 @@ msgid ""
 "all creatures you control. After this phase, there is an additional combat "
 "phase."
 msgstr ""
+"Ilekroć Aurelia, the Warleader atakuje po raz pierwszy w danej turze, "
+"odznacz wszystkie stwory, którymi władasz. Po tej fazie następuje dodatkowa "
+"faza walki."
 
 #: Aurelia's Fury
 msgid ""
@@ -128,6 +133,10 @@ msgid ""
 "target creatures and/or players. Tap each creature dealt damage this way. "
 "Players dealt damage this way can't cast noncreature spells this turn."
 msgstr ""
+"Aurelia's Fury zadaje X obrażeń rozdzielonych według twojego wyboru pomiędzy "
+"dowolną liczbę wskazanych stworów i/lub graczy. Zaznacz wszystkie stwory, "
+"którym zadano w ten sposób obrażenia. Gracze, którym zadano w ten sposób "
+"obrażenia nie mogą w tej turze rzucać czarów nie będących stworami."
 
 msgid ""
 "When Balustrade Spy enters the battlefield, target player reveals cards from "
@@ -191,7 +200,7 @@ msgid ""
 "Artifacts and creatures your opponents control enter the battlefield tapped."
 msgstr ""
 "Artefakty i stwory, którymi władają twoi przeciwnicy wchodzą na pole walki "
-"jako zużyte."
+"zaznaczone."
 
 #: Bomber Corps
 msgid ""
@@ -235,11 +244,11 @@ msgstr ""
 
 #: Boros Guildgate
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Boros Guildgate wchodzi na pole walki zaznaczony."
 
 #: Boros Keyrune
 msgid "|tap|: Add |mana_r| or |mana_w| to your mana pool."
-msgstr "|tap|: Dodaj |mana_r| lub |mana_w| do swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_r| lub |mana_w| do twojej puli many."
 
 #, fuzzy
 msgid ""
@@ -262,12 +271,14 @@ msgstr ""
 
 #: Breeding Pool
 msgid "(|tap|: Add |mana_g| or |mana_u| to your mana pool.)"
-msgstr "(|tap|: Dodaj |mana_g| lub |mana_u| do swojego zasobnika many.)"
+msgstr "(|tap|: Dodaj |mana_g| lub |mana_u| do twojej puli many.)"
 
 msgid ""
 "As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, "
 "Breeding Pool enters the battlefield tapped."
 msgstr ""
+"Kiedy Breeding Pool wchodzi na pole walki, możesz zapłacić 2 życia. Jeśli "
+"tego nie zrobisz, Breeding Pool wchodzi na pole walki zaznaczony."
 
 #: Burning-Tree Emissary
 msgid ""
@@ -277,7 +288,7 @@ msgstr ""
 
 #: Burst of Strength
 msgid "Put a +1/+1 counter on target creature and untap it."
-msgstr ""
+msgstr "Połóż znacznik +1/+1 na wskazanym stworze i odznacz go."
 
 #: Call of the Nightwing
 msgid ""
@@ -305,6 +316,8 @@ msgid ""
 "|mana_x| |mana_r|, |tap|, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to "
 "target creature or player."
 msgstr ""
+"|mana_x| |mana_r|, |tap|, Poświęć Cinder Elemental: Cinder Elemental zadaje "
+"X obrażeń wskazanemu stworowi lub graczowi."
 
 #: Clan Defiance
 msgid ""
@@ -346,7 +359,7 @@ msgid "Enchanted land is a Swamp."
 msgstr ""
 
 msgid "Whenever enchanted land becomes tapped, its controller loses 2 life."
-msgstr ""
+msgstr "Ilekroć zauroczony ląd zostaje zaznaczony, jego władca traci 2 życia."
 
 msgid ""
 "Sacrifice another creature: Corpse Blockade gains deathtouch until end of "
@@ -359,12 +372,16 @@ msgid ""
 "Whenever another white creature enters the battlefield under your control, "
 "tap target creature an opponent controls."
 msgstr ""
+"Ilekroć inny biały stwór wchodzi na pole walki pod twoim władaniem, zaznacz "
+"wskazanego stwora władanego przez przeciwnika."
 
 #: Crackling Perimeter
 msgid ""
 "Tap an untapped Gate you control: Crackling Perimeter deals 1 damage to each "
 "opponent."
 msgstr ""
+"Zaznacz odznaczoną Bramę, którą władasz: Crackling Perimeter zadaje 1 "
+"obrażenie każdemu przeciwnikowi."
 
 #: Crocanura
 msgid "Reach (This creature can block creatures with flying.)"
@@ -377,6 +394,8 @@ msgid ""
 "Whenever you tap a Swamp for mana, add |mana_b| to your mana pool (in addition to "
 "the mana the land produces)."
 msgstr ""
+"Ilekroć zaznaczasz Bagno pobierając manę, dodaj |mana_b| do twojej puli many "
+"(jako dodatkową do tej, którą produkuje ląd)."
 
 #: Daring Skyjek
 msgid ""
@@ -393,6 +412,10 @@ msgid ""
 "onto the battlefield. It has \"|mana_3| |mana_w| |mana_b| |mana_b|, |tap|, Sacrifice this creature: "
 "Return a card named Deathpact Angel from your graveyard to the battlefield.\""
 msgstr ""
+"Kiedy Deathpact Angel umiera, połóż na polu walki żeton biało-czarnego "
+"stwora Cleric 1/1 ze zdolnością \"|mana_3| |mana_w| |mana_b| |mana_b|, |tap|, "
+"poświęć tego stwora: Zwróć kartę o nazwie Deathpact Angel z twojego "
+"cmentarza na pole walki.\""
 
 msgid ""
 "Enchanted creature gets -X/-X, where X is the number of creature cards in "
@@ -400,7 +423,7 @@ msgid ""
 msgstr ""
 
 msgid "Enchanted land has \"|tap|: Tap target creature.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|: Zaznacz wskazanego stwora.\""
 
 #: Devour Flesh
 msgid ""
@@ -433,11 +456,11 @@ msgstr ""
 
 #: Dimir Guildgate
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Dimir Guildgate wchodzi na pole walki zaznaczony."
 
 #: Dimir Keyrune
 msgid "|tap|: Add |mana_u| or |mana_b| to your mana pool."
-msgstr "|tap|: Dodaj |mana_u| lub |mana_b| do swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_u| lub |mana_b| do twojej puli many."
 
 msgid ""
 "|mana_u| |mana_b|: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature "
@@ -665,7 +688,7 @@ msgstr ""
 
 #: Godless Shrine
 msgid "(|tap|: Add |mana_w| or |mana_b| to your mana pool.)"
-msgstr "(|tap|: Dodaj |mana_w| lub |mana_b| do swojego zasobnika many.)"
+msgstr "(|tap|: Dodaj |mana_w| lub |mana_b| do twojej puli many.)"
 
 msgid ""
 "As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, "
@@ -678,7 +701,7 @@ msgstr ""
 
 #: Gridlock
 msgid "Tap X target nonland permanents."
-msgstr "Zużyj X wskazanych stałek nie będących lądami."
+msgstr "Zaznacz X wskazanych stałek nie będących lądami."
 
 #: Grisly Spectacle
 msgid ""
@@ -709,7 +732,7 @@ msgstr ""
 
 #: Gruul Keyrune
 msgid "|tap|: Add |mana_r| or |mana_g| to your mana pool."
-msgstr "|tap|: Dodaj |mana_r| lub |mana_g| do swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_r| lub |mana_g| do twojej puli many."
 
 msgid ""
 "|mana_r| |mana_g|: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature "
@@ -1099,7 +1122,7 @@ msgstr ""
 
 #: Orzhov Keyrune
 msgid "|tap|: Add |mana_w| or |mana_b| to your mana pool."
-msgstr "|tap|: Dodaj |mana_w| lub |mana_b| do swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_w| lub |mana_b| do twojej puli many."
 
 msgid ""
 "|mana_w| |mana_b|: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact "
@@ -1218,7 +1241,7 @@ msgstr ""
 
 #: Sacred Foundry
 msgid "(|tap|: Add |mana_r| or |mana_w| to your mana pool.)"
-msgstr "(|tap|: Dodaj |mana_r| lub |mana_w| do swojego zasobnika many.)"
+msgstr "(|tap|: Dodaj |mana_r| lub |mana_w| do twojej puli many.)"
 
 msgid ""
 "As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, "
@@ -1313,7 +1336,7 @@ msgstr ""
 
 #: Simic Keyrune
 msgid "|tap|: Add |mana_g| or |mana_u| to your mana pool."
-msgstr "|tap|: Dodaj |mana_g| lub |mana_u| do swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_g| lub |mana_u| do twojej puli many."
 
 msgid ""
 "|mana_g| |mana_u|: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature "
@@ -1429,7 +1452,7 @@ msgstr ""
 
 #: Stomping Ground
 msgid "(|tap|: Add |mana_r| or |mana_g| to your mana pool.)"
-msgstr "(|tap|: Dodaj |mana_r| lub |mana_g| do swojego zasobnika many.)"
+msgstr "(|tap|: Dodaj |mana_r| lub |mana_g| do twojej puli many.)"
 
 msgid ""
 "As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, "
@@ -1464,12 +1487,12 @@ msgstr ""
 "Kiedy Sylvan Primordial wchodzi na pole walki, dla każdego ze swoich "
 "przeciwników, zniszcz wskazaną stałkę nie będącą stworem kontrolowaną przez "
 "owego gracza. Dla każdej stałki zniszczonej w ten sposób, poszukaj w swojej "
-"bibliotece karty Lasu i połóż ją zużytą na polu walki. Następnie przetasuj "
-"bibliotekę."
+"bibliotece karty Lasu i połóż ją zaznaczoną na polu walki. Następnie "
+"przetasuj bibliotekę."
 
 #: Thespian's Stage
 msgid "|tap|: Add |mana_1| to your mana pool."
-msgstr "|tap|: Dodaj |mana_1| do swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_1| do twojej puli many."
 
 msgid ""
 "|mana_2|, |tap|: Thespian's Stage becomes a copy of target land and gains this "
@@ -1478,7 +1501,7 @@ msgstr ""
 
 msgid "|tap|, Pay 2 life: Remove a counter from target nonland permanent."
 msgstr ""
-"|tap|, zapłać 2 życia: Zdejmij znacznik ze wskazanej stałki nie będącej lądem."
+"|tap|, zapłać 2 życia: Zdejmij znacznik ze wskazanej nie-lądowej stałki."
 
 msgid "Enchanted land has \"|tap|, Discard a card: Draw a card.\""
 msgstr ""
@@ -1598,7 +1621,7 @@ msgstr ""
 
 #: Watery Grave
 msgid "(|tap|: Add |mana_u| or |mana_b| to your mana pool.)"
-msgstr "(|tap|: Dodaj |mana_u| lub |mana_b| do swojego zasobnika many.)"
+msgstr "(|tap|: Dodaj |mana_u| lub |mana_b| do twojej puli many.)"
 
 msgid ""
 "As Watery Grave enters the battlefield, you may pay 2 life. If you don't, "

@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-22 19:35\n"
-"PO-Revision-Date: 2013-09-28 14:22+0200\n"
+"PO-Revision-Date: 2013-09-30 05:26+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380374553.829753\n"
+"X-POOTLE-MTIME: 1380515168.239487\n"
 
 # 887ff143b14348b2b7b52aec3a556c81
 #: ../../THS.rst:6
@@ -616,7 +616,7 @@ msgstr ""
 #: ../../THS.rst:177
 msgid "When Breaching Hippocamp enters the battlefield, untap another target creature you control."
 msgstr ""
-"Kiedy Breaching Hippocamp wchodzi na pole walki, odśwież innego wskazanego "
+"Kiedy Breaching Hippocamp wchodzi na pole walki, odznacz innego wskazanego "
 "stwora, którym władasz."
 
 # a3d39eb69fed47949b2059d7ac487a17
@@ -636,7 +636,7 @@ msgstr "Burnished Hart"
 msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_3|, poświęć Burnished Hart: Poszukaj w swojej bibliotece najwyżej dwie "
-"karty podstawowych lądów, połóż je na polu walki jako zużyte, a następnie "
+"karty podstawowych lądów, połóż je na polu walki zaznaczone, a następnie "
 "przetasuj swoją bibliotekę."
 
 # 8a9aff2f5e65401fb64404574c86f112
@@ -1079,7 +1079,7 @@ msgstr "Ephara's Warden"
 # 80d04988e9a74d698fba886d6de21586
 #: ../../THS.rst:339
 msgid "|tap|: Tap target creature with power 3 or less."
-msgstr "|tap|: Zużyj wskazanego stwora o sile 3 lub mniejszej."
+msgstr "|tap|: Zaznacz wskazanego stwora o sile 3 lub mniejszej."
 
 # 7ddbce4fd4a74fd787765410c976854b
 #: ../../THS.rst:350
@@ -1338,7 +1338,7 @@ msgstr "Fleshmad Steed"
 # 141d251d8c3746f78e66878b262e8be3
 #: ../../THS.rst:429
 msgid "Whenever another creature dies, tap Fleshmad Steed."
-msgstr "Ilekroć umiera inny stwór, zużyj Fleshmad Steed."
+msgstr "Ilekroć umiera inny stwór, zaznacz Fleshmad Steed."
 
 # f563b7c7ad2d4fcaa39c37cbe7b4ce61
 #: ../../THS.rst:434
@@ -1494,7 +1494,7 @@ msgstr ""
 #: ../../THS.rst:485
 msgid "Whenever Heliod's Emissary or enchanted creature attacks, tap target creature an opponent controls."
 msgstr ""
-"Ilekroć Heliod's Emissary lub zauroczony stwór atakuje, zużyj wskazanego "
+"Ilekroć Heliod's Emissary lub zauroczony stwór atakuje, zaznacz wskazanego "
 "stwora, którym włada przeciwnik."
 
 # 38fa4308e4b042ad9f402105c244b2f1
@@ -1682,7 +1682,7 @@ msgstr "Karametra's Acolyte"
 #: ../../THS.rst:551
 msgid "|tap|: Add an amount of |mana_g| to your mana pool equal to your devotion to green. (Each |mana_g| in the mana costs of permanents you control counts toward your devotion to green.)"
 msgstr ""
-"|tap|: Dodaj tyle |mana_g| do swojego zasobnika many, ile wynosi twój kult "
+"|tap|: Dodaj tyle |mana_g| do twojej puli many, ile wynosi twój kult "
 "zielonego. (Każda |mana_g| w kosztach many stałek, którymi władasz wlicza "
 "się do twojego kultu zielonego.)"
 
@@ -1800,7 +1800,7 @@ msgstr "Leonin Snarecaster"
 #: ../../THS.rst:593
 msgid "When Leonin Snarecaster enters the battlefield, you may tap target creature."
 msgstr ""
-"Kiedy Leonin Snarecaster wchodzi na pole walki, możesz zużyć wskazanego "
+"Kiedy Leonin Snarecaster wchodzi na pole walki, możesz zaznaczyć wskazanego "
 "stwora."
 
 # 15be80b5fb09401bafe944df424a423a
@@ -2104,13 +2104,13 @@ msgstr "Nykthos, Shrine to Nyx"
 #: ../../THS.rst:703
 #: ../../THS.rst:1229
 msgid "|tap|: Add |mana_1| to your mana pool."
-msgstr "|tap|: Dodaj |mana_1| do swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_1| do twojej puli many."
 
 # a280260d78a44baaa2bfdddeb763857c
 #: ../../THS.rst:705
 msgid "|mana_2|, |tap|: Choose a color. Add to your mana pool an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)"
 msgstr ""
-"|mana_2|, |tap|: Wybierz kolor. Dodaj do swojego zasobnika tyle many "
+"|mana_2|, |tap|: Wybierz kolor. Dodaj do twojej puli many tyle many "
 "wybranego koloru, ile wynosi twój kult tego koloru. (Twój kult koloru jest "
 "liczbą symboli many tego koloru w kosztach władanych przez ciebie stałek.)"
 
@@ -2234,7 +2234,7 @@ msgstr ""
 #: ../../THS.rst:751
 #: ../../THS.rst:1093
 msgid "|tap|: Add one mana of any color to your mana pool."
-msgstr "|tap|: Dodaj jedną manę dowolnego koloru do swojego zasobnika many."
+msgstr "|tap|: Dodaj jedną manę dowolnego koloru do twojej puli many."
 
 # 89415ed549ed4a81b10c763e0383f02e
 #: ../../THS.rst:760
@@ -2290,7 +2290,7 @@ msgstr ""
 msgid "When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Kiedy poświęcasz Ordeal of Nylea, poszukaj w swojej bibliotece najwyżej "
-"dwóch kart podstawowych lądów, połóż je na polu walki jako zużyte, a "
+"dwóch kart podstawowych lądów, połóż je na polu walki zaznaczone, a "
 "następnie przetasuj swoją bibliotekę."
 
 # 6cce77e36ba7408f9524240939490ab4
@@ -2454,7 +2454,7 @@ msgstr "Portent of Betrayal"
 #: ../../THS.rst:833
 msgid "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Przejmij kontrolę nad wskazanym stworem do końca tury. Odśwież tego stwora. "
+"Przejmij kontrolę nad wskazanym stworem do końca tury. Odznacz tego stwora. "
 "Dostaje on pośpiech do końca tury. Wróż 1. (Spójrz na wierzchnią kartę "
 "swojej biblioteki. Możesz położyć tę kartę na spodzie swojej biblioteki.)"
 
@@ -2493,7 +2493,8 @@ msgstr "Prognostic Sphinx"
 #: ../../THS.rst:849
 msgid "Discard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it."
 msgstr ""
-"Odrzuć kartę: Prognostic Sphinx dostaje antyklątwę do końca tury. Zużyj go."
+"Odrzuć kartę: Prognostic Sphinx dostaje antyklątwę do końca tury. Zaznacz "
+"go."
 
 # ef8bdd5ca071490587a2b3b81dc3e047
 #: ../../THS.rst:851
@@ -2513,7 +2514,7 @@ msgstr "Prophet of Kruphix"
 #: ../../THS.rst:855
 msgid "Untap all creatures and lands you control during each other player's untap step."
 msgstr ""
-"Odśwież wszystkie stwory i lądy, którymi władasz, podczas kroku odświeżania "
+"Odznacz wszystkie stwory i lądy, którymi władasz, podczas kroku odznaczania "
 "każdego innego gracza."
 
 # 1c137fd910e04d709b6d54ac2f6aa9a3
@@ -2770,7 +2771,7 @@ msgstr "Satyr Hedonist"
 msgid "|mana_r|, Sacrifice Satyr Hedonist: Add |mana_r| |mana_r| |mana_r| to your mana pool."
 msgstr ""
 "|mana_r|, poświęć Satyra Hedonistę: Dodaj |mana_r| |mana_r| |mana_r| do "
-"swojego zasobnika many."
+"twojej puli many."
 
 # b346c0e805de4d3ea32d45b5a5a1805d
 #: ../../THS.rst:946
@@ -2800,7 +2801,7 @@ msgstr "Savage Surge"
 # 3d3e0cf7004d47e2b2f32084fa51ce92
 #: ../../THS.rst:953
 msgid "Target creature gets +2/+2 until end of turn. Untap that creature."
-msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Odśwież owego stwora."
+msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Odznacz owego stwora."
 
 # bef89e6854dd4ff8ac50efd137c9f12f
 #: ../../THS.rst:958
@@ -2937,8 +2938,8 @@ msgstr ""
 #: ../../THS.rst:1003
 msgid "When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control Shipbreaker Kraken."
 msgstr ""
-"Kiedy Shipbreaker Kraken staje się monstrualny, zużyj najwyżej cztery "
-"wskazane stwory. Owe stwory nie odświeżają się podczas kroku odświeżania "
+"Kiedy Shipbreaker Kraken staje się monstrualny, zaznacz najwyżej cztery "
+"wskazane stwory. Owe stwory nie odznaczą się podczas kroku odznaczania "
 "swoich władców dopóki władasz Shipbreaker Krakenem."
 
 # 80025204a9e847d68d03bb66cd9aa628
@@ -3192,7 +3193,7 @@ msgstr "Temple of Abandon"
 # 6f48b988594d41b9b20462460a592392
 #: ../../THS.rst:1097
 msgid "Temple of Abandon enters the battlefield tapped."
-msgstr "Temple of Abandon wchodzi na pole walki jako zużyty."
+msgstr "Temple of Abandon wchodzi na pole walki zaznaczony."
 
 # cdec0b76fd924755add288da40eb9285
 #: ../../THS.rst:1099
@@ -3205,7 +3206,7 @@ msgstr ""
 # 74f28075af4642879170deb2ad5a7839
 #: ../../THS.rst:1101
 msgid "|tap|: Add |mana_r| or |mana_g| to your mana pool."
-msgstr "|tap|: Dodaj |mana_r| lub |mana_g| do swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_r| lub |mana_g| do twojej puli many."
 
 # 68566000259442d18fb5854058f7779a
 #: ../../THS.rst:1110
@@ -3216,7 +3217,7 @@ msgstr "Temple of Deceit"
 # f84592c740994963a388ff3f32d6b86d
 #: ../../THS.rst:1105
 msgid "Temple of Deceit enters the battlefield tapped."
-msgstr "Temple of Deceit  wchodzi na pole walki jako zużyty."
+msgstr "Temple of Deceit  wchodzi na pole walki zaznaczony."
 
 # 723ce4d510a642c9a61306bf36b491bf
 #: ../../THS.rst:1107
@@ -3229,7 +3230,7 @@ msgstr ""
 # fb834ee568ba41d396836e0f88e4edda
 #: ../../THS.rst:1109
 msgid "|tap|: Add |mana_u| or |mana_b| to your mana pool."
-msgstr "|tap|: Dodaj |mana_u| lub |mana_b| do swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_u| lub |mana_b| do twojej puli many."
 
 # bc05eab7f2da40dda00b7abc362c5dff
 #: ../../THS.rst:1118
@@ -3240,7 +3241,7 @@ msgstr "Temple of Mystery"
 # 4d234655604041df9697510b135c66ec
 #: ../../THS.rst:1113
 msgid "Temple of Mystery enters the battlefield tapped."
-msgstr "Temple of Mystery wchodzi na pole walki jako zużyty."
+msgstr "Temple of Mystery wchodzi na pole walki zaznaczony."
 
 # bba91c9aed10425a92302eac63dca2a3
 #: ../../THS.rst:1115
@@ -3253,7 +3254,7 @@ msgstr ""
 # bae965a474ec41f4bc9cda0bfd41180a
 #: ../../THS.rst:1117
 msgid "|tap|: Add |mana_g| or |mana_u| to your mana pool."
-msgstr "|tap|: Dodaj |mana_g| lub |mana_u| do swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_g| lub |mana_u| do twojej puli many."
 
 # 269e4896648c4e768bb9e4df38f8ea08
 #: ../../THS.rst:1126
@@ -3264,7 +3265,7 @@ msgstr "Temple of Silence"
 # b2448fa292f644d48e4156d0ead9859a
 #: ../../THS.rst:1121
 msgid "Temple of Silence enters the battlefield tapped."
-msgstr "Temple of Silence wchodzi na pole walki jako zużyty."
+msgstr "Temple of Silence wchodzi na pole walki zaznaczony."
 
 # da1c49a99a264423ad55f0f6da6a9e27
 #: ../../THS.rst:1123
@@ -3277,7 +3278,7 @@ msgstr ""
 # 0c1a722b59284718ba41fdae8f3276a6
 #: ../../THS.rst:1125
 msgid "|tap|: Add |mana_w| or |mana_b| to your mana pool."
-msgstr "|tap|: Dodaj |mana_w| lub |mana_b| do swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_w| lub |mana_b| do twojej puli many."
 
 # 4931d6e19fde4b5fa4a31ded4ae4c9bf
 #: ../../THS.rst:1134
@@ -3288,7 +3289,7 @@ msgstr "Temple of Triumph"
 # 12203c4027284af28635aa6c648aa519
 #: ../../THS.rst:1129
 msgid "Temple of Triumph enters the battlefield tapped."
-msgstr "Temple of Triumph wchodzi na pole walki jako zużyty."
+msgstr "Temple of Triumph wchodzi na pole walki zaznaczony."
 
 # dce89ea713594d108ad98bda8dc4fc28
 #: ../../THS.rst:1131
@@ -3301,7 +3302,7 @@ msgstr ""
 # d63db26bd91346d5babc001fbe168910
 #: ../../THS.rst:1133
 msgid "|tap|: Add |mana_r| or |mana_w| to your mana pool."
-msgstr "|tap|: Dodaj |mana_r| lub |mana_w| do swojego zasobnika many."
+msgstr "|tap|: Dodaj |mana_r| lub |mana_w| do twojej puli many."
 
 # e783f86cceb44d4fb527a8612dc4e09b
 #: ../../THS.rst:1144
@@ -3430,7 +3431,7 @@ msgstr "Tormented Hero"
 # ccc5f13de11044bd97dfbfb27b75818c
 #: ../../THS.rst:1177
 msgid "Tormented Hero enters the battlefield tapped."
-msgstr "Tormented Hero wchodzi na pole walki jako zużyty."
+msgstr "Tormented Hero wchodzi na pole walki zaznaczony."
 
 # c1a4ab432bbe468c8736fa53e17bb360
 #: ../../THS.rst:1179
@@ -3513,9 +3514,9 @@ msgstr "Triton Tactics"
 msgid "Up to two target creatures each get +0/+3 until end of turn. Untap those creatures. At this turn's next end of combat, tap each creature that was blocked by one of those creatures this turn and it doesn't untap during its controller's next untap step."
 msgstr ""
 "Każdy z nie więcej niż dwóch wskazanych stworów dostaje do końca tury +0/+3. "
-"Odśwież te stwory. W chwili najbliższego końca walki w tej turze, zużyj "
+"Odznacz owe stwory. W chwili najbliższego końca walki w tej turze, zaznacz "
 "każdego stwora, który był blokowany przez te stwory i owe stwory nie "
-"odświeżą się w następnym kroku odświeżania ich władcy."
+"odznaczą się w następnym kroku odznaczania ich władcy."
 
 # 5e33c9410aab4e5d9d9ba8099bd5c114
 #: ../../THS.rst:1212
@@ -3581,9 +3582,7 @@ msgstr "Unknown Shores"
 # 76148186d52a42f9bbcb7a6ca97d3253
 #: ../../THS.rst:1231
 msgid "|mana_1|, |tap|: Add one mana of any color to your mana pool."
-msgstr ""
-"|mana_1|, |tap|: Dodaj jedną manę dowolnego koloru do swojego zasobnika "
-"many."
+msgstr "|mana_1|, |tap|: Dodaj jedną manę dowolnego koloru do twojej puli many."
 
 # e492a5305aa74cdc99576c034872941a
 #: ../../THS.rst:1236
@@ -3643,7 +3642,7 @@ msgstr "Voyaging Satyr (Wędrujący Satyr)"
 # 8a23cc59526243a1965fe5b4876d5471
 #: ../../THS.rst:1255
 msgid "|tap|: Untap target land."
-msgstr "|tap|: Odśwież wskazany ląd."
+msgstr "|tap|: Odznacz wskazany ląd."
 
 # 14698a1463bc49b2bcc3379df4bc064d
 #: ../../THS.rst:1260
@@ -3674,9 +3673,9 @@ msgstr "Wavecrash Triton"
 #: ../../THS.rst:1267
 msgid "Heroic — Whenever you cast a spell that targets Wavecrash Triton, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Wavecrash Triton, zużyj "
-"wskazanego stwora, którym włada przeciwnik. Ów stwór nie odświeża się "
-"podczas następnego kroku odświeżania jego władcy."
+"Heroizm: Ilekroć rzucasz czar wskazujący na Wavecrash Triton, zaznacz "
+"wskazanego stwora, którym włada przeciwnik. Ów stwór nie odznacza się "
+"podczas następnego kroku odznaczania jego władcy."
 
 # 2da6f359db9345e3827748aa44f8fbaf
 #: ../../THS.rst:1274
@@ -3753,8 +3752,8 @@ msgstr "Xenagos, the Reveler"
 #: ../../THS.rst:1293
 msgid "+1: Add X mana in any combination of |mana_r| and/or |mana_g| to your mana pool, where X is the number of creatures you control."
 msgstr ""
-"+1: Dodaj X many w dowolnej kombinacji |mana_r| i |mana_g| do swojego "
-"zasobnika many, gdzie X jest liczbą stworów, którymi władasz."
+"+1: Dodaj X many w dowolnej kombinacji |mana_r| i |mana_g| do twojej puli "
+"many, gdzie X jest liczbą stworów, którymi władasz."
 
 # a1272ff4f2934322899ef22f4998f16f
 #: ../../THS.rst:1295
