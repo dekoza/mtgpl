@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-28 21:23\n"
-"PO-Revision-Date: 2013-09-30 04:59+0200\n"
+"PO-Revision-Date: 2013-09-30 17:19+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380513577.318013\n"
+"X-POOTLE-MTIME: 1380557982.588465\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
 #: ../../DGM.rst:5
@@ -24,9 +24,8 @@ msgstr "Dragon's Maze (Labirynt Smoka)"
 
 # e4a31187a10046f18c298a4652efda1a
 #: ../../DGM.rst:9
-#, fuzzy
 msgid "Advent of the Wurm"
-msgstr "Advent of the Wurm"
+msgstr "Advent of the Wurm (Nadejście Żmija)"
 
 # 5fd45096577843cf83c9714446c850da
 #: ../../DGM.rst:8
@@ -44,7 +43,7 @@ msgstr "Ætherling"
 msgid "|mana_u|: Exile Ætherling. Return it to the battlefield under its owner's control at the beginning of the next end step."
 msgstr ""
 "|mana_u|: Wypędź Ætherlinga. Przywróć go na pole walki pod władaniem jego "
-"właściciela na początku następnego etapu końcowego."
+"właściciela na początku najbliższego kroku końcowego."
 
 # 30740520f5b1404ba90f73d0ae2d54f7
 #: ../../DGM.rst:14
@@ -63,9 +62,8 @@ msgstr "|mana_1|: Ætherling dostaje -1/+1 do końca tury."
 
 # e38df00c0e304137943a4921019d7437
 #: ../../DGM.rst:25
-#, fuzzy
 msgid "Alive // Well (Alive)"
-msgstr "Alive // Well [Alive]"
+msgstr "Alive // Well [Alive] (Cały//Zdrowy [Cały])"
 
 # 1fa25864d4d9496dbbb13a5511861f24
 #: ../../DGM.rst:22
@@ -137,9 +135,8 @@ msgstr "Fuzja (Możesz zagrać jedną lub obie połowy tej karty z ręki.)"
 
 # afc16165c5594b1bb4143f317a06724d
 #: ../../DGM.rst:31
-#, fuzzy
 msgid "Armed // Dangerous (Armed)"
-msgstr "Armed // Dangerous [Armed]"
+msgstr "Armed // Dangerous [Armed] (Uzbrojony//Niebezpieczny [Uzbrojony])"
 
 # 726108b10f5540cea74715ca6eb373e3
 #: ../../DGM.rst:28
@@ -309,7 +306,7 @@ msgstr ""
 # 1ccf726bc2f1432eab1eedf3c38c8f70
 #: ../../DGM.rst:101
 msgid "Blood Baron of Vizkopa"
-msgstr ""
+msgstr "Blood Baron of Vizkopa (Krwawy Baron z Vizkopa)"
 
 # 3bbf9d1b15a04bd8965a2b086816e8f3
 # Jak wytłumaczysz "Wampiryzm" u białych stworów? Przecież to się kojarzy co najwyżej z czarnymi.
@@ -326,9 +323,8 @@ msgstr ""
 
 # 0ba7ff12320c469eb2711aa6c4f3ae0e
 #: ../../DGM.rst:105
-#, fuzzy
 msgid "Blood Scrivener"
-msgstr "Blood Scrivener"
+msgstr "Blood Scrivener (Krwawy Skryba)"
 
 # 5be88149a1f642cca49f1f6c91898492
 #: ../../DGM.rst:104
@@ -411,9 +407,8 @@ msgstr ""
 
 # 9855d8e3cc834ae3823706c773d1d6ea
 #: ../../DGM.rst:135
-#, fuzzy
 msgid "Bred for the Hunt"
-msgstr "Bred for the Hunt"
+msgstr "Bred for the Hunt (Stworzony do Łowów)"
 
 # bad8bee5e0aa46d8ae718414e62b4d90
 #: ../../DGM.rst:134
@@ -486,9 +481,8 @@ msgstr ""
 
 # 90e10e360c1a4077b1ccce43f32277e4
 #: ../../DGM.rst:167
-#, fuzzy
 msgid "Clear a Path"
-msgstr "Clear a Path"
+msgstr "Clear a Path (Zrób Przejście)"
 
 # 38246dd0c1bc4c52b42ef1d1f01f95e6
 #: ../../DGM.rst:166
@@ -532,9 +526,9 @@ msgstr ""
 
 # a5ed968a8f844ea098e4a7e3332a41e6
 #: ../../DGM.rst:185
-#, fuzzy
 msgid "Armed // Dangerous (Dangerous)"
-msgstr "Armed // Dangerous [Dangerous]"
+msgstr ""
+"Armed // Dangerous [Dangerous] (Uzbrojony//Niebezpieczny [Niebezpieczny])"
 
 # f1710e2b7def400fb577ba9faaba7651
 #: ../../DGM.rst:182
@@ -545,7 +539,7 @@ msgstr ""
 # 5fae0ce32c204f908d2b419796135329
 #: ../../DGM.rst:191
 msgid "Deadbridge Chant"
-msgstr ""
+msgstr "Deadbridge Chant (Pieśń Śmierciomostu)"
 
 # 7f7b80014a7c4132b86b8f85ac14b27c
 #: ../../DGM.rst:188
@@ -898,7 +892,7 @@ msgstr "Gruul Guildgate wchodzi na pole walki jako zaznaczony."
 # 0afbfb42d3ec4216b9a7f9c07773e8e3
 #: ../../DGM.rst:327
 msgid "Gruul War Chant"
-msgstr ""
+msgstr "Gruul War Chant (Pieśń Wojenna Gruul)"
 
 # 5a4e5e55fc7b42fa8179623e92d6a27f
 #: ../../DGM.rst:326
@@ -1140,7 +1134,7 @@ msgstr ""
 # 00a32221fab14eaea577961d20421589
 #: ../../DGM.rst:415
 msgid "Master of Cruelties"
-msgstr ""
+msgstr "Master of Cruelties (Mistrz Okrucieństw)"
 
 # c83909c6cdc14e7ab3552d38c320aa27
 #: ../../DGM.rst:410
@@ -1163,7 +1157,7 @@ msgstr ""
 # 84d60c136b0045d683c26414268d3c4d
 #: ../../DGM.rst:419
 msgid "Maw of the Obzedat"
-msgstr ""
+msgstr "Maw of the Obzedat (Paszcza Obzedata)"
 
 # 8274d120068b4b618df020ce3aca91c2
 #: ../../DGM.rst:418
@@ -1244,7 +1238,7 @@ msgstr "Wielokolorowe stwory, którymi władasz, mają czujność."
 # 3ebcde26c55940589077da6583fbb719
 #: ../../DGM.rst:457
 msgid "Maze's End"
-msgstr ""
+msgstr "Maze's End (Kres Labiryntu)"
 
 # 6c33f58348e94deab947cc446a347fc2
 #: ../../DGM.rst:452
@@ -2239,7 +2233,7 @@ msgstr ""
 # fc7f65b8d0794aaf87b499f92e279dea
 #: ../../DGM.rst:845
 msgid "Unflinching Courage"
-msgstr ""
+msgstr "Unflinching Courage (Niezachwiana Odwaga)"
 
 # 656c6447238145bc9d314991fd95d543
 #: ../../DGM.rst:844
@@ -2280,7 +2274,7 @@ msgstr ""
 # f0f330d98aea4df4b78bfacc1e264928
 #: ../../DGM.rst:861
 msgid "Voice of Resurgence"
-msgstr ""
+msgstr "Voice of Resurgence (Głos Odrodzenia)"
 
 # d6c9cb36c5014718bae1569f27f040fd
 #: ../../DGM.rst:860
@@ -2424,7 +2418,7 @@ msgstr ""
 # bd23f44a27d54b7580ecfeec53fd7f78
 #: ../../DGM.rst:919
 msgid "Zhur-Taa Druid"
-msgstr ""
+msgstr "Zhur-Taa Druid (Druid z Zhur-Taa)"
 
 # c05ed33b21f14493ab5547d4d48f5a23
 #: ../../DGM.rst:916

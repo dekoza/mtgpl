@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 02:36+0200\n"
-"PO-Revision-Date: 2013-09-30 05:19+0200\n"
+"PO-Revision-Date: 2013-09-30 17:26+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380514777.17815\n"
+"X-POOTLE-MTIME: 1380558415.728170\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Abrupt Decay
@@ -108,6 +108,8 @@ msgid ""
 "Enchanted creature can't attack or block, and its activated abilities can't "
 "be activated."
 msgstr ""
+"Zauroczony stwór nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą zostać aktywowane,"
 
 #: Ash Zealot Carnival Hellsteed Minotaur Aggressor
 msgid "First strike, haste"
@@ -117,6 +119,8 @@ msgid ""
 "Whenever a player casts a spell from a graveyard, Ash Zealot deals 3 damage "
 "to that player."
 msgstr ""
+"Ilekroć gracz rzuca czar z cmentarza, Ash Zealot zadaje owemu graczowi 3 "
+"obrażenia."
 
 #: Assassin's Strike
 msgid "Destroy target creature. Its controller discards a card."
@@ -148,6 +152,10 @@ msgid ""
 "opponent controls. (Until your next turn, that creature can't attack or "
 "block and its activated abilities can't be activated.)"
 msgstr ""
+"Kiedy Azorius Arrester wchodzi na pole walki, uwięź wskazanego stwora "
+"władanego przez przeciwnika. (Do twojej następnej tury ten stwór nie może "
+"atakować ani blokować, a jego aktywowane zdolności nie mogą zostać "
+"aktywowane.)"
 
 #: Azorius Charm
 msgid "Choose one — Creatures you control gain lifelink until end of turn"
@@ -176,6 +184,10 @@ msgid ""
 "creatures your opponents control. (Until your next turn, those creatures "
 "can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
+"Kiedy Azorius Justicar wchodzi na pole walki, uwięź do dwóch wskazanych "
+"stworów władanych przez przeciwnika. (Do twojej następnej tury te stwory nie "
+"mogą atakować ani blokować, a ich aktywowane zdolności nie mogą zostać "
+"aktywowane.)"
 
 msgid ""
 "|mana_w| |mana_u|: Azorius Keyrune becomes a 2/2 white and blue Bird artifact creature "
@@ -261,11 +273,11 @@ msgstr ""
 
 #: Brushstrider Risen Sanctuary
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: Call of the Conclave
 msgid "Put a 3/3 green Centaur creature token onto the battlefield."
-msgstr ""
+msgstr "Połóż na polu walki żeton zielonego stwora Centaur 3/3."
 
 #: Cancel
 msgid "Counter target spell."
@@ -273,22 +285,26 @@ msgstr "Skontruj wskazany czar."
 
 #: Centaur Healer
 msgid "When Centaur Healer enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy Centaur Healer wchodzi na pole walki, zyskujesz 3 życia."
 
 #: Centaur's Herald
 msgid ""
 "|mana_2| |mana_g|, Sacrifice Centaur's Herald: Put a 3/3 green Centaur creature token "
 "onto the battlefield."
 msgstr ""
+"|mana_2| |mana_g|, poświęć Centaur's Herald: Połóż na polu walki żeton "
+"zielonego stwora Centaur 3/3."
 
 msgid "Chaos Imps has trample as long as it has a +1/+1 counter on it."
-msgstr ""
+msgstr "Chaos Imps mają tratowanie dopóki mają na sobie znacznik +1/+1."
 
 #: Chemister's Trick
 msgid ""
 "Target creature you don't control gets -2/-0 until end of turn and attacks "
 "this turn if able."
 msgstr ""
+"Wskazany stwór, którym nie władasz otrzymuje -2/-0 do końca tury i atakuje w "
+"tej turze jeśli to możliwe."
 
 msgid ""
 "Overload |mana_3| |mana_u| |mana_r| (You may cast this spell for its overload cost. If you "
@@ -303,19 +319,23 @@ msgid ""
 "Until end of turn, target creature gets +1/+1 for each creature you control "
 "and gains trample."
 msgstr ""
+"Do końca tury wskazany stwór dostaje +1/+1 za każdego stwora, którym władasz "
+"oraz tratowanie."
 
 #: Chromatic Lantern
 msgid ""
 "Lands you control have \"|tap|: Add one mana of any color to your mana pool.\""
 msgstr ""
+"Lądy, którymi władasz mają \"|tap|: Dodaj jedną manę dowolnego koloru do "
+"twojej puli many.\""
 
 msgid "|tap|: Add one mana of any color to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj jedną manę dowolnego koloru do twojej puli many."
 
 #: Chronic Flooding Racecourse Fury Security Blockade Underworld Connections
 #: Urban Burgeoning
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 msgid ""
 "Whenever enchanted land becomes tapped, its controller puts the top three "
@@ -697,7 +717,7 @@ msgstr "Golgari Guildgate wchodzi na pole walki zaznaczony."
 
 #: Golgari Keyrune
 msgid "|tap|: Add |mana_b| or |mana_g| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_b| lub |mana_g| do twojej puli many."
 
 msgid ""
 "|mana_b| |mana_g|: Golgari Keyrune becomes a 2/2 black and green Insect artifact "
@@ -725,7 +745,7 @@ msgstr ""
 
 #: Grove of the Guardian Rogue's Passage
 msgid "|tap|: Add |mana_1| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_1| do twojej puli many."
 
 msgid ""
 "|mana_3| |mana_g| |mana_w|, |tap|, Tap two untapped creatures you control, Sacrifice Grove of "
@@ -759,7 +779,7 @@ msgstr ""
 
 #: Hallowed Fountain
 msgid "(|tap|: Add |mana_w| or |mana_u| to your mana pool.)"
-msgstr ""
+msgstr "(|tap|: Dodaj |mana_w| lub |mana_u| do twojej puli many.)"
 
 msgid ""
 "As Hallowed Fountain enters the battlefield, you may pay 2 life. If you "
@@ -860,7 +880,7 @@ msgstr "Izzet Guildgate wchodzi na pole walki zaznaczony."
 
 #: Izzet Keyrune
 msgid "|tap|: Add |mana_u| or |mana_r| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_u| lub |mana_r| do twojej puli many."
 
 msgid ""
 "|mana_u| |mana_r|: Until end of turn, Izzet Keyrune becomes a 2/1 blue and red "
@@ -997,6 +1017,8 @@ msgid ""
 "Remove a charge counter from Mana Bloom: Add one mana of any color to your "
 "mana pool. Activate this ability only once each turn."
 msgstr ""
+"Usuń znacznik ładowania z Mana Bloom: Dodaj jedną manę dowolnego koloru do "
+"twojej puli many. Aktywuj tę zdolność tylko raz na turę."
 
 msgid ""
 "At the beginning of your upkeep, if Mana Bloom has no charge counters on it, "
@@ -1110,7 +1132,7 @@ msgstr ""
 
 #: Overgrown Tomb
 msgid "(|tap|: Add |mana_b| or |mana_g| to your mana pool.)"
-msgstr ""
+msgstr "(|tap|: Dodaj |mana_b| lub |mana_g| do twojej puli many.)"
 
 msgid ""
 "As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, "
@@ -1208,7 +1230,7 @@ msgstr "Rakdos Guildgate wchodzi na pole walki zaznaczony."
 
 #: Rakdos Keyrune
 msgid "|tap|: Add |mana_b| or |mana_r| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
 
 msgid ""
 "|mana_b| |mana_r|: Rakdos Keyrune becomes a 3/1 black and red Devil artifact creature "
@@ -1362,7 +1384,7 @@ msgstr "Selesnya Guildgate wchodzi na pole walki zaznaczony."
 
 #: Selesnya Keyrune
 msgid "|tap|: Add |mana_g| or |mana_w| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_g| lub |mana_w| do twojej puli many."
 
 msgid ""
 "|mana_g| |mana_w|: Selesnya Keyrune becomes a 3/3 green and white Wolf artifact "
@@ -1499,7 +1521,7 @@ msgstr ""
 
 #: Steam Vents
 msgid "(|tap|: Add |mana_u| or |mana_r| to your mana pool.)"
-msgstr ""
+msgstr "(|tap|: Dodaj |mana_u| lub |mana_r| do twojej puli many.)"
 
 msgid ""
 "As Steam Vents enters the battlefield, you may pay 2 life. If you don't, "
@@ -1592,7 +1614,7 @@ msgstr ""
 
 #: Temple Garden
 msgid "(|tap|: Add |mana_g| or |mana_w| to your mana pool.)"
-msgstr ""
+msgstr "(|tap|: Dodaj |mana_g| lub |mana_w| do twojej puli many.)"
 
 msgid ""
 "As Temple Garden enters the battlefield, you may pay 2 life. If you don't, "

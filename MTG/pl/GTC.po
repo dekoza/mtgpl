@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-30 05:08+0200\n"
+"PO-Revision-Date: 2013-09-30 17:25+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380514124.398948\n"
+"X-POOTLE-MTIME: 1380558335.704447\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -113,6 +113,9 @@ msgid ""
 "Legion. Then put a 1/1 red and white Soldier creature token with haste onto "
 "the battlefield for each muster counter on Assemble the Legion."
 msgstr ""
+"Na początku swojego utrzymania połóż znacznik musztry na Assemble the "
+"Legion. Następnie połóż na polu walki czerwono-biały żeton stwora Soldier "
+"1/1 z pośpiechem za każdy znacznik musztry na Assemble the Legion."
 
 #: Aurelia, the Warleader
 msgid "Flying, vigilance, haste"
@@ -143,6 +146,9 @@ msgid ""
 "the top of his or her library until he or she reveals a land card, then puts "
 "those cards into his or her graveyard."
 msgstr ""
+"Kiedy Balustrade Spy wchodzi na pole walki, wskazany gracz ujawnia karty z "
+"wierzchu swojej biblioteki, aż ujawni kartę lądu, a następnie przekłada owe "
+"karty do swojego cmentarza."
 
 #: Bane Alley Broker
 msgid "|tap|: Draw a card, then exile a card from your hand face down."
@@ -189,12 +195,16 @@ msgid ""
 "Move any number of +1/+1 counters from target creature onto another target "
 "creature with the same controller."
 msgstr ""
+"Przenieś dowolną liczbę znaczników +1/+1 ze wskazanego stwora na innego "
+"wskazanego stwora o tym samym władcy."
 
 #: Biovisionary
 msgid ""
 "At the beginning of the end step, if you control four or more creatures "
 "named Biovisionary, you win the game."
 msgstr ""
+"Na początku kroku końcowego, jeśli władasz co najmniej czterema stworami o "
+"nazwie Biovisionary, wygrywasz grę."
 
 msgid ""
 "Artifacts and creatures your opponents control enter the battlefield tapped."
@@ -207,6 +217,8 @@ msgid ""
 "Battalion — Whenever Bomber Corps and at least two other creatures attack, "
 "Bomber Corps deals 1 damage to target creature or player."
 msgstr ""
+"Batalion: Ilekroć Bomber Corps i co najmniej dwa inne stwory atakują, Bomber "
+"Corps zadaje 1 obrażenie wskazanemu stworowi lub graczowi."
 
 #: Borborygmos Enraged Crowned Ceratok Ghor-Clan Rampager Giant Adephage
 #: Skarrg Goliath
@@ -218,11 +230,16 @@ msgid ""
 "three cards of your library. Put all land cards revealed this way into your "
 "hand and the rest into your graveyard."
 msgstr ""
+"Ilekroć Borborygmos Enraged zadaje graczowi obrażenia bojowe, ujawnij trzy "
+"wierzchnie karty z twojej biblioteki. Weź wszystkie karty lądów ujawnione w "
+"ten sposób na rękę, a resztę połóż na swój cmentarz."
 
 msgid ""
 "Discard a land card: Borborygmos Enraged deals 3 damage to target creature "
 "or player."
 msgstr ""
+"Odrzuć kartę lądu: Borborygmos Enraged zadaje 3 obrażenia wskazanemu "
+"stworowi lub graczowi."
 
 #: Boros Charm
 msgid "Choose one — Boros Charm deals 4 damage to target player"
@@ -241,6 +258,8 @@ msgid ""
 "Battalion — Whenever Boros Elite and at least two other creatures attack, "
 "Boros Elite gets +2/+2 until end of turn."
 msgstr ""
+"Batalion: Ilekroć Boros Elite i co najmniej dwa inne stwory atakują, Boros "
+"Elite zyskuje +2/+2 do końca tury."
 
 #: Boros Guildgate
 msgid "Boros Guildgate enters the battlefield tapped."
@@ -265,9 +284,11 @@ msgid ""
 "Whenever Boros Reckoner is dealt damage, it deals that much damage to target "
 "creature or player."
 msgstr ""
+"Ilekroć Boros Reckoner otrzymuje obrażenia, zadaje tyle samo obrażeń "
+"wskazanemu stworowi lub graczowi."
 
 msgid "|mana_rw|: Boros Reckoner gains first strike until end of turn."
-msgstr ""
+msgstr "|mana_rw|: Boros Reckoner zyskuje pierwszy cios do końca tury."
 
 #: Breeding Pool
 msgid "(|tap|: Add |mana_g| or |mana_u| to your mana pool.)"
@@ -285,6 +306,8 @@ msgid ""
 "When Burning-Tree Emissary enters the battlefield, add |mana_r| |mana_g| to your mana "
 "pool."
 msgstr ""
+"Kiedy Burning-Tree Emissary wchodzi na pole walki, dodaj |mana_r| |mana_g| "
+"do twojej puli many."
 
 #: Burst of Strength
 msgid "Put a +1/+1 counter on target creature and untap it."
@@ -295,6 +318,7 @@ msgid ""
 "Put a 1/1 blue and black Horror creature token with flying onto the "
 "battlefield."
 msgstr ""
+"Połóż na polu walki żeton niebiesko-czarnego stwora Horror 1/1 z lataniem."
 
 msgid ""
 "Cipher (Then you may exile this spell card encoded on a creature you "
@@ -310,6 +334,8 @@ msgid ""
 "Sacrifice another creature: Cartel Aristocrat gains protection from the "
 "color of your choice until end of turn."
 msgstr ""
+"Poświęć innego stwora: Cartel Aristocrat zyskuje ochronę przed wybranym "
+"przez ciebie kolorem do końca tury."
 
 #: Cinder Elemental
 msgid ""
@@ -324,6 +350,8 @@ msgid ""
 "Choose one or more — Clan Defiance deals X damage to target creature with "
 "flying"
 msgstr ""
+"Wybierz jedno lub więcej: Clan Defiance zadaje X obrażeń wskazanemu stworowi "
+"z lataniem"
 
 msgid " Clan Defiance deals X damage to target creature without flying"
 msgstr ""
@@ -337,6 +365,9 @@ msgid ""
 "graveyard. You draw a card for each creature card put into that graveyard "
 "this way."
 msgstr ""
+"Wskazany gracz przekłada cztery górne karty ze swojej biblioteki do swojego "
+"cmentarza. Dobierz kartę za każdą kartę stwora położoną w ten sposób na "
+"cmentarzu."
 
 #: Consuming Aberration
 msgid ""
@@ -353,10 +384,10 @@ msgstr ""
 #: Contaminated Ground Debtor's Pulpit Skygames Tin Street Market Verdant
 #: Haven
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 msgid "Enchanted land is a Swamp."
-msgstr ""
+msgstr "Zauroczony ląd jest Bagnem."
 
 msgid "Whenever enchanted land becomes tapped, its controller loses 2 life."
 msgstr "Ilekroć zauroczony ląd zostaje zaznaczony, jego władca traci 2 życia."
@@ -385,10 +416,10 @@ msgstr ""
 
 #: Crocanura
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 msgid "Each creature you control with a +1/+1 counter on it has trample."
-msgstr ""
+msgstr "Każdy stwór, którym władasz mający znacznik +1/+1 ma tratowanie."
 
 msgid ""
 "Whenever you tap a Swamp for mana, add |mana_b| to your mana pool (in addition to "
@@ -402,10 +433,12 @@ msgid ""
 "Battalion — Whenever Daring Skyjek and at least two other creatures attack, "
 "Daring Skyjek gains flying until end of turn."
 msgstr ""
+"Batalion: Ilekroć Daring Skyjek i co najmniej dwa inne stwory atakują, "
+"Daring Skyjek dostaje latanie do końca tury."
 
 #: Deathcult Rogue
 msgid "Deathcult Rogue can't be blocked except by Rogues."
-msgstr ""
+msgstr "Deathcult Rogue może być blokowany tylko przez stwory Rogue."
 
 msgid ""
 "When Deathpact Angel dies, put a 1/1 white and black Cleric creature token "
@@ -421,6 +454,8 @@ msgid ""
 "Enchanted creature gets -X/-X, where X is the number of creature cards in "
 "its controller's graveyard."
 msgstr ""
+"Zauroczony stwór dostaje -X/-X, gdzie X to liczba kart stworów w cmentarzu "
+"jego władcy."
 
 msgid "Enchanted land has \"|tap|: Tap target creature.\""
 msgstr "Zauroczony ląd ma \"|tap|: Zaznacz wskazanego stwora.\""
@@ -430,6 +465,8 @@ msgid ""
 "Target player sacrifices a creature, then gains life equal to that "
 "creature's toughness."
 msgstr ""
+"Wskazany gracz poświęca stwora, po czym zyskuje liczbę punktów życia równą "
+"wytrzymałości owego stwora."
 
 msgid ""
 "When Diluvian Primordial enters the battlefield, for each opponent, you may "
@@ -515,27 +552,32 @@ msgid ""
 "her library, loses life equal to that card's converted mana cost, then puts "
 "it into his or her hand."
 msgstr ""
+"Na początku twojego utrzymania, każdy gracz ujawnia wierzchnią kartę swojej "
+"biblioteki, traci liczbę punktów życia równą łącznemu kosztowi many owej "
+"karty, po czym wkłada ją do swojej ręki."
 
 #: Dutiful Thrull
 msgid "|mana_b|: Regenerate Dutiful Thrull."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj Dutiful Thrull."
 
 #: Dying Wish Murder Investigation
 msgid "Enchant creature you control"
-msgstr ""
+msgstr "Zaurocz stwora, którym władasz"
 
 msgid ""
 "When enchanted creature dies, target player loses X life and you gain X "
 "life, where X is its power."
 msgstr ""
+"Kiedy zauroczony stwór umiera, wskazany gracz traci X punktów życia, a ty "
+"zyskujesz X punktów życia, gdzie X to siła owego stwora."
 
 #: Elusive Krasis
 msgid "Elusive Krasis can't be blocked."
-msgstr ""
+msgstr "Elusive Krasis nie może być blokowany."
 
 #: Ember Beast
 msgid "Ember Beast can't attack or block alone."
-msgstr ""
+msgstr "Ember Beast nie może atakować ani blokować sam."
 
 #: Enter the Infinite
 msgid ""
@@ -543,88 +585,114 @@ msgid ""
 "from your hand on top of your library. You have no maximum hand size until "
 "your next turn."
 msgstr ""
+"Dobierz tyle kart, ile masz w bibliotece, po czym połóż kartę z twojej ręki "
+"na wierzchu twojej biblioteki. Do twojej następnej tury nie masz limitu kart "
+"w ręce."
 
 #: Executioner's Swing
 msgid ""
 "Target creature that dealt damage this turn gets -5/-5 until end of turn."
 msgstr ""
+"Wskazany stwór, który zadał w tej turze obrażenia otrzymuje -5/-5 do końca "
+"tury."
 
 msgid ""
 "Remove two +1/+1 counters from Experiment One: Regenerate Experiment One."
-msgstr ""
+msgstr "Usuń dwa znaczniki +1/+1 z Experiment One: Zregeneruj Experiment One."
 
 msgid "Whenever a +1/+1 counter is placed on Fathom Mage, you may draw a card."
 msgstr ""
+"Ilekroć znacznik +1/+1 zostaje położony na Fathom Mage, możesz dobrać kartę."
 
 #: Firefist Striker
 msgid ""
 "Battalion — Whenever Firefist Striker and at least two other creatures "
 "attack, target creature can't block this turn."
 msgstr ""
+"Batalion: Ilekroć Firefist Striker i co najmniej dwa inne stwory atakują, "
+"wskazany stwór nie może blokować w tej turze."
 
 msgid ""
 "Battalion — Whenever Firemane Avenger and at least two other creatures "
 "attack, Firemane Avenger deals 3 damage to target creature or player and you "
 "gain 3 life."
 msgstr ""
+"Batalion: Ilekroć Firemane Avenger i co najmniej dwa inne stwory atakują, "
+"Firemane Avenger zadaje 3 obrażenia wskazanemu stworowi lub graczowi, a ty "
+"zyskujesz 3 życia."
 
 #: Five-Alarm Fire
 msgid ""
 "Whenever a creature you control deals combat damage, put a blaze counter on "
 "Five-Alarm Fire."
 msgstr ""
+"Ilekroć stwór, którym władasz zadaje obrażenia bojowe, połóż znacznik "
+"płomienia na Five-Alarm Fire."
 
 msgid ""
 "Remove five blaze counters from Five-Alarm Fire: Five-Alarm Fire deals 5 "
 "damage to target creature or player."
 msgstr ""
+"Usuń pięć znaczników płomienia z Five-Alarm Fire: Five-Alarm Fire zadaje 5 "
+"obrażeń wskazanemu stworowi lub graczowi."
 
 msgid ""
 "At the beginning of your upkeep, put a +1/+1 counter on enchanted creature."
 msgstr ""
+"Na początku twojego utrzymania połóż znacznik +1/+1 na zauroczonym stworze."
 
 #: Fortress Cyclops
 msgid "Whenever Fortress Cyclops attacks, it gets +3/+0 until end of turn."
-msgstr ""
+msgstr "Ilekroć Fortress Cyclops atakuje, otrzymuje +3/+0 do końca tury."
 
 msgid "Whenever Fortress Cyclops blocks, it gets +0/+3 until end of turn."
-msgstr ""
+msgstr "Ilekroć Fortress Cyclops blokuje, otrzymuje +0/+3 do końca tury."
 
 #: Foundry Champion
 msgid ""
 "When Foundry Champion enters the battlefield, it deals damage to target "
 "creature or player equal to the number of creatures you control."
 msgstr ""
+"Kiedy Foundry Champion wchodzi na pole walki, zadaje wskazanemu stworowi lub "
+"graczowi obrażenia równe liczbie stworów, którymi władasz."
 
 msgid "|mana_r|: Foundry Champion gets +1/+0 until end of turn."
 msgstr ""
 
 msgid "|mana_w|: Foundry Champion gets +0/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|: Foundry Champion dostaje +0/+1 do końca tury."
 
 #: Foundry Street Denizen
 msgid ""
 "Whenever another red creature enters the battlefield under your control, "
 "Foundry Street Denizen gets +1/+0 until end of turn."
 msgstr ""
+"Ilekroć inny czerwony stwór wchodzi na pole walki pod twoim władaniem, "
+"Foundry Street Denizen dostaje +1/+0 do końca tury."
 
 #: Frenzied Tilling
 msgid ""
 "Destroy target land. Search your library for a basic land card and put that "
 "card onto the battlefield tapped. Then shuffle your library."
 msgstr ""
+"Zniszcz wskazany ląd. Poszukaj w twojej bibliotece karty zwykłego lądu i "
+"połóż ją zaznaczoną na polu walki. Następnie przetasuj twoją bibliotekę."
 
 #: Frilled Oculus
 msgid ""
 "|mana_1| |mana_g|: Frilled Oculus gets +2/+2 until end of turn. Activate this ability "
 "only once each turn."
 msgstr ""
+"|mana_1| |mana_g|: Frilled Oculus dostaje +2/+2 do końca tury. Możesz "
+"aktywować tę zdolność tylko raz na turę."
 
 #: Frontline Medic
 msgid ""
 "Battalion — Whenever Frontline Medic and at least two other creatures "
 "attack, creatures you control gain indestructible until end of turn."
 msgstr ""
+"Batalion: Ilekroć Frontline Medic i co najmniej dwa inne stwory atakują, "
+"stwory, którymi władasz zyskują niezniszczalność do końca tury."
 
 msgid ""
 "Sacrifice Frontline Medic: Counter target spell with |mana_x| in its mana cost "
@@ -637,6 +705,8 @@ msgstr ""
 msgid ""
 "Target blocking creature gets +3/+0 and gains first strike until end of turn."
 msgstr ""
+"Wskazany blokujący stwór otrzymuje +3/+0 i zyskuje pierwszy cios do końca "
+"tury."
 
 #: Gateway Shade
 msgid "|mana_b|: Gateway Shade gets +1/+1 until end of turn."
@@ -760,6 +830,8 @@ msgstr ""
 
 msgid "|tap|: Add |mana_g| to your mana pool for each +1/+1 counter on Gyre Sage."
 msgstr ""
+"|tap|: Dodaj |mana_g| do twojej puli many za każdy znacznik +1/+1na Gyre "
+"Sage."
 
 #: Hands of Binding
 msgid ""
@@ -1168,7 +1240,7 @@ msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgstr ""
 
 msgid "|mana_1|, |tap|: Add one mana of any color to your mana pool."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dodaj jedną manę dowolnego koloru to twojej puli many."
 
 #: Psychic Strike
 msgid ""
