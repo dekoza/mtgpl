@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-30 21:16+0200\n"
+"PO-Revision-Date: 2013-09-30 21:25+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380572179.643547\n"
+"X-POOTLE-MTIME: 1380572730.249837\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -781,6 +781,8 @@ msgid ""
 "|mana_3|, Sacrifice Glaring Spotlight: Creatures you control gain hexproof until "
 "end of turn and can't be blocked this turn."
 msgstr ""
+"|mana_3|, Poświęć Glaring Spotlight: Stwory, którymi władasz zyskują "
+"antyklątwę do końca tury i nie mogą być blokowane w tej turze."
 
 #: Godless Shrine
 msgid "(|tap|: Add |mana_w| or |mana_b| to your mana pool.)"
@@ -790,6 +792,8 @@ msgid ""
 "As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, "
 "Godless Shrine enters the battlefield tapped."
 msgstr ""
+"Kiedy Godless Shrine wchodzi na pole walki, możesz zapłacić 2 życia. Jeśli "
+"tego nie zrobisz, Godless Shrine wchodzi na pole walki zaznaczony."
 
 #: Greenside Watcher
 msgid "|tap|: Untap target Gate."
@@ -805,6 +809,9 @@ msgid ""
 "equal to that creature's power from the top of his or her library into his "
 "or her graveyard."
 msgstr ""
+"Zniszcz wskazanego nieartefaktowego stwora. Jego władca przekłada liczbę "
+"kart równą sile owego stwora z wierzchu swojej biblioteki do swojego "
+"cmentarza."
 
 #: Ground Assault
 msgid ""
@@ -814,7 +821,7 @@ msgstr ""
 
 #: Gruul Charm
 msgid "Choose one — Creatures without flying can't block this turn"
-msgstr ""
+msgstr "Wybierz jedno: Stwory bez latania nie mogą blokować w tej turze"
 
 msgid " or gain control of all permanents you own"
 msgstr " albo przejmij kontrolę nad wszystkimi własnymi stałkami"
@@ -824,7 +831,7 @@ msgstr ""
 
 #: Gruul Guildgate
 msgid "Gruul Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Gruul Guildgate wchodzi na pole walki zaznaczony."
 
 #: Gruul Keyrune
 msgid "|tap|: Add |mana_r| or |mana_g| to your mana pool."
@@ -847,7 +854,7 @@ msgstr ""
 "przeciwnika."
 
 msgid "Guardian of the Gateless can block any number of creatures."
-msgstr ""
+msgstr "Guardian of the Gateless może blokować dowolną liczbę stworów."
 
 msgid ""
 "Whenever Guardian of the Gateless blocks, it gets +1/+1 until end of turn "
@@ -900,31 +907,39 @@ msgstr ""
 msgid ""
 "Creatures you control get +0/+1 for each Gate you control and have vigilance."
 msgstr ""
+"Stwory, którymi władasz, zyskują +0/+1 za każdą Bramę, którą władasz i mają "
+"czujność."
 
 msgid "Enchanted creature gets +2/+2 and has protection from creatures."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma ochronę przed stworami."
 
 #: Homing Lightning
 msgid ""
 "Homing Lightning deals 4 damage to target creature and each other creature "
 "with the same name as that creature."
 msgstr ""
+"Homing Lightning zadaje 4 obrażenia wskazanemu stworowi i każdemu innemu "
+"stworowi o tej samej nazwie, co ów stwór."
 
 #: Horror of the Dim
 msgid ""
 "|mana_u|: Horror of the Dim gains hexproof until end of turn. (It can't be the "
 "target of spells or abilities your opponents control.)"
 msgstr ""
+"|mana_u|: Horror of the Dim zyskuje antyklątwę do końca tury. (Nie może "
+"zostać wskazany przez czary i zdolności władane przez twoich przeciwników.)"
 
 #: Hydroform
 msgid ""
 "Target land becomes a 3/3 Elemental creature with flying until end of turn. "
 "It's still a land."
 msgstr ""
+"Wskazany ląd do końca tury staje się stworem Elemental 3/3 z lataniem. Nadal "
+"jest lądem."
 
 #: Illness in the Ranks
 msgid "Creature tokens get -1/-1."
-msgstr ""
+msgstr "Żetony stworów dostają -1/-1."
 
 #: Illusionist's Bracers
 msgid ""
@@ -940,12 +955,16 @@ msgid ""
 "Return each creature card with converted mana cost X from your graveyard to "
 "the battlefield."
 msgstr ""
+"Zwróć wszystkie karty stworów o łącznym koszcie many X z twojego cmentarza "
+"na pole walki."
 
 #: Incursion Specialist
 msgid ""
 "Whenever you cast your second spell each turn, Incursion Specialist gets +2/"
 "+0 until end of turn and can't be blocked this turn."
 msgstr ""
+"Ilekroć rzucasz swój drugi czar w turze, Incursion Specialist otrzymuje "
+"+2/+0 do końca tury i nie może być blokowany w tej turze."
 
 #: Ivy Lane Denizen
 msgid ""

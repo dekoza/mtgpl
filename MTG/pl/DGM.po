@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-28 21:23\n"
-"PO-Revision-Date: 2013-09-30 21:13+0200\n"
+"PO-Revision-Date: 2013-09-30 21:27+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380572035.279712\n"
+"X-POOTLE-MTIME: 1380572852.21237\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
 #: ../../DGM.rst:5
@@ -1260,7 +1260,7 @@ msgstr ""
 # 2555adeebba6477197c35d59e134b2a1
 #: ../../DGM.rst:465
 msgid "Melek, Izzet Paragon"
-msgstr ""
+msgstr "Melek, Izzet Paragon (Melek, Duma Izzetu)"
 
 # 8630bf5e4bc647dbb73396eaa1c322b5
 #: ../../DGM.rst:460
@@ -1284,7 +1284,7 @@ msgstr ""
 # c0ac0c667e6f454fa998e4d13ce0ffe8
 #: ../../DGM.rst:469
 msgid "Mending Touch"
-msgstr ""
+msgstr "Mending Touch (Kojący Dotyk)"
 
 # 04e3c342889f4cb98c7ee3181e4267ad
 #: ../../DGM.rst:468
@@ -1330,12 +1330,12 @@ msgstr ""
 # b127085ae53a42c29a9247ed630bf329
 #: ../../DGM.rst:487
 msgid "Murmuring Phantasm"
-msgstr ""
+msgstr "Murmuring Phantasm (Mamroczące Widmo)"
 
 # 1f6dba815d0b481490c006a0f13dd583
 #: ../../DGM.rst:491
 msgid "Mutant's Prey"
-msgstr ""
+msgstr "Mutant's Prey (Zdobycz Mutanta)"
 
 # f446ee7c078a46808450d555a026e706
 #: ../../DGM.rst:490
@@ -1348,7 +1348,7 @@ msgstr ""
 # ae9719bb7a474a4cb74ddc824527dbe0
 #: ../../DGM.rst:497
 msgid "Nivix Cyclops"
-msgstr ""
+msgstr "Nivix Cyclops (Cyklop z Nivix)"
 
 # e7e9ff06a2ce41a897c6fcf2cf103879
 #: ../../DGM.rst:496
@@ -1360,7 +1360,7 @@ msgstr ""
 # ad8376698fdc4c26b979777cc92eae96
 #: ../../DGM.rst:503
 msgid "Notion Thief"
-msgstr ""
+msgstr "Notion Thief (Złodziej Poglądów)"
 
 # 9a71eec083824557b6587b0ef3dae1df
 # cd4b57cdae7b414b80b155401de69bc8
@@ -1380,7 +1380,7 @@ msgstr ""
 # db2dff3f5c8a475cabcf1b640db7976f
 #: ../../DGM.rst:507
 msgid "Obzedat's Aid"
-msgstr ""
+msgstr "Obzeadt's Aid (Pomoc Obzedata)"
 
 # bc6c32faed6246248f207d0179320b73
 #: ../../DGM.rst:506
@@ -1548,7 +1548,7 @@ msgstr ""
 # ddc194a8ce10447783d299ae1e894f9b
 #: ../../DGM.rst:569
 msgid "Putrefy"
-msgstr ""
+msgstr "Putrefy (Zgnicie)"
 
 # 72a442b92de846dbacebb390467a83f6
 #: ../../DGM.rst:568
@@ -1769,7 +1769,7 @@ msgstr ""
 # 1a2ebd5603714860a700176e24e0387b
 #: ../../DGM.rst:663
 msgid "Runner's Bane"
-msgstr ""
+msgstr "Runner's Bane (Zmora Biegacza)"
 
 # 1e2cb46da345460982e95c60ed633179
 #: ../../DGM.rst:658
@@ -1790,7 +1790,7 @@ msgstr ""
 # a884a76b5ed24061ac643b014c608532
 #: ../../DGM.rst:671
 msgid "Ruric Thar, the Unbowed"
-msgstr ""
+msgstr "Ruric Thar, the Unbowed (Ruric Thar, Nieugięty)"
 
 # a10f3c7889094fdba21dc78f72f5118d
 #: ../../DGM.rst:666
@@ -2363,9 +2363,8 @@ msgstr "Zniszcz wskazany artefakt."
 
 # 74374413a10945e7b611957d292c948a
 #: ../../DGM.rst:895
-#, fuzzy
 msgid "Alive // Well (Well)"
-msgstr "Alive // Well [Well]"
+msgstr "Alive // Well [Well] (Cały//Zdrowy [Zdrowy])"
 
 # f7404a2c4a454941a8c8288b1c886ae6
 #: ../../DGM.rst:892
