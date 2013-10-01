@@ -89,11 +89,9 @@ Azorius Arrester
 
 
 Azorius Charm
-    Choose one — Creatures you control gain lifelink until end of turn
-
-     or draw a card
-
-     or put target attacking or blocking creature on top of its owner's library.
+    Choose one — Creatures you control gain lifelink until end of turn;
+    or draw a card;
+    or put target attacking or blocking creature on top of its owner's library.
 
 
 Azorius Guildgate
@@ -467,11 +465,9 @@ Goblin Rally
 
 
 Golgari Charm
-    Choose one — All creatures get -1/-1 until end of turn
-
-     or destroy target enchantment
-
-     or regenerate each creature you control.
+    Choose one — All creatures get -1/-1 until end of turn;
+    or destroy target enchantment;
+    or regenerate each creature you control.
 
 
 Golgari Decoy
@@ -601,11 +597,9 @@ Isperia's Skywatch
 
 
 Izzet Charm
-    Choose one — Counter target noncreature spell unless its controller pays |mana_2|
-
-     or Izzet Charm deals 2 damage to target creature
-
-     or draw two cards, then discard two cards.
+    Choose one — Counter target noncreature spell unless its controller pays |mana_2|;
+    or Izzet Charm deals 2 damage to target creature;
+    or draw two cards, then discard two cards.
 
 
 Izzet Guildgate
@@ -867,11 +861,9 @@ Rakdos Cackler
 
 
 Rakdos Charm
-    Choose one — Exile all cards from target player's graveyard
-
-     or destroy target artifact
-
-     or each creature deals 1 damage to its controller.
+    Choose one — Exile all cards from target player's graveyard;
+    or destroy target artifact;
+    or each creature deals 1 damage to its controller.
 
 
 Rakdos Guildgate
@@ -989,11 +981,10 @@ Seek the Horizon
 
 
 Selesnya Charm
-    Choose one — Target creature gets +2/+2 and gains trample until end of turn
-
-     or exile target creature with power 5 or greater
-
-     or put a 2/2 white Knight creature token with vigilance onto the battlefield.
+    Choose one — Target creature gets +2/+2 and gains trample until end of
+    turn;
+    or exile target creature with power 5 or greater;
+    or put a 2/2 white Knight creature token with vigilance onto the battlefield.
 
 
 Selesnya Guildgate

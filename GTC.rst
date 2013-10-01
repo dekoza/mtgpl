@@ -135,11 +135,9 @@ Borborygmos Enraged
 
 
 Boros Charm
-    Choose one — Boros Charm deals 4 damage to target player
-
-     or permanents you control gain indestructible until end of turn
-
-     or target creature gains double strike until end of turn.
+    Choose one — Boros Charm deals 4 damage to target player;
+    or permanents you control gain indestructible until end of turn;
+    or target creature gains double strike until end of turn.
 
 
 Boros Elite
@@ -193,11 +191,9 @@ Cinder Elemental
 
 
 Clan Defiance
-    Choose one or more — Clan Defiance deals X damage to target creature with flying
-
-     Clan Defiance deals X damage to target creature without flying
-
-     and/or Clan Defiance deals X damage to target player.
+    Choose one or more — Clan Defiance deals X damage to target creature with flying;
+    Clan Defiance deals X damage to target creature without flying;
+    and/or Clan Defiance deals X damage to target player.
 
 
 Clinging Anemones
@@ -299,11 +295,9 @@ Diluvian Primordial
 
 
 Dimir Charm
-    Choose one — Counter target sorcery spell
-
-     or destroy target creature with power 2 or less
-
-     or look at the top three cards of target player's library, then put one back and the rest into that player's graveyard.
+    Choose one — Counter target sorcery spell;
+    or destroy target creature with power 2 or less;
+    or look at the top three cards of target player's library, then put one back and the rest into that player's graveyard.
 
 
 Dimir Guildgate
@@ -509,11 +503,9 @@ Ground Assault
 
 
 Gruul Charm
-    Choose one — Creatures without flying can't block this turn
-
-     or gain control of all permanents you own
-
-     or Gruul Charm deals 3 damage to each creature with flying.
+    Choose one — Creatures without flying can't block this turn;
+    or gain control of all permanents you own;
+    or Gruul Charm deals 3 damage to each creature with flying.
 
 
 Gruul Guildgate
@@ -717,13 +709,10 @@ Mental Vapors
 
 
 Merciless Eviction
-    Choose one — Exile all artifacts
-
-     or exile all creatures
-
-     or exile all enchantments
-
-     or exile all planeswalkers.
+    Choose one — Exile all artifacts;
+    or exile all creatures;
+    or exile all enchantments;
+    or exile all planeswalkers.
 
 
 Merfolk of the Depths
@@ -835,11 +824,9 @@ Ordruun Veteran
 
 
 Orzhov Charm
-    Choose one — Return target creature you control and all Auras you control attached to it to their owner's hand
-
-     or destroy target creature and you lose life equal to its toughness
-
-     or return target creature card with converted mana cost 1 or less from your graveyard to the battlefield.
+    Choose one — Return target creature you control and all Auras you control attached to it to their owner's hand;
+    or destroy target creature and you lose life equal to its toughness;
+    or return target creature card with converted mana cost 1 or less from your graveyard to the battlefield.
 
 
 Orzhov Guildgate
@@ -1009,11 +996,9 @@ Signal the Clans
 
 
 Simic Charm
-    Choose one — Target creature gets +3/+3 until end of turn
-
-     or permanents you control gain hexproof until end of turn
-
-     or return target creature to its owner's hand.
+    Choose one — Target creature gets +3/+3 until end of turn;
+    or permanents you control gain hexproof until end of turn;
+    or return target creature to its owner's hand.
 
 
 Simic Fluxmage

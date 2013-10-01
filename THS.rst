@@ -161,13 +161,10 @@ Boulderfall
 Bow of Nylea
     Attacking creatures you control have deathtouch.
 
-    |mana_1| |mana_g|, |tap|: Choose one — Put a +1/+1 counter on target creature
-
-     or Bow of Nylea deals 2 damage to target creature with flying
-
-     or you gain 3 life
-
-     or put up to four target cards from your graveyard on the bottom of your library in any order.
+    |mana_1| |mana_g|, |tap|: Choose one — Put a +1/+1 counter on target creature;
+    or Bow of Nylea deals 2 damage to target creature with flying;
+    or you gain 3 life;
+    or put up to four target cards from your graveyard on the bottom of your library in any order.
 
 
 Breaching Hippocamp
