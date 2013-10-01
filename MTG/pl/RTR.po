@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 02:36+0200\n"
-"PO-Revision-Date: 2013-09-30 21:18+0200\n"
+"PO-Revision-Date: 2013-10-01 14:40+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380572284.318544\n"
+"X-POOTLE-MTIME: 1380634803.970183\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Abrupt Decay
@@ -159,7 +159,8 @@ msgstr ""
 
 #: Azorius Charm
 msgid "Choose one — Creatures you control gain lifelink until end of turn"
-msgstr "Wybierz jedno: Stwory, którymi władasz zyskują więź życia do końca tury"
+msgstr ""
+"Wybierz jedno — Stwory, którymi władasz zyskują więź życia do końca tury"
 
 msgid " or draw a card"
 msgstr " albo dobierz kartę"
@@ -346,10 +347,10 @@ msgstr ""
 
 #: Civic Saber
 msgid "Equipped creature gets +1/+0 for each of its colors."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+0 za każdy ze swoich kolorów."
 
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: Codex Shredder
 msgid ""

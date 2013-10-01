@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-02 03:12+0200\n"
-"PO-Revision-Date: 2013-09-30 21:43+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-10-01 15:09+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380573835.141600\n"
+"X-POOTLE-MTIME: 1380636587.619834\n"
 
 #. Please leave mana costs and tap symbol intact!
 #: Act of Treason
@@ -217,8 +217,8 @@ msgid ""
 "Battalion — Whenever Bomber Corps and at least two other creatures attack, "
 "Bomber Corps deals 1 damage to target creature or player."
 msgstr ""
-"Batalion: Ilekroć Bomber Corps i co najmniej dwa inne stwory atakują, Bomber "
-"Corps zadaje 1 obrażenie wskazanemu stworowi lub graczowi."
+"Batalion — Ilekroć Bomber Corps i co najmniej dwa inne stwory atakują, "
+"Bomber Corps zadaje 1 obrażenie wskazanemu stworowi lub graczowi."
 
 #: Borborygmos Enraged Crowned Ceratok Ghor-Clan Rampager Giant Adephage
 #: Skarrg Goliath
@@ -243,7 +243,7 @@ msgstr ""
 
 #: Boros Charm
 msgid "Choose one — Boros Charm deals 4 damage to target player"
-msgstr "Wybierz jedno: Boros Charm zadaje wskazanemu graczowi 4 obrażenia"
+msgstr "Wybierz jedno — Boros Charm zadaje wskazanemu graczowi 4 obrażenia"
 
 msgid " or permanents you control gain indestructible until end of turn"
 msgstr ""
@@ -251,14 +251,14 @@ msgstr ""
 "tury"
 
 msgid " or target creature gains double strike until end of turn."
-msgstr ""
+msgstr " albo wskazany stwór dostaje podwójny cios do końca tury."
 
 #: Boros Elite
 msgid ""
 "Battalion — Whenever Boros Elite and at least two other creatures attack, "
 "Boros Elite gets +2/+2 until end of turn."
 msgstr ""
-"Batalion: Ilekroć Boros Elite i co najmniej dwa inne stwory atakują, Boros "
+"Batalion — Ilekroć Boros Elite i co najmniej dwa inne stwory atakują, Boros "
 "Elite zyskuje +2/+2 do końca tury."
 
 #: Boros Guildgate
@@ -350,14 +350,14 @@ msgid ""
 "Choose one or more — Clan Defiance deals X damage to target creature with "
 "flying"
 msgstr ""
-"Wybierz jedno lub więcej: Clan Defiance zadaje X obrażeń wskazanemu stworowi "
-"z lataniem"
+"Wybierz jedno lub więcej — Clan Defiance zadaje X obrażeń wskazanemu "
+"stworowi z lataniem"
 
 msgid " Clan Defiance deals X damage to target creature without flying"
-msgstr ""
+msgstr " Clan Defiance zadaje X obrażeń wskazanemu stworowi z lataniem"
 
 msgid " and/or Clan Defiance deals X damage to target player."
-msgstr ""
+msgstr " i/lub Cland Defiance zadaje X obrażeń wskazanemu graczowi."
 
 #: Coerced Confession
 msgid ""
@@ -438,7 +438,7 @@ msgid ""
 "Battalion — Whenever Daring Skyjek and at least two other creatures attack, "
 "Daring Skyjek gains flying until end of turn."
 msgstr ""
-"Batalion: Ilekroć Daring Skyjek i co najmniej dwa inne stwory atakują, "
+"Batalion — Ilekroć Daring Skyjek i co najmniej dwa inne stwory atakują, "
 "Daring Skyjek dostaje latanie do końca tury."
 
 #: Deathcult Rogue
@@ -486,15 +486,18 @@ msgstr ""
 
 #: Dimir Charm
 msgid "Choose one — Counter target sorcery spell"
-msgstr "Wybierz jedno: Skontruj wskazany czar obrzędu"
+msgstr "Wybierz jedno — Skontruj wskazany czar obrzędu"
 
 msgid " or destroy target creature with power 2 or less"
-msgstr ""
+msgstr " albo zniszcz wskazanego stwora o sile 2 lub mniejszej"
 
 msgid ""
 " or look at the top three cards of target player's library, then put one "
 "back and the rest into that player's graveyard."
 msgstr ""
+" albo spójrz na trzy wierzchnie karty biblioteki wskazanego gracza, "
+"następnie połóż jedną z powrotem, a pozostałe umieść w cmentarzu owego "
+"gracza."
 
 #: Dimir Guildgate
 msgid "Dimir Guildgate enters the battlefield tapped."
@@ -622,7 +625,7 @@ msgid ""
 "Battalion — Whenever Firefist Striker and at least two other creatures "
 "attack, target creature can't block this turn."
 msgstr ""
-"Batalion: Ilekroć Firefist Striker i co najmniej dwa inne stwory atakują, "
+"Batalion — Ilekroć Firefist Striker i co najmniej dwa inne stwory atakują, "
 "wskazany stwór nie może blokować w tej turze."
 
 msgid ""
@@ -630,7 +633,7 @@ msgid ""
 "attack, Firemane Avenger deals 3 damage to target creature or player and you "
 "gain 3 life."
 msgstr ""
-"Batalion: Ilekroć Firemane Avenger i co najmniej dwa inne stwory atakują, "
+"Batalion — Ilekroć Firemane Avenger i co najmniej dwa inne stwory atakują, "
 "Firemane Avenger zadaje 3 obrażenia wskazanemu stworowi lub graczowi, a ty "
 "zyskujesz 3 życia."
 
@@ -704,7 +707,7 @@ msgid ""
 "Battalion — Whenever Frontline Medic and at least two other creatures "
 "attack, creatures you control gain indestructible until end of turn."
 msgstr ""
-"Batalion: Ilekroć Frontline Medic i co najmniej dwa inne stwory atakują, "
+"Batalion — Ilekroć Frontline Medic i co najmniej dwa inne stwory atakują, "
 "stwory, którymi władasz zyskują niezniszczalność do końca tury."
 
 msgid ""
@@ -821,7 +824,7 @@ msgstr ""
 
 #: Gruul Charm
 msgid "Choose one — Creatures without flying can't block this turn"
-msgstr "Wybierz jedno: Stwory bez latania nie mogą blokować w tej turze"
+msgstr "Wybierz jedno — Stwory bez latania nie mogą blokować w tej turze"
 
 msgid " or gain control of all permanents you own"
 msgstr " albo przejmij kontrolę nad wszystkimi własnymi stałkami"
@@ -1091,7 +1094,7 @@ msgstr ""
 
 #: Merciless Eviction
 msgid "Choose one — Exile all artifacts"
-msgstr "Wybierz jedno: Wypędź wszystkie artefakty"
+msgstr "Wybierz jedno — Wypędź wszystkie artefakty"
 
 msgid " or exile all creatures"
 msgstr " albo wypędź wszystkie stwory"
@@ -1610,6 +1613,8 @@ msgid ""
 "|mana_2| |mana_r| |mana_w|: Put a 1/1 red and white Soldier creature token with haste onto "
 "the battlefield."
 msgstr ""
+"|mana_2| |mana_r| |mana_w|: Połóż na polu walki żeton czerwono-białego "
+"stwora Piechur 1/1 z pośpiechem."
 
 #: Sylvan Primordial
 msgid "Reach"

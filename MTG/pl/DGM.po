@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-28 21:23\n"
-"PO-Revision-Date: 2013-09-30 21:45+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-10-01 15:08+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380573956.559498\n"
+"X-POOTLE-MTIME: 1380636520.948646\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
 #: ../../DGM.rst:5
@@ -387,7 +387,7 @@ msgstr "Boros Mastiff"
 #: ../../DGM.rst:124
 msgid "Battalion — Whenever Boros Mastiff and at least two other creatures attack, Boros Mastiff gains lifelink until end of turn. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)"
 msgstr ""
-"Batalion: Ilekroć Boros Mastiff i przynajmniej dwa inne stwory atakują, "
+"Batalion — Ilekroć Boros Mastiff i przynajmniej dwa inne stwory atakują, "
 "Boros Mastiff zyskuje więź życia do końca tury. (Obrażenia zadane przez "
 "stwora z więzią życia powodują, że jego władca zyskuje tyle samo życia.)"
 
@@ -822,7 +822,7 @@ msgstr "Ilekroć stwór, którym władasz, atakuje, połóż na nim znacznik +1/
 # ff98f15a2f4d4ed291024444aca243ec
 #: ../../DGM.rst:299
 msgid "Goblin Test Pilot"
-msgstr ""
+msgstr "Goblin Test Pilot (Goblin Oblatywacz)"
 
 # 789de73a4974464ea9bbcf2ea5b4d08a
 #: ../../DGM.rst:298
@@ -845,7 +845,6 @@ msgstr "|tap|: Dodaj |mana_b| lub |mana_g| do twojej puli many."
 
 # 1ccf3f3659284404a60ec48e70027443
 #: ../../DGM.rst:304
-#, fuzzy
 msgid "|mana_b| |mana_g|, |tap|, Sacrifice Golgari Cluestone: Draw a card."
 msgstr "|mana_b| |mana_g|, |tap|, poświęć Golgari Cluestone: Dobierz kartę."
 
@@ -1065,7 +1064,7 @@ msgstr "|mana_5| |mana_g|: Kraul Warrior dostaje +3/+3 do końca tury."
 # 5b23301aa18c420696f62fdd9a029762
 #: ../../DGM.rst:389
 msgid "Lavinia of the Tenth"
-msgstr ""
+msgstr "Lavinia of the Tenth (Lavinia z Dziesiątego)"
 
 # 50954261c92d41ec8ae9c7ee355f704a
 #: ../../DGM.rst:386
@@ -1489,7 +1488,6 @@ msgstr "Possibility Storm (Burza Możliwości)"
 
 # ad27e8649b994749a69f1e496f590dbc
 #: ../../DGM.rst:544
-#, fuzzy
 msgid "Whenever a player casts a spell from his or her hand, that player exiles it, then exiles cards from the top of his or her library until he or she exiles a card that shares a card type with it. That player may cast that card without paying its mana cost. Then he or she puts all cards exiled with Possibility Storm on the bottom of his or her library in a random order."
 msgstr ""
 "Ilekroć gracz rzuca czar z ręki, ów gracz wypędza go, następnie wypędza "
@@ -2063,7 +2061,7 @@ msgstr "Niezniszczalność"
 #: ../../DGM.rst:772
 msgid "Battalion — Whenever Tajic, Blade of the Legion and at least two other creatures attack, Tajic gets +5/+5 until end of turn."
 msgstr ""
-"Batalion: Ilekroś Tajic, Blade of the Legion i przynajmniej dwa inne stwory "
+"Batalion — Ilekroś Tajic, Blade of the Legion i przynajmniej dwa inne stwory "
 "atakują, Tajic dostaje +5/+5 do końca tury."
 
 # 58a465c7d95146eea5657425b6ce96af
