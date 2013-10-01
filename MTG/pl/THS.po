@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-22 19:35\n"
-"PO-Revision-Date: 2013-09-30 21:15+0200\n"
+"PO-Revision-Date: 2013-10-01 15:05+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380572139.795791\n"
+"X-POOTLE-MTIME: 1380636320.910679\n"
 
 # 887ff143b14348b2b7b52aec3a556c81
 #: ../../THS.rst:6
@@ -107,7 +107,7 @@ msgstr "Dotyk śmierci"
 #: ../../THS.rst:23
 msgid "Heroic — Whenever you cast a spell that targets Agent of the Fates, each opponent sacrifices a creature."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Agent of the Fates, każdy z "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Agent of the Fates, każdy z "
 "przeciwników poświęca stwora."
 
 # f24e533482e54aaa870a95586fd67bb3
@@ -120,7 +120,7 @@ msgstr "Akroan Crusader"
 #: ../../THS.rst:27
 msgid "Heroic — Whenever you cast a spell that targets Akroan Crusader, put a 1/1 red Soldier creature token with haste onto the battlefield."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Akroan Crusader, połóż na polu "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Akroan Crusader, połóż na polu "
 "walki żeton czerwonego stwora Soldier 1/1 z pośpiechem."
 
 # 13074b861ea74113ae2acf5503b4e8a0
@@ -182,8 +182,8 @@ msgstr "Pierwszy cios, czujność"
 #: ../../THS.rst:45
 msgid "Heroic — Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Anax and Cymede, stwory, którymi "
-"władasz, dostają +1/+1 oraz tratowanie do końca tury."
+"Heroizm — Ilekroć rzucasz czar wskazujący na Anax and Cymede, stwory, "
+"którymi władasz, dostają +1/+1 oraz tratowanie do końca tury."
 
 # 4c28fa27f5cd43f28819514d1c4515f6
 #: ../../THS.rst:50
@@ -220,8 +220,8 @@ msgstr "Anthousa, Setessan Hero"
 #: ../../THS.rst:57
 msgid "Heroic — Whenever you cast a spell that targets Anthousa, Setessan Hero, up to three target lands you control each become 2/2 Warrior creatures until end of turn. They're still lands."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Anthousa, Setessan Hero, każdy z "
-"najwyżej trzech wskazanych lądów, którymi władasz, staje się stworem "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Anthousa, Setessan Hero, każdy "
+"z najwyżej trzech wskazanych lądów, którymi władasz, staje się stworem "
 "Warrior 2/2 i nadal pozostaje lądem."
 
 # 56dcaaa31445414ea8aeb2cbb12f01b2
@@ -326,7 +326,7 @@ msgstr "Arena Athlete"
 #: ../../THS.rst:81
 msgid "Heroic — Whenever you cast a spell that targets Arena Athlete, target creature an opponent controls can't block this turn."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Arena Athlete, wskazany stwór, "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Arena Athlete, wskazany stwór, "
 "którym włada przeciwnik, nie może blokować w tej turze."
 
 # 83475f6993b6474cade2dc1e96d7ceb4
@@ -339,7 +339,7 @@ msgstr "Artisan of Forms"
 #: ../../THS.rst:85
 msgid "Heroic — Whenever you cast a spell that targets Artisan of Forms, you may have Artisan of Forms become a copy of target creature and gain this ability."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Artisan of Forms, możesz "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Artisan of Forms, możesz "
 "sprawić, by Artisan of Forms stał się kopią wskazanego stwora i otrzymał tę "
 "zdolność."
 
@@ -442,7 +442,7 @@ msgstr "Battlewise Hoplite"
 #: ../../THS.rst:119
 msgid "Heroic — Whenever you cast a spell that targets Battlewise Hoplite, put a +1/+1 counter on Battlewise Hoplite, then scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Battlewise Hoplite, połóż "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Battlewise Hoplite, połóż "
 "znacznik +1/+1 na Battlewise Hoplite, a następnie wróż 1. (By wróżyć 1, "
 "spójrz na wierzchnią kartę swojej bilbioteki, następnie możesz położyć tę "
 "kartę na spodzie swojej biblioteki.)"
@@ -576,7 +576,7 @@ msgstr "Atakujące stwory, którymi władasz, mają dotyk śmierci."
 #: ../../THS.rst:165
 msgid "|mana_1| |mana_g|, |tap|: Choose one — Put a +1/+1 counter on target creature"
 msgstr ""
-"|mana_1| |mana_g|, |tap|: Wybierz jedno: Połóż znacznik +1/+1 na wskazanym "
+"|mana_1| |mana_g|, |tap|: Wybierz jedno — Połóż znacznik +1/+1 na wskazanym "
 "stworze"
 
 # b2831fb089e947c7ad388de11df6cd35
@@ -707,8 +707,8 @@ msgstr "Centaur Battlemaster"
 #: ../../THS.rst:211
 msgid "Heroic — Whenever you cast a spell that targets Centaur Battlemaster, put three +1/+1 counters on Centaur Battlemaster."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Centaur Battlemaster, połóż trzy "
-"znaczniki +1/+1 na Centaur Battlemaster."
+"Heroizm — Ilekroć rzucasz czar wskazujący na Centaur Battlemaster, połóż "
+"trzy znaczniki +1/+1 na Centaur Battlemaster."
 
 # 015da7e72db642009c1b281419588c75
 #: ../../THS.rst:218
@@ -1024,7 +1024,8 @@ msgstr "Kiedy Dragon Mantle wchodzi na pole walki, dobierz kartę."
 # c5fbb69e81354e35987cb1a6251c7863
 #: ../../THS.rst:321
 msgid "Enchanted creature has \\\"|mana_r|: This creature gets +1/+0 until end of turn.\\\""
-msgstr "Zauroczony stwór ma \"|mana_r|: Ten stwór dostaje +1/+0 do końca tury.\""
+msgstr ""
+"Zauroczony stwór ma \\\"|mana_r|: Ten stwór dostaje +1/+0 do końca tury.\\\""
 
 # 8f9b83a6da5e4be08ee1b038696977ed
 #: ../../THS.rst:330
@@ -1171,7 +1172,7 @@ msgstr "Podwójny cios"
 #: ../../THS.rst:367
 msgid "Heroic — Whenever you cast a spell that targets Fabled Hero, put a +1/+1 counter on Fabled Hero."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący Fabled Hero, połóż znacznik +1/+1 "
+"Heroizm — Ilekroć rzucasz czar wskazujący Fabled Hero, połóż znacznik +1/+1 "
 "na Fabled Hero."
 
 # dd12b60b8dc448feb494e40419bedbc7
@@ -1225,7 +1226,7 @@ msgstr "Favored Hoplite"
 #: ../../THS.rst:387
 msgid "Heroic — Whenever you cast a spell that targets Favored Hoplite, put a +1/+1 counter on Favored Hoplite and prevent all damage that would be dealt to it this turn."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący Favored Hoplite, połóż znacznik "
+"Heroizm — Ilekroć rzucasz czar wskazujący Favored Hoplite, połóż znacznik "
 "+1/+1 na Favored Hoplite i zapobiegnij wszystkim obrażeniom, które mogłyby "
 "mu być zadane w tej turze."
 
@@ -1733,7 +1734,7 @@ msgstr "Labyrinth Champion"
 #: ../../THS.rst:569
 msgid "Heroic — Whenever you cast a spell that targets Labyrinth Champion, Labyrinth Champion deals 2 damage to target creature or player."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Labyrinth Champion, Labyrinth "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Labyrinth Champion, Labyrinth "
 "Champion zadaje wskazanemu stworowi lub graczowi 2 obrażenia."
 
 # 60a3e2e44f674daa873a71680f22af71
@@ -2353,8 +2354,8 @@ msgstr "Phalanx Leader"
 #: ../../THS.rst:799
 msgid "Heroic — Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar, który wskazuje Phalanx Leader, połóż znacznik "
-"+1/+1 na każdym stworze, którym władasz."
+"Heroizm — Ilekroć rzucasz czar, który wskazuje Phalanx Leader, połóż "
+"znacznik +1/+1 na każdym stworze, którym władasz."
 
 # e8748fbd05b74b068cc0ac02078f2a7d
 #: ../../THS.rst:804
@@ -2904,7 +2905,7 @@ msgstr "Setessan Battle Priest"
 #: ../../THS.rst:991
 msgid "Heroic — Whenever you cast a spell that targets Setessan Battle Priest, you gain 2 life."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Setessan Battle Priest, "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Setessan Battle Priest, "
 "zyskujesz 2 życia."
 
 # 79ec79f4b19b4717b2357120b29e974f
@@ -3082,7 +3083,7 @@ msgstr "Staunch-Hearted Warrior"
 #: ../../THS.rst:1057
 msgid "Heroic — Whenever you cast a spell that targets Staunch-Hearted Warrior, put two +1/+1 counters on Staunch-Hearted Warrior."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Staunch-Hearted Warrior, połóż "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Staunch-Hearted Warrior, połóż "
 "dwa znaczniki +1/+1 na Staunch-Hearted Warrior."
 
 # 57a9ac30fa4f4cb9a82edd88b7f0916e
@@ -3437,8 +3438,8 @@ msgstr "Tormented Hero wchodzi na pole walki zaznaczony."
 #: ../../THS.rst:1179
 msgid "Heroic — Whenever you cast a spell that targets Tormented Hero, each opponent loses 1 life. You gain life equal to the life lost this way."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Tormented Hero, każdy przeciwnik "
-"traci 1 życie. Zyskujesz tyle życia, ile stracono w ten sposób."
+"Heroizm — Ilekroć rzucasz czar wskazujący na Tormented Hero, każdy "
+"przeciwnik traci 1 życie. Zyskujesz tyle życia, ile stracono w ten sposób."
 
 # 5d375d4e9e8549b29538940fbd741180
 #: ../../THS.rst:1184
@@ -3494,7 +3495,7 @@ msgstr "Triton Fortune Hunter"
 #: ../../THS.rst:1199
 msgid "Heroic — Whenever you cast a spell that targets Triton Fortune Hunter, draw a card."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Triton Fortune Hunter, dobierz "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Triton Fortune Hunter, dobierz "
 "kartę."
 
 # 0f0947af323848c7ac7f7774b4e39c61
@@ -3673,7 +3674,7 @@ msgstr "Wavecrash Triton"
 #: ../../THS.rst:1267
 msgid "Heroic — Whenever you cast a spell that targets Wavecrash Triton, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Wavecrash Triton, zaznacz "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Wavecrash Triton, zaznacz "
 "wskazanego stwora, którym włada przeciwnik. Ów stwór nie odznacza się "
 "podczas następnego kroku odznaczania jego władcy."
 
@@ -3720,7 +3721,7 @@ msgstr ""
 #: ../../THS.rst:1283
 msgid "Heroic — Whenever you cast a spell that targets Wingsteed Rider, put a +1/+1 counter on Wingsteed Rider."
 msgstr ""
-"Heroizm: Ilekroć rzucasz czar wskazujący na Wingsteed Rider, połóż znacznik "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Wingsteed Rider, połóż znacznik "
 "+1/+1 na Wingsteed Rider."
 
 # d94dbbce70424dcebf1fdda43cfd3f13
