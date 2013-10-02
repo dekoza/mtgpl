@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-02 15:48+0200\n"
+"PO-Revision-Date: 2013-10-02 16:36+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380725291.788153\n"
+"X-POOTLE-MTIME: 1380728209.367120\n"
 
 # 8f7974d7a6914bf581174be80fc2157b
 #: ../../RTR.rst:5
@@ -340,6 +340,9 @@ msgstr ""
 #: ../../RTR.rst:92
 msgid "Choose one — Creatures you control gain lifelink until end of turn; or draw a card; or put target attacking or blocking creature on top of its owner's library."
 msgstr ""
+"Wybierz jedno — Stwory, którymi władasz zyskują więź życia do końca tury; "
+"albo dobierz kartę; albo połóż wskazanego atakującego lub blokującego stwora "
+"na wierzchu biblioteki jego właściciela."
 
 # 4f00835eeba842c491db7f4a17d8ce76
 #: ../../RTR.rst:101
@@ -635,6 +638,8 @@ msgstr ""
 #: ../../RTR.rst:202
 msgid "Lands you control have \\\"|tap|: Add one mana of any color to your mana pool.\\\""
 msgstr ""
+"Lądy, którymi władasz mają \\\"|tap|: Dodaj jedną manę dowolnego koloru do "
+"twojej puli many.\\\""
 
 # 4a394130b14146fc8b41a6fd41f7221f
 # 95677222ef7549af8469734355e93960
@@ -645,8 +650,9 @@ msgstr "|tap|: Dodaj jedną manę dowolnego koloru do twojej puli many."
 
 # e8add1eaf98a46c58a4e7ef7ce04a810
 #: ../../RTR.rst:211
+#, fuzzy
 msgid "Chronic Flooding"
-msgstr ""
+msgstr "Chronic Flooding (Tereny Powodziowe)"
 
 # 3c800a606e344c81b34bede36ec88402
 # b877d97c404b4b8ba83ed21ba90ee99f
@@ -697,11 +703,15 @@ msgstr ""
 #: ../../RTR.rst:224
 msgid "|tap|: Target player puts the top card of his or her library into his or her graveyard."
 msgstr ""
+"|tap|: Wskazany gracz wkłada górną kartę ze swojej biblioteki do swojego "
+"cmentarza."
 
 # a498ded2d1664a02a971887b7423a074
 #: ../../RTR.rst:226
 msgid "|mana_5|, |tap|, Sacrifice Codex Shredder: Return target card from your graveyard to your hand."
 msgstr ""
+"|mana_5|, |tap|, poświęć Codex Shredder: Zwróć wskazaną kartę z twojego "
+"cmentarza do twojej ręki."
 
 # dfd4f38b35124768a104088a42a99f8a
 #: ../../RTR.rst:231
@@ -711,7 +721,7 @@ msgstr ""
 # a420499d271e41d28eaa82acba92c135
 #: ../../RTR.rst:230
 msgid "Creatures you control get +3/+3."
-msgstr ""
+msgstr "Stwory, którymi władasz dostają +3/+3."
 
 # 915dcfb6ce0e4aa384fe0a063e54763f
 #: ../../RTR.rst:237
@@ -723,7 +733,7 @@ msgstr ""
 #: ../../RTR.rst:234
 #: ../../RTR.rst:236
 msgid "Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "Połóż znacznik +1/+1 na wskazanym stworze."
 
 # 839d63b328e2460fb7072b357d119c4b
 #: ../../RTR.rst:241
@@ -733,12 +743,16 @@ msgstr ""
 # 1fd14b212a8a455f8c246a37657f15f6
 #: ../../RTR.rst:245
 msgid "Conjured Currency"
-msgstr ""
+msgstr "Conjured Currency (Fałszywa Waluta)"
 
 # 0cb18211f3df4c25ac17be7529bc9d5b
 #: ../../RTR.rst:244
+#, fuzzy
 msgid "At the beginning of your upkeep, you may exchange control of Conjured Currency and target permanent you neither own nor control."
 msgstr ""
+"Na początku twojego utrzymania możesz zamienić władanie nad Conjured "
+"Currency na władanie nad wskazaną stałką którą nie władasz i która nie jest "
+"twoją własnością."
 
 # 98c335bca3124d7dacd65a3fac973813
 #: ../../RTR.rst:249
@@ -749,6 +763,9 @@ msgstr ""
 #: ../../RTR.rst:248
 msgid "If one or more +1/+1 counters would be placed on a creature you control, twice that many +1/+1 counters are placed on it instead."
 msgstr ""
+"Jeśli jeden lub więcej znaczników +1/+1 miałoby zostać położonych na "
+"stworze, którym władasz, zamiast tego zostanie ich położonych dwukrotnie "
+"więcej."
 
 # 66ef6bfe34ca49dfb9c40d8ec6290433
 #: ../../RTR.rst:257
@@ -789,7 +806,7 @@ msgstr ""
 # 9c69f9663d5e4dfeb3df8d57aa3d4aea
 #: ../../RTR.rst:267
 msgid "Cremate"
-msgstr ""
+msgstr "Cremate (Kremacja)"
 
 # 9b1804464ac44b89bab8f8edcda4a2c0
 #: ../../RTR.rst:264
@@ -801,7 +818,7 @@ msgstr "Wypędź wskazaną kartę z cmentarza."
 #: ../../RTR.rst:266
 #: ../../RTR.rst:576
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 # 0d3cb3ae6895489681f940b1e7a64197
 #: ../../RTR.rst:271
@@ -854,6 +871,8 @@ msgstr ""
 #: ../../RTR.rst:1209
 msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
 msgstr ""
+"Więź życia (Obrażenia zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo życia.)"
 
 # 122893e7c49a4e26aa5efb2cf716b6f8
 #: ../../RTR.rst:295
@@ -864,6 +883,8 @@ msgstr ""
 #: ../../RTR.rst:294
 msgid "When Dark Revenant dies, put it on top of its owner's library."
 msgstr ""
+"Kiedy Dark Revenant umiera, połóż go na wierzchu biblioteki jego "
+"właściciela."
 
 # 94acef74196f427ab80bdb02813dccc7
 #: ../../RTR.rst:299
@@ -918,6 +939,8 @@ msgstr ""
 #: ../../RTR.rst:314
 msgid "Whenever a creature you control dies, put X +1/+1 counters on target creature you control, where X is the power of the creature that died."
 msgstr ""
+"Ilekroć umiera stwór, którym władasz, połóż na wskazanym władanym przez "
+"siebie stworze tyle znaczników +1/+1, ile wynosi siła owego zmarłego stwora."
 
 # d8e2f84902e343259459573ab9f8a28c
 #: ../../RTR.rst:321
@@ -948,11 +971,16 @@ msgstr ""
 #: ../../RTR.rst:328
 msgid "When Detention Sphere enters the battlefield, you may exile target nonland permanent not named Detention Sphere and all other permanents with the same name as that permanent."
 msgstr ""
+"Kiedy Detention Sphere wchodzi na pole walki, możesz wypędzić wskazaną "
+"nielądową stałkę o nazwie innej niż Detention Sphere oraz wszystkie inne "
+"stałki o takiej samej nazwie jak owa stałka."
 
 # fa362a96ae374f1dbc033a11f1bfe521
 #: ../../RTR.rst:330
 msgid "When Detention Sphere leaves the battlefield, return the exiled cards to the battlefield under their owner's control."
 msgstr ""
+"Kiedy Detention Sphere opuszcza pole walki, zwróć wypędzone karty na pole "
+"walki pod władaniem ich właścicieli."
 
 # a05ad1b5f9d94c8e916677acf2090596
 #: ../../RTR.rst:337
@@ -963,6 +991,8 @@ msgstr ""
 #: ../../RTR.rst:336
 msgid "Enchanted creature gets +2/+1 and has \\\"|mana_r|: This creature gains trample until end of turn.\\\""
 msgstr ""
+"Zauroczony stwór dostaje +2/+1 i ma \\\"|mana_r|: Ten stwór zyskuje tratowanie "
+"do końca tury.\\\""
 
 # 0133174461df466bb103771d7e3e9888
 #: ../../RTR.rst:341
@@ -977,7 +1007,7 @@ msgstr "Skontruj wskazany czar sztuczki."
 # 3a65c19f1efb40aab6fc645fc27f007e
 #: ../../RTR.rst:347
 msgid "Doorkeeper"
-msgstr ""
+msgstr "Doorkeeper (Odźwierny)"
 
 # 46698778d3a143b394d1ab0a0173c229
 #: ../../RTR.rst:346
@@ -990,12 +1020,12 @@ msgstr ""
 # bdb4297331454baab49e3707c59057c9
 #: ../../RTR.rst:353
 msgid "Downsize"
-msgstr ""
+msgstr "Downsize (Pomniejszenie)"
 
 # ee5cb313e7af4b3798f135271bff1824
 #: ../../RTR.rst:350
 msgid "Target creature you don't control gets -4/-0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór, którym nie władasz dostaje -4/-0 do końca tury."
 
 # d800461f870147d69c7ea173488d5f53
 #: ../../RTR.rst:352
@@ -1023,7 +1053,7 @@ msgstr ""
 # d633e714edc04c4f89d66034dedde147
 #: ../../RTR.rst:360
 msgid "Return target creature to its owner's hand. You gain 2 life."
-msgstr ""
+msgstr "Zwróć wskazanego stwora do ręki jego właściciela. Zyskujesz 2 życia."
 
 # 26880a7ae7534cfb9d8443b3260e7314
 #: ../../RTR.rst:365
@@ -1033,7 +1063,7 @@ msgstr ""
 # 9f41b84c64e249ab88685c49f043a63b
 #: ../../RTR.rst:364
 msgid "Destroy target creature or planeswalker."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub wędrowca."
 
 # e797039d445942baa7668cc67e19085a
 #: ../../RTR.rst:371
@@ -1049,7 +1079,7 @@ msgstr ""
 #: ../../RTR.rst:894
 #: ../../RTR.rst:1181
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 # 690713d45c6741629ab7e263173ef70c
 #: ../../RTR.rst:370
@@ -1125,12 +1155,16 @@ msgstr ""
 # cc74bd71da9242088fee761a75ab08e1
 #: ../../RTR.rst:399
 msgid "Epic Experiment"
-msgstr ""
+msgstr "Epic Experiment (Epicki Eksperyment)"
 
 # bec8ae1911114ef0a0a943e56cf41bd0
 #: ../../RTR.rst:398
 msgid "Exile the top X cards of your library. For each instant and sorcery card with converted mana cost X or less among them, you may cast that card without paying its mana cost. Then put all cards exiled this way that weren't cast into your graveyard."
 msgstr ""
+"Wypędź X wierzchnich kart twojej biblioteki. Dla każdej karty sztuczki i "
+"obrzędu o łącznym koszcie many X lub mniej spośród nich, możesz rzucić ową "
+"kartę bez płacenia jej kosztu many. Następnie połóż do twojego cmentarza "
+"wszystkie karty wypędzone w ten sposób, które nie zostały rzucone."
 
 # e69663c034fc489687528a48fa0ecf94
 #: ../../RTR.rst:403
@@ -1141,6 +1175,8 @@ msgstr ""
 #: ../../RTR.rst:402
 msgid "Counter target creature spell. Essence Backlash deals damage equal to that spell's power to its controller."
 msgstr ""
+"Skontruj wskazany czar stwora. Essence Backlash zadaje władcy owego czaru "
+"tyle obrażeń, ile siły miał ów czar."
 
 # 36a2f915e7b84c8894bad956c91b7bb5
 #: ../../RTR.rst:409
@@ -1151,6 +1187,8 @@ msgstr ""
 #: ../../RTR.rst:408
 msgid "Enchanted creature gets +1/+1 for each enchantment you control and has first strike."
 msgstr ""
+"Zauroczony stwór ma pierwszy cios oraz dostaje +1/+1 za każdy urok, którym "
+"władasz."
 
 # 49c962b5fdf646c782ededf235a87bbe
 #: ../../RTR.rst:413
@@ -1160,7 +1198,7 @@ msgstr ""
 # 27b5ad18ed7141b9a6c861f3f655fa7c
 #: ../../RTR.rst:412
 msgid "Explosive Impact deals 5 damage to target creature or player."
-msgstr ""
+msgstr "Explosive Impact zadaje 5 obrażeń wskazanemu stworowi lub graczowi."
 
 # 42380de464f64ab4a1cb49281caa7ad1
 #: ../../RTR.rst:417
@@ -1193,7 +1231,7 @@ msgstr ""
 # 9dd6377872e9409eaeabc5cdc986b18f
 #: ../../RTR.rst:426
 msgid "Counter target spell. You gain 5 life."
-msgstr ""
+msgstr "Skontruj wskazany czar. Zyskujesz 5 punktów życia."
 
 # 1c84adffd1fb4d5ca0a3edcd31463042
 #: ../../RTR.rst:431
@@ -1223,7 +1261,7 @@ msgstr ""
 # 53253429e5ab43849f264b2f7848cf58
 #: ../../RTR.rst:438
 msgid "G"
-msgstr ""
+msgstr "|mana_g|"
 
 # 07be7ea3daba4f779bfe18c3505de6dd
 #: ../../RTR.rst:443
