@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-01 15:28+0200\n"
+"PO-Revision-Date: 2013-10-02 15:48+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380637682.761943\n"
+"X-POOTLE-MTIME: 1380725291.788153\n"
 
 # 8f7974d7a6914bf581174be80fc2157b
 #: ../../RTR.rst:5
@@ -25,7 +25,7 @@ msgstr "Return to Ravnica (Powrót do Ravniki)"
 # 1ac111dadb6843bebbe34014e7c492af
 #: ../../RTR.rst:11
 msgid "Abrupt Decay"
-msgstr ""
+msgstr "Abrupt Decay (Nagłe Przegnicie)"
 
 # a846963070e04dae961d9a8a35b784f1
 #: ../../RTR.rst:8
@@ -41,7 +41,7 @@ msgstr ""
 # d6c22d1caca14217a29f973f4c740e50
 #: ../../RTR.rst:15
 msgid "Aerial Predation"
-msgstr ""
+msgstr "Aerial Predation (Powietrzna Drapieżność)"
 
 # 7c9eee17b6284a79b2c51d64515277f8
 #: ../../RTR.rst:14
@@ -51,7 +51,7 @@ msgstr "Zniszcz wskazanego stwora z Lataniem. Zyskujesz 2 życia."
 # 09ac24452b954728b98cfebe634fcfe1
 #: ../../RTR.rst:23
 msgid "Angel of Serenity"
-msgstr ""
+msgstr "Angel of Serenity (Anioł Spokoju)"
 
 # 57f22b6910b345c5b2dbabc647c3134b
 # 7dca48718cd14591a781bd935f1b32b3
@@ -119,7 +119,7 @@ msgstr ""
 # f04da9089a2546059745c60f78cd12e2
 #: ../../RTR.rst:27
 msgid "Annihilating Fire"
-msgstr ""
+msgstr "Annihilating Fire (Unicestwiający Ogień)"
 
 # 0e3dcc27da2a422d84a696d2433624d2
 #: ../../RTR.rst:26
@@ -195,7 +195,7 @@ msgstr ""
 # 59a6f6ab238349b79369781d528cc142
 #: ../../RTR.rst:51
 msgid "Armory Guard"
-msgstr ""
+msgstr "Armory Guard (Strażnik Zbrojowni)"
 
 # 08c0237c672c417890e835e67fc87d77
 # A co tam, tłumaczymy też nazwy kart :D
@@ -206,7 +206,7 @@ msgstr "Strażnik Zbrojowni ma Czujność tak długo, jak długo kontrolujesz Br
 # cbb3f5236c404715934eb59e9a031eea
 #: ../../RTR.rst:57
 msgid "Arrest"
-msgstr ""
+msgstr "Arrest (Areszt)"
 
 # f9ef405da6f84ee0aad6a24261fe9b42
 # edfe4e0615794157992362b50e386618
@@ -512,6 +512,9 @@ msgstr "Zaznacz wskazanego stwora, którym nie władasz."
 #: ../../RTR.rst:150
 msgid "Overload |mana_3| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
 msgstr ""
+"Przeciążenie |mana_3| |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
+"\\\"wskazany\\\" na \\\"każdy.\\\")"
 
 # ba3fac4199d74adf8b46e37283753b33
 #: ../../RTR.rst:155
@@ -607,6 +610,9 @@ msgstr ""
 #: ../../RTR.rst:1171
 msgid "Overload |mana_3| |mana_u| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
 msgstr ""
+"Przeciążenie |mana_3| |mana_u| |mana_r| (Możesz rzucić czar po jego "
+"przeciążeniowym koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając "
+"wszystkie słowa \\\"wskazany\\\" na \\\"każdy.\\\")"
 
 # e066bd0fc17b4f36a75fe41130753cda
 #: ../../RTR.rst:199
@@ -763,6 +769,9 @@ msgstr "Skontruj wskazany czar, którym nie władasz."
 #: ../../RTR.rst:256
 msgid "Overload |mana_1| |mana_u| |mana_u| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
 msgstr ""
+"Przeciążenie |mana_1| |mana_u| |mana_u| |mana_r| (Możesz rzucić czar po jego "
+"przeciążeniowym koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając "
+"wszystkie słowa \\\"wskazany\\\" na \\\"każdy.\\\")"
 
 # 47cad80c6ff349a1a79a01d80dbc439b
 #: ../../RTR.rst:261
@@ -830,6 +839,9 @@ msgstr ""
 #: ../../RTR.rst:282
 msgid "Overload |mana_6| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
 msgstr ""
+"Przeciążenie |mana_6| |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
+"\\\"wskazany\\\" na \\\"każdy.\\\")"
 
 # 337896f965ef460d8c35768f1b370f09
 #: ../../RTR.rst:289
@@ -989,6 +1001,9 @@ msgstr ""
 #: ../../RTR.rst:352
 msgid "Overload |mana_2| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
 msgstr ""
+"Przeciążenie |mana_2| |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
+"\\\"wskazany\\\" na \\\"każdy.\\\")"
 
 # 447417b4d64443c192ed032afc618132
 #: ../../RTR.rst:357
@@ -1085,6 +1100,9 @@ msgstr ""
 #: ../../RTR.rst:388
 msgid "Overload |mana_2| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
 msgstr ""
+"Przeciążenie |mana_2| |mana_r| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
+"\\\"wskazany\\\" na \\\"każdy.\\\")"
 
 # 53c0eb7174e54c36ae7de42cbf31edd1
 #: ../../RTR.rst:395
@@ -1100,6 +1118,9 @@ msgstr ""
 #: ../../RTR.rst:394
 msgid "Overload |mana_1| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
 msgstr ""
+"Przeciążenie |mana_1| |mana_r| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
+"\\\"wskazany\\\" na \\\"każdy.\\\")"
 
 # cc74bd71da9242088fee761a75ab08e1
 #: ../../RTR.rst:399
@@ -1885,6 +1906,9 @@ msgstr ""
 #: ../../RTR.rst:740
 msgid "Overload |mana_3| |mana_r| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
 msgstr ""
+"Przeciążenie |mana_3| |mana_r| |mana_r| |mana_r| (Możesz rzucić czar po jego "
+"przeciążeniowym koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając "
+"wszystkie słowa \\\"wskazany\\\" na \\\"każdy.\\\")"
 
 # f4718882c0584094b832190c94f4c1f2
 #: ../../RTR.rst:747
@@ -1900,6 +1924,9 @@ msgstr ""
 #: ../../RTR.rst:746
 msgid "Overload |mana_1| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
 msgstr ""
+"Przeciążenie |mana_1| |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
+"\\\"wskazany\\\" na \\\"każdy.\\\")"
 
 # 455f2ac4887e493cafaaed2383a990ad
 #: ../../RTR.rst:751
@@ -2732,6 +2759,9 @@ msgstr ""
 #: ../../RTR.rst:1121
 msgid "Overload |mana_x| |mana_x| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
 msgstr ""
+"Przeciążenie |mana_x| |mana_x| |mana_r| |mana_r| (Możesz rzucić czar po jego "
+"przeciążeniowym koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając "
+"wszystkie słowa \\\"wskazany\\\" na \\\"każdy.\\\")"
 
 # 58c0859ee88a4b6eb66fba5d22944a2c
 #: ../../RTR.rst:1126
@@ -3057,6 +3087,9 @@ msgstr ""
 #: ../../RTR.rst:1271
 msgid "Overload |mana_4| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
 msgstr ""
+"Przeciążenie |mana_4| |mana_r| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
+"\\\"wskazany\\\" na \\\"każdy.\\\")"
 
 # d41bf6bd1cb94f18b2a44425b191f64d
 #: ../../RTR.rst:1276
