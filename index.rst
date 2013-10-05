@@ -9,13 +9,13 @@ Tłumaczenie gry Magic: The Gathering
 Instrukcja
 ----------
 
-:doc:`Podręcznik Magic 2014<M14_Rulebook>` (33%)
+:doc:`Podręcznik Magic 2014<M14_Rulebook>` (45%)
 
 Tłumaczenie dodatków
 --------------------
 
-* :doc:`Return to Ravnica<RTR>` (37%)
-* :doc:`Gatecrash<GTC>` (60%)
+* :doc:`Return to Ravnica<RTR>` (42%)
+* :doc:`Gatecrash<GTC>` (76%)
 * :doc:`Dragons' Maze<DGM>` (99%)
 * :doc:`Magic 2014 Core Set<M14>` (100%)
 * :doc:`Theros<THS>` (100%)
