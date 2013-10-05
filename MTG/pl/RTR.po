@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-02 16:36+0200\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2013-10-02 23:19+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380728209.367120\n"
+"X-POOTLE-MTIME: 1380752373.265388\n"
 
 # 8f7974d7a6914bf581174be80fc2157b
 #: ../../RTR.rst:5
@@ -829,16 +829,20 @@ msgstr ""
 #: ../../RTR.rst:270
 msgid "Whenever Crosstown Courier deals combat damage to a player, that player puts that many cards from the top of his or her library into his or her graveyard."
 msgstr ""
+"Ilekroć Crosstown Courier zada graczowi obrażenia bojowe, ów gracz wkłada "
+"tyle samo kart z wierzchu swojej biblioteki do swojego cmentarza."
 
 # 11132859a0e742608858fa4cd32f9fff
 #: ../../RTR.rst:277
 msgid "Cryptborn Horror"
-msgstr ""
+msgstr "Cryptborn Horror (Przeraza z Krypty)"
 
 # 5a20eef7ee144a86bac58fd6f44ee962
 #: ../../RTR.rst:276
 msgid "Cryptborn Horror enters the battlefield with X +1/+1 counters on it, where X is the total life lost by your opponents this turn."
 msgstr ""
+"Cryptborn Horror wchodzi na pole walki z tyloma znacznikami +1/+1, ile twoi "
+"przeciwnicy stracili łącznie punktów życia w tej turze."
 
 # 4ee082493e3d4bdfa7949df33dfc9ae7
 #: ../../RTR.rst:283
@@ -951,6 +955,8 @@ msgstr ""
 #: ../../RTR.rst:320
 msgid "At the beginning of each combat, any opponent may sacrifice a creature. If a player does, tap Desecration Demon and put a +1/+1 counter on it."
 msgstr ""
+"Na początku każdej walki dowolny przeciwnik może poświęcić stwora. Jeśli "
+"któryś tak zrobi, zaznacz Desecration Demon i połóż na nim znacznik +1/+1."
 
 # 97a0ea45d7b743ddab43d0803a096250
 #: ../../RTR.rst:325
@@ -961,6 +967,9 @@ msgstr ""
 #: ../../RTR.rst:324
 msgid "Destroy target land. Its controller reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard."
 msgstr ""
+"Zniszcz wskazany ląd. Jego władca ujawnia karty z wierzchu swojej biblioteki "
+"dopóki nie ujawni karty lądu, a następnie wkłada owe karty do swojego "
+"cmentarza."
 
 # 12df507663f84b5cbd0a483bce5597e4
 #: ../../RTR.rst:331
@@ -1105,6 +1114,9 @@ msgstr ""
 #: ../../RTR.rst:378
 msgid "Prevent all combat damage that would be dealt to you this turn. Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać ci zadane w tej "
+"turze. Zaludnij. (Połóż na polu walki żeton będący kopią żetonu stwora, "
+"którym władasz."
 
 # b55c29d4eca24963bb7824e773a2d624
 #: ../../RTR.rst:383

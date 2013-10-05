@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-28 21:23\n"
-"PO-Revision-Date: 2013-10-02 15:29+0200\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2013-10-05 12:02+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380724168.251880\n"
+"X-POOTLE-MTIME: 1380970956.189963\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
 #: ../../DGM.rst:5
@@ -1084,7 +1084,7 @@ msgstr ""
 # 5ff2685db3344afabf45ebad49561174
 #: ../../DGM.rst:397
 msgid "Legion's Initiative"
-msgstr ""
+msgstr "Legion's Initiative (Inicjatywa Legionu)"
 
 # d599b9f68b1142a7a130cbb301965908
 #: ../../DGM.rst:392
@@ -1680,11 +1680,10 @@ msgstr ""
 
 # 2229d6a7ac2c4c2da3a62175214963aa
 #: ../../DGM.rst:626
-#, fuzzy
 msgid "Whenever Renegade Krasis evolves, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it."
 msgstr ""
-"Ilekroć Renegade Krasis ewoluuje połóż znacznik +1/+1 na wszystkich innych "
-"stworach, które kontrolujesz ze znacznikiem +1/+1 na nim."
+"Ilekroć Renegade Krasis rozwija się, połóż znacznik +1/+1 na każdym innym "
+"stworze, którym władasz posiadającym znacznik +1/+1."
 
 # 6fa11321f7c44666987bd7d680c84724
 #: ../../DGM.rst:631
@@ -2095,7 +2094,7 @@ msgstr "Zniszcz wskazany urok."
 # 50ceb6b479b44e69be64e205c76ed803
 #: ../../DGM.rst:791
 msgid "Teysa, Envoy of Ghosts"
-msgstr ""
+msgstr "Teysa, Envoy of Ghosts (Teysa, Wysłanniczka Duchów)"
 
 # 6b7c36d263b84eeebd27eed6e8a2a3cd
 #: ../../DGM.rst:788
