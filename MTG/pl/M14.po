@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-01 17:24+0200\n"
+"PO-Revision-Date: 2013-10-06 17:41+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -14,8 +14,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
-"X-POOTLE-MTIME: 1380634798.734336\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1381077672.995960\n"
 
 # 34446830b7c949d8b59852b41945ee2c
 # 13a5a223cf9d45d19a919b30f1fc001d
@@ -107,7 +107,7 @@ msgstr "Advocate of the Beast (Poskromiciel Bestii)"
 #: ../../M14.rst:28
 msgid "At the beginning of your end step, put a +1/+1 counter on target Beast creature you control."
 msgstr ""
-"Na początku swojego kroku końcowego połóż znacznik +1/+1 na wskazanej "
+"Na początku twojego kroku końcowego połóż znacznik +1/+1 na wskazanej "
 "władanej przez ciebie Bestii."
 
 # d6cdac7805704d1599509762ef4d7c01
@@ -314,7 +314,7 @@ msgstr "Archaeomancer (Archeomanta)"
 msgid "When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand."
 msgstr ""
 "Kiedy Archeomanta wchodzi na pole walki, przywróć wskazaną kartę sztuczki "
-"lub obrzędu ze swojego cmentarza do swojej ręki."
+"lub obrzędu z twojego cmentarza do twojej ręki."
 
 # b7bf18456f0449d6a02fcfd5d5500060
 # 6d8cfaffdc4c4a0c912940775f4473e9
@@ -369,8 +369,8 @@ msgstr "Zaurocz Wyposażenie"
 #: ../../M14.rst:84
 msgid "At the beginning of your upkeep, if enchanted Equipment is attached to a creature, destroy that creature."
 msgstr ""
-"Na początku swojego utrzymania, jeśli zauroczone Wyposażenie jest dołączone "
-"do stwora, zniszcz tego stwora."
+"Na początku twojego utrzymania, jeśli zauroczone Wyposażenie jest dołączone "
+"do stwora, zniszcz owego stwora."
 
 # c60ee3c9f563493faaa3ac5346de42aa
 # 0387efbd84044451b346eb1f6a9b9254
@@ -384,7 +384,7 @@ msgstr "Auramancer (Auromanta)"
 msgid "When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand."
 msgstr ""
 "Kiedy Auromanta wchodzi na pole walki, możesz przywrócić wskazaną kartę "
-"uroku ze swojego cmentarza do swojej ręki."
+"uroku z twojego cmentarza do twojej ręki."
 
 # 3c14af0e342d40db9aed6562ba1185bb
 #: ../../M14.rst:95
@@ -550,9 +550,9 @@ msgstr "Bogbrew Witch (Wiedźma Bagnowarka)"
 #: ../../M14.rst:128
 msgid "|mana_2|, |tap|: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"|mana_2|, |tap|: Wyszukaj w swojej bibliotece kartę Festering Newt lub "
+"|mana_2|, |tap|: Wyszukaj w twojej bibliotece kartę Festering Newt lub "
 "Bubbling Cauldron, połóż ją na polu walki zaznaczoną, następnie przetasuj "
-"bibliotekę."
+"twoją bibliotekę."
 
 # 1a7d8fbeba124445aec0a6746d3cd905
 # f0030207c22e493b95ed1f1738627c5b
@@ -739,15 +739,14 @@ msgstr ""
 #: ../../M14.rst:184
 msgid "0: Exile the top card of your library. You may play it this turn."
 msgstr ""
-"0: Wypędź wierzchnią kartę ze swojej biblioteki. Możesz ją zagrać w tej "
-"turze."
+"0: Wypędź wierzchnią kartę twojej biblioteki. Możesz ją zagrać w tej turze."
 
 # 4518c409cae5497bb9e7fa1b632230b9
 # a642a5124dbe412b9172860c7f308d82
 #: ../../M14.rst:186
 msgid "-7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs."
 msgstr ""
-"-7: Wypędź dziesięć wierzchnich kart swojej biblioteki. Wybierz spośród nich "
+"-7: Wypędź dziesięć wierzchnich kart twojej biblioteki. Wybierz spośród nich "
 "kartę sztuczki lub obrzędu i skopiuj trzykrotnie. Możesz rzucić te kopie "
 "bez płacenia kosztów many."
 
@@ -786,7 +785,7 @@ msgid "Whenever an opponent is dealt damage by a red instant or sorcery spell yo
 msgstr ""
 "Ilekroć przeciwnik otrzymuje obrażenia od czerwonego czaru sztuczki lub "
 "obrzędu, którym władasz, lub od czerwonego wędrowca, którym władasz, "
-"przywróć Chandra's Phoenix ze swojego cmentarza do swojej ręki."
+"przywróć Chandra's Phoenix z twojego cmentarza do twojej ręki."
 
 # 3064477983784dcfb5d24821e2a8f9e3
 # d9116525d99b41b78b02d7419be5544a
@@ -893,8 +892,8 @@ msgstr "Corpse Hauler (Wozak Zwłok)"
 #: ../../M14.rst:238
 msgid "|mana_2| |mana_b|, Sacrifice Corpse Hauler: Return another target creature card from your graveyard to your hand."
 msgstr ""
-"|mana_2| |mana_b|, poświęć Corpse Hauler: Zwróć inną wskazaną kartę stwora "
-"ze swojego cmentarza do swojej ręki."
+"|mana_2| |mana_b|, poświęć Corpse Hauler: Zwróć inną wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 # 3bad32cc6e23452fbefb1b79e05ca076
 # b803bc038c404647bbe66b1141e94a04
@@ -1074,8 +1073,8 @@ msgstr "Diabolic Tutor (Diaboliczny Nauczyciel)"
 #: ../../M14.rst:300
 msgid "Search your library for a card and put that card into your hand. Then shuffle your library."
 msgstr ""
-"Przeszukaj swoją bibliotekę w poszukiwaniu karty i umieść tę kartę w ręce. "
-"Następnie przetasuj swoją bibliotekę."
+"Przeszukaj twoją bibliotekę w poszukiwaniu karty i umieść ową kartę w ręce. "
+"Następnie przetasuj twoją bibliotekę."
 
 # 349b796671624cf3bc70c7f3539ca7ce
 #: ../../M14.rst:305
@@ -1237,8 +1236,8 @@ msgstr ""
 #: ../../M14.rst:360
 msgid "When Elite Arcanist enters the battlefield, you may exile an instant card from your hand."
 msgstr ""
-"Kiedy Elite Arcanist wchodzi na pole walki, możesz wypędzić kartę sztuczki "
-"ze swojej ręki."
+"Kiedy Elite Arcanist wchodzi na pole walki, możesz wypędzić kartę sztuczki z "
+"twojej ręki."
 
 # 47f199e21a0940c4b3939d49506705c6
 # 3ae696436b3b4a279ab94201a2433e41
@@ -1295,8 +1294,7 @@ msgstr "|tap|: Dodaj |mana_1| do twojej puli many."
 #: ../../M14.rst:376
 msgid "|mana_4|, |tap|, Sacrifice Encroaching Wastes: Destroy target nonbasic land."
 msgstr ""
-"|mana_4|, |tap|, poświęć Encroaching Wastes: Zniszcz wskazany niepodstawowy "
-"ląd."
+"|mana_4|, |tap|, poświęć Encroaching Wastes: Zniszcz wskazany niezwykły ląd."
 
 # 6397f8a5b1d14dcda12ae61eaf80f15e
 # 13fceab03dc14305b5c51dfa7a1040fc
@@ -1452,7 +1450,7 @@ msgstr "Frost Breath (Oddech Mrozu)"
 #: ../../M14.rst:427
 msgid "Tap up to two target creatures. Those creatures don't untap during their controller's next untap step."
 msgstr ""
-"Zaznacz najwyżej dwa wskazane stwory. Te stwory nie odznaczą się w "
+"Zaznacz najwyżej dwa wskazane stwory. Owe stwory nie odznaczą się w "
 "najbliższym kroku odznaczania swojego władcy."
 
 # f0aba63229c1498ebbc247dc0ac9e7cf
@@ -1486,7 +1484,7 @@ msgstr ""
 # c085406ddecc48698150399e258bc42d
 #: ../../M14.rst:437
 msgid "-3: You may put a green creature card from your hand onto the battlefield."
-msgstr "-3: Możesz położyć zielonego stwora ze swojej ręki na polu walki."
+msgstr "-3: Możesz położyć zielonego stwora z twojej ręki na polu walki."
 
 # efd9557e2cba4945a0f4436fdb313153
 # f4c9957c2b624982bff3dda3f124b56c
@@ -1494,8 +1492,8 @@ msgstr "-3: Możesz położyć zielonego stwora ze swojej ręki na polu walki."
 msgid "-7: You get an emblem with \\\"Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.\\\""
 msgstr ""
 "-7: Dostajesz emblemat o treści \\\"Zawsze gdy rzucasz czar stwora, możesz "
-"poszukać karty stwora w swojej bibliotece, położyć ją na polu walki i "
-"przetasować bibliotekę.\\\""
+"poszukać karty stwora w twojej bibliotece, położyć ją na polu walki i "
+"przetasować twoją bibliotekę.\\\""
 
 # 30247ce5ec824a98b307329d56db0bb5
 # 953a64c97b85473bbe5b9cec470b07f0
@@ -1516,15 +1514,15 @@ msgstr "Tratowanie"
 # 2750ab4a216e47d09ea75b8c1a8a68cd
 #: ../../M14.rst:445
 msgid "Play with the top card of your library revealed."
-msgstr "Graj z ujawnioną wierzchnią kartą swojej biblioteki."
+msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 # 9c55b719ebd94c5984adaa015dae7011
 # 1203003fc5bc43168c83d09179584909
 #: ../../M14.rst:447
 msgid "You may cast the top card of your library if it's a creature card. (Do this only any time you could cast that creature card. You still pay the spell's costs.)"
 msgstr ""
-"Możesz zagrać wierzchnią kartę ze swojej biblioteki jeśli jest to karta "
-"stwora. (Zrób to tylko w chwili, gdy możesz zagrać tego stwora. Nadal musisz "
+"Możesz zagrać wierzchnią kartę twojej biblioteki jeśli jest to karta stwora. "
+"(Zrób to tylko w chwili, gdy możesz zagrać tego stwora. Nadal musisz "
 "opłacić koszty.)"
 
 # a7a31ed0c679467e885291818c3bbe3b
@@ -1572,8 +1570,8 @@ msgstr "Glimpse the Future (Spojrzenie w Przyszłość)"
 #: ../../M14.rst:463
 msgid "Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard."
 msgstr ""
-"Obejrzyj trzy wierzchnie karty swojej biblioteki. Połóż jedną z nich do "
-"swojej ręki, a pozostałe do swojego cmentarza."
+"Obejrzyj trzy wierzchnie karty twojej biblioteki. Połóż jedną z nich do "
+"twojej ręki, a pozostałe do twojego cmentarza."
 
 # 614721da80c94276900bcadeb117530b
 #: ../../M14.rst:468
@@ -1787,7 +1785,7 @@ msgstr ""
 #: ../../M14.rst:537
 msgid "At the beginning of your upkeep, look at the top card of your library. If it's a land card, you may put it onto the battlefield."
 msgstr ""
-"Na początku swojego rozliczania, spójrz na wierzchnią kartę swojej "
+"Na początku twojego rozliczania, spójrz na wierzchnią kartę twojej "
 "biblioteki. Jeśli jest to karta lądu, możesz położyć ją na polu walki."
 
 # b0ab5fca7d9f46519ad62f86d533e737
@@ -1891,8 +1889,8 @@ msgstr ""
 #: ../../M14.rst:575
 msgid "Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"Poszukaj w swojej bibliotece karty podstawowego lądu, ujawnij ją i połóż do "
-"swojej ręki, a następnie przetasuj bibliotekę."
+"Poszukaj w twojej bibliotece karty zwykłego lądu, ujawnij ją i dołóż do "
+"twojej ręki, a następnie przetasuj twoją bibliotekę."
 
 # c4dc6b2d0e554938970a36242bf6d123
 #: ../../M14.rst:582
@@ -1930,7 +1928,7 @@ msgstr ""
 #: ../../M14.rst:591
 msgid "+1: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library."
 msgstr ""
-"+1: Poszukaj karty Bagna w swojej bibliotece, ujawnij ją i dołóż do twojej "
+"+1: Poszukaj karty Bagna w twojej bibliotece, ujawnij ją i dołóż do twojej "
 "ręki. Następnie przetasuj twoją bibliotekę."
 
 # e16906591106474e8d9778512182131a
@@ -2714,7 +2712,7 @@ msgstr ""
 #: ../../M14.rst:889
 msgid "At the beginning of your upkeep, if there are fewer than six creature cards in your graveyard, sacrifice a creature."
 msgstr ""
-"Na początku swojego utrzymania, jeśli w twoim cmentarzu jest mniej niż sześć "
+"Na początku twojego utrzymania, jeśli w twoim cmentarzu jest mniej niż sześć "
 "kart stworów, poświęć stwora."
 
 # 3b7ddb7a0a1b4f6995d89c6255223628
@@ -3126,8 +3124,8 @@ msgstr ""
 #: ../../M14.rst:1033
 msgid "|mana_1|, |tap|, Sacrifice a creature: Return target artifact card from your graveyard to your hand."
 msgstr ""
-"|mana_1|, |tap|, poświęć stwora: Przywróć wskazany artefakt ze swojego "
-"cmentarza do swojej ręki."
+"|mana_1|, |tap|, poświęć stwora: Przywróć wskazany artefakt z twojego "
+"cmentarza do twojej ręki."
 
 # c1371a1c4ee1473897540f0a7a60d4fb
 # 47eb68902766489ab80e3d5031a3ef85

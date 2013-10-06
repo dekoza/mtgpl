@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-02 23:19+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-10-06 23:06+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380752373.265388\n"
+"X-POOTLE-MTIME: 1381097203.664676\n"
 
 # 8f7974d7a6914bf581174be80fc2157b
 #: ../../RTR.rst:5
@@ -671,7 +671,7 @@ msgstr "Zaurocz ląd"
 #: ../../RTR.rst:210
 msgid "Whenever enchanted land becomes tapped, its controller puts the top three cards of his or her library into his or her graveyard."
 msgstr ""
-"Ilekroć zauroczony ląd zostaje zaznaczony, jego władca kładzie trzy "
+"Ilekroć zauroczony ląd zostaje zaznaczony, jego władca wkłada trzy "
 "wierzchnie karty swojej biblioteki do swojego cmentarza."
 
 # 3151b32c24cc482f8c7d43366924cf87
@@ -829,7 +829,7 @@ msgstr ""
 #: ../../RTR.rst:270
 msgid "Whenever Crosstown Courier deals combat damage to a player, that player puts that many cards from the top of his or her library into his or her graveyard."
 msgstr ""
-"Ilekroć Crosstown Courier zada graczowi obrażenia bojowe, ów gracz wkłada "
+"Ilekroć Crosstown Courier zadaje graczowi obrażenia bojowe, ów gracz wkłada "
 "tyle samo kart z wierzchu swojej biblioteki do swojego cmentarza."
 
 # 11132859a0e742608858fa4cd32f9fff
@@ -905,8 +905,8 @@ msgstr ""
 msgid "Scavenge |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 "Czystka |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, wypędź tę "
-"kartę ze swojego cmentarza: Połóż na wskazanym stworze tyle znaczników "
-"+1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"kartę z twojego cmentarza: Połóż na wskazanym stworze tyle znaczników +1/+1, "
+"ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 # 9c02ec258ffb4de4be8dc33d06333dce
 #: ../../RTR.rst:311
@@ -1053,6 +1053,8 @@ msgstr ""
 #: ../../RTR.rst:356
 msgid "When Drainpipe Vermin dies, you may pay |mana_b|. If you do, target player discards a card."
 msgstr ""
+"KIedy Drainpipe Vermin umiera, możesz zapłacić |mana_b|. Jeśli tak zrobisz, "
+"wskazany gracz odrzuca kartę."
 
 # ceb42c169994425aa9e604b53274bfd9
 #: ../../RTR.rst:361
@@ -1094,6 +1096,9 @@ msgstr "Pośpiech"
 #: ../../RTR.rst:370
 msgid "Scavenge |mana_3| |mana_b| |mana_g| (|mana_3| |mana_b| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
+"Czystka |mana_3| |mana_b| |mana_g| (|mana_3| |mana_b| |mana_g|, wypędź tę "
+"kartę z twojego cmentarza: Połóż na wskazanym stworze tyle znaczników +1/+1, "
+"ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 # dc7fc48339b54018a407e73b8536d371
 #: ../../RTR.rst:375
@@ -1104,6 +1109,9 @@ msgstr ""
 #: ../../RTR.rst:374
 msgid "Scavenge |mana_5| |mana_g| (|mana_5| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
+"Czystka |mana_5| |mana_g| (|mana_5| |mana_g|, wypędź tę kartę z twojego "
+"cmentarza: Połóż na wskazanym stworze tyle znaczników +1/+1, ile wynosi siła "
+"tej karty. Używaj jedynie jako obrzęd.)"
 
 # 6acfa2b224be47efa09f7c3de6ef82c0
 #: ../../RTR.rst:379
@@ -1127,6 +1135,8 @@ msgstr ""
 #: ../../RTR.rst:382
 msgid "If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead."
 msgstr ""
+"Jeśli karta sztuczki lub obrzędu miałaby skądkolwiek trawić na cmentarz, "
+"zamiast tego wypędź ją."
 
 # 2cccdf5b426541eebc8bc01f39f2578e
 #: ../../RTR.rst:389
@@ -1136,7 +1146,7 @@ msgstr ""
 # ec3f56713cbe4ef5b84a4207f5eb20ac
 #: ../../RTR.rst:386
 msgid "Target creature you control gets +2/+0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór, którym władasz, dostaje +2/+0 do końca tury."
 
 # 929295e138484276a03a1034cbcc90c4
 #: ../../RTR.rst:388
@@ -1155,6 +1165,7 @@ msgstr ""
 #: ../../RTR.rst:392
 msgid "Electrickery deals 1 damage to target creature you don't control."
 msgstr ""
+"Wskazany stwór, którym nie władasz, dostaje od Electrickery 1 obrażenie."
 
 # 1848afbf50ce4cfa996830653761de39
 #: ../../RTR.rst:394
@@ -1234,6 +1245,8 @@ msgstr ""
 #: ../../RTR.rst:422
 msgid "When Faerie Impostor enters the battlefield, sacrifice it unless you return another creature you control to its owner's hand."
 msgstr ""
+"Kiedy Faerie Impostor wchodzi na pole walki, poświęć go dopóki nie zwrócisz "
+"innego stwora, którym władasz do ręki jego właściciela."
 
 # a1c0ac5e08ac456d9dafb88652cbb9bd
 #: ../../RTR.rst:427
@@ -1254,6 +1267,8 @@ msgstr ""
 #: ../../RTR.rst:430
 msgid "Double strike (This creature deals both first-strike and regular combat damage.)"
 msgstr ""
+"Podwójny cios (Ten stwór zadaje obrażenia w pierwszym ciosie oraz "
+"normalnie.)"
 
 # e3beeadc8d6a48a3afeabc2d95268542
 #: ../../RTR.rst:435
@@ -1264,6 +1279,9 @@ msgstr ""
 #: ../../RTR.rst:434
 msgid "Search your library for an instant card with converted mana cost 3, reveal it, and put it into your hand. Then repeat this process for instant cards with converted mana costs 2 and 1. Then shuffle your library."
 msgstr ""
+"Poszukaj w twojej bibliotece karty sztuczki o łącznym koszcie many 3, "
+"ujawnij ją i dołóż do twojej ręki. Następnie powtórz ten proces dla kart "
+"sztuczek o łącznym koszcie many 2 i 1. Następnie przetasuj twoją bibliotekę."
 
 # 616d741ef9564cf5abeff1f38fd4f924
 #: ../../RTR.rst:439
@@ -1294,6 +1312,9 @@ msgstr ""
 #: ../../RTR.rst:448
 msgid "When Gatecreeper Vine enters the battlefield, you may search your library for a basic land card or a Gate card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy Gatecreeper Vine wchodzi na pole walki, możesz poszukać w twojej "
+"bibliotece karty zwykłego lądu lub karty Bramy, ujawnić ją i dołożyć do "
+"twojej ręki, a następnie przetasować twoją bibliotekę."
 
 # 4751e04091074f3db90ac9ecdbaac02c
 #: ../../RTR.rst:453
@@ -1303,7 +1324,7 @@ msgstr ""
 # 19b036982f81434db5c708841f1a4365
 #: ../../RTR.rst:452
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje +3/+3 do końca tury."
 
 # 7f8fe329326e42e996781974860a5fcb
 #: ../../RTR.rst:457
@@ -1313,17 +1334,17 @@ msgstr ""
 # d7d1b66fac2e4603af5bebb5a44692cd
 #: ../../RTR.rst:456
 msgid "|mana_g|, Sacrifice another creature: Put a +1/+1 counter on Gobbling Ooze."
-msgstr ""
+msgstr "|mana_g|, poświęć innego stwora: Połóż znacznik +1/+1 na Gobbling Ooze."
 
 # 003dea5766f44dbbac4355f709a950de
 #: ../../RTR.rst:461
 msgid "Goblin Electromancer"
-msgstr ""
+msgstr "Goblin Electromancer (Goblin Elektromanta)"
 
 # 4653dcea4d244fd7a9965f62c72132cd
 #: ../../RTR.rst:460
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
 # 693b9e4e4f334c979534d3477b2d20d8
 #: ../../RTR.rst:465
@@ -1333,7 +1354,7 @@ msgstr ""
 # 6e548524089e4f85aa8865b11bd31c64
 #: ../../RTR.rst:464
 msgid "Put four 1/1 red Goblin creature tokens onto the battlefield."
-msgstr ""
+msgstr "Połóż na polu walki cztery żetony czerwonego stwora Goblin 1/1."
 
 # 24c79faf5f3e4be7baeec0a64d2edca3
 #: ../../RTR.rst:471
@@ -1344,6 +1365,8 @@ msgstr ""
 #: ../../RTR.rst:468
 msgid "Choose one — All creatures get -1/-1 until end of turn; or destroy target enchantment; or regenerate each creature you control."
 msgstr ""
+"Wybierz jedno — Wszystkie stwory dostają -1/-1 do końca tury; albo zniszcz "
+"wskazany urok; albo zregeneruj każdego stwora, którym władasz."
 
 # e4d38597f72e439c8c30313dfe124e24
 #: ../../RTR.rst:477
@@ -1353,12 +1376,15 @@ msgstr ""
 # 4da31429dd19463db85321b7ad02f0e2
 #: ../../RTR.rst:474
 msgid "All creatures able to block Golgari Decoy do so."
-msgstr ""
+msgstr "Wszystkie stwory mogące blokować Golgari Decoy robią to."
 
 # 257a5a81b9fb4bf2824ac7ccc28c94d1
 #: ../../RTR.rst:476
 msgid "Scavenge |mana_3| |mana_g| |mana_g| (|mana_3| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
+"Czystka |mana_3| |mana_g| |mana_g| (|mana_3| |mana_g| |mana_g|, wypędź tę "
+"kartę z twojego cmentarza: Połóż na wskazanym stworze tyle znaczników +1/+1, "
+"ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 # 8e2b37139339442e8ca94c691b63b05e
 #: ../../RTR.rst:483
@@ -1408,6 +1434,10 @@ msgstr ""
 #: ../../RTR.rst:500
 msgid "Whenever a creature you don't control dies, return it to the battlefield under your control with an additional +1/+1 counter on it at the beginning of the next end step. That creature is a black Zombie in addition to its other colors and types."
 msgstr ""
+"Ilekroć umiera stwór, którym nie władasz, zwróć go na pole walki pod twoim "
+"władaniem z dodatkowym znacznikiem +1/+1 ba początku najbliższego kroku "
+"końcowego. Ów stwór jest czarnym Umarlakiem w uzupełnieniu swoich innych "
+"kolorów i typów."
 
 # 9e7d8414fd604adc92244a06c2e76bd7
 #: ../../RTR.rst:507
@@ -1417,7 +1447,7 @@ msgstr ""
 # d9ed7972195148de8ace623891eee28b
 #: ../../RTR.rst:506
 msgid "|mana_1| |mana_b|: Regenerate Grim Roustabout."
-msgstr ""
+msgstr "|mana_1| |mana_b|: Zregeneruj Grim Roustabout."
 
 # b69b2e64ae6e4bebbf297ec7564201be
 #: ../../RTR.rst:511
@@ -1428,6 +1458,8 @@ msgstr ""
 #: ../../RTR.rst:510
 msgid "Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard."
 msgstr ""
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Możesz dołożyć kartę stwora "
+"lub lądu spośród nich do twojej ręki. Połóż pozostałe na swój cmentarz."
 
 # ec3b7d11753b44508d5b1b22f89fd16f
 #: ../../RTR.rst:517
@@ -1483,11 +1515,13 @@ msgstr ""
 #: ../../RTR.rst:528
 msgid "Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent."
 msgstr ""
+"Ilekroć rzucasz czar sztuczki lub obrzędu, Guutersnipe zadaje każdemu "
+"przeciwnikowi 2 obrażenia."
 
 # 2c26c84d95684aa8b5a32207dec84e1c
 #: ../../RTR.rst:535
 msgid "Hallowed Fountain"
-msgstr ""
+msgstr "Hallowed Fountain (Uświęcona Fontanna)"
 
 # d77aa478276b4c938af975a9e5d8bd42
 #: ../../RTR.rst:532
@@ -1510,12 +1544,14 @@ msgstr ""
 # 0bbdcb06c3f742da9401dabbfd40ff99
 #: ../../RTR.rst:538
 msgid "Players can't gain life."
-msgstr ""
+msgstr "Gracze nie mogą zyskiwać życia."
 
 # 65cd77352250451b8ccbf287cf1f05e3
 #: ../../RTR.rst:540
 msgid "At the beginning of each player's upkeep, that player loses half his or her life, rounded up."
 msgstr ""
+"Na początku utrzymania każdego z graczy, ów gracz traci połowę swojego życia "
+"zaokrągloną w górę."
 
 # f0dba9cad0484a15928e34a8fca3b8d5
 #: ../../RTR.rst:547
@@ -1526,6 +1562,8 @@ msgstr ""
 #: ../../RTR.rst:546
 msgid "|mana_2| |mana_b| |mana_r|, Sacrifice Hellhole Flailer: Hellhole Flailer deals damage equal to its power to target player."
 msgstr ""
+"|mana_2| |mana_b| |mana_r|, poświęć Hellhole Flailer: Hellhole Flailer "
+"zadaje wskazanemu graczowi obrażenia równe swojej sile."
 
 # 768596b893614015ae8abf281e51a763
 #: ../../RTR.rst:551
@@ -1535,7 +1573,7 @@ msgstr ""
 # 82c98279f7314b46b7efbba995590499
 #: ../../RTR.rst:550
 msgid "Target player gains 7 life."
-msgstr ""
+msgstr "Wskazany gracz zyskuje 7 punktów życia."
 
 # 1e4016483f8241ddbf5c9f70d905cd39
 #: ../../RTR.rst:555
@@ -1601,36 +1639,41 @@ msgstr ""
 #: ../../RTR.rst:574
 msgid "Detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)"
 msgstr ""
+"Uwięź wskazanego stwora, którym włada przeciwnik. (Do twojej następnej tury "
+"ów stwór nie może atakować ani blokować, a jego aktywowane zdolności nie "
+"mogą być aktywowane.)"
 
 # 33d8e4f01a6047d0b7ce5eb74f6fa337
 #: ../../RTR.rst:581
 msgid "Inspiration"
-msgstr ""
+msgstr "Inspiration (Inspiracja)"
 
 # e3720951ec5845e9bd4a224cbf39f926
 #: ../../RTR.rst:580
 msgid "Target player draws two cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty."
 
 # fb1de22c15c54cb3800d3898fa2a8317
 #: ../../RTR.rst:585
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 # 215bfb6ed616453cbb5d825fb65c1ca5
 #: ../../RTR.rst:584
 msgid "U"
-msgstr ""
+msgstr "|mana_u|"
 
 # 5da31102cafc45d686b58a48b1b6d877
 #: ../../RTR.rst:591
 msgid "Isperia, Supreme Judge"
-msgstr ""
+msgstr "Isperia, Supreme Judge (Isperia, Najwyższy Sędzia)"
 
 # da99353b17ea4ac8a1d1c1a3137264b6
 #: ../../RTR.rst:590
 msgid "Whenever a creature attacks you or a planeswalker you control, you may draw a card."
 msgstr ""
+"Ilekroć jakiś stwór atakuje ciebie lub wędrowca, którym władasz, możesz "
+"dobrać kartę."
 
 # 3c2382dde8bf4f5ba2803c7172e0770b
 #: ../../RTR.rst:597
@@ -1697,26 +1740,36 @@ msgstr ""
 #: ../../RTR.rst:624
 msgid "|tap|: Izzet Staticaster deals 1 damage to target creature and each other creature with the same name as that creature."
 msgstr ""
+"|tap|: Izzet Staticaster zadaje 1 obrażenie wskazanemu stworowi i każdemu "
+"innemu stworowi o takiej samej nazwie jak ów stwór."
 
 # bec4bce641534c3085c4ad63cdc7272c
 #: ../../RTR.rst:633
 msgid "Jace, Architect of Thought"
-msgstr ""
+msgstr "Jace, Architect of Thought (Jace, Architekt Myśli)"
 
 # c6fc076f7237423984193021ec770614
 #: ../../RTR.rst:628
 msgid "+1: Until your next turn, whenever a creature an opponent controls attacks, it gets -1/-0 until end of turn."
 msgstr ""
+"+1: Do twojej następnej tury ilekroć stwór władany przez przeciwnika "
+"atakuje, dostaje -1/-0 do końca tury."
 
 # f3d8d6c5496549e0906c51874a2d82c6
 #: ../../RTR.rst:630
 msgid "-2: Reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order."
 msgstr ""
+"-2: Ujawnij trzy wierzchnie karty twojej biblioteki. Przeciwnik rozdziela je "
+"na dwa stosy. Dołóż jeden stos do twojej ręki, a pozostały połóż na spodzie "
+"twojej biblioteki w dowolnej kolejności."
 
 # 682046048d7646ac926c0ef7c730f780
 #: ../../RTR.rst:632
 msgid "-8: For each player, search that player's library for a nonland card and exile it, then that player shuffles his or her library. You may cast those cards without paying their mana costs."
 msgstr ""
+"-8: Dla każdego gracza, poszukaj w bibliotece owego gracza nielądowej karty "
+"i wypędź ją, następnie ów gracz tasuje swoją bibliotekę. Możesz rzucić owe "
+"karty bez płacenia kosztu many."
 
 # 9adac76670ff4d27af285a039427d754
 #: ../../RTR.rst:641
@@ -1727,11 +1780,15 @@ msgstr ""
 #: ../../RTR.rst:636
 msgid "Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your graveyard."
 msgstr ""
+"Jarad, Golgari Lich Lord dostaje +1/+1 za każdą kartę stwora w twoim "
+"cmentarzu."
 
 # aaecc7ab3e224fda9617436cfc179914
 #: ../../RTR.rst:638
 msgid "|mana_1| |mana_b| |mana_g|, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power."
 msgstr ""
+"|mana_1| |mana_b| |mana_g|, poświęć innego stwora: Każdy przeciwnik traci "
+"tyle życia, ile siły miał poświęcony stwór."
 
 # 5f730901be7d4a1c81523a9563e24c84
 #: ../../RTR.rst:640
@@ -1777,11 +1834,13 @@ msgstr ""
 #: ../../RTR.rst:660
 msgid "When Knightly Valor enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield."
 msgstr ""
+"Kiedy Knightly Valor wchodzi na pole walki, połóż na polu walki żeton "
+"białego stwora Rycerz 2/2 z czujnością."
 
 # 72e152e75850456ab90516df28bca974
 #: ../../RTR.rst:662
 msgid "Enchanted creature gets +2/+2 and has vigilance."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 oraz ma czujność."
 
 # c255e1339edc41aaa256cc9947408b87
 #: ../../RTR.rst:669
@@ -1799,6 +1858,9 @@ msgstr ""
 #: ../../RTR.rst:668
 msgid "|mana_2| |mana_b| |mana_g|, Sacrifice a nontoken creature: Put X 1/1 green Saproling creature tokens onto the battlefield, where X is the sacrificed creature's toughness."
 msgstr ""
+"|mana_2| |mana_b| |mana_g|, poświęć nieżetonowego stwora: Połóż na polu "
+"walki X żetonów zielonego stwora Saproling 1/1, gdzie X to wytrzymałość "
+"poświęconego stwora."
 
 # f3bdaae71f954d82982b1f4ece7dfa60
 #: ../../RTR.rst:675
@@ -1809,6 +1871,9 @@ msgstr ""
 #: ../../RTR.rst:674
 msgid "Scavenge |mana_5| |mana_g| |mana_g| (|mana_5| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
+"Czystka |mana_5| |mana_g| |mana_g| (|mana_5| |mana_g| |mana_g|, wypędź tę "
+"kartę z twojego cmentarza: Połóż na wskazanym stworze tyle znaczników +1/+1, "
+"ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 # af9aaaaf9a8d4134aed02305efbdacb4
 #: ../../RTR.rst:681
@@ -1818,12 +1883,12 @@ msgstr ""
 # 2b8131a86235477bbfb642c5c6572fbb
 #: ../../RTR.rst:678
 msgid "As an additional cost to cast Launch Party, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia Launch Party, poświęć stwora."
 
 # 30085e3edf5f4a0c8bc5913e31c27388
 #: ../../RTR.rst:680
 msgid "Destroy target creature. Its controller loses 2 life."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Jego władca traci 2 życia."
 
 # aebe920bfd96446b80edd012aca5c190
 #: ../../RTR.rst:689
@@ -1863,12 +1928,14 @@ msgstr ""
 # 6ce54f140cc148e1918b5ac19ce1ad0a
 #: ../../RTR.rst:700
 msgid "Loxodon Smiter can't be countered."
-msgstr ""
+msgstr "Loxodon Smiter nie może być skontrowany."
 
 # 3e3663ccbc8b4c34a86f36821e4c7a43
 #: ../../RTR.rst:702
 msgid "If a spell or ability an opponent controls causes you to discard Loxodon Smiter, put it onto the battlefield instead of putting it into your graveyard."
 msgstr ""
+"Jeśli czar lub zdolność władane przez przeciwnika powodują, że odrzucasz "
+"Loxodon Smitera, połóż go na polu walki zamiast kłaść go na swój cmentarz."
 
 # 89860747656343d39aa91a1e0bcf1930
 #: ../../RTR.rst:709
@@ -1879,6 +1946,9 @@ msgstr ""
 #: ../../RTR.rst:708
 msgid "When Lyev Skyknight enters the battlefield, detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)"
 msgstr ""
+"Kiedy Lyev Skyknight wchodzi na pole walki, uwięź wskazaną nielądową stałkę "
+"władaną przez przeciwnika. (Do twojej następnej tury owa stałka nie może "
+"atakować ani blokować, a jaj aktywowane zdolności nie mogą być aktywowane.)"
 
 # 6fa3608989d44d14bba43ead650316f1
 #: ../../RTR.rst:717
@@ -1888,7 +1958,7 @@ msgstr ""
 # 9401ab5cf2a144958c23cca0b4afb288
 #: ../../RTR.rst:712
 msgid "Mana Bloom enters the battlefield with X charge counters on it."
-msgstr ""
+msgstr "Mana Bloom wchodzi na pole walki z X znacznikami ładowania."
 
 # 38e5ae6dbab24dcdba1a4fbef984ec14
 #: ../../RTR.rst:714
@@ -1901,6 +1971,8 @@ msgstr ""
 #: ../../RTR.rst:716
 msgid "At the beginning of your upkeep, if Mana Bloom has no charge counters on it, return it to its owner's hand."
 msgstr ""
+"Na początku twojego utrzymania jeśli Mana Bloom nie ma znaczników ładowania, "
+"przywróć go do ręki właściciela."
 
 # a0ab10563f4747f7a50fc3cd10068847
 #: ../../RTR.rst:721
@@ -1911,6 +1983,9 @@ msgstr ""
 #: ../../RTR.rst:720
 msgid "At the beginning of your upkeep, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)"
 msgstr ""
+"Na początku twojego utrzymania, uwięź wskazanego stwora, którym włada "
+"przeciwnik. (Do twojej następnej tury ów stwór nie może atakować ani "
+"blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
 
 # 970d74549ae1434b9c14cc4528208fbb
 #: ../../RTR.rst:727
@@ -1951,6 +2026,7 @@ msgstr ""
 #: ../../RTR.rst:738
 msgid "Mizzium Mortars deals 4 damage to target creature you don't control."
 msgstr ""
+"Wskazany stwór, którym nie władasz dostaje od Mizzium Mortars 4 obrażenia."
 
 # b41db98234ad424b8cf1ca7f422a23ec
 #: ../../RTR.rst:740
@@ -1969,6 +2045,7 @@ msgstr ""
 #: ../../RTR.rst:744
 msgid "Target creature you control gets +0/+1 and gains hexproof until end of turn."
 msgstr ""
+"Wskazany stwór, którym władasz dostaje +0/+1 oraz antyklątwę do końca tury."
 
 # 09098554932c44f4b07be85f8f005c67
 #: ../../RTR.rst:746
@@ -1981,22 +2058,24 @@ msgstr ""
 # 455f2ac4887e493cafaaed2383a990ad
 #: ../../RTR.rst:751
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 # 0bde1aa294fc46eab967d2070226df99
 #: ../../RTR.rst:750
 msgid "R"
-msgstr ""
+msgstr "|mana_r|"
 
 # 22c38bf847fe482eb7a3d8d88f72a155
 #: ../../RTR.rst:757
 msgid "Necropolis Regent"
-msgstr ""
+msgstr "Necropolis Regent (Władca Nekropolii)"
 
 # eaf2a837832a4e279b84415a484831bd
 #: ../../RTR.rst:756
 msgid "Whenever a creature you control deals combat damage to a player, put that many +1/+1 counters on it."
 msgstr ""
+"Ilekroć stwór, którym władasz zadaje graczowi obrażenia bojowe, połóż na nim "
+"tyle samo znaczników +1/+1."
 
 # 80e95a21e93548f9b6fa90448ba9a0f3
 #: ../../RTR.rst:763
@@ -2006,7 +2085,7 @@ msgstr ""
 # e6afa7f593b542fe87071bdda26b5527
 #: ../../RTR.rst:760
 msgid "|mana_w| |mana_u|: Target creature gains flying until end of turn."
-msgstr ""
+msgstr "|mana_w| |mana_u|: Wskazany stwór zyskuje latanie do końca tury."
 
 # 7ca681bbd9a84c2895b58fb934fe2fc2
 #: ../../RTR.rst:762
@@ -2050,11 +2129,15 @@ msgstr ""
 #: ../../RTR.rst:778
 msgid "Whenever Niv-Mizzet, Dracogenius deals damage to a player, you may draw a card."
 msgstr ""
+"Ilekroć Niv-Mizzet, Dracogenius zadaje graczowi obrażenia, możesz dobrać "
+"kartę."
 
 # 4b06b2ac014849f6b0bbe655351a4301
 #: ../../RTR.rst:780
 msgid "|mana_u| |mana_r|: Niv-Mizzet, Dracogenius deals 1 damage to target creature or player."
 msgstr ""
+"|mana_u| |mana_r|: Niv-Mizzet, Dracogenius zadaje 1 obrażenie wskazanemu "
+"stworowi lub graczowi."
 
 # 296b6e9710fa4a1b811204a440ba6d1c
 #: ../../RTR.rst:785
@@ -2106,11 +2189,14 @@ msgstr ""
 #: ../../RTR.rst:800
 msgid "Pack Rat's power and toughness are each equal to the number of Rats you control."
 msgstr ""
+"Pack Rat ma siłę i wytrzymałość równe liczbie Szczurów, którymi władasz."
 
 # ed0b3e4fc7bf40248e0d89afd8f3b0b5
 #: ../../RTR.rst:802
 msgid "|mana_2| |mana_b|, Discard a card: Put a token onto the battlefield that's a copy of Pack Rat."
 msgstr ""
+"|mana_2| |mana_b|, odrzuć kartę: Połóż na polu walki żeton będący kopią Pack "
+"Rat."
 
 # a44118d7b67d4824925078a4b7ca1f87
 #: ../../RTR.rst:807
@@ -2162,22 +2248,24 @@ msgstr ""
 # 5d9c47883a5a43219ab913e6fbaa29c1
 #: ../../RTR.rst:824
 msgid "As Pithing Needle enters the battlefield, name a card."
-msgstr ""
+msgstr "Gdy Pithink Needle wchodzi na pole walki, nazwij kartę."
 
 # 747b108acd1f41329d25661361b6fa82
 #: ../../RTR.rst:826
 msgid "Activated abilities of sources with the chosen name can't be activated unless they're mana abilities."
 msgstr ""
+"Aktywowane zdolności źródeł o wybranej nazwie nie mogą być aktywowane, chyba "
+"że dają manę."
 
 # e6282346752a4e648b1169dd62dca3b2
 #: ../../RTR.rst:831
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 # 54f80f8be3e74fb2a0de1ad4e93c0189
 #: ../../RTR.rst:830
 msgid "W"
-msgstr ""
+msgstr "|mana_w|"
 
 # 44a8bb0733a5431c90302a4318979ea6
 #: ../../RTR.rst:837
@@ -2191,12 +2279,14 @@ msgstr ""
 #: ../../RTR.rst:886
 #: ../../RTR.rst:1091
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 # 5fc50144a3a547d886dc3bfaa54e9188
 #: ../../RTR.rst:836
 msgid "Whenever Precinct Captain deals combat damage to a player, put a 1/1 white Soldier creature token onto the battlefield."
 msgstr ""
+"Ilekroć Precinct Captain zada graczowi obrażenia bojowe, połóż na polu walki "
+"żeton białego stwora Piechur 1/1."
 
 # b5328d26efec42f19bf0810c3ab27ee3
 #: ../../RTR.rst:841
@@ -2227,6 +2317,8 @@ msgstr ""
 #: ../../RTR.rst:850
 msgid "Whenever you cast a multicolored spell, Pyroconvergence deals 2 damage to target creature or player."
 msgstr ""
+"Ilekroć rzucasz wielokolorowy czar, Pyroconvergence zadaje 2 obrażenia "
+"wskazanemu stworowi lub graczowi."
 
 # bd573914e93e40bd96e95aac29132546
 #: ../../RTR.rst:857
@@ -2237,6 +2329,7 @@ msgstr ""
 #: ../../RTR.rst:856
 msgid "Enchanted land has \\\"|tap|: Target creature gains haste until end of turn.\\\""
 msgstr ""
+"Zauroczony ląd ma \\\"|tap:| Wskazany stwór zyskuje pośpiech do końca tury.\\\""
 
 # 5109e6f18c7945cf80cf01cab1cc8e6d
 #: ../../RTR.rst:861
@@ -2252,11 +2345,14 @@ msgstr ""
 #: ../../RTR.rst:864
 msgid "Choose one — Exile all cards from target player's graveyard; or destroy target artifact; or each creature deals 1 damage to its controller."
 msgstr ""
+"Wybierz jedno — Wypędź wszystkie karty z cmentarza wskazanego gracza; albo "
+"zniszcz wskazany artefakt; albo każdy stwór zadaje 1 obrażenie swojemu "
+"władcy."
 
 # 0f1e89a251844454885bef03bdb0251a
 #: ../../RTR.rst:873
 msgid "Rakdos Guildgate"
-msgstr ""
+msgstr "Rakdos Guildgate (Brama Gildii Rakdos)"
 
 # 150931e82428415197a05830eb3c0539
 #: ../../RTR.rst:870
@@ -2331,31 +2427,39 @@ msgstr "Latanie, Tratowanie"
 #: ../../RTR.rst:902
 msgid "Creature spells you cast cost |mana_1| less to cast for each 1 life your opponents have lost this turn."
 msgstr ""
+"Czary stworów kosztują cię o |mana_1| za każde 1 życie stracone przez "
+"przeciwników w tej turze."
 
 # 29dca70f7e7c4b3783728ff05c7df575
 #: ../../RTR.rst:907
 msgid "Rakdos's Return"
-msgstr ""
+msgstr "Rakdos's Return (Powrót Rakdosa)"
 
 # 9546f1eec4544b6dbff1606d19efd974
 #: ../../RTR.rst:906
 msgid "Rakdos's Return deals X damage to target opponent. That player discards X cards."
 msgstr ""
+"Rakdos's Return zadaje X obrażeń wskazanemu przeciwnikowi. Ów gracz odrzuca "
+"X kart."
 
 # 2447c040d8e54ccf84bcd7ef86a3a230
 #: ../../RTR.rst:913
 msgid "Rest in Peace"
-msgstr ""
+msgstr "Rest in Peace (Spoczywaj w Pokoju)"
 
 # f9aa94161dfb4e28b01558b6ecdc7526
 #: ../../RTR.rst:910
 msgid "When Rest in Peace enters the battlefield, exile all cards from all graveyards."
 msgstr ""
+"Kiedy Rest in Peace wchodzi na pole walki, wypędź wszystkie karty ze "
+"wszystkich cmentarzy."
 
 # 8e65a4afa5ba43c09eca4155508ec39a
 #: ../../RTR.rst:912
 msgid "If a card or token would be put into a graveyard from anywhere, exile it instead."
 msgstr ""
+"Jeśli karta lub żeton miałby trafić skądkolwiek na cmentarz, zamiast tego "
+"wypędź go."
 
 # 25fbbf9f2563426583937746aa0156cb
 #: ../../RTR.rst:921
@@ -2365,12 +2469,14 @@ msgstr ""
 # be9e37ba1e4b4d63be81aa1ab1c95645
 #: ../../RTR.rst:918
 msgid "Enchanted creature gets +1/+1 for each card in its controller's hand."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 za każdą kartę w ręce jego władcy."
 
 # f553e1af0314444d82238f2701c9f495
 #: ../../RTR.rst:920
 msgid "At the beginning of the draw step of enchanted creature's controller, that player draws an additional card."
 msgstr ""
+"Na początku kroku dobierania władcy zauroczonego stwora, ów gracz dobiera "
+"dodatkową kartę."
 
 # 5006424952a8482ca6cc2e03ede1186f
 #: ../../RTR.rst:925
@@ -2396,11 +2502,14 @@ msgstr ""
 #: ../../RTR.rst:932
 msgid "|mana_b| |mana_r|: Target blocking creature gets -1/-1 until end of turn."
 msgstr ""
+"|mana_b| |mana_r|: Wskazany blokujący stwór dostaje -1/-1 do końca tury."
 
 # 14a06265abd64769b7b5d69258c1f822
 #: ../../RTR.rst:934
 msgid "|mana_b| |mana_r|: Target player who lost life this turn loses 1 life."
 msgstr ""
+"|mana_b| |mana_r|: Wskazany gracz, który stracił punkty życia w tej turze, "
+"traci 1 życie."
 
 # 552900c8dc504ce7a8eef17471e2b671
 #: ../../RTR.rst:941
@@ -2410,7 +2519,7 @@ msgstr ""
 # 52237655fbdf4dc78b70554ec27746de
 #: ../../RTR.rst:940
 msgid "|mana_4|, |tap|: Target creature can't be blocked this turn."
-msgstr ""
+msgstr "|mana_4|, |tap|: Wskazany stwór nie może być blokowany w tej turze."
 
 # 736b3e24a2104f29997603e6afeb5a54
 #: ../../RTR.rst:945
@@ -2421,6 +2530,10 @@ msgstr ""
 #: ../../RTR.rst:944
 msgid "Populate. Creatures you control gain indestructible until end of turn. (To populate, put a token onto the battlefield that's a copy of a creature token you control. Damage and effects that say \\\"destroy\\\" don't destroy creatures with indestructible.)"
 msgstr ""
+"Zaludnij. Stwory, którymi władasz zyskują niezniszczalność do końca tury. "
+"(By zaludnić, połóż na polu walki żeton stwora będący kopią władanego przez "
+"ciebie żetonu stwora. Obrażenia i efekty mówiące \\\"zniszcz\\\" nie niszczą "
+"stworów z niezniszczalnością.)"
 
 # 0757abbdc0ba498a800e07d685180d67
 #: ../../RTR.rst:949
@@ -2431,6 +2544,8 @@ msgstr ""
 #: ../../RTR.rst:948
 msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary i zdolności "
+"władane przez twoich przeciwników.)"
 
 # f3955ac7a1ab49b39b992607950c0353
 #: ../../RTR.rst:955
@@ -2486,11 +2601,15 @@ msgstr ""
 #: ../../RTR.rst:974
 msgid "When Security Blockade enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield."
 msgstr ""
+"Kiedy Security Blockade wchodzi na pole walki, połóż na polu walki żeton "
+"białego stwora Rycerz 2/2 z czujnością."
 
 # 57f34f5fd718411e8564a0690ef5c378
 #: ../../RTR.rst:976
 msgid "Enchanted land has \\\"|tap|: Prevent the next 1 damage that would be dealt to you this turn.\\\""
 msgstr ""
+"Zauroczony ląd ma \\\"|tap|: Zażegnaj następnemu 1 obrażeniu, które mogłoby "
+"zostać ci zadane w tej turze.\\\""
 
 # a8337df5abe746989c2b4afaf79ab566
 #: ../../RTR.rst:981
@@ -2501,6 +2620,8 @@ msgstr ""
 #: ../../RTR.rst:980
 msgid "Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library."
 msgstr ""
+"Poszukaj w twojej bibliotece do trzech kart zwykłych lądów, ujawnij je i "
+"dołóż do twojej ręki. Następnie przetasuj twoją bibliotekę."
 
 # 4bcc94ab987842ffbe62947c8566aa90
 #: ../../RTR.rst:988
@@ -2511,11 +2632,14 @@ msgstr ""
 #: ../../RTR.rst:984
 msgid "Choose one — Target creature gets +2/+2 and gains trample until end of turn; or exile target creature with power 5 or greater; or put a 2/2 white Knight creature token with vigilance onto the battlefield."
 msgstr ""
+"Wybierz jedno — Wskazany stwór dostaje +2/+2 oraz tratowanie do końca tury; "
+"albo wypędź wskazanego stwora o sile 5 lub większej; albo połóż na polu "
+"walki żeton białego stwora Rycerz 2/2 z czujnością."
 
 # 881761b4e2534267bd4ab5beaa15a332
 #: ../../RTR.rst:994
 msgid "Selesnya Guildgate"
-msgstr ""
+msgstr "Selesnya Guildgate (Brama Gildii Selesnya)"
 
 # 4a50a59b4d2b434ebb91c0832ca1f549
 #: ../../RTR.rst:991
@@ -2577,6 +2701,9 @@ msgstr ""
 #: ../../RTR.rst:1013
 msgid "Scavenge |mana_2| |mana_b| (|mana_2| |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
+"Czystka |mana_2| |mana_b| (|mana_2| |mana_b|, wypędź tę kartę z twojego "
+"cmentarza: Połóż na wskazanym stworze tyle znaczników +1/+1, ile wynosi siła "
+"tej karty. Używaj jedynie jako obrzęd.)"
 
 # f6b9f625b7d444f2b352d63a0ea4eb12
 #: ../../RTR.rst:1018
@@ -2587,6 +2714,8 @@ msgstr ""
 #: ../../RTR.rst:1017
 msgid "At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, he or she loses 3 life."
 msgstr ""
+"Na początku utrzymania każdego z przeciwników, jeśli ów gracz ma jedną lub "
+"mniej kart w ręce, traci 3 życia."
 
 # 8c0f227023d94eb2ad35f2f777380752
 #: ../../RTR.rst:1022
@@ -2597,6 +2726,8 @@ msgstr ""
 #: ../../RTR.rst:1021
 msgid "Skull Rend deals 2 damage to each opponent. Those players each discard two cards at random."
 msgstr ""
+"Skull Rend zadaje 2 obrażenia każdemu przeciwnikowi. Owi gracze odrzucają "
+"losowo po dwie karty."
 
 # 915d389fd3614ec7aa5bb8a77478bedb
 #: ../../RTR.rst:1028
@@ -2612,6 +2743,9 @@ msgstr ""
 #: ../../RTR.rst:1033
 msgid "Whenever Skymark Roc attacks, you may return target creature defending player controls with toughness 2 or less to its owner's hand."
 msgstr ""
+"Ilekroć Skymark Roc atakuje, możesz zwrócić wskazanego stwora o "
+"wytrzymałości 2 lub mniej władanego przez broniącego się gracza do ręki jego "
+"właściciela."
 
 # e82fca5729724b0e93bf7b31bebdee1b
 #: ../../RTR.rst:1040
@@ -2647,6 +2781,9 @@ msgstr ""
 #: ../../RTR.rst:1047
 msgid "Scavenge |mana_0| (|mana_0|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
+"Czystka |mana_0| (|mana_0|, wypędź tę kartę z twojego cmentarza: Połóż na "
+"wskazanym stworze tyle znaczników +1/+1, ile wynosi siła tej karty. Używaj "
+"jedynie jako obrzęd.)"
 
 # c0b772ccf47c4937b3818508f7989e66
 #: ../../RTR.rst:1054
@@ -2662,6 +2799,9 @@ msgstr ""
 #: ../../RTR.rst:1053
 msgid "Scavenge |mana_1| |mana_b| |mana_g| (|mana_1| |mana_b| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
+"Czystka |mana_1| |mana_b| |mana_g| (|mana_1| |mana_b| |mana_g|, wypędź tę "
+"kartę z twojego cmentarza: Połóż na wskazanym stworze tyle znaczników +1/+1, "
+"ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 # 6d5ac94eac354f309495f6044795d50d
 #: ../../RTR.rst:1058
@@ -2961,6 +3101,9 @@ msgstr ""
 #: ../../RTR.rst:1185
 msgid "Scavenge |mana_6| |mana_b| (|mana_6| |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
+"Czystka |mana_6| |mana_b| (|mana_6| |mana_b|, wypędź tę kartę z twojego "
+"cmentarza: Połóż na wskazanym stworze tyle znaczników +1/+1, ile wynosi siła "
+"tej karty. Używaj jedynie jako obrzęd.)"
 
 # 18bb4a9e81bc438795f8d62af8436c8b
 #: ../../RTR.rst:1190
@@ -3275,6 +3418,9 @@ msgstr ""
 #: ../../RTR.rst:1331
 msgid "Scavenge |mana_2| |mana_b| |mana_b| (|mana_2| |mana_b| |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
+"Czystka |mana_2| |mana_b| |mana_b| (|mana_2| |mana_b| |mana_b|, wypędź tę "
+"kartę z twojego cmentarza: Połóż na wskazanym stworze tyle znaczników +1/+1, "
+"ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #~ msgid "Choose one — Creatures you control gain lifelink until end of turn"
 #~ msgstr ""

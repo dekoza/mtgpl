@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-05 12:03+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-10-06 17:37+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380971001.331947\n"
+"X-POOTLE-MTIME: 1381077423.25257\n"
 
 # bc285d61e5844f2db8f900ddf644d9e4
 #: ../../GTC.rst:5
@@ -253,7 +253,7 @@ msgstr "Assemble the Legion (Zgromadzenie Legionu)"
 #: ../../GTC.rst:64
 msgid "At the beginning of your upkeep, put a muster counter on Assemble the Legion. Then put a 1/1 red and white Soldier creature token with haste onto the battlefield for each muster counter on Assemble the Legion."
 msgstr ""
-"Na początku swojego utrzymania połóż znacznik musztry na Assemble the "
+"Na początku twojego utrzymania połóż znacznik musztry na Assemble the "
 "Legion. Następnie połóż na polu walki czerwono-biały żeton stwora Soldier "
 "1/1 z pośpiechem za każdy znacznik musztry na Assemble the Legion."
 
@@ -311,7 +311,7 @@ msgstr ""
 #: ../../GTC.rst:84
 msgid "|tap|: Draw a card, then exile a card from your hand face down."
 msgstr ""
-"|tap|: Dobierz kartę, następnie wypędź kartę ze swojej ręki obrazkiem do "
+"|tap|: Dobierz kartę, następnie wypędź kartę z twojej ręki obrazkiem do "
 "dołu."
 
 # 234f9ef601684740abfeae955f9d4420
@@ -683,9 +683,9 @@ msgstr ""
 #: ../../GTC.rst:212
 msgid "Target player puts the top four cards of his or her library into his or her graveyard. You draw a card for each creature card put into that graveyard this way."
 msgstr ""
-"Wskazany gracz przekłada cztery górne karty ze swojej biblioteki do swojego "
-"cmentarza. Dobierz kartę za każdą kartę stwora położoną w ten sposób na "
-"cmentarzu."
+"Wskazany gracz przekłada cztery wierzchnie karty ze swojej biblioteki do "
+"swojego cmentarza. Dobierz kartę za każdą kartę stwora położoną w ten sposób "
+"na cmentarzu."
 
 # 7afada6bb3d74ec5b4079230bc893a26
 #: ../../GTC.rst:219
@@ -704,8 +704,8 @@ msgstr ""
 msgid "Whenever you cast a spell, each opponent reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard."
 msgstr ""
 "Ilekroć rzucasz czar, każdy przeciwnik ujawnia karty z wierzchu swojej "
-"biblioteki, aż ujawni kartę lądu, po czym przekłada wszystkie ujawnione w "
-"ten sposób karty na swój cmentarz."
+"biblioteki aż ujawni kartę lądu, po czym przekłada wszystkie ujawnione w ten "
+"sposób karty na swój cmentarz."
 
 # 4419e77dc1854f408de2721e4b21d19e
 #: ../../GTC.rst:227
@@ -960,8 +960,8 @@ msgstr ""
 #: ../../GTC.rst:324
 msgid "+1: Look at the top card of your library. If it's a creature card, you may reveal it and put it into your hand."
 msgstr ""
-"+1: Spójrz na wierzchnią kartę ze swojej biblioteki. Jeśli jest to karta "
-"stwora, możesz ją ujawnić i dołożyć do swojej ręki."
+"+1: Spójrz na wierzchnią kartę twojej biblioteki. Jeśli jest to karta "
+"stwora, możesz ją ujawnić i dołożyć do twojej ręki."
 
 # 9128aee2fc8f4243b230b757dab5b1b5
 #: ../../GTC.rst:326
@@ -1017,7 +1017,7 @@ msgid "At the beginning of your upkeep, each player reveals the top card of his 
 msgstr ""
 "Na początku twojego utrzymania, każdy gracz ujawnia wierzchnią kartę swojej "
 "biblioteki, traci liczbę punktów życia równą łącznemu kosztowi many owej "
-"karty, po czym wkłada ją do swojej ręki."
+"karty, po czym dokłada ją do swojej ręki."
 
 # d70703ce79eb44f49b909e2c836d9763
 #: ../../GTC.rst:349
@@ -1416,9 +1416,8 @@ msgstr ""
 #: ../../GTC.rst:498
 msgid "Destroy target nonartifact creature. Its controller puts a number of cards equal to that creature's power from the top of his or her library into his or her graveyard."
 msgstr ""
-"Zniszcz wskazanego nieartefaktowego stwora. Jego władca przekłada liczbę "
-"kart równą sile owego stwora z wierzchu swojej biblioteki do swojego "
-"cmentarza."
+"Zniszcz wskazanego nieartefaktowego stwora. Jego władca wkłada liczbę kart "
+"równą sile owego stwora z wierzchu swojej biblioteki do swojego cmentarza."
 
 # 55c756388a62429b83a206ae3d4310f1
 #: ../../GTC.rst:503
@@ -2040,6 +2039,10 @@ msgstr ""
 #: ../../GTC.rst:755
 msgid "When Molten Primordial enters the battlefield, for each opponent, gain control of up to one target creature that player controls until end of turn. Untap those creatures. They gain haste until end of turn."
 msgstr ""
+"Kiedy Molten Primordial wchodzi na pole walki, dla każdego z przeciwników "
+"przejmij do końca tury władanie nad co najwyżej jednym wskazanym stworem "
+"władanym przez owego gracza. Odznacz te stwory. Zyskują one pośpiech do "
+"końca tury."
 
 # b64f13d2229a4a0b8ef96363ec1cd24a
 #: ../../GTC.rst:760
@@ -2049,7 +2052,7 @@ msgstr ""
 # c6d2b13ba4444180ad509bdc0bfbd5f0
 #: ../../GTC.rst:759
 msgid "When Mortus Strider dies, return it to its owner's hand."
-msgstr ""
+msgstr "Kiedy Mortus Strider umiera, zwróć go do ręki jego właściciela."
 
 # 8ed3c4b2c9b844bd87a3cbe36f076627
 #: ../../GTC.rst:764
@@ -2106,6 +2109,8 @@ msgstr ""
 #: ../../GTC.rst:781
 msgid "Battalion — Whenever Nav Squad Commandos and at least two other creatures attack, Nav Squad Commandos gets +1/+1 until end of turn. Untap it."
 msgstr ""
+"Batalion — Ilekroć Nav Squad Commandos i co najmniej dwa inne stwory "
+"atakują, Nav Squad Commandos dostaje +1/+1 do końca tury. Odznacz go."
 
 # 0db924cd9b4f4314bcafbff9dc34571f
 #: ../../GTC.rst:790
@@ -2132,7 +2137,7 @@ msgstr ""
 # f6d2a486eb2a4784985a2210b46e78f5
 #: ../../GTC.rst:795
 msgid "Nimbus Swimmer enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Nimbus Swimmer wchodzi na pole walki z X znacznikami +1/+1."
 
 # 6070e3a3ff8a454d8307b3125c4dddae
 #: ../../GTC.rst:802
@@ -2148,11 +2153,10 @@ msgstr ""
 
 # 218d1d9a594d4575b2b037924e7b4149
 #: ../../GTC.rst:801
-#, fuzzy
 msgid "At the beginning of your end step, you may exile Obzedat. If you do, return it to the battlefield under its owner's control at the beginning of your next upkeep. It gains haste."
 msgstr ""
-"Możesz wypędzić Obzedata z początkiem swojego kroku końcowego. Jeśli tak "
-"zrobisz, z początkiem swojego rozliczania przywróć go na pole walki pod "
+"Możesz wypędzić Obzedata z początkiem twojego kroku końcowego. Jeśli tak "
+"zrobisz, z początkiem twojego rozliczania przywróć go na pole walki pod "
 "władaniem jego właściciela. Zyskuje on pośpiech."
 
 # f0aa79c4aa3f4d98aaf22853d9f071f0
@@ -2164,6 +2168,8 @@ msgstr ""
 #: ../../GTC.rst:805
 msgid "Whenever another nontoken creature dies, you may put a 1/1 black Rat creature token onto the battlefield."
 msgstr ""
+"Ilekroć umiera inny nieżetonowy stwór możesz położyć na polu walki żeton "
+"czarnego stwora 1/1 Szczur."
 
 # 3030a66a6356423ea419c28cfd74e9cf
 #: ../../GTC.rst:807
@@ -2173,7 +2179,7 @@ msgstr "Kontrolowane przez ciebie stwory Rat mają Dotyk Śmierci."
 # 2de4ccd77adb454ca8e35cf722edf5e5
 #: ../../GTC.rst:816
 msgid "One Thousand Lashes"
-msgstr ""
+msgstr "One Thousand Lashes (Tysiąc Batów)"
 
 # e0b3dab0c98a4611b59bcd753911f8f5
 #: ../../GTC.rst:813
@@ -2197,6 +2203,9 @@ msgstr ""
 #: ../../GTC.rst:819
 msgid "|mana_1| |mana_g|, Remove one or more +1/+1 counters from among creatures you control: Put an X/X green Ooze creature token onto the battlefield, where X is the number of +1/+1 counters removed this way."
 msgstr ""
+"|mana_1| |mana_g|, usuń jeden lub więcej znaczników +1/+1 spośród stworów, "
+"którymi władasz: Połóż na polu walki żeton zielonego stwora Szlam X/X, gdzie "
+"X jest liczbą usuniętych w ten sposób znaczników +1/+1."
 
 # dca322519181451ca163435b1c4a4044
 #: ../../GTC.rst:824
@@ -2261,7 +2270,7 @@ msgstr ""
 #: ../../GTC.rst:845
 msgid "Target player puts the top three cards of his or her library into his or her graveyard."
 msgstr ""
-"Wskazany gracz wkłada trzy górne karty swojej biblioteki do swojego "
+"Wskazany gracz wkłada trzy wierzchnie karty swojej biblioteki do swojego "
 "cmentarza."
 
 # f1a02ecfd0bf481185020ac3ef8739e7
@@ -2285,6 +2294,8 @@ msgstr ""
 #: ../../GTC.rst:855
 msgid "Choose target creature you control. You gain life equal to that creature's power plus its toughness."
 msgstr ""
+"Wskaż stwora, którym władasz. Zyskujesz tyle życia, ile wynosi suma siły i "
+"wytrzymałości owego stwora."
 
 # d351093a9bb64d9f85abf434f05161f8
 #: ../../GTC.rst:862
@@ -2310,8 +2321,11 @@ msgstr ""
 
 # 94f11b29f4294d318b1cd1ea0211bf3a
 #: ../../GTC.rst:867
+#, fuzzy
 msgid "When Prime Speaker Zegana enters the battlefield, draw cards equal to its power."
 msgstr ""
+"Kiedy Prime Speaker Zegana wchodzi na pole walki, dobierz tyle kart, ile ma "
+"siły."
 
 # 25e3b6e5ea104fa495ecd172b46d7167
 #: ../../GTC.rst:874
@@ -2348,12 +2362,12 @@ msgstr ""
 # b6c0808aee24451fbef3efd58cdb1533
 #: ../../GTC.rst:881
 msgid "Target opponent discards two cards and you gain 2 life."
-msgstr ""
+msgstr "Wskazany przeciwnik odrzuca dwie karty, a ty zyskujesz 2 życia."
 
 # 6c0df34a38954446ab4b96bce9302762
 #: ../../GTC.rst:886
 msgid "Rapid Hybridization"
-msgstr ""
+msgstr "Rapid Hybridization (Nagła Hybrydyzacja)"
 
 # e3a5ed6933664d6ea0a59f2477c0b924
 #: ../../GTC.rst:885
@@ -2380,12 +2394,13 @@ msgstr ""
 # c10ab51da48c42bfbe695e48aa211a57
 #: ../../GTC.rst:893
 msgid "As Realmwright enters the battlefield, choose a basic land type."
-msgstr ""
+msgstr "Gdy Realmwright wchodzi na pole walki wybierz typ zwykłego lądu."
 
 # 4b4c6732d3db49ae9355f696c9c8b6e9
 #: ../../GTC.rst:895
+#, fuzzy
 msgid "Lands you control are the chosen type in addition to their other types."
-msgstr ""
+msgstr "Lądy którymi władasz mają dodatkowo wybrany typ."
 
 # 5c94ed7e09ab498499e8b945664c2f61
 #: ../../GTC.rst:900
@@ -2927,9 +2942,9 @@ msgid "When Sylvan Primordial enters the battlefield, for each opponent, destroy
 msgstr ""
 "Kiedy Sylvan Primordial wchodzi na pole walki, dla każdego ze swoich "
 "przeciwników, zniszcz wskazaną stałkę nie będącą stworem kontrolowaną przez "
-"owego gracza. Dla każdej stałki zniszczonej w ten sposób, poszukaj w swojej "
+"owego gracza. Dla każdej stałki zniszczonej w ten sposób, poszukaj w twojej "
 "bibliotece karty Lasu i połóż ją zaznaczoną na polu walki. Następnie "
-"przetasuj bibliotekę."
+"przetasuj twoją bibliotekę."
 
 # 6e34a525a3bf40f78649a4f6ef829c96
 #: ../../GTC.rst:1134
@@ -3244,8 +3259,8 @@ msgstr ""
 #: ../../GTC.rst:1263
 msgid "Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way."
 msgstr ""
-"Każdy gracz odrzuca swoją rękę, następnie dobiera tyle kart, ile zostało "
-"najwięcej odrzuconych w ten sposób."
+"Każdy gracz odrzuca swoją rękę, następnie dobiera tyle kart, ile najwięcej "
+"zostało odrzuconych w ten sposób."
 
 # 6f79dcb7c4f5431c81fcd5ee7a04ccc7
 #: ../../GTC.rst:1270

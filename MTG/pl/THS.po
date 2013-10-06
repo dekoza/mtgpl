@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-01 17:25+0200\n"
+"PO-Revision-Date: 2013-10-06 17:46+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,8 +15,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
-"X-POOTLE-MTIME: 1380636320.910679\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1381078014.264118\n"
 
 # cf7ee521875a459c9352819ad80d2edc
 # 887ff143b14348b2b7b52aec3a556c81
@@ -349,8 +349,8 @@ msgstr "Zauroczony stwór nie może być blokowany."
 #: ../../THS.rst:68
 msgid "Whenever enchanted creature attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Ilekroć zauroczony stwór atakuje, wróż 1. (Spójdz na wierzchnią kartę swojej "
-"biblioteki. Możesz położyć tę kartę na spodzie swojej biblioteki.)"
+"Ilekroć zauroczony stwór atakuje, wróż 1. (Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # f908b87e357048249940cd085b43c5d0
 # de81ffa1181241f3b250b74e06cbd48d
@@ -432,8 +432,8 @@ msgstr "Artisan's Sorrow"
 msgid "Destroy target artifact or enchantment. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
 "Zniszcz wskazany artefakt lub urok. Wróż 2. (By wróżyć 2, spójrz na dwie "
-"wierzchnie karty swojej biblioteki, następnie połóż dowolną liczbę z nich na "
-"spodzie swojej biblioteki, a pozostałe na wierzchu w dowolnej kolejności.)"
+"wierzchnie karty twojej biblioteki, następnie połóż dowolną liczbę z nich na "
+"spodzie twojej biblioteki, a pozostałe na wierzchu w dowolnej kolejności.)"
 
 # b2db682f9b9749f5afaa0d9bc0df8633
 # 6befca49fea34feaa7c4d8c353d1fbca
@@ -536,8 +536,8 @@ msgid "Heroic — Whenever you cast a spell that targets Battlewise Hoplite, put
 msgstr ""
 "Heroizm — Ilekroć rzucasz czar wskazujący na Battlewise Hoplite, połóż "
 "znacznik +1/+1 na Battlewise Hoplite, a następnie wróż 1. (By wróżyć 1, "
-"spójrz na wierzchnią kartę swojej bilbioteki, następnie możesz położyć tę "
-"kartę na spodzie swojej biblioteki.)"
+"spójrz na wierzchnią kartę twojej bilbioteki, następnie możesz położyć ową "
+"kartę na spodzie twojej biblioteki.)"
 
 # af5a002f8af740e6aa2990e90f9b1b0a
 # e583facda0724d9bb281039dc23c6018
@@ -551,8 +551,8 @@ msgstr "Battlewise Valor"
 #: ../../THS.rst:122
 msgid "Target creature gets +2/+2 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Wskazany stwór dostaje +2/+2 do końca tury. Wróż 1. (Spójdz na wierzchnią "
-"kartę swojej biblioteki. Możesz położyć tę kartę na spodzie swojej "
+"Wskazany stwór dostaje +2/+2 do końca tury. Wróż 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie swojej "
 "biblioteki.)"
 
 # a90e3126f1ca48b6a895b8840878e619
@@ -736,9 +736,9 @@ msgstr "Burnished Hart"
 #: ../../THS.rst:181
 msgid "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"|mana_3|, poświęć Burnished Hart: Poszukaj w swojej bibliotece najwyżej dwie "
-"karty podstawowych lądów, połóż je na polu walki zaznaczone, a następnie "
-"przetasuj swoją bibliotekę."
+"|mana_3|, poświęć Burnished Hart: Poszukaj w twojej bibliotece najwyżej dwie "
+"karty zwykłych lądów, połóż je na polu walki zaznaczone, a następnie "
+"przetasuj twoją bibliotekę."
 
 # 0dfe9e42bc0d4c15a7f4e816d9c5ed32
 # 8a9aff2f5e65401fb64404574c86f112
@@ -935,8 +935,9 @@ msgstr "Commune with the Gods"
 #: ../../THS.rst:243
 msgid "Reveal the top five cards of your library. You may put a creature or enchantment card from among them into your hand. Put the rest into your graveyard."
 msgstr ""
-"Ujawnij pięć wierzchnich kart swojej biblioteki. Możesz umieścić kartę "
-"stwora lub uroku spośród nich w swojej ręce. Połóż pozostałe w cmentarzu."
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Możesz umieścić kartę "
+"stwora lub uroku spośród nich w twojej ręce. Połóż pozostałe w twoim "
+"cmentarzu."
 
 # 35c7d5b3182f470ab803b080f232181b
 # a1f50a89082a404ba303b86fa64b779b
@@ -1155,8 +1156,8 @@ msgstr "Dissolve"
 #: ../../THS.rst:305
 msgid "Counter target spell. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Skontruj wskazany czar. Wróż 1. (Spójdz na wierzchnią kartę swojej "
-"biblioteki. Możesz położyć tę kartę na spodzie swojej biblioteki.)"
+"Skontruj wskazany czar. Wróż 1. (Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # 7a34e8002bc24e8f88ceaeb2182dbb12
 # 2981a527206b4932acb697cab5f48004
@@ -1627,8 +1628,8 @@ msgstr "Gods Willing"
 #: ../../THS.rst:447
 msgid "Target creature you control gains protection from the color of your choice until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Wskazany stwór dostaje +2/+2 do końca tury. Wróż 1. (Spójdz na wierzchnią "
-"kartę swojej biblioteki. Możesz położyć tę kartę na spodzie swojej "
+"Wskazany stwór dostaje +2/+2 do końca tury. Wróż 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
 "biblioteki.)"
 
 # e10e427e62a248119759153fea1ebb40
@@ -1821,8 +1822,8 @@ msgstr "Horizon Scholar"
 msgid "When Horizon Scholar enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
 "Kiedy Horizon Scholar wchodzi na pole walki, wróż 2. (By wróżyć 2, spójrz na "
-"dwie wierzchnie karty swojej biblioteki, następnie połóż dowolną liczbę z "
-"nich na spodzie swojej biblioteki, a pozostałe na wierzchu w dowolnej "
+"dwie wierzchnie karty twojej biblioteki, następnie połóż dowolną liczbę z "
+"nich na spodzie twojej biblioteki, a pozostałe na wierzchu w dowolnej "
 "kolejności.)"
 
 # 0a11c4dc4522442b91cecc50cbc0a9cd
@@ -2147,8 +2148,8 @@ msgstr ""
 #: ../../THS.rst:603
 msgid "Target creature gets -3/-0 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Wskazany stwór dostaje +2/+2 do końca tury. Wróż 1. (Spójdz na wierzchnią "
-"kartę swojej biblioteki. Możesz położyć tę kartę na spodzie swojej "
+"Wskazany stwór dostaje +2/+2 do końca tury. Wróż 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
 "biblioteki.)"
 
 # b6736a5569b841458de7f90b70fe78be
@@ -2162,8 +2163,8 @@ msgstr ""
 msgid "Magma Jet deals 2 damage to target creature or player. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
 "Magma Jet zadaje 2 obrażenia wskazanemu stworowi lub graczowi. Wróż 2. (By "
-"wróżyć 2, spójrz na dwie wierzchnie karty swojej biblioteki, następnie połóż "
-"dowolną liczbę z nich na spodzie swojej biblioteki, a pozostałe na wierzchu "
+"wróżyć 2, spójrz na dwie wierzchnie karty twojej biblioteki, następnie połóż "
+"dowolną liczbę z nich na spodzie twojej biblioteki, a pozostałe na wierzchu "
 "w dowolnej kolejności.)"
 
 # 4fcca0eb078b42798b00cb4029634cd9
@@ -2176,7 +2177,7 @@ msgstr ""
 #: ../../THS.rst:611
 msgid "Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
-"Przywróć najwyżej dwie wskazane karty stwora ze swojego cmentarza do swojej "
+"Przywróć najwyżej dwie wskazane karty stworów z twojego cmentarza do twojej "
 "ręki."
 
 # a5cb8a46f7a4407d86e184a7f1b69fa8
@@ -2314,7 +2315,7 @@ msgstr "Mnemonic Wall"
 msgid "When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand."
 msgstr ""
 "Kiedy Mnemonic Wall wchodzi na pole walki możesz zwrócić wskazaną kartę "
-"sztuczki lub obrzędu ze swojego cmentarza do swojej ręki."
+"sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
 # da4f29fc60624c1db533ea70c78b9cf8
 # 23258df95e1e4889812cccede5ba611b
@@ -2548,7 +2549,7 @@ msgstr "Kiedy Nylea's Presence wchodzi na pole walki, dobierz kartę."
 # 8b69d128c1b549eea8815c91db0325c6
 #: ../../THS.rst:731
 msgid "Enchanted land is every basic land type in addition to its other types."
-msgstr "Zauroczony ląd ma dodatkowo typ każdego lądu podstawowego."
+msgstr "Zauroczony ląd ma dodatkowo typ każdego zwykłego lądu."
 
 # 79857f72fa3e41ab8bd78275371ba6ce
 # 38f2377efed54e5d9a4a9695b4dd7539
@@ -2583,8 +2584,8 @@ msgstr ""
 msgid "When Omenspeaker enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
 "Kiedy Omenspeaker wchodzi na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
-"karty swojej biblioteki, następnie połóż dowolną liczbę z nich na spodzie "
-"swojej biblioteki, a pozostałe na wierzchu w dowolnej kolejności.)"
+"karty twojej biblioteki, następnie połóż dowolną liczbę z nich na spodzie "
+"twojej biblioteki, a pozostałe na wierzchu w dowolnej kolejności.)"
 
 # 4ee4065b9843493eb32c196d7a2f7c12
 #: ../../THS.rst:748
@@ -2662,9 +2663,9 @@ msgstr ""
 #: ../../THS.rst:771
 msgid "When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"Kiedy poświęcasz Ordeal of Nylea, poszukaj w swojej bibliotece najwyżej "
-"dwóch kart podstawowych lądów, połóż je na polu walki zaznaczone, a "
-"następnie przetasuj swoją bibliotekę."
+"Kiedy poświęcasz Ordeal of Nylea, poszukaj w twojej bibliotece najwyżej "
+"dwóch kart zwykłych lądów, połóż je na polu walki zaznaczone, a następnie "
+"przetasuj twoją bibliotekę."
 
 # 287ac4f7b36241d0943cf48147652745
 # 6cce77e36ba7408f9524240939490ab4
@@ -2767,7 +2768,7 @@ msgstr "Pharika's Mender"
 msgid "When Pharika's Mender enters the battlefield, you may return target creature or enchantment card from your graveyard to your hand."
 msgstr ""
 "Kiedy Pharika's Mender wchodzi na pole walki, możesz przywrócić wskazaną "
-"kartę stwora lub uroku ze swojego cmentarza do swojej ręki."
+"kartę stwora lub uroku z twojego cmentarza do twojej ręki."
 
 # 3dc538b72219430b91488804c103aee5
 # 484521b9975f4a26bed49cef89924e82
@@ -2837,9 +2838,9 @@ msgstr ""
 msgid "When Polukranos, World Eater becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos."
 msgstr ""
 "Kiedy Polukranos, World Eater staje się monstrualny, zadaje on X obrażeń "
-"rozdzielonych według twojej woli pomiędzy dowolną liczbę stworów władanych "
-"przez twoich przeciwników. Każdy z owych stworów zadaje Polukranosowi "
-"obrażenia równe swojej sile."
+"rozdzielonych według twojej woli pomiędzy dowolną liczbę wskazanych stworów "
+"władanych przez twoich przeciwników. Każdy z owych stworów zadaje "
+"Polukranosowi obrażenia równe swojej sile."
 
 # da51b50cbf384c899a41e6a5df2697c7
 # cb7b0fab571f429cb14e43c2d9f290aa
@@ -2855,7 +2856,7 @@ msgid "Gain control of target creature until end of turn. Untap that creature. I
 msgstr ""
 "Przejmij kontrolę nad wskazanym stworem do końca tury. Odznacz tego stwora. "
 "Dostaje on pośpiech do końca tury. Wróż 1. (Spójrz na wierzchnią kartę "
-"swojej biblioteki. Możesz położyć tę kartę na spodzie swojej biblioteki.)"
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # 758c7fa162b6473390752d031f0ea5d7
 # 3a858b0b8da64fd39d8466a960c39fed
@@ -2870,7 +2871,7 @@ msgstr "Prescient Chimera"
 msgid "Whenever you cast an instant or sorcery spell, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Ilekroć rzucasz czar sztuczki lub obrzędu, wróż 1. (Spójrz na wierzchnią "
-"kartę swojej biblioteki. Możesz położyć tę kartę na spodzie swojej "
+"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
 "biblioteki.)"
 
 # e5526badc9134798933a134165a2ec1a
@@ -2907,7 +2908,7 @@ msgstr ""
 msgid "Whenever Prognostic Sphinx attacks, scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
 "Kiedy Prognostic Sphinx atakuje, wróż 3. (Spójrz na trzy wierzchnie karty "
-"swojej biblioteki, następnie połóż dowolną liczbę z nich na spodzie swojej "
+"twojej biblioteki, następnie połóż dowolną liczbę z nich na spodzie twojej "
 "biblioteki, a pozostałe na wierzchu w dowolnej kolejności.)"
 
 # d5fba2b469874f06a6ac26d0b4bc3db1
@@ -3065,8 +3066,8 @@ msgstr "Rage of Purphoros"
 msgid "Rage of Purphoros deals 4 damage to target creature. It can't be regenerated this turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Rage of Purphoros zadaje 4 obrażenia wskazanemu stworowi. Ów stwór nie może "
-"być regenerowany w tej turze. Wróż 1. (Spójdz na wierzchnią kartę swojej "
-"biblioteki. Możesz położyć tę kartę na spodzie swojej biblioteki.)"
+"być regenerowany w tej turze. Wróż 1. (Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # b49c0b14137245208fda2c454ade6ae5
 # 826dfcc0f0a846f194376d00f5af9d11
@@ -3107,8 +3108,8 @@ msgstr "Read the Bones"
 msgid "Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
 "Wróż 2, następnie dobierz dwie karty. Tracisz 2 życia. (By wróżyć 2, spójrz "
-"na dwie wierzchnie karty swojej biblioteki, następnie połóż dowolną liczbę z "
-"nich na spodzie swojej biblioteki, a pozostałe na wierzchu w dowolnej "
+"na dwie wierzchnie karty twojej biblioteki, następnie połóż dowolną liczbę z "
+"nich na spodzie twojej biblioteki, a pozostałe na wierzchu w dowolnej "
 "kolejności.)"
 
 # d9779816fb094f868d40b1e25d14f9a0
@@ -3121,8 +3122,8 @@ msgstr ""
 #: ../../THS.rst:909
 msgid "Whenever another creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Ilekroć umiera inny stwór, wróż 1. (Spójdz na wierzchnią kartę swojej "
-"biblioteki. Możesz położyć tę kartę na spodzie swojej biblioteki.)"
+"Ilekroć umiera inny stwór, wróż 1. (Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # fe9df3b36f4b4fd3b24f41b7d1e2f303
 # 8d787af3243f4e0f949b25dad4f08e5f
@@ -3154,9 +3155,9 @@ msgstr ""
 #: ../../THS.rst:919
 msgid "Choose target creature card in your graveyard. Return that card and the sacrificed card to the battlefield under your control at the beginning of your next upkeep. Exile Rescue from the Underworld."
 msgstr ""
-"Wskaż kartę stwora w swoim cmentarzu. Zwróć tę kartę oraz poświęconą kartę "
-"na pole walki pod swoim władaniem na początku swojej następnej fazy "
-"utrzymania. Wypędź Rescue from the Underworld."
+"Wskaż kartę stwora w twoim cmentarzu. Zwróć ową kartę oraz poświęconą kartę "
+"na pole walki pod twoim władaniem na początku twojego następnego utrzymania. "
+"Wypędź Rescue from the Underworld."
 
 # 7c6b7d157db1479eb916d109b5f7596c
 # be134b3c90bd4d36a1289e88073fb1b3
@@ -3300,8 +3301,8 @@ msgstr "Sea God's Revenge (Zemsta Bóstwa Mórz)"
 msgid "Return up to three target creatures your opponents control to their owners' hands. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Przywróć najwyżej trzy wskazane stwory, którymi władają twoi przeciwnicy, do "
-"rąk ich właścicieli. Wróż 1. (Spójdz na wierzchnią kartę swojej biblioteki. "
-"Możesz położyć tę kartę na spodzie swojej biblioteki.)"
+"rąk ich właścicieli. Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # 5c114380732b4f5fbb77a2f29a3bd74d
 # 7a744d70fe1145579e0fdb31ff0dc3b6
@@ -3499,8 +3500,8 @@ msgstr "Spark Jolt"
 msgid "Spark Jolt deals 1 damage to target creature or player. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Spark Jolt zadaje 1 obrażenie wskazanemu stworowi lub graczowi. Wróż 1. "
-"(Spójdz na wierzchnią kartę swojej biblioteki. Możesz położyć tę kartę na "
-"spodzie swojej biblioteki.)"
+"(Spójrz na wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na "
+"spodzie twojej biblioteki.)"
 
 # 2b13f4a3afd5420182706425ac3f40c8
 # f58518cc18b64a16823d4297cbb72ec1
@@ -3593,9 +3594,9 @@ msgstr "Steam Augury"
 #: ../../THS.rst:1057
 msgid "Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard."
 msgstr ""
-"Ujawnij pięć wierzchnich kart swojej biblioteki i rozdziel je na dwa stosy. "
-"Przeciwnik wybiera jeden z tych stosów. Umieść ów stos w swojej ręce, a "
-"pozostały w swoim cmentarzu."
+"Ujawnij pięć wierzchnich kart twojej biblioteki i rozdziel je na dwa stosy. "
+"Przeciwnik wybiera jeden z tych stosów. Umieść ów stos w twojej ręce, a "
+"pozostały w twoim cmentarzu."
 
 # 812d486916d8491393db0ae0ad46592b
 # 3a3345b0eefa4ca8a5fb95f30b5ac1a4
@@ -3654,8 +3655,8 @@ msgstr "Stymied Hopes"
 msgid "Counter target spell unless its controller pays |mana_1|. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Skontruj wskazany czar dopóki jego władca nie zapłaci |mana_1|. Wróż 1. "
-"(Spójdz na wierzchnią kartę swojej biblioteki. Możesz położyć tę kartę na "
-"spodzie swojej biblioteki.)"
+"(Spójrz na wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na "
+"spodzie twojej biblioteki.)"
 
 # d9e219efb96a4c0dbe6b1c8176bbe3cb
 # 0aeb388d793c4641897098d021601161
@@ -3714,8 +3715,8 @@ msgstr "Temple of Abandon wchodzi na pole walki zaznaczony."
 #: ../../THS.rst:1095
 msgid "When Temple of Abandon enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy Temple of Abandon wchodzi na pole walki, wróż 1. (Spójdz na wierzchnią "
-"kartę swojej biblioteki. Możesz położyć tę kartę na spodzie swojej "
+"Kiedy Temple of Abandon wchodzi na pole walki, wróż 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
 "biblioteki.)"
 
 # e46764f3aff84f7fa505dca28f961cb6
@@ -3742,8 +3743,8 @@ msgstr "Temple of Deceit  wchodzi na pole walki zaznaczony."
 #: ../../THS.rst:1103
 msgid "When Temple of Deceit enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy Temple of Deceit wchodzi na pole walki, wróż 1. (Spójdz na wierzchnią "
-"kartę swojej biblioteki. Możesz położyć tę kartę na spodzie swojej "
+"Kiedy Temple of Deceit wchodzi na pole walki, wróż 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
 "biblioteki.)"
 
 # 76bd4645501f4b8b8e98800903d443c3
@@ -3770,8 +3771,8 @@ msgstr "Temple of Mystery wchodzi na pole walki zaznaczony."
 #: ../../THS.rst:1111
 msgid "When Temple of Mystery enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy Temple of Mystery wchodzi na pole walki, wróż 1. (Spójdz na wierzchnią "
-"kartę swojej biblioteki. Możesz położyć tę kartę na spodzie swojej "
+"Kiedy Temple of Mystery wchodzi na pole walki, wróż 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
 "biblioteki.)"
 
 # a7c1c3c46b6d4579b3f87817ef23e8bd
@@ -3798,8 +3799,8 @@ msgstr "Temple of Silence wchodzi na pole walki zaznaczony."
 #: ../../THS.rst:1119
 msgid "When Temple of Silence enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy Temple of Silence wchodzi na pole walki, wróż 1. (Spójdz na wierzchnią "
-"kartę swojej biblioteki. Możesz położyć tę kartę na spodzie swojej "
+"Kiedy Temple of Silence wchodzi na pole walki, wróż 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
 "biblioteki.)"
 
 # 8963c0acfd8546b09a7aa95e791cef2b
@@ -3826,8 +3827,8 @@ msgstr "Temple of Triumph wchodzi na pole walki zaznaczony."
 #: ../../THS.rst:1127
 msgid "When Temple of Triumph enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Kiedy Temple of Triumph wchodzi na pole walki, wróż 1. (Spójdz na wierzchnią "
-"kartę swojej biblioteki. Możesz położyć tę kartę na spodzie swojej "
+"Kiedy Temple of Triumph wchodzi na pole walki, wróż 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
 "biblioteki.)"
 
 # a7cb8981229b4072b35262b19517af3c
@@ -3856,7 +3857,7 @@ msgstr ""
 # cc9014a1800a432ea1293ee77b6bb7f8
 #: ../../THS.rst:1137
 msgid "At the beginning of your upkeep, scry 1."
-msgstr "Na początku swojego kroku utrzymania, wróż 1."
+msgstr "Na początku twojego kroku utrzymania, wróż 1."
 
 # 27efde4e0b414965a30cddeb82a6c42e
 # 7d277ad3086e4c58bb964a9eb0df0285
@@ -3918,7 +3919,7 @@ msgstr "Thoughtseize"
 msgid "Target player reveals his or her hand. You choose a nonland card from it. That player discards that card. You lose 2 life."
 msgstr ""
 "Wskazany gracz ujawnia swoją rękę. Wybierasz z niej kartę nie będącą lądem. "
-"Ów gracz odrzuca tę kartę. Tracisz 2 życia."
+"Ów gracz odrzuca ową kartę. Tracisz 2 życia."
 
 # 297098552d9245d8aa54d93015e5e587
 # 0f354fc9a2bc438fa27b4bfa32012ba0
@@ -3969,7 +3970,7 @@ msgstr "Titan's Strength"
 msgid "Target creature gets +3/+1 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Wskazany stwór dostaje +3/+1 do końca tury. Wróż 1. (Spójrz na wierzchnią "
-"kartę swojej biblioteki. Możesz położyć tę kartę na spodzie swojej "
+"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
 "biblioteki.)"
 
 # a24f9e23edf44a0d82a20ecb6536b917
@@ -4003,9 +4004,9 @@ msgstr ""
 #: ../../THS.rst:1179
 msgid "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library."
 msgstr ""
-"|mana_1|, poświęć Traveler's Amulet: Poszukaj w swojej bibliotece karty "
-"podstawowego lądu, ujawnij ją i dołóż do swojej ręki. Następnie przetasuj "
-"swoją bibliotekę."
+"|mana_1|, poświęć Traveler's Amulet: Poszukaj w twojej bibliotece karty "
+"zwykłego lądu, ujawnij ją i dołóż do twojej ręki. Następnie przetasuj twoją "
+"bibliotekę."
 
 # 04f74fb91c55497ca29753622b01d017
 #: ../../THS.rst:1182
@@ -4115,8 +4116,8 @@ msgstr ""
 #: ../../THS.rst:1213
 msgid "|mana_1| |mana_b|, Sacrifice a creature: Return Tymaret from your graveyard to your hand."
 msgstr ""
-"|mana_1| |mana_b|, poświęć stwora: Przywróć Tymaret ze swojego cmentarza na "
-"swoją rękę."
+"|mana_1| |mana_b|, poświęć stwora: Przywróć Tymaret z twojego cmentarza do "
+"twojej ręki."
 
 # 40d142ff2bef466880f95dec3e28a4aa
 # 9eef70bd53914f0992bf0609f08c5f0d
@@ -4171,8 +4172,8 @@ msgstr "Vanquish the Foul"
 msgid "Destroy target creature with power 4 or greater. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Zniszcz wskazanego stwora o sile 4 lub większej. Wróż 1. (Spójrz na "
-"wierzchnią kartę swojej biblioteki. Możesz położyć tę kartę na spodzie "
-"swojej biblioteki.)"
+"wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na spodzie "
+"twojej biblioteki.)"
 
 # 49ea3f9d60a742f1be08a0bfe2203667
 # e1b06de43fbe4341913036310dc182e7
@@ -4213,8 +4214,8 @@ msgstr "Voyage's End (Kres Podróży)"
 msgid "Return target creature to its owner's hand. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Przywróć wskazanego stwora do ręki jego właściciela. Wróż 1. (Spójrz na "
-"wierzchnią kartę swojej biblioteki. Możesz położyć tę kartę na spodzie "
-"swojej biblioteki.)"
+"wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na spodzie "
+"twojej biblioteki.)"
 
 # acf159cb8be446a68c2ddf0f7028dd50
 # 9bc611b51749443399f3bbe796aef516
@@ -4284,7 +4285,7 @@ msgstr "Stwory, którymi władasz, mają więź życia"
 #: ../../THS.rst:1269
 msgid "|mana_2| |mana_b| |mana_b|, |tap|: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery."
 msgstr ""
-"|mana_2| |mana_b| |mana_b|, |tap|: Przywróć wskazaną kartę stwora ze swojego "
+"|mana_2| |mana_b| |mana_b|, |tap|: Przywróć wskazaną kartę stwora z twojego "
 "cmentarza na pole walki. Dostaje on pośpiech. Wypędź go na początku "
 "najbliższego kroku końcowego. Jeśli miałby opuścić pole walki, wypędź go "
 "zamiast umieszczać go gdziekolwiek indziej. Aktywuj tę zdolność wyłącznie "
@@ -4331,8 +4332,8 @@ msgstr "Witches' Eye"
 msgid "Equipped creature has \\\"|mana_1|, |tap|: Scry 1.\\\" (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
 msgstr ""
 "Wyposażony stwór ma \\\"|mana_1|, |tap|: Wróż 1.\\\" (By wróżyć 1, spójrz na "
-"wierzchnią kartę swojej biblioteki, następnie możesz położyć tę kartę na "
-"spodzie swojej biblioteki.)"
+"wierzchnią kartę twojej biblioteki, następnie możesz położyć ową kartę na "
+"spodzie twojej biblioteki.)"
 
 # e3f92f48fe8f4c55af272025a0386e7b
 # 06b092fed17f4e5b9376a35fe03ec590
@@ -4368,7 +4369,7 @@ msgstr ""
 #: ../../THS.rst:1293
 msgid "-6: Exile the top seven cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield."
 msgstr ""
-"-6: Wypędź siedem wierzchnich kart swojej biblioteki. Możesz położyć na polu "
+"-6: Wypędź siedem wierzchnich kart twojej biblioteki. Możesz położyć na polu "
 "walki dowolną liczbę kart stworów i lądów spośród nich."
 
 # 17cf42dfd8b44888bdcf7b53c910dd3f
