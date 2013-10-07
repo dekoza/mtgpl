@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-28 21:23\n"
-"PO-Revision-Date: 2013-10-06 12:46+0200\n"
+"PO-Revision-Date: 2013-10-07 13:58+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381059961.821987\n"
+"X-POOTLE-MTIME: 1381150737.878310\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
 #: ../../DGM.rst:5
@@ -1014,7 +1014,7 @@ msgstr ""
 # f41ee66fc7ce480eba9de04072748a1c
 #: ../../DGM.rst:368
 msgid "Deathtouch"
-msgstr "Dotyk Śmierci"
+msgstr "Dotyk śmierci"
 
 # b835fa462c6644ce9b6355f5ef4cfad7
 #: ../../DGM.rst:370
@@ -1135,7 +1135,7 @@ msgstr "Master of Cruelties (Mistrz Okrucieństw)"
 # c83909c6cdc14e7ab3552d38c320aa27
 #: ../../DGM.rst:410
 msgid "First strike, deathtouch"
-msgstr "Pierwszy Cios, Dotyk Śmierci"
+msgstr "Pierwszy cios, dotyk śmierci"
 
 # e77eb441963d493182e2cb2eb27dc86c
 #: ../../DGM.rst:412
@@ -1169,7 +1169,7 @@ msgstr ""
 #: ../../DGM.rst:422
 msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
 msgstr ""
-"Dotyk Śmierci (Stwór otrzymujący od tego jakiekolwiek obrażenia zostaje "
+"Dotyk śmierci (Stwór otrzymujący od tego jakiekolwiek obrażenia, zostaje "
 "zniszczony.)"
 
 # 4a1cf7639978489caa80cee0dda606c1
@@ -1395,7 +1395,7 @@ msgstr ""
 msgid "When Opal Lake Gatekeepers enters the battlefield, if you control two or more Gates, you may draw a card."
 msgstr ""
 "Kiedy Opal Lake Gatekeepers wchodzi na pole walki możesz dobrać kartę jeśli "
-"kontrolujesz przynajmniej dwie Bramy."
+"władasz przynajmniej dwiema Bramami."
 
 # d35f2807265940beaafed51b994cae77
 #: ../../DGM.rst:517
@@ -1854,7 +1854,7 @@ msgstr ""
 msgid "When Scab-Clan Giant enters the battlefield, it fights target creature an opponent controls chosen at random."
 msgstr ""
 "Kiedy Scab-Clan Giant wchodzi na pole walki, bije się z losowo wskazanym "
-"stworem kontrolowanym przez przeciwnika."
+"stworem władanym przez przeciwnika."
 
 # 2479320fab744a98b6f2696ab15aa424
 #: ../../DGM.rst:691
@@ -1941,7 +1941,7 @@ msgstr "|mana_g| |mana_u|, |tap|, poświęć Simic Cluestone: Dobierz kartę."
 # 91ce735e0f064b3dbbd5d3181b3756d1
 #: ../../DGM.rst:725
 msgid "Simic Guildgate"
-msgstr ""
+msgstr "Simic Guildgate (Brama Gildii Simic)"
 
 # 3223f92aa08c48df8b634855e6ba86cc
 #: ../../DGM.rst:722
@@ -1951,7 +1951,7 @@ msgstr "Simic Guildgate wchodzi na pole walki jako zaznaczony."
 # d863acafd25943458465e56c4eff12d9
 #: ../../DGM.rst:729
 msgid "Sin Collector"
-msgstr ""
+msgstr "Sin Collector (Kolekcjoner Grzechów)"
 
 # 0585675619ef4e69aae6d086d5331780
 #: ../../DGM.rst:728
@@ -2303,8 +2303,8 @@ msgstr ""
 #: ../../DGM.rst:868
 msgid "Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
 msgstr ""
-"Zaludnij. (Połóż na polu walki żeton, będący kopią kontrolowanego przez "
-"ciebie żetonu stwora.)"
+"Zaludnij. (Połóż na polu walki żeton, będący kopią władanego przez ciebie "
+"żetonu stwora.)"
 
 # cbc726d54de74058b5fff7e8f0a8f628
 #: ../../DGM.rst:873
@@ -2381,8 +2381,8 @@ msgstr "Ready // Willing [Willing] (Gotowy // Chętny [Chętny])"
 #: ../../DGM.rst:898
 msgid "Creatures you control gain deathtouch and lifelink until end of turn."
 msgstr ""
-"Stwory, które kontrolujesz, dostają Dotyk Śmierci oraz Więź Życia do końca "
-"tury."
+"Stwory, którymi władasz, dostają do końca tury dotyk śmierci oraz więź "
+"życia."
 
 # dd50025145734f5e844e537dcc5fc8b2
 #: ../../DGM.rst:905

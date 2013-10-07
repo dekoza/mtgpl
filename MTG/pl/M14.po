@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-06 17:41+0200\n"
+"PO-Revision-Date: 2013-10-07 17:18+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381077672.995960\n"
+"X-POOTLE-MTIME: 1381162708.887729\n"
 
 # 34446830b7c949d8b59852b41945ee2c
 # 13a5a223cf9d45d19a919b30f1fc001d
@@ -1438,6 +1438,8 @@ msgstr "Fortify (Umocnienie)"
 #: ../../M14.rst:422
 msgid "Choose one — Creatures you control get +2/+0 until end of turn; or creatures you control get +0/+2 until end of turn."
 msgstr ""
+"Wybierz jedno — Stwory, którymi władasz dostają +2/+0 do końca tury; albo "
+"stwory, którymi władasz dostają +0/+2 do końca tury."
 
 # fe0c6ce40643486fb11b03012823a637
 # 4bc5108ec17d4a0caf50a57d43455cc0
@@ -2561,7 +2563,7 @@ msgstr ""
 # d9f997e03a9a4bf8b8e534b77146e50f
 #: ../../M14.rst:828
 msgid "Scavenging Ooze"
-msgstr ""
+msgstr "Scavenging Ooze (Szlam Czyściciel)"
 
 # cfe53af55bbc4fe7918dc9bfecfa1078
 # c9e7e06466784244be2c06d49dc5e34f
@@ -2729,7 +2731,7 @@ msgstr "|mana_1|, |tap|: Dodaj jedną manę dowolnego koloru do twojej puli many
 # c29768a5d40945efa1294b4be8141197
 #: ../../M14.rst:902
 msgid "Shivan Dragon"
-msgstr ""
+msgstr "Shivan Dragon (Smok z Shiv)"
 
 # 1f20c0f4c53a4e36856b8d6c793a4c60
 # 008a5a8a655e469986a412d6499f99dd

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-07 05:54+0200\n"
+"PO-Revision-Date: 2013-10-07 17:17+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381121676.567810\n"
+"X-POOTLE-MTIME: 1381162638.77640\n"
 
 # bc285d61e5844f2db8f900ddf644d9e4
 #: ../../GTC.rst:5
@@ -63,7 +63,7 @@ msgstr ""
 #: ../../GTC.rst:1023
 msgid "Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)"
 msgstr ""
-"Rozwój (Ilekroć jakiś stwór wchodzi na pole walki pod twoją kontrolą, jeśli "
+"Rozwój (Ilekroć jakiś stwór wchodzi na pole walki pod twoim władaniem, jeśli "
 "jego siła lub wytrzymałość jest większa niż tego stwora, połóż znacznik "
 "+1/+1 na tym stworze.)"
 
@@ -212,8 +212,8 @@ msgstr "Latanie"
 #: ../../GTC.rst:48
 msgid "At the beginning of each combat, choose first strike, vigilance, or lifelink. Creatures you control gain that ability until end of turn."
 msgstr ""
-"Na początku każdej walki wybierz Pierwszy Cios, Czujność lub Więź Życia. "
-"Stwory, które kontrolujesz dostają tę zdolność do końca tury."
+"Na początku każdej walki wybierz pierwszy cios, czujność lub więź życia. "
+"Stwory, którymi władasz dostają ową zdolność do końca tury."
 
 # e21aa8afc18c44a698cfd86a8ca6685b
 #: ../../GTC.rst:53
@@ -1800,13 +1800,12 @@ msgstr "Antyklątwa"
 
 # 2ed90581fe7f4353b9c2e3c1f3ef5210
 #: ../../GTC.rst:656
-#, fuzzy
 msgid "Whenever a creature card is put into an opponent's graveyard from anywhere, you may have Lazav, Dimir Mastermind become a copy of that card except its name is still Lazav, Dimir Mastermind, it's legendary in addition to its other types, and it gains hexproof and this ability."
 msgstr ""
-"Ilekroć karta stwora jest wkładana skądkolwiek do cmentarza przeciwnika, "
-"możesz sprawić, by Lazav stał się kopią owej karty, z wyjątkiem tego, że "
-"jego nazwa to wciąż Lazav, Dimir Mastermind, jego typ jest dodatkowo "
-"legendarny, zyskuje antyklątwę oraz niniejszą zdolność."
+"Ilekroć karta stwora trafia skądkolwiek do cmentarza przeciwnika, możesz "
+"sprawić, by Lazav stał się kopią owej karty, z wyjątkiem tego, że jego nazwa "
+"to wciąż Lazav, Dimir Mastermind, jego typ jest dodatkowo legendarny, "
+"zyskuje antyklątwę oraz niniejszą zdolność."
 
 # ced6440f8bb14faba807820cabe81691
 #: ../../GTC.rst:663
@@ -1843,7 +1842,7 @@ msgstr ""
 # 31f147e4f3c748fda7b35da52f2e8a49
 #: ../../GTC.rst:673
 msgid "Lord of the Void"
-msgstr ""
+msgstr "Lord of the Void (Pan Nicości)"
 
 # b9c84e1dc86c47aba0c4227bd4408410
 #: ../../GTC.rst:672
@@ -1921,7 +1920,7 @@ msgstr ""
 # 059992550caa43ca94366e5e7e34654c
 #: ../../GTC.rst:703
 msgid "Master Biomancer"
-msgstr ""
+msgstr "Master Biomancer (Mistrz Biomanta)"
 
 # cbb0cbd237f04036ad3076815ba872ef
 #: ../../GTC.rst:702
@@ -1969,7 +1968,7 @@ msgstr ""
 # 276e63299dd745089ba301763ba2b7f1
 #: ../../GTC.rst:726
 msgid "Metropolis Sprite"
-msgstr ""
+msgstr "Metropolis Sprite (Miejska Wróżka)"
 
 # 37fdf62da8ac4d8b98034589794c96a9
 #: ../../GTC.rst:725
@@ -1996,7 +1995,7 @@ msgstr ""
 # bddfdce1937e4b8c9d5c9ea677ac58f4
 #: ../../GTC.rst:740
 msgid "Miming Slime"
-msgstr ""
+msgstr "Miming Slime (Naśladowczy Śluz)"
 
 # fc2e1aaa4fc646cf9ad38db90eb7ffe3
 #: ../../GTC.rst:739
@@ -2174,7 +2173,7 @@ msgstr ""
 # 3030a66a6356423ea419c28cfd74e9cf
 #: ../../GTC.rst:807
 msgid "Rats you control have deathtouch."
-msgstr "Kontrolowane przez ciebie stwory Rat mają Dotyk Śmierci."
+msgstr "Szczury, którymi władasz mają dotyk śmierci."
 
 # 2de4ccd77adb454ca8e35cf722edf5e5
 #: ../../GTC.rst:816
@@ -2196,8 +2195,9 @@ msgstr ""
 
 # ea4e8e0dbdb440c48b5aa3847fd81302
 #: ../../GTC.rst:820
+#, fuzzy
 msgid "Ooze Flux"
-msgstr ""
+msgstr "Ooze Flux (Szlamowe Przeobrażenie)"
 
 # a9cb69a514104f12a7156bfcb05b35a6
 #: ../../GTC.rst:819
@@ -2465,6 +2465,7 @@ msgstr ""
 #: ../../GTC.rst:917
 msgid "Rubblehulk's power and toughness are each equal to the number of lands you control."
 msgstr ""
+"Siła oraz wytrzymałość Rubblehulka są równe liczbie lądów, którymi władasz."
 
 # 55e1d3ebc04149908a2fe539ad97dfba
 #: ../../GTC.rst:919
@@ -2488,6 +2489,8 @@ msgstr ""
 #: ../../GTC.rst:927
 msgid "Whenever Rust Scarab becomes blocked, you may destroy target artifact or enchantment defending player controls."
 msgstr ""
+"Ilekroć Rust Scarab jest blokowany możesz zniszczyć wskazany artefakt lub "
+"urok władany przez broniącego się gracza."
 
 # b2855b057ada4f448301abc9f7db9f1e
 #: ../../GTC.rst:934
@@ -2503,6 +2506,8 @@ msgstr "(|tap|: Dodaj |mana_r| lub |mana_w| do twojej puli many.)"
 #: ../../GTC.rst:933
 msgid "As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, Sacred Foundry enters the battlefield tapped."
 msgstr ""
+"Gdy Sacred Foundry wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego "
+"nie zrobisz, Sacred Foundry wchodzi na pole walki zaznaczony."
 
 # a76c3d83a5784db5a3e416843dac937a
 #: ../../GTC.rst:938
@@ -2575,6 +2580,9 @@ msgstr "Zastraszanie"
 #: ../../GTC.rst:963
 msgid "When Sepulchral Primordial enters the battlefield, for each opponent, you may put up to one target creature card from that player's graveyard onto the battlefield under your control."
 msgstr ""
+"Kiedy Sepulchral Primordial wchodzi na pole walki, dla każdego z "
+"przeciwników możesz położyć najwyżej jedną wskazaną kartę stwora z cmentarza "
+"owego gracza na polu walki pod twoim władaniem."
 
 # 62bdca2e9db54d7ca244167ef66ce723
 #: ../../GTC.rst:968
@@ -2585,6 +2593,8 @@ msgstr ""
 #: ../../GTC.rst:967
 msgid "Shuffle Serene Remembrance and up to three target cards from a single graveyard into their owners' libraries."
 msgstr ""
+"Wtasuj Serene Remembrance oraz do trzech wskazanych kart z jednego cmentarza "
+"do bibliotek ich właścicieli."
 
 # fa46fc84864b4f6f9e7283aafb93c4a1
 #: ../../GTC.rst:972
@@ -2645,6 +2655,9 @@ msgstr ""
 #: ../../GTC.rst:995
 msgid "Search your library for three creature cards and reveal them. If you reveal three cards with different names, choose one of them at random and put that card into your hand. Shuffle the rest into your library."
 msgstr ""
+"Poszukaj w swojej bibliotece trzech kart stworów i ujawnij je. Jeśli "
+"ujawnisz trzy karty o różnych nazwach, wybierz losowo jedną z nich i dołóż "
+"ją do twojej ręki. Wtasuj pozostałe do twojej biblioteki."
 
 # 9d5ab22112754481b7577a3d61fb5315
 #: ../../GTC.rst:1002
@@ -2655,6 +2668,9 @@ msgstr "Simic Charm (Amulet Simiców)"
 #: ../../GTC.rst:999
 msgid "Choose one — Target creature gets +3/+3 until end of turn; or permanents you control gain hexproof until end of turn; or return target creature to its owner's hand."
 msgstr ""
+"Wybierz jedno — Wskazany stwór dostaje +3/+3 do końca tury; albo stałki, "
+"którymi władasz dostają antyklątwę do końca tury; albo swróć wskazanego "
+"stwora do ręki jego właściciela."
 
 # e468d832e24146f8b58a507f40c14473
 #: ../../GTC.rst:1008
@@ -2695,8 +2711,8 @@ msgstr ""
 msgid "|mana_g| |mana_u|: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature with hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 "|mana_g| |mana_u|: Do końca tury Simic Keyrune staje się zielono-niebieskim "
-"artefaktycznym stworem Crab 2/3 z Antyklątwą. (Nie może być wskazywany przez "
-"czary i zdolności kontrolowane przez twoich przeciwników.)"
+"artefaktycznym stworem Krab 2/3 z antyklątwą. (Nie może być wskazywany przez "
+"czary i zdolności władane przez twoich przeciwników.)"
 
 # 42670897055a4dfaa41feab7d8c41c5f
 #: ../../GTC.rst:1026
@@ -2732,11 +2748,14 @@ msgstr ""
 #: ../../GTC.rst:1035
 msgid "|mana_r| |mana_g|: Creatures you control gain trample until end of turn."
 msgstr ""
+"|mana_r| |mana_g|: Stwory, którymi władasz zyskują tratowanie do końca tury."
 
 # 941ded0e6f564ce48a7f183c2e3128ec
 #: ../../GTC.rst:1037
 msgid "|mana_1| |mana_r| |mana_g|: Target land you control becomes a 4/4 Elemental creature until end of turn. It's still a land."
 msgstr ""
+"|mana_1| |mana_r| |mana_g|: Wskazany ląd, którym władasz staje się stworem "
+"Żywiołak 4/4 do końca tury. Nadal jest lądem."
 
 # bfc5bf2e70bf4de8b56249b06b1691e5
 #: ../../GTC.rst:1042
@@ -2771,11 +2790,15 @@ msgstr ""
 #: ../../GTC.rst:1049
 msgid "Equipped creature gets +1/+0 and can't be blocked by creatures with flying."
 msgstr ""
+"Wyposażony stwór dostaje +1/+0 i nie może być blokowany przez stwory z "
+"lataniem."
 
 # 75e362a2b6f04943bc1f23f0b9742560
 #: ../../GTC.rst:1051
 msgid "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora, którym władasz. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 # 8c0f49e05a964761a9d3470144d03501
 #: ../../GTC.rst:1058
@@ -2786,6 +2809,8 @@ msgstr ""
 #: ../../GTC.rst:1057
 msgid "Enchanted land has \\\"|tap|: Target creature gains flying until end of turn. Activate this ability only any time you could cast a sorcery.\\\""
 msgstr ""
+"Zauroczony ląd ma \\'|tap|: Wskazany stwór zyskuje latanie do końca tury. "
+"Aktywuj tę zdolność tylko wtedy, gdy możesz rzucić obrzęd.\\\""
 
 # 9cbd60d14b2a43dc923b0cb12c612f5d
 #: ../../GTC.rst:1062
@@ -2806,6 +2831,8 @@ msgstr ""
 #: ../../GTC.rst:1065
 msgid "Whenever Slate Street Ruffian becomes blocked, defending player discards a card."
 msgstr ""
+"Ilekroć Slate Street Ruffian jest blokowany, broniący się gracz odrzuca "
+"kartę."
 
 # ac12610b556d4028897107f53dbfb79e
 #: ../../GTC.rst:1070
@@ -2918,6 +2945,8 @@ msgstr "(|tap|: Dodaj |mana_r| lub |mana_g| do twojej puli many.)"
 #: ../../GTC.rst:1113
 msgid "As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped."
 msgstr ""
+"Gdy Stomping Ground wchodzi na pole walki, możesz zapłacić 2 życia. Jeśli "
+"tego nie zrobisz, Stomping Ground wchodzi na pole walki zaznaczony."
 
 # af0625f5674f46789934d49263435127
 #: ../../GTC.rst:1118
@@ -2965,8 +2994,8 @@ msgstr "Zasięg"
 msgid "When Sylvan Primordial enters the battlefield, for each opponent, destroy target noncreature permanent that player controls. For each permanent destroyed this way, search your library for a Forest card and put that card onto the battlefield tapped. Then shuffle your library."
 msgstr ""
 "Kiedy Sylvan Primordial wchodzi na pole walki, dla każdego ze swoich "
-"przeciwników, zniszcz wskazaną stałkę nie będącą stworem kontrolowaną przez "
-"owego gracza. Dla każdej stałki zniszczonej w ten sposób, poszukaj w twojej "
+"przeciwników, zniszcz wskazaną stałkę nie będącą stworem władaną przez owego "
+"gracza. Dla każdej stałki zniszczonej w ten sposób, poszukaj w twojej "
 "bibliotece karty Lasu i połóż ją zaznaczoną na polu walki. Następnie "
 "przetasuj twoją bibliotekę."
 
@@ -3235,7 +3264,7 @@ msgstr ""
 # 7b8c057b07d64daa8c7769c93e9f9e27
 #: ../../GTC.rst:1243
 msgid "Deathtouch"
-msgstr "Dotyk Śmierci"
+msgstr "Dotyk śmierci"
 
 # 8d363ab72f954fe6a811860da84454f1
 #: ../../GTC.rst:1245
@@ -3258,6 +3287,8 @@ msgstr "(|tap|: Dodaj |mana_u| lub |mana_b| do twojej puli many.)"
 #: ../../GTC.rst:1251
 msgid "As Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped."
 msgstr ""
+"Gdy Watery Grave wchodzi na pole walki, możesz zapłacić 2 życia. Jeśli tego "
+"nie zrobisz, Watery Grave wchodzi na pole walki zaznaczony."
 
 # 68b874d8672c4284931d1e80eea28bd3
 #: ../../GTC.rst:1260

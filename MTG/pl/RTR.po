@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-07 00:40+0200\n"
+"PO-Revision-Date: 2013-10-07 17:23+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381102814.866050\n"
+"X-POOTLE-MTIME: 1381163008.390385\n"
 
 # 8f7974d7a6914bf581174be80fc2157b
 #: ../../RTR.rst:5
@@ -148,10 +148,10 @@ msgstr ""
 #: ../../RTR.rst:36
 msgid "Whenever Archon of the Triumvirate attacks, detain up to two target nonland permanents your opponents control. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
-"Ilekroć Archon of the Triumvirate atakuje, uwięź do dwóch wskazanych stałek "
-"nie będących lądami znajdujących się pod kontrolą przeciwników. (Do twojej "
-"następnej tury stałki te nie mogą atakować ani blokować, a ich aktywowane "
-"zdolności nie mogą być aktywowane.)"
+"Ilekroć Archon of the Triumvirate atakuje, uwięź najwyżej dwie wskazane "
+"nielądowe stałki władane przez twoich przeciwników. (Do twojej następnej "
+"tury owe stałki nie mogą atakować ani blokować, a ich aktywowane zdolności "
+"nie mogą być aktywowane.)"
 
 # c67bc2102a274f818ed54e59e3190cb6
 #: ../../RTR.rst:41
@@ -201,7 +201,7 @@ msgstr "Armory Guard (Strażnik Zbrojowni)"
 # A co tam, tłumaczymy też nazwy kart :D
 #: ../../RTR.rst:50
 msgid "Armory Guard has vigilance as long as you control a Gate."
-msgstr "Strażnik Zbrojowni ma Czujność tak długo, jak długo kontrolujesz Bramę."
+msgstr "Strażnik Zbrojowni ma czujność dopóki władasz Bramą."
 
 # cbb3f5236c404715934eb59e9a031eea
 #: ../../RTR.rst:57
@@ -747,7 +747,6 @@ msgstr "Conjured Currency (Fałszywa Waluta)"
 
 # 0cb18211f3df4c25ac17be7529bc9d5b
 #: ../../RTR.rst:244
-#, fuzzy
 msgid "At the beginning of your upkeep, you may exchange control of Conjured Currency and target permanent you neither own nor control."
 msgstr ""
 "Na początku twojego utrzymania możesz zamienić władanie nad Conjured "
@@ -800,7 +799,7 @@ msgstr ""
 msgid "Put a 3/3 green Centaur creature token onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
 msgstr ""
 "Połóż na polu walki żeton zielonego stwora Centaur 3/3, następnie zaludnij. "
-"(Połóż na polu walki żeton, będący kopią kontrolowanego przez ciebie żetonu "
+"(Połóż na polu walki żeton, będący kopią władanego przez ciebie żetonu "
 "stwora.)"
 
 # 9c69f9663d5e4dfeb3df8d57aa3d4aea
@@ -853,8 +852,8 @@ msgstr ""
 #: ../../RTR.rst:280
 msgid "Return target nonland permanent you don't control to its owner's hand."
 msgstr ""
-"Przywróć wskazaną stałkę nie będącą lądem, której nie kontrolujesz do ręki "
-"jej właściciela."
+"Przywróć wskazaną nie-lądową stałkę, którą nie władasz do ręki jej "
+"właściciela."
 
 # b956f1ee1360479db7160dc38312d483
 #: ../../RTR.rst:282
@@ -1232,9 +1231,9 @@ msgstr ""
 #: ../../RTR.rst:416
 msgid "Put a 1/1 white Bird creature token with flying onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
 msgstr ""
-"Połóż na polu walki żeton białego stwora Bird 1/1 z Lataniem, następnie "
-"zaludnij. (Połóż na polu walki żeton, będący kopią kontrolowanego przez "
-"ciebie żetonu stwora.)"
+"Połóż na polu walki żeton białego stwora Ptak 1/1 z lataniem, następnie "
+"zaludnij. (Połóż na polu walki żeton, będący kopią władanego przez ciebie "
+"żetonu stwora.)"
 
 # 2eedb13ccb984d3a8dc46d41f08d5073
 #: ../../RTR.rst:423
@@ -1261,7 +1260,7 @@ msgstr "Skontruj wskazany czar. Zyskujesz 5 punktów życia."
 # 1c84adffd1fb4d5ca0a3edcd31463042
 #: ../../RTR.rst:431
 msgid "Fencing Ace"
-msgstr ""
+msgstr "Fencing Ace (As Szermierki)"
 
 # 9d47ee6c754643fb84fe3c0a2f195268
 #: ../../RTR.rst:430
@@ -1286,7 +1285,7 @@ msgstr ""
 # 616d741ef9564cf5abeff1f38fd4f924
 #: ../../RTR.rst:439
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
 
 # 53253429e5ab43849f264b2f7848cf58
 #: ../../RTR.rst:438
@@ -1296,7 +1295,7 @@ msgstr "|mana_g|"
 # 07be7ea3daba4f779bfe18c3505de6dd
 #: ../../RTR.rst:443
 msgid "Frostburn Weird"
-msgstr ""
+msgstr "Frostburn Weird (Dziwadło Palącego Mrozu)"
 
 # b1de8bb9e59c4963b4d2774bcdeee022
 #: ../../RTR.rst:442
@@ -1306,7 +1305,7 @@ msgstr "|mana_ur|: Frostburn Weird dostaje +1/-1 do końca tury."
 # e4df4b24576140f4a6267d025eca578f
 #: ../../RTR.rst:449
 msgid "Gatecreeper Vine"
-msgstr ""
+msgstr "Gatecreeper Vine (Bramoplotne Pnącze)"
 
 # 89cdca6627064f8fb59ec0e9e92e0c08
 #: ../../RTR.rst:448
@@ -1329,7 +1328,7 @@ msgstr "Wskazany stwór dostaje +3/+3 do końca tury."
 # 7f8fe329326e42e996781974860a5fcb
 #: ../../RTR.rst:457
 msgid "Gobbling Ooze"
-msgstr ""
+msgstr "Gobbling Ooze (Żarłoczny Szlam)"
 
 # d7d1b66fac2e4603af5bebb5a44692cd
 #: ../../RTR.rst:456
@@ -1586,9 +1585,9 @@ msgstr ""
 #: ../../RTR.rst:554
 msgid "Put a 4/4 green Rhino creature token with trample onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
 msgstr ""
-"Połóż na polu walki żeton zielonego stwora Rhino 4/4 z Tratowaniem, "
-"następnie zaludnij. (Połóż na polu walki żeton, będący kopią kontrolowanego "
-"przez ciebie żetonu stwora.)"
+"Połóż na polu walki żeton zielonego stwora Nosorożec 4/4 z tratowaniem, "
+"następnie zaludnij. (Połóż na polu walki żeton, będący kopią władanego przez "
+"ciebie żetonu stwora.)"
 
 # 8429e22eeba440758f74e01d175fcdf0
 #: ../../RTR.rst:559
@@ -2015,6 +2014,8 @@ msgstr "|mana_u|, |tap|: Dobierz dwie karty."
 #: ../../RTR.rst:726
 msgid "|mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target creature equal to the discarded card's converted mana cost."
 msgstr ""
+"|mana_r|, |tap|, odrzuć kartę: Mercurial Chemister zadaje wskazanemu "
+"stworowi obrażenia równe łącznemu kosztowi many odrzuconej karty."
 
 # be4fc847578344d99241d197d0af76b6
 #: ../../RTR.rst:731
@@ -2105,9 +2106,9 @@ msgstr "|mana_w| |mana_u|: Wskazany stwór zyskuje latanie do końca tury."
 #: ../../RTR.rst:762
 msgid "|mana_3| |mana_w| |mana_u|: Detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)"
 msgstr ""
-"|mana_3| |mana_w| |mana_u|: Uwięź wskazaną stałkę nie będącą lądem "
-"kontrolowaną przez przeciwnika. (Do twojej następnej tury stałka ta nie może "
-"atakować ani blokować, a jej aktywowane zdolności nie mogą być aktywowane.)"
+"|mana_3| |mana_w| |mana_u|: Uwięź wskazaną nielądową stałkę władaną przez "
+"przeciwnika. (Do twojej następnej tury owa stałka  nie może atakować ani "
+"blokować, a jej aktywowane zdolności nie mogą być aktywowane.)"
 
 # 7a35714e95394d0184952b8dacd0bb6c
 #: ../../RTR.rst:769
@@ -2135,6 +2136,8 @@ msgstr ""
 #: ../../RTR.rst:772
 msgid "Exile an instant or sorcery spell you control: Put two +1/+1 counters on Nivmagus Elemental. (That spell won't resolve.)"
 msgstr ""
+"Wypędź czar sztuczki lub obrzędu, którym władasz: Połóż dwa znaczniki +1/+1 "
+"na Nivmagus Elemental. (Ów czar nie rozpatrzy się.)"
 
 # 66543375a1be43e19abf14e14591175a
 #: ../../RTR.rst:781
@@ -2176,8 +2179,8 @@ msgstr ""
 #: ../../RTR.rst:790
 msgid "Ogre Jailbreaker can attack as though it didn't have defender as long as you control a Gate."
 msgstr ""
-"Ogre Jailbreaker może atakować jakby nie miał obronności dopóki kontrolujesz "
-"Bramę."
+"Ogre Jailbreaker może atakować jakby nie miał obronności dopóki władasz "
+"Bramą."
 
 # 57feda6701ff4bf3831847768478d70e
 #: ../../RTR.rst:797
@@ -2223,8 +2226,8 @@ msgstr ""
 #: ../../RTR.rst:806
 msgid "All damage that would be dealt to you or another permanent you control is dealt to Palisade Giant instead."
 msgstr ""
-"Wszelkie obrażenia, które mogłyby zostać zadane innej kontrolowanej przez "
-"ciebie stałce albo tobie, są zamiast tego zadawane Palisade Giantowi."
+"Wszelkie obrażenia, które mogłyby zostać zadane tobie lub innej władanej "
+"przez ciebie stałce albo tobie, są zamiast tego zadawane Palisade Giantowi."
 
 # 7d3673d7507e43429980f1eebcbf47aa
 #: ../../RTR.rst:813
@@ -2408,7 +2411,7 @@ msgstr ""
 # a216493b6fb6435185e9898d6ccc49ce
 #: ../../RTR.rst:882
 msgid "Lifelink, haste"
-msgstr ""
+msgstr "Więź życia, pośpiech"
 
 # 0688a4d2e86d4e0ba85c0dd74a692386
 #: ../../RTR.rst:891
@@ -2419,11 +2422,13 @@ msgstr ""
 #: ../../RTR.rst:888
 msgid "Whenever Rakdos Ringleader deals combat damage to a player, that player discards a card at random."
 msgstr ""
+"Ilekroć Rakdos Ringleader zadaje graczowi obrażenia bojowe, ów gracz odrzuca "
+"losową kartę."
 
 # 5be41fe2798b4101ab5904fa699da031
 #: ../../RTR.rst:890
 msgid "|mana_b|: Regenerate Rakdos Ringleader."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj Rakdos Ringleader."
 
 # a4aef0832dd041e299188b1671203caf
 #: ../../RTR.rst:895
@@ -2623,6 +2628,8 @@ msgstr "Search Warrant (Nakaz Rewizji)"
 #: ../../RTR.rst:968
 msgid "Target player reveals his or her hand. You gain life equal to the number of cards in that player's hand."
 msgstr ""
+"Wskazany gracz ujawnia swoją rękę. Zyskujesz tyle życia, ile kart jest w "
+"ręce owego gracza."
 
 # 6617fc17efbf4e67a7d573e58bb3548e
 #: ../../RTR.rst:977
@@ -2789,7 +2796,7 @@ msgstr ""
 # 81e6b1c4cb9c4fbdb745499a992f7621
 #: ../../RTR.rst:1037
 msgid "Slaughter Games can't be countered by spells or abilities."
-msgstr ""
+msgstr "Slaughter Games nie mogą być skontrowany przez czary lub zdolności."
 
 # 2ea6b1043e504fd982cc7432ba50777e
 #: ../../RTR.rst:1039
@@ -2802,7 +2809,7 @@ msgstr ""
 # 279020deb74345c2b891022aee22f8db
 #: ../../RTR.rst:1044
 msgid "Slime Molding"
-msgstr ""
+msgstr "Slime Molding (Śluzowacenie)"
 
 # 9684190bfccf412fad7b5aee1119142b
 #: ../../RTR.rst:1043
@@ -2831,6 +2838,8 @@ msgstr ""
 #: ../../RTR.rst:1051
 msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
 msgstr ""
+"Dotyk śmierci (Stwór otrzymujący od tego jakiekolwiek obrażenia, zostaje "
+"zniszczony.)"
 
 # 3e62738f06a04e89974d290d7801873b
 #: ../../RTR.rst:1053
@@ -2864,6 +2873,8 @@ msgstr "Zaurocz stałkę nie będącą lądem"
 #: ../../RTR.rst:1063
 msgid "At the beginning of the upkeep of enchanted permanent's controller, that player sacrifices it unless he or she pays |mana_x|, where X is its converted mana cost."
 msgstr ""
+"Na początku utrzymania władcy zauroczonej stałki, ów gracz poświęca ją "
+"dopóki nie zapłaci |mana_x|, gdzie X jest jej łącznym kosztem many."
 
 # bdb00d6678244426a3c1b4a4da778672
 #: ../../RTR.rst:1070
@@ -2873,12 +2884,15 @@ msgstr ""
 # 0944d4dc89e849f28c74a633df57c8f2
 #: ../../RTR.rst:1067
 msgid "Soulsworn Spirit can't be blocked."
-msgstr ""
+msgstr "Soulsworn Spirit nie może być blokowany."
 
 # 97589c16f27d4db5ab9f6c2618a72b4e
 #: ../../RTR.rst:1069
 msgid "When Soulsworn Spirit enters the battlefield, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)"
 msgstr ""
+"Kiedy Soulsworn Spirit wchodzi na pole walki, uwięź wskazanego stwora "
+"władanego przez przeciwnika. (Do twojej następnej tury ów stwór nie może "
+"atakować ani blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
 
 # 8a225c8dcf154b4f872b9dfe1e5aa6d2
 #: ../../RTR.rst:1074
@@ -2932,12 +2946,13 @@ msgstr ""
 # 430b09bec6fe414393db32139e94a998
 #: ../../RTR.rst:1099
 msgid "Enchanted creature gets -2/-2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -2/-2."
 
 # 349d7b5977774e3980c45d087a651107
 #: ../../RTR.rst:1101
 msgid "At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life."
 msgstr ""
+"Na początku utrzymania władcy zauroczonego stwora, ów gracz traci 2 życia."
 
 # 66acbe9fb8134c46847f63625d05eed8
 #: ../../RTR.rst:1106
@@ -3021,7 +3036,7 @@ msgstr ""
 msgid "Destroy target artifact or enchantment, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
 msgstr ""
 "Zniszcz wskazany artefakt lub urok, następnie zaludnij. (Połóż na polu walki "
-"żeton, będący kopią kontrolowanego przez ciebie żetonu stwora.)"
+"żeton, będący kopią władanego przez ciebie żetonu stwora.)"
 
 # 4a9e55f6189b4e398f4e1db7c2935b7a
 #: ../../RTR.rst:1134
@@ -3036,12 +3051,12 @@ msgstr ""
 # 350459ea51cd49daba277ebcb9bf02ca
 #: ../../RTR.rst:1137
 msgid "Supreme Verdict can't be countered."
-msgstr ""
+msgstr "Supreme Verdict nie może być skontrowany."
 
 # 599e9d65b4d84b009ed876430781ef43
 #: ../../RTR.rst:1139
 msgid "Destroy all creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory."
 
 # b2c87a308cc84bf5beb0036e2d335ff0
 #: ../../RTR.rst:1144
@@ -3096,12 +3111,14 @@ msgstr ""
 # 182e89f2a6f843ca935790b220515c9e
 #: ../../RTR.rst:1159
 msgid "As Tablet of the Guilds enters the battlefield, choose two colors."
-msgstr ""
+msgstr "Kiedy Tablet of the Guild wchodzi na pole walki wybierz dwa kolory."
 
 # 7df385a4dcf7413187b14c89df15eed5
 #: ../../RTR.rst:1161
 msgid "Whenever you cast a spell, if it's at least one of the chosen colors, you gain 1 life for each of the chosen colors it is."
 msgstr ""
+"Ilekroć rzucasz czar, zyskujesz 1 życie za każdy kolor owego czaru należący "
+"do wybranych kolorów."
 
 # a7f72f6127224f548ee65e7b60be3980
 #: ../../RTR.rst:1166
@@ -3112,6 +3129,8 @@ msgstr ""
 #: ../../RTR.rst:1165
 msgid "|tap|, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life."
 msgstr ""
+"|tap|, zapłać 3 życia: Rzuć monetą. Jeśli wygrasz rzut, zyskujesz 6 punktów "
+"życia."
 
 # 16f8ed68717944eea6cc3e55ebf53165
 #: ../../RTR.rst:1172
@@ -3216,6 +3235,8 @@ msgstr ""
 #: ../../RTR.rst:1213
 msgid "Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gets +2/+0 and gains haste."
 msgstr ""
+"Przejmij władanie nad wskazanym stworem do końca tury. Odznacz owego stwora. "
+"Do końca tury dostaje on +2/+0 oraz pośpiech."
 
 # 35469b4ea0794e10be3d7459b62c5779
 #: ../../RTR.rst:1222
@@ -3273,7 +3294,7 @@ msgstr ""
 msgid "|mana_1| |mana_g| |mana_w|, |tap|: Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
 msgstr ""
 "|mana_1| |mana_g| |mana_w|, |tap|: Zaludnij. (Połóż na polu walki żeton, "
-"będący kopią kontrolowanego przez ciebie żetonu stwora.)"
+"będący kopią władanego przez ciebie żetonu stwora.)"
 
 # a33c79563f784824abc25c4fa91c8d3f
 #: ../../RTR.rst:1244
@@ -3285,7 +3306,7 @@ msgstr ""
 msgid "Exile target creature, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
 msgstr ""
 "Wypędź wskazanego stwora, następnie zaludnij. (Połóż na polu walki żeton, "
-"będący kopią kontrolowanego przez ciebie żetonu stwora.)"
+"będący kopią władanego przez ciebie żetonu stwora.)"
 
 # df6280b9c822443abfbbc5c428ff6443
 #: ../../RTR.rst:1248
@@ -3295,7 +3316,7 @@ msgstr ""
 # 856d2f7a7a4d4c87bd613c408eff145b
 #: ../../RTR.rst:1247
 msgid "Destroy target monocolored creature."
-msgstr ""
+msgstr "Zniszcz wskazanego jednokolorowego stwora."
 
 # 914831125c304155a641247349d60372
 #: ../../RTR.rst:1254
@@ -3305,7 +3326,7 @@ msgstr ""
 # ba0169e72c214deeba27eeccfcce3483
 #: ../../RTR.rst:1253
 msgid "Enchanted land has \\\"|tap|, Pay 1 life: Draw a card.\\\""
-msgstr ""
+msgstr "Zauroczony ląd ma \\\"|tap|, zapłać 1 życie: Dobierz kartę.\\\""
 
 # 8e62dd4fa4a448ca9540f7d834c78c64
 #: ../../RTR.rst:1260
@@ -3375,13 +3396,15 @@ msgstr ""
 #: ../../RTR.rst:1283
 msgid "|mana_4| |mana_g| |mana_w|: Put a 3/3 green Centaur creature token onto the battlefield."
 msgstr ""
+"|mana_4| |mana_g| |mana_w|: Połóż na polu walki żeton zielonego stwora "
+"Centaur 3/3."
 
 # 99e0b07c48b0480288b10daf3b452e05
 #: ../../RTR.rst:1285
 msgid "|mana_2| |mana_g| |mana_w|: Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
 msgstr ""
 "|mana_2| |mana_g| |mana_w|: Zaludnij. (Połóż na polu walki żeton, będący "
-"kopią kontrolowanego przez ciebie żetonu stwora.)"
+"kopią władanego przez ciebie żetonu stwora.)"
 
 # f857f6770d8a4adc835153c88dd813ba
 #: ../../RTR.rst:1290
@@ -3461,8 +3484,7 @@ msgstr ""
 msgid "Whenever Wayfaring Temple deals combat damage to a player, populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
 msgstr ""
 "Ilekroć Wayfaring Temple zadaje graczowi obrażenia bojowe, zaludnij. (Połóż "
-"na polu walki żeton, będący kopią kontrolowanego przez ciebie żetonu "
-"stwora.)"
+"na polu walki żeton, będący kopią władanego przez ciebie żetonu stwora.)"
 
 # 9fa9e54a9bf249409142ca0161adc099
 #: ../../RTR.rst:1318

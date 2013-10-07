@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-06 17:46+0200\n"
+"PO-Revision-Date: 2013-10-07 17:29+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381078014.264118\n"
+"X-POOTLE-MTIME: 1381163347.533441\n"
 
 # cf7ee521875a459c9352819ad80d2edc
 # 887ff143b14348b2b7b52aec3a556c81
@@ -513,8 +513,8 @@ msgstr ""
 #: ../../THS.rst:977
 msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
 msgstr ""
-"Dotyk śmierci (Dowolna liczba obrażeń zadanych stworowi przez tę stałkę "
-"wystarcza, by zniszczyć owego stwora.)"
+"Dotyk śmierci (Stwór otrzymujący od tego jakiekolwiek obrażenia, zostaje "
+"zniszczony.)"
 
 # 4eed0353a1ff41f091206f100c7d638e
 # 2b2fa4f4c20942fb84bbb3139ea24bde
@@ -688,6 +688,10 @@ msgstr "Atakujące stwory, którymi władasz, mają dotyk śmierci."
 #: ../../THS.rst:164
 msgid "|mana_1| |mana_g|, |tap|: Choose one — Put a +1/+1 counter on target creature; or Bow of Nylea deals 2 damage to target creature with flying; or you gain 3 life; or put up to four target cards from your graveyard on the bottom of your library in any order."
 msgstr ""
+"|mana_1| |mana_g|, |tap|: Wybierz jedno — Połóż znacznik +1/+1 na wskazanym "
+"stworze; albo Bow of Nylea zadaje 2 obrażenia wskazanemu stworowi z "
+"lataniem; albo zyskujesz 3 życia; albo połóż cztery wskazane karty z twojego "
+"cmentarza na spodzie twojej biblioteki w dowolnej kolejności."
 
 # bb02237bd21947488b957007ed2ecf65
 # d597a70a836c4813a537148a6f704449
@@ -2854,7 +2858,7 @@ msgstr "Portent of Betrayal"
 #: ../../THS.rst:829
 msgid "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Przejmij kontrolę nad wskazanym stworem do końca tury. Odznacz tego stwora. "
+"Przejmij władanie nad wskazanym stworem do końca tury. Odznacz tego stwora. "
 "Dostaje on pośpiech do końca tury. Wróż 1. (Spójrz na wierzchnią kartę "
 "twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
@@ -3208,9 +3212,8 @@ msgstr ""
 # d03ef3b806f94593acb4e5e799374022
 # ef5cfc72b9b540b7a34106cfde35bf96
 #: ../../THS.rst:938
-#, fuzzy
 msgid "Satyr Hedonist"
-msgstr "Satyr Hedonist"
+msgstr "Satyr Hedonist (Satyr Hedonista)"
 
 # c562a35b653b4af7ac7eec6d3d7a1551
 # b25bc2794197496f99b66c07a5fa6b00
@@ -3223,9 +3226,8 @@ msgstr ""
 # 2ad31d27420146969e1fca96d537f725
 # b346c0e805de4d3ea32d45b5a5a1805d
 #: ../../THS.rst:942
-#, fuzzy
 msgid "Satyr Piper"
-msgstr "Satyr Piper"
+msgstr "Satyr Piper (Satyr Flecista)"
 
 # aa1d1cb3aa5c4c288d6b6b1aa3dca6c4
 # 917f742ad4e54440b473ce7686101258
@@ -3238,9 +3240,8 @@ msgstr ""
 # 27dbda649eaa4bcbbdde53bf89734447
 # 63e78b70a56f4fd995243884f1ec20f2
 #: ../../THS.rst:946
-#, fuzzy
 msgid "Satyr Rambler"
-msgstr "Satyr Rambler"
+msgstr "Satyr Rambler (Satyr Włóczęga)"
 
 # 68bbecd3b946444ebc84d76c28456839
 # c48ce0036f8d4c5ebbcdb85818755bb6
@@ -3316,8 +3317,7 @@ msgstr "Sealock Monster"
 #: ../../THS.rst:969
 msgid "Sealock Monster can't attack unless defending player controls an Island."
 msgstr ""
-"Sealock Monster nie może atakować dopóki broniący się gracz nie kontroluje "
-"wyspy."
+"Sealock Monster nie może atakować dopóki broniący się gracz nie włada Wyspą."
 
 # a4a903369a804d6f81e49d37af43c0dd
 # 7d52796230aa49bab0e8c224ca10f85e
@@ -3428,8 +3428,8 @@ msgstr "Shipwreck Singer"
 #: ../../THS.rst:1005
 msgid "|mana_1| |mana_u|: Target creature an opponent controls attacks this turn if able."
 msgstr ""
-"|mana_1| |mana_u|: Wskazany stwór, którego kontroluje przeciwnik, atakuje w "
-"tej turze jeśli może."
+"|mana_1| |mana_u|: Wskazany stwór władany przez przeciwnika atakuje w tej "
+"turze jeśli może."
 
 # 5c7be854b4e7486680de868eac406a22
 # 6766a595f4a44472aac63f2b3f6795e7
@@ -3700,9 +3700,8 @@ msgstr "Obronność, antyklątwa"
 # 2f2923b3048b44cdb9da994caba3f71c
 # b8d4c600b6a44e7ea5c00075ef325e2b
 #: ../../THS.rst:1098
-#, fuzzy
 msgid "Temple of Abandon"
-msgstr "Temple of Abandon"
+msgstr "Temple of Abandon (Świątynia Porzucenia)"
 
 # 1ae6f7e4913e4011b271d7db6f61662c
 # 6f48b988594d41b9b20462460a592392
@@ -3728,9 +3727,8 @@ msgstr "|tap|: Dodaj |mana_r| lub |mana_g| do twojej puli many."
 # 19b5fe11bbec4327a6e95a5ebe7532d7
 # 68566000259442d18fb5854058f7779a
 #: ../../THS.rst:1106
-#, fuzzy
 msgid "Temple of Deceit"
-msgstr "Temple of Deceit"
+msgstr "Temple of Deceit (Świątynia Podstępu)"
 
 # 587799b458224fbd903906eb7a3901d3
 # f84592c740994963a388ff3f32d6b86d
@@ -3756,9 +3754,8 @@ msgstr "|tap|: Dodaj |mana_u| lub |mana_b| do twojej puli many."
 # 4900501ad0f64726aec1fc0c15c06ff9
 # bc05eab7f2da40dda00b7abc362c5dff
 #: ../../THS.rst:1114
-#, fuzzy
 msgid "Temple of Mystery"
-msgstr "Temple of Mystery"
+msgstr "Temple of Mystery (Świątynia Tajemnic)"
 
 # aff3acb56d0d4aabaaee747ae1ab7dd4
 # 4d234655604041df9697510b135c66ec
@@ -3784,9 +3781,8 @@ msgstr "|tap|: Dodaj |mana_g| lub |mana_u| do twojej puli many."
 # 64e94f06e5df45feb96eb3e1ccc937f8
 # 269e4896648c4e768bb9e4df38f8ea08
 #: ../../THS.rst:1122
-#, fuzzy
 msgid "Temple of Silence"
-msgstr "Temple of Silence"
+msgstr "Temple of Silence (Świątynia Ciszy)"
 
 # fbcc6345c49a45b18a18d63a4f19e0d1
 # b2448fa292f644d48e4156d0ead9859a
@@ -3812,9 +3808,8 @@ msgstr "|tap|: Dodaj |mana_w| lub |mana_b| do twojej puli many."
 # e14b08ff9bfd4a41ac5ca2b0f5862374
 # 4931d6e19fde4b5fa4a31ded4ae4c9bf
 #: ../../THS.rst:1130
-#, fuzzy
 msgid "Temple of Triumph"
-msgstr "Temple of Triumph"
+msgstr "Temple of Triumph (Świątynia Zwycięstwa)"
 
 # 827c06954bf14c15b6cc13ce8f962cfb
 # 12203c4027284af28635aa6c648aa519
@@ -4270,9 +4265,8 @@ msgstr ""
 # ca92c33a9fd9414fbaea60f0c8a354b3
 # 2da6f359db9345e3827748aa44f8fbaf
 #: ../../THS.rst:1270
-#, fuzzy
 msgid "Whip of Erebos"
-msgstr "Whip of Erebos"
+msgstr "Whip of Erebos (Bat Erebosa)"
 
 # 7dacdaad2d5147f4ab153fe771a61bd3
 # 5745a5e927b74a3e98eaa207f8e8692f
