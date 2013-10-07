@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-07 17:18+0200\n"
+"PO-Revision-Date: 2013-10-07 23:28+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381162708.887729\n"
+"X-POOTLE-MTIME: 1381184932.342160\n"
 
 # 34446830b7c949d8b59852b41945ee2c
 # 13a5a223cf9d45d19a919b30f1fc001d
@@ -344,7 +344,7 @@ msgstr ""
 #: ../../M14.rst:74
 msgid "Whenever you gain life, put a +1/+1 counter on each creature you control."
 msgstr ""
-"Zawsze gdy dostajesz życie, połóż znacznik +1/+1 na każdym stworze, którym "
+"Ilekroć dostajesz życie, połóż znacznik +1/+1 na każdym stworze, którym "
 "władasz."
 
 # 2e411a648cd74041a26b0036879856a3
@@ -797,7 +797,7 @@ msgstr "Charging Griffin (Szarżujący Gryf)"
 # dc953d6b14424c878786ec668187afa8
 #: ../../M14.rst:204
 msgid "Whenever Charging Griffin attacks, it gets +1/+1 until end of turn."
-msgstr "Zawsze gdy Charging Griffin atakuje, dostaje +1/+1 do końca tury."
+msgstr "Ilekroć Charging Griffin atakuje, dostaje +1/+1 do końca tury."
 
 # 6789dd42ff7e4b0fb7adfe22d376184b
 # b5edf0feeb0b47499addd5525184f464
@@ -1175,7 +1175,7 @@ msgstr "Gdy Drzwi Przeznaczeń wchodzą na pole walki, wybierz typ stwora."
 #: ../../M14.rst:338
 msgid "Whenever you cast a spell of the chosen type, put a charge counter on Door of Destinies."
 msgstr ""
-"Zawsze gdy rzucasz czar wybranego typu, połóż znacznik ładowania na Drzwiach "
+"Ilekroć rzucasz czar wybranego typu, połóż znacznik ładowania na Drzwiach "
 "Przeznaczeń."
 
 # c7ff84df7cbf4d26b0af80362cc942e6
@@ -1493,7 +1493,7 @@ msgstr "-3: Możesz położyć zielonego stwora z twojej ręki na polu walki."
 #: ../../M14.rst:439
 msgid "-7: You get an emblem with \\\"Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library.\\\""
 msgstr ""
-"-7: Dostajesz emblemat o treści \\\"Zawsze gdy rzucasz czar stwora, możesz "
+"-7: Dostajesz emblemat o treści \\\"Ilekroć rzucasz czar stwora, możesz "
 "poszukać karty stwora w twojej bibliotece, położyć ją na polu walki i "
 "przetasować twoją bibliotekę.\\\""
 
