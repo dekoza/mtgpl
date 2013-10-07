@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-06 17:37+0200\n"
+"PO-Revision-Date: 2013-10-07 05:54+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381077423.25257\n"
+"X-POOTLE-MTIME: 1381121676.567810\n"
 
 # bc285d61e5844f2db8f900ddf644d9e4
 #: ../../GTC.rst:5
@@ -2216,6 +2216,9 @@ msgstr ""
 #: ../../GTC.rst:823
 msgid "Battalion — Whenever Ordruun Veteran and at least two other creatures attack, Ordruun Veteran gains double strike until end of turn. (It deals both first-strike and regular combat damage.)"
 msgstr ""
+"Batalion — Ilekroć Orduun Vetera i co najmniej dwa inne stwory atakują, "
+"Orduun Veteran zyskuje podwójny cios do końca tury. (Zadaje obrażenia "
+"zarówno jako pierwszy cios i normalnie.)"
 
 # 232eb864cca74d69a6d2998f479e146c
 #: ../../GTC.rst:830
@@ -2235,12 +2238,12 @@ msgstr ""
 # 3fd2872c08bd4ce6840e8b11c69349cc
 #: ../../GTC.rst:836
 msgid "Orzhov Guildgate"
-msgstr ""
+msgstr "Orzhov Guildgate (Brama Gildii Orzhov)"
 
 # 3f6fecbfa1b4498593f72dbda57c3f62
 #: ../../GTC.rst:833
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Orzhov Guildgate wchodzi na pole walki zaznaczony."
 
 # 07de1a040b464dddad5c708d74770152
 # ecb704438be442ba9e6cace881da355c
@@ -2264,7 +2267,7 @@ msgstr ""
 # 18f8201a7475459aa4e517694ef48c93
 #: ../../GTC.rst:848
 msgid "Paranoid Delusions"
-msgstr ""
+msgstr "Paranoid Delusions (Paranoiczne Urojenia)"
 
 # 5e0f5f7170814400b875b1498e3dc959
 #: ../../GTC.rst:845
@@ -2335,7 +2338,7 @@ msgstr ""
 # 178504c1a45242178270a1f52daf207e
 #: ../../GTC.rst:871
 msgid "When Prophetic Prism enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy Prophetic Prism wchodzi na pole walki, dobierz kartę."
 
 # 3133e8ee159b4d3baf96351c170914f4
 #: ../../GTC.rst:873
@@ -2385,6 +2388,7 @@ msgstr ""
 #: ../../GTC.rst:889
 msgid "|mana_1|, |tap|: Razortip Whip deals 1 damage to target opponent."
 msgstr ""
+"|mana_1|, |tap|: Razortip Whip zadaje 1 obrażenie wskazanemu przeciwnikowi."
 
 # e71af715c25046b3939074549982fdc8
 #: ../../GTC.rst:896
@@ -2410,7 +2414,7 @@ msgstr ""
 # 440e26246d164cd2bbd735e1e50eff41
 #: ../../GTC.rst:899
 msgid "Creatures you control get +2/+2 until end of turn."
-msgstr ""
+msgstr "Stwory, którymi władasz dostają +2/+2 do końca tury."
 
 # cc531d0dd4be442dadc71f893f1f1a43
 #: ../../GTC.rst:906
@@ -2420,12 +2424,14 @@ msgstr ""
 # 723bdf3fffba4c17a613b264e3415a0c
 #: ../../GTC.rst:903
 msgid "Equipped creature gets +1/+2."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+2."
 
 # 05adc785238f47e6912306899cdea686
 #: ../../GTC.rst:905
 msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2): Dołącz do wskazanego stwora, którym władasz. "
+"Wyposaż jedynie jako obrzęd.)"
 
 # 7f22e1edfb2a46f48a2f3ce829f6161f
 #: ../../GTC.rst:910
@@ -2436,6 +2442,7 @@ msgstr ""
 #: ../../GTC.rst:909
 msgid "Ripscale Predator can't be blocked except by two or more creatures."
 msgstr ""
+"Ripscale Predator może być zablokowany tylko przez dwa lub więcej stworów."
 
 # 6ef26980e2254322be92ee77638aa37e
 #: ../../GTC.rst:914
@@ -2446,6 +2453,8 @@ msgstr ""
 #: ../../GTC.rst:913
 msgid "Whenever Rubblebelt Raiders attacks, put a +1/+1 counter on it for each attacking creature you control."
 msgstr ""
+"Ilekroć Rubblebelt Raiders atakuje, połóż na nim znacznik +1/+1 za każdego "
+"atakującego stwora, którym władasz."
 
 # ecec096ef6fc45d2934a02cfa55a6199
 #: ../../GTC.rst:920
@@ -2504,6 +2513,9 @@ msgstr ""
 #: ../../GTC.rst:937
 msgid "Whenever another blue creature enters the battlefield under your control, target player puts the top two cards of his or her library into his or her graveyard."
 msgstr ""
+"Ilekroć inny niebieski stwór wchodzi na pole walki pod twoim władaniem, "
+"wskazany gracz wkłada dwie wierzchnie karty swojej biblioteki do swojego "
+"cmentarza."
 
 # 06d9651d9d214d1c974d013ce4b03f07
 #: ../../GTC.rst:944
@@ -2513,7 +2525,7 @@ msgstr ""
 # 37a984216cbc494689daeb064573ae2f
 #: ../../GTC.rst:943
 msgid "Each creature you control with a +1/+1 counter on it has flying."
-msgstr ""
+msgstr "Każdy stwór, którym władasz, mający znacznik +1/+1 ma latanie."
 
 # 50795272605e41f493c4012c267fafbd
 #: ../../GTC.rst:948
@@ -2583,6 +2595,9 @@ msgstr ""
 #: ../../GTC.rst:971
 msgid "Whenever another black creature enters the battlefield under your control, target creature gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
 msgstr ""
+"Ilekroć inny czarny stwór wchodzi na pole walki pod twoim władaniem, "
+"wskazany stwór zyskuje zastraszenie do końca tury. (Może być blokowany tylko "
+"przez stwory artefaktowe lub te, które współdzielą z nim kolor.)"
 
 # fc154a168c174a4d9989ee07036a8cea
 #: ../../GTC.rst:978
@@ -2592,7 +2607,7 @@ msgstr ""
 # d38fd109f4344c3aaf33a23a910df20e
 #: ../../GTC.rst:975
 msgid "Target opponent loses 3 life."
-msgstr ""
+msgstr "Wskazany przeciwnik traci 3 życia."
 
 # 91d70b2dfe6d47519b8f785e568a22d9
 #: ../../GTC.rst:984
@@ -2618,6 +2633,8 @@ msgstr ""
 #: ../../GTC.rst:991
 msgid "Prevent all damage that would be dealt to target creature this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, które mogłyby zostać zadane w tej turze "
+"wskazanemu stworowi."
 
 # 8d83a5364fab42768de6c0778724a8a2
 #: ../../GTC.rst:996
@@ -2648,16 +2665,18 @@ msgstr ""
 #: ../../GTC.rst:1007
 msgid "|mana_1| |mana_u|, |tap|: Move a +1/+1 counter from Simic Fluxmage onto target creature."
 msgstr ""
+"|mana_1| |mana_u|, |tap|: Przenieś znacznik +1/+1 z Simic Fluxmage na "
+"wskazanego stwora."
 
 # bf4c0f9890ba41b5b68573d822857a8d
 #: ../../GTC.rst:1014
 msgid "Simic Guildgate"
-msgstr ""
+msgstr "Simic Guildgate (Brama Gildii Simic)"
 
 # d16c0d2b846b4f19a211e019b386d356
 #: ../../GTC.rst:1011
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Simic Guildgate wchodzi na pole walki zaznaczony."
 
 # eb02b48e44824655baa7f5c8aa97b0d4
 # 33dd5725685d4e989fdd39824b81df5b
@@ -2688,6 +2707,9 @@ msgstr ""
 #: ../../GTC.rst:1025
 msgid "|tap|, Remove one or more +1/+1 counters from Simic Manipulator: Gain control of target creature with power less than or equal to the number of +1/+1 counters removed this way."
 msgstr ""
+"|tap|, usuń jeden lub więcej znaczników +1/+1 z Simic Manipulator: Przejmij "
+"władanie nad wskazanym stworem o sile nie większej niż liczba znaczników "
+"+1/+1 usuniętych w ten sposób."
 
 # 39286ee1d3bb476a8dd46d097a18b6b5
 #: ../../GTC.rst:1032
@@ -2737,6 +2759,8 @@ msgstr ""
 #: ../../GTC.rst:1045
 msgid "Players can't gain life this turn. Damage can't be prevented this turn. Skullcrack deals 3 damage to target player."
 msgstr ""
+"Gracze nie mogą zyskiwać życia w tej turze. Obrażenia nie mogą być zażegnane "
+"w tej turze. Skullcrack zadaje wskazanemu graczowi 3 obrażenia."
 
 # 9770a03be97a40c6a1d73205e39aae9c
 #: ../../GTC.rst:1052

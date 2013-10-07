@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-06 23:06+0200\n"
+"PO-Revision-Date: 2013-10-07 00:40+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381097203.664676\n"
+"X-POOTLE-MTIME: 1381102814.866050\n"
 
 # 8f7974d7a6914bf581174be80fc2157b
 #: ../../RTR.rst:5
@@ -347,7 +347,7 @@ msgstr ""
 # 4f00835eeba842c491db7f4a17d8ce76
 #: ../../RTR.rst:101
 msgid "Azorius Guildgate"
-msgstr ""
+msgstr "Azorius Guildgate (Brama Gildii Azorius)"
 
 # e6a33045cddf451c9070d0a744c42738
 #: ../../RTR.rst:98
@@ -1301,7 +1301,7 @@ msgstr ""
 # b1de8bb9e59c4963b4d2774bcdeee022
 #: ../../RTR.rst:442
 msgid "|mana_ur|: Frostburn Weird gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_ur|: Frostburn Weird dostaje +1/-1 do końca tury."
 
 # e4df4b24576140f4a6267d025eca578f
 #: ../../RTR.rst:449
@@ -1490,6 +1490,8 @@ msgstr ""
 #: ../../RTR.rst:520
 msgid "At the beginning of your upkeep, populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
 msgstr ""
+"Na początku twojego utrzymania, zaludnij. (Połóż na polu walki żeton będący "
+"kopią władanego przez ciebie żetonu stwora.)"
 
 # df4eb7d0b335472d9f22d7b4d90ee1da
 #: ../../RTR.rst:525
@@ -1684,6 +1686,9 @@ msgstr ""
 #: ../../RTR.rst:596
 msgid "When Isperia's Skywatch enters the battlefield, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)"
 msgstr ""
+"Kiedy Isperia's Skywatch wchodzi na pole walki, uwięź wskazanego stwora, "
+"którym włada przeciwnik. (Do twojej następnej tury ów stwór nie może "
+"atakować ani blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
 
 # e4ecc061532548a2994e8b781728fcd7
 #: ../../RTR.rst:603
@@ -1694,11 +1699,14 @@ msgstr ""
 #: ../../RTR.rst:600
 msgid "Choose one — Counter target noncreature spell unless its controller pays |mana_2|; or Izzet Charm deals 2 damage to target creature; or draw two cards, then discard two cards."
 msgstr ""
+"Wybierz jedno — Skontruj wskazany czar nie-stwora dopóki jego władca nie "
+"zapłaci |mana_2|; albo Izzet Charm zadaje 2 obrażenia wskazanemu stworowi; "
+"albo dobierz dwie karty, po czym odrzuć dwie karty."
 
 # 5d30d9ff5f5d4677b7ab6f4c5e4d2e87
 #: ../../RTR.rst:609
 msgid "Izzet Guildgate"
-msgstr ""
+msgstr "Izzet Guildgate (Brama Gildii Izzet)"
 
 # e68c75605e7447f690e50760eb524b44
 #: ../../RTR.rst:606
@@ -1794,6 +1802,7 @@ msgstr ""
 #: ../../RTR.rst:640
 msgid "Sacrifice a Swamp and a Forest: Return Jarad from your graveyard to your hand."
 msgstr ""
+"Poświęć Bagno oraz Las: Zwróć Jarada z twojego cmentarza do twojej ręki."
 
 # 233ad85dc04f428a8e724ceaaad687b0
 #: ../../RTR.rst:645
@@ -1804,6 +1813,9 @@ msgstr ""
 #: ../../RTR.rst:644
 msgid "Search your library for up to two creature cards and reveal them. Put one into your hand and the other into your graveyard. Then shuffle your library."
 msgstr ""
+"Poszukaj w twojej bibliotece do dwóch kart stwora i ujawnij je. Dołóż jedną "
+"do twojej ręki, a drugą na twój cmentarz. Następnie przetasuj twoją "
+"bibliotekę."
 
 # 1019079ef0c9438eac0ca65ad25a370f
 #: ../../RTR.rst:651
@@ -1814,6 +1826,8 @@ msgstr ""
 #: ../../RTR.rst:650
 msgid "Sacrifice Judge's Familiar: Counter target instant or sorcery spell unless its controller pays |mana_1|."
 msgstr ""
+"Poświęć Judge's Familiar: Skontruj wskazany czar sztuczki lub obrzędu dopóki "
+"jego władca nie zapłaci |mana_1|."
 
 # fa47dfb9a8634b6ea0c41f65c8a8a3c6
 #: ../../RTR.rst:655
@@ -1823,7 +1837,7 @@ msgstr ""
 # fbd344c369d84a7b97e39b62da994214
 #: ../../RTR.rst:654
 msgid "Sacrifice Keening Apparition: Destroy target enchantment."
-msgstr ""
+msgstr "Poświęć Keening Apparition: Zniszcz wskazany urok."
 
 # b7f58b8daff3466ca96a1cc43001a066
 #: ../../RTR.rst:663
@@ -1898,12 +1912,12 @@ msgstr ""
 # 23e3417b8b054e29bf1b82fb8f4b7a9f
 #: ../../RTR.rst:686
 msgid "|tap|: Lobber Crew deals 1 damage to each opponent."
-msgstr ""
+msgstr "|tap|: Lobber Crew zadaje 1 obrażenie każdemu przeciwnikowi."
 
 # 0c59561d1b854ee5a8a9a5f1e46c2eac
 #: ../../RTR.rst:688
 msgid "Whenever you cast a multicolored spell, untap Lobber Crew."
-msgstr ""
+msgstr "Ilekroć rzucasz wielokolorowy czar, odznacz Lobber Crew."
 
 # 04b07556aded4dd0a6475c04ceeba8b4
 #: ../../RTR.rst:697
@@ -1913,12 +1927,12 @@ msgstr ""
 # 909444402dcf43fdb79d8bafc0f1c542
 #: ../../RTR.rst:694
 msgid "Discard a creature card: Put a +1/+1 counter on Lotleth Troll."
-msgstr ""
+msgstr "Odrzuć kartę stwora: Połóż znacznik +1/+1 na Lotleth Troll."
 
 # 854868265db641e388e1f33a35d5e891
 #: ../../RTR.rst:696
 msgid "|mana_b|: Regenerate Lotleth Troll."
-msgstr ""
+msgstr "|mana_b|: Zregeneruj Lotleth Troll."
 
 # 99ad1a443a974a9c88bd4d6c73e2ceaa
 #: ../../RTR.rst:703
@@ -2010,7 +2024,7 @@ msgstr ""
 # 4bce0b717fe748a1b9ecc6d3a72697a8
 #: ../../RTR.rst:730
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 # 1b418fc88ae7478ebffb20de565f2a89
 #: ../../RTR.rst:735
@@ -2103,12 +2117,14 @@ msgstr ""
 # 30eba1c4258148e2a54b2a686accc69d
 #: ../../RTR.rst:766
 msgid "|mana_1| |mana_u| |mana_r|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|mana_1| |mana_u| |mana_r|: Dobierz kartę, po czym odrzuć kartę."
 
 # cb9afc9eaff6413cbf89a3f6ab05b3f8
 #: ../../RTR.rst:768
 msgid "|mana_2| |mana_u| |mana_r|: Copy target instant or sorcery spell you control. You may choose new targets for the copy."
 msgstr ""
+"|mana_2| |mana_u| |mana_r|: Skopiuj wskazany czar sztuczki lub obrzędu, "
+"którym władasz. Możesz wskazać nowe cele dla kopii."
 
 # 709f75dd9a0e4fe88e5215cb7c1d09d5
 #: ../../RTR.rst:773
@@ -2219,6 +2235,7 @@ msgstr ""
 #: ../../RTR.rst:812
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
+"Zauroczony stwór nie odznacza się podczas kroku odznaczania swojego władcy."
 
 # a285a3a96d3741e3b8be1c21cd6f86d4
 #: ../../RTR.rst:817
@@ -2228,7 +2245,7 @@ msgstr ""
 # 9aa39afce4d54c61934fd3f2ce2fc4b2
 #: ../../RTR.rst:816
 msgid "|mana_1| |mana_b|: Perilous Shadow gets +2/+2 until end of turn."
-msgstr ""
+msgstr "|mana_1| |mana_b|: Perilous Shadow dostaje +2/+2 do końca tury."
 
 # 907348bde9524f02bfe7e68ca5900c60
 #: ../../RTR.rst:821
@@ -2238,7 +2255,7 @@ msgstr ""
 # 91262249dd034fb39c0e934a1256f0c3
 #: ../../RTR.rst:820
 msgid "Creature tokens you control get +1/+1."
-msgstr ""
+msgstr "Żetony stworów, którymi władasz dostają +1/+1."
 
 # 2d3264db30cc41c6abb899fb38f1bee7
 #: ../../RTR.rst:827
@@ -2297,6 +2314,9 @@ msgstr ""
 #: ../../RTR.rst:840
 msgid "Shuffle all cards from your graveyard into your library. Target player puts that many cards from the top of his or her library into his or her graveyard."
 msgstr ""
+"Wtasuj wszystkie karty z twojego cmentarza do twojej biblioteki. Wskazany "
+"gracz wkłada tyle samo kart z wierzchu swojej biblioteki do swojego "
+"cmentarza."
 
 # 9d03feabe5e743abb3b98f6d44af970a
 #: ../../RTR.rst:847
@@ -2307,6 +2327,8 @@ msgstr ""
 #: ../../RTR.rst:846
 msgid "Enchanted creature gets +2/+2 and has \\\"|mana_u|: This creature gains flying until end of turn.\\\""
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i ma \\\"|mana_u|: Ten stwór zyskuje latanie do "
+"końca tury.\\\""
 
 # a168597a298743f2a19ca719d6826a18
 #: ../../RTR.rst:851
@@ -2417,6 +2439,8 @@ msgstr ""
 #: ../../RTR.rst:898
 msgid "You can't cast Rakdos, Lord of Riots unless an opponent lost life this turn."
 msgstr ""
+"Nie możesz rzucić Rakdos, Lord of Riots dopóki przeciwnik nie stracił "
+"punktów życia w tej turze."
 
 # 66908ccb154c4e65b7eec35e3d32f7b1
 #: ../../RTR.rst:900
@@ -2492,6 +2516,8 @@ msgstr ""
 #: ../../RTR.rst:928
 msgid "Target creature gets +3/+3 until end of turn. Another target creature gets -3/-3 until end of turn."
 msgstr ""
+"Wskazany stwór dostaje +3/+3 do końca tury. Inny wskazany stwór dostaje "
+"-3/-3 do końca tury."
 
 # fdc4661fdd2f40f58515902334aec236
 #: ../../RTR.rst:935
@@ -2550,12 +2576,12 @@ msgstr ""
 # f3955ac7a1ab49b39b992607950c0353
 #: ../../RTR.rst:955
 msgid "Runewing"
-msgstr ""
+msgstr "Runewing (Runoskrzydły)"
 
 # 57fffe35c90d46ba80606993cad2a7c3
 #: ../../RTR.rst:954
 msgid "When Runewing dies, draw a card."
-msgstr ""
+msgstr "Kiedy Runewing umiera, dobierz kartę."
 
 # 26c6af82b715472788d9a3e2f1aa75d2
 #: ../../RTR.rst:959
@@ -2565,7 +2591,7 @@ msgstr ""
 # 6c0124f8aa2f4828bd35398babc8600e
 #: ../../RTR.rst:958
 msgid "Target creature gets +2/+2 until end of turn. Untap that creature."
-msgstr ""
+msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Odznacz owego stwora."
 
 # 8d5d675e64434c908a7e49aef7b2cef7
 #: ../../RTR.rst:965
@@ -2576,16 +2602,22 @@ msgstr ""
 #: ../../RTR.rst:962
 msgid "When Search the City enters the battlefield, exile the top five cards of your library."
 msgstr ""
+"Kiedy Search the City wchodzi na pole walki, wypędź pięć wierzchnich kart "
+"twojej biblioteki."
 
 # a613fec53a9148239726a1802727ac28
 #: ../../RTR.rst:964
 msgid "Whenever you play a card with the same name as one of the exiled cards, you may put one of those cards with that name into its owner's hand. Then if there are no cards exiled with Search the City, sacrifice it. If you do, take an extra turn after this one."
 msgstr ""
+"Ilekroć zagrywasz kartę z taką samą nazwą jak jedna z wypędzonych kart, "
+"możesz dołożyć jedną z owych kart o takiej nazwie do ręki jej właściciela. "
+"Następnie jeśli nie ma już kart wypędzonych przez Search the City, poświęć "
+"go. Gdy tak zrobisz, weź dodatkową turę po obecnej."
 
 # c2850f99cc9d4d58ba82c573fe370264
 #: ../../RTR.rst:969
 msgid "Search Warrant"
-msgstr ""
+msgstr "Search Warrant (Nakaz Rewizji)"
 
 # c51bcc2b66e143738e769c966fc08f3d
 #: ../../RTR.rst:968
@@ -2673,7 +2705,7 @@ msgstr ""
 # 6185343aa19c49a5bc1cb65a90ce80d2
 #: ../../RTR.rst:1003
 msgid "|mana_5| |mana_g|: Regenerate Selesnya Sentry."
-msgstr ""
+msgstr "|mana_5| |mana_g|: Zregeneruj Selesnya Sentry."
 
 # 9761568594734ece8d007ab2206b15ea
 #: ../../RTR.rst:1008
@@ -2684,6 +2716,8 @@ msgstr ""
 #: ../../RTR.rst:1007
 msgid "When Seller of Songbirds enters the battlefield, put a 1/1 white Bird creature token with flying onto the battlefield."
 msgstr ""
+"Kiedy Seller of Songbirds wchodzi na pole walki, połóż na polu walki żeton "
+"białego stwora Ptak 1/1 z lataniem."
 
 # 028e49a19114464cb97fa06fd26f6747
 #: ../../RTR.rst:1014
@@ -2761,6 +2795,9 @@ msgstr ""
 #: ../../RTR.rst:1039
 msgid "Name a nonland card. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library."
 msgstr ""
+"Nazwij nielądową kartę. Poszukaj cmentarz, rękę i bibliotekę wskazanego "
+"przeciwnika dowolną liczbę kart o tej nazwie i wypędź je. Następnie ów gracz "
+"tasuje swoją bibliotekę."
 
 # 279020deb74345c2b891022aee22f8db
 #: ../../RTR.rst:1044
@@ -2770,7 +2807,7 @@ msgstr ""
 # 9684190bfccf412fad7b5aee1119142b
 #: ../../RTR.rst:1043
 msgid "Put an X/X green Ooze creature token onto the battlefield."
-msgstr ""
+msgstr "Połóż na polu walki żeton zielonego stwora Szlam X/X."
 
 # 8c49a99e866e452eb2da96d856a71497
 #: ../../RTR.rst:1048
@@ -2811,7 +2848,7 @@ msgstr ""
 # 6dcc69420905435c97087de3c08243ae
 #: ../../RTR.rst:1057
 msgid "When Slum Reaper enters the battlefield, each player sacrifices a creature."
-msgstr ""
+msgstr "Kiedy Slum Reaper wchodzi na pole walki, każdy gracz poświęca stwora."
 
 # 362a9fa48fc444328983ebe86b262614
 #: ../../RTR.rst:1064
@@ -2857,16 +2894,20 @@ msgstr ""
 #: ../../RTR.rst:1077
 msgid "Creatures can't attack you or a planeswalker you control unless their controller pays |mana_x| for each of those creatures, where X is the number of enchantments you control."
 msgstr ""
+"Stwory nie mogą atakować ciebie ani wędrowca, którym władasz dopóki ich "
+"władca nie zapłaci |mana_x| za każdego z owych stworów, gdzie X to liczba "
+"uroków, którymi władasz."
 
 # 0cfb66818beb47e1aa0f716640bb2aa9
 #: ../../RTR.rst:1084
 msgid "Sphinx of the Chimes"
-msgstr ""
+msgstr "Sphinx of the Chimes (Sfinks Dzwonów)"
 
 # f2a79d3c4c324e349343ebe9cc7c95d7
 #: ../../RTR.rst:1083
 msgid "Discard two nonland cards with the same name: Draw four cards."
 msgstr ""
+"Odrzuć dwie nielądowe karty o takiej samej nazwie: Dobierz cztery karty."
 
 # b022aecc7efc42f092a7d431cc035d14
 #: ../../RTR.rst:1088
@@ -2876,7 +2917,7 @@ msgstr ""
 # fbe55bd8e38c47c4966cae55a829339b
 #: ../../RTR.rst:1087
 msgid "You gain X life and draw X cards."
-msgstr ""
+msgstr "Zyskujesz X życia i dobierasz X kart."
 
 # d72a487ce3734b418e29f03d1a4175c6
 #: ../../RTR.rst:1094
@@ -2901,12 +2942,13 @@ msgstr ""
 # 66acbe9fb8134c46847f63625d05eed8
 #: ../../RTR.rst:1106
 msgid "Stealer of Secrets"
-msgstr ""
+msgstr "Stealer of Secrets (Złodziej Tajemnic)"
 
 # b85473575084410196cc20111aaaa70c
 #: ../../RTR.rst:1105
 msgid "Whenever Stealer of Secrets deals combat damage to a player, draw a card."
 msgstr ""
+"Ilekroć Stealer of Secrets zadaje graczowi obrażenia bojowe, dobierz kartę."
 
 # ac4c04a5ce0a4b56a70f752d1310bdc8
 #: ../../RTR.rst:1112
@@ -2934,6 +2976,8 @@ msgstr ""
 #: ../../RTR.rst:1115
 msgid "|mana_2| |mana_b|: Stonefare Crocodile gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)"
 msgstr ""
+"|mana_2| |mana_b|: Stonefare Crocodile zyskuje więź życia do końca tury. "
+"(Obrażenia zadane przez tego stwora powodują, że zyskujesz tyle samo życia.)"
 
 # 7767b9b4370a4438a857b87d8d3ccbb9
 #: ../../RTR.rst:1122
@@ -2944,6 +2988,8 @@ msgstr ""
 #: ../../RTR.rst:1119
 msgid "Street Spasm deals X damage to target creature without flying you don't control."
 msgstr ""
+"Wskazany stwór bez latania, którym nie władasz dostaje od Street Spasm X "
+"obrażeń."
 
 # 7cb90935526647848ba9fac9391d9d25
 #: ../../RTR.rst:1121
@@ -2962,6 +3008,8 @@ msgstr ""
 #: ../../RTR.rst:1125
 msgid "Whenever Street Sweeper attacks, destroy all Auras attached to target land."
 msgstr ""
+"Ilekroć Street Sweeper atakuje, zniszcz wszystkie Aury dołączone do "
+"wskazanego lądu."
 
 # e6213d1e11854768be30e350904ea745
 #: ../../RTR.rst:1130
@@ -3004,16 +3052,18 @@ msgstr ""
 #: ../../RTR.rst:1143
 msgid "Destroy target land. Put a 1/1 red Goblin creature token onto the battlefield."
 msgstr ""
+"Zniszcz wskazany ląd. Połóż na polu walki żeton czerownego stwora Goblin "
+"1/1."
 
 # 64db304f6bc64580bfc9abf4eed5a0ee
 #: ../../RTR.rst:1148
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 # 05497250ca8d458592976ecdece65ef9
 #: ../../RTR.rst:1147
 msgid "B"
-msgstr ""
+msgstr "|mana_b|"
 
 # 8e9adae0df0c4825a1a798a48ab9d8bb
 #: ../../RTR.rst:1152
@@ -3023,7 +3073,7 @@ msgstr ""
 # bfe2b7ad87814189ba4fe481aa17a2e3
 #: ../../RTR.rst:1151
 msgid "Until end of turn, target creature gets +1/+0 and gains first strike and lifelink."
-msgstr ""
+msgstr "Do końca tury wskazany stwór dostaje +1/+0, pierwszy cios i więź życia."
 
 # 8cbd120c431044179e9dbd1d3ee7d80a
 #: ../../RTR.rst:1156
@@ -3034,6 +3084,9 @@ msgstr ""
 #: ../../RTR.rst:1155
 msgid "Counter target spell unless its controller pays |mana_x|. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
 msgstr ""
+"Skontruj wskazany czar dopóki jego władca nie zapłaci |mana_x|. Jeśli czar "
+"zostanie skontrowany w ten sposób, wypędź go zamiast kłaść go na cmentarz "
+"jego właściciela."
 
 # ba87688c3d7546e8be8a6f57968d12d2
 #: ../../RTR.rst:1162
@@ -3069,6 +3122,8 @@ msgstr ""
 #: ../../RTR.rst:1169
 msgid "Target creature you control gets +1/+0 until end of turn and can't be blocked this turn."
 msgstr ""
+"Wskazany stwór, którym władasz dostaje +1/+0 do końca tury i nie może być "
+"blokowany w tej turze."
 
 # fe379546f4df47c1b70de19453307551
 #: ../../RTR.rst:1178
@@ -3133,7 +3188,7 @@ msgstr ""
 # e15341d2178141c4a5fef314cc516cad
 #: ../../RTR.rst:1201
 msgid "|mana_w|: Tower Drake gets +0/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|: Tower Drake dostaje +0/+1 do końca tury."
 
 # a510fde8e3c44f8b9f1f3d9df1a2f61d
 #: ../../RTR.rst:1206
@@ -3176,6 +3231,8 @@ msgstr "Transguild Promenade wchodzi na pole walki zaznaczony."
 #: ../../RTR.rst:1219
 msgid "When Transguild Promenade enters the battlefield, sacrifice it unless you pay |mana_1|."
 msgstr ""
+"Kiey Transguild Promenade wchodzi na pole walki, poświęć go dopóki nie "
+"zapłacisz |mana_1|."
 
 # 0a4a8bf6898f41d8ae4dc8d6e8855d8e
 #: ../../RTR.rst:1226
@@ -3186,6 +3243,8 @@ msgstr ""
 #: ../../RTR.rst:1225
 msgid "Return target card from your graveyard to your hand. Exile Treasured Find."
 msgstr ""
+"Zwróć wskazaną kartę z twojego cmentarza do twojej ręki. Wypędź Treasured "
+"Find."
 
 # e289b508c6e94e68a1f66d8da21f4193
 #: ../../RTR.rst:1234
@@ -3195,7 +3254,7 @@ msgstr ""
 # 4e9414c220d346ae8111545fffea0ec3
 #: ../../RTR.rst:1233
 msgid "|mana_1| |mana_b| |mana_g|: Regenerate Trestle Troll."
-msgstr ""
+msgstr "|mana_1| |mana_b| |mana_g|: Zregeneruj Trestle Troll."
 
 # 39a8c3fba3574d0d9deef83768456332
 #: ../../RTR.rst:1240
@@ -3206,6 +3265,8 @@ msgstr ""
 #: ../../RTR.rst:1237
 msgid "Whenever another creature enters the battlefield under your control, you gain life equal to that creature's toughness."
 msgstr ""
+"Ilekroć inny stwór wchodzi na pole walki pod twoje władanie, zyskujesz życie "
+"równe wytrzymałości owego stwora."
 
 # bf670122411b447d928e724f36208588
 #: ../../RTR.rst:1239
@@ -3255,6 +3316,8 @@ msgstr ""
 #: ../../RTR.rst:1259
 msgid "Enchanted land has \\\"Untap this land during each other player's untap step.\\\""
 msgstr ""
+"Zauroczony ląd ma \\\"Odznacz ten ląd podczas kroku odznaczania każdego innego "
+"gracza.\\\""
 
 # 7cdfcbefa6854854a5b9f12118f68fff
 #: ../../RTR.rst:1266
@@ -3265,6 +3328,8 @@ msgstr ""
 #: ../../RTR.rst:1265
 msgid "Whenever a Dragon you control attacks, put a 6/6 red Dragon creature token with flying onto the battlefield."
 msgstr ""
+"Ilekroć Smok, którym władasz atakuje, połóż na polu walki żeton czerwonego "
+"stwora Smok 6/6 z lataniem."
 
 # d06f282d99b249208b40213262efac5c
 #: ../../RTR.rst:1272
@@ -3274,7 +3339,7 @@ msgstr ""
 # d483c27e874443d78d84cc73b643a3d0
 #: ../../RTR.rst:1269
 msgid "Destroy target artifact you don't control."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt, którym nie władasz."
 
 # b1b238619ea44735918911ae21aa1ff0
 #: ../../RTR.rst:1271
@@ -3298,6 +3363,8 @@ msgstr ""
 #: ../../RTR.rst:1279
 msgid "When Viashino Racketeer enters the battlefield, you may discard a card. If you do, draw a card."
 msgstr ""
+"Kiedy Viashino Racketeer wchodzi na pole walki, możesz odrzucić kartę. Jeśli "
+"tak zrobisz, dobierz kartę."
 
 # 7d0ba7c3e751458ab51dc4b8904396f0
 #: ../../RTR.rst:1286
@@ -3325,6 +3392,8 @@ msgstr ""
 #: ../../RTR.rst:1289
 msgid "When Voidwielder enters the battlefield, you may return target creature to its owner's hand."
 msgstr ""
+"Kiedy Voidwielder wchodzi na pole walki, możesz zwrócić wskazanego stwora do "
+"ręki jego właściciela."
 
 # c126cd4bcbd646028c0928b0340f0244
 #: ../../RTR.rst:1300
@@ -3334,17 +3403,21 @@ msgstr ""
 # c85b97ce22264b7a8a274d4ae0f60ce1
 #: ../../RTR.rst:1295
 msgid "Volatile Rig attacks each turn if able."
-msgstr ""
+msgstr "Volatile Rig atakuje w każdej turze jeśli może."
 
 # 5dbc4e12026b4d08a26f6a330029b099
 #: ../../RTR.rst:1297
 msgid "Whenever Volatile Rig is dealt damage, flip a coin. If you lose the flip, sacrifice Volatile Rig."
 msgstr ""
+"Ilekroć Volatile Rig otrzymuje obrażenia, rzuć monetą. Jeśli przegrasz rzut, "
+"poświęć Volatile Rig."
 
 # ac21d82e86dd468b88596a58cc8055a9
 #: ../../RTR.rst:1299
 msgid "When Volatile Rig dies, flip a coin. If you lose the flip, it deals 4 damage to each creature and each player."
 msgstr ""
+"Ilekroć Volatile Rig umiera, rzuć monetą. Jeśli przegrasz rzut, Volatile Rig "
+"zadaje 4 obrażenia każdemu stworowi i graczowi."
 
 # d552e5a777f04003bc97dd4444ad03c9
 #: ../../RTR.rst:1308
@@ -3353,18 +3426,23 @@ msgstr ""
 
 # b4cb1ce6ac624e0e862de411df759e3f
 #: ../../RTR.rst:1303
+#, fuzzy
 msgid "+1: Until your next turn, whenever a creature deals combat damage to Vraska the Unseen, destroy that creature."
 msgstr ""
+"+1: Do twojej następnej tury ilekroć stwór zada obrażenia bojowe Vraszce, "
+"zniszcz owego stwora."
 
 # 92c01546bc044403b1df94752af40fcb
 #: ../../RTR.rst:1305
 msgid "-3: Destroy target nonland permanent."
-msgstr "-3: Zniszcz wskazaną stałkę nie będącą lądem."
+msgstr "-3: Zniszcz wskazaną nielądową stałkę."
 
 # bf656982d0e84a31beb26b87669c836f
 #: ../../RTR.rst:1307
 msgid "-7: Put three 1/1 black Assassin creature tokens onto the battlefield with \\\"Whenever this creature deals combat damage to a player, that player loses the game.\\\""
 msgstr ""
+"-7: Połóż na polu walki trzy żeton stwora Zabójca 1/1 mającego \\\"Ilekroć ten "
+"stwór zada graczowi obrażenia bojowe, ów gracz przegrywa grę.\\\""
 
 # c9ee9320f23e4d8e8473600113cc3fa4
 #: ../../RTR.rst:1314
@@ -3375,6 +3453,8 @@ msgstr ""
 #: ../../RTR.rst:1311
 msgid "Wayfaring Temple's power and toughness are each equal to the number of creatures you control."
 msgstr ""
+"Siła i wytrzymałość Wayfaring Temple's są równe liczbie stworów, którymi "
+"władasz każda."
 
 # d580eb32392d4930a4664c62933e3c23
 #: ../../RTR.rst:1313
@@ -3393,6 +3473,8 @@ msgstr ""
 #: ../../RTR.rst:1317
 msgid "Whenever Wild Beastmaster attacks, each other creature you control gets +X/+X until end of turn, where X is Wild Beastmaster's power."
 msgstr ""
+"Ilekroć Wild Beastmaster atakuje, każdy inny stwór, którym władasz dostaje "
+"+X/+X do końca tury, gdzie X to siła Wild Beastmaster."
 
 # 6ff6f39e20794cc2a36dc5e0c6022769
 #: ../../RTR.rst:1326
@@ -3403,11 +3485,15 @@ msgstr ""
 #: ../../RTR.rst:1323
 msgid "When Worldspine Wurm dies, put three 5/5 green Wurm creature tokens with trample onto the battlefield."
 msgstr ""
+"Kiedy Worldspine Wurm umiera, połóż na polu walki trzy żetony zielonego "
+"stwora Żmij 5/5 z tratowaniem."
 
 # 898635e55c9246368d5f9160cf161bf9
 #: ../../RTR.rst:1325
 msgid "When Worldspine Wurm is put into a graveyard from anywhere, shuffle it into its owner's library."
 msgstr ""
+"Kiedy Worldspine Wurm trafia skądkolwiek na cmentarz, wtasuj go w bibliotekę "
+"jego właściciela."
 
 # a99f59e356a44a50a5fbc3fc3334a761
 #: ../../RTR.rst:1332
