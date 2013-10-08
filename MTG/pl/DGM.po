@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-28 21:23\n"
-"PO-Revision-Date: 2013-10-07 22:24+0200\n"
+"PO-Revision-Date: 2013-10-08 04:54+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381181063.966765\n"
+"X-POOTLE-MTIME: 1381204449.263501\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
 #: ../../DGM.rst:5
@@ -274,8 +274,8 @@ msgstr "Blast of Genius (Wybuch Geniuszu)"
 msgid "Choose target creature or player. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that creature or player."
 msgstr ""
 "Wskaż stwora lub gracza. Dobierz trzy karty, a następnie odrzuć jedną kartę. "
-"Blast of Genius zadaje obrażenia równe całkowitemu kosztowi odrzuconej "
-"karty w tego stwora lub gracza."
+"Blast of Genius zadaje obrażenia równe łącznemu kosztowi odrzuconej karty w "
+"owego stwora lub gracza."
 
 # 0a4cf1751d78404282ced83a7128ea2d
 #: ../../DGM.rst:89

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-07 17:23+0200\n"
+"PO-Revision-Date: 2013-10-08 04:55+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381163008.390385\n"
+"X-POOTLE-MTIME: 1381204515.456734\n"
 
 # 8f7974d7a6914bf581174be80fc2157b
 #: ../../RTR.rst:5
@@ -35,8 +35,7 @@ msgstr "Abrupt Decay nie może być skontrowany przez czary i zdolności."
 # ae22bea331ec4a56ad31deaa030786bf
 #: ../../RTR.rst:10
 msgid "Destroy target nonland permanent with converted mana cost 3 or less."
-msgstr ""
-"Zniszcz wskazaną stałkę nie będącą lądem o łącznym koszcie many 3 lub mniej."
+msgstr "Zniszcz wskazaną nielądową stałkę o łącznym koszcie many 3 lub mniej."
 
 # d6c22d1caca14217a29f973f4c740e50
 #: ../../RTR.rst:15
