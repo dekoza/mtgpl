@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-28 21:23\n"
-"PO-Revision-Date: 2013-10-08 04:54+0200\n"
+"PO-Revision-Date: 2013-10-09 13:57+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381204449.263501\n"
+"X-POOTLE-MTIME: 1381323425.128691\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
 #: ../../DGM.rst:5
@@ -30,7 +30,7 @@ msgstr "Advent of the Wurm (Nadejście Żmija)"
 # 5fd45096577843cf83c9714446c850da
 #: ../../DGM.rst:8
 msgid "Put a 5/5 green Wurm creature token with trample onto the battlefield."
-msgstr "Połóż na polu walki żeton zielonego stwora Wurm 5/5 z tratowaniem."
+msgstr "Połóż na polu walki żeton zielonego stwora Żmij 5/5 z tratowaniem."
 
 # f7319fec424944cb913ebc7f217992ff
 #: ../../DGM.rst:19
@@ -141,7 +141,7 @@ msgstr "Armed // Dangerous [Armed] (Uzbrojony//Niebezpieczny [Uzbrojony])"
 # 726108b10f5540cea74715ca6eb373e3
 #: ../../DGM.rst:28
 msgid "Target creature gets +1/+1 and gains double strike until end of turn."
-msgstr "Wskazany stwór dostaje +1/+1 oraz Podwójny Cios do końca tury."
+msgstr "Wskazany stwór dostaje +1/+1 oraz podwójny cios do końca tury."
 
 # 8562f5a4f446494e8b1b69cee9d8508b
 #: ../../DGM.rst:33
@@ -201,14 +201,13 @@ msgstr "|mana_w| |mana_u|, |tap|, poświęć Azorius Cluestone: Dobierz kartę."
 
 # 497c827c69c844b1b3b7f2449f94fba6
 #: ../../DGM.rst:61
-#, fuzzy
 msgid "Azorius Guildgate"
-msgstr "Azorius Guildgate"
+msgstr "Azorius Guildgate (Brama Gildii Azorius)"
 
 # 9ba7e3ddf5144effb9cf7effc5812f3d
 #: ../../DGM.rst:58
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr "Azorius Guildgate wchodzi na pole walki jako zaznaczony."
+msgstr "Brama Gildii Azorius wchodzi na pole walki zaznaczona."
 
 # 0a689d99b980437aa96e5a27e45b464b
 #: ../../DGM.rst:63
@@ -260,8 +259,8 @@ msgstr "Beetleform Mage (Żukokształtny Mag)"
 #: ../../DGM.rst:80
 msgid "|mana_g| |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn."
 msgstr ""
-"|mana_g| |mana_u|: Beetleform Mage dostaje +2/+2 oraz Latanie do końca tury. "
-"Aktywuj tę zdolność tylko raz na turę."
+"|mana_g| |mana_u|: Żukokształtny Mag dostaje +2/+2 oraz latanie do końca "
+"tury. Aktywuj tę zdolność tylko raz na turę."
 
 # ad07ebe09d0d4e329d2e6e51a50e4078
 #: ../../DGM.rst:85
@@ -274,7 +273,7 @@ msgstr "Blast of Genius (Wybuch Geniuszu)"
 msgid "Choose target creature or player. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that creature or player."
 msgstr ""
 "Wskaż stwora lub gracza. Dobierz trzy karty, a następnie odrzuć jedną kartę. "
-"Blast of Genius zadaje obrażenia równe łącznemu kosztowi odrzuconej karty w "
+"Wybuch Geniuszu zadaje obrażenia równe łącznemu kosztowi odrzuconej karty w "
 "owego stwora lub gracza."
 
 # 0a4cf1751d78404282ced83a7128ea2d
