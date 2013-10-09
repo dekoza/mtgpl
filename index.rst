@@ -14,9 +14,9 @@ Instrukcja
 Tłumaczenie dodatków
 --------------------
 
-* :doc:`Return to Ravnica<RTR>` (42%)
-* :doc:`Gatecrash<GTC>` (76%)
-* :doc:`Dragons' Maze<DGM>` (99%)
+* :doc:`Return to Ravnica<RTR>` (100%)
+* :doc:`Gatecrash<GTC>` (100%)
+* :doc:`Dragons' Maze<DGM>` (100%)
 * :doc:`Magic 2014 Core Set<M14>` (100%)
 * :doc:`Theros<THS>` (100%)
 
