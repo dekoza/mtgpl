@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-28 21:23\n"
-"PO-Revision-Date: 2013-10-09 13:57+0200\n"
+"PO-Revision-Date: 2013-10-09 14:14+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381323425.128691\n"
+"X-POOTLE-MTIME: 1381324494.368321\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
 #: ../../DGM.rst:5
@@ -496,8 +496,7 @@ msgstr "Council of the Absolute (Rada Absolutu)"
 #: ../../DGM.rst:170
 msgid "As Council of the Absolute enters the battlefield, name a card other than a creature or land card."
 msgstr ""
-"Kiedy Council of the Absolute wchodzi na pole walki, nazwij kartę inną niż "
-"stwór lub ląd."
+"Kładąc Radę Absolutu na pole walki, nazwij kartę inną niż stwór lub ląd."
 
 # fdd015a3fa744e4abde9b67eb6c77582
 #: ../../DGM.rst:172
@@ -1515,9 +1514,9 @@ msgstr ""
 msgid "You may have Progenitor Mimic enter the battlefield as a copy of any creature on the battlefield except it gains \\\"At the beginning of your upkeep, if this creature isn't a token, put a token onto the battlefield that's a copy of this creature.\\\""
 msgstr ""
 "Możesz sprawić, że Progenitor Mimic wejdzie na pole walki jako kopia "
-"dowolnego stwora znajdującego się na polu walki. Zyskuje on \\\"Na początku "
-"twojego utrzymania, jeśli ten stwór nie jest żetonem, połóż na polu walki "
-"żeton, który jest kopią tego stwora.\\\""
+"dowolnego stwora znajdującego się na polu walki dodatkowo zyskując \\\"Na "
+"początku twojego utrzymania, jeśli ten stwór nie jest żetonem, połóż na polu "
+"walki żeton, który jest kopią tego stwora.\\\""
 
 # e77c587774f24c95ab3750d3fd6c91cf
 #: ../../DGM.rst:561

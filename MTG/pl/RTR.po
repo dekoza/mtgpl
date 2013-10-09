@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-08 04:55+0200\n"
+"PO-Revision-Date: 2013-10-09 14:21+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381204515.456734\n"
+"X-POOTLE-MTIME: 1381324882.236853\n"
 
 # 8f7974d7a6914bf581174be80fc2157b
 #: ../../RTR.rst:5
@@ -351,7 +351,7 @@ msgstr "Azorius Guildgate (Brama Gildii Azorius)"
 # e6a33045cddf451c9070d0a744c42738
 #: ../../RTR.rst:98
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr "Azorius Guildgate wchodzi na pole walki zaznaczony."
+msgstr "Brama Gildii Azorius wchodzi na pole walki zaznaczona."
 
 # 6df846cac18d4a36b616a82d9e9b55ae
 # d92571a328c94efab151265568f030a3
@@ -465,8 +465,8 @@ msgstr "(|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many.)"
 #: ../../RTR.rst:138
 msgid "As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, Blood Crypt enters the battlefield tapped."
 msgstr ""
-"W czasie gdy Blood Crypt wchodzi na pole walki możesz zapłacić 2 życia. "
-"Jeśli tego nie zrobisz Blood Crypt wchodzi na pole walki zaznaczony."
+"Kładąc Blood Crypt na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz Blood Crypt wchodzi na pole walki zaznaczony."
 
 # be9edb4c1787469bae77297c18d91947
 #: ../../RTR.rst:145
@@ -1532,9 +1532,8 @@ msgstr "(|tap|: Dodaj |mana_w| lub |mana_u| do twojej puli many.)"
 #: ../../RTR.rst:534
 msgid "As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, Hallowed Fountain enters the battlefield tapped."
 msgstr ""
-"W czasie gdy Hallowed Fountain wchodzi na pole walki możesz zapłacić 2 "
-"życia. Jeśli tego nie zrobisz Hallowed Fountain wchodzi na pole walki "
-"zaznaczony."
+"Kładąc Hallowed Fountain na polu walki możesz zapłacić 2 życia. Jeśli tego "
+"nie zrobisz, Hallowed Fountain wchodzi na pole walki zaznaczony."
 
 # a308d8209b1940abaaa1c102ac0534cb
 #: ../../RTR.rst:541
@@ -2195,8 +2194,8 @@ msgstr "(|tap|: Dodaj |mana_b| lub |mana_g| do twojej puli many.)"
 #: ../../RTR.rst:796
 msgid "As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped."
 msgstr ""
-"W czasie gdy Overgrown Tomb wchodzi na pole walki możesz zapłacić 2 życia. "
-"Jeśli tego nie zrobisz, Overgrown Tomb wchodzi na pole walki zaznaczony."
+"Kładąc Overgrown Tomb na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, Overgrown Tomb wchodzi na pole walki zaznaczony."
 
 # d9e18678beec4eb6a7c7ea3a96e596f8
 #: ../../RTR.rst:803
@@ -2267,7 +2266,7 @@ msgstr ""
 # 5d9c47883a5a43219ab913e6fbaa29c1
 #: ../../RTR.rst:824
 msgid "As Pithing Needle enters the battlefield, name a card."
-msgstr "Gdy Pithink Needle wchodzi na pole walki, nazwij kartę."
+msgstr "Kładąc Pithing Needle na polu walki nazwij kartę."
 
 # 747b108acd1f41329d25661361b6fa82
 #: ../../RTR.rst:826
@@ -2978,8 +2977,8 @@ msgstr "(|tap|: Dodaj |mana_u| lub |mana_r| do twojej puli many.)"
 #: ../../RTR.rst:1111
 msgid "As Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped."
 msgstr ""
-"W czasie gdy Steam Vents wchodzi na pole walki możesz zapłacić 2 życia. "
-"Jeśli tego nie zrobisz Steam Vents wchodzi na pole walki zaznaczony."
+"Kładąc Steam Vents na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz Steam Vents wchodzi na pole walki zaznaczony."
 
 # ac667f63a9874072abbf44077796cb1a
 #: ../../RTR.rst:1116
@@ -3110,7 +3109,7 @@ msgstr ""
 # 182e89f2a6f843ca935790b220515c9e
 #: ../../RTR.rst:1159
 msgid "As Tablet of the Guilds enters the battlefield, choose two colors."
-msgstr "Kiedy Tablet of the Guild wchodzi na pole walki wybierz dwa kolory."
+msgstr "Kładąc Tablet of the Guild na polu walki wybierz dwa kolory."
 
 # 7df385a4dcf7413187b14c89df15eed5
 #: ../../RTR.rst:1161
@@ -3157,8 +3156,8 @@ msgstr "(|tap|: Dodaj |mana_g| lub |mana_w| do twojej puli many.)"
 #: ../../RTR.rst:1177
 msgid "As Temple Garden enters the battlefield, you may pay 2 life. If you don't, Temple Garden enters the battlefield tapped."
 msgstr ""
-"W czasie gdy Temple Garden wchodzi na pole walki możesz zapłacić 2 życia. "
-"Jeśli tego nie zrobisz Temple Garden wchodzi na pole walki zaznaczony."
+"Kładąc Temple Garden na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz Temple Garden wchodzi na pole walki zaznaczony."
 
 # 05f072ee12cc442da9c7d34c915d8cd1
 #: ../../RTR.rst:1182
@@ -3251,7 +3250,7 @@ msgstr "Transguild Promenade wchodzi na pole walki zaznaczony."
 #: ../../RTR.rst:1219
 msgid "When Transguild Promenade enters the battlefield, sacrifice it unless you pay |mana_1|."
 msgstr ""
-"Kiey Transguild Promenade wchodzi na pole walki, poświęć go dopóki nie "
+"Kiedy Transguild Promenade wchodzi na pole walki, poświęć go dopóki nie "
 "zapłacisz |mana_1|."
 
 # 0a4a8bf6898f41d8ae4dc8d6e8855d8e

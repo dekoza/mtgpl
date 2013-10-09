@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-09 06:42+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-10-09 14:17+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381297362.314499\n"
+"X-POOTLE-MTIME: 1381324648.827155\n"
 
 # bc285d61e5844f2db8f900ddf644d9e4
 #: ../../GTC.rst:5
@@ -562,8 +562,8 @@ msgstr "(|tap|: Dodaj |mana_g| lub |mana_u| do twojej puli many.)"
 #: ../../GTC.rst:168
 msgid "As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, Breeding Pool enters the battlefield tapped."
 msgstr ""
-"Kiedy Breeding Pool wchodzi na pole walki, możesz zapłacić 2 życia. Jeśli "
-"tego nie zrobisz, Breeding Pool wchodzi na pole walki zaznaczony."
+"Kładąc Breeding Pool na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, Breeding Pool wchodzi na pole walki zaznaczony."
 
 # 24db97c031bc42baa92cfdc3e4ccc1a8
 #: ../../GTC.rst:173
@@ -1384,8 +1384,8 @@ msgstr "(|tap|: Dodaj |mana_w| lub |mana_b| do twojej puli many.)"
 #: ../../GTC.rst:486
 msgid "As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped."
 msgstr ""
-"Kiedy Godless Shrine wchodzi na pole walki, możesz zapłacić 2 życia. Jeśli "
-"tego nie zrobisz, Godless Shrine wchodzi na pole walki zaznaczony."
+"Kładąc Bezbożną Kaplicę na polu walki, możesz zapłacić 2 życia. Jeśli tego "
+"nie zrobisz, Bezbożna Kaplica wchodzi na pole walki zaznaczona."
 
 # 7116ecd6ebe6433399d9307a18f2c781
 #: ../../GTC.rst:491
@@ -2318,14 +2318,14 @@ msgstr "Prime Speaker Zegana (Zegana, Główna Mówczyni)"
 #: ../../GTC.rst:865
 msgid "Prime Speaker Zegana enters the battlefield with X +1/+1 counters on it, where X is the greatest power among other creatures you control."
 msgstr ""
-"Prime Speaker Zegana wchodzi na pole walki z X znacznikami +1/+1, gdzie X to "
-"najwyższa siła spośród stworów, którymi władasz."
+"Zegana, Główna Mówczyni wchodzi na pole walki z X znacznikami +1/+1, gdzie X "
+"to najwyższa siła spośród stworów, którymi władasz."
 
 # 94f11b29f4294d318b1cd1ea0211bf3a
 #: ../../GTC.rst:867
 msgid "When Prime Speaker Zegana enters the battlefield, draw cards equal to its power."
 msgstr ""
-"Kiedy Prime Speaker Zegana wchodzi na pole walki, dobierz tyle kart, ile "
+"Kiedy Zegana, Główna Mówczyni wchodzi na pole walki, dobierz tyle kart, ile "
 "wynosi jej siła."
 
 # 25e3b6e5ea104fa495ecd172b46d7167
@@ -2396,7 +2396,7 @@ msgstr ""
 # c10ab51da48c42bfbe695e48aa211a57
 #: ../../GTC.rst:893
 msgid "As Realmwright enters the battlefield, choose a basic land type."
-msgstr "Gdy Realmwright wchodzi na pole walki wybierz typ zwykłego lądu."
+msgstr "Kładąc Realmwright na polu walki wybierz typ zwykłego lądu."
 
 # 4b4c6732d3db49ae9355f696c9c8b6e9
 #: ../../GTC.rst:895
@@ -2504,8 +2504,8 @@ msgstr "(|tap|: Dodaj |mana_r| lub |mana_w| do twojej puli many.)"
 #: ../../GTC.rst:933
 msgid "As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, Sacred Foundry enters the battlefield tapped."
 msgstr ""
-"Gdy Sacred Foundry wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego "
-"nie zrobisz, Sacred Foundry wchodzi na pole walki zaznaczony."
+"Kładąc Sacred Foundry na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, Sacred Foundry wchodzi na pole walki zaznaczony."
 
 # a76c3d83a5784db5a3e416843dac937a
 #: ../../GTC.rst:938
@@ -2943,8 +2943,8 @@ msgstr "(|tap|: Dodaj |mana_r| lub |mana_g| do twojej puli many.)"
 #: ../../GTC.rst:1113
 msgid "As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped."
 msgstr ""
-"Gdy Stomping Ground wchodzi na pole walki, możesz zapłacić 2 życia. Jeśli "
-"tego nie zrobisz, Stomping Ground wchodzi na pole walki zaznaczony."
+"Kładąc Stomping Ground na polu walki, możesz zapłacić 2 życia. Jeśli tego "
+"nie zrobisz, Stomping Ground wchodzi na pole walki zaznaczony."
 
 # af0625f5674f46789934d49263435127
 #: ../../GTC.rst:1118
@@ -3285,8 +3285,8 @@ msgstr "(|tap|: Dodaj |mana_u| lub |mana_b| do twojej puli many.)"
 #: ../../GTC.rst:1251
 msgid "As Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped."
 msgstr ""
-"Gdy Watery Grave wchodzi na pole walki, możesz zapłacić 2 życia. Jeśli tego "
-"nie zrobisz, Watery Grave wchodzi na pole walki zaznaczony."
+"Kładąc Watery Grave na polu walki, możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, Watery Grave wchodzi na pole walki zaznaczony."
 
 # 68b874d8672c4284931d1e80eea28bd3
 #: ../../GTC.rst:1260

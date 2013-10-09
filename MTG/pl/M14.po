@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-09 13:57+0200\n"
+"PO-Revision-Date: 2013-10-09 14:17+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381323444.265963\n"
+"X-POOTLE-MTIME: 1381324675.872982\n"
 
 # 34446830b7c949d8b59852b41945ee2c
 # 13a5a223cf9d45d19a919b30f1fc001d
@@ -444,7 +444,7 @@ msgstr "Battle Sliver (Drzazgul Bitewny)"
 # 9cbd5832ff4d42a88c49cbc2c3d49345
 #: ../../M14.rst:106
 msgid "Sliver creatures you control get +2/+0."
-msgstr "Slivery, którymi władasz dostają +2/+0."
+msgstr "Drzazgule, którymi władasz dostają +2/+0."
 
 # f20a15e0a8f846eca1e50a767b14d598
 # fedceaa4213e46c588d1e214636b5c12
@@ -536,7 +536,7 @@ msgstr "Blur Sliver (Drzazgul Rozmycia)"
 #: ../../M14.rst:124
 msgid "Sliver creatures you control have haste. (They can attack and |tap| as soon as they come under your control.)"
 msgstr ""
-"Drzazgule, którymi władasz mają Pośpiech. (Mogą atakować i |tap| od razu po "
+"Drzazgule, którymi władasz mają pośpiech. (Mogą atakować i |tap| od razu po "
 "wejściu pod twoje władanie.)"
 
 # f3bd156b0ec8450ba24a25f80a199f18
@@ -565,8 +565,8 @@ msgstr "Bonescythe Sliver (Drzazgul Kościokos)"
 #: ../../M14.rst:132
 msgid "Sliver creatures you control have double strike. (They deal both first-strike and regular combat damage.)"
 msgstr ""
-"Drzazgule, którymi władasz mają Podwójny Cios. (Zadają obrażenia bojowe "
-"zarówno jako Pierwszy Cios oraz normalnie.)"
+"Drzazgule, którymi władasz mają podwójny cios. (Zadają obrażenia bojowe "
+"zarówno jako pierwszy cios oraz normalnie.)"
 
 # 80a132f9b1db4c5aa21d32f0b4e7182e
 # 6cb0390e912947c8a988b1a7e1f51fbe
@@ -1168,7 +1168,7 @@ msgstr "Door of Destinies (Drzwi Przeznaczeń)"
 # 695c09b30747463f926106b68ef7af1b
 #: ../../M14.rst:336
 msgid "As Door of Destinies enters the battlefield, choose a creature type."
-msgstr "Gdy Drzwi Przeznaczeń wchodzą na pole walki, wybierz typ stwora."
+msgstr "Kładąc Drzwi Przeznaczeń na polu walki wybierz typ stwora."
 
 # 865218f9a7ef488a80c1b76b45072680
 # 15d43b693eb445a199141449356baf4b
@@ -2033,7 +2033,7 @@ msgstr ""
 # bde423976f534bc2b9fa070edc289f84
 #: ../../M14.rst:628
 msgid "Megantic Sliver"
-msgstr "Megantic Sliver (Ogromny Drzazgul)"
+msgstr "Megantic Sliver (Megantyczny Drzazgul)"
 
 # 7d15c240bdb9415d810b5e82199efe3b
 # 1bca6c43fe4b4fd28271ddc6ee907641
@@ -2810,9 +2810,8 @@ msgstr ""
 # 8dd3e797cc1b4b28915cfea5aae697f8
 # d15b983ccc8e48b38122cd6bb4c11bf6
 #: ../../M14.rst:932
-#, fuzzy
 msgid "Sliver Construct"
-msgstr "Sliver Construct (Zbudowany Drzazgul)"
+msgstr "Sliver Construct (Drzazgul Konstrukt)"
 
 # a8244dd25f0b4de8bdd07bbec7d8b5b6
 #: ../../M14.rst:938
@@ -2940,8 +2939,9 @@ msgstr ""
 
 # c5aa7845e0904646adcbd0050872ba31
 #: ../../M14.rst:978
+#, fuzzy
 msgid "Steelform Sliver"
-msgstr ""
+msgstr "Steelform Sliver (Drzazgul Twardokształtny)"
 
 # 3e0d3c40dfb14a1d8062e005e6a9edbd
 # cbabccd8adc54960841880549703f85e
@@ -3019,7 +3019,7 @@ msgstr "Syphon Sliver (Drzazgul Wysysacz)"
 #: ../../M14.rst:1001
 msgid "Sliver creatures you control have lifelink. (Damage dealt by a Sliver creature you control also causes you to gain that much life.)"
 msgstr ""
-"Drzazgul, którymi władaszm mają więź życia. (Obrażenia zadane Drzazgula, "
+"Drzazgule, którymi władaszm mają więź życia. (Obrażenia zadane Drzazgula, "
 "którym władasz, powodują, że zyskujesz tyle samo życia.)"
 
 # 04556201732d4f05aace3e2598170302
