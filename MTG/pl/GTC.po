@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-07 17:17+0200\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2013-10-09 06:42+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381162638.77640\n"
+"X-POOTLE-MTIME: 1381297362.314499\n"
 
 # bc285d61e5844f2db8f900ddf644d9e4
 #: ../../GTC.rst:5
@@ -388,7 +388,7 @@ msgstr ""
 # 08e46b5acd844ac8b8408e1322778db1
 #: ../../GTC.rst:109
 msgid "Biomass Mutation"
-msgstr ""
+msgstr "Biomass Mutation (Mutacja Biomasy)"
 
 # 815f5319d74e43738e17f01dee8fe854
 #: ../../GTC.rst:108
@@ -410,7 +410,7 @@ msgstr ""
 # 31f719d1c29a4c8d83197e30f80419bb
 #: ../../GTC.rst:117
 msgid "Biovisionary"
-msgstr ""
+msgstr "Biovisionary (Biowizjoner)"
 
 # ac0272a8b123413cb816c9de01dc6656
 #: ../../GTC.rst:116
@@ -580,7 +580,7 @@ msgstr ""
 # 92b82b95d44c407fbe69a879942cd7f3
 #: ../../GTC.rst:177
 msgid "Burst of Strength"
-msgstr ""
+msgstr "Burst of Strength (Przypływ Siły)"
 
 # fd829cdb957e469d91731e2fef37de61
 #: ../../GTC.rst:176
@@ -653,7 +653,7 @@ msgstr ""
 # 730f2df780ff49d79163bc19b36392f5
 #: ../../GTC.rst:197
 msgid "Clan Defiance"
-msgstr ""
+msgstr "Clan Defiance (Bunt Klanów)"
 
 # c60bbf976dd248a0aac60990247dd8f2
 #: ../../GTC.rst:194
@@ -677,7 +677,7 @@ msgstr ""
 # f12d33ade5324959b443795a2e631b1c
 #: ../../GTC.rst:213
 msgid "Coerced Confession"
-msgstr ""
+msgstr "Coerced Confession (Wymuszona Spowiedź)"
 
 # e6ede86487c14c81a7663ac2a40bc14a
 #: ../../GTC.rst:212
@@ -749,7 +749,7 @@ msgstr ""
 # 1eff1b6f8998483182359cae249da885
 #: ../../GTC.rst:237
 msgid "Court Street Denizen"
-msgstr ""
+msgstr "Court Street Denizen (Obywatel z Ulicy Sądowej)"
 
 # 740c54c69ad740c28a80b541ca105b86
 #: ../../GTC.rst:236
@@ -793,7 +793,7 @@ msgstr "Każdy stwór, którym władasz mający znacznik +1/+1 ma tratowanie."
 # 1967d533b87e467296efb57451c387e8
 #: ../../GTC.rst:259
 msgid "Crypt Ghast"
-msgstr ""
+msgstr "Crypt Ghast (Upiór z Krypty)"
 
 # 7d3ddbdb92f74e4fb02fc6c0d9b4624d
 #: ../../GTC.rst:258
@@ -1084,7 +1084,7 @@ msgstr ""
 # bc7a6a1e139041f0bdc47bbcfc551497
 #: ../../GTC.rst:373
 msgid "Executioner's Swing"
-msgstr ""
+msgstr "Executioner's Swing (Zamach Kata)"
 
 # 3c07820ca35e4c6aaf95255c5f1bdd23
 #: ../../GTC.rst:372
@@ -1096,7 +1096,7 @@ msgstr ""
 # b6cdd25d4dc74f83a1e1c95c3ec5f897
 #: ../../GTC.rst:379
 msgid "Experiment One"
-msgstr ""
+msgstr "Experiment One (Eksperyment Numer Jeden)"
 
 # 114e087d9d5a40498d48da94182d1697
 #: ../../GTC.rst:378
@@ -1142,7 +1142,7 @@ msgstr ""
 # 82aeeeab1b2b4ff3b0093a9c5326c530
 #: ../../GTC.rst:401
 msgid "Five-Alarm Fire"
-msgstr ""
+msgstr "Five-Alarm Fire (Alarm Piątego Stopnia)"
 
 # f8b30bfd19404158b3fbefa5e15eeaea
 #: ../../GTC.rst:398
@@ -1161,7 +1161,7 @@ msgstr ""
 # 89e9a13d17c94e169ebe5a57ee93c347
 #: ../../GTC.rst:407
 msgid "Forced Adaptation"
-msgstr ""
+msgstr "Forced Adaptation (Wymuszona Adaptacja)"
 
 # 6d9f567cd1f64451838ecd5c2fd34462
 #: ../../GTC.rst:406
@@ -1209,7 +1209,7 @@ msgstr "|mana_w|: Foundry Champion dostaje +0/+1 do końca tury."
 # 81ca030dd9dc4741939eeb45b6188ad4
 #: ../../GTC.rst:425
 msgid "Foundry Street Denizen"
-msgstr ""
+msgstr "Foundry Street Denizen (Obywatel z Ulicy Odlewniczej)"
 
 # 6f59588784784d1ab9d80e4755c37126
 #: ../../GTC.rst:424
@@ -1264,7 +1264,7 @@ msgstr ""
 # f839c8c0987b431c90941eadce942a3f
 #: ../../GTC.rst:443
 msgid "Furious Resistance"
-msgstr ""
+msgstr "Furious Resistance (Zaciekły Opór)"
 
 # 189516364bb64f0c8c55eab903e2678b
 #: ../../GTC.rst:442
@@ -1343,7 +1343,7 @@ msgstr "-15: Wypędź wszystkie inne stałki."
 # 1470c557d08d47dc882fa8f1864c851d
 #: ../../GTC.rst:475
 msgid "Gift of Orzhova"
-msgstr ""
+msgstr "Gift of Orzhova (Dar Orzhovy)"
 
 # 8af01e2c5c1646a990c9f3b4780f22f3
 #: ../../GTC.rst:474
@@ -1438,12 +1438,11 @@ msgstr "Gruul Charm (Amulet Gruuli)"
 
 # 467aef5a60b0491f9bffc0499cb5b3a1
 #: ../../GTC.rst:506
-#, fuzzy
 msgid "Choose one — Creatures without flying can't block this turn; or gain control of all permanents you own; or Gruul Charm deals 3 damage to each creature with flying."
 msgstr ""
 "Wybierz jedno — Stwory bez latania nie mogą blokować w tej turze; albo "
 "przejmij władanie nad wszystkimi własnymi stałkami; albo Gruul Charm zadaje "
-"3 obrażenia wskazanemu stworowi z lataniem."
+"3 obrażenia każdemu stworowi z lataniem."
 
 # 2dd15ec39b0e4f62b114e65270c26c5b
 #: ../../GTC.rst:515
@@ -1612,7 +1611,7 @@ msgstr ""
 # de56137ee9104a91819cd69ef58019f5
 #: ../../GTC.rst:585
 msgid "Holy Mantle"
-msgstr ""
+msgstr "Holy Mantle (Święty Płaszcz)"
 
 # e301522dfa0348fbbc1b2104287de85c
 #: ../../GTC.rst:584
@@ -1658,7 +1657,7 @@ msgstr ""
 # cdfbf8cce20949b8b73fe4f1ef921b71
 #: ../../GTC.rst:601
 msgid "Illness in the Ranks"
-msgstr ""
+msgstr "Illness in the Ranks (Choroba w Szeregach)"
 
 # c7032c2cada34bd4ba545c2b57624f7e
 #: ../../GTC.rst:600
@@ -1711,7 +1710,7 @@ msgstr ""
 # 48135168f4a64f5e99c418e37a524086
 #: ../../GTC.rst:619
 msgid "Ivy Lane Denizen"
-msgstr ""
+msgstr "Ivy Lane Denizen (Obywatel z Bluszczowej Alei)"
 
 # f46c0c0232cb4a64a537bd414c427b38
 #: ../../GTC.rst:618
@@ -2056,7 +2055,7 @@ msgstr "Kiedy Mortus Strider umiera, zwróć go do ręki jego właściciela."
 # 8ed3c4b2c9b844bd87a3cbe36f076627
 #: ../../GTC.rst:764
 msgid "Mugging"
-msgstr ""
+msgstr "Mugging (Napaść)"
 
 # e857f3a01cb5411281eb8b7ba73fac33
 #: ../../GTC.rst:763
@@ -2068,7 +2067,7 @@ msgstr ""
 # 353a4436eb264d0ca86b221483927456
 #: ../../GTC.rst:770
 msgid "Murder Investigation"
-msgstr ""
+msgstr "Murder Investigation (Śledztwo w Sprawie Morderstwa)"
 
 # 2d0e6be6c955454cb1856c312db1e4d4
 #: ../../GTC.rst:769
@@ -2141,7 +2140,7 @@ msgstr "Nimbus Swimmer wchodzi na pole walki z X znacznikami +1/+1."
 # 6070e3a3ff8a454d8307b3125c4dddae
 #: ../../GTC.rst:802
 msgid "Obzedat, Ghost Council"
-msgstr ""
+msgstr "Obzedat, Ghost Council (Obzedat, Rada Duchów)"
 
 # 2bc7e9eb2fd943e68a10662b0939f683
 #: ../../GTC.rst:799
@@ -2313,7 +2312,7 @@ msgstr "Zauroczony stwór dostaje +3/+3 i ma pośpiech."
 # a42d055164a44bcdaa60331160e15d0a
 #: ../../GTC.rst:868
 msgid "Prime Speaker Zegana"
-msgstr ""
+msgstr "Prime Speaker Zegana (Zegana, Główna Mówczyni)"
 
 # 9d628256015148a199f3f40aec7736a5
 #: ../../GTC.rst:865
@@ -2324,11 +2323,10 @@ msgstr ""
 
 # 94f11b29f4294d318b1cd1ea0211bf3a
 #: ../../GTC.rst:867
-#, fuzzy
 msgid "When Prime Speaker Zegana enters the battlefield, draw cards equal to its power."
 msgstr ""
-"Kiedy Prime Speaker Zegana wchodzi na pole walki, dobierz tyle kart, ile ma "
-"siły."
+"Kiedy Prime Speaker Zegana wchodzi na pole walki, dobierz tyle kart, ile "
+"wynosi jej siła."
 
 # 25e3b6e5ea104fa495ecd172b46d7167
 #: ../../GTC.rst:874
@@ -2512,7 +2510,7 @@ msgstr ""
 # a76c3d83a5784db5a3e416843dac937a
 #: ../../GTC.rst:938
 msgid "Sage's Row Denizen"
-msgstr ""
+msgstr "Sage's Row Denizen (Obywatel z Ulicy Mędrców)"
 
 # b5091ae1dfd04bc5b06911dea7d4a325
 #: ../../GTC.rst:937
@@ -2599,7 +2597,7 @@ msgstr ""
 # fa46fc84864b4f6f9e7283aafb93c4a1
 #: ../../GTC.rst:972
 msgid "Shadow Alley Denizen"
-msgstr ""
+msgstr "Shadow Alley Denizen (Obywatel z Cienistej Alei)"
 
 # 2458684d535a42028ec1b11d3574aca6
 #: ../../GTC.rst:971
@@ -2649,7 +2647,7 @@ msgstr ""
 # 8d83a5364fab42768de6c0778724a8a2
 #: ../../GTC.rst:996
 msgid "Signal the Clans"
-msgstr ""
+msgstr "Signal the Clans (Sygnał dla Klanów)"
 
 # 6eb1649eca6f465fa1faaaa8921136ba
 #: ../../GTC.rst:995
@@ -3040,7 +3038,7 @@ msgstr ""
 # 52a8b5157aea4e9d95d0d8b0c34ebe56
 #: ../../GTC.rst:1156
 msgid "Tin Street Market"
-msgstr ""
+msgstr "Tin Street Market (Rynek na Ulicy Cynowej)"
 
 # 4b0b6ce31a274a9db204c472f6725faa
 #: ../../GTC.rst:1155
@@ -3259,7 +3257,7 @@ msgstr ""
 # 43ef0510a8044aa69e0365e29bc6da01
 #: ../../GTC.rst:1246
 msgid "Wasteland Viper"
-msgstr ""
+msgstr "Wasteland Viper (Żmija z Pustkowi)"
 
 # 7b8c057b07d64daa8c7769c93e9f9e27
 #: ../../GTC.rst:1243
