@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# Dominik <Kozaczko>, 2013.
+# Dominik <dominik@kozaczko.info>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-28 21:23\n"
+"PO-Revision-Date: 2013-09-28 22:16+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
+"Language-Team: logrus\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1380402981.601611\n"
+
+# fb63449aa76e4ee4b58daabaffe60ccf
+#: ../../THS_heroes.rst:4
+msgid "Heroes of Theros"
+msgstr "Bohaterowie Therosa"
+
+# e9c631c313f54e29863a5bb638cd7480
+#: ../../THS_heroes.rst:7
+msgid "The Avenger"
+msgstr "The Avenger (Mściciel)"
+
+# 3b4a8e630a8d4001a2699e4bebe6b09b
+#: ../../THS_heroes.rst:7
+msgid "|mana_3| |tap|: Target creature you control gains deathtouch until end of turn."
+msgstr ""
+"|mana_3| |tap|: Wskazany stwór, którym władasz, zyskuje dotyk śmierci do "
+"końca tury."
+
+# c3a343dbba6a48f08bec16b1b63030b4
+#: ../../THS_heroes.rst:10
+msgid "The Harvester"
+msgstr "The Harvester (Żniwiarz)"
+
+# 774dbb5103be446989fd6ad55c379cbd
+#: ../../THS_heroes.rst:10
+msgid "|tap|: Draw a card, then discard a card."
+msgstr "|tap|: Dobierz kartę, następnie odrzuć kartę."
+
+# f32106166657474a9b26e72d2f16ddcd
+#: ../../THS_heroes.rst:13
+msgid "The Hunter"
+msgstr "The Hunter (Łowca)"
+
+# 6622b21225b64d999d6f2008bcd6e019
+#: ../../THS_heroes.rst:13
+msgid "|tap|: Target creature you control gets +1/+1 until end of turn."
+msgstr "|tap|: Wskazany stwór, którym władasz dostaje +1/+1 do końca tury."
+
+# f82b3dd2317f4bada895e3fab09bc7d2
+#: ../../THS_heroes.rst:16
+msgid "The Philosopher"
+msgstr "The Philosopher (Filozof)"
+
+# 4378454423c548238b83226fb8870947
+#: ../../THS_heroes.rst:16
+msgid "|mana_2| |tap|: Tap target creature."
+msgstr "|mana_2| |tap|: Zużyj wskazanego stwora."
+
+# 95c9724f10c545a9a0dab9a19451587f
+#: ../../THS_heroes.rst:19
+msgid "The Protector"
+msgstr "The Protector (Obrońca)"
+
+# a1a7069c5bc54f18b5e6f61b7c9dde53
+#: ../../THS_heroes.rst:19
+msgid "|tap|: Prevent the next 1 damage that would be dealt to target creature or player this turn."
+msgstr ""
+"|tap|: Zażegnaj następne 1 obrażenie, które mogłoby zostać zadane wskazanemu "
+"stworowi lub graczowi w tej turze."
+
+# ecc92af56c374abea5fb88575eac6477
+#: ../../THS_heroes.rst:21
+msgid "The Warrior"
+msgstr "The Warrior (Wojownik)"
+
+# fec49b0078ff4a99909a0f13e1053661
+#: ../../THS_heroes.rst:22
+msgid "|tap|: Target creature you control gains haste until end of turn."
+msgstr "|tap|: Wskazany stwór, którym władasz zyskuje pośpiech do końca tury."

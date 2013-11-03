@@ -894,7 +894,7 @@ Multiplayer Variants
 --------------------
 
 You can play a Magic game with more than two players in it. There are dozens of different ways to do so. Some of the most popular are
-Two-Headed Giant and Commander, which can be played using only traditional Magic cards from your collection. Other multiplayer
+Two-Headed Giant and :doc:`Commander<commander>`, which can be played using only traditional Magic cards from your collection. Other multiplayer
 variants use oversized cards or a special die to provide a unique experience for your play group.
 
 Two-Headed Giant
@@ -918,6 +918,8 @@ Commander game is best enjoyed as a Free-for-All game among
 3–6 players, although two-player games are also common.
 Find out more about this grassroots, player-built format at
 MTGCommander.net.
+
+Read more: :doc:`Official Commander Rules<commander>`
 
 Planechase
 ~~~~~~~~~~

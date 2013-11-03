@@ -1,0 +1,1659 @@
+#
+# Dominik <Kozaczko>, 2013.
+#
+#: Gutter Skulk Ruination Wurm
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-02 03:12+0200\n"
+"PO-Revision-Date: 2013-09-28 14:18+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
+"Language-Team: polski <>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1380374336.900117\n"
+
+#. Please leave mana costs and tap symbol intact!
+#: Act of Treason
+msgid ""
+"Gain control of target creature until end of turn. Untap that creature. It "
+"gains haste until end of turn. (It can attack and |tap| this turn.)"
+msgstr ""
+
+#: Adaptive Snapjaw Experiment One Fathom Mage Gyre Sage Simic Fluxmage
+#: Manipulator
+msgid ""
+"Evolve (Whenever a creature enters the battlefield under your control, if "
+"that creature has greater power or toughness than this creature, put a +1/+1 "
+"counter on this creature.)"
+msgstr ""
+"Rozwój (Ilekroć jakiś stwór wchodzi na pole walki pod twoją kontrolą, jeśli "
+"jego siła lub wytrzymałość jest większa niż tego stwora, połóż znacznik "
+"+1/+1 na tym stworze.)"
+
+#: Aerial Maneuver
+msgid ""
+"Target creature gets +1/+1 and gains flying and first strike until end of "
+"turn."
+msgstr ""
+"Wskazany stwór dostaje +1/+1 oraz latanie i pierwszy cios do końca tury."
+
+#: Ætherize
+msgid "Return all attacking creatures to their owner's hand."
+msgstr "Zwróć wszystkie atakujące stwory na rękę ich właściciela."
+
+#: Agoraphobia Alpha Authority Death's Approach Forced Adaptation Gift of
+#: Orzhova Guildscorn Ward Holy Mantle Madcap Skills One Thousand Lashes
+#: Primal Visitation Soul Ransom Way the Thief
+msgid "Enchant creature"
+msgstr "Zaurocz stwora"
+
+msgid "Enchanted creature gets -5/-0."
+msgstr "Zauroczony stwór dostaje -5/-0."
+
+msgid "|mana_2| |mana_u|: Return Agoraphobia to its owner's hand."
+msgstr "|mana_2| |mana_u|: Zwróć Agoraphobia do ręki właściciela."
+
+#: Alms Beast
+msgid "Creatures blocking or blocked by Alms Beast have lifelink."
+msgstr "Stwory blokujące lub blokowane przez Alms Beast mają Więź Życia."
+
+msgid ""
+"Enchanted creature has hexproof and can't be blocked by more than one "
+"creature."
+msgstr ""
+"Zauroczony stwór ma antyklątwę i nie może być blokowany przez więcej niż "
+"jednego stwora."
+
+#: Angelic Edict
+msgid "Exile target creature or enchantment."
+msgstr "Wypędź wskazanego stwora lub urok."
+
+#: Angelic Skirmisher Assault Griffin Balustrade Spy Basilica Screecher
+#: Cloudfin Raptor Deathpact Angel Diluvian Primordial Duskmantle Seer
+#: Firemane Avenger Guardian of the Gateless Kingpin's Pet Lord Void
+#: Metropolis Sprite Millennial Gargoyle Mindeye Drake Nightveil Specter
+#: Nimbus Swimmer Sapphire Smog Elemental
+msgid "Flying"
+msgstr "Latanie"
+
+msgid ""
+"At the beginning of each combat, choose first strike, vigilance, or "
+"lifelink. Creatures you control gain that ability until end of turn."
+msgstr ""
+"Na początku każdej walki wybierz Pierwszy Cios, Czujność lub Więź Życia. "
+"Stwory, które kontrolujesz dostają tę zdolność do końca tury."
+
+#: Armored Transport
+msgid ""
+"Prevent all combat damage that would be dealt to Armored Transport by "
+"creatures blocking it."
+msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby być zadane w Armored "
+"Transport przez stwory go blokujące."
+
+#: Arrows of Justice
+msgid ""
+"Arrows of Justice deals 4 damage to target attacking or blocking creature."
+msgstr ""
+"Arrows of Justice zadaje 4 obrażenia wskazanemu atakującemu lub blokującemu "
+"stworowi."
+
+#: Assemble the Legion
+msgid ""
+"At the beginning of your upkeep, put a muster counter on Assemble the "
+"Legion. Then put a 1/1 red and white Soldier creature token with haste onto "
+"the battlefield for each muster counter on Assemble the Legion."
+msgstr ""
+
+#: Aurelia, the Warleader
+msgid "Flying, vigilance, haste"
+msgstr "Latanie, Czujność, Pośpiech"
+
+msgid ""
+"Whenever Aurelia, the Warleader attacks for the first time each turn, untap "
+"all creatures you control. After this phase, there is an additional combat "
+"phase."
+msgstr ""
+
+#: Aurelia's Fury
+msgid ""
+"Aurelia's Fury deals X damage divided as you choose among any number of "
+"target creatures and/or players. Tap each creature dealt damage this way. "
+"Players dealt damage this way can't cast noncreature spells this turn."
+msgstr ""
+
+msgid ""
+"When Balustrade Spy enters the battlefield, target player reveals cards from "
+"the top of his or her library until he or she reveals a land card, then puts "
+"those cards into his or her graveyard."
+msgstr ""
+
+#: Bane Alley Broker
+msgid "|tap|: Draw a card, then exile a card from your hand face down."
+msgstr ""
+"|tap|: Dobierz kartę, następnie wypędź kartę ze swojej ręki obrazkiem do dołu."
+
+msgid "You may look at cards exiled with Bane Alley Broker."
+msgstr "Możesz patrzeć na karty wypędzone przez Bane Alley Broker."
+
+msgid ""
+"|mana_u| |mana_b|, |tap|: Return a card exiled with Bane Alley Broker to its owner's hand."
+msgstr ""
+"|mana_u| |mana_b|, |tap|: Przywróć kartę wypędzoną przez Bane Alley Brokera "
+"do ręki właściciela."
+
+#: Basilica Guards Clinging Anemones Corpse Blockade
+msgid "Defender"
+msgstr "Obronność"
+
+#: Blind Obedience Crypt Ghast Syndic of Tithes Syndicate Enforcer Thrull
+#: Parasite Treasury Vizkopa Confessor
+msgid ""
+"Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each "
+"opponent loses 1 life and you gain that much life.)"
+msgstr ""
+"Wymuszenie (Ilekroć rzucasz czar, możesz zapłacić |mana_wb|. Jeśli tak "
+"zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo "
+"życia.)"
+
+#: Beckon Apparition
+msgid ""
+"Exile target card from a graveyard. Put a 1/1 white and black Spirit "
+"creature token with flying onto the battlefield."
+msgstr ""
+"Wypędź wskazaną kartę z cmentarza. Połóż na polu walki żeton czarno-białego "
+"stwora Spirit 1/1 z lataniem."
+
+#: Biomass Mutation
+msgid "Creatures you control become X/X until end of turn."
+msgstr "Stwory, którymi władasz stają się X/X do końca tury."
+
+#: Bioshift
+msgid ""
+"Move any number of +1/+1 counters from target creature onto another target "
+"creature with the same controller."
+msgstr ""
+
+#: Biovisionary
+msgid ""
+"At the beginning of the end step, if you control four or more creatures "
+"named Biovisionary, you win the game."
+msgstr ""
+
+msgid ""
+"Artifacts and creatures your opponents control enter the battlefield tapped."
+msgstr ""
+"Artefakty i stwory, którymi władają twoi przeciwnicy wchodzą na pole walki "
+"jako zużyte."
+
+#: Bomber Corps
+msgid ""
+"Battalion — Whenever Bomber Corps and at least two other creatures attack, "
+"Bomber Corps deals 1 damage to target creature or player."
+msgstr ""
+
+#: Borborygmos Enraged Crowned Ceratok Ghor-Clan Rampager Giant Adephage
+#: Skarrg Goliath
+msgid "Trample"
+msgstr "Tratowanie"
+
+msgid ""
+"Whenever Borborygmos Enraged deals combat damage to a player, reveal the top "
+"three cards of your library. Put all land cards revealed this way into your "
+"hand and the rest into your graveyard."
+msgstr ""
+
+msgid ""
+"Discard a land card: Borborygmos Enraged deals 3 damage to target creature "
+"or player."
+msgstr ""
+
+#: Boros Charm
+msgid "Choose one — Boros Charm deals 4 damage to target player"
+msgstr "Wybierz jedno: Boros Charm zadaje wskazanemu graczowi 4 obrażenia"
+
+msgid " or permanents you control gain indestructible until end of turn"
+msgstr ""
+" albo kontrolowane przez ciebie stałki otrzymują Niezniszczalność do końca "
+"tury"
+
+msgid " or target creature gains double strike until end of turn."
+msgstr ""
+
+#: Boros Elite
+msgid ""
+"Battalion — Whenever Boros Elite and at least two other creatures attack, "
+"Boros Elite gets +2/+2 until end of turn."
+msgstr ""
+
+#: Boros Guildgate
+msgid "Boros Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: Boros Keyrune
+msgid "|tap|: Add |mana_r| or |mana_w| to your mana pool."
+msgstr "|tap|: Dodaj |mana_r| lub |mana_w| do swojego zasobnika many."
+
+#, fuzzy
+msgid ""
+"|mana_r| |mana_w|: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature "
+"with double strike until end of turn. (It deals both first-strike and "
+"regular combat damage.)"
+msgstr ""
+"|mana_r| |mana_w|: Do końca tury Boros Keyrune staje się czerwono-białym artefaktycznym "
+"stworem Soldier 1/1 z Podwójnym Ciosem. (Zadaje obrażenia bojowe jako "
+"Pierwszy Cios oraz normalnie.)"
+
+#: Boros Reckoner
+msgid ""
+"Whenever Boros Reckoner is dealt damage, it deals that much damage to target "
+"creature or player."
+msgstr ""
+
+msgid "|mana_rw|: Boros Reckoner gains first strike until end of turn."
+msgstr ""
+
+#: Breeding Pool
+msgid "(|tap|: Add |mana_g| or |mana_u| to your mana pool.)"
+msgstr "(|tap|: Dodaj |mana_g| lub |mana_u| do swojego zasobnika many.)"
+
+msgid ""
+"As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, "
+"Breeding Pool enters the battlefield tapped."
+msgstr ""
+
+#: Burning-Tree Emissary
+msgid ""
+"When Burning-Tree Emissary enters the battlefield, add |mana_r| |mana_g| to your mana "
+"pool."
+msgstr ""
+
+#: Burst of Strength
+msgid "Put a +1/+1 counter on target creature and untap it."
+msgstr ""
+
+#: Call of the Nightwing
+msgid ""
+"Put a 1/1 blue and black Horror creature token with flying onto the "
+"battlefield."
+msgstr ""
+
+msgid ""
+"Cipher (Then you may exile this spell card encoded on a creature you "
+"control. Whenever that creature deals combat damage to a player, its "
+"controller may cast a copy of the encoded card without paying its mana cost.)"
+msgstr ""
+"Szyfruj (Następnie możesz wypędzić tę kartę kodując ją na stworze, którym "
+"władasz. Ilekroć ów stwór zada graczowi obrażenia bojowe, jego władca może "
+"rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
+
+#: Cartel Aristocrat
+msgid ""
+"Sacrifice another creature: Cartel Aristocrat gains protection from the "
+"color of your choice until end of turn."
+msgstr ""
+
+#: Cinder Elemental
+msgid ""
+"|mana_x| |mana_r|, |tap|, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to "
+"target creature or player."
+msgstr ""
+
+#: Clan Defiance
+msgid ""
+"Choose one or more — Clan Defiance deals X damage to target creature with "
+"flying"
+msgstr ""
+
+msgid " Clan Defiance deals X damage to target creature without flying"
+msgstr ""
+
+msgid " and/or Clan Defiance deals X damage to target player."
+msgstr ""
+
+#: Coerced Confession
+msgid ""
+"Target player puts the top four cards of his or her library into his or her "
+"graveyard. You draw a card for each creature card put into that graveyard "
+"this way."
+msgstr ""
+
+#: Consuming Aberration
+msgid ""
+"Consuming Aberration's power and toughness are each equal to the number of "
+"cards in your opponents' graveyards."
+msgstr ""
+
+msgid ""
+"Whenever you cast a spell, each opponent reveals cards from the top of his "
+"or her library until he or she reveals a land card, then puts those cards "
+"into his or her graveyard."
+msgstr ""
+
+#: Contaminated Ground Debtor's Pulpit Skygames Tin Street Market Verdant
+#: Haven
+msgid "Enchant land"
+msgstr ""
+
+msgid "Enchanted land is a Swamp."
+msgstr ""
+
+msgid "Whenever enchanted land becomes tapped, its controller loses 2 life."
+msgstr ""
+
+msgid ""
+"Sacrifice another creature: Corpse Blockade gains deathtouch until end of "
+"turn."
+msgstr ""
+"Poświęć innego stwora: Corpse Blockade dostaje Dotyk Śmierci do końca tury."
+
+#: Court Street Denizen
+msgid ""
+"Whenever another white creature enters the battlefield under your control, "
+"tap target creature an opponent controls."
+msgstr ""
+
+#: Crackling Perimeter
+msgid ""
+"Tap an untapped Gate you control: Crackling Perimeter deals 1 damage to each "
+"opponent."
+msgstr ""
+
+#: Crocanura
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+msgid "Each creature you control with a +1/+1 counter on it has trample."
+msgstr ""
+
+msgid ""
+"Whenever you tap a Swamp for mana, add |mana_b| to your mana pool (in addition to "
+"the mana the land produces)."
+msgstr ""
+
+#: Daring Skyjek
+msgid ""
+"Battalion — Whenever Daring Skyjek and at least two other creatures attack, "
+"Daring Skyjek gains flying until end of turn."
+msgstr ""
+
+#: Deathcult Rogue
+msgid "Deathcult Rogue can't be blocked except by Rogues."
+msgstr ""
+
+msgid ""
+"When Deathpact Angel dies, put a 1/1 white and black Cleric creature token "
+"onto the battlefield. It has \"|mana_3| |mana_w| |mana_b| |mana_b|, |tap|, Sacrifice this creature: "
+"Return a card named Deathpact Angel from your graveyard to the battlefield.\""
+msgstr ""
+
+msgid ""
+"Enchanted creature gets -X/-X, where X is the number of creature cards in "
+"its controller's graveyard."
+msgstr ""
+
+msgid "Enchanted land has \"|tap|: Tap target creature.\""
+msgstr ""
+
+#: Devour Flesh
+msgid ""
+"Target player sacrifices a creature, then gains life equal to that "
+"creature's toughness."
+msgstr ""
+
+msgid ""
+"When Diluvian Primordial enters the battlefield, for each opponent, you may "
+"cast up to one target instant or sorcery card from that player's graveyard "
+"without paying its mana cost. If a card cast this way would be put into a "
+"graveyard this turn, exile it instead."
+msgstr ""
+"Kiedy Diluvian Primordial wchodzi na pole walki, dla każdego przeciwnika "
+"możesz rzucić najwyżej jedną kartę sztuczki lub ubrzędu z cmentarza owego "
+"gracza bez płacenia jej kosztu many. Jeśli karta rzucona w ten sposób miałby "
+"zostać umieszczona w cmentarzu w tej turze, wypędź ją w zamian."
+
+#: Dimir Charm
+msgid "Choose one — Counter target sorcery spell"
+msgstr "Wybierz jedno: Skontruj wskazany czar obrzędu"
+
+msgid " or destroy target creature with power 2 or less"
+msgstr ""
+
+msgid ""
+" or look at the top three cards of target player's library, then put one "
+"back and the rest into that player's graveyard."
+msgstr ""
+
+#: Dimir Guildgate
+msgid "Dimir Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: Dimir Keyrune
+msgid "|tap|: Add |mana_u| or |mana_b| to your mana pool."
+msgstr "|tap|: Dodaj |mana_u| lub |mana_b| do swojego zasobnika many."
+
+msgid ""
+"|mana_u| |mana_b|: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature "
+"until end of turn and can't be blocked this turn."
+msgstr ""
+"|mana_u| |mana_b|: Do końca tury Dimir Keyrune staje się niebiesko-czarnym "
+"artefaktycznym stworem Horror 2/2 i nie może być blokowany w tej turze."
+
+#: Dinrova Horror
+msgid ""
+"When Dinrova Horror enters the battlefield, return target permanent to its "
+"owner's hand, then that player discards a card."
+msgstr ""
+"Kiedy Dinrova Horror wchodzi na pole walki, przywróć wskazaną stałkę do ręki "
+"właściciela, następnie ten gracz odrzuca kartę."
+
+#: Disciple of the Old Ways
+msgid "|mana_r|: Disciple of the Old Ways gains first strike until end of turn."
+msgstr ""
+
+#: Domri Rade
+msgid ""
+"+1: Look at the top card of your library. If it's a creature card, you may "
+"reveal it and put it into your hand."
+msgstr ""
+
+msgid "-2: Target creature you control fights another target creature."
+msgstr ""
+
+msgid ""
+"-7: You get an emblem with \"Creatures you control have double strike, "
+"trample, hexproof, and haste.\""
+msgstr ""
+
+#: Drakewing Krasis Hellkite Tyrant
+msgid "Flying, trample"
+msgstr ""
+
+#: Duskmantle Guildmage
+msgid ""
+"|mana_1| |mana_u| |mana_b|: Whenever a card is put into an opponent's graveyard from anywhere "
+"this turn, that player loses 1 life."
+msgstr ""
+
+msgid ""
+"|mana_2| |mana_u| |mana_b|: Target player puts the top two cards of his or her library into "
+"his or her graveyard."
+msgstr ""
+
+msgid ""
+"At the beginning of your upkeep, each player reveals the top card of his or "
+"her library, loses life equal to that card's converted mana cost, then puts "
+"it into his or her hand."
+msgstr ""
+
+#: Dutiful Thrull
+msgid "|mana_b|: Regenerate Dutiful Thrull."
+msgstr ""
+
+#: Dying Wish Murder Investigation
+msgid "Enchant creature you control"
+msgstr ""
+
+msgid ""
+"When enchanted creature dies, target player loses X life and you gain X "
+"life, where X is its power."
+msgstr ""
+
+#: Elusive Krasis
+msgid "Elusive Krasis can't be blocked."
+msgstr ""
+
+#: Ember Beast
+msgid "Ember Beast can't attack or block alone."
+msgstr ""
+
+#: Enter the Infinite
+msgid ""
+"Draw cards equal to the number of cards in your library, then put a card "
+"from your hand on top of your library. You have no maximum hand size until "
+"your next turn."
+msgstr ""
+
+#: Executioner's Swing
+msgid ""
+"Target creature that dealt damage this turn gets -5/-5 until end of turn."
+msgstr ""
+
+msgid ""
+"Remove two +1/+1 counters from Experiment One: Regenerate Experiment One."
+msgstr ""
+
+msgid "Whenever a +1/+1 counter is placed on Fathom Mage, you may draw a card."
+msgstr ""
+
+#: Firefist Striker
+msgid ""
+"Battalion — Whenever Firefist Striker and at least two other creatures "
+"attack, target creature can't block this turn."
+msgstr ""
+
+msgid ""
+"Battalion — Whenever Firemane Avenger and at least two other creatures "
+"attack, Firemane Avenger deals 3 damage to target creature or player and you "
+"gain 3 life."
+msgstr ""
+
+#: Five-Alarm Fire
+msgid ""
+"Whenever a creature you control deals combat damage, put a blaze counter on "
+"Five-Alarm Fire."
+msgstr ""
+
+msgid ""
+"Remove five blaze counters from Five-Alarm Fire: Five-Alarm Fire deals 5 "
+"damage to target creature or player."
+msgstr ""
+
+msgid ""
+"At the beginning of your upkeep, put a +1/+1 counter on enchanted creature."
+msgstr ""
+
+#: Fortress Cyclops
+msgid "Whenever Fortress Cyclops attacks, it gets +3/+0 until end of turn."
+msgstr ""
+
+msgid "Whenever Fortress Cyclops blocks, it gets +0/+3 until end of turn."
+msgstr ""
+
+#: Foundry Champion
+msgid ""
+"When Foundry Champion enters the battlefield, it deals damage to target "
+"creature or player equal to the number of creatures you control."
+msgstr ""
+
+msgid "|mana_r|: Foundry Champion gets +1/+0 until end of turn."
+msgstr ""
+
+msgid "|mana_w|: Foundry Champion gets +0/+1 until end of turn."
+msgstr ""
+
+#: Foundry Street Denizen
+msgid ""
+"Whenever another red creature enters the battlefield under your control, "
+"Foundry Street Denizen gets +1/+0 until end of turn."
+msgstr ""
+
+#: Frenzied Tilling
+msgid ""
+"Destroy target land. Search your library for a basic land card and put that "
+"card onto the battlefield tapped. Then shuffle your library."
+msgstr ""
+
+#: Frilled Oculus
+msgid ""
+"|mana_1| |mana_g|: Frilled Oculus gets +2/+2 until end of turn. Activate this ability "
+"only once each turn."
+msgstr ""
+
+#: Frontline Medic
+msgid ""
+"Battalion — Whenever Frontline Medic and at least two other creatures "
+"attack, creatures you control gain indestructible until end of turn."
+msgstr ""
+
+msgid ""
+"Sacrifice Frontline Medic: Counter target spell with |mana_x| in its mana cost "
+"unless its controller pays |mana_3|."
+msgstr ""
+"Poświęć Frontline Medic: Skontruj wskazany czar posiadający |mana_x| w swoim "
+"koszcie dopóki jego władca nie zapłaci |mana_3|."
+
+#: Furious Resistance
+msgid ""
+"Target blocking creature gets +3/+0 and gains first strike until end of turn."
+msgstr ""
+
+#: Gateway Shade
+msgid "|mana_b|: Gateway Shade gets +1/+1 until end of turn."
+msgstr ""
+
+msgid ""
+"Tap an untapped Gate you control: Gateway Shade gets +2/+2 until end of turn."
+msgstr ""
+
+msgid ""
+"Bloodrush — |mana_r| |mana_g|, Discard Ghor-Clan Rampager: Target attacking creature "
+"gets +4/+4 and gains trample until end of turn."
+msgstr ""
+
+msgid ""
+"Whenever Giant Adephage deals combat damage to a player, put a token onto "
+"the battlefield that's a copy of Giant Adephage."
+msgstr ""
+
+#: Gideon, Champion of Justice
+msgid ""
+"+1: Put a loyalty counter on Gideon, Champion of Justice for each creature "
+"target opponent controls."
+msgstr ""
+
+msgid ""
+"0: Until end of turn, Gideon, Champion of Justice becomes a Human Soldier "
+"creature with power and toughness each equal to the number of loyalty "
+"counters on him and gains indestructible. He's still a planeswalker. Prevent "
+"all damage that would be dealt to him this turn."
+msgstr ""
+
+msgid "-15: Exile all other permanents."
+msgstr "-15: Wypędź wszystkie inne stałki."
+
+msgid "Enchanted creature gets +1/+1 and has flying and lifelink."
+msgstr "Zauroczony stwór dostaje +1/+1 i ma Latanie oraz Więź Życia."
+
+#: Glaring Spotlight
+msgid ""
+"Creatures your opponents control with hexproof can be the targets of spells "
+"and abilities you control as though they didn't have hexproof."
+msgstr ""
+
+msgid ""
+"|mana_3|, Sacrifice Glaring Spotlight: Creatures you control gain hexproof until "
+"end of turn and can't be blocked this turn."
+msgstr ""
+
+#: Godless Shrine
+msgid "(|tap|: Add |mana_w| or |mana_b| to your mana pool.)"
+msgstr "(|tap|: Dodaj |mana_w| lub |mana_b| do swojego zasobnika many.)"
+
+msgid ""
+"As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, "
+"Godless Shrine enters the battlefield tapped."
+msgstr ""
+
+#: Greenside Watcher
+msgid "|tap|: Untap target Gate."
+msgstr ""
+
+#: Gridlock
+msgid "Tap X target nonland permanents."
+msgstr "Zużyj X wskazanych stałek nie będących lądami."
+
+#: Grisly Spectacle
+msgid ""
+"Destroy target nonartifact creature. Its controller puts a number of cards "
+"equal to that creature's power from the top of his or her library into his "
+"or her graveyard."
+msgstr ""
+
+#: Ground Assault
+msgid ""
+"Ground Assault deals damage to target creature equal to the number of lands "
+"you control."
+msgstr ""
+
+#: Gruul Charm
+msgid "Choose one — Creatures without flying can't block this turn"
+msgstr ""
+
+msgid " or gain control of all permanents you own"
+msgstr " albo przejmij kontrolę nad wszystkimi własnymi stałkami"
+
+msgid " or Gruul Charm deals 3 damage to each creature with flying."
+msgstr ""
+
+#: Gruul Guildgate
+msgid "Gruul Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: Gruul Keyrune
+msgid "|tap|: Add |mana_r| or |mana_g| to your mana pool."
+msgstr "|tap|: Dodaj |mana_r| lub |mana_g| do swojego zasobnika many."
+
+msgid ""
+"|mana_r| |mana_g|: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature "
+"with trample until end of turn."
+msgstr ""
+"|mana_r| |mana_g|: Do końca tury Gruul Keyrune staje się czerwono-zielonym "
+"artefaktycznym stworem Beast 3/2 z Tratowaniem."
+
+#: Gruul Ragebeast
+msgid ""
+"Whenever Gruul Ragebeast or another creature enters the battlefield under "
+"your control, that creature fights target creature an opponent controls."
+msgstr ""
+
+msgid "Guardian of the Gateless can block any number of creatures."
+msgstr ""
+
+msgid ""
+"Whenever Guardian of the Gateless blocks, it gets +1/+1 until end of turn "
+"for each creature it's blocking."
+msgstr ""
+
+msgid "Enchanted creature has protection from multicolored."
+msgstr ""
+
+msgid "|tap|: Add |mana_g| to your mana pool for each +1/+1 counter on Gyre Sage."
+msgstr ""
+
+#: Hands of Binding
+msgid ""
+"Tap target creature an opponent controls. That creature doesn't untap during "
+"its controller's next untap step."
+msgstr ""
+
+msgid ""
+"Whenever Hellkite Tyrant deals combat damage to a player, gain control of "
+"all artifacts that player controls."
+msgstr ""
+
+msgid ""
+"At the beginning of your upkeep, if you control twenty or more artifacts, "
+"you win the game."
+msgstr ""
+
+#: Hellraiser Goblin
+msgid "Creatures you control have haste and attack each combat if able."
+msgstr ""
+
+#: High Priest of Penance
+msgid ""
+"Whenever High Priest of Penance is dealt damage, you may destroy target "
+"nonland permanent."
+msgstr ""
+"Ilekroć High Priest of Penance otrzymuje obrażenia, możesz zniszczyć "
+"wskazaną stałkę nie będącą lądem."
+
+#: Hindervines
+msgid ""
+"Prevent all combat damage that would be dealt this turn by creatures with no "
+"+1/+1 counters on them."
+msgstr ""
+
+#: Hold the Gates
+msgid ""
+"Creatures you control get +0/+1 for each Gate you control and have vigilance."
+msgstr ""
+
+msgid "Enchanted creature gets +2/+2 and has protection from creatures."
+msgstr ""
+
+#: Homing Lightning
+msgid ""
+"Homing Lightning deals 4 damage to target creature and each other creature "
+"with the same name as that creature."
+msgstr ""
+
+#: Horror of the Dim
+msgid ""
+"|mana_u|: Horror of the Dim gains hexproof until end of turn. (It can't be the "
+"target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: Hydroform
+msgid ""
+"Target land becomes a 3/3 Elemental creature with flying until end of turn. "
+"It's still a land."
+msgstr ""
+
+#: Illness in the Ranks
+msgid "Creature tokens get -1/-1."
+msgstr ""
+
+#: Illusionist's Bracers
+msgid ""
+"Whenever an ability of equipped creature is activated, if it isn't a mana "
+"ability, copy that ability. You may choose new targets for the copy."
+msgstr ""
+
+msgid "Equip |mana_3|"
+msgstr ""
+
+#: Immortal Servitude
+msgid ""
+"Return each creature card with converted mana cost X from your graveyard to "
+"the battlefield."
+msgstr ""
+
+#: Incursion Specialist
+msgid ""
+"Whenever you cast your second spell each turn, Incursion Specialist gets +2/"
+"+0 until end of turn and can't be blocked this turn."
+msgstr ""
+
+#: Ivy Lane Denizen
+msgid ""
+"Whenever another green creature enters the battlefield under your control, "
+"put a +1/+1 counter on target creature."
+msgstr ""
+
+#: Keymaster Rogue
+msgid "Keymaster Rogue can't be blocked."
+msgstr ""
+
+msgid ""
+"When Keymaster Rogue enters the battlefield, return a creature you control "
+"to its owner's hand."
+msgstr ""
+
+#: Killing Glare
+msgid "Destroy target creature with power X or less."
+msgstr ""
+
+#: Knight of Obligation Luminate Primordial Truefire Paladin
+msgid "Vigilance"
+msgstr ""
+
+#: Knight Watch
+msgid ""
+"Put two 2/2 white Knight creature tokens with vigilance onto the battlefield."
+msgstr ""
+
+#: Last Thoughts
+msgid "Draw a card."
+msgstr ""
+
+#: Lazav, Dimir Mastermind
+msgid "Hexproof"
+msgstr ""
+
+msgid ""
+"Whenever a creature card is put into an opponent's graveyard from anywhere, "
+"you may have Lazav, Dimir Mastermind become a copy of that card except its "
+"name is still Lazav, Dimir Mastermind, it's legendary in addition to its "
+"other types, and it gains hexproof and this ability."
+msgstr ""
+
+#: Legion Loyalist Molten Primordial
+msgid "Haste"
+msgstr ""
+
+msgid ""
+"Battalion — Whenever Legion Loyalist and at least two other creatures "
+"attack, creatures you control gain first strike and trample until end of "
+"turn and can't be blocked by creature tokens this turn."
+msgstr ""
+
+#: Leyline Phantom
+msgid ""
+"When Leyline Phantom deals combat damage, return it to its owner's hand. "
+"(Return it only if it survived combat.)"
+msgstr ""
+
+msgid ""
+"Whenever Lord of the Void deals combat damage to a player, exile the top "
+"seven cards of that player's library, then put a creature card from among "
+"them onto the battlefield under your control."
+msgstr ""
+"Ilekroć Lord of the Void zadaje graczowi obrażenia bojowe, wypędź siedem "
+"wierzchnich kart z biblioteki owego gracza, a następnie wybierz kartę stwora "
+"spośród nich i umieść ją na polu walki pod swoim władaniem."
+
+msgid ""
+"When Luminate Primordial enters the battlefield, for each opponent, exile up "
+"to one target creature that player controls and that player gains life equal "
+"to its power."
+msgstr ""
+"Kiedy Luminate Primordial wchodzi na pole walki, dla każdego z przeciwników "
+"wypędź co najwyżej jednego stwora władanego przez owego gracza i ów gracz "
+"zyskuje tyle punktów życia, ile siły miał wypędzony stwór."
+
+msgid ""
+"Enchanted creature gets +3/+0 and can't be blocked except by two or more "
+"creatures."
+msgstr ""
+
+#: Mark for Death
+msgid ""
+"Target creature an opponent controls blocks this turn if able. Untap that "
+"creature. Other creatures that player controls can't block this turn."
+msgstr ""
+
+#: Martial Glory
+msgid "Target creature gets +3/+0 until end of turn."
+msgstr ""
+
+msgid "Target creature gets +0/+3 until end of turn."
+msgstr ""
+
+#: Massive Raid
+msgid ""
+"Massive Raid deals damage to target creature or player equal to the number "
+"of creatures you control."
+msgstr ""
+
+#: Master Biomancer
+msgid ""
+"Each other creature you control enters the battlefield with a number of "
+"additional +1/+1 counters on it equal to Master Biomancer's power and as a "
+"Mutant in addition to its other types."
+msgstr ""
+
+#: Mental Vapors
+msgid "Target player discards a card."
+msgstr ""
+
+#: Merciless Eviction
+msgid "Choose one — Exile all artifacts"
+msgstr "Wybierz jedno: Wypędź wszystkie artefakty"
+
+msgid " or exile all creatures"
+msgstr " albo wypędź wszystkie stwory"
+
+msgid " or exile all enchantments"
+msgstr " albo wypędź wszystkie uroki"
+
+msgid " or exile all planeswalkers."
+msgstr " albo wypędź wszystkich wędrowców."
+
+#: Merfolk of the Depths Shambleshark
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+"Błysk (Możesz rzucić ten czar w każdej chwili, gdy możesz rzucić sztuczkę.)"
+
+msgid "|mana_u|: Metropolis Sprite gets +1/-1 until end of turn."
+msgstr ""
+
+#: Midnight Recovery Wildwood Rebirth
+msgid "Return target creature card from your graveyard to your hand."
+msgstr ""
+
+#: Miming Slime
+msgid ""
+"Put an X/X green Ooze creature token onto the battlefield, where X is the "
+"greatest power among creatures you control."
+msgstr ""
+
+#: Mind Grind
+msgid ""
+"Each opponent reveals cards from the top of his or her library until he or "
+"she reveals X land cards, then puts all cards revealed this way into his or "
+"her graveyard. X can't be 0."
+msgstr ""
+
+msgid ""
+"When Mindeye Drake dies, target player puts the top five cards of his or her "
+"library into his or her graveyard."
+msgstr ""
+
+msgid ""
+"When Molten Primordial enters the battlefield, for each opponent, gain "
+"control of up to one target creature that player controls until end of turn. "
+"Untap those creatures. They gain haste until end of turn."
+msgstr ""
+
+#: Mortus Strider
+msgid "When Mortus Strider dies, return it to its owner's hand."
+msgstr ""
+
+#: Mugging
+msgid ""
+"Mugging deals 2 damage to target creature. That creature can't block this "
+"turn."
+msgstr ""
+
+msgid ""
+"When enchanted creature dies, put X 1/1 white Soldier creature tokens onto "
+"the battlefield, where X is its power."
+msgstr ""
+
+#: Mystic Genesis
+msgid ""
+"Counter target spell. Put an X/X green Ooze creature token onto the "
+"battlefield, where X is that spell's converted mana cost."
+msgstr ""
+"Skontruj wskazany czar. Połóż na polu walki żeton zielonego stwora Ooze X/X, "
+"gdzie X jest łącznym kosztem many owego czaru."
+
+#: Naturalize
+msgid "Destroy target artifact or enchantment."
+msgstr ""
+
+#: Nav Squad Commandos
+msgid ""
+"Battalion — Whenever Nav Squad Commandos and at least two other creatures "
+"attack, Nav Squad Commandos gets +1/+1 until end of turn. Untap it."
+msgstr ""
+
+msgid ""
+"Whenever Nightveil Specter deals combat damage to a player, that player "
+"exiles the top card of his or her library."
+msgstr ""
+"Ilekroć Nightveil Specter zadaje graczowi obrażenia bojowe, ów gracz wypędza "
+"wierzchnią kartę swojej biblioteki."
+
+msgid "You may play cards exiled with Nightveil Specter."
+msgstr "Możesz zagrywać karty wypędzone przez Nightveil Spectera."
+
+msgid "Nimbus Swimmer enters the battlefield with X +1/+1 counters on it."
+msgstr ""
+
+#: Obzedat, Ghost Council
+msgid ""
+"When Obzedat, Ghost Council enters the battlefield, target opponent loses 2 "
+"life and you gain 2 life."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"At the beginning of your end step, you may exile Obzedat. If you do, return "
+"it to the battlefield under its owner's control at the beginning of your "
+"next upkeep. It gains haste."
+msgstr ""
+"Możesz wypędzić Obzedata z początkiem swojego kroku końcowego. Jeśli tak "
+"zrobisz, z początkiem swojego rozliczania przywróć go na pole walki pod "
+"władaniem jego właściciela. Zyskuje on pośpiech."
+
+#: Ogre Slumlord
+msgid ""
+"Whenever another nontoken creature dies, you may put a 1/1 black Rat "
+"creature token onto the battlefield."
+msgstr ""
+
+msgid "Rats you control have deathtouch."
+msgstr "Kontrolowane przez ciebie stwory Rat mają Dotyk Śmierci."
+
+msgid ""
+"Enchanted creature can't attack or block, and its activated abilities can't "
+"be activated."
+msgstr ""
+
+msgid ""
+"At the beginning of the upkeep of enchanted creature's controller, that "
+"player loses 1 life."
+msgstr ""
+
+#: Ooze Flux
+msgid ""
+"|mana_1| |mana_g|, Remove one or more +1/+1 counters from among creatures you control: "
+"Put an X/X green Ooze creature token onto the battlefield, where X is the "
+"number of +1/+1 counters removed this way."
+msgstr ""
+
+#: Ordruun Veteran
+msgid ""
+"Battalion — Whenever Ordruun Veteran and at least two other creatures "
+"attack, Ordruun Veteran gains double strike until end of turn. (It deals "
+"both first-strike and regular combat damage.)"
+msgstr ""
+
+#: Orzhov Charm
+msgid ""
+"Choose one — Return target creature you control and all Auras you control "
+"attached to it to their owner's hand"
+msgstr ""
+
+msgid " or destroy target creature and you lose life equal to its toughness"
+msgstr ""
+
+msgid ""
+" or return target creature card with converted mana cost 1 or less from your "
+"graveyard to the battlefield."
+msgstr ""
+
+#: Orzhov Guildgate
+msgid "Orzhov Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: Orzhov Keyrune
+msgid "|tap|: Add |mana_w| or |mana_b| to your mana pool."
+msgstr "|tap|: Dodaj |mana_w| lub |mana_b| do swojego zasobnika many."
+
+msgid ""
+"|mana_w| |mana_b|: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact "
+"creature with lifelink until end of turn."
+msgstr ""
+"|mana_w| |mana_b|: Do końca tury Orzhov Keyrune staje się biało-czarnym artefaktycznym "
+"stworem Thrull 1/4 z Więzią Życia."
+
+#: Paranoid Delusions
+msgid ""
+"Target player puts the top three cards of his or her library into his or her "
+"graveyard."
+msgstr ""
+
+#: Pit Fight
+msgid ""
+"Target creature you control fights another target creature. (Each deals "
+"damage equal to its power to the other.)"
+msgstr ""
+
+#: Predator's Rapport
+msgid ""
+"Choose target creature you control. You gain life equal to that creature's "
+"power plus its toughness."
+msgstr ""
+
+msgid "Enchanted creature gets +3/+3 and has haste."
+msgstr ""
+
+#: Prime Speaker Zegana
+msgid ""
+"Prime Speaker Zegana enters the battlefield with X +1/+1 counters on it, "
+"where X is the greatest power among other creatures you control."
+msgstr ""
+
+msgid ""
+"When Prime Speaker Zegana enters the battlefield, draw cards equal to its "
+"power."
+msgstr ""
+
+#: Prophetic Prism
+msgid "When Prophetic Prism enters the battlefield, draw a card."
+msgstr ""
+
+msgid "|mana_1|, |tap|: Add one mana of any color to your mana pool."
+msgstr ""
+
+#: Psychic Strike
+msgid ""
+"Counter target spell. Its controller puts the top two cards of his or her "
+"library into his or her graveyard."
+msgstr ""
+"Skontruj wskazany czar. Jego władca wkłada dwie wierzchnie karty ze swojej "
+"biblioteki do swojego cmentarza."
+
+#: Purge the Profane
+msgid "Target opponent discards two cards and you gain 2 life."
+msgstr ""
+
+#: Rapid Hybridization
+msgid ""
+"Destroy target creature. It can't be regenerated. That creature's controller "
+"puts a 3/3 green Frog Lizard creature token onto the battlefield."
+msgstr ""
+
+#: Razortip Whip
+msgid "|mana_1|, |tap|: Razortip Whip deals 1 damage to target opponent."
+msgstr ""
+
+#: Realmwright
+msgid "As Realmwright enters the battlefield, choose a basic land type."
+msgstr ""
+
+msgid "Lands you control are the chosen type in addition to their other types."
+msgstr ""
+
+#: Righteous Charge
+msgid "Creatures you control get +2/+2 until end of turn."
+msgstr ""
+
+#: Riot Gear
+msgid "Equipped creature gets +1/+2."
+msgstr ""
+
+msgid ""
+"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a "
+"sorcery.)"
+msgstr ""
+
+#: Ripscale Predator
+msgid "Ripscale Predator can't be blocked except by two or more creatures."
+msgstr ""
+
+#: Rubblebelt Raiders
+msgid ""
+"Whenever Rubblebelt Raiders attacks, put a +1/+1 counter on it for each "
+"attacking creature you control."
+msgstr ""
+
+#: Rubblehulk
+msgid ""
+"Rubblehulk's power and toughness are each equal to the number of lands you "
+"control."
+msgstr ""
+
+msgid ""
+"Bloodrush — |mana_1| |mana_r| |mana_g|, Discard Rubblehulk: Target attacking creature gets +X/"
+"+X until end of turn, where X is the number of lands you control."
+msgstr ""
+
+#: Rust Scarab
+msgid ""
+"Whenever Rust Scarab becomes blocked, you may destroy target artifact or "
+"enchantment defending player controls."
+msgstr ""
+
+#: Sacred Foundry
+msgid "(|tap|: Add |mana_r| or |mana_w| to your mana pool.)"
+msgstr "(|tap|: Dodaj |mana_r| lub |mana_w| do swojego zasobnika many.)"
+
+msgid ""
+"As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, "
+"Sacred Foundry enters the battlefield tapped."
+msgstr ""
+
+#: Sage's Row Denizen
+msgid ""
+"Whenever another blue creature enters the battlefield under your control, "
+"target player puts the top two cards of his or her library into his or her "
+"graveyard."
+msgstr ""
+
+msgid "Each creature you control with a +1/+1 counter on it has flying."
+msgstr ""
+
+#: Scab-Clan Charger
+msgid ""
+"Bloodrush — |mana_1| |mana_g|, Discard Scab-Clan Charger: Target attacking creature "
+"gets +2/+4 until end of turn."
+msgstr ""
+
+#: Scatter Arc
+msgid "Counter target noncreature spell."
+msgstr "Skontruj wskazany czar nie będący stworem."
+
+#: Scorchwalker
+msgid ""
+"Bloodrush — |mana_1| |mana_r| |mana_r|, Discard Scorchwalker: Target attacking creature gets "
+"+5/+1 until end of turn."
+msgstr ""
+
+#: Sepulchral Primordial
+msgid "Intimidate"
+msgstr "Zastraszanie"
+
+msgid ""
+"When Sepulchral Primordial enters the battlefield, for each opponent, you "
+"may put up to one target creature card from that player's graveyard onto the "
+"battlefield under your control."
+msgstr ""
+
+#: Serene Remembrance
+msgid ""
+"Shuffle Serene Remembrance and up to three target cards from a single "
+"graveyard into their owners' libraries."
+msgstr ""
+
+#: Shadow Alley Denizen
+msgid ""
+"Whenever another black creature enters the battlefield under your control, "
+"target creature gains intimidate until end of turn. (It can't be blocked "
+"except by artifact creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: Shadow Slice
+msgid "Target opponent loses 3 life."
+msgstr ""
+
+#: Shattering Blow
+msgid "Exile target artifact."
+msgstr "Wypędź wskazany artefakt."
+
+#: Shielded Passage
+msgid "Prevent all damage that would be dealt to target creature this turn."
+msgstr ""
+
+#: Signal the Clans
+msgid ""
+"Search your library for three creature cards and reveal them. If you reveal "
+"three cards with different names, choose one of them at random and put that "
+"card into your hand. Shuffle the rest into your library."
+msgstr ""
+
+#: Simic Charm
+msgid "Choose one — Target creature gets +3/+3 until end of turn"
+msgstr ""
+
+msgid " or permanents you control gain hexproof until end of turn"
+msgstr " albo stałki, które kontrolujesz zyskują Antyklątwę do końca tury"
+
+msgid " or return target creature to its owner's hand."
+msgstr ""
+
+msgid ""
+"|mana_1| |mana_u|, |tap|: Move a +1/+1 counter from Simic Fluxmage onto target creature."
+msgstr ""
+
+#: Simic Guildgate
+msgid "Simic Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: Simic Keyrune
+msgid "|tap|: Add |mana_g| or |mana_u| to your mana pool."
+msgstr "|tap|: Dodaj |mana_g| lub |mana_u| do swojego zasobnika many."
+
+msgid ""
+"|mana_g| |mana_u|: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature "
+"with hexproof until end of turn. (It can't be the target of spells or "
+"abilities your opponents control.)"
+msgstr ""
+"|mana_g| |mana_u|: Do końca tury Simic Keyrune staje się zielono-niebieskim "
+"artefaktycznym stworem Crab 2/3 z Antyklątwą. (Nie może być wskazywany przez "
+"czary i zdolności kontrolowane przez twoich przeciwników.)"
+
+msgid ""
+"|tap|, Remove one or more +1/+1 counters from Simic Manipulator: Gain control "
+"of target creature with power less than or equal to the number of +1/+1 "
+"counters removed this way."
+msgstr ""
+
+msgid ""
+"Bloodrush — |mana_5| |mana_g| |mana_g|, Discard Skarrg Goliath: Target attacking creature "
+"gets +9/+9 and gains trample until end of turn."
+msgstr ""
+
+#: Skarrg Guildmage
+msgid "|mana_r| |mana_g|: Creatures you control gain trample until end of turn."
+msgstr ""
+
+msgid ""
+"|mana_1| |mana_r| |mana_g|: Target land you control becomes a 4/4 Elemental creature until "
+"end of turn. It's still a land."
+msgstr ""
+
+#: Skinbrand Goblin
+msgid ""
+"Bloodrush — |mana_r|, Discard Skinbrand Goblin: Target attacking creature gets +2/"
+"+1 until end of turn."
+msgstr ""
+
+#: Skullcrack
+msgid ""
+"Players can't gain life this turn. Damage can't be prevented this turn. "
+"Skullcrack deals 3 damage to target player."
+msgstr ""
+
+#: Skyblinder Staff
+msgid ""
+"Equipped creature gets +1/+0 and can't be blocked by creatures with flying."
+msgstr ""
+
+msgid ""
+"Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a "
+"sorcery.)"
+msgstr ""
+
+msgid ""
+"Enchanted land has \"|tap|: Target creature gains flying until end of turn. "
+"Activate this ability only any time you could cast a sorcery.\""
+msgstr ""
+
+#: Skyknight Legionnaire
+msgid "Flying, haste"
+msgstr ""
+
+#: Slate Street Ruffian
+msgid ""
+"Whenever Slate Street Ruffian becomes blocked, defending player discards a "
+"card."
+msgstr ""
+
+#: Slaughterhorn
+msgid ""
+"Bloodrush — |mana_g|, Discard Slaughterhorn: Target attacking creature gets +3/+2 "
+"until end of turn."
+msgstr ""
+
+#: Smite
+msgid "Destroy target blocked creature."
+msgstr ""
+
+msgid "Creatures with flying your opponents control get -1/-1."
+msgstr ""
+
+msgid "You control enchanted creature."
+msgstr ""
+
+msgid ""
+"Discard two cards: Soul Ransom's controller sacrifices it, then draws two "
+"cards. Only any opponent may activate this ability."
+msgstr ""
+
+#: Spark Trooper
+msgid "Trample, lifelink, haste"
+msgstr "Tratowanie, Więź Życia, Pośpiech"
+
+msgid "At the beginning of the end step, sacrifice Spark Trooper."
+msgstr ""
+
+#: Spell Rupture
+msgid ""
+"Counter target spell unless its controller pays |mana_x|, where X is the greatest "
+"power among creatures you control."
+msgstr ""
+"Skontruj wskazany czas dopóki jego władca nie zapłaci |mana_x|, gdzie X jest "
+"największą siłą spośród stworów, którymi władasz."
+
+#: Spire Tracer
+msgid "Spire Tracer can't be blocked except by creatures with flying or reach."
+msgstr ""
+
+#: Stolen Identity
+msgid ""
+"Put a token onto the battlefield that's a copy of target artifact or "
+"creature."
+msgstr ""
+
+#: Stomping Ground
+msgid "(|tap|: Add |mana_r| or |mana_g| to your mana pool.)"
+msgstr "(|tap|: Dodaj |mana_r| lub |mana_g| do swojego zasobnika many.)"
+
+msgid ""
+"As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, "
+"Stomping Ground enters the battlefield tapped."
+msgstr ""
+
+#: Structural Collapse
+msgid ""
+"Target player sacrifices an artifact and a land. Structural Collapse deals 2 "
+"damage to that player."
+msgstr ""
+
+#: Sunhome Guildmage
+msgid "|mana_1| |mana_r| |mana_w|: Creatures you control get +1/+0 until end of turn."
+msgstr ""
+
+msgid ""
+"|mana_2| |mana_r| |mana_w|: Put a 1/1 red and white Soldier creature token with haste onto "
+"the battlefield."
+msgstr ""
+
+#: Sylvan Primordial
+msgid "Reach"
+msgstr ""
+
+msgid ""
+"When Sylvan Primordial enters the battlefield, for each opponent, destroy "
+"target noncreature permanent that player controls. For each permanent "
+"destroyed this way, search your library for a Forest card and put that card "
+"onto the battlefield tapped. Then shuffle your library."
+msgstr ""
+"Kiedy Sylvan Primordial wchodzi na pole walki, dla każdego ze swoich "
+"przeciwników, zniszcz wskazaną stałkę nie będącą stworem kontrolowaną przez "
+"owego gracza. Dla każdej stałki zniszczonej w ten sposób, poszukaj w swojej "
+"bibliotece karty Lasu i połóż ją zużytą na polu walki. Następnie przetasuj "
+"bibliotekę."
+
+#: Thespian's Stage
+msgid "|tap|: Add |mana_1| to your mana pool."
+msgstr "|tap|: Dodaj |mana_1| do swojego zasobnika many."
+
+msgid ""
+"|mana_2|, |tap|: Thespian's Stage becomes a copy of target land and gains this "
+"ability."
+msgstr ""
+
+msgid "|tap|, Pay 2 life: Remove a counter from target nonland permanent."
+msgstr ""
+"|tap|, zapłać 2 życia: Zdejmij znacznik ze wskazanej stałki nie będącej lądem."
+
+msgid "Enchanted land has \"|tap|, Discard a card: Draw a card.\""
+msgstr ""
+
+#: Totally Lost
+msgid "Put target nonland permanent on top of its owner's library."
+msgstr ""
+"Połóż wskazaną stałkę nie będącą lądem na wierzchu biblioteki jej "
+"właściciela."
+
+#: Tower Defense
+msgid "Creatures you control get +0/+5 and gain reach until end of turn."
+msgstr ""
+
+#: Towering Thunderfist
+msgid "|mana_w|: Towering Thunderfist gains vigilance until end of turn."
+msgstr ""
+
+msgid ""
+"Whenever Treasury Thrull attacks, you may return target artifact, creature, "
+"or enchantment card from your graveyard to your hand."
+msgstr ""
+
+msgid "|mana_r| |mana_w|: Truefire Paladin gets +2/+0 until end of turn."
+msgstr ""
+
+msgid "|mana_r| |mana_w|: Truefire Paladin gains first strike until end of turn."
+msgstr ""
+
+#: Undercity Informer
+msgid ""
+"|mana_1|, Sacrifice a creature: Target player reveals cards from the top of his "
+"or her library until he or she reveals a land card, then puts those cards "
+"into his or her graveyard."
+msgstr ""
+
+#: Undercity Plague
+msgid ""
+"Target player loses 1 life, discards a card, then sacrifices a permanent."
+msgstr "Wskazany gracz traci 1 życie, odrzuca kartę, następnie poświęca stałkę."
+
+#: Unexpected Results
+msgid ""
+"Shuffle your library, then reveal the top card. If it's a nonland card, you "
+"may cast it without paying its mana cost. If it's a land card, you may put "
+"it onto the battlefield and return Unexpected Results to its owner's hand."
+msgstr ""
+
+#: Urban Evolution
+msgid "Draw three cards. You may play an additional land this turn."
+msgstr ""
+
+#: Urbis Protector
+msgid ""
+"When Urbis Protector enters the battlefield, put a 4/4 white Angel creature "
+"token with flying onto the battlefield."
+msgstr ""
+
+msgid "When Verdant Haven enters the battlefield, you gain 2 life."
+msgstr ""
+
+msgid ""
+"Whenever enchanted land is tapped for mana, its controller adds one mana of "
+"any color to his or her mana pool (in addition to the mana the land "
+"produces)."
+msgstr ""
+
+#: Viashino Shanktail
+msgid "First strike"
+msgstr ""
+
+msgid ""
+"Bloodrush — |mana_2| |mana_r|, Discard Viashino Shanktail: Target attacking creature "
+"gets +3/+1 and gains first strike until end of turn."
+msgstr ""
+
+msgid ""
+"When Vizkopa Confessor enters the battlefield, pay any amount of life. "
+"Target opponent reveals that many cards from his or her hand. You choose one "
+"of them and exile it."
+msgstr ""
+"Kiedy Vizkopa Confessor wchodzi na pole walki, zapłać dowolną ilość życia. "
+"Wskazany gracz ujawnia tyle samo kart ze swojej ręki. Wybierasz jedną z nich "
+"i wypędzasz ją."
+
+#: Vizkopa Guildmage
+msgid "|mana_1| |mana_w| |mana_b|: Target creature gains lifelink until end of turn."
+msgstr ""
+
+msgid ""
+"|mana_1| |mana_w| |mana_b|: Whenever you gain life this turn, each opponent loses that much "
+"life."
+msgstr ""
+
+#: Voidwalk
+msgid ""
+"Exile target creature. Return it to the battlefield under its owner's "
+"control at the beginning of the next end step."
+msgstr ""
+"Wypędź wskazanego stwora. Z początkiem najbliższego kroku końcowego przywróć "
+"go na pole walki pod władaniem jego właściciela."
+
+#: Warmind Infantry
+msgid ""
+"Battalion — Whenever Warmind Infantry and at least two other creatures "
+"attack, Warmind Infantry gets +2/+0 until end of turn."
+msgstr ""
+
+#: Wasteland Viper
+msgid "Deathtouch"
+msgstr "Dotyk Śmierci"
+
+msgid ""
+"Bloodrush — |mana_g|, Discard Wasteland Viper: Target attacking creature gets +1/"
+"+2 and gains deathtouch until end of turn."
+msgstr ""
+
+#: Watery Grave
+msgid "(|tap|: Add |mana_u| or |mana_b| to your mana pool.)"
+msgstr "(|tap|: Dodaj |mana_u| lub |mana_b| do swojego zasobnika many.)"
+
+msgid ""
+"As Watery Grave enters the battlefield, you may pay 2 life. If you don't, "
+"Watery Grave enters the battlefield tapped."
+msgstr ""
+
+msgid "Enchanted creature gets +2/+2."
+msgstr ""
+
+msgid "Enchanted creature can't be blocked as long as you control a Gate."
+msgstr ""
+
+#: Whispering Madness
+msgid ""
+"Each player discards his or her hand, then draws cards equal to the greatest "
+"number of cards a player discarded this way."
+msgstr ""
+
+#: Wight of Precinct Six
+msgid ""
+"Wight of Precinct Six gets +1/+1 for each creature card in your opponents' "
+"graveyards."
+msgstr ""
+
+#: Wojek Halberdiers
+msgid ""
+"Battalion — Whenever Wojek Halberdiers and at least two other creatures "
+"attack, Wojek Halberdiers gains first strike until end of turn."
+msgstr ""
+
+#: Wrecking Ogre
+msgid "Double strike"
+msgstr ""
+
+msgid ""
+"Bloodrush — |mana_3| |mana_r| |mana_r|, Discard Wrecking Ogre: Target attacking creature gets "
+"+3/+3 and gains double strike until end of turn."
+msgstr ""
+
+#: Zameck Guildmage
+msgid ""
+"|mana_g| |mana_u|: This turn, each creature you control enters the battlefield with an "
+"additional +1/+1 counter on it."
+msgstr ""
+
+msgid ""
+"|mana_g| |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card."
+msgstr ""
+
+#: Zarichi Tiger
+msgid "|mana_1| |mana_w|, |tap|: You gain 2 life."
+msgstr ""
+
+#: Zhur-Taa Swine
+msgid ""
+"Bloodrush — |mana_1| |mana_r| |mana_g|, Discard Zhur-Taa Swine: Target attacking creature "
+"gets +5/+4 until end of turn."
+msgstr ""
