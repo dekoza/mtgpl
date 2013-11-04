@@ -1,0 +1,428 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Dominik <Kozaczko>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-28 18:47\n"
+"PO-Revision-Date: 2013-09-28 17:27+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
+"Language-Team: polski <>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1380385620.311593\n"
+
+# 26e07668bf534cb692867a6f0b00c9c2
+#: ../../THS_hydra.rst:5
+msgid "Face the Hydra!"
+msgstr "Staw czoła Hydrze!"
+
+# 890f3c30f9394381b5bc5b2e2b09ae90
+#: ../../THS_hydra.rst:7
+msgid ""
+"Take the nest step on the Hero's Path and play a new form of **Magic: The "
+"Gathering.** Face this Challenge Deck as a single hero or with a group. The "
+"deck's rules let you run the Hydra too!"
+msgstr ""
+"Zrób kolejny krok na Ścieżce Bohatera i zagraj w nową formę **Magic: The "
+"Gathering.** Staw czoła niniejszej Talii Wyzwania jako samotny bohater lub "
+"grupa. Zasady talii pozwolą ci także na grę Hydrą!"
+
+# c957f7481e514788b1cf508ae5468515
+#: ../../THS_hydra.rst:11
+msgid "How to Play"
+msgstr "Zasady rozgrywki"
+
+# 6c47d186eda74026b43f833bbbca3b8d
+#: ../../THS_hydra.rst:13
+msgid ""
+"You can battle the Hydra alone or with friends (just replace \"you\" with "
+"\"each player\" in these rules). **At the end of any turn, if there are no "
+"Heads on the battlefield, you win!**"
+msgstr ""
+"Możesz walczyć z Hydrą samodzielnie lub z przyjaciółmi (po prostu wszystkie "
+"poniższe zasady odnoszą się do wszystkich graczy). **Jeśli na końcu każdej "
+"tury na polu walki nie ma żadnej Głowy, wygrywasz!**"
+
+# 4f95e6e0d3894964b178b5897d50466b
+#: ../../THS_hydra.rst:16
+msgid "Use the regular **Magic** rules with the following exceptions:"
+msgstr "Używasz normalnych zasad gry w **Magic** z następującymi wyjątkami:"
+
+# 41624a296d7f492cb2000e6ce9bde884
+#: ../../THS_hydra.rst:18
+msgid ""
+"You start with up to two Hero cards on the battlefield. (You don't need a "
+"Hero to play.)"
+msgstr ""
+"Zaczynasz z maksymalnie dwiema kartami Bohatera na polu walki. (Nie "
+"potrzebujesz Bohatera, aby grać.)"
+
+# 17428a987076432dac7af75397e98f06
+#: ../../THS_hydra.rst:19
+msgid ""
+"Choose a starting number of Heads. Take that many **cards named Hydra Head** "
+"from the Challenge Deck and place them on the battlefield. Shuffle the "
+"remaining cards to form the Hydra's Library."
+msgstr ""
+"Wybierz początkową liczbę Głów. Weź tyle **kart nazwanych Głowa Hydry** z "
+"Talii Wyzwania i umieść je na polu walki. Przetasuj pozostałe karty tworząc "
+"bibliotekę Hydry."
+
+# 6ebc7539fe104f83a55a0673c54b86dc
+#: ../../THS_hydra.rst:21
+msgid "You go first. (Don't draw a card on your first turn.)"
+msgstr "Zaczynasz. (Nie dobierasz karty w swojej pierwszej turze.)"
+
+# 3f78366b845646aa8a469d1510628d34
+#: ../../THS_hydra.rst:22
+msgid "Then the Hydra takes its turn, and so on."
+msgstr "Później jest tura Hydry itd."
+
+# 9467a21888b94262b82d6dea9ce30b78
+#: ../../THS_hydra.rst:23
+msgid ""
+"You can attack Heads directly with your creatures. Any number of creatures "
+"can attack a single Head."
+msgstr ""
+"Możesz bezpośrednio atakować Głowy swoimi stworami. Dowolna liczba stworów "
+"może atakować pojedynczą Głowę."
+
+# 78ecddbcd5ec459eb9d2d421b1fac9ca
+#: ../../THS_hydra.rst:24
+msgid ""
+"**Growing New Heads:** Whenever a Head leaves the battlefield, reveal the "
+"top two cards of the Hydra's library. Put any Heads onto the battlefield and "
+"any sorcery cards into the Hydra's graveyard."
+msgstr ""
+"**Wyrastanie nowych Głów:** Ilekroć Głowa opuszcza pole walki, ujawnij dwie "
+"wierzchnie karty z biblioteki Hydry. Połóż wszystkie Głowy na polu walki, a "
+"wszystkie karty obrzędów w cmentarzu Hydry."
+
+# 617822ac82234213a7431f8da50a4b9b
+#: ../../THS_hydra.rst:28
+msgid "The Hydra's Turn"
+msgstr "Tura Hydry"
+
+# 0b8853d7501f45bab0d12eff3736a6d8
+#: ../../THS_hydra.rst:30
+msgid "A the start of the Hydra's turn, untap any tapped Heads."
+msgstr "Na początku tury Hydry odśwież wszystkie zużyte Głowy."
+
+# 0eed76b118ec4ce5943e5c85a8b5afa3
+#: ../../THS_hydra.rst:31
+msgid ""
+"Reveal the top card of the Hydra's library. The Hydra casts that card. When "
+"the spell resolves, if it's a Head, put it onto the battlefield. If it's a "
+"sorcery, follow its instructions and then put it into the Hydra's graveyard."
+msgstr ""
+"Ujawnij wierzchnią kartę biblioteki Hydry. Hydra rzuca tę kartę. Kiedy czar "
+"zostanie rozpatrzony, jeśli to Głowa, połóż ją na polu walki. Jeśli to "
+"obrzęd, podążaj za instrukcjami i następnie połóż go do cmentarza Hydry."
+
+# a4d45cc3aa4e42aaaab1e10927dfcd69
+#: ../../THS_hydra.rst:35
+msgid ""
+"The Hydra deals 1 damage to you for each untapped card named Hydra Head it "
+"controls and 2 damage to you for each untapped elite Head it controls."
+msgstr ""
+"Hydra zadaje tobie 1 obrażenie za każdą niezużytą kartę nazwaną Głowa Hydry, "
+"którą włada, oraz 2 obrażenia za każdą niezużytą elitarną Głowę, którą "
+"włada."
+
+# c218e394a4d44c8abb108918a1368c67
+#: ../../THS_hydra.rst:39
+msgid "Special Rules"
+msgstr "Zasady specjalne"
+
+# 7cd68a268efc424bbc6b59009afde77c
+#: ../../THS_hydra.rst:41
+msgid ""
+"If the Hydra would be dealt damage or lose life, instead deal that much "
+"damage to a Head of your choice."
+msgstr ""
+"Jeśli Hydra miałaby otrzymać obrażenia lub stracić życie, zamiast tego zadaj "
+"tyle samo obrażeń wybranej Głowie."
+
+# 7d3da5b8a18845128f8cd719b1b9925e
+#: ../../THS_hydra.rst:42
+msgid ""
+"Ignore effects that would cause the Hydra to draw or discard cards, or any "
+"impossible actions."
+msgstr ""
+"Zignoruj efekty, które zmuszają Hydrę do dobierania lub odrzucania kart lub "
+"podejmowania niemożliwych akcji."
+
+# 363d7c42031e4dc39953e5ac94da510a
+#: ../../THS_hydra.rst:43
+msgid ""
+"If a Head would move to any zone other than the graveyard, instead put it "
+"into the Hydra's graveyard."
+msgstr ""
+"Jeśli Głowa miałaby przejść do jakiejkolwiek innej strefy gry niż cmentarz, "
+"zamiast tego umieść ją w cmentarzu Hydry."
+
+# a83684de0fbb41b1af0a130cec40aaf8
+#: ../../THS_hydra.rst:44
+msgid "You make any choices for the Hydra."
+msgstr "Dokonujesz wszelkich wyborów za Hydrę."
+
+# 02a54e1b57d44141a2f936fe20bda6d5
+#: ../../THS_hydra.rst:48
+msgid "Hydra Cards"
+msgstr "Karty Hydry"
+
+# 7b7d77ff7f374066953985d5ab2f940e
+#: ../../THS_hydra.rst:51
+msgid "Heads"
+msgstr "Głowy"
+
+# a651056ed8bb405e82024cbd16c4ec75
+#: ../../THS_hydra.rst:54
+msgid "Hydra Head"
+msgstr "Hydra Head (Głowa Hydry)"
+
+# da03cf6a6541429da20974ba81b64983
+#: ../../THS_hydra.rst:54
+msgid ""
+"*Hero's Reward* — When Hydra Head leaves the battlefield, each player gains "
+"2 life."
+msgstr ""
+"*Nagroda Bohatera:* Kiedy Głowa Hydry opuszcza pole walki, każdy gracz "
+"zyskuje 2 życia."
+
+# e6beef356d404d5391a80b1f41c0c427
+#: ../../THS_hydra.rst:57
+msgid "Ravenous Brute Head"
+msgstr "Ravenous Brute Head (Żarłoczna Głowa)"
+
+# e88ade5ffc064ed7b1a6c5afd9779937
+#: ../../THS_hydra.rst:57
+msgid ""
+"*Hero's Reward* — When Ravenous Brute Head leaves the battlefield, each "
+"player gains 2 life and draws a card."
+msgstr ""
+"*Nagroda Bohatera:* Kiedy Żarłoczna Głowa opuszcza pole walki, każdy gracz "
+"zyskuje 2 życia i dobiera kartę."
+
+# 96b44785bc284820bc475d8ceb332503
+#: ../../THS_hydra.rst:62
+msgid "Savage Vigor Head"
+msgstr "Savage Vigor Head (Głowa Pierwotnego Wigoru)"
+
+# 7172026a7ae14d9888a1e2d73fe1810e
+#: ../../THS_hydra.rst:60
+msgid ""
+"At the beginning of the Hydra's end step, reveal the top card of the Hydra's "
+"library and the Hydra casts that card."
+msgstr ""
+"Na początku kroku końcowego Hydry ujawnij wierzchnią kartę z biblioteki "
+"Hydry i Hydra rzuca ową kartę."
+
+# cbe98729fa314417b47161f96816eec1
+#: ../../THS_hydra.rst:62
+msgid ""
+"*Hero's Reward* — When Savage Vigor Head leaves the battlefield, each player "
+"gains 4 life and draws a card."
+msgstr ""
+"*Nagroda Bohatera:* Kiedy Głowa Pierwotnego Wigoru opuszcza pole walki, "
+"każdy gracz zyskuje 4 życia i dobiera kartę."
+
+# d8d481b3fa974e089516caf1068087c3
+#: ../../THS_hydra.rst:67
+msgid "Shrieking Titan Head"
+msgstr "Shrieking Titan Head (Skrzecząca Głowa)"
+
+# 07007927965a46ddbb7629f6bd20368b
+#: ../../THS_hydra.rst:65
+msgid "At the beginning of the Hydra's end step, each player discards a card."
+msgstr "Na początku kroku końcowego Hydry każdy gracz odrzuca kartę."
+
+# aaea0d8d82a04b77a180c8b229252dd2
+#: ../../THS_hydra.rst:67
+msgid ""
+"*Hero's Reward* — When Shrieking Titan Head leaves the battlefield, each "
+"player gains 4 life and draws a card."
+msgstr ""
+"*Nagroda Bohatera:* Kiedy Skrzecząca Głowa opuszcza pole walki, każdy gracz "
+"zyskuje 4 życia i dobiera kartę."
+
+# d9fa047526df44d7addb645b03e0bec7
+#: ../../THS_hydra.rst:72
+msgid "Snapping Fang Head"
+msgstr "Snapping Fang Head (Głowa z Kłapiącą Paszczą)"
+
+# 19aaeb3963fd4b03ab4d15e7972879e0
+#: ../../THS_hydra.rst:70
+msgid ""
+"At the beginning of the Hydra's end step, Snapping Fang Head deals 1 damage "
+"to each player."
+msgstr ""
+"Na początku kroku końcowego Hydry, Głowa z Kłapiącą Paszczą zadaje 1 "
+"obrażenie każdemu graczowi."
+
+# 94572c846dff431899524ddbd200859e
+#: ../../THS_hydra.rst:72
+msgid ""
+"*Hero's Reward* — When Snapping Fang Head leaves the battlefield, each "
+"player gains 4 life and draws a card."
+msgstr ""
+"*Nagroda Bohatera:* Kiedy Głowa z Kłapiącą Paszczą opuszcza pole walki, "
+"każdy gracz zyskuje 4 życia i dobiera kartę."
+
+# 79b854521ac04e00a02a82150b1aeb2e
+#: ../../THS_hydra.rst:75
+msgid "Sorceries"
+msgstr "Obrzędy"
+
+# d547c0b9afab4e198210534efdae20f1
+#: ../../THS_hydra.rst:78
+msgid "Disorienting Glower"
+msgstr "Disorienting Glower (Dezorientujący Poblask)"
+
+# 304e9faf0cfa43de87fa97599fc1780b
+#: ../../THS_hydra.rst:78
+msgid "Players cant' cast spells until the Hydra's next turn."
+msgstr "Do początku następnej tury Hydry gracze nie mogą rzucać czarów."
+
+# 6a140bcef68b4083a836fb8d63452c95
+#: ../../THS_hydra.rst:83
+msgid "Distract the Hydra"
+msgstr "Distract the Hydra (Rozprosz Hydrę)"
+
+# 434b010c6980461dab5370fb8e5f06e4
+#: ../../THS_hydra.rst:81
+msgid ""
+"Each player may sacrifice a creature. Each player who sacrificed a creature "
+"this way chooses a Head and taps it. Each player who didn't sacrifice a "
+"creature loses 3 life."
+msgstr ""
+"Każdy gracz może poświęcić stwora. Każdy gracz, który poświęcił w ten sposób "
+"stwora wybiera Głowę i zużywa ją. Każdy gracz, który nie poświęcił stwora "
+"traci 3 życia."
+
+# 8b6da17a449845ec9c11e31b406bd8e1
+#: ../../THS_hydra.rst:88
+msgid "Grown from the Stump"
+msgstr "Grown from the Stump (Odrosła z Kikuta)"
+
+# a41a977905ea46659a47bf062a8b2719
+#: ../../THS_hydra.rst:86
+msgid ""
+"Put exactly two cards named Hydra Head onto the battlefield from the Hydra's "
+"graveyard. If you can't, reveal cards from the top of the Hydra's library "
+"until you reveal a Head card. Put that card onto the battlefield and the "
+"rest into the Hydra's graveyard."
+msgstr ""
+"Połóż na polu walki dokładnie dwie karty nazwane Głowa Hydry z cmentarza "
+"Hydry. Jeśli nie możesz, ujawniaj karty z wierzchu biblioteki Hydry dopóki "
+"nie ujawnisz karty Głowy. Połóż ową kartę na polu walki, a pozostałem umieść "
+"w cmentarzu Hydry."
+
+# 59e1ed28139c41d9b398e81bb3e5c322
+#: ../../THS_hydra.rst:91
+msgid "Hydra's Impenetrable Hide"
+msgstr "Hydra's Impenetrable Hide (Skóra Nie Do Przebicia)"
+
+# 5ac5af9e796e40f388982f2d5608057f
+#: ../../THS_hydra.rst:91
+msgid "Each Head gains indestructible until the end of the Hydra's next turn."
+msgstr "Każda Głowa zyskuje niezniszczalność do końca następnej tury Hydry."
+
+# 91dd61f0c4ac4cebbfb7db02c16f2f50
+#: ../../THS_hydra.rst:95
+msgid "Neck Tangle"
+msgstr "Neck Tangle (Splątane Szyje)"
+
+# 1f11e94899e34e99ab3c696560799535
+#: ../../THS_hydra.rst:94
+msgid ""
+"If there are five or more Heads on the battlefield, tap two of them and they "
+"don't untap during the Hydra's next untap step. Otherwise, reveal the top "
+"card of the Hydra's library and the Hydra casts that card."
+msgstr ""
+"Jeśli na polu walki jest pięć lub więcej Głów, zużyj dwie z nich i nie "
+"odświeżą się one w następnym kroku odświażania Hydry. W przeciwnym razie "
+"ujawni wierzchnią kartę z biblioteki Hydry i Hydra rzuca tę kartę."
+
+# 8bb34e94dea74674948b8bb6367734ea
+#: ../../THS_hydra.rst:98
+msgid "Noxious Hydra Breath"
+msgstr "Noxious Hydra Breath (Trujący Dech Hydry)"
+
+# fe1959ca51cf44e9815a195c835b28b8
+#: ../../THS_hydra.rst:98
+msgid ""
+"Choose one — Noxious Hydra Breath deals 5 damage to each player; or destroy "
+"each tapped non-Head creature."
+msgstr ""
+"Wybierz jedno: Trujący Dech Hydry zadaje 5 obrażeń każdemu graczowi; albo "
+"zniszcz każdego zużytego stwora nie będącego Głową."
+
+# bf3d1e684fd541e3a804a50c649e14c4
+#: ../../THS_hydra.rst:101
+msgid "Strike the Weak Spot"
+msgstr "Strike the Weak Spot (Uderz w Czuły Punkt)"
+
+# cccc12b3ae5042d2b4d02c3ba8d32ad9
+#: ../../THS_hydra.rst:101
+msgid ""
+"Destroy target Head. If that Head was elite, the Hydra takes an extra turn "
+"after this one."
+msgstr ""
+"Zniszcz wskazaną Głowę. Jeśli owa głowa jest elitarna, Hydra bierze "
+"dodatkową turę po tej."
+
+# 3e6dd54d96d0438792448d3b7462f72d
+#: ../../THS_hydra.rst:105
+msgid "Swallow the Hero Whole"
+msgstr "Swallow the Hero Whole (Połknij Bohatera w Całości)"
+
+# f25b10a60a5a49b496329978b99bb40f
+#: ../../THS_hydra.rst:104
+msgid ""
+"Each player exiles a creature he or she controls. Until the Hydra's next "
+"turn, when a Head leaves the battlefield, return the exiled cards to the "
+"battlefield under their owners' control."
+msgstr ""
+"Każdy gracz wypędza stwora, którym włada. Jeśli do końca następnej tury pole "
+"walki opuści Głowa, zwróć wypędzone karty na pole walki pod władaniem ich "
+"właścicieli."
+
+# 908428a97d454320ba90dab331e1c9e7
+#: ../../THS_hydra.rst:108
+msgid "Torn Between Heads"
+msgstr "Torn Between Heads (Rozdarty Między Głowami)"
+
+# ecc3d156bfdb41b4bebe5d2552c22b67
+#: ../../THS_hydra.rst:108
+msgid ""
+"Tap up to two Heads. They don't untap during the Hydra's next untap step. "
+"Torn Between Heads deals 5 damage to each player."
+msgstr ""
+"Zużyj najwyżej dwie Głowy. Nie odświeżą się one w następnym kroku "
+"odświeżania Hydry. Rozdarty Między Głowami zadaje 5 obrażeń każdemu "
+"graczowi."
+
+# 39650ff6a4654260a6ca25c06d6c095a
+#: ../../THS_hydra.rst:110
+msgid "Unified Lunge"
+msgstr "Unified Lunge (Jednoczesny Cios)"
+
+# 0abf97729a5e4c28aa66c806ef421c98
+#: ../../THS_hydra.rst:111
+msgid ""
+"Unified Lunge deals X damage to each player, where X is the number of Heads "
+"on the battlefield."
+msgstr ""
+"Jednoczesny Cios zadaje X obrażeń każdemu graczowi, gdzie X jest liczbą Głów "
+"na polu walki."

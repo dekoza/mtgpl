@@ -3,38 +3,50 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Tłumaczenie gry Magic: The Gathering
-====================================
+**************************************
+ Tłumaczenie gry Magic: The Gathering
+**************************************
 
-Instrukcja
-----------
+
+Instrukcje
+==========
 
 :doc:`Podręcznik Magic 2014<M14_Rulebook>` (45%)
 
+:doc:`Zasady formatu Commander (Dowódca)<commander>` (0%)
+
 Tłumaczenie dodatków
---------------------
+====================
 
 * :doc:`Return to Ravnica<RTR>` (100%)
 * :doc:`Gatecrash<GTC>` (100%)
 * :doc:`Dragons' Maze<DGM>` (100%)
 * :doc:`Magic 2014 Core Set<M14>` (100%)
 * :doc:`Theros<THS>` (100%)
+* *Commander 2013* (w przygotowaniu)
 
-  Specjalne karty:
 
-  * :doc:`Bohaterowie<THS_heroes>` (100%)
-  * :doc:`Staw czoła Hydrze<THS_hydra>` (100%)
+Specjalne karty
+---------------
+
+* :doc:`Bohaterowie<THS_heroes>` (100%)
+* :doc:`Staw czoła Hydrze<THS_hydra>` (100%)
 
 
 Warto przeczytać
-----------------
+================
 
 * :doc:`Uzasadnienie tłumaczeń<rationale>`
 * :doc:`Nowe sposoby gry<game_variants>`
 * :doc:`Polskie lądy i żetony<polish_cards>`
 
+
+Ostatnie zmiany
+===============
+Proszę zajrzeć do pliku :doc:`Ostatnie zmiany<changelog>`
+
 Ekipa
------
+=====
 
 Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 
@@ -60,3 +72,7 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
    game_variants
    polish_cards
    symbols
+   changelog
+   commander
+   commander_banned
+   
