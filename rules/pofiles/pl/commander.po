@@ -9,25 +9,27 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-11 10:37+0100\n"
-"PO-Revision-Date: 2013-11-11 22:30+0100\n"
-"Last-Translator: Dominik <Kozaczko>\n"
+"PO-Revision-Date: 2013-11-11 22:56+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1384207017.194412\n"
 
 # d68397803e1a4d3e920ac9c84bc9af1b
 #: ../../commander.rst:5
 msgid "Official Commander Rules"
-msgstr ""
+msgstr "Oficjalne zasady Commandera (Dowódcy)"
 
 # e09f8645f6724da0afc5619edbdd4c93
 #: ../../commander.rst:7
 msgid "Last updated Oct 29th, 2013"
-msgstr ""
+msgstr "Ostatnia aktualizacja: 2013-10-29"
 
 # 7fe96c997fc54aa69bfe2de89fc8c936
 #: ../../commander.rst:9
@@ -36,6 +38,10 @@ msgid ""
 "which emphasises social interactions, interesting games, and creative "
 "deckbuilding. It can be played 1-on-1 but is usually multiplayer."
 msgstr ""
+"Commander (Dowódca) jest aktualną nazwą dla EDH, formatu gry Magic: The "
+"Gathering, który stawia na interakcje społeczne, interesującą grę oraz "
+"twórcze budowanie talii. Może być grany 1-na-1, ale zwykle grany jest w "
+"trybie wieloosobowym."
 
 # 8a4e0d07d84e4b9e8167603cb1a979c6
 #: ../../commander.rst:11
@@ -45,16 +51,20 @@ msgid ""
 "version exists so that players know what to expect if they join a game "
 "outside their local play area."
 msgstr ""
+"Strona ta zawiera zasady wspólne dla większości grup. Lokalne społeczności "
+"często grają według własnych zasad - i jest to zalecane - jednakże niniejszy "
+"konsensusowy zbiór zasad istnieje po to, by gracze wiedzieli, czego się "
+"spodziewać dołączając do gry poza swoją lokalną grupą."
 
 # 5c56ff9469af49eeb6f5b1cc8cef167f
 #: ../../commander.rst:16
 msgid "Philosophy"
-msgstr ""
+msgstr "Filozofia"
 
 # 47a48294ea6947968982e884bd022eeb
 #: ../../commander.rst:18
 msgid "Commander is designed to promote social games of magic."
-msgstr ""
+msgstr "Commander jest stworzony, by promować towarzyskie rozgrywki w Magic."
 
 # a595281794d84f5abe75bc13800db6f2
 #: ../../commander.rst:20
@@ -67,6 +77,12 @@ msgid ""
 "the game and before it begins, discussing with other players what they "
 "expect/want from the game."
 msgstr ""
+"Gra się weń na wiele sposobów w zależności od upodobań graczy, ale ogólna "
+"wizja spaja globalną społeczność pomagając cieszyć się innym rodzajem gry w "
+"Magic. Wizja ta oparta jest na kontrakcie społecznym - dżentelmeńskiej "
+"umowie sięgającej poza te zasady i mającej na celu określony stopień "
+"interakcji pomiędzy graczami. Gracze powinni dyskutować zarówno w trakcie "
+"gry, jak i przed nią, omawiając swoje oczekiwania wobec gry."
 
 # 773ca42447964cf4a884a30e84d8b9f0
 #: ../../commander.rst:22
@@ -74,17 +90,19 @@ msgid ""
 "House rules or \"fair play\" exceptions are always encouraged if they result "
 "in more fun for the local community."
 msgstr ""
+"Zaleca się stosowanie zasad \"fair play\" oraz lokalnych zwyczajów jeśli "
+"skutkują one większą frajdą dla lokalnej społeczności."
 
 # 9020686742ec47fb952f31c853cc777d
 #: ../../commander.rst:28
 msgid "Deck Construction Rules"
-msgstr ""
+msgstr "Zasady budowy talii"
 
 # 0da3c306d9c545da8d1933e4787528df
 #: ../../commander.rst:30
 msgid ""
 "Players must choose a legendary creature as the \"Commander\" for their deck."
-msgstr ""
+msgstr "Gracze muszą wybrać legendarnego stwora jako \"Dowódcę\" swojej talii."
 
 # 4c844af3d90e4b3091bf1873d2160e38
 #: ../../commander.rst:32
@@ -112,7 +130,7 @@ msgstr ""
 #: ../../commander.rst:36
 msgid ""
 "A deck's commander is also known as its \"General\" for historical reasons."
-msgstr ""
+msgstr "Z historycznych powodów dowódca talii zwany jest także \"Generałem\"."
 
 # 270ef71e6e054ea2aacbf9e9915dde9e
 #: ../../commander.rst:38
@@ -121,12 +139,17 @@ msgid ""
 "in the card's rules text. A card's colour identity is established before the "
 "game begins, and cannot be changed by game effects."
 msgstr ""
+"*Tożsamość kolorystyczna* karty to jej kolor plus kolory wszystkich symboli "
+"many użytych w zasadach karty. Owa tożsamość jest ustalana zanim gra się "
+"rozpocznie i nie może być w żaden sposób zmieniana w trakcie gry."
 
 # 33c5e78a27ed4bc5a654a4b5415a9919
 #: ../../commander.rst:40
 msgid ""
 "The Commander's colour identity restricts what cards may appear in the deck."
 msgstr ""
+"Tożsamość kolorystyczna Dowódcy określa, jakie karty mogą pojawić się w "
+"talii."
 
 # 856ea096f842401596ee70dbe38b8283
 #: ../../commander.rst:42
@@ -135,6 +158,9 @@ msgid ""
 "shared with the commander of the deck. (The identity of each card in the "
 "deck must be a subset of the General's)"
 msgstr ""
+"Żadna z kart w talii nie może zawierać w swojej tożsamości kolorów, których "
+"nie posiada dowódca talii. (Tożsamość każdej karty w talii musi być "
+"podzbiorem tożsamości Generała)"
 
 # b722bef806504e2abbeded62bf76ae38
 #: ../../commander.rst:43
@@ -220,32 +246,32 @@ msgstr ""
 # d8a7639d6ca746098961ef7fe689b2d5
 #: ../../commander.rst:62
 msgid ":mtgtip:`Underground River` (obvious, see above)"
-msgstr ""
+msgstr ":mtgtip:`Underground River` (oczywiste, patrz wyżej)"
 
 # d2b428b4d12241d7a70652598b4858c8
 #: ../../commander.rst:63
 msgid ":mtgtip:`Godless Shrine`"
-msgstr ""
+msgstr ":mtgtip:`Godless Shrine`"
 
 # 91ba4f2cc4ac44cd944703d48b9bdc9e
 #: ../../commander.rst:64
 msgid ":mtgtip:`Badlands`"
-msgstr ""
+msgstr ":mtgtip:`Badlands`"
 
 # 9e81a6902f6b4c8ab4e317085082f86e
 #: ../../commander.rst:65
 msgid ":mtgtip:`Leechridden Swamp`, etc."
-msgstr ""
+msgstr ":mtgtip:`Leechridden Swamp`, etc."
 
 # d26f4648ae0b42fba059a6bceb9402e9
 #: ../../commander.rst:67
 msgid "Phelddagrif may not call upon :mtgtip:`Boros Guildmage` for help"
-msgstr ""
+msgstr "Phelddagrif nie może przywołać na pomoc :mtgtip:`Boros Guildmage`'a"
 
 # 9c54b3dc5c4347b194882ee9f39cd046
 #: ../../commander.rst:68
 msgid "Phelddagrif IS allowed to use:"
-msgstr ""
+msgstr "Phelddagrif MOŻE używać:"
 
 # c440ecfed81348ffb3637002cb856c6a
 #: ../../commander.rst:70
@@ -305,7 +331,7 @@ msgstr ""
 # 769ac1533c6448e6b88d16081cd98145
 #: ../../commander.rst:85
 msgid "Play Rules"
-msgstr ""
+msgstr "Zasady rozgrywki"
 
 # ad0caccf6481462b98528c57fa7c0e62
 #: ../../commander.rst:87
@@ -329,7 +355,7 @@ msgstr ""
 # 5b08b45df73648e78e7d7dae1b7256c8
 #: ../../commander.rst:91
 msgid "Each player draws a hand of seven cards."
-msgstr ""
+msgstr "Każdy gracz dobiera siedem kart do ręki."
 
 # 79049e57c1694a3c93a8349d982f55a6
 #: ../../commander.rst:92
@@ -435,6 +461,8 @@ msgid ""
 "If a Commander would be put into a graveyard or exile from anywhere, its "
 "owner may choose to move it to the command zone instead. Details"
 msgstr ""
+"Jeśli Dowódca miałby skądkolwiek trafić do cmentarza lub na wygnanie, jego "
+"właściciel może wybrać, by zamiast tego przesunąć go do strefy dowodzenia."
 
 # f3e3efa5fc5d40e48fda15e6f1068c25
 #: ../../commander.rst:114
@@ -442,6 +470,8 @@ msgid ""
 "This is a replacement effect; the creature never goes to the graveyard and "
 "will not trigger such abilities."
 msgstr ""
+"Jest to efekt zastępujący; stwór nigdy nie trafia do cmentarza i nie "
+"uruchamia powiązanych z tym faktem zdolności."
 
 # 3bf4890c92b34027a864b8ba65aa0a3a
 #: ../../commander.rst:115
@@ -449,6 +479,8 @@ msgid ""
 "Commanders will move to the library or hand as normal; only transitions to "
 "Exile or the Graveyard may be replaced."
 msgstr ""
+"Dowódcy trafiają do biblioteki lub ręki na normalnych zasadach; tylko "
+"przejścia do Wygania i Cmentarza mogą być zastąpione."
 
 # 1b059ee5c5ac4089b2e7490e68cc2e58
 #: ../../commander.rst:117

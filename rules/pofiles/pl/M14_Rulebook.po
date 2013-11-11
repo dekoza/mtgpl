@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-30 12:49+0200\n"
-"PO-Revision-Date: 2013-09-30 23:11+0200\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
+"PO-Revision-Date: 2013-10-12 12:41+0200\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
-"X-POOTLE-MTIME: 1380512558.889060\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1381578119.940258\n"
 
 # 2aec65355537478395fe2b1bff86626d
 # 9eae85a8cc75401990e1ded7ffda9afb
@@ -173,7 +173,7 @@ msgid "Each color of mana fuels a different kind of powerful magic for you to co
 msgstr ""
 "Każdy kolor many zasila inny rodzaj potężnej magii, którą możesz władać. "
 "Przykładowo czerwone czary mają |mana_r| w koszcie, a zaznaczenie "
-"(obrócenie) Góry daje |mana_r|, którą możesz użyć do rzucania czaru. Od "
+"(obrócenie) Góry daje |mana_r|, które możesz użyć do rzucania czarów. Od "
 "ciebie zależy, czy opanujesz jeden kolor, czy wszystkie pięć."
 
 # 2af795962e644bfeacb4e361a19e3f92
@@ -356,9 +356,9 @@ msgid "This tells you the card's :term:`card type<card type gl>`: artifact, crea
 msgstr ""
 "Tutaj znajduje się informacja o :term:`typie karty<card type gl>`: artefakt, "
 "stwór, urok, sztuczka, ląd, wędrowiec lub obrzęd. Jeśli karta ma "
-":term:`podtyp<subtype gl>` lub :term:`nadtyp<supertype gl>`, ta informacja "
-"też się tutaj znajduje. Przykładowo Smok z Shiv jest stworem, a jego "
-"podtypem jest Smok."
+":term:`podtyp<subtype gl> lub :term:`nadtyp<supertype gl>, ta informacja też "
+"się tutaj znajduje. Przykładowo Smok z Shiv jest stworem, ja jego podtypem "
+"jest Smok."
 
 # 1c14a47e747141a09fb0d3397cee9b82
 # 0b33465e3a0447f389d18a5a7c21ec5b
@@ -1195,8 +1195,8 @@ msgstr ""
 "artefakty, uroki i wędrowcy także wchodzą na pole walki po ich rozpatrzeniu. "
 "Możesz dowolnie rozmieszczać swoje stałki (zalecamy umieszczanie lądów "
 "bliżej siebie), ale twoi przeciwnicy muszą mieć możliwość zobaczenia ich "
-"wszystkich i określenia czy są *zaznaczone*. Ta strefa jest współdzielona "
-"przez obu graczy."
+"wszystkich i określenia czy są *zużyte*. Ta strefa jest współdzielona przez "
+"obu graczy."
 
 # 89ff6d5f3b3c43759542188764ce1a52
 # b3cd545e2fec43498ec1e43ea2da0dd0
@@ -1358,7 +1358,7 @@ msgstr "Rodzaj lądu podstawowego"
 # 7b9f851cab2f4742abbf222e55ff9edf
 #: ../../M14_Rulebook.rst:370
 msgid "Can be tapped for"
-msgstr "Zaznaczenie daje"
+msgstr "Zużycie pozyskuje"
 
 # d8c7c5a1d17441e1bdb146b8c494aa7d
 # d5bfe9e78c68468b8bc50d955fde066e
@@ -1500,9 +1500,9 @@ msgstr "Zaznaczanie"
 #: ../../M14_Rulebook.rst:392
 msgid "To tap a card is to turn it sideways. You do this when you use a land to make mana, when you attack with a creature, or when you activate an ability that has the |tap| symbol as part of its cost (|tap| means \"tap this permanent\")."
 msgstr ""
-"Aby zaznaczyć kartę, należy ustawić ją bokiem. Robisz tak, kiedy używasz "
-"lądu do produkcji many, kiedy atakujesz stworem lub gdy aktywujesz zdolność, "
-"która ma |tap| w swoim koszcie (|tap| oznacza \"zaznacz tę stałkę\")."
+"Aby zużyć kartę, należy ustawić ją bokiem. Robisz tak, kiedy używasz lądu do "
+"produkcji many, kiedy atakujesz stworem lub gdy aktywujesz zdolność, która "
+"ma |tap| w swoim koszcie (|tap| oznacza \"zużyj tę stałkę\")."
 
 # 913c138a062944f1a695fa6089e110d1
 # 57fc66a9229842e59f0897a0ba9f6e39
@@ -1514,8 +1514,8 @@ msgstr ""
 #: ../../M14_Rulebook.rst:396
 msgid "When a permanent is tapped, that usually means it's been used for the turn. You can't tap it again until it's been *untapped* (straightened out)."
 msgstr ""
-"Kiedy stałka jest zaznaczona, zwykle oznacza to, że została już użyta w tej "
-"turze. Nie możesz jej ponownie zaznaczyć dopóki nie zostanie *odznaczona* "
+"Kiedy stałka jest zużyta, zwykle oznacza to, że została już wykorzystana w "
+"tej turze. Nie możesz jej ponownie zużyć dopóki nie zostanie *odświeżona* "
 "(wyprostowana)."
 
 # b4fbcfe3f3ff4600ac10118c0e6a3c40
@@ -1528,8 +1528,8 @@ msgstr ""
 #: ../../M14_Rulebook.rst:399
 msgid "At the beginning of each of your turns, you untap your tapped cards so you can use them again."
 msgstr ""
-"Na początku każdej ze swoich tur, odznaczasz swoje zaznaczone karty, żeby "
-"móc ich ponownie użyć."
+"Na początku każdej ze swoich tur, odświeżasz swoje zużyte karty, żeby móc z "
+"nich znowu korzystać."
 
 # ca7441ed23104025b9cbf02f68b372cb
 # df683706939e4562ae1eab27bb6bea14
@@ -1609,9 +1609,8 @@ msgstr ""
 #: ../../M14_Rulebook.rst:426
 msgid "Now check what the spell's cost is. Tap your lands to produce the mana necessary to pay that cost, and pay it. Once you do that, the spell has been cast."
 msgstr ""
-"Sprawdź teraz koszt czaru. Zaznacz lądy, by pobrać manę konieczną do "
-"opłacenia tego kosztu i opłać go. W momencie, gdy to zrobisz, czar został "
-"rzucony."
+"Sprawdź teraz koszt czaru. Zużyj lądy, by pobrać manę konieczną do opłacenia "
+"tego kosztu i opłać go. W momencie, gdy to zrobisz, czar został rzucony."
 
 # ebd0562f42a74c458a4682c6e395d682
 # 10d89db69b6e463c9e448d03984c1ae2
@@ -1896,8 +1895,8 @@ msgid "A static ability is text that is always true while that card is on the ba
 msgstr ""
 "Zdolnością statyczną jest tekst, który jest zawsze prawdziwy, dopóki karta "
 "jest na polu walki. Przykładowo Okazały Suweren jest stworem ze zdolnością "
-"\"Stwory władane przez twoich przeciwników wchodzą na pole walki zaznaczone.\" "
-"Nie można aktywować zdolności statycznej. Ona po prostu robi to, co jest "
+"\"Stwory władane przez twoich przeciwników wchodzą na pole walki zużyte.\" Nie "
+"można aktywować zdolności statycznej. Ona po prostu robi to, co jest "
 "napisane."
 
 # 566a75209e7741aea2ea4b268f9c75ec
@@ -2009,8 +2008,8 @@ msgstr ""
 msgid "Some activated abilities contain the |tap| symbol in their costs. This means that you must tap the permanent to activate the ability. You can't activate the ability if the permanent is already tapped."
 msgstr ""
 "Niektóre zdolności zawierają w koszcie symbol |tap|. Oznacza to, że do "
-"aktywacji zdolności musisz zaznaczyć stałkę. Nie możesz aktywować zdolności "
-"jeśli stałka jest już zaznaczona."
+"aktywacji zdolności musisz zużyć stałkę. Nie możesz aktywować zdolności "
+"jeśli stałka jest już zużyta."
 
 # 14d26a130ed44dfdb7f571227ba125f4
 # 562a5cb4c55147c092b610fdee227c67
@@ -2078,11 +2077,10 @@ msgstr ""
 "dowiesz się więcej na temat :ref:`części tury<sec-parts-of-the-turn>`.) W "
 "swojej fazie walki wybierasz, którymi stworami chcesz zaatakować oraz kogo "
 "lub co będą one atakować. Każda może atakować jednego z przeciwników lub "
-"wędrowców, ale nie mogą atakować stworów. Zaznaczasz stwory, którymi "
+"wędrowców, ale nie mogą atakować stworów. Zużywasz stwory, którymi "
 "atakujesz. Wszystkie atakują w tym samym momencie - nawet jeśli atakują "
-"różne cele. Możesz atakować wyłącznie stworem, który nie jest zaznaczony i "
-"tylko jeśli jest on na polu walki pod twoim władaniem od samego początku "
-"tury."
+"różne cele. Możesz atakować wyłącznie stworem, który nie jest zużyty i tylko "
+"jeśli jest on na polu walki pod twoim władaniem od samego początku tury."
 
 # 8d82246a3c234568991e98b1c5512e9e
 # ed7402a5a66548f4832abe0735e7dd94
@@ -2094,9 +2092,9 @@ msgstr ""
 #: ../../M14_Rulebook.rst:597
 msgid "Your opponent chooses which of his or her creatures will block. Tapped creatures can't be declared as blockers. For blocking, it doesn't matter how long the creature has been on the battlefield. Each creature can block only one attacker, but multiple blockers can gang up on a single attacking creature. If that happens, the attacking player orders the blockers to show which is first in line for damage, which is second, and so on. Creatures don't have to block."
 msgstr ""
-"Przeciwnik wybiera stwory, które będą blokować. Zaznaczone stwory nie mogą "
-"być zadeklarowane jako blokujący. Podczas blokowania czas przebywania stwora "
-"na polu walki nie ma znaczenia. Każdy stwór może blokować tylko jednego "
+"Przeciwnik wybiera stwory, które będą blokować. Zużyte stwory nie mogą być "
+"zadeklarowane jako blokujący. Podczas blokowania czas przebywania stwora na "
+"polu walki nie ma znaczenia. Każdy stwór może blokować tylko jednego "
 "atakującego, ale wielu blokujących może równocześnie blokować jednego "
 "atakującego stwora. Gdy tak się stanie, atakujący gracz ustawia blokujących "
 "w kolejności, by określić który otrzyma obrażenia jako pierwszy, drugi itd. "
@@ -2239,9 +2237,9 @@ msgstr "Deklaracja atakujących"
 #: ../../M14_Rulebook.rst:633
 msgid "The attacking player attacks with his three biggest creatures and taps them. He doesn't attack with the smallest because it's too easy to destroy, and it might be useful for blocking on the opponent's next turn."
 msgstr ""
-"Atakujący gracz wyznacza do ataku swoje trzy największe stwory i zaznacza "
-"je. Nie atakuje najmniejszymi, bo zbyt łatwo je zniszczyć, a mogą się "
-"przydać do blokowania w turze przeciwnika."
+"Atakujący gracz wyznacza do ataku swoje trzy największe stwory i zużywa je. "
+"Nie atakuje najmniejszymi, bo zbyt łatwo je zniszczyć, a mogą się przydać do "
+"blokowania w turze przeciwnika."
 
 # 7cd63f65f9eb454e9124d6de0496f5e2
 # 62b828317100478a8f1e0b9a89ee55f7
@@ -2389,13 +2387,14 @@ msgstr ""
 #: ../../M14_Rulebook.rst:671
 msgid "Once they build up their collections, Magic players often choose to build different decks for different formats. Formats are defined by what cards can be played in them. The most popular Magic format is called Standard. It uses only the newest sets the game has to offer. The current block, the block that was released the previous October, and the most recent core set are all legal to play in a Standard deck. Standard events are available all year, worldwide. When you're ready to start exploring other Magic formats, go to `Wizards.com/MagicFormats`_ for more information."
 msgstr ""
-"Kiedy już stworzą swoje kolekcje, gracze często budują różne talie dla "
-"różnych formatów. Format jest definiowany przez karty, którymi można w nim "
-"grać. Najpopularniejszy format gry w Magic zwany jest Standardem. "
-"Wykorzystuje tylko najnowsze zestawy dostępne do gry - można w nim grać "
-"kartami z bieżącego i poprzedniego bloku oraz najnowszej podstawki. Turnieje "
-"w Standardzie odbywają się na całym świecie przez cały rok. Gdy będziesz "
-"gotów sprawdzić inne formaty Magic, wejdź na stronę "
+"Po zbudowaniu swojej kolekcji, gracze często decydują się na stworzenie "
+"różnych talii do różnych formatów. Formaty określają, jakich kart można w "
+"nich używać. Najpopularniejszy format nazywa się Standard. W nim korzysta "
+"się tylko z najnowszych dodatków, jakie oferuje gra. W talii do formatu "
+"Standard możesz korzystać z kart z aktualnego bloku, bloku, który miał "
+"premierę w październiku zeszłego roku i najnowszej edycji podstawowej. "
+"Turnieje w formacie Standard odbywają się przez cały rok i na całym świecie. "
+"Kiedy będziesz gotowy, aby poznać inne formaty, poszukaj informacji na "
 "`Wizards.com/MagicFormats`_."
 
 # e1ab2583e88849f6b8c8bf0a64a0fa29
@@ -2420,9 +2419,9 @@ msgstr "Złota Zasada"
 msgid "When a Magic card contradicts the rulebook, the card wins. For example, the rules say creatures enter the battlefield untapped. But Imposing Sovereign is a creature that says \"Creatures your opponents control enter the battlefield tapped.\" Imposing Sovereign changes the rules as long as it's on the battlefield. One of the things that makes the Magic game fun to play is that there are individual cards that let you break almost every rule."
 msgstr ""
 "Kiedy treść karty stoi w sprzeczności z podręcznikiem, karta wygrywa. "
-"Przykładowo zasady mówią, że stwory wchodzą na pole walki odznaczone. "
-"Jednakże Okazały Suweren jest stworem, który mówi \"Stwory twoich "
-"przeciwników wchodzą na pole walki zaznaczone.\" Okazały Suweren zmienia "
+"Przykładowo zasady mówią, że stwory wchodzą na pole walki odświeżone. "
+"Jednakże Imposing Sovereign jest stworem, który mówi \"Stwory twoich "
+"przeciwników wchodzą na pole walki jako zużyte.\" Imposing Sovereign zmienia "
 "zasady tak długo, jak jest na polu walki. Istnieją karty, które pozwalają "
 "złamać niemal każdą zasadę i jest to jedna z tych rzeczy, które sprawiają, "
 "że gra w Magic jest tak emocjonująca."
@@ -2442,6 +2441,12 @@ msgstr "Rozdział 3: Rozgrywka"
 #: ../../M14_Rulebook.rst:695
 msgid "Now that you know the elements of the game and how to perform the main actions, it's time to walk through a turn. This section describes what happens in each part of a turn. In a typical game, you'll skip many of these parts (for example, nothing usually happens in the \"beginning of combat\" step). An actual Magic game is pretty casual, despite how complex the structure may seem."
 msgstr ""
+"Teraz, kiedy już znasz podstawy gry i wiesz, jak wykonać najważniejsze "
+"akcje, czas, abyś zobaczył, jak wygląda tura. Ta sekcja opisze, co dzieje "
+"się w każdej części tury. W typowej grze możesz opuścić wiele z tych części "
+"(przykładowo, w kroku \"rozpoczęcia bitwy\" zazwyczaj nic się nie dzieje). "
+"Choć może wydawać się bardzo złożona, gra w Magic w rzeczywistości jest "
+"całkiem prosta."
 
 # 545502d5438b4c308e5866dc070b9950
 # 738408ed89fa48269a50e303e4341305
@@ -2525,11 +2530,19 @@ msgstr ""
 #: ../../M14_Rulebook.rst:724
 msgid "Decide which player will go first. If you've just played the same opponent, the loser of the last game decides who goes first. Otherwise, roll a die or flip a coin to see who gets to decide."
 msgstr ""
+"Zdecydujcie, który gracz zacznie. Jeśli już grałeś z tym przeciwnikiem, "
+"przegrany z ostatniej gry wybiera, kto zacznie. W innym przypadku, rzućcie "
+"monetą lub kostką, żeby zobaczyć, kto zacznie."
 
 # 83da7a2d198346659fb2722ae5483e61
 #: ../../M14_Rulebook.rst:727
 msgid "Each player shuffles his or her deck, then draws a hand of seven cards to start. If you don't like your opening hand, you can mulligan. Shuffle your hand back into your deck and draw a new hand of six cards. You can keep doing this, drawing a hand of one fewer card each time, until you decide to keep your cards."
 msgstr ""
+"Każdy gracz tasuje swoją talię, po czym dobiera na rękę siedem kart, z "
+"którymi zacznie grę. Jeśli twoja startowa ręką ci się nie podoba, możesz "
+"\"wziąć mulligana\". Wtasuj rękę z powrotem do talii i dobierz nową, tym razem "
+"z sześciu kart. Możesz to powtarzać, za każdym razem dobierając o jedną "
+"kartę mniej, aż postanowisz zatrzymać swoje karty."
 
 # 8f7fe04d94d4480ab52e7f43739394c3
 # 448ec2319928456da107b6e5c85e6fc8
@@ -2604,7 +2617,7 @@ msgstr "Faza początkowa"
 #: ../../M14_Rulebook.rst:747
 #: ../../M14_Rulebook.rst:2061
 msgid "Untap step"
-msgstr "Krok odznaczania"
+msgstr "Krok odświeżania"
 
 # b7b651a6b78f4b0c84976d6d7fcd64ac
 # 69856765256440419f9ad5e65ef2cde8
@@ -2616,9 +2629,9 @@ msgstr "Krok odznaczania"
 #: ../../M14_Rulebook.rst:749
 msgid "You untap all your tapped permanents. On the first turn of the game, you don't have any permanents, so you just skip this step. No one can cast spells or activate abilities during this step."
 msgstr ""
-"Odznacz (wyprostuj) wszystkie swoje zaznaczone stałki. Podczas pierwszej "
-"tury gry nie masz jeszcze żadnych stałek, więc po prostu pomijasz ten krok. "
-"Nikt nie może rzucać czarów ani aktywować zdolności w trakcie tego kroku."
+"Odśwież (wyprostuj) wszystkie swoje zużyte stałki. Podczas pierwszej tury "
+"gry nie masz jeszcze żadnych stałek, więc po prostu pomijasz ten krok. Nikt "
+"nie może rzucać czarów ani aktywować zdolności w trakcie tego kroku."
 
 # b7089a042f08477ab9e5bc9620b13bb1
 # 2f88ab8f8ef04a0281f57519ffb55ab0
@@ -2781,6 +2794,10 @@ msgstr "Krok deklarowania atakujących"
 #: ../../M14_Rulebook.rst:784
 msgid "You decide which, if any, of your untapped creatures will attack and which player or planeswalker they will attack. Then they do so. This taps the attacking creatures. Players can then cast instants and activate abilities."
 msgstr ""
+"Decydujesz, które - jeśli jakiekolwiek - z twoich nieużytych stworów będą "
+"atakować i którego gracza lub wędrowca zaatakują. Potem to robią. To zużywa "
+"atakujące stwory. Następnie, gracze mogą rzucać sztuczki i aktywować "
+"zdolności."
 
 # 9bf8154d28e24e42b956805a3920ed4f
 # b124b5fc5710455c9ccc1dad1d015065
@@ -2797,6 +2814,11 @@ msgstr "Krok deklarowania blokujących"
 #: ../../M14_Rulebook.rst:791
 msgid "Your opponent decides which, if any, of his or her untapped creatures will block your attacking creatures, then they do so. If multiple creatures block a single attacker, you order the blockers to show which is first in line for damage, which is second, and so on. Players can then cast instants and activate abilities."
 msgstr ""
+"Twój przeciwnik decyduje, które - jeśli jakiekolwiek - z jego niezużytych "
+"stworów będą blokowac twoje atakujące stwory, po czym to robią. Jeśli kilka "
+"stworów blokuje jednego atakującego, wyznaczasz kolejność, w jakiej te "
+"stwory otrzymają obrażenia. Następnie, gracze mogą rzucać sztuczki i "
+"aktywować zdolności."
 
 # 0167f266686b4c18a8cafaac63ddd18b
 # 6b7b9c9b96d94a3db61074a886ef2234
@@ -2823,6 +2845,17 @@ msgstr "Krok obrażeń bojowych"
 #: ../../M14_Rulebook.rst:799
 msgid "Each attacking or blocking creature that's still on the battlefield assigns its combat damage to the defending player (if it's attacking that player and wasn't blocked), to a planeswalker (if it's attacking that planeswalker and wasn't blocked), to the creature or creatures blocking it, or to the creature it's blocking. If an attacking creature is blocked by multiple creatures, you divide its combat damage among them by assigning at least enough damage to the first blocking creature in line to destroy it before assigning damage to the next one in line, and so on. Once players decide how the creatures they control will deal their combat damage, the damage is all dealt at the same time. Players can then cast instants and activate abilities."
 msgstr ""
+"Każdy atakujący lub blokujący stwór, który nadal jest na polu walki, "
+"przydziela swoje obrażenia bojowe broniącemu się graczowi(jeśli stwór "
+"atakuje gracza i nie został zablokowany), wędrowcowi(jeśli stwór atakuje "
+"wędrowca i nie został zablokowany), stworowi lub stworom, które go blokują, "
+"albo stworowi, który jest przez niego blokowany. Jeśli atakujący stwór jest "
+"blokowany przez kilka stworów, rozdzielasz pomiędzy nie jego obrażenia "
+"bojowe - przydzielasz co najmniej tyle obrażeń, aby zniszczyć pierwszego "
+"blokującego stwora, następnie przydzielasz obrażenia następnemu, i tak "
+"dalej. Kiedy gracze zdecydują, jak stwory, którymi władają zadadzą swoje "
+"obrażenia, wszystkie obrażenia zostają zadane jednocześnie. Następnie, "
+"gracze mogą rzucać sztuczki i aktywować zdolności.."
 
 # 3cb1870250bd48afb8af47103698923f
 # 5e43017a1a034b189af909151941da6e
@@ -2860,6 +2893,10 @@ msgstr "Gracze mogą rzucać sztuczki i aktywować zdolności."
 #: ../../M14_Rulebook.rst:817
 msgid "Your second main phase is just like your first main phase. You can cast every type of spell and activate abilities, but your opponent can only cast instants and activate abilities. You can play a land during this phase if you didn't during your first main phase."
 msgstr ""
+"Twoja druga faza główna wygląda tak, jak pierwsza. Możesz rzucać dowolne "
+"czary i aktywować zdolności, ale twój przeciwnik może tylko rzucać sztuczki "
+"i aktywować zdolności. Jeśli w swojej pierwszej fazie głównej nie zagrałeś "
+"lądu, możesz zagrać go teraz."
 
 # 30d719313362496caa9de36995b853c5
 # ced096e146b545f880a26ec5cc6205e6
@@ -2958,7 +2995,7 @@ msgstr "Następna tura"
 #: ../../M14_Rulebook.rst:840
 msgid "Now it's your opponent's turn. That player untaps his or her permanents and goes from there. After that player is done, it will be your turn again. Keep going until a player is reduced to 0 life. As soon as a player has 0 life, the game ends immediately and the other player wins!"
 msgstr ""
-"Teraz następuje tura przeciwnika. Odznacza on swoje stałki i wszystko się "
+"Teraz następuje tura przeciwnika. Odświeża on swoje stałki i wszystko się "
 "powtarza. Kiedy przeciwnik skończy, znów nastąpi twoja tura. Powtarzajcie "
 "dopóki punkty życia któregoś z graczy nie zostanie sprowadzone do 0. W "
 "chwili, gdy któryś z graczy ma 0 życia gra natychmiast się kończy i wygrywa "
@@ -2979,6 +3016,16 @@ msgstr "Ciągle zmieniająca się gra"
 #: ../../M14_Rulebook.rst:845
 msgid "One of the fascinating aspects of the Magic game is that it changes from turn to turn—and the cards themselves can actually alter the rules of the game. As you play, you'll find nonland cards with abilities that produce mana, and lands that do other things besides produce mana. You'll find creatures with the haste ability, which allows them to attack right away. You'll find creatures with flying and trample, which change the rules of combat. You'll find cards with abilities that work from your graveyard. You'll find cards whose abilities work together for an effect that's much more powerful than either one could achieve alone (such as the combo of Tenacious Dead and Gnawing Zombie). This is a game of discovery, of amazement, of fighting, and of tricks. This is a game of magic."
 msgstr ""
+"Jedną z fascynujących cech gry w Magic jest to, że zmienia się ona z tury na "
+"turę — a karty potrafią zmieniać jej reguły. Grając, odkryjesz karty nie "
+"będące lądami ze zdolnościami produkującymi manę i lądy, które potrafią coś "
+"więcej niż tylko produkować manę. Odkryjesz stwory ze zdolnością Pośpiechu, "
+"dzięki której mogą od razu atakować. Odkryjesz stwory z Lataniem i "
+"Tratowaniem, które zmieniają zasady walki. Odkryjesz karty, których "
+"zdolności działają w twoim cmentarzu. Odkryjesz karty, których zdolności "
+"wspólnie tworzą efekt znacznie potężniejszy niż ten, który mogłyby osiągnąć "
+"same(jak kombinacja Tenacious Dead i Gnawing Zombie). To gra pełna odkryć, "
+"zdumienia, walki i sztuczek. To magiczna gra."
 
 # 995d923c11fe46e08b0ce2e7afad99db
 # 9db3078f074a420c84f6d6dec1781e7b
@@ -3005,6 +3052,12 @@ msgstr "Formaty ograniczone (Limited)"
 #: ../../M14_Rulebook.rst:868
 msgid "In Limited play, each player builds his or her own deck on the spot out of a number of booster packs. In other words, your deck is made from a limited card pool. Each deck must contain at least 40 cards (rather than the usual 60 for a Constructed deck). The only cards you can play with are the ones opened in those packs, plus any number of basic land cards. (A 40-card deck should have about 17 lands and about 15 creatures.)"
 msgstr ""
+"W turnieju Limited, każdy gracz buduje swoją talię na miejscu z kilku "
+"paczek. Innymi słowy, twoja talia jest stworzona z ograniczonej puli. Każda "
+"talii musi zawierać co najmniej 40 kart (zamiast typowych 60 w talii "
+"konstruowanej). Możesz grać tylko kartami, które otworzyłeś w paczkach, i "
+"dowolną ilością podstawowych lądów. (40-kartowa talia powinna zawierać około "
+"17 lądów i 15 stworów.)"
 
 # 155d13789a714a30a87769c437827ca9
 #: ../../M14_Rulebook.rst:874
@@ -3061,6 +3114,11 @@ msgstr "Warianty wieloosobowe"
 #: ../../M14_Rulebook.rst:896
 msgid "You can play a Magic game with more than two players in it. There are dozens of different ways to do so. Some of the most popular are Two-Headed Giant and Commander, which can be played using only traditional Magic cards from your collection. Other multiplayer variants use oversized cards or a special die to provide a unique experience for your play group."
 msgstr ""
+"W Magic mogą grać więcej niż dwie osoby. Istnieją dziesiątki różnych "
+"sposobów takiej gry. Do najpopularniejszych należą Dwugłowy Gigant i "
+"Dowódca, w które można grać używając jedynie tradycyjnych kart z twojej "
+"kolekcji. Inne warianty korzystają z powiększonych kart lub specjalnych "
+"kości, które zapewnią twojej grupie unikatowe przeżycia."
 
 # c6940f239e084f37b4046e644e05c06b
 # 640866fb2ebf47dcbb8e7a7f5265e885
@@ -3079,6 +3137,12 @@ msgstr "Dwugłowy gigant"
 #: ../../M14_Rulebook.rst:902
 msgid "In a Two-Headed Giant game, you and a teammate play against another two-person team. You and your teammate can show each other your hands and discuss strategy. Your team has a shared life total that starts at 30, you and your teammate have a shared turn, and your team's creatures attack the other team as a group. But you continue to have your own individual library, control your own permanents, spend your own mana, and so on."
 msgstr ""
+"W grze Dwugłowego Giganta, ty i twój partner gracie z inną dwuosobową "
+"drużyną. Możecie pokazywać sobie swoje karty i dyskutować o strategii. Twoja "
+"drużyna ma wspólną pulę żyć, która zaczyna się od 30, wspólnie wykonujecie "
+"turę, a wasze stwory atakują przeciwną drużynę jako całość. Jednak nadal "
+"masz własną bibliotekę, władasz swoimi stałkami, wydajesz własną manę, i tak "
+"dalej."
 
 # 378e1e5540cb4bc1b25e84db55785125
 # c74234d631534fffaf4e9a00f8e3a3f2
@@ -3097,6 +3161,13 @@ msgstr "Dowódca"
 #: ../../M14_Rulebook.rst:912
 msgid "In a Commander game, each player's deck is led by the legendary creature of his or her choice—fittingly, that's the deck's *commander*. The rest of the deck is a specially crafted arsenal of creatures, artifacts, and other spells, designed to reflect the personality of that commander and take advantage of his or her strengths. A Commander game is best enjoyed as a Free-for-All game among 3–6 players, although two-player games are also common. Find out more about this grassroots, player-built format at MTGCommander.net."
 msgstr ""
+"W grze w Dowódcę, talia każdego gracza jest prowadzona przez wybranego przez "
+"niego legendarnego stwora - jego \"generała\". Reszta talii to specjalnie "
+"dobrany arsenał stworów, artefaktów i innych czarów, odzwierciedlających "
+"osobowość tego generała i wykorzystujących jego mocne strony. W Dowódcę "
+"najlepiej gra się w grupie od 3 do 6 graczy, każdy przeciw każdemu, ale "
+"pojedynki też są popularne. Dowiedz się więcej o tym stworzonym przez graczy "
+"formacie na MTGCommander.net."
 
 # a0b3b13da5a1470b80389f9bd200ccf9
 #: ../../M14_Rulebook.rst:923
@@ -3296,8 +3367,8 @@ msgstr ""
 "Ten symbol oznacza \"zaznacz tę kartę\" (przekręć ją w bok, by pokazać, że "
 "została użyta). Pojawia się w kosztach aktywacji. Nie możesz opłacić kosztu "
 "z |tap| jeśli karta jest już zaznaczona. Pamiętaj też, że nie możesz opłacać "
-"kosztu z |tap| stwora, który nie znajdował się na polu walki pod twoim "
-"władaniem na początku twojej tury."
+"kosztu z |tap| stwora, który nie znajdował się na polu walki na początku "
+"twojej tury."
 
 # 8f8b71c5ac0347b3afb30a6fd54cd76b
 # 006faa7c794f42e2b979f41e17545bf2
@@ -5424,7 +5495,7 @@ msgstr "Vigilance / Czujność"
 msgid "A keyword ability seen on creatures. When a creature with vigilance attacks, it doesn't become tapped."
 msgstr ""
 "Zdolność hasłowa obecna na stworach. Kiedy stwór z czujnością atakuje, nie "
-"staje się zaznaczony."
+"staje się zużyty."
 
 # c99fd2e1ace5495cacc57c289da562af
 # 50b8032100344ee4a1afbf47e5f8b53c
