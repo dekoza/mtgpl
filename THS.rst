@@ -234,7 +234,7 @@ Coastline Chimera
 Colossus of Akros
     Defender, indestructible
 
-    |mana_1|0: Monstrosity 10. (If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)
+    |mana_10|: Monstrosity 10. (If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)
 
     As long as Colossus of Akros is monstrous, it has trample and can attack as though it didn't have defender.
 
