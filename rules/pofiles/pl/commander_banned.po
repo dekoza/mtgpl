@@ -9,20 +9,22 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.9\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-11 10:37+0100\n"
-"PO-Revision-Date: 2013-11-11 22:31+0100\n"
-"Last-Translator: Dominik <Kozaczko>\n"
+"PO-Revision-Date: 2013-11-12 01:11+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1384215110.477170\n"
 
 # 2cee311bedfa45e6864f20d0e717af9e
 #: ../../commander_banned.rst:5
 msgid "Cards banned in Commander"
-msgstr ""
+msgstr "Karty zabronione w Commanderze (Dowódcy)"
 
 # 1fa4998da43b48a6b069a8f8b032060e
 #: ../../commander_banned.rst:7
@@ -31,11 +33,14 @@ msgid ""
 "(and others like them) should not be played without prior agreement from the "
 "other players in the game."
 msgstr ""
+"Poniżej znajduje się oficjalna lista kart zabronionych w rozgrywkach "
+"Commandera. Karty te (i inne podobne do nich) nie powinny być używane bez "
+"uprzedniej zgody pozostałych graczy."
 
 # a03da2be225c4a8b94d65abcb66ab815
 #: ../../commander_banned.rst:13
 msgid "Banned from play"
-msgstr ""
+msgstr "Wyłączone z gry"
 
 # a6e04e9ee6234b1e95ec6a56830ec3d1
 #: ../../commander_banned.rst:15
@@ -210,12 +215,12 @@ msgstr ""
 # e8bd7676355e4b26a94b6e7809591c84
 #: ../../commander_banned.rst:89
 msgid "Banned Commanders"
-msgstr ""
+msgstr "Zabronione jako Dowódcy"
 
 # 7b963a6179144660ad9412c135044404
 #: ../../commander_banned.rst:91
 msgid "Additionally the following legends may not be used as a Commander:"
-msgstr ""
+msgstr "Dodatkowo następujące Legendy nie mogą być używane jako Dowódcy:"
 
 # 5ae49b2e195c45379746ad72fa5fa781
 #: ../../commander_banned.rst:93
