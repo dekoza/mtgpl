@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-30 12:49+0200\n"
-"PO-Revision-Date: 2013-10-12 12:41+0200\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2013-11-25 23:13+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381578119.940258\n"
+"X-POOTLE-MTIME: 1385417621.176627\n"
 
 # 2aec65355537478395fe2b1bff86626d
 # 9eae85a8cc75401990e1ded7ffda9afb
@@ -587,12 +587,13 @@ msgstr "Urok"
 #: ../../M14_Rulebook.rst:162
 msgid "An enchantment represents a stable magical manifestation. An enchantment is a *permanent*. This means two things: you can cast one only at the time you could cast a sorcery, and after you cast one, you'll put it on the table in front of you, near your lands. (Most players keep their lands closer to them, then put their other cards closer to the middle of the table.) The card is now on the *battlefield*. A card on the battlefield is called a *permanent* because it sticks around permanently (well, unless something destroys it)."
 msgstr ""
-"Urok reprezentuje stały magiczny przejaw. Jest on *stałką*. Oznacza to dwie "
-"rzeczy: możesz go zagrać tylko wtedy, gdy możesz zagrać obrzęd, a po "
+"Urok reprezentuje stały magiczny przejaw. Jest on *permanentem*. Oznacza to "
+"dwie rzeczy: możesz go zagrać tylko wtedy, gdy możesz zagrać obrzęd, a po "
 "rzuceniu kładziesz go przed sobą na stole w pobliżu lądów. (Większość graczy "
 "trzyma lądy blisko siebie, a inne karty bliżej środka stołu.) Karta jest "
-"teraz na *polu walki*. Karta na polu walki nazywana jest *stałką*, ponieważ "
-"zostaje na stałe (cóż, przynajmniej do chwili, gdy coś ją zniszczy)."
+"teraz na *polu walki*. Karta na polu walki nazywana jest *permanentem*, "
+"ponieważ trwa permanentnie w grze (cóż, przynajmniej do chwili, gdy coś ją "
+"zniszczy)."
 
 # 9e8954bf0580468d8e7ab38bde84a762
 # fe21012374de49d391aa6c514a0ba95f
@@ -604,9 +605,9 @@ msgstr ""
 #: ../../M14_Rulebook.rst:170
 msgid "Some enchantments are *Auras*. An Aura enters the battlefield attached to a permanent and affects that permanent while it's on the battlefield. If the enchanted permanent leaves the battlefield, the Aura is put into its owner's graveyard."
 msgstr ""
-"Niektóre uroki są *Aurami*. Aura wchodzi na pole walki dołączona do stałki i "
-"wpływa na nią dopóki jest na polu walki. Jeśli zauroczona stałka opuszcza "
-"pole walki, Aura trafia do cmentarza swojego właściciela."
+"Niektóre uroki są *Aurami*. Aura wchodzi na pole walki dołączona do "
+"permanentu i wpływa na niego dopóki jest na polu walki. Jeśli zauroczony "
+"permanent opuszcza pole walki, Aura trafia do cmentarza swojego właściciela."
 
 # 8c549a53c03c443cab5eff24484355f6
 # b87ab3418e9c415da63f5cb8d22c7f13
@@ -640,7 +641,7 @@ msgstr "Artefakt"
 msgid "An artifact represents a magical relic. Like an enchantment, an artifact is a permanent, so it'll stay on the battlefield affecting the game. Most artifacts are colorless, so you can cast one no matter what kinds of lands you have."
 msgstr ""
 "Artefakt reprezentuje magiczny relikt. Podobnie do uroku, artefakt jest "
-"stałką, więc będzie trwał na polu walki wpływając na grę. Większość "
+"permanentem, więc będzie trwał na polu walki wpływając na grę. Większość "
 "artefaktów jest bezkolorowa, więc możesz je rzucać bez względu na rodzaj "
 "posiadanych lądów."
 
@@ -690,11 +691,11 @@ msgstr "Stwór"
 #: ../../M14_Rulebook.rst:193
 msgid "Creatures fight for you. They're permanents, but unlike any other kind of permanent, creatures can *attack* and *block*. Each creature has *power* and *toughness*. Its power (the first number) is how much *damage* it deals in combat. Its toughness (the second number) is how much damage must be dealt to it in a single turn to destroy it. Creatures attack and block during the *combat phase*."
 msgstr ""
-"Stwory walczą dla ciebie. Są stałkami, ale w przeciwieństwie do innych "
-"stałek, stwory mogą *atakować* i *blokować*. Każda z nich ma *siłę* oraz "
-"*wytrzymałość*. Siła (pierwsza liczba) mówi, ile *obrażeń* zadaje w walce. "
-"Wytrzymałość (druga liczba) mówi, ile obrażeń trzeba zadać w jednej turze, "
-"aby stwora zniszczyć. Stwory atakują i blokują podczas *fazy walki*."
+"Stwory walczą dla ciebie. Są permanentami, ale w przeciwieństwie do innych "
+"permanentów, stwory mogą *atakować* i *blokować*. Każda z nich ma *siłę* "
+"oraz *wytrzymałość*. Siła (pierwsza liczba) mówi, ile *obrażeń* zadaje w "
+"walce. Wytrzymałość (druga liczba) mówi, ile obrażeń trzeba zadać w jednej "
+"turze, aby stwora zniszczyć. Stwory atakują i blokują podczas *fazy walki*."
 
 # e6629d0376194186b28778d4dd71c751
 # 75e06e8d78104a69ad3fa5562719e207
@@ -705,11 +706,11 @@ msgstr ""
 #: ../../M14_Rulebook.rst:198
 msgid "Unlike other types of permanents, creatures enter the battlefield with \"summoning sickness\": a creature can't attack, or use an ability that has |tap| in its cost, until it has started your turn on the battlefield under your control. You can block with a creature or activate its other abilities no matter how long it's been on the battlefield."
 msgstr ""
-"W przeciwieństwie do innych stałek, stwory wchodzą na pole walki z \"chorobą "
-"przyzwaniową\": stwór nie może atakować lub używać zdolności, która ma |tap| "
-"w koszcie dopóki nie rozpocznie tury na polu walki pod twoim władaniem. "
-"Możesz blokować lub używać innych zdolności niezależnie od tego, jak długo "
-"dany stwór jest na polu walki."
+"W przeciwieństwie do innych permanentów, stwory wchodzą na pole walki z "
+"\"chorobą przyzwaniową\": stwór nie może atakować lub używać zdolności, która "
+"ma |tap| w koszcie, dopóki nie rozpocznie tury na polu walki pod twoim "
+"władaniem. Możesz blokować lub używać innych zdolności niezależnie od tego, "
+"jak długo dany stwór jest na polu walki."
 
 # 8eb367d93f734247a1118d9e4244ff43
 # 0d99a788812c4cbcb90a5b79e82add43
@@ -759,7 +760,7 @@ msgid "Planeswalkers are powerful allies you can call on to fight by your side. 
 msgstr ""
 "Wędrowcy są potężnymi sprzymierzeńcami, których możesz wezwać, by walczyli "
 "po twojej stronie. Możesz wezwać Wędrowca tylko wtedy, gdy możesz rzucić "
-"obrzęd. Są oni stałkami i każdy wchodzi na pole walki z taką liczbą "
+"obrzęd. Są oni permanentami i każdy wchodzi na pole walki z taką liczbą "
 "znaczników *lojalności*, jaką wskazuje liczba w prawym dolnym rogu."
 
 # 78ab0a315fbb45fbba8e67c1e56bf1c7
@@ -828,10 +829,10 @@ msgstr "Ląd"
 #: ../../M14_Rulebook.rst:230
 msgid "Although lands are permanents, they aren't cast as spells. To play a land, just put it onto the battlefield. This happens immediately, so no player can do anything else in response. You can play a land only during one of your main phases while the stack is empty. You can't play more than one land a turn."
 msgstr ""
-"Mimo że lądy są stałkami, nie są zagrywane jako czary. Aby zagrać ląd, po "
-"prostu umieszczasz go na polu walki. Dzieje się to natychmiast, więc żaden z "
-"graczy nic nie może zrobić w odpowiedzi. Możesz zagrać ląd wyłącznie w "
-"jednej ze swoich faz głównych i tylko jeśli stos jest pusty. Nie możesz "
+"Mimo że lądy są permanentami, nie są zagrywane jako czary. Aby zagrać ląd, "
+"po prostu umieszczasz go na polu walki. Dzieje się to natychmiast, więc "
+"żaden z graczy nic nie może zrobić w odpowiedzi. Możesz zagrać ląd wyłącznie "
+"w jednej ze swoich faz głównych i tylko jeśli stos jest pusty. Nie możesz "
 "zagrać więcej niż jednego lądu na turę."
 
 # a0eeafb3b10142deb4ba9a395abac578
@@ -883,7 +884,7 @@ msgstr "Typ karty"
 # 6f6380b2144248f886f8a8cf719fe24f
 #: ../../M14_Rulebook.rst:242
 msgid "Is a permanent"
-msgstr "Jest stałką"
+msgstr "Jest permanentem"
 
 # 210c6112b4bd4588886e519ce5903a58
 # 5885850a14af4a5a9ca98be877198958
@@ -1193,10 +1194,10 @@ msgstr ""
 "Zaczynasz grę z pustym polem walki, ale to właśnie tu będzie się odbywać "
 "cała akcja. Podczas każdej z tur możesz zagrać z ręki ląd. Stwory, "
 "artefakty, uroki i wędrowcy także wchodzą na pole walki po ich rozpatrzeniu. "
-"Możesz dowolnie rozmieszczać swoje stałki (zalecamy umieszczanie lądów "
+"Możesz dowolnie rozmieszczać swoje permanenty (zalecamy umieszczanie lądów "
 "bliżej siebie), ale twoi przeciwnicy muszą mieć możliwość zobaczenia ich "
-"wszystkich i określenia czy są *zużyte*. Ta strefa jest współdzielona przez "
-"obu graczy."
+"wszystkich i określenia czy są *zaznaczone*. Ta strefa jest współdzielona "
+"przez obu graczy."
 
 # 89ff6d5f3b3c43759542188764ce1a52
 # b3cd545e2fec43498ec1e43ea2da0dd0
@@ -1502,7 +1503,7 @@ msgid "To tap a card is to turn it sideways. You do this when you use a land to 
 msgstr ""
 "Aby zużyć kartę, należy ustawić ją bokiem. Robisz tak, kiedy używasz lądu do "
 "produkcji many, kiedy atakujesz stworem lub gdy aktywujesz zdolność, która "
-"ma |tap| w swoim koszcie (|tap| oznacza \"zużyj tę stałkę\")."
+"ma |tap| w swoim koszcie (|tap| oznacza \"zaznacz ten permanent\")."
 
 # 913c138a062944f1a695fa6089e110d1
 # 57fc66a9229842e59f0897a0ba9f6e39
@@ -1514,9 +1515,9 @@ msgstr ""
 #: ../../M14_Rulebook.rst:396
 msgid "When a permanent is tapped, that usually means it's been used for the turn. You can't tap it again until it's been *untapped* (straightened out)."
 msgstr ""
-"Kiedy stałka jest zużyta, zwykle oznacza to, że została już wykorzystana w "
-"tej turze. Nie możesz jej ponownie zużyć dopóki nie zostanie *odświeżona* "
-"(wyprostowana)."
+"Kiedy permanent jest zużyty, zwykle oznacza to, że został już wykorzystana w "
+"tej turze. Nie możesz go ponownie zużyć dopóki nie zostanie *odznaczony* "
+"(wyprostowany)."
 
 # b4fbcfe3f3ff4600ac10118c0e6a3c40
 # dd3123849d4347e2967349618064315f
@@ -1595,9 +1596,10 @@ msgstr ""
 "W tej chwili musisz podjąć kilka decyzji. Jeśli czar jest sztuczką lub "
 "obrzędem i mówi \"Wybierz jedno -\", musisz zdecydować, której części będziesz "
 "używać. Jeśli czar jest sztuczką lub obrzędem i wymaga wskazania celu, "
-"wybierasz co (lub kogo) wskazuje. Czary Aur także wskazują stałki, które "
-"będą przez nie zauroczone. Jeśli czar ma |mana_x| w swoim koszcie, wybierasz "
-"wartość X. Pozostałe decyzje zostaną podjęte, gdy czar będzie rozpatrywany."
+"wybierasz co (lub kogo) wskazuje. Czary Aur także wskazują permanenty, które "
+"będą przez nie zauroczone. Jeśli czar ma |mana_x| w swoim koszcie, "
+"wybierasz wartość X. Pozostałe decyzje zostaną podjęte, gdy czar będzie "
+"rozpatrywany."
 
 # bf586abe5b964c6797ca25233166814f
 # 59d42f47d9784aadb9c1f8e404655974
@@ -1722,10 +1724,10 @@ msgstr ""
 "instrukcjami na karcie), a następnie umieszczasz tę kartę w cmentarzu. Jeśli "
 "czar jest stworem, artefaktem, urokiem lub wędrowcem, umieszczasz tę kartę "
 "na stole przed sobą, w pobliżu lądów. Karta jest teraz na polu walki. Każda "
-"z kart znajdujących się na polu walki nazywana jest :term:`stałką<permanent "
-"gl>`, ponieważ będzie się tam stale znajdować (cóż, przynajmniej do czasu, "
-"gdy coś jej się przytrafi). Wiele stałek ma zdolności, które są na nich "
-"napisane i wpływają na grę."
+"z kart znajdujących się na polu walki nazywana jest "
+":term:`permanentem<permanent>`, ponieważ będzie się tam permanentnie "
+"znajdować (cóż, przynajmniej do czasu, gdy coś jej się przytrafi). Wiele "
+"permanentów ma zdolności, które są na nich napisane i wpływają na grę."
 
 # 18f80ec74d134260a04f134166a4f333
 # 443d022fd65f4fb194fc5fef1e884569
@@ -1866,11 +1868,11 @@ msgstr "Zdolności"
 #: ../../M14_Rulebook.rst:523
 msgid "As you start to accumulate permanents on the battlefield, the game will change. That's because many permanents have text on them that affects the game. This text tells you a permanent's abilities. There are three different kinds of abilities a permanent can have: *static abilities*, *triggered abilities*, and *activated abilities*."
 msgstr ""
-"W miarę jak zaczniesz zbierać stałki na polu walki, gra będzie się zmieniać. "
-"To dlatego, że wiele stałek ma treść, która modyfikuje rozgrywkę. Ten tekst "
-"opisuje zdolności stałki. Są trzy różne rodzaje zdolności, które stałka "
-"może posiadać: *zdolności statyczne*, *zdolności wyzwalane* oraz *zdolności "
-"aktywowane*."
+"W miarę jak zaczniesz zbierać permanenty na polu walki, gra będzie się "
+"zmieniać. To dlatego, że wiele permanentów ma treść, która modyfikuje "
+"rozgrywkę. Ten tekst opisuje zdolności permanentu. Są trzy różne rodzaje "
+"zdolności, które permanent może posiadać: *zdolności statyczne*, *zdolności "
+"wyzwalane* oraz *zdolności aktywowane*."
 
 # b12161df790a49bd81b4c59802bb9f38
 # 566ea1e07e2740d19b894e27b3d6058e
@@ -1939,8 +1941,8 @@ msgstr ""
 "początkiem\" lub \"w trakcie\". Nie aktywujesz zdolności wyzwalanej. Jest ona "
 "automatycznie wyzwalana zawsze gdy wydarzy się pierwsza część zdolności. "
 "Zdolność wchodzi na stos zupełnie jak czar i jest rozpatrywana jak czar. "
-"Jeśli zdolność zostanie wyzwolona, a następnie stałka, z której ona pochodzi "
-"opuści pole walki, zdolność i tak zostanie rozpatrzona."
+"Jeśli zdolność zostanie wyzwolona, a następnie permanent, z którego ona "
+"pochodzi opuści pole walki, zdolność i tak zostanie rozpatrzona."
 
 # a106269e7caf48dd87ee50900d710958
 # c7d84c9c78d94eab8596f7726770c19c
@@ -1995,8 +1997,8 @@ msgstr ""
 "Każda aktywowana zdolność posiada koszt, następnie dwukropek (\":\") i później "
 "efekt. Aktywowanie działa tak, jak rzucanie sztuczki, tylko żadna karta nie "
 "idzie na stos. Zdolność wchodzi na stos tak jak czar i jest rozpatrywana "
-"jak czar. Jeśli aktywujesz zdolność, ale później stałka, z której zdolność "
-"pochodzi, opuści pole walki - zdolność i tak zostanie rozpatrzona."
+"jak czar. Jeśli aktywujesz zdolność, ale później permanent, z którego "
+"zdolność pochodzi, opuści pole walki - zdolność i tak zostanie rozpatrzona."
 
 # ecc1e33346094931ab658c91f7286a06
 # 729f1ce8ace8450d83d918f49dadf942
@@ -2008,8 +2010,8 @@ msgstr ""
 msgid "Some activated abilities contain the |tap| symbol in their costs. This means that you must tap the permanent to activate the ability. You can't activate the ability if the permanent is already tapped."
 msgstr ""
 "Niektóre zdolności zawierają w koszcie symbol |tap|. Oznacza to, że do "
-"aktywacji zdolności musisz zużyć stałkę. Nie możesz aktywować zdolności "
-"jeśli stałka jest już zużyta."
+"aktywacji zdolności musisz zaznaczyć permanent. Nie możesz aktywować "
+"zdolności jeśli permanent jest już zaznaczony."
 
 # 14d26a130ed44dfdb7f571227ba125f4
 # 562a5cb4c55147c092b610fdee227c67
@@ -2027,20 +2029,20 @@ msgstr "Słowa kluczowe"
 #: ../../M14_Rulebook.rst:570
 msgid "Some permanents have abilities that are shortened to a single word or phrase. Many of these have :term:`reminder text<reminder text gl>` that gives you a brief description of the ability's effect. Keyword abilities in the core set include :term:`deathtouch<deathtouch gl>`, :term:`defender<defender gl>`, :term:`enchant<enchant gl>`, :term:`equip<equip gl>`, :term:`first strike<first strike gl>`, :term:`flash<flash gl>`, :term:`flying<flying gl>`, :term:`haste<haste gl>`, :term:`hexproof<hexproof gl>`, :term:`indestructible<indestructible gl>`, :term:`landwalk<landwalk gl>` (such as swampwalk or forestwalk), :term:`lifelink<lifelink gl>`, :term:`protection<protection gl>`, :term:`reach<reach gl>`, :term:`trample<trample gl>`, and :term:`vigilance<vigilance gl>`. Most of these are static abilities, but keyword abilities can also be triggered abilities or activated abilities. Detailed explanations of each of these abilities can be found in the glossary at the end of this rulebook."
 msgstr ""
-"Niektóre stałki mają zdolności, które są skrócone do pojedynczego hasła lub "
-"frazy. Wiele z nich posiada *tekst przypominający* dający krótki opis efektu "
-"zdolności. Hasła zdolności w zestawie podstawowym zawierają: :term:`dotyk "
-"śmierci<deathtouch gl>`, :term:`obronność<defender gl>`, "
-":term:`zaurocz<enchant gl>`, :term:`ekwipuj<equip gl>`, :term:`pierwszy "
-"cios<first strike gl>`, :term:`błysk<flash gl>`, :term:`latanie<flying gl>`, "
-":term:`pośpiech<haste gl>`, :term:`antyklątwa<hexproof gl>`, "
-":term:`niezniszczalność<indestructible gl>`, :term:`zdobywca lądów<landwalk "
-"gl>` (np. zdobywca bagien czy zdobywca lasów), :term:`więź życia<lifelink "
-"gl>`, :term:`ochrona<protection gl>`, :term:`zasięg<reach gl>`, "
-":term:`tratowanie<trample gl>` i :term:`czujność<vigilance gl>`. Większość z "
-"nich to zdolności statyczne, ale hasła mogą określać też zdolności "
-"wyzwalane lub aktywowane. Szczegółowe wyjaśnienia każdej z tych zdolności "
-"znajdują się w glosariuszu na końcu tego podręcznika."
+"Niektóre permanenty mają zdolności, które są skrócone do pojedynczego hasła "
+"lub frazy. Wiele z nich posiada *tekst przypominający* dający krótki opis "
+"efektu zdolności. Hasła zdolności w zestawie podstawowym zawierają: "
+":term:`antyklątwa<hexproof>`, :term:`błysk<flash>`, "
+":term:`czujność<vigilance>`, :term:`dotyk śmierci<deathtouch>`, "
+":term:`latanie<flying>`, :term:`niezniszczalność<indestructible>`, "
+":term:`obronność<defender>`, :term:`ochrona<protection>`, :term:`pierwszy "
+"cios<first strike>`, :term:`pośpiech<haste>`, :term:`tratowanie<trample>`, "
+":term:`więź życia<lifelink>`, :term:`wyposaż<equip>`, :term:`zasięg<reach>`, "
+":term:`zaurocz<enchant>` i :term:`zdobywca lądów<landwalk>` (np. zdobywca "
+"bagien czy zdobywca lasów). Większość z nich to zdolności statyczne, ale "
+"hasła mogą określać też zdolności wyzwalane lub aktywowane. Szczegółowe "
+"wyjaśnienia każdej z tych zdolności znajdują się w glosariuszu na końcu tego "
+"podręcznika."
 
 # 5168edeaa50947a19bce4e0f4508ada8
 # 76f94ae797a74a0e974c890dda74929d
@@ -2629,9 +2631,10 @@ msgstr "Krok odświeżania"
 #: ../../M14_Rulebook.rst:749
 msgid "You untap all your tapped permanents. On the first turn of the game, you don't have any permanents, so you just skip this step. No one can cast spells or activate abilities during this step."
 msgstr ""
-"Odśwież (wyprostuj) wszystkie swoje zużyte stałki. Podczas pierwszej tury "
-"gry nie masz jeszcze żadnych stałek, więc po prostu pomijasz ten krok. Nikt "
-"nie może rzucać czarów ani aktywować zdolności w trakcie tego kroku."
+"Odznacz (wyprostuj) wszystkie swoje zaznaczone permanenty. Podczas pierwszej "
+"tury gry nie masz jeszcze żadnych permanentów, więc po prostu pomijasz ten "
+"krok. Nikt nie może rzucać czarów ani aktywować zdolności w trakcie tego "
+"kroku."
 
 # b7089a042f08477ab9e5bc9620b13bb1
 # 2f88ab8f8ef04a0281f57519ffb55ab0
@@ -2995,11 +2998,11 @@ msgstr "Następna tura"
 #: ../../M14_Rulebook.rst:840
 msgid "Now it's your opponent's turn. That player untaps his or her permanents and goes from there. After that player is done, it will be your turn again. Keep going until a player is reduced to 0 life. As soon as a player has 0 life, the game ends immediately and the other player wins!"
 msgstr ""
-"Teraz następuje tura przeciwnika. Odświeża on swoje stałki i wszystko się "
-"powtarza. Kiedy przeciwnik skończy, znów nastąpi twoja tura. Powtarzajcie "
-"dopóki punkty życia któregoś z graczy nie zostanie sprowadzone do 0. W "
-"chwili, gdy któryś z graczy ma 0 życia gra natychmiast się kończy i wygrywa "
-"drugi gracz."
+"Teraz następuje tura przeciwnika. Odznacza on swoje permanenty i wszystko "
+"się powtarza. Kiedy przeciwnik skończy, znów nastąpi twoja tura. "
+"Powtarzajcie dopóki punkty życia któregoś z graczy nie zostanie sprowadzone "
+"do 0. W chwili, gdy któryś z graczy ma 0 życia gra natychmiast się kończy i "
+"wygrywa drugi gracz."
 
 # f680b6990bea49e8823372f15380ab1d
 # ecf5a3d67bf140238febb48bf26143c2
@@ -3141,8 +3144,8 @@ msgstr ""
 "drużyną. Możecie pokazywać sobie swoje karty i dyskutować o strategii. Twoja "
 "drużyna ma wspólną pulę żyć, która zaczyna się od 30, wspólnie wykonujecie "
 "turę, a wasze stwory atakują przeciwną drużynę jako całość. Jednak nadal "
-"masz własną bibliotekę, władasz swoimi stałkami, wydajesz własną manę, i tak "
-"dalej."
+"masz własną bibliotekę, władasz swoimi permanentami, wydajesz własną manę, i "
+"tak dalej."
 
 # 378e1e5540cb4bc1b25e84db55785125
 # c74234d631534fffaf4e9a00f8e3a3f2
