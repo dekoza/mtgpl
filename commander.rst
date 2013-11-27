@@ -91,7 +91,7 @@ Play Rules
    #. Each player draws a hand of seven cards.
    #. Players may mulligan, using the modified :ref:`Partial Paris<partial-paris-mulligan>` method.
 
-#. Being a Commander is not a characteristic [MTG CR109.3], it is a property of the card. As such, "Commander-ness" cannot be copied or overwritten by continuous effects, and does not change with control of the card.
+#. Being a Commander is not a characteristic [:ref:`MTG CR 109.3 <mtgcr-109-3>`], it is a property of the card. As such, "Commander-ness" cannot be copied or overwritten by continuous effects, and does not change with control of the card.
 
    Examples: A :mtgtip:`Body Double` copying a Commander in a graveyard is not a Commander. A Commander which is affected by :mtgtip:`Cytoshape`, or is face down, is still a Commander.
 
