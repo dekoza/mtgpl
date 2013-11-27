@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-07 22:33+0200\n"
+"PO-Revision-Date: 2013-11-25 19:38+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381181611.731401\n"
+"X-POOTLE-MTIME: 1385404683.940788\n"
 
 # cf7ee521875a459c9352819ad80d2edc
 # 887ff143b14348b2b7b52aec3a556c81
@@ -85,9 +85,9 @@ msgstr "Latanie"
 msgid "When Abhorrent Overlord enters the battlefield, put a number of 1/1 black Harpy creature tokens with flying onto the battlefield equal to your devotion to black. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)"
 msgstr ""
 "Kiedy Abhorrent Overlord wchodzi na pole walki, połóż na polu walki tyle "
-"żetonów czarnego stwora Harpy 1/1 z lataniem, ile wynosi twój kult czarnego. "
-"(Każda |mana_b| w kosztach many stałek, którymi władasz wlicza się do "
-"twojego kultu czarnego.)"
+"żetonów czarnego stwora Harpia 1/1 z lataniem, ile wynosi twój kult "
+"czarnego. (Każda |mana_b| w kosztach many permanentów, którymi władasz "
+"wlicza się do twojego kultu czarnego.)"
 
 # 1647ae0eb32842e59e0145e4473fb55e
 # 037a941063374f6b81e63346b65b36ff
@@ -447,8 +447,8 @@ msgstr "Ashen Rider"
 #: ../../THS.rst:94
 msgid "When Ashen Rider enters the battlefield or dies, exile target permanent."
 msgstr ""
-"Ilekroć Ashen Rider wchodzi na pole walki lub umiera, wypędź wskazaną "
-"stałkę."
+"Ilekroć Ashen Rider wchodzi na pole walki lub umiera, wypędź wskazany "
+"permanent."
 
 # dd0c1f96fe074fb2b211d61bca1e4bf8
 #: ../../THS.rst:103
@@ -1129,7 +1129,7 @@ msgstr "Destructive Revelry"
 msgid "Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller."
 msgstr ""
 "Zniszcz wskazany artefakt lub urok. Destructive Revelry zadaje 2 obrażenia "
-"władcy owej stałki."
+"władcy owego permanentu."
 
 # ad0f0f5bb2dd4bb1b492ef484c413e79
 # ad5ba187f88042ea8db526b8017d5394
@@ -1145,8 +1145,8 @@ msgid "When Disciple of Phenax enters the battlefield, target player reveals a n
 msgstr ""
 "Kiedy Disciple of Phenax wchodzi na pole walki, wskazany gracz ujawnia tyle "
 "kart ze swojej ręki, ile wynosi twój kult czarnego. Wybierasz jedną z nich. "
-"Ów gracz odrzuca ową kartę. (Każda |mana_b| w kosztach many stałek, którymi "
-"władasz, wlicza się do twojego kultu czarnego.)"
+"Ów gracz odrzuca ową kartę. (Każda |mana_b| w kosztach many permanentów, "
+"którymi władasz, wlicza się do twojego kultu czarnego.)"
 
 # 3bc80ab481184ddbbbb9f96092f9e09c
 # f1311703a5a449479e6777dfc4cdccf3
@@ -1292,7 +1292,7 @@ msgstr "Niezniszczalność"
 msgid "As long as your devotion to black is less than five, Erebos isn't a creature. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)"
 msgstr ""
 "Dopóki twój kult czarnego jest mniejszy niż pięć, Erebos nie jest stworem "
-"(Każda |mana_b| w kosztach many stałek, którymi władasz, wlicza się do "
+"(Każda |mana_b| w kosztach many permanentów, którymi władasz, wlicza się do "
 "twojego kultu czarnego.)"
 
 # 9f87f00ae09f4b0ebc78f44779e31ba5
@@ -1349,8 +1349,8 @@ msgid "When Evangel of Heliod enters the battlefield, put a number of 1/1 white 
 msgstr ""
 "Kiedy Evangel of Heliod wchodzi na pole walki, połóż na polu walki tyle "
 "żetonów białego stwora Soldier 1/1, ile wynosi twój kult białego. (Każda "
-"|mana_w| w kosztach many stałek, którymi władasz wlicza się do twojego kultu "
-"białego.)"
+"|mana_w| w kosztach many permanentów, którymi władasz wlicza się do twojego "
+"kultu białego.)"
 
 # 493e9ecd5f5f4d9e99148bb76b346f58
 # 68a8170847354f90a23edc619ed7f9d3
@@ -1400,7 +1400,7 @@ msgid "When Fanatic of Mogis enters the battlefield, it deals damage to each opp
 msgstr ""
 "Kiedy Fanatic of Mogis wchodzi na pole walki, zadaje każdemu przeciwnikowi "
 "po tyle obrażeń, ile wynosi twój kult czerwonego. (Każda |mana_r| w kosztach "
-"many stałek, którymi władasz wlicza się do twojego kultu czerwonego.)"
+"many permanentów, którymi władasz wlicza się do twojego kultu czerwonego.)"
 
 # 83da05fbfee440869dea485928b14815
 # 432b8159f4c14856900345d73937c57e
@@ -1618,7 +1618,7 @@ msgstr "Glare of Heresy"
 # 80c52a09f38640db914f732667287565
 #: ../../THS.rst:443
 msgid "Exile target white permanent."
-msgstr "Wypędź wskazaną białą stałkę."
+msgstr "Wypędź wskazany biały permanent."
 
 # 6553d3514bbd46398e9a795dfb7aac7b
 # 8c91fbc8eb69473bbd7a70c70c7477d2
@@ -1650,7 +1650,7 @@ msgid "When Gray Merchant of Asphodel enters the battlefield, each opponent lose
 msgstr ""
 "Kiedy Gray Merchant of Asphodel wchodzi na pole walki, każdy przeciwnik "
 "traci X życia, gdzie X jest twoim kultem czarnego. Zyskujesz tyle życia, ile "
-"stracono w ten sposób. (Każda |mana_b| w kosztach many stałek, którymi "
+"stracono w ten sposób. (Każda |mana_b| w kosztach many permanentów, którymi "
 "władasz wlicza się do twojego kultu czarnego.)"
 
 # 4619cbc56ab74207813e92d1a6d750b7
@@ -1707,7 +1707,7 @@ msgstr "Heliod, God of the Sun"
 msgid "As long as your devotion to white is less than five, Heliod isn't a creature. (Each |mana_w| in the mana costs of permanents you control counts toward your devotion to white.)"
 msgstr ""
 "Dopóki twój kult białego jest mniejszy niż pięć, Heliod nie jest stworem "
-"(Każda |mana_w| w kosztach many stałek, którymi władasz, wlicza się do "
+"(Każda |mana_w| w kosztach many permanentów, którymi władasz, wlicza się do "
 "twojego kultu białego.)"
 
 # 2d76ba454cd840c293d1e9c33ec2dd40
@@ -1969,8 +1969,8 @@ msgstr "Karametra's Acolyte"
 msgid "|tap|: Add an amount of |mana_g| to your mana pool equal to your devotion to green. (Each |mana_g| in the mana costs of permanents you control counts toward your devotion to green.)"
 msgstr ""
 "|tap|: Dodaj tyle |mana_g| do twojej puli many, ile wynosi twój kult "
-"zielonego. (Każda |mana_g| w kosztach many stałek, którymi władasz wlicza "
-"się do twojego kultu zielonego.)"
+"zielonego. (Każda |mana_g| w kosztach many permanentów, którymi władasz "
+"wlicza się do twojego kultu zielonego.)"
 
 # 75a8cab0297a4fe7aca465138e9db2a1
 # bdcdc8b6b68a453d98757e42c9dc3f13
@@ -2209,8 +2209,8 @@ msgid "When Master of Waves enters the battlefield, put a number of 1/0 blue Ele
 msgstr ""
 "Kiedy Master of Waves wchodzi na pole walki, połóż na polu walki tyle "
 "żetonów niebieskiego stwora Elemental 1/0, ile wynosi twój kult "
-"niebieskiego. (Każda |mana_u| w kosztach many stałek, którymi władasz wlicza "
-"się do twojego kultu niebieskiego.)"
+"niebieskiego. (Każda |mana_u| w kosztach many permanentów, którymi władasz "
+"wlicza się do twojego kultu niebieskiego.)"
 
 # aa766709de7f40a9bde4e6249649fd21
 # 7981da33ed9a45cfbb1b4c22002fd685
@@ -2335,8 +2335,8 @@ msgid "When Mogis's Marauder enters the battlefield, up to X target creatures ea
 msgstr ""
 "Kiedy Mogis's Marauder wchodzi na pole walki, każdy z najwyżej X wskazanych "
 "stworów dostaje do końca tury zastraszanie i pośpiech, gdzie X jest twoim "
-"kultem czarnego. (Każda |mana_b| w kosztach many stałek, którymi władasz "
-"wlicza się do twojego kultu czarnego.)"
+"kultem czarnego. (Każda |mana_b| w kosztach many permanentów, którymi "
+"władasz wlicza się do twojego kultu czarnego.)"
 
 # 7aee82c4b7fd4f08af42e58ab6cadc1c
 # 8477396dfece4426aefe36dd9a43ccf9
@@ -2462,7 +2462,8 @@ msgid "|mana_2|, |tap|: Choose a color. Add to your mana pool an amount of mana 
 msgstr ""
 "|mana_2|, |tap|: Wybierz kolor. Dodaj do twojej puli many tyle many "
 "wybranego koloru, ile wynosi twój kult tego koloru. (Twój kult koloru jest "
-"liczbą symboli many tego koloru w kosztach władanych przez ciebie stałek.)"
+"liczbą symboli many tego koloru w kosztach władanych przez ciebie "
+"permanentów.)"
 
 # ac82963a84794791975ac434ff28bb26
 # 45adf4ebe4014d2ca47bab34344b9e63
@@ -2477,7 +2478,7 @@ msgstr "Nylea, God of the Hunt"
 msgid "As long as your devotion to green is less than five, Nylea isn't a creature. (Each |mana_g| in the mana costs of permanents you control counts toward your devotion to green.)"
 msgstr ""
 "Dopóki twój kult zielonego jest mniejszy niż pięć, Nylea nie jest stworem "
-"(Każda |mana_g| w kosztach many stałek, którymi władasz, wlicza się do "
+"(Każda |mana_g| w kosztach many permanentów, którymi władasz, wlicza się do "
 "twojego kultu zielonego.)"
 
 # 4d5861638c5f4028a2a62a850c1994a7
@@ -2505,8 +2506,8 @@ msgstr "Nylea's Disciple"
 msgid "When Nylea's Disciple enters the battlefield, you gain life equal to your devotion to green. (Each |mana_g| in the mana costs of permanents you control counts toward your devotion to green.)"
 msgstr ""
 "Kiedy Nylea's Disciple wchodzi na pole walki, zyskujesz tyle życia, ile "
-"wynosi twój kult zielonego. (Każda |mana_g| w kosztach many stałek, którymi "
-"władasz wlicza się do twojego kultu zielonego.)"
+"wynosi twój kult zielonego. (Każda |mana_g| w kosztach many permanentów, "
+"którymi władasz wlicza się do twojego kultu zielonego.)"
 
 # 0f7dc3dd0f004434ac9a8f638d6a7334
 # f5ab2f4709364c41aa41c6dca4eee223
@@ -3055,7 +3056,7 @@ msgid "|mana_7|, |tap|, Sacrifice Pyxis of Pandemonium: Each player turns face u
 msgstr ""
 "|mana_7|, |tap|: poświęć Pyxis of Pandemonium: Każdy gracz odwraca wszystkie "
 "własne karty wypędzone z użyciem Pyxis of Pandemonium, następnie kładzie "
-"wszystkie karty stałek spośród nich na polu walki."
+"wszystkie karty permanentów spośród nich na polu walki."
 
 # 6a4d666fa6c9406cad3d245373aca689
 # 2afd3b3dca41409092e8f1005ab4b116
@@ -3207,7 +3208,7 @@ msgid "When Reverent Hunter enters the battlefield, put a number of +1/+1 counte
 msgstr ""
 "Kiedy Reverent Hunter wchodzi na pole walki, połóż na nim tyle znaczników "
 "+1/+1, ile wynosi twój kult zielonego. (Każda |mana_g| w kosztach many "
-"stałek, którymi władasz wlicza się do twojego kultu zielonego.)"
+"permanentów, którymi władasz wlicza się do twojego kultu zielonego.)"
 
 # d03ef3b806f94593acb4e5e799374022
 # ef5cfc72b9b540b7a34106cfde35bf96
@@ -3845,8 +3846,8 @@ msgstr "Thassa, God of the Sea"
 msgid "As long as your devotion to blue is less than five, Thassa isn't a creature. (Each |mana_u| in the mana costs of permanents you control counts toward your devotion to blue.)"
 msgstr ""
 "Dopóki twój kult niebieskiego jest mniejszy niż pięć, Thassa nie jest "
-"stworem (Każda |mana_u| w kosztach many stałek, którymi władasz, wlicza się "
-"do twojego kultu niebieskiego.)"
+"stworem (Każda |mana_u| w kosztach many permanentów, którymi władasz, wlicza "
+"się do twojego kultu niebieskiego.)"
 
 # e7948d64b2d047ddb351e0aeb689c483
 # cc9014a1800a432ea1293ee77b6bb7f8
