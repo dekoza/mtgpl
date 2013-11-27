@@ -4,6 +4,11 @@
 ************
 
 
+2013-11-26
+    Dodano surową wersję pełnej instrukcji do gry (:doc:`Comprehensive Rules <comprules>`) (bez tłumaczenia)
+    
+    Zmiana tłumaczenia słowa "permanent".
+
 2013-11-03
     Dodano :doc:`zasady formatu Commander<commander>` (bez tłumaczenia).
     

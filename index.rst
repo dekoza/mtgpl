@@ -15,6 +15,8 @@ Instrukcje
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` (0%)
 
+:doc:`Kompletne Zasady<comprules>` (0%)
+
 Tłumaczenie dodatków
 ====================
 
@@ -75,4 +77,5 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
    changelog
    commander
    commander_banned
+   comprules
    
