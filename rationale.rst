@@ -21,26 +21,6 @@ się domyślić, o co tak naprawdę chodzi.
 Często występujące terminy
 --------------------------
 
-Permanent -> stałka
-    Jest to tłumaczenie, które wzbudza chyba najwięcej kontrowersji, dlatego zdecydowałem się przedstawić je
-    na samym początku.
-    
-    Przede wszystkim w języku polskim nie ma takiego słowa jak "permanent". Jest słowo "permanentny", ale jest
-    to przymiotnik, a tu potrzeba rzeczownika.
-    
-    Pierwotnie jako tłumaczenia użyłem słowa "bierka". Termin ten w szachach określa każdą figurę
-    i piona, czyli każdy element gry z wyjątkiem samej planszy. W mojej wersji "bierka" miała oznaczać
-    każdy element gry znajdujący się na polu walki. Byłem zadowolony z tego tłumaczenia, choć wiele osób
-    zarzucało mu kompletny brak intuicyjności, gdyż potocznie "bierka" kojarzy się z grą
-    w podnoszenie patyczków. Zacząłem zatem szukać innego tłumaczenia. Szymek Wnętrzak zaproponował kalkę
-    z terminologii informatycznej - "stałkę". Zgodnie z mini-podręcznikiem "permanent" jest opisany
-    jako "coś, co **stale** znajduje się na polu walki (przynajmniej dopóki nie zostanie zniszczone)".
-    Definicja ta ostatecznie przekonała mnie do "stałki" zamiast wcześniejszej "bierki".
-    
-    Pojawiła się także propozycja "obiekt". Niestety nie można użyć tego terminu, gdyż jest on w konflikcie
-    z takim samym terminem w kompendium (Comprehensive Rules) - tam oznacza on nie tylko wszyskie "permanenty",
-    ale także czary na stosie itd.
-
 Target -> wskazany, wskazywać
     Oczywistym pierwszym tłumaczeniem słowa "target" jest "cel". Po kilku eksperymentach okazuje się jednak,
     iż wybór ten jest bardzo niefortunny. "Zniszcz wycelowanego stwora" brzmi conajmniej niezgrabnie.
@@ -76,6 +56,34 @@ Landwalk -> zdobywca lądów
     Ewentualnie można zastąpić "-łaz" przez "-chód". Zaproponowany przez Bartka Pękalę "zdobywca" nie powoduje
     wrażenia pewnego rodzaju pokraczności i przede wszystkim jest wysoce intuicyjny, dlatego zdecydowałem się
     nań mimo wielkiej sympatii do wszelkich neologizmów.
+
+Nieaktualne
+~~~~~~~~~~~
+
+Permanent -> stałka
+    Jest to tłumaczenie, które wzbudza chyba najwięcej kontrowersji, dlatego zdecydowałem się przedstawić je
+    na samym początku.
+    
+    Przede wszystkim w języku polskim nie ma takiego słowa jak "permanent". Jest słowo "permanentny", ale jest
+    to przymiotnik, a tu potrzeba rzeczownika.
+    
+    Pierwotnie jako tłumaczenia użyłem słowa "bierka". Termin ten w szachach określa każdą figurę
+    i piona, czyli każdy element gry z wyjątkiem samej planszy. W mojej wersji "bierka" miała oznaczać
+    każdy element gry znajdujący się na polu walki. Byłem zadowolony z tego tłumaczenia, choć wiele osób
+    zarzucało mu kompletny brak intuicyjności, gdyż potocznie "bierka" kojarzy się z grą
+    w podnoszenie patyczków. Zacząłem zatem szukać innego tłumaczenia. Szymek Wnętrzak zaproponował kalkę
+    z terminologii informatycznej - "stałkę". Zgodnie z mini-podręcznikiem "permanent" jest opisany
+    jako "coś, co **stale** znajduje się na polu walki (przynajmniej dopóki nie zostanie zniszczone)".
+    Definicja ta ostatecznie przekonała mnie do "stałki" zamiast wcześniejszej "bierki".
+    
+    Pojawiła się także propozycja "obiekt". Niestety nie można użyć tego terminu, gdyż jest on w konflikcie
+    z takim samym terminem w kompendium (Comprehensive Rules) - tam oznacza on nie tylko wszyskie "permanenty",
+    ale także czary na stosie itd.
+
+    **Aktualizacja:** po wielu dyskusjach doszedłem do wniosku, że jednak należy zostawić "permanent". To też jest
+    nowy dla języka polskiego wyraz, a przynajmniej pomoże nowym użytkownikom odnaleźć się podczas czytania
+    angielskich kart.
+
 
 Hasła zdolności
 ---------------

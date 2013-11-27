@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-09 14:17+0200\n"
+"PO-Revision-Date: 2013-11-25 19:28+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381324648.827155\n"
+"X-POOTLE-MTIME: 1385404109.643633\n"
 
 # bc285d61e5844f2db8f900ddf644d9e4
 #: ../../GTC.rst:5
@@ -486,7 +486,7 @@ msgstr "Boros Charm (Amulet Borosów)"
 msgid "Choose one — Boros Charm deals 4 damage to target player; or permanents you control gain indestructible until end of turn; or target creature gains double strike until end of turn."
 msgstr ""
 "Wybierz jedno — Boros Charm zadaje 4 obrażenia wskazanemu graczowi; albo "
-"stałki, którymi władasz zyskują niezniszczalność do końca tury; albo "
+"permanenty, którymi władasz zyskują niezniszczalność do końca tury; albo "
 "wskazany stwór zyskuje podwójny cios do końca tury."
 
 # 7bb2144a24994a6daf3305f7b2755e8a
@@ -938,8 +938,8 @@ msgstr ""
 #: ../../GTC.rst:316
 msgid "When Dinrova Horror enters the battlefield, return target permanent to its owner's hand, then that player discards a card."
 msgstr ""
-"Kiedy Dinrova Horror wchodzi na pole walki, przywróć wskazaną stałkę do ręki "
-"właściciela, następnie ten gracz odrzuca kartę."
+"Kiedy Dinrova Horror wchodzi na pole walki, przywróć wskazany permanent do "
+"ręki jego właściciela, następnie ów gracz odrzuca kartę."
 
 # f42a37c8a88f4e4f9c0b53c88bfe2f7e
 #: ../../GTC.rst:321
@@ -1338,7 +1338,7 @@ msgstr ""
 # c1ab6f9ca1664c3fb7c2c0939d3a4217
 #: ../../GTC.rst:468
 msgid "-15: Exile all other permanents."
-msgstr "-15: Wypędź wszystkie inne stałki."
+msgstr "-15: Wypędź wszystkie inne permanenty."
 
 # 1470c557d08d47dc882fa8f1864c851d
 #: ../../GTC.rst:475
@@ -1405,7 +1405,7 @@ msgstr ""
 # 52cb7d6cf6e34900b1e03734063266c9
 #: ../../GTC.rst:494
 msgid "Tap X target nonland permanents."
-msgstr "Zaznacz X wskazanych stałek nie będących lądami."
+msgstr "Zaznacz X wskazanych nielądowych permanentów."
 
 # 007de288c142472884129991d94e0c81
 #: ../../GTC.rst:499
@@ -1441,8 +1441,8 @@ msgstr "Gruul Charm (Amulet Gruuli)"
 msgid "Choose one — Creatures without flying can't block this turn; or gain control of all permanents you own; or Gruul Charm deals 3 damage to each creature with flying."
 msgstr ""
 "Wybierz jedno — Stwory bez latania nie mogą blokować w tej turze; albo "
-"przejmij władanie nad wszystkimi własnymi stałkami; albo Gruul Charm zadaje "
-"3 obrażenia każdemu stworowi z lataniem."
+"przejmij władanie nad wszystkimi własnymi permanentami; albo Gruul Charm "
+"zadaje 3 obrażenia każdemu stworowi z lataniem."
 
 # 2dd15ec39b0e4f62b114e65270c26c5b
 #: ../../GTC.rst:515
@@ -1582,7 +1582,7 @@ msgstr "High Priest of Penance (Arcykapłan Pokuty)"
 msgid "Whenever High Priest of Penance is dealt damage, you may destroy target nonland permanent."
 msgstr ""
 "Ilekroć High Priest of Penance otrzymuje obrażenia, możesz zniszczyć "
-"wskazaną stałkę nie będącą lądem."
+"wskazany nielądowy permanent."
 
 # 873e86f1cbac4ea6b2c5fab60dcf01c1
 #: ../../GTC.rst:575
@@ -2666,8 +2666,8 @@ msgstr "Simic Charm (Amulet Simiców)"
 #: ../../GTC.rst:999
 msgid "Choose one — Target creature gets +3/+3 until end of turn; or permanents you control gain hexproof until end of turn; or return target creature to its owner's hand."
 msgstr ""
-"Wybierz jedno — Wskazany stwór dostaje +3/+3 do końca tury; albo stałki, "
-"którymi władasz dostają antyklątwę do końca tury; albo swróć wskazanego "
+"Wybierz jedno — Wskazany stwór dostaje +3/+3 do końca tury; albo permanenty, "
+"którymi władasz dostają antyklątwę do końca tury; albo zwróć wskazanego "
 "stwora do ręki jego właściciela."
 
 # e468d832e24146f8b58a507f40c14473
@@ -2992,9 +2992,9 @@ msgstr "Zasięg"
 msgid "When Sylvan Primordial enters the battlefield, for each opponent, destroy target noncreature permanent that player controls. For each permanent destroyed this way, search your library for a Forest card and put that card onto the battlefield tapped. Then shuffle your library."
 msgstr ""
 "Kiedy Sylvan Primordial wchodzi na pole walki, dla każdego ze swoich "
-"przeciwników, zniszcz wskazaną stałkę nie będącą stworem władaną przez owego "
-"gracza. Dla każdej stałki zniszczonej w ten sposób, poszukaj w twojej "
-"bibliotece karty Lasu i połóż ją zaznaczoną na polu walki. Następnie "
+"przeciwników, zniszcz wskazany permanent nie będący stworem władany przez "
+"owego gracza. Dla każdego permanentu zniszczonego w ten sposób, poszukaj w "
+"twojej bibliotece karty Lasu i połóż ją zaznaczoną na polu walki. Następnie "
 "przetasuj twoją bibliotekę."
 
 # 6e34a525a3bf40f78649a4f6ef829c96
@@ -3033,7 +3033,8 @@ msgstr "Thrull Parasite (Thrull Pasożyt)"
 #: ../../GTC.rst:1149
 msgid "|tap|, Pay 2 life: Remove a counter from target nonland permanent."
 msgstr ""
-"|tap|, zapłać 2 życia: Zdejmij znacznik ze wskazanej nie-lądowej stałki."
+"|tap|, zapłać 2 życia: Zdejmij znacznik ze wskazanego nielądowego "
+"permanentu."
 
 # 52a8b5157aea4e9d95d0d8b0c34ebe56
 #: ../../GTC.rst:1156
@@ -3054,8 +3055,7 @@ msgstr "Totally Lost (Kompletnie Zagubiony)"
 #: ../../GTC.rst:1159
 msgid "Put target nonland permanent on top of its owner's library."
 msgstr ""
-"Połóż wskazaną stałkę nie będącą lądem na wierzchu biblioteki jej "
-"właściciela."
+"Połóż wskazany nielądowy permanent na wierzchu biblioteki jego właściciela."
 
 # 0331e4ac032940f9b186ea20c58023d5
 #: ../../GTC.rst:1164
@@ -3126,7 +3126,8 @@ msgstr ""
 # d010a925c4fb4b0f804c879776701edc
 #: ../../GTC.rst:1189
 msgid "Target player loses 1 life, discards a card, then sacrifices a permanent."
-msgstr "Wskazany gracz traci 1 życie, odrzuca kartę, następnie poświęca stałkę."
+msgstr ""
+"Wskazany gracz traci 1 życie, odrzuca kartę, następnie poświęca permanent."
 
 # 405444016c6e4465855400e4034fea5f
 #: ../../GTC.rst:1196

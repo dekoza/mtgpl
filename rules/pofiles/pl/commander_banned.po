@@ -1,0 +1,243 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Dominik <Kozaczko>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-11 10:37+0100\n"
+"PO-Revision-Date: 2013-11-12 01:11+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
+"Language-Team: polski <>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1384215110.477170\n"
+
+# 2cee311bedfa45e6864f20d0e717af9e
+#: ../../commander_banned.rst:5
+msgid "Cards banned in Commander"
+msgstr "Karty zabronione w Commanderze (Dowódcy)"
+
+# 1fa4998da43b48a6b069a8f8b032060e
+#: ../../commander_banned.rst:7
+msgid ""
+"The following is the official banned list for commander games. These cards "
+"(and others like them) should not be played without prior agreement from the "
+"other players in the game."
+msgstr ""
+"Poniżej znajduje się oficjalna lista kart zabronionych w rozgrywkach "
+"Commandera. Karty te (i inne podobne do nich) nie powinny być używane bez "
+"uprzedniej zgody pozostałych graczy."
+
+# a03da2be225c4a8b94d65abcb66ab815
+#: ../../commander_banned.rst:13
+msgid "Banned from play"
+msgstr "Wyłączone z gry"
+
+# a6e04e9ee6234b1e95ec6a56830ec3d1
+#: ../../commander_banned.rst:15
+msgid ":mtgtip:`Ancestral Recall`"
+msgstr ""
+
+# 9ea5afebb76e45b2bc92fb9f21434837
+#: ../../commander_banned.rst:17
+msgid ":mtgtip:`Balance`"
+msgstr ""
+
+# 1ed2066feba245c5bb68e79475cfe801
+#: ../../commander_banned.rst:19
+msgid ":mtgtip:`Biorhythm`"
+msgstr ""
+
+# 0e16f79daceb4ed0bc41477916f78dd9
+#: ../../commander_banned.rst:21
+msgid ":mtgtip:`Black Lotus`"
+msgstr ""
+
+# 21db8de82e454fc1bfaed131805721d8
+#: ../../commander_banned.rst:23
+msgid ":mtgtip:`Channel`"
+msgstr ""
+
+# 5ffb846b832846da84340c08ab8afe13
+#: ../../commander_banned.rst:25
+msgid ":mtgtip:`Coalition Victory`"
+msgstr ""
+
+# 64ff00e3f85c487aa708e8c846a387b8
+#: ../../commander_banned.rst:27
+msgid ":mtgtip:`Emrakul, the Aeons Torn`"
+msgstr ""
+
+# 21097bd65eb94dc68c46a5d0144893dc
+#: ../../commander_banned.rst:29
+msgid ":mtgtip:`Fastbond`"
+msgstr ""
+
+# 4f93ac7b96b4482095155cb8e7eeab05
+#: ../../commander_banned.rst:31
+msgid ":mtgtip:`Gifts Ungiven`"
+msgstr ""
+
+# 21d37ae9c5f54f4d95d74226c9cb3a97
+#: ../../commander_banned.rst:33
+msgid ":mtgtip:`Griselbrand`"
+msgstr ""
+
+# f1f3a169dc0a4aab8ee4c0df465ba8f1
+#: ../../commander_banned.rst:35
+msgid ":mtgtip:`Karakas`"
+msgstr ""
+
+# 521f469870aa42de94e0c0d23b662952
+#: ../../commander_banned.rst:37
+msgid ":mtgtip:`Library of Alexandria`"
+msgstr ""
+
+# da299c2ccecf408cb5b89d45964fb517
+#: ../../commander_banned.rst:39
+msgid ":mtgtip:`Limited Resources`"
+msgstr ""
+
+# 774502f7303a47148ab01b0f419e1593
+#: ../../commander_banned.rst:41
+msgid ":mtgtip:`Metalworker`"
+msgstr ""
+
+# a5a00f2094ff42e6aded5bceb1edbbad
+#: ../../commander_banned.rst:43
+msgid ":mtgtip:`Mox Emerald`"
+msgstr ""
+
+# d455af27c3f84b1189974ddb85257f1a
+#: ../../commander_banned.rst:45
+msgid ":mtgtip:`Mox Jet`"
+msgstr ""
+
+# 45cf4a8c908c46138f2f49841d416d4f
+#: ../../commander_banned.rst:47
+msgid ":mtgtip:`Moc Pearl`"
+msgstr ""
+
+# 3b6b36b596d94b78824f6e9c396753ee
+#: ../../commander_banned.rst:49
+msgid ":mtgtip:`Mox Ruby`"
+msgstr ""
+
+# 9dff5f82df924aed86e167b1bfb5a4fb
+#: ../../commander_banned.rst:51
+msgid ":mtgtip:`Mox Sapphire`"
+msgstr ""
+
+# 4d4e1c0271d547eabf2778d9606e39d9
+#: ../../commander_banned.rst:53
+msgid ":mtgtip:`Painter's Servant`"
+msgstr ""
+
+# ccdf51b1d299419ea350be25bcab8bf1
+#: ../../commander_banned.rst:55
+msgid ":mtgtip:`Panoptic Mirror`"
+msgstr ""
+
+# c49ba3971bc64ab5bd3c03aa621a07b7
+#: ../../commander_banned.rst:57
+msgid ":mtgtip:`Primeval Titan`"
+msgstr ""
+
+# 68e5a5dc990f4750a453bc1265adf2b7
+#: ../../commander_banned.rst:59
+msgid ":mtgtip:`Protean Hulk`"
+msgstr ""
+
+# e9be5b5bc11a495382257f4b51a18cee
+#: ../../commander_banned.rst:61
+msgid ":mtgtip:`Recurring Nightmare`"
+msgstr ""
+
+# 6ef401c30c5742fe870b9e2fd686341d
+#: ../../commander_banned.rst:63
+msgid ":mtgtip:`Sundering Titan`"
+msgstr ""
+
+# c1ba244356a241f08b49032b9b558872
+#: ../../commander_banned.rst:65
+msgid ":mtgtip:`Sway of the Stars`"
+msgstr ""
+
+# bc8862f3976947839d9c3d385516a35b
+#: ../../commander_banned.rst:67
+msgid ":mtgtip:`Time Vault`"
+msgstr ""
+
+# e365a1bdaef7456fa24aea4a7bfe9c16
+#: ../../commander_banned.rst:69
+msgid ":mtgtip:`Time Walk`"
+msgstr ""
+
+# 6f947e0ef5f8419a8b5eab50856d5600
+#: ../../commander_banned.rst:71
+msgid ":mtgtip:`Tinker`"
+msgstr ""
+
+# 1983a7bc3b8f4f088c07645cc0742f88
+#: ../../commander_banned.rst:73
+msgid ":mtgtip:`Tolarian Academy`"
+msgstr ""
+
+# de4cf00ad9d4472082cffe65d215624a
+#: ../../commander_banned.rst:75
+msgid ":mtgtip:`Trade Secrets`"
+msgstr ""
+
+# be660065c67c4451ac91238ebdd020a2
+#: ../../commander_banned.rst:77
+msgid ":mtgtip:`Upheaval`"
+msgstr ""
+
+# 7fed4a6d3ecf4ca7ae597d5a0efaa54d
+#: ../../commander_banned.rst:79
+msgid ":mtgtip:`Worldfire`"
+msgstr ""
+
+# b3059e3605a44facb57866321442e81e
+#: ../../commander_banned.rst:81
+msgid ":mtgtip:`Yawgmoth's Bargain`"
+msgstr ""
+
+# e8bd7676355e4b26a94b6e7809591c84
+#: ../../commander_banned.rst:89
+msgid "Banned Commanders"
+msgstr "Zabronione jako Dowódcy"
+
+# 7b963a6179144660ad9412c135044404
+#: ../../commander_banned.rst:91
+msgid "Additionally the following legends may not be used as a Commander:"
+msgstr "Dodatkowo następujące Legendy nie mogą być używane jako Dowódcy:"
+
+# 5ae49b2e195c45379746ad72fa5fa781
+#: ../../commander_banned.rst:93
+msgid ":mtgtip:`Braids, Cabal Minion`"
+msgstr ""
+
+# 0497d1075a064286a2ea278a875e2379
+#: ../../commander_banned.rst:95
+msgid ":mtgtip:`Erayo, Soratami Ascendant`"
+msgstr ""
+
+# ced8d2f5e8ef469aba246c462d31c983
+#: ../../commander_banned.rst:97
+msgid ":mtgtip:`Kokusho, the Evening Star`"
+msgstr ""
+
+# 73dd7d0ff1674a8f9977cea60f938fad
+#: ../../commander_banned.rst:99
+msgid ":mtgtip:`Rofellos, Llanowar Emissary`"
+msgstr ""

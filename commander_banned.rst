@@ -12,65 +12,73 @@ The following is the official banned list for commander games. These cards (and 
 Banned from play
 ================
 
-Ancestral Recall
+:mtgtip:`Ancestral Recall`
      
-Balance
+:mtgtip:`Balance`
     
-Biorhythm
+:mtgtip:`Biorhythm`
 
-Black Lotus
+:mtgtip:`Black Lotus`
 
-Coalition Victory
+:mtgtip:`Channel`
 
-Channel
+:mtgtip:`Coalition Victory`
 
-Emrakul, the Aeons Torn
+:mtgtip:`Emrakul, the Aeons Torn`
 
-Fastbond
+:mtgtip:`Fastbond`
 
-Gifts Ungiven
+:mtgtip:`Gifts Ungiven`
 
-Karakas
+:mtgtip:`Griselbrand`
 
-Library of Alexandria
+:mtgtip:`Karakas`
 
-Limited Resources
+:mtgtip:`Library of Alexandria`
 
-Metalworker
+:mtgtip:`Limited Resources`
 
-Sundering Titan
+:mtgtip:`Metalworker`
 
-Primeval Titan
+:mtgtip:`Mox Emerald`
 
-Mox Sapphire, Ruby, Pearl, Emerald and Jet
+:mtgtip:`Mox Jet`
 
-Painter's Servant
+:mtgtip:`Moc Pearl`
 
-Panoptic Mirror
+:mtgtip:`Mox Ruby`
 
-Protean Hulk
+:mtgtip:`Mox Sapphire`
 
-Recurring Nightmare
+:mtgtip:`Painter's Servant`
 
-Sway of the Stars
+:mtgtip:`Panoptic Mirror`
 
-Time Vault
+:mtgtip:`Primeval Titan`
 
-Time Walk
+:mtgtip:`Protean Hulk`
 
-Tinker
+:mtgtip:`Recurring Nightmare`
 
-Tolarian Academy
+:mtgtip:`Sundering Titan`
 
-Upheaval
+:mtgtip:`Sway of the Stars`
 
-Yawgmoth's Bargain
+:mtgtip:`Time Vault`
 
-Griselbrand
+:mtgtip:`Time Walk`
 
-Worldfire
+:mtgtip:`Tinker`
 
-Trade Secrets
+:mtgtip:`Tolarian Academy`
+
+:mtgtip:`Trade Secrets`
+
+:mtgtip:`Upheaval`
+
+:mtgtip:`Worldfire`
+
+:mtgtip:`Yawgmoth's Bargain`
 
 
 
@@ -82,11 +90,12 @@ Banned Commanders
 
 Additionally the following legends may not be used as a Commander:
 
-Braids, Cabal Minion
+:mtgtip:`Braids, Cabal Minion`
 
-Rofellos, Llanowar Emissary
+:mtgtip:`Erayo, Soratami Ascendant`
 
-Erayo, Soratami Ascendant
+:mtgtip:`Kokusho, the Evening Star`
 
-Kokusho, the Evening Star
+:mtgtip:`Rofellos, Llanowar Emissary`
+
 

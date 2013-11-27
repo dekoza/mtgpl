@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-09 14:21+0200\n"
+"PO-Revision-Date: 2013-11-25 19:32+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381324882.236853\n"
+"X-POOTLE-MTIME: 1385404336.863518\n"
 
 # 8f7974d7a6914bf581174be80fc2157b
 #: ../../RTR.rst:5
@@ -35,7 +35,8 @@ msgstr "Abrupt Decay nie może być skontrowany przez czary i zdolności."
 # ae22bea331ec4a56ad31deaa030786bf
 #: ../../RTR.rst:10
 msgid "Destroy target nonland permanent with converted mana cost 3 or less."
-msgstr "Zniszcz wskazaną nielądową stałkę o łącznym koszcie many 3 lub mniej."
+msgstr ""
+"Zniszcz wskazany nielądowy permanent o łącznym koszcie many 3 lub mniej."
 
 # d6c22d1caca14217a29f973f4c740e50
 #: ../../RTR.rst:15
@@ -147,10 +148,10 @@ msgstr ""
 #: ../../RTR.rst:36
 msgid "Whenever Archon of the Triumvirate attacks, detain up to two target nonland permanents your opponents control. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
-"Ilekroć Archon of the Triumvirate atakuje, uwięź najwyżej dwie wskazane "
-"nielądowe stałki władane przez twoich przeciwników. (Do twojej następnej "
-"tury owe stałki nie mogą atakować ani blokować, a ich aktywowane zdolności "
-"nie mogą być aktywowane.)"
+"Ilekroć Archon of the Triumvirate atakuje, uwięź najwyżej dwa wskazane "
+"nielądowe permanenty władane przez twoich przeciwników. (Do twojej następnej "
+"tury owe permanenty nie mogą atakować ani blokować, a ich aktywowane "
+"zdolności nie mogą być aktywowane.)"
 
 # c67bc2102a274f818ed54e59e3190cb6
 #: ../../RTR.rst:41
@@ -749,8 +750,8 @@ msgstr "Conjured Currency (Fałszywa Waluta)"
 msgid "At the beginning of your upkeep, you may exchange control of Conjured Currency and target permanent you neither own nor control."
 msgstr ""
 "Na początku twojego utrzymania możesz zamienić władanie nad Conjured "
-"Currency na władanie nad wskazaną stałką którą nie władasz i która nie jest "
-"twoją własnością."
+"Currency na władanie nad wskazanym permanentem, którym nie władasz i który "
+"nie jest twoją własnością."
 
 # 98c335bca3124d7dacd65a3fac973813
 #: ../../RTR.rst:249
@@ -851,7 +852,7 @@ msgstr ""
 #: ../../RTR.rst:280
 msgid "Return target nonland permanent you don't control to its owner's hand."
 msgstr ""
-"Przywróć wskazaną nie-lądową stałkę, którą nie władasz do ręki jej "
+"Przywróć wskazany nielądowy permanent, którym nie władasz do ręki jego "
 "właściciela."
 
 # b956f1ee1360479db7160dc38312d483
@@ -978,9 +979,9 @@ msgstr ""
 #: ../../RTR.rst:328
 msgid "When Detention Sphere enters the battlefield, you may exile target nonland permanent not named Detention Sphere and all other permanents with the same name as that permanent."
 msgstr ""
-"Kiedy Detention Sphere wchodzi na pole walki, możesz wypędzić wskazaną "
-"nielądową stałkę o nazwie innej niż Detention Sphere oraz wszystkie inne "
-"stałki o takiej samej nazwie jak owa stałka."
+"Kiedy Detention Sphere wchodzi na pole walki, możesz wypędzić wskazany "
+"nielądowy permanent o nazwie innej niż Detention Sphere oraz wszystkie inne "
+"permanenty o takiej samej nazwie jak ów permanent."
 
 # fa362a96ae374f1dbc033a11f1bfe521
 #: ../../RTR.rst:330
@@ -1957,9 +1958,10 @@ msgstr ""
 #: ../../RTR.rst:708
 msgid "When Lyev Skyknight enters the battlefield, detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)"
 msgstr ""
-"Kiedy Lyev Skyknight wchodzi na pole walki, uwięź wskazaną nielądową stałkę "
-"władaną przez przeciwnika. (Do twojej następnej tury owa stałka nie może "
-"atakować ani blokować, a jaj aktywowane zdolności nie mogą być aktywowane.)"
+"Kiedy Lyev Skyknight wchodzi na pole walki, uwięź wskazany nielądowy "
+"permanent władany przez przeciwnika. (Do twojej następnej tury ów permanent "
+"nie może atakować ani blokować, a jego aktywowane zdolności nie mogą być "
+"aktywowane.)"
 
 # 6fa3608989d44d14bba43ead650316f1
 #: ../../RTR.rst:717
@@ -2104,9 +2106,9 @@ msgstr "|mana_w| |mana_u|: Wskazany stwór zyskuje latanie do końca tury."
 #: ../../RTR.rst:762
 msgid "|mana_3| |mana_w| |mana_u|: Detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)"
 msgstr ""
-"|mana_3| |mana_w| |mana_u|: Uwięź wskazaną nielądową stałkę władaną przez "
-"przeciwnika. (Do twojej następnej tury owa stałka  nie może atakować ani "
-"blokować, a jej aktywowane zdolności nie mogą być aktywowane.)"
+"|mana_3| |mana_w| |mana_u|: Uwięź wskazany nielądowy permanent władany przez "
+"przeciwnika. (Do twojej następnej tury ów permanent  nie może atakować ani "
+"blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
 
 # 7a35714e95394d0184952b8dacd0bb6c
 #: ../../RTR.rst:769
@@ -2224,8 +2226,8 @@ msgstr ""
 #: ../../RTR.rst:806
 msgid "All damage that would be dealt to you or another permanent you control is dealt to Palisade Giant instead."
 msgstr ""
-"Wszelkie obrażenia, które mogłyby zostać zadane tobie lub innej władanej "
-"przez ciebie stałce albo tobie, są zamiast tego zadawane Palisade Giantowi."
+"Wszelkie obrażenia, które mogłyby zostać zadane tobie lub innemu władanemu "
+"przez ciebie permanentowi, są zamiast tego zadawane Palisadowemu Gigantowi."
 
 # 7d3673d7507e43429980f1eebcbf47aa
 #: ../../RTR.rst:813
@@ -2865,14 +2867,14 @@ msgstr ""
 # f0ba0c184ebc4c4e9dfc4392ea9ad182
 #: ../../RTR.rst:1061
 msgid "Enchant nonland permanent"
-msgstr "Zaurocz stałkę nie będącą lądem"
+msgstr "Zaurocz nielądowy permanent"
 
 # 6b11a084b32d461b8a8c4f7865c95ef1
 #: ../../RTR.rst:1063
 msgid "At the beginning of the upkeep of enchanted permanent's controller, that player sacrifices it unless he or she pays |mana_x|, where X is its converted mana cost."
 msgstr ""
-"Na początku utrzymania władcy zauroczonej stałki, ów gracz poświęca ją "
-"dopóki nie zapłaci |mana_x|, gdzie X jest jej łącznym kosztem many."
+"Na początku utrzymania władcy zauroczonego permanentu, ów gracz poświęca go "
+"dopóki nie zapłaci |mana_x|, gdzie X jest jego łącznym kosztem many."
 
 # bdb00d6678244426a3c1b4a4da778672
 #: ../../RTR.rst:1070
@@ -3456,7 +3458,7 @@ msgstr ""
 # 92c01546bc044403b1df94752af40fcb
 #: ../../RTR.rst:1305
 msgid "-3: Destroy target nonland permanent."
-msgstr "-3: Zniszcz wskazaną nielądową stałkę."
+msgstr "-3: Zniszcz wskazany nielądowy permanent."
 
 # bf656982d0e84a31beb26b87669c836f
 #: ../../RTR.rst:1307

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-28 18:47\n"
-"PO-Revision-Date: 2013-09-28 17:27+0200\n"
+"PO-Revision-Date: 2013-10-01 15:00+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
 "Language: pl\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1380385620.311593\n"
+"X-POOTLE-MTIME: 1380636022.231352\n"
 
 # 26e07668bf534cb692867a6f0b00c9c2
 #: ../../THS_hydra.rst:5
@@ -116,7 +116,7 @@ msgstr "Tura Hydry"
 # 0b8853d7501f45bab0d12eff3736a6d8
 #: ../../THS_hydra.rst:30
 msgid "A the start of the Hydra's turn, untap any tapped Heads."
-msgstr "Na początku tury Hydry odśwież wszystkie zużyte Głowy."
+msgstr "Na początku tury Hydry odznacz wszystkie zaznaczone Głowy."
 
 # 0eed76b118ec4ce5943e5c85a8b5afa3
 #: ../../THS_hydra.rst:31
@@ -135,9 +135,9 @@ msgid ""
 "The Hydra deals 1 damage to you for each untapped card named Hydra Head it "
 "controls and 2 damage to you for each untapped elite Head it controls."
 msgstr ""
-"Hydra zadaje tobie 1 obrażenie za każdą niezużytą kartę nazwaną Głowa Hydry, "
-"którą włada, oraz 2 obrażenia za każdą niezużytą elitarną Głowę, którą "
-"włada."
+"Hydra zadaje tobie 1 obrażenie za każdą odznaczoną kartę nazwaną Głowa "
+"Hydry, którą włada, oraz 2 obrażenia za każdą odznaczoną elitarną Głowę, "
+"którą włada."
 
 # c218e394a4d44c8abb108918a1368c67
 #: ../../THS_hydra.rst:39
@@ -150,8 +150,8 @@ msgid ""
 "If the Hydra would be dealt damage or lose life, instead deal that much "
 "damage to a Head of your choice."
 msgstr ""
-"Jeśli Hydra miałaby otrzymać obrażenia lub stracić życie, zamiast tego zadaj "
-"tyle samo obrażeń wybranej Głowie."
+"Jeśli Hydra miałaby otrzymać obrażenia lub stracić punkty życia, zamiast "
+"tego zadaj tyle samo obrażeń wybranej Głowie."
 
 # 7d3da5b8a18845128f8cd719b1b9925e
 #: ../../THS_hydra.rst:42
@@ -197,7 +197,7 @@ msgid ""
 "*Hero's Reward* — When Hydra Head leaves the battlefield, each player gains "
 "2 life."
 msgstr ""
-"*Nagroda Bohatera:* Kiedy Głowa Hydry opuszcza pole walki, każdy gracz "
+"*Nagroda Bohatera* — Kiedy Głowa Hydry opuszcza pole walki, każdy gracz "
 "zyskuje 2 życia."
 
 # e6beef356d404d5391a80b1f41c0c427
@@ -211,7 +211,7 @@ msgid ""
 "*Hero's Reward* — When Ravenous Brute Head leaves the battlefield, each "
 "player gains 2 life and draws a card."
 msgstr ""
-"*Nagroda Bohatera:* Kiedy Żarłoczna Głowa opuszcza pole walki, każdy gracz "
+"*Nagroda Bohatera* — Kiedy Żarłoczna Głowa opuszcza pole walki, każdy gracz "
 "zyskuje 2 życia i dobiera kartę."
 
 # 96b44785bc284820bc475d8ceb332503
@@ -234,7 +234,7 @@ msgid ""
 "*Hero's Reward* — When Savage Vigor Head leaves the battlefield, each player "
 "gains 4 life and draws a card."
 msgstr ""
-"*Nagroda Bohatera:* Kiedy Głowa Pierwotnego Wigoru opuszcza pole walki, "
+"*Nagroda Bohatera* — Kiedy Głowa Pierwotnego Wigoru opuszcza pole walki, "
 "każdy gracz zyskuje 4 życia i dobiera kartę."
 
 # d8d481b3fa974e089516caf1068087c3
@@ -253,7 +253,7 @@ msgid ""
 "*Hero's Reward* — When Shrieking Titan Head leaves the battlefield, each "
 "player gains 4 life and draws a card."
 msgstr ""
-"*Nagroda Bohatera:* Kiedy Skrzecząca Głowa opuszcza pole walki, każdy gracz "
+"*Nagroda Bohatera* — Kiedy Skrzecząca Głowa opuszcza pole walki, każdy gracz "
 "zyskuje 4 życia i dobiera kartę."
 
 # d9fa047526df44d7addb645b03e0bec7
@@ -276,7 +276,7 @@ msgid ""
 "*Hero's Reward* — When Snapping Fang Head leaves the battlefield, each "
 "player gains 4 life and draws a card."
 msgstr ""
-"*Nagroda Bohatera:* Kiedy Głowa z Kłapiącą Paszczą opuszcza pole walki, "
+"*Nagroda Bohatera* — Kiedy Głowa z Kłapiącą Paszczą opuszcza pole walki, "
 "każdy gracz zyskuje 4 życia i dobiera kartę."
 
 # 79b854521ac04e00a02a82150b1aeb2e
@@ -307,7 +307,7 @@ msgid ""
 "creature loses 3 life."
 msgstr ""
 "Każdy gracz może poświęcić stwora. Każdy gracz, który poświęcił w ten sposób "
-"stwora wybiera Głowę i zużywa ją. Każdy gracz, który nie poświęcił stwora "
+"stwora wybiera Głowę i zaznacza ją. Każdy gracz, który nie poświęcił stwora "
 "traci 3 życia."
 
 # 8b6da17a449845ec9c11e31b406bd8e1
@@ -350,8 +350,8 @@ msgid ""
 "don't untap during the Hydra's next untap step. Otherwise, reveal the top "
 "card of the Hydra's library and the Hydra casts that card."
 msgstr ""
-"Jeśli na polu walki jest pięć lub więcej Głów, zużyj dwie z nich i nie "
-"odświeżą się one w następnym kroku odświażania Hydry. W przeciwnym razie "
+"Jeśli na polu walki jest pięć lub więcej Głów, zaznacz dwie z nich i nie "
+"odznaczą się one w następnym kroku odznaczania Hydry. W przeciwnym razie "
 "ujawni wierzchnią kartę z biblioteki Hydry i Hydra rzuca tę kartę."
 
 # 8bb34e94dea74674948b8bb6367734ea
@@ -365,8 +365,8 @@ msgid ""
 "Choose one — Noxious Hydra Breath deals 5 damage to each player; or destroy "
 "each tapped non-Head creature."
 msgstr ""
-"Wybierz jedno: Trujący Dech Hydry zadaje 5 obrażeń każdemu graczowi; albo "
-"zniszcz każdego zużytego stwora nie będącego Głową."
+"Wybierz jedno — Trujący Dech Hydry zadaje 5 obrażeń każdemu graczowi; albo "
+"zniszcz każdego zaznaczonego stwora nie będącego Głową."
 
 # bf3d1e684fd541e3a804a50c649e14c4
 #: ../../THS_hydra.rst:101
@@ -409,8 +409,8 @@ msgid ""
 "Tap up to two Heads. They don't untap during the Hydra's next untap step. "
 "Torn Between Heads deals 5 damage to each player."
 msgstr ""
-"Zużyj najwyżej dwie Głowy. Nie odświeżą się one w następnym kroku "
-"odświeżania Hydry. Rozdarty Między Głowami zadaje 5 obrażeń każdemu "
+"Zaznacz najwyżej dwie Głowy. Nie odznaczą się one w następnym kroku "
+"odznaczania Hydry. Rozdarty Między Głowami zadaje 5 obrażeń każdemu "
 "graczowi."
 
 # 39650ff6a4654260a6ca25c06d6c095a

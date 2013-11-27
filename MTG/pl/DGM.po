@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-28 21:23\n"
-"PO-Revision-Date: 2013-10-09 14:44+0200\n"
+"PO-Revision-Date: 2013-11-25 19:29+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381326298.7211\n"
+"X-POOTLE-MTIME: 1385404179.955608\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
 #: ../../DGM.rst:5
@@ -472,8 +472,8 @@ msgstr "Catch // Release [Catch] (Złap // Wypuść [Złap])"
 #: ../../DGM.rst:160
 msgid "Gain control of target permanent until end of turn. Untap it. It gains haste until end of turn."
 msgstr ""
-"Przejmij władanie nad wskazaną stałką do końca tury. Odznacz ją. Zyskuje ona "
-"Pośpiech do końca tury."
+"Przejmij władanie nad wskazanym permanentem do końca tury. Odznacz go. "
+"Zyskuje on pośpiech do końca tury."
 
 # 90e10e360c1a4077b1ccce43f32277e4
 #: ../../DGM.rst:167
@@ -792,8 +792,7 @@ msgstr "Gaze of Granite (Granitowe Spojrzenie)"
 # 5b9ad1c7fe9943558be9f3d8f9bde34b
 #: ../../DGM.rst:282
 msgid "Destroy each nonland permanent with converted mana cost X or less."
-msgstr ""
-"Zniszcz każdą stałkę nie będącą lądem mającą łączny koszt many X lub mniej."
+msgstr "Zniszcz każdy nielądowy permanent mający łączny koszt many X lub mniej."
 
 # 9820db6500054221a120befb714eee50
 #: ../../DGM.rst:289
@@ -924,8 +923,8 @@ msgstr "Hidden Strings (Ukryte Sznurki)"
 #: ../../DGM.rst:338
 msgid "You may tap or untap target permanent, then you may tap or untap another target permanent."
 msgstr ""
-"Możesz zaznaczyć lub odznaczyć wskazaną stałkę, a następnie możesz zaznaczyć "
-"lub odznaczyć inną wskazaną stałkę."
+"Możesz zaznaczyć lub odznaczyć wskazany permanent, a następnie możesz "
+"zaznaczyć lub odznaczyć inny wskazany permanent."
 
 # 3576509679dd4ce98f6ef39bd77ab45b
 # 9b655120a3e84d7885705e695d21ddae
@@ -1071,11 +1070,10 @@ msgstr "Ochrona przed czerwonym"
 #: ../../DGM.rst:388
 msgid "When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
-"Kiedy Lavinia of the Tenth wchodzi na pole walki, uwięź każdą stałkę nie "
-"będącą lądem, władaną przez twoich przeciwników, której łączny koszt many "
-"jest nie większy niż 4. (Do twojej następnej tury stałki te nie mogą "
-"atakować lub blokować, a ich aktywowane zdolności nie mogą zostać "
-"aktywowane.)"
+"Kiedy Lavinia of the Tenth wchodzi na pole walki, uwięź każdy nielądowy "
+"permanent władany przez twoich przeciwników, którego łączny koszt many jest "
+"nie większy niż 4. (Do twojej następnej tury permanenty te nie mogą atakować "
+"lub blokować, a ich aktywowane zdolności nie mogą zostać aktywowane.)"
 
 # 5ff2685db3344afabf45ebad49561174
 #: ../../DGM.rst:397
@@ -1379,7 +1377,7 @@ msgstr "Obzeadt's Aid (Pomoc Obzedata)"
 # bc6c32faed6246248f207d0179320b73
 #: ../../DGM.rst:506
 msgid "Return target permanent card from your graveyard to the battlefield."
-msgstr "Przywróć wskazaną stałkę z twojego cmentarza na pole walki."
+msgstr "Przywróć wskazaną kartę permanentu z twojego cmentarza na pole walki."
 
 # 53c6108f4cbd4aa9b570b17fb1567fb4
 #: ../../DGM.rst:511
@@ -1608,7 +1606,8 @@ msgstr "Ral Zarek"
 # 5e7f9ae81aa84df6a70f02d717380c35
 #: ../../DGM.rst:596
 msgid "+1: Tap target permanent, then untap another target permanent."
-msgstr "+1: Zaznacz wskazaną stałkę, następnie odznacz inną stałkę."
+msgstr ""
+"+1: Zaznacz wskazany permanent, następnie odznacz inny wskazany permanent."
 
 # 42853b986aaa4f54b1d3b5b109bbe409
 #: ../../DGM.rst:598
@@ -1689,7 +1688,7 @@ msgstr ""
 # 2df3cdd53bec41da8b106ea19de8cf1e
 #: ../../DGM.rst:630
 msgid "Each player sacrifices a multicolored permanent."
-msgstr "Każdy gracz poświęca wielokolorową stałkę."
+msgstr "Każdy gracz poświęca wielokolorowy permanent."
 
 # f7700a47d1d24f10919932533d2488f1
 #: ../../DGM.rst:635
@@ -2154,8 +2153,8 @@ msgstr ""
 #: ../../DGM.rst:812
 msgid "Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another until end of turn."
 msgstr ""
-"Zmień tekst wskazanej stałki poprzez zmianę wszystkich wystąpień jednego "
-"koloru innym albo jednego zwykłego typu lądu innym, do końca tury."
+"Zmień do końca tury tekst wskazanego permanentu poprzez zmianę wszystkich "
+"wystąpień jednego koloru innym albo jednego typu bazowego lądu innym."
 
 # e148175548b3429c8fa4e7b910e9b270
 #: ../../DGM.rst:819
@@ -2288,7 +2287,7 @@ msgstr ""
 msgid "|mana_g| |mana_u|, |tap|: For each counter on target artifact, creature, or land, put another of those counters on that permanent."
 msgstr ""
 "|mana_g| |mana_u|, |tap|: Dla każdego znacznika na wskazanym artefakcie, "
-"stworze lub lądzie, połóż na owej stałce kolejny taki sam znacznik."
+"stworze lub lądzie, połóż na owym permanencie kolejny taki sam znacznik."
 
 # 141ca5f2e31840979a267a3fed1442f8
 #: ../../DGM.rst:869

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-10-09 14:17+0200\n"
+"PO-Revision-Date: 2013-11-25 19:27+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1381324675.872982\n"
+"X-POOTLE-MTIME: 1385404032.966664\n"
 
 # 34446830b7c949d8b59852b41945ee2c
 # 13a5a223cf9d45d19a919b30f1fc001d
@@ -579,7 +579,7 @@ msgstr "Bramblecrush (Miażdżące Ciernie)"
 # ee7a20730956478fb35fb1e89605eac8
 #: ../../M14.rst:136
 msgid "Destroy target noncreature permanent."
-msgstr "Zniszcz wskazaną stałkę nie będącą stworem."
+msgstr "Zniszcz wskazany permanent nie będący stworem."
 
 # 45ea6ecac3414c6699f9b4d12c271458
 #: ../../M14.rst:141
@@ -1100,7 +1100,7 @@ msgstr "Disperse (Rozproszenie)"
 # 131dc50a7fcd4bdc81370e21ee945fdb
 #: ../../M14.rst:308
 msgid "Return target nonland permanent to its owner's hand."
-msgstr "Zwróć wskazaną stałkę nie będącą lądem do ręki jego właściciela."
+msgstr "Zwróć wskazany nielądowy permanent do ręki jego właściciela."
 
 # bb2b00995e3a4a5abcdd7878e2bc12dd
 # d8012c71bf8645ceabc215fabd639b99
@@ -1766,16 +1766,16 @@ msgstr "Indestructibility (Niezniszczalność)"
 # 699b77c34e1c44aa8e8763e8aad00255
 #: ../../M14.rst:531
 msgid "Enchant permanent"
-msgstr "Zaurocz stałkę"
+msgstr "Zaurocz permanent"
 
 # b0830dd6c62f4245a5154e5009602dfc
 # 21729b5062e649e7abfbab0cc75c5bfc
 #: ../../M14.rst:533
 msgid "Enchanted permanent has indestructible. (Effects that say \\\"destroy\\\" don't destroy that permanent. A creature with indestructible can't be destroyed by damage.)"
 msgstr ""
-"Zauroczona stałka ma niezniszczalność. (Efekty, które mówią \\\"zniszcz\\\", nie "
-"niszczą tej stałki. Stwór z niezniszczalnością nie może być zniszczony "
-"przez obrażenia.)"
+"Zauroczony permanent ma niezniszczalność. (Efekty, które mówią \\\"zniszcz\\\", "
+"nie niszczą owego permanentu. Stwór z niezniszczalnością nie może być "
+"zniszczony przez obrażenia.)"
 
 # 4c7e15d580da4b20889a6d13d6a98a58
 #: ../../M14.rst:538
@@ -2328,7 +2328,7 @@ msgstr ""
 # 95754187dca4430a856aa9cda64d5427
 #: ../../M14.rst:745
 msgid "Destroy all nonland permanents."
-msgstr "Zniszcz wszystkie stałki nie będące lądami."
+msgstr "Zniszcz wszystkie nielądowe permanenty."
 
 # 690f540b7bab413bbb602cc88b85584f
 #: ../../M14.rst:750
@@ -2392,8 +2392,8 @@ msgstr ""
 msgid "If a red instant or sorcery spell you control or a red planeswalker you control would deal damage to a permanent or player, it deals that much damage plus 2 to that permanent or player instead."
 msgstr ""
 "Jeśli czerwony czar sztuczki lub obrzędu, którym władasz, albo wędrowiec, "
-"którym władasz miałby zadać obrażenia stałce lub graczowi, zadaje tej stałce "
-"lub graczowi o 2 obrażenia więcej."
+"którym władasz miałby zadać obrażenia permanentowi lub graczowi, zadaje "
+"owemu permanentowi lub graczowi o 2 obrażenia więcej."
 
 # d150b8449856443a9830f1b36dfdcb82
 #: ../../M14.rst:772
@@ -2456,7 +2456,7 @@ msgstr "|tap|: Połóż znacznik ładowania na Ratchet Bomb."
 #: ../../M14.rst:787
 msgid "|tap|, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb."
 msgstr ""
-"|tap|, poświęć Ratchet Bomb: zniszcz każdą nie będącą lądem stałkę, której "
+"|tap|, poświęć Ratchet Bomb: zniszcz każdy nielądowy permanent, którego "
 "łączny koszt many jest równy liczbie znaczników ładowania na Ratchet Bomb."
 
 # b724da2589904dd39bb2293ff711bedc
