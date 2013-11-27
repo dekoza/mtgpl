@@ -11,9 +11,9 @@
 Instrukcje
 ==========
 
-:doc:`Podręcznik Magic 2014<M14_Rulebook>` (45%)
+:doc:`Podręcznik Magic 2014<M14_Rulebook>` (51%)
 
-:doc:`Zasady formatu Commander (Dowódca)<commander>` (0%)
+:doc:`Zasady formatu Commander (Dowódca)<commander>` (18%)
 
 :doc:`Kompletne Zasady<comprules>` (0%)
 
