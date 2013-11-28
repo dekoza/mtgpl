@@ -23,6 +23,8 @@ In response to play issues and to keep these rules as current as possible, chang
 1. Game Concepts
 ****************
 
+.. _mtgcr-100:
+
 100. General
 ============
 
@@ -122,6 +124,8 @@ Tournaments usually consist of a series of matches. A two-player match usually i
 ------
 Players can use the *Magic* Store & Event Locator at <Wizards.com/Locator> to find tournaments in their area.
 
+.. _mtgcr-101:
+
 101. The *Magic* Golden Rules
 =============================
 
@@ -181,6 +185,8 @@ If a player would make more than one choice at the same time, the player makes t
 ------
 If a choice made by a nonactive player causes the active player, or a different nonactive player earlier in the turn order, to have to make a choice, APNAP order is restarted for all outstanding choices.
 
+.. _mtgcr-102:
+
 102. Players
 ============
 
@@ -201,6 +207,8 @@ In a two-player game, a player's opponent is the other player.
 102.3
 -----
 In a multiplayer game between teams, a player's teammates are the other players on his or her team, and the player's opponents are all players not on his or her team.
+
+.. _mtgcr-103:
 
 103. Starting the Game
 ======================
@@ -360,6 +368,8 @@ In a Two-Headed Giant game, the team who plays first skips the draw step of thei
 103.7c
 ------
 In all other multiplayer games, no player skips the draw step of his or her first turn.
+
+.. _mtgcr-104:
 
 104. Ending the Game
 ====================
@@ -544,6 +554,8 @@ If a player loses the game, he or she leaves the game. If the game is a draw for
 -----
 One card (:mtgtip:`Karn Liberated`) restarts the game. All players still in the game when it restarts then immediately begin a new game. See rule :ref:`714 <mtgcr-714>`, "Restarting the Game."
 
+.. _mtgcr-105:
+
 105. Colors
 ===========
 
@@ -588,6 +600,8 @@ Effects may change an object's color or give a color to a colorless object. If a
 105.4
 -----
 If a player is asked to choose a color, he or she must choose one of the five colors. "Multicolored" is not a color. Neither is "colorless."
+
+.. _mtgcr-106:
 
 106. Mana
 =========
@@ -677,7 +691,9 @@ To "tap a permanent for mana" is to activate a mana ability of that permanent th
 
 106.11
 ------
-One card (Drain Power) puts all mana from one player's mana pool into another player's mana pool. (Note that these may be the same player.) This empties the former player's mana pool and causes the mana emptied this way to be put into the latter player's mana pool. Which permanents, spells, and/or abilities produced that mana are unchanged, as are any restrictions or additional effects associated with any of that mana.
+One card (:mtgtip:`Drain Power`) puts all mana from one player's mana pool into another player's mana pool. (Note that these may be the same player.) This empties the former player's mana pool and causes the mana emptied this way to be put into the latter player's mana pool. Which permanents, spells, and/or abilities produced that mana are unchanged, as are any restrictions or additional effects associated with any of that mana.
+
+.. _mtgcr-107:
 
 107. Numbers and Symbols
 ========================
@@ -772,7 +788,7 @@ Some objects use the letter Y in addition to the letter X. Y follows the same ru
 
 107.4
 -----
-The mana symbols are |mana_w|, |mana_u|, |mana_b|, |mana_r|, |mana_g|, and |mana_x|; the numerals |mana_0|, |mana_1|, |mana_2|, |mana_3|, |mana_4|, and so on; the hybrid symbols {W/U}, {W/B}, {U/B}, {U/R}, {B/R}, {B/G}, {R/G}, {R/W}, {G/W}, and {G/U}; the monocolored hybrid symbols {2/W}, {2/U}, {2/B}, {2/R}, and {2/G}; the Phyrexian mana symbols {W/P}, {U/P}, {B/P}, {R/P}, and {G/P}; and the snow symbol {S}.
+The mana symbols are |mana_w|, |mana_u|, |mana_b|, |mana_r|, |mana_g|, and |mana_x|; the numerals |mana_0|, |mana_1|, |mana_2|, |mana_3|, |mana_4|, and so on; the hybrid symbols |mana_wu|, |mana_wb|, |mana_ub|, |mana_ur|, |mana_br|, |mana_bg|, |mana_rg|, |mana_rw|, |mana_gw|, and |mana_gu|; the monocolored hybrid symbols |mana_2w|, |mana_2u|, |mana_2b|, |mana_2r|, and |mana_2g|; the Phyrexian mana symbols |mana_wp|, |mana_up|, |mana_bp|, |mana_rp|, and |mana_gp|; and the snow symbol |mana_snow|.
 
 .. _mtgcr-107-4a:
 
@@ -802,27 +818,27 @@ The symbol |mana_0| represents zero mana and is used as a placeholder for a cost
 
 107.4e
 ------
-Hybrid mana symbols are also colored mana symbols. Each one represents a cost that can be paid in one of two ways, as represented by the two halves of the symbol. A hybrid symbol such as {W/U} can be paid with either white or blue mana, and a monocolored hybrid symbol such as {2/B} can be paid with either one black mana or two mana of any type. A hybrid mana symbol is all of its component colors.
-Example: {G/W}{G/W} can be paid by spending |mana_g| |mana_g|, |mana_g| |mana_w|, or |mana_w| |mana_w|.
+Hybrid mana symbols are also colored mana symbols. Each one represents a cost that can be paid in one of two ways, as represented by the two halves of the symbol. A hybrid symbol such as |mana_wu| can be paid with either white or blue mana, and a monocolored hybrid symbol such as |mana_2b| can be paid with either one black mana or two mana of any type. A hybrid mana symbol is all of its component colors.
+Example: |mana_gw| |mana_gw| can be paid by spending |mana_g| |mana_g|, |mana_g| |mana_w|, or |mana_w| |mana_w|.
 
 .. _mtgcr-107-4f:
 
 107.4f
 ------
-Phyrexian mana symbols are colored mana symbols: {W/P} is white, {U/P} is blue, {B/P} is black, {R/P} is red, and {G/P} is green. A Phyrexian mana symbol represents a cost that can be paid either with one mana of its color or by paying 2 life.
-Example: {W/P}{W/P} can be paid by spending |mana_w| |mana_w|, by spending |mana_w| and paying 2 life, or by paying 4 life.
+Phyrexian mana symbols are colored mana symbols: |mana_wp| is white, |mana_up| is blue, |mana_bp| is black, |mana_rp| is red, and |mana_gp| is green. A Phyrexian mana symbol represents a cost that can be paid either with one mana of its color or by paying 2 life.
+Example: |mana_wp| |mana_wp| can be paid by spending |mana_w| |mana_w|, by spending |mana_w| and paying 2 life, or by paying 4 life.
 
 .. _mtgcr-107-4g:
 
 107.4g
 ------
-In rules text, the Phyrexian symbol {P} with no colored background means any of the five Phyrexian mana symbols.
+In rules text, the Phyrexian symbol |mana_p| with no colored background means any of the five Phyrexian mana symbols.
 
 .. _mtgcr-107-4h:
 
 107.4h
 ------
-The snow mana symbol {S} represents one generic mana in a cost. This generic mana can be paid with one mana of any type produced by a snow permanent (see rule :ref:`205.4f <mtgcr-205-4f>`). Effects that reduce the amount of generic mana you pay don't affect {S} costs. (There is no such thing as "snow mana"; "snow" is not a type of mana.)
+The snow mana symbol |mana_snow| represents one generic mana in a cost. This generic mana can be paid with one mana of any type produced by a snow permanent (see rule :ref:`205.4f <mtgcr-205-4f>`). Effects that reduce the amount of generic mana you pay don't affect |mana_snow| costs. (There is no such thing as "snow mana"; "snow" is not a type of mana.)
 
 .. _mtgcr-107-5:
 
@@ -834,7 +850,7 @@ The tap symbol is |tap|. The tap symbol in an activation cost means "Tap this pe
 
 107.6
 -----
-The untap symbol is {Q}. The untap symbol in an activation cost means "Untap this permanent." A permanent that's already untapped can't be untapped again to pay the cost. A creature's activated ability with the untap symbol in its activation cost can't be activated unless the creature has been under its controller's control continuously since his or her most recent turn began. See rule :ref:`302.6 <mtgcr-302-6>`
+The untap symbol is |untap|. The untap symbol in an activation cost means "Untap this permanent." A permanent that's already untapped can't be untapped again to pay the cost. A creature's activated ability with the untap symbol in its activation cost can't be activated unless the creature has been under its controller's control continuously since his or her most recent turn began. See rule :ref:`302.6 <mtgcr-302-6>`
 
 .. _mtgcr-107-7:
 
@@ -902,6 +918,8 @@ The moon symbol appears in the upper left corner of the back face of double-face
 ------
 A color indicator is a circular symbol that appears to the left of the type line on some cards. The color of the symbol defines the card's color or colors. See rule :ref:`202 <mtgcr-202>`, "Mana Cost and Color."
 
+.. _mtgcr-108:
+
 108. Cards
 ==========
 
@@ -964,6 +982,8 @@ Nontraditional *Magic* cards can't start the game in any zone other than the com
 108.6
 -----
 For more information about cards, see section 2, :ref:`Parts of a Card <mtgcr-sec-parts-of-card>`.
+
+.. _mtgcr-109:
 
 109. Objects
 ============
@@ -1045,6 +1065,8 @@ In an Archenemy game, each scheme card is controlled by its owner. See rule :ref
 109.5
 -----
 The words "you" and "your" on an object refer to the object's controller, its would-be controller (if a player is attempting to play, cast, or activate it), or its owner (if it has no controller). For a static ability, this is the current controller of the object it's on. For an activated ability, this is the player who activated the ability. For a triggered ability, this is the controller of the object when the ability triggered, unless it's a delayed triggered ability. To determine the controller of a delayed triggered ability, see rules 603.7d-f.
+
+.. _mtgcr-110:
 
 110. Permanents
 ===============
@@ -1169,13 +1191,15 @@ Permanents enter the battlefield untapped, unflipped, face up, and phased in unl
 110.6c
 ------
 A permanent retains its status until a spell, ability, or turn-based action changes it, even if that status is not relevant to it.
-Example: Dimir Doppelganger says "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability." It becomes a copy of Jushi Apprentice, a flip card. Through use of Jushi Apprentice's ability, this creature flips, making it a copy of Tomoya the Revealer with the Dimir Doppelganger ability. If this permanent then becomes a copy of Runeclaw Bear, it will retain its flipped status even though that has no relevance to Runeclaw Bear. If its copy ability is activated again, this time targeting a Nezumi Shortfang card (another flip card), this permanent's flipped status means it will have the characteristics of Stabwhisker the Odious (the flipped version of Nezumi Shortfang) with the Dimir Doppelganger ability.
+Example: :mtgtip:`Dimir Doppelganger` says "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability." It becomes a copy of :mtgtip:`Jushi Apprentice`, a flip card. Through use of Jushi Apprentice's ability, this creature flips, making it a copy of :mtgtip:`Tomoya the Revealer` with the Dimir Doppelganger ability. If this permanent then becomes a copy of :mtgtip:`Runeclaw Bear`, it will retain its flipped status even though that has no relevance to Runeclaw Bear. If its copy ability is activated again, this time targeting a :mtgtip:`Nezumi Shortfang` card (another flip card), this permanent's flipped status means it will have the characteristics of :mtgtip:`Stabwhisker the Odious` (the flipped version of Nezumi Shortfang) with the Dimir Doppelganger ability.
 
 .. _mtgcr-110-6d:
 
 110.6d
 ------
 Only permanents have status. Cards not on the battlefield do not. Although an exiled card may be face down, this has no correlation to the face-down status of a permanent. Similarly, cards not on the battlefield are neither tapped nor untapped, regardless of their physical state.
+
+.. _mtgcr-111:
 
 111. Spells
 ===========
@@ -1184,7 +1208,7 @@ Only permanents have status. Cards not on the battlefield do not. Although an ex
 
 111.1
 -----
-A spell is a card on the stack. As the first step of being cast (see rule 601, "Casting Spells"), the card becomes a spell and is moved to the top of the stack from the zone it was in, which is usually its owner's hand. (See rule 405, "Stack.") A spell remains on the stack as a spell until it resolves (see rule :ref:`608 <mtgcr-608>`, "Resolving Spells and Abilities"), is countered (see rule :ref:`701.5 <mtgcr-701-5>`), or otherwise leaves the stack. For more information, see section 6, :ref:`Spells, Abilities, and Effects <mtgcr-sec-spells-abilities-effects>`.
+A spell is a card on the stack. As the first step of being cast (see rule :ref:`601 <mtgcr-601>`, "Casting Spells"), the card becomes a spell and is moved to the top of the stack from the zone it was in, which is usually its owner's hand. (See rule :ref:`405 <mtgcr-405>`, "Stack.") A spell remains on the stack as a spell until it resolves (see rule :ref:`608 <mtgcr-608>`, "Resolving Spells and Abilities"), is countered (see rule :ref:`701.5 <mtgcr-701-5>`), or otherwise leaves the stack. For more information, see section 6, :ref:`Spells, Abilities, and Effects <mtgcr-sec-spells-abilities-effects>`.
 
 .. _mtgcr-111-1a:
 
@@ -1216,6 +1240,8 @@ A noncopy spell's characteristics are the same as those printed on its card, as 
 -----
 If an effect changes any characteristics of a permanent spell, the effect continues to apply to the permanent when the spell resolves. See rule :ref:`400.7 <mtgcr-400-7>`
 Example: If an effect changes a black creature spell to white, the creature is white when it enters the battlefield and remains white for the duration of the effect changing its color.
+
+.. _mtgcr-112:
 
 112. Abilities
 ==============
@@ -1434,6 +1460,8 @@ Effects can add or remove abilities of objects. An effect that adds an ability w
 An effect that sets an object's characteristic, or simply states a quality of that object, is different from an ability granted by an effect. When an object "gains" or "has" an ability, that ability can be removed by another effect. If an effect defines a characteristic of the object ("[permanent] is [characteristic value]"), it's not granting an ability. (See rule :ref:`604.3 <mtgcr-604-3>`) Similarly, if an effect states a quality of that object ("[creature] can't be blocked," for example), it's neither granting an ability nor setting a characteristic.
 Example: Muraganda Petroglyphs reads, "Creatures with no abilities get +2/+2." A Runeclaw Bear (a creature with no abilities) enchanted by an Aura that says "Enchanted creature has flying" would not get +2/+2. A Runeclaw Bear enchanted by an Aura that says "Enchanted creature is red" or "Enchanted creature can't be blocked" would get +2/+2.
 
+.. _mtgcr-113:
+
 113. Emblems
 ============
 
@@ -1466,6 +1494,8 @@ Abilities of emblems function in the command zone.
 113.5
 -----
 An emblem is neither a card nor a permanent. Emblem isn't a card type.
+
+.. _mtgcr-114:
 
 114. Targets
 ============
@@ -1616,6 +1646,8 @@ Just because an object or player is being affected by a spell or ability doesn't
 ------
 In particular, the word "you" in an object's text doesn't indicate a target.
 
+.. _mtgcr-115:
+
 115. Special Actions
 ====================
 
@@ -1672,6 +1704,8 @@ In a Planechase game, rolling the planar die is a special action. A player can t
 115.3
 -----
 If a player takes a special action, that player receives priority afterward.
+
+.. _mtgcr-116:
 
 116. Timing and Priority
 ========================
@@ -1782,7 +1816,7 @@ If all players pass in succession (that is, if all players pass without taking a
 
 116.5
 -----
-Each time a player would get priority, the game first performs all applicable state-based actions as a single event (see rule 704, "State-Based Actions"), then repeats this process until no state-based actions are performed. Then triggered abilities are put on the stack (see rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities"). These steps repeat in order until no further state-based actions are performed and no abilities trigger. Then the player who would have received priority does so.
+Each time a player would get priority, the game first performs all applicable state-based actions as a single event (see rule :ref:`704 <mtgcr-704>`, "State-Based Actions"), then repeats this process until no state-based actions are performed. Then triggered abilities are put on the stack (see rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities"). These steps repeat in order until no further state-based actions are performed and no abilities trigger. Then the player who would have received priority does so.
 
 .. _mtgcr-116-6:
 
@@ -1795,6 +1829,8 @@ In a multiplayer game using the shared team turns option, teams rather than indi
 116.7
 -----
 If a player with priority casts a spell or activates an activated ability while another spell or ability is already on the stack, the new spell or ability has been cast or activated "in response to" the earlier spell or ability. The new spell or ability will resolve first. See rule :ref:`608 <mtgcr-608>`, "Resolving Spells and Abilities."
+
+.. _mtgcr-117:
 
 117. Costs
 ==========
@@ -1989,6 +2025,8 @@ Example: Your opponent has cast Gather Specimens, a spell that says "If a creatu
 -------
 Some spells, activated abilities, and triggered abilities read, "[Do something] unless you [do something else]." This means the same thing as "You may [do something else]. If you don't, [do something]."
 
+.. _mtgcr-118:
+
 118. Life
 =========
 
@@ -2076,6 +2114,8 @@ If an effect says that a player can't lose life, that player can't make an excha
 -----
 Some triggered abilities are written, "Whenever [a player] gains life, . . . ." Such abilities are treated as though they are written, "Whenever a source causes [a player] to gain life, . . . ." If a player gains 0 life, no life gain event has occurred, and these abilities won't trigger.
 Example: A player controls Ajani's Pridemate, which reads "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate," and two creatures with lifelink. The creatures with lifelink deal combat damage simultaneously. Ajani's Pridemate's ability triggers twice.
+
+.. _mtgcr-119:
 
 119. Damage
 ===========
@@ -2189,7 +2229,7 @@ Example: A player casts Lightning Bolt, an instant that says "Lightning Bolt dea
 
 119.6
 -----
-Damage marked on a creature remains until the cleanup step, even if that permanent stops being a creature. If the total damage marked on a creature is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed as a state-based action (see rule 704). All damage marked on a permanent is removed when it regenerates (see rule :ref:`701 <mtgcr-701>`.12, "Regenerate") and during the cleanup step (see rule :ref:`514.2 <mtgcr-514-2>`).
+Damage marked on a creature remains until the cleanup step, even if that permanent stops being a creature. If the total damage marked on a creature is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed as a state-based action (see rule :ref:`704 <mtgcr-704>`). All damage marked on a permanent is removed when it regenerates (see rule :ref:`701 <mtgcr-701>`.12, "Regenerate") and during the cleanup step (see rule :ref:`514.2 <mtgcr-514-2>`).
 
 .. _mtgcr-119-7:
 
@@ -2202,6 +2242,8 @@ The source of damage is the object that dealt it. If an effect requires a player
 119.8
 -----
 If a source would deal 0 damage, it does not deal damage at all. That means abilities that trigger on damage being dealt won't trigger. It also means that replacement effects that would increase the damage dealt by that source, or would have that source deal that damage to a different object or player, have no event to replace, so they have no effect.
+
+.. _mtgcr-120:
 
 120. Drawing a Card
 ===================
@@ -2284,6 +2326,8 @@ Some effects perform additional actions on a card after it's drawn. If the draw 
 -----
 Some replacement effects and prevention effects result in one or more card draws. In such a case, if there are any parts of the original event that haven't been replaced, those parts occur first, then the card draws happen one at a time.
 
+.. _mtgcr-121:
+
 121. Counters
 =============
 
@@ -2309,7 +2353,7 @@ The number of loyalty counters on a planeswalker on the battlefield indicates ho
 
 121.1c
 ------
-If a player has ten or more poison counters, he or she loses the game as a state-based action. See rule 704. A player is "poisoned" if he or she has one or more poison counters. (See rule :ref:`810 <mtgcr-810>` for additional rules for Two-Headed Giant games.)
+If a player has ten or more poison counters, he or she loses the game as a state-based action. See rule :ref:`704 <mtgcr-704>`. A player is "poisoned" if he or she has one or more poison counters. (See rule :ref:`810 <mtgcr-810>` for additional rules for Two-Headed Giant games.)
 
 .. _mtgcr-121-2:
 
@@ -2346,6 +2390,8 @@ If a spell or ability refers to a counter being "placed" on a permanent, it mean
 2. Parts of a Card
 ******************
 
+.. _mtgcr-200:
+
 200. General
 ============
 
@@ -2367,6 +2413,8 @@ Some parts of a card are also characteristics of the object that has them. See r
 -----
 Some objects that aren't cards (tokens, copies of cards, and copies of spells) have some of the parts of a card, but only the ones that are also characteristics. See rule :ref:`110.5 <mtgcr-110-5>` and rule 706.
 
+.. _mtgcr-201:
+
 201. Name
 =========
 
@@ -2386,7 +2434,7 @@ Two objects have the same name if the English versions of their names are identi
 
 201.3
 -----
-If an effect instructs a player to name a card, the player must choose the name of a card that exists in the Oracle card reference (see rule 108.1) and is legal in the format of the game the player is playing. (See rule :ref:`100.6 <mtgcr-100-6>`) If the player wants to name a split card, the player must choose the name of one of its halves, but not both. (See rule 708.) If the player wants to name a flip card's alternative name, the player may do so. (See rule 709.) If the player wants to name the back face of a double-faced card, the player may do so. (See rule :ref:`711 <mtgcr-711>`.) A player may not choose the name of a token unless it's also the name of a card.
+If an effect instructs a player to name a card, the player must choose the name of a card that exists in the Oracle card reference (see rule :ref:`108 <mtgcr-108>`.1) and is legal in the format of the game the player is playing. (See rule :ref:`100.6 <mtgcr-100-6>`) If the player wants to name a split card, the player must choose the name of one of its halves, but not both. (See rule :ref:`708 <mtgcr-708>`.) If the player wants to name a flip card's alternative name, the player may do so. (See rule :ref:`709 <mtgcr-709>`.) If the player wants to name the back face of a double-faced card, the player may do so. (See rule :ref:`711 <mtgcr-711>`.) A player may not choose the name of a token unless it's also the name of a card.
 
 .. _mtgcr-201-4:
 
@@ -2422,6 +2470,8 @@ Text printed on some legendary cards refers to that card by a shortened version 
 -----
 If an ability of an object uses a phrase such as "this [something]" to identify an object, where [something] is a characteristic, it is referring to that particular object, even if it isn't the appropriate characteristic at the time.
 Example: An ability reads "Target creature gets +2/+2 until end of turn. Destroy that creature at the beginning of the next end step." The ability will destroy the object it gave +2/+2 to even if that object isn't a creature at the beginning of the next end step.
+
+.. _mtgcr-202:
 
 202. Mana Cost and Color
 ========================
@@ -2511,21 +2561,23 @@ When calculating the converted mana cost of an object with an |mana_x| in its ma
 202.3c
 ------
 When calculating the converted mana cost of an object with a hybrid mana symbol in its mana cost, use the largest component of each hybrid symbol.
-Example: The converted mana cost of a card with mana cost |mana_1|{W/U}{W/U} is 3.
-Example: The converted mana cost of a card with mana cost {2/B}{2/B}{2/B} is 6.
+Example: The converted mana cost of a card with mana cost |mana_1| |mana_wu| |mana_wu| is 3.
+Example: The converted mana cost of a card with mana cost |mana_2b| |mana_2b| |mana_2b| is 6.
 
 .. _mtgcr-202-3d:
 
 202.3d
 ------
 Each Phyrexian mana symbol in a card's mana cost contributes 1 to its converted mana cost.
-Example: The converted mana cost of a card with mana cost |mana_1|{W/P}{W/P} is 3.
+Example: The converted mana cost of a card with mana cost |mana_1| |mana_wp| |mana_wp| is 3.
 
 .. _mtgcr-202-4:
 
 202.4
 -----
 Any additional cost listed in an object's rules text or imposed by an effect isn't part of the mana cost. (See rule :ref:`601 <mtgcr-601>`, "Casting Spells.") Such costs are paid at the same time as the spell's other costs.
+
+.. _mtgcr-203:
 
 203. Illustration
 =================
@@ -2535,6 +2587,8 @@ Any additional cost listed in an object's rules text or imposed by an effect isn
 203.1
 -----
 The illustration is printed on the upper half of a card and has no effect on game play. For example, a creature doesn't have the flying ability unless stated in its rules text, even if it's depicted as flying.
+
+.. _mtgcr-204:
 
 204. Color Indicator
 ====================
@@ -2550,6 +2604,8 @@ The color indicator is printed to the left of the type line directly below the i
 204.2
 -----
 An object with a color indicator is each color denoted by that color indicator.
+
+.. _mtgcr-205:
 
 205. Type Line
 ==============
@@ -2744,6 +2800,8 @@ Any permanent with the supertype "snow" is a snow permanent. Any permanent that 
 ------
 Any scheme card with the supertype "ongoing" is exempt from the state-based action for schemes (see rule :ref:`704.5w <mtgcr-704-5w>`).
 
+.. _mtgcr-206:
+
 206. Expansion Symbol
 =====================
 
@@ -2776,6 +2834,8 @@ Players may include cards from any printing in their constructed decks if those 
 206.5
 -----
 The full list of expansions and expansion symbols can be found in the *Magic* Products section of the Wizards of the Coast website (Wizards.com/Magic/TCG/Article.aspx?x=mtg/tcg/products/allproducts).
+
+.. _mtgcr-207:
 
 207. Text Box
 =============
@@ -2822,6 +2882,8 @@ A guild icon appears in the text box of many *Ravnica* (R) and *Return to Ravnic
 -----
 The chaos symbol {C} appears in the text box of each plane card to the left of a triggered ability that triggers whenever {C} is rolled on the planar die. The symbol itself has no special rules meaning.
 
+.. _mtgcr-208:
+
 208. Power/Toughness
 ====================
 
@@ -2856,6 +2918,8 @@ The card may have a static ability that creates a replacement effect that sets t
 -----
 A noncreature permanent has no power or toughness, even if it's a card with a power and toughness printed on it (such as a Licid that's become an Aura).
 
+.. _mtgcr-209:
+
 209. Loyalty
 ============
 
@@ -2871,6 +2935,8 @@ Each planeswalker card has a loyalty number printed in its lower right corner. T
 -----
 An activated ability with a loyalty symbol in its cost is a loyalty ability. Loyalty abilities follow special rules: A player may activate a loyalty ability of a permanent he or she controls any time he or she has priority and the stack is empty during a main phase of his or her turn, but only if none of that permanent's loyalty abilities have been activated that turn. See rule :ref:`606 <mtgcr-606>`, "Loyalty Abilities."
 
+.. _mtgcr-210:
+
 210. Hand Modifier
 ==================
 
@@ -2880,6 +2946,8 @@ An activated ability with a loyalty symbol in its cost is a loyalty ability. Loy
 -----
 Each vanguard card has a hand modifier printed in its lower left corner. This is a number preceded by a plus sign, a number preceded by a minus sign, or a zero. This modifier is applied as the starting hand size and the maximum hand size of the vanguard card's owner are determined. See rule :ref:`103.4 <mtgcr-103-4>`
 
+.. _mtgcr-211:
+
 211. Life Modifier
 ==================
 
@@ -2888,6 +2956,8 @@ Each vanguard card has a hand modifier printed in its lower left corner. This is
 211.1
 -----
 Each vanguard card has a life modifier printed in its lower right corner. This is a number preceded by a plus sign, a number preceded by a minus sign, or a zero. This modifier is applied as the starting life total of the vanguard card's owner is determined. See rule :ref:`103.3 <mtgcr-103-3>`
+
+.. _mtgcr-212:
 
 212. Information Below the Text Box
 ===================================
@@ -2921,6 +2991,8 @@ Some card sets feature collector numbers. This information is printed in the for
 3. Card Types
 *************
 
+.. _mtgcr-300:
+
 300. General
 ============
 
@@ -2947,6 +3019,8 @@ An object that's both a land and another card type (for example, an artifact lan
 300.2b
 ------
 Each tribal card has another card type. Casting and resolving a tribal card follow the rules for casting and resolving a card of the other card type.
+
+.. _mtgcr-301:
 
 301. Artifacts
 ==============
@@ -3017,6 +3091,8 @@ An ability of a permanent that refers to the "equipped creature" refers to whate
 -----
 Some artifacts have the subtype "Fortification." A Fortification can be attached to a land. It can't legally be attached to an object that isn't a land. Fortification's analog to the equip keyword ability is the fortify keyword ability. Rules 301.5a-e apply to Fortifications in relation to lands just as they apply to Equipment in relation to creatures, with one clarification relating to rule 301.5c: a Fortification that's also a creature (not a land) can't fortify a land. (See rule :ref:`702.66 <mtgcr-702-66>`, "Fortify.")
 
+.. _mtgcr-302:
+
 302. Creatures
 ==============
 
@@ -3079,7 +3155,9 @@ A creature's activated ability with the tap symbol or the untap symbol in its ac
 
 302.7
 -----
-Damage dealt to a creature by a source with neither wither nor infect is marked on that creature (see rule 119.3). If the total damage marked on that creature is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed as a state-based action (see rule 704). All damage marked on a creature is removed when it regenerates (see rule :ref:`701 <mtgcr-701>`.12, "Regenerate") and during the cleanup step (see rule :ref:`514.2 <mtgcr-514-2>`).
+Damage dealt to a creature by a source with neither wither nor infect is marked on that creature (see rule :ref:`119 <mtgcr-119>`.3). If the total damage marked on that creature is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed as a state-based action (see rule :ref:`704 <mtgcr-704>`). All damage marked on a creature is removed when it regenerates (see rule :ref:`701 <mtgcr-701>`.12, "Regenerate") and during the cleanup step (see rule :ref:`514.2 <mtgcr-514-2>`).
+
+.. _mtgcr-303:
 
 303. Enchantments
 =================
@@ -3168,6 +3246,8 @@ If an effect attempts to attach an Aura on the battlefield to an object or playe
 ------
 An ability of a permanent that refers to the "enchanted [object or player]" refers to whatever object or player that permanent is attached to, even if the permanent with the ability isn't an Aura.
 
+.. _mtgcr-304:
+
 304. Instants
 =============
 
@@ -3200,6 +3280,8 @@ Instants can't enter the battlefield. If an instant would enter the battlefield,
 304.5
 -----
 If text states that a player may do something "any time he or she could cast an instant," it means only that the player must have priority. The player doesn't need to have an instant he or she could actually cast. Effects that would prevent that player from casting a spell or casting an instant don't affect the player's capability to perform that action (unless the action is actually casting a spell or casting an instant).
+
+.. _mtgcr-305:
 
 305. Lands
 ==========
@@ -3270,6 +3352,8 @@ Any land with the supertype "basic" is a basic land. Any land that doesn't have 
 305.9
 -----
 If an object is both a land and another card type, it can be played only as a land. It can't be cast as a spell.
+
+.. _mtgcr-306:
 
 306. Planeswalkers
 ==================
@@ -3352,6 +3436,8 @@ Damage dealt to a planeswalker results in that many loyalty counters being remov
 -----
 If a planeswalker's loyalty is 0, it's put into its owner's graveyard. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.)
 
+.. _mtgcr-307:
+
 307. Sorceries
 ==============
 
@@ -3391,6 +3477,8 @@ If a spell, ability, or effect states that a player can do something only "any t
 ------
 Similarly, if an effect checks to see if a spell was cast "any time a sorcery couldn't have been cast," it's checking only whether the spell's controller cast it without having priority, during a phase other than his or her main phase, or while another object was on the stack.
 
+.. _mtgcr-308:
+
 308. Tribals
 ============
 
@@ -3405,6 +3493,8 @@ Each tribal card has another card type. Casting and resolving a tribal card foll
 308.2
 -----
 Tribal subtypes are always a single word and are listed after a long dash: "Tribal Enchantment -- Merfolk." The set of tribal subtypes is the same as the set of creature subtypes; these subtypes are called creature types. Tribals may have multiple subtypes. See rule :ref:`205.3m <mtgcr-205-3m>` for the complete list of creature types.
+
+.. _mtgcr-309:
 
 309. Planes
 ===========
@@ -3451,6 +3541,8 @@ A face-up plane card that's turned face down becomes a new object.
 -----
 Each plane card has a triggered ability that triggers "Whenever you roll {C}." These are called "chaos abilities." Each one is indicated by a {C} to its left, though the symbol itself has no special rules meaning.
 
+.. _mtgcr-310:
+
 310. Phenomena
 ==============
 
@@ -3496,6 +3588,8 @@ A face-up phenomenon card that's turned face down becomes a new object.
 -----
 If a phenomenon card is face up in the command zone, and it isn't the source of a triggered ability that has triggered but not yet left the stack, the planar controller planeswalks the next time a player would receive priority. (This is a state-based action; see rule :ref:`704 <mtgcr-704>`. See also rule 701.21, "Planeswalk.")
 
+.. _mtgcr-311:
+
 311. Vanguards
 ==============
 
@@ -3540,6 +3634,8 @@ Each vanguard card has a hand modifier printed in its lower left corner. This is
 311.7
 -----
 Each vanguard card has a life modifier printed in its lower right corner. This is a number preceded by a plus sign, a number preceded by a minus sign, or a zero. This modifier is applied as the starting life total of the vanguard card's owner (normally 20) to is determined. See rule :ref:`103.3 <mtgcr-103-3>`
+
+.. _mtgcr-312:
 
 312. Schemes
 ============
@@ -3590,6 +3686,8 @@ If an ability of a scheme card includes the text "this scheme," it means the sch
 
 4. Zones
 ********
+
+.. _mtgcr-400:
 
 400. General
 ============
@@ -3732,6 +3830,8 @@ Cards outside the game can't be affected by spells or abilities, except for char
 ------
 Some effects instruct a player to do something to a zone (such as "Shuffle your hand into your library"). That action is performed on all cards in that zone. The zone itself is not affected.
 
+.. _mtgcr-401:
+
 401. Library
 ============
 
@@ -3783,6 +3883,8 @@ If an effect causes a player to play with the top card of his or her library rev
 -----
 If an effect causes a player to put a card into a library "Nth from the top," and that library has fewer than N cards in it, the player puts that card on the bottom of that library.
 
+.. _mtgcr-402:
+
 402. Hand
 =========
 
@@ -3803,6 +3905,8 @@ Each player has a maximum hand size, which is normally seven cards. A player may
 402.3
 -----
 A player may arrange his or her hand in any convenient fashion and look at it as much as he or she wishes. A player can't look at the cards in another player's hand but may count those cards at any time.
+
+.. _mtgcr-403:
 
 403. Battlefield
 ================
@@ -3837,6 +3941,8 @@ Whenever a permanent enters the battlefield, it becomes a new object and has no 
 -----
 Previously, the battlefield was called the "in-play zone." Cards that were printed with text that contains the phrases "in play," "from play," "into play," or the like are referring to the battlefield. Cards that were printed with that text have received errata in the Oracle card reference.
 
+.. _mtgcr-404:
+
 404. Graveyard
 ==============
 
@@ -3857,6 +3963,8 @@ Each graveyard is kept in a single face-up pile. A player can examine the cards 
 404.3
 -----
 If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order.
+
+.. _mtgcr-405:
 
 405. Stack
 ==========
@@ -3945,6 +4053,8 @@ A player may concede the game at any time. That player leaves the game immediate
 ------
 If a player leaves a multiplayer game, objects may leave the game, cease to exist, change control, or be exiled as a result. These actions happen immediately. See rule :ref:`800.4a <mtgcr-800-4a>`
 
+.. _mtgcr-406:
+
 406. Exile
 ==========
 
@@ -3990,6 +4100,8 @@ If an object in the exile zone becomes exiled, it doesn't change zones, but it b
 -----
 Previously, the exile zone was called the "removed-from-the-game zone." Cards that were printed with text that "removes [an object] from the game" exiles that object. The same is true for cards printed with text that "sets [an object] aside." Cards that were printed with that text have received errata in the Oracle card reference.
 
+.. _mtgcr-407:
+
 407. Ante
 =========
 
@@ -4017,6 +4129,8 @@ A few cards have the text "Remove [this card] from your deck before playing if y
 -----
 To ante an object is to put that object into the ante zone from whichever zone it's currently in. The owner of an object is the only person who can ante that object.
 
+.. _mtgcr-408:
+
 408. Command
 ============
 
@@ -4043,6 +4157,8 @@ In the Planechase, Vanguard, Commander, and Archenemy casual variants, nontradit
 5. Turn Structure
 *****************
 
+.. _mtgcr-500:
+
 500. General
 ============
 
@@ -4062,7 +4178,7 @@ A phase or step in which players receive priority ends when the stack is empty a
 
 500.3
 -----
-A step in which no players receive priority ends when all specified actions that take place during that step are completed. The only such steps are the untap step (see rule 502) and certain cleanup steps (see rule :ref:`514 <mtgcr-514>`).
+A step in which no players receive priority ends when all specified actions that take place during that step are completed. The only such steps are the untap step (see rule :ref:`502 <mtgcr-502>`) and certain cleanup steps (see rule :ref:`514 <mtgcr-514>`).
 
 .. _mtgcr-500-4:
 
@@ -4112,6 +4228,8 @@ Some effects can cause a step, phase, or turn to be skipped. To skip a step, pha
 ------
 No game events can occur between turns, phases, or steps.
 
+.. _mtgcr-501:
+
 501. Beginning Phase
 ====================
 
@@ -4120,6 +4238,8 @@ No game events can occur between turns, phases, or steps.
 501.1
 -----
 The beginning phase consists of three steps, in this order: untap, upkeep, and draw.
+
+.. _mtgcr-502:
 
 502. Untap Step
 ===============
@@ -4142,6 +4262,8 @@ Second, the active player determines which permanents he or she controls will un
 -----
 No player receives priority during the untap step, so no spells can be cast or resolve and no abilities can be activated or resolve. Any ability that triggers during this step will be held until the next time a player would receive priority, which is usually during the upkeep step. (See rule :ref:`503 <mtgcr-503>`, "Upkeep Step.")
 
+.. _mtgcr-503:
+
 503. Upkeep Step
 ================
 
@@ -4163,6 +4285,8 @@ Second, the active player gets priority. Players may cast spells and activate ab
 -----
 If a spell states that it may be cast only "after [a player's] upkeep step," and the turn has multiple upkeep steps, that spell may be cast any time after the first upkeep step ends.
 
+.. _mtgcr-504:
+
 504. Draw Step
 ==============
 
@@ -4183,6 +4307,8 @@ Second, any abilities that trigger at the beginning of the draw step and any oth
 504.3
 -----
 Third, the active player gets priority. Players may cast spells and activate abilities.
+
+.. _mtgcr-505:
 
 505. Main Phase
 ===============
@@ -4235,6 +4361,8 @@ The main phase is the only phase in which a player can normally cast artifact, c
 ------
 During either main phase, the active player may play one land card from his or her hand if the stack is empty, if the player has priority, and if he or she hasn't played a land this turn (unless an effect states the player may play additional lands). This action doesn't use the stack. Neither the land nor the action of playing the land is a spell or ability, so it can't be countered, and players can't respond to it with instants or activated abilities. (See rule :ref:`305 <mtgcr-305>`, "Lands.")
 
+.. _mtgcr-506:
+
 506. Combat Phase
 =================
 
@@ -4242,7 +4370,7 @@ During either main phase, the active player may play one land card from his or h
 
 506.1
 -----
-The combat phase has five steps, which proceed in order: beginning of combat, declare attackers, declare blockers, combat damage, and end of combat. The declare blockers and combat damage steps are skipped if no creatures are declared as attackers or put onto the battlefield attacking (see rule 508.4). There are two combat damage steps if any attacking or blocking creature has first strike (see rule :ref:`702 <mtgcr-702>`.7) or double strike (see rule :ref:`702.4 <mtgcr-702-4>`).
+The combat phase has five steps, which proceed in order: beginning of combat, declare attackers, declare blockers, combat damage, and end of combat. The declare blockers and combat damage steps are skipped if no creatures are declared as attackers or put onto the battlefield attacking (see rule :ref:`508 <mtgcr-508>`.4). There are two combat damage steps if any attacking or blocking creature has first strike (see rule :ref:`702 <mtgcr-702>`.7) or double strike (see rule :ref:`702.4 <mtgcr-702-4>`).
 
 .. _mtgcr-506-2:
 
@@ -4376,6 +4504,8 @@ If a spell states that it may be cast "only during combat after blockers are dec
 ------
 Rules 506.6 and 506.6a-f apply to abilities that state that they may be activated only at certain times with respect to combat just as they apply to spells that state that they may be cast only at certain times with respect to combat.
 
+.. _mtgcr-507:
+
 507. Beginning of Combat Step
 =============================
 
@@ -4396,6 +4526,8 @@ Second, any abilities that trigger at the beginning of combat go on the stack. (
 507.3
 -----
 Third, the active player gets priority. Players may cast spells and activate abilities.
+
+.. _mtgcr-508:
 
 508. Declare Attackers Step
 ===========================
@@ -4516,6 +4648,8 @@ In a multiplayer game, any rule, object, or effect that refers to a "defending p
 508.6
 -----
 If no creatures are declared as attackers or put onto the battlefield attacking, skip the declare blockers and combat damage steps.
+
+.. _mtgcr-509:
 
 509. Declare Blockers Step
 ==========================
@@ -4670,6 +4804,8 @@ If a spell or ability causes a creature on the battlefield to block an attacking
 If a creature is put onto the battlefield blocking, its controller chooses which attacking creature it's blocking as it enters the battlefield (unless the effect that put it onto the battlefield specifies what it's blocking), then the active player announces the new creature's placement in the blocked creature's damage assignment order. The relative order among the remaining blocking creatures is unchanged. A creature put onto the battlefield this way is "blocking" but, for the purposes of trigger events and effects, it never "blocked."
 Example: Giant Spider is blocked by Canyon Minotaur. The defending player casts Flash Foliage, which puts a Saproling token onto the battlefield blocking the Giant Spider. Giant Spider's controller announces the Giant Spider's damage assignment order as the Saproling token, then Canyon Minotaur.
 
+.. _mtgcr-510:
+
 510. Combat Damage Step
 =======================
 
@@ -4738,6 +4874,8 @@ Fourth, the active player gets priority. Players may cast spells and activate ab
 -----
 If at least one attacking or blocking creature has first strike (see rule :ref:`702 <mtgcr-702>`.7) or double strike (see rule :ref:`702.4 <mtgcr-702-4>`) as the combat damage step begins, the only creatures that assign combat damage in that step are those with first strike or double strike. After that step, instead of proceeding to the end of combat step, the phase gets a second combat damage step. The only creatures that assign combat damage in that step are the remaining attackers and blockers that had neither first strike nor double strike as the first combat damage step began, as well as the remaining attackers and blockers that currently have double strike. After that step, the phase proceeds to the end of combat step.
 
+.. _mtgcr-511:
+
 511. End of Combat Step
 =======================
 
@@ -4759,6 +4897,8 @@ Second, the active player gets priority. Players may cast spells and activate ab
 -----
 As soon as the end of combat step ends, all creatures and planeswalkers are removed from combat. After the end of combat step ends, the combat phase is over and the postcombat main phase begins (see rule :ref:`505 <mtgcr-505>`).
 
+.. _mtgcr-512:
+
 512. Ending Phase
 =================
 
@@ -4767,6 +4907,8 @@ As soon as the end of combat step ends, all creatures and planeswalkers are remo
 512.1
 -----
 The ending phase consists of two steps: end and cleanup.
+
+.. _mtgcr-513:
 
 513. End Step
 =============
@@ -4794,6 +4936,8 @@ Second, the active player gets priority. Players may cast spells and activate ab
 513.3
 -----
 If a permanent with an ability that triggers "at the beginning of the end step" enters the battlefield during this step, that ability won't trigger until the next turn's end step. Likewise, if a delayed triggered ability that triggers "at the beginning of the next end step" is created during this step, that ability won't trigger until the next turn's end step. In other words, the step doesn't "back up" so those abilities can go on the stack. This rule applies only to triggered abilities; it doesn't apply to continuous effects whose durations say "until end of turn" or "this turn." (See rule :ref:`514 <mtgcr-514>`, "Cleanup Step.")
+
+.. _mtgcr-514:
 
 514. Cleanup Step
 =================
@@ -4827,8 +4971,12 @@ At this point, the game checks to see if any state-based actions would be perfor
 6. Spells, Abilities, and Effects
 *********************************
 
+.. _mtgcr-600:
+
 600. General
 ============
+
+.. _mtgcr-601:
 
 601. Casting Spells
 ===================
@@ -4861,7 +5009,7 @@ The player announces that he or she is casting the spell. That card (or that cop
 
 601.2b
 ------
-If the spell is modal the player announces the mode choice (see rule 700.2). If the player wishes to splice any cards onto the spell (see rule 702.46), he or she reveals those cards in his or her hand. If the spell has alternative or additional costs that will be paid as it's being cast such as buyback or kicker costs (see rules 117.8 and 117.9), the player announces his or her intentions to pay any or all of those costs (see rule :ref:`601 <mtgcr-601>`.2e). A player can't apply two alternative methods of casting or two alternative costs to a single spell. If the spell has a variable cost that will be paid as it's being cast (such as an |mana_x| in its mana cost; see rule :ref:`107.3 <mtgcr-107-3>`), the player announces the value of that variable. If a cost that will be paid as the spell is being cast includes hybrid mana symbols, the player announces the nonhybrid equivalent cost he or she intends to pay. If a cost that will be paid as the spell is being cast includes Phyrexian mana symbols, the player announces whether he or she intends to pay 2 life or the corresponding colored mana cost for each of those symbols. Previously made choices (such as choosing to cast a spell with flashback from a graveyard or choosing to cast a creature with morph face down) may restrict the player's options when making these choices.
+If the spell is modal the player announces the mode choice (see rule :ref:`700 <mtgcr-700>`.2). If the player wishes to splice any cards onto the spell (see rule :ref:`702 <mtgcr-702>`.46), he or she reveals those cards in his or her hand. If the spell has alternative or additional costs that will be paid as it's being cast such as buyback or kicker costs (see rules 117.8 and 117.9), the player announces his or her intentions to pay any or all of those costs (see rule :ref:`601 <mtgcr-601>`.2e). A player can't apply two alternative methods of casting or two alternative costs to a single spell. If the spell has a variable cost that will be paid as it's being cast (such as an |mana_x| in its mana cost; see rule :ref:`107.3 <mtgcr-107-3>`), the player announces the value of that variable. If a cost that will be paid as the spell is being cast includes hybrid mana symbols, the player announces the nonhybrid equivalent cost he or she intends to pay. If a cost that will be paid as the spell is being cast includes Phyrexian mana symbols, the player announces whether he or she intends to pay 2 life or the corresponding colored mana cost for each of those symbols. Previously made choices (such as choosing to cast a spell with flashback from a graveyard or choosing to cast a creature with morph face down) may restrict the player's options when making these choices.
 
 .. _mtgcr-601-2c:
 
@@ -4936,6 +5084,8 @@ A player can't begin to cast a spell that's prohibited from being cast.
 601.5a
 ------
 If an effect allows a card that's prohibited from being cast to be cast face down, and the face-down spell would not be prohibited, that spell can be cast face down. See rule :ref:`707 <mtgcr-707>`, "Face-Down Spells and Permanents."
+
+.. _mtgcr-602:
 
 602. Activating Activated Abilities
 ===================================
@@ -5023,7 +5173,7 @@ A player can't begin to activate an ability that's prohibited from being activat
 
 602.5a
 ------
-A creature's activated ability with the tap symbol (|tap|) or the untap symbol ({Q}) in its activation cost can't be activated unless the creature has been under its controller's control since the start of his or her most recent turn. Ignore this rule for creatures with haste (see rule :ref:`702.10 <mtgcr-702-10>`).
+A creature's activated ability with the tap symbol (|tap|) or the untap symbol (|untap|) in its activation cost can't be activated unless the creature has been under its controller's control since the start of his or her most recent turn. Ignore this rule for creatures with haste (see rule :ref:`702.10 <mtgcr-702-10>`).
 
 .. _mtgcr-602-5b:
 
@@ -5048,6 +5198,8 @@ Activated abilities that read "Activate this ability only any time you could cas
 602.5e
 ------
 Activated abilities that read "Activate this ability only any time you could cast an instant" mean the player must follow the timing rules for casting an instant spell, though the ability isn't actually an instant. The player doesn't actually need to have an instant card that he or she could cast.
+
+.. _mtgcr-603:
 
 603. Handling Triggered Abilities
 =================================
@@ -5255,6 +5407,8 @@ Some triggered abilities trigger specifically when a player loses the game. Thes
 Some objects have a static ability that's linked to a triggered ability. (See rule :ref:`607 <mtgcr-607>`, "Linked Abilities.") These objects combine both abilities into one paragraph, with the static ability first, followed by the triggered ability. A very few objects have triggered abilities which are written with the trigger condition in the middle of the ability, rather than at the beginning.
 Example: An ability that reads "Reveal the first card you draw each turn. Whenever you reveal a basic land card this way, draw a card" is a static ability linked to a triggered ability.
 
+.. _mtgcr-604:
+
 604. Handling Static Abilities
 ==============================
 
@@ -5305,6 +5459,8 @@ Some static abilities apply while a card is in any zone that you could cast or p
 604.7
 -----
 Unlike spells and other kinds of abilities, static abilities can't use an object's last known information for purposes of determining how their effects are applied.
+
+.. _mtgcr-605:
 
 605. Mana Abilities
 ===================
@@ -5383,6 +5539,8 @@ An ability with a target is not a mana ability, even if it could put mana into a
 ------
 A spell can never be a mana ability, even if it could put mana into a player's mana pool when it resolves. It's cast and resolves just like any other spell. Some older cards were printed with the card type "mana source"; these cards have received errata in the Oracle card reference and are now instants.
 
+.. _mtgcr-606:
+
 606. Loyalty Abilities
 ======================
 
@@ -5415,6 +5573,8 @@ The cost to activate a loyalty ability of a permanent is to put on or remove fro
 606.5
 -----
 A loyalty ability with a negative loyalty cost can't be activated unless the permanent has at least that many loyalty counters on it.
+
+.. _mtgcr-607:
 
 607. Linked Abilities
 =====================
@@ -5523,6 +5683,8 @@ Example: Paradise Plume has the following three abilities: "As Paradise Plume en
 If an object acquires a pair of linked abilities as part of the same effect, the abilities will be similarly linked to one another on that object even though they weren't printed on that object. They can't be linked to any other ability, regardless of what other abilities the object may currently have or may have had in the past.
 Example: Arc-Slogger has the ability "|mana_r|, Exile the top ten cards of your library: Arc-Slogger deals 2 damage to target creature or player." Sisters of Stone Death has the ability "|mana_b| |mana_g|: Exile target creature blocking or blocked by Sisters of Stone Death" and the ability "|mana_2| |mana_b|: Put a creature card exiled with Sisters of Stone Death onto the battlefield under your control." Quicksilver Elemental has the ability "|mana_u|: Quicksilver Elemental gains all activated abilities of target creature until end of turn." If a player has Quicksilver Elemental gain Arc-Slogger's ability, activates it, then has Quicksilver Elemental gain Sisters of Stone Death's abilities, activates the exile ability, and then activates the return-to-the-battlefield ability, only the creature card Quicksilver Elemental exiled with Sisters of Stone Death's ability can be returned to the battlefield. Creature cards Quicksilver Elemental exiled with Arc-Slogger's ability can't be returned.
 
+.. _mtgcr-608:
+
 608. Resolving Spells and Abilities
 ===================================
 
@@ -5628,6 +5790,8 @@ If the object that's resolving is an Aura spell, its resolution involves two ste
 If a permanent spell resolves but its controller can't put it onto the battlefield, that player puts it into its owner's graveyard.
 Example: Worms of the Earth has the ability "Lands can't enter the battlefield." Clone says "You may have Clone enter the battlefield as a copy of any creature on the battlefield." If a player casts Clone and chooses to copy Dryad Arbor (a land creature) while Worms of the Earth is on the battlefield, Clone can't enter the battlefield from the stack. It's put into its owner's graveyard.
 
+.. _mtgcr-609:
+
 609. Effects
 ============
 
@@ -5700,6 +5864,8 @@ Some effects from resolved spells and abilities prevent or replace damage from s
 ------
 Some effects from static abilities prevent or replace damage from sources with certain properties. For these effects, the prevention or replacement applies to sources that are permanents with that property and to any sources that aren't on the battlefield that have that property.
 
+.. _mtgcr-610:
+
 610. One-Shot Effects
 =====================
 
@@ -5732,6 +5898,8 @@ If the specified event has already occurred when the initial one-shot effect wou
 610.3b
 ------
 An object returned to the battlefield this way returns under its owner's control unless otherwise specified.
+
+.. _mtgcr-611:
 
 611. Continuous Effects
 =======================
@@ -5801,6 +5969,8 @@ Example: A permanent with the static ability "All white creatures get +1/+1" gen
 Continuous effects that modify characteristics of permanents do so simultaneously with the permanent entering the battlefield. They don't wait until the permanent is on the battlefield and then change it. Because such effects apply as the permanent enters the battlefield, they are applied before determining whether the permanent will cause an ability to trigger when it enters the battlefield.
 Example: A permanent with the static ability "All white creatures get +1/+1" is on the battlefield. A creature spell that would normally create a 1/1 white creature instead creates a 2/2 white creature. The creature doesn't enter the battlefield as 1/1 and then change to 2/2.
 
+.. _mtgcr-612:
+
 612. Text-Changing Effects
 ==========================
 
@@ -5838,7 +6008,9 @@ A token's subtypes and rules text are defined by the spell or ability that creat
 
 612.5
 -----
-One card (Volrath's Shapeshifter) states that an object has the "full text" of another object. This changes not just the text that appears in the object's text box and type line, but also changes the text that represents its name, mana cost, color indicator, power, and toughness.
+One card (:mtgtip:`Volrath's Shapeshifter`) states that an object has the "full text" of another object. This changes not just the text that appears in the object's text box and type line, but also changes the text that represents its name, mana cost, color indicator, power, and toughness.
+
+.. _mtgcr-613:
 
 613. Interaction of Continuous Effects
 ======================================
@@ -5895,7 +6067,7 @@ Layer 7: Power- and/or toughness-changing effects are applied.
 
 613.2
 -----
-Within layers 1-6, apply effects from characteristic-defining abilities first (see rule 604.3), then all other effects in timestamp order (see rule :ref:`613 <mtgcr-613>`.6). Note that dependency may alter the order in which effects are applied within a layer. (See rule :ref:`613.7 <mtgcr-613-7>`)
+Within layers 1-6, apply effects from characteristic-defining abilities first (see rule :ref:`604 <mtgcr-604>`.3), then all other effects in timestamp order (see rule :ref:`613 <mtgcr-613>`.6). Note that dependency may alter the order in which effects are applied within a layer. (See rule :ref:`613.7 <mtgcr-613-7>`)
 
 .. _mtgcr-613-3:
 
@@ -6044,6 +6216,8 @@ Some continuous effects affect players rather than objects. For example, an effe
 613.10
 ------
 Some continuous effects affect game rules rather than objects. For example, effects may modify a player's maximum hand size, or say that a creature must attack this turn if able. These effects are applied after all other continuous effects have been applied. Continuous effects that affect the costs of spells or abilities are applied according to the order specified in rule 601.2e. All other such effects are applied in timestamp order. See also the rules for timestamp order and dependency (rules 613.6 and 613.7).
+
+.. _mtgcr-614:
 
 614. Replacement Effects
 ========================
@@ -6223,6 +6397,8 @@ An object may have one ability printed on it that generates a replacement effect
 ------
 Some replacement effects are not continuous effects. Rather, they are an effect of a resolving spell or ability that replace part or all of that spell or ability's own effect(s). Such effects are called self-replacement effects. When applying replacement effects to an event, self-replacement effects are applied before other replacement effects.
 
+.. _mtgcr-615:
+
 615. Prevention Effects
 =======================
 
@@ -6307,6 +6483,8 @@ Some effects state that damage "can't be prevented." If unpreventable damage wou
 -------
 A prevention effect is applied to any particular unpreventable damage event just once. It won't invoke itself repeatedly trying to prevent that damage.
 
+.. _mtgcr-616:
+
 616. Interaction of Replacement and/or Prevention Effects
 =========================================================
 
@@ -6359,6 +6537,8 @@ Example: One effect reads "If you would gain life, draw that many cards instead,
 
 7. Additional Rules
 *******************
+
+.. _mtgcr-700:
 
 700. General
 ============
@@ -6465,19 +6645,21 @@ Some cards refer to cards "originally printed" in a particular set.
 
 700.6a
 ------
-One card (City in a Bottle) refers to permanents and cards with the same name as a card originally printed in the *Arabian Nights* (TM) expansion. Those cards are Abu Ja'far, Aladdin, Aladdin's Lamp, Aladdin's Ring, Ali Baba, Ali from Cairo, Army of Allah, Bazaar of Baghdad, Bird Maiden, Bottle of Suleiman, Brass Man, Camel, City in a Bottle, City of Brass, Cuombajj Witches, Cyclone, Dancing Scimitar, Dandn, Desert, Desert Nomads, Desert Twister, Diamond Valley, Drop of Honey, Ebony Horse, Elephant Graveyard, El-Hajjj, Erg Raiders, Erhnam Djinn, Eye for an Eye, Fishliver Oil, Flying Carpet, Flying Men, Ghazb n Ogre, Giant Tortoise, Guardian Beast, Hasran Ogress, Hurr Jackal, Ifh-Biff Efreet, Island Fish Jasconius, Island of Wak-Wak, Jandor's Ring, Jandor's Saddlebags, Jeweled Bird, Jihad, Jun£n Efreet, Juz m Djinn, Khab l Ghoul, King Suleiman, Kird Ape, Library of Alexandria, Magnetic Mountain, Merchant Ship, Metamorphosis, Mijae Djinn, Moorish Cavalry, Nafs Asp, Oasis, Old Man of the Sea, Oubliette, Piety, Pyramids, Repentant Blacksmith, Ring of Ma'rf, Rukh Egg, Sandals of Abdallah, Sandstorm, Serendib Djinn, Serendib Efreet, Shahrazad, Sindbad, Singing Tree, Sorceress Queen, Stone-Throwing Devils, Unstable Mutation, War Elephant, Wyluli Wolf, and Ydwen Efreet.
+One card (:mtgtip:`City in a Bottle`) refers to permanents and cards with the same name as a card originally printed in the *Arabian Nights* (TM) expansion. Those cards are Abu Ja'far, Aladdin, Aladdin's Lamp, Aladdin's Ring, Ali Baba, Ali from Cairo, Army of Allah, Bazaar of Baghdad, Bird Maiden, Bottle of Suleiman, Brass Man, Camel, City in a Bottle, City of Brass, Cuombajj Witches, Cyclone, Dancing Scimitar, Dandn, Desert, Desert Nomads, Desert Twister, Diamond Valley, Drop of Honey, Ebony Horse, Elephant Graveyard, El-Hajjj, Erg Raiders, Erhnam Djinn, Eye for an Eye, Fishliver Oil, Flying Carpet, Flying Men, Ghazb n Ogre, Giant Tortoise, Guardian Beast, Hasran Ogress, Hurr Jackal, Ifh-Biff Efreet, Island Fish Jasconius, Island of Wak-Wak, Jandor's Ring, Jandor's Saddlebags, Jeweled Bird, Jihad, Jun£n Efreet, Juz m Djinn, Khab l Ghoul, King Suleiman, Kird Ape, Library of Alexandria, Magnetic Mountain, Merchant Ship, Metamorphosis, Mijae Djinn, Moorish Cavalry, Nafs Asp, Oasis, Old Man of the Sea, Oubliette, Piety, Pyramids, Repentant Blacksmith, Ring of Ma'rf, Rukh Egg, Sandals of Abdallah, Sandstorm, Serendib Djinn, Serendib Efreet, Shahrazad, Sindbad, Singing Tree, Sorceress Queen, Stone-Throwing Devils, Unstable Mutation, War Elephant, Wyluli Wolf, and Ydwen Efreet.
 
 .. _mtgcr-700-6b:
 
 700.6b
 ------
-One card (Golgothian Sylex) refers to permanents with the same name as a card originally printed in the *Antiquities* (TM) expansion. Those cards are Amulet of Kroog, Argivian Archaeologist, Argivian Blacksmith, Argothian Pixies, Argothian Treefolk, Armageddon Clock, Artifact Blast, Artifact Possession, Artifact Ward, Ashnod's Altar, Ashnod's Battle Gear, Ashnod's Transmogrant, Atog, Battering Ram, Bronze Tablet, Candelabra of Tawnos, Circle of Protection: Artifacts, Citanul Druid, Clay Statue, Clockwork Avian, Colossus of Sardia, Coral Helm, Crumble, Cursed Rack, Damping Field, Detonate, Drafna's Restoration, Dragon Engine, Dwarven Weaponsmith, Energy Flux, Feldon's Cane, Gaea's Avenger, Gate to Phyrexia, Goblin Artisans, Golgothian Sylex, Grapeshot Catapult, Haunting Wind, Hurkyl's Recall, Ivory Tower, Jalum Tome, Martyrs of Korlis, Mightstone, Millstone, Mishra's Factory, Mishra's War Machine, Mishra's Workshop, Obelisk of Undoing, Onulet, Orcish Mechanics, Ornithopter, Phyrexian Gremlins, Power Artifact, Powerleech, Priest of Yawgmoth, Primal Clay, The Rack, Rakalite, Reconstruction, Reverse Polarity, Rocket Launcher, Sage of Lat-Nam, Shapeshifter, Shatterstorm, Staff of Zegon, Strip Mine, Su-Chi, Tablet of Epityr, Tawnos's Coffin, Tawnos's Wand, Tawnos's Weaponry, Tetravus, Titania's Song, Transmute Artifact, Triskelion, Urza's Avenger, Urza's Chalice, Urza's Mine, Urza's Miter, Urza's Power Plant, Urza's Tower, Wall of Spears, Weakstone, Xenic Poltergeist, Yawgmoth Demon, and Yotian Soldier.
+One card (:mtgtip:`Golgothian Sylex`) refers to permanents with the same name as a card originally printed in the *Antiquities* (TM) expansion. Those cards are Amulet of Kroog, Argivian Archaeologist, Argivian Blacksmith, Argothian Pixies, Argothian Treefolk, Armageddon Clock, Artifact Blast, Artifact Possession, Artifact Ward, Ashnod's Altar, Ashnod's Battle Gear, Ashnod's Transmogrant, Atog, Battering Ram, Bronze Tablet, Candelabra of Tawnos, Circle of Protection: Artifacts, Citanul Druid, Clay Statue, Clockwork Avian, Colossus of Sardia, Coral Helm, Crumble, Cursed Rack, Damping Field, Detonate, Drafna's Restoration, Dragon Engine, Dwarven Weaponsmith, Energy Flux, Feldon's Cane, Gaea's Avenger, Gate to Phyrexia, Goblin Artisans, Golgothian Sylex, Grapeshot Catapult, Haunting Wind, Hurkyl's Recall, Ivory Tower, Jalum Tome, Martyrs of Korlis, Mightstone, Millstone, Mishra's Factory, Mishra's War Machine, Mishra's Workshop, Obelisk of Undoing, Onulet, Orcish Mechanics, Ornithopter, Phyrexian Gremlins, Power Artifact, Powerleech, Priest of Yawgmoth, Primal Clay, The Rack, Rakalite, Reconstruction, Reverse Polarity, Rocket Launcher, Sage of Lat-Nam, Shapeshifter, Shatterstorm, Staff of Zegon, Strip Mine, Su-Chi, Tablet of Epityr, Tawnos's Coffin, Tawnos's Wand, Tawnos's Weaponry, Tetravus, Titania's Song, Transmute Artifact, Triskelion, Urza's Avenger, Urza's Chalice, Urza's Mine, Urza's Miter, Urza's Power Plant, Urza's Tower, Wall of Spears, Weakstone, Xenic Poltergeist, Yawgmoth Demon, and Yotian Soldier.
 
 .. _mtgcr-700-6c:
 
 700.6c
 ------
-One card (Apocalypse Chime) refers to permanents with the same name as a card originally printed in the *Homelands* (TM) expansion. Those cards are Abbey Gargoyles; Abbey Matron; AEther Storm; Aliban's Tower; Ambush; Ambush Party; Anaba Ancestor; Anaba Bodyguard; Anaba Shaman; Anaba Spirit Crafter; An-Havva Constable; An-Havva Inn; An-Havva Township; An-Zerrin Ruins; Apocalypse Chime; Autumn Willow; Aysen Abbey; Aysen Bureaucrats; Aysen Crusader; Aysen Highway; Baki's Curse; Baron Sengir; Beast Walkers; Black Carriage; Broken Visage; Carapace; Castle Sengir; Cemetery Gate; Chain Stasis; Chandler; Clockwork Gnomes; Clockwork Steed; Clockwork Swarm; Coral Reef; Dark Maze; Daughter of Autumn; Death Speakers; Didgeridoo; Drudge Spell; Dry Spell; Dwarven Pony; Dwarven Sea Clan; Dwarven Trader; Ebony Rhino; Eron the Relentless; Evaporate; Faerie Noble; Feast of the Unicorn; Feroz's Ban; Folk of An-Havva; Forget; Funeral March; Ghost Hounds; Giant Albatross; Giant Oyster; Grandmother Sengir; Greater Werewolf; Hazduhr the Abbot; Headstone; Heart Wolf; Hungry Mist; Ihsan's Shade; Irini Sengir; Ironclaw Curse; Jinx; Joven; Joven's Ferrets; Joven's Tools; Koskun Falls; Koskun Keep; Labyrinth Minotaur; Leaping Lizard; Leeches; Mammoth Harness; Marjhan; Memory Lapse; Merchant Scroll; Mesa Falcon; Mystic Decree; Narwhal; Orcish Mine; Primal Order; Prophecy; Rashka the Slayer; Reef Pirates; Renewal; Retribution; Reveka, Wizard Savant; Root Spider; Roots; Roterothopter; Rysorian Badger; Samite Alchemist; Sea Sprite; Sea Troll; Sengir Autocrat; Sengir Bats; Serra Aviary; Serra Bestiary; Serra Inquisitors; Serra Paladin; Serrated Arrows; Shrink; Soraya the Falconer; Spectral Bears; Timmerian Fiends; Torture; Trade Caravan; Truce; Veldrane of Sengir; Wall of Kelp; Willow Faerie; Willow Priestess; Winter Sky; and Wizards' School.
+One card (:mtgtip:`Apocalypse Chime`) refers to permanents with the same name as a card originally printed in the *Homelands* (TM) expansion. Those cards are Abbey Gargoyles; Abbey Matron; AEther Storm; Aliban's Tower; Ambush; Ambush Party; Anaba Ancestor; Anaba Bodyguard; Anaba Shaman; Anaba Spirit Crafter; An-Havva Constable; An-Havva Inn; An-Havva Township; An-Zerrin Ruins; Apocalypse Chime; Autumn Willow; Aysen Abbey; Aysen Bureaucrats; Aysen Crusader; Aysen Highway; Baki's Curse; Baron Sengir; Beast Walkers; Black Carriage; Broken Visage; Carapace; Castle Sengir; Cemetery Gate; Chain Stasis; Chandler; Clockwork Gnomes; Clockwork Steed; Clockwork Swarm; Coral Reef; Dark Maze; Daughter of Autumn; Death Speakers; Didgeridoo; Drudge Spell; Dry Spell; Dwarven Pony; Dwarven Sea Clan; Dwarven Trader; Ebony Rhino; Eron the Relentless; Evaporate; Faerie Noble; Feast of the Unicorn; Feroz's Ban; Folk of An-Havva; Forget; Funeral March; Ghost Hounds; Giant Albatross; Giant Oyster; Grandmother Sengir; Greater Werewolf; Hazduhr the Abbot; Headstone; Heart Wolf; Hungry Mist; Ihsan's Shade; Irini Sengir; Ironclaw Curse; Jinx; Joven; Joven's Ferrets; Joven's Tools; Koskun Falls; Koskun Keep; Labyrinth Minotaur; Leaping Lizard; Leeches; Mammoth Harness; Marjhan; Memory Lapse; Merchant Scroll; Mesa Falcon; Mystic Decree; Narwhal; Orcish Mine; Primal Order; Prophecy; Rashka the Slayer; Reef Pirates; Renewal; Retribution; Reveka, Wizard Savant; Root Spider; Roots; Roterothopter; Rysorian Badger; Samite Alchemist; Sea Sprite; Sea Troll; Sengir Autocrat; Sengir Bats; Serra Aviary; Serra Bestiary; Serra Inquisitors; Serra Paladin; Serrated Arrows; Shrink; Soraya the Falconer; Spectral Bears; Timmerian Fiends; Torture; Trade Caravan; Truce; Veldrane of Sengir; Wall of Kelp; Willow Faerie; Willow Priestess; Winter Sky; and Wizards' School.
+
+.. _mtgcr-701:
 
 701. Keyword Actions
 ====================
@@ -6715,7 +6897,7 @@ Play
 
 701.11a
 -------
-To play a land means to put it onto the battlefield from the zone it's in (usually the hand). A player may play a land if he or she has priority, it's the main phase of his or her turn, the stack is empty, and he or she hasn't played a land this turn. Playing a land is a special action (see rule 115), so it doesn't use the stack; it simply happens. Putting a land onto the battlefield as the result of a spell or ability isn't the same as playing a land. See rule :ref:`305 <mtgcr-305>`, "Lands."
+To play a land means to put it onto the battlefield from the zone it's in (usually the hand). A player may play a land if he or she has priority, it's the main phase of his or her turn, the stack is empty, and he or she hasn't played a land this turn. Playing a land is a special action (see rule :ref:`115 <mtgcr-115>`), so it doesn't use the stack; it simply happens. Putting a land onto the battlefield as the result of a spell or ability isn't the same as playing a land. See rule :ref:`305 <mtgcr-305>`, "Lands."
 
 .. _mtgcr-701-11b:
 
@@ -6979,7 +7161,7 @@ To planeswalk is to put each face-up plane card and phenomenon card on the botto
 
 701.21c
 -------
-A player may planeswalk as the result of the "planeswalking ability" (see rule 901.8), because the owner of a face-up plane card or phenomenon card leaves the game (see rule :ref:`901 <mtgcr-901>`.10), or because a phenomenon's triggered ability leaves the stack (see rule :ref:`704.5x <mtgcr-704-5x>`). Abilities may also instruct a player to planeswalk.
+A player may planeswalk as the result of the "planeswalking ability" (see rule :ref:`901 <mtgcr-901>`.8), because the owner of a face-up plane card or phenomenon card leaves the game (see rule :ref:`901 <mtgcr-901>`.10), or because a phenomenon's triggered ability leaves the stack (see rule :ref:`704.5x <mtgcr-704-5x>`). Abilities may also instruct a player to planeswalk.
 
 .. _mtgcr-701-21d:
 
@@ -7124,6 +7306,8 @@ Monstrosity
 701.28b
 -------
 If a permanent's ability instructs a player to "monstrosity X," other abilities of that permanent may also refer to X. The value of X in those abilities is equal to the value of X as that permanent became monstrous.
+
+.. _mtgcr-702:
 
 702. Keyword Abilities
 ======================
@@ -9463,7 +9647,7 @@ Extort
 
 702.100a
 --------
-Extort is a triggered ability. "Extort" means "Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain life equal to the total life lost this way."
+Extort is a triggered ability. "Extort" means "Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain life equal to the total life lost this way."
 
 .. _mtgcr-702-100b:
 
@@ -9536,6 +9720,8 @@ As an Aura spell with bestow begins resolving, if its target is illegal, the eff
 702.102e
 --------
 If an Aura with bestow is attached to an illegal object or player, it becomes unattached. This is an exception to rule 704.5n.
+
+.. _mtgcr-703:
 
 703. Turn-Based Actions
 =======================
@@ -9654,6 +9840,8 @@ Immediately after the active player has discarded cards (if necessary) during th
 ------
 When each step or phase ends, any unused mana left in a player's mana pool empties. See rule :ref:`500.4 <mtgcr-500-4>`
 
+.. _mtgcr-704:
+
 704. State-Based Actions
 ========================
 
@@ -9679,7 +9867,7 @@ State-based actions are checked throughout the game and are not controlled by an
 
 704.3
 -----
-Whenever a player would get priority (see rule 116, "Timing and Priority"), the game checks for any of the listed conditions for state-based actions, then performs all applicable state-based actions simultaneously as a single event. If any state-based actions are performed as a result of a check, the check is repeated; otherwise all triggered abilities that are waiting to be put on the stack are put on the stack, then the check is repeated. Once no more state-based actions have been performed as the result of a check and no triggered abilities are waiting to be put on the stack, the appropriate player gets priority. This process also occurs during the cleanup step (see rule :ref:`514 <mtgcr-514>`), except that if no state-based actions are performed as the result of the step's first check and no triggered abilities are waiting to be put on the stack, then no player gets priority and the step ends.
+Whenever a player would get priority (see rule :ref:`116 <mtgcr-116>`, "Timing and Priority"), the game checks for any of the listed conditions for state-based actions, then performs all applicable state-based actions simultaneously as a single event. If any state-based actions are performed as a result of a check, the check is repeated; otherwise all triggered abilities that are waiting to be put on the stack are put on the stack, then the check is repeated. Once no more state-based actions have been performed as the result of a check and no triggered abilities are waiting to be put on the stack, the appropriate player gets priority. This process also occurs during the cleanup step (see rule :ref:`514 <mtgcr-514>`), except that if no state-based actions are performed as the result of the step's first check and no triggered abilities are waiting to be put on the stack, then no player gets priority and the step ends.
 
 .. _mtgcr-704-4:
 
@@ -9840,6 +10028,8 @@ Example: You control Lich's Mirror, which says "If you would lose the game, inst
 If a state-based action results in a permanent leaving the battlefield at the same time other state-based actions were performed, that permanent's last known information is derived from the game state before any of those state-based actions were performed.
 Example: You control Young Wolf, a 1/1 creature with undying, and it has a +1/+1 counter on it. A spell puts three -1/-1 counters on Young Wolf. Before state-based actions are performed, Young Wolf has one +1/+1 counter and three -1/-1 counters on it. After state-based actions are performed, Young Wolf is in the graveyard. When it was last on the battlefield, it had a +1/+1 counter on it, so undying will not trigger.
 
+.. _mtgcr-705:
+
 705. Flipping a Coin
 ====================
 
@@ -9860,6 +10050,8 @@ To flip a coin for an object that cares whether the coin comes up heads or tails
 705.3
 -----
 A coin used in a flip must be a two-sided object with easily distinguished sides and equal likelihood that either side lands face up. If the coin that's being flipped doesn't have an obvious "heads" or "tails," designate one side to be "heads," and the other side to be "tails." Other methods of randomization may be substituted for flipping a coin as long as there are two possible outcomes of equal likelihood and all players agree to the substitution. For example, the player may roll an even-sided die and call "odds" or "evens," or roll an even-sided die and designate that "odds" means "heads" and "evens" means "tails."
+
+.. _mtgcr-706:
 
 706. Copying Objects
 ====================
@@ -10008,6 +10200,8 @@ Example: An Unstable Shapeshifter copies a Crazed Armodon. Crazed Armodon reads,
 ------
 An effect that instructs a player to cast a copy of an object (and not just copy a spell) follows the rules for casting spells, except that the copy is created in the same zone the object is in and then cast while another spell or ability is resolving. Casting a copy of an object follows steps 601.2a-g of rule 601, "Casting Spells," and then the copy becomes cast. Once cast, the copy is a spell on the stack, and just like any other spell it can resolve or be countered.
 
+.. _mtgcr-707:
+
 707. Face-Down Spells and Permanents
 ====================================
 
@@ -10082,6 +10276,8 @@ If a face-down permanent becomes a copy of another permanent, its copiable value
 707.11
 ------
 If a face-down permanent would have an "As [this permanent] is turned face up . . ." ability after it's turned face up, that ability is applied while that permanent is being turned face up, not afterward.
+
+.. _mtgcr-708:
 
 708. Split Cards
 ================
@@ -10162,6 +10358,8 @@ Example: Sunforger has an ability that reads, "|mana_r| |mana_w|,Unattach Sunfor
 -----
 Each split card has two names. If an effect instructs a player to name a card and the player wants to name a split card, the player must name one of those names and not both. An object has the chosen name if one of its names is the chosen name.
 
+.. _mtgcr-709:
+
 709. Flip Cards
 ===============
 
@@ -10214,6 +10412,8 @@ Flipping a permanent is a one-way process. Once a permanent is flipped, it's imp
 -----
 If an effect instructs a player to name a card and the player wants to name a flip card's alternative name, the player may do so.
 
+.. _mtgcr-710:
+
 710. Leveler Cards
 ==================
 
@@ -10264,6 +10464,8 @@ If the number of level counters on a leveler creature is less than N1 (the first
 710.6
 -----
 In every zone other than the battlefield, a leveler card has the power and toughness denoted by its uppermost power/toughness box.
+
+.. _mtgcr-711:
 
 711. Double-Faced Cards
 =======================
@@ -10385,6 +10587,8 @@ For all game purposes, the checklist card is considered to be the double-faced c
 ------
 As the checklist card enters a public zone, the checklist card should be set aside and the double-faced card used instead. If the checklist card is exiled face down, its identity should continue to be hidden using the face-down checklist card.
 
+.. _mtgcr-712:
+
 712. Controlling Another Player
 ===============================
 
@@ -10410,7 +10614,7 @@ If a turn is skipped, any pending player-controlling effects wait until the play
 
 712.2
 -----
-One card (Word of Command) allows a player to control another player for a limited duration.
+One card (:mtgtip:`Word of Command`) allows a player to control another player for a limited duration.
 
 .. _mtgcr-712-3:
 
@@ -10471,6 +10675,8 @@ A player who controls another player also continues to make his or her own choic
 -----
 A player may gain control of himself or herself. That player will make his or her own decisions and choices as normal.
 
+.. _mtgcr-713:
+
 713. Ending the Turn
 ====================
 
@@ -10510,6 +10716,8 @@ No player gets priority during this process, so triggered abilities are not put 
 -----
 Even though the turn ends, "at the beginning of the end step" triggered abilities don't trigger because the end step is skipped.
 
+.. _mtgcr-714:
+
 714. Restarting the Game
 ========================
 
@@ -10517,7 +10725,7 @@ Even though the turn ends, "at the beginning of the end step" triggered abilitie
 
 714.1
 -----
-One card (Karn Liberated) restarts the game. A game that is restarted immediately ends. No players in that game win, lose, or draw that game. All players in that game when it ended then start a new game following the procedures set forth in rule 103, "Starting the Game," with the following exception:
+One card (:mtgtip:`Karn Liberated`) restarts the game. A game that is restarted immediately ends. No players in that game win, lose, or draw that game. All players in that game when it ended then start a new game following the procedures set forth in rule 103, "Starting the Game," with the following exception:
 
 .. _mtgcr-714-1a:
 
@@ -10568,6 +10776,8 @@ If a *Magic* subgame (see rule :ref:`715 <mtgcr-715>`) is restarted, the main ga
 -----
 If a multiplayer game using the limited range of influence option (see rule :ref:`801 <mtgcr-801>`) is restarted, all players in the game are involved, regardless of the range of influence of the player who controls the ability that restarted the game.
 
+.. _mtgcr-715:
+
 715. Subgames
 =============
 
@@ -10575,7 +10785,7 @@ If a multiplayer game using the limited range of influence option (see rule :ref
 
 715.1
 -----
-One card (Shahrazad) allows players to play a *Magic* subgame.
+One card (:mtgtip:`Shahrazad`) allows players to play a *Magic* subgame.
 
 .. _mtgcr-715-1a:
 
@@ -10674,6 +10884,8 @@ At the end of a subgame of an Archenemy game, any face-up scheme cards in the su
 -----
 A subgame can be created within a subgame. The existing subgame becomes the main game in relation to the new subgame.
 
+.. _mtgcr-716:
+
 716. Taking Shortcuts
 =====================
 
@@ -10747,6 +10959,8 @@ Example: A player controls Seal of Cleansing, an enchantment that reads, "Sacrif
 -----
 If a loop contains an effect that says "[A] unless [B]," where [A] and [B] are each actions, no player can be forced to perform [B] to break the loop. If no player chooses to perform [B], the loop will continue as though [A] were mandatory.
 
+.. _mtgcr-717:
+
 717. Handling Illegal Actions
 =============================
 
@@ -10766,6 +10980,8 @@ When reversing illegal spells and abilities, the player who had priority retains
 
 8. Multiplayer Rules
 ********************
+
+.. _mtgcr-800:
 
 800. General
 ============
@@ -10882,6 +11098,8 @@ In a multiplayer game other than a Two-Headed Giant game, the starting player do
 800.7
 -----
 In a multiplayer game not using the limited range of influence option (see rule :ref:`801 <mtgcr-801>`), if an effect states that a player wins the game, all of that player's opponents lose the game instead.
+
+.. _mtgcr-801:
 
 801. Limited Range of Influence Option
 ======================================
@@ -11069,6 +11287,8 @@ Effects that restart the game (see rule :ref:`714 <mtgcr-714>`) are exempt from 
 ------
 In multiplayer Planechase games other than Grand Melee games, plane cards and phenomenon cards are exempt from the limited range of influence option. Their abilities, and the effects of those abilities, affect all applicable objects and players in the game. See rule :ref:`901 <mtgcr-901>`, "Planechase."
 
+.. _mtgcr-802:
+
 802. Attack Multiple Players Option
 ===================================
 
@@ -11139,6 +11359,8 @@ After blockers have been declared, if any creatures are blocking multiple creatu
 -----
 Combat damage is assigned in APNAP order. Other than that, the combat damage step proceeds just as in a two-player game. See rule :ref:`510 <mtgcr-510>`, "Combat Damage Step."
 
+.. _mtgcr-803:
+
 803. Attack Left and Attack Right Options
 =========================================
 
@@ -11160,6 +11382,8 @@ If the attack left option is used, a player can attack only an opponent seated i
 ------
 If the attack right option is used, a player can attack only an opponent seated immediately to his or her right. If a player's nearest opponent to the right is more than one seat away, the player can't attack.
 
+.. _mtgcr-804:
+
 804. Deploy Creatures Option
 ============================
 
@@ -11175,6 +11399,8 @@ The Emperor variant always uses the deploy creatures option, and it can be used 
 -----
 Each creature has the ability "|tap|: Target teammate gains control of this creature. Activate this ability only any time you could cast a sorcery."
 
+.. _mtgcr-805:
+
 805. Shared Team Turns Option
 =============================
 
@@ -11182,7 +11408,7 @@ Each creature has the ability "|tap|: Target teammate gains control of this crea
 
 805.1
 -----
-Some multiplayer games between teams use the shared team turns option. It's always used in the Two-Headed Giant variant (see rule 810) and the Archenemy casual variant (see rule :ref:`904 <mtgcr-904>`). It can be used only if the members of each team are sitting in adjacent seats.
+Some multiplayer games between teams use the shared team turns option. It's always used in the Two-Headed Giant variant (see rule :ref:`810 <mtgcr-810>`) and the Archenemy casual variant (see rule :ref:`904 <mtgcr-904>`). It can be used only if the members of each team are sitting in adjacent seats.
 
 .. _mtgcr-805-2:
 
@@ -11280,6 +11506,8 @@ If an effect gives a player an extra turn or adds a phase or step to that player
 -----
 Any ability that refers to the "active player" refers to one specific active player, not to all of the active players. The ability's controller chooses which one the ability refers to at the time its effect is applied.
 
+.. _mtgcr-806:
+
 806. Free-for-All Variant
 =========================
 
@@ -11318,6 +11546,8 @@ The deploy creatures option isn't used in the Free-for-All variant.
 806.3
 -----
 The players are randomly seated around the table.
+
+.. _mtgcr-807:
 
 807. Grand Melee Variant
 ========================
@@ -11444,6 +11674,8 @@ A player gets priority for a particular turn marker's stack only if the turn mar
 ------
 If a player has priority for multiple stacks and casts a spell, activates an ability, or a triggered ability he or she controls triggers, the player must specify which one of those stacks the spell or ability is put on. If an object on one of those stacks caused the triggered ability to trigger, the player must put it on that stack. If a resolving spell or ability on one of those stacks causes a player to cast a spell or create a copy of a spell, the new spell must be put on the same stack. If a spell or ability targets an object on one of those stacks, it must be put on the same stack as its target; it can't target objects on multiple stacks.
 
+.. _mtgcr-808:
+
 808. Team vs. Team Variant
 ==========================
 
@@ -11488,6 +11720,8 @@ To determine which player goes first, randomly choose a team. If that team has a
 808.5
 -----
 In the Team vs. Team variant, a team's resources (cards in hand, mana, and so on) are not shared. Teammates may review each other's hands and discuss strategies at any time. Teammates can't manipulate each other's cards or permanents.
+
+.. _mtgcr-809:
 
 809. Emperor Variant
 ====================
@@ -11577,6 +11811,8 @@ Example: In an Emperor game between two teams of four players each, the player c
 809.7
 -----
 In the Emperor variant, a team's resources (cards in hand, mana, and so on) are not shared. Teammates may review each other's hands and discuss strategies at any time. Teammates can't manipulate each other's cards or permanents.
+
+.. _mtgcr-810:
 
 810. Two-Headed Giant Variant
 =============================
@@ -11792,6 +12028,8 @@ A player is "poisoned" if his or her team has one or more poison counters.
 ------
 The Two-Headed Giant variant can also be played with equally sized teams of more than two players. For each player a team has beyond the second, that team's starting life total is increased by 15 and the number of poison counters required for the team to lose is increased by five. (These variants are called Three-Headed Giant, Four-Headed Giant, and so on.)
 
+.. _mtgcr-811:
+
 811. Alternating Teams Variant
 ==============================
 
@@ -11849,6 +12087,8 @@ In the Alternating Teams variant, a team's resources (cards in hand, mana, and s
 9. Casual Variants
 ******************
 
+.. _mtgcr-900:
+
 900. General
 ============
 
@@ -11863,6 +12103,8 @@ This section contains additional optional rules that can be used for certain cas
 900.2
 -----
 The casual variants detailed here use supplemental zones, rules, cards, and other game implements not used in traditional *Magic* games.
+
+.. _mtgcr-901:
 
 901. Planechase
 ===============
@@ -11979,7 +12221,7 @@ After the game has started, if a player moves the top card of his or her planar 
 
 901.11a
 -------
-A player may planeswalk as the result of the "planeswalking ability" (see rule 901.8), because the owner of a face-up plane card or phenomenon card leaves the game (see rule :ref:`901 <mtgcr-901>`.10), or because a phenomenon's triggered ability leaves the stack (see rule :ref:`704.5x <mtgcr-704-5x>`). Abilities may also instruct a player to planeswalk.
+A player may planeswalk as the result of the "planeswalking ability" (see rule :ref:`901 <mtgcr-901>`.8), because the owner of a face-up plane card or phenomenon card leaves the game (see rule :ref:`901 <mtgcr-901>`.10), or because a phenomenon's triggered ability leaves the stack (see rule :ref:`704.5x <mtgcr-704-5x>`). Abilities may also instruct a player to planeswalk.
 
 .. _mtgcr-901-11b:
 
@@ -12071,6 +12313,8 @@ In a Planechase game using the single planar deck option, the planar controller 
 -------
 If any rule or ability refers to a player's planar deck, the communal planar deck is used.
 
+.. _mtgcr-902:
+
 902. Vanguard
 =============
 
@@ -12130,6 +12374,8 @@ The owner of a vanguard card is the player who started the game with it in the c
 902.7
 -----
 Any abilities of a face-up vanguard card in the command zone function from that zone. The card's static abilities affect the game, its triggered abilities may trigger, and its activated abilities may be activated.
+
+.. _mtgcr-903:
 
 903. Commander
 ==============
@@ -12202,7 +12448,7 @@ Other than basic lands, each card in a Commander deck must have a different Engl
 903.5c
 ------
 A card can be included in a Commander deck only if every color in its color identity is also found in the color identity of the deck's commander.
-Example: Wort, the Raidmother is a legendary creature with mana cost |mana_4|{R/G}{R/G}. Wort's color identity is red and green. Each card in a Wort Commander deck must be only red, only green, both red and green, or have no color. Each mana symbol in the mana cost or rules text of a card in this deck must be only red, only green, both red and green, or have no color.
+Example: Wort, the Raidmother is a legendary creature with mana cost |mana_4| |mana_rg| |mana_rg|. Wort's color identity is red and green. Each card in a Wort Commander deck must be only red, only green, both red and green, or have no color. Each mana symbol in the mana cost or rules text of a card in this deck must be only red, only green, both red and green, or have no color.
 
 .. _mtgcr-903-5d:
 
@@ -12271,6 +12517,8 @@ The Commander variant includes the following specification for winning and losin
 -------
 A player that's been dealt 21 or more combat damage by the same commander over the course of the game loses the game. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.)
 
+.. _mtgcr-904:
+
 904. Archenemy
 ==============
 
@@ -12284,7 +12532,7 @@ In the Archenemy variant, a team of players faces off against a single opponent 
 
 904.2
 -----
-The default setup for an Archenemy game is the Team vs. Team multiplayer variant (see rule 808) involving exactly two teams. The attack multiple players option (see rule 802) and the shared team turns option (see rule :ref:`805 <mtgcr-805>`) are used; no other multiplayer options are used.
+The default setup for an Archenemy game is the Team vs. Team multiplayer variant (see rule :ref:`808 <mtgcr-808>`) involving exactly two teams. The attack multiple players option (see rule :ref:`802 <mtgcr-802>`) and the shared team turns option (see rule :ref:`805 <mtgcr-805>`) are used; no other multiplayer options are used.
 
 .. _mtgcr-904-2a:
 
@@ -13562,7 +13810,7 @@ Snow
     A supertype that's normally relevant on permanents. See rule :ref:`205.4 <mtgcr-205-4>`, "Supertypes."
 
 Snow Mana Symbol
-    The snow mana symbol {S} represents a cost that can be paid with one mana produced by a snow permanent. See rule :ref:`107.4h <mtgcr-107-4h>`
+    The snow mana symbol |mana_snow| represents a cost that can be paid with one mana produced by a snow permanent. See rule :ref:`107.4h <mtgcr-107-4h>`
 
 Snow-Covered (Obsolete)
     Some older cards were printed with the term "snow-covered" in their rules text. Except when referencing card names, such cards have received errata in the Oracle card reference to reference the supertype "snow" instead. See Snow.
@@ -13819,7 +14067,7 @@ Untap Step
     Part of the turn. This step is the first step of the beginning phase. See rule :ref:`502 <mtgcr-502>`, "Untap Step."
 
 Untap Symbol
-    The untap symbol {Q} in an activation cost means "Untap this permanent." See rule :ref:`107.6 <mtgcr-107-6>`
+    The untap symbol |untap| in an activation cost means "Untap this permanent." See rule :ref:`107.6 <mtgcr-107-6>`
 
 Untapped
     A default status a permanent may have. See rule :ref:`110.6 <mtgcr-110-6>` and rule 701.17, "Tap and Untap." See also Tapped.
