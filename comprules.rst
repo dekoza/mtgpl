@@ -140,7 +140,8 @@ Whenever a card's text directly contradicts these rules, the card takes preceden
 101.2
 -----
 When a rule or effect allows or directs something to happen, and another effect states that it can't happen, the "can't" effect takes precedence.
-Example: If one effect reads "You may play an additional land this turn" and another reads "You can't play land cards this turn," the effect that precludes you from playing lands wins.
+
+**Example:** If one effect reads "You may play an additional land this turn" and another reads "You can't play land cards this turn," the effect that precludes you from playing lands wins.
 
 .. _mtgcr-101-2a:
 
@@ -159,7 +160,8 @@ Any part of an instruction that's impossible to perform is ignored. (In many cas
 101.4
 -----
 If multiple players would make choices and/or take actions at the same time, the active player (the player whose turn it is) makes any choices required, then the next player in turn order (usually the player seated to the active player's left) makes any choices required, followed by the remaining nonactive players in turn order. Then the actions happen simultaneously. This rule is often referred to as the "Active Player, Nonactive Player (APNAP) order" rule.
-Example: A card reads "Each player sacrifices a creature." First, the active player chooses a creature he or she controls. Then each of the nonactive players, in turn order, chooses a creature he or she controls. Then all creatures chosen this way are sacrificed simultaneously.
+
+**Example:** A card reads "Each player sacrifices a creature." First, the active player chooses a creature he or she controls. Then each of the nonactive players, in turn order, chooses a creature he or she controls. Then all creatures chosen this way are sacrificed simultaneously.
 
 .. _mtgcr-101-4a:
 
@@ -653,21 +655,24 @@ If a player passes priority (see rule :ref:`116 <mtgcr-116>`) while there is man
 106.5
 -----
 If an ability would produce one or more mana of an undefined type, it produces no mana instead.
-Example: :mtgtip:`Meteor Crater` has the ability "|tap|: Choose a color of a permanent you control. Add one mana of that color to your mana pool." If you control no colored permanents, activating Meteor Crater's mana ability produces no mana.
+
+**Example:** :mtgtip:`Meteor Crater` has the ability "|tap|: Choose a color of a permanent you control. Add one mana of that color to your mana pool." If you control no colored permanents, activating Meteor Crater's mana ability produces no mana.
 
 .. _mtgcr-106-6:
 
 106.6
 -----
 Some spells or abilities that produce mana restrict how that mana can be spent, or have an additional effect that affects the spell or ability that mana is spent on. This doesn't affect the mana's type.
-Example: A player's mana pool contains |mana_1| |mana_u| which can be spent only to pay cumulative upkeep costs. That player activates :mtgtip:`Doubling Cube`'s ability, which reads "|mana_3|, |tap|: Double the amount of each type of mana in your mana pool." The player's mana pool now has |mana_2| |mana_u| |mana_u| in it, |mana_1| |mana_u| of which can be spent on anything.
+
+**Example:** A player's mana pool contains |mana_1| |mana_u| which can be spent only to pay cumulative upkeep costs. That player activates :mtgtip:`Doubling Cube`'s ability, which reads "|mana_3|, |tap|: Double the amount of each type of mana in your mana pool." The player's mana pool now has |mana_2| |mana_u| |mana_u| in it, |mana_1| |mana_u| of which can be spent on anything.
 
 .. _mtgcr-106-7:
 
 106.7
 -----
 Some abilities produce mana based on the type of mana another permanent or permanents "could produce." The type of mana a permanent could produce at any time includes any type of mana that an ability of that permanent would produce if the ability were to resolve at that time, taking into account any applicable replacement effects in any possible order. Ignore whether any costs of the ability could or could not be paid. If that permanent wouldn't produce any mana under these conditions, or no type of mana can be defined this way, there's no type of mana it could produce.
-Example: :mtgtip:`Exotic Orchard` has the ability "|tap|: Add to your mana pool one mana of any color that a land an opponent controls could produce." If your opponent controls no lands, activating Exotic Orchard's mana ability will produce no mana. The same is true if you and your opponent each control no lands other than Exotic Orchards. However, if you control a Forest and an Exotic Orchard, and your opponent controls an Exotic Orchard, then each Exotic Orchard could produce |mana_g|.
+
+**Example:** :mtgtip:`Exotic Orchard` has the ability "|tap|: Add to your mana pool one mana of any color that a land an opponent controls could produce." If your opponent controls no lands, activating Exotic Orchard's mana ability will produce no mana. The same is true if you and your opponent each control no lands other than Exotic Orchards. However, if you control a Forest and an Exotic Orchard, and your opponent controls an Exotic Orchard, then each Exotic Orchard could produce |mana_g|.
 
 .. _mtgcr-106-8:
 
@@ -715,8 +720,10 @@ You can't choose a fractional number, deal fractional damage, gain fractional li
 107.1b
 ------
 Most of the time, the *Magic* game uses only positive numbers and zero. You can't choose a negative number, deal negative damage, gain negative life, and so on. However, it's possible for a game value, such as a creature's power, to be less than zero. If a calculation or comparison needs to use a negative value, it does so. If a calculation that would determine the result of an effect yields a negative number, zero is used instead, unless that effect sets a player's life total to a specific value, doubles a player's life total, sets a creature's power or toughness to a specific value, or otherwise modifies a creature's power or toughness.
-Example: If a 3/4 creature gets -5/-0, it's a -2/4 creature. It doesn't assign damage in combat. Its total power and toughness is 2. You'd have to give it +3/+0 to raise its power to 1.
-Example: :mtgtip:`Viridian Joiner` is a 1/2 creature with the ability "|tap|: Add to your mana pool an amount of |mana_g| equal to Viridian Joiner's power." An effect gives it -2/-0, then its ability is activated. The ability adds no mana to your mana pool.
+
+**Example:** If a 3/4 creature gets -5/-0, it's a -2/4 creature. It doesn't assign damage in combat. Its total power and toughness is 2. You'd have to give it +3/+0 to raise its power to 1.
+
+**Example:** :mtgtip:`Viridian Joiner` is a 1/2 creature with the ability "|tap|: Add to your mana pool an amount of |mana_g| equal to Viridian Joiner's power." An effect gives it -2/-0, then its ability is activated. The ability adds no mana to your mana pool.
 
 .. _mtgcr-107-1c:
 
@@ -819,14 +826,16 @@ The symbol |mana_0| represents zero mana and is used as a placeholder for a cost
 107.4e
 ------
 Hybrid mana symbols are also colored mana symbols. Each one represents a cost that can be paid in one of two ways, as represented by the two halves of the symbol. A hybrid symbol such as |mana_wu| can be paid with either white or blue mana, and a monocolored hybrid symbol such as |mana_2b| can be paid with either one black mana or two mana of any type. A hybrid mana symbol is all of its component colors.
-Example: |mana_gw| |mana_gw| can be paid by spending |mana_g| |mana_g|, |mana_g| |mana_w|, or |mana_w| |mana_w|.
+
+**Example:** |mana_gw| |mana_gw| can be paid by spending |mana_g| |mana_g|, |mana_g| |mana_w|, or |mana_w| |mana_w|.
 
 .. _mtgcr-107-4f:
 
 107.4f
 ------
 Phyrexian mana symbols are colored mana symbols: |mana_wp| is white, |mana_up| is blue, |mana_bp| is black, |mana_rp| is red, and |mana_gp| is green. A Phyrexian mana symbol represents a cost that can be paid either with one mana of its color or by paying 2 life.
-Example: |mana_wp| |mana_wp| can be paid by spending |mana_w| |mana_w|, by spending |mana_w| and paying 2 life, or by paying 4 life.
+
+**Example:** |mana_wp| |mana_wp| can be paid by spending |mana_w| |mana_w|, by spending |mana_w| and paying 2 life, or by paying 4 life.
 
 .. _mtgcr-107-4g:
 
@@ -1136,7 +1145,8 @@ A token is both owned and controlled by the player under whose control it entere
 110.5b
 ------
 The spell or ability that creates a token may define the values of any number of characteristics for the token. This becomes the token's "text." The characteristic values defined this way are functionally equivalent to the characteristic values that are printed on a card; for example, they define the token's copiable values. A token doesn't have any characteristics not defined by the spell or ability that created it.
-Example: :mtgtip:`Jade Mage` has the ability "|mana_2| |mana_g|: Put a 1/1 green Saproling creature token onto the battlefield." The resulting token has no mana cost, supertype, rules text, or abilities.
+
+**Example:** :mtgtip:`Jade Mage` has the ability "|mana_2| |mana_g|: Put a 1/1 green Saproling creature token onto the battlefield." The resulting token has no mana cost, supertype, rules text, or abilities.
 
 .. _mtgcr-110-5c:
 
@@ -1191,7 +1201,8 @@ Permanents enter the battlefield untapped, unflipped, face up, and phased in unl
 110.6c
 ------
 A permanent retains its status until a spell, ability, or turn-based action changes it, even if that status is not relevant to it.
-Example: :mtgtip:`Dimir Doppelganger` says "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability." It becomes a copy of :mtgtip:`Jushi Apprentice`, a flip card. Through use of Jushi Apprentice's ability, this creature flips, making it a copy of :mtgtip:`Tomoya the Revealer` with the Dimir Doppelganger ability. If this permanent then becomes a copy of :mtgtip:`Runeclaw Bear`, it will retain its flipped status even though that has no relevance to Runeclaw Bear. If its copy ability is activated again, this time targeting a :mtgtip:`Nezumi Shortfang` card (another flip card), this permanent's flipped status means it will have the characteristics of :mtgtip:`Stabwhisker the Odious` (the flipped version of Nezumi Shortfang) with the Dimir Doppelganger ability.
+
+**Example:** :mtgtip:`Dimir Doppelganger` says "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability." It becomes a copy of :mtgtip:`Jushi Apprentice`, a flip card. Through use of Jushi Apprentice's ability, this creature flips, making it a copy of :mtgtip:`Tomoya the Revealer` with the Dimir Doppelganger ability. If this permanent then becomes a copy of :mtgtip:`Runeclaw Bear`, it will retain its flipped status even though that has no relevance to Runeclaw Bear. If its copy ability is activated again, this time targeting a :mtgtip:`Nezumi Shortfang` card (another flip card), this permanent's flipped status means it will have the characteristics of :mtgtip:`Stabwhisker the Odious` (the flipped version of Nezumi Shortfang) with the Dimir Doppelganger ability.
 
 .. _mtgcr-110-6d:
 
@@ -1239,7 +1250,8 @@ A noncopy spell's characteristics are the same as those printed on its card, as 
 111.4
 -----
 If an effect changes any characteristics of a permanent spell, the effect continues to apply to the permanent when the spell resolves. See rule :ref:`400.7 <mtgcr-400-7>`
-Example: If an effect changes a black creature spell to white, the creature is white when it enters the battlefield and remains white for the duration of the effect changing its color.
+
+**Example:** If an effect changes a black creature spell to white, the creature is white when it enters the battlefield and remains white for the duration of the effect changing its color.
 
 .. _mtgcr-112:
 
@@ -1275,7 +1287,8 @@ Abilities can affect the objects they're on. They can also affect other objects 
 112.2a
 ------
 Abilities can be beneficial or detrimental.
-Example: "[This creature] can't block" is an ability.
+
+**Example:** "[This creature] can't block" is an ability.
 
 .. _mtgcr-112-2b:
 
@@ -1402,14 +1415,16 @@ An object's activated ability that has a cost that can't be paid while the objec
 112.6j
 ------
 A trigger condition that can't trigger from the battlefield functions in all zones it can trigger from. Other trigger conditions of the same triggered ability may function in different zones.
-Example: :mtgtip:`Absolver Thrull` has the ability "When Absolver Thrull enters the battlefield or the creature it haunts dies, destroy target enchantment." The first trigger condition functions from the battlefield and the second trigger condition functions from the exile zone. (See rule :ref:`702.54 <mtgcr-702-54>`, "Haunt.")
+
+**Example:** :mtgtip:`Absolver Thrull` has the ability "When Absolver Thrull enters the battlefield or the creature it haunts dies, destroy target enchantment." The first trigger condition functions from the battlefield and the second trigger condition functions from the exile zone. (See rule :ref:`702.54 <mtgcr-702-54>`, "Haunt.")
 
 .. _mtgcr-112-6k:
 
 112.6k
 ------
 An ability whose cost or effect specifies that it moves the object it's on out of a particular zone functions only in that zone, unless that ability's trigger condition, or a previous part of that ability's cost or effect, specifies that the object is put into that zone.
-Example: :mtgtip:`Reassembling Skeleton` says "|mana_1| |mana_b|: Return Reassembling Skeleton from your graveyard to the battlefield tapped." A player may activate this ability only if Reassembling Skeleton is in his or her graveyard.
+
+**Example:** :mtgtip:`Reassembling Skeleton` says "|mana_1| |mana_b|: Return Reassembling Skeleton from your graveyard to the battlefield tapped." A player may activate this ability only if Reassembling Skeleton is in his or her graveyard.
 
 .. _mtgcr-112-6m:
 
@@ -1458,7 +1473,8 @@ Effects can add or remove abilities of objects. An effect that adds an ability w
 112.11
 ------
 An effect that sets an object's characteristic, or simply states a quality of that object, is different from an ability granted by an effect. When an object "gains" or "has" an ability, that ability can be removed by another effect. If an effect defines a characteristic of the object ("[permanent] is [characteristic value]"), it's not granting an ability. (See rule :ref:`604.3 <mtgcr-604-3>`) Similarly, if an effect states a quality of that object ("[creature] can't be blocked," for example), it's neither granting an ability nor setting a characteristic.
-Example: :mtgtip:`Muraganda Petroglyphs` reads, "Creatures with no abilities get +2/+2." A :mtgtip:`Runeclaw Bear` (a creature with no abilities) enchanted by an Aura that says "Enchanted creature has flying" would not get +2/+2. A Runeclaw Bear enchanted by an Aura that says "Enchanted creature is red" or "Enchanted creature can't be blocked" would get +2/+2.
+
+**Example:** :mtgtip:`Muraganda Petroglyphs` reads, "Creatures with no abilities get +2/+2." A :mtgtip:`Runeclaw Bear` (a creature with no abilities) enchanted by an Aura that says "Enchanted creature has flying" would not get +2/+2. A Runeclaw Bear enchanted by an Aura that says "Enchanted creature is red" or "Enchanted creature can't be blocked" would get +2/+2.
 
 .. _mtgcr-113:
 
@@ -1511,7 +1527,8 @@ Some spells and abilities require their controller to choose one or more targets
 114.1a
 ------
 An instant or sorcery spell is targeted if its spell ability identifies something it will affect by using the phrase "target [something]," where the "something" is a phrase that describes an object, player, or zone. The target(s) are chosen as the spell is cast; see rule :ref:`601.2c <mtgcr-601-2c>` (If an activated or triggered ability of an instant or sorcery uses the word target, that ability is targeted, but the spell is not.)
-Example: A sorcery card has the ability "When you cycle this card, target creature gets -1/-1 until end of turn." This triggered ability is targeted, but that doesn't make the card it's on targeted.
+
+**Example:** A sorcery card has the ability "When you cycle this card, target creature gets -1/-1 until end of turn." This triggered ability is targeted, but that doesn't make the card it's on targeted.
 
 .. _mtgcr-114-1b:
 
@@ -1596,7 +1613,8 @@ If an effect allows a player to "choose new targets" for a spell or ability, the
 114.6e
 ------
 When changing targets or choosing new targets for a spell or ability, only the final set of targets is evaluated to determine whether the change is legal.
-Example: :mtgtip:`Arc Trail` is a sorcery that reads "Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player." The current targets of Arc Trail are :mtgtip:`Runeclaw Bear` and :mtgtip:`Llanowar Elves`, in that order. You cast :mtgtip:`Redirect`, an instant that reads "You may choose new targets for target spell," targeting Arc Trail. You can change the first target to Llanowar Elves and change the second target to Runeclaw Bear.
+
+**Example:** :mtgtip:`Arc Trail` is a sorcery that reads "Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player." The current targets of Arc Trail are :mtgtip:`Runeclaw Bear` and :mtgtip:`Llanowar Elves`, in that order. You cast :mtgtip:`Redirect`, an instant that reads "You may choose new targets for target spell," targeting Arc Trail. You can change the first target to Llanowar Elves and change the second target to Runeclaw Bear.
 
 .. _mtgcr-114-7:
 
@@ -1870,7 +1888,8 @@ Paying life is done by subtracting the indicated amount of life from a player's 
 117.3c
 ------
 Activating mana abilities is not mandatory, even if paying a cost is.
-Example: A player controls :mtgtip:`Lodestone Golem`, which says "Nonartifact spells cost |mana_1| more to cast." Another player removes the last time counter from a suspended sorcery card. That player must cast that spell if able, but doing so costs |mana_1|. The player is forced to spend |mana_1| if enough mana is in his or her mana pool, but the player isn't forced to activate a mana ability to produce that |mana_1|. If he or she doesn't, the card simply remains exiled.
+
+**Example:** A player controls :mtgtip:`Lodestone Golem`, which says "Nonartifact spells cost |mana_1| more to cast." Another player removes the last time counter from a suspended sorcery card. That player must cast that spell if able, but doing so costs |mana_1|. The player is forced to spend |mana_1| if enough mana is in his or her mana pool, but the player isn't forced to activate a mana ability to produce that |mana_1|. If he or she doesn't, the card simply remains exiled.
 
 .. _mtgcr-117-4:
 
@@ -2009,15 +2028,18 @@ Each payment of a cost applies to only one spell, ability, or effect. For exampl
 117.11
 ------
 The actions performed when paying a cost may be modified by effects. Even if they are, meaning the actions that are performed don't match the actions that are called for, the cost has still been paid.
-Example: A player controls :mtgtip:`Psychic Vortex`, an enchantment with a cumulative upkeep cost of "Draw a card," and :mtgtip:`Obstinate Familiar`, a creature that says "If you would draw a card, you may skip that draw instead." The player may decide to pay Psychic Vortex's cumulative upkeep cost and then draw no cards instead of drawing the appropriate amount. The cumulative upkeep cost has still been paid.
+
+**Example:** A player controls :mtgtip:`Psychic Vortex`, an enchantment with a cumulative upkeep cost of "Draw a card," and :mtgtip:`Obstinate Familiar`, a creature that says "If you would draw a card, you may skip that draw instead." The player may decide to pay Psychic Vortex's cumulative upkeep cost and then draw no cards instead of drawing the appropriate amount. The cumulative upkeep cost has still been paid.
 
 .. _mtgcr-117-12:
 
 117.12
 ------
 Some spells, activated abilities, and triggered abilities read, "[Do something]. If [a player] [does or doesn't], [effect]." or "[A player] may [do something]. If [that player] [does or doesn't], [effect]." The action [do something] is a cost, paid when the spell or ability resolves. The "If [a player] [does or doesn't]" clause checks whether the player chose to pay an optional cost or started to pay a mandatory cost, regardless of what events actually occurred.
-Example: You control :mtgtip:`Standstill`, an enchantment that says "When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards." A spell is cast, causing Standstill's ability to trigger. Then an ability is activated that exiles Standstill. When Standstill's ability resolves, you're unable to pay the "sacrifice Standstill" cost. No player will draw cards.
-Example: Your opponent has cast :mtgtip:`Gather Specimens`, a spell that says "If a creature would enter the battlefield under an opponent's control this turn, it enters the battlefield under your control instead." You control a face-down :mtgtip:`Dermoplasm`, a creature with morph that says "When Dermoplasm is turned face up, you may put a creature card with morph from your hand onto the battlefield face up. If you do, return Dermoplasm to its owner's hand." You turn Dermoplasm face up, and you choose to put a creature card with morph from your hand onto the battlefield. Due to Gather Specimens, it enters the battlefield under your opponent's control instead of yours. However, since you chose to pay the cost, Dermoplasm is still returned to its owner's hand.
+
+**Example:** You control :mtgtip:`Standstill`, an enchantment that says "When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards." A spell is cast, causing Standstill's ability to trigger. Then an ability is activated that exiles Standstill. When Standstill's ability resolves, you're unable to pay the "sacrifice Standstill" cost. No player will draw cards.
+
+**Example:** Your opponent has cast :mtgtip:`Gather Specimens`, a spell that says "If a creature would enter the battlefield under an opponent's control this turn, it enters the battlefield under your control instead." You control a face-down :mtgtip:`Dermoplasm`, a creature with morph that says "When Dermoplasm is turned face up, you may put a creature card with morph from your hand onto the battlefield face up. If you do, return Dermoplasm to its owner's hand." You turn Dermoplasm face up, and you choose to put a creature card with morph from your hand onto the battlefield. Due to Gather Specimens, it enters the battlefield under your opponent's control instead of yours. However, since you chose to pay the cost, Dermoplasm is still returned to its owner's hand.
 
 .. _mtgcr-117-12a:
 
@@ -2113,7 +2135,8 @@ If an effect says that a player can't lose life, that player can't make an excha
 118.9
 -----
 Some triggered abilities are written, "Whenever [a player] gains life, . . . ." Such abilities are treated as though they are written, "Whenever a source causes [a player] to gain life, . . . ." If a player gains 0 life, no life gain event has occurred, and these abilities won't trigger.
-Example: A player controls :mtgtip:`Ajani's Pridemate`, which reads "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate," and two creatures with lifelink. The creatures with lifelink deal combat damage simultaneously. Ajani's Pridemate's ability triggers twice.
+
+**Example:** A player controls :mtgtip:`Ajani's Pridemate`, which reads "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate," and two creatures with lifelink. The creatures with lifelink deal combat damage simultaneously. Ajani's Pridemate's ability triggers twice.
 
 .. _mtgcr-119:
 
@@ -2215,15 +2238,18 @@ Next, damage that's been dealt is processed into its results, as modified by rep
 119.4c
 ------
 Finally, the damage event occurs.
-Example: A player who controls :mtgtip:`Boon Reflection`, an enchantment that says "If you would gain life, you gain twice that much life instead," attacks with a 3/3 creature with wither and lifelink. It's blocked by a 2/2 creature, and the defending player casts a spell that prevents the next 2 damage that would be dealt to the blocking creature. The damage event starts out as [3 damage is dealt to the 2/2 creature, 2 damage is dealt to the 3/3 creature]. The prevention effect is applied, so the damage event becomes [1 damage is dealt to the 2/2 creature, 2 damage is dealt to the 3/3 creature]. That's processed into its results, so the damage event is now [one -1/-1 counter is put on the 2/2 creature, the active player gains 1 life, 2 damage is marked on the 3/3 creature]. Boon Reflection's effect is applied, so the damage event becomes [one -1/-1 counter is put on the 2/2 creature, the active player gains 2 life, 2 damage is marked on the 3/3 creature]. Then the damage event occurs.
-Example: The defending player controls a creature and :mtgtip:`Worship`, an enchantment that says "If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead." That player is at 2 life, and is being attacked by two unblocked 5/5 creatures. The player casts :mtgtip:`Awe Strike`, which says "The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way," targeting one of the attackers. The damage event starts out as [10 damage is dealt to the defending player]. Awe Strike's effect is applied, so the damage event becomes [5 damage is dealt to the defending player, the defending player gains 5 life]. That's processed into its results, so the damage event is now [the defending player loses 5 life, the defending player gains 5 life]. Worship's effect sees that the damage event would not reduce the player's life total to less than 1, so Worship's effect is not applied. Then the damage event occurs.
+
+**Example:** A player who controls :mtgtip:`Boon Reflection`, an enchantment that says "If you would gain life, you gain twice that much life instead," attacks with a 3/3 creature with wither and lifelink. It's blocked by a 2/2 creature, and the defending player casts a spell that prevents the next 2 damage that would be dealt to the blocking creature. The damage event starts out as [3 damage is dealt to the 2/2 creature, 2 damage is dealt to the 3/3 creature]. The prevention effect is applied, so the damage event becomes [1 damage is dealt to the 2/2 creature, 2 damage is dealt to the 3/3 creature]. That's processed into its results, so the damage event is now [one -1/-1 counter is put on the 2/2 creature, the active player gains 1 life, 2 damage is marked on the 3/3 creature]. Boon Reflection's effect is applied, so the damage event becomes [one -1/-1 counter is put on the 2/2 creature, the active player gains 2 life, 2 damage is marked on the 3/3 creature]. Then the damage event occurs.
+
+**Example:** The defending player controls a creature and :mtgtip:`Worship`, an enchantment that says "If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead." That player is at 2 life, and is being attacked by two unblocked 5/5 creatures. The player casts :mtgtip:`Awe Strike`, which says "The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way," targeting one of the attackers. The damage event starts out as [10 damage is dealt to the defending player]. Awe Strike's effect is applied, so the damage event becomes [5 damage is dealt to the defending player, the defending player gains 5 life]. That's processed into its results, so the damage event is now [the defending player loses 5 life, the defending player gains 5 life]. Worship's effect sees that the damage event would not reduce the player's life total to less than 1, so Worship's effect is not applied. Then the damage event occurs.
 
 .. _mtgcr-119-5:
 
 119.5
 -----
 Damage dealt to a creature or planeswalker doesn't destroy it. Likewise, the source of that damage doesn't destroy it. Rather, state-based actions may destroy a creature or planeswalker, or otherwise put it into its owner's graveyard, due to the results of the damage dealt to that permanent. See rule :ref:`704 <mtgcr-704>`.
-Example: A player casts :mtgtip:`Lightning Bolt`, an instant that says "Lightning Bolt deals 3 damage to target creature or player," targeting a 2/2 creature. After Lightning Bolt deals 3 damage to that creature, the creature is destroyed as a state-based action. Neither Lightning Bolt nor the damage dealt by Lightning Bolt destroyed that creature.
+
+**Example:** A player casts :mtgtip:`Lightning Bolt`, an instant that says "Lightning Bolt deals 3 damage to target creature or player," targeting a 2/2 creature. After Lightning Bolt deals 3 damage to that creature, the creature is destroyed as a state-based action. Neither Lightning Bolt nor the damage dealt by Lightning Bolt destroyed that creature.
 
 .. _mtgcr-119-6:
 
@@ -2447,16 +2473,20 @@ Text that refers to the object it's on by name means just that particular object
 201.4a
 ------
 If an ability's effect grants another ability to an object, and that second ability refers to that first ability's source by name, the name refers only to the specific object that is that first ability's source, not to any other object with the same name. This is also true if the second ability is copied onto a new object.
-Example: :mtgtip:`Gutter Grime` has an ability that reads "Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then put a green Ooze creature token onto the battlefield with 'This creature's power and toughness are each equal to the number of slime counters on Gutter Grime.'" The ability granted to the token only looks at the Gutter Grime that created the token, not at any other Gutter Grime on the battlefield. A copy of that token would also have an ability that referred only to the Gutter Grime that created the original token.
+
+**Example:** :mtgtip:`Gutter Grime` has an ability that reads "Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then put a green Ooze creature token onto the battlefield with 'This creature's power and toughness are each equal to the number of slime counters on Gutter Grime.'" The ability granted to the token only looks at the Gutter Grime that created the token, not at any other Gutter Grime on the battlefield. A copy of that token would also have an ability that referred only to the Gutter Grime that created the original token.
 
 .. _mtgcr-201-4b:
 
 201.4b
 ------
 If an ability of an object refers to that object by name, and an object with a different name gains that ability, each instance of the first name in the gained ability that refers to the first object by name should be treated as the second name.
-Example: :mtgtip:`Quicksilver Elemental` says, in part, "|mana_u|: Quicksilver Elemental gains all activated abilities of target creature until end of turn." If it gains an ability that says "|mana_g|: Regenerate Cudgel Troll," activating that ability will regenerate Quicksilver Elemental, not the :mtgtip:`Cudgel Troll` it gained the ability from.
-Example: :mtgtip:`Glacial Ray` is an instant with "splice onto Arcane" that says "Glacial Ray deals 2 damage to target creature or player." If it's spliced onto a :mtgtip:`Kodama's Reach`, that Kodama's Reach deals 2 damage to the target creature or player.
-Example: :mtgtip:`Dimir Doppelganger` says "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability." Dimir Doppelganger's ability is activated targeting a :mtgtip:`Runeclaw Bear` card. The Doppelganger becomes a copy of Runeclaw Bear and gains an ability that should be treated as saying "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Runeclaw Bear becomes a copy of that card and gains this ability."
+
+**Example:** :mtgtip:`Quicksilver Elemental` says, in part, "|mana_u|: Quicksilver Elemental gains all activated abilities of target creature until end of turn." If it gains an ability that says "|mana_g|: Regenerate Cudgel Troll," activating that ability will regenerate Quicksilver Elemental, not the :mtgtip:`Cudgel Troll` it gained the ability from.
+
+**Example:** :mtgtip:`Glacial Ray` is an instant with "splice onto Arcane" that says "Glacial Ray deals 2 damage to target creature or player." If it's spliced onto a :mtgtip:`Kodama's Reach`, that Kodama's Reach deals 2 damage to the target creature or player.
+
+**Example:** :mtgtip:`Dimir Doppelganger` says "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability." Dimir Doppelganger's ability is activated targeting a :mtgtip:`Runeclaw Bear` card. The Doppelganger becomes a copy of Runeclaw Bear and gains an ability that should be treated as saying "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Runeclaw Bear becomes a copy of that card and gains this ability."
 
 .. _mtgcr-201-4c:
 
@@ -2469,7 +2499,8 @@ Text printed on some legendary cards refers to that card by a shortened version 
 201.5
 -----
 If an ability of an object uses a phrase such as "this [something]" to identify an object, where [something] is a characteristic, it is referring to that particular object, even if it isn't the appropriate characteristic at the time.
-Example: An ability reads "Target creature gets +2/+2 until end of turn. Destroy that creature at the beginning of the next end step." The ability will destroy the object it gave +2/+2 to even if that object isn't a creature at the beginning of the next end step.
+
+**Example:** An ability reads "Target creature gets +2/+2 until end of turn. Destroy that creature at the beginning of the next end step." The ability will destroy the object it gave +2/+2 to even if that object isn't a creature at the beginning of the next end step.
 
 .. _mtgcr-202:
 
@@ -2505,7 +2536,8 @@ An object is the color or colors of the mana symbols in its mana cost, regardles
 202.2a
 ------
 The five colors are white, blue, black, red, and green. The white mana symbol is represented by |mana_w|, blue by |mana_u|, black by |mana_b|, red by |mana_r|, and green by |mana_g|.
-Example: An object with a mana cost of |mana_2| |mana_w| is white, an object with a mana cost of |mana_2| is colorless, and one with a mana cost of |mana_2| |mana_w| |mana_b| is both white and black.
+
+**Example:** An object with a mana cost of |mana_2| |mana_w| is white, an object with a mana cost of |mana_2| is colorless, and one with a mana cost of |mana_2| |mana_w| |mana_b| is both white and black.
 
 .. _mtgcr-202-2b:
 
@@ -2542,7 +2574,8 @@ Effects may change an object's color, give a color to a colorless object, or mak
 202.3
 -----
 The converted mana cost of an object is a number equal to the total amount of mana in its mana cost, regardless of color.
-Example: A mana cost of |mana_3| |mana_u| |mana_u| translates to a converted mana cost of 5.
+
+**Example:** A mana cost of |mana_3| |mana_u| |mana_u| translates to a converted mana cost of 5.
 
 .. _mtgcr-202-3a:
 
@@ -2561,15 +2594,18 @@ When calculating the converted mana cost of an object with an |mana_x| in its ma
 202.3c
 ------
 When calculating the converted mana cost of an object with a hybrid mana symbol in its mana cost, use the largest component of each hybrid symbol.
-Example: The converted mana cost of a card with mana cost |mana_1| |mana_wu| |mana_wu| is 3.
-Example: The converted mana cost of a card with mana cost |mana_2b| |mana_2b| |mana_2b| is 6.
+
+**Example:** The converted mana cost of a card with mana cost |mana_1| |mana_wu| |mana_wu| is 3.
+
+**Example:** The converted mana cost of a card with mana cost |mana_2b| |mana_2b| |mana_2b| is 6.
 
 .. _mtgcr-202-3d:
 
 202.3d
 ------
 Each Phyrexian mana symbol in a card's mana cost contributes 1 to its converted mana cost.
-Example: The converted mana cost of a card with mana cost |mana_1| |mana_wp| |mana_wp| is 3.
+
+**Example:** The converted mana cost of a card with mana cost |mana_1| |mana_wp| |mana_wp| is 3.
 
 .. _mtgcr-202-4:
 
@@ -2627,8 +2663,10 @@ Some effects set an object's card type. In such cases, the new card type(s) repl
 205.1b
 ------
 Some effects change an object's card type, supertype, or subtype but specify that the object retains a prior card type, supertype, or subtype. In such cases, all the object's prior card types, supertypes, and subtypes are retained. This rule applies to effects that use the phrase "in addition to its types" or that state that something is "still a [type, supertype, or subtype]." Some effects state that an object becomes an "artifact creature"; these effects also allow the object to retain all of its prior card types and subtypes.
-Example: An ability reads, "All lands are 1/1 creatures that are still lands." The affected lands now have two card types: creature and land. If there were any lands that were also artifacts before the ability's effect applied to them, those lands would become "artifact land creatures," not just "creatures," or "land creatures." The effect allows them to retain both the card type "artifact" and the card type "land." In addition, each land affected by the ability retains any land types and supertypes it had before the ability took effect.
-Example: An ability reads, "All artifacts are 1/1 artifact creatures." If a permanent is both an artifact and an enchantment, it will become an "artifact enchantment creature."
+
+**Example:** An ability reads, "All lands are 1/1 creatures that are still lands." The affected lands now have two card types: creature and land. If there were any lands that were also artifacts before the ability's effect applied to them, those lands would become "artifact land creatures," not just "creatures," or "land creatures." The effect allows them to retain both the card type "artifact" and the card type "land." In addition, each land affected by the ability retains any land types and supertypes it had before the ability took effect.
+
+**Example:** An ability reads, "All artifacts are 1/1 artifact creatures." If a permanent is both an artifact and an enchantment, it will become an "artifact enchantment creature."
 
 .. _mtgcr-205-2:
 
@@ -2671,14 +2709,16 @@ A card can have one or more subtypes printed on its type line.
 205.3b
 ------
 Subtypes of each card type except plane are always single words and are listed after a long dash. Each word after the dash is a separate subtype; such objects may have multiple types. Subtypes of planes are also listed after a long dash, but may be multiple words; all words after the dash are, collectively, a single subtype.
-Example: "Basic Land -- Mountain" means the card is a land with the subtype Mountain. "Creature -- Goblin Wizard" means the card is a creature with the subtypes Goblin and Wizard. "Artifact -- Equipment" means the card is an artifact with the subtype Equipment.
+
+**Example:** "Basic Land -- Mountain" means the card is a land with the subtype Mountain. "Creature -- Goblin Wizard" means the card is a creature with the subtypes Goblin and Wizard. "Artifact -- Equipment" means the card is an artifact with the subtype Equipment.
 
 .. _mtgcr-205-3c:
 
 205.3c
 ------
 If a card with multiple card types has one or more subtypes, each subtype is correlated to its appropriate card type.
-Example: :mtgtip:`Dryad Arbor`'s type line says "Land Creature -- Forest Dryad." Forest is a land type, and Dryad is a creature type.
+
+**Example:** :mtgtip:`Dryad Arbor`'s type line says "Land Creature -- Forest Dryad." Forest is a land type, and Dryad is a creature type.
 
 .. _mtgcr-205-3d:
 
@@ -2691,7 +2731,8 @@ An object can't gain a subtype that doesn't correspond to one of that object's t
 205.3e
 ------
 If an effect instructs a player to choose a subtype, that player must choose one, and only one, existing subtype, and the subtype he or she chooses must be for the appropriate card type. For example, the player can't choose a land type if an instruction requires choosing a creature type.
-Example: When choosing a creature type, "Merfolk" or "Wizard" is acceptable, but "Merfolk Wizard" is not. Words like "artifact," "opponent," "Swamp," or "truck" can't be chosen because they aren't creature types.
+
+**Example:** When choosing a creature type, "Merfolk" or "Wizard" is acceptable, but "Merfolk Wizard" is not. Words like "artifact," "opponent," "Swamp," or "truck" can't be chosen because they aren't creature types.
 
 .. _mtgcr-205-3f:
 
@@ -2766,7 +2807,8 @@ A card can also have one or more supertypes. These are printed directly before i
 205.4b
 ------
 An object's supertype is independent of its card type and subtype, even though some supertypes are closely identified with specific card types. Changing an object's card types or subtypes won't change its supertypes. Changing an object's supertypes won't change its card types or subtypes. When an object gains or loses a supertype, it retains any other supertypes it had.
-Example: An ability reads, "All lands are 1/1 creatures that are still lands." If any of the affected lands were legendary, they are still legendary.
+
+**Example:** An ability reads, "All lands are 1/1 creatures that are still lands." If any of the affected lands were legendary, they are still legendary.
 
 .. _mtgcr-205-4c:
 
@@ -2904,7 +2946,8 @@ Rather than a fixed number, some creature cards have power and/or toughness that
 208.2a
 ------
 The card may have a characteristic-defining ability that sets its power and/or toughness according to some stated condition. (See rule :ref:`604.3 <mtgcr-604-3>`) Such an ability is worded "[This creature's] [power or toughness] is equal to . . ." or "[This creature's] power and toughness are each equal to . . ." This ability functions everywhere, even outside the game. If the ability needs to use a number that can't be determined, including inside a calculation, use 0 instead of that number.
-Example: :mtgtip:`Lost Order of Jarkeld` has power and toughness each equal to 1+*. It has the abilities "As Lost Order of Jarkeld enters the battlefield, choose an opponent" and "Lost Order of Jarkeld's power and toughness are each equal to 1 plus the number of creatures the chosen player controls." While Lost Order of Jarkeld isn't on the battlefield, there won't be a chosen player. Its power and toughness will each be equal to 1 plus 0, so it's 1/1.
+
+**Example:** :mtgtip:`Lost Order of Jarkeld` has power and toughness each equal to 1+*. It has the abilities "As Lost Order of Jarkeld enters the battlefield, choose an opponent" and "Lost Order of Jarkeld's power and toughness are each equal to 1 plus the number of creatures the chosen player controls." While Lost Order of Jarkeld isn't on the battlefield, there won't be a chosen player. Its power and toughness will each be equal to 1 plus 0, so it's 1/1.
 
 .. _mtgcr-208-2b:
 
@@ -3113,7 +3156,8 @@ When a creature spell resolves, its controller puts it onto the battlefield unde
 302.3
 -----
 Creature subtypes are always a single word and are listed after a long dash: "Creature -- Human Soldier," "Artifact Creature -- Golem," and so on. Creature subtypes are also called creature types. Creatures may have multiple subtypes. See rule :ref:`205.3m <mtgcr-205-3m>` for the complete list of creature types.
-Example: "Creature -- Goblin Wizard" means the card is a creature with the subtypes Goblin and Wizard.
+
+**Example:** "Creature -- Goblin Wizard" means the card is a creature with the subtypes Goblin and Wizard.
 
 .. _mtgcr-302-4:
 
@@ -3327,7 +3371,8 @@ Effects may also allow players to "put" lands onto the battlefield. This isn't t
 305.5
 -----
 Land subtypes are always a single word and are listed after a long dash. Land subtypes are also called land types. Lands may have multiple subtypes. See rule :ref:`205.3i <mtgcr-205-3i>` for the complete list of land types.
-Example: "Basic Land -- Mountain" means the card is a land with the subtype Mountain.
+
+**Example:** "Basic Land -- Mountain" means the card is a land with the subtype Mountain.
 
 .. _mtgcr-305-6:
 
@@ -4555,14 +4600,16 @@ If the defending player controls any planeswalkers, or the game allows the activ
 508.1c
 ------
 The active player checks each creature he or she controls to see whether it's affected by any restrictions (effects that say a creature can't attack, or that it can't attack unless some condition is met). If any restrictions are being disobeyed, the declaration of attackers is illegal.
-Example: A player controls two creatures, each with a restriction that states "[This creature] can't attack alone." It's legal to declare both as attackers.
+
+**Example:** A player controls two creatures, each with a restriction that states "[This creature] can't attack alone." It's legal to declare both as attackers.
 
 .. _mtgcr-508-1d:
 
 508.1d
 ------
 The active player checks each creature he or she controls to see whether it's affected by any requirements (effects that say a creature must attack, or that it must attack if some condition is met). If the number of requirements that are being obeyed is fewer than the maximum possible number of requirements that could be obeyed without disobeying any restrictions, the declaration of attackers is illegal. If a creature can't attack unless a player pays a cost, that player is not required to pay that cost, even if attacking with that creature would increase the number of requirements being obeyed.
-Example: A player controls two creatures: one that "attacks if able" and one with no abilities. An effect states "No more than one creature can attack each turn." The only legal attack is for just the creature that "attacks if able" to attack. It's illegal to attack with the other creature, attack with both, or attack with neither.
+
+**Example:** A player controls two creatures: one that "attacks if able" and one with no abilities. An effect states "No more than one creature can attack each turn." The only legal attack is for just the creature that "attacks if able" to attack. It's illegal to attack with the other creature, attack with both, or attack with neither.
 
 .. _mtgcr-508-1e:
 
@@ -4611,7 +4658,8 @@ Second, any abilities that triggered on attackers being declared go on the stack
 508.2a
 ------
 Abilities that trigger on a creature attacking trigger only at the point the creature is declared as an attacker. They will not trigger if a creature attacks and then that creature's characteristics change to match the ability's trigger condition.
-Example: A permanent has the ability "Whenever a green creature attacks, destroy that creature at end of combat." If a blue creature attacks and is later turned green, the ability will not trigger.
+
+**Example:** A permanent has the ability "Whenever a green creature attacks, destroy that creature at end of combat." If a blue creature attacks and is later turned green, the ability will not trigger.
 
 .. _mtgcr-508-3:
 
@@ -4672,14 +4720,16 @@ The defending player chooses which creatures that he or she controls, if any, wi
 ------
 The defending player checks each creature he or she controls to see whether it's affected by any restrictions (effects that say a creature can't block, or that it can't block unless some condition is met). If any restrictions are being disobeyed, the declaration of blockers is illegal.
 A restriction may be created by an evasion ability (a static ability an attacking creature has that restricts what can block it). If an attacking creature gains or loses an evasion ability after a legal block has been declared, it doesn't affect that block. Different evasion abilities are cumulative.
-Example: An attacking creature with flying and shadow can't be blocked by a creature with flying but without shadow.
+
+**Example:** An attacking creature with flying and shadow can't be blocked by a creature with flying but without shadow.
 
 .. _mtgcr-509-1c:
 
 509.1c
 ------
 The defending player checks each creature he or she controls to see whether it's affected by any requirements (effects that say a creature must block, or that it must block if some condition is met). If the number of requirements that are being obeyed is fewer than the maximum possible number of requirements that could be obeyed without disobeying any restrictions, the declaration of blockers is illegal. If a creature can't block unless a player pays a cost, that player is not required to pay that cost, even if blocking with that creature would increase the number of requirements being obeyed.
-Example: A player controls one creature that "blocks if able" and another creature with no abilities. An effect states "Creatures can't be blocked except by two or more creatures." Having only the first creature block violates the restriction. Having neither creature block fulfills the restriction but not the requirement. Having both creatures block the same attacking creature fulfills both the restriction and the requirement, so that's the only option.
+
+**Example:** A player controls one creature that "blocks if able" and another creature with no abilities. An effect states "Creatures can't be blocked except by two or more creatures." Having only the first creature block violates the restriction. Having neither creature block fulfills the restriction but not the requirement. Having both creatures block the same attacking creature fulfills both the restriction and the requirement, so that's the only option.
 
 .. _mtgcr-509-1d:
 
@@ -4716,7 +4766,8 @@ An attacking creature with one or more creatures declared as blockers for it bec
 509.2
 -----
 Second, for each attacking creature that's become blocked, the active player announces that creature's damage assignment order, which consists of the creatures blocking it in an order of that player's choice. (During the combat damage step, an attacking creature can't assign combat damage to a creature that's blocking it unless each creature ahead of that blocking creature in its order is assigned lethal damage.) This turn-based action doesn't use the stack.
-Example: :mtgtip:`Vastwood Gorger` is blocked by :mtgtip:`Llanowar Elves`, :mtgtip:`Runeclaw Bear`, and :mtgtip:`Serra Angel`. Vastwood Gorger's controller announces the Vastwood Gorger's damage assignment order as Serra Angel, then Llanowar Elves, then Runeclaw Bear.
+
+**Example:** :mtgtip:`Vastwood Gorger` is blocked by :mtgtip:`Llanowar Elves`, :mtgtip:`Runeclaw Bear`, and :mtgtip:`Serra Angel`. Vastwood Gorger's controller announces the Vastwood Gorger's damage assignment order as Serra Angel, then Llanowar Elves, then Runeclaw Bear.
 
 .. _mtgcr-509-2a:
 
@@ -4777,7 +4828,8 @@ If an ability triggers when a creature blocks or becomes blocked by a particular
 509.4f
 ------
 If an ability triggers when a creature with certain characteristics blocks, it will trigger only if the creature has those characteristics at the point blockers are declared, or at the point an effect causes it to block. If an ability triggers when a creature with certain characteristics becomes blocked, it will trigger only if the creature has those characteristics at the point it becomes a blocked creature. If an ability triggers when a creature becomes blocked by a creature with certain characteristics, it will trigger only if the latter creature has those characteristics at the point it becomes a blocking creature. None of those abilities will trigger if the relevant creature's characteristics change to match the ability's trigger condition later on.
-Example: A creature has the ability "Whenever this creature becomes blocked by a white creature, destroy that creature at end of combat." If the creature becomes blocked by a black creature that is later turned white, the ability will not trigger.
+
+**Example:** A creature has the ability "Whenever this creature becomes blocked by a white creature, destroy that creature at end of combat." If the creature becomes blocked by a black creature that is later turned white, the ability will not trigger.
 
 .. _mtgcr-509-4g:
 
@@ -4802,7 +4854,8 @@ If a spell or ability causes a creature on the battlefield to block an attacking
 509.7
 -----
 If a creature is put onto the battlefield blocking, its controller chooses which attacking creature it's blocking as it enters the battlefield (unless the effect that put it onto the battlefield specifies what it's blocking), then the active player announces the new creature's placement in the blocked creature's damage assignment order. The relative order among the remaining blocking creatures is unchanged. A creature put onto the battlefield this way is "blocking" but, for the purposes of trigger events and effects, it never "blocked."
-Example: :mtgtip:`Giant Spider` is blocked by :mtgtip:`Canyon Minotaur`. The defending player casts :mtgtip:`Flash Foliage`, which puts a Saproling token onto the battlefield blocking the Giant Spider. Giant Spider's controller announces the Giant Spider's damage assignment order as the Saproling token, then Canyon Minotaur.
+
+**Example:** :mtgtip:`Giant Spider` is blocked by :mtgtip:`Canyon Minotaur`. The defending player casts :mtgtip:`Flash Foliage`, which puts a Saproling token onto the battlefield blocking the Giant Spider. Giant Spider's controller announces the Giant Spider's damage assignment order as the Saproling token, then Canyon Minotaur.
 
 .. _mtgcr-510:
 
@@ -4832,10 +4885,14 @@ An unblocked creature assigns its combat damage to the player or planeswalker it
 510.1c
 ------
 A blocked creature assigns its combat damage to the creatures blocking it. If no creatures are currently blocking it (if, for example, they were destroyed or removed from combat), it assigns no combat damage. If exactly one creature is blocking it, it assigns all its combat damage to that creature. If two or more creatures are blocking it, it assigns its combat damage to those creatures according to the damage assignment order announced for it. This may allow the blocked creature to divide its combat damage. However, it can't assign combat damage to a creature that's blocking it unless, when combat damage assignments are complete, each creature that precedes that blocking creature in its order is assigned lethal damage. When checking for assigned lethal damage, take into account damage already marked on the creature and damage from other creatures that's being assigned during the same combat damage step, but not any abilities or effects that might change the amount of damage that's actually dealt. An amount of damage that's greater than a creature's lethal damage may be assigned to it.
-Example: The damage assignment order of an attacking :mtgtip:`Vastwood Gorger` (a 5/6 creature) is :mtgtip:`Pride Guardian` (a 0/3 creature) then :mtgtip:`Llanowar Elves` (a 1/1 creature). Vastwood Gorger can assign 3 damage to the Guardian and 2 damage to the Elves, 4 damage to the Guardian and 1 damage to the Elves, or 5 damage to the Guardian.
-Example: The damage assignment order of an attacking :mtgtip:`Vastwood Gorger` (a 5/6 creature) is :mtgtip:`Pride Guardian` (a 0/3 creature) then :mtgtip:`Llanowar Elves` (a 1/1 creature). During the declare blockers step, the defending player casts :mtgtip:`Giant Growth` targeting Pride Guardian, which gives it +3/+3 until end of turn. Vastwood Gorger must assign its 5 damage to the Guardian.
-Example: The damage assignment order of an attacking :mtgtip:`Vastwood Gorger `(a 5/6 creature) is :mtgtip:`Pride Guardian` (a 0/3 creature) then :mtgtip:`Llanowar Elves` (a 1/1 creature). During the declare blockers step, the defending player casts :mtgtip:`Mending Hands` targeting Pride Guardian, which prevents the next 4 damage that would be dealt to it. Vastwood Gorger can assign 3 damage to the Guardian and 2 damage to the Elves, 4 damage to the Guardian and 1 damage to the Elves, or 5 damage to the Guardian.
-Example: The damage assignment order of an attacking :mtgtip:`Enormous Baloth` (a 7/7 creature) is :mtgtip:`Trained Armodon` (a 3/3 creature) that already has 2 damage marked on it, then :mtgtip:`Foriysian Brigade` (a 2/4 creature that can block an additional creature), then :mtgtip:`Silverback Ape` (a 5/5 creature). The damage assignment order of an attacking :mtgtip:`Durkwood Boars` (a 4/4 creature) is the same Foriysian Brigade, then :mtgtip:`Goblin Piker` (a 2/1 creature). Among other possibilities, the active player may have the Baloth assign 1 damage to the Armodon, 1 damage to the Brigade, and 5 damage to the Ape, and have the Boars assign 3 damage to the Brigade and 1 damage to the Piker.
+
+**Example:** The damage assignment order of an attacking :mtgtip:`Vastwood Gorger` (a 5/6 creature) is :mtgtip:`Pride Guardian` (a 0/3 creature) then :mtgtip:`Llanowar Elves` (a 1/1 creature). Vastwood Gorger can assign 3 damage to the Guardian and 2 damage to the Elves, 4 damage to the Guardian and 1 damage to the Elves, or 5 damage to the Guardian.
+
+**Example:** The damage assignment order of an attacking :mtgtip:`Vastwood Gorger` (a 5/6 creature) is :mtgtip:`Pride Guardian` (a 0/3 creature) then :mtgtip:`Llanowar Elves` (a 1/1 creature). During the declare blockers step, the defending player casts :mtgtip:`Giant Growth` targeting Pride Guardian, which gives it +3/+3 until end of turn. Vastwood Gorger must assign its 5 damage to the Guardian.
+
+**Example:** The damage assignment order of an attacking :mtgtip:`Vastwood Gorger `(a 5/6 creature) is :mtgtip:`Pride Guardian` (a 0/3 creature) then :mtgtip:`Llanowar Elves` (a 1/1 creature). During the declare blockers step, the defending player casts :mtgtip:`Mending Hands` targeting Pride Guardian, which prevents the next 4 damage that would be dealt to it. Vastwood Gorger can assign 3 damage to the Guardian and 2 damage to the Elves, 4 damage to the Guardian and 1 damage to the Elves, or 5 damage to the Guardian.
+
+**Example:** The damage assignment order of an attacking :mtgtip:`Enormous Baloth` (a 7/7 creature) is :mtgtip:`Trained Armodon` (a 3/3 creature) that already has 2 damage marked on it, then :mtgtip:`Foriysian Brigade` (a 2/4 creature that can block an additional creature), then :mtgtip:`Silverback Ape` (a 5/5 creature). The damage assignment order of an attacking :mtgtip:`Durkwood Boars` (a 4/4 creature) is the same Foriysian Brigade, then :mtgtip:`Goblin Piker` (a 2/1 creature). Among other possibilities, the active player may have the Baloth assign 1 damage to the Armodon, 1 damage to the Brigade, and 5 damage to the Ape, and have the Boars assign 3 damage to the Brigade and 1 damage to the Piker.
 
 .. _mtgcr-510-1d:
 
@@ -4854,7 +4911,8 @@ Once a player has assigned combat damage from each attacking or blocking creatur
 510.2
 -----
 Second, all combat damage that's been assigned is dealt simultaneously. This turn-based action doesn't use the stack. No player has the chance to cast spells or activate abilities between the time combat damage is assigned and the time it's dealt. This is a change from previous rules.
-Example: :mtgtip:`Squadron Hawk` (a 1/1 creature with flying) and :mtgtip:`Goblin Piker` (a 2/1 creature) are attacking. :mtgtip:`Mogg Fanatic` (a 1/1 creature with the ability "Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player) blocks the Goblin Piker. The defending player sacrifices Mogg Fanatic during the declare blockers step to deal 1 damage to the Squadron Hawk. The Hawk is destroyed. The Piker deals and is dealt no combat damage this turn. If the defending player instead left Mogg Fanatic on the battlefield, the Fanatic and the Piker would have dealt lethal damage to one another, but the Squadron Hawk couldn't have been dealt damage.
+
+**Example:** :mtgtip:`Squadron Hawk` (a 1/1 creature with flying) and :mtgtip:`Goblin Piker` (a 2/1 creature) are attacking. :mtgtip:`Mogg Fanatic` (a 1/1 creature with the ability "Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player) blocks the Goblin Piker. The defending player sacrifices Mogg Fanatic during the declare blockers step to deal 1 damage to the Squadron Hawk. The Hawk is destroyed. The Piker deals and is dealt no combat damage this turn. If the defending player instead left Mogg Fanatic on the battlefield, the Fanatic and the Piker would have dealt lethal damage to one another, but the Squadron Hawk couldn't have been dealt damage.
 
 .. _mtgcr-510-3:
 
@@ -5016,7 +5074,8 @@ If the spell is modal the player announces the mode choice (see rule :ref:`700 <
 601.2c
 ------
 The player announces his or her choice of an appropriate player, object, or zone for each target the spell requires. A spell may require some targets only if an alternative or additional cost (such as a buyback or kicker cost), or a particular mode, was chosen for it; otherwise, the spell is cast as though it did not require those targets. If the spell has a variable number of targets, the player announces how many targets he or she will choose before he or she announces those targets. The same target can't be chosen multiple times for any one instance of the word "target" on the spell. However, if the spell uses the word "target" in multiple places, the same object, player, or zone can be chosen once for each instance of the word "target" (as long as it fits the targeting criteria). If any effects say that an object or player must be chosen as a target, the player chooses targets so that he or she obeys the maximum possible number of such effects without violating any rules or effects that say that an object or player can't be chosen as a target. The chosen players, objects, and/or zones each become a target of that spell. (Any abilities that trigger when those players, objects, and/or zones become the target of a spell trigger at this point; they'll wait to be put on the stack until the spell has finished being cast.)
-Example: If a spell says "Tap two target creatures," then the same creature can't be chosen twice; the spell requires two different legal targets. A spell that says "Destroy target artifact and target land," however, can target the same artifact land twice because it uses the word "target" in multiple places.
+
+**Example:** If a spell says "Tap two target creatures," then the same creature can't be chosen twice; the spell requires two different legal targets. A spell that says "Destroy target artifact and target land," however, can target the same artifact land twice because it uses the word "target" in multiple places.
 
 .. _mtgcr-601-2d:
 
@@ -5041,7 +5100,8 @@ If the total cost includes a mana payment, the player then has a chance to activ
 601.2g
 ------
 The player pays the total cost in any order. Partial payments are not allowed. Unpayable costs can't be paid.
-Example: You cast Altar's Reap, which costs |mana_1| |mana_b| and has an additional cost of sacrificing a creature. You sacrifice Thunderscape Familiar, whose effect makes your black spells cost |mana_1| less to cast. Because a spell's total cost is "locked in" before payments are actually made, you pay |mana_b|, not |mana_1| |mana_b|, even though you're sacrificing the Familiar.
+
+**Example:** You cast :mtgtip:`Altar's Reap`, which costs |mana_1| |mana_b| and has an additional cost of sacrificing a creature. You sacrifice :mtgtip:`Thunderscape Familiar`, whose effect makes your black spells cost |mana_1| less to cast. Because a spell's total cost is "locked in" before payments are actually made, you pay |mana_b|, not |mana_1| |mana_b|, even though you're sacrificing the Familiar.
 
 .. _mtgcr-601-2h:
 
@@ -5101,7 +5161,8 @@ Activated abilities have a cost and an effect. They are written as "[Cost]: [Eff
 602.1a
 ------
 The activation cost is everything before the colon (:). An ability's activation cost must be paid by the player who is activating it.
-Example: The activation cost of an ability that reads "|mana_2|, |tap|: You gain 1 life" is two mana of any type plus tapping the permanent that has the ability.
+
+**Example:** The activation cost of an ability that reads "|mana_2|, |tap|: You gain 1 life" is two mana of any type plus tapping the permanent that has the ability.
 
 .. _mtgcr-602-1b:
 
@@ -5233,14 +5294,16 @@ When a phase or step begins, all abilities that trigger "at the beginning of" th
 603.2c
 ------
 An ability triggers only once each time its trigger event occurs. However, it can trigger repeatedly if one event contains multiple occurrences. See also rule 509.4.
-Example: A permanent has an ability whose trigger condition reads, "Whenever a land is put into a graveyard from the battlefield, . . . ." If someone casts a spell that destroys all lands, the ability will trigger once for each land put into the graveyard during the spell's resolution.
+
+**Example:** A permanent has an ability whose trigger condition reads, "Whenever a land is put into a graveyard from the battlefield, . . . ." If someone casts a spell that destroys all lands, the ability will trigger once for each land put into the graveyard during the spell's resolution.
 
 .. _mtgcr-603-2d:
 
 603.2d
 ------
 Some trigger events use the word "becomes" (for example, "becomes attached" or "becomes blocked"). These trigger only at the time the named event happens -- they don't trigger if that state already exists or retrigger if it persists. An ability that triggers when a permanent "becomes tapped" or "becomes untapped" doesn't trigger if the permanent enters the battlefield in that state.
-Example: An ability that triggers when a permanent "becomes tapped" triggers only when the status of a permanent that's already on the battlefield changes from untapped to tapped.
+
+**Example:** An ability that triggers when a permanent "becomes tapped" triggers only when the status of a permanent that's already on the battlefield changes from untapped to tapped.
 
 .. _mtgcr-603-2e:
 
@@ -5253,7 +5316,8 @@ If a triggered ability's trigger condition is met, but the object with that trig
 603.2f
 ------
 An ability triggers only if its trigger event actually occurs. An event that's prevented or replaced won't trigger anything.
-Example: An ability that triggers on damage being dealt won't trigger if all the damage is prevented.
+
+**Example:** An ability that triggers on damage being dealt won't trigger if all the damage is prevented.
 
 .. _mtgcr-603-3:
 
@@ -5290,7 +5354,8 @@ The remainder of the process for putting a triggered ability on the stack is ide
 603.4
 -----
 A triggered ability may read "When/Whenever/At [trigger event], if [condition], [effect]." When the trigger event occurs, the ability checks whether the stated condition is true. The ability triggers only if it is; otherwise it does nothing. If the ability triggers, it checks the stated condition again as it resolves. If the condition isn't true at that time, the ability is removed from the stack and does nothing. Note that this mirrors the check for legal targets. This rule is referred to as the "intervening 'if' clause" rule. (The word "if" has only its normal English meaning anywhere else in the text of a card; this rule only applies to an "if" that immediately follows a trigger condition.)
-Example: Felidar Sovereign reads, "At the beginning of your upkeep, if you have 40 or more life, you win the game." Its controller's life total is checked as that player's upkeep begins. If that player has 39 or less life, the ability doesn't trigger at all. If that player has 40 or more life, the ability triggers and goes on the stack. As the ability resolves, that player's life total is checked again. If that player has 39 or less life at this time, the ability is removed from the stack and has no effect. If that player has 40 or more life at this time, the ability resolves and that player wins the game.
+
+**Example:** :mtgtip:`Felidar Sovereign` reads, "At the beginning of your upkeep, if you have 40 or more life, you win the game." Its controller's life total is checked as that player's upkeep begins. If that player has 39 or less life, the ability doesn't trigger at all. If that player has 40 or more life, the ability triggers and goes on the stack. As the ability resolves, that player's life total is checked again. If that player has 39 or less life at this time, the ability is removed from the stack and has no effect. If that player has 40 or more life at this time, the ability resolves and that player wins the game.
 
 .. _mtgcr-603-5:
 
@@ -5315,7 +5380,8 @@ Enters-the-battlefield abilities trigger when a permanent enters the battlefield
 603.6b
 ------
 Continuous effects that modify characteristics of a permanent do so the moment the permanent is on the battlefield (and not before then). The permanent is never on the battlefield with its unmodified characteristics. Continuous effects don't apply before the permanent is on the battlefield, however (see rule :ref:`603.6e <mtgcr-603-6e>`).
-Example: If an effect reads "All lands are creatures" and a land card is played, the effect makes the land card into a creature the moment it enters the battlefield, so it would trigger abilities that trigger when a creature enters the battlefield. Conversely, if an effect reads "All creatures lose all abilities" and a creature card with an enters-the-battlefield triggered ability enters the battlefield, that effect will cause it to lose its abilities the moment it enters the battlefield, so the enters-the-battlefield ability won't trigger.
+
+**Example:** If an effect reads "All lands are creatures" and a land card is played, the effect makes the land card into a creature the moment it enters the battlefield, so it would trigger abilities that trigger when a creature enters the battlefield. Conversely, if an effect reads "All creatures lose all abilities" and a creature card with an enters-the-battlefield triggered ability enters the battlefield, that effect will cause it to lose its abilities the moment it enters the battlefield, so the enters-the-battlefield ability won't trigger.
 
 .. _mtgcr-603-6c:
 
@@ -5328,7 +5394,8 @@ Leaves-the-battlefield abilities trigger when a permanent moves from the battlef
 603.6d
 ------
 Normally, objects that exist immediately after an event are checked to see if the event matched any trigger conditions. Continuous effects that exist at that time are used to determine what the trigger conditions are and what the objects involved in the event look like. However, some triggered abilities must be treated specially. Leaves-the-battlefield abilities, abilities that trigger when a permanent phases out, abilities that trigger when an object that all players can see is put into a hand or library, abilities that trigger specifically when an object becomes unattached, abilities that trigger when a player loses control of an object, and abilities that trigger when a player planeswalks away from a plane will trigger based on their existence, and the appearance of objects, prior to the event rather than afterward. The game has to "look back in time" to determine if these abilities trigger.
-Example: Two creatures are on the battlefield along with an artifact that has the ability "Whenever a creature dies, you gain 1 life." Someone plays a spell that destroys all artifacts, creatures, and enchantments. The artifact's ability triggers twice, even though the artifact goes to its owner's graveyard at the same time as the creatures.
+
+**Example:** Two creatures are on the battlefield along with an artifact that has the ability "Whenever a creature dies, you gain 1 life." Someone plays a spell that destroys all artifacts, creatures, and enchantments. The artifact's ability triggers twice, even though the artifact goes to its owner's graveyard at the same time as the creatures.
 
 .. _mtgcr-603-6e:
 
@@ -5353,8 +5420,10 @@ An effect may create a delayed triggered ability that can do something at a late
 603.7a
 ------
 Delayed triggered abilities come from spells or other abilities that create them on resolution, or are created as the result of a replacement effect being applied. That means a delayed triggered ability won't trigger until it has actually been created, even if its trigger event occurred just beforehand. Other events that happen earlier may make the trigger event impossible.
-Example: Part of an effect reads "When this creature leaves the battlefield," but the creature in question leaves the battlefield before the spell or ability creating the effect resolves. In this case, the delayed ability never triggers.
-Example: If an effect reads "When this creature becomes untapped" and the named creature becomes untapped before the effect resolves, the ability waits for the next time that creature untaps.
+
+**Example:** Part of an effect reads "When this creature leaves the battlefield," but the creature in question leaves the battlefield before the spell or ability creating the effect resolves. In this case, the delayed ability never triggers.
+
+**Example:** If an effect reads "When this creature becomes untapped" and the named creature becomes untapped before the effect resolves, the ability waits for the next time that creature untaps.
 
 .. _mtgcr-603-7b:
 
@@ -5367,7 +5436,8 @@ A delayed triggered ability will trigger only once -- the next time its trigger 
 603.7c
 ------
 A delayed triggered ability that refers to a particular object still affects it even if the object changes characteristics. However, if that object is no longer in the zone it's expected to be in at the time the delayed triggered ability resolves, the ability won't affect it. (Note that if that object left that zone and then returned, it's a new object and thus won't be affected. See rule :ref:`400.7 <mtgcr-400-7>`)
-Example: An ability that reads "Exile this creature at the beginning of the next end step" will exile the permanent even if it's no longer a creature during the next end step. However, it won't do anything if the permanent left the battlefield before then.
+
+**Example:** An ability that reads "Exile this creature at the beginning of the next end step" will exile the permanent even if it's no longer a creature during the next end step. However, it won't do anything if the permanent left the battlefield before then.
 
 .. _mtgcr-603-7d:
 
@@ -5392,7 +5462,8 @@ If a static ability generates a replacement effect which causes a delayed trigge
 603.8
 -----
 Some triggered abilities trigger when a game state (such as a player controlling no permanents of a particular card type) is true, rather than triggering when an event occurs. These abilities trigger as soon as the game state matches the condition. They'll go onto the stack at the next available opportunity. These are called state triggers. (Note that state triggers aren't the same as state-based actions.) A state-triggered ability doesn't trigger again until the ability has resolved, has been countered, or has otherwise left the stack. Then, if the object with the ability is still in the same zone and the game state still matches its trigger condition, the ability will trigger again.
-Example: A permanent's ability reads, "Whenever you have no cards in hand, draw a card." If its controller plays the last card from his or her hand, the ability will trigger once and won't trigger again until it has resolved. If its controller casts a spell that reads "Discard your hand, then draw that many cards," the ability will trigger during the spell's resolution because the player's hand was momentarily empty.
+
+**Example:** A permanent's ability reads, "Whenever you have no cards in hand, draw a card." If its controller plays the last card from his or her hand, the ability will trigger once and won't trigger again until it has resolved. If its controller casts a spell that reads "Discard your hand, then draw that many cards," the ability will trigger during the spell's resolution because the player's hand was momentarily empty.
 
 .. _mtgcr-603-9:
 
@@ -5405,7 +5476,8 @@ Some triggered abilities trigger specifically when a player loses the game. Thes
 603.10
 ------
 Some objects have a static ability that's linked to a triggered ability. (See rule :ref:`607 <mtgcr-607>`, "Linked Abilities.") These objects combine both abilities into one paragraph, with the static ability first, followed by the triggered ability. A very few objects have triggered abilities which are written with the trigger condition in the middle of the ability, rather than at the beginning.
-Example: An ability that reads "Reveal the first card you draw each turn. Whenever you reveal a basic land card this way, draw a card" is a static ability linked to a triggered ability.
+
+**Example:** An ability that reads "Reveal the first card you draw each turn. Whenever you reveal a basic land card this way, draw a card" is a static ability linked to a triggered ability.
 
 .. _mtgcr-604:
 
@@ -5488,7 +5560,8 @@ A triggered ability without a target that triggers from activating a mana abilit
 605.2
 -----
 A mana ability remains a mana ability even if the game state doesn't allow it to produce mana.
-Example: A permanent has an ability that reads "|tap|: Add |mana_g| to your mana pool for each creature you control." This is still a mana ability even if you control no creatures or if the permanent is already tapped.
+
+**Example:** A permanent has an ability that reads "|tap|: Add |mana_g| to your mana pool for each creature you control." This is still a mana ability even if you control no creatures or if the permanent is already tapped.
 
 .. _mtgcr-605-3:
 
@@ -5519,7 +5592,8 @@ Triggered mana abilities follow all the rules for other triggered abilities (see
 605.4a
 ------
 A triggered mana ability doesn't go on the stack, so it can't be targeted, countered, or otherwise responded to. Rather, it resolves immediately after the mana ability that triggered it, without waiting for priority.
-Example: An enchantment reads, "Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced." If a player taps lands for mana while casting a spell, the additional mana is added to the player's mana pool immediately and can be used to pay for the spell.
+
+**Example:** An enchantment reads, "Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced." If a player taps lands for mana while casting a spell, the additional mana is added to the player's mana pool immediately and can be used to pay for the spell.
 
 .. _mtgcr-605-5:
 
@@ -5674,14 +5748,16 @@ If, within a pair of linked abilities, one ability refers to a single object as 
 607.4
 -----
 An ability may be part of more than one pair of linked abilities.
-Example: Paradise Plume has the following three abilities: "As Paradise Plume enters the battlefield, choose a color," "Whenever a player casts a spell of the chosen color, you may gain 1 life," and "|tap|: Add one mana of the chosen color to your mana pool." The first and second abilities are linked. The first and third abilities are linked.
+
+**Example:** :mtgtip:`Paradise Plume` has the following three abilities: "As Paradise Plume enters the battlefield, choose a color," "Whenever a player casts a spell of the chosen color, you may gain 1 life," and "|tap|: Add one mana of the chosen color to your mana pool." The first and second abilities are linked. The first and third abilities are linked.
 
 .. _mtgcr-607-5:
 
 607.5
 -----
 If an object acquires a pair of linked abilities as part of the same effect, the abilities will be similarly linked to one another on that object even though they weren't printed on that object. They can't be linked to any other ability, regardless of what other abilities the object may currently have or may have had in the past.
-Example: Arc-Slogger has the ability "|mana_r|, Exile the top ten cards of your library: Arc-Slogger deals 2 damage to target creature or player." Sisters of Stone Death has the ability "|mana_b| |mana_g|: Exile target creature blocking or blocked by Sisters of Stone Death" and the ability "|mana_2| |mana_b|: Put a creature card exiled with Sisters of Stone Death onto the battlefield under your control." Quicksilver Elemental has the ability "|mana_u|: Quicksilver Elemental gains all activated abilities of target creature until end of turn." If a player has Quicksilver Elemental gain Arc-Slogger's ability, activates it, then has Quicksilver Elemental gain Sisters of Stone Death's abilities, activates the exile ability, and then activates the return-to-the-battlefield ability, only the creature card Quicksilver Elemental exiled with Sisters of Stone Death's ability can be returned to the battlefield. Creature cards Quicksilver Elemental exiled with Arc-Slogger's ability can't be returned.
+
+**Example:** :mtgtip:`Arc-Slogger` has the ability "|mana_r|, Exile the top ten cards of your library: Arc-Slogger deals 2 damage to target creature or player." :mtgtip:`Sisters of Stone Death` has the ability "|mana_b| |mana_g|: Exile target creature blocking or blocked by Sisters of Stone Death" and the ability "|mana_2| |mana_b|: Put a creature card exiled with Sisters of Stone Death onto the battlefield under your control." :mtgtip:`Quicksilver Elemental` has the ability "|mana_u|: Quicksilver Elemental gains all activated abilities of target creature until end of turn." If a player has Quicksilver Elemental gain Arc-Slogger's ability, activates it, then has Quicksilver Elemental gain Sisters of Stone Death's abilities, activates the exile ability, and then activates the return-to-the-battlefield ability, only the creature card Quicksilver Elemental exiled with Sisters of Stone Death's ability can be returned to the battlefield. Creature cards Quicksilver Elemental exiled with Arc-Slogger's ability can't be returned.
 
 .. _mtgcr-608:
 
@@ -5711,8 +5787,10 @@ If a triggered ability has an intervening "if" clause, it checks whether the cla
 608.2b
 ------
 If the spell or ability specifies targets, it checks whether the targets are still legal. A target that's no longer in the zone it was in when it was targeted is illegal. Other changes to the game state may cause a target to no longer be legal; for example, its characteristics may have changed or an effect may have changed the text of the spell. If the source of an ability has left the zone it was in, its last known information is used during this process. The spell or ability is countered if all its targets, for every instance of the word "target," are now illegal. If the spell or ability is not countered, it will resolve normally. However, if any of its targets are illegal, the part of the spell or ability's effect for which it is an illegal target can't perform any actions on that target, make another object or player perform any actions on that target, or make that target perform any actions. The effect may still determine information about illegal targets, though, and other parts of the effect for which those targets are not illegal may still affect them.
-Example: Sorin's Thirst is a black instant that reads, "Sorin's Thirst deals 2 damage to target creature and you gain 2 life." If the creature isn't a legal target during the resolution of Sorin's Thirst (say, if the creature has gained protection from black or left the battlefield), then Sorin's Thirst is countered. Its controller doesn't gain any life.
-Example: Plague Spores reads, "Destroy target nonblack creature and target land. They can't be regenerated." Suppose the same animated land is chosen both as the nonblack creature and as the land, and the color of the creature land is changed to black before Plague Spores resolves. Plagues Spores isn't countered because the black creature land is still a legal target for the "target land" part of the spell. The "destroy target nonblack creature" part of the spell won't affect that permanent, but the "destroy target land" part of the spell will still destroy it. It can't be regenerated.
+
+**Example:** :mtgtip:`Sorin's Thirst` is a black instant that reads, "Sorin's Thirst deals 2 damage to target creature and you gain 2 life." If the creature isn't a legal target during the resolution of Sorin's Thirst (say, if the creature has gained protection from black or left the battlefield), then Sorin's Thirst is countered. Its controller doesn't gain any life.
+
+**Example:** :mtgtip:`Plague Spores` reads, "Destroy target nonblack creature and target land. They can't be regenerated." Suppose the same animated land is chosen both as the nonblack creature and as the land, and the color of the creature land is changed to black before Plague Spores resolves. Plagues Spores isn't countered because the black creature land is still a legal target for the "target land" part of the spell. The "destroy target nonblack creature" part of the spell won't affect that permanent, but the "destroy target land" part of the spell will still destroy it. It can't be regenerated.
 
 .. _mtgcr-608-2c:
 
@@ -5725,7 +5803,8 @@ The controller of the spell or ability follows its instructions in the order wri
 608.2d
 ------
 If an effect of a spell or ability offers any choices other than choices already made as part of casting the spell, activating the ability, or otherwise putting the spell or ability on the stack, the player announces these while applying the effect. The player can't choose an option that's illegal or impossible, with the exception that having a library with no cards in it doesn't make drawing a card an impossible action (see rule :ref:`120 <mtgcr-120>`.3). If an effect divides or distributes something, such as damage or counters, as a player chooses among any number of untargeted players and/or objects, the player chooses the amount and division such that at least one player or object is chosen if able, and each chosen player or object receives at least one of whatever is being divided. (Note that if an effect divides or distributes something, such as damage or counters, as a player chooses among some number of target objects and/or players, the amount and division were determined as the spell or ability was put onto the stack rather than at this time; see rule :ref:`601.2d <mtgcr-601-2d>`)
-Example: A spell's instruction reads, "You may sacrifice a creature. If you don't, you lose 4 life." A player who controls no creatures can't choose the sacrifice option.
+
+**Example:** A spell's instruction reads, "You may sacrifice a creature. If you don't, you lose 4 life." A player who controls no creatures can't choose the sacrifice option.
 
 .. _mtgcr-608-2e:
 
@@ -5750,14 +5829,16 @@ If an effect requires information from the game (such as the number of creatures
 608.2h
 ------
 If an effect refers to certain characteristics, it checks only for the value of the specified characteristics, regardless of any related ones an object may also have.
-Example: An effect that reads "Destroy all black creatures" destroys a white-and-black creature, but one that reads "Destroy all nonblack creatures" doesn't.
+
+**Example:** An effect that reads "Destroy all black creatures" destroys a white-and-black creature, but one that reads "Destroy all nonblack creatures" doesn't.
 
 .. _mtgcr-608-2i:
 
 608.2i
 ------
 If an ability's effect refers to a specific untargeted object that has been previously referred to by that ability's cost or trigger condition, it still affects that object even if the object has changed characteristics.
-Example: Wall of Tears says "Whenever Wall of Tears blocks a creature, return that creature to its owner's hand at end of combat." If Wall of Tears blocks a creature, then that creature ceases to be a creature before the triggered ability resolves, the permanent will still be returned to its owner's hand.
+
+**Example:** :mtgtip:`Wall of Tears` says "Whenever Wall of Tears blocks a creature, return that creature to its owner's hand at end of combat." If Wall of Tears blocks a creature, then that creature ceases to be a creature before the triggered ability resolves, the permanent will still be returned to its owner's hand.
 
 .. _mtgcr-608-2j:
 
@@ -5788,7 +5869,8 @@ If the object that's resolving is an Aura spell, its resolution involves two ste
 608.3b
 ------
 If a permanent spell resolves but its controller can't put it onto the battlefield, that player puts it into its owner's graveyard.
-Example: Worms of the Earth has the ability "Lands can't enter the battlefield." Clone says "You may have Clone enter the battlefield as a copy of any creature on the battlefield." If a player casts Clone and chooses to copy Dryad Arbor (a land creature) while Worms of the Earth is on the battlefield, Clone can't enter the battlefield from the stack. It's put into its owner's graveyard.
+
+**Example:** :mtgtip:`Worms of the Earth` has the ability "Lands can't enter the battlefield." :mtgtip:`Clone` says "You may have Clone enter the battlefield as a copy of any creature on the battlefield." If a player casts Clone and chooses to copy :mtgtip:`Dryad Arbor` (a land creature) while Worms of the Earth is on the battlefield, Clone can't enter the battlefield from the stack. It's put into its owner's graveyard.
 
 .. _mtgcr-609:
 
@@ -5806,14 +5888,16 @@ An effect is something that happens in the game as a result of a spell or abilit
 609.2
 -----
 Effects apply only to permanents unless the instruction's text states otherwise or they clearly can apply only to objects in one or more other zones.
-Example: An effect that changes all lands into creatures won't alter land cards in players' graveyards. But an effect that says spells cost more to cast will apply only to spells on the stack, since a spell is always on the stack while a player is casting it.
+
+**Example:** An effect that changes all lands into creatures won't alter land cards in players' graveyards. But an effect that says spells cost more to cast will apply only to spells on the stack, since a spell is always on the stack while a player is casting it.
 
 .. _mtgcr-609-3:
 
 609.3
 -----
 If an effect attempts to do something impossible, it does only as much as possible.
-Example: If a player is holding only one card, an effect that reads "Discard two cards" causes him or her to discard only that card. If an effect moves cards out of the library (as opposed to drawing), it moves as many as possible.
+
+**Example:** If a player is holding only one card, an effect that reads "Discard two cards" causes him or her to discard only that card. If an effect moves cards out of the library (as opposed to drawing), it moves as many as possible.
 
 .. _mtgcr-609-4:
 
@@ -5826,7 +5910,8 @@ Some effects state that a player may do something "as though" some condition wer
 609.4a
 ------
 If two effects state that a player may (or a creature can) do the same thing "as though" different conditions were true, both conditions could apply. If one "as though" effect satisfies the requirements for another "as though" effect, then both effects will apply.
-Example: A player controls Vedalken Orrery, an artifact that says "You may cast nonland cards as though they had flash." That player casts Shaman's Trance, an instant that says, in part, "You may play cards from other players' graveyards as though they were in your graveyard." The player may cast a sorcery with flashback from another player's graveyard as though it were in that player's graveyard and as though it had flash.
+
+**Example:** A player controls :mtgtip:`Vedalken Orrery`, an artifact that says "You may cast nonland cards as though they had flash." That player casts :mtgtip:`Shaman's Trance`, an instant that says, in part, "You may play cards from other players' graveyards as though they were in your graveyard." The player may cast a sorcery with flashback from another player's graveyard as though it were in that player's graveyard and as though it had flash.
 
 .. _mtgcr-609-5:
 
@@ -5927,15 +6012,18 @@ A continuous effect generated by the resolution of a spell or ability lasts as l
 611.2b
 ------
 Some continuous effects generated by the resolution of a spell or ability have durations worded "for as long as . . . ." If the "for as long as" duration never starts, or it ends before the moment the effect would first be applied, the effect does nothing. It doesn't start and immediately stop again, and it doesn't last forever.
-Example: Master Thief has the ability "When Master Thief enters the battlefield, gain control of target artifact for as long as you control Master Thief." If you lose control of Master Thief before the ability resolves, it does nothing, because its duration -- as long as you control Master Thief -- was over before the effect began.
+
+**Example:** :mtgtip:`Master Thief` has the ability "When Master Thief enters the battlefield, gain control of target artifact for as long as you control Master Thief." If you lose control of Master Thief before the ability resolves, it does nothing, because its duration -- as long as you control Master Thief -- was over before the effect began.
 
 .. _mtgcr-611-2c:
 
 611.2c
 ------
 If a continuous effect generated by the resolution of a spell or ability modifies the characteristics or changes the controller of any objects, the set of objects it affects is determined when that continuous effect begins. After that point, the set won't change. (Note that this works differently than a continuous effect from a static ability.) A continuous effect generated by the resolution of a spell or ability that doesn't modify the characteristics or change the controller of any objects modifies the rules of the game, so it can affect objects that weren't affected when that continuous effect began. If a single continuous effect has parts that modify the characteristics or changes the controller of any objects and other parts that don't, the set of objects each part applies to is determined independently.
-Example: An effect that reads "All white creatures get +1/+1 until end of turn" gives the bonus to all permanents that are white creatures when the spell or ability resolves -- even if they change color later -- and doesn't affect those that enter the battlefield or turn white afterward.
-Example: An effect that reads "Prevent all damage creatures would deal this turn" doesn't modify any object's characteristics, so it's modifying the rules of the game. That means the effect will apply even to damage from creatures that weren't on the battlefield when the continuous effect began. It also affects damage from permanents that become creatures later in the turn.
+
+**Example:** An effect that reads "All white creatures get +1/+1 until end of turn" gives the bonus to all permanents that are white creatures when the spell or ability resolves -- even if they change color later -- and doesn't affect those that enter the battlefield or turn white afterward.
+
+**Example:** An effect that reads "Prevent all damage creatures would deal this turn" doesn't modify any object's characteristics, so it's modifying the rules of the game. That means the effect will apply even to damage from creatures that weren't on the battlefield when the continuous effect began. It also affects damage from permanents that become creatures later in the turn.
 
 .. _mtgcr-611-2d:
 
@@ -5960,14 +6048,16 @@ A continuous effect generated by a static ability isn't "locked in"; it applies 
 611.3b
 ------
 The effect applies at all times that the permanent generating it is on the battlefield or the object generating it is in the appropriate zone.
-Example: A permanent with the static ability "All white creatures get +1/+1" generates an effect that continuously gives +1/+1 to each white creature on the battlefield. If a creature becomes white, it gets this bonus; a creature that stops being white loses it.
+
+**Example:** A permanent with the static ability "All white creatures get +1/+1" generates an effect that continuously gives +1/+1 to each white creature on the battlefield. If a creature becomes white, it gets this bonus; a creature that stops being white loses it.
 
 .. _mtgcr-611-3c:
 
 611.3c
 ------
 Continuous effects that modify characteristics of permanents do so simultaneously with the permanent entering the battlefield. They don't wait until the permanent is on the battlefield and then change it. Because such effects apply as the permanent enters the battlefield, they are applied before determining whether the permanent will cause an ability to trigger when it enters the battlefield.
-Example: A permanent with the static ability "All white creatures get +1/+1" is on the battlefield. A creature spell that would normally create a 1/1 white creature instead creates a 2/2 white creature. The creature doesn't enter the battlefield as 1/1 and then change to 2/2.
+
+**Example:** A permanent with the static ability "All white creatures get +1/+1" is on the battlefield. A creature spell that would normally create a 1/1 white creature instead creates a 2/2 white creature. The creature doesn't enter the battlefield as 1/1 and then change to 2/2.
 
 .. _mtgcr-612:
 
@@ -6104,26 +6194,34 @@ Layer 7d: Power and/or toughness changes from counters are applied. See rule :re
 613.3e
 ------
 Layer 7e: Effects that switch a creature's power and toughness are applied. Such effects take the value of power and apply it to the creature's toughness, and take the value of toughness and apply it to the creature's power.
-Example: A 1/3 creature is given +0/+1 by an effect. Then another effect switches the creature's power and toughness. Its new power and toughness is 4/1. A new effect gives the creature +5/+0. Its "unswitched" power and toughness would be 6/4, so its actual power and toughness is 4/6.
-Example: A 1/3 creature is given +0/+1 by an effect. Then another effect switches the creature's power and toughness. Its new power and toughness is 4/1. If the +0/+1 effect ends before the switch effect ends, the creature becomes 3/1.
+
+**Example:** A 1/3 creature is given +0/+1 by an effect. Then another effect switches the creature's power and toughness. Its new power and toughness is 4/1. A new effect gives the creature +5/+0. Its "unswitched" power and toughness would be 6/4, so its actual power and toughness is 4/6.
+
+**Example:** A 1/3 creature is given +0/+1 by an effect. Then another effect switches the creature's power and toughness. Its new power and toughness is 4/1. If the +0/+1 effect ends before the switch effect ends, the creature becomes 3/1.
 
 .. _mtgcr-613-4:
 
 613.4
 -----
 The application of continuous effects as described by the layer system is continually and automatically performed by the game. All resulting changes to an object's characteristics are instantaneous.
-Example: Honor of the Pure is an enchantment that reads "White creatures you control get +1/+1." Honor of the Pure and a 2/2 black creature are on the battlefield under your control. If an effect then turns the creature white (layer 5), it gets +1/+1 from Honor of the Pure (layer 7c), becoming 3/3. If the creature's color is later changed to red (layer 5), Honor of the Pure's effect stops applying to it, and it will return to being 2/2.
-Example: Gray Ogre, a 2/2 creature, is on the battlefield. An effect puts a +1/+1 counter on it (layer 7d), making it 3/3. A spell targeting it that says "Target creature gets +4/+4 until end of turn" resolves (layer 7c), making it 7/7. An enchantment that says "Creatures you control get +0/+2" enters the battlefield (layer 7c), making it 7/9. An effect that says "Target creature becomes 0/1 until end of turn" is applied to it (layer 7b), making it 5/8 (0/1, with +4/+4 from the resolved spell, +0/+2 from the enchantment, and +1/+1 from the counter).
+
+**Example:** :mtgtip:`Honor of the Pure` is an enchantment that reads "White creatures you control get +1/+1." Honor of the Pure and a 2/2 black creature are on the battlefield under your control. If an effect then turns the creature white (layer 5), it gets +1/+1 from Honor of the Pure (layer 7c), becoming 3/3. If the creature's color is later changed to red (layer 5), Honor of the Pure's effect stops applying to it, and it will return to being 2/2.
+
+**Example:** :mtgtip:`Gray Ogre`, a 2/2 creature, is on the battlefield. An effect puts a +1/+1 counter on it (layer 7d), making it 3/3. A spell targeting it that says "Target creature gets +4/+4 until end of turn" resolves (layer 7c), making it 7/7. An enchantment that says "Creatures you control get +0/+2" enters the battlefield (layer 7c), making it 7/9. An effect that says "Target creature becomes 0/1 until end of turn" is applied to it (layer 7b), making it 5/8 (0/1, with +4/+4 from the resolved spell, +0/+2 from the enchantment, and +1/+1 from the counter).
 
 .. _mtgcr-613-5:
 
 613.5
 -----
 If an effect should be applied in different layers and/or sublayers, the parts of the effect each apply in their appropriate ones. If an effect starts to apply in one layer and/or sublayer, it will continue to be applied to the same set of objects in each other applicable layer and/or sublayer, even if the ability generating the effect is removed during this process.
-Example: An effect that reads "Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn" is both a power- and toughness-changing effect and a color-changing effect. The "becomes the color of your choice" part is applied in layer 5, and then the "gets +1/+1" part is applied in layer 7c.
-Example: Act of Treason has an effect that reads "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn." This is both a control-changing effect and an effect that adds an ability to an object. The "gain control" part is applied in layer 2, and then the "it gains haste" part is applied in layer 6.
-Example: An effect that reads "All noncreature artifacts become 2/2 artifact creatures until end of turn" is both a type-changing effect and a power- and toughness-setting effect. The type-changing effect is applied to all noncreature artifacts in layer 4 and the power- and toughness-setting effect is applied to those same permanents in layer 7b, even though those permanents aren't noncreature artifacts by then.
-Example: Svogthos, the Restless Tomb, is on the battlefield. An effect that says "Until end of turn, target land becomes a 3/3 creature that's still a land" is applied to it (layers 4 and 7b). An effect that says "Target creature gets +1/+1 until end of turn" is applied to it (layer 7c), making it a 4/4 land creature. Then while you have ten creature cards in your graveyard, you activate Svogthos's ability: "Until end of turn, Svogthos, the Restless Tomb becomes a black and green Plant Zombie creature with 'This creature's power and toughness are each equal to the number of creature cards in your graveyard.' It's still a land." (layers 4, 5, and 7b). It becomes an 11/11 land creature. If a creature card enters or leaves your graveyard, Svogthos's power and toughness will be modified accordingly. If the first effect is applied to it again, it will become a 4/4 land creature again.
+
+**Example:** An effect that reads ":mtgtip:`Wild Mongrel` gets +1/+1 and becomes the color of your choice until end of turn" is both a power- and toughness-changing effect and a color-changing effect. The "becomes the color of your choice" part is applied in layer 5, and then the "gets +1/+1" part is applied in layer 7c.
+
+**Example:** :mtgtip:`Act of Treason` has an effect that reads "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn." This is both a control-changing effect and an effect that adds an ability to an object. The "gain control" part is applied in layer 2, and then the "it gains haste" part is applied in layer 6.
+
+**Example:** An effect that reads "All noncreature artifacts become 2/2 artifact creatures until end of turn" is both a type-changing effect and a power- and toughness-setting effect. The type-changing effect is applied to all noncreature artifacts in layer 4 and the power- and toughness-setting effect is applied to those same permanents in layer 7b, even though those permanents aren't noncreature artifacts by then.
+
+**Example:** :mtgtip:`Svogthos, the Restless Tomb`, is on the battlefield. An effect that says "Until end of turn, target land becomes a 3/3 creature that's still a land" is applied to it (layers 4 and 7b). An effect that says "Target creature gets +1/+1 until end of turn" is applied to it (layer 7c), making it a 4/4 land creature. Then while you have ten creature cards in your graveyard, you activate Svogthos's ability: "Until end of turn, Svogthos, the Restless Tomb becomes a black and green Plant Zombie creature with 'This creature's power and toughness are each equal to the number of creature cards in your graveyard.' It's still a land." (layers 4, 5, and 7b). It becomes an 11/11 land creature. If a creature card enters or leaves your graveyard, Svogthos's power and toughness will be modified accordingly. If the first effect is applied to it again, it will become a 4/4 land creature again.
 
 .. _mtgcr-613-6:
 
@@ -6202,8 +6300,10 @@ After each effect is applied, the order of remaining effects is reevaluated and 
 613.8
 -----
 One continuous effect can override another. Sometimes the results of one effect determine whether another effect applies or what another effect does.
-Example: Two effects are affecting the same creature: one from an Aura that says "Enchanted creature gains flying" and one from an Aura that says "Enchanted creature loses flying." Neither of these depends on the other, since nothing changes what they affect or what they're doing to it. Applying them in timestamp order means the one that was generated last "wins." The same process would be followed, and the same result reached, if either of the effects had a duration (such as "Target creature loses flying until end of turn") or came from a non-Aura source (such as "All creatures lose flying").
-Example: One effect reads, "White creatures get +1/+1," and another reads, "Enchanted creature is white." The enchanted creature gets +1/+1 from the first effect, regardless of its previous color.
+
+**Example:** Two effects are affecting the same creature: one from an Aura that says "Enchanted creature gains flying" and one from an Aura that says "Enchanted creature loses flying." Neither of these depends on the other, since nothing changes what they affect or what they're doing to it. Applying them in timestamp order means the one that was generated last "wins." The same process would be followed, and the same result reached, if either of the effects had a duration (such as "Target creature loses flying until end of turn") or came from a non-Aura source (such as "All creatures lose flying").
+
+**Example:** One effect reads, "White creatures get +1/+1," and another reads, "Enchanted creature is white." The enchanted creature gets +1/+1 from the first effect, regardless of its previous color.
 
 .. _mtgcr-613-9:
 
@@ -6275,14 +6375,16 @@ There are no special restrictions on casting a spell or activating an ability th
 614.4
 -----
 Replacement effects must exist before the appropriate event occurs -- they can't "go back in time" and change something that's already happened. Spells or abilities that generate these effects are often cast or activated in response to whatever would produce the event and thus resolve before that event would occur.
-Example: A player can activate an ability to regenerate a creature in response to a spell that would destroy it. Once the spell resolves, though, it's too late to regenerate the creature.
+
+**Example:** A player can activate an ability to regenerate a creature in response to a spell that would destroy it. Once the spell resolves, though, it's too late to regenerate the creature.
 
 .. _mtgcr-614-5:
 
 614.5
 -----
 A replacement effect doesn't invoke itself repeatedly; it gets only one opportunity to affect an event or any modified events that may replace it.
-Example: A player controls two permanents, each with an ability that reads "If a creature you control would deal damage to a creature or player, it deals double that damage to that creature or player instead." A creature that normally deals 2 damage will deal 8 damage -- not just 4, and not an infinite amount.
+
+**Example:** A player controls two permanents, each with an ability that reads "If a creature you control would deal damage to a creature or player, it deals double that damage to that creature or player instead." A creature that normally deals 2 damage will deal 8 damage -- not just 4, and not an infinite amount.
 
 .. _mtgcr-614-6:
 
@@ -6355,9 +6457,12 @@ If an effect would have a player both draw a card and perform an additional acti
 614.12
 ------
 Some replacement effects modify how a permanent enters the battlefield. (See rules 614.1c-d.) Such effects may come from the permanent itself if they affect only that permanent (as opposed to a general subset of permanents that includes it). They may also come from other sources. To determine which replacement effects apply and how they apply, check the characteristics of the permanent as it would exist on the battlefield, taking into account replacement effects that have already modified how it enters the battlefield (see rule :ref:`616 <mtgcr-616>`.1), continuous effects generated by the resolution of spells or abilities that changed the permanent's characteristics on the stack (see rule :ref:`400.7a <mtgcr-400-7a>`), and continuous effects from the permanent's own static abilities, but ignoring continuous effects from any other source that would affect it.
-Example: Voice of All says "As Voice of All enters the battlefield, choose a color" and "Voice of All has protection from the chosen color." An effect creates a token that's a copy of Voice of All. As that token is put onto the battlefield, its controller chooses a color for it.
-Example: Yixlid Jailer says "Cards in graveyards lose all abilities." Scarwood Treefolk says "Scarwood Treefolk enters the battlefield tapped." A Scarwood Treefolk that's put onto the battlefield from a graveyard enters the battlefield tapped.
-Example: Orb of Dreams is an artifact that says "Permanents enter the battlefield tapped." It won't affect itself, so Orb of Dreams enters the battlefield untapped.
+
+**Example:** :mtgtip:`Voice of All` says "As Voice of All enters the battlefield, choose a color" and "Voice of All has protection from the chosen color." An effect creates a token that's a copy of Voice of All. As that token is put onto the battlefield, its controller chooses a color for it.
+
+**Example:** :mtgtip:`Yixlid Jailer` says "Cards in graveyards lose all abilities." :mtgtip:`Scarwood Treefolk` says "Scarwood Treefolk enters the battlefield tapped." A Scarwood Treefolk that's put onto the battlefield from a graveyard enters the battlefield tapped.
+
+**Example:** :mtgtip:`Orb of Dreams` is an artifact that says "Permanents enter the battlefield tapped." It won't affect itself, so Orb of Dreams enters the battlefield untapped.
 
 .. _mtgcr-614-12a:
 
@@ -6376,14 +6481,16 @@ An effect that modifies how a permanent enters the battlefield may cause other o
 614.13a
 -------
 When applying an effect that modifies how a permanent enters the battlefield, you can't make a choice that would cause that permanent to go to a different zone and not enter the battlefield.
-Example: Sutured Ghoul says, in part, "As Sutured Ghoul enters the battlefield, exile any number of creature cards from your graveyard." If Sutured Ghoul enters the battlefield from your graveyard, you can't choose to exile Sutured Ghoul itself.
+
+**Example:** :mtgtip:`Sutured Ghoul` says, in part, "As Sutured Ghoul enters the battlefield, exile any number of creature cards from your graveyard." If Sutured Ghoul enters the battlefield from your graveyard, you can't choose to exile Sutured Ghoul itself.
 
 .. _mtgcr-614-13b:
 
 614.13b
 -------
 The same object can't be chosen to change zones more than once when applying replacement effects that modify how a single permanent enters the battlefield.
-Example: Jund (a plane card) says, "Whenever a player casts a black, red, or green creature spell, it gains devour 5." A player controls Runeclaw Bear and casts Thunder-Thrash Elder, a red creature spell with devour 3. As Thunder-Thrash Elder enters the battlefield, its controller can choose to sacrifice Runeclaw Bear when applying the devour 3 effect or when applying the devour 5 effect, but not both. Thunder-Thrash Elder will enter the battlefield with zero, three, or five +1/+1 counters, depending on this choice.
+
+**Example:** Jund (a plane card) says, "Whenever a player casts a black, red, or green creature spell, it gains devour 5." A player controls :mtgtip:`Runeclaw Bear` and casts :mtgtip:`Thunder-Thrash Elder`, a red creature spell with devour 3. As Thunder-Thrash Elder enters the battlefield, its controller can choose to sacrifice Runeclaw Bear when applying the devour 3 effect or when applying the devour 5 effect, but not both. Thunder-Thrash Elder will enter the battlefield with zero, three, or five +1/+1 counters, depending on this choice.
 
 .. _mtgcr-614-14:
 
@@ -6431,7 +6538,8 @@ There are no special restrictions on casting a spell or activating an ability th
 615.4
 -----
 Prevention effects must exist before the appropriate damage event occurs -- they can't "go back in time" and change something that's already happened. Spells or abilities that generate these effects are often cast or activated in response to whatever would produce the event and thus resolve before that event would occur.
-Example: A player can activate an ability that prevents damage in response to a spell that would deal damage. Once the spell resolves, though, it's too late to prevent the damage.
+
+**Example:** A player can activate an ability that prevents damage in response to a spell that would deal damage. Once the spell resolves, though, it's too late to prevent the damage.
 
 .. _mtgcr-615-5:
 
@@ -6462,14 +6570,16 @@ Some prevention effects generated by the resolution of a spell or ability refer 
 615.9
 -----
 Some prevention effects generated by static abilities refer to a specific amount of damage -- for example, "If a source would deal damage to you, prevent 1 of that damage." Such an effect prevents only the indicated amount of damage in any applicable damage event at any given time. It will apply separately to damage from other applicable events that would happen at the same time, or at a different time.
-Example: Daunting Defender says "If a source would deal damage to a Cleric creature you control, prevent 1 of that damage." Pyroclasm says "Pyroclasm deals 2 damage to each creature." Pyroclasm will deal 1 damage to each Cleric creature controlled by Daunting Defender's controller. It will deal 2 damage to each other creature that player controls.
+
+**Example:** :mtgtip:`Daunting Defender` says "If a source would deal damage to a Cleric creature you control, prevent 1 of that damage." :mtgtip:`Pyroclasm` says "Pyroclasm deals 2 damage to each creature." Pyroclasm will deal 1 damage to each Cleric creature controlled by Daunting Defender's controller. It will deal 2 damage to each other creature that player controls.
 
 .. _mtgcr-615-10:
 
 615.10
 ------
 Some prevention effects prevent the next N damage that would be dealt to each of a number of untargeted creatures. Such an effect creates a prevention shield for each applicable creature when the spell or ability that generates that effect resolves.
-Example: Wojek Apothecary has an ability that says "|tap|: Prevent the next 1 damage that would be dealt to target creature and each other creature that shares a color with it this turn." When the ability resolves, it gives the target creature and each other creature on the battlefield that shares a color with it at that time a shield preventing the next 1 damage that would be dealt to it. Changing creatures' colors after the ability resolves doesn't add or remove shields, and creatures that enter the battlefield later in the turn don't get the shield.
+
+**Example:** :mtgtip:`Wojek Apothecary` has an ability that says "|tap|: Prevent the next 1 damage that would be dealt to target creature and each other creature that shares a color with it this turn." When the ability resolves, it gives the target creature and each other creature on the battlefield that shares a color with it at that time a shield preventing the next 1 damage that would be dealt to it. Changing creatures' colors after the ability resolves doesn't add or remove shields, and creatures that enter the battlefield later in the turn don't get the shield.
 
 .. _mtgcr-615-11:
 
@@ -6523,15 +6633,18 @@ Any of the applicable replacement and/or prevention effects may be chosen.
 616.1e
 ------
 Once the chosen effect has been applied, this process is repeated (taking into account only replacement or prevention effects that would now be applicable) until there are no more left to apply.
-Example: Two permanents are on the battlefield. One is an enchantment that reads "If a card would be put into a graveyard from anywhere, instead exile it," and the other is a creature that reads "If [this creature] would be put into a graveyard from the battlefield, instead shuffle it into its owner's library." If the creature is destroyed, its controller decides which replacement to apply first; the other does nothing.
-Example: Essence of the Wild reads "Creatures you control enter the battlefield as a copy of Essence of the Wild." A player who controls Essence of the Wild casts Rusted Sentinel, which normally enters the battlefield tapped. As it enters the battlefield, the copy effect from Essence of the Wild is applied first. As a result, it no longer has the ability that causes it to enter the battlefield tapped. Rusted Sentinel will enter the battlefield as an untapped copy of Essence of the Wild.
+
+**Example:** Two permanents are on the battlefield. One is an enchantment that reads "If a card would be put into a graveyard from anywhere, instead exile it," and the other is a creature that reads "If [this creature] would be put into a graveyard from the battlefield, instead shuffle it into its owner's library." If the creature is destroyed, its controller decides which replacement to apply first; the other does nothing.
+
+**Example:** :mtgtip:`Essence of the Wild` reads "Creatures you control enter the battlefield as a copy of Essence of the Wild." A player who controls Essence of the Wild casts :mtgtip:`Rusted Sentinel`, which normally enters the battlefield tapped. As it enters the battlefield, the copy effect from Essence of the Wild is applied first. As a result, it no longer has the ability that causes it to enter the battlefield tapped. Rusted Sentinel will enter the battlefield as an untapped copy of Essence of the Wild.
 
 .. _mtgcr-616-2:
 
 616.2
 -----
 A replacement or prevention effect can become applicable to an event as the result of another replacement or prevention effect that modifies the event.
-Example: One effect reads "If you would gain life, draw that many cards instead," and another reads "If you would draw a card, return a card from your graveyard to your hand instead." Both effects combine (regardless of the order they came into existence): Instead of gaining 1 life, the player puts a card from his or her graveyard into his or her hand.
+
+**Example:** One effect reads "If you would gain life, draw that many cards instead," and another reads "If you would draw a card, return a card from your graveyard to your hand instead." Both effects combine (regardless of the order they came into existence): Instead of gaining 1 life, the player puts a card from his or her graveyard into his or her hand.
 
 .. _mtgcr-sec-additional-rules:
 
@@ -6548,7 +6661,8 @@ Example: One effect reads "If you would gain life, draw that many cards instead,
 700.1
 -----
 Anything that happens in a game is an event. Multiple events may take place during the resolution of a spell or ability. The text of triggered abilities and replacement effects defines the event they're looking for. One "happening" may be treated as a single event by one ability and as multiple events by another.
-Example: If an attacking creature is blocked by two creatures, this is one event for a triggered ability that reads "Whenever [this creature] becomes blocked" but two events for a triggered ability that reads "Whenever [this creature] becomes blocked by a creature."
+
+**Example:** If an attacking creature is blocked by two creatures, this is one event for a triggered ability that reads "Whenever [this creature] becomes blocked" but two events for a triggered ability that reads "Whenever [this creature] becomes blocked by a creature."
 
 .. _mtgcr-700-2:
 
@@ -6615,7 +6729,8 @@ Each object in a pile is still an individual object. The pile is not an object.
 700.3c
 ------
 Objects grouped into piles don't leave the zone they're currently in. If cards in a graveyard are split into piles, the order of the graveyard must be maintained.
-Example: Fact or Fiction reads, "Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard." While an opponent is separating the revealed cards into piles, they're still in their owner's library. They don't leave the library until they're put into their owner's hand or graveyard.
+
+**Example:** :mtgtip:`Fact or Fiction` reads, "Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard." While an opponent is separating the revealed cards into piles, they're still in their owner's library. They don't leave the library until they're put into their owner's hand or graveyard.
 
 .. _mtgcr-700-3d:
 
@@ -6645,19 +6760,19 @@ Some cards refer to cards "originally printed" in a particular set.
 
 700.6a
 ------
-One card (:mtgtip:`City in a Bottle`) refers to permanents and cards with the same name as a card originally printed in the *Arabian Nights* (TM) expansion. Those cards are Abu Ja'far, Aladdin, Aladdin's Lamp, Aladdin's Ring, Ali Baba, Ali from Cairo, Army of Allah, Bazaar of Baghdad, Bird Maiden, Bottle of Suleiman, Brass Man, Camel, City in a Bottle, City of Brass, Cuombajj Witches, Cyclone, Dancing Scimitar, Dandn, Desert, Desert Nomads, Desert Twister, Diamond Valley, Drop of Honey, Ebony Horse, Elephant Graveyard, El-Hajjj, Erg Raiders, Erhnam Djinn, Eye for an Eye, Fishliver Oil, Flying Carpet, Flying Men, Ghazb n Ogre, Giant Tortoise, Guardian Beast, Hasran Ogress, Hurr Jackal, Ifh-Biff Efreet, Island Fish Jasconius, Island of Wak-Wak, Jandor's Ring, Jandor's Saddlebags, Jeweled Bird, Jihad, Jun£n Efreet, Juz m Djinn, Khab l Ghoul, King Suleiman, Kird Ape, Library of Alexandria, Magnetic Mountain, Merchant Ship, Metamorphosis, Mijae Djinn, Moorish Cavalry, Nafs Asp, Oasis, Old Man of the Sea, Oubliette, Piety, Pyramids, Repentant Blacksmith, Ring of Ma'rf, Rukh Egg, Sandals of Abdallah, Sandstorm, Serendib Djinn, Serendib Efreet, Shahrazad, Sindbad, Singing Tree, Sorceress Queen, Stone-Throwing Devils, Unstable Mutation, War Elephant, Wyluli Wolf, and Ydwen Efreet.
+One card (:mtgtip:`City in a Bottle`) refers to permanents and cards with the same name as a card originally printed in the *Arabian Nights* (TM) expansion. Those cards are :mtgtip:`Abu Ja'far`, :mtgtip:`Aladdin`, :mtgtip:`Aladdin's Lamp`, :mtgtip:`Aladdin's Ring`, :mtgtip:`Ali Baba`, :mtgtip:`Ali from Cairo`, :mtgtip:`Army of Allah`, :mtgtip:`Bazaar of Baghdad`, :mtgtip:`Bird Maiden`, :mtgtip:`Bottle of Suleiman`, :mtgtip:`Brass Man`, :mtgtip:`Camel`, :mtgtip:`City in a Bottle`, :mtgtip:`City of Brass`, :mtgtip:`Cuombajj Witches`, :mtgtip:`Cyclone`, :mtgtip:`Dancing Scimitar`, :mtgtip:`Dandân`, :mtgtip:`Desert`, :mtgtip:`Desert Nomads`, :mtgtip:`Desert Twister`, :mtgtip:`Diamond Valley`, :mtgtip:`Drop of Honey`, :mtgtip:`Ebony Horse`, :mtgtip:`Elephant Graveyard`, :mtgtip:`El-Hajjâj`, :mtgtip:`Erg Raiders`, :mtgtip:`Erhnam Djinn`, :mtgtip:`Eye for an Eye`, :mtgtip:`Fishliver Oil`, :mtgtip:`Flying Carpet`, :mtgtip:`Flying Men`, :mtgtip:`Ghazbán Ogre`, :mtgtip:`Giant Tortoise`, :mtgtip:`Guardian Beast`, :mtgtip:`Hasran Ogress`, :mtgtip:`Hurr Jackal`, :mtgtip:`Ifh-Biff Efreet`, :mtgtip:`Island Fish Jasconius`, :mtgtip:`Island of Wak-Wak`, :mtgtip:`Jandor's Ring`, :mtgtip:`Jandor's Saddlebags`, :mtgtip:`Jeweled Bird`, :mtgtip:`Jihad`, :mtgtip:`Junún Efreet`, :mtgtip:`Juzám Djinn`, :mtgtip:`Khabál Ghoul`, :mtgtip:`King Suleiman`, :mtgtip:`Kird Ape`, :mtgtip:`Library of Alexandria`, :mtgtip:`Magnetic Mountain`, :mtgtip:`Merchant Ship`, :mtgtip:`Metamorphosis`, :mtgtip:`Mijae Djinn`, :mtgtip:`Moorish Cavalry`, :mtgtip:`Nafs Asp`, :mtgtip:`Oasis`, :mtgtip:`Old Man of the Sea`, :mtgtip:`Oubliette`, :mtgtip:`Piety`, :mtgtip:`Pyramids`, :mtgtip:`Repentant Blacksmith`, :mtgtip:`Ring of Ma'rûf`, :mtgtip:`Rukh Egg`, :mtgtip:`Sandals of Abdallah`, :mtgtip:`Sandstorm`, :mtgtip:`Serendib Djinn`, :mtgtip:`Serendib Efreet`, :mtgtip:`Shahrazad`, :mtgtip:`Sindbad`, :mtgtip:`Singing Tree`, :mtgtip:`Sorceress Queen`, :mtgtip:`Stone-Throwing Devils`, :mtgtip:`Unstable Mutation`, :mtgtip:`War Elephant`, :mtgtip:`Wyluli Wolf`, and :mtgtip:`Ydwen Efreet`.
 
 .. _mtgcr-700-6b:
 
 700.6b
 ------
-One card (:mtgtip:`Golgothian Sylex`) refers to permanents with the same name as a card originally printed in the *Antiquities* (TM) expansion. Those cards are Amulet of Kroog, Argivian Archaeologist, Argivian Blacksmith, Argothian Pixies, Argothian Treefolk, Armageddon Clock, Artifact Blast, Artifact Possession, Artifact Ward, Ashnod's Altar, Ashnod's Battle Gear, Ashnod's Transmogrant, Atog, Battering Ram, Bronze Tablet, Candelabra of Tawnos, Circle of Protection: Artifacts, Citanul Druid, Clay Statue, Clockwork Avian, Colossus of Sardia, Coral Helm, Crumble, Cursed Rack, Damping Field, Detonate, Drafna's Restoration, Dragon Engine, Dwarven Weaponsmith, Energy Flux, Feldon's Cane, Gaea's Avenger, Gate to Phyrexia, Goblin Artisans, Golgothian Sylex, Grapeshot Catapult, Haunting Wind, Hurkyl's Recall, Ivory Tower, Jalum Tome, Martyrs of Korlis, Mightstone, Millstone, Mishra's Factory, Mishra's War Machine, Mishra's Workshop, Obelisk of Undoing, Onulet, Orcish Mechanics, Ornithopter, Phyrexian Gremlins, Power Artifact, Powerleech, Priest of Yawgmoth, Primal Clay, The Rack, Rakalite, Reconstruction, Reverse Polarity, Rocket Launcher, Sage of Lat-Nam, Shapeshifter, Shatterstorm, Staff of Zegon, Strip Mine, Su-Chi, Tablet of Epityr, Tawnos's Coffin, Tawnos's Wand, Tawnos's Weaponry, Tetravus, Titania's Song, Transmute Artifact, Triskelion, Urza's Avenger, Urza's Chalice, Urza's Mine, Urza's Miter, Urza's Power Plant, Urza's Tower, Wall of Spears, Weakstone, Xenic Poltergeist, Yawgmoth Demon, and Yotian Soldier.
+One card (:mtgtip:`Golgothian Sylex`) refers to permanents with the same name as a card originally printed in the *Antiquities* (TM) expansion. Those cards are :mtgtip:`Amulet of Kroog`, :mtgtip:`Argivian Archaeologist`, :mtgtip:`Argivian Blacksmith`, :mtgtip:`Argothian Pixies`, :mtgtip:`Argothian Treefolk`, :mtgtip:`Armageddon Clock`, :mtgtip:`Artifact Blast`, :mtgtip:`Artifact Possession`, :mtgtip:`Artifact Ward`, :mtgtip:`Ashnod's Altar`, :mtgtip:`Ashnod's Battle Gear`, :mtgtip:`Ashnod's Transmogrant`, :mtgtip:`Atog`, :mtgtip:`Battering Ram`, :mtgtip:`Bronze Tablet`, :mtgtip:`Candelabra of Tawnos`, :mtgtip:`Circle of Protection: Artifacts`, :mtgtip:`Citanul Druid`, :mtgtip:`Clay Statue`, :mtgtip:`Clockwork Avian`, :mtgtip:`Colossus of Sardia`, :mtgtip:`Coral Helm`, :mtgtip:`Crumble`, :mtgtip:`Cursed Rack`, :mtgtip:`Damping Field`, :mtgtip:`Detonate`, :mtgtip:`Drafna's Restoration`, :mtgtip:`Dragon Engine`, :mtgtip:`Dwarven Weaponsmith`, :mtgtip:`Energy Flux`, :mtgtip:`Feldon's Cane`, :mtgtip:`Gaea's Avenger`, :mtgtip:`Gate to Phyrexia`, :mtgtip:`Goblin Artisans`, :mtgtip:`Golgothian Sylex`, :mtgtip:`Grapeshot Catapult`, :mtgtip:`Haunting Wind`, :mtgtip:`Hurkyl's Recall`, :mtgtip:`Ivory Tower`, :mtgtip:`Jalum Tome`, :mtgtip:`Martyrs of Korlis`, :mtgtip:`Mightstone`, :mtgtip:`Millstone`, :mtgtip:`Mishra's Factory`, :mtgtip:`Mishra's War Machine`, :mtgtip:`Mishra's Workshop`, :mtgtip:`Obelisk of Undoing`, :mtgtip:`Onulet`, :mtgtip:`Orcish Mechanics`, :mtgtip:`Ornithopter`, :mtgtip:`Phyrexian Gremlins`, :mtgtip:`Power Artifact`, :mtgtip:`Powerleech`, :mtgtip:`Priest of Yawgmoth`, :mtgtip:`Primal Clay`, :mtgtip:`The Rack`, :mtgtip:`Rakalite`, :mtgtip:`Reconstruction`, :mtgtip:`Reverse Polarity`, :mtgtip:`Rocket Launcher`, :mtgtip:`Sage of Lat-Nam`, :mtgtip:`Shapeshifter`, :mtgtip:`Shatterstorm`, :mtgtip:`Staff of Zegon`, :mtgtip:`Strip Mine`, :mtgtip:`Su-Chi`, :mtgtip:`Tablet of Epityr`, :mtgtip:`Tawnos's Coffin`, :mtgtip:`Tawnos's Wand`, :mtgtip:`Tawnos's Weaponry`, :mtgtip:`Tetravus`, :mtgtip:`Titania's Song`, :mtgtip:`Transmute Artifact`, :mtgtip:`Triskelion`, :mtgtip:`Urza's Avenger`, :mtgtip:`Urza's Chalice`, :mtgtip:`Urza's Mine`, :mtgtip:`Urza's Miter`, :mtgtip:`Urza's Power Plant`, :mtgtip:`Urza's Tower`, :mtgtip:`Wall of Spears`, :mtgtip:`Weakstone`, :mtgtip:`Xenic Poltergeist`, :mtgtip:`Yawgmoth Demon`, and :mtgtip:`Yotian Soldier`.
 
 .. _mtgcr-700-6c:
 
 700.6c
 ------
-One card (:mtgtip:`Apocalypse Chime`) refers to permanents with the same name as a card originally printed in the *Homelands* (TM) expansion. Those cards are Abbey Gargoyles; Abbey Matron; AEther Storm; Aliban's Tower; Ambush; Ambush Party; Anaba Ancestor; Anaba Bodyguard; Anaba Shaman; Anaba Spirit Crafter; An-Havva Constable; An-Havva Inn; An-Havva Township; An-Zerrin Ruins; Apocalypse Chime; Autumn Willow; Aysen Abbey; Aysen Bureaucrats; Aysen Crusader; Aysen Highway; Baki's Curse; Baron Sengir; Beast Walkers; Black Carriage; Broken Visage; Carapace; Castle Sengir; Cemetery Gate; Chain Stasis; Chandler; Clockwork Gnomes; Clockwork Steed; Clockwork Swarm; Coral Reef; Dark Maze; Daughter of Autumn; Death Speakers; Didgeridoo; Drudge Spell; Dry Spell; Dwarven Pony; Dwarven Sea Clan; Dwarven Trader; Ebony Rhino; Eron the Relentless; Evaporate; Faerie Noble; Feast of the Unicorn; Feroz's Ban; Folk of An-Havva; Forget; Funeral March; Ghost Hounds; Giant Albatross; Giant Oyster; Grandmother Sengir; Greater Werewolf; Hazduhr the Abbot; Headstone; Heart Wolf; Hungry Mist; Ihsan's Shade; Irini Sengir; Ironclaw Curse; Jinx; Joven; Joven's Ferrets; Joven's Tools; Koskun Falls; Koskun Keep; Labyrinth Minotaur; Leaping Lizard; Leeches; Mammoth Harness; Marjhan; Memory Lapse; Merchant Scroll; Mesa Falcon; Mystic Decree; Narwhal; Orcish Mine; Primal Order; Prophecy; Rashka the Slayer; Reef Pirates; Renewal; Retribution; Reveka, Wizard Savant; Root Spider; Roots; Roterothopter; Rysorian Badger; Samite Alchemist; Sea Sprite; Sea Troll; Sengir Autocrat; Sengir Bats; Serra Aviary; Serra Bestiary; Serra Inquisitors; Serra Paladin; Serrated Arrows; Shrink; Soraya the Falconer; Spectral Bears; Timmerian Fiends; Torture; Trade Caravan; Truce; Veldrane of Sengir; Wall of Kelp; Willow Faerie; Willow Priestess; Winter Sky; and Wizards' School.
+One card (:mtgtip:`Apocalypse Chime`) refers to permanents with the same name as a card originally printed in the *Homelands* (TM) expansion. Those cards are :mtgtip:`Abbey Gargoyles`; :mtgtip:`Abbey Matron`; :mtgtip:`AEther Storm`; :mtgtip:`Aliban's Tower`; :mtgtip:`Ambush`; :mtgtip:`Ambush Party`; :mtgtip:`Anaba Ancestor`; :mtgtip:`Anaba Bodyguard`; :mtgtip:`Anaba Shaman`; :mtgtip:`Anaba Spirit Crafter`; :mtgtip:`An-Havva Constable`; :mtgtip:`An-Havva Inn`; :mtgtip:`An-Havva Township`; :mtgtip:`An-Zerrin Ruins`; :mtgtip:`Apocalypse Chime`; :mtgtip:`Autumn Willow`; :mtgtip:`Aysen Abbey`; :mtgtip:`Aysen Bureaucrats`; :mtgtip:`Aysen Crusader`; :mtgtip:`Aysen Highway`; :mtgtip:`Baki's Curse`; :mtgtip:`Baron Sengir`; :mtgtip:`Beast Walkers`; :mtgtip:`Black Carriage`; :mtgtip:`Broken Visage`; :mtgtip:`Carapace`; :mtgtip:`Castle Sengir`; :mtgtip:`Cemetery Gate`; :mtgtip:`Chain Stasis`; :mtgtip:`Chandler`; :mtgtip:`Clockwork Gnomes`; :mtgtip:`Clockwork Steed`; :mtgtip:`Clockwork Swarm`; :mtgtip:`Coral Reef`; :mtgtip:`Dark Maze`; :mtgtip:`Daughter of Autumn`; :mtgtip:`Death Speakers`; :mtgtip:`Didgeridoo`; :mtgtip:`Drudge Spell`; :mtgtip:`Dry Spell`; :mtgtip:`Dwarven Pony`; :mtgtip:`Dwarven Sea Clan`; :mtgtip:`Dwarven Trader`; :mtgtip:`Ebony Rhino`; :mtgtip:`Eron the Relentless`; :mtgtip:`Evaporate`; :mtgtip:`Faerie Noble`; :mtgtip:`Feast of the Unicorn`; :mtgtip:`Feroz's Ban`; :mtgtip:`Folk of An-Havva`; :mtgtip:`Forget`; :mtgtip:`Funeral March`; :mtgtip:`Ghost Hounds`; :mtgtip:`Giant Albatross`; :mtgtip:`Giant Oyster`; :mtgtip:`Grandmother Sengir`; :mtgtip:`Greater Werewolf`; :mtgtip:`Hazduhr the Abbot`; :mtgtip:`Headstone`; :mtgtip:`Heart Wolf`; :mtgtip:`Hungry Mist`; :mtgtip:`Ihsan's Shade`; :mtgtip:`Irini Sengir`; :mtgtip:`Ironclaw Curse`; :mtgtip:`Jinx`; :mtgtip:`Joven`; :mtgtip:`Joven's Ferrets`; :mtgtip:`Joven's Tools`; :mtgtip:`Koskun Falls`; :mtgtip:`Koskun Keep`; :mtgtip:`Labyrinth Minotaur`; :mtgtip:`Leaping Lizard`; :mtgtip:`Leeches`; :mtgtip:`Mammoth Harness`; :mtgtip:`Marjhan`; :mtgtip:`Memory Lapse`; :mtgtip:`Merchant Scroll`; :mtgtip:`Mesa Falcon`; :mtgtip:`Mystic Decree`; :mtgtip:`Narwhal`; :mtgtip:`Orcish Mine`; :mtgtip:`Primal Order`; :mtgtip:`Prophecy`; :mtgtip:`Rashka the Slayer`; :mtgtip:`Reef Pirates`; :mtgtip:`Renewal`; :mtgtip:`Retribution`; :mtgtip:`Reveka`, :mtgtip:`Wizard Savant`; :mtgtip:`Root Spider`; :mtgtip:`Roots`; :mtgtip:`Roterothopter`; :mtgtip:`Rysorian Badger`; :mtgtip:`Samite Alchemist`; :mtgtip:`Sea Sprite`; :mtgtip:`Sea Troll`; :mtgtip:`Sengir Autocrat`; :mtgtip:`Sengir Bats`; :mtgtip:`Serra Aviary`; :mtgtip:`Serra Bestiary`; :mtgtip:`Serra Inquisitors`; :mtgtip:`Serra Paladin`; :mtgtip:`Serrated Arrows`; :mtgtip:`Shrink`; :mtgtip:`Soraya the Falconer`; :mtgtip:`Spectral Bears`; :mtgtip:`Timmerian Fiends`; :mtgtip:`Torture`; :mtgtip:`Trade Caravan`; :mtgtip:`Truce`; :mtgtip:`Veldrane of Sengir`; :mtgtip:`Wall of Kelp`; :mtgtip:`Willow Faerie`; :mtgtip:`Willow Priestess`; :mtgtip:`Winter Sky`; and :mtgtip:`Wizards' School`.
 
 .. _mtgcr-701:
 
@@ -6807,7 +6922,8 @@ Exchange
 701.8a
 ------
 A spell or ability may instruct players to exchange something (for example, life totals or control of two permanents) as part of its resolution. When such a spell or ability resolves, if the entire exchange can't be completed, no part of the exchange occurs.
-Example: If a spell attempts to exchange control of two target creatures but one of those creatures is destroyed before the spell resolves, the spell does nothing to the other creature.
+
+**Example:** If a spell attempts to exchange control of two target creatures but one of those creatures is destroyed before the spell resolves, the spell does nothing to the other creature.
 
 .. _mtgcr-701-8b:
 
@@ -6994,14 +7110,16 @@ To search for a card in a zone, look at all cards in that zone (even if it's a h
 701.15b
 -------
 If a player is searching a hidden zone for cards with a stated quality, such as a card with a certain card type or color, that player isn't required to find some or all of those cards even if they're present in that zone.
-Example: Splinter says "Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. That player then shuffles his or her library." A player casts Splinter targeting Howling Mine (an artifact). Howling Mine's controller has another Howling Mine in her graveyard and two more in her library. Splinter's controller must find the Howling Mine in the graveyard, but may choose to find zero, one, or two of the Howling Mines in the library.
+
+**Example:** :mtgtip:`Splinter` says "Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. That player then shuffles his or her library." A player casts Splinter targeting :mtgtip:`Howling Mine` (an artifact). Howling Mine's controller has another Howling Mine in her graveyard and two more in her library. Splinter's controller must find the Howling Mine in the graveyard, but may choose to find zero, one, or two of the Howling Mines in the library.
 
 .. _mtgcr-701-15c:
 
 701.15c
 -------
 If a player is instructed to search a hidden zone for cards that match an undefined quality, that player may still search that zone but can't find any cards.
-Example: Lobotomy says "Target player reveals his or her hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles his or her library." If the target player has no cards in his or her hand when Lobotomy resolves, the player who cast Lobotomy searches the specified zones but doesn't exile any cards.
+
+**Example:** :mtgtip:`Lobotomy` says "Target player reveals his or her hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles his or her library." If the target player has no cards in his or her hand when Lobotomy resolves, the player who cast Lobotomy searches the specified zones but doesn't exile any cards.
 
 .. _mtgcr-701-15d:
 
@@ -7020,7 +7138,8 @@ If the effect that contains the search instruction doesn't also contain instruct
 701.15f
 -------
 If searching a zone is replaced with searching a portion of that zone, any other instructions that refer to searching the zone still apply.
-Example: Aven Mindcensor says, in part, "If an opponent would search a library, that player searches the top four cards of that library instead." Veteran Explorer says "When Veteran Explorer dies, each player may search his or her library for up to two basic land cards and put them onto the battlefield. Then each player who searched his or her library this way shuffles it." An opponent who searched the top four cards of his or her library because of Veteran Explorer's ability would shuffle the entire library.
+
+**Example:** :mtgtip:`Aven Mindcensor` says, in part, "If an opponent would search a library, that player searches the top four cards of that library instead." :mtgtip:`Veteran Explorer` says "When Veteran Explorer dies, each player may search his or her library for up to two basic land cards and put them onto the battlefield. Then each player who searched his or her library this way shuffles it." An opponent who searched the top four cards of his or her library because of Veteran Explorer's ability would shuffle the entire library.
 
 .. _mtgcr-701-16:
 
@@ -7045,21 +7164,24 @@ Some effects cause a player to search a library for a card or cards, shuffle tha
 701.16c
 -------
 If an effect would cause a player to shuffle one or more specific objects into a library, but none of those objects are in the zone they're expected to be in, that library isn't shuffled.
-Example: Guile says, in part, "When Guile is put into a graveyard from anywhere, shuffle it into its owner's library." It's put into a graveyard and its ability triggers, then a player exiles it from that graveyard in response. When the ability resolves, nothing happens.
+
+**Example:** :mtgtip:`Guile` says, in part, "When Guile is put into a graveyard from anywhere, shuffle it into its owner's library." It's put into a graveyard and its ability triggers, then a player exiles it from that graveyard in response. When the ability resolves, nothing happens.
 
 .. _mtgcr-701-16d:
 
 701.16d
 -------
 If an effect would cause a player to shuffle one or more specific objects into a library, and a replacement or prevention effect causes all such objects to be moved to another zone instead, that library isn't shuffled.
-Example: Black Sun's Zenith says, in part, "Shuffle Black Sun's Zenith into its owner's library." Black Sun's Zenith is in a graveyard, has gained flashback (due to Recoup, perhaps), and is cast from that graveyard. Black Sun's Zenith will be exiled, and its owner's library won't be shuffled.
+
+**Example:** :mtgtip:`Black Sun's Zenith` says, in part, "Shuffle Black Sun's Zenith into its owner's library." Black Sun's Zenith is in a graveyard, has gained flashback (due to Recoup, perhaps), and is cast from that graveyard. Black Sun's Zenith will be exiled, and its owner's library won't be shuffled.
 
 .. _mtgcr-701-16e:
 
 701.16e
 -------
 If an effect would cause a player to shuffle a set of objects into a library, that library is shuffled even if there are no objects in that set.
-Example: Loaming Shaman says "When Loaming Shaman enters the battlefield, target player shuffles any number of target cards from his or her graveyard into his or her library." It enters the battlefield, its ability triggers, and no cards are targeted. When the ability resolves, the targeted player will still have to shuffle his or her library.
+
+**Example:** :mtgtip:`Loaming Shaman` says "When Loaming Shaman enters the battlefield, target player shuffles any number of target cards from his or her graveyard into his or her library." It enters the battlefield, its ability triggers, and no cards are targeted. When the ability resolves, the targeted player will still have to shuffle his or her library.
 
 .. _mtgcr-701-16f:
 
@@ -7683,7 +7805,8 @@ A creature with landwalk can't be blocked as long as the defending player contro
 702.14d
 -------
 Landwalk abilities don't "cancel" one another.
-Example: If a player controls a snow Forest, that player can't block an attacking creature with snow forestwalk even if he or she also controls a creature with snow forestwalk.
+
+**Example:** If a player controls a snow Forest, that player can't block an attacking creature with snow forestwalk even if he or she also controls a creature with snow forestwalk.
 
 .. _mtgcr-702-14e:
 
@@ -7858,8 +7981,10 @@ Trample is a static ability that modifies the rules for assigning an attacking c
 702.19b
 -------
 The controller of an attacking creature with trample first assigns damage to the creature(s) blocking it. Once all those blocking creatures are assigned lethal damage, any remaining damage is assigned as its controller chooses among those blocking creatures and the player or planeswalker the creature is attacking. When checking for assigned lethal damage, take into account damage already marked on the creature and damage from other creatures that's being assigned during the same combat damage step, but not any abilities or effects that might change the amount of damage that's actually dealt. The attacking creature's controller need not assign lethal damage to all those blocking creatures but in that case can't assign any damage to the player or planeswalker it's attacking.
-Example: A 2/2 creature that can block an additional creature blocks two attackers: a 1/1 with no abilities and a 3/3 with trample. The active player could assign 1 damage from the first attacker and 1 damage from the second to the blocking creature, and 2 damage to the defending player from the creature with trample.
-Example: A 6/6 green creature with trample is blocked by a 2/2 creature with protection from green. The attacking creature's controller must assign at least 2 damage to the blocker, even though that damage will be prevented by the blocker's protection ability. The attacking creature's controller can divide the rest of the damage as he or she chooses between the blocking creature and the defending player.
+
+**Example:** A 2/2 creature that can block an additional creature blocks two attackers: a 1/1 with no abilities and a 3/3 with trample. The active player could assign 1 damage from the first attacker and 1 damage from the second to the blocking creature, and 2 damage to the defending player from the creature with trample.
+
+**Example:** A 6/6 green creature with trample is blocked by a 2/2 creature with protection from green. The attacking creature's controller must assign at least 2 damage to the blocker, even though that damage will be prevented by the blocker's protection ability. The attacking creature's controller can divide the rest of the damage as he or she chooses between the blocking creature and the defending player.
 
 .. _mtgcr-702-19c:
 
@@ -7956,7 +8081,8 @@ Banding doesn't cause attacking creatures to share abilities, nor does it remove
 702.21h
 -------
 If an attacking creature becomes blocked by a creature, each other creature in the same band as the attacking creature becomes blocked by that same blocking creature.
-Example: A player attacks with a band consisting of a creature with flying and a creature with swampwalk. The defending player, who controls a Swamp, can block the flying creature if able. If he or she does, then the creature with swampwalk will also become blocked by the blocking creature(s).
+
+**Example:** A player attacks with a band consisting of a creature with flying and a creature with swampwalk. The defending player, who controls a Swamp, can block the flying creature if able. If he or she does, then the creature with swampwalk will also become blocked by the blocking creature(s).
 
 .. _mtgcr-702-21i:
 
@@ -8017,15 +8143,18 @@ Cumulative Upkeep
 702.23a
 -------
 Cumulative upkeep is a triggered ability that imposes an increasing cost on a permanent. "Cumulative upkeep [cost]" means "At the beginning of your upkeep, if this permanent is on the battlefield, put an age counter on this permanent. Then you may pay [cost] for each age counter on it. If you don't, sacrifice it." If [cost] has choices associated with it, each choice is made separately for each age counter, then either the entire set of costs is paid, or none of them is paid. Partial payments aren't allowed.
-Example: A creature has "Cumulative upkeep |mana_w| or |mana_u|" and two age counters on it. When its ability next triggers and resolves, the creature's controller puts an age counter on it and then may pay |mana_w| |mana_w| |mana_w|, |mana_w| |mana_w| |mana_u|, |mana_w| |mana_u| |mana_u|, or |mana_u| |mana_u| |mana_u| to keep the creature on the battlefield.
-Example: A creature has "Cumulative upkeep -- Sacrifice a creature" and one age counter on it. When its ability next triggers and resolves, its controller can't choose the same creature to sacrifice twice. Either two different creatures must be sacrificed, or the creature with cumulative upkeep must be sacrificed.
+
+**Example:** A creature has "Cumulative upkeep |mana_w| or |mana_u|" and two age counters on it. When its ability next triggers and resolves, the creature's controller puts an age counter on it and then may pay |mana_w| |mana_w| |mana_w|, |mana_w| |mana_w| |mana_u|, |mana_w| |mana_u| |mana_u|, or |mana_u| |mana_u| |mana_u| to keep the creature on the battlefield.
+
+**Example:** A creature has "Cumulative upkeep -- Sacrifice a creature" and one age counter on it. When its ability next triggers and resolves, its controller can't choose the same creature to sacrifice twice. Either two different creatures must be sacrificed, or the creature with cumulative upkeep must be sacrificed.
 
 .. _mtgcr-702-23b:
 
 702.23b
 -------
 If a permanent has multiple instances of cumulative upkeep, each triggers separately. However, the age counters are not connected to any particular ability; each cumulative upkeep ability will count the total number of age counters on the permanent at the time that ability resolves.
-Example: A creature has two instances of "Cumulative upkeep -- Pay 1 life." The creature has no age counters, and both cumulative upkeep abilities trigger. When the first ability resolves, the controller adds a counter and then chooses to pay 1 life. When the second ability resolves, the controller adds another counter and then chooses to pay an additional 2 life.
+
+**Example:** A creature has two instances of "Cumulative upkeep -- Pay 1 life." The creature has no age counters, and both cumulative upkeep abilities trigger. When the first ability resolves, the controller adds a counter and then chooses to pay 1 life. When the second ability resolves, the controller adds another counter and then chooses to pay an additional 2 life.
 
 .. _mtgcr-702-24:
 
@@ -8062,8 +8191,10 @@ Phasing is a static ability that modifies the rules of the untap step. During ea
 702.25b
 -------
 If a permanent phases out, its status changes to "phased out." Except for rules and effects that specifically mention phased-out permanents, a phased-out permanent is treated as though it does not exist. It can't affect or be affected by anything else in the game.
-Example: You control three creatures, one of which is phased out. You cast a spell that says "Draw a card for each creature you control." You draw two cards.
-Example: You control a phased-out creature. You cast a spell that says "Destroy all creatures." The phased-out creature is not destroyed.
+
+**Example:** You control three creatures, one of which is phased out. You cast a spell that says "Draw a card for each creature you control." You draw two cards.
+
+**Example:** You control a phased-out creature. You cast a spell that says "Destroy all creatures." The phased-out creature is not destroyed.
 
 .. _mtgcr-702-25c:
 
@@ -8532,7 +8663,8 @@ Sunburst applies only as the spell is resolving and only if one or more colored 
 702.43c
 -------
 Sunburst can also be used to set a variable number for another ability. If the keyword is used in this way, it doesn't matter whether the ability is on a creature spell or on a noncreature spell.
-Example: The ability "Modular -- Sunburst" means "This permanent enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it" and "When this permanent is put into a graveyard from the battlefield, you may put a +1/+1 counter on target artifact creature for each +1/+1 counter on this permanent."
+
+**Example:** The ability "Modular -- Sunburst" means "This permanent enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it" and "When this permanent is put into a graveyard from the battlefield, you may put a +1/+1 counter on target artifact creature for each +1/+1 counter on this permanent."
 
 .. _mtgcr-702-43d:
 
@@ -8587,7 +8719,8 @@ Splice
 702.46a
 -------
 Splice is a static ability that functions while a card is in your hand. "Splice onto [subtype] [cost]" means "You may reveal this card from your hand as you cast a [subtype] spell. If you do, copy this card's text box onto that spell and pay [cost] as an additional cost to cast that spell." Paying a card's splice cost follows the rules for paying additional costs in rules 601.2b and 601.2e-g.
-Example: Since the card with splice remains in the player's hand, it can later be cast normally or spliced onto another spell. It can even be discarded to pay a "discard a card" cost of the spell it's spliced onto.
+
+**Example:** Since the card with splice remains in the player's hand, it can later be cast normally or spliced onto another spell. It can even be discarded to pay a "discard a card" cost of the spell it's spliced onto.
 
 .. _mtgcr-702-46b:
 
@@ -8600,7 +8733,8 @@ You can't choose to use a splice ability if you can't make the required choices 
 702.46c
 -------
 The spell has the characteristics of the main spell, plus the text boxes of each of the spliced cards. The spell doesn't gain any other characteristics (name, mana cost, color, supertypes, card types, subtypes, etc.) of the spliced cards. Text copied onto the spell that refers to a card by name refers to the spell on the stack, not the card from which the text was copied.
-Example: Glacial Ray is a red card with splice onto Arcane that reads, "Glacial Ray deals 2 damage to target creature or player." Suppose Glacial Ray is spliced onto Reach Through Mists, a blue spell. The spell is still blue, and Reach Through Mists deals the damage. This means that the ability can target a creature with protection from red and deal 2 damage to that creature.
+
+**Example:** :mtgtip:`Glacial Ray` is a red card with splice onto Arcane that reads, "Glacial Ray deals 2 damage to target creature or player." Suppose Glacial Ray is spliced onto :mtgtip:`Reach Through Mists`, a blue spell. The spell is still blue, and Reach Through Mists deals the damage. This means that the ability can target a creature with protection from red and deal 2 damage to that creature.
 
 .. _mtgcr-702-46d:
 
@@ -8691,7 +8825,8 @@ Convoke
 702.50a
 -------
 Convoke is a static ability that functions while the spell with convoke is on the stack. "Convoke" means "For each colored mana in this spell's total cost, you may tap an untapped creature of that color you control rather than pay that mana. For each generic mana in this spell's total cost, you may tap an untapped creature you control rather than pay that mana." The convoke ability isn't an additional or alternative cost and applies only after the total cost of the spell with convoke is determined.
-Example: Heartless Summoning says, in part, "Creature spells you cast cost |mana_2| less to cast. You control Heartless Summoning and cast Siege Wurm, a spell with convoke that costs |mana_5| |mana_g| |mana_g|. The total cost to cast Siege Wurm is |mana_3| |mana_g| |mana_g|. After activating mana abilities, you pay that total cost. You may tap up to two green creatures and up to three creatures of any color to pay that cost, and the remainder is paid with mana.
+
+**Example:** :mtgtip:`Heartless Summoning says`, in part, "Creature spells you cast cost |mana_2| less to cast." You control Heartless Summoning and cast :mtgtip:`Siege Wurm`, a spell with convoke that costs |mana_5| |mana_g| |mana_g|. The total cost to cast Siege Wurm is |mana_3| |mana_g| |mana_g|. After activating mana abilities, you pay that total cost. You may tap up to two green creatures and up to three creatures of any color to pay that cost, and the remainder is paid with mana.
 
 .. _mtgcr-702-50b:
 
@@ -8980,8 +9115,10 @@ Aura swap is an activated ability of some Aura cards. "Aura swap [cost]" means "
 702.64b
 -------
 If either half of the exchange can't be completed, the ability has no effect.
-Example: You activate the aura swap ability of an Aura. The only Aura card in your hand can't enchant the permanent that's enchanted by the Aura with aura swap. The ability has no effect.
-Example: You activate the aura swap ability of an Aura that you control but you don't own. The ability has no effect.
+
+**Example:** You activate the aura swap ability of an Aura. The only Aura card in your hand can't enchant the permanent that's enchanted by the Aura with aura swap. The ability has no effect.
+
+**Example:** You activate the aura swap ability of an Aura that you control but you don't own. The ability has no effect.
 
 .. _mtgcr-702-65:
 
@@ -9874,7 +10011,8 @@ Whenever a player would get priority (see rule :ref:`116 <mtgcr-116>`, "Timing a
 704.4
 -----
 Unlike triggered abilities, state-based actions pay no attention to what happens during the resolution of a spell or ability.
-Example: A player controls a creature with the ability "This creature's power and toughness are each equal to the number of cards in your hand" and casts a spell whose effect is "Discard your hand, then draw seven cards." The creature will temporarily have toughness 0 in the middle of the spell's resolution but will be back up to toughness 7 when the spell finishes resolving. Thus the creature will survive when state-based actions are checked. In contrast, an ability that triggers when the player has no cards in hand goes on the stack after the spell resolves, because its trigger event happened during resolution.
+
+**Example:** A player controls a creature with the ability "This creature's power and toughness are each equal to the number of cards in your hand" and casts a spell whose effect is "Discard your hand, then draw seven cards." The creature will temporarily have toughness 0 in the middle of the spell's resolution but will be back up to toughness 7 when the spell finishes resolving. Thus the creature will survive when state-based actions are checked. In contrast, an ability that triggers when the player has no cards in hand goes on the stack after the spell resolves, because its trigger event happened during resolution.
 
 .. _mtgcr-704-5:
 
@@ -10019,14 +10157,16 @@ In a Planechase game, if a phenomenon card is face up in the command zone, and i
 704.6
 -----
 If multiple state-based actions would have the same result at the same time, a single replacement effect will replace all of them.
-Example: You control Lich's Mirror, which says "If you would lose the game, instead shuffle your hand, your graveyard, and all permanents you own into your library, then draw seven cards and your life total becomes 20." There's one card in your library and your life total is 1. A spell causes you to draw two cards and lose 2 life. The next time state-based actions are checked, you'd lose the game due to rule 704.5a and rule 704.5b. Instead, Lich's Mirror replaces that game loss and you keep playing.
+
+**Example:** You control :mtgtip:`Lich's Mirror`, which says "If you would lose the game, instead shuffle your hand, your graveyard, and all permanents you own into your library, then draw seven cards and your life total becomes 20." There's one card in your library and your life total is 1. A spell causes you to draw two cards and lose 2 life. The next time state-based actions are checked, you'd lose the game due to rule :ref:`704.5a <mtgcr-704-5a>` and rule :ref:`704.5b <mtgcr-704-5b>`. Instead, Lich's Mirror replaces that game loss and you keep playing.
 
 .. _mtgcr-704-7:
 
 704.7
 -----
 If a state-based action results in a permanent leaving the battlefield at the same time other state-based actions were performed, that permanent's last known information is derived from the game state before any of those state-based actions were performed.
-Example: You control Young Wolf, a 1/1 creature with undying, and it has a +1/+1 counter on it. A spell puts three -1/-1 counters on Young Wolf. Before state-based actions are performed, Young Wolf has one +1/+1 counter and three -1/-1 counters on it. After state-based actions are performed, Young Wolf is in the graveyard. When it was last on the battlefield, it had a +1/+1 counter on it, so undying will not trigger.
+
+**Example:** You control :mtgtip:`Young Wolf`, a 1/1 creature with undying, and it has a +1/+1 counter on it. A spell puts three -1/-1 counters on Young Wolf. Before state-based actions are performed, Young Wolf has one +1/+1 counter and three -1/-1 counters on it. After state-based actions are performed, Young Wolf is in the graveyard. When it was last on the battlefield, it had a +1/+1 counter on it, so undying will not trigger.
 
 .. _mtgcr-705:
 
@@ -10067,8 +10207,10 @@ Some objects become or turn another object into a "copy" of a spell, permanent, 
 706.2
 -----
 When copying an object, the copy acquires the copiable values of the original object's characteristics and, for an object on the stack, choices made when casting or activating it (mode, targets, the value of X, whether it was kicked, how it will affect multiple targets, and so on). The "copiable values" are the values derived from the text printed on the object (that text being name, mana cost, color indicator, card type, subtype, supertype, rules text, power, toughness, and/or loyalty), as modified by other copy effects, by "as . . . enters the battlefield" and "as . . . is turned face up" abilities that set characteristics, and by abilities that caused the object to be face down. Other effects (including type-changing and text-changing effects), status, and counters are not copied.
-Example: Chimeric Staff is an artifact that reads "|mana_x|: Chimeric Staff becomes an X/X artifact creature until end of turn." Clone is a creature that reads, "You may have Clone enter the battlefield as a copy of any creature on the battlefield." After a Staff has become a 5/5 artifact creature, a Clone enters the battlefield as a copy of it. The Clone is an artifact, not a 5/5 artifact creature. (The copy has the Staff's ability, however, and will become a creature if that ability is activated.)
-Example: Clone enters the battlefield as a copy of a face-down Grinning Demon (a creature with morph |mana_2| |mana_b| |mana_b|). The Clone is a colorless 2/2 creature with no name, no types, no abilities, and no mana cost. It will still be face up. Its controller can't pay |mana_2| |mana_b| |mana_b| to turn it face up.
+
+**Example:** :mtgtip:`Chimeric Staff` is an artifact that reads "|mana_x|: Chimeric Staff becomes an X/X artifact creature until end of turn." :mtgtip:`Clone` is a creature that reads, "You may have Clone enter the battlefield as a copy of any creature on the battlefield." After a Staff has become a 5/5 artifact creature, a Clone enters the battlefield as a copy of it. The Clone is an artifact, not a 5/5 artifact creature. (The copy has the Staff's ability, however, and will become a creature if that ability is activated.)
+
+**Example:** :mtgtip:`Clone` enters the battlefield as a copy of a face-down :mtgtip:`Grinning Demon` (a creature with morph |mana_2| |mana_b| |mana_b|). The Clone is a colorless 2/2 creature with no name, no types, no abilities, and no mana cost. It will still be face up. Its controller can't pay |mana_2| |mana_b| |mana_b| to turn it face up.
 
 .. _mtgcr-706-2a:
 
@@ -10081,32 +10223,40 @@ A copy acquires the color of the object it's copying because that value is deriv
 706.3
 -----
 The copy's copiable values become the copied information, as modified by the copy's status (see rule :ref:`110.6 <mtgcr-110-6>`). Objects that copy the object will use the new copiable values.
-Example: Vesuvan Doppelganger reads, "You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield except it doesn't copy that creature's color and it gains 'At the beginning of your upkeep, you may have this creature become a copy of target creature except it doesn't copy that creature's color. If you do, this creature gains this ability.'" A Vesuvan Doppelganger enters the battlefield as a copy of Runeclaw Bear (a 2/2 green Bear creature with no abilities). Then a Clone enters the battlefield as a copy of the Doppelganger. The Clone is a 2/2 blue Bear named Runeclaw Bear that has the Doppelganger's upkeep-triggered ability.
-Example: Tomoya the Revealer (a flipped flip card) becomes a copy of Nezumi Shortfang (an unflipped flip card). Tomoya's characteristics become the characteristics of Stabwhisker the Odious, which is the flipped version of Nezumi Shortfang.
-Example: A face-down Grinning Demon (a creature with morph) becomes a copy of a face-up Branchsnap Lorian (a 4/1 green creature with trample and morph |mana_g|). The Demon's characteristics become the characteristics of Branchsnap Lorian. However, since the creature is face down, it remains a 2/2 colorless creature with no name, types, or abilities, and no mana cost. It can be turned face up for |mana_g|. If it's turned face up, it will have the characteristics of Branchsnap Lorian.
-Example: A face-down Grinning Demon (a creature with morph) becomes a copy of Wandering Ones (a 1/1 blue Spirit creature that doesn't have morph). It will be a face-down Wandering Ones. It remains a 2/2 colorless creature with no name, types, or abilities, and no mana cost. Its controller can't turn it face up as a special action. If an effect turns it face up, it will have the characteristics of Wandering Ones.
+
+**Example:** :mtgtip:`Vesuvan Doppelganger` reads, "You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield except it doesn't copy that creature's color and it gains 'At the beginning of your upkeep, you may have this creature become a copy of target creature except it doesn't copy that creature's color. If you do, this creature gains this ability.'" A Vesuvan Doppelganger enters the battlefield as a copy of :mtgtip:`Runeclaw Bear` (a 2/2 green Bear creature with no abilities). Then a :mtgtip:`Clone` enters the battlefield as a copy of the Doppelganger. The Clone is a 2/2 blue Bear named Runeclaw Bear that has the Doppelganger's upkeep-triggered ability.
+
+**Example:** Tomoya the Revealer (a flipped flip card) becomes a copy of :mtgtip:`Nezumi Shortfang` (an unflipped flip card). Tomoya's characteristics become the characteristics of Stabwhisker the Odious, which is the flipped version of Nezumi Shortfang.
+
+**Example:** A face-down :mtgtip:`Grinning Demon` (a creature with morph) becomes a copy of a face-up :mtgtip:`Branchsnap Lorian` (a 4/1 green creature with trample and morph |mana_g|). The Demon's characteristics become the characteristics of Branchsnap Lorian. However, since the creature is face down, it remains a 2/2 colorless creature with no name, types, or abilities, and no mana cost. It can be turned face up for |mana_g|. If it's turned face up, it will have the characteristics of Branchsnap Lorian.
+
+**Example:** A face-down :mtgtip:`Grinning Demon` (a creature with morph) becomes a copy of :mtgtip:`Wandering Ones` (a 1/1 blue Spirit creature that doesn't have morph). It will be a face-down Wandering Ones. It remains a 2/2 colorless creature with no name, types, or abilities, and no mana cost. Its controller can't turn it face up as a special action. If an effect turns it face up, it will have the characteristics of Wandering Ones.
 
 .. _mtgcr-706-4:
 
 706.4
 -----
 Some effects cause a permanent that's copying a permanent to copy a different object while remaining on the battlefield. The change doesn't trigger enters-the-battlefield or leaves-the-battlefield abilities. This also doesn't change any noncopy effects presently affecting the permanent.
-Example: Unstable Shapeshifter reads, "Whenever a creature enters the battlefield, Unstable Shapeshifter becomes a copy of that creature and gains this ability." It's affected by Giant Growth, which reads "Target creature gets +3/+3 until end of turn." If a creature enters the battlefield later this turn, Unstable Shapeshifter will become a copy of that creature, but it will still get +3/+3 from the Giant Growth.
+
+**Example:** :mtgtip:`Unstable Shapeshifter` reads, "Whenever a creature enters the battlefield, Unstable Shapeshifter becomes a copy of that creature and gains this ability." It's affected by :mtgtip:`Giant Growth`, which reads "Target creature gets +3/+3 until end of turn." If a creature enters the battlefield later this turn, Unstable Shapeshifter will become a copy of that creature, but it will still get +3/+3 from the Giant Growth.
 
 .. _mtgcr-706-5:
 
 706.5
 -----
 An object that enters the battlefield "as a copy" or "that's a copy" of another object becomes a copy as it enters the battlefield. It doesn't enter the battlefield, and then become a copy of that permanent. If the text that's being copied includes any abilities that replace the enters-the-battlefield event (such as "enters the battlefield with" or "as [this] enters the battlefield" abilities), those abilities will take effect. Also, any enters-the-battlefield triggered abilities of the copy will have a chance to trigger.
-Example: Skyshroud Behemoth reads, "Fading 2 (This creature enters the battlefield with two fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)" and "Skyshroud Behemoth enters the battlefield tapped." A Clone that enters the battlefield as a copy of a Skyshroud Behemoth will also enter the battlefield tapped with two fade counters on it.
-Example: Wall of Omens reads, "When Wall of Omens enters the battlefield, draw a card." A Clone enters the battlefield as a copy of Wall of Omens. The Clone has the Wall's enters-the-battlefield triggered ability, so the Clone's controller draws a card.
+
+**Example:** :mtgtip:`Skyshroud Behemoth` reads, "Fading 2 (This creature enters the battlefield with two fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)" and "Skyshroud Behemoth enters the battlefield tapped." A :mtgtip:`Clone` that enters the battlefield as a copy of a Skyshroud Behemoth will also enter the battlefield tapped with two fade counters on it.
+
+**Example:** :mtgtip:`Wall of Omens` reads, "When Wall of Omens enters the battlefield, draw a card." A :mtgtip:`Clone` enters the battlefield as a copy of Wall of Omens. The Clone has the Wall's enters-the-battlefield triggered ability, so the Clone's controller draws a card.
 
 .. _mtgcr-706-6:
 
 706.6
 -----
 When copying a permanent, any choices that have been made for that permanent aren't copied. Instead, if an object enters the battlefield as a copy of another permanent, the object's controller will get to make any "as [this] enters the battlefield" choices for it.
-Example: A Clone enters the battlefield as a copy of Adaptive Automaton. Adaptive Automaton reads, in part, "As Adaptive Automaton enters the battlefield, choose a creature type." The Clone won't copy the creature type choice of the Automaton; rather, the controller of the Clone will get to make a new choice.
+
+**Example:** A :mtgtip:`Clone` enters the battlefield as a copy of :mtgtip:`Adaptive Automaton`. Adaptive Automaton reads, in part, "As Adaptive Automaton enters the battlefield, choose a creature type." The Clone won't copy the creature type choice of the Automaton; rather, the controller of the Clone will get to make a new choice.
 
 .. _mtgcr-706-7:
 
@@ -10119,8 +10269,10 @@ If a pair of linked abilities are copied, those abilities will be similarly link
 706.7a
 ------
 If an ability causes a player to "choose a [value]" or "name a card," and a second, linked ability refers to that choice, the second ability is the only ability that can refer to that choice. An object doesn't "remember" that choice and use it for other abilities it may copy later. If an object copies an ability that refers to a choice, but either (a) doesn't copy that ability's linked ability or (b) does copy the linked ability but no choice is made for it, then the choice is considered to be "undefined." If an ability refers to an undefined choice, that part of the ability won't do anything.
-Example: Voice of All enters the battlefield and Unstable Shapeshifter copies it. Voice of All reads, in part, "As Voice of All enters the battlefield, choose a color." and "Voice of All has protection from the chosen color." Unstable Shapeshifter never had a chance for a color to be chosen for it, because it didn't enter the battlefield as a Voice of All card, so the protection ability doesn't protect it from anything at all.
-Example: A Vesuvan Doppelganger enters the battlefield as a copy of Voice of All, and the Doppelganger's controller chooses blue. Later, the Doppelganger copies Quirion Elves, which has the ability, "|tap|: Add one mana of the chosen color to your mana pool." Even though a color was chosen for the Doppelganger, it wasn't chosen for the ability linked to the mana ability copied from the Elves. If that mana ability of the Doppelganger is activated, it will not produce mana.
+
+**Example:** :mtgtip:`Voice of All` enters the battlefield and :mtgtip:`Unstable Shapeshifter` copies it. Voice of All reads, in part, "As Voice of All enters the battlefield, choose a color." and "Voice of All has protection from the chosen color." Unstable Shapeshifter never had a chance for a color to be chosen for it, because it didn't enter the battlefield as a Voice of All card, so the protection ability doesn't protect it from anything at all.
+
+**Example:** A :mtgtip:`Vesuvan Doppelganger` enters the battlefield as a copy of :mtgtip:`Voice of All`, and the Doppelganger's controller chooses blue. Later, the Doppelganger copies :mtgtip:`Quirion Elves`, which has the ability, "|tap|: Add one mana of the chosen color to your mana pool." Even though a color was chosen for the Doppelganger, it wasn't chosen for the ability linked to the mana ability copied from the Elves. If that mana ability of the Doppelganger is activated, it will not produce mana.
 
 .. _mtgcr-706-8:
 
@@ -10139,7 +10291,8 @@ Copy effects may include modifications or exceptions to the copying process.
 706.9a
 ------
 Some copy effects cause the copy to gain an ability as part of the copying process. This ability becomes part of the copiable values for the copy, along with any other abilities that were copied.
-Example: Quirion Elves enters the battlefield and an Unstable Shapeshifter copies it. The copiable values of the Shapeshifter now match those of the Elves, except that the Shapeshifter also has the ability "Whenever a creature enters the battlefield, Unstable Shapeshifter becomes a copy of that creature and gains this ability." Then a Clone enters the battlefield as a copy of the Unstable Shapeshifter. The Clone copies the new copiable values of the Shapeshifter, including the ability that the Shapeshifter gave itself when it copied the Elves.
+
+**Example:** :mtgtip:`Quirion Elves` enters the battlefield and an :mtgtip:`Unstable Shapeshifter` copies it. The copiable values of the Shapeshifter now match those of the Elves, except that the Shapeshifter also has the ability "Whenever a creature enters the battlefield, Unstable Shapeshifter becomes a copy of that creature and gains this ability." Then a :mtgtip:`Clone` enters the battlefield as a copy of the Unstable Shapeshifter. The Clone copies the new copiable values of the Shapeshifter, including the ability that the Shapeshifter gave itself when it copied the Elves.
 
 .. _mtgcr-706-9b:
 
@@ -10152,22 +10305,26 @@ Some copy effects specifically state that they don't copy certain characteristic
 706.9c
 ------
 Some copy effects modify a characteristic as part of the copying process. The final value(s) for that characteristic becomes part of the copiable values for the copy.
-Example: Copy Artifact is an enchantment that reads, "You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield, except it's an enchantment in addition to its other types." It enters the battlefield as a copy of Juggernaut. The copiable values of the Copy Artifact now match those of Juggernaut with one modification: its types are now artifact, creature, and enchantment.
+
+**Example:** :mtgtip:`Copy Artifact` is an enchantment that reads, "You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield, except it's an enchantment in addition to its other types." It enters the battlefield as a copy of :mtgtip:`Juggernaut`. The copiable values of the Copy Artifact now match those of Juggernaut with one modification: its types are now artifact, creature, and enchantment.
 
 .. _mtgcr-706-9d:
 
 706.9d
 ------
 When applying a copy effect that doesn't copy a certain characteristic, retains an original value for a certain characteristic, or modifies the final value of a certain characteristic, any characteristic-defining ability (see rule :ref:`604.3 <mtgcr-604-3>`) of the object being copied that defines that characteristic is not copied. If that characteristic is color, any color indicator (see rule :ref:`204 <mtgcr-204>`) of that object is also not copied.
-Example: Quicksilver Gargantuan is a creature that reads, "You may have Quicksilver Gargantuan enter the battlefield as a copy of any creature on the battlefield, except it's still 7/7." Quicksilver Gargantuan enters the battlefield as a copy of Tarmogoyf, which has a characteristic-defining ability that defines its power and toughness. Quicksilver Gargantuan does not have that ability. It will be 7/7.
+
+**Example:** :mtgtip:`Quicksilver Gargantuan` is a creature that reads, "You may have Quicksilver Gargantuan enter the battlefield as a copy of any creature on the battlefield, except it's still 7/7." Quicksilver Gargantuan enters the battlefield as a copy of :mtgtip:`Tarmogoyf`, which has a characteristic-defining ability that defines its power and toughness. Quicksilver Gargantuan does not have that ability. It will be 7/7.
 
 .. _mtgcr-706-10:
 
 706.10
 ------
 To copy a spell or activated ability means to put a copy of it onto the stack; a copy of a spell isn't cast and a copy of an activated ability isn't activated. A copy of a spell or ability copies both the characteristics of the spell or ability and all decisions made for it, including modes, targets, the value of X, and additional or alternative costs. (See rule :ref:`601 <mtgcr-601>`, "Casting Spells.") Choices that are normally made on resolution are not copied. If an effect of the copy refers to objects used to pay its costs, it uses the objects used to pay the costs of the original spell or ability. A copy of a spell is owned by the player under whose control it was put on the stack. A copy of a spell or ability is controlled by the player under whose control it was put on the stack. A copy of a spell is itself a spell, even though it has no spell card associated with it. A copy of an ability is itself an ability.
-Example: A player casts Fork, targeting an Emerald Charm. Fork reads, "Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy." Emerald Charm is a green instant that reads, "Choose one -- Untap target permanent; or destroy target non-Aura enchantment; or target creature loses flying until end of turn." When the Fork resolves, it puts a copy of the Emerald Charm on the stack except the copy is red, not green. The copy has the same mode that was chosen for the original Emerald Charm. It does not necessarily have the same target, but only because Fork allows choosing of new targets.
-Example: Fling is an instant that reads, "As an additional cost to cast Fling, sacrifice a creature" and "Fling deals damage equal to the sacrificed creature's power to target creature or player." When determining how much damage a copy of Fling deals, it checks the power of the creature sacrificed to pay for the original Fling.
+
+**Example:** A player casts :mtgtip:`Fork`, targeting an :mtgtip:`Emerald Charm`. Fork reads, "Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy." Emerald Charm is a green instant that reads, "Choose one -- Untap target permanent; or destroy target non-Aura enchantment; or target creature loses flying until end of turn." When the Fork resolves, it puts a copy of the Emerald Charm on the stack except the copy is red, not green. The copy has the same mode that was chosen for the original Emerald Charm. It does not necessarily have the same target, but only because Fork allows choosing of new targets.
+
+**Example:** :mtgtip:`Fling` is an instant that reads, "As an additional cost to cast Fling, sacrifice a creature" and "Fling deals damage equal to the sacrificed creature's power to target creature or player." When determining how much damage a copy of Fling deals, it checks the power of the creature sacrificed to pay for the original Fling.
 
 .. _mtgcr-706-10a:
 
@@ -10192,7 +10349,8 @@ Some effects copy a spell or ability and state that its controller may choose ne
 706.11
 ------
 If an effect refers to a permanent by name, the effect still tracks that permanent even if it changes names or becomes a copy of something else.
-Example: An Unstable Shapeshifter copies a Crazed Armodon. Crazed Armodon reads, "|mana_g|: Crazed Armodon gets +3/+0 and gains trample until end of turn. Destroy Crazed Armodon at the beginning of the next end step. Activate this ability only once each turn." If this ability of the Shapeshifter is activated, the Shapeshifter will be destroyed at the beginning of the next end step, even if it's no longer a copy of Crazed Armodon at that time.
+
+**Example:** An :mtgtip:`Unstable Shapeshifter` copies a :mtgtip:`Crazed Armodon`. Crazed Armodon reads, "|mana_g|: Crazed Armodon gets +3/+0 and gains trample until end of turn. Destroy Crazed Armodon at the beginning of the next end step. Activate this ability only once each turn." If this ability of the Shapeshifter is activated, the Shapeshifter will be destroyed at the beginning of the next end step, even if it's no longer a copy of Crazed Armodon at that time.
 
 .. _mtgcr-706-12:
 
@@ -10323,8 +10481,10 @@ Although split cards have two castable halves, each split card is only one card.
 708.5
 -----
 Anything that asks for a particular characteristic of a split card while it's in a zone other than the stack gets two answers (one for each of the split card's two halves). Anything that asks for a particular characteristic of a fused split spell gets two answers. Anything that asks for a particular characteristic of a split card while it's a spell on the stack or that asks for the converted mana cost of a fused split spell gets one answer.
-Example: Infernal Genesis has an ability that reads, "At the beginning of each player's upkeep, that player puts the top card from his or her library into his or her graveyard. He or she then puts X 1/1 black Minion creature tokens onto the battlefield, where X is that card's converted mana cost." If the top card of your library is Assault/Battery, which has converted mana costs of 1 and 4, when this ability resolves, you simultaneously put one and four creature tokens onto the battlefield, for a total of five.
-Example: Spell Blast says "Counter target spell with converted mana cost X." If a player wants to cast Spell Blast and choose the fused split spell Breaking/Entering, which has mana costs |mana_u| |mana_b| and |mana_4| |mana_b| |mana_r|, as the target, that player must choose 8 as the value of X.
+
+**Example:** :mtgtip:`Infernal Genesis` has an ability that reads, "At the beginning of each player's upkeep, that player puts the top card from his or her library into his or her graveyard. He or she then puts X 1/1 black Minion creature tokens onto the battlefield, where X is that card's converted mana cost." If the top card of your library is :mtgtip:`Assault/Battery`, which has converted mana costs of 1 and 4, when this ability resolves, you simultaneously put one and four creature tokens onto the battlefield, for a total of five.
+
+**Example:** :mtgtip:`Spell Blast` says "Counter target spell with converted mana cost X." If a player wants to cast Spell Blast and choose the fused split spell :mtgtip:`Breaking/Entering`, which has mana costs |mana_u| |mana_b| and |mana_4| |mana_b| |mana_r|, as the target, that player must choose 8 as the value of X.
 
 .. _mtgcr-708-6:
 
@@ -10337,7 +10497,8 @@ Some effects perform comparisons involving one or more split cards in a zone oth
 708.6a
 ------
 Anything that performs a positive comparison (such as asking if a card is red) or a relative comparison (such as asking if a card's converted mana cost is 3 or less) involving  one or more split cards in any zone other than the stack or involving one or more fused split spells gets only one answer. This answer is "yes" if either side of each split card in the comparison would return a "yes" answer if compared individually.
-Example: Void reads, "Choose a number. Destroy all artifacts and creatures with converted mana cost equal to that number. Then target player reveals his or her hand and discards all nonland cards with converted mana cost equal to the number." If a player casts Void and chooses 1, his or her opponent would discard Assault/Battery because its converted mana costs are 1 and 4. The same is true if the player chooses 4. If the player chooses 5, however, Assault/Battery would be unaffected.
+
+**Example:** :mtgtip:`Void` reads, "Choose a number. Destroy all artifacts and creatures with converted mana cost equal to that number. Then target player reveals his or her hand and discards all nonland cards with converted mana cost equal to the number." If a player casts Void and chooses 1, his or her opponent would discard :mtgtip:`Assault/Battery` because its converted mana costs are 1 and 4. The same is true if the player chooses 4. If the player chooses 5, however, Assault/Battery would be unaffected.
 
 .. _mtgcr-708-6b:
 
@@ -10350,7 +10511,8 @@ Anything that performs a negative comparison (such as asking if cards have diffe
 708.6c
 ------
 If anything performs a comparison involving multiple characteristics or values of one or more split cards in any zone other than the stack or involving multiple characteristics or values of one or more fused split spells, each characteristic or value is compared separately. If each of the individual comparisons would return a "yes" answer, the whole comparison returns a "yes" answer. The individual comparisons may involve different halves of the same split card.
-Example: Sunforger has an ability that reads, "|mana_r| |mana_w|,Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library." This ability can be used to cast either half of Research/Development, as Research has converted mana cost 2 (even though Development has converted mana cost 5) and Development is red (even though Research is neither red nor white).
+
+**Example:** :mtgtip:`Sunforger` has an ability that reads, "|mana_r| |mana_w|,Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library." This ability can be used to cast either half of :mtgtip:`Research/Development`, as Research has converted mana cost 2 (even though Development has converted mana cost 5) and Development is red (even though Research is neither red nor white).
 
 .. _mtgcr-708-7:
 
@@ -10392,7 +10554,8 @@ A flip card's color and mana cost don't change if the permanent is flipped. Also
 709.2
 -----
 In every zone other than the battlefield, and also on the battlefield before the permanent flips, a flip card has only the normal characteristics of the card. Once a permanent is flipped, its normal name, text box, type line, power, and toughness don't apply and the alternative versions of those characteristics apply instead.
-Example: Akki Lavarunner is a nonlegendary creature that flips into a legendary creature named Tok-Tok, Volcano Born. An effect that says "Search your library for a legendary card" can't find this flip card. An effect that says "Legendary creatures get +2/+2" doesn't affect Akki Lavarunner, but it does affect Tok-Tok.
+
+**Example:** :mtgtip:`Akki Lavarunner` is a nonlegendary creature that flips into a legendary creature named :mtgtip:`Tok-Tok, Volcano Born`. An effect that says "Search your library for a legendary card" can't find this flip card. An effect that says "Legendary creatures get +2/+2" doesn't affect Akki Lavarunner, but it does affect Tok-Tok.
 
 .. _mtgcr-709-3:
 
@@ -10523,8 +10686,10 @@ While a double-faced permanent's back face is up, it has only the characteristic
 711.3
 -----
 Except for determining whether or not a permanent can transform, a spell, ability, effect, or rule that needs information about a double-faced permanent sees only the information given by the face that's currently up.
-Example: A Clone enters the battlefield as a copy of Wildblood Pack (the back face of a double-faced card). The Clone will be a copy of the Wildblood Pack. Because the Clone is itself not a double-faced card, it can't transform.
-Example: A player casts Cytoshape, causing a Kruin Outlaw (the front face of a double-faced card) to become a copy of Elite Vanguard (a 2/1 Human Soldier creature) until end of turn. The player then casts Moonmist, which reads, in part, "Transform all Humans." Because the copy of Elite Vanguard is a double-faced card, it will transform. The resulting permanent will have its back face up, but it will still be a copy of Elite Vanguard that turn.
+
+**Example:** A :mtgtip:`Clone` enters the battlefield as a copy of :mtgtip:`Wildblood Pack` (the back face of a double-faced card). The Clone will be a copy of the Wildblood Pack. Because the Clone is itself not a double-faced card, it can't transform.
+
+**Example:** A player casts :mtgtip:`Cytoshape`, causing a :mtgtip:`Kruin Outlaw` (the front face of a double-faced card) to become a copy of :mtgtip:`Elite Vanguard` (a 2/1 Human Soldier creature) until end of turn. The player then casts :mtgtip:`Moonmist`, which reads, in part, "Transform all Humans." Because the copy of Elite Vanguard is a double-faced card, it will transform. The resulting permanent will have its back face up, but it will still be a copy of Elite Vanguard that turn.
 
 .. _mtgcr-711-4:
 
@@ -10549,7 +10714,8 @@ A double-faced permanent always has the status "face up" (see rule :ref:`110.6 <
 711.7
 -----
 When a double-faced permanent transforms, it doesn't become a new object. Any effects that applied to that permanent will continue to apply to it after it transforms.
-Example: An effect gives Village Ironsmith (the front face of a double-faced card) +2/+2 until end of turn and then Village Ironsmith transforms into Ironfang. Ironfang will continue to get +2/+2 until end of turn.
+
+**Example:** An effect gives :mtgtip:`Village Ironsmith` (the front face of a double-faced card) +2/+2 until end of turn and then Village Ironsmith transforms into :mtgtip:`Ironfang`. Ironfang will continue to get +2/+2 until end of turn.
 
 .. _mtgcr-711-8:
 
@@ -10627,29 +10793,34 @@ Only control of the player changes. All objects are controlled by their normal c
 712.4
 -----
 If information about an object would be visible to the player being controlled, it's visible to both that player and the controller of the player.
-Example: The controller of a player can see that player's hand and the face of any face-down creatures he or she controls.
+
+**Example:** The controller of a player can see that player's hand and the face of any face-down creatures he or she controls.
 
 .. _mtgcr-712-5:
 
 712.5
 -----
 While controlling another player, a player makes all choices and decisions the controlled player is allowed to make or is told to make by the rules or by any objects. This includes choices and decisions about what to play, and choices and decisions called for by spells and abilities.
-Example: The controller of another player decides which spells that player casts and what those spells target, and makes any required decisions when those spells resolve.
-Example: The controller of another player during his or her turn decides which of that player's creatures attack, which player or planeswalker each one attacks, what the damage assignment order of the creatures that block them is (if any of the attacking creatures are blocked by multiple creatures), and how those attacking creatures assign their combat damage.
+
+**Example:** The controller of another player decides which spells that player casts and what those spells target, and makes any required decisions when those spells resolve.
+
+**Example:** The controller of another player during his or her turn decides which of that player's creatures attack, which player or planeswalker each one attacks, what the damage assignment order of the creatures that block them is (if any of the attacking creatures are blocked by multiple creatures), and how those attacking creatures assign their combat damage.
 
 .. _mtgcr-712-5a:
 
 712.5a
 ------
 The controller of another player can use only that player's resources (cards, mana, and so on) to pay costs for that player.
-Example: If the controller of a player decides that the controlled player will cast a spell with an additional cost of discarding cards, the cards are discarded from the controlled player's hand.
+
+**Example:** If the controller of a player decides that the controlled player will cast a spell with an additional cost of discarding cards, the cards are discarded from the controlled player's hand.
 
 .. _mtgcr-712-5b:
 
 712.5b
 ------
 The controller of another player can't make choices or decisions for that player that aren't called for by the rules or by any objects. The controller also can't make any choices or decisions for the player that would be called for by the tournament rules.
-Example: The player who's being controlled still chooses whether he or she leaves to visit the restroom, trades a card to someone else, agrees to an intentional draw, or calls a judge about an error or infraction.
+
+**Example:** The player who's being controlled still chooses whether he or she leaves to visit the restroom, trades a card to someone else, agrees to an intentional draw, or calls a judge about an error or infraction.
 
 .. _mtgcr-712-6:
 
@@ -10738,7 +10909,8 @@ The starting player in the new game is the player who controlled the spell or ab
 714.2
 -----
 All *Magic* cards involved in the game that was restarted when it ended, including phased-out permanents and nontraditional *Magic* cards, are involved in the new game, even if those cards were not originally involved in the restarted game. Ownership of cards in the new game doesn't change, regardless of their location when the new game begins.
-Example: A player casts Living Wish, bringing a creature card into the game from outside the game. Then that game is restarted. The creature card will be part of that player's library when the new game begins.
+
+**Example:** A player casts :mtgtip:`Living Wish`, bringing a creature card into the game from outside the game. Then that game is restarted. The creature card will be part of that player's library when the new game begins.
 
 .. _mtgcr-714-3:
 
@@ -10852,7 +11024,8 @@ Some effects can bring cards into a game from outside of it. If a card is brough
 715.5
 -----
 At the end of a subgame, each player takes all cards he or she owns that are in the subgame other than those in the subgame command zone, puts them into his or her main-game library, then shuffles them. This includes cards in the subgame's exile zone. Except as specified in rules 715.5a-c, all other objects in the subgame cease to exist, as do the zones created for the subgame. The main game continues from the point at which it was discontinued: First, the spell or ability that created the subgame finishes resolving, even if it was created by a spell card that's no longer on the stack. Then, if any main-game abilities triggered while the subgame was in progress due to cards being removed from the main game, those abilities are put onto the stack.
-Example: If a card was brought into the subgame either from the main game or from outside the main game, that card will be put into its owner's main-game library when the subgame ends.
+
+**Example:** If a card was brought into the subgame either from the main game or from outside the main game, that card will be put into its owner's main-game library when the subgame ends.
 
 .. _mtgcr-715-5a:
 
@@ -10918,14 +11091,16 @@ Taking a shortcut follows the following procedure.
 716.2a
 ------
 At any point in the game, the player with priority may suggest a shortcut by describing a sequence of game choices, for all players, that may be legally taken based on the current game state and the predictable results of the sequence of choices. This sequence may be a non-repetitive series of choices, a loop that repeats a specified number of times, multiple loops, or nested loops, and may even cross multiple turns. It can't include conditional actions, where the outcome of a game event determines the next action a player takes. The ending point of this sequence must be a place where a player has priority, though it need not be the player proposing the shortcut.
-Example: A player controls a creature enchanted by Presence of Gond, which grants the creature the ability "|tap|: Put a 1/1 green Elf Warrior creature token onto the battlefield," and another player controls Intruder Alarm, which reads, in part, "Whenever a creature enters the battlefield, untap all creatures." When the player has priority, he may suggest "I'll create a million tokens," indicating the sequence of activating the creature's ability, all players passing priority, letting the creature's ability resolve and put a token onto the battlefield (which causes Intruder Alarm's ability to trigger), Intruder Alarm's controller putting that triggered ability on the stack, all players passing priority, Intruder Alarm's triggered ability resolving, all players passing priority until the player proposing the shortcut has priority, and repeating that sequence 999,999 more times, ending just after the last token-creating ability resolves.
+
+**Example:** A player controls a creature enchanted by :mtgtip:`Presence of Gond`, which grants the creature the ability "|tap|: Put a 1/1 green Elf Warrior creature token onto the battlefield," and another player controls :mtgtip:`Intruder Alarm`, which reads, in part, "Whenever a creature enters the battlefield, untap all creatures." When the player has priority, he may suggest "I'll create a million tokens," indicating the sequence of activating the creature's ability, all players passing priority, letting the creature's ability resolve and put a token onto the battlefield (which causes Intruder Alarm's ability to trigger), Intruder Alarm's controller putting that triggered ability on the stack, all players passing priority, Intruder Alarm's triggered ability resolving, all players passing priority until the player proposing the shortcut has priority, and repeating that sequence 999,999 more times, ending just after the last token-creating ability resolves.
 
 .. _mtgcr-716-2b:
 
 716.2b
 ------
 Each other player, in turn order starting after the player who suggested the shortcut, may either accept the proposed sequence, or shorten it by naming a place where he or she will make a game choice that's different than what's been proposed. (The player doesn't need to specify at this time what the new choice will be.) This place becomes the new ending point of the proposed sequence.
-Example: The active player draws a card during her draw step, then says, "Go." The nonactive player is holding Into the Fray (an instant that says "Target creature attacks this turn if able") and says, "I'd like to cast a spell during your beginning of combat step." The current proposed shortcut is that all players pass priority at all opportunities during the turn until the nonactive player has priority during the beginning of combat step.
+
+**Example:** The active player draws a card during her draw step, then says, "Go." The nonactive player is holding :mtgtip:`Into the Fray` (an instant that says "Target creature attacks this turn if able") and says, "I'd like to cast a spell during your beginning of combat step." The current proposed shortcut is that all players pass priority at all opportunities during the turn until the nonactive player has priority during the beginning of combat step.
 
 .. _mtgcr-716-2c:
 
@@ -10938,7 +11113,8 @@ Once the last player has either accepted or shortened the shortcut proposal, the
 716.3
 -----
 Sometimes a loop can be fragmented, meaning that each player involved in the loop performs an independent action that results in the same game state being reached multiple times. If that happens, the active player (or, if the active player is not involved in the loop, the first player in turn order who is involved) must then make a different game choice so the loop does not continue.
-Example: In a two-player game, the active player controls a creature with the ability "|mana_0|: [This creature] gains flying," the nonactive player controls a permanent with the ability "|mana_0|: Target creature loses flying," and nothing in the game cares how many times an ability has been activated. Say the active player activates his creature's ability, it resolves, then the nonactive player activates her permanent's ability targeting that creature, and it resolves. This returns the game to a game state it was at before. The active player must make a different game choice (in other words, anything other than activating that creature's ability again). The creature doesn't have flying. Note that the nonactive player could have prevented the fragmented loop simply by not activating her permanent's ability, in which case the creature would have had flying. The nonactive player always has the final choice and is therefore able to determine whether the creature has flying.
+
+**Example:** In a two-player game, the active player controls a creature with the ability "|mana_0|: [This creature] gains flying," the nonactive player controls a permanent with the ability "|mana_0|: Target creature loses flying," and nothing in the game cares how many times an ability has been activated. Say the active player activates his creature's ability, it resolves, then the nonactive player activates her permanent's ability targeting that creature, and it resolves. This returns the game to a game state it was at before. The active player must make a different game choice (in other words, anything other than activating that creature's ability again). The creature doesn't have flying. Note that the nonactive player could have prevented the fragmented loop simply by not activating her permanent's ability, in which case the creature would have had flying. The nonactive player always has the final choice and is therefore able to determine whether the creature has flying.
 
 .. _mtgcr-716-4:
 
@@ -10951,7 +11127,8 @@ If a loop contains only mandatory actions, the game is a draw. (See rules 104.4b
 716.5
 -----
 No player can be forced to perform an action that would end a loop other than actions called for by objects involved in the loop.
-Example: A player controls Seal of Cleansing, an enchantment that reads, "Sacrifice Seal of Cleansing: Destroy target artifact or enchantment." A mandatory loop that involves an artifact begins. The player is not forced to sacrifice Seal of Cleansing to destroy the artifact and end the loop.
+
+**Example:** A player controls :mtgtip:`Seal of Cleansing`, an enchantment that reads, "Sacrifice Seal of Cleansing: Destroy target artifact or enchantment." A mandatory loop that involves an artifact begins. The player is not forced to sacrifice Seal of Cleansing to destroy the artifact and end the loop.
 
 .. _mtgcr-716-6:
 
@@ -11015,10 +11192,14 @@ Unlike two-player games, multiplayer games can continue after one or more player
 800.4a
 ------
 When a player leaves the game, all objects (see rule :ref:`109 <mtgcr-109>`) owned by that player leave the game and any effects which give that player control of any objects or players end. Then, if that player controlled any objects on the stack not represented by cards, those objects cease to exist. Then, if there are any objects still controlled by that player, those objects are exiled. This is not a state-based action. It happens as soon as the player leaves the game. If the player who left the game had priority at the time he or she left, priority passes to the next player in turn order who's still in the game.
-Example: Alex casts Mind Control, an Aura that reads, "You control enchanted creature," on Bianca's Assault Griffin. If Alex leaves the game, so does Mind Control, and Assault Griffin reverts to Bianca's control. If, instead, Bianca leaves the game, so does Assault Griffin, and Mind Control is put into Alex's graveyard.
-Example: Alex casts Act of Treason, which reads, in part, "Gain control of target creature until end of turn," targeting Bianca's Runeclaw Bears. If Alex leaves the game, Act of Treason's change-of-control effect ends and Runeclaw Bears reverts to Bianca's control.
-Example: Alex casts Bribery, which reads, "Search target opponent's library for a creature card and put that card onto the battlefield under your control. Then that player shuffles his or her library," targeting Bianca. Alex puts Serra Angel onto the battlefield from Bianca's library. If Bianca leaves the game, Serra Angel also leaves the game. If, instead, Alex leaves the game, Serra Angel is exiled.
-Example: Alex controls Genesis Chamber, which reads, "Whenever a nontoken creature enters the battlefield, if Genesis Chamber is untapped, that creature's controller puts a 1/1 colorless Myr artifact creature token onto the battlefield." If Alex leaves the game, all such Myr tokens that entered the battlefield under Alex's control leave the game, and all such Myr tokens that entered the battlefield under any other player's control remain in the game.
+
+**Example:** Alex casts :mtgtip:`Mind Control`, an Aura that reads, "You control enchanted creature," on Bianca's :mtgtip:`Assault Griffin`. If Alex leaves the game, so does Mind Control, and Assault Griffin reverts to Bianca's control. If, instead, Bianca leaves the game, so does Assault Griffin, and Mind Control is put into Alex's graveyard.
+
+**Example:** Alex casts :mtgtip:`Act of Treason`, which reads, in part, "Gain control of target creature until end of turn," targeting Bianca's :mtgtip:`Runeclaw Bears`. If Alex leaves the game, Act of Treason's change-of-control effect ends and Runeclaw Bears reverts to Bianca's control.
+
+**Example:** Alex casts :mtgtip:`Bribery`, which reads, "Search target opponent's library for a creature card and put that card onto the battlefield under your control. Then that player shuffles his or her library," targeting Bianca. Alex puts :mtgtip:`Serra Angel` onto the battlefield from Bianca's library. If Bianca leaves the game, Serra Angel also leaves the game. If, instead, Alex leaves the game, Serra Angel is exiled.
+
+**Example:** Alex controls :mtgtip:`Genesis Chamber`, which reads, "Whenever a nontoken creature enters the battlefield, if Genesis Chamber is untapped, that creature's controller puts a 1/1 colorless Myr artifact creature token onto the battlefield." If Alex leaves the game, all such Myr tokens that entered the battlefield under Alex's control leave the game, and all such Myr tokens that entered the battlefield under any other player's control remain in the game.
 
 .. _mtgcr-800-4b:
 
@@ -11037,7 +11218,8 @@ If an effect that gives a player still in the game control of an object ends, th
 800.4d
 ------
 If an object that would be owned by a player who has left the game would be created in any zone, it isn't created. If a triggered ability that would be controlled by a player who has left the game would be put onto the stack, it isn't put on the stack.
-Example: Astral Slide is an enchantment that reads, "Whenever a player cycles a card, you may exile target creature. If you do, return that creature to the battlefield under its owner's control at the beginning of the next end step." During Alex's turn, Bianca uses Astral Slide's ability to exile Alex's Hypnotic Specter. Before the end of that turn, Bianca leaves the game. At the beginning of the end step, the delayed triggered ability generated by Astral Slide that would return Hypnotic Specter to the battlefield triggers, but it isn't put on the stack. Hypnotic Specter never returns to the battlefield.
+
+**Example:** :mtgtip:`Astral Slide` is an enchantment that reads, "Whenever a player cycles a card, you may exile target creature. If you do, return that creature to the battlefield under its owner's control at the beginning of the next end step." During Alex's turn, Bianca uses Astral Slide's ability to exile Alex's :mtgtip:`Hypnotic Specter`. Before the end of that turn, Bianca leaves the game. At the beginning of the end step, the delayed triggered ability generated by Astral Slide that would return Hypnotic Specter to the battlefield triggers, but it isn't put on the stack. Hypnotic Specter never returns to the battlefield.
 
 .. _mtgcr-800-4e:
 
@@ -11121,8 +11303,10 @@ A player's range of influence is the maximum distance from that player, measured
 801.2a
 ------
 The most commonly chosen limited ranges of influence are 1 seat and 2 seats. Different players may have different ranges of influence.
-Example: A range of influence of 1 means that only you and the players seated directly next to you are within your range of influence.
-Example: A range of influence of 2 means that you and the two players to your left and the two players to your right are within your range of influence.
+
+**Example:** A range of influence of 1 means that only you and the players seated directly next to you are within your range of influence.
+
+**Example:** A range of influence of 2 means that you and the two players to your left and the two players to your right are within your range of influence.
 
 .. _mtgcr-801-2b:
 
@@ -11135,7 +11319,8 @@ A player is always within his or her own range of influence.
 801.2c
 ------
 The particular players within each player's range of influence are determined as each turn begins.
-Example: In a game with a range of influence of 1, Alex is seated to the left of Rob, and Carissa is seated to the right of Rob. Carissa is not in Alex's range of influence. If Rob leaves the game, Carissa will enter Alex's range of influence at the start of the next turn.
+
+**Example:** In a game with a range of influence of 1, Alex is seated to the left of Rob, and Carissa is seated to the right of Rob. Carissa is not in Alex's range of influence. If Rob leaves the game, Carissa will enter Alex's range of influence at the start of the next turn.
 
 .. _mtgcr-801-2d:
 
@@ -11166,21 +11351,24 @@ Some cards require players to make choices. These cards work differently when th
 801.5a
 ------
 If a player is asked to choose an object or player, he or she must choose one within his or her range of influence.
-Example: In a game with a range of influence of 1, Alex is seated to the left of Rob. Alex activates the ability of Cuombajj Witches, which reads, "Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice," targeting Rob and choosing Rob as the opponent who picks the other target. Rob must choose a target that's in both his range of influence and in the range of influence of the controller of Cuombajj Witches. He must therefore choose himself, Alex, or a creature controlled by either himself or Alex.
+
+**Example:** In a game with a range of influence of 1, Alex is seated to the left of Rob. Alex activates the ability of :mtgtip:`Cuombajj Witches`, which reads, "Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice," targeting Rob and choosing Rob as the opponent who picks the other target. Rob must choose a target that's in both his range of influence and in the range of influence of the controller of Cuombajj Witches. He must therefore choose himself, Alex, or a creature controlled by either himself or Alex.
 
 .. _mtgcr-801-5b:
 
 801.5b
 ------
 If a player is asked to choose between one or more options (and not between one or more objects or players), he or she can choose between those options even if those options refer to objects or players outside the player's range of influence.
-Example: Alex, who has a range of influence of 2, is seated to the left of Rob, and Carissa, who has a range of influence of 1, is seated to the right of Rob. Alex casts a spell that reads, "An opponent chooses one -- You draw 2 cards; or each creature you control gets +2/+2 until end of turn," and chooses Carissa to make that choice. Carissa can choose the mode even though Alex is out of her range.
+
+**Example:** Alex, who has a range of influence of 2, is seated to the left of Rob, and Carissa, who has a range of influence of 1, is seated to the right of Rob. Alex casts a spell that reads, "An opponent chooses one -- You draw 2 cards; or each creature you control gets +2/+2 until end of turn," and chooses Carissa to make that choice. Carissa can choose the mode even though Alex is out of her range.
 
 .. _mtgcr-801-5c:
 
 801.5c
 ------
 If an effect requires a choice and there's no player who can make that choice within its controller's range of influence, the closest appropriate player to its controller's left makes that choice.
-Example: In an Emperor game in which all players have range of influence 1, an emperor casts Fact or Fiction, which reads, "Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard." Since no opponent is within the emperor's range of influence, the nearest opponent to the emperor's left separates the cards into piles.
+
+**Example:** In an Emperor game in which all players have range of influence 1, an emperor casts :mtgtip:`Fact or Fiction`, which reads, "Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard." Since no opponent is within the emperor's range of influence, the nearest opponent to the emperor's left separates the cards into piles.
 
 .. _mtgcr-801-6:
 
@@ -11193,14 +11381,16 @@ A player can't activate the activated abilities of an object outside of his or h
 801.7
 -----
 A triggered ability doesn't trigger unless its trigger event happens entirely within the range of influence of its source's controller.
-Example: In a game in which all players have range of influence 1, Alex is seated to the left of Rob. Rob controls two Auras attached to Alex's Runeclaw Bear: One with the trigger condition "Whenever enchanted creature becomes blocked," and one with the trigger condition "Whenever enchanted creature becomes blocked by a creature." Alex's Runeclaw Bear attacks the player to Alex's left and becomes blocked. The ability of Rob's first Aura triggers because the entire event (Runeclaw Bear becomes blocked) happens within Rob's range of influence. The ability of Rob's second Aura doesn't trigger, however, because that event includes the blocking creature, which is out of Rob's range.
+
+**Example:** In a game in which all players have range of influence 1, Alex is seated to the left of Rob. Rob controls two Auras attached to Alex's :mtgtip:`Runeclaw Bear`: One with the trigger condition "Whenever enchanted creature becomes blocked," and one with the trigger condition "Whenever enchanted creature becomes blocked by a creature." Alex's Runeclaw Bear attacks the player to Alex's left and becomes blocked. The ability of Rob's first Aura triggers because the entire event (Runeclaw Bear becomes blocked) happens within Rob's range of influence. The ability of Rob's second Aura doesn't trigger, however, because that event includes the blocking creature, which is out of Rob's range.
 
 .. _mtgcr-801-7a:
 
 801.7a
 ------
 If a trigger event includes an object moving out of or into a player's range of influence, use the game state before or after the event as appropriate to determine whether the triggered ability will trigger. See rule :ref:`603.6 <mtgcr-603-6>`
-Example: Carissa and Alex are outside each other's range of influence. Carissa controls a Runeclaw Bear owned by Alex and they each control an Extractor Demon, a creature which reads, in part, "Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard." The Runeclaw Bear is destroyed and is put into Alex's graveyard. The ability of Alex's Extractor Demon doesn't trigger because the leaves-the-battlefield event was outside Alex's range of influence. The ability of Carissa's Extractor Demon does trigger, even though the creature is going to a graveyard outside her range, because the leaves-the-battlefield event was within her range.
+
+**Example:** Carissa and Alex are outside each other's range of influence. Carissa controls a :mtgtip:`Runeclaw Bear` owned by Alex and they each control an :mtgtip:`Extractor Demon`, a creature which reads, in part, "Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard." The Runeclaw Bear is destroyed and is put into Alex's graveyard. The ability of Alex's Extractor Demon doesn't trigger because the leaves-the-battlefield event was outside Alex's range of influence. The ability of Carissa's Extractor Demon does trigger, even though the creature is going to a graveyard outside her range, because the leaves-the-battlefield event was within her range.
 
 .. _mtgcr-801-8:
 
@@ -11219,15 +11409,18 @@ An Equipment can't equip an object outside its controller's range of influence, 
 801.10
 ------
 Spells and abilities can't affect objects or players outside their controller's range of influence. The parts of the effect that attempt to affect an out-of-range object or player will do nothing. The rest of the effect will work normally.
-Example: In a six-player game in which each player has range of influence 1, Alex casts Pyroclasm, which reads, "Pyroclasm deals 2 damage to each creature." Pyroclasm deals 2 damage to each creature controlled by Alex, the player to Alex's left, and the player to Alex's right. No other creatures are dealt damage.
+
+**Example:** In a six-player game in which each player has range of influence 1, Alex casts :mtgtip:`Pyroclasm`, which reads, "Pyroclasm deals 2 damage to each creature." Pyroclasm deals 2 damage to each creature controlled by Alex, the player to Alex's left, and the player to Alex's right. No other creatures are dealt damage.
 
 .. _mtgcr-801-11:
 
 801.11
 ------
 If a spell or ability requires information from the game, it gets only information from within its controller's range of influence. It doesn't see objects or events outside its controller's range of influence.
-Example: In a six-player game where each player has range of influence 1, Alex controls Coat of Arms, which reads, "Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it." Coat of Arms will boost Alex's creatures based only on what creatures are controlled by Alex, the player to Alex's left, and the player to Alex's right. It won't take other creatures into account.
-Example: In the same game, Rob is sitting to the right of Alex. Coat of Arms will boost Rob's creatures based on what creatures are controlled by players within Alex's range of influence, including the player sitting to Alex's left, who's out of Rob's range of influence.
+
+**Example:** In a six-player game where each player has range of influence 1, Alex controls :mtgtip:`Coat of Arms`, which reads, "Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it." Coat of Arms will boost Alex's creatures based only on what creatures are controlled by Alex, the player to Alex's left, and the player to Alex's right. It won't take other creatures into account.
+
+**Example:** In the same game, Rob is sitting to the right of Alex. :mtgtip:`Coat of Arms` will boost Rob's creatures based on what creatures are controlled by players within Alex's range of influence, including the player sitting to Alex's left, who's out of Rob's range of influence.
 
 .. _mtgcr-801-12:
 
@@ -11246,16 +11439,20 @@ Replacement and prevention effects watch for a particular event to happen and th
 801.13a
 -------
 If a replacement effect tries to cause a spell or ability to affect an object or player outside its controller's range of influence, that portion of the event does nothing.
-Example: Alex casts Lava Axe ("Lava Axe deals 5 damage to target player") targeting Rob. In response, Rob casts Captain's Maneuver ("The next X damage that would be dealt to target creature or player this turn is dealt to another target creature or player instead") with X equal to 3, targeting Carissa. Carissa isn't in Alex's range of influence. When Lava Axe resolves, it deals 2 damage to Rob and no damage to Carissa.
+
+**Example:** Alex casts :mtgtip:`Lava Axe` ("Lava Axe deals 5 damage to target player") targeting Rob. In response, Rob casts :mtgtip:`Captain's Maneuver` ("The next X damage that would be dealt to target creature or player this turn is dealt to another target creature or player instead") with X equal to 3, targeting Carissa. Carissa isn't in Alex's range of influence. When Lava Axe resolves, it deals 2 damage to Rob and no damage to Carissa.
 
 .. _mtgcr-801-13b:
 
 801.13b
 -------
 If a spell or ability creates an effect that prevents damage that would be dealt by a source, it can affect only sources within the spell or ability's controller's range of influence. If a spell or ability creates an effect that prevents damage that would be dealt to a permanent or player, it can affect only permanents and players within the spell or ability's controller's range of influence. If a spell or ability creates an effect that prevents damage, but neither the source nor the would-be recipient of the damage is specified, it prevents damage only if both the source and recipient of that damage are within the spell or ability's controller's range of influence.
-Example: Rob is within Alex's range of influence, but Carissa is not. Alex controls an enchantment that says, "Prevent all damage that would be dealt by creatures." Carissa attacks Rob with a creature. The creature deals combat damage to Rob.
-Example: Rob is within Alex's range of influence, but Carissa is not. Carissa casts Lightning Blast ("Lightning Blast deals 4 damage to target creature or player") targeting Rob. In response, Alex casts Mending Hands ("Prevent the next 4 damage that would be dealt to target creature or player this turn") targeting Rob. The damage to Rob is prevented.
-Example: Rob is within Alex's range of influence, but Carissa is not. Carissa attacks Rob with a creature, and Rob blocks with a creature. Alex casts Fog ("Prevent all combat damage that would be dealt this turn.") Carissa and Rob's creatures deal combat damage to each other.
+
+**Example:** Rob is within Alex's range of influence, but Carissa is not. Alex controls an enchantment that says, "Prevent all damage that would be dealt by creatures." Carissa attacks Rob with a creature. The creature deals combat damage to Rob.
+
+**Example:** Rob is within Alex's range of influence, but Carissa is not. Carissa casts :mtgtip:`Lightning Blast` ("Lightning Blast deals 4 damage to target creature or player") targeting Rob. In response, Alex casts :mtgtip:`Mending Hands` ("Prevent the next 4 damage that would be dealt to target creature or player this turn") targeting Rob. The damage to Rob is prevented.
+
+**Example:** Rob is within Alex's range of influence, but Carissa is not. Carissa attacks Rob with a creature, and Rob blocks with a creature. Alex casts :mtgtip:`Fog` ("Prevent all combat damage that would be dealt this turn.") Carissa and Rob's creatures deal combat damage to each other.
 
 .. _mtgcr-801-14:
 
@@ -11309,7 +11506,8 @@ As the combat phase starts, the attacking player doesn't choose an opponent to b
 802.2a
 ------
 Any rule, object, or effect that refers to a "defending player" refers to one specific defending player, not to all of the defending players. If an ability of an attacking creature refers to a defending player, or a spell or ability refers to both an attacking creature and a defending player, then unless otherwise specified, the defending player it's referring to is the player that creature was attacking at the time it became an attacking creature that combat, or the controller of the planeswalker that creature was attacking at the time it became an attacking creature that combat. If a spell or ability could apply to multiple attacking creatures, the appropriate defending player is individually determined for each of those attacking creatures. If there are multiple defending players that could be chosen, the controller of the spell or ability chooses one.
-Example: Rob attacks Alex with :mtgtip:`Runeclaw Bear` and attacks Carissa with a creature with mountainwalk. Whether the creature with mountainwalk can be blocked depends only on whether Carissa controls a Mountain.
+
+**Example:** Rob attacks Alex with :mtgtip:`Runeclaw Bear` and attacks Carissa with a creature with mountainwalk. Whether the creature with mountainwalk can be blocked depends only on whether Carissa controls a Mountain.
 
 .. _mtgcr-802-3:
 
@@ -11599,7 +11797,8 @@ The Grand Melee variant allows multiple players to take turns at the same time. 
 807.4a
 ------
 There is one turn marker for each full four players in the game.
-Example: A Grand Melee game with sixteen players has four turn markers. A game with fifteen players has three turn markers.
+
+**Example:** A Grand Melee game with sixteen players has four turn markers. A game with fifteen players has three turn markers.
 
 .. _mtgcr-807-4b:
 
@@ -11654,7 +11853,8 @@ If an effect causes a player with a turn marker to take an extra turn after the 
 807.4j
 ------
 If an effect would cause a player to take an extra turn after the current turn, but that player wouldn't have a turn marker at the start of that turn, that player will take the extra turn immediately before his or her next turn instead.
-Example: During Alex's turn, he casts Time Walk, which causes him to take an extra turn after this one. During the same turn, the player to Alex's left leaves the game, which causes the number of turn markers to be reduced. After Alex's current turn ends, his turn marker is removed. He won't take the extra turn from Time Walk until just before his normal turn the next time he receives a turn marker.
+
+**Example:** During Alex's turn, he casts :mtgtip:`Time Walk`, which causes him to take an extra turn after this one. During the same turn, the player to Alex's left leaves the game, which causes the number of turn markers to be reduced. After Alex's current turn ends, his turn marker is removed. He won't take the extra turn from Time Walk until just before his normal turn the next time he receives a turn marker.
 
 .. _mtgcr-807-5:
 
@@ -11761,7 +11961,8 @@ Emperor games use the deploy creatures option (see rule :ref:`804 <mtgcr-804>`).
 809.3c
 ------
 A player can attack only an opponent seated immediately next to him or her.
-Example: At the start of an Emperor game, neither emperor can attack any opponents, even though both of the opposing generals are within their spell range.
+
+**Example:** At the start of an Emperor game, neither emperor can attack any opponents, even though both of the opposing generals are within their spell range.
 
 .. _mtgcr-809-4:
 
@@ -11804,7 +12005,8 @@ The Emperor variant can also be played with any number of equally sized teams. I
 809.6a
 ------
 Each general's range of influence should be the minimum number that allows one general from an opposing team to begin the game within his or her range of influence. Each emperor's range of influence should be the minimum number that allows two generals from opposing teams to begin the game within his or her range of influence. Players should be seated such that no emperor begins the game within the range of influence of another emperor.
-Example: In an Emperor game between two teams of four players each, the player configuration (either clockwise or counterclockwise around the table) should be: Team A general 1, Team A emperor, Team A general 2, Team A general 3, Team B general 1, Team B emperor, Team B general 2, Team B general 3. Each emperor has range of influence 3. Each general 2 has range of influence 2. Each general 1 and general 3 has range of influence 1.
+
+**Example:** In an Emperor game between two teams of four players each, the player configuration (either clockwise or counterclockwise around the table) should be: Team A general 1, Team A emperor, Team A general 2, Team A general 3, Team B general 1, Team B emperor, Team B general 2, Team B general 3. Each emperor has range of influence 3. Each general 2 has range of influence 2. Each general 1 and general 3 has range of influence 1.
 
 .. _mtgcr-809-7:
 
@@ -11878,14 +12080,16 @@ Any one-shot effect that refers to the "defending player" refers to one specific
 810.7c
 ------
 As the declare attackers step begins, the active team declares attackers. If an effect of an object controlled by a defending player prohibits a creature from attacking him or her, that creature can't attack the defending team. The active team has one combined attack, and that set of attacking creatures must be legal as a whole. See rule :ref:`508.1 <mtgcr-508-1>`
-Example: One player in a Two-Headed Giant game controls Teferi's Moat, which says "As Teferi's Moat enters the battlefield, choose a color." and "Creatures of the chosen color without flying can't attack you." Creatures of the chosen color without flying can't attack that player's team.
+
+**Example:** One player in a Two-Headed Giant game controls :mtgtip:`Teferi's Moat`, which says "As Teferi's Moat enters the battlefield, choose a color." and "Creatures of the chosen color without flying can't attack you." Creatures of the chosen color without flying can't attack that player's team.
 
 .. _mtgcr-810-7d:
 
 810.7d
 ------
 As the declare blockers step begins, the defending team declares blockers. Creatures controlled by the defending players can block any attacking creatures. The defending team has one combined block, and that set of blocking creatures must be legal as a whole. See rule :ref:`509.1 <mtgcr-509-1>`
-Example: If an attacking creature has forestwalk and either player on the defending team controls a Forest, the creature can't be blocked.
+
+**Example:** If an attacking creature has forestwalk and either player on the defending team controls a Forest, the creature can't be blocked.
 
 .. _mtgcr-810-7e:
 
@@ -11910,9 +12114,12 @@ The Two-Headed Giant variant uses the normal rules for winning or losing the gam
 810.8a
 ------
 Players win and lose the game only as a team, not as individuals. If either player on a team loses the game, the team loses the game. If either player on a team wins the game, the entire team wins the game. If an effect would prevent a player from winning the game, that player's team can't win the game. If an effect would prevent a player from losing the game, that player's team can't lose the game.
-Example: In a Two-Headed Giant game, a player controls Transcendence, which reads, in part, "You don't lose the game for having 0 or less life." If that player's team's life total is 0 or less, that team doesn't lose the game.
-Example: In a Two-Headed Giant game, a player attempts to draw a card while there are no cards in that player's library. That player loses the game, so that player's entire team loses the game.
-Example: In a Two-Headed Giant game, a player controls Platinum Angel, which reads, "You can't lose the game and your opponents can't win the game." Neither that player nor his or her teammate can lose the game while Platinum Angel is on the battlefield, and neither player on the opposing team can win the game.
+
+**Example:** In a Two-Headed Giant game, a player controls :mtgtip:`Transcendence`, which reads, in part, "You don't lose the game for having 0 or less life." If that player's team's life total is 0 or less, that team doesn't lose the game.
+
+**Example:** In a Two-Headed Giant game, a player attempts to draw a card while there are no cards in that player's library. That player loses the game, so that player's entire team loses the game.
+
+**Example:** In a Two-Headed Giant game, a player controls :mtgtip:`Platinum Angel`, which reads, "You can't lose the game and your opponents can't win the game." Neither that player nor his or her teammate can lose the game while Platinum Angel is on the battlefield, and neither player on the opposing team can win the game.
 
 .. _mtgcr-810-8b:
 
@@ -11937,16 +12144,20 @@ If a team has fifteen or more poison counters, that team loses the game. (This i
 810.9
 -----
 Damage, loss of life, and gaining life happen to each player individually. The result is applied to the team's shared life total.
-Example: In a Two-Headed Giant game, a player casts Flame Rift, which reads, "Flame Rift deals 4 damage to each player." Each team is dealt a total of 8 damage.
+
+**Example:** In a Two-Headed Giant game, a player casts :mtgtip:`Flame Rift`, which reads, "Flame Rift deals 4 damage to each player." Each team is dealt a total of 8 damage.
 
 .. _mtgcr-810-9a:
 
 810.9a
 ------
 If a cost or effect needs to know the value of an individual player's life total, that cost or effect uses the team's life total instead.
-Example: In a Two-Headed Giant game, a player on a team that has 17 life is targeted by Beacon of Immortality, which reads, in part, "Double target player's life total." That player gains 17 life, so the team winds up at 34 life.
-Example: In a Two-Headed Giant game, a player controls Test of Endurance, an enchantment that reads, "At the beginning of your upkeep, if you have 50 or more life, you win the game." At the beginning of that player's upkeep, the player's team wins the game if his or her team's life total is 50 or more.
-Example: In a Two-Headed Giant game, a player on a team that has 11 life controls Lurking Evil, an enchantment that reads, "Pay half your life, rounded up: Lurking Evil becomes a 4/4 Horror creature with flying." To activate the ability, that player must pay 6 life. The team winds up at 5 life.
+
+**Example:** In a Two-Headed Giant game, a player on a team that has 17 life is targeted by :mtgtip:`Beacon of Immortality`, which reads, in part, "Double target player's life total." That player gains 17 life, so the team winds up at 34 life.
+
+**Example:** In a Two-Headed Giant game, a player controls :mtgtip:`Test of Endurance`, an enchantment that reads, "At the beginning of your upkeep, if you have 50 or more life, you win the game." At the beginning of that player's upkeep, the player's team wins the game if his or her team's life total is 50 or more.
+
+**Example:** In a Two-Headed Giant game, a player on a team that has 11 life controls :mtgtip:`Lurking Evil`, an enchantment that reads, "Pay half your life, rounded up: Lurking Evil becomes a 4/4 Horror creature with flying." To activate the ability, that player must pay 6 life. The team winds up at 5 life.
 
 .. _mtgcr-810-9b:
 
@@ -11959,14 +12170,16 @@ If a cost or effect allows both members of a team to pay life simultaneously, th
 810.9c
 ------
 If an effect sets a single player's life total to a specific number, the player gains or loses the necessary amount of life to end up with the new total. The team's life total is adjusted by the amount of life that player gained or lost.
-Example: In a Two-Headed Giant game, a player on a team that has 25 life is targeted by an ability that reads, "Target player's life total becomes 10." That player's life total is considered to be 25, so that player loses 15 life. The team winds up at 10 life.
+
+**Example:** In a Two-Headed Giant game, a player on a team that has 25 life is targeted by an ability that reads, "Target player's life total becomes 10." That player's life total is considered to be 25, so that player loses 15 life. The team winds up at 10 life.
 
 .. _mtgcr-810-9d:
 
 810.9d
 ------
 If an effect would set the life total of each player on a team to a number, that team chooses one of its members. On that team, only that player is affected.
-Example: In a Two-Headed Giant game, one team has 7 life and the other team has 13 life. A player casts Repay in Kind, which reads, "Each player's life total becomes the lowest life total among all players." Each team chooses one if its members to be affected. The result is that the chosen player on the team that has 13 life loses 6 life, so that team's life total winds up at 7.
+
+**Example:** In a Two-Headed Giant game, one team has 7 life and the other team has 13 life. A player casts :mtgtip:`Repay in Kind`, which reads, "Each player's life total becomes the lowest life total among all players." Each team chooses one of its members to be affected. The result is that the chosen player on the team that has 13 life loses 6 life, so that team's life total winds up at 7.
 
 .. _mtgcr-810-9e:
 
@@ -12068,7 +12281,8 @@ The deploy creatures option isn't normally used in the Alternating Teams variant
 811.3
 -----
 At the start of the game, players are seated so that no one is next to a teammate and each team is equally spaced out.
-Example: In an Alternating Teams game with three teams, A, B, and C, the seating around the table at the start of the game is A1, B1, C1, A2, B2, C2, A3, B3, C3, and so on.
+
+**Example:** In an Alternating Teams game with three teams, A, B, and C, the seating around the table at the start of the game is A1, B1, C1, A2, B2, C2, A3, B3, C3, and so on.
 
 .. _mtgcr-811-4:
 
@@ -12341,7 +12555,8 @@ In addition to the normal game materials, each player needs a vanguard card. Eac
 902.4
 -----
 Each player's starting life total is 20 plus or minus the life modifier of his or her vanguard card.
-Example: The life modifier of a player's vanguard card is -3. That player's starting life total is 17.
+
+**Example:** The life modifier of a player's vanguard card is -3. That player's starting life total is 17.
 
 .. _mtgcr-902-5:
 
@@ -12354,14 +12569,16 @@ Each player's starting hand size is seven cards, as modified by the hand modifie
 902.5a
 ------
 If a player takes a mulligan in a Vanguard game, just like in a normal game, that player shuffles his or her hand back into his or her library, then draws a new hand of one fewer cards than he or she had before. (In a multiplayer game, a player's first mulligan is for the same number of cards as he or she had before.)
-Example: The hand modifier of a player's vanguard card is +2. That player starts the game with a hand of 9 cards. If the player takes a mulligan, he or she draws a new hand of 8 cards. The next mulligan is for 7 cards, and so on.
+
+**Example:** The hand modifier of a player's vanguard card is +2. That player starts the game with a hand of 9 cards. If the player takes a mulligan, he or she draws a new hand of 8 cards. The next mulligan is for 7 cards, and so on.
 
 .. _mtgcr-902-5b:
 
 902.5b
 ------
 A player's maximum hand size is seven, as modified by the hand modifier of his or her vanguard card.
-Example: The hand modifier of a player's vanguard card is -1. That player's maximum hand size is six. If that player has more than six cards in his or her hand as the cleanup step begins, he or she will discard all but six of them.
+
+**Example:** The hand modifier of a player's vanguard card is -1. That player's maximum hand size is six. If that player has more than six cards in his or her hand as the cleanup step begins, he or she will discard all but six of them.
 
 .. _mtgcr-902-6:
 
@@ -12397,14 +12614,16 @@ A Commander game may be a two-player game or a multiplayer game. The default mul
 903.3
 -----
 Each deck has a legendary creature card designated as its commander. This designation is not a characteristic of the object represented by the card; rather, it is an attribute of the card itself. The card retains this designation even when it changes zones.
-Example: A commander that's been turned face down (due to Ixidron's effect, for example) is still a commander. A commander that's copying another card (due to Cytoshape's effect, for example) is still a commander. A permanent that's copying a commander (such as a Body Double, for example, copying a commander in a player's graveyard) is not a commander.
+
+**Example:** A commander that's been turned face down (due to :mtgtip:`Ixidron`'s effect, for example) is still a commander. A commander that's copying another card (due to :mtgtip:`Cytoshape`'s effect, for example) is still a commander. A permanent that's copying a commander (such as a :mtgtip:`Body Double`, for example, copying a commander in a player's graveyard) is not a commander.
 
 .. _mtgcr-903-4:
 
 903.4
 -----
 The Commander variant uses color identity to determine what cards can be in a deck with a certain commander. The color identity of a card is the color or colors of any mana symbols in that card's mana cost or rules text, plus any colors defined by its characteristic-defining abilities (see rule :ref:`604.3 <mtgcr-604-3>`) or color indicator (see rule :ref:`204 <mtgcr-204>`).
-Example: Bosh, Iron Golem is a legendary artifact creature with mana cost |mana_8| and the ability "|mana_3| |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to target creature or player." Bosh's color identity is red.
+
+**Example:** :mtgtip:`Bosh, Iron Golem` is a legendary artifact creature with mana cost |mana_8| and the ability "|mana_3| |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to target creature or player." Bosh's color identity is red.
 
 .. _mtgcr-903-4a:
 
@@ -12423,7 +12642,8 @@ Reminder text is ignored when determining a card's color identity. See rule :ref
 903.4c
 ------
 The back face of a double-faced card (see rule :ref:`711 <mtgcr-711>`) is included when determining a card's color identity.
-Example: Civilized Scholar is the front face of a double-faced card with mana cost |mana_2| |mana_u|. Homicidal Brute is the back face of that double-faced card and has a red color indicator. The card's color identity is blue and red.
+
+**Example:** :mtgtip:`Civilized Scholar` is the front face of a double-faced card with mana cost |mana_2| |mana_u|. :mtgtip:`Homicidal Brute` is the back face of that double-faced card and has a red color indicator. The card's color identity is blue and red.
 
 .. _mtgcr-903-5:
 
@@ -12448,14 +12668,16 @@ Other than basic lands, each card in a Commander deck must have a different Engl
 903.5c
 ------
 A card can be included in a Commander deck only if every color in its color identity is also found in the color identity of the deck's commander.
-Example: Wort, the Raidmother is a legendary creature with mana cost |mana_4| |mana_rg| |mana_rg|. Wort's color identity is red and green. Each card in a Wort Commander deck must be only red, only green, both red and green, or have no color. Each mana symbol in the mana cost or rules text of a card in this deck must be only red, only green, both red and green, or have no color.
+
+**Example:** :mtgtip:`Wort, the Raidmother` is a legendary creature with mana cost |mana_4| |mana_rg| |mana_rg|. Wort's color identity is red and green. Each card in a Wort Commander deck must be only red, only green, both red and green, or have no color. Each mana symbol in the mana cost or rules text of a card in this deck must be only red, only green, both red and green, or have no color.
 
 .. _mtgcr-903-5d:
 
 903.5d
 ------
 A card with a basic land type may be included in a Commander deck only if each color of mana it could produce is included in the commander's color identity.
-Example: Wort, the Raidmother's color identity is red and green. A Wort Commander deck may include land cards with the basic land types Mountain and/or Forest. It can't include any land cards with the basic land types Plains, Island, or Swamp.
+
+**Example:** :mtgtip:`Wort, the Raidmother`'s color identity is red and green. A Wort Commander deck may include land cards with the basic land types Mountain and/or Forest. It can't include any land cards with the basic land types Plains, Island, or Swamp.
 
 .. _mtgcr-903-6:
 
@@ -14158,7 +14380,7 @@ Published by Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. W
 .. _Wizards.com/Locator: http://www.wizards.com/Locator/
 .. _MagicTheGathering.com: http://magicthegathering.com/
 .. _Wizards.com/CustomerService: http://wizards.com/CustomerService/
-.. _Wizards.com/Magic/Rules http://wizards.com/Magic/Rules/
-.. _Wizards.com/WPN/Events/Rules.aspx http://Wizards.com/WPN/Events/Rules.aspx
-.. _Gatherer.Wizards.com http://Gatherer.Wizards.com
-.. _Wizards.com/Magic/TCG/Article.aspx?x=mtg/tcg/products/allproducts http://Wizards.com/Magic/TCG/Article.aspx?x=mtg/tcg/products/allproducts
+.. _Wizards.com/Magic/Rules: http://wizards.com/Magic/Rules/
+.. _Wizards.com/WPN/Events/Rules.aspx: http://Wizards.com/WPN/Events/Rules.aspx
+.. _Gatherer.Wizards.com: http://Gatherer.Wizards.com
+.. _Wizards.com/Magic/TCG/Article.aspx?x=mtg/tcg/products/allproducts: http://Wizards.com/Magic/TCG/Article.aspx?x=mtg/tcg/products/allproducts
