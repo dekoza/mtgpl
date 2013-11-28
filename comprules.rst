@@ -52,8 +52,6 @@ To play, each player needs his or her own deck of traditional *Magic* cards, sma
 
 .. _mtgcr-100-2a:
 
-.. _mtgcr-100-2a:
-
 100.2a
 ------
 In constructed play (a way of playing in which each player creates his or her own deck ahead of time), each deck must contain at least sixty cards. A constructed deck may contain any number of basic land cards and no more than four of any card with a particular English name other than basic land cards.
@@ -69,8 +67,6 @@ In limited play (a way of playing in which each player gets the same quantity of
 100.3
 -----
 Some casual variants require additional items, such as specially designated cards, nontraditional *Magic* cards, and dice. See section 9, :ref:`Casual Variants <mtgcr-sec-casual-variants>`.
-
-.. _mtgcr-100-4:
 
 .. _mtgcr-100-4:
 
@@ -339,7 +335,7 @@ In a multiplayer game using the shared team turns option, first each player on t
 
 103.6
 -----
-In a Planechase game, the starting player moves the top card of his or her planar deck off that planar deck and turns it face up. If it's a plane card, that card is the starting plane. If it's a phenomenon card, the player puts that card on the bottom of his or her planar deck and repeats this process until a plane card is turned face up. (See rule 901, "Planechase.")
+In a Planechase game, the starting player moves the top card of his or her planar deck off that planar deck and turns it face up. If it's a plane card, that card is the starting plane. If it's a phenomenon card, the player puts that card on the bottom of his or her planar deck and repeats this process until a plane card is turned face up. (See rule :ref:`901 <mtgcr-901>`, "Planechase.")
 
 .. _mtgcr-103-7:
 
@@ -351,7 +347,7 @@ The starting player takes his or her first turn.
 
 103.7a
 ------
-In a two-player game, the player who plays first skips the draw step (see rule 504, "Draw Step") of his or her first turn.
+In a two-player game, the player who plays first skips the draw step (see rule :ref:`504 <mtgcr-504>`, "Draw Step") of his or her first turn.
 
 .. _mtgcr-103-7b:
 
@@ -412,8 +408,6 @@ There are several ways to lose the game.
 
 .. _mtgcr-104-3a:
 
-.. _mtgcr-104-3a:
-
 104.3a
 ------
 A player can concede the game at any time. A player who concedes leaves the game immediately. He or she loses the game.
@@ -422,19 +416,19 @@ A player can concede the game at any time. A player who concedes leaves the game
 
 104.3b
 ------
-If a player's life total is 0 or less, he or she loses the game the next time a player would receive priority. (This is a state-based action. See rule 704.)
+If a player's life total is 0 or less, he or she loses the game the next time a player would receive priority. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.)
 
 .. _mtgcr-104-3c:
 
 104.3c
 ------
-If a player is required to draw more cards than are left in his or her library, he or she draws the remaining cards, and then loses the game the next time a player would receive priority. (This is a state-based action. See rule 704.)
+If a player is required to draw more cards than are left in his or her library, he or she draws the remaining cards, and then loses the game the next time a player would receive priority. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.)
 
 .. _mtgcr-104-3d:
 
 104.3d
 ------
-If a player has ten or more poison counters, he or she loses the game the next time a player would receive priority. (This is a state-based action. See rule 704.)
+If a player has ten or more poison counters, he or she loses the game the next time a player would receive priority. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.)
 
 .. _mtgcr-104-3e:
 
@@ -458,7 +452,7 @@ In a multiplayer game between teams, a team loses the game if all players on tha
 
 104.3h
 ------
-In a multiplayer game, an effect that states that a player wins the game instead causes all of that player's opponents to lose the game. (This may not cause the game to end if the limited range of influence option is being used; see rule 801.)
+In a multiplayer game, an effect that states that a player wins the game instead causes all of that player's opponents to lose the game. (This may not cause the game to end if the limited range of influence option is being used; see rule :ref:`801 <mtgcr-801>`.)
 
 .. _mtgcr-104-3i:
 
@@ -470,7 +464,7 @@ In an Emperor game, a team loses the game if its emperor loses the game. (See ru
 
 104.3j
 ------
-In a Commander game, a player that's been dealt 21 or more combat damage by the same commander over the course of the game loses the game. (This is a state-based action. See rule 704. Also see rule :ref:`903.14 <mtgcr-903-14>`)
+In a Commander game, a player that's been dealt 21 or more combat damage by the same commander over the course of the game loses the game. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`. Also see rule :ref:`903.14 <mtgcr-903-14>`)
 
 .. _mtgcr-104-3k:
 
@@ -548,7 +542,7 @@ If a player loses the game, he or she leaves the game. If the game is a draw for
 
 104.6
 -----
-One card (:mtgtip:`Karn Liberated`) restarts the game. All players still in the game when it restarts then immediately begin a new game. See rule 714, "Restarting the Game."
+One card (:mtgtip:`Karn Liberated`) restarts the game. All players still in the game when it restarts then immediately begin a new game. See rule :ref:`714 <mtgcr-714>`, "Restarting the Game."
 
 105. Colors
 ===========
@@ -620,13 +614,13 @@ There are six types of mana: white, blue, black, red, green, and colorless.
 
 106.2
 -----
-Mana is represented by mana symbols (see rule :ref:`107.4 <mtgcr-107-4>`). Mana symbols also represent mana costs (see rule 202).
+Mana is represented by mana symbols (see rule :ref:`107.4 <mtgcr-107-4>`). Mana symbols also represent mana costs (see rule :ref:`202 <mtgcr-202>`).
 
 .. _mtgcr-106-3:
 
 106.3
 -----
-Mana is produced by the effects of mana abilities (see rule 605). It may also be produced by the effects of spells, as well as by the effects of abilities that aren't mana abilities.
+Mana is produced by the effects of mana abilities (see rule :ref:`605 <mtgcr-605>`). It may also be produced by the effects of spells, as well as by the effects of abilities that aren't mana abilities.
 
 .. _mtgcr-106-4:
 
@@ -638,7 +632,7 @@ When an effect produces mana, that mana goes into a player's mana pool. From the
 
 106.4a
 ------
-If a player passes priority (see rule 116) while there is mana in his or her mana pool, that player announces what mana is there. If any mana remains in a player's mana pool after he or she spends mana to pay a cost, that player announces what mana is still there.
+If a player passes priority (see rule :ref:`116 <mtgcr-116>`) while there is mana in his or her mana pool, that player announces what mana is there. If any mana remains in a player's mana pool after he or she spends mana to pay a cost, that player announces what mana is still there.
 
 .. _mtgcr-106-5:
 
@@ -677,7 +671,7 @@ If an effect would add mana represented by a Phyrexian mana symbol to a player's
 
 106.10
 ------
-To "tap a permanent for mana" is to activate a mana ability of that permanent that includes the |tap| symbol in its activation cost. See rule 605, "Mana Abilities."
+To "tap a permanent for mana" is to activate a mana ability of that permanent that includes the |tap| symbol in its activation cost. See rule :ref:`605 <mtgcr-605>`, "Mana Abilities."
 
 .. _mtgcr-106-11:
 
@@ -730,13 +724,13 @@ Many objects use the letter X as a placeholder for a number that needs to be det
 
 107.3a
 ------
-If a spell or activated ability has a mana cost, alternative cost, additional cost, and/or activation cost with an |mana_x|, [-X], or X in it, and the value of X isn't defined by the text of that spell or ability, the controller of that spell or ability chooses and announces the value of X as part of casting the spell or activating the ability. (See rule 601, "Casting Spells.") While a spell is on the stack, any X in its mana cost equals the announced value. While an activated ability is on the stack, any X in its activation cost equals the announced value.
+If a spell or activated ability has a mana cost, alternative cost, additional cost, and/or activation cost with an |mana_x|, [-X], or X in it, and the value of X isn't defined by the text of that spell or ability, the controller of that spell or ability chooses and announces the value of X as part of casting the spell or activating the ability. (See rule :ref:`601 <mtgcr-601>`, "Casting Spells.") While a spell is on the stack, any X in its mana cost equals the announced value. While an activated ability is on the stack, any X in its activation cost equals the announced value.
 
 .. _mtgcr-107-3b:
 
 107.3b
 ------
-If a player is casting a spell that has an |mana_x| in its mana cost, the value of X isn't defined by the text of that spell, and an effect lets that player cast that spell while paying neither its mana cost nor an alternative cost that includes X, then the only legal choice for X is 0. This doesn't apply to effects that only reduce a cost, even if they reduce it to zero. See rule 601, "Casting Spells."
+If a player is casting a spell that has an |mana_x| in its mana cost, the value of X isn't defined by the text of that spell, and an effect lets that player cast that spell while paying neither its mana cost nor an alternative cost that includes X, then the only legal choice for X is 0. This doesn't apply to effects that only reduce a cost, even if they reduce it to zero. See rule :ref:`601 <mtgcr-601>`, "Casting Spells."
 
 .. _mtgcr-107-3c:
 
@@ -784,7 +778,7 @@ The mana symbols are |mana_w|, |mana_u|, |mana_b|, |mana_r|, |mana_g|, and |mana
 
 107.4a
 ------
-There are five primary colored mana symbols: |mana_w| is white, |mana_u| blue, |mana_b| black, |mana_r| red, and |mana_g| green. These symbols are used to represent colored mana, and also to represent colored mana in costs. Colored mana in costs can be paid only with the appropriate color of mana. See rule 202, "Mana Cost and Color."
+There are five primary colored mana symbols: |mana_w| is white, |mana_u| blue, |mana_b| black, |mana_r| red, and |mana_g| green. These symbols are used to represent colored mana, and also to represent colored mana in costs. Colored mana in costs can be paid only with the appropriate color of mana. See rule :ref:`202 <mtgcr-202>`, "Mana Cost and Color."
 
 .. _mtgcr-107-4b:
 
@@ -852,7 +846,7 @@ Each activated ability of a planeswalker has a loyalty symbol in its cost. Posit
 
 107.8
 -----
-The text box of a leveler card contains two level symbols, each of which is a keyword ability that represents a static ability. The level symbol includes either a range of numbers, indicated here as "N1-N2," or a single number followed by a plus sign, indicated here as "N3+." Any abilities printed within the same text box striation as a level symbol are part of its static ability. The same is true of the power/toughness box printed within that striation, indicated here as "[P/T]." See rule 710, "Leveler Cards."
+The text box of a leveler card contains two level symbols, each of which is a keyword ability that represents a static ability. The level symbol includes either a range of numbers, indicated here as "N1-N2," or a single number followed by a plus sign, indicated here as "N3+." Any abilities printed within the same text box striation as a level symbol are part of its static ability. The same is true of the power/toughness box printed within that striation, indicated here as "[P/T]." See rule :ref:`710 <mtgcr-710>`, "Leveler Cards."
 
 .. _mtgcr-107-8a:
 
@@ -882,31 +876,31 @@ A type icon appears in the upper left corner of each card from the *Future Sight
 
 107.11
 ------
-The Planeswalker symbol is {PW}. It appears on one face of the planar die used in the Planechase casual variant. See rule 901, "Planechase."
+The Planeswalker symbol is {PW}. It appears on one face of the planar die used in the Planechase casual variant. See rule :ref:`901 <mtgcr-901>`, "Planechase."
 
 .. _mtgcr-107-12:
 
 107.12
 ------
-The chaos symbol is {C}. It appears on one face of the planar die used in the Planechase casual variant, as well as in abilities that refer to the results of rolling the planar die. See rule 901, "Planechase."
+The chaos symbol is {C}. It appears on one face of the planar die used in the Planechase casual variant, as well as in abilities that refer to the results of rolling the planar die. See rule :ref:`901 <mtgcr-901>`, "Planechase."
 
 .. _mtgcr-107-13:
 
 107.13
 ------
-The sun symbol appears in the upper left corner of the front face of double-faced cards. See rule 711, "Double-Faced Cards."
+The sun symbol appears in the upper left corner of the front face of double-faced cards. See rule :ref:`711 <mtgcr-711>`, "Double-Faced Cards."
 
 .. _mtgcr-107-14:
 
 107.14
 ------
-The moon symbol appears in the upper left corner of the back face of double-faced cards. See rule 711, "Double-Faced Cards."
+The moon symbol appears in the upper left corner of the back face of double-faced cards. See rule :ref:`711 <mtgcr-711>`, "Double-Faced Cards."
 
 .. _mtgcr-107-15:
 
 107.15
 ------
-A color indicator is a circular symbol that appears to the left of the type line on some cards. The color of the symbol defines the card's color or colors. See rule 202, "Mana Cost and Color."
+A color indicator is a circular symbol that appears to the left of the type line on some cards. The color of the symbol defines the card's color or colors. See rule :ref:`202 <mtgcr-202>`, "Mana Cost and Color."
 
 108. Cards
 ==========
@@ -933,7 +927,7 @@ In the text of spells or abilities, the term "card" is used only to refer to a c
 
 108.3
 -----
-The owner of a card in the game is the player who started the game with it in his or her deck. If a card is brought into the game from outside the game rather than starting in a player's deck, its owner is the player who brought it into the game. If a card starts the game in the command zone, its owner is the player who put it into the command zone to start the game. Legal ownership of a card in the game is irrelevant to the game rules except for the rules for ante. (See rule 407.)
+The owner of a card in the game is the player who started the game with it in his or her deck. If a card is brought into the game from outside the game rather than starting in a player's deck, its owner is the player who brought it into the game. If a card starts the game in the command zone, its owner is the player who put it into the command zone to start the game. Legal ownership of a card in the game is irrelevant to the game rules except for the rules for ante. (See rule :ref:`407 <mtgcr-407>`.)
 
 .. _mtgcr-108-3a:
 
@@ -963,7 +957,7 @@ If anything asks for the controller of a card that doesn't have one (because it'
 
 108.5
 -----
-Nontraditional *Magic* cards can't start the game in any zone other than the command zone (see rule 408). If an effect would bring a nontraditional *Magic* card into the game from outside the game, it doesn't; that card remains outside the game.
+Nontraditional *Magic* cards can't start the game in any zone other than the command zone (see rule :ref:`408 <mtgcr-408>`). If an effect would bring a nontraditional *Magic* card into the game from outside the game, it doesn't; that card remains outside the game.
 
 .. _mtgcr-108-6:
 
@@ -1012,8 +1006,6 @@ If an ability of a scheme card includes the text "this scheme," it means the sch
 
 .. _mtgcr-109-3:
 
-.. _mtgcr-109-3:
-
 109.3
 -----
 An object's characteristics are name, mana cost, color, color indicator, card type, subtype, supertype, rules text, abilities, power, toughness, loyalty, hand modifier, and life modifier. Objects can have some or all of these characteristics. Any other information about an object isn't a characteristic. For example, characteristics don't include whether a permanent is tapped, a spell's target, an object's owner or controller, what an Aura enchants, and so on.
@@ -1028,7 +1020,7 @@ Only objects on the stack or on the battlefield have a controller. Objects that 
 
 109.4a
 ------
-An emblem is controlled by the player that puts it into the command zone. See rule 113, "Emblems."
+An emblem is controlled by the player that puts it into the command zone. See rule :ref:`113 <mtgcr-113>`, "Emblems."
 
 .. _mtgcr-109-4b:
 
@@ -1079,7 +1071,7 @@ If an effect instructs a player to put an object onto the battlefield, that obje
 
 110.3
 -----
-A nontoken permanent's characteristics are the same as those printed on its card, as modified by any continuous effects. See rule 613, "Interaction of Continuous Effects."
+A nontoken permanent's characteristics are the same as those printed on its card, as modified by any continuous effects. See rule :ref:`613 <mtgcr-613>`, "Interaction of Continuous Effects."
 
 .. _mtgcr-110-4:
 
@@ -1146,13 +1138,13 @@ A token is subject to anything that affects permanents in general or that affect
 
 110.5f
 ------
-A token that's phased out, or that's in a zone other than the battlefield, ceases to exist. This is a state-based action; see rule 704. (Note that if a token changes zones, applicable triggered abilities will trigger before the token ceases to exist.)
+A token that's phased out, or that's in a zone other than the battlefield, ceases to exist. This is a state-based action; see rule :ref:`704 <mtgcr-704>`. (Note that if a token changes zones, applicable triggered abilities will trigger before the token ceases to exist.)
 
 .. _mtgcr-110-5g:
 
 110.5g
 ------
-A token that has left the battlefield can't move to another zone or come back onto the battlefield. If such a token would change zones, it remains in its current zone instead. It ceases to exist the next time state-based actions are checked; see rule 704.
+A token that has left the battlefield can't move to another zone or come back onto the battlefield. If such a token would change zones, it remains in its current zone instead. It ceases to exist the next time state-based actions are checked; see rule :ref:`704 <mtgcr-704>`.
 
 .. _mtgcr-110-6:
 
@@ -1192,7 +1184,7 @@ Only permanents have status. Cards not on the battlefield do not. Although an ex
 
 111.1
 -----
-A spell is a card on the stack. As the first step of being cast (see rule 601, "Casting Spells"), the card becomes a spell and is moved to the top of the stack from the zone it was in, which is usually its owner's hand. (See rule 405, "Stack.") A spell remains on the stack as a spell until it resolves (see rule 608, "Resolving Spells and Abilities"), is countered (see rule :ref:`701.5 <mtgcr-701-5>`), or otherwise leaves the stack. For more information, see section 6, :ref:`Spells, Abilities, and Effects <mtgcr-sec-spells-abilities-effects>`.
+A spell is a card on the stack. As the first step of being cast (see rule 601, "Casting Spells"), the card becomes a spell and is moved to the top of the stack from the zone it was in, which is usually its owner's hand. (See rule 405, "Stack.") A spell remains on the stack as a spell until it resolves (see rule :ref:`608 <mtgcr-608>`, "Resolving Spells and Abilities"), is countered (see rule :ref:`701.5 <mtgcr-701-5>`), or otherwise leaves the stack. For more information, see section 6, :ref:`Spells, Abilities, and Effects <mtgcr-sec-spells-abilities-effects>`.
 
 .. _mtgcr-111-1a:
 
@@ -1216,7 +1208,7 @@ A spell's owner is the same as the owner of the card that represents it, unless 
 
 111.3
 -----
-A noncopy spell's characteristics are the same as those printed on its card, as modified by any continuous effects. See rule 613, "Interaction of Continuous Effects."
+A noncopy spell's characteristics are the same as those printed on its card, as modified by any continuous effects. See rule :ref:`613 <mtgcr-613>`, "Interaction of Continuous Effects."
 
 .. _mtgcr-111-4:
 
@@ -1238,7 +1230,7 @@ An ability can be one of two things:
 
 112.1a
 ------
-An ability is a characteristic an object has that lets it affect the game. An object's abilities are defined by its rules text or by the effect that created it. Abilities can also be granted to objects by rules or effects. (Effects that do so use the words "has," "have," "gains," or "gain.") Abilities generate effects. (See rule 609, "Effects.")
+An ability is a characteristic an object has that lets it affect the game. An object's abilities are defined by its rules text or by the effect that created it. Abilities can also be granted to objects by rules or effects. (Effects that do so use the words "has," "have," "gains," or "gain.") Abilities generate effects. (See rule :ref:`609 <mtgcr-609>`, "Effects.")
 
 .. _mtgcr-112-1b:
 
@@ -1269,13 +1261,13 @@ An additional cost or alternative cost to cast a card is an ability of the card.
 
 112.2c
 ------
-An object may have multiple abilities. If the object is represented by a card, then aside from certain defined abilities that may be strung together on a single line (see rule 702, "Keyword Abilities"), each paragraph break in a card's text marks a separate ability. If the object is not represented by a card, the effect that created it may have given it multiple abilities. An object may also be granted additional abilities by a spell or ability. If an object has multiple instances of the same ability, each instance functions independently. This may or may not produce more effects than a single instance; refer to the specific ability for more information.
+An object may have multiple abilities. If the object is represented by a card, then aside from certain defined abilities that may be strung together on a single line (see rule :ref:`702 <mtgcr-702>`, "Keyword Abilities"), each paragraph break in a card's text marks a separate ability. If the object is not represented by a card, the effect that created it may have given it multiple abilities. An object may also be granted additional abilities by a spell or ability. If an object has multiple instances of the same ability, each instance functions independently. This may or may not produce more effects than a single instance; refer to the specific ability for more information.
 
 .. _mtgcr-112-2d:
 
 112.2d
 ------
-Abilities can generate one-shot effects or continuous effects. Some continuous effects are replacement effects or prevention effects. See rule 609, "Effects."
+Abilities can generate one-shot effects or continuous effects. Some continuous effects are replacement effects or prevention effects. See rule :ref:`609 <mtgcr-609>`, "Effects."
 
 .. _mtgcr-112-3:
 
@@ -1293,31 +1285,31 @@ Spell abilities are abilities that are followed as instructions while an instant
 
 112.3b
 ------
-Activated abilities have a cost and an effect. They are written as "[Cost]: [Effect.] [Activation instructions (if any).]" A player may activate such an ability whenever he or she has priority. Doing so puts it on the stack, where it remains until it's countered, it resolves, or it otherwise leaves the stack. See rule 602, "Activating Activated Abilities."
+Activated abilities have a cost and an effect. They are written as "[Cost]: [Effect.] [Activation instructions (if any).]" A player may activate such an ability whenever he or she has priority. Doing so puts it on the stack, where it remains until it's countered, it resolves, or it otherwise leaves the stack. See rule :ref:`602 <mtgcr-602>`, "Activating Activated Abilities."
 
 .. _mtgcr-112-3c:
 
 112.3c
 ------
-Triggered abilities have a trigger condition and an effect. They are written as "[Trigger condition], [effect]," and include (and usually begin with) the word "when," "whenever," or "at." Whenever the trigger event occurs, the ability is put on the stack the next time a player would receive priority and stays there until it's countered, it resolves, or it otherwise leaves the stack. See rule 603, "Handling Triggered Abilities."
+Triggered abilities have a trigger condition and an effect. They are written as "[Trigger condition], [effect]," and include (and usually begin with) the word "when," "whenever," or "at." Whenever the trigger event occurs, the ability is put on the stack the next time a player would receive priority and stays there until it's countered, it resolves, or it otherwise leaves the stack. See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities."
 
 .. _mtgcr-112-3d:
 
 112.3d
 ------
-Static abilities are written as statements. They're simply true. Static abilities create continuous effects which are active while the permanent with the ability is on the battlefield and has the ability, or while the object with the ability is in the appropriate zone. See rule 604, "Handling Static Abilities."
+Static abilities are written as statements. They're simply true. Static abilities create continuous effects which are active while the permanent with the ability is on the battlefield and has the ability, or while the object with the ability is in the appropriate zone. See rule :ref:`604 <mtgcr-604>`, "Handling Static Abilities."
 
 .. _mtgcr-112-4:
 
 112.4
 -----
-Some activated abilities and some triggered abilities are mana abilities. Mana abilities follow special rules: They don't use the stack, and, under certain circumstances, a player can activate mana abilities even if he or she doesn't have priority. See rule 605, "Mana Abilities."
+Some activated abilities and some triggered abilities are mana abilities. Mana abilities follow special rules: They don't use the stack, and, under certain circumstances, a player can activate mana abilities even if he or she doesn't have priority. See rule :ref:`605 <mtgcr-605>`, "Mana Abilities."
 
 .. _mtgcr-112-5:
 
 112.5
 -----
-Some activated abilities are loyalty abilities. Loyalty abilities follow special rules: A player may activate a loyalty ability of a permanent he or she controls any time he or she has priority and the stack is empty during a main phase of his or her turn, but only if no player has previously activated a loyalty ability of that permanent that turn. See rule 606, "Loyalty Abilities."
+Some activated abilities are loyalty abilities. Loyalty abilities follow special rules: A player may activate a loyalty ability of a permanent he or she controls any time he or she has priority and the stack is empty during a main phase of his or her turn, but only if no player has previously activated a loyalty ability of that permanent that turn. See rule :ref:`606 <mtgcr-606>`, "Loyalty Abilities."
 
 .. _mtgcr-112-6:
 
@@ -1403,7 +1395,7 @@ An ability that modifies the rules for deck construction functions before the ga
 
 112.6n
 ------
-Abilities of emblems, plane cards, vanguard cards, and scheme cards function in the command zone. See rule 113, "Emblems"; rule 901, "Planechase"; rule 902, "Vanguard"; and rule 904, "Archenemy."
+Abilities of emblems, plane cards, vanguard cards, and scheme cards function in the command zone. See rule :ref:`113 <mtgcr-113>`, "Emblems"; rule 901, "Planechase"; rule 902, "Vanguard"; and rule 904, "Archenemy."
 
 .. _mtgcr-112-7:
 
@@ -1431,11 +1423,9 @@ Activated and triggered abilities on the stack aren't spells, and therefore can'
 
 .. _mtgcr-112-10:
 
-.. _mtgcr-112-10:
-
 112.10
 ------
-Effects can add or remove abilities of objects. An effect that adds an ability will state that the object "gains" or "has" that ability. An effect that removes an ability will state that the object "loses" that ability. Effects that remove an ability remove all instances of it. If two or more effects add and remove the same ability, in general the most recent one prevails. (See rule 613, "Interaction of Continuous Effects.")
+Effects can add or remove abilities of objects. An effect that adds an ability will state that the object "gains" or "has" that ability. An effect that removes an ability will state that the object "loses" that ability. Effects that remove an ability remove all instances of it. If two or more effects add and remove the same ability, in general the most recent one prevails. (See rule :ref:`613 <mtgcr-613>`, "Interaction of Continuous Effects.")
 
 .. _mtgcr-112-11:
 
@@ -1497,7 +1487,7 @@ Example: A sorcery card has the ability "When you cycle this card, target creatu
 
 114.1b
 ------
-Aura spells are always targeted. These are the only permanent spells with targets. An Aura's target is specified by its enchant keyword ability (see rule 702.5, "Enchant"). The target(s) are chosen as the spell is cast; see rule :ref:`601.2c <mtgcr-601-2c>` An Aura permanent doesn't target anything; only the spell is targeted. (An activated or triggered ability of an Aura permanent can also be targeted.)
+Aura spells are always targeted. These are the only permanent spells with targets. An Aura's target is specified by its enchant keyword ability (see rule :ref:`702 <mtgcr-702>`.5, "Enchant"). The target(s) are chosen as the spell is cast; see rule :ref:`601.2c <mtgcr-601-2c>` An Aura permanent doesn't target anything; only the spell is targeted. (An activated or triggered ability of an Aura permanent can also be targeted.)
 
 .. _mtgcr-114-1c:
 
@@ -1515,7 +1505,7 @@ A triggered ability is targeted if it identifies something it will affect by usi
 
 114.1e
 ------
-Some keyword abilities, such as equip and provoke, represent targeted activated or triggered abilities. In those cases, the phrase "target [something]" appears in the rule for that keyword ability rather than in the ability itself. (The keyword's reminder text will often contain the word "target.") See rule 702, "Keyword Abilities."
+Some keyword abilities, such as equip and provoke, represent targeted activated or triggered abilities. In those cases, the phrase "target [something]" appears in the rule for that keyword ability rather than in the ability itself. (The keyword's reminder text will often contain the word "target.") See rule :ref:`702 <mtgcr-702>`, "Keyword Abilities."
 
 .. _mtgcr-114-2:
 
@@ -1612,7 +1602,7 @@ An object that looks for a "[spell or ability] that targets only [something]" ch
 
 114.9
 -----
-Spells and abilities can affect objects and players they don't target. In general, those objects and players aren't chosen until the spell or ability resolves. See rule 608, "Resolving Spells and Abilities."
+Spells and abilities can affect objects and players they don't target. In general, those objects and players aren't chosen until the spell or ability resolves. See rule :ref:`608 <mtgcr-608>`, "Resolving Spells and Abilities."
 
 .. _mtgcr-114-9a:
 
@@ -1633,7 +1623,7 @@ In particular, the word "you" in an object's text doesn't indicate a target.
 
 115.1
 -----
-Special actions are actions a player may take when he or she has priority that don't use the stack. These are not to be confused with turn-based actions and state-based actions, which the game generates automatically. (See rule 703, "Turn-Based Actions," and rule 704, "State-Based Actions.")
+Special actions are actions a player may take when he or she has priority that don't use the stack. These are not to be confused with turn-based actions and state-based actions, which the game generates automatically. (See rule :ref:`703 <mtgcr-703>`, "Turn-Based Actions," and rule 704, "State-Based Actions.")
 
 .. _mtgcr-115-2:
 
@@ -1645,13 +1635,13 @@ There are six special actions:
 
 115.2a
 ------
-Playing a land is a special action. To play a land, a player puts that land onto the battlefield from the zone it was in (usually that player's hand). By default, a player can take this action only once during each of his or her turns. A player can take this action any time he or she has priority and the stack is empty during a main phase of his or her turn. See rule 305, "Lands."
+Playing a land is a special action. To play a land, a player puts that land onto the battlefield from the zone it was in (usually that player's hand). By default, a player can take this action only once during each of his or her turns. A player can take this action any time he or she has priority and the stack is empty during a main phase of his or her turn. See rule :ref:`305 <mtgcr-305>`, "Lands."
 
 .. _mtgcr-115-2b:
 
 115.2b
 ------
-Turning a face-down creature face up is a special action. A player can take this action any time he or she has priority. See rule 707, "Face-Down Spells and Permanents."
+Turning a face-down creature face up is a special action. A player can take this action any time he or she has priority. See rule :ref:`707 <mtgcr-707>`, "Face-Down Spells and Permanents."
 
 .. _mtgcr-115-2c:
 
@@ -1675,7 +1665,7 @@ A player who has a card with suspend in his or her hand may exile that card. Thi
 
 115.2f
 ------
-In a Planechase game, rolling the planar die is a special action. A player can take this action any time he or she has priority and the stack is empty during a main phase of his or her turn. Taking this action costs a player an amount of mana equal to the number of times he or she has previously taken this action on that turn. Note that this number won't be equal to the number of times the player has rolled the planar die that turn if an effect has caused the player to roll the planar die that turn. See rule 901, "Planechase."
+In a Planechase game, rolling the planar die is a special action. A player can take this action any time he or she has priority and the stack is empty during a main phase of his or her turn. Taking this action costs a player an amount of mana equal to the number of times he or she has previously taken this action on that turn. Note that this number won't be equal to the number of times the player has rolled the planar die that turn if an effect has caused the player to roll the planar die that turn. See rule :ref:`901 <mtgcr-901>`, "Planechase."
 
 .. _mtgcr-115-3:
 
@@ -1708,7 +1698,7 @@ A player may activate an activated ability any time he or she has priority.
 
 116.1c
 ------
-A player may take some special actions any time he or she has priority. A player may take other special actions during his or her main phase any time he or she has priority and the stack is empty. See rule 115, "Special Actions."
+A player may take some special actions any time he or she has priority. A player may take other special actions during his or her main phase any time he or she has priority and the stack is empty. See rule :ref:`115 <mtgcr-115>`, "Special Actions."
 
 .. _mtgcr-116-1d:
 
@@ -1726,31 +1716,31 @@ Other kinds of abilities and actions are automatically generated or performed by
 
 116.2a
 ------
-Triggered abilities can trigger at any time, including while a spell is being cast, an ability is being activated, or a spell or ability is resolving. (See rule 603, "Handling Triggered Abilities.") However, nothing actually happens at the time an ability triggers. Each time a player would receive priority, each ability that has triggered but hasn't yet been put on the stack is put on the stack. See rule :ref:`116.5 <mtgcr-116-5>`
+Triggered abilities can trigger at any time, including while a spell is being cast, an ability is being activated, or a spell or ability is resolving. (See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities.") However, nothing actually happens at the time an ability triggers. Each time a player would receive priority, each ability that has triggered but hasn't yet been put on the stack is put on the stack. See rule :ref:`116.5 <mtgcr-116-5>`
 
 .. _mtgcr-116-2b:
 
 116.2b
 ------
-Static abilities continuously affect the game. Priority doesn't apply to them. (See rule 604, "Handling Static Abilities," and rule 611, "Continuous Effects.")
+Static abilities continuously affect the game. Priority doesn't apply to them. (See rule :ref:`604 <mtgcr-604>`, "Handling Static Abilities," and rule 611, "Continuous Effects.")
 
 .. _mtgcr-116-2c:
 
 116.2c
 ------
-Turn-based actions happen automatically when certain steps or phases begin. They're dealt with before a player would receive priority. See rule :ref:`116.3a <mtgcr-116-3a>` Turn-based actions also happen automatically when each step and phase ends; no player receives priority afterward. See rule 703, "Turn-Based Actions."
+Turn-based actions happen automatically when certain steps or phases begin. They're dealt with before a player would receive priority. See rule :ref:`116.3a <mtgcr-116-3a>` Turn-based actions also happen automatically when each step and phase ends; no player receives priority afterward. See rule :ref:`703 <mtgcr-703>`, "Turn-Based Actions."
 
 .. _mtgcr-116-2d:
 
 116.2d
 ------
-State-based actions happen automatically when certain conditions are met. See rule 704. They're dealt with before a player would receive priority. See rule :ref:`116.5 <mtgcr-116-5>`
+State-based actions happen automatically when certain conditions are met. See rule :ref:`704 <mtgcr-704>`. They're dealt with before a player would receive priority. See rule :ref:`116.5 <mtgcr-116-5>`
 
 .. _mtgcr-116-2e:
 
 116.2e
 ------
-Resolving spells and abilities may instruct players to make choices or take actions, or may allow players to activate mana abilities. Even if a player is doing so, no player has priority while a spell or ability is resolving. See rule 608, "Resolving Spells and Abilities."
+Resolving spells and abilities may instruct players to make choices or take actions, or may allow players to activate mana abilities. Even if a player is doing so, no player has priority while a spell or ability is resolving. See rule :ref:`608 <mtgcr-608>`, "Resolving Spells and Abilities."
 
 .. _mtgcr-116-3:
 
@@ -1762,7 +1752,7 @@ Which player has priority is determined by the following rules:
 
 116.3a
 ------
-The active player receives priority at the beginning of most steps and phases, after any turn-based actions (such as drawing a card during the draw step; see rule 703) have been dealt with and abilities that trigger at the beginning of that phase or step have been put on the stack. No player receives priority during the untap step. Players usually don't get priority during the cleanup step (see rule :ref:`514.3 <mtgcr-514-3>`).
+The active player receives priority at the beginning of most steps and phases, after any turn-based actions (such as drawing a card during the draw step; see rule :ref:`703 <mtgcr-703>`) have been dealt with and abilities that trigger at the beginning of that phase or step have been put on the stack. No player receives priority during the untap step. Players usually don't get priority during the cleanup step (see rule :ref:`514.3 <mtgcr-514-3>`).
 
 .. _mtgcr-116-3b:
 
@@ -1792,19 +1782,19 @@ If all players pass in succession (that is, if all players pass without taking a
 
 116.5
 -----
-Each time a player would get priority, the game first performs all applicable state-based actions as a single event (see rule 704, "State-Based Actions"), then repeats this process until no state-based actions are performed. Then triggered abilities are put on the stack (see rule 603, "Handling Triggered Abilities"). These steps repeat in order until no further state-based actions are performed and no abilities trigger. Then the player who would have received priority does so.
+Each time a player would get priority, the game first performs all applicable state-based actions as a single event (see rule 704, "State-Based Actions"), then repeats this process until no state-based actions are performed. Then triggered abilities are put on the stack (see rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities"). These steps repeat in order until no further state-based actions are performed and no abilities trigger. Then the player who would have received priority does so.
 
 .. _mtgcr-116-6:
 
 116.6
 -----
-In a multiplayer game using the shared team turns option, teams rather than individual players have priority. See rule 805, "Shared Team Turns Option."
+In a multiplayer game using the shared team turns option, teams rather than individual players have priority. See rule :ref:`805 <mtgcr-805>`, "Shared Team Turns Option."
 
 .. _mtgcr-116-7:
 
 116.7
 -----
-If a player with priority casts a spell or activates an activated ability while another spell or ability is already on the stack, the new spell or ability has been cast or activated "in response to" the earlier spell or ability. The new spell or ability will resolve first. See rule 608, "Resolving Spells and Abilities."
+If a player with priority casts a spell or activates an activated ability while another spell or ability is already on the stack, the new spell or ability has been cast or activated "in response to" the earlier spell or ability. The new spell or ability will resolve first. See rule :ref:`608 <mtgcr-608>`, "Resolving Spells and Abilities."
 
 117. Costs
 ==========
@@ -1825,7 +1815,7 @@ If a cost includes a mana payment, the player paying the cost has a chance to ac
 
 117.3
 -----
-A player can't pay a cost unless he or she has the necessary resources to pay it fully. For example, a player with only 1 life can't pay a cost of 2 life, and a permanent that's already tapped can't be tapped to pay a cost. See rule 202, "Mana Cost and Color," and rule 602, "Activating Activated Abilities."
+A player can't pay a cost unless he or she has the necessary resources to pay it fully. For example, a player with only 1 life can't pay a cost of 2 life, and a permanent that's already tapped can't be tapped to pay a cost. See rule :ref:`202 <mtgcr-202>`, "Mana Cost and Color," and rule 602, "Activating Activated Abilities."
 
 .. _mtgcr-117-3a:
 
@@ -1910,7 +1900,7 @@ If a cost is reduced by an amount of mana represented by a Phyrexian mana symbol
 
 117.8
 -----
-Some spells and abilities have additional costs. An additional cost is a cost listed in a spell's rules text, or applied to a spell or ability from another effect, that its controller must pay at the same time that player pays the spell's mana cost or the ability's activation cost. A cost is an additional cost only if it's phrased using the word "additional." Note that some additional costs are listed in keywords; see rule 702.
+Some spells and abilities have additional costs. An additional cost is a cost listed in a spell's rules text, or applied to a spell or ability from another effect, that its controller must pay at the same time that player pays the spell's mana cost or the ability's activation cost. A cost is an additional cost only if it's phrased using the word "additional." Note that some additional costs are listed in keywords; see rule :ref:`702 <mtgcr-702>`.
 
 .. _mtgcr-117-8a:
 
@@ -1946,7 +1936,7 @@ Some effects increase the cost to cast a spell or activate an ability without us
 
 117.9
 -----
-Some spells have alternative costs. An alternative cost is a cost listed in a spell's text, or applied to it from another effect, that its controller may pay rather than paying the spell's mana cost. Alternative costs are usually phrased, "You may [action] rather than pay [this object's] mana cost," or "You may cast [this object] without paying its mana cost." Note that some alternative costs are listed in keywords; see rule 702.
+Some spells have alternative costs. An alternative cost is a cost listed in a spell's text, or applied to it from another effect, that its controller may pay rather than paying the spell's mana cost. Alternative costs are usually phrased, "You may [action] rather than pay [this object's] mana cost," or "You may cast [this object] without paying its mana cost." Note that some alternative costs are listed in keywords; see rule :ref:`702 <mtgcr-702>`.
 
 .. _mtgcr-117-9a:
 
@@ -2012,25 +2002,25 @@ Each player begins the game with a starting life total of 20. Some variant games
 
 118.1a
 ------
-In a Two-Headed Giant game, each team's starting life total of 30. See rule 810, "Two-Headed Giant Variant."
+In a Two-Headed Giant game, each team's starting life total of 30. See rule :ref:`810 <mtgcr-810>`, "Two-Headed Giant Variant."
 
 .. _mtgcr-118-1b:
 
 118.1b
 ------
-In a Vanguard game, each player's starting life total is 20 plus or minus the life modifier of his or her vanguard card. See rule 902, "Vanguard."
+In a Vanguard game, each player's starting life total is 20 plus or minus the life modifier of his or her vanguard card. See rule :ref:`902 <mtgcr-902>`, "Vanguard."
 
 .. _mtgcr-118-1c:
 
 118.1c
 ------
-In a Commander game, each player's starting life total is 40. See rule 903, "Commander."
+In a Commander game, each player's starting life total is 40. See rule :ref:`903 <mtgcr-903>`, "Commander."
 
 .. _mtgcr-118-1d:
 
 118.1d
 ------
-In an Archenemy game, the archenemy's  starting life total is 40. See rule 904, "Archenemy."
+In an Archenemy game, the archenemy's  starting life total is 40. See rule :ref:`904 <mtgcr-904>`, "Archenemy."
 
 .. _mtgcr-118-2:
 
@@ -2066,7 +2056,7 @@ If an effect sets a player's life total to a specific number, the player gains o
 
 118.6
 -----
-If a player has 0 or less life, that player loses the game as a state-based action. See rule 704.
+If a player has 0 or less life, that player loses the game as a state-based action. See rule :ref:`704 <mtgcr-704>`.
 
 .. _mtgcr-118-7:
 
@@ -2172,7 +2162,7 @@ Damage is processed in a three-part sequence.
 
 119.4a
 ------
-First, damage is dealt, as modified by replacement and prevention effects that interact with damage. (See rule 614, "Replacement Effects," and rule 615, "Prevention Effects.") Abilities that trigger when damage is dealt trigger now and wait to be put on the stack.
+First, damage is dealt, as modified by replacement and prevention effects that interact with damage. (See rule :ref:`614 <mtgcr-614>`, "Replacement Effects," and rule 615, "Prevention Effects.") Abilities that trigger when damage is dealt trigger now and wait to be put on the stack.
 
 .. _mtgcr-119-4b:
 
@@ -2192,14 +2182,14 @@ Example: The defending player controls a creature and Worship, an enchantment th
 
 119.5
 -----
-Damage dealt to a creature or planeswalker doesn't destroy it. Likewise, the source of that damage doesn't destroy it. Rather, state-based actions may destroy a creature or planeswalker, or otherwise put it into its owner's graveyard, due to the results of the damage dealt to that permanent. See rule 704.
+Damage dealt to a creature or planeswalker doesn't destroy it. Likewise, the source of that damage doesn't destroy it. Rather, state-based actions may destroy a creature or planeswalker, or otherwise put it into its owner's graveyard, due to the results of the damage dealt to that permanent. See rule :ref:`704 <mtgcr-704>`.
 Example: A player casts Lightning Bolt, an instant that says "Lightning Bolt deals 3 damage to target creature or player," targeting a 2/2 creature. After Lightning Bolt deals 3 damage to that creature, the creature is destroyed as a state-based action. Neither Lightning Bolt nor the damage dealt by Lightning Bolt destroyed that creature.
 
 .. _mtgcr-119-6:
 
 119.6
 -----
-Damage marked on a creature remains until the cleanup step, even if that permanent stops being a creature. If the total damage marked on a creature is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed as a state-based action (see rule 704). All damage marked on a permanent is removed when it regenerates (see rule 701.12, "Regenerate") and during the cleanup step (see rule :ref:`514.2 <mtgcr-514-2>`).
+Damage marked on a creature remains until the cleanup step, even if that permanent stops being a creature. If the total damage marked on a creature is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed as a state-based action (see rule 704). All damage marked on a permanent is removed when it regenerates (see rule :ref:`701 <mtgcr-701>`.12, "Regenerate") and during the cleanup step (see rule :ref:`514.2 <mtgcr-514-2>`).
 
 .. _mtgcr-119-7:
 
@@ -2256,7 +2246,7 @@ The same principles apply if the player who's making the choice is not the playe
 
 120.4
 -----
-A player who attempts to draw a card from a library with no cards in it loses the game the next time a player would receive priority. (This is a state-based action. See rule 704.)
+A player who attempts to draw a card from a library with no cards in it loses the game the next time a player would receive priority. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.)
 
 .. _mtgcr-120-5:
 
@@ -2313,13 +2303,13 @@ A +X/+Y counter on a creature or on a creature card in a zone other than the bat
 
 121.1b
 ------
-The number of loyalty counters on a planeswalker on the battlefield indicates how much loyalty it has. A planeswalker with 0 loyalty is put into its owner's graveyard as a state-based action. See rule 704.
+The number of loyalty counters on a planeswalker on the battlefield indicates how much loyalty it has. A planeswalker with 0 loyalty is put into its owner's graveyard as a state-based action. See rule :ref:`704 <mtgcr-704>`.
 
 .. _mtgcr-121-1c:
 
 121.1c
 ------
-If a player has ten or more poison counters, he or she loses the game as a state-based action. See rule 704. A player is "poisoned" if he or she has one or more poison counters. (See rule 810 for additional rules for Two-Headed Giant games.)
+If a player has ten or more poison counters, he or she loses the game as a state-based action. See rule 704. A player is "poisoned" if he or she has one or more poison counters. (See rule :ref:`810 <mtgcr-810>` for additional rules for Two-Headed Giant games.)
 
 .. _mtgcr-121-2:
 
@@ -2331,13 +2321,13 @@ Counters on an object are not retained if that object moves from one zone to ano
 
 121.3
 -----
-If a permanent has both a +1/+1 counter and a -1/-1 counter on it, N +1/+1 and N -1/-1 counters are removed from it as a state-based action, where N is the smaller of the number of +1/+1 and -1/-1 counters on it. See rule 704.
+If a permanent has both a +1/+1 counter and a -1/-1 counter on it, N +1/+1 and N -1/-1 counters are removed from it as a state-based action, where N is the smaller of the number of +1/+1 and -1/-1 counters on it. See rule :ref:`704 <mtgcr-704>`.
 
 .. _mtgcr-121-4:
 
 121.4
 -----
-If a permanent with an ability that says it can't have more than N counters of a certain kind on it has more than N counters of that kind on it, all but N of those counters are removed from it as a state-based action. See rule 704.
+If a permanent with an ability that says it can't have more than N counters of a certain kind on it has more than N counters of that kind on it, all but N of those counters are removed from it as a state-based action. See rule :ref:`704 <mtgcr-704>`.
 
 .. _mtgcr-121-5:
 
@@ -2396,7 +2386,7 @@ Two objects have the same name if the English versions of their names are identi
 
 201.3
 -----
-If an effect instructs a player to name a card, the player must choose the name of a card that exists in the Oracle card reference (see rule 108.1) and is legal in the format of the game the player is playing. (See rule :ref:`100.6 <mtgcr-100-6>`) If the player wants to name a split card, the player must choose the name of one of its halves, but not both. (See rule 708.) If the player wants to name a flip card's alternative name, the player may do so. (See rule 709.) If the player wants to name the back face of a double-faced card, the player may do so. (See rule 711.) A player may not choose the name of a token unless it's also the name of a card.
+If an effect instructs a player to name a card, the player must choose the name of a card that exists in the Oracle card reference (see rule 108.1) and is legal in the format of the game the player is playing. (See rule :ref:`100.6 <mtgcr-100-6>`) If the player wants to name a split card, the player must choose the name of one of its halves, but not both. (See rule 708.) If the player wants to name a flip card's alternative name, the player may do so. (See rule 709.) If the player wants to name the back face of a double-faced card, the player may do so. (See rule :ref:`711 <mtgcr-711>`.) A player may not choose the name of a token unless it's also the name of a card.
 
 .. _mtgcr-201-4:
 
@@ -2452,7 +2442,7 @@ The mana cost of an object represents what a player must spend from his or her m
 
 202.1b
 ------
-Some objects have no mana cost. This normally includes all land cards, any other cards that have no mana symbols where their mana cost would appear, tokens (unless the effect that creates them specifies otherwise), and nontraditional *Magic* cards. Having no mana cost represents an unpayable cost (see rule :ref:`117.6 <mtgcr-117-6>`). Note that lands are played without paying any costs (see rule 305, "Lands").
+Some objects have no mana cost. This normally includes all land cards, any other cards that have no mana symbols where their mana cost would appear, tokens (unless the effect that creates them specifies otherwise), and nontraditional *Magic* cards. Having no mana cost represents an unpayable cost (see rule :ref:`117.6 <mtgcr-117-6>`). Note that lands are played without paying any costs (see rule :ref:`305 <mtgcr-305>`, "Lands").
 
 .. _mtgcr-202-2:
 
@@ -2489,7 +2479,7 @@ An object with one or more hybrid mana symbols and/or Phyrexian mana symbols in 
 
 202.2e
 ------
-An object may have a color indicator printed to the left of the type line. That object is each color denoted by that color indicator. (See rule 204.)
+An object may have a color indicator printed to the left of the type line. That object is each color denoted by that color indicator. (See rule :ref:`204 <mtgcr-204>`.)
 
 .. _mtgcr-202-2f:
 
@@ -2535,7 +2525,7 @@ Example: The converted mana cost of a card with mana cost |mana_1|{W/P}{W/P} is 
 
 202.4
 -----
-Any additional cost listed in an object's rules text or imposed by an effect isn't part of the mana cost. (See rule 601, "Casting Spells.") Such costs are paid at the same time as the spell's other costs.
+Any additional cost listed in an object's rules text or imposed by an effect isn't part of the mana cost. (See rule :ref:`601 <mtgcr-601>`, "Casting Spells.") Such costs are paid at the same time as the spell's other costs.
 
 203. Illustration
 =================
@@ -2657,7 +2647,7 @@ Many cards were printed with subtypes that are now obsolete. Many cards have ret
 
 205.3g
 ------
-Artifacts have their own unique set of subtypes; these subtypes are called artifact types. The artifact types are Contraption, Equipment (see rule 301.5), and Fortification (see rule :ref:`301.6 <mtgcr-301-6>`).
+Artifacts have their own unique set of subtypes; these subtypes are called artifact types. The artifact types are Contraption, Equipment (see rule :ref:`301 <mtgcr-301>`.5), and Fortification (see rule :ref:`301.6 <mtgcr-301-6>`).
 
 .. _mtgcr-205-3h:
 
@@ -2677,7 +2667,7 @@ Lands have their own unique set of subtypes; these subtypes are called land type
 205.3j
 ------
 Planeswalkers have their own unique set of subtypes; these subtypes are called planeswalker types. The planeswalker types are Ajani, Ashiok, Bolas, Chandra, Domri, Elspeth, Garruk, Gideon, Jace, Karn, Koth, Liliana, Nissa, Ral, Sarkhan, Sorin, Tamiyo, Tezzeret, Tibalt, Venser, Vraska, and Xenagos.
-     If a player controls two or more planeswalkers that share a planeswalker type, that player chooses one of them, and the rest are put into their owners' graveyards. This "planeswalker uniqueness rule" is a state-based action. See rule 704.
+     If a player controls two or more planeswalkers that share a planeswalker type, that player chooses one of them, and the rest are put into their owners' graveyards. This "planeswalker uniqueness rule" is a state-based action. See rule :ref:`704 <mtgcr-704>`.
 
 .. _mtgcr-205-3k:
 
@@ -2858,7 +2848,7 @@ Example: Lost Order of Jarkeld has power and toughness each equal to 1+*. It has
 
 208.2b
 ------
-The card may have a static ability that creates a replacement effect that sets the creature's power and toughness to one of a number of specific choices as it enters the battlefield or is turned face up. (See rule 614, "Replacement Effects.") Such an ability is worded "As [this creature] enters the battlefield . . . ," "As [this creature] is turned face up . . . ," or "[This creature] enters the battlefield as . . ." and lists two or more specific power and toughness values (and may also list additional characteristics). The characteristics chosen with these effects affect the creature's copiable values. (See rule :ref:`706.2 <mtgcr-706-2>`) While the card isn't on the battlefield, its power and toughness are each considered to be 0.
+The card may have a static ability that creates a replacement effect that sets the creature's power and toughness to one of a number of specific choices as it enters the battlefield or is turned face up. (See rule :ref:`614 <mtgcr-614>`, "Replacement Effects.") Such an ability is worded "As [this creature] enters the battlefield . . . ," "As [this creature] is turned face up . . . ," or "[This creature] enters the battlefield as . . ." and lists two or more specific power and toughness values (and may also list additional characteristics). The characteristics chosen with these effects affect the creature's copiable values. (See rule :ref:`706.2 <mtgcr-706-2>`) While the card isn't on the battlefield, its power and toughness are each considered to be 0.
 
 .. _mtgcr-208-3:
 
@@ -2879,7 +2869,7 @@ Each planeswalker card has a loyalty number printed in its lower right corner. T
 
 209.2
 -----
-An activated ability with a loyalty symbol in its cost is a loyalty ability. Loyalty abilities follow special rules: A player may activate a loyalty ability of a permanent he or she controls any time he or she has priority and the stack is empty during a main phase of his or her turn, but only if none of that permanent's loyalty abilities have been activated that turn. See rule 606, "Loyalty Abilities."
+An activated ability with a loyalty symbol in its cost is a loyalty ability. Loyalty abilities follow special rules: A player may activate a loyalty ability of a permanent he or she controls any time he or she has priority and the stack is empty during a main phase of his or her turn, but only if none of that permanent's loyalty abilities have been activated that turn. See rule :ref:`606 <mtgcr-606>`, "Loyalty Abilities."
 
 210. Hand Modifier
 ==================
@@ -2965,7 +2955,7 @@ Each tribal card has another card type. Casting and resolving a tribal card foll
 
 301.1
 -----
-A player who has priority may cast an artifact card from his or her hand during a main phase of his or her turn when the stack is empty. Casting an artifact as a spell uses the stack. (See rule 601, "Casting Spells.")
+A player who has priority may cast an artifact card from his or her hand during a main phase of his or her turn when the stack is empty. Casting an artifact as a spell uses the stack. (See rule :ref:`601 <mtgcr-601>`, "Casting Spells.")
 
 .. _mtgcr-301-2:
 
@@ -3007,7 +2997,7 @@ An Equipment is cast and enters the battlefield just like any other artifact. An
 
 301.5c
 ------
-An Equipment that's also a creature can't equip a creature. An Equipment that loses the subtype "Equipment" can't equip a creature. An Equipment can't equip itself. An Equipment that equips an illegal or nonexistent permanent becomes unattached from that permanent but remains on the battlefield. (This is a state-based action. See rule 704.) An Equipment can't equip more than one creature. If a spell or ability would cause an Equipment to equip more than one creature, the Equipment's controller chooses which creature it equips.
+An Equipment that's also a creature can't equip a creature. An Equipment that loses the subtype "Equipment" can't equip a creature. An Equipment can't equip itself. An Equipment that equips an illegal or nonexistent permanent becomes unattached from that permanent but remains on the battlefield. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.) An Equipment can't equip more than one creature. If a spell or ability would cause an Equipment to equip more than one creature, the Equipment's controller chooses which creature it equips.
 
 .. _mtgcr-301-5d:
 
@@ -3034,7 +3024,7 @@ Some artifacts have the subtype "Fortification." A Fortification can be attached
 
 302.1
 -----
-A player who has priority may cast a creature card from his or her hand during a main phase of his or her turn when the stack is empty. Casting a creature as a spell uses the stack. (See rule 601, "Casting Spells.")
+A player who has priority may cast a creature card from his or her hand during a main phase of his or her turn when the stack is empty. Casting a creature as a spell uses the stack. (See rule :ref:`601 <mtgcr-601>`, "Casting Spells.")
 
 .. _mtgcr-302-2:
 
@@ -3071,13 +3061,13 @@ A creature's toughness is the amount of damage needed to destroy it.
 
 302.4c
 ------
-To determine a creature's power and toughness, start with the numbers printed in its lower right corner, then apply any applicable continuous effects. (See rule 613, "Interaction of Continuous Effects.")
+To determine a creature's power and toughness, start with the numbers printed in its lower right corner, then apply any applicable continuous effects. (See rule :ref:`613 <mtgcr-613>`, "Interaction of Continuous Effects.")
 
 .. _mtgcr-302-5:
 
 302.5
 -----
-Creatures can attack and block. (See rule 508, "Declare Attackers Step," and rule 509, "Declare Blockers Step.")
+Creatures can attack and block. (See rule :ref:`508 <mtgcr-508>`, "Declare Attackers Step," and rule 509, "Declare Blockers Step.")
 
 .. _mtgcr-302-6:
 
@@ -3089,7 +3079,7 @@ A creature's activated ability with the tap symbol or the untap symbol in its ac
 
 302.7
 -----
-Damage dealt to a creature by a source with neither wither nor infect is marked on that creature (see rule 119.3). If the total damage marked on that creature is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed as a state-based action (see rule 704). All damage marked on a creature is removed when it regenerates (see rule 701.12, "Regenerate") and during the cleanup step (see rule :ref:`514.2 <mtgcr-514-2>`).
+Damage dealt to a creature by a source with neither wither nor infect is marked on that creature (see rule 119.3). If the total damage marked on that creature is greater than or equal to its toughness, that creature has been dealt lethal damage and is destroyed as a state-based action (see rule 704). All damage marked on a creature is removed when it regenerates (see rule :ref:`701 <mtgcr-701>`.12, "Regenerate") and during the cleanup step (see rule :ref:`514.2 <mtgcr-514-2>`).
 
 303. Enchantments
 =================
@@ -3098,7 +3088,7 @@ Damage dealt to a creature by a source with neither wither nor infect is marked 
 
 303.1
 -----
-A player who has priority may cast an enchantment card from his or her hand during a main phase of his or her turn when the stack is empty. Casting an enchantment as a spell uses the stack. (See rule 601, "Casting Spells.")
+A player who has priority may cast an enchantment card from his or her hand during a main phase of his or her turn when the stack is empty. Casting an enchantment as a spell uses the stack. (See rule :ref:`601 <mtgcr-601>`, "Casting Spells.")
 
 .. _mtgcr-303-2:
 
@@ -3134,13 +3124,13 @@ The object or player an Aura is attached to is called enchanted. The Aura is att
 
 303.4c
 ------
-If an Aura is enchanting an illegal object or player as defined by its enchant ability and other applicable effects, the object it was attached to no longer exists, or the player it was attached to has left the game, the Aura is put into its owner's graveyard. (This is a state-based action. See rule 704.)
+If an Aura is enchanting an illegal object or player as defined by its enchant ability and other applicable effects, the object it was attached to no longer exists, or the player it was attached to has left the game, the Aura is put into its owner's graveyard. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.)
 
 .. _mtgcr-303-4d:
 
 303.4d
 ------
-An Aura can't enchant itself. If this occurs somehow, the Aura is put into its owner's graveyard. An Aura that's also a creature can't enchant anything. If this occurs somehow, the Aura becomes unattached, then is put into its owner's graveyard. (These are state-based actions. See rule 704.) An Aura can't enchant more than one object or player. If a spell or ability would cause an Aura to become attached to more than one object or player, the Aura's controller chooses which object or player it becomes attached to.
+An Aura can't enchant itself. If this occurs somehow, the Aura is put into its owner's graveyard. An Aura that's also a creature can't enchant anything. If this occurs somehow, the Aura becomes unattached, then is put into its owner's graveyard. (These are state-based actions. See rule :ref:`704 <mtgcr-704>`.) An Aura can't enchant more than one object or player. If a spell or ability would cause an Aura to become attached to more than one object or player, the Aura's controller chooses which object or player it becomes attached to.
 
 .. _mtgcr-303-4e:
 
@@ -3185,7 +3175,7 @@ An ability of a permanent that refers to the "enchanted [object or player]" refe
 
 304.1
 -----
-A player who has priority may cast an instant card from his or her hand. Casting an instant as a spell uses the stack. (See rule 601, "Casting Spells.")
+A player who has priority may cast an instant card from his or her hand. Casting an instant as a spell uses the stack. (See rule :ref:`601 <mtgcr-601>`, "Casting Spells.")
 
 .. _mtgcr-304-2:
 
@@ -3218,7 +3208,7 @@ If text states that a player may do something "any time he or she could cast an 
 
 305.1
 -----
-A player who has priority may play a land card from his or her hand during a main phase of his or her turn when the stack is empty. Playing a land is a special action; it doesn't use the stack (see rule 115). Rather, the player simply puts the land onto the battlefield. Since the land doesn't go on the stack, it is never a spell, and players can't respond to it with instants or activated abilities.
+A player who has priority may play a land card from his or her hand during a main phase of his or her turn when the stack is empty. Playing a land is a special action; it doesn't use the stack (see rule :ref:`115 <mtgcr-115>`). Rather, the player simply puts the land onto the battlefield. Since the land doesn't go on the stack, it is never a spell, and players can't respond to it with instants or activated abilities.
 
 .. _mtgcr-305-2:
 
@@ -3261,7 +3251,7 @@ Example: "Basic Land -- Mountain" means the card is a land with the subtype Moun
 
 305.6
 -----
-The basic land types are Plains, Island, Swamp, Mountain, and Forest. If an object uses the words "basic land type," it's referring to one of these subtypes. A land with a basic land type has the intrinsic ability "|tap|: Add [mana symbol] to your mana pool," even if the text box doesn't actually contain that text or the object has no text box. For Plains, [mana symbol] is |mana_w|; for Islands, |mana_u|; for Swamps, |mana_b|; for Mountains, |mana_r|; and for Forests, |mana_g|. See rule :ref:`107.4a <mtgcr-107-4a>` Also see rule 605, "Mana Abilities."
+The basic land types are Plains, Island, Swamp, Mountain, and Forest. If an object uses the words "basic land type," it's referring to one of these subtypes. A land with a basic land type has the intrinsic ability "|tap|: Add [mana symbol] to your mana pool," even if the text box doesn't actually contain that text or the object has no text box. For Plains, [mana symbol] is |mana_w|; for Islands, |mana_u|; for Swamps, |mana_b|; for Mountains, |mana_r|; and for Forests, |mana_g|. See rule :ref:`107.4a <mtgcr-107-4a>` Also see rule :ref:`605 <mtgcr-605>`, "Mana Abilities."
 
 .. _mtgcr-305-7:
 
@@ -3288,7 +3278,7 @@ If an object is both a land and another card type, it can be played only as a la
 
 306.1
 -----
-A player who has priority may cast a planeswalker card from his or her hand during a main phase of his or her turn when the stack is empty. Casting a planeswalker as a spell uses the stack. (See rule 601, "Casting Spells.")
+A player who has priority may cast a planeswalker card from his or her hand during a main phase of his or her turn when the stack is empty. Casting a planeswalker as a spell uses the stack. (See rule :ref:`601 <mtgcr-601>`, "Casting Spells.")
 
 .. _mtgcr-306-2:
 
@@ -3306,7 +3296,7 @@ Planeswalker subtypes are always a single word and are listed after a long dash:
 
 306.4
 -----
-If a player controls two or more planeswalkers that share a planeswalker type, that player chooses one of them, and the rest are put into their owners' graveyards. This is called the "planeswalker uniqueness rule." See rule 704.
+If a player controls two or more planeswalkers that share a planeswalker type, that player chooses one of them, and the rest are put into their owners' graveyards. This is called the "planeswalker uniqueness rule." See rule :ref:`704 <mtgcr-704>`.
 
 .. _mtgcr-306-5:
 
@@ -3336,19 +3326,19 @@ The loyalty of a planeswalker on the battlefield is equal to the number of loyal
 
 306.5d
 ------
-Each planeswalker has a number of loyalty abilities, which are activated abilities with loyalty symbols in their costs. Loyalty abilities follow special rules: A player may activate a loyalty ability of a permanent he or she controls any time he or she has priority and the stack is empty during a main phase of his or her turn, but only if none of that permanent's loyalty abilities have been activated that turn. See rule 606, "Loyalty Abilities."
+Each planeswalker has a number of loyalty abilities, which are activated abilities with loyalty symbols in their costs. Loyalty abilities follow special rules: A player may activate a loyalty ability of a permanent he or she controls any time he or she has priority and the stack is empty during a main phase of his or her turn, but only if none of that permanent's loyalty abilities have been activated that turn. See rule :ref:`606 <mtgcr-606>`, "Loyalty Abilities."
 
 .. _mtgcr-306-6:
 
 306.6
 -----
-Planeswalkers can be attacked. (See rule 508, "Declare Attackers Step.")
+Planeswalkers can be attacked. (See rule :ref:`508 <mtgcr-508>`, "Declare Attackers Step.")
 
 .. _mtgcr-306-7:
 
 306.7
 -----
-If noncombat damage would be dealt to a player by a source controlled by an opponent, that opponent may have that source deal that damage to a planeswalker the first player controls instead. This is a redirection effect (see rule :ref:`614.9 <mtgcr-614-9>`) and is subject to the normal rules for ordering replacement effects (see rule 616). The opponent chooses whether to redirect the damage as the redirection effect is applied.
+If noncombat damage would be dealt to a player by a source controlled by an opponent, that opponent may have that source deal that damage to a planeswalker the first player controls instead. This is a redirection effect (see rule :ref:`614.9 <mtgcr-614-9>`) and is subject to the normal rules for ordering replacement effects (see rule :ref:`616 <mtgcr-616>`). The opponent chooses whether to redirect the damage as the redirection effect is applied.
 
 .. _mtgcr-306-8:
 
@@ -3360,7 +3350,7 @@ Damage dealt to a planeswalker results in that many loyalty counters being remov
 
 306.9
 -----
-If a planeswalker's loyalty is 0, it's put into its owner's graveyard. (This is a state-based action. See rule 704.)
+If a planeswalker's loyalty is 0, it's put into its owner's graveyard. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.)
 
 307. Sorceries
 ==============
@@ -3369,7 +3359,7 @@ If a planeswalker's loyalty is 0, it's put into its owner's graveyard. (This is 
 
 307.1
 -----
-A player who has priority may cast a sorcery card from his or her hand during a main phase of his or her turn when the stack is empty. Casting a sorcery as a spell uses the stack. (See rule 601, "Casting Spells.")
+A player who has priority may cast a sorcery card from his or her hand during a main phase of his or her turn when the stack is empty. Casting a sorcery as a spell uses the stack. (See rule :ref:`601 <mtgcr-601>`, "Casting Spells.")
 
 .. _mtgcr-307-2:
 
@@ -3423,7 +3413,7 @@ Tribal subtypes are always a single word and are listed after a long dash: "Trib
 
 309.1
 -----
-Plane is a card type seen only on nontraditional *Magic* cards. Only the Planechase casual variant uses plane cards. See rule 901, "Planechase."
+Plane is a card type seen only on nontraditional *Magic* cards. Only the Planechase casual variant uses plane cards. See rule :ref:`901 <mtgcr-901>`, "Planechase."
 
 .. _mtgcr-309-2:
 
@@ -3468,7 +3458,7 @@ Each plane card has a triggered ability that triggers "Whenever you roll {C}." T
 
 310.1
 -----
-Phenomenon is a card type seen only on nontraditional *Magic* cards. Only the Planechase casual variant uses phenomenon cards. See rule 901, "Planechase."
+Phenomenon is a card type seen only on nontraditional *Magic* cards. Only the Planechase casual variant uses phenomenon cards. See rule :ref:`901 <mtgcr-901>`, "Planechase."
 
 .. _mtgcr-310-2:
 
@@ -3504,7 +3494,7 @@ A face-up phenomenon card that's turned face down becomes a new object.
 
 310.7
 -----
-If a phenomenon card is face up in the command zone, and it isn't the source of a triggered ability that has triggered but not yet left the stack, the planar controller planeswalks the next time a player would receive priority. (This is a state-based action; see rule 704. See also rule 701.21, "Planeswalk.")
+If a phenomenon card is face up in the command zone, and it isn't the source of a triggered ability that has triggered but not yet left the stack, the planar controller planeswalks the next time a player would receive priority. (This is a state-based action; see rule :ref:`704 <mtgcr-704>`. See also rule 701.21, "Planeswalk.")
 
 311. Vanguards
 ==============
@@ -3513,7 +3503,7 @@ If a phenomenon card is face up in the command zone, and it isn't the source of 
 
 311.1
 -----
-Vanguard is a card type seen only on nontraditional *Magic* cards. Only the Vanguard casual variant uses vanguard cards. See rule 902, "Vanguard."
+Vanguard is a card type seen only on nontraditional *Magic* cards. Only the Vanguard casual variant uses vanguard cards. See rule :ref:`902 <mtgcr-902>`, "Vanguard."
 
 .. _mtgcr-311-2:
 
@@ -3558,7 +3548,7 @@ Each vanguard card has a life modifier printed in its lower right corner. This i
 
 312.1
 -----
-Scheme is a card type seen only on nontraditional *Magic* cards. Only the Archenemy casual variant uses scheme cards. See rule 904, "Archenemy."
+Scheme is a card type seen only on nontraditional *Magic* cards. Only the Archenemy casual variant uses scheme cards. See rule :ref:`904 <mtgcr-904>`, "Archenemy."
 
 .. _mtgcr-312-2:
 
@@ -3588,7 +3578,7 @@ The owner of a scheme card is the player who started the game with it in the com
 
 312.6
 -----
-If a non-ongoing scheme card is face up in the command zone, and it isn't the source of a triggered ability that has triggered but not yet left the stack, that scheme card is turned face down and put on the bottom of its owner's scheme deck the next time a player would receive priority. (This is a state-based action. See rule 704.)
+If a non-ongoing scheme card is face up in the command zone, and it isn't the source of a triggered ability that has triggered but not yet left the stack, that scheme card is turned face down and put on the bottom of its owner's scheme deck the next time a player would receive priority. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.)
 
 .. _mtgcr-312-7:
 
@@ -3800,7 +3790,7 @@ If an effect causes a player to put a card into a library "Nth from the top," an
 
 402.1
 -----
-The hand is where a player holds cards that have been drawn. Cards can be put into a player's hand by other effects as well. At the beginning of the game, each player draws a number of cards equal to that player's starting hand size, normally seven. (See rule 103, "Starting the Game.")
+The hand is where a player holds cards that have been drawn. Cards can be put into a player's hand by other effects as well. At the beginning of the game, each player draws a number of cards equal to that player's starting hand size, normally seven. (See rule :ref:`103 <mtgcr-103>`, "Starting the Game.")
 
 .. _mtgcr-402-2:
 
@@ -3833,7 +3823,7 @@ A spell or ability affects and checks only the battlefield unless it specificall
 
 403.3
 -----
-Permanents exist only on the battlefield. Every object on the battlefield is a permanent. See rule 110, "Permanents."
+Permanents exist only on the battlefield. Every object on the battlefield is a permanent. See rule :ref:`110 <mtgcr-110>`, "Permanents."
 
 .. _mtgcr-403-4:
 
@@ -3917,31 +3907,31 @@ Effects don't go on the stack; they're the result of spells and abilities resolv
 
 405.6b
 ------
-Static abilities continuously generate effects and don't go on the stack. (See rule 604, "Handling Static Abilities.") This includes characteristic-defining abilities such as "[This object] is red" (see rule :ref:`604.3 <mtgcr-604-3>`).
+Static abilities continuously generate effects and don't go on the stack. (See rule :ref:`604 <mtgcr-604>`, "Handling Static Abilities.") This includes characteristic-defining abilities such as "[This object] is red" (see rule :ref:`604.3 <mtgcr-604-3>`).
 
 .. _mtgcr-405-6c:
 
 405.6c
 ------
-Mana abilities resolve immediately. If a mana ability both produces mana and has another effect, the mana is produced and the other effect happens immediately. If a player had priority before a mana ability was activated, that player gets priority after it resolves. (See rule 605, "Mana Abilities.")
+Mana abilities resolve immediately. If a mana ability both produces mana and has another effect, the mana is produced and the other effect happens immediately. If a player had priority before a mana ability was activated, that player gets priority after it resolves. (See rule :ref:`605 <mtgcr-605>`, "Mana Abilities.")
 
 .. _mtgcr-405-6d:
 
 405.6d
 ------
-Special actions don't use the stack; they happen immediately. See rule 115, "Special Actions."
+Special actions don't use the stack; they happen immediately. See rule :ref:`115 <mtgcr-115>`, "Special Actions."
 
 .. _mtgcr-405-6e:
 
 405.6e
 ------
-Turn-based actions don't use the stack; they happen automatically when certain steps or phases begin. They're dealt with before a player would receive priority (see rule :ref:`116.3a <mtgcr-116-3a>`). Turn-based actions also happen automatically when each step and phase ends; no player receives priority afterward. See rule 703.
+Turn-based actions don't use the stack; they happen automatically when certain steps or phases begin. They're dealt with before a player would receive priority (see rule :ref:`116.3a <mtgcr-116-3a>`). Turn-based actions also happen automatically when each step and phase ends; no player receives priority afterward. See rule :ref:`703 <mtgcr-703>`.
 
 .. _mtgcr-405-6f:
 
 405.6f
 ------
-State-based actions don't use the stack; they happen automatically when certain conditions are met. See rule 704. They are dealt with before a player would receive priority. See rule :ref:`116.5 <mtgcr-116-5>`
+State-based actions don't use the stack; they happen automatically when certain conditions are met. See rule :ref:`704 <mtgcr-704>`. They are dealt with before a player would receive priority. See rule :ref:`116.5 <mtgcr-116-5>`
 
 .. _mtgcr-405-6g:
 
@@ -3974,7 +3964,7 @@ To exile an object is to put it into the exile zone from whatever zone it's curr
 
 406.3
 -----
-Exiled cards are, by default, kept face up and may be examined by any player at any time. Cards "exiled face down" can't be examined by any player except when instructions allow it. However, once a player is allowed to look at a card exiled face down, that player may continue to look at that card as long as it remains exiled, even if the instruction allowing the player to do so no longer applies. A card exiled face down has no characteristics, but the spell or ability that exiled it may allow it to be played from exile. Unless that card is being cast face down (see rule 707.4), the card is turned face up just before the player announces that he or she is playing the card (see rule :ref:`601.2 <mtgcr-601-2>`).
+Exiled cards are, by default, kept face up and may be examined by any player at any time. Cards "exiled face down" can't be examined by any player except when instructions allow it. However, once a player is allowed to look at a card exiled face down, that player may continue to look at that card as long as it remains exiled, even if the instruction allowing the player to do so no longer applies. A card exiled face down has no characteristics, but the spell or ability that exiled it may allow it to be played from exile. Unless that card is being cast face down (see rule :ref:`707 <mtgcr-707>`.4), the card is turned face up just before the player announces that he or she is playing the card (see rule :ref:`601.2 <mtgcr-601-2>`).
 
 .. _mtgcr-406-4:
 
@@ -3986,7 +3976,7 @@ Exiled cards that might return to the battlefield or any other zone should be ke
 
 406.5
 -----
-An object may have one ability printed on it that causes one or more cards to be exiled, and another ability that refers either to "the exiled cards" or to cards "exiled with [this object]." These abilities are linked: the second refers only to cards that have been exiled due to the first. See rule 607, "Linked Abilities."
+An object may have one ability printed on it that causes one or more cards to be exiled, and another ability that refers either to "the exiled cards" or to cards "exiled with [this object]." These abilities are linked: the second refers only to cards that have been exiled due to the first. See rule :ref:`607 <mtgcr-607>`, "Linked Abilities."
 
 .. _mtgcr-406-6:
 
@@ -4040,7 +4030,7 @@ The command zone is a game area reserved for certain specialized objects that ha
 
 408.2
 -----
-Emblems may be created in the command zone. See rule 113, "Emblems."
+Emblems may be created in the command zone. See rule :ref:`113 <mtgcr-113>`, "Emblems."
 
 .. _mtgcr-408-3:
 
@@ -4072,7 +4062,7 @@ A phase or step in which players receive priority ends when the stack is empty a
 
 500.3
 -----
-A step in which no players receive priority ends when all specified actions that take place during that step are completed. The only such steps are the untap step (see rule 502) and certain cleanup steps (see rule 514).
+A step in which no players receive priority ends when all specified actions that take place during that step are completed. The only such steps are the untap step (see rule 502) and certain cleanup steps (see rule :ref:`514 <mtgcr-514>`).
 
 .. _mtgcr-500-4:
 
@@ -4150,7 +4140,7 @@ Second, the active player determines which permanents he or she controls will un
 
 502.3
 -----
-No player receives priority during the untap step, so no spells can be cast or resolve and no abilities can be activated or resolve. Any ability that triggers during this step will be held until the next time a player would receive priority, which is usually during the upkeep step. (See rule 503, "Upkeep Step.")
+No player receives priority during the untap step, so no spells can be cast or resolve and no abilities can be activated or resolve. Any ability that triggers during this step will be held until the next time a player would receive priority, which is usually during the upkeep step. (See rule :ref:`503 <mtgcr-503>`, "Upkeep Step.")
 
 503. Upkeep Step
 ================
@@ -4159,7 +4149,7 @@ No player receives priority during the untap step, so no spells can be cast or r
 
 503.1
 -----
-First, any abilities that trigger at the beginning of the upkeep step and any abilities that triggered during the turn's untap step go on the stack. (See rule 603, "Handling Triggered Abilities.")
+First, any abilities that trigger at the beginning of the upkeep step and any abilities that triggered during the turn's untap step go on the stack. (See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities.")
 
 .. _mtgcr-503-2:
 
@@ -4201,7 +4191,7 @@ Third, the active player gets priority. Players may cast spells and activate abi
 
 505.1
 -----
-There are two main phases in a turn. In each turn, the first main phase (also known as the precombat main phase) and the second main phase (also known as the postcombat main phase) are separated by the combat phase (see rule 506, "Combat Phase"). The precombat and postcombat main phases are individually and collectively known as the main phase.
+There are two main phases in a turn. In each turn, the first main phase (also known as the precombat main phase) and the second main phase (also known as the postcombat main phase) are separated by the combat phase (see rule :ref:`506 <mtgcr-506>`, "Combat Phase"). The precombat and postcombat main phases are individually and collectively known as the main phase.
 
 .. _mtgcr-505-1a:
 
@@ -4219,13 +4209,13 @@ The main phase has no steps, so a main phase ends when all players pass in succe
 
 505.3
 -----
-First, but only if the players are playing an Archenemy game (see rule 904), the active player is the archenemy, and it's the active player's precombat main phase, the active player sets the top card of his or her scheme deck in motion (see rule :ref:`701.22 <mtgcr-701-22>`). This turn-based action doesn't use the stack.
+First, but only if the players are playing an Archenemy game (see rule :ref:`904 <mtgcr-904>`), the active player is the archenemy, and it's the active player's precombat main phase, the active player sets the top card of his or her scheme deck in motion (see rule :ref:`701.22 <mtgcr-701-22>`). This turn-based action doesn't use the stack.
 
 .. _mtgcr-505-4:
 
 505.4
 -----
-Second, any abilities that trigger at the beginning of the main phase go on the stack. (See rule 603, "Handling Triggered Abilities.")
+Second, any abilities that trigger at the beginning of the main phase go on the stack. (See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities.")
 
 .. _mtgcr-505-5:
 
@@ -4243,7 +4233,7 @@ The main phase is the only phase in which a player can normally cast artifact, c
 
 505.5b
 ------
-During either main phase, the active player may play one land card from his or her hand if the stack is empty, if the player has priority, and if he or she hasn't played a land this turn (unless an effect states the player may play additional lands). This action doesn't use the stack. Neither the land nor the action of playing the land is a spell or ability, so it can't be countered, and players can't respond to it with instants or activated abilities. (See rule 305, "Lands.")
+During either main phase, the active player may play one land card from his or her hand if the stack is empty, if the player has priority, and if he or she hasn't played a land this turn (unless an effect states the player may play additional lands). This action doesn't use the stack. Neither the land nor the action of playing the land is a spell or ability, so it can't be countered, and players can't respond to it with instants or activated abilities. (See rule :ref:`305 <mtgcr-305>`, "Lands.")
 
 506. Combat Phase
 =================
@@ -4252,7 +4242,7 @@ During either main phase, the active player may play one land card from his or h
 
 506.1
 -----
-The combat phase has five steps, which proceed in order: beginning of combat, declare attackers, declare blockers, combat damage, and end of combat. The declare blockers and combat damage steps are skipped if no creatures are declared as attackers or put onto the battlefield attacking (see rule 508.4). There are two combat damage steps if any attacking or blocking creature has first strike (see rule 702.7) or double strike (see rule :ref:`702.4 <mtgcr-702-4>`).
+The combat phase has five steps, which proceed in order: beginning of combat, declare attackers, declare blockers, combat damage, and end of combat. The declare blockers and combat damage steps are skipped if no creatures are declared as attackers or put onto the battlefield attacking (see rule 508.4). There are two combat damage steps if any attacking or blocking creature has first strike (see rule :ref:`702 <mtgcr-702>`.7) or double strike (see rule :ref:`702.4 <mtgcr-702-4>`).
 
 .. _mtgcr-506-2:
 
@@ -4264,13 +4254,13 @@ During the combat phase, the active player is the attacking player; creatures th
 
 506.2a
 ------
-During the combat phase of a multiplayer game, there may be one or more defending players, depending on the variant being played and the options chosen for it. Unless all the attacking player's opponents automatically become defending players during the combat phase, the attacking player chooses one of his or her opponents as a turn-based action during the beginning of combat step. (Note that the choice may be dictated by the variant being played or the options chosen for it.) That player becomes the defending player. See rule 802, "Attack Multiple Players Option," rule 803, "Attack Left and Attack Right Options," and rule 809, "Emperor Variant."
+During the combat phase of a multiplayer game, there may be one or more defending players, depending on the variant being played and the options chosen for it. Unless all the attacking player's opponents automatically become defending players during the combat phase, the attacking player chooses one of his or her opponents as a turn-based action during the beginning of combat step. (Note that the choice may be dictated by the variant being played or the options chosen for it.) That player becomes the defending player. See rule :ref:`802 <mtgcr-802>`, "Attack Multiple Players Option," rule 803, "Attack Left and Attack Right Options," and rule 809, "Emperor Variant."
 
 .. _mtgcr-506-2b:
 
 506.2b
 ------
-In the Two-Headed Giant multiplayer variant, the nonactive team is the defending team. See rule 810, "Two-Headed Giant Variant."
+In the Two-Headed Giant multiplayer variant, the nonactive team is the defending team. See rule :ref:`810 <mtgcr-810>`, "Two-Headed Giant Variant."
 
 .. _mtgcr-506-3:
 
@@ -4348,13 +4338,13 @@ Some spells state that they may be cast "only [before/after] [a particular point
 
 506.6a
 ------
-A spell that states it may be cast "only before (or after) attackers are declared" is referring to the turn-based action of declaring attackers. It may be cast only before (or after) the declare attackers step begins, regardless of whether any attackers are actually declared. (See rule 508.)
+A spell that states it may be cast "only before (or after) attackers are declared" is referring to the turn-based action of declaring attackers. It may be cast only before (or after) the declare attackers step begins, regardless of whether any attackers are actually declared. (See rule :ref:`508 <mtgcr-508>`.)
 
 .. _mtgcr-506-6b:
 
 506.6b
 ------
-A spell that states it may be cast "only before (or after) blockers are declared" is referring to the turn-based action of declaring blockers. It may be cast only before (or after) the declare blockers step begins, regardless of whether any blockers are actually declared. (See rule 509.)
+A spell that states it may be cast "only before (or after) blockers are declared" is referring to the turn-based action of declaring blockers. It may be cast only before (or after) the declare blockers step begins, regardless of whether any blockers are actually declared. (See rule :ref:`509 <mtgcr-509>`.)
 
 .. _mtgcr-506-6c:
 
@@ -4399,7 +4389,7 @@ First, if the game being played is a multiplayer game in which the active player
 
 507.2
 -----
-Second, any abilities that trigger at the beginning of combat go on the stack. (See rule 603, "Handling Triggered Abilities.")
+Second, any abilities that trigger at the beginning of combat go on the stack. (See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities.")
 
 .. _mtgcr-507-3:
 
@@ -4414,7 +4404,7 @@ Third, the active player gets priority. Players may cast spells and activate abi
 
 508.1
 -----
-First, the active player declares attackers. This turn-based action doesn't use the stack. To declare attackers, the active player follows the steps below, in order. If at any point during the declaration of attackers, the active player is unable to comply with any of the steps listed below, the declaration is illegal; the game returns to the moment before the declaration (see rule 717, "Handling Illegal Actions").
+First, the active player declares attackers. This turn-based action doesn't use the stack. To declare attackers, the active player follows the steps below, in order. If at any point during the declaration of attackers, the active player is unable to comply with any of the steps listed below, the declaration is illegal; the game returns to the moment before the declaration (see rule :ref:`717 <mtgcr-717>`, "Handling Illegal Actions").
 
 .. _mtgcr-508-1a:
 
@@ -4464,7 +4454,7 @@ If any of the chosen creatures require paying costs to attack, the active player
 
 508.1h
 ------
-If any of the costs require mana, the active player then has a chance to activate mana abilities (see rule 605, "Mana Abilities").
+If any of the costs require mana, the active player then has a chance to activate mana abilities (see rule :ref:`605 <mtgcr-605>`, "Mana Abilities").
 
 .. _mtgcr-508-1i:
 
@@ -4482,7 +4472,7 @@ Each chosen creature still controlled by the active player becomes an attacking 
 
 508.2
 -----
-Second, any abilities that triggered on attackers being declared go on the stack. (See rule 603, "Handling Triggered Abilities.")
+Second, any abilities that triggered on attackers being declared go on the stack. (See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities.")
 
 .. _mtgcr-508-2a:
 
@@ -4534,7 +4524,7 @@ If no creatures are declared as attackers or put onto the battlefield attacking,
 
 509.1
 -----
-First, the defending player declares blockers. This turn-based action doesn't use the stack. To declare blockers, the defending player follows the steps below, in order. If at any point during the declaration of blockers, the defending player is unable to comply with any of the steps listed below, the declaration is illegal; the game returns to the moment before the declaration (see rule 717, "Handling Illegal Actions").
+First, the defending player declares blockers. This turn-based action doesn't use the stack. To declare blockers, the defending player follows the steps below, in order. If at any point during the declaration of blockers, the defending player is unable to comply with any of the steps listed below, the declaration is illegal; the game returns to the moment before the declaration (see rule :ref:`717 <mtgcr-717>`, "Handling Illegal Actions").
 
 .. _mtgcr-509-1a:
 
@@ -4567,7 +4557,7 @@ If any of the chosen creatures require paying costs to block, the defending play
 
 509.1e
 ------
-If any of the costs require mana, the defending player then has a chance to activate mana abilities (see rule 605, "Mana Abilities").
+If any of the costs require mana, the defending player then has a chance to activate mana abilities (see rule :ref:`605 <mtgcr-605>`, "Mana Abilities").
 
 .. _mtgcr-509-1f:
 
@@ -4616,7 +4606,7 @@ During the declare blockers step, if an attacking creature is removed from comba
 
 509.4
 -----
-Fourth, any abilities that triggered on blockers being declared go on the stack. (See rule 603, "Handling Triggered Abilities.")
+Fourth, any abilities that triggered on blockers being declared go on the stack. (See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities.")
 
 .. _mtgcr-509-4a:
 
@@ -4721,7 +4711,7 @@ A blocking creature assigns combat damage to the creatures it's blocking. If it 
 
 510.1e
 ------
-Once a player has assigned combat damage from each attacking or blocking creature he or she controls, the total damage assignment (not solely the damage assignment of any individual attacking or blocking creature) is checked to see if it complies with the above rules. If it doesn't, the combat damage assignment is illegal; the game returns to the moment before that player began to assign combat damage. (See rule 717, "Handling Illegal Actions").
+Once a player has assigned combat damage from each attacking or blocking creature he or she controls, the total damage assignment (not solely the damage assignment of any individual attacking or blocking creature) is checked to see if it complies with the above rules. If it doesn't, the combat damage assignment is illegal; the game returns to the moment before that player began to assign combat damage. (See rule :ref:`717 <mtgcr-717>`, "Handling Illegal Actions").
 
 .. _mtgcr-510-2:
 
@@ -4734,7 +4724,7 @@ Example: Squadron Hawk (a 1/1 creature with flying) and Goblin Piker (a 2/1 crea
 
 510.3
 -----
-Third, any abilities that triggered on damage being assigned or dealt go on the stack. (See rule 603, "Handling Triggered Abilities.")
+Third, any abilities that triggered on damage being assigned or dealt go on the stack. (See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities.")
 
 .. _mtgcr-510-4:
 
@@ -4746,7 +4736,7 @@ Fourth, the active player gets priority. Players may cast spells and activate ab
 
 510.5
 -----
-If at least one attacking or blocking creature has first strike (see rule 702.7) or double strike (see rule :ref:`702.4 <mtgcr-702-4>`) as the combat damage step begins, the only creatures that assign combat damage in that step are those with first strike or double strike. After that step, instead of proceeding to the end of combat step, the phase gets a second combat damage step. The only creatures that assign combat damage in that step are the remaining attackers and blockers that had neither first strike nor double strike as the first combat damage step began, as well as the remaining attackers and blockers that currently have double strike. After that step, the phase proceeds to the end of combat step.
+If at least one attacking or blocking creature has first strike (see rule :ref:`702 <mtgcr-702>`.7) or double strike (see rule :ref:`702.4 <mtgcr-702-4>`) as the combat damage step begins, the only creatures that assign combat damage in that step are those with first strike or double strike. After that step, instead of proceeding to the end of combat step, the phase gets a second combat damage step. The only creatures that assign combat damage in that step are the remaining attackers and blockers that had neither first strike nor double strike as the first combat damage step began, as well as the remaining attackers and blockers that currently have double strike. After that step, the phase proceeds to the end of combat step.
 
 511. End of Combat Step
 =======================
@@ -4755,7 +4745,7 @@ If at least one attacking or blocking creature has first strike (see rule 702.7)
 
 511.1
 -----
-First, all "at end of combat" abilities trigger and go on the stack. (See rule 603, "Handling Triggered Abilities.")
+First, all "at end of combat" abilities trigger and go on the stack. (See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities.")
 
 .. _mtgcr-511-2:
 
@@ -4767,7 +4757,7 @@ Second, the active player gets priority. Players may cast spells and activate ab
 
 511.3
 -----
-As soon as the end of combat step ends, all creatures and planeswalkers are removed from combat. After the end of combat step ends, the combat phase is over and the postcombat main phase begins (see rule 505).
+As soon as the end of combat step ends, all creatures and planeswalkers are removed from combat. After the end of combat step ends, the combat phase is over and the postcombat main phase begins (see rule :ref:`505 <mtgcr-505>`).
 
 512. Ending Phase
 =================
@@ -4785,7 +4775,7 @@ The ending phase consists of two steps: end and cleanup.
 
 513.1
 -----
-First, all abilities that trigger "at the beginning of the end step" or "at the beginning of the next end step" go on the stack. (See rule 603, "Handling Triggered Abilities.")
+First, all abilities that trigger "at the beginning of the end step" or "at the beginning of the next end step" go on the stack. (See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities.")
 
 .. _mtgcr-513-1a:
 
@@ -4803,7 +4793,7 @@ Second, the active player gets priority. Players may cast spells and activate ab
 
 513.3
 -----
-If a permanent with an ability that triggers "at the beginning of the end step" enters the battlefield during this step, that ability won't trigger until the next turn's end step. Likewise, if a delayed triggered ability that triggers "at the beginning of the next end step" is created during this step, that ability won't trigger until the next turn's end step. In other words, the step doesn't "back up" so those abilities can go on the stack. This rule applies only to triggered abilities; it doesn't apply to continuous effects whose durations say "until end of turn" or "this turn." (See rule 514, "Cleanup Step.")
+If a permanent with an ability that triggers "at the beginning of the end step" enters the battlefield during this step, that ability won't trigger until the next turn's end step. Likewise, if a delayed triggered ability that triggers "at the beginning of the next end step" is created during this step, that ability won't trigger until the next turn's end step. In other words, the step doesn't "back up" so those abilities can go on the stack. This rule applies only to triggered abilities; it doesn't apply to continuous effects whose durations say "until end of turn" or "this turn." (See rule :ref:`514 <mtgcr-514>`, "Cleanup Step.")
 
 514. Cleanup Step
 =================
@@ -4859,7 +4849,7 @@ Some effects still refer to "playing" a card. "Playing a card" means playing tha
 
 601.2
 -----
-To cast a spell is to take it from where it is (usually the hand), put it on the stack, and pay its costs, so that it will eventually resolve and have its effect. Casting a spell follows the steps listed below, in order. If, at any point during the casting of a spell, a player is unable to comply with any of the steps listed below, the casting of the spell is illegal; the game returns to the moment before that spell started to be cast (see rule 717, "Handling Illegal Actions"). Announcements and payments can't be altered after they've been made.
+To cast a spell is to take it from where it is (usually the hand), put it on the stack, and pay its costs, so that it will eventually resolve and have its effect. Casting a spell follows the steps listed below, in order. If, at any point during the casting of a spell, a player is unable to comply with any of the steps listed below, the casting of the spell is illegal; the game returns to the moment before that spell started to be cast (see rule :ref:`717 <mtgcr-717>`, "Handling Illegal Actions"). Announcements and payments can't be altered after they've been made.
 
 .. _mtgcr-601-2a:
 
@@ -4871,7 +4861,7 @@ The player announces that he or she is casting the spell. That card (or that cop
 
 601.2b
 ------
-If the spell is modal the player announces the mode choice (see rule 700.2). If the player wishes to splice any cards onto the spell (see rule 702.46), he or she reveals those cards in his or her hand. If the spell has alternative or additional costs that will be paid as it's being cast such as buyback or kicker costs (see rules 117.8 and 117.9), the player announces his or her intentions to pay any or all of those costs (see rule 601.2e). A player can't apply two alternative methods of casting or two alternative costs to a single spell. If the spell has a variable cost that will be paid as it's being cast (such as an |mana_x| in its mana cost; see rule :ref:`107.3 <mtgcr-107-3>`), the player announces the value of that variable. If a cost that will be paid as the spell is being cast includes hybrid mana symbols, the player announces the nonhybrid equivalent cost he or she intends to pay. If a cost that will be paid as the spell is being cast includes Phyrexian mana symbols, the player announces whether he or she intends to pay 2 life or the corresponding colored mana cost for each of those symbols. Previously made choices (such as choosing to cast a spell with flashback from a graveyard or choosing to cast a creature with morph face down) may restrict the player's options when making these choices.
+If the spell is modal the player announces the mode choice (see rule 700.2). If the player wishes to splice any cards onto the spell (see rule 702.46), he or she reveals those cards in his or her hand. If the spell has alternative or additional costs that will be paid as it's being cast such as buyback or kicker costs (see rules 117.8 and 117.9), the player announces his or her intentions to pay any or all of those costs (see rule :ref:`601 <mtgcr-601>`.2e). A player can't apply two alternative methods of casting or two alternative costs to a single spell. If the spell has a variable cost that will be paid as it's being cast (such as an |mana_x| in its mana cost; see rule :ref:`107.3 <mtgcr-107-3>`), the player announces the value of that variable. If a cost that will be paid as the spell is being cast includes hybrid mana symbols, the player announces the nonhybrid equivalent cost he or she intends to pay. If a cost that will be paid as the spell is being cast includes Phyrexian mana symbols, the player announces whether he or she intends to pay 2 life or the corresponding colored mana cost for each of those symbols. Previously made choices (such as choosing to cast a spell with flashback from a graveyard or choosing to cast a creature with morph face down) may restrict the player's options when making these choices.
 
 .. _mtgcr-601-2c:
 
@@ -4896,7 +4886,7 @@ The player determines the total cost of the spell. Usually this is just the mana
 
 601.2f
 ------
-If the total cost includes a mana payment, the player then has a chance to activate mana abilities (see rule 605, "Mana Abilities"). Mana abilities must be activated before costs are paid.
+If the total cost includes a mana payment, the player then has a chance to activate mana abilities (see rule :ref:`605 <mtgcr-605>`, "Mana Abilities"). Mana abilities must be activated before costs are paid.
 
 .. _mtgcr-601-2g:
 
@@ -4945,7 +4935,7 @@ A player can't begin to cast a spell that's prohibited from being cast.
 
 601.5a
 ------
-If an effect allows a card that's prohibited from being cast to be cast face down, and the face-down spell would not be prohibited, that spell can be cast face down. See rule 707, "Face-Down Spells and Permanents."
+If an effect allows a card that's prohibited from being cast to be cast face down, and the face-down spell would not be prohibited, that spell can be cast face down. See rule :ref:`707 <mtgcr-707>`, "Face-Down Spells and Permanents."
 
 602. Activating Activated Abilities
 ===================================
@@ -4985,7 +4975,7 @@ Previously, the action of using an activated ability was referred to on cards as
 
 602.2
 -----
-To activate an ability is to put it onto the stack and pay its costs, so that it will eventually resolve and have its effect. Only an object's controller (or its owner, if it doesn't have a controller) can activate its activated ability unless the object specifically says otherwise. Activating an ability follows the steps listed below, in order. If, at any point during the activation of an ability, a player is unable to comply with any of those steps, the activation is illegal; the game returns to the moment before that ability started to be activated (see rule 717, "Handling Illegal Actions"). Announcements and payments can't be altered after they've been made.
+To activate an ability is to put it onto the stack and pay its costs, so that it will eventually resolve and have its effect. Only an object's controller (or its owner, if it doesn't have a controller) can activate its activated ability unless the object specifically says otherwise. Activating an ability follows the steps listed below, in order. If, at any point during the activation of an ability, a player is unable to comply with any of those steps, the activation is illegal; the game returns to the moment before that ability started to be activated (see rule :ref:`717 <mtgcr-717>`, "Handling Illegal Actions"). Announcements and payments can't be altered after they've been made.
 
 .. _mtgcr-602-2a:
 
@@ -5117,7 +5107,7 @@ Example: An ability that triggers on damage being dealt won't trigger if all the
 
 603.3
 -----
-Once an ability has triggered, its controller puts it on the stack as an object that's not a card the next time a player would receive priority. See rule 116, "Timing and Priority." The ability becomes the topmost object on the stack. It has the text of the ability that created it, and no other characteristics. It remains on the stack until it's countered, it resolves, a rule causes it to be removed from the stack, or an effect moves it elsewhere.
+Once an ability has triggered, its controller puts it on the stack as an object that's not a card the next time a player would receive priority. See rule :ref:`116 <mtgcr-116>`, "Timing and Priority." The ability becomes the topmost object on the stack. It has the text of the ability that created it, and no other characteristics. It remains on the stack until it's countered, it resolves, a rule causes it to be removed from the stack, or an effect moves it elsewhere.
 
 .. _mtgcr-603-3a:
 
@@ -5262,7 +5252,7 @@ Some triggered abilities trigger specifically when a player loses the game. Thes
 
 603.10
 ------
-Some objects have a static ability that's linked to a triggered ability. (See rule 607, "Linked Abilities.") These objects combine both abilities into one paragraph, with the static ability first, followed by the triggered ability. A very few objects have triggered abilities which are written with the trigger condition in the middle of the ability, rather than at the beginning.
+Some objects have a static ability that's linked to a triggered ability. (See rule :ref:`607 <mtgcr-607>`, "Linked Abilities.") These objects combine both abilities into one paragraph, with the static ability first, followed by the triggered ability. A very few objects have triggered abilities which are written with the trigger condition in the middle of the ability, rather than at the beginning.
 Example: An ability that reads "Reveal the first card you draw each turn. Whenever you reveal a basic land card this way, draw a card" is a static ability linked to a triggered ability.
 
 604. Handling Static Abilities
@@ -5329,7 +5319,7 @@ Some activated abilities and some triggered abilities are mana abilities, which 
 
 605.1a
 ------
-An activated ability is a mana ability if it meets three criteria: it doesn't have a target, it could put mana into a player's mana pool when it resolves, and it's not a loyalty ability. (See rule 606, "Loyalty Abilities.")
+An activated ability is a mana ability if it meets three criteria: it doesn't have a target, it could put mana into a player's mana pool when it resolves, and it's not a loyalty ability. (See rule :ref:`606 <mtgcr-606>`, "Loyalty Abilities.")
 
 .. _mtgcr-605-1b:
 
@@ -5366,7 +5356,7 @@ An activated mana ability doesn't go on the stack, so it can't be targeted, coun
 
 605.4
 -----
-Triggered mana abilities follow all the rules for other triggered abilities (see rule 603, "Handling Triggered Abilities"), with the following exception:
+Triggered mana abilities follow all the rules for other triggered abilities (see rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities"), with the following exception:
 
 .. _mtgcr-605-4a:
 
@@ -5463,7 +5453,7 @@ If an object has an activated or triggered ability printed on it that instructs 
 
 607.2b
 ------
-If an object has an ability printed on it that generates a replacement effect which causes one or more cards to be exiled and an ability printed on it that refers either to "the exiled cards" or to cards "exiled with [this object]," these abilities are linked. The second ability refers only to cards in the exile zone that were put there as a direct result of a replacement event caused by the first ability. See rule 614, "Replacement Effects."
+If an object has an ability printed on it that generates a replacement effect which causes one or more cards to be exiled and an ability printed on it that refers either to "the exiled cards" or to cards "exiled with [this object]," these abilities are linked. The second ability refers only to cards in the exile zone that were put there as a direct result of a replacement event caused by the first ability. See rule :ref:`614 <mtgcr-614>`, "Replacement Effects."
 
 .. _mtgcr-607-2c:
 
@@ -5540,7 +5530,7 @@ Example: Arc-Slogger has the ability "|mana_r|, Exile the top ten cards of your 
 
 608.1
 -----
-Each time all players pass in succession, the spell or ability on top of the stack resolves. (See rule 609, "Effects.")
+Each time all players pass in succession, the spell or ability on top of the stack resolves. (See rule :ref:`609 <mtgcr-609>`, "Effects.")
 
 .. _mtgcr-608-2:
 
@@ -5572,7 +5562,7 @@ The controller of the spell or ability follows its instructions in the order wri
 
 608.2d
 ------
-If an effect of a spell or ability offers any choices other than choices already made as part of casting the spell, activating the ability, or otherwise putting the spell or ability on the stack, the player announces these while applying the effect. The player can't choose an option that's illegal or impossible, with the exception that having a library with no cards in it doesn't make drawing a card an impossible action (see rule 120.3). If an effect divides or distributes something, such as damage or counters, as a player chooses among any number of untargeted players and/or objects, the player chooses the amount and division such that at least one player or object is chosen if able, and each chosen player or object receives at least one of whatever is being divided. (Note that if an effect divides or distributes something, such as damage or counters, as a player chooses among some number of target objects and/or players, the amount and division were determined as the spell or ability was put onto the stack rather than at this time; see rule :ref:`601.2d <mtgcr-601-2d>`)
+If an effect of a spell or ability offers any choices other than choices already made as part of casting the spell, activating the ability, or otherwise putting the spell or ability on the stack, the player announces these while applying the effect. The player can't choose an option that's illegal or impossible, with the exception that having a library with no cards in it doesn't make drawing a card an impossible action (see rule :ref:`120 <mtgcr-120>`.3). If an effect divides or distributes something, such as damage or counters, as a player chooses among any number of untargeted players and/or objects, the player chooses the amount and division such that at least one player or object is chosen if able, and each chosen player or object receives at least one of whatever is being divided. (Note that if an effect divides or distributes something, such as damage or counters, as a player chooses among some number of target objects and/or players, the amount and division were determined as the spell or ability was put onto the stack rather than at this time; see rule :ref:`601.2d <mtgcr-601-2d>`)
 Example: A spell's instruction reads, "You may sacrifice a creature. If you don't, you lose 4 life." A player who controls no creatures can't choose the sacrifice option.
 
 .. _mtgcr-608-2e:
@@ -5863,7 +5853,7 @@ The values of an object's characteristics are determined by starting with the ac
 
 613.1a
 ------
-Layer 1: Copy effects are applied. See rule 706, "Copying Objects."
+Layer 1: Copy effects are applied. See rule :ref:`706 <mtgcr-706>`, "Copying Objects."
 
 .. _mtgcr-613-1b:
 
@@ -5875,7 +5865,7 @@ Layer 2: Control-changing effects are applied.
 
 613.1c
 ------
-Layer 3: Text-changing effects are applied. See rule 612, "Text-Changing Effects."
+Layer 3: Text-changing effects are applied. See rule :ref:`612 <mtgcr-612>`, "Text-Changing Effects."
 
 .. _mtgcr-613-1d:
 
@@ -5905,13 +5895,13 @@ Layer 7: Power- and/or toughness-changing effects are applied.
 
 613.2
 -----
-Within layers 1-6, apply effects from characteristic-defining abilities first (see rule 604.3), then all other effects in timestamp order (see rule 613.6). Note that dependency may alter the order in which effects are applied within a layer. (See rule :ref:`613.7 <mtgcr-613-7>`)
+Within layers 1-6, apply effects from characteristic-defining abilities first (see rule 604.3), then all other effects in timestamp order (see rule :ref:`613 <mtgcr-613>`.6). Note that dependency may alter the order in which effects are applied within a layer. (See rule :ref:`613.7 <mtgcr-613-7>`)
 
 .. _mtgcr-613-3:
 
 613.3
 -----
-Within layer 7, apply effects in a series of sublayers in the order described below. Within each sublayer, apply effects in timestamp order. (See rule 613.6.) Note that dependency may alter the order in which effects are applied within a sublayer. (See rule :ref:`613.7 <mtgcr-613-7>`)
+Within layer 7, apply effects in a series of sublayers in the order described below. Within each sublayer, apply effects in timestamp order. (See rule :ref:`613 <mtgcr-613>`.6.) Note that dependency may alter the order in which effects are applied within a sublayer. (See rule :ref:`613.7 <mtgcr-613-7>`)
 
 .. _mtgcr-613-3a:
 
@@ -5935,7 +5925,7 @@ Layer 7c: Effects that modify power and/or toughness (but don't set power and/or
 
 613.3d
 ------
-Layer 7d: Power and/or toughness changes from counters are applied. See rule 121, "Counters."
+Layer 7d: Power and/or toughness changes from counters are applied. See rule :ref:`121 <mtgcr-121>`, "Counters."
 
 .. _mtgcr-613-3e:
 
@@ -6062,7 +6052,7 @@ Some continuous effects affect game rules rather than objects. For example, effe
 
 614.1
 -----
-Some continuous effects are replacement effects. Like prevention effects (see rule 615), replacement effects apply continuously as events happen -- they aren't locked in ahead of time. Such effects watch for a particular event that would happen and completely or partially replace that event with a different event. They act like "shields" around whatever they're affecting.
+Some continuous effects are replacement effects. Like prevention effects (see rule :ref:`615 <mtgcr-615>`), replacement effects apply continuously as events happen -- they aren't locked in ahead of time. Such effects watch for a particular event that would happen and completely or partially replace that event with a different event. They act like "shields" around whatever they're affecting.
 
 .. _mtgcr-614-1a:
 
@@ -6190,7 +6180,7 @@ If an effect would have a player both draw a card and perform an additional acti
 
 614.12
 ------
-Some replacement effects modify how a permanent enters the battlefield. (See rules 614.1c-d.) Such effects may come from the permanent itself if they affect only that permanent (as opposed to a general subset of permanents that includes it). They may also come from other sources. To determine which replacement effects apply and how they apply, check the characteristics of the permanent as it would exist on the battlefield, taking into account replacement effects that have already modified how it enters the battlefield (see rule 616.1), continuous effects generated by the resolution of spells or abilities that changed the permanent's characteristics on the stack (see rule :ref:`400.7a <mtgcr-400-7a>`), and continuous effects from the permanent's own static abilities, but ignoring continuous effects from any other source that would affect it.
+Some replacement effects modify how a permanent enters the battlefield. (See rules 614.1c-d.) Such effects may come from the permanent itself if they affect only that permanent (as opposed to a general subset of permanents that includes it). They may also come from other sources. To determine which replacement effects apply and how they apply, check the characteristics of the permanent as it would exist on the battlefield, taking into account replacement effects that have already modified how it enters the battlefield (see rule :ref:`616 <mtgcr-616>`.1), continuous effects generated by the resolution of spells or abilities that changed the permanent's characteristics on the stack (see rule :ref:`400.7a <mtgcr-400-7a>`), and continuous effects from the permanent's own static abilities, but ignoring continuous effects from any other source that would affect it.
 Example: Voice of All says "As Voice of All enters the battlefield, choose a color" and "Voice of All has protection from the chosen color." An effect creates a token that's a copy of Voice of All. As that token is put onto the battlefield, its controller chooses a color for it.
 Example: Yixlid Jailer says "Cards in graveyards lose all abilities." Scarwood Treefolk says "Scarwood Treefolk enters the battlefield tapped." A Scarwood Treefolk that's put onto the battlefield from a graveyard enters the battlefield tapped.
 Example: Orb of Dreams is an artifact that says "Permanents enter the battlefield tapped." It won't affect itself, so Orb of Dreams enters the battlefield untapped.
@@ -6225,7 +6215,7 @@ Example: Jund (a plane card) says, "Whenever a player casts a black, red, or gre
 
 614.14
 ------
-An object may have one ability printed on it that generates a replacement effect which causes one or more cards to be exiled, and another ability that refers either to "the exiled cards" or to cards "exiled with [this object]." These abilities are linked: the second refers only to cards in the exile zone that were put there as a direct result of the replacement event caused by the first. If another object gains a pair of linked abilities, the abilities will be similarly linked on that object. They can't be linked to any other ability, regardless of what other abilities the object may currently have or may have had in the past. See rule 607, "Linked Abilities."
+An object may have one ability printed on it that generates a replacement effect which causes one or more cards to be exiled, and another ability that refers either to "the exiled cards" or to cards "exiled with [this object]." These abilities are linked: the second refers only to cards in the exile zone that were put there as a direct result of the replacement event caused by the first. If another object gains a pair of linked abilities, the abilities will be similarly linked on that object. They can't be linked to any other ability, regardless of what other abilities the object may currently have or may have had in the past. See rule :ref:`607 <mtgcr-607>`, "Linked Abilities."
 
 .. _mtgcr-614-15:
 
@@ -6240,7 +6230,7 @@ Some replacement effects are not continuous effects. Rather, they are an effect 
 
 615.1
 -----
-Some continuous effects are prevention effects. Like replacement effects (see rule 614), prevention effects apply continuously as events happen -- they aren't locked in ahead of time. Such effects watch for a damage event that would happen and completely or partially prevent the damage that would be dealt. They act like "shields" around whatever they're affecting.
+Some continuous effects are prevention effects. Like replacement effects (see rule :ref:`614 <mtgcr-614>`), prevention effects apply continuously as events happen -- they aren't locked in ahead of time. Such effects watch for a damage event that would happen and completely or partially prevent the damage that would be dealt. They act like "shields" around whatever they're affecting.
 
 .. _mtgcr-615-1a:
 
@@ -6508,7 +6498,7 @@ Activate
 
 701.2a
 ------
-To activate an activated ability is to put it onto the stack and pay its costs, so that it will eventually resolve and have its effect. Only an object's controller (or its owner, if it doesn't have a controller) can activate its activated ability unless the object specifically says otherwise. A player may activate an ability if he or she has priority. See rule 602, "Activating Activated Abilities."
+To activate an activated ability is to put it onto the stack and pay its costs, so that it will eventually resolve and have its effect. Only an object's controller (or its owner, if it doesn't have a controller) can activate its activated ability unless the object specifically says otherwise. A player may activate an ability if he or she has priority. See rule :ref:`602 <mtgcr-602>`, "Activating Activated Abilities."
 
 .. _mtgcr-701-3:
 
@@ -6550,7 +6540,7 @@ Cast
 
 701.4a
 ------
-To cast a spell is to take it from the zone it's in (usually the hand), put it on the stack, and pay its costs, so that it will eventually resolve and have its effect. A player may cast a spell if he or she has priority. See rule 601, "Casting Spells."
+To cast a spell is to take it from the zone it's in (usually the hand), put it on the stack, and pay its costs, so that it will eventually resolve and have its effect. A player may cast a spell if he or she has priority. See rule :ref:`601 <mtgcr-601>`, "Casting Spells."
 
 .. _mtgcr-701-4b:
 
@@ -6592,7 +6582,7 @@ To destroy a permanent, move it from the battlefield to its owner's graveyard.
 
 701.6b
 ------
-The only ways a permanent can be destroyed are as a result of an effect that uses the word "destroy" or as a result of the state-based actions that check for lethal damage (see rule 704.5g) or damage from a source with deathtouch (see rule :ref:`704.5h <mtgcr-704-5h>`). If a permanent is put into its owner's graveyard for any other reason, it hasn't been "destroyed."
+The only ways a permanent can be destroyed are as a result of an effect that uses the word "destroy" or as a result of the state-based actions that check for lethal damage (see rule :ref:`704 <mtgcr-704>`.5g) or damage from a source with deathtouch (see rule :ref:`704.5h <mtgcr-704-5h>`). If a permanent is put into its owner's graveyard for any other reason, it hasn't been "destroyed."
 
 .. _mtgcr-701-6c:
 
@@ -6622,7 +6612,7 @@ By default, effects that cause a player to discard a card allow the affected pla
 
 701.7c
 ------
-If a card is discarded, but an effect causes it to be put into a hidden zone instead of into its owner's graveyard without being revealed, all values of that card's characteristics are considered to be undefined. If a card is discarded this way to pay a cost that specifies a characteristic about the discarded card, that cost payment is illegal; the game returns to the moment before the cost was paid (see rule 717, "Handling Illegal Actions").
+If a card is discarded, but an effect causes it to be put into a hidden zone instead of into its owner's graveyard without being revealed, all values of that card's characteristics are considered to be undefined. If a card is discarded this way to pay a cost that specifies a characteristic about the discarded card, that cost payment is illegal; the game returns to the moment before the cost was paid (see rule :ref:`717 <mtgcr-717>`, "Handling Illegal Actions").
 
 .. _mtgcr-701-8:
 
@@ -6683,7 +6673,7 @@ Exile
 
 701.9a
 ------
-To exile an object, move it to the exile zone from wherever it is. See rule 406, "Exile."
+To exile an object, move it to the exile zone from wherever it is. See rule :ref:`406 <mtgcr-406>`, "Exile."
 
 .. _mtgcr-701-10:
 
@@ -6725,7 +6715,7 @@ Play
 
 701.11a
 -------
-To play a land means to put it onto the battlefield from the zone it's in (usually the hand). A player may play a land if he or she has priority, it's the main phase of his or her turn, the stack is empty, and he or she hasn't played a land this turn. Playing a land is a special action (see rule 115), so it doesn't use the stack; it simply happens. Putting a land onto the battlefield as the result of a spell or ability isn't the same as playing a land. See rule 305, "Lands."
+To play a land means to put it onto the battlefield from the zone it's in (usually the hand). A player may play a land if he or she has priority, it's the main phase of his or her turn, the stack is empty, and he or she hasn't played a land this turn. Playing a land is a special action (see rule 115), so it doesn't use the stack; it simply happens. Putting a land onto the battlefield as the result of a spell or ability isn't the same as playing a land. See rule :ref:`305 <mtgcr-305>`, "Lands."
 
 .. _mtgcr-701-11b:
 
@@ -6977,7 +6967,7 @@ Planeswalk
 
 701.21a
 -------
-A player may planeswalk only during a Planechase game. Only the planar controller may planeswalk. See rule 901, "Planechase."
+A player may planeswalk only during a Planechase game. Only the planar controller may planeswalk. See rule :ref:`901 <mtgcr-901>`, "Planechase."
 
 .. _mtgcr-701-21b:
 
@@ -6989,7 +6979,7 @@ To planeswalk is to put each face-up plane card and phenomenon card on the botto
 
 701.21c
 -------
-A player may planeswalk as the result of the "planeswalking ability" (see rule 901.8), because the owner of a face-up plane card or phenomenon card leaves the game (see rule 901.10), or because a phenomenon's triggered ability leaves the stack (see rule :ref:`704.5x <mtgcr-704-5x>`). Abilities may also instruct a player to planeswalk.
+A player may planeswalk as the result of the "planeswalking ability" (see rule 901.8), because the owner of a face-up plane card or phenomenon card leaves the game (see rule :ref:`901 <mtgcr-901>`.10), or because a phenomenon's triggered ability leaves the stack (see rule :ref:`704.5x <mtgcr-704-5x>`). Abilities may also instruct a player to planeswalk.
 
 .. _mtgcr-701-21d:
 
@@ -7007,7 +6997,7 @@ Set in Motion
 
 701.22a
 -------
-Only a scheme card may be set in motion, and only during an Archenemy game. Only the archenemy may set a scheme card in motion. See rule 312, "Schemes," and rule 904, "Archenemy."
+Only a scheme card may be set in motion, and only during an Archenemy game. Only the archenemy may set a scheme card in motion. See rule :ref:`312 <mtgcr-312>`, "Schemes," and rule 904, "Archenemy."
 
 .. _mtgcr-701-22b:
 
@@ -7025,7 +7015,7 @@ Abandon
 
 701.23a
 -------
-Only a face-up ongoing scheme card may be abandoned, and only during an Archenemy game. See rule 312, "Schemes," and rule 904, "Archenemy."
+Only a face-up ongoing scheme card may be abandoned, and only during an Archenemy game. See rule :ref:`312 <mtgcr-312>`, "Schemes," and rule 904, "Archenemy."
 
 .. _mtgcr-701-23b:
 
@@ -7055,7 +7045,7 @@ If a permanent or player chosen this way has more than one kind of counter, the 
 
 701.24c
 -------
-To proliferate in a Two-Headed Giant game means to choose any number of permanents and/or teams that have a counter, then give each exactly one additional counter of a kind that permanent or team already has. See rule 810, "Two-Headed Giant Variant."
+To proliferate in a Two-Headed Giant game means to choose any number of permanents and/or teams that have a counter, then give each exactly one additional counter of a kind that permanent or team already has. See rule :ref:`810 <mtgcr-810>`, "Two-Headed Giant Variant."
 
 .. _mtgcr-701-25:
 
@@ -7067,7 +7057,7 @@ Transform
 
 701.25a
 -------
-Only permanents represented by double-faced cards can transform. (See rule 711, "Double-Faced Cards.") If a spell or ability instructs a player to transform any permanent that isn't represented by a double-faced card, nothing happens.
+Only permanents represented by double-faced cards can transform. (See rule :ref:`711 <mtgcr-711>`, "Double-Faced Cards.") If a spell or ability instructs a player to transform any permanent that isn't represented by a double-faced card, nothing happens.
 
 .. _mtgcr-701-25b:
 
@@ -7166,7 +7156,7 @@ Any nonzero amount of combat damage assigned to a creature by a source with deat
 
 702.2c
 ------
-A creature with toughness greater than 0 that's been dealt damage by a source with deathtouch since the last time state-based actions were checked is destroyed as a state-based action. See rule 704.
+A creature with toughness greater than 0 that's been dealt damage by a source with deathtouch since the last time state-based actions were checked is destroyed as a state-based action. See rule :ref:`704 <mtgcr-704>`.
 
 .. _mtgcr-702-2d:
 
@@ -7220,7 +7210,7 @@ Double Strike
 
 702.4a
 ------
-Double strike is a static ability that modifies the rules for the combat damage step. (See rule 510, "Combat Damage Step.")
+Double strike is a static ability that modifies the rules for the combat damage step. (See rule :ref:`510 <mtgcr-510>`, "Combat Damage Step.")
 
 .. _mtgcr-702-4b:
 
@@ -7262,7 +7252,7 @@ Enchant is a static ability, written "Enchant [object or player]." The enchant a
 
 702.5b
 ------
-For more information on Auras, see rule 303, "Enchantments."
+For more information on Auras, see rule :ref:`303 <mtgcr-303>`, "Enchantments."
 
 .. _mtgcr-702-5c:
 
@@ -7292,7 +7282,7 @@ Equip is an activated ability of Equipment cards. "Equip [cost]" means "[Cost]: 
 
 702.6b
 ------
-For more information about Equipment, see rule 301, "Artifacts."
+For more information about Equipment, see rule :ref:`301 <mtgcr-301>`, "Artifacts."
 
 .. _mtgcr-702-6c:
 
@@ -7310,7 +7300,7 @@ First Strike
 
 702.7a
 ------
-First strike is a static ability that modifies the rules for the combat damage step. (See rule 510, "Combat Damage Step.")
+First strike is a static ability that modifies the rules for the combat damage step. (See rule :ref:`510 <mtgcr-510>`, "Combat Damage Step.")
 
 .. _mtgcr-702-7b:
 
@@ -7364,7 +7354,7 @@ Flying is an evasion ability.
 
 702.9b
 ------
-A creature with flying can't be blocked except by creatures with flying and/or reach. A creature with flying can block a creature with or without flying. (See rule 509, "Declare Blockers Step," and rule 702.17, "Reach.")
+A creature with flying can't be blocked except by creatures with flying and/or reach. A creature with flying can block a creature with or without flying. (See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step," and rule 702.17, "Reach.")
 
 .. _mtgcr-702-9c:
 
@@ -7472,7 +7462,7 @@ Intimidate is an evasion ability.
 
 702.13b
 -------
-A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it. (See rule 509, "Declare Blockers Step.")
+A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it. (See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step.")
 
 .. _mtgcr-702-13c:
 
@@ -7502,7 +7492,7 @@ Landwalk is an evasion ability.
 
 702.14c
 -------
-A creature with landwalk can't be blocked as long as the defending player controls at least one land with the specified subtype (as in "islandwalk"), with the specified supertype (as in "legendary landwalk"), without the specified supertype (as in "nonbasic landwalk"), or with both the specified supertype and the specified subtype (as in "snow swampwalk"). (See rule 509, "Declare Blockers Step.")
+A creature with landwalk can't be blocked as long as the defending player controls at least one land with the specified subtype (as in "islandwalk"), with the specified supertype (as in "legendary landwalk"), without the specified supertype (as in "nonbasic landwalk"), or with both the specified supertype and the specified subtype (as in "snow swampwalk"). (See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step.")
 
 .. _mtgcr-702-14d:
 
@@ -7575,13 +7565,13 @@ A permanent or player with protection can't be targeted by spells with the state
 
 702.16c
 -------
-A permanent or player with protection can't be enchanted by Auras that have the stated quality. Such Auras attached to the permanent or player with protection will be put into their owners' graveyards as a state-based action. (See rule 704, "State-Based Actions.")
+A permanent or player with protection can't be enchanted by Auras that have the stated quality. Such Auras attached to the permanent or player with protection will be put into their owners' graveyards as a state-based action. (See rule :ref:`704 <mtgcr-704>`, "State-Based Actions.")
 
 .. _mtgcr-702-16d:
 
 702.16d
 -------
-A permanent with protection can't be equipped by Equipment that have the stated quality or fortified by Fortifications that have the stated quality. Such Equipment or Fortifications become unattached from that permanent as a state-based action, but remain on the battlefield. (See rule 704, "State-Based Actions.")
+A permanent with protection can't be equipped by Equipment that have the stated quality or fortified by Fortifications that have the stated quality. Such Equipment or Fortifications become unattached from that permanent as a state-based action, but remain on the battlefield. (See rule :ref:`704 <mtgcr-704>`, "State-Based Actions.")
 
 .. _mtgcr-702-16e:
 
@@ -7641,7 +7631,7 @@ Reach is a static ability.
 
 702.17b
 -------
-A creature with flying can't be blocked except by creatures with flying and/or reach. (See rule 509, "Declare Blockers Step," and rule 702.9, "Flying.")
+A creature with flying can't be blocked except by creatures with flying and/or reach. (See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step," and rule 702.9, "Flying.")
 
 .. _mtgcr-702-17c:
 
@@ -7677,7 +7667,7 @@ Trample
 
 702.19a
 -------
-Trample is a static ability that modifies the rules for assigning an attacking creature's combat damage. The ability has no effect when a creature with trample is blocking or is dealing noncombat damage. (See rule 510, "Combat Damage Step.")
+Trample is a static ability that modifies the rules for assigning an attacking creature's combat damage. The ability has no effect when a creature with trample is blocking or is dealing noncombat damage. (See rule :ref:`510 <mtgcr-510>`, "Combat Damage Step.")
 
 .. _mtgcr-702-19b:
 
@@ -7721,7 +7711,7 @@ Vigilance is a static ability that modifies the rules for the declare attackers 
 
 702.20b
 -------
-Attacking doesn't cause creatures with vigilance to tap. (See rule 508, "Declare Attackers Step.")
+Attacking doesn't cause creatures with vigilance to tap. (See rule :ref:`508 <mtgcr-508>`, "Declare Attackers Step.")
 
 .. _mtgcr-702-20c:
 
@@ -7818,7 +7808,7 @@ Rampage
 
 702.22a
 -------
-Rampage is a triggered ability. "Rampage N" means "Whenever this creature becomes blocked, it gets +N/+N until end of turn for each creature blocking it beyond the first." (See rule 509, "Declare Blockers Step.")
+Rampage is a triggered ability. "Rampage N" means "Whenever this creature becomes blocked, it gets +N/+N until end of turn for each creature blocking it beyond the first." (See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step.")
 
 .. _mtgcr-702-22b:
 
@@ -7863,7 +7853,7 @@ Flanking
 
 702.24a
 -------
-Flanking is a triggered ability that triggers during the declare blockers step. (See rule 509, "Declare Blockers Step.") "Flanking" means "Whenever this creature becomes blocked by a creature without flanking, the blocking creature gets -1/-1 until end of turn."
+Flanking is a triggered ability that triggers during the declare blockers step. (See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step.") "Flanking" means "Whenever this creature becomes blocked by a creature without flanking, the blocking creature gets -1/-1 until end of turn."
 
 .. _mtgcr-702-24b:
 
@@ -7985,7 +7975,7 @@ Shadow is an evasion ability.
 
 702.27b
 -------
-A creature with shadow can't be blocked by creatures without shadow, and a creature without shadow can't be blocked by creatures with shadow. (See rule 509, "Declare Blockers Step.")
+A creature with shadow can't be blocked by creatures without shadow, and a creature without shadow can't be blocked by creatures with shadow. (See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step.")
 
 .. _mtgcr-702-27c:
 
@@ -8063,7 +8053,7 @@ Horsemanship is an evasion ability.
 
 702.30b
 -------
-A creature with horsemanship can't be blocked by creatures without horsemanship. A creature with horsemanship can block a creature with or without horsemanship. (See rule 509, "Declare Blockers Step.")
+A creature with horsemanship can't be blocked by creatures without horsemanship. A creature with horsemanship can block a creature with or without horsemanship. (See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step.")
 
 .. _mtgcr-702-30c:
 
@@ -8117,7 +8107,7 @@ If a spell's controller declares the intention to pay any of that spell's kicker
 
 702.32e
 -------
-Objects with kicker or multikicker have additional abilities that specify what happens if they are kicked. These abilities are linked to the kicker or multikicker abilities printed on that object: they can refer only to those specific kicker or multikicker abilities. See rule 607, "Linked Abilities."
+Objects with kicker or multikicker have additional abilities that specify what happens if they are kicked. These abilities are linked to the kicker or multikicker abilities printed on that object: they can refer only to those specific kicker or multikicker abilities. See rule :ref:`607 <mtgcr-607>`, "Linked Abilities."
 
 .. _mtgcr-702-32f:
 
@@ -8177,7 +8167,7 @@ Fear is an evasion ability.
 
 702.35b
 -------
-A creature with fear can't be blocked except by artifact creatures and/or black creatures. (See rule 509, "Declare Blockers Step.")
+A creature with fear can't be blocked except by artifact creatures and/or black creatures. (See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step.")
 
 .. _mtgcr-702-35c:
 
@@ -8195,13 +8185,13 @@ Morph
 
 702.36a
 -------
-Morph is a static ability that functions in any zone from which you could play the card it's on, and the morph effect works any time the card is face down. "Morph [cost]" means "You may cast this card as a 2/2 face-down creature, with no text, no name, no subtypes, and no mana cost by paying |mana_3| rather than paying its mana cost." (See rule 707, "Face-Down Spells and Permanents.")
+Morph is a static ability that functions in any zone from which you could play the card it's on, and the morph effect works any time the card is face down. "Morph [cost]" means "You may cast this card as a 2/2 face-down creature, with no text, no name, no subtypes, and no mana cost by paying |mana_3| rather than paying its mana cost." (See rule :ref:`707 <mtgcr-707>`, "Face-Down Spells and Permanents.")
 
 .. _mtgcr-702-36b:
 
 702.36b
 -------
-To cast a card using its morph ability, turn it face down. It becomes a 2/2 face-down creature card, with no text, no name, no subtypes, and no mana cost. Any effects or prohibitions that would apply to casting a card with these characteristics (and not the face-up card's characteristics) are applied to casting this card. These values are the copiable values of that object's characteristics. (See rule 613, "Interaction of Continuous Effects," and rule 706, "Copying Objects.") Put it onto the stack (as a face-down spell with the same characteristics), and pay |mana_3| rather than pay its mana cost. This follows the rules for paying alternative costs. You can use morph to cast a card from any zone from which you could normally play it. When the spell resolves, it enters the battlefield with the same characteristics the spell had. The morph effect applies to the face-down object wherever it is, and it ends when the permanent is turned face up.
+To cast a card using its morph ability, turn it face down. It becomes a 2/2 face-down creature card, with no text, no name, no subtypes, and no mana cost. Any effects or prohibitions that would apply to casting a card with these characteristics (and not the face-up card's characteristics) are applied to casting this card. These values are the copiable values of that object's characteristics. (See rule :ref:`613 <mtgcr-613>`, "Interaction of Continuous Effects," and rule 706, "Copying Objects.") Put it onto the stack (as a face-down spell with the same characteristics), and pay |mana_3| rather than pay its mana cost. This follows the rules for paying alternative costs. You can use morph to cast a card from any zone from which you could normally play it. When the spell resolves, it enters the battlefield with the same characteristics the spell had. The morph effect applies to the face-down object wherever it is, and it ends when the permanent is turned face up.
 
 .. _mtgcr-702-36c:
 
@@ -8213,13 +8203,13 @@ You can't cast a card face down if it doesn't have morph.
 
 702.36d
 -------
-If you have priority, you may turn a face-down permanent you control face up. This is a special action; it doesn't use the stack (see rule 115). To do this, show all players what the permanent's morph cost would be if it were face up, pay that cost, then turn the permanent face up. (If the permanent wouldn't have a morph cost if it were face up, it can't be turned face up this way.) The morph effect on it ends, and it regains its normal characteristics. Any abilities relating to the permanent entering the battlefield don't trigger when it's turned face up and don't have any effect, because the permanent has already entered the battlefield.
+If you have priority, you may turn a face-down permanent you control face up. This is a special action; it doesn't use the stack (see rule :ref:`115 <mtgcr-115>`). To do this, show all players what the permanent's morph cost would be if it were face up, pay that cost, then turn the permanent face up. (If the permanent wouldn't have a morph cost if it were face up, it can't be turned face up this way.) The morph effect on it ends, and it regains its normal characteristics. Any abilities relating to the permanent entering the battlefield don't trigger when it's turned face up and don't have any effect, because the permanent has already entered the battlefield.
 
 .. _mtgcr-702-36e:
 
 702.36e
 -------
-See rule 707, "Face-Down Spells and Permanents," for more information on how to cast cards with morph.
+See rule :ref:`707 <mtgcr-707>`, "Face-Down Spells and Permanents," for more information on how to cast cards with morph.
 
 .. _mtgcr-702-37:
 
@@ -8376,7 +8366,7 @@ Bushido
 
 702.44a
 -------
-Bushido is a triggered ability. "Bushido N" means "Whenever this creature blocks or becomes blocked, it gets +N/+N until end of turn." (See rule 509, "Declare Blockers Step.")
+Bushido is a triggered ability. "Bushido N" means "Whenever this creature blocks or becomes blocked, it gets +N/+N until end of turn." (See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step.")
 
 .. _mtgcr-702-44b:
 
@@ -8456,7 +8446,7 @@ Offering is a static ability of a card that functions in any zone from which the
 
 702.47b
 -------
-The permanent is sacrificed at the same time the spell is announced (see rule 601.2a). The total cost of the spell is reduced by the sacrificed permanent's mana cost (see rule :ref:`601.2e <mtgcr-601-2e>`).
+The permanent is sacrificed at the same time the spell is announced (see rule :ref:`601 <mtgcr-601>`.2a). The total cost of the spell is reduced by the sacrificed permanent's mana cost (see rule :ref:`601.2e <mtgcr-601-2e>`).
 
 .. _mtgcr-702-47c:
 
@@ -8843,7 +8833,7 @@ Fortify is an activated ability of Fortification cards. "Fortify [cost]" means "
 
 702.66b
 -------
-For more information about Fortifications, see rule 301, "Artifacts."
+For more information about Fortifications, see rule :ref:`301 <mtgcr-301>`, "Artifacts."
 
 .. _mtgcr-702-66c:
 
@@ -8933,7 +8923,7 @@ Champion represents two triggered abilities. "Champion an [object]" means "When 
 
 702.71b
 -------
-The two abilities represented by champion are linked. See rule 607, "Linked Abilities."
+The two abilities represented by champion are linked. See rule :ref:`607 <mtgcr-607>`, "Linked Abilities."
 
 .. _mtgcr-702-71c:
 
@@ -9185,7 +9175,7 @@ Level up is an activated ability. "Level up [cost]" means "[Cost]: Put a level c
 
 702.86b
 -------
-Each card printed with a level up ability is known as a leveler card. It has a nonstandard layout and includes two level symbols that are themselves keyword abilities. See rule 710, "Leveler Cards."
+Each card printed with a level up ability is known as a leveler card. It has a nonstandard layout and includes two level symbols that are themselves keyword abilities. See rule :ref:`710 <mtgcr-710>`, "Leveler Cards."
 
 .. _mtgcr-702-87:
 
@@ -9383,7 +9373,7 @@ If a player chooses to pay the overload cost of a spell, that spell won't requir
 
 702.95c
 -------
-Overload's second ability creates a text-changing effect. See rule 612, "Text-Changing Effects."
+Overload's second ability creates a text-changing effect. See rule :ref:`612 <mtgcr-612>`, "Text-Changing Effects."
 
 .. _mtgcr-702-96:
 
@@ -9491,7 +9481,7 @@ Fuse
 
 702.101a
 --------
-Fuse is a static ability found on some split cards (see rule 708, "Split Cards") that applies while the card with fuse is in a player's hand. If a player casts a split card with fuse from his or her hand, the player may choose to cast both halves of that split card. This choice is made before putting the split card with fuse onto the stack. The resulting spell is a fused split spell.
+Fuse is a static ability found on some split cards (see rule :ref:`708 <mtgcr-708>`, "Split Cards") that applies while the card with fuse is in a player's hand. If a player casts a split card with fuse from his or her hand, the player may choose to cast both halves of that split card. This choice is made before putting the split card with fuse onto the stack. The resulting spell is a fused split spell.
 
 .. _mtgcr-702-101b:
 
@@ -9560,7 +9550,7 @@ Turn-based actions are game actions that happen automatically when certain steps
 
 703.1a
 ------
-Abilities that watch for a specified step or phase to begin are triggered abilities, not turn-based actions. (See rule 603, "Handling Triggered Abilities.")
+Abilities that watch for a specified step or phase to begin are triggered abilities, not turn-based actions. (See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities.")
 
 .. _mtgcr-703-2:
 
@@ -9602,7 +9592,7 @@ Immediately after the draw step begins, the active player draws a card. See rule
 
 703.4d
 ------
-In an Archenemy game (see rule 904), immediately after the archenemy's precombat main phase begins, that player sets the top card of his or her scheme deck in motion. See rule :ref:`701.22 <mtgcr-701-22>`
+In an Archenemy game (see rule :ref:`904 <mtgcr-904>`), immediately after the archenemy's precombat main phase begins, that player sets the top card of his or her scheme deck in motion. See rule :ref:`701.22 <mtgcr-701-22>`
 
 .. _mtgcr-703-4e:
 
@@ -9677,7 +9667,7 @@ State-based actions are game actions that happen automatically whenever certain 
 
 704.1a
 ------
-Abilities that watch for a specified game state are triggered abilities, not state-based actions. (See rule 603, "Handling Triggered Abilities.")
+Abilities that watch for a specified game state are triggered abilities, not state-based actions. (See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities.")
 
 .. _mtgcr-704-2:
 
@@ -9689,7 +9679,7 @@ State-based actions are checked throughout the game and are not controlled by an
 
 704.3
 -----
-Whenever a player would get priority (see rule 116, "Timing and Priority"), the game checks for any of the listed conditions for state-based actions, then performs all applicable state-based actions simultaneously as a single event. If any state-based actions are performed as a result of a check, the check is repeated; otherwise all triggered abilities that are waiting to be put on the stack are put on the stack, then the check is repeated. Once no more state-based actions have been performed as the result of a check and no triggered abilities are waiting to be put on the stack, the appropriate player gets priority. This process also occurs during the cleanup step (see rule 514), except that if no state-based actions are performed as the result of the step's first check and no triggered abilities are waiting to be put on the stack, then no player gets priority and the step ends.
+Whenever a player would get priority (see rule 116, "Timing and Priority"), the game checks for any of the listed conditions for state-based actions, then performs all applicable state-based actions simultaneously as a single event. If any state-based actions are performed as a result of a check, the check is repeated; otherwise all triggered abilities that are waiting to be put on the stack are put on the stack, then the check is repeated. Once no more state-based actions have been performed as the result of a check and no triggered abilities are waiting to be put on the stack, the appropriate player gets priority. This process also occurs during the cleanup step (see rule :ref:`514 <mtgcr-514>`), except that if no state-based actions are performed as the result of the step's first check and no triggered abilities are waiting to be put on the stack, then no player gets priority and the step ends.
 
 .. _mtgcr-704-4:
 
@@ -9810,31 +9800,31 @@ If a permanent with an ability that says it can't have more than N counters of a
 
 704.5t
 ------
-In a Two-Headed Giant game, if a team has 0 or less life, that team loses the game. See rule 810, "Two-Headed Giant Variant."
+In a Two-Headed Giant game, if a team has 0 or less life, that team loses the game. See rule :ref:`810 <mtgcr-810>`, "Two-Headed Giant Variant."
 
 .. _mtgcr-704-5u:
 
 704.5u
 ------
-In a Two-Headed Giant game, if a team has fifteen or more poison counters, that team loses the game. See rule 810, "Two-Headed Giant Variant."
+In a Two-Headed Giant game, if a team has fifteen or more poison counters, that team loses the game. See rule :ref:`810 <mtgcr-810>`, "Two-Headed Giant Variant."
 
 .. _mtgcr-704-5v:
 
 704.5v
 ------
-In a Commander game, a player that's been dealt 21 or more combat damage by the same commander over the course of the game loses the game. See rule 903, "Commander."
+In a Commander game, a player that's been dealt 21 or more combat damage by the same commander over the course of the game loses the game. See rule :ref:`903 <mtgcr-903>`, "Commander."
 
 .. _mtgcr-704-5w:
 
 704.5w
 ------
-In an Archenemy game, if a non-ongoing scheme card is face up in the command zone, and it isn't the source of a triggered ability that has triggered but not yet left the stack, that scheme card is turned face down and put on the bottom of its owner's scheme deck. See rule 904, "Archenemy."
+In an Archenemy game, if a non-ongoing scheme card is face up in the command zone, and it isn't the source of a triggered ability that has triggered but not yet left the stack, that scheme card is turned face down and put on the bottom of its owner's scheme deck. See rule :ref:`904 <mtgcr-904>`, "Archenemy."
 
 .. _mtgcr-704-5x:
 
 704.5x
 ------
-In a Planechase game, if a phenomenon card is face up in the command zone, and it isn't the source of a triggered ability that has triggered but not yet left the stack, the planar controller planeswalks. See rule 901, "Planechase."
+In a Planechase game, if a phenomenon card is face up in the command zone, and it isn't the source of a triggered ability that has triggered but not yet left the stack, the planar controller planeswalks. See rule :ref:`901 <mtgcr-901>`, "Planechase."
 
 .. _mtgcr-704-6:
 
@@ -9930,7 +9920,7 @@ Example: A Clone enters the battlefield as a copy of Adaptive Automaton. Adaptiv
 
 706.7
 -----
-If a pair of linked abilities are copied, those abilities will be similarly linked to one another on the object that copied them. One ability refers only to actions that were taken or objects that were affected by the other. They can't be linked to any other ability, regardless of what other abilities the copy may currently have or may have had in the past. See rule 607, "Linked Abilities."
+If a pair of linked abilities are copied, those abilities will be similarly linked to one another on the object that copied them. One ability refers only to actions that were taken or objects that were affected by the other. They can't be linked to any other ability, regardless of what other abilities the copy may currently have or may have had in the past. See rule :ref:`607 <mtgcr-607>`, "Linked Abilities."
 
 .. _mtgcr-706-7a:
 
@@ -9944,7 +9934,7 @@ Example: A Vesuvan Doppelganger enters the battlefield as a copy of Voice of All
 
 706.8
 -----
-When copying a double-faced permanent, only the copiable values of the face that's currently up are copied. (See rule 711, "Double-Faced Cards.")
+When copying a double-faced permanent, only the copiable values of the face that's currently up are copied. (See rule :ref:`711 <mtgcr-711>`, "Double-Faced Cards.")
 
 .. _mtgcr-706-9:
 
@@ -9976,14 +9966,14 @@ Example: Copy Artifact is an enchantment that reads, "You may have Copy Artifact
 
 706.9d
 ------
-When applying a copy effect that doesn't copy a certain characteristic, retains an original value for a certain characteristic, or modifies the final value of a certain characteristic, any characteristic-defining ability (see rule :ref:`604.3 <mtgcr-604-3>`) of the object being copied that defines that characteristic is not copied. If that characteristic is color, any color indicator (see rule 204) of that object is also not copied.
+When applying a copy effect that doesn't copy a certain characteristic, retains an original value for a certain characteristic, or modifies the final value of a certain characteristic, any characteristic-defining ability (see rule :ref:`604.3 <mtgcr-604-3>`) of the object being copied that defines that characteristic is not copied. If that characteristic is color, any color indicator (see rule :ref:`204 <mtgcr-204>`) of that object is also not copied.
 Example: Quicksilver Gargantuan is a creature that reads, "You may have Quicksilver Gargantuan enter the battlefield as a copy of any creature on the battlefield, except it's still 7/7." Quicksilver Gargantuan enters the battlefield as a copy of Tarmogoyf, which has a characteristic-defining ability that defines its power and toughness. Quicksilver Gargantuan does not have that ability. It will be 7/7.
 
 .. _mtgcr-706-10:
 
 706.10
 ------
-To copy a spell or activated ability means to put a copy of it onto the stack; a copy of a spell isn't cast and a copy of an activated ability isn't activated. A copy of a spell or ability copies both the characteristics of the spell or ability and all decisions made for it, including modes, targets, the value of X, and additional or alternative costs. (See rule 601, "Casting Spells.") Choices that are normally made on resolution are not copied. If an effect of the copy refers to objects used to pay its costs, it uses the objects used to pay the costs of the original spell or ability. A copy of a spell is owned by the player under whose control it was put on the stack. A copy of a spell or ability is controlled by the player under whose control it was put on the stack. A copy of a spell is itself a spell, even though it has no spell card associated with it. A copy of an ability is itself an ability.
+To copy a spell or activated ability means to put a copy of it onto the stack; a copy of a spell isn't cast and a copy of an activated ability isn't activated. A copy of a spell or ability copies both the characteristics of the spell or ability and all decisions made for it, including modes, targets, the value of X, and additional or alternative costs. (See rule :ref:`601 <mtgcr-601>`, "Casting Spells.") Choices that are normally made on resolution are not copied. If an effect of the copy refers to objects used to pay its costs, it uses the objects used to pay the costs of the original spell or ability. A copy of a spell is owned by the player under whose control it was put on the stack. A copy of a spell or ability is controlled by the player under whose control it was put on the stack. A copy of a spell is itself a spell, even though it has no spell card associated with it. A copy of an ability is itself an ability.
 Example: A player casts Fork, targeting an Emerald Charm. Fork reads, "Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy." Emerald Charm is a green instant that reads, "Choose one -- Untap target permanent; or destroy target non-Aura enchantment; or target creature loses flying until end of turn." When the Fork resolves, it puts a copy of the Emerald Charm on the stack except the copy is red, not green. The copy has the same mode that was chosen for the original Emerald Charm. It does not necessarily have the same target, but only because Fork allows choosing of new targets.
 Example: Fling is an instant that reads, "As an additional cost to cast Fling, sacrifice a creature" and "Fling deals damage equal to the sacrificed creature's power to target creature or player." When determining how much damage a copy of Fling deals, it checks the power of the creature sacrificed to pay for the original Fling.
 
@@ -9991,7 +9981,7 @@ Example: Fling is an instant that reads, "As an additional cost to cast Fling, s
 
 706.10a
 -------
-If a copy of a spell is in a zone other than the stack, it ceases to exist. If a copy of a card is in any zone other than the stack or the battlefield, it ceases to exist. These are state-based actions. See rule 704.
+If a copy of a spell is in a zone other than the stack, it ceases to exist. If a copy of a card is in any zone other than the stack or the battlefield, it ceases to exist. These are state-based actions. See rule :ref:`704 <mtgcr-704>`.
 
 .. _mtgcr-706-10b:
 
@@ -10031,7 +10021,7 @@ Two cards (Illusionary Mask and Ixidron) and the morph ability (see rule :ref:`7
 
 707.2
 -----
-Face-down spells and face-down permanents have no characteristics other than those listed by the ability or rules that allowed the spell or permanent to be face down. Any listed characteristics are the copiable values of that object's characteristics. (See rule 613, "Interaction of Continuous Effects," and rule 706, "Copying Objects.")
+Face-down spells and face-down permanents have no characteristics other than those listed by the ability or rules that allowed the spell or permanent to be face down. Any listed characteristics are the copiable values of that object's characteristics. (See rule :ref:`613 <mtgcr-613>`, "Interaction of Continuous Effects," and rule 706, "Copying Objects.")
 
 .. _mtgcr-707-2a:
 
@@ -10338,7 +10328,7 @@ Example: A player casts Cytoshape, causing a Kruin Outlaw (the front face of a d
 
 711.4
 -----
-If a double-faced card is cast as a spell, it's put on the stack with its front face up. A double-faced card can't be cast face down. See rule 601, "Casting Spells."
+If a double-faced card is cast as a spell, it's put on the stack with its front face up. A double-faced card can't be cast face down. See rule :ref:`601 <mtgcr-601>`, "Casting Spells."
 
 .. _mtgcr-711-5:
 
@@ -10488,13 +10478,13 @@ A player may gain control of himself or herself. That player will make his or he
 
 713.1
 -----
-Two cards (Time Stop and Sundial of the Infinite) end the turn. When an effect ends the turn, follow these steps in order, as they differ from the normal process for resolving spells and abilities (see rule 608, "Resolving Spells and Abilities").
+Two cards (Time Stop and Sundial of the Infinite) end the turn. When an effect ends the turn, follow these steps in order, as they differ from the normal process for resolving spells and abilities (see rule :ref:`608 <mtgcr-608>`, "Resolving Spells and Abilities").
 
 .. _mtgcr-713-1a:
 
 713.1a
 ------
-Exile every object on the stack, including the object that's resolving. Remove all creatures and planeswalkers (including those that are phased out) from combat. All objects not on the battlefield or in the command zone that aren't represented by cards will cease to exist the next time state-based actions are checked (see rule 704, "State-Based Actions").
+Exile every object on the stack, including the object that's resolving. Remove all creatures and planeswalkers (including those that are phased out) from combat. All objects not on the battlefield or in the command zone that aren't represented by cards will cease to exist the next time state-based actions are checked (see rule :ref:`704 <mtgcr-704>`, "State-Based Actions").
 
 .. _mtgcr-713-1b:
 
@@ -10512,7 +10502,7 @@ The current phase and/or step ends. The game skips straight to the cleanup step.
 
 713.2
 -----
-No player gets priority during this process, so triggered abilities are not put onto the stack. If any triggered abilities have triggered between the spell or ability resolving and the cleanup step ending, those abilities are put onto the stack during the cleanup step, then the active player gets priority and players can cast spells and activate abilities. Then there will be another cleanup step before the turn finally ends. If no triggered abilities have triggered during this process, no player gets priority during the cleanup step. See rule 514, "Cleanup Step."
+No player gets priority during this process, so triggered abilities are not put onto the stack. If any triggered abilities have triggered between the spell or ability resolving and the cleanup step ending, those abilities are put onto the stack during the cleanup step, then the active player gets priority and players can cast spells and activate abilities. Then there will be another cleanup step before the turn finally ends. If no triggered abilities have triggered during this process, no player gets priority during the cleanup step. See rule :ref:`514 <mtgcr-514>`, "Cleanup Step."
 
 .. _mtgcr-713-3:
 
@@ -10546,7 +10536,7 @@ Example: A player casts Living Wish, bringing a creature card into the game from
 
 714.3
 -----
-Because each player draws seven cards when the new game begins, any player with fewer than seven cards in his or her library will lose the game when state-based actions are checked during the upkeep step of the first turn, regardless of any mulligans that player takes. (See rule 704, "State-Based Actions.")
+Because each player draws seven cards when the new game begins, any player with fewer than seven cards in his or her library will lose the game when state-based actions are checked during the upkeep step of the first turn, regardless of any mulligans that player takes. (See rule :ref:`704 <mtgcr-704>`, "State-Based Actions.")
 
 .. _mtgcr-714-4:
 
@@ -10564,19 +10554,19 @@ Effects may exempt certain cards from the procedure that restarts the game. Thes
 
 714.5a
 ------
-In a Commander game, a commander that has been exempted from the procedure that restarts the game won't begin the new game in the command zone. However, it remains that deck's commander for the new game. See rule 903, "Commander."
+In a Commander game, a commander that has been exempted from the procedure that restarts the game won't begin the new game in the command zone. However, it remains that deck's commander for the new game. See rule :ref:`903 <mtgcr-903>`, "Commander."
 
 .. _mtgcr-714-6:
 
 714.6
 -----
-If a *Magic* subgame (see rule 715) is restarted, the main game is unaffected. Main-game effects that refer to the winner or loser of the subgame now refer to the winner or loser of the restarted subgame.
+If a *Magic* subgame (see rule :ref:`715 <mtgcr-715>`) is restarted, the main game is unaffected. Main-game effects that refer to the winner or loser of the subgame now refer to the winner or loser of the restarted subgame.
 
 .. _mtgcr-714-7:
 
 714.7
 -----
-If a multiplayer game using the limited range of influence option (see rule 801) is restarted, all players in the game are involved, regardless of the range of influence of the player who controls the ability that restarted the game.
+If a multiplayer game using the limited range of influence option (see rule :ref:`801 <mtgcr-801>`) is restarted, all players in the game are involved, regardless of the range of influence of the player who controls the ability that restarted the game.
 
 715. Subgames
 =============
@@ -10633,7 +10623,7 @@ As a subgame of an Archenemy game starts, the archenemy moves his or her scheme 
 
 715.3
 -----
-Because each player draws seven cards when a game begins, any player with fewer than seven cards in his or her deck will lose the subgame when state-based actions are checked during the upkeep step of the first turn, regardless of any mulligans that player takes. (See rule 704, "State-Based Actions.")
+Because each player draws seven cards when a game begins, any player with fewer than seven cards in his or her deck will lose the subgame when state-based actions are checked during the upkeep step of the first turn, regardless of any mulligans that player takes. (See rule :ref:`704 <mtgcr-704>`, "State-Based Actions.")
 
 .. _mtgcr-715-4:
 
@@ -10808,7 +10798,7 @@ Unlike two-player games, multiplayer games can continue after one or more player
 
 800.4a
 ------
-When a player leaves the game, all objects (see rule 109) owned by that player leave the game and any effects which give that player control of any objects or players end. Then, if that player controlled any objects on the stack not represented by cards, those objects cease to exist. Then, if there are any objects still controlled by that player, those objects are exiled. This is not a state-based action. It happens as soon as the player leaves the game. If the player who left the game had priority at the time he or she left, priority passes to the next player in turn order who's still in the game.
+When a player leaves the game, all objects (see rule :ref:`109 <mtgcr-109>`) owned by that player leave the game and any effects which give that player control of any objects or players end. Then, if that player controlled any objects on the stack not represented by cards, those objects cease to exist. Then, if there are any objects still controlled by that player, those objects are exiled. This is not a state-based action. It happens as soon as the player leaves the game. If the player who left the game had priority at the time he or she left, priority passes to the next player in turn order who's still in the game.
 Example: Alex casts Mind Control, an Aura that reads, "You control enchanted creature," on Bianca's Assault Griffin. If Alex leaves the game, so does Mind Control, and Assault Griffin reverts to Bianca's control. If, instead, Bianca leaves the game, so does Assault Griffin, and Mind Control is put into Alex's graveyard.
 Example: Alex casts Act of Treason, which reads, in part, "Gain control of target creature until end of turn," targeting Bianca's Runeclaw Bears. If Alex leaves the game, Act of Treason's change-of-control effect ends and Runeclaw Bears reverts to Bianca's control.
 Example: Alex casts Bribery, which reads, "Search target opponent's library for a creature card and put that card onto the battlefield under your control. Then that player shuffles his or her library," targeting Bianca. Alex puts Serra Angel onto the battlefield from Bianca's library. If Bianca leaves the game, Serra Angel also leaves the game. If, instead, Alex leaves the game, Serra Angel is exiled.
@@ -10867,7 +10857,7 @@ When a player leaves the game, any continuous effects with durations that last u
 
 800.4j
 ------
-When a player leaves the game, objects that player owns in the ante zone do not leave the game. This is an exception to rule 800.4a. See rule 407, "Ante."
+When a player leaves the game, objects that player owns in the ante zone do not leave the game. This is an exception to rule 800.4a. See rule :ref:`407 <mtgcr-407>`, "Ante."
 
 .. _mtgcr-800-4k:
 
@@ -10891,7 +10881,7 @@ In a multiplayer game other than a Two-Headed Giant game, the starting player do
 
 800.7
 -----
-In a multiplayer game not using the limited range of influence option (see rule 801), if an effect states that a player wins the game, all of that player's opponents lose the game instead.
+In a multiplayer game not using the limited range of influence option (see rule :ref:`801 <mtgcr-801>`), if an effect states that a player wins the game, all of that player's opponents lose the game instead.
 
 801. Limited Range of Influence Option
 ======================================
@@ -10900,7 +10890,7 @@ In a multiplayer game not using the limited range of influence option (see rule 
 
 801.1
 -----
-Limited range of influence is an option that can be applied to most multiplayer games. It's always used in the Emperor variant (see rule 809), and it's often used for games involving five or more players.
+Limited range of influence is an option that can be applied to most multiplayer games. It's always used in the Emperor variant (see rule :ref:`809 <mtgcr-809>`), and it's often used for games involving five or more players.
 
 .. _mtgcr-801-2:
 
@@ -10998,13 +10988,13 @@ Example: Carissa and Alex are outside each other's range of influence. Carissa c
 
 801.8
 -----
-An Aura can't enchant an object or player outside its controller's range of influence. If an Aura is attached to an illegal object or player, the Aura is put into its owner's graveyard as a state-based action. See rule 704.
+An Aura can't enchant an object or player outside its controller's range of influence. If an Aura is attached to an illegal object or player, the Aura is put into its owner's graveyard as a state-based action. See rule :ref:`704 <mtgcr-704>`.
 
 .. _mtgcr-801-9:
 
 801.9
 -----
-An Equipment can't equip an object outside its controller's range of influence, and a Fortification can't fortify an object outside its controller's range of influence. If an Equipment or Fortification is attached to an illegal permanent, it becomes unattached from that permanent but remains on the battlefield. This is a state-based action. See rule 704.
+An Equipment can't equip an object outside its controller's range of influence, and a Fortification can't fortify an object outside its controller's range of influence. If an Equipment or Fortification is attached to an illegal permanent, it becomes unattached from that permanent but remains on the battlefield. This is a state-based action. See rule :ref:`704 <mtgcr-704>`.
 
 .. _mtgcr-801-10:
 
@@ -11031,7 +11021,7 @@ The "world rule" (see rule :ref:`704.5m <mtgcr-704-5m>`) applies to a permanent 
 
 801.13
 ------
-Replacement and prevention effects watch for a particular event to happen and then completely or partially replace that event. The limited range of influence option can cause the modified event to contain instructions that can't be carried out, in which case the player simply ignores the impossible instructions. See rule 614, "Replacement Effects," and rule 615, "Prevention Effects."
+Replacement and prevention effects watch for a particular event to happen and then completely or partially replace that event. The limited range of influence option can cause the modified event to contain instructions that can't be carried out, in which case the player simply ignores the impossible instructions. See rule :ref:`614 <mtgcr-614>`, "Replacement Effects," and rule 615, "Prevention Effects."
 
 .. _mtgcr-801-13a:
 
@@ -11071,13 +11061,13 @@ If the game somehow enters a "loop" of mandatory actions, repeating a sequence o
 
 801.17
 ------
-Effects that restart the game (see rule 714) are exempt from the limited range of influence option. All players in the game will be involved in the new game.
+Effects that restart the game (see rule :ref:`714 <mtgcr-714>`) are exempt from the limited range of influence option. All players in the game will be involved in the new game.
 
 .. _mtgcr-801-18:
 
 801.18
 ------
-In multiplayer Planechase games other than Grand Melee games, plane cards and phenomenon cards are exempt from the limited range of influence option. Their abilities, and the effects of those abilities, affect all applicable objects and players in the game. See rule 901, "Planechase."
+In multiplayer Planechase games other than Grand Melee games, plane cards and phenomenon cards are exempt from the limited range of influence option. Their abilities, and the effects of those abilities, affect all applicable objects and players in the game. See rule :ref:`901 <mtgcr-901>`, "Planechase."
 
 802. Attack Multiple Players Option
 ===================================
@@ -11105,7 +11095,7 @@ Example: Rob attacks Alex with Runeclaw Bear and attacks Carissa with a creature
 
 802.3
 -----
-As the attacking player declares each attacking creature, he or she chooses a defending player or a planeswalker controlled by a defending player for it to attack. See rule 508, "Declare Attackers Step."
+As the attacking player declares each attacking creature, he or she chooses a defending player or a planeswalker controlled by a defending player for it to attack. See rule :ref:`508 <mtgcr-508>`, "Declare Attackers Step."
 
 .. _mtgcr-802-3a:
 
@@ -11141,13 +11131,13 @@ When determining whether a defending player's blocks are legal, ignore any creat
 
 802.5
 -----
-After blockers have been declared, if any creatures are blocking multiple creatures, each defending player in APNAP order announces the damage assignment order among the attacking creatures for each blocking creature he or she controls. See rule 510, "Combat Damage Step."
+After blockers have been declared, if any creatures are blocking multiple creatures, each defending player in APNAP order announces the damage assignment order among the attacking creatures for each blocking creature he or she controls. See rule :ref:`510 <mtgcr-510>`, "Combat Damage Step."
 
 .. _mtgcr-802-6:
 
 802.6
 -----
-Combat damage is assigned in APNAP order. Other than that, the combat damage step proceeds just as in a two-player game. See rule 510, "Combat Damage Step."
+Combat damage is assigned in APNAP order. Other than that, the combat damage step proceeds just as in a two-player game. See rule :ref:`510 <mtgcr-510>`, "Combat Damage Step."
 
 803. Attack Left and Attack Right Options
 =========================================
@@ -11192,7 +11182,7 @@ Each creature has the ability "|tap|: Target teammate gains control of this crea
 
 805.1
 -----
-Some multiplayer games between teams use the shared team turns option. It's always used in the Two-Headed Giant variant (see rule 810) and the Archenemy casual variant (see rule 904). It can be used only if the members of each team are sitting in adjacent seats.
+Some multiplayer games between teams use the shared team turns option. It's always used in the Two-Headed Giant variant (see rule 810) and the Archenemy casual variant (see rule :ref:`904 <mtgcr-904>`). It can be used only if the members of each team are sitting in adjacent seats.
 
 .. _mtgcr-805-2:
 
@@ -11309,13 +11299,13 @@ Any multiplayer options used are determined before play begins. The Free-for-All
 
 806.2a
 ------
-The limited range of influence option usually isn't used in Free-for-All games. If it is, each player has the same range of influence, which is determined before play begins. See rule 801, "Limited Range of Influence Option."
+The limited range of influence option usually isn't used in Free-for-All games. If it is, each player has the same range of influence, which is determined before play begins. See rule :ref:`801 <mtgcr-801>`, "Limited Range of Influence Option."
 
 .. _mtgcr-806-2b:
 
 806.2b
 ------
-Exactly one of the attack left, attack right, and attack multiple players options must be used. See rule 803, "Attack Left and Attack Right Options," and rule 802, "Attack Multiple Players Option."
+Exactly one of the attack left, attack right, and attack multiple players options must be used. See rule :ref:`803 <mtgcr-803>`, "Attack Left and Attack Right Options," and rule 802, "Attack Multiple Players Option."
 
 .. _mtgcr-806-2c:
 
@@ -11348,13 +11338,13 @@ Any multiplayer options used are decided before play begins. The Grand Melee var
 
 807.2a
 ------
-Each player has a range of influence of 1 (see rule 801).
+Each player has a range of influence of 1 (see rule :ref:`801 <mtgcr-801>`).
 
 .. _mtgcr-807-2b:
 
 807.2b
 ------
-The attack left option is used (see rule 803).
+The attack left option is used (see rule :ref:`803 <mtgcr-803>`).
 
 .. _mtgcr-807-2c:
 
@@ -11479,7 +11469,7 @@ Any multiplayer options used are determined before play begins. The Team vs. Tea
 
 808.3a
 ------
-The attack multiple players option is used (see rule 802).
+The attack multiple players option is used (see rule :ref:`802 <mtgcr-802>`).
 
 .. _mtgcr-808-3b:
 
@@ -11524,13 +11514,13 @@ The Emperor variant uses the following default options.
 
 809.3a
 ------
-The range of influence is limited to 2 for emperors and 1 for generals. See rule 801, "Limited Range of Influence Option."
+The range of influence is limited to 2 for emperors and 1 for generals. See rule :ref:`801 <mtgcr-801>`, "Limited Range of Influence Option."
 
 .. _mtgcr-809-3b:
 
 809.3b
 ------
-Emperor games use the deploy creatures option (see rule 804).
+Emperor games use the deploy creatures option (see rule :ref:`804 <mtgcr-804>`).
 
 .. _mtgcr-809-3c:
 
@@ -11549,7 +11539,7 @@ Randomly determine which emperor goes first. Turn order goes to the players' lef
 
 809.5
 -----
-The Emperor variant includes the following specifications for winning and losing the game. All other rules for ending the game also apply. (See rule 104.)
+The Emperor variant includes the following specifications for winning and losing the game. All other rules for ending the game also apply. (See rule :ref:`104 <mtgcr-104>`.)
 
 .. _mtgcr-809-5a:
 
@@ -11601,7 +11591,7 @@ Two-Headed Giant games are played with two teams of two players each.
 
 810.2
 -----
-The Two-Headed Giant variant uses the shared team turns option. (See rule 805.)
+The Two-Headed Giant variant uses the shared team turns option. (See rule :ref:`805 <mtgcr-805>`.)
 
 .. _mtgcr-810-3:
 
@@ -11677,7 +11667,7 @@ As the combat damage step begins, the active team announces how each attacking c
 
 810.8
 -----
-The Two-Headed Giant variant uses the normal rules for winning or losing the game (see rule 104), with the following additions and specifications.
+The Two-Headed Giant variant uses the normal rules for winning or losing the game (see rule :ref:`104 <mtgcr-104>`), with the following additions and specifications.
 
 .. _mtgcr-810-8a:
 
@@ -11698,13 +11688,13 @@ If a player concedes, his or her team leaves the game immediately. That team los
 
 810.8c
 ------
-If a team's life total is 0 or less, the team loses the game. (This is a state-based action. See rule 704.)
+If a team's life total is 0 or less, the team loses the game. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.)
 
 .. _mtgcr-810-8d:
 
 810.8d
 ------
-If a team has fifteen or more poison counters, that team loses the game. (This is a state-based action. See rule 704.)
+If a team has fifteen or more poison counters, that team loses the game. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.)
 
 .. _mtgcr-810-9:
 
@@ -11821,13 +11811,13 @@ Any multiplayer options used are determined before play begins. The Alternating 
 
 811.2a
 ------
-The recommended range of influence is 2. See rule 801, "Limited Range of Influence Option."
+The recommended range of influence is 2. See rule :ref:`801 <mtgcr-801>`, "Limited Range of Influence Option."
 
 .. _mtgcr-811-2b:
 
 811.2b
 ------
-Exactly one of the attack left, attack right, and attack multiple players options must be used. See rule 803, "Attack Left and Attack Right Options," and rule 802, "Attack Multiple Players Option."
+Exactly one of the attack left, attack right, and attack multiple players options must be used. See rule :ref:`803 <mtgcr-803>`, "Attack Left and Attack Right Options," and rule 802, "Attack Multiple Players Option."
 
 .. _mtgcr-811-2c:
 
@@ -11887,13 +11877,13 @@ In the Planechase variant, plane cards and phenomenon cards add additional abili
 
 901.2
 -----
-A Planechase game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, "Free-for-All Variant."
+A Planechase game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule :ref:`806 <mtgcr-806>`, "Free-for-All Variant."
 
 .. _mtgcr-901-3:
 
 901.3
 -----
-In addition to the normal game materials, each player needs a planar deck of at least ten plane and/or phenomenon cards and the game needs one planar die. No more than two cards in a planar deck can be phenomenon cards. Each card in a planar deck must have a different English name. (See rule 309, "Planes," and rule 310, "Phenomena.")
+In addition to the normal game materials, each player needs a planar deck of at least ten plane and/or phenomenon cards and the game needs one planar die. No more than two cards in a planar deck can be phenomenon cards. Each card in a planar deck must have a different English name. (See rule :ref:`309 <mtgcr-309>`, "Planes," and rule 310, "Phenomena.")
 
 .. _mtgcr-901-3a:
 
@@ -11989,7 +11979,7 @@ After the game has started, if a player moves the top card of his or her planar 
 
 901.11a
 -------
-A player may planeswalk as the result of the "planeswalking ability" (see rule 901.8), because the owner of a face-up plane card or phenomenon card leaves the game (see rule 901.10), or because a phenomenon's triggered ability leaves the stack (see rule :ref:`704.5x <mtgcr-704-5x>`). Abilities may also instruct a player to planeswalk.
+A player may planeswalk as the result of the "planeswalking ability" (see rule 901.8), because the owner of a face-up plane card or phenomenon card leaves the game (see rule :ref:`901 <mtgcr-901>`.10), or because a phenomenon's triggered ability leaves the stack (see rule :ref:`704.5x <mtgcr-704-5x>`). Abilities may also instruct a player to planeswalk.
 
 .. _mtgcr-901-11b:
 
@@ -12037,7 +12027,7 @@ Since each member of the active team is an active player, each of them may roll 
 
 901.13
 ------
-In multiplayer formats other than Grand Melee, plane cards and phenomenon cards are exempt from the limited range of influence option. Their abilities, and the effects of those abilities, affect all applicable objects and players in the game. (See rule 801, "Limited Range of Influence Option.")
+In multiplayer formats other than Grand Melee, plane cards and phenomenon cards are exempt from the limited range of influence option. Their abilities, and the effects of those abilities, affect all applicable objects and players in the game. (See rule :ref:`801 <mtgcr-801>`, "Limited Range of Influence Option.")
 
 .. _mtgcr-901-14:
 
@@ -12154,7 +12144,7 @@ In the Commander variant, each deck is led by a legendary creature designated as
 
 903.2
 -----
-A Commander game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule 806, "Free-for-All Variant."
+A Commander game may be a two-player game or a multiplayer game. The default multiplayer setup is the Free-for-All variant with the attack multiple players option and without the limited range of influence option. See rule :ref:`806 <mtgcr-806>`, "Free-for-All Variant."
 
 .. _mtgcr-903-3:
 
@@ -12167,7 +12157,7 @@ Example: A commander that's been turned face down (due to Ixidron's effect, for 
 
 903.4
 -----
-The Commander variant uses color identity to determine what cards can be in a deck with a certain commander. The color identity of a card is the color or colors of any mana symbols in that card's mana cost or rules text, plus any colors defined by its characteristic-defining abilities (see rule :ref:`604.3 <mtgcr-604-3>`) or color indicator (see rule 204).
+The Commander variant uses color identity to determine what cards can be in a deck with a certain commander. The color identity of a card is the color or colors of any mana symbols in that card's mana cost or rules text, plus any colors defined by its characteristic-defining abilities (see rule :ref:`604.3 <mtgcr-604-3>`) or color indicator (see rule :ref:`204 <mtgcr-204>`).
 Example: Bosh, Iron Golem is a legendary artifact creature with mana cost |mana_8| and the ability "|mana_3| |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to target creature or player." Bosh's color identity is red.
 
 .. _mtgcr-903-4a:
@@ -12186,7 +12176,7 @@ Reminder text is ignored when determining a card's color identity. See rule :ref
 
 903.4c
 ------
-The back face of a double-faced card (see rule 711) is included when determining a card's color identity.
+The back face of a double-faced card (see rule :ref:`711 <mtgcr-711>`) is included when determining a card's color identity.
 Example: Civilized Scholar is the front face of a double-faced card with mana cost |mana_2| |mana_u|. Homicidal Brute is the back face of that double-faced card and has a red color indicator. The card's color identity is blue and red.
 
 .. _mtgcr-903-5:
@@ -12273,13 +12263,13 @@ If a card is put into the exile zone face down from anywhere, and a player is al
 
 903.14
 ------
-The Commander variant includes the following specification for winning and losing the game. All other rules for ending the game also apply. (See rule 104.)
+The Commander variant includes the following specification for winning and losing the game. All other rules for ending the game also apply. (See rule :ref:`104 <mtgcr-104>`.)
 
 .. _mtgcr-903-14a:
 
 903.14a
 -------
-A player that's been dealt 21 or more combat damage by the same commander over the course of the game loses the game. (This is a state-based action. See rule 704.)
+A player that's been dealt 21 or more combat damage by the same commander over the course of the game loses the game. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.)
 
 904. Archenemy
 ==============
@@ -12294,7 +12284,7 @@ In the Archenemy variant, a team of players faces off against a single opponent 
 
 904.2
 -----
-The default setup for an Archenemy game is the Team vs. Team multiplayer variant (see rule 808) involving exactly two teams. The attack multiple players option (see rule 802) and the shared team turns option (see rule 805) are used; no other multiplayer options are used.
+The default setup for an Archenemy game is the Team vs. Team multiplayer variant (see rule 808) involving exactly two teams. The attack multiple players option (see rule 802) and the shared team turns option (see rule :ref:`805 <mtgcr-805>`) are used; no other multiplayer options are used.
 
 .. _mtgcr-904-2a:
 
@@ -12312,7 +12302,7 @@ The other team consists of any number of players.
 
 904.3
 -----
-In addition to the normal game materials, the archenemy needs a scheme deck of at least twenty scheme cards. A scheme deck may contain no more than two of any card with a particular English name. (See rule 312, "Schemes.")
+In addition to the normal game materials, the archenemy needs a scheme deck of at least twenty scheme cards. A scheme deck may contain no more than two of any card with a particular English name. (See rule :ref:`312 <mtgcr-312>`, "Schemes.")
 
 .. _mtgcr-904-4:
 
@@ -12354,7 +12344,7 @@ Immediately after the archenemy's precombat main phase begins during each of his
 
 904.10
 ------
-If a non-ongoing scheme card is face up in the command zone, and it isn't the source of a triggered ability that has triggered but not yet left the stack, that scheme card is turned face down and put on the bottom of its owner's scheme deck the next time a player would receive priority. (This is a state-based action. See rule 704.)
+If a non-ongoing scheme card is face up in the command zone, and it isn't the source of a triggered ability that has triggered but not yet left the stack, that scheme card is turned face down and put on the bottom of its owner's scheme deck the next time a player would receive priority. (This is a state-based action. See rule :ref:`704 <mtgcr-704>`.)
 
 .. _mtgcr-904-11:
 
@@ -12372,7 +12362,7 @@ Supervillain Rumble Option
 
 904.12a
 -------
-As an alternative option, players may play a Free-for-All game in which each player has his or her own scheme deck. The attack multiple players option (see rule 802) is used; no other multiplayer options are used.
+As an alternative option, players may play a Free-for-All game in which each player has his or her own scheme deck. The attack multiple players option (see rule :ref:`802 <mtgcr-802>`) is used; no other multiplayer options are used.
 
 .. _mtgcr-904-12b:
 
@@ -12399,7 +12389,7 @@ Ability
     1. Text on an object that explains what that object does or can do.
     2. An activated or triggered ability on the stack. This kind of ability is an object.
     
-    See rule 112, "Abilities," and section 6, "Spells, Abilities, and Effects."
+    See rule :ref:`112 <mtgcr-112>`, "Abilities," and section 6, "Spells, Abilities, and Effects."
 
 Ability Word
     An italicized word with no rules meaning that ties together abilities on different cards that have similar functionality. See rule :ref:`207.2c <mtgcr-207-2c>`
@@ -12408,34 +12398,34 @@ Absorb
     A keyword ability that prevents damage. See rule :ref:`702.63 <mtgcr-702-63>`, "Absorb."
 
 Activate
-    To put an activated ability onto the stack and pay its costs, so that it will eventually resolve and have its effect. See rule 602, "Activating Activated Abilities."
+    To put an activated ability onto the stack and pay its costs, so that it will eventually resolve and have its effect. See rule :ref:`602 <mtgcr-602>`, "Activating Activated Abilities."
 
 Activated Ability
-    A kind of ability. Activated abilities are written as "[Cost]: [Effect.] [Activation instructions (if any).]" See rule 112, "Abilities," and rule 602, "Activating Activated Abilities."
+    A kind of ability. Activated abilities are written as "[Cost]: [Effect.] [Activation instructions (if any).]" See rule :ref:`112 <mtgcr-112>`, "Abilities," and rule 602, "Activating Activated Abilities."
 
 Activation Cost
-    Everything that appears before the colon in an activated ability's text. It must be paid to activate the ability. See rule 117, "Costs," and rule 602, "Activating Activated Abilities."
+    Everything that appears before the colon in an activated ability's text. It must be paid to activate the ability. See rule :ref:`117 <mtgcr-117>`, "Costs," and rule 602, "Activating Activated Abilities."
 
 Active Player
     The player whose turn it is. See rule :ref:`102.1 <mtgcr-102-1>`
 
 Active Player, Nonactive Player Order
-    A system that determines the order by which players make choices if multiple players are instructed to make choices at the same time. See rule 101.4. This rule is modified for games using the shared team turns option; see rule :ref:`805.6 <mtgcr-805-6>`
+    A system that determines the order by which players make choices if multiple players are instructed to make choices at the same time. See rule :ref:`101 <mtgcr-101>`.4. This rule is modified for games using the shared team turns option; see rule :ref:`805.6 <mtgcr-805-6>`
 
 Active Team
     The team whose turn it is in a game using the shared team turns option. See rule :ref:`805.4a <mtgcr-805-4a>`
 
 Additional Cost
-    A cost a spell may have that its controller may pay (or, in some cases, must pay) in addition to its mana cost to cast that spell. See rule 117, "Costs," and rule 601, "Casting Spells."
+    A cost a spell may have that its controller may pay (or, in some cases, must pay) in addition to its mana cost to cast that spell. See rule :ref:`117 <mtgcr-117>`, "Costs," and rule 601, "Casting Spells."
 
 Affinity
     A keyword ability that reduces how much mana you need to spend to cast a spell. See rule :ref:`702.40 <mtgcr-702-40>`, "Affinity."
 
 Alternating Teams Variant
-    A multiplayer variant played among two or more teams of equal size. See rule 811, "Alternating Teams Variant."
+    A multiplayer variant played among two or more teams of equal size. See rule :ref:`811 <mtgcr-811>`, "Alternating Teams Variant."
 
 Alternative Cost
-    A cost a spell may have that its controller can pay rather than paying its mana cost. See rule 117, "Costs," and rule 601, "Casting Spells."
+    A cost a spell may have that its controller can pay rather than paying its mana cost. See rule :ref:`117 <mtgcr-117>`, "Costs," and rule 601, "Casting Spells."
 
 Amplify
     A keyword ability than can have a creature enter the battlefield with +1/+1 counters on it. See rule :ref:`702.37 <mtgcr-702-37>`, "Amplify."
@@ -12447,62 +12437,62 @@ Ante
     1. A zone used only when playing "for keeps."
     2. To put a card into the ante zone.
     
-    See rule 407, "Ante."
+    See rule :ref:`407 <mtgcr-407>`, "Ante."
 
 APNAP Order
     See Active Player, Nonactive Player Order.
 
 Archenemy
-    1. A casual variant in which a team of players faces off against a single opponent bolstered with powerful scheme cards. See rule 904, "Archenemy."
+    1. A casual variant in which a team of players faces off against a single opponent bolstered with powerful scheme cards. See rule :ref:`904 <mtgcr-904>`, "Archenemy."
     2. A player in an Archenemy game who is playing with a scheme deck.
 
 Artifact
-    A card type. An artifact is a permanent. See rule 301, "Artifacts."
+    A card type. An artifact is a permanent. See rule :ref:`301 <mtgcr-301>`, "Artifacts."
 
 Artifact Creature
-    A combination of artifact and creature that's subject to the rules for both. See rule 301, "Artifacts," and rule 302, "Creatures."
+    A combination of artifact and creature that's subject to the rules for both. See rule :ref:`301 <mtgcr-301>`, "Artifacts," and rule 302, "Creatures."
 
 Artifact Land
-    A combination of artifact and land that's subject to the rules for both. Artifact lands can only be played as lands, not cast as spells. See rule 301, "Artifacts," and rule 305, "Lands."
+    A combination of artifact and land that's subject to the rules for both. Artifact lands can only be played as lands, not cast as spells. See rule :ref:`301 <mtgcr-301>`, "Artifacts," and rule 305, "Lands."
 
 Artifact Type
-    A subtype that's correlated to the artifact card type. See rule 301, "Artifacts." See rule :ref:`205.3g <mtgcr-205-3g>` for the list of artifact types.
+    A subtype that's correlated to the artifact card type. See rule :ref:`301 <mtgcr-301>`, "Artifacts." See rule :ref:`205.3g <mtgcr-205-3g>` for the list of artifact types.
 
 As Though
     Text used to indicate that the game, for some specific purpose, treats a condition as true even though it's not. See rule :ref:`609.4 <mtgcr-609-4>`
 
 Assign Combat Damage
-    To determine how an attacking or blocking creature will deal its combat damage. See rule 510, "Combat Damage Step."
+    To determine how an attacking or blocking creature will deal its combat damage. See rule :ref:`510 <mtgcr-510>`, "Combat Damage Step."
 
 At End of Turn (Obsolete)
-    A trigger condition printed on abilities that triggered at the beginning of the end step (which is not the last thing to happen in the turn). Cards that were printed with that text have received errata in the Oracle card reference to say "at the beginning of the end step" or "at the beginning of the next end step." See rule 513, "End Step."
+    A trigger condition printed on abilities that triggered at the beginning of the end step (which is not the last thing to happen in the turn). Cards that were printed with that text have received errata in the Oracle card reference to say "at the beginning of the end step" or "at the beginning of the next end step." See rule :ref:`513 <mtgcr-513>`, "End Step."
 
 Attach
     To move an Aura, Equipment, or Fortification onto another object. See rule :ref:`701.3 <mtgcr-701-3>`, "Attach."
 
 Attack
-    To send a creature into combat offensively. A creature can attack a player or a planeswalker. See rule 508, "Declare Attackers Step."
+    To send a creature into combat offensively. A creature can attack a player or a planeswalker. See rule :ref:`508 <mtgcr-508>`, "Declare Attackers Step."
 
 Attack Alone
     A creature "attacks alone" if it's the only creature declared as an attacker during the declare attackers step. A creature "is attacking alone" if it's attacking but no other creatures are. See rule :ref:`506.5 <mtgcr-506-5>`
 
 Attack Left Option
-    An option that may be used in certain multiplayer variants. See rule 803, "Attack Left and Attack Right Options."
+    An option that may be used in certain multiplayer variants. See rule :ref:`803 <mtgcr-803>`, "Attack Left and Attack Right Options."
 
 Attack Multiple Players Option
-    An option that may be used in certain multiplayer variants. See rule 802, "Attack Multiple Players Option."
+    An option that may be used in certain multiplayer variants. See rule :ref:`802 <mtgcr-802>`, "Attack Multiple Players Option."
 
 Attack Right Option
-    An option that may be used in certain multiplayer variants. See rule 803, "Attack Left and Attack Right Options."
+    An option that may be used in certain multiplayer variants. See rule :ref:`803 <mtgcr-803>`, "Attack Left and Attack Right Options."
 
 Attacking Creature
-    A creature that has either been declared as part of a legal attack during the combat phase (once all costs to attack, if any, have been paid), or a creature that has been put onto the battlefield attacking. It remains an attacking creature until it's removed from combat or the combat phase ends, whichever comes first. See rule 508, "Declare Attackers Step."
+    A creature that has either been declared as part of a legal attack during the combat phase (once all costs to attack, if any, have been paid), or a creature that has been put onto the battlefield attacking. It remains an attacking creature until it's removed from combat or the combat phase ends, whichever comes first. See rule :ref:`508 <mtgcr-508>`, "Declare Attackers Step."
 
 Attacks and Isn't Blocked
     An ability that triggers when a creature "attacks and isn't blocked" triggers when the creature becomes an unblocked attacking creature. See rule :ref:`509.1h <mtgcr-509-1h>`
 
 Aura
-    An enchantment subtype. Aura spells target objects or players, and Aura permanents are attached to objects or players. See rule 303, "Enchantments," and rule 702.5, "Enchant."
+    An enchantment subtype. Aura spells target objects or players, and Aura permanents are attached to objects or players. See rule :ref:`303 <mtgcr-303>`, "Enchantments," and rule 702.5, "Enchant."
 
 Aura Swap
     A keyword ability that lets you exchange an Aura on the battlefield with one in your hand. See rule :ref:`702.64 <mtgcr-702-64>`, "Aura Swap."
@@ -12517,37 +12507,37 @@ Basic Landcycling
     See Typecycling.
 
 Basic Land Type
-    There are five "basic land types": Plains, Island, Swamp, Mountain, and Forest. Each one has a mana ability associated with it. See rule 305, "Lands."
+    There are five "basic land types": Plains, Island, Swamp, Mountain, and Forest. Each one has a mana ability associated with it. See rule :ref:`305 <mtgcr-305>`, "Lands."
 
 Battle Cry
     A keyword ability that makes other attacking creatures better in combat. See rule :ref:`702.90 <mtgcr-702-90>`, "Battle Cry."
 
 Battlefield
-    A zone. The battlefield is the zone in which permanents exist. It used to be known as the "in-play" zone. See rule 403, "Battlefield."
+    A zone. The battlefield is the zone in which permanents exist. It used to be known as the "in-play" zone. See rule :ref:`403 <mtgcr-403>`, "Battlefield."
 
 Becomes
     A word used in some trigger events to indicate a change in status or characteristics. See rule :ref:`603.2d <mtgcr-603-2d>`
 
 Beginning of Combat Step
-    Part of the turn. This step is the first step of the combat phase. See rule 507, "Beginning of Combat Step."
+    Part of the turn. This step is the first step of the combat phase. See rule :ref:`507 <mtgcr-507>`, "Beginning of Combat Step."
 
 Beginning Phase
-    Part of the turn. This phase is the first phase of the turn. See rule 501, "Beginning Phase."
+    Part of the turn. This phase is the first phase of the turn. See rule :ref:`501 <mtgcr-501>`, "Beginning Phase."
 
 Bestow
     A keyword ability that lets a creature card be cast as an Aura. See rule :ref:`702.102 <mtgcr-702-102>`, "Bestow."
 
 Block
-    To send a creature into combat defensively. A creature can block an attacking creature. See rule 509, "Declare Blockers Step."
+    To send a creature into combat defensively. A creature can block an attacking creature. See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step."
 
 Block Alone
     A creature "blocks alone" if it's the only creature declared as a blocker during the declare blockers step. A creature "is blocking alone" if it's blocking but no other creatures are. See rule :ref:`506.5 <mtgcr-506-5>`
 
 Blocked Creature
-    An attacking creature that another creature blocks or that an effect causes to become blocked. It remains a blocked creature until it's removed from combat, an effect says that it becomes unblocked, or the combat phase ends, whichever comes first. See rule 509, "Declare Blockers Step."
+    An attacking creature that another creature blocks or that an effect causes to become blocked. It remains a blocked creature until it's removed from combat, an effect says that it becomes unblocked, or the combat phase ends, whichever comes first. See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step."
 
 Blocking Creature
-    A creature that has either been declared as part of a legal block during the combat phase (once all costs to block, if any, have been paid), or a creature that has been put onto the battlefield blocking. It remains a blocking creature until it's removed from combat or the combat phase ends, whichever comes first. See rule 509, "Declare Blockers Step."
+    A creature that has either been declared as part of a legal block during the combat phase (once all costs to block, if any, have been paid), or a creature that has been put onto the battlefield blocking. It remains a blocking creature until it's removed from combat or the combat phase ends, whichever comes first. See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step."
 
 Bloodthirst
     A keyword ability that can have a creature enter the battlefield with +1/+1 counters on it. See rule :ref:`702.53 <mtgcr-702-53>`, "Bloodthirst."
@@ -12562,16 +12552,16 @@ Buyback
     A keyword ability of instants and sorceries that can let the spell return to its owner's hand as it resolves. See rule :ref:`702.26 <mtgcr-702-26>`, "Buyback."
 
 Card
-    The standard component of the game. *Magic* cards may be traditional or nontraditional. Tokens aren't considered cards. In the text of spells or abilities, the term "card" is used only to refer to a card that's not on the battlefield or on the stack, such as a creature card in a player's hand. See rule 108, "Cards."
+    The standard component of the game. *Magic* cards may be traditional or nontraditional. Tokens aren't considered cards. In the text of spells or abilities, the term "card" is used only to refer to a card that's not on the battlefield or on the stack, such as a creature card in a player's hand. See rule :ref:`108 <mtgcr-108>`, "Cards."
 
 Card Type
-    A characteristic. Except for abilities on the stack, each object has a card type, even if that object isn't a card. Each card type has its own rules. See rule 205, "Type Line," and section 3, "Card Types."
+    A characteristic. Except for abilities on the stack, each object has a card type, even if that object isn't a card. Each card type has its own rules. See rule :ref:`205 <mtgcr-205>`, "Type Line," and section 3, "Card Types."
 
 Cascade
     A keyword ability that may let a player cast a random extra spell for no cost. See rule :ref:`702.84 <mtgcr-702-84>`, "Cascade."
 
 Cast
-    To take a spell from where it is (usually the hand), put it on the stack, and pay its costs, so that it will eventually resolve and have its effect. See rule 601, "Casting Spells."
+    To take a spell from where it is (usually the hand), put it on the stack, and pay its costs, so that it will eventually resolve and have its effect. See rule :ref:`601 <mtgcr-601>`, "Casting Spells."
 
 Caster (Obsolete)
     An obsolete term that referred to the player who cast a spell. In general, cards that were printed with the term "caster" have received errata in the Oracle card reference to say "controller."
@@ -12607,43 +12597,43 @@ Clash
     To have a mini-contest involving the top cards of players' libraries. See rule :ref:`701.20 <mtgcr-701-20>`, "Clash."
 
 Cleanup Step
-    Part of the turn. This step is the second and final step of the ending phase. See rule 514, "Cleanup Step."
+    Part of the turn. This step is the second and final step of the ending phase. See rule :ref:`514 <mtgcr-514>`, "Cleanup Step."
 
 Collector Number
-    A number printed on most cards that has no effect on game play. See rule 212, "Information Below the Text Box."
+    A number printed on most cards that has no effect on game play. See rule :ref:`212 <mtgcr-212>`, "Information Below the Text Box."
 
 Color
-    1. A characteristic of an object. See rule 105, "Colors," and rule 202, "Mana Cost and Color."
-    2. An attribute mana may have. See rule 106, "Mana."
+    1. A characteristic of an object. See rule :ref:`105 <mtgcr-105>`, "Colors," and rule 202, "Mana Cost and Color."
+    2. An attribute mana may have. See rule :ref:`106 <mtgcr-106>`, "Mana."
 
 Colorless
-    1. An object with no color is colorless. Colorless is not a color. See rule 105, "Colors," and rule 202, "Mana Cost and Color."
-    2. A type of mana. See rule 106, "Mana," and rule 107.4c.
+    1. An object with no color is colorless. Colorless is not a color. See rule :ref:`105 <mtgcr-105>`, "Colors," and rule 202, "Mana Cost and Color."
+    2. A type of mana. See rule :ref:`106 <mtgcr-106>`, "Mana," and rule 107.4c.
 
 Color Identity
     A set of colors that determines what cards may be included in a deck for the Commander casual variant. See rule :ref:`903.4 <mtgcr-903-4>`
 
 Color Indicator
-    A characteristic of an object. See rule 105, "Colors," and rule 204, "Color Indicator."
+    A characteristic of an object. See rule :ref:`105 <mtgcr-105>`, "Colors," and rule 204, "Color Indicator."
 
 Combat Damage
-    Damage dealt during the combat damage step by attacking creatures and blocking creatures as a consequence of combat. See rule 510, "Combat Damage Step."
+    Damage dealt during the combat damage step by attacking creatures and blocking creatures as a consequence of combat. See rule :ref:`510 <mtgcr-510>`, "Combat Damage Step."
 
 Combat Damage Step
-    Part of the turn. This step is the fourth step of the combat phase. See rule 510, "Combat Damage Step."
+    Part of the turn. This step is the fourth step of the combat phase. See rule :ref:`510 <mtgcr-510>`, "Combat Damage Step."
 
 Combat Phase
-    Part of the turn. This phase is the third phase of the turn. See rule 506, "Combat Phase."
+    Part of the turn. This phase is the third phase of the turn. See rule :ref:`506 <mtgcr-506>`, "Combat Phase."
 
 Command
-    A zone for certain specialized objects that have an overarching effect on the game, yet are not permanents and cannot be destroyed. See rule 408, "Command."
+    A zone for certain specialized objects that have an overarching effect on the game, yet are not permanents and cannot be destroyed. See rule :ref:`408 <mtgcr-408>`, "Command."
 
 Commander
-    1. A casual variant in which each deck is led by a legendary creature. See rule 903, "Commander."
+    1. A casual variant in which each deck is led by a legendary creature. See rule :ref:`903 <mtgcr-903>`, "Commander."
     2. A designation given to one legendary creature card in each player's deck in the Commander casual variant.
 
 Concede
-    To quit the game. Conceding a game immediately causes that player to leave that game and lose that game. See rule 104, "Ending the Game."
+    To quit the game. Conceding a game immediately causes that player to leave that game and lose that game. See rule :ref:`104 <mtgcr-104>`, "Ending the Game."
 
 Conspire
     A keyword ability that creates a copy of a spell. See rule :ref:`702.77 <mtgcr-702-77>`, "Conspire."
@@ -12652,7 +12642,7 @@ Constructed
     A way of playing in which each player creates his or her own deck ahead of time. See rule :ref:`100.2a <mtgcr-100-2a>`
 
 Continuous Effect
-    An effect that modifies characteristics of objects, modifies control of objects, or affects players or the rules of the game, for a fixed or indefinite period. See rule 611, "Continuous Effects."
+    An effect that modifies characteristics of objects, modifies control of objects, or affects players or the rules of the game, for a fixed or indefinite period. See rule :ref:`611 <mtgcr-611>`, "Continuous Effects."
 
 Continuous Artifact (Obsolete)
     An obsolete term that appeared on the type line of artifacts without activated abilities. Cards printed with this text have received errata in the Oracle card reference to simply say "Artifact."
@@ -12661,7 +12651,7 @@ Control, Controller
     "Control" is the system that determines who gets to use an object in the game. An object's "controller" is the player who currently controls it. See rule :ref:`108.4 <mtgcr-108-4>`
 
 Control Another Player
-    To make all choices and decisions that player is allowed to make, or is told to make, by rules or by any objects. See rule 712, "Controlling Another Player."
+    To make all choices and decisions that player is allowed to make, or is told to make, by rules or by any objects. See rule :ref:`712 <mtgcr-712>`, "Controlling Another Player."
 
 Converted Mana Cost
     The total amount of mana in a mana cost, regardless of color. See rule :ref:`202.3 <mtgcr-202-3>`
@@ -12676,23 +12666,23 @@ Copy
     1. To create a new object whose copiable values have been set to those of another object.
     2. An object whose copiable values have been set to those of another object.
 
-    See rule 706, "Copying Objects."
+    See rule :ref:`706 <mtgcr-706>`, "Copying Objects."
 
 Cost
-    An action or payment necessary to take another action or to stop another action from taking place. See rule 117, "Costs."
+    An action or payment necessary to take another action or to stop another action from taking place. See rule :ref:`117 <mtgcr-117>`, "Costs."
 
 Counter
     1. To cancel a spell or ability so it doesn't resolve and none of its effects occur. See rule :ref:`701.5 <mtgcr-701-5>`, "Counter."
-    2. A marker placed on an object or player that modifies its characteristics or interacts with a rule or ability. See rule 121, "Counters."
+    2. A marker placed on an object or player that modifies its characteristics or interacts with a rule or ability. See rule :ref:`121 <mtgcr-121>`, "Counters."
 
 Counts As (Obsolete)
     Some older cards were printed with text stating that the card "counts as" something. Cards printed with this text have received errata in the Oracle card reference to state that the card actually is that thing.
 
 Creature
-    A card type. A creature is a permanent. See rule 302, "Creatures."
+    A card type. A creature is a permanent. See rule :ref:`302 <mtgcr-302>`, "Creatures."
 
 Creature Type
-    A subtype that's correlated to the creature card type and the tribal card type. See rule 302, "Creatures," and rule 308, "Tribals." See rule :ref:`205.3m <mtgcr-205-3m>` for the list of creature types.
+    A subtype that's correlated to the creature card type and the tribal card type. See rule :ref:`302 <mtgcr-302>`, "Creatures," and rule 308, "Tribals." See rule :ref:`205.3m <mtgcr-205-3m>` for the list of creature types.
 
 Cumulative Upkeep
     A keyword ability that imposes an increasing cost to keep a permanent on the battlefield. See rule :ref:`702.23 <mtgcr-702-23>`, "Cumulative Upkeep."
@@ -12701,7 +12691,7 @@ Cycling
     A keyword ability that lets a card be discarded and replaced with a new card. See rule :ref:`702.28 <mtgcr-702-28>`, "Cycling."
 
 Damage
-    Objects can deal "damage" to creatures, planeswalkers, and players. This is generally detrimental to the object or player that receives that damage. See rule 119, "Damage."
+    Objects can deal "damage" to creatures, planeswalkers, and players. This is generally detrimental to the object or player that receives that damage. See rule :ref:`119 <mtgcr-119>`, "Damage."
 
 Damage Assignment Order
     The order, announced during the declare blockers step, that an attacking creature will assign its combat damage among the multiple creatures blocking it, or that a blocking creature will assign its combat damage among the multiple creatures it's blocking. See rules 509.2 and 509.3.
@@ -12713,25 +12703,25 @@ Deathtouch
     A keyword ability that causes damage dealt by an object to be especially effective. See rule :ref:`702.2 <mtgcr-702-2>`, "Deathtouch."
 
 Deck
-    The collection of cards a player starts the game with; it becomes that player's library. See rule 100, "General," and rule 103, "Starting the Game."
+    The collection of cards a player starts the game with; it becomes that player's library. See rule :ref:`100 <mtgcr-100>`, "General," and rule 103, "Starting the Game."
 
 Declare Attackers
     To choose a set of creatures that will attack, declare whether each creature is attacking the defending player or a planeswalker that player controls, and pay any costs required to allow those creatures to attack. See rule :ref:`508.1 <mtgcr-508-1>`
 
 Declare Attackers Step
-    Part of the turn. This step is the second step of the combat phase. See rule 508, "Declare Attackers Step."
+    Part of the turn. This step is the second step of the combat phase. See rule :ref:`508 <mtgcr-508>`, "Declare Attackers Step."
 
 Declare Blockers
     To choose a set of creatures that will block, declare which attacking creature each creature is blocking, and pay any costs required to allow those creatures to block. See rule :ref:`509.1 <mtgcr-509-1>`
 
 Declare Blockers Step
-    Part of the turn. This step is the third step of the combat phase. See rule 509, "Declare Blockers Step."
+    Part of the turn. This step is the third step of the combat phase. See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step."
 
 Defender
     A keyword ability that prohibits a creature from attacking. See rule :ref:`702.3 <mtgcr-702-3>`, "Defender."
 
 Defending Player
-    The player who can be attacked, and whose planeswalkers can be attacked, during the combat phase. See rule :ref:`506.2 <mtgcr-506-2>` In certain multiplayer games, there may be more than one defending player; see rule 802, "Attack Multiple Players Option," and rule 810.7.
+    The player who can be attacked, and whose planeswalkers can be attacked, during the combat phase. See rule :ref:`506.2 <mtgcr-506-2>` In certain multiplayer games, there may be more than one defending player; see rule :ref:`802 <mtgcr-802>`, "Attack Multiple Players Option," and rule 810.7.
 
 Defending Team
     The team who can be attacked, and whose planeswalkers can be attacked, during the combat phase of a Two-Headed Giant game. See rule :ref:`810.7 <mtgcr-810-7>`
@@ -12746,7 +12736,7 @@ Dependency
     A system that may be used to determine in which order continuous effects in the same layer or sublayer are applied. See rule :ref:`613.7 <mtgcr-613-7>` See also Timestamp Order.
 
 Deploy Creatures Option
-    An option that may be used in certain multiplayer variants to pass control of creatures between teammates. See rule 804, "Deploy Creatures Option."
+    An option that may be used in certain multiplayer variants to pass control of creatures between teammates. See rule :ref:`804 <mtgcr-804>`, "Deploy Creatures Option."
 
 Destroy
     To move a permanent from the battlefield to its owner's graveyard. See rule :ref:`701.6 <mtgcr-701-6>`, "Destroy."
@@ -12767,17 +12757,17 @@ Discard
     To move a card from its owner's hand to that player's graveyard. See rule :ref:`701.7 <mtgcr-701-7>`, "Discard."
 
 Double-Faced Cards
-    Cards with two faces, one on each side of the card, and no *Magic* card back. See rule 711, "Double-Faced Cards."
+    Cards with two faces, one on each side of the card, and no *Magic* card back. See rule :ref:`711 <mtgcr-711>`, "Double-Faced Cards."
 
 Double Strike
     A keyword ability that lets a creature deal its combat damage twice. See rule :ref:`702.4 <mtgcr-702-4>`, "Double Strike."
 
 Draw
-    1. To put the top card of a player's library into his or her hand as a turn-based action or as the result of an effect that uses the word "draw." See rule 120, "Drawing a Card."
+    1. To put the top card of a player's library into his or her hand as a turn-based action or as the result of an effect that uses the word "draw." See rule :ref:`120 <mtgcr-120>`, "Drawing a Card."
     2. The result of a game in which neither player wins or loses. See rule :ref:`104.4 <mtgcr-104-4>`
 
 Draw Step
-    Part of the turn. This step is the third and final step of the beginning phase. See rule 504, "Draw Step."
+    Part of the turn. This step is the third and final step of the beginning phase. See rule :ref:`504 <mtgcr-504>`, "Draw Step."
 
 Dredge
     A keyword ability that lets a player return a card from his or her graveyard to his or her hand. See rule :ref:`702.51 <mtgcr-702-51>`, "Dredge."
@@ -12789,46 +12779,46 @@ Echo
     A keyword ability that imposes a cost to keep a permanent on the battlefield. See rule :ref:`702.29 <mtgcr-702-29>`, "Echo."
 
 EDH (Obsolete)
-    An older name for the Commander casual variant. See rule 903, "Commander."
+    An older name for the Commander casual variant. See rule :ref:`903 <mtgcr-903>`, "Commander."
 
 Effect
-    Something that happens in the game as a result of a spell or ability. See rule 609, "Effects."
+    Something that happens in the game as a result of a spell or ability. See rule :ref:`609 <mtgcr-609>`, "Effects."
 
 Emblem
-    An emblem is a marker used to represent an object that has one or more abilities, but no other characteristics. See rule 113, "Emblems."
+    An emblem is a marker used to represent an object that has one or more abilities, but no other characteristics. See rule :ref:`113 <mtgcr-113>`, "Emblems."
 
 Emperor
-    The middle player on each team in an Emperor game. See rule 809, "Emperor Variant."
+    The middle player on each team in an Emperor game. See rule :ref:`809 <mtgcr-809>`, "Emperor Variant."
 
 Emperor Variant
-    A multiplayer variant played among three-player teams. See rule 809, "Emperor Variant."
+    A multiplayer variant played among three-player teams. See rule :ref:`809 <mtgcr-809>`, "Emperor Variant."
 
 Enchant
-    A keyword ability that defines what an Aura spell can target and what an Aura permanent can be attached to. See rule 303, "Enchantments," and rule 702.5, "Enchant."
+    A keyword ability that defines what an Aura spell can target and what an Aura permanent can be attached to. See rule :ref:`303 <mtgcr-303>`, "Enchantments," and rule 702.5, "Enchant."
 
 Enchantment
-    A card type. An enchantment is a permanent. See rule 303, "Enchantments." See also Aura.
+    A card type. An enchantment is a permanent. See rule :ref:`303 <mtgcr-303>`, "Enchantments." See also Aura.
 
 Enchantment Type
-    A subtype that's correlated to the enchantment card type. See rule 303, "Enchantments." See rule :ref:`205.3h <mtgcr-205-3h>` for the list of enchantment types.
+    A subtype that's correlated to the enchantment card type. See rule :ref:`303 <mtgcr-303>`, "Enchantments." See rule :ref:`205.3h <mtgcr-205-3h>` for the list of enchantment types.
 
 Encoded
     A term that describes the relationship between a permanent and a card exiled by a cipher ability. See rule :ref:`702.98 <mtgcr-702-98>`, "Cipher."
 
 Encounter
-    To move a phenomenon card off the top of a planar deck and turn it face up. See rule 310, "Phenomena."
+    To move a phenomenon card off the top of a planar deck and turn it face up. See rule :ref:`310 <mtgcr-310>`, "Phenomena."
 
 End of Combat Step
-    Part of the turn. This step is the fifth and final step of the combat phase. See rule 511, "End of Combat Step."
+    Part of the turn. This step is the fifth and final step of the combat phase. See rule :ref:`511 <mtgcr-511>`, "End of Combat Step."
 
 End Step
-    Part of the turn. This step is the first step of the ending phase. See rule 513, "End Step."
+    Part of the turn. This step is the first step of the ending phase. See rule :ref:`513 <mtgcr-513>`, "End Step."
 
 End the Turn
-    To "end the turn" as the result of an effect is to perform an expedited process that skips nearly everything else that would happen that turn. See rule 713, "Ending the Turn."
+    To "end the turn" as the result of an effect is to perform an expedited process that skips nearly everything else that would happen that turn. See rule :ref:`713 <mtgcr-713>`, "Ending the Turn."
 
 Ending Phase
-    Part of the turn. This phase is the fifth and final phase of the turn. See rule 512, "Ending Phase."
+    Part of the turn. This phase is the fifth and final phase of the turn. See rule :ref:`512 <mtgcr-512>`, "Ending Phase."
 
 Enters the Battlefield
     A nontoken permanent "enters the battlefield" when it's moved onto the battlefield from another zone. A token "enters the battlefield" when it's created. See rules 403.3, 603.6a, 603.6e, and 614.12.
@@ -12840,10 +12830,10 @@ Epic
     A keyword ability that lets a player copy a spell at the beginning of each of his or her upkeeps at the expense of casting any other spells for the rest of the game. See rule :ref:`702.49 <mtgcr-702-49>`, "Epic."
 
 Equip
-    A keyword ability that lets a player attach an Equipment to a creature he or she controls. See rule 301, "Artifacts," and rule 702.6, "Equip."
+    A keyword ability that lets a player attach an Equipment to a creature he or she controls. See rule :ref:`301 <mtgcr-301>`, "Artifacts," and rule 702.6, "Equip."
 
 Equipment
-    An artifact subtype. Equipment can be attached to creatures. See rule 301, "Artifacts," and rule 702.6, "Equip."
+    An artifact subtype. Equipment can be attached to creatures. See rule :ref:`301 <mtgcr-301>`, "Artifacts," and rule 702.6, "Equip."
 
 Evasion Ability
     An ability that restricts what creatures can block an attacking creature. See rules 509.1b-c.
@@ -12867,21 +12857,21 @@ Exile
     1. A zone. Exile is essentially a holding area for cards. It used to be known as the "removed-from-the-game" zone.
     2. To put an object into the exile zone from whatever zone it's currently in. An "exiled" card is one that's been put into the exile zone.
 
-    See rule 406, "Exile."
+    See rule :ref:`406 <mtgcr-406>`, "Exile."
 
 Expansion Symbol
-    A card's expansion symbol is a small icon normally printed below the right edge of the illustration that has no effect on game play. See rule 206, "Expansion Symbol."
+    A card's expansion symbol is a small icon normally printed below the right edge of the illustration that has no effect on game play. See rule :ref:`206 <mtgcr-206>`, "Expansion Symbol."
 
 Extort
     A keyword ability that lets you gain life and have opponents lose life whenever you cast a spell. See rule :ref:`702.100 <mtgcr-702-100>`, "Extort."
 
 Extra Turn
-    A turn created by an effect of a spell or ability. See rule 500.7. For rules about extra turns in a multiplayer game using the shared team turns option, see 805.8. For rules about extra turns in a Grand Melee game, see rule :ref:`807.4 <mtgcr-807-4>`
+    A turn created by an effect of a spell or ability. See rule :ref:`500 <mtgcr-500>`.7. For rules about extra turns in a multiplayer game using the shared team turns option, see 805.8. For rules about extra turns in a Grand Melee game, see rule :ref:`807.4 <mtgcr-807-4>`
 
 Face Down
     1. A card is "face down" if it's physically positioned so the card back is showing. Cards in some zones are normally kept face down. See section 4, :ref:`Zones <mtgcr-sec-zones>`.
     2. A status a permanent may have. See rule :ref:`110.6 <mtgcr-110-6>` and rule 702.36, "Morph."
-    3. Face-down spells have additional rules. See rule 707, "Face-Down Spells and Permanents," and rule 702.36, "Morph."
+    3. Face-down spells have additional rules. See rule :ref:`707 <mtgcr-707>`, "Face-Down Spells and Permanents," and rule 702.36, "Morph."
 
 Face Up
     1. A card is "face up" if it's physically positioned so the card front is showing. Cards in some zones are normally kept face up. See section 4, :ref:`Zones <mtgcr-sec-zones>`.
@@ -12915,13 +12905,13 @@ Flavor Text
     Text in italics (but not in parentheses) in the text box of a card that has no effect on play. See rule :ref:`207.2 <mtgcr-207-2>`
 
 Flip Cards
-    Cards with a two-part card frame (one part of which is printed upside down) on a single card. See rule 709, "Flip Cards."
+    Cards with a two-part card frame (one part of which is printed upside down) on a single card. See rule :ref:`709 <mtgcr-709>`, "Flip Cards."
 
 Flipped
     A status a permanent may have. See rule :ref:`110.6 <mtgcr-110-6>` and rule 709, "Flip Cards." See also Unflipped.
 
 Flipping a Coin
-    A method of randomization with two possible outcomes of equal likelihood. See rule 705, "Flipping a Coin."
+    A method of randomization with two possible outcomes of equal likelihood. See rule :ref:`705 <mtgcr-705>`, "Flipping a Coin."
 
 Flying
     A keyword ability that restricts how a creature may be blocked. See rule :ref:`702.9 <mtgcr-702-9>`, "Flying."
@@ -12939,16 +12929,16 @@ Forestwalk
     See Landwalk.
 
 Fortification
-    An artifact subtype. Fortifications can be attached to lands. See rule 301, "Artifacts," and rule 702.66, "Fortify."
+    An artifact subtype. Fortifications can be attached to lands. See rule :ref:`301 <mtgcr-301>`, "Artifacts," and rule 702.66, "Fortify."
 
 Fortify
-    A keyword ability that lets a player attach a Fortification to a land he or she controls. See rule 301, "Artifacts," and rule 702.66, "Fortify."
+    A keyword ability that lets a player attach a Fortification to a land he or she controls. See rule :ref:`301 <mtgcr-301>`, "Artifacts," and rule 702.66, "Fortify."
 
 Frenzy
     A keyword ability that can make a creature better in combat. See rule :ref:`702.67 <mtgcr-702-67>`, "Frenzy."
 
 Free-for-All
-    A multiplayer variant in which a group of players compete as individuals against each other. See rule 806, "Free-for-All Variant."
+    A multiplayer variant in which a group of players compete as individuals against each other. See rule :ref:`806 <mtgcr-806>`, "Free-for-All Variant."
 
 Fuse
     A keyword ability that allows a player to cast both halves of a split card. See rule :ref:`702.101 <mtgcr-702-101>`, "Fuse."
@@ -12957,7 +12947,7 @@ Fused Split Spell
     A split card on the stack that has been cast using the fuse ability or a copy of such a card. See rule :ref:`702.101 <mtgcr-702-101>`, "Fuse."
 
 General
-    Any player in the Emperor multiplayer variant who isn't an emperor. See rule 809, "Emperor Variant."
+    Any player in the Emperor multiplayer variant who isn't an emperor. See rule :ref:`809 <mtgcr-809>`, "Emperor Variant."
 
 Generic Mana
     Mana in a cost not represented by colored mana symbols; it can be paid with mana of any type. See rule :ref:`107.4 <mtgcr-107-4>`
@@ -12969,7 +12959,7 @@ Graft
     A keyword ability that has a permanent enter the battlefield with +1/+1 counters on it and can move those counters to other creatures. See rule :ref:`702.57 <mtgcr-702-57>`, "Graft."
 
 Grand Melee
-    A multiplayer variant in which a large group of players (usually ten or more) compete as individuals against each other. See rule 807, "Grand Melee Variant."
+    A multiplayer variant in which a large group of players (usually ten or more) compete as individuals against each other. See rule :ref:`807 <mtgcr-807>`, "Grand Melee Variant."
 
 Gravestorm
     A keyword ability that creates copies of a spell. See rule :ref:`702.68 <mtgcr-702-68>`, "Gravestorm."
@@ -12978,16 +12968,16 @@ Graveyard
     1. A zone. A player's graveyard is his or her discard pile.
     2. All the cards in a player's graveyard.
 
-    See rule 404, "Graveyard."
+    See rule :ref:`404 <mtgcr-404>`, "Graveyard."
 
 Hand
     1. A zone. A player's hand is where that player holds cards he or she has drawn but not played yet.
     2. All the cards in a player's hand.
 
-    See rule 402, "Hand."
+    See rule :ref:`402 <mtgcr-402>`, "Hand."
 
 Hand Modifier
-    A characteristic that only vanguards have. See rule 210, "Hand Modifier."
+    A characteristic that only vanguards have. See rule :ref:`210 <mtgcr-210>`, "Hand Modifier."
 
 Haste
     A keyword ability that lets a creature ignore the "summoning sickness" rule. See rule :ref:`702.10 <mtgcr-702-10>`, "Haste," and rule 302.6.
@@ -13017,16 +13007,16 @@ If
     See Intervening "If" Clause.
 
 Illegal Action
-    An action that violates the rules of the game and/or requirements or restrictions created by effects. See rule 717, "Handling Illegal Actions."
+    An action that violates the rules of the game and/or requirements or restrictions created by effects. See rule :ref:`717 <mtgcr-717>`, "Handling Illegal Actions."
 
 Illegal Target
     A target that no longer exists or no longer meets the specifications stated by the spell or ability that's targeting it. See rule :ref:`608.2b <mtgcr-608-2b>`
 
 Illustration
-    A picture printed on the upper half of a card that has no effect on game play. See rule 203, "Illustration."
+    A picture printed on the upper half of a card that has no effect on game play. See rule :ref:`203 <mtgcr-203>`, "Illustration."
 
 Illustration Credit
-    Information printed directly below the text box that has no effect on game play. See rule 212, "Information Below the Text Box."
+    Information printed directly below the text box that has no effect on game play. See rule :ref:`212 <mtgcr-212>`, "Information Below the Text Box."
 
 Imprint
     "Imprint" used to be a keyword ability. It is now an ability word and has no rules meaning. All cards printed with the imprint keyword have received errata in the Oracle card reference.
@@ -13047,10 +13037,10 @@ Infect
     A keyword ability that affects how an object deals damage to creatures and players. See rule :ref:`702.89 <mtgcr-702-89>`, "Infect."
 
 Instant
-    A card type. An instant is not a permanent. See rule 304, "Instants."
+    A card type. An instant is not a permanent. See rule :ref:`304 <mtgcr-304>`, "Instants."
 
 Instead
-    Effects that use the word "instead" are replacement effects. The word "instead" indicates what an event will be replaced with. See rule 614, "Replacement Effects."
+    Effects that use the word "instead" are replacement effects. The word "instead" indicates what an event will be replaced with. See rule :ref:`614 <mtgcr-614>`, "Replacement Effects."
 
 Interrupt (Obsolete)
     An obsolete card type. All cards printed with this card type are now instants. All abilities that, as printed, said a player could "play as an interrupt" can now be activated like any other activated abilities (unless they're mana abilities, in which case they follow those rules instead). All relevant cards have been given errata in the Oracle card reference.
@@ -13074,19 +13064,19 @@ Islandwalk
     See Landwalk.
 
 Keyword Ability
-    A game term, such as "flying" or "haste," used as shorthand for a longer ability or group of abilities. See rule 702, "Keyword Abilities."
+    A game term, such as "flying" or "haste," used as shorthand for a longer ability or group of abilities. See rule :ref:`702 <mtgcr-702>`, "Keyword Abilities."
 
 Keyword Action
-    A verb, such as "destroy" or "cast," used as a game term rather than as its normal English meaning. See rule 701, "Keyword Actions."
+    A verb, such as "destroy" or "cast," used as a game term rather than as its normal English meaning. See rule :ref:`701 <mtgcr-701>`, "Keyword Actions."
 
 Kicker, Kicked
     Kicker is a keyword ability that represents an optional additional cost. A spell has been kicked if its controller declared the intention to pay any or all of its kicker costs. See rule :ref:`702.32 <mtgcr-702-32>`, "Kicker."
 
 Land
-    A card type. A land is a permanent. See rule 305, "Lands."
+    A card type. A land is a permanent. See rule :ref:`305 <mtgcr-305>`, "Lands."
 
 Land Type
-    A subtype that's correlated to the land card type. See rule 305, "Lands." See rule :ref:`205.3i <mtgcr-205-3i>` for the list of land types.
+    A subtype that's correlated to the land card type. See rule :ref:`305 <mtgcr-305>`, "Lands." See rule :ref:`205.3i <mtgcr-205-3i>` for the list of land types.
 
 Landwalk
     A generic term for a group of keyword abilities that restrict whether a creature may be blocked. See rule :ref:`702.14 <mtgcr-702-14>`, "Landwalk."
@@ -13095,13 +13085,13 @@ Last Known Information
     Information about an object that's no longer in the zone it's expected to be in, or information about a player that's no longer in the game. This information captures that object's last existence in that zone or that player's last existence in the game. See rules 112.7a, 608.2b, 608.2g, and 800.4g.
 
 Layer
-    A system used to determine in which order continuous effects are applied. See rule 613, "Interaction of Continuous Effects." See also Dependency, Timestamp Order.
+    A system used to determine in which order continuous effects are applied. See rule :ref:`613 <mtgcr-613>`, "Interaction of Continuous Effects." See also Dependency, Timestamp Order.
 
 Leaves the Battlefield
     A permanent "leaves the battlefield" when it's moved from the battlefield to another zone, or (if it's phased in) when it leaves the game because its owner leaves the game. See rules 603.6c and 603.6d.
 
 Legal Text
-    Information printed directly below the text box that has no effect on game play. See rule 212, "Information Below the Text Box."
+    Information printed directly below the text box that has no effect on game play. See rule :ref:`212 <mtgcr-212>`, "Information Below the Text Box."
 
 Legend (Obsolete)
     An obsolete creature type. Cards printed with this subtype have been given errata in the Oracle card reference so they have the legendary supertype instead. See Legendary.
@@ -13122,19 +13112,19 @@ Level Up
     A keyword ability that can put level counters on a creature. See rule :ref:`702.86 <mtgcr-702-86>`, "Level Up."
 
 Leveler Cards
-    Cards with striated text boxes and three power/toughness boxes. See rule 710, "Leveler Cards."
+    Cards with striated text boxes and three power/toughness boxes. See rule :ref:`710 <mtgcr-710>`, "Leveler Cards."
 
 Library
     1. A zone. A player's library is where that player draws cards from.
     2. All the cards in a player's library.
 
-    See rule 401, "Library."
+    See rule :ref:`401 <mtgcr-401>`, "Library."
 
 Life, Life Total
-    Each player has an amount of "life," represented by that player's "life total." Life may be gained or lost. See rule 118, "Life."
+    Each player has an amount of "life," represented by that player's "life total." Life may be gained or lost. See rule :ref:`118 <mtgcr-118>`, "Life."
 
 Life Modifier
-    A characteristic that only vanguards have. See rule 211, "Life Modifier."
+    A characteristic that only vanguards have. See rule :ref:`211 <mtgcr-211>`, "Life Modifier."
 
 Lifelink
     A keyword ability that causes a player to gain life. See rule :ref:`702.15 <mtgcr-702-15>`, "Lifelink."
@@ -13143,10 +13133,10 @@ Limited
     A way of playing in which each player gets a quantity of unopened *Magic* product and creates his or her own deck on the spot. See rule :ref:`100.2 <mtgcr-100-2>`
 
 Limited Range of Influence
-    An optional rule used in some multiplayer games that limits what a player can affect. See rule 801, "Limited Range of Influence Option."
+    An optional rule used in some multiplayer games that limits what a player can affect. See rule :ref:`801 <mtgcr-801>`, "Limited Range of Influence Option."
 
 Linked Abilities
-    Two abilities printed on the same object such that one of them causes actions to be taken or objects to be affected and the other one directly refers to those actions or objects. See rule 607, "Linked Abilities."
+    Two abilities printed on the same object such that one of them causes actions to be taken or objects to be affected and the other one directly refers to those actions or objects. See rule :ref:`607 <mtgcr-607>`, "Linked Abilities."
 
 Living Weapon
     A keyword ability that causes a creature token to be put onto the battlefield along with the Equipment with the ability. See rule :ref:`702.91 <mtgcr-702-91>`, "Living Weapon."
@@ -13155,32 +13145,32 @@ Local Enchantment (Obsolete)
     An obsolete term for an Aura. Cards printed with this text have received errata in the Oracle card reference.
 
 Loop
-    A set of actions that could be repeated indefinitely. See rule 716, "Taking Shortcuts."
+    A set of actions that could be repeated indefinitely. See rule :ref:`716 <mtgcr-716>`, "Taking Shortcuts."
 
 Lose the Game
-    There are several ways to lose the game. See rule 104, "Ending the Game," rule 810.8 (for additional rules for Two-Headed Giant games), rule 809.5 (for additional rules for Emperor games), and rule 903.14 (for an additional rule for Commander games).
+    There are several ways to lose the game. See rule :ref:`104 <mtgcr-104>`, "Ending the Game," rule 810.8 (for additional rules for Two-Headed Giant games), rule 809.5 (for additional rules for Emperor games), and rule 903.14 (for an additional rule for Commander games).
 
 Loyalty
-    1. Part of a card that only planeswalkers have. A planeswalker card's loyalty is printed in its lower right corner. See rule 209, "Loyalty."
+    1. Part of a card that only planeswalkers have. A planeswalker card's loyalty is printed in its lower right corner. See rule :ref:`209 <mtgcr-209>`, "Loyalty."
     2. A characteristic that only planeswalkers have. See rule :ref:`306.5 <mtgcr-306-5>`
 
 Loyalty Ability
-    An activated ability with a loyalty symbol in its cost. See rule 606, "Loyalty Abilities."
+    An activated ability with a loyalty symbol in its cost. See rule :ref:`606 <mtgcr-606>`, "Loyalty Abilities."
 
 Madness
     A keyword ability that lets a player cast a card he or she discards. See rule :ref:`702.34 <mtgcr-702-34>`, "Madness."
 
 Main Game
-    The game in which a spell (or ability) that created a subgame was cast (or activated). See rule 715, "Subgames."
+    The game in which a spell (or ability) that created a subgame was cast (or activated). See rule :ref:`715 <mtgcr-715>`, "Subgames."
 
 Main Phase
-    Part of the turn. The first, or precombat, main phase is the second phase of the turn. The second, or postcombat, main phase is the fourth phase of the turn. See rule 505, "Main Phase."
+    Part of the turn. The first, or precombat, main phase is the second phase of the turn. The second, or postcombat, main phase is the fourth phase of the turn. See rule :ref:`505 <mtgcr-505>`, "Main Phase."
 
 Mana
-    The primary resource in the game. It is spent to pay costs, usually when casting spells and activating abilities. See rule 106, "Mana," rule 107.4, and rule 202, "Mana Cost and Color."
+    The primary resource in the game. It is spent to pay costs, usually when casting spells and activating abilities. See rule :ref:`106 <mtgcr-106>`, "Mana," rule 107.4, and rule 202, "Mana Cost and Color."
 
 Mana Ability
-    An activated or triggered ability that could create mana and doesn't use the stack. See rule 605, "Mana Abilities."
+    An activated or triggered ability that could create mana and doesn't use the stack. See rule :ref:`605 <mtgcr-605>`, "Mana Abilities."
 
 Mana Burn (Obsolete)
     Older versions of the rules stated that unspent mana caused a player to lose life; this was called "mana burn." That rule no longer exists.
@@ -13216,7 +13206,7 @@ Mono Artifact (Obsolete)
     An obsolete term that appeared on the type line of artifacts with activated abilities that caused the artifact to become tapped as a cost. Cards printed with this text have received errata in the Oracle card reference to simply say "Artifact," and those abilities now include the tap symbol in their costs.
 
 Monocolored
-    An object with exactly one color is monocolored. Colorless objects aren't monocolored. See rule 105, "Colors," and rule 202, "Mana Cost and Color."
+    An object with exactly one color is monocolored. Colorless objects aren't monocolored. See rule :ref:`105 <mtgcr-105>`, "Colors," and rule 202, "Mana Cost and Color."
 
 Monocolored Hybrid Mana Symbols
     See Hybrid Mana Symbols.
@@ -13228,7 +13218,7 @@ Monstrous
     A term that describes a creature whose ability including a monstrosity instruction has resolved. See rule :ref:`701.28 <mtgcr-701-28>`, "Monstrosity."
 
 Moon Symbol
-    A symbol found in the upper left corner of the back face of a double-faced card. See rule 711, "Double-Faced Cards."
+    A symbol found in the upper left corner of the back face of a double-faced card. See rule :ref:`711 <mtgcr-711>`, "Double-Faced Cards."
 
 Morph
     A keyword ability that lets a card be cast face down as a 2/2 creature. See rule :ref:`702.36 <mtgcr-702-36>`, "Morph," and rule 707, "Face-Down Spells and Permanents."
@@ -13251,7 +13241,7 @@ Mulligan
     To take a "mulligan" is to reject a prospective opening hand and draw a new one (usually with one fewer card). See rule :ref:`103.4 <mtgcr-103-4>`
 
 Multicolored
-    An object with two or more colors is multicolored. Multicolored is not a color. See rule 105, "Colors," and rule 202, "Mana Cost and Color."
+    An object with two or more colors is multicolored. Multicolored is not a color. See rule :ref:`105 <mtgcr-105>`, "Colors," and rule 202, "Mana Cost and Color."
 
 Multikicker
     Multikicker is a variant of the kicker keyword ability. It represents an optional additional cost that may be paid any number of times. See rule :ref:`702.32 <mtgcr-702-32>`, "Kicker." See also Kicker.
@@ -13260,7 +13250,7 @@ Multiplayer Game
     A game that begins with more than two players. See section 8, :ref:`Multiplayer Rules <mtgcr-sec-multiplayer-rules>`.
 
 Name
-    A characteristic, and part of a card. A card's name is printed in its upper left corner. See rule 201, "Name."
+    A characteristic, and part of a card. A card's name is printed in its upper left corner. See rule :ref:`201 <mtgcr-201>`, "Name."
 
 Ninjutsu
     A keyword ability that lets a creature suddenly enter combat. See rule :ref:`702.48 <mtgcr-702-48>`, "Ninjutsu."
@@ -13272,13 +13262,13 @@ Nontraditional *Magic* Card
     An oversized *Magic* card that has a *Magic* card back but not a "Deckmaster" back. See rule :ref:`108.2 <mtgcr-108-2>`
 
 Object
-    An ability on the stack, a card, a copy of a card, a token, a spell, or a permanent. See rule 109, "Objects."
+    An ability on the stack, a card, a copy of a card, a token, a spell, or a permanent. See rule :ref:`109 <mtgcr-109>`, "Objects."
 
 Offering
     A keyword ability that modifies when you can cast a spell and how much mana you need to spend to do it. See rule :ref:`702.47 <mtgcr-702-47>`, "Offering."
 
 One-Shot Effect
-    An effect that does something just once and doesn't have a duration. See rule 610, "One-Shot Effects." See also Continuous Effects.
+    An effect that does something just once and doesn't have a duration. See rule :ref:`610 <mtgcr-610>`, "One-Shot Effects." See also Continuous Effects.
 
 Ongoing
     A supertype that appears only on scheme cards. See rule :ref:`205.4 <mtgcr-205-4>`, "Supertypes."
@@ -13308,16 +13298,16 @@ Paired
     A term that describes a creature that's been affected by a soulbond ability. See rule :ref:`702.94 <mtgcr-702-94>`, "Soulbond."
 
 Pass
-    To decline to take any action (such as casting a spell or activating an ability) when you have priority. See rule 116, "Timing and Priority."
+    To decline to take any action (such as casting a spell or activating an ability) when you have priority. See rule :ref:`116 <mtgcr-116>`, "Timing and Priority."
 
 Pass in Succession
-    All players "pass in succession" if each player in the game (starting with any one of them) opts not to take an action upon receiving priority. See rule 116, "Timing and Priority."
+    All players "pass in succession" if each player in the game (starting with any one of them) opts not to take an action upon receiving priority. See rule :ref:`116 <mtgcr-116>`, "Timing and Priority."
 
 Pay
-    To perform the actions required by a cost. This often means, but is not restricted to, spending resources such as mana or life. See rule 117, "Costs."
+    To perform the actions required by a cost. This often means, but is not restricted to, spending resources such as mana or life. See rule :ref:`117 <mtgcr-117>`, "Costs."
 
 Permanent
-    A card or token on the battlefield. See rule 110, "Permanents."
+    A card or token on the battlefield. See rule :ref:`110 <mtgcr-110>`, "Permanents."
 
 Permanent Card
     A card that could be put onto the battlefield. See rule :ref:`110.4a <mtgcr-110-4a>`
@@ -13342,7 +13332,7 @@ Phasing
     A keyword ability that causes a permanent to sometimes be treated as though it does not exist. See rule :ref:`702.25 <mtgcr-702-25>`, "Phasing."
 
 Phenomenon
-    A card type seen only on nontraditional *Magic* cards in the Planechase casual variant. A phenomenon card is not a permanent. See rule 310, "Phenomena."
+    A card type seen only on nontraditional *Magic* cards in the Planechase casual variant. A phenomenon card is not a permanent. See rule :ref:`310 <mtgcr-310>`, "Phenomena."
 
 Phyrexian Mana Symbol
     A mana symbol that represents a cost that can be paid either by spending colored mana or by paying life. See rule :ref:`107.4 <mtgcr-107-4>`
@@ -13354,7 +13344,7 @@ Pile
     A temporary grouping of cards. See rule :ref:`700.3 <mtgcr-700-3>`
 
 Placed
-    If a spell or ability refers to a counter being "placed" on a permanent, it means putting a counter on that permanent while it's on the battlefield, or that permanent entering the battlefield with a counter on it. See rule 121, "Counters."
+    If a spell or ability refers to a counter being "placed" on a permanent, it means putting a counter on that permanent while it's on the battlefield, or that permanent entering the battlefield with a counter on it. See rule :ref:`121 <mtgcr-121>`, "Counters."
 
 Plains
     One of the five basic land types. Any land with this subtype has the ability "|tap|: Add |mana_w| to your mana pool." See rule :ref:`305.6 <mtgcr-305-6>`
@@ -13372,41 +13362,41 @@ Planar Die
     A specialized six-sided die needed to play the Planechase casual variant. See rule :ref:`901.3 <mtgcr-901-3>`
 
 Plane
-    A card type seen only on nontraditional *Magic* cards in the Planechase casual variant. A plane card is not a permanent. See rule 309, "Planes."
+    A card type seen only on nontraditional *Magic* cards in the Planechase casual variant. A plane card is not a permanent. See rule :ref:`309 <mtgcr-309>`, "Planes."
 
 Planechase
-    A casual variant in which plane cards and phenomenon cards add additional abilities and randomness to the game. See rule 901, "Planechase."
+    A casual variant in which plane cards and phenomenon cards add additional abilities and randomness to the game. See rule :ref:`901 <mtgcr-901>`, "Planechase."
 
 Planeswalk
     To put each face-up plane card or phenomenon card on the bottom of its owner's planar deck face down, then move the top card of your planar deck off that planar deck and turn it face up in a Planechase game. See rule :ref:`701.21 <mtgcr-701-21>`, "Planeswalk."
 
 Planeswalker
-    A card type. A planeswalker is a permanent. See rule 306, "Planeswalkers."
+    A card type. A planeswalker is a permanent. See rule :ref:`306 <mtgcr-306>`, "Planeswalkers."
 
 Planeswalker Symbol
     The Planeswalker symbol {PW} appears on the planar die in the Planechase casual variant. See rule :ref:`107.11 <mtgcr-107-11>`
 
 Planeswalker Type
-    A subtype that's correlated to the planeswalker card type. See rule 306, "Planeswalkers." See rule :ref:`205.3j <mtgcr-205-3j>` for the list of planeswalker types. See also Planeswalker Uniqueness Rule.
+    A subtype that's correlated to the planeswalker card type. See rule :ref:`306 <mtgcr-306>`, "Planeswalkers." See rule :ref:`205.3j <mtgcr-205-3j>` for the list of planeswalker types. See also Planeswalker Uniqueness Rule.
 
 Planeswalker Uniqueness Rule
     A state-based action that causes a player who controls two or more planeswalkers with the same planeswalker type to put all but one of those planeswalkers into their owners' graveyards. See rule :ref:`704.5j <mtgcr-704-5j>`
 
 Play
-    1. To play a land is to put a land onto the battlefield as a special action. See rule 115, "Special Actions," and rule 305, "Lands."
-    2. To play a card is to play that card as a land or cast that card as a spell, whichever is appropriate. See rule 601, "Casting Spells."
+    1. To play a land is to put a land onto the battlefield as a special action. See rule :ref:`115 <mtgcr-115>`, "Special Actions," and rule 305, "Lands."
+    2. To play a card is to play that card as a land or cast that card as a spell, whichever is appropriate. See rule :ref:`601 <mtgcr-601>`, "Casting Spells."
     3. (Obsolete) Casting a spell used to be known as playing a spell. Cards with that text have received errata in the Oracle card reference. See Cast.
     4. (Obsolete) Activating an activated ability used to be known as playing an activated ability. Cards with that text have received errata in the Oracle card reference. See Activate.
     5. (Obsolete) The battlefield used to be known as the in-play zone. Cards that were printed with text that contains the phrases "in play," "from play," "into play," or the like are referring to the battlefield and have received errata in the Oracle card reference. See Battlefield.
 
 Player
-    One of the people in the game. See rule 102, "Players."
+    One of the people in the game. See rule :ref:`102 <mtgcr-102>`, "Players."
 
 Poison Counter
-    A counter that may be given to a player. See rule 121, "Counters," and rule 704.5c.
+    A counter that may be given to a player. See rule :ref:`121 <mtgcr-121>`, "Counters," and rule 704.5c.
 
 Poisoned
-    Having one or more poison counters. See rule 121, "Counters."
+    Having one or more poison counters. See rule :ref:`121 <mtgcr-121>`, "Counters."
 
 Poisonous
     A keyword ability that causes a player to get poison counters. See rule :ref:`702.69 <mtgcr-702-69>`, "Poisonous."
@@ -13421,20 +13411,20 @@ Postcombat Main Phase
     A main phase that occurs after a combat phase. See Main Phase.
 
 Power
-    1. Part of a card that only creatures have. A creature card's power is printed before the slash in its lower right corner. See rule 208, "Power/Toughness."
+    1. Part of a card that only creatures have. A creature card's power is printed before the slash in its lower right corner. See rule :ref:`208 <mtgcr-208>`, "Power/Toughness."
     2. A characteristic that only creatures have. See rule :ref:`302.4 <mtgcr-302-4>`
 
 Precombat Main Phase
     The first main phase of a turn. See Main Phase.
 
 Prevent
-    A word used by prevention effects to indicate what damage will not be dealt. See rule 615, "Prevention Effects."
+    A word used by prevention effects to indicate what damage will not be dealt. See rule :ref:`615 <mtgcr-615>`, "Prevention Effects."
 
 Prevention Effect
-    A kind of continuous effect that watches for a damage event that would happen and completely or partially prevents the damage that would be dealt. See rule 615, "Prevention Effects."
+    A kind of continuous effect that watches for a damage event that would happen and completely or partially prevents the damage that would be dealt. See rule :ref:`615 <mtgcr-615>`, "Prevention Effects."
 
 Priority
-    Which player can take actions at any given time is determined by a system of "priority." See rule 116, "Timing and Priority."
+    Which player can take actions at any given time is determined by a system of "priority." See rule :ref:`116 <mtgcr-116>`, "Timing and Priority."
 
 Proliferate
     To give an additional counter to any number of players and/or permanents that already have a counter. See rule :ref:`701.24 <mtgcr-701-24>`, "Proliferate."
@@ -13488,7 +13478,7 @@ Remove from the Game, Removed, Removed-from-the-Game Zone (Obsolete)
     "Remove [something] from the game" is an obsolete term for "exile [something]." "The removed card" is an obsolete term for "the exiled card." The removed-from-the-game zone is an obsolete term for the exile zone. Cards with that text have received errata in the Oracle card reference. See Exile.
 
 Replacement Effect
-    A kind of continuous effect that watches for a particular event that would happen and completely or partially replaces that event with a different event. See rule 614, "Replacement Effects."
+    A kind of continuous effect that watches for a particular event that would happen and completely or partially replaces that event with a different event. See rule :ref:`614 <mtgcr-614>`, "Replacement Effects."
 
 Replicate
     A keyword ability that creates copies of a spell. See rule :ref:`702.55 <mtgcr-702-55>`, "Replicate."
@@ -13497,10 +13487,10 @@ Requirement
     An effect that forces one or more creatures to attack or block. See rules 508.1d and 509.1c.
 
 Resolve
-    When the spell or ability on top of the stack "resolves," its instructions are followed and it has its effect. See rule 608, "Resolving Spells and Abilities."
+    When the spell or ability on top of the stack "resolves," its instructions are followed and it has its effect. See rule :ref:`608 <mtgcr-608>`, "Resolving Spells and Abilities."
 
 Restart the Game
-    To immediately end the current game and restart it. See rule 104, "Ending the Game."
+    To immediately end the current game and restart it. See rule :ref:`104 <mtgcr-104>`, "Ending the Game."
 
 Respond
     To cast an instant spell or activate an ability while another spell or ability is already on the stack. See rule :ref:`116.7 <mtgcr-116-7>`
@@ -13527,7 +13517,7 @@ Scavenge
     A keyword ability that allows you to exile a creature card from your graveyard to put +1/+1 counters on a creature. See rule :ref:`702.96 <mtgcr-702-96>`, "Scavenge."
 
 Scheme
-    A card type seen only on nontraditional *Magic* cards in the Archenemy casual variant. A scheme card is not a permanent. See rule 312, "Schemes."
+    A card type seen only on nontraditional *Magic* cards in the Archenemy casual variant. A scheme card is not a permanent. See rule :ref:`312 <mtgcr-312>`, "Schemes."
 
 Scry
     To manipulate some of the cards on top of your library. See rule :ref:`701.18 <mtgcr-701-18>`, "Scry."
@@ -13545,13 +13535,13 @@ Shadow
     A keyword ability that restricts how a creature may be blocked and which creatures it can block. See rule :ref:`702.27 <mtgcr-702-27>`, "Shadow."
 
 Shared Life Total
-    In the Two-Headed Giant multiplayer variant, each team has a "shared life total" rather than each player having an individual life total. See rule 810, "Two-Headed Giant Variant."
+    In the Two-Headed Giant multiplayer variant, each team has a "shared life total" rather than each player having an individual life total. See rule :ref:`810 <mtgcr-810>`, "Two-Headed Giant Variant."
 
 Shared Team Turns Option
-    An option that may be used in certain multiplayer variants, such as Two-Headed Giant and Archenemy. See rule 805, "Shared Team Turns Option."
+    An option that may be used in certain multiplayer variants, such as Two-Headed Giant and Archenemy. See rule :ref:`805 <mtgcr-805>`, "Shared Team Turns Option."
 
 Shortcut
-    A mutually understood way for the game to advance forward a number of game choices (either taking an action or passing priority) without players needing to explicitly identify each such choice. See rule 716, "Taking Shortcuts."
+    A mutually understood way for the game to advance forward a number of game choices (either taking an action or passing priority) without players needing to explicitly identify each such choice. See rule :ref:`716 <mtgcr-716>`, "Taking Shortcuts."
 
 Shroud
     A keyword ability that precludes a permanent or player from being targeted. See rule :ref:`702.18 <mtgcr-702-18>`, "Shroud."
@@ -13563,7 +13553,7 @@ Sideboard
     Extra cards that may be used to modify a deck between games of a match. See rules :ref:`100.4 <mtgcr-100-4>`.
 
 Skip
-    Effects that use the word "skip" are replacement effects. The word "skip" indicates what events, steps, phases, or turns will be replaced with nothing. See rule 614, "Replacement Effects."
+    Effects that use the word "skip" are replacement effects. The word "skip" indicates what events, steps, phases, or turns will be replaced with nothing. See rule :ref:`614 <mtgcr-614>`, "Replacement Effects."
 
 Slivercycling
     See Typecycling.
@@ -13578,7 +13568,7 @@ Snow-Covered (Obsolete)
     Some older cards were printed with the term "snow-covered" in their rules text. Except when referencing card names, such cards have received errata in the Oracle card reference to reference the supertype "snow" instead. See Snow.
 
 Sorcery
-    A card type. A sorcery is not a permanent. See rule 307, "Sorceries."
+    A card type. A sorcery is not a permanent. See rule :ref:`307 <mtgcr-307>`, "Sorceries."
 
 Soulbond
     A keyword ability that makes creatures better by pairing them together. See rule :ref:`702.94 <mtgcr-702-94>`, "Soulbond."
@@ -13593,28 +13583,28 @@ Source of Damage
     The object that dealt that damage. See rule :ref:`609.7 <mtgcr-609-7>`
 
 Special Action
-    An action a player may take that doesn't use the stack. See rule 115, "Special Actions."
+    An action a player may take that doesn't use the stack. See rule :ref:`115 <mtgcr-115>`, "Special Actions."
 
 Spell
-    A card on the stack. Also a copy (of either a card or another spell) on the stack. See rule 111, "Spells."
+    A card on the stack. Also a copy (of either a card or another spell) on the stack. See rule :ref:`111 <mtgcr-111>`, "Spells."
 
 Spell Ability
     A kind of ability. Spell abilities are abilities that are followed as instructions while an instant or sorcery spell is resolving. See rule :ref:`112.3a <mtgcr-112-3a>`
 
 Spell Type
-    A subtype that's correlated to the instant card type and the sorcery card type. See rule 304, "Instants," and rule 307, "Sorceries." See rule :ref:`205.3k <mtgcr-205-3k>` for the list of spell types.
+    A subtype that's correlated to the instant card type and the sorcery card type. See rule :ref:`304 <mtgcr-304>`, "Instants," and rule 307, "Sorceries." See rule :ref:`205.3k <mtgcr-205-3k>` for the list of spell types.
 
 Splice
     A keyword ability that lets a player copy a card's text box onto another spell. See rule :ref:`702.46 <mtgcr-702-46>`, "Splice."
 
 Split Cards
-    Cards with two card faces on a single card. See rule 708, "Split Cards."
+    Cards with two card faces on a single card. See rule :ref:`708 <mtgcr-708>`, "Split Cards."
 
 Split Second
     A keyword ability that makes it nearly impossible for a player to respond to a spell. See rule :ref:`702.60 <mtgcr-702-60>`, "Split Second."
 
 Stack
-    A zone. The stack is the zone in which spells, activated abilities, and triggered abilities wait to resolve. See rule 405, "Stack."
+    A zone. The stack is the zone in which spells, activated abilities, and triggered abilities wait to resolve. See rule :ref:`405 <mtgcr-405>`, "Stack."
 
 Starting Hand Size
     The number of cards a player draws as a game begins. In most games, each player's starting hand size is seven. See rule :ref:`103.4 <mtgcr-103-4>`
@@ -13629,13 +13619,13 @@ Starting Team
     The team chosen to take the first turn of a game using the shared team turns option. See rule :ref:`103.2 <mtgcr-103-2>`
 
 State-Based Actions
-    Game actions that happen automatically whenever certain conditions are met. See rule 704, "State-Based Actions."
+    Game actions that happen automatically whenever certain conditions are met. See rule :ref:`704 <mtgcr-704>`, "State-Based Actions."
 
 State Trigger
     A triggered ability that triggers when a game state is true rather than triggering when an event occurs. See rule :ref:`603.8 <mtgcr-603-8>`
 
 Static Ability
-    A kind of ability. Static abilities do something all the time rather than being activated or triggered. See rule 112, "Abilities," and rule 604, "Handling Static Abilities."
+    A kind of ability. Static abilities do something all the time rather than being activated or triggered. See rule :ref:`112 <mtgcr-112>`, "Abilities," and rule 604, "Handling Static Abilities."
 
 Status
     The physical state of a permanent. See rule :ref:`110.6 <mtgcr-110-6>`
@@ -13647,7 +13637,7 @@ Storm
     A keyword ability that creates copies of a spell. See rule :ref:`702.39 <mtgcr-702-39>`, "Storm."
 
 Subgame
-    A completely separate *Magic* game created by an effect. See rule 715, "Subgames."
+    A completely separate *Magic* game created by an effect. See rule :ref:`715 <mtgcr-715>`, "Subgames."
 
 Subtype
     A characteristic that appears after the card type and a long dash on a card's type line. See rule :ref:`205.3 <mtgcr-205-3>`, "Subtypes."
@@ -13662,7 +13652,7 @@ Summoning Sickness Rule
     Informal term for a player's inability to attack with a creature or to activate its abilities that include the tap symbol or the untap symbol unless the creature has been under that player's control since the beginning of that player's most recent turn. See rule :ref:`302.6 <mtgcr-302-6>` See also Haste.
 
 Sun Symbol
-    A symbol found in the upper left corner of the front face of a double-faced card. See rule 711, "Double-Faced Cards."
+    A symbol found in the upper left corner of the front face of a double-faced card. See rule :ref:`711 <mtgcr-711>`, "Double-Faced Cards."
 
 Sunburst
     A keyword ability that can have a permanent enter the battlefield with +1/+1 counters or charge counters on it. See rule :ref:`702.43 <mtgcr-702-43>`, "Sunburst."
@@ -13671,7 +13661,7 @@ Supertype
     A characteristic that appears before the card type on a card's type line. Most cards don't have a supertype. See rule :ref:`205.4 <mtgcr-205-4>`, "Supertypes."
 
 Supervillain Rumble
-    A Free-for-All game in which each player is an archenemy. See rule 806, "Free-for-All," and rule 904, "Archenemy."
+    A Free-for-All game in which each player is an archenemy. See rule :ref:`806 <mtgcr-806>`, "Free-for-All," and rule 904, "Archenemy."
 
 Suspend
     A keyword ability that provides an alternate way to play a card. See rule :ref:`702.61 <mtgcr-702-61>`, "Suspend." A card is "suspended" if it's in the exile zone, has suspend, and has a time counter on it.
@@ -13695,22 +13685,22 @@ Tap Symbol
     The tap symbol |tap| in an activation cost means "Tap this permanent." See rule :ref:`107.5 <mtgcr-107-5>`
 
 Target
-    A preselected object, player, and/or zone a spell or ability will affect. See rule 114, "Targets."
+    A preselected object, player, and/or zone a spell or ability will affect. See rule :ref:`114 <mtgcr-114>`, "Targets."
 
 Team
-    A group of players who share a common victory condition in a multiplayer game. See rule 808, "Team vs. Team Variant," rule 809, "Emperor Variant," rule 810, "Two-Headed Giant Variant," and rule 811, "Alternating Teams Variant."
+    A group of players who share a common victory condition in a multiplayer game. See rule :ref:`808 <mtgcr-808>`, "Team vs. Team Variant," rule 809, "Emperor Variant," rule 810, "Two-Headed Giant Variant," and rule 811, "Alternating Teams Variant."
 
 Teammate
     In a multiplayer game between teams, a player's teammates are the other players on his or her team. See rule :ref:`102.3 <mtgcr-102-3>`
 
 Team vs. Team Variant
-    A multiplayer variant played among two or more teams, each of which sits together. See rule 808, "Team vs. Team Variant."
+    A multiplayer variant played among two or more teams, each of which sits together. See rule :ref:`808 <mtgcr-808>`, "Team vs. Team Variant."
 
 Text Box
-    Part of a card. The text box is printed on the lower half of the card and contains the card's rules text, reminder text, and flavor text. See rule 207, "Text Box."
+    Part of a card. The text box is printed on the lower half of the card and contains the card's rules text, reminder text, and flavor text. See rule :ref:`207 <mtgcr-207>`, "Text Box."
 
 Text-Changing Effect
-    A continuous effect that changes the text that appears in an object's text box and/or type line. See rule 612, "Text-Changing Effects."
+    A continuous effect that changes the text that appears in an object's text box and/or type line. See rule :ref:`612 <mtgcr-612>`, "Text-Changing Effects."
 
 Threshold
     "Threshold" used to be a keyword ability. It is now an ability word and has no rules meaning. All cards printed with the threshold keyword have received errata in the Oracle card reference.
@@ -13734,7 +13724,7 @@ Totem Armor
     A keyword ability that allows an Aura to protect the permanent it's enchanting. See rule :ref:`702.88 <mtgcr-702-88>`, "Totem Armor."
 
 Toughness
-    1. Part of a card that only creatures have. A creature card's toughness is printed after the slash in its lower right corner. See rule 208, "Power/Toughness."
+    1. Part of a card that only creatures have. A creature card's toughness is printed after the slash in its lower right corner. See rule :ref:`208 <mtgcr-208>`, "Power/Toughness."
     2. A characteristic that only creatures have. See rule :ref:`302.4 <mtgcr-302-4>`
 
 Tournament
@@ -13759,38 +13749,38 @@ Transmute
     A keyword ability that lets a player search his or her library for a replacement card. See rule :ref:`702.52 <mtgcr-702-52>`, "Transmute."
 
 Tribal
-    A card type. Whether or not a tribal is a permanent depends on its other card type. See rule 308, "Tribals."
+    A card type. Whether or not a tribal is a permanent depends on its other card type. See rule :ref:`308 <mtgcr-308>`, "Tribals."
 
 Trigger
-    Whenever a game event or game state matches a triggered ability's trigger event, that ability automatically "triggers." That means its controller puts it on the stack the next time a player would receive priority. See rule 603, "Handling Triggered Abilities."
+    Whenever a game event or game state matches a triggered ability's trigger event, that ability automatically "triggers." That means its controller puts it on the stack the next time a player would receive priority. See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities."
 
 Trigger Condition
-    The first part of a triggered ability, consisting of "when," "whenever," or "at" followed by a trigger event. See rule 603, "Handling Triggered Abilities."
+    The first part of a triggered ability, consisting of "when," "whenever," or "at" followed by a trigger event. See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities."
 
 Triggered Ability
-    A kind of ability. Triggered abilities begin with the word "when," "whenever," or "at." They're written as "[Trigger condition], [effect]." See rule 112, "Abilities," and rule 603, "Handling Triggered Abilities."
+    A kind of ability. Triggered abilities begin with the word "when," "whenever," or "at." They're written as "[Trigger condition], [effect]." See rule :ref:`112 <mtgcr-112>`, "Abilities," and rule 603, "Handling Triggered Abilities."
 
 Trigger Event
-    The event that a triggered ability looks for. Whenever the trigger event occurs, the triggered ability triggers. See rule 603, "Handling Triggered Abilities."
+    The event that a triggered ability looks for. Whenever the trigger event occurs, the triggered ability triggers. See rule :ref:`603 <mtgcr-603>`, "Handling Triggered Abilities."
 
 Turn-Based Actions
-    Game actions that happen automatically when certain steps or phases begin, or when each step or phase ends. See rule 703, "Turn-Based Actions."
+    Game actions that happen automatically when certain steps or phases begin, or when each step or phase ends. See rule :ref:`703 <mtgcr-703>`, "Turn-Based Actions."
 
 Turn Markers
     Markers used to keep track of which players are taking turns in a Grand Melee game. See rule :ref:`807.4 <mtgcr-807-4>`
 
 Two-Headed Giant Variant
-    A multiplayer variant played among two-player teams that each have a shared life total and take a simultaneous turn. See rule 810, "Two-Headed Giant Variant."
+    A multiplayer variant played among two-player teams that each have a shared life total and take a simultaneous turn. See rule :ref:`810 <mtgcr-810>`, "Two-Headed Giant Variant."
 
 Type
-    1. An object's card type or, more broadly, its card type, subtype, and/or supertype. See rule 205, "Type Line," and section 3, "Card Types."
-    2. An attribute mana has. See rule 106, "Mana."
+    1. An object's card type or, more broadly, its card type, subtype, and/or supertype. See rule :ref:`205 <mtgcr-205>`, "Type Line," and section 3, "Card Types."
+    2. An attribute mana has. See rule :ref:`106 <mtgcr-106>`, "Mana."
 
 Type Icon
     An icon that appears in the upper left of some *Future Sight* cards that has no effect on game play. See rule :ref:`107.10 <mtgcr-107-10>`
 
 Type Line
-    Part of a card. The type line is printed directly below the illustration and contains the card's card type(s), subtype(s), and/or supertype(s). See rule 205, "Type Line."
+    Part of a card. The type line is printed directly below the illustration and contains the card's card type(s), subtype(s), and/or supertype(s). See rule :ref:`205 <mtgcr-205>`, "Type Line."
 
 Type-Changing Effect
     An effect that changes an object's card type, subtype, and/or supertype. See rules 205.1a-b, 305.7, and 613.1d.
@@ -13805,7 +13795,7 @@ Unblockable (Obsolete)
     A term that meant "can't be blocked." Cards that used this term have received errata in the Oracle card reference.
 
 Unblocked Creature
-    An attacking creature once no creature has been declared as a blocker for it, unless an effect has caused it to become blocked. It remains an unblocked creature until it's removed from combat or the combat phase ends, whichever comes first. See rule 509, "Declare Blockers Step."
+    An attacking creature once no creature has been declared as a blocker for it, unless an effect has caused it to become blocked. It remains an unblocked creature until it's removed from combat or the combat phase ends, whichever comes first. See rule :ref:`509 <mtgcr-509>`, "Declare Blockers Step."
 
 Undying
     A keyword ability that can return a creature from the graveyard to the battlefield. See rule :ref:`702.92 <mtgcr-702-92>`, "Undying."
@@ -13826,7 +13816,7 @@ Untap
     To rotate a permanent back to the upright position from a sideways position. See rule :ref:`701.17 <mtgcr-701-17>`, "Tap and Untap."
 
 Untap Step
-    Part of the turn. This step is the first step of the beginning phase. See rule 502, "Untap Step."
+    Part of the turn. This step is the first step of the beginning phase. See rule :ref:`502 <mtgcr-502>`, "Untap Step."
 
 Untap Symbol
     The untap symbol {Q} in an activation cost means "Untap this permanent." See rule :ref:`107.6 <mtgcr-107-6>`
@@ -13835,11 +13825,11 @@ Untapped
     A default status a permanent may have. See rule :ref:`110.6 <mtgcr-110-6>` and rule 701.17, "Tap and Untap." See also Tapped.
 
 Upkeep Step
-    Part of the turn. This step is the second step of the beginning phase. See rule 503, "Upkeep Step."
+    Part of the turn. This step is the second step of the beginning phase. See rule :ref:`503 <mtgcr-503>`, "Upkeep Step."
 
 Vanguard
-    1. A casual variant in which each player plays the role of a famous character. See rule 902, "Vanguard."
-    2. A card type seen only on nontraditional *Magic* cards in the Vanguard casual variant. A vanguard card is not a permanent. See rule 311, "Vanguards."
+    1. A casual variant in which each player plays the role of a famous character. See rule :ref:`902 <mtgcr-902>`, "Vanguard."
+    2. A card type seen only on nontraditional *Magic* cards in the Vanguard casual variant. A vanguard card is not a permanent. See rule :ref:`311 <mtgcr-311>`, "Vanguards."
 
 Vanishing
     A keyword ability that limits how long a permanent remains on the battlefield. See rule :ref:`702.62 <mtgcr-702-62>`, "Vanishing."
@@ -13854,7 +13844,7 @@ Wall
     A creature type with no particular rules meaning. Older cards with the Wall creature type but without defender had an unwritten ability that precluded them from attacking. Those cards have received errata in the Oracle card reference to have defender. Some older cards that referenced the Wall creature type have also received errata. See Defender.
 
 Win the Game
-    There are several ways to win the game. See rule 104, "Ending the Game," and rules 810.8 (for additional rules for Two-Headed Giant games) and rule 809.5 (for additional rules for Emperor games).
+    There are several ways to win the game. See rule :ref:`104 <mtgcr-104>`, "Ending the Game," and rules 810.8 (for additional rules for Two-Headed Giant games) and rule 809.5 (for additional rules for Emperor games).
 
 Wither
     A keyword ability that affects how an object deals damage to a creature. See rule :ref:`702.79 <mtgcr-702-79>`, "Wither."
