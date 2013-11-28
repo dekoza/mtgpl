@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-28 16:05\n"
-"PO-Revision-Date: 2013-11-28 15:20+0200\n"
+"PO-Revision-Date: 2013-11-28 16:45+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-POOTLE-MTIME: 1385648426.884736\n"
 
 # 784c22b401c34b339ac3e8b2bfeada2a
@@ -199,7 +199,7 @@ msgstr ""
 # fe74cc4a7dca405d9800ba1e7079e564
 #: ../../comprules.rst:107
 msgid "There is no maximum deck size."
-msgstr ""
+msgstr "Nie ma górnego limitu rozmiaru talii."
 
 # 4c12d9ef6f1f4ffc9ebdf3b71c129d8a
 #: ../../comprules.rst:112
@@ -220,6 +220,9 @@ msgstr ""
 #: ../../comprules.rst:119
 msgid "Tournaments usually consist of a series of matches. A two-player match usually involves playing until one player has won two games. A multiplayer match usually consists of only one game."
 msgstr ""
+"Turnieje zwykle składają się z serii meczy. Mecz dwuosobowy zwykle polega na "
+"graniu dopóki któryś z graczy wygra dwie gry. Mecze wielosobowe zwykle "
+"składają się z tylko jednej gry. "
 
 # ecd1f4ab93be400e858a70d4052454ac
 #: ../../comprules.rst:124
@@ -230,11 +233,13 @@ msgstr ""
 #: ../../comprules.rst:125
 msgid "Players can use the *Magic* Store & Event Locator at `Wizards.com/Locator`_ to find tournaments in their area."
 msgstr ""
+"Gracze mogą używać Lokatora Sklepów i Wydarzeń znajdującego się pod adresem "
+"`Wizards.com/Locator`_ do znajdowania turniejów w swojej okolicy."
 
 # c7dce20840794cf7937cbb79078867ac
 #: ../../comprules.rst:130
 msgid "101. The *Magic* Golden Rules"
-msgstr ""
+msgstr "101. Złote zasady *Magica*"
 
 # c3b442aaeea2460496986fa2ea10bae9
 #: ../../comprules.rst:135
@@ -245,6 +250,10 @@ msgstr ""
 #: ../../comprules.rst:136
 msgid "Whenever a card's text directly contradicts these rules, the card takes precedence. The card overrides only the rule that applies to that specific situation. The only exception is that a player can concede the game at any time (see rule :ref:`104.3a <mtgcr-104-3a>`)."
 msgstr ""
+"Ilekroć tekst karty stoi w sprzeczności z niniejszym zasadom, karta ma "
+"pierwszeństwo. Karta nadpisuje tylko tę zasadę, która stosuje się do owej "
+"konkretnej sytuacji. Jedynym wyjątkiem jest to, że gracz może się poddać w "
+"każdym momencie (patrz zasada :ref:`104.3a <mtgcr-104-3a>`)."
 
 # 91596d5c0265404fa5d485e97bd61d23
 #: ../../comprules.rst:141
@@ -255,11 +264,16 @@ msgstr ""
 #: ../../comprules.rst:142
 msgid "When a rule or effect allows or directs something to happen, and another effect states that it can't happen, the \"can't\" effect takes precedence."
 msgstr ""
+"Jeśli zasada lub efekt pozwala lub nakazuje by coś nastąpiło, a inna zasada "
+"twierdzi, że to nie może nastąpić, to zakaz ma pierwszeństwo."
 
 # 9e00650466054d3aa99f1677c2827f4e
 #: ../../comprules.rst:144
 msgid "**Example:** If one effect reads \"You may play an additional land this turn\" and another reads \"You can't play land cards this turn,\" the effect that precludes you from playing lands wins."
 msgstr ""
+"**Przykład:** Jeśli jeden efekt mówi \"Możesz zagrać dodatkowy ląd w tej "
+"turze\", a inny mówi \"Nie możesz zagrywać lądów w tej turze\", to efekt "
+"powstrzymujący cię przed zagrywaniem lądów wygrywa."
 
 # fd1ead8da4664310b6ff6f8b842d4bd0
 #: ../../comprules.rst:149
@@ -270,6 +284,8 @@ msgstr ""
 #: ../../comprules.rst:150
 msgid "Adding abilities to objects and removing abilities from objects don't fall under this rule. (See rule :ref:`112.10 <mtgcr-112-10>`.)"
 msgstr ""
+"Dodawanie zdolności do obiektów oraz usuwanie zdolności z obiektów nie jest "
+"objęte tą zasadą. (Patrz zasada :ref:`112.10 <mtgcr-112-10>`.)"
 
 # 4f3112200d194cf5939cec04f52823a2
 #: ../../comprules.rst:155
@@ -280,6 +296,9 @@ msgstr ""
 #: ../../comprules.rst:156
 msgid "Any part of an instruction that's impossible to perform is ignored. (In many cases the card will specify consequences for this; if it doesn't, there's no effect.)"
 msgstr ""
+"Każda część instrukcji, która jest niemożliwa do wykonania, jest ignorowana. "
+"(W wielu przypadkach karta będzie opisywać konsekwencje tego; jeśli nie, to "
+"efekt nie występuje.)"
 
 # 5e18e02e74634ca99f1e90fdfed99ee5
 #: ../../comprules.rst:161
@@ -339,7 +358,7 @@ msgstr ""
 # c8b703dd1a1143ce8163b03925736fe6
 #: ../../comprules.rst:193
 msgid "102. Players"
-msgstr ""
+msgstr "102. Gracze"
 
 # 5ce61fb655b240e297a9970edb0aa9e1
 #: ../../comprules.rst:198
@@ -350,6 +369,8 @@ msgstr ""
 #: ../../comprules.rst:199
 msgid "A player is one of the people in the game. The active player is the player whose turn it is. The other players are nonactive players."
 msgstr ""
+"Gracz jest jedną z osób w grze. Aktywny gracz to ten, którego tura aktualnie "
+"trwa. Pozostali gracze są nieaktywnymi graczami."
 
 # 12617a67d1484b49926f5da6b5fe93c3
 #: ../../comprules.rst:204
@@ -359,7 +380,7 @@ msgstr ""
 # aac0db724ea44ad7b8078370f6efbf8d
 #: ../../comprules.rst:205
 msgid "In a two-player game, a player's opponent is the other player."
-msgstr ""
+msgstr "W grze dwuosobowej przeciwnikiem gracza jest drugi gracz."
 
 # 46709445d8f34536ad00266425f9e590
 #: ../../comprules.rst:210
@@ -374,7 +395,7 @@ msgstr ""
 # 7ca4465b2982494d8196962b20a110ff
 #: ../../comprules.rst:216
 msgid "103. Starting the Game"
-msgstr ""
+msgstr "103. Rozpoczynanie gry"
 
 # 3adc80df84694a07a38fb23b952b2148
 #: ../../comprules.rst:221
@@ -385,6 +406,9 @@ msgstr ""
 #: ../../comprules.rst:222
 msgid "At the start of a game, each player shuffles his or her deck so that the cards are in a random order. Each player may then shuffle or cut his or her opponents' decks. The players' decks become their libraries."
 msgstr ""
+"Na początku gry, każdy gracz tasuje swoją talię tak, by karty były w losowej "
+"kolejności. Każdy gracz może następnie przetasować lub przełożyć talię "
+"swojego przeciwnika. Talie graczy stają się następnie ich bibliotekami."
 
 # 68fe53295ce04df7b4b5529c37c9a45e
 #: ../../comprules.rst:227
@@ -617,6 +641,8 @@ msgstr ""
 #: ../../comprules.rst:360
 msgid "In a two-player game, the player who plays first skips the draw step (see rule :ref:`504 <mtgcr-504>`, \"Draw Step\") of his or her first turn."
 msgstr ""
+"W grze dwuosobowej rozpoczynający gracz pomija krok dobierania (patrz zasada "
+":ref:`504 <mtgcr-504>`, \"Krok dobierania\") w swojej pierwszej turze."
 
 # d58d8adaf9344c05a967180415e2ae55
 #: ../../comprules.rst:365
@@ -641,7 +667,7 @@ msgstr ""
 # 22a17ba03b4f41f9a0f7393120b1255f
 #: ../../comprules.rst:377
 msgid "104. Ending the Game"
-msgstr ""
+msgstr "104. Kończenie gry"
 
 # 9fce36f75fdb49c09e198e692651cae2
 #: ../../comprules.rst:382
@@ -652,6 +678,8 @@ msgstr ""
 #: ../../comprules.rst:383
 msgid "A game ends immediately when a player wins, when the game is a draw, or when the game is restarted."
 msgstr ""
+"Gra kończy się natychmiast, gdy któryś gracz wygrywa, gdy gra jest remisem "
+"lub gdy gra jest restartowana (zaczynana od nowa)."
 
 # 6e5cde79009f4f1aa8e91e633df4123d
 #: ../../comprules.rst:388
@@ -661,7 +689,7 @@ msgstr ""
 # 3286c8aee79f4ff9bd4ab9e45e8997ac
 #: ../../comprules.rst:389
 msgid "There are several ways to win the game."
-msgstr ""
+msgstr "Istnieje kilka sposobów na wygranie gry."
 
 # 21798a22d85e47b7a60d1edcb2bf5228
 #: ../../comprules.rst:394
