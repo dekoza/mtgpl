@@ -10,13 +10,13 @@ Introduction
 
 This document is designed for people who've moved beyond the basics of the *Magic: The Gathering* (R) game. If you're a beginning *Magic* (TM) player, you'll probably find these rules intimidating. They're intended to be the ultimate authority for the game, and you won't usually need to refer to them except in specific cases or during competitive games.
 
-For casual play and most ordinary situations, you'll find what you need in the *Magic: The Gathering* basic rulebook. You can download a copy of that rulebook from the Wizards of the Coast (R) *Magic* rules website at <Wizards.com/Magic/Rules>. If you're sure this is where you want to be, keep reading.
+For casual play and most ordinary situations, you'll find what you need in the *Magic: The Gathering* basic rulebook. You can download a copy of that rulebook from the Wizards of the Coast (R) *Magic* rules website at `Wizards.com/Magic/Rules`_. If you're sure this is where you want to be, keep reading.
 
 This document includes a series of numbered rules followed by a glossary. Many of the numbered rules are divided into subrules, and each separate rule and subrule of the game has its own number. (Note that subrules skip the letters "l" and "o" due to potential confusion with the numbers "1" and "0"; subrule 704.5k is followed by 704.5m, then 704.5n, then 704.5p, for example.)
 
-We at Wizards of the Coast recognize that no matter how detailed the rules, situations will arise in which the interaction of specific cards requires a precise answer. If you have questions, you can get the answers from us at <Wizards.com/CustomerService>. Additional contact information is on the last page of these rules.
+We at Wizards of the Coast recognize that no matter how detailed the rules, situations will arise in which the interaction of specific cards requires a precise answer. If you have questions, you can get the answers from us at `Wizards.com/CustomerService`_. Additional contact information is on the last page of these rules.
 
-In response to play issues and to keep these rules as current as possible, changes may have been made to this document since its publication. See the Wizards of the Coast *Magic* rules website at <Wizards.com/Magic/Rules> for the current version of the official rules.
+In response to play issues and to keep these rules as current as possible, changes may have been made to this document since its publication. See the Wizards of the Coast *Magic* rules website at `Wizards.com/Magic/Rules`_ for the current version of the official rules.
 
 .. _mtgcr-sec-game-concepts:
 
@@ -110,7 +110,7 @@ There is no maximum deck size.
 
 100.6
 -----
-Most *Magic* tournaments (organized play activities where players compete against other players to win prizes) have additional rules covered in the *Magic: The Gathering* Tournament Rules (found at <Wizards.com/WPN/Events/Rules.aspx>). These rules may limit the use of some cards, including barring all cards from some older sets.
+Most *Magic* tournaments (organized play activities where players compete against other players to win prizes) have additional rules covered in the *Magic: The Gathering* Tournament Rules (found at `Wizards.com/WPN/Events/Rules.aspx`_). These rules may limit the use of some cards, including barring all cards from some older sets.
 
 .. _mtgcr-100-6a:
 
@@ -122,7 +122,7 @@ Tournaments usually consist of a series of matches. A two-player match usually i
 
 100.6b
 ------
-Players can use the *Magic* Store & Event Locator at <Wizards.com/Locator> to find tournaments in their area.
+Players can use the *Magic* Store & Event Locator at `Wizards.com/Locator`_ to find tournaments in their area.
 
 .. _mtgcr-101:
 
@@ -653,21 +653,21 @@ If a player passes priority (see rule :ref:`116 <mtgcr-116>`) while there is man
 106.5
 -----
 If an ability would produce one or more mana of an undefined type, it produces no mana instead.
-Example: Meteor Crater has the ability "|tap|: Choose a color of a permanent you control. Add one mana of that color to your mana pool." If you control no colored permanents, activating Meteor Crater's mana ability produces no mana.
+Example: :mtgtip:`Meteor Crater` has the ability "|tap|: Choose a color of a permanent you control. Add one mana of that color to your mana pool." If you control no colored permanents, activating Meteor Crater's mana ability produces no mana.
 
 .. _mtgcr-106-6:
 
 106.6
 -----
 Some spells or abilities that produce mana restrict how that mana can be spent, or have an additional effect that affects the spell or ability that mana is spent on. This doesn't affect the mana's type.
-Example: A player's mana pool contains |mana_1| |mana_u| which can be spent only to pay cumulative upkeep costs. That player activates Doubling Cube's ability, which reads "|mana_3|, |tap|: Double the amount of each type of mana in your mana pool." The player's mana pool now has |mana_2| |mana_u| |mana_u| in it, |mana_1| |mana_u| of which can be spent on anything.
+Example: A player's mana pool contains |mana_1| |mana_u| which can be spent only to pay cumulative upkeep costs. That player activates :mtgtip:`Doubling Cube`'s ability, which reads "|mana_3|, |tap|: Double the amount of each type of mana in your mana pool." The player's mana pool now has |mana_2| |mana_u| |mana_u| in it, |mana_1| |mana_u| of which can be spent on anything.
 
 .. _mtgcr-106-7:
 
 106.7
 -----
 Some abilities produce mana based on the type of mana another permanent or permanents "could produce." The type of mana a permanent could produce at any time includes any type of mana that an ability of that permanent would produce if the ability were to resolve at that time, taking into account any applicable replacement effects in any possible order. Ignore whether any costs of the ability could or could not be paid. If that permanent wouldn't produce any mana under these conditions, or no type of mana can be defined this way, there's no type of mana it could produce.
-Example: Exotic Orchard has the ability "|tap|: Add to your mana pool one mana of any color that a land an opponent controls could produce." If your opponent controls no lands, activating Exotic Orchard's mana ability will produce no mana. The same is true if you and your opponent each control no lands other than Exotic Orchards. However, if you control a Forest and an Exotic Orchard, and your opponent controls an Exotic Orchard, then each Exotic Orchard could produce |mana_g|.
+Example: :mtgtip:`Exotic Orchard` has the ability "|tap|: Add to your mana pool one mana of any color that a land an opponent controls could produce." If your opponent controls no lands, activating Exotic Orchard's mana ability will produce no mana. The same is true if you and your opponent each control no lands other than Exotic Orchards. However, if you control a Forest and an Exotic Orchard, and your opponent controls an Exotic Orchard, then each Exotic Orchard could produce |mana_g|.
 
 .. _mtgcr-106-8:
 
@@ -716,7 +716,7 @@ You can't choose a fractional number, deal fractional damage, gain fractional li
 ------
 Most of the time, the *Magic* game uses only positive numbers and zero. You can't choose a negative number, deal negative damage, gain negative life, and so on. However, it's possible for a game value, such as a creature's power, to be less than zero. If a calculation or comparison needs to use a negative value, it does so. If a calculation that would determine the result of an effect yields a negative number, zero is used instead, unless that effect sets a player's life total to a specific value, doubles a player's life total, sets a creature's power or toughness to a specific value, or otherwise modifies a creature's power or toughness.
 Example: If a 3/4 creature gets -5/-0, it's a -2/4 creature. It doesn't assign damage in combat. Its total power and toughness is 2. You'd have to give it +3/+0 to raise its power to 1.
-Example: Viridian Joiner is a 1/2 creature with the ability "|tap|: Add to your mana pool an amount of |mana_g| equal to Viridian Joiner's power." An effect gives it -2/-0, then its ability is activated. The ability adds no mana to your mana pool.
+Example: :mtgtip:`Viridian Joiner` is a 1/2 creature with the ability "|tap|: Add to your mana pool an amount of |mana_g| equal to Viridian Joiner's power." An effect gives it -2/-0, then its ability is activated. The ability adds no mana to your mana pool.
 
 .. _mtgcr-107-1c:
 
@@ -927,7 +927,7 @@ A color indicator is a circular symbol that appears to the left of the type line
 
 108.1
 -----
-Use the Oracle (TM) card reference when determining a card's wording. A card's Oracle text can be found using the Gatherer card database at <Gatherer.Wizards.com>.
+Use the Oracle (TM) card reference when determining a card's wording. A card's Oracle text can be found using the Gatherer card database at `Gatherer.Wizards.com`_>.
 
 .. _mtgcr-108-2:
 
@@ -1136,7 +1136,7 @@ A token is both owned and controlled by the player under whose control it entere
 110.5b
 ------
 The spell or ability that creates a token may define the values of any number of characteristics for the token. This becomes the token's "text." The characteristic values defined this way are functionally equivalent to the characteristic values that are printed on a card; for example, they define the token's copiable values. A token doesn't have any characteristics not defined by the spell or ability that created it.
-Example: Jade Mage has the ability "|mana_2| |mana_g|: Put a 1/1 green Saproling creature token onto the battlefield." The resulting token has no mana cost, supertype, rules text, or abilities.
+Example: :mtgtip:`Jade Mage` has the ability "|mana_2| |mana_g|: Put a 1/1 green Saproling creature token onto the battlefield." The resulting token has no mana cost, supertype, rules text, or abilities.
 
 .. _mtgcr-110-5c:
 
@@ -1402,20 +1402,20 @@ An object's activated ability that has a cost that can't be paid while the objec
 112.6j
 ------
 A trigger condition that can't trigger from the battlefield functions in all zones it can trigger from. Other trigger conditions of the same triggered ability may function in different zones.
-Example: Absolver Thrull has the ability "When Absolver Thrull enters the battlefield or the creature it haunts dies, destroy target enchantment." The first trigger condition functions from the battlefield and the second trigger condition functions from the exile zone. (See rule :ref:`702.54 <mtgcr-702-54>`, "Haunt.")
+Example: :mtgtip:`Absolver Thrull` has the ability "When Absolver Thrull enters the battlefield or the creature it haunts dies, destroy target enchantment." The first trigger condition functions from the battlefield and the second trigger condition functions from the exile zone. (See rule :ref:`702.54 <mtgcr-702-54>`, "Haunt.")
 
 .. _mtgcr-112-6k:
 
 112.6k
 ------
 An ability whose cost or effect specifies that it moves the object it's on out of a particular zone functions only in that zone, unless that ability's trigger condition, or a previous part of that ability's cost or effect, specifies that the object is put into that zone.
-Example: Reassembling Skeleton says "|mana_1| |mana_b|: Return Reassembling Skeleton from your graveyard to the battlefield tapped." A player may activate this ability only if Reassembling Skeleton is in his or her graveyard.
+Example: :mtgtip:`Reassembling Skeleton` says "|mana_1| |mana_b|: Return Reassembling Skeleton from your graveyard to the battlefield tapped." A player may activate this ability only if Reassembling Skeleton is in his or her graveyard.
 
 .. _mtgcr-112-6m:
 
 112.6m
 ------
-An ability that modifies the rules for deck construction functions before the game begins. Such an ability modifies not just the Comprehensive Rules, but also the *Magic: The Gathering* Tournament Rules and any other documents that set the deck construction rules for a specific Constructed format. However, such an ability can't affect the format legality of a card, including whether it's banned or restricted. The current *Magic: The Gathering* Tournament Rules can be found at <Wizards.com/WPN/Events/Rules.aspx>.
+An ability that modifies the rules for deck construction functions before the game begins. Such an ability modifies not just the Comprehensive Rules, but also the *Magic: The Gathering* Tournament Rules and any other documents that set the deck construction rules for a specific Constructed format. However, such an ability can't affect the format legality of a card, including whether it's banned or restricted. The current *Magic: The Gathering* Tournament Rules can be found at `Wizards.com/WPN/Events/Rules.aspx`_.
 
 .. _mtgcr-112-6n:
 
@@ -1458,7 +1458,7 @@ Effects can add or remove abilities of objects. An effect that adds an ability w
 112.11
 ------
 An effect that sets an object's characteristic, or simply states a quality of that object, is different from an ability granted by an effect. When an object "gains" or "has" an ability, that ability can be removed by another effect. If an effect defines a characteristic of the object ("[permanent] is [characteristic value]"), it's not granting an ability. (See rule :ref:`604.3 <mtgcr-604-3>`) Similarly, if an effect states a quality of that object ("[creature] can't be blocked," for example), it's neither granting an ability nor setting a characteristic.
-Example: Muraganda Petroglyphs reads, "Creatures with no abilities get +2/+2." A Runeclaw Bear (a creature with no abilities) enchanted by an Aura that says "Enchanted creature has flying" would not get +2/+2. A Runeclaw Bear enchanted by an Aura that says "Enchanted creature is red" or "Enchanted creature can't be blocked" would get +2/+2.
+Example: :mtgtip:`Muraganda Petroglyphs` reads, "Creatures with no abilities get +2/+2." A :mtgtip:`Runeclaw Bear` (a creature with no abilities) enchanted by an Aura that says "Enchanted creature has flying" would not get +2/+2. A Runeclaw Bear enchanted by an Aura that says "Enchanted creature is red" or "Enchanted creature can't be blocked" would get +2/+2.
 
 .. _mtgcr-113:
 
@@ -1596,7 +1596,7 @@ If an effect allows a player to "choose new targets" for a spell or ability, the
 114.6e
 ------
 When changing targets or choosing new targets for a spell or ability, only the final set of targets is evaluated to determine whether the change is legal.
-Example: Arc Trail is a sorcery that reads "Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player." The current targets of Arc Trail are Runeclaw Bear and Llanowar Elves, in that order. You cast Redirect, an instant that reads "You may choose new targets for target spell," targeting Arc Trail. You can change the first target to Llanowar Elves and change the second target to Runeclaw Bear.
+Example: :mtgtip:`Arc Trail` is a sorcery that reads "Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player." The current targets of Arc Trail are :mtgtip:`Runeclaw Bear` and :mtgtip:`Llanowar Elves`, in that order. You cast :mtgtip:`Redirect`, an instant that reads "You may choose new targets for target spell," targeting Arc Trail. You can change the first target to Llanowar Elves and change the second target to Runeclaw Bear.
 
 .. _mtgcr-114-7:
 
@@ -1870,7 +1870,7 @@ Paying life is done by subtracting the indicated amount of life from a player's 
 117.3c
 ------
 Activating mana abilities is not mandatory, even if paying a cost is.
-Example: A player controls Lodestone Golem, which says "Nonartifact spells cost |mana_1| more to cast." Another player removes the last time counter from a suspended sorcery card. That player must cast that spell if able, but doing so costs |mana_1|. The player is forced to spend |mana_1| if enough mana is in his or her mana pool, but the player isn't forced to activate a mana ability to produce that |mana_1|. If he or she doesn't, the card simply remains exiled.
+Example: A player controls :mtgtip:`Lodestone Golem`, which says "Nonartifact spells cost |mana_1| more to cast." Another player removes the last time counter from a suspended sorcery card. That player must cast that spell if able, but doing so costs |mana_1|. The player is forced to spend |mana_1| if enough mana is in his or her mana pool, but the player isn't forced to activate a mana ability to produce that |mana_1|. If he or she doesn't, the card simply remains exiled.
 
 .. _mtgcr-117-4:
 
@@ -2009,15 +2009,15 @@ Each payment of a cost applies to only one spell, ability, or effect. For exampl
 117.11
 ------
 The actions performed when paying a cost may be modified by effects. Even if they are, meaning the actions that are performed don't match the actions that are called for, the cost has still been paid.
-Example: A player controls Psychic Vortex, an enchantment with a cumulative upkeep cost of "Draw a card," and Obstinate Familiar, a creature that says "If you would draw a card, you may skip that draw instead." The player may decide to pay Psychic Vortex's cumulative upkeep cost and then draw no cards instead of drawing the appropriate amount. The cumulative upkeep cost has still been paid.
+Example: A player controls :mtgtip:`Psychic Vortex`, an enchantment with a cumulative upkeep cost of "Draw a card," and :mtgtip:`Obstinate Familiar`, a creature that says "If you would draw a card, you may skip that draw instead." The player may decide to pay Psychic Vortex's cumulative upkeep cost and then draw no cards instead of drawing the appropriate amount. The cumulative upkeep cost has still been paid.
 
 .. _mtgcr-117-12:
 
 117.12
 ------
 Some spells, activated abilities, and triggered abilities read, "[Do something]. If [a player] [does or doesn't], [effect]." or "[A player] may [do something]. If [that player] [does or doesn't], [effect]." The action [do something] is a cost, paid when the spell or ability resolves. The "If [a player] [does or doesn't]" clause checks whether the player chose to pay an optional cost or started to pay a mandatory cost, regardless of what events actually occurred.
-Example: You control Standstill, an enchantment that says "When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards." A spell is cast, causing Standstill's ability to trigger. Then an ability is activated that exiles Standstill. When Standstill's ability resolves, you're unable to pay the "sacrifice Standstill" cost. No player will draw cards.
-Example: Your opponent has cast Gather Specimens, a spell that says "If a creature would enter the battlefield under an opponent's control this turn, it enters the battlefield under your control instead." You control a face-down Dermoplasm, a creature with morph that says "When Dermoplasm is turned face up, you may put a creature card with morph from your hand onto the battlefield face up. If you do, return Dermoplasm to its owner's hand." You turn Dermoplasm face up, and you choose to put a creature card with morph from your hand onto the battlefield. Due to Gather Specimens, it enters the battlefield under your opponent's control instead of yours. However, since you chose to pay the cost, Dermoplasm is still returned to its owner's hand.
+Example: You control :mtgtip:`Standstill`, an enchantment that says "When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards." A spell is cast, causing Standstill's ability to trigger. Then an ability is activated that exiles Standstill. When Standstill's ability resolves, you're unable to pay the "sacrifice Standstill" cost. No player will draw cards.
+Example: Your opponent has cast :mtgtip:`Gather Specimens`, a spell that says "If a creature would enter the battlefield under an opponent's control this turn, it enters the battlefield under your control instead." You control a face-down :mtgtip:`Dermoplasm`, a creature with morph that says "When Dermoplasm is turned face up, you may put a creature card with morph from your hand onto the battlefield face up. If you do, return Dermoplasm to its owner's hand." You turn Dermoplasm face up, and you choose to put a creature card with morph from your hand onto the battlefield. Due to Gather Specimens, it enters the battlefield under your opponent's control instead of yours. However, since you chose to pay the cost, Dermoplasm is still returned to its owner's hand.
 
 .. _mtgcr-117-12a:
 
@@ -2113,7 +2113,7 @@ If an effect says that a player can't lose life, that player can't make an excha
 118.9
 -----
 Some triggered abilities are written, "Whenever [a player] gains life, . . . ." Such abilities are treated as though they are written, "Whenever a source causes [a player] to gain life, . . . ." If a player gains 0 life, no life gain event has occurred, and these abilities won't trigger.
-Example: A player controls Ajani's Pridemate, which reads "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate," and two creatures with lifelink. The creatures with lifelink deal combat damage simultaneously. Ajani's Pridemate's ability triggers twice.
+Example: A player controls :mtgtip:`Ajani's Pridemate`, which reads "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate," and two creatures with lifelink. The creatures with lifelink deal combat damage simultaneously. Ajani's Pridemate's ability triggers twice.
 
 .. _mtgcr-119:
 
@@ -2215,15 +2215,15 @@ Next, damage that's been dealt is processed into its results, as modified by rep
 119.4c
 ------
 Finally, the damage event occurs.
-Example: A player who controls Boon Reflection, an enchantment that says "If you would gain life, you gain twice that much life instead," attacks with a 3/3 creature with wither and lifelink. It's blocked by a 2/2 creature, and the defending player casts a spell that prevents the next 2 damage that would be dealt to the blocking creature. The damage event starts out as [3 damage is dealt to the 2/2 creature, 2 damage is dealt to the 3/3 creature]. The prevention effect is applied, so the damage event becomes [1 damage is dealt to the 2/2 creature, 2 damage is dealt to the 3/3 creature]. That's processed into its results, so the damage event is now [one -1/-1 counter is put on the 2/2 creature, the active player gains 1 life, 2 damage is marked on the 3/3 creature]. Boon Reflection's effect is applied, so the damage event becomes [one -1/-1 counter is put on the 2/2 creature, the active player gains 2 life, 2 damage is marked on the 3/3 creature]. Then the damage event occurs.
-Example: The defending player controls a creature and Worship, an enchantment that says "If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead." That player is at 2 life, and is being attacked by two unblocked 5/5 creatures. The player casts Awe Strike, which says "The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way," targeting one of the attackers. The damage event starts out as [10 damage is dealt to the defending player]. Awe Strike's effect is applied, so the damage event becomes [5 damage is dealt to the defending player, the defending player gains 5 life]. That's processed into its results, so the damage event is now [the defending player loses 5 life, the defending player gains 5 life]. Worship's effect sees that the damage event would not reduce the player's life total to less than 1, so Worship's effect is not applied. Then the damage event occurs.
+Example: A player who controls :mtgtip:`Boon Reflection`, an enchantment that says "If you would gain life, you gain twice that much life instead," attacks with a 3/3 creature with wither and lifelink. It's blocked by a 2/2 creature, and the defending player casts a spell that prevents the next 2 damage that would be dealt to the blocking creature. The damage event starts out as [3 damage is dealt to the 2/2 creature, 2 damage is dealt to the 3/3 creature]. The prevention effect is applied, so the damage event becomes [1 damage is dealt to the 2/2 creature, 2 damage is dealt to the 3/3 creature]. That's processed into its results, so the damage event is now [one -1/-1 counter is put on the 2/2 creature, the active player gains 1 life, 2 damage is marked on the 3/3 creature]. Boon Reflection's effect is applied, so the damage event becomes [one -1/-1 counter is put on the 2/2 creature, the active player gains 2 life, 2 damage is marked on the 3/3 creature]. Then the damage event occurs.
+Example: The defending player controls a creature and :mtgtip:`Worship`, an enchantment that says "If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead." That player is at 2 life, and is being attacked by two unblocked 5/5 creatures. The player casts :mtgtip:`Awe Strike`, which says "The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way," targeting one of the attackers. The damage event starts out as [10 damage is dealt to the defending player]. Awe Strike's effect is applied, so the damage event becomes [5 damage is dealt to the defending player, the defending player gains 5 life]. That's processed into its results, so the damage event is now [the defending player loses 5 life, the defending player gains 5 life]. Worship's effect sees that the damage event would not reduce the player's life total to less than 1, so Worship's effect is not applied. Then the damage event occurs.
 
 .. _mtgcr-119-5:
 
 119.5
 -----
 Damage dealt to a creature or planeswalker doesn't destroy it. Likewise, the source of that damage doesn't destroy it. Rather, state-based actions may destroy a creature or planeswalker, or otherwise put it into its owner's graveyard, due to the results of the damage dealt to that permanent. See rule :ref:`704 <mtgcr-704>`.
-Example: A player casts Lightning Bolt, an instant that says "Lightning Bolt deals 3 damage to target creature or player," targeting a 2/2 creature. After Lightning Bolt deals 3 damage to that creature, the creature is destroyed as a state-based action. Neither Lightning Bolt nor the damage dealt by Lightning Bolt destroyed that creature.
+Example: A player casts :mtgtip:`Lightning Bolt`, an instant that says "Lightning Bolt deals 3 damage to target creature or player," targeting a 2/2 creature. After Lightning Bolt deals 3 damage to that creature, the creature is destroyed as a state-based action. Neither Lightning Bolt nor the damage dealt by Lightning Bolt destroyed that creature.
 
 .. _mtgcr-119-6:
 
@@ -2447,16 +2447,16 @@ Text that refers to the object it's on by name means just that particular object
 201.4a
 ------
 If an ability's effect grants another ability to an object, and that second ability refers to that first ability's source by name, the name refers only to the specific object that is that first ability's source, not to any other object with the same name. This is also true if the second ability is copied onto a new object.
-Example: Gutter Grime has an ability that reads "Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then put a green Ooze creature token onto the battlefield with 'This creature's power and toughness are each equal to the number of slime counters on Gutter Grime.'" The ability granted to the token only looks at the Gutter Grime that created the token, not at any other Gutter Grime on the battlefield. A copy of that token would also have an ability that referred only to the Gutter Grime that created the original token.
+Example: :mtgtip:`Gutter Grime` has an ability that reads "Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then put a green Ooze creature token onto the battlefield with 'This creature's power and toughness are each equal to the number of slime counters on Gutter Grime.'" The ability granted to the token only looks at the Gutter Grime that created the token, not at any other Gutter Grime on the battlefield. A copy of that token would also have an ability that referred only to the Gutter Grime that created the original token.
 
 .. _mtgcr-201-4b:
 
 201.4b
 ------
 If an ability of an object refers to that object by name, and an object with a different name gains that ability, each instance of the first name in the gained ability that refers to the first object by name should be treated as the second name.
-Example: Quicksilver Elemental says, in part, "|mana_u|: Quicksilver Elemental gains all activated abilities of target creature until end of turn." If it gains an ability that says "|mana_g|: Regenerate Cudgel Troll," activating that ability will regenerate Quicksilver Elemental, not the Cudgel Troll it gained the ability from.
-Example: Glacial Ray is an instant with "splice onto Arcane" that says "Glacial Ray deals 2 damage to target creature or player." If it's spliced onto a Kodama's Reach, that Kodama's Reach deals 2 damage to the target creature or player.
-Example: Dimir Doppelganger says "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability." Dimir Doppelganger's ability is activated targeting a Runeclaw Bear card. The Doppelganger becomes a copy of Runeclaw Bear and gains an ability that should be treated as saying "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Runeclaw Bear becomes a copy of that card and gains this ability."
+Example: :mtgtip:`Quicksilver Elemental` says, in part, "|mana_u|: Quicksilver Elemental gains all activated abilities of target creature until end of turn." If it gains an ability that says "|mana_g|: Regenerate Cudgel Troll," activating that ability will regenerate Quicksilver Elemental, not the :mtgtip:`Cudgel Troll` it gained the ability from.
+Example: :mtgtip:`Glacial Ray` is an instant with "splice onto Arcane" that says "Glacial Ray deals 2 damage to target creature or player." If it's spliced onto a :mtgtip:`Kodama's Reach`, that Kodama's Reach deals 2 damage to the target creature or player.
+Example: :mtgtip:`Dimir Doppelganger` says "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability." Dimir Doppelganger's ability is activated targeting a :mtgtip:`Runeclaw Bear` card. The Doppelganger becomes a copy of Runeclaw Bear and gains an ability that should be treated as saying "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Runeclaw Bear becomes a copy of that card and gains this ability."
 
 .. _mtgcr-201-4c:
 
@@ -2678,7 +2678,7 @@ Example: "Basic Land -- Mountain" means the card is a land with the subtype Moun
 205.3c
 ------
 If a card with multiple card types has one or more subtypes, each subtype is correlated to its appropriate card type.
-Example: Dryad Arbor's type line says "Land Creature -- Forest Dryad." Forest is a land type, and Dryad is a creature type.
+Example: :mtgtip:`Dryad Arbor`'s type line says "Land Creature -- Forest Dryad." Forest is a land type, and Dryad is a creature type.
 
 .. _mtgcr-205-3d:
 
@@ -2827,13 +2827,13 @@ Previously, a spell or ability that affected cards from a particular set checked
 
 206.4
 -----
-Players may include cards from any printing in their constructed decks if those cards appear in sets allowed in that format (or those cards are specifically allowed by the *Magic* Tournament Rules). See the *Magic* Tournament Rules for the current definitions of the constructed formats (Wizards.com/WPN/Events/Rules.aspx).
+Players may include cards from any printing in their constructed decks if those cards appear in sets allowed in that format (or those cards are specifically allowed by the *Magic* Tournament Rules). See the *Magic* Tournament Rules for the current definitions of the constructed formats (`Wizards.com/WPN/Events/Rules.aspx`_).
 
 .. _mtgcr-206-5:
 
 206.5
 -----
-The full list of expansions and expansion symbols can be found in the *Magic* Products section of the Wizards of the Coast website (Wizards.com/Magic/TCG/Article.aspx?x=mtg/tcg/products/allproducts).
+The full list of expansions and expansion symbols can be found in the *Magic* Products section of the Wizards of the Coast website (`Wizards.com/Magic/TCG/Article.aspx?x=mtg/tcg/products/allproducts`_).
 
 .. _mtgcr-207:
 
@@ -2904,7 +2904,7 @@ Rather than a fixed number, some creature cards have power and/or toughness that
 208.2a
 ------
 The card may have a characteristic-defining ability that sets its power and/or toughness according to some stated condition. (See rule :ref:`604.3 <mtgcr-604-3>`) Such an ability is worded "[This creature's] [power or toughness] is equal to . . ." or "[This creature's] power and toughness are each equal to . . ." This ability functions everywhere, even outside the game. If the ability needs to use a number that can't be determined, including inside a calculation, use 0 instead of that number.
-Example: Lost Order of Jarkeld has power and toughness each equal to 1+*. It has the abilities "As Lost Order of Jarkeld enters the battlefield, choose an opponent" and "Lost Order of Jarkeld's power and toughness are each equal to 1 plus the number of creatures the chosen player controls." While Lost Order of Jarkeld isn't on the battlefield, there won't be a chosen player. Its power and toughness will each be equal to 1 plus 0, so it's 1/1.
+Example: :mtgtip:`Lost Order of Jarkeld` has power and toughness each equal to 1+*. It has the abilities "As Lost Order of Jarkeld enters the battlefield, choose an opponent" and "Lost Order of Jarkeld's power and toughness are each equal to 1 plus the number of creatures the chosen player controls." While Lost Order of Jarkeld isn't on the battlefield, there won't be a chosen player. Its power and toughness will each be equal to 1 plus 0, so it's 1/1.
 
 .. _mtgcr-208-2b:
 
@@ -4109,7 +4109,7 @@ Previously, the exile zone was called the "removed-from-the-game zone." Cards th
 
 407.1
 -----
-Earlier versions of the *Magic* rules included an ante rule as a way of playing "for keeps." Playing *Magic* games for ante is now considered an optional variation on the game, and it's allowed only where it's not forbidden by law or by other rules. Playing for ante is strictly forbidden under the *Magic: The Gathering* Tournament Rules (Wizards.com/WPN/Events/Rules.aspx).
+Earlier versions of the *Magic* rules included an ante rule as a way of playing "for keeps." Playing *Magic* games for ante is now considered an optional variation on the game, and it's allowed only where it's not forbidden by law or by other rules. Playing for ante is strictly forbidden under the *Magic: The Gathering* Tournament Rules (`Wizards.com/WPN/Events/Rules.aspx`_).
 
 .. _mtgcr-407-2:
 
@@ -4716,7 +4716,7 @@ An attacking creature with one or more creatures declared as blockers for it bec
 509.2
 -----
 Second, for each attacking creature that's become blocked, the active player announces that creature's damage assignment order, which consists of the creatures blocking it in an order of that player's choice. (During the combat damage step, an attacking creature can't assign combat damage to a creature that's blocking it unless each creature ahead of that blocking creature in its order is assigned lethal damage.) This turn-based action doesn't use the stack.
-Example: Vastwood Gorger is blocked by Llanowar Elves, Runeclaw Bear, and Serra Angel. Vastwood Gorger's controller announces the Vastwood Gorger's damage assignment order as Serra Angel, then Llanowar Elves, then Runeclaw Bear.
+Example: :mtgtip:`Vastwood Gorger` is blocked by :mtgtip:`Llanowar Elves`, :mtgtip:`Runeclaw Bear`, and :mtgtip:`Serra Angel`. Vastwood Gorger's controller announces the Vastwood Gorger's damage assignment order as Serra Angel, then Llanowar Elves, then Runeclaw Bear.
 
 .. _mtgcr-509-2a:
 
@@ -4802,7 +4802,7 @@ If a spell or ability causes a creature on the battlefield to block an attacking
 509.7
 -----
 If a creature is put onto the battlefield blocking, its controller chooses which attacking creature it's blocking as it enters the battlefield (unless the effect that put it onto the battlefield specifies what it's blocking), then the active player announces the new creature's placement in the blocked creature's damage assignment order. The relative order among the remaining blocking creatures is unchanged. A creature put onto the battlefield this way is "blocking" but, for the purposes of trigger events and effects, it never "blocked."
-Example: Giant Spider is blocked by Canyon Minotaur. The defending player casts Flash Foliage, which puts a Saproling token onto the battlefield blocking the Giant Spider. Giant Spider's controller announces the Giant Spider's damage assignment order as the Saproling token, then Canyon Minotaur.
+Example: :mtgtip:`Giant Spider` is blocked by :mtgtip:`Canyon Minotaur`. The defending player casts :mtgtip:`Flash Foliage`, which puts a Saproling token onto the battlefield blocking the Giant Spider. Giant Spider's controller announces the Giant Spider's damage assignment order as the Saproling token, then Canyon Minotaur.
 
 .. _mtgcr-510:
 
@@ -4832,10 +4832,10 @@ An unblocked creature assigns its combat damage to the player or planeswalker it
 510.1c
 ------
 A blocked creature assigns its combat damage to the creatures blocking it. If no creatures are currently blocking it (if, for example, they were destroyed or removed from combat), it assigns no combat damage. If exactly one creature is blocking it, it assigns all its combat damage to that creature. If two or more creatures are blocking it, it assigns its combat damage to those creatures according to the damage assignment order announced for it. This may allow the blocked creature to divide its combat damage. However, it can't assign combat damage to a creature that's blocking it unless, when combat damage assignments are complete, each creature that precedes that blocking creature in its order is assigned lethal damage. When checking for assigned lethal damage, take into account damage already marked on the creature and damage from other creatures that's being assigned during the same combat damage step, but not any abilities or effects that might change the amount of damage that's actually dealt. An amount of damage that's greater than a creature's lethal damage may be assigned to it.
-Example: The damage assignment order of an attacking Vastwood Gorger (a 5/6 creature) is Pride Guardian (a 0/3 creature) then Llanowar Elves (a 1/1 creature). Vastwood Gorger can assign 3 damage to the Guardian and 2 damage to the Elves, 4 damage to the Guardian and 1 damage to the Elves, or 5 damage to the Guardian.
-Example: The damage assignment order of an attacking Vastwood Gorger (a 5/6 creature) is Pride Guardian (a 0/3 creature) then Llanowar Elves (a 1/1 creature). During the declare blockers step, the defending player casts Giant Growth targeting Pride Guardian, which gives it +3/+3 until end of turn. Vastwood Gorger must assign its 5 damage to the Guardian.
-Example: The damage assignment order of an attacking Vastwood Gorger (a 5/6 creature) is Pride Guardian (a 0/3 creature) then Llanowar Elves (a 1/1 creature). During the declare blockers step, the defending player casts Mending Hands targeting Pride Guardian, which prevents the next 4 damage that would be dealt to it. Vastwood Gorger can assign 3 damage to the Guardian and 2 damage to the Elves, 4 damage to the Guardian and 1 damage to the Elves, or 5 damage to the Guardian.
-Example: The damage assignment order of an attacking Enormous Baloth (a 7/7 creature) is Trained Armodon (a 3/3 creature) that already has 2 damage marked on it, then Foriysian Brigade (a 2/4 creature that can block an additional creature), then Silverback Ape (a 5/5 creature). The damage assignment order of an attacking Durkwood Boars (a 4/4 creature) is the same Foriysian Brigade, then Goblin Piker (a 2/1 creature). Among other possibilities, the active player may have the Baloth assign 1 damage to the Armodon, 1 damage to the Brigade, and 5 damage to the Ape, and have the Boars assign 3 damage to the Brigade and 1 damage to the Piker.
+Example: The damage assignment order of an attacking :mtgtip:`Vastwood Gorger` (a 5/6 creature) is :mtgtip:`Pride Guardian` (a 0/3 creature) then :mtgtip:`Llanowar Elves` (a 1/1 creature). Vastwood Gorger can assign 3 damage to the Guardian and 2 damage to the Elves, 4 damage to the Guardian and 1 damage to the Elves, or 5 damage to the Guardian.
+Example: The damage assignment order of an attacking :mtgtip:`Vastwood Gorger` (a 5/6 creature) is :mtgtip:`Pride Guardian` (a 0/3 creature) then :mtgtip:`Llanowar Elves` (a 1/1 creature). During the declare blockers step, the defending player casts :mtgtip:`Giant Growth` targeting Pride Guardian, which gives it +3/+3 until end of turn. Vastwood Gorger must assign its 5 damage to the Guardian.
+Example: The damage assignment order of an attacking :mtgtip:`Vastwood Gorger `(a 5/6 creature) is :mtgtip:`Pride Guardian` (a 0/3 creature) then :mtgtip:`Llanowar Elves` (a 1/1 creature). During the declare blockers step, the defending player casts :mtgtip:`Mending Hands` targeting Pride Guardian, which prevents the next 4 damage that would be dealt to it. Vastwood Gorger can assign 3 damage to the Guardian and 2 damage to the Elves, 4 damage to the Guardian and 1 damage to the Elves, or 5 damage to the Guardian.
+Example: The damage assignment order of an attacking :mtgtip:`Enormous Baloth` (a 7/7 creature) is :mtgtip:`Trained Armodon` (a 3/3 creature) that already has 2 damage marked on it, then :mtgtip:`Foriysian Brigade` (a 2/4 creature that can block an additional creature), then :mtgtip:`Silverback Ape` (a 5/5 creature). The damage assignment order of an attacking :mtgtip:`Durkwood Boars` (a 4/4 creature) is the same Foriysian Brigade, then :mtgtip:`Goblin Piker` (a 2/1 creature). Among other possibilities, the active player may have the Baloth assign 1 damage to the Armodon, 1 damage to the Brigade, and 5 damage to the Ape, and have the Boars assign 3 damage to the Brigade and 1 damage to the Piker.
 
 .. _mtgcr-510-1d:
 
@@ -4854,7 +4854,7 @@ Once a player has assigned combat damage from each attacking or blocking creatur
 510.2
 -----
 Second, all combat damage that's been assigned is dealt simultaneously. This turn-based action doesn't use the stack. No player has the chance to cast spells or activate abilities between the time combat damage is assigned and the time it's dealt. This is a change from previous rules.
-Example: Squadron Hawk (a 1/1 creature with flying) and Goblin Piker (a 2/1 creature) are attacking. Mogg Fanatic (a 1/1 creature with the ability "Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player) blocks the Goblin Piker. The defending player sacrifices Mogg Fanatic during the declare blockers step to deal 1 damage to the Squadron Hawk. The Hawk is destroyed. The Piker deals and is dealt no combat damage this turn. If the defending player instead left Mogg Fanatic on the battlefield, the Fanatic and the Piker would have dealt lethal damage to one another, but the Squadron Hawk couldn't have been dealt damage.
+Example: :mtgtip:`Squadron Hawk` (a 1/1 creature with flying) and :mtgtip:`Goblin Piker` (a 2/1 creature) are attacking. :mtgtip:`Mogg Fanatic` (a 1/1 creature with the ability "Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player) blocks the Goblin Piker. The defending player sacrifices Mogg Fanatic during the declare blockers step to deal 1 damage to the Squadron Hawk. The Hawk is destroyed. The Piker deals and is dealt no combat damage this turn. If the defending player instead left Mogg Fanatic on the battlefield, the Fanatic and the Piker would have dealt lethal damage to one another, but the Squadron Hawk couldn't have been dealt damage.
 
 .. _mtgcr-510-3:
 
@@ -11002,7 +11002,7 @@ These rules consist of a series of options that can be added to a multiplayer ga
 
 800.3
 -----
-Many multiplayer *Magic* tournaments have additional rules not included here, including rules for deck construction. See the most current *Magic: The Gathering* Tournament Rules for more information. They can be found at <Wizards.com/WPN/Events/Rules.aspx>.
+Many multiplayer *Magic* tournaments have additional rules not included here, including rules for deck construction. See the most current *Magic: The Gathering* Tournament Rules for more information. They can be found at `Wizards.com/WPN/Events/Rules.aspx`_.
 
 .. _mtgcr-800-4:
 
@@ -11309,7 +11309,7 @@ As the combat phase starts, the attacking player doesn't choose an opponent to b
 802.2a
 ------
 Any rule, object, or effect that refers to a "defending player" refers to one specific defending player, not to all of the defending players. If an ability of an attacking creature refers to a defending player, or a spell or ability refers to both an attacking creature and a defending player, then unless otherwise specified, the defending player it's referring to is the player that creature was attacking at the time it became an attacking creature that combat, or the controller of the planeswalker that creature was attacking at the time it became an attacking creature that combat. If a spell or ability could apply to multiple attacking creatures, the appropriate defending player is individually determined for each of those attacking creatures. If there are multiple defending players that could be chosen, the controller of the spell or ability chooses one.
-Example: Rob attacks Alex with Runeclaw Bear and attacks Carissa with a creature with mountainwalk. Whether the creature with mountainwalk can be blocked depends only on whether Carissa controls a Mountain.
+Example: Rob attacks Alex with :mtgtip:`Runeclaw Bear` and attacks Carissa with a creature with mountainwalk. Whether the creature with mountainwalk can be blocked depends only on whether Carissa controls a Mountain.
 
 .. _mtgcr-802-3:
 
@@ -13531,7 +13531,7 @@ Option
     An additional rule or set of rules that can be used in a multiplayer game. See rule :ref:`800.2 <mtgcr-800-2>`
 
 Oracle
-    The reference that contains the up-to-date wordings (in English) for all tournament-legal cards. A card's Oracle text can be found using the Gatherer card database at <Gatherer.Wizards.com>. See rule :ref:`108.1 <mtgcr-108-1>`
+    The reference that contains the up-to-date wordings (in English) for all tournament-legal cards. A card's Oracle text can be found using the Gatherer card database at `Gatherer.Wizards.com`_. See rule :ref:`108.1 <mtgcr-108-1>`
 
 Outside the Game
     An object is "outside the game" if it isn't in any of the game's zones. See rule :ref:`400.10 <mtgcr-400-10>`
@@ -14154,3 +14154,11 @@ These rules are effective as of November 1, 2013.
 Published by Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Wizards of the Coast, Magic: The Gathering, Magic, Oracle, Arabian Nights, Antiquities, Homelands, Exodus, Odyssey, Mirrodin, Kamigawa, Ravnica, Time Spiral, Future Sight, Lorwyn, Shadowmoor, Zendikar, Scars of Mirrodin, and Return to Ravnica are trademarks of Wizards of the Coast LLC in the USA and other countries. (C) 2013 Wizards. U.S. Pat. No. RE 37,957.
 
 
+.. _Wizards.com/MagicFormats: http://wizards.com/MagicFormats/
+.. _Wizards.com/Locator: http://www.wizards.com/Locator/
+.. _MagicTheGathering.com: http://magicthegathering.com/
+.. _Wizards.com/CustomerService: http://wizards.com/CustomerService/
+.. _Wizards.com/Magic/Rules http://wizards.com/Magic/Rules/
+.. _Wizards.com/WPN/Events/Rules.aspx http://Wizards.com/WPN/Events/Rules.aspx
+.. _Gatherer.Wizards.com http://Gatherer.Wizards.com
+.. _Wizards.com/Magic/TCG/Article.aspx?x=mtg/tcg/products/allproducts http://Wizards.com/Magic/TCG/Article.aspx?x=mtg/tcg/products/allproducts
