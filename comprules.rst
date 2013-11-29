@@ -972,7 +972,7 @@ Some spells and abilities allow a player to take cards he or she owns from outsi
 
 108.4
 -----
-A card doesn't have a controller unless that card represents a permanent or spell; in those cases, its controller is determined by the rules for permanents or spells. See rules 110.2 and 111.2.
+A card doesn't have a controller unless that card represents a permanent or spell; in those cases, its controller is determined by the rules for permanents or spells. See rules :ref:`110.2 <mtgcr-110-2>` and :ref:`111.2 <mtgcr-111-2>`.
 
 .. _mtgcr-108-4a:
 
@@ -1073,7 +1073,7 @@ In an Archenemy game, each scheme card is controlled by its owner. See rule :ref
 
 109.5
 -----
-The words "you" and "your" on an object refer to the object's controller, its would-be controller (if a player is attempting to play, cast, or activate it), or its owner (if it has no controller). For a static ability, this is the current controller of the object it's on. For an activated ability, this is the player who activated the ability. For a triggered ability, this is the controller of the object when the ability triggered, unless it's a delayed triggered ability. To determine the controller of a delayed triggered ability, see rules 603.7d-f.
+The words "you" and "your" on an object refer to the object's controller, its would-be controller (if a player is attempting to play, cast, or activate it), or its owner (if it has no controller). For a static ability, this is the current controller of the object it's on. For an activated ability, this is the player who activated the ability. For a triggered ability, this is the controller of the object when the ability triggered, unless it's a delayed triggered ability. To determine the controller of a delayed triggered ability, see rules :ref:`603.7d <mtgcr-603-7d>`-f.
 
 .. _mtgcr-110:
 
@@ -1202,7 +1202,7 @@ Permanents enter the battlefield untapped, unflipped, face up, and phased in unl
 ------
 A permanent retains its status until a spell, ability, or turn-based action changes it, even if that status is not relevant to it.
 
-**Example:** :mtgtip:`Dimir Doppelganger` says "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability." It becomes a copy of :mtgtip:`Jushi Apprentice`, a flip card. Through use of Jushi Apprentice's ability, this creature flips, making it a copy of :mtgtip:`Tomoya the Revealer` with the Dimir Doppelganger ability. If this permanent then becomes a copy of :mtgtip:`Runeclaw Bear`, it will retain its flipped status even though that has no relevance to Runeclaw Bear. If its copy ability is activated again, this time targeting a :mtgtip:`Nezumi Shortfang` card (another flip card), this permanent's flipped status means it will have the characteristics of :mtgtip:`Stabwhisker the Odious` (the flipped version of Nezumi Shortfang) with the Dimir Doppelganger ability.
+**Example:** :mtgtip:`Dimir Doppelganger` says "|mana_1| |mana_u| |mana_b|: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability." It becomes a copy of :mtgtip:`Jushi Apprentice`, a flip card. Through use of Jushi Apprentice's ability, this creature flips, making it a copy of Tomoya the Revealer with the Dimir Doppelganger ability. If this permanent then becomes a copy of :mtgtip:`Runeclaw Bear`, it will retain its flipped status even though that has no relevance to Runeclaw Bear. If its copy ability is activated again, this time targeting a :mtgtip:`Nezumi Shortfang` card (another flip card), this permanent's flipped status means it will have the characteristics of Stabwhisker the Odious (the flipped version of :mtgtip:`Nezumi Shortfang`) with the Dimir Doppelganger ability.
 
 .. _mtgcr-110-6d:
 
@@ -1442,7 +1442,7 @@ Abilities of emblems, plane cards, vanguard cards, and scheme cards function in 
 
 112.7
 -----
-The source of an ability is the object that generated it. The source of an activated ability on the stack is the object whose ability was activated. The source of a triggered ability (other than a delayed triggered ability) on the stack, or one that has triggered and is waiting to be put on the stack, is the object whose ability triggered. To determine the source of a delayed triggered ability, see rules 603.7d-f.
+The source of an ability is the object that generated it. The source of an activated ability on the stack is the object whose ability was activated. The source of a triggered ability (other than a delayed triggered ability) on the stack, or one that has triggered and is waiting to be put on the stack, is the object whose ability triggered. To determine the source of a delayed triggered ability, see rules :ref:`603.7d <mtgcr-603-7d>`-f.
 
 .. _mtgcr-112-7a:
 
@@ -1454,7 +1454,7 @@ Once activated or triggered, an ability exists on the stack independently of its
 
 112.8
 -----
-The controller of an activated ability on the stack is the player who activated it. The controller of a triggered ability on the stack (other than a delayed triggered ability) is the player who controlled the ability's source when it triggered, or, if it had no controller, the player who owned the ability's source when it triggered. To determine the controller of a delayed triggered ability, see rules 603.7d-f.
+The controller of an activated ability on the stack is the player who activated it. The controller of a triggered ability on the stack (other than a delayed triggered ability) is the player who controlled the ability's source when it triggered, or, if it had no controller, the player who owned the ability's source when it triggered. To determine the controller of a delayed triggered ability, see rules :ref:`603.7d <mtgcr-603-7d>`-f.
 
 .. _mtgcr-112-9:
 
@@ -4018,7 +4018,7 @@ If an effect or rule puts two or more cards into the same graveyard at the same 
 
 405.1
 -----
-When a spell is cast, the physical card is put on the stack (see rule :ref:`601.2a <mtgcr-601-2a>`). When an ability is activated or triggers, it goes on top of the stack without any card associated with it (see rules 602.2a and 603.3).
+When a spell is cast, the physical card is put on the stack (see rule :ref:`601.2a <mtgcr-601-2a>`). When an ability is activated or triggers, it goes on top of the stack without any card associated with it (see rules :ref:`602.2a <mtgcr-602-2a>` and :ref:`603.3 <mtgcr-603-3>`).
 
 .. _mtgcr-405-2:
 
@@ -4036,7 +4036,7 @@ If an effect puts two or more objects on the stack at the same time, those contr
 
 405.4
 -----
-Each spell has all the characteristics of the card associated with it. Each activated or triggered ability that's on the stack has the text of the ability that created it and no other characteristics. The controller of a spell is the person who cast it. The controller of an activated ability is the player who activated it. The controller of a triggered ability is the player who controlled the ability's source when it triggered, unless it's a delayed triggered ability. To determine the controller of a delayed triggered ability, see rules 603.7d-f.
+Each spell has all the characteristics of the card associated with it. Each activated or triggered ability that's on the stack has the text of the ability that created it and no other characteristics. The controller of a spell is the person who cast it. The controller of an activated ability is the player who activated it. The controller of a triggered ability is the player who controlled the ability's source when it triggered, unless it's a delayed triggered ability. To determine the controller of a delayed triggered ability, see rules :ref:`603.7d <mtgcr-603-7d>`-f.
 
 .. _mtgcr-405-5:
 
@@ -5067,7 +5067,7 @@ The player announces that he or she is casting the spell. That card (or that cop
 
 601.2b
 ------
-If the spell is modal the player announces the mode choice (see rule :ref:`700 <mtgcr-700>`.2). If the player wishes to splice any cards onto the spell (see rule :ref:`702 <mtgcr-702>`.46), he or she reveals those cards in his or her hand. If the spell has alternative or additional costs that will be paid as it's being cast such as buyback or kicker costs (see rules 117.8 and 117.9), the player announces his or her intentions to pay any or all of those costs (see rule :ref:`601 <mtgcr-601>`.2e). A player can't apply two alternative methods of casting or two alternative costs to a single spell. If the spell has a variable cost that will be paid as it's being cast (such as an |mana_x| in its mana cost; see rule :ref:`107.3 <mtgcr-107-3>`), the player announces the value of that variable. If a cost that will be paid as the spell is being cast includes hybrid mana symbols, the player announces the nonhybrid equivalent cost he or she intends to pay. If a cost that will be paid as the spell is being cast includes Phyrexian mana symbols, the player announces whether he or she intends to pay 2 life or the corresponding colored mana cost for each of those symbols. Previously made choices (such as choosing to cast a spell with flashback from a graveyard or choosing to cast a creature with morph face down) may restrict the player's options when making these choices.
+If the spell is modal the player announces the mode choice (see rule :ref:`700 <mtgcr-700>`.2). If the player wishes to splice any cards onto the spell (see rule :ref:`702 <mtgcr-702>`.46), he or she reveals those cards in his or her hand. If the spell has alternative or additional costs that will be paid as it's being cast such as buyback or kicker costs (see rules :ref:`117.8 <mtgcr-117-8>` and :ref:`117.9 <mtgcr-117-9>`), the player announces his or her intentions to pay any or all of those costs (see rule :ref:`601 <mtgcr-601>`.2e). A player can't apply two alternative methods of casting or two alternative costs to a single spell. If the spell has a variable cost that will be paid as it's being cast (such as an |mana_x| in its mana cost; see rule :ref:`107.3 <mtgcr-107-3>`), the player announces the value of that variable. If a cost that will be paid as the spell is being cast includes hybrid mana symbols, the player announces the nonhybrid equivalent cost he or she intends to pay. If a cost that will be paid as the spell is being cast includes Phyrexian mana symbols, the player announces whether he or she intends to pay 2 life or the corresponding colored mana cost for each of those symbols. Previously made choices (such as choosing to cast a spell with flashback from a graveyard or choosing to cast a creature with morph face down) may restrict the player's options when making these choices.
 
 .. _mtgcr-601-2c:
 
@@ -5329,7 +5329,7 @@ Once an ability has triggered, its controller puts it on the stack as an object 
 
 603.3a
 ------
-A triggered ability is controlled by the player who controlled its source at the time it triggered, unless it's a delayed triggered ability. To determine the controller of a delayed triggered ability, see rules 603.7d-f.
+A triggered ability is controlled by the player who controlled its source at the time it triggered, unless it's a delayed triggered ability. To determine the controller of a delayed triggered ability, see rules :ref:`603.7d <mtgcr-603-7d>`-f.
 
 .. _mtgcr-603-3b:
 
@@ -5923,7 +5923,7 @@ If an effect could result in a tie, the text of the spell or ability that create
 
 609.6
 -----
-Some continuous effects are replacement effects or prevention effects. See rules 614 and 615.
+Some continuous effects are replacement effects or prevention effects. See rules :ref:`614 <mtgcr-614>` and :ref:`615 <mtgcr-615>`.
 
 .. _mtgcr-609-7:
 
@@ -6281,7 +6281,7 @@ Within a layer or sublayer, determining which order effects are applied in is so
 
 613.7a
 ------
-An effect is said to "depend on" another if (a) it's applied in the same layer (and, if applicable, sublayer) as the other effect (see rules 613.1 and 613.3); (b) applying the other would change the text or the existence of the first effect, what it applies to, or what it does to any of the things it applies to; and (c) neither effect is from a characteristic-defining ability or both effects are from characteristic-defining abilities. Otherwise, the effect is considered to be independent of the other effect.
+An effect is said to "depend on" another if (a) it's applied in the same layer (and, if applicable, sublayer) as the other effect (see rules :ref:`613.1 <mtgcr-613-1>` and :ref:`613.3 <mtgcr-613-3>`); (b) applying the other would change the text or the existence of the first effect, what it applies to, or what it does to any of the things it applies to; and (c) neither effect is from a characteristic-defining ability or both effects are from characteristic-defining abilities. Otherwise, the effect is considered to be independent of the other effect.
 
 .. _mtgcr-613-7b:
 
@@ -6456,7 +6456,7 @@ If an effect would have a player both draw a card and perform an additional acti
 
 614.12
 ------
-Some replacement effects modify how a permanent enters the battlefield. (See rules 614.1c-d.) Such effects may come from the permanent itself if they affect only that permanent (as opposed to a general subset of permanents that includes it). They may also come from other sources. To determine which replacement effects apply and how they apply, check the characteristics of the permanent as it would exist on the battlefield, taking into account replacement effects that have already modified how it enters the battlefield (see rule :ref:`616 <mtgcr-616>`.1), continuous effects generated by the resolution of spells or abilities that changed the permanent's characteristics on the stack (see rule :ref:`400.7a <mtgcr-400-7a>`), and continuous effects from the permanent's own static abilities, but ignoring continuous effects from any other source that would affect it.
+Some replacement effects modify how a permanent enters the battlefield. (See rules :ref:`614.1c <mtgcr-614-1c>`-d.) Such effects may come from the permanent itself if they affect only that permanent (as opposed to a general subset of permanents that includes it). They may also come from other sources. To determine which replacement effects apply and how they apply, check the characteristics of the permanent as it would exist on the battlefield, taking into account replacement effects that have already modified how it enters the battlefield (see rule :ref:`616 <mtgcr-616>`.1), continuous effects generated by the resolution of spells or abilities that changed the permanent's characteristics on the stack (see rule :ref:`400.7a <mtgcr-400-7a>`), and continuous effects from the permanent's own static abilities, but ignoring continuous effects from any other source that would affect it.
 
 **Example:** :mtgtip:`Voice of All` says "As Voice of All enters the battlefield, choose a color" and "Voice of All has protection from the chosen color." An effect creates a token that's a copy of Voice of All. As that token is put onto the battlefield, its controller chooses a color for it.
 
@@ -7456,7 +7456,7 @@ Deathtouch is a static ability.
 
 702.2b
 ------
-Any nonzero amount of combat damage assigned to a creature by a source with deathtouch is considered to be lethal damage, regardless of that creature's toughness. See rules 510.1c-d.
+Any nonzero amount of combat damage assigned to a creature by a source with deathtouch is considered to be lethal damage, regardless of that creature's toughness. See rules :ref:`510.1c <mtgcr-510-1c>`-d.
 
 .. _mtgcr-702-2c:
 
@@ -8230,7 +8230,7 @@ If an object would simultaneously phase out directly and indirectly, it just pha
 
 702.25h
 -------
-An Aura, Equipment, or Fortification that phased out directly will phase in attached to the object or player it was attached to when it phased out, if that object is still in the same zone or that player is still in the game. If not, that Aura, Equipment, or Fortification phases in unattached. State-based actions apply as appropriate. (See rules 704.5n and 704.5p.)
+An Aura, Equipment, or Fortification that phased out directly will phase in attached to the object or player it was attached to when it phased out, if that object is still in the same zone or that player is still in the game. If not, that Aura, Equipment, or Fortification phases in unattached. State-based actions apply as appropriate. (See rules :ref:`704.5n <mtgcr-704-5n>` and :ref:`704.5p <mtgcr-704-5p>`.)
 
 .. _mtgcr-702-25i:
 
@@ -11120,7 +11120,7 @@ Sometimes a loop can be fragmented, meaning that each player involved in the loo
 
 716.4
 -----
-If a loop contains only mandatory actions, the game is a draw. (See rules 104.4b and 104.4f.)
+If a loop contains only mandatory actions, the game is a draw. (See rules :ref:`104.4b <mtgcr-104-4b>` and :ref:`104.4f <mtgcr-104-4f>`.)
 
 .. _mtgcr-716-5:
 
