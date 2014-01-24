@@ -25,15 +25,16 @@ Tłumaczenie dodatków
 * :doc:`Dragons' Maze<DGM>` (100%)
 * :doc:`Magic 2014 Core Set<M14>` (100%)
 * :doc:`Theros<THS>` (100%)
+* :doc:`Born of the Gods<BNG>` (0%)
 * *Commander 2013* (w przygotowaniu)
 
 
 Specjalne karty
 ---------------
 
-* :doc:`Bohaterowie<THS_heroes>` (100%)
+* :doc:`Bohaterowie<THS_heroes>` (50%) - uwzględnia karty z Born of the Gods
 * :doc:`Staw czoła Hydrze<THS_hydra>` (100%)
-
+* :doc:`Walka z Hordą<BNG_horde>` (100%)
 
 Warto przeczytać
 ================
@@ -71,6 +72,7 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
    THS
    THS_heroes
    THS_hydra
+   BNG_horde
    game_variants
    polish_cards
    symbols

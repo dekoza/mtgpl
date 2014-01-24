@@ -3,6 +3,8 @@
  Spis zmian
 ************
 
+2014-01-24
+    Dodano talię wyzwania :doc:`Walka z Hordą<BNG_horde>`.
 
 2013-11-26
     Dodano surową wersję pełnej instrukcji do gry (:doc:`Comprehensive Rules <comprules>`) (bez tłumaczenia)
