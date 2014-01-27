@@ -3,6 +3,9 @@
  Spis zmian
 ************
 
+2014-01-27
+    Zmiana kolejności wyświetlania dodatków. Dodanie podziału na Standard/Modern/Pozostałe/Specjalne.
+
 2014-01-24
     Dodano talię wyzwania :doc:`Walka z Hordą<BNG_horde>`.
 

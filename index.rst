@@ -20,21 +20,32 @@ Instrukcje
 Tłumaczenie dodatków
 ====================
 
-* :doc:`Return to Ravnica<RTR>` (100%)
-* :doc:`Gatecrash<GTC>` (100%)
-* :doc:`Dragons' Maze<DGM>` (100%)
-* :doc:`Magic 2014 Core Set<M14>` (100%)
-* :doc:`Theros<THS>` (100%)
-* :doc:`Born of the Gods<BNG>` (0%)
-* *Commander 2013* (w przygotowaniu)
+Standard
+--------
 
+* :doc:`Born of the Gods<BNG>` (0%)
+* :doc:`Theros<THS>` (100%)
+* :doc:`Magic 2014 Core Set<M14>` (100%)
+* :doc:`Dragons' Maze<DGM>` (100%)
+* :doc:`Gatecrash<GTC>` (100%)
+* :doc:`Return to Ravnica<RTR>` (100%)
+
+Modern
+------
+
+* wkrótce
+
+Pozostałe
+---------
+
+* :doc:`Commander 2013<C13>` (0%)
 
 Specjalne karty
 ---------------
 
-* :doc:`Bohaterowie<THS_heroes>` (50%) - uwzględnia karty z Born of the Gods
-* :doc:`Staw czoła Hydrze<THS_hydra>` (100%)
+* :doc:`Bohaterowie<THS_heroes>` (100%) - uwzględnia karty z Born of the Gods
 * :doc:`Walka z Hordą<BNG_horde>` (100%)
+* :doc:`Staw czoła Hydrze<THS_hydra>` (100%)
 
 Warto przeczytać
 ================
