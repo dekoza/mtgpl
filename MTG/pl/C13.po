@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-27 09:25+0100\n"
-"PO-Revision-Date: 2014-01-27 08:34+0200\n"
+"PO-Revision-Date: 2014-01-27 09:46+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-POOTLE-MTIME: 1390808064.245762\n"
 
 # dd0d92f2f9ef4152b3b14e70292202a7
@@ -184,6 +184,7 @@ msgstr ""
 #: ../../C13.rst:48
 msgid "Destroy target nonblack creature. It can't be regenerated."
 msgstr ""
+"Zniszcz wskazanego nieczarnego stwora. Nie może on zostać zregenerowany."
 
 # 0af364fbb66d45118241e37ff30eb6df
 # 7d310c6bfd3a4079b0c227520b9cb93e
@@ -192,7 +193,7 @@ msgstr ""
 #: ../../C13.rst:404
 #: ../../C13.rst:1472
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 # 5d069d1092ec467b90834691ec3f1ce5
 #: ../../C13.rst:57
@@ -403,12 +404,12 @@ msgstr ""
 # 30da6bd97c794b1db2e0b944498444b6
 #: ../../C13.rst:134
 msgid "Flying, deathtouch"
-msgstr ""
+msgstr "Latanie, dotyk śmierci"
 
 # eb69607d046b4fbd9ed0f54424ab87f1
 #: ../../C13.rst:136
 msgid "When Baleful Strix enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy Baleful Strix wchodzi na pole walki, dobierz kartę."
 
 # dd8f687681b846e8a3da3985e4fe2fcf
 #: ../../C13.rst:141
@@ -527,14 +528,14 @@ msgstr ""
 # 3791fe90945e4dcdaa67a3ebfeaf4c33
 #: ../../C13.rst:170
 msgid "Equipped creature gets +2/+2 and has lifelink and trample."
-msgstr ""
+msgstr "Ekwipowany stwór dostaje +2/+2 oraz ma więź życia oraz tratowanie."
 
 # 405bd70f7fb2444db0ffc0e34c1e6ff8
 # f1e76643096d4ec0910c851ea361fa1a
 #: ../../C13.rst:172
 #: ../../C13.rst:1650
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Ekwipuj |mana_3|"
 
 # b136b8db54c046c4a87fe3b7542afe17
 #: ../../C13.rst:177
@@ -549,12 +550,14 @@ msgstr ""
 # 9dab0355f6244ec0b90fb5c68a891812
 #: ../../C13.rst:181
 msgid "Blue Sun's Zenith"
-msgstr ""
+msgstr "Blue Sun's Zenith (Zenit Niebieskiego Słońca)"
 
 # 3e2209d261754dadb550fd0a3ffcff02
 #: ../../C13.rst:180
 msgid "Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's library."
 msgstr ""
+"Wskazany gracz dobiera X kart. Wtasuj Zenit Niebieskiego Słońca do "
+"biblioteki jego właściciela."
 
 # f627ac01176e4f24b20f5ed22947ef79
 #: ../../C13.rst:189
@@ -564,7 +567,7 @@ msgstr ""
 # c8d0d61471f440809813fc1df3728890
 #: ../../C13.rst:184
 msgid "Bojuka Bog enters the battlefield tapped."
-msgstr ""
+msgstr "Bojuka Bog wchodzi na pole walki zaznaczony."
 
 # 19444b90e96f48deb3c6db4b7b7071d1
 #: ../../C13.rst:186
@@ -609,12 +612,12 @@ msgstr ""
 # b99cb41aba1440609c1feeeefd8303b1
 #: ../../C13.rst:204
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Boros Guildgate wchodzi na pole walki zaznaczony."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:206
 msgid "|tap|: Add |mana_r| or |mana_w| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
 # adb9f0c69c894b05adfcb1303a08b806
 #: ../../C13.rst:211
@@ -636,7 +639,7 @@ msgstr ""
 #: ../../C13.rst:214
 #: ../../C13.rst:702
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 # 8a9dd32dafc74a62af1af97d4e398ec8
 #: ../../C13.rst:219
@@ -697,7 +700,7 @@ msgstr ""
 #: ../../C13.rst:1140
 #: ../../C13.rst:1254
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 # 7556ff7b477b407f975d9f6f40a4ad86
 #: ../../C13.rst:238
@@ -748,12 +751,12 @@ msgstr ""
 #: ../../C13.rst:566
 #: ../../C13.rst:1186
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 # ee27c15e36b34f0cbc523a07dc1fcce3
 #: ../../C13.rst:258
 msgid "You control enchanted creature."
-msgstr ""
+msgstr "Władasz zauroczonym stworem."
 
 # 3a4e8c2f6b2444309a8c2d8c167210af
 #: ../../C13.rst:263
@@ -788,7 +791,7 @@ msgstr ""
 # d388a0a3478f4a1e97b471cedaf91f23
 #: ../../C13.rst:272
 msgid "No more than two creatures can attack you each combat."
-msgstr ""
+msgstr "Nie więcej niż dwa stwory mogą cię atakować w każdej walce."
 
 # 51d4321d89c14c03819ebb37d603c5a5
 #: ../../C13.rst:277
@@ -853,7 +856,7 @@ msgstr ""
 #: ../../C13.rst:312
 #: ../../C13.rst:318
 msgid "Enchant player"
-msgstr ""
+msgstr "Zaurocz gracza"
 
 # 0c1d1d0c980344abb51a3bd0bbf7f61a
 #: ../../C13.rst:296
@@ -908,7 +911,7 @@ msgstr ""
 # aba9a7f02b744760b010a42069387474
 #: ../../C13.rst:324
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 # 3502f8bef5264dc2914e23a0732fc0e4
 # 4fcf17f0b062433495e49bf9a382dbbf
@@ -917,7 +920,7 @@ msgstr ""
 #: ../../C13.rst:1312
 #: ../../C13.rst:1766
 msgid "|tap|: Add one mana of any color to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj jedną manę dowolnego koloru do swojej puli many."
 
 # 85b70e3c52e64f52815c7eb147023695
 #: ../../C13.rst:333
@@ -984,6 +987,7 @@ msgstr ""
 #: ../../C13.rst:1918
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
+"Błysk (Możesz rzucić ten czar w każdej chwili, gdy możesz rzucić sztuczkę.)"
 
 # a0c4b6df8ea74f37b8f09141c164028e
 #: ../../C13.rst:354
@@ -1105,7 +1109,7 @@ msgstr ""
 # cbaed5bb64354a5ca16ed7981aa9a0f2
 #: ../../C13.rst:402
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 # 09674fd54b274ff69f02f14dbeef97c3
 #: ../../C13.rst:409
@@ -1125,7 +1129,7 @@ msgstr ""
 # 29f2cba5154b4d999620b2c58aa14106
 #: ../../C13.rst:412
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 # f0e87d17c3de449c85c692e645730299
 #: ../../C13.rst:414
@@ -1362,12 +1366,12 @@ msgstr ""
 # c6cbe2eedad24188957d7d97cdebaf7d
 #: ../../C13.rst:515
 msgid "Famine"
-msgstr ""
+msgstr "Famine (Klęska Głodu)"
 
 # 21e2b9ddc9a74de99faf47af8a203c7b
 #: ../../C13.rst:514
 msgid "Famine deals 3 damage to each creature and each player."
-msgstr ""
+msgstr "Klęska Głodu zadaje 3 obrażenia każdemu stworowi i każdemu graczowi."
 
 # 8dcdc73a48b144d1a5396769f3e71d98
 #: ../../C13.rst:519
@@ -1526,22 +1530,22 @@ msgstr ""
 # 1c9d3996a4d946b5beefaeb9d4b7b70a
 #: ../../C13.rst:585
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
 
 # 587f74b248f2410b9b28796242daef8f
 #: ../../C13.rst:584
 msgid "G"
-msgstr ""
+msgstr "|mana_g|"
 
 # 45e6be73e2bb46c1aec8135bf464b52f
 #: ../../C13.rst:593
 msgid "Forgotten Cave"
-msgstr ""
+msgstr "Forgotten Cave (Zapomniana Jaskinia)"
 
 # e8323cc68807405eabd65f2a773173ad
 #: ../../C13.rst:588
 msgid "Forgotten Cave enters the battlefield tapped."
-msgstr ""
+msgstr "Zapomniana Jaskinia wchodzi na pole walki zaznaczona."
 
 # f4933fd125cb4efb84992eef195edf83
 # 42556cc8b9274d649fad2b38a5cd39db
@@ -2429,7 +2433,7 @@ msgstr ""
 # 1c071d74405a4809b3545cacd133c481
 #: ../../C13.rst:964
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 # 2b2540e380da41d8b2c40f62bbaef056
 #: ../../C13.rst:966
@@ -3000,7 +3004,7 @@ msgstr ""
 #: ../../C13.rst:1212
 #: ../../C13.rst:1450
 msgid "Each player draws X cards."
-msgstr ""
+msgstr "Każdy gracz dobiera X kart."
 
 # cbf50ec68178403d8c771a29e35888b2
 #: ../../C13.rst:1221
@@ -3030,7 +3034,7 @@ msgstr ""
 # c5988b0069bb409a93ef5e2769ca7d45
 #: ../../C13.rst:1233
 msgid "Rain of Thorns"
-msgstr ""
+msgstr "Rain of Thorns (Deszcz Cierni)"
 
 # 544aac6148be4abaa2d987b4b1b8ce6c
 #: ../../C13.rst:1228
