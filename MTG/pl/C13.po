@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-27 09:25+0100\n"
-"PO-Revision-Date: 2014-01-27 09:46+0200\n"
+"PO-Revision-Date: 2014-01-27 09:13+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
-"X-POOTLE-MTIME: 1390808064.245762\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1390810433.902045\n"
 
 # dd0d92f2f9ef4152b3b14e70292202a7
 #: ../../C13.rst:5
@@ -208,7 +208,7 @@ msgstr ""
 # 58dae172f89641b189d4e6d6a102150e
 #: ../../C13.rst:56
 msgid "You draw a card at the beginning of the next turn's upkeep."
-msgstr ""
+msgstr "Dobierasz kartę na początku utrzymania następnej tury."
 
 # 0bc3f4db443947638d1b60d3194bea8c
 #: ../../C13.rst:61
@@ -218,7 +218,7 @@ msgstr ""
 # 8934a9eb809e44c2bca4b1f5a629d370
 #: ../../C13.rst:60
 msgid "Instant and sorcery spells cost |mana_2| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów sztuczek i obrzędów kosztuje o |mana_2| mniej."
 
 # c7f45dba5e1a4bb28bb84e67f3e5e9b2
 #: ../../C13.rst:67
@@ -245,7 +245,7 @@ msgstr ""
 # e6e98ae0ea894a80b9c8b94c50427dc7
 #: ../../C13.rst:70
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 # 7c9e3757b13b4eed884eca34eaae7205
 #: ../../C13.rst:75
@@ -260,17 +260,21 @@ msgstr ""
 # fdee919c27064505a86363b70e4f2f7b
 #: ../../C13.rst:81
 msgid "Army of the Damned"
-msgstr ""
+msgstr "Army of the Damned (Armia Potępionych)"
 
 # 7f01fea1299b499babee2fb8f84694f5
 #: ../../C13.rst:78
 msgid "Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped."
 msgstr ""
+"Połóż na polu walki trzynaście zaznaczonych żetonów czarnego stwora Zombi "
+"2/2."
 
 # 4dc371cb4d4a420db836abecf46c4361
 #: ../../C13.rst:80
 msgid "Flashback |mana_7| |mana_b| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b|  (Możesz rzucić tę kartę z "
+"cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 136d7c504adc403bb628c24969fcb592
 #: ../../C13.rst:85
@@ -306,6 +310,8 @@ msgstr ""
 #: ../../C13.rst:94
 msgid "Landfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control."
 msgstr ""
+"Lądowanie — Ilekroć ląd wchodzi na pole walki pod twoje władanie, możesz "
+"położyć znacznik +1/+1 na każdej Roślinie, którą władasz."
 
 # 594742af261b49c2a2bce489ecea4133
 #: ../../C13.rst:99
@@ -315,7 +321,7 @@ msgstr ""
 # 11f5655c47d14ce29577d1c253b85201
 #: ../../C13.rst:98
 msgid "Tap an untapped Wizard you control: Draw a card."
-msgstr ""
+msgstr "Zaznacz niezaznaczonego Maga, którym władasz: Dobierz kartę."
 
 # af67fe23cc9f432ab5ba4102a479c3a2
 #: ../../C13.rst:107
@@ -420,6 +426,8 @@ msgstr ""
 #: ../../C13.rst:140
 msgid "Landfall — Whenever a land enters the battlefield under your control, Baloth Woodcrasher gets +4/+4 and gains trample until end of turn."
 msgstr ""
+"Lądowanie — Ilekroć ląd wchodzi na pole walki pod twoim władaniem, Baloth "
+"Woodcrasher dostaje +4/+4 oraz tratowanie do końca tury."
 
 # b5513ea2c9ab465696e700616eaabf44
 #: ../../C13.rst:145
@@ -1690,6 +1698,8 @@ msgstr ""
 #: ../../C13.rst:644
 msgid "Landfall — Whenever a land enters the battlefield under your control, you may gain 2 life."
 msgstr ""
+"Lądowanie — Ilekroć ląd wchodzi na pole walki pod twoim władaniem, możesz "
+"zyskać 2 życia."
 
 # 5d71345ce7934df8b0ad61335c3d31a2
 #: ../../C13.rst:649
@@ -3100,6 +3110,8 @@ msgstr ""
 #: ../../C13.rst:1256
 msgid "Landfall — Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield."
 msgstr ""
+"Lądowanie — Ilekroć ląd wchodzi na pole walki pod twoim władaniem, możesz "
+"położyć na polu walki żeton zielonego stwora Bestia 4/4."
 
 # 3a2886ae8a714f4bb30d2b34850b52b1
 #: ../../C13.rst:1265
@@ -3325,6 +3337,8 @@ msgstr ""
 #: ../../C13.rst:1360
 msgid "Landfall — Whenever a land enters the battlefield under your control, you may pay |mana_2|. If you do, draw a card."
 msgstr ""
+"Lądowanie — Ilekroć ląd wchodzi na pole walki pod twoim władaniem, możesz "
+"zapłacić |mana_2|. Jeśli tak zrobisz, dobierz kartę."
 
 # d6220f3e888d4e1ba2d61c30d802c3bb
 #: ../../C13.rst:1369
