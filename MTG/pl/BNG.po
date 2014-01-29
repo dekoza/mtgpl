@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-29 11:21+0100\n"
-"PO-Revision-Date: 2014-01-29 11:25+0200\n"
+"PO-Revision-Date: 2014-01-29 13:00+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -16,12 +16,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1390996830.602165\n"
 
 # 5aa88d8ba2cd46a19fbee225ea34c30e
 #: ../../BNG.rst:5
 msgid "Born of the Gods"
-msgstr ""
+msgstr "Born of the Gods (Zrodzeni z Bogów)"
 
 # e2fc06792b824f018890328f57882d92
 #: ../../BNG.rst:9
@@ -52,11 +53,14 @@ msgstr ""
 #: ../../BNG.rst:16
 msgid "Heroic — Whenever you cast a spell that targets Akroan Conscriptor, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący na Akroan Conscriptor, przejmuj "
+"władanie nad innym wskazanym stworem do końca tury. Odznacz owego stwora. "
+"Zyskuje on pośpiech do końca tury."
 
 # 313d2b345aa94f19bc4a2e91681b4b22
 #: ../../BNG.rst:23
 msgid "Akroan Phalanx"
-msgstr ""
+msgstr "Akroan Phalanx (Akroańska Falanga)"
 
 # 9043f3793e3d49b19f6acd4a8a516319
 # 571830e907fe49f0b92be4c28625e933
@@ -65,7 +69,7 @@ msgstr ""
 #: ../../BNG.rst:100
 #: ../../BNG.rst:876
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 # 3603f64b8f7f4024826b9f2352310d49
 #: ../../BNG.rst:22
@@ -108,12 +112,14 @@ msgstr ""
 #: ../../BNG.rst:750
 #: ../../BNG.rst:772
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 # f91aec93273c4e19a13439057d647cbd
 #: ../../BNG.rst:28
 msgid "Heroic — Whenever you cast a spell that targets Akroan Skyguard, put a +1/+1 counter on Akroan Skyguard."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący na Akroan Skyguard, połóż znacznik "
+"+1/+1 na Akroan Skyguard."
 
 # 44e60f6e8f7b4aabbb8e4960b23e8fd0
 #: ../../BNG.rst:35
@@ -128,87 +134,99 @@ msgstr ""
 # 3c9663f563754744ae7e8ec02945b311
 #: ../../BNG.rst:41
 msgid "Archetype of Aggression"
-msgstr ""
+msgstr "Archetype of Aggression (Archetyp Agresji)"
 
 # feee9fbf4a1447d2847fb6e004a29a99
 #: ../../BNG.rst:38
 msgid "Creatures you control have trample."
-msgstr ""
+msgstr "Stwory, którymi władasz mają tratowanie."
 
 # 51d12f8c88384306992a3cbc06d0d5d6
 #: ../../BNG.rst:40
 msgid "Creatures your opponents control lose trample and can't have or gain trample."
 msgstr ""
+"Stwory władane przez twoich przeciwników tracą tratowanie i nie mogą mieć "
+"ani zyskać tratowania."
 
 # ec7cb7fc2cea451a97a27676b63ea2e3
 #: ../../BNG.rst:47
 msgid "Archetype of Courage"
-msgstr ""
+msgstr "Archetype of Courage (Archetyp Odwagi)"
 
 # 670149e257da4eabb900001b72794d95
 #: ../../BNG.rst:44
 msgid "Creatures you control have first strike."
-msgstr ""
+msgstr "Stwory, którymi władasz mają pierwszy cios."
 
 # 2cd7623eb15545ad8607aac78f26cd56
 #: ../../BNG.rst:46
 msgid "Creatures your opponents control lose first strike and can't have or gain first strike."
 msgstr ""
+"Stwory władane przez twoich przeciwników tracą pierwszy cios i nie mogą mieć "
+"ani zyskać pierwszego ciosu."
 
 # 09df1cf138dd410d9fb905228be2bc7a
 #: ../../BNG.rst:53
 msgid "Archetype of Endurance"
-msgstr ""
+msgstr "Archetype of Endurance (Archetyp Odporności)"
 
 # 4bea5eef91c1443e92dcca1aa6d519e9
 #: ../../BNG.rst:50
 msgid "Creatures you control have hexproof."
-msgstr ""
+msgstr "Stwory, którymi władasz mają antyklątwę."
 
 # 64e1cacf015942988bf5138eef91b913
 #: ../../BNG.rst:52
 msgid "Creatures your opponents control lose hexproof and can't have or gain hexproof."
 msgstr ""
+"Stwory władane przez twoich przeciwników tracą antyklątwę i nie mogą mieć "
+"ani zyskać antyklątwy."
 
 # f5c1507503ad485e8244b4d683c7666c
 #: ../../BNG.rst:59
 msgid "Archetype of Finality"
-msgstr ""
+msgstr "Archetype of Finality (Archetyp Ostateczności)"
 
 # 7a8f430ae8ba4bcf86f59d840cb6f532
 #: ../../BNG.rst:56
 msgid "Creatures you control have deathtouch."
-msgstr ""
+msgstr "Stwory, którymi władasz mają dotyk śmierci."
 
 # 441e0aad9e0242ae919167c8557215a3
 #: ../../BNG.rst:58
 msgid "Creatures your opponents control lose deathtouch and can't have or gain deathtouch."
 msgstr ""
+"Stwory władane przez twoich przeciwników tracą dotyk śmierci i nie mogą mieć "
+"ani zyskać dotyku śmierci."
 
 # 5164be44b9664dbcb650271bff9054a1
 #: ../../BNG.rst:65
 msgid "Archetype of Imagination"
-msgstr ""
+msgstr "Archetype of Imagination (Archetyp Wyobraźni)"
 
 # 2b26266bdf0f40f5a64d98cd9340855a
 #: ../../BNG.rst:62
 msgid "Creatures you control have flying."
-msgstr ""
+msgstr "Stwory, którymi władasz mają latanie."
 
 # 33dd917b55554436afb64ba8db79af1e
 #: ../../BNG.rst:64
 msgid "Creatures your opponents control lose flying and can't have or gain flying."
 msgstr ""
+"Stwory władane przez twoich przeciwników tracą latanie i nie mogą mieć ani "
+"zyskać latania."
 
 # 21e6c7a58deb4527894ac4d8304765e5
 #: ../../BNG.rst:69
 msgid "Ashiok's Adept"
-msgstr ""
+msgstr "Ashiok's Adept (Adept Ashioka)"
 
 # 996f2862234c4fe1bd0a1e994f026657
 #: ../../BNG.rst:68
 msgid "Heroic — Whenever you cast a spell that targets Ashiok's Adept, each opponent discards a card."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący na Adepta Ashioka, każdy "
+"przeciwnik odrzuca kartę."
 
 # ba1c5556d05a42d484be7dc32865bdae
 #: ../../BNG.rst:73
@@ -223,27 +241,29 @@ msgstr ""
 # cb9a110a8c324691bcf45d021fd369a9
 #: ../../BNG.rst:77
 msgid "Asphyxiate"
-msgstr ""
+msgstr "Asphyxiate (Uduszenie)"
 
 # ca9b2130e80b482eb40c5d942380b09b
 #: ../../BNG.rst:76
 msgid "Destroy target untapped creature."
-msgstr ""
+msgstr "Zniszcz wskazanego odznaczonego stwora."
 
 # 218a115ab7984286809532f1a2545101
 #: ../../BNG.rst:83
 msgid "Astral Cornucopia"
-msgstr ""
+msgstr "Astral Cornucopia (Astralny Róg Obfitości)"
 
 # b11fd73cd8cf402eb3f2fdbb84c032fd
 #: ../../BNG.rst:80
 msgid "Astral Cornucopia enters the battlefield with X charge counters on it."
-msgstr ""
+msgstr "Astralny Róg Obfitości wchodzi na pole walki z X znacznikami ładowania."
 
 # 007dfc0d9ef64dc0a277e5c224140c01
 #: ../../BNG.rst:82
 msgid "|tap|: Choose a color. Add one mana of that color to your mana pool for each charge counter on Astral Cornucopia."
 msgstr ""
+"|tap|: Wybierz kolor. Dodaj do twojej puli many jedną manę owego koloru za "
+"każdy znacznik ładowania na Astralnym Rogu Obfitości."
 
 # d5ba6a021ec640cb9d6a5c755454408a
 #: ../../BNG.rst:87
@@ -254,48 +274,59 @@ msgstr ""
 #: ../../BNG.rst:86
 msgid "Target creature and all other creatures with the same name as that creature get -3/-3 until end of turn."
 msgstr ""
+"Wskazany stwór i wszystkie inne stwory o takiej samej nazwie jak ów stwór "
+"dostają -3/-3 do końca tury."
 
 # ab244610d347406b826cac3e337cbc2b
 #: ../../BNG.rst:93
 msgid "Black Oak of Odunos"
-msgstr ""
+msgstr "Black Oak of Odunos (Czarny Dąb z Odunos)"
 
 # 2364991e511a41c4911571004d411959
 # 03a39fc5ed104d13b84d000f609ab6f7
 #: ../../BNG.rst:90
 #: ../../BNG.rst:634
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 # dad54c03577e4836a7cff6700ffe9839
 #: ../../BNG.rst:92
 msgid "|mana_b|, Tap another untapped creature you control: Black Oak of Odunos gets +1/+1 until end of turn."
 msgstr ""
+"|mana_b|, zaznacz innego odznaczonego stwora, którym władasz: Czarny Dąb z "
+"Ogunos dostaje +1/+1 do końca tury."
 
 # 1d049cf1c0b7468e9b5a1b37b4a8cb4d
 #: ../../BNG.rst:97
 msgid "Bolt of Keranos"
-msgstr ""
+msgstr "Bolt of Keranos (Grom Keranosa)"
 
 # 6dac78406ae446b7b89383c7561e0675
 #: ../../BNG.rst:96
 msgid "Bolt of Keranos deals 3 damage to target creature or player. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Grom Keranosa zadaje 3 obrażenia wskazanemu stworowi lub graczowi. Wróż 1. "
+"(Spójrz na wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na "
+"spodzie twojej biblioteki.)"
 
 # bea055d72da54bc0930ca15036ae3d31
 #: ../../BNG.rst:105
 msgid "Brimaz, King of Oreskos"
-msgstr ""
+msgstr "Brimaz, King of Oreskos (Brimaz, Król Oreskos)"
 
 # d3addf990a124455b4f3457143135105
 #: ../../BNG.rst:102
 msgid "Whenever Brimaz, King of Oreskos attacks, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield attacking."
 msgstr ""
+"Ilekroć Brimaz, Król Oreskos atakuje, połóż na polu walki atakujący żeton "
+"białego stwora Piechur Kot z czujnością."
 
 # 2b7a52e11ba441e6a77ea8cc19508b7e
 #: ../../BNG.rst:104
 msgid "Whenever Brimaz blocks a creature, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield blocking that creature."
 msgstr ""
+"Ilekroć Brimaz blokuje stwora, połóż na polu walki żeton białego stwora "
+"Piechur Kot z czujnością, blokującego owego stwora."
 
 # a39bb43c9e894911a1220f6fa6a572f6
 #: ../../BNG.rst:111
@@ -351,12 +382,14 @@ msgstr ""
 # f93fdf1c51b9423a8caaf8b0bf281b19
 #: ../../BNG.rst:126
 msgid "Flying, first strike, vigilance, trample, lifelink"
-msgstr ""
+msgstr "Latanie, pierwszy cios, czujność, tratowanie, więź życia"
 
 # 7e66f3a26599495d80729aed61bd79af
 #: ../../BNG.rst:128
 msgid "Enchanted creature gets +4/+4 and has flying, first strike, vigilance, trample, and lifelink."
 msgstr ""
+"Zauroczony stwór dostaje +4/+4 oraz ma latanie, pierwszy cios, czujność, "
+"tratowanie oraz więź życia."
 
 # 2f88a97254474a1580e848d9b3459ec1
 #: ../../BNG.rst:135
@@ -394,7 +427,7 @@ msgstr ""
 #: ../../BNG.rst:860
 #: ../../BNG.rst:892
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 # 4557070f15d949b3b602adcee28611f7
 #: ../../BNG.rst:134
@@ -409,12 +442,13 @@ msgstr ""
 # c26a030d3bc6408eaab2ef477f7d6651
 #: ../../BNG.rst:138
 msgid "Play with the top card of your library revealed."
-msgstr ""
+msgstr "Graj z ujawnioną wierzchnią kartą twojej biblioteki."
 
 # 87927e9905714274bcd124ad6639b898
 #: ../../BNG.rst:140
 msgid "You may play the top card of your library if it's a land card."
 msgstr ""
+"Możesz zagrać wierzchnią kartę twojej biblioteki jeśli jest to karta lądu."
 
 # 6e27e26cfbb0469bad937045dc7c9c4b
 #: ../../BNG.rst:142
@@ -479,27 +513,30 @@ msgstr ""
 # d7e6f52021ca41c18f37cd698b78a50f
 #: ../../BNG.rst:168
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 # b8a74be17b49480dbb362817f58b665d
 #: ../../BNG.rst:173
 msgid "Drown in Sorrow"
-msgstr ""
+msgstr "Drown in Sorrow (Tonąć w Smutku)"
 
 # 0d9cc143c6294959a83d9d644459da3c
 #: ../../BNG.rst:172
 msgid "All creatures get -2/-2 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Wszystkie stwory dostają -2/-2 do końca tury. Wróż 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
+"biblioteki.)"
 
 # 876683b2a37a4ccbad0bb6195f457d3c
 #: ../../BNG.rst:181
 msgid "Eater of Hope"
-msgstr ""
+msgstr "Eater of Hope (Pożeracz Nadziei)"
 
 # 0600c5bf78d34fa0a47af5c35b1fecf0
 #: ../../BNG.rst:178
 msgid "|mana_b|, Sacrifice another creature: Regenerate Eater of Hope."
-msgstr ""
+msgstr "|mana_b|, poświęć innego stwora: Zregeneruj Pożeracza Nadziei."
 
 # d564aa3dc67c49bbb454c12664d134cb
 #: ../../BNG.rst:180
@@ -530,11 +567,13 @@ msgstr ""
 #: ../../BNG.rst:190
 msgid "Heroic — Whenever you cast a spell that targets Elite Skirmisher, you may tap target creature."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący na Elite Skirmisher, możesz "
+"zaznaczyć wskazanego stwora."
 
 # 6deead863dc54dcda7dff6e6661bb17d
 #: ../../BNG.rst:199
 msgid "Ephara, God of the Polis"
-msgstr ""
+msgstr "Ephara, God of the Polis (Ephara, Bogini Polis)"
 
 # 07c137aadc5444919cd9a2b946048de2
 # fee0e62bc3b743eb93f9901c214d15ae
@@ -547,17 +586,21 @@ msgstr ""
 #: ../../BNG.rst:618
 #: ../../BNG.rst:906
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 # 711b4792bc674b79b653531035356c30
 #: ../../BNG.rst:196
 msgid "As long as your devotion to white and blue is less than seven, Ephara isn't a creature."
 msgstr ""
+"Dopóki twój kult zielonego i białego jest mniejszy od siedmiu, Ephara nie "
+"jest stworem."
 
 # 85fa335878ad45a99f6e6204dcc87b6f
 #: ../../BNG.rst:198
 msgid "At the beginning of each upkeep, if you had another creature enter the battlefield under your control last turn, draw a card."
 msgstr ""
+"Na początku każdego utrzymania, jeśli w poprzedniej turze inny stwór wszedł "
+"na pole walki pod twoim władaniem, dobierz kartę."
 
 # b960efdbd1304e7ea62238272abef8fb
 #: ../../BNG.rst:209
@@ -574,7 +617,7 @@ msgstr ""
 #: ../../BNG.rst:206
 #: ../../BNG.rst:804
 msgid "Enchanted creature has flying."
-msgstr ""
+msgstr "Zauroczony stwór ma latanie."
 
 # a42332ecd0a44ebc812f9f0bae575689
 #: ../../BNG.rst:208
@@ -650,7 +693,7 @@ msgstr ""
 #: ../../BNG.rst:546
 #: ../../BNG.rst:786
 msgid "Enchanted creature gets +1/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1."
 
 # fe9ac7053fca46c3bfee9bf531c09215
 #: ../../BNG.rst:247
@@ -685,7 +728,7 @@ msgstr ""
 # 53fa2a98e4c24021a6295e8cca13444d
 #: ../../BNG.rst:263
 msgid "Fanatic of Xenagos"
-msgstr ""
+msgstr "Fanatic of Xenagos (Fanatyk Xenagosa)"
 
 # 9b972e311cb34f2ca5d74eef0d786851
 #: ../../BNG.rst:260

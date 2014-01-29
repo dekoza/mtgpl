@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-27 09:25+0100\n"
-"PO-Revision-Date: 2014-01-27 09:13+0200\n"
+"PO-Revision-Date: 2014-01-29 10:57+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1390810433.902045\n"
+"X-POOTLE-MTIME: 1390989457.922798\n"
 
 # dd0d92f2f9ef4152b3b14e70292202a7
 #: ../../C13.rst:5
@@ -2868,11 +2868,17 @@ msgstr ""
 #: ../../C13.rst:1150
 msgid "Destroy target creature. Its controller loses life equal to its power plus its toughness."
 msgstr ""
+"Zniszcz wskazanego stwora. Jego władca traci punkty życia równe sumie jego "
+"siły i wytrzymałości."
 
 # a6865b3ac2074e08b66f1c2ab1adb408
 #: ../../C13.rst:1152
 msgid "Suspend 5—|mana_1| |mana_b| (Rather than cast this card from your hand, you may pay |mana_1| |mana_b| and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
 msgstr ""
+"Zawieszenie 5 — |mana_1| |mana_b| (Zamiast rzucać ten czar z ręki, możesz "
+"zapłacić |mana_1| |mana_b| i wypędzić go z pięcioma znacznikami czasu. Na "
+"początku twojego utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik "
+"zostanie usunięty, rzuć go bez płacenia kosztu many.)"
 
 # e9e7de2fa493427f8d197b053392cb87
 #: ../../C13.rst:1157
@@ -2903,16 +2909,21 @@ msgstr ""
 #: ../../C13.rst:1164
 msgid "|mana_1| |mana_b|, Pay 2 life: Return target creature card from your graveyard to your hand."
 msgstr ""
+"|mana_1| |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z twojego "
+"cmentarza do twojej ręki."
 
 # 25d32835eae9486880f9a1fce420aa5e
 #: ../../C13.rst:1171
 msgid "Pilgrim's Eye"
-msgstr ""
+msgstr "Pilgrim's Eye (Oko Pielgrzyma)"
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1170
 msgid "When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"Kiedy Oko Pielgrzyma wchodzi na pole walki, możesz przeszukać twoją "
+"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
+"swojej ręki, a następnie przetasować twoją bibliotekę."
 
 # 581ced7d85a34039952497ecddc33f1c
 #: ../../C13.rst:1179
