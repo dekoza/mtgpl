@@ -60,6 +60,16 @@
    :alt: {9}
 .. |mana_10| image:: images/mana_10.png
    :alt: {10}
+.. |mana_11| image:: images/mana_11.png
+   :alt: {11}
+.. |mana_12| image:: images/mana_12.png
+   :alt: {12}
+.. |mana_13| image:: images/mana_13.png
+   :alt: {13}
+.. |mana_14| image:: images/mana_14.png
+   :alt: {14}
+.. |mana_15| image:: images/mana_15.png
+   :alt: {15}
 .. |mana_rg| image:: images/mana_rg.png
    :alt: {(r/g)}
 .. |mana_rw| image:: images/mana_rw.png

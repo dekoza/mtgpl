@@ -33,7 +33,9 @@ Standard
 Modern
 ------
 
-* wkrótce
+* :doc:`Avacyn Restored<AVR>` (0%)
+* :doc:`Dark Ascension<DKA>` (0%)
+* :doc:`Innistrad<ISD>` (0%)
 
 Pozostałe
 ---------
@@ -73,8 +75,10 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 .. toctree::
    :hidden:
    
-   
    rationale
+   ISD
+   DKA
+   AVR
    M14_Rulebook
    RTR
    GTC
@@ -83,7 +87,10 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
    THS
    THS_heroes
    THS_hydra
+   C13
    BNG_horde
+   BNG
+
    game_variants
    polish_cards
    symbols
