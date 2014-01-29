@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-29 11:21+0100\n"
-"PO-Revision-Date: 2014-01-29 13:00+0200\n"
+"PO-Revision-Date: 2014-01-29 23:38+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1390996830.602165\n"
+"X-POOTLE-MTIME: 1391035090.429815\n"
 
 # 5aa88d8ba2cd46a19fbee225ea34c30e
 #: ../../BNG.rst:5
@@ -33,6 +33,11 @@ msgstr ""
 #: ../../BNG.rst:8
 msgid "Prevent the next X damage that would be dealt to target creature this turn, where X is your devotion to white. If damage is prevented this way, Acolyte's Reward deals that much damage to target creature or player. (Each |mana_w| in the mana costs of permanents you control counts toward your devotion to white.)"
 msgstr ""
+"Zażegnaj najbliższe X obrażeń, które miałyby zostać zadane wskazanemu "
+"stworowi w tej turze, gdzie X jest twoim kultem białego. Jeśli obrażenia "
+"zostaną zażegnane w ten sposób, Acolyte's Reward zadaje tyle samo obrażeń "
+"wskazanemu stworowi lub graczowi. (Każdy symbol |mana_w| w kosztach many "
+"permanentów, którymi władasz wlicza się do twojego kultu białego.)"
 
 # 691f6215ed9f4929896c12aebf4bf08e
 #: ../../BNG.rst:13
@@ -43,6 +48,9 @@ msgstr ""
 #: ../../BNG.rst:12
 msgid "Inspired — Whenever Aerie Worshippers becomes untapped, you may pay |mana_2| |mana_u|. If you do, put a 2/2 blue Bird enchantment creature token with flying onto the battlefield."
 msgstr ""
+"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić "
+"|mana_2| |mana_u|. Jeśli tak zrobisz, połóż na polu walki żeton niebieskiego "
+"uroku stwora Ptak 2/2 z lataniem."
 
 # 6e6c8df2b34349d4b8526a1708f981b8
 #: ../../BNG.rst:17
@@ -75,11 +83,12 @@ msgstr "Czujność"
 #: ../../BNG.rst:22
 msgid "|mana_2| |mana_r|: Creatures you control get +1/+0 until end of turn."
 msgstr ""
+"|mana_2| |mana_r|: Stwory, którymi władasz, dostają do końca tury +1/+0."
 
 # 6ad3f8547485441aa45d6137f974d68a
 #: ../../BNG.rst:29
 msgid "Akroan Skyguard"
-msgstr ""
+msgstr "Akroan Skyguard (Akroański Strażnik Nieba)"
 
 # c759409431714c67bb524c67de38d18f
 # 25107bc3c20242d1a4b8d65e9b3c6754
@@ -124,12 +133,16 @@ msgstr ""
 # 44e60f6e8f7b4aabbb8e4960b23e8fd0
 #: ../../BNG.rst:35
 msgid "Arbiter of the Ideal"
-msgstr ""
+msgstr "Arbiter of the Ideal (Arbiter Ideału)"
 
 # 362302ec100f41c084bf3547a0086d42
 #: ../../BNG.rst:34
 msgid "Inspired — Whenever Arbiter of the Ideal becomes untapped, reveal the top card of your library. If it's an artifact, creature, or land card, you may put it onto the battlefield with a manifestation counter on it. That permanent is an enchantment in addition to its other types."
 msgstr ""
+"Natchniony — Ilekroć Arbiter Ideału zostaje odznaczony, ujawnij wierzchnią "
+"kartę twojej biblioteki. Jeśli jest to karta artefaktu, stwora lub lądu, "
+"możesz położyć ją na polu walki ze znacznikiem manifestacji. Ów permanent "
+"jest urokiem dodatkowo do swoich innych typów."
 
 # 3c9663f563754744ae7e8ec02945b311
 #: ../../BNG.rst:41
@@ -231,12 +244,15 @@ msgstr ""
 # ba1c5556d05a42d484be7dc32865bdae
 #: ../../BNG.rst:73
 msgid "Aspect of Hydra"
-msgstr ""
+msgstr "Aspect of Hydra (Aspekt Hydry)"
 
 # d346421a46ac4a01a6ecda1fc98b7211
 #: ../../BNG.rst:72
 msgid "Target creature gets +X/+X until end of turn, where X is your devotion to green. (Each |mana_g| in the mana costs of permanents you control counts toward your devotion to green.)"
 msgstr ""
+"Wskazany stwór dostaje +X/+X do końca tury, gdzie X jest twoim kultem "
+"zielonego. (Każdy symbol |mana_g| w kosztach many permanentów, którymi "
+"władasz, wlicza się się do twojego kultu zielonego)."
 
 # cb9a110a8c324691bcf45d021fd369a9
 #: ../../BNG.rst:77
@@ -319,14 +335,14 @@ msgstr "Brimaz, King of Oreskos (Brimaz, Król Oreskos)"
 msgid "Whenever Brimaz, King of Oreskos attacks, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield attacking."
 msgstr ""
 "Ilekroć Brimaz, Król Oreskos atakuje, połóż na polu walki atakujący żeton "
-"białego stwora Piechur Kot z czujnością."
+"białego stwora Piechur Kot 1/1 z czujnością."
 
 # 2b7a52e11ba441e6a77ea8cc19508b7e
 #: ../../BNG.rst:104
 msgid "Whenever Brimaz blocks a creature, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield blocking that creature."
 msgstr ""
 "Ilekroć Brimaz blokuje stwora, połóż na polu walki żeton białego stwora "
-"Piechur Kot z czujnością, blokującego owego stwora."
+"Piechur Kot 1/1 z czujnością, blokującego owego stwora."
 
 # a39bb43c9e894911a1220f6fa6a572f6
 #: ../../BNG.rst:111
@@ -337,16 +353,20 @@ msgstr ""
 #: ../../BNG.rst:108
 msgid "|mana_3| |mana_b| |mana_b|, |tap|, Sacrifice X other creatures: Return X target creature cards from your graveyard to the battlefield."
 msgstr ""
+"|mana_3| |mana_b| |mana_b|, |tap|, poświęć X innych stworów: Przywróć X "
+"wskazanych kart stworów z twojego cmentarza na pole walki."
 
 # ea665fd53201488d98baf937372beff7
 #: ../../BNG.rst:110
 msgid "|mana_5| |mana_b| |mana_b|: Put Champion of Stray Souls on top of your library from your graveyard."
 msgstr ""
+"|mana_5| |mana_b| |mana_b|: Połóż Champion of Stray Souls na wierzchu twojej "
+"biblioteki z twojego cmentarza."
 
 # f57d02c6bfb8402d9429b89bf5ec1f80
 #: ../../BNG.rst:115
 msgid "Charging Badger"
-msgstr ""
+msgstr "Charging Badger (Szarżujący Borsuk)"
 
 # 08deae7dcec145e6bfdde573f90d765f
 # 7a49d0d7e868408699a8ea8527985c87
@@ -357,27 +377,33 @@ msgstr ""
 #: ../../BNG.rst:698
 #: ../../BNG.rst:852
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 # 4dc1b9a58dee47308826990cb8b3fc0d
 #: ../../BNG.rst:121
 msgid "Chorus of the Tides"
-msgstr ""
+msgstr "Chorus of the Tides (Chór Fal)"
 
 # c3d13c8fccf547cc8e066db5d2bed8ad
 #: ../../BNG.rst:120
 msgid "Heroic — Whenever you cast a spell that targets Chorus of the Tides, scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący Chór Fal, wróż 1. (By wróżyć 1, "
+"spójrz na wierzchnią kartę twojej biblioteki, następnie możesz położyć ową "
+"kartę na spodzie twojej biblioteki.)"
 
 # 56d5382113974e0587dd504402d65058
 #: ../../BNG.rst:129
 msgid "Chromanticore"
-msgstr ""
+msgstr "Chromanticore (Chromantykora)"
 
 # 784cb9f24e5f42a8b08de6de281427c1
 #: ../../BNG.rst:124
 msgid "Bestow |mana_2| |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_2| |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| (Jeśli "
+"zagrasz tę kartę za koszt obdarowania, jest ona czarem Aury zauroczenia "
+"stwora. Ponownie staje się stworem, jeśli nie jest dołączona do stwora.)"
 
 # f93fdf1c51b9423a8caaf8b0bf281b19
 #: ../../BNG.rst:126
@@ -394,7 +420,7 @@ msgstr ""
 # 2f88a97254474a1580e848d9b3459ec1
 #: ../../BNG.rst:135
 msgid "Claim of Erebos"
-msgstr ""
+msgstr "Claim of Erebos (Roszczenie Erebosa)"
 
 # 986d194d58254978b86a13fbda48ced7
 # a0276c00485347278531382f76040e83
@@ -433,6 +459,8 @@ msgstr "Zaurocz stwora"
 #: ../../BNG.rst:134
 msgid "Enchanted creature has \\\"|mana_1| |mana_b|, |tap|: Target player loses 2 life.\\\""
 msgstr ""
+"Zauroczony stwór ma \\\"|mana_1| |mana_b|, |tap|: Wskazany gracz traci dwa "
+"życia.\\\""
 
 # 5aa6fbc0677c449884feae4a9f9de60e
 #: ../../BNG.rst:143
@@ -454,6 +482,7 @@ msgstr ""
 #: ../../BNG.rst:142
 msgid "Whenever a land enters the battlefield under your control, you gain 1 life."
 msgstr ""
+"Ilekroć ląd wchodzi na pole walki pod twoje władanie, zyskujesz 1 życie."
 
 # 14dd80854f0741ff982295781f95c372
 #: ../../BNG.rst:147
@@ -464,6 +493,8 @@ msgstr ""
 #: ../../BNG.rst:146
 msgid "Target creature you control gains protection from creatures your opponents control until end of turn. Untap it."
 msgstr ""
+"Wskazany stwór zyskuje do końca tury ochronę przed stworami twoich "
+"przeciwników. Odznacz go."
 
 # 0b03bcb1f4764f0cb12a81e6333d7a4f
 #: ../../BNG.rst:151
@@ -473,7 +504,7 @@ msgstr ""
 # 15230087380f443885b524df484a0c34
 #: ../../BNG.rst:150
 msgid "Target creature blocks this turn if able."
-msgstr ""
+msgstr "Wskazany stwór blokuje w tej turze jeśli może."
 
 # 4030aa7195674174bd3f2af0171a8545
 #: ../../BNG.rst:153
@@ -546,12 +577,15 @@ msgstr ""
 # c4b4c1007ceb440baaa3dc1eb8d1c2ec
 #: ../../BNG.rst:187
 msgid "Eidolon of Countless Battles"
-msgstr ""
+msgstr "Eidolon of Countless Battles (Eidolon Niezliczonych Bitew)"
 
 # 50b2b8c97a1042a5abedcfbc263128bd
 #: ../../BNG.rst:184
 msgid "Bestow |mana_2| |mana_w| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_2| |mana_w| |mana_w| (Jeśli zagrasz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # 571b358fc57942a4a949b6cc33dbd289
 #: ../../BNG.rst:186
@@ -605,12 +639,14 @@ msgstr ""
 # b960efdbd1304e7ea62238272abef8fb
 #: ../../BNG.rst:209
 msgid "Ephara's Enlightenment"
-msgstr ""
+msgstr "Ephara's Enlightenment (Oświecenie Ephary)"
 
 # 9a0cf20d6420436cb31c77011464c6f3
 #: ../../BNG.rst:204
 msgid "When Ephara's Enlightenment enters the battlefield, put a +1/+1 counter on enchanted creature."
 msgstr ""
+"Kiedy Oświecenie Ephary wchodzi na pole walki, połóż znacznik +1/+1 na "
+"zauroczonym stworze."
 
 # ea2d4fe79729496f9a896c8417c6bef2
 # 11f462339654452faa77756a6096234e
@@ -623,6 +659,8 @@ msgstr "Zauroczony stwór ma latanie."
 #: ../../BNG.rst:208
 msgid "Whenever a creature enters the battlefield under your control, you may return Ephara's Enlightenment to its owner's hand."
 msgstr ""
+"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, możesz przywrócić "
+"Oświecenie Ephary do ręki jego właściciela."
 
 # f12055b3ec1846a1a03eff3f85e6e41f
 #: ../../BNG.rst:215
@@ -632,7 +670,7 @@ msgstr ""
 # 4706a965c6e34d209656180eafecd739
 #: ../../BNG.rst:214
 msgid "Enchanted creature has \\\"|mana_1| |mana_w|, |tap|: You gain 3 life.\\\""
-msgstr ""
+msgstr "Zauroczony stwór ma \\\"|mana_1| |mana_w|, |tap|: Zyskujesz 3 życia.\\\""
 
 # 5e80e4508fcd4b89a1376e9e07704851
 #: ../../BNG.rst:221
@@ -642,22 +680,23 @@ msgstr ""
 # 7cb7c33201dd4c5c87791a384e5aabea
 #: ../../BNG.rst:220
 msgid "Enchanted creature has \\\"|mana_r|, |tap|, Discard a card: Draw a card.\\\""
-msgstr ""
+msgstr "Zauroczony stwór ma \\\"|mana_r|, |tap|, odrzuć kartę: dobierz kartę.\\\""
 
 # e7192a2f3f79408894d55eb7304285ed
 #: ../../BNG.rst:229
 msgid "Eternity Snare"
-msgstr ""
+msgstr "Eternity Snare (Sidła Wieczności)"
 
 # 67ea6b02a30e4addb5b700719066225e
 #: ../../BNG.rst:226
 msgid "When Eternity Snare enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy Sidła Wieczności wchodzą na pole walki, dobierz kartę."
 
 # 209c6fc406084fb1a47f761ed0a99140
 #: ../../BNG.rst:228
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
+"Zauroczony stwór nie odznacza się podczas kroku odznaczania jego władcy."
 
 # ffc5926a45284b2384db073a1c9718e3
 #: ../../BNG.rst:235
@@ -668,21 +707,28 @@ msgstr ""
 #: ../../BNG.rst:234
 msgid "Enchanted creature has \\\"|mana_1| |mana_u|, |tap|: Target player puts the top three cards of his or her library into his or her graveyard.\\\""
 msgstr ""
+"Zauroczony stwór ma \\\"|mana_1| |mana_u|, |tap|: Wskazany gracz kładzie trzy "
+"wierzchnie karty swojej biblioteki do swojego cmentarza.\\\""
 
 # af5abfe707514a34a619e5536b0ebe56
 #: ../../BNG.rst:243
 msgid "Everflame Eidolon"
-msgstr ""
+msgstr "Everflame Eidolon (Eidolon Wiecznego Ognia)"
 
 # 53c0390032b04265b13697cfc3462e91
 #: ../../BNG.rst:238
 msgid "Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_2| |mana_r| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
+"nie jest dołączona do stwora.)"
 
 # 5d51fac6574c41dd8a3b80ef9eed484c
 #: ../../BNG.rst:240
 msgid "|mana_r|: Everflame Eidolon gets +1/+0 until end of turn. If it's an Aura, enchanted creature gets +1/+0 until end of turn instead."
 msgstr ""
+"|mana_r|: Eidolon Wiecznego Ognia dostaje +1/+0 do końca tury. Jeśli jest "
+"Aurą, zamiast tego zauroczony stwór dostaje +1/+0 do końca tury."
 
 # 440945b2eda24e0394e87effac840cf0
 # d766a760f22142a995d73ccef56036a8
@@ -703,7 +749,7 @@ msgstr ""
 # f77e3f2ff3ad4034a74f8843a506958b
 #: ../../BNG.rst:246
 msgid "Exile target tapped creature."
-msgstr ""
+msgstr "Wypędź wskazanego zaznaczonego stwora."
 
 # 31b9cdf20899470399901cc63f37d52b
 #: ../../BNG.rst:251
@@ -714,6 +760,7 @@ msgstr ""
 #: ../../BNG.rst:250
 msgid "Target creature gets -1/-1 until end of turn. If it's a Cyclops, destroy it."
 msgstr ""
+"Wskazany stwór do końca tury dostaje -1/-1. Jeśli to Cyklop, zniszcz go."
 
 # 670652adf2e649d8b7b9216f496f3dea
 #: ../../BNG.rst:255
@@ -724,6 +771,8 @@ msgstr ""
 #: ../../BNG.rst:254
 msgid "Target creature you control deals damage equal to its power to another target creature."
 msgstr ""
+"Wskazany stwór, którym władasz, zadaje obrażenia równe swojej sile innemu "
+"wskazanemu stworowi."
 
 # 53fa2a98e4c24021a6295e8cca13444d
 #: ../../BNG.rst:263
@@ -734,11 +783,15 @@ msgstr "Fanatic of Xenagos (Fanatyk Xenagosa)"
 #: ../../BNG.rst:260
 msgid "Tribute 1 (As this creature enters the battlefield, an opponent of your choice may place a +1/+1 counter on it.)"
 msgstr ""
+"Danina 1 (Gdy ten stwór jest wprowadzany na pole walki, przeciwnik wybrany "
+"przez ciebie może położyć na nim znacznik +1/+1.)"
 
 # e120142dd1b24b4d90eb7af02a8fde29
 #: ../../BNG.rst:262
 msgid "When Fanatic of Xenagos enters the battlefield, if tribute wasn't paid, it gets +1/+1 and gains haste until end of turn."
 msgstr ""
+"Kiedy Fanatyk Xenagosa wchodzi na pole walki, jeśli danina nie została "
+"zapłacona, dostaje on do końca tury +1/+1 i pośpiech."
 
 # a57ef1477691480cb657240ca9e49ad1
 #: ../../BNG.rst:267
@@ -749,6 +802,8 @@ msgstr ""
 #: ../../BNG.rst:266
 msgid "Whenever an opponent draws a card, Fate Unraveler deals 1 damage to that player."
 msgstr ""
+"Ilekroć przeciwnik dobiera kratę, Fate Unraveler zadaje 1 obrażenie owemu "
+"graczowi."
 
 # 0027f87c95644a11b53950d10843702a
 #: ../../BNG.rst:271
@@ -759,6 +814,10 @@ msgstr ""
 #: ../../BNG.rst:270
 msgid "Fated Conflagration deals 5 damage to target creature or planeswalker. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Fated Conflagration zadaje 5 obrażeń wskazanemu stworowi lub wędrowcowi. "
+"Jeśli jest twoja tura, wróż 2. (Spójrz na dwie wierzchnie karty twojej "
+"biblioteki, następnie połóż dowolne z nich na spodzie twojej biblioteki, a "
+"pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 # f5252d1f302647b885da090ee2f8d308
 #: ../../BNG.rst:275
@@ -769,6 +828,10 @@ msgstr ""
 #: ../../BNG.rst:274
 msgid "Put a token onto the battlefield that's a copy of target creature you control. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Połóż na polu walki żeton będący kopią wskazanego stwora, którym władasz. "
+"Jeśli jest twoja tura, wróż 2. (Spójrz na dwie wierzchnie karty twojej "
+"biblioteki, następnie połóż dowolne z nich na spodzie twojej biblioteki, a "
+"pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 # 140c9464c7b548b49efc8c210b0d5346
 #: ../../BNG.rst:279
@@ -779,6 +842,10 @@ msgstr ""
 #: ../../BNG.rst:278
 msgid "Put two 3/3 green Centaur enchantment creature tokens onto the battlefield. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Połóż na polu walki dwa żetony zielonego uroku stwora Centaur 3/3. Jeśli "
+"jest twoja tura, wróż 2. (Spójrz na dwie wierzchnie karty twojej biblioteki, "
+"następnie połóż dowolne z nich na spodzie twojej biblioteki, a pozostałe na "
+"jej wierzchu w dowolnej kolejności.)"
 
 # f5c3d58d78714cc88cc25be411f286eb
 #: ../../BNG.rst:283
@@ -789,6 +856,10 @@ msgstr ""
 #: ../../BNG.rst:282
 msgid "Destroy all creatures and planeswalkers. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Zniszcz wszystkie stwory i wędrowców. Jeśli jest twoja tura, wróż 2. (Spójrz "
+"na dwie wierzchnie karty twojej biblioteki, następnie połóż dowolne z nich "
+"na spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
+"kolejności.)"
 
 # 4ee507f5c6004f5280f9070487f0422e
 #: ../../BNG.rst:287
@@ -799,6 +870,11 @@ msgstr ""
 #: ../../BNG.rst:286
 msgid "Put target creature card from a graveyard onto the battlefield under your control. It gains indestructible. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
+"Połóż wskazaną kartę stwora z cmentarza na polu walki pod twoim władaniem. "
+"Zyskuje ona niezniszczalność. Jeśli jest twoja tura, wróż 2. (Spójrz na dwie "
+"wierzchnie karty twojej biblioteki, następnie połóż dowolne z nich na "
+"spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
+"kolejności.)"
 
 # e06de608a7434414bf80c22750cb14f4
 #: ../../BNG.rst:293
@@ -818,7 +894,7 @@ msgstr ""
 # b564f9c1b1a344298c06ac68400abc88
 #: ../../BNG.rst:296
 msgid "Felhide Brawler can't block unless you control another Minotaur."
-msgstr ""
+msgstr "Felhide Brawler nie może blokować dopóki nie władasz innym Minotaurem."
 
 # bae6c925ff59482fa5c72c11b1e52d8d
 #: ../../BNG.rst:301
@@ -833,7 +909,7 @@ msgstr ""
 # 778db5eb551b4a40b7d69921990c464d
 #: ../../BNG.rst:309
 msgid "Flame-Wreathed Phoenix"
-msgstr ""
+msgstr "Flame-Wreathed Phoenix (Fenik Opleciony Ogniem)"
 
 # a5ef3f1b3ed24e30b8f5d5e65976f45e
 # 12a33f80f2b64ee69fc6ad4a747dbe9b
@@ -847,41 +923,52 @@ msgstr ""
 #: ../../BNG.rst:730
 msgid "Tribute 2 (As this creature enters the battlefield, an opponent of your choice may place two +1/+1 counters on it.)"
 msgstr ""
+"Danina 2 (Gdy ten stwór jest wprowadzany na pole walki, przeciwnik wybrany "
+"przez ciebie może położyć na nim dwa znaczniki +1/+1.)"
 
 # 1b4c7db9e4b04d3a8af858e607620382
 #: ../../BNG.rst:308
 msgid "When Flame-Wreathed Phoenix enters the battlefield, if tribute wasn't paid, it gains haste and \\\"When this creature dies, return it to its owner's hand.\\\""
 msgstr ""
+"Kiedy Feniks Opleciony Ogniem wchodzi na pole walki, jeśli danina nie "
+"została zapłacona, zyskuje on pośpiech oraz \\\"Kiedy ten stwór umiera, "
+"przywróć go do ręki jego właściciela.\\\""
 
 # a15d29e6ca30427e9f2787738e8b6f2d
 #: ../../BNG.rst:317
 msgid "Flitterstep Eidolon"
-msgstr ""
+msgstr "Flitterstep Eidolon (Cichostępy Eidolon)"
 
 # 3066b8d6eedb462e92d6f9aaff2fa95f
 #: ../../BNG.rst:312
 msgid "Bestow |mana_5| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_5| |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
+"nie jest dołączona do stwora.)"
 
 # 6eb2c49b90764157aada3bb35b424ad2
 #: ../../BNG.rst:314
 msgid "Flitterstep Eidolon can't be blocked."
-msgstr ""
+msgstr "Cichostępy Eidolon nie może być blokowany."
 
 # efd9f8c31a434da2882049b1750d9970
 #: ../../BNG.rst:316
 msgid "Enchanted creature gets +1/+1 and can't be blocked."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i nie może być blokowany."
 
 # d050b1f7dd264411b79fdde0ea9ee44e
 #: ../../BNG.rst:321
 msgid "Floodtide Serpent"
-msgstr ""
+msgstr "Wężownik Zatopienia"
 
 # 88043b2991204973aaffed83254adae3
 #: ../../BNG.rst:320
 msgid "Floodtide Serpent can't attack unless you return an enchantment you control to its owner's hand. (This cost is paid as attackers are declared.)"
 msgstr ""
+"Wężownik Zatopienia nie może atakować dopóki nie zwrócisz uroku, którym "
+"władasz, do ręki jego właściciela. (Koszt ten jest płacony przy deklaracji "
+"atakujących.)"
 
 # 3cf16f26f04142ddb440ccdf70519d23
 #: ../../BNG.rst:327
@@ -907,16 +994,21 @@ msgstr ""
 #: ../../BNG.rst:332
 msgid "Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2| |mana_b|. If you do, put a 2/2 black Zombie enchantment creature token onto the battlefield."
 msgstr ""
+"Natchniony — Ilekroć Forlorn Pseudamma zostaje odznaczony, możesz zapłacić "
+"|mana_2| |mana_b|. Jeśli tak zrobisz, połóż na polu walki żeton czarnego "
+"uroku stwora Zombi 2/2."
 
 # a8a1b91ea5164290b0dba425a68711aa
 #: ../../BNG.rst:337
 msgid "Forsaken Drifters"
-msgstr ""
+msgstr "Forsaken Drifters (Porzuceni Rybacy)"
 
 # 28d9f8ba2fa44427ae898c9326eb28cc
 #: ../../BNG.rst:336
 msgid "When Forsaken Drifters dies, put the top four cards of your library into your graveyard."
 msgstr ""
+"Kiedy Porzuceni Rybacy umierają, połóż cztery wierzchnie karty twojej "
+"biblioteki do twojego cmentarza."
 
 # 41c9872c05cc460caff6e5de018d6bb1
 #: ../../BNG.rst:345
@@ -927,6 +1019,9 @@ msgstr ""
 #: ../../BNG.rst:340
 msgid "Bestow |mana_5| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_5| |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
+"nie jest dołączona do stwora.)"
 
 # 8d2a2b1922a6435097c9125129f84a48
 #: ../../BNG.rst:342
@@ -936,17 +1031,20 @@ msgstr ""
 # b0844f44021d462ba6cabdb65e2d99ed
 #: ../../BNG.rst:344
 msgid "Enchanted creature gets +1/+1 and has double strike."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma podwójny cios."
 
 # 6f34c1266a524d3888ea5af2666492b3
 #: ../../BNG.rst:349
 msgid "Gild"
-msgstr ""
+msgstr "Gild (Ozłocenie)"
 
 # 51ac3818a346418eb9db6059fd952832
 #: ../../BNG.rst:348
 msgid "Exile target creature. Put a colorless artifact token named Gold onto the battlefield. It has \\\"Sacrifice this artifact: Add one mana of any color to your mana pool.\\\""
 msgstr ""
+"Wypędź wskazanego stwora. Połóż na polu walki żeton bezkolorowego artefaktu "
+"Złoto z \\\"Poświęć ten artefakt: Dodaj jedną manę dowolnego koloru do twojej "
+"puli many.\\\""
 
 # 1864ea5bdf0a4370bb2571bcd8724d3f
 #: ../../BNG.rst:353
@@ -957,6 +1055,8 @@ msgstr ""
 #: ../../BNG.rst:352
 msgid "Tap X target creatures. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Zaznacz X wskazanych stworów. Wróż 1. (Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # bbe1867f72b548639f069043e369dcbb
 #: ../../BNG.rst:357
@@ -988,17 +1088,20 @@ msgstr ""
 # ea5663049ba7421795424c1acbb46445
 #: ../../BNG.rst:369
 msgid "Graverobber Spider"
-msgstr ""
+msgstr "Graverobber Spider (Pająk Cmentarny)"
 
 # c730f7abd6124c74ae1e96d9efea5ae2
 #: ../../BNG.rst:366
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 # d9a3544b89154b3da2b2fe62a7b49090
 #: ../../BNG.rst:368
 msgid "|mana_3| |mana_b|: Graverobber Spider gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. Activate this ability only once each turn."
 msgstr ""
+"|mana_3| |mana_b|: Pająk Cmentarny dostaje do końca tury +X/+X, gdzie X jest "
+"liczbą kart stworów w twoim cmentarzu. Aktywuj tę zdolność tylko raz na "
+"turę."
 
 # 6a5be75d38164cb29c1932ef626b0034
 #: ../../BNG.rst:371
@@ -1033,22 +1136,25 @@ msgstr ""
 # f7b42ebca88746ab9c697f4c04bed7ca
 #: ../../BNG.rst:397
 msgid "Herald of Torment"
-msgstr ""
+msgstr "Herald of Torment (Herold Udręki)"
 
 # c1abd5c3bb814fdfb64590875918d71c
 #: ../../BNG.rst:390
 msgid "Bestow |mana_3| |mana_b| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_3| |mana_b| |mana_b| (Jeśli zagrasz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # ac53c86f9a7d43eb9d1cb8ab64da0dc7
 #: ../../BNG.rst:394
 msgid "At the beginning of your upkeep, you lose 1 life."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania tracisz 1 życie."
 
 # e79a535854854ab29d2d228e0c501197
 #: ../../BNG.rst:396
 msgid "Enchanted creature gets +3/+3 and has flying."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+3 i ma latanie."
 
 # 0b543a36d63d48c7bb4cafa7d3aba27d
 #: ../../BNG.rst:403
@@ -1084,6 +1190,8 @@ msgstr ""
 #: ../../BNG.rst:410
 msgid "Each legendary creature you control gets +1/+1 for each other legendary creature you control."
 msgstr ""
+"Każdy legendarny stwór, którym władasz, dostaje +1/+1 za każdego innego "
+"legendarnego stwora, którym władasz."
 
 # 03fb4a6f60024e83bb147da996f02493
 #: ../../BNG.rst:412
@@ -1099,6 +1207,8 @@ msgstr ""
 #: ../../BNG.rst:416
 msgid "Prevent the next 7 damage that would be dealt to target creature or player this turn."
 msgstr ""
+"Zażegnaj najbliższe 7 obrażeń, które mogłyby zostać zadane  w tej turze "
+"wskazanemu stworowi lub graczowi."
 
 # 0cfdfc7f214a406780c4182507854201
 #: ../../BNG.rst:421
@@ -1118,27 +1228,32 @@ msgstr ""
 # 7d3b21ae60544f949daf35c8af23e1fa
 #: ../../BNG.rst:424
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 # 96ff31c7c3394a318f16dab4d3dd5902
 #: ../../BNG.rst:426
 msgid "Impetuous Sunchaser attacks each turn if able."
-msgstr ""
+msgstr "Impetuous Sunchaser atakuje w każdej turze jeśli może."
 
 # 6bd269bb93464be2ac72adfe49f83a26
 #: ../../BNG.rst:435
 msgid "Karametra, God of Harvests"
-msgstr ""
+msgstr "Karametra, God of Harvests (Karametra, Bogini Żniw)"
 
 # 98e850c97e274285bf19b6781800df5f
 #: ../../BNG.rst:432
 msgid "As long as your devotion to green and white is less than seven, Karametra isn't a creature."
 msgstr ""
+"Dopóki twój kult zielonego i białego jest mniejszy niż siedem, Karametra nie "
+"jest stworem."
 
 # 66476c8f2054464898ae91ecea8573bf
 #: ../../BNG.rst:434
 msgid "Whenever you cast a creature spell, you may search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"Ilekroć rzucasz czar stwora, możesz poszukać w twojej bibliotece karty Lasu "
+"lub Równiny, położyć ją na polu walki zaznaczoną, następnie przetasować "
+"twoją bibliotekę."
 
 # 2213bcf904cd4aa6978c5bc950660c7a
 #: ../../BNG.rst:443
@@ -1183,7 +1298,7 @@ msgstr ""
 # 5983cfba893047f881f9cfb96a3ac09c
 #: ../../BNG.rst:454
 msgid "|tap|: Untap another target permanent."
-msgstr ""
+msgstr "|tap|: Odznacz inny wskazany permanent."
 
 # d488f5515f454781b8b7e0362cfffd74
 #: ../../BNG.rst:459
@@ -1194,6 +1309,8 @@ msgstr ""
 #: ../../BNG.rst:458
 msgid "Inspired — Whenever Kragma Butcher becomes untapped, it gets +2/+0 until end of turn."
 msgstr ""
+"Natchniony — Ilekroć Kragma Butcher zostaje odznaczony, dostaje +2/+0 do "
+"końca tury."
 
 # 637eb59295d74253895a453e8436afdd
 #: ../../BNG.rst:463
@@ -1204,6 +1321,8 @@ msgstr ""
 #: ../../BNG.rst:462
 msgid "Creatures with power less than the number of Islands you control can't block Kraken of the Straits."
 msgstr ""
+"Stwory o sile mniejszej niż liczba Wysp, którymi władasz, nie mogą blokować "
+"Kraken of the Straits."
 
 # f78b0dc5c5134d2b84818efe1ce861dc
 #: ../../BNG.rst:467
@@ -1218,12 +1337,12 @@ msgstr ""
 # 6cbbd9f1299140b6ad1b8f01f695764b
 #: ../../BNG.rst:473
 msgid "Loyal Pegasus"
-msgstr ""
+msgstr "Lojalny Pegaz"
 
 # a47eeee7117d48888c47592fec6210ea
 #: ../../BNG.rst:472
 msgid "Loyal Pegasus can't attack or block alone."
-msgstr ""
+msgstr "Lojalny Pegaz nie może samotnie atakować lub blokować."
 
 # f32ca71ad7cc4824a5bf1f9c8aeb835c
 #: ../../BNG.rst:477
@@ -1238,12 +1357,16 @@ msgstr ""
 # 9fb23184611848ab9da5f54f477999ae
 #: ../../BNG.rst:481
 msgid "Meletis Astronomer"
-msgstr ""
+msgstr "Meletis Astronomer (Astronom z Meletis)"
 
 # b39451a5b71e4e8483e28803a6e867f2
 #: ../../BNG.rst:480
 msgid "Heroic — Whenever you cast a spell that targets Meletis Astronomer, look at the top three cards of your library. You may reveal an enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący Astronoma z Meletis, spójrz na "
+"trzy wierzchnie karty twojej biblioteki. Możesz ujawnić kartę uroku spośród "
+"nich i dołożyć ją do twojej reki. Połóż pozostałe na spodzie twojej "
+"biblioteki w dowolnej kolejności."
 
 # 4c6817752ddb445ebe5edb20acc3de09
 #: ../../BNG.rst:487
@@ -1254,6 +1377,8 @@ msgstr ""
 #: ../../BNG.rst:484
 msgid "Heroic — Whenever you cast a spell that targets Mindreaver, exile the top three cards of target player's library."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący Mindreaver, wypędź trzy wierzchnie "
+"karty biblioteki wskazanego gracza."
 
 # 4d2fbd4f63864b46835dc950510c737a
 #: ../../BNG.rst:486
@@ -1268,7 +1393,7 @@ msgstr ""
 # fcc25e3cf0e943679f5e630f817be39d
 #: ../../BNG.rst:490
 msgid "Up to two target creatures each get +4/+4 until end of turn."
-msgstr ""
+msgstr "Każdy z najwyżej dwóch wskazanych stworów dostaje +4/+4 do końca tury."
 
 # 36adde1cd0714273bc972a2748bb9780
 #: ../../BNG.rst:499
@@ -1279,11 +1404,15 @@ msgstr ""
 #: ../../BNG.rst:496
 msgid "As long as your devotion to black and red is less than seven, Mogis isn't a creature."
 msgstr ""
+"Dopóki twój kult czarnego i czerwonego jest mniejszy niż siedem, Mogis nie "
+"jest stworem."
 
 # 53912302c6af4fa3b96f67156a6c2d51
 #: ../../BNG.rst:498
 msgid "At the beginning of each opponent's upkeep, Mogis deals 2 damage to that player unless he or she sacrifices a creature."
 msgstr ""
+"Na początku rozliczenia każdego przeciwnika, Mogis zadaje 2 obrażenia owemu "
+"graczowi, chyba że ów gracz poświęci stwora."
 
 # a0b4308cb49b4a8a9d816c9306d5040b
 #: ../../BNG.rst:503
@@ -1313,7 +1442,7 @@ msgstr ""
 # d90c37c4ad1243de84f74601867b4c5d
 #: ../../BNG.rst:510
 msgid "Target creature gains deathtouch until end of turn. Regenerate it."
-msgstr ""
+msgstr "Wskazany stwór zyskuje dotyk śmierci do końca tury. Zregeneruj go."
 
 # 087bad2395ee47fb8ac216fce9f307c0
 #: ../../BNG.rst:517
@@ -1330,11 +1459,15 @@ msgstr ""
 #: ../../BNG.rst:854
 msgid "Tribute 3 (As this creature enters the battlefield, an opponent of your choice may place three +1/+1 counters on it.)"
 msgstr ""
+"Danina 3 (Gdy ten stwór jest wprowadzany na pole walki, przeciwnik wybrany "
+"przez ciebie może położyć na nim trzy znaczniki +1/+1.)"
 
 # a163e0289c224fca885e5c47ccff3c74
 #: ../../BNG.rst:516
 msgid "When Nessian Demolok enters the battlefield, if tribute wasn't paid, destroy target noncreature permanent."
 msgstr ""
+"Kiedy Niessiański Demolok wchodzi na pole walki, jeśli danina nie została "
+"zapłacona, zniszcz wskazany permanent nie będący stworem."
 
 # 8017b226bc324a5cbdf0ae55081a03e2
 #: ../../BNG.rst:523
@@ -1345,11 +1478,16 @@ msgstr ""
 #: ../../BNG.rst:520
 msgid "Tribute 6 (As this creature enters the battlefield, an opponent of your choice may place six +1/+1 counters on it.)"
 msgstr ""
+"Danina 6 (Gdy ten stwór jest wprowadzany na pole walki, przeciwnik wybrany "
+"przez ciebie może położyć na nim sześć znaczników +1/+1.)"
 
 # 843ea72823b448378d1687e6f5a596f8
 #: ../../BNG.rst:522
 msgid "When Nessian Wilds Ravager enters the battlefield, if tribute wasn't paid, you may have Nessian Wilds Ravager fight another target creature. (Each deals damage equal to its power to the other.)"
 msgstr ""
+"Kiedy Nessian Wilds Ravager wchodzi na pole walki, jeśli danina nie została "
+"zapłacona, możesz sprawić, że Nessian Wilds Ravager będzie bić się ze "
+"wskazanym stworem. (Każdy zada drugiemu obrażenia równe swojej sile.)"
 
 # 2a4db1d8912c498ca4a9b84f8b5db34f
 #: ../../BNG.rst:531
@@ -1360,6 +1498,9 @@ msgstr ""
 #: ../../BNG.rst:526
 msgid "Bestow |mana_5| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_5| |mana_g| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
+"nie jest dołączona do stwora.)"
 
 # 141ca964076a445097ee6d88ac894df2
 #: ../../BNG.rst:528
@@ -1374,7 +1515,7 @@ msgstr ""
 # e9d90d33a3bc45fc8f14ae2f9f2b21e5
 #: ../../BNG.rst:534
 msgid "Counter target creature or Aura spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora lub Aury."
 
 # b430ce29b0e24b288c3af55bc0052e84
 #: ../../BNG.rst:541
@@ -1385,11 +1526,14 @@ msgstr ""
 #: ../../BNG.rst:538
 msgid "Bestow |mana_4| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_4| |mana_b| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
+"nie jest dołączona do stwora.)"
 
 # c3fd8b7b26b24824b27202a266135426
 #: ../../BNG.rst:540
 msgid "Enchanted creature gets +2/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+1."
 
 # 4346c84724a94d4b856877395c735033
 #: ../../BNG.rst:547
@@ -1400,6 +1544,9 @@ msgstr ""
 #: ../../BNG.rst:544
 msgid "Bestow |mana_1| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_1| |mana_r| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
+"nie jest dołączona do stwora.)"
 
 # 82653331478a4fbe97dac8292d5d73eb
 #: ../../BNG.rst:553
@@ -1410,11 +1557,14 @@ msgstr ""
 #: ../../BNG.rst:550
 msgid "Bestow |mana_2| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_2| |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
+"nie jest dołączona do stwora.)"
 
 # 7da00155212842ebb5a3934615dbe964
 #: ../../BNG.rst:552
 msgid "Enchanted creature gets +1/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+2."
 
 # d63102c4249d4fa4a85b08c5db33340d
 #: ../../BNG.rst:559
@@ -1425,6 +1575,9 @@ msgstr ""
 #: ../../BNG.rst:556
 msgid "Bestow |mana_4| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_4| |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
+"nie jest dołączona do stwora.)"
 
 # 7bb9675864494ce8bf6d6aa5d2369b0b
 #: ../../BNG.rst:558
@@ -1440,6 +1593,9 @@ msgstr ""
 #: ../../BNG.rst:562
 msgid "Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_4| |mana_g| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
+"nie jest dołączona do stwora.)"
 
 # f75577eef2a1477095d8f949d2e3df9d
 #: ../../BNG.rst:564
@@ -1479,6 +1635,9 @@ msgstr ""
 #: ../../BNG.rst:578
 msgid "When Oracle of Bones enters the battlefield, if tribute wasn't paid, you may cast an instant or sorcery card from your hand without paying its mana cost."
 msgstr ""
+"Kiedy Wyrocznia Kości wchodzi na pole walki, jeśli danina nie została "
+"zapłacona, możesz rzucić czar sztuczki lub obrzędu z twojej ręki bez "
+"płacenia kosztu many."
 
 # 2eb099fd549b486c8e7d95af5c4a1913
 #: ../../BNG.rst:585
@@ -1489,6 +1648,9 @@ msgstr ""
 #: ../../BNG.rst:584
 msgid "Enchanted creature has \\\"|tap|: Scry 1, then draw a card.\\\" (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
 msgstr ""
+"Zauroczony stwór ma \\\"|tap|: Wróż 1, następnie dobierz kartę.\\\" (By wróżyć "
+"1, spójrz na wierzchnią kartę twojej biblioteki, następnie możesz położyć "
+"ową kartę na spodzie twojej biblioteki.)"
 
 # 98a73279ca4642bd83df4282560c324a
 #: ../../BNG.rst:589
@@ -1509,6 +1671,8 @@ msgstr ""
 #: ../../BNG.rst:596
 msgid "When Ornitharch enters the battlefield, if tribute wasn't paid, put two 1/1 white Bird creature tokens with flying onto the battlefield."
 msgstr ""
+"Kiedy Ornitharch wchodzi na pole walki, jeśli danina nie została zapłacona, "
+"połóż na polu walki dwa żetony białego stwora Ptak 1/1 z lataniem."
 
 # 9d664d171336432abf8d8b999a7ea96c
 #: ../../BNG.rst:601
@@ -1529,6 +1693,11 @@ msgstr ""
 #: ../../BNG.rst:604
 msgid "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Shuffle your library, then scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Przeszukaj twoją bibliotekę w poszukiwaniu do dwóch kart zwykłych lądów, "
+"ujawnij owe karty i połóż jedną na polu walki jako zaznaczoną, a drugą dołóż "
+"do twojej ręki. Przetasuj twoją bibliotekę, następnie wróż 1. (Spójrz na "
+"wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na spodzie "
+"twojej biblioteki.)"
 
 # 4271116765d64975a9b6b827da7e6541
 #: ../../BNG.rst:609
@@ -1549,6 +1718,8 @@ msgstr ""
 #: ../../BNG.rst:614
 msgid "When Pharagax Giant enters the battlefield, if tribute wasn't paid, Pharagax Giant deals 5 damage to each opponent."
 msgstr ""
+"Kiedy Gigant z Pharagax wchodzi na pole walki, jeśli danina nie została "
+"zapłacona, Gigan z Pharagax zadaje 5 obrażeń każdemu przeciwnikowi."
 
 # 85b34c94279b492bb6b9a6481f51e11f
 #: ../../BNG.rst:623
@@ -1643,12 +1814,12 @@ msgstr ""
 # 275953a0e92d4b109ae2603740f2c960
 #: ../../BNG.rst:661
 msgid "Reap What Is Sown"
-msgstr ""
+msgstr "Reap What Is Sown (Zbierz, Co Zasiane)"
 
 # 4707e933721b48518a3381ce89a25b00
 #: ../../BNG.rst:660
 msgid "Put a +1/+1 counter on each of up to three target creatures."
-msgstr ""
+msgstr "Połóż znacznik +1/+1 na każdym z najwyżej trzech wskazanych stworów."
 
 # 3d146ca453c04bdeb4f0011ca77648ef
 #: ../../BNG.rst:665
@@ -1678,7 +1849,7 @@ msgstr ""
 # 5a42e906e99045d8a42e3e62f1801af0
 #: ../../BNG.rst:672
 msgid "Exile target artifact or enchantment."
-msgstr ""
+msgstr "Wypędź wskazany artefakt lub urok."
 
 # a9bb845bbaf1475baeaf45a0e00a8d8d
 #: ../../BNG.rst:677
@@ -1688,7 +1859,7 @@ msgstr ""
 # 5ca21d699a8b43f2b3838132b05049a4
 #: ../../BNG.rst:676
 msgid "Target creature gets +2/+0 and gains first strike until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+0 oraz pierwszy cios."
 
 # cf772670a9014679821017b296b86750
 #: ../../BNG.rst:681
@@ -1699,16 +1870,22 @@ msgstr ""
 #: ../../BNG.rst:680
 msgid "You draw X cards and you lose X life, where X is your devotion to black. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)"
 msgstr ""
+"Dobierasz X kart i tracisz X życia, gdzie X jest twoim kultem czarnego. "
+"(Każdy symbol |mana_b| w kosztach many permanentów, którymi władasz, wlicza "
+"się do twojego kultu czarnego.)"
 
 # 8ca8fc0a0c6945b292afa43170c29a7c
 #: ../../BNG.rst:685
 msgid "Satyr Firedancer"
-msgstr ""
+msgstr "Satyr Firedancer (Satyr Tancerz Ognia)"
 
 # 53381253a38646ddbbb966e392430fee
 #: ../../BNG.rst:684
 msgid "Whenever an instant or sorcery spell you control deals damage to an opponent, Satyr Firedancer deals that much damage to target creature that player controls."
 msgstr ""
+"Ilekroć czar sztuczki lub obrzędu, którym władasz, zadaje obrażenia "
+"przeciwnikowi, Satyr Tancerz Ognia zadaje tyle samo obrażeń wskazanemu "
+"stworowi władanemu przez owego gracza."
 
 # 58c56280ceca4b61a0e8b3d782560c46
 #: ../../BNG.rst:691
@@ -1754,6 +1931,9 @@ msgstr ""
 #: ../../BNG.rst:706
 msgid "Scouring Sands deals 1 damage to each creature your opponents control. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Scouring Sands zadaje 1 obrażenie każdemu stworowi władanemu przez twoich "
+"przeciwników. Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz "
+"położyć ową kartę na spodzie twojej biblioteki.)"
 
 # 427bdfc59b4241b3a691781a15eb3e27
 #: ../../BNG.rst:711
@@ -1768,17 +1948,19 @@ msgstr ""
 # deb11e4ff537492eaf156a0757561713
 #: ../../BNG.rst:717
 msgid "Servant of Tymaret"
-msgstr ""
+msgstr "Servant of Tymaret (Sługa Tymareta)"
 
 # bdc9b7d0a57541829ba63ccf739c1eef
 #: ../../BNG.rst:714
 msgid "Inspired — Whenever Servant of Tymaret becomes untapped, each opponent loses 1 life. You gain life equal to the life lost this way."
 msgstr ""
+"Natchniony — Ilekroć Sługa Tymareta zostaje odznaczony, każdy przeciwnik "
+"traci 1 życie. Zyskujesz życie równe życiu straconemu w ten sposób."
 
 # 31a0d557a79b4eea9fe469c4d3020c67
 #: ../../BNG.rst:716
 msgid "|mana_2| |mana_b|: Regenerate Servant of Tymaret."
-msgstr ""
+msgstr "|mana_2| |mana_b|: Zregeneruj Sługę Tymareta."
 
 # bd46e97747634f29ac73fbccb7ae2b28
 #: ../../BNG.rst:721
@@ -1809,6 +1991,8 @@ msgstr ""
 #: ../../BNG.rst:732
 msgid "When Shrike Harpy enters the battlefield, if tribute wasn't paid, target opponent sacrifices a creature."
 msgstr ""
+"Kiedy Harpia Dzierzbowa wchodzi na pole walki, jeśli danina nie została "
+"zapłacona, wskazany przeciwnik poświęca stwora."
 
 # 82661c9abd8d4f5b890a55246656d869
 #: ../../BNG.rst:739
@@ -1829,16 +2013,21 @@ msgstr ""
 #: ../../BNG.rst:746
 msgid "When Siren of the Fanged Coast enters the battlefield, if tribute wasn't paid, gain control of target creature."
 msgstr ""
+"Kiedy Syrena z Wybrzeża Kłów wchodzi na pole walki, jeśli danina nie została "
+"zapłacona, przejmij kontrolę nad wskazanym stworem."
 
 # e49e4f51bb304a598673d08e5d95af51
 #: ../../BNG.rst:753
 msgid "Siren of the Silent Song"
-msgstr ""
+msgstr "Siren of the Silent Song (Syrena Milczącej Pieśni)"
 
 # 21aa7806b1cd4593b3f1d43cd673ab76
 #: ../../BNG.rst:752
 msgid "Inspired — Whenever Siren of the Silent Song becomes untapped, each opponent discards a card, then puts the top card of his or her library into his or her graveyard."
 msgstr ""
+"Natchniony — Ilekroć Syrena Milczącej Pieśni zostaje odznaczona, każdy "
+"przeciwnik odrzuca kartę, następnie kładzie wierzchnią kartę swojej "
+"biblioteki do swojego cmentarza."
 
 # bcf7fc2f8afe43908755cb6a4aba0a30
 #: ../../BNG.rst:759
@@ -1869,6 +2058,8 @@ msgstr ""
 #: ../../BNG.rst:768
 msgid "When Snake of the Golden Grove enters the battlefield, if tribute wasn't paid, you gain 4 life."
 msgstr ""
+"Kiedy Wąż ze Złotego Zagajnika wchodzi na pole walki, jeśli danina nie "
+"została zapłacona, zyskujesz 4 życia."
 
 # 047ea1433f554461a842f1041a559898
 #: ../../BNG.rst:775
@@ -1879,6 +2070,7 @@ msgstr ""
 #: ../../BNG.rst:774
 msgid "Inspired — Whenever Sphinx's Disciple becomes untapped, draw a card."
 msgstr ""
+"Natchniony — Ilekroć Sphinx's Disciple zostaje odznaczony, dobierz kartę."
 
 # 6e3f2e98270f4c2c8a1aba44b26e9c75
 #: ../../BNG.rst:779
@@ -1899,6 +2091,9 @@ msgstr ""
 #: ../../BNG.rst:782
 msgid "Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_3| |mana_b| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
+"nie jest dołączona do stwora.)"
 
 # 700a7f24a6cf4a58939c4de4fad48297
 #: ../../BNG.rst:784
@@ -1914,6 +2109,8 @@ msgstr ""
 #: ../../BNG.rst:790
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color to your mana pool."
 msgstr ""
+"|tap|, zaznacz niezaznaczonego stwora, którym władasz: Dodaj jedną manę "
+"dowolnego koloru do twojej puli many."
 
 # 42b05fb4fcea45b6a9bf1ab1aee8d7ce
 #: ../../BNG.rst:797
@@ -1924,6 +2121,8 @@ msgstr ""
 #: ../../BNG.rst:796
 msgid "|mana_1| |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"|mana_1| |mana_u|: Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # eb5cb4f47ba14e3cbde04e9d95930899
 #: ../../BNG.rst:807
@@ -1949,6 +2148,10 @@ msgstr ""
 #: ../../BNG.rst:810
 msgid "Tap up to two target creatures. Those creatures don't untap during their controllers' next untap steps. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Zaznacz do dwóch wskazanych stworów. Owe stwory nie odznaczą się w "
+"najbliższym kroku odznaczania swoich władców. Wróż 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
+"biblioteki.)"
 
 # 58eebcb26dc64a529b7292086719208b
 #: ../../BNG.rst:817
@@ -1968,17 +2171,20 @@ msgstr ""
 # 301958970b04469ba7073cc562583dc8
 #: ../../BNG.rst:829
 msgid "Temple of Enlightenment"
-msgstr ""
+msgstr "Temple of Enlightenment (Świątynia Oświecenia)"
 
 # 7c4876bccf344fae850ad5f79843a225
 #: ../../BNG.rst:824
 msgid "Temple of Enlightenment enters the battlefield tapped."
-msgstr ""
+msgstr "Świątynia Oświecenia wchodzi na pole walki zaznaczona."
 
 # e43902eacf5243ed95714f2313a430f2
 #: ../../BNG.rst:826
 msgid "When Temple of Enlightenment enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy Świątynia Oświecenia wchodzi na pole walki, wróż 1. (Spójrz na "
+"wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na spodzie "
+"twojej biblioteki.)"
 
 # 59dbde6caef54c9882ee8de59b74285b
 #: ../../BNG.rst:828
@@ -1988,17 +2194,20 @@ msgstr ""
 # 0714d35b16b34b20bc27dde8f11a5078
 #: ../../BNG.rst:837
 msgid "Temple of Malice"
-msgstr ""
+msgstr "Temple of Malice (Świątynia Złośliwości)"
 
 # c480987f8be44e6d8873a6e90cda6c4e
 #: ../../BNG.rst:832
 msgid "Temple of Malice enters the battlefield tapped."
-msgstr ""
+msgstr "Świątynia Złośliwości wchodzi na pole walki zaznaczona."
 
 # 739718a7d265455d8c7a0db3031d6ce7
 #: ../../BNG.rst:834
 msgid "When Temple of Malice enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy Świątynia Złośliwości wchodzi na pole walki, wróż 1. (Spójrz na "
+"wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na spodzie "
+"twojej biblioteki.)"
 
 # 0f3249c8d25e4c3889b9ab4e27a7c087
 #: ../../BNG.rst:836
@@ -2008,17 +2217,20 @@ msgstr ""
 # 8f015b9e9e80467280cdf3cb06722dac
 #: ../../BNG.rst:845
 msgid "Temple of Plenty"
-msgstr ""
+msgstr "Temple of Plenty (Świątynia Dostatku)"
 
 # 6914742025a945fcad1df6a1d0092b5f
 #: ../../BNG.rst:840
 msgid "Temple of Plenty enters the battlefield tapped."
-msgstr ""
+msgstr "Świątynia Dostatku wchodzi na pole walki zaznaczona."
 
 # 79fe9ae300354fe0b59f45ac7e0ce58f
 #: ../../BNG.rst:842
 msgid "When Temple of Plenty enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy Świątynia Dostatku wchodzi na pole walki, wróż 1. (Spójrz na "
+"wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na spodzie "
+"twojej biblioteki.)"
 
 # d4afa495da1e406d96538697e0149979
 #: ../../BNG.rst:844
@@ -2044,6 +2256,8 @@ msgstr ""
 #: ../../BNG.rst:856
 msgid "When Thunder Brute enters the battlefield, if tribute wasn't paid, it gains haste until end of turn."
 msgstr ""
+"Kiedy Grzmotodrab wchodzi na pole walki, jeśli danina nie została zapłacona, "
+"sykuje on pośpiech do końca tury."
 
 # 6b0c7ec5455546b49984fef208ec457f
 #: ../../BNG.rst:863
