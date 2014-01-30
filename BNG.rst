@@ -1,6 +1,7 @@
 .. Born of the Gods auto-download
 .. include:: symbols.rst
 
+
 Born of the Gods
 ================
 
@@ -155,9 +156,7 @@ Cyclops of One-Eyed Pass
 
 
 Dawn to Dusk
-    Choose one or both — Return target enchantment card from your graveyard to your hand
-
-     and/or destroy target enchantment.
+    Choose one or both — Return target enchantment card from your graveyard to your hand; and/or destroy target enchantment.
 
 
 Deepwater Hypnotist

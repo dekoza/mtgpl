@@ -30,9 +30,9 @@
     Dodano polskie żetony stworów oraz lądy.
 
 2013-09-28
-    Dodanie kart z decku Face the Hydra wraz z instrukcją gry.
+    Dodanie kart z decku :doc:`Face the Hydra<THS_hydra>` wraz z instrukcją gry.
     
-    Dodano uzasadnienie tłumaczeń określonych słów kluczowych i ogólnej koncepcji projektu.
+    Dodano :doc:`uzasadnienie<rationale>` tłumaczeń określonych słów kluczowych i ogólnej koncepcji projektu.
 
 2013-09-17
     Zakończenie tłumaczenia :doc:`THS<THS>`.

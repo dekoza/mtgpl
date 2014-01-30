@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # Dominik <Kozaczko>, 2013.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.9\n"
@@ -12,12 +12,11 @@ msgstr ""
 "PO-Revision-Date: 2013-11-11 22:56+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: polski <>\n"
-"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
 "X-POOTLE-MTIME: 1384207017.194412\n"
 
@@ -52,8 +51,8 @@ msgid ""
 "outside their local play area."
 msgstr ""
 "Strona ta zawiera zasady wspólne dla większości grup. Lokalne społeczności "
-"często grają według własnych zasad - i jest to zalecane - jednakże niniejszy "
-"konsensusowy zbiór zasad istnieje po to, by gracze wiedzieli, czego się "
+"często grają według własnych zasad - i jest to zalecane - jednakże niniejszy"
+" konsensusowy zbiór zasad istnieje po to, by gracze wiedzieli, czego się "
 "spodziewać dołączając do gry poza swoją lokalną grupą."
 
 # 5c56ff9469af49eeb6f5b1cc8cef167f
@@ -87,8 +86,8 @@ msgstr ""
 # 773ca42447964cf4a884a30e84d8b9f0
 #: ../../commander.rst:22
 msgid ""
-"House rules or \"fair play\" exceptions are always encouraged if they result "
-"in more fun for the local community."
+"House rules or \"fair play\" exceptions are always encouraged if they result"
+" in more fun for the local community."
 msgstr ""
 "Zaleca się stosowanie zasad \"fair play\" oraz lokalnych zwyczajów jeśli "
 "skutkują one większą frajdą dla lokalnej społeczności."
@@ -101,7 +100,8 @@ msgstr "Zasady budowy talii"
 # 0da3c306d9c545da8d1933e4787528df
 #: ../../commander.rst:30
 msgid ""
-"Players must choose a legendary creature as the \"Commander\" for their deck."
+"Players must choose a legendary creature as the \"Commander\" for their "
+"deck."
 msgstr "Gracze muszą wybrać legendarnego stwora jako \"Dowódcę\" swojej talii."
 
 # 4c844af3d90e4b3091bf1873d2160e38
@@ -122,8 +122,8 @@ msgid ""
 "The Commander is the principle around which the deck is built. It is more "
 "easily available than other cards in the deck, and decks will ususally want "
 "to leverage their Commander's strengths in their plans. It is not, however, "
-"guarenteed to be available at every point in the game so EDH decks should be "
-"able to function without it for a time."
+"guarenteed to be available at every point in the game so EDH decks should be"
+" able to function without it for a time."
 msgstr ""
 
 # 9f16eca9cf3e410e8a131786f6f9b3b5
@@ -135,9 +135,9 @@ msgstr "Z historycznych powodów dowódca talii zwany jest także \"Generałem\"
 # 270ef71e6e054ea2aacbf9e9915dde9e
 #: ../../commander.rst:38
 msgid ""
-"A card's *colour identity* is its colour plus the colour of any mana symbols "
-"in the card's rules text. A card's colour identity is established before the "
-"game begins, and cannot be changed by game effects."
+"A card's *colour identity* is its colour plus the colour of any mana symbols"
+" in the card's rules text. A card's colour identity is established before "
+"the game begins, and cannot be changed by game effects."
 msgstr ""
 "*Tożsamość kolorystyczna* karty to jej kolor plus kolory wszystkich symboli "
 "many użytych w zasadach karty. Owa tożsamość jest ustalana zanim gra się "
@@ -165,11 +165,11 @@ msgstr ""
 # b722bef806504e2abbeded62bf76ae38
 #: ../../commander.rst:43
 msgid ""
-"Lands whose type includes swamp, island, plains, forest and/or mountain (e."
-"g.: basic lands, shocklands, dual lands, Shadowmoor special-basics, etc) DO "
-"contain the corresponding mana symbol(s) as per CR 305.6. As such, while "
-"they are \"colourless\" they do have a colour identity and may not appear in "
-"a deck unless the Commander is of the appropriate identity."
+"Lands whose type includes swamp, island, plains, forest and/or mountain "
+"(e.g.: basic lands, shocklands, dual lands, Shadowmoor special-basics, etc) "
+"DO contain the corresponding mana symbol(s) as per CR 305.6. As such, while "
+"they are \"colourless\" they do have a colour identity and may not appear in"
+" a deck unless the Commander is of the appropriate identity."
 msgstr ""
 
 # 4249a8447da545afb21283335e63c01b
@@ -202,8 +202,8 @@ msgstr ""
 # 68bd9e9ffd254126af1dfc65c27e3bed
 #: ../../commander.rst:50
 msgid ""
-"A deck with :mtgtip:`Phelddagrif` (casting cost |mana_1| |mana_w| |mana_u| |"
-"mana_g|) as the Commander may not contain any cards whose colour identity "
+"A deck with :mtgtip:`Phelddagrif` (casting cost |mana_1| |mana_w| |mana_u| "
+"|mana_g|) as the Commander may not contain any cards whose colour identity "
 "includes red or black."
 msgstr ""
 
@@ -341,8 +341,8 @@ msgstr ""
 # ddfd29fe5b91465f9016d33033af17de
 #: ../../commander.rst:89
 msgid ""
-"Players announce their choice of Commander and move that card to the command "
-"zone."
+"Players announce their choice of Commander and move that card to the command"
+" zone."
 msgstr ""
 
 # f793fcbb0a5043058d094b5a56369235
@@ -362,14 +362,6 @@ msgstr "Każdy gracz dobiera siedem kart do ręki."
 msgid ""
 "Players may mulligan, using the modified :ref:`Partial Paris<partial-paris-"
 "mulligan>` method."
-msgstr ""
-
-# 8133a07c967b4d5fb34e7ad96d59f2e9
-#: ../../commander.rst:94
-msgid ""
-"Being a Commander is not a characteristic [MTG CR109.3], it is a property of "
-"the card. As such, \"Commander-ness\" cannot be copied or overwritten by "
-"continuous effects, and does not change with control of the card."
 msgstr ""
 
 # 155c9114093a43d8a5c84013c09afb7c
@@ -434,8 +426,8 @@ msgstr ""
 # 776947cb72514197ab5e051689113190
 #: ../../commander.rst:106
 msgid ""
-"A player can lose if he or she is dealt 21 points of combat damage by his or "
-"her own Commander (ie: under someone else's control)."
+"A player can lose if he or she is dealt 21 points of combat damage by his or"
+" her own Commander (ie: under someone else's control)."
 msgstr ""
 
 # fc3f29f598ae4118b3c2f062555f1c4c
@@ -486,8 +478,8 @@ msgstr ""
 #: ../../commander.rst:117
 msgid ""
 "If a card is put into the exile zone face down from anywhere, and a player "
-"is allowed to look at that card in exile, the player must immediately do so. "
-"If it's a commander owned by another player, the player that looked at it "
+"is allowed to look at that card in exile, the player must immediately do so."
+" If it's a commander owned by another player, the player that looked at it "
 "turns it face up and puts it into the command zone."
 msgstr ""
 
@@ -499,20 +491,20 @@ msgstr ""
 # 70c2ec8276f9464e8a920747db3ca01c
 #: ../../commander.rst:120
 msgid ""
-"Commanders are subject to the Legend rule; a player cannot control more than "
-"one legend with the same name."
+"Commanders are subject to the Legend rule; a player cannot control more than"
+" one legend with the same name."
 msgstr ""
 
 # ba1ba4e58729476f8ce21f3966598100
 #: ../../commander.rst:121
 msgid ""
-"Abilities which refer to other cards owned outside the game (:mtgtip:"
-"`W<Burning Wish>`:mtgtip:`i<Cunning Wish>`:mtgtip:`s<Death Wish>`:mtgtip:"
-"`h<Glittering Wish>`:mtgtip:`e<Golden Wish>`:mtgtip:`s<Living Wish>`, :"
-"mtgtip:`Spawnsire`, :mtgtip:`Research<Research // Development>`, :mtgtip:"
-"`Ring of Ma'ruf`) do not function in Commander unless the optional sideboard "
-"rule is in use. If sideboards are used, wishes and similar cards may "
-"retrieve sideboard cards."
+"Abilities which refer to other cards owned outside the game "
+"(:mtgtip:`W<Burning Wish>`:mtgtip:`i<Cunning Wish>`:mtgtip:`s<Death "
+"Wish>`:mtgtip:`h<Glittering Wish>`:mtgtip:`e<Golden Wish>`:mtgtip:`s<Living "
+"Wish>`, :mtgtip:`Spawnsire`, :mtgtip:`Research<Research // Development>`, "
+":mtgtip:`Ring of Ma'ruf`) do not function in Commander unless the optional "
+"sideboard rule is in use. If sideboards are used, wishes and similar cards "
+"may retrieve sideboard cards."
 msgstr ""
 
 # 95756ed90601493b827dda1d466de8ff
@@ -524,9 +516,9 @@ msgstr ""
 #: ../../commander.rst:128
 msgid ""
 "Because Commander games are long and usually not played in multigame "
-"matches, the format uses a modified mulligan rule designed to alleviate mana-"
-"light hands without significantly increasing the odds of finding individual "
-"cards. This is also known as the \"Brittany\" mulligan rule."
+"matches, the format uses a modified mulligan rule designed to alleviate "
+"mana-light hands without significantly increasing the odds of finding "
+"individual cards. This is also known as the \"Brittany\" mulligan rule."
 msgstr ""
 
 # 2ad731a519f64f89a0a881a15c05eb66
@@ -586,12 +578,12 @@ msgstr ""
 # 24613fde2ba640db879334374d7a8d43
 #: ../../commander.rst:145
 msgid ""
-"When running a competitive commander event, the recommended list of cards to "
-"avoid (under the primary deckbuilding rules) is one place to start. It is "
-"not however, nor is it intended to be, comprehensive. There are a great many "
-"uninteresting uses for the cards not listed there, and additional structure "
-"is required to keep degeneracy [#f1]_ in check. To that end, a selection of "
-"optional rules are provided here for prospective TOs or players who find "
+"When running a competitive commander event, the recommended list of cards to"
+" avoid (under the primary deckbuilding rules) is one place to start. It is "
+"not however, nor is it intended to be, comprehensive. There are a great many"
+" uninteresting uses for the cards not listed there, and additional structure"
+" is required to keep degeneracy [#f1]_ in check. To that end, a selection of"
+" optional rules are provided here for prospective TOs or players who find "
 "their playgroup can't find a balance."
 msgstr ""
 
@@ -623,8 +615,7 @@ msgstr ""
 
 # b4b23658f47c442d9092dba4bb4716ec
 #: ../../commander.rst:155
-msgid ""
-"Any cards not played as part of the deck may be retrieved by \"wishes\"."
+msgid "Any cards not played as part of the deck may be retrieved by \"wishes\"."
 msgstr ""
 
 # 1cc01a50b99f4bdeb0b9feb1318cafb0
@@ -635,8 +626,8 @@ msgstr ""
 # 186d07734ce44b2a80d9190c43c423f4
 #: ../../commander.rst:160
 msgid ""
-"Highly tuned threats piloted by skilled opponents mandate efficient answers. "
-"The minimum number of response cards required to ensure they are available "
+"Highly tuned threats piloted by skilled opponents mandate efficient answers."
+" The minimum number of response cards required to ensure they are available "
 "in the early turns can easily overwhelm the majority of an EDH deck's "
 "building space."
 msgstr ""
@@ -646,8 +637,8 @@ msgstr ""
 msgid ""
 "Sideboards allow players to respond to the \"best\" strategies in a timely "
 "fashion . They should be strongly considered as a necessary defense against "
-"brokenness and degeneracy in an environment where no gentlemans agreement on "
-"style of play exists."
+"brokenness and degeneracy in an environment where no gentlemans agreement on"
+" style of play exists."
 msgstr ""
 
 # aa07a8453d294859a8608c2a602a4138
@@ -659,8 +650,8 @@ msgstr ""
 #: ../../commander.rst:167
 msgid ""
 "Instead of a \"last man standing\" win condition, organizers are encouraged "
-"to use additional or alternate ways to win. Prizes can be awarded for things "
-"like:"
+"to use additional or alternate ways to win. Prizes can be awarded for things"
+" like:"
 msgstr ""
 
 # ff7d196c58d547d09f3c72a4b6e46f2c
@@ -691,8 +682,8 @@ msgstr ""
 # fb01afe4b73146478e227698adf3304b
 #: ../../commander.rst:175
 msgid ""
-"By encouraging players to play for disparate, interesting goals everyone has "
-"a more rewarding, social experience."
+"By encouraging players to play for disparate, interesting goals everyone has"
+" a more rewarding, social experience."
 msgstr ""
 
 # 3988e75b40664ad1a0de1856f261bcd4
@@ -709,8 +700,8 @@ msgstr ""
 #: ../../commander.rst:182
 msgid ""
 "An organizer who desires a tournament which better approximates normal "
-"commander games should reward players for some balance of winning and social "
-"play. One way to achieve this is"
+"commander games should reward players for some balance of winning and social"
+" play. One way to achieve this is"
 msgstr ""
 
 # e09d1c01c5b4454a849460189aab6062
@@ -723,7 +714,8 @@ msgstr ""
 # 858aaba3b8704dc9af7e82bfbe1f6f23
 #: ../../commander.rst:185
 msgid ""
-"Award two points for being the last player alive, and one point for each vote"
+"Award two points for being the last player alive, and one point for each "
+"vote"
 msgstr ""
 
 # c4d97ad6967845a980bbbe989e4aecea
@@ -742,9 +734,9 @@ msgid ""
 "A \"League\" consists of a regular group of players who frequently play "
 "together using the same decks. No two players in a league game may have the "
 "same Commander. Within a given league, Commander are allocated first-come, "
-"first-serve and are preserved between meetings/games. No player may have, in "
-"his or her deck, the Commander of any other player in the game; it should be "
-"replaced with some other card before the game begins."
+"first-serve and are preserved between meetings/games. No player may have, in"
+" his or her deck, the Commander of any other player in the game; it should "
+"be replaced with some other card before the game begins."
 msgstr ""
 
 # 892327408eb644c3ae2d331e759ae4d9
@@ -755,15 +747,15 @@ msgstr ""
 # 31ee51361a6c4222ac1cf57f29889e31
 #: ../../commander.rst:199
 msgid ""
-"All card names, artwork, and intrinsic Magic the Gathering game concepts are "
-"copyright Wizards of the Coast."
+"All card names, artwork, and intrinsic Magic the Gathering game concepts are"
+" copyright Wizards of the Coast."
 msgstr ""
 
 # 8933b8c510b74bdf9799d577198b9e1a
 #: ../../commander.rst:200
 msgid ""
-"\"Magic:The Gathering - Commander\" is copyright Wizards of the Coast, 2010. "
-"Used with permission."
+"\"Magic:The Gathering - Commander\" is copyright Wizards of the Coast, 2010."
+" Used with permission."
 msgstr ""
 
 # 6f97bc23111e4cf49f770f1487832176
@@ -774,8 +766,8 @@ msgstr ""
 # 3e36251586244e6d8aeb00eaed99bcc0
 #: ../../commander.rst:203
 msgid ""
-"created and copyright (2005-2013) by :email:`Gavin Duggan<edhforum@gmail."
-"com>`"
+"created and copyright (2005-2013) by :email:`Gavin "
+"Duggan<edhforum@gmail.com>`"
 msgstr ""
 
 # c566d74f8f2e4961a9318441500445d8
@@ -812,3 +804,17 @@ msgid ""
 "the variable nature of the problem each game presents, degenerate plays are "
 "those which take away from the variety and unpredictable nature of the games"
 msgstr ""
+
+#: ../../commander.rst:94
+msgid ""
+"Being a Commander is not a characteristic [:ref:`MTG CR 109.3 "
+"<mtgcr-109-3>`], it is a property of the card. As such, \"Commander-ness\" "
+"cannot be copied or overwritten by continuous effects, and does not change "
+"with control of the card."
+msgstr ""
+
+#~ msgid ""
+#~ "Being a Commander is not a characteristic [MTG CR109.3], it is a property of"
+#~ " the card. As such, \"Commander-ness\" cannot be copied or overwritten by "
+#~ "continuous effects, and does not change with control of the card."
+#~ msgstr ""

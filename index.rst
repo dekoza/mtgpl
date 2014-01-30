@@ -23,7 +23,7 @@ Tłumaczenie dodatków
 Standard
 --------
 
-* :doc:`Born of the Gods<BNG>` (0%)
+* :doc:`Born of the Gods<BNG>` (100%)
 * :doc:`Theros<THS>` (100%)
 * :doc:`Magic 2014 Core Set<M14>` (100%)
 * :doc:`Dragons' Maze<DGM>` (100%)
