@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-30 11:42+0100\n"
-"PO-Revision-Date: 2014-01-30 12:03+0200\n"
+"PO-Revision-Date: 2014-01-30 11:58+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -16,8 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
-"X-POOTLE-MTIME: 1391073124.245068\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1391079514.66811\n"
 
 # 002c0f8b22fd47fca10fa6654a5b2208
 # 5aa88d8ba2cd46a19fbee225ea34c30e
@@ -1266,10 +1266,12 @@ msgstr ""
 "jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
 "nie jest dołączona do stwora.)"
 
-# 1b3f107b362b4183bca2c6c379d639b2
+# 8d2a2b1922a6435097c9125129f84a48
 #: ../../BNG.rst:340
 msgid "Double strike (This creature deals both first-strike and regular combat damage.)"
 msgstr ""
+"Podwójny cios (Ten stwór zadaje obrażenia bojowe zarówno jako pierwszy cios "
+"oraz normalnie.)"
 
 # feb7a94f26344a7bac6526486c567539
 # b0844f44021d462ba6cabdb65e2d99ed
@@ -1330,17 +1332,17 @@ msgstr ""
 msgid "Gorgon's Head"
 msgstr "Gorgon's Head (Głowa Gorgony)"
 
-# beffd78c4c5247e28cbb3cd446f83023
+# 999d06557df04045b1f4e982261cf0b1
 #: ../../BNG.rst:358
 msgid "Equipped creature has deathtouch."
-msgstr ""
+msgstr "Wyposażony stwór ma dotyk śmierci."
 
-# 6f8bbd1746d246b282cea0a9e0efef83
-# 5be639edbdf441a79ae1ba5922a01e6b
+# 401d1fcdf0bc4ec3801882a820a29dd2
+# 2f24b4ad9746441bb9185973240a83d2
 #: ../../BNG.rst:360
 #: ../../BNG.rst:756
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 # 37f77e6d39d146718f17e05ca1547aa9
 # ea5663049ba7421795424c1acbb46445
@@ -2101,15 +2103,18 @@ msgstr ""
 "Kiedy Ornitharch wchodzi na pole walki, jeśli danina nie została zapłacona, "
 "połóż na polu walki dwa żetony białego stwora Ptak 1/1 z lataniem."
 
-# ff554d8be9fd4596add7f8eb409682b2
+# 9d664d171336432abf8d8b999a7ea96c
 #: ../../BNG.rst:599
 msgid "Pain Seer"
-msgstr ""
+msgstr "Pain Seer (Wróżbita Bólu)"
 
-# 4a3128171b7143fc872ad271fb369f36
+# 82f9c9ee372f4c24a80f57c52039931e
 #: ../../BNG.rst:598
 msgid "Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's converted mana cost."
 msgstr ""
+"Natchniony — Ilekroć Wróżbita Bólu zostaje odznaczony, ujawnij górną kartę "
+"twojej biblioteki i dołóż ją do twojej ręki. Tracisz życie równe łącznemu "
+"kosztowi many owej karty."
 
 # 15796e0ab3ca4b5d8d215892f3d5ea09
 # 704f15e401174c39bb74561d26763e53
@@ -2162,15 +2167,20 @@ msgstr ""
 msgid "Phenax, God of Deception"
 msgstr "Phenax, God of Deception (Phenax, Bóg Oszustwa)"
 
-# 658b5cd6e01145ce8d19e4e63fcc503a
+# 0030c64b0f194a8f8bfbe450d8193349
 #: ../../BNG.rst:618
 msgid "As long as your devotion to blue and black is less than seven, Phenax isn't a creature."
 msgstr ""
+"Dopóki twój kult czarnego i niebieskiego jest mniejszy niż siedem, Phenax "
+"nie jest stworem."
 
-# 477beb67045646a085ce5b5e62fc097f
+# 97ad47456d2b4a58a4bc3185f583cb00
 #: ../../BNG.rst:620
 msgid "Creatures you control have \\\"|tap|: Target player puts the top X cards of his or her library into his or her graveyard, where X is this creature's toughness.\\\""
 msgstr ""
+"Stwory, którymi władasz, mają \\\"|tap|: Wskazany gracz wkłada X wierzchnich "
+"kart swojej biblioteki do swojego cmentarza, gdzie X jest wytrzymałością "
+"tego stwora.\\\""
 
 # 3144f73ef5e742e9bf84075fc947cd96
 # 6069b194eab24370be181fcbf18799ba
@@ -2438,15 +2448,17 @@ msgstr ""
 "przeciwników. Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz "
 "położyć ową kartę na spodzie twojej biblioteki.)"
 
-# 3e5ca62487794aa7af4cedd77309e4f1
+# 427bdfc59b4241b3a691781a15eb3e27
 #: ../../BNG.rst:709
 msgid "Searing Blood"
-msgstr ""
+msgstr "Searing Blood (Paląca Krew)"
 
-# f98f60b84699442da1f500c0fd9f90a3
+# f07f79a2a71a4ef5802b25a66721228b
 #: ../../BNG.rst:708
 msgid "Searing Blood deals 2 damage to target creature. When that creature dies this turn, Searing Blood deals 3 damage to the creature's controller."
 msgstr ""
+"Paląca Krew zadaje 2 obrażenia wskazanemu stworowi. Jeśli ów stwór umrze w "
+"tej turze, Paląca Krew zadaje 3 obrażenia władcy owego stwora."
 
 # 92900fbc99664e52b0890ff50841d795
 # deb11e4ff537492eaf156a0757561713
@@ -2511,10 +2523,12 @@ msgstr ""
 msgid "Silent Sentinel"
 msgstr "Silent Sentinel"
 
-# 8acf5c104b0c4f92a3b34c7f41e40395
+# 39f6376abdbe45adac1803de4bcbb091
 #: ../../BNG.rst:736
 msgid "Whenever Silent Sentinel attacks, you may return target enchantment card from your graveyard to the battlefield."
 msgstr ""
+"Ilekroć Silent Sentinel atakuje, możesz przywrócić wskazaną kartę uroku z "
+"twojego cmentarza na pole walki."
 
 # 51aadac9a882402ebb646f5aec1eef06
 # 74bbabc8a88345dfb709658bfcea6311
@@ -2552,10 +2566,10 @@ msgstr ""
 msgid "Siren Song Lyre"
 msgstr "Siren Song Lyre"
 
-# 33ce29d7cd1f43ea8934cdbff88080c6
+# 317251bb01a34770a2ad257eb35aaf60
 #: ../../BNG.rst:754
 msgid "Equipped creature has \\\"|mana_2|, |tap|: Tap target creature.\\\""
-msgstr ""
+msgstr "Wyposażony stwór ma \\\"|mana_2|, |tap|: Zaznacz wskazanego stwora.\\\""
 
 # d0b3f786694c437db5fcc2bf6ab85753
 # 181b38b9eca2467f83e780b7ae738ec7

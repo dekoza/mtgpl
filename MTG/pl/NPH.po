@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-29 11:21+0100\n"
-"PO-Revision-Date: 2014-01-29 13:06+0200\n"
+"PO-Revision-Date: 2014-01-30 12:41+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1390997210.237615\n"
+"X-POOTLE-MTIME: 1391082081.559340\n"
 
 # d0f3a9d48318481798b3d1d601f23bd7
 #: ../../NPH.rst:5
@@ -254,6 +254,8 @@ msgstr ""
 #: ../../NPH.rst:940
 msgid "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)"
 msgstr ""
+"Zatruwanie (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
+"graczom w postaci znaczników zatrucia.)"
 
 # feacf3dd90fb415883452514fe155966
 #: ../../NPH.rst:72
@@ -861,7 +863,7 @@ msgstr ""
 # a489d12e66f54ac2821da001a5d7f126
 #: ../../NPH.rst:320
 msgid "Enchanted creature has infect."
-msgstr ""
+msgstr "Zauroczony stwór ma zatruwanie."
 
 # 3572d8fb05f84ac58affa51e1274ac2e
 #: ../../NPH.rst:322
@@ -1205,7 +1207,7 @@ msgstr ""
 # 991929f85d6145de891bcdf3c178d912
 #: ../../NPH.rst:468
 msgid "Creatures your opponents control lose infect."
-msgstr ""
+msgstr "Stwory władane przez twoich przeciwników tracą zatruwanie."
 
 # 27cdb51d6f6d421fa4dabf7e1bf06836
 #: ../../NPH.rst:475
@@ -1226,6 +1228,9 @@ msgstr ""
 #: ../../NPH.rst:478
 msgid "Whenever an opponent loses life, that player puts that many cards from the top of his or her library into his or her graveyard. (Damage dealt by sources without infect causes loss of life.)"
 msgstr ""
+"Ilekroć przeciwnik traci życie, ów gracz przekłada tyle kart z wierzchu "
+"swojej biblioteki do swojego cmentarza. (Obrażenia zadane przez źródła bez "
+"zatruwania powodują utratę życia.)"
 
 # a6521462df4042858922f3f58f0a5bb2
 #: ../../NPH.rst:483
@@ -1472,6 +1477,9 @@ msgstr ""
 #: ../../NPH.rst:596
 msgid "At the beginning of your upkeep, put a 1/1 green Insect creature token with infect onto the battlefield for each poison counter your opponents have."
 msgstr ""
+"Na początku twojego utrzymania za każdy znacznik zatrucia posiadany przez "
+"twoich przeciwników połóż na polu walki żeton zielonego stwora Owad 1/1 z "
+"zatruwaniem."
 
 # 923be5c6b8d14cff9293964beb6c46a2
 #: ../../NPH.rst:603
@@ -1487,6 +1495,9 @@ msgstr ""
 #: ../../NPH.rst:602
 msgid "As long as you have 0 or less life, all damage is dealt to you as though its source had infect. (Damage is dealt to you in the form of poison counters.)"
 msgstr ""
+"Dopóki masz 0 lub mniej życia, wszystkie obrażenia tobie zadawane są "
+"traktowane jakby ich źródło miało zatruwanie (Otrzymujesz obrażenia w "
+"postaci znaczników zatrucia.)"
 
 # 548ada0ec5ce40a59abac280f5f155a6
 #: ../../NPH.rst:609
@@ -2075,8 +2086,12 @@ msgstr ""
 
 # 2875dcb1f8f94e6c85e1d0b8d8ac2ae0
 #: ../../NPH.rst:898
+#, fuzzy
 msgid "Viridian Betrayers has infect as long as an opponent is poisoned. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)"
 msgstr ""
+"Viridian Betrayers ma zatruwanie dopóki przeciwnik jest zatruty. (Zadaje "
+"obrażenia stworom w postaci znaczników -1/-1, a graczom w postaci znaczników "
+"zatrucia.)"
 
 # 7d45e81f067e4208b5ca25990ef43395
 #: ../../NPH.rst:905
