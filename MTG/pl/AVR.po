@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-29 11:21+0100\n"
-"PO-Revision-Date: 2014-01-29 11:25+0200\n"
+"PO-Revision-Date: 2014-01-30 17:46+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -16,7 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1391100385.317960\n"
 
 # 6d9a62858a6045079f179f53b513973f
 #: ../../AVR.rst:5
@@ -31,7 +32,7 @@ msgstr ""
 # 3b2bbfb7434f4bb98a9fcf4c05d5da8e
 #: ../../AVR.rst:8
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 # 8bbaf471f8174f3d8e0b5ae5ca003904
 #: ../../AVR.rst:10
@@ -56,17 +57,17 @@ msgstr ""
 # 985a8c503d5a429c882b8b83cdb4f8e7
 #: ../../AVR.rst:21
 msgid "Alchemist's Apprentice"
-msgstr ""
+msgstr "Alchemist's Apprentice (Uczeń Alchemika)"
 
 # 917200ecb88642cb86c9950ee18bd3d3
 #: ../../AVR.rst:20
 msgid "Sacrifice Alchemist's Apprentice: Draw a card."
-msgstr ""
+msgstr "Poświęć Ucznia Alchemika: Dobierz kartę."
 
 # f596c5b211a0401d8ffc26b0bc82c6ce
 #: ../../AVR.rst:27
 msgid "Alchemist's Refuge"
-msgstr ""
+msgstr "Alchemist's Refuge (Szałas Alchemika)"
 
 # ab2be5d9435841c780458ee451d0dc1e
 # 71e417eff488475d8bd37600f7d0029a
@@ -79,22 +80,26 @@ msgstr ""
 #: ../../AVR.rst:926
 #: ../../AVR.rst:946
 msgid "|tap|: Add |mana_1| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_1| do twojej puli many."
 
 # f0f346ba4caa47a48346e11552068783
 #: ../../AVR.rst:26
 msgid "|mana_g| |mana_u|, |tap|: You may cast nonland cards this turn as though they had flash."
 msgstr ""
+"|mana_g| |mana_u|, |tap|: Możesz rzucić nielądowe karty w tej turze tak, "
+"jakby miały błysk."
 
 # dc23f566430a4271b60bee0fa1564cb6
 #: ../../AVR.rst:31
 msgid "Amass the Components"
-msgstr ""
+msgstr "Amass the Components (Zgromadź Składniki)"
 
 # 84e0748a66d84699bb4057dbf75a2029
 #: ../../AVR.rst:30
 msgid "Draw three cards, then put a card from your hand on the bottom of your library."
 msgstr ""
+"Dobierz trzy karty, następnie połóż kartę z twojej ręki na spodzie twojej "
+"biblioteki."
 
 # 38b528f2cddf4c67bd40bc65e0efd64a
 #: ../../AVR.rst:37
@@ -140,7 +145,7 @@ msgstr ""
 #: ../../AVR.rst:916
 #: ../../AVR.rst:1152
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 # 6c653e764a0b46baaf484901d0adac1f
 #: ../../AVR.rst:36
@@ -155,7 +160,7 @@ msgstr ""
 # cc76031a7b1749beb547df8fa8893fb3
 #: ../../AVR.rst:42
 msgid "Other nonblack creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne nieczarne stwory, którymi władasz, dostają +1/+1."
 
 # e9f9656812ee48a1916d395daac1841f
 #: ../../AVR.rst:44
@@ -182,27 +187,27 @@ msgstr ""
 # 4d2e924fb637415eb2e9d4f5dade9e35
 #: ../../AVR.rst:57
 msgid "Angelic Wall"
-msgstr ""
+msgstr "Angelic Wall (Anielska Ściana)"
 
 # 2259958810dd4c98a12caa80babc9edb
 #: ../../AVR.rst:54
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 # 73ad7a1a816845349d3d1e417c171a83
 #: ../../AVR.rst:61
 msgid "Angel's Mercy"
-msgstr ""
+msgstr "Angel's Mercy (Litość Anioła)"
 
 # 3db0cf41b2e640a7b8eaa4b3df1f7687
 #: ../../AVR.rst:60
 msgid "You gain 7 life."
-msgstr ""
+msgstr "Zyskujesz 7 życia."
 
 # 9bdd00e576cf4638b111368273b96e28
 #: ../../AVR.rst:65
 msgid "Angel's Tomb"
-msgstr ""
+msgstr "Angel's Tomb (Grobowiec Anioła)"
 
 # 776f946fcfbc4ffb84345f094623d107
 #: ../../AVR.rst:64
@@ -212,12 +217,14 @@ msgstr ""
 # 450228acb2874356a151f39274fa93e4
 #: ../../AVR.rst:69
 msgid "Appetite for Brains"
-msgstr ""
+msgstr "Appetite for Brains (Apetyt na Mózgi)"
 
 # 511b2edf08fd4c14802430982828251b
 #: ../../AVR.rst:68
 msgid "Target opponent reveals his or her hand. You choose a card from it with converted mana cost 4 or greater and exile that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz stamtąd kartę o łącznym "
+"koszcie many 4 lub większym i wypędzasz ową kartę."
 
 # 64f5c9edbfc4457e81630a19923e375f
 #: ../../AVR.rst:73
@@ -249,7 +256,7 @@ msgstr ""
 # b86e30a413a54147bc3e7e24aa6c9d42
 #: ../../AVR.rst:80
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 # fc8ca8740914412b933fc9cc633022c2
 #: ../../AVR.rst:82
@@ -264,12 +271,12 @@ msgstr ""
 # 4ffad5fd0fe34f469d12b9bcb3fe563f
 #: ../../AVR.rst:86
 msgid "Flying, vigilance, indestructible"
-msgstr ""
+msgstr "Latanie, czujność, niezniszczalność"
 
 # 28423f9745b240fd90fa6b474af4df42
 #: ../../AVR.rst:88
 msgid "Other permanents you control have indestructible."
-msgstr ""
+msgstr "Inne permanenty, którymi władasz, mają niezniszczalność."
 
 # a76378fec338407aa700a480417fd405
 #: ../../AVR.rst:95
@@ -291,12 +298,12 @@ msgstr ""
 # c162e3084d1d4a5fa4f05198a7946bea
 #: ../../AVR.rst:99
 msgid "Banners Raised"
-msgstr ""
+msgstr "Banners Raised (Chorągwie Wzwyż)"
 
 # e4604650078d40f69f6586ebea84176c
 #: ../../AVR.rst:98
 msgid "Creatures you control get +1/+0 until end of turn."
-msgstr ""
+msgstr "Stwory, którymi władasz, dostają do końca tury +1/+0."
 
 # 26be53c4d3eb41b38e5a420fbab7ec0e
 #: ../../AVR.rst:103
@@ -306,7 +313,7 @@ msgstr ""
 # 8280207e647f4a67bd4890223b6cb168
 #: ../../AVR.rst:102
 msgid "Each player sacrifices two creatures."
-msgstr ""
+msgstr "Każdy gracz poświęca dwa stwory."
 
 # 2dbd989b8292456bbbde2015f57d2716
 #: ../../AVR.rst:107
@@ -358,12 +365,14 @@ msgstr ""
 # a122a8c68945457d9e8feb5f46e7212d
 #: ../../AVR.rst:125
 msgid "Blood Artist"
-msgstr ""
+msgstr "Blood Artist (Artysta Krwi)"
 
 # c3c8eb992ba54cdc833d40cfbf5b4afe
 #: ../../AVR.rst:124
 msgid "Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life."
 msgstr ""
+"Ilekroć Artysta Krwi lub inny stwór umiera, wskazany gracz traci 1 życie, a "
+"ty zyskujesz 1 życie."
 
 # 0cef7970889c4c5b9c4407f1ce99e932
 #: ../../AVR.rst:129
@@ -372,8 +381,9 @@ msgstr ""
 
 # 17853a308830430f86bc10819a4982fc
 #: ../../AVR.rst:128
+#, fuzzy
 msgid "Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur."
-msgstr ""
+msgstr "Poświęć stwora: Połóż znacznik +1/+1 na Bloodflow Connoisseur."
 
 # daf4f64f9522498fa64032274f757440
 #: ../../AVR.rst:135
@@ -388,7 +398,7 @@ msgstr ""
 # 382f312d8d644bbc835653384d28ae68
 #: ../../AVR.rst:134
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 # 711fb7917731406296f23c24a5a8cee8
 #: ../../AVR.rst:141
@@ -423,17 +433,22 @@ msgstr ""
 # 2c3472d600494ad8abc46b342d234f6b
 #: ../../AVR.rst:148
 msgid "Creatures with flying can't block creatures you control."
-msgstr ""
+msgstr "Stwory z lataniem nie mogą blokować stworów, którymi władasz."
 
 # a1d9816e8bd94ce384f89a0dc3899e7d
 #: ../../AVR.rst:155
 msgid "Bruna, Light of Alabaster"
-msgstr ""
+msgstr "Bruna, Light of Alabaster (Bruna, Alabastrowy Blask)"
 
 # 906e024508a0443099eb849ed1b7cfd3
 #: ../../AVR.rst:154
+#, fuzzy
 msgid "Whenever Bruna, Light of Alabaster attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand."
 msgstr ""
+"Ilekroć Bruna, Alabastrowy Blask atakuje lub blokuje, możesz do niej "
+"dołączyć dowolną liczbę Aur z pola walki oraz możesz położyć na polu walki "
+"dołączone do niej dowolną liczbę Aur, które mogłyby ją zauroczyć ze swojego "
+"cmentarza i/lub ręki."
 
 # 8661c35bccac4862a07972356db8f917
 #: ../../AVR.rst:159
@@ -443,22 +458,26 @@ msgstr ""
 # d8412d79ae224736a17d57531ee88af8
 #: ../../AVR.rst:158
 msgid "Untapped creatures you control get +0/+2."
-msgstr ""
+msgstr "Niezaznaczone stwory, którymi władasz, dostają +0/+2."
 
 # fee2a60688624d8b859d2a6dd652fe20
 #: ../../AVR.rst:165
 msgid "Burn at the Stake"
-msgstr ""
+msgstr "Burn at the Stake (Płoń na Stosie)"
 
 # 2be3fc47fb0d4d7db69425c0e76d937a
 #: ../../AVR.rst:162
 msgid "As an additional cost to cast Burn at the Stake, tap any number of untapped creatures you control."
 msgstr ""
+"Jako dodatkowy koszt rzucenia Płoń na Stosie, zaznacz dowolną liczbę "
+"niezaznaczonych stworów, którymi władasz."
 
 # 8f276ea0e0e54cbfa1168f0d01d2da3b
 #: ../../AVR.rst:164
 msgid "Burn at the Stake deals damage to target creature or player equal to three times the number of creatures tapped this way."
 msgstr ""
+"Płoń na Stosie zadaje wskazanemu stworowi lub graczowi trzy razy więcej "
+"obrażeń niż liczba stworów zaznaczonych w ten sposób."
 
 # 71d21a1da6ce4b2599a2211ed19dead6
 #: ../../AVR.rst:169
@@ -488,7 +507,7 @@ msgstr ""
 # f6ee6e11ba86483fb14cc08c0aabdf07
 #: ../../AVR.rst:172
 msgid "Enchant nonblack creature"
-msgstr ""
+msgstr "Zaurocz nieczarnego stwora"
 
 # 121af413346241b68b1ba8a173029d1b
 #: ../../AVR.rst:174
@@ -498,17 +517,20 @@ msgstr ""
 # f808443d99674898b486adc5c1858bc6
 #: ../../AVR.rst:181
 msgid "Captain of the Mists"
-msgstr ""
+msgstr "Captain of the Mists (Kapitan Mgieł)"
 
 # 023a374ef2fe42dc8d9135c5f2a93ff1
 #: ../../AVR.rst:178
 msgid "Whenever another Human enters the battlefield under your control, untap Captain of the Mists."
 msgstr ""
+"Ilekroć inny Człowiek wchodzi na pole walki pod twoim władaniem, odznacz "
+"Kapitana Mgieł."
 
 # d2dbecacfefe4b0ba3a2da0e759783c4
 #: ../../AVR.rst:180
 msgid "|mana_1| |mana_u|, |tap|: You may tap or untap target permanent."
 msgstr ""
+"|mana_1| |mana_u|, |tap|: Możesz zaznaczyć lub odznaczyć wskazany permanent."
 
 # b510c6886b1c43ceb503217c9346e3f1
 #: ../../AVR.rst:185
@@ -519,6 +541,8 @@ msgstr ""
 #: ../../AVR.rst:184
 msgid "Whenever a creature enters the battlefield under your control, put a +1/+1 counter on each creature you control."
 msgstr ""
+"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, połóż znacznik "
+"+1/+1 na każdym stworze, którym władasz."
 
 # 62ea9962530e433aabe993f249ef7b84
 #: ../../AVR.rst:189
@@ -533,17 +557,20 @@ msgstr ""
 # 2f341fbb1ab34639b1efb1d2f2d9958d
 #: ../../AVR.rst:197
 msgid "Cavern of Souls"
-msgstr ""
+msgstr "Cavern of Souls (Jaskinia Dusz)"
 
 # a2b1f0e3125c4ab9b95d12d0243f10de
 #: ../../AVR.rst:192
 msgid "As Cavern of Souls enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Wprowadzając Jaskinię Dusz na pole walki, wybierz typ stwora."
 
 # 660cf977eb4a420ea8e13a0495d15c05
 #: ../../AVR.rst:196
 msgid "|tap|: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
 msgstr ""
+"|tap|: Dodaj jedną manę dowolnego koloru do twojej puli many. Użyj tę manę "
+"tylko do rzucenia czaru stwora wybranego typu i ów czar nie może zostać "
+"skontrowany."
 
 # 598de69b754844529a031f69486014ea
 #: ../../AVR.rst:203
@@ -604,7 +631,7 @@ msgstr ""
 #: ../../AVR.rst:988
 #: ../../AVR.rst:1120
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 # c903fd1d24574fa3ab0ad894343088e0
 #: ../../AVR.rst:212
@@ -624,7 +651,7 @@ msgstr ""
 # 8310642397934fd9b0649d2ef22a6274
 #: ../../AVR.rst:221
 msgid "Corpse Traders"
-msgstr ""
+msgstr "Corpse Traders (Handlarze Zwłok)"
 
 # 23c6beb77f2d418f9ecd0e614804cdb5
 #: ../../AVR.rst:220
@@ -645,7 +672,7 @@ msgstr ""
 #: ../../AVR.rst:674
 #: ../../AVR.rst:1196
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 # e9d6576f185c4aa6bd11a758534bc38f
 #: ../../AVR.rst:226
@@ -687,7 +714,7 @@ msgstr ""
 # 14a99cd091b44d5faa712706d0c227c0
 #: ../../AVR.rst:240
 msgid "Destroy target enchantment. You gain 2 life."
-msgstr ""
+msgstr "Zniszcz wskazany urok. Zyskujesz 2 życia."
 
 # 4ae3ef3390734bd7949bbbbd1f8a3e93
 #: ../../AVR.rst:245
@@ -697,7 +724,7 @@ msgstr ""
 # c790c43eabb749edbb2d3993051d0d9f
 #: ../../AVR.rst:244
 msgid "Discard your hand, then draw two cards."
-msgstr ""
+msgstr "Odrzuć swoją rękę, a następnie dobierz dwie karty."
 
 # 408aafb7ca914b20b8b503669a6089d2
 #: ../../AVR.rst:251
@@ -759,6 +786,8 @@ msgstr ""
 #: ../../AVR.rst:1186
 msgid "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)"
 msgstr ""
+"Więź dusz (Możesz sparować tego stwora z innym niesparowanym stworem gdy "
+"którykolwiek wchodzi na pole walki. Pozostają parą dopóki kontrolujesz obu.)"
 
 # 8889affa87284916aa2b97c3e3983503
 #: ../../AVR.rst:256
@@ -784,6 +813,8 @@ msgstr ""
 #: ../../AVR.rst:266
 msgid "Prevent all damage that would be dealt by enchanted creature."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, które mogłyby zostać zadane zauroczonemu "
+"stworowi."
 
 # 0591b0702228415da2c120b34d603777
 #: ../../AVR.rst:271
@@ -794,6 +825,8 @@ msgstr ""
 #: ../../AVR.rst:270
 msgid "Return target creature card from your graveyard to the battlefield. If it's an Angel, put two +1/+1 counters on it."
 msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Jeśli to "
+"Anioł, połóż na nim dwa znaczniki +1/+1."
 
 # 7b09797d688e4a44a8a67f5b4bdc24af
 #: ../../AVR.rst:275
@@ -803,7 +836,7 @@ msgstr ""
 # 0a1596d808374f1498dbdfeb674d0323
 #: ../../AVR.rst:274
 msgid "Destroy target artifact or land."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd."
 
 # b6335a4602444194bb84f6b1f00b5755
 #: ../../AVR.rst:279
@@ -814,6 +847,8 @@ msgstr ""
 #: ../../AVR.rst:278
 msgid "At the beginning of your end step, if you control exactly one creature, put a 5/5 black Demon creature token with flying onto the battlefield."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli władasz dokładnie jednym stworem, "
+"połóż na polu walki żeton czarnego stwora Demon 5/5 z lataniem."
 
 # 280038b786054a0b8c228dbb5dae2891
 #: ../../AVR.rst:285
@@ -1126,6 +1161,8 @@ msgstr ""
 #: ../../AVR.rst:428
 msgid "Flowering Lumberknot can't attack or block unless it's paired with a creature with soulbond."
 msgstr ""
+"Flowering Lumberknot nie może atakować ani blokować dopóki nie jest "
+"sparowany ze stworem z więzią dusz."
 
 # 5ab78d74808d4825b561c4c5330b4cd8
 #: ../../AVR.rst:433
@@ -1310,7 +1347,7 @@ msgstr ""
 # b6ac1d10af49447eb4267e9a0f258fb8
 #: ../../AVR.rst:512
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 # 0d29b98900074d5791e491944eb0539c
 #: ../../AVR.rst:514
@@ -2183,6 +2220,8 @@ msgstr ""
 #: ../../AVR.rst:918
 msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
 msgstr ""
+"Więź życia (Obrażenia zadane przez tego stwora powodują, że jego władca "
+"zyskuje tyle samo życia.)"
 
 # 57d65c6b172d4099af0cfa7448558c34
 #: ../../AVR.rst:927
@@ -2282,7 +2321,7 @@ msgstr ""
 # 840c98d41c334838ad862e08c7e27233
 #: ../../AVR.rst:964
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 # 8ffac36d166a424a9e851081a402f379
 #: ../../AVR.rst:966

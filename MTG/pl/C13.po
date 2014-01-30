@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-27 09:25+0100\n"
-"PO-Revision-Date: 2014-01-29 10:57+0200\n"
+"PO-Revision-Date: 2014-01-30 17:21+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1390989457.922798\n"
+"X-POOTLE-MTIME: 1391098867.903162\n"
 
 # dd0d92f2f9ef4152b3b14e70292202a7
 #: ../../C13.rst:5
@@ -27,7 +27,7 @@ msgstr "Commander 2013"
 # a32197b6d5d84af0b913e1d3040b651c
 #: ../../C13.rst:11
 msgid "Acidic Slime"
-msgstr ""
+msgstr "Acidic Slime (Kwasowy Szlam)"
 
 # 340d3a8ec894455894f7d551896820f9
 # 523ba9c9a3cc49efb497be61d219925f
@@ -46,6 +46,8 @@ msgstr ""
 #: ../../C13.rst:10
 msgid "When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land."
 msgstr ""
+"Kiedy Kwasowy Szlam wchodzi na pole walki, zniszcz wskazany artefakt, urok "
+"albo ląd."
 
 # 0314c309ee764b7c8b6cbfbb84798f5d
 #: ../../C13.rst:17
@@ -122,6 +124,8 @@ msgstr "Latanie"
 #: ../../C13.rst:22
 msgid "|mana_1| |mana_g| |mana_u|: Creatures you control gain shroud until end of turn. (They can't be the targets of spells or abilities.)"
 msgstr ""
+"|mana_1| |mana_g| |mana_u|: Stwory, którymi władasz, zyskują antymagię do "
+"końca tury. (Nie mogą być wskazywane przez czary lub zdolności.)"
 
 # db43c154037844b686270c2a24145b14
 #: ../../C13.rst:27
@@ -163,7 +167,7 @@ msgstr ""
 #: ../../C13.rst:38
 #: ../../C13.rst:1246
 msgid "|tap|: Add |mana_b| or |mana_r| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
 
 # bed1b10e152e40108d9f1031f18e9f7e
 #: ../../C13.rst:45
@@ -235,12 +239,12 @@ msgstr ""
 #: ../../C13.rst:66
 #: ../../C13.rst:1082
 msgid "|tap|: Add |mana_w|, |mana_u|, or |mana_b| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_w|, |mana_u|, lub |mana_b| do twojej puli many."
 
 # 817e8c0afd9d4b0cbcf4ed6f54b08d3a
 #: ../../C13.rst:71
 msgid "Archangel"
-msgstr ""
+msgstr "Archangel (Archanioł)"
 
 # e6e98ae0ea894a80b9c8b94c50427dc7
 #: ../../C13.rst:70
@@ -1474,7 +1478,7 @@ msgstr ""
 # da4445e2b22e4a49a5fa60e9b757881c
 #: ../../C13.rst:554
 msgid "Creatures you control have haste."
-msgstr ""
+msgstr "Stwory, którymi władasz, mają pośpiech."
 
 # 76efe474c67c4c5b95ca41a521bdfd24
 #: ../../C13.rst:556
@@ -3680,6 +3684,8 @@ msgstr ""
 #: ../../C13.rst:1514
 msgid "Flying, first strike, vigilance, lifelink, protection from red and from green"
 msgstr ""
+"Latanie, pierwszy cios, czujność, więź życia, ochrona przed czerwonym i "
+"zielonym"
 
 # e2e88050d80f45b6a2bad63b290b431d
 #: ../../C13.rst:1521
@@ -3796,7 +3802,7 @@ msgstr ""
 #: ../../C13.rst:1564
 #: ../../C13.rst:1712
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 # 5c2c3d061262494883a9687623434a4b
 #: ../../C13.rst:1566
@@ -3966,7 +3972,7 @@ msgstr ""
 # 13f08714f2db4b94a2ccc5708572417c
 #: ../../C13.rst:1638
 msgid "Equipped creature has hexproof and haste."
-msgstr ""
+msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 
 # a03289526b7d41f8a167cf1100f60eea
 #: ../../C13.rst:1640
