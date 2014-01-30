@@ -4,7 +4,7 @@
 ************
 
 2014-01-29
-    Nowe dodatki: :doc:`Born of the Gods<BNG>`, :doc:`Avacyn Restored<AVR>`, :doc:`
+    Nowe dodatki: :doc:`Born of the Gods<BNG>`, :doc:`Avacyn Restored<AVR>`, :doc:`Dark Ascension<DKA>1, :doc:`Innistrad<ISD>`, :doc:`New Phyrexia<NPH>`.
 
 2014-01-27
     Zmiana kolejności wyświetlania dodatków. Dodanie podziału na Standard/Modern/Pozostałe/Specjalne.
