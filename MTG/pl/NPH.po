@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-29 11:21+0100\n"
-"PO-Revision-Date: 2014-01-29 11:26+0200\n"
+"PO-Revision-Date: 2014-01-29 13:06+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -16,7 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1390997210.237615\n"
 
 # d0f3a9d48318481798b3d1d601f23bd7
 #: ../../NPH.rst:5
@@ -56,7 +57,7 @@ msgstr ""
 # a05875f4f8134852b3e4ce80aa0b6662
 #: ../../NPH.rst:14
 msgid "|tap|: Add one mana of any color to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj jedną manę dowolnego koloru do twojej puli many."
 
 # 724d92a3919e4d66b0bd72c07e43d59b
 #: ../../NPH.rst:21
@@ -80,6 +81,8 @@ msgstr ""
 #: ../../NPH.rst:20
 msgid "Target artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn."
 msgstr ""
+"Wskazany artefakt lub stwór, którym władasz zyskuje do końca tury ochronę od "
+"artefaktów lub wybranego przez ciebie koloru."
 
 # 43fcbe65c9964dc9b35e3780cdd62444
 #: ../../NPH.rst:27
@@ -98,7 +101,7 @@ msgstr ""
 #: ../../NPH.rst:220
 #: ../../NPH.rst:306
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 # ea1fdbd0df994153bc2e9e39da0dae5d
 #: ../../NPH.rst:31
@@ -175,6 +178,8 @@ msgstr ""
 #: ../../NPH.rst:54
 msgid "Destroy target permanent. Its controller puts a 3/3 green Beast creature token onto the battlefield."
 msgstr ""
+"Zniszcz wskazany permanent. Jego władca kładzie na polu walki żeton "
+"zielonego stwora Bestia 3/3."
 
 # bcb74093ab71479ca9dd9e9cf24b8635
 #: ../../NPH.rst:61

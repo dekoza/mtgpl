@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-29 11:21+0100\n"
-"PO-Revision-Date: 2014-01-29 23:38+0200\n"
+"PO-Revision-Date: 2014-01-30 08:39+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1391035090.429815\n"
+"X-POOTLE-MTIME: 1391067554.881457\n"
 
 # 5aa88d8ba2cd46a19fbee225ea34c30e
 #: ../../BNG.rst:5
@@ -26,8 +26,9 @@ msgstr "Born of the Gods (Zrodzeni z Bogów)"
 
 # e2fc06792b824f018890328f57882d92
 #: ../../BNG.rst:9
+#, fuzzy
 msgid "Acolyte's Reward"
-msgstr ""
+msgstr "Acolyte's Reward"
 
 # 13b1709993cc471f9c217d44c62be7ea
 #: ../../BNG.rst:8
@@ -41,8 +42,9 @@ msgstr ""
 
 # 691f6215ed9f4929896c12aebf4bf08e
 #: ../../BNG.rst:13
+#, fuzzy
 msgid "Aerie Worshippers"
-msgstr ""
+msgstr "Aerie Worshippers"
 
 # 19ae174958864827935c3486cf4ebba3
 #: ../../BNG.rst:12
@@ -54,8 +56,9 @@ msgstr ""
 
 # 6e6c8df2b34349d4b8526a1708f981b8
 #: ../../BNG.rst:17
+#, fuzzy
 msgid "Akroan Conscriptor"
-msgstr ""
+msgstr "Akroan Conscriptor"
 
 # 47a7c84b0d4e4f3b8f4a6b9ab1f130e3
 #: ../../BNG.rst:16
@@ -283,8 +286,9 @@ msgstr ""
 
 # d5ba6a021ec640cb9d6a5c755454408a
 #: ../../BNG.rst:87
+#, fuzzy
 msgid "Bile Blight"
-msgstr ""
+msgstr "Bile Blight"
 
 # 25565af9d6184c139f04441569c05755
 #: ../../BNG.rst:86
@@ -346,8 +350,9 @@ msgstr ""
 
 # a39bb43c9e894911a1220f6fa6a572f6
 #: ../../BNG.rst:111
+#, fuzzy
 msgid "Champion of Stray Souls"
-msgstr ""
+msgstr "Champion of Stray Souls"
 
 # 8e9e6e3754cf44039bea56aa33cf3d9e
 #: ../../BNG.rst:108
@@ -464,8 +469,9 @@ msgstr ""
 
 # 5aa6fbc0677c449884feae4a9f9de60e
 #: ../../BNG.rst:143
+#, fuzzy
 msgid "Courser of Kruphix"
-msgstr ""
+msgstr "Courser of Kruphix"
 
 # c26a030d3bc6408eaab2ef477f7d6651
 #: ../../BNG.rst:138
@@ -486,8 +492,9 @@ msgstr ""
 
 # 14dd80854f0741ff982295781f95c372
 #: ../../BNG.rst:147
+#, fuzzy
 msgid "Crypsis"
-msgstr ""
+msgstr "Crypsis"
 
 # 54b6bb91ecb142fcae1636e12f6e17cf
 #: ../../BNG.rst:146
@@ -498,8 +505,9 @@ msgstr ""
 
 # 0b03bcb1f4764f0cb12a81e6333d7a4f
 #: ../../BNG.rst:151
+#, fuzzy
 msgid "Culling Mark"
-msgstr ""
+msgstr "Culling Mark"
 
 # 15230087380f443885b524df484a0c34
 #: ../../BNG.rst:150
@@ -508,13 +516,15 @@ msgstr "Wskazany stwór blokuje w tej turze jeśli może."
 
 # 4030aa7195674174bd3f2af0171a8545
 #: ../../BNG.rst:153
+#, fuzzy
 msgid "Cyclops of One-Eyed Pass"
-msgstr ""
+msgstr "Cyclops of One-Eyed Pass (Cyklop Jednookiego Przejścia)"
 
 # 3c690aecff0f44cea304781243b3a529
 #: ../../BNG.rst:161
+#, fuzzy
 msgid "Dawn to Dusk"
-msgstr ""
+msgstr "Dawn to Dusk"
 
 # bc03c6584b634c559021bea547b0d37c
 #: ../../BNG.rst:158
@@ -529,17 +539,19 @@ msgstr ""
 # 2607f3e8b8294512af842f40905c7a05
 #: ../../BNG.rst:165
 msgid "Deepwater Hypnotist"
-msgstr ""
+msgstr "Deepwater Hypnotist (Głębinowy Hipnotyzer)"
 
 # eaa828d0c54640848d9ed1ee6fc005ba
 #: ../../BNG.rst:164
 msgid "Inspired — Whenever Deepwater Hypnotist becomes untapped, target creature an opponent controls gets -3/-0 until end of turn."
 msgstr ""
+"Natchniony — Ilekroć Głębinowy Hipnotyzer zostaje odznaczony, wskazany "
+"stwór, którym włada przeciwnik, dostaje -3/-0 do końca tury."
 
 # 409a480a6297414dad4e01de16e32cc5
 #: ../../BNG.rst:169
 msgid "Divination"
-msgstr ""
+msgstr "Divination (Wróżbiarstwo)"
 
 # d7e6f52021ca41c18f37cd698b78a50f
 #: ../../BNG.rst:168
@@ -572,7 +584,7 @@ msgstr "|mana_b|, poświęć innego stwora: Zregeneruj Pożeracza Nadziei."
 # d564aa3dc67c49bbb454c12664d134cb
 #: ../../BNG.rst:180
 msgid "|mana_2| |mana_b|, Sacrifice two other creatures: Destroy target creature."
-msgstr ""
+msgstr "|mana_2| |mana_b|, poświęć dwa inne stwory: Zniszcz wskazanego stwora."
 
 # c4b4c1007ceb440baaa3dc1eb8d1c2ec
 #: ../../BNG.rst:187
@@ -591,14 +603,18 @@ msgstr ""
 #: ../../BNG.rst:186
 msgid "Eidolon of Countless Battles and enchanted creature each get +1/+1 for each creature you control and +1/+1 for each Aura you control."
 msgstr ""
+"Eidolon Niezliczonych Bitew oraz zauroczony stwór dostają +1/+1 za każdego "
+"stwora, którym władasz oraz +1/+1 za każdą Aurę, którą władasz."
 
 # 2e289eb37f3d49da959afb5941b34bc5
 #: ../../BNG.rst:191
+#, fuzzy
 msgid "Elite Skirmisher"
-msgstr ""
+msgstr "Elite Skirmisher"
 
 # af2fad1cbde343b6855e6bda674354cf
 #: ../../BNG.rst:190
+#, fuzzy
 msgid "Heroic — Whenever you cast a spell that targets Elite Skirmisher, you may tap target creature."
 msgstr ""
 "Heroizm — Ilekroć rzucasz czar wskazujący na Elite Skirmisher, możesz "
@@ -664,8 +680,9 @@ msgstr ""
 
 # f12055b3ec1846a1a03eff3f85e6e41f
 #: ../../BNG.rst:215
+#, fuzzy
 msgid "Ephara's Radiance"
-msgstr ""
+msgstr "Ephara's Radiance"
 
 # 4706a965c6e34d209656180eafecd739
 #: ../../BNG.rst:214
@@ -674,8 +691,9 @@ msgstr "Zauroczony stwór ma \\\"|mana_1| |mana_w|, |tap|: Zyskujesz 3 życia.\\
 
 # 5e80e4508fcd4b89a1376e9e07704851
 #: ../../BNG.rst:221
+#, fuzzy
 msgid "Epiphany Storm"
-msgstr ""
+msgstr "Epiphany Storm"
 
 # 7cb7c33201dd4c5c87791a384e5aabea
 #: ../../BNG.rst:220
@@ -700,8 +718,9 @@ msgstr ""
 
 # ffc5926a45284b2384db073a1c9718e3
 #: ../../BNG.rst:235
+#, fuzzy
 msgid "Evanescent Intellect"
-msgstr ""
+msgstr "Evanescent Intellect"
 
 # 081a08777b714acaa111d6184f4628a9
 #: ../../BNG.rst:234
@@ -743,8 +762,9 @@ msgstr "Zauroczony stwór dostaje +1/+1."
 
 # fe9ac7053fca46c3bfee9bf531c09215
 #: ../../BNG.rst:247
+#, fuzzy
 msgid "Excoriate"
-msgstr ""
+msgstr "Excoriate"
 
 # f77e3f2ff3ad4034a74f8843a506958b
 #: ../../BNG.rst:246
@@ -753,8 +773,9 @@ msgstr "Wypędź wskazanego zaznaczonego stwora."
 
 # 31b9cdf20899470399901cc63f37d52b
 #: ../../BNG.rst:251
+#, fuzzy
 msgid "Eye Gouge"
-msgstr ""
+msgstr "Eye Gouge"
 
 # bddadaa10d8c40168223fc0059461c3b
 #: ../../BNG.rst:250
@@ -764,8 +785,9 @@ msgstr ""
 
 # 670652adf2e649d8b7b9216f496f3dea
 #: ../../BNG.rst:255
+#, fuzzy
 msgid "Fall of the Hammer"
-msgstr ""
+msgstr "Fall of the Hammer"
 
 # e8de45911be0478bb6109ca5ae3d1e79
 #: ../../BNG.rst:254
@@ -795,8 +817,9 @@ msgstr ""
 
 # a57ef1477691480cb657240ca9e49ad1
 #: ../../BNG.rst:267
+#, fuzzy
 msgid "Fate Unraveler"
-msgstr ""
+msgstr "Fate Unraveler"
 
 # 5bba9b4e50fb41e5942f3cac8891051a
 #: ../../BNG.rst:266
@@ -807,11 +830,13 @@ msgstr ""
 
 # 0027f87c95644a11b53950d10843702a
 #: ../../BNG.rst:271
+#, fuzzy
 msgid "Fated Conflagration"
-msgstr ""
+msgstr "Fated Conflagration"
 
 # 23b136d8d82f4680865fb015ff9b477c
 #: ../../BNG.rst:270
+#, fuzzy
 msgid "Fated Conflagration deals 5 damage to target creature or planeswalker. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
 "Fated Conflagration zadaje 5 obrażeń wskazanemu stworowi lub wędrowcowi. "
@@ -821,8 +846,9 @@ msgstr ""
 
 # f5252d1f302647b885da090ee2f8d308
 #: ../../BNG.rst:275
+#, fuzzy
 msgid "Fated Infatuation"
-msgstr ""
+msgstr "Fated Infatuation"
 
 # c3d88c75be514f50b3ed06ebce4a8226
 #: ../../BNG.rst:274
@@ -835,8 +861,9 @@ msgstr ""
 
 # 140c9464c7b548b49efc8c210b0d5346
 #: ../../BNG.rst:279
+#, fuzzy
 msgid "Fated Intervention"
-msgstr ""
+msgstr "Fated Intervention"
 
 # 8d3a1d3191a64893bc22da6bf50d5d13
 #: ../../BNG.rst:278
@@ -849,8 +876,9 @@ msgstr ""
 
 # f5c3d58d78714cc88cc25be411f286eb
 #: ../../BNG.rst:283
+#, fuzzy
 msgid "Fated Retribution"
-msgstr ""
+msgstr "Fated Retribution"
 
 # e7a6012578d543769655cff5b7b01eb2
 #: ../../BNG.rst:282
@@ -863,8 +891,9 @@ msgstr ""
 
 # 4ee507f5c6004f5280f9070487f0422e
 #: ../../BNG.rst:287
+#, fuzzy
 msgid "Fated Return"
-msgstr ""
+msgstr "Fated Return"
 
 # 906cbbf0bd31439e8cf60c893d7bd191
 #: ../../BNG.rst:286
@@ -879,32 +908,43 @@ msgstr ""
 # e06de608a7434414bf80c22750cb14f4
 #: ../../BNG.rst:293
 msgid "Fearsome Temper"
-msgstr ""
+msgstr "Fearsome Temper (Ztraszliwy Temperament)"
 
 # c99799fa3ab64c0ebd7ee8de7246fbbf
 #: ../../BNG.rst:292
 msgid "Enchanted creature gets +2/+2 and has \\\"|mana_2| |mana_r|: Target creature can't block this creature this turn.\\\""
 msgstr ""
+"Zauroczony stwór dostaje +2/+2 i ma \\\"|mana_2| |mana_r|: Wskazany stwór nie "
+"może blokować tego stwora w tej turze.\\\""
 
 # dbf826ef3f6245d695c72d80f0f38126
 #: ../../BNG.rst:297
+#, fuzzy
 msgid "Felhide Brawler"
-msgstr ""
+msgstr "Felhide Brawler"
 
 # b564f9c1b1a344298c06ac68400abc88
 #: ../../BNG.rst:296
+#, fuzzy
 msgid "Felhide Brawler can't block unless you control another Minotaur."
 msgstr "Felhide Brawler nie może blokować dopóki nie władasz innym Minotaurem."
 
 # bae6c925ff59482fa5c72c11b1e52d8d
 #: ../../BNG.rst:301
+#, fuzzy
 msgid "Felhide Spiritbinder"
-msgstr ""
+msgstr "Felhide Spiritbinder"
 
 # 1d61f592fe7b45debb21a741340b8581
 #: ../../BNG.rst:300
+#, fuzzy
 msgid "Inspired — Whenever Felhide Spiritbinder becomes untapped, you may pay |mana_1| |mana_r|. If you do, put a token onto the battlefield that's a copy of another target creature except it's an enchantment in addition to its other types. It gains haste. Exile it at the beginning of the next end step."
 msgstr ""
+"Natchniony — Ilekroć Felhide Spiritbinder zostaje odznaczony, możesz "
+"zapłacić |mana_1| |mana_r|. Jeśli tak zrobisz, połóż na polu walki żeton "
+"będący kopią innego wskazanego stwora, z tym że jest on urokiem w dodatku do "
+"swoich innych typów. Zyskuje on pośpiech. Wypędź go na początku "
+"najbliższego kroku końcowego."
 
 # 778db5eb551b4a40b7d69921990c464d
 #: ../../BNG.rst:309
@@ -972,26 +1012,33 @@ msgstr ""
 
 # 3cf16f26f04142ddb440ccdf70519d23
 #: ../../BNG.rst:327
+#, fuzzy
 msgid "Forgestoker Dragon"
-msgstr ""
+msgstr "Forgestoker Dragon"
 
 # 59f18bde4a6c492d9ad146f06b402992
 #: ../../BNG.rst:326
+#, fuzzy
 msgid "|mana_1| |mana_r|: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if Forgestoker Dragon is attacking."
 msgstr ""
+"|mana_1| |mana_r|: Forgestoker Dragon zadaje 1 obrażenie wskazanemu "
+"stworowi. Ów stwór nie może blokować w tej walce. Aktywuj tę zdolność tylko "
+"jeśli Forgestoker Dragon atakuje."
 
 # f46ef3b9c8564552bda355ab548fcf08
 #: ../../BNG.rst:333
+#, fuzzy
 msgid "Forlorn Pseudamma"
-msgstr ""
+msgstr "Forlorn Pseudamma"
 
 # 88ebd534f1f7448799b6467545e95c94
 #: ../../BNG.rst:330
 msgid "Intimidate"
-msgstr ""
+msgstr "Zastraszanie"
 
 # f87dd4113da044b2b4bda44d6a206b05
 #: ../../BNG.rst:332
+#, fuzzy
 msgid "Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2| |mana_b|. If you do, put a 2/2 black Zombie enchantment creature token onto the battlefield."
 msgstr ""
 "Natchniony — Ilekroć Forlorn Pseudamma zostaje odznaczony, możesz zapłacić "
@@ -1013,7 +1060,7 @@ msgstr ""
 # 41c9872c05cc460caff6e5de018d6bb1
 #: ../../BNG.rst:345
 msgid "Ghostblade Eidolon"
-msgstr ""
+msgstr "Ghostblade Eidolon (Eidolon Duchowego Ostrza)"
 
 # f151b39063b64a6db1a16b1c9cbdb9a4
 #: ../../BNG.rst:340
@@ -1048,8 +1095,9 @@ msgstr ""
 
 # 1864ea5bdf0a4370bb2571bcd8724d3f
 #: ../../BNG.rst:353
+#, fuzzy
 msgid "Glimpse the Sun God"
-msgstr ""
+msgstr "Glimpse the Sun God"
 
 # ba35fe0aff2f4a63a224c9dc7b98b6d5
 #: ../../BNG.rst:352
@@ -1060,18 +1108,23 @@ msgstr ""
 
 # bbe1867f72b548639f069043e369dcbb
 #: ../../BNG.rst:357
+#, fuzzy
 msgid "God-Favored General"
-msgstr ""
+msgstr "God-Favored General"
 
 # 60cc2e40c8534b2f9fec65e4247093c0
 #: ../../BNG.rst:356
+#, fuzzy
 msgid "Inspired — Whenever God-Favored General becomes untapped, you may pay |mana_2| |mana_w|. If you do, put two 1/1 white Soldier enchantment creature tokens onto the battlefield."
 msgstr ""
+"Natchniony — Ilekroć God-Favored General zostaje odnzaczony, możesz zapłacić "
+"|mana_2| |mana_w|. Jeśli tak zrobisz, połóż na polu walki dwa żetony "
+"białego uroku stwora Piechur 1/1."
 
 # fcabddbe17cd49f489e2946f46fd938b
 #: ../../BNG.rst:363
 msgid "Gorgon's Head"
-msgstr ""
+msgstr "Gorgon's Head (Głowa Gorgony)"
 
 # 999d06557df04045b1f4e982261cf0b1
 #: ../../BNG.rst:360
@@ -1105,33 +1158,42 @@ msgstr ""
 
 # 6a5be75d38164cb29c1932ef626b0034
 #: ../../BNG.rst:371
+#, fuzzy
 msgid "Great Hart"
-msgstr ""
+msgstr "Great Hart"
 
 # 22e4bde23bf74058b7c6961df115a9c9
 #: ../../BNG.rst:379
+#, fuzzy
 msgid "Griffin Dreamfinder"
-msgstr ""
+msgstr "Griffin Dreamfinder"
 
 # b9adca187ade433c85bff180a965bfe6
 #: ../../BNG.rst:378
+#, fuzzy
 msgid "When Griffin Dreamfinder enters the battlefield, return target enchantment card from your graveyard to your hand."
 msgstr ""
+"Kiedy Griffin Dreamfinder wchodzi na pole walki, przywróć wskazaną kartę "
+"uroku z twojego cmentarza do twojej ręki."
 
 # c8c799b00d914d1596a97471cec0f4b3
 #: ../../BNG.rst:387
+#, fuzzy
 msgid "Grisly Transformation"
-msgstr ""
+msgstr "Grisly Transformation"
 
 # 2101eaeed91f4d2a9f590b7ae517649f
 #: ../../BNG.rst:384
+#, fuzzy
 msgid "When Grisly Transformation enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy Grisly Transformation wchodzi na pole walki, dobierz kartę."
 
 # c24f237093c64769bb134da6320c4b45
 #: ../../BNG.rst:386
 msgid "Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
 msgstr ""
+"Zauroczony stwór ma zastraszanie. (Nie może być blokowany z wyjątkiem "
+"stworów artefaktowych oraz tych, które współdzielą z nim kolor.)"
 
 # f7b42ebca88746ab9c697f4c04bed7ca
 #: ../../BNG.rst:397
@@ -1158,33 +1220,40 @@ msgstr "Zauroczony stwór dostaje +3/+3 i ma latanie."
 
 # 0b543a36d63d48c7bb4cafa7d3aba27d
 #: ../../BNG.rst:403
+#, fuzzy
 msgid "Hero of Iroas"
-msgstr ""
+msgstr "Hero of Iroas"
 
 # 80268dc91ae5412088c07f0e714f68a9
 #: ../../BNG.rst:400
 msgid "Aura spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Aur kosztuje cię o |mana_1| mniej."
 
 # aa2cd02b479f41539bf2fbd558880f4a
 #: ../../BNG.rst:402
+#, fuzzy
 msgid "Heroic — Whenever you cast a spell that targets Hero of Iroas, put a +1/+1 counter on Hero of Iroas."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący Hero of Iroas, połóż znacznik "
+"+1/+1 na Hero of Iroas."
 
 # f1fa8b293661499194f4c26c503d730e
 #: ../../BNG.rst:407
 msgid "Hero of Leina Tower"
-msgstr ""
+msgstr "Hero of Leina Tower (Bohater z Wieży z Leina)"
 
 # e031b3532bfb4730bb0450bd7dee08ec
 #: ../../BNG.rst:406
 msgid "Heroic — Whenever you cast a spell that targets Hero of Leina Tower, you may pay |mana_x|. If you do, put X +1/+1 counters on Hero of Leina Tower."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący na Bohatera z Wieży z Leina, "
+"możesz zapłacić |mana_x|. Jeśli tak zrobisz, połóż X znaczników +1/+1 na "
+"Bohaterze z Wieży z Leina."
 
 # 73b987870fec411f8a78a7936c429ac3
 #: ../../BNG.rst:413
 msgid "Heroes' Podium"
-msgstr ""
+msgstr "Heroes' Podium (Podium Bohaterów)"
 
 # 91712b3eb5f741b181ac94385b999fbe
 #: ../../BNG.rst:410
@@ -1197,11 +1266,15 @@ msgstr ""
 #: ../../BNG.rst:412
 msgid "|mana_x|, |tap|: Look at the top X cards of your library. You may reveal a legendary creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
+"|mana_x|, |tap|: Spójrz na X wierzchnich kart twojej biblioteki. Możesz "
+"ujawnić kartę legendarnego stwora spośród nich i dołożyć ją do twojej ręki. "
+"Połóż pozostałe na spodzie twojej biblioteki w losowej kolejności."
 
 # 606d1ce369e14555b519bbe20171a015
 #: ../../BNG.rst:417
+#, fuzzy
 msgid "Hold at Bay"
-msgstr ""
+msgstr "Hold at Bay"
 
 # 226a155996e349f99703351d783e8869
 #: ../../BNG.rst:416
@@ -1212,18 +1285,22 @@ msgstr ""
 
 # 0cfdfc7f214a406780c4182507854201
 #: ../../BNG.rst:421
+#, fuzzy
 msgid "Hunter's Prowess"
-msgstr ""
+msgstr "Hunter's Prowess"
 
 # 2a8a9692f07b42efa0985a622b464952
 #: ../../BNG.rst:420
 msgid "Until end of turn, target creature gets +3/+3 and gains trample and \\\"Whenever this creature deals combat damage to a player, draw that many cards.\\\""
 msgstr ""
+"Do końca tury wskazany stwór dostaje +3/+3, tratowanie oraz \\\"Ilekroć ten "
+"stwór zada graczowi obrażenia bojowe, dobierz tyle samo kart.\\\""
 
 # 46a9a0856825459ca1243e3fd20f7260
 #: ../../BNG.rst:427
+#, fuzzy
 msgid "Impetuous Sunchaser"
-msgstr ""
+msgstr "Impetuous Sunchaser"
 
 # 7d3b21ae60544f949daf35c8af23e1fa
 #: ../../BNG.rst:424
@@ -1258,42 +1335,51 @@ msgstr ""
 # 2213bcf904cd4aa6978c5bc950660c7a
 #: ../../BNG.rst:443
 msgid "Karametra's Favor"
-msgstr ""
+msgstr "Karametra's Favor (Łaska Karametry)"
 
 # 2f8dfa2b46de4befa71e676afcc94fa8
 #: ../../BNG.rst:440
 msgid "When Karametra's Favor enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy Łaska Karametry wchodzi na pole walki, dobierz kartę."
 
 # 2b37cb244a80416ab865998986cf3629
 #: ../../BNG.rst:442
 msgid "Enchanted creature has \\\"|tap|: Add one mana of any color to your mana pool.\\\""
 msgstr ""
+"Zauroczony stwór ma \\\"|tap|: Doda jedną manę dowolnego koloru do twojej puli "
+"many.\\\""
 
 # ed1b5f59785b4170871cdd0cfa121d0b
 #: ../../BNG.rst:451
+#, fuzzy
 msgid "Kiora, the Crashing Wave"
-msgstr ""
+msgstr "Kiora, the Crashing Wave"
 
 # 16a7f95446f24428b12b0473f1731d76
 #: ../../BNG.rst:446
 msgid "+1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls."
 msgstr ""
+"+1: Do twojej następnej tury zażegnaj wszystkie obrażenia, który mogłyby "
+"zostać zadane lub otrzymane przez wskazany permanent władany przez "
+"przeciwnika."
 
 # 0d883b4667124e309770e258ff5f39e9
 #: ../../BNG.rst:448
 msgid "-1: Draw a card. You may play an additional land this turn."
-msgstr ""
+msgstr "-1: Dobierz kartę. Możesz zagrać dodatkowy ląd w tej turze."
 
 # 2d1e994148d749c0a7bd95e0e6557b30
 #: ../../BNG.rst:450
 msgid "-5: You get an emblem with \\\"At the beginning of your end step, put a 9/9 blue Kraken creature token onto the battlefield.\\\""
 msgstr ""
+"-5: Dostajesz emblemat o treści \\\"Na początku twojego kroku końcowego połóż "
+"na polu walki żeton niebieskiego stwora Kraken 9/9.\\\""
 
 # 63322bf471e3462a9b86f055d19f3627
 #: ../../BNG.rst:455
+#, fuzzy
 msgid "Kiora's Follower"
-msgstr ""
+msgstr "Kiora's Follower"
 
 # 5983cfba893047f881f9cfb96a3ac09c
 #: ../../BNG.rst:454
@@ -1302,11 +1388,13 @@ msgstr "|tap|: Odznacz inny wskazany permanent."
 
 # d488f5515f454781b8b7e0362cfffd74
 #: ../../BNG.rst:459
+#, fuzzy
 msgid "Kragma Butcher"
-msgstr ""
+msgstr "Kragma Butcher"
 
 # d1dbe4e758af41cbbfc40eb709f68bcd
 #: ../../BNG.rst:458
+#, fuzzy
 msgid "Inspired — Whenever Kragma Butcher becomes untapped, it gets +2/+0 until end of turn."
 msgstr ""
 "Natchniony — Ilekroć Kragma Butcher zostaje odznaczony, dostaje +2/+0 do "
@@ -1314,11 +1402,13 @@ msgstr ""
 
 # 637eb59295d74253895a453e8436afdd
 #: ../../BNG.rst:463
+#, fuzzy
 msgid "Kraken of the Straits"
-msgstr ""
+msgstr "Kraken of the Straits"
 
 # 61932d1ce9564cef86fed670b239ab86
 #: ../../BNG.rst:462
+#, fuzzy
 msgid "Creatures with power less than the number of Islands you control can't block Kraken of the Straits."
 msgstr ""
 "Stwory o sile mniejszej niż liczba Wysp, którymi władasz, nie mogą blokować "
@@ -1326,18 +1416,21 @@ msgstr ""
 
 # f78b0dc5c5134d2b84818efe1ce861dc
 #: ../../BNG.rst:467
+#, fuzzy
 msgid "Lightning Volley"
-msgstr ""
+msgstr "Lightning Volley"
 
 # 38082d16b10f438b9a5d5f4887851606
 #: ../../BNG.rst:466
 msgid "Until end of turn, creatures you control gain \\\"|tap|: This creature deals 1 damage to target creature or player.\\\""
 msgstr ""
+"Stwory, którymi władasz, zyskują do końca tury \\\"|tap|: Ten stwór zadaje 1 "
+"obrażenie wskazanemu stworowi lub graczowi.\\\""
 
 # 6cbbd9f1299140b6ad1b8f01f695764b
 #: ../../BNG.rst:473
 msgid "Loyal Pegasus"
-msgstr "Lojalny Pegaz"
+msgstr "Loyal Pegasus (Lojalny Pegaz)"
 
 # a47eeee7117d48888c47592fec6210ea
 #: ../../BNG.rst:472
@@ -1346,8 +1439,9 @@ msgstr "Lojalny Pegaz nie może samotnie atakować lub blokować."
 
 # f32ca71ad7cc4824a5bf1f9c8aeb835c
 #: ../../BNG.rst:477
+#, fuzzy
 msgid "Marshmist Titan"
-msgstr ""
+msgstr "Marshmist Titan"
 
 # 0c369d54c32746a3987076b937e1dd6f
 #: ../../BNG.rst:476
@@ -1370,8 +1464,9 @@ msgstr ""
 
 # 4c6817752ddb445ebe5edb20acc3de09
 #: ../../BNG.rst:487
+#, fuzzy
 msgid "Mindreaver"
-msgstr ""
+msgstr "Mindreaver"
 
 # 695f8d8b4ee448d7b03dfad9327ed7be
 #: ../../BNG.rst:484
@@ -1824,12 +1919,12 @@ msgstr "Połóż znacznik +1/+1 na każdym z najwyżej trzech wskazanych stworó
 # 3d146ca453c04bdeb4f0011ca77648ef
 #: ../../BNG.rst:665
 msgid "Reckless Reveler"
-msgstr ""
+msgstr "Reckless Reveler (Lekkomyślny Hulaka)"
 
 # d63337119e514397b492d30c527b416b
 #: ../../BNG.rst:664
 msgid "|mana_r|, Sacrifice Reckless Reveler: Destroy target artifact."
-msgstr ""
+msgstr "|mana_r|, poświęć Lekkomyślnego Hulakę: Zniszcz wskazany artefakt."
 
 # 0551141492024c2a849ea66b0a30be0e
 #: ../../BNG.rst:669
@@ -2362,7 +2457,7 @@ msgstr ""
 # ec6800cde6c74bcd91198323c66bdf2c
 #: ../../BNG.rst:911
 msgid "Xenagos, God of Revels"
-msgstr ""
+msgstr "Xenagos, Bóg Hulanki"
 
 # eaf4bc6de7a74f73bef8b0818b1e6642
 #: ../../BNG.rst:908

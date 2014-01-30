@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-10-01 16:56\n"
-"PO-Revision-Date: 2013-11-25 19:38+0200\n"
+"PO-Revision-Date: 2014-01-30 08:40+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1385404683.940788\n"
+"X-POOTLE-MTIME: 1391067611.528588\n"
 
 # cf7ee521875a459c9352819ad80d2edc
 # 887ff143b14348b2b7b52aec3a556c81
@@ -502,8 +502,8 @@ msgstr "Baleful Eidolon"
 msgid "Bestow |mana_4| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_4| |mana_b| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
-"on czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
-"jest dołączony do stwora.)"
+"ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
+"jest dołączona do stwora.)"
 
 # ccfb3149352b4f0eb2b7eb66097e1452
 # eb15caa3bac341879ffae458ff5339e0
@@ -640,8 +640,8 @@ msgstr "Błysk"
 msgid "Bestow |mana_3| |mana_g| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_3| |mana_g| |mana_g| (Jeśli zagrasz tę kartę za koszt "
-"obdarowania, jest on czarem Aury zauroczenia stwora. Ponownie staje się "
-"stworem, jeśli nie jest dołączony do stwora.)"
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # 83a194ac6fd24db9b5a8b4c62111b95f
 # 6c51b47c8a6d41bdb101ebf785ea6d72
@@ -775,8 +775,8 @@ msgstr "Cavern Lampad"
 msgid "Bestow |mana_5| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_5| |mana_b| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
-"on czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
-"jest dołączony do stwora.)"
+"ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
+"jest dołączona do stwora.)"
 
 # f833b029de3c4e14b46f430dbfa0662e
 # b12536b137a345dbb7b2e3754f197cd7
@@ -803,8 +803,8 @@ msgstr "Celestial Archon"
 msgid "Bestow |mana_5| |mana_w| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_5| |mana_w| |mana_w| (Jeśli zagrasz tę kartę za koszt "
-"obdarowania, jest on czarem Aury zauroczenia stwora. Ponownie staje się "
-"stworem, jeśli nie jest dołączony do stwora.)"
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # d48bc878c40247b0a3958c9b5654264f
 # 5965571a01944973ab4317dab4572a1f
@@ -1119,17 +1119,16 @@ msgstr "Zniszcz wskazany artefakt lub ląd."
 # d9966de26cc64385bf621fa3dbc99999
 # 752a07d051334dd2a858c13b1c8df934
 #: ../../THS.rst:298
-#, fuzzy
 msgid "Destructive Revelry"
-msgstr "Destructive Revelry"
+msgstr "Destructive Revelry (Niszczycielska Hulanka)"
 
 # 05ae836c21d9481d84e2d7e61b9ce36e
 # 54dbec2236364bdaab7a0db58251374b
 #: ../../THS.rst:297
 msgid "Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller."
 msgstr ""
-"Zniszcz wskazany artefakt lub urok. Destructive Revelry zadaje 2 obrażenia "
-"władcy owego permanentu."
+"Zniszcz wskazany artefakt lub urok. Niszczycielska Hulanka zadaje 2 "
+"obrażenia władcy owego permanentu."
 
 # ad0f0f5bb2dd4bb1b492ef484c413e79
 # ad5ba187f88042ea8db526b8017d5394
@@ -1737,8 +1736,8 @@ msgstr "Heliod's Emissary"
 msgid "Bestow |mana_6| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_6| |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
-"on czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
-"jest dołączony do stwora.)"
+"ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
+"jest dołączona do stwora.)"
 
 # 8c40b10d44364981bf2f6fd522519c6c
 # 8b0696e3c0684ac98bdaeecffdf56840
@@ -1774,8 +1773,8 @@ msgstr "Hopeful Eidolon"
 msgid "Bestow |mana_3| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_3| |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
-"on czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
-"jest dołączony do stwora.)"
+"ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
+"jest dołączona do stwora.)"
 
 # 1c214cb7b4864c5da6941495716d12d9
 # 761275fd59e547cba82482d195727872
@@ -2084,8 +2083,8 @@ msgstr "Leafcrown Dryad"
 msgid "Bestow |mana_3| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_3| |mana_g| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
-"on czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
-"jest dołączony do stwora.)"
+"ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
+"jest dołączona do stwora.)"
 
 # a249403e28e748a8b2f8f959ca04a1d1
 # 29a29d4b9921450aa8d909beb2670ac0
@@ -2406,8 +2405,8 @@ msgstr "Nighthowler"
 msgid "Bestow |mana_2| |mana_b| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_2| |mana_b| |mana_b| (Jeśli zagrasz tę kartę za koszt "
-"obdarowania, jest on czarem Aury zauroczenia stwora. Ponownie staje się "
-"stworem, jeśli nie jest dołączony do stwora.)"
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # 6c9976cf620b4be2b550eb1c7c11ffda
 # 472bef3fc9454ceeb824d68521c7ce40
@@ -2430,8 +2429,8 @@ msgstr "Nimbus Naiad"
 msgid "Bestow |mana_4| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_4| |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
-"on czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
-"jest dołączony do stwora.)"
+"ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
+"jest dołączona do stwora.)"
 
 # 0c44c8a4bd13435faf162dc9cc47c394
 # 38d288059123497090bbcca492d179f9
@@ -2522,8 +2521,8 @@ msgstr "Nylea's Emissary"
 msgid "Bestow |mana_5| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_5| |mana_g| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
-"on czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
-"jest dołączony do stwora.)"
+"ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
+"jest dołączona do stwora.)"
 
 # ad4827eece2c49b5889ba2f670813a52
 # bb0b4e012f9e445a9748e4364943b918
@@ -2569,8 +2568,8 @@ msgstr "Observant Alseid"
 msgid "Bestow |mana_4| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_4| |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
-"on czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
-"jest dołączony do stwora.)"
+"ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
+"jest dołączona do stwora.)"
 
 # 51df6dd5f509490a988c187229cec5ac
 # 3adb9e3b2c8a427e807a79b2b5212f72
@@ -3016,8 +3015,8 @@ msgstr "Purphoros's Emissary"
 msgid "Bestow |mana_6| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_6| |mana_r| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
-"on czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
-"jest dołączony do stwora.)"
+"ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
+"jest dołączona do stwora.)"
 
 # ec59586fb6f54ad1a90cf59304260841
 # 1525080de9f7422aa74fdc8e5ff73aff
@@ -3538,8 +3537,8 @@ msgstr "Spearpoint Oread"
 msgid "Bestow |mana_5| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_5| |mana_r| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
-"on czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
-"jest dołączony do stwora.)"
+"ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
+"jest dołączona do stwora.)"
 
 # a70bb883ff2b4bfabf1c4d86ca594679
 # d02f1b810cc84122aedafcf145972d74
@@ -3891,8 +3890,8 @@ msgstr "Thassa's Emissary"
 msgid "Bestow |mana_5| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_5| |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
-"on czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
-"jest dołączony do stwora.)"
+"ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli nie "
+"jest dołączona do stwora.)"
 
 # 3cc290b5b75f4019a0af20d26023bdee
 # 3c00334a341f4131bda6e6939df902fd
@@ -4339,9 +4338,8 @@ msgstr "Wyposaż |mana_1|"
 # 13fd506b539347dca91e604f8241a2f9
 # 6dc199210fad409ba411eccd14a671ab
 #: ../../THS.rst:1294
-#, fuzzy
 msgid "Xenagos, the Reveler"
-msgstr "Xenagos, the Reveler"
+msgstr "Xenagos, the Reveler (Xenagos Hulaka)"
 
 # 46690b7b1f2d43a3853baac3531cf2fd
 # dce403dfbe6a44849a7f2009337abdb3
