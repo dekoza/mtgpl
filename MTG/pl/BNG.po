@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-30 11:42+0100\n"
-"PO-Revision-Date: 2014-01-30 15:07+0200\n"
+"PO-Revision-Date: 2014-01-30 16:18+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
-"Language-Team: logrus\n"
+"Language-Team: tylko ja\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-POOTLE-MTIME: 1391090838.157543\n"
 
 # 002c0f8b22fd47fca10fa6654a5b2208
@@ -2153,6 +2153,10 @@ msgstr "Perplexing Chimera"
 #: ../../BNG.rst:606
 msgid "Whenever an opponent casts a spell, you may exchange control of Perplexing Chimera and that spell. If you do, you may choose new targets for the spell. (If the spell becomes a permanent, you control that permanent.)"
 msgstr ""
+"Ilekroć przeciwnik rzuca czar, możesz zamienić władanie nad Perplexing "
+"Chimera i owym czarem. Jeśli tak zrobisz, możesz wybrać nowe cele dla owego "
+"czaru. (Jeśli ów czar stanie się permanentem, masz władanie nad owym "
+"permanentem.)"
 
 # 44e4e5a9d8c545c5899e1c76e4293fc7
 # 92edb10456014939ad9572ef7189cbe6
@@ -2201,6 +2205,9 @@ msgstr "Pheres-Band Raiders"
 #: ../../BNG.rst:624
 msgid "Inspired — Whenever Pheres-Band Raiders becomes untapped, you may pay |mana_2| |mana_g|. If you do, put a 3/3 green Centaur enchantment creature token onto the battlefield."
 msgstr ""
+"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić "
+"|mana_2| |mana_u|. Jeśli tak zrobisz, połóż na polu walki żeton niebieskiego "
+"uroku-stwora Ptak 2/2 z lataniem."
 
 # 02392bf92d254168bdf9ae0ba9f3b6e7
 # 133e7f61a897439394465ce673af7e2a
@@ -2435,17 +2442,19 @@ msgstr "Scourge of Skola Vale"
 # ef1fb768fc284606bf3be03688d232af
 #: ../../BNG.rst:698
 msgid "Scourge of Skola Vale enters the battlefield with two +1/+1 counters on it."
-msgstr ""
+msgstr "Scourge of Skola Vale wchodzi na pole walki z dwoma znacznikami +1/+1."
 
 # 4fe044919d474b3283bc0303e401239d
 #: ../../BNG.rst:700
 msgid "|tap|, Sacrifice another creature: Put a number of +1/+1 counters on Scourge of Skola Vale equal to the sacrificed creature's toughness."
 msgstr ""
+"|tap|, poświęć innego stwora: Połóż na Scourge of Skola Vale tyle znaczników "
+"+1/+1, ile wynosiła wytrzymałość poświęconego stwora."
 
 # 69e08f0dc38a432abeef2a0b0e12a5c4
 #: ../../BNG.rst:705
 msgid "Scouring Sands"
-msgstr ""
+msgstr "Scouring Sands"
 
 # 0427cb22f93c44329950802c64fa0ee3
 # 238a2d9da3f64d44a25a6dc634689406
@@ -2491,12 +2500,14 @@ msgstr "|mana_2| |mana_b|: Zregeneruj Sługę Tymareta."
 # ef27975ef72343d29bf950509d0e49e0
 #: ../../BNG.rst:719
 msgid "Setessan Oathsworn"
-msgstr ""
+msgstr "Setessan Oathsworn"
 
 # 439d92338aeb40b68be9a9cbc299e2af
 #: ../../BNG.rst:718
 msgid "Heroic — Whenever you cast a spell that targets Setessan Oathsworn, put two +1/+1 counters on Setessan Oathsworn."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący na Akroan Skyguard, połóż znacznik "
+"+1/+1 na Akroan Skyguard."
 
 # 8bad4c6003b6464b8c9a2ce98abd4bc6
 # 54a9c3cf68bc44cd92562cd584bd3e81
