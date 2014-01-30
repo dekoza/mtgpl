@@ -3,6 +3,9 @@
  Spis zmian
 ************
 
+2014-01-29
+    Nowe dodatki: :doc:`Born of the Gods<BNG>`, :doc:`Avacyn Restored<AVR>`, :doc:`
+
 2014-01-27
     Zmiana kolejności wyświetlania dodatków. Dodanie podziału na Standard/Modern/Pozostałe/Specjalne.
 
