@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-29 11:21+0100\n"
-"PO-Revision-Date: 2014-01-30 08:39+0200\n"
+"PO-Revision-Date: 2014-01-30 10:12+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1391067554.881457\n"
+"X-POOTLE-MTIME: 1391073124.245068\n"
 
 # 5aa88d8ba2cd46a19fbee225ea34c30e
 #: ../../BNG.rst:5
@@ -1445,8 +1445,12 @@ msgstr "Marshmist Titan"
 
 # 0c369d54c32746a3987076b937e1dd6f
 #: ../../BNG.rst:476
+#, fuzzy
 msgid "Marshmist Titan costs |mana_x| less to cast, where X is your devotion to black. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)"
 msgstr ""
+"Koszt rzucenia Marshmist Titan jest zmniejszony o |mana_x|, gdzie X jest "
+"twoim kultem czarnego. (Każdy symbol |mana_b| w kosztach permanentów, "
+"którymi władasz, wlicza się w twój kult czarnego.)"
 
 # 9fb23184611848ab9da5f54f477999ae
 #: ../../BNG.rst:481
@@ -1477,13 +1481,16 @@ msgstr ""
 
 # 4d2fbd4f63864b46835dc950510c737a
 #: ../../BNG.rst:486
+#, fuzzy
 msgid "|mana_u| |mana_u|, Sacrifice Mindreaver: Counter target spell with the same name as a card exiled with Mindreaver."
 msgstr ""
+"|mana_u| |mana_u|, poświęć Mindreaver: Skontruj wskazany czar o tej samej "
+"nazwie co karta wypędzona Mindreaverem."
 
 # abaa095d51f241ea8c49f15b4b3b4147
 #: ../../BNG.rst:491
 msgid "Mischief and Mayhem"
-msgstr ""
+msgstr "Mischief and Mayhem (Psota i Zamęt)"
 
 # fcc25e3cf0e943679f5e630f817be39d
 #: ../../BNG.rst:490
@@ -1493,7 +1500,7 @@ msgstr "Każdy z najwyżej dwóch wskazanych stworów dostaje +4/+4 do końca tu
 # 36adde1cd0714273bc972a2748bb9780
 #: ../../BNG.rst:499
 msgid "Mogis, God of Slaughter"
-msgstr ""
+msgstr "Mogis, God of Slaughter (Mogis, Bóg Rzezi)"
 
 # 863c18b04ed847278eaf214bd79efb86
 #: ../../BNG.rst:496
@@ -1511,28 +1518,36 @@ msgstr ""
 
 # a0b4308cb49b4a8a9d816c9306d5040b
 #: ../../BNG.rst:503
+#, fuzzy
 msgid "Mortal's Ardor"
-msgstr ""
+msgstr "Mortal's Ardor"
 
 # 25bfac9bebcd43a48cae51af950629f3
 #: ../../BNG.rst:502
 msgid "Target creature gets +1/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +1/+1 oraz więź życia. (Obrażenia "
+"zadane przez tego stwora dodatkowo sprawiają, że jego władca zyskuje tyle "
+"samo życia.)"
 
 # 79bfd085ec9f40feb750dbd8e4d5bacd
 #: ../../BNG.rst:507
+#, fuzzy
 msgid "Mortal's Resolve"
-msgstr ""
+msgstr "Mortal's Resolve"
 
 # 538252251c624b8ea026533aa17c3160
 #: ../../BNG.rst:506
 msgid "Target creature gets +1/+1 and gains indestructible until end of turn. (Damage and effects that say \\\"destroy\\\" don't destroy it.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +1/+1 oraz niezniszczalność. (Obrażenia "
+"oraz efekty mówiące \\\"zniszcz\\\" nie niszczą go.)"
 
 # 7fd39ecbfccb44d199e04212b0f0f8ab
 #: ../../BNG.rst:511
+#, fuzzy
 msgid "Necrobite"
-msgstr ""
+msgstr "Necrobite"
 
 # d90c37c4ad1243de84f74601867b4c5d
 #: ../../BNG.rst:510
@@ -1542,7 +1557,7 @@ msgstr "Wskazany stwór zyskuje dotyk śmierci do końca tury. Zregeneruj go."
 # 087bad2395ee47fb8ac216fce9f307c0
 #: ../../BNG.rst:517
 msgid "Nessian Demolok"
-msgstr ""
+msgstr "Nessian Demolok (Nessiański Demolok)"
 
 # a05d2da816e64be5bf2c597f56428f63
 # 7e7597f8739c4be1b30878ebc2b6abe8
@@ -1566,8 +1581,9 @@ msgstr ""
 
 # 8017b226bc324a5cbdf0ae55081a03e2
 #: ../../BNG.rst:523
+#, fuzzy
 msgid "Nessian Wilds Ravager"
-msgstr ""
+msgstr "Nessian Wilds Ravager"
 
 # b58eca9d24f748329c7fee4950cc430f
 #: ../../BNG.rst:520
@@ -1586,8 +1602,9 @@ msgstr ""
 
 # 2a4db1d8912c498ca4a9b84f8b5db34f
 #: ../../BNG.rst:531
+#, fuzzy
 msgid "Noble Quarry"
-msgstr ""
+msgstr "Noble Quarry"
 
 # 2e8dbfb7fea5475a81b4b2a7e8d49ad6
 #: ../../BNG.rst:526
@@ -1599,8 +1616,11 @@ msgstr ""
 
 # 141ca964076a445097ee6d88ac894df2
 #: ../../BNG.rst:528
+#, fuzzy
 msgid "All creatures able to block Noble Quarry or enchanted creature do so."
 msgstr ""
+"Wszystkie stwory mogące blokować Noble Quarry lub zauroczonego stwora, robią "
+"to."
 
 # f40e526bfd5c43b5bd2361f1ba54dda1
 #: ../../BNG.rst:535
@@ -1677,12 +1697,13 @@ msgstr ""
 # 7bb9675864494ce8bf6d6aa5d2369b0b
 #: ../../BNG.rst:558
 msgid "Enchanted creature gets +2/+3."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+3."
 
 # 08b8a640241e4d88a7f9336a0297b011
 #: ../../BNG.rst:565
+#, fuzzy
 msgid "Nyxborn Wolf"
-msgstr ""
+msgstr "Nyxborn Wolf"
 
 # 8d3d0c578cd640c2be7270d5af692c7f
 #: ../../BNG.rst:562
@@ -1695,27 +1716,33 @@ msgstr ""
 # f75577eef2a1477095d8f949d2e3df9d
 #: ../../BNG.rst:564
 msgid "Enchanted creature gets +3/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+1."
 
 # d683a15559944ab79b51879be15dc7e4
 #: ../../BNG.rst:571
+#, fuzzy
 msgid "Odunos River Trawler"
-msgstr ""
+msgstr "Odunos River Trawler"
 
 # acda18b8c6c2448e9719eb248add76a5
 #: ../../BNG.rst:568
+#, fuzzy
 msgid "When Odunos River Trawler enters the battlefield, return target enchantment creature card from your graveyard to your hand."
 msgstr ""
+"Kiedy Odunos River Trawler wchodzi na pole walki, zwróć wskazaną kartę uroku "
+"z twojego cmentarza do twojej ręki."
 
 # de86b69b843547e5ae77cdb83a009c18
 #: ../../BNG.rst:570
 msgid "|mana_w|, Sacrifice Odunos River Trawler: Return target enchantment creature card from your graveyard to your hand."
 msgstr ""
+"|mana_w|, poświęć Odunos River Trawler: Przywróć wskazaną kartę uroku-stwora "
+"z twojego cmentarza do twojej ręki."
 
 # bfee212ae37d4a669811c6387f4b7294
 #: ../../BNG.rst:579
 msgid "Oracle of Bones"
-msgstr ""
+msgstr "Oracle of Bones (Wyrocznia Kości)"
 
 # 1b76b400cb4c483a98f3b9eae1636144
 # 1e61491d5e564715bc0d63f3c4dd0df9
@@ -1724,7 +1751,7 @@ msgstr ""
 #: ../../BNG.rst:688
 #: ../../BNG.rst:794
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 # 45534d7eb83e453cbbc5ad38f8692633
 #: ../../BNG.rst:578
@@ -1736,8 +1763,9 @@ msgstr ""
 
 # 2eb099fd549b486c8e7d95af5c4a1913
 #: ../../BNG.rst:585
+#, fuzzy
 msgid "Oracle's Insight"
-msgstr ""
+msgstr "Oracle's Insight"
 
 # 8e5d1f39748e4be1acf8c9ab1546b3a4
 #: ../../BNG.rst:584
@@ -1781,8 +1809,9 @@ msgstr ""
 
 # 704f15e401174c39bb74561d26763e53
 #: ../../BNG.rst:605
+#, fuzzy
 msgid "Peregrination"
-msgstr ""
+msgstr "Peregrination"
 
 # 78aea314e89a4902b3b2d213dc1f7f9f
 #: ../../BNG.rst:604
@@ -1796,8 +1825,9 @@ msgstr ""
 
 # 4271116765d64975a9b6b827da7e6541
 #: ../../BNG.rst:609
+#, fuzzy
 msgid "Perplexing Chimera"
-msgstr ""
+msgstr "Perplexing Chimera"
 
 # 406af4ad777a411a823a4f73b1f596bc
 #: ../../BNG.rst:608
@@ -1806,8 +1836,9 @@ msgstr ""
 
 # 92edb10456014939ad9572ef7189cbe6
 #: ../../BNG.rst:615
+#, fuzzy
 msgid "Pharagax Giant"
-msgstr ""
+msgstr "Pharagax Giant"
 
 # a6330e4c27164da5aff8c4399081cbe9
 #: ../../BNG.rst:614
@@ -1819,7 +1850,7 @@ msgstr ""
 # 85b34c94279b492bb6b9a6481f51e11f
 #: ../../BNG.rst:623
 msgid "Phenax, God of Deception"
-msgstr ""
+msgstr "Phenax, God of Deception (Phenax, Bóg Oszustwa)"
 
 # 0030c64b0f194a8f8bfbe450d8193349
 #: ../../BNG.rst:620
@@ -1833,8 +1864,9 @@ msgstr ""
 
 # 6069b194eab24370be181fcbf18799ba
 #: ../../BNG.rst:627
+#, fuzzy
 msgid "Pheres-Band Raiders"
-msgstr ""
+msgstr "Pheres-Band Raiders"
 
 # 0cd68eba12a64c0da96543eb9816ec96
 #: ../../BNG.rst:626
@@ -1843,68 +1875,83 @@ msgstr ""
 
 # 133e7f61a897439394465ce673af7e2a
 #: ../../BNG.rst:631
+#, fuzzy
 msgid "Pheres-Band Tromper"
-msgstr ""
+msgstr "Pheres-Band Tromper"
 
 # 87b17c520f144e5a83e623453678c1ba
 #: ../../BNG.rst:630
+#, fuzzy
 msgid "Inspired — Whenever Pheres-Band Tromper becomes untapped, put a +1/+1 counter on it."
 msgstr ""
+"Natchniony — Ilekroć Pheres-Band Tromper zostaje odznaczony, połóż na nim "
+"znacznik +1/+1."
 
 # fcca1551e0d449f7852f9e56f51488e0
 #: ../../BNG.rst:637
 msgid "Pillar of War"
-msgstr ""
+msgstr "Pillar of War (Filar Wojny)"
 
 # 2e6fdec978014c4499ab2a693fb1d280
 #: ../../BNG.rst:636
 msgid "As long as Pillar of War is enchanted, it can attack as though it didn't have defender."
 msgstr ""
+"Dopóki Filar Wojny jest zauroczony, może atakować, jakby nie miał "
+"obronności."
 
 # 7fae62dd22be4ce98897736c04cf25e6
 #: ../../BNG.rst:641
 msgid "Pinnacle of Rage"
-msgstr ""
+msgstr "Pinnacle of Rage (Szczyt Szału)"
 
 # 16dc534f15424c619dd7aed7384bbcc1
 #: ../../BNG.rst:640
 msgid "Pinnacle of Rage deals 3 damage to each of two target creatures and/or players."
-msgstr ""
+msgstr "Szczyt Szału zadaje po 3 obrażenia obu wskazanym stworom i/lub graczom."
 
 # 8c73c3974b86422bbf927def4558e4ae
 #: ../../BNG.rst:645
+#, fuzzy
 msgid "Plea for Guidance"
-msgstr ""
+msgstr "Plea for Guidance"
 
 # cde4cdaeab854441baf7bfaf5b59268a
 #: ../../BNG.rst:644
 msgid "Search your library for up to two enchantment cards, reveal them, and put them into your hand. Then shuffle your library."
 msgstr ""
+"Poszukaj w twojej bibliotece do dwóch kart uroków, ujawnij je i dołóż do "
+"twojej ręki. Następnie przetasuj twoją bibliotekę."
 
 # 0136df3f62874b889402da252d76c588
 #: ../../BNG.rst:649
+#, fuzzy
 msgid "Ragemonger"
-msgstr ""
+msgstr "Ragemonger"
 
 # 90315a1dfe6344c4b227cf259ce60502
 #: ../../BNG.rst:648
 msgid "Minotaur spells you cast cost |mana_b| |mana_r| less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Minotaur spell with mana cost |mana_2| |mana_r|, it costs |mana_2| to cast.)"
 msgstr ""
+"Rzucenie czarów Minotaurów kosztuje cię o |mana_b| |mana_r| mniej. Efekt ten "
+"zmniejsza tylko ilość kolorowej many. (Przykładowo jeśli rzucasz czar "
+"Minotaura o koszcie |mana_2| |mana_r|, płacisz za jego rzucenie |mana_2|.)"
 
 # 1ef182757dee4180af4a07c0524c8127
 #: ../../BNG.rst:657
 msgid "Raised by Wolves"
-msgstr ""
+msgstr "Raised by Wolves (Wychowany Przez Wilki)"
 
 # 4a1194d361b646a38b836e7042109879
 #: ../../BNG.rst:654
 msgid "When Raised by Wolves enters the battlefield, put two 2/2 green Wolf creature tokens onto the battlefield."
 msgstr ""
+"Kiedy Wychowany Przez Wilki wchodzi na pole walki, połóż na polu walki dwa "
+"żetony dzielonego stwora Wilk 2/2."
 
 # 07b0c155749d4055b4a8c2e8018e5514
 #: ../../BNG.rst:656
 msgid "Enchanted creature gets +1/+1 for each Wolf you control."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 za każdego Wilka, którym władasz."
 
 # 275953a0e92d4b109ae2603740f2c960
 #: ../../BNG.rst:661
@@ -1928,18 +1975,22 @@ msgstr "|mana_r|, poświęć Lekkomyślnego Hulakę: Zniszcz wskazany artefakt."
 
 # 0551141492024c2a849ea66b0a30be0e
 #: ../../BNG.rst:669
+#, fuzzy
 msgid "Retraction Helix"
-msgstr ""
+msgstr "Retraction Helix"
 
 # de14d3061cb440eea405864a28200c84
 #: ../../BNG.rst:668
 msgid "Until end of turn, target creature gains \\\"|tap|: Return target nonland permanent to its owner's hand.\\\""
 msgstr ""
+"Wskazany stwór zyskuje do końca tury \\\"|tap|: Zwróć wskazany nielądowy "
+"permanent do ręki jego właściciela.\\\""
 
 # 252461bb940540378c26fd1d01f22d3d
 #: ../../BNG.rst:673
+#, fuzzy
 msgid "Revoke Existence"
-msgstr ""
+msgstr "Revoke Existence"
 
 # 5a42e906e99045d8a42e3e62f1801af0
 #: ../../BNG.rst:672
@@ -1948,8 +1999,9 @@ msgstr "Wypędź wskazany artefakt lub urok."
 
 # a9bb845bbaf1475baeaf45a0e00a8d8d
 #: ../../BNG.rst:677
+#, fuzzy
 msgid "Rise to the Challenge"
-msgstr ""
+msgstr "Rise to the Challenge"
 
 # 5ca21d699a8b43f2b3838132b05049a4
 #: ../../BNG.rst:676
@@ -1958,8 +2010,9 @@ msgstr "Wskazany stwór dostaje do końca tury +2/+0 oraz pierwszy cios."
 
 # cf772670a9014679821017b296b86750
 #: ../../BNG.rst:681
+#, fuzzy
 msgid "Sanguimancy"
-msgstr ""
+msgstr "Sanguimancy"
 
 # 5fdc1018ff874456b649aa29bdc98bc6
 #: ../../BNG.rst:680
@@ -1984,28 +2037,39 @@ msgstr ""
 
 # 58c56280ceca4b61a0e8b3d782560c46
 #: ../../BNG.rst:691
+#, fuzzy
 msgid "Satyr Nyx-Smith"
-msgstr ""
+msgstr "Satyr Nyx-Smith"
 
 # d491d05e15a543c98e89c043ef084332
 #: ../../BNG.rst:690
+#, fuzzy
 msgid "Inspired — Whenever Satyr Nyx-Smith becomes untapped, you may pay |mana_2| |mana_r|. If you do, put a 3/1 red Elemental enchantment creature token with haste onto the battlefield."
 msgstr ""
+"Natchniony — Ilekroć Satyr Nyx-Smith zostaje odznaczony, możesz zapłacić "
+"|mana_2| |mana_r|. Jeśli tak zrobisz, połóż na polu walki żeton czerwonego "
+"uroku-stwora Żywiołak z pośpiechem."
 
 # b41ced31cfaf4943ba65af3fc941e285
 #: ../../BNG.rst:695
+#, fuzzy
 msgid "Satyr Wayfinder"
-msgstr ""
+msgstr "Satyr Wayfinder"
 
 # 36b7ca2c1df34061880486b91e686fde
 #: ../../BNG.rst:694
+#, fuzzy
 msgid "When Satyr Wayfinder enters the battlefield, reveal the top four cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard."
 msgstr ""
+"Kiedy Satyr Wayfinder wchodzi na pole walki, ujawnij cztery wierzchnie karty "
+"twojej biblioteki. Możesz dołożyć kartę lądu spośród nich do twojej ręki. "
+"Połóż pozostałe do twojego cmentarza."
 
 # e566259201c8494e95235f6337b68984
 #: ../../BNG.rst:703
+#, fuzzy
 msgid "Scourge of Skola Vale"
-msgstr ""
+msgstr "Scourge of Skola Vale"
 
 # f8f43d5a8d2e4510ad739176de3c43e4
 #: ../../BNG.rst:700
@@ -2069,8 +2133,9 @@ msgstr ""
 
 # 54a9c3cf68bc44cd92562cd584bd3e81
 #: ../../BNG.rst:725
+#, fuzzy
 msgid "Setessan Starbreaker"
-msgstr ""
+msgstr "Setessan Starbreaker"
 
 # cedb675c508944aa9c7b1e098be59199
 #: ../../BNG.rst:724
@@ -2080,7 +2145,7 @@ msgstr ""
 # c8d711c27ad244a28c20730b783b4a4b
 #: ../../BNG.rst:733
 msgid "Shrike Harpy"
-msgstr ""
+msgstr "Shrike Harpy (Harpia Dzierzbowa)"
 
 # cdcbd783b1c345278fe0d52e84d4a833
 #: ../../BNG.rst:732
@@ -2091,8 +2156,9 @@ msgstr ""
 
 # 82661c9abd8d4f5b890a55246656d869
 #: ../../BNG.rst:739
+#, fuzzy
 msgid "Silent Sentinel"
-msgstr ""
+msgstr "Silent Sentinel"
 
 # 39f6376abdbe45adac1803de4bcbb091
 #: ../../BNG.rst:738
@@ -2102,7 +2168,7 @@ msgstr ""
 # 74bbabc8a88345dfb709658bfcea6311
 #: ../../BNG.rst:747
 msgid "Siren of the Fanged Coast"
-msgstr ""
+msgstr "Siren of the Fanged Coast (Syrena Wybrzeża Kłów)"
 
 # 4d6df29887d04f2a8bd46e7a2b7377fe
 #: ../../BNG.rst:746
@@ -2126,8 +2192,9 @@ msgstr ""
 
 # bcf7fc2f8afe43908755cb6a4aba0a30
 #: ../../BNG.rst:759
+#, fuzzy
 msgid "Siren Song Lyre"
-msgstr ""
+msgstr "Siren Song Lyre"
 
 # 317251bb01a34770a2ad257eb35aaf60
 #: ../../BNG.rst:756
@@ -2136,18 +2203,23 @@ msgstr ""
 
 # 181b38b9eca2467f83e780b7ae738ec7
 #: ../../BNG.rst:763
+#, fuzzy
 msgid "Skyreaping"
-msgstr ""
+msgstr "Skyreaping"
 
 # d92fd6e6fac049e18039c06cea744e8f
 #: ../../BNG.rst:762
+#, fuzzy
 msgid "Skyreaping deals damage to each creature with flying equal to your devotion to green. (Each |mana_g| in the mana costs of permanents you control counts toward your devotion to green.)"
 msgstr ""
+"Skyreaping zadaje każdemu stworowi z lataniem obrażenia równe twojemu "
+"kultowi zielonego. (Każdy symbol |mana_g| w kosztach many permanentów, "
+"którymi władasz, wlicza się do twojego kultu zielonego.)"
 
 # cb144ea59f8c4c2887097427b4a57e31
 #: ../../BNG.rst:769
 msgid "Snake of the Golden Grove"
-msgstr ""
+msgstr "Snake of the Golden Grove (Wąż ze Złotego Zagajnika)"
 
 # 58e0ce38cf1b41fca1365ce10ac5279e
 #: ../../BNG.rst:768
@@ -2158,8 +2230,9 @@ msgstr ""
 
 # 047ea1433f554461a842f1041a559898
 #: ../../BNG.rst:775
+#, fuzzy
 msgid "Sphinx's Disciple"
-msgstr ""
+msgstr "Sphinx's Disciple"
 
 # 2981506fe92143e1988adf84a6805fde
 #: ../../BNG.rst:774
@@ -2170,17 +2243,18 @@ msgstr ""
 # 6e3f2e98270f4c2c8a1aba44b26e9c75
 #: ../../BNG.rst:779
 msgid "Spirit of the Labyrinth"
-msgstr ""
+msgstr "Spirit of the Labyrinth (Duch Labiryntu)"
 
 # 080c1355df244059925a2b0a78e9ccf8
 #: ../../BNG.rst:778
 msgid "Each player can't draw more than one card each turn."
-msgstr ""
+msgstr "Żaden gracz nie może dobrać więcej niż jedną kartę w każdej turze."
 
 # c895fa6984f44cd7a50bfc2189acd68b
 #: ../../BNG.rst:787
+#, fuzzy
 msgid "Spiteful Returned"
-msgstr ""
+msgstr "Spiteful Returned"
 
 # 46453e6de1b948e2a2b3ed68448fa596
 #: ../../BNG.rst:782
@@ -2192,13 +2266,17 @@ msgstr ""
 
 # 700a7f24a6cf4a58939c4de4fad48297
 #: ../../BNG.rst:784
+#, fuzzy
 msgid "Whenever Spiteful Returned or enchanted creature attacks, defending player loses 2 life."
 msgstr ""
+"Ilekroć Spiteful Returned lub zauroczony stwór atakuje, broniący się gracz "
+"traci 2 życia."
 
 # 5d3d7380a40d4e44a7a827e221cbbcb8
 #: ../../BNG.rst:791
+#, fuzzy
 msgid "Springleaf Drum"
-msgstr ""
+msgstr "Springleaf Drum"
 
 # 881fb546ef4c4d2e80a4013be4dc0cf6
 #: ../../BNG.rst:790
@@ -2209,8 +2287,9 @@ msgstr ""
 
 # 42b05fb4fcea45b6a9bf1ab1aee8d7ce
 #: ../../BNG.rst:797
+#, fuzzy
 msgid "Stormcaller of Keranos"
-msgstr ""
+msgstr "Stormcaller of Keranos"
 
 # f01e4449a9b34e1f80dc22c18dfd7b88
 #: ../../BNG.rst:796
@@ -2222,22 +2301,22 @@ msgstr ""
 # eb5cb4f47ba14e3cbde04e9d95930899
 #: ../../BNG.rst:807
 msgid "Stratus Walk"
-msgstr ""
+msgstr "Stratus Walk (Spacer w Chmurach)"
 
 # 0a55683cf937461e8419d21fca8edc51
 #: ../../BNG.rst:802
 msgid "When Stratus Walk enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy Spacer w Chmurach wchodzi na pole walki, dobierz kartę."
 
 # c60834759b5543daaeb89b5c22acfeac
 #: ../../BNG.rst:806
 msgid "Enchanted creature can block only creatures with flying."
-msgstr ""
+msgstr "Zauroczony stwór może blokować tylko stwory z lataniem."
 
 # 644d7f121e5b403f8922ee44f5ef51e5
 #: ../../BNG.rst:811
 msgid "Sudden Storm"
-msgstr ""
+msgstr "Sudden Storm (Nagła Burza)"
 
 # 49520fbeb4374bd6b52270428885ad1d
 #: ../../BNG.rst:810
@@ -2250,18 +2329,22 @@ msgstr ""
 
 # 58eebcb26dc64a529b7292086719208b
 #: ../../BNG.rst:817
+#, fuzzy
 msgid "Sunbond"
-msgstr ""
+msgstr "Sunbond"
 
 # 6de7a7c6f5a94d8297cbe773b1fcedd2
 #: ../../BNG.rst:816
 msgid "Enchanted creature has \\\"Whenever you gain life, put that many +1/+1 counters on this creature.\\\""
 msgstr ""
+"Zauroczony stwór ma \\\"Ilekroć zyskujesz życie, połóż tyle samo znaczników "
+"+1/+1 na tym stworze.\\\""
 
 # cbfe5d986b1141d4a65fb7e09bf3a770
 #: ../../BNG.rst:819
+#, fuzzy
 msgid "Swordwise Centaur"
-msgstr ""
+msgstr "Swordwise Centaur"
 
 # 301958970b04469ba7073cc562583dc8
 #: ../../BNG.rst:829
@@ -2284,7 +2367,7 @@ msgstr ""
 # 59dbde6caef54c9882ee8de59b74285b
 #: ../../BNG.rst:828
 msgid "|tap|: Add |mana_w| or |mana_u| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_w| lub |mana_u| do twojej puli many."
 
 # 0714d35b16b34b20bc27dde8f11a5078
 #: ../../BNG.rst:837
@@ -2307,7 +2390,7 @@ msgstr ""
 # 0f3249c8d25e4c3889b9ab4e27a7c087
 #: ../../BNG.rst:836
 msgid "|tap|: Add |mana_b| or |mana_r| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
 
 # 8f015b9e9e80467280cdf3cb06722dac
 #: ../../BNG.rst:845
@@ -2330,22 +2413,26 @@ msgstr ""
 # d4afa495da1e406d96538697e0149979
 #: ../../BNG.rst:844
 msgid "|tap|: Add |mana_g| or |mana_w| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_g| lub |mana_w| do twojej puli many."
 
 # 48d3efc64f5549e28aa871fc30b9198b
 #: ../../BNG.rst:849
+#, fuzzy
 msgid "Thassa's Rebuff"
-msgstr ""
+msgstr "Thassa's Rebuff"
 
 # 8bd42ab80cdf4aa590c810844333b6ab
 #: ../../BNG.rst:848
 msgid "Counter target spell unless its controller pays |mana_x|, where X is your devotion to blue. (Each |mana_u| in the mana costs of permanents you control counts toward your devotion to blue.)"
 msgstr ""
+"Skontruj wskazany czar dopóki jego władca nie dopłaci |mana_x|, gdzie X jest "
+"twoim kultem niebieskiego (Każdy symbol |mana_u| w kosztach many "
+"permanentów, którymi władasz, wlicza się do twojego kultu niebieskiego.)"
 
 # 87959b7cd6ff42e988d5545c03fd710e
 #: ../../BNG.rst:857
 msgid "Thunder Brute"
-msgstr ""
+msgstr "Thunder Brute (Grzmotodrab)"
 
 # 95fafe73c95449b0980958b588bab92e
 #: ../../BNG.rst:856
@@ -2356,115 +2443,153 @@ msgstr ""
 
 # 6b0c7ec5455546b49984fef208ec457f
 #: ../../BNG.rst:863
+#, fuzzy
 msgid "Thunderous Might"
-msgstr ""
+msgstr "Thunderous Might"
 
 # ac6b07bf931448a4ae4f4e62c0a0088d
 #: ../../BNG.rst:862
 msgid "Whenever enchanted creature attacks, it gets +X/+0 until end of turn, where X is your devotion to red. (Each |mana_r| in the mana costs of permanents you control counts toward your devotion to red.)"
 msgstr ""
+"Ilekroć zauroczony stwór atakuje, dostaje do końca tury +X/+0, gdzie X jest "
+"twoim kultem czerwonego. (Każdy symbol |mana_r| w kosztach many permanentów, "
+"którymi władasz, wlicza się do twojego kultu czerwonego.)"
 
 # b051115aa4cb4ad095ad046d40e8e233
 #: ../../BNG.rst:869
 msgid "Tromokratis"
-msgstr ""
+msgstr "Tromokratis"
 
 # 2ab2caa0fe864bdeb251cac7fd4529d1
 #: ../../BNG.rst:866
+#, fuzzy
 msgid "Tromokratis has hexproof unless it's attacking or blocking."
-msgstr ""
+msgstr "Tromokratis ma antyklątwę dopóki nie atakuje lub blokuje."
 
 # 1022baec9f5a4f8c8f5a7df3bbbe95c4
 #: ../../BNG.rst:868
 msgid "Tromokratis can't be blocked unless all creatures defending player controls block it. (If any creature that player controls doesn't block this creature, it can't be blocked.)"
 msgstr ""
+"Tromokratis nie może być blokowany dopóki wszystkie stwory władane przez "
+"broniącego się gracza go nie zablokują. (Jeśli jakikolwiek stwór owego "
+"gracza nie blokuje tego stwora, nie może on być zablokowany.)"
 
 # afbee8820f364dbe92d141d31711ceec
 #: ../../BNG.rst:873
+#, fuzzy
 msgid "Unravel the Æther"
-msgstr ""
+msgstr "Unravel the Æther"
 
 # 36af510bdb7043afb780b003ec6b188f
 #: ../../BNG.rst:872
 msgid "Choose target artifact or enchantment. Its owner shuffles it into his or her library."
 msgstr ""
+"Wybierz wskazany artefakt lub urok. Jego właściciel wtasowuje go do swojej "
+"biblioteki."
 
 # b931ac24deb74da08cf0d0a1a73082ae
 #: ../../BNG.rst:879
+#, fuzzy
 msgid "Vanguard of Brimaz"
-msgstr ""
+msgstr "Vanguard of Brimaz"
 
 # 52fc7d3203e34f9482c6bd9518021ddc
 #: ../../BNG.rst:878
+#, fuzzy
 msgid "Heroic — Whenever you cast a spell that targets Vanguard of Brimaz, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący Vanguard of Brimaz, połóż na polu "
+"walki żeton białego stwora Piechur Kot 1/1 z czujnością."
 
 # 02b157a1d5254f068af3b7630f2a2421
 #: ../../BNG.rst:885
 msgid "Vortex Elemental"
-msgstr ""
+msgstr "Vortex Elemental (Wirołak)"
 
 # fb2ba3acf331469ba378d5cd1d5b9c2a
 #: ../../BNG.rst:882
 msgid "|mana_u|: Put Vortex Elemental and each creature blocking or blocked by it on top of their owners' libraries, then those players shuffle their libraries."
 msgstr ""
+"|mana_u|: Połóż Wirołaka i każdego stwora blokującego go lub blokowanego "
+"przez niego na wierzchu bibliotek ich właścicieli, następnie owi gracze "
+"tasują swoje biblioteki."
 
 # 757a537812294a2d84c7f35b72c3ef69
 #: ../../BNG.rst:884
 msgid "|mana_3| |mana_u| |mana_u|: Target creature blocks Vortex Elemental this turn if able."
 msgstr ""
+"|mana_3| |mana_u| |mana_u|: Wskazany stwór blokuje Wirołaka w tej turze "
+"jeśli może."
 
 # 5e5b7e995a1d4a01adfeacf61b6ced35
 #: ../../BNG.rst:889
+#, fuzzy
 msgid "Warchanter of Mogis"
-msgstr ""
+msgstr "Warchanter of Mogis"
 
 # d23666942a8a4e108fd49a66aa0148a3
 #: ../../BNG.rst:888
+#, fuzzy
 msgid "Inspired — Whenever Warchanter of Mogis becomes untapped, target creature you control gains intimidate until end of turn. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
 msgstr ""
+"Natchniony — Ilekroć Warchanter of Mogis zostaje odznaczony, wskazany stwór, "
+"którym władasz, zyskuje zastraszenie do końca tury. (Stwór z zastraszaniem "
+"nie może być blokowany przez stwory inne niż artefaktowe lub takie, które "
+"współdzielą z nim kolor.)"
 
 # 74f0ad02b51243bba5c7717f90869324
 #: ../../BNG.rst:895
+#, fuzzy
 msgid "Weight of the Underworld"
-msgstr ""
+msgstr "Weight of the Underworld"
 
 # 856db7f9af404b9eb1d2236a8e2363e9
 #: ../../BNG.rst:894
 msgid "Enchanted creature gets -3/-2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -3/-2."
 
 # e927c62d78be437ca56a0ffbeacded59
 #: ../../BNG.rst:899
+#, fuzzy
 msgid "Whelming Wave"
-msgstr ""
+msgstr "Whelming Wave"
 
 # 9ccc45326f66426fa723137dfb0e84b1
 #: ../../BNG.rst:898
 msgid "Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents."
 msgstr ""
+"Zwróć wszystkie stwory do rąk ich właścicieli z wyjątkiem Krakenów, "
+"Lewiatanów, Ośmiornic i Wężowników."
 
 # 9dc028373a544d718c5380f5c36ccd73
 #: ../../BNG.rst:903
+#, fuzzy
 msgid "Whims of the Fates"
-msgstr ""
+msgstr "Whims of the Fates"
 
 # 20733036019d4125a4721026ed4b694f
 #: ../../BNG.rst:902
 msgid "Starting with you, each player separates all permanents he or she controls into three piles. Then each player chooses one of his or her piles at random and sacrifices those permanents. (Piles can be empty.)"
 msgstr ""
+"Począwszy od ciebie, każdy gracz dzieli wszystkie władane przez siebie "
+"permanenty na trzy stosy. Następnie każdy gracz wybiera losowo jeden ze "
+"swoich stosów i poświęca te permanenty. (Stosy mogą być puste.)"
 
 # ec6800cde6c74bcd91198323c66bdf2c
 #: ../../BNG.rst:911
 msgid "Xenagos, God of Revels"
-msgstr "Xenagos, Bóg Hulanki"
+msgstr "Xenagos, God of Revels (Xenagos, Bóg Hulanki)"
 
 # eaf4bc6de7a74f73bef8b0818b1e6642
 #: ../../BNG.rst:908
 msgid "As long as your devotion to red and green is less than seven, Xenagos isn't a creature."
 msgstr ""
+"Dopóki twój kult czerwonego i zielonego jest mniejszy niż siedem, Xenagos "
+"nie jest stworem."
 
 # aeca11765bb44456a089fe7cff14760d
 #: ../../BNG.rst:910
 msgid "At the beginning of combat on your turn, another target creature you control gains haste and gets +X/+X until end of turn, where X is that creature's power."
 msgstr ""
+"Na początku walki w twojej turze, inny wskazany stwór, którym władasz, "
+"dostaje do końca tury pośpiech oraz +X/+X, gdzie X jest siłą owego stwora."
