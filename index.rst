@@ -36,11 +36,12 @@ Modern
 * :doc:`Avacyn Restored<AVR>` (0%)
 * :doc:`Dark Ascension<DKA>` (0%)
 * :doc:`Innistrad<ISD>` (0%)
+* :doc:`New Phyrexia<NPH>` (0%)
 
 Pozostałe
 ---------
 
-* :doc:`Commander 2013<C13>` (0%)
+* :doc:`Commander 2013<C13>` (3%)
 
 Specjalne karty
 ---------------
