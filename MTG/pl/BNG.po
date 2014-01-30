@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-30 11:42+0100\n"
-"PO-Revision-Date: 2014-01-30 11:58+0200\n"
+"PO-Revision-Date: 2014-01-30 15:07+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1391079514.66811\n"
+"X-POOTLE-MTIME: 1391090838.157543\n"
 
 # 002c0f8b22fd47fca10fa6654a5b2208
 # 5aa88d8ba2cd46a19fbee225ea34c30e
@@ -1908,8 +1908,9 @@ msgstr ""
 
 # b9f8616117fc4086ab3f3025379911df
 #: ../../BNG.rst:533
+#, fuzzy
 msgid "Nullify"
-msgstr ""
+msgstr "Nullify"
 
 # e241fe112e0d4f38ad013d3ee166ca7c
 # e9d90d33a3bc45fc8f14ae2f9f2b21e5
@@ -1919,8 +1920,9 @@ msgstr "Skontruj wskazany czar stwora lub Aury."
 
 # 84f6535a6ccb4e489381876d4923d2b0
 #: ../../BNG.rst:539
+#, fuzzy
 msgid "Nyxborn Eidolon"
-msgstr ""
+msgstr "Nyxborn Eidolon"
 
 # c1850725cc3c4169ad83dadab1e104c6
 # 206741df98d4404c980edeadca4b9a66
@@ -1939,8 +1941,9 @@ msgstr "Zauroczony stwór dostaje +2/+1."
 
 # 2f62e06563f848c3a0e494230e3a54e0
 #: ../../BNG.rst:545
+#, fuzzy
 msgid "Nyxborn Rollicker"
-msgstr ""
+msgstr "Nyxborn Rollicker"
 
 # d4517b945aaa44bdae7eb848df18c5d0
 # a28e41367bed41358bac444ec0b02b8b
@@ -1953,8 +1956,9 @@ msgstr ""
 
 # 9b29916784954f0d88eb7df0932e6ce9
 #: ../../BNG.rst:551
+#, fuzzy
 msgid "Nyxborn Shieldmate"
-msgstr ""
+msgstr "Nyxborn Shieldmate"
 
 # 3ac24f23ee1746c5961caf1d275cf456
 # 67c317452b284ad39ad98e21e848970d
@@ -1973,8 +1977,9 @@ msgstr "Zauroczony stwór dostaje +1/+2."
 
 # a3116d290f4a4a98a661558531fbede7
 #: ../../BNG.rst:557
+#, fuzzy
 msgid "Nyxborn Triton"
-msgstr ""
+msgstr "Nyxborn Triton"
 
 # f7909822acc64113b24c14ffab03fd96
 # a6c5cfa5a4034c13b6579c977fd6af83
@@ -2082,13 +2087,16 @@ msgstr ""
 
 # 6c297ade602e45abbbc4162461ccd7b2
 #: ../../BNG.rst:587
+#, fuzzy
 msgid "Oreskos Sun Guide"
-msgstr ""
+msgstr "Oreskos Sun Guide"
 
 # fbc54704291c451f8e98e8118effa464
 #: ../../BNG.rst:586
 msgid "Inspired — Whenever Oreskos Sun Guide becomes untapped, you gain 2 life."
 msgstr ""
+"Natchniony — Ilekroć Oreskos Sun Guide zostaje odznaczony, zyskujesz 2 "
+"życia."
 
 # 66eee54a2283466a84017a0b4a8e2af4
 #: ../../BNG.rst:595
@@ -2499,8 +2507,11 @@ msgstr "Setessan Starbreaker"
 
 # 634ae678e34a4388a60a450dac6d01c4
 #: ../../BNG.rst:722
+#, fuzzy
 msgid "When Setessan Starbreaker enters the battlefield, you may destroy target Aura."
 msgstr ""
+"Kiedy Setessan Starbreaker wchodzi na pole walki, możesz zniszczyć wskazaną "
+"Aurę."
 
 # bc009165ee38406fa89a7c6a53aed86b
 # c8d711c27ad244a28c20730b783b4a4b
