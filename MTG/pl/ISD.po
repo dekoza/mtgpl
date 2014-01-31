@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-29 11:21+0100\n"
-"PO-Revision-Date: 2014-01-29 11:26+0200\n"
+"PO-Revision-Date: 2014-01-31 10:16+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: tylko ja\n"
 "Language: pl\n"
@@ -16,12 +16,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1391159808.806397\n"
 
 # 356ea75fd01940caba3ff74f86388354
 #: ../../ISD.rst:5
 msgid "Innistrad"
-msgstr ""
+msgstr "Innistrad"
 
 # 46168061063c4d82b517932386ce7c31
 #: ../../ISD.rst:11
@@ -37,7 +38,7 @@ msgstr ""
 #: ../../ISD.rst:744
 #: ../../ISD.rst:1402
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 # aaafb122d7ab4cb8b7c381cdc4d152a4
 #: ../../ISD.rst:10
@@ -52,7 +53,7 @@ msgstr ""
 # 7161748de6074687bf98827e77abb538
 #: ../../ISD.rst:14
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 # 697706f69bc546e9a68711c2ac10e76a
 #: ../../ISD.rst:21
@@ -67,7 +68,7 @@ msgstr ""
 # 3964e206bd974aaea92691b1d899ff17
 #: ../../ISD.rst:20
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 # c51686f9bdea4592b441a22af5b520a8
 #: ../../ISD.rst:27
@@ -96,7 +97,7 @@ msgstr ""
 # 630957516e4941119444d62ad7ac4752
 #: ../../ISD.rst:30
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 # 2863541b22f34417bbb832dedaf0324f
 # f58e074122eb4b1d9e3ea1a0a5b398c3
@@ -159,7 +160,7 @@ msgstr ""
 #: ../../ISD.rst:1254
 #: ../../ISD.rst:1378
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 # 42e997ef953c4a9da59645d7b329459d
 #: ../../ISD.rst:38
@@ -195,11 +196,15 @@ msgstr ""
 #: ../../ISD.rst:52
 msgid "Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped."
 msgstr ""
+"Połóż na polu walki trzynaście zaznaczonych żetonów czarnego stwora Zombi "
+"2/2."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:54
 msgid "Flashback |mana_7| |mana_b| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # e5a394c84d0a4efcb5be43e493ef4f5d
 #: ../../ISD.rst:59
@@ -229,7 +234,7 @@ msgstr ""
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:66
 msgid "|tap|: Add |mana_w| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_w| do twojej puli many."
 
 # 640cd58a60094ad5bf403f4f156c5786
 #: ../../ISD.rst:71
@@ -284,7 +289,7 @@ msgstr ""
 # cb73bf1cb4414614942b35b73bf9ef71
 #: ../../ISD.rst:92
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 # c0fc9ce6cd174aeba302e45d05695be5
 #: ../../ISD.rst:94
@@ -314,7 +319,7 @@ msgstr ""
 # 723a4a980a744f53bce1736a8d53538a
 #: ../../ISD.rst:104
 msgid "Equipped creature can't be blocked by Vampires or Zombies."
-msgstr ""
+msgstr "Wyposażony stwór nie może być blokowany przez Wampiry i Zombi."
 
 # 8e24d21f4d3b4c61af45ec8c7a170962
 #: ../../ISD.rst:106
@@ -375,7 +380,7 @@ msgstr ""
 # af8e5c19f6a64f89b69627d6388aa261
 #: ../../ISD.rst:135
 msgid "Bonds of Faith"
-msgstr ""
+msgstr "Bonds of Faith (Więzi Wiary)"
 
 # 2840e57240234601bcc1858a93ee92af
 # 3bd92ed9550149d29057726e4f811efd
@@ -400,7 +405,7 @@ msgstr ""
 #: ../../ISD.rst:1192
 #: ../../ISD.rst:1452
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 # 3877b35df96c4b65b1e680742c516598
 #: ../../ISD.rst:134
@@ -439,12 +444,12 @@ msgstr ""
 # 518a4a400329475ca3032787d4c32a85
 #: ../../ISD.rst:149
 msgid "Bramblecrush"
-msgstr ""
+msgstr "Bramblecrush (Miażdżące Ciernie)"
 
 # 28d09e7d45cc4688bffec695691ea5aa
 #: ../../ISD.rst:148
 msgid "Destroy target noncreature permanent."
-msgstr ""
+msgstr "Zniszcz wskazany niestworowy permanent."
 
 # 4713c59c59f14317931d0aff4a7fc439
 #: ../../ISD.rst:155
@@ -469,7 +474,7 @@ msgstr ""
 # 4ea73746f3774688b1eaab9650ae10f6
 #: ../../ISD.rst:158
 msgid "Target opponent loses 3 life."
-msgstr ""
+msgstr "Wskazany przeciwnik traci 3 życia."
 
 # 3822745e670348ec9d55f468305d4f42
 #: ../../ISD.rst:160
@@ -494,7 +499,7 @@ msgstr ""
 # e93edc1141a04ffe8073d9112effde15
 #: ../../ISD.rst:168
 msgid "Equipped creature gets +3/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +3/+0."
 
 # e3702e862d20473490f94d4916ba3dae
 #: ../../ISD.rst:170
@@ -506,7 +511,7 @@ msgstr ""
 #: ../../ISD.rst:172
 #: ../../ISD.rst:824
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 # 30eac859ebb74b54a5693b8230ed1171
 #: ../../ISD.rst:179
@@ -591,12 +596,12 @@ msgstr ""
 # cbb0b486d72d406fa9c4a91e903088dd
 #: ../../ISD.rst:215
 msgid "Claustrophobia"
-msgstr ""
+msgstr "Claustrophobia (Klaustrofobia)"
 
 # 17e9b2aa69f24df2a809f3883ce36609
 #: ../../ISD.rst:212
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy Klaustrofobia wchodzi na pole walki, zaznacz zauroczonego stwora."
 
 # c68bb78ced1649828c33d67784cb0ca0
 #: ../../ISD.rst:214
@@ -636,7 +641,7 @@ msgstr ""
 # 3a21aee7195f433a8d40b301ee23ad32
 #: ../../ISD.rst:228
 msgid "Equipped creature has flying."
-msgstr ""
+msgstr "Wyposażony stwór ma latanie."
 
 # 5321aae451b24b6eb1e73c6b02c0097d
 #: ../../ISD.rst:237
@@ -676,7 +681,7 @@ msgstr ""
 # bbe4230bba8a4d43af20b17a6a9d5bce
 #: ../../ISD.rst:246
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 # 862aa0f84f9d42ae990546a683944a69
 #: ../../ISD.rst:248
@@ -696,7 +701,7 @@ msgstr ""
 # b6c40103b9164affb2ef77be179e5ce4
 #: ../../ISD.rst:259
 msgid "Curiosity"
-msgstr ""
+msgstr "Curiosity (Ciekawość)"
 
 # 14c6dcdf006d489aa9b6ab15304602ba
 #: ../../ISD.rst:258
@@ -721,12 +726,12 @@ msgstr ""
 #: ../../ISD.rst:286
 #: ../../ISD.rst:292
 msgid "Enchant player"
-msgstr ""
+msgstr "Zaurocz gracza"
 
 # 4d4d62724442459ebb50a5147243b51d
 #: ../../ISD.rst:264
 msgid "Creatures enchanted player controls get -1/-1."
-msgstr ""
+msgstr "Stwory władane przez zauroczonego gracza dostają -1/-1."
 
 # e9fd8abd828a439c9401e1eb5596f765
 #: ../../ISD.rst:271
@@ -751,7 +756,7 @@ msgstr ""
 # de150feef01641b7bebe4fac52d0088a
 #: ../../ISD.rst:283
 msgid "Curse of the Bloody Tome"
-msgstr ""
+msgstr "Curse of the Bloody Tome (Przekleństwo Krwawej Księgi)"
 
 # be7ed06aa517441f96d5ceed143752ef
 #: ../../ISD.rst:282
@@ -811,7 +816,7 @@ msgstr ""
 # 24616a928d61421ea3ee260c599ea1df
 #: ../../ISD.rst:310
 msgid "Enchanted creature gets -2/-2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -2/-2."
 
 # fbe0a8dffd0b4258b9ccee10bd1d5547
 #: ../../ISD.rst:317
