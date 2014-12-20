@@ -23,17 +23,19 @@ Tłumaczenie dodatków
 Standard
 --------
 
+* :doc:`Khans of Tarkir<KTK>` (0%)
+* :doc:`Magic 2015 Core Set<M15>` (0%)
 * :doc:`Journey into Nyx<JOU>` (0%)
 * :doc:`Born of the Gods<BNG>` (100%)
 * :doc:`Theros<THS>` (100%)
-* :doc:`Magic 2014 Core Set<M14>` (100%)
-* :doc:`Dragons' Maze<DGM>` (100%)
-* :doc:`Gatecrash<GTC>` (100%)
-* :doc:`Return to Ravnica<RTR>` (100%)
 
 Modern
 ------
 
+* :doc:`Magic 2014 Core Set<M14>` (100%)
+* :doc:`Dragons' Maze<DGM>` (100%)
+* :doc:`Gatecrash<GTC>` (100%)
+* :doc:`Return to Ravnica<RTR>` (100%)
 * :doc:`Avacyn Restored<AVR>` (9%)
 * :doc:`Dark Ascension<DKA>` (0%)
 * :doc:`Innistrad<ISD>` (0%)
@@ -42,15 +44,16 @@ Modern
 Pozostałe
 ---------
 
+* :doc:`Commander 2014<C14>` (0%)
 * :doc:`Commander 2013<C13>` (5%)
 
 Specjalne karty
 ---------------
 
 * :doc:`Bohaterowie<THS_heroes>` (100%) - uwzględnia karty z Journey into Nyx
+* :doc:`Pokonaj Bóstwo<JOU_god>` (0%)
 * :doc:`Walka z Hordą<BNG_horde>` (100%)
 * :doc:`Staw czoła Hydrze<THS_hydra>` (100%)
-* :doc:`Pokonaj Bóstwo<JOU_god>` (0%)
 
 Warto przeczytać
 ================
@@ -93,6 +96,10 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
    C13
    BNG_horde
    BNG
+   KTK
+   M15
+   C14
+   JOU
 
    game_variants
    polish_cards

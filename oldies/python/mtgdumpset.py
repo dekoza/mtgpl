@@ -7,7 +7,10 @@ from django.utils.encoding import smart_str
 #~ sets = [('Return to Ravnica', 'RTR'), ('Gatecrash', 'GTC'), ("Dragon's Maze", 'DGM'), ('Magic 2014 Core Set', 'M14')]
 #sets = [('Theros', 'THS'),]
 #sets = [('Commander 2013', 'C13'),]
-sets = [('Journey into Nyx', 'JOU'),]
+sets = [
+        ('Magic 2015 Core Set', 'M15'),
+        ('Khans of Tarkir', 'KTK'),
+        ]
 for s in sets:
 #
     request = SearchRequest({'set': s[0]})
