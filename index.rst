@@ -23,6 +23,7 @@ Tłumaczenie dodatków
 Standard
 --------
 
+* :doc:`Journey into Nyx<JOU>` (0%)
 * :doc:`Born of the Gods<BNG>` (100%)
 * :doc:`Theros<THS>` (100%)
 * :doc:`Magic 2014 Core Set<M14>` (100%)
@@ -33,7 +34,7 @@ Standard
 Modern
 ------
 
-* :doc:`Avacyn Restored<AVR>` (0%)
+* :doc:`Avacyn Restored<AVR>` (9%)
 * :doc:`Dark Ascension<DKA>` (0%)
 * :doc:`Innistrad<ISD>` (0%)
 * :doc:`New Phyrexia<NPH>` (4%)
@@ -46,9 +47,10 @@ Pozostałe
 Specjalne karty
 ---------------
 
-* :doc:`Bohaterowie<THS_heroes>` (100%) - uwzględnia karty z Born of the Gods
+* :doc:`Bohaterowie<THS_heroes>` (100%) - uwzględnia karty z Journey into Nyx
 * :doc:`Walka z Hordą<BNG_horde>` (100%)
 * :doc:`Staw czoła Hydrze<THS_hydra>` (100%)
+* :doc:`Pokonaj Bóstwo<JOU_god>` (0%)
 
 Warto przeczytać
 ================

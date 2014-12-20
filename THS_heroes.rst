@@ -57,3 +57,57 @@ The Vanquisher
 The Warmonger
     Exile The Warmonger: Creatures you control get +2/+0 and gain haste until end of turn.
        
+
+Journey into Nyx
+================
+
+Hero Artifacts
+--------------
+
+Spear of the General
+    Equipped creature gets +2/+0 and has first strike.
+    
+    Equip |mana_2|
+    
+Cloak of the Philosopher
+    Equipped creature gets +1/+1.
+    
+    |mana_2|: Untap equipped creature.
+    
+    Equip |mana_2|
+    
+Lash of the Tyrant
+    Equipped creature gets +1/+2 and has deathtouch.
+    
+    Equip |mana_2|
+    
+Axe of the Warmonger
+    Equipped creature gets +2/+1 and has haste.
+    
+    Equip |mana_2|
+    
+Bow of the Hunter
+    Equipped creature has "|tap|: This creature deals 2 damage to target creature or player."
+    
+    Equip |mana_2|
+
+"Forge a Godslayer" Stickers
+----------------------------
+
+* Equipped creature has double strike.
+* Whenever equipped creature deals damage, untap two target lands.
+* Equipped creature has vigilance and can block an additional creature each combat.
+* Whenever equipped creature deals damage, put a +1/+1 counter on it.
+* Whenever equipped creature deals damage, scry 1.
+* Equipped creature has protection from enchantments.
+* Whenever equipped creature deals damage, put a 1/1 white Soldier creature token onto the battlefield.
+
+Heroes
+------
+
+The Destined
+    Spells you cast that target a creature you control cost |mana_2| less to cast.
+    
+The Champion
+    |mana_2|, |tap|, Exile The Champion: Search your library for a legendary artifact card that isn't a creature,
+    reveal it, and put it onto the battlefield. Then shuffle your library
