@@ -1,0 +1,319 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# Dominik <dominik@kozaczko.info>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-21 12:35+0100\n"
+"PO-Revision-Date: 2014-12-21 12:37+0200\n"
+"Last-Translator: Dominik <dominik@kozaczko.info>\n"
+"Language-Team: logrus\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+# b60b8ca86c0541ea959d5419ab33df4c
+#: ../../JOU_god.rst:5
+msgid "Defeat a God!"
+msgstr ""
+
+# 2994dc7066774a4392abff373fcd4a60
+#: ../../JOU_god.rst:7
+msgid "Xenagps has thrown all of Theros into disarray with his ascension to godhood. His euphoric revels threaten to plunge the plane into chaos. There is only one way to silence this revel once and for all: isolate Xenagos and vanquish him."
+msgstr ""
+
+# 647c0fbed313426fba9ba1b8189def71
+#: ../../JOU_god.rst:11
+msgid "The party starts small, with only Xenagos and a few of his revelers, but that relative calm will not last for long. More and more revelers will join as the battle continues. They are violently erratic, attacking without warning one moment and pausing to celebrate the next. Xenagos will even attack you directly when the mood strikes him. As long as the revel continues and revelers surround him, he is untouchable. But a god who loses all his followers is vulnerable."
+msgstr ""
+
+# 34658654bf8646f89e4f10b978c2d147
+#: ../../JOU_god.rst:18
+msgid "Is your destiny a heroic victory or death at the hands of the divine? Xenagos awaits."
+msgstr ""
+
+# e366baddfb3d43588d57f26b4f88edcf
+#: ../../JOU_god.rst:22
+msgid "**The \"Defeat a God\" Challenge uses the Regular Magic rules, with the following exceptions:**"
+msgstr ""
+
+# 0bfe118ba5694e19a9eb6c7919b10ec2
+#: ../../JOU_god.rst:26
+msgid "Special Rules for the Player"
+msgstr ""
+
+# 45f984fdae394e35a4840532971f8ec2
+#: ../../JOU_god.rst:28
+msgid "You start with up to three different Hero cards on the battlefield. (You don't need a Hero to play.)"
+msgstr ""
+
+# 44b613d9dcf74b3e98b6186a61299b7c
+#: ../../JOU_god.rst:29
+msgid "You attack Xenagos Ascended and his Revelers directly with your creatures."
+msgstr ""
+
+# dde100f19a4840f18354bfdd7d8b4972
+#: ../../JOU_god.rst:30
+msgid "You may target Xenagos as though he were a player."
+msgstr ""
+
+# 673fca4cdef64f629cb493a2a009a83f
+#: ../../JOU_god.rst:34
+msgid "Special Rules for Xenagos"
+msgstr ""
+
+# 5b804816c6914f6a8c8bc44855bf6f9b
+#: ../../JOU_god.rst:36
+msgid "**Xenagos Ascended and two cards named Rollicking Throng begin the game on the battlefield.** Shuffle the rest of Xenagos's deck to begin the game."
+msgstr ""
+
+# 949089bf8d8f46dab175e2c1f566693e
+#: ../../JOU_god.rst:37
+msgid "At the beginning of Xenagos's first main phase each turn, reveal the top two cards of Xenagos's library. Then Xenagos casts those cards."
+msgstr ""
+
+# ea2b34d509ef4c9da575cfc5cb7c7144
+#: ../../JOU_god.rst:38
+msgid "Xenagos Ascended and Reveler creatures don't attack unless a card specifically says they do."
+msgstr ""
+
+# de8490b097cc410d8bb12b9b888c3227
+#: ../../JOU_god.rst:39
+msgid "You make the choice if Xenagos needs to make a decision."
+msgstr ""
+
+# 620a4e971316484b8c53133e0b829810
+#: ../../JOU_god.rst:40
+msgid "Ignore effects that would cause Xenagos to draw or discard cards, or perform any impossible actions."
+msgstr ""
+
+# 38f63ce42e58496e84db57b2692c51ee
+#: ../../JOU_god.rst:41
+msgid "If on of Xenagos's permanents would move to any zone other than its library or graveyard, that card is put into Xenagos's graveyard."
+msgstr ""
+
+# ec4d1acb558e4db2a16c871102962c95
+#: ../../JOU_god.rst:45
+msgid "Winning the Challenge"
+msgstr ""
+
+# 804d80f2cfa54eae8e44e05dbd1de5bd
+#: ../../JOU_god.rst:47
+msgid "**You win the game if Xenagos leaves the battlefield, which can happen only if there are no Revelers on the battlefield.**"
+msgstr ""
+
+# 7f8b8c5305fc4afca3fc3a15e52ea766
+#: ../../JOU_god.rst:49
+msgid "You lose the game if you have 0 or less life or if you have to draw a card and your library is empty."
+msgstr ""
+
+# 31c0dabfb06a454d8cdf258a6a5cbac8
+#: ../../JOU_god.rst:51
+msgid "For a more difficult challenge, try beginning the game with three cards named Rollicking Throng on the battlefield. For an easier challenge, try with only one."
+msgstr ""
+
+# 363664426e4d4e7d9415293299b9c36c
+#: ../../JOU_god.rst:56
+msgid "Xenagos's Cards"
+msgstr ""
+
+# 6e433f16123245508c4bb096d261d62b
+#: ../../JOU_god.rst:59
+msgid "God"
+msgstr ""
+
+# 8e4707617d0241f895a15db24c53afec
+#: ../../JOU_god.rst:64
+msgid "Xenagos Ascended"
+msgstr ""
+
+# be19c32c550540bc9dd1ad694944c3ef
+#: ../../JOU_god.rst:62
+msgid "Xenagos Ascended can't leave the battlefield as long as a Reveler is on the battlefield."
+msgstr ""
+
+# fb8179b201b345ca87ddd6908b8c11b4
+#: ../../JOU_god.rst:64
+msgid "When Xenagos Ascended leaves the battlefield, each player wins the game."
+msgstr ""
+
+# db5679190c0d42b39130addd49725189
+#: ../../JOU_god.rst:67
+msgid "Creatures"
+msgstr ""
+
+# fbe42f04ed164ba7aff71441d662565c
+#: ../../JOU_god.rst:71
+msgid "Rollicking Throng"
+msgstr ""
+
+# 691b72abb8364630bb3f10f4d54423e0
+#: ../../JOU_god.rst:70
+msgid "When Rollicking Throng enters the battlefield, reveal the top card of Xenagos's library and Xenagos casts that card. (This ability doesn't trigger as the game begins.)"
+msgstr ""
+
+# de81cca1d361474f8470c1bdd44d14d2
+#: ../../JOU_god.rst:76
+msgid "Ecstatic Piper"
+msgstr ""
+
+# 40aa22d49a374bbb9cb2e37d07ee1736
+#: ../../JOU_god.rst:74
+msgid "When Ecstatic Piper enters the battlefield, Xenagos Ascended attacks this turn if able."
+msgstr ""
+
+# f3e90c5ce8fb4ff0b1950d20d7bd38c6
+#: ../../JOU_god.rst:76
+msgid "Hero's Reward - When Ecstatic Piper leaves the battlefield, each player gains 2 life."
+msgstr ""
+
+# b1afdb29885142d296fa1d68a072fe26
+#: ../../JOU_god.rst:81
+msgid "Maddened Oread"
+msgstr ""
+
+# b8026a1f628a4fc4a0f01a912f5a88ad
+#: ../../JOU_god.rst:79
+msgid "As long as five or more Revelers are on the battlefield, Maddened Oread attacks each turn if able."
+msgstr ""
+
+# a80f44e45244423aac935df612cbe45d
+#: ../../JOU_god.rst:81
+msgid "Hero's Reward - When Maddened Oread leaves the battlefield, each player gains 3 life."
+msgstr ""
+
+# 01da3b15a2974326bcdf1f82d9ad622a
+#: ../../JOU_god.rst:84
+msgid "Pheres-Band Revelers"
+msgstr ""
+
+# da07809e79cd4097b2e6b1fc78e0d26c
+#: ../../JOU_god.rst:84
+msgid "Hero's Reward - When Pheres-Band Revelers leaves the battlefield, each player draws a card."
+msgstr ""
+
+# 27dc30ffbe5042289150ef7e9e8bc842
+#: ../../JOU_god.rst:89
+msgid "Serpent Dancers"
+msgstr ""
+
+# 9cac438b29314d9bb24041f9b8b5fa1a
+#: ../../JOU_god.rst:87
+msgid "Deathtouch"
+msgstr ""
+
+# 9afe540f959d4548b5eb70d950ed07b2
+#: ../../JOU_god.rst:89
+msgid "Hero's Reward - When Serpent Dancers leaves the battlefield, each player draws a card."
+msgstr ""
+
+# 68892038f4344dc4b8b242c2c81dc960
+#: ../../JOU_god.rst:94
+msgid "Wild Maenads"
+msgstr ""
+
+# 49257cccf1f347e69c3f204d8e4e00e8
+#: ../../JOU_god.rst:92
+msgid "First strike"
+msgstr ""
+
+# 84ea58a968b84224be04d440fef3d4b1
+#: ../../JOU_god.rst:94
+msgid "Hero's Reward - When Wild Maenads leaves the battlefield, each player gains 3 life."
+msgstr ""
+
+# 7f7ee365689f41c2a76127bbf0312dd4
+#: ../../JOU_god.rst:97
+msgid "Sorceries"
+msgstr ""
+
+# 5a548d295f614cfead2777d1a17c2f66
+#: ../../JOU_god.rst:100
+msgid "Impulsive Charge"
+msgstr ""
+
+# 89e662b4afa64728a49eec820de83de7
+#: ../../JOU_god.rst:100
+msgid "At the beginning of combat this turn, all Revelers gain haste until end of turn and attack this combat if able."
+msgstr ""
+
+# 0a7bd25c7b5f495f8ba7846e114822a6
+#: ../../JOU_god.rst:104
+msgid "Impulsive Destruction"
+msgstr ""
+
+# 804690f351f74793a4ac3a0fe71f904e
+#: ../../JOU_god.rst:103
+msgid "Each player may sacrifice an artifact or enchantment. Impulsive Destruction deals 3 damage to each player who didn't sacrifice a permanent this way."
+msgstr ""
+
+# bb38c0928bc348a481979f62c56270ba
+#: ../../JOU_god.rst:108
+msgid "Impulsive Return"
+msgstr ""
+
+# 192ced00338d4f78a62e6684b8d7e5b7
+#: ../../JOU_god.rst:107
+msgid "Return two cards named Ecstatic Piper from Xenagos's graveyard to the battlefield. At the beginning of combat this turn, Impulsive Return deals damage to each player equal to the number of Revelers on the battlefield."
+msgstr ""
+
+# d3cd776d1ad14901b71acd02e39df33a
+#: ../../JOU_god.rst:111
+msgid "Rip to Pieces"
+msgstr ""
+
+# ed7576f0dfa34e07a8fc28ea425089aa
+#: ../../JOU_god.rst:111
+msgid "At the beginning of combat this turn, each Reveler deals 1 damage to each player and each creature those players control."
+msgstr ""
+
+# cb42625bbb2d41018ae8e1f0688fe47d
+#: ../../JOU_god.rst:114
+msgid "Xenagos's Scorn"
+msgstr ""
+
+# ef08a83709584929865597aded903572
+#: ../../JOU_god.rst:114
+msgid "Xenagos Ascended gains trample until end of turn and attacks this turn if able."
+msgstr ""
+
+# fbfca2b67c25439e8cbd4752b04ac65d
+#: ../../JOU_god.rst:118
+msgid "Xenagos's Strike"
+msgstr ""
+
+# 055c9846b7ee47ea849c2995db8d5dbc
+#: ../../JOU_god.rst:117
+msgid "Xenagos's Strike deals 4 damage to each player."
+msgstr ""
+
+# d2a13e5358f741eb8d92ee42e385e0dd
+#: ../../JOU_god.rst:121
+msgid "Enchantments"
+msgstr ""
+
+# e0f1e7d73532464589308701a46d5c9d
+#: ../../JOU_god.rst:124
+msgid "Dance of Flame"
+msgstr ""
+
+# 02698243238d436492c1a0bc085bd2eb
+#: ../../JOU_god.rst:124
+msgid "Whenever a Reveler attacks, Dance of Flame deals 1 damage to each player."
+msgstr ""
+
+# aabbd75adf4a4d718f25b433605d1b39
+#: ../../JOU_god.rst:129
+msgid "Dance of Panic"
+msgstr ""
+
+# c87ed5d075ac4ded89075d6a315a251e
+#: ../../JOU_god.rst:127
+msgid "As long as five or more Revelers are on the battlefield, all Revelers have haste and attack each turn if able."
+msgstr ""
