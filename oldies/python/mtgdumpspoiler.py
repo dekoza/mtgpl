@@ -17,8 +17,7 @@ def manarepl(match):
         return '|mana_%s|' % symbol.lower()
 
 
-sets = [('Born of the Gods', 'BNG'), ('Avacyn Restored', 'AVR'), ('Dark Ascension', 'DKA'), ('Innistrad', 'ISD'),
-        ('New Phyrexia', 'NPH'), ('Mirrodin Besieged', 'MBS'), ('Scars of Mirrodin', 'SOM')]
+sets = [('Journey into Nyx', 'JOU'),]
 for s in sets:
 #
     request = SearchRequest({'set': s[0]})

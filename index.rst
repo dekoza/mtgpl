@@ -23,9 +23,9 @@ Tłumaczenie dodatków
 Standard
 --------
 
-* :doc:`Khans of Tarkir<KTK>` (0%)
-* :doc:`Magic 2015 Core Set<M15>` (0%)
-* :doc:`Journey into Nyx<JOU>` (0%)
+* :doc:`Khans of Tarkir<KTK>` (1%)
+* :doc:`Magic 2015 Core Set<M15>` (5%)
+* :doc:`Journey into Nyx<JOU>` (34%)
 * :doc:`Born of the Gods<BNG>` (100%)
 * :doc:`Theros<THS>` (100%)
 
