@@ -1,0 +1,3145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-24 00:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../M14_Rulebook.rst:7
+# 8dc00187bbee4a64b261fe5f0b5e13f6
+msgid "Magic the Gathering - Basic Rulebook"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:11
+# 314b18b439ba4e50bab2ff907d21cd5e
+msgid "Ignite Your Spark"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:13
+# aa616ff39cfb4c09a8319a3bca910c35
+msgid "In the **Magic™** game, you are counted among the elite spellcasters of the Multiverse — the Planeswalkers. Some are friends and others are foes. All wield terrifying magic and command armies of creatures torn from the endless planes of reality. Your deck of cards represents all the weapons in your arsenal. It contains the spells you know and the creatures you can summon to fight for you. Customize your own **Magic** deck, then challenge your friends to see whose spark burns the brightest!"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:18
+# a5b913fdee69436d971dc227dd8d4543
+msgid "Trading card games like the **Magic: The Gathering®** game combine collectable cards with a strategy game. Start your collection with an intro pack and begin battling immediately with a ready-to-play deck."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:21
+# e9056e3239564ff8ae8e843c970d7003
+msgid "Once you've gotten a handle on how to play, customize your deck using cards from booster packs, starting with the ones included in your intro pack. You don't know what cards you'll get in a **Magic** booster pack. You just start a collection and trade with other players to get the cards you want. You can find stores where **Magic** cards are sold at `Wizards.com/Locator`_."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:25
+# beaebf23c02d415eab9bd136ab98c8ec
+msgid "The best part about a trading card game is that it's always changing. You design and build your own unique decks, and each **Magic** game you play is different. New **Magic** expansions are released a few times a year, and each new expansion brings new ways to stupefy and defeat your opponents. Check out `MagicTheGathering.com`_ for daily articles, insider information, and news about upcoming sets!"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:32
+# 1cd583ff0f404d2f94172561824fe89c
+msgid "Section 1: The Basics"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:34
+# 447a480c9eda47918627c887c8a523f2
+msgid "The **Magic: The Gathering** game is a strategy game played by two or more players, each of whom has a customized deck of **Magic** cards. Over the course of the game, each player will take turns playing cards such as lands (which enable you to play your other cards), creatures, sorceries, and other spells. Each player starts at 20 life. When you reduce your opponent to 0 life by attacking with creatures and playing spells, you win!"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:40
+# 3245e4749b054d00ac3d64821153ca8a
+msgid "Five Colors of Mana"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:42
+# c99a4861559444069101aa9e480faad7
+msgid "Only one thing unites the infinite planes of the Multiverse: mana, the energy that fuels all magic. The five colors of mana are imbued in the land itself, and a Planeswalker with a connection to a place can call upon its mana from across the sea of Æther between worlds."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:45
+# 3ee41e90ed14443fb3094c1beff327fe
+msgid "Each color of mana fuels a different kind of powerful magic for you to command. For example, red spells have |mana_r| in their costs, and tapping (turning) a Mountain gives you |mana_r| that you can spend to cast spells. It's up to you whether to master one color or all five."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:53
+# 9a0fdb79f9254b3a91dca856e539244d
+msgid "White"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:54
+# e27a4945c1c7414997c91c9900d4f120
+msgid "**White** is the color of law, order, and structure. The sprawling **Plains**, populated by soldiers, clerics, and angels, provide white mana. You send coordinated armies of smaller creatures into battle to teach the enemy a lesson."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:59
+# e60ff59db74a43ddbed2dd22ec42bf45
+msgid "Green"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:60
+# 3ab9723ec1464ad3b9d1f5599b95f7b9
+msgid "**Green** magic is about growth, life, and brute force. The **Forests** overflow with green mana, which represents the pulse of nature. You empower your creatures with the predatory might of nature and dominate through sheer size."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:65
+# 620c10f0879a4cc3a8fabbaad84a5c14
+msgid "Blue"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:66
+# ccf3cfe6e7c24f0f952f1ad31e7b495a
+msgid "**Blue** magic relies on trickery and manipulation. **Islands** provide blue mana, the color of the deep sea and the endless sky. You work behind the scenes, controlling your environment completely before making a move."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:71
+# 0503a9e1be524dad9b871e6a6156a339
+msgid "Red"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:72
+# 66ccaf65998d4baaa4f928752ff91055
+msgid "**Red** magic erupts with fire, frenzy, and storms of rock and lava. Red mana comes from **Mountains** and volcanoes. You act quickly and recklessly, channeling your wild emotions to summon mighty dragons or crush the ground your enemies walk on."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:78
+# 77a816c5b4474e9382532c8fdf5a8879
+msgid "Black"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:79
+# fea6d23f9bbe40f19101f972cb6b2d09
+msgid "**Black** magic is about death, disease, and power at any cost. Black mana comes from dank **Swamps**, where things fester and rot. You are as selfish and twisted as the undead creatures and unspeakable horrors you command."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:87
+# ffaacd0895c1407a9e91cc034ec96b44
+msgid "Parts of a Card"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:94
+# ccd87dafc2b34b869eafdc03e1d53a3e
+msgid "Mana Cost"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:95
+# 5a30df35a1db4ffe8a57d9deae2d4535
+msgid ":term:`Mana<Mana>` is the main resource in the game. It's produced by lands, and you spend it to cast *spells*. The symbols in a card's upper right corner tell you the cost to cast that spell. If the mana cost reads |mana_4| |mana_r| |mana_r|, you pay four mana of any kinds plus two red mana (from two Mountains) to cast it."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:100
+# acaa5ca067ee4a7b820183b0e3e4a198
+msgid "Type Line"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:101
+# 8e192b4ac1224ed68be668edd45ca198
+msgid "This tells you the card's :term:`card type<card type>`: artifact, creature, enchantment, instant, land, planeswalker, or sorcery. If the card has a :term:`subtype<subtype>` or :term:`supertype<supertype>`, that's also listed here. For example, Shivan Dragon is a creature, and its subtype is the creature type Dragon."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:107
+# 12af1de84869415985f67ae1a0253396
+msgid "Expansion Symbol"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:108
+# 34a6deb8abb0462dbffa4beed243b484
+msgid "This symbol tells you which **Magic** set the card is from. This version of Shivan Dragon is from the *Magic 2014* core set. The color of the symbol tells you the card's rarity: black for common cards, silver for uncommons, gold for rares, and red-orange for mythic rares."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:114
+# 7893f87ed99f4238b49e41cbc66549ca
+msgid "Text Box"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:115
+# 01e4c4c5fb8b485bb6f800773143d382
+msgid "This is where a card's *abilities* appear. You may also find flavor text printed in italics (like this) that tells you something about the Magic world. Flavor text has no effect on game play. Some abilities have italic reminder text to help explain what they do."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:120
+# 1c7b5eca1ab7417694b80efdd502d6d6
+msgid "Power and Toughness"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:121
+# 2b78e585bacb46de85b483888021483e
+msgid "Each creature card has a special box with its :term:`power<power>` and :term:`toughness<toughness>`. A creature's power (the first number) is how much damage it deals in combat. Its toughness (the second number) is how much damage must be dealt to it in a single turn to destroy it. (A planeswalker card has a different special box with its loyalty here.)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:127
+# 4c4413db9be34cf687ffa242aee60471
+msgid "Collector Number"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:128
+# d778e3c2544447ee847c8797a60213cb
+msgid "The collector number makes it easier to organize your cards. For example, \"154/249\" means that the card is the 154th of 249 cards in its set."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:134
+# f1e027b639c24fbd9b9e65b6804d0d96
+msgid "Card Types"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:136
+# dd13388f969945ca8dace71c2f2a5816
+msgid "Every **Magic** card has one or more types. A card's type tells you when you can play the card and what happens to the card after you do."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:142
+#: ../../M14_Rulebook.rst:257
+#: ../../M14_Rulebook.rst:1949
+# 1b07d283061f4f5d9f238f7bd83e29d1
+# c58d8ba81b0d4e7e9cc0765542f2cc60
+# 39cbeb3274ae4c638712c87a7603ba4e
+msgid "Sorcery"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:143
+# 15f030c175774ad285d8ae5f8ba01060
+msgid "A sorcery represents a magical incantation. You can cast a sorcery only during a *main phase* of one of your own turns. You can't cast it when another spell is on the *stack*. (You'll learn about phases and the stack in a bit.) A sorcery has its *effect*—in other words, you follow the instructions on the card—then you put it into your *graveyard*, which is the game term for your discard pile."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:152
+#: ../../M14_Rulebook.rst:255
+#: ../../M14_Rulebook.rst:1538
+# 6465bd4ba8364c2480d0d368594509ba
+# 7e9c2d6021af4d2d86eb5cfbeef21ba1
+# cd70cb9e7c2b4b1b985a84e7dc254e5e
+msgid "Instant"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:153
+# d5953931194c4f1f82ab6ac2e1de90de
+msgid "An instant is just like a sorcery, except you can cast it just about any time you want, even during your opponent's turn or *in response* to another spell. Like a sorcery, an instant has its effect, then you put it into your graveyard."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:161
+#: ../../M14_Rulebook.rst:251
+#: ../../M14_Rulebook.rst:1425
+# 0968584dc34142c09a1bc465d708168b
+# 58f8c8e50f1d435999d8d83b2e4bd9f1
+# 47378e4406c6469aaf2919126ac8da85
+msgid "Enchantment"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:162
+# d673331688fa4141ab5eb69afb4ffa80
+msgid "An enchantment represents a stable magical manifestation. An enchantment is a *permanent*. This means two things: you can cast one only at the time you could cast a sorcery, and after you cast one, you'll put it on the table in front of you, near your lands. (Most players keep their lands closer to them, then put their other cards closer to the middle of the table.) The card is now on the *battlefield*. A card on the battlefield is called a *permanent* because it sticks around permanently (well, unless something destroys it)."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:170
+# ba15745c3bcf4efbabb4ce967f884795
+msgid "Some enchantments are *Auras*. An Aura enters the battlefield attached to a permanent and affects that permanent while it's on the battlefield. If the enchanted permanent leaves the battlefield, the Aura is put into its owner's graveyard."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:179
+#: ../../M14_Rulebook.rst:247
+#: ../../M14_Rulebook.rst:1050
+# d0c450de94bb44c591d70cfa0f753e04
+# 996435cc353e4d988aa3e062a8bddccf
+# 572981d3a8824b8e8dbdc916a339df7b
+msgid "Artifact"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:180
+# a8a351650c6140ea8a2c2ea7bffdf9d6
+msgid "An artifact represents a magical relic. Like an enchantment, an artifact is a permanent, so it'll stay on the battlefield affecting the game. Most artifacts are colorless, so you can cast one no matter what kinds of lands you have."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:184
+# e130bad984a84e1c8ab38a2b8287aad3
+msgid "Some artifacts are *Equipment*. You can pay to attach an Equipment to a creature you control to make that creature more powerful. If an equipped creature leaves the battlefield, the Equipment doesn't—the creature drops it and it remains on the battlefield."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:192
+#: ../../M14_Rulebook.rst:249
+#: ../../M14_Rulebook.rst:1282
+# 0cbf035e687a4d97bdf8d9ea2f52c30a
+# 6eae2c7147e941c59d28a2d4b77dd9e1
+# 94d5e975ea7444688b913e65ecdf7ec5
+msgid "Creature"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:193
+# 1715b3d3b405444d96dcc59984278bab
+msgid "Creatures fight for you. They're permanents, but unlike any other kind of permanent, creatures can *attack* and *block*. Each creature has *power* and *toughness*. Its power (the first number) is how much *damage* it deals in combat. Its toughness (the second number) is how much damage must be dealt to it in a single turn to destroy it. Creatures attack and block during the *combat phase*."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:198
+# 36774bd832a34d3c87cf03b69227c3b6
+msgid "Unlike other types of permanents, creatures enter the battlefield with \"summoning sickness\": a creature can't attack, or use an ability that has |tap| in its cost, until it has started your turn on the battlefield under your control. You can block with a creature or activate its other abilities no matter how long it's been on the battlefield."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:203
+# ac6c464782ee4bd195f9da7cd664130b
+msgid "Artifact creatures are both artifacts and creatures. They're usually colorless like other artifacts, and they can attack and block like other creatures. An artifact creature can be affected by anything that affects artifacts, as well as anything that affects creatures."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:210
+#: ../../M14_Rulebook.rst:253
+#: ../../M14_Rulebook.rst:1754
+# 702357beed4848b098c7b2d4cd7557c1
+# 32607066e30d4da68671e24d95e00896
+# 4fb12e9ead764e4e9e2b53efdbadf3f9
+msgid "Planeswalker"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:211
+# 74ac32f5b78d4cbcad5e32382753d145
+msgid "Planeswalkers are powerful allies you can call on to fight by your side. You can cast a planeswalker only at the time you could cast a sorcery. They're permanents, and each one enters the battlefield with the number of *loyalty* counters indicated in its lower right corner."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:215
+# 530784f4dcab4c8c96ecaaa321520269
+msgid "Each planeswalker has *loyalty abilities* that are activated by adding or removing loyalty counters from the planeswalker. For example, the symbol {+1} means \"Put one loyalty counter on this planeswalker\" and the symbol {-3} means \"Remove three loyalty counters from this planeswalker.\" You can activate one of these abilities only at the time you could cast a sorcery and only if none of that planeswalker's loyalty abilities have been activated yet that turn."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:221
+# 3503a8187dc948f6a960796929be48ca
+msgid "Your planeswalkers can be attacked by your opponent's creatures (if so, you can block as normal), and your opponents can damage them with their spells and abilities instead of damaging you. Any damage dealt to a planeswalker causes it to lose that many loyalty counters. If a planeswalker has no loyalty counters, it's put into your graveyard."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:229
+#: ../../M14_Rulebook.rst:245
+#: ../../M14_Rulebook.rst:1565
+# 1be3412baae64129879e1472f8dc646a
+# fa89f343f998474083ee53b1d394e84f
+# 7578d2602d8f48e3ad6ffc6e935b9930
+msgid "Land"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:230
+# e6b7ee133287474bb0954ae3da70877b
+msgid "Although lands are permanents, they aren't cast as spells. To play a land, just put it onto the battlefield. This happens immediately, so no player can do anything else in response. You can play a land only during one of your main phases while the stack is empty. You can't play more than one land a turn."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:234
+# 25905beb4beb4015b05d25e0d91af069
+msgid "Most lands have abilities that make mana. You'll use lands to make the mana you need to pay for spells and abilities."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:237
+# e64728ba76854463b17dfd213698a2aa
+msgid "Each basic land has a mana ability that makes one mana of a particular color. Plains make white mana (|mana_w|), Islands make blue mana (|mana_u|), Swamps make black mana (|mana_b|), Mountains make red mana (|mana_r|), and Forests make green mana (|mana_g|). Any land other than these five is a *nonbasic land*."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:242
+#: ../../M14_Rulebook.rst:1148
+# 8354770853834e78b58ad0aac51c2b11
+# 358fcc020eb6493eafc46a14176c3296
+msgid "Card type"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:242
+# a7d2699e700348c6ba8e20897f16c952
+msgid "Is a permanent"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:242
+# e7ba93759b0f49c9be0f780127340d79
+msgid "Is cast as a spell"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:242
+# c5392beceda64abba1d0ba79e07096d5
+msgid "Is usually colorless"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:242
+# 92faaad760504b3f8aa94f4ae4ca2f13
+msgid "Can attack"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:242
+# 7012bee1dd3f41ed85d8a373bc74b23d
+msgid "Can be attacked"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:245
+#: ../../M14_Rulebook.rst:245
+#: ../../M14_Rulebook.rst:247
+#: ../../M14_Rulebook.rst:247
+#: ../../M14_Rulebook.rst:247
+#: ../../M14_Rulebook.rst:249
+#: ../../M14_Rulebook.rst:249
+#: ../../M14_Rulebook.rst:249
+#: ../../M14_Rulebook.rst:251
+#: ../../M14_Rulebook.rst:251
+#: ../../M14_Rulebook.rst:253
+#: ../../M14_Rulebook.rst:253
+#: ../../M14_Rulebook.rst:253
+#: ../../M14_Rulebook.rst:255
+#: ../../M14_Rulebook.rst:257
+#: ../../M14_Rulebook.rst:2124
+# d24210cd5b184d96ac149ae56fd2234b
+# a1b6f264bef64dd08d82e8a079b01994
+# d5c87f10055e4e6d86bd8b02e3c43f05
+# aa76572560314378b7b10952e10f4794
+# ef012d325cdf4e5b9187a9471bd1ac52
+# 70b2d91855c54c429e6d7d990903f624
+# 1712f76038504b6580805f4c6656c7ff
+# 40746a419a9e4aa28d7889b6ee72be51
+# 58549ddc31cd4c609951454145868780
+# 996bc04224e44abfaa065bac6d68cfec
+# 97a5f723348342f7b33534c88bdd37ea
+# a1088b1ea7fb4071942286192487a429
+# b54925560f064885af4667c78f86dd47
+# 301b22d00e0f47a2aca673310f01e1f5
+# d66fb81336af48248a2f2c58306f0376
+# e708bf338352434ca9f844534b2fc6c3
+msgid "X"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:262
+# 9a059afd455f4080931b7d78f865ee7e
+msgid "Game Zones"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:264
+# 89800ae62aad4fddba20da055681f16f
+msgid "Since the Magic game doesn't have a game board, zones are the areas of play that exist on your table."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:270
+#: ../../M14_Rulebook.rst:1593
+# a96d4c7a1ba84d81ae4e9270edcb09eb
+# 7b40bd58104c4efc94a78c18c4f30344
+msgid "Library"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:271
+# 7272801e29094d87a7d3024a99ce8b3a
+msgid "When the game begins, your deck of cards becomes your library (your draw pile). It's kept face down, and the cards stay in the order they were in at the beginning of the game. No one can look at the cards in your library, but you can know how many cards are in each player's library. Each player has his or her own library."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:280
+#: ../../M14_Rulebook.rst:1519
+# 6df4dc5562904dcf86ebfef3ef60b94b
+# a5890774419249e79570dd0a89fd7d42
+msgid "Hand"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:281
+# f78596cac69347d9bdc4d5b59ce020f6
+msgid "When you draw cards, they go to your hand, just as in most other card games. No one except you can look at the cards in your hand. You start the game with seven cards in your hand, and you have a maximum hand size of seven. (You may have more than seven cards in your hand, but you must discard down to seven at the end of each of your turns.) Each player has his or her own hand."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:290
+# db82925d917340d5b791ea43066e2300
+msgid "The Stack"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:291
+# b3b60b83275c420daa7d36d0a3838a4d
+msgid "Spells and abilities exist on the stack. They wait there to *resolve* until both players choose not to cast any new spells or activate any new abilities. Then the last spell or ability that was put onto the stack resolves, and players get a chance to cast spells and activate abilities again. (You'll learn more about casting spells and activating abilities in the next section.) This zone is shared by both players."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:301
+#: ../../M14_Rulebook.rst:1104
+# b1eb82dbb760432f81c815c62264fffc
+# 5c0e5c03d51c4d9983a08d6ee6ec9cf6
+msgid "Battlefield"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:302
+# 85dbf8c8dc0641b7891639342058afd7
+msgid "You start the game with nothing on the battlefield, but this is where the action is going to be. On each of your turns, you can play a land from your hand. Creatures, artifacts, enchantments, and planeswalkers also enter the battlefield after they resolve. You can arrange your permanents however you want (we recommend putting lands closest to you), but your opponent must be able to see all of them and tell whether they're *tapped*. This zone is shared by both players."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:312
+#: ../../M14_Rulebook.rst:1516
+# 7ffb3973a9c14c308977ee4875d28fe9
+# fc8665e2722f49cdb165b1b1bda27aba
+msgid "Graveyard"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:313
+# 39f4271e84c24081b338341c40711821
+msgid "Your graveyard is your discard pile. Your instant and sorcery spells go to your graveyard when they resolve. Your cards go to your graveyard if an effect causes them to be *discarded*, *destroyed*, *sacrificed*, or *countered*. Your planeswalkers go to your graveyard if they lose all their loyalty counters. Your creatures go to your graveyard if the damage they're dealt in a single turn is equal to or greater than their toughness, or if their toughness is reduced to 0 or less. Cards in your graveyard are always face up and anyone can look at them at any time. Each player has his or her own graveyard."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:325
+#: ../../M14_Rulebook.rst:1475
+# 0aafa375ed5b4d81ab30faa8e56ae29f
+# 37daeb528aab4ee7a1ee595f79b3e081
+msgid "Exile"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:326
+# 37385e8732294924a4285a5a298b11ca
+msgid "If a spell or ability *exiles* a card, that card is put in a game area that's set apart from the rest of the game. The card will remain there forever, unless whatever put it there is able to bring it back. Exiled cards are normally face up. This zone is shared by both players."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:331
+# bf6f52a44ee54c8994bb40d690cfeda9
+msgid "Here's what a game in progress looks like. In this example, there aren't any exiled cards, and no spells are on the stack. (When you put a spell on the stack, you take the card from your hand and put it in the middle of the table until it finishes resolving.)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:340
+# e6eda6b50a52410f8e7cd16c862ceb6e
+msgid "Section 2: The Building Blocks"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:342
+# 2d9d904d0a8a4fa8825b4af4948231cd
+msgid "This section describes the actions that you'll take during a game. You'll learn how to make mana, which is the resource you need to cast spells. You'll learn how to cast a spell, as well as how to use abilities. You'll also learn how to attack and block with your creatures. The section finisheswith a brief description of how to build your first deck and an explanation of the game's :ref:`Golden Rule<sec-golden-rule>`."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:349
+# f9116957e3234df6adcb74021ff298ee
+msgid "Making Mana"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:351
+# 9b057d002f4a48c194382d60bef551df
+msgid "To do just about anything else in the game, you first need to be able to make mana. Think of mana as Magic money—it's what you use to pay most costs. Each mana is either one of the five **Magic** *colors* or is :term:`colorless<colorless>`. When a cost requires colored mana, you'll see colored mana symbols (|mana_w| for white, |mana_u| for blue, |mana_b| for black, |mana_r| for red, |mana_g| for green). When any kind of mana can be used to pay the cost, you'll see a symbol with a number in it (like |mana_2|)."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:360
+# 5fc7931de05f4e65a1ab3c9fe28f731a
+msgid "Where does mana come from? Nearly every land in the game has an ability that produces mana. Basic lands just have a large mana symbol in their text boxes to show this—you can tap one of them to add one mana of that color to your :term:`mana pool<mana pool>`. (Your mana pool is where mana is stored until you spend it.) Other lands, as well as some creatures, artifacts, and spells, may also make mana. They'll say something like \"Add |mana_g| to your mana pool.\""
+msgstr ""
+
+#: ../../M14_Rulebook.rst:370
+#: ../../M14_Rulebook.rst:1095
+# 94099eb06cb04f999d2fe4dcb65f3473
+# c68e428395804d96b06210af4ab3e4b9
+msgid "Basic land type"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:370
+# cd34c56e16fd4d99b82415e2ba6ba64f
+msgid "Can be tapped for"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:372
+# 95c727ca9b2e49009d641a74f3b70fee
+msgid "Plains"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:372
+# d483636bf1f640de9438b24768e4be78
+msgid "|mana_w| (white)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:374
+# eefd6f357ff24b7581ac13fd4aff6544
+msgid "Island"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:374
+# 5560d2fa85654b4ba72a36f153928cb6
+msgid "|mana_u| (blue)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:376
+# 0b749e224f444d59bf78bef076a7249d
+msgid "Swamp"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:376
+# aac6bc48e9b74413bf10ccfc0c14b68b
+msgid "|mana_b| (black)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:378
+# 4097ee4bbaa041bfb09e80bd07b41e1b
+msgid "Mountain"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:378
+# 57d04f9b4dea4bc79d1d2613f1693078
+msgid "|mana_r| (red)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:380
+# 1088454679e24c0386a5b08bc72d9f19
+msgid "Forest"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:380
+# 6c483697335f442aab038104d9eb4afc
+msgid "|mana_g| (green)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:383
+# 9e3b73ab1a264da6b7ab82bf67c05ffa
+msgid "Mana that you've made doesn't last forever. At the end of each step or phase of the turn, any unused mana in your mana pool disappears. This doesn't happen often because usually you'll only make mana when you need it to cast a spell or activate an ability."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:391
+# 5b079509812e49be8515e6e9c713179b
+msgid "Tapping"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:392
+# 5be6d5cc05344fb0a22c963c13523763
+msgid "To tap a card is to turn it sideways. You do this when you use a land to make mana, when you attack with a creature, or when you activate an ability that has the |tap| symbol as part of its cost (|tap| means \"tap this permanent\")."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:396
+# fc7ed4849f5849d99ef7e3e8069edf24
+msgid "When a permanent is tapped, that usually means it's been used for the turn. You can't tap it again until it's been *untapped* (straightened out)."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:399
+# 399443b0088c4bc59f4e87bf3ae4348c
+msgid "At the beginning of each of your turns, you untap your tapped cards so you can use them again."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:405
+# 2c7a8750050d41b0903bdffc34c862c2
+msgid "Spells"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:407
+# 5c877ca00a6845f7b59b3865e36c53e7
+msgid "Now that you can make mana, you'll want to use it to cast spells. All cards except lands are cast as spells. You can cast sorceries, creatures, artifacts, enchantments, and planeswalkers only during one of your main phases when there's nothing else on the stack. Instants can be cast at any time."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:413
+# 84fce1e1236b4f74a536d97cece2c048
+msgid "Casting a Spell"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:414
+# 16e92d32ca314c3ca0eb47960c8ae80b
+msgid "To cast a spell, take the card you want to cast from your hand, show it to your opponent, and put it on the stack. (The stack is the game zone where spells live. It's usually in the middle of the table.)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:418
+# 7806f443119b4b09a89c4e51a81155a4
+msgid "There are a few choices that you need to make right now. If the spell is an instant or sorcery and says \"Choose one —,\" you choose which of the options you're using. If the spell is an instant or sorcery and it has a target, you choose what (or who) that target is. Aura spells also target the permanents they'll enchant. If the spell has |mana_x| in its cost, you choose what number X stands for. Other choices will be made later, when the spell resolves."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:426
+# 35cb37a6855d4574a1e71ac3812b355b
+msgid "Now check what the spell's cost is. Tap your lands to produce the mana necessary to pay that cost, and pay it. Once you do that, the spell has been cast."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:433
+#: ../../M14_Rulebook.rst:2016
+# 05f0081f2d4e4e13954435ffe4319fc7
+# bba7e5443cbf4d8b8ce7937cf0a179bc
+msgid "Target"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:434
+# 90a5c5011aaf485dba272b3403b06f4d
+msgid "When you see the word \"target\" on a spell or ability, you have to choose one or more things for the spell or ability to affect. You'll be able to choose only certain kinds of things, such as \"target enchantment\" or \"target creature or player.\""
+msgstr ""
+
+#: ../../M14_Rulebook.rst:439
+# bb29706027cd428ca258dfd6e13925b2
+msgid "You choose the targets for a spell when you cast it, and you choose targets for an activated ability when you activate it. If you can't meet the targeting requirements, you can't cast the spell or activate the activated ability. Once you choose targets, you can't change your mind later."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:446
+# 758e77d8412b4377af49a5a5c4c397de
+msgid "When the spell or ability resolves, it checks the targets to make sure they're still *legal* (they're still there, and they match the requirements stated by the spell or ability). If a target isn't legal, the spell or ability can't affect it. If none of the targets are legal, the spell or ability is countered and does nothing at all."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:456
+# 9ee2bba1422548da808668d88b2e4097
+msgid "Responding to a Spell"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:457
+# 116bc136bdda43ad9299d973f817b12e
+msgid "The spell doesn't resolve (have its effect) right away—it has to wait on the stack. Each player, including you, now gets a chance to cast an instant or activate an activated ability *in response*. If a player does, that instant or ability goes on the stack on top of what was already waiting there. When all players decline to do anything, the top spell or ability on the stack will resolve."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:467
+# b4818ae3ccaa4b82b86857169e33c318
+msgid "Resolving a Spell"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:468
+# 71062894d6c748518ab3e78babf68a11
+msgid "When a spell resolves, one of two things happens. If the spell is an instant or sorcery, it has its effect (in other words, you follow the instructions on the card), then you put the card into your graveyard. If the spell is a creature, artifact, enchantment, or planeswalker, you put the card on the table in front of you, near your lands. The card is now on the battlefield. Any of your cards on the battlefield is called a :term:`permanent<permanent>` because it sticks around permanently (well, until something happens to it). Many permanents have abilities, which is text on them that affects the game."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:479
+# d08d3f7294ff4c3991baa2288d2b5713
+msgid "After a spell or ability resolves, both players get the chance to play something new. If no one does, the next thing waiting on the stack will resolve (or if the stack is empty, the current part of the turn will end and the game will proceed to the next part). If either player plays something new, it goes on top of the stack and the process repeats."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:486
+# 3aa3fc6cbb394f169e0b923753210c06
+msgid "[Turn the page to see examples of spells on the stack.]"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:489
+# 8ed84f7f25cd408a93f3c3ef0aa49545
+msgid "Examples of Spells on the Stack"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:491
+# b4dd4d5553fb4f7783fdcabfa46490c9
+msgid "Your opponent casts Shock targeting your Auramancer, a 2/2 creature. The Shock goes on the stack."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:495
+# 13f6da6a12724b4dba0d2d929c3bf00d
+msgid "You respond to the Shock by casting Show of Valor on your Auramancer. Show of Valor goes on the stack, *on top of Shock*."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:499
+# bcf5ba73451f433ca1ca3f0e2e3a14f2
+msgid "You and your opponent both decline to do anything else. Show of Valor resolves, making the Auramancer 4/6 until the end of the turn."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:503
+# 4bcf8accfc6f483f8a6b7ebb61b020de
+msgid "Then the Shock resolves, dealing 2 damage to the pumped-up Auramancer. That's not enough to destroy it."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:509
+# 8e547dcb7b3c403485ec657616b9bc78
+msgid "**What would happen if the Show of Valor were cast first?**"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:511
+# 39344a7fecb8400cb89d26abaaf60c5c
+msgid "The Shock goes on the stack on top of Show of Valor so it resolves first. It deals 2 damage to Auramancer—enough to destroy it! When the Show of Valor tries to resolve, its only target is no longer on the battlefield, so it's countered (it does nothing)."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:521
+# f9527127aa554feeaffddb30c8a150e2
+msgid "Abilities"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:523
+# 7fee73893bd34fc1ba6391189403cb86
+msgid "As you start to accumulate permanents on the battlefield, the game will change. That's because many permanents have text on them that affects the game. This text tells you a permanent's abilities. There are three different kinds of abilities a permanent can have: *static abilities*, *triggered abilities*, and *activated abilities*."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:531
+# 869c33847a7e4c8eb1035b5d7252f9ce
+msgid "Static Abilities"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:532
+# 4d54f58b60804270ad924dca81700b5b
+msgid "A static ability is text that is always true while that card is on the battlefield. For example, Imposing Sovereign is a creature with the ability \"Creatures your opponents control enter the battlefield tapped.\" You don't activate a static ability. It just does what it says."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:539
+# 7f0a8f28aeec4c0a95ccbdd30045cb8c
+msgid "Triggered Abilities"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:540
+# 876fb4d136c54b73883ca5ade4642039
+msgid "A triggered ability is text that happens when a specific event occurs in the game. For example, Messenger Drake is a creature with the ability \"When Messenger Drake dies, draw a card.\""
+msgstr ""
+
+#: ../../M14_Rulebook.rst:543
+# da4ba372556648d888d4dcff93c9cc02
+msgid "Each triggered ability starts with the word \"when,\" \"whenever,\" or \"at.\" You don't activate a triggered ability. It automatically triggers whenever the first part of the ability happens. The ability goes on the stack just like a spell, and resolves just like a spell. If the ability triggers but then the permanent the ability came from leaves the battlefield, the ability will still resolve."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:548
+# a3114da1f7724872a6ff72316558e2e2
+msgid "You can't choose to delay or ignore a triggered ability. However, if the ability targets something or someone but you can't choose a legal target for it, the ability won't do anything."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:555
+# b0fb4d8cfb45423b8a0021dd5a08a2c4
+msgid "Activated Abilities"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:556
+# 9632d2aeb9434b5cbc292196066a850b
+msgid "An activated ability is an ability that you can activate whenever you want, as long as you can pay the cost. For example, Blood Bairn is a creature with the ability \"Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn.\""
+msgstr ""
+
+#: ../../M14_Rulebook.rst:560
+# 0c6012e70e7144b39411a877d7f40c9c
+msgid "Each activated ability has a cost, then a colon (\":\"), then an effect. Activating one works exactly like casting an instant spell, except there's no card to put on the stack. The ability goes on the stack just like a spell, and resolves just like a spell. If you activate an ability but then the permanent the ability came from leaves the battlefield, the ability will still resolve."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:565
+# 63c97ab37dc14ca5a9219638cd32f514
+msgid "Some activated abilities contain the |tap| symbol in their costs. This means that you must tap the permanent to activate the ability. You can't activate the ability if the permanent is already tapped."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:569
+# 846b14ddafaf4870ad7e01be2d9e51ef
+msgid "Keywords"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:570
+# 75c45fc789564411ab0b3ae28919120d
+msgid "Some permanents have abilities that are shortened to a single word or phrase. Many of these have :term:`reminder text<reminder text>` that gives you a brief description of the ability's effect. Keyword abilities in the core set include :term:`deathtouch<deathtouch>`, :term:`defender<defender>`, :term:`enchant<enchant>`, :term:`equip<equip>`, :term:`first strike<first strike>`, :term:`flash<flash>`, :term:`flying<flying>`, :term:`haste<haste>`, :term:`hexproof<hexproof>`, :term:`indestructible<indestructible>`, :term:`landwalk<landwalk>` (such as swampwalk or forestwalk), :term:`lifelink<lifelink>`, :term:`protection<protection>`, :term:`reach<reach>`, :term:`trample<trample>`, and :term:`vigilance<vigilance>`. Most of these are static abilities, but keyword abilities can also be triggered abilities or activated abilities. Detailed explanations of each of these abilities can be found in the glossary at the end of this rulebook."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:584
+# c54034a1ec93422296e237c0007bb53e
+msgid "Attacking and Blocking"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:586
+# 3d27b223b1974b77951d7c09a04bffff
+msgid "The primary way to win the game is to attack with your creatures. If a creature that's attacking your opponent isn't blocked, it deals damage equal to its power to him or her. It doesn't take that many hits to drop your opponent all the way from 20 life to 0!"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:590
+# ac3db07288ba4a028c351f9f0494d65b
+msgid "The middle of each turn is the :term:`combat phase<combat phase>`. (You'll learn about the :ref:`parts of the turn<sec-parts-of-the-turn>` in a bit.) In your combat phase, you choose which of your creatures will attack, and you choose who or what they will attack. Each one can attack your opponent or one of your opponent's planeswalkers, but not any of his or her creatures. You tap the attacking creatures. They all attack at the same time, even if they're attacking different things. You can attack with a creature only if it's untapped, and only if it was on the battlefield under your control when the turn began."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:597
+# 4f3d825676d14e7989c98c3ed8b6637a
+msgid "Your opponent chooses which of his or her creatures will block. Tapped creatures can't be declared as blockers. For blocking, it doesn't matter how long the creature has been on the battlefield. Each creature can block only one attacker, but multiple blockers can gang up on a single attacking creature. If that happens, the attacking player orders the blockers to show which is first in line for damage, which is second, and so on. Creatures don't have to block."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:602
+# 5db55d78b0c345f882a2ce652a0af37b
+msgid "After all blockers are chosen, combat damage is assigned. Each creature—both attackers and blockers—deals damage equal to its power."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:605
+# 3f58e9624aa64a5cb2e839bfd0badd19
+msgid "An attacking creature that isn't blocked deals damage to the player or planeswalker it's attacking."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:608
+# 552a63973d4c40458aad139c451f2521
+msgid "An attacking creature that is blocked deals damage to the blocking creatures. If one of your attacking creatures is blocked by multiple creatures, you decide how to divide its combat damage among them. You must assign at least enough damage to the first blocking creature in line to destroy it before you can assign damage to the next one in line, and so on."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:615
+# 67f1f41c11354484b64845549cc3832e
+msgid "A blocking creature deals damage to the attacker it's blocking."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:618
+# e79abc9e41bf48db8670d967d6299ae6
+msgid "If damage is dealt to your opponent, he or she loses that much life!"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:620
+# ca267533d5434aee90c504e4fb5a33a7
+msgid "If damage is dealt to your opponent's planeswalker, that many loyalty counters are removed from it."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:622
+# b327d6fc637b4b06b10546d7fb2dcf24
+msgid "If a creature is dealt damage equal to or greater than its toughness over the course of a single turn, that creature is destroyed and goes to its owner's graveyard. If a creature takes damage that isn't lethal, that creature stays on the battlefield, but the damage doesn't wear off until the turn ends."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:626
+# f6780dd769e6418dbd854ecc44b6f209
+msgid "Turn the page to see an example of combat."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:629
+# 3b53c9e9816949eab0db49b1dae5f14e
+msgid "Example of combat"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:632
+# 831c4c3e64064c19966034a0889ab2bc
+msgid "Declare Attackers"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:633
+# d3dc950a7d0e4bfc81df2d0ab9d6af5e
+msgid "The attacking player attacks with his three biggest creatures and taps them. He doesn't attack with the smallest because it's too easy to destroy, and it might be useful for blocking on the opponent's next turn."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:639
+# d32df0aea977414d9551bb23b4ed1f7d
+msgid "Assign Blockers"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:640
+# 7174710979f8435a8b8ad775bc6ee25c
+msgid "The defending player assigns blockers to two of the attackers and lets the third attacker through. Blocking choices are up to the defender."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:645
+# 37e5fcecc494427f95bfd23d638b2650
+msgid "Combat Damage"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:646
+# 0d9035d1fb47407caeb3c2e95b81db4d
+msgid "The unblocked attacker deals 3 damage to the defending player. The blocked attackers and the blockers deal damage to each other. The smaller creatures die and the bigger creatures live."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:654
+# ee4c62a9a7de4feca7669d7eb6db5038
+msgid "Building Your Own Deck"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:656
+# fa83410d60a141a7a77992ec4baffa6a
+msgid "You play a Magic game with your own customized deck. You build it yourself using whichever Magic cards you want. There are two rules: your deck must have at least 60 cards, and your deck can't have more than four copies of any single card (except for basic lands). The rest is up to you, but here are some guidelines:"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:660
+# bf9c55985318417f9e39b25a5844ef89
+msgid "Lands. A good rule of thumb is that 40% of your deck should be lands. A 60-card deck usually has about 24 lands."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:662
+# a0ef0151a00847edb4b3975aa5a44a21
+msgid "Creatures. Creatures account for 15 to 25 cards in a typical 60-card deck. Choose creatures that have a variety of mana costs."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:664
+# 9c33854139724011a834c129b3c2c4ad
+msgid "Low-cost creatures are potent early on, but high-cost creatures can quickly win a game once they enter the battlefield."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:666
+# 894ef43d46c3485eb4433bc72c680897
+msgid "Other cards. Artifacts, enchantments, planeswalkers, instants, and sorceries round out your deck."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:668
+# 0b45057210f942f582bf543b383732bc
+msgid "After you play with your new deck for a while, you can start to customize it. Take out cards you don't feel are working well and add new cards you want to try. The best part about trading card games is being able to play with whatever cards you want, so start experimenting!"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:671
+# f40426b3f3184a328a994db5f5cfe7f8
+msgid "Once they build up their collections, Magic players often choose to build different decks for different formats. Formats are defined by what cards can be played in them. The most popular Magic format is called Standard. It uses only the newest sets the game has to offer. The current block, the block that was released the previous October, and the most recent core set are all legal to play in a Standard deck. Standard events are available all year, worldwide. When you're ready to start exploring other Magic formats, go to `Wizards.com/MagicFormats`_ for more information."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:681
+# 5609be24014f4a0b8f3a8527688bafe8
+msgid "The Golden Rule"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:683
+# bb3e733b4f824508b5644567877d73a4
+msgid "When a Magic card contradicts the rulebook, the card wins. For example, the rules say creatures enter the battlefield untapped. But Imposing Sovereign is a creature that says \"Creatures your opponents control enter the battlefield tapped.\" Imposing Sovereign changes the rules as long as it's on the battlefield. One of the things that makes the Magic game fun to play is that there are individual cards that let you break almost every rule."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:693
+# a02e6209259e43e6b5e41b9daa60ce8c
+msgid "Section 3: Playing a Game"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:695
+# a3c3ad0ba59d4fa8802f9136c189cee9
+msgid "Now that you know the elements of the game and how to perform the main actions, it's time to walk through a turn. This section describes what happens in each part of a turn. In a typical game, you'll skip many of these parts (for example, nothing usually happens in the \"beginning of combat\" step). An actual Magic game is pretty casual, despite how complex the structure may seem."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:701
+# 08c0d34d4bf542b7b151924d521b8804
+msgid "Get a Deck"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:703
+# 0930d5389787419fb263065a9d139cb2
+msgid "You'll need your own Magic deck. You'll also need a way to keep track of both players' life totals, as well as small items to use as counters or tokens."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:706
+# 7fcfa70a061b4da4bd5d589c2d80190d
+msgid "When you're first getting started, you may want to pick up a ready-to-play deck, such as an intro pack or event deck, or borrow a deck from a friend. After you've built up your collection, try building your own deck using :ref:`the guidelines <sec-building-your-own-deck>` [on page 15]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:712
+# 6a5ae4431661486884654126023462c8
+msgid "Get a Friend"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:714
+# c6c9818e0cb24f649ea97ed99e64616b
+msgid "To play a game, you'll need an opponent! Your opponent will play against you using his or her own deck."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:718
+# ebc0dea107d9452ebde3ce6ebc10b0ef
+msgid "Start the Game"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:720
+# bcd8a5cf5e8d4e0b930c207a5c47919c
+msgid "Each player starts at 20 life. You win the game by reducing your opponent to 0 life. You also win if your opponent has to draw a card when none are left in his or her deck, or if a spell or ability says that you win."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:724
+# 0b47a38fbef0435ba44bc2dfc5a5391e
+msgid "Decide which player will go first. If you've just played the same opponent, the loser of the last game decides who goes first. Otherwise, roll a die or flip a coin to see who gets to decide."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:727
+# e4767ae7289243dcb26d1298fafabaa9
+msgid "Each player shuffles his or her deck, then draws a hand of seven cards to start. If you don't like your opening hand, you can mulligan. Shuffle your hand back into your deck and draw a new hand of six cards. You can keep doing this, drawing a hand of one fewer card each time, until you decide to keep your cards."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:736
+# 30e4502181b044f58e8a8a3fb522de67
+msgid "Parts of the Turn"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:738
+# da9a3d294f684a4f8ef637794ac5424b
+msgid "Below are the parts of a turn. Each turn proceeds in the same sequence. Whenever you enter a new step or phase, any triggered abilities that happen during that step or phase trigger and are put on the stack. The *active player* (the player whose turn it is) gets to cast spells and activate abilities, then the other player does. When both players in a row decline to do anything and nothing is waiting to resolve, the game will move to the next step or phase."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:743
+# 83e3828c4d3d47f5b68a722ad82ff23f
+msgid "With each part of the turn is a description of what can happen during that part, if it's your turn."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:745
+# 7b27e6386b0f47b686d6497e82dd5999
+msgid "Beginning Phase"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:747
+#: ../../M14_Rulebook.rst:2063
+#: ../../M14_Rulebook.rst:2097
+# 6af9697128714f51a3db7199ee4c4157
+# c849223e6acb46bebbdc017bf6fbcf81
+# 6fdee8e1444b43fdab333d99414ab38b
+msgid "Untap step"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:749
+# 74d03a3fc2df43d2ae01ceaa53b47aa5
+msgid "You untap all your tapped permanents. On the first turn of the game, you don't have any permanents, so you just skip this step. No one can cast spells or activate abilities during this step."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:753
+#: ../../M14_Rulebook.rst:2064
+#: ../../M14_Rulebook.rst:2100
+# bb8c3666e10e4d8f82b685c8f25afd6e
+# fda66d689eb54b37907a958c82fe4efd
+# d6563830411a47d78d44efb9e3b5cfbe
+msgid "Upkeep step"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:755
+# 175d8ef3594249e3965ae972a640eab5
+msgid "This part of the turn is mentioned on a number of cards. If something is supposed to happen just once per turn, right at the beginning, an ability will trigger \"at the beginning of your upkeep.\" Players can cast instants and activate abilities."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:760
+#: ../../M14_Rulebook.rst:1386
+#: ../../M14_Rulebook.rst:2065
+# b5fb3410db6d4631966db20be3400c11
+# 5ac08b4114b44a74aa83aae921611e55
+# 6c2f474495814d7183f76f974fac8c8e
+msgid "Draw step"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:762
+# ee63b9a81f73400fa3faa8b1198adfdb
+msgid "You draw a card from your library. (The player who goes first skips the draw step on his or her first turn to make up for the advantage of going first.) Players can then cast instants and activate abilities."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:766
+#: ../../M14_Rulebook.rst:815
+# 49f52c4ce5b9414293c6d6f308d12bf4
+# 7ac0761aac284b04bf6e6af4cc952426
+msgid "Main Phase"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:768
+# b829aa2b87cb438aa05e736f23c9a0ea
+msgid "You can cast any number of sorceries, instants, creatures, artifacts, enchantments, and planeswalkers, and you can activate abilities. You can play a land during this phase, but remember that you can play only one land during your turn. Your opponent can cast instants and activate abilities."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:774
+# 3c2dbe7c94a44bd0993d0209fdacc68c
+msgid "Combat Phase"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:776
+# c57160bf8bd84f3eb92f84a8af252561
+msgid "Beginningof combat step"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:778
+# c9b746e7481e4a78a582eadc69e2643b
+msgid "Players can cast instants and activate abilities. This is your opponent's last chance to cast spells or activate abilities that stop your creatures from attacking."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:782
+#: ../../M14_Rulebook.rst:1324
+#: ../../M14_Rulebook.rst:2072
+# 765d87d3ac9f494e9696df6b4f356c16
+# 347e52ac8b7849708d861cc770e49d0f
+# 17c18c90b71747bcb24fcc93b5d77b8f
+msgid "Declare attackers step"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:784
+# 3474734dd72c4c09978e110e3508ff38
+msgid "You decide which, if any, of your untapped creatures will attack and which player or planeswalker they will attack. Then they do so. This taps the attacking creatures. Players can then cast instants and activate abilities."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:789
+# a6c2d6295ec74abea6e60b1e84cb0867
+msgid "Declare bLockers step"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:791
+# fd86608d177e4bd9ba45c6575e5a3b51
+msgid "Your opponent decides which, if any, of his or her untapped creatures will block your attacking creatures, then they do so. If multiple creatures block a single attacker, you order the blockers to show which is first in line for damage, which is second, and so on. Players can then cast instants and activate abilities."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:797
+#: ../../M14_Rulebook.rst:1198
+#: ../../M14_Rulebook.rst:2074
+# c9e2326dc8254fd3bc37d891e1604ac8
+# b805d84662714b77ae5fc89f95a9d099
+# 3cc931241ca348ecb84952c400d7f3a9
+msgid "Combat damage step"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:799
+# c819e6c3e80542848d3dc0cb5144176e
+msgid "Each attacking or blocking creature that's still on the battlefield assigns its combat damage to the defending player (if it's attacking that player and wasn't blocked), to a planeswalker (if it's attacking that planeswalker and wasn't blocked), to the creature or creatures blocking it, or to the creature it's blocking. If an attacking creature is blocked by multiple creatures, you divide its combat damage among them by assigning at least enough damage to the first blocking creature in line to destroy it before assigning damage to the next one in line, and so on. Once players decide how the creatures they control will deal their combat damage, the damage is all dealt at the same time. Players can then cast instants and activate abilities."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:811
+#: ../../M14_Rulebook.rst:1428
+#: ../../M14_Rulebook.rst:2075
+# 7d4d67d8bd50490ba75e994999642dc2
+# 9b17b148247847418e5786c10ab35c99
+# 489e8cb07cc343e9a9fc037c81bd127e
+msgid "End of combat step"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:813
+# 335ca386bb614f989b42cca5ce8192ae
+msgid "Players can cast instants and activate abilities."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:817
+# 891c7e06e530468389a31610f2de3c7d
+msgid "Your second main phase is just like your first main phase. You can cast every type of spell and activate abilities, but your opponent can only cast instants and activate abilities. You can play a land during this phase if you didn't during your first main phase."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:822
+# f9a521a787604abfb9d5c24c9cce46a4
+msgid "Ending Phase"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:824
+#: ../../M14_Rulebook.rst:1431
+#: ../../M14_Rulebook.rst:2081
+# 8957e46afa1840dd94913bf838469bfa
+# b8b6e97fef884161a86648d8beb4d4f0
+# ba7160157ae34c6da2ef25a16fca27b3
+msgid "End step"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:826
+# d54f7f117bca404ca6fc80d976901592
+msgid "Abilities that trigger \"at the beginning of your end step\" go on the stack. Players can then cast instants and activate abilities."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:829
+#: ../../M14_Rulebook.rst:2082
+# 16812d29191449da8b5b8a7fcfbc2c3a
+# a928cb25069b42d693bc0f039bca55c2
+msgid "Cleanup step"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:831
+# 349bc07238e9437ba0f9d4625d9150d1
+msgid "If you have more than seven cards in your hand, choose and discard cards until you have only seven. Next, all damage on creatures is removed and all \"until end of turn\" and \"this turn\" effects end. No one can cast instants or activate abilities unless an ability triggers during this step."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:838
+# 19161c0b213a42338a1fef8d41263b73
+msgid "The Next Turn"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:840
+# d9d9c2a678d14728a69cd19fdfdce87b
+msgid "Now it's your opponent's turn. That player untaps his or her permanents and goes from there. After that player is done, it will be your turn again. Keep going until a player is reduced to 0 life. As soon as a player has 0 life, the game ends immediately and the other player wins!"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:844
+# d43019be77584a33811b1cfbb996ca0d
+msgid "The Ever-Changing Game"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:845
+# e8d70b31f8e0449280742f960865132f
+msgid "One of the fascinating aspects of the Magic game is that it changes from turn to turn—and the cards themselves can actually alter the rules of the game. As you play, you'll find nonland cards with abilities that produce mana, and lands that do other things besides produce mana. You'll find creatures with the haste ability, which allows them to attack right away. You'll find creatures with flying and trample, which change the rules of combat. You'll find cards with abilities that work from your graveyard. You'll find cards whose abilities work together for an effect that's much more powerful than either one could achieve alone (such as the combo of Tenacious Dead and Gnawing Zombie). This is a game of discovery, of amazement, of fighting, and of tricks. This is a game of magic."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:856
+# 13722b6601dc48c28327c2894e66c6b0
+msgid "Section 4: Different Ways to Play"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:858
+# 4692dbd6c5464fb4b29a8247442e44fe
+msgid "You know everything you need to play a Magic game. But what kind of game will you play? Appropriately enough for a game with so many options, there are lots of different ways to play. Everyone can start on equal footing with brand-new cards rather than build decks in advance from the cards in their collections. You can even play with a bunch of friends, not just one."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:867
+# fc36da21ef104be0b6b9a5e78a7f218d
+msgid "Limited Formats"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:868
+# ab63f446c1de4e128b48218201890616
+msgid "In Limited play, each player builds his or her own deck on the spot out of a number of booster packs. In other words, your deck is made from a limited card pool. Each deck must contain at least 40 cards (rather than the usual 60 for a Constructed deck). The only cards you can play with are the ones opened in those packs, plus any number of basic land cards. (A 40-card deck should have about 17 lands and about 15 creatures.)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:874
+# 19ba2ccf375e4d2e903ccc4a5c11fc20
+msgid "Sealed Deck (any number of players)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:875
+# d67e320ac3f443e79b2bbd5221faf88f
+msgid "In this Limited format, you build a deck out of brand-new booster packs. Each player opens six 15-card boosters and builds a 40-card deck using the cards from his or her packs and any number of basic lands."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:879
+# b2a5170d99ac4577a466c9d3b9622497
+msgid "Booster Draft (4 to 8 players)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:880
+# 31293897154a4becadaaf545c9b870c9
+msgid "In this Limited format, instead of just opening your cards and building a deck, you and the other players at the table select (draft) the cards for your decks. Each player at the table starts with three unopened 15-card booster packs."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:883
+# 6b45f88b9b264a698d0a392bc4d86e54
+msgid "At the start of a booster draft, each player opens a pack and picks the card he or she wants from it. (You can't see the cards that the other players draft.) Then each player passes the rest of the pack to his or her left. You pick up the pack that was passed to you, select a card, and pass the rest to your left. This process continues until all the cards have been drafted. Next, each player opens a second pack, but this time, you pass the pack to your right. After all those cards are drafted, you open the third pack and pass to the left again. Use your picks and any number of basic lands to build your 40-card deck."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:889
+# cab08320e5784e8b94a474d4705b9dc3
+msgid "To play these formats and more, check out events at your local gaming store! `Wizards.com/Locator`_"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:894
+# 7029105a80654d77b50243e84674b03d
+msgid "Multiplayer Variants"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:896
+# 5a48189e106241ab9574f8c81293834c
+msgid "You can play a Magic game with more than two players in it. There are dozens of different ways to do so. Some of the most popular are Two-Headed Giant and :doc:`Commander<commander>`, which can be played using only traditional Magic cards from your collection. Other multiplayer variants use oversized cards or a special die to provide a unique experience for your play group."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:901
+#: ../../M14_Rulebook.rst:2083
+# 35317469f07c4dfcb23531caefb4f59d
+# 9016e71d82ae4132bf62aeab1e2b7ace
+msgid "Two-Headed Giant"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:902
+# 968e9044f4bc48499b6c599ae02be41d
+msgid "In a Two-Headed Giant game, you and a teammate play against another two-person team. You and your teammate can show each other your hands and discuss strategy. Your team has a shared life total that starts at 30, you and your teammate have a shared turn, and your team's creatures attack the other team as a group. But you continue to have your own individual library, control your own permanents, spend your own mana, and so on."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:911
+#: ../../M14_Rulebook.rst:1209
+# 0cb8e98e0bd148bb87a41fee74569f64
+# 9b9ed909d88547bb953c0e4130a41dff
+msgid "Commander"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:912
+# 8a8a7042b4e64268ac7812460975b0f1
+msgid "In a Commander game, each player's deck is led by the legendary creature of his or her choice—fittingly, that's the deck's *commander*. The rest of the deck is a specially crafted arsenal of creatures, artifacts, and other spells, designed to reflect the personality of that commander and take advantage of his or her strengths. A Commander game is best enjoyed as a Free-for-All game among 3–6 players, although two-player games are also common. Find out more about this grassroots, player-built format at MTGCommander.net."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:922
+# 0f31573e524f4e088f786dd84757e0ed
+msgid "Read more: :doc:`Official Commander Rules<commander>`"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:925
+#: ../../M14_Rulebook.rst:1751
+# 2594e55e181e43378ccd2d3faec6355f
+# 2e690317f62a4cc5a369c64e6e79f2e0
+msgid "Planechase"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:926
+# 8735eb915a49462597f7769840566d15
+msgid "The Planechase variant adds a deck of oversized plane cards that set the location for your multiplayer battles across the Multiverse. The planes have abilities that alter the rules of the game. If you don't like your current surroundings, you can try to planeswalk by rolling the planar die, but be prepared for the occasional chaotic result!"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:934
+#: ../../M14_Rulebook.rst:1046
+# aba4e09946264e008b75b4a2fe1cadf7
+# a5400d6626904272a8b1ec2412ef3b70
+msgid "Archenemy"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:935
+# ee78d90411014084bfa8c16697127b33
+msgid "In an Archenemy game, one player starts with 40 life and an extra deck of oversized scheme cards. That player is known as the archenemy. The other players play as a team and try to defeat the archenemy."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:942
+# 79da43cec8224fe0901c5dc64f2662cc
+msgid "Tips"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:943
+# 6133e756fde24ce986bb2eee2c0927cf
+msgid "In a multiplayer game, the first time a player takes a mulligan, he or she draws a new hand of seven cards rather than six cards. Subsequent hands decrease by one card as normal. In a Two-Headed Giant game, the team who plays first skips the draw step of their first turn. In all other multiplayer games, no player skips the draw step of his or her first turn."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:948
+# 81893e41df94499d827f43a44ec8329d
+msgid "Learn more about these and other Magic formats at `Wizards.com/MagicFormats`_."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:952
+# 6d8d819041714706936e783d4fc639f0
+msgid "We've collected info about new formats in separate document: :doc:`game_variants`"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:954
+# 089beac879434d27aa97c7129715a06d
+msgid "*-- The translation team*"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:960
+# 674f2a05cc0244508b35bb0abcabd59a
+msgid "Section 5: Glossary"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:963
+# 016969bb9c8849958efc7409709ea69d
+msgid "mana_1, mana_2, mana_3, and so on, mana_x"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:965
+# 5baec09ee5fe4bce83f8af5ce75f889d
+msgid "One of these generic mana symbols in a cost means \"this many of any type of mana.\" For example, |mana_2| in a cost means you can pay two mana of any type, such as |mana_r| and |mana_g|, or |mana_u| and |mana_u|, or |mana_r| and one colorless mana, and so on. (If oX is in a cost, you get to choose what number the X stands for.)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:971
+# 5883c0c9952c4092a32eba738ec66e1b
+msgid "These symbols are also found in some abilities that produce mana, like \"Add |mana_1| to your mana pool.\" In this context, |mana_1| means \"one colorless mana.\" You can't use colorless mana to pay for colored mana costs."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:975
+# fd66688ce9474b289d7058bb54625e56
+msgid "mana_w (white mana)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:977
+# c5430e779e6242c2bde0ac6278080c51
+msgid "One white mana. Tapping a Plains makes |mana_w|. A card with |mana_w| in its mana cost is white."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:978
+# 9156e5c4aa2b474e9b8098d417604042
+msgid "mana_u (blue mana)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:980
+# 7a60d3478d8b464b89aae0d2947f4063
+msgid "One blue mana. Tapping an Island makes |mana_u|. A card with |mana_u| in its mana cost is blue."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:981
+# 58df6474c168459c956ffcadc679c409
+msgid "mana_b (black mana)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:983
+# dd01448d1fac4c7faf35734d64171836
+msgid "One black mana. Tapping a Swamp makes |mana_b|. A card with |mana_b| in its mana cost is black."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:984
+# a1f241f39836446fbb5a9a63df1edc95
+msgid "mana_r (red mana)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:986
+# ca436ff75ed64e959bd95e79ec22676f
+msgid "One red mana. Tapping a Mountain makes |mana_r|. A card with |mana_r| in its mana cost is red."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:987
+# 7358f06e06114877852a1a007738a3af
+msgid "mana_g (green mana)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:989
+# 728028d86b2f4e6fbedf441d32139a68
+msgid "One green mana. Tapping a Forest makes |mana_g|. A card with |mana_g| in its mana cost is green."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:991
+# 0c7f595b6163445396caf6f74de7fa2b
+msgid "tap (tap)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:993
+# 4ad577c3d6154d7cabd9fa36afcc463c
+msgid "This symbol means \"tap this card\" (turn it sideways to show that it's been used). It appears in activation costs. You can't pay a oT cost if the card is already tapped. Also, remember that you can't pay your creature's oT costs until the creature starts your turn on the battlefield under your control."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:997
+# ddcdd88224cc4e3c9dc552c42fd007ae
+msgid "mana_wu, mana_bg, and so on"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:999
+# 673f5cac00ce4c5a916af26bea91856e
+msgid "Hybrid mana symbols represent a cost that can be paid with either of two colors. For example, a cost represented by the oh1 symbol can be paid with one white mana or one blue mana. It's both a white and a blue mana symbol, and a card with oh1 in its mana cost is both white and blue."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1005
+# 9691d4a4cc83431199a8e4f97edbbeff
+msgid "Ability"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1007
+# 86ab9d6f8a1f49c88691f06096d5b9da
+msgid "Any text on a permanent (except reminder text and flavor text) tells you the permanent's abilities. There are three kinds of abilities a permanent can have: activated abilities, static abilities, and triggered abilities. Unless they say otherwise, abilities \"work\" only while the permanent they're on is on the battlefield. Once a triggered ability triggers or an activated ability is activated, it will resolve unless it's countered; it doesn't matter what happens to the source of the ability once the ability goes on the stack. See :ref:`Activated Abilities<sec-activated-abilities>` [on page 12]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1016
+# e7f2712e9256461094d04c4b491f35fe
+msgid "Activate"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1018
+# 7ac39b3a616c4408953fbc4880ad719c
+msgid "You activate an activated ability by putting it on the stack. You activate an ability just as you cast a spell: announce it, choose its targets, and pay its activation cost. See :ref:`Activated Abilities<sec-activated-abilities>` [on page 12]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1022
+# eb1f6afa11f9478ba1b5a017f887af35
+msgid "*/*"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1024
+# c2114ba7603742268c4dbcce1095dcce
+msgid "Instead of numbers, some creatures have stars for their power and toughness. This means the creature's power and toughness are set by an ability it has rather than being fixed numbers. For example, Nightmare has an ability that reads \"Nightmare's power and toughness are each equal to the number of Swamps you control.\" If you control four Swamps when Nightmare enters the battlefield, it will be 4/4. If you play more Swamps later on, it will get even bigger."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1032
+# 6ccc0b2777d645eabd8d2d647a4051f8
+msgid "Activated ability"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1034
+# 59b1eb847b0243fca711155f72aa4bc9
+msgid "One of the three kinds of abilities a permanent can have. An activated ability is always written in the form \"cost: effect.\" See :ref:`Abilities<sec-abilities>` [on page 12]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1037
+# 22119b1057e04e1ca70d854261d411be
+msgid "Active player"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1039
+# 3f11d879e16744fbbe80db08c86986af
+msgid "The player whose turn it is. The active player always gets the first chance to cast spells and activate abilities."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1041
+# 138b90a21a8141799879553166875880
+msgid "Additional cost"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1043
+# 72fcb8e672f74cb8953840d3a1f44fee
+msgid "Some spells say they have an additional cost. To cast that spell, you must pay both the mana cost in the upper right corner of the card and its additional cost."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1048
+# b2e5a89b51194fdeb7b0446658092fb1
+msgid "A one-on-many multiplayer variant that features oversized scheme cards."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1052
+# 532123daf9b14ae3bb18d31a6a09039c
+msgid "A card type. See :ref:`Artifact<sec-artifact>` [on page 6]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1053
+# dc843325a41745d9a1763bad04919e88
+msgid "Artifact creature"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1055
+# 6cfa0895b50f42ae98064cde540c1265
+msgid "This is both an artifact and a creature. See :ref:`Creature<sec-creature>` [on page 6]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1056
+# 38e2d5356adf429bae48555fa1f2506b
+msgid "Attack"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1058
+# c1d6770565074e478b9666ec2ea48113
+msgid "How your creatures deal damage to your opponent. During your combat phase, you decide which, if any, of your untapped creatures will attack, and which player or planeswalker they will attack, then they all do so at once. Attacking causes creatures to tap. Creatures can attack only players or planeswalkers, not other creatures. Your opponent then gets a chance to block your attacking creatures with his or her own creatures. See :ref:`Attacking and Blocking<sec-attacking-and-blocking>` [on page 13]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1066
+# 71a7c38da8484243b071434a4a53a682
+msgid "Attacking creature"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1068
+# 884fe190436e4302869ad8749217e0b7
+msgid "A creature that's attacking. A creature is attacking from the time it's declared as an attacker until the combat phase ends, unless it's somehow removed from combat. There's no such thing as an attacking creature outside of the combat phase."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1072
+# 571883006c294ba3977665e4ccf25d0b
+msgid "Aura"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1074
+# 59a5229d5be44d2db584b688ccb2638a
+msgid "A special type of enchantment that can be attached to a permanent (or sometimes a player). Each Aura has the keyword \"enchant\" followed by what it can be attached to: \"enchant creature,\" \"enchant land,\" and so on. When you cast an Aura spell, you choose one of the right kind of permanent to target. When the Aura resolves, it's put onto the battlefield attached to that permanent (it's not targeting it anymore). If an Aura is ever attached to something that doesn't match its enchant ability—or attached to nothing at all—it's put into its owner's graveyard."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1084
+# f39b0ebc22a442d4a9aab6f197c74518
+msgid "Basic land"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1086
+# aa7ac2e2e2a34c4caeadea12561270b7
+msgid "|basic_forest|"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1088
+# 355a11d60134411aa317731b7171f8b7
+msgid "There are five basic lands. Plains make |mana_w| (white mana). Islands make |mana_u| (blue mana). Swamps make |mana_b| (black mana). Mountains make |mana_r| (red mana). Forests make |mana_g| (green mana). They each say \"basic\" on their type line (basic is a supertype). Lands other than these five are called nonbasic lands."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1093
+# 84ecd91d8281497d8d2d2c2dc35c12ad
+msgid "When building a deck, you can include any number of basic lands. You can't have more than four copies of any other cards in your deck."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1097
+# 902b3170b60946c5aa4e10aeb239d195
+msgid "Each basic land has a subtype, which appears after \"Basic Land —\" on its type line. These are the \"basic land types,\" which are the same five words as the basic land names. Some nonbasic lands also have basic land types. Any land with a basic land type has an activated ability that makes one mana of the appropriate color, even if it doesn't say so in the text box. For example, every Forest has the ability \"|tap|: Add |mana_g| to your mana pool.\""
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1106
+# a127223ea7f54277955babebf54f88ec
+msgid "A game zone. See :ref:`Battlefield<sec-battlefield>` [on page 8]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1107
+# 6405196eaeab46e8bf2a5e5c51a56c0e
+msgid "Block"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1109
+# 33126cb225c142fdb054ec7a478e503c
+msgid "To stop an attacking creature from damaging you or one of your planeswalkers by having it fight one of your creatures instead. After your opponent attacks with one or more creatures, you can have any number of your untapped creatures block. Each one can block one attacking creature. You can have two or more of your untapped creatures gang up and block a single attacking creature. If an attacker is blocked, it will deal its combat damage to the creature blocking it instead of to the player or planeswalker it was attacking. Blocking is optional. See :ref:`Attacking and Blocking<sec-attacking-and-blocking>` [on page 13]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1119
+# 83074566f55342ed81b463f79c475102
+msgid "Blocked creature"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1121
+# 8d4d3c68c91a494bb70c2718811add21
+msgid "An attacking creature that's blocked by at least one creature. Once a creature is blocked, it stays blocked for the rest of the combat phase—even if all the creatures blocking it leave combat. In other words, once a creature is blocked, there's no way for it to deal damage to the player or planeswalker it's attacking (unless the attacking creature has trample). There's no such thing as a blocked creature outside of the combat phase."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1128
+# b7c33d53a39b482fa50ab26ab317a2b1
+msgid "Blocking creature"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1130
+# 4202867990f844b499d071da84648e9f
+msgid "A creature assigned to block an attacking creature. If a creature blocks an attacker, the attacker deals its damage to the blocker instead of to the player or planeswalker it's attacking. Once a creature blocks, it stays a blocking creature for the rest of the combat phase—even if the creature it's blocking leaves combat. There's no such thing as a blocking creature outside of the combat phase."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1137
+# 0672973b83d14fdba2ce4d248b278414
+msgid "Booster, booster pack"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1139
+# 930cec35d4ec4a36bf9c3721f1606127
+msgid "A pack of randomly assorted Magic cards. When you want to add more cards to your collection, this is what you'll get. Most 15-card booster packs contain one rare or mythic rare card, three uncommon cards, and eleven common cards, including one basic land card. Find stores where Magic cards are sold at `Wizards.com/Locator`_."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1145
+# c828ff7a69144321bb2c7929e2589312
+msgid "Booster Draft"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1147
+#: ../../M14_Rulebook.rst:1926
+# 7365fedfd64b4f87a5339d859dd1b9ac
+# becbb30839504a7194a0639b0c337784
+msgid "See :ref:`Limited Formats<sec-limited-formats>` [on page 19]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1150
+# 9fbe7d295a15405c9d74bd63b76a2fea
+msgid "Every card in your deck has at least one card type: artifact, creature, enchantment, instant, land, planeswalker, or sorcery. A card's type is printed under its illustration. Some cards, like artifact creatures, have more than one type. Some cards also have subtypes, such as \"Goblin\" and \"Warrior\" in \"Creature — Goblin Warrior,\" or supertypes, such as \"basic\" in \"Basic Land — Forest.\""
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1156
+# f9923adfe17a47488f6c566ae6041d72
+msgid "Cast"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1158
+# 5577df64cb1645c9b0ce53468db5074e
+msgid "You cast a spell by putting it on the stack. Different kinds of spells can be cast at different times, but the things you have to do to cast a spell are always the same: announce it, choose its targets (and make certain other choices right away), and pay its cost. See :ref:`Spells<sec-spells>` [on page 10]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1163
+# 070b0c010e974cf8b13e662e32972e2d
+msgid "Choose one —"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1165
+# 1e21aa00a0ce4be99dac44f637876c1b
+msgid "When you see the phrase \"Choose one —\" on a card, you have to choose one option on the card when you cast it. You can't change your mind and choose something else later on, even if your first choice doesn't work out."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1169
+# 55c1708de21e451c9f3d9f20451e4a92
+msgid "Color"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1171
+# 7f3834b01f09413cb176b2953c8af5fe
+msgid "|colorwheel|"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1173
+# 918fd725ec874a02bc660cff8bd7f4ed
+msgid "The five Magic colors are white, blue, black, red, and green. If a spell or ability tells you to choose a color, you must choose one of those five. A card's color is determined by its mana cost. For example, a card that costs 1U is blue and a card that costs RW is both red and white. Cards with no colored mana in their mana costs, like most artifacts, are colorless. (Colorless is not a color.) Lands are also colorless."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1180
+# 0dbe1ed93e114e798989e96fe0aa148a
+msgid "Some effects can change a spell or permanent's color. For example, \"Target creature becomes blue until end of turn.\" The new color replaces the previous colors, unless the ability says otherwise."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1183
+# 6da6ebb1841b4802baa8780d140ffa1a
+msgid "Colorless"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1185
+# 44c5f886cd7a4024a44a5ffb173f78b9
+msgid "Lands and most artifacts are colorless. Colorless is not a color. If something tells you to choose a color, you can't choose colorless."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1187
+# a53cc60c06754256a3c5dba6f0fd060c
+msgid "Combat"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1189
+# 74931cee36ba4cfb9b69948c8a33cd64
+msgid "In general, combat means attacking, blocking, and all the stuff that happens during a combat phase."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1191
+# 80b96cfc4477415ea2167cb59e38a4a3
+msgid "Combat damage"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1193
+# acea387a57b249b2b9505f9fb9a0e07b
+msgid "Damage dealt by creatures due to attacking and blocking. A creature deals combat damage equal to its power. This damage is dealt during the combat damage step. Any other kind of damage doesn't count as combat damage, even if it's dealt as the result of a creature's ability during combat."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1200
+#: ../../M14_Rulebook.rst:1203
+#: ../../M14_Rulebook.rst:1326
+#: ../../M14_Rulebook.rst:1329
+#: ../../M14_Rulebook.rst:1388
+#: ../../M14_Rulebook.rst:1430
+#: ../../M14_Rulebook.rst:1433
+#: ../../M14_Rulebook.rst:1630
+#: ../../M14_Rulebook.rst:2099
+#: ../../M14_Rulebook.rst:2102
+# 7c144fa6c9854ca292de512a49b9b5af
+# fe60743280a24e078fef4323aaee6cfb
+# 2136addeb0174db99d6500966ffb8495
+# e5f19b7df2e1402cbdc07b53e77f5e91
+# 689466b2d38c447ba107a3925257fcb4
+# 983227abf36d4c2aa64908a9c31adb2e
+# 83c703df9ae340798b3ac47fa141cc6b
+# 1e3e463711524debac72f17f5df4a978
+# 7f69cb09979d4cf9ba3df0c565b825c3
+# 9cb071db6e02484fb7750e39ca8b78e0
+msgid "See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1201
+#: ../../M14_Rulebook.rst:2069
+# 2a77e7ba5698414ca46773ac6308d42b
+# c2edd5bd4cdf4641aebaa91241e65f00
+msgid "Combat phase"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1204
+# 3126b32745fa4947913112c7a4483410
+msgid "Command zone"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1206
+# 380ce650084f4851987e049fcc32feea
+msgid "A game zone used for objects that affect the game but aren't permanents. Some planeswalkers create emblems that go here, and some multiplayer variants use this zone for their oversized cards."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1211
+# c216830d58774481bf2d468a964aad29
+msgid "A casual variant in which each player's deck is led by a legendary creature."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1213
+# 8ba694c059c44646ad00f6ace3ce0ad9
+msgid "Concede"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1215
+# ab03cbb19b61434d996ced5eb35002b2
+msgid "To stop playing a game and give your opponent the victory. You can concede a game at any time (usually if you realize you won't be able to avoid losing). When you concede, you lose the game."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1218
+# 6f8f374ba5984f298e4ee57f6047cf3c
+msgid "Constructed"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1220
+# 0389b344e0b44de5b7915cfa124cc540
+msgid "A group of play formats that use decks you build in advance. A Constructed deck must have at least 60 cards, and it can't have more than four copies of any single card (except for basic lands). Standard is the most popular Constructed format."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1224
+# 8f2af7f347c3434ea4fbf09833fcf721
+msgid "Continuous effect"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1226
+# 2aaa470280de4337a9658821ed21f503
+msgid "An effect that lasts for some duration. These are different from one-shot effects, which just happen once and don't have a duration. You can tell how long a continuous effect will last by reading the spell or ability it came from. For example, it might say \"until end of turn.\" If the continuous effect comes from a static ability, it lasts as long as the permanent with the ability is on the battlefield."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1233
+# 7c8d5359a24e47babec4551a6ef8d97d
+msgid "Control"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1235
+# f52b9af2da83448cb934aadfbf1c5a8e
+msgid "You control spells you cast and permanents that entered the battlefield on your side. You also control abilities that come from permanents you control."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1239
+# a61b8abf410741598bf52d0be8ac6c2a
+msgid "Only you can make decisions for things you control. If you control a permanent, only you can activate its activated abilities. Even if you put an Aura on your opponent's creature, you control the Aura and its abilities."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1244
+# 536a211a56f947c994405bd2ebb924cf
+msgid "Some spells and abilities let you gain control of a permanent. Most of the time, this means the card will move from your opponent's side to yours. But for Auras or Equipment attached to other cards, the controller changes but it doesn't move."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1248
+# 0dfe8a27e57047ee8494b7b25838d25b
+msgid "Controller"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1250
+# 19b069e8982046898960e68e834c131d
+msgid "A spell's controller is the player who cast it. An activated ability's controller is the player who activated it. A permanent's controller is the player who cast it—unless another spell or ability changes who controls it. A triggered ability's controller is the player who controlled the source of the ability when it triggered."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1255
+# e8811312b7594e1c99745caa63ba874b
+msgid "Converted mana cost"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1257
+# aa93294159d74eefb2615fe9ca5a01e8
+msgid "The total amount of mana in a mana cost, regardless of color. For example, a card with a mana cost of 3UU has a converted mana cost of 5. A card with mana cost RR has a converted mana cost of 2."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1261
+# 5220ef4a235b4aa59d3f674320a2544e
+msgid "Cost"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1263
+# 13250d97ef7c49d0a1ed50ed4f30d2fb
+msgid "A cost is something you have to pay to take another action. You must pay a cost to cast a spell or activate an activated ability. Sometimes a spell or ability will also ask you to pay a cost when it resolves. You can't pay a cost unless you can pay all of it. For example, if an activated ability's cost (the part before the \":\") tells you to discard a card and you have no cards in your hand, you can't even try to pay it."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1269
+# 3b0bad9b6ffe482a84a9fe3e7a27c062
+msgid "Counter a spell or ability"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1271
+# c274dcfc8ea04804887e6157153e5ae6
+msgid "To cancel out a spell or ability so it has no effect. If a spell is countered, it's removed from the stack and put into its owner's graveyard. Once a spell or ability starts to resolve, it's too late to counter it. Lands aren't spells, so they can't be countered."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1275
+# 256bb7b813c54911a3d46d477e2adb2c
+msgid "Counter on a permanent"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1277
+# 9da2b0bdbec04e11acb30576a01bb069
+msgid "Some spells and abilities tell you to put a counter on a permanent. The counter marks a change to the permanent that lasts for as long as it's on the battlefield. A counter usually changes a creature's power and toughness or tracks a planeswalker's current loyalty. You can use anything you want as counters: glass beads, dice, or whatever."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1284
+# 3376ca2cba794f49a0a24e61f2846367
+msgid "A card type. See :ref:`Creature<sec-creature>` [on page 6]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1285
+# fc0a06c73359447488b84e43fbe2a58e
+msgid "Creature type"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1287
+# 8781be459faa443d916e605b2a45f295
+msgid "This tells you what kind of creature a creature is, such as Goblin, Elf, or Warrior. You find creature types in the middle of the card after \"Creature — .\" If a creature has more than one word after the dash, the creature has all of those creature types."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1292
+# 57d5de714b6b4c6e83914faa2d85e5d6
+msgid "Some spells and abilities affect multiple creatures with a certain type. For example, Predatory Sliver reads \"Sliver creatures you control get +1/+1.\" All creatures you control with the Sliver creature type, including Predatory Sliver, get the bonus."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1296
+# 6d7a987a2ba1494f8a3711388f3f4547
+msgid "Damage"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1298
+# 2eccb47a916f4e42b28b447b2a6208d6
+msgid "This is what knocks down a player's life total, lowers a planeswalker's loyalty, and destroys creatures. Attacking and blocking creatures deal damage equal to their power. Some spells and abilities can also deal damage. Damage can be dealt only to creatures, planeswalkers, or players. If a creature is dealt damage equal to or greater than its toughness in one turn, it's destroyed. If a planeswalker is dealt damage, that many loyalty counters are removed from it. If a player is dealt damage, it's subtracted from the player's life total."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1307
+# debcc488ce8246d9bd635767444431aa
+msgid "Damage is different from losing life. For example, Dark Favor is an Aura with the drawback \"When Dark Favor enters the battlefield, you lose 1 life.\" That loss of life isn't damage, so it can't be prevented."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1310
+# 8052df014bf14b8eb8dd27e092c93d7f
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1312
+# 276d1776f00e4764a50098969dfb5a69
+msgid "A keyword ability seen on creatures. Deathtouch is an ability that causes a creature to deal an exceptionally lethal form of damage to other creatures. A creature dealt any amount of damage by a creature with deathtouch is destroyed. If your creature with deathtouch is blocked by multiple creatures, you can assign as little as 1 damage to each of the blocking creatures!"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1318
+# 59da5481e9144e948cd578d4c789099c
+msgid "Deck"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1320
+# f90604c91be3460cb2148861da6e1f51
+msgid "At least 60 cards of your choice, well shuffled. (Limited formats in which players build their decks as part of the event allow 40-card decks.) To play a Magic game, you must have your own deck. Once the game starts, your deck becomes your library."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1327
+#: ../../M14_Rulebook.rst:2073
+# 64960f9cf21e48a3815807743f8ca54b
+# 5876c506df8d466c84652b13d183ae1d
+msgid "Declare blockers step"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1330
+# 3b6ae94c542646f18b348d6cfaf552f6
+msgid "Defender"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1332
+# 6a16f57dad2949bcbd0ee5ad07ed62a5
+msgid "A keyword ability seen on creatures. Creatures with defender can't attack."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1334
+# 95a4c833cf0942cab8eaf877b557e32e
+msgid "Defending player"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1336
+# 68a07eb7ba3749b18c855b2983ef1017
+msgid "The player who is being attacked (or whose planeswalker is being attacked) during a combat phase."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1338
+# c863074ae6254518acb2064c1459cdcb
+msgid "Destroy"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1340
+# bf65c37baae4400dad81739baa0cef23
+msgid "To move a permanent from the battlefield to its owner's graveyard. Creatures are destroyed when they've taken damage equal to or greater than their toughness. Also, lots of spells and abilities can destroy permanents (without dealing damage to them)."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1345
+# 1e4a48f10bd8486f86479c65ce730c8a
+msgid "Sometimes permanents are put into the graveyard without being destroyed. If a permanent is sacrificed, it isn't \"destroyed,\" but it's still put into its owner's graveyard. The same is true if a creature's toughness is reduced to 0 or less, two legendary permanents with the same name controlled by the same player are on the battlefield, two planeswalkers with the same subtype controlled by the same player are on the battlefield, or an Aura is on the battlefield but isn't enchanting what's described in its \"enchant\" ability."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1354
+# 0535895c4ec24f2983f84bb86306649a
+msgid "Dies"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1356
+# 5981d4923e4c4f37a165632602fd3980
+msgid "\"Dies\" is another way to say that a creature \"is put into a graveyard from the battlefield.\""
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1358
+# 37e1e004429f455bafadcae7fa7ec627
+msgid "Discard"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1360
+# 504198e4f1a243b8989efef92b0832fb
+msgid "To take a card from your hand and put it into your graveyard. If a spell or ability makes you discard cards, you get to choose which cards to discard—unless the spell or ability says another player chooses the cards or you have to discard \"at random.\""
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1365
+# 65f2b0c340ac479fa396a003902aecb7
+msgid "If you have more than seven cards in your hand during your own cleanup step, you have to discard until you have seven."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1367
+# bbf3ab305960401dbe8474ae8036361f
+msgid "Double strike"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1369
+# 1c14b4345c3c4fdc99ef2cc3481609e3
+msgid "A keyword ability seen on creatures. Creatures with double strike deal their combat damage twice. When you reach the combat damage step, check to see if any attacking or blocking creatures have first strike or double strike. If so, an extra combat damage step is created just for them. Only creatures with first strike and double strike get to deal combat damage in this step. After that, the normal combat damage step happens. All remaining attacking and blocking creatures, as well as the ones with double strike, deal combat damage during this second step."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1378
+# e5f4740b0498481d98f855ae5861340e
+msgid "Draw a card"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1380
+# 4ee1d18babae473d8164d5270b7f6524
+msgid "To take the top card of your library (deck) and put it into your hand. You draw one card during each of your turns, at the start of your draw step. You also draw if a spell or ability lets you; this doesn't affect your normal draw for the turn. If a spell or ability lets you put a card into your hand from your library but doesn't use the word \"draw,\" it doesn't count as drawing a card."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1389
+# f805c442f5964f32922b1d55cb83f944
+msgid "Draw the game"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1391
+# 8b528c26ac6f4de6a6e44ee02501ab0e
+msgid "The other meaning of \"draw\" is a game that ends with no winner. For example, if a spell like Earthquake deals enough damage so that both players drop to 0 or less life, the game is a draw."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1394
+# 16f3bd0c5cb04bdcb014e22d720e7c06
+msgid "Effect"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1396
+# a670c748eb254f4bbf5acdfa663dcb5a
+msgid "What a spell or ability does when it resolves. There are several types of effects: :term:`one-shot effects<one-shot effect>`, :term:`continuous effects<continuous effect>`, :term:`prevention effects<prevention effect>`, and :term:`replacement effects<replacement effect>`. You can look up each one in this glossary."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1402
+# 34dc2668eec341f49538019f390469c4
+msgid "Emblem"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1404
+# 9bb96ecb4b3c4fd897241433833804be
+msgid "Some planeswalkers' abilities create an emblem that leaves a lasting effect on the game. Once an emblem is created, it can't be destroyed and its abilities apply until the game ends."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1407
+# 89e24660d751453a9783b3ed6ebd4b2a
+msgid "Enchant"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1409
+# 7a55c593eb6c49b4be5b0ceef0d52251
+msgid "A keyword ability seen on all Auras. It's usually followed by a description of a permanent (for example, \"enchant creature\" or \"enchant land\"), which tells you what kind of permanent the Aura can be attached to. When you cast the Aura, you must target that kind of permanent. Similarly, Auras with \"enchant player\" or \"enchant opponent\" target a player when they're cast. If an Aura is ever attached to something that doesn't match its enchant ability, it's put into its owner's graveyard."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1417
+# 69cdd757923c4c76a8ff4d10ca775b49
+msgid "Enchanted"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1419
+# 83651c75a2ab4f2394d3b479db25a0e5
+msgid "When an ability of an Aura says \"enchanted creature\" (or \"enchanted artifact,\" \"enchanted land,\" and so on), it means \"the creature the Aura is attached to.\" For example, Mark of the Vampire has the ability \"Enchanted creature gets +2/+2 and has lifelink.\" Only the creature that Mark of the Vampire is attached to gets the bonus, and that creature's controller will gain life from its lifelink ability."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1427
+# 081d8c887f1a4a0a89edf41c17218a0c
+msgid "A card type. See :ref:`Enchantment<sec-enchantment>` [on page 6]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1434
+# 4ebc03c883634aa1aaf2ae1aeb2fcf8d
+msgid "Enters the battlefield"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1436
+# 5dc335d63fb64178922716d82a94bc15
+msgid "When artifact, creature, enchantment, and planeswalker spells resolve, they enter the battlefield as permanents. Lands also enter the battlefield as permanents."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1440
+# d7db156a1eaf4469b90723d668d061b1
+msgid "Some triggered abilities start with \"When [this permanent] enters the battlefield, . . . .\" When a permanent with an ability like this is put onto the battlefield, this ability triggers right away. Some abilities also trigger when certain other permanents enter the battlefield."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1445
+# e0a6750a3e4749e9b59da7f64dec9f85
+msgid "Some cards say they enter the battlefield tapped. These cards don't enter the battlefield and become tapped—they're already tapped by the time they're put onto the battlefield. Similarly, creatures that \"enter the battlefield with (some number of) +1/+1 counters,\" or whose power or toughness will be modified by a continuous effect, don't enter the battlefield and then change size."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1451
+# ead5294ec89048548c4fd4c71923a1bf
+msgid "Equip"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1453
+# 1bd1311c435744c9a0483ab11e266775
+msgid "A keyword ability seen on all Equipment. It tells you how much it costs to attach the Equipment to one of your creatures. It doesn't matter whether the Equipment is unattached or is attached to a different creature. You can activate this ability only during your main phase, when no spells or abilities are on the stack. The equip ability targets the creature you're moving the Equipment onto."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1459
+# a12d73ed188f46aba10161bcea673b33
+msgid "Equipment"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1461
+# 1069718bf3204ad3b6edb99dabffadb8
+msgid "A type of artifact that represents a weapon, armor, or other item that your creatures can use. When you cast an Equipment spell, it enters the battlefield like any other artifact. Once it's on the battlefield, you can pay its equip cost any time you could cast a sorcery to attach it to a creature you control. You can do this even if the Equipment is attached to another creature. Once it's attached to a creature, the Equipment then has some effect on it. If the equipped creature leaves the battlefield, the Equipment \"drops to the ground\" and stays on the battlefield, waiting for you to attach it to another creature."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1471
+# ea9b999a9d8941d2a73eb3e5ca91f53b
+msgid "Evasion ability"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1473
+# bd4b6684c9584a909943c7b567fd2757
+msgid "A nickname for any ability that makes a creature harder to block. Flying is the most common evasion ability."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1477
+# dfc2e44d14e24f92b86bdebe563a4786
+msgid "A game zone. Exile is essentially a holding area for cards. If a spell or ability exiles a card, that card is moved to the exile zone from wherever it is. See :ref:`Exile<sec-exile>` [on page 8]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1480
+# 3c0eaba842a44768b48717a6decb3561
+msgid "Expansion symbol"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1482
+#: ../../M14_Rulebook.rst:1687
+#: ../../M14_Rulebook.rst:2021
+#: ../../M14_Rulebook.rst:2088
+# 91ecace7e3334cddab4b81d774594d38
+# 60f26076247d4eab99f79eb805d42873
+# 54c93fff9e804dfb83357cb1c36531bc
+# f7192b5ed6014bb8a6d3fc1b1b4c17b5
+msgid "See :ref:`Parts of a Card<sec-parts-of-a-card>` [on page 5]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1483
+# de0c9a3ab7e243c1ad539511bc60c10e
+msgid "Fight"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1485
+# ca851ef3099f403c86e3c73e30aba8d5
+msgid "Some effects cause a creature to fight another creature. When two creatures fight, each deals damage equal to its power to the other."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1487
+# 8cc04fee7eec429b88fbf457de042543
+msgid "First strike"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1489
+# b5c8d084ac904efda9588766d81942fb
+msgid "A keyword ability seen on creatures. Creatures with first strike deal their combat damage before creatures without first strike. When you reach the combat damage step, check to see if any attacking or blocking creatures have first strike or double strike. If so, an extra combat damage step is created just for them. Only creatures with first strike and double strike get to deal combat damage in this step. After that, the normal combat damage step happens. All remaining attacking and blocking creatures, as well as the ones with double strike, deal combat damage during this second step."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1498
+# d4c33ef08359466eb8ff92c5061b90c0
+msgid "Flash"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1500
+# c1f0715fc08d476babd68767f4834533
+msgid "A keyword ability seen on creatures, artifacts, and enchantments. A spell with flash can be cast any time you could cast an instant."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1502
+# 3d89ca73a13545d5817ff1d20a4765e6
+msgid "Flavor text"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1504
+# f78c6393c0a54380bcbcd54414ebcd72
+msgid "Italic text (italic text looks like this) in a card's text box that's just for fun. Flavor text sets a tone or describes part of the magical world of the card. If the text is in parentheses, it's there to remind you about a rule—it's not flavor text. Flavor text has no effect on how the card is cast."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1509
+# 62491e23de304fcaa464907b69f82564
+msgid "Flying"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1511
+# a3d7fd72cedb43f39798cd00148d98af
+msgid "A keyword ability seen on creatures. A creature with flying can't be blocked except by creatures with flying or reach."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1513
+# ab9c726321e8492c851a442ad73c5fd7
+msgid "Forestwalk"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1515
+#: ../../M14_Rulebook.rst:1564
+#: ../../M14_Rulebook.rst:1666
+#: ../../M14_Rulebook.rst:2012
+# f379acdf6a804e0ba63305ad7fbb61ad
+# f204f57cd95141e1abff37b0fa8a52e4
+# 49a41c23af3340d8af9130bb468b1c09
+# a9ed38fed41d42e9964a82ec09ff7178
+msgid "A kind of landwalk. See the glossary entry for :term:`Landwalk<landwalk>`."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1518
+# 9824f327fcb24a389c370c73031580ca
+msgid "A game zone. See :ref:`Graveyard<sec-graveyard>` [on page 8]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1521
+# 1d9cd465c92246cb97133f6acc2883fb
+msgid "A game zone. See :ref:`Hand<sec-hand>` [on page 8]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1522
+# 344d78286b7f45a39d8dd233a007f620
+msgid "Haste"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1524
+# 4d199c78c1064fd09c71bac3c089f2ca
+msgid "A keyword ability seen on creatures. A creature with haste can attack as soon as it comes under your control. You can also activate its activated abilities with oT in the cost."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1527
+# c8b7fc1a49364d14bf6c083c6fa21f6b
+msgid "Hexproof"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1529
+# 1d09c75272fd489c8b23416fc4096a71
+msgid "A keyword ability seen on permanents. A permanent with hexproof can't be the target of spells or abilities controlled by an opponent. The player who controls the permanent with hexproof can still target it with spells and abilities."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1533
+# 29e010a64b1241bfba9e63e117dc4571
+msgid "Indestructible"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1535
+# 3d9ecc18715c44729760f6f76312c285
+msgid "An indestructible permanent can't be destroyed by damage or by effects that say \"destroy.\" It can still be put into the graveyard for other reasons. See the glossary entry for :term:`Destroy<destroy>`."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1540
+# ff2c633eb7134e91b22cfe4c7e0cd8b7
+msgid "A card type. See :ref:`Instant<sec-instant>` [on page 6]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1541
+# 6f0f97eb7a6f485ba40bd663dba262c9
+msgid "Instead"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1543
+# 27e61b105a0e447f829365f6b26352d2
+msgid "When you see this word, you know a spell or ability creates a replacement effect. See the glossary entry for :term:`Replacement effect<replacement effect>`."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1545
+# 31d88c42442942e2b581e81f7fb9b881
+msgid "Intimidate"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1547
+# f19c98ad15fc4e97b44ed3d9bdcde9a7
+msgid "A keyword ability seen on creatures. A creature with intimidate can't be blocked except by creatures that share a color with it and/ or artifact creatures. For example, a red creature with intimidate could be blocked by a red creature, a red-and-green creature, or any artifact creature. Intimidate only matters when the creature with the ability is attacking."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1553
+# b861cc3fc67d4d82bbae18d440df64ae
+msgid "Intro pack"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1555
+# 785bd2a9f43f4756be1a24a6bfec7df0
+msgid "A pack that includes a ready-to-play deck featuring cards from a particular set, as well as two bonus 15-card booster packs. You can play decks from intro packs against each other right out of the box. The Magic 2014 core set has five intro packs. When you're just starting to play, modifying the deck from a Magic intro pack is a good way to start designing your own decks. Find stores where Magic cards are sold at `Wizards.com/Locator`_."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1562
+# 213fac7f481246e1b936ffbed8ab3a3b
+msgid "Islandwalk"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1567
+# 2a67810a16aa4366a0e64b61971dd439
+msgid "A card type. See :ref:`Land<sec-land>` [on page 7]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1568
+# 65aebd4629f345f8ba528fd75781b6e9
+msgid "Land type"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1570
+# 6c99c2ad3c1447fa8e45857ae71f92bb
+msgid "A subtype of a land. See the glossary entry for :term:`Basic land type<basic land type>`."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1571
+# 4d5ffe6bb7204f79a9b2efb3129a8391
+msgid "Landwalk"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1573
+# e6f1f6364dee4df0be375c77131deb26
+msgid "Landwalk is the name for a group of keyword abilities that includes plainswalk, islandwalk, swampwalk, mountainwalk, and forestwalk. A creature with landwalk is unblockable if the defending player controls at least one land of the specified type."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1577
+# e23d80fb99f04a34951670a11687cd15
+msgid "Leaves the battlefield"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1579
+# 8d40de38230640d586b43d57098a82f6
+msgid "A permanent leaves the battlefield when it moves from the battlefield zone to any other zone. It might return to a player's hand from the battlefield, go to a graveyard from the battlefield, or go to some other zone. If a card leaves the battlefield and later returns to the battlefield, it's like a brand-new card. It doesn't \"remember\" anything from the last time it was on the battlefield."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1585
+# 4622c47a31ae42a892fa76386c033f49
+msgid "Legendary"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1587
+# e8d9f56c9c914591897b0d2e01ff48ba
+msgid "Legendary is a supertype, so you'll find it written on the type line before the card type. If a player controls two or more legendary permanents with the same name, that player chooses one of them to stay on the battlefield and the rest are put into their owner's graveyard. (Different players can control legendary permanents with the same name.) This is known as the \"legend rule.\""
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1595
+# 02de005a288d4d88bba03b45bbf23fbd
+msgid "A game zone. See :ref:`Library<sec-library>` [on page 8]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1596
+# 0855a14ccaa540ac8e56731943483605
+msgid "Life, life total"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1598
+# 5d0bd46d90434dec91cde92f890dd519
+msgid "Each player begins the game with 20 life. When you're dealt damage by spells, abilities, or unblocked creatures, you subtract the damage from your life total. If your life total drops to 0 or less, you lose the game. If something causes both players' life totals to drop to 0 or less at the same time, the game is a draw."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1603
+# 192ac26b4f974c708eec177180300fa6
+msgid "Lifelink"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1605
+# 9331d553fc124cfab94559406d41aa76
+msgid "A keyword ability seen on permanents. Damage dealt by a permanent with lifelink causes that permanent's controller to gain that much life, in addition to behaving like normal damage."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1608
+# 2c533f6fd009453a8262ec70624d200a
+msgid "Limited"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1610
+# 4ef17937a2de4370b57aadd8ff08cf27
+msgid "A group of play formats using cards from booster packs you open just before you play. See :ref:`Limited Formats<sec-limited-formats>` [on page 19]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1612
+# 5f6024af1c7e40d181d54a70d9279e8c
+msgid "Losing life"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1614
+# 922ef142e7584167a3455461c420180d
+msgid "All damage dealt to you causes you to lose life, which is why it's subtracted from your life total. In addition, some spells and abilities say that they cause you to lose life. This isn't the same as damage, so it can't be prevented."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1618
+# 33ceb2961dc444289928429db6751c87
+msgid "Loyalty"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1620
+# 7a27b9b946e848a0b7a2668ee84c57be
+msgid "Loyalty is a characteristic that only planeswalkers have. Each planeswalker card has a loyalty number printed in its lower right corner: that's how many loyalty counters it gets as it enters the battlefield. The cost to activate one of a planeswalker's activated abilities is to put loyalty counters on it or remove loyalty counters from it. Each 1 damage dealt to a planeswalker causes a loyalty counter to be removed from it. If a planeswalker has no loyalty counters on it, it's put into its owner's graveyard. See also :ref:`Planeswalker<sec-planeswalker>` [on page 7]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1628
+#: ../../M14_Rulebook.rst:2067
+# e40e1be7118c49938f2b1a9c078cc8bd
+# 27ffcc576d094122b83d6d9050dec0f6
+msgid "Main phase"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1631
+# 790bf2ba90544ce08f8a49c359971ce3
+msgid "Mana"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1633
+# bdcfba1002c94ba3a3d2f6a509e3a202
+msgid "The magical energy you use to pay for spells and some abilities."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1635
+# 1263d0e92a5c43c5b709abb2348c17bf
+msgid "Most mana comes from tapping lands. There are five colors of mana: |mana_w| (white), |mana_u| (blue), |mana_b| (black), |mana_r| (red), and |mana_g| (green). There's also colorless mana."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1638
+# a7d4246513fb4c95a1469c14711612f1
+msgid "Mana ability"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1640
+# 03804f773f25463ea17042ca1062aeba
+msgid "An ability that adds mana to your mana pool. Mana abilities can be activated abilities or triggered abilities. A mana ability doesn't go on the stack when you activate it or it triggers—you simply get the mana immediately."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1644
+# b2ac045332e24e8a974fe83b36300f5a
+msgid "Mana cost"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1646
+# ee73d5ee7bf7438abf5dce4f55fd9c71
+msgid "See :ref:`Parts of a Card<sec-parts-of-a-card>` [on page 5]. Also see the glossary entry for :term:`Converted mana cost<converted mana cost>`."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1648
+# cbf5cc7e8b0f41488bc9832f76881056
+msgid "Mana pool"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1650
+# 02416e5e10304130b1f5239d3385b23a
+msgid "The place where your mana is stored until you spend it or until the current step or phase ends."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1652
+# 192a0239945e4cdb8a7206dab173f5c9
+msgid "Match"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1654
+# 63edd083c2eb453281c7deecefcfbe07
+msgid "A series of games against the same opponent. Most matches are best two out of three, so the first player to win two games wins the match. The loser of the first game decides who goes first in the second game, and so on."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1658
+# 7500eba699bf438cbd1d3379a0d38920
+msgid "Modern"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1660
+# 75b24095965f485fbb2cf93ec84d8be6
+msgid "A Constructed format that's growing in popularity. The Modern format uses core sets and blocks from Eighth Edition and Mirrodin® to the present. See `Wizards.com/MagicFormats`_ for more information."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1664
+# 67cd7bd9277646f4bd188a817955e4f5
+msgid "Mountainwalk"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1667
+# 761e475acd284cc7adc032388d334511
+msgid "Mulligan"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1669
+# 2312a63ea8a04f16ac550e62eb8e25cf
+msgid "At the beginning of a Magic game, you draw the top seven cards of your library. If you don't like that hand of cards for any reason, you can mulligan. When you mulligan, your hand is shuffled into your library and you draw a new hand of one fewer cards. You can mulligan as many times as you want, but you draw one fewer card each time. When both players like their opening hands, you start playing."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1676
+# bf7097349d2a45d6a289cd05630f30b2
+msgid "Multicolored card"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1678
+# 901942ebeb8e4b3d92111f5747c634c7
+msgid "A card with more than one color of mana in its mana cost. For example, a card with the mana cost |mana_2| |mana_b| |mana_r| is both black and red. Most multicolored cards have a gold background."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1681
+# acceb04673144854926da660b2e25534
+msgid "Multiplayer game"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1683
+# 509d90925c8440dc8227953ab1e96fe6
+msgid "A Magic game that starts with more than two players in it. See :ref:`Multiplayer Variants<sec-multiplayer-variants>` [on page 20]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1685
+# 11c41a454884489cbfca4f003ce370f8
+msgid "Name"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1689
+# b47a5aeb3be94eb7b4272567f1726e94
+msgid "When a card's name appears in its text box, the card is referring to itself, not to any other cards with the same name."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1691
+# 44fd33a28a174173abb1645053a979c8
+msgid "Non-"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1693
+# 2911dec891ad45fdbc25ad3a644a8a69
+msgid "When a spell or ability's text refers to a \"nonland card\" or a \"nonblack creature,\" and so on, it means \"a card that's not a land,\" \"a creature that's not black,\" and so on."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1696
+# 59ed7f45712d491b9e9a15cf3f12ee4c
+msgid "Nonbasic land"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1698
+# 27d2e5a2e01948f789f88cbe92f0718e
+msgid "Any land that doesn't have the supertype \"basic\" on its type line— in other words, any land not named Plains, Island, Swamp, Mountain, or Forest. You can't put more than four copies of any one nonbasic land card into a deck."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1702
+# 14c8af205d1240da8092f5b16e01e072
+msgid "One-shot effect"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1704
+# 957ced8b1756448ab384108299dfc627
+msgid "An effect that applies to the game once, and then it's done. For example, Divination reads, \"Draw two cards.\" When it resolves, its effect is done. One-shot effects differ from continuous effects, which last for some amount of time."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1707
+# d9cad6df64bc468791ea1262c73a8ca8
+msgid "Opponent"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1709
+# 286627b5e03b4e1e861da7e45bf31df7
+msgid "A person you're playing against. If a card says \"an opponent,\" it means one of its controller's opponents."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1711
+# fd57022b50ff491b847878b0d7b169c8
+msgid "Owner"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1713
+# 729f835b5d4d4667be5e1991683c9c9a
+msgid "The person who started the game with the card in his or her deck. Even if your opponent has control of one of your permanents, you're still its owner. (If you loaned your friend a deck, he or she will be the \"owner\" of all the cards in it during the game.) The owner of a token is the player who controlled it when it entered the battlefield."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1719
+# 81ea17f780b84cd8af0bc9f8acbf3ba9
+msgid "Paying life"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1721
+# 8876534f3dcc4192bd640379dda98630
+msgid "Sometimes a spell or ability will ask you to pay life as part of its cost. To pay life, subtract that amount of life from your life total. You can't pay more life than you have. Paying life isn't damage, so it can't be prevented."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1725
+# 33a1132e8df049ff84d8dfa67e430c5c
+msgid "Permanent"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1727
+# 9b4468fa275349ab9790cde8c00232a6
+msgid "A card or creature token on the battlefield. Permanents can be artifacts, creatures, enchantments, lands, or planeswalkers. Once a permanent is on the battlefield, it stays there until it's destroyed, sacrificed, or removed somehow. You can't remove a permanent from the battlefield just because you want to, even if you control it. If a permanent leaves the battlefield and then re-enters the battlefield, it's treated like a brand-new card. It doesn't \"remember\" anything about the last time it was on the battlefield."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1736
+# e8421d50564c4b4cbcc3dcfc2deafa2d
+msgid "Unless they say otherwise, spells and abilities affect only permanents. For example, Unsummon reads, \"Return target creature to its owner's hand.\" You must target a creature on the battlefield, not a creature card in a graveyard or anywhere else."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1740
+# 356f8c1543874d3a89efaf2350648332
+msgid "Permanent type"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1742
+# 6a092c37728f4541b36699e49c054d8b
+msgid "The permanent types are artifact, creature, enchantment, land, and planeswalker. Permanents can have more than one type."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1744
+# 8dd0b17b4f124fc3ae9362e37be7619c
+msgid "Phase"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1746
+# e81f7f771aa548e1b557c242bb5048a0
+msgid "One of the main sections of a turn. There are five: beginning phase, first main phase, combat phase, second main phase, and ending phase. Some phases are divided into steps. If a player has mana left over as a step or phase ends, that mana is lost. See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1753
+# 2d5e6018d2884a069bd7966cbb60bfe7
+msgid "A multiplayer variant that features oversized plane cards."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1756
+# f7ea907c10a2485398fcf6132656fcf7
+msgid "A card type. See :ref:`Planeswalker<sec-planeswalker>` [on page 7]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1757
+# 37d64bd4faba439d9e068308644ce308
+msgid "Planeswalker type"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1759
+# daae82698a594c67ad64412d75bbe4a8
+msgid "A subtype of a planeswalker. If a player controls two or more planeswalkers with the same planeswalker type, that player chooses one of them to stay on the battlefield and the rest are put into their owner's graveyard. (Different players can control planeswalkers with the same planeswalker type.)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1764
+# c86a70d3257b4231b26cdc84da51ce5f
+msgid "Play"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1766
+# 20c6475ae5b9451c99924ee34a0bd2c6
+msgid "You play a land by putting it onto the battlefield from your hand. You can play a land only once each turn during one of your main phases when nothing's on the stack. Lands don't go on the stack when you play them."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1771
+# 821bbec6e634497db06e8cfe0c73365f
+msgid "Some effects tell you to play a card. That means to play a land or cast a spell, depending on the card's type."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1773
+# c60b3c66092b4abba1603a4c6ba76bbd
+msgid "Player"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1775
+# fde6b6fa193c49f993b98674c74fbf8d
+msgid "Either you or your opponent. If a spell or ability lets you choose a player, you can choose yourself. You can't choose yourself if it says \"opponent.\" If you're playing a multiplayer game (a game with more than two players), everyone in the game is a player, including your teammates."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1780
+# 62abde5c397e40a698bdc40540e52a4e
+msgid "Power"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1782
+# a65e317bc5264d30893640c2d617b2d0
+msgid "The number to the left of the slash in the box in the lower right corner of a creature card. A creature deals combat damage equal to its power. A creature with 0 power or less deals no damage in combat."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1786
+# 71ba0735efc04ac7832b23320e2e87ee
+msgid "Prevent"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1788
+# 996841c8c8bd4c32a9df40e741679167
+msgid "When you see this word in the text of a spell or ability, you know it's a prevention effect."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1790
+# 2b8aa9367f9f4e6c9889952d615ac970
+msgid "Prevention effect"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1792
+# a5d42f3bda2a41ceb4a2618baacc3df6
+msgid "An effect that stops damage from being dealt. A prevention effect works like a shield. If damage would be dealt but a prevention shield is in place, some or all of that damage isn't dealt. A prevention effect can prevent all damage a source would deal, or it can prevent just a specific amount of damage."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1798
+# 94a5e98571be43f0bdc0358512ddc842
+msgid "For example, Fog reads, \"Prevent all combat damage that would be dealt this turn.\" You can cast Fog long before combat, and its effect will hang around for the whole turn. Then, if creatures try to deal combat damage during that turn, Fog prevents it."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1803
+# 1e809eda148a429f8d73dbe6347fc666
+msgid "Prevention effects can prevent damage from being dealt to creatures, to players, or both. If a prevention effect could prevent damage from being dealt by multiple sources at the same time, the player who would be dealt that damage, or who controls the creature that would be dealt that damage, chooses which source to prevent the damage from."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1809
+# 46b84218afba488e8afc2c1e06523c53
+msgid "Priority"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1811
+# 1ea10c2c5785432ea1dafd6998dc4fd4
+msgid "Since players can cast instants and activate abilities during each other's turns, the game needs a system that makes sure only one player can do something at a time. Priority determines, at any given time, which player can cast a spell or activate an activated ability."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1816
+# ebaacfb4c92c453bbb9ba1ff733270b2
+msgid "The active player (the player whose turn it is) gets priority at the beginning of each step and each main phase—except for the untap step and the cleanup step. When you get priority, you can cast a spell, activate an activated ability, or pass (choose to do nothing). If you do something, you keep priority, so you make the same choice again. If you pass, your opponent gets priority, so now he or she gets that choice. This goes back and forth until both players pass in a row."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1824
+# 6a1bc7c3568d4a00bcef4fc149811682
+msgid "When both players pass in a row, if there's a spell or ability waiting on the stack, it resolves. Then the active player gets priority again, and the system repeats. When both players pass in a row, if there's no spell or ability waiting on the stack, that part of the turn ends and the next one begins."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1829
+# 8b652df2011c483c8d17db69e9881353
+msgid "Protection"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1831
+# e1a5eac11d0c4faa8d388c2769126cfe
+msgid "A keyword ability seen on creatures. A creature with protection will always have \"protection from ________.\" That something is what the creature is protected from. It might be protection from red, for example, or protection from Goblins. Protection does several specific things for the creature:"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1837
+# c2c28f4fb261419d84b69cc75798126d
+msgid "All damage those kinds of sources would deal to the creature is prevented."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1839
+# cd48f6a47a4240d8aab32e2b527e883e
+msgid "The creature can't be enchanted by those kinds of Auras or equipped by those kinds of Equipment."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1841
+# 7e29fa2bd548494bbe7c04ff3fef3ada
+msgid "The creature can't be blocked by those kinds of creatures."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1842
+# aeefed85dfbc44bc97522c0c4d940059
+msgid "The creature can't be targeted by those kinds of spells or by abilities from those kinds of cards."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1844
+# 4069dadf4aea46fea79fc7bb0fd00aae
+msgid "Put onto the battlefield"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1846
+# 1f2e546d16d6460a936bf6d117763d91
+msgid "To move a card or token into the battlefield zone. When a spell or ability tells you to put something onto the battlefield, that's not the same as casting it. You just put it onto the battlefield without paying its costs."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1850
+# d02e120eb0be4ce9b3072a497a4779dc
+msgid "Rarity"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1852
+# 43f0d843f2b8453383d43f6db4c1a96a
+msgid "How likely it is you'll get a particular card. There are four levels of rarity for Magic cards: common, uncommon, rare, and mythic rare. Each 15-card booster pack typically has eleven common cards including one basic land card, three uncommon cards, and one rare card. Some boosters have a mythic rare card instead of a rare card."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1857
+# 90264fc4267d48d9b88b419a3dd2f152
+msgid "Reach"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1859
+# 512b24e7e71f42ca9f3f86500dd2447e
+msgid "A keyword ability seen on creatures. A creature with reach can block a creature with flying. However, a creature with reach can be blocked by any kind of creature."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1862
+# 53f1a22a091f4f8aa94cfb55654b28de
+msgid "Regenerate"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1864
+# d49d1c2e17d94711824de03fa9272340
+msgid "To prevent a permanent from being destroyed later in the turn. A regeneration effect works like a shield. A spell or ability that says \"Regenerate [a permanent]\" puts a regeneration shield on that permanent that can be used up at any time during the turn. If a permanent would be destroyed and it has a regeneration shield, it's not destroyed. Instead, it becomes tapped, it's removed from combat (if it's an attacking or blocking creature), and all damage is removed from it. That regeneration shield is then used up. The permanent never leaves the battlefield, so any Auras, Equipment, or counters that were on it remain there. Any unused regeneration shields go away during the cleanup step."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1874
+# be9a947124444cb9a5821cdb6e24fde7
+msgid "Although a permanent with a regeneration shield can't be destroyed, it can still be put into the graveyard for other reasons. See the glossary entry for :term:`Destroy<destroy>`."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1877
+# ab798b0331004c9f9ec4f45fc120c7ff
+msgid "Reminder text"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1879
+# adf55ef21c4e47c3820931be3e127259
+msgid "Italic text in parentheses (like this) in the text box that reminds you of a rule or keyword ability. Reminder text isn't meant to tell you all the rules for an ability. It just reminds you of how the card works."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1882
+# 859cc9ccd3a94fa4b61de2a3255af659
+msgid "Remove from combat"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1884
+# ce3f0c986a8543d2bdc31c4b9047deb1
+msgid "If an effect removes a creature from combat, it's not attacking or blocking anymore. If it blocked a creature before it was removed, the attacking creature stays blocked, so no damage would get through to the player or planeswalker that's being attacked. A creature that's removed from combat neither deals nor is dealt combat damage."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1890
+# 225cd218bf43465f90f73b08e1166a3a
+msgid "Replacement effect"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1892
+# 69af24e188dd4421a017b854a36c938a
+msgid "A kind of effect that waits for a particular event and then replaces that event with a different one. Replacement effects have the word \"instead\" in them. For example, Darksteel Colossus reads, in part, \"If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.\" The effect replaces the action of putting Darksteel Colossus into the graveyard with the action of shuffling it into its owner's library. Darksteel Colossus never hits the graveyard at all."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1900
+# 2a95c3b111e24fca8371e0c568bae540
+msgid "Resolve"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1902
+# 726b30ab82104c3e8e826f5a2dbbf36b
+msgid "When you cast a spell or activate an activated ability, or when a triggered ability triggers, nothing happens right away. It just goes on the stack. After each player gets a chance to respond to it, it will resolve and its effect will happen. If another spell or ability counters it, or if none of its targets are legal when it tries to resolve, it won't resolve at all (and if it's a spell, it's put into its owner's graveyard)."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1909
+# c427386223da4c1585144ddde993ffe6
+msgid "Respond, in response"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1911
+# 3836e45d1e7d489184a9e376ee33d88f
+msgid "To cast an instant or activate an activated ability right after another spell or ability has been put on the stack. See :ref:`Responding to a Spell<sec-responding-to-a-spell>` [on page 10]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1914
+# 89033bf28cf84d7cb797c93ac9c14969
+msgid "Reveal"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1916
+# 789a0b0df7134c88aad3720de78ceda8
+msgid "When you reveal a card, it's shown to all the players in the game."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1917
+# fdc765cf1850481e8e812f306f626188
+msgid "Sacrifice"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1919
+# 7db6b72a89e0400d9da09fc9a83ddcbe
+msgid "To choose one of your permanents on the battlefield and put it into its owner's graveyard. You can sacrifice only permanents you control. Sacrificing a permanent is different from destroying it, so the permanent can't be regenerated. You can sacrifice a permanent only if a spell or ability tells you to, or if it's part of a cost."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1924
+# 4754595689984cdaad93ee96cb5f6430
+msgid "Sealed Deck"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1927
+# dafbd549972e41419696406145ba0b67
+msgid "Shuffle"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1929
+# af21350eec674a038309e8360261a620
+msgid "To randomize the order of the cards in your deck. At the beginning of every Magic game, your deck is shuffled. Some cards will tell you to shuffle your library as part of their effect (usually because the effect let you look through your library)."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1933
+# 0d79bf2d90cc4333a24b0710c593e4f2
+msgid "Sideboard"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1935
+# 3b665bef874c48efb6277f34a7eba521
+msgid "Magic events allow the use of a sideboard—a group of extra cards that are particularly good against certain opponents. After you play a game against an opponent, you may make changes to your deck using cards from your sideboard. You must reset your deck to its original configuration before playing someone new."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1941
+# 95b92319703f4e5e8d41f4386fe3531e
+msgid "In Constructed formats, your sideboard consists of up to 15 cards. Your combined deck and sideboard can't have more than four copies of any card other than basic land cards. Your deck must have at least 60 cards."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1946
+# b5f315787635489486ac59ad9574c80b
+msgid "In Limited formats, all the cards you opened that aren't in your main deck are in your sideboard. Your deck must have at least 40 cards."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1951
+# d4cd113169fb466aa55795a624aaef94
+msgid "A card type. See :ref:`Sorcery<sec-sorcery>` [on page 5]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1952
+# 79153d51c75e41a6b802590860519858
+msgid "Source"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1954
+# 59754d3c5f28453e8538fd0931818832
+msgid "Where damage or an ability came from. Once an ability has gone on the stack, removing its source doesn't stop the ability from resolving."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1957
+# c17786c979204572a38a8a934b3818b6
+msgid "Spell"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1959
+# 17723b02fb434fe8a32780e784686d0b
+msgid "All types of cards except lands are spells while you're casting them. For example, Serra Angel is a creature card. While you're casting it, it's a creature spell. When it resolves, it becomes a creature."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1962
+# 496cbb5391424a93adc192515b30310b
+msgid "Stack"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1964
+# 4bee1704f3b647b6880e04961a797b44
+msgid "A game zone. See :ref:`The Stack<sec-the-stack>` [on page 8]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1965
+# 38162dc15b374298936fbba8ebc1e752
+msgid "Standard"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1967
+# 78ca58de05f346038b943d87dd30e51e
+msgid "The most popular Constructed format. It uses only the newest sets the game has to offer. The current block, the block that was released the previous October, and the most recent core set are all legal to play in a Standard deck. See `Wizards.com/MagicFormats`_ for more information."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1972
+# 45cafab7dc7d439aae836f4c30ff67df
+msgid "Static ability"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1974
+# f9683812bcd34a16a68a809e25b98676
+msgid "One of the three types of abilities a permanent can have. See :ref:`Static Abilities<sec-static-abilities>` [on page 12]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1976
+# 506ce9d86d2b4633a1c1892b80478949
+msgid "Step"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1978
+# 0e77258a5639438fa816871b29ad9e04
+msgid "Every phase except the main phase is divided into steps. Specific things happen during some steps. For example, you untap your permanents during your untap step. If a player has mana left over as a step or phase ends, that mana is lost. See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1983
+# 51ad867842914cdfb3459500f7efb010
+msgid "Subtype"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1985
+# 023e87cefb7648dd82e463ab682a0c9e
+msgid "All types of cards can have subtypes. Subtypes come after the long dash on the type line. Subtypes of creatures are also called creature types, subtypes of lands are called land types, and so on. A card can have multiple subtypes or none at all. For example, a \"Creature — Elf Warrior\" has the subtypes Elf and Warrior, but a card with just \"Land\" on its type line doesn't have a subtype."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1992
+# def57e0bbdb5456581ed5b8c704d5bb6
+msgid "A few subtypes have special rules. See the glossary entries for :term:`Aura<aura>`, :term:`Equipment<equipment>`, :term:`Basic land type<basic land type>`, and :term:`Planeswalker type<planeswalker type>`. Creature subtypes don't have any special rules associated with them."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:1998
+# e992107783614107ac6e2cfd0a191df0
+msgid "Some effects can change a permanent's subtype. For example, \"Target creature becomes an Elf until end of turn.\" The new subtype replaces the previous subtypes of the appropriate kind, unless the ability says otherwise."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2002
+# 0161057b99404530b8af41fc92848eda
+msgid "Supertype"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2004
+# 54d282bd965b4252bf6324f4db4be8e7
+msgid "All types of cards can have supertypes. Supertypes come before the card type on the type line. For example, a \"Basic Land — Forest\" has the supertype \"basic,\" and a \"Legendary Creature — Human Warrior\" has the supertype \"legendary.\" Supertypes have no specific correlation to card types. Some supertypes have specific rules associated with them."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2010
+# 4e83149ce8434f798036df795ba0cf14
+msgid "Swampwalk"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2013
+# 409b06b2c40544f2b875dadc9c366b08
+msgid "Tap"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2015
+# 0524f4fb6288438fa1a6a65595380b01
+msgid "To turn a card sideways. See :ref:`Tapping<sec-tapping>` [on page 9]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2018
+# c13335c1277c4b138793bfe9fa080c78
+msgid "A word used in spells and abilities. See :ref:`Target<sec-target>` [on page 10]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2019
+# 8df144ab46104258935bc1b11529996d
+msgid "Text box"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2022
+# 835951b5c6704c24975ca93818d64af1
+msgid "Token"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2024
+# d71f8579c1394e858d328e6a3a14d72e
+msgid "Some instants, sorceries, and abilities can create creatures. These creatures are represented by tokens. You can use anything you want as a token, but you should use something that can be tapped."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2028
+# 7dcb7b8816c04c00b4b0565d8cf98f20
+msgid "Tokens are considered creatures in every way, and they're affected by all the rules, spells, and abilities that affect creatures. If one of your token creatures leaves the battlefield, however, it moves to the new zone (such as your graveyard) and then immediately vanishes from the game."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2033
+# d2e3ed33589f44e885e4d885914bb0f2
+msgid "Toughness"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2035
+# 83fab0bc3cb94619910cc5f832781bb6
+msgid "The number to the right of the slash in the box in the lower right corner of creature cards. If a creature is dealt damage equal to or greater than its toughness in a single turn, it's destroyed. If a creature's toughness is reduced to 0 or less, it's put into its owner's graveyard."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2040
+# 2a56d5cab8c5469296bde338f57a008f
+msgid "Trample"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2042
+# 4603d9dedf7c41ad9dc6fb1a1daaf91e
+msgid "A keyword ability seen on creatures. Trample is an ability that lets a creature deal excess damage to the player or planeswalker it's attacking even if it's blocked. When a creature with trample is blocked, you have to deal at least enough of its combat damage to the creatures blocking it to destroy all those creatures. But if each blocking creature is assigned damage at least equal to its toughness, then you can assign any of the attacking creature's damage that's left over to the player or planeswalker it's attacking."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2050
+# 4163c32a82e3420a918b7395f4c885c0
+msgid "Triggered ability"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2052
+# 5185944ab8274e7db668cfd306194a2d
+msgid "One of the three types of abilities a permanent can have. See :ref:`Triggered Abilities<sec-triggered-abilities>` [on page 12]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2054
+# b079aefa32174107ad84d159b9e5a261
+msgid "Turn"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2056
+# ba675d9e74af4db28a991da169b821eb
+msgid "Each turn is divided into phases, and most phases have steps. See :ref:`Parts of the Turn<sec-parts-of-the-turn>` [on page 17]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2059
+# b72b2065d9634fb091722c7b22447d32
+msgid "Parts of the Turn:"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2061
+# 726c27a4d41b44c285e140dbf03b1736
+msgid "Beginning phase"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2071
+# d05811b580b2475e8fdb5ce2bc72d158
+msgid "Beginning of combat step"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2077
+# a6bc9478d6d34756abcad41e62b62a9e
+msgid "Main phase (again)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2079
+# 0a60e8ac08be4d65bbea47046ccac484
+msgid "Ending phase"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2085
+# 3b158502d7674ed897b35e059fccc839
+msgid "See :ref:`Multiplayer Variants<sec-multiplayer-variants>` [on page 20]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2086
+# 7c717a2666b24c8bb43967b6df3be9f0
+msgid "Type line"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2089
+# bc305df7d6e146388ab5e9f2fd7d8602
+msgid "Unblocked"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2091
+# 896c9e84a1104a0c88bf8fb055870e67
+msgid "A creature is unblocked only if it's attacking and the defending player has decided not to block it."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2093
+# 9ec05dbaed21496b9876085697ce944c
+msgid "Untap"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2095
+# df4dbc9a06a54e62a87e399ecab7cf83
+msgid "To turn a tapped card upright so it's ready to be used again. See :ref:`Tapping<sec-tapping>` [on page 9]."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2103
+# 78ffbc38bd2641eda6c0959f2f058f76
+msgid "Vigilance"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2105
+# 63ad260709d44b41bb2d264ee0cb4772
+msgid "A keyword ability seen on creatures. When a creature with vigilance attacks, it doesn't become tapped."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2107
+# bcf779d0c80a42558b9e64a0c1cff672
+msgid "Winning the game"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2109
+# 821673b04eaf4c9090ccb52a57dd5e5f
+msgid "You win the game when any of the following things happens:"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2111
+# 9b25b95d5c144b3f8d552d2742a1aa95
+msgid "Your opponent's life total is reduced to 0 or less."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2112
+# 963640e8ae27478ab62b9708a7ae945f
+msgid "Your opponent has to draw a card from an empty library."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2113
+# 45bf9d8556b14952b115fd0320ca0b0a
+msgid "Your opponent has ten or more poison counters. (No cards in the Magic 2014 core set can give players poison counters.)"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2115
+# a6aa5c93430b4b1eb0f9e089ace974d1
+msgid "A spell or ability says that you win the game or your opponent loses the game."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2117
+# b7bd7fb0ede748cc8812abbc04828501
+msgid "Your opponent concedes."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2119
+# 5063968925c6498dbda63081a85f9c20
+msgid "If both players would lose the game at the same time, the game is draw—nobody wins."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2122
+# 6679d4fcb50a46788713c95234b2d1f3
+msgid "Different multiplayer variants may modify the conditions for winning the game."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2126
+# 80d7a4474ab04ced8bb46771493175cf
+msgid "When you see X in a mana cost or an activation cost, you get to choose the number that X stands for. For example, Volcanic Geyser is an instant spell that costs |mana_x| |mana_r| |mana_r| and deals X damage. When you cast Volcanic Geyser, you choose what number X is. If you pick three, for example, Volcanic Geyser costs |mana_3| |mana_r| |mana_r| and deals 3 damage. If you pick six, Volcanic Geyser costs |mana_6| |mana_r| |mana_r| and deals 6 damage."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2133
+# 7e093b00562848a3bf43afa1a9e1f69e
+msgid "You"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2135
+# d920c0c6027f4931ac340e7230a9f82e
+msgid "The word \"you\" on a spell or ability refers to the current controller of that spell or ability."
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2137
+# f7ea635cc65347a5ad36ce323312a614
+msgid "Zone"
+msgstr ""
+
+#: ../../M14_Rulebook.rst:2139
+# 751c9fdae57640b99901ad1a62b6c14c
+msgid "An area of play in a Magic game. See `Game Zones` [on page 8]."
+msgstr ""
+

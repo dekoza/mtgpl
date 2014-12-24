@@ -92,7 +92,7 @@ Parts of a Card
 
 Mana Cost
 ~~~~~~~~~
-*:term:`Mana<Mana>`* is the main resource in the game. It's produced by lands, and you spend it to cast *spells*.
+:term:`Mana<Mana>` is the main resource in the game. It's produced by lands, and you spend it to cast *spells*.
 The symbols in a card's upper right corner tell you the cost to cast that spell. If the mana cost reads
 |mana_4| |mana_r| |mana_r|, you pay four mana of any kinds plus two red mana (from two Mountains) to cast it.
 
