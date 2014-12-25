@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-21 12:35+0100\n"
-"PO-Revision-Date: 2014-12-21 23:32+0200\n"
+"PO-Revision-Date: 2014-12-25 10:53+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1419201168.559250\n"
+"X-POOTLE-MTIME: 1419501212.484015\n"
 
 # e733fe61a9114dc380426e2009975b39
 #: ../../JOU.rst:5
 msgid "Journey into Nyx"
-msgstr ""
+msgstr "Journey into Nyx (Podróż do Nyx)"
 
 # 9b1c3b4b168e47de8bcaf39d02c21309
 #: ../../JOU.rst:9
@@ -76,6 +76,8 @@ msgstr "Ajani, Mentor of Heroes (Ajani, Mentor Bohaterów)"
 #: ../../JOU.rst:22
 msgid "+1: Distribute three +1/+1 counters among one, two, or three target creatures you control."
 msgstr ""
+"+1: Rozmieść trzy znaczniki +1/+1 pośród jednego, dwa lub trzy wskazane "
+"stwory, którymi władasz."
 
 # 251795975dc545ee8e86314c51c4a45e
 #: ../../JOU.rst:24
@@ -106,6 +108,9 @@ msgstr ""
 #: ../../JOU.rst:32
 msgid "Any number of target creatures each get +1/+1 and gain indestructible until end of turn. (Damage and effects that say \\\"destroy\\\" don't destroy them.)"
 msgstr ""
+"Każdy z dowolnej liczby wskazanych stworów dostaje do końca tury +1/+1 oraz "
+"Niezniszczalność. (Obrażenia oraz efekty, które mówią \\\"zniszcz\\\", nie "
+"niszczą ich.)"
 
 # db1c1eac6e874566911a0a65e14024ba
 #: ../../JOU.rst:37
@@ -116,6 +121,8 @@ msgstr ""
 #: ../../JOU.rst:36
 msgid "Heroic — Whenever you cast a spell that targets Akroan Line Breaker, Akroan Line Breaker gets +2/+0 and gains intimidate until end of turn."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący Akroan Line Breaker, Akroan Line "
+"Breaker dostaje do końca tury +2/+0 oraz Zastraszanie."
 
 # 19dfe9906e004dceacbd7adc1ad5b490
 #: ../../JOU.rst:41
@@ -153,11 +160,15 @@ msgstr "Zaurocz stwora"
 #: ../../JOU.rst:46
 msgid "Enchanted creature has double strike as long as it's an enchantment. Otherwise, prevent all damage that would be dealt by enchanted creature. (A creature with double strike deals both first-strike and regular combat damage.)"
 msgstr ""
+"Zauroczony stwór ma Podwójny Cios dopóki jest urokiem. W przeciwnym razie "
+"zażegnaj wszystkie obrażenia, które mogłyby zostać zadane przez zauroczonego "
+"stwora. (Stwór z Podwójnym Ciosem zadaje obrażenia zarówno jako Pierwszy "
+"Cios oraz normalnie.)"
 
 # af2f0a3318884ff18ed5a59027677586
 #: ../../JOU.rst:53
 msgid "Armory of Iroas"
-msgstr ""
+msgstr "Armory of Iroas (Zbrojownia Iroasa)"
 
 # a3a0ca139ef341c281008b0d7ee12654
 #: ../../JOU.rst:50
@@ -178,7 +189,7 @@ msgstr ""
 #: ../../JOU.rst:58
 #, fuzzy
 msgid "Enchanted creature gets +1/+3 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy it.)"
-msgstr "Zauroczony stwór dostaje +1/+3 i ma dotyk śmierci."
+msgstr "Zauroczony stwór dostaje +1/+3 i ma Dotyk Śmierci."
 
 # 8b58e5c75ef74aa9a4dcfa6206a05129
 #: ../../JOU.rst:67
@@ -202,11 +213,15 @@ msgstr "Niezniszczalność"
 #: ../../JOU.rst:64
 msgid "As long as your devotion to white and black is less than seven, Athreos isn't a creature."
 msgstr ""
+"Dopóki twój kult czarnego i białego jest mniejszy niż siedem, Atheros nie "
+"jest stworem."
 
 # eb5c5f1d27814dfcba994ca9b1734a1b
 #: ../../JOU.rst:66
 msgid "Whenever another creature you own dies, return it to your hand unless target opponent pays 3 life."
 msgstr ""
+"Ilekroć inny stwór, którego jesteś właścicielem umiera, zwróć go do twojej "
+"ręki, chyba że wskazany przeciwnik zapłaci 3 życia."
 
 # 2e94653c13e948c68263cb8bb2e664b5
 #: ../../JOU.rst:71
@@ -254,6 +269,8 @@ msgstr ""
 #: ../../JOU.rst:84
 msgid "When Bearer of the Heavens dies, destroy all permanents at the beginning of the next end step."
 msgstr ""
+"Kiedy Bearer of the Heavens umiera, zniszcz wszystkie permanenty na początku "
+"najbliższego kroku końcowego."
 
 # 1cb5cc614db041309910089ca01fd493
 #: ../../JOU.rst:89
@@ -293,6 +310,8 @@ msgstr ""
 #: ../../JOU.rst:98
 msgid "Heroic — Whenever you cast a spell that targets Bloodcrazed Hoplite, put a +1/+1 counter on it."
 msgstr ""
+"Heroizm — Ilekroć rzucasz czar wskazujący Bloodcrazed Hoplite, połóż na nim "
+"znacznik +1/+1."
 
 # e4504afebd5e44298dbafc75ec626a3e
 #: ../../JOU.rst:100
@@ -419,6 +438,8 @@ msgstr ""
 #: ../../JOU.rst:138
 msgid "Counter target spell. Its controller puts the top four cards of his or her library into his or her graveyard."
 msgstr ""
+"Skontruj wskazany czar. Jego władca wkłada cztery wierzchnie karty swojej "
+"biblioteki do swojego cmentarza."
 
 # 5ae5adc9448a4d3f82891938d2b5a1ac
 #: ../../JOU.rst:145
@@ -467,7 +488,7 @@ msgstr ""
 # b5cefaaf51834337bb0680d3852e7a06
 #: ../../JOU.rst:156
 msgid "Creatures you control have haste."
-msgstr ""
+msgstr "Stwory, którymi władasz mają Pośpiech."
 
 # 97946b85b4ea4343a8b85c9007a745a5
 #: ../../JOU.rst:161
