@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-12-21 12:35+0100\n"
-"PO-Revision-Date: 2014-12-22 06:57+0200\n"
+"PO-Revision-Date: 2014-12-25 21:21+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: logrus\n"
 "Language: pl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1419227876.951097\n"
+"X-POOTLE-MTIME: 1419538900.448648\n"
 
 # 2d302d9fc1d24dd69e37a890bf1494aa
 #: ../../M15.rst:5
@@ -151,11 +151,15 @@ msgstr ""
 #: ../../M15.rst:36
 msgid "+1: Until end of turn, up to one target creature gets +1/+1 and gains first strike, vigilance, and lifelink."
 msgstr ""
+"+1: Do końca tury co najwyżej jeden wskazany stwór dostaje +1/+1, Pierwszy "
+"Cios, Czujność i Więź Życia."
 
 # 4aa990b96d77431da66a5eab046305d1
 #: ../../M15.rst:38
 msgid "−2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control."
 msgstr ""
+"−2: Połóż znacznik +1/+1 na każdym stworze, którym władasz oraz znacznik "
+"lojalności na każdym innym Wędrowcu, którym władasz."
 
 # 5e34d2693d354076b6bfc429dcb749d9
 #: ../../M15.rst:40
@@ -171,6 +175,7 @@ msgstr ""
 #: ../../M15.rst:44
 msgid "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate."
 msgstr ""
+"Ilekroć zyskujesz życie, możesz położyć znacznik +1/+1 na Ajani's Pridemate."
 
 # 7519a0c080de4560a932317fce41e344
 #: ../../M15.rst:49
@@ -236,6 +241,8 @@ msgstr ""
 #: ../../M15.rst:70
 msgid "When equipped creature dies, target opponent gains control of Avarice Amulet."
 msgstr ""
+"Kiedy wyposażony stwór umiera, wskazany przeciwnik zyskuje władanie nad "
+"Avarice Amulet."
 
 # 6684928031394aa99938e8aca4a6e01e
 # 08bedc37c6d34ec5a85bd4ea80231321
@@ -316,7 +323,7 @@ msgstr ""
 #: ../../M15.rst:1088
 #: ../../M15.rst:1398
 msgid "|tap|: Add |mana_1| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_1| do twojej puli many."
 
 # 1fd37cf84fce42589b1b7c8b9fba2173
 #: ../../M15.rst:88
@@ -336,7 +343,7 @@ msgstr ""
 # 8f773f5d18964210ab52681e5eecf3ac
 #: ../../M15.rst:97
 msgid "Black Cat"
-msgstr "Black Cat (Czarny kot)"
+msgstr "Kiedy Czarny Kot umiera, wskazany przeciwniki odrzuca losową kartę."
 
 # 72bb3197a76c45f1995e94c8650aceb4
 #: ../../M15.rst:96
