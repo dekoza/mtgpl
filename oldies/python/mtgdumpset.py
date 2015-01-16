@@ -8,8 +8,9 @@ from django.utils.encoding import smart_str
 #sets = [('Theros', 'THS'),]
 #sets = [('Commander 2013', 'C13'),]
 sets = [
-        ('Magic 2015 Core Set', 'M15'),
-        ('Khans of Tarkir', 'KTK'),
+        #('Magic 2015 Core Set', 'M15'),
+        #('Khans of Tarkir', 'KTK'),
+        ('Fate Reforged', 'FRF'),
         ]
 for s in sets:
 #

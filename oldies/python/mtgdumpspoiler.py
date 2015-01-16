@@ -17,7 +17,10 @@ def manarepl(match):
         return '|mana_%s|' % symbol.lower()
 
 
-sets = [('Journey into Nyx', 'JOU'),]
+sets = [
+        # ('Journey into Nyx', 'JOU'),
+         ('Fate Reforged', 'FRF'),
+        ]
 for s in sets:
 #
     request = SearchRequest({'set': s[0]})
