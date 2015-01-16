@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-01-16 01:27+0100\n"
-"PO-Revision-Date: 2015-01-16 10:39+0200\n"
+"PO-Revision-Date: 2015-01-16 11:43+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1421401179.813110\n"
+"X-POOTLE-MTIME: 1421405030.255273\n"
 
 # 7345517278b443309b0fc8a176170ddf
 #: ../../FRF.rst:5
@@ -27,8 +27,9 @@ msgstr ""
 
 # da92892300654292b0fb31235987f357
 #: ../../FRF.rst:9
+#, fuzzy
 msgid "Abzan Advantage"
-msgstr ""
+msgstr "Abzan Advantage"
 
 # 43169d86a29c446c93782bd340340f0a
 #: ../../FRF.rst:8
@@ -40,8 +41,9 @@ msgstr ""
 
 # 97dc930d4bc145afaa97a477453ddc07
 #: ../../FRF.rst:13
+#, fuzzy
 msgid "Abzan Beastmaster"
-msgstr ""
+msgstr "Abzan Beastmaster"
 
 # 57660b5ecb974ef981bf3452d2c48b3a
 #: ../../FRF.rst:12
@@ -52,8 +54,9 @@ msgstr ""
 
 # 20547b1ab0f54f09aaeee9e8a553ec19
 #: ../../FRF.rst:17
+#, fuzzy
 msgid "Abzan Kin-Guard"
-msgstr ""
+msgstr "Abzan Kin-Guard"
 
 # 5585cf5cc3164e7da3deedbc8f79adde
 #: ../../FRF.rst:16
@@ -63,8 +66,9 @@ msgstr ""
 
 # e9105403868d42d8a33ac01df43fbb11
 #: ../../FRF.rst:25
+#, fuzzy
 msgid "Abzan Runemark"
-msgstr ""
+msgstr "Abzan Runemark"
 
 # 21df4fe792514d9abdc7cc98abe6e1fa
 # 7f14d23b104e4719a69b97ab570a1aa2
@@ -107,8 +111,9 @@ msgstr ""
 
 # bb38198427a14cc0b5e0df190c74a72a
 #: ../../FRF.rst:31
+#, fuzzy
 msgid "Abzan Skycaptain"
-msgstr ""
+msgstr "Abzan Skycaptain"
 
 # 8798452ab16945b3a0e97ce9621c141a
 # 913d0c7f053d4940993d40dceb77cce3
@@ -149,8 +154,9 @@ msgstr ""
 
 # d8f7a339e69d4c3cbdb05c93f95c7711
 #: ../../FRF.rst:39
+#, fuzzy
 msgid "Ainok Guide"
-msgstr ""
+msgstr "Ainok Guide"
 
 # 3390c6233c044b5682ca536cbf2196a8
 #: ../../FRF.rst:34
@@ -186,8 +192,9 @@ msgstr ""
 
 # 7c47cb8fe29c4c70a35837aab0e425b3
 #: ../../FRF.rst:49
+#, fuzzy
 msgid "Alesha's Vanguard"
-msgstr ""
+msgstr "Alesha's Vanguard"
 
 # 2a341a86d1944cc386b704541f10f717
 #: ../../FRF.rst:48
@@ -199,15 +206,16 @@ msgstr ""
 
 # f171a69d39f14bffb2c0736a89bc68a7
 #: ../../FRF.rst:55
+#, fuzzy
 msgid "Ambush Krotiq"
-msgstr ""
+msgstr "Ambush Krotiq"
 
 # cab0e930bf8e42a5875c37dbcd7d6896
 # a8fb8677397e4c93a16bdf462dfddb4d
 #: ../../FRF.rst:52
 #: ../../FRF.rst:1018
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 # 9d3da691965244528272c15e6d7d6d79
 #: ../../FRF.rst:54
@@ -218,8 +226,9 @@ msgstr ""
 
 # 41f83b47723147e5b9dde82d4ec1f969
 #: ../../FRF.rst:63
+#, fuzzy
 msgid "Ancestral Vengeance"
-msgstr ""
+msgstr "Ancestral Vengeance"
 
 # f0784e5250a04b9c856f635e515ec62f
 #: ../../FRF.rst:60
@@ -235,8 +244,9 @@ msgstr "Zauroczony stwór dostaje -1/-1."
 
 # 2da1364fc1714d7daa485286d4468bcd
 #: ../../FRF.rst:67
+#, fuzzy
 msgid "Arashin Cleric"
-msgstr ""
+msgstr "Arashin Cleric"
 
 # d9b3abc9e3934f9b9ffbbcae1b4dc963
 #: ../../FRF.rst:66
@@ -245,8 +255,9 @@ msgstr "Kiedy Arashin Cleric wchodzi na pole walki, zyskujesz 3 życia."
 
 # 6d7674c64c0d4250800a1e2321d3e142
 #: ../../FRF.rst:71
+#, fuzzy
 msgid "Arashin War Beast"
-msgstr ""
+msgstr "Arashin War Beast"
 
 # 51d0a0e4cd764eafa0c6fad92175c2d9
 #: ../../FRF.rst:70
@@ -259,8 +270,9 @@ msgstr ""
 
 # b752b50401464f6d81f0b312bd5e871c
 #: ../../FRF.rst:75
+#, fuzzy
 msgid "Arcbond"
-msgstr ""
+msgstr "Arcbond"
 
 # feacb8f47d824ee7aa9998dcc9b49e2c
 #: ../../FRF.rst:74
@@ -272,15 +284,16 @@ msgstr ""
 
 # 7c4c3544dc544e11912d72fb0362f1f5
 #: ../../FRF.rst:81
+#, fuzzy
 msgid "Archers of Qarsi"
-msgstr ""
+msgstr "Archers of Qarsi"
 
 # 7a877cc38c5f492790e8a65d0e3fbd3a
 # 3a23b46f46a4481f89eae32c4159fdff
 #: ../../FRF.rst:78
 #: ../../FRF.rst:430
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 # cf07030fec7945dd99ac2811598c4450
 #: ../../FRF.rst:80
@@ -301,8 +314,9 @@ msgstr ""
 
 # 690580dc2c754363a3101e741e29b34b
 #: ../../FRF.rst:93
+#, fuzzy
 msgid "Atarka, World Render"
-msgstr ""
+msgstr "Atarka, World Render"
 
 # 65d099b46ef3418ca8a56c3f4d7e0b23
 #: ../../FRF.rst:90
@@ -318,13 +332,15 @@ msgstr ""
 
 # cacfb6ec7a6a449c8635a256eb454864
 #: ../../FRF.rst:97
+#, fuzzy
 msgid "Aven Skirmisher"
-msgstr ""
+msgstr "Aven Skirmisher"
 
 # 11f446960d2140a5b6cb965d3b01a0a9
 #: ../../FRF.rst:107
+#, fuzzy
 msgid "Aven Surveyor"
-msgstr ""
+msgstr "Aven Surveyor"
 
 # 9042d8e50a3d449db768a6b5b04d8263
 #: ../../FRF.rst:102
@@ -343,8 +359,9 @@ msgstr ""
 
 # c754d6451c264cedb6e354b270b7aa72
 #: ../../FRF.rst:111
+#, fuzzy
 msgid "Bathe in Dragonfire"
-msgstr ""
+msgstr "Bathe in Dragonfire"
 
 # 39073fab04fe47a686e03a5d8cb2bc2f
 #: ../../FRF.rst:110
@@ -353,8 +370,9 @@ msgstr ""
 
 # eb9cd83a830f4c839fd872ce61edecb2
 #: ../../FRF.rst:115
+#, fuzzy
 msgid "Battle Brawler"
-msgstr ""
+msgstr "Battle Brawler"
 
 # 29eccba5ab65436aa6ed08f05b8e6eca
 #: ../../FRF.rst:114
@@ -401,8 +419,9 @@ msgstr ""
 
 # 32411eb9f6354a48a2db5d0758c7a21a
 #: ../../FRF.rst:133
+#, fuzzy
 msgid "Bloodfire Enforcers"
-msgstr ""
+msgstr "Bloodfire Enforcers"
 
 # f71c7a0ab36348b1ae25c61c72e4ba28
 #: ../../FRF.rst:132
@@ -411,8 +430,9 @@ msgstr ""
 
 # b1c13444fc9d4d049a8ac59ed3a15559
 #: ../../FRF.rst:141
+#, fuzzy
 msgid "Blossoming Sands"
-msgstr ""
+msgstr "Blossoming Sands"
 
 # a759aa48a5f646d980f71dde46eb8ef5
 #: ../../FRF.rst:136
@@ -431,8 +451,9 @@ msgstr ""
 
 # b927d198b0b84858be6d8d8a2014122d
 #: ../../FRF.rst:145
+#, fuzzy
 msgid "Break Through the Line"
-msgstr ""
+msgstr "Break Through the Line"
 
 # ea4bd5b60a9d4a17af31d5ae1772bced
 #: ../../FRF.rst:144
@@ -441,8 +462,9 @@ msgstr ""
 
 # c40f25bd17a64118a4cde2c3e89bfd5c
 #: ../../FRF.rst:151
+#, fuzzy
 msgid "Brutal Hordechief"
-msgstr ""
+msgstr "Brutal Hordechief"
 
 # f2da462d6cb5484cbe296d41b7a18bf9
 #: ../../FRF.rst:148
@@ -456,8 +478,9 @@ msgstr ""
 
 # f4e3f8f6ff124d86becf888c31992dfd
 #: ../../FRF.rst:155
+#, fuzzy
 msgid "Cached Defenses"
-msgstr ""
+msgstr "Cached Defenses"
 
 # 9f142395cf4d485cb801f641b7762242
 #: ../../FRF.rst:154
@@ -468,8 +491,9 @@ msgstr ""
 
 # 541a67d3acc44020a4554f715b7eaf1c
 #: ../../FRF.rst:159
+#, fuzzy
 msgid "Channel Harm"
-msgstr ""
+msgstr "Channel Harm"
 
 # dd73017b2a0b42ffacf4ebcac9e84bd5
 #: ../../FRF.rst:158
@@ -478,8 +502,9 @@ msgstr ""
 
 # e444c359e5204c0bb265da9a1b85fe3d
 #: ../../FRF.rst:167
+#, fuzzy
 msgid "Citadel Siege"
-msgstr ""
+msgstr "Citadel Siege"
 
 # a145017aa1bd4b7ab4379cc5ce5bc08d
 #: ../../FRF.rst:162
@@ -498,8 +523,9 @@ msgstr ""
 
 # d4fa2caa52e147a2bc1a36f485227699
 #: ../../FRF.rst:173
+#, fuzzy
 msgid "Cloudform"
-msgstr ""
+msgstr "Cloudform"
 
 # 791ce5f8f5bb414686a38458dee8bb15
 #: ../../FRF.rst:170
@@ -514,12 +540,13 @@ msgstr ""
 # 4ccf69ac9c3b4ea3affa64275f1c3314
 #: ../../FRF.rst:172
 msgid "Enchanted creature has flying and hexproof."
-msgstr ""
+msgstr "Zauroczony stwór ma Latanie i Antyklątwę."
 
 # dabee7195cc348d6b53306d87d503164
 #: ../../FRF.rst:179
+#, fuzzy
 msgid "Collateral Damage"
-msgstr ""
+msgstr "Collateral Damage"
 
 # 34b70c41a9df4c8e86b5eb879e5f7240
 #: ../../FRF.rst:176
@@ -533,8 +560,9 @@ msgstr ""
 
 # dfe8ed606aed4ca1a16fdaccafe5ffc7
 #: ../../FRF.rst:187
+#, fuzzy
 msgid "Crucible of the Spirit Dragon"
-msgstr ""
+msgstr "Crucible of the Spirit Dragon"
 
 # 68e08fa3841d42d2a339a5c7d9d710fd
 #: ../../FRF.rst:182
@@ -553,8 +581,9 @@ msgstr ""
 
 # f7fb505f4dd943fc9e82cb9fdd35e83c
 #: ../../FRF.rst:195
+#, fuzzy
 msgid "Crux of Fate"
-msgstr ""
+msgstr "Crux of Fate"
 
 # 351686e2084f4fed965dbf8aab8b7a8b
 # dd6f3c11a960474cb6fc8e25e2e90a89
@@ -567,22 +596,23 @@ msgstr ""
 #: ../../FRF.rst:692
 #: ../../FRF.rst:932
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 # e50e7d118ec84ecc90360dffe8cbc079
 #: ../../FRF.rst:192
 msgid "Destroy all Dragon creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory będące Smokami."
 
 # bac71f3e5920430bbeba6fbd58e52dbb
 #: ../../FRF.rst:194
 msgid "Destroy all non-Dragon creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory nie będące Smokami."
 
 # 2f111abeb53e48f398e4d33f7602b29c
 #: ../../FRF.rst:201
+#, fuzzy
 msgid "Cunning Strike"
-msgstr ""
+msgstr "Cunning Strike"
 
 # 577399f19fcb4ddd9168d66c4e16db66
 #: ../../FRF.rst:198
@@ -600,15 +630,16 @@ msgstr ""
 
 # f4dd56ca58e84f1e9bd101dbb0789737
 #: ../../FRF.rst:209
+#, fuzzy
 msgid "Daghatar the Adamant"
-msgstr ""
+msgstr "Daghatar the Adamant"
 
 # 17c7ce59fc6b42dfa62a686bf7948c69
 # d0226fc3986a4bc1be91a9f394801468
 #: ../../FRF.rst:204
 #: ../../FRF.rst:246
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 # fd33c674499543908768b4225d616562
 #: ../../FRF.rst:206
@@ -622,8 +653,9 @@ msgstr ""
 
 # 6269f11277cd41afbcb2daf2ef9df291
 #: ../../FRF.rst:213
+#, fuzzy
 msgid "Dark Deal"
-msgstr ""
+msgstr "Dark Deal"
 
 # df83c8195f4c419bb66c1c48146ff56f
 #: ../../FRF.rst:212
@@ -632,8 +664,9 @@ msgstr ""
 
 # d4088123f2d04b2a9ca5063b1f135516
 #: ../../FRF.rst:221
+#, fuzzy
 msgid "Defiant Ogre"
-msgstr ""
+msgstr "Defiant Ogre"
 
 # ddb2e717307b40589f431c1034f8debc
 #: ../../FRF.rst:216
@@ -672,8 +705,9 @@ msgstr ""
 
 # 6a1214c112f74c45a7d2180ecbf4e96d
 #: ../../FRF.rst:239
+#, fuzzy
 msgid "Dismal Backwater"
-msgstr ""
+msgstr "Dismal Backwater"
 
 # f121f42d4c204cd9a5997b382073e958
 #: ../../FRF.rst:234
@@ -692,8 +726,9 @@ msgstr ""
 
 # 38f8e3d66c114c5a874b86230c6fcff6
 #: ../../FRF.rst:243
+#, fuzzy
 msgid "Douse in Gloom"
-msgstr ""
+msgstr "Douse in Gloom"
 
 # 7c5f99ed56b845fda54b8f8399b2d35c
 #: ../../FRF.rst:242
@@ -738,8 +773,9 @@ msgstr ""
 
 # 152a8c939f034832b53dde20845bcc7a
 #: ../../FRF.rst:257
+#, fuzzy
 msgid "Dragonscale General"
-msgstr ""
+msgstr "Dragonscale General"
 
 # c28ebd7c13484d728030f512e7351e0e
 #: ../../FRF.rst:256
@@ -752,8 +788,9 @@ msgstr ""
 
 # 2cb3a349e6784806adab76ad7e64ff6f
 #: ../../FRF.rst:263
+#, fuzzy
 msgid "Dromoka, the Eternal"
-msgstr ""
+msgstr "Dromoka, the Eternal"
 
 # ad9f978bbc95464195cce57019ad4cee
 #: ../../FRF.rst:262
@@ -765,8 +802,9 @@ msgstr ""
 
 # dfaed490c224404d9c9c66c0ff458d30
 #: ../../FRF.rst:269
+#, fuzzy
 msgid "Elite Scaleguard"
-msgstr ""
+msgstr "Elite Scaleguard"
 
 # b88359346b964d378bd2de0d77de29e4
 #: ../../FRF.rst:266
