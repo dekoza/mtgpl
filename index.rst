@@ -23,8 +23,8 @@ Tłumaczenie dodatków
 Standard
 --------
 
-* :doc:`Fate Reforged<FRF>` (0%)
-* :doc:`Khans of Tarkir<KTK>` (34%)
+* :doc:`Fate Reforged<FRF>` (75%)
+* :doc:`Khans of Tarkir<KTK>` (52%)
 * :doc:`Magic 2015 Core Set<M15>` (7%)
 * :doc:`Journey into Nyx<JOU>` (38%)
 * :doc:`Born of the Gods<BNG>` (100%)
