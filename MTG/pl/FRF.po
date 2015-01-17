@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-01-16 01:27+0100\n"
-"PO-Revision-Date: 2015-01-17 08:15+0200\n"
+"PO-Revision-Date: 2015-01-17 09:28+0200\n"
 "Last-Translator: Dominik <dominik@kozaczko.info>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1421478915.987861\n"
+"X-POOTLE-MTIME: 1421483309.161061\n"
 
 # 7345517278b443309b0fc8a176170ddf
 #: ../../FRF.rst:5
@@ -1360,7 +1360,7 @@ msgstr "Jeskai Barricade"
 # 053629695d6a45a68d9cf3eeb8c397aa
 #: ../../FRF.rst:428
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar w momencie, gdy możesz rzucić sztuczkę.)"
 
 # a98815eeeb764e1287e4564fe538b799
 #: ../../FRF.rst:432
@@ -1960,23 +1960,28 @@ msgstr ""
 
 # 77d7812ecec84037afb687bb5c5c25d4
 #: ../../FRF.rst:651
+#, fuzzy
 msgid "Rally the Ancestors"
-msgstr ""
+msgstr "Rally the Ancestors"
 
 # 369f4b738b6943a4a515682cf3332059
 #: ../../FRF.rst:650
 msgid "Return each creature card with converted mana cost X or less from your graveyard to the battlefield. Exile those creatures at the beginning of your next upkeep. Exile Rally the Ancestors."
 msgstr ""
+"Zwróć każdą kartę stwora o łącznym koszcie many X lub mniejszym z twojego "
+"cmentarza na pole walki. Wypędź owe stwory z poczatkiem twojego najbliższego "
+"utrzymania. Wypędź Rally the Ancestors."
 
 # 7f94012206ce460297ab214ef4cdf12c
 #: ../../FRF.rst:655
+#, fuzzy
 msgid "Reach of Shadows"
-msgstr ""
+msgstr "Reach of Shadows"
 
 # ecacb173f8aa450a9adb8a5b18a6ad03
 #: ../../FRF.rst:654
 msgid "Destroy target creature that's one or more colors."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora mającego jeden lub więcej kolorów."
 
 # c4a1048e578f421e9a98649d5e1450d0
 #: ../../FRF.rst:659
@@ -2014,11 +2019,16 @@ msgstr "Renowned Weaponsmith"
 #: ../../FRF.rst:668
 msgid "|tap|: Add |mana_2| to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts."
 msgstr ""
+"|tap|: Dodaj |mana_2| do twojej puli many. Użyj tej many tylko do rzucania "
+"czarów artefaktów lub aktywowania zdolności artefaktów."
 
 # d9ef164095934573b05dfd448687c712
 #: ../../FRF.rst:670
 msgid "|mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"|mana_u|, |tap|: Poszukaj w twojej bibliotece karty o nazwie Heart-Piercer "
+"Bow lub Vial of Dragonfire, ujawnij je i włóż je do twojej ręki, a następnie "
+"przetasuj twoją bibliotekę."
 
 # da08e42a5dcc48fb96526f8b786a4427
 #: ../../FRF.rst:675
@@ -2041,6 +2051,8 @@ msgstr "Rite of Undoing"
 #: ../../FRF.rst:680
 msgid "Return target nonland permanent you control and target nonland permanent you don't control to their owners' hands."
 msgstr ""
+"Zwróć wskazany nielądowy permanent, którym władasz oraz wskazany nielądowy "
+"permanent którym nie władasz do rąk ich właścicieli."
 
 # 5ce8c636d48144abab12a6d96b1912d8
 #: ../../FRF.rst:689
@@ -2051,12 +2063,12 @@ msgstr "Rugged Highlands"
 # 588a23b51cca469fbe766ac552134795
 #: ../../FRF.rst:684
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr ""
+msgstr "Rugged Highlands wchodzi na pole walki zaznaczony."
 
 # d9b82f48e7584558867a6e8381afde32
 #: ../../FRF.rst:686
 msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy Rugged Highlands wchodzi na pole walki, zyskujesz 1 życie."
 
 # f079dfdf9aad4305a2137b7f25636a16
 #: ../../FRF.rst:688
@@ -2197,11 +2209,15 @@ msgstr "Scroll of the Masters"
 #: ../../FRF.rst:740
 msgid "Whenever you cast a noncreature spell, put a lore counter on Scroll of the Masters."
 msgstr ""
+"Ilekroć rzucasz czar nie będący stworem, połóż znacznik wiedzy na Scroll of "
+"the Masters."
 
 # feb8825eae224161a371b32c4b58fe66
 #: ../../FRF.rst:742
 msgid "|mana_3|, |tap|: Target creature you control gets +1/+1 until end of turn for each lore counter on Scroll of the Masters."
 msgstr ""
+"|mana_3|, |tap|: Wskazany stwór, którym władasz dostaje do końca tury +1/+1 "
+"za każdy znacznik wiedzy na Scroll of the Masters."
 
 # f49f35b5599645c28cdf6f40c00e06d3
 #: ../../FRF.rst:751
@@ -2218,6 +2234,8 @@ msgstr "Pośpiech"
 #: ../../FRF.rst:748
 msgid "Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on it."
 msgstr ""
+"Ilekroć stwór, którym władasz zadaje graczowi obrażenia bojowe, połóż na nim "
+"znacznik +1/+1."
 
 # b71877a98e9a49c097b44f78fe6822c5
 #: ../../FRF.rst:750
@@ -2246,13 +2264,16 @@ msgstr ""
 
 # 8f6d149dabd74108aa7a8af8830c3d02
 #: ../../FRF.rst:761
+#, fuzzy
 msgid "Shifting Loyalties"
-msgstr ""
+msgstr "Shifting Loyalties"
 
 # d6b0a1807c7e409bad508db1bc7b1b88
 #: ../../FRF.rst:760
 msgid "Exchange control of two target permanents that share a card type. (Artifact, creature, enchantment, land, and planeswalker are card types.)"
 msgstr ""
+"Zamień władanie nad dwoma wskazanymi permanentami dzielącymi typ karty. "
+"(Typy karty to: artefakt, stwór, urok, ląd i wędrowiec.)"
 
 # 224363d732824c35a62ef1fe1b5cb0b1
 #: ../../FRF.rst:767
@@ -2264,6 +2285,8 @@ msgstr "Shockmaw Dragon"
 #: ../../FRF.rst:766
 msgid "Whenever Shockmaw Dragon deals combat damage to a player, it deals 1 damage to each creature that player controls."
 msgstr ""
+"Ilekroć Shockmaw Dragon zadaje graczowi obrażenia bojowe, zadaje 1 obrażenie "
+"każdemu stworowi władanemu przez tego gracza."
 
 # e181d64c76d6447593e5712318b7afdc
 #: ../../FRF.rst:773
@@ -2275,6 +2298,8 @@ msgstr "Shu Yun, the Silent Tempest"
 #: ../../FRF.rst:772
 msgid "Whenever you cast a noncreature spell, you may pay |mana_rw| |mana_rw|. If you do, target creature gains double strike until end of turn."
 msgstr ""
+"Ilekroć rzucasz czar nie będący stworem możesz zapłacić |mana_rw| |mana_rw|. "
+"Jeśli tak zrobisz, wskazany stwór zyskuje do końca tury Podwójny Cios."
 
 # 00cb7e0b4cf54587a576f83420aa73ad
 #: ../../FRF.rst:777
@@ -2405,8 +2430,11 @@ msgstr "Sultai Runemark"
 
 # 20379bc6a2de4227b4fb3888bc8c55ae
 #: ../../FRF.rst:826
+#, fuzzy
 msgid "Enchanted creature has deathtouch as long as you control a green or blue permanent. (Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
+"Zauroczony stwór ma Dotyk Śmierci dopóki władasz zielonym lub niebieskim "
+"permanentem."
 
 # dd1a19723f374d5b9ec135bea9ddd919
 #: ../../FRF.rst:831
