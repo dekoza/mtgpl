@@ -1,0 +1,2198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-16 01:27+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../NPH.rst:5
+# 9b9e5cef94ed4d0b88fd9e39da1e7589
+msgid "New Phyrexia"
+msgstr ""
+
+#: ../../NPH.rst:11
+# 92f4c8c26a6e4d60bd682d8883965fd6
+msgid "Act of Aggression"
+msgstr ""
+
+#: ../../NPH.rst:8
+#: ../../NPH.rst:342
+#: ../../NPH.rst:486
+#: ../../NPH.rst:660
+#: ../../NPH.rst:688
+#: ../../NPH.rst:766
+# fdf3b3d0b846410e93e42f61917aa806
+# c6c7333aa3ec48378bbe5267457d521d
+# 8758b881d7684961b762ce6483dfba30
+# ca16e1bee82a4837a0595143f60da97d
+# b2bcd72af86746f881f7e30c49cdbb19
+# 1704385e083b47629d869358261ede3b
+msgid "(|mana_rp| can be paid with either |mana_r| or 2 life.)"
+msgstr ""
+
+#: ../../NPH.rst:10
+# 17cfd8452965436b86253e9dbfd14e6b
+msgid "Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn."
+msgstr ""
+
+#: ../../NPH.rst:15
+# 79297ecb6cb54e8e829d85d40480fe69
+msgid "Alloy Myr"
+msgstr ""
+
+#: ../../NPH.rst:14
+# 94fab22fb2724094adfd226bd0f61fb8
+msgid "|tap|: Add one mana of any color to your mana pool."
+msgstr ""
+
+#: ../../NPH.rst:21
+# 456a88aac166487cba50fb29f7cb5413
+msgid "Apostle's Blessing"
+msgstr ""
+
+#: ../../NPH.rst:18
+#: ../../NPH.rst:108
+#: ../../NPH.rst:446
+#: ../../NPH.rst:530
+#: ../../NPH.rst:622
+# 0b418a7da32b4ceea1ea3ce8df2f29b5
+# 863ecca57e0c4754a543db5e3b7a9f90
+# 9fd65a33fdda48af80509925f52d8e22
+# fee8eef7a4034ef4a559c3fddcf3fe21
+# 6fff8c3f2a944b39b13fd1958b7c7ef3
+msgid "(|mana_wp| can be paid with either |mana_w| or 2 life.)"
+msgstr ""
+
+#: ../../NPH.rst:20
+# 02d678a8dc884950895a2f4f86e8d6a6
+msgid "Target artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn."
+msgstr ""
+
+#: ../../NPH.rst:27
+# 6106b7f7721c42b392650cc210a1111c
+msgid "Argent Mutation"
+msgstr ""
+
+#: ../../NPH.rst:24
+# 292f69cec74a4aae901b66e39c21385f
+msgid "Target permanent becomes an artifact in addition to its other types until end of turn."
+msgstr ""
+
+#: ../../NPH.rst:26
+#: ../../NPH.rst:220
+#: ../../NPH.rst:306
+# d63d8a14fc0146a0ae613d4c5f13ecfd
+# a5b9917dbe2644a985977777afa0e0a3
+# d2b41586d9524be68a780108911a60e9
+msgid "Draw a card."
+msgstr ""
+
+#: ../../NPH.rst:31
+# 961f27ecd2b8496c8bba139f4cf8d8e5
+msgid "Arm with Æther"
+msgstr ""
+
+#: ../../NPH.rst:30
+# 666f11288d704b0daa8a201b1a04ee7e
+msgid "Until end of turn, creatures you control gain \\\"Whenever this creature deals damage to an opponent, you may return target creature that player controls to its owner's hand.\\\""
+msgstr ""
+
+#: ../../NPH.rst:37
+# 978715011065431aaa0dd2edd2b5ef03
+msgid "Artillerize"
+msgstr ""
+
+#: ../../NPH.rst:34
+# 6c0dc868bbfc41eb9840561e561a3706
+msgid "As an additional cost to cast Artillerize, sacrifice an artifact or creature."
+msgstr ""
+
+#: ../../NPH.rst:36
+# 3947715f5e984bb4836466a88f07aad3
+msgid "Artillerize deals 5 damage to target creature or player."
+msgstr ""
+
+#: ../../NPH.rst:41
+# f369869841b547fb97450eb2b7d27d42
+msgid "Auriok Survivors"
+msgstr ""
+
+#: ../../NPH.rst:40
+# c7819f5d559d46169ee376b1e9e226ad
+msgid "When Auriok Survivors enters the battlefield, you may return target Equipment card from your graveyard to the battlefield. If you do, you may attach it to Auriok Survivors."
+msgstr ""
+
+#: ../../NPH.rst:51
+# 67b831e50b474400a70091da68b56dfe
+msgid "Batterskull"
+msgstr ""
+
+#: ../../NPH.rst:44
+#: ../../NPH.rst:422
+#: ../../NPH.rst:522
+#: ../../NPH.rst:754
+# 2cd79244b5be45cf9f2078365752f659
+# 1e5330e376cc40b3bd4ae8fa8c60e131
+# 569616b711d74b5a9885011a37f45c1f
+# fd7d345cb425419ab9ecb68cf40db69a
+msgid "Living weapon (When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)"
+msgstr ""
+
+#: ../../NPH.rst:46
+# c5e98bd7df214c759df3704d5f3f9d9a
+msgid "Equipped creature gets +4/+4 and has vigilance and lifelink."
+msgstr ""
+
+#: ../../NPH.rst:48
+# fa29de747c6f4413922f36faa2162f81
+msgid "|mana_3|: Return Batterskull to its owner's hand."
+msgstr ""
+
+#: ../../NPH.rst:50
+# 8ea12d69474f4a859471cee9f0c51d6a
+msgid "Equip |mana_5|"
+msgstr ""
+
+#: ../../NPH.rst:55
+# 98c503eb736749b0a73490ec269391d1
+msgid "Beast Within"
+msgstr ""
+
+#: ../../NPH.rst:54
+# e74f2d4e94924add9fbbf004fcc8ed90
+msgid "Destroy target permanent. Its controller puts a 3/3 green Beast creature token onto the battlefield."
+msgstr ""
+
+#: ../../NPH.rst:61
+# 46033d3d3d0e4fbc95a5a28cdccdd111
+msgid "Birthing Pod"
+msgstr ""
+
+#: ../../NPH.rst:58
+#: ../../NPH.rst:162
+#: ../../NPH.rst:504
+#: ../../NPH.rst:536
+#: ../../NPH.rst:834
+# a8cc8c671e564b8b8bc8c39c48e68ba5
+# 346543506b8d45e0b50f26a8acbf3ef8
+# 49a335ad22e5460a8b554aaa93848493
+# 8c9b9bb5ffc1491189fa3a1fc41a504e
+# 683033e5420041f987a8aab2405190d2
+msgid "(|mana_gp| can be paid with either |mana_g| or 2 life.)"
+msgstr ""
+
+#: ../../NPH.rst:60
+# 612032d5f96e4060999a95a51c27f528
+msgid "|mana_1| |mana_gp|, |tap|, Sacrifice a creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../NPH.rst:67
+# 9aa15b911dc747f58fed841a34be1141
+msgid "Blade Splicer"
+msgstr ""
+
+#: ../../NPH.rst:64
+# 877d0322996941429d8231d66985105a
+msgid "When Blade Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield."
+msgstr ""
+
+#: ../../NPH.rst:66
+# 142b80c661624ba9ae1926750eaae9fb
+msgid "Golem creatures you control have first strike."
+msgstr ""
+
+#: ../../NPH.rst:73
+# 177e7527ad7e45ebb6a6d4a147724735
+msgid "Blighted Agent"
+msgstr ""
+
+#: ../../NPH.rst:70
+#: ../../NPH.rst:116
+#: ../../NPH.rst:264
+#: ../../NPH.rst:314
+#: ../../NPH.rst:438
+#: ../../NPH.rst:550
+#: ../../NPH.rst:594
+#: ../../NPH.rst:668
+#: ../../NPH.rst:672
+#: ../../NPH.rst:720
+#: ../../NPH.rst:780
+#: ../../NPH.rst:850
+#: ../../NPH.rst:892
+#: ../../NPH.rst:940
+# dd86961142184a83b404622620d5f35e
+# bacebd7a03644fa581a124af98f9431a
+# 6e3d689e392145e48b5b5dd9e0a29657
+# d5cccf73a10f4f8996fe537837a347be
+# 66671352ce104814bb075748f9faa249
+# 841e3937e6f44b87bc6beb1faa984105
+# 40dd034d346c49208580a546c228fef4
+# 4ad3edac64964de78309cec76f006416
+# 9cc145dff96e4c2491aaf7699d23dcff
+# 9ac3cd5bc9fa4b04a027434d5323db87
+# 9396eaf7c1da43c1907fb97f1ff1bf7b
+# 3dc9d32df9994e9d9b0b8ab6d82f2529
+# 99ad9970dabe4854bfea7dca93fc62fe
+# cf12543754a141b79ffb6f3fca2e8063
+msgid "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)"
+msgstr ""
+
+#: ../../NPH.rst:72
+# 5a0cbf650b2d448ba94ddda280c097a5
+msgid "Blighted Agent can't be blocked."
+msgstr ""
+
+#: ../../NPH.rst:79
+# 04d7758ca47047c6af36692512e2e280
+msgid "Blind Zealot"
+msgstr ""
+
+#: ../../NPH.rst:76
+# b528bd87dcee482eb4bf55d4fa5e4831
+msgid "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../NPH.rst:78
+# eee6fb95335d42bc81ad7c1ac5efd184
+msgid "Whenever Blind Zealot deals combat damage to a player, you may sacrifice it. If you do, destroy target creature that player controls."
+msgstr ""
+
+#: ../../NPH.rst:83
+# e1a2c7fa842b42fa87146dd91075ec41
+msgid "Blinding Souleater"
+msgstr ""
+
+#: ../../NPH.rst:82
+# 977e0d5a84ae46e79736203390c8d42f
+msgid "|mana_wp|, |tap|: Tap target creature. (|mana_wp| can be paid with either |mana_w| or 2 life.)"
+msgstr ""
+
+#: ../../NPH.rst:87
+# 10814330623f4861aa26bc22677df6a4
+msgid "Bludgeon Brawl"
+msgstr ""
+
+#: ../../NPH.rst:86
+# 9f41b680de5b40a2afb6ace31047eea6
+msgid "Each noncreature, non-Equipment artifact is an Equipment with equip |mana_x| and \\\"Equipped creature gets +X/+0,\\\" where X is that artifact's converted mana cost."
+msgstr ""
+
+#: ../../NPH.rst:93
+# 4f8a2ed7c007431198b815e41a8f56db
+msgid "Brutalizer Exarch"
+msgstr ""
+
+#: ../../NPH.rst:90
+# 2a50878c77a94db4b436d92e7ed4e372
+msgid "When Brutalizer Exarch enters the battlefield, choose one — Search your library for a creature card, reveal it, then shuffle your library and put that card on top of it"
+msgstr ""
+
+#: ../../NPH.rst:92
+# c68aa1f8da494e3bbe86912be7798f98
+msgid "or put target noncreature permanent on the bottom of its owner's library."
+msgstr ""
+
+#: ../../NPH.rst:101
+# 0d60cce212b04dc59006e76b1b1b4d21
+msgid "Caged Sun"
+msgstr ""
+
+#: ../../NPH.rst:96
+# f91c03d321e0455eac6fdfe26fbedcaf
+msgid "As Caged Sun enters the battlefield, choose a color."
+msgstr ""
+
+#: ../../NPH.rst:98
+# 2b4ab4ecdeb945c6a6e9928859f66d76
+msgid "Creatures you control of the chosen color get +1/+1."
+msgstr ""
+
+#: ../../NPH.rst:100
+# fe830fdbfa144ad295c56010e12c86e9
+msgid "Whenever a land's ability adds one or more mana of the chosen color to your mana pool, add one additional mana of that color to your mana pool."
+msgstr ""
+
+#: ../../NPH.rst:105
+# 9c8a5e598a004b72aecbfa2c87b7aff4
+msgid "Caress of Phyrexia"
+msgstr ""
+
+#: ../../NPH.rst:104
+# 7fd2cea8ada74640a1c80062c1fe1cc6
+msgid "Target player draws three cards, loses 3 life, and gets three poison counters."
+msgstr ""
+
+#: ../../NPH.rst:113
+# 8c30f3c0617547a9a94039402d57d42a
+msgid "Cathedral Membrane"
+msgstr ""
+
+#: ../../NPH.rst:110
+# 178e8a6ee0694757a62d8f88bcdfde61
+msgid "Defender"
+msgstr ""
+
+#: ../../NPH.rst:112
+# 91507bc46985416daf2924553ccd8934
+msgid "When Cathedral Membrane dies during combat, it deals 6 damage to each creature it blocked this combat."
+msgstr ""
+
+#: ../../NPH.rst:119
+# 19c2a6f7c74b4c0284e72e2cd80dc962
+msgid "Chained Throatseeker"
+msgstr ""
+
+#: ../../NPH.rst:118
+# 7480bf357f324893b90e2addafd7efd6
+msgid "Chained Throatseeker can't attack unless defending player is poisoned."
+msgstr ""
+
+#: ../../NPH.rst:127
+# a833ed7f53f64579beb4febc2f1e8814
+msgid "Chancellor of the Annex"
+msgstr ""
+
+#: ../../NPH.rst:122
+# 214725c7416b4930a93703b762245c0d
+msgid "You may reveal this card from your opening hand. If you do, when each opponent casts his or her first spell of the game, counter that spell unless that player pays |mana_1|."
+msgstr ""
+
+#: ../../NPH.rst:124
+#: ../../NPH.rst:144
+#: ../../NPH.rst:196
+#: ../../NPH.rst:366
+#: ../../NPH.rst:488
+#: ../../NPH.rst:704
+#: ../../NPH.rst:718
+#: ../../NPH.rst:788
+#: ../../NPH.rst:794
+#: ../../NPH.rst:880
+#: ../../NPH.rst:890
+#: ../../NPH.rst:938
+# 904410cfaafc443c97084cdc3e70091d
+# 0c646e5936b046f694cd50efcccf2203
+# bac6492da3224c85a8309b03ec8cdee5
+# 38945acd048c4672a778359de17fa241
+# 540df3ff2a0c41608b5e9944c87c8538
+# 85e8fb601dc146ccb1e5c0d45cf1b0df
+# fe52a7002b6e4ac894b5566dc6bdbb20
+# 4495e3737ece4454ba17dc454cb79ad9
+# db0c09e8837f459a9bec3ac53d6c1249
+# fc4439ba8f584a1584a9751caeb38c9d
+# 37c6780166b84d89853fa4d078beeff8
+# cfa580a95edc4cebba734cfe896e54e3
+msgid "Flying"
+msgstr ""
+
+#: ../../NPH.rst:126
+# 0b93a4d954804e5f8dd61934c4eefc22
+msgid "Whenever an opponent casts a spell, counter it unless that player pays |mana_1|."
+msgstr ""
+
+#: ../../NPH.rst:133
+# 61921a63551040598a3bcccf6978a4c2
+msgid "Chancellor of the Dross"
+msgstr ""
+
+#: ../../NPH.rst:130
+# fc7ad76ba4304b3a98d139d724426ef5
+msgid "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent loses 3 life, then you gain life equal to the life lost this way."
+msgstr ""
+
+#: ../../NPH.rst:132
+# 53abb5b4484f41cb90aa8b47b64be458
+msgid "Flying, lifelink"
+msgstr ""
+
+#: ../../NPH.rst:139
+# 5058b3af7ec34048b354d9e34f0f33c4
+msgid "Chancellor of the Forge"
+msgstr ""
+
+#: ../../NPH.rst:136
+# a407ecc65f92400fb43999962e9ba219
+msgid "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, put a 1/1 red Goblin creature token with haste onto the battlefield."
+msgstr ""
+
+#: ../../NPH.rst:138
+# 7b106d2f995749488756d9cc784801fc
+msgid "When Chancellor of the Forge enters the battlefield, put X 1/1 red Goblin creature tokens with haste onto the battlefield, where X is the number of creatures you control."
+msgstr ""
+
+#: ../../NPH.rst:147
+# 315eb9c06d504f09b7d82dfceb1733d3
+msgid "Chancellor of the Spires"
+msgstr ""
+
+#: ../../NPH.rst:142
+# 503371d060bf46f497ceb652389bec20
+msgid "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent puts the top seven cards of his or her library into his or her graveyard."
+msgstr ""
+
+#: ../../NPH.rst:146
+# af3b92e988f7481780e9b590b81769a1
+msgid "When Chancellor of the Spires enters the battlefield, you may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost."
+msgstr ""
+
+#: ../../NPH.rst:153
+# edacbcd8788e46c0beb0ec1f64127f7b
+msgid "Chancellor of the Tangle"
+msgstr ""
+
+#: ../../NPH.rst:150
+# b6bda5934f04448f8842e436e550c51c
+msgid "You may reveal this card from your opening hand. If you do, at the beginning of your first main phase, add |mana_g| to your mana pool."
+msgstr ""
+
+#: ../../NPH.rst:152
+# 93129b31a3374603a8ff39642941f019
+msgid "Vigilance, reach"
+msgstr ""
+
+#: ../../NPH.rst:159
+# bac7165077da4267845050be6206a0e0
+msgid "Conversion Chamber"
+msgstr ""
+
+#: ../../NPH.rst:156
+# 40a3d5959c834ef7abf82d115a6d13b1
+msgid "|mana_2|, |tap|: Exile target artifact card from a graveyard. Put a charge counter on Conversion Chamber."
+msgstr ""
+
+#: ../../NPH.rst:158
+# 2cb341b25fb44fa9a9fe397813c6d045
+msgid "|mana_2|, |tap|, Remove a charge counter from Conversion Chamber: Put a 3/3 colorless Golem artifact creature token onto the battlefield."
+msgstr ""
+
+#: ../../NPH.rst:165
+# 7275e6c71c464d8f90c2902ceb2be766
+msgid "Corrosive Gale"
+msgstr ""
+
+#: ../../NPH.rst:164
+# f89339db4a9f471e933fe5e71ae4e117
+msgid "Corrosive Gale deals X damage to each creature with flying."
+msgstr ""
+
+#: ../../NPH.rst:169
+# 7fe8d9f539d24b85bbd39fccacb7e728
+msgid "Corrupted Resolve"
+msgstr ""
+
+#: ../../NPH.rst:168
+# cd6381d63ecb4796a881b81910f53810
+msgid "Counter target spell if its controller is poisoned."
+msgstr ""
+
+#: ../../NPH.rst:173
+# 104d5db2aaa549f9940867d08a2fdd59
+msgid "Darksteel Relic"
+msgstr ""
+
+#: ../../NPH.rst:172
+# 5567f014153e474a84c9f19f4975f7da
+msgid "Indestructible (Effects that say \\\"destroy\\\" don't destroy this artifact.)"
+msgstr ""
+
+#: ../../NPH.rst:179
+# 7046d703c1b6446d910758b0b6732d3f
+msgid "Death-Hood Cobra"
+msgstr ""
+
+#: ../../NPH.rst:176
+# a8ccf7ee41274aca8692b01be4a392df
+msgid "|mana_1| |mana_g|: Death-Hood Cobra gains reach until end of turn. (It can block creatures with flying.)"
+msgstr ""
+
+#: ../../NPH.rst:178
+# 3dc6f9c6f5f647b4956559a723970abc
+msgid "|mana_1| |mana_g|: Death-Hood Cobra gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
+msgstr ""
+
+#: ../../NPH.rst:187
+# 4cfe544bbb5a4b7797937146a38cd2fd
+msgid "Deceiver Exarch"
+msgstr ""
+
+#: ../../NPH.rst:182
+#: ../../NPH.rst:792
+# c9810ae3f2af45768e2f3e81d7d6c1b0
+# 45489be48d96444b94974c998932b6db
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
+#: ../../NPH.rst:184
+# c6edd22fdf0943f4b772b15b34e98c9b
+msgid "When Deceiver Exarch enters the battlefield, choose one — Untap target permanent you control"
+msgstr ""
+
+#: ../../NPH.rst:186
+# 7790f80c49df471889e0d78c59ac66a3
+msgid "or tap target permanent an opponent controls."
+msgstr ""
+
+#: ../../NPH.rst:193
+# 63900b4010de4e23bfbd0b8bb6cda261
+msgid "Defensive Stance"
+msgstr ""
+
+#: ../../NPH.rst:190
+#: ../../NPH.rst:232
+#: ../../NPH.rst:274
+#: ../../NPH.rst:318
+#: ../../NPH.rst:562
+# 20603f369cfa4cb588f66288ad5de6cc
+# a2902896156840e4934b61389522d2cf
+# 236ffb1624d14388854b5b2ccdd051ae
+# 0a479bd8f55a4bfba54e01fc536259b0
+# cf6bcc640ac44dd39d6b327bbfa30ae3
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../NPH.rst:192
+# 3e9c0ae982c84e359933950c06806dcd
+msgid "Enchanted creature gets -1/+1."
+msgstr ""
+
+#: ../../NPH.rst:199
+# 217089610cb54bccba0fb600e1a05df9
+msgid "Dementia Bat"
+msgstr ""
+
+#: ../../NPH.rst:198
+# db5bde8d65cb4656ad745790fa5e6dcb
+msgid "|mana_4| |mana_b|, Sacrifice Dementia Bat: Target player discards two cards."
+msgstr ""
+
+#: ../../NPH.rst:203
+# fb23daacbc724cd7aaff5de547a1b70e
+msgid "Despise"
+msgstr ""
+
+#: ../../NPH.rst:202
+# 1762c0689d8048a48365f41f907ae191
+msgid "Target opponent reveals his or her hand. You choose a creature or planeswalker card from it. That player discards that card."
+msgstr ""
+
+#: ../../NPH.rst:209
+# 1d3e51d2e25642fbaa94f644aacd4aa4
+msgid "Dismember"
+msgstr ""
+
+#: ../../NPH.rst:206
+#: ../../NPH.rst:612
+#: ../../NPH.rst:628
+#: ../../NPH.rst:804
+#: ../../NPH.rst:878
+# 102a7356102d4334a148975ec6fda9ca
+# 0ae90879e89446318a567928ee949dc6
+# eb721c0d84534cf5adcdda1f14c36eaf
+# dbfbc32eeb844bef8b978c0c63dcfccd
+# 63c5aa32306e4a85be23681d48edba8d
+msgid "(|mana_bp| can be paid with either |mana_b| or 2 life.)"
+msgstr ""
+
+#: ../../NPH.rst:208
+# 138b742815f5451f84ff69b7bebe61fc
+msgid "Target creature gets -5/-5 until end of turn."
+msgstr ""
+
+#: ../../NPH.rst:215
+# 3e63211335c440eca972f0b499b095be
+msgid "Dispatch"
+msgstr ""
+
+#: ../../NPH.rst:212
+# f820d500ceee4046b8c2be48a0533023
+msgid "Tap target creature."
+msgstr ""
+
+#: ../../NPH.rst:214
+# 0b66015fbbbd431a9a01edaff9fba1a9
+msgid "Metalcraft — If you control three or more artifacts, exile that creature."
+msgstr ""
+
+#: ../../NPH.rst:221
+# 66af81e728ca43629569b4dc108ac8fc
+msgid "Due Respect"
+msgstr ""
+
+#: ../../NPH.rst:218
+# 2b5ab8ad8fdd4ac995c81bb9eba5b3d4
+msgid "Permanents enter the battlefield tapped this turn."
+msgstr ""
+
+#: ../../NPH.rst:229
+# 198ed5d23a1749919c0ed9964d73f924
+msgid "Elesh Norn, Grand Cenobite"
+msgstr ""
+
+#: ../../NPH.rst:224
+# cc336c5e6dfd44ee91dac6418bbcdef6
+msgid "Vigilance"
+msgstr ""
+
+#: ../../NPH.rst:226
+# f1fbb6836ecc4083bd73f81e857549d6
+msgid "Other creatures you control get +2/+2."
+msgstr ""
+
+#: ../../NPH.rst:228
+# 4179aa445f944197b9c0461f9bfa2e3b
+msgid "Creatures your opponents control get -2/-2."
+msgstr ""
+
+#: ../../NPH.rst:237
+# 4b8502a36a494d5c9d9d7638733d160f
+msgid "Enslave"
+msgstr ""
+
+#: ../../NPH.rst:234
+# 2ece82ac13d847b5b04696964098bbfc
+msgid "You control enchanted creature."
+msgstr ""
+
+#: ../../NPH.rst:236
+# cc24b5bc95494958a60384d88d81c24c
+msgid "At the beginning of your upkeep, enchanted creature deals 1 damage to its owner."
+msgstr ""
+
+#: ../../NPH.rst:243
+# 698bc751f8b74fbab75537e85b10e8a7
+msgid "Entomber Exarch"
+msgstr ""
+
+#: ../../NPH.rst:240
+# c3ed8042f05749cb90a6b6877f41ce61
+msgid "When Entomber Exarch enters the battlefield, choose one — Return target creature card from your graveyard to your hand"
+msgstr ""
+
+#: ../../NPH.rst:242
+# 2871f94368e447baa9c5f6325717481f
+msgid "or target opponent reveals his or her hand, you choose a noncreature card from it, then that player discards that card."
+msgstr ""
+
+#: ../../NPH.rst:249
+# 5f31de54acf94785a104443c2fbf72df
+msgid "Etched Monstrosity"
+msgstr ""
+
+#: ../../NPH.rst:246
+# 59399d10bc9b46e1baa7d1ed030c9b66
+msgid "Etched Monstrosity enters the battlefield with five -1/-1 counters on it."
+msgstr ""
+
+#: ../../NPH.rst:248
+# c505d5ba27984625a5c04e93878c7ba4
+msgid "|mana_w| |mana_u| |mana_b| |mana_r| |mana_g|, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards."
+msgstr ""
+
+#: ../../NPH.rst:255
+# 49e06d9ff895423893ceabc18675b746
+msgid "Evil Presence"
+msgstr ""
+
+#: ../../NPH.rst:252
+# e33bb16b5f1e4a1a86f471b3d2faf81c
+msgid "Enchant land"
+msgstr ""
+
+#: ../../NPH.rst:254
+# cdbe75176a4d4bc4a045644d01da0da0
+msgid "Enchanted land is a Swamp."
+msgstr ""
+
+#: ../../NPH.rst:261
+# 01269fc3e07b4ecb8fad91b67ce56a5b
+msgid "Exclusion Ritual"
+msgstr ""
+
+#: ../../NPH.rst:258
+# f6c4d6af057e444fa97bc32c82e14e4e
+msgid "Imprint — When Exclusion Ritual enters the battlefield, exile target nonland permanent."
+msgstr ""
+
+#: ../../NPH.rst:260
+# d3613c7b2819401b8d9cfea7294c7f53
+msgid "Players can't cast spells with the same name as the exiled card."
+msgstr ""
+
+#: ../../NPH.rst:267
+# a76210c4df4842b595df319ed2c0103a
+msgid "Fallen Ferromancer"
+msgstr ""
+
+#: ../../NPH.rst:266
+# dc8631ef9b71439fac99d7fb6a95c6d5
+msgid "|mana_1| |mana_r|, |tap|: Fallen Ferromancer deals 1 damage to target creature or player."
+msgstr ""
+
+#: ../../NPH.rst:269
+# d8ce71c01b23407097edea17e3072481
+msgid "Flameborn Viron"
+msgstr ""
+
+#: ../../NPH.rst:279
+# c91d47fb114444789dd7674eb1707844
+msgid "Forced Worship"
+msgstr ""
+
+#: ../../NPH.rst:276
+# 087c245ef62c4e0ebe4628f769a3b3ed
+msgid "Enchanted creature can't attack."
+msgstr ""
+
+#: ../../NPH.rst:278
+# c1b9f57ac0ec4a308827ea6dbd87ce06
+msgid "|mana_2| |mana_w|: Return Forced Worship to its owner's hand."
+msgstr ""
+
+#: ../../NPH.rst:283
+# 5c84a8a710ba4eb4ae39e9d749188186
+msgid "Forest"
+msgstr ""
+
+#: ../../NPH.rst:282
+# 9b6f84be98454e2fa341a02d1cc8dcb7
+msgid "G"
+msgstr ""
+
+#: ../../NPH.rst:287
+# 3fee0a40cd9d4c248742c5ff835fc70c
+msgid "Fresh Meat"
+msgstr ""
+
+#: ../../NPH.rst:286
+# 4cb751f59dcb495689ae96d294900c93
+msgid "Put a 3/3 green Beast creature token onto the battlefield for each creature put into your graveyard from the battlefield this turn."
+msgstr ""
+
+#: ../../NPH.rst:291
+# 36e2426a18944b1cbb072b9c53990885
+msgid "Furnace Scamp"
+msgstr ""
+
+#: ../../NPH.rst:290
+# 7bb2ae95198245acbc4ebaa4a3db1848
+msgid "Whenever Furnace Scamp deals combat damage to a player, you may sacrifice it. If you do, Furnace Scamp deals 3 damage to that player."
+msgstr ""
+
+#: ../../NPH.rst:295
+# d4e47e7490514f53b3db03d17cf13d2d
+msgid "Geosurge"
+msgstr ""
+
+#: ../../NPH.rst:294
+# 51abd7c1c5a548ba845911bee4e574bb
+msgid "Add |mana_r| |mana_r| |mana_r| |mana_r| |mana_r| |mana_r| |mana_r| to your mana pool. Spend this mana only to cast artifact or creature spells."
+msgstr ""
+
+#: ../../NPH.rst:299
+# e4b9dfef91b34b46ad9dd03936c44bbc
+msgid "Geth's Verdict"
+msgstr ""
+
+#: ../../NPH.rst:298
+# 3515ff66e02e4d7c83eecea2043bf849
+msgid "Target player sacrifices a creature and loses 1 life."
+msgstr ""
+
+#: ../../NPH.rst:307
+# f3359273f0ad4699b7a02cf6be76236e
+msgid "Gitaxian Probe"
+msgstr ""
+
+#: ../../NPH.rst:302
+#: ../../NPH.rst:472
+#: ../../NPH.rst:582
+#: ../../NPH.rst:786
+#: ../../NPH.rst:828
+# 2a7386aa91b048fc90141103b30ef6bf
+# 70fb4035b2064c9e8f368d328b3cca22
+# 0db1934f248d44378f79429e9d09b7c9
+# 12a61e78d7c343ddb2ad5be343fb5b3f
+# 3bd4a12267a14006ba0b678a45102bdb
+msgid "(|mana_up| can be paid with either |mana_u| or 2 life.)"
+msgstr ""
+
+#: ../../NPH.rst:304
+# d24846d907fc400eb881020f5cb676c6
+msgid "Look at target player's hand."
+msgstr ""
+
+#: ../../NPH.rst:311
+# 22f3a19cbf234bd282ca94b4cef8bbf4
+msgid "Glissa's Scorn"
+msgstr ""
+
+#: ../../NPH.rst:310
+# a6d252039f9d44c09481ca7a0f9b0fab
+msgid "Destroy target artifact. Its controller loses 1 life."
+msgstr ""
+
+#: ../../NPH.rst:315
+# 82664d747e224a678659cdcace81dc88
+msgid "Glistener Elf"
+msgstr ""
+
+#: ../../NPH.rst:325
+# 019f24ef3e6446d4943f3a597bc8ceb1
+msgid "Glistening Oil"
+msgstr ""
+
+#: ../../NPH.rst:320
+# a253a0816d1142e6ba6e76371dcf677b
+msgid "Enchanted creature has infect."
+msgstr ""
+
+#: ../../NPH.rst:322
+# d2de796e18f04bf7ab5eb6bc80e17e24
+msgid "At the beginning of your upkeep, put a -1/-1 counter on enchanted creature."
+msgstr ""
+
+#: ../../NPH.rst:324
+# 08cafa6bdf134bdd8485681a24752933
+msgid "When Glistening Oil is put into a graveyard from the battlefield, return Glistening Oil to its owner's hand."
+msgstr ""
+
+#: ../../NPH.rst:329
+# 192c76fb67854fa794808d7556a8c0a4
+msgid "Greenhilt Trainee"
+msgstr ""
+
+#: ../../NPH.rst:328
+# 037e0459c3cb4bc9a34d00c79df38741
+msgid "|tap|: Target creature gets +4/+4 until end of turn. Activate this ability only if Greenhilt Trainee's power is 4 or greater."
+msgstr ""
+
+#: ../../NPH.rst:335
+# 229d1cafcd8a43279a23034a2c935056
+msgid "Gremlin Mine"
+msgstr ""
+
+#: ../../NPH.rst:332
+# 08e6635e7add4db0b7b91ccb9a90ce97
+msgid "|mana_1|, |tap|, Sacrifice Gremlin Mine: Gremlin Mine deals 4 damage to target artifact creature."
+msgstr ""
+
+#: ../../NPH.rst:334
+# 18ab55c3d0184aceb648c0da69c40790
+msgid "|mana_1|, |tap|, Sacrifice Gremlin Mine: Remove up to four charge counters from target noncreature artifact."
+msgstr ""
+
+#: ../../NPH.rst:339
+# 90768fff6c34452f8892a1cc95f5ab15
+msgid "Grim Affliction"
+msgstr ""
+
+#: ../../NPH.rst:338
+# 9876ffbf58114a90a42d28d37a78033b
+msgid "Put a -1/-1 counter on target creature, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)"
+msgstr ""
+
+#: ../../NPH.rst:345
+# 727113de5a0c4cf48dab67af838777c6
+msgid "Gut Shot"
+msgstr ""
+
+#: ../../NPH.rst:344
+# 756ac287ed3f41228d9f41362038e348
+msgid "Gut Shot deals 1 damage to target creature or player."
+msgstr ""
+
+#: ../../NPH.rst:349
+# 24f34c0a53cc4ea5a1c156f8f0801218
+msgid "Hex Parasite"
+msgstr ""
+
+#: ../../NPH.rst:348
+# 5e021b4bef984a97bdae455ed1ed6b47
+msgid "|mana_x| |mana_bp|: Remove up to X counters from target permanent. For each counter removed this way, Hex Parasite gets +1/+0 until end of turn. (|mana_bp| can be paid with either |mana_b| or 2 life.)"
+msgstr ""
+
+#: ../../NPH.rst:353
+# 15ba70c64dc645f3a389e60d1b59ca0a
+msgid "Hovermyr"
+msgstr ""
+
+#: ../../NPH.rst:352
+# a7d679b8b6514fc98f12008f8679c49d
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../NPH.rst:359
+# b7ad98f588ab450a9bac96c0917a89aa
+msgid "Ichor Explosion"
+msgstr ""
+
+#: ../../NPH.rst:356
+# bf518f3b632643b89ade96a491533f65
+msgid "As an additional cost to cast Ichor Explosion, sacrifice a creature."
+msgstr ""
+
+#: ../../NPH.rst:358
+# a9a5bd0a09e3480eafb2e0f373111972
+msgid "All creatures get -X/-X until end of turn, where X is the sacrificed creature's power."
+msgstr ""
+
+#: ../../NPH.rst:363
+# 8103362e76c74ec8b26cfd45d64761bc
+msgid "Immolating Souleater"
+msgstr ""
+
+#: ../../NPH.rst:362
+# 9d08f2e2075b464eb3ebe9af4a8b400b
+msgid "|mana_rp|: Immolating Souleater gets +1/+0 until end of turn. (|mana_rp| can be paid with either |mana_r| or 2 life.)"
+msgstr ""
+
+#: ../../NPH.rst:369
+# 9290b9acb5794a789df1130f68d909bc
+msgid "Impaler Shrike"
+msgstr ""
+
+#: ../../NPH.rst:368
+# 717241d70fd8463493ce66d8bb6ab7de
+msgid "Whenever Impaler Shrike deals combat damage to a player, you may sacrifice it. If you do, draw three cards."
+msgstr ""
+
+#: ../../NPH.rst:375
+# 6472086857864a31bcd5b744a646ce7f
+msgid "Inquisitor Exarch"
+msgstr ""
+
+#: ../../NPH.rst:372
+# 20ad40d6174f472aa3ba050c8ce86ab4
+msgid "When Inquisitor Exarch enters the battlefield, choose one — You gain 2 life"
+msgstr ""
+
+#: ../../NPH.rst:374
+# e95b04eb73e84bdc8bf440433d5d896e
+msgid "or target opponent loses 2 life."
+msgstr ""
+
+#: ../../NPH.rst:379
+# e482ebefdae3471f8420af5acb83d5e7
+msgid "Insatiable Souleater"
+msgstr ""
+
+#: ../../NPH.rst:378
+# 79aac9941a134a38842135d83f6f8b22
+msgid "|mana_gp|: Insatiable Souleater gains trample until end of turn. (|mana_gp| can be paid with either |mana_g| or 2 life.)"
+msgstr ""
+
+#: ../../NPH.rst:385
+# 5c904082a2dc4915868c01cf41876fc8
+msgid "Invader Parasite"
+msgstr ""
+
+#: ../../NPH.rst:382
+# 48b7df7b0b9247fca259252b88473e93
+msgid "Imprint — When Invader Parasite enters the battlefield, exile target land."
+msgstr ""
+
+#: ../../NPH.rst:384
+# a0e0853feda344b59544f1bc6e40793c
+msgid "Whenever a land with the same name as the exiled card enters the battlefield under an opponent's control, Invader Parasite deals 2 damage to that player."
+msgstr ""
+
+#: ../../NPH.rst:389
+# 4b4c3c0b707d4cb6a9255ce72f8dcadb
+msgid "Island"
+msgstr ""
+
+#: ../../NPH.rst:388
+# b789ac152e2d4d22b014055577e8ccd0
+msgid "U"
+msgstr ""
+
+#: ../../NPH.rst:393
+# 05f70c9e16014459bc9018fa5043e6f9
+msgid "Isolation Cell"
+msgstr ""
+
+#: ../../NPH.rst:392
+# 011d8e58a6b246bf8925e0b9eebfb1b0
+msgid "Whenever an opponent casts a creature spell, that player loses 2 life unless he or she pays |mana_2|."
+msgstr ""
+
+#: ../../NPH.rst:401
+# 02af895cd55b40938a8f6e7af45433c1
+msgid "Jin-Gitaxias, Core Augur"
+msgstr ""
+
+#: ../../NPH.rst:396
+# 8e2bde47da4c49468314cf225ee9585b
+msgid "Flash"
+msgstr ""
+
+#: ../../NPH.rst:398
+# fbb582343ba1489985eadacc2864e764
+msgid "At the beginning of your end step, draw seven cards."
+msgstr ""
+
+#: ../../NPH.rst:400
+# ead545c0da754320bceba73c91a46103
+msgid "Each opponent's maximum hand size is reduced by seven."
+msgstr ""
+
+#: ../../NPH.rst:407
+# c81505e04e824c2b8bc366fbdb0f4f61
+msgid "Jor Kadeen, the Prevailer"
+msgstr ""
+
+#: ../../NPH.rst:404
+#: ../../NPH.rst:624
+#: ../../NPH.rst:666
+# 5a5e2a1e95ab4e1da7687444e8d31e81
+# 8812d06f827d4781b06dc91b9b2a6d93
+# c2de372160744231a266bbd41154bc12
+msgid "First strike"
+msgstr ""
+
+#: ../../NPH.rst:406
+# 1ef30c014bb54af6ba44e3b1aa81c0b9
+msgid "Metalcraft — Creatures you control get +3/+0 as long as you control three or more artifacts."
+msgstr ""
+
+#: ../../NPH.rst:415
+# a56dd9c7951c4a0d9f892d470a9f324a
+msgid "Karn Liberated"
+msgstr ""
+
+#: ../../NPH.rst:410
+# 6fdadc2521c040d3b2b4166f5b3113ff
+msgid "+4: Target player exiles a card from his or her hand."
+msgstr ""
+
+#: ../../NPH.rst:412
+# 941daf5d0e684c3495b56a13958f7dd9
+msgid "-3: Exile target permanent."
+msgstr ""
+
+#: ../../NPH.rst:414
+# 8465d111186f4ff89dfa5b4a45f002f1
+msgid "-14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control."
+msgstr ""
+
+#: ../../NPH.rst:419
+# 05c2ad75ce6044b380bd2fab630ed01d
+msgid "Kiln Walker"
+msgstr ""
+
+#: ../../NPH.rst:418
+# 21880f063a8f455eab487c5a5ed35de6
+msgid "Whenever Kiln Walker attacks, it gets +3/+0 until end of turn."
+msgstr ""
+
+#: ../../NPH.rst:427
+# ccc8644b059c45ee9d27aa77c140f01d
+msgid "Lashwrithe"
+msgstr ""
+
+#: ../../NPH.rst:424
+# 0a9447fd32504bf29af1936b77a778a0
+msgid "Equipped creature gets +1/+1 for each Swamp you control."
+msgstr ""
+
+#: ../../NPH.rst:426
+# f409530340a245ce9c07e581fec1db51
+msgid "Equip |mana_bp| |mana_bp| (|mana_bp| can be paid with either |mana_b| or 2 life.)"
+msgstr ""
+
+#: ../../NPH.rst:431
+# 639692e736bb4545a8bb5e4c3a79163e
+msgid "Leeching Bite"
+msgstr ""
+
+#: ../../NPH.rst:430
+# 09b8b9fadd8b48cdb8eb55aefc914d77
+msgid "Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn."
+msgstr ""
+
+#: ../../NPH.rst:435
+# c3abe8613fbf45e389d7080059b91800
+msgid "Life's Finale"
+msgstr ""
+
+#: ../../NPH.rst:434
+# 8031f00410e44c0b808b87fe1e84d5cc
+msgid "Destroy all creatures, then search target opponent's library for up to three creature cards and put them into his or her graveyard. Then that player shuffles his or her library."
+msgstr ""
+
+#: ../../NPH.rst:439
+# a9c6eab3158442e9b0e68959b08655b9
+msgid "Lost Leonin"
+msgstr ""
+
+#: ../../NPH.rst:441
+# 171128d70fa948d2952617c74fa6f080
+msgid "Loxodon Convert"
+msgstr ""
+
+#: ../../NPH.rst:449
+# d7ebf29d6427405297affc1a0aad0a64
+msgid "Marrow Shards"
+msgstr ""
+
+#: ../../NPH.rst:448
+# 3f3a90a1ab334995b3267dd8850ad308
+msgid "Marrow Shards deals 1 damage to each attacking creature."
+msgstr ""
+
+#: ../../NPH.rst:455
+# a1fad34aff2348518cd78c224e0372bf
+msgid "Master Splicer"
+msgstr ""
+
+#: ../../NPH.rst:452
+# 7f7f11a5396143ed8f8a241d80705b5f
+msgid "When Master Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield."
+msgstr ""
+
+#: ../../NPH.rst:454
+# ad32acfe329a413fa583b916c8db7acf
+msgid "Golem creatures you control get +1/+1."
+msgstr ""
+
+#: ../../NPH.rst:461
+# 095195dec0544023b1dd02141dca49cf
+msgid "Maul Splicer"
+msgstr ""
+
+#: ../../NPH.rst:458
+# 75cbb6a4ab1d460ea3ae377c223b24b4
+msgid "When Maul Splicer enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield."
+msgstr ""
+
+#: ../../NPH.rst:460
+# 6607137c598b428abf06a9b439c295f2
+msgid "Golem creatures you control have trample."
+msgstr ""
+
+#: ../../NPH.rst:469
+# 8ee8d874ffa54d3789da9d32373a2712
+msgid "Melira, Sylvok Outcast"
+msgstr ""
+
+#: ../../NPH.rst:464
+# 611f40719a884557896870f476f8f76b
+msgid "You can't get poison counters."
+msgstr ""
+
+#: ../../NPH.rst:466
+# a398846445a54acbb761d0ae1a9aab0c
+msgid "Creatures you control can't have -1/-1 counters placed on them."
+msgstr ""
+
+#: ../../NPH.rst:468
+# 541b1ee7af1243ba8aa13121ec8b8664
+msgid "Creatures your opponents control lose infect."
+msgstr ""
+
+#: ../../NPH.rst:475
+# e4d774cec9a7486d954b546667c48f9b
+msgid "Mental Misstep"
+msgstr ""
+
+#: ../../NPH.rst:474
+# 3241f7f2d5234bec84b5d3f6163eb49f
+msgid "Counter target spell with converted mana cost 1."
+msgstr ""
+
+#: ../../NPH.rst:479
+# a6474e11d73b4076bae46ffa212e5ffb
+msgid "Mindcrank"
+msgstr ""
+
+#: ../../NPH.rst:478
+# 0a5d338b63b84cf1a24773a5c2788183
+msgid "Whenever an opponent loses life, that player puts that many cards from the top of his or her library into his or her graveyard. (Damage dealt by sources without infect causes loss of life.)"
+msgstr ""
+
+#: ../../NPH.rst:483
+# bdf719dfba0141d48564515c802fc6c5
+msgid "Mindculling"
+msgstr ""
+
+#: ../../NPH.rst:482
+# 54f07e6ef9d84a8891a178737ea3e8db
+msgid "You draw two cards and target opponent discards two cards."
+msgstr ""
+
+#: ../../NPH.rst:491
+# d42ce4b34ec3476aa511ba2974d2dbaf
+msgid "Moltensteel Dragon"
+msgstr ""
+
+#: ../../NPH.rst:490
+# da82652b3fee43b3a0da3f927c29710b
+msgid "|mana_rp|: Moltensteel Dragon gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../NPH.rst:497
+# 2d7c5bdeb2504ede8d6ef615d6c2dc36
+msgid "Mortis Dogs"
+msgstr ""
+
+#: ../../NPH.rst:494
+# 9f3dee0207c64df0981197976799fba2
+msgid "Whenever Mortis Dogs attacks, it gets +2/+0 until end of turn."
+msgstr ""
+
+#: ../../NPH.rst:496
+# 2ba8fa36d9aa46e1bbfe6aac612ff96b
+msgid "When Mortis Dogs dies, target player loses life equal to its power."
+msgstr ""
+
+#: ../../NPH.rst:501
+# 68583752c99c4c02a8f5d1aa857cd842
+msgid "Mountain"
+msgstr ""
+
+#: ../../NPH.rst:500
+# 3a2ce60371494f14984526dccaa8414d
+msgid "R"
+msgstr ""
+
+#: ../../NPH.rst:507
+# 32f1ca0a4c2b418a9e6be0cfac32ff97
+msgid "Mutagenic Growth"
+msgstr ""
+
+#: ../../NPH.rst:506
+# e7161575aebb4a2f8cbfd8533a24c78d
+msgid "Target creature gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../NPH.rst:511
+# 40787b8909a04b34be6f0f742c6cee3c
+msgid "Mycosynth Fiend"
+msgstr ""
+
+#: ../../NPH.rst:510
+# 474549bf879246d6ad2619531cc21bd3
+msgid "Mycosynth Fiend gets +1/+1 for each poison counter your opponents have."
+msgstr ""
+
+#: ../../NPH.rst:515
+# a02b6bc92998454d8455e65dd7b1ce70
+msgid "Mycosynth Wellspring"
+msgstr ""
+
+#: ../../NPH.rst:514
+# 9967b7ace8e04effad404c5dc5814d08
+msgid "When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../NPH.rst:519
+# f5fa0d92b7644549a8feaa522b25ce68
+msgid "Myr Superion"
+msgstr ""
+
+#: ../../NPH.rst:518
+# 846cb2f12bc34996b3a28f354e6a4692
+msgid "Spend only mana produced by creatures to cast Myr Superion."
+msgstr ""
+
+#: ../../NPH.rst:527
+# 05bcf0a38718419a81ec5c999cafe36b
+msgid "Necropouncer"
+msgstr ""
+
+#: ../../NPH.rst:524
+# 391b7acd52cb4a319d6e0332ec27c30e
+msgid "Equipped creature gets +3/+1 and has haste."
+msgstr ""
+
+#: ../../NPH.rst:526
+#: ../../NPH.rst:824
+# 14e043c142a44ed6b62ecd8f7fd30820
+# e1fc4a29373a4710b3db25a1206f8787
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../NPH.rst:533
+# 5b235e45d996478b91217d21dc784375
+msgid "Norn's Annex"
+msgstr ""
+
+#: ../../NPH.rst:532
+# 54c0821196eb4918bd0df8df267fe6bf
+msgid "Creatures can't attack you or a planeswalker you control unless their controller pays |mana_wp| for each of those creatures."
+msgstr ""
+
+#: ../../NPH.rst:539
+# afcd4894a83c4762bda693ac8127d20e
+msgid "Noxious Revival"
+msgstr ""
+
+#: ../../NPH.rst:538
+# 01a93c10ff084531a5dc53b7d5ad16ed
+msgid "Put target card from a graveyard on top of its owner's library."
+msgstr ""
+
+#: ../../NPH.rst:547
+# 8629c979eccc484696e6e3190f274bdc
+msgid "Numbing Dose"
+msgstr ""
+
+#: ../../NPH.rst:542
+# fbd2e1c587e24500a943e2c0a6030949
+msgid "Enchant artifact or creature"
+msgstr ""
+
+#: ../../NPH.rst:544
+# 7e113cb3b6374d41bb7b2ee161262e51
+msgid "Enchanted permanent doesn't untap during its controller's untap step."
+msgstr ""
+
+#: ../../NPH.rst:546
+# 6bc2009da8e743d49306ef8672469083
+msgid "At the beginning of the upkeep of enchanted permanent's controller, that player loses 1 life."
+msgstr ""
+
+#: ../../NPH.rst:553
+# ffdbb7f39a84412bb364280002d0cc24
+msgid "Ogre Menial"
+msgstr ""
+
+#: ../../NPH.rst:552
+# 44788ef9edc6422cb4411b8f2cc06f15
+msgid "|mana_r|: Ogre Menial gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../NPH.rst:559
+# cdcc11ab1a1a44ccae6a50f6588affec
+msgid "Omen Machine"
+msgstr ""
+
+#: ../../NPH.rst:556
+# 0e293f2e03234045a735f8470e368ea3
+msgid "Players can't draw cards."
+msgstr ""
+
+#: ../../NPH.rst:558
+# c3bfdc4dc8234a959f138a3044f0389c
+msgid "At the beginning of each player's draw step, that player exiles the top card of his or her library. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able."
+msgstr ""
+
+#: ../../NPH.rst:565
+# 2eb29fc00c8b4c3db62317a22c06d652
+msgid "Parasitic Implant"
+msgstr ""
+
+#: ../../NPH.rst:564
+# 264fea2462854b9594a1da9c43480546
+msgid "At the beginning of your upkeep, enchanted creature's controller sacrifices it and you put a 1/1 colorless Myr artifact creature token onto the battlefield."
+msgstr ""
+
+#: ../../NPH.rst:569
+# fb5a5b67e13543bfb6ca00698a45c4c2
+msgid "Pestilent Souleater"
+msgstr ""
+
+#: ../../NPH.rst:568
+# de22e7dc167540d1b2c843d40849845d
+msgid "|mana_bp|: Pestilent Souleater gains infect until end of turn. (|mana_bp| can be paid with either |mana_b| or 2 life. A creature with infect deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)"
+msgstr ""
+
+#: ../../NPH.rst:571
+# 78e465d1d958405a8deaba7246381def
+msgid "Phyrexian Hulk"
+msgstr ""
+
+#: ../../NPH.rst:579
+# 44b61a5b42e2497985652e07550a1dd5
+msgid "Phyrexian Ingester"
+msgstr ""
+
+#: ../../NPH.rst:576
+# 7226271ecebd4afcae4e07389e954750
+msgid "Imprint — When Phyrexian Ingester enters the battlefield, you may exile target nontoken creature."
+msgstr ""
+
+#: ../../NPH.rst:578
+# 2c2d045e53b14b93bb11517d60684865
+msgid "Phyrexian Ingester gets +X/+Y, where X is the exiled creature card's power and Y is its toughness."
+msgstr ""
+
+#: ../../NPH.rst:585
+# 28f5194cff8f404ca82427c32cda07a2
+msgid "Phyrexian Metamorph"
+msgstr ""
+
+#: ../../NPH.rst:584
+# 022377c9eaa748e39a50cd027e48c97e
+msgid "You may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types."
+msgstr ""
+
+#: ../../NPH.rst:591
+# a0b1e7fab37846d889afb5147530d7f1
+msgid "Phyrexian Obliterator"
+msgstr ""
+
+#: ../../NPH.rst:588
+#: ../../NPH.rst:836
+#: ../../NPH.rst:918
+# 8b49c1d61b6542349f886a5928c825f2
+# fa1aca3e4daf471589ca7d0134555fe5
+# b1e69bed2f204616aa5277d7f5af1356
+msgid "Trample"
+msgstr ""
+
+#: ../../NPH.rst:590
+# e30e1bf91e8c4a9cbd818a1f7feb21ea
+msgid "Whenever a source deals damage to Phyrexian Obliterator, that source's controller sacrifices that many permanents."
+msgstr ""
+
+#: ../../NPH.rst:597
+# c5f863ce7d314522affc872a18ca3197
+msgid "Phyrexian Swarmlord"
+msgstr ""
+
+#: ../../NPH.rst:596
+# 2b906e5fd376416eb82f45b4aa3d8e5d
+msgid "At the beginning of your upkeep, put a 1/1 green Insect creature token with infect onto the battlefield for each poison counter your opponents have."
+msgstr ""
+
+#: ../../NPH.rst:603
+# afb029ab6fd143008fecaa6a2f40de15
+msgid "Phyrexian Unlife"
+msgstr ""
+
+#: ../../NPH.rst:600
+# 9e579527359c48058b1b399ce271ff0a
+msgid "You don't lose the game for having 0 or less life."
+msgstr ""
+
+#: ../../NPH.rst:602
+# 8e66cd22f85d452b8984c95ec2c28e2b
+msgid "As long as you have 0 or less life, all damage is dealt to you as though its source had infect. (Damage is dealt to you in the form of poison counters.)"
+msgstr ""
+
+#: ../../NPH.rst:609
+# 53619a43577d4abdb31ba51ab92d5393
+msgid "Phyrexia's Core"
+msgstr ""
+
+#: ../../NPH.rst:606
+# 09556d93b357446b87897553f8f34227
+msgid "|tap|: Add |mana_1| to your mana pool."
+msgstr ""
+
+#: ../../NPH.rst:608
+# b079ee96b42843e4bc04cf83d383bef0
+msgid "|mana_1|, |tap|, Sacrifice an artifact: You gain 1 life."
+msgstr ""
+
+#: ../../NPH.rst:615
+# 7198ce77528d49229a143294803d3ce9
+msgid "Pith Driller"
+msgstr ""
+
+#: ../../NPH.rst:614
+# 78e52301054746dba9bda83e5adb0aeb
+msgid "When Pith Driller enters the battlefield, put a -1/-1 counter on target creature."
+msgstr ""
+
+#: ../../NPH.rst:619
+# 1917894b644846a4827d45fc3797cec9
+msgid "Plains"
+msgstr ""
+
+#: ../../NPH.rst:618
+# 7dddbd23275c4b1ea64be68041bed82c
+msgid "W"
+msgstr ""
+
+#: ../../NPH.rst:625
+# 8e1a5e34f6104fb5bb319e73af65a5ba
+msgid "Porcelain Legionnaire"
+msgstr ""
+
+#: ../../NPH.rst:631
+# 0f90b903240f445386ab773b01c813a7
+msgid "Postmortem Lunge"
+msgstr ""
+
+#: ../../NPH.rst:630
+# 29ee540948854931b2dc135eb00b6c24
+msgid "Return target creature card with converted mana cost X from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step."
+msgstr ""
+
+#: ../../NPH.rst:635
+# 70c221a357424aac8833b1b08eb63093
+msgid "Praetor's Grasp"
+msgstr ""
+
+#: ../../NPH.rst:634
+# 207f590aab3344929f37ccdf39d1dc08
+msgid "Search target opponent's library for a card and exile it face down. Then that player shuffles his or her library. You may look at and play that card for as long as it remains exiled."
+msgstr ""
+
+#: ../../NPH.rst:639
+# c1d35ebfff904ac8b68655e1051d9419
+msgid "Priest of Urabrask"
+msgstr ""
+
+#: ../../NPH.rst:638
+# a6e2aa96d4394caea612b4dbd6c7ccdf
+msgid "When Priest of Urabrask enters the battlefield, add |mana_r| |mana_r| |mana_r| to your mana pool."
+msgstr ""
+
+#: ../../NPH.rst:643
+# 4bd793e79b014b94b46af82f9d230600
+msgid "Pristine Talisman"
+msgstr ""
+
+#: ../../NPH.rst:642
+# 5feee18262e64362bc09f9619250f0f8
+msgid "|tap|: Add |mana_1| to your mana pool. You gain 1 life."
+msgstr ""
+
+#: ../../NPH.rst:647
+# 7b8a197ff45043f7aa55146091e39b83
+msgid "Psychic Barrier"
+msgstr ""
+
+#: ../../NPH.rst:646
+# 5da306879c7c480c92003ca96f029793
+msgid "Counter target creature spell. Its controller loses 1 life."
+msgstr ""
+
+#: ../../NPH.rst:651
+# b63289861e1247daa208612c7386612f
+msgid "Psychic Surgery"
+msgstr ""
+
+#: ../../NPH.rst:650
+# 2d018edcf2d24efb890e1d413e534c85
+msgid "Whenever an opponent shuffles his or her library, you may look at the top two cards of that library. You may exile one of those cards. Then put the rest on top of that library in any order."
+msgstr ""
+
+#: ../../NPH.rst:657
+# 9dd0321b07784cc997cfd4870e499d92
+msgid "Puresteel Paladin"
+msgstr ""
+
+#: ../../NPH.rst:654
+# e499271f45db4f3ca8144d8d614130c3
+msgid "Whenever an Equipment enters the battlefield under your control, you may draw a card."
+msgstr ""
+
+#: ../../NPH.rst:656
+# b51f70532f034b619e6354fc17e4cc63
+msgid "Metalcraft — Equipment you control have equip |mana_0| as long as you control three or more artifacts."
+msgstr ""
+
+#: ../../NPH.rst:663
+# 66c78f3746214c36b9713bf7dd7d41fa
+msgid "Rage Extractor"
+msgstr ""
+
+#: ../../NPH.rst:662
+# 24bf538cd0c5489aa2019228ca1b689a
+msgid "Whenever you cast a spell with |mana_p| in its mana cost, Rage Extractor deals damage equal to that spell's converted mana cost to target creature or player."
+msgstr ""
+
+#: ../../NPH.rst:669
+# b447f883f0b14a089357d18792129944
+msgid "Razor Swine"
+msgstr ""
+
+#: ../../NPH.rst:675
+# 907eee1149114349a8e2b735b33b455a
+msgid "Reaper of Sheoldred"
+msgstr ""
+
+#: ../../NPH.rst:674
+# e0a9b4cc2f0c42c293f9dc4a86329946
+msgid "Whenever a source deals damage to Reaper of Sheoldred, that source's controller gets a poison counter."
+msgstr ""
+
+#: ../../NPH.rst:681
+# 2c51ba1b8b814a3e8048f1d27a2ee1b4
+msgid "Remember the Fallen"
+msgstr ""
+
+#: ../../NPH.rst:678
+# ebea149ca1fe42cd960df2a7c1383120
+msgid "Choose one or both — Return target creature card from your graveyard to your hand"
+msgstr ""
+
+#: ../../NPH.rst:680
+# cf136c6b67f343f19b75d39ec0be840c
+msgid "and/or return target artifact card from your graveyard to your hand."
+msgstr ""
+
+#: ../../NPH.rst:683
+# fda401d7a38a437d97f089924ab81823
+msgid "Rotted Hystrix"
+msgstr ""
+
+#: ../../NPH.rst:691
+# 3695c79230db4e64894843c454f05a88
+msgid "Ruthless Invasion"
+msgstr ""
+
+#: ../../NPH.rst:690
+# e3a515d2a9064c15b0a9a979bb4906e4
+msgid "Nonartifact creatures can't block this turn."
+msgstr ""
+
+#: ../../NPH.rst:695
+# 46077ebb9a2444b39a5ff4940c8b7189
+msgid "Scrapyard Salvo"
+msgstr ""
+
+#: ../../NPH.rst:694
+# f948c1ba1b254d14807ee1f22eb2b09a
+msgid "Scrapyard Salvo deals damage to target player equal to the number of artifact cards in your graveyard."
+msgstr ""
+
+#: ../../NPH.rst:701
+# d3c13e551ce1448d9596c14194da1262
+msgid "Sensor Splicer"
+msgstr ""
+
+#: ../../NPH.rst:698
+# 2819adce1a354886875c44e8cc7c15dc
+msgid "When Sensor Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield."
+msgstr ""
+
+#: ../../NPH.rst:700
+# d5f112f49899474da54ebe846bb37024
+msgid "Golem creatures you control have vigilance."
+msgstr ""
+
+#: ../../NPH.rst:707
+# bb6804af82254168b0629d7d140c6372
+msgid "Shattered Angel"
+msgstr ""
+
+#: ../../NPH.rst:706
+# c30f3cad74c14c8cbe6449588ff1d7ee
+msgid "Whenever a land enters the battlefield under an opponent's control, you may gain 3 life."
+msgstr ""
+
+#: ../../NPH.rst:715
+# dc8a664ea08c45beaf0f84423041390e
+msgid "Sheoldred, Whispering One"
+msgstr ""
+
+#: ../../NPH.rst:710
+# dbcb8d1c67374de391f4ac40bef8f692
+msgid "Swampwalk"
+msgstr ""
+
+#: ../../NPH.rst:712
+# e00bec0c97f940409f532a61aa92a096
+msgid "At the beginning of your upkeep, return target creature card from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../NPH.rst:714
+# a176d9deae38499aa5d8fec83ae96671
+msgid "At the beginning of each opponent's upkeep, that player sacrifices a creature."
+msgstr ""
+
+#: ../../NPH.rst:721
+# 4b3010df8ca14c05a09efd06b99dccd4
+msgid "Shriek Raptor"
+msgstr ""
+
+#: ../../NPH.rst:727
+# d8bd93f74c1e46f0984f9a948fa27922
+msgid "Shrine of Boundless Growth"
+msgstr ""
+
+#: ../../NPH.rst:724
+# e6580f98e07e451caae268aa4e78c48c
+msgid "At the beginning of your upkeep or whenever you cast a green spell, put a charge counter on Shrine of Boundless Growth."
+msgstr ""
+
+#: ../../NPH.rst:726
+# f7d1df098a634c9d8119e8960a08a2fc
+msgid "|tap|, Sacrifice Shrine of Boundless Growth: Add |mana_1| to your mana pool for each charge counter on Shrine of Boundless Growth."
+msgstr ""
+
+#: ../../NPH.rst:733
+# 908f11d098dd4ba48071ca60ac7f5299
+msgid "Shrine of Burning Rage"
+msgstr ""
+
+#: ../../NPH.rst:730
+# 613247490aef4ba485ae4b60390d497a
+msgid "At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage."
+msgstr ""
+
+#: ../../NPH.rst:732
+# b1f09409c86e4e868031f835dc780acd
+msgid "|mana_3|, |tap|, Sacrifice Shrine of Burning Rage: Shrine of Burning Rage deals damage equal to the number of charge counters on it to target creature or player."
+msgstr ""
+
+#: ../../NPH.rst:739
+# 7b56ea5c4d844c489604c4f0013c161a
+msgid "Shrine of Limitless Power"
+msgstr ""
+
+#: ../../NPH.rst:736
+# 1ef167d2a5ef4aa8a8ca1b000138be31
+msgid "At the beginning of your upkeep or whenever you cast a black spell, put a charge counter on Shrine of Limitless Power."
+msgstr ""
+
+#: ../../NPH.rst:738
+# 6b7c81464c244d24a03795a4474d5176
+msgid "|mana_4|, |tap|, Sacrifice Shrine of Limitless Power: Target player discards a card for each charge counter on Shrine of Limitless Power."
+msgstr ""
+
+#: ../../NPH.rst:745
+# 2e2675a8054a42788137ca2cbf6c947c
+msgid "Shrine of Loyal Legions"
+msgstr ""
+
+#: ../../NPH.rst:742
+# f2a4fc344e524f6b85b14f6df64d04c5
+msgid "At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions."
+msgstr ""
+
+#: ../../NPH.rst:744
+# 556e0de9e54144129e701c80bc787731
+msgid "|mana_3|, |tap|, Sacrifice Shrine of Loyal Legions: Put a 1/1 colorless Myr artifact creature token onto the battlefield for each charge counter on Shrine of Loyal Legions."
+msgstr ""
+
+#: ../../NPH.rst:751
+# 5f135c62d21f4480993236d94a62bed0
+msgid "Shrine of Piercing Vision"
+msgstr ""
+
+#: ../../NPH.rst:748
+# 2ef80b24fe2d427981872251fbb9a915
+msgid "At the beginning of your upkeep or whenever you cast a blue spell, put a charge counter on Shrine of Piercing Vision."
+msgstr ""
+
+#: ../../NPH.rst:750
+# 20619444a39e4dffb0fb245bfdab2651
+msgid "|tap|, Sacrifice Shrine of Piercing Vision: Look at the top X cards of your library, where X is the number of charge counters on Shrine of Piercing Vision. Put one of those cards into your hand and the rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../NPH.rst:759
+# 1b958aa885e1486c96e39aef51208168
+msgid "Sickleslicer"
+msgstr ""
+
+#: ../../NPH.rst:756
+# 8eb39aa627634db5b1e744b3ee954e6a
+msgid "Equipped creature gets +2/+2."
+msgstr ""
+
+#: ../../NPH.rst:758
+# 1f22b9849a994eed9fe20626b0623e27
+msgid "Equip |mana_4|"
+msgstr ""
+
+#: ../../NPH.rst:763
+# 3fa2da60943447829609fffbe55a5fa2
+msgid "Slag Fiend"
+msgstr ""
+
+#: ../../NPH.rst:762
+# 62a519f2b7bd44d08bd67ba4bb68b05f
+msgid "Slag Fiend's power and toughness are each equal to the number of artifact cards in all graveyards."
+msgstr ""
+
+#: ../../NPH.rst:769
+# 8195bed9911a4067bd74cd4d35c3fdf0
+msgid "Slash Panther"
+msgstr ""
+
+#: ../../NPH.rst:768
+# c6c2203541724fd9b1af855b4984cae7
+msgid "Haste"
+msgstr ""
+
+#: ../../NPH.rst:773
+# 31235f2231af41c5b32419ecb521a3c9
+msgid "Soul Conduit"
+msgstr ""
+
+#: ../../NPH.rst:772
+# e5059c40363c47478cfa76333a338238
+msgid "|mana_6|, |tap|: Two target players exchange life totals."
+msgstr ""
+
+#: ../../NPH.rst:777
+# a5c7c71cfbd745c7a0d8aff069e4e333
+msgid "Spellskite"
+msgstr ""
+
+#: ../../NPH.rst:776
+# e539b36a47bd4554b45c64b963e98f9f
+msgid "|mana_up|: Change a target of target spell or ability to Spellskite. (|mana_up| can be paid with either |mana_u| or 2 life.)"
+msgstr ""
+
+#: ../../NPH.rst:783
+# b83b863827074fe1b4d2a09bccf45a9c
+msgid "Spinebiter"
+msgstr ""
+
+#: ../../NPH.rst:782
+# 028f7f269762478394d7f4581212c8b6
+msgid "You may have Spinebiter assign its combat damage as though it weren't blocked."
+msgstr ""
+
+#: ../../NPH.rst:789
+# a360f2cf81084086a040034755e8791a
+msgid "Spined Thopter"
+msgstr ""
+
+#: ../../NPH.rst:795
+# f6a11cf896d24f43a2009e8a4882994f
+msgid "Spire Monitor"
+msgstr ""
+
+#: ../../NPH.rst:801
+# 10ef80fa7a0044a8b25baef6e6a7ef72
+msgid "Surge Node"
+msgstr ""
+
+#: ../../NPH.rst:798
+# eb1c678b057149bab335da093c914ccb
+msgid "Surge Node enters the battlefield with six charge counters on it."
+msgstr ""
+
+#: ../../NPH.rst:800
+# e0048679bd6b4b37928dbbabe04b1130
+msgid "|mana_1|, |tap|, Remove a charge counter from Surge Node: Put a charge counter on target artifact."
+msgstr ""
+
+#: ../../NPH.rst:807
+# f82cbdf72f824cf4a3046b8d2b44a748
+msgid "Surgical Extraction"
+msgstr ""
+
+#: ../../NPH.rst:806
+# 7496a40fea5d4439853a0a0f3a2234e2
+msgid "Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles his or her library."
+msgstr ""
+
+#: ../../NPH.rst:813
+# b4cef1a71fa343a2a5dea28027f25010
+msgid "Suture Priest"
+msgstr ""
+
+#: ../../NPH.rst:810
+# cc4649e291d14680988c2f8453c06f66
+msgid "Whenever another creature enters the battlefield under your control, you may gain 1 life."
+msgstr ""
+
+#: ../../NPH.rst:812
+# fe34fe1139974b9ca6cab45e44b42b5c
+msgid "Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life."
+msgstr ""
+
+#: ../../NPH.rst:817
+# e45e489bba4d4855adce78039fa5e642
+msgid "Swamp"
+msgstr ""
+
+#: ../../NPH.rst:816
+# 36e1b59484984f21a7e281514c3361c2
+msgid "B"
+msgstr ""
+
+#: ../../NPH.rst:825
+# e79cd53c68b04246bb3bc71534b8d7eb
+msgid "Sword of War and Peace"
+msgstr ""
+
+#: ../../NPH.rst:820
+# 280386ccf9ea42c79a980f455c04081d
+msgid "Equipped creature gets +2/+2 and has protection from red and from white."
+msgstr ""
+
+#: ../../NPH.rst:822
+# 93118095682c4ff3b1bd457d5cfea587
+msgid "Whenever equipped creature deals combat damage to a player, Sword of War and Peace deals damage to that player equal to the number of cards in his or her hand and you gain 1 life for each card in your hand."
+msgstr ""
+
+#: ../../NPH.rst:831
+# 5e2e035938cc4a64aaacb1019d266de3
+msgid "Tezzeret's Gambit"
+msgstr ""
+
+#: ../../NPH.rst:830
+# 903a5d0ac7fa48f4894939eb86dba433
+msgid "Draw two cards, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)"
+msgstr ""
+
+#: ../../NPH.rst:837
+# 5bea262ca5d24256b22ad75bdeb35e0d
+msgid "Thundering Tanadon"
+msgstr ""
+
+#: ../../NPH.rst:843
+# a7108115f786477eb52d705251ae620b
+msgid "Tormentor Exarch"
+msgstr ""
+
+#: ../../NPH.rst:840
+# 20e6b7584a99453a89813107ec477988
+msgid "When Tormentor Exarch enters the battlefield, choose one — Target creature gets +2/+0 until end of turn"
+msgstr ""
+
+#: ../../NPH.rst:842
+# 4895513218094272a8abe24e04a3fd7f
+msgid "or target creature gets -0/-2 until end of turn."
+msgstr ""
+
+#: ../../NPH.rst:847
+# 94a7e14a295343f7953963635229d0b0
+msgid "Torpor Orb"
+msgstr ""
+
+#: ../../NPH.rst:846
+# fc13809c0aea451e91f88b81c0ff9048
+msgid "Creatures entering the battlefield don't cause abilities to trigger."
+msgstr ""
+
+#: ../../NPH.rst:853
+# f021c659300b4e4a834c3eaca68d884b
+msgid "Toxic Nim"
+msgstr ""
+
+#: ../../NPH.rst:852
+# 50cc3e224d9e4841806f4151165b75d6
+msgid "|mana_b|: Regenerate Toxic Nim."
+msgstr ""
+
+#: ../../NPH.rst:857
+# edd2a994d2494301b25c964d69c0752f
+msgid "Trespassing Souleater"
+msgstr ""
+
+#: ../../NPH.rst:856
+# 1356dd19a2a44778ba96240a8c426b1e
+msgid "|mana_up|: Trespassing Souleater can't be blocked this turn. (|mana_up| can be paid with either |mana_u| or 2 life.)"
+msgstr ""
+
+#: ../../NPH.rst:861
+# 6fdbcaddaeec4290aa100f682b392dc9
+msgid "Triumph of the Hordes"
+msgstr ""
+
+#: ../../NPH.rst:860
+# 9bc5c81e584a4a40a71d346e7b8f7927
+msgid "Until end of turn, creatures you control get +1/+1 and gain trample and infect. (Creatures with infect deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)"
+msgstr ""
+
+#: ../../NPH.rst:865
+# 19130ba4ad1d4a289c11295b2af4aa42
+msgid "Unwinding Clock"
+msgstr ""
+
+#: ../../NPH.rst:864
+# 99a60904a431496ab50968ec677fee83
+msgid "Untap all artifacts you control during each other player's untap step."
+msgstr ""
+
+#: ../../NPH.rst:871
+# 739cc93264e44652a630401848ba3271
+msgid "Urabrask the Hidden"
+msgstr ""
+
+#: ../../NPH.rst:868
+# d27c27e821ef40b1a68ce29f00e1e48a
+msgid "Creatures you control have haste."
+msgstr ""
+
+#: ../../NPH.rst:870
+# 8144af800288478290311b586c9fb7cc
+msgid "Creatures your opponents control enter the battlefield tapped."
+msgstr ""
+
+#: ../../NPH.rst:875
+# 31ca3f3757eb46e78b5cee71093d4f5c
+msgid "Vapor Snag"
+msgstr ""
+
+#: ../../NPH.rst:874
+# 83c5ce38275d439697ce36d34fb9c8c0
+msgid "Return target creature to its owner's hand. Its controller loses 1 life."
+msgstr ""
+
+#: ../../NPH.rst:883
+# 36d70ae319994e7194884ba791d5a3f4
+msgid "Vault Skirge"
+msgstr ""
+
+#: ../../NPH.rst:882
+# a1544647fdd742aeb21a5af02c865ee1
+msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
+msgstr ""
+
+#: ../../NPH.rst:887
+# a837b75e770f497086e8f488f4a84aad
+msgid "Victorious Destruction"
+msgstr ""
+
+#: ../../NPH.rst:886
+# 0369733b9c064712ac277c943fa7a018
+msgid "Destroy target artifact or land. Its controller loses 1 life."
+msgstr ""
+
+#: ../../NPH.rst:895
+# a5fccdc4f6664269a56ae532e90770ea
+msgid "Viral Drake"
+msgstr ""
+
+#: ../../NPH.rst:894
+# 0825dad35a5141b59e04d3f5cd4582a0
+msgid "|mana_3| |mana_u|: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)"
+msgstr ""
+
+#: ../../NPH.rst:899
+# 4962301142f64787b27e61eb8a0bb667
+msgid "Viridian Betrayers"
+msgstr ""
+
+#: ../../NPH.rst:898
+# d676388703a64d12a73f17b25870905d
+msgid "Viridian Betrayers has infect as long as an opponent is poisoned. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)"
+msgstr ""
+
+#: ../../NPH.rst:905
+# 3d1c5b1f0e2c4b4699d7caf4d3d617eb
+msgid "Viridian Harvest"
+msgstr ""
+
+#: ../../NPH.rst:902
+# f00e74c73ac9420d98604c9035ceff6e
+msgid "Enchant artifact"
+msgstr ""
+
+#: ../../NPH.rst:904
+# b44344b4f8f8492c9e95543d8d00dd6a
+msgid "When enchanted artifact is put into a graveyard, you gain 6 life."
+msgstr ""
+
+#: ../../NPH.rst:911
+# e75f063ab16141d4a0c466d9fd9b40ba
+msgid "Vital Splicer"
+msgstr ""
+
+#: ../../NPH.rst:908
+# c00673d7625840af973f286c0c617913
+msgid "When Vital Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield."
+msgstr ""
+
+#: ../../NPH.rst:910
+# e37dd276cccf49cb9fb66fc3640560dd
+msgid "|mana_1|: Regenerate target Golem you control."
+msgstr ""
+
+#: ../../NPH.rst:915
+# 93c38c87376f4f69876f0510431e89d2
+msgid "Volt Charge"
+msgstr ""
+
+#: ../../NPH.rst:914
+# 8fdaa53e42ea450eb6acf6bd22369d5f
+msgid "Volt Charge deals 3 damage to target creature or player. Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)"
+msgstr ""
+
+#: ../../NPH.rst:923
+# 128b8c4d9f3e4dfda523a2b3911849b7
+msgid "Vorinclex, Voice of Hunger"
+msgstr ""
+
+#: ../../NPH.rst:920
+# 0601e4c11eec4405b099105a55a41cb1
+msgid "Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced."
+msgstr ""
+
+#: ../../NPH.rst:922
+# 719aab792d494cb78a70f5c4da49ee40
+msgid "Whenever an opponent taps a land for mana, that land doesn't untap during its controller's next untap step."
+msgstr ""
+
+#: ../../NPH.rst:927
+# 030a670d39c241dd9ecb9ec23b209d23
+msgid "Vulshok Refugee"
+msgstr ""
+
+#: ../../NPH.rst:926
+# 75e0cd9573814372af307420c8b4b695
+msgid "Protection from red"
+msgstr ""
+
+#: ../../NPH.rst:931
+# c694280cc744489b90060d9422afd8f4
+msgid "War Report"
+msgstr ""
+
+#: ../../NPH.rst:930
+# cdb9c5ef99e1488ebc91f8737c62b768
+msgid "You gain life equal to the number of creatures on the battlefield plus the number of artifacts on the battlefield."
+msgstr ""
+
+#: ../../NPH.rst:935
+# de9fa748d4fe4b7a8866c68544e11e72
+msgid "Whipflare"
+msgstr ""
+
+#: ../../NPH.rst:934
+# 4aa1334f3c7f479f918e7ce0383f02a5
+msgid "Whipflare deals 2 damage to each nonartifact creature."
+msgstr ""
+
+#: ../../NPH.rst:943
+# c2c707100773468bab4ed13e167453a7
+msgid "Whispering Specter"
+msgstr ""
+
+#: ../../NPH.rst:942
+# e480981f7f1043f8a3219262d8f246a0
+msgid "Whenever Whispering Specter deals combat damage to a player, you may sacrifice it. If you do, that player discards a card for each poison counter he or she has."
+msgstr ""
+
+#: ../../NPH.rst:949
+# 4dfbe5ea3eee4f6281d114c28ddbbc52
+msgid "Wing Splicer"
+msgstr ""
+
+#: ../../NPH.rst:946
+# bffa8e2d7cb0460bb978e3ca9cff8531
+msgid "When Wing Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield."
+msgstr ""
+
+#: ../../NPH.rst:948
+# 8e7c284b20ad449a92a9b21c5d604f19
+msgid "Golem creatures you control have flying."
+msgstr ""
+
+#: ../../NPH.rst:955
+# 8752726671034cdfb06e664ffa127520
+msgid "Xenograft"
+msgstr ""
+
+#: ../../NPH.rst:952
+# 6b387ed8fd9441fc94992f0426781bcc
+msgid "As Xenograft enters the battlefield, choose a creature type."
+msgstr ""
+
+#: ../../NPH.rst:954
+# 6d22d56548e14d659fdbcc9422981780
+msgid "Each creature you control is the chosen type in addition to its other types."
+msgstr ""
+

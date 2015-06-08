@@ -1,0 +1,3062 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-16 01:27+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../RTR.rst:5
+# 4c6cb1c43f5e4dfdb4224570c057a5bf
+msgid "Return to Ravnica"
+msgstr ""
+
+#: ../../RTR.rst:11
+# f04117ce291d4404bc4d077fa4c5fdf3
+msgid "Abrupt Decay"
+msgstr ""
+
+#: ../../RTR.rst:8
+# 9d1dbce4563345ed881c3bba00cf44b8
+msgid "Abrupt Decay can't be countered by spells or abilities."
+msgstr ""
+
+#: ../../RTR.rst:10
+# 714e2a72a3a649c1b0f88a3884041be4
+msgid "Destroy target nonland permanent with converted mana cost 3 or less."
+msgstr ""
+
+#: ../../RTR.rst:15
+# eda18c9b56fa4fbba96ba881799939a0
+msgid "Aerial Predation"
+msgstr ""
+
+#: ../../RTR.rst:14
+# fd798aaa115241af902f35b77ca2a00d
+msgid "Destroy target creature with flying. You gain 2 life."
+msgstr ""
+
+#: ../../RTR.rst:23
+# 72d454c6d7dd4b52834e2bbddeb7fef8
+msgid "Angel of Serenity"
+msgstr ""
+
+#: ../../RTR.rst:18
+#: ../../RTR.rst:34
+#: ../../RTR.rst:184
+#: ../../RTR.rst:240
+#: ../../RTR.rst:286
+#: ../../RTR.rst:292
+#: ../../RTR.rst:318
+#: ../../RTR.rst:420
+#: ../../RTR.rst:588
+#: ../../RTR.rst:594
+#: ../../RTR.rst:648
+#: ../../RTR.rst:706
+#: ../../RTR.rst:754
+#: ../../RTR.rst:776
+#: ../../RTR.rst:952
+#: ../../RTR.rst:1027
+#: ../../RTR.rst:1031
+#: ../../RTR.rst:1081
+#: ../../RTR.rst:1133
+#: ../../RTR.rst:1199
+#: ../../RTR.rst:1263
+#: ../../RTR.rst:1275
+#: ../../RTR.rst:1329
+# fde7d48a639849bb9aea240741596658
+# 1d173f051d9e45349c149ced2b2147dc
+# 2c9e05969b1c4c9899c432eb6d19c925
+# 883e223304d54c8f993c4e990db45028
+# 502d6329363b4054beb817b2ad32a3d8
+# ed6b313321fa476894ff5f9b3f0e4372
+# 38c9b9a0f52f4a9a89eec114a5711027
+# b81eedfd41dd4b1f991c2fa6a03c9681
+# 49982d673e2946489c2ca86f3ec18b83
+# cc0b4682cc0e4d9babfa29cf9fb7df93
+# a3c7a9766eb943f0a29df63c3d8f2c99
+# 9976553770ef4c1d97ac2fcabb120dd9
+# 405a07586a184f178d4cffb91a946e0f
+# af8ff489a34a45d0afe0bfb2193dc6aa
+# 400042b9076749bb9e6d4b4323affbbf
+# 4718ac3ede9847bdbc024753044fbbaf
+# 6d5d2f2318b946d79e995c259379d2ad
+# 67381372276a457798f3bd831c90d03f
+# 5954299d6e8d4ea5bcdf118d2bbae38e
+# 4b87821c58ab4236a2442821fc8748da
+# 4b19dd6125b141a3b1eb5ebad9b01735
+# 20a4a1ad5d5d41f9b4f409399d83c070
+# f2694acd6f43479ab27c56ce4427f37b
+msgid "Flying"
+msgstr ""
+
+#: ../../RTR.rst:20
+# f628f440f19e4e12b3188774829b21c5
+msgid "When Angel of Serenity enters the battlefield, you may exile up to three other target creatures from the battlefield and/or creature cards from graveyards."
+msgstr ""
+
+#: ../../RTR.rst:22
+# 6ae81111920c422dbaa9c50da9d728bf
+msgid "When Angel of Serenity leaves the battlefield, return the exiled cards to their owners' hands."
+msgstr ""
+
+#: ../../RTR.rst:27
+# 149a7ce431cf47dba221d58b6c3a98d2
+msgid "Annihilating Fire"
+msgstr ""
+
+#: ../../RTR.rst:26
+# 37ff7f6035ad43d19512a304cacf5945
+msgid "Annihilating Fire deals 3 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead."
+msgstr ""
+
+#: ../../RTR.rst:31
+# 789ef36b1b5047bd944ba1eb80692a36
+msgid "Aquus Steed"
+msgstr ""
+
+#: ../../RTR.rst:30
+# 1fba3ec63afa4be293dd1e8b4d3dacfb
+msgid "|mana_2| |mana_u|, |tap|: Target creature gets -2/-0 until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:37
+# 1ac26d06efdc42a58b237e3b277a5001
+msgid "Archon of the Triumvirate"
+msgstr ""
+
+#: ../../RTR.rst:36
+# 2855541b3dbc44d6a7f1b8417a6a5faf
+msgid "Whenever Archon of the Triumvirate attacks, detain up to two target nonland permanents your opponents control. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)"
+msgstr ""
+
+#: ../../RTR.rst:41
+# b0f15c4cdb2343b5a43c6b6bd15e535f
+msgid "Archweaver"
+msgstr ""
+
+#: ../../RTR.rst:40
+# 9c9dfbe7b069430287638c65ac1df26a
+msgid "Reach, trample"
+msgstr ""
+
+#: ../../RTR.rst:47
+# 2ab61b2799824118817021248362e31f
+msgid "Armada Wurm"
+msgstr ""
+
+#: ../../RTR.rst:44
+#: ../../RTR.rst:142
+#: ../../RTR.rst:274
+#: ../../RTR.rst:672
+#: ../../RTR.rst:692
+#: ../../RTR.rst:1293
+#: ../../RTR.rst:1321
+# a521e60a491b4c72830462f18351173c
+# b6d0d5b07dd54a3da5eebd12335c18ae
+# e59939a7af66424b95efcd314e1fa2bf
+# 3aed3cd22ef5414e8db711d8c79f2e54
+# a82b535e7f25457f980089754c04a982
+# 293576b9e3d1489c8e7e16ac1061dd57
+# bcade53760cf4f449c470efb82a23df7
+msgid "Trample"
+msgstr ""
+
+#: ../../RTR.rst:46
+# ffec4a87983441dfb4b9359b3882ffc8
+msgid "When Armada Wurm enters the battlefield, put a 5/5 green Wurm creature token with trample onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:51
+# 56f65df4b699400a87c2541aa8082b64
+msgid "Armory Guard"
+msgstr ""
+
+#: ../../RTR.rst:50
+# debbc9af96ee44e987624cc698eeb640
+msgid "Armory Guard has vigilance as long as you control a Gate."
+msgstr ""
+
+#: ../../RTR.rst:57
+# 1bfbd53407254b7a91952aeedd8bcd0e
+msgid "Arrest"
+msgstr ""
+
+#: ../../RTR.rst:54
+#: ../../RTR.rst:334
+#: ../../RTR.rst:406
+#: ../../RTR.rst:658
+#: ../../RTR.rst:810
+#: ../../RTR.rst:844
+#: ../../RTR.rst:916
+#: ../../RTR.rst:1097
+# 8580594d899e4de28682e966a1117c27
+# 93056421127c4e41bd546254dd0d87b7
+# 1437eca217514d9897b845ab4e6d13bb
+# cac9bec03fb9405386801eec12870f3a
+# aabbc8097ee84bc49c728aa03f78dadc
+# b6a31abddb254a40956cbc56f4d446df
+# 91c873e735a44245a65a89d63c365696
+# 19b14bf86fc14ff4a8017ce684e3e7c7
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../RTR.rst:56
+# ff313a349da846c2875fecc1569f1b0f
+msgid "Enchanted creature can't attack or block, and its activated abilities can't be activated."
+msgstr ""
+
+#: ../../RTR.rst:63
+# 4e1ebc277a6342c1b32e59bbe6632a1b
+msgid "Ash Zealot"
+msgstr ""
+
+#: ../../RTR.rst:60
+#: ../../RTR.rst:166
+#: ../../RTR.rst:734
+# 41d01469697341e5b23b1bb4fb763052
+# 2abeddd6d18e434f88f2079127cfdf1d
+# 2c79e2076fec4cbc8652e68f05258427
+msgid "First strike, haste"
+msgstr ""
+
+#: ../../RTR.rst:62
+# 5a5610937be647dcb7d322921b3cacd0
+msgid "Whenever a player casts a spell from a graveyard, Ash Zealot deals 3 damage to that player."
+msgstr ""
+
+#: ../../RTR.rst:67
+# dc66cf2a4b1147eaabf72b8553550a45
+msgid "Assassin's Strike"
+msgstr ""
+
+#: ../../RTR.rst:66
+# 9310302fc940452fab81e61d2137a7fc
+msgid "Destroy target creature. Its controller discards a card."
+msgstr ""
+
+#: ../../RTR.rst:71
+# 53a9ed058b594d0dac9241906d7af960
+msgid "Auger Spree"
+msgstr ""
+
+#: ../../RTR.rst:70
+# 914cb6238dc343598f99371293f22e16
+msgid "Target creature gets +4/-4 until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:75
+# 9b48a7e2acb1438eab2929d0f22b6a83
+msgid "Avenging Arrow"
+msgstr ""
+
+#: ../../RTR.rst:74
+# c437ddb3e27f4780b46965f45aea580f
+msgid "Destroy target creature that dealt damage this turn."
+msgstr ""
+
+#: ../../RTR.rst:81
+# 4c213033a60647de86aeb4b7b80aa61c
+msgid "Axebane Guardian"
+msgstr ""
+
+#: ../../RTR.rst:78
+#: ../../RTR.rst:344
+#: ../../RTR.rst:446
+#: ../../RTR.rst:684
+#: ../../RTR.rst:788
+#: ../../RTR.rst:1229
+# 6e7a475a48fd4e8ab29010bd3308029f
+# 91ac89f3a2554baa8beb2d340a37dd3c
+# 98c9209037214318bd45a5917baf605b
+# 1ea281fb5db74288973cd54f1529496c
+# 4c93ff6f39fc47608965f9bcd022294b
+# 2814d5fb93a44d099618473f6993e462
+msgid "Defender"
+msgstr ""
+
+#: ../../RTR.rst:80
+# 768b80b356d54127a184ada1f5b074ab
+msgid "|tap|: Add X mana in any combination of colors to your mana pool, where X is the number of creatures with defender you control."
+msgstr ""
+
+#: ../../RTR.rst:83
+# f4c40d8ff8b84bd8bb952cbe548b3371
+msgid "Axebane Stag"
+msgstr ""
+
+#: ../../RTR.rst:89
+# d4232c8b7a4d417a90dc8f3b43087868
+msgid "Azorius Arrester"
+msgstr ""
+
+#: ../../RTR.rst:88
+# 8ac9d017d3674605bd97c1a93a520ba6
+msgid "When Azorius Arrester enters the battlefield, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)"
+msgstr ""
+
+#: ../../RTR.rst:95
+# 3ab7527c60ec43bbbbfcd9e7d0886982
+msgid "Azorius Charm"
+msgstr ""
+
+#: ../../RTR.rst:92
+# 871b8947648b4e6c9e4abdb9f07ffc4d
+msgid "Choose one — Creatures you control gain lifelink until end of turn; or draw a card; or put target attacking or blocking creature on top of its owner's library."
+msgstr ""
+
+#: ../../RTR.rst:101
+# 70a6c98a2ef24992b31347a93f6990a6
+msgid "Azorius Guildgate"
+msgstr ""
+
+#: ../../RTR.rst:98
+# f68ec92e250648bf858288beb85a499d
+msgid "Azorius Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../RTR.rst:100
+#: ../../RTR.rst:108
+# 41b0f1802a374d43bb1918d24e0bf68a
+# a1b38bfdb2b041bc84b30e3707e8e105
+msgid "|tap|: Add |mana_w| or |mana_u| to your mana pool."
+msgstr ""
+
+#: ../../RTR.rst:105
+# 9d232f25d62e4be9b3aae7653913e23e
+msgid "Azorius Justiciar"
+msgstr ""
+
+#: ../../RTR.rst:104
+# 02069ed9f1ef47afad09f19abdd92047
+msgid "When Azorius Justiciar enters the battlefield, detain up to two target creatures your opponents control. (Until your next turn, those creatures can't attack or block and their activated abilities can't be activated.)"
+msgstr ""
+
+#: ../../RTR.rst:111
+# 23ecfbc3ee4b4261b910e0e47ffa2a09
+msgid "Azorius Keyrune"
+msgstr ""
+
+#: ../../RTR.rst:110
+# 83b23186441d4710912092008081ca4c
+msgid "|mana_w| |mana_u|: Azorius Keyrune becomes a 2/2 white and blue Bird artifact creature with flying until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:117
+# 165ac4ba96ef4265beea4cafe9b1a37a
+msgid "Azor's Elocutors"
+msgstr ""
+
+#: ../../RTR.rst:114
+# 0052b5b5418f40d28bf873d259671c4a
+msgid "At the beginning of your upkeep, put a filibuster counter on Azor's Elocutors. Then if Azor's Elocutors has five or more filibuster counters on it, you win the game."
+msgstr ""
+
+#: ../../RTR.rst:116
+# aedcd06ba2ef4f069a96298c8f863911
+msgid "Whenever a source deals damage to you, remove a filibuster counter from Azor's Elocutors."
+msgstr ""
+
+#: ../../RTR.rst:121
+# 8ee7398f86ee419cbdd99af0ded9d0de
+msgid "Batterhorn"
+msgstr ""
+
+#: ../../RTR.rst:120
+# d7d5f553c12d45859549f73375d3be23
+msgid "When Batterhorn enters the battlefield, you may destroy target artifact."
+msgstr ""
+
+#: ../../RTR.rst:125
+# 3b78d79b8f3d46e2adc1588aa3dd58fe
+msgid "Bazaar Krovod"
+msgstr ""
+
+#: ../../RTR.rst:124
+# 037fa96f767f4915af1f232cbe5a84e6
+msgid "Whenever Bazaar Krovod attacks, another target attacking creature gets +0/+2 until end of turn. Untap that creature."
+msgstr ""
+
+#: ../../RTR.rst:129
+# 855516a4c6c346ab871707efab2b2cd1
+msgid "Bellows Lizard"
+msgstr ""
+
+#: ../../RTR.rst:128
+# dc1fd5fb59f049338b8d26276c70b578
+msgid "|mana_1| |mana_r|: Bellows Lizard gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:133
+# b60d9e38aef04661a88cfb3140ad7a33
+msgid "Blistercoil Weird"
+msgstr ""
+
+#: ../../RTR.rst:132
+# e31f695b0ee84766a4fa42e05c3c4704
+msgid "Whenever you cast an instant or sorcery spell, Blistercoil Weird gets +1/+1 until end of turn. Untap it."
+msgstr ""
+
+#: ../../RTR.rst:139
+# 7b43ba312f9849d49b1fd81fe2f8a146
+msgid "Blood Crypt"
+msgstr ""
+
+#: ../../RTR.rst:136
+# f94a171f4ce744b894333f1836cc1fe8
+msgid "(|tap|: Add |mana_b| or |mana_r| to your mana pool.)"
+msgstr ""
+
+#: ../../RTR.rst:138
+# 5543d4fabd5b41acaa3e3ddff480123e
+msgid "As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, Blood Crypt enters the battlefield tapped."
+msgstr ""
+
+#: ../../RTR.rst:145
+# 9516d15fff4c4bd9abb7a80b9f19d4dc
+msgid "Bloodfray Giant"
+msgstr ""
+
+#: ../../RTR.rst:144
+#: ../../RTR.rst:168
+#: ../../RTR.rst:186
+#: ../../RTR.rst:298
+#: ../../RTR.rst:496
+#: ../../RTR.rst:504
+#: ../../RTR.rst:544
+#: ../../RTR.rst:860
+#: ../../RTR.rst:1073
+#: ../../RTR.rst:1093
+#: ../../RTR.rst:1195
+# 260d8e40202442188e68f6c48ed78e75
+# 00ac5ba07d92438a9780cbbfb94e5296
+# 2dfe84b0cbee456ba55d39c769a850ed
+# a16270464df44fc18420354d9e21b727
+# 1e3a71c83550497c83d3104067f5e522
+# de6820adff884d3fbfd01aee6ab5418f
+# 18f4e62c427647e19bf4822243f1a84d
+# 942e8fe3a1674149aa535420db02c4d9
+# 4c76f87027b3445c84b530a290e6cce1
+# e64dc130cbd8405d810bce18c867f1f2
+# 58bb9ee10245490db348fde038c5e21a
+msgid "Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../RTR.rst:151
+# 794f460b72aa4e93915a567b7cce3046
+msgid "Blustersquall"
+msgstr ""
+
+#: ../../RTR.rst:148
+# db336ee7d2084f90826100be56e84010
+msgid "Tap target creature you don't control."
+msgstr ""
+
+#: ../../RTR.rst:150
+# f7a7a0b79f0e45b0a1c5ad6adf3217d2
+msgid "Overload |mana_3| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
+msgstr ""
+
+#: ../../RTR.rst:155
+# 132168e5b6c64766b053feab52bb958c
+msgid "Brushstrider"
+msgstr ""
+
+#: ../../RTR.rst:154
+#: ../../RTR.rst:564
+#: ../../RTR.rst:924
+# f88b46cd219a4045ae845aee6ec70344
+# 6cb7580a68cf469cbbcf69b869e7d2ea
+# abb28eb02bd148108d1bb1ac540a1eae
+msgid "Vigilance"
+msgstr ""
+
+#: ../../RTR.rst:159
+# 9ddc60c1310440f0935f3ead4c84242b
+msgid "Call of the Conclave"
+msgstr ""
+
+#: ../../RTR.rst:158
+# 551c7d46777d43d3aa9b02ca1a20a742
+msgid "Put a 3/3 green Centaur creature token onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:163
+# 5cfd2cefebfe45dda9b3811cd45067ac
+msgid "Cancel"
+msgstr ""
+
+#: ../../RTR.rst:162
+# bc6f27526f704c75bebbcca86a59fce3
+msgid "Counter target spell."
+msgstr ""
+
+#: ../../RTR.rst:169
+# 6d9c4e52460b4c2cbbe770893df28c6a
+msgid "Carnival Hellsteed"
+msgstr ""
+
+#: ../../RTR.rst:171
+# 185a8aed17f640789debbbaa04cb996a
+msgid "Catacomb Slug"
+msgstr ""
+
+#: ../../RTR.rst:177
+# 9397776c14e5451191ddef95d67eed85
+msgid "Centaur Healer"
+msgstr ""
+
+#: ../../RTR.rst:176
+# 979afc5fff564970b273e92fe5165ff1
+msgid "When Centaur Healer enters the battlefield, you gain 3 life."
+msgstr ""
+
+#: ../../RTR.rst:181
+# b7a6bb0d00ae45be8d46fbc59168cd19
+msgid "Centaur's Herald"
+msgstr ""
+
+#: ../../RTR.rst:180
+# 983d657ce6654153984322b36c6ab2d1
+msgid "|mana_2| |mana_g|, Sacrifice Centaur's Herald: Put a 3/3 green Centaur creature token onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:189
+# ccf222c7a4e34671bb414370d70c9739
+msgid "Chaos Imps"
+msgstr ""
+
+#: ../../RTR.rst:188
+# 6877a9e6ffa444d783d9ba60d07466e8
+msgid "Chaos Imps has trample as long as it has a +1/+1 counter on it."
+msgstr ""
+
+#: ../../RTR.rst:195
+# 0ad758ea01e04b7fa983b841bd0bfa73
+msgid "Chemister's Trick"
+msgstr ""
+
+#: ../../RTR.rst:192
+# e2c6608c571944ee920926d81c635293
+msgid "Target creature you don't control gets -2/-0 until end of turn and attacks this turn if able."
+msgstr ""
+
+#: ../../RTR.rst:194
+#: ../../RTR.rst:1171
+# 81f76476181b4ee69093589ec207b1ef
+# 20bd8ae1b72e49a7bb4cdc6925a9c18b
+msgid "Overload |mana_3| |mana_u| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
+msgstr ""
+
+#: ../../RTR.rst:199
+# 1242ba8d3b024720b4ce2fc21864ebb4
+msgid "Chorus of Might"
+msgstr ""
+
+#: ../../RTR.rst:198
+# 02fb2195f93b450ab1b2c3d319fd9c7b
+msgid "Until end of turn, target creature gets +1/+1 for each creature you control and gains trample."
+msgstr ""
+
+#: ../../RTR.rst:205
+# 985ca21d5b9643d282cc6af79afe07ed
+msgid "Chromatic Lantern"
+msgstr ""
+
+#: ../../RTR.rst:202
+# 71ee73842c1c4ccca381fed2e4cfbf10
+msgid "Lands you control have \\\"|tap|: Add one mana of any color to your mana pool.\\\""
+msgstr ""
+
+#: ../../RTR.rst:204
+#: ../../RTR.rst:1221
+# 03d50b0e735546da8db21df8848d0b0c
+# 1a8effd803af4ef9b24bd08d26c9b2a2
+msgid "|tap|: Add one mana of any color to your mana pool."
+msgstr ""
+
+#: ../../RTR.rst:211
+# 6cbdf3771f9f4f53b3bcf23224bd8a9e
+msgid "Chronic Flooding"
+msgstr ""
+
+#: ../../RTR.rst:208
+#: ../../RTR.rst:854
+#: ../../RTR.rst:972
+#: ../../RTR.rst:1251
+#: ../../RTR.rst:1257
+# 4a60121a25e74806bf84d24b15556be4
+# ed3390d840634449baf3637bf663a8ec
+# 6d9dfad6c88746e39faa409ab4c02441
+# a1b278738a1f4259862d379f109899fb
+# 4b869868e4de419eb70dd468cf5155e7
+msgid "Enchant land"
+msgstr ""
+
+#: ../../RTR.rst:210
+# fd5eea2b1224496c9facc0badc9d875a
+msgid "Whenever enchanted land becomes tapped, its controller puts the top three cards of his or her library into his or her graveyard."
+msgstr ""
+
+#: ../../RTR.rst:217
+# f4f9749c10064d93a9d44e19b9822737
+msgid "Civic Saber"
+msgstr ""
+
+#: ../../RTR.rst:214
+# be622a0ac23e4dd0833cce3ceb6c5096
+msgid "Equipped creature gets +1/+0 for each of its colors."
+msgstr ""
+
+#: ../../RTR.rst:216
+# 158de28994ec4ba6a6a090ae9c8096bd
+msgid "Equip |mana_1|"
+msgstr ""
+
+#: ../../RTR.rst:219
+# 6346bff1c3994dd28b2c029cf392ecf2
+msgid "Cobblebrute"
+msgstr ""
+
+#: ../../RTR.rst:227
+# b89c854aadee41e99cdd751172e03cae
+msgid "Codex Shredder"
+msgstr ""
+
+#: ../../RTR.rst:224
+# 09ed3139ca124d57b670a22703973dd9
+msgid "|tap|: Target player puts the top card of his or her library into his or her graveyard."
+msgstr ""
+
+#: ../../RTR.rst:226
+# fe56a5a18b734942bce9112858f4f9d6
+msgid "|mana_5|, |tap|, Sacrifice Codex Shredder: Return target card from your graveyard to your hand."
+msgstr ""
+
+#: ../../RTR.rst:231
+# 9ab3b8c67fc84b5ca7b8bf650cb079e1
+msgid "Collective Blessing"
+msgstr ""
+
+#: ../../RTR.rst:230
+# 4921e00b249e416e8c48453ce3d524a9
+msgid "Creatures you control get +3/+3."
+msgstr ""
+
+#: ../../RTR.rst:237
+# e883134e7af14aeba1b34559ca20a007
+msgid "Common Bond"
+msgstr ""
+
+#: ../../RTR.rst:234
+#: ../../RTR.rst:236
+# 2b47708fcf6944a999455b0ef15f4643
+# d4bfbb2d88c44cabb3326bd146c18935
+msgid "Put a +1/+1 counter on target creature."
+msgstr ""
+
+#: ../../RTR.rst:241
+# 5ab4c00b127946be84d5001cc5353ae0
+msgid "Concordia Pegasus"
+msgstr ""
+
+#: ../../RTR.rst:245
+# e6ce3dd756af4c9598f8f47acb450984
+msgid "Conjured Currency"
+msgstr ""
+
+#: ../../RTR.rst:244
+# 91397772371d45668b67deb487e386c1
+msgid "At the beginning of your upkeep, you may exchange control of Conjured Currency and target permanent you neither own nor control."
+msgstr ""
+
+#: ../../RTR.rst:249
+# 4d288c71292c43c490fe59809a60492a
+msgid "Corpsejack Menace"
+msgstr ""
+
+#: ../../RTR.rst:248
+# e3745c79b7654549892d2257ceb966ba
+msgid "If one or more +1/+1 counters would be placed on a creature you control, twice that many +1/+1 counters are placed on it instead."
+msgstr ""
+
+#: ../../RTR.rst:257
+# 24106c3032514b75ad37d2dbf6fac7ab
+msgid "Counterflux"
+msgstr ""
+
+#: ../../RTR.rst:252
+# 09fa5cc1629b41e1a4211dba67848359
+msgid "Counterflux can't be countered by spells or abilities."
+msgstr ""
+
+#: ../../RTR.rst:254
+# 5d169f742d1d4af2bf7f6109ca41614d
+msgid "Counter target spell you don't control."
+msgstr ""
+
+#: ../../RTR.rst:256
+# f354fdea17894c30bfb27f140f805baa
+msgid "Overload |mana_1| |mana_u| |mana_u| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
+msgstr ""
+
+#: ../../RTR.rst:261
+# bb71383d27694bb5874fab5124bf14bf
+msgid "Coursers' Accord"
+msgstr ""
+
+#: ../../RTR.rst:260
+# 4ae9e3dbf6f346e19cf66a7ffa1f6d84
+msgid "Put a 3/3 green Centaur creature token onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
+msgstr ""
+
+#: ../../RTR.rst:267
+# 0e4e4b1c080a454c992a63df1d74a09d
+msgid "Cremate"
+msgstr ""
+
+#: ../../RTR.rst:264
+# 1368f9a6c8bb4ec185a5feb7767bc2b6
+msgid "Exile target card from a graveyard."
+msgstr ""
+
+#: ../../RTR.rst:266
+#: ../../RTR.rst:576
+# 5a5808aa3e584f06951f5246cba4114b
+# 1639d8d0d04e4442ae0ed12c98a0910c
+msgid "Draw a card."
+msgstr ""
+
+#: ../../RTR.rst:271
+# 41ab82e346464bf6b2eeac5568fcaea9
+msgid "Crosstown Courier"
+msgstr ""
+
+#: ../../RTR.rst:270
+# a89efe3598de44ecaa399480088dedf9
+msgid "Whenever Crosstown Courier deals combat damage to a player, that player puts that many cards from the top of his or her library into his or her graveyard."
+msgstr ""
+
+#: ../../RTR.rst:277
+# 92631269f03e4f66b77e6353a49a2536
+msgid "Cryptborn Horror"
+msgstr ""
+
+#: ../../RTR.rst:276
+# 21d1805013584af1ab2d49829fb93dd4
+msgid "Cryptborn Horror enters the battlefield with X +1/+1 counters on it, where X is the total life lost by your opponents this turn."
+msgstr ""
+
+#: ../../RTR.rst:283
+# edab0c5282e54b1ea8dbc8c384bda0d9
+msgid "Cyclonic Rift"
+msgstr ""
+
+#: ../../RTR.rst:280
+# e9fb2ce91fed46249b734b95aa323e15
+msgid "Return target nonland permanent you don't control to its owner's hand."
+msgstr ""
+
+#: ../../RTR.rst:282
+# 64267feeacd145d9b18f9523983126b9
+msgid "Overload |mana_6| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
+msgstr ""
+
+#: ../../RTR.rst:289
+# bfbe1bd9afb844b1bf9b8e246c5a5106
+msgid "Daggerdrome Imp"
+msgstr ""
+
+#: ../../RTR.rst:288
+#: ../../RTR.rst:1209
+# 1d7c44817bb24ec2b7dfbb82c94cfd92
+# f2714259bd8f4dd0a13451c4d0840cf6
+msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
+msgstr ""
+
+#: ../../RTR.rst:295
+# 4389718200344f7b903251f26249cf86
+msgid "Dark Revenant"
+msgstr ""
+
+#: ../../RTR.rst:294
+# ed96ee96ec294c208c0bd981463c7726
+msgid "When Dark Revenant dies, put it on top of its owner's library."
+msgstr ""
+
+#: ../../RTR.rst:299
+# c42b6fcc2a284b3cbc93557d00baafe1
+msgid "Dead Reveler"
+msgstr ""
+
+#: ../../RTR.rst:303
+# 9696118ab78147b19c9e677212cd9712
+msgid "Deadbridge Goliath"
+msgstr ""
+
+#: ../../RTR.rst:302
+# f6b5b4df5a8a40afa27d3f549ded8569
+msgid "Scavenge |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgstr ""
+
+#: ../../RTR.rst:311
+# 279bd41e6abb47ae805b13f3529405f6
+msgid "Deathrite Shaman"
+msgstr ""
+
+#: ../../RTR.rst:306
+# 56b3e15a74ba402d9c1e3c0b084f518a
+msgid "|tap|: Exile target land card from a graveyard. Add one mana of any color to your mana pool."
+msgstr ""
+
+#: ../../RTR.rst:308
+# 3429bcdf648744028f612ccdb034336e
+msgid "|mana_b|, |tap|: Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life."
+msgstr ""
+
+#: ../../RTR.rst:310
+# e02bea4a3128441f9ae65a2b2efa0e10
+msgid "|mana_g|, |tap|: Exile target creature card from a graveyard. You gain 2 life."
+msgstr ""
+
+#: ../../RTR.rst:315
+# ec5e93651d54434facc5307f054990d1
+msgid "Death's Presence"
+msgstr ""
+
+#: ../../RTR.rst:314
+# ac9db97a76984c52a59842c7b11eb96d
+msgid "Whenever a creature you control dies, put X +1/+1 counters on target creature you control, where X is the power of the creature that died."
+msgstr ""
+
+#: ../../RTR.rst:321
+# 3752bf5a376e46b486d74b0debffaf22
+msgid "Desecration Demon"
+msgstr ""
+
+#: ../../RTR.rst:320
+# 963b8f4c6824470e9bf32739b11843d3
+msgid "At the beginning of each combat, any opponent may sacrifice a creature. If a player does, tap Desecration Demon and put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../RTR.rst:325
+# 4d95c10627dc49a9a35e2a79dcbb929c
+msgid "Destroy the Evidence"
+msgstr ""
+
+#: ../../RTR.rst:324
+# cb43894a777e482aac4b62b8028e1c31
+msgid "Destroy target land. Its controller reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard."
+msgstr ""
+
+#: ../../RTR.rst:331
+# 664501abd5de476c829ee42705349ab4
+msgid "Detention Sphere"
+msgstr ""
+
+#: ../../RTR.rst:328
+# 89d1bd4f8ba94cfaa05a573f4cd0eecb
+msgid "When Detention Sphere enters the battlefield, you may exile target nonland permanent not named Detention Sphere and all other permanents with the same name as that permanent."
+msgstr ""
+
+#: ../../RTR.rst:330
+# f0a9adb021da4751bdd1913a6969bce6
+msgid "When Detention Sphere leaves the battlefield, return the exiled cards to the battlefield under their owner's control."
+msgstr ""
+
+#: ../../RTR.rst:337
+# 612d829e1d7941eb813000b4e104d3da
+msgid "Deviant Glee"
+msgstr ""
+
+#: ../../RTR.rst:336
+# 0350997dd98a456da5115b351a651bae
+msgid "Enchanted creature gets +2/+1 and has \\\"|mana_r|: This creature gains trample until end of turn.\\\""
+msgstr ""
+
+#: ../../RTR.rst:341
+# dbe58a6fc8be40d68dbab13195127746
+msgid "Dispel"
+msgstr ""
+
+#: ../../RTR.rst:340
+# 89b9ed86744c4ac29ccec4979f7071c8
+msgid "Counter target instant spell."
+msgstr ""
+
+#: ../../RTR.rst:347
+# a95316be23354b9981d8eaa2b05b129c
+msgid "Doorkeeper"
+msgstr ""
+
+#: ../../RTR.rst:346
+# d4e2889c2e9c44bdb322c8a7ecb78953
+msgid "|mana_2| |mana_u|, |tap|: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of creatures with defender you control."
+msgstr ""
+
+#: ../../RTR.rst:353
+# 255dc3a08e6c4a86a7fd48bc367bb035
+msgid "Downsize"
+msgstr ""
+
+#: ../../RTR.rst:350
+# 0409f9056c6b4eea866095fadca36b88
+msgid "Target creature you don't control gets -4/-0 until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:352
+# d842eab3593348028fa9687f70ab04cb
+msgid "Overload |mana_2| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
+msgstr ""
+
+#: ../../RTR.rst:357
+# 9d2e88385e8342e48177d07a4b518595
+msgid "Drainpipe Vermin"
+msgstr ""
+
+#: ../../RTR.rst:356
+# 8b96fe678aa54c198f463060288963cd
+msgid "When Drainpipe Vermin dies, you may pay |mana_b|. If you do, target player discards a card."
+msgstr ""
+
+#: ../../RTR.rst:361
+# 070895e39b184d8c82ad30d70821731d
+msgid "Dramatic Rescue"
+msgstr ""
+
+#: ../../RTR.rst:360
+# 5d60aa758f0c42739ee52a5e36274814
+msgid "Return target creature to its owner's hand. You gain 2 life."
+msgstr ""
+
+#: ../../RTR.rst:365
+# c7159d9ee14a4b3fbdf1cb7cfe8e3b81
+msgid "Dreadbore"
+msgstr ""
+
+#: ../../RTR.rst:364
+# 83b00d7ec0254a8892f809c68b5b2c68
+msgid "Destroy target creature or planeswalker."
+msgstr ""
+
+#: ../../RTR.rst:371
+# d6f5e9011a064605a2e7e619279cdd09
+msgid "Dreg Mangler"
+msgstr ""
+
+#: ../../RTR.rst:368
+#: ../../RTR.rst:622
+#: ../../RTR.rst:894
+#: ../../RTR.rst:1181
+# 43ece697abbc4c4c817ca03fb28efb96
+# 7076d62729234e68819ae56ef33b3b0f
+# a61f9ba1284f4041b4e7f1aa03fde09c
+# 101cf64058dd4048aa3bc36efb557022
+msgid "Haste"
+msgstr ""
+
+#: ../../RTR.rst:370
+# 42edf2759dbf40b98f116d2c2c7ca136
+msgid "Scavenge |mana_3| |mana_b| |mana_g| (|mana_3| |mana_b| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgstr ""
+
+#: ../../RTR.rst:375
+# 0898664fcca34351b3a594c79dcb7940
+msgid "Drudge Beetle"
+msgstr ""
+
+#: ../../RTR.rst:374
+# 825022fc07384fb59a63d9716ab0a410
+msgid "Scavenge |mana_5| |mana_g| (|mana_5| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgstr ""
+
+#: ../../RTR.rst:379
+# 9ab722f13b064a54bc68c44003271d31
+msgid "Druid's Deliverance"
+msgstr ""
+
+#: ../../RTR.rst:378
+# 6e47fa700bc443e0a6a5af45a676d4e2
+msgid "Prevent all combat damage that would be dealt to you this turn. Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
+msgstr ""
+
+#: ../../RTR.rst:383
+# 650d905ed7794bc3a1d6848ab24869f5
+msgid "Dryad Militant"
+msgstr ""
+
+#: ../../RTR.rst:382
+# 852bc288fe3c43d999b912ab0c23b034
+msgid "If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead."
+msgstr ""
+
+#: ../../RTR.rst:389
+# e0ac8acd17f14f66b403eb7000c6c9dd
+msgid "Dynacharge"
+msgstr ""
+
+#: ../../RTR.rst:386
+# 91a422eca6e149ed8fd5f9d20f619b2d
+msgid "Target creature you control gets +2/+0 until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:388
+# 4454377c19dc490f8a0af8e4d18d6d0e
+msgid "Overload |mana_2| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
+msgstr ""
+
+#: ../../RTR.rst:395
+# dc694e000e054de4bd80391ec871640f
+msgid "Electrickery"
+msgstr ""
+
+#: ../../RTR.rst:392
+# ab9e07a099954436bbc65d2c0f435dc9
+msgid "Electrickery deals 1 damage to target creature you don't control."
+msgstr ""
+
+#: ../../RTR.rst:394
+# 438eeec9499c4d0aaf137054a8fb3bc2
+msgid "Overload |mana_1| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
+msgstr ""
+
+#: ../../RTR.rst:399
+# dbd65746b0da46f9a8e714afedd1ae39
+msgid "Epic Experiment"
+msgstr ""
+
+#: ../../RTR.rst:398
+# 874dce6de4ae49b09e8075694f485d76
+msgid "Exile the top X cards of your library. For each instant and sorcery card with converted mana cost X or less among them, you may cast that card without paying its mana cost. Then put all cards exiled this way that weren't cast into your graveyard."
+msgstr ""
+
+#: ../../RTR.rst:403
+# ca0c1dae216342a1b825f8af3408ef72
+msgid "Essence Backlash"
+msgstr ""
+
+#: ../../RTR.rst:402
+# e7a7d2762a5a4c5e895d70ccd095d91a
+msgid "Counter target creature spell. Essence Backlash deals damage equal to that spell's power to its controller."
+msgstr ""
+
+#: ../../RTR.rst:409
+# c49b10cbf3ab442396579ea058dc1743
+msgid "Ethereal Armor"
+msgstr ""
+
+#: ../../RTR.rst:408
+# 718197fff8774d53a27b9dbc0a898397
+msgid "Enchanted creature gets +1/+1 for each enchantment you control and has first strike."
+msgstr ""
+
+#: ../../RTR.rst:413
+# d54d83d6a8494bc3bba3aace33982a46
+msgid "Explosive Impact"
+msgstr ""
+
+#: ../../RTR.rst:412
+# eb93cb3c82cb4bd880c46f66ff8ea7fc
+msgid "Explosive Impact deals 5 damage to target creature or player."
+msgstr ""
+
+#: ../../RTR.rst:417
+# 1b8c3f5b1c31495782fb77827254bb98
+msgid "Eyes in the Skies"
+msgstr ""
+
+#: ../../RTR.rst:416
+# 909abdb3925d4005b005955760ad4343
+msgid "Put a 1/1 white Bird creature token with flying onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
+msgstr ""
+
+#: ../../RTR.rst:423
+# 86a8cb1e2c624a199883455b8c01731f
+msgid "Faerie Impostor"
+msgstr ""
+
+#: ../../RTR.rst:422
+# 878954b4dde3474b85b51a6f9e92539b
+msgid "When Faerie Impostor enters the battlefield, sacrifice it unless you return another creature you control to its owner's hand."
+msgstr ""
+
+#: ../../RTR.rst:427
+# e9d34a8bb353482d89faf4f2ddf5c01e
+msgid "Fall of the Gavel"
+msgstr ""
+
+#: ../../RTR.rst:426
+# c2cce2010c184fcba30292e87776f5e3
+msgid "Counter target spell. You gain 5 life."
+msgstr ""
+
+#: ../../RTR.rst:431
+# e819bdef24ed4ddb9f9196a99ab620e3
+msgid "Fencing Ace"
+msgstr ""
+
+#: ../../RTR.rst:430
+# 14dc422af902463f92ddf79d292cda27
+msgid "Double strike (This creature deals both first-strike and regular combat damage.)"
+msgstr ""
+
+#: ../../RTR.rst:435
+# ab45c9e8260d4d5cb1445a78163c39ee
+msgid "Firemind's Foresight"
+msgstr ""
+
+#: ../../RTR.rst:434
+# 94340748127e48d88fefe6dfedb041f1
+msgid "Search your library for an instant card with converted mana cost 3, reveal it, and put it into your hand. Then repeat this process for instant cards with converted mana costs 2 and 1. Then shuffle your library."
+msgstr ""
+
+#: ../../RTR.rst:439
+# 1a96ee68096d4eb19a2830416336f10e
+msgid "Forest"
+msgstr ""
+
+#: ../../RTR.rst:438
+# ac707d90414a47d5b698db4e39bbca6c
+msgid "G"
+msgstr ""
+
+#: ../../RTR.rst:443
+# 705d89217bff4c78b6b12c6d7d7d50c8
+msgid "Frostburn Weird"
+msgstr ""
+
+#: ../../RTR.rst:442
+# 5e514cdf148b4c54aad1bdcc924b83ce
+msgid "|mana_ur|: Frostburn Weird gets +1/-1 until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:449
+# 5ba5253a3e8041c9893608fe848e4fa2
+msgid "Gatecreeper Vine"
+msgstr ""
+
+#: ../../RTR.rst:448
+# b2d26c8e8f3848b397118966bd146b83
+msgid "When Gatecreeper Vine enters the battlefield, you may search your library for a basic land card or a Gate card, reveal it, put it into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../RTR.rst:453
+# 4999296606854515a576da1eafe2abb6
+msgid "Giant Growth"
+msgstr ""
+
+#: ../../RTR.rst:452
+# 4df87d3d2785408388f56868e7151c58
+msgid "Target creature gets +3/+3 until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:457
+# 6ea4572d085646b0a9b164fd5e7f8a57
+msgid "Gobbling Ooze"
+msgstr ""
+
+#: ../../RTR.rst:456
+# cb6d2ff37ea846069d3dc7e6bbfac8d3
+msgid "|mana_g|, Sacrifice another creature: Put a +1/+1 counter on Gobbling Ooze."
+msgstr ""
+
+#: ../../RTR.rst:461
+# 0f670be54ed14df1bf5a5b71382911f0
+msgid "Goblin Electromancer"
+msgstr ""
+
+#: ../../RTR.rst:460
+# e3f9ad4305bd4819830ad10919a402cc
+msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../RTR.rst:465
+# da87610a0d0f4e6d810a1e23eadb3fd6
+msgid "Goblin Rally"
+msgstr ""
+
+#: ../../RTR.rst:464
+# d8f6689b22ab4746af67b58c0f6f29ae
+msgid "Put four 1/1 red Goblin creature tokens onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:471
+# 9382a688a7b64938910890563811bc4f
+msgid "Golgari Charm"
+msgstr ""
+
+#: ../../RTR.rst:468
+# e9d850eda0124216b71114731b3d950e
+msgid "Choose one — All creatures get -1/-1 until end of turn; or destroy target enchantment; or regenerate each creature you control."
+msgstr ""
+
+#: ../../RTR.rst:477
+# 895fbacafb454ee6bbba31a21f2b06e1
+msgid "Golgari Decoy"
+msgstr ""
+
+#: ../../RTR.rst:474
+# 598a28bfcc7a492d91af794aaa0f40d2
+msgid "All creatures able to block Golgari Decoy do so."
+msgstr ""
+
+#: ../../RTR.rst:476
+# be5679e1cda249a8aab56e1fe73d62e3
+msgid "Scavenge |mana_3| |mana_g| |mana_g| (|mana_3| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgstr ""
+
+#: ../../RTR.rst:483
+# 65dcc57d0b8f4e5893b29c1391eef43d
+msgid "Golgari Guildgate"
+msgstr ""
+
+#: ../../RTR.rst:480
+# 3605113256324cc5b9520db9b9959b04
+msgid "Golgari Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../RTR.rst:482
+#: ../../RTR.rst:486
+# 95e9c61121cb4f02aa1d17213d3ada60
+# dcf9fd3b0bc44b03a4c656a9ec0826f9
+msgid "|tap|: Add |mana_b| or |mana_g| to your mana pool."
+msgstr ""
+
+#: ../../RTR.rst:489
+# 2edfd0d292f6451caa948b80bedc178d
+msgid "Golgari Keyrune"
+msgstr ""
+
+#: ../../RTR.rst:488
+# 1048b556448e433f89adec9a1a51b53b
+msgid "|mana_b| |mana_g|: Golgari Keyrune becomes a 2/2 black and green Insect artifact creature with deathtouch until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:491
+# f40409a08e444367938817b0913d69d1
+msgid "Golgari Longlegs"
+msgstr ""
+
+#: ../../RTR.rst:497
+# 3acc5cbf0d934364a4163795c2f0d069
+msgid "Gore-House Chainwalker"
+msgstr ""
+
+#: ../../RTR.rst:501
+# 90a454503eb14a848ddb4cdd415497f5
+msgid "Grave Betrayal"
+msgstr ""
+
+#: ../../RTR.rst:500
+# c22aa0f8ad81474583880166e3a96113
+msgid "Whenever a creature you don't control dies, return it to the battlefield under your control with an additional +1/+1 counter on it at the beginning of the next end step. That creature is a black Zombie in addition to its other colors and types."
+msgstr ""
+
+#: ../../RTR.rst:507
+# 25ca909610db4f2e83c8bbb6f61fb5ad
+msgid "Grim Roustabout"
+msgstr ""
+
+#: ../../RTR.rst:506
+# 6f759dadfa5f4a50af5b9640dfb2216d
+msgid "|mana_1| |mana_b|: Regenerate Grim Roustabout."
+msgstr ""
+
+#: ../../RTR.rst:511
+# 7bdb88ca450d469a8986410ddde9a0c8
+msgid "Grisly Salvage"
+msgstr ""
+
+#: ../../RTR.rst:510
+# db19ec6e73ce42b3988450e2fadffe6a
+msgid "Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard."
+msgstr ""
+
+#: ../../RTR.rst:517
+# 0316548f694e4bb894d6832de00dd845
+msgid "Grove of the Guardian"
+msgstr ""
+
+#: ../../RTR.rst:514
+#: ../../RTR.rst:938
+# e8f61361042f4312a19a9c56c935cd76
+# 73e2a07dce5a408eb5d188eb8ea615a2
+msgid "|tap|: Add |mana_1| to your mana pool."
+msgstr ""
+
+#: ../../RTR.rst:516
+# fd9f2c882ce04982846d7ae50b2bf0ff
+msgid "|mana_3| |mana_g| |mana_w|, |tap|, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Put an 8/8 green and white Elemental creature token with vigilance onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:521
+# 513c2aa7a96347aab78bebbf216312f6
+msgid "Growing Ranks"
+msgstr ""
+
+#: ../../RTR.rst:520
+# 698bddffc19247ad8d5129805f49e27b
+msgid "At the beginning of your upkeep, populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
+msgstr ""
+
+#: ../../RTR.rst:525
+# 71753a0b55b143229b64ecef6e056d47
+msgid "Guild Feud"
+msgstr ""
+
+#: ../../RTR.rst:524
+# 4496206963814e40bbe47a1a381cbbe3
+msgid "At the beginning of your upkeep, target opponent reveals the top three cards of his or her library, may put a creature card from among them onto the battlefield, then puts the rest into his or her graveyard. You do the same with the top three cards of your library. If two creatures are put onto the battlefield this way, those creatures fight each other."
+msgstr ""
+
+#: ../../RTR.rst:529
+# 8df5a9a2f4e64e2c8df8b97690d33a52
+msgid "Guttersnipe"
+msgstr ""
+
+#: ../../RTR.rst:528
+# 720c8312455f41aba0c0aad2ded83648
+msgid "Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent."
+msgstr ""
+
+#: ../../RTR.rst:535
+# 9b89ad56e0c742dc99f6b9b2d3cc3fdf
+msgid "Hallowed Fountain"
+msgstr ""
+
+#: ../../RTR.rst:532
+# 3f069af162fc4c21aacb27b1532ef2a1
+msgid "(|tap|: Add |mana_w| or |mana_u| to your mana pool.)"
+msgstr ""
+
+#: ../../RTR.rst:534
+# ec2a3b203e7b4ee489f0e96e6d7e4ec2
+msgid "As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, Hallowed Fountain enters the battlefield tapped."
+msgstr ""
+
+#: ../../RTR.rst:541
+# 90fecd716aa6437d9300d90c7d717bda
+msgid "Havoc Festival"
+msgstr ""
+
+#: ../../RTR.rst:538
+# 62c7bbbf239e4903ad4822fa7b2a5b35
+msgid "Players can't gain life."
+msgstr ""
+
+#: ../../RTR.rst:540
+# e1fafbb4146c4788ab4e612732d8ba69
+msgid "At the beginning of each player's upkeep, that player loses half his or her life, rounded up."
+msgstr ""
+
+#: ../../RTR.rst:547
+# a7d5e96d414b4e56b00689b3eed7f487
+msgid "Hellhole Flailer"
+msgstr ""
+
+#: ../../RTR.rst:546
+# d347849bff8a4fc49f30de7544020e52
+msgid "|mana_2| |mana_b| |mana_r|, Sacrifice Hellhole Flailer: Hellhole Flailer deals damage equal to its power to target player."
+msgstr ""
+
+#: ../../RTR.rst:551
+# 0f891d2f377641fdb6394c67274f70e2
+msgid "Heroes' Reunion"
+msgstr ""
+
+#: ../../RTR.rst:550
+# d0bd1a175bca4dbd8ec8b7a81ed4c052
+msgid "Target player gains 7 life."
+msgstr ""
+
+#: ../../RTR.rst:555
+# 5b14936e21ea4499a788ae84e58d04a1
+msgid "Horncaller's Chant"
+msgstr ""
+
+#: ../../RTR.rst:554
+# 8e0e9215811c4b0eb9d3bf155fb7b68f
+msgid "Put a 4/4 green Rhino creature token with trample onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
+msgstr ""
+
+#: ../../RTR.rst:559
+# bca5a4e2e8a846759a013a2ee94e0512
+msgid "Hover Barrier"
+msgstr ""
+
+#: ../../RTR.rst:558
+# 97cb40b6718a4b8fb9df9d770d4ee802
+msgid "Defender, flying"
+msgstr ""
+
+#: ../../RTR.rst:565
+# d5feba0e355447bf994aad9dfbc13db6
+msgid "Hussar Patrol"
+msgstr ""
+
+#: ../../RTR.rst:562
+#: ../../RTR.rst:620
+#: ../../RTR.rst:1025
+# 874f29ef80164dc19c9fb7cc8a5fd495
+# 22668d80d7af450499d471a8ce333c14
+# 1d5f82ac6a50447fa065b4e2f3b87b92
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
+#: ../../RTR.rst:571
+# 94a0ed589d3847dd930cb0ae94d8eb4b
+msgid "Hypersonic Dragon"
+msgstr ""
+
+#: ../../RTR.rst:568
+# b58891175d1d40b7848747f70d401149
+msgid "Flying, haste"
+msgstr ""
+
+#: ../../RTR.rst:570
+# 6f365ceace674d64a203f92007e53a5d
+msgid "You may cast sorcery cards as though they had flash. (You may cast them any time you could cast an instant.)"
+msgstr ""
+
+#: ../../RTR.rst:577
+# da1b3119052a45e691516207900fa1d1
+msgid "Inaction Injunction"
+msgstr ""
+
+#: ../../RTR.rst:574
+# 9fc30e4eef854e678868c367a20f6e5c
+msgid "Detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)"
+msgstr ""
+
+#: ../../RTR.rst:581
+# c033cf3537614ab2adb4661263bb1777
+msgid "Inspiration"
+msgstr ""
+
+#: ../../RTR.rst:580
+# fac7e40f0de248a09916522e4f7eae5e
+msgid "Target player draws two cards."
+msgstr ""
+
+#: ../../RTR.rst:585
+# f09cd67edbeb401884c5af84f6bf7829
+msgid "Island"
+msgstr ""
+
+#: ../../RTR.rst:584
+# f5806134204a4b88b16f8f0b7649495a
+msgid "U"
+msgstr ""
+
+#: ../../RTR.rst:591
+# 5ae062107e2e4835865f1aa0fef4d9b7
+msgid "Isperia, Supreme Judge"
+msgstr ""
+
+#: ../../RTR.rst:590
+# e55195f885354d6fa4b5db955bc14054
+msgid "Whenever a creature attacks you or a planeswalker you control, you may draw a card."
+msgstr ""
+
+#: ../../RTR.rst:597
+# 44260bd543ff4c3abb42410edbfc0356
+msgid "Isperia's Skywatch"
+msgstr ""
+
+#: ../../RTR.rst:596
+# de673bb340e4449d8a190c8688973375
+msgid "When Isperia's Skywatch enters the battlefield, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)"
+msgstr ""
+
+#: ../../RTR.rst:603
+# c324e5283f56423696431a84a19d8eb7
+msgid "Izzet Charm"
+msgstr ""
+
+#: ../../RTR.rst:600
+# acde9d54759941ca8a68a88ee3874a9c
+msgid "Choose one — Counter target noncreature spell unless its controller pays |mana_2|; or Izzet Charm deals 2 damage to target creature; or draw two cards, then discard two cards."
+msgstr ""
+
+#: ../../RTR.rst:609
+# 8edf142ce0e247c3840b2b3f1fd2218c
+msgid "Izzet Guildgate"
+msgstr ""
+
+#: ../../RTR.rst:606
+# 663a7d82802a48a39338274d80bc0105
+msgid "Izzet Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../RTR.rst:608
+#: ../../RTR.rst:612
+# 2072be85f2a243e09122c853ce495f74
+# 05b481d1bd954ebb823a8ea12a1f3e2e
+msgid "|tap|: Add |mana_u| or |mana_r| to your mana pool."
+msgstr ""
+
+#: ../../RTR.rst:617
+# 040e08f30f834b8e826535ec3176ca7b
+msgid "Izzet Keyrune"
+msgstr ""
+
+#: ../../RTR.rst:614
+# 6819f62f9fe54fa0bbbfeb3cceac8ede
+msgid "|mana_u| |mana_r|: Until end of turn, Izzet Keyrune becomes a 2/1 blue and red Elemental artifact creature."
+msgstr ""
+
+#: ../../RTR.rst:616
+# e4fb421d460a4df99b89ffa8e6e4882c
+msgid "Whenever Izzet Keyrune deals combat damage to a player, you may draw a card. If you do, discard a card."
+msgstr ""
+
+#: ../../RTR.rst:625
+# 63dcae88c21445ca881c5d4efaa4b8d2
+msgid "Izzet Staticaster"
+msgstr ""
+
+#: ../../RTR.rst:624
+# 226a53c07ef5462389ea0f6174d9afd7
+msgid "|tap|: Izzet Staticaster deals 1 damage to target creature and each other creature with the same name as that creature."
+msgstr ""
+
+#: ../../RTR.rst:633
+# eeff54ec3dba49f58010dd6c51df33aa
+msgid "Jace, Architect of Thought"
+msgstr ""
+
+#: ../../RTR.rst:628
+# 562a3a7a54554f23bf90259e0e1846c4
+msgid "+1: Until your next turn, whenever a creature an opponent controls attacks, it gets -1/-0 until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:630
+# b13ebbbc56e4490bb0f267ba52f0a731
+msgid "-2: Reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order."
+msgstr ""
+
+#: ../../RTR.rst:632
+# 28e70f86933541299cb02d91cc28ffba
+msgid "-8: For each player, search that player's library for a nonland card and exile it, then that player shuffles his or her library. You may cast those cards without paying their mana costs."
+msgstr ""
+
+#: ../../RTR.rst:641
+# e9b03989f7d84d088a9199b5ecc3b7b4
+msgid "Jarad, Golgari Lich Lord"
+msgstr ""
+
+#: ../../RTR.rst:636
+# b9bee64d389d4b869ead4f518a7eee23
+msgid "Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your graveyard."
+msgstr ""
+
+#: ../../RTR.rst:638
+# 5e891ee724074d85bef3db518e6940bb
+msgid "|mana_1| |mana_b| |mana_g|, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power."
+msgstr ""
+
+#: ../../RTR.rst:640
+# be905f03057844a18480605a3587138f
+msgid "Sacrifice a Swamp and a Forest: Return Jarad from your graveyard to your hand."
+msgstr ""
+
+#: ../../RTR.rst:645
+# 9c42938dd73840068bbf9f7e0f3ed51e
+msgid "Jarad's Orders"
+msgstr ""
+
+#: ../../RTR.rst:644
+# bf004cb0964c4d708903dd6a39a5f184
+msgid "Search your library for up to two creature cards and reveal them. Put one into your hand and the other into your graveyard. Then shuffle your library."
+msgstr ""
+
+#: ../../RTR.rst:651
+# 1a5d4d7717f441ea9a7019cc1169a41d
+msgid "Judge's Familiar"
+msgstr ""
+
+#: ../../RTR.rst:650
+# 20f5e41e37764d82ad336534ce207a18
+msgid "Sacrifice Judge's Familiar: Counter target instant or sorcery spell unless its controller pays |mana_1|."
+msgstr ""
+
+#: ../../RTR.rst:655
+# 9ba3f837f2404ad2a55db952b46ef8a4
+msgid "Keening Apparition"
+msgstr ""
+
+#: ../../RTR.rst:654
+# f89057e2839148ddb10f9ff2c529e8f6
+msgid "Sacrifice Keening Apparition: Destroy target enchantment."
+msgstr ""
+
+#: ../../RTR.rst:663
+# e2694ec1b00944ae9526e9dd26b2d7d5
+msgid "Knightly Valor"
+msgstr ""
+
+#: ../../RTR.rst:660
+# ea61c5fb478244d78827860e5ed4fd22
+msgid "When Knightly Valor enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:662
+# d3c46466fd614f0ab717783d017fbba8
+msgid "Enchanted creature gets +2/+2 and has vigilance."
+msgstr ""
+
+#: ../../RTR.rst:669
+# a650ffaca3e04e75b731376d77448df3
+msgid "Korozda Guildmage"
+msgstr ""
+
+#: ../../RTR.rst:666
+# 3c583bec8dcf45c98668eb8fdfba5c63
+msgid "|mana_1| |mana_b| |mana_g|: Target creature gets +1/+1 and gains intimidate until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:668
+# dd3a4f8e163e47909aad119f94706cca
+msgid "|mana_2| |mana_b| |mana_g|, Sacrifice a nontoken creature: Put X 1/1 green Saproling creature tokens onto the battlefield, where X is the sacrificed creature's toughness."
+msgstr ""
+
+#: ../../RTR.rst:675
+# a442730889d64504a9cf9d00391cdfa5
+msgid "Korozda Monitor"
+msgstr ""
+
+#: ../../RTR.rst:674
+# a74acb027b5f482681ac7f23319b932c
+msgid "Scavenge |mana_5| |mana_g| |mana_g| (|mana_5| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgstr ""
+
+#: ../../RTR.rst:681
+# 749da73040524e40a0fc47003fe93058
+msgid "Launch Party"
+msgstr ""
+
+#: ../../RTR.rst:678
+# 68fbcd8338d349f2969eff373d70fee9
+msgid "As an additional cost to cast Launch Party, sacrifice a creature."
+msgstr ""
+
+#: ../../RTR.rst:680
+# cf836e1563f84c13ae361ea0115a2a69
+msgid "Destroy target creature. Its controller loses 2 life."
+msgstr ""
+
+#: ../../RTR.rst:689
+# f376ef6cb43a4db3b6bb34b73f92f3ee
+msgid "Lobber Crew"
+msgstr ""
+
+#: ../../RTR.rst:686
+# eb8f45f953264c7190b2c6f1e87d7340
+msgid "|tap|: Lobber Crew deals 1 damage to each opponent."
+msgstr ""
+
+#: ../../RTR.rst:688
+# c7e1cdc1e37b42a08db98f9f63837ffb
+msgid "Whenever you cast a multicolored spell, untap Lobber Crew."
+msgstr ""
+
+#: ../../RTR.rst:697
+# 8919984213b54e63bf7a147253a46d70
+msgid "Lotleth Troll"
+msgstr ""
+
+#: ../../RTR.rst:694
+# 5d25bdce19da44e88e95630ab5371b2a
+msgid "Discard a creature card: Put a +1/+1 counter on Lotleth Troll."
+msgstr ""
+
+#: ../../RTR.rst:696
+# 34daa1e121664ae592e2769618b3d1b8
+msgid "|mana_b|: Regenerate Lotleth Troll."
+msgstr ""
+
+#: ../../RTR.rst:703
+# 0347c5d10dec4340b2770d2d992d5266
+msgid "Loxodon Smiter"
+msgstr ""
+
+#: ../../RTR.rst:700
+# be155585d1824a6dad1d857deede07a3
+msgid "Loxodon Smiter can't be countered."
+msgstr ""
+
+#: ../../RTR.rst:702
+# 7256526329054b639e8e82e3debf9eba
+msgid "If a spell or ability an opponent controls causes you to discard Loxodon Smiter, put it onto the battlefield instead of putting it into your graveyard."
+msgstr ""
+
+#: ../../RTR.rst:709
+# 56b607ab2e22479d945d929103510c58
+msgid "Lyev Skyknight"
+msgstr ""
+
+#: ../../RTR.rst:708
+# e2852657d8fc4a1ea4a5629d9549c4bb
+msgid "When Lyev Skyknight enters the battlefield, detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)"
+msgstr ""
+
+#: ../../RTR.rst:717
+# 035e665176814556b373eb2288807dec
+msgid "Mana Bloom"
+msgstr ""
+
+#: ../../RTR.rst:712
+# bcc33c6e38de4ebda825cce3c889ef5d
+msgid "Mana Bloom enters the battlefield with X charge counters on it."
+msgstr ""
+
+#: ../../RTR.rst:714
+# 55e6a50d500e4f37a8e65d22e16f6408
+msgid "Remove a charge counter from Mana Bloom: Add one mana of any color to your mana pool. Activate this ability only once each turn."
+msgstr ""
+
+#: ../../RTR.rst:716
+# fdb333b2a1144da1850d082a5baf23db
+msgid "At the beginning of your upkeep, if Mana Bloom has no charge counters on it, return it to its owner's hand."
+msgstr ""
+
+#: ../../RTR.rst:721
+# 65ac80fffc7a4c86b25869ff7faa3537
+msgid "Martial Law"
+msgstr ""
+
+#: ../../RTR.rst:720
+# 9a95f5237c674f0797efbd973803eabf
+msgid "At the beginning of your upkeep, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)"
+msgstr ""
+
+#: ../../RTR.rst:727
+# eff4510c859243868fe4d744e0a8aa6f
+msgid "Mercurial Chemister"
+msgstr ""
+
+#: ../../RTR.rst:724
+# f1d1d6bf80824cc5b4be005840611ad3
+msgid "|mana_u|, |tap|: Draw two cards."
+msgstr ""
+
+#: ../../RTR.rst:726
+# 98d74bd161c1403c8a643a2d1b462ebd
+msgid "|mana_r|, |tap|, Discard a card: Mercurial Chemister deals damage to target creature equal to the discarded card's converted mana cost."
+msgstr ""
+
+#: ../../RTR.rst:731
+# 50fd763a8e8c401eb57da09179f97835
+msgid "Mind Rot"
+msgstr ""
+
+#: ../../RTR.rst:730
+# 106eb0b77e7d4209a102baa8e5cd25d7
+msgid "Target player discards two cards."
+msgstr ""
+
+#: ../../RTR.rst:735
+# a8d8870235ab4fd1ad05b48f5e3b713e
+msgid "Minotaur Aggressor"
+msgstr ""
+
+#: ../../RTR.rst:741
+# fcc83aa57c8f4a62a6f71d4e502128b8
+msgid "Mizzium Mortars"
+msgstr ""
+
+#: ../../RTR.rst:738
+# 66cd4c3be7a1438dbd48809afe6ab61c
+msgid "Mizzium Mortars deals 4 damage to target creature you don't control."
+msgstr ""
+
+#: ../../RTR.rst:740
+# 83d35a4388ca4fe292a330d3981d7eea
+msgid "Overload |mana_3| |mana_r| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
+msgstr ""
+
+#: ../../RTR.rst:747
+# ac2d441a92844495b143eb64a8fbe168
+msgid "Mizzium Skin"
+msgstr ""
+
+#: ../../RTR.rst:744
+# 0b147e2972f443bcbda0b71ccd4c2633
+msgid "Target creature you control gets +0/+1 and gains hexproof until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:746
+# 63a8986cec4e4374a396f67d680ac4ee
+msgid "Overload |mana_1| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
+msgstr ""
+
+#: ../../RTR.rst:751
+# 61cec97de266436e8922b5d9134bef5f
+msgid "Mountain"
+msgstr ""
+
+#: ../../RTR.rst:750
+# b4f68b802ce44084bb559dd04875ec41
+msgid "R"
+msgstr ""
+
+#: ../../RTR.rst:757
+# 9cc0508fbc684ce69f8d319f62372702
+msgid "Necropolis Regent"
+msgstr ""
+
+#: ../../RTR.rst:756
+# 9e89f428d0094d509355617dc4742090
+msgid "Whenever a creature you control deals combat damage to a player, put that many +1/+1 counters on it."
+msgstr ""
+
+#: ../../RTR.rst:763
+# bebdc7f7bf9344df8f4453545bcfd2c8
+msgid "New Prahv Guildmage"
+msgstr ""
+
+#: ../../RTR.rst:760
+# ea5feaf055014fefa9daa9d52451657c
+msgid "|mana_w| |mana_u|: Target creature gains flying until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:762
+# f9b7be5d642042eab9c02b666773ca73
+msgid "|mana_3| |mana_w| |mana_u|: Detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)"
+msgstr ""
+
+#: ../../RTR.rst:769
+# 1933a478fd0e4d668db03c9bce23affe
+msgid "Nivix Guildmage"
+msgstr ""
+
+#: ../../RTR.rst:766
+# effa3ca1b21647a787f68f938f5a2781
+msgid "|mana_1| |mana_u| |mana_r|: Draw a card, then discard a card."
+msgstr ""
+
+#: ../../RTR.rst:768
+# 8f62a0ff866844aca1c7e6a127bf33a9
+msgid "|mana_2| |mana_u| |mana_r|: Copy target instant or sorcery spell you control. You may choose new targets for the copy."
+msgstr ""
+
+#: ../../RTR.rst:773
+# 5b740cdaa5584635a23af161535948bb
+msgid "Nivmagus Elemental"
+msgstr ""
+
+#: ../../RTR.rst:772
+# a0715190eff94ee48f0c8e2d74bc3a66
+msgid "Exile an instant or sorcery spell you control: Put two +1/+1 counters on Nivmagus Elemental. (That spell won't resolve.)"
+msgstr ""
+
+#: ../../RTR.rst:781
+# ce0d1b7102314aafa7d2db9c1b5ea027
+msgid "Niv-Mizzet, Dracogenius"
+msgstr ""
+
+#: ../../RTR.rst:778
+# 97be688a21964aa790f7e636eb7d90e5
+msgid "Whenever Niv-Mizzet, Dracogenius deals damage to a player, you may draw a card."
+msgstr ""
+
+#: ../../RTR.rst:780
+# 91a042ee3bc941caba559cf52a441073
+msgid "|mana_u| |mana_r|: Niv-Mizzet, Dracogenius deals 1 damage to target creature or player."
+msgstr ""
+
+#: ../../RTR.rst:785
+# 8a64c3f3b953429f96755bf4aad94612
+msgid "Oak Street Innkeeper"
+msgstr ""
+
+#: ../../RTR.rst:784
+# a7a672a1efa343bda89d27cb9f759b17
+msgid "As long as it's not your turn, tapped creatures you control have hexproof."
+msgstr ""
+
+#: ../../RTR.rst:791
+# 5e921c48158f4caeb4a9eaaeddc30c4a
+msgid "Ogre Jailbreaker"
+msgstr ""
+
+#: ../../RTR.rst:790
+# 0b3449c89deb4f85b31d7aeb2c968a66
+msgid "Ogre Jailbreaker can attack as though it didn't have defender as long as you control a Gate."
+msgstr ""
+
+#: ../../RTR.rst:797
+# 8a645ebd9cb44aa3adc1e58443fea9df
+msgid "Overgrown Tomb"
+msgstr ""
+
+#: ../../RTR.rst:794
+# c6bc0a5fc9a2492f9c1b3a91349128cf
+msgid "(|tap|: Add |mana_b| or |mana_g| to your mana pool.)"
+msgstr ""
+
+#: ../../RTR.rst:796
+# 6a54769321fd4cfca37d03d8e44de4f7
+msgid "As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped."
+msgstr ""
+
+#: ../../RTR.rst:803
+# 0977e5f4ade040acbef62ea4e2dcbfcb
+msgid "Pack Rat"
+msgstr ""
+
+#: ../../RTR.rst:800
+# cd98e7a251d7468ea3afa47b8842bab1
+msgid "Pack Rat's power and toughness are each equal to the number of Rats you control."
+msgstr ""
+
+#: ../../RTR.rst:802
+# 47b1bb2db362418a97d20afc43bd6082
+msgid "|mana_2| |mana_b|, Discard a card: Put a token onto the battlefield that's a copy of Pack Rat."
+msgstr ""
+
+#: ../../RTR.rst:807
+# e76fefb92ca94c6b9aea90a69ae5dd48
+msgid "Palisade Giant"
+msgstr ""
+
+#: ../../RTR.rst:806
+# 0ce098e6b59347ba84750b56396e728d
+msgid "All damage that would be dealt to you or another permanent you control is dealt to Palisade Giant instead."
+msgstr ""
+
+#: ../../RTR.rst:813
+# d63e1f2d91184edb8f30043a4b2ced5d
+msgid "Paralyzing Grasp"
+msgstr ""
+
+#: ../../RTR.rst:812
+# 0fefdf19388c4ce998ef3724d114bc30
+msgid "Enchanted creature doesn't untap during its controller's untap step."
+msgstr ""
+
+#: ../../RTR.rst:817
+# ace547096ee245eaa9c2d8b78a641489
+msgid "Perilous Shadow"
+msgstr ""
+
+#: ../../RTR.rst:816
+# 6b56931e527b4a8e832f316488048cd1
+msgid "|mana_1| |mana_b|: Perilous Shadow gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:821
+# 267724df1cd547689326d4dfd5ade442
+msgid "Phantom General"
+msgstr ""
+
+#: ../../RTR.rst:820
+# 7afb049995db4b8c95ee366195914d49
+msgid "Creature tokens you control get +1/+1."
+msgstr ""
+
+#: ../../RTR.rst:827
+# 825f2f95b3284df8b8cd6e1f73b05af0
+msgid "Pithing Needle"
+msgstr ""
+
+#: ../../RTR.rst:824
+# a1a41120920a4ad1924579fe50b720bd
+msgid "As Pithing Needle enters the battlefield, name a card."
+msgstr ""
+
+#: ../../RTR.rst:826
+# 5d5cb54341824b2fa112d6dc588fa736
+msgid "Activated abilities of sources with the chosen name can't be activated unless they're mana abilities."
+msgstr ""
+
+#: ../../RTR.rst:831
+# b51200fc0fb24547aa404bd3063ac6c4
+msgid "Plains"
+msgstr ""
+
+#: ../../RTR.rst:830
+# 73306fed632742a6b5cbfb56b43d21ad
+msgid "W"
+msgstr ""
+
+#: ../../RTR.rst:837
+# 0a4e43430f114cfaa25ea4601c17a993
+msgid "Precinct Captain"
+msgstr ""
+
+#: ../../RTR.rst:834
+#: ../../RTR.rst:886
+#: ../../RTR.rst:1091
+# 290ae8c9c8634e7a8bc92634202284fc
+# 9d5e6f54b7e144aa8b3780c2ace71ac0
+# 21f7c0a79b544d1c9c9d700537103b1a
+msgid "First strike"
+msgstr ""
+
+#: ../../RTR.rst:836
+# cf1396c53a854df68ad07df1284f89fe
+msgid "Whenever Precinct Captain deals combat damage to a player, put a 1/1 white Soldier creature token onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:841
+# 8b1d0e93bbb34b00a3f4e99e522fdd92
+msgid "Psychic Spiral"
+msgstr ""
+
+#: ../../RTR.rst:840
+# 8bfb737b5e3b4133a26340ec5c2358a0
+msgid "Shuffle all cards from your graveyard into your library. Target player puts that many cards from the top of his or her library into his or her graveyard."
+msgstr ""
+
+#: ../../RTR.rst:847
+# f4033687bbe64decb5ae11be19d2baf3
+msgid "Pursuit of Flight"
+msgstr ""
+
+#: ../../RTR.rst:846
+# ceb85f5cace2493a9950bbdeae2e1541
+msgid "Enchanted creature gets +2/+2 and has \\\"|mana_u|: This creature gains flying until end of turn.\\\""
+msgstr ""
+
+#: ../../RTR.rst:851
+# e7a8d5eb1f624adba570a202f5711b64
+msgid "Pyroconvergence"
+msgstr ""
+
+#: ../../RTR.rst:850
+# 9dd225712e7a41209c0daf7f626d73bd
+msgid "Whenever you cast a multicolored spell, Pyroconvergence deals 2 damage to target creature or player."
+msgstr ""
+
+#: ../../RTR.rst:857
+# 6b8e433426134ffaa72929496d4a7383
+msgid "Racecourse Fury"
+msgstr ""
+
+#: ../../RTR.rst:856
+# 22207b0764c0440f95b80e8ef657733c
+msgid "Enchanted land has \\\"|tap|: Target creature gains haste until end of turn.\\\""
+msgstr ""
+
+#: ../../RTR.rst:861
+# f1d316c2bdea4fc2bccd0a8595dfc64d
+msgid "Rakdos Cackler"
+msgstr ""
+
+#: ../../RTR.rst:867
+# c50cc51782e34762b24d24d30fe1711b
+msgid "Rakdos Charm"
+msgstr ""
+
+#: ../../RTR.rst:864
+# 008ea4c55fb84e45b63afb81674ed590
+msgid "Choose one — Exile all cards from target player's graveyard; or destroy target artifact; or each creature deals 1 damage to its controller."
+msgstr ""
+
+#: ../../RTR.rst:873
+# 8eae4357d7dc4857bbf7232a7a6bae6e
+msgid "Rakdos Guildgate"
+msgstr ""
+
+#: ../../RTR.rst:870
+# 1ea966dfdeae498c8462057c10454891
+msgid "Rakdos Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../RTR.rst:872
+#: ../../RTR.rst:876
+# 10f3b4cf3c61479e99a58280506cb76c
+# 6a50e18c7279469b82ac033b6909abb0
+msgid "|tap|: Add |mana_b| or |mana_r| to your mana pool."
+msgstr ""
+
+#: ../../RTR.rst:879
+# 3b8737e322e849be8b9d161e17310ec9
+msgid "Rakdos Keyrune"
+msgstr ""
+
+#: ../../RTR.rst:878
+# 5388d6961d0944a398cff80c3f0ad4af
+msgid "|mana_b| |mana_r|: Rakdos Keyrune becomes a 3/1 black and red Devil artifact creature with first strike until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:883
+# f673465b49524ac8af32060af4afebab
+msgid "Rakdos Ragemutt"
+msgstr ""
+
+#: ../../RTR.rst:882
+# 5d0f81d56e834342b6444476630c56f4
+msgid "Lifelink, haste"
+msgstr ""
+
+#: ../../RTR.rst:891
+# 1cd9696b938c4907ad448923ada8f7d0
+msgid "Rakdos Ringleader"
+msgstr ""
+
+#: ../../RTR.rst:888
+# fe0e490054804831ac495bd20d0b57b2
+msgid "Whenever Rakdos Ringleader deals combat damage to a player, that player discards a card at random."
+msgstr ""
+
+#: ../../RTR.rst:890
+# 39fe36cebbcb491c8389ea836750bba9
+msgid "|mana_b|: Regenerate Rakdos Ringleader."
+msgstr ""
+
+#: ../../RTR.rst:895
+# a9edc24375c24de5b07d6b0f3fd91c9b
+msgid "Rakdos Shred-Freak"
+msgstr ""
+
+#: ../../RTR.rst:903
+# 04b003e6ad9f4f0dbd9ebb61e5dbb8dc
+msgid "Rakdos, Lord of Riots"
+msgstr ""
+
+#: ../../RTR.rst:898
+# f737d13598b346a783919519bc128b00
+msgid "You can't cast Rakdos, Lord of Riots unless an opponent lost life this turn."
+msgstr ""
+
+#: ../../RTR.rst:900
+# 4ad8d38154ed40ebadfce48788db2ff7
+msgid "Flying, trample"
+msgstr ""
+
+#: ../../RTR.rst:902
+# 78c3a65ed550414ea058afe0093bf74d
+msgid "Creature spells you cast cost |mana_1| less to cast for each 1 life your opponents have lost this turn."
+msgstr ""
+
+#: ../../RTR.rst:907
+# 820065afb20a4f039bf2fe9d29c710ba
+msgid "Rakdos's Return"
+msgstr ""
+
+#: ../../RTR.rst:906
+# 065d799deec842ff839b04d6b2500a7a
+msgid "Rakdos's Return deals X damage to target opponent. That player discards X cards."
+msgstr ""
+
+#: ../../RTR.rst:913
+# f07a364954b3470f9e1ba717482fc991
+msgid "Rest in Peace"
+msgstr ""
+
+#: ../../RTR.rst:910
+# ff68d125548c48039cbb3faf0a688aa4
+msgid "When Rest in Peace enters the battlefield, exile all cards from all graveyards."
+msgstr ""
+
+#: ../../RTR.rst:912
+# 37d6c986de1b481f91517e763fa73e3e
+msgid "If a card or token would be put into a graveyard from anywhere, exile it instead."
+msgstr ""
+
+#: ../../RTR.rst:921
+# 9a768003a1764536a94285ce6156d077
+msgid "Righteous Authority"
+msgstr ""
+
+#: ../../RTR.rst:918
+# 31a3d84edcf54cfb8900de0e1d1e6ebe
+msgid "Enchanted creature gets +1/+1 for each card in its controller's hand."
+msgstr ""
+
+#: ../../RTR.rst:920
+# b6e4e4cba2e1444aacfa4584fedeff90
+msgid "At the beginning of the draw step of enchanted creature's controller, that player draws an additional card."
+msgstr ""
+
+#: ../../RTR.rst:925
+# e2c793c54a8145168070ab0a329083b4
+msgid "Risen Sanctuary"
+msgstr ""
+
+#: ../../RTR.rst:929
+# 327a7816f50c44289e7eacdd7c702a74
+msgid "Rites of Reaping"
+msgstr ""
+
+#: ../../RTR.rst:928
+# ca23161131584d3f935a486988f4fad0
+msgid "Target creature gets +3/+3 until end of turn. Another target creature gets -3/-3 until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:935
+# 3aa690bcc09d4dbcbd9eaf23e4534119
+msgid "Rix Maadi Guildmage"
+msgstr ""
+
+#: ../../RTR.rst:932
+# 4167582c0cf54325a065a29af4db5f30
+msgid "|mana_b| |mana_r|: Target blocking creature gets -1/-1 until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:934
+# 47dd4d02b6534d89bb33d8e948936a44
+msgid "|mana_b| |mana_r|: Target player who lost life this turn loses 1 life."
+msgstr ""
+
+#: ../../RTR.rst:941
+# 95581f4327e745928f7a366d557676aa
+msgid "Rogue's Passage"
+msgstr ""
+
+#: ../../RTR.rst:940
+# 78196bc46ec0449d9dc87495edacaa3a
+msgid "|mana_4|, |tap|: Target creature can't be blocked this turn."
+msgstr ""
+
+#: ../../RTR.rst:945
+# 44369fe5c0a34c86b5f1d63bd69eed7b
+msgid "Rootborn Defenses"
+msgstr ""
+
+#: ../../RTR.rst:944
+# 6fc9102e143544be919748bef2bb5ce3
+msgid "Populate. Creatures you control gain indestructible until end of turn. (To populate, put a token onto the battlefield that's a copy of a creature token you control. Damage and effects that say \\\"destroy\\\" don't destroy creatures with indestructible.)"
+msgstr ""
+
+#: ../../RTR.rst:949
+# 8695604363a840a1bc08ec8d8dc91fd6
+msgid "Rubbleback Rhino"
+msgstr ""
+
+#: ../../RTR.rst:948
+# 4bc6c8dee2e84b76b3fac788156b8632
+msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../RTR.rst:955
+# 70749219d86a4d9d925fe57d5ae98ebc
+msgid "Runewing"
+msgstr ""
+
+#: ../../RTR.rst:954
+# 5c8c3e9a277841a2ae8ba9b9a07e830c
+msgid "When Runewing dies, draw a card."
+msgstr ""
+
+#: ../../RTR.rst:959
+# d84c54c24bca48c3b1a7bcd0dabb62cf
+msgid "Savage Surge"
+msgstr ""
+
+#: ../../RTR.rst:958
+# fede3885dc484f21800461e075a9ac3b
+msgid "Target creature gets +2/+2 until end of turn. Untap that creature."
+msgstr ""
+
+#: ../../RTR.rst:965
+# 4ef4e8dac51f46c99002781756d1dd76
+msgid "Search the City"
+msgstr ""
+
+#: ../../RTR.rst:962
+# d68c4b9c52b74d1299e44c7705811aa8
+msgid "When Search the City enters the battlefield, exile the top five cards of your library."
+msgstr ""
+
+#: ../../RTR.rst:964
+# 4bcc0bd867f044ca9ff4c621242fde91
+msgid "Whenever you play a card with the same name as one of the exiled cards, you may put one of those cards with that name into its owner's hand. Then if there are no cards exiled with Search the City, sacrifice it. If you do, take an extra turn after this one."
+msgstr ""
+
+#: ../../RTR.rst:969
+# 29e58387fd13411f826bff2b30b43d2a
+msgid "Search Warrant"
+msgstr ""
+
+#: ../../RTR.rst:968
+# 8c24428efe6f4509a3340f07227b3a24
+msgid "Target player reveals his or her hand. You gain life equal to the number of cards in that player's hand."
+msgstr ""
+
+#: ../../RTR.rst:977
+# 08b61e2e748c434580455d5045932732
+msgid "Security Blockade"
+msgstr ""
+
+#: ../../RTR.rst:974
+# 682f0d6b398f4e58ba345d3df3b1bdb4
+msgid "When Security Blockade enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:976
+# 1008a8fda346452da07197d22bec5419
+msgid "Enchanted land has \\\"|tap|: Prevent the next 1 damage that would be dealt to you this turn.\\\""
+msgstr ""
+
+#: ../../RTR.rst:981
+# 7f31759e5f8243978b82917d27e1d1d3
+msgid "Seek the Horizon"
+msgstr ""
+
+#: ../../RTR.rst:980
+# 696f88f7d4104e90b092103a70d3ed70
+msgid "Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library."
+msgstr ""
+
+#: ../../RTR.rst:988
+# 8ef34d50e48747bab4a36435f0fe7c53
+msgid "Selesnya Charm"
+msgstr ""
+
+#: ../../RTR.rst:984
+# a4d609e3240043ff80a0f6615d7f9579
+msgid "Choose one — Target creature gets +2/+2 and gains trample until end of turn; or exile target creature with power 5 or greater; or put a 2/2 white Knight creature token with vigilance onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:994
+# 34ad6a0578fe4106931cd4398ee3d3d6
+msgid "Selesnya Guildgate"
+msgstr ""
+
+#: ../../RTR.rst:991
+# 6d0d50516b5644919ff41a9a9256273d
+msgid "Selesnya Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../RTR.rst:993
+#: ../../RTR.rst:997
+# 787b1d663c7e4519b91f5ecc95cc56d4
+# 253873430bb9457b964de8d00712b342
+msgid "|tap|: Add |mana_g| or |mana_w| to your mana pool."
+msgstr ""
+
+#: ../../RTR.rst:1000
+# 588218f860c8400c9a1c88403509d25d
+msgid "Selesnya Keyrune"
+msgstr ""
+
+#: ../../RTR.rst:999
+# 7c307c629ebb4287ae4ce188413eec6a
+msgid "|mana_g| |mana_w|: Selesnya Keyrune becomes a 3/3 green and white Wolf artifact creature until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:1004
+# 3f2e94900fe0400bba7556d9ec934436
+msgid "Selesnya Sentry"
+msgstr ""
+
+#: ../../RTR.rst:1003
+# 2a05e311faa64468ade4f7c1308f4287
+msgid "|mana_5| |mana_g|: Regenerate Selesnya Sentry."
+msgstr ""
+
+#: ../../RTR.rst:1008
+# 66d72cb5a25d4f45a7d462d6539c4e7a
+msgid "Seller of Songbirds"
+msgstr ""
+
+#: ../../RTR.rst:1007
+# 3ff16b2b216e490884bc7d89a39362d7
+msgid "When Seller of Songbirds enters the battlefield, put a 1/1 white Bird creature token with flying onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:1014
+# bbe00765139741ebbdd4d48e34277a2c
+msgid "Sewer Shambler"
+msgstr ""
+
+#: ../../RTR.rst:1011
+# aa1d641f0bb4406ba65f86cdc9151b19
+msgid "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)"
+msgstr ""
+
+#: ../../RTR.rst:1013
+# 19dac921500349309ccbb75d3b13993d
+msgid "Scavenge |mana_2| |mana_b| (|mana_2| |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgstr ""
+
+#: ../../RTR.rst:1018
+# 74b9d72678c1447dab7e83a67a9f4196
+msgid "Shrieking Affliction"
+msgstr ""
+
+#: ../../RTR.rst:1017
+# ec806e76a1114026a3ab5fffa098532f
+msgid "At the beginning of each opponent's upkeep, if that player has one or fewer cards in hand, he or she loses 3 life."
+msgstr ""
+
+#: ../../RTR.rst:1022
+# 44cf8d6379fe4aeab524e3638329a2de
+msgid "Skull Rend"
+msgstr ""
+
+#: ../../RTR.rst:1021
+# 4e4b325ef7d1443dbbde757450c72a9d
+msgid "Skull Rend deals 2 damage to each opponent. Those players each discard two cards at random."
+msgstr ""
+
+#: ../../RTR.rst:1028
+# 7a8bc3b214e14ea5849eb802f115f092
+msgid "Skyline Predator"
+msgstr ""
+
+#: ../../RTR.rst:1034
+# 4e5f84230cf74c16996078a930e6fdc6
+msgid "Skymark Roc"
+msgstr ""
+
+#: ../../RTR.rst:1033
+# 323053d13bb34910ad9634642748cb28
+msgid "Whenever Skymark Roc attacks, you may return target creature defending player controls with toughness 2 or less to its owner's hand."
+msgstr ""
+
+#: ../../RTR.rst:1040
+# af9970ab9d954a18a37d01777d654280
+msgid "Slaughter Games"
+msgstr ""
+
+#: ../../RTR.rst:1037
+# cecbf52041b640c59a27772148300633
+msgid "Slaughter Games can't be countered by spells or abilities."
+msgstr ""
+
+#: ../../RTR.rst:1039
+# 3041d7ee96b84a33935cca5c2444244f
+msgid "Name a nonland card. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library."
+msgstr ""
+
+#: ../../RTR.rst:1044
+# aaf0886d77ce482294ae34ffeedbb0f5
+msgid "Slime Molding"
+msgstr ""
+
+#: ../../RTR.rst:1043
+# 9821ac2b4a1c4f9295428130d0c0ef02
+msgid "Put an X/X green Ooze creature token onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:1048
+# 8a52b0bbe1b84971a0d83b43ee997ba0
+msgid "Slitherhead"
+msgstr ""
+
+#: ../../RTR.rst:1047
+# 49eba750a02343798bed25a84b6f6015
+msgid "Scavenge |mana_0| (|mana_0|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgstr ""
+
+#: ../../RTR.rst:1054
+# b5008aa71dcd489b90fca7afa0a76a01
+msgid "Sluiceway Scorpion"
+msgstr ""
+
+#: ../../RTR.rst:1051
+# e354c20aa25c4274afa982c425f43b58
+msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
+msgstr ""
+
+#: ../../RTR.rst:1053
+# cbba8537eb0146e3b19da03599f0fdfa
+msgid "Scavenge |mana_1| |mana_b| |mana_g| (|mana_1| |mana_b| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgstr ""
+
+#: ../../RTR.rst:1058
+# 25af89175f684625a8a3d183df98fa3d
+msgid "Slum Reaper"
+msgstr ""
+
+#: ../../RTR.rst:1057
+# a36c937da1174d94afd83a6458a838e0
+msgid "When Slum Reaper enters the battlefield, each player sacrifices a creature."
+msgstr ""
+
+#: ../../RTR.rst:1064
+# 098990210a194b6b98f7ed0ae2292e42
+msgid "Soul Tithe"
+msgstr ""
+
+#: ../../RTR.rst:1061
+# 012f4831c485436080141b97c694c7e8
+msgid "Enchant nonland permanent"
+msgstr ""
+
+#: ../../RTR.rst:1063
+# 1ac84c9c0c7e4218b27142d784965569
+msgid "At the beginning of the upkeep of enchanted permanent's controller, that player sacrifices it unless he or she pays |mana_x|, where X is its converted mana cost."
+msgstr ""
+
+#: ../../RTR.rst:1070
+# 530fa7e8245843ba88f242fd18dfaa8e
+msgid "Soulsworn Spirit"
+msgstr ""
+
+#: ../../RTR.rst:1067
+# 3dd414c8bcd743e8afef313bf16105d3
+msgid "Soulsworn Spirit can't be blocked."
+msgstr ""
+
+#: ../../RTR.rst:1069
+# fd0bdd4a2e9c43db926807028fdde655
+msgid "When Soulsworn Spirit enters the battlefield, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)"
+msgstr ""
+
+#: ../../RTR.rst:1074
+# 7b93b24d58254b34812a229eafcd333f
+msgid "Spawn of Rix Maadi"
+msgstr ""
+
+#: ../../RTR.rst:1078
+# d74c1030c0cd4a0abac5b0ee195be49e
+msgid "Sphere of Safety"
+msgstr ""
+
+#: ../../RTR.rst:1077
+# 4f403ebd6a934a018e9eab2323cb3afb
+msgid "Creatures can't attack you or a planeswalker you control unless their controller pays |mana_x| for each of those creatures, where X is the number of enchantments you control."
+msgstr ""
+
+#: ../../RTR.rst:1084
+# 58fe780e3cc24e30819593e4386ff667
+msgid "Sphinx of the Chimes"
+msgstr ""
+
+#: ../../RTR.rst:1083
+# 473b4ed9f2c54e1ebb41c2cb92998534
+msgid "Discard two nonland cards with the same name: Draw four cards."
+msgstr ""
+
+#: ../../RTR.rst:1088
+# dc6ee31ac2c6425dadf7717558e40432
+msgid "Sphinx's Revelation"
+msgstr ""
+
+#: ../../RTR.rst:1087
+# 47e696d0d3a44e86a17050f8921a28df
+msgid "You gain X life and draw X cards."
+msgstr ""
+
+#: ../../RTR.rst:1094
+# 8cfda6c2a219497f8593d3ac4263b82a
+msgid "Splatter Thug"
+msgstr ""
+
+#: ../../RTR.rst:1102
+# 99da8906552a44e08d39eb39f7cdd291
+msgid "Stab Wound"
+msgstr ""
+
+#: ../../RTR.rst:1099
+# 8cdad82591934069917d08e4ff997e5e
+msgid "Enchanted creature gets -2/-2."
+msgstr ""
+
+#: ../../RTR.rst:1101
+# c8b13db3096142e288a5288616352b77
+msgid "At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life."
+msgstr ""
+
+#: ../../RTR.rst:1106
+# d35a843790ab4caca38a2bf8bfe03f46
+msgid "Stealer of Secrets"
+msgstr ""
+
+#: ../../RTR.rst:1105
+# ba39c469c09d4665a4637a5c9812873b
+msgid "Whenever Stealer of Secrets deals combat damage to a player, draw a card."
+msgstr ""
+
+#: ../../RTR.rst:1112
+# cd6e600f5f044a8aa80de7299626dde6
+msgid "Steam Vents"
+msgstr ""
+
+#: ../../RTR.rst:1109
+# 2b5da2de36f24854a1dfec41589a9081
+msgid "(|tap|: Add |mana_u| or |mana_r| to your mana pool.)"
+msgstr ""
+
+#: ../../RTR.rst:1111
+# aa11b9054d6b458d94814e2dfc5f7bfe
+msgid "As Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped."
+msgstr ""
+
+#: ../../RTR.rst:1116
+# 01018e19279a41b992bbb1efea1facfc
+msgid "Stonefare Crocodile"
+msgstr ""
+
+#: ../../RTR.rst:1115
+# 0fecce006e63432eb23bb4d4719dcc1c
+msgid "|mana_2| |mana_b|: Stonefare Crocodile gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)"
+msgstr ""
+
+#: ../../RTR.rst:1122
+# b31d17cb2ff14058a678abb54e66765f
+msgid "Street Spasm"
+msgstr ""
+
+#: ../../RTR.rst:1119
+# 8c361ba7492148709944cd7acfa59029
+msgid "Street Spasm deals X damage to target creature without flying you don't control."
+msgstr ""
+
+#: ../../RTR.rst:1121
+# 35d0116506eb4ed19aeea017b94b702d
+msgid "Overload |mana_x| |mana_x| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
+msgstr ""
+
+#: ../../RTR.rst:1126
+# 464369b2bb0c4586ac50f661570879b7
+msgid "Street Sweeper"
+msgstr ""
+
+#: ../../RTR.rst:1125
+# 13355bd127234439895b89074205a0ef
+msgid "Whenever Street Sweeper attacks, destroy all Auras attached to target land."
+msgstr ""
+
+#: ../../RTR.rst:1130
+# c5db1db6eef549d78fcb4264fc33a688
+msgid "Sundering Growth"
+msgstr ""
+
+#: ../../RTR.rst:1129
+# 8ded5f2ef1f94e3aaa6a2976cbc3ab49
+msgid "Destroy target artifact or enchantment, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
+msgstr ""
+
+#: ../../RTR.rst:1134
+# d0c72333e2ad40feb1dd9d8e89c6f86b
+msgid "Sunspire Griffin"
+msgstr ""
+
+#: ../../RTR.rst:1140
+# ed8c1903a84e4ec5a1c5cbe32d665160
+msgid "Supreme Verdict"
+msgstr ""
+
+#: ../../RTR.rst:1137
+# 10275ddcaf0741c8960ee58223e547d1
+msgid "Supreme Verdict can't be countered."
+msgstr ""
+
+#: ../../RTR.rst:1139
+# b8bc01c33439448db227d9fbcd6f0977
+msgid "Destroy all creatures."
+msgstr ""
+
+#: ../../RTR.rst:1144
+# b61801c285f04dd5aeec628f04318749
+msgid "Survey the Wreckage"
+msgstr ""
+
+#: ../../RTR.rst:1143
+# 624385059968446082c93d60be68813a
+msgid "Destroy target land. Put a 1/1 red Goblin creature token onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:1148
+# 176fa0d8d73b44dfad0ed7064d56ec4e
+msgid "Swamp"
+msgstr ""
+
+#: ../../RTR.rst:1147
+# be2b4e737dc74e32b61b16eda9fa65e1
+msgid "B"
+msgstr ""
+
+#: ../../RTR.rst:1152
+# 9940a8ab22044932971bc423b3bb3062
+msgid "Swift Justice"
+msgstr ""
+
+#: ../../RTR.rst:1151
+# 0e94e31a189a444abb6bab7a233e4c36
+msgid "Until end of turn, target creature gets +1/+0 and gains first strike and lifelink."
+msgstr ""
+
+#: ../../RTR.rst:1156
+# 7dedf5df3f0f4f7e98632557e233a772
+msgid "Syncopate"
+msgstr ""
+
+#: ../../RTR.rst:1155
+# c6359d4d6c2940c0b3c7e6c0f8c34272
+msgid "Counter target spell unless its controller pays |mana_x|. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+msgstr ""
+
+#: ../../RTR.rst:1162
+# 82d1e9f75e1d4ecba96ca18b4f6a797e
+msgid "Tablet of the Guilds"
+msgstr ""
+
+#: ../../RTR.rst:1159
+# 42915a0dcf0d43f2baedc3187bbc33dc
+msgid "As Tablet of the Guilds enters the battlefield, choose two colors."
+msgstr ""
+
+#: ../../RTR.rst:1161
+# 54a8b42de60f4b6fbfe8df939fab79c4
+msgid "Whenever you cast a spell, if it's at least one of the chosen colors, you gain 1 life for each of the chosen colors it is."
+msgstr ""
+
+#: ../../RTR.rst:1166
+# c90cce4cc86a411da26d8b084d3ffe34
+msgid "Tavern Swindler"
+msgstr ""
+
+#: ../../RTR.rst:1165
+# 9e0be131a7e849cba939f2fbe9ad1ea8
+msgid "|tap|, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life."
+msgstr ""
+
+#: ../../RTR.rst:1172
+# efcb9117c6084c359c3a8cb16e08a78d
+msgid "Teleportal"
+msgstr ""
+
+#: ../../RTR.rst:1169
+# acb99a6d142b43b3bef3e188b8bb38bc
+msgid "Target creature you control gets +1/+0 until end of turn and can't be blocked this turn."
+msgstr ""
+
+#: ../../RTR.rst:1178
+# 3dd720e717b54ba9a2a8213c81cf009c
+msgid "Temple Garden"
+msgstr ""
+
+#: ../../RTR.rst:1175
+# c057aec6d7504723b81a1e2f5cdac2e7
+msgid "(|tap|: Add |mana_g| or |mana_w| to your mana pool.)"
+msgstr ""
+
+#: ../../RTR.rst:1177
+# 50c07d208afb4ab7890b37004b5b95eb
+msgid "As Temple Garden enters the battlefield, you may pay 2 life. If you don't, Temple Garden enters the battlefield tapped."
+msgstr ""
+
+#: ../../RTR.rst:1182
+# 9dd9a591c77d4ee28567c3f0a0047c52
+msgid "Tenement Crasher"
+msgstr ""
+
+#: ../../RTR.rst:1186
+# 504b5b9a5b8c4a478784714d120df920
+msgid "Terrus Wurm"
+msgstr ""
+
+#: ../../RTR.rst:1185
+# 8303148370114d7aa272b270959a9fd6
+msgid "Scavenge |mana_6| |mana_b| (|mana_6| |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgstr ""
+
+#: ../../RTR.rst:1190
+# a2921aa14dd841d8adb06e8b04bdc4b9
+msgid "Thoughtflare"
+msgstr ""
+
+#: ../../RTR.rst:1189
+# cadb3101969c47abbd8b3267b7125569
+msgid "Draw four cards, then discard two cards."
+msgstr ""
+
+#: ../../RTR.rst:1196
+# 1a30b7933bda4ca4b8a7b2726a096352
+msgid "Thrill-Kill Assassin"
+msgstr ""
+
+#: ../../RTR.rst:1193
+# cf93f2e1b4a94b77b107f258f8cbbd5c
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../RTR.rst:1202
+# da268e6e7b2e4a7aba076f676016a465
+msgid "Tower Drake"
+msgstr ""
+
+#: ../../RTR.rst:1201
+# dba6c81f79ad4ea6a92ae58b9ac52520
+msgid "|mana_w|: Tower Drake gets +0/+1 until end of turn."
+msgstr ""
+
+#: ../../RTR.rst:1206
+# 0c7e7edda2564d89b380e2b67b169ad3
+msgid "Towering Indrik"
+msgstr ""
+
+#: ../../RTR.rst:1205
+#: ../../RTR.rst:1231
+# ac5af8464239439e8d55bf5aa83116f5
+# e3c54a5767b144ef8aec3147baceb0f1
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../RTR.rst:1210
+# 1e8805518522492f948c0488f2b34d36
+msgid "Trained Caracal"
+msgstr ""
+
+#: ../../RTR.rst:1214
+# d658fee08e1d4d9580e8c24c00e723ec
+msgid "Traitorous Instinct"
+msgstr ""
+
+#: ../../RTR.rst:1213
+# 86e4f8e434e14c9b9cd70d808958eb04
+msgid "Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gets +2/+0 and gains haste."
+msgstr ""
+
+#: ../../RTR.rst:1222
+# b2787741a8b74c3eba7ab7bbed88b9d7
+msgid "Transguild Promenade"
+msgstr ""
+
+#: ../../RTR.rst:1217
+# a8e5c01478b345bf926e869ab6dc3118
+msgid "Transguild Promenade enters the battlefield tapped."
+msgstr ""
+
+#: ../../RTR.rst:1219
+# 92bb8cc7f2354fe38dc7f6f530732158
+msgid "When Transguild Promenade enters the battlefield, sacrifice it unless you pay |mana_1|."
+msgstr ""
+
+#: ../../RTR.rst:1226
+# 04da15e6b4684b14a3d763fbef4fb0ca
+msgid "Treasured Find"
+msgstr ""
+
+#: ../../RTR.rst:1225
+# e03cbf916398450b9de4d879b0e16fbb
+msgid "Return target card from your graveyard to your hand. Exile Treasured Find."
+msgstr ""
+
+#: ../../RTR.rst:1234
+# c4b3fcb5d220458a8d150c460d19c8bc
+msgid "Trestle Troll"
+msgstr ""
+
+#: ../../RTR.rst:1233
+# b6035f4b146c45099bfe964fc2b603de
+msgid "|mana_1| |mana_b| |mana_g|: Regenerate Trestle Troll."
+msgstr ""
+
+#: ../../RTR.rst:1240
+# 788e3940ac3a415a8b1b17071ee92a35
+msgid "Trostani, Selesnya's Voice"
+msgstr ""
+
+#: ../../RTR.rst:1237
+# 57b96d0a41284ef5bd2adc2002404fa5
+msgid "Whenever another creature enters the battlefield under your control, you gain life equal to that creature's toughness."
+msgstr ""
+
+#: ../../RTR.rst:1239
+# ba40c972841e423ea0d6093f7ce5c2ec
+msgid "|mana_1| |mana_g| |mana_w|, |tap|: Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
+msgstr ""
+
+#: ../../RTR.rst:1244
+# ed3d51f15a4d4dd79dde8d6f85311cde
+msgid "Trostani's Judgment"
+msgstr ""
+
+#: ../../RTR.rst:1243
+# 2dd5e30220af423eb6e1f6fdf7d497b6
+msgid "Exile target creature, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
+msgstr ""
+
+#: ../../RTR.rst:1248
+# 5813743a9e5248209f58b73d05258cfa
+msgid "Ultimate Price"
+msgstr ""
+
+#: ../../RTR.rst:1247
+# e7794d83806f447dbf608642f9709649
+msgid "Destroy target monocolored creature."
+msgstr ""
+
+#: ../../RTR.rst:1254
+# 881e9281238a4d3491c38f985bd62c47
+msgid "Underworld Connections"
+msgstr ""
+
+#: ../../RTR.rst:1253
+# e6ce921ea6e8483493939b0295f6dcbc
+msgid "Enchanted land has \\\"|tap|, Pay 1 life: Draw a card.\\\""
+msgstr ""
+
+#: ../../RTR.rst:1260
+# e85341a897f841d499e91947b6363134
+msgid "Urban Burgeoning"
+msgstr ""
+
+#: ../../RTR.rst:1259
+# 29f76220ebad406db29438b46bc948e9
+msgid "Enchanted land has \\\"Untap this land during each other player's untap step.\\\""
+msgstr ""
+
+#: ../../RTR.rst:1266
+# 5d4923c58af448c39bbf41311ac94adb
+msgid "Utvara Hellkite"
+msgstr ""
+
+#: ../../RTR.rst:1265
+# 97ed31e20de94ba6a882560f180e6fe4
+msgid "Whenever a Dragon you control attacks, put a 6/6 red Dragon creature token with flying onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:1272
+# ef258fa826564179a4787da02f55b2c4
+msgid "Vandalblast"
+msgstr ""
+
+#: ../../RTR.rst:1269
+# fec81769efd14cb89ab535781f18591c
+msgid "Destroy target artifact you don't control."
+msgstr ""
+
+#: ../../RTR.rst:1271
+# 549a410587ce435295187e4d8823f837
+msgid "Overload |mana_4| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \\\"target\\\" with \\\"each.\\\")"
+msgstr ""
+
+#: ../../RTR.rst:1276
+# bf4d0b7548254c619c547138a10b56bf
+msgid "Vassal Soul"
+msgstr ""
+
+#: ../../RTR.rst:1280
+# f88e2843b0c94984bacc0035d2e0b8a5
+msgid "Viashino Racketeer"
+msgstr ""
+
+#: ../../RTR.rst:1279
+# 032196505c2f4b478d2a232a334ae855
+msgid "When Viashino Racketeer enters the battlefield, you may discard a card. If you do, draw a card."
+msgstr ""
+
+#: ../../RTR.rst:1286
+# 514394e8c2cb4c62a976cbc37e7e078d
+msgid "Vitu-Ghazi Guildmage"
+msgstr ""
+
+#: ../../RTR.rst:1283
+# a7c5004024b14191932152def8297ce2
+msgid "|mana_4| |mana_g| |mana_w|: Put a 3/3 green Centaur creature token onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:1285
+# 89f9bf0f4fd64be486cf3d8a71bbc6b9
+msgid "|mana_2| |mana_g| |mana_w|: Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
+msgstr ""
+
+#: ../../RTR.rst:1290
+# a70ee72dcc23425f871c636fafb5a973
+msgid "Voidwielder"
+msgstr ""
+
+#: ../../RTR.rst:1289
+# 5d7311faeb684fa482bf67c5132f3118
+msgid "When Voidwielder enters the battlefield, you may return target creature to its owner's hand."
+msgstr ""
+
+#: ../../RTR.rst:1300
+# b52051cde40a40bca9e63f7929abdc2c
+msgid "Volatile Rig"
+msgstr ""
+
+#: ../../RTR.rst:1295
+# 381962e0b3d44a56b1d6034b40d205b9
+msgid "Volatile Rig attacks each turn if able."
+msgstr ""
+
+#: ../../RTR.rst:1297
+# f45c470110964089803e08fc01134458
+msgid "Whenever Volatile Rig is dealt damage, flip a coin. If you lose the flip, sacrifice Volatile Rig."
+msgstr ""
+
+#: ../../RTR.rst:1299
+# 5987e09b5770419d98d2019b29415b2c
+msgid "When Volatile Rig dies, flip a coin. If you lose the flip, it deals 4 damage to each creature and each player."
+msgstr ""
+
+#: ../../RTR.rst:1308
+# b97fc1d0781f474f9ac1ffe9ef2feaea
+msgid "Vraska the Unseen"
+msgstr ""
+
+#: ../../RTR.rst:1303
+# cd78f2b69f19489495d851eecf8e44ef
+msgid "+1: Until your next turn, whenever a creature deals combat damage to Vraska the Unseen, destroy that creature."
+msgstr ""
+
+#: ../../RTR.rst:1305
+# 4767a1d772ce4abbbbe906bd21217d4a
+msgid "-3: Destroy target nonland permanent."
+msgstr ""
+
+#: ../../RTR.rst:1307
+# 3ed9c48ac3524e70b55e7abcb14977e0
+msgid "-7: Put three 1/1 black Assassin creature tokens onto the battlefield with \\\"Whenever this creature deals combat damage to a player, that player loses the game.\\\""
+msgstr ""
+
+#: ../../RTR.rst:1314
+# dbc37ed76a234264ae5509ad820bb516
+msgid "Wayfaring Temple"
+msgstr ""
+
+#: ../../RTR.rst:1311
+# 150349b9c39940cda6819d95196a7cce
+msgid "Wayfaring Temple's power and toughness are each equal to the number of creatures you control."
+msgstr ""
+
+#: ../../RTR.rst:1313
+# 407a2802cec9461ebf48c1d46ffe899b
+msgid "Whenever Wayfaring Temple deals combat damage to a player, populate. (Put a token onto the battlefield that's a copy of a creature token you control.)"
+msgstr ""
+
+#: ../../RTR.rst:1318
+# 7f5a1bc35687472ebcf48005c310f43d
+msgid "Wild Beastmaster"
+msgstr ""
+
+#: ../../RTR.rst:1317
+# 58ca7d76da554374a99d5885cbaf3bbd
+msgid "Whenever Wild Beastmaster attacks, each other creature you control gets +X/+X until end of turn, where X is Wild Beastmaster's power."
+msgstr ""
+
+#: ../../RTR.rst:1326
+# 8c3a94f278c04b049b10f5cdcb4ccef0
+msgid "Worldspine Wurm"
+msgstr ""
+
+#: ../../RTR.rst:1323
+# ae51647fa14b44fe875e16f09fd4bf54
+msgid "When Worldspine Wurm dies, put three 5/5 green Wurm creature tokens with trample onto the battlefield."
+msgstr ""
+
+#: ../../RTR.rst:1325
+# f33e1029f0d2469b8242725410b11d60
+msgid "When Worldspine Wurm is put into a graveyard from anywhere, shuffle it into its owner's library."
+msgstr ""
+
+#: ../../RTR.rst:1332
+# 7d7464e3dba1477888f5f22ad5f5cf24
+msgid "Zanikev Locust"
+msgstr ""
+
+#: ../../RTR.rst:1331
+# fcd225662bb04fb7b92849033bbfc502
+msgid "Scavenge |mana_2| |mana_b| |mana_b| (|mana_2| |mana_b| |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgstr ""
+

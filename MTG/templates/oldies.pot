@@ -1,0 +1,2105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-21 12:35+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../oldies/python/JOU.rst:5
+# 61ecf33867da4a92bc52394799890c85
+msgid "Journey into Nyx"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:9
+# 02230645e737418d8175b47b6196056f
+msgid "Aegis of the Gods"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:8
+# 4270a987db1240c8ab082868d458dd75
+msgid "You have hexproof. (You can't be the target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:15
+# 06bf06a40dda4b41bc39c4c038a40a21
+msgid "Aerial Formation"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:12
+# b6d945605e71430ca0ea1d4987e20644
+msgid "Strive — Aerial Formation costs |mana_2| |mana_u| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:14
+# ab60655dc38b4130be6857cf37be553f
+msgid "Any number of target creatures each get +1/+1 and gain flying until end of turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:19
+# d641a9b2418e4594b7424e34d4a9fca1
+msgid "Agent of Erebos"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:18
+# 0d3110c7edb446a99264e9ac3142d440
+msgid "Constellation — Whenever Agent of Erebos or another enchantment enters the battlefield under your control, exile all cards from target player's graveyard."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:27
+# 751b59aaad544e75b3a7d774c46c6d82
+msgid "Ajani, Mentor of Heroes"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:22
+# 4ab75b3c52b9450d81183edf2aaeb4a8
+msgid "+1: Distribute three +1/+1 counters among one, two, or three target creatures you control."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:24
+# 5607dc8c2dc74277a8d876c0af899632
+msgid "+1: Look at the top four cards of your library. You may reveal an Aura, creature, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:26
+# c1a666bd02dd45f787be11978d24c8dd
+msgid "−8: You gain 100 life."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:33
+# bef1b95b50944535b3c58e7760f068eb
+msgid "Ajani's Presence"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:30
+# 907400375f8e417095158f559f2823fb
+msgid "Strive — Ajani's Presence costs |mana_2| |mana_w| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:32
+# 17ee0fb9b6f9423b90d7cd93a1c4e4ca
+msgid "Any number of target creatures each get +1/+1 and gain indestructible until end of turn. (Damage and effects that say \\\"destroy\\\" don't destroy them.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:37
+# 3ae80f71d8c84be5a37d2477b8dac5fc
+msgid "Akroan Line Breaker"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:36
+# ea7bc81704e542ea81b8634f737f47d0
+msgid "Heroic — Whenever you cast a spell that targets Akroan Line Breaker, Akroan Line Breaker gets +2/+0 and gains intimidate until end of turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:41
+# a2de7756f94649e38a02a8d79401370c
+msgid "Akroan Mastiff"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:40
+# 8445c591c3bd4f9196bca8b2ae3b2f8d
+msgid "|mana_w|, |tap|: Tap target creature."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:47
+# 40d6dcf89c444393a331032d592a656b
+msgid "Armament of Nyx"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:44
+#: ../../oldies/python/JOU.rst:56
+#: ../../oldies/python/JOU.rst:108
+#: ../../oldies/python/JOU.rst:468
+#: ../../oldies/python/JOU.rst:526
+#: ../../oldies/python/JOU.rst:548
+#: ../../oldies/python/JOU.rst:592
+# ac5d4014eadd4b58847bb4a98a554694
+# bb234a586e854df484051b8091471a81
+# 144e0f56530747f8a30c8ada7c2db6cf
+# b3e75ebab70e4adca2d0994d5ac4aac5
+# 782d8d4cb862496dbf38c67bf37d78ed
+# 83f2d75bd4d443999e81c64502987e9c
+# 362cd018deff47948ac99e9978cea140
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:46
+# bf6fc8f31dfa498f86876f06f1ae1e9e
+msgid "Enchanted creature has double strike as long as it's an enchantment. Otherwise, prevent all damage that would be dealt by enchanted creature. (A creature with double strike deals both first-strike and regular combat damage.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:53
+# 37169401226d4798ad9913b0f098e116
+msgid "Armory of Iroas"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:50
+# f87acd41971b47278d526966c71f9716
+msgid "Whenever equipped creature attacks, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:52
+# 2a7d07934fcf49e18db0d893044eb4ff
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:59
+# 17c111385d2d4d4fb578807d506fe7cd
+msgid "Aspect of Gorgon"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:58
+# 7882bb8b06a647f8b7125082d2bba603
+msgid "Enchanted creature gets +1/+3 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy it.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:67
+# 8ad107691329484eb18551c77d6885e3
+msgid "Athreos, God of Passage"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:62
+#: ../../oldies/python/JOU.rst:408
+#: ../../oldies/python/JOU.rst:418
+#: ../../oldies/python/JOU.rst:440
+#: ../../oldies/python/JOU.rst:570
+# b87f1eeb944749e3ac026e08c44ab26f
+# 3b34e19575714418bc8a1ecbc730c7d6
+# 56ec679590cb411fae4d60e3447c9bd1
+# 6c219d1ab8cd4413b79377b5ed2c3e74
+# f5a90aa9a8284db78b48eb53e55d700a
+msgid "Indestructible"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:64
+# 8b959c541b1c43a5bb4245649347a0ad
+msgid "As long as your devotion to white and black is less than seven, Athreos isn't a creature."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:66
+# 966ed8810a924496a11850905593a438
+msgid "Whenever another creature you own dies, return it to your hand unless target opponent pays 3 life."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:71
+# 025d42eedfde4488886d03f584e8129a
+msgid "Banishing Light"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:70
+# 6b59aed1ae164f7d94ac85641905cac5
+msgid "When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield. (That permanent returns under its owner's control.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:75
+# bcebf9d74a7d474ab8b39d078761e198
+msgid "Bassara Tower Archer"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:74
+# cf95eab264c64296b138f42317c79cb5
+msgid "Hexproof, reach"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:81
+# c1a5dde3353b4e6697f9192c7d6f63b9
+msgid "Battlefield Thaumaturge"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:78
+# 54b304a720e3449c91b4c0db2c464368
+msgid "Each instant and sorcery spell you cast costs |mana_1| less to cast for each creature it targets."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:80
+# 31c0438448714b68b56b60f5399657a9
+msgid "Heroic — Whenever you cast a spell that targets Battlefield Thaumaturge, Battlefield Thaumaturge gains hexproof until end of turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:85
+# a5e7131797ef470ab22948cc64a8de34
+msgid "Bearer of the Heavens"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:84
+# f4d8d0930da84ad6a1c9c46ec44d216e
+msgid "When Bearer of the Heavens dies, destroy all permanents at the beginning of the next end step."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:89
+# cbca4ac6be05454e8bc5a117edb1aa1e
+msgid "Bladetusk Boar"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:88
+# 43d3ebfb8fe14bcc93506e8b62398b4f
+msgid "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:95
+# dbf5c99c0c874d35be5df3b311faa5bc
+msgid "Blinding Flare"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:92
+# cd87ce14811a4db6b9c5e569435bbaec
+msgid "Strive — Blinding Flare costs |mana_r| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:94
+# d99ef99f8110441ba9f68931d1c98614
+msgid "Any number of target creatures can't block this turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:101
+# 84012d6c65924ef5afdfda462a92b9b9
+msgid "Bloodcrazed Hoplite"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:98
+# 7cd91234488a4ec7bea5940edb0b8d3f
+msgid "Heroic — Whenever you cast a spell that targets Bloodcrazed Hoplite, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:100
+# 48ea421d0df548259990ccf79e24dc26
+msgid "Whenever a +1/+1 counter is placed on Bloodcrazed Hoplite, remove a +1/+1 counter from target creature an opponent controls."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:105
+# 8e14d943f1694faab37220f3f6ffa44d
+msgid "Brain Maggot"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:104
+# 8ddb960bfc0d46249ac29f5334bc91f5
+msgid "When Brain Maggot enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card until Brain Maggot leaves the battlefield."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:111
+# 1caefea182d14025b8939f30a999f538
+msgid "Cast into Darkness"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:110
+# 712845bf3ee64096b214179a797fa982
+msgid "Enchanted creature gets -2/-0 and can't block."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:117
+# c6c94f12451f4aa6925c89138e844c26
+msgid "Chariot of Victory"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:114
+# 7dcda65dd010434588a25e0e541a029c
+msgid "Equipped creature has first strike, trample, and haste."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:116
+# d395642f10534b6091ddd5afabbb953b
+msgid "Equip |mana_1|"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:123
+# 998ce845115e429e9507d37aa304d65d
+msgid "Cloaked Siren"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:120
+#: ../../oldies/python/JOU.rst:274
+# 2280e2ed6c134c309fd7e6ffaa5c1373
+# 6a111a87ea5a4f4e9650eae237d4a566
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:122
+#: ../../oldies/python/JOU.rst:344
+#: ../../oldies/python/JOU.rst:396
+#: ../../oldies/python/JOU.rst:490
+#: ../../oldies/python/JOU.rst:652
+#: ../../oldies/python/JOU.rst:730
+#: ../../oldies/python/JOU.rst:742
+#: ../../oldies/python/JOU.rst:776
+#: ../../oldies/python/JOU.rst:786
+#: ../../oldies/python/JOU.rst:858
+# 3d0946d2583741f487299dd923f2565a
+# ce1fe5a1ccc8462b8976271a14e0c0fc
+# 3b6968d15d084a85974a1aca052ba635
+# 29a845d9bfbb4ad6b6f123b617f1e5ac
+# be2c25feb96a4927897ead4729622bd0
+# 615b23e228a34d86bcef80cdab203f06
+# 9e75cbab17b84ad68d679d52b8783b7f
+# 830921d3cbb14607891a2519be0be607
+# 3395abe106df4168aa6f9b2ce9258aae
+# 25ef1e7140654ceea23871417b3c85ac
+msgid "Flying"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:129
+# 54a082d8311443b4af487bf8b2426f8e
+msgid "Colossal Heroics"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:126
+# ca516f8ad7104f08b8d22a4070e1d820
+msgid "Strive — Colossal Heroics costs |mana_1| |mana_g| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:128
+# 07874f553c4a4bb49baf0407bfac1ab8
+msgid "Any number of target creatures each get +2/+2 until end of turn. Untap those creatures."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:135
+# cde5d25870b74e35854d809c3f824c53
+msgid "Consign to Dust"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:132
+# dc0f18a78db740c99384066ce002e4c0
+msgid "Strive — Consign to Dust costs |mana_2| |mana_g| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:134
+# efe111c62a4148f5b4da0375a26e1415
+msgid "Destroy any number of target artifacts and/or enchantments."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:139
+# cac0357ddc0645ebabc2ddb21f7aa2ad
+msgid "Countermand"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:138
+# 6f7f747092ab4897bed84fca4b756256
+msgid "Counter target spell. Its controller puts the top four cards of his or her library into his or her graveyard."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:145
+# 1d04a16eb15b48caa27893784a43ddb9
+msgid "Cruel Feeding"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:142
+# d9342a2db7034b589bb89f50ff995008
+msgid "Strive — Cruel Feeding costs |mana_2| |mana_b| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:144
+# 1d92398319f34127bcde63d85945426f
+msgid "Any number of target creatures each get +1/+0 and gain lifelink until end of turn. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:153
+# eede73467aef4691a45b7420dfbb6f13
+msgid "Crystalline Nautilus"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:148
+# a774435c86e14882a618865831ff80ae
+msgid "Bestow |mana_3| |mana_u| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:150
+# a7d4decb5d054d2ca041fe60231132b4
+msgid "When Crystalline Nautilus becomes the target of a spell or ability, sacrifice it."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:152
+# c923d92dfdc3450aae32744ad99ba664
+msgid "Enchanted creature gets +4/+4 and has \\\"When this creature becomes the target of a spell or ability, sacrifice it.\\\""
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:157
+# 74d7919ab481497aa35b8ed7b272ecc3
+msgid "Cyclops of Eternal Fury"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:156
+# 6cecbde290c44433b4a06f3bffcf729d
+msgid "Creatures you control have haste."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:161
+# 9358d65d42754d8182d4bf44537367a1
+msgid "Dakra Mystic"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:160
+# bb4879fb27214241a12074b834dfe206
+msgid "|mana_u|, |tap|: Each player reveals the top card of his or her library. You may put the revealed cards into their owners' graveyards. If you don't, each player draws a card."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:165
+# 135e920db9444980b1b7c2f07d1787dd
+msgid "Daring Thief"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:164
+# 12ecc6578256472abdf8b46c4c0e7698
+msgid "Inspired — Whenever Daring Thief becomes untapped, you may exchange control of target nonland permanent you control and target permanent an opponent controls that shares a card type with it."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:171
+# 520d18ba7ef44452b1aef084dd65c959
+msgid "Dawnbringer Charioteers"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:168
+# 6e5142b152fd49e6a8bc1ff2ded7406c
+msgid "Flying, lifelink"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:170
+# f32550c0fb154948a259e4eace561c5a
+msgid "Heroic — Whenever you cast a spell that targets Dawnbringer Charioteers, put a +1/+1 counter on Dawnbringer Charioteers."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:175
+# c2714f24f955423887b33f4570c558a2
+msgid "Deicide"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:174
+# e00f2ac34fae4c04bed7f564c1030602
+msgid "Exile target enchantment. If the exiled card is a God card, search its controller's graveyard, hand, and library for any number of cards with the same name as that card and exile them, then that player shuffles his or her library."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:179
+# 5ddd284c162a45168072c3b886a01c3d
+msgid "Desecration Plague"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:178
+# 827d40ccee8c455990890fc098144dac
+msgid "Destroy target enchantment or land."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:185
+# 0f2a5793d9aa46d6a2817a0ce1aee40b
+msgid "Deserter's Quarters"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:182
+# 50fe0392bbf646aaa8981fefe4e6edec
+msgid "You may choose not to untap Deserter's Quarters during your untap step."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:184
+# f09ec45d763f4bac9450f15f43133e2d
+msgid "|mana_6|, |tap|: Tap target creature. It doesn't untap during its controller's untap step for as long as Deserter's Quarters remains tapped."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:191
+# 790e4863404b42f5bf77c256860bab4a
+msgid "Desperate Stand"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:188
+# 2953f44c5c944fd4a3a72bbe172901fc
+msgid "Strive — Desperate Stand costs |mana_r| |mana_w| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:190
+# b6f20a81d3064476af1b14a30ca197ef
+msgid "Any number of target creatures each get +2/+0 and gain first strike and vigilance until end of turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:197
+# c5b1606b96774634a805066097fb0eb9
+msgid "Dictate of Erebos"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:194
+#: ../../oldies/python/JOU.rst:200
+#: ../../oldies/python/JOU.rst:206
+#: ../../oldies/python/JOU.rst:212
+#: ../../oldies/python/JOU.rst:218
+# 47bc3bf9fbca48ee80fe17974dcc2221
+# b60b50e51aba4574b3a1f51b31b995b0
+# 1519b83c54d744e7afcdb0a9a97a29e1
+# 2cc9ed5dd3d2415fa0c01caf1c5c91d9
+# 5d1f1050bb7a4935a94c609ead1f2508
+msgid "Flash"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:196
+# 655cd35a1f26430c9bfd5ce684bac621
+msgid "Whenever a creature you control dies, each opponent sacrifices a creature."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:203
+# 13c96c4fd9834411af88bca9c68bfb5b
+msgid "Dictate of Heliod"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:202
+# 36eedce6355c40629928f21ba4e09848
+msgid "Creatures you control get +2/+2."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:209
+# c846106de38e4555b2705076f0e9eb0a
+msgid "Dictate of Karametra"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:208
+# 33383ab1dfd74fd78e8300dc21782622
+msgid "Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:215
+# ed729fddef4146c9af33e07a33f58209
+msgid "Dictate of Kruphix"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:214
+# e37e1300c5ae438bbf5797ac4f36c326
+msgid "At the beginning of each player's draw step, that player draws an additional card."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:221
+# f846566b4e38416c8c36afccfad4da20
+msgid "Dictate of the Twin Gods"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:220
+# f4692a20b903444b825f6c89179faca1
+msgid "If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:225
+# a003f1b6f5094280bcf56c818df573fa
+msgid "Disciple of Deceit"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:224
+# 8d5257a43d3943c6be1776413377c902
+msgid "Inspired — Whenever Disciple of Deceit becomes untapped, you may discard a nonland card. If you do, search your library for a card with the same converted mana cost as that card, reveal it, put it into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:229
+# 2b8bf14693054254a916fa8272dfdf7a
+msgid "Doomwake Giant"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:228
+# d5acf7de856f4119b539f02d3b0a2b7b
+msgid "Constellation — Whenever Doomwake Giant or another enchantment enters the battlefield under your control, creatures your opponents control get -1/-1 until end of turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:233
+# 924825fc70a14970b00f844ade58c546
+msgid "Dreadbringer Lampads"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:232
+# 5b663ee5b5f24d9bbce295914d63a888
+msgid "Constellation — Whenever Dreadbringer Lampads or another enchantment enters the battlefield under your control, target creature gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:237
+# 8255cfb1953b4cd480067d467db819db
+msgid "Eagle of the Watch"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:236
+# cfd038ad2b754a51a27e755f504ed774
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:241
+# 138bdc62ebcf454eb668894cabb1b0b4
+msgid "Eidolon of Blossoms"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:240
+# 31d9a121262146b39f39836f92ed5945
+msgid "Constellation — Whenever Eidolon of Blossoms or another enchantment enters the battlefield under your control, draw a card."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:245
+# e3c42621eaea48719ff5213d64a06525
+msgid "Eidolon of Rhetoric"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:244
+# ff41dbbd76994bb2b7ae305402782c6e
+msgid "Each player can't cast more than one spell each turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:249
+# a97ba954b9eb42debed54a00f4e420be
+msgid "Eidolon of the Great Revel"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:248
+# c2584c26796744a4b8fb2739739ae07a
+msgid "Whenever a player casts a spell with converted mana cost 3 or less, Eidolon of the Great Revel deals 2 damage to that player."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:253
+# 479ffb96dcdc4d9da1f9d55a54bd6c15
+msgid "Extinguish All Hope"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:252
+# 14693cb4bc604f95b77beb80ead0bd15
+msgid "Destroy all nonenchantment creatures."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:257
+# e5d73b7163eb45d589ee0f836ad82a17
+msgid "Feast of Dreams"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:256
+# 43606b7ba08749b18a2738fcab1ff717
+msgid "Destroy target enchanted creature or enchantment creature."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:263
+# 06fb446dcc3e430e9fb32d30c7393c72
+msgid "Felhide Petrifier"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:260
+# 3e9f0c85227f419db3dfcb677e0820bb
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:262
+# f66c35159c4247598623d99126be7a74
+msgid "Other Minotaur creatures you control have deathtouch."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:271
+# 7fddece1c338483ea8f58f74165f697c
+msgid "Flamespeaker's Will"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:266
+#: ../../oldies/python/JOU.rst:504
+# 8d3e3eafbd5542a29c040b98ace1c74c
+# 29cb19d0469a49989c6a629b43bad7be
+msgid "Enchant creature you control"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:268
+#: ../../oldies/python/JOU.rst:506
+# 227b235e543241429eacc556048f4538
+# cbd2f20c05344c6ab1a128e5a2e5acf4
+msgid "Enchanted creature gets +1/+1."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:270
+# 9b27aec502e548319a2e41e55bd6660d
+msgid "Whenever enchanted creature deals combat damage to a player, you may sacrifice Flamespeaker's Will. If you do, destroy target artifact."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:279
+# f1585bb3b6944985a749784b8037496a
+msgid "Fleetfeather Cockatrice"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:276
+# 80c5b1777e4a41d4b75311d49d30ea90
+msgid "Flying, deathtouch"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:278
+# be198e763dc1470a8fa85b273335b5a9
+msgid "|mana_5| |mana_g| |mana_u|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:283
+# d25089ef286646e98c6251cab49223af
+msgid "Flurry of Horns"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:282
+# fa857364433048b18a9dd8ef530971d1
+msgid "Put two 2/3 red Minotaur creature tokens with haste onto the battlefield."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:287
+# 9a200c812a7b44fdaf85643bd5b61599
+msgid "Font of Fertility"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:286
+# 2dea6e885a6d44109903faa6b4d82706
+msgid "|mana_1| |mana_g|, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:291
+# 1485737f33ff41198699c273a3f43d61
+msgid "Font of Fortunes"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:290
+# a363daf712a543febf567696c4f0453a
+msgid "|mana_1| |mana_u|, Sacrifice Font of Fortunes: Draw two cards."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:295
+# 066484421d9e483f8ee5db03e808abc0
+msgid "Font of Ire"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:294
+# a03bad01d31447e689c626bd5b15d55c
+msgid "|mana_3| |mana_r|, Sacrifice Font of Ire: Font of Ire deals 5 damage to target player."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:299
+# 61d0b3d7bb2a40f4a7c2bb261441edc0
+msgid "Font of Return"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:298
+# aac2d67afa404bed8d1e3f01de2008c0
+msgid "|mana_3| |mana_b|, Sacrifice Font of Return: Return up to three target creature cards from your graveyard to your hand."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:303
+# 9d7ad7e15cf94f4bac4696cb38e868e1
+msgid "Font of Vigor"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:302
+# 34f1fc45b5424eb6b302ce08c513276f
+msgid "|mana_2| |mana_w|, Sacrifice Font of Vigor: You gain 7 life."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:307
+# ef257e8d6a94494a9fab7163704ba3ec
+msgid "Forgeborn Oreads"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:306
+# aed659d046a84884a1de69bf640dbe10
+msgid "Constellation — Whenever Forgeborn Oreads or another enchantment enters the battlefield under your control, Forgeborn Oreads deals 1 damage to target creature or player."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:311
+# 7cbde11e97204aecac4ffc79a7061640
+msgid "Gluttonous Cyclops"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:310
+# 674bc613a90d40c2bb0eac0c4764ae34
+msgid "|mana_5| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:319
+# 010c1bf22a9243bab80e58b301be684e
+msgid "Gnarled Scarhide"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:314
+# 65ff029ee053420889a1924cadfb7338
+msgid "Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:316
+# bff6e8a6c50a48a5ac21d0f5267cc9f7
+msgid "Gnarled Scarhide can't block."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:318
+# 2b2c14e7ad304991ae9648be3b561508
+msgid "Enchanted creature gets +2/+1 and can't block."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:323
+# 5655d437862e4317a66901ba3d02ed53
+msgid "Godhunter Octopus"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:322
+# 91b92133c1cb4628b697cd9f6c0eccc4
+msgid "Godhunter Octopus can't attack unless defending player controls an enchantment or an enchanted permanent."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:333
+# 1bb34ac0ae1e4b49a5484935a536b676
+msgid "Godsend"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:326
+# 625ddf38224c4aff87fd89876bef407a
+msgid "Equipped creature gets +3/+3."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:328
+# efbd23292578457ab8316a581413bb4c
+msgid "Whenever equipped creature blocks or becomes blocked by one or more creatures, you may exile one of those creatures."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:330
+# 37434f09422147a88a8305532e6900de
+msgid "Opponents can't cast cards with the same name as cards exiled with Godsend."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:332
+# ce4d114147f24fb79b64efab1f8b8bbb
+msgid "Equip |mana_3|"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:337
+# c2bc356ad8b74334bddea5e05042c2ad
+msgid "Golden Hind"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:336
+# 5467e421e82541ee8937aa1abb3710f3
+msgid "|tap|: Add |mana_g| to your mana pool."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:341
+# 564605930b76446da6f1525da2e6566b
+msgid "Goldenhide Ox"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:340
+# b35fe649f5674755a92acb805e24375d
+msgid "Constellation — Whenever Goldenhide Ox or another enchantment enters the battlefield under your control, target creature must be blocked this turn if able."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:345
+# 09689f659478425aacab3f54e7b831e3
+msgid "Gold-Forged Sentinel"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:349
+# 8a2a9a1d0f6e4b4b87ad98c40c56221e
+msgid "Grim Guardian"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:348
+# cb7133e546fb47648986005d25233950
+msgid "Constellation — Whenever Grim Guardian or another enchantment enters the battlefield under your control, each opponent loses 1 life."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:355
+# 6bbe12c104e14573bc655300e71fb33e
+msgid "Hall of Triumph"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:352
+# 1d499657cdbd483eac334e9b1895b8d6
+msgid "As Hall of Triumph enters the battlefield, choose a color."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:354
+# b8d3519c791b490d99d27ec710a77a82
+msgid "Creatures you control of the chosen color get +1/+1."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:361
+# eec2d78b10684cc9ab85f1843f06e173
+msgid "Harness by Force"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:358
+# f874282a6a0e4ad0ad44ebe52c77c5e0
+msgid "Strive — Harness by Force costs |mana_2| |mana_r| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:360
+# aa66b4797c3a42d5b37ba35c408bd4c9
+msgid "Gain control of any number of target creatures until end of turn. Untap those creatures. They gain haste until end of turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:365
+# a7f17926b8d34e72a93f7e3406127c42
+msgid "Harvestguard Alseids"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:364
+# 1942e60f9d7a4d29b0ba31013c63dd6d
+msgid "Constellation — Whenever Harvestguard Alseids or another enchantment enters the battlefield under your control, prevent all damage that would be dealt to target creature this turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:371
+# e69a69c855af4e5e8b162a3be6e1a320
+msgid "Heroes' Bane"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:368
+# 7cd7c81e785b4c3b99f998c9cc6010e1
+msgid "Heroes' Bane enters the battlefield with four +1/+1 counters on it."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:370
+# 19893b3cc3c44f71a2f808a7bfc0ce54
+msgid "|mana_2| |mana_g| |mana_g|: Put X +1/+1 counters on Heroes' Bane, where X is its power."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:377
+# b280a817ac9b462e8fd10af493adbbdb
+msgid "Hour of Need"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:374
+# e03efabde2154147bf34f6a4ecb3da74
+msgid "Strive — Hour of Need costs |mana_1| |mana_u| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:376
+# d4515201427e4ca8866c1fca8a7549db
+msgid "Exile any number of target creatures. For each creature exiled this way, its controller puts a 4/4 blue Sphinx creature token with flying onto the battlefield."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:381
+# 520e5144ccce420caa489a9979f2c45a
+msgid "Hubris"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:380
+# f3b081f94ac1430d9b947bb6e19a7d82
+msgid "Return target creature and all Auras attached to it to their owners' hands."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:385
+# 43e29a443ebe4662909b46fcc2bfc556
+msgid "Humbler of Mortals"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:384
+# c0060a0d90454fabb149bec9b51151df
+msgid "Constellation — Whenever Humbler of Mortals or another enchantment enters the battlefield under your control, creatures you control gain trample until end of turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:391
+# e7ec0b88e1c745ff946e2b24daf01a97
+msgid "Hydra Broodmaster"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:388
+# d9a7ea39df5446db828288650c1b3106
+msgid "|mana_x| |mana_x| |mana_g|: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:390
+# 12680ae21dd94e328f556677ce4e5892
+msgid "When Hydra Broodmaster becomes monstrous, put X X/X green Hydra creature tokens onto the battlefield."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:401
+# 7302da4b9e554aa388fefd6ba1532c90
+msgid "Hypnotic Siren"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:394
+# 8800858c650f431c9fe32a6766e8a554
+msgid "Bestow |mana_5| |mana_u| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:398
+# 0fa0515960da4e49a681988b4d44ee6f
+msgid "You control enchanted creature."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:400
+# 3e61f35323f74130a570f03a8f95a6f8
+msgid "Enchanted creature gets +1/+1 and has flying."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:405
+# abe5beaef2164d67befb8e88e3ea38a4
+msgid "Interpret the Signs"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:404
+# 5ff1b155d768419bad65b5187ae756b0
+msgid "Scry 3, then reveal the top card of your library. Draw cards equal to that card's converted mana cost. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:415
+# f6ba24a8cbcb4c3a8cb6de6c6a4fc991
+msgid "Iroas, God of Victory"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:410
+# 0ad81933188447259b182d9e910b2de4
+msgid "As long as your devotion to red and white is less than seven, Iroas isn't a creature."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:412
+# f47b5aa015ae45f4bf3e8b3930e30bd7
+msgid "Creatures you control can't be blocked except by two or more creatures."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:414
+# 40cc810e134e4e23a785940c32eb743c
+msgid "Prevent all damage that would be dealt to attacking creatures you control."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:423
+# 83e3a0b1eaf5431a97aede4bc5b26bc1
+msgid "Keranos, God of Storms"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:420
+# 6f66efc8b4b043b9baefe0fa1aa7ba5c
+msgid "As long as your devotion to blue and red is less than seven, Keranos isn't a creature."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:422
+# 497733c6fea649ca8b1a63f40317b706
+msgid "Reveal the first card you draw on each of your turns. Whenever you reveal a land card this way, draw a card. Whenever you reveal a nonland card this way, Keranos deals 3 damage to target creature or player."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:427
+# dbda097ce5a34468b2187d5a2c4ee465
+msgid "King Macar, the Gold-Cursed"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:426
+# 938d79e4264d461698e07ffbde16f99c
+msgid "Inspired — Whenever King Macar, the Gold-Cursed becomes untapped, you may exile target creature. If you do, put a colorless artifact token named Gold onto the battlefield. It has \\\"Sacrifice this artifact: Add one mana of any color to your mana pool.\\\""
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:433
+# ebb7c271e95d4efea54ac9893eb70071
+msgid "Kiora's Dismissal"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:430
+# 8fcaa550626a4f35a5fb22fa12cfa5c6
+msgid "Strive — Kiora's Dismissal costs |mana_u| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:432
+# 236cb47fe4784d15a8169221db0aa596
+msgid "Return any number of target enchantments to their owners' hands."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:437
+# 12d6005fba53416999cb688b35e97a5c
+msgid "Knowledge and Power"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:436
+# 30076468edbd40bd9e1f4d33411dd21a
+msgid "Whenever you scry, you may pay |mana_2|. If you do, Knowledge and Power deals 2 damage to target creature or player."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:447
+# b26b63acaaf04ca69823e1723504ddc1
+msgid "Kruphix, God of Horizons"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:442
+# bee3042291004a5187d3301350ddcf6e
+msgid "As long as your devotion to green and blue is less than seven, Kruphix isn't a creature."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:444
+# a374438e27da429098cdad1aad17bac5
+msgid "You have no maximum hand size."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:446
+# 097cadc6dadc45a2bf0b216a408a2682
+msgid "If unused mana would empty from your mana pool, that mana becomes colorless instead."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:451
+# ab2510cb2abb46738d7265b0f0f8dd62
+msgid "Kruphix's Insight"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:450
+# 59afd56cc659487cb6d2259fbbec8267
+msgid "Reveal the top six cards of your library. Put up to three enchantment cards from among them into your hand and the rest of the revealed cards into your graveyard."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:455
+# 713ebe544dd14d01a83692c5ba33dfab
+msgid "Lagonna-Band Trailblazer"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:454
+# 4950d74ddb5047faa7c3f23278714064
+msgid "Heroic — Whenever you cast a spell that targets Lagonna-Band Trailblazer, put a +1/+1 counter on Lagonna-Band Trailblazer."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:461
+# af3e5ed60176440dbfe3d889b10d9082
+msgid "Launch the Fleet"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:458
+# 59de8f97cf7d43ba93d7e28a73956fe3
+msgid "Strive — Launch the Fleet costs |mana_1| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:460
+# c965f63c87ca40aa967664fbd1f8e004
+msgid "Until end of turn, any number of target creatures each gain \\\"Whenever this creature attacks, put a 1/1 white Soldier creature token onto the battlefield tapped and attacking.\\\""
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:465
+# 212ed646b3a44163a05e008fca7832f8
+msgid "Leonin Iconoclast"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:464
+# 847d930782064c19a4a6cb4dbf3a2a14
+msgid "Heroic — Whenever you cast a spell that targets Leonin Iconoclast, destroy target enchantment creature an opponent controls."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:473
+# dcd0076b5d474b9193ddb03b6b492d1a
+msgid "Lightning Diadem"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:470
+# d02b3c42e86e488894138363983715f1
+msgid "When Lightning Diadem enters the battlefield, it deals 2 damage to target creature or player."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:472
+# 577c0ddf03da4d9a840288d0082d4537
+msgid "Enchanted creature gets +2/+2."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:477
+# d0dedbfe8db5450991afdbc2a5ac6ac6
+msgid "Magma Spray"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:476
+# 19b4fdf86b71444f88da3435686a3cba
+msgid "Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:481
+# 79de416a00f14b20be5e70b678149266
+msgid "Mana Confluence"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:480
+# c257bdaf2a9945058ef354555017e7f0
+msgid "|tap|, Pay 1 life: Add one mana of any color to your mana pool."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:487
+# 9166421685b245c69724afef04aa12f5
+msgid "Market Festival"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:484
+# e957372d72514ed1a18babb3593a8d9f
+msgid "Enchant land"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:486
+# 6003aa7258664f3a8f9b282768597168
+msgid "Whenever enchanted land is tapped for mana, its controller adds two mana in any combination of colors to his or her mana pool (in addition to the mana the land produces)."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:493
+# 498ad99182cc4026816a56b687da8918
+msgid "Master of the Feast"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:492
+# fe994fb0feb946aa82588b39fd8f96f5
+msgid "At the beginning of your upkeep, each opponent draws a card."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:501
+# 0dae5332c47e45959fa32094e10b08d1
+msgid "Mogis's Warhound"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:496
+# f191464f90a84f039774a64dc039b5ea
+msgid "Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:498
+# 4039a6cda28543738a1421ec9deecd10
+msgid "Mogis's Warhound attacks each turn if able."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:500
+# bac134213d9c4633a4c73d02eff1fc9f
+msgid "Enchanted creature gets +2/+2 and attacks each turn if able."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:509
+# 90ffc6618e844947a405ab9187d7aba1
+msgid "Mortal Obstinacy"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:508
+# 2cb2e31dc2d34826a7a9ee5b404d13aa
+msgid "Whenever enchanted creature deals combat damage to a player, you may sacrifice Mortal Obstinacy. If you do, destroy target enchantment."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:515
+# df0883838dce4cd7a77634665b086655
+msgid "Nature's Panoply"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:512
+# f82c67c268c842d496a19e063ebb5788
+msgid "Strive — Nature's Panoply costs |mana_2| |mana_g| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:514
+# 2de35d5f034344f48840b8b84f4c205a
+msgid "Choose any number of target creatures. Put a +1/+1 counter on each of them."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:519
+# bb0257086fe24f8496c851048c31b0ec
+msgid "Nessian Game Warden"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:518
+# 8b05ad3764324e288b227cf0d61f69fd
+msgid "When Nessian Game Warden enters the battlefield, look at the top X cards of your library, where X is the number of Forests you control. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:523
+# facf123e7215408186626eee3c413491
+msgid "Nightmarish End"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:522
+# b0fa43ad620b4b348ac1ef2390f62d2b
+msgid "Target creature gets -X/-X until end of turn, where X is the number of cards in your hand."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:529
+# 0f34b34fa7e84c969028ecf55da774b0
+msgid "Nyx Infusion"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:528
+# 1a3ab04b65d5465ba257919a999a0832
+msgid "Enchanted creature gets +2/+2 as long as it's an enchantment. Otherwise, it gets -2/-2."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:537
+# ba2378eb8bad4c189aec3c475a853a51
+msgid "Nyx Weaver"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:532
+# 2096f5e1cd474278a0b7e82829a12ff7
+msgid "Reach"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:534
+# 4f8727a4cb4246bdbe7ce559a8927196
+msgid "At the beginning of your upkeep, put the top two cards of your library into your graveyard."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:536
+# 440af9b6f3ad4cd79a83570b19f29ae6
+msgid "|mana_1| |mana_b| |mana_g|, Exile Nyx Weaver: Return target card from your graveyard to your hand."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:541
+# 165cfb056c964c308e9775f046e943c7
+msgid "Nyx-Fleece Ram"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:540
+# 4322194df3de40f08bb5b6bf42885cdf
+msgid "At the beginning of your upkeep, you gain 1 life."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:545
+# e1a488883e57481daab6757cc0efc93b
+msgid "Oakheart Dryads"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:544
+# 1f68a38b90ae4dbc908c87ca264f3ae0
+msgid "Constellation — Whenever Oakheart Dryads or another enchantment enters the battlefield under your control, target creature gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:553
+# 5a277b5ca8fe4434b9cbf9f94c5697e3
+msgid "Oppressive Rays"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:550
+# e282d3963b2c4de782350c3fd1d99c12
+msgid "Enchanted creature can't attack or block unless its controller pays |mana_3|."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:552
+# 2136c04e5ea44b33bd9af9e5c1ad433b
+msgid "Activated abilities of enchanted creature cost |mana_3| more to activate."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:555
+# 7f142b641cb24071bb49072b6508c5d7
+msgid "Oreskos Swiftclaw"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:559
+# 8626bcf3ecb149a49f25680f1dc79ec6
+msgid "Pensive Minotaur"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:567
+# e0fb453a957e48dc945de174c1faf17e
+msgid "Phalanx Formation"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:564
+# 8313070b02cf473094768cba873164bc
+msgid "Strive — Phalanx Formation costs |mana_1| |mana_w| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:566
+# 01884431fd2241b498ee20244b88813c
+msgid "Any number of target creatures each gain double strike until end of turn. (They deal both first-strike and regular combat damage.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:575
+# 0ef933cbfe7a480e91022431dde4b531
+msgid "Pharika, God of Affliction"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:572
+# d5123829bd644161b33bb8eadcc2041c
+msgid "As long as your devotion to black and green is less than seven, Pharika isn't a creature."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:574
+# dd14e25170c54419815aef74934590ab
+msgid "|mana_b| |mana_g|: Exile target creature card from a graveyard. Its owner puts a 1/1 black and green Snake enchantment creature token with deathtouch onto the battlefield."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:579
+# e16d9f43bc224e8783a51accc9bdfb42
+msgid "Pharika's Chosen"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:578
+# f650e633b0ed4b478ab34e71569c3605
+msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:583
+# de8094e7041e48e3b1bfe333b0257f58
+msgid "Pheres-Band Thunderhoof"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:582
+# 23463383ccf94b27b5f56bb18794f08a
+msgid "Heroic — Whenever you cast a spell that targets Pheres-Band Thunderhoof, put two +1/+1 counters on Pheres-Band Thunderhoof."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:589
+# 843f49d7706046888f15b192fa8c20f9
+msgid "Pheres-Band Warchief"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:586
+# 595466b5b8064a7aaa5b724525f8aa25
+msgid "Vigilance, trample"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:588
+# 0931240803b14176b230a2354b3c3834
+msgid "Other Centaur creatures you control get +1/+1 and have vigilance and trample."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:595
+# df256074342e4bceab18763b25cb1b05
+msgid "Pin to the Earth"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:594
+# 7f9e9594a36349f5844b355d6c12ab57
+msgid "Enchanted creature gets -6/-0."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:601
+# ac83c7fbbc0043648249fc6c294e5aed
+msgid "Polymorphous Rush"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:598
+# 17ab5cdc4a6c42fabe57e39426926f46
+msgid "Strive — Polymorphous Rush costs |mana_1| |mana_u| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:600
+# 6f4a4badd69345949f838c78218143c0
+msgid "Choose a creature on the battlefield. Any number of target creatures you control each become a copy of that creature until end of turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:607
+# 98a2d7414ffb45d8b775dba576a77eb8
+msgid "Prophetic Flamespeaker"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:604
+# d7b8636381e440ceb0cbcdc863e101a2
+msgid "Double strike, trample"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:606
+# 8c01b3eaa08b4c54b72c809f8a282854
+msgid "Whenever Prophetic Flamespeaker deals combat damage to a player, exile the top card of your library. You may play it this turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:611
+# 5e4adff3d6ae452bbd145c92930ee15b
+msgid "Pull from the Deep"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:610
+# 9c82fe84d3d8497784dc3fbb10d377c9
+msgid "Return up to one target instant card and up to one target sorcery card from your graveyard to your hand. Exile Pull from the Deep."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:615
+# 82add11bf38444948a6aed96a4c1f922
+msgid "Quarry Colossus"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:614
+# c9a1287481d74efba957bc2879ea87ec
+msgid "When Quarry Colossus enters the battlefield, put target creature into its owner's library just beneath the top X cards of that library, where X is the number of Plains you control."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:621
+# 7ba5c1535c2c496784c3108ecee0591c
+msgid "Ravenous Leucrocota"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:618
+# 96f309b4ad1e4bf7af170965d45d4650
+msgid "Vigilance"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:620
+# 4098300ca5d8495bbf90bc0599172acc
+msgid "|mana_6| |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:625
+# cd1bf0ec2d39436aa039af093b7eb26e
+msgid "Renowned Weaver"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:624
+# cec406f4cfe94136a3e7223393bb2bc5
+msgid "|mana_1| |mana_g|, Sacrifice Renowned Weaver: Put a 1/3 green Spider enchantment creature token with reach onto the battlefield. (It can block creatures with flying.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:629
+# 28fe1d2e70d4426ba4e9e44d85f0fa61
+msgid "Reprisal"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:628
+# e4572f6596784d1cb1898846374b5642
+msgid "Destroy target creature with power 4 or greater. It can't be regenerated."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:633
+# a4f77b63c4a04cda9d56f4190a124ec8
+msgid "Returned Reveler"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:632
+# 997e66a0867a47d1991787d9daed7e3b
+msgid "When Returned Reveler dies, each player puts the top three cards of his or her library into his or her graveyard."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:637
+# 40b2adf67f0a486bbb430ee33d4eb9f3
+msgid "Revel of the Fallen God"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:636
+# 80646e6c118444d48d6d32433cdd790c
+msgid "Put four 2/2 red and green Satyr creature tokens with haste onto the battlefield."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:645
+# e78d52d895c74a92922a4674e59c4705
+msgid "Reviving Melody"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:640
+# 826bb59f435c4fea95e01b6a465c24d0
+msgid "Choose one or both —"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:642
+# 8e3f2e5c1af04cb681641fad457f55e5
+msgid "Return target creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:644
+# 27d1b31c9a7d4c189356078e376692fa
+msgid "Return target enchantment card from your graveyard to your hand."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:649
+# 055aa7ffb1ed4bf9bcf052c8bd947326
+msgid "Riddle of Lightning"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:648
+# ee707b15d0e14f7b832e7153399f7616
+msgid "Choose target creature or player. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's converted mana cost to that creature or player. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:655
+# 88a3e19f4cf2450fa53af8a2b7a37c71
+msgid "Riptide Chimera"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:654
+# 0128789e103f47efb5e01546483f8bce
+msgid "At the beginning of your upkeep, return an enchantment you control to its owner's hand."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:659
+# aa7cfc08c3774cd997e84160d7a37e36
+msgid "Rise of Eagles"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:658
+# a21f1c8bf1424fcdafe4c1a93200a488
+msgid "Put two 2/2 blue Bird enchantment creature tokens with flying onto the battlefield. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:663
+# fd6acebb33044af98925e083f9c323c4
+msgid "Ritual of the Returned"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:662
+# e0216ccbaab24d8c96ae753ebc6917a0
+msgid "Exile target creature card from your graveyard. Put a black Zombie creature token onto the battlefield. Its power is equal to that card's power and its toughness is equal to that card's toughness."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:667
+# 9eab48d314de4a28bb4a06a3ff8c8e31
+msgid "Rollick of Abandon"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:666
+# b0e2dd970b86494c83738f38db66c1ff
+msgid "All creatures get +2/-2 until end of turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:669
+# 2da6140028114afaaa9690ef3f2481e1
+msgid "Rotted Hulk"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:677
+# 341c18a68af142a4a36f252997a5b777
+msgid "Rouse the Mob"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:674
+# 73ce6297845b4f368814975f3a9bb659
+msgid "Strive — Rouse the Mob costs |mana_2| |mana_r| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:676
+# 4c97a06dd8f74db5a48e52dcc800cb57
+msgid "Any number of target creatures each get +2/+0 and gain trample until end of turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:683
+# ed4f23999abb4ad7bcba1d3657df04c5
+msgid "Sage of Hours"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:680
+# 81d51277d1ee42c385cf0c3d5f2607cb
+msgid "Heroic — Whenever you cast a spell that targets Sage of Hours, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:682
+# b203dfd6be71445fa96f40e99b77e0bb
+msgid "Remove all +1/+1 counters from Sage of Hours: For each five counters removed this way, take an extra turn after this one."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:687
+# 76fded4caa5a476c9b0ddbc57038453a
+msgid "Satyr Grovedancer"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:686
+# 14668227c9a5466099febd127f432c70
+msgid "When Satyr Grovedancer enters the battlefield, put a +1/+1 counter on target creature."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:691
+# f459d86bc80b47feaa3a24df1460b215
+msgid "Satyr Hoplite"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:690
+# 563323c651114f52b7e28b9e63fac067
+msgid "Heroic — Whenever you cast a spell that targets Satyr Hoplite, put a +1/+1 counter on Satyr Hoplite."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:695
+# fdb2794ade9041eaa989e8b26ae3b9e9
+msgid "Scourge of Fleets"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:694
+# 55bf761a580e49c5ac5b323e33787964
+msgid "When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:701
+# e38acab1e2dd409ba4309081519bd1f1
+msgid "Setessan Tactics"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:698
+# da02f02117de4c5a9aabcf80999fb2cb
+msgid "Strive — Setessan Tactics costs |mana_g| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:700
+# 4c4f3ecb642e4288a594d7397952d8ef
+msgid "Until end of turn, any number of target creatures each get +1/+1 and gain \\\"|tap|: This creature fights another target creature.\\\""
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:709
+# 8d24e6098d9946c1b18075937dd1f68f
+msgid "Sightless Brawler"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:704
+# d9e6eea8e6a544968c3989c01830c018
+msgid "Bestow |mana_4| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:706
+# e999ecfb828a433287d916a25671bcac
+msgid "Sightless Brawler can't attack alone."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:708
+# 98ba3ddb80494b079d6c7e4205d299cb
+msgid "Enchanted creature gets +3/+2 and can't attack alone."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:713
+# 6bb4432dfe354864912079dcf0f51df5
+msgid "Sigiled Skink"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:712
+# 51a5c16a24fd4dbbbf2a98c8774fdaa9
+msgid "Whenever Sigiled Skink attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:717
+# 9e9903a598924d1cb919cc9684b90ca0
+msgid "Sigiled Starfish"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:716
+# f987192b5dee4c8d98eaf7ae6448044a
+msgid "|tap|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:723
+# 674e44e5fe42466fb1cb55a89a14e73b
+msgid "Silence the Believers"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:720
+# 8a56171806d14cc684678eca014e1357
+msgid "Strive — Silence the Believers costs |mana_2| |mana_b| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:722
+# fd00d9f672264a84bbc7bdd3ae71adaf
+msgid "Exile any number of target creatures and all Auras attached to them."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:727
+# 9f98f22ea5e44975833c30a0f1218601
+msgid "Skybind"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:726
+# a3bd5aad5bcb419da4973c946d88298f
+msgid "Constellation — Whenever Skybind or another enchantment enters the battlefield under your control, exile target nonenchantment permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:733
+# d7f91204c0e943b2b3d32b5fa9a8c54f
+msgid "Skyspear Cavalry"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:732
+# 03833d9124c24fce92e7b59bffa263ef
+msgid "Double strike (This creature deals both first-strike and regular combat damage.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:739
+# aebd7571c8764a4a936d47734341c9b3
+msgid "Solidarity of Heroes"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:736
+# c461df1cabb940d0bdc440fbab7d559a
+msgid "Strive — Solidarity of Heroes costs |mana_1| |mana_g| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:738
+# 9a3b247cc0b64a0486881d9ea56c1485
+msgid "Choose any number of target creatures. Double the number of +1/+1 counters on each of them."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:745
+# 02de182310334b7da346ec5b2df360cc
+msgid "Spawn of Thraxes"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:744
+# a423694b7da7419b9c2f400ae3675fd7
+msgid "When Spawn of Thraxes enters the battlefield, it deals damage to target creature or player equal to the number of Mountains you control."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:753
+# 7fb38068a10d49e18a099cbd03b8eeaa
+msgid "Spirespine"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:748
+# cbbe6e7dad8a470e82c45a8e20ccc12b
+msgid "Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:750
+# 581c27f3700e493ba839e4ed12baee6a
+msgid "Spirespine blocks each turn if able."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:752
+# cb0298773180403692b8891164109f4e
+msgid "Enchanted creature gets +4/+1 and blocks each turn if able."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:757
+# 757f4d08f9d044ab9154c7981f5f002d
+msgid "Spite of Mogis"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:756
+# 418f47aec1c843c2a62e83665d62dbf7
+msgid "Spite of Mogis deals damage to target creature equal to the number of instant and sorcery cards in your graveyard. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:761
+# cab94f4f0dfa4eecbd43651e5cc4a059
+msgid "Spiteful Blow"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:760
+# 78f1d0d349524941966ad6fccf1fd690
+msgid "Destroy target creature and target land."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:765
+# 6605b600a245460dbce616d0a23fea27
+msgid "Squelching Leeches"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:764
+# ca38d08b04a947e48a1379dfd9ec7bb3
+msgid "Squelching Leeches's power and toughness are each equal to the number of Swamps you control."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:769
+# 8294000f64e747f6bf0a7d8f8828adf8
+msgid "Starfall"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:768
+# dbfecd0befe24f8cac7048755bb7da69
+msgid "Starfall deals 3 damage to target creature. If that creature is an enchantment, Starfall deals 3 damage to that creature's controller."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:773
+# 3013e71e579a481cbb2823f649f9709d
+msgid "Stonewise Fortifier"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:772
+# 0f718fa7d32e455fb9f95ce5f1640045
+msgid "|mana_4| |mana_w|: Prevent all damage that would be dealt to Stonewise Fortifier by target creature this turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:779
+# 8862ef2584a14fb09c823ac733651e94
+msgid "Stormchaser Chimera"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:778
+# 169efb08ca4142e89d1808eb57ec188b
+msgid "|mana_2| |mana_u| |mana_r|: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:783
+# d2c350c8da84433ea8ca014b54f5a1c3
+msgid "Strength from the Fallen"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:782
+# 62c0f107fd3445ecbed390ff260e1474
+msgid "Constellation — Whenever Strength from the Fallen or another enchantment enters the battlefield under your control, target creature gets +X/+X until end of turn, where X is the number of creature cards in your graveyard."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:789
+# b402bfc7a2054f948e8a7a46229f99f1
+msgid "Supply-Line Cranes"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:788
+# 9d8dd3c9687d440491888318b59c83a7
+msgid "When Supply-Line Cranes enters the battlefield, put a +1/+1 counter on target creature."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:797
+# 4c1b9ecba096411f80836b280067397d
+msgid "Swarmborn Giant"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:792
+# 70278cf02b924cdebc2d0bc35bae5848
+msgid "When you're dealt combat damage, sacrifice Swarmborn Giant."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:794
+# a9409090e81e41f3be6d56d62ba67900
+msgid "|mana_4| |mana_g| |mana_g|: Monstrosity 2. (If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:796
+# 7f2eb3fe20fc4e079a778fcc6637c0d6
+msgid "As long as Swarmborn Giant is monstrous, it has reach."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:805
+# 082a18f85ee349548808f43ec248ba0d
+msgid "Temple of Epiphany"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:800
+# c7ac5088f98048ba8eaa6919c119ab47
+msgid "Temple of Epiphany enters the battlefield tapped."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:802
+# d5268d1a36ce4be1922d164ec4038a56
+msgid "When Temple of Epiphany enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:804
+# def004a8cd124400aeb754a8b94804e2
+msgid "|tap|: Add |mana_u| or |mana_r| to your mana pool."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:813
+# 36ac5ebfa8c54c5a81a4d4c98ba13545
+msgid "Temple of Malady"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:808
+# 4942b1b938e44c66ad06be982a9b012c
+msgid "Temple of Malady enters the battlefield tapped."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:810
+# 8345ecb33a05488da75933cea773f64e
+msgid "When Temple of Malady enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:812
+# 22fa6de518c44ee998008bcacbb00ded
+msgid "|tap|: Add |mana_b| or |mana_g| to your mana pool."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:817
+# 905d545adf0e4102a322bdd033505554
+msgid "Tethmos High Priest"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:816
+# 32682d2a53e64e9ab7003fb1227c6a83
+msgid "Heroic — Whenever you cast a spell that targets Tethmos High Priest, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:821
+# 801a68a810ce473a92cea75281871534
+msgid "Thassa's Devourer"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:820
+# db39b5e8b8b6427e97ff252da4ba6bd0
+msgid "Constellation — Whenever Thassa's Devourer or another enchantment enters the battlefield under your control, target player puts the top two cards of his or her library into his or her graveyard."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:825
+# 6e0e11078b4a4174a6d83f44ff68fe61
+msgid "Thassa's Ire"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:824
+# 296d48c9cd0b4d1998e3cf546e5f5a08
+msgid "|mana_3| |mana_u|: You may tap or untap target creature."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:829
+# ea900e63042b4805bd3afb8dbd128370
+msgid "Thoughtrender Lamia"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:828
+# ba636d6984f042f09ba53c702bc08595
+msgid "Constellation — Whenever Thoughtrender Lamia or another enchantment enters the battlefield under your control, each opponent discards a card."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:835
+# ae35a97c89bd442eb446a23424fb2623
+msgid "Tormented Thoughts"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:832
+# 784386b7914b4d4f9f4899b249179204
+msgid "As an additional cost to cast Tormented Thoughts, sacrifice a creature."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:834
+# 601859432820483997989abed6819876
+msgid "Target player discards a number of cards equal to the sacrificed creature's power."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:839
+# ce5812a185bf4de9be2427e185072c0a
+msgid "Triton Cavalry"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:838
+# 55883a5ed0e341d693237ca7d4c41cd9
+msgid "Heroic — Whenever you cast a spell that targets Triton Cavalry, you may return target enchantment to its owner's hand."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:843
+# 1d9c24cf167645cb894f5ea6f77a77c2
+msgid "Triton Shorestalker"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:842
+# e3cf25d0909d49a28f1b311f89749745
+msgid "Triton Shorestalker can't be blocked."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:849
+# 53bd1d4d027f48d38d1dd3cca0f012e1
+msgid "Twinflame"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:846
+# 99a0992074ef405dbc67fa7c936c40d3
+msgid "Strive — Twinflame costs |mana_2| |mana_r| more to cast for each target beyond the first."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:848
+# 5df74e0f8c90445cb2c6eb0b3de4e4bc
+msgid "Choose any number of target creatures you control. For each of them, put a token that's a copy of that creature onto the battlefield. Those tokens have haste. Exile them at the beginning of the next end step."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:855
+# 2fea5f3912644cd2a926ce709a8a1b66
+msgid "Underworld Coinsmith"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:852
+# 2ef7761a97f342c7b30689b541fef2b0
+msgid "Constellation — Whenever Underworld Coinsmith or another enchantment enters the battlefield under your control, you gain 1 life."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:854
+# b62f5ba0e1ef4dc3b6befa61f0006cde
+msgid "|mana_w| |mana_b|, Pay 1 life: Each opponent loses 1 life."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:861
+# 75c7efc03e1e449b816e5472c8878aa3
+msgid "War-Wing Siren"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:860
+# 494e6d327f89427f8592c52ec4dd3472
+msgid "Heroic — Whenever you cast a spell that targets War-Wing Siren, put a +1/+1 counter on War-Wing Siren."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:865
+# bf0ab743d5dd497dafeb0366616fa18a
+msgid "Whitewater Naiads"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:864
+# 116898ffad9f4ad1b0bdb96003b9ca52
+msgid "Constellation — Whenever Whitewater Naiads or another enchantment enters the battlefield under your control, target creature can't be blocked this turn."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:871
+# 35a6586194aa4644937ec2e1b00e4290
+msgid "Wildfire Cerberus"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:868
+# 6eec4edda2c34416945bd0ee290d558a
+msgid "|mana_5| |mana_r| |mana_r|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:870
+# 731c27a33d044e39b46a427bff8981ca
+msgid "When Wildfire Cerberus becomes monstrous, it deals 2 damage to each opponent and each creature your opponents control."
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:875
+# 0e400af0bb7748a7a923d0c15d0ff7d7
+msgid "Worst Fears"
+msgstr ""
+
+#: ../../oldies/python/JOU.rst:874
+# 3dc659d6bdc54e3e8c42c053fc1ab48f
+msgid "You control target player during that player's next turn. Exile Worst Fears. (You see all cards that player could see and make all decisions for the player.)"
+msgstr ""
+

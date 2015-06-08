@@ -1,0 +1,298 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-16 01:27+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../THS_hydra.rst:5
+# ff8475faf3f64fb997ff7adbdf625a14
+msgid "Face the Hydra!"
+msgstr ""
+
+#: ../../THS_hydra.rst:7
+# 9dcbfa36a56342718970622ea2aaf5f3
+msgid "Take the nest step on the Hero's Path and play a new form of **Magic: The Gathering.** Face this Challenge Deck as a single hero or with a group. The deck's rules let you run the Hydra too!"
+msgstr ""
+
+#: ../../THS_hydra.rst:11
+# 82e18213f6034fda97e7dc9fba8b653f
+msgid "How to Play"
+msgstr ""
+
+#: ../../THS_hydra.rst:13
+# e391cbc0a4bf42dd864ae77b7239fe6c
+msgid "You can battle the Hydra alone or with friends (just replace \"you\" with \"each player\" in these rules). **At the end of any turn, if there are no Heads on the battlefield, you win!**"
+msgstr ""
+
+#: ../../THS_hydra.rst:16
+# c775f5da73d84ca2a64a6d42e7300df9
+msgid "Use the regular **Magic** rules with the following exceptions:"
+msgstr ""
+
+#: ../../THS_hydra.rst:18
+# 931b3ab9113a4aaabe8717d5d3b47215
+msgid "You start with up to two Hero cards on the battlefield. (You don't need a Hero to play.)"
+msgstr ""
+
+#: ../../THS_hydra.rst:19
+# 841484e763d24e619968fe515643e322
+msgid "Choose a starting number of Heads. Take that many **cards named Hydra Head** from the Challenge Deck and place them on the battlefield. Shuffle the remaining cards to form the Hydra's Library."
+msgstr ""
+
+#: ../../THS_hydra.rst:21
+# c0b206fbc10a4629a49b96a45d102d4e
+msgid "You go first. (Don't draw a card on your first turn.)"
+msgstr ""
+
+#: ../../THS_hydra.rst:22
+# 4aa2dc184c0b4014a979e5b74cae7a33
+msgid "Then the Hydra takes its turn, and so on."
+msgstr ""
+
+#: ../../THS_hydra.rst:23
+# 1a68235118494de58db85dabc0e344a3
+msgid "You can attack Heads directly with your creatures. Any number of creatures can attack a single Head."
+msgstr ""
+
+#: ../../THS_hydra.rst:24
+# e2ea04e416d84608875776ec1d28f3ab
+msgid "**Growing New Heads:** Whenever a Head leaves the battlefield, reveal the top two cards of the Hydra's library. Put any Heads onto the battlefield and any sorcery cards into the Hydra's graveyard."
+msgstr ""
+
+#: ../../THS_hydra.rst:28
+# 4d87e57a60a547ebb56f1584c6dd6d23
+msgid "The Hydra's Turn"
+msgstr ""
+
+#: ../../THS_hydra.rst:30
+# 5bc4a05c175745c698898e58c15c1035
+msgid "A the start of the Hydra's turn, untap any tapped Heads."
+msgstr ""
+
+#: ../../THS_hydra.rst:31
+# 0c6729a522374155b7819771dfa14a6b
+msgid "Reveal the top card of the Hydra's library. The Hydra casts that card. When the spell resolves, if it's a Head, put it onto the battlefield. If it's a sorcery, follow its instructions and then put it into the Hydra's graveyard."
+msgstr ""
+
+#: ../../THS_hydra.rst:35
+# e4c6999780a04d089633feabd7eddd04
+msgid "The Hydra deals 1 damage to you for each untapped card named Hydra Head it controls and 2 damage to you for each untapped elite Head it controls."
+msgstr ""
+
+#: ../../THS_hydra.rst:39
+# 393399e98bec4eb59abbeaf05f2e4b66
+msgid "Special Rules"
+msgstr ""
+
+#: ../../THS_hydra.rst:41
+# c573606c6eb240fe941e2eda6c500346
+msgid "If the Hydra would be dealt damage or lose life, instead deal that much damage to a Head of your choice."
+msgstr ""
+
+#: ../../THS_hydra.rst:42
+# b50d73e5aa0749b1addcec0075486ad4
+msgid "Ignore effects that would cause the Hydra to draw or discard cards, or any impossible actions."
+msgstr ""
+
+#: ../../THS_hydra.rst:43
+# 2783e9802cfc49c3977fe4924275be72
+msgid "If a Head would move to any zone other than the graveyard, instead put it into the Hydra's graveyard."
+msgstr ""
+
+#: ../../THS_hydra.rst:44
+# ea0f9bf8dc354868875bd5ec566d07ed
+msgid "You make any choices for the Hydra."
+msgstr ""
+
+#: ../../THS_hydra.rst:48
+# c726d727b4734c96b4f788fada512094
+msgid "Hydra Cards"
+msgstr ""
+
+#: ../../THS_hydra.rst:51
+# 9a22fd47ac49423f8eaaa85f2df3eeaa
+msgid "Heads"
+msgstr ""
+
+#: ../../THS_hydra.rst:54
+# 87d4a3240a5548cb8f7bbdefabf7c48c
+msgid "Hydra Head"
+msgstr ""
+
+#: ../../THS_hydra.rst:54
+# 44ba0081ab2d43948df035eaf06eec3c
+msgid "*Hero's Reward* — When Hydra Head leaves the battlefield, each player gains 2 life."
+msgstr ""
+
+#: ../../THS_hydra.rst:57
+# 93469b1b29d6437cae4be6baba530004
+msgid "Ravenous Brute Head"
+msgstr ""
+
+#: ../../THS_hydra.rst:57
+# f57b5f39ce694fbbb6dc2b2289223c4e
+msgid "*Hero's Reward* — When Ravenous Brute Head leaves the battlefield, each player gains 2 life and draws a card."
+msgstr ""
+
+#: ../../THS_hydra.rst:62
+# 7c5b98d9485143c8ae77da0f415a1430
+msgid "Savage Vigor Head"
+msgstr ""
+
+#: ../../THS_hydra.rst:60
+# d0a0a3b801004eaa879905c642081938
+msgid "At the beginning of the Hydra's end step, reveal the top card of the Hydra's library and the Hydra casts that card."
+msgstr ""
+
+#: ../../THS_hydra.rst:62
+# 7aca29b099364f4ba69629b441125509
+msgid "*Hero's Reward* — When Savage Vigor Head leaves the battlefield, each player gains 4 life and draws a card."
+msgstr ""
+
+#: ../../THS_hydra.rst:67
+# 745f41a8f635404e8bb2a771fb2fd2f6
+msgid "Shrieking Titan Head"
+msgstr ""
+
+#: ../../THS_hydra.rst:65
+# 37e7580e99f6458088cfd5576875cfa7
+msgid "At the beginning of the Hydra's end step, each player discards a card."
+msgstr ""
+
+#: ../../THS_hydra.rst:67
+# dece40740132456f95d979d747c931e2
+msgid "*Hero's Reward* — When Shrieking Titan Head leaves the battlefield, each player gains 4 life and draws a card."
+msgstr ""
+
+#: ../../THS_hydra.rst:72
+# f9adce24f13444e8a8178c5960566a41
+msgid "Snapping Fang Head"
+msgstr ""
+
+#: ../../THS_hydra.rst:70
+# 4d1b8f86393b4de6a1e41c0dc725a874
+msgid "At the beginning of the Hydra's end step, Snapping Fang Head deals 1 damage to each player."
+msgstr ""
+
+#: ../../THS_hydra.rst:72
+# 75108df91c6c485da54a33548c6605f0
+msgid "*Hero's Reward* — When Snapping Fang Head leaves the battlefield, each player gains 4 life and draws a card."
+msgstr ""
+
+#: ../../THS_hydra.rst:75
+# d14b5ce59bee40859e476111ac0da6b4
+msgid "Sorceries"
+msgstr ""
+
+#: ../../THS_hydra.rst:78
+# b093eb0323ab48079a184b985f302076
+msgid "Disorienting Glower"
+msgstr ""
+
+#: ../../THS_hydra.rst:78
+# 4d9f10e1ac0941cbbbd4e8c2a42b196a
+msgid "Players cant' cast spells until the Hydra's next turn."
+msgstr ""
+
+#: ../../THS_hydra.rst:83
+# 10dbd939410e49b2b43b3612ce660ed9
+msgid "Distract the Hydra"
+msgstr ""
+
+#: ../../THS_hydra.rst:81
+# c4f5adf9593e4f26b18ab830524479b2
+msgid "Each player may sacrifice a creature. Each player who sacrificed a creature this way chooses a Head and taps it. Each player who didn't sacrifice a creature loses 3 life."
+msgstr ""
+
+#: ../../THS_hydra.rst:88
+# 96f0b46f468b41cc960a3772b9d4dc27
+msgid "Grown from the Stump"
+msgstr ""
+
+#: ../../THS_hydra.rst:86
+# 3dc4f5ac0e4c4f808b914959e0865d3d
+msgid "Put exactly two cards named Hydra Head onto the battlefield from the Hydra's graveyard. If you can't, reveal cards from the top of the Hydra's library until you reveal a Head card. Put that card onto the battlefield and the rest into the Hydra's graveyard."
+msgstr ""
+
+#: ../../THS_hydra.rst:91
+# 8941aedfb620434c8aec57e4546640dc
+msgid "Hydra's Impenetrable Hide"
+msgstr ""
+
+#: ../../THS_hydra.rst:91
+# 22add9433eb247aca1f3b285ac063597
+msgid "Each Head gains indestructible until the end of the Hydra's next turn."
+msgstr ""
+
+#: ../../THS_hydra.rst:95
+# d87e10cea3fd4a0b89136b3855c3f75b
+msgid "Neck Tangle"
+msgstr ""
+
+#: ../../THS_hydra.rst:94
+# c83912423b0e4074913f22a61ce44c53
+msgid "If there are five or more Heads on the battlefield, tap two of them and they don't untap during the Hydra's next untap step. Otherwise, reveal the top card of the Hydra's library and the Hydra casts that card."
+msgstr ""
+
+#: ../../THS_hydra.rst:98
+# 8dc9c7eb73ef41f0bb7bbbaee1f168f9
+msgid "Noxious Hydra Breath"
+msgstr ""
+
+#: ../../THS_hydra.rst:98
+# d59efa1c9f75406c8af6c02ed17a0fea
+msgid "Choose one — Noxious Hydra Breath deals 5 damage to each player; or destroy each tapped non-Head creature."
+msgstr ""
+
+#: ../../THS_hydra.rst:101
+# ab3c532cf8a9414987e667b29d664c83
+msgid "Strike the Weak Spot"
+msgstr ""
+
+#: ../../THS_hydra.rst:101
+# 1eeab4dd126549f99fd64f282a97981a
+msgid "Destroy target Head. If that Head was elite, the Hydra takes an extra turn after this one."
+msgstr ""
+
+#: ../../THS_hydra.rst:105
+# b334ee3104a64f52a7bae93e4cc985d6
+msgid "Swallow the Hero Whole"
+msgstr ""
+
+#: ../../THS_hydra.rst:104
+# 334723355979448f8044ac3dd7aa2748
+msgid "Each player exiles a creature he or she controls. Until the Hydra's next turn, when a Head leaves the battlefield, return the exiled cards to the battlefield under their owners' control."
+msgstr ""
+
+#: ../../THS_hydra.rst:108
+# f5d10d7f8dbd4a61a9e6f186d13ec742
+msgid "Torn Between Heads"
+msgstr ""
+
+#: ../../THS_hydra.rst:108
+# 683934b5727f4213af4868e30b10f628
+msgid "Tap up to two Heads. They don't untap during the Hydra's next untap step. Torn Between Heads deals 5 damage to each player."
+msgstr ""
+
+#: ../../THS_hydra.rst:110
+# ab420c26076a4da1be59f60c01b510ef
+msgid "Unified Lunge"
+msgstr ""
+
+#: ../../THS_hydra.rst:111
+# 23de8f2f60554d89aae5f061330afe35
+msgid "Unified Lunge deals X damage to each player, where X is the number of Heads on the battlefield."
+msgstr ""
+

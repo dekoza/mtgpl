@@ -1,0 +1,588 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-16 01:27+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../commander.rst:5
+# ff7d55692da5470899d8286e88acf486
+msgid "Official Commander Rules"
+msgstr ""
+
+#: ../../commander.rst:7
+# 5bed5d5fe27e4e81ae8ed96aa206fc46
+msgid "Last updated Oct 29th, 2013"
+msgstr ""
+
+#: ../../commander.rst:9
+# 7c1dfb94ee454ef5bae4e35d32d687c6
+msgid "Commander is the modern name for EDH, a Magic:The Gathering variant format which emphasises social interactions, interesting games, and creative deckbuilding. It can be played 1-on-1 but is usually multiplayer."
+msgstr ""
+
+#: ../../commander.rst:11
+# 29f595bc2fab44cca53ede6eb1cdc5aa
+msgid "This page details the rules common to most play groups. Locally players often play with house rules, and are encouraged to, but this consensus version exists so that players know what to expect if they join a game outside their local play area."
+msgstr ""
+
+#: ../../commander.rst:16
+# 7201fbc2bcef4c778a239ded6af17aff
+msgid "Philosophy"
+msgstr ""
+
+#: ../../commander.rst:18
+# 105a594a31d84a1f922c3b083c8d36f0
+msgid "Commander is designed to promote social games of magic."
+msgstr ""
+
+#: ../../commander.rst:20
+# ed4f383715e14565abaf14ff650aa7df
+msgid "It is played in a variety of ways, depending on player preference, but a common vision ties together the global community to help them enjoy a different kind of magic. That vision is predicated on a social contract: a gentleman's agreement which goes beyond these rules to includes a degree of interactivity between players. Players should aim to interact both during the game and before it begins, discussing with other players what they expect/want from the game."
+msgstr ""
+
+#: ../../commander.rst:22
+# 6824fa462e214fd5b010374a188e6d82
+msgid "House rules or \"fair play\" exceptions are always encouraged if they result in more fun for the local community."
+msgstr ""
+
+#: ../../commander.rst:28
+# 00befe91770d445096d8eab48e41c537
+msgid "Deck Construction Rules"
+msgstr ""
+
+#: ../../commander.rst:30
+# 125fb41aceb442fa912b2169a88380a2
+msgid "Players must choose a legendary creature as the \"Commander\" for their deck."
+msgstr ""
+
+#: ../../commander.rst:32
+# dc790f66b0124e55b4c19eedc88d7df2
+msgid "Players may choose any legendary creature as their Commander, although some choices may be met with disapproval by other players. Two players in the same game may choose the same Commander, and other players may include that card in their Deck even if it's not their Commander. Commanders are subject to the Legend rule just like any other legendary creature; multiple copies of the same creature (whether Commander and non-Commander) will all be put into the graveyard (or command zone) as a state based effect."
+msgstr ""
+
+#: ../../commander.rst:34
+# b3fde582583547a6b4f948297e64b08f
+msgid "The Commander is the principle around which the deck is built. It is more easily available than other cards in the deck, and decks will ususally want to leverage their Commander's strengths in their plans. It is not, however, guarenteed to be available at every point in the game so EDH decks should be able to function without it for a time."
+msgstr ""
+
+#: ../../commander.rst:36
+# d1a0675afded4fb381c16a2d0d4e222c
+msgid "A deck's commander is also known as its \"General\" for historical reasons."
+msgstr ""
+
+#: ../../commander.rst:38
+# 7a25e5b804f241dbb7f18e87520ceaf3
+msgid "A card's *colour identity* is its colour plus the colour of any mana symbols in the card's rules text. A card's colour identity is established before the game begins, and cannot be changed by game effects."
+msgstr ""
+
+#: ../../commander.rst:40
+# e27efc58a0024b64a03533db40261b41
+msgid "The Commander's colour identity restricts what cards may appear in the deck."
+msgstr ""
+
+#: ../../commander.rst:42
+# 985d10115e1e4a0a98594b7f850aa0f1
+msgid "Cards in a deck may not have any colours in their identity which are not shared with the commander of the deck. (The identity of each card in the deck must be a subset of the General's)"
+msgstr ""
+
+#: ../../commander.rst:43
+# 37dd6e9631be48848165c0d9d014b1ae
+msgid "Lands whose type includes swamp, island, plains, forest and/or mountain (e.g.: basic lands, shocklands, dual lands, Shadowmoor special-basics, etc) DO contain the corresponding mana symbol(s) as per CR 305.6. As such, while they are \"colourless\" they do have a colour identity and may not appear in a deck unless the Commander is of the appropriate identity."
+msgstr ""
+
+#: ../../commander.rst:44
+# b0f5ace8862344188d2ce6ed1d24c8f5
+msgid "While hybrid mana symbols may be played with either colour mana, they contribute both colours to the card's colour identity. Therefore they may only be played with a Commander whose identity includes ALL of the hybrid symbols' colours."
+msgstr ""
+
+#: ../../commander.rst:45
+# de53e3f36b994a8e868eb785a4316e62
+msgid "Basic land words (swamp, forest, etc) in the text box of a card do NOT represent a coloured mana symbol. They are not restricted to Commander of the same colour identity."
+msgstr ""
+
+#: ../../commander.rst:46
+# cedba692c39c4028904f4635a6e29aa6
+msgid "Reminder text is not included in the colour identity of a card."
+msgstr ""
+
+#: ../../commander.rst:48
+# fdad5a2eaa5140608d38d890bd3d0afa
+msgid "An Example of what cards are/aren't allowed in a three colour deck."
+msgstr ""
+
+#: ../../commander.rst:50
+# 5bcc847f1ebe47edbaecee2a34ecf223
+msgid "A deck with :mtgtip:`Phelddagrif` (casting cost |mana_1| |mana_w| |mana_u| |mana_g|) as the Commander may not contain any cards whose colour identity includes red or black."
+msgstr ""
+
+#: ../../commander.rst:52
+# b9450857ef7a43ab99ee0910b33d624b
+msgid "These cards would all be illegal in a Phelddagrif deck:"
+msgstr ""
+
+#: ../../commander.rst:54
+# d65576f4d1c540b8a95c617c58ce202d
+msgid ":mtgtip:`Goblin Piker` (Its mana cost contains a red mana symbol)"
+msgstr ""
+
+#: ../../commander.rst:55
+# aa2b8587387746aa8cbbb5c902adc876
+msgid ":mtgtip:`Elves of Deep Shadow` (Its ability contains a black mana symbol)"
+msgstr ""
+
+#: ../../commander.rst:56
+# af9f27f4b6a546558bc0e610a0566b86
+msgid ":mtgtip:`Talisman of Dominance` (All sorts of verbotten mana symbols)"
+msgstr ""
+
+#: ../../commander.rst:57
+# 105767ba915542609dcab7f5ebc875da
+msgid ":mtgtip:`Life // Death` (Three shall be the number of the colours)"
+msgstr ""
+
+#: ../../commander.rst:58
+# 1f62f9e334c54de1857aa392021f2ef9
+msgid ":mtgtip:`Degavolver` (... right out)"
+msgstr ""
+
+#: ../../commander.rst:60
+# ac807df0691d4563aa73e3062579f838
+msgid "Our Phelddagrif couldn't use any of these lands:"
+msgstr ""
+
+#: ../../commander.rst:62
+# eaaff9865bb24cde979b1445ed0bc2d7
+msgid ":mtgtip:`Underground River` (obvious, see above)"
+msgstr ""
+
+#: ../../commander.rst:63
+# 9d3b0a530b8f4d5eba6b0f745914d29d
+msgid ":mtgtip:`Godless Shrine`"
+msgstr ""
+
+#: ../../commander.rst:64
+# 7ef70ce448cd4fbab2e8107dc49f56f5
+msgid ":mtgtip:`Badlands`"
+msgstr ""
+
+#: ../../commander.rst:65
+# 1c73099ed47241a0a2adff6cfb5807d8
+msgid ":mtgtip:`Leechridden Swamp`, etc."
+msgstr ""
+
+#: ../../commander.rst:67
+# 3074b1bdfbd74d2fbd9825e1970657ba
+msgid "Phelddagrif may not call upon :mtgtip:`Boros Guildmage` for help"
+msgstr ""
+
+#: ../../commander.rst:68
+# 4620e2462a6440ac85490f4520572240
+msgid "Phelddagrif IS allowed to use:"
+msgstr ""
+
+#: ../../commander.rst:70
+# 3c570dbc79fd443aac1183c7b1b83857
+msgid ":mtgtip:`Esper Panorama`"
+msgstr ""
+
+#: ../../commander.rst:71
+# d961ad2e03ae4772aff496c9f5a35213
+msgid ":mtgtip:`Shard Convergence`"
+msgstr ""
+
+#: ../../commander.rst:73
+# 4ee0eb03e5e142fd8a80254ec41d83d3
+msgid "A deck may not generate mana outside its colours. If an effect would generate mana of an illegal colour, it generates colourless mana instead."
+msgstr ""
+
+#: ../../commander.rst:74
+# 4e080965f35347cfae169d4db3427114
+msgid "A Commander deck must contain exactly 100 cards, including the Commander."
+msgstr ""
+
+#: ../../commander.rst:75
+# 16e2a506df694472b8439977df42afbb
+msgid "With the exception of basic lands, no two cards in the deck may have the same english name."
+msgstr ""
+
+#: ../../commander.rst:76
+# 9ae18de159f642df9964fa9c0af3121a
+msgid "Commander is played with vintage legal cards, with some exceptions:"
+msgstr ""
+
+#: ../../commander.rst:78
+# 44c124b38b0e4f77ac3a7028b339bc64
+msgid "cards are legal as of their set's prerelease"
+msgstr ""
+
+#: ../../commander.rst:79
+# 37164f2b74f347fb94bc2ee4bae483bc
+msgid "The following is the official :ref:`banned list for commander games<commander_banned>`. These cards (and others like them) should not be played without prior agreement from the other players in the game."
+msgstr ""
+
+#: ../../commander.rst:80
+# 6f25329818af40dcb2d3788b18ef49d1
+msgid "Additionally :ref:`the following legends may not be used as a Commander<banned_commanders>`."
+msgstr ""
+
+#: ../../commander.rst:85
+# 894f055cc87e4ca1914e798ec658ecc7
+msgid "Play Rules"
+msgstr ""
+
+#: ../../commander.rst:87
+# 2c0be082bb734b7cb7c2df13093aaa0a
+msgid "The start of game procedure for Commander is as follows:"
+msgstr ""
+
+#: ../../commander.rst:89
+# 0dff61f5f71648d0ae0dbb484611bb4d
+msgid "Players announce their choice of Commander and move that card to the command zone."
+msgstr ""
+
+#: ../../commander.rst:90
+# d8dc6e7a3a074a91ac856e6580e419c5
+msgid "Players may then sideboard if the optional rules for sideboards are being used."
+msgstr ""
+
+#: ../../commander.rst:91
+# 4be47d51e5d348198b3f72374a0b58a8
+msgid "Each player draws a hand of seven cards."
+msgstr ""
+
+#: ../../commander.rst:92
+# 7b128f5e86ae43a9b87220a5dd6097cd
+msgid "Players may mulligan, using the modified :ref:`Partial Paris<partial-paris-mulligan>` method."
+msgstr ""
+
+#: ../../commander.rst:94
+# e090f77c364741fd948786ed3e8aa2a0
+msgid "Being a Commander is not a characteristic [:ref:`MTG CR 109.3 <mtgcr-109-3>`], it is a property of the card. As such, \"Commander-ness\" cannot be copied or overwritten by continuous effects, and does not change with control of the card."
+msgstr ""
+
+#: ../../commander.rst:96
+# 50ded722a07546db9a38e8f7d3a31af8
+msgid "Examples: A :mtgtip:`Body Double` copying a Commander in a graveyard is not a Commander. A Commander which is affected by :mtgtip:`Cytoshape`, or is face down, is still a Commander."
+msgstr ""
+
+#: ../../commander.rst:98
+# ab333743195b42be8a525e55d0b25daf
+msgid "If a player has been dealt 21 points of combat damage by a particular Commander during the game, that player loses a game."
+msgstr ""
+
+#: ../../commander.rst:100
+# e56fcfb71bf34ac99ab80970890419be
+msgid "This is an additional state based effect."
+msgstr ""
+
+#: ../../commander.rst:101
+# e96d0c01c83a45719fdea20784e4989b
+msgid "Commander Damage is cumulative throughout the game; nothing can reduce the amount of damage a Commander has previously done to a player."
+msgstr ""
+
+#: ../../commander.rst:102
+# b9ee8a4af619474bb82b84a8a16118fa
+msgid "Because it is a property of the card and not a characteristic of the game object, a card is still the same Commander even if it leaves the field and returns."
+msgstr ""
+
+#: ../../commander.rst:103
+# 98740ee851254068b77d3962ff0b1e84
+msgid "While effects can raise a player's life total, it doesn't reduce the amount of damage previously taken from a Commander. (eg: :mtgtip:`Beacon of Immortality`)"
+msgstr ""
+
+#: ../../commander.rst:104
+# d3573218a3d547eeb924defacbd6ea06
+msgid "Conversely, combat damage can be reduced, prevented, or replaced as it is taken, in which case it was never dealt and doesn't count towards the total taken from that Commander. (eg: :mtgtip:`Fog` or :mtgtip:`Captain's Maneuver`)"
+msgstr ""
+
+#: ../../commander.rst:105
+# 002f4560e05f46049297ffcd50c27a44
+msgid "Commander Damage is specific to each Commander/Player pairing, not combined across all Commander."
+msgstr ""
+
+#: ../../commander.rst:106
+# a282998db6f34045a3aa23d47fada2a5
+msgid "A player can lose if he or she is dealt 21 points of combat damage by his or her own Commander (ie: under someone else's control)."
+msgstr ""
+
+#: ../../commander.rst:108
+# 929a910e0bc3432ebadf6553d3e9a66f
+msgid "While a Commander is in the command zone, it may be cast. As an additional cost to cast a Commander from the command zone, its owner must pay |mana_2| for each time it was previously cast from the command zone. (ie: Olivia Voldaren costs |mana_6| |mana_b| |mana_r| to cast for the third time.)"
+msgstr ""
+
+#: ../../commander.rst:110
+# 347461f031524d8fa28849c25821b2ad
+msgid "A Commander is still subject to the normal timing restrictions for casting creatures (unless it has Flash or some other affect allows it to be played at another time, such as Vedalken Orrery)"
+msgstr ""
+
+#: ../../commander.rst:112
+# 521213212124459ca258cff07c905321
+msgid "If a Commander would be put into a graveyard or exile from anywhere, its owner may choose to move it to the command zone instead. Details"
+msgstr ""
+
+#: ../../commander.rst:114
+# 036d1f389c314f1392d8b580b2627462
+msgid "This is a replacement effect; the creature never goes to the graveyard and will not trigger such abilities."
+msgstr ""
+
+#: ../../commander.rst:115
+# 3ed8eeeda1de4006982b53fb01cb09fc
+msgid "Commanders will move to the library or hand as normal; only transitions to Exile or the Graveyard may be replaced."
+msgstr ""
+
+#: ../../commander.rst:117
+# 89ea9270025344c28b97b8161cf92cf9
+msgid "If a card is put into the exile zone face down from anywhere, and a player is allowed to look at that card in exile, the player must immediately do so. If it's a commander owned by another player, the player that looked at it turns it face up and puts it into the command zone."
+msgstr ""
+
+#: ../../commander.rst:119
+# 5a57324d3c08459aa32f0368e7b45035
+msgid "Players begin the game with 40 life."
+msgstr ""
+
+#: ../../commander.rst:120
+# 3b98e39c8fcc4f21a9cec612be352162
+msgid "Commanders are subject to the Legend rule; a player cannot control more than one legend with the same name."
+msgstr ""
+
+#: ../../commander.rst:121
+# 062ca95c4bb14105862a9734fcaeef2f
+msgid "Abilities which refer to other cards owned outside the game (:mtgtip:`W<Burning Wish>`:mtgtip:`i<Cunning Wish>`:mtgtip:`s<Death Wish>`:mtgtip:`h<Glittering Wish>`:mtgtip:`e<Golden Wish>`:mtgtip:`s<Living Wish>`, :mtgtip:`Spawnsire`, :mtgtip:`Research<Research // Development>`, :mtgtip:`Ring of Ma'ruf`) do not function in Commander unless the optional sideboard rule is in use. If sideboards are used, wishes and similar cards may retrieve sideboard cards."
+msgstr ""
+
+#: ../../commander.rst:126
+# 34be2547339f4c4793f9f4c272499c96
+msgid "Partial Paris Mulligan rule"
+msgstr ""
+
+#: ../../commander.rst:128
+# 799cb3a0f9a243b38fd2d4c0bcf67398
+msgid "Because Commander games are long and usually not played in multigame matches, the format uses a modified mulligan rule designed to alleviate mana-light hands without significantly increasing the odds of finding individual cards. This is also known as the \"Brittany\" mulligan rule."
+msgstr ""
+
+#: ../../commander.rst:130
+# 4ce2635b801347e6b552ef0158e49347
+msgid "In turn order, players may exile (face down) some or all of the cards in their hand."
+msgstr ""
+
+#: ../../commander.rst:131
+# e3dfe3a3ab1046c8b70db9bf4c33e1ca
+msgid "Each player then draws one less card from their deck than the number they exiled."
+msgstr ""
+
+#: ../../commander.rst:132
+# 584de3c8dfa84463b1a1e660c6273ead
+msgid "Players who exiled at least one card may return to step 1 and repeat the process, drawing one less card each time."
+msgstr ""
+
+#: ../../commander.rst:133
+# d92883c54486457399868f5568e1ac5f
+msgid "Players shuffle all exiled cards into their deck."
+msgstr ""
+
+#: ../../commander.rst:135
+# 9aa4999b168f4a39999cf7ad5b2714c1
+msgid "It is worth noting that even with this form of mulligan, decks playing an insufficient number of mana sources will routinely draw poor hands or insufficient mana as the game progresses."
+msgstr ""
+
+#: ../../commander.rst:139
+# 70912a612fac4ce3a8a1fb04df92e2f2
+msgid "Optional rules for Commander"
+msgstr ""
+
+#: ../../commander.rst:141
+# 3de0500660494e2f8cdc3fa102a572d8
+msgid "Commander is designed first and foremost for social players. It cannot be all things to all people."
+msgstr ""
+
+#: ../../commander.rst:143
+# 6a084925395a4763ba7e1f6f17ae8df2
+msgid "Nevertheless, many people like to play for prizes or other non-social incentives. Those incentives can help build communities and playgroups, but they can also undermine the social contract which keeps the format balanced."
+msgstr ""
+
+#: ../../commander.rst:145
+# 2b9ad179fee7478db1cc2fe5eb330dc7
+msgid "When running a competitive commander event, the recommended list of cards to avoid (under the primary deckbuilding rules) is one place to start. It is not however, nor is it intended to be, comprehensive. There are a great many uninteresting uses for the cards not listed there, and additional structure is required to keep degeneracy [#f1]_ in check. To that end, a selection of optional rules are provided here for prospective TOs or players who find their playgroup can't find a balance."
+msgstr ""
+
+#: ../../commander.rst:149
+# 8eea430ffe17441abe09fa885d8bfe37
+msgid "Sideboards"
+msgstr ""
+
+#: ../../commander.rst:151
+# 81bf5c48049744b1a200e0d6fde1198e
+msgid "Rather than filling every deck with banal responses, it is preferable to allow some flexibility in the composition of a deck."
+msgstr ""
+
+#: ../../commander.rst:153
+# 77a590801a5344a3854760ea713ec20e
+msgid "Players may bring a 10 card sideboard in addition to their 99 cards and 1 Commander."
+msgstr ""
+
+#: ../../commander.rst:154
+# 109c025ca1dc467d8dacc36f691d6876
+msgid "After Commanders are announced, players have 3 minutes to make 1-for-1 substitutions to their deck."
+msgstr ""
+
+#: ../../commander.rst:155
+# dd25e417ed2e4151807e4018c9eb1ed5
+msgid "Any cards not played as part of the deck may be retrieved by \"wishes\"."
+msgstr ""
+
+#: ../../commander.rst:158
+# f2ec36714feb4f56837bfef7061a5fcd
+msgid "Reasoning"
+msgstr ""
+
+#: ../../commander.rst:160
+# e3f36846482e4aceaba399e1586d6792
+msgid "Highly tuned threats piloted by skilled opponents mandate efficient answers. The minimum number of response cards required to ensure they are available in the early turns can easily overwhelm the majority of an EDH deck's building space."
+msgstr ""
+
+#: ../../commander.rst:162
+# 0fe43a1e0ffe4f069bc946f50109da3d
+msgid "Sideboards allow players to respond to the \"best\" strategies in a timely fashion . They should be strongly considered as a necessary defense against brokenness and degeneracy in an environment where no gentlemans agreement on style of play exists."
+msgstr ""
+
+#: ../../commander.rst:165
+# ed35a476c2744d198a0aa5990f04960b
+msgid "Victory Points"
+msgstr ""
+
+#: ../../commander.rst:167
+# a1ee9568d32f41058f9dac9cea8422d2
+msgid "Instead of a \"last man standing\" win condition, organizers are encouraged to use additional or alternate ways to win. Prizes can be awarded for things like:"
+msgstr ""
+
+#: ../../commander.rst:169
+# 3a08f5447ea94b81b026d841fe413344
+msgid "most combat damage dealt in a single turn"
+msgstr ""
+
+#: ../../commander.rst:170
+# 29257bc187eb4ac3a466c30640f8d418
+msgid "biggest mana pool"
+msgstr ""
+
+#: ../../commander.rst:171
+# 6e41772be1b44c74ab2fbae5ff9dd584
+msgid "Commander Damage kills"
+msgstr ""
+
+#: ../../commander.rst:172
+# e7f2e55e640548c9a7bedb9f44fa427c
+msgid "Most mana paid for a Commander"
+msgstr ""
+
+#: ../../commander.rst:173
+# 28901fc815324e0f80ce14cc486a0596
+msgid "etc"
+msgstr ""
+
+#: ../../commander.rst:175
+# 1f1753266b1b43e49535417bb83b76fc
+msgid "By encouraging players to play for disparate, interesting goals everyone has a more rewarding, social experience."
+msgstr ""
+
+#: ../../commander.rst:177
+# 6629c6b290d346dcac5d8689b6fac36e
+msgid "An extensive example can be found here"
+msgstr ""
+
+#: ../../commander.rst:180
+# 4b6ca7f8c37342c49cac656d2e0e2901
+msgid "Democratic Victory"
+msgstr ""
+
+#: ../../commander.rst:182
+# 10129c4fb5424b26af36dde21a3d92bf
+msgid "An organizer who desires a tournament which better approximates normal commander games should reward players for some balance of winning and social play. One way to achieve this is"
+msgstr ""
+
+#: ../../commander.rst:184
+# 2924b260c5cb429eb05c82143d9afdff
+msgid "When the game is over, each player votes for an opponent whose play they enjoyed most."
+msgstr ""
+
+#: ../../commander.rst:185
+# 5615c5636bff46ab9a29839a775f84d6
+msgid "Award two points for being the last player alive, and one point for each vote"
+msgstr ""
+
+#: ../../commander.rst:186
+# f875ef0973ab4ad5a1b58085b07b8363
+msgid "Prizes can be given out by points awarded."
+msgstr ""
+
+#: ../../commander.rst:190
+# e0bbaaeaaf2742c3b6ffbf84d2f0d17c
+msgid "The League Rule"
+msgstr ""
+
+#: ../../commander.rst:192
+# 156fcda213ad4d2089a1838e5b2f40b2
+msgid "A \"League\" consists of a regular group of players who frequently play together using the same decks. No two players in a league game may have the same Commander. Within a given league, Commander are allocated first-come, first-serve and are preserved between meetings/games. No player may have, in his or her deck, the Commander of any other player in the game; it should be replaced with some other card before the game begins."
+msgstr ""
+
+#: ../../commander.rst:197
+# ec018be7da774907bd5eede6e3d8524d
+msgid "License"
+msgstr ""
+
+#: ../../commander.rst:199
+# de6a997adc3c433690855e493228b1b3
+msgid "All card names, artwork, and intrinsic Magic the Gathering game concepts are copyright Wizards of the Coast."
+msgstr ""
+
+#: ../../commander.rst:200
+# a8ac3fa102ce456ab5d0081bb1988de9
+msgid "\"Magic:The Gathering - Commander\" is copyright Wizards of the Coast, 2010. Used with permission."
+msgstr ""
+
+#: ../../commander.rst:201
+# a078fd3eff0f4bf3bf5c4c8a28307658
+msgid "All content not previously copyright by Wizards of the Coast were"
+msgstr ""
+
+#: ../../commander.rst:203
+# 6f855703771f43f68be889e1a8a5ad88
+msgid "created and copyright (2005-2013) by :email:`Gavin Duggan<edhforum@gmail.com>`"
+msgstr ""
+
+#: ../../commander.rst:204
+# 3f0b3ae9a8ba4fdfa9cc14ccb56dd129
+msgid "released under the terms of the `Academic Free License`_ (AFL) as of April 24th, 2007."
+msgstr ""
+
+#: ../../commander.rst:205
+# a24cbe85ea704d8ea3be8925677af494
+msgid "available for public reuse only with attribution, as per the terms of that license."
+msgstr ""
+
+#: ../../commander.rst:209
+# ebb63fe6cc3b4567b9a91f0d3ff6d909
+msgid "Footnotes"
+msgstr ""
+
+#: ../../commander.rst:210
+# a3b06b86868f4cacb2f5ac217aca1c2f
+msgid "Degenerate: *adj* Having fallen below a normal or desireable state, especially functionally, morally, or socially. Having atrophied or declined to a state of sameness."
+msgstr ""
+
+#: ../../commander.rst:212
+# fd068546985b49408475247ceba6af4e
+msgid "Since one of the primary features of commander is the variety of games, and the variable nature of the problem each game presents, degenerate plays are those which take away from the variety and unpredictable nature of the games"
+msgstr ""
+

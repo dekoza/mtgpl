@@ -1,0 +1,2112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-16 01:27+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../BNG.rst:6
+# 002c0f8b22fd47fca10fa6654a5b2208
+msgid "Born of the Gods"
+msgstr ""
+
+#: ../../BNG.rst:10
+# d3d37aade004407c8f0502f6ba86ecb8
+msgid "Acolyte's Reward"
+msgstr ""
+
+#: ../../BNG.rst:9
+# 838c6f860ab4459a97cb8ca719babf14
+msgid "Prevent the next X damage that would be dealt to target creature this turn, where X is your devotion to white. If damage is prevented this way, Acolyte's Reward deals that much damage to target creature or player. (Each |mana_w| in the mana costs of permanents you control counts toward your devotion to white.)"
+msgstr ""
+
+#: ../../BNG.rst:14
+# 5f193658315e496b88b0d3be7e4f1e91
+msgid "Aerie Worshippers"
+msgstr ""
+
+#: ../../BNG.rst:13
+# 46000910c41446aa99ba6f8a0852ab8e
+msgid "Inspired — Whenever Aerie Worshippers becomes untapped, you may pay |mana_2| |mana_u|. If you do, put a 2/2 blue Bird enchantment creature token with flying onto the battlefield."
+msgstr ""
+
+#: ../../BNG.rst:18
+# 9a712c216a394353b1f89cf53ceac45f
+msgid "Akroan Conscriptor"
+msgstr ""
+
+#: ../../BNG.rst:17
+# ba127d4fc76f42dbb2468a5ecf33a410
+msgid "Heroic — Whenever you cast a spell that targets Akroan Conscriptor, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:24
+# 87a5c029b387496b8902e2af53b75a74
+msgid "Akroan Phalanx"
+msgstr ""
+
+#: ../../BNG.rst:21
+#: ../../BNG.rst:101
+#: ../../BNG.rst:875
+# 3cf22ee9e00c48299434955916f2e716
+# 7260ffb356c54e4998a2735a7f2edd5f
+# 5c7e6afcf42a46ba98e8fbb53d02b0ed
+msgid "Vigilance"
+msgstr ""
+
+#: ../../BNG.rst:23
+# 17d0243fb5db4cdb847f235c89920dcb
+msgid "|mana_2| |mana_r|: Creatures you control get +1/+0 until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:30
+# 436a53ba4e744b80b2d5b3c0a9a4560c
+msgid "Akroan Skyguard"
+msgstr ""
+
+#: ../../BNG.rst:27
+#: ../../BNG.rst:33
+#: ../../BNG.rst:119
+#: ../../BNG.rst:175
+#: ../../BNG.rst:303
+#: ../../BNG.rst:323
+#: ../../BNG.rst:375
+#: ../../BNG.rst:391
+#: ../../BNG.rst:469
+#: ../../BNG.rst:591
+#: ../../BNG.rst:727
+#: ../../BNG.rst:735
+#: ../../BNG.rst:741
+#: ../../BNG.rst:749
+#: ../../BNG.rst:771
+# 02c098133d4649ec86abf9a049135b42
+# 6a5dd17a5b1b4dcfb1ee1c1fc3eae367
+# 3f1641adc6e94dcc88bf9641a3fc8920
+# 71d2967a792140be9a0b69ac79bb1145
+# 17eafd0ef59747ea85a09ce3342dd982
+# 9b4d6e25dbda409c8dfaed98fd0bea4f
+# 5a4cc99082bc4e0fa9f933893c8c30ee
+# 6113a58f19194de3bbfe533942e2e6ec
+# fd03336c33684e2eb771162522984c26
+# 38c19ee74e904cd590535f6cb8f7a338
+# cb2cdeb7c7d6467998692e97b19f32b9
+# 53ab515b8d7f42aeb29e5c36a3b86e48
+# 479f79557d9c442ea43035e62f64a448
+# ffbebf9dfdb545b5ae163b622b1d37db
+# cd9b370e1bdf48b19a822607c905fd6f
+msgid "Flying"
+msgstr ""
+
+#: ../../BNG.rst:29
+# f6c89ceac1ae4e7986d6b34db604cd25
+msgid "Heroic — Whenever you cast a spell that targets Akroan Skyguard, put a +1/+1 counter on Akroan Skyguard."
+msgstr ""
+
+#: ../../BNG.rst:36
+# 2db638134b6844cf918912d5c79e3f11
+msgid "Arbiter of the Ideal"
+msgstr ""
+
+#: ../../BNG.rst:35
+# 8f7edcc2cf0149dd9603a7e8e1cb5a4c
+msgid "Inspired — Whenever Arbiter of the Ideal becomes untapped, reveal the top card of your library. If it's an artifact, creature, or land card, you may put it onto the battlefield with a manifestation counter on it. That permanent is an enchantment in addition to its other types."
+msgstr ""
+
+#: ../../BNG.rst:42
+# 42dc9fde61924bf78c713ea257fcc89f
+msgid "Archetype of Aggression"
+msgstr ""
+
+#: ../../BNG.rst:39
+# 615dddc7bb29430c9e46aea2b2be4d55
+msgid "Creatures you control have trample."
+msgstr ""
+
+#: ../../BNG.rst:41
+# af2f42d7e6004251ae27bac14b8ad067
+msgid "Creatures your opponents control lose trample and can't have or gain trample."
+msgstr ""
+
+#: ../../BNG.rst:48
+# 0e29efe6152c4a5eac73461259682d4c
+msgid "Archetype of Courage"
+msgstr ""
+
+#: ../../BNG.rst:45
+# 229107ddc16b4c14a4c9f7a688bd5035
+msgid "Creatures you control have first strike."
+msgstr ""
+
+#: ../../BNG.rst:47
+# d02ca57e7be7432b92b1eb00a9f4975d
+msgid "Creatures your opponents control lose first strike and can't have or gain first strike."
+msgstr ""
+
+#: ../../BNG.rst:54
+# 579c9a8c8c704fc1af5f150b2f13737a
+msgid "Archetype of Endurance"
+msgstr ""
+
+#: ../../BNG.rst:51
+# e2e20cb3cb4e42a9ba930891cba7e11c
+msgid "Creatures you control have hexproof."
+msgstr ""
+
+#: ../../BNG.rst:53
+# 13da428ca407443798d6500f9a48d3d1
+msgid "Creatures your opponents control lose hexproof and can't have or gain hexproof."
+msgstr ""
+
+#: ../../BNG.rst:60
+# 1a5f9537bb014d80a1c1e559c6364309
+msgid "Archetype of Finality"
+msgstr ""
+
+#: ../../BNG.rst:57
+# 0814f78934df4b6e8df911a6988d70c3
+msgid "Creatures you control have deathtouch."
+msgstr ""
+
+#: ../../BNG.rst:59
+# 7fe09d3a862e49bcbfe18ecf255dfc00
+msgid "Creatures your opponents control lose deathtouch and can't have or gain deathtouch."
+msgstr ""
+
+#: ../../BNG.rst:66
+# 3ecd7197972d4a03bcf9b8cacba71e37
+msgid "Archetype of Imagination"
+msgstr ""
+
+#: ../../BNG.rst:63
+# 4a5733a6b9cc4c4d81b90b9df330bfcf
+msgid "Creatures you control have flying."
+msgstr ""
+
+#: ../../BNG.rst:65
+# a8ea5538dc504ec4b6f762cdf788a066
+msgid "Creatures your opponents control lose flying and can't have or gain flying."
+msgstr ""
+
+#: ../../BNG.rst:70
+# 41cb796ccf7c4190893f1ecba288ec24
+msgid "Ashiok's Adept"
+msgstr ""
+
+#: ../../BNG.rst:69
+# 3f76430c1ec3412c96a98623d14417f6
+msgid "Heroic — Whenever you cast a spell that targets Ashiok's Adept, each opponent discards a card."
+msgstr ""
+
+#: ../../BNG.rst:74
+# 94657b3a867344f588d00a5d673563ea
+msgid "Aspect of Hydra"
+msgstr ""
+
+#: ../../BNG.rst:73
+# b2c12b5aff0b4dc7b87608178c21e137
+msgid "Target creature gets +X/+X until end of turn, where X is your devotion to green. (Each |mana_g| in the mana costs of permanents you control counts toward your devotion to green.)"
+msgstr ""
+
+#: ../../BNG.rst:78
+# 9920dc89a57a4f32b14f3de2c234855f
+msgid "Asphyxiate"
+msgstr ""
+
+#: ../../BNG.rst:77
+# ae36482d85ee4460805c93b1068959bf
+msgid "Destroy target untapped creature."
+msgstr ""
+
+#: ../../BNG.rst:84
+# d0ba0190e48149c4b0d7bc963438f233
+msgid "Astral Cornucopia"
+msgstr ""
+
+#: ../../BNG.rst:81
+# 6de0e478cfc14a688e6970cb4ee8b202
+msgid "Astral Cornucopia enters the battlefield with X charge counters on it."
+msgstr ""
+
+#: ../../BNG.rst:83
+# 00827b3358d44aaca3c3d3143c2825c3
+msgid "|tap|: Choose a color. Add one mana of that color to your mana pool for each charge counter on Astral Cornucopia."
+msgstr ""
+
+#: ../../BNG.rst:88
+# 4a2d5e03d9294a8b96e5d34a78ead709
+msgid "Bile Blight"
+msgstr ""
+
+#: ../../BNG.rst:87
+# ba959e8eb40a4fea8bbe86ab4815a49d
+msgid "Target creature and all other creatures with the same name as that creature get -3/-3 until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:94
+# 9570fc71c7974b41a1c6ac9ca13f8077
+msgid "Black Oak of Odunos"
+msgstr ""
+
+#: ../../BNG.rst:91
+#: ../../BNG.rst:633
+# 66592a4664ab49eea4a9758c2fd3bd91
+# d8dd8df0163441a8b55bd3c4251104a6
+msgid "Defender"
+msgstr ""
+
+#: ../../BNG.rst:93
+# ae8c38ce3a5d498480ea9a25646260ae
+msgid "|mana_b|, Tap another untapped creature you control: Black Oak of Odunos gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:98
+# 626a3bbe6e4e431da8ae60f1f3dd9d66
+msgid "Bolt of Keranos"
+msgstr ""
+
+#: ../../BNG.rst:97
+# 9f7d658bbff3486580ff95c8703aab29
+msgid "Bolt of Keranos deals 3 damage to target creature or player. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:106
+# bdb21a7b0d564d59850ed5e538e03a43
+msgid "Brimaz, King of Oreskos"
+msgstr ""
+
+#: ../../BNG.rst:103
+# 46af6836834346ed8ea83db40a35f5d8
+msgid "Whenever Brimaz, King of Oreskos attacks, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield attacking."
+msgstr ""
+
+#: ../../BNG.rst:105
+# 48f89cb469dd4edf8307e4f2fb0ef001
+msgid "Whenever Brimaz blocks a creature, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield blocking that creature."
+msgstr ""
+
+#: ../../BNG.rst:112
+# 170e40671abf4e3b88b6ba074f42cb2e
+msgid "Champion of Stray Souls"
+msgstr ""
+
+#: ../../BNG.rst:109
+# 5ccde7d7c55e4716ac36572666318bf9
+msgid "|mana_3| |mana_b| |mana_b|, |tap|, Sacrifice X other creatures: Return X target creature cards from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../BNG.rst:111
+# 51697ba747af4c779d1615adb3b0653a
+msgid "|mana_5| |mana_b| |mana_b|: Put Champion of Stray Souls on top of your library from your graveyard."
+msgstr ""
+
+#: ../../BNG.rst:116
+# 49094192bcda4f93bf20a318cf28bce7
+msgid "Charging Badger"
+msgstr ""
+
+#: ../../BNG.rst:115
+#: ../../BNG.rst:257
+#: ../../BNG.rst:697
+#: ../../BNG.rst:851
+# a4edf01966934dcf93b4e3795df5c241
+# ba61122b56df49f6aad1bd6bd79eb7a8
+# ceabb856194e4f57b39e1906f1ac8df2
+# 2ed624ff315a469e83466ca0dd9892b3
+msgid "Trample"
+msgstr ""
+
+#: ../../BNG.rst:122
+# d9234820d0274433928c56661bb2a475
+msgid "Chorus of the Tides"
+msgstr ""
+
+#: ../../BNG.rst:121
+# b3441de1e4ca460cbdee8ddd08e51d16
+msgid "Heroic — Whenever you cast a spell that targets Chorus of the Tides, scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:130
+# 098e8b131f104c1e9b7b56e606b600fb
+msgid "Chromanticore"
+msgstr ""
+
+#: ../../BNG.rst:125
+# 75498f00322d47ff9a68a325fc668da0
+msgid "Bestow |mana_2| |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:127
+# d0bedd0d09d845bcb72ba64bf72ee2ed
+msgid "Flying, first strike, vigilance, trample, lifelink"
+msgstr ""
+
+#: ../../BNG.rst:129
+# b8e1336729ae4921a4056f470057552d
+msgid "Enchanted creature gets +4/+4 and has flying, first strike, vigilance, trample, and lifelink."
+msgstr ""
+
+#: ../../BNG.rst:136
+# 41b95aa93c2244a381e790e440d8dafe
+msgid "Claim of Erebos"
+msgstr ""
+
+#: ../../BNG.rst:133
+#: ../../BNG.rst:201
+#: ../../BNG.rst:211
+#: ../../BNG.rst:217
+#: ../../BNG.rst:223
+#: ../../BNG.rst:231
+#: ../../BNG.rst:289
+#: ../../BNG.rst:381
+#: ../../BNG.rst:437
+#: ../../BNG.rst:581
+#: ../../BNG.rst:651
+#: ../../BNG.rst:799
+#: ../../BNG.rst:813
+#: ../../BNG.rst:859
+#: ../../BNG.rst:891
+# 5d93e58f54504d37976fad3a74a32056
+# 5dd1a72da6bf4cc8955c4a125f24e1b9
+# f778b611c7664d36b1f01ad81953e6d2
+# 9697a955c8534875aae0fd587a0c54eb
+# 1d12664234f04cc9bc4b3c8f4c2d55fd
+# d19c56aa8c7b4044bd5a447af1b86c7e
+# 3fd5a922e4d54a08b2c95066a9cf80b3
+# 8642eefba0a740ebacacf0f7e1744481
+# 51c433b9f632420aa933cc74f6198a33
+# 9916c9e7d0314d3691cd841fdcef27a2
+# d80c007725374a6094cc316e8382ee13
+# dd035af01d3c46f6a304cc522d9ecfbd
+# dd57f6b429d74d1e8678799fcd9556eb
+# df16a35bb30c48f481da008b4df41d98
+# 44624b2865c842e79503869a4c90941d
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../BNG.rst:135
+# e028507fec8a446d8440174b3b3eba11
+msgid "Enchanted creature has \\\"|mana_1| |mana_b|, |tap|: Target player loses 2 life.\\\""
+msgstr ""
+
+#: ../../BNG.rst:144
+# 8fffeb6a71be47838388b22c0ce3a7bc
+msgid "Courser of Kruphix"
+msgstr ""
+
+#: ../../BNG.rst:139
+# d75a38ed2719431998868ec22a11dd08
+msgid "Play with the top card of your library revealed."
+msgstr ""
+
+#: ../../BNG.rst:141
+# 9db8b0ae6bff4523b9b0dfa96b562a48
+msgid "You may play the top card of your library if it's a land card."
+msgstr ""
+
+#: ../../BNG.rst:143
+# cbc5f67b6ecb44ddb24bba23c13d6ccd
+msgid "Whenever a land enters the battlefield under your control, you gain 1 life."
+msgstr ""
+
+#: ../../BNG.rst:148
+# 6c0c862f157747009c3f3407aceacef5
+msgid "Crypsis"
+msgstr ""
+
+#: ../../BNG.rst:147
+# c6d8943ff1184b9281b51ce4ddc93709
+msgid "Target creature you control gains protection from creatures your opponents control until end of turn. Untap it."
+msgstr ""
+
+#: ../../BNG.rst:152
+# f476e5de07ad46b795e2fb8fc5a71dfd
+msgid "Culling Mark"
+msgstr ""
+
+#: ../../BNG.rst:151
+# 037c352926e247999cabd016a2c1d329
+msgid "Target creature blocks this turn if able."
+msgstr ""
+
+#: ../../BNG.rst:154
+# 6dacba6667304b2eba3e307c41ece335
+msgid "Cyclops of One-Eyed Pass"
+msgstr ""
+
+#: ../../BNG.rst:160
+# 520e72e051d540389006bec609838a80
+msgid "Dawn to Dusk"
+msgstr ""
+
+#: ../../BNG.rst:159
+# 926cb93898a74c88a80d7f90cebf54fc
+msgid "Choose one or both — Return target enchantment card from your graveyard to your hand; and/or destroy target enchantment."
+msgstr ""
+
+#: ../../BNG.rst:164
+# 36afac4cff1b49e09ae05bbedb67bb3d
+msgid "Deepwater Hypnotist"
+msgstr ""
+
+#: ../../BNG.rst:163
+# 8a9eefe9dee64a1195bfcdcc38e78d5d
+msgid "Inspired — Whenever Deepwater Hypnotist becomes untapped, target creature an opponent controls gets -3/-0 until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:168
+# 7a35553ab01a41709f62ddaf8033bf5e
+msgid "Divination"
+msgstr ""
+
+#: ../../BNG.rst:167
+# 1e59290200c84f3a99fca8ea5370e6b9
+msgid "Draw two cards."
+msgstr ""
+
+#: ../../BNG.rst:172
+# df5cc4f07d9c4a4d8ff64c18d75951c5
+msgid "Drown in Sorrow"
+msgstr ""
+
+#: ../../BNG.rst:171
+# 7fc15ec8edee4e538a5ae80f0382822f
+msgid "All creatures get -2/-2 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:180
+# 42d26593680343b48c0ebf89e532a1e2
+msgid "Eater of Hope"
+msgstr ""
+
+#: ../../BNG.rst:177
+# cf1cb1cee8cf469a902b180cd136d1d1
+msgid "|mana_b|, Sacrifice another creature: Regenerate Eater of Hope."
+msgstr ""
+
+#: ../../BNG.rst:179
+# da502c714b7443b383197222817619d8
+msgid "|mana_2| |mana_b|, Sacrifice two other creatures: Destroy target creature."
+msgstr ""
+
+#: ../../BNG.rst:186
+# 8c8eb2e92b46423885166791903a1a2f
+msgid "Eidolon of Countless Battles"
+msgstr ""
+
+#: ../../BNG.rst:183
+# 9eb188a7dd654b6c90839fa371f7c4b3
+msgid "Bestow |mana_2| |mana_w| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:185
+# 71c87652f67e4a99a2e0271c6d384308
+msgid "Eidolon of Countless Battles and enchanted creature each get +1/+1 for each creature you control and +1/+1 for each Aura you control."
+msgstr ""
+
+#: ../../BNG.rst:190
+# 2b3f8f2a474142d7b738043061aefa29
+msgid "Elite Skirmisher"
+msgstr ""
+
+#: ../../BNG.rst:189
+# aa4fb2a830764a3baf9aeebfd293415b
+msgid "Heroic — Whenever you cast a spell that targets Elite Skirmisher, you may tap target creature."
+msgstr ""
+
+#: ../../BNG.rst:198
+# b8e922ed368d4b63aeb87e51b090a006
+msgid "Ephara, God of the Polis"
+msgstr ""
+
+#: ../../BNG.rst:193
+#: ../../BNG.rst:429
+#: ../../BNG.rst:493
+#: ../../BNG.rst:617
+#: ../../BNG.rst:905
+# 22552178a96046c1b815bd32450eeedb
+# af647bbb0c3d4fa39d78dd2f3bb99a59
+# f8305cfc8519427c9ee900003f5f0b77
+# 98ae8b76ef0a4d2d89d390e17ffb8c95
+# 74d89ce1a00648aba77b316063cdb5f8
+msgid "Indestructible"
+msgstr ""
+
+#: ../../BNG.rst:195
+# 0ef8110df1ba46e1a0766e95eeb89db4
+msgid "As long as your devotion to white and blue is less than seven, Ephara isn't a creature."
+msgstr ""
+
+#: ../../BNG.rst:197
+# 6f83314b0ead4d29aa8c88ddf2f7cd2d
+msgid "At the beginning of each upkeep, if you had another creature enter the battlefield under your control last turn, draw a card."
+msgstr ""
+
+#: ../../BNG.rst:208
+# dd006a2bb57144feb8b8b7f3875e09dc
+msgid "Ephara's Enlightenment"
+msgstr ""
+
+#: ../../BNG.rst:203
+# 210ea3f26c924ff88e25d305577bb072
+msgid "When Ephara's Enlightenment enters the battlefield, put a +1/+1 counter on enchanted creature."
+msgstr ""
+
+#: ../../BNG.rst:205
+#: ../../BNG.rst:803
+# a1f4b6a939a74138b7c88686388933c0
+# 08fbce360aa14138ade9b530150f73e4
+msgid "Enchanted creature has flying."
+msgstr ""
+
+#: ../../BNG.rst:207
+# f2663c16a92946b480fbe766c978ce52
+msgid "Whenever a creature enters the battlefield under your control, you may return Ephara's Enlightenment to its owner's hand."
+msgstr ""
+
+#: ../../BNG.rst:214
+# e4a9072c4ee14291b1b5729ceab0c02d
+msgid "Ephara's Radiance"
+msgstr ""
+
+#: ../../BNG.rst:213
+# e3321084ae1346e7b72364af1c97e3b8
+msgid "Enchanted creature has \\\"|mana_1| |mana_w|, |tap|: You gain 3 life.\\\""
+msgstr ""
+
+#: ../../BNG.rst:220
+# d2f149b56da843089e9fe822777f99a9
+msgid "Epiphany Storm"
+msgstr ""
+
+#: ../../BNG.rst:219
+# 10e355893f7a4214a6eeece0666a6bdc
+msgid "Enchanted creature has \\\"|mana_r|, |tap|, Discard a card: Draw a card.\\\""
+msgstr ""
+
+#: ../../BNG.rst:228
+# 7948db77be5345b9bee68dbef34b69a8
+msgid "Eternity Snare"
+msgstr ""
+
+#: ../../BNG.rst:225
+# da21646cd1e648a2b3a684118d175a71
+msgid "When Eternity Snare enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../BNG.rst:227
+# a5c0468167944ed78d2aca3d65eda3fb
+msgid "Enchanted creature doesn't untap during its controller's untap step."
+msgstr ""
+
+#: ../../BNG.rst:234
+# 2f78542329fe48c19d97ca52ea083a60
+msgid "Evanescent Intellect"
+msgstr ""
+
+#: ../../BNG.rst:233
+# 93606a958e7547adad9228af876360bf
+msgid "Enchanted creature has \\\"|mana_1| |mana_u|, |tap|: Target player puts the top three cards of his or her library into his or her graveyard.\\\""
+msgstr ""
+
+#: ../../BNG.rst:242
+# 0f5d966e19df432eac4a273c0237320e
+msgid "Everflame Eidolon"
+msgstr ""
+
+#: ../../BNG.rst:237
+# 3c4c072935c44cd89bc40f11689e0dfa
+msgid "Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:239
+# bc329c2b5e7e4382b270c2e4ded353b1
+msgid "|mana_r|: Everflame Eidolon gets +1/+0 until end of turn. If it's an Aura, enchanted creature gets +1/+0 until end of turn instead."
+msgstr ""
+
+#: ../../BNG.rst:241
+#: ../../BNG.rst:529
+#: ../../BNG.rst:545
+#: ../../BNG.rst:785
+# 6bc4cb313ec948eeb60d01670caafec4
+# 43353f13ab61460baf8dc4601eb4f6e1
+# 44ccb460f6964dd98cfcfe1b5bbc1405
+# 7c68ca5ca35940a1a410d1067cc50ce1
+msgid "Enchanted creature gets +1/+1."
+msgstr ""
+
+#: ../../BNG.rst:246
+# 5a29cf0d5af74c749f0fa9128373de1c
+msgid "Excoriate"
+msgstr ""
+
+#: ../../BNG.rst:245
+# a4ff4b5339a34d28a5c787dc51dbf0da
+msgid "Exile target tapped creature."
+msgstr ""
+
+#: ../../BNG.rst:250
+# 1c2564e6c497464cb1502b900938772a
+msgid "Eye Gouge"
+msgstr ""
+
+#: ../../BNG.rst:249
+# 4eba08312cc74b99bea5cf17695c0643
+msgid "Target creature gets -1/-1 until end of turn. If it's a Cyclops, destroy it."
+msgstr ""
+
+#: ../../BNG.rst:254
+# c9c59b0b8f6f426ba9db069b82d5cbc3
+msgid "Fall of the Hammer"
+msgstr ""
+
+#: ../../BNG.rst:253
+# dca0974b56c34ae5bb83bdf6b0e0e4c5
+msgid "Target creature you control deals damage equal to its power to another target creature."
+msgstr ""
+
+#: ../../BNG.rst:262
+# b30df1d96cc64ab48eeb202c5be074a2
+msgid "Fanatic of Xenagos"
+msgstr ""
+
+#: ../../BNG.rst:259
+# 5574074ad7ee4956a47d75d179b1a059
+msgid "Tribute 1 (As this creature enters the battlefield, an opponent of your choice may place a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../BNG.rst:261
+# f4dfbd863e6d4ca0a0fe30177a47d721
+msgid "When Fanatic of Xenagos enters the battlefield, if tribute wasn't paid, it gets +1/+1 and gains haste until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:266
+# e2028f7f88ac4508b8e76a06deb2505f
+msgid "Fate Unraveler"
+msgstr ""
+
+#: ../../BNG.rst:265
+# 82064959845b4a19ab636aa026deac3e
+msgid "Whenever an opponent draws a card, Fate Unraveler deals 1 damage to that player."
+msgstr ""
+
+#: ../../BNG.rst:270
+# e8004a59239d4ad3bfd35e9a68cf2650
+msgid "Fated Conflagration"
+msgstr ""
+
+#: ../../BNG.rst:269
+# d8fab30925464800b238bf249dff87b4
+msgid "Fated Conflagration deals 5 damage to target creature or planeswalker. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../BNG.rst:274
+# d4223718e0254977995ca756ca1a8ded
+msgid "Fated Infatuation"
+msgstr ""
+
+#: ../../BNG.rst:273
+# 94f19cf7f2104b478ada96504e33ddd3
+msgid "Put a token onto the battlefield that's a copy of target creature you control. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../BNG.rst:278
+# 726a7d5a36ee4b9bbd7f417aeb4bf33d
+msgid "Fated Intervention"
+msgstr ""
+
+#: ../../BNG.rst:277
+# 9e6b31813c5440e8b1b1f9e02960ccb1
+msgid "Put two 3/3 green Centaur enchantment creature tokens onto the battlefield. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../BNG.rst:282
+# 79cc73658d1941d6b0ed4f4c1e1b95e3
+msgid "Fated Retribution"
+msgstr ""
+
+#: ../../BNG.rst:281
+# 6b1a8d7a72e5471bb65b5f0b9e7c10e5
+msgid "Destroy all creatures and planeswalkers. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../BNG.rst:286
+# 552e089d0e7b46c689d4fd87efef48c2
+msgid "Fated Return"
+msgstr ""
+
+#: ../../BNG.rst:285
+# 00011bd13b5f4e68bb1cbde2324628f9
+msgid "Put target creature card from a graveyard onto the battlefield under your control. It gains indestructible. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../BNG.rst:292
+# 3abf5438442d4ae69548af1d0a45f91b
+msgid "Fearsome Temper"
+msgstr ""
+
+#: ../../BNG.rst:291
+# 9d213494e95f415ba61a7df92b6c6865
+msgid "Enchanted creature gets +2/+2 and has \\\"|mana_2| |mana_r|: Target creature can't block this creature this turn.\\\""
+msgstr ""
+
+#: ../../BNG.rst:296
+# f8282abf293e4a5e92d779369611bba8
+msgid "Felhide Brawler"
+msgstr ""
+
+#: ../../BNG.rst:295
+# cd34013f54f247bcbc0f6affaeccbf68
+msgid "Felhide Brawler can't block unless you control another Minotaur."
+msgstr ""
+
+#: ../../BNG.rst:300
+# 9053e237ccd44c96ab75fc8771f05d06
+msgid "Felhide Spiritbinder"
+msgstr ""
+
+#: ../../BNG.rst:299
+# 2cbd5d0418724ff5888d847065a8fa2b
+msgid "Inspired — Whenever Felhide Spiritbinder becomes untapped, you may pay |mana_1| |mana_r|. If you do, put a token onto the battlefield that's a copy of another target creature except it's an enchantment in addition to its other types. It gains haste. Exile it at the beginning of the next end step."
+msgstr ""
+
+#: ../../BNG.rst:308
+# 2829afd931c74b1fa0494a244655fca6
+msgid "Flame-Wreathed Phoenix"
+msgstr ""
+
+#: ../../BNG.rst:305
+#: ../../BNG.rst:575
+#: ../../BNG.rst:593
+#: ../../BNG.rst:611
+#: ../../BNG.rst:729
+# e5bc89eef5f14a2294695ea94e7bba68
+# a9acc392318c4ad0a9a601e2a48a9d0a
+# f08ff5712e3a41148e4bb0ef9e0fe2a3
+# 6a9d55b65c48497aa1f3a3f9c2dd1010
+# f637bdbe5cee44ea97311fc3d0cfdd33
+msgid "Tribute 2 (As this creature enters the battlefield, an opponent of your choice may place two +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../BNG.rst:307
+# 09bd5bc8977541bc91bc1a612e63427d
+msgid "When Flame-Wreathed Phoenix enters the battlefield, if tribute wasn't paid, it gains haste and \\\"When this creature dies, return it to its owner's hand.\\\""
+msgstr ""
+
+#: ../../BNG.rst:316
+# 69568b2073d94b1ab657ca83cbddb32f
+msgid "Flitterstep Eidolon"
+msgstr ""
+
+#: ../../BNG.rst:311
+# f808c65fab55459280b5e549a6fa17b6
+msgid "Bestow |mana_5| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:313
+# 73c70ab7d11e4d608934b2cff32cd148
+msgid "Flitterstep Eidolon can't be blocked."
+msgstr ""
+
+#: ../../BNG.rst:315
+# f121312cd88240729a2af6502c5a099f
+msgid "Enchanted creature gets +1/+1 and can't be blocked."
+msgstr ""
+
+#: ../../BNG.rst:320
+# e47bf0c4e77b4b9aa95e6c15e7d86958
+msgid "Floodtide Serpent"
+msgstr ""
+
+#: ../../BNG.rst:319
+# 3f4a0c6c6bdb4d068f56c3ec5b446407
+msgid "Floodtide Serpent can't attack unless you return an enchantment you control to its owner's hand. (This cost is paid as attackers are declared.)"
+msgstr ""
+
+#: ../../BNG.rst:326
+# c092cd69db044b6d8667bd6e91e05861
+msgid "Forgestoker Dragon"
+msgstr ""
+
+#: ../../BNG.rst:325
+# 36d39ce18a1a47e88697ed3c2122f71c
+msgid "|mana_1| |mana_r|: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if Forgestoker Dragon is attacking."
+msgstr ""
+
+#: ../../BNG.rst:332
+# c93b1de6a8c54097991db080d9e058ef
+msgid "Forlorn Pseudamma"
+msgstr ""
+
+#: ../../BNG.rst:329
+# 9140053b074f421fa12ad670706c9be9
+msgid "Intimidate"
+msgstr ""
+
+#: ../../BNG.rst:331
+# 829907fe21d546cd84447919a9f52f18
+msgid "Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2| |mana_b|. If you do, put a 2/2 black Zombie enchantment creature token onto the battlefield."
+msgstr ""
+
+#: ../../BNG.rst:336
+# 3f6aa0f81fde4acdb18a28ada7257762
+msgid "Forsaken Drifters"
+msgstr ""
+
+#: ../../BNG.rst:335
+# 2bc7f8bd56994b438986839433f936ce
+msgid "When Forsaken Drifters dies, put the top four cards of your library into your graveyard."
+msgstr ""
+
+#: ../../BNG.rst:344
+# 34ceee37aae547068efd2402a0bc7add
+msgid "Ghostblade Eidolon"
+msgstr ""
+
+#: ../../BNG.rst:339
+# 12a22382e7b34eea9a54e4a4d6d8af8e
+msgid "Bestow |mana_5| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:341
+# 1b3f107b362b4183bca2c6c379d639b2
+msgid "Double strike (This creature deals both first-strike and regular combat damage.)"
+msgstr ""
+
+#: ../../BNG.rst:343
+# feb7a94f26344a7bac6526486c567539
+msgid "Enchanted creature gets +1/+1 and has double strike."
+msgstr ""
+
+#: ../../BNG.rst:348
+# d403d474926f4edc910545cddad6083e
+msgid "Gild"
+msgstr ""
+
+#: ../../BNG.rst:347
+# 841ce6f7148844c48c763dd8ae23bf35
+msgid "Exile target creature. Put a colorless artifact token named Gold onto the battlefield. It has \\\"Sacrifice this artifact: Add one mana of any color to your mana pool.\\\""
+msgstr ""
+
+#: ../../BNG.rst:352
+# d6ff8be0846f421d95fbfa9616986c6d
+msgid "Glimpse the Sun God"
+msgstr ""
+
+#: ../../BNG.rst:351
+# d63ac892f7ec46f6b8dbd2113084bb4b
+msgid "Tap X target creatures. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:356
+# 3cbce7d2f0c64a75b44f06b6e5e84cb5
+msgid "God-Favored General"
+msgstr ""
+
+#: ../../BNG.rst:355
+# de97fbd6a5b544afbff332dd6726087a
+msgid "Inspired — Whenever God-Favored General becomes untapped, you may pay |mana_2| |mana_w|. If you do, put two 1/1 white Soldier enchantment creature tokens onto the battlefield."
+msgstr ""
+
+#: ../../BNG.rst:362
+# c27f72bd54ce47719cab7f6d33e558b5
+msgid "Gorgon's Head"
+msgstr ""
+
+#: ../../BNG.rst:359
+# beffd78c4c5247e28cbb3cd446f83023
+msgid "Equipped creature has deathtouch."
+msgstr ""
+
+#: ../../BNG.rst:361
+#: ../../BNG.rst:757
+# 6f8bbd1746d246b282cea0a9e0efef83
+# 5be639edbdf441a79ae1ba5922a01e6b
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../BNG.rst:368
+# 37f77e6d39d146718f17e05ca1547aa9
+msgid "Graverobber Spider"
+msgstr ""
+
+#: ../../BNG.rst:365
+# 088ba5b85fe544c7aad68bc81b7935c8
+msgid "Reach"
+msgstr ""
+
+#: ../../BNG.rst:367
+# 68fade83d4d1479cb27e12618743209a
+msgid "|mana_3| |mana_b|: Graverobber Spider gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. Activate this ability only once each turn."
+msgstr ""
+
+#: ../../BNG.rst:370
+# 910c6e317f18470293c7be0abdefa19c
+msgid "Great Hart"
+msgstr ""
+
+#: ../../BNG.rst:378
+# ff04560972e2448592abf04d37a69787
+msgid "Griffin Dreamfinder"
+msgstr ""
+
+#: ../../BNG.rst:377
+# b8cc41fe8c424482af74a7998cc6b386
+msgid "When Griffin Dreamfinder enters the battlefield, return target enchantment card from your graveyard to your hand."
+msgstr ""
+
+#: ../../BNG.rst:386
+# cab288071a314832997a87209460973e
+msgid "Grisly Transformation"
+msgstr ""
+
+#: ../../BNG.rst:383
+# c94c67deb16a4904bf6b629230cb5b6e
+msgid "When Grisly Transformation enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../BNG.rst:385
+# 1b1c553b1f8344059f69953763669255
+msgid "Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../BNG.rst:396
+# 02800467f59844a1a2188d63c4d0bb84
+msgid "Herald of Torment"
+msgstr ""
+
+#: ../../BNG.rst:389
+# f9c2ea62654044cb869017e5264478cf
+msgid "Bestow |mana_3| |mana_b| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:393
+# 714eb73a611d4b1e8310f1ad3bced521
+msgid "At the beginning of your upkeep, you lose 1 life."
+msgstr ""
+
+#: ../../BNG.rst:395
+# b17ba0c4cfe44926af25315a9c9aa167
+msgid "Enchanted creature gets +3/+3 and has flying."
+msgstr ""
+
+#: ../../BNG.rst:402
+# 8aeef2fcd5374be29edce9e9b1055bbd
+msgid "Hero of Iroas"
+msgstr ""
+
+#: ../../BNG.rst:399
+# 9c5be46121f84c768f9d8933ae93bf00
+msgid "Aura spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../BNG.rst:401
+# c4f3211d4c56422db3ff2f2dda2d9a62
+msgid "Heroic — Whenever you cast a spell that targets Hero of Iroas, put a +1/+1 counter on Hero of Iroas."
+msgstr ""
+
+#: ../../BNG.rst:406
+# 14f08a5a32ca4c4cb4268e5be7e4b9c8
+msgid "Hero of Leina Tower"
+msgstr ""
+
+#: ../../BNG.rst:405
+# 707c63129721419887a6671185d142b9
+msgid "Heroic — Whenever you cast a spell that targets Hero of Leina Tower, you may pay |mana_x|. If you do, put X +1/+1 counters on Hero of Leina Tower."
+msgstr ""
+
+#: ../../BNG.rst:412
+# 47a6eb8575f54a55b0a1cd56a0ba43d8
+msgid "Heroes' Podium"
+msgstr ""
+
+#: ../../BNG.rst:409
+# f311a36074814fb3b997429e99a18b43
+msgid "Each legendary creature you control gets +1/+1 for each other legendary creature you control."
+msgstr ""
+
+#: ../../BNG.rst:411
+# 593ce18b38a34bd8b7b55123d48057bd
+msgid "|mana_x|, |tap|: Look at the top X cards of your library. You may reveal a legendary creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../BNG.rst:416
+# fd83511b96f04981b2546f7e93e3e8ad
+msgid "Hold at Bay"
+msgstr ""
+
+#: ../../BNG.rst:415
+# ecc640b89b50457f8a68819208a37de6
+msgid "Prevent the next 7 damage that would be dealt to target creature or player this turn."
+msgstr ""
+
+#: ../../BNG.rst:420
+# f5d507f15a90480c8d8e4e8cd4b1e480
+msgid "Hunter's Prowess"
+msgstr ""
+
+#: ../../BNG.rst:419
+# 13dc62f79141470f97f0ceefa709cd13
+msgid "Until end of turn, target creature gets +3/+3 and gains trample and \\\"Whenever this creature deals combat damage to a player, draw that many cards.\\\""
+msgstr ""
+
+#: ../../BNG.rst:426
+# cf80b773d9a8432384c86f2ba47b3599
+msgid "Impetuous Sunchaser"
+msgstr ""
+
+#: ../../BNG.rst:423
+# 52b042d9719b4dc482c6e480516cc72b
+msgid "Flying, haste"
+msgstr ""
+
+#: ../../BNG.rst:425
+# 1ca63a7f48bf448cbf8be144b691797e
+msgid "Impetuous Sunchaser attacks each turn if able."
+msgstr ""
+
+#: ../../BNG.rst:434
+# e0dadbc4d3c347319ff2d3c3d467bf6a
+msgid "Karametra, God of Harvests"
+msgstr ""
+
+#: ../../BNG.rst:431
+# f967edae68774bf0a3cd1dd1e5c4b684
+msgid "As long as your devotion to green and white is less than seven, Karametra isn't a creature."
+msgstr ""
+
+#: ../../BNG.rst:433
+# 64b379dd227341958a31f41689bdb663
+msgid "Whenever you cast a creature spell, you may search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../BNG.rst:442
+# 2dbe13410f44488ebfa1df63b7d164c5
+msgid "Karametra's Favor"
+msgstr ""
+
+#: ../../BNG.rst:439
+# d2862045747f45468619e960cbe6b03a
+msgid "When Karametra's Favor enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../BNG.rst:441
+# 0796b8220efb4d38a1c913d6c6c458bf
+msgid "Enchanted creature has \\\"|tap|: Add one mana of any color to your mana pool.\\\""
+msgstr ""
+
+#: ../../BNG.rst:450
+# 91769e3031484ef6825c4145aa257108
+msgid "Kiora, the Crashing Wave"
+msgstr ""
+
+#: ../../BNG.rst:445
+# 6d0d9911186f4c5893089fe616613e27
+msgid "+1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls."
+msgstr ""
+
+#: ../../BNG.rst:447
+# 3d859db5a7854991b877c1bb99b9f90c
+msgid "-1: Draw a card. You may play an additional land this turn."
+msgstr ""
+
+#: ../../BNG.rst:449
+# e4d530aadb264a15b4601f540b20da4a
+msgid "-5: You get an emblem with \\\"At the beginning of your end step, put a 9/9 blue Kraken creature token onto the battlefield.\\\""
+msgstr ""
+
+#: ../../BNG.rst:454
+# 0ce4c90a23024a469c912825691797d1
+msgid "Kiora's Follower"
+msgstr ""
+
+#: ../../BNG.rst:453
+# 5c540528a6564784a598df97d9b5a5c0
+msgid "|tap|: Untap another target permanent."
+msgstr ""
+
+#: ../../BNG.rst:458
+# 690895fc8d6c4482b62a4def52b5536f
+msgid "Kragma Butcher"
+msgstr ""
+
+#: ../../BNG.rst:457
+# 9db12edf6f854d258166309d038dce58
+msgid "Inspired — Whenever Kragma Butcher becomes untapped, it gets +2/+0 until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:462
+# 0b54a6512df6417d9cb466b8cc5222bf
+msgid "Kraken of the Straits"
+msgstr ""
+
+#: ../../BNG.rst:461
+# 2514ba45395941b79fc1835db8f989be
+msgid "Creatures with power less than the number of Islands you control can't block Kraken of the Straits."
+msgstr ""
+
+#: ../../BNG.rst:466
+# e1bb5700125f4fb397eed7cba6eda6f5
+msgid "Lightning Volley"
+msgstr ""
+
+#: ../../BNG.rst:465
+# 0f7aa3dc91634c45bab8bf0cc4c8f4fa
+msgid "Until end of turn, creatures you control gain \\\"|tap|: This creature deals 1 damage to target creature or player.\\\""
+msgstr ""
+
+#: ../../BNG.rst:472
+# 7c13332677a64399894a5d9fd86b45c2
+msgid "Loyal Pegasus"
+msgstr ""
+
+#: ../../BNG.rst:471
+# 1714354328d74a63a38974b44bf5428b
+msgid "Loyal Pegasus can't attack or block alone."
+msgstr ""
+
+#: ../../BNG.rst:476
+# eac3a5c1f3f84ecf9936932c35d74a1a
+msgid "Marshmist Titan"
+msgstr ""
+
+#: ../../BNG.rst:475
+# 5c307f95e9d54143a1e47d52b858d013
+msgid "Marshmist Titan costs |mana_x| less to cast, where X is your devotion to black. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)"
+msgstr ""
+
+#: ../../BNG.rst:480
+# 5107c0173fea421f9a7cff8cf3182c8b
+msgid "Meletis Astronomer"
+msgstr ""
+
+#: ../../BNG.rst:479
+# 99b1f2f827ba488ba71012a2fa5d8139
+msgid "Heroic — Whenever you cast a spell that targets Meletis Astronomer, look at the top three cards of your library. You may reveal an enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../BNG.rst:486
+# 4b95e45d7d6b4971b59aa16ed84fe6b9
+msgid "Mindreaver"
+msgstr ""
+
+#: ../../BNG.rst:483
+# ab792205cdce4e988fe8c9152eadb4e8
+msgid "Heroic — Whenever you cast a spell that targets Mindreaver, exile the top three cards of target player's library."
+msgstr ""
+
+#: ../../BNG.rst:485
+# 6235a5e9f6b2469199aee0691c0e9595
+msgid "|mana_u| |mana_u|, Sacrifice Mindreaver: Counter target spell with the same name as a card exiled with Mindreaver."
+msgstr ""
+
+#: ../../BNG.rst:490
+# 0df291f5ede44209ad4986a21a1ad323
+msgid "Mischief and Mayhem"
+msgstr ""
+
+#: ../../BNG.rst:489
+# 3e492720e82b4239bb2f8e6d4adc5b87
+msgid "Up to two target creatures each get +4/+4 until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:498
+# 70f5538265bc4bf39ba9114ec1bacd03
+msgid "Mogis, God of Slaughter"
+msgstr ""
+
+#: ../../BNG.rst:495
+# 54cfdbbe33194539a3d210c5dade9201
+msgid "As long as your devotion to black and red is less than seven, Mogis isn't a creature."
+msgstr ""
+
+#: ../../BNG.rst:497
+# 298804b4791745d686183f1597451c9d
+msgid "At the beginning of each opponent's upkeep, Mogis deals 2 damage to that player unless he or she sacrifices a creature."
+msgstr ""
+
+#: ../../BNG.rst:502
+# 1e2eefa2249f4cc8b46b4bb27450d0bf
+msgid "Mortal's Ardor"
+msgstr ""
+
+#: ../../BNG.rst:501
+# 17124d3366574c3f90b233493d164ad2
+msgid "Target creature gets +1/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)"
+msgstr ""
+
+#: ../../BNG.rst:506
+# 8960198f8e6f4168935ea4182f328373
+msgid "Mortal's Resolve"
+msgstr ""
+
+#: ../../BNG.rst:505
+# 386c2a524b1145a59400e403ee950088
+msgid "Target creature gets +1/+1 and gains indestructible until end of turn. (Damage and effects that say \\\"destroy\\\" don't destroy it.)"
+msgstr ""
+
+#: ../../BNG.rst:510
+# b5e352927b5f4ca3908646247629b727
+msgid "Necrobite"
+msgstr ""
+
+#: ../../BNG.rst:509
+# 7ee144875cf34bd7ab534512d3cb53df
+msgid "Target creature gains deathtouch until end of turn. Regenerate it."
+msgstr ""
+
+#: ../../BNG.rst:516
+# bcf08c2a1a334f3ba84bb4d1507c2b5a
+msgid "Nessian Demolok"
+msgstr ""
+
+#: ../../BNG.rst:513
+#: ../../BNG.rst:743
+#: ../../BNG.rst:765
+#: ../../BNG.rst:853
+# 8a065884926e4348b2e4025b93ce9c71
+# 55140b86391046d1a475f5cd852927c0
+# e08ea0c448454eee9d871018b01c676f
+# 023826a15bac4cac8a056932b38bec5e
+msgid "Tribute 3 (As this creature enters the battlefield, an opponent of your choice may place three +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../BNG.rst:515
+# 54f37dcd85aa4087ad12947128ba0091
+msgid "When Nessian Demolok enters the battlefield, if tribute wasn't paid, destroy target noncreature permanent."
+msgstr ""
+
+#: ../../BNG.rst:522
+# 37f70be0878047bb9365534e8ba67f86
+msgid "Nessian Wilds Ravager"
+msgstr ""
+
+#: ../../BNG.rst:519
+# 475d1a55c98142d19dbf36e3bfff79c3
+msgid "Tribute 6 (As this creature enters the battlefield, an opponent of your choice may place six +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../BNG.rst:521
+# 64b5591fc38c436884e9743b47ea1b71
+msgid "When Nessian Wilds Ravager enters the battlefield, if tribute wasn't paid, you may have Nessian Wilds Ravager fight another target creature. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../BNG.rst:530
+# 8879a833e51d45a3bbda051ee7a11030
+msgid "Noble Quarry"
+msgstr ""
+
+#: ../../BNG.rst:525
+# 4b40125dac2a4ecf91e91a2cabd27175
+msgid "Bestow |mana_5| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:527
+# 4caa91a3b2004d328c4773966d20799c
+msgid "All creatures able to block Noble Quarry or enchanted creature do so."
+msgstr ""
+
+#: ../../BNG.rst:534
+# b9f8616117fc4086ab3f3025379911df
+msgid "Nullify"
+msgstr ""
+
+#: ../../BNG.rst:533
+# e241fe112e0d4f38ad013d3ee166ca7c
+msgid "Counter target creature or Aura spell."
+msgstr ""
+
+#: ../../BNG.rst:540
+# 84f6535a6ccb4e489381876d4923d2b0
+msgid "Nyxborn Eidolon"
+msgstr ""
+
+#: ../../BNG.rst:537
+# c1850725cc3c4169ad83dadab1e104c6
+msgid "Bestow |mana_4| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:539
+# 3961908120384594afae3a474cd2e064
+msgid "Enchanted creature gets +2/+1."
+msgstr ""
+
+#: ../../BNG.rst:546
+# 2f62e06563f848c3a0e494230e3a54e0
+msgid "Nyxborn Rollicker"
+msgstr ""
+
+#: ../../BNG.rst:543
+# d4517b945aaa44bdae7eb848df18c5d0
+msgid "Bestow |mana_1| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:552
+# 9b29916784954f0d88eb7df0932e6ce9
+msgid "Nyxborn Shieldmate"
+msgstr ""
+
+#: ../../BNG.rst:549
+# 3ac24f23ee1746c5961caf1d275cf456
+msgid "Bestow |mana_2| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:551
+# 2a88dddcf82348cead407807f2a22b31
+msgid "Enchanted creature gets +1/+2."
+msgstr ""
+
+#: ../../BNG.rst:558
+# a3116d290f4a4a98a661558531fbede7
+msgid "Nyxborn Triton"
+msgstr ""
+
+#: ../../BNG.rst:555
+# f7909822acc64113b24c14ffab03fd96
+msgid "Bestow |mana_4| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:557
+# 31e40e8b1d89406ea7bd40ee57243505
+msgid "Enchanted creature gets +2/+3."
+msgstr ""
+
+#: ../../BNG.rst:564
+# d697358a54a447fd90de40218cf5a8a9
+msgid "Nyxborn Wolf"
+msgstr ""
+
+#: ../../BNG.rst:561
+# f6dc17bbbfea4a6684bf4b24ed196712
+msgid "Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:563
+# 17bc3fd895c946e5b378256286542e45
+msgid "Enchanted creature gets +3/+1."
+msgstr ""
+
+#: ../../BNG.rst:570
+# 702f17a0f0544840bb57407dd9531a74
+msgid "Odunos River Trawler"
+msgstr ""
+
+#: ../../BNG.rst:567
+# 7ccc1a6babf04d6bb7ab341ab9d224e8
+msgid "When Odunos River Trawler enters the battlefield, return target enchantment creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../BNG.rst:569
+# 24dc57589a5244a1a4a0d3c10641ee88
+msgid "|mana_w|, Sacrifice Odunos River Trawler: Return target enchantment creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../BNG.rst:578
+# ae372d47e98e43d7b1589edf40907303
+msgid "Oracle of Bones"
+msgstr ""
+
+#: ../../BNG.rst:573
+#: ../../BNG.rst:687
+#: ../../BNG.rst:793
+# ae8e3d7c5aaa471c9875ab39f52642d8
+# 1cd1c646387e4299b10316b1a05976a6
+# ed62ff7ce6c8409b9f20b283648f8808
+msgid "Haste"
+msgstr ""
+
+#: ../../BNG.rst:577
+# d0ef760d832e4c5ba06277042fa682ba
+msgid "When Oracle of Bones enters the battlefield, if tribute wasn't paid, you may cast an instant or sorcery card from your hand without paying its mana cost."
+msgstr ""
+
+#: ../../BNG.rst:584
+# e37c99a7a2fb4dcbb723ebcd755e62f1
+msgid "Oracle's Insight"
+msgstr ""
+
+#: ../../BNG.rst:583
+# 150d700c25ea46308c30e69f6665a54b
+msgid "Enchanted creature has \\\"|tap|: Scry 1, then draw a card.\\\" (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:588
+# 6c297ade602e45abbbc4162461ccd7b2
+msgid "Oreskos Sun Guide"
+msgstr ""
+
+#: ../../BNG.rst:587
+# fbc54704291c451f8e98e8118effa464
+msgid "Inspired — Whenever Oreskos Sun Guide becomes untapped, you gain 2 life."
+msgstr ""
+
+#: ../../BNG.rst:596
+# 66eee54a2283466a84017a0b4a8e2af4
+msgid "Ornitharch"
+msgstr ""
+
+#: ../../BNG.rst:595
+# f0e0213641234ce68586d44acdf580d3
+msgid "When Ornitharch enters the battlefield, if tribute wasn't paid, put two 1/1 white Bird creature tokens with flying onto the battlefield."
+msgstr ""
+
+#: ../../BNG.rst:600
+# ff554d8be9fd4596add7f8eb409682b2
+msgid "Pain Seer"
+msgstr ""
+
+#: ../../BNG.rst:599
+# 4a3128171b7143fc872ad271fb369f36
+msgid "Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's converted mana cost."
+msgstr ""
+
+#: ../../BNG.rst:604
+# 15796e0ab3ca4b5d8d215892f3d5ea09
+msgid "Peregrination"
+msgstr ""
+
+#: ../../BNG.rst:603
+# 2fbc6c1ba82a402eb13453d22fa5b65a
+msgid "Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Shuffle your library, then scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:608
+# 282593b034ba4f84bd9ff32e16f43b51
+msgid "Perplexing Chimera"
+msgstr ""
+
+#: ../../BNG.rst:607
+# dfd4a931ff8c46bc9b52745390393987
+msgid "Whenever an opponent casts a spell, you may exchange control of Perplexing Chimera and that spell. If you do, you may choose new targets for the spell. (If the spell becomes a permanent, you control that permanent.)"
+msgstr ""
+
+#: ../../BNG.rst:614
+# 44e4e5a9d8c545c5899e1c76e4293fc7
+msgid "Pharagax Giant"
+msgstr ""
+
+#: ../../BNG.rst:613
+# 8298691439bf49e298360f8182580213
+msgid "When Pharagax Giant enters the battlefield, if tribute wasn't paid, Pharagax Giant deals 5 damage to each opponent."
+msgstr ""
+
+#: ../../BNG.rst:622
+# 452dd4dfe10c45398eb16d7a31e87008
+msgid "Phenax, God of Deception"
+msgstr ""
+
+#: ../../BNG.rst:619
+# 658b5cd6e01145ce8d19e4e63fcc503a
+msgid "As long as your devotion to blue and black is less than seven, Phenax isn't a creature."
+msgstr ""
+
+#: ../../BNG.rst:621
+# 477beb67045646a085ce5b5e62fc097f
+msgid "Creatures you control have \\\"|tap|: Target player puts the top X cards of his or her library into his or her graveyard, where X is this creature's toughness.\\\""
+msgstr ""
+
+#: ../../BNG.rst:626
+# 3144f73ef5e742e9bf84075fc947cd96
+msgid "Pheres-Band Raiders"
+msgstr ""
+
+#: ../../BNG.rst:625
+# 1ce64ae2a7e74c218bbdd199dd986104
+msgid "Inspired — Whenever Pheres-Band Raiders becomes untapped, you may pay |mana_2| |mana_g|. If you do, put a 3/3 green Centaur enchantment creature token onto the battlefield."
+msgstr ""
+
+#: ../../BNG.rst:630
+# 02392bf92d254168bdf9ae0ba9f3b6e7
+msgid "Pheres-Band Tromper"
+msgstr ""
+
+#: ../../BNG.rst:629
+# 0cc5d8cb46fb4739b57154d8bc0fbcf3
+msgid "Inspired — Whenever Pheres-Band Tromper becomes untapped, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../BNG.rst:636
+# 8c4cafbdd78440f690f150a21589a51b
+msgid "Pillar of War"
+msgstr ""
+
+#: ../../BNG.rst:635
+# 20f195d87fb240d48f38a7bfca2c45f9
+msgid "As long as Pillar of War is enchanted, it can attack as though it didn't have defender."
+msgstr ""
+
+#: ../../BNG.rst:640
+# 18255914a4514219bad74646f3df996c
+msgid "Pinnacle of Rage"
+msgstr ""
+
+#: ../../BNG.rst:639
+# da4fb3b6182a4c3c9883e1eccf379ac2
+msgid "Pinnacle of Rage deals 3 damage to each of two target creatures and/or players."
+msgstr ""
+
+#: ../../BNG.rst:644
+# 13c498ad8bac49a48ef090fad2dd8313
+msgid "Plea for Guidance"
+msgstr ""
+
+#: ../../BNG.rst:643
+# 51ee768d4b5f4ec08b9483f88c4a236e
+msgid "Search your library for up to two enchantment cards, reveal them, and put them into your hand. Then shuffle your library."
+msgstr ""
+
+#: ../../BNG.rst:648
+# 2d89cf2d5939457d8a3ec32e5529e794
+msgid "Ragemonger"
+msgstr ""
+
+#: ../../BNG.rst:647
+# a4febf9efb204fbd9b24d6abf8ad83ab
+msgid "Minotaur spells you cast cost |mana_b| |mana_r| less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Minotaur spell with mana cost |mana_2| |mana_r|, it costs |mana_2| to cast.)"
+msgstr ""
+
+#: ../../BNG.rst:656
+# 7babffd992f24da389bf8072617af7fb
+msgid "Raised by Wolves"
+msgstr ""
+
+#: ../../BNG.rst:653
+# d58dc98f64644f4ca946cdd7a8aecf7b
+msgid "When Raised by Wolves enters the battlefield, put two 2/2 green Wolf creature tokens onto the battlefield."
+msgstr ""
+
+#: ../../BNG.rst:655
+# 8357e19ddf53448fa0c8755248c6b08f
+msgid "Enchanted creature gets +1/+1 for each Wolf you control."
+msgstr ""
+
+#: ../../BNG.rst:660
+# 4bcd7eeb0424465488214d45b90ed293
+msgid "Reap What Is Sown"
+msgstr ""
+
+#: ../../BNG.rst:659
+# 3a8724b78d024d338353f04e60cd297e
+msgid "Put a +1/+1 counter on each of up to three target creatures."
+msgstr ""
+
+#: ../../BNG.rst:664
+# 6aba880f5b6c4510a530dd0334ecdb86
+msgid "Reckless Reveler"
+msgstr ""
+
+#: ../../BNG.rst:663
+# a37fe02af1b54ea38357ba1c133ac3a6
+msgid "|mana_r|, Sacrifice Reckless Reveler: Destroy target artifact."
+msgstr ""
+
+#: ../../BNG.rst:668
+# 2e9e3c57a6f443b3842b20bc4aff7ade
+msgid "Retraction Helix"
+msgstr ""
+
+#: ../../BNG.rst:667
+# e854fed1765e46af9b7c2292b0700ad3
+msgid "Until end of turn, target creature gains \\\"|tap|: Return target nonland permanent to its owner's hand.\\\""
+msgstr ""
+
+#: ../../BNG.rst:672
+# 32ecc5b8787041f88013901652d5bfe5
+msgid "Revoke Existence"
+msgstr ""
+
+#: ../../BNG.rst:671
+# 9e21738ac1704299bbdb81dcc4a0edf0
+msgid "Exile target artifact or enchantment."
+msgstr ""
+
+#: ../../BNG.rst:676
+# 290093cdb32246e69c130742e0801edc
+msgid "Rise to the Challenge"
+msgstr ""
+
+#: ../../BNG.rst:675
+# f27e186b749b4103b8ad7a2f3c3dbfab
+msgid "Target creature gets +2/+0 and gains first strike until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:680
+# c4aa71b3958f4aafbcc22a4e057eecc4
+msgid "Sanguimancy"
+msgstr ""
+
+#: ../../BNG.rst:679
+# aeef7f94116447ee855936085a0cc112
+msgid "You draw X cards and you lose X life, where X is your devotion to black. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)"
+msgstr ""
+
+#: ../../BNG.rst:684
+# 129e30eb9bdb4d33aade8b3c8263dbb3
+msgid "Satyr Firedancer"
+msgstr ""
+
+#: ../../BNG.rst:683
+# ed7001bc42e140a5965b2e6d942a6788
+msgid "Whenever an instant or sorcery spell you control deals damage to an opponent, Satyr Firedancer deals that much damage to target creature that player controls."
+msgstr ""
+
+#: ../../BNG.rst:690
+# a541024ee21c45cfa74d10af70468269
+msgid "Satyr Nyx-Smith"
+msgstr ""
+
+#: ../../BNG.rst:689
+# bc2b7cc75af245889ecb4b5a3da538cf
+msgid "Inspired — Whenever Satyr Nyx-Smith becomes untapped, you may pay |mana_2| |mana_r|. If you do, put a 3/1 red Elemental enchantment creature token with haste onto the battlefield."
+msgstr ""
+
+#: ../../BNG.rst:694
+# 5c071cbaabbe4dc5846478302803ba1d
+msgid "Satyr Wayfinder"
+msgstr ""
+
+#: ../../BNG.rst:693
+# 8e5c9d19a12c43a99c6eb022521da155
+msgid "When Satyr Wayfinder enters the battlefield, reveal the top four cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard."
+msgstr ""
+
+#: ../../BNG.rst:702
+# 510fb778ead441039f2ada1765c42da0
+msgid "Scourge of Skola Vale"
+msgstr ""
+
+#: ../../BNG.rst:699
+# ef1fb768fc284606bf3be03688d232af
+msgid "Scourge of Skola Vale enters the battlefield with two +1/+1 counters on it."
+msgstr ""
+
+#: ../../BNG.rst:701
+# 4fe044919d474b3283bc0303e401239d
+msgid "|tap|, Sacrifice another creature: Put a number of +1/+1 counters on Scourge of Skola Vale equal to the sacrificed creature's toughness."
+msgstr ""
+
+#: ../../BNG.rst:706
+# 69e08f0dc38a432abeef2a0b0e12a5c4
+msgid "Scouring Sands"
+msgstr ""
+
+#: ../../BNG.rst:705
+# 0427cb22f93c44329950802c64fa0ee3
+msgid "Scouring Sands deals 1 damage to each creature your opponents control. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:710
+# 3e5ca62487794aa7af4cedd77309e4f1
+msgid "Searing Blood"
+msgstr ""
+
+#: ../../BNG.rst:709
+# f98f60b84699442da1f500c0fd9f90a3
+msgid "Searing Blood deals 2 damage to target creature. When that creature dies this turn, Searing Blood deals 3 damage to the creature's controller."
+msgstr ""
+
+#: ../../BNG.rst:716
+# 92900fbc99664e52b0890ff50841d795
+msgid "Servant of Tymaret"
+msgstr ""
+
+#: ../../BNG.rst:713
+# 86d5bfe26f274091bfd2f98778f76668
+msgid "Inspired — Whenever Servant of Tymaret becomes untapped, each opponent loses 1 life. You gain life equal to the life lost this way."
+msgstr ""
+
+#: ../../BNG.rst:715
+# 3ded0a8bf9d24a5d9282c6a8820527d6
+msgid "|mana_2| |mana_b|: Regenerate Servant of Tymaret."
+msgstr ""
+
+#: ../../BNG.rst:720
+# ef27975ef72343d29bf950509d0e49e0
+msgid "Setessan Oathsworn"
+msgstr ""
+
+#: ../../BNG.rst:719
+# 439d92338aeb40b68be9a9cbc299e2af
+msgid "Heroic — Whenever you cast a spell that targets Setessan Oathsworn, put two +1/+1 counters on Setessan Oathsworn."
+msgstr ""
+
+#: ../../BNG.rst:724
+# 8bad4c6003b6464b8c9a2ce98abd4bc6
+msgid "Setessan Starbreaker"
+msgstr ""
+
+#: ../../BNG.rst:723
+# 634ae678e34a4388a60a450dac6d01c4
+msgid "When Setessan Starbreaker enters the battlefield, you may destroy target Aura."
+msgstr ""
+
+#: ../../BNG.rst:732
+# bc009165ee38406fa89a7c6a53aed86b
+msgid "Shrike Harpy"
+msgstr ""
+
+#: ../../BNG.rst:731
+# 3569a7f136414ea18fc326cff29f5234
+msgid "When Shrike Harpy enters the battlefield, if tribute wasn't paid, target opponent sacrifices a creature."
+msgstr ""
+
+#: ../../BNG.rst:738
+# 81a1f57d53bb43b19c5ce888e9c7770f
+msgid "Silent Sentinel"
+msgstr ""
+
+#: ../../BNG.rst:737
+# 8acf5c104b0c4f92a3b34c7f41e40395
+msgid "Whenever Silent Sentinel attacks, you may return target enchantment card from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../BNG.rst:746
+# 51aadac9a882402ebb646f5aec1eef06
+msgid "Siren of the Fanged Coast"
+msgstr ""
+
+#: ../../BNG.rst:745
+# 9def8fdfa94442cf94878a8b497aefe6
+msgid "When Siren of the Fanged Coast enters the battlefield, if tribute wasn't paid, gain control of target creature."
+msgstr ""
+
+#: ../../BNG.rst:752
+# 78dc893a276a4072a8080f22895526c1
+msgid "Siren of the Silent Song"
+msgstr ""
+
+#: ../../BNG.rst:751
+# 6ca1fcf6befd44709cb57db55d2ab8de
+msgid "Inspired — Whenever Siren of the Silent Song becomes untapped, each opponent discards a card, then puts the top card of his or her library into his or her graveyard."
+msgstr ""
+
+#: ../../BNG.rst:758
+# 02ca61f593004aa8a175c3fb2521167f
+msgid "Siren Song Lyre"
+msgstr ""
+
+#: ../../BNG.rst:755
+# 33ce29d7cd1f43ea8934cdbff88080c6
+msgid "Equipped creature has \\\"|mana_2|, |tap|: Tap target creature.\\\""
+msgstr ""
+
+#: ../../BNG.rst:762
+# d0b3f786694c437db5fcc2bf6ab85753
+msgid "Skyreaping"
+msgstr ""
+
+#: ../../BNG.rst:761
+# 2ec2d81644db443982eacce63e482495
+msgid "Skyreaping deals damage to each creature with flying equal to your devotion to green. (Each |mana_g| in the mana costs of permanents you control counts toward your devotion to green.)"
+msgstr ""
+
+#: ../../BNG.rst:768
+# 788aabab254440e0a237444259e89b8f
+msgid "Snake of the Golden Grove"
+msgstr ""
+
+#: ../../BNG.rst:767
+# b856f47f7126442c88c4a65525611762
+msgid "When Snake of the Golden Grove enters the battlefield, if tribute wasn't paid, you gain 4 life."
+msgstr ""
+
+#: ../../BNG.rst:774
+# 8ecc90b03ff84c42bf779f7163a7d426
+msgid "Sphinx's Disciple"
+msgstr ""
+
+#: ../../BNG.rst:773
+# 73324ff01a824fc1bd3438d4dbcbe2b1
+msgid "Inspired — Whenever Sphinx's Disciple becomes untapped, draw a card."
+msgstr ""
+
+#: ../../BNG.rst:778
+# 59f792eb602340cdadab6e12b96fdff7
+msgid "Spirit of the Labyrinth"
+msgstr ""
+
+#: ../../BNG.rst:777
+# 8a6c95765d0e47e4b9f4079d04fedb3c
+msgid "Each player can't draw more than one card each turn."
+msgstr ""
+
+#: ../../BNG.rst:786
+# 5431cc5dd3a546d6b2a2470f552b2081
+msgid "Spiteful Returned"
+msgstr ""
+
+#: ../../BNG.rst:781
+# 78d5f22defd74171bcf5b7133835a527
+msgid "Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../BNG.rst:783
+# 0e10ce96e1a5446fbafe52e05586fa85
+msgid "Whenever Spiteful Returned or enchanted creature attacks, defending player loses 2 life."
+msgstr ""
+
+#: ../../BNG.rst:790
+# 77fee743cc894fbfad287936f3122651
+msgid "Springleaf Drum"
+msgstr ""
+
+#: ../../BNG.rst:789
+# bf5a1b7ec2cb482a8221b1823ad3739f
+msgid "|tap|, Tap an untapped creature you control: Add one mana of any color to your mana pool."
+msgstr ""
+
+#: ../../BNG.rst:796
+# ec2ab48321fb48a083fe679cf10e947f
+msgid "Stormcaller of Keranos"
+msgstr ""
+
+#: ../../BNG.rst:795
+# 9ee0e11b1ee24451b02c9566c81e55a7
+msgid "|mana_1| |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:806
+# d480890ba0ce4db0983c7b5043044ea2
+msgid "Stratus Walk"
+msgstr ""
+
+#: ../../BNG.rst:801
+# 955772ca7ac24373ab7bdb89d74f65ab
+msgid "When Stratus Walk enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../BNG.rst:805
+# fe4081e6b6dc498a83a9a2b4cb7e8941
+msgid "Enchanted creature can block only creatures with flying."
+msgstr ""
+
+#: ../../BNG.rst:810
+# 129fbef048d2436aa2ad15fc8648ae66
+msgid "Sudden Storm"
+msgstr ""
+
+#: ../../BNG.rst:809
+# b01244872a9745b1873bd2f4e5ae070b
+msgid "Tap up to two target creatures. Those creatures don't untap during their controllers' next untap steps. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:816
+# 261e540d6e8e4158b82f8ebf87026831
+msgid "Sunbond"
+msgstr ""
+
+#: ../../BNG.rst:815
+# 790f3bbb8d374deeaf39623cec7a759b
+msgid "Enchanted creature has \\\"Whenever you gain life, put that many +1/+1 counters on this creature.\\\""
+msgstr ""
+
+#: ../../BNG.rst:818
+# 94dcd2b34e3a43b5be50fdc7afc0a7c5
+msgid "Swordwise Centaur"
+msgstr ""
+
+#: ../../BNG.rst:828
+# 7c09abff09ab4b06bbcca8ae92dfebe2
+msgid "Temple of Enlightenment"
+msgstr ""
+
+#: ../../BNG.rst:823
+# 68f34423508e4a3fad0f471facb8a351
+msgid "Temple of Enlightenment enters the battlefield tapped."
+msgstr ""
+
+#: ../../BNG.rst:825
+# b801a48502e745119d66c2c5fb0b7528
+msgid "When Temple of Enlightenment enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:827
+# f596b33634df4613883696b88e96b943
+msgid "|tap|: Add |mana_w| or |mana_u| to your mana pool."
+msgstr ""
+
+#: ../../BNG.rst:836
+# 3bc746df3ad742238d193a3675a20100
+msgid "Temple of Malice"
+msgstr ""
+
+#: ../../BNG.rst:831
+# 3a41f649b28a4ddc9a793addabea0c0e
+msgid "Temple of Malice enters the battlefield tapped."
+msgstr ""
+
+#: ../../BNG.rst:833
+# 8f25788fefff4ae5b297ba96c4ab45f2
+msgid "When Temple of Malice enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:835
+# f017992900704dad9038ee42469f42de
+msgid "|tap|: Add |mana_b| or |mana_r| to your mana pool."
+msgstr ""
+
+#: ../../BNG.rst:844
+# 04a443619bca4b689c838187bc98a731
+msgid "Temple of Plenty"
+msgstr ""
+
+#: ../../BNG.rst:839
+# 9d307e1e0148493bbbcf5188a6ae297a
+msgid "Temple of Plenty enters the battlefield tapped."
+msgstr ""
+
+#: ../../BNG.rst:841
+# 27365b13de4a4a37a7598567ccac8690
+msgid "When Temple of Plenty enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BNG.rst:843
+# f45703f6c4f84505a92b3071f1e4a611
+msgid "|tap|: Add |mana_g| or |mana_w| to your mana pool."
+msgstr ""
+
+#: ../../BNG.rst:848
+# 3525c04957ee4229b94909b68cbba658
+msgid "Thassa's Rebuff"
+msgstr ""
+
+#: ../../BNG.rst:847
+# fe0a40180baf409b9af4b89794eff42c
+msgid "Counter target spell unless its controller pays |mana_x|, where X is your devotion to blue. (Each |mana_u| in the mana costs of permanents you control counts toward your devotion to blue.)"
+msgstr ""
+
+#: ../../BNG.rst:856
+# 67aefc6e3a574f0bb2d826fc9ec371c8
+msgid "Thunder Brute"
+msgstr ""
+
+#: ../../BNG.rst:855
+# a52c3410269d4058a6eabf3ca9701a06
+msgid "When Thunder Brute enters the battlefield, if tribute wasn't paid, it gains haste until end of turn."
+msgstr ""
+
+#: ../../BNG.rst:862
+# cda89bb0ef484b9b8cda12a340acda75
+msgid "Thunderous Might"
+msgstr ""
+
+#: ../../BNG.rst:861
+# 2ba6f66a735841c5ba766a0e0006ffda
+msgid "Whenever enchanted creature attacks, it gets +X/+0 until end of turn, where X is your devotion to red. (Each |mana_r| in the mana costs of permanents you control counts toward your devotion to red.)"
+msgstr ""
+
+#: ../../BNG.rst:868
+# 69b36f1063084c1097e16c2d996cfe86
+msgid "Tromokratis"
+msgstr ""
+
+#: ../../BNG.rst:865
+# f3a30d8f71b8481092a44f874e6a64a1
+msgid "Tromokratis has hexproof unless it's attacking or blocking."
+msgstr ""
+
+#: ../../BNG.rst:867
+# acecc52d08dd4f49ab3c83b1cf4b8d63
+msgid "Tromokratis can't be blocked unless all creatures defending player controls block it. (If any creature that player controls doesn't block this creature, it can't be blocked.)"
+msgstr ""
+
+#: ../../BNG.rst:872
+# 3fd8d7c9a01e489fb959a750afceaf78
+msgid "Unravel the Æther"
+msgstr ""
+
+#: ../../BNG.rst:871
+# 5f4df1bf08c24313979f9815c739cb54
+msgid "Choose target artifact or enchantment. Its owner shuffles it into his or her library."
+msgstr ""
+
+#: ../../BNG.rst:878
+# 9f6e88b1056e4fcd98fdb00266f29706
+msgid "Vanguard of Brimaz"
+msgstr ""
+
+#: ../../BNG.rst:877
+# 5852d693c6c04f13acd53ad5d66e4743
+msgid "Heroic — Whenever you cast a spell that targets Vanguard of Brimaz, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield."
+msgstr ""
+
+#: ../../BNG.rst:884
+# c880dd2213a441a694f00df35314a1ad
+msgid "Vortex Elemental"
+msgstr ""
+
+#: ../../BNG.rst:881
+# bffcf57164ae41c08c3d6bbbe2e7ec30
+msgid "|mana_u|: Put Vortex Elemental and each creature blocking or blocked by it on top of their owners' libraries, then those players shuffle their libraries."
+msgstr ""
+
+#: ../../BNG.rst:883
+# d84919ac273c4716a66434aa2c304c0d
+msgid "|mana_3| |mana_u| |mana_u|: Target creature blocks Vortex Elemental this turn if able."
+msgstr ""
+
+#: ../../BNG.rst:888
+# 58079d7a05fc45cc8772a5271346cc28
+msgid "Warchanter of Mogis"
+msgstr ""
+
+#: ../../BNG.rst:887
+# 19b5f0d41ffd44909be88ed1cb1102bf
+msgid "Inspired — Whenever Warchanter of Mogis becomes untapped, target creature you control gains intimidate until end of turn. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../BNG.rst:894
+# ae116696f80247c583783aaf47ebc0c3
+msgid "Weight of the Underworld"
+msgstr ""
+
+#: ../../BNG.rst:893
+# abdb46de08524894b5ec24a7912f02b8
+msgid "Enchanted creature gets -3/-2."
+msgstr ""
+
+#: ../../BNG.rst:898
+# 230f8b76ae0246dda58d295016876fd6
+msgid "Whelming Wave"
+msgstr ""
+
+#: ../../BNG.rst:897
+# 35ea9f3031ca4b8eb8e244637f85f9fa
+msgid "Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents."
+msgstr ""
+
+#: ../../BNG.rst:902
+# d797059ef4a14a068b8e63683a3d3c45
+msgid "Whims of the Fates"
+msgstr ""
+
+#: ../../BNG.rst:901
+# fdefc9d8798442b2b54ea5f948f17bef
+msgid "Starting with you, each player separates all permanents he or she controls into three piles. Then each player chooses one of his or her piles at random and sacrifices those permanents. (Piles can be empty.)"
+msgstr ""
+
+#: ../../BNG.rst:910
+# 4dd381e3a4d9413bb313b9203904960f
+msgid "Xenagos, God of Revels"
+msgstr ""
+
+#: ../../BNG.rst:907
+# d7b54790ae4044b38a8c3eef06437223
+msgid "As long as your devotion to red and green is less than seven, Xenagos isn't a creature."
+msgstr ""
+
+#: ../../BNG.rst:909
+# b60643d9ff8143e68f76e7ae331f0594
+msgid "At the beginning of combat on your turn, another target creature you control gains haste and gets +X/+X until end of turn, where X is that creature's power."
+msgstr ""
+

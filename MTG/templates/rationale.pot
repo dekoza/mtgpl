@@ -1,0 +1,173 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-16 01:27+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../rationale.rst:6
+# ef717a8dd52649419af73b32a71be535
+msgid "Uzasadnienie tłumaczeń"
+msgstr ""
+
+#: ../../rationale.rst:8
+# 909d37fe258d44d4bbfbc0e998a194a7
+msgid "W trakcie prac nad tłumaczeniami pojawiło się sporo pytań, wątpliwości oraz propozycji zmiany tłumaczenia różnych słów kluczowych. W związku z tym postanowiłem uzasadnić wszystkie kontrowersyjne tłumaczenia prezentując różne alternatywy, które były brane pod uwagę lub zostały później zgłoszone oraz tok myślowy, który spowodował wybranie jakiejś konkretnej wersji."
+msgstr ""
+
+#: ../../rationale.rst:14
+# e5ee4001666845fd9b60f05315f6e267
+msgid "Zasady ogólne"
+msgstr ""
+
+#: ../../rationale.rst:16
+# 2081b4eafb5247d4928fb73b4e2d5815
+msgid "Przystępując do pracy wyszedłem z założenia, że tłumaczenia powinny być jak najbardziej intuicyjne, tzn. żeby polska wersja nie tylko była dobrym (tzn. \"możliwie wiernym\") tłumaczeniem oryginalnego wyrazu, ale też by czytając tłumaczenie można było łatwo się domyślić, o co tak naprawdę chodzi."
+msgstr ""
+
+#: ../../rationale.rst:22
+# 8f49c6b5795a4a58b4887489fffa9d13
+msgid "Często występujące terminy"
+msgstr ""
+
+#: ../../rationale.rst:29
+# 3efaaece5996428a978ce3396d482651
+msgid "Target -> wskazany, wskazywać"
+msgstr ""
+
+#: ../../rationale.rst:25
+# 3ec2555e27c841d7a41f4274abcceb40
+msgid "Oczywistym pierwszym tłumaczeniem słowa \"target\" jest \"cel\". Po kilku eksperymentach okazuje się jednak, iż wybór ten jest bardzo niefortunny. \"Zniszcz wycelowanego stwora\" brzmi conajmniej niezgrabnie. No to może \"wybranego\"? W porządku, ale jak w takim razie odróżnić tłumaczenie \"Choose a card\" od \"Choose target card\"? W obu przypadkach byłoby \"Wybierz kartę\". Zdecydowałem się na \"wskazany\", gdyż eliminuje to wspomniany konflikt - teraz można wybrać kartę i można też wskazać kartę."
+msgstr ""
+
+#: ../../rationale.rst:35
+# 1c8a6d8110944523b9b59a8a18025ac7
+msgid "Control -> władza"
+msgstr ""
+
+#: ../../rationale.rst:32
+# 34962c73dc0c438f894698147b4ab57f
+msgid "W polskim języku występuje słowo \"kontrola\" - dlaczego nie? Być może faktycznie \"Zniszcz stwory kontrolowane przez przeciwników\" brzmi lepiej niż \"Zniszcz stwory władane przez przeciwników\", ale jak nazwać osobę, która sprawuje kontrolę. Przecież nie \"kontroler\", gdyż nie sprawdza on biletów. \"Władca\" jest najbardziej adekwatnym i jednocześnie najkrótszym z możliwych tłumaczeń."
+msgstr ""
+
+#: ../../rationale.rst:39
+# 5358725700234ee0835933f29463ca58
+msgid "Exile -> wypędzenie"
+msgstr ""
+
+#: ../../rationale.rst:38
+# c9076ba389e04450915074898299825b
+msgid "Był to jeden z trudniejszych terminów do przetłumaczenia. Banicja? Wygnanie? Obie wersje brzmią dobrze, ale kiepsko jest z odmianą, szczególnie z trybem rozkazującym. Uznałem, że \"wypędzienie\" jest najmniej kłopotliwe."
+msgstr ""
+
+#: ../../rationale.rst:45
+# e96de712fe774c2e92742add50a542fe
+msgid "Defender -> Obronność"
+msgstr ""
+
+#: ../../rationale.rst:42
+# d3b0eac57e2f4654a995e4bb6050a24a
+msgid "Dosłownie termin ten oznacza \"obrońca\". Tutaj potrzebne jest jednak słowo, które bardziej pasuje do stanu karty, a nie jej funkcji. Tym bardziej, że co jakiś czas można spotkać \"loses defender\" - i jak to przełumaczyć? \"Traci obrońcę\"? Natomiast \"traci obronność\" brzmi już lepiej. Nadal jednak nie jestem w pełni usatysfakcjonowany i szukam lepszego terminu."
+msgstr ""
+
+#: ../../rationale.rst:58
+# 89adc3e5d4094e7d96e9a67a2ff436ec
+msgid "Landwalk -> zdobywca lądów"
+msgstr ""
+
+#: ../../rationale.rst:48
+# 87733f053c424ae59fe064b59d85f5a9
+msgid "Przyznam szczerze, że tutaj najbardziej by mi odpowiadał neologizm w rodzaju lądołaz. Wtedy:"
+msgstr ""
+
+#: ../../rationale.rst:50
+# 6ef7f120c70a4b85ae1d2bd9fab58b7b
+msgid "forestwalk -> lasołaz"
+msgstr ""
+
+#: ../../rationale.rst:51
+# cfcd36464d4b4b02beb55fbdc1d00084
+msgid "islandwalk -> wyspołaz"
+msgstr ""
+
+#: ../../rationale.rst:52
+# 6cbeda4c6d704a36a6aba8403f26bf9a
+msgid "mountainwalk -> górołaz"
+msgstr ""
+
+#: ../../rationale.rst:53
+# ee3d44e10abc42588f0d6eefc5033746
+msgid "swampwalk -> bagnołaz"
+msgstr ""
+
+#: ../../rationale.rst:54
+# 2870c26f64814e0293e27fabdd466ff0
+msgid "plainswalk -> równinołaz"
+msgstr ""
+
+#: ../../rationale.rst:56
+# dde7165d9c3940e8b920988af4dc567f
+msgid "Ewentualnie można zastąpić \"-łaz\" przez \"-chód\". Zaproponowany przez Bartka Pękalę \"zdobywca\" nie powoduje wrażenia pewnego rodzaju pokraczności i przede wszystkim jest wysoce intuicyjny, dlatego zdecydowałem się nań mimo wielkiej sympatii do wszelkich neologizmów."
+msgstr ""
+
+#: ../../rationale.rst:61
+# 0d582194a9104c4fba97fb4f84e55702
+msgid "Nieaktualne"
+msgstr ""
+
+#: ../../rationale.rst:86
+# 3853bb85e67444179fd985bfcb2dec8c
+msgid "Permanent -> stałka"
+msgstr ""
+
+#: ../../rationale.rst:64
+# cd9beb8824ff45118e9a243ca9fb4fe0
+msgid "Jest to tłumaczenie, które wzbudza chyba najwięcej kontrowersji, dlatego zdecydowałem się przedstawić je na samym początku."
+msgstr ""
+
+#: ../../rationale.rst:67
+# 51e0736d90874ecf8702a572f14dd32f
+msgid "Przede wszystkim w języku polskim nie ma takiego słowa jak \"permanent\". Jest słowo \"permanentny\", ale jest to przymiotnik, a tu potrzeba rzeczownika."
+msgstr ""
+
+#: ../../rationale.rst:70
+# e9f18dad1641409e937af32b50120de5
+msgid "Pierwotnie jako tłumaczenia użyłem słowa \"bierka\". Termin ten w szachach określa każdą figurę i piona, czyli każdy element gry z wyjątkiem samej planszy. W mojej wersji \"bierka\" miała oznaczać każdy element gry znajdujący się na polu walki. Byłem zadowolony z tego tłumaczenia, choć wiele osób zarzucało mu kompletny brak intuicyjności, gdyż potocznie \"bierka\" kojarzy się z grą w podnoszenie patyczków. Zacząłem zatem szukać innego tłumaczenia. Szymek Wnętrzak zaproponował kalkę z terminologii informatycznej - \"stałkę\". Zgodnie z mini-podręcznikiem \"permanent\" jest opisany jako \"coś, co **stale** znajduje się na polu walki (przynajmniej dopóki nie zostanie zniszczone)\". Definicja ta ostatecznie przekonała mnie do \"stałki\" zamiast wcześniejszej \"bierki\"."
+msgstr ""
+
+#: ../../rationale.rst:79
+# 2982bf74848c41c6bd12931dc29ce162
+msgid "Pojawiła się także propozycja \"obiekt\". Niestety nie można użyć tego terminu, gdyż jest on w konflikcie z takim samym terminem w kompendium (Comprehensive Rules) - tam oznacza on nie tylko wszyskie \"permanenty\", ale także czary na stosie itd."
+msgstr ""
+
+#: ../../rationale.rst:83
+# a74efedf9b314d18a117e57da20d808e
+msgid "**Aktualizacja:** po wielu dyskusjach doszedłem do wniosku, że jednak należy zostawić \"permanent\". To też jest nowy dla języka polskiego wyraz, a przynajmniej pomoże nowym użytkownikom odnaleźć się podczas czytania angielskich kart."
+msgstr ""
+
+#: ../../rationale.rst:89
+# 5dd80dca63e94b938aa705938453aed4
+msgid "Hasła zdolności"
+msgstr ""
+
+#: ../../rationale.rst:97
+# 416f5beb37564440ae68ebc415bb2a83
+msgid "Lifelink -> Więź życia / życiowięzy"
+msgstr ""
+
+#: ../../rationale.rst:93
+# e01e83d1a3ce46ef875e36aba71d56d9
+msgid "Początkowo padła propozycja, by zdolność tę nazwać \"wampiryzmem\" lub \"wysysaniem życia\", gdyż takie tłumaczenie byłoby bardziej intuicyjne. Owszem, jednakże należy przyjrzeć się kartom, które daną zdolność posiadają. W przypadku czarnych \"wampiryzm\" oraz \"wysyanie życia\" wydaje się wyborem jak najbardziej słusznym i naturalnym. Co zrobić jednak z drugą stroną barykady, czyli pokaźną armią kart w kolorze białym? Wyobrażacie sobie, że jakiś archanioł ma \"wampiryzm\" albo że wysysa życie?"
+msgstr ""
+

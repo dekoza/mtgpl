@@ -1,0 +1,2201 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-16 01:27+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../DKA.rst:5
+# bd08b2c8e2834c90955d928da9908eea
+msgid "Dark Ascension"
+msgstr ""
+
+#: ../../DKA.rst:9
+# a9dd20cc7da44fbdb0755ece98c4b18f
+msgid "Afflicted Deserter"
+msgstr ""
+
+#: ../../DKA.rst:8
+# 4c41985343f841f29e6aafaed36ec2f3
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Afflicted Deserter."
+msgstr ""
+
+#: ../../DKA.rst:13
+# 0d8bec31a2ee469a9981ffc0a9ece0a4
+msgid "Alpha Brawl"
+msgstr ""
+
+#: ../../DKA.rst:12
+# c69e8bdc832e4088ab65c33751466935
+msgid "Target creature an opponent controls deals damage equal to its power to each other creature that player controls, then each of those creatures deals damage equal to its power to that creature."
+msgstr ""
+
+#: ../../DKA.rst:19
+# d5dcc96b5ebc4f7c92f4e18bc54d794b
+msgid "Altar of the Lost"
+msgstr ""
+
+#: ../../DKA.rst:16
+# b79bfcd30074401aaa1f2976fcc3bb48
+msgid "Altar of the Lost enters the battlefield tapped."
+msgstr ""
+
+#: ../../DKA.rst:18
+# 2f3329fdfbe244098c24be370471e13a
+msgid "|tap|: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast spells with flashback from a graveyard."
+msgstr ""
+
+#: ../../DKA.rst:23
+# 3573471b320c44cc98fd8ba3f933b709
+msgid "Archangel's Light"
+msgstr ""
+
+#: ../../DKA.rst:22
+# d2c08459596e4ff8b25d67ea6eba0144
+msgid "You gain 2 life for each card in your graveyard, then shuffle your graveyard into your library."
+msgstr ""
+
+#: ../../DKA.rst:29
+# 760eceb74a3b45e2a84a17c658883ebe
+msgid "Archdemon of Greed"
+msgstr ""
+
+#: ../../DKA.rst:26
+# b9c613218fa3478ab27e8d947489983c
+msgid "Flying, trample"
+msgstr ""
+
+#: ../../DKA.rst:28
+# ddea351597c54935859e39ac46dd56bf
+msgid "At the beginning of your upkeep, sacrifice a Human. If you can't, tap Archdemon of Greed and it deals 9 damage to you."
+msgstr ""
+
+#: ../../DKA.rst:35
+# bb7b3317cec846cdaa2d87f7960604fa
+msgid "Artful Dodge"
+msgstr ""
+
+#: ../../DKA.rst:32
+# 6efddb69aa084d2b99dabab8bad3886b
+msgid "Target creature can't be blocked this turn."
+msgstr ""
+
+#: ../../DKA.rst:34
+# 1c395c91fe7d439b94613e01a051b5aa
+msgid "Flashback |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:43
+# 35d991e103ca4ac99dedae7c6ede4396
+msgid "Avacyn's Collar"
+msgstr ""
+
+#: ../../DKA.rst:38
+# a642b8781e3c4daaa4be7883c0658308
+msgid "Equipped creature gets +1/+0 and has vigilance."
+msgstr ""
+
+#: ../../DKA.rst:40
+# c335d7ceae9d45198cd1b18590c786d6
+msgid "Whenever equipped creature dies, if it was a Human, put a 1/1 white Spirit creature token with flying onto the battlefield."
+msgstr ""
+
+#: ../../DKA.rst:42
+# 313599f7bbb149eca7cefd2229daaa90
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../DKA.rst:47
+# 3c49179047934c69b19dd9f90901a4eb
+msgid "Bar the Door"
+msgstr ""
+
+#: ../../DKA.rst:46
+# 287b4f7d019741c88588f1ed4bc2fa17
+msgid "Creatures you control get +0/+4 until end of turn."
+msgstr ""
+
+#: ../../DKA.rst:51
+# 361bc8bca4f74a648d0cca5d88967e91
+msgid "Beguiler of Wills"
+msgstr ""
+
+#: ../../DKA.rst:50
+# 8fa20627321747539ac2b9c7badfd49a
+msgid "|tap|: Gain control of target creature with power less than or equal to the number of creatures you control."
+msgstr ""
+
+#: ../../DKA.rst:55
+# 8016e8f275d44427875e5b589559c596
+msgid "Black Cat"
+msgstr ""
+
+#: ../../DKA.rst:54
+# 26bc94fb4aa745919c845b524def77a6
+msgid "When Black Cat dies, target opponent discards a card at random."
+msgstr ""
+
+#: ../../DKA.rst:59
+# 3cef44e7685042bda9a84d7564b882cc
+msgid "Blood Feud"
+msgstr ""
+
+#: ../../DKA.rst:58
+# adaccf617c724790934a6f2f0aa13427
+msgid "Target creature fights another target creature. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../DKA.rst:65
+# b68a6a66ace14301abed4b88e65ea426
+msgid "Bone to Ash"
+msgstr ""
+
+#: ../../DKA.rst:62
+# 8dd144167bfb473384fc87aebdd3fbea
+msgid "Counter target creature spell."
+msgstr ""
+
+#: ../../DKA.rst:64
+#: ../../DKA.rst:360
+#: ../../DKA.rst:820
+# 66e3a7092a9d44b28ffc93a354b57a32
+# c92e072016a24a019262222e385e4c9b
+# 9cb5ad4422d7419b9e69602600572bc6
+msgid "Draw a card."
+msgstr ""
+
+#: ../../DKA.rst:71
+# d88c2da8e9164f01b061da3370f55623
+msgid "Break of Day"
+msgstr ""
+
+#: ../../DKA.rst:68
+# a48060ff184c4932abacc25f5fc212f0
+msgid "Creatures you control get +1/+1 until end of turn."
+msgstr ""
+
+#: ../../DKA.rst:70
+# 9b1071ad62494219872ecc8fa99d806d
+msgid "Fateful hour — If you have 5 or less life, those creatures gain indestructible until end of turn. (Damage and effects that say \\\"destroy\\\" don't destroy them.)"
+msgstr ""
+
+#: ../../DKA.rst:77
+# 56dcbc51dc8f4b1d9bf2d68ed98e8dcb
+msgid "Briarpack Alpha"
+msgstr ""
+
+#: ../../DKA.rst:74
+#: ../../DKA.rst:458
+#: ../../DKA.rst:610
+#: ../../DKA.rst:804
+# 5679ead5fe5342a2b09fc11e92c2fadb
+# 0265d32938d84315b56218e9e06e1ddf
+# 7cff2e8ac1e0481bb234b1161cba2386
+# b6b3885ea04a43c3b265ff3d5e067fa0
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
+#: ../../DKA.rst:76
+# 34b0a94f6d67462b8c2ace01be7fed95
+msgid "When Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../DKA.rst:83
+# 470425cef2534f5e85b695f42c175c62
+msgid "Burden of Guilt"
+msgstr ""
+
+#: ../../DKA.rst:80
+#: ../../DKA.rst:92
+#: ../../DKA.rst:106
+#: ../../DKA.rst:272
+#: ../../DKA.rst:336
+#: ../../DKA.rst:774
+#: ../../DKA.rst:806
+# 1a50a8a69c9d4fdd80e5bb90d5f92d2f
+# 8ae383918bf94650a03cbe0bc073e377
+# e9384c342f8344788aa31a30c09a8e40
+# f2520dc40c414a4790de45bb23dd3246
+# e10e316c9d7b4d4b80b21ebc2601aa78
+# 330029f1bbda4259bbb28d6f12aa49ad
+# adadc80649434eb08bf5ea943c11b5e8
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../DKA.rst:82
+# 51ab93d18e184db19a1b8bd9bf01bddc
+msgid "|mana_1|: Tap enchanted creature."
+msgstr ""
+
+#: ../../DKA.rst:89
+# 1e6837695e94402d933f57a7cff2a76e
+msgid "Burning Oil"
+msgstr ""
+
+#: ../../DKA.rst:86
+# c13ea95cb72741d8810d08eda4c4eea0
+msgid "Burning Oil deals 3 damage to target attacking or blocking creature."
+msgstr ""
+
+#: ../../DKA.rst:88
+# 7216934bfd7246ebbe62d6958f92c5c9
+msgid "Flashback |mana_3| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:95
+# 489a7c9f8ceb48cb9323c4c0dbb6b1e9
+msgid "Call to the Kindred"
+msgstr ""
+
+#: ../../DKA.rst:94
+# b711fd6c5b2a4d95ab2da355ed17ce38
+msgid "At the beginning of your upkeep, you may look at the top five cards of your library. If you do, you may put a creature card that shares a creature type with enchanted creature from among them onto the battlefield, then you put the rest of those cards on the bottom of your library in any order."
+msgstr ""
+
+#: ../../DKA.rst:99
+# 94f344f92723454797a7b2784bcc5ede
+msgid "Chalice of Death"
+msgstr ""
+
+#: ../../DKA.rst:98
+# ed744781887c4d9a906c4060f061ece0
+msgid "|tap|: Target player loses 5 life."
+msgstr ""
+
+#: ../../DKA.rst:103
+# 530285b0afd8417b93d01d2d092b098d
+msgid "Chalice of Life"
+msgstr ""
+
+#: ../../DKA.rst:102
+# a90cc28ee1744a63bb89603819e72770
+msgid "|tap|: You gain 1 life. Then if you have at least 10 life more than your starting life total, transform Chalice of Life."
+msgstr ""
+
+#: ../../DKA.rst:109
+# 8566874176d0462dab6059d5286d1b46
+msgid "Chant of the Skifsang"
+msgstr ""
+
+#: ../../DKA.rst:108
+# 6155f7e20edf4ac3aa74c16780f37eff
+msgid "Enchanted creature gets -13/-0."
+msgstr ""
+
+#: ../../DKA.rst:115
+# 9ece82c6ece4407c9e3a7c3f51e4b1f6
+msgid "Chill of Foreboding"
+msgstr ""
+
+#: ../../DKA.rst:112
+# 0768a50655f84e84abc574ec8330659c
+msgid "Each player puts the top five cards of his or her library into his or her graveyard."
+msgstr ""
+
+#: ../../DKA.rst:114
+# f513cfb146c64428adef85443ee12452
+msgid "Flashback |mana_7| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:119
+# a4d7e5fcd9234978b1e8c93148f4e05e
+msgid "Chosen of Markov"
+msgstr ""
+
+#: ../../DKA.rst:118
+# b631279aa8054b9b8c05e6bd61420f47
+msgid "|tap|, Tap an untapped Vampire you control: Transform Chosen of Markov."
+msgstr ""
+
+#: ../../DKA.rst:125
+# 062b0486a22b4dc891e9b1a3b58208ab
+msgid "Clinging Mists"
+msgstr ""
+
+#: ../../DKA.rst:122
+# bc22098e5085481eaa79cee1e9551688
+msgid "Prevent all combat damage that would be dealt this turn."
+msgstr ""
+
+#: ../../DKA.rst:124
+# 192db872f3714a23866bfb1f7b068a62
+msgid "Fateful hour — If you have 5 or less life, tap all attacking creatures. Those creatures don't untap during their controller's next untap step."
+msgstr ""
+
+#: ../../DKA.rst:129
+# 2579eae0cd984d0088f9bb4f30fde0cf
+msgid "Counterlash"
+msgstr ""
+
+#: ../../DKA.rst:128
+# 4477364b8d564b50a63fe8df6170645a
+msgid "Counter target spell. You may cast a nonland card in your hand that shares a card type with that spell without paying its mana cost."
+msgstr ""
+
+#: ../../DKA.rst:135
+# 14654c52be17429898dc0e2a28ff4638
+msgid "Crushing Vines"
+msgstr ""
+
+#: ../../DKA.rst:132
+# cbe3409c9bcb41e58fca69b17c8c6528
+msgid "Choose one — Destroy target creature with flying"
+msgstr ""
+
+#: ../../DKA.rst:134
+# 60943f60e8994013931d44f1d80a9ff3
+msgid "or destroy target artifact."
+msgstr ""
+
+#: ../../DKA.rst:141
+# 1991014a43ef4fadb4b05efdef5e4a9b
+msgid "Curse of Bloodletting"
+msgstr ""
+
+#: ../../DKA.rst:138
+#: ../../DKA.rst:144
+#: ../../DKA.rst:150
+#: ../../DKA.rst:156
+#: ../../DKA.rst:162
+# bf7cee2890fd4e22b2d9f46edb840a33
+# 64dc609547d94ed0a2964a0b6d50d26b
+# ae0472f79afd4ed9a2bef0451bf4f136
+# f072366ba1a1400d8f8b52009c05f9af
+# 7127a2af2adf48909247ca408eb0d7c5
+msgid "Enchant player"
+msgstr ""
+
+#: ../../DKA.rst:140
+# d286eb39d1f54d5f952d4b88711f13e6
+msgid "If a source would deal damage to enchanted player, it deals double that damage to that player instead."
+msgstr ""
+
+#: ../../DKA.rst:147
+# a3616e76eb9b4dd68e73e25c31005c81
+msgid "Curse of Echoes"
+msgstr ""
+
+#: ../../DKA.rst:146
+# 592957ff222b43eb8d2d11c00aff537b
+msgid "Whenever enchanted player casts an instant or sorcery spell, each other player may copy that spell and may choose new targets for the copy he or she controls."
+msgstr ""
+
+#: ../../DKA.rst:153
+# af6698021ea4438ebc0c9c41b53f8000
+msgid "Curse of Exhaustion"
+msgstr ""
+
+#: ../../DKA.rst:152
+# 751f3e65c55c4b0a92520dc917bac46f
+msgid "Enchanted player can't cast more than one spell each turn."
+msgstr ""
+
+#: ../../DKA.rst:159
+# 20caca1bb96f4059a063f37f7b69509c
+msgid "Curse of Misfortunes"
+msgstr ""
+
+#: ../../DKA.rst:158
+# a29e3b624073438e97333158f10f1a7a
+msgid "At the beginning of your upkeep, you may search your library for a Curse card that doesn't have the same name as a Curse attached to enchanted player, put it onto the battlefield attached to that player, then shuffle your library."
+msgstr ""
+
+#: ../../DKA.rst:165
+# 381c985186514aefac155c59f17e8a8b
+msgid "Curse of Thirst"
+msgstr ""
+
+#: ../../DKA.rst:164
+# 027ddf1dc6fa470795d959c1a8cbac9d
+msgid "At the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to him or her."
+msgstr ""
+
+#: ../../DKA.rst:169
+# 033426f8dc8246ddbb07049af91cbf17
+msgid "Dawntreader Elk"
+msgstr ""
+
+#: ../../DKA.rst:168
+# a8a785149f4a4fc38f78059b9adc9cc3
+msgid "|mana_g|, Sacrifice Dawntreader Elk: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../DKA.rst:175
+# 9438544ce094482ea0ac684113ed213a
+msgid "Deadly Allure"
+msgstr ""
+
+#: ../../DKA.rst:172
+# 229a2ee96b4548a09dcaa24941ec49d5
+msgid "Target creature gains deathtouch until end of turn and must be blocked this turn if able."
+msgstr ""
+
+#: ../../DKA.rst:174
+#: ../../DKA.rst:662
+# 2504d3f498fe4a02bc812c21a0f957d0
+# e180a4853af14f7689c76fc91dae106d
+msgid "Flashback |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:179
+# b90da954a3da4efd80e37d15c5ca1077
+msgid "Death's Caress"
+msgstr ""
+
+#: ../../DKA.rst:178
+# d5793028cc72454bb538eabbadf405a2
+msgid "Destroy target creature. If that creature was a Human, you gain life equal to its toughness."
+msgstr ""
+
+#: ../../DKA.rst:183
+# 9035d93d53a8489499dbbe88b838c147
+msgid "Deranged Outcast"
+msgstr ""
+
+#: ../../DKA.rst:182
+# 757d23e68361466f8e726657d1f40b85
+msgid "|mana_1| |mana_g|, Sacrifice a Human: Put two +1/+1 counters on target creature."
+msgstr ""
+
+#: ../../DKA.rst:191
+# 0d341b86a47d47a68662abd46deab48d
+msgid "Diregraf Captain"
+msgstr ""
+
+#: ../../DKA.rst:186
+# 29766b3baa2441588b6b6c5971a39220
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../DKA.rst:188
+# 525c33f8b39243ea8903b156325e7263
+msgid "Other Zombie creatures you control get +1/+1."
+msgstr ""
+
+#: ../../DKA.rst:190
+# 77d6c4cdb44e4e50a3ef1934b7b23a47
+msgid "Whenever another Zombie you control dies, target opponent loses 1 life."
+msgstr ""
+
+#: ../../DKA.rst:195
+# 59d6966712094bec82e4ec6a4e99ef6f
+msgid "Divination"
+msgstr ""
+
+#: ../../DKA.rst:194
+# a4be6327f3034779a05f6e6a8342d268
+msgid "Draw two cards."
+msgstr ""
+
+#: ../../DKA.rst:201
+# cbea8e60698548c8aaac61e60055fceb
+msgid "Drogskol Captain"
+msgstr ""
+
+#: ../../DKA.rst:198
+#: ../../DKA.rst:210
+#: ../../DKA.rst:282
+#: ../../DKA.rst:460
+#: ../../DKA.rst:594
+#: ../../DKA.rst:612
+#: ../../DKA.rst:616
+#: ../../DKA.rst:622
+#: ../../DKA.rst:628
+#: ../../DKA.rst:678
+#: ../../DKA.rst:726
+#: ../../DKA.rst:768
+#: ../../DKA.rst:780
+#: ../../DKA.rst:844
+#: ../../DKA.rst:880
+# 67560c4265714f8590f76eb08e17368b
+# 75a79dcae17f423f935dc3f64238ad4e
+# f0948be24f5e4a3a9596bb4a8dd7dc9e
+# 13c519a3589449688ef0b24f6186e5fd
+# 085b493e956a4cde92fe8fad45b51d41
+# b6a11a90886047f0a06f9109b5880544
+# ba0e1a26f0524fb8bd07cc5e8f86fc8f
+# a70611025e334fb89b68af444d250ac2
+# 709581c94b3446beaec91bd23c2807fc
+# 768eaf2074d240fbb96769f835fc8b79
+# d081e66fdf3c4275a30b9351b47c8a82
+# 8fee64b608f94a0c88c49a36640d4ba3
+# 8578418203e24cb28df2f33885d52a1f
+# db9062db73224c0cb58d3135e66cce80
+# 880895901e3c4f6fb8ac72e356b8d61d
+msgid "Flying"
+msgstr ""
+
+#: ../../DKA.rst:200
+# 1c24b5ecee6e42e6bcea06ebf0868e8d
+msgid "Other Spirit creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../DKA.rst:207
+# 2d2867ad10cf442b8984fbf334c2be23
+msgid "Drogskol Reaver"
+msgstr ""
+
+#: ../../DKA.rst:204
+# 20d55267e521462d8562c30e1feaa264
+msgid "Flying, double strike, lifelink"
+msgstr ""
+
+#: ../../DKA.rst:206
+# f110bcccf81b443990b6cb1f5047d2f5
+msgid "Whenever you gain life, draw a card."
+msgstr ""
+
+#: ../../DKA.rst:213
+# f014c3fe655d494c9bfbc404f65819d4
+msgid "Dungeon Geists"
+msgstr ""
+
+#: ../../DKA.rst:212
+# 453ab73a31124367a85307d44a9a8f17
+msgid "When Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists."
+msgstr ""
+
+#: ../../DKA.rst:221
+# 5206493177124d2a92841eef66265315
+msgid "Elbrus, the Binding Blade"
+msgstr ""
+
+#: ../../DKA.rst:216
+# 01bdda8ef7d4466bbe697f2b2fc1fdf6
+msgid "Equipped creature gets +1/+0."
+msgstr ""
+
+#: ../../DKA.rst:218
+# b68ef1f65658499ab0569e75022597be
+msgid "When equipped creature deals combat damage to a player, unattach Elbrus, the Binding Blade, then transform it."
+msgstr ""
+
+#: ../../DKA.rst:220
+# 660a51a035714c578d278cb6db649e27
+msgid "Equip |mana_1|"
+msgstr ""
+
+#: ../../DKA.rst:227
+# cf589b7694aa4b0e88d5193fd7cbd572
+msgid "Elgaud Inquisitor"
+msgstr ""
+
+#: ../../DKA.rst:224
+# 6680c26ca57342fa909dbcd161b5606f
+msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
+msgstr ""
+
+#: ../../DKA.rst:226
+# 36f7aa93ad1741a19ed3ade2fc820a5c
+msgid "When Elgaud Inquisitor dies, put a 1/1 white Spirit creature token with flying onto the battlefield."
+msgstr ""
+
+#: ../../DKA.rst:233
+# 799c3bf2fd3945a9b2a097cdeaaeb726
+msgid "Erdwal Ripper"
+msgstr ""
+
+#: ../../DKA.rst:230
+#: ../../DKA.rst:426
+#: ../../DKA.rst:560
+#: ../../DKA.rst:788
+# b51d33409ad248df9e2f76660d667415
+# bc1c797d4332487bb23c6c04a02d9657
+# f4f70261c19e43f19d2539617bf58246
+# 25c51014f73c4771bb4a2b6ae70de725
+msgid "Haste"
+msgstr ""
+
+#: ../../DKA.rst:232
+# 4cfdd40256cf49e087823feb83b9df84
+msgid "Whenever Erdwal Ripper deals combat damage to a player, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../DKA.rst:237
+# d24b6e696d034a0f9e1b9d10340964cd
+msgid "Evolving Wilds"
+msgstr ""
+
+#: ../../DKA.rst:236
+# 0cd51d656dda4dd5b810dd94a1843676
+msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library."
+msgstr ""
+
+#: ../../DKA.rst:243
+# da5efae7ca8e43219c99a71cf8b94e93
+msgid "Executioner's Hood"
+msgstr ""
+
+#: ../../DKA.rst:240
+# 3a84ff6c532b490e98b1a015b42e6893
+msgid "Equipped creature has intimidate. (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../DKA.rst:242
+#: ../../DKA.rst:418
+# e5d046f3525a455e9441586be1188972
+# 249afd97291f400bbc844e89018ce7ab
+msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
+msgstr ""
+
+#: ../../DKA.rst:249
+# 3ee2ce970d6049efbf927a876f1ab1c7
+msgid "Faithless Looting"
+msgstr ""
+
+#: ../../DKA.rst:246
+# 00dcf94031a8488cb5bb2653a1a9a44d
+msgid "Draw two cards, then discard two cards."
+msgstr ""
+
+#: ../../DKA.rst:248
+#: ../../DKA.rst:602
+# 403668bb67694b6cb7bd0ddf91b8347d
+# b9c508b625ca478aba87570a8cbee6f1
+msgid "Flashback |mana_2| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:255
+# 6963b550cae14e25b6251b813155e5a9
+msgid "Faith's Shield"
+msgstr ""
+
+#: ../../DKA.rst:252
+# cfce89b7175242b581a2f35ae4de3349
+msgid "Target permanent you control gains protection from the color of your choice until end of turn."
+msgstr ""
+
+#: ../../DKA.rst:254
+# 8c7825111111428697980ebe89445d30
+msgid "Fateful hour — If you have 5 or less life, instead you and each permanent you control gain protection from the color of your choice until end of turn."
+msgstr ""
+
+#: ../../DKA.rst:261
+# 1daf9da5fd574d2ca99432139c5c522b
+msgid "Falkenrath Aristocrat"
+msgstr ""
+
+#: ../../DKA.rst:258
+# 5551710bf9944c77b96434eadfc003a5
+msgid "Flying, haste"
+msgstr ""
+
+#: ../../DKA.rst:260
+# 08dec7a57fce4eb0b4f7d4a1edafe9b7
+msgid "Sacrifice a creature: Falkenrath Aristocrat gains indestructible until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Aristocrat."
+msgstr ""
+
+#: ../../DKA.rst:265
+# 251d8b458ed6450bb2e463dc78479c53
+msgid "Falkenrath Torturer"
+msgstr ""
+
+#: ../../DKA.rst:264
+# 377c020ae6b84ca9a01671fbf2a8ba67
+msgid "Sacrifice a creature: Falkenrath Torturer gains flying until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Torturer."
+msgstr ""
+
+#: ../../DKA.rst:269
+# afd8b59754304404a75e8167f50842c1
+msgid "Farbog Boneflinger"
+msgstr ""
+
+#: ../../DKA.rst:268
+# 53ede8d363ff4d21974ebca6f03a4357
+msgid "When Farbog Boneflinger enters the battlefield, target creature gets -2/-2 until end of turn."
+msgstr ""
+
+#: ../../DKA.rst:275
+# 81737855ed8f4c49b9dbb27746abf5fe
+msgid "Favor of the Woods"
+msgstr ""
+
+#: ../../DKA.rst:274
+# 15875ade53bd42a889eba41a7add9cda
+msgid "Whenever enchanted creature blocks, you gain 3 life."
+msgstr ""
+
+#: ../../DKA.rst:279
+# 2a304b28676b4f98bd8ace88d20591df
+msgid "Feed the Pack"
+msgstr ""
+
+#: ../../DKA.rst:278
+# 8268846f4f64436cb9000074db921783
+msgid "At the beginning of your end step, you may sacrifice a nontoken creature. If you do, put X 2/2 green Wolf creature tokens onto the battlefield, where X is the sacrificed creature's toughness."
+msgstr ""
+
+#: ../../DKA.rst:287
+# 2da1037cb7c44a2ea517163806956ddd
+msgid "Fiend of the Shadows"
+msgstr ""
+
+#: ../../DKA.rst:284
+# 33a02ae2d8094a8a976e78b04b4c5986
+msgid "Whenever Fiend of the Shadows deals combat damage to a player, that player exiles a card from his or her hand. You may play that card for as long as it remains exiled."
+msgstr ""
+
+#: ../../DKA.rst:286
+# d4419e922c1e45cfaba5b4b43241e323
+msgid "Sacrifice a Human: Regenerate Fiend of the Shadows."
+msgstr ""
+
+#: ../../DKA.rst:293
+# c896c32686504fe3bc5169e85cdc29ca
+msgid "Fires of Undeath"
+msgstr ""
+
+#: ../../DKA.rst:290
+# 3775ea8fedef4a2baa68d0cebec53301
+msgid "Fires of Undeath deals 2 damage to target creature or player."
+msgstr ""
+
+#: ../../DKA.rst:292
+# 34af08ec704e4254839c9c75aa822eaf
+msgid "Flashback |mana_5| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:299
+# 382546b5c5d84459b5a61e40a0af459d
+msgid "Flayer of the Hatebound"
+msgstr ""
+
+#: ../../DKA.rst:296
+#: ../../DKA.rst:326
+#: ../../DKA.rst:332
+#: ../../DKA.rst:606
+#: ../../DKA.rst:644
+#: ../../DKA.rst:674
+#: ../../DKA.rst:734
+#: ../../DKA.rst:784
+#: ../../DKA.rst:790
+#: ../../DKA.rst:882
+#: ../../DKA.rst:894
+#: ../../DKA.rst:944
+# 372c619545ce4254bbe9f9cbc51a16c9
+# 9ee7610e6e4a4ce3b21f7ec60c517c5c
+# a74457c96fe34226880880055b4b687d
+# 0129451001aa4775a74f03e2b6a76cda
+# a70348eef39c44f189a5155df930f1ed
+# 75b44563d65246e28e2675c4af995972
+# f3ce83d088794bd0aa07708fceab1065
+# e297e6976366432783641e2b2a7ca5c6
+# 0d5f8a2d8344450ca0fbb3788b4cc144
+# b7be1de5e18d42faa9382ccc58f74248
+# ceb5e207b216407497c1ee44101d9880
+# 3134034d51ee4ceb9ec46a6adaff6176
+msgid "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DKA.rst:298
+# b67d106862d54ac293ea8945db29afce
+msgid "Whenever Flayer of the Hatebound or another creature enters the battlefield from your graveyard, that creature deals damage equal to its power to target creature or player."
+msgstr ""
+
+#: ../../DKA.rst:305
+# 844692847e6e4ab981cff1ff2245be86
+msgid "Fling"
+msgstr ""
+
+#: ../../DKA.rst:302
+# d53db6c672354fef87536e6f8a5c2cec
+msgid "As an additional cost to cast Fling, sacrifice a creature."
+msgstr ""
+
+#: ../../DKA.rst:304
+# 14deaa5fdd4c44429bf8b59e75017494
+msgid "Fling deals damage equal to the sacrificed creature's power to target creature or player."
+msgstr ""
+
+#: ../../DKA.rst:309
+# c00e281fc6fd486ca819ea6bcc983c59
+msgid "Forge Devil"
+msgstr ""
+
+#: ../../DKA.rst:308
+# 75fa8d4193424cc6aaf938a438be379f
+msgid "When Forge Devil enters the battlefield, it deals 1 damage to target creature and 1 damage to you."
+msgstr ""
+
+#: ../../DKA.rst:315
+# 4acadcb2e2854e78b977c9296ec378e6
+msgid "Gather the Townsfolk"
+msgstr ""
+
+#: ../../DKA.rst:312
+# 9accf71ba8384166813b939e822868fe
+msgid "Put two 1/1 white Human creature tokens onto the battlefield."
+msgstr ""
+
+#: ../../DKA.rst:314
+# 2ff6eed047fa4aa9acf875d30b78017d
+msgid "Fateful hour — If you have 5 or less life, put five of those tokens onto the battlefield instead."
+msgstr ""
+
+#: ../../DKA.rst:319
+# f17ea37a601c4e3e94c1978c4e2662f9
+msgid "Gavony Ironwright"
+msgstr ""
+
+#: ../../DKA.rst:318
+# fe706fc09c5440cc83b1a74d8d6c984a
+msgid "Fateful hour — As long as you have 5 or less life, other creatures you control get +1/+4."
+msgstr ""
+
+#: ../../DKA.rst:327
+# c86988ac9468406db7770e5c154c95fb
+msgid "Geralf's Messenger"
+msgstr ""
+
+#: ../../DKA.rst:322
+# 362e3240a66440d6907679a7f661f0bb
+msgid "Geralf's Messenger enters the battlefield tapped."
+msgstr ""
+
+#: ../../DKA.rst:324
+# 89d662920f8543bcb83943b0c1a19825
+msgid "When Geralf's Messenger enters the battlefield, target opponent loses 2 life."
+msgstr ""
+
+#: ../../DKA.rst:333
+# 4416e1d89a234b4b88839cd0b6fced7b
+msgid "Geralf's Mindcrusher"
+msgstr ""
+
+#: ../../DKA.rst:330
+# 62604cb0b0fc445e869be1dd23b80e30
+msgid "When Geralf's Mindcrusher enters the battlefield, target player puts the top five cards of his or her library into his or her graveyard."
+msgstr ""
+
+#: ../../DKA.rst:339
+# 5decaac947c64777ac0004be596e88a0
+msgid "Ghastly Haunting"
+msgstr ""
+
+#: ../../DKA.rst:338
+# aa1db98424e24f5eb5fa09924c35d355
+msgid "You control enchanted creature."
+msgstr ""
+
+#: ../../DKA.rst:343
+# b303bc85aa42456d96fb6c8bc81f812d
+msgid "Ghoultree"
+msgstr ""
+
+#: ../../DKA.rst:342
+# adf547bdb07d48dea909fd25bf00078f
+msgid "Ghoultree costs |mana_1| less to cast for each creature card in your graveyard."
+msgstr ""
+
+#: ../../DKA.rst:349
+# da7e590728de4f84a7b10d0c609a54d7
+msgid "Grafdigger's Cage"
+msgstr ""
+
+#: ../../DKA.rst:346
+# b89d6244fb584499914ad3c08f1a3527
+msgid "Creature cards can't enter the battlefield from graveyards or libraries."
+msgstr ""
+
+#: ../../DKA.rst:348
+# 41df6dce263c474ca4dbe936a3040929
+msgid "Players can't cast cards in graveyards or libraries."
+msgstr ""
+
+#: ../../DKA.rst:355
+# 04ed5756805f4f9e93d776942009ea36
+msgid "Gravecrawler"
+msgstr ""
+
+#: ../../DKA.rst:352
+# 1695ab360600424d88e0b35b9ea76e0a
+msgid "Gravecrawler can't block."
+msgstr ""
+
+#: ../../DKA.rst:354
+# 77e284c8e5044efd9a117aa474ad8ac2
+msgid "You may cast Gravecrawler from your graveyard as long as you control a Zombie."
+msgstr ""
+
+#: ../../DKA.rst:361
+# b8e720939c734a49ac9aadf07e72feb0
+msgid "Gravepurge"
+msgstr ""
+
+#: ../../DKA.rst:358
+# 063fe4e2c4c041a8ab9b526fda7c383f
+msgid "Put any number of target creature cards from your graveyard on top of your library."
+msgstr ""
+
+#: ../../DKA.rst:367
+# fe04f61769b5452a8c099debc4e21603
+msgid "Gravetiller Wurm"
+msgstr ""
+
+#: ../../DKA.rst:364
+#: ../../DKA.rst:648
+# d487815dc4f442d592a409af9df4192f
+# 6b5fee04c619429699cb5ae4ad4f12a3
+msgid "Trample"
+msgstr ""
+
+#: ../../DKA.rst:366
+# 71506399b01342099741f4db805168a5
+msgid "Morbid — Gravetiller Wurm enters the battlefield with four +1/+1 counters on it if a creature died this turn."
+msgstr ""
+
+#: ../../DKA.rst:373
+# 0f3ef5d683564638a87fa271f6ba1cbc
+msgid "Grim Backwoods"
+msgstr ""
+
+#: ../../DKA.rst:370
+#: ../../DKA.rst:394
+#: ../../DKA.rst:874
+#: ../../DKA.rst:904
+# 461f8e2b89a44954a855c782344b604d
+# 986768aa4c424796ad0ac30b5e10bb70
+# bac860bda1af40e3a1c4c71f406b5a4d
+# df746bd66fac475f897897a6650b35c9
+msgid "|tap|: Add |mana_1| to your mana pool."
+msgstr ""
+
+#: ../../DKA.rst:372
+# eb4a4eed828840eeb1a94b6d5c6895c0
+msgid "|mana_2| |mana_b| |mana_g|, |tap|, Sacrifice a creature: Draw a card."
+msgstr ""
+
+#: ../../DKA.rst:377
+# 8c1b21083f524f8ca1d3e58c6841bac4
+msgid "Grim Flowering"
+msgstr ""
+
+#: ../../DKA.rst:376
+# ec32310eda084c8696b00a192bcdfff3
+msgid "Draw a card for each creature card in your graveyard."
+msgstr ""
+
+#: ../../DKA.rst:381
+# 57c06d4435f9498394ff90ed18c62eb5
+msgid "Griptide"
+msgstr ""
+
+#: ../../DKA.rst:380
+# e9443727936d45d0be08d4c8d6c0881c
+msgid "Put target creature on top of its owner's library."
+msgstr ""
+
+#: ../../DKA.rst:387
+# bd0e13edc9b1429aab2dd0271498430d
+msgid "Gruesome Discovery"
+msgstr ""
+
+#: ../../DKA.rst:384
+# edf59f5772854d4794a79653f648ec95
+msgid "Target player discards two cards."
+msgstr ""
+
+#: ../../DKA.rst:386
+# 732dd2d2cee04bc49227dcdfe1048043
+msgid "Morbid — If a creature died this turn, instead that player reveals his or her hand, you choose two cards from it, then that player discards those cards."
+msgstr ""
+
+#: ../../DKA.rst:391
+# 54515d890e59469987bd4c0240b28199
+msgid "Harrowing Journey"
+msgstr ""
+
+#: ../../DKA.rst:390
+# d74f6654bb744180833b51edffc28627
+msgid "Target player draws three cards and loses 3 life."
+msgstr ""
+
+#: ../../DKA.rst:397
+# d8d70668113c4c90abb63e4c1814544c
+msgid "Haunted Fengraf"
+msgstr ""
+
+#: ../../DKA.rst:396
+# 8a359bd6b46f4525aabb367653e742c3
+msgid "|mana_3|, |tap|, Sacrifice Haunted Fengraf: Return a creature card at random from your graveyard to your hand."
+msgstr ""
+
+#: ../../DKA.rst:401
+# 7143c227c88347bba38ce44f64307771
+msgid "Havengul Lich"
+msgstr ""
+
+#: ../../DKA.rst:400
+# 29055b24d12346f99c92b78e6964dd6c
+msgid "|mana_1|: You may cast target creature card in a graveyard this turn. When you cast that card this turn, Havengul Lich gains all activated abilities of that card until end of turn."
+msgstr ""
+
+#: ../../DKA.rst:405
+# e20e251c74e34cb295ac1059f130071c
+msgid "Havengul Runebinder"
+msgstr ""
+
+#: ../../DKA.rst:404
+# 2355bb4f05c14f5cba558c0c15080367
+msgid "|mana_2| |mana_u|, |tap|, Exile a creature card from your graveyard: Put a 2/2 black Zombie creature token onto the battlefield, then put a +1/+1 counter on each Zombie creature you control."
+msgstr ""
+
+#: ../../DKA.rst:411
+# 18db198a445b4fb89fb77736a8eb7796
+msgid "Headless Skaab"
+msgstr ""
+
+#: ../../DKA.rst:408
+# 9724c75f13724422bf0c1fabb4afb296
+msgid "As an additional cost to cast Headless Skaab, exile a creature card from your graveyard."
+msgstr ""
+
+#: ../../DKA.rst:410
+# dd985141b9c043349e1ebc6b2b601c5f
+msgid "Headless Skaab enters the battlefield tapped."
+msgstr ""
+
+#: ../../DKA.rst:419
+# 30b59248a8c54b8ea651042b850d9b74
+msgid "Heavy Mattock"
+msgstr ""
+
+#: ../../DKA.rst:414
+# 82736a508e194bb5a5b8a8cbe94574b9
+msgid "Equipped creature gets +1/+1."
+msgstr ""
+
+#: ../../DKA.rst:416
+# 0023e94bd59447b793f1786631e74fcc
+msgid "As long as equipped creature is a Human, it gets an additional +1/+1."
+msgstr ""
+
+#: ../../DKA.rst:423
+# 99b0abb12b8c40aa9031d0c105ec65ac
+msgid "Heckling Fiends"
+msgstr ""
+
+#: ../../DKA.rst:422
+# 1b126460e3ae4547978e1b8c6f5181a4
+msgid "|mana_2| |mana_r|: Target creature attacks this turn if able."
+msgstr ""
+
+#: ../../DKA.rst:429
+# 5ac5e4373cc54831ae055a6bc3d5feef
+msgid "Hellrider"
+msgstr ""
+
+#: ../../DKA.rst:428
+# b413b45881994414b8d8c8873bde7c35
+msgid "Whenever a creature you control attacks, Hellrider deals 1 damage to defending player."
+msgstr ""
+
+#: ../../DKA.rst:437
+# 8e9ad98433ee41e382f4167741b6feeb
+msgid "Helvault"
+msgstr ""
+
+#: ../../DKA.rst:432
+# 32731417bed543fc86e97ccce3a5c00b
+msgid "|mana_1|, |tap|: Exile target creature you control."
+msgstr ""
+
+#: ../../DKA.rst:434
+# 0028239d6b284a3ea50d098deeb16b97
+msgid "|mana_7|, |tap|: Exile target creature you don't control."
+msgstr ""
+
+#: ../../DKA.rst:436
+# 3d4cb213f42646a4822b9f91a6ba49e9
+msgid "When Helvault is put into a graveyard from the battlefield, return all cards exiled with it to the battlefield under their owners' control."
+msgstr ""
+
+#: ../../DKA.rst:441
+# 5843314f4e1945a5a3c34c804e6d280f
+msgid "Highborn Ghoul"
+msgstr ""
+
+#: ../../DKA.rst:440
+#: ../../DKA.rst:478
+# ba5d76b5969a466b9c8d8967dc4bedf2
+# e5862b02ee3a45fda323df6007c60eda
+msgid "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../DKA.rst:445
+# ab164f35438540feb0f0008af853ba53
+msgid "Hinterland Hermit"
+msgstr ""
+
+#: ../../DKA.rst:444
+# 220296544c4949409ef85f27b03fb222
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Hermit."
+msgstr ""
+
+#: ../../DKA.rst:451
+# ed2888c8581f475bbf5306fe51c34fa5
+msgid "Hinterland Scourge"
+msgstr ""
+
+#: ../../DKA.rst:448
+# 5cce52a19e594df89046698fd7182ea6
+msgid "Hinterland Scourge must be blocked if able."
+msgstr ""
+
+#: ../../DKA.rst:450
+# 4bd93b3b2e224f6e96dccaacecd0407f
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Hinterland Scourge."
+msgstr ""
+
+#: ../../DKA.rst:453
+# d09270428c6b44cca1ade0f97fdde1a8
+msgid "Hollowhenge Beast"
+msgstr ""
+
+#: ../../DKA.rst:463
+# 3b6a3cae07e2491481726b61b0a5efa2
+msgid "Hollowhenge Spirit"
+msgstr ""
+
+#: ../../DKA.rst:462
+# 62424cf6de784213acce509c4f9aa3be
+msgid "When Hollowhenge Spirit enters the battlefield, remove target attacking or blocking creature from combat."
+msgstr ""
+
+#: ../../DKA.rst:469
+# 61f81d89c4454983b35934158e0e8da3
+msgid "Hunger of the Howlpack"
+msgstr ""
+
+#: ../../DKA.rst:466
+# a846b78a708340f6b3930d2a599f01c6
+msgid "Put a +1/+1 counter on target creature."
+msgstr ""
+
+#: ../../DKA.rst:468
+# 945d33b018ed4bb2869cf9e4642c425a
+msgid "Morbid — Put three +1/+1 counters on that creature instead if a creature died this turn."
+msgstr ""
+
+#: ../../DKA.rst:475
+# 482ba13186344547a5188a4b8e936697
+msgid "Huntmaster of the Fells"
+msgstr ""
+
+#: ../../DKA.rst:472
+# fd11f1b4fee14e31977394a46dc0bf54
+msgid "Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, put a 2/2 green Wolf creature token onto the battlefield and you gain 2 life."
+msgstr ""
+
+#: ../../DKA.rst:474
+# dd76dcc8d322447f87122bfbf2e640c4
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells."
+msgstr ""
+
+#: ../../DKA.rst:483
+# 0f21be0696e54c8b97b6a0bc91b34412
+msgid "Immerwolf"
+msgstr ""
+
+#: ../../DKA.rst:480
+# 1f4d3da4d0ec4cdabe1055f84365fc4f
+msgid "Each other creature you control that's a Wolf or a Werewolf gets +1/+1."
+msgstr ""
+
+#: ../../DKA.rst:482
+# ffd32a52acfe4a4eb94cb90b7b91a55d
+msgid "Non-Human Werewolves you control can't transform."
+msgstr ""
+
+#: ../../DKA.rst:489
+# 352f4490b6f2446eb6fbf6deff462e27
+msgid "Increasing Ambition"
+msgstr ""
+
+#: ../../DKA.rst:486
+# 4a10eb8547b7411396eb32f50adf0bee
+msgid "Search your library for a card and put that card into your hand. If Increasing Ambition was cast from a graveyard, instead search your library for two cards and put those cards into your hand. Then shuffle your library."
+msgstr ""
+
+#: ../../DKA.rst:488
+# 647ddc8cdd5d45d58268203e44e015b7
+msgid "Flashback |mana_7| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:495
+# 34ff110ec68d4ef2b30da8c241c57042
+msgid "Increasing Confusion"
+msgstr ""
+
+#: ../../DKA.rst:492
+# 8bd67b8cdcc441a0a10e2aac284eef8d
+msgid "Target player puts the top X cards of his or her library into his or her graveyard. If Increasing Confusion was cast from a graveyard, that player puts twice that many cards into his or her graveyard instead."
+msgstr ""
+
+#: ../../DKA.rst:494
+# ca6cc89ae76d4ea8b2f43058ca2477fb
+msgid "Flashback |mana_x| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:501
+# efbaa06986cb425db5da6c99f6d30846
+msgid "Increasing Devotion"
+msgstr ""
+
+#: ../../DKA.rst:498
+# f4510f81e33b48ccb7e432e466816979
+msgid "Put five 1/1 white Human creature tokens onto the battlefield. If Increasing Devotion was cast from a graveyard, put ten of those tokens onto the battlefield instead."
+msgstr ""
+
+#: ../../DKA.rst:500
+# 32121b3714dd402cb01ddcf12dd7f0b6
+msgid "Flashback |mana_7| |mana_w| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:507
+# 8e944336156f42ccb3559200912650d9
+msgid "Increasing Savagery"
+msgstr ""
+
+#: ../../DKA.rst:504
+# 929e6c55adcc4a0892d5229e4736873d
+msgid "Put five +1/+1 counters on target creature. If Increasing Savagery was cast from a graveyard, put ten +1/+1 counters on that creature instead."
+msgstr ""
+
+#: ../../DKA.rst:506
+# 89dffa969cd14739b3e0ee198cfe460b
+msgid "Flashback |mana_5| |mana_g| |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:513
+# 109caa57745543899641396815d9f390
+msgid "Increasing Vengeance"
+msgstr ""
+
+#: ../../DKA.rst:510
+# 2597f5f185d24c2ebf5c56055cc4ed1f
+msgid "Copy target instant or sorcery spell you control. If Increasing Vengeance was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies."
+msgstr ""
+
+#: ../../DKA.rst:512
+# af1fe2ba48fa45d5a1f2ddf9b7433d8c
+msgid "Flashback |mana_3| |mana_r| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:519
+# 193b72e2283b47e08a0b55325a0696a1
+msgid "Jar of Eyeballs"
+msgstr ""
+
+#: ../../DKA.rst:516
+# 311d0421d6524bcf99384c75e735bfd5
+msgid "Whenever a creature you control dies, put two eyeball counters on Jar of Eyeballs."
+msgstr ""
+
+#: ../../DKA.rst:518
+# fdb089e6f8d24e6494c4a72fcb46c100
+msgid "|mana_3|, |tap|, Remove all eyeball counters from Jar of Eyeballs: Look at the top X cards of your library, where X is the number of eyeball counters removed this way. Put one of them into your hand and the rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../DKA.rst:525
+# a7e6c170f4db4ec8bdc1d7fbb54e32be
+msgid "Kessig Recluse"
+msgstr ""
+
+#: ../../DKA.rst:522
+# 6e0cccd96afd421bb949ba57d82f8118
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../DKA.rst:524
+# a29202de221649a2bcb811a4d210906e
+msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
+msgstr ""
+
+#: ../../DKA.rst:531
+# 48802725f9954b1fbd904041f29d0669
+msgid "Krallenhorde Killer"
+msgstr ""
+
+#: ../../DKA.rst:528
+# e7ef618c3e8c457d8199a4ed23ae93b3
+msgid "|mana_3| |mana_g|: Krallenhorde Killer gets +4/+4 until end of turn. Activate this ability only once each turn."
+msgstr ""
+
+#: ../../DKA.rst:530
+# 40437a7243ca427a8ba56a4d99b5d2df
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Killer."
+msgstr ""
+
+#: ../../DKA.rst:535
+# cdb11aaf098c4baf95830958032f0cb8
+msgid "Lambholt Elder"
+msgstr ""
+
+#: ../../DKA.rst:534
+# 0762b07fc57b42e490a106459c18809a
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Elder."
+msgstr ""
+
+#: ../../DKA.rst:541
+# 7cae576248d14cf984983100c9a80684
+msgid "Lingering Souls"
+msgstr ""
+
+#: ../../DKA.rst:538
+# fb57e991a8714d3da50f9daad59b69a8
+msgid "Put two 1/1 white Spirit creature tokens with flying onto the battlefield."
+msgstr ""
+
+#: ../../DKA.rst:540
+# 18b71419a7644f589b8a7b138c7a46d8
+msgid "Flashback |mana_1| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:545
+# a2b6395f07ca4ca9b27d0a1e95cc7d8d
+msgid "Lost in the Woods"
+msgstr ""
+
+#: ../../DKA.rst:544
+# 3276af450fd540b5b91054fae496d8f5
+msgid "Whenever a creature attacks you or a planeswalker you control, reveal the top card of your library. If it's a Forest card, remove that creature from combat. Then put the revealed card on the bottom of your library."
+msgstr ""
+
+#: ../../DKA.rst:551
+# 744cc27a277c4b2a9ca5f193b04b1ea5
+msgid "Loyal Cathar"
+msgstr ""
+
+#: ../../DKA.rst:548
+#: ../../DKA.rst:586
+#: ../../DKA.rst:886
+# 846ee1bcb7674278be75e28fe9a719f8
+# 2ef2034f17914b73b3cda85b5cad6f10
+# 0527b83cb0374c99b309adaba5f31ee9
+msgid "Vigilance"
+msgstr ""
+
+#: ../../DKA.rst:550
+# 0ff256b9d714494a989bebba07096871
+msgid "When Loyal Cathar dies, return it to the battlefield transformed under your control at the beginning of the next end step."
+msgstr ""
+
+#: ../../DKA.rst:557
+# b7abf500ff2d43dbb0ccef6793e12cf7
+msgid "Markov Blademaster"
+msgstr ""
+
+#: ../../DKA.rst:554
+# 99874c23ab434e4abe0d517de85d2165
+msgid "Double strike"
+msgstr ""
+
+#: ../../DKA.rst:556
+# 2e0543219e68478f920a3743e29700b2
+msgid "Whenever Markov Blademaster deals combat damage to a player, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../DKA.rst:563
+# 326b1c8b27254a2da90e0f148103fd27
+msgid "Markov Warlord"
+msgstr ""
+
+#: ../../DKA.rst:562
+# fd4d782ceff64510b6bce26f4ac58b95
+msgid "When Markov Warlord enters the battlefield, up to two target creatures can't block this turn."
+msgstr ""
+
+#: ../../DKA.rst:565
+# 9aec22db72494d0d9efed9958a28173f
+msgid "Markov's Servant"
+msgstr ""
+
+#: ../../DKA.rst:571
+# 22198300d46d4219bff95331bf5055af
+msgid "Midnight Guard"
+msgstr ""
+
+#: ../../DKA.rst:570
+# 4262a88876874dd6b7ca0afc0ae0650d
+msgid "Whenever another creature enters the battlefield, untap Midnight Guard."
+msgstr ""
+
+#: ../../DKA.rst:579
+# 3636e63e08a149a2b31fa7bd2ec3822d
+msgid "Mikaeus, the Unhallowed"
+msgstr ""
+
+#: ../../DKA.rst:574
+# 124238942b8b4a2d81e3aa8d781351fd
+msgid "Intimidate"
+msgstr ""
+
+#: ../../DKA.rst:576
+# ba83f41d7d3f494f96b1b4118ca7e2dd
+msgid "Whenever a Human deals damage to you, destroy it."
+msgstr ""
+
+#: ../../DKA.rst:578
+# 49de954c5bb84752abecb7f7586c3795
+msgid "Other non-Human creatures you control get +1/+1 and have undying. (When a creature with undying dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DKA.rst:583
+# 563974f3688349a2ae1061e561de6f1b
+msgid "Mondronen Shaman"
+msgstr ""
+
+#: ../../DKA.rst:582
+# 4931174b38b1474f83ff7c178e535154
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Mondronen Shaman."
+msgstr ""
+
+#: ../../DKA.rst:591
+# 642a8c8db1a14840a8495e9dfab554a9
+msgid "Moonscarred Werewolf"
+msgstr ""
+
+#: ../../DKA.rst:588
+# ce46ca8467aa4b24a6abf775457f3b05
+msgid "|tap|: Add |mana_g| |mana_g| to your mana pool."
+msgstr ""
+
+#: ../../DKA.rst:590
+# ff48830f58834c2b82ef42a7bcd04d8b
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonscarred Werewolf."
+msgstr ""
+
+#: ../../DKA.rst:597
+# 1d12ff30c2f5473e845b2ebcb4d48993
+msgid "Moonveil Dragon"
+msgstr ""
+
+#: ../../DKA.rst:596
+# 0830fd74aef44eafa0dfecc46c259c68
+msgid "|mana_r|: Each creature you control gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../DKA.rst:603
+# 541f04e0b5ff4f6fbcec099c07ea1756
+msgid "Mystic Retrieval"
+msgstr ""
+
+#: ../../DKA.rst:600
+# a6a09ddb92ff49dca7bdd73ac0b0c01d
+msgid "Return target instant or sorcery card from your graveyard to your hand."
+msgstr ""
+
+#: ../../DKA.rst:607
+# e1b0e01ab7c949a1ab8fa1f2bbcb17ad
+msgid "Nearheath Stalker"
+msgstr ""
+
+#: ../../DKA.rst:613
+# 0e47a0e0567943619ed1fbe075bb71c8
+msgid "Nephalia Seakite"
+msgstr ""
+
+#: ../../DKA.rst:619
+# a1873987fd964bc39fbf7aef6b044b72
+msgid "Niblis of the Breath"
+msgstr ""
+
+#: ../../DKA.rst:618
+# a60d7e1f122941ccb3c71dfc775aafa8
+msgid "|mana_u|, |tap|: You may tap or untap target creature."
+msgstr ""
+
+#: ../../DKA.rst:625
+# 0ea64bce5cd64d9396060d5aa188e596
+msgid "Niblis of the Mist"
+msgstr ""
+
+#: ../../DKA.rst:624
+# 774f5c0cd9a04605a9c1c3b8e0680684
+msgid "When Niblis of the Mist enters the battlefield, you may tap target creature."
+msgstr ""
+
+#: ../../DKA.rst:631
+# 39914ca14dab40809aea8ff34bb02ad1
+msgid "Niblis of the Urn"
+msgstr ""
+
+#: ../../DKA.rst:630
+# 199235a184ed4bed8916850be39cb5a5
+msgid "Whenever Niblis of the Urn attacks, you may tap target creature."
+msgstr ""
+
+#: ../../DKA.rst:639
+# fcd2903547804089bc0bd0a56cd71adb
+msgid "Predator Ooze"
+msgstr ""
+
+#: ../../DKA.rst:634
+# 74feb13177bf4eb0af0a649a2737073b
+msgid "Indestructible"
+msgstr ""
+
+#: ../../DKA.rst:636
+# 3db4e0619fe34929a8250d4b9cf57913
+msgid "Whenever Predator Ooze attacks, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../DKA.rst:638
+# cfba3833b9354c58868104081f3d4ff0
+msgid "Whenever a creature dealt damage by Predator Ooze this turn dies, put a +1/+1 counter on Predator Ooze."
+msgstr ""
+
+#: ../../DKA.rst:645
+# 5f3939bf9e9c42f9a50673e60e66b993
+msgid "Pyreheart Wolf"
+msgstr ""
+
+#: ../../DKA.rst:642
+# 51f519478e3e4635aadc2e23eae5182b
+msgid "Whenever Pyreheart Wolf attacks, each creature you control can't be blocked this turn except by two or more creatures."
+msgstr ""
+
+#: ../../DKA.rst:653
+# da079ef4d6b1430d85071be2a599fab8
+msgid "Ravager of the Fells"
+msgstr ""
+
+#: ../../DKA.rst:650
+# 3017003c1b61492ba80f668813bbc6f8
+msgid "Whenever this creature transforms into Ravager of the Fells, it deals 2 damage to target opponent and 2 damage to up to one target creature that player controls."
+msgstr ""
+
+#: ../../DKA.rst:652
+# 0db82381734849c2bfee3529ac59f0c3
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ravager of the Fells."
+msgstr ""
+
+#: ../../DKA.rst:657
+# c9b12bbe53054275ba48afbd067b0c34
+msgid "Ravenous Demon"
+msgstr ""
+
+#: ../../DKA.rst:656
+# 493d6988113b4230a472bf3470c47cf6
+msgid "Sacrifice a Human: Transform Ravenous Demon. Activate this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../DKA.rst:663
+# e3296d5613be4f85b2041f1c2f410646
+msgid "Ray of Revelation"
+msgstr ""
+
+#: ../../DKA.rst:660
+# 5347007a1faf4811af4b4acf1a4d8984
+msgid "Destroy target enchantment."
+msgstr ""
+
+#: ../../DKA.rst:669
+# f8b95712e49b4bfa95a870df346aa673
+msgid "Reap the Seagraf"
+msgstr ""
+
+#: ../../DKA.rst:666
+# b364f5f1afb84aeaa3403619dd064b52
+msgid "Put a 2/2 black Zombie creature token onto the battlefield."
+msgstr ""
+
+#: ../../DKA.rst:668
+# df97f75478694d54a63886818cb09e31
+msgid "Flashback |mana_4| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:675
+# 3f0f32d63f3841c8a799c9fcdbf8bc3b
+msgid "Relentless Skaabs"
+msgstr ""
+
+#: ../../DKA.rst:672
+# f901f219686b4555a5e5c38e9e096f64
+msgid "As an additional cost to cast Relentless Skaabs, exile a creature card from your graveyard."
+msgstr ""
+
+#: ../../DKA.rst:681
+# 281173131a9d49a2a9861301726d80bd
+msgid "Requiem Angel"
+msgstr ""
+
+#: ../../DKA.rst:680
+# c070f043d2c848fba1a75506bcae9f8d
+msgid "Whenever another non-Spirit creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield."
+msgstr ""
+
+#: ../../DKA.rst:683
+# 60164df7542c468d979801e310e03b57
+msgid "Russet Wolves"
+msgstr ""
+
+#: ../../DKA.rst:687
+# 8ba5264aa43243e198e0c6ceb58b57d9
+msgid "Sanctuary Cat"
+msgstr ""
+
+#: ../../DKA.rst:695
+# 02546342f8a74a189da50d96d0bf6e5c
+msgid "Saving Grasp"
+msgstr ""
+
+#: ../../DKA.rst:692
+# 7918ed74fbb24cb3921c6718df75f332
+msgid "Return target creature you own to your hand."
+msgstr ""
+
+#: ../../DKA.rst:694
+# 3b54ad4aa6134f76bde5ee493b488638
+msgid "Flashback |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:699
+# b69b784c1a8f4f55abe9bd8e8c6d845a
+msgid "Scorch the Fields"
+msgstr ""
+
+#: ../../DKA.rst:698
+# 71774eea67f845fdbe4009518749e570
+msgid "Destroy target land. Scorch the Fields deals 1 damage to each Human creature."
+msgstr ""
+
+#: ../../DKA.rst:705
+# a39c8edf9b7a4b678a19607854320330
+msgid "Scorned Villager"
+msgstr ""
+
+#: ../../DKA.rst:702
+# a2ff7f03f7634132bdd163ae60d52ccb
+msgid "|tap|: Add |mana_g| to your mana pool."
+msgstr ""
+
+#: ../../DKA.rst:704
+# d2d27ff15a764808a563eb8703bf280d
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Scorned Villager."
+msgstr ""
+
+#: ../../DKA.rst:709
+# ebedf5291a764a759f3b117fe09f5758
+msgid "Screeching Skaab"
+msgstr ""
+
+#: ../../DKA.rst:708
+# 161b4daef16d410da1dff06ba0cb9438
+msgid "When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard."
+msgstr ""
+
+#: ../../DKA.rst:713
+# 4383a0f21a404cf9b1617f9301e3375f
+msgid "Séance"
+msgstr ""
+
+#: ../../DKA.rst:712
+# cb252631311a4d44b8f4c38cb2baeadc
+msgid "At the beginning of each upkeep, you may exile target creature card from your graveyard. If you do, put a token onto the battlefield that's a copy of that card except it's a Spirit in addition to its other types. Exile it at the beginning of the next end step."
+msgstr ""
+
+#: ../../DKA.rst:717
+# 1e14d7acf3624d70a044342e3e63a36d
+msgid "Secrets of the Dead"
+msgstr ""
+
+#: ../../DKA.rst:716
+# 8ed8b737095045e596ce0cb59ab77f76
+msgid "Whenever you cast a spell from your graveyard, draw a card."
+msgstr ""
+
+#: ../../DKA.rst:723
+# 2e9bc0f510824bc6aaf6a1f52a48067a
+msgid "Shattered Perception"
+msgstr ""
+
+#: ../../DKA.rst:720
+# 5ea78b8539564aec95e072234141bb9a
+msgid "Discard all the cards in your hand, then draw that many cards."
+msgstr ""
+
+#: ../../DKA.rst:722
+# e1f584bbeb714ddeaac2da55f7ac9fbe
+msgid "Flashback |mana_5| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:729
+# 85b8cbb8f3a64ebd88a60fa8e53980e0
+msgid "Shriekgeist"
+msgstr ""
+
+#: ../../DKA.rst:728
+# c2f2266399994458893087c942f55070
+msgid "Whenever Shriekgeist deals combat damage to a player, that player puts the top two cards of his or her library into his or her graveyard."
+msgstr ""
+
+#: ../../DKA.rst:735
+# 649e77a6c2f947379f835805862e3ffd
+msgid "Sightless Ghoul"
+msgstr ""
+
+#: ../../DKA.rst:732
+# cff4a473e0c640d8895394e246b7236f
+msgid "Sightless Ghoul can't block."
+msgstr ""
+
+#: ../../DKA.rst:739
+# 5b8a6ba3f7de4ea3bd54bdc8b135324a
+msgid "Silverclaw Griffin"
+msgstr ""
+
+#: ../../DKA.rst:738
+# 02c8647a260a42a698cb0dd16c7b0993
+msgid "Flying, first strike"
+msgstr ""
+
+#: ../../DKA.rst:745
+# 5d289c82df3e48c38fed7fe59c1d5703
+msgid "Silverpelt Werewolf"
+msgstr ""
+
+#: ../../DKA.rst:742
+# 1aa5fc213bcd46d0be0454b4bb805c82
+msgid "Whenever Silverpelt Werewolf deals combat damage to a player, draw a card."
+msgstr ""
+
+#: ../../DKA.rst:744
+# df2309803b424d9d9767fe565d8e8e99
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Silverpelt Werewolf."
+msgstr ""
+
+#: ../../DKA.rst:749
+# 36a4ddc351be4978b529a98b2d003576
+msgid "Skillful Lunge"
+msgstr ""
+
+#: ../../DKA.rst:748
+# 63c9227b16f14ae2bab12b3452475df6
+msgid "Target creature gets +2/+0 and gains first strike until end of turn."
+msgstr ""
+
+#: ../../DKA.rst:753
+# fa2456d06ea145d5a0fe64c6e66c02cc
+msgid "Skirsdag Flayer"
+msgstr ""
+
+#: ../../DKA.rst:752
+# ca7337240b9b4c3d9c6f7f67d2202b1b
+msgid "|mana_3| |mana_b|, |tap|, Sacrifice a Human: Destroy target creature."
+msgstr ""
+
+#: ../../DKA.rst:757
+# e1eff30d3ef6477e9f7c457ac23e5fdd
+msgid "Somberwald Dryad"
+msgstr ""
+
+#: ../../DKA.rst:756
+# 4a114a190946478eb937e153a04e88fe
+msgid "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)"
+msgstr ""
+
+#: ../../DKA.rst:765
+# 4bee18447b894436ba3514dcde6192e1
+msgid "Sorin, Lord of Innistrad"
+msgstr ""
+
+#: ../../DKA.rst:760
+# 362ec21e15c3427da7b858872291d6b3
+msgid "+1: Put a 1/1 black Vampire creature token with lifelink onto the battlefield."
+msgstr ""
+
+#: ../../DKA.rst:762
+# 9dbc891c6c8c47809b6718476a5c82df
+msgid "-2: You get an emblem with \\\"Creatures you control get +1/+0.\\\""
+msgstr ""
+
+#: ../../DKA.rst:764
+# 958dc5b5d45540ca8ac24b83381b6b28
+msgid "-6: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control."
+msgstr ""
+
+#: ../../DKA.rst:771
+# 9b2bd53a258e40d6aa7fc6290ca69bfa
+msgid "Soul Seizer"
+msgstr ""
+
+#: ../../DKA.rst:770
+# 5f0533be8d12422ca6bc63784fb3e551
+msgid "When Soul Seizer deals combat damage to a player, you may transform it. If you do, attach it to target creature that player controls."
+msgstr ""
+
+#: ../../DKA.rst:777
+# ebde3def63cc40739d4a27be8c1e74b7
+msgid "Spiteful Shadows"
+msgstr ""
+
+#: ../../DKA.rst:776
+# 7ed52e60ac3b4f0ea2fb2964d2b550ff
+msgid "Whenever enchanted creature is dealt damage, it deals that much damage to its controller."
+msgstr ""
+
+#: ../../DKA.rst:785
+# 234ee8c84a7045019ad6cad914c6fcac
+msgid "Stormbound Geist"
+msgstr ""
+
+#: ../../DKA.rst:782
+# e30836251a9b41daa8966e406f0fc088
+msgid "Stormbound Geist can block only creatures with flying."
+msgstr ""
+
+#: ../../DKA.rst:791
+# e1c9791ac70742d6a64a28ee662dcb0b
+msgid "Strangleroot Geist"
+msgstr ""
+
+#: ../../DKA.rst:797
+# f8ba993fa1434a28b828d0f0da4f06b4
+msgid "Stromkirk Captain"
+msgstr ""
+
+#: ../../DKA.rst:794
+#: ../../DKA.rst:812
+# fbdcd25f39b848b0ac19d1192af392e3
+# 95b9afbb3f334fd2b1a4a9fece878710
+msgid "First strike"
+msgstr ""
+
+#: ../../DKA.rst:796
+# 27ed9104d1f14dafb6dea8ea96bf160e
+msgid "Other Vampire creatures you control get +1/+1 and have first strike."
+msgstr ""
+
+#: ../../DKA.rst:801
+# b9e476812f85497ab170acc58a2a9fa1
+msgid "Sudden Disappearance"
+msgstr ""
+
+#: ../../DKA.rst:800
+# b3a3a1549c324d4db50dd6ba1af2d3b2
+msgid "Exile all nonland permanents target player controls. Return the exiled cards to the battlefield under their owner's control at the beginning of the next end step."
+msgstr ""
+
+#: ../../DKA.rst:809
+# 5325ea9fe69a411da944f71c473201c1
+msgid "Talons of Falkenrath"
+msgstr ""
+
+#: ../../DKA.rst:808
+# 8f1830f437904f0eaae471361a78ee95
+msgid "Enchanted creature has \\\"|mana_1| |mana_r|: This creature gets +2/+0 until end of turn.\\\""
+msgstr ""
+
+#: ../../DKA.rst:815
+# bf5c6d3ee11747d9a5d9fa4dfe361958
+msgid "Thalia, Guardian of Thraben"
+msgstr ""
+
+#: ../../DKA.rst:814
+# d80fa263e01f499da0863b3848e60d1e
+msgid "Noncreature spells cost |mana_1| more to cast."
+msgstr ""
+
+#: ../../DKA.rst:821
+# e930a6114f0d4ced824d07716ee3397b
+msgid "Thought Scour"
+msgstr ""
+
+#: ../../DKA.rst:818
+# d4bced380f0941dbbdae158f93110ac6
+msgid "Target player puts the top two cards of his or her library into his or her graveyard."
+msgstr ""
+
+#: ../../DKA.rst:827
+# e6089da4f59a4c318f33626e716aecc9
+msgid "Thraben Doomsayer"
+msgstr ""
+
+#: ../../DKA.rst:824
+# 2d7faeae9866437e8c76f0576e220739
+msgid "|tap|: Put a 1/1 white Human creature token onto the battlefield."
+msgstr ""
+
+#: ../../DKA.rst:826
+# 0ff0006374a8414da13491d48c881c77
+msgid "Fateful hour — As long as you have 5 or less life, other creatures you control get +2/+2."
+msgstr ""
+
+#: ../../DKA.rst:831
+# a8abc860c2bf4f70bb9ce871dafd8014
+msgid "Thraben Heretic"
+msgstr ""
+
+#: ../../DKA.rst:830
+# c3d86573cffe4794b96df0974d7d857a
+msgid "|tap|: Exile target creature card from a graveyard."
+msgstr ""
+
+#: ../../DKA.rst:835
+# e795ebdcec73450491d42af86d5d3507
+msgid "Torch Fiend"
+msgstr ""
+
+#: ../../DKA.rst:834
+# 81e698d58a51493b97b366ddc079fcdc
+msgid "|mana_r|, Sacrifice Torch Fiend: Destroy target artifact."
+msgstr ""
+
+#: ../../DKA.rst:841
+# 920f4407b8ff4415981264899a7e2e01
+msgid "Tovolar's Magehunter"
+msgstr ""
+
+#: ../../DKA.rst:838
+# 5279d56227c94bb0adccbb8e2950a089
+msgid "Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player."
+msgstr ""
+
+#: ../../DKA.rst:840
+# f73c192171914961800b18123585d221
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter."
+msgstr ""
+
+#: ../../DKA.rst:847
+# 99c12570c60f4edfa09b71312ba8f105
+msgid "Tower Geist"
+msgstr ""
+
+#: ../../DKA.rst:846
+# b7d2b4dff89841f0a435ab12ba7f327b
+msgid "When Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard."
+msgstr ""
+
+#: ../../DKA.rst:853
+# c288aec4f2014d95a0f4dd84b8a1afaa
+msgid "Tracker's Instincts"
+msgstr ""
+
+#: ../../DKA.rst:850
+# 1747898e579147a780734aa3209bf54c
+msgid "Reveal the top four cards of your library. Put a creature card from among them into your hand and the rest into your graveyard."
+msgstr ""
+
+#: ../../DKA.rst:852
+# 846394dd2160448f87e19bb5081f5d46
+msgid "Flashback |mana_2| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:859
+# b1e9a252cc1c4991bdf4a6c89088edf5
+msgid "Tragic Slip"
+msgstr ""
+
+#: ../../DKA.rst:856
+# 492b6440d52f4f2facaae75f405d129c
+msgid "Target creature gets -1/-1 until end of turn."
+msgstr ""
+
+#: ../../DKA.rst:858
+# 06bb0503b5fd4246adb83169a52b8acf
+msgid "Morbid — That creature gets -13/-13 until end of turn instead if a creature died this turn."
+msgstr ""
+
+#: ../../DKA.rst:863
+# f1365714ee09485987d284f8b795740f
+msgid "Ulvenwald Bear"
+msgstr ""
+
+#: ../../DKA.rst:862
+# e0d8700cc64342d58c07ab4559165f9c
+msgid "Morbid — When Ulvenwald Bear enters the battlefield, if a creature died this turn, put two +1/+1 counters on target creature."
+msgstr ""
+
+#: ../../DKA.rst:867
+# 149071cf979947dc9081cecc4d040632
+msgid "Undying Evil"
+msgstr ""
+
+#: ../../DKA.rst:866
+# 872972c504c646afafe1580b7f06f0c2
+msgid "Target creature gains undying until end of turn. (When it dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DKA.rst:871
+# e52be78d83634e1a938c6d7d6cf44012
+msgid "Unhallowed Cathar"
+msgstr ""
+
+#: ../../DKA.rst:870
+# 1e78f41338164e0aa05dad20c5f85f12
+msgid "Unhallowed Cathar can't block."
+msgstr ""
+
+#: ../../DKA.rst:877
+# cccbce5e2ca545628d700d9fec2ebc70
+msgid "Vault of the Archangel"
+msgstr ""
+
+#: ../../DKA.rst:876
+# 9b06062005684beebf0d44a27babf1ba
+msgid "|mana_2| |mana_w| |mana_b|, |tap|: Creatures you control gain deathtouch and lifelink until end of turn."
+msgstr ""
+
+#: ../../DKA.rst:883
+# 2bb58e23d2d745beb04c05d593083fe4
+msgid "Vengeful Vampire"
+msgstr ""
+
+#: ../../DKA.rst:889
+# f407a2f9c4f64001ab6201ae224f6e60
+msgid "Village Survivors"
+msgstr ""
+
+#: ../../DKA.rst:888
+# 4f0c6a25243f4e9687376b82d788e1b2
+msgid "Fateful hour — As long as you have 5 or less life, other creatures you control have vigilance."
+msgstr ""
+
+#: ../../DKA.rst:895
+# c5dbe36b21f54656ae1746067633666a
+msgid "Vorapede"
+msgstr ""
+
+#: ../../DKA.rst:892
+# c8ca7898bc0b4cccba7ff52f272bca40
+msgid "Vigilance, trample"
+msgstr ""
+
+#: ../../DKA.rst:899
+# 22649164bd0646669f237497601cd4c1
+msgid "Wakedancer"
+msgstr ""
+
+#: ../../DKA.rst:898
+# 12f2c784e51f4fa6884b971137b9372e
+msgid "Morbid — When Wakedancer enters the battlefield, if a creature died this turn, put a 2/2 black Zombie creature token onto the battlefield."
+msgstr ""
+
+#: ../../DKA.rst:907
+# 6002e290a253447baea7af4ca7b9745d
+msgid "Warden of the Wall"
+msgstr ""
+
+#: ../../DKA.rst:902
+# c1a3279c6aa84fe09acdf83eee78bd8c
+msgid "Warden of the Wall enters the battlefield tapped."
+msgstr ""
+
+#: ../../DKA.rst:906
+# 3612e696080244d3aa888ff5dde69b77
+msgid "As long as it's not your turn, Warden of the Wall is a 2/3 Gargoyle artifact creature with flying."
+msgstr ""
+
+#: ../../DKA.rst:913
+# bae819c8f7be4abca0febd357b28e19e
+msgid "Werewolf Ransacker"
+msgstr ""
+
+#: ../../DKA.rst:910
+# aa993c5871e94f0bbd156f4a66582321
+msgid "Whenever this creature transforms into Werewolf Ransacker, you may destroy target artifact. If that artifact is put into a graveyard this way, Werewolf Ransacker deals 3 damage to that artifact's controller."
+msgstr ""
+
+#: ../../DKA.rst:912
+# c5cb555d4bd34c6e9cd97743b8e727e9
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Werewolf Ransacker."
+msgstr ""
+
+#: ../../DKA.rst:919
+# 84a9c170d57849baa8b91fb8f208ff47
+msgid "Wild Hunger"
+msgstr ""
+
+#: ../../DKA.rst:916
+# e510e06a4b5f4270a24b8fc0943426b7
+msgid "Target creature gets +3/+1 and gains trample until end of turn."
+msgstr ""
+
+#: ../../DKA.rst:918
+# ac027ea0521345de9a2adb6d759d0b4b
+msgid "Flashback |mana_3| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../DKA.rst:925
+# db44762700e44dbfb3f2e229b76f4efc
+msgid "Withengar Unbound"
+msgstr ""
+
+#: ../../DKA.rst:922
+# fb3250dd5c86427d95c9680e47caf7f9
+msgid "Flying, intimidate, trample"
+msgstr ""
+
+#: ../../DKA.rst:924
+# 27a0fdf9d35d4b7ab3d1580b0fb6e341
+msgid "Whenever a player loses the game, put thirteen +1/+1 counters on Withengar Unbound."
+msgstr ""
+
+#: ../../DKA.rst:931
+# 0c98d8ac2f44466fbbbe0a2a5c78413d
+msgid "Wolfbitten Captive"
+msgstr ""
+
+#: ../../DKA.rst:928
+# 97609b73b6a3497eb9039878552d6f22
+msgid "|mana_1| |mana_g|: Wolfbitten Captive gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgstr ""
+
+#: ../../DKA.rst:930
+# e176cfef12bc42fd9b604366bba20bff
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Wolfbitten Captive."
+msgstr ""
+
+#: ../../DKA.rst:937
+# f7e92331c82d49b28ad5299b0cea2c65
+msgid "Wolfhunter's Quiver"
+msgstr ""
+
+#: ../../DKA.rst:934
+# 4942dd0990a84896ac9cb8919739ecca
+msgid "Equipped creature has \\\"|tap|: This creature deals 1 damage to target creature or player\\\" and \\\"|tap|: This creature deals 3 damage to target Werewolf creature.\\\""
+msgstr ""
+
+#: ../../DKA.rst:936
+# fcb36d62dfce49b2815906b7f1b8c139
+msgid "Equip |mana_5|"
+msgstr ""
+
+#: ../../DKA.rst:941
+# f2e8bac52b8c4b85ba6cbe2077476e7a
+msgid "Wrack with Madness"
+msgstr ""
+
+#: ../../DKA.rst:940
+# 74f38619d57947a484404edcee6eb930
+msgid "Target creature deals damage to itself equal to its power."
+msgstr ""
+
+#: ../../DKA.rst:945
+# d8643c06d26e447c972d3735a8a9e0fe
+msgid "Young Wolf"
+msgstr ""
+
+#: ../../DKA.rst:949
+# febdaffb616e498092c439002b151e61
+msgid "Zombie Apocalypse"
+msgstr ""
+
+#: ../../DKA.rst:948
+# 2ef537eb20fd4197af94488596a04705
+msgid "Return all Zombie creature cards from your graveyard to the battlefield tapped, then destroy all Humans."
+msgstr ""
+

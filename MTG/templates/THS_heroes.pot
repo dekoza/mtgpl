@@ -1,0 +1,321 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-16 01:27+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../THS_heroes.rst:6
+# 10cb27bbdd94429a86782e7fedb16ff7
+msgid "Heroes of Theros"
+msgstr ""
+
+#: ../../THS_heroes.rst:10
+# 64828e51554d4d48873179c87d73e71a
+msgid "Theros"
+msgstr ""
+
+#: ../../THS_heroes.rst:13
+# 7cc2a0eaeff949b3a4077760dc12c12f
+msgid "The Avenger"
+msgstr ""
+
+#: ../../THS_heroes.rst:13
+# 51cc59aadcac46aab8f30a2b96426f67
+msgid "|mana_3| |tap|: Target creature you control gains deathtouch until end of turn."
+msgstr ""
+
+#: ../../THS_heroes.rst:16
+# 9ee7b0960b09482a8bddccae52dffa56
+msgid "The Harvester"
+msgstr ""
+
+#: ../../THS_heroes.rst:16
+# 383d2fb4fe0f4dfe90e27b6c3fd82928
+msgid "|tap|: Draw a card, then discard a card."
+msgstr ""
+
+#: ../../THS_heroes.rst:19
+# de3015a39f8b486a9a2ab7e4f1cf0b81
+msgid "The Hunter"
+msgstr ""
+
+#: ../../THS_heroes.rst:19
+# fc4ad57dd9a14b22990b5de4411bf223
+msgid "|tap|: Target creature you control gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../THS_heroes.rst:22
+# 98cb0d94f2024110b7eda4e823e96c0f
+msgid "The Philosopher"
+msgstr ""
+
+#: ../../THS_heroes.rst:22
+# 3838c72886744592832da2247c04cc74
+msgid "|mana_2| |tap|: Tap target creature."
+msgstr ""
+
+#: ../../THS_heroes.rst:25
+# b656c296c10e43d4972d0dcaef0ac301
+msgid "The Protector"
+msgstr ""
+
+#: ../../THS_heroes.rst:25
+# 439910776c0d4698bc83985f6160e163
+msgid "|tap|: Prevent the next 1 damage that would be dealt to target creature or player this turn."
+msgstr ""
+
+#: ../../THS_heroes.rst:28
+# 930c7cc919d54938949efa374528c34e
+msgid "The Slayer"
+msgstr ""
+
+#: ../../THS_heroes.rst:28
+# 10c8e62f8aeb4e009ccbefcf0418a565
+msgid "You start the game with additional 7 life."
+msgstr ""
+
+#: ../../THS_heroes.rst:32
+# bde468b644bc40789b739e4cc1a4abe5
+msgid "The Warrior"
+msgstr ""
+
+#: ../../THS_heroes.rst:31
+# 8ef9203755d6454d95188dc14a6acaef
+msgid "|tap|: Target creature you control gains haste until end of turn."
+msgstr ""
+
+#: ../../THS_heroes.rst:35
+# 21f87fa56e7a4be181c0aaeafbfe2fcc
+msgid "Born of the Gods"
+msgstr ""
+
+#: ../../THS_heroes.rst:38
+# de6cc56dd738409dbcc236f042409694
+msgid "The Explorer"
+msgstr ""
+
+#: ../../THS_heroes.rst:38
+# 89b03cc401064acfbb391c35531e03b6
+msgid "You may play an additional land on each of your turns."
+msgstr ""
+
+#: ../../THS_heroes.rst:41
+# 3c6b4aa6e4034231afb5d809a907d525
+msgid "The General"
+msgstr ""
+
+#: ../../THS_heroes.rst:41
+# 0f708856632d4e9f8444e9756e23ddbd
+msgid "Exile The General: Creatures you control get +1/+1 until end of turn. Untap them."
+msgstr ""
+
+#: ../../THS_heroes.rst:44
+# 64ab255a432842d8b4a7f3fe1f015c6f
+msgid "The Provider"
+msgstr ""
+
+#: ../../THS_heroes.rst:44
+# 20d869d2cf264a3fb0e304fa8c165e79
+msgid "Exile The Provider: Put two +1/+1 counters on target creature you control. You gain life equal to that creature's toughness."
+msgstr ""
+
+#: ../../THS_heroes.rst:47
+# 13e8c7810305440dbe71cf01cad8b5eb
+msgid "The Savant"
+msgstr ""
+
+#: ../../THS_heroes.rst:47
+# bcdcb561c5134becb26e9ef77b7ce046
+msgid "Exile The Savant: Tap all creatures yout opponents control. Those creatures don't untap during their controller's next untap steps."
+msgstr ""
+
+#: ../../THS_heroes.rst:50
+# 105c2ab0503444ada0a43f21616e38b7
+msgid "The Tyrant"
+msgstr ""
+
+#: ../../THS_heroes.rst:50
+# 349c8b74477d4930823c96a099e866f8
+msgid "Exile The Tyrant: Creatures your opponents control get -1/-1 until end of turn."
+msgstr ""
+
+#: ../../THS_heroes.rst:55
+# 96f5885373804df1b6c9de93d7b35cb8
+msgid "The Vanquisher"
+msgstr ""
+
+#: ../../THS_heroes.rst:53
+# ac427975097b4256939b4a1060d55d47
+msgid "Your starting hand size is increased by one."
+msgstr ""
+
+#: ../../THS_heroes.rst:55
+# 44b8385fd4f949078a03d94c0e56400c
+msgid "Your maximum hand size is increased by one."
+msgstr ""
+
+#: ../../THS_heroes.rst:59
+# 5148e30393634a9b8016533096267cb1
+msgid "The Warmonger"
+msgstr ""
+
+#: ../../THS_heroes.rst:58
+# f1326b811a4f4f6f923687b31729f8ae
+msgid "Exile The Warmonger: Creatures you control get +2/+0 and gain haste until end of turn."
+msgstr ""
+
+#: ../../THS_heroes.rst:62
+# 602372a45711450b8db9fb4a068de125
+msgid "Journey into Nyx"
+msgstr ""
+
+#: ../../THS_heroes.rst:65
+# 7b66a6c1766b4cf79a29c388a620a117
+msgid "Hero Artifacts"
+msgstr ""
+
+#: ../../THS_heroes.rst:70
+# d47ac006b9184845b8d9f7e1fb21d892
+msgid "Spear of the General"
+msgstr ""
+
+#: ../../THS_heroes.rst:68
+# 48f89b8826374e1b996d1158a2a7f79c
+msgid "Equipped creature gets +2/+0 and has first strike."
+msgstr ""
+
+#: ../../THS_heroes.rst:70
+#: ../../THS_heroes.rst:77
+#: ../../THS_heroes.rst:82
+#: ../../THS_heroes.rst:87
+#: ../../THS_heroes.rst:92
+# 50a3820ab5214a14bd079408bc843cf1
+# 5bce67bed6434d2b92ad41ba09ce976c
+# 2ee0de1f5d4f41e2a5336b658ca4abcb
+# 0fa396eaffae4d0187c11eec973eef8c
+# 35707c6aa5f24a4cba6aac242b6e9d9e
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../THS_heroes.rst:77
+# 93c9e2f0f40d45798757503740ad0c30
+msgid "Cloak of the Philosopher"
+msgstr ""
+
+#: ../../THS_heroes.rst:73
+# 54f603d28cde470283e1483e72d24d18
+msgid "Equipped creature gets +1/+1."
+msgstr ""
+
+#: ../../THS_heroes.rst:75
+# 9a9069c5ede844b19e5c327257956fc7
+msgid "|mana_2|: Untap equipped creature."
+msgstr ""
+
+#: ../../THS_heroes.rst:82
+# 2400c1e5bc524ad5aec75dfd7a9a4ada
+msgid "Lash of the Tyrant"
+msgstr ""
+
+#: ../../THS_heroes.rst:80
+# d9b6fd1d91544fa0acfef5510f123887
+msgid "Equipped creature gets +1/+2 and has deathtouch."
+msgstr ""
+
+#: ../../THS_heroes.rst:87
+# 766a9776e7ca4f978f3437d8c245116f
+msgid "Axe of the Warmonger"
+msgstr ""
+
+#: ../../THS_heroes.rst:85
+# 1af3d8fd33ad402683660b9198928663
+msgid "Equipped creature gets +2/+1 and has haste."
+msgstr ""
+
+#: ../../THS_heroes.rst:92
+# 33d592c7c48541648bbcfaad9676487b
+msgid "Bow of the Hunter"
+msgstr ""
+
+#: ../../THS_heroes.rst:90
+# d6047881f94b452db15bb13cb458665e
+msgid "Equipped creature has \"|tap|: This creature deals 2 damage to target creature or player.\""
+msgstr ""
+
+#: ../../THS_heroes.rst:95
+# 9825265067c74b30b3a574eea41b0af6
+msgid "\"Forge a Godslayer\" Stickers"
+msgstr ""
+
+#: ../../THS_heroes.rst:97
+# de4e67de96394163881c441a42f339e4
+msgid "Equipped creature has double strike."
+msgstr ""
+
+#: ../../THS_heroes.rst:98
+# 3b60a3d5e69a467d8264d17e67dc1724
+msgid "Whenever equipped creature deals damage, untap two target lands."
+msgstr ""
+
+#: ../../THS_heroes.rst:99
+# 53336753b2254fd6a5d78497c7b65250
+msgid "Equipped creature has vigilance and can block an additional creature each combat."
+msgstr ""
+
+#: ../../THS_heroes.rst:100
+# c86944dc9393444da95a24e0a65d8146
+msgid "Whenever equipped creature deals damage, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../THS_heroes.rst:101
+# 7f606c9fce2e486abc6afa04ef574a03
+msgid "Whenever equipped creature deals damage, scry 1."
+msgstr ""
+
+#: ../../THS_heroes.rst:102
+# 2793c431f7df49f297e219c385429265
+msgid "Equipped creature has protection from enchantments."
+msgstr ""
+
+#: ../../THS_heroes.rst:103
+# 5abfee9d1ff94a77ade5ee485cf6ec76
+msgid "Whenever equipped creature deals damage, put a 1/1 white Soldier creature token onto the battlefield."
+msgstr ""
+
+#: ../../THS_heroes.rst:106
+# 55dce66d320a4e50ac7ef866b98a23ff
+msgid "Heroes"
+msgstr ""
+
+#: ../../THS_heroes.rst:109
+# e10cbe63e8eb41c69f7d0881c24e3d2c
+msgid "The Destined"
+msgstr ""
+
+#: ../../THS_heroes.rst:109
+# 8ac7523ea5914ad485a3cb98c5067898
+msgid "Spells you cast that target a creature you control cost |mana_2| less to cast."
+msgstr ""
+
+#: ../../THS_heroes.rst:112
+# f6c9dd218a8844e8849805117e71c12c
+msgid "The Champion"
+msgstr ""
+
+#: ../../THS_heroes.rst:112
+# c6abcdb667b24a319bcaea19f8df7211
+msgid "|mana_2|, |tap|, Exile The Champion: Search your library for a legendary artifact card that isn't a creature, reveal it, and put it onto the battlefield. Then shuffle your library"
+msgstr ""
+
