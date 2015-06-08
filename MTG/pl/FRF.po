@@ -8,16 +8,17 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-01-16 01:27+0100\n"
-"PO-Revision-Date: 2015-01-17 09:28+0200\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2015-06-08 13:52+0200\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://trans-mtgpl.rhcloud.com/projects/mtgpl/frf/pl/>"
+"\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.0\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.4\n"
 "X-POOTLE-MTIME: 1421483309.161061\n"
 
 # 7345517278b443309b0fc8a176170ddf
@@ -86,9 +87,8 @@ msgstr "Abzan Runemark"
 #: ../../FRF.rst:706
 #: ../../FRF.rst:822
 #: ../../FRF.rst:874
-#, fuzzy
 msgid "Enchant creature"
-msgstr "Abzan Runemark"
+msgstr "Zaurocz stwora"
 
 # ff37eb248b914452a4cc72d9c1a9be94
 # 553d5e5110aa4aaca3b9e815a8fab048
@@ -184,10 +184,7 @@ msgstr "Alesha, Who Smiles at Death"
 # f84a2ed013d145f58fe64e54b04a34b4
 #: ../../FRF.rst:42
 msgid "First strike"
-msgstr ""
-"Ilekroć Alesha, Who Smiles at Death atakuje możesz zapłacić |mana_wb| "
-"|mana_wb|. Jeśli to zrobisz, zwróć wskazaną kartę stwora o sile 2 lub "
-"mniejszej z twojego cmentarza na pole walki zaznaczoną i atakującą."
+msgstr "Pierwszy cios"
 
 # a1508e963b8241c1823e2dbfb7e73d47
 #: ../../FRF.rst:44
@@ -2253,7 +2250,7 @@ msgstr "Shamanic Revelation"
 # f6b03e244b044530ab5d68e680195fb6
 #: ../../FRF.rst:754
 msgid "Draw a card for each creature you control."
-msgstr "Dobierz kartę za każdego stwora, którym władasz"
+msgstr "Dobierz kartę za każdego stwora, którym władasz."
 
 # ed19cfbf98c04c228077eaed1d26ca37
 #: ../../FRF.rst:756
@@ -2311,6 +2308,8 @@ msgstr "Sibsig Host"
 #: ../../FRF.rst:776
 msgid "When Sibsig Host enters the battlefield, each player puts the top three cards of his or her library into his or her graveyard."
 msgstr ""
+"Kiedy Sibsig Host wchodzi na pole walki, każdy gracz przekłada trzy "
+"wierzchnie karty swojej biblioteki do swojego cmentarza."
 
 # f655a603841a4016956e88287dbf3375
 #: ../../FRF.rst:783
@@ -2322,6 +2321,8 @@ msgstr "Sibsig Muckdraggers"
 #: ../../FRF.rst:782
 msgid "When Sibsig Muckdraggers enters the battlefield, return target creature card from your graveyard to your hand."
 msgstr ""
+"Kiedy Sibsig Muckdraggers wchodzi na pole walki, przywróć wskazaną kartę "
+"stwora z twojego cmentarza do twojej ręki."
 
 # d6017d43b77040009fd4579cd1ddfdb1
 #: ../../FRF.rst:789
@@ -2338,6 +2339,8 @@ msgstr "Latanie, Antyklątwa"
 #: ../../FRF.rst:788
 msgid "Whenever a Dragon you control attacks, creatures defending player controls get -1/-1 until end of turn."
 msgstr ""
+"Ilekroć Smok którym władasz atakuje, stwory broniącego się gracza dostają do "
+"końca tury -1/-1."
 
 # 11c9387cc99c4ea5a70bd51661548dd7
 #: ../../FRF.rst:793
@@ -2348,7 +2351,7 @@ msgstr "Smoldering Efreet"
 # 99ab47ec47cf48d5ac89ea3a8fc878ca
 #: ../../FRF.rst:792
 msgid "When Smoldering Efreet dies, it deals 2 damage to you."
-msgstr ""
+msgstr "Kiedy Smoldering Efreet umiera, zadaje tobie 2 obrażenia."
 
 # 57fd9ca93d4d4384a44263c40a622645
 #: ../../FRF.rst:797
@@ -2384,6 +2387,9 @@ msgstr "Czary sztuczek i obrzędów, którymi władasz mają Więź Życia."
 #: ../../FRF.rst:804
 msgid "|mana_2| |mana_ur| |mana_ur|: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves."
 msgstr ""
+"|mana_2| |mana_ur| |mana_ur|: Następnym razem gdy rzucisz z ręki sztuczkę "
+"lub obrzęd, w trakcie jego rozpatrywania połóż ową kartę w twojej ręce "
+"zamiast na cmentarzu."
 
 # 3146bd4b51264160b4bde0dc6ed7caa9
 #: ../../FRF.rst:811
@@ -2395,6 +2401,10 @@ msgstr "Soulflayer"
 #: ../../FRF.rst:810
 msgid "If a creature card with flying was exiled with Soulflayer's delve ability, Soulflayer has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance."
 msgstr ""
+"Jeśli stwór z lataniem został wygnany z pomocą zdolności wykopywania "
+"Soulflayera, Soulflayer ma latanie. To samo tyczy się pierwszego ciosu, "
+"podwójnego ciocu, dotyku śmierci, pośpiechu, antyklątwy, niezniszczalności, "
+"więzi życia, zasięgu, tratowania i czujności."
 
 # 5c3f0b73b8824b8f81a5daedac4564b2
 #: ../../FRF.rst:815
@@ -2406,6 +2416,8 @@ msgstr "Sudden Reclamation"
 #: ../../FRF.rst:814
 msgid "Put the top four cards of your library into your graveyard, then return a creature card and a land card from your graveyard to your hand."
 msgstr ""
+"Połóż cztery wierzchnie karty twojej biblioteki w twoim cmentarzu, następnie "
+"przywróć kartę stwora oraz kartę lądu z twojego cmentarza do twojej ręki."
 
 # fdc0df5e52a74df693392e729977a2d7
 #: ../../FRF.rst:819
@@ -2446,6 +2458,8 @@ msgstr "Sultai Skullkeeper"
 #: ../../FRF.rst:830
 msgid "When Sultai Skullkeeper enters the battlefield, put the top two cards of your library into your graveyard."
 msgstr ""
+"Kiedy Sultai SKullkeeper wchodzi na pole walki, połóż dwie wierzchnie karty "
+"twojej biblioteki do twojego cmentarza."
 
 # a7777eb368cb465ba1d6a874f49bb0cc
 #: ../../FRF.rst:835
@@ -2472,23 +2486,24 @@ msgstr "B"
 
 # 56416f34219340a0b52056cc27dd69c4
 #: ../../FRF.rst:847
+#, fuzzy
 msgid "Swiftwater Cliffs"
-msgstr ""
+msgstr "Swiftwater Cliffs"
 
 # 0436a7d4993a48d8b46d22cfe38f503b
 #: ../../FRF.rst:842
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr ""
+msgstr "Swiftwater Cliffs wchodzi na pole walki zaznaczony."
 
 # 8259dcf56cc74dfba803390479b1252f
 #: ../../FRF.rst:844
 msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy Swiftwater Cliffs wchodzi na pole walki, zyskujesz 1 życie."
 
 # 1920a00e207543fa8f7d3c20dee7f113
 #: ../../FRF.rst:846
 msgid "|tap|: Add |mana_u| or |mana_r| to your mana pool."
-msgstr ""
+msgstr "|tap|: Dodaj |mana_u| lub |mana_r| do twojej puli many."
 
 # 0d811fc18a7f4e92840d4f0e52160e31
 #: ../../FRF.rst:853
