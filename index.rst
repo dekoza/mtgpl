@@ -23,16 +23,19 @@ Tłumaczenie dodatków
 Standard
 --------
 
+* :doc:`Battle for Zendikar<BFZ>` (0%)
+* :doc:`Origins<ORI>` (0%)
+* :doc:`Dragons of Tarkir<DTK>` (0%)
 * :doc:`Fate Reforged<FRF>` (100%)
 * :doc:`Khans of Tarkir<KTK>` (52%)
-* :doc:`Magic 2015 Core Set<M15>` (7%)
-* :doc:`Journey into Nyx<JOU>` (38%)
-* :doc:`Born of the Gods<BNG>` (100%)
-* :doc:`Theros<THS>` (100%)
 
 Modern
 ------
 
+* :doc:`Magic 2015 Core Set<M15>` (7%)
+* :doc:`Journey into Nyx<JOU>` (38%)
+* :doc:`Born of the Gods<BNG>` (100%)
+* :doc:`Theros<THS>` (100%)
 * :doc:`Magic 2014 Core Set<M14>` (100%)
 * :doc:`Dragons' Maze<DGM>` (100%)
 * :doc:`Gatecrash<GTC>` (100%)
@@ -81,7 +84,10 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 
 .. toctree::
    :hidden:
-   
+
+   ORI
+   BFZ
+   DTK
    rationale
    ISD
    DKA
