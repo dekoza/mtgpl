@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+{% load card_sort %}{% load i18n %}{% load mtglang %}
+{% block body %}
+    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingOne">
+                <h4 class="panel-title">
+                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#main_sets"
+                       aria-expanded="true" aria-controls="main_sets">
+                        <h1>{% trans "All main expansions" %}</h1><h6>(click to toggle)</h6>
+                    </a>
+                </h4>
+            </div>
+            <div id="main_sets" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                <div class="panel-body">
+                    <table class="table table-hover table-condensed">
+                        <thead>
+                        <tr>
+                            <th>{% trans "Name" %}</th>
+                            <th>{% trans "Code" %}</th>
+                            <th>{% trans "Release date" %}</th>
+                            <th>{% trans "Cards" %}</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        {% for exp in expansion_list|mtgexp %}
+                            <tr>
+                                <td><a href="{% url 'db:expansion-detail' exp.code %}">{{ exp.name }}</a></td>
+                                <td>{{ exp.code }}</td>
+                                <td>{{ exp.release_date }}</td>
+                                <td>{{ exp.printing_set.all.count }}</td>
+                            </tr>{% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading" role="tab" id="headingTwo">
+                <h4 class="panel-title">
+                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion"
+                       href="#extra_sets" aria-expanded="false" aria-controls="extra_sets">
+                        <h1>{% trans "All additional sets" %}</h1><h6>(click to toggle)</h6>
+                    </a>
+                </h4>
+            </div>
+            <div id="extra_sets" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                <div class="panel-body">
+                    <table class="table table-hover table-condensed">
+                        <thead>
+                        <tr>
+                            <th>{% trans "Name" %}</th>
+                            <th>{% trans "Code" %}</th>
+                            <th>{% trans "Release date" %}</th>
+                            <th>{% trans "Cards" %}</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        {% for exp in expansion_list|mtgextra %}
+                            <tr>
+                                <td><a href="{% url 'db:expansion-detail' exp.code %}">{{ exp.name }}</a></td>
+                                <td>{{ exp.code }}</td>
+                                <td>{{ exp.release_date }}</td>
+                                <td>{{ exp.printing_set.all.count }}</td>
+                            </tr>{% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
