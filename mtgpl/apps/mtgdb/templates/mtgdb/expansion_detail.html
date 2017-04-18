@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% load card_sort %}{% load i18n %}{% load mtglang %}
+{% block body %}
+    <table class="table table-hover">
+        <thead>
+        <tr>
+            <th>{% trans "Pic & Number" %}</th>
+            <th>{% trans "Original text" %}</th>
+            <th>{% trans "Translation" %}</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for print in printed_cards|numsort %}
+            <tr>
+                <td>{{ print.number }}</td>
+                <td><p>{{ print.card.name }}</p>
+                    <p>{{ print.card.text }}</p></td>
+                {% translate_card print.card lang as transcard %}
+                <td><p>{{ transcard.name }}</p>
+                    <p>{{ transcard.text }}</p></td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

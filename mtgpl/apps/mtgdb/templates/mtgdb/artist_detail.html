@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% load i18n %}{% load mtglang %}
+{% block body %}
+    <h1>{{ artist.first_name }} {{ artist.last_name }}</h1>
+    {% regroup painted_cards|dictsort:"card.name" by card.name as sorted_cards %}
+    <ul>{% for card in sorted_cards %}
+        {{ card.grouper }}
+        <ul>{% for printing in card.list %}
+            <li>{{ printing.expansion.name }}</li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+    </ul>
+{% endblock %}

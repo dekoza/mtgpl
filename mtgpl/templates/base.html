@@ -1,0 +1,15 @@
+<!DOCTYPE html>{% load bootstrap3 %}
+<html lang="en">
+<head>
+    {% bootstrap_css %}
+    {% bootstrap_javascript jquery=1 %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+<div class="container">
+    {% block body %}{% endblock %}
+</div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% load i18n %}{% load mtglang %}
+{% block body %}
+<ul>
+{% for artist in artist_list %}
+    <li><a href="{% url 'db:artist-detail' artist.pk %}">{{ artist.first_name }} {{ artist.last_name }}</a></li>
+{% endfor %}
+</ul>
+{% endblock %}
