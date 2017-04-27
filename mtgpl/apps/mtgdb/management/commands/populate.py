@@ -1,4 +1,5 @@
 from django.core.management.base import BaseCommand
+from json.decoder import JSONDecodeError
 
 import arrow
 import hashlib
@@ -14,15 +15,20 @@ class Command(BaseCommand):
 
     def add_arguments(self, parser):
         # Optional expansion argument ('LEA', 'DDD', etc).
-        parser.add_argument('expansion', nargs='?', default='')
+        parser.add_argument('-e', '--expansion', nargs='?', help="Get only particular expansion's data.")
 
     def handle(self, *args, **options):
-        if args:
-            self.populate_single_expansion(args[0])
-        else:
-            self.populate_from_web()
+        exp = options['expansion']
+        if exp is not None:
+            try:
+                return self.populate_single_expansion(exp)
+            except JSONDecodeError:
+                self.stdout.write(f'{exp} is not an expansion.')
+                return
+        return self.populate_from_web()
 
     ##############################
+
     def populate_from_web(self):
         import requests
         url = 'https://mtgjson.com/json/AllSetsArray-x.json'
@@ -62,7 +68,7 @@ class Command(BaseCommand):
 
         for card in data['cards']:
             self.populate_card(card, exp)
-        self.stdout.write()
+        self.stdout.write('')
 
     def populate_card(self, data, exp=None):
         new_printing = False
@@ -152,20 +158,20 @@ class Command(BaseCommand):
             version.save()
 
         if new_card and new_printing:
-            self.stdout.write('+', end='', flush=True)
+            self.stdout.write('+', ending='')
         elif new_printing:
-            self.stdout.write('-', end='', flush=True)
+            self.stdout.write('-', ending='')
         else:
-            self.stdout.write('.', end='', flush=True)
+            self.stdout.write('.', ending='')
 
     def populate_translations(self, data):
         # TODO: port it to main populator
         for expdata in data:
             exp = Expansion.objects.get(code=expdata['code'])
-            self.stdout.write(expdata['name'], flush=True)
+            self.stdout.write(expdata['name'])
             for crd in expdata.get('cards', []):
                 card = Card.objects.get(name=crd['name'])
-                self.stdout.write('>', end='', flush=True)
+                self.stdout.write('>', ending='')
                 for trns in crd.get('foreignNames', []):
                     laname = trns['language']
                     lancode = laname[:2] + '_' + laname[-2:]
@@ -181,10 +187,10 @@ class Command(BaseCommand):
                         })
 
                         if _pt:
-                            self.stdout.write('+', end='', flush=True)
+                            self.stdout.write('+', ending='')
                         else:
-                            self.stdout.write('.', end='', flush=True)
-            self.stdout.write()
+                            self.stdout.write('.', ending='')
+            self.stdout.write('')
 
     def populate_rulings(self, data):
         # TODO: port it to main populator
@@ -193,7 +199,7 @@ class Command(BaseCommand):
             self.stdout.write(expdata['name'])
             for crd in expdata.get('cards', []):
                 card = Card.objects.get(name=crd['name'])
-                self.stdout.write('>', end='')
+                self.stdout.write('>', ending='')
                 for ruling in crd.get('rulings', []):
                     text = ruling['text']
                     date = arrow.get(ruling['date']).date()
@@ -205,8 +211,8 @@ class Command(BaseCommand):
 
                     if rule not in card.rulings.all():
                         card.rulings.add(rule)
-                        self.stdout.write('+', end='', flush=True)
+                        self.stdout.write('+', ending='')
                     else:
-                        self.stdout.write('.', end='', flush=True)
+                        self.stdout.write('.', ending='')
 
-            self.stdout.write()
+            self.stdout.write('')
