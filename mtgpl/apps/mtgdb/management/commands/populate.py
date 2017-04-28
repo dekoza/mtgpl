@@ -35,14 +35,20 @@ class Command(BaseCommand):
         data = requests.get(url).json()
         for exp_data in data:
             self.populate_expansion(exp_data)
+        for exp_data in data:
+            self.populate_translations(exp_data)
+            self.populate_rulings(exp_data)
 
     def populate_single_expansion(self, expansion):
         import requests
         url = f'https://mtgjson.com/json/{expansion}.json'
         exp_data = requests.get(url).json()
         self.populate_expansion(exp_data)
+        self.populate_translations(exp_data)
+        self.populate_rulings(exp_data)
 
     def populate_from_dict(self, data):
+        # is this even needed?
         for exp_data in data.values():
             self.populate_expansion(exp_data)
 
@@ -164,55 +170,51 @@ class Command(BaseCommand):
         else:
             self.stdout.write('.', ending='')
 
-    def populate_translations(self, data):
-        # TODO: port it to main populator
-        for expdata in data:
-            exp = Expansion.objects.get(code=expdata['code'])
-            self.stdout.write(expdata['name'])
-            for crd in expdata.get('cards', []):
-                card = Card.objects.get(name=crd['name'])
-                self.stdout.write('>', ending='')
-                for trns in crd.get('foreignNames', []):
-                    laname = trns['language']
-                    lancode = laname[:2] + '_' + laname[-2:]
-                    lang, _lc = Language.objects.get_or_create(name=laname, defaults={'code': lancode})
-                    trans, _c = CardTranslation.objects.get_or_create(card=card, lang=lang, defaults={
+    def populate_translations(self, expdata):
+        exp = Expansion.objects.get(code=expdata['code'])
+        self.stdout.write(exp.name)
+        for crd in expdata.get('cards', []):
+            card = Card.objects.get(name=crd['name'])
+            self.stdout.write('>', ending='')
+            for trns in crd.get('foreignNames', []):
+                laname = trns['language']
+                lancode = laname[:2] + '_' + laname[-2:]
+                lang, _lc = Language.objects.get_or_create(name=laname, defaults={'code': lancode})
+                trans, _c = CardTranslation.objects.get_or_create(card=card, lang=lang, defaults={
+                    'translated_name': trns.get('name', ''),
+                })
+                printings = Printing.objects.filter(card=card, expansion=exp)
+                for printing in printings:
+                    ptrans, _pt = PrintingTranslation.objects.get_or_create(printing=printing, lang=lang, defaults={
                         'translated_name': trns.get('name', ''),
-                    })
-                    printings = Printing.objects.filter(card=card, expansion=exp)
-                    for printing in printings:
-                        ptrans, _pt = PrintingTranslation.objects.get_or_create(printing=printing, lang=lang, defaults={
-                            'translated_name': trns.get('name', ''),
-                            'multiverse_id': trns.get('multiverseid'),
-                        })
-
-                        if _pt:
-                            self.stdout.write('+', ending='')
-                        else:
-                            self.stdout.write('.', ending='')
-            self.stdout.write('')
-
-    def populate_rulings(self, data):
-        # TODO: port it to main populator
-        for expdata in data:
-            exp = Expansion.objects.get(code=expdata['code'])
-            self.stdout.write(expdata['name'])
-            for crd in expdata.get('cards', []):
-                card = Card.objects.get(name=crd['name'])
-                self.stdout.write('>', ending='')
-                for ruling in crd.get('rulings', []):
-                    text = ruling['text']
-                    date = arrow.get(ruling['date']).date()
-                    hash = hashlib.sha1(text.encode('utf-8')).hexdigest()
-                    rule, _c = Ruling.objects.get_or_create(hash=hash, defaults={
-                        'text': text,
-                        'date': date,
+                        'multiverse_id': trns.get('multiverseid'),
                     })
 
-                    if rule not in card.rulings.all():
-                        card.rulings.add(rule)
+                    if _pt:
                         self.stdout.write('+', ending='')
                     else:
                         self.stdout.write('.', ending='')
+        self.stdout.write('')
 
-            self.stdout.write('')
+    def populate_rulings(self, expdata):
+        exp = Expansion.objects.get(code=expdata['code'])
+        self.stdout.write(exp.name)
+        for crd in expdata.get('cards', []):
+            card = Card.objects.get(name=crd['name'])
+            self.stdout.write('>', ending='')
+            for ruling in crd.get('rulings', []):
+                text = ruling['text']
+                date = arrow.get(ruling['date']).date()
+                hash = hashlib.sha1(text.encode('utf-8')).hexdigest()
+                rule, _c = Ruling.objects.get_or_create(hash=hash, defaults={
+                    'text': text,
+                    'date': date,
+                })
+
+                if rule not in card.rulings.all():
+                    card.rulings.add(rule)
+                    self.stdout.write('+', ending='')
+                else:
+                    self.stdout.write('.', ending='')
+
+        self.stdout.write('')
