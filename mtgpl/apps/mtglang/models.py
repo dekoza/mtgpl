@@ -36,7 +36,7 @@ class RulingTranslation(models.Model):
         unique_together = ('ruling', 'lang')
 
     def __str__(self):
-        return self.translated_text
+        return self.text
 
 
 # Not exactly needed, kept for completion
@@ -54,5 +54,5 @@ class PrintingTranslation(models.Model):
         return "{lang.code} {printing.expansion.code} {printing.card.name} - {trans}".format(**{
             'lang': self.lang,
             'printing': self.printing,
-            'trans': self.translated_name,
+            'trans': self.name,
         })
