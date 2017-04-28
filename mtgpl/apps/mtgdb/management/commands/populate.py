@@ -35,7 +35,6 @@ class Command(BaseCommand):
         data = requests.get(url).json()
         for exp_data in data:
             self.populate_expansion(exp_data)
-        for exp_data in data:
             self.populate_translations(exp_data)
             self.populate_rulings(exp_data)
 
@@ -79,6 +78,8 @@ class Command(BaseCommand):
     def populate_card(self, data, exp=None):
         new_printing = False
         name = data['name']
+
+        self.stdout.write(name)
 
         card, new_card = Card.objects.get_or_create(name=name)
         card.text = data.get('text', '')
@@ -172,7 +173,7 @@ class Command(BaseCommand):
 
     def populate_translations(self, expdata):
         exp = Expansion.objects.get(code=expdata['code'])
-        self.stdout.write(exp.name)
+        self.stdout.write(f'Populating translations for {exp.name}')
         for crd in expdata.get('cards', []):
             card = Card.objects.get(name=crd['name'])
             self.stdout.write('>', ending='')
@@ -198,7 +199,7 @@ class Command(BaseCommand):
 
     def populate_rulings(self, expdata):
         exp = Expansion.objects.get(code=expdata['code'])
-        self.stdout.write(exp.name)
+        self.stdout.write(f'Populating rulings for {exp.name}')
         for crd in expdata.get('cards', []):
             card = Card.objects.get(name=crd['name'])
             self.stdout.write('>', ending='')
