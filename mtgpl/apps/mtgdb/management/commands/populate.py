@@ -182,12 +182,12 @@ class Command(BaseCommand):
                 lancode = laname[:2] + '_' + laname[-2:]
                 lang, _lc = Language.objects.get_or_create(name=laname, defaults={'code': lancode})
                 trans, _c = CardTranslation.objects.get_or_create(card=card, lang=lang, defaults={
-                    'translated_name': trns.get('name', ''),
+                    'name': trns.get('name', ''),
                 })
                 printings = Printing.objects.filter(card=card, expansion=exp)
                 for printing in printings:
                     ptrans, _pt = PrintingTranslation.objects.get_or_create(printing=printing, lang=lang, defaults={
-                        'translated_name': trns.get('name', ''),
+                        'name': trns.get('name', ''),
                         'multiverse_id': trns.get('multiverseid'),
                     })
 
