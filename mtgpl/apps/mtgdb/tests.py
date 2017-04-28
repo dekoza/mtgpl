@@ -4,7 +4,7 @@ from django.core.management import call_command
 from unittest.mock import Mock
 
 from apps.mtgdb.management.commands import populate
-from apps.mtgdb.models import Expansion, Card
+from apps.mtgdb.models import Expansion, Card, CardType, CardSubtype, CardColor
 
 
 class TestPopulateCommandHandling(TestCase):
@@ -30,6 +30,8 @@ class TestPopulatingDatabase(TestCase):
 
     def setUp(self):
         self.sut = populate.Command()
+
+        # TEST DATA BLOCK
         self.example_card_1 = {
             "artist": "Richard Thomas",
             "cmc": 5,
@@ -141,7 +143,6 @@ class TestPopulatingDatabase(TestCase):
             # 'onlineOnly', 'booster'
             'cards': [self.example_card_1]
         }
-
         self.multiple_exps = [
             {
                 'name': 'TestExp',
@@ -169,15 +170,26 @@ class TestPopulatingDatabase(TestCase):
                 'cards': [self.example_card_1, self.example_card_2]
             }
         ]
+        # END BLOCK
 
     def test_populating_single_expansion(self):
         self.sut.populate_expansion(self.single_exp)
 
-        exp = Expansion.objects.get(code='EXP')
-
+        exp = Expansion.objects.get()
         self.assertEqual('TestExp', exp.name)
         self.assertEqual('test', exp.block.name)
 
+        card = Card.objects.get()
+        self.assertEqual('Air Elemental', card.name)
+
+        c_type = CardType.objects.get()
+        self.assertEqual('Creature', c_type.name)
+
+        c_subtype = CardSubtype.objects.get()
+        self.assertEqual('Elemental', c_subtype.name)
+
+        c_color = CardColor.objects.get()
+        self.assertEqual('blue', c_color.name)
 
         # def test_populating_multiple_expansions(self):
         #     for expansion in self.multiple_exps:
