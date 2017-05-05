@@ -29,7 +29,7 @@ class CardTranslation(models.Model):
 class RulingTranslation(models.Model):
     ruling = models.ForeignKey('mtgdb.Ruling', verbose_name=_('ruling'))
     lang = models.ForeignKey(Language, verbose_name=_('language'))
-    text = models.TextField(_('translated text'), blank=True)
+    translated_text = models.TextField(_('translated text'), blank=True)
     extra_context = JSONField(_('extra context'), default=dict, blank=True)
 
     class Meta:
@@ -44,7 +44,7 @@ class RulingTranslation(models.Model):
 class PrintingTranslation(models.Model):
     printing = models.ForeignKey('mtgdb.Printing', verbose_name=_('printing'))
     lang = models.ForeignKey(Language, verbose_name=_('language'))
-    name = models.CharField(_('translated name'), max_length=200)
+    translated_name = models.CharField(_('translated name'), max_length=200)
     multiverse_id = models.PositiveIntegerField(_('multiverse id'), null=True, blank=True)
 
     class Meta:
