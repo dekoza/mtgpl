@@ -29,14 +29,14 @@ class CardTranslation(models.Model):
 class RulingTranslation(models.Model):
     ruling = models.ForeignKey('mtgdb.Ruling', verbose_name=_('ruling'))
     lang = models.ForeignKey(Language, verbose_name=_('language'))
-    translated_text = models.TextField(_('translated text'), blank=True)
+    text = models.TextField(_('translated text'), blank=True)
     extra_context = JSONField(_('extra context'), default=dict, blank=True)
 
     class Meta:
         unique_together = ('ruling', 'lang')
 
     def __str__(self):
-        return self.translated_text
+        return self.text
 
 
 # Not exactly needed, kept for completion
@@ -44,7 +44,7 @@ class RulingTranslation(models.Model):
 class PrintingTranslation(models.Model):
     printing = models.ForeignKey('mtgdb.Printing', verbose_name=_('printing'))
     lang = models.ForeignKey(Language, verbose_name=_('language'))
-    translated_name = models.CharField(_('translated name'), max_length=200)
+    name = models.CharField(_('translated name'), max_length=200)
     multiverse_id = models.PositiveIntegerField(_('multiverse id'), null=True, blank=True)
 
     class Meta:
@@ -54,5 +54,5 @@ class PrintingTranslation(models.Model):
         return "{lang.code} {printing.expansion.code} {printing.card.name} - {trans}".format(**{
             'lang': self.lang,
             'printing': self.printing,
-            'trans': self.translated_name,
+            'trans': self.name,
         })
