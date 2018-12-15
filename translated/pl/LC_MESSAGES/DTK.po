@@ -8,10 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-21 23:55+0100\n"
+"POT-Creation-Date: 2018-12-15 23:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,2591 +22,3000 @@ msgid "Dragons of Tarkir"
 msgstr ""
 
 #: ../../DTK.rst:13
-msgid "Acid-Spewer Dragon"
-msgstr ""
-
-#: ../../DTK.rst:8
-#: ../../DTK.rst:366
-msgid "Flying, deathtouch"
-msgstr ""
-
-#: ../../DTK.rst:10
-msgid "Megamorph |mana_5| |mana_b| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:12
-msgid "When Acid-Spewer Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control."
-msgstr ""
-
-#: ../../DTK.rst:19
-msgid "Aerie Bowmasters"
-msgstr ""
-
-#: ../../DTK.rst:16
-msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
-
-#: ../../DTK.rst:18
-msgid "Megamorph |mana_5| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:23
-msgid "Ainok Artillerist"
-msgstr ""
-
-#: ../../DTK.rst:22
-msgid "Ainok Artillerist has reach as long as it has a +1/+1 counter on it. (It can block creatures with flying.)"
-msgstr ""
-
-#: ../../DTK.rst:29
-msgid "Ainok Survivalist"
-msgstr ""
-
-#: ../../DTK.rst:26
-#: ../../DTK.rst:278
-msgid "Megamorph |mana_1| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:28
-msgid "When Ainok Survivalist is turned face up, destroy target artifact or enchantment an opponent controls."
-msgstr ""
-
-#: ../../DTK.rst:35
-msgid "Ambuscade Shaman"
-msgstr ""
-
-#: ../../DTK.rst:32
-msgid "Whenever Ambuscade Shaman or another creature enters the battlefield under your control, that creature gets +2/+2 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:34
-msgid "Dash |mana_3| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../DTK.rst:39
-msgid "Anafenza, Kin-Tree Spirit"
-msgstr ""
-
-#: ../../DTK.rst:38
-msgid "Whenever another nontoken creature enters the battlefield under your control, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:43
-msgid "Ancestral Statue"
-msgstr ""
-
-#: ../../DTK.rst:42
-msgid "When Ancestral Statue enters the battlefield, return a nonland permanent you control to its owner's hand."
-msgstr ""
-
-#: ../../DTK.rst:45
-msgid "Ancient Carp"
-msgstr ""
-
-#: ../../DTK.rst:51
-msgid "Anticipate"
-msgstr ""
-
-#: ../../DTK.rst:50
-msgid "Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
-msgstr ""
-
-#: ../../DTK.rst:57
-msgid "Arashin Foremost"
-msgstr ""
-
-#: ../../DTK.rst:54
-msgid "Double strike"
-msgstr ""
-
-#: ../../DTK.rst:56
-msgid "Whenever Arashin Foremost enters the battlefield or attacks, another target Warrior creature you control gains double strike until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:63
-msgid "Arashin Sovereign"
-msgstr ""
-
-#: ../../DTK.rst:60
-#: ../../DTK.rst:118
-#: ../../DTK.rst:126
-#: ../../DTK.rst:164
-#: ../../DTK.rst:230
-#: ../../DTK.rst:258
-#: ../../DTK.rst:358
-#: ../../DTK.rst:454
-#: ../../DTK.rst:484
-#: ../../DTK.rst:582
-#: ../../DTK.rst:632
-#: ../../DTK.rst:820
-#: ../../DTK.rst:846
-#: ../../DTK.rst:896
-#: ../../DTK.rst:920
-#: ../../DTK.rst:962
-#: ../../DTK.rst:1004
-#: ../../DTK.rst:1056
-#: ../../DTK.rst:1072
-#: ../../DTK.rst:1192
-#: ../../DTK.rst:1266
-#: ../../DTK.rst:1290
-#: ../../DTK.rst:1308
-#: ../../DTK.rst:1328
-#: ../../DTK.rst:1332
-#: ../../DTK.rst:1360
-#: ../../DTK.rst:1394
-msgid "Flying"
-msgstr ""
-
-#: ../../DTK.rst:62
-msgid "When Arashin Sovereign dies, you may put it on the top or bottom of its owner's library."
-msgstr ""
-
-#: ../../DTK.rst:69
-msgid "Artful Maneuver"
-msgstr ""
-
-#: ../../DTK.rst:66
-msgid "Target creature gets +2/+2 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:68
-#: ../../DTK.rst:152
-#: ../../DTK.rst:176
-#: ../../DTK.rst:556
-#: ../../DTK.rst:860
-#: ../../DTK.rst:878
-#: ../../DTK.rst:934
-#: ../../DTK.rst:1158
-#: ../../DTK.rst:1316
-#: ../../DTK.rst:1382
-msgid "Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
-msgstr ""
-
-#: ../../DTK.rst:77
-msgid "Assault Formation"
-msgstr ""
-
-#: ../../DTK.rst:72
-msgid "Each creature you control assigns combat damage equal to its toughness rather than its power."
-msgstr ""
-
-#: ../../DTK.rst:74
-msgid "|mana_g|: Target creature with defender can attack this turn as though it didn't have defender."
-msgstr ""
-
-#: ../../DTK.rst:76
-msgid "|mana_2| |mana_g|: Creatures you control get +0/+1 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:81
-msgid "Atarka Beastbreaker"
-msgstr ""
-
-#: ../../DTK.rst:80
-msgid "Formidable — |mana_4| |mana_g|: Atarka Beastbreaker gets +4/+4 until end of turn. Activate this ability only if creatures you control have total power 8 or greater."
-msgstr ""
-
-#: ../../DTK.rst:87
-msgid "Atarka Efreet"
-msgstr ""
-
-#: ../../DTK.rst:84
-msgid "Megamorph |mana_2| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:86
-msgid "When Atarka Efreet is turned face up, it deals 1 damage to target creature or player."
-msgstr ""
-
-#: ../../DTK.rst:93
-msgid "Atarka Monument"
-msgstr ""
-
-#: ../../DTK.rst:90
-msgid "|tap|: Add |mana_r| or |mana_g| to your mana pool."
-msgstr ""
-
-#: ../../DTK.rst:92
-msgid "|mana_4| |mana_r| |mana_g|: Atarka Monument becomes a 4/4 red and green Dragon artifact creature with flying until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:97
-msgid "Atarka Pummeler"
-msgstr ""
-
-#: ../../DTK.rst:96
-msgid "Formidable — |mana_3| |mana_r| |mana_r|: Creatures you control gain menace until end of turn. Activate this ability only if creatures you control have total power 8 or greater. (They can't be blocked except by two or more creatures.)"
-msgstr ""
-
-#: ../../DTK.rst:109
-msgid "Atarka's Command"
-msgstr ""
-
-#: ../../DTK.rst:100
-#: ../../DTK.rst:412
-#: ../../DTK.rst:706
-#: ../../DTK.rst:864
-#: ../../DTK.rst:1206
-msgid "Choose two —"
-msgstr ""
-
-#: ../../DTK.rst:102
-msgid "Your opponents can't gain life this turn."
-msgstr ""
-
-#: ../../DTK.rst:104
-msgid "Atarka's Command deals 3 damage to each opponent."
-msgstr ""
-
-#: ../../DTK.rst:106
-msgid "You may put a land card from your hand onto the battlefield."
-msgstr ""
-
-#: ../../DTK.rst:108
-msgid "Creatures you control get +1/+1 and gain reach until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:115
-msgid "Avatar of the Resolute"
-msgstr ""
-
-#: ../../DTK.rst:112
-msgid "Reach, trample"
-msgstr ""
-
-#: ../../DTK.rst:114
-msgid "Avatar of the Resolute enters the battlefield with a +1/+1 counter on it for each other creature you control with a +1/+1 counter on it."
-msgstr ""
-
-#: ../../DTK.rst:123
-msgid "Aven Sunstriker"
-msgstr ""
-
-#: ../../DTK.rst:120
-msgid "Double strike (This creature deals both first-strike and regular combat damage.)"
-msgstr ""
-
-#: ../../DTK.rst:122
-#: ../../DTK.rst:1036
-msgid "Megamorph |mana_4| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:129
-msgid "Aven Tactician"
-msgstr ""
-
-#: ../../DTK.rst:128
-msgid "When Aven Tactician enters the battlefield, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:135
-msgid "Battle Mastery"
-msgstr ""
-
-#: ../../DTK.rst:132
-#: ../../DTK.rst:524
-#: ../../DTK.rst:532
-#: ../../DTK.rst:640
-#: ../../DTK.rst:774
-#: ../../DTK.rst:890
-#: ../../DTK.rst:970
-msgid "Enchant creature"
-msgstr ""
-
-#: ../../DTK.rst:134
-msgid "Enchanted creature has double strike. (It deals both first-strike and regular combat damage.)"
-msgstr ""
-
-#: ../../DTK.rst:143
-msgid "Belltoll Dragon"
-msgstr ""
-
-#: ../../DTK.rst:138
-msgid "Flying, hexproof"
-msgstr ""
-
-#: ../../DTK.rst:140
-msgid "Megamorph |mana_5| |mana_u| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:142
-msgid "When Belltoll Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control."
-msgstr ""
-
-#: ../../DTK.rst:147
-msgid "Berserkers' Onslaught"
-msgstr ""
-
-#: ../../DTK.rst:146
-msgid "Attacking creatures you control have double strike."
-msgstr ""
-
-#: ../../DTK.rst:153
-msgid "Blessed Reincarnation"
-msgstr ""
-
-#: ../../DTK.rst:150
-msgid "Exile target creature an opponent controls. That player reveals cards from the top of his or her library until a creature card is revealed. The player puts that card onto the battlefield, then shuffles the rest into his or her library."
-msgstr ""
-
-#: ../../DTK.rst:157
-msgid "Blood-Chin Fanatic"
-msgstr ""
-
-#: ../../DTK.rst:156
-msgid "|mana_1| |mana_b|, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature's power."
-msgstr ""
-
-#: ../../DTK.rst:161
-msgid "Blood-Chin Rager"
-msgstr ""
-
-#: ../../DTK.rst:160
-msgid "Whenever Blood-Chin Rager attacks, Warrior creatures you control gain menace until end of turn. (They can't be blocked except by two or more creatures.)"
-msgstr ""
-
-#: ../../DTK.rst:167
-msgid "Boltwing Marauder"
-msgstr ""
-
-#: ../../DTK.rst:166
-msgid "Whenever another creature enters the battlefield under your control, target creature gets +2/+0 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:171
-msgid "Butcher's Glee"
-msgstr ""
-
-#: ../../DTK.rst:170
-msgid "Target creature gets +3/+0 and gains lifelink until end of turn. Regenerate it. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)"
-msgstr ""
-
-#: ../../DTK.rst:177
-msgid "Center Soul"
-msgstr ""
-
-#: ../../DTK.rst:174
-msgid "Target creature you control gains protection from the color of your choice until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:181
-msgid "Champion of Arashin"
-msgstr ""
-
-#: ../../DTK.rst:180
-msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
-msgstr ""
-
-#: ../../DTK.rst:187
-msgid "Circle of Elders"
-msgstr ""
-
-#: ../../DTK.rst:184
-#: ../../DTK.rst:610
-msgid "Vigilance"
-msgstr ""
-
-#: ../../DTK.rst:186
-msgid "Formidable — |tap|: Add |mana_3| to your mana pool. Activate this ability only if creatures you control have total power 8 or greater."
-msgstr ""
-
-#: ../../DTK.rst:191
-msgid "Clone Legion"
-msgstr ""
-
-#: ../../DTK.rst:190
-msgid "For each creature target player controls, put a token onto the battlefield that's a copy of that creature."
-msgstr ""
-
-#: ../../DTK.rst:195
-msgid "Coat with Venom"
-msgstr ""
-
-#: ../../DTK.rst:194
-msgid "Target creature gets +1/+2 and gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
-msgstr ""
-
-#: ../../DTK.rst:199
-msgid "Collected Company"
-msgstr ""
-
-#: ../../DTK.rst:198
-msgid "Look at the top six cards of your library. Put up to two creature cards with converted mana cost 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order."
-msgstr ""
-
-#: ../../DTK.rst:201
-msgid "Colossodon Yearling"
-msgstr ""
-
-#: ../../DTK.rst:207
-msgid "Commune with Lava"
-msgstr ""
-
-#: ../../DTK.rst:206
-msgid "Exile the top X cards of your library. Until the end of your next turn, you may play those cards."
-msgstr ""
-
-#: ../../DTK.rst:211
-msgid "Conifer Strider"
-msgstr ""
-
-#: ../../DTK.rst:210
-msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
-msgstr ""
-
-#: ../../DTK.rst:217
-msgid "Contradict"
-msgstr ""
-
-#: ../../DTK.rst:214
-msgid "Counter target spell."
-msgstr ""
-
-#: ../../DTK.rst:216
-#: ../../DTK.rst:550
-#: ../../DTK.rst:720
-#: ../../DTK.rst:872
-#: ../../DTK.rst:984
-msgid "Draw a card."
-msgstr ""
-
-#: ../../DTK.rst:221
-msgid "Corpseweft"
-msgstr ""
-
-#: ../../DTK.rst:220
-msgid "|mana_1| |mana_b|, Exile one or more creature cards from your graveyard: Put an X/X black Zombie Horror creature token onto the battlefield tapped, where X is twice the number of cards exiled this way."
-msgstr ""
-
-#: ../../DTK.rst:227
-msgid "Crater Elemental"
-msgstr ""
-
-#: ../../DTK.rst:224
-msgid "|mana_r|, |tap|, Sacrifice Crater Elemental: Crater Elemental deals 4 damage to target creature."
-msgstr ""
-
-#: ../../DTK.rst:226
-msgid "Formidable — |mana_2| |mana_r|: Crater Elemental has base power 8 until end of turn. Activate this ability only if creatures you control have total power 8 or greater."
-msgstr ""
-
-#: ../../DTK.rst:233
-msgid "Cunning Breezedancer"
-msgstr ""
-
-#: ../../DTK.rst:232
-msgid "Whenever you cast a noncreature spell, Cunning Breezedancer gets +2/+2 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:239
-msgid "Custodian of the Trove"
-msgstr ""
-
-#: ../../DTK.rst:236
-#: ../../DTK.rst:288
-#: ../../DTK.rst:518
-msgid "Defender"
-msgstr ""
-
-#: ../../DTK.rst:238
-msgid "Custodian of the Trove enters the battlefield tapped."
-msgstr ""
-
-#: ../../DTK.rst:243
-msgid "Damnable Pact"
-msgstr ""
-
-#: ../../DTK.rst:242
-msgid "Target player draws X cards and loses X life."
-msgstr ""
-
-#: ../../DTK.rst:247
-msgid "Dance of the Skywise"
-msgstr ""
-
-#: ../../DTK.rst:246
-msgid "Until end of turn, target creature you control becomes a blue Dragon Illusion with base power and toughness 4/4, loses all abilities, and gains flying."
-msgstr ""
-
-#: ../../DTK.rst:251
-msgid "Deadly Wanderings"
-msgstr ""
-
-#: ../../DTK.rst:250
-msgid "As long as you control exactly one creature, that creature gets +2/+0 and has deathtouch and lifelink."
-msgstr ""
-
-#: ../../DTK.rst:255
-msgid "Death Wind"
-msgstr ""
-
-#: ../../DTK.rst:254
-msgid "Target creature gets -X/-X until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:261
-msgid "Deathbringer Regent"
-msgstr ""
-
-#: ../../DTK.rst:260
-msgid "When Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures."
-msgstr ""
-
-#: ../../DTK.rst:269
-msgid "Deathmist Raptor"
-msgstr ""
-
-#: ../../DTK.rst:264
-#: ../../DTK.rst:1142
-#: ../../DTK.rst:1352
-msgid "Deathtouch"
-msgstr ""
-
-#: ../../DTK.rst:266
-msgid "Whenever a permanent you control is turned face up, you may return Deathmist Raptor from your graveyard to the battlefield face up or face down."
-msgstr ""
-
-#: ../../DTK.rst:268
-msgid "Megamorph |mana_4| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:273
-msgid "Defeat"
-msgstr ""
-
-#: ../../DTK.rst:272
-msgid "Destroy target creature with power 2 or less."
-msgstr ""
-
-#: ../../DTK.rst:281
-msgid "Den Protector"
-msgstr ""
-
-#: ../../DTK.rst:276
-msgid "Creatures with power less than Den Protector's power can't block it."
-msgstr ""
-
-#: ../../DTK.rst:280
-msgid "When Den Protector is turned face up, return target card from your graveyard to your hand."
-msgstr ""
-
-#: ../../DTK.rst:285
-msgid "Descent of the Dragons"
-msgstr ""
-
-#: ../../DTK.rst:284
-msgid "Destroy any number of target creatures. For each creature destroyed this way, its controller puts a 4/4 red Dragon creature token with flying onto the battlefield."
-msgstr ""
-
-#: ../../DTK.rst:291
-msgid "Dirgur Nemesis"
-msgstr ""
-
-#: ../../DTK.rst:290
-msgid "Megamorph |mana_6| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:299
-msgid "Display of Dominance"
-msgstr ""
-
-#: ../../DTK.rst:294
-msgid "Choose one —"
-msgstr ""
-
-#: ../../DTK.rst:296
-msgid "Destroy target blue or black noncreature permanent."
-msgstr ""
-
-#: ../../DTK.rst:298
-msgid "Permanents you control can't be the targets of blue or black spells your opponents control this turn."
-msgstr ""
-
-#: ../../DTK.rst:305
-msgid "Draconic Roar"
-msgstr ""
-
-#: ../../DTK.rst:302
-msgid "As an additional cost to cast Draconic Roar, you may reveal a Dragon card from your hand."
-msgstr ""
-
-#: ../../DTK.rst:304
-msgid "Draconic Roar deals 3 damage to target creature. If you revealed a Dragon card or controlled a Dragon as you cast Draconic Roar, Draconic Roar deals 3 damage to that creature's controller."
-msgstr ""
-
-#: ../../DTK.rst:309
-msgid "Dragon Fodder"
-msgstr ""
-
-#: ../../DTK.rst:308
-msgid "Put two 1/1 red Goblin creature tokens onto the battlefield."
-msgstr ""
-
-#: ../../DTK.rst:315
-msgid "Dragon Hunter"
-msgstr ""
-
-#: ../../DTK.rst:312
-msgid "Protection from Dragons"
-msgstr ""
-
-#: ../../DTK.rst:314
-msgid "Dragon Hunter can block Dragons as though it had reach."
-msgstr ""
-
-#: ../../DTK.rst:321
-msgid "Dragon Tempest"
-msgstr ""
-
-#: ../../DTK.rst:318
-msgid "Whenever a creature with flying enters the battlefield under your control, it gains haste until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:320
-msgid "Whenever a Dragon enters the battlefield under your control, it deals X damage to target creature or player, where X is the number of Dragons you control."
-msgstr ""
-
-#: ../../DTK.rst:329
-msgid "Dragon Whisperer"
-msgstr ""
-
-#: ../../DTK.rst:324
-msgid "|mana_r|: Dragon Whisperer gains flying until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:326
-msgid "|mana_1| |mana_r|: Dragon Whisperer gets +1/+0 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:328
-msgid "Formidable — |mana_4| |mana_r| |mana_r|: Put a 4/4 red Dragon creature token with flying onto the battlefield. Activate this ability only if creatures you control have total power 8 or greater."
-msgstr ""
-
-#: ../../DTK.rst:333
-msgid "Dragonloft Idol"
-msgstr ""
-
-#: ../../DTK.rst:332
-msgid "As long as you control a Dragon, Dragonloft Idol gets +1/+1 and has flying and trample."
-msgstr ""
-
-#: ../../DTK.rst:339
-msgid "Dragonlord Atarka"
-msgstr ""
-
-#: ../../DTK.rst:336
-#: ../../DTK.rst:616
-msgid "Flying, trample"
-msgstr ""
-
-#: ../../DTK.rst:338
-msgid "When Dragonlord Atarka enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control."
-msgstr ""
-
-#: ../../DTK.rst:347
-msgid "Dragonlord Dromoka"
-msgstr ""
-
-#: ../../DTK.rst:342
-msgid "Dragonlord Dromoka can't be countered."
-msgstr ""
-
-#: ../../DTK.rst:344
-#: ../../DTK.rst:1122
-msgid "Flying, lifelink"
-msgstr ""
-
-#: ../../DTK.rst:346
-msgid "Your opponents can't cast spells during your turn."
-msgstr ""
-
-#: ../../DTK.rst:355
-msgid "Dragonlord Kolaghan"
-msgstr ""
-
-#: ../../DTK.rst:350
-msgid "Flying, haste"
-msgstr ""
-
-#: ../../DTK.rst:352
-msgid "Other creatures you control have haste."
-msgstr ""
-
-#: ../../DTK.rst:354
-msgid "Whenever an opponent casts a creature or planeswalker spell with the same name as a card in his or her graveyard, that player loses 10 life."
-msgstr ""
-
-#: ../../DTK.rst:363
-msgid "Dragonlord Ojutai"
-msgstr ""
-
-#: ../../DTK.rst:360
-msgid "Dragonlord Ojutai has hexproof as long as it's untapped."
-msgstr ""
-
-#: ../../DTK.rst:362
-msgid "Whenever Dragonlord Ojutai deals combat damage to a player, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
-msgstr ""
-
-#: ../../DTK.rst:369
-msgid "Dragonlord Silumgar"
-msgstr ""
-
-#: ../../DTK.rst:368
-msgid "When Dragonlord Silumgar enters the battlefield, gain control of target creature or planeswalker for as long as you control Dragonlord Silumgar."
-msgstr ""
-
-#: ../../DTK.rst:377
-msgid "Dragonlord's Prerogative"
-msgstr ""
-
-#: ../../DTK.rst:372
-msgid "As an additional cost to cast Dragonlord's Prerogative, you may reveal a Dragon card from your hand."
-msgstr ""
-
-#: ../../DTK.rst:374
-msgid "If you revealed a Dragon card or controlled a Dragon as you cast Dragonlord's Prerogative, Dragonlord's Prerogative can't be countered."
-msgstr ""
-
-#: ../../DTK.rst:376
-msgid "Draw four cards."
-msgstr ""
-
-#: ../../DTK.rst:381
-msgid "Dragonlord's Servant"
-msgstr ""
-
-#: ../../DTK.rst:380
-msgid "Dragon spells you cast cost |mana_1| less to cast."
-msgstr ""
-
-#: ../../DTK.rst:385
-msgid "Dragon's Eye Sentry"
-msgstr ""
-
-#: ../../DTK.rst:384
-msgid "Defender, first strike"
-msgstr ""
-
-#: ../../DTK.rst:389
-msgid "Dragon-Scarred Bear"
-msgstr ""
-
-#: ../../DTK.rst:388
-msgid "Formidable — |mana_1| |mana_g|: Regenerate Dragon-Scarred Bear. Activate this ability only if creatures you control have total power 8 or greater."
-msgstr ""
-
-#: ../../DTK.rst:395
-msgid "Dromoka Captain"
-msgstr ""
-
-#: ../../DTK.rst:392
-msgid "First strike"
-msgstr ""
-
-#: ../../DTK.rst:394
-msgid "Whenever Dromoka Captain attacks, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:399
-msgid "Dromoka Dunecaster"
-msgstr ""
-
-#: ../../DTK.rst:398
-msgid "|mana_1| |mana_w|, |tap|: Tap target creature without flying."
-msgstr ""
-
-#: ../../DTK.rst:405
-msgid "Dromoka Monument"
-msgstr ""
-
-#: ../../DTK.rst:402
-msgid "|tap|: Add |mana_g| or |mana_w| to your mana pool."
-msgstr ""
-
-#: ../../DTK.rst:404
-msgid "|mana_4| |mana_g| |mana_w|: Dromoka Monument becomes a 4/4 green and white Dragon artifact creature with flying until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:407
-msgid "Dromoka Warrior"
-msgstr ""
-
-#: ../../DTK.rst:421
-msgid "Dromoka's Command"
-msgstr ""
-
-#: ../../DTK.rst:414
-msgid "Prevent all damage target instant or sorcery spell would deal this turn."
-msgstr ""
-
-#: ../../DTK.rst:416
-msgid "Target player sacrifices an enchantment."
-msgstr ""
-
-#: ../../DTK.rst:418
-msgid "Put a +1/+1 counter on target creature."
-msgstr ""
-
-#: ../../DTK.rst:420
-msgid "Target creature you control fights target creature you don't control."
-msgstr ""
-
-#: ../../DTK.rst:425
-msgid "Dromoka's Gift"
-msgstr ""
-
-#: ../../DTK.rst:424
-msgid "Bolster 4. (Choose a creature with the least toughness among creatures you control and put four +1/+1 counters on it.)"
-msgstr ""
-
-#: ../../DTK.rst:429
-msgid "Duress"
-msgstr ""
-
-#: ../../DTK.rst:428
-msgid "Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card."
-msgstr ""
-
-#: ../../DTK.rst:433
-msgid "Dutiful Attendant"
-msgstr ""
-
-#: ../../DTK.rst:432
-msgid "When Dutiful Attendant dies, return another target creature card from your graveyard to your hand."
-msgstr ""
-
-#: ../../DTK.rst:437
-msgid "Echoes of the Kin Tree"
-msgstr ""
-
-#: ../../DTK.rst:436
-msgid "|mana_2| |mana_w|: Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:441
-msgid "Elusive Spellfist"
-msgstr ""
-
-#: ../../DTK.rst:440
-msgid "Whenever you cast a noncreature spell, Elusive Spellfist gets +1/+0 until end of turn and can't be blocked this turn."
-msgstr ""
-
-#: ../../DTK.rst:451
-msgid "Encase in Ice"
-msgstr ""
-
-#: ../../DTK.rst:444
-#: ../../DTK.rst:1190
-msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
-
-#: ../../DTK.rst:446
-msgid "Enchant red or green creature"
-msgstr ""
-
-#: ../../DTK.rst:448
-msgid "When Encase in Ice enters the battlefield, tap enchanted creature."
-msgstr ""
-
-#: ../../DTK.rst:450
-msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
-
-#: ../../DTK.rst:457
-msgid "Enduring Scalelord"
-msgstr ""
-
-#: ../../DTK.rst:456
-msgid "Whenever one or more +1/+1 counters are placed on another creature you control, you may put a +1/+1 counter on Enduring Scalelord."
-msgstr ""
-
-#: ../../DTK.rst:461
-msgid "Enduring Victory"
-msgstr ""
-
-#: ../../DTK.rst:460
-msgid "Destroy target attacking or blocking creature. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:465
-msgid "Epic Confrontation"
-msgstr ""
-
-#: ../../DTK.rst:464
-msgid "Target creature you control gets +1/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.)"
-msgstr ""
-
-#: ../../DTK.rst:469
-msgid "Evolving Wilds"
-msgstr ""
-
-#: ../../DTK.rst:468
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library."
-msgstr ""
-
-#: ../../DTK.rst:473
-msgid "Explosive Vegetation"
-msgstr ""
-
-#: ../../DTK.rst:472
-msgid "Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library."
-msgstr ""
-
-#: ../../DTK.rst:477
-msgid "Fate Forgotten"
-msgstr ""
-
-#: ../../DTK.rst:476
-msgid "Exile target artifact or enchantment."
-msgstr ""
-
-#: ../../DTK.rst:481
-msgid "Flatten"
-msgstr ""
-
-#: ../../DTK.rst:480
-msgid "Target creature gets -4/-4 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:489
-msgid "Foe-Razer Regent"
-msgstr ""
-
-#: ../../DTK.rst:486
-msgid "When Foe-Razer Regent enters the battlefield, you may have it fight target creature you don't control."
-msgstr ""
-
-#: ../../DTK.rst:488
-msgid "Whenever a creature you control fights, put two +1/+1 counters on it at the beginning of the next end step."
-msgstr ""
-
-#: ../../DTK.rst:493
-msgid "Forest"
-msgstr ""
-
-#: ../../DTK.rst:492
-msgid "G"
-msgstr ""
-
-#: ../../DTK.rst:497
-msgid "Foul Renewal"
-msgstr ""
-
-#: ../../DTK.rst:496
-msgid "Return target creature card from your graveyard to your hand. Target creature gets -X/-X until end of turn, where X is the toughness of the card returned this way."
-msgstr ""
-
-#: ../../DTK.rst:503
-msgid "Foul-Tongue Invocation"
-msgstr ""
-
-#: ../../DTK.rst:500
-msgid "As an additional cost to cast Foul-Tongue Invocation, you may reveal a Dragon card from your hand."
-msgstr ""
-
-#: ../../DTK.rst:502
-msgid "Target player sacrifices a creature. If you revealed a Dragon card or controlled a Dragon as you cast Foul-Tongue Invocation, you gain 4 life."
-msgstr ""
-
-#: ../../DTK.rst:507
-msgid "Foul-Tongue Shriek"
-msgstr ""
-
-#: ../../DTK.rst:506
-msgid "Target opponent loses 1 life for each attacking creature you control. You gain that much life."
-msgstr ""
-
-#: ../../DTK.rst:515
-msgid "Gate Smasher"
-msgstr ""
-
-#: ../../DTK.rst:510
-msgid "Gate Smasher can be attached only to a creature with toughness 4 or greater."
-msgstr ""
-
-#: ../../DTK.rst:512
-msgid "Equipped creature gets +3/+0 and has trample."
-msgstr ""
-
-#: ../../DTK.rst:514
-msgid "Equip |mana_3|"
-msgstr ""
-
-#: ../../DTK.rst:521
-msgid "Glade Watcher"
-msgstr ""
-
-#: ../../DTK.rst:520
-msgid "Formidable — |mana_g|: Glade Watcher can attack this turn as though it didn't have defender. Activate this ability only if creatures you control have total power 8 or greater."
-msgstr ""
-
-#: ../../DTK.rst:529
-msgid "Glaring Aegis"
-msgstr ""
-
-#: ../../DTK.rst:526
-msgid "When Glaring Aegis enters the battlefield, tap target creature an opponent controls."
-msgstr ""
-
-#: ../../DTK.rst:528
-msgid "Enchanted creature gets +1/+3."
-msgstr ""
-
-#: ../../DTK.rst:537
-msgid "Gleam of Authority"
-msgstr ""
-
-#: ../../DTK.rst:534
-msgid "Enchanted creature gets +1/+1 for each +1/+1 counter on other creatures you control."
-msgstr ""
-
-#: ../../DTK.rst:536
-msgid "Enchanted creature has vigilance and \\\"|mana_w|, |tap|: Bolster 1.\\\" (To bolster 1, choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:541
-msgid "Glint"
-msgstr ""
-
-#: ../../DTK.rst:540
-msgid "Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
-msgstr ""
-
-#: ../../DTK.rst:545
-msgid "Graceblade Artisan"
-msgstr ""
-
-#: ../../DTK.rst:544
-msgid "Graceblade Artisan gets +2/+2 for each Aura attached to it."
-msgstr ""
-
-#: ../../DTK.rst:551
-msgid "Gravepurge"
-msgstr ""
-
-#: ../../DTK.rst:548
-msgid "Put any number of target creature cards from your graveyard on top of your library."
-msgstr ""
-
-#: ../../DTK.rst:557
-msgid "Great Teacher's Decree"
-msgstr ""
-
-#: ../../DTK.rst:554
-msgid "Creatures you control get +2/+1 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:563
-msgid "Guardian Shield-Bearer"
-msgstr ""
-
-#: ../../DTK.rst:560
-msgid "Megamorph |mana_3| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:562
-msgid "When Guardian Shield-Bearer is turned face up, put a +1/+1 counter on another target creature you control."
-msgstr ""
-
-#: ../../DTK.rst:569
-msgid "Gudul Lurker"
-msgstr ""
-
-#: ../../DTK.rst:566
-msgid "Gudul Lurker can't be blocked."
-msgstr ""
-
-#: ../../DTK.rst:568
-msgid "Megamorph |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:575
-msgid "Gurmag Drowner"
-msgstr ""
-
-#: ../../DTK.rst:572
-#: ../../DTK.rst:768
-#: ../../DTK.rst:926
-#: ../../DTK.rst:946
-#: ../../DTK.rst:956
-#: ../../DTK.rst:1144
-#: ../../DTK.rst:1150
-#: ../../DTK.rst:1178
-#: ../../DTK.rst:1194
-#: ../../DTK.rst:1396
-msgid "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)"
-msgstr ""
-
-#: ../../DTK.rst:574
-msgid "When Gurmag Drowner exploits a creature, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard."
-msgstr ""
-
-#: ../../DTK.rst:579
-msgid "Hand of Silumgar"
-msgstr ""
-
-#: ../../DTK.rst:578
-msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
-msgstr ""
-
-#: ../../DTK.rst:587
-msgid "Harbinger of the Hunt"
-msgstr ""
-
-#: ../../DTK.rst:584
-msgid "|mana_2| |mana_r|: Harbinger of the Hunt deals 1 damage to each creature without flying."
-msgstr ""
-
-#: ../../DTK.rst:586
-msgid "|mana_2| |mana_g|: Harbinger of the Hunt deals 1 damage to each other creature with flying."
-msgstr ""
-
-#: ../../DTK.rst:591
-msgid "Hardened Berserker"
-msgstr ""
-
-#: ../../DTK.rst:590
-msgid "Whenever Hardened Berserker attacks, the next spell you cast this turn costs |mana_1| less to cast."
-msgstr ""
-
-#: ../../DTK.rst:599
-msgid "Haven of the Spirit Dragon"
-msgstr ""
-
-#: ../../DTK.rst:594
-msgid "|tap|: Add |mana_1| to your mana pool."
-msgstr ""
-
-#: ../../DTK.rst:596
-msgid "|tap|: Add one mana of any color to your mana pool. Spend this mana only to cast a Dragon creature spell."
-msgstr ""
-
-#: ../../DTK.rst:598
-msgid "|mana_2|, |tap|, Sacrifice Haven of the Spirit Dragon: Return target Dragon creature card or Ugin planeswalker card from your graveyard to your hand."
-msgstr ""
-
-#: ../../DTK.rst:607
-msgid "Hedonist's Trove"
-msgstr ""
-
-#: ../../DTK.rst:602
-msgid "When Hedonist's Trove enters the battlefield, exile all cards from target opponent's graveyard."
-msgstr ""
-
-#: ../../DTK.rst:604
-msgid "You may play land cards exiled with Hedonist's Trove."
-msgstr ""
-
-#: ../../DTK.rst:606
-msgid "You may cast nonland cards exiled with Hedonist's Trove. You can't cast more than one spell this way each turn."
-msgstr ""
-
-#: ../../DTK.rst:613
-msgid "Herald of Dromoka"
-msgstr ""
-
-#: ../../DTK.rst:612
-msgid "Other Warrior creatures you control have vigilance."
-msgstr ""
-
-#: ../../DTK.rst:621
-msgid "Herdchaser Dragon"
-msgstr ""
-
-#: ../../DTK.rst:618
-msgid "Megamorph |mana_5| |mana_g| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:620
-msgid "When Herdchaser Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control."
-msgstr ""
-
-#: ../../DTK.rst:629
-msgid "Hidden Dragonslayer"
-msgstr ""
-
-#: ../../DTK.rst:624
-msgid "Lifelink"
-msgstr ""
-
-#: ../../DTK.rst:626
-msgid "Megamorph |mana_2| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:628
-msgid "When Hidden Dragonslayer is turned face up, destroy target creature with power 4 or greater an opponent controls."
-msgstr ""
-
-#: ../../DTK.rst:637
-msgid "Icefall Regent"
-msgstr ""
-
-#: ../../DTK.rst:634
-msgid "When Icefall Regent enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Icefall Regent."
-msgstr ""
-
-#: ../../DTK.rst:636
-msgid "Spells your opponents cast that target Icefall Regent cost |mana_2| more to cast."
-msgstr ""
-
-#: ../../DTK.rst:645
-msgid "Illusory Gains"
-msgstr ""
-
-#: ../../DTK.rst:642
-msgid "You control enchanted creature."
-msgstr ""
-
-#: ../../DTK.rst:644
-msgid "Whenever a creature enters the battlefield under an opponent's control, attach Illusory Gains to that creature."
-msgstr ""
-
-#: ../../DTK.rst:649
-msgid "Impact Tremors"
-msgstr ""
-
-#: ../../DTK.rst:648
-msgid "Whenever a creature enters the battlefield under your control, Impact Tremors deals 1 damage to each opponent."
-msgstr ""
-
-#: ../../DTK.rst:653
-msgid "Inspiring Call"
-msgstr ""
-
-#: ../../DTK.rst:652
-msgid "Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say \\\"destroy\\\" don't destroy them.)"
-msgstr ""
-
-#: ../../DTK.rst:661
-msgid "Ire Shaman"
-msgstr ""
-
-#: ../../DTK.rst:656
-msgid "Menace (This creature can't be blocked except by two or more creatures.)"
-msgstr ""
-
-#: ../../DTK.rst:658
-#: ../../DTK.rst:700
-msgid "Megamorph |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:660
-msgid "When Ire Shaman is turned face up, exile the top card of your library. Until end of turn, you may play that card."
-msgstr ""
-
-#: ../../DTK.rst:665
-msgid "Island"
-msgstr ""
-
-#: ../../DTK.rst:664
-msgid "U"
-msgstr ""
-
-#: ../../DTK.rst:669
-msgid "Keeper of the Lens"
-msgstr ""
-
-#: ../../DTK.rst:668
-msgid "You may look at face-down creatures you don't control. (You may do this at any time.)"
-msgstr ""
-
-#: ../../DTK.rst:673
-msgid "Kindled Fury"
-msgstr ""
-
-#: ../../DTK.rst:672
-msgid "Target creature gets +1/+0 and gains first strike until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:677
-msgid "Kolaghan Aspirant"
-msgstr ""
-
-#: ../../DTK.rst:676
-msgid "Whenever Kolaghan Aspirant becomes blocked by a creature, Kolaghan Aspirant deals 1 damage to that creature."
-msgstr ""
-
-#: ../../DTK.rst:685
-msgid "Kolaghan Forerunners"
-msgstr ""
-
-#: ../../DTK.rst:680
-#: ../../DTK.rst:1010
-#: ../../DTK.rst:1244
-msgid "Trample"
-msgstr ""
-
-#: ../../DTK.rst:682
-msgid "Kolaghan Forerunners's power is equal to the number of creatures you control."
-msgstr ""
-
-#: ../../DTK.rst:684
-#: ../../DTK.rst:1408
-msgid "Dash |mana_2| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../DTK.rst:691
-msgid "Kolaghan Monument"
-msgstr ""
-
-#: ../../DTK.rst:688
-msgid "|tap|: Add |mana_b| or |mana_r| to your mana pool."
-msgstr ""
-
-#: ../../DTK.rst:690
-msgid "|mana_4| |mana_b| |mana_r|: Kolaghan Monument becomes a 4/4 black and red Dragon artifact creature with flying until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:695
-msgid "Kolaghan Skirmisher"
-msgstr ""
-
-#: ../../DTK.rst:694
-msgid "Dash |mana_2| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../DTK.rst:703
-msgid "Kolaghan Stormsinger"
-msgstr ""
-
-#: ../../DTK.rst:698
-msgid "Haste"
-msgstr ""
-
-#: ../../DTK.rst:702
-msgid "When Kolaghan Stormsinger is turned face up, target creature gains haste until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:715
-msgid "Kolaghan's Command"
-msgstr ""
-
-#: ../../DTK.rst:708
-msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
-
-#: ../../DTK.rst:710
-msgid "Target player discards a card."
-msgstr ""
-
-#: ../../DTK.rst:712
-#: ../../DTK.rst:1366
-msgid "Destroy target artifact."
-msgstr ""
-
-#: ../../DTK.rst:714
-msgid "Kolaghan's Command deals 2 damage to target creature or player."
-msgstr ""
-
-#: ../../DTK.rst:721
-msgid "Learn from the Past"
-msgstr ""
-
-#: ../../DTK.rst:718
-msgid "Target player shuffles his or her graveyard into his or her library."
-msgstr ""
-
-#: ../../DTK.rst:727
-msgid "Lightning Berserker"
-msgstr ""
-
-#: ../../DTK.rst:724
-msgid "|mana_r|: Lightning Berserker gets +1/+0 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:726
-msgid "Dash |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../DTK.rst:731
-msgid "Lightwalker"
-msgstr ""
-
-#: ../../DTK.rst:730
-msgid "Lightwalker has flying as long as it has a +1/+1 counter on it."
-msgstr ""
-
-#: ../../DTK.rst:739
-msgid "Living Lore"
-msgstr ""
-
-#: ../../DTK.rst:734
-msgid "As Living Lore enters the battlefield, exile an instant or sorcery card from your graveyard."
-msgstr ""
-
-#: ../../DTK.rst:736
-msgid "Living Lore's power and toughness are each equal to the exiled card's converted mana cost."
-msgstr ""
-
-#: ../../DTK.rst:738
-msgid "Whenever Living Lore deals combat damage, you may sacrifice it. If you do, you may cast the exiled card without paying its mana cost."
-msgstr ""
-
-#: ../../DTK.rst:743
-msgid "Lose Calm"
-msgstr ""
-
-#: ../../DTK.rst:742
-msgid "Gain control of target creature until end of turn. Untap that creature. It gains haste and menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)"
-msgstr ""
-
-#: ../../DTK.rst:747
-msgid "Lurking Arynx"
-msgstr ""
-
-#: ../../DTK.rst:746
-msgid "Formidable — |mana_2| |mana_g|: Target creature blocks Lurking Arynx this turn if able. Activate this ability only if creatures you control have total power 8 or greater."
-msgstr ""
-
-#: ../../DTK.rst:751
-msgid "Magmatic Chasm"
-msgstr ""
-
-#: ../../DTK.rst:750
-msgid "Creatures without flying can't block this turn."
-msgstr ""
-
-#: ../../DTK.rst:757
-msgid "Marang River Skeleton"
-msgstr ""
-
-#: ../../DTK.rst:754
-msgid "|mana_b|: Regenerate Marang River Skeleton."
-msgstr ""
-
-#: ../../DTK.rst:756
-msgid "Megamorph |mana_3| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:761
-msgid "Marsh Hulk"
-msgstr ""
-
-#: ../../DTK.rst:760
-msgid "Megamorph |mana_6| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:765
-msgid "Mind Rot"
-msgstr ""
-
-#: ../../DTK.rst:764
-msgid "Target player discards two cards."
-msgstr ""
-
-#: ../../DTK.rst:771
-msgid "Minister of Pain"
-msgstr ""
-
-#: ../../DTK.rst:770
-msgid "When Minister of Pain exploits a creature, creatures your opponents control get -1/-1 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:777
-msgid "Mirror Mockery"
-msgstr ""
-
-#: ../../DTK.rst:776
-msgid "Whenever enchanted creature attacks, you may put a token onto the battlefield that's a copy of that creature. Exile that token at end of combat."
-msgstr ""
-
-#: ../../DTK.rst:783
-msgid "Misthoof Kirin"
-msgstr ""
-
-#: ../../DTK.rst:780
-msgid "Flying, vigilance"
-msgstr ""
-
-#: ../../DTK.rst:782
-msgid "Megamorph |mana_1| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:789
-msgid "Monastery Loremaster"
-msgstr ""
-
-#: ../../DTK.rst:786
-msgid "Megamorph |mana_5| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:788
-msgid "When Monastery Loremaster is turned face up, return target noncreature, nonland card from your graveyard to your hand."
-msgstr ""
-
-#: ../../DTK.rst:793
-msgid "Mountain"
-msgstr ""
-
-#: ../../DTK.rst:792
-msgid "R"
-msgstr ""
-
-#: ../../DTK.rst:797
-msgid "Mystic Meditation"
-msgstr ""
-
-#: ../../DTK.rst:796
-msgid "Draw three cards. Then discard two cards unless you discard a creature card."
-msgstr ""
-
-#: ../../DTK.rst:805
-msgid "Myth Realized"
-msgstr ""
-
-#: ../../DTK.rst:800
-msgid "Whenever you cast a noncreature spell, put a lore counter on Myth Realized."
-msgstr ""
-
-#: ../../DTK.rst:802
-msgid "|mana_2| |mana_w|: Put a lore counter on Myth Realized."
-msgstr ""
-
-#: ../../DTK.rst:804
-msgid "|mana_w|: Until end of turn, Myth Realized becomes a Monk Avatar creature in addition to its other types and gains \\\"This creature's power and toughness are each equal to the number of lore counters on it.\\\""
-msgstr ""
-
-#: ../../DTK.rst:813
-msgid "Narset Transcendent"
-msgstr ""
-
-#: ../../DTK.rst:808
-msgid "+1: Look at the top card of your library. If it's a noncreature, nonland card, you may reveal it and put it into your hand."
-msgstr ""
-
-#: ../../DTK.rst:810
-msgid "−2: When you cast your next instant or sorcery spell from your hand this turn, it gains rebound."
-msgstr ""
-
-#: ../../DTK.rst:812
-msgid "−9: You get an emblem with \\\"Your opponents can't cast noncreature spells.\\\""
-msgstr ""
-
-#: ../../DTK.rst:817
-msgid "Naturalize"
-msgstr ""
-
-#: ../../DTK.rst:816
-msgid "Destroy target artifact or enchantment."
-msgstr ""
-
-#: ../../DTK.rst:823
-msgid "Necromaster Dragon"
-msgstr ""
-
-#: ../../DTK.rst:822
-msgid "Whenever Necromaster Dragon deals combat damage to a player, you may pay |mana_2|. If you do, put a 2/2 black Zombie creature token onto the battlefield and each opponent puts the top two cards of his or her library into his or her graveyard."
-msgstr ""
-
-#: ../../DTK.rst:827
-msgid "Negate"
-msgstr ""
-
-#: ../../DTK.rst:826
-#: ../../DTK.rst:1208
-msgid "Counter target noncreature spell."
-msgstr ""
-
-#: ../../DTK.rst:833
-msgid "Obscuring Æther"
-msgstr ""
-
-#: ../../DTK.rst:830
-msgid "Face-down creature spells you cast cost |mana_1| less to cast."
-msgstr ""
-
-#: ../../DTK.rst:832
-msgid "|mana_1| |mana_g|: Turn Obscuring Æther face down. (It becomes a 2/2 creature.)"
-msgstr ""
-
-#: ../../DTK.rst:843
-msgid "Ojutai Exemplars"
-msgstr ""
-
-#: ../../DTK.rst:836
-msgid "Whenever you cast a noncreature spell, choose one —"
-msgstr ""
-
-#: ../../DTK.rst:838
-msgid "Tap target creature."
-msgstr ""
-
-#: ../../DTK.rst:840
-msgid "Ojutai Exemplars gains first strike and lifelink until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:842
-msgid "Exile Ojutai Exemplars, then return it to the battlefield tapped under its owner's control."
-msgstr ""
-
-#: ../../DTK.rst:849
-msgid "Ojutai Interceptor"
-msgstr ""
-
-#: ../../DTK.rst:848
-msgid "Megamorph |mana_3| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:855
-msgid "Ojutai Monument"
-msgstr ""
-
-#: ../../DTK.rst:852
-msgid "|tap|: Add |mana_w| or |mana_u| to your mana pool."
-msgstr ""
-
-#: ../../DTK.rst:854
-msgid "|mana_4| |mana_w| |mana_u|: Ojutai Monument becomes a 4/4 white and blue Dragon artifact creature with flying until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:861
-msgid "Ojutai's Breath"
-msgstr ""
-
-#: ../../DTK.rst:858
-msgid "Tap target creature. It doesn't untap during its controller's next untap step."
-msgstr ""
-
-#: ../../DTK.rst:873
-msgid "Ojutai's Command"
-msgstr ""
-
-#: ../../DTK.rst:866
-msgid "Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
-msgstr ""
-
-#: ../../DTK.rst:868
-msgid "You gain 4 life."
-msgstr ""
-
-#: ../../DTK.rst:870
-msgid "Counter target creature spell."
-msgstr ""
-
-#: ../../DTK.rst:879
-msgid "Ojutai's Summons"
-msgstr ""
-
-#: ../../DTK.rst:876
-msgid "Put a 2/2 blue Djinn Monk creature token with flying onto the battlefield."
-msgstr ""
-
-#: ../../DTK.rst:887
-msgid "Orator of Ojutai"
-msgstr ""
-
-#: ../../DTK.rst:882
-msgid "As an additional cost to cast Orator of Ojutai, you may reveal a Dragon card from your hand."
-msgstr ""
-
-#: ../../DTK.rst:884
-msgid "Defender, flying"
-msgstr ""
-
-#: ../../DTK.rst:886
-msgid "When Orator of Ojutai enters the battlefield, if you revealed a Dragon card or controlled a Dragon as you cast Orator of Ojutai, draw a card."
-msgstr ""
-
-#: ../../DTK.rst:893
-msgid "Pacifism"
-msgstr ""
-
-#: ../../DTK.rst:892
-msgid "Enchanted creature can't attack or block."
-msgstr ""
-
-#: ../../DTK.rst:899
-msgid "Palace Familiar"
-msgstr ""
-
-#: ../../DTK.rst:898
-msgid "When Palace Familiar dies, draw a card."
-msgstr ""
-
-#: ../../DTK.rst:903
-msgid "Pinion Feast"
-msgstr ""
-
-#: ../../DTK.rst:902
-msgid "Destroy target creature with flying. Bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)"
-msgstr ""
-
-#: ../../DTK.rst:909
-msgid "Pitiless Horde"
-msgstr ""
-
-#: ../../DTK.rst:906
-msgid "At the beginning of your upkeep, you lose 2 life."
-msgstr ""
-
-#: ../../DTK.rst:908
-msgid "Dash |mana_2| |mana_b| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../DTK.rst:913
-msgid "Plains"
-msgstr ""
-
-#: ../../DTK.rst:912
-msgid "W"
-msgstr ""
-
-#: ../../DTK.rst:917
-msgid "Press the Advantage"
-msgstr ""
-
-#: ../../DTK.rst:916
-msgid "Up to two target creatures each get +2/+2 and gain trample until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:923
-msgid "Pristine Skywise"
-msgstr ""
-
-#: ../../DTK.rst:922
-msgid "Whenever you cast a noncreature spell, untap Pristine Skywise. It gains protection from the color of your choice until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:929
-msgid "Profaner of the Dead"
-msgstr ""
-
-#: ../../DTK.rst:928
-msgid "When Profaner of the Dead exploits a creature, return to their owners' hands all creatures your opponents control with toughness less than the exploited creature's toughness."
-msgstr ""
-
-#: ../../DTK.rst:935
-msgid "Profound Journey"
-msgstr ""
-
-#: ../../DTK.rst:932
-msgid "Return target permanent card from your graveyard to the battlefield."
-msgstr ""
-
-#: ../../DTK.rst:939
-msgid "Qal Sisma Behemoth"
-msgstr ""
-
-#: ../../DTK.rst:938
-msgid "Qal Sisma Behemoth can't attack or block unless you pay |mana_2|."
-msgstr ""
-
-#: ../../DTK.rst:943
-msgid "Qarsi Deceiver"
-msgstr ""
-
-#: ../../DTK.rst:942
-msgid "|tap|: Add |mana_1| to your mana pool. Spend this mana only to cast a face-down creature spell, pay a mana cost to turn a manifested creature face up, or pay a morph cost. (A megamorph cost is a morph cost.)"
-msgstr ""
-
-#: ../../DTK.rst:949
-msgid "Qarsi Sadist"
-msgstr ""
-
-#: ../../DTK.rst:948
-msgid "When Qarsi Sadist exploits a creature, target opponent loses 2 life and you gain 2 life."
-msgstr ""
-
-#: ../../DTK.rst:953
-msgid "Radiant Purge"
-msgstr ""
-
-#: ../../DTK.rst:952
-msgid "Exile target multicolored creature or multicolored enchantment."
-msgstr ""
-
-#: ../../DTK.rst:959
-msgid "Rakshasa Gravecaller"
-msgstr ""
-
-#: ../../DTK.rst:958
-msgid "When Rakshasa Gravecaller exploits a creature, put two 2/2 black Zombie creature tokens onto the battlefield."
-msgstr ""
-
-#: ../../DTK.rst:967
-msgid "Reckless Imp"
-msgstr ""
-
-#: ../../DTK.rst:964
-msgid "Reckless Imp can't block."
-msgstr ""
-
-#: ../../DTK.rst:966
-msgid "Dash |mana_1| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../DTK.rst:973
-msgid "Reduce in Stature"
-msgstr ""
-
-#: ../../DTK.rst:972
-msgid "Enchanted creature has base power and toughness 0/2."
-msgstr ""
-
-#: ../../DTK.rst:979
-msgid "Rending Volley"
-msgstr ""
-
-#: ../../DTK.rst:976
-msgid "Rending Volley can't be countered by spells or abilities."
-msgstr ""
-
-#: ../../DTK.rst:978
-msgid "Rending Volley deals 4 damage to target white or blue creature."
-msgstr ""
-
-#: ../../DTK.rst:985
-msgid "Resupply"
-msgstr ""
-
-#: ../../DTK.rst:982
-msgid "You gain 6 life."
-msgstr ""
-
-#: ../../DTK.rst:989
-msgid "Revealing Wind"
-msgstr ""
-
-#: ../../DTK.rst:988
-msgid "Prevent all combat damage that would be dealt this turn. You may look at each face-down creature that's attacking or blocking."
-msgstr ""
-
-#: ../../DTK.rst:997
-msgid "Risen Executioner"
-msgstr ""
-
-#: ../../DTK.rst:992
-msgid "Risen Executioner can't block."
-msgstr ""
-
-#: ../../DTK.rst:994
-msgid "Other Zombie creatures you control get +1/+1."
-msgstr ""
-
-#: ../../DTK.rst:996
-msgid "You may cast Risen Executioner from your graveyard if you pay |mana_1| more to cast it for each other creature card in your graveyard."
-msgstr ""
-
-#: ../../DTK.rst:1001
-msgid "Roast"
-msgstr ""
-
-#: ../../DTK.rst:1000
-msgid "Roast deals 5 damage to target creature without flying."
-msgstr ""
-
-#: ../../DTK.rst:1007
-msgid "Ruthless Deathfang"
-msgstr ""
-
-#: ../../DTK.rst:1006
-msgid "Whenever you sacrifice a creature, target opponent sacrifices a creature."
-msgstr ""
-
-#: ../../DTK.rst:1013
-msgid "Sabertooth Outrider"
-msgstr ""
-
-#: ../../DTK.rst:1012
-msgid "Formidable — Whenever Sabertooth Outrider attacks, if creatures you control have total power 8 or greater, Sabertooth Outrider gains first strike until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:1019
-msgid "Salt Road Ambushers"
-msgstr ""
-
-#: ../../DTK.rst:1016
-msgid "Whenever another permanent you control is turned face up, if it's a creature, put two +1/+1 counters on it."
-msgstr ""
-
-#: ../../DTK.rst:1018
-msgid "Megamorph |mana_3| |mana_g| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:1025
-msgid "Salt Road Quartermasters"
-msgstr ""
-
-#: ../../DTK.rst:1022
-msgid "Salt Road Quartermasters enters the battlefield with two +1/+1 counters on it."
-msgstr ""
-
-#: ../../DTK.rst:1024
-msgid "|mana_2| |mana_g|, Remove a +1/+1 counter from Salt Road Quartermasters: Put a +1/+1 counter on target creature."
-msgstr ""
-
-#: ../../DTK.rst:1029
-msgid "Sandcrafter Mage"
-msgstr ""
-
-#: ../../DTK.rst:1028
-msgid "When Sandcrafter Mage enters the battlefield, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:1033
-msgid "Sandsteppe Scavenger"
-msgstr ""
-
-#: ../../DTK.rst:1032
-msgid "When Sandsteppe Scavenger enters the battlefield, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)"
-msgstr ""
-
-#: ../../DTK.rst:1037
-msgid "Sandstorm Charger"
-msgstr ""
-
-#: ../../DTK.rst:1045
-msgid "Sarkhan Unbroken"
-msgstr ""
-
-#: ../../DTK.rst:1040
-msgid "+1: Draw a card, then add one mana of any color to your mana pool."
-msgstr ""
-
-#: ../../DTK.rst:1042
-msgid "−2: Put a 4/4 red Dragon creature token with flying onto the battlefield."
-msgstr ""
-
-#: ../../DTK.rst:1044
-msgid "−8: Search your library for any number of Dragon creature cards and put them onto the battlefield. Then shuffle your library."
-msgstr ""
-
-#: ../../DTK.rst:1049
-msgid "Sarkhan's Rage"
-msgstr ""
-
-#: ../../DTK.rst:1048
-msgid "Sarkhan's Rage deals 5 damage to target creature or player. If you control no Dragons, Sarkhan's Rage deals 2 damage to you."
-msgstr ""
-
-#: ../../DTK.rst:1053
-msgid "Sarkhan's Triumph"
-msgstr ""
-
-#: ../../DTK.rst:1052
-msgid "Search your library for a Dragon creature card, reveal it, put it into your hand, then shuffle your library."
-msgstr ""
-
-#: ../../DTK.rst:1059
-msgid "Savage Ventmaw"
-msgstr ""
-
-#: ../../DTK.rst:1058
-msgid "Whenever Savage Ventmaw attacks, add |mana_r| |mana_r| |mana_r| |mana_g| |mana_g| |mana_g| to your mana pool. Until end of turn, this mana doesn't empty from your mana pool as steps and phases end."
-msgstr ""
-
-#: ../../DTK.rst:1063
-msgid "Scale Blessing"
-msgstr ""
-
-#: ../../DTK.rst:1062
-msgid "Bolster 1, then put a +1/+1 counter on each creature you control with a +1/+1 counter on it. (To bolster 1, choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:1069
-msgid "Scaleguard Sentinels"
-msgstr ""
-
-#: ../../DTK.rst:1066
-msgid "As an additional cost to cast Scaleguard Sentinels, you may reveal a Dragon card from your hand."
-msgstr ""
-
-#: ../../DTK.rst:1068
-msgid "Scaleguard Sentinels enters the battlefield with a +1/+1 counter on it if you revealed a Dragon card or controlled a Dragon as you cast Scaleguard Sentinels."
-msgstr ""
-
-#: ../../DTK.rst:1073
 msgid "Scion of Ugin"
 msgstr ""
 
-#: ../../DTK.rst:1077
-msgid "Screamreach Brawler"
+#: ../../DTK.rst:12 ../../DTK.rst:44 ../../DTK.rst:55 ../../DTK.rst:352
+#: ../../DTK.rst:368 ../../DTK.rst:497 ../../DTK.rst:571 ../../DTK.rst:598
+#: ../../DTK.rst:663 ../../DTK.rst:699 ../../DTK.rst:719 ../../DTK.rst:827
+#: ../../DTK.rst:980 ../../DTK.rst:1075 ../../DTK.rst:1369 ../../DTK.rst:1580
+#: ../../DTK.rst:1781 ../../DTK.rst:1805 ../../DTK.rst:1814 ../../DTK.rst:1854
+#: ../../DTK.rst:1889 ../../DTK.rst:1898 ../../DTK.rst:1935 ../../DTK.rst:1959
+#: ../../DTK.rst:1968 ../../DTK.rst:1988 ../../DTK.rst:2012
+msgid "Flying"
 msgstr ""
 
-#: ../../DTK.rst:1076
-#: ../../DTK.rst:1424
-msgid "Dash |mana_1| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+#: ../../DTK.rst:20
+msgid "Anafenza, Kin-Tree Spirit"
 msgstr ""
 
-#: ../../DTK.rst:1081
+#: ../../DTK.rst:19
+msgid ""
+"Whenever another nontoken creature enters the battlefield under your "
+"control, bolster 1. (Choose a creature with the least toughness among "
+"creatures you control and put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:29
+msgid "Arashin Foremost"
+msgstr ""
+
+#: ../../DTK.rst:26
+msgid "Double strike"
+msgstr ""
+
+#: ../../DTK.rst:28
+msgid ""
+"Whenever Arashin Foremost enters the battlefield or attacks, another target "
+"Warrior creature you control gains double strike until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:38
+msgid "Artful Maneuver"
+msgstr ""
+
+#: ../../DTK.rst:35
+msgid "Target creature gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:37 ../../DTK.rst:75 ../../DTK.rst:180 ../../DTK.rst:269
+#: ../../DTK.rst:402 ../../DTK.rst:582 ../../DTK.rst:591 ../../DTK.rst:654
+#: ../../DTK.rst:712 ../../DTK.rst:728
+msgid ""
+"Rebound (If you cast this spell from your hand, exile it as it resolves. At "
+"the beginning of your next upkeep, you may cast this card from exile without "
+"paying its mana cost.)"
+msgstr ""
+
+#: ../../DTK.rst:49
+msgid "Aven Sunstriker"
+msgstr ""
+
+#: ../../DTK.rst:46
+msgid ""
+"Double strike (This creature deals both first-strike and regular combat "
+"damage.)"
+msgstr ""
+
+#: ../../DTK.rst:48 ../../DTK.rst:299
+msgid ""
+"Megamorph |mana_4| |mana_w| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:58
+msgid "Aven Tactician"
+msgstr ""
+
+#: ../../DTK.rst:57
+msgid ""
+"When Aven Tactician enters the battlefield, bolster 1. (Choose a creature "
+"with the least toughness among creatures you control and put a +1/+1 counter "
+"on it.)"
+msgstr ""
+
+#: ../../DTK.rst:67
+msgid "Battle Mastery"
+msgstr ""
+
+#: ../../DTK.rst:64 ../../DTK.rst:149 ../../DTK.rst:160 ../../DTK.rst:258
+#: ../../DTK.rst:508 ../../DTK.rst:539 ../../DTK.rst:623
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../DTK.rst:66
+msgid ""
+"Enchanted creature has double strike. (It deals both first-strike and "
+"regular combat damage.)"
+msgstr ""
+
+#: ../../DTK.rst:76
+msgid "Center Soul"
+msgstr ""
+
+#: ../../DTK.rst:73
+msgid ""
+"Target creature you control gains protection from the color of your choice "
+"until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:83
+msgid "Champion of Arashin"
+msgstr ""
+
+#: ../../DTK.rst:82
+msgid ""
+"Lifelink (Damage dealt by this creature also causes you to gain that much "
+"life.)"
+msgstr ""
+
+#: ../../DTK.rst:92
+msgid "Dragon Hunter"
+msgstr ""
+
+#: ../../DTK.rst:89
+msgid "Protection from Dragons"
+msgstr ""
+
+#: ../../DTK.rst:91
+msgid "Dragon Hunter can block Dragons as though it had reach."
+msgstr ""
+
+#: ../../DTK.rst:99
+msgid "Dragon's Eye Sentry"
+msgstr ""
+
+#: ../../DTK.rst:98
+msgid "Defender, first strike"
+msgstr ""
+
+#: ../../DTK.rst:108
+msgid "Dromoka Captain"
+msgstr ""
+
+#: ../../DTK.rst:105
+msgid "First strike"
+msgstr ""
+
+#: ../../DTK.rst:107
+msgid ""
+"Whenever Dromoka Captain attacks, bolster 1. (Choose a creature with the "
+"least toughness among creatures you control and put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:115
+msgid "Dromoka Dunecaster"
+msgstr ""
+
+#: ../../DTK.rst:114
+msgid "|mana_1| |mana_w|, |tap|: Tap target creature without flying."
+msgstr ""
+
+#: ../../DTK.rst:120
+msgid "Dromoka Warrior"
+msgstr ""
+
+#: ../../DTK.rst:129
+msgid "Echoes of the Kin Tree"
+msgstr ""
+
+#: ../../DTK.rst:128
+msgid ""
+"|mana_2| |mana_w|: Bolster 1. (Choose a creature with the least toughness "
+"among creatures you control and put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:136
+msgid "Enduring Victory"
+msgstr ""
+
+#: ../../DTK.rst:135
+msgid ""
+"Destroy target attacking or blocking creature. Bolster 1. (Choose a creature "
+"with the least toughness among creatures you control and put a +1/+1 counter "
+"on it.)"
+msgstr ""
+
+#: ../../DTK.rst:143
+msgid "Fate Forgotten"
+msgstr ""
+
+#: ../../DTK.rst:142
+msgid "Exile target artifact or enchantment."
+msgstr ""
+
+#: ../../DTK.rst:154
+msgid "Glaring Aegis"
+msgstr ""
+
+#: ../../DTK.rst:151
+msgid ""
+"When Glaring Aegis enters the battlefield, tap target creature an opponent "
+"controls."
+msgstr ""
+
+#: ../../DTK.rst:153
+msgid "Enchanted creature gets +1/+3."
+msgstr ""
+
+#: ../../DTK.rst:165
+msgid "Gleam of Authority"
+msgstr ""
+
+#: ../../DTK.rst:162
+msgid ""
+"Enchanted creature gets +1/+1 for each +1/+1 counter on other creatures you "
+"control."
+msgstr ""
+
+#: ../../DTK.rst:164
+msgid ""
+"Enchanted creature has vigilance and \"|mana_w|, |tap|: Bolster 1.\" (To "
+"bolster 1, choose a creature with the least toughness among creatures you "
+"control and put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:172
+msgid "Graceblade Artisan"
+msgstr ""
+
+#: ../../DTK.rst:171
+msgid "Graceblade Artisan gets +2/+2 for each Aura attached to it."
+msgstr ""
+
+#: ../../DTK.rst:181
+msgid "Great Teacher's Decree"
+msgstr ""
+
+#: ../../DTK.rst:178
+msgid "Creatures you control get +2/+1 until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:190
+msgid "Herald of Dromoka"
+msgstr ""
+
+#: ../../DTK.rst:187 ../../DTK.rst:1489
+msgid "Vigilance"
+msgstr ""
+
+#: ../../DTK.rst:189
+msgid "Other Warrior creatures you control have vigilance."
+msgstr ""
+
+#: ../../DTK.rst:201
+msgid "Hidden Dragonslayer"
+msgstr ""
+
+#: ../../DTK.rst:196
+msgid "Lifelink"
+msgstr ""
+
+#: ../../DTK.rst:198
+msgid ""
+"Megamorph |mana_2| |mana_w| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:200
+msgid ""
+"When Hidden Dragonslayer is turned face up, destroy target creature with "
+"power 4 or greater an opponent controls."
+msgstr ""
+
+#: ../../DTK.rst:208
+msgid "Lightwalker"
+msgstr ""
+
+#: ../../DTK.rst:207
+msgid "Lightwalker has flying as long as it has a +1/+1 counter on it."
+msgstr ""
+
+#: ../../DTK.rst:217
+msgid "Misthoof Kirin"
+msgstr ""
+
+#: ../../DTK.rst:214
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../DTK.rst:216
+msgid ""
+"Megamorph |mana_1| |mana_w| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:228
+msgid "Myth Realized"
+msgstr ""
+
+#: ../../DTK.rst:223
+msgid ""
+"Whenever you cast a noncreature spell, put a lore counter on Myth Realized."
+msgstr ""
+
+#: ../../DTK.rst:225
+msgid "|mana_2| |mana_w|: Put a lore counter on Myth Realized."
+msgstr ""
+
+#: ../../DTK.rst:227
+msgid ""
+"|mana_w|: Until end of turn, Myth Realized becomes a Monk Avatar creature in "
+"addition to its other types and gains \"This creature's power and toughness "
+"are each equal to the number of lore counters on it.\""
+msgstr ""
+
+#: ../../DTK.rst:241
+msgid "Ojutai Exemplars"
+msgstr ""
+
+#: ../../DTK.rst:234
+msgid "Whenever you cast a noncreature spell, choose one —"
+msgstr ""
+
+#: ../../DTK.rst:236
+msgid "Tap target creature."
+msgstr ""
+
+#: ../../DTK.rst:238
+msgid "Ojutai Exemplars gains first strike and lifelink until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:240
+msgid ""
+"Exile Ojutai Exemplars, then return it to the battlefield tapped under its "
+"owner's control."
+msgstr ""
+
+#: ../../DTK.rst:252
+msgid "Orator of Ojutai"
+msgstr ""
+
+#: ../../DTK.rst:247 ../../DTK.rst:441 ../../DTK.rst:683 ../../DTK.rst:871
+#: ../../DTK.rst:1139 ../../DTK.rst:1696
+msgid ""
+"As an additional cost to cast this spell, you may reveal a Dragon card from "
+"your hand."
+msgstr ""
+
+#: ../../DTK.rst:249
+msgid "Defender, flying"
+msgstr ""
+
+#: ../../DTK.rst:251
+msgid ""
+"When Orator of Ojutai enters the battlefield, if you revealed a Dragon card "
+"or controlled a Dragon as you cast this spell, draw a card."
+msgstr ""
+
+#: ../../DTK.rst:261
+msgid "Pacifism"
+msgstr ""
+
+#: ../../DTK.rst:260
+msgid "Enchanted creature can't attack or block."
+msgstr ""
+
+#: ../../DTK.rst:270
+msgid "Profound Journey"
+msgstr ""
+
+#: ../../DTK.rst:267
+msgid "Return target permanent card from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../DTK.rst:277
+msgid "Radiant Purge"
+msgstr ""
+
+#: ../../DTK.rst:276
+msgid "Exile target multicolored creature or multicolored enchantment."
+msgstr ""
+
+#: ../../DTK.rst:286
+msgid "Resupply"
+msgstr ""
+
+#: ../../DTK.rst:283
+msgid "You gain 6 life."
+msgstr ""
+
+#: ../../DTK.rst:285 ../../DTK.rst:418 ../../DTK.rst:521 ../../DTK.rst:889
+#: ../../DTK.rst:1952
+msgid "Draw a card."
+msgstr ""
+
+#: ../../DTK.rst:293
+msgid "Sandcrafter Mage"
+msgstr ""
+
+#: ../../DTK.rst:292
+msgid ""
+"When Sandcrafter Mage enters the battlefield, bolster 1. (Choose a creature "
+"with the least toughness among creatures you control and put a +1/+1 counter "
+"on it.)"
+msgstr ""
+
+#: ../../DTK.rst:300
+msgid "Sandstorm Charger"
+msgstr ""
+
+#: ../../DTK.rst:307
+msgid "Scale Blessing"
+msgstr ""
+
+#: ../../DTK.rst:306
+msgid ""
+"Bolster 1, then put a +1/+1 counter on each creature you control with a +1/"
+"+1 counter on it. (To bolster 1, choose a creature with the least toughness "
+"among creatures you control and put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:314
 msgid "Secure the Wastes"
 msgstr ""
 
-#: ../../DTK.rst:1080
-msgid "Put X 1/1 white Warrior creature tokens onto the battlefield."
+#: ../../DTK.rst:313
+msgid "Create X 1/1 white Warrior creature tokens."
 msgstr ""
 
-#: ../../DTK.rst:1085
-msgid "Segmented Krotiq"
-msgstr ""
-
-#: ../../DTK.rst:1084
-msgid "Megamorph |mana_6| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:1089
-msgid "Seismic Rupture"
-msgstr ""
-
-#: ../../DTK.rst:1088
-msgid "Seismic Rupture deals 2 damage to each creature without flying."
-msgstr ""
-
-#: ../../DTK.rst:1093
-msgid "Self-Inflicted Wound"
-msgstr ""
-
-#: ../../DTK.rst:1092
-msgid "Target opponent sacrifices a green or white creature. If that player does, he or she loses 2 life."
-msgstr ""
-
-#: ../../DTK.rst:1099
-msgid "Servant of the Scale"
-msgstr ""
-
-#: ../../DTK.rst:1096
-msgid "Servant of the Scale enters the battlefield with a +1/+1 counter on it."
-msgstr ""
-
-#: ../../DTK.rst:1098
-msgid "When Servant of the Scale dies, put X +1/+1 counters on target creature you control, where X is the number of +1/+1 counters on Servant of the Scale."
-msgstr ""
-
-#: ../../DTK.rst:1105
-msgid "Shaman of Forgotten Ways"
-msgstr ""
-
-#: ../../DTK.rst:1102
-msgid "|tap|: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast creature spells."
-msgstr ""
-
-#: ../../DTK.rst:1104
-msgid "Formidable — |mana_9| |mana_g| |mana_g|, |tap|: Each player's life total becomes the number of creatures he or she controls. Activate this ability only if creatures you control have total power 8 or greater."
-msgstr ""
-
-#: ../../DTK.rst:1109
-msgid "Shambling Goblin"
-msgstr ""
-
-#: ../../DTK.rst:1108
-msgid "When Shambling Goblin dies, target creature an opponent controls gets -1/-1 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:1113
-msgid "Shape the Sands"
-msgstr ""
-
-#: ../../DTK.rst:1112
-msgid "Target creature gets +0/+5 and gains reach until end of turn. (It can block creatures with flying.)"
-msgstr ""
-
-#: ../../DTK.rst:1119
-msgid "Sheltered Aerie"
-msgstr ""
-
-#: ../../DTK.rst:1116
-msgid "Enchant land"
-msgstr ""
-
-#: ../../DTK.rst:1118
-msgid "Enchanted land has \\\"|tap|: Add two mana of any one color to your mana pool.\\\""
-msgstr ""
-
-#: ../../DTK.rst:1127
+#: ../../DTK.rst:325
 msgid "Shieldhide Dragon"
 msgstr ""
 
-#: ../../DTK.rst:1124
-msgid "Megamorph |mana_5| |mana_w| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
+#: ../../DTK.rst:320 ../../DTK.rst:1834
+msgid "Flying, lifelink"
 msgstr ""
 
-#: ../../DTK.rst:1126
-msgid "When Shieldhide Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control."
+#: ../../DTK.rst:322
+msgid ""
+"Megamorph |mana_5| |mana_w| |mana_w| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
+"and put a +1/+1 counter on it.)"
 msgstr ""
 
-#: ../../DTK.rst:1135
-msgid "Shorecrasher Elemental"
+#: ../../DTK.rst:324
+msgid ""
+"When Shieldhide Dragon is turned face up, put a +1/+1 counter on each other "
+"Dragon creature you control."
 msgstr ""
 
-#: ../../DTK.rst:1130
-msgid "|mana_u|: Exile Shorecrasher Elemental, then return it to the battlefield face down under its owner's control."
-msgstr ""
-
-#: ../../DTK.rst:1132
-msgid "|mana_1|: Shorecrasher Elemental gets +1/-1 or -1/+1 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:1134
-#: ../../DTK.rst:1200
-msgid "Megamorph |mana_4| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:1139
-msgid "Sibsig Icebreakers"
-msgstr ""
-
-#: ../../DTK.rst:1138
-msgid "When Sibsig Icebreakers enters the battlefield, each player discards a card."
-msgstr ""
-
-#: ../../DTK.rst:1147
-msgid "Sidisi, Undead Vizier"
-msgstr ""
-
-#: ../../DTK.rst:1146
-msgid "When Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library."
-msgstr ""
-
-#: ../../DTK.rst:1153
-msgid "Sidisi's Faithful"
-msgstr ""
-
-#: ../../DTK.rst:1152
-msgid "When Sidisi's Faithful exploits a creature, return target creature to its owner's hand."
-msgstr ""
-
-#: ../../DTK.rst:1159
-msgid "Sight Beyond Sight"
-msgstr ""
-
-#: ../../DTK.rst:1156
-msgid "Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library."
-msgstr ""
-
-#: ../../DTK.rst:1163
-msgid "Sight of the Scalelords"
-msgstr ""
-
-#: ../../DTK.rst:1162
-msgid "At the beginning of combat on your turn, creatures you control with toughness 4 or greater get +2/+2 and gain vigilance until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:1167
+#: ../../DTK.rst:332
 msgid "Silkwrap"
 msgstr ""
 
-#: ../../DTK.rst:1166
-msgid "When Silkwrap enters the battlefield, exile target creature with converted mana cost 3 or less an opponent controls until Silkwrap leaves the battlefield. (That creature returns under its owner's control.)"
+#: ../../DTK.rst:331
+msgid ""
+"When Silkwrap enters the battlefield, exile target creature with converted "
+"mana cost 3 or less an opponent controls until Silkwrap leaves the "
+"battlefield. (That creature returns under its owner's control.)"
 msgstr ""
 
-#: ../../DTK.rst:1175
-msgid "Silumgar Assassin"
-msgstr ""
-
-#: ../../DTK.rst:1170
-msgid "Creatures with power greater than Silumgar Assassin's power can't block it."
-msgstr ""
-
-#: ../../DTK.rst:1172
-msgid "Megamorph |mana_2| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:1174
-msgid "When Silumgar Assassin is turned face up, destroy target creature with power 3 or less an opponent controls."
-msgstr ""
-
-#: ../../DTK.rst:1181
-msgid "Silumgar Butcher"
-msgstr ""
-
-#: ../../DTK.rst:1180
-msgid "When Silumgar Butcher exploits a creature, target creature gets -3/-3 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:1187
-msgid "Silumgar Monument"
-msgstr ""
-
-#: ../../DTK.rst:1184
-msgid "|tap|: Add |mana_u| or |mana_b| to your mana pool."
-msgstr ""
-
-#: ../../DTK.rst:1186
-msgid "|mana_4| |mana_u| |mana_b|: Silumgar Monument becomes a 4/4 blue and black Dragon artifact creature with flying until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:1197
-msgid "Silumgar Sorcerer"
-msgstr ""
-
-#: ../../DTK.rst:1196
-msgid "When Silumgar Sorcerer exploits a creature, counter target creature spell."
-msgstr ""
-
-#: ../../DTK.rst:1203
-msgid "Silumgar Spell-Eater"
-msgstr ""
-
-#: ../../DTK.rst:1202
-msgid "When Silumgar Spell-Eater is turned face up, counter target spell unless its controller pays |mana_3|."
-msgstr ""
-
-#: ../../DTK.rst:1215
-msgid "Silumgar's Command"
-msgstr ""
-
-#: ../../DTK.rst:1210
-msgid "Return target permanent to its owner's hand."
-msgstr ""
-
-#: ../../DTK.rst:1212
-msgid "Target creature gets -3/-3 until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:1214
-msgid "Destroy target planeswalker."
-msgstr ""
-
-#: ../../DTK.rst:1221
-msgid "Silumgar's Scorn"
-msgstr ""
-
-#: ../../DTK.rst:1218
-msgid "As an additional cost to cast Silumgar's Scorn, you may reveal a Dragon card from your hand."
-msgstr ""
-
-#: ../../DTK.rst:1220
-msgid "Counter target spell unless its controller pays |mana_1|. If you revealed a Dragon card or controlled a Dragon as you cast Silumgar's Scorn, counter that spell instead."
-msgstr ""
-
-#: ../../DTK.rst:1225
-msgid "Skywise Teachings"
-msgstr ""
-
-#: ../../DTK.rst:1224
-msgid "Whenever you cast a noncreature spell, you may pay |mana_1| |mana_u|. If you do, put a 2/2 blue Djinn Monk creature token with flying onto the battlefield."
-msgstr ""
-
-#: ../../DTK.rst:1231
-msgid "Spidersilk Net"
-msgstr ""
-
-#: ../../DTK.rst:1228
-msgid "Equipped creature gets +0/+2 and has reach. (It can block creatures with flying.)"
-msgstr ""
-
-#: ../../DTK.rst:1230
-msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
-msgstr ""
-
-#: ../../DTK.rst:1237
-msgid "Sprinting Warbrute"
-msgstr ""
-
-#: ../../DTK.rst:1234
-msgid "Sprinting Warbrute attacks each turn if able."
-msgstr ""
-
-#: ../../DTK.rst:1236
-msgid "Dash |mana_3| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../DTK.rst:1241
-msgid "Stampeding Elk Herd"
-msgstr ""
-
-#: ../../DTK.rst:1240
-msgid "Formidable — Whenever Stampeding Elk Herd attacks, if creatures you control have total power 8 or greater, creatures you control gain trample until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:1247
-msgid "Stormcrag Elemental"
-msgstr ""
-
-#: ../../DTK.rst:1246
-msgid "Megamorph |mana_4| |mana_r| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:1255
-msgid "Stormrider Rig"
-msgstr ""
-
-#: ../../DTK.rst:1250
-msgid "Equipped creature gets +1/+1."
-msgstr ""
-
-#: ../../DTK.rst:1252
-msgid "Whenever a creature enters the battlefield under your control, you may attach Stormrider Rig to it."
-msgstr ""
-
-#: ../../DTK.rst:1254
-msgid "Equip |mana_2|"
-msgstr ""
-
-#: ../../DTK.rst:1263
-msgid "Stormwing Dragon"
-msgstr ""
-
-#: ../../DTK.rst:1258
-msgid "Flying, first strike"
-msgstr ""
-
-#: ../../DTK.rst:1260
-msgid "Megamorph |mana_5| |mana_r| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:1262
-msgid "When Stormwing Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control."
-msgstr ""
-
-#: ../../DTK.rst:1271
-msgid "Stratus Dancer"
-msgstr ""
-
-#: ../../DTK.rst:1268
-msgid "Megamorph |mana_1| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../DTK.rst:1270
-msgid "When Stratus Dancer is turned face up, counter target instant or sorcery spell."
-msgstr ""
-
-#: ../../DTK.rst:1275
+#: ../../DTK.rst:339
 msgid "Strongarm Monk"
 msgstr ""
 
-#: ../../DTK.rst:1274
-msgid "Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn."
+#: ../../DTK.rst:338
+msgid ""
+"Whenever you cast a noncreature spell, creatures you control get +1/+1 until "
+"end of turn."
 msgstr ""
 
-#: ../../DTK.rst:1279
+#: ../../DTK.rst:346
 msgid "Student of Ojutai"
 msgstr ""
 
-#: ../../DTK.rst:1278
+#: ../../DTK.rst:345
 msgid "Whenever you cast a noncreature spell, you gain 2 life."
 msgstr ""
 
-#: ../../DTK.rst:1281
-msgid "Summit Prowler"
-msgstr ""
-
-#: ../../DTK.rst:1287
-msgid "Sunbringer's Touch"
-msgstr ""
-
-#: ../../DTK.rst:1286
-msgid "Bolster X, where X is the number of cards in your hand. Each creature you control with a +1/+1 counter on it gains trample until end of turn. (To bolster X, choose a creature with the least toughness among creatures you control and put X +1/+1 counters on it.)"
-msgstr ""
-
-#: ../../DTK.rst:1293
+#: ../../DTK.rst:355
 msgid "Sunscorch Regent"
 msgstr ""
 
-#: ../../DTK.rst:1292
-msgid "Whenever an opponent casts a spell, put a +1/+1 counter on Sunscorch Regent and you gain 1 life."
+#: ../../DTK.rst:354
+msgid ""
+"Whenever an opponent casts a spell, put a +1/+1 counter on Sunscorch Regent "
+"and you gain 1 life."
 msgstr ""
 
-#: ../../DTK.rst:1297
+#: ../../DTK.rst:362
 msgid "Surge of Righteousness"
 msgstr ""
 
-#: ../../DTK.rst:1296
-msgid "Destroy target black or red creature that's attacking or blocking. You gain 2 life."
+#: ../../DTK.rst:361
+msgid ""
+"Destroy target black or red creature that's attacking or blocking. You gain "
+"2 life."
 msgstr ""
 
-#: ../../DTK.rst:1301
-msgid "Surrak, the Hunt Caller"
-msgstr ""
-
-#: ../../DTK.rst:1300
-msgid "Formidable — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, target creature you control gains haste until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:1305
-msgid "Swamp"
-msgstr ""
-
-#: ../../DTK.rst:1304
-msgid "B"
-msgstr ""
-
-#: ../../DTK.rst:1311
-msgid "Swift Warkite"
-msgstr ""
-
-#: ../../DTK.rst:1310
-msgid "When Swift Warkite enters the battlefield, you may put a creature card with converted mana cost 3 or less from your hand or graveyard onto the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step."
-msgstr ""
-
-#: ../../DTK.rst:1317
-msgid "Taigam's Strike"
-msgstr ""
-
-#: ../../DTK.rst:1314
-msgid "Target creature gets +2/+0 until end of turn and can't be blocked this turn."
-msgstr ""
-
-#: ../../DTK.rst:1321
-msgid "Tail Slash"
-msgstr ""
-
-#: ../../DTK.rst:1320
-msgid "Target creature you control deals damage equal to its power to target creature you don't control."
-msgstr ""
-
-#: ../../DTK.rst:1325
-msgid "Tapestry of the Ages"
-msgstr ""
-
-#: ../../DTK.rst:1324
-msgid "|mana_2|, |tap|: Draw a card. Activate this ability only if you've cast a noncreature spell this turn."
-msgstr ""
-
-#: ../../DTK.rst:1329
+#: ../../DTK.rst:369
 msgid "Territorial Roc"
 msgstr ""
 
-#: ../../DTK.rst:1335
-msgid "Thunderbreak Regent"
+#: ../../DTK.rst:374
+msgid "Ancient Carp"
 msgstr ""
 
-#: ../../DTK.rst:1334
-msgid "Whenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player."
+#: ../../DTK.rst:383
+msgid "Anticipate"
 msgstr ""
 
-#: ../../DTK.rst:1341
-msgid "Tormenting Voice"
+#: ../../DTK.rst:382
+msgid ""
+"Look at the top three cards of your library. Put one of them into your hand "
+"and the rest on the bottom of your library in any order."
 msgstr ""
 
-#: ../../DTK.rst:1338
-msgid "As an additional cost to cast Tormenting Voice, discard a card."
+#: ../../DTK.rst:394
+msgid "Belltoll Dragon"
 msgstr ""
 
-#: ../../DTK.rst:1340
-msgid "Draw two cards."
+#: ../../DTK.rst:389
+msgid "Flying, hexproof"
 msgstr ""
 
-#: ../../DTK.rst:1345
-msgid "Tread Upon"
+#: ../../DTK.rst:391
+msgid ""
+"Megamorph |mana_5| |mana_u| |mana_u| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
+"and put a +1/+1 counter on it.)"
 msgstr ""
 
-#: ../../DTK.rst:1344
-msgid "Target creature gets +2/+2 and gains trample until end of turn."
+#: ../../DTK.rst:393
+msgid ""
+"When Belltoll Dragon is turned face up, put a +1/+1 counter on each other "
+"Dragon creature you control."
 msgstr ""
 
-#: ../../DTK.rst:1349
-msgid "Twin Bolt"
+#: ../../DTK.rst:403
+msgid "Blessed Reincarnation"
 msgstr ""
 
-#: ../../DTK.rst:1348
-msgid "Twin Bolt deals 2 damage divided as you choose among one or two target creatures and/or players."
+#: ../../DTK.rst:400
+msgid ""
+"Exile target creature an opponent controls. That player reveals cards from "
+"the top of their library until a creature card is revealed. The player puts "
+"that card onto the battlefield, then shuffles the rest into their library."
 msgstr ""
 
-#: ../../DTK.rst:1353
-msgid "Ukud Cobra"
+#: ../../DTK.rst:410
+msgid "Clone Legion"
 msgstr ""
 
-#: ../../DTK.rst:1357
-msgid "Ultimate Price"
+#: ../../DTK.rst:409
+msgid ""
+"For each creature target player controls, create a token that's a copy of "
+"that creature."
 msgstr ""
 
-#: ../../DTK.rst:1356
-msgid "Destroy target monocolored creature."
+#: ../../DTK.rst:419
+msgid "Contradict"
 msgstr ""
 
-#: ../../DTK.rst:1361
+#: ../../DTK.rst:416
+msgid "Counter target spell."
+msgstr ""
+
+#: ../../DTK.rst:426
+msgid "Dance of the Skywise"
+msgstr ""
+
+#: ../../DTK.rst:425
+msgid ""
+"Until end of turn, target creature you control becomes a blue Dragon "
+"Illusion with base power and toughness 4/4, loses all abilities, and gains "
+"flying."
+msgstr ""
+
+#: ../../DTK.rst:435
+msgid "Dirgur Nemesis"
+msgstr ""
+
+#: ../../DTK.rst:432 ../../DTK.rst:1591 ../../DTK.rst:2037
+msgid "Defender"
+msgstr ""
+
+#: ../../DTK.rst:434
+msgid ""
+"Megamorph |mana_6| |mana_u| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:446
+msgid "Dragonlord's Prerogative"
+msgstr ""
+
+#: ../../DTK.rst:443
+msgid ""
+"If you revealed a Dragon card or controlled a Dragon as you cast this spell, "
+"this spell can't be countered."
+msgstr ""
+
+#: ../../DTK.rst:445
+msgid "Draw four cards."
+msgstr ""
+
+#: ../../DTK.rst:453
+msgid "Elusive Spellfist"
+msgstr ""
+
+#: ../../DTK.rst:452
+msgid ""
+"Whenever you cast a noncreature spell, Elusive Spellfist gets +1/+0 until "
+"end of turn and can't be blocked this turn."
+msgstr ""
+
+#: ../../DTK.rst:466
+msgid "Encase in Ice"
+msgstr ""
+
+#: ../../DTK.rst:459 ../../DTK.rst:661
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
+#: ../../DTK.rst:461
+msgid "Enchant red or green creature"
+msgstr ""
+
+#: ../../DTK.rst:463
+msgid "When Encase in Ice enters the battlefield, tap enchanted creature."
+msgstr ""
+
+#: ../../DTK.rst:465
+msgid "Enchanted creature doesn't untap during its controller's untap step."
+msgstr ""
+
+#: ../../DTK.rst:473
+msgid "Glint"
+msgstr ""
+
+#: ../../DTK.rst:472
+msgid ""
+"Target creature you control gets +0/+3 and gains hexproof until end of turn. "
+"(It can't be the target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../DTK.rst:482
+msgid "Gudul Lurker"
+msgstr ""
+
+#: ../../DTK.rst:479
+msgid "Gudul Lurker can't be blocked."
+msgstr ""
+
+#: ../../DTK.rst:481
+msgid ""
+"Megamorph |mana_u| (You may cast this card face down as a 2/2 creature for |"
+"mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 "
+"counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:491
+msgid "Gurmag Drowner"
+msgstr ""
+
+#: ../../DTK.rst:488 ../../DTK.rst:607 ../../DTK.rst:643 ../../DTK.rst:665
+#: ../../DTK.rst:944 ../../DTK.rst:962 ../../DTK.rst:971 ../../DTK.rst:1025
+#: ../../DTK.rst:1045 ../../DTK.rst:1077
+msgid ""
+"Exploit (When this creature enters the battlefield, you may sacrifice a "
+"creature.)"
+msgstr ""
+
+#: ../../DTK.rst:490
+msgid ""
+"When Gurmag Drowner exploits a creature, look at the top four cards of your "
+"library. Put one of them into your hand and the rest into your graveyard."
+msgstr ""
+
+#: ../../DTK.rst:502
+msgid "Icefall Regent"
+msgstr ""
+
+#: ../../DTK.rst:499
+msgid ""
+"When Icefall Regent enters the battlefield, tap target creature an opponent "
+"controls. That creature doesn't untap during its controller's untap step for "
+"as long as you control Icefall Regent."
+msgstr ""
+
+#: ../../DTK.rst:501
+msgid ""
+"Spells your opponents cast that target Icefall Regent cost |mana_2| more to "
+"cast."
+msgstr ""
+
+#: ../../DTK.rst:513
+msgid "Illusory Gains"
+msgstr ""
+
+#: ../../DTK.rst:510
+msgid "You control enchanted creature."
+msgstr ""
+
+#: ../../DTK.rst:512
+msgid ""
+"Whenever a creature enters the battlefield under an opponent's control, "
+"attach Illusory Gains to that creature."
+msgstr ""
+
+#: ../../DTK.rst:522
+msgid "Learn from the Past"
+msgstr ""
+
+#: ../../DTK.rst:519
+msgid "Target player shuffles their graveyard into their library."
+msgstr ""
+
+#: ../../DTK.rst:533
+msgid "Living Lore"
+msgstr ""
+
+#: ../../DTK.rst:528
+msgid ""
+"As Living Lore enters the battlefield, exile an instant or sorcery card from "
+"your graveyard."
+msgstr ""
+
+#: ../../DTK.rst:530
+msgid ""
+"Living Lore's power and toughness are each equal to the exiled card's "
+"converted mana cost."
+msgstr ""
+
+#: ../../DTK.rst:532
+msgid ""
+"Whenever Living Lore deals combat damage, you may sacrifice it. If you do, "
+"you may cast the exiled card without paying its mana cost."
+msgstr ""
+
+#: ../../DTK.rst:542
+msgid "Mirror Mockery"
+msgstr ""
+
+#: ../../DTK.rst:541
+msgid ""
+"Whenever enchanted creature attacks, you may create a token that's a copy of "
+"that creature. Exile that token at end of combat."
+msgstr ""
+
+#: ../../DTK.rst:551
+msgid "Monastery Loremaster"
+msgstr ""
+
+#: ../../DTK.rst:548
+msgid ""
+"Megamorph |mana_5| |mana_u| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:550
+msgid ""
+"When Monastery Loremaster is turned face up, return target noncreature, "
+"nonland card from your graveyard to your hand."
+msgstr ""
+
+#: ../../DTK.rst:558
+msgid "Mystic Meditation"
+msgstr ""
+
+#: ../../DTK.rst:557
+msgid ""
+"Draw three cards. Then discard two cards unless you discard a creature card."
+msgstr ""
+
+#: ../../DTK.rst:565
+msgid "Negate"
+msgstr ""
+
+#: ../../DTK.rst:564 ../../DTK.rst:1999
+msgid "Counter target noncreature spell."
+msgstr ""
+
+#: ../../DTK.rst:574
+msgid "Ojutai Interceptor"
+msgstr ""
+
+#: ../../DTK.rst:573
+msgid ""
+"Megamorph |mana_3| |mana_u| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:583
+msgid "Ojutai's Breath"
+msgstr ""
+
+#: ../../DTK.rst:580
+msgid ""
+"Tap target creature. It doesn't untap during its controller's next untap "
+"step."
+msgstr ""
+
+#: ../../DTK.rst:592
+msgid "Ojutai's Summons"
+msgstr ""
+
+#: ../../DTK.rst:589
+msgid "Create a 2/2 blue Djinn Monk creature token with flying."
+msgstr ""
+
+#: ../../DTK.rst:601
+msgid "Palace Familiar"
+msgstr ""
+
+#: ../../DTK.rst:600
+msgid "When Palace Familiar dies, draw a card."
+msgstr ""
+
+#: ../../DTK.rst:610
+msgid "Profaner of the Dead"
+msgstr ""
+
+#: ../../DTK.rst:609
+msgid ""
+"When Profaner of the Dead exploits a creature, return to their owners' hands "
+"all creatures your opponents control with toughness less than the exploited "
+"creature's toughness."
+msgstr ""
+
+#: ../../DTK.rst:617
+msgid "Qarsi Deceiver"
+msgstr ""
+
+#: ../../DTK.rst:616
+msgid ""
+"|tap|: Add |colorless|. Spend this mana only to cast a face-down creature "
+"spell, pay a mana cost to turn a manifested creature face up, or pay a morph "
+"cost. (A megamorph cost is a morph cost.)"
+msgstr ""
+
+#: ../../DTK.rst:626
+msgid "Reduce in Stature"
+msgstr ""
+
+#: ../../DTK.rst:625
+msgid "Enchanted creature has base power and toughness 0/2."
+msgstr ""
+
+#: ../../DTK.rst:637
+msgid "Shorecrasher Elemental"
+msgstr ""
+
+#: ../../DTK.rst:632
+msgid ""
+"|mana_u|: Exile Shorecrasher Elemental, then return it to the battlefield "
+"face down under its owner's control."
+msgstr ""
+
+#: ../../DTK.rst:634
+msgid "|mana_1|: Shorecrasher Elemental gets +1/-1 or -1/+1 until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:636 ../../DTK.rst:674
+msgid ""
+"Megamorph |mana_4| |mana_u| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:646
+msgid "Sidisi's Faithful"
+msgstr ""
+
+#: ../../DTK.rst:645
+msgid ""
+"When Sidisi's Faithful exploits a creature, return target creature to its "
+"owner's hand."
+msgstr ""
+
+#: ../../DTK.rst:655
+msgid "Sight Beyond Sight"
+msgstr ""
+
+#: ../../DTK.rst:652
+msgid ""
+"Look at the top two cards of your library. Put one of them into your hand "
+"and the other on the bottom of your library."
+msgstr ""
+
+#: ../../DTK.rst:668
+msgid "Silumgar Sorcerer"
+msgstr ""
+
+#: ../../DTK.rst:667
+msgid ""
+"When Silumgar Sorcerer exploits a creature, counter target creature spell."
+msgstr ""
+
+#: ../../DTK.rst:677
+msgid "Silumgar Spell-Eater"
+msgstr ""
+
+#: ../../DTK.rst:676
+msgid ""
+"When Silumgar Spell-Eater is turned face up, counter target spell unless its "
+"controller pays |mana_3|."
+msgstr ""
+
+#: ../../DTK.rst:686
+msgid "Silumgar's Scorn"
+msgstr ""
+
+#: ../../DTK.rst:685
+msgid ""
+"Counter target spell unless its controller pays |mana_1|. If you revealed a "
+"Dragon card or controlled a Dragon as you cast this spell, counter that "
+"spell instead."
+msgstr ""
+
+#: ../../DTK.rst:693
+msgid "Skywise Teachings"
+msgstr ""
+
+#: ../../DTK.rst:692
+msgid ""
+"Whenever you cast a noncreature spell, you may pay |mana_1| |mana_u|. If you "
+"do, create a 2/2 blue Djinn Monk creature token with flying."
+msgstr ""
+
+#: ../../DTK.rst:704
+msgid "Stratus Dancer"
+msgstr ""
+
+#: ../../DTK.rst:701
+msgid ""
+"Megamorph |mana_1| |mana_u| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:703
+msgid ""
+"When Stratus Dancer is turned face up, counter target instant or sorcery "
+"spell."
+msgstr ""
+
+#: ../../DTK.rst:713
+msgid "Taigam's Strike"
+msgstr ""
+
+#: ../../DTK.rst:710
+msgid ""
+"Target creature gets +2/+0 until end of turn and can't be blocked this turn."
+msgstr ""
+
+#: ../../DTK.rst:720
 msgid "Updraft Elemental"
 msgstr ""
 
-#: ../../DTK.rst:1369
-msgid "Vandalize"
-msgstr ""
-
-#: ../../DTK.rst:1364
-msgid "Choose one or both —"
-msgstr ""
-
-#: ../../DTK.rst:1368
-msgid "Destroy target land."
-msgstr ""
-
-#: ../../DTK.rst:1373
-msgid "Vial of Dragonfire"
-msgstr ""
-
-#: ../../DTK.rst:1372
-msgid "|mana_2|, |tap|, Sacrifice Vial of Dragonfire: Vial of Dragonfire deals 2 damage to target creature."
-msgstr ""
-
-#: ../../DTK.rst:1377
-msgid "Virulent Plague"
-msgstr ""
-
-#: ../../DTK.rst:1376
-msgid "Creature tokens get -2/-2."
-msgstr ""
-
-#: ../../DTK.rst:1383
+#: ../../DTK.rst:729
 msgid "Void Squall"
 msgstr ""
 
-#: ../../DTK.rst:1380
+#: ../../DTK.rst:726
 msgid "Return target nonland permanent to its owner's hand."
 msgstr ""
 
-#: ../../DTK.rst:1387
-msgid "Volcanic Rush"
-msgstr ""
-
-#: ../../DTK.rst:1386
-msgid "Attacking creatures get +2/+0 and gain trample until end of turn."
-msgstr ""
-
-#: ../../DTK.rst:1391
-msgid "Volcanic Vision"
-msgstr ""
-
-#: ../../DTK.rst:1390
-msgid "Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card's converted mana cost to each creature your opponents control. Exile Volcanic Vision."
-msgstr ""
-
-#: ../../DTK.rst:1399
-msgid "Vulturous Aven"
-msgstr ""
-
-#: ../../DTK.rst:1398
-msgid "When Vulturous Aven exploits a creature, you draw two cards and you lose 2 life."
-msgstr ""
-
-#: ../../DTK.rst:1401
-msgid "Wandering Tombshell"
-msgstr ""
-
-#: ../../DTK.rst:1409
-msgid "Warbringer"
-msgstr ""
-
-#: ../../DTK.rst:1406
-msgid "Dash costs you pay cost |mana_2| less (as long as this creature is on the battlefield)."
-msgstr ""
-
-#: ../../DTK.rst:1413
+#: ../../DTK.rst:736
 msgid "Youthful Scholar"
 msgstr ""
 
-#: ../../DTK.rst:1412
+#: ../../DTK.rst:735
 msgid "When Youthful Scholar dies, draw two cards."
 msgstr ""
 
-#: ../../DTK.rst:1419
+#: ../../DTK.rst:745
 msgid "Zephyr Scribe"
 msgstr ""
 
-#: ../../DTK.rst:1416
+#: ../../DTK.rst:742
 msgid "|mana_u|, |tap|: Draw a card, then discard a card."
 msgstr ""
 
-#: ../../DTK.rst:1418
+#: ../../DTK.rst:744
 msgid "Whenever you cast a noncreature spell, untap Zephyr Scribe."
 msgstr ""
 
-#: ../../DTK.rst:1425
-msgid "Zurgo Bellstriker"
+#: ../../DTK.rst:756
+msgid "Acid-Spewer Dragon"
+msgstr ""
+
+#: ../../DTK.rst:751 ../../DTK.rst:1865
+msgid "Flying, deathtouch"
+msgstr ""
+
+#: ../../DTK.rst:753
+msgid ""
+"Megamorph |mana_5| |mana_b| |mana_b| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
+"and put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:755
+msgid ""
+"When Acid-Spewer Dragon is turned face up, put a +1/+1 counter on each other "
+"Dragon creature you control."
+msgstr ""
+
+#: ../../DTK.rst:765
+msgid "Ambuscade Shaman"
+msgstr ""
+
+#: ../../DTK.rst:762
+msgid ""
+"Whenever Ambuscade Shaman or another creature enters the battlefield under "
+"your control, that creature gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:764
+msgid ""
+"Dash |mana_3| |mana_b| (You may cast this spell for its dash cost. If you "
+"do, it gains haste, and it's returned from the battlefield to its owner's "
+"hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../DTK.rst:772
+msgid "Blood-Chin Fanatic"
+msgstr ""
+
+#: ../../DTK.rst:771
+msgid ""
+"|mana_1| |mana_b|, Sacrifice another Warrior creature: Target player loses X "
+"life and you gain X life, where X is the sacrificed creature's power."
+msgstr ""
+
+#: ../../DTK.rst:779
+msgid "Blood-Chin Rager"
+msgstr ""
+
+#: ../../DTK.rst:778
+msgid ""
+"Whenever Blood-Chin Rager attacks, Warrior creatures you control gain menace "
+"until end of turn. (They can't be blocked except by two or more creatures.)"
+msgstr ""
+
+#: ../../DTK.rst:786
+msgid "Butcher's Glee"
+msgstr ""
+
+#: ../../DTK.rst:785
+msgid ""
+"Target creature gets +3/+0 and gains lifelink until end of turn. Regenerate "
+"it. (Damage dealt by a creature with lifelink also causes its controller to "
+"gain that much life.)"
+msgstr ""
+
+#: ../../DTK.rst:793
+msgid "Coat with Venom"
+msgstr ""
+
+#: ../../DTK.rst:792
+msgid ""
+"Target creature gets +1/+2 and gains deathtouch until end of turn. (Any "
+"amount of damage it deals to a creature is enough to destroy it.)"
+msgstr ""
+
+#: ../../DTK.rst:800
+msgid "Corpseweft"
+msgstr ""
+
+#: ../../DTK.rst:799
+msgid ""
+"|mana_1| |mana_b|, Exile one or more creature cards from your graveyard: "
+"Create a tapped X/X black Zombie Horror creature token, where X is twice the "
+"number of cards exiled this way."
+msgstr ""
+
+#: ../../DTK.rst:807
+msgid "Damnable Pact"
+msgstr ""
+
+#: ../../DTK.rst:806
+msgid "Target player draws X cards and loses X life."
+msgstr ""
+
+#: ../../DTK.rst:814
+msgid "Deadly Wanderings"
+msgstr ""
+
+#: ../../DTK.rst:813
+msgid ""
+"As long as you control exactly one creature, that creature gets +2/+0 and "
+"has deathtouch and lifelink."
+msgstr ""
+
+#: ../../DTK.rst:821
+msgid "Death Wind"
+msgstr ""
+
+#: ../../DTK.rst:820
+msgid "Target creature gets -X/-X until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:830
+msgid "Deathbringer Regent"
+msgstr ""
+
+#: ../../DTK.rst:829
+msgid ""
+"When Deathbringer Regent enters the battlefield, if you cast it from your "
+"hand and there are five or more other creatures on the battlefield, destroy "
+"all other creatures."
+msgstr ""
+
+#: ../../DTK.rst:837
+msgid "Defeat"
+msgstr ""
+
+#: ../../DTK.rst:836
+msgid "Destroy target creature with power 2 or less."
+msgstr ""
+
+#: ../../DTK.rst:844
+msgid "Duress"
+msgstr ""
+
+#: ../../DTK.rst:843
+msgid ""
+"Target opponent reveals their hand. You choose a noncreature, nonland card "
+"from it. That player discards that card."
+msgstr ""
+
+#: ../../DTK.rst:851
+msgid "Dutiful Attendant"
+msgstr ""
+
+#: ../../DTK.rst:850
+msgid ""
+"When Dutiful Attendant dies, return another target creature card from your "
+"graveyard to your hand."
+msgstr ""
+
+#: ../../DTK.rst:858
+msgid "Flatten"
+msgstr ""
+
+#: ../../DTK.rst:857
+msgid "Target creature gets -4/-4 until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:865
+msgid "Foul Renewal"
+msgstr ""
+
+#: ../../DTK.rst:864
+msgid ""
+"Return target creature card from your graveyard to your hand. Target "
+"creature gets -X/-X until end of turn, where X is the toughness of the card "
+"returned this way."
+msgstr ""
+
+#: ../../DTK.rst:874
+msgid "Foul-Tongue Invocation"
+msgstr ""
+
+#: ../../DTK.rst:873
+msgid ""
+"Target player sacrifices a creature. If you revealed a Dragon card or "
+"controlled a Dragon as you cast this spell, you gain 4 life."
+msgstr ""
+
+#: ../../DTK.rst:881
+msgid "Foul-Tongue Shriek"
+msgstr ""
+
+#: ../../DTK.rst:880
+msgid ""
+"Target opponent loses 1 life for each attacking creature you control. You "
+"gain that much life."
+msgstr ""
+
+#: ../../DTK.rst:890
+msgid "Gravepurge"
+msgstr ""
+
+#: ../../DTK.rst:887
+msgid ""
+"Put any number of target creature cards from your graveyard on top of your "
+"library."
+msgstr ""
+
+#: ../../DTK.rst:897
+msgid "Hand of Silumgar"
+msgstr ""
+
+#: ../../DTK.rst:896
+msgid ""
+"Deathtouch (Any amount of damage this deals to a creature is enough to "
+"destroy it.)"
+msgstr ""
+
+#: ../../DTK.rst:908
+msgid "Hedonist's Trove"
+msgstr ""
+
+#: ../../DTK.rst:903
+msgid ""
+"When Hedonist's Trove enters the battlefield, exile all cards from target "
+"opponent's graveyard."
+msgstr ""
+
+#: ../../DTK.rst:905
+msgid "You may play land cards exiled with Hedonist's Trove."
+msgstr ""
+
+#: ../../DTK.rst:907
+msgid ""
+"You may cast nonland cards exiled with Hedonist's Trove. You can't cast more "
+"than one spell this way each turn."
+msgstr ""
+
+#: ../../DTK.rst:915
+msgid "Kolaghan Skirmisher"
+msgstr ""
+
+#: ../../DTK.rst:914
+msgid ""
+"Dash |mana_2| |mana_b| (You may cast this spell for its dash cost. If you "
+"do, it gains haste, and it's returned from the battlefield to its owner's "
+"hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../DTK.rst:924
+msgid "Marang River Skeleton"
+msgstr ""
+
+#: ../../DTK.rst:921
+msgid "|mana_b|: Regenerate Marang River Skeleton."
+msgstr ""
+
+#: ../../DTK.rst:923
+msgid ""
+"Megamorph |mana_3| |mana_b| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:931
+msgid "Marsh Hulk"
+msgstr ""
+
+#: ../../DTK.rst:930
+msgid ""
+"Megamorph |mana_6| |mana_b| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:938
+msgid "Mind Rot"
+msgstr ""
+
+#: ../../DTK.rst:937
+msgid "Target player discards two cards."
+msgstr ""
+
+#: ../../DTK.rst:947
+msgid "Minister of Pain"
+msgstr ""
+
+#: ../../DTK.rst:946
+msgid ""
+"When Minister of Pain exploits a creature, creatures your opponents control "
+"get -1/-1 until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:956
+msgid "Pitiless Horde"
+msgstr ""
+
+#: ../../DTK.rst:953
+msgid "At the beginning of your upkeep, you lose 2 life."
+msgstr ""
+
+#: ../../DTK.rst:955
+msgid ""
+"Dash |mana_2| |mana_b| |mana_b| (You may cast this spell for its dash cost. "
+"If you do, it gains haste, and it's returned from the battlefield to its "
+"owner's hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../DTK.rst:965
+msgid "Qarsi Sadist"
+msgstr ""
+
+#: ../../DTK.rst:964
+msgid ""
+"When Qarsi Sadist exploits a creature, target opponent loses 2 life and you "
+"gain 2 life."
+msgstr ""
+
+#: ../../DTK.rst:974
+msgid "Rakshasa Gravecaller"
+msgstr ""
+
+#: ../../DTK.rst:973
+msgid ""
+"When Rakshasa Gravecaller exploits a creature, create two 2/2 black Zombie "
+"creature tokens."
+msgstr ""
+
+#: ../../DTK.rst:985
+msgid "Reckless Imp"
+msgstr ""
+
+#: ../../DTK.rst:982
+msgid "Reckless Imp can't block."
+msgstr ""
+
+#: ../../DTK.rst:984
+msgid ""
+"Dash |mana_1| |mana_b| (You may cast this spell for its dash cost. If you "
+"do, it gains haste, and it's returned from the battlefield to its owner's "
+"hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../DTK.rst:996
+msgid "Risen Executioner"
+msgstr ""
+
+#: ../../DTK.rst:991
+msgid "Risen Executioner can't block."
+msgstr ""
+
+#: ../../DTK.rst:993
+msgid "Other Zombie creatures you control get +1/+1."
+msgstr ""
+
+#: ../../DTK.rst:995
+msgid ""
+"You may cast Risen Executioner from your graveyard if you pay |mana_1| more "
+"to cast it for each other creature card in your graveyard."
+msgstr ""
+
+#: ../../DTK.rst:1003
+msgid "Self-Inflicted Wound"
+msgstr ""
+
+#: ../../DTK.rst:1002
+msgid ""
+"Target opponent sacrifices a green or white creature. If that player does, "
+"they lose 2 life."
+msgstr ""
+
+#: ../../DTK.rst:1010
+msgid "Shambling Goblin"
+msgstr ""
+
+#: ../../DTK.rst:1009
+msgid ""
+"When Shambling Goblin dies, target creature an opponent controls gets -1/-1 "
+"until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1017
+msgid "Sibsig Icebreakers"
+msgstr ""
+
+#: ../../DTK.rst:1016
+msgid ""
+"When Sibsig Icebreakers enters the battlefield, each player discards a card."
+msgstr ""
+
+#: ../../DTK.rst:1028
+msgid "Sidisi, Undead Vizier"
+msgstr ""
+
+#: ../../DTK.rst:1023 ../../DTK.rst:1054 ../../DTK.rst:1519
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../DTK.rst:1027
+msgid ""
+"When Sidisi, Undead Vizier exploits a creature, you may search your library "
+"for a card, put it into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../DTK.rst:1039
+msgid "Silumgar Assassin"
+msgstr ""
+
+#: ../../DTK.rst:1034
+msgid ""
+"Creatures with power greater than Silumgar Assassin's power can't block it."
+msgstr ""
+
+#: ../../DTK.rst:1036
+msgid ""
+"Megamorph |mana_2| |mana_b| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1038
+msgid ""
+"When Silumgar Assassin is turned face up, destroy target creature with power "
+"3 or less an opponent controls."
+msgstr ""
+
+#: ../../DTK.rst:1048
+msgid "Silumgar Butcher"
+msgstr ""
+
+#: ../../DTK.rst:1047
+msgid ""
+"When Silumgar Butcher exploits a creature, target creature gets -3/-3 until "
+"end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1055
+msgid "Ukud Cobra"
+msgstr ""
+
+#: ../../DTK.rst:1062
+msgid "Ultimate Price"
+msgstr ""
+
+#: ../../DTK.rst:1061
+msgid "Destroy target monocolored creature."
+msgstr ""
+
+#: ../../DTK.rst:1069
+msgid "Virulent Plague"
+msgstr ""
+
+#: ../../DTK.rst:1068
+msgid "Creature tokens get -2/-2."
+msgstr ""
+
+#: ../../DTK.rst:1080
+msgid "Vulturous Aven"
+msgstr ""
+
+#: ../../DTK.rst:1079
+msgid ""
+"When Vulturous Aven exploits a creature, you draw two cards and you lose 2 "
+"life."
+msgstr ""
+
+#: ../../DTK.rst:1085
+msgid "Wandering Tombshell"
+msgstr ""
+
+#: ../../DTK.rst:1096
+msgid "Atarka Efreet"
+msgstr ""
+
+#: ../../DTK.rst:1093
+msgid ""
+"Megamorph |mana_2| |mana_r| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1095
+msgid "When Atarka Efreet is turned face up, it deals 1 damage to any target."
+msgstr ""
+
+#: ../../DTK.rst:1103
+msgid "Atarka Pummeler"
+msgstr ""
+
+#: ../../DTK.rst:1102
+msgid ""
+"Formidable — |mana_3| |mana_r| |mana_r|: Creatures you control gain menace "
+"until end of turn. Activate this ability only if creatures you control have "
+"total power 8 or greater. (They can't be blocked except by two or more "
+"creatures.)"
+msgstr ""
+
+#: ../../DTK.rst:1110
+msgid "Berserkers' Onslaught"
+msgstr ""
+
+#: ../../DTK.rst:1109
+msgid "Attacking creatures you control have double strike."
+msgstr ""
+
+#: ../../DTK.rst:1117
+msgid "Commune with Lava"
+msgstr ""
+
+#: ../../DTK.rst:1116
+msgid ""
+"Exile the top X cards of your library. Until the end of your next turn, you "
+"may play those cards."
+msgstr ""
+
+#: ../../DTK.rst:1126
+msgid "Crater Elemental"
+msgstr ""
+
+#: ../../DTK.rst:1123
+msgid ""
+"|mana_r|, |tap|, Sacrifice Crater Elemental: It deals 4 damage to target "
+"creature."
+msgstr ""
+
+#: ../../DTK.rst:1125
+msgid ""
+"Formidable — |mana_2| |mana_r|: Crater Elemental has base power 8 until end "
+"of turn. Activate this ability only if creatures you control have total "
+"power 8 or greater."
+msgstr ""
+
+#: ../../DTK.rst:1133
+msgid "Descent of the Dragons"
+msgstr ""
+
+#: ../../DTK.rst:1132
+msgid ""
+"Destroy any number of target creatures. For each creature destroyed this "
+"way, its controller creates a 4/4 red Dragon creature token with flying."
+msgstr ""
+
+#: ../../DTK.rst:1142
+msgid "Draconic Roar"
+msgstr ""
+
+#: ../../DTK.rst:1141
+msgid ""
+"Draconic Roar deals 3 damage to target creature. If you revealed a Dragon "
+"card or controlled a Dragon as you cast this spell, Draconic Roar deals 3 "
+"damage to that creature's controller."
+msgstr ""
+
+#: ../../DTK.rst:1149
+msgid "Dragon Fodder"
+msgstr ""
+
+#: ../../DTK.rst:1148
+msgid "Create two 1/1 red Goblin creature tokens."
+msgstr ""
+
+#: ../../DTK.rst:1158
+msgid "Dragon Tempest"
+msgstr ""
+
+#: ../../DTK.rst:1155
+msgid ""
+"Whenever a creature with flying enters the battlefield under your control, "
+"it gains haste until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1157
+msgid ""
+"Whenever a Dragon enters the battlefield under your control, it deals X "
+"damage to any target, where X is the number of Dragons you control."
+msgstr ""
+
+#: ../../DTK.rst:1169
+msgid "Dragon Whisperer"
+msgstr ""
+
+#: ../../DTK.rst:1164
+msgid "|mana_r|: Dragon Whisperer gains flying until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1166
+msgid "|mana_1| |mana_r|: Dragon Whisperer gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1168
+msgid ""
+"Formidable — |mana_4| |mana_r| |mana_r|: Create a 4/4 red Dragon creature "
+"token with flying. Activate this ability only if creatures you control have "
+"total power 8 or greater."
+msgstr ""
+
+#: ../../DTK.rst:1176
+msgid "Dragonlord's Servant"
+msgstr ""
+
+#: ../../DTK.rst:1175
+msgid "Dragon spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../DTK.rst:1183
+msgid "Hardened Berserker"
+msgstr ""
+
+#: ../../DTK.rst:1182
+msgid ""
+"Whenever Hardened Berserker attacks, the next spell you cast this turn costs "
+"|mana_1| less to cast."
+msgstr ""
+
+#: ../../DTK.rst:1190
+msgid "Impact Tremors"
+msgstr ""
+
+#: ../../DTK.rst:1189
+msgid ""
+"Whenever a creature enters the battlefield under your control, Impact "
+"Tremors deals 1 damage to each opponent."
+msgstr ""
+
+#: ../../DTK.rst:1201
+msgid "Ire Shaman"
+msgstr ""
+
+#: ../../DTK.rst:1196
+msgid ""
+"Menace (This creature can't be blocked except by two or more creatures.)"
+msgstr ""
+
+#: ../../DTK.rst:1198 ../../DTK.rst:1234
+msgid ""
+"Megamorph |mana_r| (You may cast this card face down as a 2/2 creature for |"
+"mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 "
+"counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1200
+msgid ""
+"When Ire Shaman is turned face up, exile the top card of your library. Until "
+"end of turn, you may play that card."
+msgstr ""
+
+#: ../../DTK.rst:1208
+msgid "Kindled Fury"
+msgstr ""
+
+#: ../../DTK.rst:1207
+msgid "Target creature gets +1/+0 and gains first strike until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1215
+msgid "Kolaghan Aspirant"
+msgstr ""
+
+#: ../../DTK.rst:1214
+msgid ""
+"Whenever Kolaghan Aspirant becomes blocked by a creature, Kolaghan Aspirant "
+"deals 1 damage to that creature."
+msgstr ""
+
+#: ../../DTK.rst:1226
+msgid "Kolaghan Forerunners"
+msgstr ""
+
+#: ../../DTK.rst:1221 ../../DTK.rst:1289 ../../DTK.rst:1335
+msgid "Trample"
+msgstr ""
+
+#: ../../DTK.rst:1223
+msgid ""
+"Kolaghan Forerunners's power is equal to the number of creatures you control."
+msgstr ""
+
+#: ../../DTK.rst:1225 ../../DTK.rst:1421
+msgid ""
+"Dash |mana_2| |mana_r| (You may cast this spell for its dash cost. If you "
+"do, it gains haste, and it's returned from the battlefield to its owner's "
+"hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../DTK.rst:1237
+msgid "Kolaghan Stormsinger"
+msgstr ""
+
+#: ../../DTK.rst:1232
+msgid "Haste"
+msgstr ""
+
+#: ../../DTK.rst:1236
+msgid ""
+"When Kolaghan Stormsinger is turned face up, target creature gains haste "
+"until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1246
+msgid "Lightning Berserker"
+msgstr ""
+
+#: ../../DTK.rst:1243
+msgid "|mana_r|: Lightning Berserker gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1245
+msgid ""
+"Dash |mana_r| (You may cast this spell for its dash cost. If you do, it "
+"gains haste, and it's returned from the battlefield to its owner's hand at "
+"the beginning of the next end step.)"
+msgstr ""
+
+#: ../../DTK.rst:1253
+msgid "Lose Calm"
+msgstr ""
+
+#: ../../DTK.rst:1252
+msgid ""
+"Gain control of target creature until end of turn. Untap that creature. It "
+"gains haste and menace until end of turn. (A creature with menace can't be "
+"blocked except by two or more creatures.)"
+msgstr ""
+
+#: ../../DTK.rst:1260
+msgid "Magmatic Chasm"
+msgstr ""
+
+#: ../../DTK.rst:1259
+msgid "Creatures without flying can't block this turn."
+msgstr ""
+
+#: ../../DTK.rst:1267
+msgid "Qal Sisma Behemoth"
+msgstr ""
+
+#: ../../DTK.rst:1266
+msgid "Qal Sisma Behemoth can't attack or block unless you pay |mana_2|."
+msgstr ""
+
+#: ../../DTK.rst:1276
+msgid "Rending Volley"
+msgstr ""
+
+#: ../../DTK.rst:1273 ../../DTK.rst:1832
+msgid "This spell can't be countered."
+msgstr ""
+
+#: ../../DTK.rst:1275
+msgid "Rending Volley deals 4 damage to target white or blue creature."
+msgstr ""
+
+#: ../../DTK.rst:1283
+msgid "Roast"
+msgstr ""
+
+#: ../../DTK.rst:1282
+msgid "Roast deals 5 damage to target creature without flying."
+msgstr ""
+
+#: ../../DTK.rst:1292
+msgid "Sabertooth Outrider"
+msgstr ""
+
+#: ../../DTK.rst:1291
+msgid ""
+"Formidable — Whenever Sabertooth Outrider attacks, if creatures you control "
+"have total power 8 or greater, Sabertooth Outrider gains first strike until "
+"end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1299
+msgid "Sarkhan's Rage"
+msgstr ""
+
+#: ../../DTK.rst:1298
+msgid ""
+"Sarkhan's Rage deals 5 damage to any target. If you control no Dragons, "
+"Sarkhan's Rage deals 2 damage to you."
+msgstr ""
+
+#: ../../DTK.rst:1306
+msgid "Sarkhan's Triumph"
+msgstr ""
+
+#: ../../DTK.rst:1305
+msgid ""
+"Search your library for a Dragon creature card, reveal it, put it into your "
+"hand, then shuffle your library."
+msgstr ""
+
+#: ../../DTK.rst:1313
+msgid "Screamreach Brawler"
+msgstr ""
+
+#: ../../DTK.rst:1312 ../../DTK.rst:1430
+msgid ""
+"Dash |mana_1| |mana_r| (You may cast this spell for its dash cost. If you "
+"do, it gains haste, and it's returned from the battlefield to its owner's "
+"hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../DTK.rst:1320
+msgid "Seismic Rupture"
+msgstr ""
+
+#: ../../DTK.rst:1319
+msgid "Seismic Rupture deals 2 damage to each creature without flying."
+msgstr ""
+
+#: ../../DTK.rst:1329
+msgid "Sprinting Warbrute"
+msgstr ""
+
+#: ../../DTK.rst:1326
+msgid "Sprinting Warbrute attacks each combat if able."
+msgstr ""
+
+#: ../../DTK.rst:1328
+msgid ""
+"Dash |mana_3| |mana_r| (You may cast this spell for its dash cost. If you "
+"do, it gains haste, and it's returned from the battlefield to its owner's "
+"hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../DTK.rst:1338
+msgid "Stormcrag Elemental"
+msgstr ""
+
+#: ../../DTK.rst:1337
+msgid ""
+"Megamorph |mana_4| |mana_r| |mana_r| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
+"and put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1349
+msgid "Stormwing Dragon"
+msgstr ""
+
+#: ../../DTK.rst:1344
+msgid "Flying, first strike"
+msgstr ""
+
+#: ../../DTK.rst:1346
+msgid ""
+"Megamorph |mana_5| |mana_r| |mana_r| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
+"and put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1348
+msgid ""
+"When Stormwing Dragon is turned face up, put a +1/+1 counter on each other "
+"Dragon creature you control."
+msgstr ""
+
+#: ../../DTK.rst:1354
+msgid "Summit Prowler"
+msgstr ""
+
+#: ../../DTK.rst:1363
+msgid "Tail Slash"
+msgstr ""
+
+#: ../../DTK.rst:1362
+msgid ""
+"Target creature you control deals damage equal to its power to target "
+"creature you don't control."
+msgstr ""
+
+#: ../../DTK.rst:1372
+msgid "Thunderbreak Regent"
+msgstr ""
+
+#: ../../DTK.rst:1371
+msgid ""
+"Whenever a Dragon you control becomes the target of a spell or ability an "
+"opponent controls, Thunderbreak Regent deals 3 damage to that player."
+msgstr ""
+
+#: ../../DTK.rst:1381
+msgid "Tormenting Voice"
+msgstr ""
+
+#: ../../DTK.rst:1378
+msgid "As an additional cost to cast this spell, discard a card."
+msgstr ""
+
+#: ../../DTK.rst:1380
+msgid "Draw two cards."
+msgstr ""
+
+#: ../../DTK.rst:1388
+msgid "Twin Bolt"
+msgstr ""
+
+#: ../../DTK.rst:1387
+msgid ""
+"Twin Bolt deals 2 damage divided as you choose among one or two targets."
+msgstr ""
+
+#: ../../DTK.rst:1399
+msgid "Vandalize"
+msgstr ""
+
+#: ../../DTK.rst:1394
+msgid "Choose one or both —"
+msgstr ""
+
+#: ../../DTK.rst:1396 ../../DTK.rst:1915
+msgid "Destroy target artifact."
+msgstr ""
+
+#: ../../DTK.rst:1398
+msgid "Destroy target land."
+msgstr ""
+
+#: ../../DTK.rst:1406
+msgid "Volcanic Rush"
+msgstr ""
+
+#: ../../DTK.rst:1405
+msgid "Attacking creatures get +2/+0 and gain trample until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1413
+msgid "Volcanic Vision"
+msgstr ""
+
+#: ../../DTK.rst:1412
+msgid ""
+"Return target instant or sorcery card from your graveyard to your hand. "
+"Volcanic Vision deals damage equal to that card's converted mana cost to "
+"each creature your opponents control. Exile Volcanic Vision."
 msgstr ""
 
 #: ../../DTK.rst:1422
+msgid "Warbringer"
+msgstr ""
+
+#: ../../DTK.rst:1419
+msgid ""
+"Dash costs you pay cost |mana_2| less (as long as this creature is on the "
+"battlefield)."
+msgstr ""
+
+#: ../../DTK.rst:1431
+msgid "Zurgo Bellstriker"
+msgstr ""
+
+#: ../../DTK.rst:1428
 msgid "Zurgo Bellstriker can't block creatures with power 2 or greater."
 msgstr ""
 
+#: ../../DTK.rst:1440
+msgid "Aerie Bowmasters"
+msgstr ""
+
+#: ../../DTK.rst:1437
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../DTK.rst:1439
+msgid ""
+"Megamorph |mana_5| |mana_g| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1447
+msgid "Ainok Artillerist"
+msgstr ""
+
+#: ../../DTK.rst:1446
+msgid ""
+"Ainok Artillerist has reach as long as it has a +1/+1 counter on it. (It can "
+"block creatures with flying.)"
+msgstr ""
+
+#: ../../DTK.rst:1456
+msgid "Ainok Survivalist"
+msgstr ""
+
+#: ../../DTK.rst:1453 ../../DTK.rst:1532
+msgid ""
+"Megamorph |mana_1| |mana_g| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1455
+msgid ""
+"When Ainok Survivalist is turned face up, destroy target artifact or "
+"enchantment an opponent controls."
+msgstr ""
+
+#: ../../DTK.rst:1467
+msgid "Assault Formation"
+msgstr ""
+
+#: ../../DTK.rst:1462
+msgid ""
+"Each creature you control assigns combat damage equal to its toughness "
+"rather than its power."
+msgstr ""
+
+#: ../../DTK.rst:1464
+msgid ""
+"|mana_g|: Target creature with defender can attack this turn as though it "
+"didn't have defender."
+msgstr ""
+
+#: ../../DTK.rst:1466
+msgid "|mana_2| |mana_g|: Creatures you control get +0/+1 until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1474
+msgid "Atarka Beastbreaker"
+msgstr ""
+
+#: ../../DTK.rst:1473
+msgid ""
+"Formidable — |mana_4| |mana_g|: Atarka Beastbreaker gets +4/+4 until end of "
+"turn. Activate this ability only if creatures you control have total power 8 "
+"or greater."
+msgstr ""
+
+#: ../../DTK.rst:1483
+msgid "Avatar of the Resolute"
+msgstr ""
+
+#: ../../DTK.rst:1480
+msgid "Reach, trample"
+msgstr ""
+
+#: ../../DTK.rst:1482
+msgid ""
+"Avatar of the Resolute enters the battlefield with a +1/+1 counter on it for "
+"each other creature you control with a +1/+1 counter on it."
+msgstr ""
+
+#: ../../DTK.rst:1492
+msgid "Circle of Elders"
+msgstr ""
+
+#: ../../DTK.rst:1491
+msgid ""
+"Formidable — |tap|: Add |colorless| |colorless| |colorless|. Activate this "
+"ability only if creatures you control have total power 8 or greater."
+msgstr ""
+
+#: ../../DTK.rst:1499
+msgid "Collected Company"
+msgstr ""
+
+#: ../../DTK.rst:1498
+msgid ""
+"Look at the top six cards of your library. Put up to two creature cards with "
+"converted mana cost 3 or less from among them onto the battlefield. Put the "
+"rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../DTK.rst:1504
+msgid "Colossodon Yearling"
+msgstr ""
+
+#: ../../DTK.rst:1513
+msgid "Conifer Strider"
+msgstr ""
+
+#: ../../DTK.rst:1512
+msgid ""
+"Hexproof (This creature can't be the target of spells or abilities your "
+"opponents control.)"
+msgstr ""
+
+#: ../../DTK.rst:1524
+msgid "Deathmist Raptor"
+msgstr ""
+
+#: ../../DTK.rst:1521
+msgid ""
+"Whenever a permanent you control is turned face up, you may return Deathmist "
+"Raptor from your graveyard to the battlefield face up or face down."
+msgstr ""
+
+#: ../../DTK.rst:1523
+msgid ""
+"Megamorph |mana_4| |mana_g| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1535
+msgid "Den Protector"
+msgstr ""
+
+#: ../../DTK.rst:1530
+msgid "Creatures with power less than Den Protector's power can't block it."
+msgstr ""
+
+#: ../../DTK.rst:1534
+msgid ""
+"When Den Protector is turned face up, return target card from your graveyard "
+"to your hand."
+msgstr ""
+
+#: ../../DTK.rst:1546
+msgid "Display of Dominance"
+msgstr ""
+
+#: ../../DTK.rst:1541
+msgid "Choose one —"
+msgstr ""
+
+#: ../../DTK.rst:1543
+msgid "Destroy target blue or black noncreature permanent."
+msgstr ""
+
+#: ../../DTK.rst:1545
+msgid ""
+"Permanents you control can't be the targets of blue or black spells your "
+"opponents control this turn."
+msgstr ""
+
+#: ../../DTK.rst:1553
+msgid "Dragon-Scarred Bear"
+msgstr ""
+
+#: ../../DTK.rst:1552
+msgid ""
+"Formidable — |mana_1| |mana_g|: Regenerate Dragon-Scarred Bear. Activate "
+"this ability only if creatures you control have total power 8 or greater."
+msgstr ""
+
+#: ../../DTK.rst:1560
+msgid "Dromoka's Gift"
+msgstr ""
+
+#: ../../DTK.rst:1559
+msgid ""
+"Bolster 4. (Choose a creature with the least toughness among creatures you "
+"control and put four +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1567
+msgid "Epic Confrontation"
+msgstr ""
+
+#: ../../DTK.rst:1566
+msgid ""
+"Target creature you control gets +1/+2 until end of turn. It fights target "
+"creature you don't control. (Each deals damage equal to its power to the "
+"other.)"
+msgstr ""
+
+#: ../../DTK.rst:1574
+msgid "Explosive Vegetation"
+msgstr ""
+
+#: ../../DTK.rst:1573
+msgid ""
+"Search your library for up to two basic land cards, put them onto the "
+"battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../DTK.rst:1585
+msgid "Foe-Razer Regent"
+msgstr ""
+
+#: ../../DTK.rst:1582
+msgid ""
+"When Foe-Razer Regent enters the battlefield, you may have it fight target "
+"creature you don't control."
+msgstr ""
+
+#: ../../DTK.rst:1584
+msgid ""
+"Whenever a creature you control fights, put two +1/+1 counters on it at the "
+"beginning of the next end step."
+msgstr ""
+
+#: ../../DTK.rst:1594
+msgid "Glade Watcher"
+msgstr ""
+
+#: ../../DTK.rst:1593
+msgid ""
+"Formidable — |mana_g|: Glade Watcher can attack this turn as though it "
+"didn't have defender. Activate this ability only if creatures you control "
+"have total power 8 or greater."
+msgstr ""
+
+#: ../../DTK.rst:1603
+msgid "Guardian Shield-Bearer"
+msgstr ""
+
+#: ../../DTK.rst:1600
+msgid ""
+"Megamorph |mana_3| |mana_g| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1602
+msgid ""
+"When Guardian Shield-Bearer is turned face up, put a +1/+1 counter on "
+"another target creature you control."
+msgstr ""
+
+#: ../../DTK.rst:1614
+msgid "Herdchaser Dragon"
+msgstr ""
+
+#: ../../DTK.rst:1609 ../../DTK.rst:1823
+msgid "Flying, trample"
+msgstr ""
+
+#: ../../DTK.rst:1611
+msgid ""
+"Megamorph |mana_5| |mana_g| |mana_g| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
+"and put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1613
+msgid ""
+"When Herdchaser Dragon is turned face up, put a +1/+1 counter on each other "
+"Dragon creature you control."
+msgstr ""
+
+#: ../../DTK.rst:1621
+msgid "Inspiring Call"
+msgstr ""
+
+#: ../../DTK.rst:1620
+msgid ""
+"Draw a card for each creature you control with a +1/+1 counter on it. Those "
+"creatures gain indestructible until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1628
+msgid "Lurking Arynx"
+msgstr ""
+
+#: ../../DTK.rst:1627
+msgid ""
+"Formidable — |mana_2| |mana_g|: Target creature blocks Lurking Arynx this "
+"turn if able. Activate this ability only if creatures you control have total "
+"power 8 or greater."
+msgstr ""
+
+#: ../../DTK.rst:1635
+msgid "Naturalize"
+msgstr ""
+
+#: ../../DTK.rst:1634
+msgid "Destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../DTK.rst:1644
+msgid "Obscuring Aether"
+msgstr ""
+
+#: ../../DTK.rst:1641
+msgid "Face-down creature spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../DTK.rst:1643
+msgid ""
+"|mana_1| |mana_g|: Turn Obscuring Aether face down. (It becomes a 2/2 "
+"creature.)"
+msgstr ""
+
+#: ../../DTK.rst:1651
+msgid "Pinion Feast"
+msgstr ""
+
+#: ../../DTK.rst:1650
+msgid ""
+"Destroy target creature with flying. Bolster 2. (Choose a creature with the "
+"least toughness among creatures you control and put two +1/+1 counters on "
+"it.)"
+msgstr ""
+
+#: ../../DTK.rst:1658
+msgid "Press the Advantage"
+msgstr ""
+
+#: ../../DTK.rst:1657
+msgid ""
+"Up to two target creatures each get +2/+2 and gain trample until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1665
+msgid "Revealing Wind"
+msgstr ""
+
+#: ../../DTK.rst:1664
+msgid ""
+"Prevent all combat damage that would be dealt this turn. You may look at "
+"each face-down creature that's attacking or blocking."
+msgstr ""
+
+#: ../../DTK.rst:1674
+msgid "Salt Road Ambushers"
+msgstr ""
+
+#: ../../DTK.rst:1671
+msgid ""
+"Whenever another permanent you control is turned face up, if it's a "
+"creature, put two +1/+1 counters on it."
+msgstr ""
+
+#: ../../DTK.rst:1673
+msgid ""
+"Megamorph |mana_3| |mana_g| |mana_g| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
+"and put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1683
+msgid "Salt Road Quartermasters"
+msgstr ""
+
+#: ../../DTK.rst:1680
+msgid ""
+"Salt Road Quartermasters enters the battlefield with two +1/+1 counters on "
+"it."
+msgstr ""
+
+#: ../../DTK.rst:1682
+msgid ""
+"|mana_2| |mana_g|, Remove a +1/+1 counter from Salt Road Quartermasters: Put "
+"a +1/+1 counter on target creature."
+msgstr ""
+
+#: ../../DTK.rst:1690
+msgid "Sandsteppe Scavenger"
+msgstr ""
+
+#: ../../DTK.rst:1689
+msgid ""
+"When Sandsteppe Scavenger enters the battlefield, bolster 2. (Choose a "
+"creature with the least toughness among creatures you control and put two +1/"
+"+1 counters on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1699
+msgid "Scaleguard Sentinels"
+msgstr ""
+
+#: ../../DTK.rst:1698
+msgid ""
+"Scaleguard Sentinels enters the battlefield with a +1/+1 counter on it if "
+"you revealed a Dragon card or controlled a Dragon as you cast this spell."
+msgstr ""
+
+#: ../../DTK.rst:1706
+msgid "Segmented Krotiq"
+msgstr ""
+
+#: ../../DTK.rst:1705
+msgid ""
+"Megamorph |mana_6| |mana_g| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its megamorph cost and "
+"put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1715
+msgid "Servant of the Scale"
+msgstr ""
+
+#: ../../DTK.rst:1712
+msgid "Servant of the Scale enters the battlefield with a +1/+1 counter on it."
+msgstr ""
+
+#: ../../DTK.rst:1714
+msgid ""
+"When Servant of the Scale dies, put X +1/+1 counters on target creature you "
+"control, where X is the number of +1/+1 counters on Servant of the Scale."
+msgstr ""
+
+#: ../../DTK.rst:1724
+msgid "Shaman of Forgotten Ways"
+msgstr ""
+
+#: ../../DTK.rst:1721
+msgid ""
+"|tap|: Add two mana in any combination of colors. Spend this mana only to "
+"cast creature spells."
+msgstr ""
+
+#: ../../DTK.rst:1723
+msgid ""
+"Formidable — |mana_9| |mana_g| |mana_g|, |tap|: Each player's life total "
+"becomes the number of creatures they control. Activate this ability only if "
+"creatures you control have total power 8 or greater."
+msgstr ""
+
+#: ../../DTK.rst:1731
+msgid "Shape the Sands"
+msgstr ""
+
+#: ../../DTK.rst:1730
+msgid ""
+"Target creature gets +0/+5 and gains reach until end of turn. (It can block "
+"creatures with flying.)"
+msgstr ""
+
+#: ../../DTK.rst:1740
+msgid "Sheltered Aerie"
+msgstr ""
+
+#: ../../DTK.rst:1737
+msgid "Enchant land"
+msgstr ""
+
+#: ../../DTK.rst:1739
+msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
+msgstr ""
+
+#: ../../DTK.rst:1747
+msgid "Sight of the Scalelords"
+msgstr ""
+
+#: ../../DTK.rst:1746
+msgid ""
+"At the beginning of combat on your turn, creatures you control with "
+"toughness 4 or greater get +2/+2 and gain vigilance until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1754
+msgid "Stampeding Elk Herd"
+msgstr ""
+
+#: ../../DTK.rst:1753
+msgid ""
+"Formidable — Whenever Stampeding Elk Herd attacks, if creatures you control "
+"have total power 8 or greater, creatures you control gain trample until end "
+"of turn."
+msgstr ""
+
+#: ../../DTK.rst:1761
+msgid "Sunbringer's Touch"
+msgstr ""
+
+#: ../../DTK.rst:1760
+msgid ""
+"Bolster X, where X is the number of cards in your hand. Each creature you "
+"control with a +1/+1 counter on it gains trample until end of turn. (To "
+"bolster X, choose a creature with the least toughness among creatures you "
+"control and put X +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../DTK.rst:1768
+msgid "Surrak, the Hunt Caller"
+msgstr ""
+
+#: ../../DTK.rst:1767
+msgid ""
+"Formidable — At the beginning of combat on your turn, if creatures you "
+"control have total power 8 or greater, target creature you control gains "
+"haste until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1775
+msgid "Tread Upon"
+msgstr ""
+
+#: ../../DTK.rst:1774
+msgid "Target creature gets +2/+2 and gains trample until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1784
+msgid "Arashin Sovereign"
+msgstr ""
+
+#: ../../DTK.rst:1783
+msgid ""
+"When Arashin Sovereign dies, you may put it on the top or bottom of its "
+"owner's library."
+msgstr ""
+
+#: ../../DTK.rst:1799
+msgid "Atarka's Command"
+msgstr ""
+
+#: ../../DTK.rst:1790 ../../DTK.rst:1874 ../../DTK.rst:1909 ../../DTK.rst:1944
+#: ../../DTK.rst:1997
+msgid "Choose two —"
+msgstr ""
+
+#: ../../DTK.rst:1792
+msgid "Your opponents can't gain life this turn."
+msgstr ""
+
+#: ../../DTK.rst:1794
+msgid "Atarka's Command deals 3 damage to each opponent."
+msgstr ""
+
+#: ../../DTK.rst:1796
+msgid "You may put a land card from your hand onto the battlefield."
+msgstr ""
+
+#: ../../DTK.rst:1798
+msgid "Creatures you control get +1/+1 and gain reach until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1808
+msgid "Boltwing Marauder"
+msgstr ""
+
+#: ../../DTK.rst:1807
+msgid ""
+"Whenever another creature enters the battlefield under your control, target "
+"creature gets +2/+0 until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1817
+msgid "Cunning Breezedancer"
+msgstr ""
+
+#: ../../DTK.rst:1816
+msgid ""
+"Whenever you cast a noncreature spell, Cunning Breezedancer gets +2/+2 until "
+"end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1826
+msgid "Dragonlord Atarka"
+msgstr ""
+
+#: ../../DTK.rst:1825
+msgid ""
+"When Dragonlord Atarka enters the battlefield, it deals 5 damage divided as "
+"you choose among any number of target creatures and/or planeswalkers your "
+"opponents control."
+msgstr ""
+
+#: ../../DTK.rst:1837
+msgid "Dragonlord Dromoka"
+msgstr ""
+
+#: ../../DTK.rst:1836
+msgid "Your opponents can't cast spells during your turn."
+msgstr ""
+
+#: ../../DTK.rst:1848
+msgid "Dragonlord Kolaghan"
+msgstr ""
+
+#: ../../DTK.rst:1843
+msgid "Flying, haste"
+msgstr ""
+
+#: ../../DTK.rst:1845
+msgid "Other creatures you control have haste."
+msgstr ""
+
+#: ../../DTK.rst:1847
+msgid ""
+"Whenever an opponent casts a creature or planeswalker spell with the same "
+"name as a card in their graveyard, that player loses 10 life."
+msgstr ""
+
+#: ../../DTK.rst:1859
+msgid "Dragonlord Ojutai"
+msgstr ""
+
+#: ../../DTK.rst:1856
+msgid "Dragonlord Ojutai has hexproof as long as it's untapped."
+msgstr ""
+
+#: ../../DTK.rst:1858
+msgid ""
+"Whenever Dragonlord Ojutai deals combat damage to a player, look at the top "
+"three cards of your library. Put one of them into your hand and the rest on "
+"the bottom of your library in any order."
+msgstr ""
+
+#: ../../DTK.rst:1868
+msgid "Dragonlord Silumgar"
+msgstr ""
+
+#: ../../DTK.rst:1867
+msgid ""
+"When Dragonlord Silumgar enters the battlefield, gain control of target "
+"creature or planeswalker for as long as you control Dragonlord Silumgar."
+msgstr ""
+
+#: ../../DTK.rst:1883
+msgid "Dromoka's Command"
+msgstr ""
+
+#: ../../DTK.rst:1876
+msgid ""
+"Prevent all damage target instant or sorcery spell would deal this turn."
+msgstr ""
+
+#: ../../DTK.rst:1878
+msgid "Target player sacrifices an enchantment."
+msgstr ""
+
+#: ../../DTK.rst:1880
+msgid "Put a +1/+1 counter on target creature."
+msgstr ""
+
+#: ../../DTK.rst:1882
+msgid "Target creature you control fights target creature you don't control."
+msgstr ""
+
+#: ../../DTK.rst:1892
+msgid "Enduring Scalelord"
+msgstr ""
+
+#: ../../DTK.rst:1891
+msgid ""
+"Whenever one or more +1/+1 counters are put on another creature you control, "
+"you may put a +1/+1 counter on Enduring Scalelord."
+msgstr ""
+
+#: ../../DTK.rst:1903
+msgid "Harbinger of the Hunt"
+msgstr ""
+
+#: ../../DTK.rst:1900
+msgid ""
+"|mana_2| |mana_r|: Harbinger of the Hunt deals 1 damage to each creature "
+"without flying."
+msgstr ""
+
+#: ../../DTK.rst:1902
+msgid ""
+"|mana_2| |mana_g|: Harbinger of the Hunt deals 1 damage to each other "
+"creature with flying."
+msgstr ""
+
+#: ../../DTK.rst:1918
+msgid "Kolaghan's Command"
+msgstr ""
+
+#: ../../DTK.rst:1911
+msgid "Return target creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../DTK.rst:1913
+msgid "Target player discards a card."
+msgstr ""
+
+#: ../../DTK.rst:1917
+msgid "Kolaghan's Command deals 2 damage to any target."
+msgstr ""
+
+#: ../../DTK.rst:1929
+msgid "Narset Transcendent"
+msgstr ""
+
+#: ../../DTK.rst:1924
+msgid ""
+"+1: Look at the top card of your library. If it's a noncreature, nonland "
+"card, you may reveal it and put it into your hand."
+msgstr ""
+
+#: ../../DTK.rst:1926
+msgid ""
+"−2: When you cast your next instant or sorcery spell from your hand this "
+"turn, it gains rebound."
+msgstr ""
+
+#: ../../DTK.rst:1928
+msgid ""
+"−9: You get an emblem with \"Your opponents can't cast noncreature spells.\""
+msgstr ""
+
+#: ../../DTK.rst:1938
+msgid "Necromaster Dragon"
+msgstr ""
+
+#: ../../DTK.rst:1937
+msgid ""
+"Whenever Necromaster Dragon deals combat damage to a player, you may pay |"
+"mana_2|. If you do, create a 2/2 black Zombie creature token and each "
+"opponent puts the top two cards of their library into their graveyard."
+msgstr ""
+
+#: ../../DTK.rst:1953
+msgid "Ojutai's Command"
+msgstr ""
+
+#: ../../DTK.rst:1946
+msgid ""
+"Return target creature card with converted mana cost 2 or less from your "
+"graveyard to the battlefield."
+msgstr ""
+
+#: ../../DTK.rst:1948
+msgid "You gain 4 life."
+msgstr ""
+
+#: ../../DTK.rst:1950
+msgid "Counter target creature spell."
+msgstr ""
+
+#: ../../DTK.rst:1962
+msgid "Pristine Skywise"
+msgstr ""
+
+#: ../../DTK.rst:1961
+msgid ""
+"Whenever you cast a noncreature spell, untap Pristine Skywise. It gains "
+"protection from the color of your choice until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:1971
+msgid "Ruthless Deathfang"
+msgstr ""
+
+#: ../../DTK.rst:1970
+msgid ""
+"Whenever you sacrifice a creature, target opponent sacrifices a creature."
+msgstr ""
+
+#: ../../DTK.rst:1982
+msgid "Sarkhan Unbroken"
+msgstr ""
+
+#: ../../DTK.rst:1977
+msgid "+1: Draw a card, then add one mana of any color."
+msgstr ""
+
+#: ../../DTK.rst:1979
+msgid "−2: Create a 4/4 red Dragon creature token with flying."
+msgstr ""
+
+#: ../../DTK.rst:1981
+msgid ""
+"−8: Search your library for any number of Dragon creature cards and put them "
+"onto the battlefield. Then shuffle your library."
+msgstr ""
+
+#: ../../DTK.rst:1991
+msgid "Savage Ventmaw"
+msgstr ""
+
+#: ../../DTK.rst:1990
+msgid ""
+"Whenever Savage Ventmaw attacks, add |mana_r| |mana_r| |mana_r| |mana_g| |"
+"mana_g| |mana_g|. Until end of turn, you don't lose this mana as steps and "
+"phases end."
+msgstr ""
+
+#: ../../DTK.rst:2006
+msgid "Silumgar's Command"
+msgstr ""
+
+#: ../../DTK.rst:2001
+msgid "Return target permanent to its owner's hand."
+msgstr ""
+
+#: ../../DTK.rst:2003
+msgid "Target creature gets -3/-3 until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:2005
+msgid "Destroy target planeswalker."
+msgstr ""
+
+#: ../../DTK.rst:2015
+msgid "Swift Warkite"
+msgstr ""
+
+#: ../../DTK.rst:2014
+msgid ""
+"When Swift Warkite enters the battlefield, you may put a creature card with "
+"converted mana cost 3 or less from your hand or graveyard onto the "
+"battlefield. That creature gains haste. Return it to your hand at the "
+"beginning of the next end step."
+msgstr ""
+
+#: ../../DTK.rst:2022
+msgid "Ancestral Statue"
+msgstr ""
+
+#: ../../DTK.rst:2021
+msgid ""
+"When Ancestral Statue enters the battlefield, return a nonland permanent you "
+"control to its owner's hand."
+msgstr ""
+
+#: ../../DTK.rst:2031
+msgid "Atarka Monument"
+msgstr ""
+
+#: ../../DTK.rst:2028
+msgid "|tap|: Add |mana_r| or |mana_g|."
+msgstr ""
+
+#: ../../DTK.rst:2030
+msgid ""
+"|mana_4| |mana_r| |mana_g|: Atarka Monument becomes a 4/4 red and green "
+"Dragon artifact creature with flying until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:2040
+msgid "Custodian of the Trove"
+msgstr ""
+
+#: ../../DTK.rst:2039
+msgid "Custodian of the Trove enters the battlefield tapped."
+msgstr ""
+
+#: ../../DTK.rst:2047
+msgid "Dragonloft Idol"
+msgstr ""
+
+#: ../../DTK.rst:2046
+msgid ""
+"As long as you control a Dragon, Dragonloft Idol gets +1/+1 and has flying "
+"and trample."
+msgstr ""
+
+#: ../../DTK.rst:2056
+msgid "Dromoka Monument"
+msgstr ""
+
+#: ../../DTK.rst:2053
+msgid "|tap|: Add |mana_g| or |mana_w|."
+msgstr ""
+
+#: ../../DTK.rst:2055
+msgid ""
+"|mana_4| |mana_g| |mana_w|: Dromoka Monument becomes a 4/4 green and white "
+"Dragon artifact creature with flying until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:2067
+msgid "Gate Smasher"
+msgstr ""
+
+#: ../../DTK.rst:2062
+msgid ""
+"Gate Smasher can be attached only to a creature with toughness 4 or greater."
+msgstr ""
+
+#: ../../DTK.rst:2064
+msgid "Equipped creature gets +3/+0 and has trample."
+msgstr ""
+
+#: ../../DTK.rst:2066
+msgid "Equip |mana_3|"
+msgstr ""
+
+#: ../../DTK.rst:2074
+msgid "Keeper of the Lens"
+msgstr ""
+
+#: ../../DTK.rst:2073
+msgid ""
+"You may look at face-down creatures you don't control. (You may do this at "
+"any time.)"
+msgstr ""
+
+#: ../../DTK.rst:2083
+msgid "Kolaghan Monument"
+msgstr ""
+
+#: ../../DTK.rst:2080
+msgid "|tap|: Add |mana_b| or |mana_r|."
+msgstr ""
+
+#: ../../DTK.rst:2082
+msgid ""
+"|mana_4| |mana_b| |mana_r|: Kolaghan Monument becomes a 4/4 black and red "
+"Dragon artifact creature with flying until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:2092
+msgid "Ojutai Monument"
+msgstr ""
+
+#: ../../DTK.rst:2089
+msgid "|tap|: Add |mana_w| or |mana_u|."
+msgstr ""
+
+#: ../../DTK.rst:2091
+msgid ""
+"|mana_4| |mana_w| |mana_u|: Ojutai Monument becomes a 4/4 white and blue "
+"Dragon artifact creature with flying until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:2101
+msgid "Silumgar Monument"
+msgstr ""
+
+#: ../../DTK.rst:2098
+msgid "|tap|: Add |mana_u| or |mana_b|."
+msgstr ""
+
+#: ../../DTK.rst:2100
+msgid ""
+"|mana_4| |mana_u| |mana_b|: Silumgar Monument becomes a 4/4 blue and black "
+"Dragon artifact creature with flying until end of turn."
+msgstr ""
+
+#: ../../DTK.rst:2110
+msgid "Spidersilk Net"
+msgstr ""
+
+#: ../../DTK.rst:2107
+msgid ""
+"Equipped creature gets +0/+2 and has reach. (It can block creatures with "
+"flying.)"
+msgstr ""
+
+#: ../../DTK.rst:2109
+msgid ""
+"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
+"as a sorcery.)"
+msgstr ""
+
+#: ../../DTK.rst:2121
+msgid "Stormrider Rig"
+msgstr ""
+
+#: ../../DTK.rst:2116
+msgid "Equipped creature gets +1/+1."
+msgstr ""
+
+#: ../../DTK.rst:2118
+msgid ""
+"Whenever a creature enters the battlefield under your control, you may "
+"attach Stormrider Rig to it."
+msgstr ""
+
+#: ../../DTK.rst:2120
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../DTK.rst:2128
+msgid "Tapestry of the Ages"
+msgstr ""
+
+#: ../../DTK.rst:2127
+msgid ""
+"|mana_2|, |tap|: Draw a card. Activate this ability only if you've cast a "
+"noncreature spell this turn."
+msgstr ""
+
+#: ../../DTK.rst:2135
+msgid "Vial of Dragonfire"
+msgstr ""
+
+#: ../../DTK.rst:2134
+msgid ""
+"|mana_2|, |tap|, Sacrifice Vial of Dragonfire: It deals 2 damage to target "
+"creature."
+msgstr ""
+
+#: ../../DTK.rst:2142
+msgid "Evolving Wilds"
+msgstr ""
+
+#: ../../DTK.rst:2141
+msgid ""
+"|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
+"put it onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../DTK.rst:2153
+msgid "Haven of the Spirit Dragon"
+msgstr ""
+
+#: ../../DTK.rst:2148
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../DTK.rst:2150
+msgid ""
+"|tap|: Add one mana of any color. Spend this mana only to cast a Dragon "
+"creature spell."
+msgstr ""
+
+#: ../../DTK.rst:2152
+msgid ""
+"|mana_2|, |tap|, Sacrifice Haven of the Spirit Dragon: Return target Dragon "
+"creature card or Ugin planeswalker card from your graveyard to your hand."
+msgstr ""
+
+#: ../../DTK.rst:2158 ../../DTK.rst:2165 ../../DTK.rst:2172
+msgid "Plains"
+msgstr ""
+
+#: ../../DTK.rst:2179 ../../DTK.rst:2186 ../../DTK.rst:2193
+msgid "Island"
+msgstr ""
+
+#: ../../DTK.rst:2200 ../../DTK.rst:2207 ../../DTK.rst:2214
+msgid "Swamp"
+msgstr ""
+
+#: ../../DTK.rst:2221 ../../DTK.rst:2228 ../../DTK.rst:2235
+msgid "Mountain"
+msgstr ""
+
+#: ../../DTK.rst:2242 ../../DTK.rst:2249 ../../DTK.rst:2256
+msgid "Forest"
+msgstr ""
