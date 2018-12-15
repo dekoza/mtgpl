@@ -8,10 +8,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-12-21 23:55+0100\n"
+"POT-Creation-Date: 2018-12-15 13:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,41 +25,35 @@ msgstr ""
 msgid "Abbot of Keral Keep"
 msgstr ""
 
-#: ../../ORI.rst:8
-#: ../../ORI.rst:692
-#: ../../ORI.rst:784
-#: ../../ORI.rst:1068
-msgid "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+#: ../../ORI.rst:8 ../../ORI.rst:692 ../../ORI.rst:784 ../../ORI.rst:1068
+msgid ""
+"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
+"until end of turn.)"
 msgstr ""
 
 #: ../../ORI.rst:10
-msgid "When Abbot of Keral Keep enters the battlefield, exile the top card of your library. Until end of turn, you may play that card."
+msgid ""
+"When Abbot of Keral Keep enters the battlefield, exile the top card of your "
+"library. Until end of turn, you may play that card."
 msgstr ""
 
 #: ../../ORI.rst:17
 msgid "Acolyte of the Inferno"
 msgstr ""
 
-#: ../../ORI.rst:14
-#: ../../ORI.rst:40
-#: ../../ORI.rst:278
-#: ../../ORI.rst:466
-#: ../../ORI.rst:540
-#: ../../ORI.rst:628
-#: ../../ORI.rst:702
-#: ../../ORI.rst:732
-#: ../../ORI.rst:954
-#: ../../ORI.rst:1044
-#: ../../ORI.rst:1084
-#: ../../ORI.rst:1212
-#: ../../ORI.rst:1332
-#: ../../ORI.rst:1368
-#: ../../ORI.rst:1420
-msgid "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)"
+#: ../../ORI.rst:14 ../../ORI.rst:40 ../../ORI.rst:278 ../../ORI.rst:466
+#: ../../ORI.rst:540 ../../ORI.rst:628 ../../ORI.rst:702 ../../ORI.rst:732
+#: ../../ORI.rst:954 ../../ORI.rst:1044 ../../ORI.rst:1084 ../../ORI.rst:1212
+#: ../../ORI.rst:1332 ../../ORI.rst:1368 ../../ORI.rst:1420
+msgid ""
+"Renown 1 (When this creature deals combat damage to a player, if it isn't "
+"renowned, put a +1/+1 counter on it and it becomes renowned.)"
 msgstr ""
 
 #: ../../ORI.rst:16
-msgid "Whenever Acolyte of the Inferno becomes blocked by a creature, it deals 2 damage to that creature."
+msgid ""
+"Whenever Acolyte of the Inferno becomes blocked by a creature, it deals 2 "
+"damage to that creature."
 msgstr ""
 
 #: ../../ORI.rst:21
@@ -66,33 +61,30 @@ msgid "Act of Treason"
 msgstr ""
 
 #: ../../ORI.rst:20
-msgid "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and |tap| this turn.)"
+msgid ""
+"Gain control of target creature until end of turn. Untap that creature. It "
+"gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
 
 #: ../../ORI.rst:27
 msgid "Aegis Angel"
 msgstr ""
 
-#: ../../ORI.rst:24
-#: ../../ORI.rst:98
-#: ../../ORI.rst:116
-#: ../../ORI.rst:230
-#: ../../ORI.rst:436
-#: ../../ORI.rst:442
-#: ../../ORI.rst:812
-#: ../../ORI.rst:888
-#: ../../ORI.rst:1008
-#: ../../ORI.rst:1066
-#: ../../ORI.rst:1090
-#: ../../ORI.rst:1110
-#: ../../ORI.rst:1126
-#: ../../ORI.rst:1146
-#: ../../ORI.rst:1210
-msgid "Flying (This creature can't be blocked except by creatures with flying or reach.)"
+#: ../../ORI.rst:24 ../../ORI.rst:98 ../../ORI.rst:116 ../../ORI.rst:230
+#: ../../ORI.rst:436 ../../ORI.rst:442 ../../ORI.rst:812 ../../ORI.rst:888
+#: ../../ORI.rst:1008 ../../ORI.rst:1066 ../../ORI.rst:1090 ../../ORI.rst:1110
+#: ../../ORI.rst:1126 ../../ORI.rst:1146 ../../ORI.rst:1210
+msgid ""
+"Flying (This creature can't be blocked except by creatures with flying or "
+"reach.)"
 msgstr ""
 
 #: ../../ORI.rst:26
-msgid "When Aegis Angel enters the battlefield, another target permanent gains indestructible for as long as you control Aegis Angel. (Effects that say \\\"destroy\\\" don't destroy it. A creature with indestructible can't be destroyed by damage.)"
+msgid ""
+"When Aegis Angel enters the battlefield, another target permanent gains "
+"indestructible for as long as you control Aegis Angel. (Effects that say \\"
+"\"destroy\\\" don't destroy it. A creature with indestructible can't be "
+"destroyed by damage.)"
 msgstr ""
 
 #: ../../ORI.rst:31
@@ -100,7 +92,9 @@ msgid "Aerial Volley"
 msgstr ""
 
 #: ../../ORI.rst:30
-msgid "Aerial Volley deals 3 damage divided as you choose among one, two, or three target creatures with flying."
+msgid ""
+"Aerial Volley deals 3 damage divided as you choose among one, two, or three "
+"target creatures with flying."
 msgstr ""
 
 #: ../../ORI.rst:35
@@ -116,7 +110,9 @@ msgid "Akroan Sergeant"
 msgstr ""
 
 #: ../../ORI.rst:38
-msgid "First strike (This creature deals combat damage before creatures without first strike.)"
+msgid ""
+"First strike (This creature deals combat damage before creatures without "
+"first strike.)"
 msgstr ""
 
 #: ../../ORI.rst:47
@@ -128,34 +124,31 @@ msgid "When Alchemist's Vial enters the battlefield, draw a card."
 msgstr ""
 
 #: ../../ORI.rst:46
-msgid "|mana_1|, |tap|, Sacrifice Alchemist's Vial: Target creature can't attack or block this turn."
+msgid ""
+"|mana_1|, |tap|, Sacrifice Alchemist's Vial: Target creature can't attack or "
+"block this turn."
 msgstr ""
 
 #: ../../ORI.rst:55
 msgid "Alhammarret, High Arbiter"
 msgstr ""
 
-#: ../../ORI.rst:50
-#: ../../ORI.rst:86
-#: ../../ORI.rst:108
-#: ../../ORI.rst:136
-#: ../../ORI.rst:552
-#: ../../ORI.rst:720
-#: ../../ORI.rst:946
-#: ../../ORI.rst:1054
-#: ../../ORI.rst:1198
-#: ../../ORI.rst:1312
-#: ../../ORI.rst:1350
-#: ../../ORI.rst:1408
+#: ../../ORI.rst:50 ../../ORI.rst:86 ../../ORI.rst:108 ../../ORI.rst:136
+#: ../../ORI.rst:552 ../../ORI.rst:720 ../../ORI.rst:946 ../../ORI.rst:1054
+#: ../../ORI.rst:1198 ../../ORI.rst:1312 ../../ORI.rst:1350 ../../ORI.rst:1408
 msgid "Flying"
 msgstr ""
 
 #: ../../ORI.rst:52
-msgid "As Alhammarret, High Arbiter enters the battlefield, each opponent reveals his or her hand. You choose the name of a nonland card revealed this way."
+msgid ""
+"As Alhammarret, High Arbiter enters the battlefield, each opponent reveals "
+"his or her hand. You choose the name of a nonland card revealed this way."
 msgstr ""
 
 #: ../../ORI.rst:54
-msgid "Your opponents can't cast spells with the chosen name (as long as this creature is on the battlefield)."
+msgid ""
+"Your opponents can't cast spells with the chosen name (as long as this "
+"creature is on the battlefield)."
 msgstr ""
 
 #: ../../ORI.rst:61
@@ -167,7 +160,9 @@ msgid "If you would gain life, you gain twice that much life instead."
 msgstr ""
 
 #: ../../ORI.rst:60
-msgid "If you would draw a card except the first one you draw in each of your draw steps, draw two cards instead."
+msgid ""
+"If you would draw a card except the first one you draw in each of your draw "
+"steps, draw two cards instead."
 msgstr ""
 
 #: ../../ORI.rst:65
@@ -175,7 +170,9 @@ msgid "Ampryn Tactician"
 msgstr ""
 
 #: ../../ORI.rst:64
-msgid "When Ampryn Tactician enters the battlefield, creatures you control get +1/+1 until end of turn."
+msgid ""
+"When Ampryn Tactician enters the battlefield, creatures you control get +1/"
+"+1 until end of turn."
 msgstr ""
 
 #: ../../ORI.rst:69
@@ -183,7 +180,9 @@ msgid "Anchor to the Æther"
 msgstr ""
 
 #: ../../ORI.rst:68
-msgid "Put target creature on top of its owner's library. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid ""
+"Put target creature on top of its owner's library. Scry 1. (Look at the top "
+"card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
 #: ../../ORI.rst:73
@@ -191,7 +190,10 @@ msgid "Angel's Tomb"
 msgstr ""
 
 #: ../../ORI.rst:72
-msgid "Whenever a creature enters the battlefield under your control, you may have Angel's Tomb become a 3/3 white Angel artifact creature with flying until end of turn."
+msgid ""
+"Whenever a creature enters the battlefield under your control, you may have "
+"Angel's Tomb become a 3/3 white Angel artifact creature with flying until "
+"end of turn."
 msgstr ""
 
 #: ../../ORI.rst:79
@@ -199,11 +201,16 @@ msgid "Animist's Awakening"
 msgstr ""
 
 #: ../../ORI.rst:76
-msgid "Reveal the top X cards of your library. Put all land cards from among them onto the battlefield tapped and the rest on the bottom of your library in a random order."
+msgid ""
+"Reveal the top X cards of your library. Put all land cards from among them "
+"onto the battlefield tapped and the rest on the bottom of your library in a "
+"random order."
 msgstr ""
 
 #: ../../ORI.rst:78
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, untap those lands."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, untap those lands."
 msgstr ""
 
 #: ../../ORI.rst:83
@@ -219,11 +226,16 @@ msgid "Archangel of Tithes"
 msgstr ""
 
 #: ../../ORI.rst:88
-msgid "As long as Archangel of Tithes is untapped, creatures can't attack you or a planeswalker you control unless their controller pays |mana_1| for each of those creatures."
+msgid ""
+"As long as Archangel of Tithes is untapped, creatures can't attack you or a "
+"planeswalker you control unless their controller pays |mana_1| for each of "
+"those creatures."
 msgstr ""
 
 #: ../../ORI.rst:90
-msgid "As long as Archangel of Tithes is attacking, creatures can't block unless their controller pays |mana_1| for each of those creatures."
+msgid ""
+"As long as Archangel of Tithes is attacking, creatures can't block unless "
+"their controller pays |mana_1| for each of those creatures."
 msgstr ""
 
 #: ../../ORI.rst:95
@@ -239,7 +251,9 @@ msgid "Aspiring Aeronaut"
 msgstr ""
 
 #: ../../ORI.rst:100
-msgid "When Aspiring Aeronaut enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield."
+msgid ""
+"When Aspiring Aeronaut enters the battlefield, put a 1/1 colorless Thopter "
+"artifact creature token with flying onto the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:105
@@ -247,7 +261,9 @@ msgid "Auramancer"
 msgstr ""
 
 #: ../../ORI.rst:104
-msgid "When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand."
+msgid ""
+"When Auramancer enters the battlefield, you may return target enchantment "
+"card from your graveyard to your hand."
 msgstr ""
 
 #: ../../ORI.rst:113
@@ -274,19 +290,15 @@ msgstr ""
 msgid "Battlefield Forge"
 msgstr ""
 
-#: ../../ORI.rst:122
-#: ../../ORI.rst:198
-#: ../../ORI.rst:486
-#: ../../ORI.rst:774
-#: ../../ORI.rst:790
-#: ../../ORI.rst:1072
-#: ../../ORI.rst:1152
-#: ../../ORI.rst:1456
+#: ../../ORI.rst:122 ../../ORI.rst:198 ../../ORI.rst:486 ../../ORI.rst:774
+#: ../../ORI.rst:790 ../../ORI.rst:1072 ../../ORI.rst:1152 ../../ORI.rst:1456
 msgid "|tap|: Add |mana_1| to your mana pool."
 msgstr ""
 
 #: ../../ORI.rst:124
-msgid "|tap|: Add |mana_r| or |mana_w| to your mana pool. Battlefield Forge deals 1 damage to you."
+msgid ""
+"|tap|: Add |mana_r| or |mana_w| to your mana pool. Battlefield Forge deals 1 "
+"damage to you."
 msgstr ""
 
 #: ../../ORI.rst:129
@@ -302,7 +314,9 @@ msgid "Blazing Hellhound"
 msgstr ""
 
 #: ../../ORI.rst:132
-msgid "|mana_1|, Sacrifice another creature: Blazing Hellhound deals 1 damage to target creature or player."
+msgid ""
+"|mana_1|, Sacrifice another creature: Blazing Hellhound deals 1 damage to "
+"target creature or player."
 msgstr ""
 
 #: ../../ORI.rst:139
@@ -310,7 +324,9 @@ msgid "Blessed Spirits"
 msgstr ""
 
 #: ../../ORI.rst:138
-msgid "Whenever you cast an enchantment spell, put a +1/+1 counter on Blessed Spirits."
+msgid ""
+"Whenever you cast an enchantment spell, put a +1/+1 counter on Blessed "
+"Spirits."
 msgstr ""
 
 #: ../../ORI.rst:143
@@ -318,7 +334,9 @@ msgid "Blightcaster"
 msgstr ""
 
 #: ../../ORI.rst:142
-msgid "Whenever you cast an enchantment spell, you may have target creature get -2/-2 until end of turn."
+msgid ""
+"Whenever you cast an enchantment spell, you may have target creature get "
+"-2/-2 until end of turn."
 msgstr ""
 
 #: ../../ORI.rst:147
@@ -326,16 +344,19 @@ msgid "Blood-Cursed Knight"
 msgstr ""
 
 #: ../../ORI.rst:146
-msgid "As long as you control an enchantment, Blood-Cursed Knight gets +1/+1 and has lifelink. (Damage dealt by this creature also causes you to gain that much life.)"
+msgid ""
+"As long as you control an enchantment, Blood-Cursed Knight gets +1/+1 and "
+"has lifelink. (Damage dealt by this creature also causes you to gain that "
+"much life.)"
 msgstr ""
 
 #: ../../ORI.rst:151
 msgid "Boggart Brute"
 msgstr ""
 
-#: ../../ORI.rst:150
-#: ../../ORI.rst:528
-msgid "Menace (This creature can't be blocked except by two or more creatures.)"
+#: ../../ORI.rst:150 ../../ORI.rst:528
+msgid ""
+"Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
 
 #: ../../ORI.rst:155
@@ -354,10 +375,7 @@ msgstr ""
 msgid "Counter target creature spell."
 msgstr ""
 
-#: ../../ORI.rst:160
-#: ../../ORI.rst:578
-#: ../../ORI.rst:598
-#: ../../ORI.rst:636
+#: ../../ORI.rst:160 ../../ORI.rst:578 ../../ORI.rst:598 ../../ORI.rst:636
 msgid "Draw a card."
 msgstr ""
 
@@ -365,16 +383,15 @@ msgstr ""
 msgid "Bounding Krasis"
 msgstr ""
 
-#: ../../ORI.rst:164
-#: ../../ORI.rst:622
-#: ../../ORI.rst:854
-#: ../../ORI.rst:922
+#: ../../ORI.rst:164 ../../ORI.rst:622 ../../ORI.rst:854 ../../ORI.rst:922
 #: ../../ORI.rst:1310
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
 
 #: ../../ORI.rst:166
-msgid "When Bounding Krasis enters the battlefield, you may tap or untap target creature."
+msgid ""
+"When Bounding Krasis enters the battlefield, you may tap or untap target "
+"creature."
 msgstr ""
 
 #: ../../ORI.rst:173
@@ -382,11 +399,15 @@ msgid "Brawler's Plate"
 msgstr ""
 
 #: ../../ORI.rst:170
-msgid "Equipped creature gets +2/+2 and has trample. (It can deal excess combat damage to defending player or planeswalker while attacking.)"
+msgid ""
+"Equipped creature gets +2/+2 and has trample. (It can deal excess combat "
+"damage to defending player or planeswalker while attacking.)"
 msgstr ""
 
 #: ../../ORI.rst:172
-msgid "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only as a sorcery.)"
+msgid ""
+"Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only "
+"as a sorcery.)"
 msgstr ""
 
 #: ../../ORI.rst:179
@@ -398,32 +419,33 @@ msgid "Counter target spell unless its controller pays |mana_3|."
 msgstr ""
 
 #: ../../ORI.rst:178
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, scry 2. (To scry 2, look at the top two cards of your "
+"library, then put any number of them on the bottom of your library and the "
+"rest on top in any order.)"
 msgstr ""
 
 #: ../../ORI.rst:187
 msgid "Call of the Full Moon"
 msgstr ""
 
-#: ../../ORI.rst:182
-#: ../../ORI.rst:250
-#: ../../ORI.rst:270
-#: ../../ORI.rst:556
-#: ../../ORI.rst:640
-#: ../../ORI.rst:648
-#: ../../ORI.rst:712
-#: ../../ORI.rst:826
-#: ../../ORI.rst:1222
-#: ../../ORI.rst:1432
+#: ../../ORI.rst:182 ../../ORI.rst:250 ../../ORI.rst:270 ../../ORI.rst:556
+#: ../../ORI.rst:640 ../../ORI.rst:648 ../../ORI.rst:712 ../../ORI.rst:826
+#: ../../ORI.rst:1222 ../../ORI.rst:1432
 msgid "Enchant creature"
 msgstr ""
 
 #: ../../ORI.rst:184
-msgid "Enchanted creature gets +3/+2 and has trample. (It can deal excess combat damage to defending player or planeswalker while attacking.)"
+msgid ""
+"Enchanted creature gets +3/+2 and has trample. (It can deal excess combat "
+"damage to defending player or planeswalker while attacking.)"
 msgstr ""
 
 #: ../../ORI.rst:186
-msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, sacrifice Call of the Full Moon."
+msgid ""
+"At the beginning of each upkeep, if a player cast two or more spells last "
+"turn, sacrifice Call of the Full Moon."
 msgstr ""
 
 #: ../../ORI.rst:189
@@ -435,7 +457,9 @@ msgid "Caustic Caterpillar"
 msgstr ""
 
 #: ../../ORI.rst:194
-msgid "|mana_1| |mana_g|, Sacrifice Caustic Caterpillar: Destroy target artifact or enchantment."
+msgid ""
+"|mana_1| |mana_g|, Sacrifice Caustic Caterpillar: Destroy target artifact or "
+"enchantment."
 msgstr ""
 
 #: ../../ORI.rst:201
@@ -443,7 +467,9 @@ msgid "Caves of Koilos"
 msgstr ""
 
 #: ../../ORI.rst:200
-msgid "|tap|: Add |mana_w| or |mana_b| to your mana pool. Caves of Koilos deals 1 damage to you."
+msgid ""
+"|tap|: Add |mana_w| or |mana_b| to your mana pool. Caves of Koilos deals 1 "
+"damage to you."
 msgstr ""
 
 #: ../../ORI.rst:205
@@ -463,7 +489,10 @@ msgid "Whenever you cast a red spell, untap Chandra, Fire of Kaladesh."
 msgstr ""
 
 #: ../../ORI.rst:210
-msgid "|tap|: Chandra, Fire of Kaladesh deals 1 damage to target player. If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control."
+msgid ""
+"|tap|: Chandra, Fire of Kaladesh deals 1 damage to target player. If Chandra "
+"has dealt 3 or more damage this turn, exile her, then return her to the "
+"battlefield transformed under her owner's control."
 msgstr ""
 
 #: ../../ORI.rst:219
@@ -479,7 +508,10 @@ msgid "−2: Chandra, Roaring Flame deals 2 damage to target creature."
 msgstr ""
 
 #: ../../ORI.rst:218
-msgid "−7: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with \\\"At the beginning of your upkeep, this emblem deals 3 damage to you.\\\""
+msgid ""
+"−7: Chandra, Roaring Flame deals 6 damage to each opponent. Each player "
+"dealt damage this way gets an emblem with \\\"At the beginning of your "
+"upkeep, this emblem deals 3 damage to you.\\\""
 msgstr ""
 
 #: ../../ORI.rst:223
@@ -487,7 +519,9 @@ msgid "Chandra's Fury"
 msgstr ""
 
 #: ../../ORI.rst:222
-msgid "Chandra's Fury deals 4 damage to target player and 1 damage to each creature that player controls."
+msgid ""
+"Chandra's Fury deals 4 damage to target player and 1 damage to each creature "
+"that player controls."
 msgstr ""
 
 #: ../../ORI.rst:227
@@ -495,7 +529,9 @@ msgid "Chandra's Ignition"
 msgstr ""
 
 #: ../../ORI.rst:226
-msgid "Target creature you control deals damage equal to its power to each other creature and each opponent."
+msgid ""
+"Target creature you control deals damage equal to its power to each other "
+"creature and each opponent."
 msgstr ""
 
 #: ../../ORI.rst:233
@@ -518,18 +554,15 @@ msgstr ""
 msgid "Citadel Castellan"
 msgstr ""
 
-#: ../../ORI.rst:240
-#: ../../ORI.rst:1116
-#: ../../ORI.rst:1128
-#: ../../ORI.rst:1182
+#: ../../ORI.rst:240 ../../ORI.rst:1116 ../../ORI.rst:1128 ../../ORI.rst:1182
 #: ../../ORI.rst:1330
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
 msgstr ""
 
-#: ../../ORI.rst:242
-#: ../../ORI.rst:1062
-#: ../../ORI.rst:1380
-msgid "Renown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)"
+#: ../../ORI.rst:242 ../../ORI.rst:1062 ../../ORI.rst:1380
+msgid ""
+"Renown 2 (When this creature deals combat damage to a player, if it isn't "
+"renowned, put two +1/+1 counters on it and it becomes renowned.)"
 msgstr ""
 
 #: ../../ORI.rst:247
@@ -557,7 +590,9 @@ msgid "Cleric of the Forward Order"
 msgstr ""
 
 #: ../../ORI.rst:258
-msgid "When Cleric of the Forward Order enters the battlefield, you gain 2 life for each creature you control named Cleric of the Forward Order."
+msgid ""
+"When Cleric of the Forward Order enters the battlefield, you gain 2 life for "
+"each creature you control named Cleric of the Forward Order."
 msgstr ""
 
 #: ../../ORI.rst:261
@@ -569,7 +604,9 @@ msgid "Conclave Naturalists"
 msgstr ""
 
 #: ../../ORI.rst:266
-msgid "When Conclave Naturalists enters the battlefield, you may destroy target artifact or enchantment."
+msgid ""
+"When Conclave Naturalists enters the battlefield, you may destroy target "
+"artifact or enchantment."
 msgstr ""
 
 #: ../../ORI.rst:273
@@ -577,20 +614,25 @@ msgid "Consecrated by Blood"
 msgstr ""
 
 #: ../../ORI.rst:272
-msgid "Enchanted creature gets +2/+2 and has flying and \\\"Sacrifice two other creatures: Regenerate this creature.\\\" (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+msgid ""
+"Enchanted creature gets +2/+2 and has flying and \\\"Sacrifice two other "
+"creatures: Regenerate this creature.\\\" (The next time the creature would "
+"be destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
+"and remove it from combat.)"
 msgstr ""
 
 #: ../../ORI.rst:281
 msgid "Consul's Lieutenant"
 msgstr ""
 
-#: ../../ORI.rst:276
-#: ../../ORI.rst:706
+#: ../../ORI.rst:276 ../../ORI.rst:706
 msgid "First strike"
 msgstr ""
 
 #: ../../ORI.rst:280
-msgid "Whenever Consul's Lieutenant attacks, if it's renowned, other attacking creatures you control get +1/+1 until end of turn."
+msgid ""
+"Whenever Consul's Lieutenant attacks, if it's renowned, other attacking "
+"creatures you control get +1/+1 until end of turn."
 msgstr ""
 
 #: ../../ORI.rst:285
@@ -598,7 +640,9 @@ msgid "Cruel Revival"
 msgstr ""
 
 #: ../../ORI.rst:284
-msgid "Destroy target non-Zombie creature. It can't be regenerated. Return up to one target Zombie card from your graveyard to your hand."
+msgid ""
+"Destroy target non-Zombie creature. It can't be regenerated. Return up to "
+"one target Zombie card from your graveyard to your hand."
 msgstr ""
 
 #: ../../ORI.rst:291
@@ -606,11 +650,16 @@ msgid "Dark Dabbling"
 msgstr ""
 
 #: ../../ORI.rst:288
-msgid "Regenerate target creature. Draw a card. (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+msgid ""
+"Regenerate target creature. Draw a card. (The next time the creature would "
+"be destroyed this turn, it isn't. Instead tap it, remove all damage from it, "
+"and remove it from combat.)"
 msgstr ""
 
 #: ../../ORI.rst:290
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, also regenerate each other creature you control."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, also regenerate each other creature you control."
 msgstr ""
 
 #: ../../ORI.rst:297
@@ -618,11 +667,15 @@ msgid "Dark Petition"
 msgstr ""
 
 #: ../../ORI.rst:294
-msgid "Search your library for a card and put that card into your hand. Then shuffle your library."
+msgid ""
+"Search your library for a card and put that card into your hand. Then "
+"shuffle your library."
 msgstr ""
 
 #: ../../ORI.rst:296
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, add |mana_b| |mana_b| |mana_b| to your mana pool."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, add |mana_b| |mana_b| |mana_b| to your mana pool."
 msgstr ""
 
 #: ../../ORI.rst:301
@@ -630,7 +683,12 @@ msgid "Day's Undoing"
 msgstr ""
 
 #: ../../ORI.rst:300
-msgid "Each player shuffles his or her hand and graveyard into his or her library, then draws seven cards. If it's your turn, end the turn. (Exile all spells and abilities on the stack, including this card. Discard down to your maximum hand size. Damage wears off, and \\\"this turn\\\" and \\\"until end of turn\\\" effects end.)"
+msgid ""
+"Each player shuffles his or her hand and graveyard into his or her library, "
+"then draws seven cards. If it's your turn, end the turn. (Exile all spells "
+"and abilities on the stack, including this card. Discard down to your "
+"maximum hand size. Damage wears off, and \\\"this turn\\\" and \\\"until end "
+"of turn\\\" effects end.)"
 msgstr ""
 
 #: ../../ORI.rst:305
@@ -646,7 +704,9 @@ msgid "Deep-Sea Terror"
 msgstr ""
 
 #: ../../ORI.rst:308
-msgid "Deep-Sea Terror can't attack unless there are seven or more cards in your graveyard."
+msgid ""
+"Deep-Sea Terror can't attack unless there are seven or more cards in your "
+"graveyard."
 msgstr ""
 
 #: ../../ORI.rst:313
@@ -666,16 +726,15 @@ msgid "At the beginning of your upkeep, choose one that hasn't been chosen —"
 msgstr ""
 
 #: ../../ORI.rst:318
-msgid "Demonic Pact deals 4 damage to target creature or player and you gain 4 life."
+msgid ""
+"Demonic Pact deals 4 damage to target creature or player and you gain 4 life."
 msgstr ""
 
 #: ../../ORI.rst:320
 msgid "Target opponent discards two cards."
 msgstr ""
 
-#: ../../ORI.rst:322
-#: ../../ORI.rst:808
-#: ../../ORI.rst:1428
+#: ../../ORI.rst:322 ../../ORI.rst:808 ../../ORI.rst:1428
 msgid "Draw two cards."
 msgstr ""
 
@@ -692,7 +751,9 @@ msgid "Despoiler of Souls can't block."
 msgstr ""
 
 #: ../../ORI.rst:330
-msgid "|mana_b| |mana_b|, Exile two other creature cards from your graveyard: Return Despoiler of Souls from your graveyard to the battlefield."
+msgid ""
+"|mana_b| |mana_b|, Exile two other creature cards from your graveyard: "
+"Return Despoiler of Souls from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:343
@@ -700,7 +761,8 @@ msgid "Disciple of the Ring"
 msgstr ""
 
 #: ../../ORI.rst:334
-msgid "|mana_1|, Exile an instant or sorcery card from your graveyard: Choose one —"
+msgid ""
+"|mana_1|, Exile an instant or sorcery card from your graveyard: Choose one —"
 msgstr ""
 
 #: ../../ORI.rst:336
@@ -732,7 +794,9 @@ msgid "Displacement Wave"
 msgstr ""
 
 #: ../../ORI.rst:350
-msgid "Return all nonland permanents with converted mana cost X or less to their owners' hands."
+msgid ""
+"Return all nonland permanents with converted mana cost X or less to their "
+"owners' hands."
 msgstr ""
 
 #: ../../ORI.rst:355
@@ -756,7 +820,9 @@ msgid "Dreadwaters"
 msgstr ""
 
 #: ../../ORI.rst:362
-msgid "Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of lands you control."
+msgid ""
+"Target player puts the top X cards of his or her library into his or her "
+"graveyard, where X is the number of lands you control."
 msgstr ""
 
 #: ../../ORI.rst:371
@@ -772,7 +838,9 @@ msgid "Other Elf creatures you control get +1/+1."
 msgstr ""
 
 #: ../../ORI.rst:370
-msgid "Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking Elf you control."
+msgid ""
+"Whenever Dwynen, Gilt-Leaf Daen attacks, you gain 1 life for each attacking "
+"Elf you control."
 msgstr ""
 
 #: ../../ORI.rst:375
@@ -780,7 +848,9 @@ msgid "Dwynen's Elite"
 msgstr ""
 
 #: ../../ORI.rst:374
-msgid "When Dwynen's Elite enters the battlefield, if you control another Elf, put a 1/1 green Elf Warrior creature token onto the battlefield."
+msgid ""
+"When Dwynen's Elite enters the battlefield, if you control another Elf, put "
+"a 1/1 green Elf Warrior creature token onto the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:379
@@ -796,7 +866,9 @@ msgid "Elemental Bond"
 msgstr ""
 
 #: ../../ORI.rst:382
-msgid "Whenever a creature with power 3 or greater enters the battlefield under your control, draw a card."
+msgid ""
+"Whenever a creature with power 3 or greater enters the battlefield under "
+"your control, draw a card."
 msgstr ""
 
 #: ../../ORI.rst:387
@@ -811,16 +883,17 @@ msgstr ""
 msgid "Embermaw Hellion"
 msgstr ""
 
-#: ../../ORI.rst:390
-#: ../../ORI.rst:820
-#: ../../ORI.rst:1060
-#: ../../ORI.rst:1174
+#: ../../ORI.rst:390 ../../ORI.rst:820 ../../ORI.rst:1060 ../../ORI.rst:1174
 #: ../../ORI.rst:1260
-msgid "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)"
+msgid ""
+"Trample (This creature can deal excess combat damage to defending player or "
+"planeswalker while attacking.)"
 msgstr ""
 
 #: ../../ORI.rst:392
-msgid "If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead."
+msgid ""
+"If another red source you control would deal damage to a permanent or "
+"player, it deals that much damage plus 1 to that permanent or player instead."
 msgstr ""
 
 #: ../../ORI.rst:397
@@ -828,7 +901,9 @@ msgid "Enlightened Ascetic"
 msgstr ""
 
 #: ../../ORI.rst:396
-msgid "When Enlightened Ascetic enters the battlefield, you may destroy target enchantment."
+msgid ""
+"When Enlightened Ascetic enters the battlefield, you may destroy target "
+"enchantment."
 msgstr ""
 
 #: ../../ORI.rst:401
@@ -836,7 +911,9 @@ msgid "Enshrouding Mist"
 msgstr ""
 
 #: ../../ORI.rst:400
-msgid "Target creature gets +1/+1 until end of turn. Prevent all damage that would be dealt to it this turn. If it's renowned, untap it."
+msgid ""
+"Target creature gets +1/+1 until end of turn. Prevent all damage that would "
+"be dealt to it this turn. If it's renowned, untap it."
 msgstr ""
 
 #: ../../ORI.rst:405
@@ -844,7 +921,11 @@ msgid "Enthralling Victor"
 msgstr ""
 
 #: ../../ORI.rst:404
-msgid "When Enthralling Victor enters the battlefield, gain control of target creature an opponent controls with power 2 or less until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and |tap| this turn.)"
+msgid ""
+"When Enthralling Victor enters the battlefield, gain control of target "
+"creature an opponent controls with power 2 or less until end of turn. Untap "
+"that creature. It gains haste until end of turn. (It can attack and |tap| "
+"this turn.)"
 msgstr ""
 
 #: ../../ORI.rst:411
@@ -852,11 +933,16 @@ msgid "Erebos's Titan"
 msgstr ""
 
 #: ../../ORI.rst:408
-msgid "As long as your opponents control no creatures, Erebos's Titan has indestructible. (Damage and effects that say \\\"destroy\\\" don't destroy it.)"
+msgid ""
+"As long as your opponents control no creatures, Erebos's Titan has "
+"indestructible. (Damage and effects that say \\\"destroy\\\" don't destroy "
+"it.)"
 msgstr ""
 
 #: ../../ORI.rst:410
-msgid "Whenever a creature card leaves an opponent's graveyard, you may discard a card. If you do, return Erebos's Titan from your graveyard to your hand."
+msgid ""
+"Whenever a creature card leaves an opponent's graveyard, you may discard a "
+"card. If you do, return Erebos's Titan from your graveyard to your hand."
 msgstr ""
 
 #: ../../ORI.rst:415
@@ -864,7 +950,10 @@ msgid "Evolutionary Leap"
 msgstr ""
 
 #: ../../ORI.rst:414
-msgid "|mana_g|, Sacrifice a creature: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order."
+msgid ""
+"|mana_g|, Sacrifice a creature: Reveal cards from the top of your library "
+"until you reveal a creature card. Put that card into your hand and the rest "
+"on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../ORI.rst:419
@@ -872,7 +961,9 @@ msgid "Evolving Wilds"
 msgstr ""
 
 #: ../../ORI.rst:418
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library."
+msgid ""
+"|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card "
+"and put it onto the battlefield tapped. Then shuffle your library."
 msgstr ""
 
 #: ../../ORI.rst:425
@@ -884,7 +975,10 @@ msgid "Exquisite Firecraft deals 4 damage to target creature or player."
 msgstr ""
 
 #: ../../ORI.rst:424
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Exquisite Firecraft can't be countered by spells or abilities."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, Exquisite Firecraft can't be countered by spells or "
+"abilities."
 msgstr ""
 
 #: ../../ORI.rst:429
@@ -892,7 +986,9 @@ msgid "Eyeblight Assassin"
 msgstr ""
 
 #: ../../ORI.rst:428
-msgid "When Eyeblight Assassin enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn."
+msgid ""
+"When Eyeblight Assassin enters the battlefield, target creature an opponent "
+"controls gets -1/-1 until end of turn."
 msgstr ""
 
 #: ../../ORI.rst:433
@@ -908,7 +1004,9 @@ msgid "Faerie Miscreant"
 msgstr ""
 
 #: ../../ORI.rst:438
-msgid "When Faerie Miscreant enters the battlefield, if you control another creature named Faerie Miscreant, draw a card."
+msgid ""
+"When Faerie Miscreant enters the battlefield, if you control another "
+"creature named Faerie Miscreant, draw a card."
 msgstr ""
 
 #: ../../ORI.rst:445
@@ -916,7 +1014,9 @@ msgid "Fetid Imp"
 msgstr ""
 
 #: ../../ORI.rst:444
-msgid "|mana_b|: Fetid Imp gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
+msgid ""
+"|mana_b|: Fetid Imp gains deathtouch until end of turn. (Any amount of "
+"damage it deals to a creature is enough to destroy it.)"
 msgstr ""
 
 #: ../../ORI.rst:451
@@ -948,16 +1048,19 @@ msgid "Fiery Impulse deals 2 damage to target creature."
 msgstr ""
 
 #: ../../ORI.rst:460
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Fiery Impulse deals 3 damage to that creature instead."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, Fiery Impulse deals 3 damage to that creature instead."
 msgstr ""
 
 #: ../../ORI.rst:467
 msgid "Firefiend Elemental"
 msgstr ""
 
-#: ../../ORI.rst:464
-#: ../../ORI.rst:1038
-msgid "Haste (This creature can attack and |tap| as soon as it comes under your control.)"
+#: ../../ORI.rst:464 ../../ORI.rst:1038
+msgid ""
+"Haste (This creature can attack and |tap| as soon as it comes under your "
+"control.)"
 msgstr ""
 
 #: ../../ORI.rst:471
@@ -965,7 +1068,11 @@ msgid "Flameshadow Conjuring"
 msgstr ""
 
 #: ../../ORI.rst:470
-msgid "Whenever a nontoken creature enters the battlefield under your control, you may pay |mana_r|. If you do, put a token onto the battlefield that's a copy of that creature. That token gains haste. Exile it at the beginning of the next end step."
+msgid ""
+"Whenever a nontoken creature enters the battlefield under your control, you "
+"may pay |mana_r|. If you do, put a token onto the battlefield that's a copy "
+"of that creature. That token gains haste. Exile it at the beginning of the "
+"next end step."
 msgstr ""
 
 #: ../../ORI.rst:475
@@ -981,7 +1088,9 @@ msgid "Fleshbag Marauder"
 msgstr ""
 
 #: ../../ORI.rst:478
-msgid "When Fleshbag Marauder enters the battlefield, each player sacrifices a creature."
+msgid ""
+"When Fleshbag Marauder enters the battlefield, each player sacrifices a "
+"creature."
 msgstr ""
 
 #: ../../ORI.rst:483
@@ -997,7 +1106,9 @@ msgid "Foundry of the Consuls"
 msgstr ""
 
 #: ../../ORI.rst:488
-msgid "|mana_5|, |tap|, Sacrifice Foundry of the Consuls: Put two 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield."
+msgid ""
+"|mana_5|, |tap|, Sacrifice Foundry of the Consuls: Put two 1/1 colorless "
+"Thopter artifact creature tokens with flying onto the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:497
@@ -1008,13 +1119,14 @@ msgstr ""
 msgid "Gaea's Revenge can't be countered."
 msgstr ""
 
-#: ../../ORI.rst:494
-#: ../../ORI.rst:1082
+#: ../../ORI.rst:494 ../../ORI.rst:1082
 msgid "Haste"
 msgstr ""
 
 #: ../../ORI.rst:496
-msgid "Gaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources."
+msgid ""
+"Gaea's Revenge can't be the target of nongreen spells or abilities from "
+"nongreen sources."
 msgstr ""
 
 #: ../../ORI.rst:503
@@ -1022,11 +1134,16 @@ msgid "Gather the Pack"
 msgstr ""
 
 #: ../../ORI.rst:500
-msgid "Reveal the top five cards of your library. You may put a creature card from among them into your hand. Put the rest into your graveyard."
+msgid ""
+"Reveal the top five cards of your library. You may put a creature card from "
+"among them into your hand. Put the rest into your graveyard."
 msgstr ""
 
 #: ../../ORI.rst:502
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, put up to two creature cards from among the revealed cards into your hand instead of one."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, put up to two creature cards from among the revealed cards "
+"into your hand instead of one."
 msgstr ""
 
 #: ../../ORI.rst:507
@@ -1034,7 +1151,9 @@ msgid "Ghirapur Æther Grid"
 msgstr ""
 
 #: ../../ORI.rst:506
-msgid "Tap two untapped artifacts you control: Ghirapur Æther Grid deals 1 damage to target creature or player."
+msgid ""
+"Tap two untapped artifacts you control: Ghirapur Æther Grid deals 1 damage "
+"to target creature or player."
 msgstr ""
 
 #: ../../ORI.rst:511
@@ -1042,7 +1161,11 @@ msgid "Ghirapur Gearcrafter"
 msgstr ""
 
 #: ../../ORI.rst:510
-msgid "When Ghirapur Gearcrafter enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield. (A creature with flying can't be blocked except by creatures with flying or reach.)"
+msgid ""
+"When Ghirapur Gearcrafter enters the battlefield, put a 1/1 colorless "
+"Thopter artifact creature token with flying onto the battlefield. (A "
+"creature with flying can't be blocked except by creatures with flying or "
+"reach.)"
 msgstr ""
 
 #: ../../ORI.rst:519
@@ -1050,15 +1173,22 @@ msgid "Gideon, Battle-Forged"
 msgstr ""
 
 #: ../../ORI.rst:514
-msgid "+2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able."
+msgid ""
+"+2: Up to one target creature an opponent controls attacks Gideon, Battle-"
+"Forged during its controller's next turn if able."
 msgstr ""
 
 #: ../../ORI.rst:516
-msgid "+1: Until your next turn, target creature gains indestructible. Untap that creature."
+msgid ""
+"+1: Until your next turn, target creature gains indestructible. Untap that "
+"creature."
 msgstr ""
 
 #: ../../ORI.rst:518
-msgid "0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn."
+msgid ""
+"0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier "
+"creature with indestructible that's still a planeswalker. Prevent all damage "
+"that would be dealt to him this turn."
 msgstr ""
 
 #: ../../ORI.rst:525
@@ -1066,11 +1196,15 @@ msgid "Gideon's Phalanx"
 msgstr ""
 
 #: ../../ORI.rst:522
-msgid "Put four 2/2 white Knight creature tokens with vigilance onto the battlefield."
+msgid ""
+"Put four 2/2 white Knight creature tokens with vigilance onto the "
+"battlefield."
 msgstr ""
 
 #: ../../ORI.rst:524
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, creatures you control gain indestructible until end of turn."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, creatures you control gain indestructible until end of turn."
 msgstr ""
 
 #: ../../ORI.rst:531
@@ -1078,7 +1212,9 @@ msgid "Gilt-Leaf Winnower"
 msgstr ""
 
 #: ../../ORI.rst:530
-msgid "When Gilt-Leaf Winnower enters the battlefield, you may destroy target non-Elf creature whose power and toughness aren't equal."
+msgid ""
+"When Gilt-Leaf Winnower enters the battlefield, you may destroy target non-"
+"Elf creature whose power and toughness aren't equal."
 msgstr ""
 
 #: ../../ORI.rst:537
@@ -1086,11 +1222,15 @@ msgid "Gnarlroot Trapper"
 msgstr ""
 
 #: ../../ORI.rst:534
-msgid "|tap|, Pay 1 life: Add |mana_g| to your mana pool. Spend this mana only to cast an Elf creature spell."
+msgid ""
+"|tap|, Pay 1 life: Add |mana_g| to your mana pool. Spend this mana only to "
+"cast an Elf creature spell."
 msgstr ""
 
 #: ../../ORI.rst:536
-msgid "|tap|: Target attacking Elf you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
+msgid ""
+"|tap|: Target attacking Elf you control gains deathtouch until end of turn. "
+"(Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
 
 #: ../../ORI.rst:543
@@ -1098,7 +1238,9 @@ msgid "Goblin Glory Chaser"
 msgstr ""
 
 #: ../../ORI.rst:542
-msgid "As long as Goblin Glory Chaser is renowned, it has menace. (It can't be blocked except by two or more creatures.)"
+msgid ""
+"As long as Goblin Glory Chaser is renowned, it has menace. (It can't be "
+"blocked except by two or more creatures.)"
 msgstr ""
 
 #: ../../ORI.rst:549
@@ -1106,11 +1248,15 @@ msgid "Goblin Piledriver"
 msgstr ""
 
 #: ../../ORI.rst:546
-msgid "Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.)"
+msgid ""
+"Protection from blue (This creature can't be blocked, targeted, dealt "
+"damage, or enchanted by anything blue.)"
 msgstr ""
 
 #: ../../ORI.rst:548
-msgid "Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin."
+msgid ""
+"Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each "
+"other attacking Goblin."
 msgstr ""
 
 #: ../../ORI.rst:553
@@ -1122,20 +1268,25 @@ msgid "Grasp of the Hieromancer"
 msgstr ""
 
 #: ../../ORI.rst:558
-msgid "Enchanted creature gets +1/+1 and has \\\"Whenever this creature attacks, tap target creature defending player controls.\\\""
+msgid ""
+"Enchanted creature gets +1/+1 and has \\\"Whenever this creature attacks, "
+"tap target creature defending player controls.\\\""
 msgstr ""
 
 #: ../../ORI.rst:565
 msgid "Graveblade Marauder"
 msgstr ""
 
-#: ../../ORI.rst:562
-#: ../../ORI.rst:952
-msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
+#: ../../ORI.rst:562 ../../ORI.rst:952
+msgid ""
+"Deathtouch (Any amount of damage this deals to a creature is enough to "
+"destroy it.)"
 msgstr ""
 
 #: ../../ORI.rst:564
-msgid "Whenever Graveblade Marauder deals combat damage to a player, that player loses life equal to the number of creature cards in your graveyard."
+msgid ""
+"Whenever Graveblade Marauder deals combat damage to a player, that player "
+"loses life equal to the number of creature cards in your graveyard."
 msgstr ""
 
 #: ../../ORI.rst:569
@@ -1150,8 +1301,7 @@ msgstr ""
 msgid "Guardians of Meletis"
 msgstr ""
 
-#: ../../ORI.rst:572
-#: ../../ORI.rst:924
+#: ../../ORI.rst:572 ../../ORI.rst:924
 msgid "Defender (This creature can't attack.)"
 msgstr ""
 
@@ -1160,7 +1310,9 @@ msgid "Hallowed Moonlight"
 msgstr ""
 
 #: ../../ORI.rst:576
-msgid "Until end of turn, if a creature would enter the battlefield and it wasn't cast, exile it instead."
+msgid ""
+"Until end of turn, if a creature would enter the battlefield and it wasn't "
+"cast, exile it instead."
 msgstr ""
 
 #: ../../ORI.rst:587
@@ -1172,7 +1324,10 @@ msgid "Hangarback Walker enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
 #: ../../ORI.rst:584
-msgid "When Hangarback Walker dies, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield for each +1/+1 counter on Hangarback Walker."
+msgid ""
+"When Hangarback Walker dies, put a 1/1 colorless Thopter artifact creature "
+"token with flying onto the battlefield for each +1/+1 counter on Hangarback "
+"Walker."
 msgstr ""
 
 #: ../../ORI.rst:586
@@ -1184,11 +1339,16 @@ msgid "Harbinger of the Tides"
 msgstr ""
 
 #: ../../ORI.rst:590
-msgid "You may cast Harbinger of the Tides as though it had flash if you pay |mana_2| more to cast it. (You may cast it any time you could cast an instant.)"
+msgid ""
+"You may cast Harbinger of the Tides as though it had flash if you pay |"
+"mana_2| more to cast it. (You may cast it any time you could cast an "
+"instant.)"
 msgstr ""
 
 #: ../../ORI.rst:592
-msgid "When Harbinger of the Tides enters the battlefield, you may return target tapped creature an opponent controls to its owner's hand."
+msgid ""
+"When Harbinger of the Tides enters the battlefield, you may return target "
+"tapped creature an opponent controls to its owner's hand."
 msgstr ""
 
 #: ../../ORI.rst:599
@@ -1204,7 +1364,9 @@ msgid "Heavy Infantry"
 msgstr ""
 
 #: ../../ORI.rst:602
-msgid "When Heavy Infantry enters the battlefield, tap target creature an opponent controls."
+msgid ""
+"When Heavy Infantry enters the battlefield, tap target creature an opponent "
+"controls."
 msgstr ""
 
 #: ../../ORI.rst:609
@@ -1215,10 +1377,10 @@ msgstr ""
 msgid "Equipped creature gets +1/+1 for each enchantment you control."
 msgstr ""
 
-#: ../../ORI.rst:608
-#: ../../ORI.rst:1164
-#: ../../ORI.rst:1396
-msgid "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)"
+#: ../../ORI.rst:608 ../../ORI.rst:1164 ../../ORI.rst:1396
+msgid ""
+"Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
+"as a sorcery.)"
 msgstr ""
 
 #: ../../ORI.rst:615
@@ -1237,9 +1399,7 @@ msgstr ""
 msgid "Hitchclaw Recluse"
 msgstr ""
 
-#: ../../ORI.rst:618
-#: ../../ORI.rst:1178
-#: ../../ORI.rst:1184
+#: ../../ORI.rst:618 ../../ORI.rst:1178 ../../ORI.rst:1184
 msgid "Reach (This creature can block creatures with flying.)"
 msgstr ""
 
@@ -1248,7 +1408,10 @@ msgid "Hixus, Prison Warden"
 msgstr ""
 
 #: ../../ORI.rst:624
-msgid "Whenever a creature deals combat damage to you, if Hixus, Prison Warden entered the battlefield this turn, exile that creature until Hixus leaves the battlefield. (That creature returns under its owner's control.)"
+msgid ""
+"Whenever a creature deals combat damage to you, if Hixus, Prison Warden "
+"entered the battlefield this turn, exile that creature until Hixus leaves "
+"the battlefield. (That creature returns under its owner's control.)"
 msgstr ""
 
 #: ../../ORI.rst:631
@@ -1256,7 +1419,9 @@ msgid "Honored Hierarch"
 msgstr ""
 
 #: ../../ORI.rst:630
-msgid "As long as Honored Hierarch is renowned, it has vigilance and \\\"|tap|: Add one mana of any color to your mana pool.\\\""
+msgid ""
+"As long as Honored Hierarch is renowned, it has vigilance and \\\"|tap|: Add "
+"one mana of any color to your mana pool.\\\""
 msgstr ""
 
 #: ../../ORI.rst:637
@@ -1272,11 +1437,15 @@ msgid "Infectious Bloodlust"
 msgstr ""
 
 #: ../../ORI.rst:642
-msgid "Enchanted creature gets +2/+1, has haste, and attacks each turn if able."
+msgid ""
+"Enchanted creature gets +2/+1, has haste, and attacks each turn if able."
 msgstr ""
 
 #: ../../ORI.rst:644
-msgid "When enchanted creature dies, you may search your library for a card named Infectious Bloodlust, reveal it, put it into your hand, then shuffle your library."
+msgid ""
+"When enchanted creature dies, you may search your library for a card named "
+"Infectious Bloodlust, reveal it, put it into your hand, then shuffle your "
+"library."
 msgstr ""
 
 #: ../../ORI.rst:651
@@ -1284,7 +1453,9 @@ msgid "Infernal Scarring"
 msgstr ""
 
 #: ../../ORI.rst:650
-msgid "Enchanted creature gets +2/+0 and has \\\"When this creature dies, draw a card.\\\""
+msgid ""
+"Enchanted creature gets +2/+0 and has \\\"When this creature dies, draw a "
+"card.\\\""
 msgstr ""
 
 #: ../../ORI.rst:655
@@ -1292,7 +1463,10 @@ msgid "Infinite Obliteration"
 msgstr ""
 
 #: ../../ORI.rst:654
-msgid "Name a creature card. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library."
+msgid ""
+"Name a creature card. Search target opponent's graveyard, hand, and library "
+"for any number of cards with that name and exile them. Then that player "
+"shuffles his or her library."
 msgstr ""
 
 #: ../../ORI.rst:659
@@ -1308,7 +1482,9 @@ msgid "Iroas's Champion"
 msgstr ""
 
 #: ../../ORI.rst:662
-msgid "Double strike (This creature deals both first-strike and regular combat damage.)"
+msgid ""
+"Double strike (This creature deals both first-strike and regular combat "
+"damage.)"
 msgstr ""
 
 #: ../../ORI.rst:667
@@ -1328,11 +1504,16 @@ msgid "+1: Up to one target creature gets -2/-0 until your next turn."
 msgstr ""
 
 #: ../../ORI.rst:672
-msgid "−3: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead."
+msgid ""
+"−3: You may cast target instant or sorcery card from your graveyard this "
+"turn. If that card would be put into your graveyard this turn, exile it "
+"instead."
 msgstr ""
 
 #: ../../ORI.rst:674
-msgid "−9: You get an emblem with \\\"Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard.\\\""
+msgid ""
+"−9: You get an emblem with \\\"Whenever you cast a spell, target opponent "
+"puts the top five cards of his or her library into his or her graveyard.\\\""
 msgstr ""
 
 #: ../../ORI.rst:679
@@ -1340,7 +1521,10 @@ msgid "Jace, Vryn's Prodigy"
 msgstr ""
 
 #: ../../ORI.rst:678
-msgid "|tap|: Draw a card, then discard a card. If there are five or more cards in your graveyard, exile Jace, Vryn's Prodigy, then return him to the battlefield transformed under his owner's control."
+msgid ""
+"|tap|: Draw a card, then discard a card. If there are five or more cards in "
+"your graveyard, exile Jace, Vryn's Prodigy, then return him to the "
+"battlefield transformed under his owner's control."
 msgstr ""
 
 #: ../../ORI.rst:685
@@ -1352,7 +1536,9 @@ msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
 msgstr ""
 
 #: ../../ORI.rst:684
-msgid "Whenever you cast an instant or sorcery spell, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid ""
+"Whenever you cast an instant or sorcery spell, scry 1. (Look at the top card "
+"of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
 #: ../../ORI.rst:689
@@ -1376,7 +1562,9 @@ msgid "Joraga Invocation"
 msgstr ""
 
 #: ../../ORI.rst:698
-msgid "Each creature you control gets +3/+3 until end of turn and must be blocked this turn if able."
+msgid ""
+"Each creature you control gets +3/+3 until end of turn and must be blocked "
+"this turn if able."
 msgstr ""
 
 #: ../../ORI.rst:703
@@ -1388,7 +1576,10 @@ msgid "Knight of the White Orchid"
 msgstr ""
 
 #: ../../ORI.rst:708
-msgid "When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library."
+msgid ""
+"When Knight of the White Orchid enters the battlefield, if an opponent "
+"controls more lands than you, you may search your library for a Plains card, "
+"put it onto the battlefield, then shuffle your library."
 msgstr ""
 
 #: ../../ORI.rst:717
@@ -1396,7 +1587,10 @@ msgid "Knightly Valor"
 msgstr ""
 
 #: ../../ORI.rst:714
-msgid "When Knightly Valor enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield. (Attacking doesn't cause it to tap.)"
+msgid ""
+"When Knightly Valor enters the battlefield, put a 2/2 white Knight creature "
+"token with vigilance onto the battlefield. (Attacking doesn't cause it to "
+"tap.)"
 msgstr ""
 
 #: ../../ORI.rst:716
@@ -1408,7 +1602,9 @@ msgid "Kothophed, Soul Hoarder"
 msgstr ""
 
 #: ../../ORI.rst:722
-msgid "Whenever a permanent owned by another player is put into a graveyard from the battlefield, you draw a card and you lose 1 life."
+msgid ""
+"Whenever a permanent owned by another player is put into a graveyard from "
+"the battlefield, you draw a card and you lose 1 life."
 msgstr ""
 
 #: ../../ORI.rst:729
@@ -1416,7 +1612,10 @@ msgid "Kytheon, Hero of Akros"
 msgstr ""
 
 #: ../../ORI.rst:726
-msgid "At end of combat, if Kytheon, Hero of Akros and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control."
+msgid ""
+"At end of combat, if Kytheon, Hero of Akros and at least two other creatures "
+"attacked this combat, exile Kytheon, then return him to the battlefield "
+"transformed under his owner's control."
 msgstr ""
 
 #: ../../ORI.rst:728
@@ -1440,7 +1639,10 @@ msgid "Creatures you control get +2/+1 until end of turn."
 msgstr ""
 
 #: ../../ORI.rst:740
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, those creatures also gain vigilance until end of turn. (Attacking doesn't cause them to tap.)"
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, those creatures also gain vigilance until end of turn. "
+"(Attacking doesn't cause them to tap.)"
 msgstr ""
 
 #: ../../ORI.rst:745
@@ -1464,7 +1666,10 @@ msgid "Lightning Javelin"
 msgstr ""
 
 #: ../../ORI.rst:752
-msgid "Lightning Javelin deals 3 damage to target creature or player. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid ""
+"Lightning Javelin deals 3 damage to target creature or player. Scry 1. (Look "
+"at the top card of your library. You may put that card on the bottom of your "
+"library.)"
 msgstr ""
 
 #: ../../ORI.rst:761
@@ -1476,11 +1681,15 @@ msgid "+2: Each player discards a card."
 msgstr ""
 
 #: ../../ORI.rst:758
-msgid "−X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield."
+msgid ""
+"−X: Return target nonlegendary creature card with converted mana cost X from "
+"your graveyard to the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:760
-msgid "−8: You get an emblem with \\\"Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.\\\""
+msgid ""
+"−8: You get an emblem with \\\"Whenever a creature dies, return it to the "
+"battlefield under your control at the beginning of the next end step.\\\""
 msgstr ""
 
 #: ../../ORI.rst:767
@@ -1492,7 +1701,11 @@ msgid "Lifelink"
 msgstr ""
 
 #: ../../ORI.rst:766
-msgid "Whenever another nontoken creature you control dies, exile Liliana, Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, put a 2/2 black Zombie creature token onto the battlefield."
+msgid ""
+"Whenever another nontoken creature you control dies, exile Liliana, "
+"Heretical Healer, then return her to the battlefield transformed under her "
+"owner's control. If you do, put a 2/2 black Zombie creature token onto the "
+"battlefield."
 msgstr ""
 
 #: ../../ORI.rst:771
@@ -1500,7 +1713,11 @@ msgid "Llanowar Empath"
 msgstr ""
 
 #: ../../ORI.rst:770
-msgid "When Llanowar Empath enters the battlefield, scry 2, then reveal the top card of your library. If it's a creature card, put it into your hand. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgid ""
+"When Llanowar Empath enters the battlefield, scry 2, then reveal the top "
+"card of your library. If it's a creature card, put it into your hand. (To "
+"scry 2, look at the top two cards of your library, then put any number of "
+"them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
 
 #: ../../ORI.rst:777
@@ -1508,7 +1725,9 @@ msgid "Llanowar Wastes"
 msgstr ""
 
 #: ../../ORI.rst:776
-msgid "|tap|: Add |mana_b| or |mana_g| to your mana pool. Llanowar Wastes deals 1 damage to you."
+msgid ""
+"|tap|: Add |mana_b| or |mana_g| to your mana pool. Llanowar Wastes deals 1 "
+"damage to you."
 msgstr ""
 
 #: ../../ORI.rst:781
@@ -1516,7 +1735,9 @@ msgid "Macabre Waltz"
 msgstr ""
 
 #: ../../ORI.rst:780
-msgid "Return up to two target creature cards from your graveyard to your hand, then discard a card."
+msgid ""
+"Return up to two target creature cards from your graveyard to your hand, "
+"then discard a card."
 msgstr ""
 
 #: ../../ORI.rst:787
@@ -1536,7 +1757,9 @@ msgid "|mana_1|, |tap|: Put a storage counter on Mage-Ring Network."
 msgstr ""
 
 #: ../../ORI.rst:794
-msgid "|tap|, Remove X storage counters from Mage-Ring Network: Add |mana_x| to your mana pool."
+msgid ""
+"|tap|, Remove X storage counters from Mage-Ring Network: Add |mana_x| to "
+"your mana pool."
 msgstr ""
 
 #: ../../ORI.rst:803
@@ -1552,7 +1775,9 @@ msgid "|mana_7|: Untap Mage-Ring Responder."
 msgstr ""
 
 #: ../../ORI.rst:802
-msgid "Whenever Mage-Ring Responder attacks, it deals 7 damage to target creature defending player controls."
+msgid ""
+"Whenever Mage-Ring Responder attacks, it deals 7 damage to target creature "
+"defending player controls."
 msgstr ""
 
 #: ../../ORI.rst:809
@@ -1572,7 +1797,9 @@ msgid "Malakir Cullblade"
 msgstr ""
 
 #: ../../ORI.rst:816
-msgid "Whenever a creature an opponent controls dies, put a +1/+1 counter on Malakir Cullblade."
+msgid ""
+"Whenever a creature an opponent controls dies, put a +1/+1 counter on "
+"Malakir Cullblade."
 msgstr ""
 
 #: ../../ORI.rst:823
@@ -1580,7 +1807,8 @@ msgid "Managorger Hydra"
 msgstr ""
 
 #: ../../ORI.rst:822
-msgid "Whenever a player casts a spell, put a +1/+1 counter on Managorger Hydra."
+msgid ""
+"Whenever a player casts a spell, put a +1/+1 counter on Managorger Hydra."
 msgstr ""
 
 #: ../../ORI.rst:829
@@ -1588,7 +1816,9 @@ msgid "Mantle of Webs"
 msgstr ""
 
 #: ../../ORI.rst:828
-msgid "Enchanted creature gets +1/+3 and has reach. (It can block creatures with flying.)"
+msgid ""
+"Enchanted creature gets +1/+3 and has reach. (It can block creatures with "
+"flying.)"
 msgstr ""
 
 #: ../../ORI.rst:831
@@ -1600,7 +1830,9 @@ msgid "Meteorite"
 msgstr ""
 
 #: ../../ORI.rst:836
-msgid "When Meteorite enters the battlefield, it deals 2 damage to target creature or player."
+msgid ""
+"When Meteorite enters the battlefield, it deals 2 damage to target creature "
+"or player."
 msgstr ""
 
 #: ../../ORI.rst:838
@@ -1612,7 +1844,8 @@ msgid "Might of the Masses"
 msgstr ""
 
 #: ../../ORI.rst:842
-msgid "Target creature gets +1/+1 until end of turn for each creature you control."
+msgid ""
+"Target creature gets +1/+1 until end of turn for each creature you control."
 msgstr ""
 
 #: ../../ORI.rst:847
@@ -1620,7 +1853,9 @@ msgid "Mighty Leap"
 msgstr ""
 
 #: ../../ORI.rst:846
-msgid "Target creature gets +2/+2 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)"
+msgid ""
+"Target creature gets +2/+2 and gains flying until end of turn. (It can't be "
+"blocked except by creatures with flying or reach.)"
 msgstr ""
 
 #: ../../ORI.rst:851
@@ -1636,7 +1871,9 @@ msgid "Mizzium Meddler"
 msgstr ""
 
 #: ../../ORI.rst:856
-msgid "When Mizzium Meddler enters the battlefield, you may change a target of target spell or ability to Mizzium Meddler."
+msgid ""
+"When Mizzium Meddler enters the battlefield, you may change a target of "
+"target spell or ability to Mizzium Meddler."
 msgstr ""
 
 #: ../../ORI.rst:861
@@ -1644,7 +1881,9 @@ msgid "Molten Vortex"
 msgstr ""
 
 #: ../../ORI.rst:860
-msgid "|mana_r|, Discard a land card: Molten Vortex deals 2 damage to target creature or player."
+msgid ""
+"|mana_r|, Discard a land card: Molten Vortex deals 2 damage to target "
+"creature or player."
 msgstr ""
 
 #: ../../ORI.rst:865
@@ -1664,7 +1903,9 @@ msgid "Enchant creature you control"
 msgstr ""
 
 #: ../../ORI.rst:870
-msgid "When enchanted creature dies, put X 1/1 white Soldier creature tokens onto the battlefield, where X is its power."
+msgid ""
+"When enchanted creature dies, put X 1/1 white Soldier creature tokens onto "
+"the battlefield, where X is its power."
 msgstr ""
 
 #: ../../ORI.rst:875
@@ -1680,11 +1921,16 @@ msgid "Necromantic Summons"
 msgstr ""
 
 #: ../../ORI.rst:878
-msgid "Put target creature card from a graveyard onto the battlefield under your control."
+msgid ""
+"Put target creature card from a graveyard onto the battlefield under your "
+"control."
 msgstr ""
 
 #: ../../ORI.rst:880
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, that creature enters the battlefield with two additional +1/+1 counters on it."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, that creature enters the battlefield with two additional +1/"
+"+1 counters on it."
 msgstr ""
 
 #: ../../ORI.rst:885
@@ -1700,7 +1946,9 @@ msgid "Nightmare"
 msgstr ""
 
 #: ../../ORI.rst:890
-msgid "Nightmare's power and toughness are each equal to the number of Swamps you control."
+msgid ""
+"Nightmare's power and toughness are each equal to the number of Swamps you "
+"control."
 msgstr ""
 
 #: ../../ORI.rst:895
@@ -1708,7 +1956,10 @@ msgid "Nightsnare"
 msgstr ""
 
 #: ../../ORI.rst:894
-msgid "Target opponent reveals his or her hand. You may choose a nonland card from it. If you do, that player discards that card. If you don't, that player discards two cards."
+msgid ""
+"Target opponent reveals his or her hand. You may choose a nonland card from "
+"it. If you do, that player discards that card. If you don't, that player "
+"discards two cards."
 msgstr ""
 
 #: ../../ORI.rst:903
@@ -1716,15 +1967,21 @@ msgid "Nissa, Sage Animist"
 msgstr ""
 
 #: ../../ORI.rst:898
-msgid "+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand."
+msgid ""
+"+1: Reveal the top card of your library. If it's a land card, put it onto "
+"the battlefield. Otherwise, put it into your hand."
 msgstr ""
 
 #: ../../ORI.rst:900
-msgid "−2: Put a legendary 4/4 green Elemental creature token named Ashaya, the Awoken World onto the battlefield."
+msgid ""
+"−2: Put a legendary 4/4 green Elemental creature token named Ashaya, the "
+"Awoken World onto the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:902
-msgid "−7: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands."
+msgid ""
+"−7: Untap up to six target lands. They become 6/6 Elemental creatures. "
+"They're still lands."
 msgstr ""
 
 #: ../../ORI.rst:909
@@ -1732,11 +1989,17 @@ msgid "Nissa, Vastwood Seer"
 msgstr ""
 
 #: ../../ORI.rst:906
-msgid "When Nissa, Vastwood Seer enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle your library."
+msgid ""
+"When Nissa, Vastwood Seer enters the battlefield, you may search your "
+"library for a basic Forest card, reveal it, put it into your hand, then "
+"shuffle your library."
 msgstr ""
 
 #: ../../ORI.rst:908
-msgid "Whenever a land enters the battlefield under your control, if you control seven or more lands, exile Nissa, then return her to the battlefield transformed under her owner's control."
+msgid ""
+"Whenever a land enters the battlefield under your control, if you control "
+"seven or more lands, exile Nissa, then return her to the battlefield "
+"transformed under her owner's control."
 msgstr ""
 
 #: ../../ORI.rst:915
@@ -1744,11 +2007,17 @@ msgid "Nissa's Pilgrimage"
 msgstr ""
 
 #: ../../ORI.rst:912
-msgid "Search your library for up to two basic Forest cards, reveal those cards, and put one onto the battlefield tapped and the rest into your hand. Then shuffle your library."
+msgid ""
+"Search your library for up to two basic Forest cards, reveal those cards, "
+"and put one onto the battlefield tapped and the rest into your hand. Then "
+"shuffle your library."
 msgstr ""
 
 #: ../../ORI.rst:914
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, search your library for up to three basic Forest cards instead of two."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, search your library for up to three basic Forest cards "
+"instead of two."
 msgstr ""
 
 #: ../../ORI.rst:919
@@ -1756,7 +2025,9 @@ msgid "Nissa's Revelation"
 msgstr ""
 
 #: ../../ORI.rst:918
-msgid "Scry 5, then reveal the top card of your library. If it's a creature card, you draw cards equal to its power and you gain life equal to its toughness."
+msgid ""
+"Scry 5, then reveal the top card of your library. If it's a creature card, "
+"you draw cards equal to its power and you gain life equal to its toughness."
 msgstr ""
 
 #: ../../ORI.rst:927
@@ -1764,7 +2035,9 @@ msgid "Nivix Barrier"
 msgstr ""
 
 #: ../../ORI.rst:926
-msgid "When Nivix Barrier enters the battlefield, target attacking creature gets -4/-0 until end of turn."
+msgid ""
+"When Nivix Barrier enters the battlefield, target attacking creature gets "
+"-4/-0 until end of turn."
 msgstr ""
 
 #: ../../ORI.rst:933
@@ -1772,7 +2045,9 @@ msgid "Orbs of Warding"
 msgstr ""
 
 #: ../../ORI.rst:930
-msgid "You have hexproof. (You can't be the target of spells or abilities your opponents control.)"
+msgid ""
+"You have hexproof. (You can't be the target of spells or abilities your "
+"opponents control.)"
 msgstr ""
 
 #: ../../ORI.rst:932
@@ -1784,7 +2059,8 @@ msgid "Orchard Spirit"
 msgstr ""
 
 #: ../../ORI.rst:936
-msgid "Orchard Spirit can't be blocked except by creatures with flying or reach."
+msgid ""
+"Orchard Spirit can't be blocked except by creatures with flying or reach."
 msgstr ""
 
 #: ../../ORI.rst:943
@@ -1792,7 +2068,9 @@ msgid "Outland Colossus"
 msgstr ""
 
 #: ../../ORI.rst:940
-msgid "Renown 6 (When this creature deals combat damage to a player, if it isn't renowned, put six +1/+1 counters on it and it becomes renowned.)"
+msgid ""
+"Renown 6 (When this creature deals combat damage to a player, if it isn't "
+"renowned, put six +1/+1 counters on it and it becomes renowned.)"
 msgstr ""
 
 #: ../../ORI.rst:942
@@ -1804,7 +2082,9 @@ msgid "Patron of the Valiant"
 msgstr ""
 
 #: ../../ORI.rst:948
-msgid "When Patron of the Valiant enters the battlefield, put a +1/+1 counter on each creature you control with a +1/+1 counter on it."
+msgid ""
+"When Patron of the Valiant enters the battlefield, put a +1/+1 counter on "
+"each creature you control with a +1/+1 counter on it."
 msgstr ""
 
 #: ../../ORI.rst:955
@@ -1816,11 +2096,15 @@ msgid "Pia and Kiran Nalaar"
 msgstr ""
 
 #: ../../ORI.rst:958
-msgid "When Pia and Kiran Nalaar enters the battlefield, put two 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield."
+msgid ""
+"When Pia and Kiran Nalaar enters the battlefield, put two 1/1 colorless "
+"Thopter artifact creature tokens with flying onto the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:960
-msgid "|mana_2| |mana_r|, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to target creature or player."
+msgid ""
+"|mana_2| |mana_r|, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 "
+"damage to target creature or player."
 msgstr ""
 
 #: ../../ORI.rst:965
@@ -1844,7 +2128,9 @@ msgid "Possessed Skaab"
 msgstr ""
 
 #: ../../ORI.rst:972
-msgid "When Possessed Skaab enters the battlefield, return target instant, sorcery, or creature card from your graveyard to your hand."
+msgid ""
+"When Possessed Skaab enters the battlefield, return target instant, sorcery, "
+"or creature card from your graveyard to your hand."
 msgstr ""
 
 #: ../../ORI.rst:974
@@ -1856,7 +2142,9 @@ msgid "Prickleboar"
 msgstr ""
 
 #: ../../ORI.rst:978
-msgid "As long as it's your turn, Prickleboar gets +2/+0 and has first strike. (It deals combat damage before creatures without first strike.)"
+msgid ""
+"As long as it's your turn, Prickleboar gets +2/+0 and has first strike. (It "
+"deals combat damage before creatures without first strike.)"
 msgstr ""
 
 #: ../../ORI.rst:985
@@ -1864,7 +2152,9 @@ msgid "Priest of the Blood Rite"
 msgstr ""
 
 #: ../../ORI.rst:982
-msgid "When Priest of the Blood Rite enters the battlefield, put a 5/5 black Demon creature token with flying onto the battlefield."
+msgid ""
+"When Priest of the Blood Rite enters the battlefield, put a 5/5 black Demon "
+"creature token with flying onto the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:984
@@ -1900,7 +2190,10 @@ msgid "Counter target instant or sorcery spell that targets you."
 msgstr ""
 
 #: ../../ORI.rst:1000
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you may copy the spell countered this way. You may choose new targets for the copy."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, you may copy the spell countered this way. You may choose "
+"new targets for the copy."
 msgstr ""
 
 #: ../../ORI.rst:1005
@@ -1908,7 +2201,10 @@ msgid "Pyromancer's Goggles"
 msgstr ""
 
 #: ../../ORI.rst:1004
-msgid "|tap|: Add |mana_r| to your mana pool. When that mana is spent to cast a red instant or sorcery spell, copy that spell and you may choose new targets for the copy."
+msgid ""
+"|tap|: Add |mana_r| to your mana pool. When that mana is spent to cast a red "
+"instant or sorcery spell, copy that spell and you may choose new targets for "
+"the copy."
 msgstr ""
 
 #: ../../ORI.rst:1011
@@ -1916,7 +2212,8 @@ msgid "Rabid Bloodsucker"
 msgstr ""
 
 #: ../../ORI.rst:1010
-msgid "When Rabid Bloodsucker enters the battlefield, each player loses 2 life."
+msgid ""
+"When Rabid Bloodsucker enters the battlefield, each player loses 2 life."
 msgstr ""
 
 #: ../../ORI.rst:1017
@@ -1940,7 +2237,10 @@ msgid "Ravaging Blaze deals X damage to target creature."
 msgstr ""
 
 #: ../../ORI.rst:1022
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Ravaging Blaze also deals X damage to that creature's controller."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, Ravaging Blaze also deals X damage to that creature's "
+"controller."
 msgstr ""
 
 #: ../../ORI.rst:1027
@@ -1948,7 +2248,10 @@ msgid "Read the Bones"
 msgstr ""
 
 #: ../../ORI.rst:1026
-msgid "Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgid ""
+"Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top "
+"two cards of your library, then put any number of them on the bottom of your "
+"library and the rest on top in any order.)"
 msgstr ""
 
 #: ../../ORI.rst:1031
@@ -1972,7 +2275,9 @@ msgid "Reclusive Artificer"
 msgstr ""
 
 #: ../../ORI.rst:1040
-msgid "When Reclusive Artificer enters the battlefield, you may have it deal damage to target creature equal to the number of artifacts you control."
+msgid ""
+"When Reclusive Artificer enters the battlefield, you may have it deal damage "
+"to target creature equal to the number of artifacts you control."
 msgstr ""
 
 #: ../../ORI.rst:1047
@@ -1980,7 +2285,9 @@ msgid "Relic Seeker"
 msgstr ""
 
 #: ../../ORI.rst:1046
-msgid "When Relic Seeker becomes renowned, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library."
+msgid ""
+"When Relic Seeker becomes renowned, you may search your library for an "
+"Equipment card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 
 #: ../../ORI.rst:1051
@@ -1988,7 +2295,9 @@ msgid "Returned Centaur"
 msgstr ""
 
 #: ../../ORI.rst:1050
-msgid "When Returned Centaur enters the battlefield, target player puts the top four cards of his or her library into his or her graveyard."
+msgid ""
+"When Returned Centaur enters the battlefield, target player puts the top "
+"four cards of his or her library into his or her graveyard."
 msgstr ""
 
 #: ../../ORI.rst:1057
@@ -1996,7 +2305,9 @@ msgid "Revenant"
 msgstr ""
 
 #: ../../ORI.rst:1056
-msgid "Revenant's power and toughness are each equal to the number of creature cards in your graveyard."
+msgid ""
+"Revenant's power and toughness are each equal to the number of creature "
+"cards in your graveyard."
 msgstr ""
 
 #: ../../ORI.rst:1063
@@ -2028,7 +2339,9 @@ msgid "Scab-Clan Berserker"
 msgstr ""
 
 #: ../../ORI.rst:1086
-msgid "Whenever an opponent casts a noncreature spell, if Scab-Clan Berserker is renowned, Scab-Clan Berserker deals 2 damage to that player."
+msgid ""
+"Whenever an opponent casts a noncreature spell, if Scab-Clan Berserker is "
+"renowned, Scab-Clan Berserker deals 2 damage to that player."
 msgstr ""
 
 #: ../../ORI.rst:1093
@@ -2044,7 +2357,9 @@ msgid "Screeching Skaab"
 msgstr ""
 
 #: ../../ORI.rst:1096
-msgid "When Screeching Skaab enters the battlefield, put the top two cards of your library into your graveyard."
+msgid ""
+"When Screeching Skaab enters the battlefield, put the top two cards of your "
+"library into your graveyard."
 msgstr ""
 
 #: ../../ORI.rst:1101
@@ -2052,7 +2367,9 @@ msgid "Seismic Elemental"
 msgstr ""
 
 #: ../../ORI.rst:1100
-msgid "When Seismic Elemental enters the battlefield, creatures without flying can't block this turn."
+msgid ""
+"When Seismic Elemental enters the battlefield, creatures without flying "
+"can't block this turn."
 msgstr ""
 
 #: ../../ORI.rst:1107
@@ -2064,7 +2381,10 @@ msgid "Tap up to two target creatures."
 msgstr ""
 
 #: ../../ORI.rst:1106
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, those creatures don't untap during their controllers' next untap steps."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, those creatures don't untap during their controllers' next "
+"untap steps."
 msgstr ""
 
 #: ../../ORI.rst:1113
@@ -2072,7 +2392,9 @@ msgid "Sengir Vampire"
 msgstr ""
 
 #: ../../ORI.rst:1112
-msgid "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."
+msgid ""
+"Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/"
+"+1 counter on Sengir Vampire."
 msgstr ""
 
 #: ../../ORI.rst:1119
@@ -2080,7 +2402,9 @@ msgid "Sentinel of the Eternal Watch"
 msgstr ""
 
 #: ../../ORI.rst:1118
-msgid "At the beginning of combat on each opponent's turn, tap target creature that player controls."
+msgid ""
+"At the beginning of combat on each opponent's turn, tap target creature that "
+"player controls."
 msgstr ""
 
 #: ../../ORI.rst:1123
@@ -2088,7 +2412,9 @@ msgid "Separatist Voidmage"
 msgstr ""
 
 #: ../../ORI.rst:1122
-msgid "When Separatist Voidmage enters the battlefield, you may return target creature to its owner's hand."
+msgid ""
+"When Separatist Voidmage enters the battlefield, you may return target "
+"creature to its owner's hand."
 msgstr ""
 
 #: ../../ORI.rst:1129
@@ -2100,11 +2426,15 @@ msgid "Shadows of the Past"
 msgstr ""
 
 #: ../../ORI.rst:1132
-msgid "Whenever a creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid ""
+"Whenever a creature dies, scry 1. (Look at the top card of your library. You "
+"may put that card on the bottom of your library.)"
 msgstr ""
 
 #: ../../ORI.rst:1134
-msgid "|mana_4| |mana_b|: Each opponent loses 2 life and you gain 2 life. Activate this ability only if there are four or more creature cards in your graveyard."
+msgid ""
+"|mana_4| |mana_b|: Each opponent loses 2 life and you gain 2 life. Activate "
+"this ability only if there are four or more creature cards in your graveyard."
 msgstr ""
 
 #: ../../ORI.rst:1139
@@ -2112,7 +2442,9 @@ msgid "Shaman of the Pack"
 msgstr ""
 
 #: ../../ORI.rst:1138
-msgid "When Shaman of the Pack enters the battlefield, target opponent loses life equal to the number of Elves you control."
+msgid ""
+"When Shaman of the Pack enters the battlefield, target opponent loses life "
+"equal to the number of Elves you control."
 msgstr ""
 
 #: ../../ORI.rst:1143
@@ -2136,7 +2468,9 @@ msgid "Shivan Reef"
 msgstr ""
 
 #: ../../ORI.rst:1154
-msgid "|tap|: Add |mana_u| or |mana_r| to your mana pool. Shivan Reef deals 1 damage to you."
+msgid ""
+"|tap|: Add |mana_u| or |mana_r| to your mana pool. Shivan Reef deals 1 "
+"damage to you."
 msgstr ""
 
 #: ../../ORI.rst:1159
@@ -2144,7 +2478,9 @@ msgid "Sigil of the Empty Throne"
 msgstr ""
 
 #: ../../ORI.rst:1158
-msgid "Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield."
+msgid ""
+"Whenever you cast an enchantment spell, put a 4/4 white Angel creature token "
+"with flying onto the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:1165
@@ -2152,7 +2488,9 @@ msgid "Sigil of Valor"
 msgstr ""
 
 #: ../../ORI.rst:1162
-msgid "Whenever equipped creature attacks alone, it gets +1/+1 until end of turn for each other creature you control."
+msgid ""
+"Whenever equipped creature attacks alone, it gets +1/+1 until end of turn "
+"for each other creature you control."
 msgstr ""
 
 #: ../../ORI.rst:1169
@@ -2160,7 +2498,9 @@ msgid "Sigiled Starfish"
 msgstr ""
 
 #: ../../ORI.rst:1168
-msgid "|tap|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid ""
+"|tap|: Scry 1. (Look at the top card of your library. You may put that card "
+"on the bottom of your library.)"
 msgstr ""
 
 #: ../../ORI.rst:1175
@@ -2168,7 +2508,9 @@ msgid "Skaab Goliath"
 msgstr ""
 
 #: ../../ORI.rst:1172
-msgid "As an additional cost to cast Skaab Goliath, exile two creature cards from your graveyard."
+msgid ""
+"As an additional cost to cast Skaab Goliath, exile two creature cards from "
+"your graveyard."
 msgstr ""
 
 #: ../../ORI.rst:1179
@@ -2184,7 +2526,9 @@ msgid "Smash to Smithereens"
 msgstr ""
 
 #: ../../ORI.rst:1188
-msgid "Destroy target artifact. Smash to Smithereens deals 3 damage to that artifact's controller."
+msgid ""
+"Destroy target artifact. Smash to Smithereens deals 3 damage to that "
+"artifact's controller."
 msgstr ""
 
 #: ../../ORI.rst:1195
@@ -2192,11 +2536,16 @@ msgid "Somberwald Alpha"
 msgstr ""
 
 #: ../../ORI.rst:1192
-msgid "Whenever a creature you control becomes blocked, it gets +1/+1 until end of turn."
+msgid ""
+"Whenever a creature you control becomes blocked, it gets +1/+1 until end of "
+"turn."
 msgstr ""
 
 #: ../../ORI.rst:1194
-msgid "|mana_1| |mana_g|: Target creature you control gains trample until end of turn. (It can deal excess combat damage to defending player or planeswalker while attacking.)"
+msgid ""
+"|mana_1| |mana_g|: Target creature you control gains trample until end of "
+"turn. (It can deal excess combat damage to defending player or planeswalker "
+"while attacking.)"
 msgstr ""
 
 #: ../../ORI.rst:1201
@@ -2204,7 +2553,9 @@ msgid "Soulblade Djinn"
 msgstr ""
 
 #: ../../ORI.rst:1200
-msgid "Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn."
+msgid ""
+"Whenever you cast a noncreature spell, creatures you control get +1/+1 until "
+"end of turn."
 msgstr ""
 
 #: ../../ORI.rst:1207
@@ -2212,7 +2563,10 @@ msgid "Sphinx's Tutelage"
 msgstr ""
 
 #: ../../ORI.rst:1204
-msgid "Whenever you draw a card, target opponent puts the top two cards of his or her library into his or her graveyard. If they're both nonland cards that share a color, repeat this process."
+msgid ""
+"Whenever you draw a card, target opponent puts the top two cards of his or "
+"her library into his or her graveyard. If they're both nonland cards that "
+"share a color, repeat this process."
 msgstr ""
 
 #: ../../ORI.rst:1206
@@ -2228,11 +2582,16 @@ msgid "Starfield of Nyx"
 msgstr ""
 
 #: ../../ORI.rst:1216
-msgid "At the beginning of your upkeep, you may return target enchantment card from your graveyard to the battlefield."
+msgid ""
+"At the beginning of your upkeep, you may return target enchantment card from "
+"your graveyard to the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:1218
-msgid "As long as you control five or more enchantments, each other non-Aura enchantment you control is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost."
+msgid ""
+"As long as you control five or more enchantments, each other non-Aura "
+"enchantment you control is a creature in addition to its other types and has "
+"base power and base toughness each equal to its converted mana cost."
 msgstr ""
 
 #: ../../ORI.rst:1229
@@ -2244,7 +2603,9 @@ msgid "When Stratus Walk enters the battlefield, draw a card."
 msgstr ""
 
 #: ../../ORI.rst:1226
-msgid "Enchanted creature has flying. (It can't be blocked except by creatures with flying or reach.)"
+msgid ""
+"Enchanted creature has flying. (It can't be blocked except by creatures with "
+"flying or reach.)"
 msgstr ""
 
 #: ../../ORI.rst:1228
@@ -2256,7 +2617,9 @@ msgid "Subterranean Scout"
 msgstr ""
 
 #: ../../ORI.rst:1232
-msgid "When Subterranean Scout enters the battlefield, target creature with power 2 or less can't be blocked this turn."
+msgid ""
+"When Subterranean Scout enters the battlefield, target creature with power 2 "
+"or less can't be blocked this turn."
 msgstr ""
 
 #: ../../ORI.rst:1239
@@ -2268,7 +2631,9 @@ msgid "Enchant nonland permanent"
 msgstr ""
 
 #: ../../ORI.rst:1238
-msgid "Enchanted permanent can't attack or block, and its activated abilities can't be activated."
+msgid ""
+"Enchanted permanent can't attack or block, and its activated abilities can't "
+"be activated."
 msgstr ""
 
 #: ../../ORI.rst:1243
@@ -2284,7 +2649,10 @@ msgid "Swift Reckoning"
 msgstr ""
 
 #: ../../ORI.rst:1246
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you may cast Swift Reckoning as though it had flash. (You may cast it any time you could cast an instant.)"
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, you may cast Swift Reckoning as though it had flash. (You "
+"may cast it any time you could cast an instant.)"
 msgstr ""
 
 #: ../../ORI.rst:1248
@@ -2295,13 +2663,14 @@ msgstr ""
 msgid "Sword of the Animist"
 msgstr ""
 
-#: ../../ORI.rst:1252
-#: ../../ORI.rst:1394
+#: ../../ORI.rst:1252 ../../ORI.rst:1394
 msgid "Equipped creature gets +1/+1."
 msgstr ""
 
 #: ../../ORI.rst:1254
-msgid "Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid ""
+"Whenever equipped creature attacks, you may search your library for a basic "
+"land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
 #: ../../ORI.rst:1256
@@ -2313,7 +2682,10 @@ msgid "Sylvan Messenger"
 msgstr ""
 
 #: ../../ORI.rst:1262
-msgid "When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order."
+msgid ""
+"When Sylvan Messenger enters the battlefield, reveal the top four cards of "
+"your library. Put all Elf cards revealed this way into your hand and the "
+"rest on the bottom of your library in any order."
 msgstr ""
 
 #: ../../ORI.rst:1267
@@ -2321,7 +2693,8 @@ msgid "Tainted Remedy"
 msgstr ""
 
 #: ../../ORI.rst:1266
-msgid "If an opponent would gain life, that player loses that much life instead."
+msgid ""
+"If an opponent would gain life, that player loses that much life instead."
 msgstr ""
 
 #: ../../ORI.rst:1273
@@ -2329,11 +2702,17 @@ msgid "Talent of the Telepath"
 msgstr ""
 
 #: ../../ORI.rst:1270
-msgid "Target opponent reveals the top seven cards of his or her library. You may cast an instant or sorcery card from among them without paying its mana cost. Then that player puts the rest into his or her graveyard."
+msgid ""
+"Target opponent reveals the top seven cards of his or her library. You may "
+"cast an instant or sorcery card from among them without paying its mana "
+"cost. Then that player puts the rest into his or her graveyard."
 msgstr ""
 
 #: ../../ORI.rst:1272
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you may cast up to two revealed instant and/or sorcery cards instead of one."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, you may cast up to two revealed instant and/or sorcery cards "
+"instead of one."
 msgstr ""
 
 #: ../../ORI.rst:1279
@@ -2345,7 +2724,10 @@ msgid "Terra Stomper can't be countered."
 msgstr ""
 
 #: ../../ORI.rst:1278
-msgid "Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)"
+msgid ""
+"Trample (If this creature would assign enough damage to its blockers to "
+"destroy them, you may have it assign the rest of its damage to defending "
+"player or planeswalker.)"
 msgstr ""
 
 #: ../../ORI.rst:1283
@@ -2353,7 +2735,11 @@ msgid "The Great Aurora"
 msgstr ""
 
 #: ../../ORI.rst:1282
-msgid "Each player shuffles all cards from his or her hand and all permanents he or she owns into his or her library, then draws that many cards. Each player may put any number of land cards from his or her hand onto the battlefield. Exile The Great Aurora."
+msgid ""
+"Each player shuffles all cards from his or her hand and all permanents he or "
+"she owns into his or her library, then draws that many cards. Each player "
+"may put any number of land cards from his or her hand onto the battlefield. "
+"Exile The Great Aurora."
 msgstr ""
 
 #: ../../ORI.rst:1289
@@ -2361,11 +2747,15 @@ msgid "Thopter Engineer"
 msgstr ""
 
 #: ../../ORI.rst:1286
-msgid "When Thopter Engineer enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield."
+msgid ""
+"When Thopter Engineer enters the battlefield, put a 1/1 colorless Thopter "
+"artifact creature token with flying onto the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:1288
-msgid "Artifact creatures you control have haste. (They can attack and |tap| as soon as they come under your control.)"
+msgid ""
+"Artifact creatures you control have haste. (They can attack and |tap| as "
+"soon as they come under your control.)"
 msgstr ""
 
 #: ../../ORI.rst:1295
@@ -2373,11 +2763,15 @@ msgid "Thopter Spy Network"
 msgstr ""
 
 #: ../../ORI.rst:1292
-msgid "At the beginning of your upkeep, if you control an artifact, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield."
+msgid ""
+"At the beginning of your upkeep, if you control an artifact, put a 1/1 "
+"colorless Thopter artifact creature token with flying onto the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:1294
-msgid "Whenever one or more artifact creatures you control deal combat damage to a player, draw a card."
+msgid ""
+"Whenever one or more artifact creatures you control deal combat damage to a "
+"player, draw a card."
 msgstr ""
 
 #: ../../ORI.rst:1299
@@ -2385,7 +2779,9 @@ msgid "Thornbow Archer"
 msgstr ""
 
 #: ../../ORI.rst:1298
-msgid "Whenever Thornbow Archer attacks, each opponent who doesn't control an Elf loses 1 life."
+msgid ""
+"Whenever Thornbow Archer attacks, each opponent who doesn't control an Elf "
+"loses 1 life."
 msgstr ""
 
 #: ../../ORI.rst:1307
@@ -2397,11 +2793,15 @@ msgid "Equipped creature gets +2/+0."
 msgstr ""
 
 #: ../../ORI.rst:1304
-msgid "Whenever equipped creature attacks, you may sacrifice Throwing Knife. If you do, Throwing Knife deals 2 damage to target creature or player."
+msgid ""
+"Whenever equipped creature attacks, you may sacrifice Throwing Knife. If you "
+"do, Throwing Knife deals 2 damage to target creature or player."
 msgstr ""
 
 #: ../../ORI.rst:1306
-msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
+msgid ""
+"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
+"as a sorcery.)"
 msgstr ""
 
 #: ../../ORI.rst:1315
@@ -2417,7 +2817,9 @@ msgid "Timberpack Wolf"
 msgstr ""
 
 #: ../../ORI.rst:1318
-msgid "Timberpack Wolf gets +1/+1 for each other creature you control named Timberpack Wolf."
+msgid ""
+"Timberpack Wolf gets +1/+1 for each other creature you control named "
+"Timberpack Wolf."
 msgstr ""
 
 #: ../../ORI.rst:1323
@@ -2433,7 +2835,9 @@ msgid "Titan's Strength"
 msgstr ""
 
 #: ../../ORI.rst:1326
-msgid "Target creature gets +3/+1 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid ""
+"Target creature gets +3/+1 until end of turn. Scry 1. (Look at the top card "
+"of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
 #: ../../ORI.rst:1333
@@ -2449,7 +2853,9 @@ msgid "As an additional cost to cast Tormented Thoughts, sacrifice a creature."
 msgstr ""
 
 #: ../../ORI.rst:1338
-msgid "Target player discards a number of cards equal to the sacrificed creature's power."
+msgid ""
+"Target player discards a number of cards equal to the sacrificed creature's "
+"power."
 msgstr ""
 
 #: ../../ORI.rst:1343
@@ -2457,7 +2863,10 @@ msgid "Totem-Guide Hartebeest"
 msgstr ""
 
 #: ../../ORI.rst:1342
-msgid "When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library."
+msgid ""
+"When Totem-Guide Hartebeest enters the battlefield, you may search your "
+"library for an Aura card, reveal it, put it into your hand, then shuffle "
+"your library."
 msgstr ""
 
 #: ../../ORI.rst:1347
@@ -2465,7 +2874,11 @@ msgid "Touch of Moonglove"
 msgstr ""
 
 #: ../../ORI.rst:1346
-msgid "Target creature you control gets +1/+0 and gains deathtouch until end of turn. Whenever a creature dealt damage by that creature dies this turn, its controller loses 2 life. (Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)"
+msgid ""
+"Target creature you control gets +1/+0 and gains deathtouch until end of "
+"turn. Whenever a creature dealt damage by that creature dies this turn, its "
+"controller loses 2 life. (Any amount of damage a creature with deathtouch "
+"deals to a creature is enough to destroy it.)"
 msgstr ""
 
 #: ../../ORI.rst:1353
@@ -2473,7 +2886,9 @@ msgid "Tower Geist"
 msgstr ""
 
 #: ../../ORI.rst:1352
-msgid "When Tower Geist enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other into your graveyard."
+msgid ""
+"When Tower Geist enters the battlefield, look at the top two cards of your "
+"library. Put one of them into your hand and the other into your graveyard."
 msgstr ""
 
 #: ../../ORI.rst:1357
@@ -2481,7 +2896,10 @@ msgid "Tragic Arrogance"
 msgstr ""
 
 #: ../../ORI.rst:1356
-msgid "For each player, you choose from among the permanents that player controls an artifact, a creature, an enchantment, and a planeswalker. Then each player sacrifices all other nonland permanents he or she controls."
+msgid ""
+"For each player, you choose from among the permanents that player controls "
+"an artifact, a creature, an enchantment, and a planeswalker. Then each "
+"player sacrifices all other nonland permanents he or she controls."
 msgstr ""
 
 #: ../../ORI.rst:1361
@@ -2489,7 +2907,9 @@ msgid "Turn to Frog"
 msgstr ""
 
 #: ../../ORI.rst:1360
-msgid "Until end of turn, target creature loses all abilities and becomes a blue Frog with base power and toughness 1/1."
+msgid ""
+"Until end of turn, target creature loses all abilities and becomes a blue "
+"Frog with base power and toughness 1/1."
 msgstr ""
 
 #: ../../ORI.rst:1365
@@ -2497,7 +2917,10 @@ msgid "Undead Servant"
 msgstr ""
 
 #: ../../ORI.rst:1364
-msgid "When Undead Servant enters the battlefield, put a 2/2 black Zombie creature token onto the battlefield for each card named Undead Servant in your graveyard."
+msgid ""
+"When Undead Servant enters the battlefield, put a 2/2 black Zombie creature "
+"token onto the battlefield for each card named Undead Servant in your "
+"graveyard."
 msgstr ""
 
 #: ../../ORI.rst:1371
@@ -2505,7 +2928,10 @@ msgid "Undercity Troll"
 msgstr ""
 
 #: ../../ORI.rst:1370
-msgid "|mana_2| |mana_g|: Regenerate Undercity Troll. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+msgid ""
+"|mana_2| |mana_g|: Regenerate Undercity Troll. (The next time this creature "
+"would be destroyed this turn, it isn't. Instead tap it, remove all damage "
+"from it, and remove it from combat.)"
 msgstr ""
 
 #: ../../ORI.rst:1377
@@ -2517,7 +2943,9 @@ msgid "Destroy target creature."
 msgstr ""
 
 #: ../../ORI.rst:1376
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you gain 2 life."
+msgid ""
+"Spell mastery — If there are two or more instant and/or sorcery cards in "
+"your graveyard, you gain 2 life."
 msgstr ""
 
 #: ../../ORI.rst:1383
@@ -2533,7 +2961,9 @@ msgid "Valor in Akros"
 msgstr ""
 
 #: ../../ORI.rst:1386
-msgid "Whenever a creature enters the battlefield under your control, creatures you control get +1/+1 until end of turn."
+msgid ""
+"Whenever a creature enters the battlefield under your control, creatures you "
+"control get +1/+1 until end of turn."
 msgstr ""
 
 #: ../../ORI.rst:1389
@@ -2549,7 +2979,9 @@ msgid "Vine Snare"
 msgstr ""
 
 #: ../../ORI.rst:1400
-msgid "Prevent all combat damage that would be dealt this turn by creatures with power 4 or less."
+msgid ""
+"Prevent all combat damage that would be dealt this turn by creatures with "
+"power 4 or less."
 msgstr ""
 
 #: ../../ORI.rst:1405
@@ -2581,7 +3013,9 @@ msgid "War Oracle"
 msgstr ""
 
 #: ../../ORI.rst:1418
-msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
+msgid ""
+"Lifelink (Damage dealt by this creature also causes you to gain that much "
+"life.)"
 msgstr ""
 
 #: ../../ORI.rst:1425
@@ -2609,11 +3043,15 @@ msgid "Whirler Rogue"
 msgstr ""
 
 #: ../../ORI.rst:1438
-msgid "When Whirler Rogue enters the battlefield, put two 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield."
+msgid ""
+"When Whirler Rogue enters the battlefield, put two 1/1 colorless Thopter "
+"artifact creature tokens with flying onto the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:1440
-msgid "Tap two untapped artifacts you control: Target creature can't be blocked this turn."
+msgid ""
+"Tap two untapped artifacts you control: Target creature can't be blocked "
+"this turn."
 msgstr ""
 
 #: ../../ORI.rst:1445
@@ -2621,7 +3059,10 @@ msgid "Wild Instincts"
 msgstr ""
 
 #: ../../ORI.rst:1444
-msgid "Target creature you control gets +2/+2 until end of turn. It fights target creature an opponent controls. (Each deals damage equal to its power to the other.)"
+msgid ""
+"Target creature you control gets +2/+2 until end of turn. It fights target "
+"creature an opponent controls. (Each deals damage equal to its power to the "
+"other.)"
 msgstr ""
 
 #: ../../ORI.rst:1449
@@ -2629,7 +3070,10 @@ msgid "Willbreaker"
 msgstr ""
 
 #: ../../ORI.rst:1448
-msgid "Whenever a creature an opponent controls becomes the target of a spell or ability you control, gain control of that creature for as long as you control Willbreaker."
+msgid ""
+"Whenever a creature an opponent controls becomes the target of a spell or "
+"ability you control, gain control of that creature for as long as you "
+"control Willbreaker."
 msgstr ""
 
 #: ../../ORI.rst:1453
@@ -2637,7 +3081,10 @@ msgid "Woodland Bellower"
 msgstr ""
 
 #: ../../ORI.rst:1452
-msgid "When Woodland Bellower enters the battlefield, you may search your library for a nonlegendary green creature card with converted mana cost 3 or less, put it onto the battlefield, then shuffle your library."
+msgid ""
+"When Woodland Bellower enters the battlefield, you may search your library "
+"for a nonlegendary green creature card with converted mana cost 3 or less, "
+"put it onto the battlefield, then shuffle your library."
 msgstr ""
 
 #: ../../ORI.rst:1459
@@ -2645,7 +3092,9 @@ msgid "Yavimaya Coast"
 msgstr ""
 
 #: ../../ORI.rst:1458
-msgid "|tap|: Add |mana_g| or |mana_u| to your mana pool. Yavimaya Coast deals 1 damage to you."
+msgid ""
+"|tap|: Add |mana_g| or |mana_u| to your mana pool. Yavimaya Coast deals 1 "
+"damage to you."
 msgstr ""
 
 #: ../../ORI.rst:1463
@@ -2653,7 +3102,9 @@ msgid "Yeva's Forcemage"
 msgstr ""
 
 #: ../../ORI.rst:1462
-msgid "When Yeva's Forcemage enters the battlefield, target creature gets +2/+2 until end of turn."
+msgid ""
+"When Yeva's Forcemage enters the battlefield, target creature gets +2/+2 "
+"until end of turn."
 msgstr ""
 
 #: ../../ORI.rst:1465
@@ -2673,6 +3124,7 @@ msgid "Zendikar's Roil"
 msgstr ""
 
 #: ../../ORI.rst:1474
-msgid "Whenever a land enters the battlefield under your control, put a 2/2 green Elemental creature token onto the battlefield."
+msgid ""
+"Whenever a land enters the battlefield under your control, put a 2/2 green "
+"Elemental creature token onto the battlefield."
 msgstr ""
-
