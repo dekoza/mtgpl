@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-12-15 21:48+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 
 #: ../../DOM.rst:5
 msgid "Dominaria"
@@ -67,7 +70,7 @@ msgstr ""
 #: ../../DOM.rst:1897
 #: ../../DOM.rst:2036
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../DOM.rst:40
 msgid "Baird, Steward of Argive"
@@ -76,7 +79,7 @@ msgstr ""
 #: ../../DOM.rst:37
 #: ../../DOM.rst:1645
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../DOM.rst:39
 msgid "Creatures can't attack you or a planeswalker you control unless their controller pays |mana_1| for each of those creatures."
@@ -96,7 +99,7 @@ msgstr ""
 
 #: ../../DOM.rst:53
 msgid "Other creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../DOM.rst:61
 msgid "Blessed Light"
@@ -120,7 +123,7 @@ msgstr ""
 
 #: ../../DOM.rst:74
 msgid "Create two 2/2 white Knight creature tokens with vigilance."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Rycerza 2/2 z Czujnością."
 
 #: ../../DOM.rst:82
 msgid "Charge"
@@ -128,7 +131,7 @@ msgstr ""
 
 #: ../../DOM.rst:81
 msgid "Creatures you control get +1/+1 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../DOM.rst:89
 msgid "D'Avenant Trapper"
@@ -144,7 +147,7 @@ msgstr ""
 
 #: ../../DOM.rst:95
 msgid "First strike, vigilance, lifelink"
-msgstr ""
+msgstr "Pierwszy cios, czujność, więź życia"
 
 #: ../../DOM.rst:97
 msgid "Aura and Equipment spells you cast cost |mana_1| less to cast."
@@ -185,11 +188,13 @@ msgstr ""
 #: ../../DOM.rst:728
 #: ../../DOM.rst:1079
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../DOM.rst:124
 msgid "Enchanted creature gets +2/+2, has first strike, and is a Knight in addition to its other types."
 msgstr ""
+"Zauroczony stwór dostaje +2/+2, ma pierwszy cios i jest Rycerzem dodatkowo "
+"do swoich pozostałych typów."
 
 #: ../../DOM.rst:134
 msgid "Evra, Halcyon Witness"
@@ -199,7 +204,7 @@ msgstr ""
 #: ../../DOM.rst:228
 #: ../../DOM.rst:253
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../DOM.rst:133
 msgid "|mana_4|: Exchange your life total with Evra, Halcyon Witness's power."
@@ -235,16 +240,21 @@ msgstr ""
 #: ../../DOM.rst:1066
 #: ../../DOM.rst:1486
 #: ../../DOM.rst:1538
+#, fuzzy
 msgid "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)"
 msgstr ""
+"(Gdy ta Saga wchodzi oraz po kroku dobierania, dodaj znacznik wiedzy. "
+"Poświęć po III.)"
 
 #: ../../DOM.rst:151
 msgid "I — Destroy all lands."
-msgstr ""
+msgstr "I — Zniszcz wszystkie lądy."
 
 #: ../../DOM.rst:153
 msgid "II, III — Each player returns two land cards from their graveyard to the battlefield."
 msgstr ""
+"II, III — Każdy gracz zwraca dwie karty lądów ze swojego cmentarza na pole "
+"bitwy."
 
 #: ../../DOM.rst:161
 msgid "Gideon's Reproach"
@@ -290,7 +300,7 @@ msgstr ""
 #: ../../DOM.rst:832
 #: ../../DOM.rst:1120
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../DOM.rst:194
 msgid "Hexproof from black (This creature can't be the target of black spells or abilities your opponents control.)"
@@ -310,11 +320,11 @@ msgstr ""
 
 #: ../../DOM.rst:210
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../DOM.rst:212
 msgid "Creatures you control with first strike have double strike."
-msgstr ""
+msgstr "Stwory pod twoim władaniem z pierwszym ciosem mają podwójny cios."
 
 #: ../../DOM.rst:222
 msgid "Lyra Dawnbringer"
@@ -322,7 +332,7 @@ msgstr ""
 
 #: ../../DOM.rst:219
 msgid "Flying, first strike, lifelink"
-msgstr ""
+msgstr "Latanie, pierwszy cios, więź życia"
 
 #: ../../DOM.rst:221
 msgid "Other Angels you control get +1/+1 and have lifelink."
@@ -367,7 +377,7 @@ msgstr ""
 #: ../../DOM.rst:1667
 #: ../../DOM.rst:1737
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../DOM.rst:264
 msgid "When Seal Away enters the battlefield, exile target tapped creature an opponent controls until Seal Away leaves the battlefield."
@@ -380,6 +390,8 @@ msgstr ""
 #: ../../DOM.rst:271
 msgid "Kicker |mana_2| |mana_w| (You may pay an additional |mana_2| |mana_w| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_2| |mana_w| (Możesz zapłacić dodatkowe |mana_2| |mana_w| "
+"podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:273
 msgid "When Sergeant-at-Arms enters the battlefield, if it was kicked, create two 1/1 white Soldier creature tokens."
@@ -391,7 +403,7 @@ msgstr ""
 
 #: ../../DOM.rst:280
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../DOM.rst:290
 msgid "Serra Disciple"
@@ -400,7 +412,7 @@ msgstr ""
 #: ../../DOM.rst:287
 #: ../../DOM.rst:1795
 msgid "Flying, first strike"
-msgstr ""
+msgstr "Latanie, pierwszy cios"
 
 #: ../../DOM.rst:289
 msgid "Whenever you cast a historic spell, Serra Disciple gets +1/+1 until end of turn. (Artifacts, legendaries, and Sagas are historic.)"
@@ -486,7 +498,7 @@ msgstr ""
 #: ../../DOM.rst:354
 #: ../../DOM.rst:648
 msgid "This spell costs |mana_1| less to cast if you control a Wizard."
-msgstr ""
+msgstr "Rzucenie tego czaru kosztuje |mana_1| mniej jeśli władasz Czarodziejem."
 
 #: ../../DOM.rst:356
 msgid "When Academy Journeymage enters the battlefield, return target creature an opponent controls to its owner's hand."
@@ -510,7 +522,7 @@ msgstr ""
 
 #: ../../DOM.rst:376
 msgid "Enchanted creature gets +1/+1 and has flying."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma latanie."
 
 #: ../../DOM.rst:386
 msgid "Artificer's Assistant"
@@ -533,11 +545,11 @@ msgstr ""
 #: ../../DOM.rst:1306
 #: ../../DOM.rst:1386
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../DOM.rst:404
 msgid "Blink of an Eye"
-msgstr ""
+msgstr "Mgnienie oka"
 
 #: ../../DOM.rst:401
 #: ../../DOM.rst:577
@@ -1245,7 +1257,7 @@ msgstr ""
 
 #: ../../DOM.rst:1019
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../DOM.rst:1021
 msgid "Fiery Intervention deals 5 damage to target creature."
@@ -1743,7 +1755,7 @@ msgstr ""
 
 #: ../../DOM.rst:1450
 msgid "Llanowar Elves"
-msgstr ""
+msgstr "Llanowarskie elfy"
 
 #: ../../DOM.rst:1457
 msgid "Llanowar Envoy"
@@ -2737,4 +2749,3 @@ msgstr ""
 #: ../../DOM.rst:2391
 msgid "Whenever a white instant or sorcery spell causes you to gain life, Firesong and Sunspeaker deals 3 damage to target creature or player."
 msgstr ""
-
