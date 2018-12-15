@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-12-15 21:48+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 
 #: ../../XLN.rst:5
 msgid "Ixalan"
@@ -26,7 +29,7 @@ msgstr ""
 
 #: ../../XLN.rst:12
 msgid "As long as Adanto Vanguard is attacking, it gets +2/+0."
-msgstr ""
+msgstr "Dopóki ten stwór atakuje, dostaje +2/+0."
 
 #: ../../XLN.rst:14
 msgid "Pay 4 life: Adanto Vanguard gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
@@ -39,10 +42,12 @@ msgstr ""
 #: ../../XLN.rst:21
 msgid "Players can't cast spells from graveyards or activate abilities of cards in graveyards."
 msgstr ""
+"Gracznie nie mogą rzucać czarów z cmentarzy ani aktywować zdolności kart w "
+"cmentarzach."
 
 #: ../../XLN.rst:23
 msgid "Whenever a creature dies, you gain 1 life."
-msgstr ""
+msgstr "Ilekroć jakiś stwór umiera, zyskujesz 1 życie."
 
 #: ../../XLN.rst:31
 msgid "Axis of Mortality"
@@ -59,21 +64,25 @@ msgstr ""
 #: ../../XLN.rst:37
 msgid "Enrage — Whenever Bellowing Aegisaur is dealt damage, put a +1/+1 counter on each other creature you control."
 msgstr ""
+"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, połóż znacznik +1/+ na "
+"każdym innym stworze pod twoim władaniem."
 
 #: ../../XLN.rst:47
 msgid "Bishop of Rebirth"
-msgstr ""
+msgstr "Bishop of Rebirth (Biskup Odrodzenia)"
 
 #: ../../XLN.rst:44
 #: ../../XLN.rst:323
 #: ../../XLN.rst:332
 #: ../../XLN.rst:1944
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../XLN.rst:46
 msgid "Whenever Bishop of Rebirth attacks, you may return target creature card with converted mana cost 3 or less from your graveyard to the battlefield."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz zwrócić wskazaną kartę stwora o całkowitym "
+"koszcie 3 lub mniejszym z twojego cmentarza na pole walki."
 
 #: ../../XLN.rst:54
 msgid "Bishop's Soldier"
@@ -82,7 +91,7 @@ msgstr ""
 #: ../../XLN.rst:53
 #: ../../XLN.rst:934
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../XLN.rst:63
 msgid "Bright Reprisal"
@@ -90,7 +99,7 @@ msgstr ""
 
 #: ../../XLN.rst:60
 msgid "Destroy target attacking creature."
-msgstr ""
+msgstr "Zniszcz wskazanego atakującego stwora."
 
 #: ../../XLN.rst:62
 #: ../../XLN.rst:274
@@ -99,7 +108,7 @@ msgstr ""
 #: ../../XLN.rst:1675
 #: ../../XLN.rst:1716
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../XLN.rst:70
 msgid "Demystify"
@@ -108,7 +117,7 @@ msgstr ""
 #: ../../XLN.rst:69
 #: ../../XLN.rst:1482
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../XLN.rst:79
 msgid "Duskborne Skymarcher"
@@ -129,7 +138,7 @@ msgstr ""
 #: ../../XLN.rst:898
 #: ../../XLN.rst:1012
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../XLN.rst:78
 msgid "|mana_w|, |tap|: Target attacking Vampire gets +1/+1 until end of turn."
@@ -137,17 +146,21 @@ msgstr ""
 
 #: ../../XLN.rst:88
 msgid "Emissary of Sunrise"
-msgstr ""
+msgstr "Emissary of Sunrise (Emisariusz Wschodzącego Słońca)"
 
 #: ../../XLN.rst:85
 #: ../../XLN.rst:94
 #: ../../XLN.rst:1267
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../XLN.rst:87
 msgid "When Emissary of Sunrise enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
+"Gdy ten stwór wchodzi na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Połóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
+"razie połóż na tym stworze znacznik +1/+1, a następnie odłóż ową kartę lub "
+"umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:97
 msgid "Encampment Keeper"
@@ -175,7 +188,7 @@ msgstr ""
 
 #: ../../XLN.rst:112
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../XLN.rst:114
 msgid "Whenever Goring Ceratops attacks, other creatures you control gain double strike until end of turn."
@@ -308,7 +321,7 @@ msgstr ""
 #: ../../XLN.rst:1343
 #: ../../XLN.rst:2348
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../XLN.rst:226
 msgid "When Pious Interdiction enters the battlefield, you gain 2 life."
@@ -316,7 +329,7 @@ msgstr ""
 
 #: ../../XLN.rst:228
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../XLN.rst:238
 msgid "Priest of the Wakening Sun"
@@ -543,7 +556,7 @@ msgstr ""
 #: ../../XLN.rst:765
 #: ../../XLN.rst:1682
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../XLN.rst:440
 msgid "Dreamcaller Siren can block only creatures with flying."
@@ -1087,7 +1100,7 @@ msgstr ""
 #: ../../XLN.rst:914
 #: ../../XLN.rst:1478
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../XLN.rst:916
 msgid "Return target creature card from your graveyard to your hand."
@@ -2742,4 +2755,3 @@ msgstr ""
 #: ../../XLN.rst:2418
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
-
