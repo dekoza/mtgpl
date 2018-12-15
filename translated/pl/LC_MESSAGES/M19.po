@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-12-15 21:23+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 
 #: ../../M19.rst:5
 msgid "Core Set 2019"
@@ -26,7 +29,7 @@ msgstr ""
 
 #: ../../M19.rst:12
 msgid "Target creature gets +1/+7 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje +1/+7 do końca tury."
 
 #: ../../M19.rst:20
 msgid "Aethershield Artificer"
@@ -70,7 +73,7 @@ msgstr ""
 
 #: ../../M19.rst:46
 msgid "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate."
-msgstr ""
+msgstr "Ilekroć zyskujesz życie, możesz położyć znacznik +1/+1 na tym stworze."
 
 #: ../../M19.rst:54
 msgid "Ajani's Welcome"
@@ -117,7 +120,7 @@ msgstr ""
 #: ../../M19.rst:2335
 #: ../../M19.rst:2387
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../M19.rst:62
 msgid "When Angel of the Dawn enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn. (Attacking doesn't cause them to tap.)"
@@ -137,7 +140,7 @@ msgstr ""
 
 #: ../../M19.rst:76
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../M19.rst:78
 msgid "Destroy all creatures."
@@ -244,7 +247,7 @@ msgstr ""
 #: ../../M19.rst:1607
 #: ../../M19.rst:2539
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../M19.rst:156
 msgid "Enchanted creature gets +2/+2."
@@ -296,11 +299,11 @@ msgstr ""
 
 #: ../../M19.rst:207
 msgid "Luminous Bonds"
-msgstr ""
+msgstr "Luminous Bonds (Świetliste Więzy)"
 
 #: ../../M19.rst:206
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../M19.rst:214
 msgid "Make a Stand"
@@ -397,7 +400,7 @@ msgstr ""
 #: ../../M19.rst:1064
 #: ../../M19.rst:2525
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../M19.rst:298
 msgid "Rustwing Falcon"
@@ -1947,7 +1950,7 @@ msgstr ""
 
 #: ../../M19.rst:1691
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../M19.rst:1693
 msgid "Whenever a creature with defender enters the battlefield under your control, draw a card."
@@ -1971,7 +1974,7 @@ msgstr ""
 
 #: ../../M19.rst:1711
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../M19.rst:1717
 msgid "Discard a card: Until end of turn, Chromium, the Mutable becomes a Human with base power and toughness 1/1, loses all abilities, and gains hexproof. It can't be blocked this turn."
@@ -2822,5 +2825,4 @@ msgstr ""
 
 #: ../../M19.rst:2564
 msgid "Llanowar Elves"
-msgstr ""
-
+msgstr "Llanowarskie elfy"
