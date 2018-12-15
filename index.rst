@@ -89,7 +89,17 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 
 .. toctree::
    :hidden:
-
+   
+   C15
+   OGW
+   SOI
+   EMN
+   KLD
+   C16
+   AER
+   AKH
+   HOU
+   C17
    DOM
    FRF
    GRN
