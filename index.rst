@@ -23,15 +23,19 @@ Tłumaczenie dodatków
 Standard
 --------
 
-* :doc:`Battle for Zendikar<BFZ>` (0%)
-* :doc:`Origins<ORI>` (0%)
-* :doc:`Dragons of Tarkir<DTK>` (0%)
-* :doc:`Fate Reforged<FRF>` (100%)
-* :doc:`Khans of Tarkir<KTK>` (52%)
+* :doc:`Guilds of Ravnica<GRN>` (0%)
+* :doc:`Magic 2019 Core Set<M19>` (0%)
+* :doc:`Dominaria<DOM>` (0%)
+* :doc:`Rivals of Ixalan<RIX>` (0%)
+* :doc:`Ixalan<XLN>` (0%)
 
 Modern
 ------
 
+* :doc:`Origins<ORI>` (0%)
+* :doc:`Dragons of Tarkir<DTK>` (0%)
+* :doc:`Fate Reforged<FRF>` (100%)
+* :doc:`Khans of Tarkir<KTK>` (52%)
 * :doc:`Magic 2015 Core Set<M15>` (7%)
 * :doc:`Journey into Nyx<JOU>` (38%)
 * :doc:`Born of the Gods<BNG>` (100%)
@@ -44,6 +48,7 @@ Modern
 * :doc:`Dark Ascension<DKA>` (0%)
 * :doc:`Innistrad<ISD>` (0%)
 * :doc:`New Phyrexia<NPH>` (4%)
+* :doc:`Battle for Zendikar<BFZ>` (0%)
 
 Pozostałe
 ---------

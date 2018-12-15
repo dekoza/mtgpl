@@ -1,0 +1,2745 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-15 18:04+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../XLN.rst:5
+msgid "Ixalan"
+msgstr ""
+
+#: ../../XLN.rst:15
+msgid "Adanto Vanguard"
+msgstr ""
+
+#: ../../XLN.rst:12
+msgid "As long as Adanto Vanguard is attacking, it gets +2/+0."
+msgstr ""
+
+#: ../../XLN.rst:14
+msgid "Pay 4 life: Adanto Vanguard gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
+msgstr ""
+
+#: ../../XLN.rst:24
+msgid "Ashes of the Abhorrent"
+msgstr ""
+
+#: ../../XLN.rst:21
+msgid "Players can't cast spells from graveyards or activate abilities of cards in graveyards."
+msgstr ""
+
+#: ../../XLN.rst:23
+msgid "Whenever a creature dies, you gain 1 life."
+msgstr ""
+
+#: ../../XLN.rst:31
+msgid "Axis of Mortality"
+msgstr ""
+
+#: ../../XLN.rst:30
+msgid "At the beginning of your upkeep, you may have two target players exchange life totals."
+msgstr ""
+
+#: ../../XLN.rst:38
+msgid "Bellowing Aegisaur"
+msgstr ""
+
+#: ../../XLN.rst:37
+msgid "Enrage — Whenever Bellowing Aegisaur is dealt damage, put a +1/+1 counter on each other creature you control."
+msgstr ""
+
+#: ../../XLN.rst:47
+msgid "Bishop of Rebirth"
+msgstr ""
+
+#: ../../XLN.rst:44
+#: ../../XLN.rst:323
+#: ../../XLN.rst:332
+#: ../../XLN.rst:1944
+msgid "Vigilance"
+msgstr ""
+
+#: ../../XLN.rst:46
+msgid "Whenever Bishop of Rebirth attacks, you may return target creature card with converted mana cost 3 or less from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../XLN.rst:54
+msgid "Bishop's Soldier"
+msgstr ""
+
+#: ../../XLN.rst:53
+#: ../../XLN.rst:934
+msgid "Lifelink"
+msgstr ""
+
+#: ../../XLN.rst:63
+msgid "Bright Reprisal"
+msgstr ""
+
+#: ../../XLN.rst:60
+msgid "Destroy target attacking creature."
+msgstr ""
+
+#: ../../XLN.rst:62
+#: ../../XLN.rst:274
+#: ../../XLN.rst:531
+#: ../../XLN.rst:1278
+#: ../../XLN.rst:1675
+#: ../../XLN.rst:1716
+msgid "Draw a card."
+msgstr ""
+
+#: ../../XLN.rst:70
+msgid "Demystify"
+msgstr ""
+
+#: ../../XLN.rst:69
+#: ../../XLN.rst:1482
+msgid "Destroy target enchantment."
+msgstr ""
+
+#: ../../XLN.rst:79
+msgid "Duskborne Skymarcher"
+msgstr ""
+
+#: ../../XLN.rst:76
+#: ../../XLN.rst:121
+#: ../../XLN.rst:160
+#: ../../XLN.rst:302
+#: ../../XLN.rst:309
+#: ../../XLN.rst:438
+#: ../../XLN.rst:635
+#: ../../XLN.rst:644
+#: ../../XLN.rst:674
+#: ../../XLN.rst:715
+#: ../../XLN.rst:756
+#: ../../XLN.rst:818
+#: ../../XLN.rst:898
+#: ../../XLN.rst:1012
+msgid "Flying"
+msgstr ""
+
+#: ../../XLN.rst:78
+msgid "|mana_w|, |tap|: Target attacking Vampire gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:88
+msgid "Emissary of Sunrise"
+msgstr ""
+
+#: ../../XLN.rst:85
+#: ../../XLN.rst:94
+#: ../../XLN.rst:1267
+msgid "First strike"
+msgstr ""
+
+#: ../../XLN.rst:87
+msgid "When Emissary of Sunrise enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgstr ""
+
+#: ../../XLN.rst:97
+msgid "Encampment Keeper"
+msgstr ""
+
+#: ../../XLN.rst:96
+msgid "|mana_7| |mana_w|, |tap|, Sacrifice Encampment Keeper: Creatures you control get +2/+2 until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:106
+msgid "Glorifier of Dusk"
+msgstr ""
+
+#: ../../XLN.rst:103
+msgid "Pay 2 life: Glorifier of Dusk gains flying until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:105
+msgid "Pay 2 life: Glorifier of Dusk gains vigilance until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:115
+msgid "Goring Ceratops"
+msgstr ""
+
+#: ../../XLN.rst:112
+msgid "Double strike"
+msgstr ""
+
+#: ../../XLN.rst:114
+msgid "Whenever Goring Ceratops attacks, other creatures you control gain double strike until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:124
+msgid "Imperial Aerosaur"
+msgstr ""
+
+#: ../../XLN.rst:123
+msgid "When Imperial Aerosaur enters the battlefield, another target creature you control gets +1/+1 and gains flying until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:131
+msgid "Imperial Lancer"
+msgstr ""
+
+#: ../../XLN.rst:130
+msgid "Imperial Lancer has double strike as long as you control a Dinosaur."
+msgstr ""
+
+#: ../../XLN.rst:138
+msgid "Inspiring Cleric"
+msgstr ""
+
+#: ../../XLN.rst:137
+msgid "When Inspiring Cleric enters the battlefield, you gain 4 life."
+msgstr ""
+
+#: ../../XLN.rst:147
+msgid "Ixalan's Binding"
+msgstr ""
+
+#: ../../XLN.rst:144
+msgid "When Ixalan's Binding enters the battlefield, exile target nonland permanent an opponent controls until Ixalan's Binding leaves the battlefield."
+msgstr ""
+
+#: ../../XLN.rst:146
+msgid "Your opponents can't cast spells with the same name as the exiled card."
+msgstr ""
+
+#: ../../XLN.rst:154
+msgid "Kinjalli's Caller"
+msgstr ""
+
+#: ../../XLN.rst:153
+#: ../../XLN.rst:1231
+msgid "Dinosaur spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../XLN.rst:163
+msgid "Kinjalli's Sunwing"
+msgstr ""
+
+#: ../../XLN.rst:162
+msgid "Creatures your opponents control enter the battlefield tapped."
+msgstr ""
+
+#: ../../XLN.rst:170
+msgid "Legion Conquistador"
+msgstr ""
+
+#: ../../XLN.rst:169
+msgid "When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../XLN.rst:177
+msgid "Legion's Judgment"
+msgstr ""
+
+#: ../../XLN.rst:176
+msgid "Destroy target creature with power 4 or greater."
+msgstr ""
+
+#: ../../XLN.rst:186
+msgid "Legion's Landing"
+msgstr ""
+
+#: ../../XLN.rst:183
+msgid "When Legion's Landing enters the battlefield, create a 1/1 white Vampire creature token with lifelink."
+msgstr ""
+
+#: ../../XLN.rst:185
+msgid "When you attack with three or more creatures, transform Legion's Landing."
+msgstr ""
+
+#: ../../XLN.rst:197
+msgid "Adanto, the First Fort"
+msgstr ""
+
+#: ../../XLN.rst:192
+msgid "(Transforms from Legion's Landing.)"
+msgstr ""
+
+#: ../../XLN.rst:194
+msgid "|tap|: Add |mana_w|."
+msgstr ""
+
+#: ../../XLN.rst:196
+msgid "|mana_2| |mana_w|, |tap|: Create a 1/1 white Vampire creature token with lifelink."
+msgstr ""
+
+#: ../../XLN.rst:202
+msgid "Looming Altisaur"
+msgstr ""
+
+#: ../../XLN.rst:211
+msgid "Mavren Fein, Dusk Apostle"
+msgstr ""
+
+#: ../../XLN.rst:210
+msgid "Whenever one or more nontoken Vampires you control attack, create a 1/1 white Vampire creature token with lifelink."
+msgstr ""
+
+#: ../../XLN.rst:218
+msgid "Paladin of the Bloodstained"
+msgstr ""
+
+#: ../../XLN.rst:217
+msgid "When Paladin of the Bloodstained enters the battlefield, create a 1/1 white Vampire creature token with lifelink."
+msgstr ""
+
+#: ../../XLN.rst:229
+msgid "Pious Interdiction"
+msgstr ""
+
+#: ../../XLN.rst:224
+#: ../../XLN.rst:520
+#: ../../XLN.rst:925
+#: ../../XLN.rst:1343
+#: ../../XLN.rst:2348
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../XLN.rst:226
+msgid "When Pious Interdiction enters the battlefield, you gain 2 life."
+msgstr ""
+
+#: ../../XLN.rst:228
+msgid "Enchanted creature can't attack or block."
+msgstr ""
+
+#: ../../XLN.rst:238
+msgid "Priest of the Wakening Sun"
+msgstr ""
+
+#: ../../XLN.rst:235
+msgid "At the beginning of your upkeep, you may reveal a Dinosaur card from your hand. If you do, you gain 2 life."
+msgstr ""
+
+#: ../../XLN.rst:237
+msgid "|mana_3| |mana_w| |mana_w|, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../XLN.rst:245
+msgid "Pterodon Knight"
+msgstr ""
+
+#: ../../XLN.rst:244
+msgid "Pterodon Knight has flying as long as you control a Dinosaur."
+msgstr ""
+
+#: ../../XLN.rst:252
+msgid "Queen's Commission"
+msgstr ""
+
+#: ../../XLN.rst:251
+msgid "Create two 1/1 white Vampire creature tokens with lifelink."
+msgstr ""
+
+#: ../../XLN.rst:259
+msgid "Rallying Roar"
+msgstr ""
+
+#: ../../XLN.rst:258
+msgid "Creatures you control get +1/+1 until end of turn. Untap them."
+msgstr ""
+
+#: ../../XLN.rst:264
+msgid "Raptor Companion"
+msgstr ""
+
+#: ../../XLN.rst:275
+msgid "Ritual of Rejuvenation"
+msgstr ""
+
+#: ../../XLN.rst:272
+msgid "You gain 4 life."
+msgstr ""
+
+#: ../../XLN.rst:282
+msgid "Sanguine Sacrament"
+msgstr ""
+
+#: ../../XLN.rst:281
+msgid "You gain twice X life. Put Sanguine Sacrament on the bottom of its owner's library."
+msgstr ""
+
+#: ../../XLN.rst:289
+msgid "Settle the Wreckage"
+msgstr ""
+
+#: ../../XLN.rst:288
+msgid "Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle their library."
+msgstr ""
+
+#: ../../XLN.rst:296
+msgid "Sheltering Light"
+msgstr ""
+
+#: ../../XLN.rst:295
+msgid "Target creature gains indestructible until end of turn. Scry 1. (Damage and effects that say \"destroy\" don't destroy the creature.)"
+msgstr ""
+
+#: ../../XLN.rst:303
+msgid "Shining Aerosaur"
+msgstr ""
+
+#: ../../XLN.rst:310
+msgid "Skyblade of the Legion"
+msgstr ""
+
+#: ../../XLN.rst:317
+msgid "Slash of Talons"
+msgstr ""
+
+#: ../../XLN.rst:316
+msgid "Slash of Talons deals 2 damage to target attacking or blocking creature."
+msgstr ""
+
+#: ../../XLN.rst:326
+msgid "Steadfast Armasaur"
+msgstr ""
+
+#: ../../XLN.rst:325
+msgid "|mana_1| |mana_w|, |tap|: Steadfast Armasaur deals damage equal to its toughness to target creature blocking or blocked by it."
+msgstr ""
+
+#: ../../XLN.rst:335
+msgid "Sunrise Seeker"
+msgstr ""
+
+#: ../../XLN.rst:334
+msgid "When Sunrise Seeker enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgstr ""
+
+#: ../../XLN.rst:342
+msgid "Territorial Hammerskull"
+msgstr ""
+
+#: ../../XLN.rst:341
+msgid "Whenever Territorial Hammerskull attacks, tap target creature an opponent controls."
+msgstr ""
+
+#: ../../XLN.rst:349
+msgid "Tocatli Honor Guard"
+msgstr ""
+
+#: ../../XLN.rst:348
+msgid "Creatures entering the battlefield don't cause abilities to trigger."
+msgstr ""
+
+#: ../../XLN.rst:356
+msgid "Vampire's Zeal"
+msgstr ""
+
+#: ../../XLN.rst:355
+msgid "Target creature gets +2/+2 until end of turn. If it's a Vampire, it gains first strike until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:363
+msgid "Wakening Sun's Avatar"
+msgstr ""
+
+#: ../../XLN.rst:362
+msgid "When Wakening Sun's Avatar enters the battlefield, if you cast it from your hand, destroy all non-Dinosaur creatures."
+msgstr ""
+
+#: ../../XLN.rst:370
+msgid "Air Elemental"
+msgstr ""
+
+#: ../../XLN.rst:369
+msgid "Flying (This creature can't be blocked except by creatures with flying or reach.)"
+msgstr ""
+
+#: ../../XLN.rst:379
+msgid "Arcane Adaptation"
+msgstr ""
+
+#: ../../XLN.rst:376
+msgid "As Arcane Adaptation enters the battlefield, choose a creature type."
+msgstr ""
+
+#: ../../XLN.rst:378
+msgid "Creatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield."
+msgstr ""
+
+#: ../../XLN.rst:386
+msgid "Cancel"
+msgstr ""
+
+#: ../../XLN.rst:385
+msgid "Counter target spell."
+msgstr ""
+
+#: ../../XLN.rst:393
+msgid "Chart a Course"
+msgstr ""
+
+#: ../../XLN.rst:392
+msgid "Draw two cards. Then discard a card unless you attacked with a creature this turn."
+msgstr ""
+
+#: ../../XLN.rst:402
+msgid "Daring Saboteur"
+msgstr ""
+
+#: ../../XLN.rst:399
+msgid "|mana_2| |mana_u|: Daring Saboteur can't be blocked this turn."
+msgstr ""
+
+#: ../../XLN.rst:401
+msgid "Whenever Daring Saboteur deals combat damage to a player, you may draw a card. If you do, discard a card."
+msgstr ""
+
+#: ../../XLN.rst:409
+msgid "Deadeye Quartermaster"
+msgstr ""
+
+#: ../../XLN.rst:408
+msgid "When Deadeye Quartermaster enters the battlefield, you may search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../XLN.rst:416
+msgid "Deeproot Waters"
+msgstr ""
+
+#: ../../XLN.rst:415
+msgid "Whenever you cast a Merfolk spell, create a 1/1 blue Merfolk creature token with hexproof. (A creature with hexproof can't be the target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../XLN.rst:423
+msgid "Depths of Desire"
+msgstr ""
+
+#: ../../XLN.rst:422
+msgid "Return target creature to its owner's hand. Create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:430
+msgid "Dive Down"
+msgstr ""
+
+#: ../../XLN.rst:429
+msgid "Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../XLN.rst:443
+msgid "Dreamcaller Siren"
+msgstr ""
+
+#: ../../XLN.rst:436
+#: ../../XLN.rst:713
+#: ../../XLN.rst:765
+#: ../../XLN.rst:1682
+msgid "Flash"
+msgstr ""
+
+#: ../../XLN.rst:440
+msgid "Dreamcaller Siren can block only creatures with flying."
+msgstr ""
+
+#: ../../XLN.rst:442
+msgid "When Dreamcaller Siren enters the battlefield, if you control another Pirate, tap up to two target nonland permanents."
+msgstr ""
+
+#: ../../XLN.rst:450
+msgid "Entrancing Melody"
+msgstr ""
+
+#: ../../XLN.rst:449
+msgid "Gain control of target creature with converted mana cost X."
+msgstr ""
+
+#: ../../XLN.rst:457
+msgid "Favorable Winds"
+msgstr ""
+
+#: ../../XLN.rst:456
+msgid "Creatures you control with flying get +1/+1."
+msgstr ""
+
+#: ../../XLN.rst:464
+msgid "Fleet Swallower"
+msgstr ""
+
+#: ../../XLN.rst:463
+msgid "Whenever Fleet Swallower attacks, target player puts the top half of their library, rounded up, into their graveyard."
+msgstr ""
+
+#: ../../XLN.rst:469
+msgid "Headwater Sentries"
+msgstr ""
+
+#: ../../XLN.rst:478
+msgid "Herald of Secret Streams"
+msgstr ""
+
+#: ../../XLN.rst:477
+msgid "Creatures you control with +1/+1 counters on them can't be blocked."
+msgstr ""
+
+#: ../../XLN.rst:489
+msgid "Jace, Cunning Castaway"
+msgstr ""
+
+#: ../../XLN.rst:484
+msgid "+1: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card."
+msgstr ""
+
+#: ../../XLN.rst:486
+msgid "−2: Create a 2/2 blue Illusion creature token with \"When this creature becomes the target of a spell, sacrifice it.\""
+msgstr ""
+
+#: ../../XLN.rst:488
+msgid "−5: Create two tokens that are copies of Jace, Cunning Castaway, except they're not legendary."
+msgstr ""
+
+#: ../../XLN.rst:498
+msgid "Kopala, Warden of Waves"
+msgstr ""
+
+#: ../../XLN.rst:495
+msgid "Spells your opponents cast that target a Merfolk you control cost |mana_2| more to cast."
+msgstr ""
+
+#: ../../XLN.rst:497
+msgid "Abilities your opponents activate that target a Merfolk you control cost |mana_2| more to activate."
+msgstr ""
+
+#: ../../XLN.rst:507
+msgid "Lookout's Dispersal"
+msgstr ""
+
+#: ../../XLN.rst:504
+msgid "This spell costs |mana_1| less to cast if you control a Pirate."
+msgstr ""
+
+#: ../../XLN.rst:506
+msgid "Counter target spell unless its controller pays |mana_4|."
+msgstr ""
+
+#: ../../XLN.rst:514
+msgid "Navigator's Ruin"
+msgstr ""
+
+#: ../../XLN.rst:513
+msgid "Raid — At the beginning of your end step, if you attacked with a creature this turn, target opponent puts the top four cards of their library into their graveyard."
+msgstr ""
+
+#: ../../XLN.rst:523
+msgid "One With the Wind"
+msgstr ""
+
+#: ../../XLN.rst:522
+msgid "Enchanted creature gets +2/+2 and has flying."
+msgstr ""
+
+#: ../../XLN.rst:532
+msgid "Opt"
+msgstr ""
+
+#: ../../XLN.rst:529
+msgid "Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../XLN.rst:539
+msgid "Overflowing Insight"
+msgstr ""
+
+#: ../../XLN.rst:538
+msgid "Target player draws seven cards."
+msgstr ""
+
+#: ../../XLN.rst:546
+msgid "Perilous Voyage"
+msgstr ""
+
+#: ../../XLN.rst:545
+msgid "Return target nonland permanent you don't control to its owner's hand. If its converted mana cost was 2 or less, scry 2."
+msgstr ""
+
+#: ../../XLN.rst:553
+msgid "Pirate's Prize"
+msgstr ""
+
+#: ../../XLN.rst:552
+msgid "Draw two cards. Create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:560
+msgid "Prosperous Pirates"
+msgstr ""
+
+#: ../../XLN.rst:559
+msgid "When Prosperous Pirates enters the battlefield, create two colorless Treasure artifact tokens with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:569
+msgid "River Sneak"
+msgstr ""
+
+#: ../../XLN.rst:566
+msgid "River Sneak can't be blocked."
+msgstr ""
+
+#: ../../XLN.rst:568
+msgid "Whenever another Merfolk enters the battlefield under your control, River Sneak gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:576
+msgid "River's Rebuke"
+msgstr ""
+
+#: ../../XLN.rst:575
+msgid "Return all nonland permanents target player controls to their owner's hand."
+msgstr ""
+
+#: ../../XLN.rst:583
+msgid "Run Aground"
+msgstr ""
+
+#: ../../XLN.rst:582
+msgid "Put target artifact or creature on top of its owner's library."
+msgstr ""
+
+#: ../../XLN.rst:590
+msgid "Sailor of Means"
+msgstr ""
+
+#: ../../XLN.rst:589
+msgid "When Sailor of Means enters the battlefield, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:597
+msgid "Search for Azcanta"
+msgstr ""
+
+#: ../../XLN.rst:596
+msgid "At the beginning of your upkeep, look at the top card of your library. You may put it into your graveyard. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta."
+msgstr ""
+
+#: ../../XLN.rst:608
+msgid "Azcanta, the Sunken Ruin"
+msgstr ""
+
+#: ../../XLN.rst:603
+msgid "(Transforms from Search for Azcanta.)"
+msgstr ""
+
+#: ../../XLN.rst:605
+msgid "|tap|: Add |mana_u|."
+msgstr ""
+
+#: ../../XLN.rst:607
+msgid "|mana_2| |mana_u|, |tap|: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../XLN.rst:615
+msgid "Shaper Apprentice"
+msgstr ""
+
+#: ../../XLN.rst:614
+msgid "Shaper Apprentice has flying as long as you control another Merfolk."
+msgstr ""
+
+#: ../../XLN.rst:622
+msgid "Shipwreck Looter"
+msgstr ""
+
+#: ../../XLN.rst:621
+msgid "Raid — When Shipwreck Looter enters the battlefield, if you attacked with a creature this turn, you may draw a card. If you do, discard a card."
+msgstr ""
+
+#: ../../XLN.rst:629
+msgid "Shore Keeper"
+msgstr ""
+
+#: ../../XLN.rst:628
+msgid "|mana_7| |mana_u|, |tap|, Sacrifice Shore Keeper: Draw three cards."
+msgstr ""
+
+#: ../../XLN.rst:638
+msgid "Siren Lookout"
+msgstr ""
+
+#: ../../XLN.rst:637
+msgid "When Siren Lookout enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgstr ""
+
+#: ../../XLN.rst:647
+msgid "Siren Stormtamer"
+msgstr ""
+
+#: ../../XLN.rst:646
+msgid "|mana_u|, Sacrifice Siren Stormtamer: Counter target spell or ability that targets you or a creature you control."
+msgstr ""
+
+#: ../../XLN.rst:654
+msgid "Siren's Ruse"
+msgstr ""
+
+#: ../../XLN.rst:653
+msgid "Exile target creature you control, then return that card to the battlefield under its owner's control. If a Pirate was exiled this way, draw a card."
+msgstr ""
+
+#: ../../XLN.rst:661
+msgid "Spell Pierce"
+msgstr ""
+
+#: ../../XLN.rst:660
+msgid "Counter target noncreature spell unless its controller pays |mana_2|."
+msgstr ""
+
+#: ../../XLN.rst:668
+msgid "Spell Swindle"
+msgstr ""
+
+#: ../../XLN.rst:667
+msgid "Counter target spell. Create X colorless Treasure artifact tokens, where X is that spell's converted mana cost. They have \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:677
+msgid "Storm Fleet Aerialist"
+msgstr ""
+
+#: ../../XLN.rst:676
+msgid "Raid — Storm Fleet Aerialist enters the battlefield with a +1/+1 counter on it if you attacked with a creature this turn."
+msgstr ""
+
+#: ../../XLN.rst:684
+msgid "Storm Fleet Spy"
+msgstr ""
+
+#: ../../XLN.rst:683
+msgid "Raid — When Storm Fleet Spy enters the battlefield, if you attacked with a creature this turn, draw a card."
+msgstr ""
+
+#: ../../XLN.rst:693
+msgid "Storm Sculptor"
+msgstr ""
+
+#: ../../XLN.rst:690
+msgid "Storm Sculptor can't be blocked."
+msgstr ""
+
+#: ../../XLN.rst:692
+msgid "When Storm Sculptor enters the battlefield, return a creature you control to its owner's hand."
+msgstr ""
+
+#: ../../XLN.rst:700
+msgid "Tempest Caller"
+msgstr ""
+
+#: ../../XLN.rst:699
+msgid "When Tempest Caller enters the battlefield, tap all creatures target opponent controls."
+msgstr ""
+
+#: ../../XLN.rst:707
+msgid "Watertrap Weaver"
+msgstr ""
+
+#: ../../XLN.rst:706
+msgid "When Watertrap Weaver enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step."
+msgstr ""
+
+#: ../../XLN.rst:716
+msgid "Wind Strider"
+msgstr ""
+
+#: ../../XLN.rst:723
+msgid "Anointed Deacon"
+msgstr ""
+
+#: ../../XLN.rst:722
+msgid "At the beginning of combat on your turn, you may have target Vampire get +2/+0 until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:732
+msgid "Arguel's Blood Fast"
+msgstr ""
+
+#: ../../XLN.rst:729
+msgid "|mana_1| |mana_b|, Pay 2 life: Draw a card."
+msgstr ""
+
+#: ../../XLN.rst:731
+msgid "At the beginning of your upkeep, if you have 5 or less life, you may transform Arguel's Blood Fast."
+msgstr ""
+
+#: ../../XLN.rst:743
+msgid "Temple of Aclazotz"
+msgstr ""
+
+#: ../../XLN.rst:738
+msgid "(Transforms from Arguel's Blood Fast.)"
+msgstr ""
+
+#: ../../XLN.rst:740
+msgid "|tap|: Add |mana_b|."
+msgstr ""
+
+#: ../../XLN.rst:742
+msgid "|tap|, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness."
+msgstr ""
+
+#: ../../XLN.rst:750
+msgid "Bishop of the Bloodstained"
+msgstr ""
+
+#: ../../XLN.rst:749
+msgid "When Bishop of the Bloodstained enters the battlefield, target opponent loses 1 life for each Vampire you control."
+msgstr ""
+
+#: ../../XLN.rst:759
+msgid "Blight Keeper"
+msgstr ""
+
+#: ../../XLN.rst:758
+msgid "|mana_7| |mana_b|, |tap|, Sacrifice Blight Keeper: Target opponent loses 4 life and you gain 4 life."
+msgstr ""
+
+#: ../../XLN.rst:768
+msgid "Bloodcrazed Paladin"
+msgstr ""
+
+#: ../../XLN.rst:767
+msgid "Bloodcrazed Paladin enters the battlefield with a +1/+1 counter on it for each creature that died this turn."
+msgstr ""
+
+#: ../../XLN.rst:775
+msgid "Boneyard Parley"
+msgstr ""
+
+#: ../../XLN.rst:774
+msgid "Exile up to five target creature cards from graveyards. An opponent separates those cards into two piles. Put all cards from the pile of your choice onto the battlefield under your control and the rest into their owners' graveyards."
+msgstr ""
+
+#: ../../XLN.rst:782
+msgid "Contract Killing"
+msgstr ""
+
+#: ../../XLN.rst:781
+msgid "Destroy target creature. Create two colorless Treasure artifact tokens with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:791
+msgid "Costly Plunder"
+msgstr ""
+
+#: ../../XLN.rst:788
+msgid "As an additional cost to cast this spell, sacrifice an artifact or creature."
+msgstr ""
+
+#: ../../XLN.rst:790
+msgid "Draw two cards."
+msgstr ""
+
+#: ../../XLN.rst:798
+msgid "Dark Nourishment"
+msgstr ""
+
+#: ../../XLN.rst:797
+msgid "Dark Nourishment deals 3 damage to any target. You gain 3 life."
+msgstr ""
+
+#: ../../XLN.rst:805
+msgid "Deadeye Tormentor"
+msgstr ""
+
+#: ../../XLN.rst:804
+msgid "Raid — When Deadeye Tormentor enters the battlefield, if you attacked with a creature this turn, target opponent discards a card."
+msgstr ""
+
+#: ../../XLN.rst:812
+msgid "Deadeye Tracker"
+msgstr ""
+
+#: ../../XLN.rst:811
+msgid "|mana_1| |mana_b|, |tap|: Exile two target cards from an opponent's graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgstr ""
+
+#: ../../XLN.rst:821
+msgid "Deathless Ancient"
+msgstr ""
+
+#: ../../XLN.rst:820
+msgid "Tap three untapped Vampires you control: Return Deathless Ancient from your graveyard to your hand."
+msgstr ""
+
+#: ../../XLN.rst:828
+msgid "Desperate Castaways"
+msgstr ""
+
+#: ../../XLN.rst:827
+msgid "Desperate Castaways can't attack unless you control an artifact."
+msgstr ""
+
+#: ../../XLN.rst:835
+msgid "Dire Fleet Hoarder"
+msgstr ""
+
+#: ../../XLN.rst:834
+msgid "When Dire Fleet Hoarder dies, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:844
+msgid "Dire Fleet Interloper"
+msgstr ""
+
+#: ../../XLN.rst:841
+#: ../../XLN.rst:866
+#: ../../XLN.rst:1160
+#: ../../XLN.rst:1240
+msgid "Menace"
+msgstr ""
+
+#: ../../XLN.rst:843
+msgid "When Dire Fleet Interloper enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgstr ""
+
+#: ../../XLN.rst:853
+msgid "Dire Fleet Ravager"
+msgstr ""
+
+#: ../../XLN.rst:850
+msgid "Menace, deathtouch"
+msgstr ""
+
+#: ../../XLN.rst:852
+msgid "When Dire Fleet Ravager enters the battlefield, each player loses a third of their life, rounded up."
+msgstr ""
+
+#: ../../XLN.rst:860
+msgid "Duress"
+msgstr ""
+
+#: ../../XLN.rst:859
+msgid "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+msgstr ""
+
+#: ../../XLN.rst:869
+msgid "Fathom Fleet Captain"
+msgstr ""
+
+#: ../../XLN.rst:868
+msgid "Whenever Fathom Fleet Captain attacks, if you control another nontoken Pirate, you may pay |mana_2|. If you do, create a 2/2 black Pirate creature token with menace."
+msgstr ""
+
+#: ../../XLN.rst:876
+msgid "Fathom Fleet Cutthroat"
+msgstr ""
+
+#: ../../XLN.rst:875
+msgid "When Fathom Fleet Cutthroat enters the battlefield, destroy target creature an opponent controls that was dealt damage this turn."
+msgstr ""
+
+#: ../../XLN.rst:883
+msgid "Grim Captain's Call"
+msgstr ""
+
+#: ../../XLN.rst:882
+msgid "Return a Pirate card from your graveyard to your hand, then do the same for Vampire, Dinosaur, and Merfolk."
+msgstr ""
+
+#: ../../XLN.rst:892
+msgid "Heartless Pillage"
+msgstr ""
+
+#: ../../XLN.rst:889
+msgid "Target opponent discards two cards."
+msgstr ""
+
+#: ../../XLN.rst:891
+msgid "Raid — If you attacked with a creature this turn, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:901
+msgid "Kitesail Freebooter"
+msgstr ""
+
+#: ../../XLN.rst:900
+msgid "When Kitesail Freebooter enters the battlefield, target opponent reveals their hand. You choose a noncreature, nonland card from it. Exile that card until Kitesail Freebooter leaves the battlefield."
+msgstr ""
+
+#: ../../XLN.rst:908
+msgid "Lurking Chupacabra"
+msgstr ""
+
+#: ../../XLN.rst:907
+msgid "Whenever a creature you control explores, target creature an opponent controls gets -2/-2 until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:919
+msgid "March of the Drowned"
+msgstr ""
+
+#: ../../XLN.rst:914
+#: ../../XLN.rst:1478
+msgid "Choose one —"
+msgstr ""
+
+#: ../../XLN.rst:916
+msgid "Return target creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../XLN.rst:918
+msgid "Return two target Pirate cards from your graveyard to your hand."
+msgstr ""
+
+#: ../../XLN.rst:928
+msgid "Mark of the Vampire"
+msgstr ""
+
+#: ../../XLN.rst:927
+msgid "Enchanted creature gets +2/+2 and has lifelink."
+msgstr ""
+
+#: ../../XLN.rst:937
+msgid "Queen's Agent"
+msgstr ""
+
+#: ../../XLN.rst:936
+msgid "When Queen's Agent enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgstr ""
+
+#: ../../XLN.rst:942
+msgid "Queen's Bay Soldier"
+msgstr ""
+
+#: ../../XLN.rst:953
+msgid "Raiders' Wake"
+msgstr ""
+
+#: ../../XLN.rst:950
+msgid "Whenever an opponent discards a card, that player loses 2 life."
+msgstr ""
+
+#: ../../XLN.rst:952
+msgid "Raid — At the beginning of your end step, if you attacked with a creature this turn, target opponent discards a card."
+msgstr ""
+
+#: ../../XLN.rst:962
+msgid "Revel in Riches"
+msgstr ""
+
+#: ../../XLN.rst:959
+msgid "Whenever a creature an opponent controls dies, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:961
+msgid "At the beginning of your upkeep, if you control ten or more Treasures, you win the game."
+msgstr ""
+
+#: ../../XLN.rst:969
+msgid "Ruin Raider"
+msgstr ""
+
+#: ../../XLN.rst:968
+msgid "Raid — At the beginning of your end step, if you attacked with a creature this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card's converted mana cost."
+msgstr ""
+
+#: ../../XLN.rst:978
+msgid "Ruthless Knave"
+msgstr ""
+
+#: ../../XLN.rst:975
+msgid "|mana_2| |mana_b|, Sacrifice a creature: Create two colorless Treasure artifact tokens with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:977
+msgid "Sacrifice three Treasures: Draw a card."
+msgstr ""
+
+#: ../../XLN.rst:985
+msgid "Sanctum Seeker"
+msgstr ""
+
+#: ../../XLN.rst:984
+msgid "Whenever a Vampire you control attacks, each opponent loses 1 life and you gain 1 life."
+msgstr ""
+
+#: ../../XLN.rst:992
+msgid "Seekers' Squire"
+msgstr ""
+
+#: ../../XLN.rst:991
+msgid "When Seekers' Squire enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgstr ""
+
+#: ../../XLN.rst:999
+msgid "Skittering Heartstopper"
+msgstr ""
+
+#: ../../XLN.rst:998
+msgid "|mana_b|: Skittering Heartstopper gains deathtouch until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:1006
+msgid "Skulduggery"
+msgstr ""
+
+#: ../../XLN.rst:1005
+msgid "Until end of turn, target creature you control gets +1/+1 and target creature an opponent controls gets -1/-1."
+msgstr ""
+
+#: ../../XLN.rst:1015
+msgid "Skymarch Bloodletter"
+msgstr ""
+
+#: ../../XLN.rst:1014
+msgid "When Skymarch Bloodletter enters the battlefield, target opponent loses 1 life and you gain 1 life."
+msgstr ""
+
+#: ../../XLN.rst:1022
+msgid "Spreading Rot"
+msgstr ""
+
+#: ../../XLN.rst:1021
+msgid "Destroy target land. Its controller loses 2 life."
+msgstr ""
+
+#: ../../XLN.rst:1029
+msgid "Sword-Point Diplomacy"
+msgstr ""
+
+#: ../../XLN.rst:1028
+msgid "Reveal the top three cards of your library. For each of those cards, put that card into your hand unless any opponent pays 3 life. Then exile the rest."
+msgstr ""
+
+#: ../../XLN.rst:1036
+msgid "Vanquish the Weak"
+msgstr ""
+
+#: ../../XLN.rst:1035
+msgid "Destroy target creature with power 3 or less."
+msgstr ""
+
+#: ../../XLN.rst:1043
+msgid "Vicious Conquistador"
+msgstr ""
+
+#: ../../XLN.rst:1042
+msgid "Whenever Vicious Conquistador attacks, each opponent loses 1 life."
+msgstr ""
+
+#: ../../XLN.rst:1050
+msgid "Vraska's Contempt"
+msgstr ""
+
+#: ../../XLN.rst:1049
+msgid "Exile target creature or planeswalker. You gain 2 life."
+msgstr ""
+
+#: ../../XLN.rst:1057
+msgid "Walk the Plank"
+msgstr ""
+
+#: ../../XLN.rst:1056
+msgid "Destroy target non-Merfolk creature."
+msgstr ""
+
+#: ../../XLN.rst:1064
+msgid "Wanted Scoundrels"
+msgstr ""
+
+#: ../../XLN.rst:1063
+msgid "When Wanted Scoundrels dies, target opponent creates two colorless Treasure artifact tokens with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:1071
+msgid "Angrath's Marauders"
+msgstr ""
+
+#: ../../XLN.rst:1070
+msgid "If a source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
+msgstr ""
+
+#: ../../XLN.rst:1078
+msgid "Bonded Horncrest"
+msgstr ""
+
+#: ../../XLN.rst:1077
+msgid "Bonded Horncrest can't attack or block alone."
+msgstr ""
+
+#: ../../XLN.rst:1087
+msgid "Brazen Buccaneers"
+msgstr ""
+
+#: ../../XLN.rst:1084
+#: ../../XLN.rst:1100
+#: ../../XLN.rst:1224
+#: ../../XLN.rst:1366
+msgid "Haste"
+msgstr ""
+
+#: ../../XLN.rst:1086
+msgid "When Brazen Buccaneers enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgstr ""
+
+#: ../../XLN.rst:1094
+msgid "Burning Sun's Avatar"
+msgstr ""
+
+#: ../../XLN.rst:1093
+msgid "When Burning Sun's Avatar enters the battlefield, it deals 3 damage to target opponent or planeswalker and 3 damage to up to one target creature."
+msgstr ""
+
+#: ../../XLN.rst:1105
+msgid "Captain Lannery Storm"
+msgstr ""
+
+#: ../../XLN.rst:1102
+msgid "Whenever Captain Lannery Storm attacks, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:1104
+msgid "Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:1112
+msgid "Captivating Crew"
+msgstr ""
+
+#: ../../XLN.rst:1111
+msgid "|mana_3| |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../XLN.rst:1119
+msgid "Charging Monstrosaur"
+msgstr ""
+
+#: ../../XLN.rst:1118
+msgid "Trample, haste"
+msgstr ""
+
+#: ../../XLN.rst:1126
+msgid "Demolish"
+msgstr ""
+
+#: ../../XLN.rst:1125
+msgid "Destroy target artifact or land."
+msgstr ""
+
+#: ../../XLN.rst:1133
+msgid "Dinosaur Stampede"
+msgstr ""
+
+#: ../../XLN.rst:1132
+msgid "Attacking creatures get +2/+0 until end of turn. Dinosaurs you control gain trample until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:1140
+msgid "Dual Shot"
+msgstr ""
+
+#: ../../XLN.rst:1139
+msgid "Dual Shot deals 1 damage to each of up to two target creatures."
+msgstr ""
+
+#: ../../XLN.rst:1147
+msgid "Fathom Fleet Firebrand"
+msgstr ""
+
+#: ../../XLN.rst:1146
+msgid "|mana_1| |mana_r|: Fathom Fleet Firebrand gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:1154
+msgid "Fiery Cannonade"
+msgstr ""
+
+#: ../../XLN.rst:1153
+msgid "Fiery Cannonade deals 2 damage to each non-Pirate creature."
+msgstr ""
+
+#: ../../XLN.rst:1163
+msgid "Fire Shrine Keeper"
+msgstr ""
+
+#: ../../XLN.rst:1162
+msgid "|mana_7| |mana_r|, |tap|, Sacrifice Fire Shrine Keeper: It deals 3 damage to each of up to two target creatures."
+msgstr ""
+
+#: ../../XLN.rst:1172
+msgid "Firecannon Blast"
+msgstr ""
+
+#: ../../XLN.rst:1169
+msgid "Firecannon Blast deals 3 damage to target creature."
+msgstr ""
+
+#: ../../XLN.rst:1171
+msgid "Raid — Firecannon Blast deals 6 damage to that creature instead if you attacked with a creature this turn."
+msgstr ""
+
+#: ../../XLN.rst:1177
+msgid "Frenzied Raptor"
+msgstr ""
+
+#: ../../XLN.rst:1188
+msgid "Headstrong Brute"
+msgstr ""
+
+#: ../../XLN.rst:1185
+msgid "Headstrong Brute can't block."
+msgstr ""
+
+#: ../../XLN.rst:1187
+msgid "Headstrong Brute has menace as long as you control another Pirate."
+msgstr ""
+
+#: ../../XLN.rst:1195
+msgid "Hijack"
+msgstr ""
+
+#: ../../XLN.rst:1194
+msgid "Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:1202
+msgid "Lightning Strike"
+msgstr ""
+
+#: ../../XLN.rst:1201
+msgid "Lightning Strike deals 3 damage to any target."
+msgstr ""
+
+#: ../../XLN.rst:1211
+msgid "Lightning-Rig Crew"
+msgstr ""
+
+#: ../../XLN.rst:1208
+msgid "|tap|: Lightning-Rig Crew deals 1 damage to each opponent."
+msgstr ""
+
+#: ../../XLN.rst:1210
+msgid "Whenever you cast a Pirate spell, untap Lightning-Rig Crew."
+msgstr ""
+
+#: ../../XLN.rst:1218
+msgid "Makeshift Munitions"
+msgstr ""
+
+#: ../../XLN.rst:1217
+msgid "|mana_1|, Sacrifice an artifact or creature: Makeshift Munitions deals 1 damage to any target."
+msgstr ""
+
+#: ../../XLN.rst:1225
+msgid "Nest Robber"
+msgstr ""
+
+#: ../../XLN.rst:1234
+msgid "Otepec Huntmaster"
+msgstr ""
+
+#: ../../XLN.rst:1233
+msgid "|tap|: Target Dinosaur gains haste until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:1245
+msgid "Rampaging Ferocidon"
+msgstr ""
+
+#: ../../XLN.rst:1242
+msgid "Players can't gain life."
+msgstr ""
+
+#: ../../XLN.rst:1244
+msgid "Whenever another creature enters the battlefield, Rampaging Ferocidon deals 1 damage to that creature's controller."
+msgstr ""
+
+#: ../../XLN.rst:1252
+msgid "Raptor Hatchling"
+msgstr ""
+
+#: ../../XLN.rst:1251
+msgid "Enrage — Whenever Raptor Hatchling is dealt damage, create a 3/3 green Dinosaur creature token with trample."
+msgstr ""
+
+#: ../../XLN.rst:1261
+msgid "Repeating Barrage"
+msgstr ""
+
+#: ../../XLN.rst:1258
+msgid "Repeating Barrage deals 3 damage to any target."
+msgstr ""
+
+#: ../../XLN.rst:1260
+msgid "Raid — |mana_3| |mana_r| |mana_r|: Return Repeating Barrage from your graveyard to your hand. Activate this ability only if you attacked with a creature this turn."
+msgstr ""
+
+#: ../../XLN.rst:1270
+msgid "Rigging Runner"
+msgstr ""
+
+#: ../../XLN.rst:1269
+msgid "Raid — Rigging Runner enters the battlefield with a +1/+1 counter on it if you attacked with a creature this turn."
+msgstr ""
+
+#: ../../XLN.rst:1279
+msgid "Rile"
+msgstr ""
+
+#: ../../XLN.rst:1276
+msgid "Rile deals 1 damage to target creature you control. That creature gains trample until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:1288
+msgid "Rowdy Crew"
+msgstr ""
+
+#: ../../XLN.rst:1285
+#: ../../XLN.rst:1824
+msgid "Trample"
+msgstr ""
+
+#: ../../XLN.rst:1287
+msgid "When Rowdy Crew enters the battlefield, draw three cards, then discard two cards at random. If two cards that share a card type are discarded this way, put two +1/+1 counters on Rowdy Crew."
+msgstr ""
+
+#: ../../XLN.rst:1295
+msgid "Rummaging Goblin"
+msgstr ""
+
+#: ../../XLN.rst:1294
+msgid "|tap|, Discard a card: Draw a card."
+msgstr ""
+
+#: ../../XLN.rst:1302
+msgid "Star of Extinction"
+msgstr ""
+
+#: ../../XLN.rst:1301
+msgid "Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker."
+msgstr ""
+
+#: ../../XLN.rst:1309
+msgid "Storm Fleet Arsonist"
+msgstr ""
+
+#: ../../XLN.rst:1308
+msgid "Raid — When Storm Fleet Arsonist enters the battlefield, if you attacked with a creature this turn, target opponent sacrifices a permanent."
+msgstr ""
+
+#: ../../XLN.rst:1316
+msgid "Storm Fleet Pyromancer"
+msgstr ""
+
+#: ../../XLN.rst:1315
+msgid "Raid — When Storm Fleet Pyromancer enters the battlefield, if you attacked with a creature this turn, Storm Fleet Pyromancer deals 2 damage to any target."
+msgstr ""
+
+#: ../../XLN.rst:1323
+msgid "Sun-Crowned Hunters"
+msgstr ""
+
+#: ../../XLN.rst:1322
+msgid "Enrage — Whenever Sun-Crowned Hunters is dealt damage, it deals 3 damage to target opponent or planeswalker."
+msgstr ""
+
+#: ../../XLN.rst:1330
+msgid "Sunbird's Invocation"
+msgstr ""
+
+#: ../../XLN.rst:1329
+msgid "Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell's converted mana cost. You may cast a card revealed this way with converted mana cost X or less without paying its mana cost. Put the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../XLN.rst:1337
+msgid "Sure Strike"
+msgstr ""
+
+#: ../../XLN.rst:1336
+msgid "Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)"
+msgstr ""
+
+#: ../../XLN.rst:1346
+msgid "Swashbuckling"
+msgstr ""
+
+#: ../../XLN.rst:1345
+msgid "Enchanted creature gets +2/+2 and has haste."
+msgstr ""
+
+#: ../../XLN.rst:1353
+msgid "Thrash of Raptors"
+msgstr ""
+
+#: ../../XLN.rst:1352
+msgid "As long as you control another Dinosaur, Thrash of Raptors gets +2/+0 and has trample."
+msgstr ""
+
+#: ../../XLN.rst:1360
+msgid "Tilonalli's Knight"
+msgstr ""
+
+#: ../../XLN.rst:1359
+msgid "Whenever Tilonalli's Knight attacks, if you control a Dinosaur, Tilonalli's Knight gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:1369
+msgid "Tilonalli's Skinshifter"
+msgstr ""
+
+#: ../../XLN.rst:1368
+msgid "Whenever Tilonalli's Skinshifter attacks, it becomes a copy of another target nonlegendary attacking creature until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:1378
+msgid "Trove of Temptation"
+msgstr ""
+
+#: ../../XLN.rst:1375
+msgid "Each opponent must attack you or a planeswalker you control with at least one creature each combat if able."
+msgstr ""
+
+#: ../../XLN.rst:1377
+msgid "At the beginning of your end step, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:1385
+msgid "Unfriendly Fire"
+msgstr ""
+
+#: ../../XLN.rst:1384
+msgid "Unfriendly Fire deals 4 damage to any target."
+msgstr ""
+
+#: ../../XLN.rst:1394
+msgid "Vance's Blasting Cannons"
+msgstr ""
+
+#: ../../XLN.rst:1391
+msgid "At the beginning of your upkeep, exile the top card of your library. If it's a nonland card, you may cast that card this turn."
+msgstr ""
+
+#: ../../XLN.rst:1393
+msgid "Whenever you cast your third spell in a turn, you may transform Vance's Blasting Cannons."
+msgstr ""
+
+#: ../../XLN.rst:1405
+msgid "Spitfire Bastion"
+msgstr ""
+
+#: ../../XLN.rst:1400
+msgid "(Transforms from Vance's Blasting Cannons.)"
+msgstr ""
+
+#: ../../XLN.rst:1402
+msgid "|tap|: Add |mana_r|."
+msgstr ""
+
+#: ../../XLN.rst:1404
+msgid "|mana_2| |mana_r|, |tap|: Spitfire Bastion deals 3 damage to any target."
+msgstr ""
+
+#: ../../XLN.rst:1412
+msgid "Wily Goblin"
+msgstr ""
+
+#: ../../XLN.rst:1411
+msgid "When Wily Goblin enters the battlefield, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:1417
+msgid "Ancient Brontodon"
+msgstr ""
+
+#: ../../XLN.rst:1428
+msgid "Atzocan Archer"
+msgstr ""
+
+#: ../../XLN.rst:1425
+#: ../../XLN.rst:1533
+msgid "Reach"
+msgstr ""
+
+#: ../../XLN.rst:1427
+msgid "When Atzocan Archer enters the battlefield, you may have it fight another target creature. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../XLN.rst:1435
+msgid "Blinding Fog"
+msgstr ""
+
+#: ../../XLN.rst:1434
+msgid "Prevent all damage that would be dealt to creatures this turn. Creatures you control gain hexproof until end of turn. (They can't be the targets of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../XLN.rst:1442
+msgid "Blossom Dryad"
+msgstr ""
+
+#: ../../XLN.rst:1441
+msgid "|tap|: Untap target land."
+msgstr ""
+
+#: ../../XLN.rst:1451
+msgid "Carnage Tyrant"
+msgstr ""
+
+#: ../../XLN.rst:1448
+msgid "This spell can't be countered."
+msgstr ""
+
+#: ../../XLN.rst:1450
+msgid "Trample, hexproof"
+msgstr ""
+
+#: ../../XLN.rst:1458
+msgid "Colossal Dreadmaw"
+msgstr ""
+
+#: ../../XLN.rst:1457
+msgid "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)"
+msgstr ""
+
+#: ../../XLN.rst:1465
+msgid "Commune with Dinosaurs"
+msgstr ""
+
+#: ../../XLN.rst:1464
+msgid "Look at the top five cards of your library. You may reveal a Dinosaur or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../XLN.rst:1472
+msgid "Crash the Ramparts"
+msgstr ""
+
+#: ../../XLN.rst:1471
+msgid "Target creature gets +3/+3 and gains trample until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:1483
+msgid "Crushing Canopy"
+msgstr ""
+
+#: ../../XLN.rst:1480
+msgid "Destroy target creature with flying."
+msgstr ""
+
+#: ../../XLN.rst:1490
+msgid "Deathgorge Scavenger"
+msgstr ""
+
+#: ../../XLN.rst:1489
+msgid "Whenever Deathgorge Scavenger enters the battlefield or attacks, you may exile target card from a graveyard. If a creature card is exiled this way, you gain 2 life. If a noncreature card is exiled this way, Deathgorge Scavenger gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:1497
+msgid "Deeproot Champion"
+msgstr ""
+
+#: ../../XLN.rst:1496
+msgid "Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot Champion."
+msgstr ""
+
+#: ../../XLN.rst:1504
+msgid "Deeproot Warrior"
+msgstr ""
+
+#: ../../XLN.rst:1503
+msgid "Whenever Deeproot Warrior becomes blocked, it gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:1513
+msgid "Drover of the Mighty"
+msgstr ""
+
+#: ../../XLN.rst:1510
+msgid "Drover of the Mighty gets +2/+2 as long as you control a Dinosaur."
+msgstr ""
+
+#: ../../XLN.rst:1512
+msgid "|tap|: Add one mana of any color."
+msgstr ""
+
+#: ../../XLN.rst:1520
+msgid "Emergent Growth"
+msgstr ""
+
+#: ../../XLN.rst:1519
+msgid "Target creature gets +5/+5 until end of turn and must be blocked this turn if able."
+msgstr ""
+
+#: ../../XLN.rst:1527
+msgid "Emperor's Vanguard"
+msgstr ""
+
+#: ../../XLN.rst:1526
+msgid "Whenever Emperor's Vanguard deals combat damage to a player, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgstr ""
+
+#: ../../XLN.rst:1534
+msgid "Grazing Whiptail"
+msgstr ""
+
+#: ../../XLN.rst:1543
+msgid "Growing Rites of Itlimoc"
+msgstr ""
+
+#: ../../XLN.rst:1540
+msgid "When Growing Rites of Itlimoc enters the battlefield, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../XLN.rst:1542
+msgid "At the beginning of your end step, if you control four or more creatures, transform Growing Rites of Itlimoc."
+msgstr ""
+
+#: ../../XLN.rst:1554
+msgid "Itlimoc, Cradle of the Sun"
+msgstr ""
+
+#: ../../XLN.rst:1549
+msgid "(Transforms from Growing Rites of Itlimoc.)"
+msgstr ""
+
+#: ../../XLN.rst:1551
+msgid "|tap|: Add |mana_g|."
+msgstr ""
+
+#: ../../XLN.rst:1553
+msgid "|tap|: Add |mana_g| for each creature you control."
+msgstr ""
+
+#: ../../XLN.rst:1561
+msgid "Ixalli's Diviner"
+msgstr ""
+
+#: ../../XLN.rst:1560
+msgid "When Ixalli's Diviner enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgstr ""
+
+#: ../../XLN.rst:1568
+msgid "Ixalli's Keeper"
+msgstr ""
+
+#: ../../XLN.rst:1567
+msgid "|mana_7| |mana_g|, |tap|, Sacrifice Ixalli's Keeper: Target creature gets +5/+5 and gains trample until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:1577
+msgid "Jade Guardian"
+msgstr ""
+
+#: ../../XLN.rst:1574
+msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../XLN.rst:1576
+msgid "When Jade Guardian enters the battlefield, put a +1/+1 counter on target Merfolk you control."
+msgstr ""
+
+#: ../../XLN.rst:1584
+msgid "Jungle Delver"
+msgstr ""
+
+#: ../../XLN.rst:1583
+msgid "|mana_3| |mana_g|: Put a +1/+1 counter on Jungle Delver."
+msgstr ""
+
+#: ../../XLN.rst:1591
+msgid "Kumena's Speaker"
+msgstr ""
+
+#: ../../XLN.rst:1590
+msgid "Kumena's Speaker gets +1/+1 as long as you control another Merfolk or an Island."
+msgstr ""
+
+#: ../../XLN.rst:1598
+msgid "Merfolk Branchwalker"
+msgstr ""
+
+#: ../../XLN.rst:1597
+msgid "When Merfolk Branchwalker enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgstr ""
+
+#: ../../XLN.rst:1609
+msgid "New Horizons"
+msgstr ""
+
+#: ../../XLN.rst:1604
+msgid "Enchant land"
+msgstr ""
+
+#: ../../XLN.rst:1606
+msgid "When New Horizons enters the battlefield, put a +1/+1 counter on target creature you control."
+msgstr ""
+
+#: ../../XLN.rst:1608
+msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
+msgstr ""
+
+#: ../../XLN.rst:1616
+msgid "Old-Growth Dryads"
+msgstr ""
+
+#: ../../XLN.rst:1615
+msgid "When Old-Growth Dryads enters the battlefield, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library."
+msgstr ""
+
+#: ../../XLN.rst:1623
+msgid "Pounce"
+msgstr ""
+
+#: ../../XLN.rst:1622
+msgid "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../XLN.rst:1630
+msgid "Ranging Raptors"
+msgstr ""
+
+#: ../../XLN.rst:1629
+msgid "Enrage — Whenever Ranging Raptors is dealt damage, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../XLN.rst:1637
+msgid "Ravenous Daggertooth"
+msgstr ""
+
+#: ../../XLN.rst:1636
+msgid "Enrage — Whenever Ravenous Daggertooth is dealt damage, you gain 2 life."
+msgstr ""
+
+#: ../../XLN.rst:1644
+msgid "Ripjaw Raptor"
+msgstr ""
+
+#: ../../XLN.rst:1643
+msgid "Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card."
+msgstr ""
+
+#: ../../XLN.rst:1651
+msgid "River Heralds' Boon"
+msgstr ""
+
+#: ../../XLN.rst:1650
+msgid "Put a +1/+1 counter on target creature and a +1/+1 counter on up to one target Merfolk."
+msgstr ""
+
+#: ../../XLN.rst:1660
+msgid "Savage Stomp"
+msgstr ""
+
+#: ../../XLN.rst:1657
+msgid "This spell costs |mana_2| less to cast if it targets a Dinosaur you control."
+msgstr ""
+
+#: ../../XLN.rst:1659
+msgid "Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../XLN.rst:1667
+msgid "Shapers' Sanctuary"
+msgstr ""
+
+#: ../../XLN.rst:1666
+msgid "Whenever a creature you control becomes the target of a spell or ability an opponent controls, you may draw a card."
+msgstr ""
+
+#: ../../XLN.rst:1676
+msgid "Slice in Twain"
+msgstr ""
+
+#: ../../XLN.rst:1673
+msgid "Destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../XLN.rst:1685
+msgid "Snapping Sailback"
+msgstr ""
+
+#: ../../XLN.rst:1684
+msgid "Enrage — Whenever Snapping Sailback is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)"
+msgstr ""
+
+#: ../../XLN.rst:1692
+msgid "Spike-Tailed Ceratops"
+msgstr ""
+
+#: ../../XLN.rst:1691
+msgid "Spike-Tailed Ceratops can block an additional creature each combat."
+msgstr ""
+
+#: ../../XLN.rst:1701
+msgid "Thundering Spineback"
+msgstr ""
+
+#: ../../XLN.rst:1698
+msgid "Other Dinosaurs you control get +1/+1."
+msgstr ""
+
+#: ../../XLN.rst:1700
+msgid "|mana_5| |mana_g|: Create a 3/3 green Dinosaur creature token with trample."
+msgstr ""
+
+#: ../../XLN.rst:1708
+msgid "Tishana's Wayfinder"
+msgstr ""
+
+#: ../../XLN.rst:1707
+msgid "When Tishana's Wayfinder enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgstr ""
+
+#: ../../XLN.rst:1717
+msgid "Verdant Rebirth"
+msgstr ""
+
+#: ../../XLN.rst:1714
+msgid "Until end of turn, target creature gains \"When this creature dies, return it to its owner's hand.\""
+msgstr ""
+
+#: ../../XLN.rst:1724
+msgid "Verdant Sun's Avatar"
+msgstr ""
+
+#: ../../XLN.rst:1723
+msgid "Whenever Verdant Sun's Avatar or another creature enters the battlefield under your control, you gain life equal to that creature's toughness."
+msgstr ""
+
+#: ../../XLN.rst:1731
+msgid "Vineshaper Mystic"
+msgstr ""
+
+#: ../../XLN.rst:1730
+msgid "When Vineshaper Mystic enters the battlefield, put a +1/+1 counter on each of up to two target Merfolk you control."
+msgstr ""
+
+#: ../../XLN.rst:1738
+msgid "Waker of the Wilds"
+msgstr ""
+
+#: ../../XLN.rst:1737
+msgid "|mana_x| |mana_g| |mana_g|: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It's still a land."
+msgstr ""
+
+#: ../../XLN.rst:1745
+msgid "Wildgrowth Walker"
+msgstr ""
+
+#: ../../XLN.rst:1744
+msgid "Whenever a creature you control explores, put a +1/+1 counter on Wildgrowth Walker and you gain 3 life."
+msgstr ""
+
+#: ../../XLN.rst:1754
+msgid "Admiral Beckett Brass"
+msgstr ""
+
+#: ../../XLN.rst:1751
+msgid "Other Pirates you control get +1/+1."
+msgstr ""
+
+#: ../../XLN.rst:1753
+msgid "At the beginning of your end step, gain control of target nonland permanent controlled by a player who was dealt combat damage by three or more Pirates this turn."
+msgstr ""
+
+#: ../../XLN.rst:1761
+msgid "Belligerent Brontodon"
+msgstr ""
+
+#: ../../XLN.rst:1760
+msgid "Each creature you control assigns combat damage equal to its toughness rather than its power."
+msgstr ""
+
+#: ../../XLN.rst:1768
+msgid "Call to the Feast"
+msgstr ""
+
+#: ../../XLN.rst:1767
+msgid "Create three 1/1 white Vampire creature tokens with lifelink."
+msgstr ""
+
+#: ../../XLN.rst:1777
+msgid "Deadeye Plunderers"
+msgstr ""
+
+#: ../../XLN.rst:1774
+msgid "Deadeye Plunderers gets +1/+1 for each artifact you control."
+msgstr ""
+
+#: ../../XLN.rst:1776
+msgid "|mana_2| |mana_u| |mana_b|: Create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:1784
+msgid "Dire Fleet Captain"
+msgstr ""
+
+#: ../../XLN.rst:1783
+msgid "Whenever Dire Fleet Captain attacks, it gets +1/+1 until end of turn for each other attacking Pirate."
+msgstr ""
+
+#: ../../XLN.rst:1793
+msgid "Gishath, Sun's Avatar"
+msgstr ""
+
+#: ../../XLN.rst:1790
+msgid "Vigilance, trample, haste"
+msgstr ""
+
+#: ../../XLN.rst:1792
+msgid "Whenever Gishath, Sun's Avatar deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../XLN.rst:1800
+msgid "Hostage Taker"
+msgstr ""
+
+#: ../../XLN.rst:1799
+msgid "When Hostage Taker enters the battlefield, exile another target creature or artifact until Hostage Taker leaves the battlefield. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell."
+msgstr ""
+
+#: ../../XLN.rst:1811
+msgid "Huatli, Warrior Poet"
+msgstr ""
+
+#: ../../XLN.rst:1806
+msgid "+2: You gain life equal to the greatest power among creatures you control."
+msgstr ""
+
+#: ../../XLN.rst:1808
+msgid "0: Create a 3/3 green Dinosaur creature token with trample."
+msgstr ""
+
+#: ../../XLN.rst:1810
+msgid "−X: Huatli, Warrior Poet deals X damage divided as you choose among any number of target creatures. Creatures dealt damage this way can't block this turn."
+msgstr ""
+
+#: ../../XLN.rst:1818
+msgid "Marauding Looter"
+msgstr ""
+
+#: ../../XLN.rst:1817
+msgid "Raid — At the beginning of your end step, if you attacked with a creature this turn, you may draw a card. If you do, discard a card."
+msgstr ""
+
+#: ../../XLN.rst:1827
+msgid "Raging Swordtooth"
+msgstr ""
+
+#: ../../XLN.rst:1826
+msgid "When Raging Swordtooth enters the battlefield, it deals 1 damage to each other creature."
+msgstr ""
+
+#: ../../XLN.rst:1836
+msgid "Regisaur Alpha"
+msgstr ""
+
+#: ../../XLN.rst:1833
+msgid "Other Dinosaurs you control have haste."
+msgstr ""
+
+#: ../../XLN.rst:1835
+msgid "When Regisaur Alpha enters the battlefield, create a 3/3 green Dinosaur creature token with trample."
+msgstr ""
+
+#: ../../XLN.rst:1845
+msgid "Shapers of Nature"
+msgstr ""
+
+#: ../../XLN.rst:1842
+msgid "|mana_3| |mana_g|: Put a +1/+1 counter on target creature."
+msgstr ""
+
+#: ../../XLN.rst:1844
+msgid "|mana_2| |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card."
+msgstr ""
+
+#: ../../XLN.rst:1852
+msgid "Sky Terror"
+msgstr ""
+
+#: ../../XLN.rst:1851
+msgid "Flying, menace"
+msgstr ""
+
+#: ../../XLN.rst:1863
+msgid "Tishana, Voice of Thunder"
+msgstr ""
+
+#: ../../XLN.rst:1858
+msgid "Tishana, Voice of Thunder's power and toughness are each equal to the number of cards in your hand."
+msgstr ""
+
+#: ../../XLN.rst:1860
+msgid "You have no maximum hand size."
+msgstr ""
+
+#: ../../XLN.rst:1862
+msgid "When Tishana enters the battlefield, draw a card for each creature you control."
+msgstr ""
+
+#: ../../XLN.rst:1872
+msgid "Vona, Butcher of Magan"
+msgstr ""
+
+#: ../../XLN.rst:1869
+msgid "Vigilance, lifelink"
+msgstr ""
+
+#: ../../XLN.rst:1871
+msgid "|tap|, Pay 7 life: Destroy target nonland permanent. Activate this ability only during your turn."
+msgstr ""
+
+#: ../../XLN.rst:1883
+msgid "Vraska, Relic Seeker"
+msgstr ""
+
+#: ../../XLN.rst:1878
+msgid "+2: Create a 2/2 black Pirate creature token with menace."
+msgstr ""
+
+#: ../../XLN.rst:1880
+msgid "−3: Destroy target artifact, creature, or enchantment. Create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:1882
+msgid "−10: Target player's life total becomes 1."
+msgstr ""
+
+#: ../../XLN.rst:1892
+msgid "Cobbled Wings"
+msgstr ""
+
+#: ../../XLN.rst:1889
+msgid "Equipped creature has flying."
+msgstr ""
+
+#: ../../XLN.rst:1891
+msgid "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)"
+msgstr ""
+
+#: ../../XLN.rst:1901
+msgid "Conqueror's Galleon"
+msgstr ""
+
+#: ../../XLN.rst:1898
+msgid "When Conqueror's Galleon attacks, exile it at end of combat, then return it to the battlefield transformed under your control."
+msgstr ""
+
+#: ../../XLN.rst:1900
+msgid "Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)"
+msgstr ""
+
+#: ../../XLN.rst:1916
+msgid "Conqueror's Foothold"
+msgstr ""
+
+#: ../../XLN.rst:1907
+msgid "(Transforms from Conqueror's Galleon.)"
+msgstr ""
+
+#: ../../XLN.rst:1909
+#: ../../XLN.rst:1984
+#: ../../XLN.rst:2085
+#: ../../XLN.rst:2103
+#: ../../XLN.rst:2141
+#: ../../XLN.rst:2179
+#: ../../XLN.rst:2188
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../XLN.rst:1911
+msgid "|mana_2|, |tap|: Draw a card, then discard a card."
+msgstr ""
+
+#: ../../XLN.rst:1913
+msgid "|mana_4|, |tap|: Draw a card."
+msgstr ""
+
+#: ../../XLN.rst:1915
+msgid "|mana_6|, |tap|: Return target card from your graveyard to your hand."
+msgstr ""
+
+#: ../../XLN.rst:1929
+msgid "Dowsing Dagger"
+msgstr ""
+
+#: ../../XLN.rst:1922
+msgid "When Dowsing Dagger enters the battlefield, target opponent creates two 0/2 green Plant creature tokens with defender."
+msgstr ""
+
+#: ../../XLN.rst:1924
+#: ../../XLN.rst:2002
+msgid "Equipped creature gets +2/+1."
+msgstr ""
+
+#: ../../XLN.rst:1926
+msgid "Whenever equipped creature deals combat damage to a player, you may transform Dowsing Dagger."
+msgstr ""
+
+#: ../../XLN.rst:1928
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../XLN.rst:1938
+msgid "Lost Vale"
+msgstr ""
+
+#: ../../XLN.rst:1935
+msgid "(Transforms from Dowsing Dagger.)"
+msgstr ""
+
+#: ../../XLN.rst:1937
+msgid "|tap|: Add three mana of any one color."
+msgstr ""
+
+#: ../../XLN.rst:1947
+msgid "Dusk Legion Dreadnought"
+msgstr ""
+
+#: ../../XLN.rst:1946
+#: ../../XLN.rst:2051
+msgid "Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)"
+msgstr ""
+
+#: ../../XLN.rst:1958
+msgid "Elaborate Firecannon"
+msgstr ""
+
+#: ../../XLN.rst:1953
+msgid "Elaborate Firecannon doesn't untap during your untap step."
+msgstr ""
+
+#: ../../XLN.rst:1955
+msgid "|mana_4|, |tap|: Elaborate Firecannon deals 2 damage to any target."
+msgstr ""
+
+#: ../../XLN.rst:1957
+msgid "At the beginning of your upkeep, you may discard a card. If you do, untap Elaborate Firecannon."
+msgstr ""
+
+#: ../../XLN.rst:1969
+msgid "Fell Flagship"
+msgstr ""
+
+#: ../../XLN.rst:1964
+msgid "Pirates you control get +1/+0."
+msgstr ""
+
+#: ../../XLN.rst:1966
+msgid "Whenever Fell Flagship deals combat damage to a player, that player discards a card."
+msgstr ""
+
+#: ../../XLN.rst:1968
+msgid "Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)"
+msgstr ""
+
+#: ../../XLN.rst:1974
+msgid "Gilded Sentinel"
+msgstr ""
+
+#: ../../XLN.rst:1985
+msgid "Hierophant's Chalice"
+msgstr ""
+
+#: ../../XLN.rst:1982
+msgid "When Hierophant's Chalice enters the battlefield, target opponent loses 1 life and you gain 1 life."
+msgstr ""
+
+#: ../../XLN.rst:1994
+msgid "Pillar of Origins"
+msgstr ""
+
+#: ../../XLN.rst:1991
+msgid "As Pillar of Origins enters the battlefield, choose a creature type."
+msgstr ""
+
+#: ../../XLN.rst:1993
+#: ../../XLN.rst:2181
+msgid "|tap|: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type."
+msgstr ""
+
+#: ../../XLN.rst:2005
+msgid "Pirate's Cutlass"
+msgstr ""
+
+#: ../../XLN.rst:2000
+msgid "When Pirate's Cutlass enters the battlefield, attach it to target Pirate you control."
+msgstr ""
+
+#: ../../XLN.rst:2004
+#: ../../XLN.rst:2033
+msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
+msgstr ""
+
+#: ../../XLN.rst:2014
+msgid "Primal Amulet"
+msgstr ""
+
+#: ../../XLN.rst:2011
+msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../XLN.rst:2013
+msgid "Whenever you cast an instant or sorcery spell, put a charge counter on Primal Amulet. Then if there are four or more charge counters on it, you may remove those counters and transform it."
+msgstr ""
+
+#: ../../XLN.rst:2023
+msgid "Primal Wellspring"
+msgstr ""
+
+#: ../../XLN.rst:2020
+msgid "(Transforms from Primal Amulet.)"
+msgstr ""
+
+#: ../../XLN.rst:2022
+msgid "|tap|: Add one mana of any color. When that mana is spent to cast an instant or sorcery spell, copy that spell and you may choose new targets for the copy."
+msgstr ""
+
+#: ../../XLN.rst:2034
+msgid "Prying Blade"
+msgstr ""
+
+#: ../../XLN.rst:2029
+msgid "Equipped creature gets +1/+0."
+msgstr ""
+
+#: ../../XLN.rst:2031
+msgid "Whenever equipped creature deals combat damage to a player, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:2043
+msgid "Sentinel Totem"
+msgstr ""
+
+#: ../../XLN.rst:2040
+msgid "When Sentinel Totem enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../XLN.rst:2042
+msgid "|tap|, Exile Sentinel Totem: Exile all cards from all graveyards."
+msgstr ""
+
+#: ../../XLN.rst:2052
+msgid "Shadowed Caravel"
+msgstr ""
+
+#: ../../XLN.rst:2049
+msgid "Whenever a creature you control explores, put a +1/+1 counter on Shadowed Caravel."
+msgstr ""
+
+#: ../../XLN.rst:2059
+msgid "Sleek Schooner"
+msgstr ""
+
+#: ../../XLN.rst:2058
+msgid "Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)"
+msgstr ""
+
+#: ../../XLN.rst:2068
+msgid "Sorcerous Spyglass"
+msgstr ""
+
+#: ../../XLN.rst:2065
+msgid "As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, then choose any card name."
+msgstr ""
+
+#: ../../XLN.rst:2067
+msgid "Activated abilities of sources with the chosen name can't be activated unless they're mana abilities."
+msgstr ""
+
+#: ../../XLN.rst:2077
+msgid "Thaumatic Compass"
+msgstr ""
+
+#: ../../XLN.rst:2074
+msgid "|mana_3|, |tap|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../XLN.rst:2076
+msgid "At the beginning of your end step, if you control seven or more lands, transform Thaumatic Compass."
+msgstr ""
+
+#: ../../XLN.rst:2088
+msgid "Spires of Orazca"
+msgstr ""
+
+#: ../../XLN.rst:2083
+msgid "(Transforms from Thaumatic Compass.)"
+msgstr ""
+
+#: ../../XLN.rst:2087
+msgid "|tap|: Untap target attacking creature an opponent controls and remove it from combat."
+msgstr ""
+
+#: ../../XLN.rst:2095
+msgid "Treasure Map"
+msgstr ""
+
+#: ../../XLN.rst:2094
+msgid "|mana_1|, |tap|: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three colorless Treasure artifact tokens with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../XLN.rst:2106
+msgid "Treasure Cove"
+msgstr ""
+
+#: ../../XLN.rst:2101
+msgid "(Transforms from Treasure Map.)"
+msgstr ""
+
+#: ../../XLN.rst:2105
+msgid "|tap|, Sacrifice a Treasure: Draw a card."
+msgstr ""
+
+#: ../../XLN.rst:2117
+msgid "Vanquisher's Banner"
+msgstr ""
+
+#: ../../XLN.rst:2112
+msgid "As Vanquisher's Banner enters the battlefield, choose a creature type."
+msgstr ""
+
+#: ../../XLN.rst:2114
+msgid "Creatures you control of the chosen type get +1/+1."
+msgstr ""
+
+#: ../../XLN.rst:2116
+msgid "Whenever you cast a creature spell of the chosen type, draw a card."
+msgstr ""
+
+#: ../../XLN.rst:2126
+msgid "Dragonskull Summit"
+msgstr ""
+
+#: ../../XLN.rst:2123
+msgid "Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain."
+msgstr ""
+
+#: ../../XLN.rst:2125
+msgid "|tap|: Add |mana_b| or |mana_r|."
+msgstr ""
+
+#: ../../XLN.rst:2135
+msgid "Drowned Catacomb"
+msgstr ""
+
+#: ../../XLN.rst:2132
+msgid "Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp."
+msgstr ""
+
+#: ../../XLN.rst:2134
+msgid "|tap|: Add |mana_u| or |mana_b|."
+msgstr ""
+
+#: ../../XLN.rst:2144
+msgid "Field of Ruin"
+msgstr ""
+
+#: ../../XLN.rst:2143
+msgid "|mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles their library."
+msgstr ""
+
+#: ../../XLN.rst:2153
+msgid "Glacial Fortress"
+msgstr ""
+
+#: ../../XLN.rst:2150
+msgid "Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island."
+msgstr ""
+
+#: ../../XLN.rst:2152
+msgid "|tap|: Add |mana_w| or |mana_u|."
+msgstr ""
+
+#: ../../XLN.rst:2162
+msgid "Rootbound Crag"
+msgstr ""
+
+#: ../../XLN.rst:2159
+msgid "Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest."
+msgstr ""
+
+#: ../../XLN.rst:2161
+msgid "|tap|: Add |mana_r| or |mana_g|."
+msgstr ""
+
+#: ../../XLN.rst:2171
+msgid "Sunpetal Grove"
+msgstr ""
+
+#: ../../XLN.rst:2168
+msgid "Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains."
+msgstr ""
+
+#: ../../XLN.rst:2170
+msgid "|tap|: Add |mana_g| or |mana_w|."
+msgstr ""
+
+#: ../../XLN.rst:2182
+msgid "Unclaimed Territory"
+msgstr ""
+
+#: ../../XLN.rst:2177
+msgid "As Unclaimed Territory enters the battlefield, choose a creature type."
+msgstr ""
+
+#: ../../XLN.rst:2191
+msgid "Unknown Shores"
+msgstr ""
+
+#: ../../XLN.rst:2190
+msgid "|mana_1|, |tap|: Add one mana of any color."
+msgstr ""
+
+#: ../../XLN.rst:2196
+#: ../../XLN.rst:2203
+#: ../../XLN.rst:2210
+#: ../../XLN.rst:2217
+msgid "Plains"
+msgstr ""
+
+#: ../../XLN.rst:2224
+#: ../../XLN.rst:2231
+#: ../../XLN.rst:2238
+#: ../../XLN.rst:2245
+msgid "Island"
+msgstr ""
+
+#: ../../XLN.rst:2252
+#: ../../XLN.rst:2259
+#: ../../XLN.rst:2266
+#: ../../XLN.rst:2273
+msgid "Swamp"
+msgstr ""
+
+#: ../../XLN.rst:2280
+#: ../../XLN.rst:2287
+#: ../../XLN.rst:2294
+#: ../../XLN.rst:2301
+msgid "Mountain"
+msgstr ""
+
+#: ../../XLN.rst:2308
+#: ../../XLN.rst:2315
+#: ../../XLN.rst:2322
+#: ../../XLN.rst:2329
+msgid "Forest"
+msgstr ""
+
+#: ../../XLN.rst:2342
+msgid "Jace, Ingenious Mind-Mage"
+msgstr ""
+
+#: ../../XLN.rst:2337
+msgid "+1: Draw a card."
+msgstr ""
+
+#: ../../XLN.rst:2339
+msgid "+1: Untap all creatures you control."
+msgstr ""
+
+#: ../../XLN.rst:2341
+msgid "−9: Gain control of up to three target creatures."
+msgstr ""
+
+#: ../../XLN.rst:2353
+msgid "Castaway's Despair"
+msgstr ""
+
+#: ../../XLN.rst:2350
+msgid "When Castaway's Despair enters the battlefield, tap enchanted creature."
+msgstr ""
+
+#: ../../XLN.rst:2352
+msgid "Enchanted creature doesn't untap during its controller's untap step."
+msgstr ""
+
+#: ../../XLN.rst:2362
+msgid "Grasping Current"
+msgstr ""
+
+#: ../../XLN.rst:2359
+msgid "Return up to two target creatures to their owner's hand."
+msgstr ""
+
+#: ../../XLN.rst:2361
+msgid "Search your library and/or graveyard for a card named Jace, Ingenious Mind-Mage, reveal it, and put it into your hand. If you searched your library this way, shuffle it."
+msgstr ""
+
+#: ../../XLN.rst:2369
+msgid "Jace's Sentinel"
+msgstr ""
+
+#: ../../XLN.rst:2368
+msgid "As long as you control a Jace planeswalker, Jace's Sentinel gets +1/+0 and can't be blocked."
+msgstr ""
+
+#: ../../XLN.rst:2378
+msgid "Woodland Stream"
+msgstr ""
+
+#: ../../XLN.rst:2375
+msgid "Woodland Stream enters the battlefield tapped."
+msgstr ""
+
+#: ../../XLN.rst:2377
+msgid "|tap|: Add |mana_g| or |mana_u|."
+msgstr ""
+
+#: ../../XLN.rst:2389
+msgid "Huatli, Dinosaur Knight"
+msgstr ""
+
+#: ../../XLN.rst:2384
+msgid "+2: Put two +1/+1 counters on up to one target Dinosaur you control."
+msgstr ""
+
+#: ../../XLN.rst:2386
+msgid "−3: Target Dinosaur you control deals damage equal to its power to target creature you don't control."
+msgstr ""
+
+#: ../../XLN.rst:2388
+msgid "−7: Dinosaurs you control get +4/+4 until end of turn."
+msgstr ""
+
+#: ../../XLN.rst:2396
+msgid "Huatli's Snubhorn"
+msgstr ""
+
+#: ../../XLN.rst:2395
+msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
+msgstr ""
+
+#: ../../XLN.rst:2403
+msgid "Huatli's Spurring"
+msgstr ""
+
+#: ../../XLN.rst:2402
+msgid "Target creature gets +2/+0 until end of turn. If you control a Huatli planeswalker, that creature gets +4/+0 until end of turn instead."
+msgstr ""
+
+#: ../../XLN.rst:2410
+msgid "Sun-Blessed Mount"
+msgstr ""
+
+#: ../../XLN.rst:2409
+msgid "When Sun-Blessed Mount enters the battlefield, you may search your library and/or graveyard for a card named Huatli, Dinosaur Knight, reveal it, then put it into your hand. If you searched your library this way, shuffle it."
+msgstr ""
+
+#: ../../XLN.rst:2418
+msgid "Stone Quarry"
+msgstr ""
+
+#: ../../XLN.rst:2416
+msgid "Stone Quarry enters the battlefield tapped."
+msgstr ""
+
+#: ../../XLN.rst:2418
+msgid "|tap|: Add |mana_r| or |mana_w|."
+msgstr ""
+

@@ -1,5 +1,7 @@
 
 .. Symbol images definitions:
+.. |colorless| image:: images/colorless.png
+   :alt: {C}
 .. |tap| image:: images/tap.png
    :alt: {T}
 .. |untap| image:: images/untap.png
