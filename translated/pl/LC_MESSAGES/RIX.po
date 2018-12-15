@@ -12,6 +12,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,11 +26,15 @@ msgid "Baffling End"
 msgstr ""
 
 #: ../../RIX.rst:12
-msgid "When Baffling End enters the battlefield, exile target creature an opponent controls with converted mana cost 3 or less."
+msgid ""
+"When Baffling End enters the battlefield, exile target creature an opponent "
+"controls with converted mana cost 3 or less."
 msgstr ""
 
 #: ../../RIX.rst:14
-msgid "When Baffling End leaves the battlefield, target opponent creates a 3/3 green Dinosaur creature token with trample."
+msgid ""
+"When Baffling End leaves the battlefield, target opponent creates a 3/3 "
+"green Dinosaur creature token with trample."
 msgstr ""
 
 #: ../../RIX.rst:24
@@ -37,11 +42,15 @@ msgid "Bishop of Binding"
 msgstr ""
 
 #: ../../RIX.rst:21
-msgid "When Bishop of Binding enters the battlefield, exile target creature an opponent controls until Bishop of Binding leaves the battlefield."
+msgid ""
+"When Bishop of Binding enters the battlefield, exile target creature an "
+"opponent controls until Bishop of Binding leaves the battlefield."
 msgstr ""
 
 #: ../../RIX.rst:23
-msgid "Whenever Bishop of Binding attacks, target Vampire gets +X/+X until end of turn, where X is the power of the exiled card."
+msgid ""
+"Whenever Bishop of Binding attacks, target Vampire gets +X/+X until end of "
+"turn, where X is the power of the exiled card."
 msgstr ""
 
 #: ../../RIX.rst:31
@@ -49,16 +58,15 @@ msgid "Blazing Hope"
 msgstr ""
 
 #: ../../RIX.rst:30
-msgid "Exile target creature with power greater than or equal to your life total."
+msgid ""
+"Exile target creature with power greater than or equal to your life total."
 msgstr ""
 
 #: ../../RIX.rst:42
 msgid "Cleansing Ray"
 msgstr ""
 
-#: ../../RIX.rst:37
-#: ../../RIX.rst:642
-#: ../../RIX.rst:805
+#: ../../RIX.rst:37 ../../RIX.rst:642 ../../RIX.rst:805
 msgid "Choose one —"
 msgstr ""
 
@@ -90,18 +98,9 @@ msgstr ""
 msgid "Exultant Skymarcher"
 msgstr ""
 
-#: ../../RIX.rst:62
-#: ../../RIX.rst:110
-#: ../../RIX.rst:226
-#: ../../RIX.rst:453
-#: ../../RIX.rst:469
-#: ../../RIX.rst:478
-#: ../../RIX.rst:505
-#: ../../RIX.rst:653
-#: ../../RIX.rst:739
-#: ../../RIX.rst:750
-#: ../../RIX.rst:926
-#: ../../RIX.rst:1275
+#: ../../RIX.rst:62 ../../RIX.rst:110 ../../RIX.rst:226 ../../RIX.rst:453
+#: ../../RIX.rst:469 ../../RIX.rst:478 ../../RIX.rst:505 ../../RIX.rst:653
+#: ../../RIX.rst:739 ../../RIX.rst:750 ../../RIX.rst:926 ../../RIX.rst:1275
 #: ../../RIX.rst:1459
 msgid "Flying"
 msgstr ""
@@ -123,11 +122,16 @@ msgid "Forerunner of the Legion"
 msgstr ""
 
 #: ../../RIX.rst:78
-msgid "When Forerunner of the Legion enters the battlefield, you may search your library for a Vampire card, reveal it, then shuffle your library and put that card on top of it."
+msgid ""
+"When Forerunner of the Legion enters the battlefield, you may search your "
+"library for a Vampire card, reveal it, then shuffle your library and put "
+"that card on top of it."
 msgstr ""
 
 #: ../../RIX.rst:80
-msgid "Whenever another Vampire enters the battlefield under your control, target creature gets +1/+1 until end of turn."
+msgid ""
+"Whenever another Vampire enters the battlefield under your control, target "
+"creature gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../RIX.rst:88
@@ -143,20 +147,18 @@ msgid "Legion Conquistador"
 msgstr ""
 
 #: ../../RIX.rst:94
-msgid "When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle your library."
+msgid ""
+"When Legion Conquistador enters the battlefield, you may search your library "
+"for any number of cards named Legion Conquistador, reveal them, put them "
+"into your hand, then shuffle your library."
 msgstr ""
 
 #: ../../RIX.rst:104
 msgid "Luminous Bonds"
 msgstr ""
 
-#: ../../RIX.rst:101
-#: ../../RIX.rst:208
-#: ../../RIX.rst:294
-#: ../../RIX.rst:417
-#: ../../RIX.rst:514
-#: ../../RIX.rst:935
-#: ../../RIX.rst:1001
+#: ../../RIX.rst:101 ../../RIX.rst:208 ../../RIX.rst:294 ../../RIX.rst:417
+#: ../../RIX.rst:514 ../../RIX.rst:935 ../../RIX.rst:1001
 msgid "Enchant creature"
 msgstr ""
 
@@ -169,7 +171,9 @@ msgid "Majestic Heliopterus"
 msgstr ""
 
 #: ../../RIX.rst:112
-msgid "Whenever Majestic Heliopterus attacks, another target Dinosaur you control gains flying until end of turn."
+msgid ""
+"Whenever Majestic Heliopterus attacks, another target Dinosaur you control "
+"gains flying until end of turn."
 msgstr ""
 
 #: ../../RIX.rst:120
@@ -177,7 +181,9 @@ msgid "Martyr of Dusk"
 msgstr ""
 
 #: ../../RIX.rst:119
-msgid "When Martyr of Dusk dies, create a 1/1 white Vampire creature token with lifelink."
+msgid ""
+"When Martyr of Dusk dies, create a 1/1 white Vampire creature token with "
+"lifelink."
 msgstr ""
 
 #: ../../RIX.rst:127
@@ -193,7 +199,9 @@ msgid "Paladin of Atonement"
 msgstr ""
 
 #: ../../RIX.rst:133
-msgid "At the beginning of each upkeep, if you lost life last turn, put a +1/+1 counter on Paladin of Atonement."
+msgid ""
+"At the beginning of each upkeep, if you lost life last turn, put a +1/+1 "
+"counter on Paladin of Atonement."
 msgstr ""
 
 #: ../../RIX.rst:135
@@ -204,34 +212,21 @@ msgstr ""
 msgid "Pride of Conquerors"
 msgstr ""
 
-#: ../../RIX.rst:142
-#: ../../RIX.rst:151
-#: ../../RIX.rst:176
-#: ../../RIX.rst:192
-#: ../../RIX.rst:312
-#: ../../RIX.rst:351
-#: ../../RIX.rst:433
-#: ../../RIX.rst:460
-#: ../../RIX.rst:480
-#: ../../RIX.rst:496
-#: ../../RIX.rst:580
-#: ../../RIX.rst:612
-#: ../../RIX.rst:655
-#: ../../RIX.rst:741
-#: ../../RIX.rst:757
-#: ../../RIX.rst:976
-#: ../../RIX.rst:1012
-#: ../../RIX.rst:1208
-#: ../../RIX.rst:1235
-#: ../../RIX.rst:1288
-#: ../../RIX.rst:1461
-#: ../../RIX.rst:1597
-#: ../../RIX.rst:1633
-msgid "Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)"
+#: ../../RIX.rst:142 ../../RIX.rst:151 ../../RIX.rst:176 ../../RIX.rst:192
+#: ../../RIX.rst:312 ../../RIX.rst:351 ../../RIX.rst:433 ../../RIX.rst:460
+#: ../../RIX.rst:480 ../../RIX.rst:496 ../../RIX.rst:580 ../../RIX.rst:612
+#: ../../RIX.rst:655 ../../RIX.rst:741 ../../RIX.rst:757 ../../RIX.rst:976
+#: ../../RIX.rst:1012 ../../RIX.rst:1208 ../../RIX.rst:1235 ../../RIX.rst:1288
+#: ../../RIX.rst:1461 ../../RIX.rst:1597 ../../RIX.rst:1633
+msgid ""
+"Ascend (If you control ten or more permanents, you get the city's blessing "
+"for the rest of the game.)"
 msgstr ""
 
 #: ../../RIX.rst:144
-msgid "Creatures you control get +1/+1 until end of turn. If you have the city's blessing, those creatures get +2/+2 until end of turn instead."
+msgid ""
+"Creatures you control get +1/+1 until end of turn. If you have the city's "
+"blessing, those creatures get +2/+2 until end of turn instead."
 msgstr ""
 
 #: ../../RIX.rst:156
@@ -243,7 +238,9 @@ msgid "As Radiant Destiny enters the battlefield, choose a creature type."
 msgstr ""
 
 #: ../../RIX.rst:155
-msgid "Creatures you control of the chosen type get +1/+1. As long as you have the city's blessing, they also have vigilance."
+msgid ""
+"Creatures you control of the chosen type get +1/+1. As long as you have the "
+"city's blessing, they also have vigilance."
 msgstr ""
 
 #: ../../RIX.rst:161
@@ -255,7 +252,9 @@ msgid "Sanguine Glorifier"
 msgstr ""
 
 #: ../../RIX.rst:169
-msgid "When Sanguine Glorifier enters the battlefield, put a +1/+1 counter on another target Vampire you control."
+msgid ""
+"When Sanguine Glorifier enters the battlefield, put a +1/+1 counter on "
+"another target Vampire you control."
 msgstr ""
 
 #: ../../RIX.rst:179
@@ -271,7 +270,9 @@ msgid "Slaughter the Strong"
 msgstr ""
 
 #: ../../RIX.rst:185
-msgid "Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control."
+msgid ""
+"Each player chooses any number of creatures they control with total power 4 "
+"or less, then sacrifices all other creatures they control."
 msgstr ""
 
 #: ../../RIX.rst:195
@@ -287,7 +288,9 @@ msgid "Sphinx's Decree"
 msgstr ""
 
 #: ../../RIX.rst:201
-msgid "Each opponent can't cast instant or sorcery spells during that player's next turn."
+msgid ""
+"Each opponent can't cast instant or sorcery spells during that player's next "
+"turn."
 msgstr ""
 
 #: ../../RIX.rst:213
@@ -299,7 +302,9 @@ msgid "Enchanted creature gets +1/+1 and has lifelink."
 msgstr ""
 
 #: ../../RIX.rst:212
-msgid "When Squire's Devotion enters the battlefield, create a 1/1 white Vampire creature token with lifelink."
+msgid ""
+"When Squire's Devotion enters the battlefield, create a 1/1 white Vampire "
+"creature token with lifelink."
 msgstr ""
 
 #: ../../RIX.rst:220
@@ -315,7 +320,8 @@ msgid "Sun-Crested Pterodon"
 msgstr ""
 
 #: ../../RIX.rst:228
-msgid "Sun-Crested Pterodon has vigilance as long as you control another Dinosaur."
+msgid ""
+"Sun-Crested Pterodon has vigilance as long as you control another Dinosaur."
 msgstr ""
 
 #: ../../RIX.rst:236
@@ -323,7 +329,9 @@ msgid "Temple Altisaur"
 msgstr ""
 
 #: ../../RIX.rst:235
-msgid "If a source would deal damage to another Dinosaur you control, prevent all but 1 of that damage."
+msgid ""
+"If a source would deal damage to another Dinosaur you control, prevent all "
+"but 1 of that damage."
 msgstr ""
 
 #: ../../RIX.rst:243
@@ -331,7 +339,9 @@ msgid "Trapjaw Tyrant"
 msgstr ""
 
 #: ../../RIX.rst:242
-msgid "Enrage — Whenever Trapjaw Tyrant is dealt damage, exile target creature an opponent controls until Trapjaw Tyrant leaves the battlefield."
+msgid ""
+"Enrage — Whenever Trapjaw Tyrant is dealt damage, exile target creature an "
+"opponent controls until Trapjaw Tyrant leaves the battlefield."
 msgstr ""
 
 #: ../../RIX.rst:250
@@ -347,7 +357,9 @@ msgid "Admiral's Order"
 msgstr ""
 
 #: ../../RIX.rst:256
-msgid "Raid — If you attacked with a creature this turn, you may pay |mana_u| rather than pay this spell's mana cost."
+msgid ""
+"Raid — If you attacked with a creature this turn, you may pay |mana_u| "
+"rather than pay this spell's mana cost."
 msgstr ""
 
 #: ../../RIX.rst:258
@@ -359,7 +371,10 @@ msgid "Aquatic Incursion"
 msgstr ""
 
 #: ../../RIX.rst:265
-msgid "When Aquatic Incursion enters the battlefield, create two 1/1 blue Merfolk creature tokens with hexproof. (They can't be the targets of spells or abilities your opponents control.)"
+msgid ""
+"When Aquatic Incursion enters the battlefield, create two 1/1 blue Merfolk "
+"creature tokens with hexproof. (They can't be the targets of spells or "
+"abilities your opponents control.)"
 msgstr ""
 
 #: ../../RIX.rst:267
@@ -370,15 +385,15 @@ msgstr ""
 msgid "Crafty Cutpurse"
 msgstr ""
 
-#: ../../RIX.rst:274
-#: ../../RIX.rst:415
-#: ../../RIX.rst:569
-#: ../../RIX.rst:1199
+#: ../../RIX.rst:274 ../../RIX.rst:415 ../../RIX.rst:569 ../../RIX.rst:1199
 msgid "Flash"
 msgstr ""
 
 #: ../../RIX.rst:276
-msgid "When Crafty Cutpurse enters the battlefield, each token that would be created under an opponent's control this turn is created under your control instead."
+msgid ""
+"When Crafty Cutpurse enters the battlefield, each token that would be "
+"created under an opponent's control this turn is created under your control "
+"instead."
 msgstr ""
 
 #: ../../RIX.rst:288
@@ -393,10 +408,7 @@ msgstr ""
 msgid "Return target creature to its owner's hand."
 msgstr ""
 
-#: ../../RIX.rst:287
-#: ../../RIX.rst:703
-#: ../../RIX.rst:948
-#: ../../RIX.rst:1023
+#: ../../RIX.rst:287 ../../RIX.rst:703 ../../RIX.rst:948 ../../RIX.rst:1023
 msgid "Draw a card."
 msgstr ""
 
@@ -405,11 +417,15 @@ msgid "Curious Obsession"
 msgstr ""
 
 #: ../../RIX.rst:296
-msgid "Enchanted creature gets +1/+1 and has \"Whenever this creature deals combat damage to a player, you may draw a card.\""
+msgid ""
+"Enchanted creature gets +1/+1 and has \"Whenever this creature deals combat "
+"damage to a player, you may draw a card.\""
 msgstr ""
 
 #: ../../RIX.rst:298
-msgid "At the beginning of your end step, if you didn't attack with a creature this turn, sacrifice Curious Obsession."
+msgid ""
+"At the beginning of your end step, if you didn't attack with a creature this "
+"turn, sacrifice Curious Obsession."
 msgstr ""
 
 #: ../../RIX.rst:306
@@ -417,7 +433,9 @@ msgid "Deadeye Rig-Hauler"
 msgstr ""
 
 #: ../../RIX.rst:305
-msgid "Raid — When Deadeye Rig-Hauler enters the battlefield, if you attacked with a creature this turn, you may return target creature to its owner's hand."
+msgid ""
+"Raid — When Deadeye Rig-Hauler enters the battlefield, if you attacked with "
+"a creature this turn, you may return target creature to its owner's hand."
 msgstr ""
 
 #: ../../RIX.rst:315
@@ -425,7 +443,9 @@ msgid "Expel from Orazca"
 msgstr ""
 
 #: ../../RIX.rst:314
-msgid "Return target nonland permanent to its owner's hand. If you have the city's blessing, you may put that permanent on top of its owner's library instead."
+msgid ""
+"Return target nonland permanent to its owner's hand. If you have the city's "
+"blessing, you may put that permanent on top of its owner's library instead."
 msgstr ""
 
 #: ../../RIX.rst:322
@@ -433,7 +453,9 @@ msgid "Flood of Recollection"
 msgstr ""
 
 #: ../../RIX.rst:321
-msgid "Return target instant or sorcery card from your graveyard to your hand. Exile Flood of Recollection."
+msgid ""
+"Return target instant or sorcery card from your graveyard to your hand. "
+"Exile Flood of Recollection."
 msgstr ""
 
 #: ../../RIX.rst:329
@@ -441,7 +463,9 @@ msgid "Hornswoggle"
 msgstr ""
 
 #: ../../RIX.rst:328
-msgid "Counter target creature spell. You create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgid ""
+"Counter target creature spell. You create a colorless Treasure artifact "
+"token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 
 #: ../../RIX.rst:338
@@ -449,11 +473,15 @@ msgid "Induced Amnesia"
 msgstr ""
 
 #: ../../RIX.rst:335
-msgid "When Induced Amnesia enters the battlefield, target player exiles all cards from their hand face down, then draws that many cards."
+msgid ""
+"When Induced Amnesia enters the battlefield, target player exiles all cards "
+"from their hand face down, then draws that many cards."
 msgstr ""
 
 #: ../../RIX.rst:337
-msgid "When Induced Amnesia is put into a graveyard from the battlefield, return the exiled cards to their owner's hand."
+msgid ""
+"When Induced Amnesia is put into a graveyard from the battlefield, return "
+"the exiled cards to their owner's hand."
 msgstr ""
 
 #: ../../RIX.rst:345
@@ -469,7 +497,9 @@ msgid "Kumena's Awakening"
 msgstr ""
 
 #: ../../RIX.rst:353
-msgid "At the beginning of your upkeep, each player draws a card. If you have the city's blessing, instead only you draw a card."
+msgid ""
+"At the beginning of your upkeep, each player draws a card. If you have the "
+"city's blessing, instead only you draw a card."
 msgstr ""
 
 #: ../../RIX.rst:361
@@ -505,7 +535,9 @@ msgid "Whenever an opponent casts a noncreature spell, draw a card."
 msgstr ""
 
 #: ../../RIX.rst:380
-msgid "Discard three cards: Exile Nezahal. Return it to the battlefield tapped under its owner's control at the beginning of the next end step."
+msgid ""
+"Discard three cards: Exile Nezahal. Return it to the battlefield tapped "
+"under its owner's control at the beginning of the next end step."
 msgstr ""
 
 #: ../../RIX.rst:388
@@ -513,7 +545,9 @@ msgid "Release to the Wind"
 msgstr ""
 
 #: ../../RIX.rst:387
-msgid "Exile target nonland permanent. For as long as that card remains exiled, its owner may cast it without paying its mana cost."
+msgid ""
+"Exile target nonland permanent. For as long as that card remains exiled, its "
+"owner may cast it without paying its mana cost."
 msgstr ""
 
 #: ../../RIX.rst:395
@@ -529,7 +563,9 @@ msgid "Riverwise Augur"
 msgstr ""
 
 #: ../../RIX.rst:401
-msgid "When Riverwise Augur enters the battlefield, draw three cards, then put two cards from your hand on top of your library in any order."
+msgid ""
+"When Riverwise Augur enters the battlefield, draw three cards, then put two "
+"cards from your hand on top of your library in any order."
 msgstr ""
 
 #: ../../RIX.rst:409
@@ -537,7 +573,10 @@ msgid "Sailor of Means"
 msgstr ""
 
 #: ../../RIX.rst:408
-msgid "When Sailor of Means enters the battlefield, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgid ""
+"When Sailor of Means enters the battlefield, create a colorless Treasure "
+"artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any "
+"color.\""
 msgstr ""
 
 #: ../../RIX.rst:420
@@ -545,7 +584,9 @@ msgid "Sea Legs"
 msgstr ""
 
 #: ../../RIX.rst:419
-msgid "Enchanted creature gets +0/+2 as long as it's a Pirate. Otherwise, it gets -2/-0."
+msgid ""
+"Enchanted creature gets +0/+2 as long as it's a Pirate. Otherwise, it gets "
+"-2/-0."
 msgstr ""
 
 #: ../../RIX.rst:427
@@ -553,7 +594,8 @@ msgid "Seafloor Oracle"
 msgstr ""
 
 #: ../../RIX.rst:426
-msgid "Whenever a Merfolk you control deals combat damage to a player, draw a card."
+msgid ""
+"Whenever a Merfolk you control deals combat damage to a player, draw a card."
 msgstr ""
 
 #: ../../RIX.rst:436
@@ -561,7 +603,8 @@ msgid "Secrets of the Golden City"
 msgstr ""
 
 #: ../../RIX.rst:435
-msgid "Draw two cards. If you have the city's blessing, draw three cards instead."
+msgid ""
+"Draw two cards. If you have the city's blessing, draw three cards instead."
 msgstr ""
 
 #: ../../RIX.rst:445
@@ -569,7 +612,9 @@ msgid "Silvergill Adept"
 msgstr ""
 
 #: ../../RIX.rst:442
-msgid "As an additional cost to cast this spell, reveal a Merfolk card from your hand or pay |mana_3|."
+msgid ""
+"As an additional cost to cast this spell, reveal a Merfolk card from your "
+"hand or pay |mana_3|."
 msgstr ""
 
 #: ../../RIX.rst:444
@@ -581,7 +626,9 @@ msgid "Siren Reaver"
 msgstr ""
 
 #: ../../RIX.rst:451
-msgid "Raid — This spell costs |mana_1| less to cast if you attacked with a creature this turn."
+msgid ""
+"Raid — This spell costs |mana_1| less to cast if you attacked with a "
+"creature this turn."
 msgstr ""
 
 #: ../../RIX.rst:463
@@ -589,7 +636,9 @@ msgid "Slippery Scoundrel"
 msgstr ""
 
 #: ../../RIX.rst:462
-msgid "As long as you have the city's blessing, Slippery Scoundrel has hexproof and can't be blocked."
+msgid ""
+"As long as you have the city's blessing, Slippery Scoundrel has hexproof and "
+"can't be blocked."
 msgstr ""
 
 #: ../../RIX.rst:472
@@ -597,7 +646,9 @@ msgid "Soul of the Rapids"
 msgstr ""
 
 #: ../../RIX.rst:471
-msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
+msgid ""
+"Hexproof (This creature can't be the target of spells or abilities your "
+"opponents control.)"
 msgstr ""
 
 #: ../../RIX.rst:483
@@ -617,7 +668,10 @@ msgid "Timestream Navigator"
 msgstr ""
 
 #: ../../RIX.rst:498
-msgid "|mana_2| |mana_u| |mana_u|, |tap|, Put Timestream Navigator on the bottom of its owner's library: Take an extra turn after this one. Activate this ability only if you have the city's blessing."
+msgid ""
+"|mana_2| |mana_u| |mana_u|, |tap|, Put Timestream Navigator on the bottom of "
+"its owner's library: Take an extra turn after this one. Activate this "
+"ability only if you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:508
@@ -625,7 +679,9 @@ msgid "Warkite Marauder"
 msgstr ""
 
 #: ../../RIX.rst:507
-msgid "Whenever Warkite Marauder attacks, target creature defending player controls loses all abilities and has base power and toughness 0/1 until end of turn."
+msgid ""
+"Whenever Warkite Marauder attacks, target creature defending player controls "
+"loses all abilities and has base power and toughness 0/1 until end of turn."
 msgstr ""
 
 #: ../../RIX.rst:519
@@ -645,7 +701,9 @@ msgid "Arterial Flow"
 msgstr ""
 
 #: ../../RIX.rst:525
-msgid "Each opponent discards two cards. If you control a Vampire, each opponent loses 2 life and you gain 2 life."
+msgid ""
+"Each opponent discards two cards. If you control a Vampire, each opponent "
+"loses 2 life and you gain 2 life."
 msgstr ""
 
 #: ../../RIX.rst:531
@@ -657,7 +715,9 @@ msgid "Champion of Dusk"
 msgstr ""
 
 #: ../../RIX.rst:539
-msgid "When Champion of Dusk enters the battlefield, you draw X cards and you lose X life, where X is the number of Vampires you control."
+msgid ""
+"When Champion of Dusk enters the battlefield, you draw X cards and you lose "
+"X life, where X is the number of Vampires you control."
 msgstr ""
 
 #: ../../RIX.rst:547
@@ -665,7 +725,9 @@ msgid "Dark Inquiry"
 msgstr ""
 
 #: ../../RIX.rst:546
-msgid "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card."
+msgid ""
+"Target opponent reveals their hand. You choose a nonland card from it. That "
+"player discards that card."
 msgstr ""
 
 #: ../../RIX.rst:556
@@ -677,7 +739,11 @@ msgid "Enchant creature an opponent controls"
 msgstr ""
 
 #: ../../RIX.rst:555
-msgid "When enchanted creature dies, exile cards equal to its power from the top of its owner's library. You may cast nonland cards from among them for as long as they remain exiled, and you may spend mana as though it were mana of any type to cast those spells."
+msgid ""
+"When enchanted creature dies, exile cards equal to its power from the top of "
+"its owner's library. You may cast nonland cards from among them for as long "
+"as they remain exiled, and you may spend mana as though it were mana of any "
+"type to cast those spells."
 msgstr ""
 
 #: ../../RIX.rst:563
@@ -685,21 +751,22 @@ msgid "Dinosaur Hunter"
 msgstr ""
 
 #: ../../RIX.rst:562
-msgid "Whenever Dinosaur Hunter deals damage to a Dinosaur, destroy that creature."
+msgid ""
+"Whenever Dinosaur Hunter deals damage to a Dinosaur, destroy that creature."
 msgstr ""
 
 #: ../../RIX.rst:574
 msgid "Dire Fleet Poisoner"
 msgstr ""
 
-#: ../../RIX.rst:571
-#: ../../RIX.rst:719
-#: ../../RIX.rst:1286
+#: ../../RIX.rst:571 ../../RIX.rst:719 ../../RIX.rst:1286
 msgid "Deathtouch"
 msgstr ""
 
 #: ../../RIX.rst:573
-msgid "When Dire Fleet Poisoner enters the battlefield, target attacking Pirate you control gets +1/+1 and gains deathtouch until end of turn."
+msgid ""
+"When Dire Fleet Poisoner enters the battlefield, target attacking Pirate you "
+"control gets +1/+1 and gains deathtouch until end of turn."
 msgstr ""
 
 #: ../../RIX.rst:583
@@ -715,7 +782,9 @@ msgid "Dusk Legion Zealot"
 msgstr ""
 
 #: ../../RIX.rst:589
-msgid "When Dusk Legion Zealot enters the battlefield, you draw a card and you lose 1 life."
+msgid ""
+"When Dusk Legion Zealot enters the battlefield, you draw a card and you lose "
+"1 life."
 msgstr ""
 
 #: ../../RIX.rst:597
@@ -723,7 +792,9 @@ msgid "Fathom Fleet Boarder"
 msgstr ""
 
 #: ../../RIX.rst:596
-msgid "When Fathom Fleet Boarder enters the battlefield, you lose 2 life unless you control another Pirate."
+msgid ""
+"When Fathom Fleet Boarder enters the battlefield, you lose 2 life unless you "
+"control another Pirate."
 msgstr ""
 
 #: ../../RIX.rst:606
@@ -731,11 +802,16 @@ msgid "Forerunner of the Coalition"
 msgstr ""
 
 #: ../../RIX.rst:603
-msgid "When Forerunner of the Coalition enters the battlefield, you may search your library for a Pirate card, reveal it, then shuffle your library and put that card on top of it."
+msgid ""
+"When Forerunner of the Coalition enters the battlefield, you may search your "
+"library for a Pirate card, reveal it, then shuffle your library and put that "
+"card on top of it."
 msgstr ""
 
 #: ../../RIX.rst:605
-msgid "Whenever another Pirate enters the battlefield under your control, each opponent loses 1 life."
+msgid ""
+"Whenever another Pirate enters the battlefield under your control, each "
+"opponent loses 1 life."
 msgstr ""
 
 #: ../../RIX.rst:615
@@ -743,7 +819,9 @@ msgid "Golden Demise"
 msgstr ""
 
 #: ../../RIX.rst:614
-msgid "All creatures get -2/-2 until end of turn. If you have the city's blessing, instead only creatures your opponents control get -2/-2 until end of turn."
+msgid ""
+"All creatures get -2/-2 until end of turn. If you have the city's blessing, "
+"instead only creatures your opponents control get -2/-2 until end of turn."
 msgstr ""
 
 #: ../../RIX.rst:622
@@ -775,7 +853,9 @@ msgid "Mastermind's Acquisition"
 msgstr ""
 
 #: ../../RIX.rst:644
-msgid "Search your library for a card, put it into your hand, then shuffle your library."
+msgid ""
+"Search your library for a card, put it into your hand, then shuffle your "
+"library."
 msgstr ""
 
 #: ../../RIX.rst:646
@@ -787,7 +867,9 @@ msgid "Mausoleum Harpy"
 msgstr ""
 
 #: ../../RIX.rst:657
-msgid "Whenever another creature you control dies, if you have the city's blessing, put a +1/+1 counter on Mausoleum Harpy."
+msgid ""
+"Whenever another creature you control dies, if you have the city's blessing, "
+"put a +1/+1 counter on Mausoleum Harpy."
 msgstr ""
 
 #: ../../RIX.rst:665
@@ -807,7 +889,9 @@ msgid "Oathsworn Vampire enters the battlefield tapped."
 msgstr ""
 
 #: ../../RIX.rst:673
-msgid "You may cast Oathsworn Vampire from your graveyard if you gained life this turn."
+msgid ""
+"You may cast Oathsworn Vampire from your graveyard if you gained life this "
+"turn."
 msgstr ""
 
 #: ../../RIX.rst:681
@@ -815,7 +899,10 @@ msgid "Pitiless Plunderer"
 msgstr ""
 
 #: ../../RIX.rst:680
-msgid "Whenever another creature you control dies, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgid ""
+"Whenever another creature you control dies, create a colorless Treasure "
+"artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any "
+"color.\""
 msgstr ""
 
 #: ../../RIX.rst:688
@@ -823,7 +910,9 @@ msgid "Ravenous Chupacabra"
 msgstr ""
 
 #: ../../RIX.rst:687
-msgid "When Ravenous Chupacabra enters the battlefield, destroy target creature an opponent controls."
+msgid ""
+"When Ravenous Chupacabra enters the battlefield, destroy target creature an "
+"opponent controls."
 msgstr ""
 
 #: ../../RIX.rst:695
@@ -847,7 +936,9 @@ msgid "Sadistic Skymarcher"
 msgstr ""
 
 #: ../../RIX.rst:710
-msgid "As an additional cost to cast this spell, reveal a Vampire card from your hand or pay |mana_1|."
+msgid ""
+"As an additional cost to cast this spell, reveal a Vampire card from your "
+"hand or pay |mana_1|."
 msgstr ""
 
 #: ../../RIX.rst:712
@@ -859,25 +950,31 @@ msgid "Tetzimoc, Primal Death"
 msgstr ""
 
 #: ../../RIX.rst:721
-msgid "|mana_b|, Reveal Tetzimoc, Primal Death from your hand: Put a prey counter on target creature. Activate this ability only during your turn."
+msgid ""
+"|mana_b|, Reveal Tetzimoc, Primal Death from your hand: Put a prey counter "
+"on target creature. Activate this ability only during your turn."
 msgstr ""
 
 #: ../../RIX.rst:723
-msgid "When Tetzimoc enters the battlefield, destroy each creature your opponents control with a prey counter on it."
+msgid ""
+"When Tetzimoc enters the battlefield, destroy each creature your opponents "
+"control with a prey counter on it."
 msgstr ""
 
 #: ../../RIX.rst:733
 msgid "Tomb Robber"
 msgstr ""
 
-#: ../../RIX.rst:730
-#: ../../RIX.rst:766
-#: ../../RIX.rst:882
+#: ../../RIX.rst:730 ../../RIX.rst:766 ../../RIX.rst:882
 msgid "Menace"
 msgstr ""
 
 #: ../../RIX.rst:732
-msgid "|mana_1|, Discard a card: Tomb Robber explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgid ""
+"|mana_1|, Discard a card: Tomb Robber explores. (Reveal the top card of your "
+"library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 "
+"counter on this creature, then put the card back or put it into your "
+"graveyard.)"
 msgstr ""
 
 #: ../../RIX.rst:744
@@ -885,7 +982,10 @@ msgid "Twilight Prophet"
 msgstr ""
 
 #: ../../RIX.rst:743
-msgid "At the beginning of your upkeep, if you have the city's blessing, reveal the top card of your library and put it into your hand. Each opponent loses X life and you gain X life, where X is that card's converted mana cost."
+msgid ""
+"At the beginning of your upkeep, if you have the city's blessing, reveal the "
+"top card of your library and put it into your hand. Each opponent loses X "
+"life and you gain X life, where X is that card's converted mana cost."
 msgstr ""
 
 #: ../../RIX.rst:751
@@ -897,7 +997,9 @@ msgid "Vona's Hunger"
 msgstr ""
 
 #: ../../RIX.rst:759
-msgid "Each opponent sacrifices a creature. If you have the city's blessing, instead each opponent sacrifices half the creatures they control, rounded up."
+msgid ""
+"Each opponent sacrifices a creature. If you have the city's blessing, "
+"instead each opponent sacrifices half the creatures they control, rounded up."
 msgstr ""
 
 #: ../../RIX.rst:769
@@ -905,7 +1007,9 @@ msgid "Voracious Vampire"
 msgstr ""
 
 #: ../../RIX.rst:768
-msgid "When Voracious Vampire enters the battlefield, target Vampire you control gets +1/+1 and gains menace until end of turn."
+msgid ""
+"When Voracious Vampire enters the battlefield, target Vampire you control "
+"gets +1/+1 and gains menace until end of turn."
 msgstr ""
 
 #: ../../RIX.rst:778
@@ -933,7 +1037,9 @@ msgid "Brass's Bounty"
 msgstr ""
 
 #: ../../RIX.rst:791
-msgid "For each land you control, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgid ""
+"For each land you control, create a colorless Treasure artifact token with "
+"\"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 
 #: ../../RIX.rst:799
@@ -941,7 +1047,10 @@ msgid "Brazen Freebooter"
 msgstr ""
 
 #: ../../RIX.rst:798
-msgid "When Brazen Freebooter enters the battlefield, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgid ""
+"When Brazen Freebooter enters the battlefield, create a colorless Treasure "
+"artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any "
+"color.\""
 msgstr ""
 
 #: ../../RIX.rst:810
@@ -960,15 +1069,14 @@ msgstr ""
 msgid "Charging Tuskodon"
 msgstr ""
 
-#: ../../RIX.rst:816
-#: ../../RIX.rst:985
-#: ../../RIX.rst:1051
-#: ../../RIX.rst:1087
+#: ../../RIX.rst:816 ../../RIX.rst:985 ../../RIX.rst:1051 ../../RIX.rst:1087
 msgid "Trample"
 msgstr ""
 
 #: ../../RIX.rst:818
-msgid "If Charging Tuskodon would deal combat damage to a player, it deals double that damage to that player instead."
+msgid ""
+"If Charging Tuskodon would deal combat damage to a player, it deals double "
+"that damage to that player instead."
 msgstr ""
 
 #: ../../RIX.rst:826
@@ -976,7 +1084,9 @@ msgid "Daring Buccaneer"
 msgstr ""
 
 #: ../../RIX.rst:825
-msgid "As an additional cost to cast this spell, reveal a Pirate card from your hand or pay |mana_2|."
+msgid ""
+"As an additional cost to cast this spell, reveal a Pirate card from your "
+"hand or pay |mana_2|."
 msgstr ""
 
 #: ../../RIX.rst:835
@@ -988,7 +1098,12 @@ msgid "First strike"
 msgstr ""
 
 #: ../../RIX.rst:834
-msgid "When Dire Fleet Daredevil enters the battlefield, exile target instant or sorcery card from an opponent's graveyard. You may cast that card this turn, and you may spend mana as though it were mana of any type to cast that spell. If that card would be put into a graveyard this turn, exile it instead."
+msgid ""
+"When Dire Fleet Daredevil enters the battlefield, exile target instant or "
+"sorcery card from an opponent's graveyard. You may cast that card this turn, "
+"and you may spend mana as though it were mana of any type to cast that "
+"spell. If that card would be put into a graveyard this turn, exile it "
+"instead."
 msgstr ""
 
 #: ../../RIX.rst:842
@@ -996,15 +1111,17 @@ msgid "Etali, Primal Storm"
 msgstr ""
 
 #: ../../RIX.rst:841
-msgid "Whenever Etali, Primal Storm attacks, exile the top card of each player's library, then you may cast any number of nonland cards exiled this way without paying their mana costs."
+msgid ""
+"Whenever Etali, Primal Storm attacks, exile the top card of each player's "
+"library, then you may cast any number of nonland cards exiled this way "
+"without paying their mana costs."
 msgstr ""
 
 #: ../../RIX.rst:851
 msgid "Fanatical Firebrand"
 msgstr ""
 
-#: ../../RIX.rst:848
-#: ../../RIX.rst:1477
+#: ../../RIX.rst:848 ../../RIX.rst:1477
 msgid "Haste"
 msgstr ""
 
@@ -1017,11 +1134,16 @@ msgid "Forerunner of the Empire"
 msgstr ""
 
 #: ../../RIX.rst:857
-msgid "When Forerunner of the Empire enters the battlefield, you may search your library for a Dinosaur card, reveal it, then shuffle your library and put that card on top of it."
+msgid ""
+"When Forerunner of the Empire enters the battlefield, you may search your "
+"library for a Dinosaur card, reveal it, then shuffle your library and put "
+"that card on top of it."
 msgstr ""
 
 #: ../../RIX.rst:859
-msgid "Whenever a Dinosaur enters the battlefield under your control, you may have Forerunner of the Empire deal 1 damage to each creature."
+msgid ""
+"Whenever a Dinosaur enters the battlefield under your control, you may have "
+"Forerunner of the Empire deal 1 damage to each creature."
 msgstr ""
 
 #: ../../RIX.rst:869
@@ -1029,11 +1151,15 @@ msgid "Form of the Dinosaur"
 msgstr ""
 
 #: ../../RIX.rst:866
-msgid "When Form of the Dinosaur enters the battlefield, your life total becomes 15."
+msgid ""
+"When Form of the Dinosaur enters the battlefield, your life total becomes 15."
 msgstr ""
 
 #: ../../RIX.rst:868
-msgid "At the beginning of your upkeep, Form of the Dinosaur deals 15 damage to target creature an opponent controls and that creature deals damage equal to its power to you."
+msgid ""
+"At the beginning of your upkeep, Form of the Dinosaur deals 15 damage to "
+"target creature an opponent controls and that creature deals damage equal to "
+"its power to you."
 msgstr ""
 
 #: ../../RIX.rst:876
@@ -1041,7 +1167,9 @@ msgid "Frilled Deathspitter"
 msgstr ""
 
 #: ../../RIX.rst:875
-msgid "Enrage — Whenever Frilled Deathspitter is dealt damage, it deals 2 damage to target opponent or planeswalker."
+msgid ""
+"Enrage — Whenever Frilled Deathspitter is dealt damage, it deals 2 damage to "
+"target opponent or planeswalker."
 msgstr ""
 
 #: ../../RIX.rst:883
@@ -1053,7 +1181,9 @@ msgid "Mutiny"
 msgstr ""
 
 #: ../../RIX.rst:889
-msgid "Target creature an opponent controls deals damage equal to its power to another target creature that player controls."
+msgid ""
+"Target creature an opponent controls deals damage equal to its power to "
+"another target creature that player controls."
 msgstr ""
 
 #: ../../RIX.rst:897
@@ -1061,7 +1191,9 @@ msgid "Needletooth Raptor"
 msgstr ""
 
 #: ../../RIX.rst:896
-msgid "Enrage — Whenever Needletooth Raptor is dealt damage, it deals 5 damage to target creature an opponent controls."
+msgid ""
+"Enrage — Whenever Needletooth Raptor is dealt damage, it deals 5 damage to "
+"target creature an opponent controls."
 msgstr ""
 
 #: ../../RIX.rst:902
@@ -1077,7 +1209,9 @@ msgid "As an additional cost to cast this spell, discard a card."
 msgstr ""
 
 #: ../../RIX.rst:912
-msgid "Draw two cards and create two colorless Treasure artifact tokens with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgid ""
+"Draw two cards and create two colorless Treasure artifact tokens with \"|"
+"tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 
 #: ../../RIX.rst:920
@@ -1085,7 +1219,9 @@ msgid "Reckless Rage"
 msgstr ""
 
 #: ../../RIX.rst:919
-msgid "Reckless Rage deals 4 damage to target creature you don't control and 2 damage to target creature you control."
+msgid ""
+"Reckless Rage deals 4 damage to target creature you don't control and 2 "
+"damage to target creature you control."
 msgstr ""
 
 #: ../../RIX.rst:929
@@ -1093,7 +1229,11 @@ msgid "Rekindling Phoenix"
 msgstr ""
 
 #: ../../RIX.rst:928
-msgid "When Rekindling Phoenix dies, create a 0/1 red Elemental creature token with \"At the beginning of your upkeep, sacrifice this creature and return target card named Rekindling Phoenix from your graveyard to the battlefield. It gains haste until end of turn.\""
+msgid ""
+"When Rekindling Phoenix dies, create a 0/1 red Elemental creature token with "
+"\"At the beginning of your upkeep, sacrifice this creature and return target "
+"card named Rekindling Phoenix from your graveyard to the battlefield. It "
+"gains haste until end of turn.\""
 msgstr ""
 
 #: ../../RIX.rst:940
@@ -1105,7 +1245,9 @@ msgid "Enchanted creature gets +2/+1 and has first strike."
 msgstr ""
 
 #: ../../RIX.rst:939
-msgid "At the beginning of your end step, if you didn't attack with a creature this turn, sacrifice See Red."
+msgid ""
+"At the beginning of your end step, if you didn't attack with a creature this "
+"turn, sacrifice See Red."
 msgstr ""
 
 #: ../../RIX.rst:949
@@ -1129,7 +1271,9 @@ msgid "Silverclad Ferocidons"
 msgstr ""
 
 #: ../../RIX.rst:962
-msgid "Enrage — Whenever Silverclad Ferocidons is dealt damage, each opponent sacrifices a permanent."
+msgid ""
+"Enrage — Whenever Silverclad Ferocidons is dealt damage, each opponent "
+"sacrifices a permanent."
 msgstr ""
 
 #: ../../RIX.rst:970
@@ -1145,7 +1289,9 @@ msgid "Storm Fleet Swashbuckler"
 msgstr ""
 
 #: ../../RIX.rst:978
-msgid "Storm Fleet Swashbuckler has double strike as long as you have the city's blessing."
+msgid ""
+"Storm Fleet Swashbuckler has double strike as long as you have the city's "
+"blessing."
 msgstr ""
 
 #: ../../RIX.rst:988
@@ -1161,7 +1307,9 @@ msgid "Swaggering Corsair"
 msgstr ""
 
 #: ../../RIX.rst:994
-msgid "Raid — Swaggering Corsair enters the battlefield with a +1/+1 counter on it if you attacked with a creature this turn."
+msgid ""
+"Raid — Swaggering Corsair enters the battlefield with a +1/+1 counter on it "
+"if you attacked with a creature this turn."
 msgstr ""
 
 #: ../../RIX.rst:1006
@@ -1169,7 +1317,9 @@ msgid "Tilonalli's Crown"
 msgstr ""
 
 #: ../../RIX.rst:1003
-msgid "When Tilonalli's Crown enters the battlefield, it deals 1 damage to enchanted creature."
+msgid ""
+"When Tilonalli's Crown enters the battlefield, it deals 1 damage to "
+"enchanted creature."
 msgstr ""
 
 #: ../../RIX.rst:1005
@@ -1181,7 +1331,11 @@ msgid "Tilonalli's Summoner"
 msgstr ""
 
 #: ../../RIX.rst:1014
-msgid "Whenever Tilonalli's Summoner attacks, you may pay |mana_x| |mana_r|. If you do, create X 1/1 red Elemental creature tokens that are tapped and attacking. At the beginning of the next end step, exile those tokens unless you have the city's blessing."
+msgid ""
+"Whenever Tilonalli's Summoner attacks, you may pay |mana_x| |mana_r|. If you "
+"do, create X 1/1 red Elemental creature tokens that are tapped and "
+"attacking. At the beginning of the next end step, exile those tokens unless "
+"you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:1024
@@ -1205,7 +1359,11 @@ msgid "Cherished Hatchling"
 msgstr ""
 
 #: ../../RIX.rst:1037
-msgid "When Cherished Hatchling dies, you may cast Dinosaur spells this turn as though they had flash, and whenever you cast a Dinosaur spell this turn, it gains \"When this creature enters the battlefield, you may have it fight another target creature.\""
+msgid ""
+"When Cherished Hatchling dies, you may cast Dinosaur spells this turn as "
+"though they had flash, and whenever you cast a Dinosaur spell this turn, it "
+"gains \"When this creature enters the battlefield, you may have it fight "
+"another target creature.\""
 msgstr ""
 
 #: ../../RIX.rst:1045
@@ -1213,7 +1371,9 @@ msgid "Colossal Dreadmaw"
 msgstr ""
 
 #: ../../RIX.rst:1044
-msgid "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)"
+msgid ""
+"Trample (This creature can deal excess combat damage to the player or "
+"planeswalker it's attacking.)"
 msgstr ""
 
 #: ../../RIX.rst:1054
@@ -1221,7 +1381,9 @@ msgid "Crested Herdcaller"
 msgstr ""
 
 #: ../../RIX.rst:1053
-msgid "When Crested Herdcaller enters the battlefield, create a 3/3 green Dinosaur creature token with trample."
+msgid ""
+"When Crested Herdcaller enters the battlefield, create a 3/3 green Dinosaur "
+"creature token with trample."
 msgstr ""
 
 #: ../../RIX.rst:1061
@@ -1229,7 +1391,9 @@ msgid "Deeproot Elite"
 msgstr ""
 
 #: ../../RIX.rst:1060
-msgid "Whenever another Merfolk enters the battlefield under your control, put a +1/+1 counter on target Merfolk you control."
+msgid ""
+"Whenever another Merfolk enters the battlefield under your control, put a +1/"
+"+1 counter on target Merfolk you control."
 msgstr ""
 
 #: ../../RIX.rst:1070
@@ -1237,7 +1401,10 @@ msgid "Enter the Unknown"
 msgstr ""
 
 #: ../../RIX.rst:1067
-msgid "Target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)"
+msgid ""
+"Target creature you control explores. (Reveal the top card of your library. "
+"Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter "
+"on the creature, then put the card back or put it into your graveyard.)"
 msgstr ""
 
 #: ../../RIX.rst:1069
@@ -1249,11 +1416,16 @@ msgid "Forerunner of the Heralds"
 msgstr ""
 
 #: ../../RIX.rst:1076
-msgid "When Forerunner of the Heralds enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle your library and put that card on top of it."
+msgid ""
+"When Forerunner of the Heralds enters the battlefield, you may search your "
+"library for a Merfolk card, reveal it, then shuffle your library and put "
+"that card on top of it."
 msgstr ""
 
 #: ../../RIX.rst:1078
-msgid "Whenever another Merfolk enters the battlefield under your control, put a +1/+1 counter on Forerunner of the Heralds."
+msgid ""
+"Whenever another Merfolk enters the battlefield under your control, put a +1/"
+"+1 counter on Forerunner of the Heralds."
 msgstr ""
 
 #: ../../RIX.rst:1088
@@ -1261,7 +1433,9 @@ msgid "Ghalta, Primal Hunger"
 msgstr ""
 
 #: ../../RIX.rst:1085
-msgid "Ghalta, Primal Hunger costs |mana_x| less to cast, where X is the total power of creatures you control."
+msgid ""
+"Ghalta, Primal Hunger costs |mana_x| less to cast, where X is the total "
+"power of creatures you control."
 msgstr ""
 
 #: ../../RIX.rst:1095
@@ -1285,7 +1459,10 @@ msgid "Hunt the Weak"
 msgstr ""
 
 #: ../../RIX.rst:1108
-msgid "Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)"
+msgid ""
+"Put a +1/+1 counter on target creature you control. Then that creature "
+"fights target creature you don't control. (Each deals damage equal to its "
+"power to the other.)"
 msgstr ""
 
 #: ../../RIX.rst:1116
@@ -1293,7 +1470,9 @@ msgid "Jade Bearer"
 msgstr ""
 
 #: ../../RIX.rst:1115
-msgid "When Jade Bearer enters the battlefield, put a +1/+1 counter on another target Merfolk you control."
+msgid ""
+"When Jade Bearer enters the battlefield, put a +1/+1 counter on another "
+"target Merfolk you control."
 msgstr ""
 
 #: ../../RIX.rst:1123
@@ -1301,7 +1480,9 @@ msgid "Jadecraft Artisan"
 msgstr ""
 
 #: ../../RIX.rst:1122
-msgid "When Jadecraft Artisan enters the battlefield, target creature gets +2/+2 until end of turn."
+msgid ""
+"When Jadecraft Artisan enters the battlefield, target creature gets +2/+2 "
+"until end of turn."
 msgstr ""
 
 #: ../../RIX.rst:1130
@@ -1309,7 +1490,11 @@ msgid "Jadelight Ranger"
 msgstr ""
 
 #: ../../RIX.rst:1129
-msgid "When Jadelight Ranger enters the battlefield, it explores, then it explores again. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard. Then repeat this process.)"
+msgid ""
+"When Jadelight Ranger enters the battlefield, it explores, then it explores "
+"again. (Reveal the top card of your library. Put that card into your hand if "
+"it's a land. Otherwise, put a +1/+1 counter on this creature, then put the "
+"card back or put it into your graveyard. Then repeat this process.)"
 msgstr ""
 
 #: ../../RIX.rst:1137
@@ -1317,7 +1502,10 @@ msgid "Jungleborn Pioneer"
 msgstr ""
 
 #: ../../RIX.rst:1136
-msgid "When Jungleborn Pioneer enters the battlefield, create a 1/1 blue Merfolk creature token with hexproof. (It can't be the target of spells or abilities your opponents control.)"
+msgid ""
+"When Jungleborn Pioneer enters the battlefield, create a 1/1 blue Merfolk "
+"creature token with hexproof. (It can't be the target of spells or abilities "
+"your opponents control.)"
 msgstr ""
 
 #: ../../RIX.rst:1144
@@ -1345,7 +1533,9 @@ msgid "Overgrown Armasaur"
 msgstr ""
 
 #: ../../RIX.rst:1164
-msgid "Enrage — Whenever Overgrown Armasaur is dealt damage, create a 1/1 green Saproling creature token."
+msgid ""
+"Enrage — Whenever Overgrown Armasaur is dealt damage, create a 1/1 green "
+"Saproling creature token."
 msgstr ""
 
 #: ../../RIX.rst:1172
@@ -1353,7 +1543,11 @@ msgid "Path of Discovery"
 msgstr ""
 
 #: ../../RIX.rst:1171
-msgid "Whenever a creature enters the battlefield under your control, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)"
+msgid ""
+"Whenever a creature enters the battlefield under your control, it explores. "
+"(Reveal the top card of your library. Put that card into your hand if it's a "
+"land. Otherwise, put a +1/+1 counter on the creature, then put the card back "
+"or put it into your graveyard.)"
 msgstr ""
 
 #: ../../RIX.rst:1179
@@ -1369,7 +1563,9 @@ msgid "Polyraptor"
 msgstr ""
 
 #: ../../RIX.rst:1185
-msgid "Enrage — Whenever Polyraptor is dealt damage, create a token that's a copy of Polyraptor."
+msgid ""
+"Enrage — Whenever Polyraptor is dealt damage, create a token that's a copy "
+"of Polyraptor."
 msgstr ""
 
 #: ../../RIX.rst:1193
@@ -1385,7 +1581,10 @@ msgid "Swift Warden"
 msgstr ""
 
 #: ../../RIX.rst:1201
-msgid "When Swift Warden enters the battlefield, target Merfolk you control gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
+msgid ""
+"When Swift Warden enters the battlefield, target Merfolk you control gains "
+"hexproof until end of turn. (It can't be the target of spells or abilities "
+"your opponents control.)"
 msgstr ""
 
 #: ../../RIX.rst:1213
@@ -1393,11 +1592,13 @@ msgid "Tendershoot Dryad"
 msgstr ""
 
 #: ../../RIX.rst:1210
-msgid "At the beginning of each upkeep, create a 1/1 green Saproling creature token."
+msgid ""
+"At the beginning of each upkeep, create a 1/1 green Saproling creature token."
 msgstr ""
 
 #: ../../RIX.rst:1212
-msgid "Saprolings you control get +2/+2 as long as you have the city's blessing."
+msgid ""
+"Saprolings you control get +2/+2 as long as you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:1220
@@ -1405,7 +1606,9 @@ msgid "Thrashing Brontodon"
 msgstr ""
 
 #: ../../RIX.rst:1219
-msgid "|mana_1|, Sacrifice Thrashing Brontodon: Destroy target artifact or enchantment."
+msgid ""
+"|mana_1|, Sacrifice Thrashing Brontodon: Destroy target artifact or "
+"enchantment."
 msgstr ""
 
 #: ../../RIX.rst:1229
@@ -1413,11 +1616,15 @@ msgid "Thunderherd Migration"
 msgstr ""
 
 #: ../../RIX.rst:1226
-msgid "As an additional cost to cast this spell, reveal a Dinosaur card from your hand or pay |mana_1|."
+msgid ""
+"As an additional cost to cast this spell, reveal a Dinosaur card from your "
+"hand or pay |mana_1|."
 msgstr ""
 
 #: ../../RIX.rst:1228
-msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid ""
+"Search your library for a basic land card, put it onto the battlefield "
+"tapped, then shuffle your library."
 msgstr ""
 
 #: ../../RIX.rst:1240
@@ -1429,7 +1636,8 @@ msgid "You may play an additional land on each of your turns."
 msgstr ""
 
 #: ../../RIX.rst:1239
-msgid "Wayward Swordtooth can't attack or block unless you have the city's blessing."
+msgid ""
+"Wayward Swordtooth can't attack or block unless you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:1249
@@ -1437,11 +1645,15 @@ msgid "World Shaper"
 msgstr ""
 
 #: ../../RIX.rst:1246
-msgid "Whenever World Shaper attacks, you may put the top three cards of your library into your graveyard."
+msgid ""
+"Whenever World Shaper attacks, you may put the top three cards of your "
+"library into your graveyard."
 msgstr ""
 
 #: ../../RIX.rst:1248
-msgid "When World Shaper dies, put all land cards from your graveyard onto the battlefield tapped."
+msgid ""
+"When World Shaper dies, put all land cards from your graveyard onto the "
+"battlefield tapped."
 msgstr ""
 
 #: ../../RIX.rst:1260
@@ -1453,28 +1665,30 @@ msgid "+1: Each opponent discards a card and loses 2 life."
 msgstr ""
 
 #: ../../RIX.rst:1257
-msgid "−3: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. Sacrifice it at the beginning of the next end step if it has converted mana cost 3 or less."
+msgid ""
+"−3: Gain control of target creature until end of turn. Untap it. It gains "
+"haste until end of turn. Sacrifice it at the beginning of the next end step "
+"if it has converted mana cost 3 or less."
 msgstr ""
 
 #: ../../RIX.rst:1259
-msgid "−8: Each opponent loses life equal to the number of cards in their graveyard."
+msgid ""
+"−8: Each opponent loses life equal to the number of cards in their graveyard."
 msgstr ""
 
 #: ../../RIX.rst:1269
 msgid "Atzocan Seer"
 msgstr ""
 
-#: ../../RIX.rst:1266
-#: ../../RIX.rst:1324
-#: ../../RIX.rst:1355
-#: ../../RIX.rst:1407
-#: ../../RIX.rst:1427
-#: ../../RIX.rst:1497
+#: ../../RIX.rst:1266 ../../RIX.rst:1324 ../../RIX.rst:1355 ../../RIX.rst:1407
+#: ../../RIX.rst:1427 ../../RIX.rst:1497
 msgid "|tap|: Add one mana of any color."
 msgstr ""
 
 #: ../../RIX.rst:1268
-msgid "Sacrifice Atzocan Seer: Return target Dinosaur card from your graveyard to your hand."
+msgid ""
+"Sacrifice Atzocan Seer: Return target Dinosaur card from your graveyard to "
+"your hand."
 msgstr ""
 
 #: ../../RIX.rst:1280
@@ -1482,11 +1696,15 @@ msgid "Azor, the Lawbringer"
 msgstr ""
 
 #: ../../RIX.rst:1277
-msgid "When Azor, the Lawbringer enters the battlefield, each opponent can't cast instant or sorcery spells during that player's next turn."
+msgid ""
+"When Azor, the Lawbringer enters the battlefield, each opponent can't cast "
+"instant or sorcery spells during that player's next turn."
 msgstr ""
 
 #: ../../RIX.rst:1279
-msgid "Whenever Azor attacks, you may pay |mana_x| |mana_w| |mana_u| |mana_u|. If you do, you gain X life and draw X cards."
+msgid ""
+"Whenever Azor attacks, you may pay |mana_x| |mana_w| |mana_u| |mana_u|. If "
+"you do, you gain X life and draw X cards."
 msgstr ""
 
 #: ../../RIX.rst:1291
@@ -1494,7 +1712,9 @@ msgid "Deadeye Brawler"
 msgstr ""
 
 #: ../../RIX.rst:1290
-msgid "Whenever Deadeye Brawler deals combat damage to a player, if you have the city's blessing, draw a card."
+msgid ""
+"Whenever Deadeye Brawler deals combat damage to a player, if you have the "
+"city's blessing, draw a card."
 msgstr ""
 
 #: ../../RIX.rst:1298
@@ -1514,11 +1734,14 @@ msgid "Lifelink"
 msgstr ""
 
 #: ../../RIX.rst:1306
-msgid "Whenever another creature dies, put a +1/+1 counter on Elenda, the Dusk Rose."
+msgid ""
+"Whenever another creature dies, put a +1/+1 counter on Elenda, the Dusk Rose."
 msgstr ""
 
 #: ../../RIX.rst:1308
-msgid "When Elenda dies, create X 1/1 white Vampire creature tokens with lifelink, where X is Elenda's power."
+msgid ""
+"When Elenda dies, create X 1/1 white Vampire creature tokens with lifelink, "
+"where X is Elenda's power."
 msgstr ""
 
 #: ../../RIX.rst:1316
@@ -1526,7 +1749,10 @@ msgid "Hadana's Climb"
 msgstr ""
 
 #: ../../RIX.rst:1315
-msgid "At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. Then if that creature has three or more +1/+1 counters on it, transform Hadana's Climb."
+msgid ""
+"At the beginning of combat on your turn, put a +1/+1 counter on target "
+"creature you control. Then if that creature has three or more +1/+1 counters "
+"on it, transform Hadana's Climb."
 msgstr ""
 
 #: ../../RIX.rst:1327
@@ -1538,7 +1764,9 @@ msgid "(Transforms from Hadana's Climb.)"
 msgstr ""
 
 #: ../../RIX.rst:1326
-msgid "|mana_1| |mana_g| |mana_u|, |tap|: Target creature you control gains flying and gets +X/+X until end of turn, where X is its power."
+msgid ""
+"|mana_1| |mana_g| |mana_u|, |tap|: Target creature you control gains flying "
+"and gets +X/+X until end of turn, where X is its power."
 msgstr ""
 
 #: ../../RIX.rst:1338
@@ -1546,15 +1774,21 @@ msgid "Huatli, Radiant Champion"
 msgstr ""
 
 #: ../../RIX.rst:1333
-msgid "+1: Put a loyalty counter on Huatli, Radiant Champion for each creature you control."
+msgid ""
+"+1: Put a loyalty counter on Huatli, Radiant Champion for each creature you "
+"control."
 msgstr ""
 
 #: ../../RIX.rst:1335
-msgid "−1: Target creature gets +X/+X until end of turn, where X is the number of creatures you control."
+msgid ""
+"−1: Target creature gets +X/+X until end of turn, where X is the number of "
+"creatures you control."
 msgstr ""
 
 #: ../../RIX.rst:1337
-msgid "−8: You get an emblem with \"Whenever a creature enters the battlefield under your control, you may draw a card.\""
+msgid ""
+"−8: You get an emblem with \"Whenever a creature enters the battlefield "
+"under your control, you may draw a card.\""
 msgstr ""
 
 #: ../../RIX.rst:1347
@@ -1566,7 +1800,10 @@ msgid "Enchant creature you control"
 msgstr ""
 
 #: ../../RIX.rst:1346
-msgid "When enchanted creature dies, return it to the battlefield under your control, then return Journey to Eternity to the battlefield transformed under your control."
+msgid ""
+"When enchanted creature dies, return it to the battlefield under your "
+"control, then return Journey to Eternity to the battlefield transformed "
+"under your control."
 msgstr ""
 
 #: ../../RIX.rst:1358
@@ -1578,7 +1815,9 @@ msgid "(Transforms from Journey to Eternity.)"
 msgstr ""
 
 #: ../../RIX.rst:1357
-msgid "|mana_3| |mana_b| |mana_g|, |tap|: Return target creature card from your graveyard to the battlefield."
+msgid ""
+"|mana_3| |mana_b| |mana_g|, |tap|: Return target creature card from your "
+"graveyard to the battlefield."
 msgstr ""
 
 #: ../../RIX.rst:1365
@@ -1586,7 +1825,9 @@ msgid "Jungle Creeper"
 msgstr ""
 
 #: ../../RIX.rst:1364
-msgid "|mana_3| |mana_b| |mana_g|: Return Jungle Creeper from your graveyard to your hand."
+msgid ""
+"|mana_3| |mana_b| |mana_g|: Return Jungle Creeper from your graveyard to "
+"your hand."
 msgstr ""
 
 #: ../../RIX.rst:1376
@@ -1594,7 +1835,9 @@ msgid "Kumena, Tyrant of Orazca"
 msgstr ""
 
 #: ../../RIX.rst:1371
-msgid "Tap another untapped Merfolk you control: Kumena, Tyrant of Orazca can't be blocked this turn."
+msgid ""
+"Tap another untapped Merfolk you control: Kumena, Tyrant of Orazca can't be "
+"blocked this turn."
 msgstr ""
 
 #: ../../RIX.rst:1373
@@ -1602,7 +1845,9 @@ msgid "Tap three untapped Merfolk you control: Draw a card."
 msgstr ""
 
 #: ../../RIX.rst:1375
-msgid "Tap five untapped Merfolk you control: Put a +1/+1 counter on each Merfolk you control."
+msgid ""
+"Tap five untapped Merfolk you control: Put a +1/+1 counter on each Merfolk "
+"you control."
 msgstr ""
 
 #: ../../RIX.rst:1383
@@ -1626,11 +1871,15 @@ msgid "Path of Mettle"
 msgstr ""
 
 #: ../../RIX.rst:1396
-msgid "When Path of Mettle enters the battlefield, it deals 1 damage to each creature that doesn't have first strike, double strike, vigilance, or haste."
+msgid ""
+"When Path of Mettle enters the battlefield, it deals 1 damage to each "
+"creature that doesn't have first strike, double strike, vigilance, or haste."
 msgstr ""
 
 #: ../../RIX.rst:1398
-msgid "Whenever you attack with at least two creatures that have first strike, double strike, vigilance, and/or haste, transform Path of Mettle."
+msgid ""
+"Whenever you attack with at least two creatures that have first strike, "
+"double strike, vigilance, and/or haste, transform Path of Mettle."
 msgstr ""
 
 #: ../../RIX.rst:1412
@@ -1642,11 +1891,15 @@ msgid "(Transforms from Path of Mettle.)"
 msgstr ""
 
 #: ../../RIX.rst:1409
-msgid "|mana_1| |mana_r|, |tap|: Metzali, Tower of Triumph deals 2 damage to each opponent."
+msgid ""
+"|mana_1| |mana_r|, |tap|: Metzali, Tower of Triumph deals 2 damage to each "
+"opponent."
 msgstr ""
 
 #: ../../RIX.rst:1411
-msgid "|mana_2| |mana_w|, |tap|: Choose a creature at random that attacked this turn. Destroy that creature."
+msgid ""
+"|mana_2| |mana_w|, |tap|: Choose a creature at random that attacked this "
+"turn. Destroy that creature."
 msgstr ""
 
 #: ../../RIX.rst:1419
@@ -1654,7 +1907,9 @@ msgid "Profane Procession"
 msgstr ""
 
 #: ../../RIX.rst:1418
-msgid "|mana_3| |mana_w| |mana_b|: Exile target creature. Then if there are three or more cards exiled with Profane Procession, transform it."
+msgid ""
+"|mana_3| |mana_w| |mana_b|: Exile target creature. Then if there are three "
+"or more cards exiled with Profane Procession, transform it."
 msgstr ""
 
 #: ../../RIX.rst:1430
@@ -1666,7 +1921,9 @@ msgid "(Transforms from Profane Procession.)"
 msgstr ""
 
 #: ../../RIX.rst:1429
-msgid "|mana_2| |mana_w| |mana_b|, |tap|: Put a creature card exiled with this permanent onto the battlefield under your control."
+msgid ""
+"|mana_2| |mana_w| |mana_b|, |tap|: Put a creature card exiled with this "
+"permanent onto the battlefield under your control."
 msgstr ""
 
 #: ../../RIX.rst:1437
@@ -1674,7 +1931,9 @@ msgid "Protean Raider"
 msgstr ""
 
 #: ../../RIX.rst:1436
-msgid "Raid — If you attacked with a creature this turn, you may have Protean Raider enter the battlefield as a copy of any creature on the battlefield."
+msgid ""
+"Raid — If you attacked with a creature this turn, you may have Protean "
+"Raider enter the battlefield as a copy of any creature on the battlefield."
 msgstr ""
 
 #: ../../RIX.rst:1444
@@ -1702,7 +1961,9 @@ msgid "Resplendent Griffin"
 msgstr ""
 
 #: ../../RIX.rst:1463
-msgid "Whenever Resplendent Griffin attacks, if you have the city's blessing, put a +1/+1 counter on it."
+msgid ""
+"Whenever Resplendent Griffin attacks, if you have the city's blessing, put a "
+"+1/+1 counter on it."
 msgstr ""
 
 #: ../../RIX.rst:1471
@@ -1710,7 +1971,9 @@ msgid "Siegehorn Ceratops"
 msgstr ""
 
 #: ../../RIX.rst:1470
-msgid "Enrage — Whenever Siegehorn Ceratops is dealt damage, put two +1/+1 counters on it. (It must survive the damage to get the counters.)"
+msgid ""
+"Enrage — Whenever Siegehorn Ceratops is dealt damage, put two +1/+1 counters "
+"on it. (It must survive the damage to get the counters.)"
 msgstr ""
 
 #: ../../RIX.rst:1480
@@ -1726,11 +1989,16 @@ msgid "Storm the Vault"
 msgstr ""
 
 #: ../../RIX.rst:1486
-msgid "Whenever one or more creatures you control deal combat damage to a player, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgid ""
+"Whenever one or more creatures you control deal combat damage to a player, "
+"create a colorless Treasure artifact token with \"|tap|, Sacrifice this "
+"artifact: Add one mana of any color.\""
 msgstr ""
 
 #: ../../RIX.rst:1488
-msgid "At the beginning of your end step, if you control five or more artifacts, transform Storm the Vault."
+msgid ""
+"At the beginning of your end step, if you control five or more artifacts, "
+"transform Storm the Vault."
 msgstr ""
 
 #: ../../RIX.rst:1500
@@ -1754,7 +2022,9 @@ msgid "Vigilance, reach, trample"
 msgstr ""
 
 #: ../../RIX.rst:1508
-msgid "When Zacama, Primal Calamity enters the battlefield, if you cast it, untap all lands you control."
+msgid ""
+"When Zacama, Primal Calamity enters the battlefield, if you cast it, untap "
+"all lands you control."
 msgstr ""
 
 #: ../../RIX.rst:1510
@@ -1774,7 +2044,9 @@ msgid "Awakened Amalgam"
 msgstr ""
 
 #: ../../RIX.rst:1521
-msgid "Awakened Amalgam's power and toughness are each equal to the number of differently named lands you control."
+msgid ""
+"Awakened Amalgam's power and toughness are each equal to the number of "
+"differently named lands you control."
 msgstr ""
 
 #: ../../RIX.rst:1529
@@ -1782,7 +2054,10 @@ msgid "Azor's Gateway"
 msgstr ""
 
 #: ../../RIX.rst:1528
-msgid "|mana_1|, |tap|: Draw a card, then exile a card from your hand. If cards with five or more different converted mana costs are exiled with Azor's Gateway, you gain 5 life, untap Azor's Gateway, and transform it."
+msgid ""
+"|mana_1|, |tap|: Draw a card, then exile a card from your hand. If cards "
+"with five or more different converted mana costs are exiled with Azor's "
+"Gateway, you gain 5 life, untap Azor's Gateway, and transform it."
 msgstr ""
 
 #: ../../RIX.rst:1538
@@ -1802,11 +2077,15 @@ msgid "Captain's Hook"
 msgstr ""
 
 #: ../../RIX.rst:1544
-msgid "Equipped creature gets +2/+0, has menace, and is a Pirate in addition to its other creature types."
+msgid ""
+"Equipped creature gets +2/+0, has menace, and is a Pirate in addition to its "
+"other creature types."
 msgstr ""
 
 #: ../../RIX.rst:1546
-msgid "Whenever Captain's Hook becomes unattached from a permanent, destroy that permanent."
+msgid ""
+"Whenever Captain's Hook becomes unattached from a permanent, destroy that "
+"permanent."
 msgstr ""
 
 #: ../../RIX.rst:1548
@@ -1817,13 +2096,14 @@ msgstr ""
 msgid "Gleaming Barrier"
 msgstr ""
 
-#: ../../RIX.rst:1555
-#: ../../RIX.rst:1564
+#: ../../RIX.rst:1555 ../../RIX.rst:1564
 msgid "Defender"
 msgstr ""
 
 #: ../../RIX.rst:1557
-msgid "When Gleaming Barrier dies, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgid ""
+"When Gleaming Barrier dies, create a colorless Treasure artifact token with "
+"\"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 
 #: ../../RIX.rst:1567
@@ -1831,7 +2111,10 @@ msgid "Golden Guardian"
 msgstr ""
 
 #: ../../RIX.rst:1566
-msgid "|mana_2|: Golden Guardian fights another target creature you control. When Golden Guardian dies this turn, return it to the battlefield transformed under your control."
+msgid ""
+"|mana_2|: Golden Guardian fights another target creature you control. When "
+"Golden Guardian dies this turn, return it to the battlefield transformed "
+"under your control."
 msgstr ""
 
 #: ../../RIX.rst:1578
@@ -1874,13 +2157,14 @@ msgstr ""
 msgid "Orazca Relic"
 msgstr ""
 
-#: ../../RIX.rst:1599
-#: ../../RIX.rst:1635
+#: ../../RIX.rst:1599 ../../RIX.rst:1635
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../RIX.rst:1601
-msgid "|tap|, Sacrifice Orazca Relic: You gain 3 life and draw a card. Activate this ability only if you have the city's blessing."
+msgid ""
+"|tap|, Sacrifice Orazca Relic: You gain 3 life and draw a card. Activate "
+"this ability only if you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:1611
@@ -1892,7 +2176,9 @@ msgid "Cards in graveyards can't be the targets of spells or abilities."
 msgstr ""
 
 #: ../../RIX.rst:1610
-msgid "|mana_4|, |tap|: Exile Silent Gravestone and all cards from all graveyards. Draw a card."
+msgid ""
+"|mana_4|, |tap|: Exile Silent Gravestone and all cards from all graveyards. "
+"Draw a card."
 msgstr ""
 
 #: ../../RIX.rst:1620
@@ -1904,7 +2190,9 @@ msgid "Equipped creature gets +1/+1 and has haste."
 msgstr ""
 
 #: ../../RIX.rst:1619
-msgid "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)"
+msgid ""
+"Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
+"as a sorcery.)"
 msgstr ""
 
 #: ../../RIX.rst:1627
@@ -1912,7 +2200,9 @@ msgid "Traveler's Amulet"
 msgstr ""
 
 #: ../../RIX.rst:1626
-msgid "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgid ""
+"|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land "
+"card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 
 #: ../../RIX.rst:1638
@@ -1920,7 +2210,9 @@ msgid "Arch of Orazca"
 msgstr ""
 
 #: ../../RIX.rst:1637
-msgid "|mana_5|, |tap|: Draw a card. Activate this ability only if you have the city's blessing."
+msgid ""
+"|mana_5|, |tap|: Draw a card. Activate this ability only if you have the "
+"city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:1645
@@ -1928,7 +2220,9 @@ msgid "Evolving Wilds"
 msgstr ""
 
 #: ../../RIX.rst:1644
-msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid ""
+"|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
+"put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
 #: ../../RIX.rst:1654
@@ -2024,7 +2318,9 @@ msgid "−3: Destroy target creature."
 msgstr ""
 
 #: ../../RIX.rst:1735
-msgid "−10: Until end of turn, creatures you control gain deathtouch and \"Whenever this creature deals damage to an opponent, that player loses the game.\""
+msgid ""
+"−10: Until end of turn, creatures you control gain deathtouch and \"Whenever "
+"this creature deals damage to an opponent, that player loses the game.\""
 msgstr ""
 
 #: ../../RIX.rst:1743
@@ -2032,7 +2328,9 @@ msgid "Vampire Champion"
 msgstr ""
 
 #: ../../RIX.rst:1742
-msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
+msgid ""
+"Deathtouch (Any amount of damage this deals to a creature is enough to "
+"destroy it.)"
 msgstr ""
 
 #: ../../RIX.rst:1750
@@ -2040,7 +2338,9 @@ msgid "Vraska's Conquistador"
 msgstr ""
 
 #: ../../RIX.rst:1749
-msgid "Whenever Vraska's Conquistador attacks or blocks, if you control a Vraska planeswalker, target opponent loses 2 life and you gain 2 life."
+msgid ""
+"Whenever Vraska's Conquistador attacks or blocks, if you control a Vraska "
+"planeswalker, target opponent loses 2 life and you gain 2 life."
 msgstr ""
 
 #: ../../RIX.rst:1757
@@ -2048,7 +2348,10 @@ msgid "Vraska's Scorn"
 msgstr ""
 
 #: ../../RIX.rst:1756
-msgid "Target opponent loses 4 life. You may search your library and/or graveyard for a card named Vraska, Scheming Gorgon, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid ""
+"Target opponent loses 4 life. You may search your library and/or graveyard "
+"for a card named Vraska, Scheming Gorgon, reveal it, and put it into your "
+"hand. If you search your library this way, shuffle it."
 msgstr ""
 
 #: ../../RIX.rst:1768
@@ -2056,7 +2359,10 @@ msgid "Angrath, Minotaur Pirate"
 msgstr ""
 
 #: ../../RIX.rst:1763
-msgid "+2: Angrath, Minotaur Pirate deals 1 damage to target opponent or planeswalker and each creature that player or that planeswalker's controller controls."
+msgid ""
+"+2: Angrath, Minotaur Pirate deals 1 damage to target opponent or "
+"planeswalker and each creature that player or that planeswalker's controller "
+"controls."
 msgstr ""
 
 #: ../../RIX.rst:1765
@@ -2064,7 +2370,9 @@ msgid "−3: Return target Pirate card from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../RIX.rst:1767
-msgid "−11: Destroy all creatures target opponent controls. Angrath, Minotaur Pirate deals damage to that player equal to their total power."
+msgid ""
+"−11: Destroy all creatures target opponent controls. Angrath, Minotaur "
+"Pirate deals damage to that player equal to their total power."
 msgstr ""
 
 #: ../../RIX.rst:1775
@@ -2072,7 +2380,8 @@ msgid "Angrath's Ambusher"
 msgstr ""
 
 #: ../../RIX.rst:1774
-msgid "Angrath's Ambusher gets +2/+0 as long as you control an Angrath planeswalker."
+msgid ""
+"Angrath's Ambusher gets +2/+0 as long as you control an Angrath planeswalker."
 msgstr ""
 
 #: ../../RIX.rst:1780
@@ -2084,7 +2393,11 @@ msgid "Angrath's Fury"
 msgstr ""
 
 #: ../../RIX.rst:1788
-msgid "Destroy target creature. Angrath's Fury deals 3 damage to target player or planeswalker. You may search your library and/or graveyard for a card named Angrath, Minotaur Pirate, reveal it, and put it into your hand. If you search your library this way, shuffle it."
+msgid ""
+"Destroy target creature. Angrath's Fury deals 3 damage to target player or "
+"planeswalker. You may search your library and/or graveyard for a card named "
+"Angrath, Minotaur Pirate, reveal it, and put it into your hand. If you "
+"search your library this way, shuffle it."
 msgstr ""
 
 #: ../../RIX.rst:1797
@@ -2098,4 +2411,3 @@ msgstr ""
 #: ../../RIX.rst:1797
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
-
