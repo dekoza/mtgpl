@@ -90,6 +90,14 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 .. toctree::
    :hidden:
 
+   DOM
+   FRF
+   GRN
+   JOU_god
+   M19
+   NPH
+   RIX
+   XLN 
    ORI
    BFZ
    DTK

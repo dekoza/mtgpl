@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-16 01:27+0100\n"
+"POT-Creation-Date: 2018-12-15 23:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,2391 +17,1870 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../FRF.rst:5
-# 7345517278b443309b0fc8a176170ddf
 msgid "Fate Reforged"
 msgstr ""
 
-#: ../../FRF.rst:9
-# da92892300654292b0fb31235987f357
-msgid "Abzan Advantage"
-msgstr ""
-
-#: ../../FRF.rst:8
-# 43169d86a29c446c93782bd340340f0a
-msgid "Target player sacrifices an enchantment. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../FRF.rst:13
-# 97dc930d4bc145afaa97a477453ddc07
-msgid "Abzan Beastmaster"
-msgstr ""
-
-#: ../../FRF.rst:12
-# 57660b5ecb974ef981bf3452d2c48b3a
-msgid "At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness."
-msgstr ""
-
 #: ../../FRF.rst:17
-# 20547b1ab0f54f09aaeee9e8a553ec19
-msgid "Abzan Kin-Guard"
-msgstr ""
-
-#: ../../FRF.rst:16
-# 5585cf5cc3164e7da3deedbc8f79adde
-msgid "Abzan Kin-Guard has lifelink as long as you control a white or black permanent."
-msgstr ""
-
-#: ../../FRF.rst:25
-# e9105403868d42d8a33ac01df43fbb11
-msgid "Abzan Runemark"
-msgstr ""
-
-#: ../../FRF.rst:20
-#: ../../FRF.rst:58
-#: ../../FRF.rst:342
-#: ../../FRF.rst:442
-#: ../../FRF.rst:506
-#: ../../FRF.rst:706
-#: ../../FRF.rst:822
-#: ../../FRF.rst:874
-# 21df4fe792514d9abdc7cc98abe6e1fa
-# 7f14d23b104e4719a69b97ab570a1aa2
-# 58030630e3634652a601cc633daba67c
-# 5411fc78f6294e77809d803364707041
-# c172de38acf0480da5b2c0b7b60926e3
-# 18b3992b604947b3a912862d7e59eaf8
-# e8ffec80e9bd4ce6a58ff57f82bfd26b
-# 4f4837c708784912b7c63a72c77d5c79
-msgid "Enchant creature"
-msgstr ""
-
-#: ../../FRF.rst:22
-#: ../../FRF.rst:444
-#: ../../FRF.rst:508
-#: ../../FRF.rst:824
-#: ../../FRF.rst:876
-# ff37eb248b914452a4cc72d9c1a9be94
-# 553d5e5110aa4aaca3b9e815a8fab048
-# 91e77370bb3140f0aa535d410eedec7d
-# 86417cf004aa40e7b5970f4d031d189c
-# e457f111289048d9869862aa6c714b60
-msgid "Enchanted creature gets +2/+2."
-msgstr ""
-
-#: ../../FRF.rst:24
-# b0d731af1dda4654b59c1b59df04441d
-msgid "Enchanted creature has vigilance as long as you control a black or green permanent."
-msgstr ""
-
-#: ../../FRF.rst:31
-# bb38198427a14cc0b5e0df190c74a72a
-msgid "Abzan Skycaptain"
-msgstr ""
-
-#: ../../FRF.rst:28
-#: ../../FRF.rst:84
-#: ../../FRF.rst:96
-#: ../../FRF.rst:100
-#: ../../FRF.rst:224
-#: ../../FRF.rst:260
-#: ../../FRF.rst:464
-#: ../../FRF.rst:484
-#: ../../FRF.rst:544
-#: ../../FRF.rst:586
-#: ../../FRF.rst:764
-#: ../../FRF.rst:900
-#: ../../FRF.rst:962
-# 8798452ab16945b3a0e97ce9621c141a
-# 913d0c7f053d4940993d40dceb77cce3
-# 8f8da49760714bd6b53fa4486c66fe6c
-# 3f20c309eba745509b2fca2a81bbd04c
-# a972d96cf8f3499381eee73635f4153f
-# ca044e967202422799d9c7e0d65a5872
-# 09df89c97c424a729a90fca4dafdca3e
-# ba1ac15ba2ab4059a6c4e3bd4d2b2c50
-# 7a998f6941404422807e8d31b70db28f
-# 440a919514f04816ae024e47344b817e
-# 60f83cb056b14dc9b13b12afbbae257f
-# fa245029a57e42da95e4a1e3ba9080b7
-# 85ba3e0eb0ab498e88f50ac63e822aff
-msgid "Flying"
-msgstr ""
-
-#: ../../FRF.rst:30
-# 28332767fc11455bad163226b604e111
-msgid "When Abzan Skycaptain dies, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)"
-msgstr ""
-
-#: ../../FRF.rst:39
-# d8f7a339e69d4c3cbdb05c93f95c7711
-msgid "Ainok Guide"
-msgstr ""
-
-#: ../../FRF.rst:34
-# 3390c6233c044b5682ca536cbf2196a8
-msgid "When Ainok Guide enters the battlefield, choose one —"
-msgstr ""
-
-#: ../../FRF.rst:36
-# dab6dd37b22f4d0d929ae3782e0ac963
-msgid "Put a +1/+1 counter on Ainok Guide."
-msgstr ""
-
-#: ../../FRF.rst:38
-# 3f850fd60b0948df90fe748136ff8481
-msgid "Search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it."
-msgstr ""
-
-#: ../../FRF.rst:45
-# b69af29634ce4127b22db2e2161a9c6d
-msgid "Alesha, Who Smiles at Death"
-msgstr ""
-
-#: ../../FRF.rst:42
-# f84a2ed013d145f58fe64e54b04a34b4
-msgid "First strike"
-msgstr ""
-
-#: ../../FRF.rst:44
-# a1508e963b8241c1823e2dbfb7e73d47
-msgid "Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb| |mana_wb|. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking."
-msgstr ""
-
-#: ../../FRF.rst:49
-# 7c47cb8fe29c4c70a35837aab0e425b3
-msgid "Alesha's Vanguard"
-msgstr ""
-
-#: ../../FRF.rst:48
-# 2a341a86d1944cc386b704541f10f717
-msgid "Dash |mana_2| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../FRF.rst:55
-# f171a69d39f14bffb2c0736a89bc68a7
-msgid "Ambush Krotiq"
-msgstr ""
-
-#: ../../FRF.rst:52
-#: ../../FRF.rst:1018
-# cab0e930bf8e42a5875c37dbcd7d6896
-# a8fb8677397e4c93a16bdf462dfddb4d
-msgid "Trample"
-msgstr ""
-
-#: ../../FRF.rst:54
-# 9d3da691965244528272c15e6d7d6d79
-msgid "When Ambush Krotiq enters the battlefield, return another creature you control to its owner's hand."
-msgstr ""
-
-#: ../../FRF.rst:63
-# 41f83b47723147e5b9dde82d4ec1f969
-msgid "Ancestral Vengeance"
-msgstr ""
-
-#: ../../FRF.rst:60
-# f0784e5250a04b9c856f635e515ec62f
-msgid "When Ancestral Vengeance enters the battlefield, put a +1/+1 counter on target creature you control."
-msgstr ""
-
-#: ../../FRF.rst:62
-# 41b44f917a5e4867a0fa1173c0331b46
-msgid "Enchanted creature gets -1/-1."
-msgstr ""
-
-#: ../../FRF.rst:67
-# 2da1364fc1714d7daa485286d4468bcd
-msgid "Arashin Cleric"
-msgstr ""
-
-#: ../../FRF.rst:66
-# d9b3abc9e3934f9b9ffbbcae1b4dc963
-msgid "When Arashin Cleric enters the battlefield, you gain 3 life."
-msgstr ""
-
-#: ../../FRF.rst:71
-# 6d7674c64c0d4250800a1e2321d3e142
-msgid "Arashin War Beast"
-msgstr ""
-
-#: ../../FRF.rst:70
-# 51d0a0e4cd764eafa0c6fad92175c2d9
-msgid "Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:75
-# b752b50401464f6d81f0b312bd5e871c
-msgid "Arcbond"
-msgstr ""
-
-#: ../../FRF.rst:74
-# feacb8f47d824ee7aa9998dcc9b49e2c
-msgid "Choose target creature. Whenever that creature is dealt damage this turn, it deals that much damage to each other creature and each player."
-msgstr ""
-
-#: ../../FRF.rst:81
-# 7c4c3544dc544e11912d72fb0362f1f5
-msgid "Archers of Qarsi"
-msgstr ""
-
-#: ../../FRF.rst:78
-#: ../../FRF.rst:430
-# 7a877cc38c5f492790e8a65d0e3fbd3a
-# 3a23b46f46a4481f89eae32c4159fdff
-msgid "Defender"
-msgstr ""
-
-#: ../../FRF.rst:80
-# cf07030fec7945dd99ac2811598c4450
-msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
-
-#: ../../FRF.rst:87
-# 008e64483ded46aa92624b47fb0a06a3
-msgid "Archfiend of Depravity"
-msgstr ""
-
-#: ../../FRF.rst:86
-# c739eb9dc76b4c9097caf45dc6d0e30e
-msgid "At the beginning of each opponent's end step, that player chooses up to two creatures he or she controls, then sacrifices the rest."
-msgstr ""
-
-#: ../../FRF.rst:93
-# 690580dc2c754363a3101e741e29b34b
-msgid "Atarka, World Render"
-msgstr ""
-
-#: ../../FRF.rst:90
-# 65d099b46ef3418ca8a56c3f4d7e0b23
-msgid "Flying, trample"
-msgstr ""
-
-#: ../../FRF.rst:92
-# 9c18d5b2af1d41418b4a2864d2067197
-msgid "Whenever a Dragon you control attacks, it gains double strike until end of turn."
-msgstr ""
-
-#: ../../FRF.rst:97
-# cacfb6ec7a6a449c8635a256eb454864
-msgid "Aven Skirmisher"
-msgstr ""
-
-#: ../../FRF.rst:107
-# 11f446960d2140a5b6cb965d3b01a0a9
-msgid "Aven Surveyor"
-msgstr ""
-
-#: ../../FRF.rst:102
-# 9042d8e50a3d449db768a6b5b04d8263
-msgid "When Aven Surveyor enters the battlefield, choose one —"
-msgstr ""
-
-#: ../../FRF.rst:104
-# 26d7f84996dd4aebac63458611c7fa1c
-msgid "Put a +1/+1 counter on Aven Surveyor."
-msgstr ""
-
-#: ../../FRF.rst:106
-# f09aeef18f0d444a8f6f356bea48b545
-msgid "Return target creature to its owner's hand."
-msgstr ""
-
-#: ../../FRF.rst:111
-# c754d6451c264cedb6e354b270b7aa72
-msgid "Bathe in Dragonfire"
-msgstr ""
-
-#: ../../FRF.rst:110
-# 39073fab04fe47a686e03a5d8cb2bc2f
-msgid "Bathe in Dragonfire deals 4 damage to target creature."
-msgstr ""
-
-#: ../../FRF.rst:115
-# eb9cd83a830f4c839fd872ce61edecb2
-msgid "Battle Brawler"
-msgstr ""
-
-#: ../../FRF.rst:114
-# 29eccba5ab65436aa6ed08f05b8e6eca
-msgid "As long as you control a red or white permanent, Battle Brawler gets +1/+0 and has first strike."
-msgstr ""
-
-#: ../../FRF.rst:121
-# a1ec57ec9d1446ed847a995a21d468fd
-msgid "Battlefront Krushok"
-msgstr ""
-
-#: ../../FRF.rst:118
-# ef96e56841844106846dfd87760369bf
-msgid "Battlefront Krushok can't be blocked by more than one creature."
-msgstr ""
-
-#: ../../FRF.rst:120
-# 35607957ea0e414e92aa3f55683d49bd
-msgid "Each creature you control with a +1/+1 counter on it can't be blocked by more than one creature."
-msgstr ""
-
-#: ../../FRF.rst:129
-# cf4d1d085a4b4c779bd6e3110a9250bb
-msgid "Bloodfell Caves"
-msgstr ""
-
-#: ../../FRF.rst:124
-# aa2436488451450cb2473b755ee13dc4
-msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr ""
-
-#: ../../FRF.rst:126
-# 584bee6d1d0d49c2b7649bba8f8416ad
-msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
-msgstr ""
-
-#: ../../FRF.rst:128
-# da5d7af39b4d4e1e93c10f01d7d47fdb
-msgid "|tap|: Add |mana_b| or |mana_r| to your mana pool."
-msgstr ""
-
-#: ../../FRF.rst:133
-# 32411eb9f6354a48a2db5d0758c7a21a
-msgid "Bloodfire Enforcers"
-msgstr ""
-
-#: ../../FRF.rst:132
-# f71c7a0ab36348b1ae25c61c72e4ba28
-msgid "Bloodfire Enforcers has first strike and trample as long as an instant card and a sorcery card are in your graveyard."
-msgstr ""
-
-#: ../../FRF.rst:141
-# b1c13444fc9d4d049a8ac59ed3a15559
-msgid "Blossoming Sands"
-msgstr ""
-
-#: ../../FRF.rst:136
-# a759aa48a5f646d980f71dde46eb8ef5
-msgid "Blossoming Sands enters the battlefield tapped."
-msgstr ""
-
-#: ../../FRF.rst:138
-# e8c2e9e3435d43a281c76d0639755643
-msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
-msgstr ""
-
-#: ../../FRF.rst:140
-# 715d651b175340fdb3ad4ce06f2422e5
-msgid "|tap|: Add |mana_g| or |mana_w| to your mana pool."
-msgstr ""
-
-#: ../../FRF.rst:145
-# b927d198b0b84858be6d8d8a2014122d
-msgid "Break Through the Line"
-msgstr ""
-
-#: ../../FRF.rst:144
-# ea4bd5b60a9d4a17af31d5ae1772bced
-msgid "|mana_r|: Target creature with power 2 or less gains haste until end of turn and can't be blocked this turn."
-msgstr ""
-
-#: ../../FRF.rst:151
-# c40f25bd17a64118a4cde2c3e89bfd5c
-msgid "Brutal Hordechief"
-msgstr ""
-
-#: ../../FRF.rst:148
-# f2da462d6cb5484cbe296d41b7a18bf9
-msgid "Whenever a creature you control attacks, defending player loses 1 life and you gain 1 life."
-msgstr ""
-
-#: ../../FRF.rst:150
-# aa1ec7a57e5c48c191f2d15f8e198070
-msgid "|mana_3| |mana_rw| |mana_rw|: Creatures your opponents control block this turn if able, and you choose how those creatures block."
-msgstr ""
-
-#: ../../FRF.rst:155
-# f4e3f8f6ff124d86becf888c31992dfd
-msgid "Cached Defenses"
-msgstr ""
-
-#: ../../FRF.rst:154
-# 9f142395cf4d485cb801f641b7762242
-msgid "Bolster 3. (Choose a creature with the least toughness among creatures you control and put three +1/+1 counters on it.)"
-msgstr ""
-
-#: ../../FRF.rst:159
-# 541a67d3acc44020a4554f715b7eaf1c
-msgid "Channel Harm"
-msgstr ""
-
-#: ../../FRF.rst:158
-# dd73017b2a0b42ffacf4ebcac9e84bd5
-msgid "Prevent all damage that would be dealt to you and permanents you control this turn by sources you don't control. If damage is prevented this way, you may have Channel Harm deal that much damage to target creature."
-msgstr ""
-
-#: ../../FRF.rst:167
-# e444c359e5204c0bb265da9a1b85fe3d
-msgid "Citadel Siege"
-msgstr ""
-
-#: ../../FRF.rst:162
-# a145017aa1bd4b7ab4379cc5ce5bc08d
-msgid "As Citadel Siege enters the battlefield, choose Khans or Dragons."
-msgstr ""
-
-#: ../../FRF.rst:164
-# e6fcdc01605b4493b55bcb457361af9e
-msgid "Khans — At the beginning of combat on your turn, put two +1/+1 counters on target creature you control."
-msgstr ""
-
-#: ../../FRF.rst:166
-# 8d9716acf7c3427dbc5d72f2e3bc53a7
-msgid "Dragons — At the beginning of combat on each opponent's turn, tap target creature that player controls."
-msgstr ""
-
-#: ../../FRF.rst:173
-# d4fa2caa52e147a2bc1a36f485227699
-msgid "Cloudform"
-msgstr ""
-
-#: ../../FRF.rst:170
-# 791ce5f8f5bb414686a38458dee8bb15
-msgid "When Cloudform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Cloudform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:172
-# 4ccf69ac9c3b4ea3affa64275f1c3314
-msgid "Enchanted creature has flying and hexproof."
-msgstr ""
-
-#: ../../FRF.rst:179
-# dabee7195cc348d6b53306d87d503164
-msgid "Collateral Damage"
-msgstr ""
-
-#: ../../FRF.rst:176
-# 34b70c41a9df4c8e86b5eb879e5f7240
-msgid "As an additional cost to cast Collateral Damage, sacrifice a creature."
-msgstr ""
-
-#: ../../FRF.rst:178
-# 2563785e08e449bf8ff95dcc49ccd485
-msgid "Collateral Damage deals 3 damage to target creature or player."
-msgstr ""
-
-#: ../../FRF.rst:187
-# dfe8ed606aed4ca1a16fdaccafe5ffc7
-msgid "Crucible of the Spirit Dragon"
-msgstr ""
-
-#: ../../FRF.rst:182
-# 68e08fa3841d42d2a339a5c7d9d710fd
-msgid "|tap|: Add |mana_1| to your mana pool."
-msgstr ""
-
-#: ../../FRF.rst:184
-# 7ec22bf5ad414952a460d46eccef5448
-msgid "|mana_1|, |tap|: Put a storage counter on Crucible of the Spirit Dragon."
-msgstr ""
-
-#: ../../FRF.rst:186
-# 256b7d10a95d45d3852b3e613d654552
-msgid "|tap|, Remove X storage counters from Crucible of the Spirit Dragon: Add X mana in any combination of colors to your mana pool. Spend this mana only to cast Dragon spells or activate abilities of Dragons."
-msgstr ""
-
-#: ../../FRF.rst:195
-# f7fb505f4dd943fc9e82cb9fdd35e83c
-msgid "Crux of Fate"
-msgstr ""
-
-#: ../../FRF.rst:190
-#: ../../FRF.rst:280
-#: ../../FRF.rst:556
-#: ../../FRF.rst:692
-#: ../../FRF.rst:932
-# 351686e2084f4fed965dbf8aab8b7a8b
-# dd6f3c11a960474cb6fc8e25e2e90a89
-# e42b905c7a9a46669c3bfd0b10d1eb88
-# cf32aa81212b4304b82bbea170dcbd22
-# 62cca1338dcd4e20836c169828a5c17b
-msgid "Choose one —"
-msgstr ""
-
-#: ../../FRF.rst:192
-# e50e7d118ec84ecc90360dffe8cbc079
-msgid "Destroy all Dragon creatures."
-msgstr ""
-
-#: ../../FRF.rst:194
-# bac71f3e5920430bbeba6fbd58e52dbb
-msgid "Destroy all non-Dragon creatures."
-msgstr ""
-
-#: ../../FRF.rst:201
-# 2f111abeb53e48f398e4d33f7602b29c
-msgid "Cunning Strike"
-msgstr ""
-
-#: ../../FRF.rst:198
-# 577399f19fcb4ddd9168d66c4e16db66
-msgid "Cunning Strike deals 2 damage to target creature and 2 damage to target player."
-msgstr ""
-
-#: ../../FRF.rst:200
-#: ../../FRF.rst:628
-#: ../../FRF.rst:664
-# 2ed4b4ffa6984844af0dae41825f3335
-# f5c219b89e7546e8beb444b73514e027
-# 9e5a42097207471c940ccdac90320474
-msgid "Draw a card."
-msgstr ""
-
-#: ../../FRF.rst:209
-# f4dd56ca58e84f1e9bd101dbb0789737
-msgid "Daghatar the Adamant"
-msgstr ""
-
-#: ../../FRF.rst:204
-#: ../../FRF.rst:246
-# 17c7ce59fc6b42dfa62a686bf7948c69
-# d0226fc3986a4bc1be91a9f394801468
-msgid "Vigilance"
-msgstr ""
-
-#: ../../FRF.rst:206
-# fd33c674499543908768b4225d616562
-msgid "Daghatar the Adamant enters the battlefield with four +1/+1 counters on it."
-msgstr ""
-
-#: ../../FRF.rst:208
-# cbcc383db25c4ad4a9236d947a72c854
-msgid "|mana_1| |mana_bg| |mana_bg|: Move a +1/+1 counter from target creature onto a second target creature."
-msgstr ""
-
-#: ../../FRF.rst:213
-# 6269f11277cd41afbcb2daf2ef9df291
-msgid "Dark Deal"
-msgstr ""
-
-#: ../../FRF.rst:212
-# df83c8195f4c419bb66c1c48146ff56f
-msgid "Each player discards all the cards in his or her hand, then draws that many cards minus one."
-msgstr ""
-
-#: ../../FRF.rst:221
-# d4088123f2d04b2a9ca5063b1f135516
-msgid "Defiant Ogre"
-msgstr ""
-
-#: ../../FRF.rst:216
-# ddb2e717307b40589f431c1034f8debc
-msgid "When Defiant Ogre enters the battlefield, choose one —"
-msgstr ""
-
-#: ../../FRF.rst:218
-# 41e2da4e55614d968bf447c0b72b5de9
-msgid "Put a +1/+1 counter on Defiant Ogre."
-msgstr ""
-
-#: ../../FRF.rst:220
-# 36c14b3af79f47fa81107713d4f4474f
-msgid "Destroy target artifact."
-msgstr ""
-
-#: ../../FRF.rst:227
-# d6e8174090634e04a6c953618cf0d0b2
-msgid "Destructor Dragon"
-msgstr ""
-
-#: ../../FRF.rst:226
-# 9b3eee59039c47f981aa4021223278a7
-msgid "When Destructor Dragon dies, destroy target noncreature permanent."
-msgstr ""
-
-#: ../../FRF.rst:231
-# d01020e7a3f84ca9bffcd9c1ba40920e
-msgid "Diplomacy of the Wastes"
-msgstr ""
-
-#: ../../FRF.rst:230
-# 4c612a4d3deb4248a1a20e46ac9e841d
-msgid "Target opponent reveals his or her hand. You choose a nonland card from it. That player discards that card. If you control a Warrior, that player loses 2 life."
-msgstr ""
-
-#: ../../FRF.rst:239
-# 6a1214c112f74c45a7d2180ecbf4e96d
-msgid "Dismal Backwater"
-msgstr ""
-
-#: ../../FRF.rst:234
-# f121f42d4c204cd9a5997b382073e958
-msgid "Dismal Backwater enters the battlefield tapped."
-msgstr ""
-
-#: ../../FRF.rst:236
-# 8dba136075de4fe3980f88e244be9be2
-msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
-msgstr ""
-
-#: ../../FRF.rst:238
-# 4daf11d211054d209a644c0c4a1dd665
-msgid "|tap|: Add |mana_u| or |mana_b| to your mana pool."
-msgstr ""
-
-#: ../../FRF.rst:243
-# 38f8e3d66c114c5a874b86230c6fcff6
-msgid "Douse in Gloom"
-msgstr ""
-
-#: ../../FRF.rst:242
-# 7c5f99ed56b845fda54b8f8399b2d35c
-msgid "Douse in Gloom deals 2 damage to target creature and you gain 2 life."
-msgstr ""
-
-#: ../../FRF.rst:249
-# fd8e62ae7b9b4fa2a1883747cf0479f2
-msgid "Dragon Bell Monk"
-msgstr ""
-
-#: ../../FRF.rst:248
-#: ../../FRF.rst:450
-#: ../../FRF.rst:486
-#: ../../FRF.rst:490
-#: ../../FRF.rst:550
-#: ../../FRF.rst:564
-#: ../../FRF.rst:700
-#: ../../FRF.rst:770
-# 29f940ab81a4461ba48173bd89e5f34c
-# 978863925dd54498897b45edc9324048
-# 063397f3278b4c919ea221e493725f50
-# d4c9d379b9c0429b900c88ba26c3e8be
-# 5f17ab563b08454f9ca9c3b523972c4b
-# 0700bf5b6f23408c8508ec4baf05dfa0
-# 0fa0f393abf040038d6354b9c9d96e65
-# 96e6098e402047eab7578c4a399b4311
-msgid "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
-msgstr ""
-
-#: ../../FRF.rst:253
-# cc538100ef5d462bb65bad3d5a31e07a
-msgid "Dragonrage"
-msgstr ""
-
-#: ../../FRF.rst:252
-# fbba70dcba4c45298f002596b13d63b0
-msgid "Add |mana_r| to your mana pool for each attacking creature you control. Until end of turn, attacking creatures you control gain \\\"|mana_r|: This creature gets +1/+0 until end of turn.\\\""
-msgstr ""
-
-#: ../../FRF.rst:257
-# 152a8c939f034832b53dde20845bcc7a
-msgid "Dragonscale General"
-msgstr ""
-
-#: ../../FRF.rst:256
-# c28ebd7c13484d728030f512e7351e0e
-msgid "At the beginning of your end step, bolster X, where X is the number of tapped creatures you control. (Choose a creature with the least toughness among creatures you control and put X +1/+1 counters on it.)"
-msgstr ""
-
-#: ../../FRF.rst:263
-# 2cb3a349e6784806adab76ad7e64ff6f
-msgid "Dromoka, the Eternal"
-msgstr ""
-
-#: ../../FRF.rst:262
-# ad9f978bbc95464195cce57019ad4cee
-msgid "Whenever a Dragon you control attacks, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)"
-msgstr ""
-
-#: ../../FRF.rst:269
-# dfaed490c224404d9c9c66c0ff458d30
-msgid "Elite Scaleguard"
-msgstr ""
-
-#: ../../FRF.rst:266
-# b88359346b964d378bd2de0d77de29e4
-msgid "When Elite Scaleguard enters the battlefield, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)"
-msgstr ""
-
-#: ../../FRF.rst:268
-# 3ac97b7b3677491895b405bfc36cca61
-msgid "Whenever a creature you control with a +1/+1 counter on it attacks, tap target creature defending player controls."
-msgstr ""
-
-#: ../../FRF.rst:273
-# b5985dc37e094ba08836d6f79c8968b6
-msgid "Enhanced Awareness"
-msgstr ""
-
-#: ../../FRF.rst:272
-# b0ffa7cfa12b4e6f8dc63ce4dee748fa
-msgid "Draw three cards, then discard a card."
-msgstr ""
-
-#: ../../FRF.rst:277
-# 6d623a817bcc4862828423a2ccd5efae
-msgid "Ethereal Ambush"
-msgstr ""
-
-#: ../../FRF.rst:276
-# 590eb09bf27d4a6baef12f29040b7257
-msgid "Manifest the top two cards of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:285
-# 64781e21e3014cfb94c6638d1a5e9b99
-msgid "Fascination"
-msgstr ""
-
-#: ../../FRF.rst:282
-# d74deb32d3c74746b1a32af022093c33
-msgid "Each player draws X cards."
-msgstr ""
-
-#: ../../FRF.rst:284
-# 9c0b123f1a5142e9bc43c70808f13051
-msgid "Each player puts the top X cards of his or her library into his or her graveyard."
-msgstr ""
-
-#: ../../FRF.rst:289
-# c071319d07f9401aa83a4937c8349669
-msgid "Fearsome Awakening"
-msgstr ""
-
-#: ../../FRF.rst:288
-# 7d2741c406b64040aa331e81e2e60f2e
-msgid "Return target creature card from your graveyard to the battlefield. If it's a Dragon, put two +1/+1 counters on it."
-msgstr ""
-
-#: ../../FRF.rst:291
-# 751e5ab30c6c44e2ad340c1f6139950a
-msgid "Feral Krushok"
-msgstr ""
-
-#: ../../FRF.rst:297
-# a86981e155a1417b84bd4c8a0b1654b3
-msgid "Fierce Invocation"
-msgstr ""
-
-#: ../../FRF.rst:296
-# 6819e34b72db49f8b6c47ad9ca694bee
-msgid "Manifest the top card of your library, then put two +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:303
-# a998b39b60674fd6a442ad27a950a8b1
-msgid "Flamerush Rider"
-msgstr ""
-
-#: ../../FRF.rst:300
-# 821f92b656e94757adc70458fdaadb15
-msgid "Whenever Flamerush Rider attacks, put a token onto the battlefield tapped and attacking that's a copy of another target attacking creature. Exile the token at end of combat."
-msgstr ""
-
-#: ../../FRF.rst:302
-# 7a153310f0a4478d82c0be28f4e08bcb
-msgid "Dash |mana_2| |mana_r| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../FRF.rst:311
-# 26c3041fe6b14d9a90f622f3cc810e34
-msgid "Flamewake Phoenix"
-msgstr ""
-
-#: ../../FRF.rst:306
-# 651a951868614966845640a836e606f4
-msgid "Flying, haste"
-msgstr ""
-
-#: ../../FRF.rst:308
-# 27bb3a9f4ad5436ab30a1c42f6fd8589
-msgid "Flamewake Phoenix attacks each turn if able."
-msgstr ""
-
-#: ../../FRF.rst:310
-# 7c13460b3dbb4b7e940b8cf3f2137460
-msgid "Ferocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay |mana_r|. If you do, return Flamewake Phoenix from your graveyard to the battlefield."
-msgstr ""
-
-#: ../../FRF.rst:315
-# db54d8fb5c2b4faf915ddb68f8d1a5cf
-msgid "Forest"
-msgstr ""
-
-#: ../../FRF.rst:314
-# 13023543ccce462db790c502a90f8a49
-msgid "G"
-msgstr ""
-
-#: ../../FRF.rst:319
-# 543787714a674de2a7aaa3831dd2edab
-msgid "Formless Nurturing"
-msgstr ""
-
-#: ../../FRF.rst:318
-# 26d3ae4327a748f6a421810fb49c3634
-msgid "Manifest the top card of your library, then put a +1/+1 counter on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:323
-# 4c48d148513b41c3b960c54e0fb3fb0b
-msgid "Friendly Fire"
-msgstr ""
-
-#: ../../FRF.rst:322
-# 33eb4a2d2ab9417b87a574396c5d0467
-msgid "Target creature's controller reveals a card at random from his or her hand. Friendly Fire deals damage to that creature and that player equal to the revealed card's converted mana cost."
-msgstr ""
-
-#: ../../FRF.rst:327
-# 5b477d86bf9c4e1d99fb7de909e8043a
-msgid "Frontier Mastodon"
-msgstr ""
-
-#: ../../FRF.rst:326
-# 62aad698c39a439e8637d3015d403b30
-msgid "Ferocious — Frontier Mastodon enters the battlefield with a +1/+1 counter on it if you control a creature with power 4 or greater."
-msgstr ""
-
-#: ../../FRF.rst:335
-# d8efa346fac34c28bac63bfea00ba669
-msgid "Frontier Siege"
-msgstr ""
-
-#: ../../FRF.rst:330
-# a2e334aa96fe4080aa8cc87abb758d45
-msgid "As Frontier Siege enters the battlefield, choose Khans or Dragons."
-msgstr ""
-
-#: ../../FRF.rst:332
-# b9aa4c2bc3bb46a28db29150d9db4174
-msgid "Khans — At the beginning of each of your main phases, add |mana_g| |mana_g| to your mana pool."
-msgstr ""
-
-#: ../../FRF.rst:334
-# 8e13318048fe4b13a5e7de39d47bbb54
-msgid "Dragons — Whenever a creature with flying enters the battlefield under your control, you may have it fight target creature you don't control."
-msgstr ""
-
-#: ../../FRF.rst:339
-# b6f003142b3940599d093009aff91d1e
-msgid "Frost Walker"
-msgstr ""
-
-#: ../../FRF.rst:338
-# f548d3eb1b0b44278871a7c8449f39bb
-msgid "When Frost Walker becomes the target of a spell or ability, sacrifice it."
-msgstr ""
-
-#: ../../FRF.rst:345
-# a84583a3fc104e278b4e72a81f640871
-msgid "Fruit of the First Tree"
-msgstr ""
-
-#: ../../FRF.rst:344
-# 1d2cfc4446b849ff84e1c46298dd67eb
-msgid "When enchanted creature dies, you gain X life and draw X cards, where X is its toughness."
-msgstr ""
-
-#: ../../FRF.rst:349
-# c2478d5f368b406d9558d1e796b5f04c
-msgid "Ghastly Conscription"
-msgstr ""
-
-#: ../../FRF.rst:348
-# 36e6ce80fd284cf6b6a9a1454d2f44f7
-msgid "Exile all creature cards from target player's graveyard in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:355
-# c25e71fccfb84facad8572bf7277f36e
-msgid "Goblin Boom Keg"
-msgstr ""
-
-#: ../../FRF.rst:352
-# 9605d105382746b082db6539191743d7
-msgid "At the beginning of your upkeep, sacrifice Goblin Boom Keg."
-msgstr ""
-
-#: ../../FRF.rst:354
-# 810b81048553434ba87ce36c7bb74350
-msgid "When Goblin Boom Keg is put into a graveyard from the battlefield, it deals 3 damage to target creature or player."
-msgstr ""
-
-#: ../../FRF.rst:361
-# 4548104c629542ab98f805fe1860d858
-msgid "Goblin Heelcutter"
-msgstr ""
-
-#: ../../FRF.rst:358
-# bb468dce44c84c2e8a4cea8799510927
-msgid "Whenever Goblin Heelcutter attacks, target creature can't block this turn."
-msgstr ""
-
-#: ../../FRF.rst:360
-#: ../../FRF.rst:942
-# 3bb05d0f233a4259890307ae8aba059e
-# dcd1a44b766f4374a5b787a2924ae122
-msgid "Dash |mana_2| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../FRF.rst:363
-# cbb120c4268b41b9b453839f57739ed2
-msgid "Gore Swine"
-msgstr ""
-
-#: ../../FRF.rst:369
-# 63c146618b9e4768b5d25e8e9dbc82b5
-msgid "Grave Strength"
-msgstr ""
-
-#: ../../FRF.rst:368
-# 3150e7a356c24330b0aa7ab04ab832d7
-msgid "Choose target creature. Put the top three cards of your library into your graveyard, then put a +1/+1 counter on that creature for each creature card in your graveyard."
-msgstr ""
-
-#: ../../FRF.rst:371
-# 0e6e9c4d5d26404fadaa3c62159e5d2a
-msgid "Great-Horn Krushok"
-msgstr ""
-
-#: ../../FRF.rst:377
-# 2e50ab7e54404ecbaf66adde7d39a064
-msgid "Grim Contest"
-msgstr ""
-
-#: ../../FRF.rst:376
-# ab80938a68c84247bb0152248d16541a
-msgid "Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its toughness to the other."
-msgstr ""
-
-#: ../../FRF.rst:381
-# 6488b28576a849b8877a4a36018b1191
-msgid "Gurmag Angler"
-msgstr ""
-
-#: ../../FRF.rst:380
-#: ../../FRF.rst:678
-#: ../../FRF.rst:780
-#: ../../FRF.rst:808
-#: ../../FRF.rst:850
-#: ../../FRF.rst:856
-#: ../../FRF.rst:862
-#: ../../FRF.rst:994
-# 0fe3e7ca53cf4a84ba854392e98e7d47
-# 3696ac50ab5c47fc8bec17099e826461
-# 94c404a3d96f43128af9099756974f90
-# da5d3e46a06f43dca6d4d3a08bd0958d
-# f9ed44757eea4dd79d44a9f116ab53f5
-# 5f79d9930de54c5fbbf353d5e40a1e7b
-# 178f2d97fb8a4a259f5896a72bdd6ae2
-# e85ee953b9c9473cae7e8dfe5e20848e
-msgid "Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)"
-msgstr ""
-
-#: ../../FRF.rst:385
-# c24ecb0fcc5e4767ab0aba606b5e1c04
-msgid "Harsh Sustenance"
-msgstr ""
-
-#: ../../FRF.rst:384
-# 2d77d5606f0344baa483110f6424d155
-msgid "Harsh Sustenance deals X damage to target creature or player and you gain X life, where X is the number of creatures you control."
-msgstr ""
-
-#: ../../FRF.rst:393
-# ef83b3f24da74ade85156974045d1991
-msgid "Hero's Blade"
-msgstr ""
-
-#: ../../FRF.rst:388
-# e0c582a91c43405883342f28a2c47e71
-msgid "Equipped creature gets +3/+2."
-msgstr ""
-
-#: ../../FRF.rst:390
-# f95446e3b89a48899fe110e53ab1207b
-msgid "Whenever a legendary creature enters the battlefield under your control, you may attach Hero's Blade to it."
-msgstr ""
-
-#: ../../FRF.rst:392
-# 9124b47aebc844c5953a4dcf2a135410
-msgid "Equip |mana_4|"
-msgstr ""
-
-#: ../../FRF.rst:397
-# 79f7174c71dc4ebc889f96adbe127cdb
-msgid "Hewed Stone Retainers"
-msgstr ""
-
-#: ../../FRF.rst:396
-# 4f6025fdfee54a3ab1ef4b77f962ab13
-msgid "Cast Hewed Stone Retainers only if you've cast another spell this turn."
-msgstr ""
-
-#: ../../FRF.rst:401
-# 1cb7a5ff925e439487d0174058cdbc2d
-msgid "Honor's Reward"
-msgstr ""
-
-#: ../../FRF.rst:400
-# 8ea770dd7e2843d4aeaa91cebdc372f6
-msgid "You gain 4 life. Bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)"
-msgstr ""
-
-#: ../../FRF.rst:409
-# 8509ab7162ca4e10bffa72099d90bf06
-msgid "Hooded Assassin"
-msgstr ""
-
-#: ../../FRF.rst:404
-# 4ebe764196104a0baabfb42af3c0cc21
-msgid "When Hooded Assassin enters the battlefield, choose one —"
-msgstr ""
-
-#: ../../FRF.rst:406
-# cfd56186012449578076f14446896c65
-msgid "Put a +1/+1 counter on Hooded Assassin."
-msgstr ""
-
-#: ../../FRF.rst:408
-# c66872fe90354c1a9e0eddef0ae589fe
-msgid "Destroy target creature that was dealt damage this turn."
-msgstr ""
-
-#: ../../FRF.rst:413
-# 20c78149c6be49c190258738dc35bb23
-msgid "Humble Defector"
-msgstr ""
-
-#: ../../FRF.rst:412
-# 743ad2eccdc64ddaa52bce90cdfd2711
-msgid "|tap|: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn."
-msgstr ""
-
-#: ../../FRF.rst:417
-# f7154209d7d74967b0573e9ba47991ce
-msgid "Hungering Yeti"
-msgstr ""
-
-#: ../../FRF.rst:416
-# 7f839e50622e456d9f7fd35d2db07f81
-msgid "As long as you control a green or blue permanent, you may cast Hungering Yeti as though it had flash. (You may cast it any time you could cast an instant.)"
-msgstr ""
-
-#: ../../FRF.rst:421
-# 4f6ff150f81343c8bebdd18a546e5ea4
-msgid "Hunt the Weak"
-msgstr ""
-
-#: ../../FRF.rst:420
-# 3ac2330668114eabab52f929a252deeb
-msgid "Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)"
-msgstr ""
-
-#: ../../FRF.rst:425
-# 01d49c8844bc4b6886ec5c5563275944
-msgid "Island"
-msgstr ""
-
-#: ../../FRF.rst:424
-# 39a8ee9f01084d6f99feb4c062432c30
-msgid "U"
-msgstr ""
-
-#: ../../FRF.rst:433
-# d1e79afcbd584f53b8627a6c766d8f99
-msgid "Jeskai Barricade"
-msgstr ""
-
-#: ../../FRF.rst:428
-# 053629695d6a45a68d9cf3eeb8c397aa
-msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
-
-#: ../../FRF.rst:432
-# a98815eeeb764e1287e4564fe538b799
-msgid "When Jeskai Barricade enters the battlefield, you may return another target creature you control to its owner's hand."
-msgstr ""
-
-#: ../../FRF.rst:439
-# 151e0ed0724c44bf9a2eaf267297d72b
-msgid "Jeskai Infiltrator"
-msgstr ""
-
-#: ../../FRF.rst:436
-# a4419cea93e94c078d207c643a811439
-msgid "Jeskai Infiltrator can't be blocked as long as you control no other creatures."
-msgstr ""
-
-#: ../../FRF.rst:438
-# 85cc311a5e7c414888a28c3a9dba83ec
-msgid "When Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:447
-# cbe66c29b0f04e299f134f39c5932542
-msgid "Jeskai Runemark"
-msgstr ""
-
-#: ../../FRF.rst:446
-# 89b30849b93044b08f8dbb6abcb68dc9
-msgid "Enchanted creature has flying as long as you control a red or white permanent."
-msgstr ""
-
-#: ../../FRF.rst:453
-# 1ddef6ef91f7497ead1043a4082796fe
-msgid "Jeskai Sage"
-msgstr ""
-
-#: ../../FRF.rst:452
-# e61994b159e54a35bd26cfa0b2a03cc4
-msgid "When Jeskai Sage dies, draw a card."
-msgstr ""
-
-#: ../../FRF.rst:461
-# 213536ccdddf46a9b862bab4a076a7c9
-msgid "Jungle Hollow"
-msgstr ""
-
-#: ../../FRF.rst:456
-# 63ab3785d9e34dffb1e258eda492b95b
-msgid "Jungle Hollow enters the battlefield tapped."
-msgstr ""
-
-#: ../../FRF.rst:458
-# 1d16d7b3084347979e4a7487f5d6c97a
-msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
-msgstr ""
-
-#: ../../FRF.rst:460
-# 298af8ad32384d06997041fe369a02ff
-msgid "|tap|: Add |mana_b| or |mana_g| to your mana pool."
-msgstr ""
-
-#: ../../FRF.rst:469
-# 4fb879f9759c4f328718b7875f03fb34
-msgid "Kolaghan, the Storm's Fury"
-msgstr ""
-
-#: ../../FRF.rst:466
-# 836dc4fb66a94a92967aff4031d80807
-msgid "Whenever a Dragon you control attacks, creatures you control get +1/+0 until end of turn."
-msgstr ""
-
-#: ../../FRF.rst:468
-# 1d5115baa9b340a2bc209d233bf23d3e
-msgid "Dash |mana_3| |mana_b| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../FRF.rst:475
-# 42d6b4ae981b4deaa3744b93cf455660
-msgid "Lightform"
-msgstr ""
-
-#: ../../FRF.rst:472
-# 71d1685e307c46b7be1be5eaff089047
-msgid "When Lightform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Lightform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:474
-# 2a7ba69e0f694715adfba123d8fb460b
-msgid "Enchanted creature has flying and lifelink."
-msgstr ""
-
-#: ../../FRF.rst:481
-# d17152b07ce64c2680851fbedca4e4d9
-msgid "Lightning Shrieker"
-msgstr ""
-
-#: ../../FRF.rst:478
-# 9c55c8cc82c24e3dbeefe3532a68ea6b
-msgid "Flying, trample, haste"
-msgstr ""
-
-#: ../../FRF.rst:480
-# 74bd9f5e51f6414cbd8dcb1d0000568c
-msgid "At the beginning of the end step, Lightning Shrieker's owner shuffles it into his or her library."
-msgstr ""
-
-#: ../../FRF.rst:487
-# f200e17fec354285a79561d3ca39c43f
-msgid "Lotus Path Djinn"
-msgstr ""
-
-#: ../../FRF.rst:493
-# 1932ee648257455996ebd4efb4e24251
-msgid "Lotus-Eye Mystics"
-msgstr ""
-
-#: ../../FRF.rst:492
-# 563082f172cc41439c05924a980747bd
-msgid "When Lotus-Eye Mystics enters the battlefield, return target enchantment card from your graveyard to your hand."
-msgstr ""
-
-#: ../../FRF.rst:497
-# ba731f7a0aa44cc7b34bc31973e1e35f
-msgid "Map the Wastes"
-msgstr ""
-
-#: ../../FRF.rst:496
-# ffa1a0360be14bdba8f4737ef57eeb60
-msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../FRF.rst:503
-# bb6d93c412744055b3db51ed2c5f25f9
-msgid "Marang River Prowler"
-msgstr ""
-
-#: ../../FRF.rst:500
-# ab8ca0e637d847918fafd96a7f9b1343
-msgid "Marang River Prowler can't block and can't be blocked."
-msgstr ""
-
-#: ../../FRF.rst:502
-# 6521f09b8ffc44c09ef2157eb4edd179
-msgid "You may cast Marang River Prowler from your graveyard as long as you control a black or green permanent."
-msgstr ""
-
-#: ../../FRF.rst:511
-# 93094cca7869422a98c4f850fbf5d0d6
-msgid "Mardu Runemark"
-msgstr ""
-
-#: ../../FRF.rst:510
-# d137fb8305c342638f31297610c85e2f
-msgid "Enchanted creature has first strike as long as you control a white or black permanent."
-msgstr ""
-
-#: ../../FRF.rst:515
-# 18a1ccc655d04e949fc136742536da70
-msgid "Mardu Scout"
-msgstr ""
-
-#: ../../FRF.rst:514
-# e6083f4d52004f43a87f1b60b8801957
-msgid "Dash |mana_1| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../FRF.rst:521
-# 7c1fe33bf75545cead4e6cad7d591bc5
-msgid "Mardu Shadowspear"
-msgstr ""
-
-#: ../../FRF.rst:518
-# eee6880b6fcd4bb28bab58101c35f2aa
-msgid "Whenever Mardu Shadowspear attacks, each opponent loses 1 life."
-msgstr ""
-
-#: ../../FRF.rst:520
-# 0397ecfb30964c239d36f3fe6d7c46e0
-msgid "Dash |mana_1| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../FRF.rst:527
-# 5d07a588c88f4fb1b38476cbd6486b3e
-msgid "Mardu Strike Leader"
-msgstr ""
-
-#: ../../FRF.rst:524
-# 50f320634a4042e0bb6f3fe8ef45641c
-msgid "Whenever Mardu Strike Leader attacks, put a 2/1 black Warrior creature token onto the battlefield."
-msgstr ""
-
-#: ../../FRF.rst:526
-# 4c79c4fe05384b24893e604655081c09
-msgid "Dash |mana_3| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
-msgstr ""
-
-#: ../../FRF.rst:531
-# 24b39297aed84c0d93b54709f3511dae
-msgid "Mardu Woe-Reaper"
-msgstr ""
-
-#: ../../FRF.rst:530
-# ab2c1a3bb82c4429811ae5ec7ca1e3ad
-msgid "Whenever Mardu Woe-Reaper or another Warrior enters the battlefield under your control, you may exile target creature card from a graveyard. If you do, you gain 1 life."
-msgstr ""
-
-#: ../../FRF.rst:537
-# c89d7e26d65c4d70bf0bcd7275e2d06b
-msgid "Mastery of the Unseen"
-msgstr ""
-
-#: ../../FRF.rst:534
-# afecb9bdebe1452188ef2ec00f4f0846
-msgid "Whenever a permanent you control is turned face up, you gain 1 life for each creature you control."
-msgstr ""
-
-#: ../../FRF.rst:536
-# 5a653eeea4764dec870ba0a41d223d71
-msgid "|mana_3| |mana_w|: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:541
-# 025b1a717167425aafdf0c3316fbc0fc
-msgid "Merciless Executioner"
-msgstr ""
-
-#: ../../FRF.rst:540
-# 5080e9b2a76944bfb5015b9f3114f526
-msgid "When Merciless Executioner enters the battlefield, each player sacrifices a creature."
-msgstr ""
-
-#: ../../FRF.rst:547
-# 15081e5c08ec4df69360057449e395ec
-msgid "Mindscour Dragon"
-msgstr ""
-
-#: ../../FRF.rst:546
-# c277f59f202d48f1aafc051ea89c5cc5
-msgid "Whenever Mindscour Dragon deals combat damage to an opponent, target player puts the top four cards of his or her library into his or her graveyard."
-msgstr ""
-
-#: ../../FRF.rst:553
-# affddca1b53a46d58406aaeb9f94abad
-msgid "Mistfire Adept"
-msgstr ""
-
-#: ../../FRF.rst:552
-# 5e9f796793c2478d820b639cd0d876e9
-msgid "Whenever you cast a noncreature spell, target creature gains flying until end of turn."
-msgstr ""
-
-#: ../../FRF.rst:561
-# f4d64f83b6204779a76dc3871eefdf99
-msgid "Mob Rule"
-msgstr ""
-
-#: ../../FRF.rst:558
-# ab10d413bdb34947a4e1f0d57d736f05
-msgid "Gain control of all creatures with power 4 or greater until end of turn. Untap those creatures. They gain haste until end of turn."
-msgstr ""
-
-#: ../../FRF.rst:560
-# a833dd0737494d3681984334fa7adf77
-msgid "Gain control of all creatures with power 3 or less until end of turn. Untap those creatures. They gain haste until end of turn."
-msgstr ""
-
-#: ../../FRF.rst:567
-# 1eee018fb92742f6bca4ae822dc3e497
-msgid "Monastery Mentor"
-msgstr ""
-
-#: ../../FRF.rst:566
-# 382f8a724796455ab24c69c18a2d5b4d
-msgid "Whenever you cast a noncreature spell, put a 1/1 white Monk creature token with prowess onto the battlefield."
-msgstr ""
-
-#: ../../FRF.rst:575
-# 04bdcb00704c447b888c2a5090018c50
-msgid "Monastery Siege"
-msgstr ""
-
-#: ../../FRF.rst:570
-# a297ff5f447a4c3cb5c7bd57c14193a2
-msgid "As Monastery Siege enters the battlefield, choose Khans or Dragons."
-msgstr ""
-
-#: ../../FRF.rst:572
-# 3919ed64acd742f68592b51b294027d7
-msgid "Khans — At the beginning of your draw step, draw an additional card, then discard a card."
-msgstr ""
-
-#: ../../FRF.rst:574
-# c56010d15a164e409d25553ec71841e3
-msgid "Dragons — Spells your opponents cast that target you or a permanent you control cost |mana_2| more to cast."
-msgstr ""
-
-#: ../../FRF.rst:579
-# 1adb011caa054b52a9cf255e623baff2
-msgid "Mountain"
-msgstr ""
-
-#: ../../FRF.rst:578
-# e28820b6d9c64b019b10af7cf1a34d9d
-msgid "R"
-msgstr ""
-
-#: ../../FRF.rst:583
-# 830a8b214d714d758b106260cc9b9bd2
-msgid "Neutralizing Blast"
-msgstr ""
-
-#: ../../FRF.rst:582
-# b25e19886d9a4a5b86c08052fc16eb93
-msgid "Counter target multicolored spell."
-msgstr ""
-
-#: ../../FRF.rst:589
-# ddc4496e7da5419c80d72a9e2c1c68a9
-msgid "Noxious Dragon"
-msgstr ""
-
-#: ../../FRF.rst:588
-# be76145208b74a748b5218a5610f69f4
-msgid "When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less."
-msgstr ""
-
-#: ../../FRF.rst:595
-# 1e7f3c69324d4b3c8a19867bf2fb26ae
-msgid "Ojutai, Soul of Winter"
-msgstr ""
-
-#: ../../FRF.rst:592
-# c89ca8c622f44262a0178c82bf6d77a2
-msgid "Flying, vigilance"
-msgstr ""
-
-#: ../../FRF.rst:594
-# 48c927671a1e435eb85cff6817f5de9d
-msgid "Whenever a Dragon you control attacks, tap target nonland permanent an opponent controls. That permanent doesn't untap during its controller's next untap step."
-msgstr ""
-
-#: ../../FRF.rst:599
-# 95f56c05fff94f96815f4ed379d47401
-msgid "Orc Sureshot"
-msgstr ""
-
-#: ../../FRF.rst:598
-# 07ef9d38e4fc4b269b27208c35c630ca
-msgid "Whenever another creature enters the battlefield under your control, target creature an opponent controls gets -1/-1 until end of turn."
-msgstr ""
-
-#: ../../FRF.rst:607
-# e9992ce1fb754dccad566bb83ae3e835
-msgid "Outpost Siege"
-msgstr ""
-
-#: ../../FRF.rst:602
-# 79fb0502f5ab43589a91ac6d990d8d88
-msgid "As Outpost Siege enters the battlefield, choose Khans or Dragons."
-msgstr ""
-
-#: ../../FRF.rst:604
-# 803c06a1657c481eba21fd3e00fedeff
-msgid "Khans — At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card."
-msgstr ""
-
-#: ../../FRF.rst:606
-# 8b54ca03f44a4c23b6c9599461cfedda
-msgid "Dragons — Whenever a creature you control leaves the battlefield, Outpost Siege deals 1 damage to target creature or player."
-msgstr ""
-
-#: ../../FRF.rst:615
-# b08ad7f1e8c042118b00f18b9cea7862
-msgid "Palace Siege"
-msgstr ""
-
-#: ../../FRF.rst:610
-# 9a63874e1a4a4e69a7b1efd7c34e616a
-msgid "As Palace Siege enters the battlefield, choose Khans or Dragons."
-msgstr ""
-
-#: ../../FRF.rst:612
-# b4c47c9fbebb41d4b962bf45abe8c85e
-msgid "Khans — At the beginning of your upkeep, return target creature card from your graveyard to your hand."
-msgstr ""
-
-#: ../../FRF.rst:614
-# f94b34cea7584de9b43ca19afcd4bd09
-msgid "Dragons — At the beginning of your upkeep, each opponent loses 2 life and you gain 2 life."
-msgstr ""
-
-#: ../../FRF.rst:619
-# 92b63d3034a9411bb1a267449e3c67a9
-msgid "Pilgrim of the Fires"
-msgstr ""
-
-#: ../../FRF.rst:618
-# d8b132fc23374d47957494560cd6b7fe
-msgid "First strike, trample"
-msgstr ""
-
-#: ../../FRF.rst:623
-# c493433ce60d47ea936a5f9032496f71
-msgid "Plains"
-msgstr ""
-
-#: ../../FRF.rst:622
-# ca1ac21d5d9a4b3e8d9c2508e646b115
-msgid "W"
-msgstr ""
-
-#: ../../FRF.rst:629
-# d0c1e72443e24308921a9afc1cceadba
-msgid "Pressure Point"
-msgstr ""
-
-#: ../../FRF.rst:626
-# 799238b63db1489c93808f2f8d500654
-msgid "Tap target creature."
-msgstr ""
-
-#: ../../FRF.rst:633
-# 58a14153b4034dbc9335aeed23db34b9
-msgid "Pyrotechnics"
-msgstr ""
-
-#: ../../FRF.rst:632
-# 352dd4cce4394c6287eed4aca751b477
-msgid "Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players."
-msgstr ""
-
-#: ../../FRF.rst:637
-# 8c45137152a0489483b8efde9f09eed9
-msgid "Qarsi High Priest"
-msgstr ""
-
-#: ../../FRF.rst:636
-# 3db92265264a44f3bbbd686a809bf37b
-msgid "|mana_1| |mana_b|, |tap|, Sacrifice another creature: Manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:643
-# 647112eb14c34a76a649fe93f8f0d7be
-msgid "Rageform"
-msgstr ""
-
-#: ../../FRF.rst:640
-# 1e0c287cb31b4857bf023537a606eb88
-msgid "When Rageform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Rageform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:642
-# 891c8bccb9df4cc2b552d6b692f51a88
-msgid "Enchanted creature has double strike. (It deals both first-strike and regular combat damage.)"
-msgstr ""
-
-#: ../../FRF.rst:647
-# edc7c0f5cdfb41d4940c08b532214010
-msgid "Rakshasa's Disdain"
-msgstr ""
-
-#: ../../FRF.rst:646
-# 5cf2232a19304bf1b972f28b87720ba0
-msgid "Counter target spell unless its controller pays |mana_1| for each card in your graveyard."
-msgstr ""
-
-#: ../../FRF.rst:651
-# 77d7812ecec84037afb687bb5c5c25d4
-msgid "Rally the Ancestors"
-msgstr ""
-
-#: ../../FRF.rst:650
-# 369f4b738b6943a4a515682cf3332059
-msgid "Return each creature card with converted mana cost X or less from your graveyard to the battlefield. Exile those creatures at the beginning of your next upkeep. Exile Rally the Ancestors."
-msgstr ""
-
-#: ../../FRF.rst:655
-# 7f94012206ce460297ab214ef4cdf12c
-msgid "Reach of Shadows"
-msgstr ""
-
-#: ../../FRF.rst:654
-# ecacb173f8aa450a9adb8a5b18a6ad03
-msgid "Destroy target creature that's one or more colors."
-msgstr ""
-
-#: ../../FRF.rst:659
-# c4a1048e578f421e9a98649d5e1450d0
-msgid "Reality Shift"
-msgstr ""
-
-#: ../../FRF.rst:658
-# daf79e89918d4fb691f4f2044cc31888
-msgid "Exile target creature. Its controller manifests the top card of his or her library. (That player puts the top card of his or her library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)"
-msgstr ""
-
-#: ../../FRF.rst:665
-# 9930e613ed444861b24e15a042061661
-msgid "Refocus"
-msgstr ""
-
-#: ../../FRF.rst:662
-# cff6f3822403400481e39927991e4596
-msgid "Untap target creature."
-msgstr ""
-
-#: ../../FRF.rst:671
-# 4c1235f1a1ab4b9c86b9655bb11242be
-msgid "Renowned Weaponsmith"
-msgstr ""
-
-#: ../../FRF.rst:668
-# 8405cf98cd2e466b92581a7cbe385eb2
-msgid "|tap|: Add |mana_2| to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts."
-msgstr ""
-
-#: ../../FRF.rst:670
-# d9ef164095934573b05dfd448687c712
-msgid "|mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library."
-msgstr ""
-
-#: ../../FRF.rst:675
-# da08e42a5dcc48fb96526f8b786a4427
-msgid "Return to the Earth"
-msgstr ""
-
-#: ../../FRF.rst:674
-# a1ea4a76873c44dea1ce0c4b9e990046
-msgid "Destroy target artifact, enchantment, or creature with flying."
-msgstr ""
-
-#: ../../FRF.rst:681
-# 4cc02c3a801d4a60a0d5ab2a26b17e70
-msgid "Rite of Undoing"
-msgstr ""
-
-#: ../../FRF.rst:680
-# b197c7165b1542e0b26ba4448ea26076
-msgid "Return target nonland permanent you control and target nonland permanent you don't control to their owners' hands."
-msgstr ""
-
-#: ../../FRF.rst:689
-# 5ce8c636d48144abab12a6d96b1912d8
-msgid "Rugged Highlands"
-msgstr ""
-
-#: ../../FRF.rst:684
-# 588a23b51cca469fbe766ac552134795
-msgid "Rugged Highlands enters the battlefield tapped."
-msgstr ""
-
-#: ../../FRF.rst:686
-# d9b82f48e7584558867a6e8381afde32
-msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
-msgstr ""
-
-#: ../../FRF.rst:688
-# f079dfdf9aad4305a2137b7f25636a16
-msgid "|tap|: Add |mana_r| or |mana_g| to your mana pool."
-msgstr ""
-
-#: ../../FRF.rst:697
-# 31dd3986077a42498391e44fffc1e32d
-msgid "Ruthless Instincts"
-msgstr ""
-
-#: ../../FRF.rst:694
-# a5bbb2ed6a9942d49f5697cc69c5132b
-msgid "Target nonattacking creature gains reach and deathtouch until end of turn. Untap it."
-msgstr ""
-
-#: ../../FRF.rst:696
-# 2a42bda08bca4b029f110777e69cfa21
-msgid "Target attacking creature gets +2/+2 and gains trample until end of turn."
-msgstr ""
-
-#: ../../FRF.rst:703
-# e978caafa0954cfcbccd63bf1cd82b33
-msgid "Sage-Eye Avengers"
-msgstr ""
-
-#: ../../FRF.rst:702
-# f1a245eafe314b98b42c40ef8d7b9c8c
-msgid "Whenever Sage-Eye Avengers attacks, you may return target creature to its owner's hand if its power is less than Sage-Eye Avengers's power."
-msgstr ""
-
-#: ../../FRF.rst:711
-# 225fca38ed20412a833961e463135618
-msgid "Sage's Reverie"
-msgstr ""
-
-#: ../../FRF.rst:708
-# b590153699984d1dbba10611cb71cf5b
-msgid "When Sage's Reverie enters the battlefield, draw a card for each Aura you control that's attached to a creature."
-msgstr ""
-
-#: ../../FRF.rst:710
-# 3bd6d4b5988b4ce18f5dbd2ffc3f1a8a
-msgid "Enchanted creature gets +1/+1 for each Aura you control that's attached to a creature."
-msgstr ""
-
-#: ../../FRF.rst:715
-# 58d21ea5cc634e5e9b287f57fb514699
-msgid "Sandblast"
-msgstr ""
-
-#: ../../FRF.rst:714
-# 60f0c01e25c9425e85f2a3d700e1b34f
-msgid "Sandblast deals 5 damage to target attacking or blocking creature."
-msgstr ""
-
-#: ../../FRF.rst:721
-# ad166950d42d4e389eff7d88b87dcf33
-msgid "Sandsteppe Mastodon"
-msgstr ""
-
-#: ../../FRF.rst:718
-# 58c9ff8a92b2486f8c8a9eebf9f9b5a4
-msgid "Reach"
-msgstr ""
-
-#: ../../FRF.rst:720
-# 752807ebb9ce4ece8ff063a0502c9f7e
-msgid "When Sandsteppe Mastodon enters the battlefield, bolster 5. (Choose a creature with the least toughness among creatures you control and put five +1/+1 counters on it.)"
-msgstr ""
-
-#: ../../FRF.rst:729
-# 24db489073ac48b8bdc2b429694fb520
-msgid "Sandsteppe Outcast"
-msgstr ""
-
-#: ../../FRF.rst:724
-# 1235b885a48c46889f3fb34526949631
-msgid "When Sandsteppe Outcast enters the battlefield, choose one —"
-msgstr ""
-
-#: ../../FRF.rst:726
-# e683eea8c99b422c83abb584bb328051
-msgid "Put a +1/+1 counter on Sandsteppe Outcast."
-msgstr ""
-
-#: ../../FRF.rst:728
-# ae8c0938cdeb4806829eb5fab8310cc9
-msgid "Put a 1/1 white Spirit creature token with flying onto the battlefield."
-msgstr ""
-
-#: ../../FRF.rst:737
-# 30fcad58603449698f31769ce9b4a651
-msgid "Scoured Barrens"
-msgstr ""
-
-#: ../../FRF.rst:732
-# ea4db5af406f4b779f9d1803b6cb88cc
-msgid "Scoured Barrens enters the battlefield tapped."
-msgstr ""
-
-#: ../../FRF.rst:734
-# 3dd74a44cca44190b11b59a089bbc427
-msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
-msgstr ""
-
-#: ../../FRF.rst:736
-# 29c9db40b05f4a00af9937d91ca0bf84
-msgid "|tap|: Add |mana_w| or |mana_b| to your mana pool."
-msgstr ""
-
-#: ../../FRF.rst:743
-# 4feeb84880cd48bca6b428e9eb04b6bb
-msgid "Scroll of the Masters"
-msgstr ""
-
-#: ../../FRF.rst:740
-# 74d55d0decb9422abf72c8dfd091b862
-msgid "Whenever you cast a noncreature spell, put a lore counter on Scroll of the Masters."
-msgstr ""
-
-#: ../../FRF.rst:742
-# feb8825eae224161a371b32c4b58fe66
-msgid "|mana_3|, |tap|: Target creature you control gets +1/+1 until end of turn for each lore counter on Scroll of the Masters."
-msgstr ""
-
-#: ../../FRF.rst:751
-# f49f35b5599645c28cdf6f40c00e06d3
-msgid "Shaman of the Great Hunt"
-msgstr ""
-
-#: ../../FRF.rst:746
-# 3eb73fc7359343729b85587c3f509a3c
-msgid "Haste"
-msgstr ""
-
-#: ../../FRF.rst:748
-# 198ac28cfb714ab1ae49f0e66b42a8f8
-msgid "Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on it."
-msgstr ""
-
-#: ../../FRF.rst:750
-# b71877a98e9a49c097b44f78fe6822c5
-msgid "Ferocious — |mana_2| |mana_gu| |mana_gu|: Draw a card for each creature you control with power 4 or greater."
-msgstr ""
-
-#: ../../FRF.rst:757
-# 62341d95032e4c8e8f2a58038f8f8ba7
-msgid "Shamanic Revelation"
-msgstr ""
-
-#: ../../FRF.rst:754
-# f6b03e244b044530ab5d68e680195fb6
-msgid "Draw a card for each creature you control."
-msgstr ""
-
-#: ../../FRF.rst:756
-# ed19cfbf98c04c228077eaed1d26ca37
-msgid "Ferocious — You gain 4 life for each creature you control with power 4 or greater."
-msgstr ""
-
-#: ../../FRF.rst:761
-# 8f6d149dabd74108aa7a8af8830c3d02
-msgid "Shifting Loyalties"
-msgstr ""
-
-#: ../../FRF.rst:760
-# d6b0a1807c7e409bad508db1bc7b1b88
-msgid "Exchange control of two target permanents that share a card type. (Artifact, creature, enchantment, land, and planeswalker are card types.)"
-msgstr ""
-
-#: ../../FRF.rst:767
-# 224363d732824c35a62ef1fe1b5cb0b1
-msgid "Shockmaw Dragon"
-msgstr ""
-
-#: ../../FRF.rst:766
-# 98d4ee2003c34a15a6bbe5d130641374
-msgid "Whenever Shockmaw Dragon deals combat damage to a player, it deals 1 damage to each creature that player controls."
-msgstr ""
-
-#: ../../FRF.rst:773
-# e181d64c76d6447593e5712318b7afdc
-msgid "Shu Yun, the Silent Tempest"
-msgstr ""
-
-#: ../../FRF.rst:772
-# 5c6803f5ca3249f2b3755329ebd2b006
-msgid "Whenever you cast a noncreature spell, you may pay |mana_rw| |mana_rw|. If you do, target creature gains double strike until end of turn."
-msgstr ""
-
-#: ../../FRF.rst:777
-# 00cb7e0b4cf54587a576f83420aa73ad
-msgid "Sibsig Host"
-msgstr ""
-
-#: ../../FRF.rst:776
-# 87009acf8686417ea0f685245f18cfa4
-msgid "When Sibsig Host enters the battlefield, each player puts the top three cards of his or her library into his or her graveyard."
-msgstr ""
-
-#: ../../FRF.rst:783
-# f655a603841a4016956e88287dbf3375
-msgid "Sibsig Muckdraggers"
-msgstr ""
-
-#: ../../FRF.rst:782
-# 1111c878ada8498a89f16fdc93dcd6f1
-msgid "When Sibsig Muckdraggers enters the battlefield, return target creature card from your graveyard to your hand."
-msgstr ""
-
-#: ../../FRF.rst:789
-# d6017d43b77040009fd4579cd1ddfdb1
-msgid "Silumgar, the Drifting Death"
-msgstr ""
-
-#: ../../FRF.rst:786
-# 209f084a9ed7426383375685d2f1f50b
-msgid "Flying, hexproof"
-msgstr ""
-
-#: ../../FRF.rst:788
-# 3faf133edbea41f3ac60812eca03fca5
-msgid "Whenever a Dragon you control attacks, creatures defending player controls get -1/-1 until end of turn."
-msgstr ""
-
-#: ../../FRF.rst:793
-# 11c9387cc99c4ea5a70bd51661548dd7
-msgid "Smoldering Efreet"
-msgstr ""
-
-#: ../../FRF.rst:792
-# 99ab47ec47cf48d5ac89ea3a8fc878ca
-msgid "When Smoldering Efreet dies, it deals 2 damage to you."
-msgstr ""
-
-#: ../../FRF.rst:797
-# 57fd9ca93d4d4384a44263c40a622645
-msgid "Soul Summons"
-msgstr ""
-
-#: ../../FRF.rst:796
-# 656fd60eeda24102b88e831b743e3b19
-msgid "Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:805
-# 77ff48a73433484bbd8e27cf09075cc4
-msgid "Soulfire Grand Master"
-msgstr ""
-
-#: ../../FRF.rst:800
-# 42d4055cacf9492d9dde6a425a193b54
-msgid "Lifelink"
-msgstr ""
-
-#: ../../FRF.rst:802
-# 6467e19207bc4f5ba1b85705d5bd207c
-msgid "Instant and sorcery spells you control have lifelink."
-msgstr ""
-
-#: ../../FRF.rst:804
-# ff0d305c96f640c389a565814d24a256
-msgid "|mana_2| |mana_ur| |mana_ur|: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves."
-msgstr ""
-
-#: ../../FRF.rst:811
-# 3146bd4b51264160b4bde0dc6ed7caa9
-msgid "Soulflayer"
-msgstr ""
-
-#: ../../FRF.rst:810
-# 68b7ffcc4d744a07b03576041a381e9a
-msgid "If a creature card with flying was exiled with Soulflayer's delve ability, Soulflayer has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance."
-msgstr ""
-
-#: ../../FRF.rst:815
-# 5c3f0b73b8824b8f81a5daedac4564b2
-msgid "Sudden Reclamation"
-msgstr ""
-
-#: ../../FRF.rst:814
-# 8129809f391e45f0bd837803402d856e
-msgid "Put the top four cards of your library into your graveyard, then return a creature card and a land card from your graveyard to your hand."
-msgstr ""
-
-#: ../../FRF.rst:819
-# fdc0df5e52a74df693392e729977a2d7
-msgid "Sultai Emissary"
-msgstr ""
-
-#: ../../FRF.rst:818
-# 0b84f0bd751e45fdaed4e4dd71ff97df
-msgid "When Sultai Emissary dies, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:827
-# 5b7e76489488469a996c918a70b4738a
-msgid "Sultai Runemark"
-msgstr ""
-
-#: ../../FRF.rst:826
-# 20379bc6a2de4227b4fb3888bc8c55ae
-msgid "Enchanted creature has deathtouch as long as you control a green or blue permanent. (Any amount of damage it deals to a creature is enough to destroy it.)"
-msgstr ""
-
-#: ../../FRF.rst:831
-# dd1a19723f374d5b9ec135bea9ddd919
-msgid "Sultai Skullkeeper"
-msgstr ""
-
-#: ../../FRF.rst:830
-# 60144ba00fc44a06bcd116a4aafc920c
-msgid "When Sultai Skullkeeper enters the battlefield, put the top two cards of your library into your graveyard."
-msgstr ""
-
-#: ../../FRF.rst:835
-# a7777eb368cb465ba1d6a874f49bb0cc
-msgid "Supplant Form"
-msgstr ""
-
-#: ../../FRF.rst:834
-# f6382e2f44ca44fea9b5bc3f1b2d69b9
-msgid "Return target creature to its owner's hand. You put a token onto the battlefield that's a copy of that creature."
-msgstr ""
-
-#: ../../FRF.rst:839
-# 299d3ad5974344d185f171fafa6834ab
-msgid "Swamp"
-msgstr ""
-
-#: ../../FRF.rst:838
-# 6ccb9b32d4214f928be45e4a8414fbf4
-msgid "B"
-msgstr ""
-
-#: ../../FRF.rst:847
-# 56416f34219340a0b52056cc27dd69c4
-msgid "Swiftwater Cliffs"
-msgstr ""
-
-#: ../../FRF.rst:842
-# 0436a7d4993a48d8b46d22cfe38f503b
-msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr ""
-
-#: ../../FRF.rst:844
-# 8259dcf56cc74dfba803390479b1252f
-msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
-msgstr ""
-
-#: ../../FRF.rst:846
-# 1920a00e207543fa8f7d3c20dee7f113
-msgid "|tap|: Add |mana_u| or |mana_r| to your mana pool."
-msgstr ""
-
-#: ../../FRF.rst:853
-# 0d811fc18a7f4e92840d4f0e52160e31
-msgid "Tasigur, the Golden Fang"
-msgstr ""
-
-#: ../../FRF.rst:852
-# acaeb94ae5424b339c1810c7a3c61464
-msgid "|mana_2| |mana_gu| |mana_gu|: Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand."
-msgstr ""
-
-#: ../../FRF.rst:859
-# 1271e3d8ce0c44f1b1c6d8836cda79fb
-msgid "Tasigur's Cruelty"
-msgstr ""
-
-#: ../../FRF.rst:858
-# 7f8f828ae7a54904892b3f4a797d6a94
-msgid "Each opponent discards two cards."
-msgstr ""
-
-#: ../../FRF.rst:865
-# 737e90126d6548ad94fa2c7d1e61e8e0
-msgid "Temporal Trespass"
-msgstr ""
-
-#: ../../FRF.rst:864
-# 113619dd294449da8e5b301aab8e7f21
-msgid "Take an extra turn after this one. Exile Temporal Trespass."
-msgstr ""
-
-#: ../../FRF.rst:871
-# ac5237b87d994d42b6fcd055414a1848
-msgid "Temur Battle Rage"
-msgstr ""
-
-#: ../../FRF.rst:868
-# ff76e2935bbb4aefb8caf5413c793e24
-msgid "Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)"
-msgstr ""
-
-#: ../../FRF.rst:870
-# 60fdd65f34e44db3a32c6d14810acb42
-msgid "Ferocious — That creature also gains trample until end of turn if you control a creature with power 4 or greater."
-msgstr ""
-
-#: ../../FRF.rst:879
-# 3dadf5a201a34d87bc7b6511b1d078ed
-msgid "Temur Runemark"
-msgstr ""
-
-#: ../../FRF.rst:878
-# 397d69999e7f417cad4e70a9b7eb04f4
-msgid "Enchanted creature has trample as long as you control a blue or red permanent."
-msgstr ""
-
-#: ../../FRF.rst:883
-# 775b9aea645b4240bfc78a22793623d7
-msgid "Temur Sabertooth"
-msgstr ""
-
-#: ../../FRF.rst:882
-# 885b53b7b7514f38936dac5f94ec396f
-msgid "|mana_1| |mana_g|: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn."
-msgstr ""
-
-#: ../../FRF.rst:889
-# 98fe106ac6cd4d7f8eea8719c1a8afdb
-msgid "Temur War Shaman"
-msgstr ""
-
-#: ../../FRF.rst:886
-# 42c3e2ca8b68453d9d9342cdae601973
-msgid "When Temur War Shaman enters the battlefield, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:888
-# dcb3302deede45d59af52f0b76fe8c96
-msgid "Whenever a permanent you control is turned face up, if it's a creature, you may have it fight target creature you don't control."
-msgstr ""
-
-#: ../../FRF.rst:897
-# b8996e2faa3942a18cef52ec8a314ac6
-msgid "Thornwood Falls"
-msgstr ""
-
-#: ../../FRF.rst:892
-# 16c4194aff5e40b5a07fa776064c5921
-msgid "Thornwood Falls enters the battlefield tapped."
-msgstr ""
-
-#: ../../FRF.rst:894
-# 57dc8898743346868fa6b65f9a75e68c
-msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr ""
-
-#: ../../FRF.rst:896
-# 392a6706a5f543ef9089e2d31fafbbf8
-msgid "|tap|: Add |mana_g| or |mana_u| to your mana pool."
-msgstr ""
-
-#: ../../FRF.rst:905
-# e2676cd4f611495a8aac7640852eb8c1
-msgid "Torrent Elemental"
-msgstr ""
-
-#: ../../FRF.rst:902
-# 885a763b6281418eb637fa4436789c9a
-msgid "Whenever Torrent Elemental attacks, tap all creatures defending player controls."
-msgstr ""
-
-#: ../../FRF.rst:904
-# 4c2741c36cfa4fc08409d4849e29f94c
-msgid "|mana_3| |mana_bg| |mana_bg|: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery."
-msgstr ""
-
-#: ../../FRF.rst:913
-# e25c7d8bc51d4b49a8ed7bbbc86824a7
-msgid "Tranquil Cove"
-msgstr ""
-
-#: ../../FRF.rst:908
-# 8c8ec4d55a0343e199660c57ee40f2f6
-msgid "Tranquil Cove enters the battlefield tapped."
-msgstr ""
-
-#: ../../FRF.rst:910
-# 6c32109ad01f4ac8a66ecf0785d84077
-msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
-msgstr ""
-
-#: ../../FRF.rst:912
-# 9b591811b21c416a9b3f7a7a64f95b09
-msgid "|tap|: Add |mana_w| or |mana_u| to your mana pool."
-msgstr ""
-
-#: ../../FRF.rst:917
-# ac8f026c72814149a17d4017b546ebce
-msgid "Typhoid Rats"
-msgstr ""
-
-#: ../../FRF.rst:916
-# f1fe26bbaeb9432f901378d7e4e63315
-msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
-msgstr ""
-
-#: ../../FRF.rst:925
-# a16f6f40cc174f678e6c39ef6375cf0c
 msgid "Ugin, the Spirit Dragon"
 msgstr ""
 
-#: ../../FRF.rst:920
-# 943c84d011f244ddb3596fc5686dafda
-msgid "+2: Ugin, the Spirit Dragon deals 3 damage to target creature or player."
+#: ../../FRF.rst:12
+msgid "+2: Ugin, the Spirit Dragon deals 3 damage to any target."
 msgstr ""
 
-#: ../../FRF.rst:922
-# 93eb509b4933415b9a7c4fd42fca4292
+#: ../../FRF.rst:14
 msgid "−X: Exile each permanent with converted mana cost X or less that's one or more colors."
 msgstr ""
 
-#: ../../FRF.rst:924
-# 119a7a98bdf142bb876c9f024448e1ae
+#: ../../FRF.rst:16
 msgid "−10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield."
 msgstr ""
 
-#: ../../FRF.rst:929
-# 23bc484dc6aa4701b8cff92d707adbe8
-msgid "Ugin's Construct"
+#: ../../FRF.rst:24
+msgid "Abzan Advantage"
 msgstr ""
 
-#: ../../FRF.rst:928
-# 0661dc87513346d18fcdba9489a1818b
-msgid "When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors."
+#: ../../FRF.rst:23
+msgid "Target player sacrifices an enchantment. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
 
-#: ../../FRF.rst:937
-# cfe3f67f877149b7bed4b25c27e416d1
+#: ../../FRF.rst:35
+msgid "Abzan Runemark"
+msgstr ""
+
+#: ../../FRF.rst:30
+#: ../../FRF.rst:202
+#: ../../FRF.rst:332
+#: ../../FRF.rst:536
+#: ../../FRF.rst:741
+#: ../../FRF.rst:914
+#: ../../FRF.rst:1131
+#: ../../FRF.rst:1197
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../FRF.rst:32
+#: ../../FRF.rst:334
+#: ../../FRF.rst:743
+#: ../../FRF.rst:916
+#: ../../FRF.rst:1199
+msgid "Enchanted creature gets +2/+2."
+msgstr ""
+
+#: ../../FRF.rst:34
+msgid "Enchanted creature has vigilance as long as you control a black or green permanent."
+msgstr ""
+
+#: ../../FRF.rst:44
+msgid "Abzan Skycaptain"
+msgstr ""
+
+#: ../../FRF.rst:41
+#: ../../FRF.rst:57
+#: ../../FRF.rst:267
+#: ../../FRF.rst:276
+#: ../../FRF.rst:352
+#: ../../FRF.rst:370
+#: ../../FRF.rst:495
+#: ../../FRF.rst:547
+#: ../../FRF.rst:668
+#: ../../FRF.rst:981
+#: ../../FRF.rst:1090
+#: ../../FRF.rst:1296
+#: ../../FRF.rst:1326
+msgid "Flying"
+msgstr ""
+
+#: ../../FRF.rst:43
+msgid "When Abzan Skycaptain dies, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../FRF.rst:51
+msgid "Arashin Cleric"
+msgstr ""
+
+#: ../../FRF.rst:50
+msgid "When Arashin Cleric enters the battlefield, you gain 3 life."
+msgstr ""
+
+#: ../../FRF.rst:58
+msgid "Aven Skirmisher"
+msgstr ""
+
+#: ../../FRF.rst:65
+msgid "Channel Harm"
+msgstr ""
+
+#: ../../FRF.rst:64
+msgid "Prevent all damage that would be dealt to you and permanents you control this turn by sources you don't control. If damage is prevented this way, you may have Channel Harm deal that much damage to target creature."
+msgstr ""
+
+#: ../../FRF.rst:76
+msgid "Citadel Siege"
+msgstr ""
+
+#: ../../FRF.rst:71
+msgid "As Citadel Siege enters the battlefield, choose Khans or Dragons."
+msgstr ""
+
+#: ../../FRF.rst:73
+msgid "Khans — At the beginning of combat on your turn, put two +1/+1 counters on target creature you control."
+msgstr ""
+
+#: ../../FRF.rst:75
+msgid "Dragons — At the beginning of combat on each opponent's turn, tap target creature that player controls."
+msgstr ""
+
+#: ../../FRF.rst:87
+msgid "Daghatar the Adamant"
+msgstr ""
+
+#: ../../FRF.rst:82
+#: ../../FRF.rst:93
+msgid "Vigilance"
+msgstr ""
+
+#: ../../FRF.rst:84
+msgid "Daghatar the Adamant enters the battlefield with four +1/+1 counters on it."
+msgstr ""
+
+#: ../../FRF.rst:86
+msgid "|mana_1|{B/G}{B/G}: Move a +1/+1 counter from target creature onto a second target creature."
+msgstr ""
+
+#: ../../FRF.rst:96
+msgid "Dragon Bell Monk"
+msgstr ""
+
+#: ../../FRF.rst:95
+#: ../../FRF.rst:152
+#: ../../FRF.rst:177
+#: ../../FRF.rst:343
+#: ../../FRF.rst:354
+#: ../../FRF.rst:379
+#: ../../FRF.rst:447
+#: ../../FRF.rst:463
+msgid "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+msgstr ""
+
+#: ../../FRF.rst:103
+msgid "Dragonscale General"
+msgstr ""
+
+#: ../../FRF.rst:102
+msgid "At the beginning of your end step, bolster X, where X is the number of tapped creatures you control. (Choose a creature with the least toughness among creatures you control and put X +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../FRF.rst:112
+msgid "Elite Scaleguard"
+msgstr ""
+
+#: ../../FRF.rst:109
+msgid "When Elite Scaleguard enters the battlefield, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../FRF.rst:111
+msgid "Whenever a creature you control with a +1/+1 counter on it attacks, tap target creature defending player controls."
+msgstr ""
+
+#: ../../FRF.rst:117
+msgid "Great-Horn Krushok"
+msgstr ""
+
+#: ../../FRF.rst:126
+msgid "Honor's Reward"
+msgstr ""
+
+#: ../../FRF.rst:125
+msgid "You gain 4 life. Bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../FRF.rst:137
+msgid "Jeskai Barricade"
+msgstr ""
+
+#: ../../FRF.rst:132
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
+#: ../../FRF.rst:134
+#: ../../FRF.rst:1065
+msgid "Defender"
+msgstr ""
+
+#: ../../FRF.rst:136
+msgid "When Jeskai Barricade enters the battlefield, you may return another target creature you control to its owner's hand."
+msgstr ""
+
+#: ../../FRF.rst:146
+msgid "Lightform"
+msgstr ""
+
+#: ../../FRF.rst:143
+msgid "When Lightform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Lightform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:145
+msgid "Enchanted creature has flying and lifelink."
+msgstr ""
+
+#: ../../FRF.rst:155
+msgid "Lotus-Eye Mystics"
+msgstr ""
+
+#: ../../FRF.rst:154
+msgid "When Lotus-Eye Mystics enters the battlefield, return target enchantment card from your graveyard to your hand."
+msgstr ""
+
+#: ../../FRF.rst:162
+msgid "Mardu Woe-Reaper"
+msgstr ""
+
+#: ../../FRF.rst:161
+msgid "Whenever Mardu Woe-Reaper or another Warrior enters the battlefield under your control, you may exile target creature card from a graveyard. If you do, you gain 1 life."
+msgstr ""
+
+#: ../../FRF.rst:171
+msgid "Mastery of the Unseen"
+msgstr ""
+
+#: ../../FRF.rst:168
+msgid "Whenever a permanent you control is turned face up, you gain 1 life for each creature you control."
+msgstr ""
+
+#: ../../FRF.rst:170
+msgid "|mana_3| |mana_w|: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:180
+msgid "Monastery Mentor"
+msgstr ""
+
+#: ../../FRF.rst:179
+msgid "Whenever you cast a noncreature spell, create a 1/1 white Monk creature token with prowess."
+msgstr ""
+
+#: ../../FRF.rst:189
+msgid "Pressure Point"
+msgstr ""
+
+#: ../../FRF.rst:186
+msgid "Tap target creature."
+msgstr ""
+
+#: ../../FRF.rst:188
+#: ../../FRF.rst:422
+#: ../../FRF.rst:1289
+msgid "Draw a card."
+msgstr ""
+
+#: ../../FRF.rst:196
+msgid "Rally the Ancestors"
+msgstr ""
+
+#: ../../FRF.rst:195
+msgid "Return each creature card with converted mana cost X or less from your graveyard to the battlefield. Exile those creatures at the beginning of your next upkeep. Exile Rally the Ancestors."
+msgstr ""
+
+#: ../../FRF.rst:207
+msgid "Sage's Reverie"
+msgstr ""
+
+#: ../../FRF.rst:204
+msgid "When Sage's Reverie enters the battlefield, draw a card for each Aura you control that's attached to a creature."
+msgstr ""
+
+#: ../../FRF.rst:206
+msgid "Enchanted creature gets +1/+1 for each Aura you control that's attached to a creature."
+msgstr ""
+
+#: ../../FRF.rst:214
+msgid "Sandblast"
+msgstr ""
+
+#: ../../FRF.rst:213
+msgid "Sandblast deals 5 damage to target attacking or blocking creature."
+msgstr ""
+
+#: ../../FRF.rst:225
+msgid "Sandsteppe Outcast"
+msgstr ""
+
+#: ../../FRF.rst:220
+msgid "When Sandsteppe Outcast enters the battlefield, choose one —"
+msgstr ""
+
+#: ../../FRF.rst:222
+msgid "Put a +1/+1 counter on Sandsteppe Outcast."
+msgstr ""
+
+#: ../../FRF.rst:224
+msgid "Create a 1/1 white Spirit creature token with flying."
+msgstr ""
+
+#: ../../FRF.rst:232
+msgid "Soul Summons"
+msgstr ""
+
+#: ../../FRF.rst:231
+msgid "Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:243
+msgid "Soulfire Grand Master"
+msgstr ""
+
+#: ../../FRF.rst:238
+msgid "Lifelink"
+msgstr ""
+
+#: ../../FRF.rst:240
+msgid "Instant and sorcery spells you control have lifelink."
+msgstr ""
+
+#: ../../FRF.rst:242
+msgid "|mana_2|{U/R}{U/R}: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves."
+msgstr ""
+
+#: ../../FRF.rst:254
 msgid "Valorous Stance"
 msgstr ""
 
-#: ../../FRF.rst:934
-# bb75f20e5e264d8e94e5581446706c57
+#: ../../FRF.rst:249
+#: ../../FRF.rst:305
+#: ../../FRF.rst:572
+#: ../../FRF.rst:932
+#: ../../FRF.rst:1161
+msgid "Choose one —"
+msgstr ""
+
+#: ../../FRF.rst:251
 msgid "Target creature gains indestructible until end of turn."
 msgstr ""
 
-#: ../../FRF.rst:936
-# d07b4ab45f7e4858b6c06afdbcf5f422
+#: ../../FRF.rst:253
 msgid "Destroy target creature with toughness 4 or greater."
 msgstr ""
 
-#: ../../FRF.rst:943
-# 2cab3bbaef61441f8826c5b4b6cd17f6
-msgid "Vaultbreaker"
-msgstr ""
-
-#: ../../FRF.rst:940
-# 6c1434db53c1451a98bf445ef43115a8
-msgid "Whenever Vaultbreaker attacks, you may discard a card. If you do, draw a card."
-msgstr ""
-
-#: ../../FRF.rst:947
-# e5a77a688c4d41b08ecd2cb58fda1ced
+#: ../../FRF.rst:261
 msgid "Wandering Champion"
 msgstr ""
 
-#: ../../FRF.rst:946
-# a127ec446e5c4f99a473a1a73382418f
+#: ../../FRF.rst:260
 msgid "Whenever Wandering Champion deals combat damage to a player, if you control a blue or red permanent, you may discard a card. If you do, draw a card."
 msgstr ""
 
-#: ../../FRF.rst:951
-# ed0d89b3e4784997b7d87fe6e523c4cc
-msgid "War Flare"
-msgstr ""
-
-#: ../../FRF.rst:950
-# 37af3a4b2c494e568b42c8d9f43fe37a
-msgid "Creatures you control get +2/+1 until end of turn. Untap those creatures."
-msgstr ""
-
-#: ../../FRF.rst:959
-# 4780f44ad6ae4ad3ad065bd037f9a88f
-msgid "Warden of the First Tree"
-msgstr ""
-
-#: ../../FRF.rst:954
-# b62482bfede14549a7f6ad6ffe2edd04
-msgid "|mana_1| |mana_wb|: Warden of the First Tree becomes a Human Warrior with base power and toughness 3/3."
-msgstr ""
-
-#: ../../FRF.rst:956
-# 49c1b542fee340369c59a75ba8863f34
-msgid "|mana_2| |mana_wb| |mana_wb|: If Warden of the First Tree is a Warrior, it becomes a Human Spirit Warrior with trample and lifelink."
-msgstr ""
-
-#: ../../FRF.rst:958
-# 27a1912afde1472382495fabdebf41cf
-msgid "|mana_3| |mana_wb| |mana_wb| |mana_wb|: If Warden of the First Tree is a Spirit, put five +1/+1 counters on it."
-msgstr ""
-
-#: ../../FRF.rst:965
-# f806149a5d4c43979bff0222886dc6cd
+#: ../../FRF.rst:270
 msgid "Wardscale Dragon"
 msgstr ""
 
-#: ../../FRF.rst:964
-# f833ee0f98fc430382cf3e70f59deac2
+#: ../../FRF.rst:269
 msgid "As long as Wardscale Dragon is attacking, defending player can't cast spells."
 msgstr ""
 
-#: ../../FRF.rst:969
-# b4ba7a8c5d584ebb8475de411f0aef30
+#: ../../FRF.rst:283
+msgid "Aven Surveyor"
+msgstr ""
+
+#: ../../FRF.rst:278
+msgid "When Aven Surveyor enters the battlefield, choose one —"
+msgstr ""
+
+#: ../../FRF.rst:280
+msgid "Put a +1/+1 counter on Aven Surveyor."
+msgstr ""
+
+#: ../../FRF.rst:282
+msgid "Return target creature to its owner's hand."
+msgstr ""
+
+#: ../../FRF.rst:292
+msgid "Cloudform"
+msgstr ""
+
+#: ../../FRF.rst:289
+msgid "When Cloudform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Cloudform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:291
+msgid "Enchanted creature has flying and hexproof."
+msgstr ""
+
+#: ../../FRF.rst:299
+msgid "Enhanced Awareness"
+msgstr ""
+
+#: ../../FRF.rst:298
+msgid "Draw three cards, then discard a card."
+msgstr ""
+
+#: ../../FRF.rst:310
+msgid "Fascination"
+msgstr ""
+
+#: ../../FRF.rst:307
+msgid "Each player draws X cards."
+msgstr ""
+
+#: ../../FRF.rst:309
+msgid "Each player puts the top X cards of their library into their graveyard."
+msgstr ""
+
+#: ../../FRF.rst:317
+msgid "Frost Walker"
+msgstr ""
+
+#: ../../FRF.rst:316
+msgid "When Frost Walker becomes the target of a spell or ability, sacrifice it."
+msgstr ""
+
+#: ../../FRF.rst:326
+msgid "Jeskai Infiltrator"
+msgstr ""
+
+#: ../../FRF.rst:323
+msgid "Jeskai Infiltrator can't be blocked as long as you control no other creatures."
+msgstr ""
+
+#: ../../FRF.rst:325
+msgid "When Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:337
+msgid "Jeskai Runemark"
+msgstr ""
+
+#: ../../FRF.rst:336
+msgid "Enchanted creature has flying as long as you control a red or white permanent."
+msgstr ""
+
+#: ../../FRF.rst:346
+msgid "Jeskai Sage"
+msgstr ""
+
+#: ../../FRF.rst:345
+msgid "When Jeskai Sage dies, draw a card."
+msgstr ""
+
+#: ../../FRF.rst:355
+msgid "Lotus Path Djinn"
+msgstr ""
+
+#: ../../FRF.rst:364
+msgid "Marang River Prowler"
+msgstr ""
+
+#: ../../FRF.rst:361
+msgid "Marang River Prowler can't block and can't be blocked."
+msgstr ""
+
+#: ../../FRF.rst:363
+msgid "You may cast Marang River Prowler from your graveyard as long as you control a black or green permanent."
+msgstr ""
+
+#: ../../FRF.rst:373
+msgid "Mindscour Dragon"
+msgstr ""
+
+#: ../../FRF.rst:372
+msgid "Whenever Mindscour Dragon deals combat damage to an opponent, target player puts the top four cards of their library into their graveyard."
+msgstr ""
+
+#: ../../FRF.rst:382
+msgid "Mistfire Adept"
+msgstr ""
+
+#: ../../FRF.rst:381
+msgid "Whenever you cast a noncreature spell, target creature gains flying until end of turn."
+msgstr ""
+
+#: ../../FRF.rst:393
+msgid "Monastery Siege"
+msgstr ""
+
+#: ../../FRF.rst:388
+msgid "As Monastery Siege enters the battlefield, choose Khans or Dragons."
+msgstr ""
+
+#: ../../FRF.rst:390
+msgid "Khans — At the beginning of your draw step, draw an additional card, then discard a card."
+msgstr ""
+
+#: ../../FRF.rst:392
+msgid "Dragons — Spells your opponents cast that target you or a permanent you control cost |mana_2| more to cast."
+msgstr ""
+
+#: ../../FRF.rst:400
+msgid "Neutralizing Blast"
+msgstr ""
+
+#: ../../FRF.rst:399
+msgid "Counter target multicolored spell."
+msgstr ""
+
+#: ../../FRF.rst:407
+msgid "Rakshasa's Disdain"
+msgstr ""
+
+#: ../../FRF.rst:406
+msgid "Counter target spell unless its controller pays |mana_1| for each card in your graveyard."
+msgstr ""
+
+#: ../../FRF.rst:414
+msgid "Reality Shift"
+msgstr ""
+
+#: ../../FRF.rst:413
+msgid "Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)"
+msgstr ""
+
+#: ../../FRF.rst:423
+msgid "Refocus"
+msgstr ""
+
+#: ../../FRF.rst:420
+msgid "Untap target creature."
+msgstr ""
+
+#: ../../FRF.rst:432
+msgid "Renowned Weaponsmith"
+msgstr ""
+
+#: ../../FRF.rst:429
+msgid "|tap|: Add |colorless| |colorless|. Spend this mana only to cast artifact spells or activate abilities of artifacts."
+msgstr ""
+
+#: ../../FRF.rst:431
+msgid "|mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../FRF.rst:441
+msgid "Rite of Undoing"
+msgstr ""
+
+#: ../../FRF.rst:438
+#: ../../FRF.rst:486
+#: ../../FRF.rst:513
+#: ../../FRF.rst:625
+#: ../../FRF.rst:716
+#: ../../FRF.rst:725
+#: ../../FRF.rst:752
+#: ../../FRF.rst:761
+msgid "Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)"
+msgstr ""
+
+#: ../../FRF.rst:440
+msgid "Return target nonland permanent you control and target nonland permanent you don't control to their owners' hands."
+msgstr ""
+
+#: ../../FRF.rst:450
+msgid "Sage-Eye Avengers"
+msgstr ""
+
+#: ../../FRF.rst:449
+msgid "Whenever Sage-Eye Avengers attacks, you may return target creature to its owner's hand if its power is less than Sage-Eye Avengers's power."
+msgstr ""
+
+#: ../../FRF.rst:457
+msgid "Shifting Loyalties"
+msgstr ""
+
+#: ../../FRF.rst:456
+msgid "Exchange control of two target permanents that share a card type. (Artifact, creature, enchantment, land, and planeswalker are card types.)"
+msgstr ""
+
+#: ../../FRF.rst:466
+msgid "Shu Yun, the Silent Tempest"
+msgstr ""
+
+#: ../../FRF.rst:465
+msgid "Whenever you cast a noncreature spell, you may pay {R/W}{R/W}. If you do, target creature gains double strike until end of turn."
+msgstr ""
+
+#: ../../FRF.rst:473
+msgid "Sultai Skullkeeper"
+msgstr ""
+
+#: ../../FRF.rst:472
+msgid "When Sultai Skullkeeper enters the battlefield, put the top two cards of your library into your graveyard."
+msgstr ""
+
+#: ../../FRF.rst:480
+msgid "Supplant Form"
+msgstr ""
+
+#: ../../FRF.rst:479
+msgid "Return target creature to its owner's hand. You create a token that's a copy of that creature."
+msgstr ""
+
+#: ../../FRF.rst:489
+msgid "Temporal Trespass"
+msgstr ""
+
+#: ../../FRF.rst:488
+msgid "Take an extra turn after this one. Exile Temporal Trespass."
+msgstr ""
+
+#: ../../FRF.rst:500
+msgid "Torrent Elemental"
+msgstr ""
+
+#: ../../FRF.rst:497
+msgid "Whenever Torrent Elemental attacks, tap all creatures defending player controls."
+msgstr ""
+
+#: ../../FRF.rst:499
+msgid "|mana_3|{B/G}{B/G}: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../FRF.rst:507
 msgid "Whisk Away"
 msgstr ""
 
-#: ../../FRF.rst:968
-# 0ddf36d9c49c427b8258570ee8aa6a65
+#: ../../FRF.rst:506
 msgid "Put target attacking or blocking creature on top of its owner's library."
 msgstr ""
 
-#: ../../FRF.rst:975
-# 0814de5c57944b47970a58ff4e8fc1dc
-msgid "Whisperer of the Wilds"
-msgstr ""
-
-#: ../../FRF.rst:972
-# 3a2b642d25e14622b7c96aa96a4fda67
-msgid "|tap|: Add |mana_g| to your mana pool."
-msgstr ""
-
-#: ../../FRF.rst:974
-# e6c4a5c282ad42288802c99116707328
-msgid "Ferocious — |tap|: Add |mana_g| |mana_g| to your mana pool. Activate this ability only if you control a creature with power 4 or greater."
-msgstr ""
-
-#: ../../FRF.rst:981
-# 55e461deba584b1a98e4e305c11f1ee5
-msgid "Whisperwood Elemental"
-msgstr ""
-
-#: ../../FRF.rst:978
-# 38304afc1bbd42369f9aa227991b157c
-msgid "At the beginning of your end step, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:980
-# 7a2c215d950b4554b4fe8a7d688614b7
-msgid "Sacrifice Whisperwood Elemental: Until end of turn, face-up nontoken creatures you control gain \\\"When this creature dies, manifest the top card of your library.\\\""
-msgstr ""
-
-#: ../../FRF.rst:987
-# efe9ddac16354c4d834df6926adf8a8c
-msgid "Wild Slash"
-msgstr ""
-
-#: ../../FRF.rst:984
-# 5d28dfac8a8f41588bf600a3aaba3875
-msgid "Ferocious — If you control a creature with power 4 or greater, damage can't be prevented this turn."
-msgstr ""
-
-#: ../../FRF.rst:986
-# 087a6f0e765f4f67a36c82a012de702e
-msgid "Wild Slash deals 2 damage to target creature or player."
-msgstr ""
-
-#: ../../FRF.rst:991
-# 2264e292ef414142a579bda16ac1fe33
-msgid "Wildcall"
-msgstr ""
-
-#: ../../FRF.rst:990
-# 374ce014ca1e46e396897b0c49086e3d
-msgid "Manifest the top card of your library, then put X +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
-msgstr ""
-
-#: ../../FRF.rst:997
-# 7b73f657246847698b6ce9394c18dcbd
+#: ../../FRF.rst:516
 msgid "Will of the Naga"
 msgstr ""
 
-#: ../../FRF.rst:996
-# 66c4c69049364476b106d126ea1db2ea
+#: ../../FRF.rst:515
 msgid "Tap up to two target creatures. Those creatures don't untap during their controller's next untap step."
 msgstr ""
 
-#: ../../FRF.rst:1003
-# 998efec700db408ea915827d9ff68ede
-msgid "Winds of Qal Sisma"
-msgstr ""
-
-#: ../../FRF.rst:1000
-# 6357714825ce4bb7b63f13ed38e568e9
-msgid "Prevent all combat damage that would be dealt this turn."
-msgstr ""
-
-#: ../../FRF.rst:1002
-# eaae8143cf8d47698dc2218f5c747bf5
-msgid "Ferocious — If you control a creature with power 4 or greater, instead prevent all combat damage that would be dealt this turn by creatures your opponents control."
-msgstr ""
-
-#: ../../FRF.rst:1011
-# d6da5bd6ff444c07997e73e28dfac091
-msgid "Wind-Scarred Crag"
-msgstr ""
-
-#: ../../FRF.rst:1006
-# 4be05d8ff8984f3d84e9f3f890007afb
-msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr ""
-
-#: ../../FRF.rst:1008
-# 679607247ece46babc5be820e5b837e4
-msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-msgstr ""
-
-#: ../../FRF.rst:1010
-# 66c21d25dec049808f911c7fe9df5922
-msgid "|tap|: Add |mana_r| or |mana_w| to your mana pool."
-msgstr ""
-
-#: ../../FRF.rst:1015
-# 44f37367e6dc43d1afa0a4e859357e12
+#: ../../FRF.rst:523
 msgid "Write into Being"
 msgstr ""
 
-#: ../../FRF.rst:1014
-# 8a0bfc5375ba4f33979b82dd84c04f97
+#: ../../FRF.rst:522
 msgid "Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
 msgstr ""
 
-#: ../../FRF.rst:1021
-# cc057580cc134564a8aac90b4b14be8e
+#: ../../FRF.rst:530
+msgid "Alesha's Vanguard"
+msgstr ""
+
+#: ../../FRF.rst:529
+msgid "Dash |mana_2| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../FRF.rst:541
+msgid "Ancestral Vengeance"
+msgstr ""
+
+#: ../../FRF.rst:538
+msgid "When Ancestral Vengeance enters the battlefield, put a +1/+1 counter on target creature you control."
+msgstr ""
+
+#: ../../FRF.rst:540
+msgid "Enchanted creature gets -1/-1."
+msgstr ""
+
+#: ../../FRF.rst:550
+msgid "Archfiend of Depravity"
+msgstr ""
+
+#: ../../FRF.rst:549
+msgid "At the beginning of each opponent's end step, that player chooses up to two creatures they control, then sacrifices the rest."
+msgstr ""
+
+#: ../../FRF.rst:557
+msgid "Battle Brawler"
+msgstr ""
+
+#: ../../FRF.rst:556
+msgid "As long as you control a red or white permanent, Battle Brawler gets +1/+0 and has first strike."
+msgstr ""
+
+#: ../../FRF.rst:566
+msgid "Brutal Hordechief"
+msgstr ""
+
+#: ../../FRF.rst:563
+msgid "Whenever a creature you control attacks, defending player loses 1 life and you gain 1 life."
+msgstr ""
+
+#: ../../FRF.rst:565
+msgid "|mana_3|{R/W}{R/W}: Creatures your opponents control block this turn if able, and you choose how those creatures block."
+msgstr ""
+
+#: ../../FRF.rst:577
+msgid "Crux of Fate"
+msgstr ""
+
+#: ../../FRF.rst:574
+msgid "Destroy all Dragon creatures."
+msgstr ""
+
+#: ../../FRF.rst:576
+msgid "Destroy all non-Dragon creatures."
+msgstr ""
+
+#: ../../FRF.rst:584
+msgid "Dark Deal"
+msgstr ""
+
+#: ../../FRF.rst:583
+msgid "Each player discards all the cards in their hand, then draws that many cards minus one."
+msgstr ""
+
+#: ../../FRF.rst:591
+msgid "Diplomacy of the Wastes"
+msgstr ""
+
+#: ../../FRF.rst:590
+msgid "Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. If you control a Warrior, that player loses 2 life."
+msgstr ""
+
+#: ../../FRF.rst:598
+msgid "Douse in Gloom"
+msgstr ""
+
+#: ../../FRF.rst:597
+msgid "Douse in Gloom deals 2 damage to target creature and you gain 2 life."
+msgstr ""
+
+#: ../../FRF.rst:605
+msgid "Fearsome Awakening"
+msgstr ""
+
+#: ../../FRF.rst:604
+msgid "Return target creature card from your graveyard to the battlefield. If it's a Dragon, put two +1/+1 counters on it."
+msgstr ""
+
+#: ../../FRF.rst:612
+msgid "Ghastly Conscription"
+msgstr ""
+
+#: ../../FRF.rst:611
+msgid "Exile all creature cards from target player's graveyard in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:619
+msgid "Grave Strength"
+msgstr ""
+
+#: ../../FRF.rst:618
+msgid "Choose target creature. Put the top three cards of your library into your graveyard, then put a +1/+1 counter on that creature for each creature card in your graveyard."
+msgstr ""
+
+#: ../../FRF.rst:626
+msgid "Gurmag Angler"
+msgstr ""
+
+#: ../../FRF.rst:637
+msgid "Hooded Assassin"
+msgstr ""
+
+#: ../../FRF.rst:632
+msgid "When Hooded Assassin enters the battlefield, choose one —"
+msgstr ""
+
+#: ../../FRF.rst:634
+msgid "Put a +1/+1 counter on Hooded Assassin."
+msgstr ""
+
+#: ../../FRF.rst:636
+msgid "Destroy target creature that was dealt damage this turn."
+msgstr ""
+
+#: ../../FRF.rst:646
+msgid "Mardu Shadowspear"
+msgstr ""
+
+#: ../../FRF.rst:643
+msgid "Whenever Mardu Shadowspear attacks, each opponent loses 1 life."
+msgstr ""
+
+#: ../../FRF.rst:645
+msgid "Dash |mana_1| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../FRF.rst:655
+msgid "Mardu Strike Leader"
+msgstr ""
+
+#: ../../FRF.rst:652
+msgid "Whenever Mardu Strike Leader attacks, create a 2/1 black Warrior creature token."
+msgstr ""
+
+#: ../../FRF.rst:654
+msgid "Dash |mana_3| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../FRF.rst:662
+msgid "Merciless Executioner"
+msgstr ""
+
+#: ../../FRF.rst:661
+msgid "When Merciless Executioner enters the battlefield, each player sacrifices a creature."
+msgstr ""
+
+#: ../../FRF.rst:671
+msgid "Noxious Dragon"
+msgstr ""
+
+#: ../../FRF.rst:670
+msgid "When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less."
+msgstr ""
+
+#: ../../FRF.rst:678
+msgid "Orc Sureshot"
+msgstr ""
+
+#: ../../FRF.rst:677
+msgid "Whenever another creature enters the battlefield under your control, target creature an opponent controls gets -1/-1 until end of turn."
+msgstr ""
+
+#: ../../FRF.rst:689
+msgid "Palace Siege"
+msgstr ""
+
+#: ../../FRF.rst:684
+msgid "As Palace Siege enters the battlefield, choose Khans or Dragons."
+msgstr ""
+
+#: ../../FRF.rst:686
+msgid "Khans — At the beginning of your upkeep, return target creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../FRF.rst:688
+msgid "Dragons — At the beginning of your upkeep, each opponent loses 2 life and you gain 2 life."
+msgstr ""
+
+#: ../../FRF.rst:696
+msgid "Qarsi High Priest"
+msgstr ""
+
+#: ../../FRF.rst:695
+msgid "|mana_1| |mana_b|, |tap|, Sacrifice another creature: Manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:703
+msgid "Reach of Shadows"
+msgstr ""
+
+#: ../../FRF.rst:702
+msgid "Destroy target creature that's one or more colors."
+msgstr ""
+
+#: ../../FRF.rst:710
+msgid "Sibsig Host"
+msgstr ""
+
+#: ../../FRF.rst:709
+msgid "When Sibsig Host enters the battlefield, each player puts the top three cards of their library into their graveyard."
+msgstr ""
+
+#: ../../FRF.rst:719
+msgid "Sibsig Muckdraggers"
+msgstr ""
+
+#: ../../FRF.rst:718
+msgid "When Sibsig Muckdraggers enters the battlefield, return target creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../FRF.rst:728
+msgid "Soulflayer"
+msgstr ""
+
+#: ../../FRF.rst:727
+msgid "If a creature card with flying was exiled with Soulflayer's delve ability, Soulflayer has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance."
+msgstr ""
+
+#: ../../FRF.rst:735
+msgid "Sultai Emissary"
+msgstr ""
+
+#: ../../FRF.rst:734
+msgid "When Sultai Emissary dies, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:746
+msgid "Sultai Runemark"
+msgstr ""
+
+#: ../../FRF.rst:745
+msgid "Enchanted creature has deathtouch as long as you control a green or blue permanent. (Any amount of damage it deals to a creature is enough to destroy it.)"
+msgstr ""
+
+#: ../../FRF.rst:755
+msgid "Tasigur, the Golden Fang"
+msgstr ""
+
+#: ../../FRF.rst:754
+msgid "|mana_2|{G/U}{G/U}: Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand."
+msgstr ""
+
+#: ../../FRF.rst:764
+msgid "Tasigur's Cruelty"
+msgstr ""
+
+#: ../../FRF.rst:763
+msgid "Each opponent discards two cards."
+msgstr ""
+
+#: ../../FRF.rst:771
+msgid "Typhoid Rats"
+msgstr ""
+
+#: ../../FRF.rst:770
+msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
+msgstr ""
+
+#: ../../FRF.rst:780
+msgid "Alesha, Who Smiles at Death"
+msgstr ""
+
+#: ../../FRF.rst:777
+msgid "First strike"
+msgstr ""
+
+#: ../../FRF.rst:779
+msgid "Whenever Alesha, Who Smiles at Death attacks, you may pay {W/B}{W/B}. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking."
+msgstr ""
+
+#: ../../FRF.rst:787
+msgid "Arcbond"
+msgstr ""
+
+#: ../../FRF.rst:786
+msgid "Choose target creature. Whenever that creature is dealt damage this turn, it deals that much damage to each other creature and each player."
+msgstr ""
+
+#: ../../FRF.rst:794
+msgid "Bathe in Dragonfire"
+msgstr ""
+
+#: ../../FRF.rst:793
+msgid "Bathe in Dragonfire deals 4 damage to target creature."
+msgstr ""
+
+#: ../../FRF.rst:801
+msgid "Bloodfire Enforcers"
+msgstr ""
+
+#: ../../FRF.rst:800
+msgid "Bloodfire Enforcers has first strike and trample as long as an instant card and a sorcery card are in your graveyard."
+msgstr ""
+
+#: ../../FRF.rst:808
+msgid "Break Through the Line"
+msgstr ""
+
+#: ../../FRF.rst:807
+msgid "|mana_r|: Target creature with power 2 or less gains haste until end of turn and can't be blocked this turn."
+msgstr ""
+
+#: ../../FRF.rst:817
+msgid "Collateral Damage"
+msgstr ""
+
+#: ../../FRF.rst:814
+msgid "As an additional cost to cast this spell, sacrifice a creature."
+msgstr ""
+
+#: ../../FRF.rst:816
+msgid "Collateral Damage deals 3 damage to any target."
+msgstr ""
+
+#: ../../FRF.rst:828
+msgid "Defiant Ogre"
+msgstr ""
+
+#: ../../FRF.rst:823
+msgid "When Defiant Ogre enters the battlefield, choose one —"
+msgstr ""
+
+#: ../../FRF.rst:825
+msgid "Put a +1/+1 counter on Defiant Ogre."
+msgstr ""
+
+#: ../../FRF.rst:827
+msgid "Destroy target artifact."
+msgstr ""
+
+#: ../../FRF.rst:835
+msgid "Dragonrage"
+msgstr ""
+
+#: ../../FRF.rst:834
+msgid "Add |mana_r| for each attacking creature you control. Until end of turn, attacking creatures you control gain \"|mana_r|: This creature gets +1/+0 until end of turn.\""
+msgstr ""
+
+#: ../../FRF.rst:842
+msgid "Fierce Invocation"
+msgstr ""
+
+#: ../../FRF.rst:841
+msgid "Manifest the top card of your library, then put two +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:851
+msgid "Flamerush Rider"
+msgstr ""
+
+#: ../../FRF.rst:848
+msgid "Whenever Flamerush Rider attacks, create a token that's a copy of another target attacking creature and that's tapped and attacking. Exile the token at end of combat."
+msgstr ""
+
+#: ../../FRF.rst:850
+msgid "Dash |mana_2| |mana_r| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../FRF.rst:862
+msgid "Flamewake Phoenix"
+msgstr ""
+
+#: ../../FRF.rst:857
+msgid "Flying, haste"
+msgstr ""
+
+#: ../../FRF.rst:859
+msgid "Flamewake Phoenix attacks each combat if able."
+msgstr ""
+
+#: ../../FRF.rst:861
+msgid "Ferocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay |mana_r|. If you do, return Flamewake Phoenix from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../FRF.rst:869
+msgid "Friendly Fire"
+msgstr ""
+
+#: ../../FRF.rst:868
+msgid "Target creature's controller reveals a card at random from their hand. Friendly Fire deals damage to that creature and that player equal to the revealed card's converted mana cost."
+msgstr ""
+
+#: ../../FRF.rst:878
+msgid "Goblin Heelcutter"
+msgstr ""
+
+#: ../../FRF.rst:875
+msgid "Whenever Goblin Heelcutter attacks, target creature can't block this turn."
+msgstr ""
+
+#: ../../FRF.rst:877
+#: ../../FRF.rst:1008
+msgid "Dash |mana_2| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../FRF.rst:883
+msgid "Gore Swine"
+msgstr ""
+
+#: ../../FRF.rst:892
+msgid "Humble Defector"
+msgstr ""
+
+#: ../../FRF.rst:891
+msgid "|tap|: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn."
+msgstr ""
+
+#: ../../FRF.rst:899
+msgid "Hungering Yeti"
+msgstr ""
+
+#: ../../FRF.rst:898
+msgid "As long as you control a green or blue permanent, you may cast Hungering Yeti as though it had flash. (You may cast it any time you could cast an instant.)"
+msgstr ""
+
+#: ../../FRF.rst:908
+msgid "Lightning Shrieker"
+msgstr ""
+
+#: ../../FRF.rst:905
+msgid "Flying, trample, haste"
+msgstr ""
+
+#: ../../FRF.rst:907
+msgid "At the beginning of the end step, Lightning Shrieker's owner shuffles it into their library."
+msgstr ""
+
+#: ../../FRF.rst:919
+msgid "Mardu Runemark"
+msgstr ""
+
+#: ../../FRF.rst:918
+msgid "Enchanted creature has first strike as long as you control a white or black permanent."
+msgstr ""
+
+#: ../../FRF.rst:926
+msgid "Mardu Scout"
+msgstr ""
+
+#: ../../FRF.rst:925
+msgid "Dash |mana_1| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../FRF.rst:937
+msgid "Mob Rule"
+msgstr ""
+
+#: ../../FRF.rst:934
+msgid "Gain control of all creatures with power 4 or greater until end of turn. Untap those creatures. They gain haste until end of turn."
+msgstr ""
+
+#: ../../FRF.rst:936
+msgid "Gain control of all creatures with power 3 or less until end of turn. Untap those creatures. They gain haste until end of turn."
+msgstr ""
+
+#: ../../FRF.rst:948
+msgid "Outpost Siege"
+msgstr ""
+
+#: ../../FRF.rst:943
+msgid "As Outpost Siege enters the battlefield, choose Khans or Dragons."
+msgstr ""
+
+#: ../../FRF.rst:945
+msgid "Khans — At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card."
+msgstr ""
+
+#: ../../FRF.rst:947
+msgid "Dragons — Whenever a creature you control leaves the battlefield, Outpost Siege deals 1 damage to any target."
+msgstr ""
+
+#: ../../FRF.rst:955
+msgid "Pyrotechnics"
+msgstr ""
+
+#: ../../FRF.rst:954
+msgid "Pyrotechnics deals 4 damage divided as you choose among any number of targets."
+msgstr ""
+
+#: ../../FRF.rst:964
+msgid "Rageform"
+msgstr ""
+
+#: ../../FRF.rst:961
+msgid "When Rageform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Rageform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:963
+msgid "Enchanted creature has double strike. (It deals both first-strike and regular combat damage.)"
+msgstr ""
+
+#: ../../FRF.rst:975
+msgid "Shaman of the Great Hunt"
+msgstr ""
+
+#: ../../FRF.rst:970
+msgid "Haste"
+msgstr ""
+
+#: ../../FRF.rst:972
+msgid "Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../FRF.rst:974
+msgid "Ferocious — |mana_2|{G/U}{G/U}: Draw a card for each creature you control with power 4 or greater."
+msgstr ""
+
+#: ../../FRF.rst:984
+msgid "Shockmaw Dragon"
+msgstr ""
+
+#: ../../FRF.rst:983
+msgid "Whenever Shockmaw Dragon deals combat damage to a player, it deals 1 damage to each creature that player controls."
+msgstr ""
+
+#: ../../FRF.rst:991
+msgid "Smoldering Efreet"
+msgstr ""
+
+#: ../../FRF.rst:990
+msgid "When Smoldering Efreet dies, it deals 2 damage to you."
+msgstr ""
+
+#: ../../FRF.rst:1000
+msgid "Temur Battle Rage"
+msgstr ""
+
+#: ../../FRF.rst:997
+msgid "Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)"
+msgstr ""
+
+#: ../../FRF.rst:999
+msgid "Ferocious — That creature also gains trample until end of turn if you control a creature with power 4 or greater."
+msgstr ""
+
+#: ../../FRF.rst:1009
+msgid "Vaultbreaker"
+msgstr ""
+
+#: ../../FRF.rst:1006
+msgid "Whenever Vaultbreaker attacks, you may discard a card. If you do, draw a card."
+msgstr ""
+
+#: ../../FRF.rst:1018
+msgid "Wild Slash"
+msgstr ""
+
+#: ../../FRF.rst:1015
+msgid "Ferocious — If you control a creature with power 4 or greater, damage can't be prevented this turn."
+msgstr ""
+
+#: ../../FRF.rst:1017
+msgid "Wild Slash deals 2 damage to any target."
+msgstr ""
+
+#: ../../FRF.rst:1025
+msgid "Abzan Beastmaster"
+msgstr ""
+
+#: ../../FRF.rst:1024
+msgid "At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness."
+msgstr ""
+
+#: ../../FRF.rst:1032
+msgid "Abzan Kin-Guard"
+msgstr ""
+
+#: ../../FRF.rst:1031
+msgid "Abzan Kin-Guard has lifelink as long as you control a white or black permanent."
+msgstr ""
+
+#: ../../FRF.rst:1043
+msgid "Ainok Guide"
+msgstr ""
+
+#: ../../FRF.rst:1038
+msgid "When Ainok Guide enters the battlefield, choose one —"
+msgstr ""
+
+#: ../../FRF.rst:1040
+msgid "Put a +1/+1 counter on Ainok Guide."
+msgstr ""
+
+#: ../../FRF.rst:1042
+msgid "Search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it."
+msgstr ""
+
+#: ../../FRF.rst:1052
+msgid "Ambush Krotiq"
+msgstr ""
+
+#: ../../FRF.rst:1049
+#: ../../FRF.rst:1269
+msgid "Trample"
+msgstr ""
+
+#: ../../FRF.rst:1051
+msgid "When Ambush Krotiq enters the battlefield, return another creature you control to its owner's hand."
+msgstr ""
+
+#: ../../FRF.rst:1059
+msgid "Arashin War Beast"
+msgstr ""
+
+#: ../../FRF.rst:1058
+msgid "Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:1068
+msgid "Archers of Qarsi"
+msgstr ""
+
+#: ../../FRF.rst:1067
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../FRF.rst:1077
+msgid "Battlefront Krushok"
+msgstr ""
+
+#: ../../FRF.rst:1074
+msgid "Battlefront Krushok can't be blocked by more than one creature."
+msgstr ""
+
+#: ../../FRF.rst:1076
+msgid "Each creature you control with a +1/+1 counter on it can't be blocked by more than one creature."
+msgstr ""
+
+#: ../../FRF.rst:1084
+msgid "Cached Defenses"
+msgstr ""
+
+#: ../../FRF.rst:1083
+msgid "Bolster 3. (Choose a creature with the least toughness among creatures you control and put three +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../FRF.rst:1093
+msgid "Destructor Dragon"
+msgstr ""
+
+#: ../../FRF.rst:1092
+msgid "When Destructor Dragon dies, destroy target noncreature permanent."
+msgstr ""
+
+#: ../../FRF.rst:1098
+msgid "Feral Krushok"
+msgstr ""
+
+#: ../../FRF.rst:1107
+msgid "Formless Nurturing"
+msgstr ""
+
+#: ../../FRF.rst:1106
+msgid "Manifest the top card of your library, then put a +1/+1 counter on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:1114
+msgid "Frontier Mastodon"
+msgstr ""
+
+#: ../../FRF.rst:1113
+msgid "Ferocious — Frontier Mastodon enters the battlefield with a +1/+1 counter on it if you control a creature with power 4 or greater."
+msgstr ""
+
+#: ../../FRF.rst:1125
+msgid "Frontier Siege"
+msgstr ""
+
+#: ../../FRF.rst:1120
+msgid "As Frontier Siege enters the battlefield, choose Khans or Dragons."
+msgstr ""
+
+#: ../../FRF.rst:1122
+msgid "Khans — At the beginning of each of your main phases, add |mana_g| |mana_g|."
+msgstr ""
+
+#: ../../FRF.rst:1124
+msgid "Dragons — Whenever a creature with flying enters the battlefield under your control, you may have it fight target creature you don't control."
+msgstr ""
+
+#: ../../FRF.rst:1134
+msgid "Fruit of the First Tree"
+msgstr ""
+
+#: ../../FRF.rst:1133
+msgid "When enchanted creature dies, you gain X life and draw X cards, where X is its toughness."
+msgstr ""
+
+#: ../../FRF.rst:1141
+msgid "Hunt the Weak"
+msgstr ""
+
+#: ../../FRF.rst:1140
+msgid "Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../FRF.rst:1148
+msgid "Map the Wastes"
+msgstr ""
+
+#: ../../FRF.rst:1147
+msgid "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../FRF.rst:1155
+msgid "Return to the Earth"
+msgstr ""
+
+#: ../../FRF.rst:1154
+msgid "Destroy target artifact, enchantment, or creature with flying."
+msgstr ""
+
+#: ../../FRF.rst:1166
+msgid "Ruthless Instincts"
+msgstr ""
+
+#: ../../FRF.rst:1163
+msgid "Target nonattacking creature gains reach and deathtouch until end of turn. Untap it."
+msgstr ""
+
+#: ../../FRF.rst:1165
+msgid "Target attacking creature gets +2/+2 and gains trample until end of turn."
+msgstr ""
+
+#: ../../FRF.rst:1175
+msgid "Sandsteppe Mastodon"
+msgstr ""
+
+#: ../../FRF.rst:1172
+msgid "Reach"
+msgstr ""
+
+#: ../../FRF.rst:1174
+msgid "When Sandsteppe Mastodon enters the battlefield, bolster 5. (Choose a creature with the least toughness among creatures you control and put five +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../FRF.rst:1184
+msgid "Shamanic Revelation"
+msgstr ""
+
+#: ../../FRF.rst:1181
+msgid "Draw a card for each creature you control."
+msgstr ""
+
+#: ../../FRF.rst:1183
+msgid "Ferocious — You gain 4 life for each creature you control with power 4 or greater."
+msgstr ""
+
+#: ../../FRF.rst:1191
+msgid "Sudden Reclamation"
+msgstr ""
+
+#: ../../FRF.rst:1190
+msgid "Put the top four cards of your library into your graveyard, then return a creature card and a land card from your graveyard to your hand."
+msgstr ""
+
+#: ../../FRF.rst:1202
+msgid "Temur Runemark"
+msgstr ""
+
+#: ../../FRF.rst:1201
+msgid "Enchanted creature has trample as long as you control a blue or red permanent."
+msgstr ""
+
+#: ../../FRF.rst:1209
+msgid "Temur Sabertooth"
+msgstr ""
+
+#: ../../FRF.rst:1208
+msgid "|mana_1| |mana_g|: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn."
+msgstr ""
+
+#: ../../FRF.rst:1218
+msgid "Temur War Shaman"
+msgstr ""
+
+#: ../../FRF.rst:1215
+msgid "When Temur War Shaman enters the battlefield, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:1217
+msgid "Whenever a permanent you control is turned face up, if it's a creature, you may have it fight target creature you don't control."
+msgstr ""
+
+#: ../../FRF.rst:1229
+msgid "Warden of the First Tree"
+msgstr ""
+
+#: ../../FRF.rst:1224
+msgid "|mana_1|{W/B}: Warden of the First Tree becomes a Human Warrior with base power and toughness 3/3."
+msgstr ""
+
+#: ../../FRF.rst:1226
+msgid "|mana_2|{W/B}{W/B}: If Warden of the First Tree is a Warrior, it becomes a Human Spirit Warrior with trample and lifelink."
+msgstr ""
+
+#: ../../FRF.rst:1228
+msgid "|mana_3|{W/B}{W/B}{W/B}: If Warden of the First Tree is a Spirit, put five +1/+1 counters on it."
+msgstr ""
+
+#: ../../FRF.rst:1238
+msgid "Whisperer of the Wilds"
+msgstr ""
+
+#: ../../FRF.rst:1235
+msgid "|tap|: Add |mana_g|."
+msgstr ""
+
+#: ../../FRF.rst:1237
+msgid "Ferocious — |tap|: Add |mana_g| |mana_g|. Activate this ability only if you control a creature with power 4 or greater."
+msgstr ""
+
+#: ../../FRF.rst:1247
+msgid "Whisperwood Elemental"
+msgstr ""
+
+#: ../../FRF.rst:1244
+msgid "At the beginning of your end step, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:1246
+msgid "Sacrifice Whisperwood Elemental: Until end of turn, face-up nontoken creatures you control gain \"When this creature dies, manifest the top card of your library.\""
+msgstr ""
+
+#: ../../FRF.rst:1254
+msgid "Wildcall"
+msgstr ""
+
+#: ../../FRF.rst:1253
+msgid "Manifest the top card of your library, then put X +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:1263
+msgid "Winds of Qal Sisma"
+msgstr ""
+
+#: ../../FRF.rst:1260
+msgid "Prevent all combat damage that would be dealt this turn."
+msgstr ""
+
+#: ../../FRF.rst:1262
+msgid "Ferocious — If you control a creature with power 4 or greater, instead prevent all combat damage that would be dealt this turn by creatures your opponents control."
+msgstr ""
+
+#: ../../FRF.rst:1272
 msgid "Yasova Dragonclaw"
 msgstr ""
 
-#: ../../FRF.rst:1020
-# 27e2105c40744989b3b6b8671813977a
-msgid "At the beginning of combat on your turn, you may pay |mana_1| |mana_ur| |mana_ur|. If you do, gain control of target creature an opponent controls with power less than Yasova Dragonclaw's power until end of turn, untap that creature, and it gains haste until end of turn."
+#: ../../FRF.rst:1271
+msgid "At the beginning of combat on your turn, you may pay |mana_1|{U/R}{U/R}. If you do, gain control of target creature an opponent controls with power less than Yasova Dragonclaw's power until end of turn, untap that creature, and it gains haste until end of turn."
+msgstr ""
+
+#: ../../FRF.rst:1281
+msgid "Atarka, World Render"
+msgstr ""
+
+#: ../../FRF.rst:1278
+msgid "Flying, trample"
+msgstr ""
+
+#: ../../FRF.rst:1280
+msgid "Whenever a Dragon you control attacks, it gains double strike until end of turn."
+msgstr ""
+
+#: ../../FRF.rst:1290
+msgid "Cunning Strike"
+msgstr ""
+
+#: ../../FRF.rst:1287
+msgid "Cunning Strike deals 2 damage to target creature and 2 damage to target player or planeswalker."
+msgstr ""
+
+#: ../../FRF.rst:1299
+msgid "Dromoka, the Eternal"
+msgstr ""
+
+#: ../../FRF.rst:1298
+msgid "Whenever a Dragon you control attacks, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../FRF.rst:1306
+msgid "Ethereal Ambush"
+msgstr ""
+
+#: ../../FRF.rst:1305
+msgid "Manifest the top two cards of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgstr ""
+
+#: ../../FRF.rst:1313
+msgid "Grim Contest"
+msgstr ""
+
+#: ../../FRF.rst:1312
+msgid "Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its toughness to the other."
+msgstr ""
+
+#: ../../FRF.rst:1320
+msgid "Harsh Sustenance"
+msgstr ""
+
+#: ../../FRF.rst:1319
+msgid "Harsh Sustenance deals X damage to any target and you gain X life, where X is the number of creatures you control."
+msgstr ""
+
+#: ../../FRF.rst:1331
+msgid "Kolaghan, the Storm's Fury"
+msgstr ""
+
+#: ../../FRF.rst:1328
+msgid "Whenever a Dragon you control attacks, creatures you control get +1/+0 until end of turn."
+msgstr ""
+
+#: ../../FRF.rst:1330
+msgid "Dash |mana_3| |mana_b| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgstr ""
+
+#: ../../FRF.rst:1340
+msgid "Ojutai, Soul of Winter"
+msgstr ""
+
+#: ../../FRF.rst:1337
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../FRF.rst:1339
+msgid "Whenever a Dragon you control attacks, tap target nonland permanent an opponent controls. That permanent doesn't untap during its controller's next untap step."
+msgstr ""
+
+#: ../../FRF.rst:1349
+msgid "Silumgar, the Drifting Death"
+msgstr ""
+
+#: ../../FRF.rst:1346
+msgid "Flying, hexproof"
+msgstr ""
+
+#: ../../FRF.rst:1348
+msgid "Whenever a Dragon you control attacks, creatures defending player controls get -1/-1 until end of turn."
+msgstr ""
+
+#: ../../FRF.rst:1356
+msgid "War Flare"
+msgstr ""
+
+#: ../../FRF.rst:1355
+msgid "Creatures you control get +2/+1 until end of turn. Untap those creatures."
+msgstr ""
+
+#: ../../FRF.rst:1365
+msgid "Goblin Boom Keg"
+msgstr ""
+
+#: ../../FRF.rst:1362
+msgid "At the beginning of your upkeep, sacrifice Goblin Boom Keg."
+msgstr ""
+
+#: ../../FRF.rst:1364
+msgid "When Goblin Boom Keg is put into a graveyard from the battlefield, it deals 3 damage to any target."
+msgstr ""
+
+#: ../../FRF.rst:1376
+msgid "Hero's Blade"
+msgstr ""
+
+#: ../../FRF.rst:1371
+msgid "Equipped creature gets +3/+2."
+msgstr ""
+
+#: ../../FRF.rst:1373
+msgid "Whenever a legendary creature enters the battlefield under your control, you may attach Hero's Blade to it."
+msgstr ""
+
+#: ../../FRF.rst:1375
+msgid "Equip |mana_4|"
+msgstr ""
+
+#: ../../FRF.rst:1383
+msgid "Hewed Stone Retainers"
+msgstr ""
+
+#: ../../FRF.rst:1382
+msgid "Cast this spell only if you've cast another spell this turn."
+msgstr ""
+
+#: ../../FRF.rst:1390
+msgid "Pilgrim of the Fires"
+msgstr ""
+
+#: ../../FRF.rst:1389
+msgid "First strike, trample"
+msgstr ""
+
+#: ../../FRF.rst:1399
+msgid "Scroll of the Masters"
+msgstr ""
+
+#: ../../FRF.rst:1396
+msgid "Whenever you cast a noncreature spell, put a lore counter on Scroll of the Masters."
+msgstr ""
+
+#: ../../FRF.rst:1398
+msgid "|mana_3|, |tap|: Target creature you control gets +1/+1 until end of turn for each lore counter on Scroll of the Masters."
+msgstr ""
+
+#: ../../FRF.rst:1406
+msgid "Ugin's Construct"
+msgstr ""
+
+#: ../../FRF.rst:1405
+msgid "When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors."
+msgstr ""
+
+#: ../../FRF.rst:1417
+msgid "Bloodfell Caves"
+msgstr ""
+
+#: ../../FRF.rst:1412
+msgid "Bloodfell Caves enters the battlefield tapped."
+msgstr ""
+
+#: ../../FRF.rst:1414
+msgid "When Bloodfell Caves enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../FRF.rst:1416
+msgid "|tap|: Add |mana_b| or |mana_r|."
+msgstr ""
+
+#: ../../FRF.rst:1428
+msgid "Blossoming Sands"
+msgstr ""
+
+#: ../../FRF.rst:1423
+msgid "Blossoming Sands enters the battlefield tapped."
+msgstr ""
+
+#: ../../FRF.rst:1425
+msgid "When Blossoming Sands enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../FRF.rst:1427
+msgid "|tap|: Add |mana_g| or |mana_w|."
+msgstr ""
+
+#: ../../FRF.rst:1439
+msgid "Crucible of the Spirit Dragon"
+msgstr ""
+
+#: ../../FRF.rst:1434
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../FRF.rst:1436
+msgid "|mana_1|, |tap|: Put a storage counter on Crucible of the Spirit Dragon."
+msgstr ""
+
+#: ../../FRF.rst:1438
+msgid "|tap|, Remove X storage counters from Crucible of the Spirit Dragon: Add X mana in any combination of colors. Spend this mana only to cast Dragon spells or activate abilities of Dragons."
+msgstr ""
+
+#: ../../FRF.rst:1450
+msgid "Dismal Backwater"
+msgstr ""
+
+#: ../../FRF.rst:1445
+msgid "Dismal Backwater enters the battlefield tapped."
+msgstr ""
+
+#: ../../FRF.rst:1447
+msgid "When Dismal Backwater enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../FRF.rst:1449
+msgid "|tap|: Add |mana_u| or |mana_b|."
+msgstr ""
+
+#: ../../FRF.rst:1461
+msgid "Jungle Hollow"
+msgstr ""
+
+#: ../../FRF.rst:1456
+msgid "Jungle Hollow enters the battlefield tapped."
+msgstr ""
+
+#: ../../FRF.rst:1458
+msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../FRF.rst:1460
+msgid "|tap|: Add |mana_b| or |mana_g|."
+msgstr ""
+
+#: ../../FRF.rst:1472
+msgid "Rugged Highlands"
+msgstr ""
+
+#: ../../FRF.rst:1467
+msgid "Rugged Highlands enters the battlefield tapped."
+msgstr ""
+
+#: ../../FRF.rst:1469
+msgid "When Rugged Highlands enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../FRF.rst:1471
+msgid "|tap|: Add |mana_r| or |mana_g|."
+msgstr ""
+
+#: ../../FRF.rst:1483
+msgid "Scoured Barrens"
+msgstr ""
+
+#: ../../FRF.rst:1478
+msgid "Scoured Barrens enters the battlefield tapped."
+msgstr ""
+
+#: ../../FRF.rst:1480
+msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../FRF.rst:1482
+msgid "|tap|: Add |mana_w| or |mana_b|."
+msgstr ""
+
+#: ../../FRF.rst:1494
+msgid "Swiftwater Cliffs"
+msgstr ""
+
+#: ../../FRF.rst:1489
+msgid "Swiftwater Cliffs enters the battlefield tapped."
+msgstr ""
+
+#: ../../FRF.rst:1491
+msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../FRF.rst:1493
+msgid "|tap|: Add |mana_u| or |mana_r|."
+msgstr ""
+
+#: ../../FRF.rst:1505
+msgid "Thornwood Falls"
+msgstr ""
+
+#: ../../FRF.rst:1500
+msgid "Thornwood Falls enters the battlefield tapped."
+msgstr ""
+
+#: ../../FRF.rst:1502
+msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../FRF.rst:1504
+msgid "|tap|: Add |mana_g| or |mana_u|."
+msgstr ""
+
+#: ../../FRF.rst:1516
+msgid "Tranquil Cove"
+msgstr ""
+
+#: ../../FRF.rst:1511
+msgid "Tranquil Cove enters the battlefield tapped."
+msgstr ""
+
+#: ../../FRF.rst:1513
+msgid "When Tranquil Cove enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../FRF.rst:1515
+msgid "|tap|: Add |mana_w| or |mana_u|."
+msgstr ""
+
+#: ../../FRF.rst:1527
+msgid "Wind-Scarred Crag"
+msgstr ""
+
+#: ../../FRF.rst:1522
+msgid "Wind-Scarred Crag enters the battlefield tapped."
+msgstr ""
+
+#: ../../FRF.rst:1524
+msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../FRF.rst:1526
+msgid "|tap|: Add |mana_r| or |mana_w|."
+msgstr ""
+
+#: ../../FRF.rst:1532
+#: ../../FRF.rst:1539
+msgid "Plains"
+msgstr ""
+
+#: ../../FRF.rst:1546
+#: ../../FRF.rst:1553
+msgid "Island"
+msgstr ""
+
+#: ../../FRF.rst:1560
+#: ../../FRF.rst:1567
+msgid "Swamp"
+msgstr ""
+
+#: ../../FRF.rst:1574
+#: ../../FRF.rst:1581
+msgid "Mountain"
+msgstr ""
+
+#: ../../FRF.rst:1588
+#: ../../FRF.rst:1595
+msgid "Forest"
 msgstr ""
 

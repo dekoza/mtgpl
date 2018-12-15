@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-16 01:27+0100\n"
+"POT-Creation-Date: 2018-12-15 13:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,117 +17,94 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../BNG_horde.rst:5
-# 16feda1f96034ae1bd8587e12c30bb67
 msgid "Battle the Horde!"
 msgstr ""
 
 #: ../../BNG_horde.rst:7
-# 81962054ebf2487f9c264c85fdc0a742
 msgid "You have come far, hero, but the next step on your Hero's Path is the deadliest yet. You will face the Horde, an onslaught of savage and fierce Minotaurs, an unyielding tide of destruction."
 msgstr ""
 
 #: ../../BNG_horde.rst:10
-# 7e6d100ba6fc4519be8dfd2c470e05be
 msgid "As the battle progresses, more and more Minotaurs will join the ranks of the Horde. They will attack at every opportunitym but a strong defense can turn their aggression against them. The Horde will bring idols, talismans, and other remnants of previous conquests. On the battlefield, these artifacts will inspire the Horde to frenzy, speeding up the assault. But if you can send those artifacts to the graveyard, you'll reap the rewards. The Horde's sorceries make its creatures difficult to handle in combat, but these sorceries can backfire at times."
 msgstr ""
 
 #: ../../BNG_horde.rst:17
-# ea963300067348f0b1ee595041bdbd5d
 msgid "Can you defeat the Horde? To battle!"
 msgstr ""
 
 #: ../../BNG_horde.rst:20
-# cb5f7cd879ca4ab9b8065f7323832c02
 msgid "**The \"Battle the Horde\" Challenge uses the Regular Magic rules, with the following exceptions:**"
 msgstr ""
 
 #: ../../BNG_horde.rst:23
-# 87144765d13c40b3a10a513a004bbf87
 msgid "Special Rules for the Player"
 msgstr ""
 
 #: ../../BNG_horde.rst:25
-# d9eaa42ae58f4acab5edcff27ed43b46
 msgid "You start with up to three different Hero cards on the battlefield. (You don't need a Hero to play.)"
 msgstr ""
 
 #: ../../BNG_horde.rst:26
-# bade42dba0aa44da832e5f4e3aa2c75b
 msgid "**You take three turns at the start of the game, before the Horde takes its first turn.**"
 msgstr ""
 
 #: ../../BNG_horde.rst:27
-# acdb254cdc324ad5baec5468233881b7
 msgid "You can attack the Horde with your creatures as thought it were a player, even before the Horde takes a turn."
 msgstr ""
 
 #: ../../BNG_horde.rst:28
-# 921c1dde717544df8881aa77a2f97079
 msgid "The Horde doesn't have a life total, but its library serves a similar purpose. **If the Horde would lose life, put that many cards from the top of its library into its graveyard.** Watch for artifact cards in the Horde's library. They each have a \"hero's reward\" ability that triggers when the artifact card is put into the graveyard."
 msgstr ""
 
 #: ../../BNG_horde.rst:32
-# 4509ab1523cc461dbce0dfbe9a7190d2
 msgid "You can target the Horde with spells and abilities a thought it were a player, even before the Horde takes a turn."
 msgstr ""
 
 #: ../../BNG_horde.rst:36
-# 8f267192a313493ca2c742c2307dbb06
 msgid "Special Rules for the Horde"
 msgstr ""
 
 #: ../../BNG_horde.rst:38
-# 943a7d4b1faf4082bf989970564054b0
 msgid "At the beginning of the Horde's precombat main phase each turn, reveal the top two cards of the Horde's library. Then the Horde casts those cards. (The Horde's artifacts each cause an additional card to be revealed and cast, starting the turn after the artifact enters the battlefield.)"
 msgstr ""
 
 #: ../../BNG_horde.rst:41
-# fd5ee959d31c4cdda7a60c14aed93186
 msgid "You make the choice if the Horde needs to make a decision."
 msgstr ""
 
 #: ../../BNG_horde.rst:42
-# da27ec05cb274561b35d7544e7be1cf0
 msgid "Ignore effects that would cause Horde to draw or discard cards, or perform any impossible actions."
 msgstr ""
 
 #: ../../BNG_horde.rst:43
-# 88acafbc42494d098002e680ad5aaf3b
 msgid "If on of the Horde's permanents would move to any zone other than its library or graveyard, that card is put into the Horde's graveyard."
 msgstr ""
 
 #: ../../BNG_horde.rst:47
-# 0c555150fbd1459fbca4ef58bb5aeec3
 msgid "Winning the Challenge"
 msgstr ""
 
 #: ../../BNG_horde.rst:49
-# 9406e2b178fe413fb3573590c98f6207
 msgid "You win the game if the Horde has no cards left in its library and the Horde controls no creatures on the battlefield."
 msgstr ""
 
 #: ../../BNG_horde.rst:51
-# 3cbea248381d483fab234da7ef2dce3d
 msgid "You lose the game if you have 0 or less life or if you have to draw a card and your library is empty."
 msgstr ""
 
 #: ../../BNG_horde.rst:53
-# 09d6eabe36984c929fe7e963b8c5f62f
 msgid "For a more difficult challenge, try taking only two turns before the Horde's first turn. For an easier challenge, take four turns."
 msgstr ""
 
 #: ../../BNG_horde.rst:58
-# 6f7a0de72f834a20b9fc39e6115da05d
 msgid "Horde Cards"
 msgstr ""
 
 #: ../../BNG_horde.rst:61
-# 2f55fdacd98d41a9920bbc4f7c23b38e
 msgid "Creatures"
 msgstr ""
 
 #: ../../BNG_horde.rst:67
-# 1e5297de6b844e4bac4adf8bb7a93ee4
 msgid "Minotaur Goreseeker"
 msgstr ""
 
@@ -135,130 +112,102 @@ msgstr ""
 #: ../../BNG_horde.rst:70
 #: ../../BNG_horde.rst:82
 #: ../../BNG_horde.rst:88
-# d80c8fc5a58347ec84e39631f697a87e
-# 9bdc70c5d70a4f538f9ae484b7897f65
-# f718bbfb50c04342a02b9318fad1ba7b
-# e16a645e7bfd4fdebeb9cc6f62010ae3
 msgid "Haste"
 msgstr ""
 
 #: ../../BNG_horde.rst:66
-# f36a552017634b9eb041634c1f28a3ab
 msgid "Minotaur Goreseeker attacks each turn if able."
 msgstr ""
 
 #: ../../BNG_horde.rst:73
-# 39e65d48f0fe4aa8a94130eecadbfd09
 msgid "Minotaur Younghorn"
 msgstr ""
 
 #: ../../BNG_horde.rst:72
-# 28e97eb9965b44e78588d77b63c82911
 msgid "Minotaur Younghorn attacks each turn if able"
 msgstr ""
 
 #: ../../BNG_horde.rst:79
-# 0cebfbeac7b74b2495ab28b9b849d241
 msgid "Mogis's Chosen"
 msgstr ""
 
 #: ../../BNG_horde.rst:76
-# 4bd48f3f03534024979c27960db8b5b3
 msgid "Mogis's Chosen enters the battlefield tapped."
 msgstr ""
 
 #: ../../BNG_horde.rst:78
-# 377d6b3f3f9d4a2a8127ed6a4d7dc1e1
 msgid "Mogis's Chosen attacks each turn if able."
 msgstr ""
 
 #: ../../BNG_horde.rst:85
-# 75c3b227be124bba99defb28c5ed91a4
 msgid "Phoberos Reaver"
 msgstr ""
 
 #: ../../BNG_horde.rst:84
-# 899b55eba02b403691c3232f617430c1
 msgid "Phoberos Reaver attacks each turn if able."
 msgstr ""
 
 #: ../../BNG_horde.rst:93
-# 38a88ae5ef4e4470af569968d1ac5b1f
 msgid "Reckless Minotaur"
 msgstr ""
 
 #: ../../BNG_horde.rst:90
-# 25374a93731d4effbe55656277d99dc1
 msgid "Reckless Minotaur attacks each turn if able."
 msgstr ""
 
 #: ../../BNG_horde.rst:93
-# b15f05b975314e29beabd809e17292df
 msgid "At the beginning of the end step, destroy Reckless Minotaur"
 msgstr ""
 
 #: ../../BNG_horde.rst:96
-# 6c0817f4a6d740d08b2331877d23a98d
 msgid "Sorceries"
 msgstr ""
 
 #: ../../BNG_horde.rst:100
-# ef0e8932c34146049428082cc7fd977f
 msgid "Consuming Rage"
 msgstr ""
 
 #: ../../BNG_horde.rst:99
-# 693fc141854b44a4813a4ea3a9c91476
 msgid "Whenever a Minotaur attacks this turn, it gets +2/+0 until end of turn. Destroy that creature at the end of combat."
 msgstr ""
 
 #: ../../BNG_horde.rst:103
-# 235bb49ff0914ec7bf3b531193698427
 msgid "Descend on the Prey"
 msgstr ""
 
 #: ../../BNG_horde.rst:103
-# cde38572d308498e94cadc0d05c7a15e
 msgid "Whenever a Minotaur attacks this turn, it gains first strike until end of turn and must be blocked this turn if able."
 msgstr ""
 
 #: ../../BNG_horde.rst:106
-# 0bad8e5b33a144978eb11e96ca01b133
 msgid "Intervention of Keranos"
 msgstr ""
 
 #: ../../BNG_horde.rst:106
-# efc6350a7e344fd8a27a870f9eb28ce9
 msgid "At the beginning of combat this turn, Intervention of Keranos deals 3 damage to each creature."
 msgstr ""
 
 #: ../../BNG_horde.rst:109
-# bc274c1c341f4d4981fd6875960bb041
 msgid "Touch of the Horned God"
 msgstr ""
 
 #: ../../BNG_horde.rst:109
-# 9837f81b2aef4bd280e141586206e330
 msgid "Whenever a Minotaur attacks this turn, it gets deathtouch until end of turn."
 msgstr ""
 
 #: ../../BNG_horde.rst:112
-# 4f5a5386490048a58706ae544c8ca54e
 msgid "Unquenchable Fury"
 msgstr ""
 
 #: ../../BNG_horde.rst:112
-# f788a91020a44c3a97d69b177580220e
 msgid "Each Minotaur can't be blocked this turn except by two or more creatures."
 msgstr ""
 
 #: ../../BNG_horde.rst:115
-# 897590b34f6a4a639b94c7e225e854c3
 msgid "Artifacts"
 msgstr ""
 
 #: ../../BNG_horde.rst:123
-# eabba40c5f874d5ea320249964b7a273
 msgid "Altar of Mogis"
 msgstr ""
 
@@ -267,56 +216,42 @@ msgstr ""
 #: ../../BNG_horde.rst:134
 #: ../../BNG_horde.rst:142
 #: ../../BNG_horde.rst:150
-# 146139320ca44fb6a4982ff706c7d4dd
-# d607462a47454fd4b7c9a09b512a4a79
-# 4fda86453dd14ea18430eff1942b222b
-# 2fda3aec66ad45ad83b226515239003e
-# 8bd6afe0ae24420dbddfab600a2386b5
 msgid "At the beginning of the Horde's precombat main phase, reveal an additional card from the top of the Horde's library. The Horde casts that card."
 msgstr ""
 
 #: ../../BNG_horde.rst:120
-# e70c781a1f6d4c0495833ac6aa50eb2f
 msgid "*Hero's Reward* - When Altar of Mogis is put into a graveyard from anywhere, the Horde sacrifices two Minotaurs."
 msgstr ""
 
 #: ../../BNG_horde.rst:131
-# b963774cd1b440c28d9000d34bcebf8d
 msgid "Massacre Totem"
 msgstr ""
 
 #: ../../BNG_horde.rst:128
-# f6366e3e913e4acfaa88c69b189a5e69
 msgid "*Hero's Reward* - When Massacre Totem is put into a graveyard from anywhere, put the top seven cards of the Horde's library into its graveyard."
 msgstr ""
 
 #: ../../BNG_horde.rst:139
-# 7d61038c08f745f180854c933671cb45
 msgid "Plundered Statue"
 msgstr ""
 
 #: ../../BNG_horde.rst:136
-# 44926bd07268468b941830f438dbf369
 msgid "*Hero's Reward* - When Plundered Statue is put into a graveyard from anywhere, each player draws a card."
 msgstr ""
 
 #: ../../BNG_horde.rst:147
-# 9b6b18f24b894e30988d9a12c59ee774
 msgid "Refreshing Elixir"
 msgstr ""
 
 #: ../../BNG_horde.rst:144
-# 144ca98c2eba4b22900633ef2aa4c6e7
 msgid "*Hero's Reward* - When Refreshing Elixir is put into a graveyard from anywhere, each player gains 5 life."
 msgstr ""
 
 #: ../../BNG_horde.rst:154
-# 7509f3bb4d444a8db71dbb9cfc71fa4a
 msgid "Vitality Salve"
 msgstr ""
 
 #: ../../BNG_horde.rst:152
-# a674a68c0c6f4addbccbf0219fb08061
 msgid "*Hero's Reward* - When Vitality Salve is put into a graveyard from anywhere, each player returns a creature card from his or her graveyard to the battlefield."
 msgstr ""
 

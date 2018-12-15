@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-16 01:27+0100\n"
+"POT-Creation-Date: 2018-12-16 00:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,162 +17,130 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../changelog.rst:4
-# 1cb5d362cdc24a77887cd532193cf34a
 msgid "Spis zmian"
 msgstr ""
 
 #: ../../changelog.rst:7
-# d1226f0480a048a3a159b71d629b40c3
 msgid "2014-01-29"
 msgstr ""
 
 #: ../../changelog.rst:7
-# bb1743c7d69846599866dfe6d6f58ba1
-msgid "Nowe dodatki: :doc:`Born of the Gods<BNG>`, :doc:`Avacyn Restored<AVR>`, :doc:`Dark Ascension<DKA>1, :doc:`Innistrad<ISD>`, :doc:`New Phyrexia<NPH>`."
+msgid "Nowe dodatki: :doc:`Born of the Gods<BNG>`, :doc:`Avacyn Restored<AVR>`, :doc:`Dark Ascension<DKA>`, :doc:`Innistrad<ISD>`, :doc:`New Phyrexia<NPH>`."
 msgstr ""
 
 #: ../../changelog.rst:10
-# d1226f0480a048a3a159b71d629b40c3
 msgid "2014-01-27"
 msgstr ""
 
 #: ../../changelog.rst:10
-# 834dd99af4884431bc0dd7cb45c30946
 msgid "Zmiana kolejności wyświetlania dodatków. Dodanie podziału na Standard/Modern/Pozostałe/Specjalne."
 msgstr ""
 
 #: ../../changelog.rst:13
-# f2511de9a35e4a70826c8a973adeb1db
 msgid "2014-01-24"
 msgstr ""
 
 #: ../../changelog.rst:13
-# 5924fafc55394bb78456b1b26f221054
 msgid "Dodano talię wyzwania :doc:`Walka z Hordą<BNG_horde>`."
 msgstr ""
 
 #: ../../changelog.rst:18
-# 0014113b0e6e4d9da34fa3666aa1e923
 msgid "2013-11-26"
 msgstr ""
 
 #: ../../changelog.rst:16
-# 2c2b095125a14b6c83d0ab37544430ee
 msgid "Dodano surową wersję pełnej instrukcji do gry (:doc:`Comprehensive Rules <comprules>`) (bez tłumaczenia)"
 msgstr ""
 
 #: ../../changelog.rst:18
-# b6f40ef2dc5a42b39ed4ae27a73d210e
 msgid "Zmiana tłumaczenia słowa \"permanent\"."
 msgstr ""
 
 #: ../../changelog.rst:25
-# 1167dc7c7805471ea4d09ca5f62b1833
 msgid "2013-11-03"
 msgstr ""
 
 #: ../../changelog.rst:21
-# 52908da83b044ec2a637860efe7697e1
 msgid "Dodano :doc:`zasady formatu Commander<commander>` (bez tłumaczenia)."
 msgstr ""
 
 #: ../../changelog.rst:23
-# aaf81535ce9c4cada4f94e35a036729e
 msgid "Reorganizacja strony tytułowej."
 msgstr ""
 
 #: ../../changelog.rst:25
-# 13ed965a72784f599528365fcbaa25f5
 msgid "Dodana możliwość włączania podglądu kart w formie tooltip."
 msgstr ""
 
 #: ../../changelog.rst:28
-# cd20cb78c8ed44ecb4547cc5b9112532
 msgid "2013-10-07"
 msgstr ""
 
 #: ../../changelog.rst:28
-# 196d84b5445c4b909fef6bd8e3b1571f
 msgid "Zakończenie tłumaczenia: :doc:`RTR<RTR>`, :doc:`GTC<GTC>`, :doc:`DGM<DGM>`."
 msgstr ""
 
 #: ../../changelog.rst:33
-# c1c58fcd49d44073a1c0104931a2cfbb
 msgid "2013-09-29"
 msgstr ""
 
 #: ../../changelog.rst:31
-# 8371bbcf875c42aea33b331b4af5cb79
 msgid "Dodano artykuł opisujący dodatkowe warianty gry nie ujęte w Skróconej Instrukcji."
 msgstr ""
 
 #: ../../changelog.rst:33
-# 9841f4edf5ab4dc1ac2362ab35919d09
 msgid "Dodano polskie żetony stworów oraz lądy."
 msgstr ""
 
 #: ../../changelog.rst:38
-# e7e465a19ffc4cfc96bdc3e25859f26f
 msgid "2013-09-28"
 msgstr ""
 
 #: ../../changelog.rst:36
-# a4cb9c6446124018ab9e02a1333adccb
 msgid "Dodanie kart z decku :doc:`Face the Hydra<THS_hydra>` wraz z instrukcją gry."
 msgstr ""
 
 #: ../../changelog.rst:38
-# 4d2838e92da4414f838d0eea9b735c32
 msgid "Dodano :doc:`uzasadnienie<rationale>` tłumaczeń określonych słów kluczowych i ogólnej koncepcji projektu."
 msgstr ""
 
 #: ../../changelog.rst:41
-# e1410ddb0f774a4cb84e1daa37f6b4c1
 msgid "2013-09-17"
 msgstr ""
 
 #: ../../changelog.rst:41
-# 9c46e4e960b14463bb574d7ed5734948
 msgid "Zakończenie tłumaczenia :doc:`THS<THS>`."
 msgstr ""
 
 #: ../../changelog.rst:44
-# 380015f4b4214e43be4ae6b7817dda11
 msgid "2013-09-08"
 msgstr ""
 
 #: ../../changelog.rst:44
-# a6f0e2821ef94f6fbdb6935abe01cbad
 msgid "Adaptacja skróconej instrukcji do formatu używanego podczas tłumaczenia."
 msgstr ""
 
 #: ../../changelog.rst:47
-# 505a3b8d8e314bc9a99b27a9912fc3ea
 msgid "2013-09-03"
 msgstr ""
 
 #: ../../changelog.rst:47
-# 432228e37e0c494b8dc0a7a988c3f60e
 msgid "Zakończenie tłumaczenia :doc:`M14<M14>`."
 msgstr ""
 
 #: ../../changelog.rst:50
-# 299bab5d70fa4306885d3bfe88dd549a
 msgid "2013-09-01"
 msgstr ""
 
 #: ../../changelog.rst:50
-# 4e1403999287401a90b19314cb13d2bb
 msgid "Start strony mtg.kozaczko.info."
 msgstr ""
 
 #: ../../changelog.rst:53
-# 540548f65952437fa1a2308bef395dd9
 msgid "2012-12-01"
 msgstr ""
 
 #: ../../changelog.rst:53
-# 72b0f3db817346c6be09c2c1a58787a0
 msgid "Rozpoczęcie procesu tłumaczenia na `forum Strefy Gry <http://strefa-gry.pl/index.php?/topic/6-tlumaczenie-mtg-czesc-1-typy-cechy-i-zdolnosci-kart/>`_"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-16 01:27+0100\n"
+"POT-Creation-Date: 2018-12-15 23:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,3368 +17,2636 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../ISD.rst:5
-# 76019308f1924f46af15758d3df4a527
 msgid "Innistrad"
 msgstr ""
 
-#: ../../ISD.rst:11
-# 5f6226cf4fee4a8980f78d8ff3cf9e52
-msgid "Abattoir Ghoul"
-msgstr ""
-
-#: ../../ISD.rst:8
-#: ../../ISD.rst:706
-#: ../../ISD.rst:744
-#: ../../ISD.rst:1402
-# 52b90d3451574bf9a99e0cdab69fa4d1
-# 977836d6bf15404abea4efbb7dd9010f
-# a4bacf382fc942db8386e92196ed124b
-# 231906a2401d4f42a8d754fce1c61fe8
-msgid "First strike"
-msgstr ""
-
-#: ../../ISD.rst:10
-# 93bd6ebc10af4a35842f07367ca93f29
-msgid "Whenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness."
-msgstr ""
-
-#: ../../ISD.rst:15
-# 7a0d53588877468590038f40194902f9
+#: ../../ISD.rst:13
 msgid "Abbey Griffin"
 msgstr ""
 
-#: ../../ISD.rst:14
-# 0412a5e9ef06422f847ad6b6da873862
+#: ../../ISD.rst:12
 msgid "Flying, vigilance"
 msgstr ""
 
-#: ../../ISD.rst:21
-# e5725db74e0540c4aed382f5d360b3ea
-msgid "Altar's Reap"
-msgstr ""
-
-#: ../../ISD.rst:18
-# 9ac16ad7f9a44159a33c80064cb48586
-msgid "As an additional cost to cast Altar's Reap, sacrifice a creature."
-msgstr ""
-
-#: ../../ISD.rst:20
-# a2ec34a364f444d2a9accccb49fa240a
-msgid "Draw two cards."
-msgstr ""
-
-#: ../../ISD.rst:27
-# b820b722aba24fce98dde1cc0618b396
-msgid "Ambush Viper"
-msgstr ""
-
-#: ../../ISD.rst:24
-#: ../../ISD.rst:1392
-# ee0a8c5ea2d04865a7758272e5eb86e0
-# d54363e6952b4d57ac1f4105b26a31eb
-msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
-
-#: ../../ISD.rst:26
-#: ../../ISD.rst:1334
-# 5f6e080df3ae4e429b3743888301364e
-# 75d292b7a691442c859a148769d2c1e7
-msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
-msgstr ""
-
-#: ../../ISD.rst:33
-# 45acd8bb28344f13ac58621af958b088
-msgid "Ancient Grudge"
-msgstr ""
-
-#: ../../ISD.rst:30
-# 4bd9e3d044f14ee8a0f48c11e37b0825
-msgid "Destroy target artifact."
-msgstr ""
-
-#: ../../ISD.rst:32
-#: ../../ISD.rst:844
-# 56776cd0e05c4b948b6aba60031660ee
-# 8121991836a5482b9695309a26b3990b
-msgid "Flashback |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:39
-# 1faa6b08fa834f1d8cf18562532b7415
+#: ../../ISD.rst:22
 msgid "Angel of Flight Alabaster"
 msgstr ""
 
-#: ../../ISD.rst:36
-#: ../../ISD.rst:42
-#: ../../ISD.rst:74
-#: ../../ISD.rst:86
-#: ../../ISD.rst:118
-#: ../../ISD.rst:124
-#: ../../ISD.rst:196
-#: ../../ISD.rst:314
-#: ../../ISD.rst:406
-#: ../../ISD.rst:466
-#: ../../ISD.rst:682
-#: ../../ISD.rst:754
-#: ../../ISD.rst:768
-#: ../../ISD.rst:868
-#: ../../ISD.rst:874
-#: ../../ISD.rst:896
-#: ../../ISD.rst:922
-#: ../../ISD.rst:964
-#: ../../ISD.rst:1036
-#: ../../ISD.rst:1082
-#: ../../ISD.rst:1148
-#: ../../ISD.rst:1232
-#: ../../ISD.rst:1254
-#: ../../ISD.rst:1378
-# 612778bbfa3d4bddbfd7d10fed156802
-# b378351a608e4e938fd9e5e0ab8989b9
-# 5b8a72033dde45ebb404813faab0c46e
-# 0daf4c3124574d8e93d3ad3e60e300a2
-# c9eb7ef2ca864a9085a85249eafaef74
-# 7fddd77b6c3046b1b718a0b1d6f1a39e
-# 3be3c6a3977b46569b48cf3a9e981c86
-# 708aab4a940b4112a908a107e88bce9d
-# 7c2abb3f2d5b4625bea1b58ce0eab1b5
-# 33e2e96edc354ea0888eb79a754436a5
-# c229d001ab27490fa695d974295f82e8
-# 52e92f0b77144d38adfecb8cb90d1e32
-# c41f71fe61ce4a8f840df4ce9e6af751
-# 6da0c359d7b143a5b144747edc1d079d
-# 87b6dfa1d5ac47f89253b0ed73945054
-# afc990fcc16045c896edf3940dc12113
-# a430f6e7637f4b1e87c25f870bddd167
-# 66ffe29a9f4d4d0f90ab260963b2610f
-# 94a55ca5cfa940a6abcd384d35ba9faf
-# 6050e296258f4bf5bed63f821fecd4bd
-# 4eb5d685f00440e1b55104cff05514c9
-# b550002da4b8407984f16a8648a9184e
-# 96f0b33d6c8742a0a2ee2f48d7622811
-# 1df9fd687e7f4089938fdea1babe990b
+#: ../../ISD.rst:19
+#: ../../ISD.rst:28
+#: ../../ISD.rst:60
+#: ../../ISD.rst:81
+#: ../../ISD.rst:140
+#: ../../ISD.rst:374
+#: ../../ISD.rst:442
+#: ../../ISD.rst:527
+#: ../../ISD.rst:575
+#: ../../ISD.rst:584
+#: ../../ISD.rst:593
+#: ../../ISD.rst:600
+#: ../../ISD.rst:659
+#: ../../ISD.rst:688
+#: ../../ISD.rst:702
+#: ../../ISD.rst:767
+#: ../../ISD.rst:776
+#: ../../ISD.rst:787
+#: ../../ISD.rst:873
+#: ../../ISD.rst:975
+#: ../../ISD.rst:991
+#: ../../ISD.rst:1071
+#: ../../ISD.rst:1117
+#: ../../ISD.rst:1928
 msgid "Flying"
 msgstr ""
 
-#: ../../ISD.rst:38
-# 8acba0de487e404fa1ebf41d80b68cc2
+#: ../../ISD.rst:21
 msgid "At the beginning of your upkeep, return target Spirit card from your graveyard to your hand."
 msgstr ""
 
-#: ../../ISD.rst:45
-# 63e5a7bf18704ef8825b20acbc729dc1
+#: ../../ISD.rst:31
 msgid "Angelic Overseer"
 msgstr ""
 
-#: ../../ISD.rst:44
-# c0285f5334e14d3ebd4aeb3823b96a55
+#: ../../ISD.rst:30
 msgid "As long as you control a Human, Angelic Overseer has hexproof and indestructible."
 msgstr ""
 
-#: ../../ISD.rst:49
-# 1724e833efbe46c3926a0a624beca667
-msgid "Armored Skaab"
-msgstr ""
-
-#: ../../ISD.rst:48
-# e41e35237bc34d83b2cf5d147f86df2b
-msgid "When Armored Skaab enters the battlefield, put the top four cards of your library into your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:55
-# d1776e2085c84449aa087e4d3c5dcacc
-msgid "Army of the Damned"
-msgstr ""
-
-#: ../../ISD.rst:52
-# 5ef810fcb49a47ec84ebe7e0705399ee
-msgid "Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped."
-msgstr ""
-
-#: ../../ISD.rst:54
-# c8ffaa7deefd44db98f69eb6c651cdb2
-msgid "Flashback |mana_7| |mana_b| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:59
-# 818b34698bb84842a73c6b17b438462b
-msgid "Ashmouth Hound"
-msgstr ""
-
-#: ../../ISD.rst:58
-# d932626d7b5c473ab024bc5a248fdbb4
-msgid "Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature."
-msgstr ""
-
-#: ../../ISD.rst:63
-# 756c3641023043bb86a3b0873058beec
+#: ../../ISD.rst:38
 msgid "Avacynian Priest"
 msgstr ""
 
-#: ../../ISD.rst:62
-# 7b296174573b4f4f9fe8bdb1fda44d08
+#: ../../ISD.rst:37
 msgid "|mana_1|, |tap|: Tap target non-Human creature."
 msgstr ""
 
-#: ../../ISD.rst:67
-# 4bd01eb5e7af48eb91c64bb15b52edfb
-msgid "Avacyn's Pilgrim"
-msgstr ""
-
-#: ../../ISD.rst:66
-# 00f18a1a61e94e279ecb10a2f4dca4e3
-msgid "|tap|: Add |mana_w| to your mana pool."
-msgstr ""
-
-#: ../../ISD.rst:71
-# 3030fac7cc29402d908ccb5cd32daa6d
-msgid "Back from the Brink"
-msgstr ""
-
-#: ../../ISD.rst:70
-# 5640cfa58b4a4bb0a89d289b4b8d12e5
-msgid "Exile a creature card from your graveyard and pay its mana cost: Put a token onto the battlefield that's a copy of that card. Activate this ability only any time you could cast a sorcery."
-msgstr ""
-
-#: ../../ISD.rst:77
-# 19c5be1f7815488caa0f9d1683654d75
-msgid "Balefire Dragon"
-msgstr ""
-
-#: ../../ISD.rst:76
-# fd0428cb6a1741218c0db99e55b68477
-msgid "Whenever Balefire Dragon deals combat damage to a player, it deals that much damage to each creature that player controls."
-msgstr ""
-
-#: ../../ISD.rst:83
-# fa132afef603450faa905bb4f0630ba3
-msgid "Bane of Hanweir"
-msgstr ""
-
-#: ../../ISD.rst:80
-# 058e11b7812c498d9698b9571d6f6253
-msgid "Bane of Hanweir attacks each turn if able."
-msgstr ""
-
-#: ../../ISD.rst:82
-# 2b39e01a9cc84fc58763d5e507068dc4
-msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Bane of Hanweir."
-msgstr ""
-
-#: ../../ISD.rst:89
-# 8d9b869324aa4fd88887845dbff45f20
-msgid "Battleground Geist"
-msgstr ""
-
-#: ../../ISD.rst:88
-# 6bd56cc074ee4464b1e3bd988fa4ebf7
-msgid "Other Spirit creatures you control get +1/+0."
-msgstr ""
-
-#: ../../ISD.rst:95
-# 3210ca9cab27490a8621852b974fa31d
-msgid "Bitterheart Witch"
-msgstr ""
-
-#: ../../ISD.rst:92
-# 6a73bacba6084b799c74cb15f1610ea5
-msgid "Deathtouch"
-msgstr ""
-
-#: ../../ISD.rst:94
-# 815921f2204f40beab85bfe4a405dd81
-msgid "When Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle your library."
-msgstr ""
-
-#: ../../ISD.rst:101
-# c9101d78049f406ca8b05cc2b969cba0
-msgid "Blasphemous Act"
-msgstr ""
-
-#: ../../ISD.rst:98
-# b9aabb38ee7b41e9967bc88f50a6acf1
-msgid "Blasphemous Act costs |mana_1| less to cast for each creature on the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:100
-# 148c0bb6765a46849e7b810dfd27036e
-msgid "Blasphemous Act deals 13 damage to each creature."
-msgstr ""
-
-#: ../../ISD.rst:109
-# b4b72897b708403e80fc8fa3036468cd
-msgid "Blazing Torch"
-msgstr ""
-
-#: ../../ISD.rst:104
-# 5543feca874e4cc89570ae00a8cec71a
-msgid "Equipped creature can't be blocked by Vampires or Zombies."
-msgstr ""
-
-#: ../../ISD.rst:106
-# 92cd68ad54944e8e99948eaba040b1d1
-msgid "Equipped creature has \\\"|tap|, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player.\\\""
-msgstr ""
-
-#: ../../ISD.rst:108
-#: ../../ISD.rst:230
-#: ../../ISD.rst:1438
-# 8d9ca1478c3c4956976afa2ed45b7600
-# 990de73fced84c2b991bbdf19c50e740
-# 4cc7a2bda16944489c2e2eb177990c95
-msgid "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)"
-msgstr ""
-
-#: ../../ISD.rst:115
-# 8eb3a6324acf4fb2bc81ab7b36b8db8b
-msgid "Bloodcrazed Neonate"
-msgstr ""
-
-#: ../../ISD.rst:112
-# 0f854199313145cf8353795ba1b973e0
-msgid "Bloodcrazed Neonate attacks each turn if able."
-msgstr ""
-
-#: ../../ISD.rst:114
-# 283cce48df6f47408f0387b66e13d8c6
-msgid "Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it."
-msgstr ""
-
-#: ../../ISD.rst:121
-# fded4b76e1384af386e5de5c48044ad0
-msgid "Bloodgift Demon"
-msgstr ""
-
-#: ../../ISD.rst:120
-# 8a5c7f41e8bb4bedb6fb6bb899d47953
-msgid "At the beginning of your upkeep, target player draws a card and loses 1 life."
-msgstr ""
-
-#: ../../ISD.rst:129
-# a348ceacec634d04b71724adc47bd8b9
-msgid "Bloodline Keeper"
-msgstr ""
-
-#: ../../ISD.rst:126
-#: ../../ISD.rst:772
-# d567b2466afe4a73a5eb97c9bd944fa6
-# 539961f02457459faafb4306c4d4bf4c
-msgid "|tap|: Put a 2/2 black Vampire creature token with flying onto the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:128
-# fb71f042d9a04cf38c5c565e6784a335
-msgid "|mana_b|: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires."
-msgstr ""
-
-#: ../../ISD.rst:135
-# ccff7d83e78b41d6aef1d06ff8d0ad92
+#: ../../ISD.rst:47
 msgid "Bonds of Faith"
 msgstr ""
 
-#: ../../ISD.rst:132
-#: ../../ISD.rst:210
-#: ../../ISD.rst:256
-#: ../../ISD.rst:308
-#: ../../ISD.rst:460
-#: ../../ISD.rst:542
-#: ../../ISD.rst:602
-#: ../../ISD.rst:1096
-#: ../../ISD.rst:1154
-#: ../../ISD.rst:1192
-#: ../../ISD.rst:1452
-# 3abb0662b76f4865b8e6d389592db75d
-# d0ecaec3662446a38c2933362e5bd105
-# 618559a1856b4c3294bbb04c35764c57
-# a2a8f230c9014d558b27f1125c8cdb2e
-# 93bd30d2843049219a215b4e05fe8653
-# f894f7ffa5f64092aa6a56497eb7cb1c
-# 49bcf5728b00443098e3ce92529721b6
-# 97bd86a333b849edbf0265e18c0b3cfe
-# 30b0a922a7e743faa3637cd9676bc88a
-# 1d52961f64394d4cacc3b0dfdd60df7d
-# add43cc2084f4d20af25d35a13e1d860
+#: ../../ISD.rst:44
+#: ../../ISD.rst:160
+#: ../../ISD.rst:406
+#: ../../ISD.rst:417
+#: ../../ISD.rst:630
+#: ../../ISD.rst:677
+#: ../../ISD.rst:843
+#: ../../ISD.rst:900
+#: ../../ISD.rst:1016
+#: ../../ISD.rst:1239
+#: ../../ISD.rst:1892
 msgid "Enchant creature"
 msgstr ""
 
-#: ../../ISD.rst:134
-# c35a0857d1294c73a9c80657a8200616
+#: ../../ISD.rst:46
 msgid "Enchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block."
 msgstr ""
 
-#: ../../ISD.rst:139
-# 2a3e5ff2b2db4421b53f4c8a10125514
-msgid "Boneyard Wurm"
-msgstr ""
-
-#: ../../ISD.rst:138
-# a3772744328442738268f6ed7e998ef6
-msgid "Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:145
-# 9281d39d611743c1ac84e868d8860563
-msgid "Brain Weevil"
-msgstr ""
-
-#: ../../ISD.rst:142
-#: ../../ISD.rst:496
-#: ../../ISD.rst:1198
-# 6660fdc0b3424c7aba7bd8ecdee4f259
-# 09c6e1a14bbe4faabba772df2a07767c
-# b9fc78cb5a784caf9e8d95f56876dd17
-msgid "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
-msgstr ""
-
-#: ../../ISD.rst:144
-# 2f8a491fc9424db5ac1e3adc97dd89e2
-msgid "Sacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery."
-msgstr ""
-
-#: ../../ISD.rst:149
-# e186e6e6af094cf6a6fb9fa2b085c172
-msgid "Bramblecrush"
-msgstr ""
-
-#: ../../ISD.rst:148
-# e275e51e535944fd9a7c1c441fefe89e
-msgid "Destroy target noncreature permanent."
-msgstr ""
-
-#: ../../ISD.rst:155
-# c6d0ed1312f8477783a79609a0438505
-msgid "Brimstone Volley"
-msgstr ""
-
-#: ../../ISD.rst:152
-# 7121f1374e0840f1b815d7c2c8d2d7f0
-msgid "Brimstone Volley deals 3 damage to target creature or player."
-msgstr ""
-
-#: ../../ISD.rst:154
-# d3ef71c7e4734472ad8066885604bcd1
-msgid "Morbid — Brimstone Volley deals 5 damage to that creature or player instead if a creature died this turn."
-msgstr ""
-
-#: ../../ISD.rst:161
-# 10e71f0b856c4db688bded136897a33f
-msgid "Bump in the Night"
-msgstr ""
-
-#: ../../ISD.rst:158
-# 6800f800f87c4ae58850533406bfa3d1
-msgid "Target opponent loses 3 life."
-msgstr ""
-
-#: ../../ISD.rst:160
-# 92c0f0c4968e48eaa4523560d3556891
-msgid "Flashback |mana_5| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:165
-# 0478e15e183b456cba03a76c6b91eadb
-msgid "Burning Vengeance"
-msgstr ""
-
-#: ../../ISD.rst:164
-# de3dd6e6768b4357afcde71929bcb7af
-msgid "Whenever you cast a spell from your graveyard, Burning Vengeance deals 2 damage to target creature or player."
-msgstr ""
-
-#: ../../ISD.rst:173
-# 3334249e85344a709817fbffa6e49489
-msgid "Butcher's Cleaver"
-msgstr ""
-
-#: ../../ISD.rst:168
-# 32fa4e06a9834a5186b60cb67c810155
-msgid "Equipped creature gets +3/+0."
-msgstr ""
-
-#: ../../ISD.rst:170
-# 70e4b577ccf340c0b51e94336bbb14cc
-msgid "As long as equipped creature is a Human, it has lifelink."
-msgstr ""
-
-#: ../../ISD.rst:172
-#: ../../ISD.rst:824
-# e66e7b444af94c478f507088b935c579
-# 7d52ad5f25e248b6a894e9f9b3264673
-msgid "Equip |mana_3|"
-msgstr ""
-
-#: ../../ISD.rst:179
-# bd0b4499307d42a2928917c57c781ad0
-msgid "Cackling Counterpart"
-msgstr ""
-
-#: ../../ISD.rst:176
-# fae513733afa4544b47d0be423a97e95
-msgid "Put a token onto the battlefield that's a copy of target creature you control."
-msgstr ""
-
-#: ../../ISD.rst:178
-# 3de655cc57d54a2781a1b05216b29358
-msgid "Flashback |mana_5| |mana_u| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:185
-# 27f250ca3e32407085c7d008ffaa0541
-msgid "Caravan Vigil"
-msgstr ""
-
-#: ../../ISD.rst:182
-# 1d32ab94518a4019a444193de8b6b89e
-msgid "Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
-msgstr ""
-
-#: ../../ISD.rst:184
-# 7b1ebc307c024caab5ca88154fbb3a90
-msgid "Morbid — You may put that card onto the battlefield instead of putting it into your hand if a creature died this turn."
-msgstr ""
-
-#: ../../ISD.rst:189
-# 04d7fea9faa14a96bcf9d6c04754a65a
-msgid "Cellar Door"
-msgstr ""
-
-#: ../../ISD.rst:188
-# 264db9f4aaa2412fa5c76e87c9285a67
-msgid "|mana_3|, |tap|: Target player puts the bottom card of his or her library into his or her graveyard. If it's a creature card, you put a 2/2 black Zombie creature token onto the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:193
-# c53a3c9b1b8f4f4fa4e7fa5074ea1d4a
+#: ../../ISD.rst:54
 msgid "Champion of the Parish"
 msgstr ""
 
-#: ../../ISD.rst:192
-# 6afa22c9586d489fa2939476d2274ecb
+#: ../../ISD.rst:53
 msgid "Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Champion of the Parish."
 msgstr ""
 
-#: ../../ISD.rst:197
-# dd69e64040e44610abe8a36ab974c6f7
+#: ../../ISD.rst:61
 msgid "Chapel Geist"
 msgstr ""
 
-#: ../../ISD.rst:203
-# 0fdca0119bff464290b1e65de14b4266
-msgid "Charmbreaker Devils"
-msgstr ""
-
-#: ../../ISD.rst:200
-# 03ad8043d0544cadafb694c8d38c4890
-msgid "At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand."
-msgstr ""
-
-#: ../../ISD.rst:202
-# e898433da552436c9c9d22fd26fdc56d
-msgid "Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn."
-msgstr ""
-
-#: ../../ISD.rst:207
-# 70c5295cae6c48f4ad8477cf25e143a8
-msgid "Civilized Scholar"
-msgstr ""
-
-#: ../../ISD.rst:206
-# 0a9dc16bbbc046d5ab4ce70b63a524c2
-msgid "|tap|: Draw a card, then discard a card. If a creature card is discarded this way, untap Civilized Scholar, then transform it."
-msgstr ""
-
-#: ../../ISD.rst:215
-# 8fa3b4e6f8e647a588393e30971385c1
-msgid "Claustrophobia"
-msgstr ""
-
-#: ../../ISD.rst:212
-# 3497a89ef42f4b1fb2c9e5063b8f901c
-msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr ""
-
-#: ../../ISD.rst:214
-# 279a2a65ff74489e90c671b855cf91ee
-msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
-
-#: ../../ISD.rst:221
-# 7ca0cefdd76d427cbe84017603443b80
-msgid "Clifftop Retreat"
-msgstr ""
-
-#: ../../ISD.rst:218
-# 718ab9cdedd14fa8b8983695b2d1dbf9
-msgid "Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains."
-msgstr ""
-
-#: ../../ISD.rst:220
-# 0295ee0f0fa34f44b1d9ccab122e2b3f
-msgid "|tap|: Add |mana_r| or |mana_w| to your mana pool."
-msgstr ""
-
-#: ../../ISD.rst:225
-# 2265760882d7489f9affece8f1be1916
+#: ../../ISD.rst:68
 msgid "Cloistered Youth"
 msgstr ""
 
-#: ../../ISD.rst:224
-# 1682b8eaf34b4f3faf47bb65d7fc96d6
+#: ../../ISD.rst:67
 msgid "At the beginning of your upkeep, you may transform Cloistered Youth."
 msgstr ""
 
-#: ../../ISD.rst:231
-# 61e27e6a99e040d586d3b33eeb5bf3d0
-msgid "Cobbled Wings"
-msgstr ""
-
-#: ../../ISD.rst:228
-# c00fb1de2890480692ad94316bd27ae7
-msgid "Equipped creature has flying."
-msgstr ""
-
-#: ../../ISD.rst:237
-# 3a12833505eb494eb77e92a5f6565a52
-msgid "Corpse Lunge"
-msgstr ""
-
-#: ../../ISD.rst:234
-# c62f19bb700049e1a15c4b54a8fe35cd
-msgid "As an additional cost to cast Corpse Lunge, exile a creature card from your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:236
-# 627b1bbbfded445e9fc6a3f21c5b9bc8
-msgid "Corpse Lunge deals damage equal to the exiled card's power to target creature."
-msgstr ""
-
-#: ../../ISD.rst:243
-# d0dc37f0cd9f428e9cf6b9b8e8222c2a
-msgid "Creeping Renaissance"
-msgstr ""
-
-#: ../../ISD.rst:240
-# 7b5dc4e9e26c490c850de1ca7a951d3d
-msgid "Choose a permanent type. Return all cards of the chosen type from your graveyard to your hand."
-msgstr ""
-
-#: ../../ISD.rst:242
-# 3b1e655b477e4332b1b808e1deb499be
-msgid "Flashback |mana_5| |mana_g| |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:249
-# 418a25ae96454d92b5a75df5eaac6114
-msgid "Creepy Doll"
-msgstr ""
-
-#: ../../ISD.rst:246
-# 819326d691494f6dba317bb0373c8ad5
-msgid "Indestructible"
-msgstr ""
-
-#: ../../ISD.rst:248
-# 58e349018e634a4fa35cea0d49f4ebfa
-msgid "Whenever Creepy Doll deals combat damage to a creature, flip a coin. If you win the flip, destroy that creature."
-msgstr ""
-
-#: ../../ISD.rst:253
-# 20e59e464508434f8c81bed4047d8644
-msgid "Crossway Vampire"
-msgstr ""
-
-#: ../../ISD.rst:252
-# 8deebf1a65a14fc2849843b28cb40dc0
-msgid "When Crossway Vampire enters the battlefield, target creature can't block this turn."
-msgstr ""
-
-#: ../../ISD.rst:259
-# 47d01f6f9dbb48f2a5bd7091f4d865f4
-msgid "Curiosity"
-msgstr ""
-
-#: ../../ISD.rst:258
-# c9f518423a3e4488b1bb98c545e1414e
-msgid "Whenever enchanted creature deals damage to an opponent, you may draw a card."
-msgstr ""
-
-#: ../../ISD.rst:265
-# 16df4e9164b74875bb0e7ce61a9bab55
-msgid "Curse of Death's Hold"
-msgstr ""
-
-#: ../../ISD.rst:262
-#: ../../ISD.rst:268
-#: ../../ISD.rst:274
-#: ../../ISD.rst:280
-#: ../../ISD.rst:286
-#: ../../ISD.rst:292
-# 5ae0cff972e6463b929f9bb0e1df3152
-# d8c1dd21f16e49b6a01883e67a821709
-# d63ebc9878bc4bb8bb1c05c8bec86f29
-# 9fe551b4647e4168bf256a700f50e4c6
-# 46548622398e42da8d6c53abfee8ff8b
-# 8e5d6b6d7ecb4e71947805950e38e21a
-msgid "Enchant player"
-msgstr ""
-
-#: ../../ISD.rst:264
-# 1a838048b2514ab5a6660594ddaccc2c
-msgid "Creatures enchanted player controls get -1/-1."
-msgstr ""
-
-#: ../../ISD.rst:271
-# 7ca30e3ab7384f759d197a38c1b42f6e
-msgid "Curse of Oblivion"
-msgstr ""
-
-#: ../../ISD.rst:270
-# 81d176a2043b46afa14b162b241c8628
-msgid "At the beginning of enchanted player's upkeep, that player exiles two cards from his or her graveyard."
-msgstr ""
-
-#: ../../ISD.rst:277
-# e99f3d73e79a47c8a6ba241ab3e9e64d
-msgid "Curse of Stalked Prey"
-msgstr ""
-
-#: ../../ISD.rst:276
-# 73e0afafd8074a92944977ec80c6feca
-msgid "Whenever a creature deals combat damage to enchanted player, put a +1/+1 counter on that creature."
-msgstr ""
-
-#: ../../ISD.rst:283
-# 332bffa8cb434895906a6b1f82abc549
-msgid "Curse of the Bloody Tome"
-msgstr ""
-
-#: ../../ISD.rst:282
-# 1a1be3e28d6b4bdebd75fc1a3d999998
-msgid "At the beginning of enchanted player's upkeep, that player puts the top two cards of his or her library into his or her graveyard."
-msgstr ""
-
-#: ../../ISD.rst:289
-# 341c8a93098446cfaf3294199a688a15
-msgid "Curse of the Nightly Hunt"
-msgstr ""
-
-#: ../../ISD.rst:288
-# 4fd224175c924cb1b33a808b38ef36c1
-msgid "Creatures enchanted player controls attack each turn if able."
-msgstr ""
-
-#: ../../ISD.rst:295
-# 6740b8dbb0f140ca846d0e1d62157fd6
-msgid "Curse of the Pierced Heart"
-msgstr ""
-
-#: ../../ISD.rst:294
-# d22b42e46e1d47c0912df4ef4026d36c
-msgid "At the beginning of enchanted player's upkeep, Curse of the Pierced Heart deals 1 damage to that player."
-msgstr ""
-
-#: ../../ISD.rst:299
-# 020baf7e16b64a60b933ec16d61408d7
-msgid "Darkthicket Wolf"
-msgstr ""
-
-#: ../../ISD.rst:298
-# 34fcdb9745f7444580c651854e4f230e
-msgid "|mana_2| |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn."
-msgstr ""
-
-#: ../../ISD.rst:305
-# e92298522b0b44559d3c5205756cf5e1
-msgid "Daybreak Ranger"
-msgstr ""
-
-#: ../../ISD.rst:302
-# 15f338ddfa3e4fc7b6fdf09dce72c339
-msgid "|tap|: Daybreak Ranger deals 2 damage to target creature with flying."
-msgstr ""
-
-#: ../../ISD.rst:304
-# c6a1f744516b4c28828d162c4a8071e7
-msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Daybreak Ranger."
-msgstr ""
-
-#: ../../ISD.rst:311
-# f29d09e7fcc74b1292de7db1b0d6e039
-msgid "Dead Weight"
-msgstr ""
-
-#: ../../ISD.rst:310
-# 493a4a09818547acb2ba49fc10a4d48b
-msgid "Enchanted creature gets -2/-2."
-msgstr ""
-
-#: ../../ISD.rst:317
-# a03c1fe70f4641f9b75f47cb48589deb
-msgid "Dearly Departed"
-msgstr ""
-
-#: ../../ISD.rst:316
-# c01c34c25b6942ae91e930b9c780606f
-msgid "As long as Dearly Departed is in your graveyard, each Human creature you control enters the battlefield with an additional +1/+1 counter on it."
-msgstr ""
-
-#: ../../ISD.rst:321
-# bfb0110e27bc43f3b28775b681a480c7
-msgid "Delver of Secrets"
-msgstr ""
-
-#: ../../ISD.rst:320
-# 6e9f268b3fb64711a80a4fe3cfc98d9a
-msgid "At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets."
-msgstr ""
-
-#: ../../ISD.rst:327
-# 4a7cc8faa07147b1985a867dc7aaeba4
-msgid "Demonmail Hauberk"
-msgstr ""
-
-#: ../../ISD.rst:324
-# 07016f40ae2144ca97291074e8e917e6
-msgid "Equipped creature gets +4/+2."
-msgstr ""
-
-#: ../../ISD.rst:326
-# ff1b58b06b4a43f9b04b21bc54f8ee0c
-msgid "Equip—Sacrifice a creature."
-msgstr ""
-
-#: ../../ISD.rst:331
-# 1041d5f066774cfe8ab69dd9684c786a
-msgid "Deranged Assistant"
-msgstr ""
-
-#: ../../ISD.rst:330
-# 30f33289695a4e7c9d0e6f101213400c
-msgid "|tap|, Put the top card of your library into your graveyard: Add |mana_1| to your mana pool."
-msgstr ""
-
-#: ../../ISD.rst:337
-# a8c68059eddb43cd893d81a6c29ce3c2
-msgid "Desperate Ravings"
-msgstr ""
-
-#: ../../ISD.rst:334
-# 779667326a2e493dae7fb510b7126398
-msgid "Draw two cards, then discard a card at random."
-msgstr ""
-
-#: ../../ISD.rst:336
-#: ../../ISD.rst:1282
-# 5443f46333da45a18c8dfa7cf707ba3b
-# 537d3722b1ec40a285f1556c1ff70a7c
-msgid "Flashback |mana_2| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:343
-# aed74d6bb3d649b09a642643f784e423
-msgid "Devil's Play"
-msgstr ""
-
-#: ../../ISD.rst:340
-# a143c70d71214db1adc6209cee5521b5
-msgid "Devil's Play deals X damage to target creature or player."
-msgstr ""
-
-#: ../../ISD.rst:342
-# 0b359a699e224617ab8c102dfe836e7f
-msgid "Flashback |mana_x| |mana_r| |mana_r| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:347
-# 564a396ebb5c4846bd2fd13a26c6991e
-msgid "Diregraf Ghoul"
-msgstr ""
-
-#: ../../ISD.rst:346
-# e375488876614a9b8c009b99f8814c08
-msgid "Diregraf Ghoul enters the battlefield tapped."
-msgstr ""
-
-#: ../../ISD.rst:351
-# 01bbd9caa3e84e62bdcfc5811cd0a4d3
-msgid "Disciple of Griselbrand"
-msgstr ""
-
-#: ../../ISD.rst:350
-# ef0c7191a8f6440e9e2985607dc599a9
-msgid "|mana_1|, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness."
-msgstr ""
-
-#: ../../ISD.rst:355
-# 1a35fd09ef89486594a89e9899355860
-msgid "Dissipate"
-msgstr ""
-
-#: ../../ISD.rst:354
-# 3594fd34cb3a4429912299cd42cecee1
-msgid "Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
-msgstr ""
-
-#: ../../ISD.rst:361
-# 37ab66e2b1ef40bd94c4e3b10642a672
-msgid "Divine Reckoning"
-msgstr ""
-
-#: ../../ISD.rst:358
-# 70ff04d90f3248a2999adf00ac4015b6
-msgid "Each player chooses a creature he or she controls. Destroy the rest."
-msgstr ""
-
-#: ../../ISD.rst:360
-# baf4346989d24bb6b18020f4ead1569a
-msgid "Flashback |mana_5| |mana_w| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:365
-# e83ca96acdaa4466bcafd7ea1685d9c9
-msgid "Doomed Traveler"
-msgstr ""
-
-#: ../../ISD.rst:364
-# 2a46b219407040a1b130745dadc9a4d2
-msgid "When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:371
-# 8142aea1e2d841bd86c4869f79e93302
-msgid "Dream Twist"
-msgstr ""
-
-#: ../../ISD.rst:368
-# 269dfe72bd8c41b6ae6ebb8756c32afa
-msgid "Target player puts the top three cards of his or her library into his or her graveyard."
-msgstr ""
-
-#: ../../ISD.rst:370
-#: ../../ISD.rst:414
-# bd0b7335b18c40d283e9a8015e1ba965
-# d35ac4bad013434c86876c0ef113688e
-msgid "Flashback |mana_1| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:375
-# 4eb2a63b7f4a4721afab102872a7e236
-msgid "Elder Cathar"
-msgstr ""
-
-#: ../../ISD.rst:374
-# 72bd44f26c604a2e9e4b26b98945be9b
-msgid "When Elder Cathar dies, put a +1/+1 counter on target creature you control. If that creature is a Human, put two +1/+1 counters on it instead."
-msgstr ""
-
-#: ../../ISD.rst:379
-# 436736f1d19247fdbc9efacefea7a770
-msgid "Elder of Laurels"
-msgstr ""
-
-#: ../../ISD.rst:378
-# 4028e85b1d1c4442a9ead32b29c71772
-msgid "|mana_3| |mana_g|: Target creature gets +X/+X until end of turn, where X is the number of creatures you control."
-msgstr ""
-
-#: ../../ISD.rst:385
-# 8679723f667344049ee123cbd7a6dedf
-msgid "Elite Inquisitor"
-msgstr ""
-
-#: ../../ISD.rst:382
-# d9865c92015f40908ec55fd4a26a7afd
-msgid "First strike, vigilance"
-msgstr ""
-
-#: ../../ISD.rst:384
-# 13701228cc70498bab7142ecf2458645
-msgid "Protection from Vampires, from Werewolves, and from Zombies"
-msgstr ""
-
-#: ../../ISD.rst:389
-# 42bf029e2a4741818cf2d2f59cec97c3
-msgid "Endless Ranks of the Dead"
-msgstr ""
-
-#: ../../ISD.rst:388
-# 8c3eb9db27ca4cd2a9103b28dd80b59d
-msgid "At the beginning of your upkeep, put X 2/2 black Zombie creature tokens onto the battlefield, where X is half the number of Zombies you control, rounded down."
-msgstr ""
-
-#: ../../ISD.rst:393
-# 159cb29d0981452db3cd529fa572c594
-msgid "Essence of the Wild"
-msgstr ""
-
-#: ../../ISD.rst:392
-# b1dcb630fbdc41f3adc0af569c57c4c1
-msgid "Creatures you control enter the battlefield as a copy of Essence of the Wild."
-msgstr ""
-
-#: ../../ISD.rst:397
-# 31a80fde26494e318a97ad1bbbc309f0
-msgid "Evil Twin"
-msgstr ""
-
-#: ../../ISD.rst:396
-# 8d9d2a59906a4668b3c60db748c605a5
-msgid "You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield except it gains \\\"|mana_u| |mana_b|, |tap|: Destroy target creature with the same name as this creature.\\\""
-msgstr ""
-
-#: ../../ISD.rst:403
-# ca4dc6ceec2c4cb6bd4b89c1e2f48e74
-msgid "Falkenrath Marauders"
-msgstr ""
-
-#: ../../ISD.rst:400
-# 3fd295fedaa546dbb1cef16dedef8083
-msgid "Flying, haste"
-msgstr ""
-
-#: ../../ISD.rst:402
-# dba8c4d4e08941d5b21b6a717fedc0d6
-msgid "Whenever Falkenrath Marauders deals combat damage to a player, put two +1/+1 counters on it."
-msgstr ""
-
-#: ../../ISD.rst:409
-# 51a905faf0ac4259b85f3147d70def26
-msgid "Falkenrath Noble"
-msgstr ""
-
-#: ../../ISD.rst:408
-# 51514169aefe4c568519e409f01d64f9
-msgid "Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life."
-msgstr ""
-
-#: ../../ISD.rst:415
-# e87a2782a0a24f258301ede48191a0ab
-msgid "Feeling of Dread"
-msgstr ""
-
-#: ../../ISD.rst:412
-# 5a9c4bbfa1a64be5a5436d6cf4f1e40c
-msgid "Tap up to two target creatures."
-msgstr ""
-
-#: ../../ISD.rst:421
-# 326385a4cd12454b96709af99da7ddaa
-msgid "Feral Ridgewolf"
-msgstr ""
-
-#: ../../ISD.rst:418
-#: ../../ISD.rst:424
-#: ../../ISD.rst:780
-#: ../../ISD.rst:886
-#: ../../ISD.rst:1142
-#: ../../ISD.rst:1212
-#: ../../ISD.rst:1286
-#: ../../ISD.rst:1420
-# 362a495c2b8449f68bdabb943faf8c2d
-# efbc7d26139049adb15114e29c5a142c
-# b8e4cde27696433290cb7ea7c0fc9c9c
-# b6518bf9bb354875a06dc22891cef611
-# 50ee4df9e3f047a0a5d33ad33d57bbc5
-# 3f0ee2d9b0de4df2a9001f80954aca70
-# ded677cbb6774ae3b8a28c7ab1dc2778
-# 2a33b635307a4c3d93d462e1c3045df9
-msgid "Trample"
-msgstr ""
-
-#: ../../ISD.rst:420
-# c543d95ad20747f68c90ef17513058ea
-msgid "|mana_1| |mana_r|: Feral Ridgewolf gets +2/+0 until end of turn."
-msgstr ""
-
-#: ../../ISD.rst:427
-# 36473d58814d4adaa0cf0645d200a07c
-msgid "Festerhide Boar"
-msgstr ""
-
-#: ../../ISD.rst:426
-# 478f2dfbb2f6432cad5e34b3133e0f19
-msgid "Morbid — Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn."
-msgstr ""
-
-#: ../../ISD.rst:433
-# 6713963b879f4b89a25f3abde51a7c5c
-msgid "Fiend Hunter"
-msgstr ""
-
-#: ../../ISD.rst:430
-# ece3ec2ee9cd49b38857b657bc518c8c
-msgid "When Fiend Hunter enters the battlefield, you may exile another target creature."
-msgstr ""
-
-#: ../../ISD.rst:432
-# 04e07dbc53e847929a39003a8e12e310
-msgid "When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control."
-msgstr ""
-
-#: ../../ISD.rst:439
-# 64f69b1a76a443c28ed72d55e2727a93
-msgid "Forbidden Alchemy"
-msgstr ""
-
-#: ../../ISD.rst:436
-# bf28efe4a22942a48c9e4bc2d0019835
-msgid "Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:438
-#: ../../ISD.rst:1204
-# 525819e3277c4a878f3c6b64292110a9
-# a5d60d682e4a4fa3b46683ce3f409aba
-msgid "Flashback |mana_6| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:443
-# 84a7fcb18a044c18bec24d53418127fc
-msgid "Forest"
-msgstr ""
-
-#: ../../ISD.rst:442
-# c726a1502acb4e44ab29e49246d030ab
-msgid "G"
-msgstr ""
-
-#: ../../ISD.rst:445
-# 6215568c44fc44c3a50adbac33576016
-msgid "Fortress Crab"
-msgstr ""
-
-#: ../../ISD.rst:451
-# a32a3b57b9384eb8aa287a8ab6fe2bc7
-msgid "Frightful Delusion"
-msgstr ""
-
-#: ../../ISD.rst:450
-# aab4f29d3d7144d39477bf99987d865d
-msgid "Counter target spell unless its controller pays |mana_1|. That player discards a card."
-msgstr ""
-
-#: ../../ISD.rst:457
-# b7245e7cd97248b88e1acd4053dcaa86
-msgid "Full Moon's Rise"
-msgstr ""
-
-#: ../../ISD.rst:454
-# ad6374dc79ca4f3ba995783e06dfeafb
-msgid "Werewolf creatures you control get +1/+0 and have trample."
-msgstr ""
-
-#: ../../ISD.rst:456
-# d7c00958f53542d4967c17d4cc325eca
-msgid "Sacrifice Full Moon's Rise: Regenerate all Werewolf creatures you control."
-msgstr ""
-
-#: ../../ISD.rst:463
-# 83e1295d849b4cad889172d3e34add56
-msgid "Furor of the Bitten"
-msgstr ""
-
-#: ../../ISD.rst:462
-# 04f39500fabe48ca993c0619d7cc6699
-msgid "Enchanted creature gets +2/+2 and attacks each turn if able."
-msgstr ""
-
-#: ../../ISD.rst:469
-# 978af6b1ef654ba989ee7a2168c562a9
-msgid "Gallows Warden"
-msgstr ""
-
-#: ../../ISD.rst:468
-# d02c7c5d4b744fad899c4b8ef9808d13
-msgid "Other Spirit creatures you control get +0/+1."
-msgstr ""
-
-#: ../../ISD.rst:477
-# 882bb2ca117b41d892fc0a6e05887f30
-msgid "Galvanic Juggernaut"
-msgstr ""
-
-#: ../../ISD.rst:472
-# 0e367c60d7a74058bb65fa1731e14786
-msgid "Galvanic Juggernaut attacks each turn if able."
-msgstr ""
-
-#: ../../ISD.rst:474
-# c8dd6756673941368d05799b8b9d11cc
-msgid "Galvanic Juggernaut doesn't untap during your untap step."
-msgstr ""
-
-#: ../../ISD.rst:476
-# 938f4f25e2dd462191d8744ba8d932a9
-msgid "Whenever another creature dies, untap Galvanic Juggernaut."
-msgstr ""
-
-#: ../../ISD.rst:485
-# eee8748af0c14c8ba9d03019a4041efc
-msgid "Garruk Relentless"
-msgstr ""
-
-#: ../../ISD.rst:480
-# 705d03fb0ccd42b188e76dab0a1e0ac6
-msgid "When Garruk Relentless has two or fewer loyalty counters on him, transform him."
-msgstr ""
-
-#: ../../ISD.rst:482
-# acd59d3fc60348c18a82db314f6c7d96
-msgid "0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him."
-msgstr ""
-
-#: ../../ISD.rst:484
-# e7bea47a480144eab0a1a57295321365
-msgid "0: Put a 2/2 green Wolf creature token onto the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:493
-# e241453f8a79474c84f508f94dd33c6c
-msgid "Garruk, the Veil-Cursed"
-msgstr ""
-
-#: ../../ISD.rst:488
-# f43e7fa69e9f45d586b23e9ae02184f5
-msgid "+1: Put a 1/1 black Wolf creature token with deathtouch onto the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:490
-# e3213f5d26814aa88f4f6c6c0474b582
-msgid "-1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library."
-msgstr ""
-
-#: ../../ISD.rst:492
-# 766d3c5925d145ad9031750ff216d139
-msgid "-3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:499
-# bac535776ef74a0ab6878b3b12195ee5
-msgid "Gatstaf Howler"
-msgstr ""
-
-#: ../../ISD.rst:498
-# cf137afccf244ca5931cd818d3cded58
-msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Gatstaf Howler."
-msgstr ""
-
-#: ../../ISD.rst:503
-# 922fe7e0100c4c209d7d5c5831231daf
-msgid "Gatstaf Shepherd"
-msgstr ""
-
-#: ../../ISD.rst:502
-# 9bce223cce7d4700afcb83570c4be33b
-msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Shepherd."
-msgstr ""
-
-#: ../../ISD.rst:509
-# 2f1a3eafc78440a4b83ece3af38df095
-msgid "Gavony Township"
-msgstr ""
-
-#: ../../ISD.rst:506
-#: ../../ISD.rst:536
-#: ../../ISD.rst:730
-#: ../../ISD.rst:904
-#: ../../ISD.rst:932
-#: ../../ISD.rst:1116
-#: ../../ISD.rst:1224
-# 09650f3d195f43a9ac550f6a3c63fc29
-# babf1213090e44979e7327da3458376f
-# a490e92524b242d0a26c87017c1de0b5
-# 742998e145414b658119aae28a1d7420
-# ad6b34f4f409464f86abf11396999061
-# c776bbd464144cb7a9929daaba614128
-# 468c57befb404623938dcd0a4c3af11a
-msgid "|tap|: Add |mana_1| to your mana pool."
-msgstr ""
-
-#: ../../ISD.rst:508
-# f0098a681cbf458f9fe0e62bdb932bf4
-msgid "|mana_2| |mana_g| |mana_w|, |tap|: Put a +1/+1 counter on each creature you control."
-msgstr ""
-
-#: ../../ISD.rst:515
-# fc99830fa05944acba5ac2c955521ed3
-msgid "Geist of Saint Traft"
-msgstr ""
-
-#: ../../ISD.rst:512
-#: ../../ISD.rst:700
-#: ../../ISD.rst:790
-# 1a213bcb78184bb187506b26a9eba6cd
-# 0a203b2fd1304e1bb83d2914a0f98d5d
-# d27ea290d6a2407b90958c2f491239c5
-msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
-msgstr ""
-
-#: ../../ISD.rst:514
-# 0d68b4ea132e4fa6ac287a90cccad40e
-msgid "Whenever Geist of Saint Traft attacks, put a 4/4 white Angel creature token with flying onto the battlefield tapped and attacking. Exile that token at end of combat."
-msgstr ""
-
-#: ../../ISD.rst:519
-# a31fc44b5a554fe39fc5728d603bdbc2
-msgid "Geistcatcher's Rig"
-msgstr ""
-
-#: ../../ISD.rst:518
-# 32360ad2ab4542d29a6d9de41cba2d91
-msgid "When Geistcatcher's Rig enters the battlefield, you may have it deal 4 damage to target creature with flying."
-msgstr ""
-
-#: ../../ISD.rst:525
-# aeacc279de2a451197e2abeee18f3920
-msgid "Geistflame"
-msgstr ""
-
-#: ../../ISD.rst:522
-# d71ca47a19c9470ca20f292b1abd1870
-msgid "Geistflame deals 1 damage to target creature or player."
-msgstr ""
-
-#: ../../ISD.rst:524
-#: ../../ISD.rst:954
-# f5dc6f678cb642da8fc7420b3f5135fb
-# 77039044b1e548f0a93c8ab4105b1888
-msgid "Flashback |mana_3| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:533
-# a2c78732d0fd467f869c8dcb9c667c0a
-msgid "Geist-Honored Monk"
-msgstr ""
-
-#: ../../ISD.rst:528
-#: ../../ISD.rst:1294
-# d314359ee9aa4503a73c37ad3d699e5a
-# 43189df5b85b49dab2a9e587433dfbb0
-msgid "Vigilance"
-msgstr ""
-
-#: ../../ISD.rst:530
-# fdd4c6fd14f74ac5bd61b417a27b97e1
-msgid "Geist-Honored Monk's power and toughness are each equal to the number of creatures you control."
-msgstr ""
-
-#: ../../ISD.rst:532
-# 54897a5b44e54c5991d4c6cd4f8f738e
-msgid "When Geist-Honored Monk enters the battlefield, put two 1/1 white Spirit creature tokens with flying onto the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:539
-# 68740e4a075942409e949322a39df4fe
-msgid "Ghost Quarter"
-msgstr ""
-
-#: ../../ISD.rst:538
-# 0d9e1e213d3c4f00bcab4afb015faf91
-msgid "|tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library."
-msgstr ""
-
-#: ../../ISD.rst:547
-# 1afc8e20ffe242c681226a3a9f868079
-msgid "Ghostly Possession"
-msgstr ""
-
-#: ../../ISD.rst:544
-# 6485b5f84d284ae38e1709ebd8adac6d
-msgid "Enchanted creature has flying."
-msgstr ""
-
-#: ../../ISD.rst:546
-# f43fe754b3684b699eedca6e69815e1b
-msgid "Prevent all combat damage that would be dealt to and dealt by enchanted creature."
-msgstr ""
-
-#: ../../ISD.rst:551
-# 209f00fc65f345d9b82f83e4ade960dc
-msgid "Ghoulcaller's Bell"
-msgstr ""
-
-#: ../../ISD.rst:550
-# 7e14ed55b6db4ff49119a546f3218259
-msgid "|tap|: Each player puts the top card of his or her library into his or her graveyard."
-msgstr ""
-
-#: ../../ISD.rst:557
-# 4a81b214935744d1bb267dd481e43f15
-msgid "Ghoulcaller's Chant"
-msgstr ""
-
-#: ../../ISD.rst:554
-# 8b81ab8883b441a1b9bd1212c4f85e5e
-msgid "Choose one — Return target creature card from your graveyard to your hand"
-msgstr ""
-
-#: ../../ISD.rst:556
-# b663ae74cf2f4ec08d1c7cab48eb19bc
-msgid "or return two target Zombie cards from your graveyard to your hand."
-msgstr ""
-
-#: ../../ISD.rst:561
-# 119bea0d9e2a41dc87f62d044d063b81
-msgid "Ghoulraiser"
-msgstr ""
-
-#: ../../ISD.rst:560
-# 5e1bf96b86614fd6865019a3f4f1d638
-msgid "When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand."
-msgstr ""
-
-#: ../../ISD.rst:567
-# 3a70aadd4bc0464fa743fdaaf7453df5
-msgid "Gnaw to the Bone"
-msgstr ""
-
-#: ../../ISD.rst:564
-# 977c162e9bce45aaa96bcfc4744e3131
-msgid "You gain 2 life for each creature card in your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:566
-# 88a26850f7354c7cad23bb4e709f4e78
-msgid "Flashback |mana_2| |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:573
-# 4b232a7e6866499d831ec981b1d56a80
-msgid "Grasp of Phantoms"
-msgstr ""
-
-#: ../../ISD.rst:570
-# f7d5afad2a3747f6856ccbb997f2632f
-msgid "Put target creature on top of its owner's library."
-msgstr ""
-
-#: ../../ISD.rst:572
-# 4ad2a84f8e58436bae403cea696fcf6f
-msgid "Flashback |mana_7| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:577
-# 2c2fb473e5c448e4bbe2141bb6178a58
-msgid "Grave Bramble"
-msgstr ""
-
-#: ../../ISD.rst:576
-# 5b04c5373d134298b30bda645ffe896a
-msgid "Defender, protection from Zombies"
-msgstr ""
-
-#: ../../ISD.rst:581
-# cc07b7a02b27493db2e5b1aff7aa1880
-msgid "Graveyard Shovel"
-msgstr ""
-
-#: ../../ISD.rst:580
-# 026834d987ae49888a9a7a39cdf2f23c
-msgid "|mana_2|, |tap|: Target player exiles a card from his or her graveyard. If it's a creature card, you gain 2 life."
-msgstr ""
-
-#: ../../ISD.rst:589
-# 7075d57321d34f8eafea227ebf365e4a
-msgid "Grimgrin, Corpse-Born"
-msgstr ""
-
-#: ../../ISD.rst:584
-# c4406ea054884edf9595884f1a28a17c
-msgid "Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step."
-msgstr ""
-
-#: ../../ISD.rst:586
-# 596fc7cd8c8d4db2ae5704d346edeecc
-msgid "Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it."
-msgstr ""
-
-#: ../../ISD.rst:588
-# 94f8aeb86f314268aa0cb4ebfb92c62c
-msgid "Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin."
-msgstr ""
-
-#: ../../ISD.rst:595
-# 3103c64c67d14e78bf5712613adaecda
-msgid "Grimoire of the Dead"
-msgstr ""
-
-#: ../../ISD.rst:592
-# c63afd7234ab4643af475b0b301fe178
-msgid "|mana_1|, |tap|, Discard a card: Put a study counter on Grimoire of the Dead."
-msgstr ""
-
-#: ../../ISD.rst:594
-# 05e019fab263458fbd5cbeaa9d5ef6ad
-msgid "|tap|, Remove three study counters from Grimoire of the Dead and sacrifice it: Put all creature cards from all graveyards onto the battlefield under your control. They're black Zombies in addition to their other colors and types."
-msgstr ""
-
-#: ../../ISD.rst:599
-# 2b93bbaa59574bbfaf5bf0b1894dc20b
-msgid "Grizzled Outcasts"
-msgstr ""
-
-#: ../../ISD.rst:598
-# e2bec225f54c4aa1ad4eab1d442ce765
-msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Grizzled Outcasts."
-msgstr ""
-
-#: ../../ISD.rst:605
-# 125c44329b58428a9ca0c17afaa2067a
-msgid "Gruesome Deformity"
-msgstr ""
-
-#: ../../ISD.rst:604
-# c83ddcca114d4ddb80032866a25ff90b
-msgid "Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
-msgstr ""
-
-#: ../../ISD.rst:609
-# f27defdf570f4a8a9a9f1003f34e9dd4
-msgid "Gutter Grime"
-msgstr ""
-
-#: ../../ISD.rst:608
-# db5591120f3a46b8905a9f1634467284
-msgid "Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then put a green Ooze creature token onto the battlefield with \\\"This creature's power and toughness are each equal to the number of slime counters on Gutter Grime.\\\""
-msgstr ""
-
-#: ../../ISD.rst:613
-# d8c78b89db3e49648b5ab039ed3e4075
-msgid "Hamlet Captain"
-msgstr ""
-
-#: ../../ISD.rst:612
-# bbc1da83a5aa40f1b1137e0509211e1f
-msgid "Whenever Hamlet Captain attacks or blocks, other Human creatures you control get +1/+1 until end of turn."
-msgstr ""
-
-#: ../../ISD.rst:619
-# c15c148cef0349e3b7589bde517e3126
-msgid "Hanweir Watchkeep"
-msgstr ""
-
-#: ../../ISD.rst:616
-#: ../../ISD.rst:784
-#: ../../ISD.rst:804
-#: ../../ISD.rst:972
-#: ../../ISD.rst:1318
-# a21d8e5e658c4323908f77e5eb0567e3
-# 9cc0b76230424e3c873b072dfa2b91cc
-# 6ec6aa3188264fe8862c00716628d7a3
-# 50def382a4d04ccda86b84259c4701e2
-# 011cd9b3253c4b2d9223de85d18a8cd7
-msgid "Defender"
-msgstr ""
-
-#: ../../ISD.rst:618
-# 979c8156354e472392c96a49ece0227a
-msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Hanweir Watchkeep."
-msgstr ""
-
-#: ../../ISD.rst:625
-# 620be206893144dd854786d8ed461ab9
-msgid "Harvest Pyre"
-msgstr ""
-
-#: ../../ISD.rst:622
-# 17378763bf424a0e8c20766aee35dde2
-msgid "As an additional cost to cast Harvest Pyre, exile X cards from your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:624
-# b62cbceefc7b455f801b7ed66250692c
-msgid "Harvest Pyre deals X damage to target creature."
-msgstr ""
-
-#: ../../ISD.rst:631
-# 648df3c4bfec4aaba7fa165381303996
-msgid "Heartless Summoning"
-msgstr ""
-
-#: ../../ISD.rst:628
-# e2079319849847b6bbf1c6d2a419c902
-msgid "Creature spells you cast cost |mana_2| less to cast."
-msgstr ""
-
-#: ../../ISD.rst:630
-# ae8d0b9b6a894f95a4d5b9e04233ac71
-msgid "Creatures you control get -1/-1."
-msgstr ""
-
-#: ../../ISD.rst:635
-# 6b0032c46679440c8017a404156011f8
-msgid "Heretic's Punishment"
-msgstr ""
-
-#: ../../ISD.rst:634
-# f86e8053f3104aa69915c76d4d6ff748
-msgid "|mana_3| |mana_r|: Choose target creature or player, then put the top three cards of your library into your graveyard.  Heretic's Punishment deals damage to that creature or player equal to the highest converted mana cost among those cards."
-msgstr ""
-
-#: ../../ISD.rst:641
-# 2f8ab77fe01e436084f521433a57ffd6
-msgid "Hinterland Harbor"
-msgstr ""
-
-#: ../../ISD.rst:638
-# 8468738e42d3453fb1918db5679f311d
-msgid "Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island."
-msgstr ""
-
-#: ../../ISD.rst:640
-# a2c6b5e93d3a42e4b190e1f6727a43ee
-msgid "|tap|: Add |mana_g| or |mana_u| to your mana pool."
-msgstr ""
-
-#: ../../ISD.rst:645
-# d357055a22ed4405b20384f7c8a8173a
-msgid "Hollowhenge Scavenger"
-msgstr ""
-
-#: ../../ISD.rst:644
-# 472a38d651654e7d9ff0098ff2005892
-msgid "Morbid — When Hollowhenge Scavenger enters the battlefield, if a creature died this turn, you gain 5 life."
-msgstr ""
-
-#: ../../ISD.rst:649
-# 6c683f0d23ce429f942824eaf915138d
-msgid "Homicidal Brute"
-msgstr ""
-
-#: ../../ISD.rst:648
-# 775288e6b74e4378a111e088a78b7a1b
-msgid "At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it."
-msgstr ""
-
-#: ../../ISD.rst:657
-# 08e390757b574bc2880c370ce1f20cd9
-msgid "Howlpack Alpha"
-msgstr ""
-
-#: ../../ISD.rst:652
-# b95486bde48a41e391836a1f9ca63c11
-msgid "Each other creature you control that's a Werewolf or a Wolf gets +1/+1."
-msgstr ""
-
-#: ../../ISD.rst:654
-# e0427722ac1a4f3a93fb4fb6c8346cff
-msgid "At the beginning of your end step, put a 2/2 green Wolf creature token onto the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:656
-# 45ae4689862c43e3b4644bf8c0dc2d22
-msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha."
-msgstr ""
-
-#: ../../ISD.rst:661
-# fbc946902fdc449d9c88ea8957c3ec4e
-msgid "Howlpack of Estwald"
-msgstr ""
-
-#: ../../ISD.rst:660
-# 47088d82c76d4947848f043a578ff468
-msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack of Estwald."
-msgstr ""
-
-#: ../../ISD.rst:665
-# dcf40e78d24340bc8bea3af1ddaeb360
-msgid "Hysterical Blindness"
-msgstr ""
-
-#: ../../ISD.rst:664
-# 8591c289972f4b289e155f17d1d48c04
-msgid "Creatures your opponents control get -4/-0 until end of turn."
-msgstr ""
-
-#: ../../ISD.rst:671
-# d63f3c8440c440b396ef4fbd96c312c9
-msgid "Infernal Plunge"
-msgstr ""
-
-#: ../../ISD.rst:668
-# 4f7242059dac4171a6eafc83c3d11a06
-msgid "As an additional cost to cast Infernal Plunge, sacrifice a creature."
-msgstr ""
-
-#: ../../ISD.rst:670
-# 235a1306de454d9f928e75fe28b059f0
-msgid "Add |mana_r| |mana_r| |mana_r| to your mana pool."
-msgstr ""
-
-#: ../../ISD.rst:679
-# a093d217963d4afb974d4b676616e259
-msgid "Inquisitor's Flail"
-msgstr ""
-
-#: ../../ISD.rst:674
-# ae42e1b2431b4fad975f684cd719a116
-msgid "If equipped creature would deal combat damage, it deals double that damage instead."
-msgstr ""
-
-#: ../../ISD.rst:676
-# 9924990597814dfcb8acacfe5584b88e
-msgid "If another creature would deal combat damage to equipped creature, it deals double that damage to equipped creature instead."
-msgstr ""
-
-#: ../../ISD.rst:678
-#: ../../ISD.rst:1070
-#: ../../ISD.rst:1136
-#: ../../ISD.rst:1326
-# 3a5ad0dfcfb043b99c21a0482b9e146f
-# faeb38632c2b47898b3db2f17c6e0db7
-# 619aae5635154e68a47e2af67e74aac5
-# e4728ae5e6604446b7aa90e5a81826b2
-msgid "Equip |mana_2|"
-msgstr ""
-
-#: ../../ISD.rst:683
-# 073a6c917a374e42941f1253d6ab2c5c
-msgid "Insectile Aberration"
-msgstr ""
-
-#: ../../ISD.rst:689
-# f562f82154114386844d2bd2aa0572b7
-msgid "Instigator Gang"
-msgstr ""
-
-#: ../../ISD.rst:686
-# 94bf9548b50743a693d3af083ae87a94
-msgid "Attacking creatures you control get +1/+0."
-msgstr ""
-
-#: ../../ISD.rst:688
-# 7e933d4c3f3b4a828e1b754611f87923
-msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Instigator Gang."
-msgstr ""
-
-#: ../../ISD.rst:693
-# 85b6668c231b4c9b9e05875c86c0e797
-msgid "Intangible Virtue"
-msgstr ""
-
-#: ../../ISD.rst:692
-# 5eea14bc2fb04476a0a951a9f03952eb
-msgid "Creature tokens you control get +1/+1 and have vigilance."
-msgstr ""
-
-#: ../../ISD.rst:697
-# eb16c6b3225b489ea76e51b0d1f1935b
-msgid "Into the Maw of Hell"
-msgstr ""
-
-#: ../../ISD.rst:696
-# 7f5d5bc3bfcf4893ae8a31bfec219eda
-msgid "Destroy target land. Into the Maw of Hell deals 13 damage to target creature."
-msgstr ""
-
-#: ../../ISD.rst:703
-# 25da82d2666f485996be43c0185fd3fa
-msgid "Invisible Stalker"
-msgstr ""
-
-#: ../../ISD.rst:702
-# a0ea2dbf822d4abbaafde49e642b4ab8
-msgid "Invisible Stalker can't be blocked."
-msgstr ""
-
-#: ../../ISD.rst:709
-# 56060eb5cbf343d6a7a7de4b410542c8
-msgid "Ironfang"
-msgstr ""
-
-#: ../../ISD.rst:708
-# 83edde1dc4e848e6896554a9bfcd3bc0
-msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang."
-msgstr ""
-
-#: ../../ISD.rst:713
-# 6f458bc9c2fd48cb9e52aec85b9d5769
-msgid "Island"
-msgstr ""
-
-#: ../../ISD.rst:712
-# 3a62d9211d814673938a0685d56ea36c
-msgid "U"
-msgstr ""
-
-#: ../../ISD.rst:719
-# 4cd104245d7842c9bb4fbfff15660d4c
-msgid "Isolated Chapel"
-msgstr ""
-
-#: ../../ISD.rst:716
-# 3dca32c69c464ab58ba8aded2e37fa9d
-msgid "Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp."
-msgstr ""
-
-#: ../../ISD.rst:718
-# cace63c58ad74cbb8eb748e9273a7409
-msgid "|tap|: Add |mana_w| or |mana_b| to your mana pool."
-msgstr ""
-
-#: ../../ISD.rst:723
-# da375d6693ad4f50a261e667accdd39f
-msgid "Kessig Cagebreakers"
-msgstr ""
-
-#: ../../ISD.rst:722
-# fa3d48ef354b40edaff3b1cec4084354
-msgid "Whenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:727
-# 27e0a91693194f5894f833dace468736
-msgid "Kessig Wolf"
-msgstr ""
-
-#: ../../ISD.rst:726
-# c5c7cd2d885d45a2a0024b9a271aaf23
-msgid "|mana_1| |mana_r|: Kessig Wolf gains first strike until end of turn."
-msgstr ""
-
-#: ../../ISD.rst:733
-# 5c9803c0beac41a4b3a3b26b74ff18f6
-msgid "Kessig Wolf Run"
-msgstr ""
-
-#: ../../ISD.rst:732
-# 47e26763f41b4ff5bed51da910627ed7
-msgid "|mana_x| |mana_r| |mana_g|, |tap|: Target creature gets +X/+0 and gains trample until end of turn."
-msgstr ""
-
-#: ../../ISD.rst:735
-# 679789e5a5c749d396ea237891e94ebf
-msgid "Kindercatch"
-msgstr ""
-
-#: ../../ISD.rst:741
-# 55d214f17f024cb896685d795311b3d4
-msgid "Krallenhorde Wantons"
-msgstr ""
-
-#: ../../ISD.rst:740
-# ed82c3e8559842288ef4bd497f73c321
-msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Wantons."
-msgstr ""
-
-#: ../../ISD.rst:747
-# 2b197b978a4d42f3a301d49da36ef381
-msgid "Kruin Outlaw"
-msgstr ""
-
-#: ../../ISD.rst:746
-# 503a00fc3ad34ec2a46426a8437e927b
-msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw."
-msgstr ""
-
-#: ../../ISD.rst:751
-# 5f45093be67345d6b07b6bc173eb95be
-msgid "Laboratory Maniac"
-msgstr ""
-
-#: ../../ISD.rst:750
-# a82f93b5af0b4f388fe921c188fd6cd7
-msgid "If you would draw a card while your library has no cards in it, you win the game instead."
-msgstr ""
-
-#: ../../ISD.rst:757
-# 66eb03f1df7a485a85595328cb595274
-msgid "Lantern Spirit"
-msgstr ""
-
-#: ../../ISD.rst:756
-# 6b06d03eee464949aacf5de6857a6d41
-msgid "|mana_u|: Return Lantern Spirit to its owner's hand."
-msgstr ""
-
-#: ../../ISD.rst:765
-# 55cd235b6f2f4c00acf1680712df9c15
-msgid "Liliana of the Veil"
-msgstr ""
-
-#: ../../ISD.rst:760
-# a799138de02f4c9fb9e787571e8564f0
-msgid "+1: Each player discards a card."
-msgstr ""
-
-#: ../../ISD.rst:762
-# 59db79d0a9e044869ca1a979d111700a
-msgid "-2: Target player sacrifices a creature."
-msgstr ""
-
-#: ../../ISD.rst:764
-# eb14b0e8e3c94e8693d27872c13905c2
-msgid "-6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of his or her choice."
-msgstr ""
-
-#: ../../ISD.rst:773
-# 5e68ada491db43dbb2b9423285e18cce
-msgid "Lord of Lineage"
-msgstr ""
-
-#: ../../ISD.rst:770
-# 22b4cd52335f42ff9d4b8f452e3debea
-msgid "Other Vampire creatures you control get +2/+2."
-msgstr ""
-
-#: ../../ISD.rst:777
-# 67569590fd514e13b6031beecc9af124
-msgid "Lost in the Mist"
-msgstr ""
-
-#: ../../ISD.rst:776
-# 9918f26c1b324b39bf6403b1a6d35f36
-msgid "Counter target spell. Return target permanent to its owner's hand."
-msgstr ""
-
-#: ../../ISD.rst:781
-# 201c0def7bfc42dd81a57aeaa1e3deee
-msgid "Ludevic's Abomination"
-msgstr ""
-
-#: ../../ISD.rst:787
-# 45b1df0cb91c4c749b39856edd24fc8d
-msgid "Ludevic's Test Subject"
-msgstr ""
-
-#: ../../ISD.rst:786
-# ffbaf86cb1da4c14bb2a41a2aa330ed7
-msgid "|mana_1| |mana_u|: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it."
-msgstr ""
-
-#: ../../ISD.rst:793
-# f29f518d834e4a3da4a6432ab12c80b6
-msgid "Lumberknot"
-msgstr ""
-
-#: ../../ISD.rst:792
-# 2baf5114edd5441d94d0b6a2a6478083
-msgid "Whenever a creature dies, put a +1/+1 counter on Lumberknot."
-msgstr ""
-
-#: ../../ISD.rst:797
-# 1b115b4184df4829aa64572c48611a30
-msgid "Make a Wish"
-msgstr ""
-
-#: ../../ISD.rst:796
-# baaef1e2476f4ec8afd9bd0c0e7e63a8
-msgid "Return two cards at random from your graveyard to your hand."
-msgstr ""
-
-#: ../../ISD.rst:801
-# c1e73b6d125c4badbdbad79c34bbdcb5
-msgid "Makeshift Mauler"
-msgstr ""
-
-#: ../../ISD.rst:800
-# a73a64e1a7f0428aafbb8373e002e1f1
-msgid "As an additional cost to cast Makeshift Mauler, exile a creature card from your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:809
-# faab0f10f6384898b1b25440f459d224
-msgid "Manor Gargoyle"
-msgstr ""
-
-#: ../../ISD.rst:806
-# c8626da02106461a86785a81537e3d6d
-msgid "Manor Gargoyle has indestructible as long as it has defender."
-msgstr ""
-
-#: ../../ISD.rst:808
-# b4f1cae7b9bd40848d0307210a918013
-msgid "|mana_1|: Until end of turn, Manor Gargoyle loses defender and gains flying."
-msgstr ""
-
-#: ../../ISD.rst:815
-# d3e3a72a2edb469689be20328294ee62
-msgid "Manor Skeleton"
-msgstr ""
-
-#: ../../ISD.rst:812
-# 873a9c216dbc4b49a539124b78159809
-msgid "Haste"
-msgstr ""
-
-#: ../../ISD.rst:814
-# ccc88fb3a6cd4d39ada65d1b18576b63
-msgid "|mana_1| |mana_b|: Regenerate Manor Skeleton."
-msgstr ""
-
-#: ../../ISD.rst:819
-# d960d2a76d4c4141b751a0d02cb0f83e
-msgid "Markov Patrician"
-msgstr ""
-
-#: ../../ISD.rst:818
-# 5ff97590effd4c979daf677c5097b9bc
-msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
-msgstr ""
-
-#: ../../ISD.rst:825
-# 534d858746e2484c9f35983ce8a949b9
-msgid "Mask of Avacyn"
-msgstr ""
-
-#: ../../ISD.rst:822
-# 0c891364f3ca4697a3fe3130486e7cc6
-msgid "Equipped creature gets +1/+2 and has hexproof. (It can't be the target of spells or abilities your opponents control.)"
-msgstr ""
-
-#: ../../ISD.rst:829
-# cab0f908f58547f38f2ec9e2b69b6d1f
-msgid "Mausoleum Guard"
-msgstr ""
-
-#: ../../ISD.rst:828
-# fc0f7effe59c4f6a97836d6d7a182cc3
-msgid "When Mausoleum Guard dies, put two 1/1 white Spirit creature tokens with flying onto the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:833
-# a10107d02f3c4b578045ab725102846f
-msgid "Maw of the Mire"
-msgstr ""
-
-#: ../../ISD.rst:832
-# 7c4cbd62a10f4a988b150920e7e07bc6
-msgid "Destroy target land. You gain 4 life."
-msgstr ""
-
-#: ../../ISD.rst:839
-# 331d91239c8c494a9248dcc985d97dd6
-msgid "Mayor of Avabruck"
-msgstr ""
-
-#: ../../ISD.rst:836
-# d6c6ec2c082c45b7b12721c3dbad24c5
-msgid "Other Human creatures you control get +1/+1."
-msgstr ""
-
-#: ../../ISD.rst:838
-# c1d359daebd9462bb7a20e7d03c57e65
-msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck."
-msgstr ""
-
-#: ../../ISD.rst:845
-# 4fe6ed0f440e45468cafacbcf3fb0988
-msgid "Memory's Journey"
-msgstr ""
-
-#: ../../ISD.rst:842
-# 9042660d3dec4d3aa1c49fd1d9f218cb
-msgid "Target player shuffles up to three target cards from his or her graveyard into his or her library."
-msgstr ""
-
-#: ../../ISD.rst:849
-# 7581285fd57f46e691b5fd44818067d8
-msgid "Mentor of the Meek"
-msgstr ""
-
-#: ../../ISD.rst:848
-# 5722c21fafa04a34b7cd66f26d3411f8
-msgid "Whenever another creature with power 2 or less enters the battlefield under your control, you may pay |mana_1|. If you do, draw a card."
-msgstr ""
-
-#: ../../ISD.rst:853
-# ef19f3adcb604bc8a626378d6f584ac7
-msgid "Merciless Predator"
-msgstr ""
-
-#: ../../ISD.rst:852
-# 7df1f7242cbd49b7ad10b74c7a882094
-msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator."
-msgstr ""
-
-#: ../../ISD.rst:857
-# 231f4b669b3144d8b9047ca06cae4963
-msgid "Midnight Haunting"
-msgstr ""
-
-#: ../../ISD.rst:856
-# 34baa93fcb9240c0a1a3e0e712107ac2
-msgid "Put two 1/1 white Spirit creature tokens with flying onto the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:865
-# 274c527cbeeb4b8597629c54aaa01b0d
-msgid "Mikaeus, the Lunarch"
-msgstr ""
-
-#: ../../ISD.rst:860
-# 0be454a87ebc4488a4e2916612befc02
-msgid "Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it."
-msgstr ""
-
-#: ../../ISD.rst:862
-# ebd98064c5c64ff0a7b84136920b1058
-msgid "|tap|: Put a +1/+1 counter on Mikaeus."
-msgstr ""
-
-#: ../../ISD.rst:864
-# 16831bd35d7a46c987b50fb3685c0fe4
-msgid "|tap|, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control."
-msgstr ""
-
-#: ../../ISD.rst:871
-# 6ee95974f72e4a2fbf6a8ebeca751cf2
-msgid "Mindshrieker"
-msgstr ""
-
-#: ../../ISD.rst:870
-# b24ed4e7b4894482a6eeddbdc8a96576
-msgid "|mana_2|: Target player puts the top card of his or her library into his or her graveyard. Mindshrieker gets +X/+X until end of turn, where X is that card's converted mana cost."
-msgstr ""
-
-#: ../../ISD.rst:877
-# 1eb898b72b72466cbbac405ac3a7a365
-msgid "Mirror-Mad Phantasm"
-msgstr ""
-
-#: ../../ISD.rst:876
-# aa25544265d94555b8d5e6a06f4704f6
-msgid "|mana_1| |mana_u|: Mirror-Mad Phantasm's owner shuffles it into his or her library. If that player does, he or she reveals cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard."
-msgstr ""
-
-#: ../../ISD.rst:883
-# 702a5dd6bcc045aaaa3378bf69864e66
-msgid "Moan of the Unhallowed"
-msgstr ""
-
-#: ../../ISD.rst:880
-# 114bc7984995403199ad0cb2977b1163
-msgid "Put two 2/2 black Zombie creature tokens onto the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:882
-#: ../../ISD.rst:1104
-# becc49c1b3b94c379d964abc571b7f95
-# bc68e255bcf54ec79a9c429b1ea41dcc
-msgid "Flashback |mana_5| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:889
-# b5e6ec8ad1514667a1670f475d5109ea
-msgid "Moldgraf Monstrosity"
-msgstr ""
-
-#: ../../ISD.rst:888
-# edd7e7e5af6f4c28919656e521fe649d
-msgid "When Moldgraf Monstrosity dies, exile it, then return two creature cards at random from your graveyard to the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:893
-# bca7dbc254a54e19a05f6a37eeaef6a0
-msgid "Moment of Heroism"
-msgstr ""
-
-#: ../../ISD.rst:892
-# de08c1895a4b4b60a996309ce68f593c
-msgid "Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)"
-msgstr ""
-
-#: ../../ISD.rst:897
-# 047b4645df9e4525a67c43d0df6b6a24
-msgid "Moon Heron"
-msgstr ""
-
-#: ../../ISD.rst:901
-# f8d0d14201a34a60a2413c5b8d949988
-msgid "Moonmist"
-msgstr ""
-
-#: ../../ISD.rst:900
-# 3f96d97c46ce4de69932b4e73f3ea7f2
-msgid "Transform all Humans. Prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves. (Only double-faced cards can be transformed.)"
-msgstr ""
-
-#: ../../ISD.rst:907
-# d9aa36be1a174ed7b59e2a41acd2ea64
-msgid "Moorland Haunt"
-msgstr ""
-
-#: ../../ISD.rst:906
-# 3e8c80c4c6e74e5281040400a7c14de0
-msgid "|mana_w| |mana_u|, |tap|, Exile a creature card from your graveyard: Put a 1/1 white Spirit creature token with flying onto the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:911
-# 1ac0ebb5252948d7b625a2f79c717e99
-msgid "Morkrut Banshee"
-msgstr ""
-
-#: ../../ISD.rst:910
-# 4e92f9db14754f95bad634dc8485b4ae
-msgid "Morbid — When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn."
-msgstr ""
-
-#: ../../ISD.rst:915
-# 3ec9545621a2456b84d4ab3ce9216753
-msgid "Mountain"
-msgstr ""
-
-#: ../../ISD.rst:914
-# bf8a2c91c1944e25a70679d778d413c2
-msgid "R"
-msgstr ""
-
-#: ../../ISD.rst:919
-# 8e7121631c654a12a710f0974126d4c2
-msgid "Mulch"
-msgstr ""
-
-#: ../../ISD.rst:918
-# 083d904eb3b448b9b4413536242e9cb1
-msgid "Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:925
-# c3a27212a46640a78a2abf30c5aa3310
-msgid "Murder of Crows"
-msgstr ""
-
-#: ../../ISD.rst:924
-# f18aefaf1b6348c9a5c232b8c14a6053
-msgid "Whenever another creature dies, you may draw a card. If you do, discard a card."
-msgstr ""
-
-#: ../../ISD.rst:929
-# f8da3aace0834a819f7e9b38d08b1f4d
-msgid "Naturalize"
-msgstr ""
-
-#: ../../ISD.rst:928
-# a4d095d3df5e49fe89d8fd70ad6c18c8
-msgid "Destroy target artifact or enchantment."
-msgstr ""
-
-#: ../../ISD.rst:935
-# 8a5226405d9b4b9aac2ee9a626cb5a03
-msgid "Nephalia Drownyard"
-msgstr ""
-
-#: ../../ISD.rst:934
-# c6852ddad30f4dfb86ff08ca1b5cd207
-msgid "|mana_1| |mana_u| |mana_b|, |tap|: Target player puts the top three cards of his or her library into his or her graveyard."
-msgstr ""
-
-#: ../../ISD.rst:941
-# c77ecaf59e884dc6b6fb4177073d1917
-msgid "Nevermore"
-msgstr ""
-
-#: ../../ISD.rst:938
-# fab16d860b3e4c669cd079f9dd7ed0c5
-msgid "As Nevermore enters the battlefield, name a nonland card."
-msgstr ""
-
-#: ../../ISD.rst:940
-# d2f086528f6b4558b010284e16a3db96
-msgid "The named card can't be cast."
-msgstr ""
-
-#: ../../ISD.rst:945
-# 78761e86217f4b96acf570d02c6a8568
-msgid "Night Revelers"
-msgstr ""
-
-#: ../../ISD.rst:944
-# 2c6f97e0bc194636841b2f5b942dea18
-msgid "Night Revelers has haste as long as an opponent controls a Human."
-msgstr ""
-
-#: ../../ISD.rst:949
-# 0b6c43983ed2470cbe73ffee189a23ce
-msgid "Night Terrors"
-msgstr ""
-
-#: ../../ISD.rst:948
-# ac57a32277fb4774b13a432f73989eff
-msgid "Target player reveals his or her hand. You choose a nonland card from it. Exile that card."
-msgstr ""
-
-#: ../../ISD.rst:955
-# e9d47f1cacad4c27979444be4dd9d665
-msgid "Nightbird's Clutches"
-msgstr ""
-
-#: ../../ISD.rst:952
-# 785b3726ffc24e8f801e5485548787d6
-msgid "Up to two target creatures can't block this turn."
-msgstr ""
-
-#: ../../ISD.rst:961
-# acf156b7b2244bcdbe92a5f39481d7f5
-msgid "Nightfall Predator"
-msgstr ""
-
-#: ../../ISD.rst:958
-# 86e9d25a51d34fe1b9a81bed7c3283a3
-msgid "|mana_r|, |tap|: Nightfall Predator fights target creature. (Each deals damage equal to its power to the other.)"
-msgstr ""
-
-#: ../../ISD.rst:960
-# 74a58cd82d9949528e77c0818407d9fb
-msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Nightfall Predator."
-msgstr ""
-
-#: ../../ISD.rst:969
-# 453e0cc54e454660ba514773bac76ac5
-msgid "Olivia Voldaren"
-msgstr ""
-
-#: ../../ISD.rst:966
-# f4b0b385d2d64651b526493c9e858905
-msgid "|mana_1| |mana_r|: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren."
-msgstr ""
-
-#: ../../ISD.rst:968
-# f1d9d26513b642ed84bf39152c731127
-msgid "|mana_3| |mana_b| |mana_b|: Gain control of target Vampire for as long as you control Olivia Voldaren."
-msgstr ""
-
-#: ../../ISD.rst:975
-# a796c2fbad1e47b1aa45867eac1f29f0
-msgid "One-Eyed Scarecrow"
-msgstr ""
-
-#: ../../ISD.rst:974
-# 868b1729352e47f28b9f882a50c37407
-msgid "Creatures with flying your opponents control get -1/-0."
-msgstr ""
-
-#: ../../ISD.rst:979
-# 184e029fa47b495ca04f04efe9fa9ba1
-msgid "Orchard Spirit"
-msgstr ""
-
-#: ../../ISD.rst:978
-# f23162547e3248ad84e37cc2090366dd
-msgid "Orchard Spirit can't be blocked except by creatures with flying or reach."
-msgstr ""
-
-#: ../../ISD.rst:983
-# 69fd9f4e47f2496f8fc7dd42167bde21
-msgid "Parallel Lives"
-msgstr ""
-
-#: ../../ISD.rst:982
-# 96c566e2777945ae95e32f47669aa77c
-msgid "If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead."
-msgstr ""
-
-#: ../../ISD.rst:987
-# 039af045c6f54b928a771155696ef7e8
-msgid "Paraselene"
-msgstr ""
-
-#: ../../ISD.rst:986
-# 5082cbde13164768bfc992395fd167e5
-msgid "Destroy all enchantments. You gain 1 life for each enchantment destroyed this way."
-msgstr ""
-
-#: ../../ISD.rst:993
-# c3b08ac1f2e741828b45c4a8a7e6cebd
-msgid "Past in Flames"
-msgstr ""
-
-#: ../../ISD.rst:990
-# da78e88154f145e0a5330cc99835d174
-msgid "Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost."
-msgstr ""
-
-#: ../../ISD.rst:992
-# 503731363d924df2b11bce9dcf07caa0
-msgid "Flashback |mana_4| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:997
-# aca6d3522ecc47a39faf71c238d056b3
-msgid "Pitchburn Devils"
-msgstr ""
-
-#: ../../ISD.rst:996
-# 9b6f1753dccf4efea0cca90cc61acb29
-msgid "When Pitchburn Devils dies, it deals 3 damage to target creature or player."
-msgstr ""
-
-#: ../../ISD.rst:1001
-# 434517f071c2407caae994e3b5c0e3f8
-msgid "Plains"
-msgstr ""
-
-#: ../../ISD.rst:1000
-# 77827df87ef14f66a0ceeebf2577aa61
-msgid "W"
-msgstr ""
-
-#: ../../ISD.rst:1005
-# b608b1fe118a4919b31358f6bdd97e2f
-msgid "Prey Upon"
-msgstr ""
-
-#: ../../ISD.rst:1004
-# 27b0ddca05c14cfe9a67f7d37337714c
-msgid "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)"
-msgstr ""
-
-#: ../../ISD.rst:1011
-# 847c4c78ea904c66950ae71f24871aec
-msgid "Purify the Grave"
-msgstr ""
-
-#: ../../ISD.rst:1008
-# 4f3533c8ec054efda87acaf2bc8723dc
-msgid "Exile target card from a graveyard."
-msgstr ""
-
-#: ../../ISD.rst:1010
-# 93083b94f2c64acd90c83d7c3f64cea9
-msgid "Flashback |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:1015
-# 83dc9d9065214daf98bd8aa7eedfed1c
-msgid "Rage Thrower"
-msgstr ""
-
-#: ../../ISD.rst:1014
-# 6c655a058f1a408b8576391f1dbbfeb8
-msgid "Whenever another creature dies, Rage Thrower deals 2 damage to target player."
-msgstr ""
-
-#: ../../ISD.rst:1019
-# bdb7591096194faa973a7103edac8221
-msgid "Rakish Heir"
-msgstr ""
-
-#: ../../ISD.rst:1018
-# e722447dd035495e9f37938b17f31cb6
-msgid "Whenever a Vampire you control deals combat damage to a player, put a +1/+1 counter on it."
-msgstr ""
-
-#: ../../ISD.rst:1025
-# 6c41f4623de041afbcf7731cf41039d4
-msgid "Rally the Peasants"
-msgstr ""
-
-#: ../../ISD.rst:1022
-# 5d602601e2c84de6b1966a6fbc254d04
-msgid "Creatures you control get +2/+0 until end of turn."
-msgstr ""
-
-#: ../../ISD.rst:1024
-# f17bf5816fdf4566b79ba827347d584b
-msgid "Flashback |mana_2| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:1029
-# d3679135bf284f718ec48b3d5178a132
-msgid "Rampaging Werewolf"
-msgstr ""
-
-#: ../../ISD.rst:1028
-# ca153448ea724c59b1539d951d2b6aea
-msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Rampaging Werewolf."
-msgstr ""
-
-#: ../../ISD.rst:1033
-# b7380957ed884409bad3878fd2c6caf3
-msgid "Ranger's Guile"
-msgstr ""
-
-#: ../../ISD.rst:1032
-# 88cd26462d3a40879bc8ea2e8f4d42a0
-msgid "Target creature you control gets +1/+1 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
-msgstr ""
-
-#: ../../ISD.rst:1039
-# 1ca8e847c08d4b21a179c2eb18fd2f28
-msgid "Reaper from the Abyss"
-msgstr ""
-
-#: ../../ISD.rst:1038
-# 8488bc1ff76c4bc7a69b708d1fc37fa5
-msgid "Morbid — At the beginning of each end step, if a creature died this turn, destroy target non-Demon creature."
-msgstr ""
-
-#: ../../ISD.rst:1043
-# 5fcce71e9ae5439fa9dd307923327e61
-msgid "Rebuke"
-msgstr ""
-
-#: ../../ISD.rst:1042
-# 807270fc72064bacaf13c0ffd57a3b86
-msgid "Destroy target attacking creature."
-msgstr ""
-
-#: ../../ISD.rst:1047
-# 3b6c29121a5742e18587b6acf9b9b9ef
-msgid "Reckless Waif"
-msgstr ""
-
-#: ../../ISD.rst:1046
-# b6e130ca4ffb4d6da76548c0b43d953b
-msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Reckless Waif."
-msgstr ""
-
-#: ../../ISD.rst:1049
-# abbe93b511d04e31881f63ab95c87c98
-msgid "Riot Devils"
-msgstr ""
-
-#: ../../ISD.rst:1057
-# 7c299e674bfc429fbd72bdb891f1131e
-msgid "Rolling Temblor"
-msgstr ""
-
-#: ../../ISD.rst:1054
-# 5a9d1f0a057342e3aa69a6432fafb407
-msgid "Rolling Temblor deals 2 damage to each creature without flying."
-msgstr ""
-
-#: ../../ISD.rst:1056
-# f47b9fe98a4144c3a993e7c3a32033e4
-msgid "Flashback |mana_4| |mana_r| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:1061
-# 1b5c2f24209943cebb2a21859562c858
-msgid "Rooftop Storm"
-msgstr ""
-
-#: ../../ISD.rst:1060
-# 09c5c2bc5b5346bb9043d28afd22985c
-msgid "You may pay |mana_0| rather than pay the mana cost for Zombie creature spells you cast."
-msgstr ""
-
-#: ../../ISD.rst:1063
-# d3e0731a62c1424c91c8b3414600aa5b
-msgid "Rotting Fensnake"
-msgstr ""
-
-#: ../../ISD.rst:1071
-# 3406b104e08541cfb7880cd5c10d2dd8
-msgid "Runechanter's Pike"
-msgstr ""
-
-#: ../../ISD.rst:1068
-# 097f137050a944ee8b257e97436a7718
-msgid "Equipped creature has first strike and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:1075
-# ff7f126934de4404a4c698b2c8923d86
-msgid "Runic Repetition"
-msgstr ""
-
-#: ../../ISD.rst:1074
-# e324e9faffa84a7ab3c900a10d883ac4
-msgid "Return target exiled card with flashback you own to your hand."
-msgstr ""
-
-#: ../../ISD.rst:1079
-# fb8a84a656c248a1ba94253376a0099b
-msgid "Scourge of Geier Reach"
-msgstr ""
-
-#: ../../ISD.rst:1078
-# 45a0ddebfe9a4899a94e2acd04fe23e7
-msgid "Scourge of Geier Reach gets +1/+1 for each creature your opponents control."
-msgstr ""
-
-#: ../../ISD.rst:1085
-# 5b8c06153ea44937ac5a5d0d535bcb8a
-msgid "Screeching Bat"
-msgstr ""
-
-#: ../../ISD.rst:1084
-# 69081657f1d24fe99c18b826f4abdaf5
-msgid "At the beginning of your upkeep, you may pay |mana_2| |mana_b| |mana_b|. If you do, transform Screeching Bat."
-msgstr ""
-
-#: ../../ISD.rst:1089
-# ec0a6b424876486fbfc1b26548c23284
-msgid "Selfless Cathar"
-msgstr ""
-
-#: ../../ISD.rst:1088
-# 3a9507988f6a47dcbf64fbb29ddcf5c4
-msgid "|mana_1| |mana_w|, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn."
-msgstr ""
-
-#: ../../ISD.rst:1093
-# 6bf31688903043e9868d4126c4bbfa04
-msgid "Selhoff Occultist"
-msgstr ""
-
-#: ../../ISD.rst:1092
-# ca3b69ed25fd41b185fb8a329cd8c992
-msgid "Whenever Selhoff Occultist or another creature dies, target player puts the top card of his or her library into his or her graveyard."
-msgstr ""
-
-#: ../../ISD.rst:1099
-# 9d1e787fd7fa462eb0ff11543b776db8
-msgid "Sensory Deprivation"
-msgstr ""
-
-#: ../../ISD.rst:1098
-# 706a83f930de4e159bbb42d6808e3a7e
-msgid "Enchanted creature gets -3/-0."
-msgstr ""
-
-#: ../../ISD.rst:1105
-# 78afecbed0054396aead91756bd32690
-msgid "Sever the Bloodline"
-msgstr ""
-
-#: ../../ISD.rst:1102
-# 577305f6f68a45e28976b89957ee3b5f
-msgid "Exile target creature and all other creatures with the same name as that creature."
-msgstr ""
-
-#: ../../ISD.rst:1113
-# d1275006426a4f4fb16a2317c8af2c3f
-msgid "Sharpened Pitchfork"
-msgstr ""
-
-#: ../../ISD.rst:1108
-# b301fb73bcc744e38c4d3bb3f2b33eca
-msgid "Equipped creature has first strike."
-msgstr ""
-
-#: ../../ISD.rst:1110
-# 92720ad23c4441848a7f558cd03c80a5
-msgid "As long as equipped creature is a Human, it gets +1/+1."
-msgstr ""
-
-#: ../../ISD.rst:1112
-# 682d2e0616bc4ccdbb597a5744cdaeeb
-msgid "Equip |mana_1|"
-msgstr ""
-
-#: ../../ISD.rst:1119
-# 25e8213d202b44a9a9834337ad54683b
-msgid "Shimmering Grotto"
-msgstr ""
-
-#: ../../ISD.rst:1118
-# 6612e60b7467460ebcca1261d0503a6c
-msgid "|mana_1|, |tap|: Add one mana of any color to your mana pool."
-msgstr ""
-
-#: ../../ISD.rst:1125
-# 559c5d5d174b44d28d204de8f2e5eca8
-msgid "Silent Departure"
-msgstr ""
-
-#: ../../ISD.rst:1122
-# 3bcbaeb2159340768144d2f6cc1bd778
-msgid "Return target creature to its owner's hand."
-msgstr ""
-
-#: ../../ISD.rst:1124
-# fda94fc9fa89411ea04c7cedb09973fd
-msgid "Flashback |mana_4| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:1129
-# 93164494f171461b8e46320425d7b529
-msgid "Silverchase Fox"
-msgstr ""
-
-#: ../../ISD.rst:1128
-# 0d32463bba5d4b55b7b9b8318cfb47b5
-msgid "|mana_1| |mana_w|, Sacrifice Silverchase Fox: Exile target enchantment."
-msgstr ""
-
-#: ../../ISD.rst:1137
-# b2b13a4a9aac43109d4b38f86cb3d5c4
-msgid "Silver-Inlaid Dagger"
-msgstr ""
-
-#: ../../ISD.rst:1132
-# 9bee02a0d6b8418b91e66ab50276f24d
-msgid "Equipped creature gets +2/+0."
-msgstr ""
-
-#: ../../ISD.rst:1134
-# ee932f1c68884249a5d718098ee4818a
-msgid "As long as equipped creature is a Human, it gets an additional +1/+0."
-msgstr ""
-
-#: ../../ISD.rst:1143
-# b670b4f0352d46efaba6f2455ed0fd06
-msgid "Skaab Goliath"
-msgstr ""
-
-#: ../../ISD.rst:1140
-# f5a470b9f28444059cb7fb26d243c155
-msgid "As an additional cost to cast Skaab Goliath, exile two creature cards from your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:1151
-# fb0c82db10c54c9788261503f72b8da4
-msgid "Skaab Ruinator"
-msgstr ""
-
-#: ../../ISD.rst:1146
-# 5a3b55cffdc442c4b5f7db99a4631550
-msgid "As an additional cost to cast Skaab Ruinator, exile three creature cards from your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:1150
-# d928c940f88c4733915555714d4dd4b8
-msgid "You may cast Skaab Ruinator from your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:1157
-# 7df68491d08e4c0582a3257722c8ca05
-msgid "Skeletal Grimace"
-msgstr ""
-
-#: ../../ISD.rst:1156
-# 5fbcb5c551db470f896e671cc7e72bfe
-msgid "Enchanted creature gets +1/+1 and has \\\"|mana_b|: Regenerate this creature.\\\""
-msgstr ""
-
-#: ../../ISD.rst:1161
-# 2d91e441b1704036a69a58790179b89d
-msgid "Skirsdag Cultist"
-msgstr ""
-
-#: ../../ISD.rst:1160
-# 35d1299108a3489ea8217a02a7be12e5
-msgid "|mana_r|, |tap|, Sacrifice a creature: Skirsdag Cultist deals 2 damage to target creature or player."
-msgstr ""
-
-#: ../../ISD.rst:1165
-# 209ab5a314994dc099a053a5ff2c4a96
-msgid "Skirsdag High Priest"
-msgstr ""
-
-#: ../../ISD.rst:1164
-# f41cfc039ffa4632bd7bc09c6ccbd322
-msgid "Morbid — |tap|, Tap two untapped creatures you control: Put a 5/5 black Demon creature token with flying onto the battlefield. Activate this ability only if a creature died this turn."
-msgstr ""
-
-#: ../../ISD.rst:1169
-# a6900f10107f47ab951bd67697cb238a
-msgid "Slayer of the Wicked"
-msgstr ""
-
-#: ../../ISD.rst:1168
-# a94c079c7a114d1d8485f721a12c2451
-msgid "When Slayer of the Wicked enters the battlefield, you may destroy target Vampire, Werewolf, or Zombie."
-msgstr ""
-
-#: ../../ISD.rst:1173
-# e21dd8dff13a42a496f6736266bd97dd
-msgid "Smite the Monstrous"
-msgstr ""
-
-#: ../../ISD.rst:1172
-# 149c0ff18b5f4036a59716f075d61522
-msgid "Destroy target creature with power 4 or greater."
-msgstr ""
-
-#: ../../ISD.rst:1179
-# 78b8d5623fb54d29a3caefe5a8f6f796
-msgid "Snapcaster Mage"
-msgstr ""
-
-#: ../../ISD.rst:1176
-# 0d5d9df7b04540f4bdb929177a4a064a
-msgid "Flash"
-msgstr ""
-
-#: ../../ISD.rst:1178
-# ebb5e7a394ee46efa19cab3c278ab44d
-msgid "When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:1185
-# 289dbb4dcdf440fdbd31beaf087a9f34
-msgid "Somberwald Spider"
-msgstr ""
-
-#: ../../ISD.rst:1182
-# f6ef51bcc96b473ca30adff316353341
-msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
-
-#: ../../ISD.rst:1184
-# 6401a2d8da3d4736acbfb180331061c9
-msgid "Morbid — Somberwald Spider enters the battlefield with two +1/+1 counters on it if a creature died this turn."
-msgstr ""
-
-#: ../../ISD.rst:1189
-# 0cef610b990248049d4404d87306af09
-msgid "Spare from Evil"
-msgstr ""
-
-#: ../../ISD.rst:1188
-# 1630008c10e046b3a306a3474fde37e9
-msgid "Creatures you control gain protection from non-Human creatures until end of turn."
-msgstr ""
-
-#: ../../ISD.rst:1195
-# b296fc7dcd4a462199ab9d0fadb0da05
-msgid "Spectral Flight"
-msgstr ""
-
-#: ../../ISD.rst:1194
-# 3599a89623ae4e56acde34939606fd76
-msgid "Enchanted creature gets +2/+2 and has flying."
-msgstr ""
-
-#: ../../ISD.rst:1199
-# b2f553eafda1497eb66fa71b886423dd
-msgid "Spectral Rider"
-msgstr ""
-
-#: ../../ISD.rst:1205
-# fe1be7658a404e1e95b3f3f567a0ab3e
-msgid "Spider Spawning"
-msgstr ""
-
-#: ../../ISD.rst:1202
-# e0019a82e7c2429a81842def56a546bb
-msgid "Put a 1/2 green Spider creature token with reach onto the battlefield for each creature card in your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:1209
-# c39ef3f063ad42beab676248721f3bfb
-msgid "Spidery Grasp"
-msgstr ""
-
-#: ../../ISD.rst:1208
-# 63dd1394a0724c5990c57d185403be03
-msgid "Untap target creature. It gets +2/+4 and gains reach until end of turn. (It can block creatures with flying.)"
-msgstr ""
-
-#: ../../ISD.rst:1217
-# ec87df43c2864227b1ac9485ed194eba
-msgid "Splinterfright"
-msgstr ""
-
-#: ../../ISD.rst:1214
-# 12ec84244b154295a3ae7c3afa29070f
-msgid "Splinterfright's power and toughness are each equal to the number of creature cards in your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:1216
-# 9574a157a0e64445a459c8d3c14c04c1
-msgid "At the beginning of your upkeep, put the top two cards of your library into your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:1221
-# 61d39ed289964b13a3455e9675f084d5
-msgid "Stalking Vampire"
-msgstr ""
-
-#: ../../ISD.rst:1220
-# ffcbc38a2fbd49a29a819438f6287d56
-msgid "At the beginning of your upkeep, you may pay |mana_2| |mana_b| |mana_b|. If you do, transform Stalking Vampire."
-msgstr ""
-
-#: ../../ISD.rst:1227
-# 5d44b627c4704666a280f250ab51b05d
-msgid "Stensia Bloodhall"
-msgstr ""
-
-#: ../../ISD.rst:1226
-# 310f8928baa54b89a294e6de514f2433
-msgid "|mana_3| |mana_b| |mana_r|, |tap|: Stensia Bloodhall deals 2 damage to target player."
-msgstr ""
-
-#: ../../ISD.rst:1233
-# d7462066a9f34db2a9c5779f162bb012
-msgid "Stitched Drake"
-msgstr ""
-
-#: ../../ISD.rst:1230
-# 048b168d53b64e2a8dda78af9cbf94c5
-msgid "As an additional cost to cast Stitched Drake, exile a creature card from your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:1237
-# d739ae6fe8554dbb99528f18b69acb01
-msgid "Stitcher's Apprentice"
-msgstr ""
-
-#: ../../ISD.rst:1236
-# 32a790deca554f2593ee6762e371c9f9
-msgid "|mana_1| |mana_u|, |tap|: Put a 2/2 blue Homunculus creature token onto the battlefield, then sacrifice a creature."
-msgstr ""
-
-#: ../../ISD.rst:1241
-# 5df574ccdc0f41bba4926ec02dc96e41
-msgid "Stony Silence"
-msgstr ""
-
-#: ../../ISD.rst:1240
-# c6aa8b72983d4145bb2082ac6997bad8
-msgid "Activated abilities of artifacts can't be activated."
-msgstr ""
-
-#: ../../ISD.rst:1247
-# 860ef07f242645eb974f7eeccd9c04ed
-msgid "Stromkirk Noble"
-msgstr ""
-
-#: ../../ISD.rst:1244
-# 8ddf7c314c764760808ef617eb536685
-msgid "Stromkirk Noble can't be blocked by Humans."
-msgstr ""
-
-#: ../../ISD.rst:1246
-# 9559aaaa5bda42be8da9100847d1d1f1
-msgid "Whenever Stromkirk Noble deals combat damage to a player, put a +1/+1 counter on it."
-msgstr ""
-
-#: ../../ISD.rst:1251
-# 1c6bda27077a4d96b9ea5f1b8ccf04f4
-msgid "Stromkirk Patrol"
-msgstr ""
-
-#: ../../ISD.rst:1250
-# fe463d73bf30471282a5a19ba9986d59
-msgid "Whenever Stromkirk Patrol deals combat damage to a player, put a +1/+1 counter on it."
-msgstr ""
-
-#: ../../ISD.rst:1259
-# 789f8fc029324b5f8258a3ca403eaadc
-msgid "Sturmgeist"
-msgstr ""
-
-#: ../../ISD.rst:1256
-# 093b61b9d90c4acb9cce21da31994ced
-msgid "Sturmgeist's power and toughness are each equal to the number of cards in your hand."
-msgstr ""
-
-#: ../../ISD.rst:1258
-# 056aca69149b47a2be67ef8b7d9a9a6c
-msgid "Whenever Sturmgeist deals combat damage to a player, draw a card."
-msgstr ""
-
-#: ../../ISD.rst:1265
-# 7e994ebe8c8b45618073cce2c7841e8e
-msgid "Sulfur Falls"
-msgstr ""
-
-#: ../../ISD.rst:1262
-# bd9769ac8f4040efaceb13a4a1efee5a
-msgid "Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain."
-msgstr ""
-
-#: ../../ISD.rst:1264
-# 2d516908a4074f6b9e5898d3a7d93088
-msgid "|tap|: Add |mana_u| or |mana_r| to your mana pool."
-msgstr ""
-
-#: ../../ISD.rst:1269
-# 3e59bea9538442cdb2416df40b5490ad
-msgid "Swamp"
-msgstr ""
-
-#: ../../ISD.rst:1268
-# b7563320292a45ffa6df82ff43368400
-msgid "B"
-msgstr ""
-
-#: ../../ISD.rst:1277
-# cd28d827a5f84d83843b4cd20c2a58fa
-msgid "Terror of Kruin Pass"
-msgstr ""
-
-#: ../../ISD.rst:1272
-# e2b3bd9c7ae847ca844379e07717163e
-msgid "Double strike"
-msgstr ""
-
-#: ../../ISD.rst:1274
-# 3510ddcdc30f4a5f866896d942aeb26b
-msgid "Each Werewolf you control can't be blocked except by two or more creatures."
-msgstr ""
-
-#: ../../ISD.rst:1276
-# 383ee29cc9b44386b4ed9ce483604dde
-msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Terror of Kruin Pass."
-msgstr ""
-
-#: ../../ISD.rst:1283
-# cf35841bddbc4e5eb580adacae8df200
-msgid "Think Twice"
-msgstr ""
-
-#: ../../ISD.rst:1280
-# 1669ce64243e44599cd3cc74591347c8
-msgid "Draw a card."
-msgstr ""
-
-#: ../../ISD.rst:1287
-# 33ab61c6364e4334a838b19389edf5e4
-msgid "Thraben Militia"
-msgstr ""
-
-#: ../../ISD.rst:1289
-# 516f762543aa49599082712471b2ddd2
-msgid "Thraben Purebloods"
-msgstr ""
-
-#: ../../ISD.rst:1297
-# 976684fb5998458bbf826ba1f87f88a6
-msgid "Thraben Sentry"
-msgstr ""
-
-#: ../../ISD.rst:1296
-# ca552c3e4601422e9e6f8db967270aad
-msgid "Whenever another creature you control dies, you may transform Thraben Sentry."
-msgstr ""
-
-#: ../../ISD.rst:1301
-# be8d9788c470423e9ba8cc47def9f1c2
-msgid "Tormented Pariah"
-msgstr ""
-
-#: ../../ISD.rst:1300
-# a56c94898f9f46958b63dc3a2d019dcb
-msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Tormented Pariah."
-msgstr ""
-
-#: ../../ISD.rst:1305
-# 5af3cad47ebe4661b01755c338519c0a
-msgid "Traitorous Blood"
-msgstr ""
-
-#: ../../ISD.rst:1304
-# 8d4985498cbd4f4b8eb478cb0a1c152d
-msgid "Gain control of target creature until end of turn. Untap it. It gains trample and haste until end of turn."
-msgstr ""
-
-#: ../../ISD.rst:1311
-# 2477497cce26497598eb4a02ec1d18ba
-msgid "Travel Preparations"
-msgstr ""
-
-#: ../../ISD.rst:1308
-# b8a687fe794a405c896c67b03b86e01d
-msgid "Put a +1/+1 counter on each of up to two target creatures."
-msgstr ""
-
-#: ../../ISD.rst:1310
-# f9d55cd9842e4665a53bd379b17d8033
-msgid "Flashback |mana_1| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:1315
-# 57ad5b7f58ad470a8d4dc2631aec1e06
-msgid "Traveler's Amulet"
-msgstr ""
-
-#: ../../ISD.rst:1314
-# 28541ad8f13242fb90c75283c24cb4e9
-msgid "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library."
-msgstr ""
-
-#: ../../ISD.rst:1321
-# 7d4427ed6f0540f382510aeaee3e3bfa
-msgid "Tree of Redemption"
-msgstr ""
-
-#: ../../ISD.rst:1320
-# aaaecb2212f741dc91a3c0a453a54a04
-msgid "|tap|: Exchange your life total with Tree of Redemption's toughness."
-msgstr ""
-
-#: ../../ISD.rst:1327
-# f35f56dc5b9e45ab9335d5e226ab74b9
-msgid "Trepanation Blade"
-msgstr ""
-
-#: ../../ISD.rst:1324
-# 1a75f0f35a7148a5b74332fe238d7b64
-msgid "Whenever equipped creature attacks, defending player reveals cards from the top of his or her library until he or she reveals a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts the revealed cards into his or her graveyard."
-msgstr ""
-
-#: ../../ISD.rst:1331
-# b3e4cb1cc49545e7a571540686801cd4
-msgid "Tribute to Hunger"
-msgstr ""
-
-#: ../../ISD.rst:1330
-# d9188fa0f1e143a0a761f1bc6679a080
-msgid "Target opponent sacrifices a creature. You gain life equal to that creature's toughness."
-msgstr ""
-
-#: ../../ISD.rst:1335
-# 4d7306ea4d5146ca985ce7e1d4cb18ee
-msgid "Typhoid Rats"
-msgstr ""
-
-#: ../../ISD.rst:1339
-# bba1cd49b7484b47a9e9321b0d9add0b
-msgid "Ulvenwald Mystics"
-msgstr ""
-
-#: ../../ISD.rst:1338
-# ee4c3c3dbb87437e8a0e94f8c48b0604
-msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics."
-msgstr ""
-
-#: ../../ISD.rst:1345
-# 4054a70bdb8f42568989b8206e7a50be
-msgid "Ulvenwald Primordials"
-msgstr ""
-
-#: ../../ISD.rst:1342
-# 36b5c9b78573499e8161e048479eea06
-msgid "|mana_g|: Regenerate Ulvenwald Primordials."
-msgstr ""
-
-#: ../../ISD.rst:1344
-# 91808efc8887433bbc7bf2b410acf70a
-msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulvenwald Primordials."
-msgstr ""
-
-#: ../../ISD.rst:1351
-# d5b3ff521939447da0d05f4e15dc6190
-msgid "Unbreathing Horde"
-msgstr ""
-
-#: ../../ISD.rst:1348
-# db46ab84b6984cc2b1a3d07d9fe92d73
-msgid "Unbreathing Horde enters the battlefield with a +1/+1 counter on it for each other Zombie you control and each Zombie card in your graveyard."
-msgstr ""
-
-#: ../../ISD.rst:1350
-# 1c13ccc1d9c1423fa16be227e22a98e6
-msgid "If Unbreathing Horde would be dealt damage, prevent that damage and remove a +1/+1 counter from it."
-msgstr ""
-
-#: ../../ISD.rst:1357
-# 91b95f63e18c4bcc8d7b69de34877e4f
-msgid "Unburial Rites"
-msgstr ""
-
-#: ../../ISD.rst:1354
-# c34507e5ca334d9c98edefe5ba523424
-msgid "Return target creature card from your graveyard to the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:1356
-# 5420a5b73d704461bd3e145af04052f9
-msgid "Flashback |mana_3| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-msgstr ""
-
-#: ../../ISD.rst:1363
-# 9ca0d175d6344ba194770a8bb4df9906
-msgid "Undead Alchemist"
-msgstr ""
-
-#: ../../ISD.rst:1360
-# 83c1cdcabc9f4f30afec812a44553414
-msgid "If a Zombie you control would deal combat damage to a player, instead that player puts that many cards from the top of his or her library into his or her graveyard."
-msgstr ""
-
-#: ../../ISD.rst:1362
-# 0fbd48c9ff8e4c0ca3fa49412ebbee45
-msgid "Whenever a creature card is put into an opponent's graveyard from his or her library, exile that card and put a 2/2 black Zombie creature token onto the battlefield."
-msgstr ""
-
-#: ../../ISD.rst:1367
-# 14ff364b9eac448fa448772950a01dda
+#: ../../ISD.rst:75
 msgid "Unholy Fiend"
 msgstr ""
 
-#: ../../ISD.rst:1366
-# e938e26353b44335b915edc7cafb7493
+#: ../../ISD.rst:74
 msgid "At the beginning of your end step, you lose 1 life."
 msgstr ""
 
-#: ../../ISD.rst:1371
-# 4f9815b428e641d1875dcde910e19c71
+#: ../../ISD.rst:84
+msgid "Dearly Departed"
+msgstr ""
+
+#: ../../ISD.rst:83
+msgid "As long as Dearly Departed is in your graveyard, each Human creature you control enters the battlefield with an additional +1/+1 counter on it."
+msgstr ""
+
+#: ../../ISD.rst:93
+msgid "Divine Reckoning"
+msgstr ""
+
+#: ../../ISD.rst:90
+msgid "Each player chooses a creature they control. Destroy the rest."
+msgstr ""
+
+#: ../../ISD.rst:92
+msgid "Flashback |mana_5| |mana_w| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:100
+msgid "Doomed Traveler"
+msgstr ""
+
+#: ../../ISD.rst:99
+msgid "When Doomed Traveler dies, create a 1/1 white Spirit creature token with flying."
+msgstr ""
+
+#: ../../ISD.rst:107
+msgid "Elder Cathar"
+msgstr ""
+
+#: ../../ISD.rst:106
+msgid "When Elder Cathar dies, put a +1/+1 counter on target creature you control. If that creature is a Human, put two +1/+1 counters on it instead."
+msgstr ""
+
+#: ../../ISD.rst:116
+msgid "Elite Inquisitor"
+msgstr ""
+
+#: ../../ISD.rst:113
+msgid "First strike, vigilance"
+msgstr ""
+
+#: ../../ISD.rst:115
+msgid "Protection from Vampires, from Werewolves, and from Zombies"
+msgstr ""
+
+#: ../../ISD.rst:125
+msgid "Feeling of Dread"
+msgstr ""
+
+#: ../../ISD.rst:122
+msgid "Tap up to two target creatures."
+msgstr ""
+
+#: ../../ISD.rst:124
+#: ../../ISD.rst:465
+msgid "Flashback |mana_1| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:134
+msgid "Fiend Hunter"
+msgstr ""
+
+#: ../../ISD.rst:131
+msgid "When Fiend Hunter enters the battlefield, you may exile another target creature."
+msgstr ""
+
+#: ../../ISD.rst:133
+msgid "When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control."
+msgstr ""
+
+#: ../../ISD.rst:143
+msgid "Gallows Warden"
+msgstr ""
+
+#: ../../ISD.rst:142
+msgid "Other Spirit creatures you control get +0/+1."
+msgstr ""
+
+#: ../../ISD.rst:154
+msgid "Geist-Honored Monk"
+msgstr ""
+
+#: ../../ISD.rst:149
+#: ../../ISD.rst:314
+msgid "Vigilance"
+msgstr ""
+
+#: ../../ISD.rst:151
+msgid "Geist-Honored Monk's power and toughness are each equal to the number of creatures you control."
+msgstr ""
+
+#: ../../ISD.rst:153
+msgid "When Geist-Honored Monk enters the battlefield, create two 1/1 white Spirit creature tokens with flying."
+msgstr ""
+
+#: ../../ISD.rst:165
+msgid "Ghostly Possession"
+msgstr ""
+
+#: ../../ISD.rst:162
+msgid "Enchanted creature has flying."
+msgstr ""
+
+#: ../../ISD.rst:164
+msgid "Prevent all combat damage that would be dealt to and dealt by enchanted creature."
+msgstr ""
+
+#: ../../ISD.rst:172
+msgid "Intangible Virtue"
+msgstr ""
+
+#: ../../ISD.rst:171
+msgid "Creature tokens you control get +1/+1 and have vigilance."
+msgstr ""
+
+#: ../../ISD.rst:179
+msgid "Mausoleum Guard"
+msgstr ""
+
+#: ../../ISD.rst:178
+msgid "When Mausoleum Guard dies, create two 1/1 white Spirit creature tokens with flying."
+msgstr ""
+
+#: ../../ISD.rst:186
+msgid "Mentor of the Meek"
+msgstr ""
+
+#: ../../ISD.rst:185
+msgid "Whenever another creature with power 2 or less enters the battlefield under your control, you may pay |mana_1|. If you do, draw a card."
+msgstr ""
+
+#: ../../ISD.rst:193
+msgid "Midnight Haunting"
+msgstr ""
+
+#: ../../ISD.rst:192
+msgid "Create two 1/1 white Spirit creature tokens with flying."
+msgstr ""
+
+#: ../../ISD.rst:204
+msgid "Mikaeus, the Lunarch"
+msgstr ""
+
+#: ../../ISD.rst:199
+msgid "Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it."
+msgstr ""
+
+#: ../../ISD.rst:201
+msgid "|tap|: Put a +1/+1 counter on Mikaeus."
+msgstr ""
+
+#: ../../ISD.rst:203
+msgid "|tap|, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control."
+msgstr ""
+
+#: ../../ISD.rst:211
+msgid "Moment of Heroism"
+msgstr ""
+
+#: ../../ISD.rst:210
+msgid "Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)"
+msgstr ""
+
+#: ../../ISD.rst:220
+msgid "Nevermore"
+msgstr ""
+
+#: ../../ISD.rst:217
+msgid "As Nevermore enters the battlefield, choose a nonland card name."
+msgstr ""
+
+#: ../../ISD.rst:219
+msgid "Spells with the chosen name can't be cast."
+msgstr ""
+
+#: ../../ISD.rst:227
+msgid "Paraselene"
+msgstr ""
+
+#: ../../ISD.rst:226
+msgid "Destroy all enchantments. You gain 1 life for each enchantment destroyed this way."
+msgstr ""
+
+#: ../../ISD.rst:236
+msgid "Purify the Grave"
+msgstr ""
+
+#: ../../ISD.rst:233
+msgid "Exile target card from a graveyard."
+msgstr ""
+
+#: ../../ISD.rst:235
+msgid "Flashback |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:245
+msgid "Rally the Peasants"
+msgstr ""
+
+#: ../../ISD.rst:242
+msgid "Creatures you control get +2/+0 until end of turn."
+msgstr ""
+
+#: ../../ISD.rst:244
+msgid "Flashback |mana_2| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:252
+msgid "Rebuke"
+msgstr ""
+
+#: ../../ISD.rst:251
+msgid "Destroy target attacking creature."
+msgstr ""
+
+#: ../../ISD.rst:259
+msgid "Selfless Cathar"
+msgstr ""
+
+#: ../../ISD.rst:258
+msgid "|mana_1| |mana_w|, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ISD.rst:266
+msgid "Silverchase Fox"
+msgstr ""
+
+#: ../../ISD.rst:265
+msgid "|mana_1| |mana_w|, Sacrifice Silverchase Fox: Exile target enchantment."
+msgstr ""
+
+#: ../../ISD.rst:273
+msgid "Slayer of the Wicked"
+msgstr ""
+
+#: ../../ISD.rst:272
+msgid "When Slayer of the Wicked enters the battlefield, you may destroy target Vampire, Werewolf, or Zombie."
+msgstr ""
+
+#: ../../ISD.rst:280
+msgid "Smite the Monstrous"
+msgstr ""
+
+#: ../../ISD.rst:279
+msgid "Destroy target creature with power 4 or greater."
+msgstr ""
+
+#: ../../ISD.rst:287
+msgid "Spare from Evil"
+msgstr ""
+
+#: ../../ISD.rst:286
+msgid "Creatures you control gain protection from non-Human creatures until end of turn."
+msgstr ""
+
+#: ../../ISD.rst:294
+msgid "Spectral Rider"
+msgstr ""
+
+#: ../../ISD.rst:293
+#: ../../ISD.rst:798
+#: ../../ISD.rst:1633
+msgid "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../ISD.rst:301
+msgid "Stony Silence"
+msgstr ""
+
+#: ../../ISD.rst:300
+msgid "Activated abilities of artifacts can't be activated."
+msgstr ""
+
+#: ../../ISD.rst:306
+msgid "Thraben Purebloods"
+msgstr ""
+
+#: ../../ISD.rst:317
+msgid "Thraben Sentry"
+msgstr ""
+
+#: ../../ISD.rst:316
+msgid "Whenever another creature you control dies, you may transform Thraben Sentry."
+msgstr ""
+
+#: ../../ISD.rst:324
+msgid "Thraben Militia"
+msgstr ""
+
+#: ../../ISD.rst:323
+#: ../../ISD.rst:552
+#: ../../ISD.rst:1230
+#: ../../ISD.rst:1309
+#: ../../ISD.rst:1586
+#: ../../ISD.rst:1743
+#: ../../ISD.rst:1826
+msgid "Trample"
+msgstr ""
+
+#: ../../ISD.rst:331
 msgid "Unruly Mob"
 msgstr ""
 
-#: ../../ISD.rst:1370
-# fb6441fcdf6d458bbc1453d4cd591c92
+#: ../../ISD.rst:330
 msgid "Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob."
 msgstr ""
 
-#: ../../ISD.rst:1375
-# aafdc68201ec4c159d1fd3df73c61aed
+#: ../../ISD.rst:338
 msgid "Urgent Exorcism"
 msgstr ""
 
-#: ../../ISD.rst:1374
-# 7e5be44b14754c5c820ed62d24264537
+#: ../../ISD.rst:337
 msgid "Destroy target Spirit or enchantment."
 msgstr ""
 
-#: ../../ISD.rst:1381
-# 251e23b153a04a63b5e26eeb63eec054
-msgid "Vampire Interloper"
-msgstr ""
-
-#: ../../ISD.rst:1380
-# e8909963451b48f48bf3ff3534a77264
-msgid "Vampire Interloper can't block."
-msgstr ""
-
-#: ../../ISD.rst:1385
-# 123bbd7383d343d7bad30e0bf53b7cf7
-msgid "Vampiric Fury"
-msgstr ""
-
-#: ../../ISD.rst:1384
-# 969e9ed032af486f8de3d42cb84d54f2
-msgid "Vampire creatures you control get +2/+0 and gain first strike until end of turn."
-msgstr ""
-
-#: ../../ISD.rst:1389
-# af29a9daf0dd474093475ef01cabd4ef
-msgid "Victim of Night"
-msgstr ""
-
-#: ../../ISD.rst:1388
-# 35519e6621c642b9a1607f1a34bfa6e1
-msgid "Destroy target non-Vampire, non-Werewolf, non-Zombie creature."
-msgstr ""
-
-#: ../../ISD.rst:1395
-# e6ddaf7a670c446aa970464d9b792fed
+#: ../../ISD.rst:347
 msgid "Village Bell-Ringer"
 msgstr ""
 
-#: ../../ISD.rst:1394
-# eac3dad1dd0f44d88cf01e7d86ec4430
+#: ../../ISD.rst:344
+#: ../../ISD.rst:1499
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
+#: ../../ISD.rst:346
 msgid "When Village Bell-Ringer enters the battlefield, untap all creatures you control."
 msgstr ""
 
-#: ../../ISD.rst:1399
-# e8e8829addc94dd5b74990bab9afe963
-msgid "Village Cannibals"
-msgstr ""
-
-#: ../../ISD.rst:1398
-# 57ab00a47f4b4b5fa80b765b6ada3286
-msgid "Whenever another Human creature dies, put a +1/+1 counter on Village Cannibals."
-msgstr ""
-
-#: ../../ISD.rst:1405
-# 2c206da3d04f42968d8009122012341c
-msgid "Village Ironsmith"
-msgstr ""
-
-#: ../../ISD.rst:1404
-# 9e85032bb58c481d9fe7bb7bbfbbb5d2
-msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith."
-msgstr ""
-
-#: ../../ISD.rst:1409
-# a45ebbbb39c44c66948ad4195e9e340c
-msgid "Villagers of Estwald"
-msgstr ""
-
-#: ../../ISD.rst:1408
-# 6aa1c37a56424fefabff4988b27a9477
-msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Villagers of Estwald."
-msgstr ""
-
-#: ../../ISD.rst:1413
-# d30d550179c346448045fbb9d05ece1a
+#: ../../ISD.rst:354
 msgid "Voiceless Spirit"
 msgstr ""
 
-#: ../../ISD.rst:1412
-# 762d7262336d4f5ca0f7ed4564cd37c5
+#: ../../ISD.rst:353
 msgid "Flying, first strike"
 msgstr ""
 
-#: ../../ISD.rst:1415
-# 2f9e294e9afa45328352fa3980fc7136
+#: ../../ISD.rst:361
+msgid "Armored Skaab"
+msgstr ""
+
+#: ../../ISD.rst:360
+msgid "When Armored Skaab enters the battlefield, put the top four cards of your library into your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:368
+msgid "Back from the Brink"
+msgstr ""
+
+#: ../../ISD.rst:367
+msgid "Exile a creature card from your graveyard and pay its mana cost: Create a token that's a copy of that card. Activate this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../ISD.rst:377
+msgid "Battleground Geist"
+msgstr ""
+
+#: ../../ISD.rst:376
+msgid "Other Spirit creatures you control get +1/+0."
+msgstr ""
+
+#: ../../ISD.rst:386
+msgid "Cackling Counterpart"
+msgstr ""
+
+#: ../../ISD.rst:383
+msgid "Create a token that's a copy of target creature you control."
+msgstr ""
+
+#: ../../ISD.rst:385
+msgid "Flashback |mana_5| |mana_u| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:393
+msgid "Civilized Scholar"
+msgstr ""
+
+#: ../../ISD.rst:392
+msgid "|tap|: Draw a card, then discard a card. If a creature card is discarded this way, untap Civilized Scholar, then transform it."
+msgstr ""
+
+#: ../../ISD.rst:400
+msgid "Homicidal Brute"
+msgstr ""
+
+#: ../../ISD.rst:399
+msgid "At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it."
+msgstr ""
+
+#: ../../ISD.rst:411
+msgid "Claustrophobia"
+msgstr ""
+
+#: ../../ISD.rst:408
+msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
+msgstr ""
+
+#: ../../ISD.rst:410
+msgid "Enchanted creature doesn't untap during its controller's untap step."
+msgstr ""
+
+#: ../../ISD.rst:420
+msgid "Curiosity"
+msgstr ""
+
+#: ../../ISD.rst:419
+msgid "Whenever enchanted creature deals damage to an opponent, you may draw a card."
+msgstr ""
+
+#: ../../ISD.rst:429
+msgid "Curse of the Bloody Tome"
+msgstr ""
+
+#: ../../ISD.rst:426
+#: ../../ISD.rst:825
+#: ../../ISD.rst:834
+#: ../../ISD.rst:1176
+#: ../../ISD.rst:1185
+#: ../../ISD.rst:1194
+msgid "Enchant player"
+msgstr ""
+
+#: ../../ISD.rst:428
+msgid "At the beginning of enchanted player's upkeep, that player puts the top two cards of their library into their graveyard."
+msgstr ""
+
+#: ../../ISD.rst:436
+msgid "Delver of Secrets"
+msgstr ""
+
+#: ../../ISD.rst:435
+msgid "At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets."
+msgstr ""
+
+#: ../../ISD.rst:443
+msgid "Insectile Aberration"
+msgstr ""
+
+#: ../../ISD.rst:450
+msgid "Deranged Assistant"
+msgstr ""
+
+#: ../../ISD.rst:449
+msgid "|tap|, Put the top card of your library into your graveyard: Add |colorless|."
+msgstr ""
+
+#: ../../ISD.rst:457
+msgid "Dissipate"
+msgstr ""
+
+#: ../../ISD.rst:456
+msgid "Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+msgstr ""
+
+#: ../../ISD.rst:466
+msgid "Dream Twist"
+msgstr ""
+
+#: ../../ISD.rst:463
+msgid "Target player puts the top three cards of their library into their graveyard."
+msgstr ""
+
+#: ../../ISD.rst:475
+msgid "Forbidden Alchemy"
+msgstr ""
+
+#: ../../ISD.rst:472
+msgid "Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:474
+#: ../../ISD.rst:1812
+msgid "Flashback |mana_6| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:480
+msgid "Fortress Crab"
+msgstr ""
+
+#: ../../ISD.rst:489
+msgid "Frightful Delusion"
+msgstr ""
+
+#: ../../ISD.rst:488
+msgid "Counter target spell unless its controller pays |mana_1|. That player discards a card."
+msgstr ""
+
+#: ../../ISD.rst:498
+msgid "Grasp of Phantoms"
+msgstr ""
+
+#: ../../ISD.rst:495
+msgid "Put target creature on top of its owner's library."
+msgstr ""
+
+#: ../../ISD.rst:497
+msgid "Flashback |mana_7| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:505
+msgid "Hysterical Blindness"
+msgstr ""
+
+#: ../../ISD.rst:504
+msgid "Creatures your opponents control get -4/-0 until end of turn."
+msgstr ""
+
+#: ../../ISD.rst:514
+msgid "Invisible Stalker"
+msgstr ""
+
+#: ../../ISD.rst:511
+#: ../../ISD.rst:1707
+#: ../../ISD.rst:1908
+msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../ISD.rst:513
+msgid "Invisible Stalker can't be blocked."
+msgstr ""
+
+#: ../../ISD.rst:521
+msgid "Laboratory Maniac"
+msgstr ""
+
+#: ../../ISD.rst:520
+msgid "If you would draw a card while your library has no cards in it, you win the game instead."
+msgstr ""
+
+#: ../../ISD.rst:530
+msgid "Lantern Spirit"
+msgstr ""
+
+#: ../../ISD.rst:529
+msgid "|mana_u|: Return Lantern Spirit to its owner's hand."
+msgstr ""
+
+#: ../../ISD.rst:537
+msgid "Lost in the Mist"
+msgstr ""
+
+#: ../../ISD.rst:536
+msgid "Counter target spell. Return target permanent to its owner's hand."
+msgstr ""
+
+#: ../../ISD.rst:546
+msgid "Ludevic's Test Subject"
+msgstr ""
+
+#: ../../ISD.rst:543
+#: ../../ISD.rst:1257
+#: ../../ISD.rst:1846
+#: ../../ISD.rst:2047
+#: ../../ISD.rst:2067
+msgid "Defender"
+msgstr ""
+
+#: ../../ISD.rst:545
+msgid "|mana_1| |mana_u|: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it."
+msgstr ""
+
+#: ../../ISD.rst:553
+msgid "Ludevic's Abomination"
+msgstr ""
+
+#: ../../ISD.rst:560
+msgid "Makeshift Mauler"
+msgstr ""
+
+#: ../../ISD.rst:559
+#: ../../ISD.rst:686
+#: ../../ISD.rst:816
+msgid "As an additional cost to cast this spell, exile a creature card from your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:569
+msgid "Memory's Journey"
+msgstr ""
+
+#: ../../ISD.rst:566
+msgid "Target player shuffles up to three target cards from their graveyard into their library."
+msgstr ""
+
+#: ../../ISD.rst:568
+#: ../../ISD.rst:1103
+msgid "Flashback |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:578
+msgid "Mindshrieker"
+msgstr ""
+
+#: ../../ISD.rst:577
+msgid "|mana_2|: Target player puts the top card of their library into their graveyard. Mindshrieker gets +X/+X until end of turn, where X is that card's converted mana cost."
+msgstr ""
+
+#: ../../ISD.rst:587
+msgid "Mirror-Mad Phantasm"
+msgstr ""
+
+#: ../../ISD.rst:586
+msgid "|mana_1| |mana_u|: Mirror-Mad Phantasm's owner shuffles it into their library. If that player does, they reveal cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into their graveyard."
+msgstr ""
+
+#: ../../ISD.rst:594
+msgid "Moon Heron"
+msgstr ""
+
+#: ../../ISD.rst:603
+msgid "Murder of Crows"
+msgstr ""
+
+#: ../../ISD.rst:602
+msgid "Whenever another creature dies, you may draw a card. If you do, discard a card."
+msgstr ""
+
+#: ../../ISD.rst:610
+msgid "Rooftop Storm"
+msgstr ""
+
+#: ../../ISD.rst:609
+msgid "You may pay |mana_0| rather than pay the mana cost for Zombie creature spells you cast."
+msgstr ""
+
+#: ../../ISD.rst:617
+msgid "Runic Repetition"
+msgstr ""
+
+#: ../../ISD.rst:616
+msgid "Return target exiled card with flashback you own to your hand."
+msgstr ""
+
+#: ../../ISD.rst:624
+msgid "Selhoff Occultist"
+msgstr ""
+
+#: ../../ISD.rst:623
+msgid "Whenever Selhoff Occultist or another creature dies, target player puts the top card of their library into their graveyard."
+msgstr ""
+
+#: ../../ISD.rst:633
+msgid "Sensory Deprivation"
+msgstr ""
+
+#: ../../ISD.rst:632
+msgid "Enchanted creature gets -3/-0."
+msgstr ""
+
+#: ../../ISD.rst:642
+msgid "Silent Departure"
+msgstr ""
+
+#: ../../ISD.rst:639
+msgid "Return target creature to its owner's hand."
+msgstr ""
+
+#: ../../ISD.rst:641
+msgid "Flashback |mana_4| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:651
+msgid "Skaab Goliath"
+msgstr ""
+
+#: ../../ISD.rst:648
+msgid "As an additional cost to cast this spell, exile two creature cards from your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:650
+msgid "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)"
+msgstr ""
+
+#: ../../ISD.rst:662
+msgid "Skaab Ruinator"
+msgstr ""
+
+#: ../../ISD.rst:657
+msgid "As an additional cost to cast this spell, exile three creature cards from your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:661
+msgid "You may cast Skaab Ruinator from your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:671
+msgid "Snapcaster Mage"
+msgstr ""
+
+#: ../../ISD.rst:668
+msgid "Flash"
+msgstr ""
+
+#: ../../ISD.rst:670
+msgid "When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:680
+msgid "Spectral Flight"
+msgstr ""
+
+#: ../../ISD.rst:679
+msgid "Enchanted creature gets +2/+2 and has flying."
+msgstr ""
+
+#: ../../ISD.rst:689
+msgid "Stitched Drake"
+msgstr ""
+
+#: ../../ISD.rst:696
+msgid "Stitcher's Apprentice"
+msgstr ""
+
+#: ../../ISD.rst:695
+msgid "|mana_1| |mana_u|, |tap|: Create a 2/2 blue Homunculus creature token, then sacrifice a creature."
+msgstr ""
+
+#: ../../ISD.rst:707
+msgid "Sturmgeist"
+msgstr ""
+
+#: ../../ISD.rst:704
+msgid "Sturmgeist's power and toughness are each equal to the number of cards in your hand."
+msgstr ""
+
+#: ../../ISD.rst:706
+msgid "Whenever Sturmgeist deals combat damage to a player, draw a card."
+msgstr ""
+
+#: ../../ISD.rst:716
+msgid "Think Twice"
+msgstr ""
+
+#: ../../ISD.rst:713
+msgid "Draw a card."
+msgstr ""
+
+#: ../../ISD.rst:715
+#: ../../ISD.rst:1205
+msgid "Flashback |mana_2| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:725
+msgid "Undead Alchemist"
+msgstr ""
+
+#: ../../ISD.rst:722
+msgid "If a Zombie you control would deal combat damage to a player, instead that player puts that many cards from the top of their library into their graveyard."
+msgstr ""
+
+#: ../../ISD.rst:724
+msgid "Whenever a creature card is put into an opponent's graveyard from their library, exile that card and create a 2/2 black Zombie creature token."
+msgstr ""
+
+#: ../../ISD.rst:734
+msgid "Abattoir Ghoul"
+msgstr ""
+
+#: ../../ISD.rst:731
+#: ../../ISD.rst:1334
+#: ../../ISD.rst:1481
+#: ../../ISD.rst:1490
+msgid "First strike"
+msgstr ""
+
+#: ../../ISD.rst:733
+msgid "Whenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness."
+msgstr ""
+
+#: ../../ISD.rst:743
+msgid "Altar's Reap"
+msgstr ""
+
+#: ../../ISD.rst:740
+#: ../../ISD.rst:1291
+msgid "As an additional cost to cast this spell, sacrifice a creature."
+msgstr ""
+
+#: ../../ISD.rst:742
+msgid "Draw two cards."
+msgstr ""
+
+#: ../../ISD.rst:752
+msgid "Army of the Damned"
+msgstr ""
+
+#: ../../ISD.rst:749
+msgid "Create thirteen tapped 2/2 black Zombie creature tokens."
+msgstr ""
+
+#: ../../ISD.rst:751
+msgid "Flashback |mana_7| |mana_b| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:761
+msgid "Bitterheart Witch"
+msgstr ""
+
+#: ../../ISD.rst:758
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../ISD.rst:760
+msgid "When Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle your library."
+msgstr ""
+
+#: ../../ISD.rst:770
+msgid "Bloodgift Demon"
+msgstr ""
+
+#: ../../ISD.rst:769
+msgid "At the beginning of your upkeep, target player draws a card and loses 1 life."
+msgstr ""
+
+#: ../../ISD.rst:781
+msgid "Bloodline Keeper"
+msgstr ""
+
+#: ../../ISD.rst:778
+#: ../../ISD.rst:791
+msgid "|tap|: Create a 2/2 black Vampire creature token with flying."
+msgstr ""
+
+#: ../../ISD.rst:780
+msgid "|mana_b|: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires."
+msgstr ""
+
+#: ../../ISD.rst:792
+msgid "Lord of Lineage"
+msgstr ""
+
+#: ../../ISD.rst:789
+msgid "Other Vampire creatures you control get +2/+2."
+msgstr ""
+
+#: ../../ISD.rst:801
+msgid "Brain Weevil"
+msgstr ""
+
+#: ../../ISD.rst:800
+msgid "Sacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../ISD.rst:810
+msgid "Bump in the Night"
+msgstr ""
+
+#: ../../ISD.rst:807
+msgid "Target opponent loses 3 life."
+msgstr ""
+
+#: ../../ISD.rst:809
+msgid "Flashback |mana_5| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:819
+msgid "Corpse Lunge"
+msgstr ""
+
+#: ../../ISD.rst:818
+msgid "Corpse Lunge deals damage equal to the exiled card's power to target creature."
+msgstr ""
+
+#: ../../ISD.rst:828
+msgid "Curse of Death's Hold"
+msgstr ""
+
+#: ../../ISD.rst:827
+msgid "Creatures enchanted player controls get -1/-1."
+msgstr ""
+
+#: ../../ISD.rst:837
+msgid "Curse of Oblivion"
+msgstr ""
+
+#: ../../ISD.rst:836
+msgid "At the beginning of enchanted player's upkeep, that player exiles two cards from their graveyard."
+msgstr ""
+
+#: ../../ISD.rst:846
+msgid "Dead Weight"
+msgstr ""
+
+#: ../../ISD.rst:845
+msgid "Enchanted creature gets -2/-2."
+msgstr ""
+
+#: ../../ISD.rst:853
+msgid "Diregraf Ghoul"
+msgstr ""
+
+#: ../../ISD.rst:852
+msgid "Diregraf Ghoul enters the battlefield tapped."
+msgstr ""
+
+#: ../../ISD.rst:860
+msgid "Disciple of Griselbrand"
+msgstr ""
+
+#: ../../ISD.rst:859
+msgid "|mana_1|, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness."
+msgstr ""
+
+#: ../../ISD.rst:867
+msgid "Endless Ranks of the Dead"
+msgstr ""
+
+#: ../../ISD.rst:866
+msgid "At the beginning of your upkeep, create X 2/2 black Zombie creature tokens, where X is half the number of Zombies you control, rounded down."
+msgstr ""
+
+#: ../../ISD.rst:876
+msgid "Falkenrath Noble"
+msgstr ""
+
+#: ../../ISD.rst:875
+msgid "Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life."
+msgstr ""
+
+#: ../../ISD.rst:887
+msgid "Ghoulcaller's Chant"
+msgstr ""
+
+#: ../../ISD.rst:882
+msgid "Choose one —"
+msgstr ""
+
+#: ../../ISD.rst:884
+msgid "Return target creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../ISD.rst:886
+msgid "Return two target Zombie cards from your graveyard to your hand."
+msgstr ""
+
+#: ../../ISD.rst:894
+msgid "Ghoulraiser"
+msgstr ""
+
+#: ../../ISD.rst:893
+msgid "When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand."
+msgstr ""
+
+#: ../../ISD.rst:903
+msgid "Gruesome Deformity"
+msgstr ""
+
+#: ../../ISD.rst:902
+msgid "Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../ISD.rst:912
+msgid "Heartless Summoning"
+msgstr ""
+
+#: ../../ISD.rst:909
+msgid "Creature spells you cast cost |mana_2| less to cast."
+msgstr ""
+
+#: ../../ISD.rst:911
+msgid "Creatures you control get -1/-1."
+msgstr ""
+
+#: ../../ISD.rst:923
+msgid "Liliana of the Veil"
+msgstr ""
+
+#: ../../ISD.rst:918
+msgid "+1: Each player discards a card."
+msgstr ""
+
+#: ../../ISD.rst:920
+msgid "−2: Target player sacrifices a creature."
+msgstr ""
+
+#: ../../ISD.rst:922
+msgid "−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice."
+msgstr ""
+
+#: ../../ISD.rst:932
+msgid "Manor Skeleton"
+msgstr ""
+
+#: ../../ISD.rst:929
+msgid "Haste"
+msgstr ""
+
+#: ../../ISD.rst:931
+msgid "|mana_1| |mana_b|: Regenerate Manor Skeleton."
+msgstr ""
+
+#: ../../ISD.rst:939
+msgid "Markov Patrician"
+msgstr ""
+
+#: ../../ISD.rst:938
+msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
+msgstr ""
+
+#: ../../ISD.rst:946
+msgid "Maw of the Mire"
+msgstr ""
+
+#: ../../ISD.rst:945
+msgid "Destroy target land. You gain 4 life."
+msgstr ""
+
+#: ../../ISD.rst:955
+msgid "Moan of the Unhallowed"
+msgstr ""
+
+#: ../../ISD.rst:952
+msgid "Create two 2/2 black Zombie creature tokens."
+msgstr ""
+
+#: ../../ISD.rst:954
+#: ../../ISD.rst:1009
+msgid "Flashback |mana_5| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:962
+msgid "Morkrut Banshee"
+msgstr ""
+
+#: ../../ISD.rst:961
+msgid "Morbid — When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn."
+msgstr ""
+
+#: ../../ISD.rst:969
+msgid "Night Terrors"
+msgstr ""
+
+#: ../../ISD.rst:968
+msgid "Target player reveals their hand. You choose a nonland card from it. Exile that card."
+msgstr ""
+
+#: ../../ISD.rst:978
+msgid "Reaper from the Abyss"
+msgstr ""
+
+#: ../../ISD.rst:977
+msgid "Morbid — At the beginning of each end step, if a creature died this turn, destroy target non-Demon creature."
+msgstr ""
+
+#: ../../ISD.rst:983
+msgid "Rotting Fensnake"
+msgstr ""
+
+#: ../../ISD.rst:994
+msgid "Screeching Bat"
+msgstr ""
+
+#: ../../ISD.rst:993
+msgid "At the beginning of your upkeep, you may pay |mana_2| |mana_b| |mana_b|. If you do, transform Screeching Bat."
+msgstr ""
+
+#: ../../ISD.rst:1001
+msgid "Stalking Vampire"
+msgstr ""
+
+#: ../../ISD.rst:1000
+msgid "At the beginning of your upkeep, you may pay |mana_2| |mana_b| |mana_b|. If you do, transform Stalking Vampire."
+msgstr ""
+
+#: ../../ISD.rst:1010
+msgid "Sever the Bloodline"
+msgstr ""
+
+#: ../../ISD.rst:1007
+msgid "Exile target creature and all other creatures with the same name as that creature."
+msgstr ""
+
+#: ../../ISD.rst:1019
+msgid "Skeletal Grimace"
+msgstr ""
+
+#: ../../ISD.rst:1018
+msgid "Enchanted creature gets +1/+1 and has \"|mana_b|: Regenerate this creature.\""
+msgstr ""
+
+#: ../../ISD.rst:1026
+msgid "Skirsdag High Priest"
+msgstr ""
+
+#: ../../ISD.rst:1025
+msgid "Morbid — |tap|, Tap two untapped creatures you control: Create a 5/5 black Demon creature token with flying. Activate this ability only if a creature died this turn."
+msgstr ""
+
+#: ../../ISD.rst:1033
+msgid "Stromkirk Patrol"
+msgstr ""
+
+#: ../../ISD.rst:1032
+msgid "Whenever Stromkirk Patrol deals combat damage to a player, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../ISD.rst:1040
+msgid "Tribute to Hunger"
+msgstr ""
+
+#: ../../ISD.rst:1039
+msgid "Target opponent sacrifices a creature. You gain life equal to that creature's toughness."
+msgstr ""
+
+#: ../../ISD.rst:1047
+msgid "Typhoid Rats"
+msgstr ""
+
+#: ../../ISD.rst:1046
+#: ../../ISD.rst:1501
+msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
+msgstr ""
+
+#: ../../ISD.rst:1056
+msgid "Unbreathing Horde"
+msgstr ""
+
+#: ../../ISD.rst:1053
+msgid "Unbreathing Horde enters the battlefield with a +1/+1 counter on it for each other Zombie you control and each Zombie card in your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:1055
+msgid "If Unbreathing Horde would be dealt damage, prevent that damage and remove a +1/+1 counter from it."
+msgstr ""
+
+#: ../../ISD.rst:1065
+msgid "Unburial Rites"
+msgstr ""
+
+#: ../../ISD.rst:1062
+msgid "Return target creature card from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../ISD.rst:1064
+msgid "Flashback |mana_3| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:1074
+msgid "Vampire Interloper"
+msgstr ""
+
+#: ../../ISD.rst:1073
+msgid "Vampire Interloper can't block."
+msgstr ""
+
+#: ../../ISD.rst:1081
+msgid "Victim of Night"
+msgstr ""
+
+#: ../../ISD.rst:1080
+msgid "Destroy target non-Vampire, non-Werewolf, non-Zombie creature."
+msgstr ""
+
+#: ../../ISD.rst:1088
+msgid "Village Cannibals"
+msgstr ""
+
+#: ../../ISD.rst:1087
+msgid "Whenever another Human creature dies, put a +1/+1 counter on Village Cannibals."
+msgstr ""
+
+#: ../../ISD.rst:1093
 msgid "Walking Corpse"
 msgstr ""
 
-#: ../../ISD.rst:1425
-# b391e0a037b64d2d903c5944d634522a
+#: ../../ISD.rst:1104
+msgid "Ancient Grudge"
+msgstr ""
+
+#: ../../ISD.rst:1101
+msgid "Destroy target artifact."
+msgstr ""
+
+#: ../../ISD.rst:1111
+msgid "Ashmouth Hound"
+msgstr ""
+
+#: ../../ISD.rst:1110
+msgid "Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature."
+msgstr ""
+
+#: ../../ISD.rst:1120
+msgid "Balefire Dragon"
+msgstr ""
+
+#: ../../ISD.rst:1119
+msgid "Whenever Balefire Dragon deals combat damage to a player, it deals that much damage to each creature that player controls."
+msgstr ""
+
+#: ../../ISD.rst:1129
+msgid "Blasphemous Act"
+msgstr ""
+
+#: ../../ISD.rst:1126
+msgid "This spell costs |mana_1| less to cast for each creature on the battlefield."
+msgstr ""
+
+#: ../../ISD.rst:1128
+msgid "Blasphemous Act deals 13 damage to each creature."
+msgstr ""
+
+#: ../../ISD.rst:1138
+msgid "Bloodcrazed Neonate"
+msgstr ""
+
+#: ../../ISD.rst:1135
+msgid "Bloodcrazed Neonate attacks each combat if able."
+msgstr ""
+
+#: ../../ISD.rst:1137
+msgid "Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../ISD.rst:1147
+msgid "Brimstone Volley"
+msgstr ""
+
+#: ../../ISD.rst:1144
+msgid "Brimstone Volley deals 3 damage to any target."
+msgstr ""
+
+#: ../../ISD.rst:1146
+msgid "Morbid — Brimstone Volley deals 5 damage to that permanent or player instead if a creature died this turn."
+msgstr ""
+
+#: ../../ISD.rst:1154
+msgid "Burning Vengeance"
+msgstr ""
+
+#: ../../ISD.rst:1153
+msgid "Whenever you cast a spell from your graveyard, Burning Vengeance deals 2 damage to any target."
+msgstr ""
+
+#: ../../ISD.rst:1163
+msgid "Charmbreaker Devils"
+msgstr ""
+
+#: ../../ISD.rst:1160
+msgid "At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand."
+msgstr ""
+
+#: ../../ISD.rst:1162
+msgid "Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn."
+msgstr ""
+
+#: ../../ISD.rst:1170
+msgid "Crossway Vampire"
+msgstr ""
+
+#: ../../ISD.rst:1169
+msgid "When Crossway Vampire enters the battlefield, target creature can't block this turn."
+msgstr ""
+
+#: ../../ISD.rst:1179
+msgid "Curse of Stalked Prey"
+msgstr ""
+
+#: ../../ISD.rst:1178
+msgid "Whenever a creature deals combat damage to enchanted player, put a +1/+1 counter on that creature."
+msgstr ""
+
+#: ../../ISD.rst:1188
+msgid "Curse of the Nightly Hunt"
+msgstr ""
+
+#: ../../ISD.rst:1187
+msgid "Creatures enchanted player controls attack each combat if able."
+msgstr ""
+
+#: ../../ISD.rst:1197
+msgid "Curse of the Pierced Heart"
+msgstr ""
+
+#: ../../ISD.rst:1196
+msgid "At the beginning of enchanted player's upkeep, Curse of the Pierced Heart deals 1 damage to that player or a planeswalker that player controls."
+msgstr ""
+
+#: ../../ISD.rst:1206
+msgid "Desperate Ravings"
+msgstr ""
+
+#: ../../ISD.rst:1203
+msgid "Draw two cards, then discard a card at random."
+msgstr ""
+
+#: ../../ISD.rst:1215
+msgid "Devil's Play"
+msgstr ""
+
+#: ../../ISD.rst:1212
+msgid "Devil's Play deals X damage to any target."
+msgstr ""
+
+#: ../../ISD.rst:1214
+msgid "Flashback |mana_x| |mana_r| |mana_r| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:1224
+msgid "Falkenrath Marauders"
+msgstr ""
+
+#: ../../ISD.rst:1221
+msgid "Flying, haste"
+msgstr ""
+
+#: ../../ISD.rst:1223
+msgid "Whenever Falkenrath Marauders deals combat damage to a player, put two +1/+1 counters on it."
+msgstr ""
+
+#: ../../ISD.rst:1233
+msgid "Feral Ridgewolf"
+msgstr ""
+
+#: ../../ISD.rst:1232
+msgid "|mana_1| |mana_r|: Feral Ridgewolf gets +2/+0 until end of turn."
+msgstr ""
+
+#: ../../ISD.rst:1242
+msgid "Furor of the Bitten"
+msgstr ""
+
+#: ../../ISD.rst:1241
+msgid "Enchanted creature gets +2/+2 and attacks each combat if able."
+msgstr ""
+
+#: ../../ISD.rst:1251
+msgid "Geistflame"
+msgstr ""
+
+#: ../../ISD.rst:1248
+msgid "Geistflame deals 1 damage to any target."
+msgstr ""
+
+#: ../../ISD.rst:1250
+#: ../../ISD.rst:1363
+msgid "Flashback |mana_3| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:1260
+msgid "Hanweir Watchkeep"
+msgstr ""
+
+#: ../../ISD.rst:1259
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Hanweir Watchkeep."
+msgstr ""
+
+#: ../../ISD.rst:1269
+msgid "Bane of Hanweir"
+msgstr ""
+
+#: ../../ISD.rst:1266
+msgid "Bane of Hanweir attacks each combat if able."
+msgstr ""
+
+#: ../../ISD.rst:1268
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Bane of Hanweir."
+msgstr ""
+
+#: ../../ISD.rst:1278
+msgid "Harvest Pyre"
+msgstr ""
+
+#: ../../ISD.rst:1275
+msgid "As an additional cost to cast this spell, exile X cards from your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:1277
+msgid "Harvest Pyre deals X damage to target creature."
+msgstr ""
+
+#: ../../ISD.rst:1285
+msgid "Heretic's Punishment"
+msgstr ""
+
+#: ../../ISD.rst:1284
+msgid "|mana_3| |mana_r|: Choose any target, then put the top three cards of your library into your graveyard. Heretic's Punishment deals damage to that permanent or player equal to the highest converted mana cost among those cards."
+msgstr ""
+
+#: ../../ISD.rst:1294
+msgid "Infernal Plunge"
+msgstr ""
+
+#: ../../ISD.rst:1293
+msgid "Add |mana_r| |mana_r| |mana_r|."
+msgstr ""
+
+#: ../../ISD.rst:1303
+msgid "Instigator Gang"
+msgstr ""
+
+#: ../../ISD.rst:1300
+msgid "Attacking creatures you control get +1/+0."
+msgstr ""
+
+#: ../../ISD.rst:1302
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Instigator Gang."
+msgstr ""
+
+#: ../../ISD.rst:1314
 msgid "Wildblood Pack"
 msgstr ""
 
-#: ../../ISD.rst:1422
-# 819aaffb070c4b16a8682e560c08d042
+#: ../../ISD.rst:1311
 msgid "Attacking creatures you control get +3/+0."
 msgstr ""
 
-#: ../../ISD.rst:1424
-# 92c3edda6ebd4e53a42c5d4bef23159f
+#: ../../ISD.rst:1313
 msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Wildblood Pack."
 msgstr ""
 
-#: ../../ISD.rst:1431
-# 50a65f5ab0f64d35aee24797d5d14e23
-msgid "Witchbane Orb"
+#: ../../ISD.rst:1321
+msgid "Into the Maw of Hell"
 msgstr ""
 
-#: ../../ISD.rst:1428
-# adc3d6822e2842f2afba8cb8ea804db5
-msgid "When Witchbane Orb enters the battlefield, destroy all Curses attached to you."
+#: ../../ISD.rst:1320
+msgid "Destroy target land. Into the Maw of Hell deals 13 damage to target creature."
+msgstr ""
+
+#: ../../ISD.rst:1328
+msgid "Kessig Wolf"
+msgstr ""
+
+#: ../../ISD.rst:1327
+msgid "|mana_1| |mana_r|: Kessig Wolf gains first strike until end of turn."
+msgstr ""
+
+#: ../../ISD.rst:1337
+msgid "Kruin Outlaw"
+msgstr ""
+
+#: ../../ISD.rst:1336
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw."
+msgstr ""
+
+#: ../../ISD.rst:1348
+msgid "Terror of Kruin Pass"
+msgstr ""
+
+#: ../../ISD.rst:1343
+msgid "Double strike"
+msgstr ""
+
+#: ../../ISD.rst:1345
+msgid "Werewolves you control have menace. (They can't be blocked except by two or more creatures.)"
+msgstr ""
+
+#: ../../ISD.rst:1347
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Terror of Kruin Pass."
+msgstr ""
+
+#: ../../ISD.rst:1355
+msgid "Night Revelers"
+msgstr ""
+
+#: ../../ISD.rst:1354
+msgid "Night Revelers has haste as long as an opponent controls a Human."
+msgstr ""
+
+#: ../../ISD.rst:1364
+msgid "Nightbird's Clutches"
+msgstr ""
+
+#: ../../ISD.rst:1361
+msgid "Up to two target creatures can't block this turn."
+msgstr ""
+
+#: ../../ISD.rst:1373
+msgid "Past in Flames"
+msgstr ""
+
+#: ../../ISD.rst:1370
+msgid "Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost."
+msgstr ""
+
+#: ../../ISD.rst:1372
+msgid "Flashback |mana_4| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:1380
+msgid "Pitchburn Devils"
+msgstr ""
+
+#: ../../ISD.rst:1379
+msgid "When Pitchburn Devils dies, it deals 3 damage to any target."
+msgstr ""
+
+#: ../../ISD.rst:1387
+msgid "Rage Thrower"
+msgstr ""
+
+#: ../../ISD.rst:1386
+msgid "Whenever another creature dies, Rage Thrower deals 2 damage to target player or planeswalker."
+msgstr ""
+
+#: ../../ISD.rst:1394
+msgid "Rakish Heir"
+msgstr ""
+
+#: ../../ISD.rst:1393
+msgid "Whenever a Vampire you control deals combat damage to a player, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../ISD.rst:1401
+msgid "Reckless Waif"
+msgstr ""
+
+#: ../../ISD.rst:1400
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Reckless Waif."
+msgstr ""
+
+#: ../../ISD.rst:1408
+msgid "Merciless Predator"
+msgstr ""
+
+#: ../../ISD.rst:1407
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator."
+msgstr ""
+
+#: ../../ISD.rst:1413
+msgid "Riot Devils"
+msgstr ""
+
+#: ../../ISD.rst:1424
+msgid "Rolling Temblor"
+msgstr ""
+
+#: ../../ISD.rst:1421
+msgid "Rolling Temblor deals 2 damage to each creature without flying."
+msgstr ""
+
+#: ../../ISD.rst:1423
+msgid "Flashback |mana_4| |mana_r| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:1431
+msgid "Scourge of Geier Reach"
 msgstr ""
 
 #: ../../ISD.rst:1430
-# 897a64c3a5a24268a866aa2663422021
-msgid "You have hexproof. (You can't be the target of spells or abilities your opponents control, including Aura spells.)"
+msgid "Scourge of Geier Reach gets +1/+1 for each creature your opponents control."
 msgstr ""
 
-#: ../../ISD.rst:1439
-# deb232666179461a9c713761b6b0754e
-msgid "Wooden Stake"
+#: ../../ISD.rst:1438
+msgid "Skirsdag Cultist"
 msgstr ""
 
-#: ../../ISD.rst:1434
-# 67c01fc75e224712852900f7d72ef501
-msgid "Equipped creature gets +1/+0."
+#: ../../ISD.rst:1437
+msgid "|mana_r|, |tap|, Sacrifice a creature: Skirsdag Cultist deals 2 damage to any target."
 msgstr ""
 
-#: ../../ISD.rst:1436
-# 19b58eacaeef46189e9cfc4ad9f1ce6a
-msgid "Whenever equipped creature blocks or becomes blocked by a Vampire, destroy that creature. It can't be regenerated."
-msgstr ""
-
-#: ../../ISD.rst:1445
-# 4a83fc6d77674a5bb7ae1e8afc69e7ac
-msgid "Woodland Cemetery"
-msgstr ""
-
-#: ../../ISD.rst:1442
-# 87dd3da1965b430fb42f4cfc09af4a5d
-msgid "Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest."
+#: ../../ISD.rst:1447
+msgid "Stromkirk Noble"
 msgstr ""
 
 #: ../../ISD.rst:1444
-# 2e5f4891bf59432183882aa40bc72a90
-msgid "|tap|: Add |mana_b| or |mana_g| to your mana pool."
+msgid "Stromkirk Noble can't be blocked by Humans."
 msgstr ""
 
-#: ../../ISD.rst:1449
-# 75cd97f34b144fdb875d78757d71d623
-msgid "Woodland Sleuth"
-msgstr ""
-
-#: ../../ISD.rst:1448
-# 4d84dcd1c38d4782a16fd4f2e920beff
-msgid "Morbid — When Woodland Sleuth enters the battlefield, if a creature died this turn, return a creature card at random from your graveyard to your hand."
-msgstr ""
-
-#: ../../ISD.rst:1455
-# 66c97f2317f94b06a69e5fbcab8029ac
-msgid "Wreath of Geists"
+#: ../../ISD.rst:1446
+msgid "Whenever Stromkirk Noble deals combat damage to a player, put a +1/+1 counter on it."
 msgstr ""
 
 #: ../../ISD.rst:1454
-# 0f7478a7080244b0b20a9df4a7b1288e
+msgid "Tormented Pariah"
+msgstr ""
+
+#: ../../ISD.rst:1453
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Tormented Pariah."
+msgstr ""
+
+#: ../../ISD.rst:1461
+msgid "Rampaging Werewolf"
+msgstr ""
+
+#: ../../ISD.rst:1460
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Rampaging Werewolf."
+msgstr ""
+
+#: ../../ISD.rst:1468
+msgid "Traitorous Blood"
+msgstr ""
+
+#: ../../ISD.rst:1467
+msgid "Gain control of target creature until end of turn. Untap it. It gains trample and haste until end of turn."
+msgstr ""
+
+#: ../../ISD.rst:1475
+msgid "Vampiric Fury"
+msgstr ""
+
+#: ../../ISD.rst:1474
+msgid "Vampire creatures you control get +2/+0 and gain first strike until end of turn."
+msgstr ""
+
+#: ../../ISD.rst:1484
+msgid "Village Ironsmith"
+msgstr ""
+
+#: ../../ISD.rst:1483
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith."
+msgstr ""
+
+#: ../../ISD.rst:1493
+msgid "Ironfang"
+msgstr ""
+
+#: ../../ISD.rst:1492
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang."
+msgstr ""
+
+#: ../../ISD.rst:1502
+msgid "Ambush Viper"
+msgstr ""
+
+#: ../../ISD.rst:1509
+msgid "Avacyn's Pilgrim"
+msgstr ""
+
+#: ../../ISD.rst:1508
+msgid "|tap|: Add |mana_w|."
+msgstr ""
+
+#: ../../ISD.rst:1516
+msgid "Boneyard Wurm"
+msgstr ""
+
+#: ../../ISD.rst:1515
+msgid "Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:1523
+msgid "Bramblecrush"
+msgstr ""
+
+#: ../../ISD.rst:1522
+msgid "Destroy target noncreature permanent."
+msgstr ""
+
+#: ../../ISD.rst:1532
+msgid "Caravan Vigil"
+msgstr ""
+
+#: ../../ISD.rst:1529
+msgid "Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../ISD.rst:1531
+msgid "Morbid — You may put that card onto the battlefield instead of putting it into your hand if a creature died this turn."
+msgstr ""
+
+#: ../../ISD.rst:1541
+msgid "Creeping Renaissance"
+msgstr ""
+
+#: ../../ISD.rst:1538
+msgid "Choose a permanent type. Return all cards of the chosen type from your graveyard to your hand."
+msgstr ""
+
+#: ../../ISD.rst:1540
+msgid "Flashback |mana_5| |mana_g| |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:1548
+msgid "Darkthicket Wolf"
+msgstr ""
+
+#: ../../ISD.rst:1547
+msgid "|mana_2| |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgstr ""
+
+#: ../../ISD.rst:1557
+msgid "Daybreak Ranger"
+msgstr ""
+
+#: ../../ISD.rst:1554
+msgid "|tap|: Daybreak Ranger deals 2 damage to target creature with flying."
+msgstr ""
+
+#: ../../ISD.rst:1556
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Daybreak Ranger."
+msgstr ""
+
+#: ../../ISD.rst:1566
+msgid "Nightfall Predator"
+msgstr ""
+
+#: ../../ISD.rst:1563
+msgid "|mana_r|, |tap|: Nightfall Predator fights target creature. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../ISD.rst:1565
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Nightfall Predator."
+msgstr ""
+
+#: ../../ISD.rst:1573
+msgid "Elder of Laurels"
+msgstr ""
+
+#: ../../ISD.rst:1572
+msgid "|mana_3| |mana_g|: Target creature gets +X/+X until end of turn, where X is the number of creatures you control."
+msgstr ""
+
+#: ../../ISD.rst:1580
+msgid "Essence of the Wild"
+msgstr ""
+
+#: ../../ISD.rst:1579
+msgid "Creatures you control enter the battlefield as a copy of Essence of the Wild."
+msgstr ""
+
+#: ../../ISD.rst:1589
+msgid "Festerhide Boar"
+msgstr ""
+
+#: ../../ISD.rst:1588
+msgid "Morbid — Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn."
+msgstr ""
+
+#: ../../ISD.rst:1598
+msgid "Full Moon's Rise"
+msgstr ""
+
+#: ../../ISD.rst:1595
+msgid "Werewolf creatures you control get +1/+0 and have trample."
+msgstr ""
+
+#: ../../ISD.rst:1597
+msgid "Sacrifice Full Moon's Rise: Regenerate all Werewolf creatures you control."
+msgstr ""
+
+#: ../../ISD.rst:1609
+msgid "Garruk Relentless"
+msgstr ""
+
+#: ../../ISD.rst:1604
+msgid "When Garruk Relentless has two or fewer loyalty counters on him, transform him."
+msgstr ""
+
+#: ../../ISD.rst:1606
+msgid "0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him."
+msgstr ""
+
+#: ../../ISD.rst:1608
+msgid "0: Create a 2/2 green Wolf creature token."
+msgstr ""
+
+#: ../../ISD.rst:1620
+msgid "Garruk, the Veil-Cursed"
+msgstr ""
+
+#: ../../ISD.rst:1615
+msgid "+1: Create a 1/1 black Wolf creature token with deathtouch."
+msgstr ""
+
+#: ../../ISD.rst:1617
+msgid "−1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../ISD.rst:1619
+msgid "−3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:1627
+msgid "Gatstaf Shepherd"
+msgstr ""
+
+#: ../../ISD.rst:1626
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Shepherd."
+msgstr ""
+
+#: ../../ISD.rst:1636
+msgid "Gatstaf Howler"
+msgstr ""
+
+#: ../../ISD.rst:1635
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Gatstaf Howler."
+msgstr ""
+
+#: ../../ISD.rst:1645
+msgid "Gnaw to the Bone"
+msgstr ""
+
+#: ../../ISD.rst:1642
+msgid "You gain 2 life for each creature card in your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:1644
+msgid "Flashback |mana_2| |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:1652
+msgid "Grave Bramble"
+msgstr ""
+
+#: ../../ISD.rst:1651
+msgid "Defender, protection from Zombies"
+msgstr ""
+
+#: ../../ISD.rst:1659
+msgid "Grizzled Outcasts"
+msgstr ""
+
+#: ../../ISD.rst:1658
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Grizzled Outcasts."
+msgstr ""
+
+#: ../../ISD.rst:1666
+msgid "Krallenhorde Wantons"
+msgstr ""
+
+#: ../../ISD.rst:1665
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Wantons."
+msgstr ""
+
+#: ../../ISD.rst:1673
+msgid "Gutter Grime"
+msgstr ""
+
+#: ../../ISD.rst:1672
+msgid "Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then create a green Ooze creature token with \"This creature's power and toughness are each equal to the number of slime counters on Gutter Grime.\""
+msgstr ""
+
+#: ../../ISD.rst:1680
+msgid "Hamlet Captain"
+msgstr ""
+
+#: ../../ISD.rst:1679
+msgid "Whenever Hamlet Captain attacks or blocks, other Humans you control get +1/+1 until end of turn."
+msgstr ""
+
+#: ../../ISD.rst:1687
+msgid "Hollowhenge Scavenger"
+msgstr ""
+
+#: ../../ISD.rst:1686
+msgid "Morbid — When Hollowhenge Scavenger enters the battlefield, if a creature died this turn, you gain 5 life."
+msgstr ""
+
+#: ../../ISD.rst:1694
+msgid "Kessig Cagebreakers"
+msgstr ""
+
+#: ../../ISD.rst:1693
+msgid "Whenever Kessig Cagebreakers attacks, create a 2/2 green Wolf creature token that's tapped and attacking for each creature card in your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:1699
+msgid "Kindercatch"
+msgstr ""
+
+#: ../../ISD.rst:1710
+msgid "Lumberknot"
+msgstr ""
+
+#: ../../ISD.rst:1709
+msgid "Whenever a creature dies, put a +1/+1 counter on Lumberknot."
+msgstr ""
+
+#: ../../ISD.rst:1717
+msgid "Make a Wish"
+msgstr ""
+
+#: ../../ISD.rst:1716
+msgid "Return two cards at random from your graveyard to your hand."
+msgstr ""
+
+#: ../../ISD.rst:1726
+msgid "Mayor of Avabruck"
+msgstr ""
+
+#: ../../ISD.rst:1723
+msgid "Other Human creatures you control get +1/+1."
+msgstr ""
+
+#: ../../ISD.rst:1725
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck."
+msgstr ""
+
+#: ../../ISD.rst:1737
+msgid "Howlpack Alpha"
+msgstr ""
+
+#: ../../ISD.rst:1732
+msgid "Each other creature you control that's a Werewolf or a Wolf gets +1/+1."
+msgstr ""
+
+#: ../../ISD.rst:1734
+msgid "At the beginning of your end step, create a 2/2 green Wolf creature token."
+msgstr ""
+
+#: ../../ISD.rst:1736
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha."
+msgstr ""
+
+#: ../../ISD.rst:1746
+msgid "Moldgraf Monstrosity"
+msgstr ""
+
+#: ../../ISD.rst:1745
+msgid "When Moldgraf Monstrosity dies, exile it, then return two creature cards at random from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../ISD.rst:1753
+msgid "Moonmist"
+msgstr ""
+
+#: ../../ISD.rst:1752
+msgid "Transform all Humans. Prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves. (Only double-faced cards can be transformed.)"
+msgstr ""
+
+#: ../../ISD.rst:1760
+msgid "Mulch"
+msgstr ""
+
+#: ../../ISD.rst:1759
+msgid "Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:1767
+msgid "Naturalize"
+msgstr ""
+
+#: ../../ISD.rst:1766
+msgid "Destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../ISD.rst:1774
+msgid "Orchard Spirit"
+msgstr ""
+
+#: ../../ISD.rst:1773
+msgid "Orchard Spirit can't be blocked except by creatures with flying or reach."
+msgstr ""
+
+#: ../../ISD.rst:1781
+msgid "Parallel Lives"
+msgstr ""
+
+#: ../../ISD.rst:1780
+msgid "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead."
+msgstr ""
+
+#: ../../ISD.rst:1788
+msgid "Prey Upon"
+msgstr ""
+
+#: ../../ISD.rst:1787
+msgid "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../ISD.rst:1795
+msgid "Ranger's Guile"
+msgstr ""
+
+#: ../../ISD.rst:1794
+msgid "Target creature you control gets +1/+1 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../ISD.rst:1804
+msgid "Somberwald Spider"
+msgstr ""
+
+#: ../../ISD.rst:1801
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../ISD.rst:1803
+msgid "Morbid — Somberwald Spider enters the battlefield with two +1/+1 counters on it if a creature died this turn."
+msgstr ""
+
+#: ../../ISD.rst:1813
+msgid "Spider Spawning"
+msgstr ""
+
+#: ../../ISD.rst:1810
+msgid "Create a 1/2 green Spider creature token with reach for each creature card in your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:1820
+msgid "Spidery Grasp"
+msgstr ""
+
+#: ../../ISD.rst:1819
+msgid "Untap target creature. It gets +2/+4 and gains reach until end of turn. (It can block creatures with flying.)"
+msgstr ""
+
+#: ../../ISD.rst:1831
+msgid "Splinterfright"
+msgstr ""
+
+#: ../../ISD.rst:1828
+msgid "Splinterfright's power and toughness are each equal to the number of creature cards in your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:1830
+msgid "At the beginning of your upkeep, put the top two cards of your library into your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:1840
+msgid "Travel Preparations"
+msgstr ""
+
+#: ../../ISD.rst:1837
+msgid "Put a +1/+1 counter on each of up to two target creatures."
+msgstr ""
+
+#: ../../ISD.rst:1839
+msgid "Flashback |mana_1| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../ISD.rst:1849
+msgid "Tree of Redemption"
+msgstr ""
+
+#: ../../ISD.rst:1848
+msgid "|tap|: Exchange your life total with Tree of Redemption's toughness."
+msgstr ""
+
+#: ../../ISD.rst:1856
+msgid "Ulvenwald Mystics"
+msgstr ""
+
+#: ../../ISD.rst:1855
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics."
+msgstr ""
+
+#: ../../ISD.rst:1865
+msgid "Ulvenwald Primordials"
+msgstr ""
+
+#: ../../ISD.rst:1862
+msgid "|mana_g|: Regenerate Ulvenwald Primordials."
+msgstr ""
+
+#: ../../ISD.rst:1864
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulvenwald Primordials."
+msgstr ""
+
+#: ../../ISD.rst:1872
+msgid "Villagers of Estwald"
+msgstr ""
+
+#: ../../ISD.rst:1871
+msgid "At the beginning of each upkeep, if no spells were cast last turn, transform Villagers of Estwald."
+msgstr ""
+
+#: ../../ISD.rst:1879
+msgid "Howlpack of Estwald"
+msgstr ""
+
+#: ../../ISD.rst:1878
+msgid "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack of Estwald."
+msgstr ""
+
+#: ../../ISD.rst:1886
+msgid "Woodland Sleuth"
+msgstr ""
+
+#: ../../ISD.rst:1885
+msgid "Morbid — When Woodland Sleuth enters the battlefield, if a creature died this turn, return a creature card at random from your graveyard to your hand."
+msgstr ""
+
+#: ../../ISD.rst:1895
+msgid "Wreath of Geists"
+msgstr ""
+
+#: ../../ISD.rst:1894
 msgid "Enchanted creature gets +X/+X, where X is the number of creature cards in your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:1902
+msgid "Evil Twin"
+msgstr ""
+
+#: ../../ISD.rst:1901
+msgid "You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield, except it has \"|mana_u| |mana_b|, |tap|: Destroy target creature with the same name as this creature.\""
+msgstr ""
+
+#: ../../ISD.rst:1911
+msgid "Geist of Saint Traft"
+msgstr ""
+
+#: ../../ISD.rst:1910
+msgid "Whenever Geist of Saint Traft attacks, create a 4/4 white Angel creature token with flying that's tapped and attacking. Exile that token at end of combat."
+msgstr ""
+
+#: ../../ISD.rst:1922
+msgid "Grimgrin, Corpse-Born"
+msgstr ""
+
+#: ../../ISD.rst:1917
+msgid "Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step."
+msgstr ""
+
+#: ../../ISD.rst:1919
+msgid "Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../ISD.rst:1921
+msgid "Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin."
+msgstr ""
+
+#: ../../ISD.rst:1933
+msgid "Olivia Voldaren"
+msgstr ""
+
+#: ../../ISD.rst:1930
+msgid "|mana_1| |mana_r|: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren."
+msgstr ""
+
+#: ../../ISD.rst:1932
+msgid "|mana_3| |mana_b| |mana_b|: Gain control of target Vampire for as long as you control Olivia Voldaren."
+msgstr ""
+
+#: ../../ISD.rst:1944
+msgid "Blazing Torch"
+msgstr ""
+
+#: ../../ISD.rst:1939
+msgid "Equipped creature can't be blocked by Vampires or Zombies."
+msgstr ""
+
+#: ../../ISD.rst:1941
+msgid "Equipped creature has \"|tap|, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to any target.\""
+msgstr ""
+
+#: ../../ISD.rst:1943
+#: ../../ISD.rst:1970
+#: ../../ISD.rst:2136
+msgid "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)"
+msgstr ""
+
+#: ../../ISD.rst:1955
+msgid "Butcher's Cleaver"
+msgstr ""
+
+#: ../../ISD.rst:1950
+msgid "Equipped creature gets +3/+0."
+msgstr ""
+
+#: ../../ISD.rst:1952
+msgid "As long as equipped creature is a Human, it has lifelink."
+msgstr ""
+
+#: ../../ISD.rst:1954
+#: ../../ISD.rst:2060
+msgid "Equip |mana_3|"
+msgstr ""
+
+#: ../../ISD.rst:1962
+msgid "Cellar Door"
+msgstr ""
+
+#: ../../ISD.rst:1961
+msgid "|mana_3|, |tap|: Target player puts the bottom card of their library into their graveyard. If it's a creature card, you create a 2/2 black Zombie creature token."
+msgstr ""
+
+#: ../../ISD.rst:1971
+msgid "Cobbled Wings"
+msgstr ""
+
+#: ../../ISD.rst:1968
+msgid "Equipped creature has flying."
+msgstr ""
+
+#: ../../ISD.rst:1980
+msgid "Creepy Doll"
+msgstr ""
+
+#: ../../ISD.rst:1977
+msgid "Indestructible"
+msgstr ""
+
+#: ../../ISD.rst:1979
+msgid "Whenever Creepy Doll deals combat damage to a creature, flip a coin. If you win the flip, destroy that creature."
+msgstr ""
+
+#: ../../ISD.rst:1989
+msgid "Demonmail Hauberk"
+msgstr ""
+
+#: ../../ISD.rst:1986
+msgid "Equipped creature gets +4/+2."
+msgstr ""
+
+#: ../../ISD.rst:1988
+msgid "Equip—Sacrifice a creature."
+msgstr ""
+
+#: ../../ISD.rst:2000
+msgid "Galvanic Juggernaut"
+msgstr ""
+
+#: ../../ISD.rst:1995
+msgid "Galvanic Juggernaut attacks each combat if able."
+msgstr ""
+
+#: ../../ISD.rst:1997
+msgid "Galvanic Juggernaut doesn't untap during your untap step."
+msgstr ""
+
+#: ../../ISD.rst:1999
+msgid "Whenever another creature dies, untap Galvanic Juggernaut."
+msgstr ""
+
+#: ../../ISD.rst:2007
+msgid "Geistcatcher's Rig"
+msgstr ""
+
+#: ../../ISD.rst:2006
+msgid "When Geistcatcher's Rig enters the battlefield, you may have it deal 4 damage to target creature with flying."
+msgstr ""
+
+#: ../../ISD.rst:2014
+msgid "Ghoulcaller's Bell"
+msgstr ""
+
+#: ../../ISD.rst:2013
+msgid "|tap|: Each player puts the top card of their library into their graveyard."
+msgstr ""
+
+#: ../../ISD.rst:2021
+msgid "Graveyard Shovel"
+msgstr ""
+
+#: ../../ISD.rst:2020
+msgid "|mana_2|, |tap|: Target player exiles a card from their graveyard. If it's a creature card, you gain 2 life."
+msgstr ""
+
+#: ../../ISD.rst:2030
+msgid "Grimoire of the Dead"
+msgstr ""
+
+#: ../../ISD.rst:2027
+msgid "|mana_1|, |tap|, Discard a card: Put a study counter on Grimoire of the Dead."
+msgstr ""
+
+#: ../../ISD.rst:2029
+msgid "|tap|, Remove three study counters from Grimoire of the Dead and sacrifice it: Put all creature cards from all graveyards onto the battlefield under your control. They're black Zombies in addition to their other colors and types."
+msgstr ""
+
+#: ../../ISD.rst:2041
+msgid "Inquisitor's Flail"
+msgstr ""
+
+#: ../../ISD.rst:2036
+msgid "If equipped creature would deal combat damage, it deals double that damage instead."
+msgstr ""
+
+#: ../../ISD.rst:2038
+msgid "If another creature would deal combat damage to equipped creature, it deals double that damage to equipped creature instead."
+msgstr ""
+
+#: ../../ISD.rst:2040
+#: ../../ISD.rst:2078
+#: ../../ISD.rst:2100
+#: ../../ISD.rst:2116
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../ISD.rst:2052
+msgid "Manor Gargoyle"
+msgstr ""
+
+#: ../../ISD.rst:2049
+msgid "Manor Gargoyle has indestructible as long as it has defender."
+msgstr ""
+
+#: ../../ISD.rst:2051
+msgid "|mana_1|: Until end of turn, Manor Gargoyle loses defender and gains flying."
+msgstr ""
+
+#: ../../ISD.rst:2061
+msgid "Mask of Avacyn"
+msgstr ""
+
+#: ../../ISD.rst:2058
+msgid "Equipped creature gets +1/+2 and has hexproof. (It can't be the target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../ISD.rst:2070
+msgid "One-Eyed Scarecrow"
+msgstr ""
+
+#: ../../ISD.rst:2069
+msgid "Creatures with flying your opponents control get -1/-0."
+msgstr ""
+
+#: ../../ISD.rst:2079
+msgid "Runechanter's Pike"
+msgstr ""
+
+#: ../../ISD.rst:2076
+msgid "Equipped creature has first strike and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard."
+msgstr ""
+
+#: ../../ISD.rst:2090
+msgid "Sharpened Pitchfork"
+msgstr ""
+
+#: ../../ISD.rst:2085
+msgid "Equipped creature has first strike."
+msgstr ""
+
+#: ../../ISD.rst:2087
+msgid "As long as equipped creature is a Human, it gets +1/+1."
+msgstr ""
+
+#: ../../ISD.rst:2089
+msgid "Equip |mana_1|"
+msgstr ""
+
+#: ../../ISD.rst:2101
+msgid "Silver-Inlaid Dagger"
+msgstr ""
+
+#: ../../ISD.rst:2096
+msgid "Equipped creature gets +2/+0."
+msgstr ""
+
+#: ../../ISD.rst:2098
+msgid "As long as equipped creature is a Human, it gets an additional +1/+0."
+msgstr ""
+
+#: ../../ISD.rst:2108
+msgid "Traveler's Amulet"
+msgstr ""
+
+#: ../../ISD.rst:2107
+msgid "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../ISD.rst:2117
+msgid "Trepanation Blade"
+msgstr ""
+
+#: ../../ISD.rst:2114
+msgid "Whenever equipped creature attacks, defending player reveals cards from the top of their library until they reveal a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts the revealed cards into their graveyard."
+msgstr ""
+
+#: ../../ISD.rst:2126
+msgid "Witchbane Orb"
+msgstr ""
+
+#: ../../ISD.rst:2123
+msgid "When Witchbane Orb enters the battlefield, destroy all Curses attached to you."
+msgstr ""
+
+#: ../../ISD.rst:2125
+msgid "You have hexproof. (You can't be the target of spells or abilities your opponents control, including Aura spells.)"
+msgstr ""
+
+#: ../../ISD.rst:2137
+msgid "Wooden Stake"
+msgstr ""
+
+#: ../../ISD.rst:2132
+msgid "Equipped creature gets +1/+0."
+msgstr ""
+
+#: ../../ISD.rst:2134
+msgid "Whenever equipped creature blocks or becomes blocked by a Vampire, destroy that creature. It can't be regenerated."
+msgstr ""
+
+#: ../../ISD.rst:2146
+msgid "Clifftop Retreat"
+msgstr ""
+
+#: ../../ISD.rst:2143
+msgid "Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains."
+msgstr ""
+
+#: ../../ISD.rst:2145
+msgid "|tap|: Add |mana_r| or |mana_w|."
+msgstr ""
+
+#: ../../ISD.rst:2155
+msgid "Gavony Township"
+msgstr ""
+
+#: ../../ISD.rst:2152
+#: ../../ISD.rst:2161
+#: ../../ISD.rst:2188
+#: ../../ISD.rst:2197
+#: ../../ISD.rst:2206
+#: ../../ISD.rst:2215
+#: ../../ISD.rst:2224
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../ISD.rst:2154
+msgid "|mana_2| |mana_g| |mana_w|, |tap|: Put a +1/+1 counter on each creature you control."
+msgstr ""
+
+#: ../../ISD.rst:2164
+msgid "Ghost Quarter"
+msgstr ""
+
+#: ../../ISD.rst:2163
+msgid "|tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library."
+msgstr ""
+
+#: ../../ISD.rst:2173
+msgid "Hinterland Harbor"
+msgstr ""
+
+#: ../../ISD.rst:2170
+msgid "Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island."
+msgstr ""
+
+#: ../../ISD.rst:2172
+msgid "|tap|: Add |mana_g| or |mana_u|."
+msgstr ""
+
+#: ../../ISD.rst:2182
+msgid "Isolated Chapel"
+msgstr ""
+
+#: ../../ISD.rst:2179
+msgid "Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp."
+msgstr ""
+
+#: ../../ISD.rst:2181
+msgid "|tap|: Add |mana_w| or |mana_b|."
+msgstr ""
+
+#: ../../ISD.rst:2191
+msgid "Kessig Wolf Run"
+msgstr ""
+
+#: ../../ISD.rst:2190
+msgid "|mana_x| |mana_r| |mana_g|, |tap|: Target creature gets +X/+0 and gains trample until end of turn."
+msgstr ""
+
+#: ../../ISD.rst:2200
+msgid "Moorland Haunt"
+msgstr ""
+
+#: ../../ISD.rst:2199
+msgid "|mana_w| |mana_u|, |tap|, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying."
+msgstr ""
+
+#: ../../ISD.rst:2209
+msgid "Nephalia Drownyard"
+msgstr ""
+
+#: ../../ISD.rst:2208
+msgid "|mana_1| |mana_u| |mana_b|, |tap|: Target player puts the top three cards of their library into their graveyard."
+msgstr ""
+
+#: ../../ISD.rst:2218
+msgid "Shimmering Grotto"
+msgstr ""
+
+#: ../../ISD.rst:2217
+msgid "|mana_1|, |tap|: Add one mana of any color."
+msgstr ""
+
+#: ../../ISD.rst:2227
+msgid "Stensia Bloodhall"
+msgstr ""
+
+#: ../../ISD.rst:2226
+msgid "|mana_3| |mana_b| |mana_r|, |tap|: Stensia Bloodhall deals 2 damage to target player or planeswalker."
+msgstr ""
+
+#: ../../ISD.rst:2236
+msgid "Sulfur Falls"
+msgstr ""
+
+#: ../../ISD.rst:2233
+msgid "Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain."
+msgstr ""
+
+#: ../../ISD.rst:2235
+msgid "|tap|: Add |mana_u| or |mana_r|."
+msgstr ""
+
+#: ../../ISD.rst:2245
+msgid "Woodland Cemetery"
+msgstr ""
+
+#: ../../ISD.rst:2242
+msgid "Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest."
+msgstr ""
+
+#: ../../ISD.rst:2244
+msgid "|tap|: Add |mana_b| or |mana_g|."
+msgstr ""
+
+#: ../../ISD.rst:2250
+#: ../../ISD.rst:2257
+#: ../../ISD.rst:2264
+msgid "Plains"
+msgstr ""
+
+#: ../../ISD.rst:2271
+#: ../../ISD.rst:2278
+#: ../../ISD.rst:2285
+msgid "Island"
+msgstr ""
+
+#: ../../ISD.rst:2292
+#: ../../ISD.rst:2299
+#: ../../ISD.rst:2306
+msgid "Swamp"
+msgstr ""
+
+#: ../../ISD.rst:2313
+#: ../../ISD.rst:2320
+#: ../../ISD.rst:2327
+msgid "Mountain"
+msgstr ""
+
+#: ../../ISD.rst:2334
+#: ../../ISD.rst:2341
+#: ../../ISD.rst:2348
+msgid "Forest"
 msgstr ""
 
