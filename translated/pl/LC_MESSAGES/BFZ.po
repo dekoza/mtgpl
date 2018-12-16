@@ -3,19 +3,21 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2018-12-16 00:05+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/bfz/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 
 #: ../../BFZ.rst:5
 msgid "Battle for Zendikar"
@@ -73,7 +75,7 @@ msgstr ""
 
 #: ../../BFZ.rst:42
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../BFZ.rst:44
 msgid ""
@@ -225,7 +227,7 @@ msgstr ""
 #: ../../BFZ.rst:1756 ../../BFZ.rst:1765 ../../BFZ.rst:1781 ../../BFZ.rst:1865
 #: ../../BFZ.rst:1919
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../BFZ.rst:145
 msgid ""
@@ -239,7 +241,7 @@ msgstr ""
 
 #: ../../BFZ.rst:152 ../../BFZ.rst:719 ../../BFZ.rst:1251
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../BFZ.rst:154
 msgid "When Angelic Gift enters the battlefield, draw a card."
