@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 11:20+0000\n"
+"PO-Revision-Date: 2018-12-16 14:52+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -21,11 +21,12 @@ msgstr ""
 
 #: ../../XLN.rst:5
 msgid "Ixalan"
-msgstr ""
+msgstr "Ixalan"
 
 #: ../../XLN.rst:15
+#, fuzzy
 msgid "Adanto Vanguard"
-msgstr ""
+msgstr "Adanto Vanguard"
 
 #: ../../XLN.rst:12
 msgid "As long as Adanto Vanguard is attacking, it gets +2/+0."
@@ -34,10 +35,13 @@ msgstr "Dopóki ten stwór atakuje, dostaje +2/+0."
 #: ../../XLN.rst:14
 msgid "Pay 4 life: Adanto Vanguard gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"Zapłać 4 życia: Ten stwór zyskuje niezniszczalność do końca tury. (Obrażenia "
+"i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../XLN.rst:24
+#, fuzzy
 msgid "Ashes of the Abhorrent"
-msgstr ""
+msgstr "Ashes of the Abhorrent"
 
 #: ../../XLN.rst:21
 msgid "Players can't cast spells from graveyards or activate abilities of cards in graveyards."
@@ -51,15 +55,16 @@ msgstr "Ilekroć jakiś stwór umiera, zyskujesz 1 życie."
 
 #: ../../XLN.rst:31
 msgid "Axis of Mortality"
-msgstr ""
+msgstr "Axis of Mortality (Oś śmiertelności)"
 
 #: ../../XLN.rst:30
 msgid "At the beginning of your upkeep, you may have two target players exchange life totals."
 msgstr ""
 
 #: ../../XLN.rst:38
+#, fuzzy
 msgid "Bellowing Aegisaur"
-msgstr ""
+msgstr "Bellowing Aegisaur"
 
 #: ../../XLN.rst:37
 msgid "Enrage — Whenever Bellowing Aegisaur is dealt damage, put a +1/+1 counter on each other creature you control."
@@ -85,8 +90,9 @@ msgstr ""
 "koszcie 3 lub mniejszym z twojego cmentarza na pole walki."
 
 #: ../../XLN.rst:54
+#, fuzzy
 msgid "Bishop's Soldier"
-msgstr ""
+msgstr "Bishop's Soldier"
 
 #: ../../XLN.rst:53
 #: ../../XLN.rst:934
@@ -94,8 +100,9 @@ msgid "Lifelink"
 msgstr "Więź życia"
 
 #: ../../XLN.rst:63
+#, fuzzy
 msgid "Bright Reprisal"
-msgstr ""
+msgstr "Bright Reprisal"
 
 #: ../../XLN.rst:60
 msgid "Destroy target attacking creature."
@@ -111,8 +118,9 @@ msgid "Draw a card."
 msgstr "Dobierz kartę."
 
 #: ../../XLN.rst:70
+#, fuzzy
 msgid "Demystify"
-msgstr ""
+msgstr "Demystify"
 
 #: ../../XLN.rst:69
 #: ../../XLN.rst:1482
@@ -120,8 +128,9 @@ msgid "Destroy target enchantment."
 msgstr "Zniszcz wskazany urok."
 
 #: ../../XLN.rst:79
+#, fuzzy
 msgid "Duskborne Skymarcher"
-msgstr ""
+msgstr "Duskborne Skymarcher"
 
 #: ../../XLN.rst:76
 #: ../../XLN.rst:121
@@ -142,7 +151,7 @@ msgstr "Latanie"
 
 #: ../../XLN.rst:78
 msgid "|mana_w|, |tap|: Target attacking Vampire gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|mana_w|, |tap|: Wskazany atakujący Wampir dostaje +1/+1 do końca tury."
 
 #: ../../XLN.rst:88
 msgid "Emissary of Sunrise"
@@ -157,34 +166,39 @@ msgstr "Pierwszy cios"
 #: ../../XLN.rst:87
 msgid "When Emissary of Sunrise enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
-"Gdy ten stwór wchodzi na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
-"twojej biblioteki. Połóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie połóż na tym stworze znacznik +1/+1, a następnie odłóż ową kartę lub "
+"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
+"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:97
+#, fuzzy
 msgid "Encampment Keeper"
-msgstr ""
+msgstr "Encampment Keeper"
 
 #: ../../XLN.rst:96
 msgid "|mana_7| |mana_w|, |tap|, Sacrifice Encampment Keeper: Creatures you control get +2/+2 until end of turn."
 msgstr ""
+"|mana_7| |mana_w|, |tap|, poświęć tego stwora: Stwory pod twoim władaniem "
+"dostają +2/+2 do końca tury."
 
 #: ../../XLN.rst:106
+#, fuzzy
 msgid "Glorifier of Dusk"
-msgstr ""
+msgstr "Glorifier of Dusk"
 
 #: ../../XLN.rst:103
 msgid "Pay 2 life: Glorifier of Dusk gains flying until end of turn."
-msgstr ""
+msgstr "Zapłać 2 życia: Ten stwór zyskuje latanie do końca tury."
 
 #: ../../XLN.rst:105
 msgid "Pay 2 life: Glorifier of Dusk gains vigilance until end of turn."
-msgstr ""
+msgstr "Zapłać 2 życia: Ten stwór zyskuje czujność do końca tury."
 
 #: ../../XLN.rst:115
+#, fuzzy
 msgid "Goring Ceratops"
-msgstr ""
+msgstr "Goring Ceratops"
 
 #: ../../XLN.rst:112
 msgid "Double strike"
@@ -193,127 +207,161 @@ msgstr "Podwójny cios"
 #: ../../XLN.rst:114
 msgid "Whenever Goring Ceratops attacks, other creatures you control gain double strike until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, inne stwory pod twoim władaniem zyskują podwójny "
+"cios do końca tury."
 
 #: ../../XLN.rst:124
+#, fuzzy
 msgid "Imperial Aerosaur"
-msgstr ""
+msgstr "Imperial Aerosaur"
 
 #: ../../XLN.rst:123
 msgid "When Imperial Aerosaur enters the battlefield, another target creature you control gets +1/+1 and gains flying until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, inny wskazany stwór pod twoim "
+"władaniem dostaje do końca tury +1/+1 i latanie."
 
 #: ../../XLN.rst:131
+#, fuzzy
 msgid "Imperial Lancer"
-msgstr ""
+msgstr "Imperial Lancer"
 
 #: ../../XLN.rst:130
 msgid "Imperial Lancer has double strike as long as you control a Dinosaur."
-msgstr ""
+msgstr "Ten stwór ma podwójny cios dopóki władasz Dinozaurem."
 
 #: ../../XLN.rst:138
+#, fuzzy
 msgid "Inspiring Cleric"
-msgstr ""
+msgstr "Inspiring Cleric"
 
 #: ../../XLN.rst:137
 msgid "When Inspiring Cleric enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, zyskujesz 4 życia."
 
 #: ../../XLN.rst:147
+#, fuzzy
 msgid "Ixalan's Binding"
-msgstr ""
+msgstr "Ixalan's Binding"
 
 #: ../../XLN.rst:144
 msgid "When Ixalan's Binding enters the battlefield, exile target nonland permanent an opponent controls until Ixalan's Binding leaves the battlefield."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, wypędź wskazany nie-lądowy permanent "
+"spod władania przeciwnika dopóki ten urok nie opuści pola walki."
 
 #: ../../XLN.rst:146
 msgid "Your opponents can't cast spells with the same name as the exiled card."
 msgstr ""
+"Twoi przeciwnicy nie mogą rzucać czarów z taką samą nazwą jak owa wypędzona "
+"karta."
 
 #: ../../XLN.rst:154
+#, fuzzy
 msgid "Kinjalli's Caller"
-msgstr ""
+msgstr "Kinjalli's Caller"
 
 #: ../../XLN.rst:153
 #: ../../XLN.rst:1231
 msgid "Dinosaur spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Dinozaurów kosztuje cię o |mana_1| mniej."
 
 #: ../../XLN.rst:163
+#, fuzzy
 msgid "Kinjalli's Sunwing"
-msgstr ""
+msgstr "Kinjalli's Sunwing"
 
 #: ../../XLN.rst:162
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
+"Stwory władane przez twoich przeciwników wchodzą na pole walki zaznaczone."
 
 #: ../../XLN.rst:170
+#, fuzzy
 msgid "Legion Conquistador"
-msgstr ""
+msgstr "Legion Conquistador"
 
 #: ../../XLN.rst:169
 msgid "When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz poszukać w twojej bibliotece "
+"dowolną liczbę kart o nazwie Legion Conquistador, ujawnić je i dołożyć do "
+"twojej ręki, a następnie przetasuj twoją bibliotekę."
 
 #: ../../XLN.rst:177
+#, fuzzy
 msgid "Legion's Judgment"
-msgstr ""
+msgstr "Legion's Judgment"
 
 #: ../../XLN.rst:176
 msgid "Destroy target creature with power 4 or greater."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z siłą 4 lub większą."
 
 #: ../../XLN.rst:186
+#, fuzzy
 msgid "Legion's Landing"
-msgstr ""
+msgstr "Legion's Landing"
 
 #: ../../XLN.rst:183
 msgid "When Legion's Landing enters the battlefield, create a 1/1 white Vampire creature token with lifelink."
 msgstr ""
+"Kiedy ten urok wejdzie na pole walki, stwórz żeton białego stwora Wampir 1/1 "
+"z więzią życia."
 
 #: ../../XLN.rst:185
 msgid "When you attack with three or more creatures, transform Legion's Landing."
-msgstr ""
+msgstr "Kiedy atakujesz co najmniej trzema stworami, transformuj ten urok."
 
 #: ../../XLN.rst:197
+#, fuzzy
 msgid "Adanto, the First Fort"
-msgstr ""
+msgstr "Adanto, the First Fort"
 
 #: ../../XLN.rst:192
 msgid "(Transforms from Legion's Landing.)"
-msgstr ""
+msgstr "(Transformuje z Legion's Landing.)"
 
 #: ../../XLN.rst:194
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w|."
 
 #: ../../XLN.rst:196
 msgid "|mana_2| |mana_w|, |tap|: Create a 1/1 white Vampire creature token with lifelink."
 msgstr ""
+"|mana_2| |mana_w|, |tap|: Stwórz żeton białego stwora Wampir 1/1 z więzią "
+"życia."
 
 #: ../../XLN.rst:202
+#, fuzzy
 msgid "Looming Altisaur"
-msgstr ""
+msgstr "Looming Altisaur"
 
 #: ../../XLN.rst:211
+#, fuzzy
 msgid "Mavren Fein, Dusk Apostle"
-msgstr ""
+msgstr "Mavren Fein, Dusk Apostle"
 
 #: ../../XLN.rst:210
 msgid "Whenever one or more nontoken Vampires you control attack, create a 1/1 white Vampire creature token with lifelink."
 msgstr ""
+"Ilekroć co najmniej jeden z nieżetonowych Wampirów pod twoim władaniem "
+"atakuje, stwórz żeton białego stwora Wampir 1/1 z więzią życia."
 
 #: ../../XLN.rst:218
+#, fuzzy
 msgid "Paladin of the Bloodstained"
-msgstr ""
+msgstr "Paladin of the Bloodstained"
 
 #: ../../XLN.rst:217
 msgid "When Paladin of the Bloodstained enters the battlefield, create a 1/1 white Vampire creature token with lifelink."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, stwórz żeton białego stwora Wampir 1/"
+"1 z więzią życia."
 
 #: ../../XLN.rst:229
+#, fuzzy
 msgid "Pious Interdiction"
-msgstr ""
+msgstr "Pious Interdiction"
 
 #: ../../XLN.rst:224
 #: ../../XLN.rst:520
@@ -325,7 +373,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../XLN.rst:226
 msgid "When Pious Interdiction enters the battlefield, you gain 2 life."
-msgstr ""
+msgstr "Kiedy ten urok wejdzie na pole walki, zyskujesz 2 życia."
 
 #: ../../XLN.rst:228
 msgid "Enchanted creature can't attack or block."
@@ -333,7 +381,7 @@ msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../XLN.rst:238
 msgid "Priest of the Wakening Sun"
-msgstr ""
+msgstr "Priest of the Wakening Sun (Kapłan Budzącego się Słońca)"
 
 #: ../../XLN.rst:235
 msgid "At the beginning of your upkeep, you may reveal a Dinosaur card from your hand. If you do, you gain 2 life."
@@ -342,98 +390,128 @@ msgstr ""
 #: ../../XLN.rst:237
 msgid "|mana_3| |mana_w| |mana_w|, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"|mana_3| |mana_w| |mana_w|, poświęć tego stwora: Poszukaj w twojej "
+"bibliotece kartę Dinozaura, ujawnij ją, dołóż do twojej ręki, a następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../XLN.rst:245
+#, fuzzy
 msgid "Pterodon Knight"
-msgstr ""
+msgstr "Pterodon Knight"
 
 #: ../../XLN.rst:244
 msgid "Pterodon Knight has flying as long as you control a Dinosaur."
-msgstr ""
+msgstr "Ten stwór ma latanie o ile władasz Dinozaurem."
 
 #: ../../XLN.rst:252
+#, fuzzy
 msgid "Queen's Commission"
-msgstr ""
+msgstr "Queen's Commission"
 
 #: ../../XLN.rst:251
 msgid "Create two 1/1 white Vampire creature tokens with lifelink."
-msgstr ""
+msgstr "Stwórz dwa żetony stwora Wampir 1/1 z więzią życia."
 
 #: ../../XLN.rst:259
+#, fuzzy
 msgid "Rallying Roar"
-msgstr ""
+msgstr "Rallying Roar"
 
 #: ../../XLN.rst:258
 msgid "Creatures you control get +1/+1 until end of turn. Untap them."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury. Odznacz je."
 
 #: ../../XLN.rst:264
+#, fuzzy
 msgid "Raptor Companion"
-msgstr ""
+msgstr "Raptor Companion"
 
 #: ../../XLN.rst:275
+#, fuzzy
 msgid "Ritual of Rejuvenation"
-msgstr ""
+msgstr "Ritual of Rejuvenation"
 
 #: ../../XLN.rst:272
 msgid "You gain 4 life."
-msgstr ""
+msgstr "Zyskujesz 4 życia."
 
 #: ../../XLN.rst:282
+#, fuzzy
 msgid "Sanguine Sacrament"
-msgstr ""
+msgstr "Sanguine Sacrament"
 
 #: ../../XLN.rst:281
 msgid "You gain twice X life. Put Sanguine Sacrament on the bottom of its owner's library."
 msgstr ""
+"Zyskujesz dwukrotność X życia. Połóż tę kartę na spodzie biblioteki jej "
+"właściciela."
 
 #: ../../XLN.rst:289
+#, fuzzy
 msgid "Settle the Wreckage"
-msgstr ""
+msgstr "Settle the Wreckage"
 
 #: ../../XLN.rst:288
 msgid "Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle their library."
 msgstr ""
+"Wypędź wszystkie atakujące stwory władane przez wskazanego gracza. Ów gracz "
+"może poszukać w swojej bibliotece tyle samo kart bazowych lądów i umieścić "
+"je zaznaczone na polu walki, a następnie przetasować swoją bibliotekę."
 
 #: ../../XLN.rst:296
+#, fuzzy
 msgid "Sheltering Light"
-msgstr ""
+msgstr "Sheltering Light"
 
 #: ../../XLN.rst:295
 msgid "Target creature gains indestructible until end of turn. Scry 1. (Damage and effects that say \"destroy\" don't destroy the creature.)"
 msgstr ""
+"Wskazany stwór zyskuje niezniszczalność do końca tury. Wróż 1. (Obrażenia i "
+"efekty mówiące \"zniszcz\" nie niszczą owego stwora.)"
 
 #: ../../XLN.rst:303
+#, fuzzy
 msgid "Shining Aerosaur"
-msgstr ""
+msgstr "Shining Aerosaur"
 
 #: ../../XLN.rst:310
+#, fuzzy
 msgid "Skyblade of the Legion"
-msgstr ""
+msgstr "Skyblade of the Legion"
 
 #: ../../XLN.rst:317
+#, fuzzy
 msgid "Slash of Talons"
-msgstr ""
+msgstr "Slash of Talons"
 
 #: ../../XLN.rst:316
 msgid "Slash of Talons deals 2 damage to target attacking or blocking creature."
 msgstr ""
+"Ta karta zadaje 2 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
 
 #: ../../XLN.rst:326
+#, fuzzy
 msgid "Steadfast Armasaur"
-msgstr ""
+msgstr "Steadfast Armasaur"
 
 #: ../../XLN.rst:325
 msgid "|mana_1| |mana_w|, |tap|: Steadfast Armasaur deals damage equal to its toughness to target creature blocking or blocked by it."
 msgstr ""
+"|mana_1| |mana_w|, |tap|: Ten stwór zadaje obrażenia równe swojej "
+"wytrzymałości wskazanemu stworowi blokowanemu przez niego lub blokującego go."
 
 #: ../../XLN.rst:335
+#, fuzzy
 msgid "Sunrise Seeker"
-msgstr ""
+msgstr "Sunrise Seeker"
 
 #: ../../XLN.rst:334
 msgid "When Sunrise Seeker enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
+"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:342
 msgid "Territorial Hammerskull"
@@ -789,6 +867,10 @@ msgstr ""
 #: ../../XLN.rst:637
 msgid "When Siren Lookout enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
+"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:647
 msgid "Siren Stormtamer"
@@ -981,6 +1063,11 @@ msgstr ""
 #: ../../XLN.rst:811
 msgid "|mana_1| |mana_b|, |tap|: Exile two target cards from an opponent's graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
+"|mana_1| |mana_b|, |tap|: Wypędź dwie wskazane karty z cmentarza "
+"przeciwnika. Ten stwór eksploruje. (Ujawnij wierzchnią kartę twojej "
+"biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym razie "
+"połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub umieść "
+"ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:821
 msgid "Deathless Ancient"
@@ -1020,6 +1107,10 @@ msgstr ""
 #: ../../XLN.rst:843
 msgid "When Dire Fleet Interloper enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
+"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:853
 msgid "Dire Fleet Ravager"
@@ -1092,6 +1183,8 @@ msgstr ""
 #: ../../XLN.rst:907
 msgid "Whenever a creature you control explores, target creature an opponent controls gets -2/-2 until end of turn."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem eksploruje, wskazany stwór pod władaniem "
+"przeciwnika dostaje -2/-2 do końca tury."
 
 #: ../../XLN.rst:919
 msgid "March of the Drowned"
@@ -1125,6 +1218,10 @@ msgstr ""
 #: ../../XLN.rst:936
 msgid "When Queen's Agent enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
+"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:942
 msgid "Queen's Bay Soldier"
@@ -1189,6 +1286,10 @@ msgstr ""
 #: ../../XLN.rst:991
 msgid "When Seekers' Squire enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
+"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:999
 msgid "Skittering Heartstopper"
@@ -1300,6 +1401,10 @@ msgstr "Pośpiech"
 #: ../../XLN.rst:1086
 msgid "When Brazen Buccaneers enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
+"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:1094
 msgid "Burning Sun's Avatar"
@@ -1795,6 +1900,10 @@ msgstr ""
 #: ../../XLN.rst:1526
 msgid "Whenever Emperor's Vanguard deals combat damage to a player, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
+"Ilekroć ten stwór zada bitewne obrażenia graczowi, eksploruje. (Ujawnij "
+"wierzchnią kartę twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to "
+"ląd. W przeciwnym razie połóż znacznik +1/+1 na tym stworze, a następnie "
+"odłóż ową kartę lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:1534
 msgid "Grazing Whiptail"
@@ -1835,6 +1944,10 @@ msgstr ""
 #: ../../XLN.rst:1560
 msgid "When Ixalli's Diviner enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
+"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:1568
 msgid "Ixalli's Keeper"
@@ -1879,6 +1992,10 @@ msgstr ""
 #: ../../XLN.rst:1597
 msgid "When Merfolk Branchwalker enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
+"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:1609
 msgid "New Horizons"
@@ -2007,6 +2124,10 @@ msgstr ""
 #: ../../XLN.rst:1707
 msgid "When Tishana's Wayfinder enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
+"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:1717
 msgid "Verdant Rebirth"
@@ -2047,6 +2168,8 @@ msgstr ""
 #: ../../XLN.rst:1744
 msgid "Whenever a creature you control explores, put a +1/+1 counter on Wildgrowth Walker and you gain 3 life."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem eksploruje, połóż znacznik +1/+1 na tym "
+"stworze, a ty zyskujesz 3 życia."
 
 #: ../../XLN.rst:1754
 msgid "Admiral Beckett Brass"
@@ -2445,6 +2568,8 @@ msgstr ""
 #: ../../XLN.rst:2049
 msgid "Whenever a creature you control explores, put a +1/+1 counter on Shadowed Caravel."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem eksploruje, połóż znacznik +1/+1 na tej "
+"karcie."
 
 #: ../../XLN.rst:2059
 msgid "Sleek Schooner"
