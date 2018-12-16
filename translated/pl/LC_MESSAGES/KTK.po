@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -1441,7 +1441,7 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
-"Więź Życia (Obrażenia zadane przez tego stwora powodują, że zyskujesz tyle "
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
 "samo życia.)"
 
 # 3543ad0aee6a455899c0efd0aaaff011
@@ -3802,9 +3802,8 @@ msgstr ""
 
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1271
-#, fuzzy
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_g| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 # 02ca1ffa37724ea4a285e34508fcb403
 #: ../../KTK.rst:1280
@@ -3873,9 +3872,8 @@ msgstr "Kiedy Jungle Hollow wchodzi na pole walki, zyskujesz 1 życie."
 
 # 36961c244e914c2eba9788302c555ba2
 #: ../../KTK.rst:1297
-#, fuzzy
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_g| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 # 9839e99f70fb46df95803d37cee486b1
 #: ../../KTK.rst:1304
@@ -4000,9 +3998,8 @@ msgstr ""
 
 # 525825eafd6640499583b3e7b0e38a4f
 #: ../../KTK.rst:1349
-#, fuzzy
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 # 27bec81455014f78bba1c03d1c69572a
 #: ../../KTK.rst:1358
@@ -4034,7 +4031,7 @@ msgstr "Tomb of the Spirit Dragon"
 
 #: ../../KTK.rst:1361
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 # 82ab8b27f3ad45d2a6f956c95eca3391
 #: ../../KTK.rst:1363
