@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 23:22+0000\n"
+"PO-Revision-Date: 2018-12-17 00:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -34,7 +34,7 @@ msgid ""
 "When Baffling End enters the battlefield, exile target creature an opponent "
 "controls with converted mana cost 3 or less."
 msgstr ""
-"Kiedy ten urok wchodzi na pole walki, wypędź wskazanego stwora o łącznym "
+"Kiedy ten urok wchodzi na pole walki, wygnaj wskazanego stwora o łącznym "
 "koszcie many 3 lub mniej spod władania przeciwnika."
 
 #: ../../RIX.rst:11
@@ -55,7 +55,7 @@ msgid ""
 "When Bishop of Binding enters the battlefield, exile target creature an "
 "opponent controls until Bishop of Binding leaves the battlefield."
 msgstr ""
-"Kiedy ta karta wchodzi na pole walki, wypędź wskazanego stwora władanego "
+"Kiedy ta karta wchodzi na pole walki, wygnaj wskazanego stwora władanego "
 "przez przeciwnika dopóki ta karta nie opuści pola walki."
 
 #: ../../RIX.rst:17
@@ -64,7 +64,7 @@ msgid ""
 "turn, where X is the power of the exiled card."
 msgstr ""
 "Ilekroć ten stwór atakuje, wskazany Wampir dostaje +X/+X do końca tury, "
-"gdzie X to siła wypędzonej karty."
+"gdzie X to siła wygnanej karty."
 
 #: ../../RIX.rst:22
 #, fuzzy
@@ -74,7 +74,7 @@ msgstr "Blazing Hope"
 #: ../../RIX.rst:21
 msgid ""
 "Exile target creature with power greater than or equal to your life total."
-msgstr "Wypędź wskazanego stwora o sile większej lub równej twojemu życiu."
+msgstr "Wygnaj wskazanego stwora o sile większej lub równej twojemu życiu."
 
 #: ../../RIX.rst:30
 #, fuzzy
@@ -391,6 +391,8 @@ msgid ""
 "Enrage — Whenever Trapjaw Tyrant is dealt damage, exile target creature an "
 "opponent controls until Trapjaw Tyrant leaves the battlefield."
 msgstr ""
+"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, wygnaj wskazanego "
+"stwora władanego przez przeciwnika dopóki ten stwór nie opuści pola walki."
 
 #: ../../RIX.rst:160
 msgid "Zetalpa, Primal Dawn"
@@ -505,6 +507,8 @@ msgid ""
 "Return target instant or sorcery card from your graveyard to your hand. "
 "Exile Flood of Recollection."
 msgstr ""
+"Przywróć wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej "
+"reki. Wygnaj Flood of Recollection."
 
 #: ../../RIX.rst:212
 msgid "Hornswoggle"
@@ -587,6 +591,9 @@ msgid ""
 "Discard three cards: Exile Nezahal. Return it to the battlefield tapped "
 "under its owner's control at the beginning of the next end step."
 msgstr ""
+"Odrzuć trzy karty: Wygnaj tego stwora. Przywróć go zaznaczonego na pole "
+"walki pod władanie jego właściciela z początkiem najbliższego kroku "
+"końcowego."
 
 #: ../../RIX.rst:250
 msgid "Release to the Wind"
@@ -597,6 +604,8 @@ msgid ""
 "Exile target nonland permanent. For as long as that card remains exiled, its "
 "owner may cast it without paying its mana cost."
 msgstr ""
+"Wygnaj wskazany permanent nie będący lądem. Przez czas gdy owa karta "
+"pozostaje wygnana, jej właściciel może rzucać ją bez płacenia kosztu many."
 
 #: ../../RIX.rst:254
 msgid "River Darter"
@@ -797,6 +806,10 @@ msgid ""
 "as they remain exiled, and you may spend mana as though it were mana of any "
 "type to cast those spells."
 msgstr ""
+"Kiedy zauroczony stwór umrze, wygnaj tyle kart z wierzchu biblioteki jego "
+"właściciela, ile wynosi jego siła. Spośród nich możesz rzucać karty nie "
+"będące lądami tak długo, jak są one wygnane i możesz wydawać manę tak, jakby "
+"była to mana dowolnego typu potrzebnego do rzucenia owych czarów."
 
 #: ../../RIX.rst:362
 msgid "Dinosaur Hunter"
@@ -973,7 +986,7 @@ msgstr ""
 
 #: ../../RIX.rst:445
 msgid "Exile target creature with power 3 or less."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora z siłą 3 lub mniejszą."
 
 #: ../../RIX.rst:452
 msgid "Recover"
@@ -1161,6 +1174,11 @@ msgid ""
 "spell. If that card would be put into a graveyard this turn, exile it "
 "instead."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wygnaj wskazaną kartę sztuczki lub "
+"obrzędu z cmentarza przeciwnika. Możesz rzucić ową kartę w tej turze i "
+"możesz wydawać manę, jakby była to mana dowolnego typu potrzebnego do "
+"rzucenia owego czaru. Jeśli owa karta miałby trafić do cmentarza w tej "
+"turze, zamiast tego wygnaj ją."
 
 #: ../../RIX.rst:542
 msgid "Etali, Primal Storm"
@@ -1172,6 +1190,9 @@ msgid ""
 "library, then you may cast any number of nonland cards exiled this way "
 "without paying their mana costs."
 msgstr ""
+"Ilekroć ten stwór atakuje, wygnaj wierzchnią kartę biblioteki każdego z "
+"graczy, następnie możesz rzucić dowolną liczbę kart wygnanych w ten sposób "
+"bez płacenia ich kosztu many."
 
 #: ../../RIX.rst:548
 msgid "Fanatical Firebrand"
@@ -1393,6 +1414,10 @@ msgid ""
 "attacking. At the beginning of the next end step, exile those tokens unless "
 "you have the city's blessing."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_x| |mana_r|. Jeśli to "
+"zrobisz, stwórz X zaznaczonych i atakujących żetonów czerwonego stwora "
+"Żywiołak 1/1. Na początku najbliższego kroku końcowego, wygnaj owe żetony, "
+"chyba że masz błogosławieństwo miasta."
 
 #: ../../RIX.rst:658
 msgid "Aggressive Urge"
@@ -1982,6 +2007,8 @@ msgid ""
 "|mana_3| |mana_w| |mana_b|: Exile target creature. Then if there are three "
 "or more cards exiled with Profane Procession, transform it."
 msgstr ""
+"|mana_3| |mana_w| |mana_b|: Wygnaj wskazanego stwora. Następnie jeśli co "
+"najmniej trzy karty wygnano z użyciem tej karty, transformuj ją."
 
 #: ../../RIX.rst:920
 msgid "Tomb of the Dusk Rose"
@@ -2142,10 +2169,12 @@ msgstr ""
 #: ../../RIX.rst:991
 msgid "|tap|: Add X mana of any one color, where X is your life total."
 msgstr ""
+"|tap|: Dostajesz X many w jednym dowolnym kolorze, gdzie X jest liczbą "
+"twoich punktów życia."
 
 #: ../../RIX.rst:1000
 msgid "Captain's Hook"
-msgstr ""
+msgstr "Captain's Hook (Hak kapitana)"
 
 #: ../../RIX.rst:995
 msgid ""
