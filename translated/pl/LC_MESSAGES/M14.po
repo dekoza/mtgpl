@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 09:38+0000\n"
+"PO-Revision-Date: 2018-12-16 11:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -1281,7 +1281,7 @@ msgstr ""
 
 #: ../../M14.rst:629
 msgid "Defender"
-msgstr ""
+msgstr "Obrońca"
 
 # 294ed701fbd84d0286f4288d8feb32d9
 # 62cb7096dcf04c0d95c06c9e15b13b02
@@ -1373,9 +1373,8 @@ msgstr ""
 # 141fae74676f450a8846715c5d79766b
 # b698f0121cbd4ac6a441d6a5edf3756b
 #: ../../M14.rst:679
-#, fuzzy
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Poświęć stwora jako dodatkowy koszt podczas rzucania Altar's Reap."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 # 3e367e47f02e435bb805f0f15a6753a8
 # 5dbe73fdd4d444b3bbc2144a6cc74aca
@@ -1448,7 +1447,7 @@ msgstr ""
 # b5edf0feeb0b47499addd5525184f464
 #: ../../M14.rst:719
 msgid "Child of Night"
-msgstr "Child of Night (Dziecko Nocy)"
+msgstr "Child of Night (Dziecię nocy)"
 
 # 6861d6c4b81d475c8ef685445910db69
 # ca7a40b3f6c442eaa1c15ff77796107a
@@ -1688,7 +1687,7 @@ msgstr ""
 
 #: ../../M14.rst:828
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 # f413131fb6d641aaaeac223cee718dca
 # 47c28b47bde441d190ef4813f05f3fcd
@@ -2974,7 +2973,7 @@ msgstr ""
 # 215b5c05d5604ee0b4b832e10fb7e597
 #: ../../M14.rst:1491
 msgid "Destroy target creature with flying."
-msgstr "Zniszcz wskazanego stwora z Lataniem."
+msgstr "Zniszcz wskazanego stwora z lataniem."
 
 # 13700e4730fd4421aec3e2c90916dfa9
 # e5b10a1cbfae421dbf442512ed0ec776
@@ -3065,9 +3064,8 @@ msgstr ""
 # 9c6181ae78ec4e669c77cacc04d23517
 # aaa1282a812348b983c930cd734cbac9
 #: ../../M14.rst:1537
-#, fuzzy
 msgid "This spell can't be countered."
-msgstr "Savage Summoning nie może być skontrowany."
+msgstr "Ten czar nie może być skontrowany."
 
 # c9e62699885548c1ac140e89ae2bc699
 # 2c63a6ba04e047e986a8d6d2c3dbfd67
@@ -3311,9 +3309,8 @@ msgstr ""
 # e7beabdc96bf4ff1ae8478474f58c816
 # 3ae960dec578492aa913fda276cf538f
 #: ../../M14.rst:1644
-#, fuzzy
 msgid "Indestructible"
-msgstr "Indestructibility (Niezniszczalność)"
+msgstr "Niezniszczalność"
 
 # b3a49ffb60f24ce1837745d39f761ef8
 # 012b8bba9ae446a49e3f26d4ef913e3d
