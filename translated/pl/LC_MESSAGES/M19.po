@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 15:06+0000\n"
+"PO-Revision-Date: 2018-12-16 18:23+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -1199,11 +1199,14 @@ msgstr ""
 
 #: ../../M19.rst:1015
 msgid "Act of Treason"
-msgstr ""
+msgstr "Act of Treason (Akt zdrady)"
 
 #: ../../M19.rst:1014
 msgid "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odznacz owego "
+"stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej "
+"turze.)"
 
 #: ../../M19.rst:1024
 msgid "Alpine Moon"
@@ -1904,6 +1907,8 @@ msgstr ""
 #: ../../M19.rst:1648
 msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być celem czarów i zdolności władanych przez "
+"twoich przeciwników.)"
 
 #: ../../M19.rst:1650
 msgid "Vine Mare can't be blocked by black creatures."
@@ -2551,6 +2556,8 @@ msgstr ""
 #: ../../M19.rst:2516
 msgid "Flying (This creature can't be blocked except by creatures with flying or reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany za wyjątkiem stworów z lataniem i "
+"zasięgiem.)"
 
 #: ../../M19.rst:2329
 msgid "Tezzeret, Cruel Machinist"
