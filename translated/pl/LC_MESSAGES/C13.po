@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-27 09:25+0100\n"
-"PO-Revision-Date: 2018-12-16 17:58+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -624,7 +624,7 @@ msgstr ""
 # b99cb41aba1440609c1feeeefd8303b1
 #: ../../C13.rst:204
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Boros Guildgate wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:206
@@ -1074,7 +1074,7 @@ msgstr ""
 # 36015cf7028948e1b39ea723c4d7f56b
 #: ../../C13.rst:384
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 # e2686eea8d0b498298b193e083ec7b54
 # b873d1e036dc464d9e8235e9ee28975d
@@ -1651,7 +1651,7 @@ msgstr ""
 # 6677d2dd2cf84049876e0a193dd87f47
 #: ../../C13.rst:624
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 # 81ac1acc9c4e40e1bea9003829260378
 #: ../../C13.rst:626
@@ -1937,7 +1937,7 @@ msgstr ""
 # b46df4b33df84cc0863964e8f0cbd257
 #: ../../C13.rst:751
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 # 8086316343494f8d814cbaef93220c00
 #: ../../C13.rst:750
@@ -1972,7 +1972,7 @@ msgstr ""
 # b566610079f8422c86b322e2b5697350
 #: ../../C13.rst:762
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 # 1e504a1a4fe7428cb617f1e0ece18ed3
 #: ../../C13.rst:764
@@ -2522,7 +2522,7 @@ msgstr ""
 # 15998310195e46848cfed23c53a58ac0
 #: ../../C13.rst:1001
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 # f4fafa4289b643158ed3e7e7f8114924
 #: ../../C13.rst:1000
@@ -2952,7 +2952,7 @@ msgstr ""
 # 63071f89aec64b9281d48463e09e132e
 #: ../../C13.rst:1183
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 # 664fb2b33cca4bb187cc4da1cc24dec1
 #: ../../C13.rst:1182
@@ -3398,7 +3398,7 @@ msgstr ""
 # c3298500fb50411a9355b25047bcff54
 #: ../../C13.rst:1380
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 # 96a6d9d55b734e03ae4775e03a8967e4
 #: ../../C13.rst:1382
@@ -3957,7 +3957,7 @@ msgstr ""
 # bb23a7c740dd498a8b18e6d71b27a99d
 #: ../../C13.rst:1635
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 # 773d9bbb085248dd953fb6c6519d3539
 #: ../../C13.rst:1634
@@ -4328,6 +4328,8 @@ msgstr ""
 #: ../../C13.rst:1804
 msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
 msgstr ""
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo życia.)"
 
 # dbc5c7e71de7438b8d76d0ee61558e5d
 #: ../../C13.rst:1811
