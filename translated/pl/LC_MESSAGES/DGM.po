@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -1776,7 +1776,7 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
-"Więź Życia (Obrażenia zadane przez tego stwora powodują, że zyskujesz tyle "
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
 "samo życia.)"
 
 # e148175548b3429c8fa4e7b910e9b270
@@ -2375,9 +2375,8 @@ msgstr ""
 # 54d4938304934a289b94462f98b4f5d5
 # d1d9925c7f2e4696b40df667ddc0225f
 #: ../../DGM.rst:817 ../../DGM.rst:879
-#, fuzzy
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_g| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 # 1ccf3f3659284404a60ec48e70027443
 #: ../../DGM.rst:819
@@ -2409,9 +2408,8 @@ msgstr ""
 # 63e433edae3343c19bb8b15aefdac41b
 # 4d07e2d634d14e7fb6b2fad56cee1909
 #: ../../DGM.rst:829 ../../DGM.rst:891
-#, fuzzy
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dodaj |mana_u| lub |mana_r| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 # bae836dc29404492be78d47742a7bbb0
 #: ../../DGM.rst:831
@@ -2459,9 +2457,8 @@ msgstr ""
 
 # c05ed33b21f14493ab5547d4d48f5a23
 #: ../../DGM.rst:847 ../../DGM.rst:917
-#, fuzzy
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dodaj |mana_g| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 # 9267b84d8bfc4b69b34415c703541cb7
 #: ../../DGM.rst:849
@@ -2503,7 +2500,7 @@ msgstr "Brama Gildii Boros"
 # Ciekawa koncepcja na tłumaczenie "tapped" - wymaga jeszcze pracy, ale podoba mi się koncepcja.
 #: ../../DGM.rst:865
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Boros Guildgate wchodzi na pole walki jako zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 # c101d66f67f1469b95f590021f50c52a
 #: ../../DGM.rst:874
@@ -2513,7 +2510,7 @@ msgstr ""
 # d93cfb38da1e4c0cbfa29a11e0b1d940
 #: ../../DGM.rst:871
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr "Dimir Guildgate wchodzi na pole walki jako zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 # f00fab9fc4344a179920f5db6a9862a3
 #: ../../DGM.rst:880
@@ -2523,7 +2520,7 @@ msgstr ""
 # 8937f0f9805848479a9063ff1bc803ae
 #: ../../DGM.rst:877
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr "Golgari Guildgate wchodzi na pole walki jako zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 # ef8d2607b312425eb36b219fa5383779
 #: ../../DGM.rst:886
@@ -2543,7 +2540,7 @@ msgstr ""
 # 4a489b9531c0469fa6d926cd61db27c5
 #: ../../DGM.rst:889
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr "Izzet Guildgate wchodzi na pole walki jako zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 # 3ebcde26c55940589077da6583fbb719
 #: ../../DGM.rst:900
@@ -2557,7 +2554,7 @@ msgstr "Maze's End wchodzi na pole walki jako zaznaczony."
 
 #: ../../DGM.rst:897
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 # 58d361e7edf64bf495f44a6d22451ee7
 #: ../../DGM.rst:899
@@ -2599,7 +2596,7 @@ msgstr ""
 # 52e297b443c24c27a8ee8ed6873d40c1
 #: ../../DGM.rst:915
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr "Selesnya Guildgate wchodzi na pole walki jako zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 # 91ce735e0f064b3dbbd5d3181b3756d1
 #: ../../DGM.rst:923
