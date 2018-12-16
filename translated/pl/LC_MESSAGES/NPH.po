@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2014-01-30 12:41+0200\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
-"Language-Team: tylko ja\n"
+"PO-Revision-Date: 2018-12-16 00:05+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/nph/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.0\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 "X-POOTLE-MTIME: 1391082081.559340\n"
 
 # d0f3a9d48318481798b3d1d601f23bd7
@@ -142,7 +142,7 @@ msgstr ""
 #: ../../NPH.rst:337 ../../NPH.rst:418 ../../NPH.rst:427 ../../NPH.rst:450
 #: ../../NPH.rst:504 ../../NPH.rst:695 ../../NPH.rst:704 ../../NPH.rst:799
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 # 8ba1f426de494d18a1119d06daf847c6
 #: ../../NPH.rst:63
@@ -192,7 +192,7 @@ msgstr ""
 # 90bb20f0c4bb4a5291a0c5fed369abd7
 #: ../../NPH.rst:88
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 # 85dd054cf1034b169dc92d3f64c60747
 #: ../../NPH.rst:90
@@ -234,7 +234,7 @@ msgstr ""
 #: ../../NPH.rst:108 ../../NPH.rst:317 ../../NPH.rst:529 ../../NPH.rst:567
 #: ../../NPH.rst:612
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 # 09d2d0b78e74444da2632f10d40b0be6
 #: ../../NPH.rst:110
