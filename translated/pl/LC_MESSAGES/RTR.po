@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 23:22+0000\n"
+"PO-Revision-Date: 2018-12-16 23:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -877,13 +877,12 @@ msgid "Deviant Glee"
 msgstr ""
 
 #: ../../RTR.rst:528
-#, fuzzy
 msgid ""
 "Enchanted creature gets +2/+1 and has \"|mana_r|: This creature gains "
 "trample until end of turn.\""
 msgstr ""
-"Zauroczony stwór dostaje +2/+1 i ma \\\"|mana_r|: Ten stwór zyskuje "
-"tratowanie do końca tury.\\\""
+"Zauroczony stwór dostaje +2/+1 i ma \"|mana_r|: Ten stwór zyskuje tratowanie "
+"do końca tury.\""
 
 #: ../../RTR.rst:536
 msgid "Drainpipe Vermin"
@@ -3297,8 +3296,9 @@ msgstr ""
 "nie zrobisz Temple Garden wchodzi na pole walki zaznaczony."
 
 #: ../../RTR.rst:2079
+#, fuzzy
 msgid "Transguild Promenade"
-msgstr ""
+msgstr "Transguild Promenade"
 
 #: ../../RTR.rst:2074
 msgid "Transguild Promenade enters the battlefield tapped."
