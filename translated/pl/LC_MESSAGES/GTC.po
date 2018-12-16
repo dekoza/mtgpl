@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 00:05+0000\n"
+"PO-Revision-Date: 2018-12-16 11:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -101,7 +101,7 @@ msgstr "Basilica Guards (Straż Bazyliki)"
 # 5da93c62e34a41fa8d403a349c23869f
 #: ../../GTC.rst:42 ../../GTC.rst:254 ../../GTC.rst:501
 msgid "Defender"
-msgstr "Obronność"
+msgstr "Obrońca"
 
 # 27eb53b9da284c3c90bcfc4ac20bb72f
 # 9e37e26163ef41d0bbde17357920dd90
@@ -2984,9 +2984,8 @@ msgstr "Simic Charm (Amulet Simiców)"
 
 # 2c356ed98c4a4e928d526fa304c5fd59
 #: ../../GTC.rst:1618
-#, fuzzy
 msgid "Target creature gets +3/+3 until end of turn."
-msgstr "Wskazany stwór dostaje +3/+0 do końca tury."
+msgstr "Wskazany stwór dostaje +3/+3 do końca tury."
 
 #: ../../GTC.rst:1620
 #, fuzzy
@@ -2995,9 +2994,8 @@ msgstr " albo stałki, które kontrolujesz zyskują Antyklątwę do końca tury"
 
 # 68620a65d8c5400094575d043d6050f7
 #: ../../GTC.rst:1622
-#, fuzzy
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wszystkie atakujące stwory na rękę ich właściciela."
+msgstr "Zwróć wskazanego stwora do ręki jego władcy."
 
 # cdfc5c3518b5423f9cd97b7a351350b3
 #: ../../GTC.rst:1632
