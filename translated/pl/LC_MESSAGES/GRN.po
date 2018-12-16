@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 14:52+0000\n"
+"PO-Revision-Date: 2018-12-16 15:06+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -1822,27 +1822,28 @@ msgstr ""
 
 #: ../../GRN.rst:1208 ../../GRN.rst:1528
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../GRN.rst:1220
 msgid "Urban Utopia"
-msgstr ""
+msgstr "Urban Utopia (Miejska utopia)"
 
 #: ../../GRN.rst:1215
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../GRN.rst:1217
 msgid "When Urban Utopia enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, dobierz kartę."
 
 #: ../../GRN.rst:1219
 msgid "Enchanted land has \"|tap|: Add one mana of any color.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|: Dostajesz jedną manę dowolnego koloru.\""
 
 #: ../../GRN.rst:1229
+#, fuzzy
 msgid "Vigorspore Wurm"
-msgstr ""
+msgstr "Vigorspore Wurm"
 
 #: ../../GRN.rst:1226
 msgid ""
@@ -1853,41 +1854,48 @@ msgstr ""
 
 #: ../../GRN.rst:1228
 msgid "Vigorspore Wurm can't be blocked by more than one creature."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez więcej niż jednego stwora."
 
 #: ../../GRN.rst:1236
+#, fuzzy
 msgid "Vivid Revival"
-msgstr ""
+msgstr "Vivid Revival"
 
 #: ../../GRN.rst:1235
 msgid ""
 "Return up to three target multicolored cards from your graveyard to your "
 "hand. Exile Vivid Revival."
 msgstr ""
+"Przywróć co najwyżej trzy wskazane wielokolorowe karty z twojego cmentarza "
+"do twojej ręki. Wypędź tę kartę."
 
 #: ../../GRN.rst:1243
+#, fuzzy
 msgid "Wary Okapi"
-msgstr ""
+msgstr "Wary Okapi"
 
 #: ../../GRN.rst:1248
+#, fuzzy
 msgid "Wild Ceratok"
-msgstr ""
+msgstr "Wild Ceratok"
 
 #: ../../GRN.rst:1261
+#, fuzzy
 msgid "Artful Takedown"
-msgstr ""
+msgstr "Artful Takedown"
 
 #: ../../GRN.rst:1258
 msgid "Tap target creature."
-msgstr ""
+msgstr "Zaznacz wskazanego stwora."
 
 #: ../../GRN.rst:1260
 msgid "Target creature gets -2/-4 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -2/-4 do końca tury."
 
 #: ../../GRN.rst:1268
+#, fuzzy
 msgid "Assassin's Trophy"
-msgstr ""
+msgstr "Assassin's Trophy"
 
 #: ../../GRN.rst:1267
 msgid ""
@@ -1895,10 +1903,14 @@ msgid ""
 "their library for a basic land card, put it onto the battlefield, then "
 "shuffle their library."
 msgstr ""
+"Zniszcz wskazany permanent władany przez przeciwnika. Jego władca może "
+"poszukać w swojej bibliotece kartę bazowego lądu, położyć ją zaznaczoną na "
+"polu walki, a następnie przetasować swoją bibliotekę."
 
 #: ../../GRN.rst:1279
+#, fuzzy
 msgid "Aurelia, Exemplar of Justice"
-msgstr ""
+msgstr "Aurelia, Exemplar of Justice"
 
 #: ../../GRN.rst:1278
 msgid ""
