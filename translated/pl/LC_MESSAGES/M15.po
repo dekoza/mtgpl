@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 17:58+0000\n"
+"PO-Revision-Date: 2018-12-16 18:23+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -214,7 +214,7 @@ msgstr ""
 # 7031ec86bd114230b1485de982183e99
 #: ../../M15.rst:82
 msgid "Exile target attacking or blocking creature."
-msgstr ""
+msgstr "Wygnaj wskazanego atakującego lub blokującego stwora."
 
 # 56e3ba1e8e2c4599b4fe169479e6c183
 #: ../../M15.rst:94
@@ -229,7 +229,7 @@ msgstr ""
 # deed217d815844a3b21ce3bd4661a4c8
 #: ../../M15.rst:93
 msgid "Enchanted creature gets +1/+3."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+3."
 
 # 5b4641f9c87a4c1388c96175f626c686
 #: ../../M15.rst:103
@@ -463,7 +463,7 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
 msgstr ""
-"Latanie (Ten stwór może być blokowany tylko przez stwory z lataniem lub "
+"Latanie (Ten stwór nie może być blokowany za wyjątkiem stworów z lataniem i "
 "zasięgiem.)"
 
 # 0e3b9a2be75b406f81a7c1ff0ae352e6
@@ -1753,6 +1753,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być celem czarów i zdolności władanych przez "
+"twoich przeciwników.)"
 
 # 00890d25595f4deb95b24b03a548d5d3
 #: ../../M15.rst:1029
@@ -3446,8 +3448,9 @@ msgstr ""
 
 # 9a22be02cf754e07a20492dde06748a1
 #: ../../M15.rst:2212
+#, fuzzy
 msgid "Aegis Angel"
-msgstr ""
+msgstr "Aegis Angel"
 
 #: ../../M15.rst:2211
 msgid ""
