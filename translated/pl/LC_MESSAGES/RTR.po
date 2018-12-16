@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -384,8 +384,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much"
 " life.)"
 msgstr ""
-"Więź życia (Obrażenia zadane przez tego stwora powodują, że zyskujesz "
-"tyle samo życia.)"
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo życia.)"
 
 #: ../../RTR.rst:224
 msgid "Trostani's Judgment"
@@ -2082,7 +2082,7 @@ msgstr "Goblin Electromancer (Goblin Elektromanta)"
 
 #: ../../RTR.rst:1310
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie sztuczek i guseł kosztuje cię |mana_1| mniej."
+msgstr "Rzucanie sztuczek i obrzędów kosztuje cię |mana_1| mniej."
 
 #: ../../RTR.rst:1324
 msgid "Golgari Charm"
@@ -3008,9 +3008,8 @@ msgid "Golgari Keyrune"
 msgstr ""
 
 #: ../../RTR.rst:1890 ../../RTR.rst:1986
-#, fuzzy
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_g| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../RTR.rst:1892
 msgid ""
@@ -3025,9 +3024,8 @@ msgid "Izzet Keyrune"
 msgstr ""
 
 #: ../../RTR.rst:1899 ../../RTR.rst:2013
-#, fuzzy
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dodaj |mana_u| lub |mana_r| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../RTR.rst:1901
 msgid ""
@@ -3084,9 +3082,8 @@ msgid "Selesnya Keyrune"
 msgstr ""
 
 #: ../../RTR.rst:1928 ../../RTR.rst:2049
-#, fuzzy
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dodaj |mana_g| lub |mana_w| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../RTR.rst:1930
 msgid ""
@@ -3180,7 +3177,7 @@ msgstr ""
 
 #: ../../RTR.rst:1984
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr "Golgari Guildgate wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 #: ../../RTR.rst:1996
 msgid "Grove of the Guardian"
@@ -3188,7 +3185,7 @@ msgstr ""
 
 #: ../../RTR.rst:1993 ../../RTR.rst:2038
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../RTR.rst:1995
 #, fuzzy
@@ -3224,16 +3221,15 @@ msgstr "Izzet Guildgate (Brama Gildii Izzet)"
 
 #: ../../RTR.rst:2011
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr "Izzet Guildgate wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 #: ../../RTR.rst:2023
 msgid "Overgrown Tomb"
-msgstr ""
+msgstr "Overgrown Tomb (Przerośnięty grobowiec)"
 
 #: ../../RTR.rst:2020
-#, fuzzy
 msgid "(|tap|: Add |mana_b| or |mana_g|.)"
-msgstr "(|tap|: Dodaj |mana_b| lub |mana_g| do twojej puli many.)"
+msgstr "(|tap|: Dostajesz |mana_b| lub |mana_g|.)"
 
 #: ../../RTR.rst:2022
 msgid ""
@@ -3265,16 +3261,16 @@ msgstr "Selesnya Guildgate (Brama Gildii Selesnya)"
 
 #: ../../RTR.rst:2047
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr "Selesnya Guildgate wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 #: ../../RTR.rst:2059
+#, fuzzy
 msgid "Steam Vents"
-msgstr ""
+msgstr "Steam Vents"
 
 #: ../../RTR.rst:2056
-#, fuzzy
 msgid "(|tap|: Add |mana_u| or |mana_r|.)"
-msgstr "(|tap|: Dodaj |mana_u| lub |mana_r| do twojej puli many.)"
+msgstr "(|tap|: Dostajesz |mana_u| lub |mana_r|.)"
 
 #: ../../RTR.rst:2058
 msgid ""
@@ -3286,12 +3282,11 @@ msgstr ""
 
 #: ../../RTR.rst:2068
 msgid "Temple Garden"
-msgstr ""
+msgstr "Temple Garden (Świątynny Ogród)"
 
 #: ../../RTR.rst:2065
-#, fuzzy
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
-msgstr "(|tap|: Dodaj |mana_g| lub |mana_w| do twojej puli many.)"
+msgstr "(|tap|: Dostajesz |mana_g| lub |mana_w|.)"
 
 #: ../../RTR.rst:2067
 msgid ""
