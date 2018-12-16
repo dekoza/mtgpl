@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 18:23+0000\n"
+"PO-Revision-Date: 2018-12-16 21:55+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -2343,9 +2343,8 @@ msgstr "Boros Cluestone"
 # 1e5fda36d8024873ba90c9b0a7a30328
 # Słusznie przetłumaczone "or" - musi być "albo", gdyż w języku polskim "lub" zawiera w sobie "oraz". Taka tam logiczna ciekawostka :P
 #: ../../DGM.rst:1261 ../../DGM.rst:1353
-#, fuzzy
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 # 01444424672440afaf0a5fdc052ee04d
 #: ../../DGM.rst:1263
@@ -2360,9 +2359,8 @@ msgstr ""
 # e8beadacee2745e88068af9a300784c8
 # 4c4ea7a4ad59439d9402e05cc20d8410
 #: ../../DGM.rst:1270 ../../DGM.rst:1362
-#, fuzzy
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dodaj |mana_u| lub |mana_b| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 # 62a1721c795c4062a68cda8932825489
 #: ../../DGM.rst:1272
