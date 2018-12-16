@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 18:23+0000\n"
+"PO-Revision-Date: 2018-12-16 21:03+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -1853,9 +1853,8 @@ msgid "Choose one —"
 msgstr ""
 
 #: ../../RTR.rst:1166
-#, fuzzy
 msgid "Creatures you control gain lifelink until end of turn."
-msgstr "Wskazany stwór, którym władasz, dostaje +2/+0 do końca tury."
+msgstr "Stwory pod twoim władaniem zyskują więź życia do końca tury."
 
 #: ../../RTR.rst:1170
 #, fuzzy
