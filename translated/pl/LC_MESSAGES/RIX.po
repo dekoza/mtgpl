@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 00:05+0000\n"
+"PO-Revision-Date: 2018-12-16 00:35+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -32,12 +32,16 @@ msgid ""
 "When Baffling End enters the battlefield, exile target creature an opponent "
 "controls with converted mana cost 3 or less."
 msgstr ""
+"Kiedy ten urok wchodzi na pole walki, wypędź wskazanego stwora o łącznym "
+"koszcie many 3 lub mniej spod władania przeciwnika."
 
 #: ../../RIX.rst:14
 msgid ""
 "When Baffling End leaves the battlefield, target opponent creates a 3/3 "
 "green Dinosaur creature token with trample."
 msgstr ""
+"Kiedy ten urok opuszcza pole bitwy, wskazany przeciwnik tworzy żeton "
+"zielonego stwora Dinozaur 3/3 z tratowaniem."
 
 #: ../../RIX.rst:24
 msgid "Bishop of Binding"
@@ -62,7 +66,7 @@ msgstr ""
 #: ../../RIX.rst:30
 msgid ""
 "Exile target creature with power greater than or equal to your life total."
-msgstr ""
+msgstr "Wypędź wskazanego stwora o sile większej lub równej twojemu życiu."
 
 #: ../../RIX.rst:42
 msgid "Cleansing Ray"
@@ -86,7 +90,7 @@ msgstr ""
 
 #: ../../RIX.rst:48
 msgid "Destroy target attacking or blocking creature."
-msgstr ""
+msgstr "Zniszcz wskazanego atakującego lub blokującego stwora."
 
 #: ../../RIX.rst:56
 msgid "Everdawn Champion"
