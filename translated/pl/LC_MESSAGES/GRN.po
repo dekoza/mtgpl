@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 15:06+0000\n"
+"PO-Revision-Date: 2018-12-16 16:56+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -1747,19 +1747,24 @@ msgstr ""
 
 #: ../../GRN.rst:1139
 msgid "You can't cast noncreature spells."
-msgstr ""
+msgstr "Nie możesz rzucać czarów nie będących stworami."
 
 #: ../../GRN.rst:1141
 msgid ""
 "|mana_2|: Nullhide Ferox loses all abilities until end of turn. Any player "
 "may activate this ability."
 msgstr ""
+"|mana_2|: Ten stwór traci wszystkie zdolności do końca tury. Każdy gracz "
+"może aktywować tę zdolność."
 
 #: ../../GRN.rst:1143
 msgid ""
 "If a spell or ability an opponent controls causes you to discard Nullhide "
 "Ferox, put it onto the battlefield instead of putting it into your graveyard."
 msgstr ""
+"Jeśli czar lub zdolność władane przez przeciwnika zmusza cię do odrzucenia "
+"tej karty, połóż tę kartę na polu walki zamiast umieszczać ją w twoim "
+"cmentarzu."
 
 #: ../../GRN.rst:1153
 msgid "Pack's Favor"
@@ -1783,12 +1788,15 @@ msgid ""
 "that creature's power is greater than Pelt Collector's, put a +1/+1 counter "
 "on Pelt Collector."
 msgstr ""
+"Ilekroć inny władany przez ciebie stwór wchodzi na pole walki lub umiera, "
+"jeśli siła owego stwora jest większa niż siła tego stwora, połóż znacznik +1/"
+"+1 na tym stworze."
 
 #: ../../GRN.rst:1170
 msgid ""
 "As long as Pelt Collector has three or more +1/+1 counters on it, it has "
 "trample."
-msgstr ""
+msgstr "O ile ten stwór ma co najmniej trzy znaczniki +1/+1, ma tratowanie."
 
 #: ../../GRN.rst:1180
 msgid "Portcullis Vine"
@@ -1796,7 +1804,7 @@ msgstr ""
 
 #: ../../GRN.rst:1179
 msgid "|mana_2|, |tap|, Sacrifice a creature with defender: Draw a card."
-msgstr ""
+msgstr "|mana_2|, |tap|, poświęć stwora obrońcę: Dobierz kartę."
 
 #: ../../GRN.rst:1187
 msgid "Prey Upon"
@@ -1807,10 +1815,12 @@ msgid ""
 "Target creature you control fights target creature you don't control. (Each "
 "deals damage equal to its power to the other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem, którym nie "
+"władasz. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../GRN.rst:1196
 msgid "Siege Wurm"
-msgstr ""
+msgstr "Siege Wurm (Żmij oblężniczy)"
 
 #: ../../GRN.rst:1209
 msgid "Sprouting Renewal"
@@ -1818,7 +1828,7 @@ msgstr ""
 
 #: ../../GRN.rst:1206
 msgid "Create a 2/2 green and white Elf Knight creature token with vigilance."
-msgstr ""
+msgstr "Stwórz żeton zielono-białego stwora Elfi Rycerz z czujnością."
 
 #: ../../GRN.rst:1208 ../../GRN.rst:1528
 msgid "Destroy target artifact or enchantment."
@@ -1959,6 +1969,8 @@ msgid ""
 "You gain X life and draw X cards, where X is the number of creatures you "
 "control. Creatures you control get +1/+1 until end of turn."
 msgstr ""
+"Zyskujesz X życia i dobierasz X kart, gdzie X jest liczbą stworów pod twoim "
+"władaniem. Stwory pod twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../GRN.rst:1318
 msgid "Centaur Peacemaker"
@@ -2109,7 +2121,7 @@ msgstr ""
 
 #: ../../GRN.rst:1423
 msgid "Etrata, the Silencer can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../GRN.rst:1425
 msgid ""
@@ -2162,11 +2174,11 @@ msgstr ""
 
 #: ../../GRN.rst:1458
 msgid "Goblin Electromancer"
-msgstr ""
+msgstr "Goblin Electromancer (Goblin Elektromanta)"
 
 #: ../../GRN.rst:1457
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie sztuczek i guseł kosztuje cię |mana_1| mniej."
 
 #: ../../GRN.rst:1465
 msgid "Golgari Findbroker"
@@ -2255,11 +2267,12 @@ msgstr ""
 
 #: ../../GRN.rst:1517
 msgid "Target creature deals damage to itself equal to its power."
-msgstr ""
+msgstr "Wskazany stwór zadaje sam sobie obrażenia równe swojej sile."
 
 #: ../../GRN.rst:1531
+#, fuzzy
 msgid "Knight of Autumn"
-msgstr ""
+msgstr "Knight of Autumn"
 
 #: ../../GRN.rst:1524
 msgid "When Knight of Autumn enters the battlefield, choose one —"
@@ -2343,7 +2356,7 @@ msgstr ""
 
 #: ../../GRN.rst:1575
 msgid "Create X 1/1 white Soldier creature tokens with lifelink."
-msgstr ""
+msgstr "Stwórz X żetonów białego stwora Piechur 1/1 z więzią życia."
 
 #: ../../GRN.rst:1585
 msgid "Mnemonic Betrayal"
@@ -2383,7 +2396,7 @@ msgstr ""
 
 #: ../../GRN.rst:1600
 msgid "Flying, deathtouch"
-msgstr ""
+msgstr "Latanie, dotyk śmierci"
 
 #: ../../GRN.rst:1616
 msgid "Niv-Mizzet, Parun"
@@ -2419,7 +2432,7 @@ msgstr ""
 
 #: ../../GRN.rst:1631
 msgid "All creatures able to block Ochran Assassin do so."
-msgstr ""
+msgstr "Wszystkie stwory mogące blokować tego stwora, robią to."
 
 #: ../../GRN.rst:1643
 msgid "Ral, Izzet Viceroy"
@@ -2455,7 +2468,7 @@ msgstr ""
 
 #: ../../GRN.rst:1659
 msgid "Rosemane Centaur"
-msgstr ""
+msgstr "Rosemane Centaur (Centaur różanogrzywy)"
 
 #: ../../GRN.rst:1666
 msgid "Skyknight Legionnaire"
@@ -2470,6 +2483,7 @@ msgid ""
 "Tap target creature. Sonic Assault deals 2 damage to that creature's "
 "controller."
 msgstr ""
+"Zaznacz wskazanego stwora. Ta karta zadaje 2 obrażenia władcy owego stwora."
 
 #: ../../GRN.rst:1682
 msgid "Sumala Woodshaper"
@@ -2482,6 +2496,10 @@ msgid ""
 "and put it into your hand. Put the rest on the bottom of your library in a "
 "random order."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę stwora lub uroku i "
+"dołożyć ją do twojej ręki. Połóż pozostałe karty na spodzie twojej "
+"biblioteki w losowej kolejności."
 
 #: ../../GRN.rst:1691
 msgid "Swarm Guildmage"
@@ -2513,7 +2531,7 @@ msgstr ""
 
 #: ../../GRN.rst:1706
 msgid "Double strike, vigilance, trample"
-msgstr ""
+msgstr "Podwójny cios, czujność, tratowanie"
 
 #: ../../GRN.rst:1720
 msgid "Tajic, Legion's Edge"
@@ -2532,7 +2550,7 @@ msgstr ""
 
 #: ../../GRN.rst:1729
 msgid "Thief of Sanity"
-msgstr ""
+msgstr "Thief of Sanity (Złodziej świadomości)"
 
 #: ../../GRN.rst:1728
 msgid ""
@@ -2542,16 +2560,23 @@ msgid ""
 "long as it remains exiled, and you may spend mana as though it were mana of "
 "any type to cast that spell."
 msgstr ""
+"Ilekroć ten stwór zada graczowi bitewne obrażenia, spójrz na trzy wierzchnie "
+"karty biblioteki owego gracza, wygnaj jedną z nich wierzchem w dół, a "
+"następnie połóż pozostałe w jego cmentarzu. Możesz patrzeć na ową kartę oraz "
+"rzucać ją dopóki pozostaje wygnana oraz możesz wydawać manę, jakby to była "
+"mana dowolnego koloru potrzebnego do rzucenia owego czaru."
 
 #: ../../GRN.rst:1738
 msgid "Thought Erasure"
-msgstr ""
+msgstr "Thought Erasure (Wymazanie myśli)"
 
 #: ../../GRN.rst:1735
 msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it. That "
 "player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
+"lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../GRN.rst:1737
 msgid ""
@@ -2563,7 +2588,7 @@ msgstr ""
 
 #: ../../GRN.rst:1745
 msgid "Thousand-Year Storm"
-msgstr ""
+msgstr "Thousand-Year Storm (Tysiącletnia burza)"
 
 #: ../../GRN.rst:1744
 msgid ""
@@ -2571,6 +2596,9 @@ msgid ""
 "instant and sorcery spell you've cast before it this turn. You may choose "
 "new targets for the copies."
 msgstr ""
+"Ilekroć rzucasz sztuczkę lub gusła, skopiuj ów czar tyle razy, ile wcześniej "
+"rzuciłeś sztuczek lub guseł w tej turze. Możesz wskazać nowe cele dla owych "
+"kopii."
 
 #: ../../GRN.rst:1756
 msgid "Trostani Discordant"
@@ -2578,19 +2606,23 @@ msgstr ""
 
 #: ../../GRN.rst:1751
 msgid "Other creatures you control get +1/+1."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../GRN.rst:1753
 msgid ""
 "When Trostani Discordant enters the battlefield, create two 1/1 white "
 "Soldier creature tokens with lifelink."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, stwórz dwa żetony białego stwora "
+"Piechur 1/1 z więzią życia."
 
 #: ../../GRN.rst:1755
 msgid ""
 "At the beginning of your end step, each player gains control of all "
 "creatures they own."
 msgstr ""
+"Na początku twojego kroku zakończenia, każdy gracz zyskuje władanie nad "
+"wszystkimi własnymi stworami."
 
 #: ../../GRN.rst:1765
 msgid "Truefire Captain"
@@ -2601,6 +2633,8 @@ msgid ""
 "Whenever Truefire Captain is dealt damage, it deals that much damage to "
 "target player."
 msgstr ""
+"Ilekroć ten stwór otrzymuje obrażenia, zadaje tyle samo obrażeń wskazanemu "
+"graczowi."
 
 #: ../../GRN.rst:1772
 msgid "Undercity Uprising"
@@ -2612,6 +2646,9 @@ msgid ""
 "creature you control fights target creature you don't control. (Each deals "
 "damage equal to its power to the other.)"
 msgstr ""
+"Stwory pod twoim władaniem zyskują dotyk śmierci do końca tury. Następnie "
+"wskazany stwór pod twoim władaniem walczy ze wskazanym stworem, którym nie "
+"władasz. (Zadają sobie nawzajem obrażenia równe ich sile.)"
 
 #: ../../GRN.rst:1781
 msgid "Underrealm Lich"
@@ -2622,11 +2659,15 @@ msgid ""
 "If you would draw a card, instead look at the top three cards of your "
 "library, then put one into your hand and the rest into your graveyard."
 msgstr ""
+"Kiedy miałbyś dobrać kartę, zamiast tego spójrz na trzy wierzchnie karty "
+"twojej biblioteki, a następnie dołóż jedną z nich do twojej ręki, a "
+"pozostałe daj do twojego cmentarza."
 
 #: ../../GRN.rst:1780
 msgid ""
 "Pay 4 life: Underrealm Lich gains indestructible until end of turn. Tap it."
 msgstr ""
+"Zapłać 4 życia: Ten stwór zyskuje niezniszczalność do końca tury. Zaznacz go."
 
 #: ../../GRN.rst:1788
 msgid "Unmoored Ego"
@@ -2639,10 +2680,14 @@ msgid ""
 "their library, then draws a card for each card exiled from their hand this "
 "way."
 msgstr ""
+"Wybierz nazwę karty. Wyszukaj w cmentarzu, ręce oraz bibliotece wskazanego "
+"przeciwnika co najwyżej cztery karty o owej nazwie i wygnaj je. Ów gracz "
+"tasuje swoją bibliotekę, a następnie dobiera kartę za każdą z kart wygnanych "
+"ze swojej ręki w ten sposób."
 
 #: ../../GRN.rst:1799
 msgid "Vraska, Golgari Queen"
-msgstr ""
+msgstr "Vraska, Golgari Queen (Vraska, królowa Golgari)"
 
 #: ../../GRN.rst:1794
 msgid ""
@@ -2670,6 +2715,7 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 "
 "until end of turn."
 msgstr ""
+"Ilekroć rzucasz sztuczkę lub gusła, ten stwór dostaje +2/+0 do końca tury."
 
 #: ../../GRN.rst:1817
 msgid "Worldsoul Colossus"
@@ -2677,7 +2723,7 @@ msgstr ""
 
 #: ../../GRN.rst:1816
 msgid "Worldsoul Colossus enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki mając na sobie X znaczników +1/+1."
 
 #: ../../GRN.rst:1824
 msgid "Fresh-Faced Recruit"
