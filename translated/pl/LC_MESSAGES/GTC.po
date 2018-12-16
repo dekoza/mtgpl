@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -3703,7 +3703,7 @@ msgstr ""
 # a303781413a341c487e1f8d439eb00a4
 #: ../../GTC.rst:1265
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Boros Guildgate wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 # d242917238044f3faffb800675d4a107
 #: ../../GTC.rst:1274
@@ -3733,7 +3733,7 @@ msgstr ""
 # 6ea92957886b4a7ca5445808e11fee79
 #: ../../GTC.rst:1277
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr "Dimir Guildgate wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zaznaczony."
 
 # 5caaa0abcf434d7588c68e7a046862c0
 #: ../../GTC.rst:1286
@@ -3778,13 +3778,12 @@ msgstr "Orzhov Guildgate wchodzi na pole walki zaznaczony."
 # b2855b057ada4f448301abc9f7db9f1e
 #: ../../GTC.rst:1304
 msgid "Sacred Foundry"
-msgstr ""
+msgstr "Sacred Foundry (Uświęcona Odlewnia)"
 
 # 229c63430fcb4c87a73179a1d09088a4
 #: ../../GTC.rst:1301
-#, fuzzy
 msgid "(|tap|: Add |mana_r| or |mana_w|.)"
-msgstr "(|tap|: Dodaj |mana_r| lub |mana_w| do twojej puli many.)"
+msgstr "(|tap|: Dostajesz |mana_r| lub |mana_w|.)"
 
 # 295e2ebe1d7540e1adb870a86fa679e9
 #: ../../GTC.rst:1303
@@ -3832,7 +3831,7 @@ msgstr ""
 
 #: ../../GTC.rst:1319
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 # 9259671adf2f45d0a5b9b5be9f054817
 #: ../../GTC.rst:1321
@@ -3847,13 +3846,12 @@ msgstr ""
 # b3fb039a177945dca0a681f2c2e1854f
 #: ../../GTC.rst:1327
 msgid "Watery Grave"
-msgstr ""
+msgstr "Watery Grave (Wodny Grób)"
 
 # cdf762e140a04a50ab34a79f958e5903
 #: ../../GTC.rst:1325
-#, fuzzy
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr "(|tap|: Dodaj |mana_u| lub |mana_b| do twojej puli many.)"
+msgstr "(|tap|: Dostajesz |mana_u| lub |mana_b|.)"
 
 # ba0fa5df0cb1461dbf5fd52a2ddca2c6
 #: ../../GTC.rst:1327
