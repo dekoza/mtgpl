@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 14:52+0000\n"
+"PO-Revision-Date: 2018-12-16 15:06+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dtk/pl/>\n"
 "Language: pl\n"
@@ -350,7 +350,7 @@ msgstr ""
 
 #: ../../DTK.rst:236
 msgid "Tap target creature."
-msgstr ""
+msgstr "Zaznacz wskazanego stwora."
 
 #: ../../DTK.rst:238
 msgid "Ojutai Exemplars gains first strike and lifelink until end of turn."
@@ -2271,7 +2271,7 @@ msgstr ""
 
 #: ../../DTK.rst:1634
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../DTK.rst:1644
 msgid "Obscuring Aether"
@@ -2429,7 +2429,7 @@ msgstr ""
 
 #: ../../DTK.rst:1737
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../DTK.rst:1739
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
