@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2014-12-24 11:20+0200\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
-"Language-Team: logrus\n"
+"PO-Revision-Date: 2018-12-16 00:05+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/bng/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 "X-POOTLE-MTIME: 1391098335.778030\n"
 
 # 002c0f8b22fd47fca10fa6654a5b2208
@@ -197,9 +197,8 @@ msgstr ""
 # ae36482d85ee4460805c93b1068959bf
 # ca9b2130e80b482eb40c5d942380b09b
 #: ../../BNG.rst:61
-#, fuzzy
 msgid "Destroy target enchantment."
-msgstr "Zniszcz wskazanego odznaczonego stwora."
+msgstr "Zniszcz wskazany urok."
 
 # 8c8eb2e92b46423885166791903a1a2f
 # c4b4c1007ceb440baaa3dc1eb8d1c2ec
