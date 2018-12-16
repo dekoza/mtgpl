@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 21:03+0000\n"
+"PO-Revision-Date: 2018-12-16 21:55+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -2956,20 +2956,19 @@ msgstr ""
 "niebieskim artefaktycznym stworem Bird 2/2 z Lataniem."
 
 #: ../../RTR.rst:1866
+#, fuzzy
 msgid "Chromatic Lantern"
-msgstr ""
+msgstr "Chromatic Lantern"
 
 #: ../../RTR.rst:1863
-#, fuzzy
 msgid "Lands you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
-"Lądy, którymi władasz mają \\\"|tap|: Dodaj jedną manę dowolnego koloru "
-"do twojej puli many.\\\""
+"Lądy pod twoim władaniem mają \"|tap|: Dostajesz jedną manę dowolnego koloru."
+"\""
 
 #: ../../RTR.rst:1865 ../../RTR.rst:2078
-#, fuzzy
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dodaj jedną manę dowolnego koloru do twojej puli many."
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../RTR.rst:1875
 msgid "Civic Saber"
