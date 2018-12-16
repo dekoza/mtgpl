@@ -6,2829 +6,2979 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-29 11:21+0100\n"
+"POT-Creation-Date: 2018-12-15 23:59+0100\n"
 "PO-Revision-Date: 2018-12-16 00:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<10 || n%100>=20) ? 1 : 2\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
-"X-POOTLE-MTIME: 1391100385.317960\n"
+"Generated-By: Babel 2.6.0\n"
 
-# 6d9a62858a6045079f179f53b513973f
 #: ../../AVR.rst:5
 msgid "Avacyn Restored"
 msgstr ""
 
-# 7fa9e007af9e43ff881680f6c3cd510a
-#: ../../AVR.rst:13
-msgid "Abundant Growth"
+#: ../../AVR.rst:15
+msgid "Angel of Glory's Rise"
 msgstr ""
 
-# 3b2bbfb7434f4bb98a9fcf4c05d5da8e
-#: ../../AVR.rst:8
-msgid "Enchant land"
-msgstr "Zaurocz ląd"
+#: ../../AVR.rst:12 ../../AVR.rst:21 ../../AVR.rst:41 ../../AVR.rst:156
+#: ../../AVR.rst:188 ../../AVR.rst:197 ../../AVR.rst:236 ../../AVR.rst:263
+#: ../../AVR.rst:290 ../../AVR.rst:333 ../../AVR.rst:429 ../../AVR.rst:486
+#: ../../AVR.rst:550 ../../AVR.rst:559 ../../AVR.rst:778 ../../AVR.rst:787
+#: ../../AVR.rst:918 ../../AVR.rst:966
+msgid "Flying"
+msgstr "Latanie"
 
-# 8bbaf471f8174f3d8e0b5ae5ca003904
-#: ../../AVR.rst:10
-msgid "When Abundant Growth enters the battlefield, draw a card."
+#: ../../AVR.rst:14
+msgid ""
+"When Angel of Glory's Rise enters the battlefield, exile all Zombies, "
+"then return all Human creature cards from your graveyard to the "
+"battlefield."
 msgstr ""
 
-# b5c4d088f9224d26871658a228726b2f
-#: ../../AVR.rst:12
-msgid "Enchanted land has \\\"|tap|: Add one mana of any color to your mana pool.\\\""
+#: ../../AVR.rst:26
+msgid "Angel of Jubilation"
 msgstr ""
 
-# 196d8ebd354c4c4d8e4e58efe48e03ad
-#: ../../AVR.rst:17
-msgid "Aggravate"
+#: ../../AVR.rst:23
+msgid "Other nonblack creatures you control get +1/+1."
+msgstr "Inne nieczarne stwory, którymi władasz, dostają +1/+1."
+
+#: ../../AVR.rst:25
+msgid ""
+"Players can't pay life or sacrifice creatures to cast spells or activate "
+"abilities."
 msgstr ""
 
-# 67d008625a43470da53a9c59023344a1
-#: ../../AVR.rst:16
-msgid "Aggravate deals 1 damage to each creature target player controls. Each creature dealt damage this way attacks this turn if able."
+#: ../../AVR.rst:33
+msgid "Angel's Mercy"
+msgstr "Angel's Mercy (Litość Anioła)"
+
+#: ../../AVR.rst:32
+msgid "You gain 7 life."
+msgstr "Zyskujesz 7 życia."
+
+#: ../../AVR.rst:42
+msgid "Angelic Wall"
+msgstr "Angelic Wall (Anielska Ściana)"
+
+#: ../../AVR.rst:39
+msgid "Defender (This creature can't attack.)"
+msgstr "Obronność (Ten stwór nie może atakować.)"
+
+#: ../../AVR.rst:49
+msgid "Archangel"
 msgstr ""
 
-# 985a8c503d5a429c882b8b83cdb4f8e7
-#: ../../AVR.rst:21
+#: ../../AVR.rst:48 ../../AVR.rst:1687
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../AVR.rst:58
+msgid "Avacyn, Angel of Hope"
+msgstr ""
+
+#: ../../AVR.rst:55
+msgid "Flying, vigilance, indestructible"
+msgstr "Latanie, czujność, niezniszczalność"
+
+#: ../../AVR.rst:57
+msgid "Other permanents you control have indestructible."
+msgstr "Inne permanenty, którymi władasz, mają niezniszczalność."
+
+#: ../../AVR.rst:67
+msgid "Banishing Stroke"
+msgstr ""
+
+#: ../../AVR.rst:64
+msgid ""
+"Put target artifact, creature, or enchantment on the bottom of its "
+"owner's library."
+msgstr ""
+
+#: ../../AVR.rst:66 ../../AVR.rst:319
+msgid ""
+"Miracle |mana_w| (You may cast this card for its miracle cost when you "
+"draw it if it's the first card you drew this turn.)"
+msgstr ""
+
+#: ../../AVR.rst:74
+msgid "Builder's Blessing"
+msgstr ""
+
+#: ../../AVR.rst:73
+msgid "Untapped creatures you control get +0/+2."
+msgstr "Niezaznaczone stwory, którymi władasz, dostają +0/+2."
+
+#: ../../AVR.rst:83
+msgid "Call to Serve"
+msgstr ""
+
+#: ../../AVR.rst:80
+msgid "Enchant nonblack creature"
+msgstr "Zaurocz nieczarnego stwora"
+
+#: ../../AVR.rst:82
+msgid ""
+"Enchanted creature gets +1/+2, has flying, and is an Angel in addition to"
+" its other types."
+msgstr ""
+
+#: ../../AVR.rst:90
+msgid "Cathars' Crusade"
+msgstr ""
+
+#: ../../AVR.rst:89
+msgid ""
+"Whenever a creature enters the battlefield under your control, put a "
+"+1/+1 counter on each creature you control."
+msgstr ""
+"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, połóż znacznik "
+"+1/+1 na każdym stworze, którym władasz."
+
+#: ../../AVR.rst:97
+msgid "Cathedral Sanctifier"
+msgstr ""
+
+#: ../../AVR.rst:96
+msgid "When Cathedral Sanctifier enters the battlefield, you gain 3 life."
+msgstr ""
+
+#: ../../AVR.rst:104
+msgid "Cloudshift"
+msgstr ""
+
+#: ../../AVR.rst:103
+msgid ""
+"Exile target creature you control, then return that card to the "
+"battlefield under your control."
+msgstr ""
+
+#: ../../AVR.rst:113
+msgid "Commander's Authority"
+msgstr ""
+
+#: ../../AVR.rst:110 ../../AVR.rst:126 ../../AVR.rst:477 ../../AVR.rst:502
+#: ../../AVR.rst:612 ../../AVR.rst:623 ../../AVR.rst:842 ../../AVR.rst:948
+#: ../../AVR.rst:1005 ../../AVR.rst:1076 ../../AVR.rst:1110 ../../AVR.rst:1178
+#: ../../AVR.rst:1196 ../../AVR.rst:1474
+msgid "Enchant creature"
+msgstr "Zaurocz stwora"
+
+#: ../../AVR.rst:112
+msgid ""
+"Enchanted creature has \"At the beginning of your upkeep, create a 1/1 "
+"white Human creature token.\""
+msgstr ""
+
+#: ../../AVR.rst:120
+msgid "Cursebreak"
+msgstr ""
+
+#: ../../AVR.rst:119
+msgid "Destroy target enchantment. You gain 2 life."
+msgstr "Zniszcz wskazany urok. Zyskujesz 2 życia."
+
+#: ../../AVR.rst:129
+msgid "Defang"
+msgstr ""
+
+#: ../../AVR.rst:128
+msgid "Prevent all damage that would be dealt by enchanted creature."
+msgstr ""
+"Zażegnaj wszystkie obrażenia, które mogłyby zostać zadane zauroczonemu "
+"stworowi."
+
+#: ../../AVR.rst:136
+msgid "Defy Death"
+msgstr ""
+
+#: ../../AVR.rst:135
+msgid ""
+"Return target creature card from your graveyard to the battlefield. If "
+"it's an Angel, put two +1/+1 counters on it."
+msgstr ""
+"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Jeśli "
+"to Anioł, połóż na nim dwa znaczniki +1/+1."
+
+#: ../../AVR.rst:143
+msgid "Devout Chaplain"
+msgstr ""
+
+#: ../../AVR.rst:142
+msgid ""
+"|tap|, Tap two untapped Humans you control: Exile target artifact or "
+"enchantment."
+msgstr ""
+
+#: ../../AVR.rst:150
+msgid "Divine Deflection"
+msgstr ""
+
+#: ../../AVR.rst:149
+msgid ""
+"Prevent the next X damage that would be dealt to you and/or permanents "
+"you control this turn. If damage is prevented this way, Divine Deflection"
+" deals that much damage to any target."
+msgstr ""
+
+#: ../../AVR.rst:159
+msgid "Emancipation Angel"
+msgstr ""
+
+#: ../../AVR.rst:158
+msgid ""
+"When Emancipation Angel enters the battlefield, return a permanent you "
+"control to its owner's hand."
+msgstr ""
+
+#: ../../AVR.rst:168
+msgid "Entreat the Angels"
+msgstr ""
+
+#: ../../AVR.rst:165
+msgid "Create X 4/4 white Angel creature tokens with flying."
+msgstr ""
+
+#: ../../AVR.rst:167
+msgid ""
+"Miracle |mana_x| |mana_w| |mana_w| (You may cast this card for its "
+"miracle cost when you draw it if it's the first card you drew this turn.)"
+msgstr ""
+
+#: ../../AVR.rst:175
+msgid "Farbog Explorer"
+msgstr ""
+
+#: ../../AVR.rst:174
+msgid ""
+"Swampwalk (This creature can't be blocked as long as defending player "
+"controls a Swamp.)"
+msgstr ""
+
+#: ../../AVR.rst:182
+msgid "Goldnight Commander"
+msgstr ""
+
+#: ../../AVR.rst:181
+msgid ""
+"Whenever another creature enters the battlefield under your control, "
+"creatures you control get +1/+1 until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:191
+msgid "Goldnight Redeemer"
+msgstr ""
+
+#: ../../AVR.rst:190
+msgid ""
+"When Goldnight Redeemer enters the battlefield, you gain 2 life for each "
+"other creature you control."
+msgstr ""
+
+#: ../../AVR.rst:202
+msgid "Herald of War"
+msgstr ""
+
+#: ../../AVR.rst:199
+msgid "Whenever Herald of War attacks, put a +1/+1 counter on it."
+msgstr ""
+
+#: ../../AVR.rst:201
+msgid ""
+"Angel spells and Human spells you cast cost |mana_1| less to cast for "
+"each +1/+1 counter on Herald of War."
+msgstr ""
+
+#: ../../AVR.rst:209
+msgid "Holy Justiciar"
+msgstr ""
+
+#: ../../AVR.rst:208
+msgid ""
+"|mana_2| |mana_w|, |tap|: Tap target creature. If that creature is a "
+"Zombie, exile it."
+msgstr ""
+
+#: ../../AVR.rst:216
+msgid "Leap of Faith"
+msgstr ""
+
+#: ../../AVR.rst:215
+msgid ""
+"Target creature gains flying until end of turn. Prevent all damage that "
+"would be dealt to that creature this turn."
+msgstr ""
+
+#: ../../AVR.rst:223
+msgid "Midnight Duelist"
+msgstr ""
+
+#: ../../AVR.rst:222
+msgid "Protection from Vampires"
+msgstr ""
+
+#: ../../AVR.rst:230
+msgid "Midvast Protector"
+msgstr ""
+
+#: ../../AVR.rst:229
+msgid ""
+"When Midvast Protector enters the battlefield, target creature you "
+"control gains protection from the color of your choice until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:239
+msgid "Moonlight Geist"
+msgstr ""
+
+#: ../../AVR.rst:238
+msgid ""
+"|mana_3| |mana_w|: Prevent all combat damage that would be dealt to and "
+"dealt by Moonlight Geist this turn."
+msgstr ""
+
+#: ../../AVR.rst:246
+msgid "Moorland Inquisitor"
+msgstr ""
+
+#: ../../AVR.rst:245
+msgid ""
+"|mana_2| |mana_w|: Moorland Inquisitor gains first strike until end of "
+"turn."
+msgstr ""
+
+#: ../../AVR.rst:255
+msgid "Nearheath Pilgrim"
+msgstr ""
+
+#: ../../AVR.rst:252 ../../AVR.rst:299 ../../AVR.rst:308 ../../AVR.rst:388
+#: ../../AVR.rst:413 ../../AVR.rst:447 ../../AVR.rst:634 ../../AVR.rst:661
+#: ../../AVR.rst:688 ../../AVR.rst:1119 ../../AVR.rst:1169 ../../AVR.rst:1272
+#: ../../AVR.rst:1415 ../../AVR.rst:1424 ../../AVR.rst:1456 ../../AVR.rst:1520
+#: ../../AVR.rst:1529 ../../AVR.rst:1618 ../../AVR.rst:1671
+msgid ""
+"Soulbond (You may pair this creature with another unpaired creature when "
+"either enters the battlefield. They remain paired for as long as you "
+"control both of them.)"
+msgstr ""
+"Więź dusz (Możesz sparować tego stwora z innym niesparowanym stworem gdy "
+"którykolwiek wchodzi na pole walki. Pozostają parą dopóki kontrolujesz "
+"obu.)"
+
+#: ../../AVR.rst:254
+msgid ""
+"As long as Nearheath Pilgrim is paired with another creature, both "
+"creatures have lifelink."
+msgstr ""
+
+#: ../../AVR.rst:266
+msgid "Restoration Angel"
+msgstr ""
+
+#: ../../AVR.rst:261
+msgid "Flash"
+msgstr ""
+
+#: ../../AVR.rst:265
+msgid ""
+"When Restoration Angel enters the battlefield, you may exile target non-"
+"Angel creature you control, then return that card to the battlefield "
+"under your control."
+msgstr ""
+
+#: ../../AVR.rst:277
+msgid "Riders of Gavony"
+msgstr ""
+
+#: ../../AVR.rst:272 ../../AVR.rst:326
+msgid "Vigilance"
+msgstr "Czujność"
+
+#: ../../AVR.rst:274
+msgid "As Riders of Gavony enters the battlefield, choose a creature type."
+msgstr ""
+
+#: ../../AVR.rst:276
+msgid ""
+"Human creatures you control have protection from creatures of the chosen "
+"type."
+msgstr ""
+
+#: ../../AVR.rst:284
+msgid "Righteous Blow"
+msgstr ""
+
+#: ../../AVR.rst:283
+msgid "Righteous Blow deals 2 damage to target attacking or blocking creature."
+msgstr ""
+
+#: ../../AVR.rst:293
+msgid "Seraph of Dawn"
+msgstr ""
+
+#: ../../AVR.rst:292
+msgid ""
+"Lifelink (Damage dealt by this creature also causes you to gain that much"
+" life.)"
+msgstr ""
+"Więź życia (Obrażenia zadane przez tego stwora powodują, że jego władca "
+"zyskuje tyle samo życia.)"
+
+#: ../../AVR.rst:302
+msgid "Silverblade Paladin"
+msgstr ""
+
+#: ../../AVR.rst:301
+msgid ""
+"As long as Silverblade Paladin is paired with another creature, both "
+"creatures have double strike."
+msgstr ""
+
+#: ../../AVR.rst:311
+msgid "Spectral Gateguards"
+msgstr ""
+
+#: ../../AVR.rst:310
+msgid ""
+"As long as Spectral Gateguards is paired with another creature, both "
+"creatures have vigilance."
+msgstr ""
+
+#: ../../AVR.rst:320
+msgid "Terminus"
+msgstr ""
+
+#: ../../AVR.rst:317
+msgid "Put all creatures on the bottom of their owners' libraries."
+msgstr ""
+
+#: ../../AVR.rst:327
+msgid "Thraben Valiant"
+msgstr ""
+
+#: ../../AVR.rst:336
+msgid "Voice of the Provinces"
+msgstr ""
+
+#: ../../AVR.rst:335
+#, fuzzy
+msgid ""
+"When Voice of the Provinces enters the battlefield, create a 1/1 white "
+"Human creature token."
+msgstr "Wprowadzając Jaskinię Dusz na pole walki, wybierz typ stwora."
+
+#: ../../AVR.rst:343
+msgid "Zealous Strike"
+msgstr ""
+
+#: ../../AVR.rst:342
+msgid "Target creature gets +2/+2 and gains first strike until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:350
 msgid "Alchemist's Apprentice"
 msgstr "Alchemist's Apprentice (Uczeń Alchemika)"
 
-# 917200ecb88642cb86c9950ee18bd3d3
-#: ../../AVR.rst:20
+#: ../../AVR.rst:349
 msgid "Sacrifice Alchemist's Apprentice: Draw a card."
 msgstr "Poświęć Ucznia Alchemika: Dobierz kartę."
 
-# f596c5b211a0401d8ffc26b0bc82c6ce
-#: ../../AVR.rst:27
+#: ../../AVR.rst:357
+msgid "Amass the Components"
+msgstr "Amass the Components (Zgromadź Składniki)"
+
+#: ../../AVR.rst:356
+msgid ""
+"Draw three cards, then put a card from your hand on the bottom of your "
+"library."
+msgstr ""
+"Dobierz trzy karty, następnie połóż kartę z twojej ręki na spodzie twojej"
+" biblioteki."
+
+#: ../../AVR.rst:364
+msgid "Arcane Melee"
+msgstr ""
+
+#: ../../AVR.rst:363
+msgid "Instant and sorcery spells cost |mana_2| less to cast."
+msgstr ""
+
+#: ../../AVR.rst:373
+msgid "Captain of the Mists"
+msgstr "Captain of the Mists (Kapitan Mgieł)"
+
+#: ../../AVR.rst:370
+msgid ""
+"Whenever another Human enters the battlefield under your control, untap "
+"Captain of the Mists."
+msgstr ""
+"Ilekroć inny Człowiek wchodzi na pole walki pod twoim władaniem, odznacz "
+"Kapitana Mgieł."
+
+#: ../../AVR.rst:372
+msgid "|mana_1| |mana_u|, |tap|: You may tap or untap target permanent."
+msgstr ""
+"|mana_1| |mana_u|, |tap|: Możesz zaznaczyć lub odznaczyć wskazany "
+"permanent."
+
+#: ../../AVR.rst:382
+msgid "Crippling Chill"
+msgstr ""
+
+#: ../../AVR.rst:379
+msgid ""
+"Tap target creature. It doesn't untap during its controller's next untap "
+"step."
+msgstr ""
+
+#: ../../AVR.rst:381 ../../AVR.rst:440
+msgid "Draw a card."
+msgstr ""
+
+#: ../../AVR.rst:391
+msgid "Deadeye Navigator"
+msgstr ""
+
+#: ../../AVR.rst:390
+msgid ""
+"As long as Deadeye Navigator is paired with another creature, each of "
+"those creatures has \"|mana_1| |mana_u|: Exile this creature, then return"
+" it to the battlefield under your control.\""
+msgstr ""
+
+#: ../../AVR.rst:400
+msgid "Devastation Tide"
+msgstr ""
+
+#: ../../AVR.rst:397
+msgid "Return all nonland permanents to their owners' hands."
+msgstr ""
+
+#: ../../AVR.rst:399 ../../AVR.rst:672
+msgid ""
+"Miracle |mana_1| |mana_u| (You may cast this card for its miracle cost "
+"when you draw it if it's the first card you drew this turn.)"
+msgstr ""
+
+#: ../../AVR.rst:407
+msgid "Dreadwaters"
+msgstr ""
+
+#: ../../AVR.rst:406
+msgid ""
+"Target player puts the top X cards of their library into their graveyard,"
+" where X is the number of lands you control."
+msgstr ""
+
+#: ../../AVR.rst:416
+msgid "Elgaud Shieldmate"
+msgstr ""
+
+#: ../../AVR.rst:415
+msgid ""
+"As long as Elgaud Shieldmate is paired with another creature, both "
+"creatures have hexproof. (They can't be the targets of spells or "
+"abilities your opponents control.)"
+msgstr ""
+
+#: ../../AVR.rst:423
+msgid "Favorable Winds"
+msgstr ""
+
+#: ../../AVR.rst:422
+msgid "Creatures you control with flying get +1/+1."
+msgstr ""
+
+#: ../../AVR.rst:432
+msgid "Fettergeist"
+msgstr ""
+
+#: ../../AVR.rst:431
+msgid ""
+"At the beginning of your upkeep, sacrifice Fettergeist unless you pay "
+"|mana_1| for each other creature you control."
+msgstr ""
+
+#: ../../AVR.rst:441
+msgid "Fleeting Distraction"
+msgstr ""
+
+#: ../../AVR.rst:438
+msgid "Target creature gets -1/-0 until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:450
+msgid "Galvanic Alchemist"
+msgstr ""
+
+#: ../../AVR.rst:449
+msgid ""
+"As long as Galvanic Alchemist is paired with another creature, each of "
+"those creatures has \"|mana_2| |mana_u|: Untap this creature.\""
+msgstr ""
+
+#: ../../AVR.rst:457
+msgid "Geist Snatch"
+msgstr ""
+
+#: ../../AVR.rst:456
+msgid ""
+"Counter target creature spell. Create a 1/1 blue Spirit creature token "
+"with flying."
+msgstr ""
+
+#: ../../AVR.rst:464
+msgid "Ghostform"
+msgstr ""
+
+#: ../../AVR.rst:463
+msgid "Up to two target creatures can't be blocked this turn."
+msgstr ""
+
+#: ../../AVR.rst:471
+msgid "Ghostly Flicker"
+msgstr ""
+
+#: ../../AVR.rst:470
+msgid ""
+"Exile two target artifacts, creatures, and/or lands you control, then "
+"return those cards to the battlefield under your control."
+msgstr ""
+
+#: ../../AVR.rst:480
+msgid "Ghostly Touch"
+msgstr ""
+
+#: ../../AVR.rst:479
+msgid ""
+"Enchanted creature has \"Whenever this creature attacks, you may tap or "
+"untap target permanent.\""
+msgstr ""
+
+#: ../../AVR.rst:489
+msgid "Gryff Vanguard"
+msgstr ""
+
+#: ../../AVR.rst:488
+msgid "When Gryff Vanguard enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../AVR.rst:496
+msgid "Havengul Skaab"
+msgstr ""
+
+#: ../../AVR.rst:495
+msgid ""
+"Whenever Havengul Skaab attacks, return another creature you control to "
+"its owner's hand."
+msgstr ""
+
+#: ../../AVR.rst:507
+msgid "Infinite Reflection"
+msgstr ""
+
+#: ../../AVR.rst:504
+msgid ""
+"When Infinite Reflection enters the battlefield attached to a creature, "
+"each other nontoken creature you control becomes a copy of that creature."
+msgstr ""
+
+#: ../../AVR.rst:506
+msgid ""
+"Nontoken creatures you control enter the battlefield as a copy of "
+"enchanted creature."
+msgstr ""
+
+#: ../../AVR.rst:514
+msgid "Into the Void"
+msgstr ""
+
+#: ../../AVR.rst:513
+msgid "Return up to two target creatures to their owners' hands."
+msgstr ""
+
+#: ../../AVR.rst:521
+msgid "Latch Seeker"
+msgstr ""
+
+#: ../../AVR.rst:520
+msgid "Latch Seeker can't be blocked."
+msgstr ""
+
+#: ../../AVR.rst:530
+msgid "Lone Revenant"
+msgstr ""
+
+#: ../../AVR.rst:527
+msgid ""
+"Hexproof (This creature can't be the target of spells or abilities your "
+"opponents control.)"
+msgstr ""
+
+#: ../../AVR.rst:529
+msgid ""
+"Whenever Lone Revenant deals combat damage to a player, if you control no"
+" other creatures, look at the top four cards of your library. Put one of "
+"them into your hand and the rest on the bottom of your library in any "
+"order."
+msgstr ""
+
+#: ../../AVR.rst:537
+msgid "Lunar Mystic"
+msgstr ""
+
+#: ../../AVR.rst:536
+msgid ""
+"Whenever you cast an instant spell, you may pay |mana_1|. If you do, draw"
+" a card."
+msgstr ""
+
+#: ../../AVR.rst:544
+msgid "Mass Appeal"
+msgstr ""
+
+#: ../../AVR.rst:543
+msgid "Draw a card for each Human you control."
+msgstr ""
+
+#: ../../AVR.rst:553
+msgid "Mist Raven"
+msgstr ""
+
+#: ../../AVR.rst:552
+msgid ""
+"When Mist Raven enters the battlefield, return target creature to its "
+"owner's hand."
+msgstr ""
+
+#: ../../AVR.rst:562
+msgid "Misthollow Griffin"
+msgstr ""
+
+#: ../../AVR.rst:561
+msgid "You may cast Misthollow Griffin from exile."
+msgstr ""
+
+#: ../../AVR.rst:569
+msgid "Nephalia Smuggler"
+msgstr ""
+
+#: ../../AVR.rst:568
+msgid ""
+"|mana_3| |mana_u|, |tap|: Exile another target creature you control, then"
+" return that card to the battlefield under your control."
+msgstr ""
+
+#: ../../AVR.rst:576
+msgid "Outwit"
+msgstr ""
+
+#: ../../AVR.rst:575
+msgid "Counter target spell that targets a player."
+msgstr ""
+
+#: ../../AVR.rst:583
+msgid "Peel from Reality"
+msgstr ""
+
+#: ../../AVR.rst:582
+msgid ""
+"Return target creature you control and target creature you don't control "
+"to their owners' hands."
+msgstr ""
+
+#: ../../AVR.rst:590
+msgid "Rotcrown Ghoul"
+msgstr ""
+
+#: ../../AVR.rst:589
+msgid ""
+"When Rotcrown Ghoul dies, target player puts the top five cards of their "
+"library into their graveyard."
+msgstr ""
+
+#: ../../AVR.rst:599
+msgid "Scrapskin Drake"
+msgstr ""
+
+#: ../../AVR.rst:596
+msgid ""
+"Flying (This creature can't be blocked except by creatures with flying or"
+" reach.)"
+msgstr ""
+
+#: ../../AVR.rst:598
+msgid "Scrapskin Drake can block only creatures with flying."
+msgstr ""
+
+#: ../../AVR.rst:606
+msgid "Second Guess"
+msgstr ""
+
+#: ../../AVR.rst:605
+msgid "Counter target spell that's the second spell cast this turn."
+msgstr ""
+
+#: ../../AVR.rst:617
+msgid "Spectral Prison"
+msgstr ""
+
+#: ../../AVR.rst:614
+msgid "Enchanted creature doesn't untap during its controller's untap step."
+msgstr ""
+
+#: ../../AVR.rst:616
+msgid ""
+"When enchanted creature becomes the target of a spell, sacrifice Spectral"
+" Prison."
+msgstr ""
+
+#: ../../AVR.rst:628
+msgid "Spirit Away"
+msgstr ""
+
+#: ../../AVR.rst:625
+msgid "You control enchanted creature."
+msgstr ""
+
+#: ../../AVR.rst:627
+msgid "Enchanted creature gets +2/+2 and has flying."
+msgstr ""
+
+#: ../../AVR.rst:637
+msgid "Stern Mentor"
+msgstr ""
+
+#: ../../AVR.rst:636
+msgid ""
+"As long as Stern Mentor is paired with another creature, each of those "
+"creatures has \"|tap|: Target player puts the top two cards of their "
+"library into their graveyard.\""
+msgstr ""
+
+#: ../../AVR.rst:644
+msgid "Stolen Goods"
+msgstr ""
+
+#: ../../AVR.rst:643
+msgid ""
+"Target opponent exiles cards from the top of their library until they "
+"exile a nonland card. Until end of turn, you may cast that card without "
+"paying its mana cost."
+msgstr ""
+
+#: ../../AVR.rst:655
+msgid "Tamiyo, the Moon Sage"
+msgstr ""
+
+#: ../../AVR.rst:650
+msgid ""
+"+1: Tap target permanent. It doesn't untap during its controller's next "
+"untap step."
+msgstr ""
+
+#: ../../AVR.rst:652
+msgid "−2: Draw a card for each tapped creature target player controls."
+msgstr ""
+
+#: ../../AVR.rst:654
+msgid ""
+"−8: You get an emblem with \"You have no maximum hand size\" and "
+"\"Whenever a card is put into your graveyard from anywhere, you may "
+"return it to your hand.\""
+msgstr ""
+
+#: ../../AVR.rst:664
+msgid "Tandem Lookout"
+msgstr ""
+
+#: ../../AVR.rst:663
+msgid ""
+"As long as Tandem Lookout is paired with another creature, each of those "
+"creatures has \"Whenever this creature deals damage to an opponent, draw "
+"a card.\""
+msgstr ""
+
+#: ../../AVR.rst:673
+msgid "Temporal Mastery"
+msgstr ""
+
+#: ../../AVR.rst:670
+msgid "Take an extra turn after this one. Exile Temporal Mastery."
+msgstr ""
+
+#: ../../AVR.rst:682
+msgid "Vanishment"
+msgstr ""
+
+#: ../../AVR.rst:679
+msgid "Put target nonland permanent on top of its owner's library."
+msgstr ""
+
+#: ../../AVR.rst:681
+msgid ""
+"Miracle |mana_u| (You may cast this card for its miracle cost when you "
+"draw it if it's the first card you drew this turn.)"
+msgstr ""
+
+#: ../../AVR.rst:691
+msgid "Wingcrafter"
+msgstr ""
+
+#: ../../AVR.rst:690
+msgid ""
+"As long as Wingcrafter is paired with another creature, both creatures "
+"have flying."
+msgstr ""
+
+#: ../../AVR.rst:698
+msgid "Appetite for Brains"
+msgstr "Appetite for Brains (Apetyt na Mózgi)"
+
+#: ../../AVR.rst:697
+#, fuzzy
+msgid ""
+"Target opponent reveals their hand. You choose a card from it with "
+"converted mana cost 4 or greater and exile that card."
+msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz stamtąd kartę o łącznym"
+" koszcie many 4 lub większym i wypędzasz ową kartę."
+
+#: ../../AVR.rst:705
+msgid "Barter in Blood"
+msgstr ""
+
+#: ../../AVR.rst:704
+msgid "Each player sacrifices two creatures."
+msgstr "Każdy gracz poświęca dwa stwory."
+
+#: ../../AVR.rst:712
+msgid "Blood Artist"
+msgstr "Blood Artist (Artysta Krwi)"
+
+#: ../../AVR.rst:711
+msgid ""
+"Whenever Blood Artist or another creature dies, target player loses 1 "
+"life and you gain 1 life."
+msgstr ""
+"Ilekroć Artysta Krwi lub inny stwór umiera, wskazany gracz traci 1 życie,"
+" a ty zyskujesz 1 życie."
+
+#: ../../AVR.rst:719
+msgid "Bloodflow Connoisseur"
+msgstr ""
+
+#: ../../AVR.rst:718
+#, fuzzy
+msgid "Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur."
+msgstr "Poświęć stwora: Połóż znacznik +1/+1 na Bloodflow Connoisseur."
+
+#: ../../AVR.rst:728
+msgid "Bone Splinters"
+msgstr ""
+
+#: ../../AVR.rst:725
+msgid "As an additional cost to cast this spell, sacrifice a creature."
+msgstr ""
+
+#: ../../AVR.rst:727
+msgid "Destroy target creature."
+msgstr "Zniszcz wskazanego stwora."
+
+#: ../../AVR.rst:735
+msgid "Butcher Ghoul"
+msgstr ""
+
+#: ../../AVR.rst:734 ../../AVR.rst:791 ../../AVR.rst:828 ../../AVR.rst:984
+#: ../../AVR.rst:1148 ../../AVR.rst:1485
+msgid ""
+"Undying (When this creature dies, if it had no +1/+1 counters on it, "
+"return it to the battlefield under its owner's control with a +1/+1 "
+"counter on it.)"
+msgstr ""
+
+#: ../../AVR.rst:742
+msgid "Corpse Traders"
+msgstr "Corpse Traders (Handlarze Zwłok)"
+
+#: ../../AVR.rst:741
+msgid ""
+"|mana_2| |mana_b|, Sacrifice a creature: Target opponent reveals their "
+"hand. You choose a card from it. That player discards that card. Activate"
+" this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../AVR.rst:749
+msgid "Crypt Creeper"
+msgstr ""
+
+#: ../../AVR.rst:748
+msgid "Sacrifice Crypt Creeper: Exile target card from a graveyard."
+msgstr ""
+
+#: ../../AVR.rst:758
+msgid "Dark Impostor"
+msgstr ""
+
+#: ../../AVR.rst:755
+msgid ""
+"|mana_4| |mana_b| |mana_b|: Exile target creature and put a +1/+1 counter"
+" on Dark Impostor."
+msgstr ""
+
+#: ../../AVR.rst:757
+msgid ""
+"Dark Impostor has all activated abilities of all creature cards exiled "
+"with it."
+msgstr ""
+
+#: ../../AVR.rst:765
+msgid "Death Wind"
+msgstr ""
+
+#: ../../AVR.rst:764
+msgid "Target creature gets -X/-X until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:772
+msgid "Demonic Rising"
+msgstr ""
+
+#: ../../AVR.rst:771
+#, fuzzy
+msgid ""
+"At the beginning of your end step, if you control exactly one creature, "
+"create a 5/5 black Demon creature token with flying."
+msgstr ""
+"Na początku twojego kroku końcowego, jeśli władasz dokładnie jednym "
+"stworem, połóż na polu walki żeton czarnego stwora Demon 5/5 z lataniem."
+
+#: ../../AVR.rst:781
+msgid "Demonic Taskmaster"
+msgstr ""
+
+#: ../../AVR.rst:780
+msgid ""
+"At the beginning of your upkeep, sacrifice a creature other than Demonic "
+"Taskmaster."
+msgstr ""
+
+#: ../../AVR.rst:792
+msgid "Demonlord of Ashmouth"
+msgstr ""
+
+#: ../../AVR.rst:789
+msgid ""
+"When Demonlord of Ashmouth enters the battlefield, exile it unless you "
+"sacrifice another creature."
+msgstr ""
+
+#: ../../AVR.rst:799
+msgid "Descent into Madness"
+msgstr ""
+
+#: ../../AVR.rst:798
+msgid ""
+"At the beginning of your upkeep, put a despair counter on Descent into "
+"Madness, then each player exiles X permanents they control and/or cards "
+"from their hand, where X is the number of despair counters on Descent "
+"into Madness."
+msgstr ""
+
+#: ../../AVR.rst:806
+msgid "Dread Slaver"
+msgstr ""
+
+#: ../../AVR.rst:805
+msgid ""
+"Whenever a creature dealt damage by Dread Slaver this turn dies, return "
+"it to the battlefield under your control. That creature is a black Zombie"
+" in addition to its other colors and types."
+msgstr ""
+
+#: ../../AVR.rst:813
+msgid "Driver of the Dead"
+msgstr ""
+
+#: ../../AVR.rst:812
+msgid ""
+"When Driver of the Dead dies, return target creature card with converted "
+"mana cost 2 or less from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../AVR.rst:820
+msgid "Essence Harvest"
+msgstr ""
+
+#: ../../AVR.rst:819
+msgid ""
+"Target player loses X life and you gain X life, where X is the greatest "
+"power among creatures you control."
+msgstr ""
+
+#: ../../AVR.rst:829
+msgid "Evernight Shade"
+msgstr ""
+
+#: ../../AVR.rst:826
+msgid "|mana_b|: Evernight Shade gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:836
+msgid "Exquisite Blood"
+msgstr ""
+
+#: ../../AVR.rst:835
+msgid "Whenever an opponent loses life, you gain that much life."
+msgstr ""
+
+#: ../../AVR.rst:845
+msgid "Ghoulflesh"
+msgstr ""
+
+#: ../../AVR.rst:844
+msgid ""
+"Enchanted creature gets -1/-1 and is a black Zombie in addition to its "
+"other colors and types."
+msgstr ""
+
+#: ../../AVR.rst:852
+msgid "Gloom Surgeon"
+msgstr ""
+
+#: ../../AVR.rst:851
+msgid ""
+"If combat damage would be dealt to Gloom Surgeon, prevent that damage and"
+" exile that many cards from the top of your library."
+msgstr ""
+
+#: ../../AVR.rst:859
+msgid "Grave Exchange"
+msgstr ""
+
+#: ../../AVR.rst:858
+msgid ""
+"Return target creature card from your graveyard to your hand. Target "
+"player sacrifices a creature."
+msgstr ""
+
+#: ../../AVR.rst:868
+msgid "Griselbrand"
+msgstr ""
+
+#: ../../AVR.rst:865
+msgid "Flying, lifelink"
+msgstr "Latanie, więź życia"
+
+#: ../../AVR.rst:867
+msgid "Pay 7 life: Draw seven cards."
+msgstr ""
+
+#: ../../AVR.rst:877
+msgid "Harvester of Souls"
+msgstr ""
+
+#: ../../AVR.rst:874
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../AVR.rst:876
+msgid "Whenever another nontoken creature dies, you may draw a card."
+msgstr ""
+
+#: ../../AVR.rst:884
+msgid "Homicidal Seclusion"
+msgstr ""
+
+#: ../../AVR.rst:883
+msgid ""
+"As long as you control exactly one creature, that creature gets +3/+1 and"
+" has lifelink."
+msgstr ""
+
+#: ../../AVR.rst:891
+msgid "Human Frailty"
+msgstr ""
+
+#: ../../AVR.rst:890
+msgid "Destroy target Human creature."
+msgstr ""
+
+#: ../../AVR.rst:898
+msgid "Hunted Ghoul"
+msgstr ""
+
+#: ../../AVR.rst:897
+msgid "Hunted Ghoul can't block Humans."
+msgstr ""
+
+#: ../../AVR.rst:905
+msgid "Killing Wave"
+msgstr ""
+
+#: ../../AVR.rst:904
+msgid "For each creature, its controller sacrifices it unless they pay X life."
+msgstr ""
+
+#: ../../AVR.rst:912
+msgid "Maalfeld Twins"
+msgstr ""
+
+#: ../../AVR.rst:911
+msgid "When Maalfeld Twins dies, create two 2/2 black Zombie creature tokens."
+msgstr ""
+
+#: ../../AVR.rst:921
+msgid "Marrow Bats"
+msgstr ""
+
+#: ../../AVR.rst:920
+msgid "Pay 4 life: Regenerate Marrow Bats."
+msgstr ""
+
+#: ../../AVR.rst:928
+msgid "Mental Agony"
+msgstr ""
+
+#: ../../AVR.rst:927
+msgid "Target player discards two cards and loses 2 life."
+msgstr ""
+
+#: ../../AVR.rst:935
+msgid "Necrobite"
+msgstr ""
+
+#: ../../AVR.rst:934
+msgid ""
+"Target creature gains deathtouch until end of turn. Regenerate it. (The "
+"next time that creature would be destroyed this turn, it isn't. Instead "
+"tap it, remove all damage from it, and remove it from combat. Any amount "
+"of damage a creature with deathtouch deals to a creature is enough to "
+"destroy it.)"
+msgstr ""
+
+#: ../../AVR.rst:942
+msgid "Polluted Dead"
+msgstr ""
+
+#: ../../AVR.rst:941
+msgid "When Polluted Dead dies, destroy target land."
+msgstr ""
+
+#: ../../AVR.rst:953
+msgid "Predator's Gambit"
+msgstr ""
+
+#: ../../AVR.rst:950
+msgid "Enchanted creature gets +2/+1."
+msgstr ""
+
+#: ../../AVR.rst:952
+msgid ""
+"Enchanted creature has intimidate as long as its controller controls no "
+"other creatures. (It can't be blocked except by artifact creatures and/or"
+" creatures that share a color with it.)"
+msgstr ""
+
+#: ../../AVR.rst:958
+msgid "Renegade Demon"
+msgstr ""
+
+#: ../../AVR.rst:969
+msgid "Searchlight Geist"
+msgstr ""
+
+#: ../../AVR.rst:968
+msgid ""
+"|mana_3| |mana_b|: Searchlight Geist gains deathtouch until end of turn. "
+"(Any amount of damage it deals to a creature is enough to destroy it.)"
+msgstr ""
+
+#: ../../AVR.rst:976
+msgid "Soulcage Fiend"
+msgstr ""
+
+#: ../../AVR.rst:975
+msgid "When Soulcage Fiend dies, each player loses 3 life."
+msgstr ""
+
+#: ../../AVR.rst:985
+msgid "Treacherous Pit-Dweller"
+msgstr ""
+
+#: ../../AVR.rst:982
+msgid ""
+"When Treacherous Pit-Dweller enters the battlefield from a graveyard, "
+"target opponent gains control of it."
+msgstr ""
+
+#: ../../AVR.rst:992
+msgid "Triumph of Cruelty"
+msgstr ""
+
+#: ../../AVR.rst:991
+msgid ""
+"At the beginning of your upkeep, target opponent discards a card if you "
+"control the creature with the greatest power or tied for the greatest "
+"power."
+msgstr ""
+
+#: ../../AVR.rst:999
+msgid "Undead Executioner"
+msgstr ""
+
+#: ../../AVR.rst:998
+msgid ""
+"When Undead Executioner dies, you may have target creature get -2/-2 "
+"until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:1008
+msgid "Unhallowed Pact"
+msgstr ""
+
+#: ../../AVR.rst:1007
+msgid ""
+"When enchanted creature dies, return that card to the battlefield under "
+"your control."
+msgstr ""
+
+#: ../../AVR.rst:1015
+msgid "Aggravate"
+msgstr ""
+
+#: ../../AVR.rst:1014
+msgid ""
+"Aggravate deals 1 damage to each creature target player controls. Each "
+"creature dealt damage this way attacks this turn if able."
+msgstr ""
+
+#: ../../AVR.rst:1024
+msgid "Archwing Dragon"
+msgstr ""
+
+#: ../../AVR.rst:1021
+msgid "Flying, haste"
+msgstr "Latanie, pośpiech"
+
+#: ../../AVR.rst:1023
+msgid ""
+"At the beginning of the end step, return Archwing Dragon to its owner's "
+"hand."
+msgstr ""
+
+#: ../../AVR.rst:1031
+msgid "Banners Raised"
+msgstr "Banners Raised (Chorągwie Wzwyż)"
+
+#: ../../AVR.rst:1030
+msgid "Creatures you control get +1/+0 until end of turn."
+msgstr "Stwory, którymi władasz, dostają do końca tury +1/+0."
+
+#: ../../AVR.rst:1038
+msgid "Battle Hymn"
+msgstr ""
+
+#: ../../AVR.rst:1037
+msgid "Add |mana_r| for each creature you control."
+msgstr ""
+
+#: ../../AVR.rst:1047
+msgid "Bonfire of the Damned"
+msgstr ""
+
+#: ../../AVR.rst:1044
+msgid ""
+"Bonfire of the Damned deals X damage to target player or planeswalker and"
+" each creature that player or that planeswalker's controller controls."
+msgstr ""
+
+#: ../../AVR.rst:1046
+msgid ""
+"Miracle |mana_x| |mana_r| (You may cast this card for its miracle cost "
+"when you draw it if it's the first card you drew this turn.)"
+msgstr ""
+
+#: ../../AVR.rst:1056
+msgid "Burn at the Stake"
+msgstr "Burn at the Stake (Płoń na Stosie)"
+
+#: ../../AVR.rst:1053
+#, fuzzy
+msgid ""
+"As an additional cost to cast this spell, tap any number of untapped "
+"creatures you control."
+msgstr ""
+"Jako dodatkowy koszt rzucenia Płoń na Stosie, zaznacz dowolną liczbę "
+"niezaznaczonych stworów, którymi władasz."
+
+#: ../../AVR.rst:1055
+#, fuzzy
+msgid ""
+"Burn at the Stake deals damage to any target equal to three times the "
+"number of creatures tapped this way."
+msgstr ""
+"Płoń na Stosie zadaje wskazanemu stworowi lub graczowi trzy razy więcej "
+"obrażeń niż liczba stworów zaznaczonych w ten sposób."
+
+#: ../../AVR.rst:1063
+msgid "Dangerous Wager"
+msgstr ""
+
+#: ../../AVR.rst:1062
+msgid "Discard your hand, then draw two cards."
+msgstr "Odrzuć swoją rękę, a następnie dobierz dwie karty."
+
+#: ../../AVR.rst:1070
+msgid "Demolish"
+msgstr ""
+
+#: ../../AVR.rst:1069
+msgid "Destroy target artifact or land."
+msgstr "Zniszcz wskazany artefakt lub ląd."
+
+#: ../../AVR.rst:1079
+msgid "Dual Casting"
+msgstr ""
+
+#: ../../AVR.rst:1078
+msgid ""
+"Enchanted creature has \"|mana_r|, |tap|: Copy target instant or sorcery "
+"spell you control. You may choose new targets for the copy.\""
+msgstr ""
+
+#: ../../AVR.rst:1088
+msgid "Falkenrath Exterminator"
+msgstr ""
+
+#: ../../AVR.rst:1085
+msgid ""
+"Whenever Falkenrath Exterminator deals combat damage to a player, put a "
+"+1/+1 counter on it."
+msgstr ""
+
+#: ../../AVR.rst:1087
+msgid ""
+"|mana_2| |mana_r|: Falkenrath Exterminator deals damage to target "
+"creature equal to the number of +1/+1 counters on Falkenrath "
+"Exterminator."
+msgstr ""
+
+#: ../../AVR.rst:1097
+msgid "Fervent Cathar"
+msgstr ""
+
+#: ../../AVR.rst:1094 ../../AVR.rst:1187 ../../AVR.rst:1347 ../../AVR.rst:1399
+msgid "Haste"
+msgstr "Pośpiech"
+
+#: ../../AVR.rst:1096
+msgid ""
+"When Fervent Cathar enters the battlefield, target creature can't block "
+"this turn."
+msgstr ""
+
+#: ../../AVR.rst:1104
+msgid "Gang of Devils"
+msgstr ""
+
+#: ../../AVR.rst:1103
+msgid ""
+"When Gang of Devils dies, it deals 3 damage divided as you choose among "
+"one, two, or three targets."
+msgstr ""
+
+#: ../../AVR.rst:1113
+msgid "Guise of Fire"
+msgstr ""
+
+#: ../../AVR.rst:1112
+msgid "Enchanted creature gets +1/-1 and attacks each combat if able."
+msgstr ""
+
+#: ../../AVR.rst:1122
+msgid "Hanweir Lancer"
+msgstr ""
+
+#: ../../AVR.rst:1121
+msgid ""
+"As long as Hanweir Lancer is paired with another creature, both creatures"
+" have first strike."
+msgstr ""
+
+#: ../../AVR.rst:1131
+msgid "Havengul Vampire"
+msgstr ""
+
+#: ../../AVR.rst:1128
+msgid ""
+"Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 "
+"counter on it."
+msgstr ""
+
+#: ../../AVR.rst:1130
+msgid "Whenever another creature dies, put a +1/+1 counter on Havengul Vampire."
+msgstr ""
+
+#: ../../AVR.rst:1140
+msgid "Heirs of Stromkirk"
+msgstr ""
+
+#: ../../AVR.rst:1137
+msgid ""
+"Intimidate (This creature can't be blocked except by artifact creatures "
+"and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../AVR.rst:1139
+msgid ""
+"Whenever Heirs of Stromkirk deals combat damage to a player, put a +1/+1 "
+"counter on it."
+msgstr ""
+
+#: ../../AVR.rst:1149
+msgid "Hound of Griselbrand"
+msgstr ""
+
+#: ../../AVR.rst:1146
+msgid "Double strike"
+msgstr ""
+
+#: ../../AVR.rst:1156
+msgid "Kessig Malcontents"
+msgstr ""
+
+#: ../../AVR.rst:1155
+msgid ""
+"When Kessig Malcontents enters the battlefield, it deals damage to target"
+" player or planeswalker equal to the number of Humans you control."
+msgstr ""
+
+#: ../../AVR.rst:1163
+msgid "Kruin Striker"
+msgstr ""
+
+#: ../../AVR.rst:1162
+msgid ""
+"Whenever another creature enters the battlefield under your control, "
+"Kruin Striker gets +1/+0 and gains trample until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:1172
+msgid "Lightning Mauler"
+msgstr ""
+
+#: ../../AVR.rst:1171
+msgid ""
+"As long as Lightning Mauler is paired with another creature, both "
+"creatures have haste."
+msgstr ""
+
+#: ../../AVR.rst:1181
+msgid "Lightning Prowess"
+msgstr ""
+
+#: ../../AVR.rst:1180
+msgid ""
+"Enchanted creature has haste and \"|tap|: This creature deals 1 damage to"
+" any target.\""
+msgstr ""
+
+#: ../../AVR.rst:1190
+msgid "Mad Prophet"
+msgstr ""
+
+#: ../../AVR.rst:1189
+msgid "|tap|, Discard a card: Draw a card."
+msgstr ""
+
+#: ../../AVR.rst:1199
+msgid "Malicious Intent"
+msgstr ""
+
+#: ../../AVR.rst:1198
+msgid "Enchanted creature has \"|tap|: Target creature can't block this turn.\""
+msgstr ""
+
+#: ../../AVR.rst:1208
+msgid "Malignus"
+msgstr ""
+
+#: ../../AVR.rst:1205
+msgid ""
+"Malignus's power and toughness are each equal to half the highest life "
+"total among your opponents, rounded up."
+msgstr ""
+
+#: ../../AVR.rst:1207
+msgid "Damage that would be dealt by Malignus can't be prevented."
+msgstr ""
+
+#: ../../AVR.rst:1215
+msgid "Pillar of Flame"
+msgstr ""
+
+#: ../../AVR.rst:1214
+msgid ""
+"Pillar of Flame deals 2 damage to any target. If a creature dealt damage "
+"this way would die this turn, exile it instead."
+msgstr ""
+
+#: ../../AVR.rst:1220
+msgid "Raging Poltergeist"
+msgstr ""
+
+#: ../../AVR.rst:1231
+msgid "Reforge the Soul"
+msgstr ""
+
+#: ../../AVR.rst:1228
+#, fuzzy
+msgid "Each player discards their hand, then draws seven cards."
+msgstr "Odrzuć swoją rękę, a następnie dobierz dwie karty."
+
+#: ../../AVR.rst:1230
+msgid ""
+"Miracle |mana_1| |mana_r| (You may cast this card for its miracle cost "
+"when you draw it if it's the first card you drew this turn.)"
+msgstr ""
+
+#: ../../AVR.rst:1238
+msgid "Riot Ringleader"
+msgstr ""
+
+#: ../../AVR.rst:1237
+msgid ""
+"Whenever Riot Ringleader attacks, Human creatures you control get +1/+0 "
+"until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:1245
+msgid "Rite of Ruin"
+msgstr ""
+
+#: ../../AVR.rst:1244
+msgid ""
+"Choose an order for artifacts, creatures, and lands. Each player "
+"sacrifices one permanent of the first type, sacrifices two of the second "
+"type, then sacrifices three of the third type."
+msgstr ""
+
+#: ../../AVR.rst:1252
+msgid "Rush of Blood"
+msgstr ""
+
+#: ../../AVR.rst:1251
+msgid "Target creature gets +X/+0 until end of turn, where X is its power."
+msgstr ""
+
+#: ../../AVR.rst:1259
+msgid "Scalding Devil"
+msgstr ""
+
+#: ../../AVR.rst:1258
+msgid ""
+"|mana_2| |mana_r|: Scalding Devil deals 1 damage to target player or "
+"planeswalker."
+msgstr ""
+
+#: ../../AVR.rst:1266
+msgid "Somberwald Vigilante"
+msgstr ""
+
+#: ../../AVR.rst:1265
+msgid ""
+"Whenever Somberwald Vigilante becomes blocked by a creature, Somberwald "
+"Vigilante deals 1 damage to that creature."
+msgstr ""
+
+#: ../../AVR.rst:1275
+msgid "Stonewright"
+msgstr ""
+
+#: ../../AVR.rst:1274
+msgid ""
+"As long as Stonewright is paired with another creature, each of those "
+"creatures has \"|mana_r|: This creature gets +1/+0 until end of turn.\""
+msgstr ""
+
+#: ../../AVR.rst:1282
+msgid "Thatcher Revolt"
+msgstr ""
+
+#: ../../AVR.rst:1281
+msgid ""
+"Create three 1/1 red Human creature tokens with haste. Sacrifice those "
+"tokens at the beginning of the next end step."
+msgstr ""
+
+#: ../../AVR.rst:1293
+msgid "Thunderbolt"
+msgstr ""
+
+#: ../../AVR.rst:1288
+msgid "Choose one —"
+msgstr ""
+
+#: ../../AVR.rst:1290
+msgid "Thunderbolt deals 3 damage to target player or planeswalker."
+msgstr ""
+
+#: ../../AVR.rst:1292
+msgid "Thunderbolt deals 4 damage to target creature with flying."
+msgstr ""
+
+#: ../../AVR.rst:1302
+msgid "Thunderous Wrath"
+msgstr ""
+
+#: ../../AVR.rst:1299
+msgid "Thunderous Wrath deals 5 damage to any target."
+msgstr ""
+
+#: ../../AVR.rst:1301
+msgid ""
+"Miracle |mana_r| (You may cast this card for its miracle cost when you "
+"draw it if it's the first card you drew this turn.)"
+msgstr ""
+
+#: ../../AVR.rst:1313
+msgid "Tibalt, the Fiend-Blooded"
+msgstr ""
+
+#: ../../AVR.rst:1308
+msgid "+1: Draw a card, then discard a card at random."
+msgstr ""
+
+#: ../../AVR.rst:1310
+msgid ""
+"−4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards "
+"in target player's hand to that player."
+msgstr ""
+
+#: ../../AVR.rst:1312
+msgid ""
+"−6: Gain control of all creatures until end of turn. Untap them. They "
+"gain haste until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:1320
+msgid "Tyrant of Discord"
+msgstr ""
+
+#: ../../AVR.rst:1319
+msgid ""
+"When Tyrant of Discord enters the battlefield, target opponent chooses a "
+"permanent they control at random and sacrifices it. If a nonland "
+"permanent is sacrificed this way, repeat this process."
+msgstr ""
+
+#: ../../AVR.rst:1327
+msgid "Uncanny Speed"
+msgstr ""
+
+#: ../../AVR.rst:1326
+msgid "Target creature gets +3/+0 and gains haste until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:1334
+msgid "Vexing Devil"
+msgstr ""
+
+#: ../../AVR.rst:1333
+msgid ""
+"When Vexing Devil enters the battlefield, any opponent may have it deal 4"
+" damage to them. If a player does, sacrifice Vexing Devil."
+msgstr ""
+
+#: ../../AVR.rst:1341
+msgid "Vigilante Justice"
+msgstr ""
+
+#: ../../AVR.rst:1340
+#, fuzzy
+msgid ""
+"Whenever a Human enters the battlefield under your control, Vigilante "
+"Justice deals 1 damage to any target."
+msgstr ""
+"Ilekroć inny Człowiek wchodzi na pole walki pod twoim władaniem, odznacz "
+"Kapitana Mgieł."
+
+#: ../../AVR.rst:1350
+msgid "Zealous Conscripts"
+msgstr ""
+
+#: ../../AVR.rst:1349
+msgid ""
+"When Zealous Conscripts enters the battlefield, gain control of target "
+"permanent until end of turn. Untap that permanent. It gains haste until "
+"end of turn."
+msgstr ""
+
+#: ../../AVR.rst:1361
+msgid "Abundant Growth"
+msgstr ""
+
+#: ../../AVR.rst:1356
+msgid "Enchant land"
+msgstr "Zaurocz ląd"
+
+#: ../../AVR.rst:1358
+msgid "When Abundant Growth enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../AVR.rst:1360
+msgid "Enchanted land has \"|tap|: Add one mana of any color.\""
+msgstr ""
+
+#: ../../AVR.rst:1370
+msgid "Blessings of Nature"
+msgstr ""
+
+#: ../../AVR.rst:1367
+msgid "Distribute four +1/+1 counters among any number of target creatures."
+msgstr ""
+
+#: ../../AVR.rst:1369 ../../AVR.rst:1560
+msgid ""
+"Miracle |mana_g| (You may cast this card for its miracle cost when you "
+"draw it if it's the first card you drew this turn.)"
+msgstr ""
+
+#: ../../AVR.rst:1377
+msgid "Borderland Ranger"
+msgstr ""
+
+#: ../../AVR.rst:1376
+msgid ""
+"When Borderland Ranger enters the battlefield, you may search your "
+"library for a basic land card, reveal it, and put it into your hand. If "
+"you do, shuffle your library."
+msgstr ""
+
+#: ../../AVR.rst:1384
+msgid "Bower Passage"
+msgstr ""
+
+#: ../../AVR.rst:1383
+msgid "Creatures with flying can't block creatures you control."
+msgstr "Stwory z lataniem nie mogą blokować stworów, którymi władasz."
+
+#: ../../AVR.rst:1393
+msgid "Champion of Lambholt"
+msgstr ""
+
+#: ../../AVR.rst:1390
+msgid ""
+"Creatures with power less than Champion of Lambholt's power can't block "
+"creatures you control."
+msgstr ""
+
+#: ../../AVR.rst:1392
+msgid ""
+"Whenever another creature enters the battlefield under your control, put "
+"a +1/+1 counter on Champion of Lambholt."
+msgstr ""
+
+#: ../../AVR.rst:1402
+msgid "Craterhoof Behemoth"
+msgstr ""
+
+#: ../../AVR.rst:1401
+msgid ""
+"When Craterhoof Behemoth enters the battlefield, creatures you control "
+"gain trample and get +X/+X until end of turn, where X is the number of "
+"creatures you control."
+msgstr ""
+
+#: ../../AVR.rst:1409
+msgid "Descendants' Path"
+msgstr ""
+
+#: ../../AVR.rst:1408
+msgid ""
+"At the beginning of your upkeep, reveal the top card of your library. If "
+"it's a creature card that shares a creature type with a creature you "
+"control, you may cast that card without paying its mana cost. Otherwise, "
+"put that card on the bottom of your library."
+msgstr ""
+
+#: ../../AVR.rst:1418
+msgid "Diregraf Escort"
+msgstr ""
+
+#: ../../AVR.rst:1417
+msgid ""
+"As long as Diregraf Escort is paired with another creature, both "
+"creatures have protection from Zombies."
+msgstr ""
+
+#: ../../AVR.rst:1427
+msgid "Druid's Familiar"
+msgstr ""
+
+#: ../../AVR.rst:1426
+msgid ""
+"As long as Druid's Familiar is paired with another creature, each of "
+"those creatures gets +2/+2."
+msgstr ""
+
+#: ../../AVR.rst:1436
+msgid "Druids' Repository"
+msgstr ""
+
+#: ../../AVR.rst:1433
+msgid ""
+"Whenever a creature you control attacks, put a charge counter on Druids' "
+"Repository."
+msgstr ""
+
+#: ../../AVR.rst:1435
+msgid ""
+"Remove a charge counter from Druids' Repository: Add one mana of any "
+"color."
+msgstr ""
+
+#: ../../AVR.rst:1443
+msgid "Eaten by Spiders"
+msgstr ""
+
+#: ../../AVR.rst:1442
+msgid ""
+"Destroy target creature with flying and all Equipment attached to that "
+"creature."
+msgstr ""
+
+#: ../../AVR.rst:1450
+msgid "Flowering Lumberknot"
+msgstr ""
+
+#: ../../AVR.rst:1449
+msgid ""
+"Flowering Lumberknot can't attack or block unless it's paired with a "
+"creature with soulbond."
+msgstr ""
+"Flowering Lumberknot nie może atakować ani blokować dopóki nie jest "
+"sparowany ze stworem z więzią dusz."
+
+#: ../../AVR.rst:1459
+msgid "Geist Trappers"
+msgstr ""
+
+#: ../../AVR.rst:1458
+msgid ""
+"As long as Geist Trappers is paired with another creature, both creatures"
+" have reach."
+msgstr ""
+
+#: ../../AVR.rst:1468
+msgid "Gloomwidow"
+msgstr ""
+
+#: ../../AVR.rst:1465
+msgid "Reach"
+msgstr ""
+
+#: ../../AVR.rst:1467
+msgid "Gloomwidow can block only creatures with flying."
+msgstr ""
+
+#: ../../AVR.rst:1477
+msgid "Grounded"
+msgstr ""
+
+#: ../../AVR.rst:1476
+msgid "Enchanted creature loses flying."
+msgstr ""
+
+#: ../../AVR.rst:1486
+msgid "Howlgeist"
+msgstr ""
+
+#: ../../AVR.rst:1483
+msgid "Creatures with power less than Howlgeist's power can't block it."
+msgstr ""
+
+#: ../../AVR.rst:1493
+msgid "Joint Assault"
+msgstr ""
+
+#: ../../AVR.rst:1492
+msgid ""
+"Target creature gets +2/+2 until end of turn. If it's paired with a "
+"creature, that creature also gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:1500
+msgid "Lair Delve"
+msgstr ""
+
+#: ../../AVR.rst:1499
+msgid ""
+"Reveal the top two cards of your library. Put all creature and land cards"
+" revealed this way into your hand and the rest on the bottom of your "
+"library in any order."
+msgstr ""
+
+#: ../../AVR.rst:1507
+msgid "Natural End"
+msgstr ""
+
+#: ../../AVR.rst:1506
+msgid "Destroy target artifact or enchantment. You gain 3 life."
+msgstr ""
+
+#: ../../AVR.rst:1512
+msgid "Nettle Swine"
+msgstr ""
+
+#: ../../AVR.rst:1523
+msgid "Nightshade Peddler"
+msgstr ""
+
+#: ../../AVR.rst:1522
+msgid ""
+"As long as Nightshade Peddler is paired with another creature, both "
+"creatures have deathtouch."
+msgstr ""
+
+#: ../../AVR.rst:1532
+msgid "Pathbreaker Wurm"
+msgstr ""
+
+#: ../../AVR.rst:1531
+msgid ""
+"As long as Pathbreaker Wurm is paired with another creature, both "
+"creatures have trample."
+msgstr ""
+
+#: ../../AVR.rst:1539
+msgid "Primal Surge"
+msgstr ""
+
+#: ../../AVR.rst:1538
+msgid ""
+"Exile the top card of your library. If it's a permanent card, you may put"
+" it onto the battlefield. If you do, repeat this process."
+msgstr ""
+
+#: ../../AVR.rst:1552
+msgid "Rain of Thorns"
+msgstr ""
+
+#: ../../AVR.rst:1545
+msgid "Choose one or more —"
+msgstr ""
+
+#: ../../AVR.rst:1547
+#, fuzzy
+msgid "Destroy target artifact."
+msgstr "Zniszcz wskazany artefakt lub ląd."
+
+#: ../../AVR.rst:1549
+#, fuzzy
+msgid "Destroy target enchantment."
+msgstr "Zniszcz wskazany urok. Zyskujesz 2 życia."
+
+#: ../../AVR.rst:1551
+#, fuzzy
+msgid "Destroy target land."
+msgstr "Zniszcz wskazany artefakt lub ląd."
+
+#: ../../AVR.rst:1561
+msgid "Revenge of the Hunted"
+msgstr ""
+
+#: ../../AVR.rst:1558
+msgid ""
+"Until end of turn, target creature gets +6/+6 and gains trample, and all "
+"creatures able to block it this turn do so."
+msgstr ""
+
+#: ../../AVR.rst:1568
+msgid "Sheltering Word"
+msgstr ""
+
+#: ../../AVR.rst:1567
+msgid ""
+"Target creature you control gains hexproof until end of turn. You gain "
+"life equal to that creature's toughness. (A creature with hexproof can't "
+"be the target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../AVR.rst:1575
+msgid "Snare the Skies"
+msgstr ""
+
+#: ../../AVR.rst:1574
+msgid ""
+"Target creature gets +1/+1 and gains reach until end of turn. (It can "
+"block creatures with flying.)"
+msgstr ""
+
+#: ../../AVR.rst:1582
+msgid "Somberwald Sage"
+msgstr ""
+
+#: ../../AVR.rst:1581
+#, fuzzy
+msgid ""
+"|tap|: Add three mana of any one color. Spend this mana only to cast "
+"creature spells."
+msgstr ""
+"|tap|: Dodaj jedną manę dowolnego koloru do twojej puli many. Użyj tę "
+"manę tylko do rzucenia czaru stwora wybranego typu i ów czar nie może "
+"zostać skontrowany."
+
+#: ../../AVR.rst:1591
+msgid "Soul of the Harvest"
+msgstr ""
+
+#: ../../AVR.rst:1588
+msgid "Trample"
+msgstr "Tratowanie"
+
+#: ../../AVR.rst:1590
+msgid ""
+"Whenever another nontoken creature enters the battlefield under your "
+"control, you may draw a card."
+msgstr ""
+
+#: ../../AVR.rst:1598
+msgid "Terrifying Presence"
+msgstr ""
+
+#: ../../AVR.rst:1597
+msgid ""
+"Prevent all combat damage that would be dealt by creatures other than "
+"target creature this turn."
+msgstr ""
+
+#: ../../AVR.rst:1605
+msgid "Timberland Guide"
+msgstr ""
+
+#: ../../AVR.rst:1604
+msgid ""
+"When Timberland Guide enters the battlefield, put a +1/+1 counter on "
+"target creature."
+msgstr ""
+
+#: ../../AVR.rst:1612
+msgid "Triumph of Ferocity"
+msgstr ""
+
+#: ../../AVR.rst:1611
+msgid ""
+"At the beginning of your upkeep, draw a card if you control the creature "
+"with the greatest power or tied for the greatest power."
+msgstr ""
+
+#: ../../AVR.rst:1621
+msgid "Trusted Forcemage"
+msgstr ""
+
+#: ../../AVR.rst:1620
+msgid ""
+"As long as Trusted Forcemage is paired with another creature, each of "
+"those creatures gets +1/+1."
+msgstr ""
+
+#: ../../AVR.rst:1628
+msgid "Ulvenwald Tracker"
+msgstr ""
+
+#: ../../AVR.rst:1627
+msgid ""
+"|mana_1| |mana_g|, |tap|: Target creature you control fights another "
+"target creature."
+msgstr ""
+
+#: ../../AVR.rst:1633
+msgid "Vorstclaw"
+msgstr ""
+
+#: ../../AVR.rst:1642
+msgid "Wandering Wolf"
+msgstr ""
+
+#: ../../AVR.rst:1641
+msgid "Creatures with power less than Wandering Wolf's power can't block it."
+msgstr ""
+
+#: ../../AVR.rst:1649
+msgid "Wild Defiance"
+msgstr ""
+
+#: ../../AVR.rst:1648
+msgid ""
+"Whenever a creature you control becomes the target of an instant or "
+"sorcery spell, that creature gets +3/+3 until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:1656
+msgid "Wildwood Geist"
+msgstr ""
+
+#: ../../AVR.rst:1655
+msgid "Wildwood Geist gets +2/+2 as long as it's your turn."
+msgstr ""
+
+#: ../../AVR.rst:1665
+msgid "Wolfir Avenger"
+msgstr ""
+
+#: ../../AVR.rst:1662
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
+#: ../../AVR.rst:1664
+msgid "|mana_1| |mana_g|: Regenerate Wolfir Avenger."
+msgstr ""
+
+#: ../../AVR.rst:1674
+msgid "Wolfir Silverheart"
+msgstr ""
+
+#: ../../AVR.rst:1673
+msgid ""
+"As long as Wolfir Silverheart is paired with another creature, each of "
+"those creatures gets +4/+4."
+msgstr ""
+
+#: ../../AVR.rst:1681
+msgid "Yew Spirit"
+msgstr ""
+
+#: ../../AVR.rst:1680
+msgid ""
+"|mana_2| |mana_g| |mana_g|: Yew Spirit gets +X/+X until end of turn, "
+"where X is its power."
+msgstr ""
+
+#: ../../AVR.rst:1690
+msgid "Bruna, Light of Alabaster"
+msgstr "Bruna, Light of Alabaster (Bruna, Alabastrowy Blask)"
+
+#: ../../AVR.rst:1689
+#, fuzzy
+msgid ""
+"Whenever Bruna, Light of Alabaster attacks or blocks, you may attach to "
+"it any number of Auras on the battlefield and you may put onto the "
+"battlefield attached to it any number of Aura cards that could enchant it"
+" from your graveyard and/or hand."
+msgstr ""
+"Ilekroć Bruna, Alabastrowy Blask atakuje lub blokuje, możesz do niej "
+"dołączyć dowolną liczbę Aur z pola walki oraz możesz położyć na polu "
+"walki dołączone do niej dowolną liczbę Aur, które mogłyby ją zauroczyć ze"
+" swojego cmentarza i/lub ręki."
+
+#: ../../AVR.rst:1701
+msgid "Gisela, Blade of Goldnight"
+msgstr ""
+
+#: ../../AVR.rst:1696
+msgid "Flying, first strike"
+msgstr ""
+
+#: ../../AVR.rst:1698
+msgid ""
+"If a source would deal damage to an opponent or a permanent an opponent "
+"controls, that source deals double that damage to that player or "
+"permanent instead."
+msgstr ""
+
+#: ../../AVR.rst:1700
+msgid ""
+"If a source would deal damage to you or a permanent you control, prevent "
+"half that damage, rounded up."
+msgstr ""
+
+#: ../../AVR.rst:1710
+msgid "Sigarda, Host of Herons"
+msgstr ""
+
+#: ../../AVR.rst:1707
+msgid "Flying, hexproof"
+msgstr ""
+
+#: ../../AVR.rst:1709
+msgid ""
+"Spells and abilities your opponents control can't cause you to sacrifice "
+"permanents."
+msgstr ""
+
+#: ../../AVR.rst:1717
+msgid "Angel's Tomb"
+msgstr "Angel's Tomb (Grobowiec Anioła)"
+
+#: ../../AVR.rst:1716
+msgid ""
+"Whenever a creature enters the battlefield under your control, you may "
+"have Angel's Tomb become a 3/3 white Angel artifact creature with flying "
+"until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:1726
+msgid "Angelic Armaments"
+msgstr ""
+
+#: ../../AVR.rst:1723
+msgid ""
+"Equipped creature gets +2/+2, has flying, and is a white Angel in "
+"addition to its other colors and types."
+msgstr ""
+
+#: ../../AVR.rst:1725 ../../AVR.rst:1768
+msgid "Equip |mana_4|"
+msgstr ""
+
+#: ../../AVR.rst:1737
+msgid "Bladed Bracers"
+msgstr ""
+
+#: ../../AVR.rst:1732
+msgid "Equipped creature gets +1/+1."
+msgstr ""
+
+#: ../../AVR.rst:1734
+msgid "As long as equipped creature is a Human or an Angel, it has vigilance."
+msgstr ""
+
+#: ../../AVR.rst:1736
+msgid ""
+"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
+"only as a sorcery.)"
+msgstr ""
+
+#: ../../AVR.rst:1744
+msgid "Conjurer's Closet"
+msgstr ""
+
+#: ../../AVR.rst:1743
+msgid ""
+"At the beginning of your end step, you may exile target creature you "
+"control, then return that card to the battlefield under your control."
+msgstr ""
+
+#: ../../AVR.rst:1751
+msgid "Gallows at Willow Hill"
+msgstr ""
+
+#: ../../AVR.rst:1750
+msgid ""
+"|mana_3|, |tap|, Tap three untapped Humans you control: Destroy target "
+"creature. Its controller creates a 1/1 white Spirit creature token with "
+"flying."
+msgstr ""
+
+#: ../../AVR.rst:1758
+msgid "Haunted Guardian"
+msgstr ""
+
+#: ../../AVR.rst:1757
+msgid "Defender, first strike"
+msgstr ""
+
+#: ../../AVR.rst:1769
+msgid "Moonsilver Spear"
+msgstr ""
+
+#: ../../AVR.rst:1764
+msgid "Equipped creature has first strike."
+msgstr ""
+
+#: ../../AVR.rst:1766
+msgid ""
+"Whenever equipped creature attacks, create a 4/4 white Angel creature "
+"token with flying."
+msgstr ""
+
+#: ../../AVR.rst:1776
+msgid "Narstad Scrapper"
+msgstr ""
+
+#: ../../AVR.rst:1775
+msgid "|mana_2|: Narstad Scrapper gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:1785
+msgid "Otherworld Atlas"
+msgstr ""
+
+#: ../../AVR.rst:1782
+msgid "|tap|: Put a charge counter on Otherworld Atlas."
+msgstr ""
+
+#: ../../AVR.rst:1784
+msgid ""
+"|tap|: Each player draws a card for each charge counter on Otherworld "
+"Atlas."
+msgstr ""
+
+#: ../../AVR.rst:1792
+msgid "Scroll of Avacyn"
+msgstr ""
+
+#: ../../AVR.rst:1791
+msgid ""
+"|mana_1|, Sacrifice Scroll of Avacyn: Draw a card. If you control an "
+"Angel, you gain 5 life."
+msgstr ""
+
+#: ../../AVR.rst:1799
+msgid "Scroll of Griselbrand"
+msgstr ""
+
+#: ../../AVR.rst:1798
+msgid ""
+"|mana_1|, Sacrifice Scroll of Griselbrand: Target opponent discards a "
+"card. If you control a Demon, that player loses 3 life."
+msgstr ""
+
+#: ../../AVR.rst:1808
+msgid "Tormentor's Trident"
+msgstr ""
+
+#: ../../AVR.rst:1805
+msgid "Equipped creature gets +3/+0 and attacks each combat if able."
+msgstr ""
+
+#: ../../AVR.rst:1807
+msgid "Equip |mana_3|"
+msgstr ""
+
+#: ../../AVR.rst:1817
+msgid "Vanguard's Shield"
+msgstr ""
+
+#: ../../AVR.rst:1814
+msgid ""
+"Equipped creature gets +0/+3 and can block an additional creature each "
+"combat."
+msgstr ""
+
+#: ../../AVR.rst:1816
+msgid ""
+"Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip "
+"only as a sorcery.)"
+msgstr ""
+
+#: ../../AVR.rst:1826
+msgid "Vessel of Endless Rest"
+msgstr ""
+
+#: ../../AVR.rst:1823
+msgid ""
+"When Vessel of Endless Rest enters the battlefield, put target card from "
+"a graveyard on the bottom of its owner's library."
+msgstr ""
+
+#: ../../AVR.rst:1825
+msgid "|tap|: Add one mana of any color."
+msgstr ""
+
+#: ../../AVR.rst:1835
 msgid "Alchemist's Refuge"
 msgstr "Alchemist's Refuge (Szałas Alchemika)"
+
+#: ../../AVR.rst:1832 ../../AVR.rst:1843 ../../AVR.rst:1852 ../../AVR.rst:1865
+#: ../../AVR.rst:1872
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../AVR.rst:1834
+#, fuzzy
+msgid ""
+"|mana_g| |mana_u|, |tap|: You may cast spells this turn as though they "
+"had flash."
+msgstr ""
+"|mana_g| |mana_u|, |tap|: Możesz rzucić nielądowe karty w tej turze tak, "
+"jakby miały błysk."
+
+#: ../../AVR.rst:1846
+msgid "Cavern of Souls"
+msgstr "Cavern of Souls (Jaskinia Dusz)"
+
+#: ../../AVR.rst:1841
+msgid "As Cavern of Souls enters the battlefield, choose a creature type."
+msgstr "Wprowadzając Jaskinię Dusz na pole walki, wybierz typ stwora."
+
+#: ../../AVR.rst:1845
+#, fuzzy
+msgid ""
+"|tap|: Add one mana of any color. Spend this mana only to cast a creature"
+" spell of the chosen type, and that spell can't be countered."
+msgstr ""
+"|tap|: Dodaj jedną manę dowolnego koloru do twojej puli many. Użyj tę "
+"manę tylko do rzucenia czaru stwora wybranego typu i ów czar nie może "
+"zostać skontrowany."
+
+#: ../../AVR.rst:1855
+msgid "Desolate Lighthouse"
+msgstr ""
+
+#: ../../AVR.rst:1854
+msgid "|mana_1| |mana_u| |mana_r|, |tap|: Draw a card, then discard a card."
+msgstr ""
+
+#: ../../AVR.rst:1866
+msgid "Seraph Sanctuary"
+msgstr ""
+
+#: ../../AVR.rst:1861
+msgid "When Seraph Sanctuary enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../AVR.rst:1863
+msgid ""
+"Whenever an Angel enters the battlefield under your control, you gain 1 "
+"life."
+msgstr ""
+
+#: ../../AVR.rst:1875
+msgid "Slayers' Stronghold"
+msgstr ""
+
+#: ../../AVR.rst:1874
+msgid ""
+"|mana_r| |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance "
+"and haste until end of turn."
+msgstr ""
+
+#: ../../AVR.rst:1880 ../../AVR.rst:1887 ../../AVR.rst:1894
+msgid "Plains"
+msgstr ""
+
+#: ../../AVR.rst:1901 ../../AVR.rst:1908 ../../AVR.rst:1915
+msgid "Island"
+msgstr ""
+
+#: ../../AVR.rst:1922 ../../AVR.rst:1929 ../../AVR.rst:1936
+msgid "Swamp"
+msgstr ""
+
+#: ../../AVR.rst:1943 ../../AVR.rst:1950 ../../AVR.rst:1957
+msgid "Mountain"
+msgstr ""
+
+#: ../../AVR.rst:1964 ../../AVR.rst:1971 ../../AVR.rst:1978
+msgid "Forest"
+msgstr ""
+
+# b5c4d088f9224d26871658a228726b2f
+#~ msgid ""
+#~ "Enchanted land has \\\"|tap|: Add one"
+#~ " mana of any color to your mana"
+#~ " pool.\\\""
+#~ msgstr ""
 
 # ab2be5d9435841c780458ee451d0dc1e
 # 71e417eff488475d8bd37600f7d0029a
 # d6f85301afab4fe4a7ed8f2801076c3d
 # 03b9664ddc874ae291c92b8158cab149
 # 88605acf55224fb8bf1fa0b4c0a5a210
-#: ../../AVR.rst:24
-#: ../../AVR.rst:194
-#: ../../AVR.rst:304
-#: ../../AVR.rst:926
-#: ../../AVR.rst:946
-msgid "|tap|: Add |mana_1| to your mana pool."
-msgstr "|tap|: Dodaj |mana_1| do twojej puli many."
-
-# f0f346ba4caa47a48346e11552068783
-#: ../../AVR.rst:26
-msgid "|mana_g| |mana_u|, |tap|: You may cast nonland cards this turn as though they had flash."
-msgstr ""
-"|mana_g| |mana_u|, |tap|: Możesz rzucić nielądowe karty w tej turze tak, "
-"jakby miały błysk."
-
-# dc23f566430a4271b60bee0fa1564cb6
-#: ../../AVR.rst:31
-msgid "Amass the Components"
-msgstr "Amass the Components (Zgromadź Składniki)"
-
-# 84e0748a66d84699bb4057dbf75a2029
-#: ../../AVR.rst:30
-msgid "Draw three cards, then put a card from your hand on the bottom of your library."
-msgstr ""
-"Dobierz trzy karty, następnie połóż kartę z twojej ręki na spodzie twojej "
-"biblioteki."
-
-# 38b528f2cddf4c67bd40bc65e0efd64a
-#: ../../AVR.rst:37
-msgid "Angel of Glory's Rise"
-msgstr ""
-
-# 06faaa7184dd45719edf1a9cbf7b1e47
-# c17813f234e04c7280aa922ddd4db0d6
-# 25a7dc23fd084bddbf68b7b319495adf
-# e1bf13034d694ff49e9b7a8fd5447c13
-# 1a62643dafa34896a0ad2d2423e03748
-# 874d10215e5f4746a26377c3155ff27e
-# 0ac02322ff204216b3514cdfdcaecd75
-# 072a47462ecf4728aed54ac950f4990b
-# 06da4096f3fb4004aeece48a7a427a92
-# 9c937ab47a8447498f406d9207471e0b
-# 7b76061b7433456dbd0afb75608a80c9
-# 2db89fc2c0ce4617a17306dae3180367
-# 0899bedade044ada9c200b598e47ed8b
-# c737c98d36fc4633b8243093d270314c
-# 31e78adcfb7e4b0391ab453497fd2f97
-# 6a56d5199d174a3798917028038d4e3e
-# 7dcd8c6811034b15b38ad0366d69b36c
-# c67bbf0fb02c43b2b51404ac49afa4a5
-# 0995b4fd5eb544b09f195b5e599f9760
-#: ../../AVR.rst:34
-#: ../../AVR.rst:40
-#: ../../AVR.rst:56
-#: ../../AVR.rst:282
-#: ../../AVR.rst:288
-#: ../../AVR.rst:370
-#: ../../AVR.rst:416
-#: ../../AVR.rst:502
-#: ../../AVR.rst:524
-#: ../../AVR.rst:568
-#: ../../AVR.rst:692
-#: ../../AVR.rst:714
-#: ../../AVR.rst:720
-#: ../../AVR.rst:726
-#: ../../AVR.rst:848
-#: ../../AVR.rst:892
-#: ../../AVR.rst:906
-#: ../../AVR.rst:916
-#: ../../AVR.rst:1152
-msgid "Flying"
-msgstr "Latanie"
-
-# 6c653e764a0b46baaf484901d0adac1f
-#: ../../AVR.rst:36
-msgid "When Angel of Glory's Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield."
-msgstr ""
-
-# 30e913d19ddb4e29b19ff2ed9c7e97ec
-#: ../../AVR.rst:45
-msgid "Angel of Jubilation"
-msgstr ""
-
-# cc76031a7b1749beb547df8fa8893fb3
-#: ../../AVR.rst:42
-msgid "Other nonblack creatures you control get +1/+1."
-msgstr "Inne nieczarne stwory, którymi władasz, dostają +1/+1."
-
-# e9f9656812ee48a1916d395daac1841f
-#: ../../AVR.rst:44
-msgid "Players can't pay life or sacrifice creatures to cast spells or activate abilities."
-msgstr ""
-
-# 965473b78fc24419a1b23c2da4fcb072
-#: ../../AVR.rst:51
-msgid "Angelic Armaments"
-msgstr ""
-
-# 0c615252a4874c0795fdd5114fefcf85
-#: ../../AVR.rst:48
-msgid "Equipped creature gets +2/+2, has flying, and is a white Angel in addition to its other colors and types."
-msgstr ""
-
-# 378ffd33122b4aab9bb82d8129c27624
-# e2e2816f265f4dfa9a4f5a3562a04ef9
-#: ../../AVR.rst:50
-#: ../../AVR.rst:736
-msgid "Equip |mana_4|"
-msgstr ""
-
-# 4d2e924fb637415eb2e9d4f5dade9e35
-#: ../../AVR.rst:57
-msgid "Angelic Wall"
-msgstr "Angelic Wall (Anielska Ściana)"
-
-# 2259958810dd4c98a12caa80babc9edb
-#: ../../AVR.rst:54
-msgid "Defender (This creature can't attack.)"
-msgstr "Obronność (Ten stwór nie może atakować.)"
-
-# 73ad7a1a816845349d3d1e417c171a83
-#: ../../AVR.rst:61
-msgid "Angel's Mercy"
-msgstr "Angel's Mercy (Litość Anioła)"
-
-# 3db0cf41b2e640a7b8eaa4b3df1f7687
-#: ../../AVR.rst:60
-msgid "You gain 7 life."
-msgstr "Zyskujesz 7 życia."
-
-# 9bdd00e576cf4638b111368273b96e28
-#: ../../AVR.rst:65
-msgid "Angel's Tomb"
-msgstr "Angel's Tomb (Grobowiec Anioła)"
-
-# 776f946fcfbc4ffb84345f094623d107
-#: ../../AVR.rst:64
-msgid "Whenever a creature enters the battlefield under your control, you may have Angel's Tomb become a 3/3 white Angel artifact creature with flying until end of turn."
-msgstr ""
-
-# 450228acb2874356a151f39274fa93e4
-#: ../../AVR.rst:69
-msgid "Appetite for Brains"
-msgstr "Appetite for Brains (Apetyt na Mózgi)"
-
-# 511b2edf08fd4c14802430982828251b
-#: ../../AVR.rst:68
-msgid "Target opponent reveals his or her hand. You choose a card from it with converted mana cost 4 or greater and exile that card."
-msgstr ""
-"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz stamtąd kartę o łącznym "
-"koszcie many 4 lub większym i wypędzasz ową kartę."
-
-# 64f5c9edbfc4457e81630a19923e375f
-#: ../../AVR.rst:73
-msgid "Arcane Melee"
-msgstr ""
-
-# 9eb2bfe71b22457ba9e36fc88a153acb
-#: ../../AVR.rst:72
-msgid "Instant and sorcery spells cost |mana_2| less to cast."
-msgstr ""
-
-# befc986a2d324ea5a954b552abb96d00
-#: ../../AVR.rst:77
-msgid "Archangel"
-msgstr ""
-
-# 49c352e17581486fb086f947b8c05de0
-# 9f5b409a7be14f02adfbd1e88e468c90
-#: ../../AVR.rst:76
-#: ../../AVR.rst:152
-msgid "Flying, vigilance"
-msgstr ""
-
-# 74d2956319734fbba147d6fa16add916
-#: ../../AVR.rst:83
-msgid "Archwing Dragon"
-msgstr ""
-
-# b86e30a413a54147bc3e7e24aa6c9d42
-#: ../../AVR.rst:80
-msgid "Flying, haste"
-msgstr "Latanie, pośpiech"
-
-# fc8ca8740914412b933fc9cc633022c2
-#: ../../AVR.rst:82
-msgid "At the beginning of the end step, return Archwing Dragon to its owner's hand."
-msgstr ""
-
-# 2c5e24b61a0e44689ff717556d304b7a
-#: ../../AVR.rst:89
-msgid "Avacyn, Angel of Hope"
-msgstr ""
-
-# 4ffad5fd0fe34f469d12b9bcb3fe563f
-#: ../../AVR.rst:86
-msgid "Flying, vigilance, indestructible"
-msgstr "Latanie, czujność, niezniszczalność"
-
-# 28423f9745b240fd90fa6b474af4df42
-#: ../../AVR.rst:88
-msgid "Other permanents you control have indestructible."
-msgstr "Inne permanenty, którymi władasz, mają niezniszczalność."
-
-# a76378fec338407aa700a480417fd405
-#: ../../AVR.rst:95
-msgid "Banishing Stroke"
-msgstr ""
-
-# ae57778f123e440f85f4253fa9722a33
-#: ../../AVR.rst:92
-msgid "Put target artifact, creature, or enchantment on the bottom of its owner's library."
-msgstr ""
-
-# 49a2a4b222ed44c28eaf12916e1ff808
-# 22d7c63fe9c64ea386df5364b3956ce4
-#: ../../AVR.rst:94
-#: ../../AVR.rst:1038
-msgid "Miracle |mana_w| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
-msgstr ""
-
-# c162e3084d1d4a5fa4f05198a7946bea
-#: ../../AVR.rst:99
-msgid "Banners Raised"
-msgstr "Banners Raised (Chorągwie Wzwyż)"
-
-# e4604650078d40f69f6586ebea84176c
-#: ../../AVR.rst:98
-msgid "Creatures you control get +1/+0 until end of turn."
-msgstr "Stwory, którymi władasz, dostają do końca tury +1/+0."
-
-# 26be53c4d3eb41b38e5a420fbab7ec0e
-#: ../../AVR.rst:103
-msgid "Barter in Blood"
-msgstr ""
-
-# 8280207e647f4a67bd4890223b6cb168
-#: ../../AVR.rst:102
-msgid "Each player sacrifices two creatures."
-msgstr "Każdy gracz poświęca dwa stwory."
-
-# 2dbd989b8292456bbbde2015f57d2716
-#: ../../AVR.rst:107
-msgid "Battle Hymn"
-msgstr ""
+#~ msgid "|tap|: Add |mana_1| to your mana pool."
+#~ msgstr "|tap|: Dodaj |mana_1| do twojej puli many."
 
 # 49c8b0065d5d4668a03a11725069dc77
-#: ../../AVR.rst:106
-msgid "Add |mana_r| to your mana pool for each creature you control."
-msgstr ""
-
-# 5a9b8e9d61304e0094663abd68ee7204
-#: ../../AVR.rst:115
-msgid "Bladed Bracers"
-msgstr ""
-
-# 9ce6fe0d75ea4191b2476951ee08fad6
-#: ../../AVR.rst:110
-msgid "Equipped creature gets +1/+1."
-msgstr ""
-
-# 0698e348bc8f4ba98168035d62569361
-#: ../../AVR.rst:112
-msgid "As long as equipped creature is a Human or an Angel, it has vigilance."
-msgstr ""
-
-# d9647b7a20434d0b8b1aa8ba78ffd186
-#: ../../AVR.rst:114
-msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)"
-msgstr ""
-
-# 90b25527835b4e4b933ae1a01f2bbf42
-#: ../../AVR.rst:121
-msgid "Blessings of Nature"
-msgstr ""
-
-# 98ca52c96f244197a0eaf41939600865
-#: ../../AVR.rst:118
-msgid "Distribute four +1/+1 counters among any number of target creatures."
-msgstr ""
-
-# eda84520eacf48fba7ef1172bb3dff3d
-# e649b7abc0c645a2b0d12849f53bfe1a
-#: ../../AVR.rst:120
-#: ../../AVR.rst:856
-msgid "Miracle |mana_g| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
-msgstr ""
-
-# a122a8c68945457d9e8feb5f46e7212d
-#: ../../AVR.rst:125
-msgid "Blood Artist"
-msgstr "Blood Artist (Artysta Krwi)"
-
-# c3c8eb992ba54cdc833d40cfbf5b4afe
-#: ../../AVR.rst:124
-msgid "Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life."
-msgstr ""
-"Ilekroć Artysta Krwi lub inny stwór umiera, wskazany gracz traci 1 życie, a "
-"ty zyskujesz 1 życie."
-
-# 0cef7970889c4c5b9c4407f1ce99e932
-#: ../../AVR.rst:129
-msgid "Bloodflow Connoisseur"
-msgstr ""
-
-# 17853a308830430f86bc10819a4982fc
-#: ../../AVR.rst:128
-#, fuzzy
-msgid "Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur."
-msgstr "Poświęć stwora: Połóż znacznik +1/+1 na Bloodflow Connoisseur."
-
-# daf4f64f9522498fa64032274f757440
-#: ../../AVR.rst:135
-msgid "Bone Splinters"
-msgstr ""
+#~ msgid "Add |mana_r| to your mana pool for each creature you control."
+#~ msgstr ""
 
 # bf86d57f65ec495ab48acf72832a46e3
-#: ../../AVR.rst:132
-msgid "As an additional cost to cast Bone Splinters, sacrifice a creature."
-msgstr ""
-
-# 382f312d8d644bbc835653384d28ae68
-#: ../../AVR.rst:134
-msgid "Destroy target creature."
-msgstr "Zniszcz wskazanego stwora."
-
-# 711fb7917731406296f23c24a5a8cee8
-#: ../../AVR.rst:141
-msgid "Bonfire of the Damned"
-msgstr ""
+#~ msgid "As an additional cost to cast Bone Splinters, sacrifice a creature."
+#~ msgstr ""
 
 # 13eb1ace9025433facdc65f98a5f064d
-#: ../../AVR.rst:138
-msgid "Bonfire of the Damned deals X damage to target player and each creature he or she controls."
-msgstr ""
-
-# ba1da94ba9594199940727820f85f83d
-#: ../../AVR.rst:140
-msgid "Miracle |mana_x| |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
-msgstr ""
-
-# 1e799891a14c4213982e75cf7465103b
-#: ../../AVR.rst:145
-msgid "Borderland Ranger"
-msgstr ""
-
-# 94353289f4a14299bd3f88d1db39d8a2
-#: ../../AVR.rst:144
-msgid "When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library."
-msgstr ""
-
-# 3ced1241b7ff47d0a3db464edf7fffac
-#: ../../AVR.rst:149
-msgid "Bower Passage"
-msgstr ""
-
-# 2c3472d600494ad8abc46b342d234f6b
-#: ../../AVR.rst:148
-msgid "Creatures with flying can't block creatures you control."
-msgstr "Stwory z lataniem nie mogą blokować stworów, którymi władasz."
-
-# a1d9816e8bd94ce384f89a0dc3899e7d
-#: ../../AVR.rst:155
-msgid "Bruna, Light of Alabaster"
-msgstr "Bruna, Light of Alabaster (Bruna, Alabastrowy Blask)"
-
-# 906e024508a0443099eb849ed1b7cfd3
-#: ../../AVR.rst:154
-#, fuzzy
-msgid "Whenever Bruna, Light of Alabaster attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand."
-msgstr ""
-"Ilekroć Bruna, Alabastrowy Blask atakuje lub blokuje, możesz do niej "
-"dołączyć dowolną liczbę Aur z pola walki oraz możesz położyć na polu walki "
-"dołączone do niej dowolną liczbę Aur, które mogłyby ją zauroczyć ze swojego "
-"cmentarza i/lub ręki."
-
-# 8661c35bccac4862a07972356db8f917
-#: ../../AVR.rst:159
-msgid "Builder's Blessing"
-msgstr ""
-
-# d8412d79ae224736a17d57531ee88af8
-#: ../../AVR.rst:158
-msgid "Untapped creatures you control get +0/+2."
-msgstr "Niezaznaczone stwory, którymi władasz, dostają +0/+2."
-
-# fee2a60688624d8b859d2a6dd652fe20
-#: ../../AVR.rst:165
-msgid "Burn at the Stake"
-msgstr "Burn at the Stake (Płoń na Stosie)"
-
-# 2be3fc47fb0d4d7db69425c0e76d937a
-#: ../../AVR.rst:162
-msgid "As an additional cost to cast Burn at the Stake, tap any number of untapped creatures you control."
-msgstr ""
-"Jako dodatkowy koszt rzucenia Płoń na Stosie, zaznacz dowolną liczbę "
-"niezaznaczonych stworów, którymi władasz."
-
-# 8f276ea0e0e54cbfa1168f0d01d2da3b
-#: ../../AVR.rst:164
-msgid "Burn at the Stake deals damage to target creature or player equal to three times the number of creatures tapped this way."
-msgstr ""
-"Płoń na Stosie zadaje wskazanemu stworowi lub graczowi trzy razy więcej "
-"obrażeń niż liczba stworów zaznaczonych w ten sposób."
-
-# 71d21a1da6ce4b2599a2211ed19dead6
-#: ../../AVR.rst:169
-msgid "Butcher Ghoul"
-msgstr ""
-
-# 707eb131518a45279b2ccb2f73e5634c
-# 850fce2fb7db42dfa8d9711bc2880cad
-# 571938a97c60484f921b5db991aa90ae
-# a925673c1f7e484c884368d662c7726a
-# 35aa0723221a4ddeb3ee1dff39cd57f7
-# 7b50f04ca2a74be586eaa79498fb2a32
-#: ../../AVR.rst:168
-#: ../../AVR.rst:292
-#: ../../AVR.rst:388
-#: ../../AVR.rst:586
-#: ../../AVR.rst:592
-#: ../../AVR.rst:1086
-msgid "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)"
-msgstr ""
-
-# 029fd692f9344822acc85b59259be9be
-#: ../../AVR.rst:175
-msgid "Call to Serve"
-msgstr ""
-
-# f6ee6e11ba86483fb14cc08c0aabdf07
-#: ../../AVR.rst:172
-msgid "Enchant nonblack creature"
-msgstr "Zaurocz nieczarnego stwora"
-
-# 121af413346241b68b1ba8a173029d1b
-#: ../../AVR.rst:174
-msgid "Enchanted creature gets +1/+2, has flying, and is an Angel in addition to its other types."
-msgstr ""
-
-# f808443d99674898b486adc5c1858bc6
-#: ../../AVR.rst:181
-msgid "Captain of the Mists"
-msgstr "Captain of the Mists (Kapitan Mgieł)"
-
-# 023a374ef2fe42dc8d9135c5f2a93ff1
-#: ../../AVR.rst:178
-msgid "Whenever another Human enters the battlefield under your control, untap Captain of the Mists."
-msgstr ""
-"Ilekroć inny Człowiek wchodzi na pole walki pod twoim władaniem, odznacz "
-"Kapitana Mgieł."
-
-# d2dbecacfefe4b0ba3a2da0e759783c4
-#: ../../AVR.rst:180
-msgid "|mana_1| |mana_u|, |tap|: You may tap or untap target permanent."
-msgstr ""
-"|mana_1| |mana_u|, |tap|: Możesz zaznaczyć lub odznaczyć wskazany permanent."
-
-# b510c6886b1c43ceb503217c9346e3f1
-#: ../../AVR.rst:185
-msgid "Cathars' Crusade"
-msgstr ""
-
-# 2e7e6b6ceac241b19e2176e8e1d5c439
-#: ../../AVR.rst:184
-msgid "Whenever a creature enters the battlefield under your control, put a +1/+1 counter on each creature you control."
-msgstr ""
-"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, połóż znacznik "
-"+1/+1 na każdym stworze, którym władasz."
-
-# 62ea9962530e433aabe993f249ef7b84
-#: ../../AVR.rst:189
-msgid "Cathedral Sanctifier"
-msgstr ""
-
-# cbf7de2400a44da2ab20b96623ed3ac9
-#: ../../AVR.rst:188
-msgid "When Cathedral Sanctifier enters the battlefield, you gain 3 life."
-msgstr ""
-
-# 2f341fbb1ab34639b1efb1d2f2d9958d
-#: ../../AVR.rst:197
-msgid "Cavern of Souls"
-msgstr "Cavern of Souls (Jaskinia Dusz)"
-
-# a2b1f0e3125c4ab9b95d12d0243f10de
-#: ../../AVR.rst:192
-msgid "As Cavern of Souls enters the battlefield, choose a creature type."
-msgstr "Wprowadzając Jaskinię Dusz na pole walki, wybierz typ stwora."
-
-# 660cf977eb4a420ea8e13a0495d15c05
-#: ../../AVR.rst:196
-msgid "|tap|: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered."
-msgstr ""
-"|tap|: Dodaj jedną manę dowolnego koloru do twojej puli many. Użyj tę manę "
-"tylko do rzucenia czaru stwora wybranego typu i ów czar nie może zostać "
-"skontrowany."
-
-# 598de69b754844529a031f69486014ea
-#: ../../AVR.rst:203
-msgid "Champion of Lambholt"
-msgstr ""
-
-# 815b28963a7a440fa3ee10c3a6c92ecf
-#: ../../AVR.rst:200
-msgid "Creatures with power less than Champion of Lambholt's power can't block creatures you control."
-msgstr ""
-
-# b19cfa182421469bbf0bd7d062faa5ee
-#: ../../AVR.rst:202
-msgid "Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt."
-msgstr ""
-
-# 8a44fac684ff40bfa7c95e88000781cd
-#: ../../AVR.rst:207
-msgid "Cloudshift"
-msgstr ""
-
-# 2da42f1d815642cc82604f54335a330b
-#: ../../AVR.rst:206
-msgid "Exile target creature you control, then return that card to the battlefield under your control."
-msgstr ""
-
-# 372a52ba80a84e4b8097e202c565e167
-#: ../../AVR.rst:213
-msgid "Commander's Authority"
-msgstr ""
-
-# 0035f286962542a29aaff89fa9a82c85
-# 3e5bfc2fd38b4b2da1f380dfd3c5c507
-# f426777b65824fdeb7d0648fae71a597
-# f7ca6e1038694f5dbc84acb2eee5a910
-# 4bf89664212245e5bb45fec5b684c87c
-# 7bfb86ba2fbc48c19de3e420f7518cac
-# 11290437e4b14eb69afa32dfca55f5bd
-# 3168d4c4acff432fac4ee45ac2d1904f
-# acdd6dfda6f64722a5005deb240d2da0
-# 6dc8e8c92e9947f18f4e496512e2eb04
-# 0518d5521c7249be864c985463cb1bd2
-# 7f648a0cbc994258a4ff6d7206366ad4
-# 298df4a408a34cd29f6c74f3573d0a59
-# c711d27b00f1414fa83421954247141d
-#: ../../AVR.rst:210
-#: ../../AVR.rst:264
-#: ../../AVR.rst:354
-#: ../../AVR.rst:468
-#: ../../AVR.rst:474
-#: ../../AVR.rst:518
-#: ../../AVR.rst:530
-#: ../../AVR.rst:604
-#: ../../AVR.rst:654
-#: ../../AVR.rst:680
-#: ../../AVR.rst:812
-#: ../../AVR.rst:980
-#: ../../AVR.rst:988
-#: ../../AVR.rst:1120
-msgid "Enchant creature"
-msgstr "Zaurocz stwora"
+#~ msgid ""
+#~ "Bonfire of the Damned deals X "
+#~ "damage to target player and each "
+#~ "creature he or she controls."
+#~ msgstr ""
 
 # c903fd1d24574fa3ab0ad894343088e0
-#: ../../AVR.rst:212
-msgid "Enchanted creature has \\\"At the beginning of your upkeep, put a 1/1 white Human creature token onto the battlefield.\\\""
-msgstr ""
-
-# 06ca711791d7479eb1532b66c3d001ed
-#: ../../AVR.rst:217
-msgid "Conjurer's Closet"
-msgstr ""
-
-# 3c4f2a88a18a4ed1a4c24fc48d3a2596
-#: ../../AVR.rst:216
-msgid "At the beginning of your end step, you may exile target creature you control, then return that card to the battlefield under your control."
-msgstr ""
-
-# 8310642397934fd9b0649d2ef22a6274
-#: ../../AVR.rst:221
-msgid "Corpse Traders"
-msgstr "Corpse Traders (Handlarze Zwłok)"
+#~ msgid ""
+#~ "Enchanted creature has \\\"At the "
+#~ "beginning of your upkeep, put a "
+#~ "1/1 white Human creature token onto "
+#~ "the battlefield.\\\""
+#~ msgstr ""
 
 # 23c6beb77f2d418f9ecd0e614804cdb5
-#: ../../AVR.rst:220
-msgid "|mana_2| |mana_b|, Sacrifice a creature: Target opponent reveals his or her hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
-msgstr ""
-
-# 38b49bc426664e0bbfaeb4a07c14c14e
-#: ../../AVR.rst:227
-msgid "Craterhoof Behemoth"
-msgstr ""
-
-# 9faf3617cb5f49d48eafeacc35c2edbe
-# de38f3b2ae7642ba95e77dca110db24e
-# c14299b8c1b540cb9c14afc56f36a72f
-# b04576eb63ee4743a9322ff9112145e4
-#: ../../AVR.rst:224
-#: ../../AVR.rst:410
-#: ../../AVR.rst:674
-#: ../../AVR.rst:1196
-msgid "Haste"
-msgstr "Pośpiech"
-
-# e9d6576f185c4aa6bd11a758534bc38f
-#: ../../AVR.rst:226
-msgid "When Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control."
-msgstr ""
-
-# 8dbb44a4b4c04892a8e2fddc8fabd3b6
-#: ../../AVR.rst:233
-msgid "Crippling Chill"
-msgstr ""
-
-# 3ba089f56422424eb52a7400c57b3061
-#: ../../AVR.rst:230
-msgid "Tap target creature. It doesn't untap during its controller's next untap step."
-msgstr ""
-
-# d81d61ac8192433d9b43a9faaf02eb6e
-# 10ee6b9f5fbf46c381ecbf42e0cf6ad3
-#: ../../AVR.rst:232
-#: ../../AVR.rst:424
-msgid "Draw a card."
-msgstr ""
-
-# 25b17b2b282f4c54b80efa7f024cc546
-#: ../../AVR.rst:237
-msgid "Crypt Creeper"
-msgstr ""
-
-# c5bb1af97aad49caa5fbef22013168ac
-#: ../../AVR.rst:236
-msgid "Sacrifice Crypt Creeper: Exile target card from a graveyard."
-msgstr ""
-
-# beb6c24dba1748a3854f7bc0452026c3
-#: ../../AVR.rst:241
-msgid "Cursebreak"
-msgstr ""
-
-# 14a99cd091b44d5faa712706d0c227c0
-#: ../../AVR.rst:240
-msgid "Destroy target enchantment. You gain 2 life."
-msgstr "Zniszcz wskazany urok. Zyskujesz 2 życia."
-
-# 4ae3ef3390734bd7949bbbbd1f8a3e93
-#: ../../AVR.rst:245
-msgid "Dangerous Wager"
-msgstr ""
-
-# c790c43eabb749edbb2d3993051d0d9f
-#: ../../AVR.rst:244
-msgid "Discard your hand, then draw two cards."
-msgstr "Odrzuć swoją rękę, a następnie dobierz dwie karty."
-
-# 408aafb7ca914b20b8b503669a6089d2
-#: ../../AVR.rst:251
-msgid "Dark Impostor"
-msgstr ""
-
-# 8921ccd31ef247ce9e2a8126c45e1861
-#: ../../AVR.rst:248
-msgid "|mana_4| |mana_b| |mana_b|: Exile target creature and put a +1/+1 counter on Dark Impostor."
-msgstr ""
-
-# b58dedf9f5f84d2f93bb20efde2f9719
-#: ../../AVR.rst:250
-msgid "Dark Impostor has all activated abilities of all creature cards exiled with it."
-msgstr ""
-
-# b107bd261e1f440f8146df8c94ffcdaf
-#: ../../AVR.rst:257
-msgid "Deadeye Navigator"
-msgstr ""
-
-# c04db7242016425296422aed38d24c87
-# 17b9fd6278404ef5bf88bfca1989ed24
-# 885d717c15af47c286589f4f1c6f4a76
-# 8b8e486093904ca5b4b91ea0ee5a77cb
-# 831352de0905431e9317440265df9c18
-# 9ea1806bbb0c48969559915e0e7daf40
-# ba0e0fe3081146648cec69569294e0e9
-# b4154454475c4974a1b6ee399a84df46
-# 335c1a8e4dfa4c058a2abac5e906d575
-# 3138810f1c4748ef91a0c1bdc2fc540b
-# f8a865a216e94a8a9b613966b9f48797
-# ae4e91f12b63480e9d7c938682b3d881
-# 0464dc792c544130bbdc91b75580753e
-# 676b188865e4426ba970059e5e5ad9d9
-# 35ea23b9718844a6851ae869a12d6b7e
-# a861b08591d04ca69bbeed898963256f
-# 6c4b875fdf754e82a32b3e5175b6d101
-# 0fd0762d684b4347a16796018ed45099
-# ba1d0ce9850b4bb6b653b9795ccfad78
-#: ../../AVR.rst:254
-#: ../../AVR.rst:320
-#: ../../AVR.rst:342
-#: ../../AVR.rst:364
-#: ../../AVR.rst:440
-#: ../../AVR.rst:454
-#: ../../AVR.rst:536
-#: ../../AVR.rst:648
-#: ../../AVR.rst:756
-#: ../../AVR.rst:774
-#: ../../AVR.rst:790
-#: ../../AVR.rst:940
-#: ../../AVR.rst:974
-#: ../../AVR.rst:996
-#: ../../AVR.rst:1006
-#: ../../AVR.rst:1024
-#: ../../AVR.rst:1098
-#: ../../AVR.rst:1174
-#: ../../AVR.rst:1186
-msgid "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)"
-msgstr ""
-"Więź dusz (Możesz sparować tego stwora z innym niesparowanym stworem gdy "
-"którykolwiek wchodzi na pole walki. Pozostają parą dopóki kontrolujesz obu.)"
+#~ msgid ""
+#~ "|mana_2| |mana_b|, Sacrifice a creature: "
+#~ "Target opponent reveals his or her "
+#~ "hand. You choose a card from it."
+#~ " That player discards that card. "
+#~ "Activate this ability only any time "
+#~ "you could cast a sorcery."
+#~ msgstr ""
 
 # 8889affa87284916aa2b97c3e3983503
-#: ../../AVR.rst:256
-msgid "As long as Deadeye Navigator is paired with another creature, each of those creatures has \\\"|mana_1| |mana_u|: Exile this creature, then return it to the battlefield under your control.\\\""
-msgstr ""
-
-# 54d6c2ec4c704fd8b2e68e773ba7b623
-#: ../../AVR.rst:261
-msgid "Death Wind"
-msgstr ""
-
-# 2231a09412284e3c84b85c7e3abc7ac1
-#: ../../AVR.rst:260
-msgid "Target creature gets -X/-X until end of turn."
-msgstr ""
-
-# d71d6e1b8ef34333a37a37b8ac76deb7
-#: ../../AVR.rst:267
-msgid "Defang"
-msgstr ""
-
-# cd7ce576ec3e412a8f50dfad9ac26e35
-#: ../../AVR.rst:266
-msgid "Prevent all damage that would be dealt by enchanted creature."
-msgstr ""
-"Zażegnaj wszystkie obrażenia, które mogłyby zostać zadane zauroczonemu "
-"stworowi."
-
-# 0591b0702228415da2c120b34d603777
-#: ../../AVR.rst:271
-msgid "Defy Death"
-msgstr ""
-
-# 5e56dfa436ce484b93c454b20691d0a0
-#: ../../AVR.rst:270
-msgid "Return target creature card from your graveyard to the battlefield. If it's an Angel, put two +1/+1 counters on it."
-msgstr ""
-"Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Jeśli to "
-"Anioł, połóż na nim dwa znaczniki +1/+1."
-
-# 7b09797d688e4a44a8a67f5b4bdc24af
-#: ../../AVR.rst:275
-msgid "Demolish"
-msgstr ""
-
-# 0a1596d808374f1498dbdfeb674d0323
-#: ../../AVR.rst:274
-msgid "Destroy target artifact or land."
-msgstr "Zniszcz wskazany artefakt lub ląd."
-
-# b6335a4602444194bb84f6b1f00b5755
-#: ../../AVR.rst:279
-msgid "Demonic Rising"
-msgstr ""
-
-# be88d719dc2f44c5a332b651f8c9cb20
-#: ../../AVR.rst:278
-msgid "At the beginning of your end step, if you control exactly one creature, put a 5/5 black Demon creature token with flying onto the battlefield."
-msgstr ""
-"Na początku twojego kroku końcowego, jeśli władasz dokładnie jednym stworem, "
-"połóż na polu walki żeton czarnego stwora Demon 5/5 z lataniem."
-
-# 280038b786054a0b8c228dbb5dae2891
-#: ../../AVR.rst:285
-msgid "Demonic Taskmaster"
-msgstr ""
-
-# 9324868bd6fd49aab2dac8b819d82093
-#: ../../AVR.rst:284
-msgid "At the beginning of your upkeep, sacrifice a creature other than Demonic Taskmaster."
-msgstr ""
-
-# 69be80ff9818411d8b30103dadb3d941
-#: ../../AVR.rst:293
-msgid "Demonlord of Ashmouth"
-msgstr ""
-
-# cc2a8ab3cbf44754979f8d6df1bfb53d
-#: ../../AVR.rst:290
-msgid "When Demonlord of Ashmouth enters the battlefield, exile it unless you sacrifice another creature."
-msgstr ""
-
-# 7987ca46fd964350b8cd8f31b9959ab9
-#: ../../AVR.rst:297
-msgid "Descendants' Path"
-msgstr ""
-
-# 0363d47949ef47e8b0d842dc177ff6be
-#: ../../AVR.rst:296
-msgid "At the beginning of your upkeep, reveal the top card of your library. If it's a creature card that shares a creature type with a creature you control, you may cast that card without paying its mana cost. Otherwise, put that card on the bottom of your library."
-msgstr ""
-
-# 4f7b6ce96c244fb08f5b110a314b33ec
-#: ../../AVR.rst:301
-msgid "Descent into Madness"
-msgstr ""
+#~ msgid ""
+#~ "As long as Deadeye Navigator is "
+#~ "paired with another creature, each of"
+#~ " those creatures has \\\"|mana_1| |mana_u|:"
+#~ " Exile this creature, then return it"
+#~ " to the battlefield under your "
+#~ "control.\\\""
+#~ msgstr ""
 
 # 8e5b7f7377b24f7a9b78d2fa044f6bec
-#: ../../AVR.rst:300
-msgid "At the beginning of your upkeep, put a despair counter on Descent into Madness, then each player exiles X permanents he or she controls and/or cards from his or her hand, where X is the number of despair counters on Descent into Madness."
-msgstr ""
-
-# 9ca16dca1561434884001127ccb04b6a
-#: ../../AVR.rst:307
-msgid "Desolate Lighthouse"
-msgstr ""
-
-# a96c65b9af3343a1ac681b481cdb40df
-#: ../../AVR.rst:306
-msgid "|mana_1| |mana_u| |mana_r|, |tap|: Draw a card, then discard a card."
-msgstr ""
-
-# fc055e0d8ef543e4b861a6cbd07ea096
-#: ../../AVR.rst:313
-msgid "Devastation Tide"
-msgstr ""
-
-# cad78442920d4456ac7b2665e6724e42
-#: ../../AVR.rst:310
-msgid "Return all nonland permanents to their owners' hands."
-msgstr ""
-
-# ea91dd2d55a3464e83db1cc6db382519
-# 15dde137018e403da2aaa7b79a7653dc
-#: ../../AVR.rst:312
-#: ../../AVR.rst:1032
-msgid "Miracle |mana_1| |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
-msgstr ""
-
-# a15ce2b413274309bfcaf86613157dd1
-#: ../../AVR.rst:317
-msgid "Devout Chaplain"
-msgstr ""
-
-# 0137c2f4205f40c3b314a25bb8f9ec81
-#: ../../AVR.rst:316
-msgid "|tap|, Tap two untapped Humans you control: Exile target artifact or enchantment."
-msgstr ""
-
-# d3d1812d23be4544987ec65084c3db76
-#: ../../AVR.rst:323
-msgid "Diregraf Escort"
-msgstr ""
-
-# b77b04b227bd47cfa58658e8ff4ca788
-#: ../../AVR.rst:322
-msgid "As long as Diregraf Escort is paired with another creature, both creatures have protection from Zombies."
-msgstr ""
-
-# 0c585e42d940458e8c8ed488a2ce7f5c
-#: ../../AVR.rst:327
-msgid "Divine Deflection"
-msgstr ""
+#~ msgid ""
+#~ "At the beginning of your upkeep, "
+#~ "put a despair counter on Descent "
+#~ "into Madness, then each player exiles"
+#~ " X permanents he or she controls "
+#~ "and/or cards from his or her hand,"
+#~ " where X is the number of "
+#~ "despair counters on Descent into "
+#~ "Madness."
+#~ msgstr ""
 
 # e240acaae0564d1695a2f3152208ce92
-#: ../../AVR.rst:326
-msgid "Prevent the next X damage that would be dealt to you and/or permanents you control this turn. If damage is prevented this way, Divine Deflection deals that much damage to target creature or player."
-msgstr ""
-
-# bbb75f8e33264672a2d0401e0442b20b
-#: ../../AVR.rst:331
-msgid "Dread Slaver"
-msgstr ""
-
-# 93decc07fe524875bc2a5133e7bb768e
-#: ../../AVR.rst:330
-msgid "Whenever a creature dealt damage by Dread Slaver this turn dies, return it to the battlefield under your control. That creature is a black Zombie in addition to its other colors and types."
-msgstr ""
-
-# 4129f608ef53483eb22db6e1fe5edc66
-#: ../../AVR.rst:335
-msgid "Dreadwaters"
-msgstr ""
+#~ msgid ""
+#~ "Prevent the next X damage that "
+#~ "would be dealt to you and/or "
+#~ "permanents you control this turn. If "
+#~ "damage is prevented this way, Divine "
+#~ "Deflection deals that much damage to "
+#~ "target creature or player."
+#~ msgstr ""
 
 # fff663eb244c48099c25d596be965c70
-#: ../../AVR.rst:334
-msgid "Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of lands you control."
-msgstr ""
-
-# 5cdce9dc9aec4836aec398b28d2f7b85
-#: ../../AVR.rst:339
-msgid "Driver of the Dead"
-msgstr ""
-
-# b76f2088ecf1406cb23cb083bc79647f
-#: ../../AVR.rst:338
-msgid "When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
-msgstr ""
-
-# 4445098e065b48c1a733ffe075319814
-#: ../../AVR.rst:345
-msgid "Druid's Familiar"
-msgstr ""
-
-# 784d8002d3f54fada09085f7d6243dea
-#: ../../AVR.rst:344
-msgid "As long as Druid's Familiar is paired with another creature, each of those creatures gets +2/+2."
-msgstr ""
-
-# 8b766a8096854a90994a5b49d7fe3cfe
-#: ../../AVR.rst:351
-msgid "Druids' Repository"
-msgstr ""
-
-# 344fe178fe034c33b1747e466b828b3e
-#: ../../AVR.rst:348
-msgid "Whenever a creature you control attacks, put a charge counter on Druids' Repository."
-msgstr ""
+#~ msgid ""
+#~ "Target player puts the top X cards"
+#~ " of his or her library into his"
+#~ " or her graveyard, where X is "
+#~ "the number of lands you control."
+#~ msgstr ""
 
 # 08bb8f96d43e40d684c6651f35222d44
-#: ../../AVR.rst:350
-msgid "Remove a charge counter from Druids' Repository: Add one mana of any color to your mana pool."
-msgstr ""
-
-# fd87b71e321148779376515037de3749
-#: ../../AVR.rst:357
-msgid "Dual Casting"
-msgstr ""
+#~ msgid ""
+#~ "Remove a charge counter from Druids' "
+#~ "Repository: Add one mana of any "
+#~ "color to your mana pool."
+#~ msgstr ""
 
 # 2afac646d9e547baa0030dfca6bba972
-#: ../../AVR.rst:356
-msgid "Enchanted creature has \\\"|mana_r|, |tap|: Copy target instant or sorcery spell you control. You may choose new targets for the copy.\\\""
-msgstr ""
-
-# 7b76f8b8888d461d85132bc218bdfa78
-#: ../../AVR.rst:361
-msgid "Eaten by Spiders"
-msgstr ""
-
-# 2dc67172736b42a7a60b23dfc21a9cff
-#: ../../AVR.rst:360
-msgid "Destroy target creature with flying and all Equipment attached to that creature."
-msgstr ""
-
-# 1d1f989d79ca4220ac1934c6ee94cf7c
-#: ../../AVR.rst:367
-msgid "Elgaud Shieldmate"
-msgstr ""
-
-# d83dcd4157e94711995d3201409ca615
-#: ../../AVR.rst:366
-msgid "As long as Elgaud Shieldmate is paired with another creature, both creatures have hexproof. (They can't be the targets of spells or abilities your opponents control.)"
-msgstr ""
-
-# b994dbe6278445f78f6bd9338f31d36a
-#: ../../AVR.rst:373
-msgid "Emancipation Angel"
-msgstr ""
-
-# 4e849618e57f4a3c80e8214553cf90cb
-#: ../../AVR.rst:372
-msgid "When Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand."
-msgstr ""
-
-# 64d51a67e31849d0bfe22c216a540bec
-#: ../../AVR.rst:379
-msgid "Entreat the Angels"
-msgstr ""
+#~ msgid ""
+#~ "Enchanted creature has \\\"|mana_r|, |tap|:"
+#~ " Copy target instant or sorcery spell"
+#~ " you control. You may choose new "
+#~ "targets for the copy.\\\""
+#~ msgstr ""
 
 # e5a89c42055d481a9c4f8b1d48adeaea
-#: ../../AVR.rst:376
-msgid "Put X 4/4 white Angel creature tokens with flying onto the battlefield."
-msgstr ""
-
-# 0322f4c4fc424a4d8532262929579c3e
-#: ../../AVR.rst:378
-msgid "Miracle |mana_x| |mana_w| |mana_w| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
-msgstr ""
-
-# 5e8a3ab334fb4940848e36dec1a6c6ac
-#: ../../AVR.rst:383
-msgid "Essence Harvest"
-msgstr ""
-
-# 8f84706615714d89876522a274e23ea0
-#: ../../AVR.rst:382
-msgid "Target player loses X life and you gain X life, where X is the greatest power among creatures you control."
-msgstr ""
-
-# 00e92d73c83643bf96cff8d3e774d215
-#: ../../AVR.rst:389
-msgid "Evernight Shade"
-msgstr ""
-
-# be5f3ace91fc4c4494124c4b33059d7c
-#: ../../AVR.rst:386
-msgid "|mana_b|: Evernight Shade gets +1/+1 until end of turn."
-msgstr ""
-
-# 45d436b140d94b6f9afc38a8e5ea0e85
-#: ../../AVR.rst:393
-msgid "Exquisite Blood"
-msgstr ""
-
-# 5eb77acc1fee40c598e5ee2bbb6ca21a
-#: ../../AVR.rst:392
-msgid "Whenever an opponent loses life, you gain that much life."
-msgstr ""
-
-# 5dd9c36f28b64981926653635d43af16
-#: ../../AVR.rst:399
-msgid "Falkenrath Exterminator"
-msgstr ""
-
-# a1f0f33952314ef594e73f96c1a40a63
-#: ../../AVR.rst:396
-msgid "Whenever Falkenrath Exterminator deals combat damage to a player, put a +1/+1 counter on it."
-msgstr ""
-
-# 603d0c7061854eb0a3f3b78ad772d8f3
-#: ../../AVR.rst:398
-msgid "|mana_2| |mana_r|: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator."
-msgstr ""
-
-# b5203d5d353c469c9dfdeee259371065
-#: ../../AVR.rst:403
-msgid "Farbog Explorer"
-msgstr ""
-
-# bff1787bc1a7423ca37d7d22efca3ccf
-#: ../../AVR.rst:402
-msgid "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)"
-msgstr ""
-
-# d28b8c4625e140c3954142dc4b93cabb
-#: ../../AVR.rst:407
-msgid "Favorable Winds"
-msgstr ""
-
-# e38005332a0941758c4dd625eff045f4
-#: ../../AVR.rst:406
-msgid "Creatures you control with flying get +1/+1."
-msgstr ""
-
-# 4200ba4190064722a84dfdc50ffb5c0e
-#: ../../AVR.rst:413
-msgid "Fervent Cathar"
-msgstr ""
-
-# e193987b53784723a839c63828231545
-#: ../../AVR.rst:412
-msgid "When Fervent Cathar enters the battlefield, target creature can't block this turn."
-msgstr ""
-
-# 4d504ed5d2e1497f8173ecffd4d870b4
-#: ../../AVR.rst:419
-msgid "Fettergeist"
-msgstr ""
-
-# ba5e601507354092a4fe7adcbf2320a4
-#: ../../AVR.rst:418
-msgid "At the beginning of your upkeep, sacrifice Fettergeist unless you pay |mana_1| for each other creature you control."
-msgstr ""
-
-# a5e989712d784c3d91262731bf1117d9
-#: ../../AVR.rst:425
-msgid "Fleeting Distraction"
-msgstr ""
-
-# 33e87fbaf65e4ec2944528b6f348a62a
-#: ../../AVR.rst:422
-msgid "Target creature gets -1/-0 until end of turn."
-msgstr ""
-
-# 298a2537a0994527bca439c597d92d5f
-#: ../../AVR.rst:429
-msgid "Flowering Lumberknot"
-msgstr ""
-
-# 25ea80437bb443989a51a7a9588fe088
-#: ../../AVR.rst:428
-msgid "Flowering Lumberknot can't attack or block unless it's paired with a creature with soulbond."
-msgstr ""
-"Flowering Lumberknot nie może atakować ani blokować dopóki nie jest "
-"sparowany ze stworem z więzią dusz."
-
-# 5ab78d74808d4825b561c4c5330b4cd8
-#: ../../AVR.rst:433
-msgid "Forest"
-msgstr ""
+#~ msgid "Put X 4/4 white Angel creature tokens with flying onto the battlefield."
+#~ msgstr ""
 
 # ee2680067e754a5fb9e9dee727a48202
-#: ../../AVR.rst:432
-msgid "G"
-msgstr ""
-
-# ba52a4f771fe4461afe0164b54359de6
-#: ../../AVR.rst:437
-msgid "Gallows at Willow Hill"
-msgstr ""
+#~ msgid "G"
+#~ msgstr ""
 
 # f1d193c3c3ca4d4594427bc23a23850e
-#: ../../AVR.rst:436
-msgid "|mana_3|, |tap|, Tap three untapped Humans you control: Destroy target creature. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield."
-msgstr ""
-
-# 22674e4cef774b70a37a70dccd13f901
-#: ../../AVR.rst:443
-msgid "Galvanic Alchemist"
-msgstr ""
+#~ msgid ""
+#~ "|mana_3|, |tap|, Tap three untapped "
+#~ "Humans you control: Destroy target "
+#~ "creature. Its controller puts a 1/1 "
+#~ "white Spirit creature token with flying"
+#~ " onto the battlefield."
+#~ msgstr ""
 
 # 54d0a1afca1a4b5bad821626ca790bdf
-#: ../../AVR.rst:442
-msgid "As long as Galvanic Alchemist is paired with another creature, each of those creatures has \\\"|mana_2| |mana_u|: Untap this creature.\\\""
-msgstr ""
-
-# f899a7154173437e824b37198c90c386
-#: ../../AVR.rst:447
-msgid "Gang of Devils"
-msgstr ""
+#~ msgid ""
+#~ "As long as Galvanic Alchemist is "
+#~ "paired with another creature, each of"
+#~ " those creatures has \\\"|mana_2| |mana_u|:"
+#~ " Untap this creature.\\\""
+#~ msgstr ""
 
 # 5286aa3103934b83a39595a51589fbf3
-#: ../../AVR.rst:446
-msgid "When Gang of Devils dies, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players."
-msgstr ""
-
-# baabe1ab48b8456bace176a47522800d
-#: ../../AVR.rst:451
-msgid "Geist Snatch"
-msgstr ""
+#~ msgid ""
+#~ "When Gang of Devils dies, it deals"
+#~ " 3 damage divided as you choose "
+#~ "among one, two, or three target "
+#~ "creatures and/or players."
+#~ msgstr ""
 
 # 1d563d1c68f6418195f12cef644ec3e7
-#: ../../AVR.rst:450
-msgid "Counter target creature spell. Put a 1/1 blue Spirit creature token with flying onto the battlefield."
-msgstr ""
-
-# 2aa6a2fd1410407aa8d3a3ed620f2a3c
-#: ../../AVR.rst:457
-msgid "Geist Trappers"
-msgstr ""
-
-# c4d4f095a5004736b8c3955c3c8608ab
-#: ../../AVR.rst:456
-msgid "As long as Geist Trappers is paired with another creature, both creatures have reach."
-msgstr ""
-
-# 2444b462f6354e368173efd9d31d614d
-#: ../../AVR.rst:461
-msgid "Ghostform"
-msgstr ""
-
-# 8f8828524124481b96931c24f923f921
-#: ../../AVR.rst:460
-msgid "Up to two target creatures can't be blocked this turn."
-msgstr ""
-
-# f056f9e35ac245a685b6198d75761c73
-#: ../../AVR.rst:465
-msgid "Ghostly Flicker"
-msgstr ""
-
-# 1d0e92a6532045548a91e98d69599254
-#: ../../AVR.rst:464
-msgid "Exile two target artifacts, creatures, and/or lands you control, then return those cards to the battlefield under your control."
-msgstr ""
-
-# 2e2b5b2ae520416895228f8738f3c174
-#: ../../AVR.rst:471
-msgid "Ghostly Touch"
-msgstr ""
+#~ msgid ""
+#~ "Counter target creature spell. Put a "
+#~ "1/1 blue Spirit creature token with "
+#~ "flying onto the battlefield."
+#~ msgstr ""
 
 # c6352e0792334222b08fe08f4d2c5d6c
-#: ../../AVR.rst:470
-msgid "Enchanted creature has \\\"Whenever this creature attacks, you may tap or untap target permanent.\\\""
-msgstr ""
-
-# 519c4d285660483f9f841c5d236d5547
-#: ../../AVR.rst:477
-msgid "Ghoulflesh"
-msgstr ""
-
-# fca555cd767441ac81e24873dc08010e
-#: ../../AVR.rst:476
-msgid "Enchanted creature gets -1/-1 and is a black Zombie in addition to its other colors and types."
-msgstr ""
-
-# 4d1fb5b2a802414e82cdc1c4fdfe8c43
-#: ../../AVR.rst:485
-msgid "Gisela, Blade of Goldnight"
-msgstr ""
-
-# 248ee73f5f6c4f2c92e66e6294cd915c
-#: ../../AVR.rst:480
-msgid "Flying, first strike"
-msgstr ""
-
-# 5d1aa53316bd4dcf9611693a396dc567
-#: ../../AVR.rst:482
-msgid "If a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead."
-msgstr ""
-
-# d0652814c91a4c2bb795e25b413d2f81
-#: ../../AVR.rst:484
-msgid "If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up."
-msgstr ""
-
-# 137007cfe3794838b6dca4d8822e8e1c
-#: ../../AVR.rst:489
-msgid "Gloom Surgeon"
-msgstr ""
-
-# 2f2528eb423b4b8a87348c762ca383ca
-#: ../../AVR.rst:488
-msgid "If combat damage would be dealt to Gloom Surgeon, prevent that damage and exile that many cards from the top of your library."
-msgstr ""
-
-# 529beee7973947469c93342682dea279
-#: ../../AVR.rst:495
-msgid "Gloomwidow"
-msgstr ""
-
-# 50c2b330a0d643e7ba24dc06283db489
-#: ../../AVR.rst:492
-msgid "Reach"
-msgstr ""
-
-# 0003f789492442fea087f51732081b39
-#: ../../AVR.rst:494
-msgid "Gloomwidow can block only creatures with flying."
-msgstr ""
-
-# ae41783d48eb4f239fa1619550c7e425
-#: ../../AVR.rst:499
-msgid "Goldnight Commander"
-msgstr ""
-
-# b3387394489c4313a8fbcc5597e1f16a
-#: ../../AVR.rst:498
-msgid "Whenever another creature enters the battlefield under your control, creatures you control get +1/+1 until end of turn."
-msgstr ""
-
-# 6c635e080e114592b6334a312f9f3d7f
-#: ../../AVR.rst:505
-msgid "Goldnight Redeemer"
-msgstr ""
-
-# 901151a6420d44a3ad1594d15a3049b1
-#: ../../AVR.rst:504
-msgid "When Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control."
-msgstr ""
-
-# a611b3a74fb94cf7b9d793fc9ace65a2
-#: ../../AVR.rst:509
-msgid "Grave Exchange"
-msgstr ""
-
-# 5e4b0053f3824dd082966c5c9bddbb79
-#: ../../AVR.rst:508
-msgid "Return target creature card from your graveyard to your hand. Target player sacrifices a creature."
-msgstr ""
-
-# fd0776fce195485898ef6cd10446d338
-#: ../../AVR.rst:515
-msgid "Griselbrand"
-msgstr ""
-
-# b6ac1d10af49447eb4267e9a0f258fb8
-#: ../../AVR.rst:512
-msgid "Flying, lifelink"
-msgstr "Latanie, więź życia"
-
-# 0d29b98900074d5791e491944eb0539c
-#: ../../AVR.rst:514
-msgid "Pay 7 life: Draw seven cards."
-msgstr ""
-
-# c9ed4fa8a1da4b79b8176d702e6eb4de
-#: ../../AVR.rst:521
-msgid "Grounded"
-msgstr ""
-
-# dd814c64d9a542f6ad05ab167e42114c
-#: ../../AVR.rst:520
-msgid "Enchanted creature loses flying."
-msgstr ""
-
-# c0dc75e9cfb54debb16f728e0766faeb
-#: ../../AVR.rst:527
-msgid "Gryff Vanguard"
-msgstr ""
-
-# 6dda80ea97ad44e39319b40e54e883dd
-#: ../../AVR.rst:526
-msgid "When Gryff Vanguard enters the battlefield, draw a card."
-msgstr ""
-
-# 1bf2530c7d1144859e96d6fb5ada0ea2
-#: ../../AVR.rst:533
-msgid "Guise of Fire"
-msgstr ""
+#~ msgid ""
+#~ "Enchanted creature has \\\"Whenever this "
+#~ "creature attacks, you may tap or "
+#~ "untap target permanent.\\\""
+#~ msgstr ""
 
 # f46f685b00d540558813657bf96210ef
-#: ../../AVR.rst:532
-msgid "Enchanted creature gets +1/-1 and attacks each turn if able."
-msgstr ""
-
-# 70f9aaa2b088402e81b10f8a79ed7ae4
-#: ../../AVR.rst:539
-msgid "Hanweir Lancer"
-msgstr ""
-
-# efdea0d756e34bc38a122f17b681c95a
-#: ../../AVR.rst:538
-msgid "As long as Hanweir Lancer is paired with another creature, both creatures have first strike."
-msgstr ""
-
-# dc072a13c26c4f01978b158900a4f955
-#: ../../AVR.rst:545
-msgid "Harvester of Souls"
-msgstr ""
-
-# c185655d947d4cc78cabdee14df65422
-#: ../../AVR.rst:542
-msgid "Deathtouch"
-msgstr ""
-
-# 5eb2f6c2d18c4a72b386983ab46ea17a
-#: ../../AVR.rst:544
-msgid "Whenever another nontoken creature dies, you may draw a card."
-msgstr ""
-
-# fda8ebbb4e5d4c7d82cfe1ba09ad52d4
-#: ../../AVR.rst:549
-msgid "Haunted Guardian"
-msgstr ""
-
-# 19732f4645604ddeb108a90f7f3e6e33
-#: ../../AVR.rst:548
-msgid "Defender, first strike"
-msgstr ""
-
-# 8d99ba327c77405b9cdda44779fe3897
-#: ../../AVR.rst:553
-msgid "Havengul Skaab"
-msgstr ""
-
-# e8830c4064ed40d6b7f128bf81ecc474
-#: ../../AVR.rst:552
-msgid "Whenever Havengul Skaab attacks, return another creature you control to its owner's hand."
-msgstr ""
-
-# 3bd5ccf640ee4be397b404d8a0ceef8f
-#: ../../AVR.rst:559
-msgid "Havengul Vampire"
-msgstr ""
-
-# a34eae3438f24c24b04d850d5b37aa92
-#: ../../AVR.rst:556
-msgid "Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 counter on it."
-msgstr ""
-
-# 2cfd3e97f39244d2b7596ed9e996cec1
-#: ../../AVR.rst:558
-msgid "Whenever another creature dies, put a +1/+1 counter on Havengul Vampire."
-msgstr ""
-
-# 02cd6d4b8cba458ea1f4287f35ad96bf
-#: ../../AVR.rst:565
-msgid "Heirs of Stromkirk"
-msgstr ""
-
-# f6af11f72df34139b2fe1cec0abb3bab
-#: ../../AVR.rst:562
-msgid "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
-msgstr ""
-
-# 4db500be4d06440787ae2fec98b35abf
-#: ../../AVR.rst:564
-msgid "Whenever Heirs of Stromkirk deals combat damage to a player, put a +1/+1 counter on it."
-msgstr ""
-
-# cab4f67dd05843bca8ede951e87e3d6b
-#: ../../AVR.rst:573
-msgid "Herald of War"
-msgstr ""
-
-# a0931059862148169e25adadac9443e7
-#: ../../AVR.rst:570
-msgid "Whenever Herald of War attacks, put a +1/+1 counter on it."
-msgstr ""
-
-# f5e510bf3ffb4f0a850c5900ae730f8f
-#: ../../AVR.rst:572
-msgid "Angel spells and Human spells you cast cost |mana_1| less to cast for each +1/+1 counter on Herald of War."
-msgstr ""
-
-# 47fd86944c3d46a9b51a9d1f8009029e
-#: ../../AVR.rst:577
-msgid "Holy Justiciar"
-msgstr ""
-
-# 19532edf2d9d499db82cf3d1ebbfdfe8
-#: ../../AVR.rst:576
-msgid "|mana_2| |mana_w|, |tap|: Tap target creature. If that creature is a Zombie, exile it."
-msgstr ""
-
-# 5f82619f8c5748989189850c3641c68f
-#: ../../AVR.rst:581
-msgid "Homicidal Seclusion"
-msgstr ""
-
-# 11b8d76e13574982a1fb4297d4f4a656
-#: ../../AVR.rst:580
-msgid "As long as you control exactly one creature, that creature gets +3/+1 and has lifelink."
-msgstr ""
-
-# ea5d9d4698b24c8b9765cc1eadc8a3cd
-#: ../../AVR.rst:587
-msgid "Hound of Griselbrand"
-msgstr ""
-
-# 347d3f31f949421597d1ad2a3811cc1d
-#: ../../AVR.rst:584
-msgid "Double strike"
-msgstr ""
-
-# 9db0d387b52743d79e32d55493f55b6c
-#: ../../AVR.rst:593
-msgid "Howlgeist"
-msgstr ""
-
-# 08128b798b974982ad645d7662bcbe1a
-#: ../../AVR.rst:590
-msgid "Creatures with power less than Howlgeist's power can't block it."
-msgstr ""
-
-# 81139ec4a01b4aeb92be1ae4dcee903b
-#: ../../AVR.rst:597
-msgid "Human Frailty"
-msgstr ""
-
-# 40e890c8a5e842fa8b096ded4697aa01
-#: ../../AVR.rst:596
-msgid "Destroy target Human creature."
-msgstr ""
-
-# fcf8cf43d68244cda3ea86256a59a39e
-#: ../../AVR.rst:601
-msgid "Hunted Ghoul"
-msgstr ""
-
-# 0f78feb1ab534940898ad5ce3af45de5
-#: ../../AVR.rst:600
-msgid "Hunted Ghoul can't block Humans."
-msgstr ""
-
-# 1874458430844c50a7ca4ed3e07a4451
-#: ../../AVR.rst:609
-msgid "Infinite Reflection"
-msgstr ""
-
-# daab6f7e68b54bbbb04655682f3042a9
-#: ../../AVR.rst:606
-msgid "When Infinite Reflection enters the battlefield attached to a creature, each other nontoken creature you control becomes a copy of that creature."
-msgstr ""
-
-# ee834848a36c43fe864b08281e6db17e
-#: ../../AVR.rst:608
-msgid "Nontoken creatures you control enter the battlefield as a copy of enchanted creature."
-msgstr ""
-
-# 198f2d5c8f994a748821695f70e0b799
-#: ../../AVR.rst:613
-msgid "Into the Void"
-msgstr ""
-
-# 38c9fea6118344e7abf0550b98769149
-#: ../../AVR.rst:612
-msgid "Return up to two target creatures to their owners' hands."
-msgstr ""
-
-# 2e197413f1834c86a65107541c54feea
-#: ../../AVR.rst:617
-msgid "Island"
-msgstr ""
+#~ msgid "Enchanted creature gets +1/-1 and attacks each turn if able."
+#~ msgstr ""
 
 # ee0d2c07d3c140b98e8f0e747b3f78a9
-#: ../../AVR.rst:616
-msgid "U"
-msgstr ""
-
-# a3f9d7c26b5944f7935c3413ac5ef115
-#: ../../AVR.rst:621
-msgid "Joint Assault"
-msgstr ""
-
-# 93a0522411504151b8b6b07af8acf45e
-#: ../../AVR.rst:620
-msgid "Target creature gets +2/+2 until end of turn. If it's paired with a creature, that creature also gets +2/+2 until end of turn."
-msgstr ""
-
-# 4030f274425044dc9acc665a24339d90
-#: ../../AVR.rst:625
-msgid "Kessig Malcontents"
-msgstr ""
+#~ msgid "U"
+#~ msgstr ""
 
 # f29df2aa028a4ca48681b7e305f87f83
-#: ../../AVR.rst:624
-msgid "When Kessig Malcontents enters the battlefield, it deals damage to target player equal to the number of Humans you control."
-msgstr ""
-
-# dd409ae8a4254a0591c071a95811b711
-#: ../../AVR.rst:629
-msgid "Killing Wave"
-msgstr ""
+#~ msgid ""
+#~ "When Kessig Malcontents enters the "
+#~ "battlefield, it deals damage to target"
+#~ " player equal to the number of "
+#~ "Humans you control."
+#~ msgstr ""
 
 # 1e2074c7167449809047b28e32d6a40c
-#: ../../AVR.rst:628
-msgid "For each creature, its controller sacrifices it unless he or she pays X life."
-msgstr ""
-
-# 428c1bc43e524f48b4b26e3e1e6d04ee
-#: ../../AVR.rst:633
-msgid "Kruin Striker"
-msgstr ""
-
-# 10101a14e0674e1c8e33e42230824382
-#: ../../AVR.rst:632
-msgid "Whenever another creature enters the battlefield under your control, Kruin Striker gets +1/+0 and gains trample until end of turn."
-msgstr ""
-
-# f9c435076b4b4f17a546967235e95b6f
-#: ../../AVR.rst:637
-msgid "Lair Delve"
-msgstr ""
-
-# 05d9eb6921644139b28c06b9278582a9
-#: ../../AVR.rst:636
-msgid "Reveal the top two cards of your library. Put all creature and land cards revealed this way into your hand and the rest on the bottom of your library in any order."
-msgstr ""
-
-# 321ce29bb12542bea9f1351fd799bf5a
-#: ../../AVR.rst:641
-msgid "Latch Seeker"
-msgstr ""
-
-# e7b4ccab7e9b4d5c8c5ac2a0bf5222a8
-#: ../../AVR.rst:640
-msgid "Latch Seeker can't be blocked."
-msgstr ""
-
-# 80fb9c9c46d04ab7a2b7370a2f096c8a
-#: ../../AVR.rst:645
-msgid "Leap of Faith"
-msgstr ""
-
-# 4fc7eeb6c3a64ee6b8b29954cd26eb9b
-#: ../../AVR.rst:644
-msgid "Target creature gains flying until end of turn. Prevent all damage that would be dealt to that creature this turn."
-msgstr ""
-
-# 4bb73b92ec1b4609b06fa12c7ea50d6b
-#: ../../AVR.rst:651
-msgid "Lightning Mauler"
-msgstr ""
-
-# 4b14845fff044f56b31aa8668357ce3f
-#: ../../AVR.rst:650
-msgid "As long as Lightning Mauler is paired with another creature, both creatures have haste."
-msgstr ""
-
-# 6c6bbc1b533b4c5bbe34d5f8cfceb390
-#: ../../AVR.rst:657
-msgid "Lightning Prowess"
-msgstr ""
+#~ msgid ""
+#~ "For each creature, its controller "
+#~ "sacrifices it unless he or she "
+#~ "pays X life."
+#~ msgstr ""
 
 # 01a300ea9c13455d8ea07341af1fcbc6
-#: ../../AVR.rst:656
-msgid "Enchanted creature has haste and \\\"|tap|: This creature deals 1 damage to target creature or player.\\\""
-msgstr ""
-
-# 65e08247282e42da9434c2054c54203e
-#: ../../AVR.rst:663
-msgid "Lone Revenant"
-msgstr ""
-
-# 19583e0502e14f3bbd07eb14b82b37ac
-#: ../../AVR.rst:660
-msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
-msgstr ""
-
-# d3c5a5b38b6e4c588619075e45be9703
-#: ../../AVR.rst:662
-msgid "Whenever Lone Revenant deals combat damage to a player, if you control no other creatures, look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
-msgstr ""
-
-# 83d9eba3c7a444df91fcaba97ddee4fe
-#: ../../AVR.rst:667
-msgid "Lunar Mystic"
-msgstr ""
-
-# 0e4f3dd3f3994d50a3f20702508440ed
-#: ../../AVR.rst:666
-msgid "Whenever you cast an instant spell, you may pay |mana_1|. If you do, draw a card."
-msgstr ""
-
-# 0b9841e673564e3db6d6a5fb543e26ac
-#: ../../AVR.rst:671
-msgid "Maalfeld Twins"
-msgstr ""
+#~ msgid ""
+#~ "Enchanted creature has haste and "
+#~ "\\\"|tap|: This creature deals 1 damage"
+#~ " to target creature or player.\\\""
+#~ msgstr ""
 
 # 11b3c51a99de4b68a3c29d7a4a8e3193
-#: ../../AVR.rst:670
-msgid "When Maalfeld Twins dies, put two 2/2 black Zombie creature tokens onto the battlefield."
-msgstr ""
-
-# 4483b9f20a764dbcadd81050f65af29a
-#: ../../AVR.rst:677
-msgid "Mad Prophet"
-msgstr ""
-
-# 6b7e6469a7104a02b3f2bc2f86134502
-#: ../../AVR.rst:676
-msgid "|tap|, Discard a card: Draw a card."
-msgstr ""
-
-# eb0eccaf16484bb5b1d4b8325e619c1e
-#: ../../AVR.rst:683
-msgid "Malicious Intent"
-msgstr ""
+#~ msgid ""
+#~ "When Maalfeld Twins dies, put two "
+#~ "2/2 black Zombie creature tokens onto"
+#~ " the battlefield."
+#~ msgstr ""
 
 # 1a918b5f785940fab64f5dd3e9227b98
-#: ../../AVR.rst:682
-msgid "Enchanted creature has \\\"|tap|: Target creature can't block this turn.\\\""
-msgstr ""
-
-# ca9e9686438d451d9de5af545fbddea1
-#: ../../AVR.rst:689
-msgid "Malignus"
-msgstr ""
-
-# 012007bc2e0e4f11b33edac1ea199ca3
-#: ../../AVR.rst:686
-msgid "Malignus's power and toughness are each equal to half the highest life total among your opponents, rounded up."
-msgstr ""
-
-# 9eee174b293b4a548a09a16183ddf290
-#: ../../AVR.rst:688
-msgid "Damage that would be dealt by Malignus can't be prevented."
-msgstr ""
-
-# b456bbba95754b809b95ebe9ca9ac99d
-#: ../../AVR.rst:695
-msgid "Marrow Bats"
-msgstr ""
-
-# 99ff0cf07dce4a96a1341ea44fcd45e6
-#: ../../AVR.rst:694
-msgid "Pay 4 life: Regenerate Marrow Bats."
-msgstr ""
-
-# 5f4926808d7045c78b7ab1ad84a8b2ad
-#: ../../AVR.rst:699
-msgid "Mass Appeal"
-msgstr ""
-
-# fc66ee9c8cd9463bb7d2b57338905ecf
-#: ../../AVR.rst:698
-msgid "Draw a card for each Human you control."
-msgstr ""
-
-# 74b7d07c268a490bb7db613c56b70fe9
-#: ../../AVR.rst:703
-msgid "Mental Agony"
-msgstr ""
-
-# a382d95b08304610bf4d47aaa4e2ce02
-#: ../../AVR.rst:702
-msgid "Target player discards two cards and loses 2 life."
-msgstr ""
-
-# 0162790a90ef4ab1bb9b876171abe136
-#: ../../AVR.rst:707
-msgid "Midnight Duelist"
-msgstr ""
-
-# 01dac201eed5432d8b495d1e3d0f8616
-#: ../../AVR.rst:706
-msgid "Protection from Vampires"
-msgstr ""
-
-# a2ad2957caf6444ea32009b7d99aab79
-#: ../../AVR.rst:711
-msgid "Midvast Protector"
-msgstr ""
-
-# 36daa8acfe254fb8a34e605fc685435b
-#: ../../AVR.rst:710
-msgid "When Midvast Protector enters the battlefield, target creature you control gains protection from the color of your choice until end of turn."
-msgstr ""
-
-# 839a660923564961a3a04021e086133f
-#: ../../AVR.rst:717
-msgid "Mist Raven"
-msgstr ""
-
-# 9c08fb7b2cb8444d94152475c4332986
-#: ../../AVR.rst:716
-msgid "When Mist Raven enters the battlefield, return target creature to its owner's hand."
-msgstr ""
-
-# 3366e57e5e7d49d89e8bb0b17b66010a
-#: ../../AVR.rst:723
-msgid "Misthollow Griffin"
-msgstr ""
-
-# 235033bf5f6e445b8be63615d07edc85
-#: ../../AVR.rst:722
-msgid "You may cast Misthollow Griffin from exile."
-msgstr ""
-
-# b457bf9e29754f2f85b0d23c10f41df3
-#: ../../AVR.rst:729
-msgid "Moonlight Geist"
-msgstr ""
-
-# f1a0fe75ad0145b19bdf31ac1293572e
-#: ../../AVR.rst:728
-msgid "|mana_3| |mana_w|: Prevent all combat damage that would be dealt to and dealt by Moonlight Geist this turn."
-msgstr ""
-
-# a75593ae1ff941478d568be9c9b40600
-#: ../../AVR.rst:737
-msgid "Moonsilver Spear"
-msgstr ""
-
-# 8a7f859613a74943a39a0233e7f42824
-#: ../../AVR.rst:732
-msgid "Equipped creature has first strike."
-msgstr ""
+#~ msgid ""
+#~ "Enchanted creature has \\\"|tap|: Target "
+#~ "creature can't block this turn.\\\""
+#~ msgstr ""
 
 # 995809c1c23348dba8dfde6aeb5a28ba
-#: ../../AVR.rst:734
-msgid "Whenever equipped creature attacks, put a 4/4 white Angel creature token with flying onto the battlefield."
-msgstr ""
-
-# 138ea78b20814f1783a50d473e4906fd
-#: ../../AVR.rst:741
-msgid "Moorland Inquisitor"
-msgstr ""
-
-# c0959bf800784415b1340a35e14345f0
-#: ../../AVR.rst:740
-msgid "|mana_2| |mana_w|: Moorland Inquisitor gains first strike until end of turn."
-msgstr ""
-
-# dc832a8952904cb4877bd40708eeebdd
-#: ../../AVR.rst:745
-msgid "Mountain"
-msgstr ""
+#~ msgid ""
+#~ "Whenever equipped creature attacks, put "
+#~ "a 4/4 white Angel creature token "
+#~ "with flying onto the battlefield."
+#~ msgstr ""
 
 # 8dcc1c3eb5204c6bb11790bd3fc8d7c7
-#: ../../AVR.rst:744
-msgid "R"
-msgstr ""
-
-# 7aae428c9763428282e19d5bc6ca52a2
-#: ../../AVR.rst:749
-msgid "Narstad Scrapper"
-msgstr ""
-
-# aa82552f87e24b3cb416999ad4eeee52
-#: ../../AVR.rst:748
-msgid "|mana_2|: Narstad Scrapper gets +1/+0 until end of turn."
-msgstr ""
-
-# e3eb5399315e454eb51f4acaf5bfc8ab
-#: ../../AVR.rst:753
-msgid "Natural End"
-msgstr ""
-
-# e553a737956549938743a2ab1ebb8780
-#: ../../AVR.rst:752
-msgid "Destroy target artifact or enchantment. You gain 3 life."
-msgstr ""
-
-# cb9eabc894224318be0ee7ab666d7edf
-#: ../../AVR.rst:759
-msgid "Nearheath Pilgrim"
-msgstr ""
-
-# 11927da0cb34415fa995492daa08c639
-#: ../../AVR.rst:758
-msgid "As long as Nearheath Pilgrim is paired with another creature, both creatures have lifelink."
-msgstr ""
-
-# 942809ac0d6543139b2a888543790600
-#: ../../AVR.rst:763
-msgid "Necrobite"
-msgstr ""
+#~ msgid "R"
+#~ msgstr ""
 
 # 12a3dda129f046f29f02d53c2eb58f67
-#: ../../AVR.rst:762
-msgid "Target creature gains deathtouch until end of turn. Regenerate it."
-msgstr ""
-
-# 9bb0d1f9911b417688b2e5159debff75
-#: ../../AVR.rst:767
-msgid "Nephalia Smuggler"
-msgstr ""
-
-# 0a52595138b54f8f9172238f2bee7621
-#: ../../AVR.rst:766
-msgid "|mana_3| |mana_u|, |tap|: Exile another target creature you control, then return that card to the battlefield under your control."
-msgstr ""
-
-# 481f0e4dd18e4a98b53154bf837baea8
-#: ../../AVR.rst:769
-msgid "Nettle Swine"
-msgstr ""
-
-# f464201559114af4a1bdb155cc4f33a5
-#: ../../AVR.rst:777
-msgid "Nightshade Peddler"
-msgstr ""
-
-# b05fc83fb9b64452ae07f3cb1d57c64e
-#: ../../AVR.rst:776
-msgid "As long as Nightshade Peddler is paired with another creature, both creatures have deathtouch."
-msgstr ""
-
-# e1ee3d88f5b54da295c45e74c653a027
-#: ../../AVR.rst:783
-msgid "Otherworld Atlas"
-msgstr ""
-
-# 8dfa831df81a4885a0bf3ca257fd5193
-#: ../../AVR.rst:780
-msgid "|tap|: Put a charge counter on Otherworld Atlas."
-msgstr ""
-
-# f1ef21c675514b28abc6c8065c1b6152
-#: ../../AVR.rst:782
-msgid "|tap|: Each player draws a card for each charge counter on Otherworld Atlas."
-msgstr ""
-
-# 4de418425e9543d9a99861d1dff3c612
-#: ../../AVR.rst:787
-msgid "Outwit"
-msgstr ""
-
-# 174769b882b9423db85660c5f3ffb035
-#: ../../AVR.rst:786
-msgid "Counter target spell that targets a player."
-msgstr ""
-
-# 4444315240b74f1a95af226622b5293d
-#: ../../AVR.rst:793
-msgid "Pathbreaker Wurm"
-msgstr ""
-
-# ac6ab161f5f64fae9b516408b4313518
-#: ../../AVR.rst:792
-msgid "As long as Pathbreaker Wurm is paired with another creature, both creatures have trample."
-msgstr ""
-
-# 9f8dca11bfb942d6a0c61d8d812f9323
-#: ../../AVR.rst:797
-msgid "Peel from Reality"
-msgstr ""
-
-# 0b2ef0f83fff445c9d1a74fcc90fa46d
-#: ../../AVR.rst:796
-msgid "Return target creature you control and target creature you don't control to their owners' hands."
-msgstr ""
-
-# e6f033a314184ce18acb405b5a1f52fc
-#: ../../AVR.rst:801
-msgid "Pillar of Flame"
-msgstr ""
+#~ msgid "Target creature gains deathtouch until end of turn. Regenerate it."
+#~ msgstr ""
 
 # cce293d905494aad93ce5eca515f8577
-#: ../../AVR.rst:800
-msgid "Pillar of Flame deals 2 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead."
-msgstr ""
-
-# 5573b447ab5949d191a085fc96a41ba4
-#: ../../AVR.rst:805
-msgid "Plains"
-msgstr ""
+#~ msgid ""
+#~ "Pillar of Flame deals 2 damage to"
+#~ " target creature or player. If a "
+#~ "creature dealt damage this way would "
+#~ "die this turn, exile it instead."
+#~ msgstr ""
 
 # 92e4856cf28440629c0858f4c6f9e179
-#: ../../AVR.rst:804
-msgid "W"
-msgstr ""
-
-# 6f77b3d16a3b49f09aed4b8729a24026
-#: ../../AVR.rst:809
-msgid "Polluted Dead"
-msgstr ""
-
-# 0433e757e4f7456882a06ca0f5ecb1f8
-#: ../../AVR.rst:808
-msgid "When Polluted Dead dies, destroy target land."
-msgstr ""
-
-# 63094eb3780e44588ada43d42c7c9e02
-#: ../../AVR.rst:817
-msgid "Predator's Gambit"
-msgstr ""
-
-# f359d09f3434492b88969cf396a6a4e7
-#: ../../AVR.rst:814
-msgid "Enchanted creature gets +2/+1."
-msgstr ""
-
-# 834fe37c13ef4beb82817790d540cca6
-#: ../../AVR.rst:816
-msgid "Enchanted creature has intimidate as long as its controller controls no other creatures. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
-msgstr ""
-
-# f7904a36725741dfb6c13fd07a8dd072
-#: ../../AVR.rst:821
-msgid "Primal Surge"
-msgstr ""
-
-# 20832215ec3d442387d945be6afc8340
-#: ../../AVR.rst:820
-msgid "Exile the top card of your library. If it's a permanent card, you may put it onto the battlefield. If you do, repeat this process."
-msgstr ""
-
-# 1b8235ff418a439eb8e6a75643cfcfca
-#: ../../AVR.rst:823
-msgid "Raging Poltergeist"
-msgstr ""
-
-# 31a88cec0dfc46fc8dd31f3bdc074aa9
-#: ../../AVR.rst:833
-msgid "Rain of Thorns"
-msgstr ""
+#~ msgid "W"
+#~ msgstr ""
 
 # 0327b3783ede4e278a040931d0059b06
-#: ../../AVR.rst:828
-msgid "Choose one or more — Destroy target artifact"
-msgstr ""
+#~ msgid "Choose one or more — Destroy target artifact"
+#~ msgstr ""
 
 # cd372fa836ae436fbc5789dda413424c
-#: ../../AVR.rst:830
-msgid "destroy target enchantment"
-msgstr ""
+#~ msgid "destroy target enchantment"
+#~ msgstr ""
 
 # 72eb5e07c2374768ab58ab62a49801c5
-#: ../../AVR.rst:832
-msgid "and/or destroy target land."
-msgstr ""
-
-# 089edd196ebf4949853e36026227c84d
-#: ../../AVR.rst:839
-msgid "Reforge the Soul"
-msgstr ""
+#~ msgid "and/or destroy target land."
+#~ msgstr ""
 
 # 70edb4fe70d14ce8bbd174409af47625
-#: ../../AVR.rst:836
-msgid "Each player discards his or her hand and draws seven cards."
-msgstr ""
-
-# 88d55e35c19245b198783ac32fe19f17
-#: ../../AVR.rst:838
-msgid "Miracle |mana_1| |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
-msgstr ""
-
-# 086276ddacf34769bdefc706030be1fb
-#: ../../AVR.rst:841
-msgid "Renegade Demon"
-msgstr ""
-
-# e03141a1fb614360b4dff0e60b58cc69
-#: ../../AVR.rst:851
-msgid "Restoration Angel"
-msgstr ""
-
-# fb831d6db0c14a27b412d5dc05c823bb
-#: ../../AVR.rst:846
-msgid "Flash"
-msgstr ""
-
-# daf67f87ac37483aba73215255d42212
-#: ../../AVR.rst:850
-msgid "When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control."
-msgstr ""
-
-# c75848216a4246ba8f65b1eacd812adc
-#: ../../AVR.rst:857
-msgid "Revenge of the Hunted"
-msgstr ""
-
-# 51d90b032d35446c916ad61030c876b0
-#: ../../AVR.rst:854
-msgid "Until end of turn, target creature gets +6/+6 and gains trample, and all creatures able to block it this turn do so."
-msgstr ""
-
-# cd3e4382cb3e42b9a88ec202105be301
-#: ../../AVR.rst:865
-msgid "Riders of Gavony"
-msgstr ""
-
-# 1d59c3e9f5f44409b9ab975a7725e729
-# e287458f895542a289a9f52654c9e424
-#: ../../AVR.rst:860
-#: ../../AVR.rst:1050
-msgid "Vigilance"
-msgstr "Czujność"
-
-# 2c01c3d4f8294a8ba73369de1f1dc698
-#: ../../AVR.rst:862
-msgid "As Riders of Gavony enters the battlefield, choose a creature type."
-msgstr ""
-
-# fb0a9a2c8349441d9260e11ad0e4f792
-#: ../../AVR.rst:864
-msgid "Human creatures you control have protection from creatures of the chosen type."
-msgstr ""
-
-# 8885fe47017143e38d3c6a6c1c25fe3a
-#: ../../AVR.rst:869
-msgid "Righteous Blow"
-msgstr ""
-
-# bee9fe8148214203bd82263df8841c4f
-#: ../../AVR.rst:868
-msgid "Righteous Blow deals 2 damage to target attacking or blocking creature."
-msgstr ""
-
-# e2b323712a5c45b3b45aee0d0646c264
-#: ../../AVR.rst:873
-msgid "Riot Ringleader"
-msgstr ""
-
-# 36d66f5c44454f2581de0583c27ac52c
-#: ../../AVR.rst:872
-msgid "Whenever Riot Ringleader attacks, Human creatures you control get +1/+0 until end of turn."
-msgstr ""
-
-# 8593f41087324995bfabefdf0e6ed283
-#: ../../AVR.rst:877
-msgid "Rite of Ruin"
-msgstr ""
-
-# 78f3cd8b0972496f99eec686682cee26
-#: ../../AVR.rst:876
-msgid "Choose an order for artifacts, creatures, and lands. Each player sacrifices one permanent of the first type, sacrifices two of the second type, then sacrifices three of the third type."
-msgstr ""
-
-# 6ce9e1aeceda44f6a02a810af87b9bc6
-#: ../../AVR.rst:881
-msgid "Rotcrown Ghoul"
-msgstr ""
+#~ msgid "Each player discards his or her hand and draws seven cards."
+#~ msgstr ""
 
 # f5aa1da14a074be5ae92eec1a6351fdc
-#: ../../AVR.rst:880
-msgid "When Rotcrown Ghoul dies, target player puts the top five cards of his or her library into his or her graveyard."
-msgstr ""
-
-# b2fa18dbb720456b9fa481c24c224817
-#: ../../AVR.rst:885
-msgid "Rush of Blood"
-msgstr ""
-
-# 115266b0c98e4dc0966ea9e64c86b37a
-#: ../../AVR.rst:884
-msgid "Target creature gets +X/+0 until end of turn, where X is its power."
-msgstr ""
-
-# 39dbc70aeb3c4d8bbca9f4d64f6fb8eb
-#: ../../AVR.rst:889
-msgid "Scalding Devil"
-msgstr ""
+#~ msgid ""
+#~ "When Rotcrown Ghoul dies, target player"
+#~ " puts the top five cards of his"
+#~ " or her library into his or her"
+#~ " graveyard."
+#~ msgstr ""
 
 # 3aa6a4ca1aa74d25a295451dd74d023d
-#: ../../AVR.rst:888
-msgid "|mana_2| |mana_r|: Scalding Devil deals 1 damage to target player."
-msgstr ""
-
-# 5b0cbc3d39044d1693642687b6dc2f3d
-#: ../../AVR.rst:895
-msgid "Scrapskin Drake"
-msgstr ""
-
-# bb68b1c841dc4a0b89ad4fd548177138
-#: ../../AVR.rst:894
-msgid "Scrapskin Drake can block only creatures with flying."
-msgstr ""
-
-# c60939149003436481742904e72a77e2
-#: ../../AVR.rst:899
-msgid "Scroll of Avacyn"
-msgstr ""
-
-# e52781c72219457688af3c25b1ccb327
-#: ../../AVR.rst:898
-msgid "|mana_1|, Sacrifice Scroll of Avacyn: Draw a card. If you control an Angel, you gain 5 life."
-msgstr ""
-
-# 33127538d9584bbdb9044819a16aada3
-#: ../../AVR.rst:903
-msgid "Scroll of Griselbrand"
-msgstr ""
-
-# d7bfca2bc4b042b1a6f96a6678bca742
-#: ../../AVR.rst:902
-msgid "|mana_1|, Sacrifice Scroll of Griselbrand: Target opponent discards a card. If you control a Demon, that player loses 3 life."
-msgstr ""
-
-# 84dc032ddd9943dfb8c6e4a6d31a7cc4
-#: ../../AVR.rst:909
-msgid "Searchlight Geist"
-msgstr ""
-
-# 7dc48328ea01423a8afbea6a53f69f8a
-#: ../../AVR.rst:908
-msgid "|mana_3| |mana_b|: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
-msgstr ""
-
-# 24d268f8d82547399d5c0dbe97536078
-#: ../../AVR.rst:913
-msgid "Second Guess"
-msgstr ""
-
-# a26aad4ee4ad42808d53e3bd7e10a046
-#: ../../AVR.rst:912
-msgid "Counter target spell that's the second spell cast this turn."
-msgstr ""
-
-# cdca497a7b8d40b795e5ef6f23d379c2
-#: ../../AVR.rst:919
-msgid "Seraph of Dawn"
-msgstr ""
-
-# 9f6a2368e58649aea4a72d4a4455b33f
-#: ../../AVR.rst:918
-msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
-msgstr ""
-"Więź życia (Obrażenia zadane przez tego stwora powodują, że jego władca "
-"zyskuje tyle samo życia.)"
-
-# 57d65c6b172d4099af0cfa7448558c34
-#: ../../AVR.rst:927
-msgid "Seraph Sanctuary"
-msgstr ""
-
-# 6441cb3dea864818be924a3e3007fbdb
-#: ../../AVR.rst:922
-msgid "When Seraph Sanctuary enters the battlefield, you gain 1 life."
-msgstr ""
-
-# decde5c01b6f44e595bde1011f49dcc8
-#: ../../AVR.rst:924
-msgid "Whenever an Angel enters the battlefield under your control, you gain 1 life."
-msgstr ""
-
-# c81913f2af584e609876bf741f8ed491
-#: ../../AVR.rst:931
-msgid "Sheltering Word"
-msgstr ""
+#~ msgid "|mana_2| |mana_r|: Scalding Devil deals 1 damage to target player."
+#~ msgstr ""
 
 # b213876fb8004e8981483ac8ed67f1bc
-#: ../../AVR.rst:930
-msgid "Target creature you control gains hexproof until end of turn. You gain life equal to that creature's toughness. (A creature with hexproof can't be the target of spells or abilities opponents control.)"
-msgstr ""
-
-# 86496287baa64af099880906db4f4fec
-#: ../../AVR.rst:937
-msgid "Sigarda, Host of Herons"
-msgstr ""
-
-# 9df42e14dbfe4f459fd9134ff6afa0da
-#: ../../AVR.rst:934
-msgid "Flying, hexproof"
-msgstr ""
-
-# aec34fc996b44232ade287a85e667ae5
-#: ../../AVR.rst:936
-msgid "Spells and abilities your opponents control can't cause you to sacrifice permanents."
-msgstr ""
-
-# ddf31e4631574817b3161fb6decc7a37
-#: ../../AVR.rst:943
-msgid "Silverblade Paladin"
-msgstr ""
-
-# f401c016d932416fa47f075a1097146e
-#: ../../AVR.rst:942
-msgid "As long as Silverblade Paladin is paired with another creature, both creatures have double strike."
-msgstr ""
-
-# b562f647f9304702a273ab12c7cb21df
-#: ../../AVR.rst:949
-msgid "Slayers' Stronghold"
-msgstr ""
-
-# 3adebe5198aa448c8df0dacf8525a016
-#: ../../AVR.rst:948
-msgid "|mana_r| |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance and haste until end of turn."
-msgstr ""
-
-# e6a1067c2c034779bf28b01a9d6eb4d3
-#: ../../AVR.rst:953
-msgid "Snare the Skies"
-msgstr ""
-
-# f665ec3e37ab4f10a628474778eb7da0
-#: ../../AVR.rst:952
-msgid "Target creature gets +1/+1 and gains reach until end of turn. (It can block creatures with flying.)"
-msgstr ""
-
-# 75f0ba8fedec4de6b229050f6be1052b
-#: ../../AVR.rst:957
-msgid "Somberwald Sage"
-msgstr ""
+#~ msgid ""
+#~ "Target creature you control gains "
+#~ "hexproof until end of turn. You "
+#~ "gain life equal to that creature's "
+#~ "toughness. (A creature with hexproof "
+#~ "can't be the target of spells or"
+#~ " abilities opponents control.)"
+#~ msgstr ""
 
 # fc3d415ce41047e5ab3299a9d7f11e70
-#: ../../AVR.rst:956
-msgid "|tap|: Add three mana of any one color to your mana pool. Spend this mana only to cast creature spells."
-msgstr ""
-
-# 001524eac88944b7baef5f6fa976d354
-#: ../../AVR.rst:961
-msgid "Somberwald Vigilante"
-msgstr ""
-
-# 3903d086d5624743990ac28d6a3d8763
-#: ../../AVR.rst:960
-msgid "Whenever Somberwald Vigilante becomes blocked by a creature, Somberwald Vigilante deals 1 damage to that creature."
-msgstr ""
-
-# 242f0fb54aa447fbaa3cfb5c4babc7dd
-#: ../../AVR.rst:967
-msgid "Soul of the Harvest"
-msgstr ""
-
-# 840c98d41c334838ad862e08c7e27233
-#: ../../AVR.rst:964
-msgid "Trample"
-msgstr "Tratowanie"
-
-# 8ffac36d166a424a9e851081a402f379
-#: ../../AVR.rst:966
-msgid "Whenever another nontoken creature enters the battlefield under your control, you may draw a card."
-msgstr ""
-
-# a77b65071ad34e41babf668dce4f408b
-#: ../../AVR.rst:971
-msgid "Soulcage Fiend"
-msgstr ""
-
-# 0d0c442a03a04866ac13c89ccfe6018e
-#: ../../AVR.rst:970
-msgid "When Soulcage Fiend dies, each player loses 3 life."
-msgstr ""
-
-# 35749eb0e2254728b119554e468b027e
-#: ../../AVR.rst:977
-msgid "Spectral Gateguards"
-msgstr ""
-
-# 32a103f24b524a99abc21a23cd9e9c84
-#: ../../AVR.rst:976
-msgid "As long as Spectral Gateguards is paired with another creature, both creatures have vigilance."
-msgstr ""
-
-# b2f485b63b9a47fe902d2fc41c9a72fb
-#: ../../AVR.rst:985
-msgid "Spectral Prison"
-msgstr ""
-
-# 63c68f9978034d08a46924b5846280b9
-#: ../../AVR.rst:982
-msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
-
-# 0938c5672a314cd0a90c6554018f9e3a
-#: ../../AVR.rst:984
-msgid "When enchanted creature becomes the target of a spell, sacrifice Spectral Prison."
-msgstr ""
-
-# b0a0ac706ca74c7d88d55e8a9de79fdc
-#: ../../AVR.rst:993
-msgid "Spirit Away"
-msgstr ""
-
-# 87d8831fb1c340b4ab15a73cf7b9bda1
-#: ../../AVR.rst:990
-msgid "You control enchanted creature."
-msgstr ""
-
-# 834eef66d66f43bd80339fb0802a6b71
-#: ../../AVR.rst:992
-msgid "Enchanted creature gets +2/+2 and has flying."
-msgstr ""
-
-# 6402a97efe3140c8a2568650a4881398
-#: ../../AVR.rst:999
-msgid "Stern Mentor"
-msgstr ""
+#~ msgid ""
+#~ "|tap|: Add three mana of any one"
+#~ " color to your mana pool. Spend "
+#~ "this mana only to cast creature "
+#~ "spells."
+#~ msgstr ""
 
 # 68fb9e38132f4b2999796d4206bb6179
-#: ../../AVR.rst:998
-msgid "As long as Stern Mentor is paired with another creature, each of those creatures has \\\"|tap|: Target player puts the top two cards of his or her library into his or her graveyard.\\\""
-msgstr ""
-
-# 816354d3f20d4073ae2c27ee7491fe04
-#: ../../AVR.rst:1003
-msgid "Stolen Goods"
-msgstr ""
+#~ msgid ""
+#~ "As long as Stern Mentor is paired"
+#~ " with another creature, each of those"
+#~ " creatures has \\\"|tap|: Target player "
+#~ "puts the top two cards of his "
+#~ "or her library into his or her "
+#~ "graveyard.\\\""
+#~ msgstr ""
 
 # b0cb80d990ed4427a71e9f22a1e83285
-#: ../../AVR.rst:1002
-msgid "Target opponent exiles cards from the top of his or her library until he or she exiles a nonland card. Until end of turn, you may cast that card without paying its mana cost."
-msgstr ""
-
-# fc4344e348724e899a1b75c380a07b29
-#: ../../AVR.rst:1009
-msgid "Stonewright"
-msgstr ""
+#~ msgid ""
+#~ "Target opponent exiles cards from the"
+#~ " top of his or her library "
+#~ "until he or she exiles a nonland"
+#~ " card. Until end of turn, you "
+#~ "may cast that card without paying "
+#~ "its mana cost."
+#~ msgstr ""
 
 # ca6ac4da2c8a4df4bf4ab2798a12d7ad
-#: ../../AVR.rst:1008
-msgid "As long as Stonewright is paired with another creature, each of those creatures has \\\"|mana_r|: This creature gets +1/+0 until end of turn.\\\""
-msgstr ""
-
-# 897269fdc17a4c8ca0c0292277d64735
-#: ../../AVR.rst:1013
-msgid "Swamp"
-msgstr ""
+#~ msgid ""
+#~ "As long as Stonewright is paired "
+#~ "with another creature, each of those "
+#~ "creatures has \\\"|mana_r|: This creature "
+#~ "gets +1/+0 until end of turn.\\\""
+#~ msgstr ""
 
 # 9c82d80c90164e73806d1cb9926ab2bb
-#: ../../AVR.rst:1012
-msgid "B"
-msgstr ""
-
-# 395b3b74cdd148f79beecda0d31ad903
-#: ../../AVR.rst:1021
-msgid "Tamiyo, the Moon Sage"
-msgstr ""
-
-# 5ba0d237410b45b182c4cf34ca4ce127
-#: ../../AVR.rst:1016
-msgid "+1: Tap target permanent. It doesn't untap during its controller's next untap step."
-msgstr ""
+#~ msgid "B"
+#~ msgstr ""
 
 # 7c995f036e014886a69632d16ad63a94
-#: ../../AVR.rst:1018
-msgid "-2: Draw a card for each tapped creature target player controls."
-msgstr ""
+#~ msgid "-2: Draw a card for each tapped creature target player controls."
+#~ msgstr ""
 
 # 1ff58a827b6d4daa8c33591c9dca3f7f
-#: ../../AVR.rst:1020
-msgid "-8: You get an emblem with \\\"You have no maximum hand size\\\" and \\\"Whenever a card is put into your graveyard from anywhere, you may return it to your hand.\\\""
-msgstr ""
-
-# d9e0e34f1d524a5d882db6d14d92c725
-#: ../../AVR.rst:1027
-msgid "Tandem Lookout"
-msgstr ""
+#~ msgid ""
+#~ "-8: You get an emblem with \\\"You"
+#~ " have no maximum hand size\\\" and"
+#~ " \\\"Whenever a card is put into "
+#~ "your graveyard from anywhere, you may"
+#~ " return it to your hand.\\\""
+#~ msgstr ""
 
 # aa9bda131a014f60b62dda82971b6ed6
-#: ../../AVR.rst:1026
-msgid "As long as Tandem Lookout is paired with another creature, each of those creatures has \\\"Whenever this creature deals damage to an opponent, draw a card.\\\""
-msgstr ""
-
-# 035a119b1d924b9d9c9a63b70f4fcfad
-#: ../../AVR.rst:1033
-msgid "Temporal Mastery"
-msgstr ""
-
-# 6393c31ec67949ab8bc979b1b1a77ebc
-#: ../../AVR.rst:1030
-msgid "Take an extra turn after this one. Exile Temporal Mastery."
-msgstr ""
-
-# 033bd7c9c58741dca5d051418f3d7555
-#: ../../AVR.rst:1039
-msgid "Terminus"
-msgstr ""
-
-# afc64bde39244994a40f7b812c039708
-#: ../../AVR.rst:1036
-msgid "Put all creatures on the bottom of their owners' libraries."
-msgstr ""
-
-# ecca26f58a124da49a072fd43b78b71a
-#: ../../AVR.rst:1043
-msgid "Terrifying Presence"
-msgstr ""
-
-# f6c5d005a78b43b492adfdb569e7eed6
-#: ../../AVR.rst:1042
-msgid "Prevent all combat damage that would be dealt by creatures other than target creature this turn."
-msgstr ""
-
-# 612d0aaa9c334c46bb47f07db86a1bc5
-#: ../../AVR.rst:1047
-msgid "Thatcher Revolt"
-msgstr ""
+#~ msgid ""
+#~ "As long as Tandem Lookout is "
+#~ "paired with another creature, each of"
+#~ " those creatures has \\\"Whenever this "
+#~ "creature deals damage to an opponent,"
+#~ " draw a card.\\\""
+#~ msgstr ""
 
 # a45534dbb7ee4c94a7edc105d3140371
-#: ../../AVR.rst:1046
-msgid "Put three 1/1 red Human creature tokens with haste onto the battlefield. Sacrifice those tokens at the beginning of the next end step."
-msgstr ""
-
-# 7ca6fbfbdbd04d9aa1ec4d7f108f05dc
-#: ../../AVR.rst:1051
-msgid "Thraben Valiant"
-msgstr ""
-
-# 723c247b1a0b4cacbbb1d4e3c8f39398
-#: ../../AVR.rst:1057
-msgid "Thunderbolt"
-msgstr ""
+#~ msgid ""
+#~ "Put three 1/1 red Human creature "
+#~ "tokens with haste onto the battlefield."
+#~ " Sacrifice those tokens at the "
+#~ "beginning of the next end step."
+#~ msgstr ""
 
 # aaba206755c34470aea156684329e0e5
-#: ../../AVR.rst:1054
-msgid "Choose one — Thunderbolt deals 3 damage to target player"
-msgstr ""
+#~ msgid "Choose one — Thunderbolt deals 3 damage to target player"
+#~ msgstr ""
 
 # cbb9016a44db4e94b169c03ba7c90b38
-#: ../../AVR.rst:1056
-msgid "or Thunderbolt deals 4 damage to target creature with flying."
-msgstr ""
-
-# 8f438e5ccf584e7588486987342dd73e
-#: ../../AVR.rst:1063
-msgid "Thunderous Wrath"
-msgstr ""
+#~ msgid "or Thunderbolt deals 4 damage to target creature with flying."
+#~ msgstr ""
 
 # fbc300ac895c44a8951dd6fc30a9c07a
-#: ../../AVR.rst:1060
-msgid "Thunderous Wrath deals 5 damage to target creature or player."
-msgstr ""
-
-# b3d2671f6f9c495e91a6e9e59d8e73c2
-#: ../../AVR.rst:1062
-msgid "Miracle |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
-msgstr ""
-
-# 150b5456e47c49769a9be5e7857b2e10
-#: ../../AVR.rst:1071
-msgid "Tibalt, the Fiend-Blooded"
-msgstr ""
-
-# 671ae525afb54cf7a90780edbd785e78
-#: ../../AVR.rst:1066
-msgid "+1: Draw a card, then discard a card at random."
-msgstr ""
+#~ msgid "Thunderous Wrath deals 5 damage to target creature or player."
+#~ msgstr ""
 
 # 5117834bfc1c4fdfb2377685b2d7390e
-#: ../../AVR.rst:1068
-msgid "-4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player."
-msgstr ""
+#~ msgid ""
+#~ "-4: Tibalt, the Fiend-Blooded deals "
+#~ "damage equal to the number of "
+#~ "cards in target player's hand to "
+#~ "that player."
+#~ msgstr ""
 
 # cbe032be1eb14c9fa72954ebb4dfc355
-#: ../../AVR.rst:1070
-msgid "-6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn."
-msgstr ""
-
-# 3dc697221b9a4cbba6f4351da2261fe5
-#: ../../AVR.rst:1075
-msgid "Timberland Guide"
-msgstr ""
-
-# 2cc791bc5fa54bf28f6ee9626bc19150
-#: ../../AVR.rst:1074
-msgid "When Timberland Guide enters the battlefield, put a +1/+1 counter on target creature."
-msgstr ""
-
-# deb333edad9d4455a8d79d25eb8c4cb5
-#: ../../AVR.rst:1081
-msgid "Tormentor's Trident"
-msgstr ""
+#~ msgid ""
+#~ "-6: Gain control of all creatures "
+#~ "until end of turn. Untap them. "
+#~ "They gain haste until end of turn."
+#~ msgstr ""
 
 # fcd7b995bc5149f89d49bb4f5d53831c
-#: ../../AVR.rst:1078
-msgid "Equipped creature gets +3/+0 and attacks each turn if able."
-msgstr ""
-
-# 30ff453a32504027b4a6831ffd1397c2
-#: ../../AVR.rst:1080
-msgid "Equip |mana_3|"
-msgstr ""
-
-# c3b1d1db6a8c4c5ba9240aea25fa1a3b
-#: ../../AVR.rst:1087
-msgid "Treacherous Pit-Dweller"
-msgstr ""
-
-# e02b416c5666489aa32cc05330109ef5
-#: ../../AVR.rst:1084
-msgid "When Treacherous Pit-Dweller enters the battlefield from a graveyard, target opponent gains control of it."
-msgstr ""
-
-# 84b0b34c691c4c28b033bf92fbcb0f0b
-#: ../../AVR.rst:1091
-msgid "Triumph of Cruelty"
-msgstr ""
-
-# b20441523b8c4327aed10d8b1e4601d3
-#: ../../AVR.rst:1090
-msgid "At the beginning of your upkeep, target opponent discards a card if you control the creature with the greatest power or tied for the greatest power."
-msgstr ""
-
-# 10df3bf352514a43b4b302aa543c3d83
-#: ../../AVR.rst:1095
-msgid "Triumph of Ferocity"
-msgstr ""
-
-# 0761c3b4845544438b8610340c71950f
-#: ../../AVR.rst:1094
-msgid "At the beginning of your upkeep, draw a card if you control the creature with the greatest power or tied for the greatest power."
-msgstr ""
-
-# 71f9d4f3a56744dfa5d4f18099bad277
-#: ../../AVR.rst:1101
-msgid "Trusted Forcemage"
-msgstr ""
-
-# 1c9c46dde2df496fa2761b6f2dc481ea
-#: ../../AVR.rst:1100
-msgid "As long as Trusted Forcemage is paired with another creature, each of those creatures gets +1/+1."
-msgstr ""
-
-# 8ae577a7160f4b4099104292e6eed7da
-#: ../../AVR.rst:1105
-msgid "Tyrant of Discord"
-msgstr ""
+#~ msgid "Equipped creature gets +3/+0 and attacks each turn if able."
+#~ msgstr ""
 
 # 6312f9e7a2444661b6843891e1771c18
-#: ../../AVR.rst:1104
-msgid "When Tyrant of Discord enters the battlefield, target opponent chooses a permanent he or she controls at random and sacrifices it. If a nonland permanent is sacrificed this way, repeat this process."
-msgstr ""
-
-# c3f55addac6441c5934345e8f04111b8
-#: ../../AVR.rst:1109
-msgid "Ulvenwald Tracker"
-msgstr ""
+#~ msgid ""
+#~ "When Tyrant of Discord enters the "
+#~ "battlefield, target opponent chooses a "
+#~ "permanent he or she controls at "
+#~ "random and sacrifices it. If a "
+#~ "nonland permanent is sacrificed this "
+#~ "way, repeat this process."
+#~ msgstr ""
 
 # 7b35a03827f34c869307c2f35ba4445a
-#: ../../AVR.rst:1108
-msgid "|mana_1| |mana_g|, |tap|: Target creature you control fights another target creature. (Each deals damage equal to its power to the other.)"
-msgstr ""
-
-# 5202cb510c474b3da747200df36f4910
-#: ../../AVR.rst:1113
-msgid "Uncanny Speed"
-msgstr ""
-
-# eded6250af0d47b2a51e43290746d9fd
-#: ../../AVR.rst:1112
-msgid "Target creature gets +3/+0 and gains haste until end of turn."
-msgstr ""
-
-# 5a0bf0a689ee46f6a0ddd7145a85a0cf
-#: ../../AVR.rst:1117
-msgid "Undead Executioner"
-msgstr ""
-
-# e3d3acb61bc34999a3e777364d520798
-#: ../../AVR.rst:1116
-msgid "When Undead Executioner dies, you may have target creature get -2/-2 until end of turn."
-msgstr ""
-
-# 8c0c82eb42404338a1148c217efb9a9f
-#: ../../AVR.rst:1123
-msgid "Unhallowed Pact"
-msgstr ""
-
-# 1848919abcae40f7a11b6479d4cbb4c4
-#: ../../AVR.rst:1122
-msgid "When enchanted creature dies, return that card to the battlefield under your control."
-msgstr ""
-
-# 2bcf377a5be442209acf0fef473459f6
-#: ../../AVR.rst:1129
-msgid "Vanguard's Shield"
-msgstr ""
+#~ msgid ""
+#~ "|mana_1| |mana_g|, |tap|: Target creature "
+#~ "you control fights another target "
+#~ "creature. (Each deals damage equal to"
+#~ " its power to the other.)"
+#~ msgstr ""
 
 # ae180d2b8f2a47778e5fcea975124d9f
-#: ../../AVR.rst:1126
-msgid "Equipped creature gets +0/+3 and can block an additional creature."
-msgstr ""
-
-# 33b44c14a1464b5292d6dd5146ab09a9
-#: ../../AVR.rst:1128
-msgid "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)"
-msgstr ""
-
-# 72ea15effdcd4356a1a5280c7a3f44ab
-#: ../../AVR.rst:1135
-msgid "Vanishment"
-msgstr ""
-
-# b208eb702a6f4ae1a3596947ffaeab10
-#: ../../AVR.rst:1132
-msgid "Put target nonland permanent on top of its owner's library."
-msgstr ""
-
-# 91a2924d88034b629a348e9ea8098ec2
-#: ../../AVR.rst:1134
-msgid "Miracle |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
-msgstr ""
-
-# db23ac43388947ceb39872e38ffb8313
-#: ../../AVR.rst:1141
-msgid "Vessel of Endless Rest"
-msgstr ""
-
-# 8f2e261389d74c4b8068dd7b07f89eb6
-#: ../../AVR.rst:1138
-msgid "When Vessel of Endless Rest enters the battlefield, put target card from a graveyard on the bottom of its owner's library."
-msgstr ""
+#~ msgid "Equipped creature gets +0/+3 and can block an additional creature."
+#~ msgstr ""
 
 # 8ac34b5442d2456dbbff9d718f2462f5
-#: ../../AVR.rst:1140
-msgid "|tap|: Add one mana of any color to your mana pool."
-msgstr ""
-
-# de43bd770e6a4664a8144bd0a609edcd
-#: ../../AVR.rst:1145
-msgid "Vexing Devil"
-msgstr ""
+#~ msgid "|tap|: Add one mana of any color to your mana pool."
+#~ msgstr ""
 
 # 6ad5460d003a4a6399fa8d519b309f87
-#: ../../AVR.rst:1144
-msgid "When Vexing Devil enters the battlefield, any opponent may have it deal 4 damage to him or her. If a player does, sacrifice Vexing Devil."
-msgstr ""
-
-# 9842f766a3b444358f7ea2c5f89b6ec7
-#: ../../AVR.rst:1149
-msgid "Vigilante Justice"
-msgstr ""
+#~ msgid ""
+#~ "When Vexing Devil enters the "
+#~ "battlefield, any opponent may have it"
+#~ " deal 4 damage to him or her."
+#~ " If a player does, sacrifice Vexing"
+#~ " Devil."
+#~ msgstr ""
 
 # 7891aab3f9c64c7b84ec71f1a5cfddf3
-#: ../../AVR.rst:1148
-msgid "Whenever a Human enters the battlefield under your control, Vigilante Justice deals 1 damage to target creature or player."
-msgstr ""
-
-# 8996feed424948ff9cca9655961b7182
-#: ../../AVR.rst:1155
-msgid "Voice of the Provinces"
-msgstr ""
+#~ msgid ""
+#~ "Whenever a Human enters the battlefield"
+#~ " under your control, Vigilante Justice "
+#~ "deals 1 damage to target creature "
+#~ "or player."
+#~ msgstr ""
 
 # c9683bc337c7460a93d3e18cc5f79596
-#: ../../AVR.rst:1154
-msgid "When Voice of the Provinces enters the battlefield, put a 1/1 white Human creature token onto the battlefield."
-msgstr ""
+#~ msgid ""
+#~ "When Voice of the Provinces enters "
+#~ "the battlefield, put a 1/1 white "
+#~ "Human creature token onto the "
+#~ "battlefield."
+#~ msgstr ""
 
-# 36d9bfb0470948d49f3b6700a7e39451
-#: ../../AVR.rst:1157
-msgid "Vorstclaw"
-msgstr ""
-
-# 067ddccf2d5e4f0bae1885b4b6041423
-#: ../../AVR.rst:1163
-msgid "Wandering Wolf"
-msgstr ""
-
-# 90c85044370a404988f51b20d30f1c02
-#: ../../AVR.rst:1162
-msgid "Creatures with power less than Wandering Wolf's power can't block it."
-msgstr ""
-
-# 61bbeeb9335348c997a3d4017a0cd450
-#: ../../AVR.rst:1167
-msgid "Wild Defiance"
-msgstr ""
-
-# 37a5dce0427044ef9fd2454f085495cd
-#: ../../AVR.rst:1166
-msgid "Whenever a creature you control becomes the target of an instant or sorcery spell, that creature gets +3/+3 until end of turn."
-msgstr ""
-
-# 2b1bf3bfb9c64881b32c0b8e5c504c1c
-#: ../../AVR.rst:1171
-msgid "Wildwood Geist"
-msgstr ""
-
-# 175c0234497a4e12b08651e9641ce09c
-#: ../../AVR.rst:1170
-msgid "Wildwood Geist gets +2/+2 as long as it's your turn."
-msgstr ""
-
-# 30dfc76374784fc9be79a38688181408
-#: ../../AVR.rst:1177
-msgid "Wingcrafter"
-msgstr ""
-
-# 15874e0200524589a878586b2f2c5902
-#: ../../AVR.rst:1176
-msgid "As long as Wingcrafter is paired with another creature, both creatures have flying."
-msgstr ""
-
-# 736a94c2798740cea74b8802ea75d10a
-#: ../../AVR.rst:1183
-msgid "Wolfir Avenger"
-msgstr ""
-
-# a4745aa0793e4a0382c8a33b57ce6db4
-#: ../../AVR.rst:1180
-msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
-
-# 193202604bee43189e7a16ddfe9528fd
-#: ../../AVR.rst:1182
-msgid "|mana_1| |mana_g|: Regenerate Wolfir Avenger."
-msgstr ""
-
-# d6b5df67059345b8a7d48b04ff654f15
-#: ../../AVR.rst:1189
-msgid "Wolfir Silverheart"
-msgstr ""
-
-# d5ebe11624574a6d8f1cfd063e535eec
-#: ../../AVR.rst:1188
-msgid "As long as Wolfir Silverheart is paired with another creature, each of those creatures gets +4/+4."
-msgstr ""
-
-# 629de024d7d948dca87d1be7835fd16c
-#: ../../AVR.rst:1193
-msgid "Yew Spirit"
-msgstr ""
-
-# 19a32000e86148bc9a11be280db749b6
-#: ../../AVR.rst:1192
-msgid "|mana_2| |mana_g| |mana_g|: Yew Spirit gets +X/+X until end of turn, where X is its power."
-msgstr ""
-
-# 418d137269c64acf88545f4d6de55d70
-#: ../../AVR.rst:1199
-msgid "Zealous Conscripts"
-msgstr ""
-
-# e1f0d723af5e4ab6bed82e9aec52d6b2
-#: ../../AVR.rst:1198
-msgid "When Zealous Conscripts enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn."
-msgstr ""
-
-# 9c35918eacaa42aea4fbe73c4b05e967
-#: ../../AVR.rst:1203
-msgid "Zealous Strike"
-msgstr ""
-
-# 46e41474564e434488ef0781257292e6
-#: ../../AVR.rst:1202
-msgid "Target creature gets +2/+2 and gains first strike until end of turn."
-msgstr ""

@@ -1,15 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-12-24 00:48+0100\n"
+"POT-Creation-Date: 2018-12-16 00:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
 
 #: ../../changelog.rst:4
 msgid "Spis zmian"
@@ -22,7 +23,8 @@ msgstr ""
 #: ../../changelog.rst:7
 msgid ""
 "Nowe dodatki: :doc:`Born of the Gods<BNG>`, :doc:`Avacyn Restored<AVR>`, "
-":doc:`Dark Ascension<DKA>1, :doc:`Innistrad<ISD>`, :doc:`New Phyrexia<NPH>`."
+":doc:`Dark Ascension<DKA>`, :doc:`Innistrad<ISD>`, :doc:`New "
+"Phyrexia<NPH>`."
 msgstr ""
 
 #: ../../changelog.rst:10
@@ -79,7 +81,8 @@ msgstr ""
 
 #: ../../changelog.rst:28
 msgid ""
-"Zakończenie tłumaczenia: :doc:`RTR<RTR>`, :doc:`GTC<GTC>`, :doc:`DGM<DGM>`."
+"Zakończenie tłumaczenia: :doc:`RTR<RTR>`, :doc:`GTC<GTC>`, "
+":doc:`DGM<DGM>`."
 msgstr ""
 
 #: ../../changelog.rst:33
@@ -102,13 +105,14 @@ msgstr ""
 
 #: ../../changelog.rst:36
 msgid ""
-"Dodanie kart z decku :doc:`Face the Hydra<THS_hydra>` wraz z instrukcją gry."
+"Dodanie kart z decku :doc:`Face the Hydra<THS_hydra>` wraz z instrukcją "
+"gry."
 msgstr ""
 
 #: ../../changelog.rst:38
 msgid ""
-"Dodano :doc:`uzasadnienie<rationale>` tłumaczeń określonych słów kluczowych "
-"i ogólnej koncepcji projektu."
+"Dodano :doc:`uzasadnienie<rationale>` tłumaczeń określonych słów "
+"kluczowych i ogólnej koncepcji projektu."
 msgstr ""
 
 #: ../../changelog.rst:41
@@ -124,8 +128,7 @@ msgid "2013-09-08"
 msgstr ""
 
 #: ../../changelog.rst:44
-msgid ""
-"Adaptacja skróconej instrukcji do formatu używanego podczas tłumaczenia."
+msgid "Adaptacja skróconej instrukcji do formatu używanego podczas tłumaczenia."
 msgstr ""
 
 #: ../../changelog.rst:47
@@ -154,3 +157,11 @@ msgid ""
 "gry.pl/index.php?/topic/6-tlumaczenie-mtg-czesc-1-typy-cechy-i-zdolnosci-"
 "kart/>`_"
 msgstr ""
+
+#~ msgid ""
+#~ "Nowe dodatki: :doc:`Born of the "
+#~ "Gods<BNG>`, :doc:`Avacyn Restored<AVR>`, :doc:`Dark"
+#~ " Ascension<DKA>1, :doc:`Innistrad<ISD>`, :doc:`New "
+#~ "Phyrexia<NPH>`."
+#~ msgstr ""
+

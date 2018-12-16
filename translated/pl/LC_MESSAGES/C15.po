@@ -1,0 +1,4052 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-16 00:38+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../C15.rst:5
+msgid "Commander 2015"
+msgstr ""
+
+#: ../../C15.rst:13
+msgid "Bastion Protector"
+msgstr ""
+
+#: ../../C15.rst:12
+msgid "Commander creatures you control get +2/+2 and have indestructible."
+msgstr ""
+
+#: ../../C15.rst:22
+msgid "Dawnbreak Reclaimer"
+msgstr ""
+
+#: ../../C15.rst:19 ../../C15.rst:184 ../../C15.rst:193 ../../C15.rst:222
+#: ../../C15.rst:368 ../../C15.rst:379 ../../C15.rst:433 ../../C15.rst:469
+#: ../../C15.rst:525 ../../C15.rst:572 ../../C15.rst:612 ../../C15.rst:732
+#: ../../C15.rst:750 ../../C15.rst:860 ../../C15.rst:1027 ../../C15.rst:1070
+#: ../../C15.rst:1081 ../../C15.rst:1310 ../../C15.rst:1696 ../../C15.rst:2025
+#: ../../C15.rst:2043
+msgid "Flying"
+msgstr ""
+
+#: ../../C15.rst:21
+msgid ""
+"At the beginning of your end step, choose a creature card in an "
+"opponent's graveyard, then that player chooses a creature card in your "
+"graveyard. You may return those cards to the battlefield under their "
+"owners' control."
+msgstr ""
+
+#: ../../C15.rst:29
+msgid "Grasp of Fate"
+msgstr ""
+
+#: ../../C15.rst:28
+msgid ""
+"When Grasp of Fate enters the battlefield, for each opponent, exile up to"
+" one target nonland permanent that player controls until Grasp of Fate "
+"leaves the battlefield. (Those permanents return under their owners' "
+"control.)"
+msgstr ""
+
+#: ../../C15.rst:38
+msgid "Herald of the Host"
+msgstr ""
+
+#: ../../C15.rst:35
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../C15.rst:37 ../../C15.rst:93 ../../C15.rst:147 ../../C15.rst:278
+#: ../../C15.rst:303
+msgid ""
+"Myriad (Whenever this creature attacks, for each opponent other than "
+"defending player, you may create a token that's a copy of this creature "
+"that's tapped and attacking that player or a planeswalker they control. "
+"Exile the tokens at end of combat.)"
+msgstr ""
+
+#: ../../C15.rst:49
+msgid "Kalemne's Captain"
+msgstr ""
+
+#: ../../C15.rst:44 ../../C15.rst:536 ../../C15.rst:741
+msgid "Vigilance"
+msgstr ""
+
+#: ../../C15.rst:46
+msgid ""
+"|mana_5| |mana_w| |mana_w|: Monstrosity 3. (If this creature isn't "
+"monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+msgstr ""
+
+#: ../../C15.rst:48
+msgid ""
+"When Kalemne's Captain becomes monstrous, exile all artifacts and "
+"enchantments."
+msgstr ""
+
+#: ../../C15.rst:56
+msgid "Oreskos Explorer"
+msgstr ""
+
+#: ../../C15.rst:55
+msgid ""
+"When Oreskos Explorer enters the battlefield, search your library for up "
+"to X Plains cards, where X is the number of players who control more "
+"lands than you. Reveal those cards, put them into your hand, then shuffle"
+" your library."
+msgstr ""
+
+#: ../../C15.rst:69
+msgid "Righteous Confluence"
+msgstr ""
+
+#: ../../C15.rst:62 ../../C15.rst:127 ../../C15.rst:202 ../../C15.rst:231
+#: ../../C15.rst:355
+msgid "Choose three. You may choose the same mode more than once."
+msgstr ""
+
+#: ../../C15.rst:64
+msgid "Create a 2/2 white Knight creature token with vigilance."
+msgstr ""
+
+#: ../../C15.rst:66
+msgid "Exile target enchantment."
+msgstr ""
+
+#: ../../C15.rst:68
+msgid "You gain 5 life."
+msgstr ""
+
+#: ../../C15.rst:80
+msgid "Shielded by Faith"
+msgstr ""
+
+#: ../../C15.rst:75 ../../C15.rst:561 ../../C15.rst:759 ../../C15.rst:1092
+#: ../../C15.rst:1213
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../C15.rst:77
+msgid "Enchanted creature has indestructible."
+msgstr ""
+
+#: ../../C15.rst:79
+msgid ""
+"Whenever a creature enters the battlefield, you may attach Shielded by "
+"Faith to that creature."
+msgstr ""
+
+#: ../../C15.rst:87
+msgid "Aethersnatch"
+msgstr ""
+
+#: ../../C15.rst:86
+msgid ""
+"Gain control of target spell. You may choose new targets for it. (If that"
+" spell becomes a permanent, it enters the battlefield under your "
+"control.)"
+msgstr ""
+
+#: ../../C15.rst:96
+msgid "Broodbirth Viper"
+msgstr ""
+
+#: ../../C15.rst:95
+msgid ""
+"Whenever Broodbirth Viper deals combat damage to a player, you may draw a"
+" card."
+msgstr ""
+
+#: ../../C15.rst:103
+msgid "Gigantoplasm"
+msgstr ""
+
+#: ../../C15.rst:102
+msgid ""
+"You may have Gigantoplasm enter the battlefield as a copy of any creature"
+" on the battlefield, except it has \"|mana_x|: This creature has base "
+"power and toughness X/X.\""
+msgstr ""
+
+#: ../../C15.rst:112
+msgid "Illusory Ambusher"
+msgstr ""
+
+#: ../../C15.rst:109 ../../C15.rst:328
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
+#: ../../C15.rst:111
+msgid "Whenever Illusory Ambusher is dealt damage, draw that many cards."
+msgstr ""
+
+#: ../../C15.rst:121
+msgid "Mirror Match"
+msgstr ""
+
+#: ../../C15.rst:118
+msgid "Cast this spell only during the declare blockers step."
+msgstr ""
+
+#: ../../C15.rst:120
+msgid ""
+"For each creature attacking you or a planeswalker you control, create a "
+"token that's a copy of that creature and that's blocking that creature. "
+"Exile those tokens at end of combat."
+msgstr ""
+
+#: ../../C15.rst:134
+msgid "Mystic Confluence"
+msgstr ""
+
+#: ../../C15.rst:129
+msgid "Counter target spell unless its controller pays |mana_3|."
+msgstr ""
+
+#: ../../C15.rst:131
+msgid "Return target creature to its owner's hand."
+msgstr ""
+
+#: ../../C15.rst:133 ../../C15.rst:923 ../../C15.rst:2079
+msgid "Draw a card."
+msgstr ""
+
+#: ../../C15.rst:141
+msgid "Synthetic Destiny"
+msgstr ""
+
+#: ../../C15.rst:140
+msgid ""
+"Exile all creatures you control. At the beginning of the next end step, "
+"reveal cards from the top of your library until you reveal that many "
+"creature cards, put all creature cards revealed this way onto the "
+"battlefield, then shuffle the rest of the revealed cards into your "
+"library."
+msgstr ""
+
+#: ../../C15.rst:150
+msgid "Banshee of the Dread Choir"
+msgstr ""
+
+#: ../../C15.rst:149
+msgid ""
+"Whenever Banshee of the Dread Choir deals combat damage to a player, that"
+" player discards a card."
+msgstr ""
+
+#: ../../C15.rst:157
+msgid "Corpse Augur"
+msgstr ""
+
+#: ../../C15.rst:156
+msgid ""
+"When Corpse Augur dies, you draw X cards and you lose X life, where X is "
+"the number of creature cards in target player's graveyard."
+msgstr ""
+
+#: ../../C15.rst:164
+msgid "Daxos's Torment"
+msgstr ""
+
+#: ../../C15.rst:163
+msgid ""
+"Constellation — Whenever Daxos's Torment or another enchantment enters "
+"the battlefield under your control, Daxos's Torment becomes a 5/5 Demon "
+"creature with flying and haste in addition to its other types until end "
+"of turn."
+msgstr ""
+
+#: ../../C15.rst:171
+msgid "Deadly Tempest"
+msgstr ""
+
+#: ../../C15.rst:170
+msgid ""
+"Destroy all creatures. Each player loses life equal to the number of "
+"creatures they controlled that were destroyed this way."
+msgstr ""
+
+#: ../../C15.rst:178
+msgid "Dread Summons"
+msgstr ""
+
+#: ../../C15.rst:177
+msgid ""
+"Each player puts the top X cards of their library into their graveyard. "
+"For each creature card put into a graveyard this way, you create a tapped"
+" 2/2 black Zombie creature token."
+msgstr ""
+
+#: ../../C15.rst:187
+msgid "Scourge of Nel Toth"
+msgstr ""
+
+#: ../../C15.rst:186
+msgid ""
+"You may cast Scourge of Nel Toth from your graveyard by paying |mana_b| "
+"|mana_b| and sacrificing two creatures rather than paying its mana cost."
+msgstr ""
+
+#: ../../C15.rst:196
+msgid "Thief of Blood"
+msgstr ""
+
+#: ../../C15.rst:195
+msgid ""
+"As Thief of Blood enters the battlefield, remove all counters from all "
+"permanents. Thief of Blood enters the battlefield with a +1/+1 counter on"
+" it for each counter removed this way."
+msgstr ""
+
+#: ../../C15.rst:209
+msgid "Wretched Confluence"
+msgstr ""
+
+#: ../../C15.rst:204
+msgid "Target player draws a card and loses 1 life."
+msgstr ""
+
+#: ../../C15.rst:206
+msgid "Target creature gets -2/-2 until end of turn."
+msgstr ""
+
+#: ../../C15.rst:208
+msgid "Return target creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../C15.rst:216
+msgid "Awaken the Sky Tyrant"
+msgstr ""
+
+#: ../../C15.rst:215
+msgid ""
+"When a source an opponent controls deals damage to you, sacrifice Awaken "
+"the Sky Tyrant. If you do, create a 5/5 red Dragon creature token with "
+"flying."
+msgstr ""
+
+#: ../../C15.rst:225
+msgid "Dream Pillager"
+msgstr ""
+
+#: ../../C15.rst:224
+msgid ""
+"Whenever Dream Pillager deals combat damage to a player, exile that many "
+"cards from the top of your library. Until end of turn, you may cast "
+"nonland cards from among those exiled cards."
+msgstr ""
+
+#: ../../C15.rst:238
+msgid "Fiery Confluence"
+msgstr ""
+
+#: ../../C15.rst:233
+msgid "Fiery Confluence deals 1 damage to each creature."
+msgstr ""
+
+#: ../../C15.rst:235
+msgid "Fiery Confluence deals 2 damage to each opponent."
+msgstr ""
+
+#: ../../C15.rst:237
+msgid "Destroy target artifact."
+msgstr ""
+
+#: ../../C15.rst:245
+msgid "Magus of the Wheel"
+msgstr ""
+
+#: ../../C15.rst:244
+msgid ""
+"|mana_1| |mana_r|, |tap|, Sacrifice Magus of the Wheel: Each player "
+"discards their hand, then draws seven cards."
+msgstr ""
+
+#: ../../C15.rst:252
+msgid "Meteor Blast"
+msgstr ""
+
+#: ../../C15.rst:251
+msgid "Meteor Blast deals 4 damage to each of X targets."
+msgstr ""
+
+#: ../../C15.rst:261
+msgid "Mizzix's Mastery"
+msgstr ""
+
+#: ../../C15.rst:258
+msgid ""
+"Exile target card that's an instant or sorcery from your graveyard. For "
+"each card exiled this way, copy it, and you may cast the copy without "
+"paying its mana cost. Exile Mizzix's Mastery."
+msgstr ""
+
+#: ../../C15.rst:260
+msgid ""
+"Overload |mana_5| |mana_r| |mana_r| |mana_r| (You may cast this spell for"
+" its overload cost. If you do, change its text by replacing all instances"
+" of \"target\" with \"each.\")"
+msgstr ""
+
+#: ../../C15.rst:270
+msgid "Rite of the Raging Storm"
+msgstr ""
+
+#: ../../C15.rst:267
+msgid ""
+"Creatures named Lightning Rager can't attack you or planeswalkers you "
+"control."
+msgstr ""
+
+#: ../../C15.rst:269
+msgid ""
+"At the beginning of each player's upkeep, that player creates a 5/1 red "
+"Elemental creature token named Lightning Rager. It has trample, haste, "
+"and \"At the beginning of the end step, sacrifice this creature.\""
+msgstr ""
+
+#: ../../C15.rst:279
+msgid "Warchief Giant"
+msgstr ""
+
+#: ../../C15.rst:276 ../../C15.rst:1365
+msgid "Haste"
+msgstr ""
+
+#: ../../C15.rst:286
+msgid "Arachnogenesis"
+msgstr ""
+
+#: ../../C15.rst:285
+msgid ""
+"Create X 1/2 green Spider creature tokens with reach, where X is the "
+"number of creatures attacking you. Prevent all combat damage that would "
+"be dealt this turn by non-Spider creatures."
+msgstr ""
+
+#: ../../C15.rst:295
+msgid "Bloodspore Thrinax"
+msgstr ""
+
+#: ../../C15.rst:292
+msgid ""
+"Devour 1 (As this enters the battlefield, you may sacrifice any number of"
+" creatures. This creature enters the battlefield with that many +1/+1 "
+"counters on it.)"
+msgstr ""
+
+#: ../../C15.rst:294
+msgid ""
+"Each other creature you control enters the battlefield with an additional"
+" X +1/+1 counters on it, where X is the number of +1/+1 counters on "
+"Bloodspore Thrinax."
+msgstr ""
+
+#: ../../C15.rst:304
+msgid "Caller of the Pack"
+msgstr ""
+
+#: ../../C15.rst:301 ../../C15.rst:310 ../../C15.rst:1231 ../../C15.rst:1937
+msgid "Trample"
+msgstr ""
+
+#: ../../C15.rst:315
+msgid "Centaur Vinecrasher"
+msgstr ""
+
+#: ../../C15.rst:312
+msgid ""
+"Centaur Vinecrasher enters the battlefield with a number of +1/+1 "
+"counters on it equal to the number of land cards in all graveyards."
+msgstr ""
+
+#: ../../C15.rst:314
+msgid ""
+"Whenever a land card is put into a graveyard from anywhere, you may pay "
+"|mana_g| |mana_g|. If you do, return Centaur Vinecrasher from your "
+"graveyard to your hand."
+msgstr ""
+
+#: ../../C15.rst:322
+msgid "Ezuri's Predation"
+msgstr ""
+
+#: ../../C15.rst:321
+msgid ""
+"For each creature your opponents control, create a 4/4 green Beast "
+"creature token. Each of those Beasts fights a different one of those "
+"creatures."
+msgstr ""
+
+#: ../../C15.rst:333
+msgid "Great Oak Guardian"
+msgstr ""
+
+#: ../../C15.rst:330 ../../C15.rst:1501 ../../C15.rst:1550 ../../C15.rst:1746
+msgid "Reach"
+msgstr ""
+
+#: ../../C15.rst:332
+msgid ""
+"When Great Oak Guardian enters the battlefield, creatures target player "
+"controls get +2/+2 until end of turn. Untap them."
+msgstr ""
+
+#: ../../C15.rst:340
+msgid "Pathbreaker Ibex"
+msgstr ""
+
+#: ../../C15.rst:339
+msgid ""
+"Whenever Pathbreaker Ibex attacks, creatures you control gain trample and"
+" get +X/+X until end of turn, where X is the greatest power among "
+"creatures you control."
+msgstr ""
+
+#: ../../C15.rst:349
+msgid "Skullwinder"
+msgstr ""
+
+#: ../../C15.rst:346 ../../C15.rst:1492
+msgid ""
+"Deathtouch (Any amount of damage this deals to a creature is enough to "
+"destroy it.)"
+msgstr ""
+
+#: ../../C15.rst:348
+msgid ""
+"When Skullwinder enters the battlefield, return target card from your "
+"graveyard to your hand, then choose an opponent. That player returns a "
+"card from their graveyard to their hand."
+msgstr ""
+
+#: ../../C15.rst:362
+msgid "Verdant Confluence"
+msgstr ""
+
+#: ../../C15.rst:357
+msgid "Put two +1/+1 counters on target creature."
+msgstr ""
+
+#: ../../C15.rst:359
+msgid "Return target permanent card from your graveyard to your hand."
+msgstr ""
+
+#: ../../C15.rst:361
+msgid ""
+"Search your library for a basic land card, put it onto the battlefield "
+"tapped, then shuffle your library."
+msgstr ""
+
+#: ../../C15.rst:373
+msgid "Anya, Merciless Angel"
+msgstr ""
+
+#: ../../C15.rst:370
+msgid ""
+"Anya, Merciless Angel gets +3/+3 for each opponent whose life total is "
+"less than half their starting life total."
+msgstr ""
+
+#: ../../C15.rst:372
+msgid ""
+"As long as an opponent's life total is less than half their starting life"
+" total, Anya has indestructible."
+msgstr ""
+
+#: ../../C15.rst:382
+msgid "Arjun, the Shifting Flame"
+msgstr ""
+
+#: ../../C15.rst:381
+msgid ""
+"Whenever you cast a spell, put the cards in your hand on the bottom of "
+"your library in any order, then draw that many cards."
+msgstr ""
+
+#: ../../C15.rst:391
+msgid "Daxos the Returned"
+msgstr ""
+
+#: ../../C15.rst:388
+msgid "Whenever you cast an enchantment spell, you get an experience counter."
+msgstr ""
+
+#: ../../C15.rst:390
+msgid ""
+"|mana_1| |mana_w| |mana_b|: Create a white and black Spirit enchantment "
+"creature token. It has \"This creature's power and toughness are each "
+"equal to the number of experience counters you have.\""
+msgstr ""
+
+#: ../../C15.rst:400
+msgid "Ezuri, Claw of Progress"
+msgstr ""
+
+#: ../../C15.rst:397
+msgid ""
+"Whenever a creature with power 2 or less enters the battlefield under "
+"your control, you get an experience counter."
+msgstr ""
+
+#: ../../C15.rst:399
+msgid ""
+"At the beginning of combat on your turn, put X +1/+1 counters on another "
+"target creature you control, where X is the number of experience counters"
+" you have."
+msgstr ""
+
+#: ../../C15.rst:411
+msgid "Kalemne, Disciple of Iroas"
+msgstr ""
+
+#: ../../C15.rst:406
+msgid "Double strike, vigilance"
+msgstr ""
+
+#: ../../C15.rst:408
+msgid ""
+"Whenever you cast a creature spell with converted mana cost 5 or greater,"
+" you get an experience counter."
+msgstr ""
+
+#: ../../C15.rst:410
+msgid ""
+"Kalemne, Disciple of Iroas gets +1/+1 for each experience counter you "
+"have."
+msgstr ""
+
+#: ../../C15.rst:420
+msgid "Karlov of the Ghost Council"
+msgstr ""
+
+#: ../../C15.rst:417
+msgid ""
+"Whenever you gain life, put two +1/+1 counters on Karlov of the Ghost "
+"Council."
+msgstr ""
+
+#: ../../C15.rst:419
+msgid ""
+"|mana_w| |mana_b|, Remove six +1/+1 counters from Karlov of the Ghost "
+"Council: Exile target creature."
+msgstr ""
+
+#: ../../C15.rst:427
+msgid "Kaseto, Orochi Archmage"
+msgstr ""
+
+#: ../../C15.rst:426
+msgid ""
+"|mana_g| |mana_u|: Target creature can't be blocked this turn. If that "
+"creature is a Snake, it gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../C15.rst:436
+msgid "Mazirek, Kraul Death Priest"
+msgstr ""
+
+#: ../../C15.rst:435
+msgid ""
+"Whenever a player sacrifices another permanent, put a +1/+1 counter on "
+"each creature you control."
+msgstr ""
+
+#: ../../C15.rst:445
+msgid "Meren of Clan Nel Toth"
+msgstr ""
+
+#: ../../C15.rst:442
+msgid "Whenever another creature you control dies, you get an experience counter."
+msgstr ""
+
+#: ../../C15.rst:444
+msgid ""
+"At the beginning of your end step, choose target creature card in your "
+"graveyard. If that card's converted mana cost is less than or equal to "
+"the number of experience counters you have, return it to the battlefield."
+" Otherwise, put it into your hand."
+msgstr ""
+
+#: ../../C15.rst:454
+msgid "Mizzix of the Izmagnus"
+msgstr ""
+
+#: ../../C15.rst:451
+msgid ""
+"Whenever you cast an instant or sorcery spell with converted mana cost "
+"greater than the number of experience counters you have, you get an "
+"experience counter."
+msgstr ""
+
+#: ../../C15.rst:453
+msgid ""
+"Instant and sorcery spells you cast cost |mana_1| less to cast for each "
+"experience counter you have."
+msgstr ""
+
+#: ../../C15.rst:463
+msgid "Blade of Selves"
+msgstr ""
+
+#: ../../C15.rst:460
+msgid ""
+"Equipped creature has myriad. (Whenever it attacks, for each opponent "
+"other than defending player, you may create a token that's a copy of that"
+" creature that's tapped and attacking that player or a planeswalker they "
+"control. Exile the tokens at end of combat.)"
+msgstr ""
+
+#: ../../C15.rst:462
+msgid "Equip |mana_4|"
+msgstr ""
+
+#: ../../C15.rst:472
+msgid "Sandstone Oracle"
+msgstr ""
+
+#: ../../C15.rst:471
+msgid ""
+"When Sandstone Oracle enters the battlefield, choose an opponent. If that"
+" player has more cards in hand than you, draw cards equal to the "
+"difference."
+msgstr ""
+
+#: ../../C15.rst:485
+msgid "Scytheclaw"
+msgstr ""
+
+#: ../../C15.rst:478 ../../C15.rst:2104
+msgid ""
+"Living weapon (When this Equipment enters the battlefield, create a 0/0 "
+"black Germ creature token, then attach this to it.)"
+msgstr ""
+
+#: ../../C15.rst:480
+msgid "Equipped creature gets +1/+1."
+msgstr ""
+
+#: ../../C15.rst:482
+msgid ""
+"Whenever equipped creature deals combat damage to a player, that player "
+"loses half their life, rounded up."
+msgstr ""
+
+#: ../../C15.rst:484 ../../C15.rst:2215 ../../C15.rst:2335
+msgid "Equip |mana_3|"
+msgstr ""
+
+#: ../../C15.rst:494
+msgid "Seal of the Guildpact"
+msgstr ""
+
+#: ../../C15.rst:491
+msgid "As Seal of the Guildpact enters the battlefield, choose two colors."
+msgstr ""
+
+#: ../../C15.rst:493
+msgid ""
+"Each spell you cast costs |mana_1| less to cast for each of the chosen "
+"colors it is."
+msgstr ""
+
+#: ../../C15.rst:503
+msgid "Thought Vessel"
+msgstr ""
+
+#: ../../C15.rst:500 ../../C15.rst:2614
+msgid "You have no maximum hand size."
+msgstr ""
+
+#: ../../C15.rst:502 ../../C15.rst:509 ../../C15.rst:2222 ../../C15.rst:2387
+#: ../../C15.rst:2452 ../../C15.rst:2481 ../../C15.rst:2490 ../../C15.rst:2563
+#: ../../C15.rst:2616 ../../C15.rst:2623 ../../C15.rst:2718 ../../C15.rst:2727
+#: ../../C15.rst:2827
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../C15.rst:512
+msgid "Command Beacon"
+msgstr ""
+
+#: ../../C15.rst:511
+msgid ""
+"|tap|, Sacrifice Command Beacon: Put your commander into your hand from "
+"the command zone."
+msgstr ""
+
+#: ../../C15.rst:519
+msgid "Ajani's Chosen"
+msgstr ""
+
+#: ../../C15.rst:518
+msgid ""
+"Whenever an enchantment enters the battlefield under your control, create"
+" a 2/2 white Cat creature token. If that enchantment is an Aura, you may "
+"attach it to the token."
+msgstr ""
+
+#: ../../C15.rst:530
+msgid "Angel of Serenity"
+msgstr ""
+
+#: ../../C15.rst:527
+msgid ""
+"When Angel of Serenity enters the battlefield, you may exile up to three "
+"other target creatures from the battlefield and/or creature cards from "
+"graveyards."
+msgstr ""
+
+#: ../../C15.rst:529
+msgid ""
+"When Angel of Serenity leaves the battlefield, return the exiled cards to"
+" their owners' hands."
+msgstr ""
+
+#: ../../C15.rst:539
+msgid "Arbiter of Knollridge"
+msgstr ""
+
+#: ../../C15.rst:538
+msgid ""
+"When Arbiter of Knollridge enters the battlefield, each player's life "
+"total becomes the highest life total among all players."
+msgstr ""
+
+#: ../../C15.rst:548
+msgid "Aura of Silence"
+msgstr ""
+
+#: ../../C15.rst:545
+msgid ""
+"Artifact and enchantment spells your opponents cast cost |mana_2| more to"
+" cast."
+msgstr ""
+
+#: ../../C15.rst:547
+msgid "Sacrifice Aura of Silence: Destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../C15.rst:555
+msgid "Banishing Light"
+msgstr ""
+
+#: ../../C15.rst:554
+msgid ""
+"When Banishing Light enters the battlefield, exile target nonland "
+"permanent an opponent controls until Banishing Light leaves the "
+"battlefield. (That permanent returns under its owner's control.)"
+msgstr ""
+
+#: ../../C15.rst:566
+msgid "Cage of Hands"
+msgstr ""
+
+#: ../../C15.rst:563
+msgid "Enchanted creature can't attack or block."
+msgstr ""
+
+#: ../../C15.rst:565
+msgid "|mana_1| |mana_w|: Return Cage of Hands to its owner's hand."
+msgstr ""
+
+#: ../../C15.rst:575
+msgid "Celestial Ancient"
+msgstr ""
+
+#: ../../C15.rst:574
+msgid ""
+"Whenever you cast an enchantment spell, put a +1/+1 counter on each "
+"creature you control."
+msgstr ""
+
+#: ../../C15.rst:586
+msgid "Celestial Archon"
+msgstr ""
+
+#: ../../C15.rst:581
+msgid ""
+"Bestow |mana_5| |mana_w| |mana_w| (If you cast this card for its bestow "
+"cost, it's an Aura spell with enchant creature. It becomes a creature "
+"again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../C15.rst:583 ../../C15.rst:1872
+msgid "Flying, first strike"
+msgstr ""
+
+#: ../../C15.rst:585
+msgid "Enchanted creature gets +4/+4 and has flying and first strike."
+msgstr ""
+
+#: ../../C15.rst:595
+msgid "Crib Swap"
+msgstr ""
+
+#: ../../C15.rst:592 ../../C15.rst:1440 ../../C15.rst:1537
+msgid "Changeling (This card is every creature type.)"
+msgstr ""
+
+#: ../../C15.rst:594
+msgid ""
+"Exile target creature. Its controller creates a 1/1 colorless "
+"Shapeshifter creature token with changeling."
+msgstr ""
+
+#: ../../C15.rst:606
+msgid "Dawn to Dusk"
+msgstr ""
+
+#: ../../C15.rst:601
+msgid "Choose one or both —"
+msgstr ""
+
+#: ../../C15.rst:603
+msgid "Return target enchantment card from your graveyard to your hand."
+msgstr ""
+
+#: ../../C15.rst:605 ../../C15.rst:1894
+msgid "Destroy target enchantment."
+msgstr ""
+
+#: ../../C15.rst:615
+msgid "Dawnglare Invoker"
+msgstr ""
+
+#: ../../C15.rst:614
+msgid "|mana_8|: Tap all creatures target player controls."
+msgstr ""
+
+#: ../../C15.rst:624
+msgid "Dictate of Heliod"
+msgstr ""
+
+#: ../../C15.rst:621 ../../C15.rst:889 ../../C15.rst:1528 ../../C15.rst:1548
+#: ../../C15.rst:1959
+msgid "Flash"
+msgstr ""
+
+#: ../../C15.rst:623
+msgid "Creatures you control get +2/+2."
+msgstr ""
+
+#: ../../C15.rst:635
+msgid "Faith's Fetters"
+msgstr ""
+
+#: ../../C15.rst:630
+msgid "Enchant permanent"
+msgstr ""
+
+#: ../../C15.rst:632
+msgid "When Faith's Fetters enters the battlefield, you gain 4 life."
+msgstr ""
+
+#: ../../C15.rst:634
+msgid ""
+"Enchanted permanent can't attack or block, and its activated abilities "
+"can't be activated unless they're mana abilities."
+msgstr ""
+
+#: ../../C15.rst:646
+msgid "Ghostblade Eidolon"
+msgstr ""
+
+#: ../../C15.rst:641
+msgid ""
+"Bestow |mana_5| |mana_w| (If you cast this card for its bestow cost, it's"
+" an Aura spell with enchant creature. It becomes a creature again if it's"
+" not attached to a creature.)"
+msgstr ""
+
+#: ../../C15.rst:643
+msgid ""
+"Double strike (This creature deals both first-strike and regular combat "
+"damage.)"
+msgstr ""
+
+#: ../../C15.rst:645
+msgid "Enchanted creature gets +1/+1 and has double strike."
+msgstr ""
+
+#: ../../C15.rst:655
+msgid "Jareth, Leonine Titan"
+msgstr ""
+
+#: ../../C15.rst:652
+msgid "Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn."
+msgstr ""
+
+#: ../../C15.rst:654
+msgid ""
+"|mana_w|: Jareth gains protection from the color of your choice until end"
+" of turn."
+msgstr ""
+
+#: ../../C15.rst:662
+msgid "Karmic Justice"
+msgstr ""
+
+#: ../../C15.rst:661
+msgid ""
+"Whenever a spell or ability an opponent controls destroys a noncreature "
+"permanent you control, you may destroy target permanent that opponent "
+"controls."
+msgstr ""
+
+#: ../../C15.rst:671
+msgid "Kor Sanctifiers"
+msgstr ""
+
+#: ../../C15.rst:668
+msgid ""
+"Kicker |mana_w| (You may pay an additional |mana_w| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../C15.rst:670
+msgid ""
+"When Kor Sanctifiers enters the battlefield, if it was kicked, destroy "
+"target artifact or enchantment."
+msgstr ""
+
+#: ../../C15.rst:682
+msgid "Marshal's Anthem"
+msgstr ""
+
+#: ../../C15.rst:677
+msgid ""
+"Multikicker |mana_1| |mana_w| (You may pay an additional |mana_1| "
+"|mana_w| any number of times as you cast this spell.)"
+msgstr ""
+
+#: ../../C15.rst:679
+msgid "Creatures you control get +1/+1."
+msgstr ""
+
+#: ../../C15.rst:681
+msgid ""
+"When Marshal's Anthem enters the battlefield, return up to X target "
+"creature cards from your graveyard to the battlefield, where X is the "
+"number of times Marshal's Anthem was kicked."
+msgstr ""
+
+#: ../../C15.rst:689
+msgid "Mesa Enchantress"
+msgstr ""
+
+#: ../../C15.rst:688
+msgid "Whenever you cast an enchantment spell, you may draw a card."
+msgstr ""
+
+#: ../../C15.rst:696
+msgid "Monk Idealist"
+msgstr ""
+
+#: ../../C15.rst:695
+msgid ""
+"When Monk Idealist enters the battlefield, return target enchantment card"
+" from your graveyard to your hand."
+msgstr ""
+
+#: ../../C15.rst:703
+msgid "Open the Vaults"
+msgstr ""
+
+#: ../../C15.rst:702
+msgid ""
+"Return all artifact and enchantment cards from all graveyards to the "
+"battlefield under their owners' control. (Auras with nothing to enchant "
+"remain in graveyards.)"
+msgstr ""
+
+#: ../../C15.rst:712
+msgid "Orim's Thunder"
+msgstr ""
+
+#: ../../C15.rst:709
+msgid ""
+"Kicker |mana_r| (You may pay an additional |mana_r| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../C15.rst:711
+msgid ""
+"Destroy target artifact or enchantment. If this spell was kicked, it "
+"deals damage equal to that permanent's converted mana cost to target "
+"creature."
+msgstr ""
+
+#: ../../C15.rst:719
+msgid "Seal of Cleansing"
+msgstr ""
+
+#: ../../C15.rst:718
+msgid "Sacrifice Seal of Cleansing: Destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../C15.rst:726
+msgid "Sigil of the Empty Throne"
+msgstr ""
+
+#: ../../C15.rst:725
+msgid ""
+"Whenever you cast an enchantment spell, create a 4/4 white Angel creature"
+" token with flying."
+msgstr ""
+
+#: ../../C15.rst:735
+msgid "Silent Sentinel"
+msgstr ""
+
+#: ../../C15.rst:734
+msgid ""
+"Whenever Silent Sentinel attacks, you may return target enchantment card "
+"from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../C15.rst:744
+msgid "Sun Titan"
+msgstr ""
+
+#: ../../C15.rst:743
+msgid ""
+"Whenever Sun Titan enters the battlefield or attacks, you may return "
+"target permanent card with converted mana cost 3 or less from your "
+"graveyard to the battlefield."
+msgstr ""
+
+#: ../../C15.rst:753
+msgid "Victory's Herald"
+msgstr ""
+
+#: ../../C15.rst:752
+msgid ""
+"Whenever Victory's Herald attacks, attacking creatures gain flying and "
+"lifelink until end of turn."
+msgstr ""
+
+#: ../../C15.rst:762
+msgid "Vow of Duty"
+msgstr ""
+
+#: ../../C15.rst:761
+msgid ""
+"Enchanted creature gets +2/+2, has vigilance, and can't attack you or a "
+"planeswalker you control."
+msgstr ""
+
+#: ../../C15.rst:769
+msgid "Aetherize"
+msgstr ""
+
+#: ../../C15.rst:768
+msgid "Return all attacking creatures to their owner's hand."
+msgstr ""
+
+#: ../../C15.rst:778
+msgid "Bident of Thassa"
+msgstr ""
+
+#: ../../C15.rst:775
+msgid ""
+"Whenever a creature you control deals combat damage to a player, you may "
+"draw a card."
+msgstr ""
+
+#: ../../C15.rst:777
+msgid ""
+"|mana_1| |mana_u|, |tap|: Creatures your opponents control attack this "
+"turn if able."
+msgstr ""
+
+#: ../../C15.rst:785
+msgid "Blatant Thievery"
+msgstr ""
+
+#: ../../C15.rst:784
+msgid "For each opponent, gain control of target permanent that player controls."
+msgstr ""
+
+#: ../../C15.rst:792
+msgid "Blue Sun's Zenith"
+msgstr ""
+
+#: ../../C15.rst:791
+msgid ""
+"Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's "
+"library."
+msgstr ""
+
+#: ../../C15.rst:801
+msgid "Blustersquall"
+msgstr ""
+
+#: ../../C15.rst:798
+msgid "Tap target creature you don't control."
+msgstr ""
+
+#: ../../C15.rst:800
+msgid ""
+"Overload |mana_3| |mana_u| (You may cast this spell for its overload "
+"cost. If you do, change its text by replacing all instances of \"target\""
+" with \"each.\")"
+msgstr ""
+
+#: ../../C15.rst:808
+msgid "Brainstorm"
+msgstr ""
+
+#: ../../C15.rst:807
+msgid ""
+"Draw three cards, then put two cards from your hand on top of your "
+"library in any order."
+msgstr ""
+
+#: ../../C15.rst:817
+msgid "Day of the Dragons"
+msgstr ""
+
+#: ../../C15.rst:814
+msgid ""
+"When Day of the Dragons enters the battlefield, exile all creatures you "
+"control. Then create that many 5/5 red Dragon creature tokens with "
+"flying."
+msgstr ""
+
+#: ../../C15.rst:816
+msgid ""
+"When Day of the Dragons leaves the battlefield, sacrifice all Dragons you"
+" control. Then return the exiled cards to the battlefield under your "
+"control."
+msgstr ""
+
+#: ../../C15.rst:824
+msgid "Dominate"
+msgstr ""
+
+#: ../../C15.rst:823
+msgid "Gain control of target creature with converted mana cost X or less."
+msgstr ""
+
+#: ../../C15.rst:831
+msgid "Echoing Truth"
+msgstr ""
+
+#: ../../C15.rst:830
+msgid ""
+"Return target nonland permanent and all other permanents with the same "
+"name as that permanent to their owners' hands."
+msgstr ""
+
+#: ../../C15.rst:838
+msgid "Fact or Fiction"
+msgstr ""
+
+#: ../../C15.rst:837
+msgid ""
+"Reveal the top five cards of your library. An opponent separates those "
+"cards into two piles. Put one pile into your hand and the other into your"
+" graveyard."
+msgstr ""
+
+#: ../../C15.rst:845
+msgid "Jace's Archivist"
+msgstr ""
+
+#: ../../C15.rst:844
+msgid ""
+"|mana_u|, |tap|: Each player discards their hand, then draws cards equal "
+"to the greatest number of cards a player discarded this way."
+msgstr ""
+
+#: ../../C15.rst:854
+msgid "Lone Revenant"
+msgstr ""
+
+#: ../../C15.rst:851
+msgid ""
+"Hexproof (This creature can't be the target of spells or abilities your "
+"opponents control.)"
+msgstr ""
+
+#: ../../C15.rst:853
+msgid ""
+"Whenever Lone Revenant deals combat damage to a player, if you control no"
+" other creatures, look at the top four cards of your library. Put one of "
+"them into your hand and the rest on the bottom of your library in any "
+"order."
+msgstr ""
+
+#: ../../C15.rst:865
+msgid "Mulldrifter"
+msgstr ""
+
+#: ../../C15.rst:862
+msgid "When Mulldrifter enters the battlefield, draw two cards."
+msgstr ""
+
+#: ../../C15.rst:864
+msgid ""
+"Evoke |mana_2| |mana_u| (You may cast this spell for its evoke cost. If "
+"you do, it's sacrificed when it enters the battlefield.)"
+msgstr ""
+
+#: ../../C15.rst:874
+msgid "Mystic Retrieval"
+msgstr ""
+
+#: ../../C15.rst:871
+msgid "Return target instant or sorcery card from your graveyard to your hand."
+msgstr ""
+
+#: ../../C15.rst:873 ../../C15.rst:1328
+msgid ""
+"Flashback |mana_2| |mana_r| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../C15.rst:883
+msgid "Ninja of the Deep Hours"
+msgstr ""
+
+#: ../../C15.rst:880
+msgid ""
+"Ninjutsu |mana_1| |mana_u| (|mana_1| |mana_u|, Return an unblocked "
+"attacker you control to hand: Put this card onto the battlefield from "
+"your hand tapped and attacking.)"
+msgstr ""
+
+#: ../../C15.rst:882
+msgid ""
+"Whenever Ninja of the Deep Hours deals combat damage to a player, you may"
+" draw a card."
+msgstr ""
+
+#: ../../C15.rst:894
+msgid "Plaxmanta"
+msgstr ""
+
+#: ../../C15.rst:891
+msgid ""
+"When Plaxmanta enters the battlefield, creatures you control gain shroud "
+"until end of turn. (They can't be the targets of spells or abilities.)"
+msgstr ""
+
+#: ../../C15.rst:893
+msgid ""
+"When Plaxmanta enters the battlefield, sacrifice it unless |mana_g| was "
+"spent to cast it."
+msgstr ""
+
+#: ../../C15.rst:901
+msgid "Preordain"
+msgstr ""
+
+#: ../../C15.rst:900
+msgid ""
+"Scry 2, then draw a card. (To scry 2, look at the top two cards of your "
+"library, then put any number of them on the bottom of your library and "
+"the rest on top in any order.)"
+msgstr ""
+
+#: ../../C15.rst:908
+msgid "Rapid Hybridization"
+msgstr ""
+
+#: ../../C15.rst:907
+msgid ""
+"Destroy target creature. It can't be regenerated. That creature's "
+"controller creates a 3/3 green Frog Lizard creature token."
+msgstr ""
+
+#: ../../C15.rst:915
+msgid "Reins of Power"
+msgstr ""
+
+#: ../../C15.rst:914
+msgid ""
+"Untap all creatures you control and all creatures target opponent "
+"controls. You and that opponent each gain control of all creatures the "
+"other controls until end of turn. Those creatures gain haste until end of"
+" turn."
+msgstr ""
+
+#: ../../C15.rst:924
+msgid "Repeal"
+msgstr ""
+
+#: ../../C15.rst:921
+msgid ""
+"Return target nonland permanent with converted mana cost X to its owner's"
+" hand."
+msgstr ""
+
+#: ../../C15.rst:933
+msgid "Rite of Replication"
+msgstr ""
+
+#: ../../C15.rst:930
+msgid ""
+"Kicker |mana_5| (You may pay an additional |mana_5| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../C15.rst:932
+msgid ""
+"Create a token that's a copy of target creature. If this spell was "
+"kicked, create five of those tokens instead."
+msgstr ""
+
+#: ../../C15.rst:940
+msgid "Sleep"
+msgstr ""
+
+#: ../../C15.rst:939
+msgid ""
+"Tap all creatures target player controls. Those creatures don't untap "
+"during that player's next untap step."
+msgstr ""
+
+#: ../../C15.rst:947
+msgid "Stolen Goods"
+msgstr ""
+
+#: ../../C15.rst:946
+msgid ""
+"Target opponent exiles cards from the top of their library until they "
+"exile a nonland card. Until end of turn, you may cast that card without "
+"paying its mana cost."
+msgstr ""
+
+#: ../../C15.rst:954
+msgid "Stroke of Genius"
+msgstr ""
+
+#: ../../C15.rst:953
+msgid "Target player draws X cards."
+msgstr ""
+
+#: ../../C15.rst:961
+msgid "Talrand, Sky Summoner"
+msgstr ""
+
+#: ../../C15.rst:960
+msgid ""
+"Whenever you cast an instant or sorcery spell, create a 2/2 blue Drake "
+"creature token with flying."
+msgstr ""
+
+#: ../../C15.rst:968
+msgid "Thought Reflection"
+msgstr ""
+
+#: ../../C15.rst:967
+msgid "If you would draw a card, draw two cards instead."
+msgstr ""
+
+#: ../../C15.rst:975
+msgid "Windfall"
+msgstr ""
+
+#: ../../C15.rst:974
+msgid ""
+"Each player discards their hand, then draws cards equal to the greatest "
+"number of cards a player discarded this way."
+msgstr ""
+
+#: ../../C15.rst:984
+msgid "Altar's Reap"
+msgstr ""
+
+#: ../../C15.rst:981
+msgid "As an additional cost to cast this spell, sacrifice a creature."
+msgstr ""
+
+#: ../../C15.rst:983
+msgid "Draw two cards."
+msgstr ""
+
+#: ../../C15.rst:991
+msgid "Ambition's Cost"
+msgstr ""
+
+#: ../../C15.rst:990 ../../C15.rst:997
+msgid "You draw three cards and you lose 3 life."
+msgstr ""
+
+#: ../../C15.rst:998
+msgid "Ancient Craving"
+msgstr ""
+
+#: ../../C15.rst:1005
+msgid "Barter in Blood"
+msgstr ""
+
+#: ../../C15.rst:1004
+msgid "Each player sacrifices two creatures."
+msgstr ""
+
+#: ../../C15.rst:1014
+msgid "Black Market"
+msgstr ""
+
+#: ../../C15.rst:1011
+msgid "Whenever a creature dies, put a charge counter on Black Market."
+msgstr ""
+
+#: ../../C15.rst:1013
+msgid ""
+"At the beginning of your precombat main phase, add |mana_b| for each "
+"charge counter on Black Market."
+msgstr ""
+
+#: ../../C15.rst:1021
+msgid "Blood Bairn"
+msgstr ""
+
+#: ../../C15.rst:1020
+msgid "Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../C15.rst:1030
+msgid "Butcher of Malakir"
+msgstr ""
+
+#: ../../C15.rst:1029
+msgid ""
+"Whenever Butcher of Malakir or another creature you control dies, each "
+"opponent sacrifices a creature."
+msgstr ""
+
+#: ../../C15.rst:1039
+msgid "Champion of Stray Souls"
+msgstr ""
+
+#: ../../C15.rst:1036
+msgid ""
+"|mana_3| |mana_b| |mana_b|, |tap|, Sacrifice X other creatures: Return X "
+"target creature cards from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../C15.rst:1038
+msgid ""
+"|mana_5| |mana_b| |mana_b|: Put Champion of Stray Souls on top of your "
+"library from your graveyard."
+msgstr ""
+
+#: ../../C15.rst:1050
+msgid "Diabolic Servitude"
+msgstr ""
+
+#: ../../C15.rst:1045
+msgid ""
+"When Diabolic Servitude enters the battlefield, return target creature "
+"card from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../C15.rst:1047
+msgid ""
+"When the creature put onto the battlefield with Diabolic Servitude dies, "
+"exile it and return Diabolic Servitude to its owner's hand."
+msgstr ""
+
+#: ../../C15.rst:1049
+msgid ""
+"When Diabolic Servitude leaves the battlefield, exile the creature put "
+"onto the battlefield with Diabolic Servitude."
+msgstr ""
+
+#: ../../C15.rst:1057
+msgid "Doomwake Giant"
+msgstr ""
+
+#: ../../C15.rst:1056
+msgid ""
+"Constellation — Whenever Doomwake Giant or another enchantment enters the"
+" battlefield under your control, creatures your opponents control get "
+"-1/-1 until end of turn."
+msgstr ""
+
+#: ../../C15.rst:1064
+msgid "Dreadbringer Lampads"
+msgstr ""
+
+#: ../../C15.rst:1063
+msgid ""
+"Constellation — Whenever Dreadbringer Lampads or another enchantment "
+"enters the battlefield under your control, target creature gains "
+"intimidate until end of turn. (It can't be blocked except by artifact "
+"creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../C15.rst:1075
+msgid "Eater of Hope"
+msgstr ""
+
+#: ../../C15.rst:1072
+msgid "|mana_b|, Sacrifice another creature: Regenerate Eater of Hope."
+msgstr ""
+
+#: ../../C15.rst:1074
+msgid "|mana_2| |mana_b|, Sacrifice two other creatures: Destroy target creature."
+msgstr ""
+
+#: ../../C15.rst:1086
+msgid "Extractor Demon"
+msgstr ""
+
+#: ../../C15.rst:1083
+msgid ""
+"Whenever another creature leaves the battlefield, you may have target "
+"player put the top two cards of their library into their graveyard."
+msgstr ""
+
+#: ../../C15.rst:1085
+msgid ""
+"Unearth |mana_2| |mana_b| (|mana_2| |mana_b|: Return this card from your "
+"graveyard to the battlefield. It gains haste. Exile it at the beginning "
+"of the next end step or if it would leave the battlefield. Unearth only "
+"as a sorcery.)"
+msgstr ""
+
+#: ../../C15.rst:1097
+msgid "Fallen Ideal"
+msgstr ""
+
+#: ../../C15.rst:1094
+msgid ""
+"Enchanted creature has flying and \"Sacrifice a creature: This creature "
+"gets +2/+1 until end of turn.\""
+msgstr ""
+
+#: ../../C15.rst:1096
+msgid ""
+"When Fallen Ideal is put into a graveyard from the battlefield, return "
+"Fallen Ideal to its owner's hand."
+msgstr ""
+
+#: ../../C15.rst:1104
+msgid "Fate Unraveler"
+msgstr ""
+
+#: ../../C15.rst:1103
+msgid ""
+"Whenever an opponent draws a card, Fate Unraveler deals 1 damage to that "
+"player."
+msgstr ""
+
+#: ../../C15.rst:1111
+msgid "Gild"
+msgstr ""
+
+#: ../../C15.rst:1110
+msgid ""
+"Exile target creature. Create a colorless artifact token named Gold. It "
+"has \"Sacrifice this artifact: Add one mana of any color.\""
+msgstr ""
+
+#: ../../C15.rst:1118
+msgid "Grave Peril"
+msgstr ""
+
+#: ../../C15.rst:1117
+msgid ""
+"When a nonblack creature enters the battlefield, sacrifice Grave Peril. "
+"If you do, destroy that creature."
+msgstr ""
+
+#: ../../C15.rst:1127
+msgid "Nighthowler"
+msgstr ""
+
+#: ../../C15.rst:1124
+msgid ""
+"Bestow |mana_2| |mana_b| |mana_b| (If you cast this card for its bestow "
+"cost, it's an Aura spell with enchant creature. It becomes a creature "
+"again if it's not attached to a creature.)"
+msgstr ""
+
+#: ../../C15.rst:1126
+msgid ""
+"Nighthowler and enchanted creature each get +X/+X, where X is the number "
+"of creature cards in all graveyards."
+msgstr ""
+
+#: ../../C15.rst:1134
+msgid "Phyrexian Arena"
+msgstr ""
+
+#: ../../C15.rst:1133
+msgid "At the beginning of your upkeep, you draw a card and you lose 1 life."
+msgstr ""
+
+#: ../../C15.rst:1143
+msgid "Phyrexian Plaguelord"
+msgstr ""
+
+#: ../../C15.rst:1140
+msgid ""
+"|tap|, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until "
+"end of turn."
+msgstr ""
+
+#: ../../C15.rst:1142
+msgid "Sacrifice a creature: Target creature gets -1/-1 until end of turn."
+msgstr ""
+
+#: ../../C15.rst:1150
+msgid "Phyrexian Rager"
+msgstr ""
+
+#: ../../C15.rst:1149
+msgid ""
+"When Phyrexian Rager enters the battlefield, you draw a card and you lose"
+" 1 life."
+msgstr ""
+
+#: ../../C15.rst:1157
+msgid "Phyrexian Reclamation"
+msgstr ""
+
+#: ../../C15.rst:1156
+msgid ""
+"|mana_1| |mana_b|, Pay 2 life: Return target creature card from your "
+"graveyard to your hand."
+msgstr ""
+
+#: ../../C15.rst:1164
+msgid "Rise from the Grave"
+msgstr ""
+
+#: ../../C15.rst:1163
+msgid ""
+"Put target creature card from a graveyard onto the battlefield under your"
+" control. That creature is a black Zombie in addition to its other colors"
+" and types."
+msgstr ""
+
+#: ../../C15.rst:1171
+msgid "Seal of Doom"
+msgstr ""
+
+#: ../../C15.rst:1170
+msgid ""
+"Sacrifice Seal of Doom: Destroy target nonblack creature. It can't be "
+"regenerated."
+msgstr ""
+
+#: ../../C15.rst:1180
+msgid "Sever the Bloodline"
+msgstr ""
+
+#: ../../C15.rst:1177
+msgid ""
+"Exile target creature and all other creatures with the same name as that "
+"creature."
+msgstr ""
+
+#: ../../C15.rst:1179
+msgid ""
+"Flashback |mana_5| |mana_b| |mana_b| (You may cast this card from your "
+"graveyard for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../C15.rst:1191
+msgid "Shriekmaw"
+msgstr ""
+
+#: ../../C15.rst:1186
+msgid ""
+"Fear (This creature can't be blocked except by artifact creatures and/or "
+"black creatures.)"
+msgstr ""
+
+#: ../../C15.rst:1188
+msgid ""
+"When Shriekmaw enters the battlefield, destroy target nonartifact, "
+"nonblack creature."
+msgstr ""
+
+#: ../../C15.rst:1190
+msgid ""
+"Evoke |mana_1| |mana_b| (You may cast this spell for its evoke cost. If "
+"you do, it's sacrificed when it enters the battlefield.)"
+msgstr ""
+
+#: ../../C15.rst:1200
+msgid "Underworld Connections"
+msgstr ""
+
+#: ../../C15.rst:1197
+msgid "Enchant land"
+msgstr ""
+
+#: ../../C15.rst:1199
+msgid "Enchanted land has \"|tap|, Pay 1 life: Draw a card.\""
+msgstr ""
+
+#: ../../C15.rst:1207
+msgid "Victimize"
+msgstr ""
+
+#: ../../C15.rst:1206
+msgid ""
+"Choose two target creature cards in your graveyard. Sacrifice a creature."
+" If you do, return the chosen cards to the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:1216
+msgid "Vow of Malice"
+msgstr ""
+
+#: ../../C15.rst:1215
+msgid ""
+"Enchanted creature gets +2/+2, has intimidate, and can't attack you or a "
+"planeswalker you control. (A creature with intimidate can't be blocked "
+"except by artifact creatures and/or creatures that share a color with "
+"it.)"
+msgstr ""
+
+#: ../../C15.rst:1225
+msgid "Act of Aggression"
+msgstr ""
+
+#: ../../C15.rst:1222
+msgid "(|mana_rp| can be paid with either |mana_r| or 2 life.)"
+msgstr ""
+
+#: ../../C15.rst:1224
+msgid ""
+"Gain control of target creature an opponent controls until end of turn. "
+"Untap that creature. It gains haste until end of turn."
+msgstr ""
+
+#: ../../C15.rst:1234
+msgid "Borderland Behemoth"
+msgstr ""
+
+#: ../../C15.rst:1233
+msgid "Borderland Behemoth gets +4/+4 for each other Giant you control."
+msgstr ""
+
+#: ../../C15.rst:1243
+msgid "Breath of Darigaaz"
+msgstr ""
+
+#: ../../C15.rst:1240
+msgid ""
+"Kicker |mana_2| (You may pay an additional |mana_2| as you cast this "
+"spell.)"
+msgstr ""
+
+#: ../../C15.rst:1242
+msgid ""
+"Breath of Darigaaz deals 1 damage to each creature without flying and "
+"each player. If this spell was kicked, it deals 4 damage to each creature"
+" without flying and each player instead."
+msgstr ""
+
+#: ../../C15.rst:1250
+msgid "Chain Reaction"
+msgstr ""
+
+#: ../../C15.rst:1249
+msgid ""
+"Chain Reaction deals X damage to each creature, where X is the number of "
+"creatures on the battlefield."
+msgstr ""
+
+#: ../../C15.rst:1259
+msgid "Charmbreaker Devils"
+msgstr ""
+
+#: ../../C15.rst:1256
+msgid ""
+"At the beginning of your upkeep, return an instant or sorcery card at "
+"random from your graveyard to your hand."
+msgstr ""
+
+#: ../../C15.rst:1258
+msgid ""
+"Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets "
+"+4/+0 until end of turn."
+msgstr ""
+
+#: ../../C15.rst:1268
+msgid "Comet Storm"
+msgstr ""
+
+#: ../../C15.rst:1265
+msgid ""
+"Multikicker |mana_1| (You may pay an additional |mana_1| any number of "
+"times as you cast this spell.)"
+msgstr ""
+
+#: ../../C15.rst:1267
+msgid ""
+"Choose any target, then choose another target for each time this spell "
+"was kicked. Comet Storm deals X damage to each of them."
+msgstr ""
+
+#: ../../C15.rst:1277
+msgid "Curse of the Nightly Hunt"
+msgstr ""
+
+#: ../../C15.rst:1274
+msgid "Enchant player"
+msgstr ""
+
+#: ../../C15.rst:1276
+msgid "Creatures enchanted player controls attack each combat if able."
+msgstr ""
+
+#: ../../C15.rst:1286
+msgid "Desolation Giant"
+msgstr ""
+
+#: ../../C15.rst:1283
+msgid ""
+"Kicker |mana_w| |mana_w| (You may pay an additional |mana_w| |mana_w| as "
+"you cast this spell.)"
+msgstr ""
+
+#: ../../C15.rst:1285
+msgid ""
+"When Desolation Giant enters the battlefield, destroy all other creatures"
+" you control. If it was kicked, destroy all other creatures instead."
+msgstr ""
+
+#: ../../C15.rst:1295
+msgid "Desperate Ravings"
+msgstr ""
+
+#: ../../C15.rst:1292
+msgid "Draw two cards, then discard a card at random."
+msgstr ""
+
+#: ../../C15.rst:1294
+msgid ""
+"Flashback |mana_2| |mana_u| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../C15.rst:1304
+msgid "Disaster Radius"
+msgstr ""
+
+#: ../../C15.rst:1301
+msgid ""
+"As an additional cost to cast this spell, reveal a creature card from "
+"your hand."
+msgstr ""
+
+#: ../../C15.rst:1303
+msgid ""
+"Disaster Radius deals X damage to each creature your opponents control, "
+"where X is the revealed card's converted mana cost."
+msgstr ""
+
+#: ../../C15.rst:1313
+msgid "Dragon Mage"
+msgstr ""
+
+#: ../../C15.rst:1312
+msgid ""
+"Whenever Dragon Mage deals combat damage to a player, each player "
+"discards their hand, then draws seven cards."
+msgstr ""
+
+#: ../../C15.rst:1320
+msgid "Earthquake"
+msgstr ""
+
+#: ../../C15.rst:1319
+msgid "Earthquake deals X damage to each creature without flying and each player."
+msgstr ""
+
+#: ../../C15.rst:1329
+msgid "Faithless Looting"
+msgstr ""
+
+#: ../../C15.rst:1326
+msgid "Draw two cards, then discard two cards."
+msgstr ""
+
+#: ../../C15.rst:1336
+msgid "Fall of the Hammer"
+msgstr ""
+
+#: ../../C15.rst:1335
+msgid ""
+"Target creature you control deals damage equal to its power to another "
+"target creature."
+msgstr ""
+
+#: ../../C15.rst:1345
+msgid "Fumiko the Lowblood"
+msgstr ""
+
+#: ../../C15.rst:1342
+msgid ""
+"Fumiko the Lowblood has bushido X, where X is the number of attacking "
+"creatures. (Whenever this creature blocks or becomes blocked, it gets "
+"+X/+X until end of turn.)"
+msgstr ""
+
+#: ../../C15.rst:1344
+msgid "Creatures your opponents control attack each combat if able."
+msgstr ""
+
+#: ../../C15.rst:1352
+msgid "Hamletback Goliath"
+msgstr ""
+
+#: ../../C15.rst:1351
+msgid ""
+"Whenever another creature enters the battlefield, you may put X +1/+1 "
+"counters on Hamletback Goliath, where X is that creature's power."
+msgstr ""
+
+#: ../../C15.rst:1359
+msgid "Hammerfist Giant"
+msgstr ""
+
+#: ../../C15.rst:1358
+msgid ""
+"|tap|: Hammerfist Giant deals 4 damage to each creature without flying "
+"and each player."
+msgstr ""
+
+#: ../../C15.rst:1370
+msgid "Hostility"
+msgstr ""
+
+#: ../../C15.rst:1367
+msgid ""
+"If a spell you control would deal damage to an opponent, prevent that "
+"damage. Create a 3/1 red Elemental Shaman creature token with haste for "
+"each 1 damage prevented this way."
+msgstr ""
+
+#: ../../C15.rst:1369
+msgid ""
+"When Hostility is put into a graveyard from anywhere, shuffle it into its"
+" owner's library."
+msgstr ""
+
+#: ../../C15.rst:1379
+msgid "Hunted Dragon"
+msgstr ""
+
+#: ../../C15.rst:1376
+msgid "Flying, haste"
+msgstr ""
+
+#: ../../C15.rst:1378
+msgid ""
+"When Hunted Dragon enters the battlefield, target opponent creates three "
+"2/2 white Knight creature tokens with first strike."
+msgstr ""
+
+#: ../../C15.rst:1388
+msgid "Inferno Titan"
+msgstr ""
+
+#: ../../C15.rst:1385
+msgid "|mana_r|: Inferno Titan gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../C15.rst:1387
+msgid ""
+"Whenever Inferno Titan enters the battlefield or attacks, it deals 3 "
+"damage divided as you choose among one, two, or three targets."
+msgstr ""
+
+#: ../../C15.rst:1395
+msgid "Magma Giant"
+msgstr ""
+
+#: ../../C15.rst:1394
+msgid ""
+"When Magma Giant enters the battlefield, it deals 2 damage to each "
+"creature and each player."
+msgstr ""
+
+#: ../../C15.rst:1402
+msgid "Magmaquake"
+msgstr ""
+
+#: ../../C15.rst:1401
+msgid ""
+"Magmaquake deals X damage to each creature without flying and each "
+"planeswalker."
+msgstr ""
+
+#: ../../C15.rst:1411
+msgid "Mizzium Mortars"
+msgstr ""
+
+#: ../../C15.rst:1408
+msgid "Mizzium Mortars deals 4 damage to target creature you don't control."
+msgstr ""
+
+#: ../../C15.rst:1410
+msgid ""
+"Overload |mana_3| |mana_r| |mana_r| |mana_r| (You may cast this spell for"
+" its overload cost. If you do, change its text by replacing all instances"
+" of \"target\" with \"each.\")"
+msgstr ""
+
+#: ../../C15.rst:1418
+msgid "Stinkdrinker Daredevil"
+msgstr ""
+
+#: ../../C15.rst:1417
+msgid "Giant spells you cast cost |mana_2| less to cast."
+msgstr ""
+
+#: ../../C15.rst:1427
+msgid "Stoneshock Giant"
+msgstr ""
+
+#: ../../C15.rst:1424
+msgid ""
+"|mana_6| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't "
+"monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+msgstr ""
+
+#: ../../C15.rst:1426
+msgid ""
+"When Stoneshock Giant becomes monstrous, creatures without flying your "
+"opponents control can't block this turn."
+msgstr ""
+
+#: ../../C15.rst:1434
+msgid "Sunrise Sovereign"
+msgstr ""
+
+#: ../../C15.rst:1433
+msgid "Other Giant creatures you control get +2/+2 and have trample."
+msgstr ""
+
+#: ../../C15.rst:1443
+msgid "Taurean Mauler"
+msgstr ""
+
+#: ../../C15.rst:1442
+msgid ""
+"Whenever an opponent casts a spell, you may put a +1/+1 counter on "
+"Taurean Mauler."
+msgstr ""
+
+#: ../../C15.rst:1450
+msgid "Thundercloud Shaman"
+msgstr ""
+
+#: ../../C15.rst:1449
+msgid ""
+"When Thundercloud Shaman enters the battlefield, it deals damage equal to"
+" the number of Giants you control to each non-Giant creature."
+msgstr ""
+
+#: ../../C15.rst:1461
+msgid "Urza's Rage"
+msgstr ""
+
+#: ../../C15.rst:1456
+msgid ""
+"Kicker |mana_8| |mana_r| (You may pay an additional |mana_8| |mana_r| as "
+"you cast this spell.)"
+msgstr ""
+
+#: ../../C15.rst:1458 ../../C15.rst:1831
+msgid "This spell can't be countered."
+msgstr ""
+
+#: ../../C15.rst:1460
+msgid ""
+"Urza's Rage deals 3 damage to any target. If this spell was kicked, "
+"instead it deals 10 damage to that permanent or player and the damage "
+"can't be prevented."
+msgstr ""
+
+#: ../../C15.rst:1470
+msgid "Vandalblast"
+msgstr ""
+
+#: ../../C15.rst:1467
+msgid "Destroy target artifact you don't control."
+msgstr ""
+
+#: ../../C15.rst:1469
+msgid ""
+"Overload |mana_4| |mana_r| (You may cast this spell for its overload "
+"cost. If you do, change its text by replacing all instances of \"target\""
+" with \"each.\")"
+msgstr ""
+
+#: ../../C15.rst:1477
+msgid "Warstorm Surge"
+msgstr ""
+
+#: ../../C15.rst:1476
+msgid ""
+"Whenever a creature enters the battlefield under your control, it deals "
+"damage equal to its power to any target."
+msgstr ""
+
+#: ../../C15.rst:1486
+msgid "Word of Seizing"
+msgstr ""
+
+#: ../../C15.rst:1483 ../../C15.rst:1630
+msgid ""
+"Split second (As long as this spell is on the stack, players can't cast "
+"spells or activate abilities that aren't mana abilities.)"
+msgstr ""
+
+#: ../../C15.rst:1485
+msgid ""
+"Untap target permanent and gain control of it until end of turn. It gains"
+" haste until end of turn."
+msgstr ""
+
+#: ../../C15.rst:1495
+msgid "Acidic Slime"
+msgstr ""
+
+#: ../../C15.rst:1494
+msgid ""
+"When Acidic Slime enters the battlefield, destroy target artifact, "
+"enchantment, or land."
+msgstr ""
+
+#: ../../C15.rst:1506
+msgid "Arbor Colossus"
+msgstr ""
+
+#: ../../C15.rst:1503
+msgid ""
+"|mana_3| |mana_g| |mana_g| |mana_g|: Monstrosity 3. (If this creature "
+"isn't monstrous, put three +1/+1 counters on it and it becomes "
+"monstrous.)"
+msgstr ""
+
+#: ../../C15.rst:1505
+msgid ""
+"When Arbor Colossus becomes monstrous, destroy target creature with "
+"flying an opponent controls."
+msgstr ""
+
+#: ../../C15.rst:1513
+msgid "Bane of Progress"
+msgstr ""
+
+#: ../../C15.rst:1512
+msgid ""
+"When Bane of Progress enters the battlefield, destroy all artifacts and "
+"enchantments. Put a +1/+1 counter on Bane of Progress for each permanent "
+"destroyed this way."
+msgstr ""
+
+#: ../../C15.rst:1522
+msgid "Beastmaster Ascension"
+msgstr ""
+
+#: ../../C15.rst:1519
+msgid ""
+"Whenever a creature you control attacks, you may put a quest counter on "
+"Beastmaster Ascension."
+msgstr ""
+
+#: ../../C15.rst:1521
+msgid ""
+"As long as Beastmaster Ascension has seven or more quest counters on it, "
+"creatures you control get +5/+5."
+msgstr ""
+
+#: ../../C15.rst:1531
+msgid "Caller of the Claw"
+msgstr ""
+
+#: ../../C15.rst:1530
+msgid ""
+"When Caller of the Claw enters the battlefield, create a 2/2 green Bear "
+"creature token for each nontoken creature put into your graveyard from "
+"the battlefield this turn."
+msgstr ""
+
+#: ../../C15.rst:1542
+msgid "Chameleon Colossus"
+msgstr ""
+
+#: ../../C15.rst:1539
+msgid "Protection from black"
+msgstr ""
+
+#: ../../C15.rst:1541
+msgid ""
+"|mana_2| |mana_g| |mana_g|: Chameleon Colossus gets +X/+X until end of "
+"turn, where X is its power."
+msgstr ""
+
+#: ../../C15.rst:1555
+msgid "Cloudthresher"
+msgstr ""
+
+#: ../../C15.rst:1552
+msgid ""
+"When Cloudthresher enters the battlefield, it deals 2 damage to each "
+"creature with flying and each player."
+msgstr ""
+
+#: ../../C15.rst:1554
+msgid ""
+"Evoke |mana_2| |mana_g| |mana_g| (You may cast this spell for its evoke "
+"cost. If you do, it's sacrificed when it enters the battlefield.)"
+msgstr ""
+
+#: ../../C15.rst:1564
+msgid "Cobra Trap"
+msgstr ""
+
+#: ../../C15.rst:1561
+msgid ""
+"If a noncreature permanent under your control was destroyed this turn by "
+"a spell or ability an opponent controlled, you may pay |mana_g| rather "
+"than pay this spell's mana cost."
+msgstr ""
+
+#: ../../C15.rst:1563
+msgid "Create four 1/1 green Snake creature tokens."
+msgstr ""
+
+#: ../../C15.rst:1571
+msgid "Desert Twister"
+msgstr ""
+
+#: ../../C15.rst:1570
+msgid "Destroy target permanent."
+msgstr ""
+
+#: ../../C15.rst:1578
+msgid "Elvish Visionary"
+msgstr ""
+
+#: ../../C15.rst:1577
+msgid "When Elvish Visionary enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../C15.rst:1585
+msgid "Eternal Witness"
+msgstr ""
+
+#: ../../C15.rst:1584
+msgid ""
+"When Eternal Witness enters the battlefield, you may return target card "
+"from your graveyard to your hand."
+msgstr ""
+
+#: ../../C15.rst:1594
+msgid "Experiment One"
+msgstr ""
+
+#: ../../C15.rst:1591
+msgid ""
+"Evolve (Whenever a creature enters the battlefield under your control, if"
+" that creature has greater power or toughness than this creature, put a "
+"+1/+1 counter on this creature.)"
+msgstr ""
+
+#: ../../C15.rst:1593
+msgid "Remove two +1/+1 counters from Experiment One: Regenerate Experiment One."
+msgstr ""
+
+#: ../../C15.rst:1603
+msgid "Forgotten Ancient"
+msgstr ""
+
+#: ../../C15.rst:1600
+msgid ""
+"Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten"
+" Ancient."
+msgstr ""
+
+#: ../../C15.rst:1602
+msgid ""
+"At the beginning of your upkeep, you may move any number of +1/+1 "
+"counters from Forgotten Ancient onto other creatures."
+msgstr ""
+
+#: ../../C15.rst:1610
+msgid "Indrik Stomphowler"
+msgstr ""
+
+#: ../../C15.rst:1609
+msgid ""
+"When Indrik Stomphowler enters the battlefield, destroy target artifact "
+"or enchantment."
+msgstr ""
+
+#: ../../C15.rst:1617
+msgid "Kessig Cagebreakers"
+msgstr ""
+
+#: ../../C15.rst:1616
+msgid ""
+"Whenever Kessig Cagebreakers attacks, create a 2/2 green Wolf creature "
+"token that's tapped and attacking for each creature card in your "
+"graveyard."
+msgstr ""
+
+#: ../../C15.rst:1624
+msgid "Kodama's Reach"
+msgstr ""
+
+#: ../../C15.rst:1623
+msgid ""
+"Search your library for up to two basic land cards, reveal those cards, "
+"and put one onto the battlefield tapped and the other into your hand. "
+"Then shuffle your library."
+msgstr ""
+
+#: ../../C15.rst:1633
+msgid "Krosan Grip"
+msgstr ""
+
+#: ../../C15.rst:1632
+msgid "Destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../C15.rst:1640
+msgid "Loaming Shaman"
+msgstr ""
+
+#: ../../C15.rst:1639
+msgid ""
+"When Loaming Shaman enters the battlefield, target player shuffles any "
+"number of target cards from their graveyard into their library."
+msgstr ""
+
+#: ../../C15.rst:1647
+msgid "Mulch"
+msgstr ""
+
+#: ../../C15.rst:1646
+msgid ""
+"Reveal the top four cards of your library. Put all land cards revealed "
+"this way into your hand and the rest into your graveyard."
+msgstr ""
+
+#: ../../C15.rst:1656
+msgid "Mycoloth"
+msgstr ""
+
+#: ../../C15.rst:1653
+msgid ""
+"Devour 2 (As this enters the battlefield, you may sacrifice any number of"
+" creatures. This creature enters the battlefield with twice that many "
+"+1/+1 counters on it.)"
+msgstr ""
+
+#: ../../C15.rst:1655
+msgid ""
+"At the beginning of your upkeep, create a 1/1 green Saproling creature "
+"token for each +1/+1 counter on Mycoloth."
+msgstr ""
+
+#: ../../C15.rst:1667
+msgid "Noble Quarry"
+msgstr ""
+
+#: ../../C15.rst:1662
+msgid ""
+"Bestow |mana_5| |mana_g| (If you cast this card for its bestow cost, it's"
+" an Aura spell with enchant creature. It becomes a creature again if it's"
+" not attached to a creature.)"
+msgstr ""
+
+#: ../../C15.rst:1664
+msgid "All creatures able to block Noble Quarry or enchanted creature do so."
+msgstr ""
+
+#: ../../C15.rst:1666
+msgid "Enchanted creature gets +1/+1."
+msgstr ""
+
+#: ../../C15.rst:1676
+msgid "Ohran Viper"
+msgstr ""
+
+#: ../../C15.rst:1673
+msgid ""
+"Whenever Ohran Viper deals combat damage to a creature, destroy that "
+"creature at end of combat."
+msgstr ""
+
+#: ../../C15.rst:1675
+msgid "Whenever Ohran Viper deals combat damage to a player, you may draw a card."
+msgstr ""
+
+#: ../../C15.rst:1683
+msgid "Overrun"
+msgstr ""
+
+#: ../../C15.rst:1682
+msgid "Creatures you control get +3/+3 and gain trample until end of turn."
+msgstr ""
+
+#: ../../C15.rst:1690
+msgid "Overwhelming Stampede"
+msgstr ""
+
+#: ../../C15.rst:1689
+msgid ""
+"Until end of turn, creatures you control gain trample and get +X/+X, "
+"where X is the greatest power among creatures you control."
+msgstr ""
+
+#: ../../C15.rst:1701
+msgid "Patagia Viper"
+msgstr ""
+
+#: ../../C15.rst:1698
+msgid ""
+"When Patagia Viper enters the battlefield, create two 1/1 green and blue "
+"Snake creature tokens."
+msgstr ""
+
+#: ../../C15.rst:1700
+msgid ""
+"When Patagia Viper enters the battlefield, sacrifice it unless |mana_u| "
+"was spent to cast it."
+msgstr ""
+
+#: ../../C15.rst:1710
+msgid "Primal Growth"
+msgstr ""
+
+#: ../../C15.rst:1707
+msgid ""
+"Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to"
+" any other costs as you cast this spell.)"
+msgstr ""
+
+#: ../../C15.rst:1709
+msgid ""
+"Search your library for a basic land card, put that card onto the "
+"battlefield, then shuffle your library. If this spell was kicked, instead"
+" search your library for up to two basic land cards, put them onto the "
+"battlefield, then shuffle your library."
+msgstr ""
+
+#: ../../C15.rst:1717
+msgid "Rampant Growth"
+msgstr ""
+
+#: ../../C15.rst:1716
+msgid ""
+"Search your library for a basic land card and put that card onto the "
+"battlefield tapped. Then shuffle your library."
+msgstr ""
+
+#: ../../C15.rst:1724
+msgid "Sakura-Tribe Elder"
+msgstr ""
+
+#: ../../C15.rst:1723
+msgid ""
+"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, "
+"put that card onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../C15.rst:1731
+msgid "Satyr Wayfinder"
+msgstr ""
+
+#: ../../C15.rst:1730
+msgid ""
+"When Satyr Wayfinder enters the battlefield, reveal the top four cards of"
+" your library. You may put a land card from among them into your hand. "
+"Put the rest into your graveyard."
+msgstr ""
+
+#: ../../C15.rst:1740
+msgid "Spider Spawning"
+msgstr ""
+
+#: ../../C15.rst:1737
+msgid ""
+"Create a 1/2 green Spider creature token with reach for each creature "
+"card in your graveyard."
+msgstr ""
+
+#: ../../C15.rst:1739
+msgid ""
+"Flashback |mana_6| |mana_b| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
+msgstr ""
+
+#: ../../C15.rst:1749
+msgid "Stingerfling Spider"
+msgstr ""
+
+#: ../../C15.rst:1748
+msgid ""
+"When Stingerfling Spider enters the battlefield, you may destroy target "
+"creature with flying."
+msgstr ""
+
+#: ../../C15.rst:1756
+msgid "Terastodon"
+msgstr ""
+
+#: ../../C15.rst:1755
+msgid ""
+"When Terastodon enters the battlefield, you may destroy up to three "
+"target noncreature permanents. For each permanent put into a graveyard "
+"this way, its controller creates a 3/3 green Elephant creature token."
+msgstr ""
+
+#: ../../C15.rst:1767
+msgid "Thelonite Hermit"
+msgstr ""
+
+#: ../../C15.rst:1762
+msgid "Saproling creatures get +1/+1."
+msgstr ""
+
+#: ../../C15.rst:1764
+msgid ""
+"Morph |mana_3| |mana_g| |mana_g| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgstr ""
+
+#: ../../C15.rst:1766
+msgid ""
+"When Thelonite Hermit is turned face up, create four 1/1 green Saproling "
+"creature tokens."
+msgstr ""
+
+#: ../../C15.rst:1774
+msgid "Tribute to the Wild"
+msgstr ""
+
+#: ../../C15.rst:1773
+msgid "Each opponent sacrifices an artifact or enchantment."
+msgstr ""
+
+#: ../../C15.rst:1781
+msgid "Verdant Force"
+msgstr ""
+
+#: ../../C15.rst:1780
+msgid ""
+"At the beginning of each upkeep, create a 1/1 green Saproling creature "
+"token."
+msgstr ""
+
+#: ../../C15.rst:1788
+msgid "Viridian Emissary"
+msgstr ""
+
+#: ../../C15.rst:1787
+msgid ""
+"When Viridian Emissary dies, you may search your library for a basic land"
+" card, put it onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../C15.rst:1795
+msgid "Viridian Shaman"
+msgstr ""
+
+#: ../../C15.rst:1794
+msgid "When Viridian Shaman enters the battlefield, destroy target artifact."
+msgstr ""
+
+#: ../../C15.rst:1802
+msgid "Viridian Zealot"
+msgstr ""
+
+#: ../../C15.rst:1801
+msgid ""
+"|mana_1| |mana_g|, Sacrifice Viridian Zealot: Destroy target artifact or "
+"enchantment."
+msgstr ""
+
+#: ../../C15.rst:1811
+msgid "Wall of Blossoms"
+msgstr ""
+
+#: ../../C15.rst:1808
+msgid "Defender"
+msgstr ""
+
+#: ../../C15.rst:1810
+msgid "When Wall of Blossoms enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../C15.rst:1818
+msgid "Wood Elves"
+msgstr ""
+
+#: ../../C15.rst:1817
+msgid ""
+"When Wood Elves enters the battlefield, search your library for a Forest "
+"card and put that card onto the battlefield. Then shuffle your library."
+msgstr ""
+
+#: ../../C15.rst:1825
+msgid "Coiling Oracle"
+msgstr ""
+
+#: ../../C15.rst:1824
+msgid ""
+"When Coiling Oracle enters the battlefield, reveal the top card of your "
+"library. If it's a land card, put it onto the battlefield. Otherwise, put"
+" that card into your hand."
+msgstr ""
+
+#: ../../C15.rst:1836
+msgid "Counterflux"
+msgstr ""
+
+#: ../../C15.rst:1833
+msgid "Counter target spell you don't control."
+msgstr ""
+
+#: ../../C15.rst:1835
+msgid ""
+"Overload |mana_1| |mana_u| |mana_u| |mana_r| (You may cast this spell for"
+" its overload cost. If you do, change its text by replacing all instances"
+" of \"target\" with \"each.\")"
+msgstr ""
+
+#: ../../C15.rst:1843
+msgid "Death Grasp"
+msgstr ""
+
+#: ../../C15.rst:1842
+msgid "Death Grasp deals X damage to any target. You gain X life."
+msgstr ""
+
+#: ../../C15.rst:1850
+msgid "Epic Experiment"
+msgstr ""
+
+#: ../../C15.rst:1849
+msgid ""
+"Exile the top X cards of your library. For each instant and sorcery card "
+"with converted mana cost X or less among them, you may cast that card "
+"without paying its mana cost. Then put all cards exiled this way that "
+"weren't cast into your graveyard."
+msgstr ""
+
+#: ../../C15.rst:1859
+msgid "Etherium-Horn Sorcerer"
+msgstr ""
+
+#: ../../C15.rst:1856
+msgid ""
+"|mana_1| |mana_u| |mana_r|: Return Etherium-Horn Sorcerer to its owner's "
+"hand."
+msgstr ""
+
+#: ../../C15.rst:1858
+msgid ""
+"Cascade (When you cast this spell, exile cards from the top of your "
+"library until you exile a nonland card that costs less. You may cast it "
+"without paying its mana cost. Put the exiled cards on the bottom of your "
+"library in a random order.)"
+msgstr ""
+
+#: ../../C15.rst:1866
+msgid "Firemind's Foresight"
+msgstr ""
+
+#: ../../C15.rst:1865
+msgid ""
+"Search your library for an instant card with converted mana cost 3, "
+"reveal it, and put it into your hand. Then repeat this process for "
+"instant cards with converted mana costs 2 and 1. Then shuffle your "
+"library."
+msgstr ""
+
+#: ../../C15.rst:1877
+msgid "Gisela, Blade of Goldnight"
+msgstr ""
+
+#: ../../C15.rst:1874
+msgid ""
+"If a source would deal damage to an opponent or a permanent an opponent "
+"controls, that source deals double that damage to that player or "
+"permanent instead."
+msgstr ""
+
+#: ../../C15.rst:1876
+msgid ""
+"If a source would deal damage to you or a permanent you control, prevent "
+"half that damage, rounded up."
+msgstr ""
+
+#: ../../C15.rst:1884
+msgid "Goblin Electromancer"
+msgstr ""
+
+#: ../../C15.rst:1883
+msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../C15.rst:1897
+msgid "Golgari Charm"
+msgstr ""
+
+#: ../../C15.rst:1890
+msgid "Choose one —"
+msgstr ""
+
+#: ../../C15.rst:1892
+msgid "All creatures get -1/-1 until end of turn."
+msgstr ""
+
+#: ../../C15.rst:1896
+msgid "Regenerate each creature you control."
+msgstr ""
+
+#: ../../C15.rst:1904
+msgid "Grisly Salvage"
+msgstr ""
+
+#: ../../C15.rst:1903
+msgid ""
+"Reveal the top five cards of your library. You may put a creature or land"
+" card from among them into your hand. Put the rest into your graveyard."
+msgstr ""
+
+#: ../../C15.rst:1915
+msgid "Jarad, Golgari Lich Lord"
+msgstr ""
+
+#: ../../C15.rst:1910
+msgid ""
+"Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your "
+"graveyard."
+msgstr ""
+
+#: ../../C15.rst:1912
+msgid ""
+"|mana_1| |mana_b| |mana_g|, Sacrifice another creature: Each opponent "
+"loses life equal to the sacrificed creature's power."
+msgstr ""
+
+#: ../../C15.rst:1914
+msgid ""
+"Sacrifice a Swamp and a Forest: Return Jarad from your graveyard to your "
+"hand."
+msgstr ""
+
+#: ../../C15.rst:1924
+msgid "Korozda Guildmage"
+msgstr ""
+
+#: ../../C15.rst:1921
+msgid ""
+"|mana_1| |mana_b| |mana_g|: Target creature gets +1/+1 and gains "
+"intimidate until end of turn. (It can't be blocked except by artifact "
+"creatures and/or creatures that share a color with it.)"
+msgstr ""
+
+#: ../../C15.rst:1923
+msgid ""
+"|mana_2| |mana_b| |mana_g|, Sacrifice a nontoken creature: Create X 1/1 "
+"green Saproling creature tokens, where X is the sacrificed creature's "
+"toughness."
+msgstr ""
+
+#: ../../C15.rst:1931
+msgid "Lorescale Coatl"
+msgstr ""
+
+#: ../../C15.rst:1930
+msgid "Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl."
+msgstr ""
+
+#: ../../C15.rst:1942
+msgid "Lotleth Troll"
+msgstr ""
+
+#: ../../C15.rst:1939
+msgid "Discard a creature card: Put a +1/+1 counter on Lotleth Troll."
+msgstr ""
+
+#: ../../C15.rst:1941
+msgid "|mana_b|: Regenerate Lotleth Troll."
+msgstr ""
+
+#: ../../C15.rst:1953
+msgid "Melek, Izzet Paragon"
+msgstr ""
+
+#: ../../C15.rst:1948
+msgid "Play with the top card of your library revealed."
+msgstr ""
+
+#: ../../C15.rst:1950
+msgid ""
+"You may cast the top card of your library if it's an instant or sorcery "
+"card."
+msgstr ""
+
+#: ../../C15.rst:1952
+msgid ""
+"Whenever you cast an instant or sorcery spell from your library, copy it."
+" You may choose new targets for the copy."
+msgstr ""
+
+#: ../../C15.rst:1962
+msgid "Mystic Snake"
+msgstr ""
+
+#: ../../C15.rst:1961
+msgid "When Mystic Snake enters the battlefield, counter target spell."
+msgstr ""
+
+#: ../../C15.rst:1971
+msgid "Necromancer's Covenant"
+msgstr ""
+
+#: ../../C15.rst:1968
+msgid ""
+"When Necromancer's Covenant enters the battlefield, exile all creature "
+"cards from target player's graveyard, then create a 2/2 black Zombie "
+"creature token for each card exiled this way."
+msgstr ""
+
+#: ../../C15.rst:1970
+msgid "Zombies you control have lifelink."
+msgstr ""
+
+#: ../../C15.rst:1980
+msgid "Prime Speaker Zegana"
+msgstr ""
+
+#: ../../C15.rst:1977
+msgid ""
+"Prime Speaker Zegana enters the battlefield with X +1/+1 counters on it, "
+"where X is the greatest power among other creatures you control."
+msgstr ""
+
+#: ../../C15.rst:1979
+msgid ""
+"When Prime Speaker Zegana enters the battlefield, draw cards equal to its"
+" power."
+msgstr ""
+
+#: ../../C15.rst:1987
+msgid "Prophetic Bolt"
+msgstr ""
+
+#: ../../C15.rst:1986
+msgid ""
+"Prophetic Bolt deals 4 damage to any target. Look at the top four cards "
+"of your library. Put one of those cards into your hand and the rest on "
+"the bottom of your library in any order."
+msgstr ""
+
+#: ../../C15.rst:1994
+msgid "Putrefy"
+msgstr ""
+
+#: ../../C15.rst:1993
+msgid "Destroy target artifact or creature. It can't be regenerated."
+msgstr ""
+
+#: ../../C15.rst:2001
+msgid "Steam Augury"
+msgstr ""
+
+#: ../../C15.rst:2000
+msgid ""
+"Reveal the top five cards of your library and separate them into two "
+"piles. An opponent chooses one of those piles. Put that pile into your "
+"hand and the other into your graveyard."
+msgstr ""
+
+#: ../../C15.rst:2010
+msgid "Teysa, Envoy of Ghosts"
+msgstr ""
+
+#: ../../C15.rst:2007
+msgid "Vigilance, protection from creatures"
+msgstr ""
+
+#: ../../C15.rst:2009
+msgid ""
+"Whenever a creature deals combat damage to you, destroy that creature. "
+"Create a 1/1 white and black Spirit creature token with flying."
+msgstr ""
+
+#: ../../C15.rst:2019
+msgid "Treasury Thrull"
+msgstr ""
+
+#: ../../C15.rst:2016
+msgid ""
+"Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each "
+"opponent loses 1 life and you gain that much life.)"
+msgstr ""
+
+#: ../../C15.rst:2018
+msgid ""
+"Whenever Treasury Thrull attacks, you may return target artifact, "
+"creature, or enchantment card from your graveyard to your hand."
+msgstr ""
+
+#: ../../C15.rst:2028
+msgid "Trygon Predator"
+msgstr ""
+
+#: ../../C15.rst:2027
+msgid ""
+"Whenever Trygon Predator deals combat damage to a player, you may destroy"
+" target artifact or enchantment that player controls."
+msgstr ""
+
+#: ../../C15.rst:2037
+msgid "Underworld Coinsmith"
+msgstr ""
+
+#: ../../C15.rst:2034
+msgid ""
+"Constellation — Whenever Underworld Coinsmith or another enchantment "
+"enters the battlefield under your control, you gain 1 life."
+msgstr ""
+
+#: ../../C15.rst:2036
+msgid "|mana_w| |mana_b|, Pay 1 life: Each opponent loses 1 life."
+msgstr ""
+
+#: ../../C15.rst:2046
+msgid "Vulturous Zombie"
+msgstr ""
+
+#: ../../C15.rst:2045
+msgid ""
+"Whenever a card is put into an opponent's graveyard from anywhere, put a "
+"+1/+1 counter on Vulturous Zombie."
+msgstr ""
+
+#: ../../C15.rst:2053
+msgid "Biomantic Mastery"
+msgstr ""
+
+#: ../../C15.rst:2052
+msgid ""
+"Draw a card for each creature target player controls, then draw a card "
+"for each creature another target player controls."
+msgstr ""
+
+#: ../../C15.rst:2062
+msgid "Call the Skybreaker"
+msgstr ""
+
+#: ../../C15.rst:2059
+msgid "Create a 5/5 blue and red Elemental creature token with flying."
+msgstr ""
+
+#: ../../C15.rst:2061
+msgid ""
+"Retrace (You may cast this card from your graveyard by discarding a land "
+"card in addition to paying its other costs.)"
+msgstr ""
+
+#: ../../C15.rst:2071
+msgid "Cold-Eyed Selkie"
+msgstr ""
+
+#: ../../C15.rst:2068
+msgid ""
+"Islandwalk (This creature can't be blocked as long as defending player "
+"controls an Island.)"
+msgstr ""
+
+#: ../../C15.rst:2070
+msgid ""
+"Whenever Cold-Eyed Selkie deals combat damage to a player, you may draw "
+"that many cards."
+msgstr ""
+
+#: ../../C15.rst:2080
+msgid "Snakeform"
+msgstr ""
+
+#: ../../C15.rst:2077
+msgid ""
+"Until end of turn, target creature loses all abilities and becomes a "
+"green Snake with base power and toughness 1/1."
+msgstr ""
+
+#: ../../C15.rst:2087
+msgid "Wistful Selkie"
+msgstr ""
+
+#: ../../C15.rst:2086
+msgid "When Wistful Selkie enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../C15.rst:2098
+msgid "Basalt Monolith"
+msgstr ""
+
+#: ../../C15.rst:2093
+msgid "Basalt Monolith doesn't untap during your untap step."
+msgstr ""
+
+#: ../../C15.rst:2095 ../../C15.rst:2165
+msgid "|tap|: Add |colorless| |colorless| |colorless|."
+msgstr ""
+
+#: ../../C15.rst:2097
+msgid "|mana_3|: Untap Basalt Monolith."
+msgstr ""
+
+#: ../../C15.rst:2109
+msgid "Bonehoard"
+msgstr ""
+
+#: ../../C15.rst:2106
+msgid ""
+"Equipped creature gets +X/+X, where X is the number of creature cards in "
+"all graveyards."
+msgstr ""
+
+#: ../../C15.rst:2108
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../C15.rst:2118
+msgid "Boros Cluestone"
+msgstr ""
+
+#: ../../C15.rst:2115 ../../C15.rst:2369 ../../C15.rst:2409 ../../C15.rst:2820
+msgid "|tap|: Add |mana_r| or |mana_w|."
+msgstr ""
+
+#: ../../C15.rst:2117
+msgid "|mana_r| |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card."
+msgstr ""
+
+#: ../../C15.rst:2125
+msgid "Boros Signet"
+msgstr ""
+
+#: ../../C15.rst:2124
+msgid "|mana_1|, |tap|: Add |mana_r| |mana_w|."
+msgstr ""
+
+#: ../../C15.rst:2132
+msgid "Burnished Hart"
+msgstr ""
+
+#: ../../C15.rst:2131
+msgid ""
+"|mana_3|, Sacrifice Burnished Hart: Search your library for up to two "
+"basic land cards, put them onto the battlefield tapped, then shuffle your"
+" library."
+msgstr ""
+
+#: ../../C15.rst:2143
+msgid "Coldsteel Heart"
+msgstr ""
+
+#: ../../C15.rst:2138
+msgid "Coldsteel Heart enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2140
+msgid "As Coldsteel Heart enters the battlefield, choose a color."
+msgstr ""
+
+#: ../../C15.rst:2142
+msgid "|tap|: Add one mana of the chosen color."
+msgstr ""
+
+#: ../../C15.rst:2150
+msgid "Crystal Chimes"
+msgstr ""
+
+#: ../../C15.rst:2149
+msgid ""
+"|mana_3|, |tap|, Sacrifice Crystal Chimes: Return all enchantment cards "
+"from your graveyard to your hand."
+msgstr ""
+
+#: ../../C15.rst:2159
+msgid "Darksteel Ingot"
+msgstr ""
+
+#: ../../C15.rst:2156
+msgid "Indestructible"
+msgstr ""
+
+#: ../../C15.rst:2158
+msgid "|tap|: Add one mana of any color."
+msgstr ""
+
+#: ../../C15.rst:2168
+msgid "Dreamstone Hedron"
+msgstr ""
+
+#: ../../C15.rst:2167
+msgid "|mana_3|, |tap|, Sacrifice Dreamstone Hedron: Draw three cards."
+msgstr ""
+
+#: ../../C15.rst:2177
+msgid "Eldrazi Monument"
+msgstr ""
+
+#: ../../C15.rst:2174
+msgid "Creatures you control get +1/+1 and have flying and indestructible."
+msgstr ""
+
+#: ../../C15.rst:2176
+msgid ""
+"At the beginning of your upkeep, sacrifice a creature. If you can't, "
+"sacrifice Eldrazi Monument."
+msgstr ""
+
+#: ../../C15.rst:2184
+msgid "Fellwar Stone"
+msgstr ""
+
+#: ../../C15.rst:2183
+msgid ""
+"|tap|: Add one mana of any color that a land an opponent controls could "
+"produce."
+msgstr ""
+
+#: ../../C15.rst:2191
+msgid "Golgari Signet"
+msgstr ""
+
+#: ../../C15.rst:2190
+msgid "|mana_1|, |tap|: Add |mana_b| |mana_g|."
+msgstr ""
+
+#: ../../C15.rst:2198
+msgid "Izzet Signet"
+msgstr ""
+
+#: ../../C15.rst:2197
+msgid "|mana_1|, |tap|: Add |mana_u| |mana_r|."
+msgstr ""
+
+#: ../../C15.rst:2207
+msgid "Lightning Greaves"
+msgstr ""
+
+#: ../../C15.rst:2204
+msgid ""
+"Equipped creature has haste and shroud. (It can't be the target of spells"
+" or abilities.)"
+msgstr ""
+
+#: ../../C15.rst:2206
+msgid "Equip |mana_0|"
+msgstr ""
+
+#: ../../C15.rst:2216
+msgid "Loxodon Warhammer"
+msgstr ""
+
+#: ../../C15.rst:2213
+msgid "Equipped creature gets +3/+0 and has trample and lifelink."
+msgstr ""
+
+#: ../../C15.rst:2225
+msgid "Mind Stone"
+msgstr ""
+
+#: ../../C15.rst:2224
+msgid "|mana_1|, |tap|, Sacrifice Mind Stone: Draw a card."
+msgstr ""
+
+#: ../../C15.rst:2234
+msgid "Orochi Hatchery"
+msgstr ""
+
+#: ../../C15.rst:2231
+msgid "Orochi Hatchery enters the battlefield with X charge counters on it."
+msgstr ""
+
+#: ../../C15.rst:2233
+msgid ""
+"|mana_5|, |tap|: Create a 1/1 green Snake creature token for each charge "
+"counter on Orochi Hatchery."
+msgstr ""
+
+#: ../../C15.rst:2243
+msgid "Orzhov Cluestone"
+msgstr ""
+
+#: ../../C15.rst:2240 ../../C15.rst:2596 ../../C15.rst:2636
+msgid "|tap|: Add |mana_w| or |mana_b|."
+msgstr ""
+
+#: ../../C15.rst:2242
+msgid "|mana_w| |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
+msgstr ""
+
+#: ../../C15.rst:2250
+msgid "Orzhov Signet"
+msgstr ""
+
+#: ../../C15.rst:2249
+msgid "|mana_1|, |tap|: Add |mana_w| |mana_b|."
+msgstr ""
+
+#: ../../C15.rst:2259
+msgid "Psychosis Crawler"
+msgstr ""
+
+#: ../../C15.rst:2256
+msgid ""
+"Psychosis Crawler's power and toughness are each equal to the number of "
+"cards in your hand."
+msgstr ""
+
+#: ../../C15.rst:2258
+msgid "Whenever you draw a card, each opponent loses 1 life."
+msgstr ""
+
+#: ../../C15.rst:2266
+msgid "Seer's Sundial"
+msgstr ""
+
+#: ../../C15.rst:2265
+msgid ""
+"Landfall — Whenever a land enters the battlefield under your control, you"
+" may pay |mana_2|. If you do, draw a card."
+msgstr ""
+
+#: ../../C15.rst:2275
+msgid "Simic Keyrune"
+msgstr ""
+
+#: ../../C15.rst:2272 ../../C15.rst:2667 ../../C15.rst:2754
+msgid "|tap|: Add |mana_g| or |mana_u|."
+msgstr ""
+
+#: ../../C15.rst:2274
+msgid ""
+"|mana_g| |mana_u|: Simic Keyrune becomes a 2/3 green and blue Crab "
+"artifact creature with hexproof until end of turn. (It can't be the "
+"target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../C15.rst:2282
+msgid "Simic Signet"
+msgstr ""
+
+#: ../../C15.rst:2281
+msgid "|mana_1|, |tap|: Add |mana_g| |mana_u|."
+msgstr ""
+
+#: ../../C15.rst:2293
+msgid "Skullclamp"
+msgstr ""
+
+#: ../../C15.rst:2288
+msgid "Equipped creature gets +1/-1."
+msgstr ""
+
+#: ../../C15.rst:2290
+msgid "Whenever equipped creature dies, draw two cards."
+msgstr ""
+
+#: ../../C15.rst:2292 ../../C15.rst:2326
+msgid "Equip |mana_1|"
+msgstr ""
+
+#: ../../C15.rst:2300
+msgid "Sol Ring"
+msgstr ""
+
+#: ../../C15.rst:2299 ../../C15.rst:2360
+msgid "|tap|: Add |colorless| |colorless|."
+msgstr ""
+
+#: ../../C15.rst:2309
+msgid "Solemn Simulacrum"
+msgstr ""
+
+#: ../../C15.rst:2306
+msgid ""
+"When Solemn Simulacrum enters the battlefield, you may search your "
+"library for a basic land card, put that card onto the battlefield tapped,"
+" then shuffle your library."
+msgstr ""
+
+#: ../../C15.rst:2308
+msgid "When Solemn Simulacrum dies, you may draw a card."
+msgstr ""
+
+#: ../../C15.rst:2318
+msgid "Staff of Nin"
+msgstr ""
+
+#: ../../C15.rst:2315
+msgid "At the beginning of your upkeep, draw a card."
+msgstr ""
+
+#: ../../C15.rst:2317
+msgid "|tap|: Staff of Nin deals 1 damage to any target."
+msgstr ""
+
+#: ../../C15.rst:2327
+msgid "Swiftfoot Boots"
+msgstr ""
+
+#: ../../C15.rst:2324
+msgid "Equipped creature has hexproof and haste."
+msgstr ""
+
+#: ../../C15.rst:2336
+msgid "Sword of Vengeance"
+msgstr ""
+
+#: ../../C15.rst:2333
+msgid ""
+"Equipped creature gets +2/+0 and has first strike, vigilance, trample, "
+"and haste."
+msgstr ""
+
+#: ../../C15.rst:2345
+msgid "Urza's Incubator"
+msgstr ""
+
+#: ../../C15.rst:2342
+msgid "As Urza's Incubator enters the battlefield, choose a creature type."
+msgstr ""
+
+#: ../../C15.rst:2344
+msgid "Creature spells of the chosen type cost |mana_2| less to cast."
+msgstr ""
+
+#: ../../C15.rst:2352
+msgid "Wayfarer's Bauble"
+msgstr ""
+
+#: ../../C15.rst:2351
+msgid ""
+"|mana_2|, |tap|, Sacrifice Wayfarer's Bauble: Search your library for a "
+"basic land card and put that card onto the battlefield tapped. Then "
+"shuffle your library."
+msgstr ""
+
+#: ../../C15.rst:2361
+msgid "Worn Powerstone"
+msgstr ""
+
+#: ../../C15.rst:2358
+msgid "Worn Powerstone enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2370
+msgid "Ancient Amphitheater"
+msgstr ""
+
+#: ../../C15.rst:2367
+msgid ""
+"As Ancient Amphitheater enters the battlefield, you may reveal a Giant "
+"card from your hand. If you don't, Ancient Amphitheater enters the "
+"battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2381
+msgid "Barren Moor"
+msgstr ""
+
+#: ../../C15.rst:2376
+msgid "Barren Moor enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2378 ../../C15.rst:2605 ../../C15.rst:2796
+msgid "|tap|: Add |mana_b|."
+msgstr ""
+
+#: ../../C15.rst:2380
+msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../C15.rst:2390
+msgid "Blasted Landscape"
+msgstr ""
+
+#: ../../C15.rst:2389 ../../C15.rst:2427 ../../C15.rst:2607 ../../C15.rst:2678
+#: ../../C15.rst:2689
+msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../C15.rst:2401
+msgid "Boros Garrison"
+msgstr ""
+
+#: ../../C15.rst:2396
+msgid "Boros Garrison enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2398
+msgid ""
+"When Boros Garrison enters the battlefield, return a land you control to "
+"its owner's hand."
+msgstr ""
+
+#: ../../C15.rst:2400
+msgid "|tap|: Add |mana_r| |mana_w|."
+msgstr ""
+
+#: ../../C15.rst:2410
+msgid "Boros Guildgate"
+msgstr ""
+
+#: ../../C15.rst:2407
+msgid "Boros Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2417
+msgid "Command Tower"
+msgstr ""
+
+#: ../../C15.rst:2416
+msgid "|tap|: Add one mana of any color in your commander's color identity."
+msgstr ""
+
+#: ../../C15.rst:2428
+msgid "Drifting Meadow"
+msgstr ""
+
+#: ../../C15.rst:2423
+msgid "Drifting Meadow enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2425 ../../C15.rst:2556 ../../C15.rst:2645 ../../C15.rst:2807
+msgid "|tap|: Add |mana_w|."
+msgstr ""
+
+#: ../../C15.rst:2435
+msgid "Evolving Wilds"
+msgstr ""
+
+#: ../../C15.rst:2434
+msgid ""
+"|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
+"card, put it onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../C15.rst:2446
+msgid "Forgotten Cave"
+msgstr ""
+
+#: ../../C15.rst:2441
+msgid "Forgotten Cave enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2443 ../../C15.rst:2687 ../../C15.rst:2698 ../../C15.rst:2763
+msgid "|tap|: Add |mana_r|."
+msgstr ""
+
+#: ../../C15.rst:2445
+msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../C15.rst:2455
+msgid "Ghost Quarter"
+msgstr ""
+
+#: ../../C15.rst:2454
+msgid ""
+"|tap|, Sacrifice Ghost Quarter: Destroy target land. Its controller may "
+"search their library for a basic land card, put it onto the battlefield, "
+"then shuffle their library."
+msgstr ""
+
+#: ../../C15.rst:2464
+msgid "Golgari Guildgate"
+msgstr ""
+
+#: ../../C15.rst:2461
+msgid "Golgari Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2463 ../../C15.rst:2523
+msgid "|tap|: Add |mana_b| or |mana_g|."
+msgstr ""
+
+#: ../../C15.rst:2475
+msgid "Golgari Rot Farm"
+msgstr ""
+
+#: ../../C15.rst:2470
+msgid "Golgari Rot Farm enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2472
+msgid ""
+"When Golgari Rot Farm enters the battlefield, return a land you control "
+"to its owner's hand."
+msgstr ""
+
+#: ../../C15.rst:2474
+msgid "|tap|: Add |mana_b| |mana_g|."
+msgstr ""
+
+#: ../../C15.rst:2484
+msgid "Grim Backwoods"
+msgstr ""
+
+#: ../../C15.rst:2483
+msgid "|mana_2| |mana_b| |mana_g|, |tap|, Sacrifice a creature: Draw a card."
+msgstr ""
+
+#: ../../C15.rst:2493
+msgid "High Market"
+msgstr ""
+
+#: ../../C15.rst:2492
+msgid "|tap|, Sacrifice a creature: You gain 1 life."
+msgstr ""
+
+#: ../../C15.rst:2504
+msgid "Izzet Boilerworks"
+msgstr ""
+
+#: ../../C15.rst:2499
+msgid "Izzet Boilerworks enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2501
+msgid ""
+"When Izzet Boilerworks enters the battlefield, return a land you control "
+"to its owner's hand."
+msgstr ""
+
+#: ../../C15.rst:2503
+msgid "|tap|: Add |mana_u| |mana_r|."
+msgstr ""
+
+#: ../../C15.rst:2513
+msgid "Izzet Guildgate"
+msgstr ""
+
+#: ../../C15.rst:2510
+msgid "Izzet Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2512 ../../C15.rst:2711
+msgid "|tap|: Add |mana_u| or |mana_r|."
+msgstr ""
+
+#: ../../C15.rst:2524
+msgid "Jungle Hollow"
+msgstr ""
+
+#: ../../C15.rst:2519
+msgid "Jungle Hollow enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2521
+msgid "When Jungle Hollow enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../C15.rst:2535
+msgid "Llanowar Reborn"
+msgstr ""
+
+#: ../../C15.rst:2530
+msgid "Llanowar Reborn enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2532 ../../C15.rst:2543 ../../C15.rst:2574 ../../C15.rst:2676
+#: ../../C15.rst:2785
+msgid "|tap|: Add |mana_g|."
+msgstr ""
+
+#: ../../C15.rst:2534
+msgid ""
+"Graft 1 (This land enters the battlefield with a +1/+1 counter on it. "
+"Whenever a creature enters the battlefield, you may move a +1/+1 counter "
+"from this land onto it.)"
+msgstr ""
+
+#: ../../C15.rst:2546
+msgid "Mosswort Bridge"
+msgstr ""
+
+#: ../../C15.rst:2541 ../../C15.rst:2696
+msgid ""
+"Hideaway (This land enters the battlefield tapped. When it does, look at "
+"the top four cards of your library, exile one face down, then put the "
+"rest on the bottom of your library.)"
+msgstr ""
+
+#: ../../C15.rst:2545
+msgid ""
+"|mana_g|, |tap|: You may play the exiled card without paying its mana "
+"cost if creatures you control have total power 10 or greater."
+msgstr ""
+
+#: ../../C15.rst:2557
+msgid "New Benalia"
+msgstr ""
+
+#: ../../C15.rst:2552
+msgid "New Benalia enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2554
+msgid ""
+"When New Benalia enters the battlefield, scry 1. (Look at the top card of"
+" your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../C15.rst:2566
+msgid "Novijen, Heart of Progress"
+msgstr ""
+
+#: ../../C15.rst:2565
+msgid ""
+"|mana_g| |mana_u|, |tap|: Put a +1/+1 counter on each creature that "
+"entered the battlefield this turn."
+msgstr ""
+
+#: ../../C15.rst:2577
+msgid "Oran-Rief, the Vastwood"
+msgstr ""
+
+#: ../../C15.rst:2572
+msgid "Oran-Rief, the Vastwood enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2576
+msgid ""
+"|tap|: Put a +1/+1 counter on each green creature that entered the "
+"battlefield this turn."
+msgstr ""
+
+#: ../../C15.rst:2588
+msgid "Orzhov Basilica"
+msgstr ""
+
+#: ../../C15.rst:2583
+msgid "Orzhov Basilica enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2585
+msgid ""
+"When Orzhov Basilica enters the battlefield, return a land you control to"
+" its owner's hand."
+msgstr ""
+
+#: ../../C15.rst:2587
+msgid "|tap|: Add |mana_w| |mana_b|."
+msgstr ""
+
+#: ../../C15.rst:2597
+msgid "Orzhov Guildgate"
+msgstr ""
+
+#: ../../C15.rst:2594
+msgid "Orzhov Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2608
+msgid "Polluted Mire"
+msgstr ""
+
+#: ../../C15.rst:2603
+msgid "Polluted Mire enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2617
+msgid "Reliquary Tower"
+msgstr ""
+
+#: ../../C15.rst:2626
+msgid "Rogue's Passage"
+msgstr ""
+
+#: ../../C15.rst:2625
+msgid "|mana_4|, |tap|: Target creature can't be blocked this turn."
+msgstr ""
+
+#: ../../C15.rst:2637
+msgid "Scoured Barrens"
+msgstr ""
+
+#: ../../C15.rst:2632
+msgid "Scoured Barrens enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2634
+msgid "When Scoured Barrens enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../C15.rst:2648
+msgid "Secluded Steppe"
+msgstr ""
+
+#: ../../C15.rst:2643
+msgid "Secluded Steppe enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2647
+msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
+msgstr ""
+
+#: ../../C15.rst:2659
+msgid "Simic Growth Chamber"
+msgstr ""
+
+#: ../../C15.rst:2654
+msgid "Simic Growth Chamber enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2656
+msgid ""
+"When Simic Growth Chamber enters the battlefield, return a land you "
+"control to its owner's hand."
+msgstr ""
+
+#: ../../C15.rst:2658
+msgid "|tap|: Add |mana_g| |mana_u|."
+msgstr ""
+
+#: ../../C15.rst:2668
+msgid "Simic Guildgate"
+msgstr ""
+
+#: ../../C15.rst:2665
+msgid "Simic Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2679
+msgid "Slippery Karst"
+msgstr ""
+
+#: ../../C15.rst:2674
+msgid "Slippery Karst enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2690
+msgid "Smoldering Crater"
+msgstr ""
+
+#: ../../C15.rst:2685
+msgid "Smoldering Crater enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2701
+msgid "Spinerock Knoll"
+msgstr ""
+
+#: ../../C15.rst:2700
+msgid ""
+"|mana_r|, |tap|: You may play the exiled card without paying its mana "
+"cost if an opponent was dealt 7 or more damage this turn."
+msgstr ""
+
+#: ../../C15.rst:2712
+msgid "Swiftwater Cliffs"
+msgstr ""
+
+#: ../../C15.rst:2707
+msgid "Swiftwater Cliffs enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2709
+msgid "When Swiftwater Cliffs enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../C15.rst:2721
+msgid "Tainted Field"
+msgstr ""
+
+#: ../../C15.rst:2720
+msgid ""
+"|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you "
+"control a Swamp."
+msgstr ""
+
+#: ../../C15.rst:2730
+msgid "Tainted Wood"
+msgstr ""
+
+#: ../../C15.rst:2729
+msgid ""
+"|tap|: Add |mana_b| or |mana_g|. Activate this ability only if you "
+"control a Swamp."
+msgstr ""
+
+#: ../../C15.rst:2737
+msgid "Temple of the False God"
+msgstr ""
+
+#: ../../C15.rst:2736
+msgid ""
+"|tap|: Add |colorless| |colorless|. Activate this ability only if you "
+"control five or more lands."
+msgstr ""
+
+#: ../../C15.rst:2744
+msgid "Terramorphic Expanse"
+msgstr ""
+
+#: ../../C15.rst:2743
+msgid ""
+"|tap|, Sacrifice Terramorphic Expanse: Search your library for a basic "
+"land card, put it onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../C15.rst:2755
+msgid "Thornwood Falls"
+msgstr ""
+
+#: ../../C15.rst:2750
+msgid "Thornwood Falls enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2752
+msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../C15.rst:2766
+msgid "Vivid Crag"
+msgstr ""
+
+#: ../../C15.rst:2761
+msgid "Vivid Crag enters the battlefield tapped with two charge counters on it."
+msgstr ""
+
+#: ../../C15.rst:2765
+msgid "|tap|, Remove a charge counter from Vivid Crag: Add one mana of any color."
+msgstr ""
+
+#: ../../C15.rst:2777
+msgid "Vivid Creek"
+msgstr ""
+
+#: ../../C15.rst:2772
+msgid "Vivid Creek enters the battlefield tapped with two charge counters on it."
+msgstr ""
+
+#: ../../C15.rst:2774
+msgid "|tap|: Add |mana_u|."
+msgstr ""
+
+#: ../../C15.rst:2776
+msgid ""
+"|tap|, Remove a charge counter from Vivid Creek: Add one mana of any "
+"color."
+msgstr ""
+
+#: ../../C15.rst:2788
+msgid "Vivid Grove"
+msgstr ""
+
+#: ../../C15.rst:2783
+msgid "Vivid Grove enters the battlefield tapped with two charge counters on it."
+msgstr ""
+
+#: ../../C15.rst:2787
+msgid ""
+"|tap|, Remove a charge counter from Vivid Grove: Add one mana of any "
+"color."
+msgstr ""
+
+#: ../../C15.rst:2799
+msgid "Vivid Marsh"
+msgstr ""
+
+#: ../../C15.rst:2794
+msgid "Vivid Marsh enters the battlefield tapped with two charge counters on it."
+msgstr ""
+
+#: ../../C15.rst:2798
+msgid ""
+"|tap|, Remove a charge counter from Vivid Marsh: Add one mana of any "
+"color."
+msgstr ""
+
+#: ../../C15.rst:2810
+msgid "Vivid Meadow"
+msgstr ""
+
+#: ../../C15.rst:2805
+msgid "Vivid Meadow enters the battlefield tapped with two charge counters on it."
+msgstr ""
+
+#: ../../C15.rst:2809
+msgid ""
+"|tap|, Remove a charge counter from Vivid Meadow: Add one mana of any "
+"color."
+msgstr ""
+
+#: ../../C15.rst:2821
+msgid "Wind-Scarred Crag"
+msgstr ""
+
+#: ../../C15.rst:2816
+msgid "Wind-Scarred Crag enters the battlefield tapped."
+msgstr ""
+
+#: ../../C15.rst:2818
+msgid "When Wind-Scarred Crag enters the battlefield, you gain 1 life."
+msgstr ""
+
+#: ../../C15.rst:2830
+msgid "Zoetic Cavern"
+msgstr ""
+
+#: ../../C15.rst:2829
+msgid ""
+"Morph |mana_2| (You may cast this card face down as a 2/2 creature for "
+"|mana_3|. Turn it face up any time for its morph cost.)"
+msgstr ""
+
+#: ../../C15.rst:2835 ../../C15.rst:2842 ../../C15.rst:2849 ../../C15.rst:2856
+msgid "Plains"
+msgstr ""
+
+#: ../../C15.rst:2863 ../../C15.rst:2870 ../../C15.rst:2877 ../../C15.rst:2884
+msgid "Island"
+msgstr ""
+
+#: ../../C15.rst:2891 ../../C15.rst:2898 ../../C15.rst:2905 ../../C15.rst:2912
+msgid "Swamp"
+msgstr ""
+
+#: ../../C15.rst:2919 ../../C15.rst:2926 ../../C15.rst:2933 ../../C15.rst:2940
+msgid "Mountain"
+msgstr ""
+
+#: ../../C15.rst:2947 ../../C15.rst:2954 ../../C15.rst:2961 ../../C15.rst:2968
+msgid "Forest"
+msgstr ""
+

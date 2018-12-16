@@ -1,0 +1,2743 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, Dominik Kozaczko & strefa-gry.pl
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-16 00:38+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../EMN.rst:5
+msgid "Eldritch Moon"
+msgstr ""
+
+#: ../../EMN.rst:15
+msgid "Abundant Maw"
+msgstr ""
+
+#: ../../EMN.rst:12
+msgid ""
+"Emerge |mana_6| |mana_b| (You may cast this spell by sacrificing a "
+"creature and paying the emerge cost reduced by that creature's converted "
+"mana cost.)"
+msgstr ""
+
+#: ../../EMN.rst:14
+msgid ""
+"When you cast this spell, target opponent loses 3 life and you gain 3 "
+"life."
+msgstr ""
+
+#: ../../EMN.rst:26
+msgid "Decimator of the Provinces"
+msgstr ""
+
+#: ../../EMN.rst:21
+msgid ""
+"Emerge |mana_6| |mana_g| |mana_g| |mana_g| (You may cast this spell by "
+"sacrificing a creature and paying the emerge cost reduced by that "
+"creature's converted mana cost.)"
+msgstr ""
+
+#: ../../EMN.rst:23
+msgid ""
+"When you cast this spell, creatures you control get +2/+2 and gain "
+"trample until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:25 ../../EMN.rst:1221 ../../EMN.rst:1237
+msgid "Trample, haste"
+msgstr ""
+
+#: ../../EMN.rst:35
+msgid "Distended Mindbender"
+msgstr ""
+
+#: ../../EMN.rst:32
+msgid ""
+"Emerge |mana_5| |mana_b| |mana_b| (You may cast this spell by sacrificing"
+" a creature and paying the emerge cost reduced by that creature's "
+"converted mana cost.)"
+msgstr ""
+
+#: ../../EMN.rst:34
+msgid ""
+"When you cast this spell, target opponent reveals their hand. You choose "
+"from it a nonland card with converted mana cost 3 or less and a card with"
+" converted mana cost 4 or greater. That player discards those cards."
+msgstr ""
+
+#: ../../EMN.rst:46
+msgid "Drownyard Behemoth"
+msgstr ""
+
+#: ../../EMN.rst:41 ../../EMN.rst:234 ../../EMN.rst:672 ../../EMN.rst:703
+#: ../../EMN.rst:1612
+msgid "Flash (You may cast this spell any time you could cast an instant.)"
+msgstr ""
+
+#: ../../EMN.rst:43
+msgid ""
+"Emerge |mana_7| |mana_u| (You may cast this spell by sacrificing a "
+"creature and paying the emerge cost reduced by that creature's converted "
+"mana cost.)"
+msgstr ""
+
+#: ../../EMN.rst:45
+msgid ""
+"Drownyard Behemoth has hexproof as long as it entered the battlefield "
+"this turn."
+msgstr ""
+
+#: ../../EMN.rst:57
+msgid "Elder Deep-Fiend"
+msgstr ""
+
+#: ../../EMN.rst:52 ../../EMN.rst:1589 ../../EMN.rst:1734 ../../EMN.rst:1770
+msgid "Flash"
+msgstr ""
+
+#: ../../EMN.rst:54
+msgid ""
+"Emerge |mana_5| |mana_u| |mana_u| (You may cast this spell by sacrificing"
+" a creature and paying the emerge cost reduced by that creature's "
+"converted mana cost.)"
+msgstr ""
+
+#: ../../EMN.rst:56
+msgid "When you cast this spell, tap up to four target permanents."
+msgstr ""
+
+#: ../../EMN.rst:68
+msgid "Emrakul, the Promised End"
+msgstr ""
+
+#: ../../EMN.rst:63
+msgid ""
+"This spell costs |mana_1| less to cast for each card type among cards in "
+"your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:65
+msgid ""
+"When you cast this spell, you gain control of target opponent during that"
+" player's next turn. After that turn, that player takes an extra turn."
+msgstr ""
+
+#: ../../EMN.rst:67
+msgid "Flying, trample, protection from instants"
+msgstr ""
+
+#: ../../EMN.rst:77
+msgid "Eternal Scourge"
+msgstr ""
+
+#: ../../EMN.rst:74
+msgid "You may cast Eternal Scourge from exile."
+msgstr ""
+
+#: ../../EMN.rst:76
+msgid ""
+"When Eternal Scourge becomes the target of a spell or ability an opponent"
+" controls, exile Eternal Scourge."
+msgstr ""
+
+#: ../../EMN.rst:86
+msgid "It of the Horrid Swarm"
+msgstr ""
+
+#: ../../EMN.rst:83
+msgid ""
+"Emerge |mana_6| |mana_g| (You may cast this spell by sacrificing a "
+"creature and paying the emerge cost reduced by that creature's converted "
+"mana cost.)"
+msgstr ""
+
+#: ../../EMN.rst:85
+msgid "When you cast this spell, create two 1/1 green Insect creature tokens."
+msgstr ""
+
+#: ../../EMN.rst:95
+msgid "Lashweed Lurker"
+msgstr ""
+
+#: ../../EMN.rst:92
+msgid ""
+"Emerge |mana_5| |mana_g| |mana_u| (You may cast this spell by sacrificing"
+" a creature and paying the emerge cost reduced by that creature's "
+"converted mana cost.)"
+msgstr ""
+
+#: ../../EMN.rst:94
+msgid ""
+"When you cast this spell, you may put target nonland permanent on top of "
+"its owner's library."
+msgstr ""
+
+#: ../../EMN.rst:104
+msgid "Mockery of Nature"
+msgstr ""
+
+#: ../../EMN.rst:101
+msgid ""
+"Emerge |mana_7| |mana_g| (You may cast this spell by sacrificing a "
+"creature and paying the emerge cost reduced by that creature's converted "
+"mana cost.)"
+msgstr ""
+
+#: ../../EMN.rst:103
+msgid "When you cast this spell, you may destroy target artifact or enchantment."
+msgstr ""
+
+#: ../../EMN.rst:113
+msgid "Vexing Scuttler"
+msgstr ""
+
+#: ../../EMN.rst:110
+msgid ""
+"Emerge |mana_6| |mana_u| (You may cast this spell by sacrificing a "
+"creature and paying the emerge cost reduced by that creature's converted "
+"mana cost.)"
+msgstr ""
+
+#: ../../EMN.rst:112
+msgid ""
+"When you cast this spell, you may return target instant or sorcery card "
+"from your graveyard to your hand."
+msgstr ""
+
+#: ../../EMN.rst:124
+msgid "Wretched Gryff"
+msgstr ""
+
+#: ../../EMN.rst:119
+msgid ""
+"Emerge |mana_5| |mana_u| (You may cast this spell by sacrificing a "
+"creature and paying the emerge cost reduced by that creature's converted "
+"mana cost.)"
+msgstr ""
+
+#: ../../EMN.rst:121
+msgid "When you cast this spell, draw a card."
+msgstr ""
+
+#: ../../EMN.rst:123 ../../EMN.rst:211 ../../EMN.rst:396 ../../EMN.rst:435
+#: ../../EMN.rst:469 ../../EMN.rst:533 ../../EMN.rst:542 ../../EMN.rst:654
+#: ../../EMN.rst:674 ../../EMN.rst:683 ../../EMN.rst:728 ../../EMN.rst:831
+#: ../../EMN.rst:1029 ../../EMN.rst:1040 ../../EMN.rst:1271 ../../EMN.rst:1745
+#: ../../EMN.rst:1772
+msgid "Flying"
+msgstr ""
+
+#: ../../EMN.rst:139
+msgid "Blessed Alliance"
+msgstr ""
+
+#: ../../EMN.rst:130 ../../EMN.rst:771
+msgid "Escalate |mana_2| (Pay this cost for each mode chosen beyond the first.)"
+msgstr ""
+
+#: ../../EMN.rst:132 ../../EMN.rst:191 ../../EMN.rst:800 ../../EMN.rst:1144
+#: ../../EMN.rst:1307
+msgid "Choose one or more —"
+msgstr ""
+
+#: ../../EMN.rst:134
+msgid "Target player gains 4 life."
+msgstr ""
+
+#: ../../EMN.rst:136
+msgid "Untap up to two target creatures."
+msgstr ""
+
+#: ../../EMN.rst:138
+msgid "Target opponent sacrifices an attacking creature."
+msgstr ""
+
+#: ../../EMN.rst:152
+msgid "Borrowed Grace"
+msgstr ""
+
+#: ../../EMN.rst:145
+msgid ""
+"Escalate |mana_1| |mana_w| (Pay this cost for each mode chosen beyond the"
+" first.)"
+msgstr ""
+
+#: ../../EMN.rst:147 ../../EMN.rst:773 ../../EMN.rst:1124
+msgid "Choose one or both —"
+msgstr ""
+
+#: ../../EMN.rst:149
+msgid "Creatures you control get +2/+0 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:151
+msgid "Creatures you control get +0/+2 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:163
+msgid "Bruna, the Fading Light"
+msgstr ""
+
+#: ../../EMN.rst:158
+msgid ""
+"When you cast this spell, you may return target Angel or Human creature "
+"card from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../EMN.rst:160
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../EMN.rst:162
+msgid "(Melds with Gisela, the Broken Blade.)"
+msgstr ""
+
+#: ../../EMN.rst:172
+msgid "Brisela, Voice of Nightmares"
+msgstr ""
+
+#: ../../EMN.rst:169
+msgid "Flying, first strike, vigilance, lifelink"
+msgstr ""
+
+#: ../../EMN.rst:171
+msgid "Your opponents can't cast spells with converted mana cost 3 or less."
+msgstr ""
+
+#: ../../EMN.rst:183
+msgid "Choking Restraints"
+msgstr ""
+
+#: ../../EMN.rst:178 ../../EMN.rst:355 ../../EMN.rst:705 ../../EMN.rst:762
+#: ../../EMN.rst:979 ../../EMN.rst:1296 ../../EMN.rst:1673
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../EMN.rst:180
+msgid "Enchanted creature can't attack or block."
+msgstr ""
+
+#: ../../EMN.rst:182
+msgid ""
+"|mana_3| |mana_w| |mana_w|, Sacrifice Choking Restraints: Exile enchanted"
+" creature."
+msgstr ""
+
+#: ../../EMN.rst:198
+msgid "Collective Effort"
+msgstr ""
+
+#: ../../EMN.rst:189
+msgid ""
+"Escalate—Tap an untapped creature you control. (Pay this cost for each "
+"mode chosen beyond the first.)"
+msgstr ""
+
+#: ../../EMN.rst:193
+msgid "Destroy target creature with power 4 or greater."
+msgstr ""
+
+#: ../../EMN.rst:195
+msgid "Destroy target enchantment."
+msgstr ""
+
+#: ../../EMN.rst:197
+msgid "Put a +1/+1 counter on each creature target player controls."
+msgstr ""
+
+#: ../../EMN.rst:205
+msgid "Courageous Outrider"
+msgstr ""
+
+#: ../../EMN.rst:204
+msgid ""
+"When Courageous Outrider enters the battlefield, look at the top four "
+"cards of your library. You may reveal a Human card from among them and "
+"put it into your hand. Put the rest on the bottom of your library in any "
+"order."
+msgstr ""
+
+#: ../../EMN.rst:212
+msgid "Dawn Gryff"
+msgstr ""
+
+#: ../../EMN.rst:219
+msgid "Deploy the Gatewatch"
+msgstr ""
+
+#: ../../EMN.rst:218
+msgid ""
+"Look at the top seven cards of your library. Put up to two planeswalker "
+"cards from among them onto the battlefield. Put the rest on the bottom of"
+" your library in a random order."
+msgstr ""
+
+#: ../../EMN.rst:228
+msgid "Desperate Sentry"
+msgstr ""
+
+#: ../../EMN.rst:225
+msgid ""
+"When Desperate Sentry dies, create a 3/2 colorless Eldrazi Horror "
+"creature token."
+msgstr ""
+
+#: ../../EMN.rst:227
+msgid ""
+"Delirium — Desperate Sentry gets +3/+0 as long as there are four or more "
+"card types among cards in your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:237
+msgid "Drogskol Shieldmate"
+msgstr ""
+
+#: ../../EMN.rst:236
+msgid ""
+"When Drogskol Shieldmate enters the battlefield, other creatures you "
+"control get +0/+1 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:246
+msgid "Extricator of Sin"
+msgstr ""
+
+#: ../../EMN.rst:243
+msgid ""
+"When Extricator of Sin enters the battlefield, you may sacrifice another "
+"permanent. If you do, create a 3/2 colorless Eldrazi Horror creature "
+"token."
+msgstr ""
+
+#: ../../EMN.rst:245
+msgid ""
+"Delirium — At the beginning of your upkeep, if there are four or more "
+"card types among cards in your graveyard, transform Extricator of Sin."
+msgstr ""
+
+#: ../../EMN.rst:255
+msgid "Extricator of Flesh"
+msgstr ""
+
+#: ../../EMN.rst:252
+msgid "Eldrazi you control have vigilance."
+msgstr ""
+
+#: ../../EMN.rst:254
+msgid ""
+"|mana_2|, |tap|, Sacrifice a non-Eldrazi creature: Create a 3/2 colorless"
+" Eldrazi Horror creature token."
+msgstr ""
+
+#: ../../EMN.rst:266
+msgid "Faith Unbroken"
+msgstr ""
+
+#: ../../EMN.rst:261
+msgid "Enchant creature you control"
+msgstr ""
+
+#: ../../EMN.rst:263
+msgid ""
+"When Faith Unbroken enters the battlefield, exile target creature an "
+"opponent controls until Faith Unbroken leaves the battlefield."
+msgstr ""
+
+#: ../../EMN.rst:265 ../../EMN.rst:1677
+msgid "Enchanted creature gets +2/+2."
+msgstr ""
+
+#: ../../EMN.rst:273
+msgid "Faithbearer Paladin"
+msgstr ""
+
+#: ../../EMN.rst:272 ../../EMN.rst:1022
+msgid ""
+"Lifelink (Damage dealt by this creature also causes you to gain that much"
+" life.)"
+msgstr ""
+
+#: ../../EMN.rst:280
+msgid "Fiend Binder"
+msgstr ""
+
+#: ../../EMN.rst:279
+msgid ""
+"Whenever Fiend Binder attacks, tap target creature defending player "
+"controls."
+msgstr ""
+
+#: ../../EMN.rst:289
+msgid "Geist of the Lonely Vigil"
+msgstr ""
+
+#: ../../EMN.rst:286
+msgid "Defender, flying"
+msgstr ""
+
+#: ../../EMN.rst:288
+msgid ""
+"Delirium — Geist of the Lonely Vigil can attack as though it didn't have "
+"defender as long as there are four or more card types among cards in your"
+" graveyard."
+msgstr ""
+
+#: ../../EMN.rst:298
+msgid "Gisela, the Broken Blade"
+msgstr ""
+
+#: ../../EMN.rst:295
+msgid "Flying, first strike, lifelink"
+msgstr ""
+
+#: ../../EMN.rst:297
+msgid ""
+"At the beginning of your end step, if you both own and control Gisela, "
+"the Broken Blade and a creature named Bruna, the Fading Light, exile "
+"them, then meld them into Brisela, Voice of Nightmares."
+msgstr ""
+
+#: ../../EMN.rst:305
+msgid "Give No Ground"
+msgstr ""
+
+#: ../../EMN.rst:304
+msgid ""
+"Target creature gets +2/+6 until end of turn and can block any number of "
+"creatures this turn."
+msgstr ""
+
+#: ../../EMN.rst:312
+msgid "Guardian of Pilgrims"
+msgstr ""
+
+#: ../../EMN.rst:311
+msgid ""
+"When Guardian of Pilgrims enters the battlefield, target creature gets "
+"+1/+1 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:319
+msgid "Ironclad Slayer"
+msgstr ""
+
+#: ../../EMN.rst:318
+msgid ""
+"When Ironclad Slayer enters the battlefield, you may return target Aura "
+"or Equipment card from your graveyard to your hand."
+msgstr ""
+
+#: ../../EMN.rst:326
+msgid "Ironwright's Cleansing"
+msgstr ""
+
+#: ../../EMN.rst:325
+msgid "Exile target artifact or enchantment."
+msgstr ""
+
+#: ../../EMN.rst:335
+msgid "Lone Rider"
+msgstr ""
+
+#: ../../EMN.rst:332
+msgid "First strike, lifelink"
+msgstr ""
+
+#: ../../EMN.rst:334
+msgid ""
+"At the beginning of the end step, if you gained 3 or more life this turn,"
+" transform Lone Rider."
+msgstr ""
+
+#: ../../EMN.rst:342
+msgid "It That Rides as One"
+msgstr ""
+
+#: ../../EMN.rst:341
+msgid "First strike, trample, lifelink"
+msgstr ""
+
+#: ../../EMN.rst:349
+msgid "Long Road Home"
+msgstr ""
+
+#: ../../EMN.rst:348
+msgid ""
+"Exile target creature. At the beginning of the next end step, return that"
+" card to the battlefield under its owner's control with a +1/+1 counter "
+"on it."
+msgstr ""
+
+#: ../../EMN.rst:358
+msgid "Lunarch Mantle"
+msgstr ""
+
+#: ../../EMN.rst:357
+msgid ""
+"Enchanted creature gets +2/+2 and has \"|mana_1|, Sacrifice a permanent: "
+"This creature gains flying until end of turn.\""
+msgstr ""
+
+#: ../../EMN.rst:365
+msgid "Peace of Mind"
+msgstr ""
+
+#: ../../EMN.rst:364
+msgid "|mana_w|, Discard a card: You gain 3 life."
+msgstr ""
+
+#: ../../EMN.rst:374
+msgid "Providence"
+msgstr ""
+
+#: ../../EMN.rst:371
+msgid ""
+"You may reveal this card from your opening hand. If you do, at the "
+"beginning of the first upkeep, your life total becomes 26."
+msgstr ""
+
+#: ../../EMN.rst:373
+msgid "Your life total becomes 26."
+msgstr ""
+
+#: ../../EMN.rst:381
+msgid "Repel the Abominable"
+msgstr ""
+
+#: ../../EMN.rst:380
+msgid "Prevent all damage that would be dealt this turn by non-Human sources."
+msgstr ""
+
+#: ../../EMN.rst:390
+msgid "Sanctifier of Souls"
+msgstr ""
+
+#: ../../EMN.rst:387
+msgid ""
+"Whenever another creature enters the battlefield under your control, "
+"Sanctifier of Souls gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:389
+msgid ""
+"|mana_2| |mana_w|, Exile a creature card from your graveyard: Create a "
+"1/1 white Spirit creature token with flying."
+msgstr ""
+
+#: ../../EMN.rst:399
+msgid "Selfless Spirit"
+msgstr ""
+
+#: ../../EMN.rst:398
+msgid ""
+"Sacrifice Selfless Spirit: Creatures you control gain indestructible "
+"until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:408
+msgid "Sigarda's Aid"
+msgstr ""
+
+#: ../../EMN.rst:405
+msgid "You may cast Aura and Equipment spells as though they had flash."
+msgstr ""
+
+#: ../../EMN.rst:407
+msgid ""
+"Whenever an Equipment enters the battlefield under your control, you may "
+"attach it to target creature you control."
+msgstr ""
+
+#: ../../EMN.rst:415
+msgid "Sigardian Priest"
+msgstr ""
+
+#: ../../EMN.rst:414
+msgid "|mana_1|, |tap|: Tap target non-Human creature."
+msgstr ""
+
+#: ../../EMN.rst:422
+msgid "Spectral Reserves"
+msgstr ""
+
+#: ../../EMN.rst:421
+msgid "Create two 1/1 white Spirit creature tokens with flying. You gain 2 life."
+msgstr ""
+
+#: ../../EMN.rst:429
+msgid "Steadfast Cathar"
+msgstr ""
+
+#: ../../EMN.rst:428
+msgid "Whenever Steadfast Cathar attacks, it gets +0/+2 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:438
+msgid "Subjugator Angel"
+msgstr ""
+
+#: ../../EMN.rst:437
+msgid ""
+"When Subjugator Angel enters the battlefield, tap all creatures your "
+"opponents control."
+msgstr ""
+
+#: ../../EMN.rst:447
+msgid "Thalia, Heretic Cathar"
+msgstr ""
+
+#: ../../EMN.rst:444 ../../EMN.rst:453
+msgid "First strike"
+msgstr ""
+
+#: ../../EMN.rst:446
+msgid ""
+"Creatures and nonbasic lands your opponents control enter the battlefield"
+" tapped."
+msgstr ""
+
+#: ../../EMN.rst:456
+msgid "Thalia's Lancers"
+msgstr ""
+
+#: ../../EMN.rst:455
+msgid ""
+"When Thalia's Lancers enters the battlefield, you may search your library"
+" for a legendary card, reveal it, put it into your hand, then shuffle "
+"your library."
+msgstr ""
+
+#: ../../EMN.rst:463
+msgid "Thraben Standard Bearer"
+msgstr ""
+
+#: ../../EMN.rst:462
+msgid ""
+"|mana_1| |mana_w|, |tap|, Discard a card: Create a 1/1 white Human "
+"Soldier creature token."
+msgstr ""
+
+#: ../../EMN.rst:472
+msgid "Advanced Stitchwing"
+msgstr ""
+
+#: ../../EMN.rst:471
+msgid ""
+"|mana_2| |mana_u|, Discard two cards: Return Advanced Stitchwing from "
+"your graveyard to the battlefield tapped."
+msgstr ""
+
+#: ../../EMN.rst:481
+msgid "Chilling Grasp"
+msgstr ""
+
+#: ../../EMN.rst:478
+msgid ""
+"Tap up to two target creatures. Those creatures don't untap during their "
+"controller's next untap step."
+msgstr ""
+
+#: ../../EMN.rst:480
+msgid ""
+"Madness |mana_3| |mana_u| (If you discard this card, discard it into "
+"exile. When you do, cast it for its madness cost or put it into your "
+"graveyard.)"
+msgstr ""
+
+#: ../../EMN.rst:488
+msgid "Coax from the Blind Eternities"
+msgstr ""
+
+#: ../../EMN.rst:487
+msgid ""
+"You may choose an Eldrazi card you own from outside the game or in exile,"
+" reveal that card, and put it into your hand."
+msgstr ""
+
+#: ../../EMN.rst:495
+msgid "Contingency Plan"
+msgstr ""
+
+#: ../../EMN.rst:494
+msgid ""
+"Look at the top five cards of your library. Put any number of them into "
+"your graveyard and the rest back on top of your library in any order."
+msgstr ""
+
+#: ../../EMN.rst:502
+msgid "Convolute"
+msgstr ""
+
+#: ../../EMN.rst:501
+msgid "Counter target spell unless its controller pays |mana_4|."
+msgstr ""
+
+#: ../../EMN.rst:511
+msgid "Curious Homunculus"
+msgstr ""
+
+#: ../../EMN.rst:508
+msgid ""
+"|tap|: Add |colorless|. Spend this mana only to cast an instant or "
+"sorcery spell."
+msgstr ""
+
+#: ../../EMN.rst:510
+msgid ""
+"At the beginning of your upkeep, if there are three or more instant "
+"and/or sorcery cards in your graveyard, transform Curious Homunculus."
+msgstr ""
+
+#: ../../EMN.rst:520
+msgid "Voracious Reader"
+msgstr ""
+
+#: ../../EMN.rst:517 ../../EMN.rst:631 ../../EMN.rst:685 ../../EMN.rst:1099
+msgid ""
+"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
+"until end of turn.)"
+msgstr ""
+
+#: ../../EMN.rst:519
+msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../EMN.rst:527
+msgid "Displace"
+msgstr ""
+
+#: ../../EMN.rst:526
+msgid ""
+"Exile up to two target creatures you control, then return those cards to "
+"the battlefield under their owner's control."
+msgstr ""
+
+#: ../../EMN.rst:536
+msgid "Docent of Perfection"
+msgstr ""
+
+#: ../../EMN.rst:535
+msgid ""
+"Whenever you cast an instant or sorcery spell, create a 1/1 blue Human "
+"Wizard creature token. Then if you control three or more Wizards, "
+"transform Docent of Perfection."
+msgstr ""
+
+#: ../../EMN.rst:547
+msgid "Final Iteration"
+msgstr ""
+
+#: ../../EMN.rst:544
+msgid "Wizards you control get +2/+1 and have flying."
+msgstr ""
+
+#: ../../EMN.rst:546
+msgid ""
+"Whenever you cast an instant or sorcery spell, create a 1/1 blue Human "
+"Wizard creature token."
+msgstr ""
+
+#: ../../EMN.rst:556
+msgid "Drag Under"
+msgstr ""
+
+#: ../../EMN.rst:553
+msgid "Return target creature to its owner's hand."
+msgstr ""
+
+#: ../../EMN.rst:555 ../../EMN.rst:1352
+msgid "Draw a card."
+msgstr ""
+
+#: ../../EMN.rst:563
+msgid "Enlightened Maniac"
+msgstr ""
+
+#: ../../EMN.rst:562
+msgid ""
+"When Enlightened Maniac enters the battlefield, create a 3/2 colorless "
+"Eldrazi Horror creature token."
+msgstr ""
+
+#: ../../EMN.rst:570
+msgid "Exultant Cultist"
+msgstr ""
+
+#: ../../EMN.rst:569
+msgid "When Exultant Cultist dies, draw a card."
+msgstr ""
+
+#: ../../EMN.rst:579
+msgid "Fogwalker"
+msgstr ""
+
+#: ../../EMN.rst:576 ../../EMN.rst:751 ../../EMN.rst:1020
+msgid "Skulk (This creature can't be blocked by creatures with greater power.)"
+msgstr ""
+
+#: ../../EMN.rst:578
+msgid ""
+"When Fogwalker enters the battlefield, target creature an opponent "
+"controls doesn't untap during its controller's next untap step."
+msgstr ""
+
+#: ../../EMN.rst:586
+msgid "Fortune's Favor"
+msgstr ""
+
+#: ../../EMN.rst:585
+msgid ""
+"Target opponent looks at the top four cards of your library and separates"
+" them into a face-down pile and a face-up pile. Put one pile into your "
+"hand and the other into your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:595
+msgid "Geist of the Archives"
+msgstr ""
+
+#: ../../EMN.rst:592 ../../EMN.rst:1011 ../../EMN.rst:1377 ../../EMN.rst:1641
+msgid "Defender"
+msgstr ""
+
+#: ../../EMN.rst:594
+msgid ""
+"At the beginning of your upkeep, scry 1. (Look at the top card of your "
+"library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../EMN.rst:602
+msgid "Grizzled Angler"
+msgstr ""
+
+#: ../../EMN.rst:601
+msgid ""
+"|tap|: Put the top two cards of your library into your graveyard. Then if"
+" there is a colorless creature card in your graveyard, transform Grizzled"
+" Angler."
+msgstr ""
+
+#: ../../EMN.rst:609
+msgid "Grisly Anglerfish"
+msgstr ""
+
+#: ../../EMN.rst:608
+msgid "|mana_6|: Creatures your opponents control attack this turn if able."
+msgstr ""
+
+#: ../../EMN.rst:616
+msgid "Identity Thief"
+msgstr ""
+
+#: ../../EMN.rst:615
+msgid ""
+"Whenever Identity Thief attacks, you may exile another target nontoken "
+"creature. If you do, Identity Thief becomes a copy of that creature until"
+" end of turn. Return the exiled card to the battlefield under its owner's"
+" control at the beginning of the next end step."
+msgstr ""
+
+#: ../../EMN.rst:625
+msgid "Imprisoned in the Moon"
+msgstr ""
+
+#: ../../EMN.rst:622
+msgid "Enchant creature, land, or planeswalker"
+msgstr ""
+
+#: ../../EMN.rst:624
+msgid ""
+"Enchanted permanent is a colorless land with \"|tap|: Add |colorless|\" "
+"and loses all other card types and abilities."
+msgstr ""
+
+#: ../../EMN.rst:634
+msgid "Ingenious Skaab"
+msgstr ""
+
+#: ../../EMN.rst:633
+msgid "|mana_u|: Ingenious Skaab gets +1/-1 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:641
+msgid "Laboratory Brute"
+msgstr ""
+
+#: ../../EMN.rst:640
+msgid ""
+"When Laboratory Brute enters the battlefield, put the top four cards of "
+"your library into your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:648
+msgid "Lunar Force"
+msgstr ""
+
+#: ../../EMN.rst:647
+msgid ""
+"When an opponent casts a spell, sacrifice Lunar Force and counter that "
+"spell."
+msgstr ""
+
+#: ../../EMN.rst:659
+msgid "Mausoleum Wanderer"
+msgstr ""
+
+#: ../../EMN.rst:656
+msgid ""
+"Whenever another Spirit enters the battlefield under your control, "
+"Mausoleum Wanderer gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:658
+msgid ""
+"Sacrifice Mausoleum Wanderer: Counter target instant or sorcery spell "
+"unless its controller pays |mana_x|, where X is Mausoleum Wanderer's "
+"power."
+msgstr ""
+
+#: ../../EMN.rst:666
+msgid "Mind's Dilation"
+msgstr ""
+
+#: ../../EMN.rst:665
+msgid ""
+"Whenever an opponent casts their first spell each turn, that player "
+"exiles the top card of their library. If it's a nonland card, you may "
+"cast it without paying its mana cost."
+msgstr ""
+
+#: ../../EMN.rst:677
+msgid "Nebelgast Herald"
+msgstr ""
+
+#: ../../EMN.rst:676
+msgid ""
+"Whenever Nebelgast Herald or another Spirit enters the battlefield under "
+"your control, tap target creature an opponent controls."
+msgstr ""
+
+#: ../../EMN.rst:688
+msgid "Niblis of Frost"
+msgstr ""
+
+#: ../../EMN.rst:687
+msgid ""
+"Whenever you cast an instant or sorcery spell, tap target creature an "
+"opponent controls. That creature doesn't untap during its controller's "
+"next untap step."
+msgstr ""
+
+#: ../../EMN.rst:697
+msgid "Scour the Laboratory"
+msgstr ""
+
+#: ../../EMN.rst:694 ../../EMN.rst:829
+msgid ""
+"Delirium — This spell costs |mana_2| less to cast if there are four or "
+"more card types among cards in your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:696
+msgid "Draw three cards."
+msgstr ""
+
+#: ../../EMN.rst:708
+msgid "Spontaneous Mutation"
+msgstr ""
+
+#: ../../EMN.rst:707
+msgid ""
+"Enchanted creature gets -X/-0, where X is the number of cards in your "
+"graveyard."
+msgstr ""
+
+#: ../../EMN.rst:715
+msgid "Summary Dismissal"
+msgstr ""
+
+#: ../../EMN.rst:714
+msgid "Exile all other spells and counter all abilities."
+msgstr ""
+
+#: ../../EMN.rst:722
+msgid "Take Inventory"
+msgstr ""
+
+#: ../../EMN.rst:721
+msgid ""
+"Draw a card, then draw cards equal to the number of cards named Take "
+"Inventory in your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:731
+msgid "Tattered Haunter"
+msgstr ""
+
+#: ../../EMN.rst:730
+msgid "Tattered Haunter can block only creatures with flying."
+msgstr ""
+
+#: ../../EMN.rst:738
+msgid "Turn Aside"
+msgstr ""
+
+#: ../../EMN.rst:737
+msgid "Counter target spell that targets a permanent you control."
+msgstr ""
+
+#: ../../EMN.rst:745
+msgid "Unsubstantiate"
+msgstr ""
+
+#: ../../EMN.rst:744
+msgid "Return target spell or creature to its owner's hand."
+msgstr ""
+
+#: ../../EMN.rst:756
+msgid "Wharf Infiltrator"
+msgstr ""
+
+#: ../../EMN.rst:753
+msgid ""
+"Whenever Wharf Infiltrator deals combat damage to a player, you may draw "
+"a card. If you do, discard a card."
+msgstr ""
+
+#: ../../EMN.rst:755
+msgid ""
+"Whenever you discard a creature card, you may pay |mana_2|. If you do, "
+"create a 3/2 colorless Eldrazi Horror creature token."
+msgstr ""
+
+#: ../../EMN.rst:765
+msgid "Boon of Emrakul"
+msgstr ""
+
+#: ../../EMN.rst:764
+msgid "Enchanted creature gets +3/-3."
+msgstr ""
+
+#: ../../EMN.rst:778
+msgid "Borrowed Malevolence"
+msgstr ""
+
+#: ../../EMN.rst:775
+msgid "Target creature gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:777
+msgid "Target creature gets -1/-1 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:785
+msgid "Cemetery Recruitment"
+msgstr ""
+
+#: ../../EMN.rst:784
+msgid ""
+"Return target creature card from your graveyard to your hand. If it's a "
+"Zombie card, draw a card."
+msgstr ""
+
+#: ../../EMN.rst:792
+msgid "Certain Death"
+msgstr ""
+
+#: ../../EMN.rst:791
+msgid "Destroy target creature. Its controller loses 2 life and you gain 2 life."
+msgstr ""
+
+#: ../../EMN.rst:807
+msgid "Collective Brutality"
+msgstr ""
+
+#: ../../EMN.rst:798
+msgid ""
+"Escalate—Discard a card. (Pay this cost for each mode chosen beyond the "
+"first.)"
+msgstr ""
+
+#: ../../EMN.rst:802
+msgid ""
+"Target opponent reveals their hand. You choose an instant or sorcery card"
+" from it. That player discards that card."
+msgstr ""
+
+#: ../../EMN.rst:804
+msgid "Target creature gets -2/-2 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:806
+msgid "Target opponent loses 2 life and you gain 2 life."
+msgstr ""
+
+#: ../../EMN.rst:816
+msgid "Cryptbreaker"
+msgstr ""
+
+#: ../../EMN.rst:813
+msgid ""
+"|mana_1| |mana_b|, |tap|, Discard a card: Create a 2/2 black Zombie "
+"creature token."
+msgstr ""
+
+#: ../../EMN.rst:815
+msgid ""
+"Tap three untapped Zombies you control: You draw a card and you lose 1 "
+"life."
+msgstr ""
+
+#: ../../EMN.rst:823
+msgid "Dark Salvation"
+msgstr ""
+
+#: ../../EMN.rst:822
+msgid ""
+"Target player creates X 2/2 black Zombie creature tokens, then up to one "
+"target creature gets -1/-1 until end of turn for each Zombie that player "
+"controls."
+msgstr ""
+
+#: ../../EMN.rst:832
+msgid "Dusk Feaster"
+msgstr ""
+
+#: ../../EMN.rst:839
+msgid "Gavony Unhallowed"
+msgstr ""
+
+#: ../../EMN.rst:838
+msgid ""
+"Whenever another creature you control dies, put a +1/+1 counter on Gavony"
+" Unhallowed."
+msgstr ""
+
+#: ../../EMN.rst:848
+msgid "Graf Harvest"
+msgstr ""
+
+#: ../../EMN.rst:845
+msgid ""
+"Zombies you control have menace. (They can't be blocked except by two or "
+"more creatures.)"
+msgstr ""
+
+#: ../../EMN.rst:847
+msgid ""
+"|mana_3| |mana_b|, Exile a creature card from your graveyard: Create a "
+"2/2 black Zombie creature token."
+msgstr ""
+
+#: ../../EMN.rst:855
+msgid "Graf Rats"
+msgstr ""
+
+#: ../../EMN.rst:854
+msgid ""
+"At the beginning of combat on your turn, if you both own and control Graf"
+" Rats and a creature named Midnight Scavengers, exile them, then meld "
+"them into Chittering Host."
+msgstr ""
+
+#: ../../EMN.rst:866
+msgid "Chittering Host"
+msgstr ""
+
+#: ../../EMN.rst:861 ../../EMN.rst:1754
+msgid "Haste"
+msgstr ""
+
+#: ../../EMN.rst:863 ../../EMN.rst:1173
+msgid "Menace (This creature can't be blocked except by two or more creatures.)"
+msgstr ""
+
+#: ../../EMN.rst:865
+msgid ""
+"When Chittering Host enters the battlefield, other creatures you control "
+"get +1/+0 and gain menace until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:875
+msgid "Haunted Dead"
+msgstr ""
+
+#: ../../EMN.rst:872
+msgid ""
+"When Haunted Dead enters the battlefield, create a 1/1 white Spirit "
+"creature token with flying."
+msgstr ""
+
+#: ../../EMN.rst:874
+msgid ""
+"|mana_1| |mana_b|, Discard two cards: Return Haunted Dead from your "
+"graveyard to the battlefield tapped."
+msgstr ""
+
+#: ../../EMN.rst:886
+msgid "Liliana, the Last Hope"
+msgstr ""
+
+#: ../../EMN.rst:881
+msgid "+1: Up to one target creature gets -2/-1 until your next turn."
+msgstr ""
+
+#: ../../EMN.rst:883
+msgid ""
+"−2: Put the top two cards of your library into your graveyard, then you "
+"may return a creature card from your graveyard to your hand."
+msgstr ""
+
+#: ../../EMN.rst:885
+msgid ""
+"−7: You get an emblem with \"At the beginning of your end step, create X "
+"2/2 black Zombie creature tokens, where X is two plus the number of "
+"Zombies you control.\""
+msgstr ""
+
+#: ../../EMN.rst:893
+msgid "Liliana's Elite"
+msgstr ""
+
+#: ../../EMN.rst:892
+msgid "Liliana's Elite gets +1/+1 for each creature card in your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:902
+msgid "Markov Crusader"
+msgstr ""
+
+#: ../../EMN.rst:899 ../../EMN.rst:1736
+msgid "Lifelink"
+msgstr ""
+
+#: ../../EMN.rst:901
+msgid "Markov Crusader has haste as long as you control another Vampire."
+msgstr ""
+
+#: ../../EMN.rst:911
+msgid "Midnight Scavengers"
+msgstr ""
+
+#: ../../EMN.rst:908
+msgid ""
+"When Midnight Scavengers enters the battlefield, you may return target "
+"creature card with converted mana cost 3 or less from your graveyard to "
+"your hand."
+msgstr ""
+
+#: ../../EMN.rst:910
+msgid "(Melds with Graf Rats.)"
+msgstr ""
+
+#: ../../EMN.rst:918
+msgid "Murder"
+msgstr ""
+
+#: ../../EMN.rst:917
+msgid "Destroy target creature."
+msgstr ""
+
+#: ../../EMN.rst:927
+msgid "Noosegraf Mob"
+msgstr ""
+
+#: ../../EMN.rst:924
+msgid "Noosegraf Mob enters the battlefield with five +1/+1 counters on it."
+msgstr ""
+
+#: ../../EMN.rst:926
+msgid ""
+"Whenever a player casts a spell, remove a +1/+1 counter from Noosegraf "
+"Mob. If you do, create a 2/2 black Zombie creature token."
+msgstr ""
+
+#: ../../EMN.rst:936
+msgid "Oath of Liliana"
+msgstr ""
+
+#: ../../EMN.rst:933
+msgid ""
+"When Oath of Liliana enters the battlefield, each opponent sacrifices a "
+"creature."
+msgstr ""
+
+#: ../../EMN.rst:935
+msgid ""
+"At the beginning of each end step, if a planeswalker entered the "
+"battlefield under your control this turn, create a 2/2 black Zombie "
+"creature token."
+msgstr ""
+
+#: ../../EMN.rst:943
+msgid "Olivia's Dragoon"
+msgstr ""
+
+#: ../../EMN.rst:942
+msgid "Discard a card: Olivia's Dragoon gains flying until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:950
+msgid "Prying Questions"
+msgstr ""
+
+#: ../../EMN.rst:949
+msgid ""
+"Target opponent loses 3 life and puts a card from their hand on top of "
+"their library."
+msgstr ""
+
+#: ../../EMN.rst:957
+msgid "Rise from the Grave"
+msgstr ""
+
+#: ../../EMN.rst:956
+msgid ""
+"Put target creature card from a graveyard onto the battlefield under your"
+" control. That creature is a black Zombie in addition to its other colors"
+" and types."
+msgstr ""
+
+#: ../../EMN.rst:966
+msgid "Ruthless Disposal"
+msgstr ""
+
+#: ../../EMN.rst:963
+msgid ""
+"As an additional cost to cast this spell, discard a card and sacrifice a "
+"creature."
+msgstr ""
+
+#: ../../EMN.rst:965
+msgid "Two target creatures each get -13/-13 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:973
+msgid "Skirsdag Supplicant"
+msgstr ""
+
+#: ../../EMN.rst:972
+msgid "|mana_b|, |tap|, Discard a card: Each player loses 2 life."
+msgstr ""
+
+#: ../../EMN.rst:984
+msgid "Strange Augmentation"
+msgstr ""
+
+#: ../../EMN.rst:981
+msgid "Enchanted creature gets +1/+1."
+msgstr ""
+
+#: ../../EMN.rst:983
+msgid ""
+"Delirium — Enchanted creature gets an additional +2/+2 as long as there "
+"are four or more card types among cards in your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:991
+msgid "Stromkirk Condemned"
+msgstr ""
+
+#: ../../EMN.rst:990
+msgid ""
+"Discard a card: Vampires you control get +1/+1 until end of turn. "
+"Activate this ability only once each turn."
+msgstr ""
+
+#: ../../EMN.rst:998
+msgid "Succumb to Temptation"
+msgstr ""
+
+#: ../../EMN.rst:997
+msgid "You draw two cards and you lose 2 life."
+msgstr ""
+
+#: ../../EMN.rst:1005
+msgid "Thraben Foulbloods"
+msgstr ""
+
+#: ../../EMN.rst:1004
+msgid ""
+"Delirium — Thraben Foulbloods gets +1/+1 and has menace as long as there "
+"are four or more card types among cards in your graveyard. (A creature "
+"with menace can't be blocked except by two or more creatures.)"
+msgstr ""
+
+#: ../../EMN.rst:1014
+msgid "Tree of Perdition"
+msgstr ""
+
+#: ../../EMN.rst:1013
+msgid ""
+"|tap|: Exchange target opponent's life total with Tree of Perdition's "
+"toughness."
+msgstr ""
+
+#: ../../EMN.rst:1023
+msgid "Vampire Cutthroat"
+msgstr ""
+
+#: ../../EMN.rst:1034
+msgid "Voldaren Pariah"
+msgstr ""
+
+#: ../../EMN.rst:1031
+msgid "Sacrifice three other creatures: Transform Voldaren Pariah."
+msgstr ""
+
+#: ../../EMN.rst:1033
+msgid ""
+"Madness |mana_b| |mana_b| |mana_b| (If you discard this card, discard it "
+"into exile. When you do, cast it for its madness cost or put it into your"
+" graveyard.)"
+msgstr ""
+
+#: ../../EMN.rst:1043
+msgid "Abolisher of Bloodlines"
+msgstr ""
+
+#: ../../EMN.rst:1042
+msgid ""
+"When this creature transforms into Abolisher of Bloodlines, target "
+"opponent sacrifices three creatures."
+msgstr ""
+
+#: ../../EMN.rst:1050
+msgid "Wailing Ghoul"
+msgstr ""
+
+#: ../../EMN.rst:1049
+msgid ""
+"When Wailing Ghoul enters the battlefield, put the top two cards of your "
+"library into your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:1057
+msgid "Weirded Vampire"
+msgstr ""
+
+#: ../../EMN.rst:1056
+msgid ""
+"Madness |mana_2| |mana_b| (If you discard this card, discard it into "
+"exile. When you do, cast it for its madness cost or put it into your "
+"graveyard.)"
+msgstr ""
+
+#: ../../EMN.rst:1066
+msgid "Whispers of Emrakul"
+msgstr ""
+
+#: ../../EMN.rst:1063
+msgid "Target opponent discards a card at random."
+msgstr ""
+
+#: ../../EMN.rst:1065
+msgid ""
+"Delirium — If there are four or more card types among cards in your "
+"graveyard, that player discards two cards at random instead."
+msgstr ""
+
+#: ../../EMN.rst:1075
+msgid "Abandon Reason"
+msgstr ""
+
+#: ../../EMN.rst:1072
+msgid ""
+"Up to two target creatures each get +1/+0 and gain first strike until end"
+" of turn."
+msgstr ""
+
+#: ../../EMN.rst:1074 ../../EMN.rst:1083 ../../EMN.rst:1370
+msgid ""
+"Madness |mana_1| |mana_r| (If you discard this card, discard it into "
+"exile. When you do, cast it for its madness cost or put it into your "
+"graveyard.)"
+msgstr ""
+
+#: ../../EMN.rst:1084
+msgid "Alchemist's Greeting"
+msgstr ""
+
+#: ../../EMN.rst:1081
+msgid "Alchemist's Greeting deals 4 damage to target creature."
+msgstr ""
+
+#: ../../EMN.rst:1091
+msgid "Assembled Alphas"
+msgstr ""
+
+#: ../../EMN.rst:1090
+msgid ""
+"Whenever Assembled Alphas blocks or becomes blocked by a creature, "
+"Assembled Alphas deals 3 damage to that creature and 3 damage to that "
+"creature's controller."
+msgstr ""
+
+#: ../../EMN.rst:1102
+msgid "Bedlam Reveler"
+msgstr ""
+
+#: ../../EMN.rst:1097
+msgid ""
+"This spell costs |mana_1| less to cast for each instant and sorcery card "
+"in your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:1101
+msgid ""
+"When Bedlam Reveler enters the battlefield, discard your hand, then draw "
+"three cards."
+msgstr ""
+
+#: ../../EMN.rst:1109
+msgid "Blood Mist"
+msgstr ""
+
+#: ../../EMN.rst:1108
+msgid ""
+"At the beginning of combat on your turn, target creature you control "
+"gains double strike until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1116
+msgid "Bold Impaler"
+msgstr ""
+
+#: ../../EMN.rst:1115
+msgid "|mana_2| |mana_r|: Bold Impaler gets +2/+0 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1129
+msgid "Borrowed Hostility"
+msgstr ""
+
+#: ../../EMN.rst:1122
+msgid "Escalate |mana_3| (Pay this cost for each mode chosen beyond the first.)"
+msgstr ""
+
+#: ../../EMN.rst:1126
+msgid "Target creature gets +3/+0 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1128
+msgid "Target creature gains first strike until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1136
+msgid "Brazen Wolves"
+msgstr ""
+
+#: ../../EMN.rst:1135
+msgid "Whenever Brazen Wolves attacks, it gets +2/+0 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1151
+msgid "Collective Defiance"
+msgstr ""
+
+#: ../../EMN.rst:1142 ../../EMN.rst:1305
+msgid "Escalate |mana_1| (Pay this cost for each mode chosen beyond the first.)"
+msgstr ""
+
+#: ../../EMN.rst:1146
+msgid ""
+"Target player discards all the cards in their hand, then draws that many "
+"cards."
+msgstr ""
+
+#: ../../EMN.rst:1148
+msgid "Collective Defiance deals 4 damage to target creature."
+msgstr ""
+
+#: ../../EMN.rst:1150
+msgid "Collective Defiance deals 3 damage to target opponent or planeswalker."
+msgstr ""
+
+#: ../../EMN.rst:1160
+msgid "Conduit of Storms"
+msgstr ""
+
+#: ../../EMN.rst:1157
+msgid ""
+"Whenever Conduit of Storms attacks, add |mana_r| at the beginning of your"
+" next main phase this turn."
+msgstr ""
+
+#: ../../EMN.rst:1159
+msgid "|mana_3| |mana_r| |mana_r|: Transform Conduit of Storms."
+msgstr ""
+
+#: ../../EMN.rst:1167
+msgid "Conduit of Emrakul"
+msgstr ""
+
+#: ../../EMN.rst:1166
+msgid ""
+"Whenever Conduit of Emrakul attacks, add |colorless| |colorless| at the "
+"beginning of your next main phase this turn."
+msgstr ""
+
+#: ../../EMN.rst:1174
+msgid "Deranged Whelp"
+msgstr ""
+
+#: ../../EMN.rst:1183
+msgid "Distemper of the Blood"
+msgstr ""
+
+#: ../../EMN.rst:1180
+msgid "Target creature gets +2/+2 and gains trample until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1182
+msgid ""
+"Madness |mana_r| (If you discard this card, discard it into exile. When "
+"you do, cast it for its madness cost or put it into your graveyard.)"
+msgstr ""
+
+#: ../../EMN.rst:1188
+msgid "Falkenrath Reaver"
+msgstr ""
+
+#: ../../EMN.rst:1199
+msgid "Furyblade Vampire"
+msgstr ""
+
+#: ../../EMN.rst:1196 ../../EMN.rst:1366 ../../EMN.rst:1388 ../../EMN.rst:1399
+#: ../../EMN.rst:1723
+msgid "Trample"
+msgstr ""
+
+#: ../../EMN.rst:1198
+msgid ""
+"At the beginning of combat on your turn, you may discard a card. If you "
+"do, Furyblade Vampire gets +3/+0 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1206
+msgid "Galvanic Bombardment"
+msgstr ""
+
+#: ../../EMN.rst:1205
+msgid ""
+"Galvanic Bombardment deals X damage to target creature, where X is 2 plus"
+" the number of cards named Galvanic Bombardment in your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:1215
+msgid "Hanweir Garrison"
+msgstr ""
+
+#: ../../EMN.rst:1212
+msgid ""
+"Whenever Hanweir Garrison attacks, create two 1/1 red Human creature "
+"tokens that are tapped and attacking."
+msgstr ""
+
+#: ../../EMN.rst:1214
+msgid "(Melds with Hanweir Battlements.)"
+msgstr ""
+
+#: ../../EMN.rst:1224
+msgid "Hanweir, the Writhing Township"
+msgstr ""
+
+#: ../../EMN.rst:1223
+msgid ""
+"Whenever Hanweir, the Writhing Township attacks, create two 3/2 colorless"
+" Eldrazi Horror creature tokens that are tapped and attacking."
+msgstr ""
+
+#: ../../EMN.rst:1231
+msgid "Harmless Offering"
+msgstr ""
+
+#: ../../EMN.rst:1230
+msgid "Target opponent gains control of target permanent you control."
+msgstr ""
+
+#: ../../EMN.rst:1242
+msgid "Impetuous Devils"
+msgstr ""
+
+#: ../../EMN.rst:1239
+msgid ""
+"When Impetuous Devils attacks, up to one target creature defending player"
+" controls blocks it this combat if able."
+msgstr ""
+
+#: ../../EMN.rst:1241
+msgid "At the beginning of the end step, sacrifice Impetuous Devils."
+msgstr ""
+
+#: ../../EMN.rst:1249
+msgid "Incendiary Flow"
+msgstr ""
+
+#: ../../EMN.rst:1248
+msgid ""
+"Incendiary Flow deals 3 damage to any target. If a creature dealt damage "
+"this way would die this turn, exile it instead."
+msgstr ""
+
+#: ../../EMN.rst:1258
+msgid "Insatiable Gorgers"
+msgstr ""
+
+#: ../../EMN.rst:1255
+msgid "Insatiable Gorgers attacks each combat if able."
+msgstr ""
+
+#: ../../EMN.rst:1257
+msgid ""
+"Madness |mana_3| |mana_r| (If you discard this card, discard it into "
+"exile. When you do, cast it for its madness cost or put it into your "
+"graveyard.)"
+msgstr ""
+
+#: ../../EMN.rst:1265
+msgid "Make Mischief"
+msgstr ""
+
+#: ../../EMN.rst:1264
+msgid ""
+"Make Mischief deals 1 damage to any target. Create a 1/1 red Devil "
+"creature token. It has \"When this creature dies, it deals 1 damage to "
+"any target.\""
+msgstr ""
+
+#: ../../EMN.rst:1274
+msgid "Mirrorwing Dragon"
+msgstr ""
+
+#: ../../EMN.rst:1273
+msgid ""
+"Whenever a player casts an instant or sorcery spell that targets only "
+"Mirrorwing Dragon, that player copies that spell for each other creature "
+"they control that the spell could target. Each copy targets a different "
+"one of those creatures."
+msgstr ""
+
+#: ../../EMN.rst:1283
+msgid "Nahiri's Wrath"
+msgstr ""
+
+#: ../../EMN.rst:1280
+msgid "As an additional cost to cast this spell, discard X cards."
+msgstr ""
+
+#: ../../EMN.rst:1282
+msgid ""
+"Nahiri's Wrath deals damage equal to the total converted mana cost of the"
+" discarded cards to each of up to X target creatures and/or "
+"planeswalkers."
+msgstr ""
+
+#: ../../EMN.rst:1290
+msgid "Otherworldly Outburst"
+msgstr ""
+
+#: ../../EMN.rst:1289
+msgid ""
+"Target creature gets +1/+0 until end of turn. When that creature dies "
+"this turn, create a 3/2 colorless Eldrazi Horror creature token."
+msgstr ""
+
+#: ../../EMN.rst:1299
+msgid "Prophetic Ravings"
+msgstr ""
+
+#: ../../EMN.rst:1298
+msgid "Enchanted creature has haste and \"|tap|, Discard a card: Draw a card.\""
+msgstr ""
+
+#: ../../EMN.rst:1314
+msgid "Savage Alliance"
+msgstr ""
+
+#: ../../EMN.rst:1309
+msgid "Creatures target player controls gain trample until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1311
+msgid "Savage Alliance deals 2 damage to target creature."
+msgstr ""
+
+#: ../../EMN.rst:1313
+msgid "Savage Alliance deals 1 damage to each creature target opponent controls."
+msgstr ""
+
+#: ../../EMN.rst:1321
+msgid "Shreds of Sanity"
+msgstr ""
+
+#: ../../EMN.rst:1320
+msgid ""
+"Return up to one target instant card and up to one target sorcery card "
+"from your graveyard to your hand, then discard a card. Exile Shreds of "
+"Sanity."
+msgstr ""
+
+#: ../../EMN.rst:1330
+msgid "Smoldering Werewolf"
+msgstr ""
+
+#: ../../EMN.rst:1327
+msgid ""
+"When Smoldering Werewolf enters the battlefield, it deals 1 damage to "
+"each of up to two target creatures."
+msgstr ""
+
+#: ../../EMN.rst:1329
+msgid "|mana_4| |mana_r| |mana_r|: Transform Smoldering Werewolf."
+msgstr ""
+
+#: ../../EMN.rst:1337
+msgid "Erupting Dreadwolf"
+msgstr ""
+
+#: ../../EMN.rst:1336
+msgid "Whenever Erupting Dreadwolf attacks, it deals 2 damage to any target."
+msgstr ""
+
+#: ../../EMN.rst:1344
+msgid "Spreading Flames"
+msgstr ""
+
+#: ../../EMN.rst:1343
+msgid ""
+"Spreading Flames deals 6 damage divided as you choose among any number of"
+" target creatures."
+msgstr ""
+
+#: ../../EMN.rst:1353
+msgid "Stensia Banquet"
+msgstr ""
+
+#: ../../EMN.rst:1350
+msgid ""
+"Stensia Banquet deals damage to target opponent or planeswalker equal to "
+"the number of Vampires you control."
+msgstr ""
+
+#: ../../EMN.rst:1360
+msgid "Stensia Innkeeper"
+msgstr ""
+
+#: ../../EMN.rst:1359
+msgid ""
+"When Stensia Innkeeper enters the battlefield, tap target land an "
+"opponent controls. That land doesn't untap during its controller's next "
+"untap step."
+msgstr ""
+
+#: ../../EMN.rst:1371
+msgid "Stromkirk Occultist"
+msgstr ""
+
+#: ../../EMN.rst:1368
+msgid ""
+"Whenever Stromkirk Occultist deals combat damage to a player, exile the "
+"top card of your library. Until end of turn, you may play that card."
+msgstr ""
+
+#: ../../EMN.rst:1382
+msgid "Thermo-Alchemist"
+msgstr ""
+
+#: ../../EMN.rst:1379
+msgid "|tap|: Thermo-Alchemist deals 1 damage to each opponent."
+msgstr ""
+
+#: ../../EMN.rst:1381
+msgid "Whenever you cast an instant or sorcery spell, untap Thermo-Alchemist."
+msgstr ""
+
+#: ../../EMN.rst:1393
+msgid "Vildin-Pack Outcast"
+msgstr ""
+
+#: ../../EMN.rst:1390
+msgid "|mana_r|: Vildin-Pack Outcast gets +1/-1 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1392
+msgid "|mana_5| |mana_r| |mana_r|: Transform Vildin-Pack Outcast."
+msgstr ""
+
+#: ../../EMN.rst:1402
+msgid "Dronepack Kindred"
+msgstr ""
+
+#: ../../EMN.rst:1401
+msgid "|mana_1|: Dronepack Kindred gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1411
+msgid "Weaver of Lightning"
+msgstr ""
+
+#: ../../EMN.rst:1408 ../../EMN.rst:1509 ../../EMN.rst:1534
+msgid "Reach"
+msgstr ""
+
+#: ../../EMN.rst:1410
+msgid ""
+"Whenever you cast an instant or sorcery spell, Weaver of Lightning deals "
+"1 damage to target creature an opponent controls."
+msgstr ""
+
+#: ../../EMN.rst:1418
+msgid "Backwoods Survivalists"
+msgstr ""
+
+#: ../../EMN.rst:1417
+msgid ""
+"Delirium — Backwoods Survivalists gets +1/+1 and has trample as long as "
+"there are four or more card types among cards in your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:1425
+msgid "Bloodbriar"
+msgstr ""
+
+#: ../../EMN.rst:1424
+msgid ""
+"Whenever you sacrifice another permanent, put a +1/+1 counter on "
+"Bloodbriar."
+msgstr ""
+
+#: ../../EMN.rst:1432
+msgid "Clear Shot"
+msgstr ""
+
+#: ../../EMN.rst:1431
+msgid ""
+"Target creature you control gets +1/+1 until end of turn. It deals damage"
+" equal to its power to target creature you don't control."
+msgstr ""
+
+#: ../../EMN.rst:1441
+msgid "Crop Sigil"
+msgstr ""
+
+#: ../../EMN.rst:1438
+msgid ""
+"At the beginning of your upkeep, you may put the top card of your library"
+" into your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:1440
+msgid ""
+"Delirium — |mana_2| |mana_g|, Sacrifice Crop Sigil: Return up to one "
+"target creature card and up to one target land card from your graveyard "
+"to your hand. Activate this ability only if there are four or more card "
+"types among cards in your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:1448
+msgid "Crossroads Consecrator"
+msgstr ""
+
+#: ../../EMN.rst:1447
+msgid "|mana_g|, |tap|: Target attacking Human gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1457
+msgid "Eldritch Evolution"
+msgstr ""
+
+#: ../../EMN.rst:1454
+msgid "As an additional cost to cast this spell, sacrifice a creature."
+msgstr ""
+
+#: ../../EMN.rst:1456
+msgid ""
+"Search your library for a creature card with converted mana cost X or "
+"less, where X is 2 plus the sacrificed creature's converted mana cost. "
+"Put that card onto the battlefield, then shuffle your library. Exile "
+"Eldritch Evolution."
+msgstr ""
+
+#: ../../EMN.rst:1464
+msgid "Emrakul's Evangel"
+msgstr ""
+
+#: ../../EMN.rst:1463
+msgid ""
+"|tap|, Sacrifice Emrakul's Evangel and any number of other non-Eldrazi "
+"creatures: Create a 3/2 colorless Eldrazi Horror creature token for each "
+"creature sacrificed this way."
+msgstr ""
+
+#: ../../EMN.rst:1471
+msgid "Emrakul's Influence"
+msgstr ""
+
+#: ../../EMN.rst:1470
+msgid ""
+"Whenever you cast an Eldrazi creature spell with converted mana cost 7 or"
+" greater, draw two cards."
+msgstr ""
+
+#: ../../EMN.rst:1480
+msgid "Foul Emissary"
+msgstr ""
+
+#: ../../EMN.rst:1477
+msgid ""
+"When Foul Emissary enters the battlefield, look at the top four cards of "
+"your library. You may reveal a creature card from among them and put it "
+"into your hand. Put the rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../EMN.rst:1479
+msgid ""
+"When you sacrifice Foul Emissary while casting a spell with emerge, "
+"create a 3/2 colorless Eldrazi Horror creature token."
+msgstr ""
+
+#: ../../EMN.rst:1489
+msgid "Gnarlwood Dryad"
+msgstr ""
+
+#: ../../EMN.rst:1486
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../EMN.rst:1488
+msgid ""
+"Delirium — Gnarlwood Dryad gets +2/+2 as long as there are four or more "
+"card types among cards in your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:1496
+msgid "Grapple with the Past"
+msgstr ""
+
+#: ../../EMN.rst:1495
+msgid ""
+"Put the top three cards of your library into your graveyard, then you may"
+" return a creature or land card from your graveyard to your hand."
+msgstr ""
+
+#: ../../EMN.rst:1503
+msgid "Hamlet Captain"
+msgstr ""
+
+#: ../../EMN.rst:1502
+msgid ""
+"Whenever Hamlet Captain attacks or blocks, other Humans you control get "
+"+1/+1 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1514
+msgid "Ishkanah, Grafwidow"
+msgstr ""
+
+#: ../../EMN.rst:1511
+msgid ""
+"Delirium — When Ishkanah, Grafwidow enters the battlefield, if there are "
+"four or more card types among cards in your graveyard, create three 1/2 "
+"green Spider creature tokens with reach."
+msgstr ""
+
+#: ../../EMN.rst:1513
+msgid ""
+"|mana_6| |mana_b|: Target opponent loses 1 life for each Spider you "
+"control."
+msgstr ""
+
+#: ../../EMN.rst:1521
+msgid "Kessig Prowler"
+msgstr ""
+
+#: ../../EMN.rst:1520
+msgid "|mana_4| |mana_g|: Transform Kessig Prowler."
+msgstr ""
+
+#: ../../EMN.rst:1528
+msgid "Sinuous Predator"
+msgstr ""
+
+#: ../../EMN.rst:1527
+msgid "Sinuous Predator can't be blocked by more than one creature."
+msgstr ""
+
+#: ../../EMN.rst:1537
+msgid "Noose Constrictor"
+msgstr ""
+
+#: ../../EMN.rst:1536
+msgid "Discard a card: Noose Constrictor gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1544
+msgid "Permeating Mass"
+msgstr ""
+
+#: ../../EMN.rst:1543
+msgid ""
+"Whenever Permeating Mass deals combat damage to a creature, that creature"
+" becomes a copy of Permeating Mass."
+msgstr ""
+
+#: ../../EMN.rst:1551
+msgid "Prey Upon"
+msgstr ""
+
+#: ../../EMN.rst:1550
+msgid ""
+"Target creature you control fights target creature you don't control. "
+"(Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../EMN.rst:1558
+msgid "Primal Druid"
+msgstr ""
+
+#: ../../EMN.rst:1557
+msgid ""
+"When Primal Druid dies, you may search your library for a basic land "
+"card, put it onto the battlefield tapped, then shuffle your library."
+msgstr ""
+
+#: ../../EMN.rst:1567
+msgid "Shrill Howler"
+msgstr ""
+
+#: ../../EMN.rst:1564
+msgid "Creatures with power less than Shrill Howler's power can't block it."
+msgstr ""
+
+#: ../../EMN.rst:1566
+msgid "|mana_5| |mana_g|: Transform Shrill Howler."
+msgstr ""
+
+#: ../../EMN.rst:1576
+msgid "Howling Chorus"
+msgstr ""
+
+#: ../../EMN.rst:1573
+msgid "Creatures with power less than Howling Chorus's power can't block it."
+msgstr ""
+
+#: ../../EMN.rst:1575
+msgid ""
+"Whenever Howling Chorus deals combat damage to a player, create a 3/2 "
+"colorless Eldrazi Horror creature token."
+msgstr ""
+
+#: ../../EMN.rst:1583
+msgid "Somberwald Stag"
+msgstr ""
+
+#: ../../EMN.rst:1582
+msgid ""
+"When Somberwald Stag enters the battlefield, you may have it fight target"
+" creature you don't control."
+msgstr ""
+
+#: ../../EMN.rst:1592
+msgid "Spirit of the Hunt"
+msgstr ""
+
+#: ../../EMN.rst:1591
+msgid ""
+"When Spirit of the Hunt enters the battlefield, each other creature you "
+"control that's a Wolf or a Werewolf gets +0/+3 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1599
+msgid "Splendid Reclamation"
+msgstr ""
+
+#: ../../EMN.rst:1598
+msgid "Return all land cards from your graveyard to the battlefield tapped."
+msgstr ""
+
+#: ../../EMN.rst:1606
+msgid "Springsage Ritual"
+msgstr ""
+
+#: ../../EMN.rst:1605
+msgid "Destroy target artifact or enchantment. You gain 4 life."
+msgstr ""
+
+#: ../../EMN.rst:1615
+msgid "Swift Spinner"
+msgstr ""
+
+#: ../../EMN.rst:1614
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../EMN.rst:1624
+msgid "Tangleclaw Werewolf"
+msgstr ""
+
+#: ../../EMN.rst:1621
+msgid "Tangleclaw Werewolf can block an additional creature each combat."
+msgstr ""
+
+#: ../../EMN.rst:1623
+msgid "|mana_6| |mana_g|: Transform Tangleclaw Werewolf."
+msgstr ""
+
+#: ../../EMN.rst:1635
+msgid "Fibrous Entangler"
+msgstr ""
+
+#: ../../EMN.rst:1630 ../../EMN.rst:1691
+msgid "Vigilance"
+msgstr ""
+
+#: ../../EMN.rst:1632
+msgid "Fibrous Entangler must be blocked if able."
+msgstr ""
+
+#: ../../EMN.rst:1634
+msgid "Fibrous Entangler can block an additional creature each combat."
+msgstr ""
+
+#: ../../EMN.rst:1646
+msgid "Ulvenwald Captive"
+msgstr ""
+
+#: ../../EMN.rst:1643
+msgid "|tap|: Add |mana_g|."
+msgstr ""
+
+#: ../../EMN.rst:1645
+msgid "|mana_5| |mana_g| |mana_g|: Transform Ulvenwald Captive."
+msgstr ""
+
+#: ../../EMN.rst:1653
+msgid "Ulvenwald Abomination"
+msgstr ""
+
+#: ../../EMN.rst:1652
+msgid "|tap|: Add |colorless| |colorless|."
+msgstr ""
+
+#: ../../EMN.rst:1660
+msgid "Ulvenwald Observer"
+msgstr ""
+
+#: ../../EMN.rst:1659
+msgid ""
+"Whenever a creature you control with toughness 4 or greater dies, draw a "
+"card."
+msgstr ""
+
+#: ../../EMN.rst:1667
+msgid "Waxing Moon"
+msgstr ""
+
+#: ../../EMN.rst:1666
+msgid ""
+"Transform up to one target Werewolf you control. Creatures you control "
+"gain trample until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1678
+msgid "Wolfkin Bond"
+msgstr ""
+
+#: ../../EMN.rst:1675
+msgid ""
+"When Wolfkin Bond enters the battlefield, create a 2/2 green Wolf "
+"creature token."
+msgstr ""
+
+#: ../../EMN.rst:1685
+msgid "Woodcutter's Grit"
+msgstr ""
+
+#: ../../EMN.rst:1684
+msgid ""
+"Target creature you control gets +3/+3 and gains hexproof until end of "
+"turn. (It can't be the target of spells or abilities your opponents "
+"control.)"
+msgstr ""
+
+#: ../../EMN.rst:1692
+msgid "Woodland Patrol"
+msgstr ""
+
+#: ../../EMN.rst:1701
+msgid "Bloodhall Priest"
+msgstr ""
+
+#: ../../EMN.rst:1698
+msgid ""
+"Whenever Bloodhall Priest enters the battlefield or attacks, if you have "
+"no cards in hand, Bloodhall Priest deals 2 damage to any target."
+msgstr ""
+
+#: ../../EMN.rst:1700
+msgid ""
+"Madness |mana_1| |mana_b| |mana_r| (If you discard this card, discard it "
+"into exile. When you do, cast it for its madness cost or put it into your"
+" graveyard.)"
+msgstr ""
+
+#: ../../EMN.rst:1708
+msgid "Campaign of Vengeance"
+msgstr ""
+
+#: ../../EMN.rst:1707
+msgid ""
+"Whenever a creature you control attacks, defending player loses 1 life "
+"and you gain 1 life."
+msgstr ""
+
+#: ../../EMN.rst:1717
+msgid "Gisa and Geralf"
+msgstr ""
+
+#: ../../EMN.rst:1714
+msgid ""
+"When Gisa and Geralf enters the battlefield, put the top four cards of "
+"your library into your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:1716
+msgid ""
+"During each of your turns, you may cast a Zombie creature card from your "
+"graveyard."
+msgstr ""
+
+#: ../../EMN.rst:1728
+msgid "Grim Flayer"
+msgstr ""
+
+#: ../../EMN.rst:1725
+msgid ""
+"Whenever Grim Flayer deals combat damage to a player, look at the top "
+"three cards of your library. Put any number of them into your graveyard "
+"and the rest back on top of your library in any order."
+msgstr ""
+
+#: ../../EMN.rst:1727
+msgid ""
+"Delirium — Grim Flayer gets +2/+2 as long as there are four or more card "
+"types among cards in your graveyard."
+msgstr ""
+
+#: ../../EMN.rst:1739
+msgid "Heron's Grace Champion"
+msgstr ""
+
+#: ../../EMN.rst:1738
+msgid ""
+"When Heron's Grace Champion enters the battlefield, other Humans you "
+"control get +1/+1 and gain lifelink until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1748
+msgid "Mercurial Geists"
+msgstr ""
+
+#: ../../EMN.rst:1747
+msgid ""
+"Whenever you cast an instant or sorcery spell, Mercurial Geists gets "
+"+3/+0 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1757
+msgid "Mournwillow"
+msgstr ""
+
+#: ../../EMN.rst:1756
+msgid ""
+"Delirium — When Mournwillow enters the battlefield, if there are four or "
+"more card types among cards in your graveyard, creatures with power 2 or "
+"less can't block this turn."
+msgstr ""
+
+#: ../../EMN.rst:1764
+msgid "Ride Down"
+msgstr ""
+
+#: ../../EMN.rst:1763
+msgid ""
+"Destroy target blocking creature. Creatures that were blocked by that "
+"creature this combat gain trample until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1777
+msgid "Spell Queller"
+msgstr ""
+
+#: ../../EMN.rst:1774
+msgid ""
+"When Spell Queller enters the battlefield, exile target spell with "
+"converted mana cost 4 or less."
+msgstr ""
+
+#: ../../EMN.rst:1776
+msgid ""
+"When Spell Queller leaves the battlefield, the exiled card's owner may "
+"cast that card without paying its mana cost."
+msgstr ""
+
+#: ../../EMN.rst:1788
+msgid "Tamiyo, Field Researcher"
+msgstr ""
+
+#: ../../EMN.rst:1783
+msgid ""
+"+1: Choose up to two target creatures. Until your next turn, whenever "
+"either of those creatures deals combat damage, you draw a card."
+msgstr ""
+
+#: ../../EMN.rst:1785
+msgid ""
+"−2: Tap up to two target nonland permanents. They don't untap during "
+"their controller's next untap step."
+msgstr ""
+
+#: ../../EMN.rst:1787
+msgid ""
+"−7: Draw three cards. You get an emblem with \"You may cast spells from "
+"your hand without paying their mana costs.\""
+msgstr ""
+
+#: ../../EMN.rst:1797
+msgid "Ulrich of the Krallenhorde"
+msgstr ""
+
+#: ../../EMN.rst:1794
+msgid ""
+"Whenever this creature enters the battlefield or transforms into Ulrich "
+"of the Krallenhorde, target creature gets +4/+4 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1796
+msgid ""
+"At the beginning of each upkeep, if no spells were cast last turn, "
+"transform Ulrich of the Krallenhorde."
+msgstr ""
+
+#: ../../EMN.rst:1806
+msgid "Ulrich, Uncontested Alpha"
+msgstr ""
+
+#: ../../EMN.rst:1803
+msgid ""
+"Whenever this creature transforms into Ulrich, Uncontested Alpha, you may"
+" have it fight target non-Werewolf creature you don't control."
+msgstr ""
+
+#: ../../EMN.rst:1805
+msgid ""
+"At the beginning of each upkeep, if a player cast two or more spells last"
+" turn, transform Ulrich, Uncontested Alpha."
+msgstr ""
+
+#: ../../EMN.rst:1815
+msgid "Cathar's Shield"
+msgstr ""
+
+#: ../../EMN.rst:1812
+msgid "Equipped creature gets +0/+3 and has vigilance."
+msgstr ""
+
+#: ../../EMN.rst:1814 ../../EMN.rst:1843
+msgid ""
+"Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip "
+"only as a sorcery.)"
+msgstr ""
+
+#: ../../EMN.rst:1826
+msgid "Cryptolith Fragment"
+msgstr ""
+
+#: ../../EMN.rst:1821
+msgid "Cryptolith Fragment enters the battlefield tapped."
+msgstr ""
+
+#: ../../EMN.rst:1823
+msgid "|tap|: Add one mana of any color. Each player loses 1 life."
+msgstr ""
+
+#: ../../EMN.rst:1825
+msgid ""
+"At the beginning of your upkeep, if each player has 10 or less life, "
+"transform Cryptolith Fragment."
+msgstr ""
+
+#: ../../EMN.rst:1835
+msgid "Aurora of Emrakul"
+msgstr ""
+
+#: ../../EMN.rst:1832
+msgid "Flying, deathtouch"
+msgstr ""
+
+#: ../../EMN.rst:1834
+msgid "Whenever Aurora of Emrakul attacks, each opponent loses 3 life."
+msgstr ""
+
+#: ../../EMN.rst:1844
+msgid "Cultist's Staff"
+msgstr ""
+
+#: ../../EMN.rst:1841
+msgid "Equipped creature gets +2/+2."
+msgstr ""
+
+#: ../../EMN.rst:1849
+msgid "Field Creeper"
+msgstr ""
+
+#: ../../EMN.rst:1858
+msgid "Geist-Fueled Scarecrow"
+msgstr ""
+
+#: ../../EMN.rst:1857
+msgid "Creature spells you cast cost |mana_1| more to cast."
+msgstr ""
+
+#: ../../EMN.rst:1865
+msgid "Lupine Prototype"
+msgstr ""
+
+#: ../../EMN.rst:1864
+msgid ""
+"Lupine Prototype can't attack or block unless a player has no cards in "
+"hand."
+msgstr ""
+
+#: ../../EMN.rst:1874
+msgid "Slayer's Cleaver"
+msgstr ""
+
+#: ../../EMN.rst:1871
+msgid "Equipped creature gets +3/+1 and must be blocked by an Eldrazi if able."
+msgstr ""
+
+#: ../../EMN.rst:1873
+msgid "Equip |mana_4|"
+msgstr ""
+
+#: ../../EMN.rst:1881
+msgid "Soul Separator"
+msgstr ""
+
+#: ../../EMN.rst:1880
+msgid ""
+"|mana_5|, |tap|, Sacrifice Soul Separator: Exile target creature card "
+"from your graveyard. Create a token that's a copy of that card, except "
+"it's 1/1, it's a Spirit in addition to its other types, and it has "
+"flying. Create a black Zombie creature token with power equal to that "
+"card's power and toughness equal to that card's toughness."
+msgstr ""
+
+#: ../../EMN.rst:1894
+msgid "Stitcher's Graft"
+msgstr ""
+
+#: ../../EMN.rst:1887
+msgid "Equipped creature gets +3/+3."
+msgstr ""
+
+#: ../../EMN.rst:1889
+msgid ""
+"Whenever equipped creature attacks, it doesn't untap during its "
+"controller's next untap step."
+msgstr ""
+
+#: ../../EMN.rst:1891
+msgid ""
+"Whenever Stitcher's Graft becomes unattached from a permanent, sacrifice "
+"that permanent."
+msgstr ""
+
+#: ../../EMN.rst:1893 ../../EMN.rst:1915
+msgid "Equip |mana_2|"
+msgstr ""
+
+#: ../../EMN.rst:1905
+msgid "Terrarion"
+msgstr ""
+
+#: ../../EMN.rst:1900
+msgid "Terrarion enters the battlefield tapped."
+msgstr ""
+
+#: ../../EMN.rst:1902
+msgid ""
+"|mana_2|, |tap|, Sacrifice Terrarion: Add two mana in any combination of "
+"colors."
+msgstr ""
+
+#: ../../EMN.rst:1904
+msgid "When Terrarion is put into a graveyard from the battlefield, draw a card."
+msgstr ""
+
+#: ../../EMN.rst:1916
+msgid "Thirsting Axe"
+msgstr ""
+
+#: ../../EMN.rst:1911
+msgid "Equipped creature gets +4/+0."
+msgstr ""
+
+#: ../../EMN.rst:1913
+msgid ""
+"At the beginning of your end step, if equipped creature didn't deal "
+"combat damage to a creature this turn, sacrifice it."
+msgstr ""
+
+#: ../../EMN.rst:1925
+msgid "Geier Reach Sanitarium"
+msgstr ""
+
+#: ../../EMN.rst:1922 ../../EMN.rst:1931 ../../EMN.rst:1944
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../EMN.rst:1924
+msgid "|mana_2|, |tap|: Each player draws a card, then discards a card."
+msgstr ""
+
+#: ../../EMN.rst:1936
+msgid "Hanweir Battlements"
+msgstr ""
+
+#: ../../EMN.rst:1933
+msgid "|mana_r|, |tap|: Target creature gains haste until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1935
+msgid ""
+"|mana_3| |mana_r| |mana_r|, |tap|: If you both own and control Hanweir "
+"Battlements and a creature named Hanweir Garrison, exile them, then meld "
+"them into Hanweir, the Writhing Township."
+msgstr ""
+
+#: ../../EMN.rst:1944
+msgid "Nephalia Academy"
+msgstr ""
+
+#: ../../EMN.rst:1942
+msgid ""
+"If a spell or ability an opponent controls causes you to discard a card, "
+"you may reveal that card and put it on top of your library instead of "
+"putting it anywhere else."
+msgstr ""
+
