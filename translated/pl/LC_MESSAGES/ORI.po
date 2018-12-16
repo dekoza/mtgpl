@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 13:17+0100\n"
-"PO-Revision-Date: 2018-12-16 09:38+0000\n"
+"PO-Revision-Date: 2018-12-16 11:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -379,7 +379,7 @@ msgstr ""
 
 #: ../../ORI.rst:160 ../../ORI.rst:578 ../../ORI.rst:598 ../../ORI.rst:636
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../ORI.rst:167
 msgid "Bounding Krasis"
@@ -1123,7 +1123,7 @@ msgstr ""
 
 #: ../../ORI.rst:494 ../../ORI.rst:1082
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../ORI.rst:496
 msgid ""
@@ -1398,8 +1398,9 @@ msgid "Whenever you cast an enchantment spell, you gain 1 life."
 msgstr ""
 
 #: ../../ORI.rst:619
+#, fuzzy
 msgid "Hitchclaw Recluse"
-msgstr ""
+msgstr "Hitchclaw Recluse"
 
 #: ../../ORI.rst:618 ../../ORI.rst:1178 ../../ORI.rst:1184
 msgid "Reach (This creature can block creatures with flying.)"
@@ -1700,7 +1701,7 @@ msgstr ""
 
 #: ../../ORI.rst:764
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../ORI.rst:766
 msgid ""
@@ -1842,13 +1843,16 @@ msgid "|tap|: Add one mana of any color to your mana pool."
 msgstr ""
 
 #: ../../ORI.rst:843
+#, fuzzy
 msgid "Might of the Masses"
-msgstr ""
+msgstr "Might of the Masses"
 
 #: ../../ORI.rst:842
 msgid ""
 "Target creature gets +1/+1 until end of turn for each creature you control."
 msgstr ""
+"Wskazany stwór do końca tury dostaje +1/+1 za każdego stwora pod twoim "
+"władaniem."
 
 #: ../../ORI.rst:847
 msgid "Mighty Leap"
@@ -2123,7 +2127,7 @@ msgstr ""
 
 #: ../../ORI.rst:968
 msgid "Destroy target creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z lataniem."
 
 #: ../../ORI.rst:975
 msgid "Possessed Skaab"
@@ -2942,7 +2946,7 @@ msgstr ""
 
 #: ../../ORI.rst:1374
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../ORI.rst:1376
 msgid ""
