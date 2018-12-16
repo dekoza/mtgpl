@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dtk/pl/>\n"
 "Language: pl\n"
@@ -141,6 +141,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo życia.)"
 
 #: ../../DTK.rst:62
 msgid "Dragon Hunter"
@@ -2845,7 +2847,7 @@ msgstr ""
 
 #: ../../DTK.rst:1339
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../DTK.rst:1341
 msgid ""
@@ -2992,7 +2994,7 @@ msgstr ""
 
 #: ../../DTK.rst:1401
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../DTK.rst:1403
 msgid ""
@@ -3008,20 +3010,20 @@ msgstr ""
 
 #: ../../DTK.rst:1408 ../../DTK.rst:1412 ../../DTK.rst:1416
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 #: ../../DTK.rst:1420 ../../DTK.rst:1424 ../../DTK.rst:1428
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 #: ../../DTK.rst:1432 ../../DTK.rst:1436 ../../DTK.rst:1440
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 #: ../../DTK.rst:1444 ../../DTK.rst:1448 ../../DTK.rst:1452
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 #: ../../DTK.rst:1456 ../../DTK.rst:1460 ../../DTK.rst:1464
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
