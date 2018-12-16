@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 21:03+0000\n"
+"PO-Revision-Date: 2018-12-16 21:55+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -1544,11 +1544,11 @@ msgstr ""
 
 # d0a5aa8ce0e54ee09400a3ccf8391db3
 #: ../../GTC.rst:842
-#, fuzzy
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
-"Ripscale Predator może być zablokowany tylko przez dwa lub więcej stworów."
+"Złowrogi (Ten stwór nie może być zablokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 # 01c0787c1c2044d4bdd1d776d1977983
 #: ../../GTC.rst:850
@@ -3021,8 +3021,9 @@ msgstr ""
 
 # 9cbd60d14b2a43dc923b0cb12c612f5d
 #: ../../GTC.rst:1639
+#, fuzzy
 msgid "Skyknight Legionnaire"
-msgstr ""
+msgstr "Skyknight Legionnaire"
 
 # 5d518b0dd9034486be617cbabe0b0eed
 #: ../../GTC.rst:1638
@@ -3473,9 +3474,8 @@ msgstr ""
 # bff66d62cb8c4261beabef069ab620f7
 # 039bc15b180c4a04bb01b657ce4c4c1b
 #: ../../GTC.rst:1878 ../../GTC.rst:1984
-#, fuzzy
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dodaj |mana_r| lub |mana_w| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 # 8e33418d001b4ceea85ef29d599598e7
 #: ../../GTC.rst:1880
@@ -3496,9 +3496,8 @@ msgstr ""
 # e7c599ebd26846a68b519e23a5c268cb
 # ce2f83c9691f4a0283fca8f6bf8805e3
 #: ../../GTC.rst:1887 ../../GTC.rst:2002
-#, fuzzy
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dodaj |mana_u| lub |mana_b| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 # b72a64c0b4ac4eddb1c0154c72e863ea
 #: ../../GTC.rst:1889
