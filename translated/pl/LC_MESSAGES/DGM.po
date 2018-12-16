@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 09:38+0000\n"
+"PO-Revision-Date: 2018-12-16 11:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -268,7 +268,7 @@ msgstr "Murmuring Phantasm (Mamroczące Widmo)"
 # 66f0edff57394f7485ef7532538cad13
 #: ../../DGM.rst:122 ../../DGM.rst:198 ../../DGM.rst:710
 msgid "Defender"
-msgstr "Obronność"
+msgstr "Obrońca"
 
 # 53c6108f4cbd4aa9b570b17fb1567fb4
 #: ../../DGM.rst:130
@@ -784,9 +784,8 @@ msgstr "Błysk"
 
 # 003f55c241cf47bebadf193a0d3d542f
 #: ../../DGM.rst:392
-#, fuzzy
 msgid "This spell can't be countered."
-msgstr "Skylasher nie może zostać skontrowany."
+msgstr "Ten czar nie może być skontrowany."
 
 # 41eb3b2a11f24206af3f2a3e3fed0297
 #: ../../DGM.rst:394
@@ -2133,7 +2132,7 @@ msgstr ""
 # 772cb560d82841e8a7fb052982cb4da9
 #: ../../DGM.rst:1090
 msgid "Return target creature to its owner's hand."
-msgstr "Przywróć wskazanego stwora do ręki jego właściciela."
+msgstr "Zwróć wskazanego stwora do ręki jego władcy."
 
 #: ../../DGM.rst:1102
 msgid "Away"
