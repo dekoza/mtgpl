@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -616,7 +616,7 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
-"Więź życia (Obrażenia zadane przez tego stwora powodują, że zyskujesz tyle "
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
 "samo życia.)"
 
 # e8fea17ac678425881fb34b5d65037af
@@ -683,7 +683,7 @@ msgstr ""
 # 998f4a8d44a34309939aba498e92e908
 #: ../../M15.rst:233
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr ""
+msgstr "Czujność (Atakowanie nie powoduje zaznaczenia tego stwora.)"
 
 # e7fd19fec3b849b5bcf44d315d929465
 #: ../../M15.rst:235
@@ -876,6 +876,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bitewne w gracza lub "
+"wędrowca, którego atakuje.)"
 
 # 0e6ca449513740b985bd186bdf041bfd
 #: ../../M15.rst:305
@@ -3316,7 +3318,7 @@ msgstr ""
 #: ../../M15.rst:1261 ../../M15.rst:1267 ../../M15.rst:1275 ../../M15.rst:1283
 #: ../../M15.rst:1291 ../../M15.rst:1295 ../../M15.rst:1301 ../../M15.rst:1313
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../M15.rst:1263
 msgid ""
@@ -3425,17 +3427,17 @@ msgstr ""
 # 4b183216e0924ef09e95177f60bd6aed
 #: ../../M15.rst:1318 ../../M15.rst:1322 ../../M15.rst:1326 ../../M15.rst:1330
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 # 86dd4a56237346a9b492d9e6b4205319
 #: ../../M15.rst:1334 ../../M15.rst:1338 ../../M15.rst:1342 ../../M15.rst:1346
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 # ae5c4182684a449ca6ab9b509b51db4d
 #: ../../M15.rst:1350 ../../M15.rst:1354 ../../M15.rst:1358 ../../M15.rst:1362
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 # b6066fbf1ab74dc8a73378a4f89aa01b
 #: ../../M15.rst:1366 ../../M15.rst:1370 ../../M15.rst:1374 ../../M15.rst:1378
@@ -3445,7 +3447,7 @@ msgstr "Mountain (Góra)"
 # 9b72a8cb1b44453598b01424add96669
 #: ../../M15.rst:1382 ../../M15.rst:1386 ../../M15.rst:1390 ../../M15.rst:1394
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
 
 # 9a22be02cf754e07a20492dde06748a1
 #: ../../M15.rst:1402
