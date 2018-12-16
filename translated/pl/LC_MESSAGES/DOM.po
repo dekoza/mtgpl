@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
@@ -2852,7 +2852,7 @@ msgstr ""
 
 #: ../../DOM.rst:1333 ../../DOM.rst:1411
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../DOM.rst:1335
 msgid "|mana_3|, |tap|: Add |mana_b| for each basic Swamp you control."
@@ -2997,7 +2997,7 @@ msgstr ""
 
 #: ../../DOM.rst:1399
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../DOM.rst:1406
 msgid "Woodland Cemetery"
@@ -3011,7 +3011,7 @@ msgstr ""
 
 #: ../../DOM.rst:1405
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../DOM.rst:1412
 msgid "Zhalfirin Void"
@@ -3025,23 +3025,23 @@ msgstr ""
 
 #: ../../DOM.rst:1414 ../../DOM.rst:1418 ../../DOM.rst:1422 ../../DOM.rst:1426
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 #: ../../DOM.rst:1430 ../../DOM.rst:1434 ../../DOM.rst:1438 ../../DOM.rst:1442
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 #: ../../DOM.rst:1446 ../../DOM.rst:1450 ../../DOM.rst:1454 ../../DOM.rst:1458
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 #: ../../DOM.rst:1462 ../../DOM.rst:1466 ../../DOM.rst:1470 ../../DOM.rst:1474
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 #: ../../DOM.rst:1478 ../../DOM.rst:1482 ../../DOM.rst:1486 ../../DOM.rst:1490
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
 
 #: ../../DOM.rst:1500
 msgid "Teferi, Timebender"
