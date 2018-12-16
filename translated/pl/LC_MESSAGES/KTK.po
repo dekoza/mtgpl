@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 09:38+0000\n"
+"PO-Revision-Date: 2018-12-16 11:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -117,7 +117,7 @@ msgstr "Dazzling Ramparts"
 # f2f3940b11ad4f25be97ccf170b1616b
 #: ../../KTK.rst:55 ../../KTK.rst:637 ../../KTK.rst:1071
 msgid "Defender"
-msgstr "Obronność"
+msgstr "Obrońca"
 
 # c44180e848114ad0b9e5d73e0d9174cc
 #: ../../KTK.rst:57
@@ -680,7 +680,7 @@ msgstr "Force Away"
 # 4f6f8d818b524c0fbe44565b7821bcd2
 #: ../../KTK.rst:327
 msgid "Return target creature to its owner's hand."
-msgstr "Przywróć wskazanego stwora do ręki jego właściciela."
+msgstr "Zwróć wskazanego stwora do ręki jego władcy."
 
 # 40788170bc4e4d1c806b534aec292ea5
 #: ../../KTK.rst:329
@@ -841,9 +841,8 @@ msgstr "Błysk"
 
 # 66cac1f2c05446919d4f14174870842f
 #: ../../KTK.rst:410 ../../KTK.rst:1737
-#, fuzzy
 msgid "This spell can't be countered."
-msgstr "Przedwieczny z Perłowego Jeziora nie może być skontrowany."
+msgstr "Ten czar nie może być skontrowany."
 
 # 1927f69202804192ac4267486ed63ef4
 #: ../../KTK.rst:414
@@ -1397,7 +1396,7 @@ msgstr "Ruthless Ripper"
 # 713192456962424882d6ab201290f9f3
 #: ../../KTK.rst:737 ../../KTK.rst:1119
 msgid "Deathtouch"
-msgstr "Dotyk Śmierci"
+msgstr "Dotyk śmierci"
 
 # 402561123bc54bc1bf03e416995fbbca
 #: ../../KTK.rst:739
@@ -2859,7 +2858,7 @@ msgstr "Highspire Mantis"
 # 925e1c22e8794873ab4ee7f76b98ca87
 #: ../../KTK.rst:1480
 msgid "Flying, trample"
-msgstr "Latanie, Tratowanie"
+msgstr "Latanie, tratowanie"
 
 # eed70bb350514504b81cb4b58e81b847
 #: ../../KTK.rst:1492
