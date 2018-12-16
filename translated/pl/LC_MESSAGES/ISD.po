@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 16:56+0000\n"
+"PO-Revision-Date: 2018-12-16 18:23+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
@@ -885,6 +885,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być celem czarów i zdolności władanych przez "
+"twoich przeciwników.)"
 
 # 29b6526039f642408ece8030bd89bae2
 #: ../../ISD.rst:513
@@ -2885,8 +2887,9 @@ msgstr ""
 
 # 28110d0237c74257b993d8bc51971164
 #: ../../ISD.rst:1788
+#, fuzzy
 msgid "Prey Upon"
-msgstr ""
+msgstr "Prey Upon"
 
 # 137bd7bbc5644a01a03061f27c730336
 #: ../../ISD.rst:1787
