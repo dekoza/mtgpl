@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 09:38+0000\n"
+"PO-Revision-Date: 2018-12-16 11:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/frf/pl/>\n"
 "Language: pl\n"
@@ -337,7 +337,7 @@ msgstr "Błysk (Możesz rzucić ten czar w momencie, gdy możesz rzucić sztuczk
 # 3a23b46f46a4481f89eae32c4159fdff
 #: ../../FRF.rst:134 ../../FRF.rst:1065
 msgid "Defender"
-msgstr "Obronność"
+msgstr "Obrońca"
 
 # a98815eeeb764e1287e4564fe538b799
 #: ../../FRF.rst:136
@@ -567,7 +567,7 @@ msgstr "Soulfire Grand Master"
 # 42d4055cacf9492d9dde6a425a193b54
 #: ../../FRF.rst:238
 msgid "Lifelink"
-msgstr "Więź Życia"
+msgstr "Więź życia"
 
 # 6467e19207bc4f5ba1b85705d5bd207c
 #: ../../FRF.rst:240
@@ -656,7 +656,7 @@ msgstr "Połóż znacznik +1/+1 na Aven Surveyor."
 # f09aeef18f0d444a8f6f356bea48b545
 #: ../../FRF.rst:282
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki jego właściciela."
+msgstr "Zwróć wskazanego stwora do ręki jego władcy."
 
 # d4fa2caa52e147a2bc1a36f485227699
 #: ../../FRF.rst:292
@@ -1736,9 +1736,8 @@ msgstr "Collateral Damage"
 
 # 34b70c41a9df4c8e86b5eb879e5f7240
 #: ../../FRF.rst:814
-#, fuzzy
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr "Jako dodatkowy koszt rzucenia Collateral Damage, poświęć stwora."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 # 2563785e08e449bf8ff95dcc49ccd485
 #: ../../FRF.rst:816
@@ -1842,7 +1841,7 @@ msgstr "Flamewake Phoenix"
 # 651a951868614966845640a836e606f4
 #: ../../FRF.rst:857
 msgid "Flying, haste"
-msgstr "Latanie, Pośpiech"
+msgstr "Latanie, pośpiech"
 
 # 27bb3a9f4ad5436ab30a1c42f6fd8589
 #: ../../FRF.rst:859
@@ -2759,7 +2758,7 @@ msgstr "Atarka, World Render"
 # 65d099b46ef3418ca8a56c3f4d7e0b23
 #: ../../FRF.rst:1278
 msgid "Flying, trample"
-msgstr "Latanie, Tratowanie"
+msgstr "Latanie, tratowanie"
 
 # 9c18d5b2af1d41418b4a2864d2067197
 #: ../../FRF.rst:1280
