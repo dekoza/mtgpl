@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 13:17+0100\n"
-"PO-Revision-Date: 2018-12-16 17:58+0000\n"
+"PO-Revision-Date: 2018-12-16 18:23+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -32,6 +32,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
+"Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
+"do końca tury.)"
 
 #: ../../ORI.rst:10
 msgid ""
@@ -60,17 +62,21 @@ msgstr ""
 
 #: ../../ORI.rst:21
 msgid "Act of Treason"
-msgstr ""
+msgstr "Act of Treason (Akt zdrady)"
 
 #: ../../ORI.rst:20
 msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odznacz owego "
+"stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej "
+"turze.)"
 
 #: ../../ORI.rst:27
+#, fuzzy
 msgid "Aegis Angel"
-msgstr ""
+msgstr "Aegis Angel"
 
 #: ../../ORI.rst:24 ../../ORI.rst:98 ../../ORI.rst:116 ../../ORI.rst:230
 #: ../../ORI.rst:436 ../../ORI.rst:442 ../../ORI.rst:812 ../../ORI.rst:888
@@ -80,6 +86,8 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
 msgstr ""
+"Latanie (Ten stwór nie może być blokowany za wyjątkiem stworów z lataniem i "
+"zasięgiem.)"
 
 #: ../../ORI.rst:26
 msgid ""
