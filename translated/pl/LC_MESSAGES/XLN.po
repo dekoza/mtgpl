@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 15:06+0000\n"
+"PO-Revision-Date: 2018-12-16 16:56+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -2028,6 +2028,8 @@ msgstr ""
 #: ../../XLN.rst:1622
 msgid "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem, którym nie "
+"władasz. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../XLN.rst:1630
 msgid "Ranging Raptors"
@@ -2519,7 +2521,7 @@ msgstr ""
 
 #: ../../XLN.rst:2011
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie sztuczek i guseł kosztuje cię |mana_1| mniej."
 
 #: ../../XLN.rst:2013
 msgid "Whenever you cast an instant or sorcery spell, put a charge counter on Primal Amulet. Then if there are four or more charge counters on it, you may remove those counters and transform it."
