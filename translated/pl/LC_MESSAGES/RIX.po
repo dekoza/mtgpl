@@ -3,19 +3,21 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2018-12-16 00:05+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 
 #: ../../RIX.rst:5
 msgid "Rivals of Ixalan"
@@ -68,15 +70,15 @@ msgstr ""
 
 #: ../../RIX.rst:37 ../../RIX.rst:642 ../../RIX.rst:805
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../RIX.rst:39
 msgid "Destroy target Vampire."
-msgstr ""
+msgstr "Zniszcz wskazanego Wampira."
 
 #: ../../RIX.rst:41
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../RIX.rst:49
 msgid "Divine Verdict"
@@ -103,7 +105,7 @@ msgstr ""
 #: ../../RIX.rst:739 ../../RIX.rst:750 ../../RIX.rst:926 ../../RIX.rst:1275
 #: ../../RIX.rst:1459
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../RIX.rst:72
 msgid "Famished Paladin"
@@ -160,7 +162,7 @@ msgstr ""
 #: ../../RIX.rst:101 ../../RIX.rst:208 ../../RIX.rst:294 ../../RIX.rst:417
 #: ../../RIX.rst:514 ../../RIX.rst:935 ../../RIX.rst:1001
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../RIX.rst:103
 msgid "Enchanted creature can't attack or block."
@@ -1950,7 +1952,7 @@ msgstr ""
 
 #: ../../RIX.rst:1450
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../RIX.rst:1452
 msgid "Relentless Raptor attacks or blocks each combat if able."
