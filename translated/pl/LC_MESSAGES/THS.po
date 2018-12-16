@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 21:03+0000\n"
+"PO-Revision-Date: 2018-12-16 21:55+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -2804,12 +2804,11 @@ msgstr ""
 # 9fd51fa751794a389da53d4c51b67625
 # 93e1ff658c6f402fa5480674ca1bb789
 #: ../../THS.rst:1153
-#, fuzzy
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
-"Zauroczony stwór dostaje +3/+3 i może być blokowany tylko przez co najmniej "
-"dwa stwory."
+"Złowrogi (Ten stwór nie może być zablokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 # ad4827eece2c49b5889ba2f670813a52
 # bb0b4e012f9e445a9748e4364943b918
@@ -3680,9 +3679,8 @@ msgstr "Obronność, antyklątwa"
 # 1bc8a102f11e4d37b7bbc95105fd63d0
 # f2eef534d824492cb514ecf7193a9277
 #: ../../THS.rst:1531 ../../THS.rst:1861
-#, fuzzy
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dodaj jedną manę dowolnego koloru do twojej puli many."
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 # 297098552d9245d8aa54d93015e5e587
 # 0f354fc9a2bc438fa27b4bfa32012ba0
@@ -4643,9 +4641,8 @@ msgstr ""
 # 76bd4645501f4b8b8e98800903d443c3
 # fb834ee568ba41d396836e0f88e4edda
 #: ../../THS.rst:1926
-#, fuzzy
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dodaj |mana_u| lub |mana_b| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 # 4900501ad0f64726aec1fc0c15c06ff9
 # bc05eab7f2da40dda00b7abc362c5dff
@@ -4733,9 +4730,8 @@ msgstr ""
 # a7cb8981229b4072b35262b19517af3c
 # d63db26bd91346d5babc001fbe168910
 #: ../../THS.rst:1959
-#, fuzzy
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dodaj |mana_r| lub |mana_w| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 # cb4bd7e4e9c14a0c8e007f4b1f76f3ef
 # 4dd417bc8b164844911e9b81879193eb
