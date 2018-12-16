@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -149,7 +149,7 @@ msgid ""
 "opponent controls until Chained to the Rocks leaves the battlefield. (That "
 "creature returns under its owner's control.)"
 msgstr ""
-"Kiedy Chained to the Rocks wchodzi na pole walki, wypędź wskazanego stwora "
+"Kiedy Chained to the Rocks wchodzi na pole walki, wygnaj wskazanego stwora "
 "władanego przez przeciwnika dopóki Chained to the Rocks nie opuści pola "
 "walki. (Ów stwór wraca pod władanie swojego właściciela.)"
 
@@ -234,8 +234,8 @@ msgid ""
 "|mana_1| |mana_w|: Prevent the next 1 combat damage that would be dealt to "
 "you this turn."
 msgstr ""
-"|mana_1| |mana_w|: Zażegnaj następne 1 obrażenie bojowe, które może zostać "
-"ci zadane w tej turze."
+"|mana_1| |mana_w|: Zażegnaj następne 1 obrażenie bojowe, które może ci "
+"zostać zadane w tej turze."
 
 # 7a34e8002bc24e8f88ceaeb2182dbb12
 # 2981a527206b4932acb697cab5f48004
@@ -386,7 +386,7 @@ msgstr "Glare of Heresy"
 # 80c52a09f38640db914f732667287565
 #: ../../THS.rst:87
 msgid "Exile target white permanent."
-msgstr "Wypędź wskazany biały permanent."
+msgstr "Wygnaj wskazany biały permanent."
 
 # 6553d3514bbd46398e9a795dfb7aac7b
 # 8c91fbc8eb69473bbd7a70c70c7477d2
@@ -521,7 +521,7 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
-"Więź Życia (Obrażenia zadane przez tego stwora powodują, że zyskujesz tyle "
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
 "samo życia.)"
 
 # 5309c4bceea440aaa9d4b7f64fc9e9dd
@@ -594,7 +594,7 @@ msgstr "Last Breath (Ostatnie Tchnienie)"
 msgid ""
 "Exile target creature with power 2 or less. Its controller gains 4 life."
 msgstr ""
-"Wypędź wskazanego stwora o sile 2 lub mniej. Jego władca zyskuje 4 życia."
+"Wygnaj wskazanego stwora o sile 2 lub mniejszej. Jego władca zyskuje 4 życia."
 
 # 7c70ff02341e49f8a8b7877ad2bf72be
 # 4d926b6915dc4632a7699d0f618def74
@@ -1001,13 +1001,12 @@ msgstr "Curse of the Swine (Klątwa świni)"
 # ea4ff623756645a99d44799e1a8564e8
 # 652a4ac60293471f9ba19efa0d7b33f4
 #: ../../THS.rst:255
-#, fuzzy
 msgid ""
 "Exile X target creatures. For each creature exiled this way, its controller "
 "creates a 2/2 green Boar creature token."
 msgstr ""
-"Wypędź X wskazanych stworów. Za każdego stwora wypędzonego w ten sposób, "
-"jego władca wkłada na pole walki żeton zielonego stwora Boar 2/2."
+"Wygnaj X wskazanych stworów. Za każdego stwora wygnanego w ten sposób, jego "
+"władca tworzy żeton zielonego stwora Knur 2/2."
 
 # 3bc80ab481184ddbbbb9f96092f9e09c
 # f1311703a5a449479e6777dfc4cdccf3
@@ -1615,7 +1614,7 @@ msgstr ""
 # 037a941063374f6b81e63346b65b36ff
 #: ../../THS.rst:419
 msgid "At the beginning of your upkeep, sacrifice a creature."
-msgstr "Na początku swojej fazy utrzymania, poświęć stwora."
+msgstr "Na początku twojego kroku utrzymania, poświęć stwora."
 
 # a70f5854ea92416b943bea2ecc9e976a
 # 8bc5a05dbb184e6389483f82b2d408f2
@@ -2155,8 +2154,8 @@ msgid ""
 "your next upkeep. Exile Rescue from the Underworld."
 msgstr ""
 "Wskaż kartę stwora w twoim cmentarzu. Zwróć ową kartę oraz poświęconą kartę "
-"na pole walki pod twoim władaniem na początku twojego następnego utrzymania. "
-"Wypędź Rescue from the Underworld."
+"na pole walki pod twoim władaniem na początku twojego najbliższego kroku "
+"utrzymania. Wygnaj Rescue from the Underworld."
 
 # 7c6b7d157db1479eb916d109b5f7596c
 # be134b3c90bd4d36a1289e88073fb1b3
@@ -2303,8 +2302,8 @@ msgid ""
 "a sorcery."
 msgstr ""
 "|mana_2| |mana_b| |mana_b|, |tap|: Przywróć wskazaną kartę stwora z twojego "
-"cmentarza na pole walki. Dostaje on pośpiech. Wypędź go na początku "
-"najbliższego kroku końcowego. Jeśli miałby opuścić pole walki, wypędź go "
+"cmentarza na pole walki. Dostaje on pośpiech. Wygnaj go na początku "
+"najbliższego kroku końcowego. Jeśli miałby opuścić pole walki, wygnaj go "
 "zamiast umieszczać go gdziekolwiek indziej. Aktywuj tę zdolność wyłącznie "
 "jako obrzęd."
 
@@ -3234,8 +3233,8 @@ msgstr "Defend the Hearth"
 #: ../../THS.rst:857
 msgid "Prevent all combat damage that would be dealt to players this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane w tej turze "
-"graczom."
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane graczom w "
+"tej turze."
 
 # 7a15a90c6bcb4068bb58c402b0b8a81a
 # dd12b60b8dc448feb494e40419bedbc7
@@ -4344,13 +4343,12 @@ msgstr ""
 # e1be33c7eac04e73ba1f02b1a2d6656f
 # d84a6b0fed004152ac3737da5f97ccec
 #: ../../THS.rst:1169
-#, fuzzy
 msgid ""
 "At the beginning of your upkeep, each opponent creates a 1/1 white Soldier "
 "creature token."
 msgstr ""
-"Na początku twojego utrzymania, każdy przeciwnik kładzie na polu walki żeton "
-"białego stwora Soldier 1/1."
+"Na początku twojego kroku utrzymania, każdy przeciwnik tworzy żeton białego "
+"stwora Piechur 1/1."
 
 # 92656c8464b54427bae349d1a6ab4837
 # 56dcaaa31445414ea8aeb2cbb12f01b2
@@ -4569,7 +4567,7 @@ msgstr "Nykthos, Shrine to Nyx"
 
 #: ../../THS.rst:1233 ../../THS.rst:1279
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 # a4ee14bf84a448e6a34f47d2ac051651
 # a280260d78a44baaa2bfdddeb763857c
