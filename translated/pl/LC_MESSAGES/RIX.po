@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 15:06+0000\n"
+"PO-Revision-Date: 2018-12-16 15:27+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -20,12 +20,14 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 #: ../../RIX.rst:5
+#, fuzzy
 msgid "Rivals of Ixalan"
-msgstr ""
+msgstr "Rivals of Ixalan"
 
 #: ../../RIX.rst:15
+#, fuzzy
 msgid "Baffling End"
-msgstr ""
+msgstr "Baffling End"
 
 #: ../../RIX.rst:12
 msgid ""
@@ -44,24 +46,30 @@ msgstr ""
 "zielonego stwora Dinozaur 3/3 z tratowaniem."
 
 #: ../../RIX.rst:24
+#, fuzzy
 msgid "Bishop of Binding"
-msgstr ""
+msgstr "Bishop of Binding"
 
 #: ../../RIX.rst:21
 msgid ""
 "When Bishop of Binding enters the battlefield, exile target creature an "
 "opponent controls until Bishop of Binding leaves the battlefield."
 msgstr ""
+"Kiedy ta karta wchodzi na pole walki, wypędź wskazanego stwora władanego "
+"przez przeciwnika dopóki ta karta nie opuści pola walki."
 
 #: ../../RIX.rst:23
 msgid ""
 "Whenever Bishop of Binding attacks, target Vampire gets +X/+X until end of "
 "turn, where X is the power of the exiled card."
 msgstr ""
+"Ilekroć ten stwór atakuje, wskazany Wampir dostaje +X/+X do końca tury, "
+"gdzie X to siła wypędzonej karty."
 
 #: ../../RIX.rst:31
+#, fuzzy
 msgid "Blazing Hope"
-msgstr ""
+msgstr "Blazing Hope"
 
 #: ../../RIX.rst:30
 msgid ""
@@ -69,8 +77,9 @@ msgid ""
 msgstr "Wypędź wskazanego stwora o sile większej lub równej twojemu życiu."
 
 #: ../../RIX.rst:42
+#, fuzzy
 msgid "Cleansing Ray"
-msgstr ""
+msgstr "Cleansing Ray"
 
 #: ../../RIX.rst:37 ../../RIX.rst:642 ../../RIX.rst:805
 msgid "Choose one —"
@@ -85,24 +94,27 @@ msgid "Destroy target enchantment."
 msgstr "Zniszcz wskazany urok."
 
 #: ../../RIX.rst:49
+#, fuzzy
 msgid "Divine Verdict"
-msgstr ""
+msgstr "Divine Verdict"
 
 #: ../../RIX.rst:48
 msgid "Destroy target attacking or blocking creature."
 msgstr "Zniszcz wskazanego atakującego lub blokującego stwora."
 
 #: ../../RIX.rst:56
+#, fuzzy
 msgid "Everdawn Champion"
-msgstr ""
+msgstr "Everdawn Champion"
 
 #: ../../RIX.rst:55
 msgid "Prevent all combat damage that would be dealt to Everdawn Champion."
 msgstr ""
 
 #: ../../RIX.rst:63
+#, fuzzy
 msgid "Exultant Skymarcher"
-msgstr ""
+msgstr "Exultant Skymarcher"
 
 #: ../../RIX.rst:62 ../../RIX.rst:110 ../../RIX.rst:226 ../../RIX.rst:453
 #: ../../RIX.rst:469 ../../RIX.rst:478 ../../RIX.rst:505 ../../RIX.rst:653
@@ -112,20 +124,22 @@ msgid "Flying"
 msgstr "Latanie"
 
 #: ../../RIX.rst:72
+#, fuzzy
 msgid "Famished Paladin"
-msgstr ""
+msgstr "Famished Paladin"
 
 #: ../../RIX.rst:69
 msgid "Famished Paladin doesn't untap during your untap step."
-msgstr ""
+msgstr "Ten stwór nie odznacza się w twoim kroku odznaczania."
 
 #: ../../RIX.rst:71
 msgid "Whenever you gain life, untap Famished Paladin."
-msgstr ""
+msgstr "Ilekroć zyskujesz życie, odznacz tego stwora."
 
 #: ../../RIX.rst:81
+#, fuzzy
 msgid "Forerunner of the Legion"
-msgstr ""
+msgstr "Forerunner of the Legion"
 
 #: ../../RIX.rst:78
 msgid ""
@@ -133,20 +147,26 @@ msgid ""
 "library for a Vampire card, reveal it, then shuffle your library and put "
 "that card on top of it."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz poszukać kartę Wampira w twojej "
+"bibliotece, ujawnić ją, a następnie przetasować twoją biblioteką i umieścić "
+"ową kartę na jej wierzchu."
 
 #: ../../RIX.rst:80
 msgid ""
 "Whenever another Vampire enters the battlefield under your control, target "
 "creature gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć inny Wampir wchodzi na pole walki pod twoje władanie, wskazany stwór "
+"dostaje +1/+1 do końca tury."
 
 #: ../../RIX.rst:88
+#, fuzzy
 msgid "Imperial Ceratops"
-msgstr ""
+msgstr "Imperial Ceratops"
 
 #: ../../RIX.rst:87
 msgid "Enrage — Whenever Imperial Ceratops is dealt damage, you gain 2 life."
-msgstr ""
+msgstr "Rozjuszenie — Ilekroć ten stwór dostaje obrażenia, zyskujesz 2 życia."
 
 #: ../../RIX.rst:95
 #, fuzzy
@@ -178,36 +198,43 @@ msgid "Enchanted creature can't attack or block."
 msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../RIX.rst:113
+#, fuzzy
 msgid "Majestic Heliopterus"
-msgstr ""
+msgstr "Majestic Heliopterus"
 
 #: ../../RIX.rst:112
 msgid ""
 "Whenever Majestic Heliopterus attacks, another target Dinosaur you control "
 "gains flying until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, inny wskazany Dinozaur pod twoim władaniem "
+"zyskuje latanie do końca tury."
 
 #: ../../RIX.rst:120
 msgid "Martyr of Dusk"
-msgstr ""
+msgstr "Martyr of Dusk (Męczennik Zmierzchu)"
 
 #: ../../RIX.rst:119
 msgid ""
 "When Martyr of Dusk dies, create a 1/1 white Vampire creature token with "
 "lifelink."
 msgstr ""
+"Kiedy ten stwór umiera, stwórz żeton białego stwora Wampir 1/1 z więzią "
+"życia."
 
 #: ../../RIX.rst:127
+#, fuzzy
 msgid "Moment of Triumph"
-msgstr ""
+msgstr "Moment of Triumph"
 
 #: ../../RIX.rst:126
 msgid "Target creature gets +2/+2 until end of turn. You gain 2 life."
-msgstr ""
+msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Zyskujesz 2 życia."
 
 #: ../../RIX.rst:136
+#, fuzzy
 msgid "Paladin of Atonement"
-msgstr ""
+msgstr "Paladin of Atonement"
 
 #: ../../RIX.rst:133
 msgid ""
@@ -217,11 +244,12 @@ msgstr ""
 
 #: ../../RIX.rst:135
 msgid "When Paladin of Atonement dies, you gain life equal to its toughness."
-msgstr ""
+msgstr "Kiedy ten stwór umiera, zyskujesz życie równe jego wytrzymałości."
 
 #: ../../RIX.rst:145
+#, fuzzy
 msgid "Pride of Conquerors"
-msgstr ""
+msgstr "Pride of Conquerors"
 
 #: ../../RIX.rst:142 ../../RIX.rst:151 ../../RIX.rst:176 ../../RIX.rst:192
 #: ../../RIX.rst:312 ../../RIX.rst:351 ../../RIX.rst:433 ../../RIX.rst:460
@@ -233,26 +261,33 @@ msgid ""
 "Ascend (If you control ten or more permanents, you get the city's blessing "
 "for the rest of the game.)"
 msgstr ""
+"Zaszczyt (Jeśli władasz co najmniej dziesięcioma permanentami, dostajesz "
+"błogosławieństwo miasta do końca gry.)"
 
 #: ../../RIX.rst:144
 msgid ""
 "Creatures you control get +1/+1 until end of turn. If you have the city's "
 "blessing, those creatures get +2/+2 until end of turn instead."
 msgstr ""
+"Stwory pod twoim władaniem dostają +1/+1 do końca tury. Jeśli masz "
+"błogosławieństwo miasta, owe stwory dostają zamiast tego +2/+2 do końca tury."
 
 #: ../../RIX.rst:156
+#, fuzzy
 msgid "Radiant Destiny"
-msgstr ""
+msgstr "Radiant Destiny"
 
 #: ../../RIX.rst:153
 msgid "As Radiant Destiny enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Podczas umieszczania tej karty na polu walki wybierze typ stwora."
 
 #: ../../RIX.rst:155
 msgid ""
 "Creatures you control of the chosen type get +1/+1. As long as you have the "
 "city's blessing, they also have vigilance."
 msgstr ""
+"Stwory wybranego typu pod twoim władaniem dostają +1/+1. O ile posiadasz "
+"błogosławieństwo miasta, mają także czujność."
 
 #: ../../RIX.rst:161
 #, fuzzy
@@ -260,8 +295,9 @@ msgid "Raptor Companion"
 msgstr "Raptor Companion"
 
 #: ../../RIX.rst:170
+#, fuzzy
 msgid "Sanguine Glorifier"
-msgstr ""
+msgstr "Sanguine Glorifier"
 
 #: ../../RIX.rst:169
 msgid ""
