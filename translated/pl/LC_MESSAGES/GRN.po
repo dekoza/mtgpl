@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 17:58+0000\n"
+"PO-Revision-Date: 2018-12-16 18:23+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -1569,6 +1569,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być celem czarów i zdolności władanych przez "
+"twoich przeciwników.)"
 
 #: ../../GRN.rst:1017
 #, fuzzy
@@ -1800,16 +1802,18 @@ msgid "Pack's Favor"
 msgstr ""
 
 #: ../../GRN.rst:1162
+#, fuzzy
 msgid "Pause for Reflection"
-msgstr ""
+msgstr "Pause for Reflection"
 
 #: ../../GRN.rst:1161
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
 
 #: ../../GRN.rst:1171
+#, fuzzy
 msgid "Pelt Collector"
-msgstr ""
+msgstr "Pelt Collector"
 
 #: ../../GRN.rst:1168
 msgid ""
@@ -1828,16 +1832,18 @@ msgid ""
 msgstr "O ile ten stwór ma co najmniej trzy znaczniki +1/+1, ma tratowanie."
 
 #: ../../GRN.rst:1180
+#, fuzzy
 msgid "Portcullis Vine"
-msgstr ""
+msgstr "Portcullis Vine"
 
 #: ../../GRN.rst:1179
 msgid "|mana_2|, |tap|, Sacrifice a creature with defender: Draw a card."
 msgstr "|mana_2|, |tap|, poświęć stwora obrońcę: Dobierz kartę."
 
 #: ../../GRN.rst:1187
+#, fuzzy
 msgid "Prey Upon"
-msgstr ""
+msgstr "Prey Upon"
 
 #: ../../GRN.rst:1186
 msgid ""
@@ -1852,8 +1858,9 @@ msgid "Siege Wurm"
 msgstr "Siege Wurm (Żmij oblężniczy)"
 
 #: ../../GRN.rst:1209
+#, fuzzy
 msgid "Sprouting Renewal"
-msgstr ""
+msgstr "Sprouting Renewal"
 
 #: ../../GRN.rst:1206
 msgid "Create a 2/2 green and white Elf Knight creature token with vigilance."
@@ -1962,20 +1969,22 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:1288
+#, fuzzy
 msgid "Beacon Bolt"
-msgstr ""
+msgstr "Beacon Bolt"
 
 #: ../../GRN.rst:1285
 msgid ""
 "Beacon Bolt deals damage to target creature equal to the total number of "
 "instant and sorcery cards you own in exile and in your graveyard."
 msgstr ""
-"Ten czar zadaje wskazanemu stworowi tyle obrażeń, ile jest łącznie twoich "
-"kart sztuczek i guseł w twoim cmentarzu i na wygnaniu."
+"Ten czar zadaje wskazanemu stworowi obrażenia równe całkowitej liczbie kart "
+"sztuczek i guseł, które posiadasz na wygnaniu i w twoim cmentarzu."
 
 #: ../../GRN.rst:1295
+#, fuzzy
 msgid "Beamsplitter Mage"
-msgstr ""
+msgstr "Beamsplitter Mage"
 
 #: ../../GRN.rst:1294
 msgid ""
@@ -1990,8 +1999,9 @@ msgstr ""
 "wybranego stwora."
 
 #: ../../GRN.rst:1304
+#, fuzzy
 msgid "Boros Challenger"
-msgstr ""
+msgstr "Boros Challenger"
 
 #: ../../GRN.rst:1303
 msgid ""
@@ -2032,8 +2042,9 @@ msgstr ""
 "obecnej. Na początku kroku zakończenia owej tury przegrywasz grę."
 
 #: ../../GRN.rst:1336
+#, fuzzy
 msgid "Charnel Troll"
-msgstr ""
+msgstr "Charnel Troll"
 
 #: ../../GRN.rst:1333
 msgid ""
@@ -2061,8 +2072,9 @@ msgstr ""
 "2/2 z czujnością."
 
 #: ../../GRN.rst:1354
+#, fuzzy
 msgid "Conclave Guildmage"
-msgstr ""
+msgstr "Conclave Guildmage"
 
 #: ../../GRN.rst:1351
 msgid "|mana_g|, |tap|: Creatures you control gain trample until end of turn."
@@ -2076,14 +2088,17 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:1365
+#, fuzzy
 msgid "Crackling Drake"
-msgstr ""
+msgstr "Crackling Drake"
 
 #: ../../GRN.rst:1362
 msgid ""
 "Crackling Drake's power is equal to the total number of instant and sorcery "
 "cards you own in exile and in your graveyard."
 msgstr ""
+"Ten stwór ma siłę równą całkowitej liczbie kart sztuczek i guseł, które "
+"posiadasz na wygnaniu i w twoim cmentarzu."
 
 #: ../../GRN.rst:1364
 msgid "When Crackling Drake enters the battlefield, draw a card."
@@ -2493,6 +2508,9 @@ msgid ""
 "−3: Ral, Izzet Viceroy deals damage to target creature equal to the total "
 "number of instant and sorcery cards you own in exile and in your graveyard."
 msgstr ""
+"–3: Ten wędrowiec zadaje wskazanemu stworowi obrażenia równe całkowitej "
+"liczbie kart sztuczek i guseł, które posiadasz na wygnaniu i w twoim "
+"cmentarzu."
 
 #: ../../GRN.rst:1642
 msgid ""
