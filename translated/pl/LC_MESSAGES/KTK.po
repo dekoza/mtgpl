@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 15:06+0000\n"
+"PO-Revision-Date: 2018-12-16 18:23+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -285,8 +285,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
-"Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje do "
-"końca tury +1/+1.)"
+"Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
+"do końca tury.)"
 
 # 02452094ce714b7cb10da29151ccf026
 #: ../../KTK.rst:129
@@ -1035,6 +1035,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być celem czarów i zdolności władanych przez "
+"twoich przeciwników.)"
 
 # 8b19038da50f46499ecf1e8f5bad90d2
 #: ../../KTK.rst:542
@@ -1501,17 +1503,17 @@ msgstr ""
 # 5d97ad91ce7f430b84a430af13981f0f
 #: ../../KTK.rst:801
 msgid "Act of Treason"
-msgstr "Act of Treason (Akt Zdrady)"
+msgstr "Act of Treason (Akt zdrady)"
 
 # 4725bc812dd142e9b99b30b98eca5f53
 #: ../../KTK.rst:800
-#, fuzzy
 msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Przejmij władanie nad wskazanym stworem do końca tury. Odznacz owego stwora. "
-"Zyskuje on Pośpiech do końca tury."
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odznacz owego "
+"stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej "
+"turze.)"
 
 # 10d7e390fc734aa4981e2a385dba0326
 #: ../../KTK.rst:810
