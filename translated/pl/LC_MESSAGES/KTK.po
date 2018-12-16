@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 00:35+0000\n"
+"PO-Revision-Date: 2018-12-16 09:38+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -631,7 +631,7 @@ msgstr "Disdainful Stroke"
 # afe2f3dd86e247d8b72f2c1d79dfb009
 #: ../../KTK.rst:304
 msgid "Counter target spell with converted mana cost 4 or greater."
-msgstr "Skontruj wskazany czar o łącznym koszcie many 4 lub wyższym."
+msgstr "Skontruj wskazany czar o łącznym koszcie many 4 lub większym."
 
 # e64827b1dc3c4c81af64f71c7e4a9c15
 #: ../../KTK.rst:314
@@ -921,7 +921,7 @@ msgstr ""
 # 250a9f62d257480982181a79550b5790
 #: ../../KTK.rst:466
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
 
 # ce5dc70be7d0465caee993d2c048a7b8
 #: ../../KTK.rst:468
@@ -1524,7 +1524,7 @@ msgstr "Ainok Tracker"
 # 956e706e93d34a2f8f913c9e7553170e
 #: ../../KTK.rst:807 ../../KTK.rst:1462
 msgid "First strike"
-msgstr "Pierwszy Cios"
+msgstr "Pierwszy cios"
 
 # c2a6c185a4b64f21bd456f539fb6ad5f
 #: ../../KTK.rst:809
