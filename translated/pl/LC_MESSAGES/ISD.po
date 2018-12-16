@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 09:38+0000\n"
+"PO-Revision-Date: 2018-12-16 11:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
@@ -582,7 +582,7 @@ msgstr ""
 #: ../../ISD.rst:323 ../../ISD.rst:552 ../../ISD.rst:1230 ../../ISD.rst:1309
 #: ../../ISD.rst:1586 ../../ISD.rst:1743 ../../ISD.rst:1826
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 # 9f9e32e795944bafae9f0254bb3e0485
 #: ../../ISD.rst:331
@@ -676,6 +676,7 @@ msgstr ""
 #: ../../ISD.rst:383
 msgid "Create a token that's a copy of target creature you control."
 msgstr ""
+"Stwórz żeton stwora będącego kopią wskazanego stwora pod twoim władaniem."
 
 # 5539a0460d2d4c83bf82291c54a1418a
 #: ../../ISD.rst:385
@@ -935,7 +936,7 @@ msgstr ""
 #: ../../ISD.rst:543 ../../ISD.rst:1257 ../../ISD.rst:1846 ../../ISD.rst:2047
 #: ../../ISD.rst:2067
 msgid "Defender"
-msgstr ""
+msgstr "Obrońca"
 
 # c7fb8a6c81694861a19b2dc8978c1aa2
 #: ../../ISD.rst:545
@@ -1074,7 +1075,7 @@ msgstr ""
 # 01650903471649c09cfb63a31e0d9afe
 #: ../../ISD.rst:639
 msgid "Return target creature to its owner's hand."
-msgstr ""
+msgstr "Zwróć wskazanego stwora do ręki jego władcy."
 
 # 647726d773ac479da6e3d0f38dea946c
 #: ../../ISD.rst:641
@@ -1186,7 +1187,7 @@ msgstr ""
 # b9282e553a534c14bebe8a8b928c458b
 #: ../../ISD.rst:713
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 # 952d8d50a909445589d948433a474d81
 # 64e567e170394f1fab28672ae844e493
@@ -1241,7 +1242,7 @@ msgstr ""
 
 #: ../../ISD.rst:740 ../../ISD.rst:1291
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 # 3964e206bd974aaea92691b1d899ff17
 #: ../../ISD.rst:742
@@ -1393,8 +1394,9 @@ msgstr ""
 
 # 84baf7bb74404d2ca817c007b684accb
 #: ../../ISD.rst:846
+#, fuzzy
 msgid "Dead Weight"
-msgstr ""
+msgstr "Dead Weight"
 
 # 24616a928d61421ea3ee260c599ea1df
 #: ../../ISD.rst:845
@@ -1530,7 +1532,7 @@ msgstr ""
 # 0e05e352f36d4ac48c8f8c4cb1bba723
 #: ../../ISD.rst:929
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 # 1e0a56ec03b2487e9ba522d334cfc259
 #: ../../ISD.rst:931
@@ -1978,7 +1980,7 @@ msgstr ""
 # 9b691fd80f9a4b9e9c0a67e766c03418
 #: ../../ISD.rst:1221
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 # 6e999b7f31ec4f6da601a6e685ab0ac2
 #: ../../ISD.rst:1223
