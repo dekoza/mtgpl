@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 11:20+0000\n"
+"PO-Revision-Date: 2018-12-16 14:15+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -103,6 +103,9 @@ msgid ""
 "while casting this spell pays for |mana_1| or one mana of that creature's "
 "color.)"
 msgstr ""
+"Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
+"zaznaczysz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"kolorze owego stwora.)"
 
 #: ../../GRN.rst:53
 msgid ""
@@ -144,7 +147,7 @@ msgstr ""
 msgid ""
 "|mana_3| |mana_w|: Create a 1/1 white Soldier creature token with lifelink."
 msgstr ""
-"|mana_3| |mana_w|: Stwórz żeton białego stwora Żołnierz 1/1 z więzią życia."
+"|mana_3| |mana_w|: Stwórz żeton białego stwora Piechur 1/1 z więzią życia."
 
 #: ../../GRN.rst:83
 #, fuzzy
@@ -207,7 +210,7 @@ msgid ""
 "1/1 white Soldier creature token with lifelink."
 msgstr ""
 "Kiedy ten stwór oraz przynajmniej dwa inne stwory atakują, stwórz żeton "
-"białego stwora Żołnierz 1/1 z więzią życia."
+"białego stwora Piechur 1/1 z więzią życia."
 
 #: ../../GRN.rst:120
 #, fuzzy
@@ -228,6 +231,8 @@ msgid ""
 "When Hunted Witness dies, create a 1/1 white Soldier creature token with "
 "lifelink."
 msgstr ""
+"Kiedy ten stwór umiera, stwórz żeton białego stwora Piechur 1/1 z więzią "
+"życia."
 
 #: ../../GRN.rst:134
 #, fuzzy
@@ -352,7 +357,7 @@ msgstr "Sworn Companions"
 
 #: ../../GRN.rst:226
 msgid "Create two 1/1 white Soldier creature tokens with lifelink."
-msgstr "Stwórz dwa żetony białego stwora Żołnierz 1/1 z więzią życia."
+msgstr "Stwórz dwa żetony białego stwora Piechur 1/1 z więzią życia."
 
 #: ../../GRN.rst:234
 #, fuzzy
@@ -386,13 +391,12 @@ msgid "Venerated Loxodon"
 msgstr "Venerated Loxodon"
 
 #: ../../GRN.rst:249
-#, fuzzy
 msgid ""
 "When Venerated Loxodon enters the battlefield, put a +1/+1 counter on each "
 "creature that convoked it."
 msgstr ""
 "Kiedy ten stwór wchodzi na pole walki, połóż znacznik +1/+1 na każdym "
-"stworze, który go ....."
+"stworze, który przy nim współpracował."
 
 #: ../../GRN.rst:263
 #, fuzzy
@@ -427,6 +431,8 @@ msgid ""
 "Jump-start (You may cast this card from your graveyard by discarding a card "
 "in addition to paying its other costs. Then exile this card.)"
 msgstr ""
+"Na pych (Możesz zagrać tę kartę z twojego cmentarza przez opłacenie kosztów "
+"i dodatkowe odrzucenie karty. Następnie wypędź tę kartę.)"
 
 #: ../../GRN.rst:281
 #, fuzzy
@@ -439,6 +445,9 @@ msgid ""
 "library, then put any number of them into your graveyard and the rest on top "
 "of your library in any order.)"
 msgstr ""
+"Kiedy ten stwór umiera, nadzoruj 2. (Spójrz na dwie wierzchnie karty twojej "
+"biblioteki, a następnie dowolne z nich połóż do twojego cmentarza, a "
+"pozostałe odłóż na wierzch twojej biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:290
 #, fuzzy
@@ -455,6 +464,9 @@ msgid ""
 "of them into your graveyard and the rest on top of your library in any "
 "order.)"
 msgstr ""
+"Nadzoruj 2. (Spójrz na dwie wierzchnie karty twojej biblioteki, a następnie "
+"dowolne z nich połóż do twojego cmentarza, a pozostałe odłóż na wierzch "
+"twojej biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:297
 #, fuzzy
@@ -482,6 +494,10 @@ msgid ""
 "cards of your library, then put any number of them into your graveyard and "
 "the rest on top of your library in any order.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, nadzoruj 2. (Spójrz na dwie "
+"wierzchnie karty twojej biblioteki, a następnie dowolne z nich połóż do "
+"twojego cmentarza, a pozostałe odłóż na wierzch twojej biblioteki w dowolnej "
+"kolejności.)"
 
 #: ../../GRN.rst:311
 #, fuzzy
@@ -505,6 +521,11 @@ msgid ""
 "number of them into your graveyard and the rest on top of your library in "
 "any order.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, nadzoruj 4. Kiedy to zrobisz, możesz "
+"zwrócić wskazany nie-lądowy permanent władany przez przeciwnika do jego "
+"ręki. (Aby nadzorować 4, spójrz na cztery wierzchnie karty twojej "
+"biblioteki, a następnie dowolne z nich połóż do twojego cmentarza, a "
+"pozostałe odłóż na wierzch twojej biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:329
 #, fuzzy
@@ -526,7 +547,7 @@ msgstr "Enhanced Surveillance"
 
 #: ../../GRN.rst:335
 msgid "You may look at an additional two cards each time you surveil."
-msgstr ""
+msgstr "Możesz patrzeć na dodatkowe dwie karty ilekroć nadzorujesz."
 
 #: ../../GRN.rst:337
 msgid "Exile Enhanced Surveillance: Shuffle your graveyard into your library."
@@ -584,6 +605,12 @@ msgid ""
 "library, then put any number of them into your graveyard and the rest on top "
 "of your library in any order.)"
 msgstr ""
+"Nadzoruj 2, następnie wybierz kartę sztuczki lub guseł w twoim cmentarzu. "
+"Możesz zagrać ową kartę w tej turze. Jeśli owa karta miałaby trafić do "
+"twojego cmentarza w tej turze, zamiast tego wygnaj ją. (Aby nadzorować 2, "
+"spójrz na dwie wierzchnie karty twojej biblioteki, a następnie dowolne z "
+"nich połóż do twojego cmentarza, a pozostałe odłóż na wierzch twojej "
+"biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:377
 #, fuzzy
@@ -629,6 +656,8 @@ msgid ""
 "Whenever Nightveil Sprite attacks, surveil 1. (Look at the top card of your "
 "library. You may put that card into your graveyard.)"
 msgstr ""
+"Ilekroć ten stwór atakuje, nadzoruj 1. (Spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz położyć ową kartę do twojego cmentarza.)"
 
 #: ../../GRN.rst:411
 #, fuzzy
@@ -696,6 +725,8 @@ msgid ""
 "Surveil 1. (Look at the top card of your library. You may put that card into "
 "your graveyard.)"
 msgstr ""
+"Nadzoruj 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz położyć "
+"ową kartę do twojego cmentarza.)"
 
 #: ../../GRN.rst:463
 #, fuzzy
@@ -709,7 +740,7 @@ msgstr "Obrońca"
 
 #: ../../GRN.rst:460
 msgid "Whenever you surveil, put a +1/+1 counter on Thoughtbound Phantasm."
-msgstr ""
+msgstr "Ilekroć nadzorujesz, połóż znacznik +1/+1 na tym stworze."
 
 #: ../../GRN.rst:462
 msgid ""
@@ -756,6 +787,10 @@ msgid ""
 "two cards of your library, then put any number of them into your graveyard "
 "and the rest on top of your library in any order.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, nadzoruj 2. (Spójrz na dwie "
+"wierzchnie karty twojej biblioteki, a następnie dowolne z nich połóż do "
+"twojego cmentarza, a pozostałe odłóż na wierzch twojej biblioteki w dowolnej "
+"kolejności.)"
 
 #: ../../GRN.rst:500
 #, fuzzy
@@ -772,6 +807,8 @@ msgid ""
 "When Barrier of Bones enters the battlefield, surveil 1. (Look at the top "
 "card of your library. You may put that card into your graveyard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, nadzoruj 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę do twojego cmentarza.)"
 
 #: ../../GRN.rst:518
 #, fuzzy
@@ -800,6 +837,8 @@ msgid ""
 "Whenever you surveil, if Blood Operative is in your graveyard, you may pay 3 "
 "life. If you do, return Blood Operative to your hand."
 msgstr ""
+"Ilekroć nadzorujesz, jeśli ta karta jest w twoim cmentarzu, możesz zapłacić "
+"3 życia. Jeśli to zrobisz, zwróć tę kartę do twojej ręki."
 
 #: ../../GRN.rst:536
 #, fuzzy
@@ -867,6 +906,9 @@ msgid ""
 "any number of them into your graveyard and the rest on top of your library "
 "in any order.)"
 msgstr ""
+"Zapłać 2 życia: Nadzoruj 2. (Spójrz na dwie wierzchnie karty twojej "
+"biblioteki, a następnie dowolne z nich połóż do twojego cmentarza, a "
+"pozostałe odłóż na wierzch twojej biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:584
 msgid "Douser of Lights"
@@ -1118,6 +1160,8 @@ msgid ""
 "Whenever you surveil for the first time each turn, Whispering Snitch deals 1 "
 "damage to each opponent and you gain 1 life."
 msgstr ""
+"Ilekroć nadzorujesz po raz pierwszy w danej turze, ten stwór zadaje 1 "
+"obrażenie każdemu przeciwnikowi, a ty zyskujesz 1 życie."
 
 #: ../../GRN.rst:747
 #, fuzzy
@@ -2010,7 +2054,7 @@ msgstr ""
 
 #: ../../GRN.rst:1393
 msgid "Whenever you surveil, put a +1/+1 counter on Dimir Spybug."
-msgstr ""
+msgstr "Ilekroć nadzorujesz, połóż znacznik +1/+1 na tym stworze."
 
 #: ../../GRN.rst:1403
 msgid "Disinformation Campaign"
@@ -2025,7 +2069,7 @@ msgstr ""
 #: ../../GRN.rst:1402
 msgid ""
 "Whenever you surveil, return Disinformation Campaign to its owner's hand."
-msgstr ""
+msgstr "Ilekroć nadzorujesz, zwróć ten urok do ręki jego właściciela."
 
 #: ../../GRN.rst:1410
 msgid "Emmara, Soul of the Accord"
@@ -2142,6 +2186,9 @@ msgid ""
 "library, then put any number of them into your graveyard and the rest on top "
 "of your library in any order.)"
 msgstr ""
+"|mana_2| |mana_b|, |tap|: Nadzoruj 2. (Spójrz na dwie wierzchnie karty "
+"twojej biblioteki, a następnie dowolne z nich połóż do twojego cmentarza, a "
+"pozostałe odłóż na wierzch twojej biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:1488
 msgid "Hypothesizzle"
@@ -2223,6 +2270,8 @@ msgid ""
 "When Lazav, the Multifarious enters the battlefield, surveil 1. (Look at the "
 "top card of your library. You may put it into your graveyard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, nadzoruj 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę do twojego cmentarza.)"
 
 #: ../../GRN.rst:1539
 msgid ""
@@ -2347,6 +2396,10 @@ msgid ""
 "surveil 2, look at the top two cards of your library, then put any number of "
 "them into your graveyard and the rest on top of your library in any order.)"
 msgstr ""
+"Nadzoruj 2, następnie dobierz dwie karty. Ten stwór zadaje tobie 2 "
+"obrażenia. (By nadzorować 2, spójrz na dwie wierzchnie karty twojej "
+"biblioteki, a następnie dowolne z nich połóż do twojego cmentarza, a "
+"pozostałe odłóż na wierzch twojej biblioteki w dowolnej kolejności.)"
 
 #: ../../GRN.rst:1632
 msgid "Ochran Assassin"
@@ -2493,6 +2546,8 @@ msgid ""
 "Surveil 1. (Look at the top card of your library. You may put it into your "
 "graveyard.)"
 msgstr ""
+"Nadzoruj 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz położyć "
+"ową kartę do twojego cmentarza.)"
 
 #: ../../GRN.rst:1745
 msgid "Thousand-Year Storm"
@@ -2647,6 +2702,8 @@ msgid ""
 "When Whisper Agent enters the battlefield, surveil 1. (Look at the top card "
 "of your library. You may put it into your graveyard.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, nadzoruj 1. (Spójrz na wierzchnią "
+"kartę twojej biblioteki. Możesz położyć ową kartę do twojego cmentarza.)"
 
 #: ../../GRN.rst:1863
 msgid "Assure"
@@ -2684,6 +2741,7 @@ msgid ""
 "Surveil 3, then return a creature card from your graveyard to the "
 "battlefield."
 msgstr ""
+"Nadzoruj 3, następnie zwróć kartę stwora z twojego cmentarza na pole walki."
 
 #: ../../GRN.rst:1891
 msgid "Discovery"
@@ -2695,6 +2753,10 @@ msgid ""
 "your library, then put any number of them into your graveyard and the rest "
 "on top of your library in any order.)"
 msgstr ""
+"Nadzoruj 2, następnie dobierz kartę. (By nadzorować 2, spójrz na dwie "
+"wierzchnie karty twojej biblioteki, a następnie dowolne z nich połóż do "
+"twojego cmentarza, a pozostałe odłóż na wierzch twojej biblioteki w dowolnej "
+"kolejności.)"
 
 #: ../../GRN.rst:1898
 msgid "Dispersal"
