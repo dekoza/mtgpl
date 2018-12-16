@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 00:35+0000\n"
+"PO-Revision-Date: 2018-12-16 09:38+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -160,8 +160,9 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:104
+#, fuzzy
 msgid "Luminous Bonds"
-msgstr ""
+msgstr "Luminous Bonds"
 
 #: ../../RIX.rst:101 ../../RIX.rst:208 ../../RIX.rst:294 ../../RIX.rst:417
 #: ../../RIX.rst:514 ../../RIX.rst:935 ../../RIX.rst:1001
@@ -170,7 +171,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../RIX.rst:103
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../RIX.rst:113
 msgid "Majestic Heliopterus"
@@ -393,7 +394,7 @@ msgstr ""
 
 #: ../../RIX.rst:274 ../../RIX.rst:415 ../../RIX.rst:569 ../../RIX.rst:1199
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../RIX.rst:276
 msgid ""
@@ -700,7 +701,7 @@ msgstr ""
 
 #: ../../RIX.rst:518
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
 
 #: ../../RIX.rst:526
 msgid "Arterial Flow"
@@ -949,7 +950,7 @@ msgstr ""
 
 #: ../../RIX.rst:712
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 #: ../../RIX.rst:724
 msgid "Tetzimoc, Primal Death"
@@ -1101,7 +1102,7 @@ msgstr ""
 
 #: ../../RIX.rst:832
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../RIX.rst:834
 msgid ""
