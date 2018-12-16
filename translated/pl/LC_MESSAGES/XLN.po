@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -2094,6 +2094,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bitewne w gracza lub "
+"wędrowca, którego atakuje.)"
 
 #: ../../XLN.rst:910
 msgid "Commune with Dinosaurs"
@@ -2775,7 +2777,7 @@ msgstr ""
 #: ../../XLN.rst:1189 ../../XLN.rst:1243 ../../XLN.rst:1311 ../../XLN.rst:1323
 #: ../../XLN.rst:1349 ../../XLN.rst:1375 ../../XLN.rst:1381
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../XLN.rst:1191
 msgid "|mana_2|, |tap|: Draw a card, then discard a card."
@@ -2923,7 +2925,7 @@ msgstr ""
 
 #: ../../XLN.rst:1261
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie sztuczek i guseł kosztuje cię |mana_1| mniej."
+msgstr "Rzucanie sztuczek i obrzędów kosztuje cię |mana_1| mniej."
 
 #: ../../XLN.rst:1263
 msgid ""
@@ -3163,7 +3165,7 @@ msgstr ""
 
 #: ../../XLN.rst:1369
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../XLN.rst:1378
 msgid "Unclaimed Territory"
@@ -3183,23 +3185,23 @@ msgstr ""
 
 #: ../../XLN.rst:1386 ../../XLN.rst:1390 ../../XLN.rst:1394 ../../XLN.rst:1398
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 #: ../../XLN.rst:1402 ../../XLN.rst:1406 ../../XLN.rst:1410 ../../XLN.rst:1414
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 #: ../../XLN.rst:1418 ../../XLN.rst:1422 ../../XLN.rst:1426 ../../XLN.rst:1430
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 #: ../../XLN.rst:1434 ../../XLN.rst:1438 ../../XLN.rst:1442 ../../XLN.rst:1446
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 #: ../../XLN.rst:1450 ../../XLN.rst:1454 ../../XLN.rst:1458 ../../XLN.rst:1462
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
 
 #: ../../XLN.rst:1472
 msgid "Jace, Ingenious Mind-Mage"
@@ -3207,7 +3209,7 @@ msgstr ""
 
 #: ../../XLN.rst:1467
 msgid "+1: Draw a card."
-msgstr ""
+msgstr "+1: Dobierz kartę."
 
 #: ../../XLN.rst:1469
 msgid "+1: Untap all creatures you control."
@@ -3290,7 +3292,7 @@ msgstr ""
 
 #: ../../XLN.rst:1507
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr ""
+msgstr "Czujność (Atakowanie nie powoduje zaznaczenia tego stwora.)"
 
 #: ../../XLN.rst:1512
 msgid "Huatli's Spurring"
