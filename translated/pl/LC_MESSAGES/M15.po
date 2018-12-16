@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 18:23+0000\n"
+"PO-Revision-Date: 2018-12-16 21:03+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -1699,6 +1699,8 @@ msgstr ""
 msgid ""
 "Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
+"Zwróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do twojej "
+"ręki."
 
 # 9a9726963574414a8ddf85d664de0a34
 #: ../../M15.rst:1003
@@ -2427,7 +2429,7 @@ msgstr ""
 # 22b313019da643ab9c66b7796c103d8d
 #: ../../M15.rst:1436
 msgid "Target creature gets +2/+2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje +2/+2 do końca tury."
 
 # f2f4737461f440e39a0b7b838c8e4a9f
 #: ../../M15.rst:1446
