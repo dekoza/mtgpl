@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 11:20+0000\n"
+"PO-Revision-Date: 2018-12-16 14:52+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -149,8 +149,9 @@ msgid "Enrage — Whenever Imperial Ceratops is dealt damage, you gain 2 life."
 msgstr ""
 
 #: ../../RIX.rst:95
+#, fuzzy
 msgid "Legion Conquistador"
-msgstr ""
+msgstr "Legion Conquistador"
 
 #: ../../RIX.rst:94
 msgid ""
@@ -158,6 +159,9 @@ msgid ""
 "for any number of cards named Legion Conquistador, reveal them, put them "
 "into your hand, then shuffle your library."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz poszukać w twojej bibliotece "
+"dowolną liczbę kart o nazwie Legion Conquistador, ujawnić je i dołożyć do "
+"twojej ręki, a następnie przetasuj twoją bibliotekę."
 
 #: ../../RIX.rst:104
 #, fuzzy
@@ -251,8 +255,9 @@ msgid ""
 msgstr ""
 
 #: ../../RIX.rst:161
+#, fuzzy
 msgid "Raptor Companion"
-msgstr ""
+msgstr "Raptor Companion"
 
 #: ../../RIX.rst:170
 msgid "Sanguine Glorifier"
@@ -983,6 +988,10 @@ msgid ""
 "counter on this creature, then put the card back or put it into your "
 "graveyard.)"
 msgstr ""
+"|mana_1|, odrzuć kartę: Ten stwór eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
+"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"umieść ją w twoim cmentarzu.)"
 
 #: ../../RIX.rst:744
 msgid "Twilight Prophet"
@@ -1413,6 +1422,10 @@ msgid ""
 "Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter "
 "on the creature, then put the card back or put it into your graveyard.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem eksploruje. (Ujawnij wierzchnią kartę "
+"twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
+"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"umieść ją w twoim cmentarzu.)"
 
 #: ../../RIX.rst:1069
 msgid "You may play an additional land this turn."
@@ -1503,6 +1516,11 @@ msgid ""
 "it's a land. Otherwise, put a +1/+1 counter on this creature, then put the "
 "card back or put it into your graveyard. Then repeat this process.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, eksploruje, a następnie eksploruje "
+"ponownie. (Ujawnij wierzchnią kartę twojej biblioteki. Dołóż ową kartę do "
+"twojej ręki jeśli to ląd. W przeciwnym razie połóż znacznik +1/+1 na tym "
+"stworze, a następnie odłóż ową kartę lub umieść ją w twoim cmentarzu. "
+"Następnie powtórz ten proces.)"
 
 #: ../../RIX.rst:1137
 msgid "Jungleborn Pioneer"
@@ -1556,6 +1574,10 @@ msgid ""
 "land. Otherwise, put a +1/+1 counter on the creature, then put the card back "
 "or put it into your graveyard.)"
 msgstr ""
+"Ilekroć jakiś stwór wchodzi na pole walki pod twoje władanie, ów stwór "
+"eksploruje. (Ujawnij wierzchnią kartę twojej biblioteki. Dołóż ową kartę do "
+"twojej ręki jeśli to ląd. W przeciwnym razie połóż znacznik +1/+1 na danym "
+"stworze, a następnie odłóż ową kartę lub umieść ją w twoim cmentarzu.)"
 
 #: ../../RIX.rst:1179
 msgid "Plummet"
