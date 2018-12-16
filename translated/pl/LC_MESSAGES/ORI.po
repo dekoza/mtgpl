@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -399,7 +399,7 @@ msgstr ""
 
 #: ../../ORI.rst:175 ../../ORI.rst:209 ../../ORI.rst:1083 ../../ORI.rst:1159
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr ""
+msgstr "Czujność (Atakowanie nie powoduje zaznaczenia tego stwora.)"
 
 #: ../../ORI.rst:177
 msgid ""
@@ -520,6 +520,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo życia.)"
 
 #: ../../ORI.rst:238
 msgid "Yoked Ox"
@@ -762,7 +764,7 @@ msgstr ""
 
 #: ../../ORI.rst:351
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie sztuczek i guseł kosztuje cię |mana_1| mniej."
+msgstr "Rzucanie sztuczek i obrzędów kosztuje cię |mana_1| mniej."
 
 #: ../../ORI.rst:353
 msgid ""
@@ -909,6 +911,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bitewne w gracza lub "
+"wędrowca, którego atakuje.)"
 
 #: ../../ORI.rst:430
 msgid "Soulblade Djinn"
@@ -2869,7 +2873,7 @@ msgstr ""
 #: ../../ORI.rst:1329 ../../ORI.rst:1335 ../../ORI.rst:1345 ../../ORI.rst:1351
 #: ../../ORI.rst:1357 ../../ORI.rst:1365 ../../ORI.rst:1371 ../../ORI.rst:1377
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../ORI.rst:1331
 msgid ""
@@ -2952,23 +2956,23 @@ msgstr ""
 
 #: ../../ORI.rst:1382 ../../ORI.rst:1386 ../../ORI.rst:1390 ../../ORI.rst:1394
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 #: ../../ORI.rst:1398 ../../ORI.rst:1402 ../../ORI.rst:1406 ../../ORI.rst:1410
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 #: ../../ORI.rst:1414 ../../ORI.rst:1418 ../../ORI.rst:1422 ../../ORI.rst:1426
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 #: ../../ORI.rst:1430 ../../ORI.rst:1434 ../../ORI.rst:1438 ../../ORI.rst:1442
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 #: ../../ORI.rst:1446 ../../ORI.rst:1450 ../../ORI.rst:1454 ../../ORI.rst:1458
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
 
 #: ../../ORI.rst:1466
 #, fuzzy
