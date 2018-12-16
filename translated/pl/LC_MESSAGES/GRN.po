@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 00:35+0000\n"
+"PO-Revision-Date: 2018-12-16 09:38+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -21,11 +21,12 @@ msgstr ""
 
 #: ../../GRN.rst:5
 msgid "Guilds of Ravnica"
-msgstr ""
+msgstr "Guilds of Ravnica (Gildie Ravniki)"
 
 #: ../../GRN.rst:13
+#, fuzzy
 msgid "Blade Instructor"
-msgstr ""
+msgstr "Blade Instructor"
 
 #: ../../GRN.rst:12 ../../GRN.rst:158 ../../GRN.rst:187 ../../GRN.rst:219
 #: ../../GRN.rst:755 ../../GRN.rst:841 ../../GRN.rst:902 ../../GRN.rst:991
@@ -35,10 +36,13 @@ msgid ""
 "Mentor (Whenever this creature attacks, put a +1/+1 counter on target "
 "attacking creature with lesser power.)"
 msgstr ""
+"Mentor (Ilekroć ten stwór atakuje, połóż znacznik +1/+1 na wskazanym "
+"atakującym stwórze o mniejszej sile.)"
 
 #: ../../GRN.rst:22
+#, fuzzy
 msgid "Bounty Agent"
-msgstr ""
+msgstr "Bounty Agent"
 
 #: ../../GRN.rst:19 ../../GRN.rst:140 ../../GRN.rst:1242 ../../GRN.rst:1342
 #: ../../GRN.rst:1658 ../../GRN.rst:1697 ../../GRN.rst:1846
@@ -50,10 +54,13 @@ msgid ""
 "|tap|, Sacrifice Bounty Agent: Destroy target legendary permanent that's an "
 "artifact, creature, or enchantment."
 msgstr ""
+"|tap|, poświęć tego stwora: Zniszcz wskazany legendarny permanent będący "
+"artefaktem, stworem lub urokiem."
 
 #: ../../GRN.rst:31
+#, fuzzy
 msgid "Candlelight Vigil"
-msgstr ""
+msgstr "Candlelight Vigil"
 
 #: ../../GRN.rst:28 ../../GRN.rst:80 ../../GRN.rst:176 ../../GRN.rst:258
 #: ../../GRN.rst:558 ../../GRN.rst:911
@@ -65,24 +72,27 @@ msgid "Enchanted creature gets +3/+2 and has vigilance."
 msgstr "Zauroczony stwór dostaje +3/+2 i ma czujność."
 
 #: ../../GRN.rst:38
+#, fuzzy
 msgid "Citywide Bust"
-msgstr ""
+msgstr "Citywide Bust"
 
 #: ../../GRN.rst:37
 msgid "Destroy all creatures with toughness 4 or greater."
 msgstr "Zniszcz wszystkie stwory z wytrzymałością 4 lub większą."
 
 #: ../../GRN.rst:45
+#, fuzzy
 msgid "Collar the Culprit"
-msgstr ""
+msgstr "Collar the Culprit"
 
 #: ../../GRN.rst:44
 msgid "Destroy target creature with toughness 4 or greater."
 msgstr "Zniszcz wskazanego stwora z wytrzymałością 4 lub większą."
 
 #: ../../GRN.rst:54
+#, fuzzy
 msgid "Conclave Tribunal"
-msgstr ""
+msgstr "Conclave Tribunal"
 
 #: ../../GRN.rst:51 ../../GRN.rst:96 ../../GRN.rst:149 ../../GRN.rst:167
 #: ../../GRN.rst:247 ../../GRN.rst:1007 ../../GRN.rst:1150 ../../GRN.rst:1159
@@ -100,10 +110,13 @@ msgid ""
 "permanent an opponent controls until Conclave Tribunal leaves the "
 "battlefield."
 msgstr ""
+"Kiedy ten urok wchodzi na pole walki, wypędź wskazany nie-lądowy permanent "
+"dopóki ten urok nie opuści pola walki."
 
 #: ../../GRN.rst:65
+#, fuzzy
 msgid "Crush Contraband"
-msgstr ""
+msgstr "Crush Contraband"
 
 #: ../../GRN.rst:60 ../../GRN.rst:1256 ../../GRN.rst:1378
 msgid "Choose one or both —"
@@ -131,20 +144,25 @@ msgstr ""
 msgid ""
 "|mana_3| |mana_w|: Create a 1/1 white Soldier creature token with lifelink."
 msgstr ""
+"|mana_3| |mana_w|: Stwórz żeton białego stwora Żołnierz 1/1 z więzią życia."
 
 #: ../../GRN.rst:83
+#, fuzzy
 msgid "Demotion"
-msgstr ""
+msgstr "Demotion"
 
 #: ../../GRN.rst:82
 msgid ""
 "Enchanted creature can't block, and its activated abilities can't be "
 "activated."
 msgstr ""
+"Zauroczony stwór nie może blokować, a jego aktywowane zdolności nie mogą być "
+"aktywowane."
 
 #: ../../GRN.rst:90
+#, fuzzy
 msgid "Divine Visitation"
-msgstr ""
+msgstr "Divine Visitation"
 
 #: ../../GRN.rst:89
 msgid ""
@@ -152,10 +170,14 @@ msgid ""
 "many 4/4 white Angel creature tokens with flying and vigilance are created "
 "instead."
 msgstr ""
+"Jeśli jeden lub więcej żetonów stworów miałoby zostać stworzonych pod twoim "
+"władaniem, zamiast tego stwórz tyle samo żetonów białego stwora Anioł 4/4 z "
+"lataniem i czujnością."
 
 #: ../../GRN.rst:99
+#, fuzzy
 msgid "Flight of Equenauts"
-msgstr ""
+msgstr "Flight of Equenauts"
 
 #: ../../GRN.rst:98 ../../GRN.rst:156 ../../GRN.rst:201 ../../GRN.rst:278
 #: ../../GRN.rst:319 ../../GRN.rst:383 ../../GRN.rst:392 ../../GRN.rst:401
@@ -166,34 +188,40 @@ msgid "Flying"
 msgstr "Latanie"
 
 #: ../../GRN.rst:106
+#, fuzzy
 msgid "Gird for Battle"
-msgstr ""
+msgstr "Gird for Battle"
 
 #: ../../GRN.rst:105
 msgid "Put a +1/+1 counter on each of up to two target creatures."
-msgstr ""
+msgstr "Połóż znacznik +/1+ na każdym z co najwyżej dwóch wskazanych stworów."
 
 #: ../../GRN.rst:113
+#, fuzzy
 msgid "Haazda Marshal"
-msgstr ""
+msgstr "Haazda Marshal"
 
 #: ../../GRN.rst:112
 msgid ""
 "Whenever Haazda Marshal and at least two other creatures attack, create a "
 "1/1 white Soldier creature token with lifelink."
 msgstr ""
+"Kiedy ten stwór oraz przynajmniej dwa inne stwory atakują, stwórz żeton "
+"białego stwora Żołnierz 1/1 z więzią życia."
 
 #: ../../GRN.rst:120
+#, fuzzy
 msgid "Healer's Hawk"
-msgstr ""
+msgstr "Healer's Hawk"
 
 #: ../../GRN.rst:119
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 #: ../../GRN.rst:127
+#, fuzzy
 msgid "Hunted Witness"
-msgstr ""
+msgstr "Hunted Witness"
 
 #: ../../GRN.rst:126
 msgid ""
@@ -202,160 +230,195 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:134
+#, fuzzy
 msgid "Inspiring Unicorn"
-msgstr ""
+msgstr "Inspiring Unicorn"
 
 #: ../../GRN.rst:133
 msgid ""
 "Whenever Inspiring Unicorn attacks, creatures you control get +1/+1 until "
 "end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, stwory pod twoim władaniem dostają +1/+1 do końca "
+"tury."
 
 #: ../../GRN.rst:143
+#, fuzzy
 msgid "Intrusive Packbeast"
-msgstr ""
+msgstr "Intrusive Packbeast"
 
 #: ../../GRN.rst:142
 msgid ""
 "When Intrusive Packbeast enters the battlefield, tap up to two target "
 "creatures your opponents control."
 msgstr ""
+"Kiedy ten stwór wchodzi na pole walki, zaznacz co najwyżej dwa wskazane "
+"stwory pod władaniem przeciwnika."
 
 #: ../../GRN.rst:150
+#, fuzzy
 msgid "Ledev Guardian"
-msgstr ""
+msgstr "Ledev Guardian"
 
 #: ../../GRN.rst:161
+#, fuzzy
 msgid "Light of the Legion"
-msgstr ""
+msgstr "Light of the Legion"
 
 #: ../../GRN.rst:160
 msgid ""
 "When Light of the Legion dies, put a +1/+1 counter on each white creature "
 "you control."
 msgstr ""
+"Kiedy ten stwór umrze, połóż znacznik +1/+1 na każdym białym stworze pod "
+"twoim władaniem."
 
 #: ../../GRN.rst:170
+#, fuzzy
 msgid "Loxodon Restorer"
-msgstr ""
+msgstr "Loxodon Restorer"
 
 #: ../../GRN.rst:169
 msgid "When Loxodon Restorer enters the battlefield, you gain 4 life."
-msgstr ""
+msgstr "Kiedy ten stwór wchodzi na pole walki, ty zyskujesz 4 życia."
 
 #: ../../GRN.rst:179
+#, fuzzy
 msgid "Luminous Bonds"
-msgstr ""
+msgstr "Luminous Bonds"
 
 #: ../../GRN.rst:178
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../GRN.rst:188
+#, fuzzy
 msgid "Parhelion Patrol"
-msgstr ""
+msgstr "Parhelion Patrol"
 
 #: ../../GRN.rst:185
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../GRN.rst:195
+#, fuzzy
 msgid "Righteous Blow"
-msgstr ""
+msgstr "Righteous Blow"
 
 #: ../../GRN.rst:194
 msgid "Righteous Blow deals 2 damage to target attacking or blocking creature."
 msgstr ""
+"Ten czar zadaje 2 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
 
 #: ../../GRN.rst:204
+#, fuzzy
 msgid "Roc Charger"
-msgstr ""
+msgstr "Roc Charger"
 
 #: ../../GRN.rst:203
 msgid ""
 "Whenever Roc Charger attacks, target attacking creature without flying gains "
 "flying until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, wskazany atakujący stwór bez latania zyskuje "
+"latanie do końca tury."
 
 #: ../../GRN.rst:211
+#, fuzzy
 msgid "Skyline Scout"
-msgstr ""
+msgstr "Skyline Scout"
 
 #: ../../GRN.rst:210
 msgid ""
 "Whenever Skyline Scout attacks, you may pay |mana_1| |mana_w|. If you do, it "
 "gains flying until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_1| |mana_w|. Jeśli to "
+"zrobisz, zyskuje on latanie do końca tury."
 
 #: ../../GRN.rst:220
+#, fuzzy
 msgid "Sunhome Stalwart"
-msgstr ""
+msgstr "Sunhome Stalwart"
 
 #: ../../GRN.rst:217
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../GRN.rst:227
+#, fuzzy
 msgid "Sworn Companions"
-msgstr ""
+msgstr "Sworn Companions"
 
 #: ../../GRN.rst:226
 msgid "Create two 1/1 white Soldier creature tokens with lifelink."
-msgstr ""
+msgstr "Stwórz dwa żetony białego stwora Żołnierz 1/1 z więzią życia."
 
 #: ../../GRN.rst:234
+#, fuzzy
 msgid "Take Heart"
-msgstr ""
+msgstr "Take Heart"
 
 #: ../../GRN.rst:233
 msgid ""
 "Target creature gets +2/+2 until end of turn. You gain 1 life for each "
 "attacking creature you control."
 msgstr ""
+"Wskazany stwór dostaje +2/+2 do końca tury. Zyskujesz 1 życie za każdego "
+"atakujące stwora pod  twoim władaniem."
 
 #: ../../GRN.rst:241
+#, fuzzy
 msgid "Tenth District Guard"
-msgstr ""
+msgstr "Tenth District Guard"
 
 #: ../../GRN.rst:240
 msgid ""
 "When Tenth District Guard enters the battlefield, target creature gets +0/+1 "
 "until end of turn."
 msgstr ""
+"Kiedy ten stwór wchodzi na pole walki, wskazany stwór dostaje +0/+1 do końca "
+"tury."
 
 #: ../../GRN.rst:250
+#, fuzzy
 msgid "Venerated Loxodon"
-msgstr ""
+msgstr "Venerated Loxodon"
 
 #: ../../GRN.rst:249
+#, fuzzy
 msgid ""
 "When Venerated Loxodon enters the battlefield, put a +1/+1 counter on each "
 "creature that convoked it."
 msgstr ""
+"Kiedy ten stwór wchodzi na pole walki, połóż znacznik +1/+1 na każdym "
+"stworze, który go ....."
 
 #: ../../GRN.rst:263
+#, fuzzy
 msgid "Capture Sphere"
-msgstr ""
+msgstr "Capture Sphere"
 
 #: ../../GRN.rst:256 ../../GRN.rst:317 ../../GRN.rst:1853
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../GRN.rst:260
 msgid "When Capture Sphere enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ten urok wchodzi na pole walki, zaznacz zauroczonego stwora."
 
 #: ../../GRN.rst:262
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
 
 #: ../../GRN.rst:272
+#, fuzzy
 msgid "Chemister's Insight"
-msgstr ""
+msgstr "Chemister's Insight"
 
 #: ../../GRN.rst:269
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../GRN.rst:271 ../../GRN.rst:362 ../../GRN.rst:426 ../../GRN.rst:435
 #: ../../GRN.rst:787 ../../GRN.rst:870 ../../GRN.rst:922 ../../GRN.rst:938
@@ -366,8 +429,9 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:281
+#, fuzzy
 msgid "Citywatch Sphinx"
-msgstr ""
+msgstr "Citywatch Sphinx"
 
 #: ../../GRN.rst:280
 msgid ""
@@ -377,12 +441,13 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:290
+#, fuzzy
 msgid "Dazzling Lights"
-msgstr ""
+msgstr "Dazzling Lights"
 
 #: ../../GRN.rst:287
 msgid "Target creature gets -3/-0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -3/-0 do końca tury."
 
 #: ../../GRN.rst:289 ../../GRN.rst:569 ../../GRN.rst:631 ../../GRN.rst:686
 msgid ""
@@ -392,8 +457,9 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:297
+#, fuzzy
 msgid "Devious Cover-Up"
-msgstr ""
+msgstr "Devious Cover-Up"
 
 #: ../../GRN.rst:296
 msgid ""
@@ -401,10 +467,14 @@ msgid ""
 "of putting it into its owner's graveyard. You may shuffle up to four target "
 "cards from your graveyard into your library."
 msgstr ""
+"Skontruj wskazany czar. Jeśli ów czar zostanie w ten sposób skontrowany , "
+"wypędź go zamiast umieszczać go w cmentarzu jego władcy. Możesz wtasować co "
+"najwyżej cztery wskazane karty z twojego cmentarza do twojej biblioteki."
 
 #: ../../GRN.rst:304
+#, fuzzy
 msgid "Dimir Informant"
-msgstr ""
+msgstr "Dimir Informant"
 
 #: ../../GRN.rst:303
 msgid ""
@@ -414,16 +484,18 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:311
+#, fuzzy
 msgid "Disdainful Stroke"
-msgstr ""
+msgstr "Disdainful Stroke"
 
 #: ../../GRN.rst:310
 msgid "Counter target spell with converted mana cost 4 or greater."
-msgstr ""
+msgstr "Skontruj wskazany czar o łącznym koszcie many 4 lub większym."
 
 #: ../../GRN.rst:322
+#, fuzzy
 msgid "Dream Eater"
-msgstr ""
+msgstr "Dream Eater"
 
 #: ../../GRN.rst:321
 msgid ""
@@ -435,18 +507,22 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:329
+#, fuzzy
 msgid "Drowned Secrets"
-msgstr ""
+msgstr "Drowned Secrets"
 
 #: ../../GRN.rst:328
 msgid ""
 "Whenever you cast a blue spell, target player puts the top two cards of "
 "their library into their graveyard."
 msgstr ""
+"Ilekroć rzucasz niebieski czar, wskazany gracz wkłada dwie wierzchnie karty "
+"swojej biblioteki do swojego cmentarza."
 
 #: ../../GRN.rst:338
+#, fuzzy
 msgid "Enhanced Surveillance"
-msgstr ""
+msgstr "Enhanced Surveillance"
 
 #: ../../GRN.rst:335
 msgid "You may look at an additional two cards each time you surveil."
@@ -454,43 +530,51 @@ msgstr ""
 
 #: ../../GRN.rst:337
 msgid "Exile Enhanced Surveillance: Shuffle your graveyard into your library."
-msgstr ""
+msgstr "Wypędź ten urok: Wtasuj twój cmentarz do twojej biblioteki."
 
 #: ../../GRN.rst:347
+#, fuzzy
 msgid "Guild Summit"
-msgstr ""
+msgstr "Guild Summit"
 
 #: ../../GRN.rst:344
 msgid ""
 "When Guild Summit enters the battlefield, you may tap any number of untapped "
 "Gates you control. Draw a card for each Gate tapped this way."
 msgstr ""
+"Kiedy ten ląd wchodzi na pole walki, możesz zaznaczyć dowolną liczbę "
+"odznaczonych Bram, którymi władasz. Dobierz kartę za każdą Bramę zaznaczoną "
+"w ten sposób."
 
 #: ../../GRN.rst:346
 msgid "Whenever a Gate enters the battlefield under your control, draw a card."
 msgstr ""
+"Ilekroć jakaś Brama wchodzi na pole walki pod twoim władaniem, dobierz kartę."
 
 #: ../../GRN.rst:354
+#, fuzzy
 msgid "Leapfrog"
-msgstr ""
+msgstr "Leapfrog"
 
 #: ../../GRN.rst:353
 msgid ""
 "Leapfrog has flying as long as you've cast an instant or sorcery spell this "
 "turn."
-msgstr ""
+msgstr "Ten stwór ma latanie o ile rzuciłeś sztuczkę lub gusła w tej turze."
 
 #: ../../GRN.rst:363
+#, fuzzy
 msgid "Maximize Altitude"
-msgstr ""
+msgstr "Maximize Altitude"
 
 #: ../../GRN.rst:360
 msgid "Target creature gets +1/+1 and gains flying until end of turn."
-msgstr ""
+msgstr "Wskazany stwór do końca tury dostaje +1/+1 i zyskuje latanie."
 
 #: ../../GRN.rst:370
+#, fuzzy
 msgid "Mission Briefing"
-msgstr ""
+msgstr "Mission Briefing"
 
 #: ../../GRN.rst:369
 msgid ""
@@ -502,8 +586,9 @@ msgid ""
 msgstr ""
 
 #: ../../GRN.rst:377
+#, fuzzy
 msgid "Murmuring Mystic"
-msgstr ""
+msgstr "Murmuring Mystic"
 
 #: ../../GRN.rst:376
 msgid ""
