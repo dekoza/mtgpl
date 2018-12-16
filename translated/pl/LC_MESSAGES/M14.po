@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -184,7 +184,7 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
-"Więź Życia (Obrażenia zadane przez tego stwora powodują, że zyskujesz tyle "
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
 "samo życia.)"
 
 # 4a4606ad80384fa9a86f7041c3b1f950
@@ -395,7 +395,7 @@ msgstr ""
 # 264eba5cfc614735a5661f7d28497911
 #: ../../M14.rst:81 ../../M14.rst:117
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atak nie powoduje zaznaczenia tego stwora.)"
+msgstr "Czujność (Atakowanie nie powoduje zaznaczenia tego stwora.)"
 
 # 0e07707493094fc78f2d2f5e5bf2228e
 #: ../../M14.rst:88
@@ -2701,7 +2701,7 @@ msgstr "Fog (Mgła)"
 #: ../../M14.rst:847
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, jakie zostałyby zadane w tej turze."
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby być zadane w tej turze."
 
 # e923f9ef6d4b419490c3c9245be244f1
 # 2551c454e0f6423a9495d858f92949bc
@@ -3694,7 +3694,7 @@ msgstr ""
 
 #: ../../M14.rst:1127 ../../M14.rst:1133 ../../M14.rst:1139
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 # e0da49d1291e40cba22d7ceeccadac09
 #: ../../M14.rst:1129
@@ -3734,7 +3734,7 @@ msgstr ""
 # 0987a6e552714f3a94f07b5fb81bed24
 #: ../../M14.rst:1144 ../../M14.rst:1148 ../../M14.rst:1152 ../../M14.rst:1156
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 # b0ab5fca7d9f46519ad62f86d533e737
 # bb3c41635e9643b1b1073251df92247c
@@ -3751,7 +3751,7 @@ msgstr "Swamp (Bagno)"
 # 57f4b806032642978736448e69c16801
 #: ../../M14.rst:1192 ../../M14.rst:1196 ../../M14.rst:1200 ../../M14.rst:1204
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 # d14e27ed80d745d8bd501f345693fef7
 # 7b8d8931700540fdbb150b145713867f
