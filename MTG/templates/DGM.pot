@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-15 23:59+0100\n"
+"POT-Creation-Date: 2018-12-16 23:18+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,1660 +20,1660 @@ msgstr ""
 msgid "Dragon's Maze"
 msgstr ""
 
-#: ../../DGM.rst:13
+#: ../../DGM.rst:10
 msgid "Boros Mastiff"
 msgstr ""
 
-#: ../../DGM.rst:12
+#: ../../DGM.rst:9
 msgid "Battalion — Whenever Boros Mastiff and at least two other creatures attack, Boros Mastiff gains lifelink until end of turn. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)"
 msgstr ""
 
-#: ../../DGM.rst:20
+#: ../../DGM.rst:14
 msgid "Haazda Snare Squad"
 msgstr ""
 
-#: ../../DGM.rst:19
+#: ../../DGM.rst:13
 msgid "Whenever Haazda Snare Squad attacks, you may pay |mana_w|. If you do, tap target creature an opponent controls."
 msgstr ""
 
-#: ../../DGM.rst:27
+#: ../../DGM.rst:18
 msgid "Lyev Decree"
 msgstr ""
 
-#: ../../DGM.rst:26
+#: ../../DGM.rst:17
 msgid "Detain up to two target creatures your opponents control. (Until your next turn, those creatures can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
 
-#: ../../DGM.rst:36
+#: ../../DGM.rst:24
 msgid "Maze Sentinel"
 msgstr ""
 
-#: ../../DGM.rst:33
+#: ../../DGM.rst:21
 msgid "Vigilance"
 msgstr ""
 
-#: ../../DGM.rst:35
+#: ../../DGM.rst:23
 msgid "Multicolored creatures you control have vigilance."
 msgstr ""
 
-#: ../../DGM.rst:43
+#: ../../DGM.rst:28
 msgid "Renounce the Guilds"
 msgstr ""
 
-#: ../../DGM.rst:42
+#: ../../DGM.rst:27
 msgid "Each player sacrifices a multicolored permanent."
 msgstr ""
 
-#: ../../DGM.rst:50
+#: ../../DGM.rst:32
 msgid "Riot Control"
 msgstr ""
 
-#: ../../DGM.rst:49
+#: ../../DGM.rst:31
 msgid "You gain 1 life for each creature your opponents control. Prevent all damage that would be dealt to you this turn."
 msgstr ""
 
-#: ../../DGM.rst:57
+#: ../../DGM.rst:36
 msgid "Scion of Vitu-Ghazi"
 msgstr ""
 
-#: ../../DGM.rst:56
+#: ../../DGM.rst:35
 msgid "When Scion of Vitu-Ghazi enters the battlefield, if you cast it from your hand, create a 1/1 white Bird creature token with flying, then populate. (Create a token that's a copy of a creature token you control.)"
 msgstr ""
 
-#: ../../DGM.rst:64
+#: ../../DGM.rst:40
 msgid "Steeple Roc"
 msgstr ""
 
-#: ../../DGM.rst:63
+#: ../../DGM.rst:39
 msgid "Flying, first strike"
 msgstr ""
 
-#: ../../DGM.rst:71
+#: ../../DGM.rst:44
 msgid "Sunspire Gatekeepers"
 msgstr ""
 
-#: ../../DGM.rst:70
+#: ../../DGM.rst:43
 msgid "When Sunspire Gatekeepers enters the battlefield, if you control two or more Gates, create a 2/2 white Knight creature token with vigilance."
 msgstr ""
 
-#: ../../DGM.rst:78
+#: ../../DGM.rst:48
 msgid "Wake the Reflections"
 msgstr ""
 
-#: ../../DGM.rst:77
+#: ../../DGM.rst:47
 msgid "Populate. (Create a token that's a copy of a creature token you control.)"
 msgstr ""
 
-#: ../../DGM.rst:91
+#: ../../DGM.rst:58
 msgid "Aetherling"
 msgstr ""
 
-#: ../../DGM.rst:84
+#: ../../DGM.rst:51
 msgid "|mana_u|: Exile Aetherling. Return it to the battlefield under its owner's control at the beginning of the next end step."
 msgstr ""
 
-#: ../../DGM.rst:86
+#: ../../DGM.rst:53
 msgid "|mana_u|: Aetherling can't be blocked this turn."
 msgstr ""
 
-#: ../../DGM.rst:88
+#: ../../DGM.rst:55
 msgid "|mana_1|: Aetherling gets +1/-1 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:90
+#: ../../DGM.rst:57
 msgid "|mana_1|: Aetherling gets -1/+1 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:100
+#: ../../DGM.rst:64
 msgid "Hidden Strings"
 msgstr ""
 
-#: ../../DGM.rst:97
+#: ../../DGM.rst:61
 msgid "You may tap or untap target permanent, then you may tap or untap another target permanent."
 msgstr ""
 
-#: ../../DGM.rst:99
-#: ../../DGM.rst:149
+#: ../../DGM.rst:63
+#: ../../DGM.rst:95
 msgid "Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
 
-#: ../../DGM.rst:109
+#: ../../DGM.rst:70
 msgid "Maze Glider"
 msgstr ""
 
-#: ../../DGM.rst:106
-#: ../../DGM.rst:163
-#: ../../DGM.rst:225
-#: ../../DGM.rst:424
-#: ../../DGM.rst:570
-#: ../../DGM.rst:593
-#: ../../DGM.rst:694
+#: ../../DGM.rst:67
+#: ../../DGM.rst:103
+#: ../../DGM.rst:141
+#: ../../DGM.rst:265
+#: ../../DGM.rst:357
+#: ../../DGM.rst:371
+#: ../../DGM.rst:439
 msgid "Flying"
 msgstr ""
 
-#: ../../DGM.rst:108
+#: ../../DGM.rst:69
 msgid "Multicolored creatures you control have flying."
 msgstr ""
 
-#: ../../DGM.rst:116
+#: ../../DGM.rst:74
 msgid "Mindstatic"
 msgstr ""
 
-#: ../../DGM.rst:115
+#: ../../DGM.rst:73
 msgid "Counter target spell unless its controller pays |mana_6|."
 msgstr ""
 
-#: ../../DGM.rst:123
+#: ../../DGM.rst:78
 msgid "Murmuring Phantasm"
 msgstr ""
 
-#: ../../DGM.rst:122
-#: ../../DGM.rst:198
-#: ../../DGM.rst:710
+#: ../../DGM.rst:77
+#: ../../DGM.rst:123
+#: ../../DGM.rst:449
 msgid "Defender"
 msgstr ""
 
-#: ../../DGM.rst:130
+#: ../../DGM.rst:82
 msgid "Opal Lake Gatekeepers"
 msgstr ""
 
-#: ../../DGM.rst:129
+#: ../../DGM.rst:81
 msgid "When Opal Lake Gatekeepers enters the battlefield, if you control two or more Gates, you may draw a card."
 msgstr ""
 
-#: ../../DGM.rst:141
+#: ../../DGM.rst:90
 msgid "Runner's Bane"
 msgstr ""
 
-#: ../../DGM.rst:136
+#: ../../DGM.rst:85
 msgid "Enchant creature with power 3 or less"
 msgstr ""
 
-#: ../../DGM.rst:138
+#: ../../DGM.rst:87
 msgid "When Runner's Bane enters the battlefield, tap enchanted creature."
 msgstr ""
 
-#: ../../DGM.rst:140
+#: ../../DGM.rst:89
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
 
-#: ../../DGM.rst:150
+#: ../../DGM.rst:96
 msgid "Trait Doctoring"
 msgstr ""
 
-#: ../../DGM.rst:147
+#: ../../DGM.rst:93
 msgid "Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:157
+#: ../../DGM.rst:100
 msgid "Uncovered Clues"
 msgstr ""
 
-#: ../../DGM.rst:156
+#: ../../DGM.rst:99
 msgid "Look at the top four cards of your library. You may reveal up to two instant and/or sorcery cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
 
-#: ../../DGM.rst:164
+#: ../../DGM.rst:104
 msgid "Wind Drake"
 msgstr ""
 
-#: ../../DGM.rst:169
+#: ../../DGM.rst:106
 msgid "Bane Alley Blackguard"
 msgstr ""
 
-#: ../../DGM.rst:178
+#: ../../DGM.rst:112
 msgid "Blood Scrivener"
 msgstr ""
 
-#: ../../DGM.rst:177
+#: ../../DGM.rst:111
 msgid "If you would draw a card while you have no cards in hand, instead draw two cards and lose 1 life."
 msgstr ""
 
-#: ../../DGM.rst:185
+#: ../../DGM.rst:116
 msgid "Crypt Incursion"
 msgstr ""
 
-#: ../../DGM.rst:184
+#: ../../DGM.rst:115
 msgid "Exile all creature cards from target player's graveyard. You gain 3 life for each card exiled this way."
 msgstr ""
 
-#: ../../DGM.rst:192
+#: ../../DGM.rst:120
 msgid "Fatal Fumes"
 msgstr ""
 
-#: ../../DGM.rst:191
+#: ../../DGM.rst:119
 msgid "Target creature gets -4/-2 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:201
+#: ../../DGM.rst:126
 msgid "Hired Torturer"
 msgstr ""
 
-#: ../../DGM.rst:200
+#: ../../DGM.rst:125
 msgid "|mana_3| |mana_b|, |tap|: Target opponent loses 2 life, then reveals a card at random from their hand."
 msgstr ""
 
-#: ../../DGM.rst:210
+#: ../../DGM.rst:132
 msgid "Maze Abomination"
 msgstr ""
 
-#: ../../DGM.rst:207
+#: ../../DGM.rst:129
 msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
 msgstr ""
 
-#: ../../DGM.rst:209
+#: ../../DGM.rst:131
 msgid "Multicolored creatures you control have deathtouch."
 msgstr ""
 
-#: ../../DGM.rst:219
+#: ../../DGM.rst:138
 msgid "Pontiff of Blight"
 msgstr ""
 
-#: ../../DGM.rst:216
-#: ../../DGM.rst:888
-msgid "Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)"
+#: ../../DGM.rst:135
+#: ../../DGM.rst:561
+msgid "Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each opponent loses 1 life and you gain that much life.)"
 msgstr ""
 
-#: ../../DGM.rst:218
+#: ../../DGM.rst:137
 msgid "Other creatures you control have extort. (If a creature has multiple instances of extort, each triggers separately.)"
 msgstr ""
 
-#: ../../DGM.rst:228
+#: ../../DGM.rst:144
 msgid "Rakdos Drake"
 msgstr ""
 
-#: ../../DGM.rst:227
-#: ../../DGM.rst:554
+#: ../../DGM.rst:143
+#: ../../DGM.rst:347
 msgid "Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)"
 msgstr ""
 
-#: ../../DGM.rst:237
+#: ../../DGM.rst:150
 msgid "Sinister Possession"
 msgstr ""
 
-#: ../../DGM.rst:234
-#: ../../DGM.rst:634
-#: ../../DGM.rst:902
+#: ../../DGM.rst:147
+#: ../../DGM.rst:397
+#: ../../DGM.rst:569
 msgid "Enchant creature"
 msgstr ""
 
-#: ../../DGM.rst:236
+#: ../../DGM.rst:149
 msgid "Whenever enchanted creature attacks or blocks, its controller loses 2 life."
 msgstr ""
 
-#: ../../DGM.rst:244
+#: ../../DGM.rst:154
 msgid "Ubul Sar Gatekeepers"
 msgstr ""
 
-#: ../../DGM.rst:243
+#: ../../DGM.rst:153
 msgid "When Ubul Sar Gatekeepers enters the battlefield, if you control two or more Gates, target creature an opponent controls gets -2/-2 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:251
+#: ../../DGM.rst:158
 msgid "Awe for the Guilds"
 msgstr ""
 
-#: ../../DGM.rst:250
+#: ../../DGM.rst:157
 msgid "Monocolored creatures can't block this turn."
 msgstr ""
 
-#: ../../DGM.rst:258
+#: ../../DGM.rst:162
 msgid "Clear a Path"
 msgstr ""
 
-#: ../../DGM.rst:257
+#: ../../DGM.rst:161
 msgid "Destroy target creature with defender."
 msgstr ""
 
-#: ../../DGM.rst:267
+#: ../../DGM.rst:168
 msgid "Maze Rusher"
 msgstr ""
 
-#: ../../DGM.rst:264
-#: ../../DGM.rst:861
-#: ../../DGM.rst:920
+#: ../../DGM.rst:165
+#: ../../DGM.rst:543
+#: ../../DGM.rst:581
 msgid "Haste"
 msgstr ""
 
-#: ../../DGM.rst:266
+#: ../../DGM.rst:167
 msgid "Multicolored creatures you control have haste."
 msgstr ""
 
-#: ../../DGM.rst:274
+#: ../../DGM.rst:172
 msgid "Possibility Storm"
 msgstr ""
 
-#: ../../DGM.rst:273
+#: ../../DGM.rst:171
 msgid "Whenever a player casts a spell from their hand, that player exiles it, then exiles cards from the top of their library until they exile a card that shares a card type with it. That player may cast that card without paying its mana cost. Then they put all cards exiled with Possibility Storm on the bottom of their library in a random order."
 msgstr ""
 
-#: ../../DGM.rst:281
+#: ../../DGM.rst:176
 msgid "Punish the Enemy"
 msgstr ""
 
-#: ../../DGM.rst:280
+#: ../../DGM.rst:175
 msgid "Punish the Enemy deals 3 damage to target player or planeswalker and 3 damage to target creature."
 msgstr ""
 
-#: ../../DGM.rst:290
+#: ../../DGM.rst:182
 msgid "Pyrewild Shaman"
 msgstr ""
 
-#: ../../DGM.rst:287
+#: ../../DGM.rst:179
 msgid "Bloodrush — |mana_1| |mana_r|, Discard Pyrewild Shaman: Target attacking creature gets +3/+1 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:289
+#: ../../DGM.rst:181
 msgid "Whenever one or more creatures you control deal combat damage to a player, if Pyrewild Shaman is in your graveyard, you may pay |mana_3|. If you do, return Pyrewild Shaman to your hand."
 msgstr ""
 
-#: ../../DGM.rst:299
+#: ../../DGM.rst:188
 msgid "Riot Piker"
 msgstr ""
 
-#: ../../DGM.rst:296
+#: ../../DGM.rst:185
 msgid "First strike"
 msgstr ""
 
-#: ../../DGM.rst:298
+#: ../../DGM.rst:187
 msgid "Riot Piker attacks each combat if able."
 msgstr ""
 
-#: ../../DGM.rst:306
+#: ../../DGM.rst:192
 msgid "Rubblebelt Maaka"
 msgstr ""
 
-#: ../../DGM.rst:305
+#: ../../DGM.rst:191
 msgid "Bloodrush — |mana_r|, Discard Rubblebelt Maaka: Target attacking creature gets +3/+3 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:313
+#: ../../DGM.rst:196
 msgid "Smelt-Ward Gatekeepers"
 msgstr ""
 
-#: ../../DGM.rst:312
+#: ../../DGM.rst:195
 msgid "When Smelt-Ward Gatekeepers enters the battlefield, if you control two or more Gates, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:322
+#: ../../DGM.rst:202
 msgid "Weapon Surge"
 msgstr ""
 
-#: ../../DGM.rst:319
+#: ../../DGM.rst:199
 msgid "Target creature you control gets +1/+0 and gains first strike until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:321
+#: ../../DGM.rst:201
 msgid "Overload |mana_1| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
-#: ../../DGM.rst:331
+#: ../../DGM.rst:208
 msgid "Battering Krasis"
 msgstr ""
 
-#: ../../DGM.rst:328
-#: ../../DGM.rst:344
+#: ../../DGM.rst:205
+#: ../../DGM.rst:215
 msgid "Trample"
 msgstr ""
 
-#: ../../DGM.rst:330
-#: ../../DGM.rst:374
+#: ../../DGM.rst:207
+#: ../../DGM.rst:233
 msgid "Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)"
 msgstr ""
 
-#: ../../DGM.rst:338
+#: ../../DGM.rst:212
 msgid "Kraul Warrior"
 msgstr ""
 
-#: ../../DGM.rst:337
+#: ../../DGM.rst:211
 msgid "|mana_5| |mana_g|: Kraul Warrior gets +3/+3 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:347
+#: ../../DGM.rst:218
 msgid "Maze Behemoth"
 msgstr ""
 
-#: ../../DGM.rst:346
+#: ../../DGM.rst:217
 msgid "Multicolored creatures you control have trample."
 msgstr ""
 
-#: ../../DGM.rst:354
+#: ../../DGM.rst:222
 msgid "Mending Touch"
 msgstr ""
 
-#: ../../DGM.rst:353
+#: ../../DGM.rst:221
 msgid "Regenerate target creature."
 msgstr ""
 
-#: ../../DGM.rst:361
+#: ../../DGM.rst:226
 msgid "Mutant's Prey"
 msgstr ""
 
-#: ../../DGM.rst:360
+#: ../../DGM.rst:225
 msgid "Target creature you control with a +1/+1 counter on it fights target creature an opponent controls. (Each deals damage equal to its power to the other.)"
 msgstr ""
 
-#: ../../DGM.rst:368
+#: ../../DGM.rst:230
 msgid "Phytoburst"
 msgstr ""
 
-#: ../../DGM.rst:367
+#: ../../DGM.rst:229
 msgid "Target creature gets +5/+5 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:377
+#: ../../DGM.rst:236
 msgid "Renegade Krasis"
 msgstr ""
 
-#: ../../DGM.rst:376
+#: ../../DGM.rst:235
 msgid "Whenever Renegade Krasis evolves, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it."
 msgstr ""
 
-#: ../../DGM.rst:384
+#: ../../DGM.rst:240
 msgid "Saruli Gatekeepers"
 msgstr ""
 
-#: ../../DGM.rst:383
+#: ../../DGM.rst:239
 msgid "When Saruli Gatekeepers enters the battlefield, if you control two or more Gates, you gain 7 life."
 msgstr ""
 
-#: ../../DGM.rst:395
+#: ../../DGM.rst:248
 msgid "Skylasher"
 msgstr ""
 
-#: ../../DGM.rst:390
-#: ../../DGM.rst:719
+#: ../../DGM.rst:243
+#: ../../DGM.rst:455
 msgid "Flash"
 msgstr ""
 
-#: ../../DGM.rst:392
+#: ../../DGM.rst:245
 msgid "This spell can't be countered."
 msgstr ""
 
-#: ../../DGM.rst:394
+#: ../../DGM.rst:247
 msgid "Reach, protection from blue"
 msgstr ""
 
-#: ../../DGM.rst:404
+#: ../../DGM.rst:254
 msgid "Thrashing Mossdog"
 msgstr ""
 
-#: ../../DGM.rst:401
+#: ../../DGM.rst:251
 msgid "Reach (This creature can block creatures with flying.)"
 msgstr ""
 
-#: ../../DGM.rst:403
+#: ../../DGM.rst:253
 msgid "Scavenge |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 
-#: ../../DGM.rst:411
+#: ../../DGM.rst:258
 msgid "Advent of the Wurm"
 msgstr ""
 
-#: ../../DGM.rst:410
+#: ../../DGM.rst:257
 msgid "Create a 5/5 green Wurm creature token with trample."
 msgstr ""
 
-#: ../../DGM.rst:416
+#: ../../DGM.rst:260
 msgid "Armored Wolf-Rider"
 msgstr ""
 
-#: ../../DGM.rst:427
+#: ../../DGM.rst:268
 msgid "Ascended Lawmage"
 msgstr ""
 
-#: ../../DGM.rst:426
+#: ../../DGM.rst:267
 msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 
-#: ../../DGM.rst:434
+#: ../../DGM.rst:272
 msgid "Beetleform Mage"
 msgstr ""
 
-#: ../../DGM.rst:433
+#: ../../DGM.rst:271
 msgid "|mana_g| |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn."
 msgstr ""
 
-#: ../../DGM.rst:441
+#: ../../DGM.rst:276
 msgid "Blast of Genius"
 msgstr ""
 
-#: ../../DGM.rst:440
+#: ../../DGM.rst:275
 msgid "Choose any target. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that permanent or player."
 msgstr ""
 
-#: ../../DGM.rst:448
+#: ../../DGM.rst:280
 msgid "Blaze Commando"
 msgstr ""
 
-#: ../../DGM.rst:447
+#: ../../DGM.rst:279
 msgid "Whenever an instant or sorcery spell you control deals damage, create two 1/1 red and white Soldier creature tokens with haste."
 msgstr ""
 
-#: ../../DGM.rst:457
+#: ../../DGM.rst:286
 msgid "Blood Baron of Vizkopa"
 msgstr ""
 
-#: ../../DGM.rst:454
+#: ../../DGM.rst:283
 msgid "Lifelink, protection from white and from black"
 msgstr ""
 
-#: ../../DGM.rst:456
+#: ../../DGM.rst:285
 msgid "As long as you have 30 or more life and an opponent has 10 or less life, Blood Baron of Vizkopa gets +6/+6 and has flying."
 msgstr ""
 
-#: ../../DGM.rst:464
+#: ../../DGM.rst:290
 msgid "Boros Battleshaper"
 msgstr ""
 
-#: ../../DGM.rst:463
+#: ../../DGM.rst:289
 msgid "At the beginning of each combat, up to one target creature attacks or blocks this combat if able and up to one target creature can't attack or block this combat."
 msgstr ""
 
-#: ../../DGM.rst:471
+#: ../../DGM.rst:294
 msgid "Bred for the Hunt"
 msgstr ""
 
-#: ../../DGM.rst:470
+#: ../../DGM.rst:293
 msgid "Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, you may draw a card."
 msgstr ""
 
-#: ../../DGM.rst:478
+#: ../../DGM.rst:298
 msgid "Bronzebeak Moa"
 msgstr ""
 
-#: ../../DGM.rst:477
+#: ../../DGM.rst:297
 msgid "Whenever another creature enters the battlefield under your control, Bronzebeak Moa gets +3/+3 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:487
+#: ../../DGM.rst:304
 msgid "Carnage Gladiator"
 msgstr ""
 
-#: ../../DGM.rst:484
+#: ../../DGM.rst:301
 msgid "Whenever a creature blocks, that creature's controller loses 1 life."
 msgstr ""
 
-#: ../../DGM.rst:486
+#: ../../DGM.rst:303
 msgid "|mana_1| |mana_b| |mana_r|: Regenerate Carnage Gladiator."
 msgstr ""
 
-#: ../../DGM.rst:498
+#: ../../DGM.rst:312
 msgid "Council of the Absolute"
 msgstr ""
 
-#: ../../DGM.rst:493
+#: ../../DGM.rst:307
 msgid "As Council of the Absolute enters the battlefield, choose a noncreature, nonland card name."
 msgstr ""
 
-#: ../../DGM.rst:495
+#: ../../DGM.rst:309
 msgid "Your opponents can't cast spells with the chosen name."
 msgstr ""
 
-#: ../../DGM.rst:497
+#: ../../DGM.rst:311
 msgid "Spells with the chosen name you cast cost |mana_2| less to cast."
 msgstr ""
 
-#: ../../DGM.rst:507
+#: ../../DGM.rst:318
 msgid "Deadbridge Chant"
 msgstr ""
 
-#: ../../DGM.rst:504
+#: ../../DGM.rst:315
 msgid "When Deadbridge Chant enters the battlefield, put the top ten cards of your library into your graveyard."
 msgstr ""
 
-#: ../../DGM.rst:506
+#: ../../DGM.rst:317
 msgid "At the beginning of your upkeep, choose a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, put it into your hand."
 msgstr ""
 
-#: ../../DGM.rst:514
+#: ../../DGM.rst:322
 msgid "Debt to the Deathless"
 msgstr ""
 
-#: ../../DGM.rst:513
+#: ../../DGM.rst:321
 msgid "Each opponent loses two times X life. You gain life equal to the life lost this way."
 msgstr ""
 
-#: ../../DGM.rst:523
+#: ../../DGM.rst:328
 msgid "Deputy of Acquittals"
 msgstr ""
 
-#: ../../DGM.rst:520
+#: ../../DGM.rst:325
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
 
-#: ../../DGM.rst:522
+#: ../../DGM.rst:327
 msgid "When Deputy of Acquittals enters the battlefield, you may return another target creature you control to its owner's hand."
 msgstr ""
 
-#: ../../DGM.rst:532
+#: ../../DGM.rst:334
 msgid "Dragonshift"
 msgstr ""
 
-#: ../../DGM.rst:529
+#: ../../DGM.rst:331
 msgid "Until end of turn, target creature you control becomes a blue and red Dragon with base power and toughness 4/4, loses all abilities, and gains flying."
 msgstr ""
 
-#: ../../DGM.rst:531
+#: ../../DGM.rst:333
 msgid "Overload |mana_3| |mana_u| |mana_u| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
-#: ../../DGM.rst:539
+#: ../../DGM.rst:338
 msgid "Drown in Filth"
 msgstr ""
 
-#: ../../DGM.rst:538
+#: ../../DGM.rst:337
 msgid "Choose target creature. Put the top four cards of your library into your graveyard, then that creature gets -1/-1 until end of turn for each land card in your graveyard."
 msgstr ""
 
-#: ../../DGM.rst:546
+#: ../../DGM.rst:342
 msgid "Emmara Tandris"
 msgstr ""
 
-#: ../../DGM.rst:545
+#: ../../DGM.rst:341
 msgid "Prevent all damage that would be dealt to creature tokens you control."
 msgstr ""
 
-#: ../../DGM.rst:557
+#: ../../DGM.rst:350
 msgid "Exava, Rakdos Blood Witch"
 msgstr ""
 
-#: ../../DGM.rst:552
+#: ../../DGM.rst:345
 msgid "First strike, haste"
 msgstr ""
 
-#: ../../DGM.rst:556
+#: ../../DGM.rst:349
 msgid "Each other creature you control with a +1/+1 counter on it has haste."
 msgstr ""
 
-#: ../../DGM.rst:564
+#: ../../DGM.rst:354
 msgid "Feral Animist"
 msgstr ""
 
-#: ../../DGM.rst:563
+#: ../../DGM.rst:353
 msgid "|mana_3|: Feral Animist gets +X/+0 until end of turn, where X is its power."
 msgstr ""
 
-#: ../../DGM.rst:573
+#: ../../DGM.rst:360
 msgid "Fluxcharger"
 msgstr ""
 
-#: ../../DGM.rst:572
+#: ../../DGM.rst:359
 msgid "Whenever you cast an instant or sorcery spell, you may switch Fluxcharger's power and toughness until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:580
+#: ../../DGM.rst:364
 msgid "Gaze of Granite"
 msgstr ""
 
-#: ../../DGM.rst:579
+#: ../../DGM.rst:363
 msgid "Destroy each nonland permanent with converted mana cost X or less."
 msgstr ""
 
-#: ../../DGM.rst:587
+#: ../../DGM.rst:368
 msgid "Gleam of Battle"
 msgstr ""
 
-#: ../../DGM.rst:586
+#: ../../DGM.rst:367
 msgid "Whenever a creature you control attacks, put a +1/+1 counter on it."
 msgstr ""
 
-#: ../../DGM.rst:596
+#: ../../DGM.rst:374
 msgid "Goblin Test Pilot"
 msgstr ""
 
-#: ../../DGM.rst:595
+#: ../../DGM.rst:373
 msgid "|tap|: Goblin Test Pilot deals 2 damage to any target chosen at random."
 msgstr ""
 
-#: ../../DGM.rst:603
+#: ../../DGM.rst:378
 msgid "Gruul War Chant"
 msgstr ""
 
-#: ../../DGM.rst:602
+#: ../../DGM.rst:377
 msgid "Attacking creatures you control get +1/+0 and have menace."
 msgstr ""
 
-#: ../../DGM.rst:610
+#: ../../DGM.rst:382
 msgid "Haunter of Nightveil"
 msgstr ""
 
-#: ../../DGM.rst:609
+#: ../../DGM.rst:381
 msgid "Creatures your opponents control get -1/-0."
 msgstr ""
 
-#: ../../DGM.rst:619
+#: ../../DGM.rst:388
 msgid "Jelenn Sphinx"
 msgstr ""
 
-#: ../../DGM.rst:616
+#: ../../DGM.rst:385
 msgid "Flying, vigilance"
 msgstr ""
 
-#: ../../DGM.rst:618
+#: ../../DGM.rst:387
 msgid "Whenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:628
+#: ../../DGM.rst:394
 msgid "Korozda Gorgon"
 msgstr ""
 
-#: ../../DGM.rst:625
+#: ../../DGM.rst:391
 msgid "Deathtouch"
 msgstr ""
 
-#: ../../DGM.rst:627
+#: ../../DGM.rst:393
 msgid "|mana_2|, Remove a +1/+1 counter from a creature you control: Target creature gets -1/-1 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:639
+#: ../../DGM.rst:402
 msgid "Krasis Incubation"
 msgstr ""
 
-#: ../../DGM.rst:636
+#: ../../DGM.rst:399
 msgid "Enchanted creature can't attack or block, and its activated abilities can't be activated."
 msgstr ""
 
-#: ../../DGM.rst:638
+#: ../../DGM.rst:401
 msgid "|mana_1| |mana_g| |mana_u|, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature."
 msgstr ""
 
-#: ../../DGM.rst:648
+#: ../../DGM.rst:408
 msgid "Lavinia of the Tenth"
 msgstr ""
 
-#: ../../DGM.rst:645
+#: ../../DGM.rst:405
 msgid "Protection from red"
 msgstr ""
 
-#: ../../DGM.rst:647
+#: ../../DGM.rst:407
 msgid "When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)"
 msgstr ""
 
-#: ../../DGM.rst:659
+#: ../../DGM.rst:416
 msgid "Legion's Initiative"
 msgstr ""
 
-#: ../../DGM.rst:654
+#: ../../DGM.rst:411
 msgid "Red creatures you control get +1/+0."
 msgstr ""
 
-#: ../../DGM.rst:656
+#: ../../DGM.rst:413
 msgid "White creatures you control get +0/+1."
 msgstr ""
 
-#: ../../DGM.rst:658
+#: ../../DGM.rst:415
 msgid "|mana_r| |mana_w|, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:670
+#: ../../DGM.rst:424
 msgid "Master of Cruelties"
 msgstr ""
 
-#: ../../DGM.rst:665
+#: ../../DGM.rst:419
 msgid "First strike, deathtouch"
 msgstr ""
 
-#: ../../DGM.rst:667
+#: ../../DGM.rst:421
 msgid "Master of Cruelties can only attack alone."
 msgstr ""
 
-#: ../../DGM.rst:669
+#: ../../DGM.rst:423
 msgid "Whenever Master of Cruelties attacks a player and isn't blocked, that player's life total becomes 1. Master of Cruelties assigns no combat damage this combat."
 msgstr ""
 
-#: ../../DGM.rst:677
+#: ../../DGM.rst:428
 msgid "Maw of the Obzedat"
 msgstr ""
 
-#: ../../DGM.rst:676
+#: ../../DGM.rst:427
 msgid "Sacrifice a creature: Creatures you control get +1/+1 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:688
+#: ../../DGM.rst:436
 msgid "Melek, Izzet Paragon"
 msgstr ""
 
-#: ../../DGM.rst:683
+#: ../../DGM.rst:431
 msgid "Play with the top card of your library revealed."
 msgstr ""
 
-#: ../../DGM.rst:685
+#: ../../DGM.rst:433
 msgid "You may cast the top card of your library if it's an instant or sorcery card."
 msgstr ""
 
-#: ../../DGM.rst:687
+#: ../../DGM.rst:435
 msgid "Whenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy."
 msgstr ""
 
-#: ../../DGM.rst:697
+#: ../../DGM.rst:442
 msgid "Mirko Vosk, Mind Drinker"
 msgstr ""
 
-#: ../../DGM.rst:696
+#: ../../DGM.rst:441
 msgid "Whenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player reveals cards from the top of their library until they reveal four land cards, then puts those cards into their graveyard."
 msgstr ""
 
-#: ../../DGM.rst:704
+#: ../../DGM.rst:446
 msgid "Morgue Burst"
 msgstr ""
 
-#: ../../DGM.rst:703
+#: ../../DGM.rst:445
 msgid "Return target creature card from your graveyard to your hand. Morgue Burst deals damage to any target equal to the power of the card returned this way."
 msgstr ""
 
-#: ../../DGM.rst:713
+#: ../../DGM.rst:452
 msgid "Nivix Cyclops"
 msgstr ""
 
-#: ../../DGM.rst:712
+#: ../../DGM.rst:451
 msgid "Whenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 until end of turn and can attack this turn as though it didn't have defender."
 msgstr ""
 
-#: ../../DGM.rst:722
+#: ../../DGM.rst:458
 msgid "Notion Thief"
 msgstr ""
 
-#: ../../DGM.rst:721
+#: ../../DGM.rst:457
 msgid "If an opponent would draw a card except the first one they draw in each of their draw steps, instead that player skips that draw and you draw a card."
 msgstr ""
 
-#: ../../DGM.rst:729
+#: ../../DGM.rst:462
 msgid "Obzedat's Aid"
 msgstr ""
 
-#: ../../DGM.rst:728
+#: ../../DGM.rst:461
 msgid "Return target permanent card from your graveyard to the battlefield."
 msgstr ""
 
-#: ../../DGM.rst:736
+#: ../../DGM.rst:466
 msgid "Pilfered Plans"
 msgstr ""
 
-#: ../../DGM.rst:735
+#: ../../DGM.rst:465
 msgid "Target player puts the top two cards of their library into their graveyard. Draw two cards."
 msgstr ""
 
-#: ../../DGM.rst:743
+#: ../../DGM.rst:470
 msgid "Plasm Capture"
 msgstr ""
 
-#: ../../DGM.rst:742
+#: ../../DGM.rst:469
 msgid "Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors, where X is that spell's converted mana cost."
 msgstr ""
 
-#: ../../DGM.rst:750
+#: ../../DGM.rst:474
 msgid "Progenitor Mimic"
 msgstr ""
 
-#: ../../DGM.rst:749
+#: ../../DGM.rst:473
 msgid "You may have Progenitor Mimic enter the battlefield as a copy of any creature on the battlefield, except it has \"At the beginning of your upkeep, if this creature isn't a token, create a token that's a copy of this creature.\""
 msgstr ""
 
-#: ../../DGM.rst:757
+#: ../../DGM.rst:478
 msgid "Putrefy"
 msgstr ""
 
-#: ../../DGM.rst:756
+#: ../../DGM.rst:477
 msgid "Destroy target artifact or creature. It can't be regenerated."
 msgstr ""
 
-#: ../../DGM.rst:768
+#: ../../DGM.rst:486
 msgid "Ral Zarek"
 msgstr ""
 
-#: ../../DGM.rst:763
+#: ../../DGM.rst:481
 msgid "+1: Tap target permanent, then untap another target permanent."
 msgstr ""
 
-#: ../../DGM.rst:765
+#: ../../DGM.rst:483
 msgid "−2: Ral Zarek deals 3 damage to any target."
 msgstr ""
 
-#: ../../DGM.rst:767
+#: ../../DGM.rst:485
 msgid "−7: Flip five coins. Take an extra turn after this one for each coin that comes up heads."
 msgstr ""
 
-#: ../../DGM.rst:775
+#: ../../DGM.rst:490
 msgid "Reap Intellect"
 msgstr ""
 
-#: ../../DGM.rst:774
+#: ../../DGM.rst:489
 msgid "Target opponent reveals their hand. You choose up to X nonland cards from it and exile them. For each card exiled this way, search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles their library."
 msgstr ""
 
-#: ../../DGM.rst:782
+#: ../../DGM.rst:494
 msgid "Render Silent"
 msgstr ""
 
-#: ../../DGM.rst:781
+#: ../../DGM.rst:493
 msgid "Counter target spell. Its controller can't cast spells this turn."
 msgstr ""
 
-#: ../../DGM.rst:789
+#: ../../DGM.rst:498
 msgid "Restore the Peace"
 msgstr ""
 
-#: ../../DGM.rst:788
+#: ../../DGM.rst:497
 msgid "Return each creature that dealt damage this turn to its owner's hand."
 msgstr ""
 
-#: ../../DGM.rst:798
+#: ../../DGM.rst:504
 msgid "Rot Farm Skeleton"
 msgstr ""
 
-#: ../../DGM.rst:795
+#: ../../DGM.rst:501
 msgid "Rot Farm Skeleton can't block."
 msgstr ""
 
-#: ../../DGM.rst:797
+#: ../../DGM.rst:503
 msgid "|mana_2| |mana_b| |mana_g|, Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
-#: ../../DGM.rst:809
+#: ../../DGM.rst:512
 msgid "Ruric Thar, the Unbowed"
 msgstr ""
 
-#: ../../DGM.rst:804
+#: ../../DGM.rst:507
 msgid "Vigilance, reach"
 msgstr ""
 
-#: ../../DGM.rst:806
+#: ../../DGM.rst:509
 msgid "Ruric Thar, the Unbowed attacks each combat if able."
 msgstr ""
 
-#: ../../DGM.rst:808
+#: ../../DGM.rst:511
 msgid "Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to that player."
 msgstr ""
 
-#: ../../DGM.rst:820
+#: ../../DGM.rst:520
 msgid "Savageborn Hydra"
 msgstr ""
 
-#: ../../DGM.rst:815
+#: ../../DGM.rst:515
 msgid "Double strike"
 msgstr ""
 
-#: ../../DGM.rst:817
+#: ../../DGM.rst:517
 msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
-#: ../../DGM.rst:819
-msgid "|mana_1|{R/G}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery."
+#: ../../DGM.rst:519
+msgid "|mana_1| |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
-#: ../../DGM.rst:827
+#: ../../DGM.rst:524
 msgid "Scab-Clan Giant"
 msgstr ""
 
-#: ../../DGM.rst:826
+#: ../../DGM.rst:523
 msgid "When Scab-Clan Giant enters the battlefield, it fights target creature an opponent controls chosen at random."
 msgstr ""
 
-#: ../../DGM.rst:834
+#: ../../DGM.rst:528
 msgid "Showstopper"
 msgstr ""
 
-#: ../../DGM.rst:833
+#: ../../DGM.rst:527
 msgid "Until end of turn, creatures you control gain \"When this creature dies, it deals 2 damage to target creature an opponent controls.\""
 msgstr ""
 
-#: ../../DGM.rst:841
+#: ../../DGM.rst:532
 msgid "Sin Collector"
 msgstr ""
 
-#: ../../DGM.rst:840
+#: ../../DGM.rst:531
 msgid "When Sin Collector enters the battlefield, target opponent reveals their hand. You choose an instant or sorcery card from it and exile that card."
 msgstr ""
 
-#: ../../DGM.rst:848
+#: ../../DGM.rst:536
 msgid "Sire of Insanity"
 msgstr ""
 
-#: ../../DGM.rst:847
+#: ../../DGM.rst:535
 msgid "At the beginning of each end step, each player discards their hand."
 msgstr ""
 
-#: ../../DGM.rst:855
+#: ../../DGM.rst:540
 msgid "Species Gorger"
 msgstr ""
 
-#: ../../DGM.rst:854
+#: ../../DGM.rst:539
 msgid "At the beginning of your upkeep, return a creature you control to its owner's hand."
 msgstr ""
 
-#: ../../DGM.rst:862
+#: ../../DGM.rst:544
 msgid "Spike Jester"
 msgstr ""
 
-#: ../../DGM.rst:871
+#: ../../DGM.rst:550
 msgid "Tajic, Blade of the Legion"
 msgstr ""
 
-#: ../../DGM.rst:868
+#: ../../DGM.rst:547
 msgid "Indestructible"
 msgstr ""
 
-#: ../../DGM.rst:870
+#: ../../DGM.rst:549
 msgid "Battalion — Whenever Tajic, Blade of the Legion and at least two other creatures attack, Tajic gets +5/+5 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:880
+#: ../../DGM.rst:556
 msgid "Teysa, Envoy of Ghosts"
 msgstr ""
 
-#: ../../DGM.rst:877
+#: ../../DGM.rst:553
 msgid "Vigilance, protection from creatures"
 msgstr ""
 
-#: ../../DGM.rst:879
+#: ../../DGM.rst:555
 msgid "Whenever a creature deals combat damage to you, destroy that creature. Create a 1/1 white and black Spirit creature token with flying."
 msgstr ""
 
-#: ../../DGM.rst:889
+#: ../../DGM.rst:562
 msgid "Tithe Drinker"
 msgstr ""
 
-#: ../../DGM.rst:886
+#: ../../DGM.rst:559
 msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
 msgstr ""
 
-#: ../../DGM.rst:896
+#: ../../DGM.rst:566
 msgid "Trostani's Summoner"
 msgstr ""
 
-#: ../../DGM.rst:895
+#: ../../DGM.rst:565
 msgid "When Trostani's Summoner enters the battlefield, create a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample."
 msgstr ""
 
-#: ../../DGM.rst:905
+#: ../../DGM.rst:572
 msgid "Unflinching Courage"
 msgstr ""
 
-#: ../../DGM.rst:904
+#: ../../DGM.rst:571
 msgid "Enchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)"
 msgstr ""
 
-#: ../../DGM.rst:914
+#: ../../DGM.rst:578
 msgid "Varolz, the Scar-Striped"
 msgstr ""
 
-#: ../../DGM.rst:911
+#: ../../DGM.rst:575
 msgid "Each creature card in your graveyard has scavenge. The scavenge cost is equal to its mana cost. (Exile a creature card from your graveyard and pay its mana cost: Put a number of +1/+1 counters equal to that card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 
-#: ../../DGM.rst:913
+#: ../../DGM.rst:577
 msgid "Sacrifice another creature: Regenerate Varolz, the Scar-Striped."
 msgstr ""
 
-#: ../../DGM.rst:923
+#: ../../DGM.rst:584
 msgid "Viashino Firstblade"
 msgstr ""
 
-#: ../../DGM.rst:922
+#: ../../DGM.rst:583
 msgid "When Viashino Firstblade enters the battlefield, it gets +2/+2 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:930
+#: ../../DGM.rst:588
 msgid "Voice of Resurgence"
 msgstr ""
 
-#: ../../DGM.rst:929
+#: ../../DGM.rst:587
 msgid "Whenever an opponent casts a spell during your turn or when Voice of Resurgence dies, create a green and white Elemental creature token with \"This creature's power and toughness are each equal to the number of creatures you control.\""
 msgstr ""
 
-#: ../../DGM.rst:937
+#: ../../DGM.rst:592
 msgid "Vorel of the Hull Clade"
 msgstr ""
 
-#: ../../DGM.rst:936
+#: ../../DGM.rst:591
 msgid "|mana_g| |mana_u|, |tap|: Double the number of each kind of counter on target artifact, creature, or land."
 msgstr ""
 
-#: ../../DGM.rst:944
+#: ../../DGM.rst:596
 msgid "Warleader's Helix"
 msgstr ""
 
-#: ../../DGM.rst:943
+#: ../../DGM.rst:595
 msgid "Warleader's Helix deals 4 damage to any target and you gain 4 life."
 msgstr ""
 
-#: ../../DGM.rst:951
+#: ../../DGM.rst:600
 msgid "Warped Physique"
 msgstr ""
 
-#: ../../DGM.rst:950
+#: ../../DGM.rst:599
 msgid "Target creature gets +X/-X until end of turn, where X is the number of cards in your hand."
 msgstr ""
 
-#: ../../DGM.rst:960
+#: ../../DGM.rst:606
 msgid "Woodlot Crawler"
 msgstr ""
 
-#: ../../DGM.rst:957
+#: ../../DGM.rst:603
 msgid "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)"
 msgstr ""
 
-#: ../../DGM.rst:959
+#: ../../DGM.rst:605
 msgid "Protection from green"
 msgstr ""
 
-#: ../../DGM.rst:967
+#: ../../DGM.rst:610
 msgid "Zhur-Taa Ancient"
 msgstr ""
 
-#: ../../DGM.rst:966
+#: ../../DGM.rst:609
 msgid "Whenever a player taps a land for mana, that player adds one mana of any type that land produced."
 msgstr ""
 
-#: ../../DGM.rst:976
+#: ../../DGM.rst:616
 msgid "Zhur-Taa Druid"
 msgstr ""
 
-#: ../../DGM.rst:973
+#: ../../DGM.rst:613
 msgid "|tap|: Add |mana_g|."
 msgstr ""
 
-#: ../../DGM.rst:975
+#: ../../DGM.rst:615
 msgid "Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent."
 msgstr ""
 
-#: ../../DGM.rst:985
+#: ../../DGM.rst:622
 msgid "Alive"
 msgstr ""
 
-#: ../../DGM.rst:982
+#: ../../DGM.rst:619
 msgid "Create a 3/3 green Centaur creature token."
 msgstr ""
 
-#: ../../DGM.rst:984
-#: ../../DGM.rst:993
-#: ../../DGM.rst:1002
-#: ../../DGM.rst:1011
-#: ../../DGM.rst:1020
-#: ../../DGM.rst:1029
-#: ../../DGM.rst:1038
-#: ../../DGM.rst:1047
-#: ../../DGM.rst:1056
-#: ../../DGM.rst:1065
-#: ../../DGM.rst:1074
-#: ../../DGM.rst:1083
-#: ../../DGM.rst:1092
-#: ../../DGM.rst:1101
-#: ../../DGM.rst:1110
-#: ../../DGM.rst:1119
-#: ../../DGM.rst:1128
-#: ../../DGM.rst:1137
-#: ../../DGM.rst:1146
-#: ../../DGM.rst:1155
-#: ../../DGM.rst:1164
-#: ../../DGM.rst:1173
-#: ../../DGM.rst:1182
-#: ../../DGM.rst:1191
-#: ../../DGM.rst:1200
-#: ../../DGM.rst:1209
-#: ../../DGM.rst:1218
-#: ../../DGM.rst:1227
-#: ../../DGM.rst:1236
-#: ../../DGM.rst:1245
+#: ../../DGM.rst:621
+#: ../../DGM.rst:627
+#: ../../DGM.rst:633
+#: ../../DGM.rst:639
+#: ../../DGM.rst:645
+#: ../../DGM.rst:651
+#: ../../DGM.rst:657
+#: ../../DGM.rst:663
+#: ../../DGM.rst:669
+#: ../../DGM.rst:675
+#: ../../DGM.rst:681
+#: ../../DGM.rst:687
+#: ../../DGM.rst:693
+#: ../../DGM.rst:699
+#: ../../DGM.rst:705
+#: ../../DGM.rst:711
+#: ../../DGM.rst:717
+#: ../../DGM.rst:723
+#: ../../DGM.rst:729
+#: ../../DGM.rst:735
+#: ../../DGM.rst:741
+#: ../../DGM.rst:747
+#: ../../DGM.rst:753
+#: ../../DGM.rst:759
+#: ../../DGM.rst:765
+#: ../../DGM.rst:771
+#: ../../DGM.rst:777
+#: ../../DGM.rst:783
+#: ../../DGM.rst:789
+#: ../../DGM.rst:795
 msgid "Fuse (You may cast one or both halves of this card from your hand.)"
 msgstr ""
 
-#: ../../DGM.rst:994
+#: ../../DGM.rst:628
 msgid "Well"
 msgstr ""
 
-#: ../../DGM.rst:991
+#: ../../DGM.rst:625
 msgid "You gain 2 life for each creature you control."
 msgstr ""
 
-#: ../../DGM.rst:1003
+#: ../../DGM.rst:634
 msgid "Armed"
 msgstr ""
 
-#: ../../DGM.rst:1000
+#: ../../DGM.rst:631
 msgid "Target creature gets +1/+1 and gains double strike until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:1012
+#: ../../DGM.rst:640
 msgid "Dangerous"
 msgstr ""
 
-#: ../../DGM.rst:1009
+#: ../../DGM.rst:637
 msgid "All creatures able to block target creature this turn do so."
 msgstr ""
 
-#: ../../DGM.rst:1021
+#: ../../DGM.rst:646
 msgid "Beck"
 msgstr ""
 
-#: ../../DGM.rst:1018
+#: ../../DGM.rst:643
 msgid "Whenever a creature enters the battlefield this turn, you may draw a card."
 msgstr ""
 
-#: ../../DGM.rst:1030
+#: ../../DGM.rst:652
 msgid "Call"
 msgstr ""
 
-#: ../../DGM.rst:1027
+#: ../../DGM.rst:649
 msgid "Create four 1/1 white Bird creature tokens with flying."
 msgstr ""
 
-#: ../../DGM.rst:1039
+#: ../../DGM.rst:658
 msgid "Breaking"
 msgstr ""
 
-#: ../../DGM.rst:1036
+#: ../../DGM.rst:655
 msgid "Target player puts the top eight cards of their library into their graveyard."
 msgstr ""
 
-#: ../../DGM.rst:1048
+#: ../../DGM.rst:664
 msgid "Entering"
 msgstr ""
 
-#: ../../DGM.rst:1045
+#: ../../DGM.rst:661
 msgid "Put a creature card from a graveyard onto the battlefield under your control. It gains haste until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:1057
+#: ../../DGM.rst:670
 msgid "Catch"
 msgstr ""
 
-#: ../../DGM.rst:1054
+#: ../../DGM.rst:667
 msgid "Gain control of target permanent until end of turn. Untap it. It gains haste until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:1066
+#: ../../DGM.rst:676
 msgid "Release"
 msgstr ""
 
-#: ../../DGM.rst:1063
+#: ../../DGM.rst:673
 msgid "Each player sacrifices an artifact, a creature, an enchantment, a land, and a planeswalker."
 msgstr ""
 
-#: ../../DGM.rst:1075
+#: ../../DGM.rst:682
 msgid "Down"
 msgstr ""
 
-#: ../../DGM.rst:1072
+#: ../../DGM.rst:679
 msgid "Target player discards two cards."
 msgstr ""
 
-#: ../../DGM.rst:1084
+#: ../../DGM.rst:688
 msgid "Dirty"
 msgstr ""
 
-#: ../../DGM.rst:1081
+#: ../../DGM.rst:685
 msgid "Return target card from your graveyard to your hand."
 msgstr ""
 
-#: ../../DGM.rst:1093
+#: ../../DGM.rst:694
 msgid "Far"
 msgstr ""
 
-#: ../../DGM.rst:1090
+#: ../../DGM.rst:691
 msgid "Return target creature to its owner's hand."
 msgstr ""
 
-#: ../../DGM.rst:1102
+#: ../../DGM.rst:700
 msgid "Away"
 msgstr ""
 
-#: ../../DGM.rst:1099
+#: ../../DGM.rst:697
 msgid "Target player sacrifices a creature."
 msgstr ""
 
-#: ../../DGM.rst:1111
+#: ../../DGM.rst:706
 msgid "Flesh"
 msgstr ""
 
-#: ../../DGM.rst:1108
+#: ../../DGM.rst:703
 msgid "Exile target creature card from a graveyard. Put X +1/+1 counters on target creature, where X is the power of the card you exiled."
 msgstr ""
 
-#: ../../DGM.rst:1120
+#: ../../DGM.rst:712
 msgid "Blood"
 msgstr ""
 
-#: ../../DGM.rst:1117
+#: ../../DGM.rst:709
 msgid "Target creature you control deals damage equal to its power to any target."
 msgstr ""
 
-#: ../../DGM.rst:1129
+#: ../../DGM.rst:718
 msgid "Give"
 msgstr ""
 
-#: ../../DGM.rst:1126
+#: ../../DGM.rst:715
 msgid "Put three +1/+1 counters on target creature."
 msgstr ""
 
-#: ../../DGM.rst:1138
+#: ../../DGM.rst:724
 msgid "Take"
 msgstr ""
 
-#: ../../DGM.rst:1135
+#: ../../DGM.rst:721
 msgid "Remove all +1/+1 counters from target creature you control. Draw that many cards."
 msgstr ""
 
-#: ../../DGM.rst:1147
+#: ../../DGM.rst:730
 msgid "Profit"
 msgstr ""
 
-#: ../../DGM.rst:1144
+#: ../../DGM.rst:727
 msgid "Creatures you control get +1/+1 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:1156
+#: ../../DGM.rst:736
 msgid "Loss"
 msgstr ""
 
-#: ../../DGM.rst:1153
+#: ../../DGM.rst:733
 msgid "Creatures your opponents control get -1/-1 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:1165
+#: ../../DGM.rst:742
 msgid "Protect"
 msgstr ""
 
-#: ../../DGM.rst:1162
+#: ../../DGM.rst:739
 msgid "Target creature gets +2/+4 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:1174
+#: ../../DGM.rst:748
 msgid "Serve"
 msgstr ""
 
-#: ../../DGM.rst:1171
+#: ../../DGM.rst:745
 msgid "Target creature gets -6/-0 until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:1183
+#: ../../DGM.rst:754
 msgid "Ready"
 msgstr ""
 
-#: ../../DGM.rst:1180
+#: ../../DGM.rst:751
 msgid "Creatures you control gain indestructible until end of turn. Untap each creature you control."
 msgstr ""
 
-#: ../../DGM.rst:1192
+#: ../../DGM.rst:760
 msgid "Willing"
 msgstr ""
 
-#: ../../DGM.rst:1189
+#: ../../DGM.rst:757
 msgid "Creatures you control gain deathtouch and lifelink until end of turn."
 msgstr ""
 
-#: ../../DGM.rst:1201
+#: ../../DGM.rst:766
 msgid "Toil"
 msgstr ""
 
-#: ../../DGM.rst:1198
+#: ../../DGM.rst:763
 msgid "Target player draws two cards and loses 2 life."
 msgstr ""
 
-#: ../../DGM.rst:1210
+#: ../../DGM.rst:772
 msgid "Trouble"
 msgstr ""
 
-#: ../../DGM.rst:1207
+#: ../../DGM.rst:769
 msgid "Trouble deals damage to target player equal to the number of cards in that player's hand."
 msgstr ""
 
-#: ../../DGM.rst:1219
+#: ../../DGM.rst:778
 msgid "Turn"
 msgstr ""
 
-#: ../../DGM.rst:1216
+#: ../../DGM.rst:775
 msgid "Until end of turn, target creature loses all abilities and becomes a red Weird with base power and toughness 0/1."
 msgstr ""
 
-#: ../../DGM.rst:1228
+#: ../../DGM.rst:784
 msgid "Burn"
 msgstr ""
 
-#: ../../DGM.rst:1225
+#: ../../DGM.rst:781
 msgid "Burn deals 2 damage to any target."
 msgstr ""
 
-#: ../../DGM.rst:1237
+#: ../../DGM.rst:790
 msgid "Wear"
 msgstr ""
 
-#: ../../DGM.rst:1234
+#: ../../DGM.rst:787
 msgid "Destroy target artifact."
 msgstr ""
 
-#: ../../DGM.rst:1246
+#: ../../DGM.rst:796
 msgid "Tear"
 msgstr ""
 
-#: ../../DGM.rst:1243
+#: ../../DGM.rst:793
 msgid "Destroy target enchantment."
 msgstr ""
 
-#: ../../DGM.rst:1255
+#: ../../DGM.rst:802
 msgid "Azorius Cluestone"
 msgstr ""
 
-#: ../../DGM.rst:1252
-#: ../../DGM.rst:1344
+#: ../../DGM.rst:799
+#: ../../DGM.rst:861
 msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
-#: ../../DGM.rst:1254
+#: ../../DGM.rst:801
 msgid "|mana_w| |mana_u|, |tap|, Sacrifice Azorius Cluestone: Draw a card."
 msgstr ""
 
-#: ../../DGM.rst:1264
+#: ../../DGM.rst:808
 msgid "Boros Cluestone"
 msgstr ""
 
-#: ../../DGM.rst:1261
-#: ../../DGM.rst:1353
+#: ../../DGM.rst:805
+#: ../../DGM.rst:867
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
-#: ../../DGM.rst:1263
+#: ../../DGM.rst:807
 msgid "|mana_r| |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card."
 msgstr ""
 
-#: ../../DGM.rst:1273
+#: ../../DGM.rst:814
 msgid "Dimir Cluestone"
 msgstr ""
 
-#: ../../DGM.rst:1270
-#: ../../DGM.rst:1362
+#: ../../DGM.rst:811
+#: ../../DGM.rst:873
 msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
-#: ../../DGM.rst:1272
+#: ../../DGM.rst:813
 msgid "|mana_u| |mana_b|, |tap|, Sacrifice Dimir Cluestone: Draw a card."
 msgstr ""
 
-#: ../../DGM.rst:1282
+#: ../../DGM.rst:820
 msgid "Golgari Cluestone"
 msgstr ""
 
-#: ../../DGM.rst:1279
-#: ../../DGM.rst:1371
+#: ../../DGM.rst:817
+#: ../../DGM.rst:879
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr ""
 
-#: ../../DGM.rst:1281
+#: ../../DGM.rst:819
 msgid "|mana_b| |mana_g|, |tap|, Sacrifice Golgari Cluestone: Draw a card."
 msgstr ""
 
-#: ../../DGM.rst:1291
+#: ../../DGM.rst:826
 msgid "Gruul Cluestone"
 msgstr ""
 
-#: ../../DGM.rst:1288
-#: ../../DGM.rst:1380
+#: ../../DGM.rst:823
+#: ../../DGM.rst:885
 msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
-#: ../../DGM.rst:1290
+#: ../../DGM.rst:825
 msgid "|mana_r| |mana_g|, |tap|, Sacrifice Gruul Cluestone: Draw a card."
 msgstr ""
 
-#: ../../DGM.rst:1300
+#: ../../DGM.rst:832
 msgid "Izzet Cluestone"
 msgstr ""
 
-#: ../../DGM.rst:1297
-#: ../../DGM.rst:1389
+#: ../../DGM.rst:829
+#: ../../DGM.rst:891
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
-#: ../../DGM.rst:1299
+#: ../../DGM.rst:831
 msgid "|mana_u| |mana_r|, |tap|, Sacrifice Izzet Cluestone: Draw a card."
 msgstr ""
 
-#: ../../DGM.rst:1309
+#: ../../DGM.rst:838
 msgid "Orzhov Cluestone"
 msgstr ""
 
-#: ../../DGM.rst:1306
-#: ../../DGM.rst:1409
+#: ../../DGM.rst:835
+#: ../../DGM.rst:905
 msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr ""
 
-#: ../../DGM.rst:1308
+#: ../../DGM.rst:837
 msgid "|mana_w| |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
 msgstr ""
 
-#: ../../DGM.rst:1318
+#: ../../DGM.rst:844
 msgid "Rakdos Cluestone"
 msgstr ""
 
-#: ../../DGM.rst:1315
-#: ../../DGM.rst:1418
+#: ../../DGM.rst:841
+#: ../../DGM.rst:911
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
-#: ../../DGM.rst:1317
+#: ../../DGM.rst:843
 msgid "|mana_b| |mana_r|, |tap|, Sacrifice Rakdos Cluestone: Draw a card."
 msgstr ""
 
-#: ../../DGM.rst:1327
+#: ../../DGM.rst:850
 msgid "Selesnya Cluestone"
 msgstr ""
 
-#: ../../DGM.rst:1324
-#: ../../DGM.rst:1427
+#: ../../DGM.rst:847
+#: ../../DGM.rst:917
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
-#: ../../DGM.rst:1326
+#: ../../DGM.rst:849
 msgid "|mana_g| |mana_w|, |tap|, Sacrifice Selesnya Cluestone: Draw a card."
 msgstr ""
 
-#: ../../DGM.rst:1336
+#: ../../DGM.rst:856
 msgid "Simic Cluestone"
 msgstr ""
 
-#: ../../DGM.rst:1333
-#: ../../DGM.rst:1436
+#: ../../DGM.rst:853
+#: ../../DGM.rst:923
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
 
-#: ../../DGM.rst:1335
+#: ../../DGM.rst:855
 msgid "|mana_g| |mana_u|, |tap|, Sacrifice Simic Cluestone: Draw a card."
 msgstr ""
 
-#: ../../DGM.rst:1345
+#: ../../DGM.rst:862
 msgid "Azorius Guildgate"
 msgstr ""
 
-#: ../../DGM.rst:1342
+#: ../../DGM.rst:859
 msgid "Azorius Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../DGM.rst:1354
+#: ../../DGM.rst:868
 msgid "Boros Guildgate"
 msgstr ""
 
-#: ../../DGM.rst:1351
+#: ../../DGM.rst:865
 msgid "Boros Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../DGM.rst:1363
+#: ../../DGM.rst:874
 msgid "Dimir Guildgate"
 msgstr ""
 
-#: ../../DGM.rst:1360
+#: ../../DGM.rst:871
 msgid "Dimir Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../DGM.rst:1372
+#: ../../DGM.rst:880
 msgid "Golgari Guildgate"
 msgstr ""
 
-#: ../../DGM.rst:1369
+#: ../../DGM.rst:877
 msgid "Golgari Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../DGM.rst:1381
+#: ../../DGM.rst:886
 msgid "Gruul Guildgate"
 msgstr ""
 
-#: ../../DGM.rst:1378
+#: ../../DGM.rst:883
 msgid "Gruul Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../DGM.rst:1390
+#: ../../DGM.rst:892
 msgid "Izzet Guildgate"
 msgstr ""
 
-#: ../../DGM.rst:1387
+#: ../../DGM.rst:889
 msgid "Izzet Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../DGM.rst:1401
+#: ../../DGM.rst:900
 msgid "Maze's End"
 msgstr ""
 
-#: ../../DGM.rst:1396
+#: ../../DGM.rst:895
 msgid "Maze's End enters the battlefield tapped."
 msgstr ""
 
-#: ../../DGM.rst:1398
+#: ../../DGM.rst:897
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
-#: ../../DGM.rst:1400
+#: ../../DGM.rst:899
 msgid "|mana_3|, |tap|, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game."
 msgstr ""
 
-#: ../../DGM.rst:1410
+#: ../../DGM.rst:906
 msgid "Orzhov Guildgate"
 msgstr ""
 
-#: ../../DGM.rst:1407
+#: ../../DGM.rst:903
 msgid "Orzhov Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../DGM.rst:1419
+#: ../../DGM.rst:912
 msgid "Rakdos Guildgate"
 msgstr ""
 
-#: ../../DGM.rst:1416
+#: ../../DGM.rst:909
 msgid "Rakdos Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../DGM.rst:1428
+#: ../../DGM.rst:918
 msgid "Selesnya Guildgate"
 msgstr ""
 
-#: ../../DGM.rst:1425
+#: ../../DGM.rst:915
 msgid "Selesnya Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../DGM.rst:1436
+#: ../../DGM.rst:923
 msgid "Simic Guildgate"
 msgstr ""
 
-#: ../../DGM.rst:1434
+#: ../../DGM.rst:921
 msgid "Simic Guildgate enters the battlefield tapped."
 msgstr ""
 
