@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 09:38+0000\n"
+"PO-Revision-Date: 2018-12-16 11:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -493,7 +493,7 @@ msgstr ""
 
 #: ../../XLN.rst:385
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../XLN.rst:393
 msgid "Chart a Course"
@@ -1295,7 +1295,7 @@ msgstr ""
 #: ../../XLN.rst:1224
 #: ../../XLN.rst:1366
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../XLN.rst:1086
 msgid "When Brazen Buccaneers enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
@@ -1516,7 +1516,7 @@ msgstr ""
 #: ../../XLN.rst:1285
 #: ../../XLN.rst:1824
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../XLN.rst:1287
 msgid "When Rowdy Crew enters the battlefield, draw three cards, then discard two cards at random. If two cards that share a card type are discarded this way, put two +1/+1 counters on Rowdy Crew."
@@ -1572,7 +1572,7 @@ msgstr ""
 
 #: ../../XLN.rst:1337
 msgid "Sure Strike"
-msgstr ""
+msgstr "Sure Strike (Pewny cios)"
 
 #: ../../XLN.rst:1336
 msgid "Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)"
@@ -1705,7 +1705,7 @@ msgstr ""
 
 #: ../../XLN.rst:1448
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../XLN.rst:1450
 msgid "Trample, hexproof"
@@ -1736,12 +1736,13 @@ msgid "Target creature gets +3/+3 and gains trample until end of turn."
 msgstr ""
 
 #: ../../XLN.rst:1483
+#, fuzzy
 msgid "Crushing Canopy"
-msgstr ""
+msgstr "Crushing Canopy"
 
 #: ../../XLN.rst:1480
 msgid "Destroy target creature with flying."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z lataniem."
 
 #: ../../XLN.rst:1490
 msgid "Deathgorge Scavenger"
