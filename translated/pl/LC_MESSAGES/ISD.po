@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 11:20+0000\n"
+"PO-Revision-Date: 2018-12-16 14:52+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
@@ -512,7 +512,7 @@ msgstr ""
 # d285e4b7aca544b08e3b0e37291c49bc
 #: ../../ISD.rst:279
 msgid "Destroy target creature with power 4 or greater."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z siłą 4 lub większą."
 
 # 91050e5c48de4b64b0401f55b875d013
 #: ../../ISD.rst:287
@@ -2422,9 +2422,8 @@ msgstr ""
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1508
-#, fuzzy
 msgid "|tap|: Add |mana_w|."
-msgstr "|tap|: Dodaj |mana_w| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_w|."
 
 # 397141a7d54346a281f543fcd12eb890
 #: ../../ISD.rst:1516
