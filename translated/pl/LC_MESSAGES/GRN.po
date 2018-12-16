@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 16:56+0000\n"
+"PO-Revision-Date: 2018-12-16 17:58+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -961,6 +961,8 @@ msgid ""
 "Undergrowth — When Lotleth Giant enters the battlefield, it deals 1 damage "
 "to target opponent for each creature card in your graveyard."
 msgstr ""
+"Ściółka — Kiedy ta karta wejdzie na pole walki, zadaje 1 obrażenie "
+"wskazanemu przeciwnikowi za każdą kartę stwora w twoim cmentarzu."
 
 #: ../../GRN.rst:623
 #, fuzzy
@@ -973,6 +975,9 @@ msgid ""
 "less than or equal to the number of creature cards in your graveyard, reveal "
 "it, put it into your hand, then shuffle your library."
 msgstr ""
+"Ściółka — Wyszukaj w twojej bibliotece czarną kartę o łącznym koszcie many "
+"mniejszym lub równym liczbie kart stworów w twoim cmentarzu, ujawnij ją i "
+"dołóż do twojej ręki, a następnie przetasuj twoją bibliotekę."
 
 #: ../../GRN.rst:632
 #, fuzzy
@@ -1020,6 +1025,9 @@ msgid ""
 "number of creature cards in your graveyard. If that creature would die this "
 "turn, exile it instead."
 msgstr ""
+"Ściółka — Wskazany stwór dostaje -X/-X do końca tury, gdzie X jest liczbą "
+"kart stworów w twoim cmentarzu. Jeśli ów stwór miałby umrzeć w tej turze, "
+"zamiast tego zostaje wygnany."
 
 #: ../../GRN.rst:660
 #, fuzzy
@@ -1259,6 +1267,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0 "
 "until end of turn, where X is that spell's converted mana cost."
 msgstr ""
+"Ilekroć rzucasz sztuczkę lub gusła, ten stwór dostaje +X/+0 do końca tury, "
+"gdzie X jest łącznym kosztem many owego czaru."
 
 #: ../../GRN.rst:819
 #, fuzzy
@@ -1545,6 +1555,9 @@ msgid ""
 "target creature you don't control. (Each deals damage equal to its power to "
 "the other.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz kazać mu walczyć ze wskazanym "
+"stworem, którym nie władasz. (Zadają sobie nawzajem obrażenia równe swojej "
+"sile.)"
 
 #: ../../GRN.rst:1010
 #, fuzzy
@@ -1648,6 +1661,8 @@ msgid ""
 "Undergrowth — Golgari Raiders enters the battlefield with a +1/+1 counter on "
 "it for each creature card in your graveyard."
 msgstr ""
+"Ściółka — Ta karta wchodzi na pole walki z tyloma znacznikami +1/+1, ile "
+"jest kart stworów w twoim cmentarzu."
 
 #: ../../GRN.rst:1085
 #, fuzzy
@@ -1656,13 +1671,15 @@ msgstr "Grappling Sundew"
 
 #: ../../GRN.rst:1082
 msgid "Defender, reach"
-msgstr ""
+msgstr "Obrońca, zasięg"
 
 #: ../../GRN.rst:1084
 msgid ""
 "|mana_4| |mana_g|: Grappling Sundew gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy this creature.)"
 msgstr ""
+"|mana_4| |mana_g|: Ten stwór zyskuje niezniszczalność do końca tury. ("
+"Obrażenia i efekty mówiące \"zniszcz\" nie niszczą tego stwora.)"
 
 #: ../../GRN.rst:1094
 #, fuzzy
@@ -1671,7 +1688,7 @@ msgstr "Hatchery Spider"
 
 #: ../../GRN.rst:1091 ../../GRN.rst:1100 ../../GRN.rst:1121
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../GRN.rst:1093
 msgid ""
@@ -1681,6 +1698,11 @@ msgid ""
 "them onto the battlefield. Put the rest on the bottom of your library in a "
 "random order."
 msgstr ""
+"Ściółka — Rzucając ten czar, ujawnij X wierzchnich kart twojej biblioteki, "
+"gdzie X jest liczbą kart stworów w twoim cmentarzu. Spośród owych kart "
+"możesz położyć na polu walki kartę zielonego permanentu o łącznym koszcie "
+"many X lub mniej. Połóż pozostałe na spodzie twojej biblioteki w losowej "
+"kolejności."
 
 #: ../../GRN.rst:1101
 #, fuzzy
@@ -1710,6 +1732,8 @@ msgid ""
 "Undergrowth — When Kraul Foragers enters the battlefield, you gain 1 life "
 "for each creature card in your graveyard."
 msgstr ""
+"Ściółka — Kiedy ta karta wejdzie na pole walki, zyskujesz 1 życie za każdą "
+"kartę stwora w twoim cmentarzu."
 
 #: ../../GRN.rst:1124
 #, fuzzy
@@ -1723,6 +1747,11 @@ msgid ""
 "until end of turn, where X is the number of creature cards in your "
 "graveyard, then you may have Kraul Harpooner fight that creature."
 msgstr ""
+"Ściółka — Kiedy Kraul Harpooner wejdzie na pole walki, wybierz co najwyżej "
+"jednego wskazanego stwora z lataniem, nad którym nie władasz. Kraul "
+"Harpooner dostaje +X/+0 do końca tury, gdzie X jest liczbą kart stworów w "
+"twoim cmentarzu, a następnie możesz kazać, by Kraul Harpooner walczył z owym "
+"stworem."
 
 #: ../../GRN.rst:1131
 #, fuzzy
@@ -1743,7 +1772,7 @@ msgstr "Nullhide Ferox"
 
 #: ../../GRN.rst:1137
 msgid "Hexproof"
-msgstr ""
+msgstr "Antyklątwa"
 
 #: ../../GRN.rst:1139
 msgid "You can't cast noncreature spells."
@@ -1861,6 +1890,9 @@ msgid ""
 "gains vigilance and gets +X/+X until end of turn, where X is the number of "
 "creature cards in your graveyard."
 msgstr ""
+"Ściółka — Kiedy ta karta wejdzie na pole walki, wskazany stwór do końca tury "
+"zyskuje czujność oraz +X/+X, gdzie X jest liczbą kart stworów w twoim "
+"cmentarzu."
 
 #: ../../GRN.rst:1228
 msgid "Vigorspore Wurm can't be blocked by more than one creature."
@@ -1938,6 +1970,8 @@ msgid ""
 "Beacon Bolt deals damage to target creature equal to the total number of "
 "instant and sorcery cards you own in exile and in your graveyard."
 msgstr ""
+"Ten czar zadaje wskazanemu stworowi tyle obrażeń, ile jest łącznie twoich "
+"kart sztuczek i guseł w twoim cmentarzu i na wygnaniu."
 
 #: ../../GRN.rst:1295
 msgid "Beamsplitter Mage"
@@ -1950,6 +1984,10 @@ msgid ""
 "choose one of those creatures. Copy that spell. The copy targets the chosen "
 "creature."
 msgstr ""
+"Ilekroć rzucasz czar sztuczki lub guseł wskazujący wyłącznie w tego stwora, "
+"jeśli władasz co najmniej jednym innym stworem mogącym być celem owego "
+"czaru, wybierz jednego z owych stworów. Skopiuj ów czar. Kopia wskazuje w "
+"wybranego stwora."
 
 #: ../../GRN.rst:1304
 msgid "Boros Challenger"
@@ -1962,7 +2000,7 @@ msgstr ""
 
 #: ../../GRN.rst:1311
 msgid "Camaraderie"
-msgstr ""
+msgstr "Camaraderie (Koleżeństwo)"
 
 #: ../../GRN.rst:1310
 msgid ""
@@ -1974,22 +2012,24 @@ msgstr ""
 
 #: ../../GRN.rst:1318
 msgid "Centaur Peacemaker"
-msgstr ""
+msgstr "Centaur Peacemaker (Centaur rozjemca)"
 
 #: ../../GRN.rst:1317
 msgid ""
 "When Centaur Peacemaker enters the battlefield, each player gains 4 life."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, każdy gracz zyskuje 4 życia."
 
 #: ../../GRN.rst:1325
 msgid "Chance for Glory"
-msgstr ""
+msgstr "Chance for Glory (Szansa chwały)"
 
 #: ../../GRN.rst:1324
 msgid ""
 "Creatures you control gain indestructible. Take an extra turn after this "
 "one. At the beginning of that turn's end step, you lose the game."
 msgstr ""
+"Stwory pod twoim władaniem zyskują niezniszczalność. Weź dodatkową turę po "
+"obecnej. Na początku kroku zakończenia owej tury przegrywasz grę."
 
 #: ../../GRN.rst:1336
 msgid "Charnel Troll"
@@ -2006,16 +2046,19 @@ msgid ""
 "|mana_b| |mana_g|, Discard a creature card: Put a +1/+1 counter on Charnel "
 "Troll."
 msgstr ""
+"|mana_b| |mana_g|, odrzuć kartę stwora: Połóż znacznik +1/+1 na tym stworze."
 
 #: ../../GRN.rst:1345
 msgid "Conclave Cavalier"
-msgstr ""
+msgstr "Conclave Cavalier (Kawalerzysta Konklawe)"
 
 #: ../../GRN.rst:1344
 msgid ""
 "When Conclave Cavalier dies, create two 2/2 green and white Elf Knight "
 "creature tokens with vigilance."
 msgstr ""
+"Kiedy ten stwór umrze, stwórz dwa żetony zielono-białego stwora Elfi Rycerz "
+"2/2 z czujnością."
 
 #: ../../GRN.rst:1354
 msgid "Conclave Guildmage"
@@ -2024,6 +2067,7 @@ msgstr ""
 #: ../../GRN.rst:1351
 msgid "|mana_g|, |tap|: Creatures you control gain trample until end of turn."
 msgstr ""
+"|mana_g|, |tap|: Stwory pod twoim władaniem zyskują tratowanie do końca tury."
 
 #: ../../GRN.rst:1353
 msgid ""
