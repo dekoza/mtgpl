@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2014-01-31 10:16+0200\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
-"Language-Team: tylko ja\n"
+"PO-Revision-Date: 2018-12-16 00:05+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.0\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 "X-POOTLE-MTIME: 1391159808.806397\n"
 
 # 356ea75fd01940caba3ff74f86388354
@@ -289,7 +289,7 @@ msgstr ""
 # 7bcd0fde0b3a47e485d7ce182024b800
 #: ../../ISD.rst:149 ../../ISD.rst:314
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 # 524be949315a4de191053a9c0e9da893
 #: ../../ISD.rst:151
@@ -1453,7 +1453,7 @@ msgstr ""
 
 #: ../../ISD.rst:882
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../ISD.rst:884
 msgid "Return target creature card from your graveyard to your hand."
