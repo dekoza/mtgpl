@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bfz/pl/>\n"
 "Language: pl\n"
@@ -1120,7 +1120,7 @@ msgstr ""
 
 #: ../../BFZ.rst:551
 msgid "At the beginning of your upkeep, sacrifice a creature."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, poświęć stwora."
 
 #: ../../BFZ.rst:553
 msgid "Whenever you sacrifice a creature, draw a card."
@@ -1334,7 +1334,7 @@ msgstr ""
 
 #: ../../BFZ.rst:657
 msgid "−3: Destroy target creature."
-msgstr ""
+msgstr "–3: Zniszcz wskazanego stwora."
 
 #: ../../BFZ.rst:659
 msgid ""
@@ -2553,7 +2553,7 @@ msgstr ""
 #: ../../BFZ.rst:1279 ../../BFZ.rst:1285 ../../BFZ.rst:1345 ../../BFZ.rst:1367
 #: ../../BFZ.rst:1387
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../BFZ.rst:1255
 msgid ""
@@ -2621,7 +2621,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1291
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_g| lub |mana_w|.)"
 
 #: ../../BFZ.rst:1293
 msgid ""
@@ -2848,7 +2848,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1393
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u| lub |mana_b|.)"
 
 #: ../../BFZ.rst:1395
 msgid ""
@@ -2860,28 +2860,28 @@ msgstr ""
 #: ../../BFZ.rst:1414 ../../BFZ.rst:1418 ../../BFZ.rst:1422 ../../BFZ.rst:1426
 #: ../../BFZ.rst:1430 ../../BFZ.rst:1434
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 #: ../../BFZ.rst:1438 ../../BFZ.rst:1442 ../../BFZ.rst:1446 ../../BFZ.rst:1450
 #: ../../BFZ.rst:1454 ../../BFZ.rst:1458 ../../BFZ.rst:1462 ../../BFZ.rst:1466
 #: ../../BFZ.rst:1470 ../../BFZ.rst:1474
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 #: ../../BFZ.rst:1478 ../../BFZ.rst:1482 ../../BFZ.rst:1486 ../../BFZ.rst:1490
 #: ../../BFZ.rst:1494 ../../BFZ.rst:1498 ../../BFZ.rst:1502 ../../BFZ.rst:1506
 #: ../../BFZ.rst:1510 ../../BFZ.rst:1514
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 #: ../../BFZ.rst:1518 ../../BFZ.rst:1522 ../../BFZ.rst:1526 ../../BFZ.rst:1530
 #: ../../BFZ.rst:1534 ../../BFZ.rst:1538 ../../BFZ.rst:1542 ../../BFZ.rst:1546
 #: ../../BFZ.rst:1550 ../../BFZ.rst:1554
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 #: ../../BFZ.rst:1558 ../../BFZ.rst:1562 ../../BFZ.rst:1566 ../../BFZ.rst:1570
 #: ../../BFZ.rst:1574 ../../BFZ.rst:1578 ../../BFZ.rst:1582 ../../BFZ.rst:1586
 #: ../../BFZ.rst:1590 ../../BFZ.rst:1594
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
