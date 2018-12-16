@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -361,7 +361,7 @@ msgstr ""
 
 #: ../../RIX.rst:141
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr ""
+msgstr "Czujność (Atakowanie nie powoduje zaznaczenia tego stwora.)"
 
 #: ../../RIX.rst:148
 msgid "Sun-Crested Pterodon"
@@ -1431,6 +1431,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bitewne w gracza lub "
+"wędrowca, którego atakuje.)"
 
 #: ../../RIX.rst:676
 msgid "Crested Herdcaller"
@@ -2228,7 +2230,7 @@ msgstr ""
 
 #: ../../RIX.rst:1035 ../../RIX.rst:1059
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../RIX.rst:1037
 msgid ""
@@ -2316,7 +2318,7 @@ msgstr ""
 
 #: ../../RIX.rst:1077
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../RIX.rst:1084
 msgid "Highland Lake"
@@ -2328,7 +2330,7 @@ msgstr ""
 
 #: ../../RIX.rst:1083
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../RIX.rst:1090
 msgid "Stone Quarry"
@@ -2356,23 +2358,23 @@ msgstr ""
 
 #: ../../RIX.rst:1098
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 #: ../../RIX.rst:1102
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 #: ../../RIX.rst:1106
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 #: ../../RIX.rst:1110
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 #: ../../RIX.rst:1114
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
 
 #: ../../RIX.rst:1124
 msgid "Vraska, Scheming Gorgon"
@@ -2384,7 +2386,7 @@ msgstr ""
 
 #: ../../RIX.rst:1121
 msgid "−3: Destroy target creature."
-msgstr ""
+msgstr "–3: Zniszcz wskazanego stwora."
 
 #: ../../RIX.rst:1123
 msgid ""
