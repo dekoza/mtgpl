@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 09:38+0000\n"
+"PO-Revision-Date: 2018-12-16 11:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
@@ -542,7 +542,7 @@ msgstr ""
 
 #: ../../AVR.rst:381 ../../AVR.rst:440
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../AVR.rst:391
 msgid "Deadeye Navigator"
@@ -988,7 +988,7 @@ msgstr ""
 
 #: ../../AVR.rst:725
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../AVR.rst:727
 msgid "Destroy target creature."
@@ -1189,7 +1189,7 @@ msgstr ""
 
 #: ../../AVR.rst:874
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../AVR.rst:876
 msgid "Whenever another nontoken creature dies, you may draw a card."
@@ -2085,9 +2085,8 @@ msgid "Destroy target artifact."
 msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../AVR.rst:1549
-#, fuzzy
 msgid "Destroy target enchantment."
-msgstr "Zniszcz wskazany urok. Zyskujesz 2 życia."
+msgstr "Zniszcz wskazany urok."
 
 #: ../../AVR.rst:1551
 #, fuzzy
