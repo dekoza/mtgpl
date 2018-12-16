@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-29 11:21+0100\n"
-"PO-Revision-Date: 2014-01-30 17:46+0200\n"
-"Last-Translator: Dominik <dominik@kozaczko.info>\n"
-"Language-Team: tylko ja\n"
+"PO-Revision-Date: 2018-12-16 00:05+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.0\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 "X-POOTLE-MTIME: 1391100385.317960\n"
 
 # 6d9a62858a6045079f179f53b513973f
@@ -2089,7 +2089,7 @@ msgstr ""
 #: ../../AVR.rst:860
 #: ../../AVR.rst:1050
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 # 2c01c3d4f8294a8ba73369de1f1dc698
 #: ../../AVR.rst:862
