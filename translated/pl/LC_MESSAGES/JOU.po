@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-15 23:59+0100\n"
+"POT-Creation-Date: 2018-12-16 23:18+0100\n"
 "PO-Revision-Date: 2018-12-16 11:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/jou/pl/>\n"
@@ -25,12 +25,12 @@ msgid "Journey into Nyx"
 msgstr "Journey into Nyx (Podróż do Nyx)"
 
 # 9b1c3b4b168e47de8bcaf39d02c21309
-#: ../../JOU.rst:13
+#: ../../JOU.rst:10
 msgid "Aegis of the Gods"
 msgstr ""
 
 # 3acc6523c11a457689b94b90d19d37cf
-#: ../../JOU.rst:12
+#: ../../JOU.rst:9
 msgid ""
 "You have hexproof. (You can't be the target of spells or abilities your "
 "opponents control.)"
@@ -39,12 +39,12 @@ msgstr ""
 "twoich przeciwników.)"
 
 # 090c54a927ce4e2eb0224c621b9e34d2
-#: ../../JOU.rst:22
+#: ../../JOU.rst:16
 msgid "Ajani's Presence"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
-#: ../../JOU.rst:19
+#: ../../JOU.rst:13
 #, fuzzy
 msgid ""
 "Strive — This spell costs |mana_2| |mana_w| more to cast for each target "
@@ -54,7 +54,7 @@ msgstr ""
 "dodatkowy cel poza pierwszym."
 
 # f792c954794243dc821e88101dc91f50
-#: ../../JOU.rst:21
+#: ../../JOU.rst:15
 #, fuzzy
 msgid ""
 "Any number of target creatures each get +1/+1 and gain indestructible until "
@@ -65,17 +65,17 @@ msgstr ""
 "niszczą ich.)"
 
 # 19dfe9906e004dceacbd7adc1ad5b490
-#: ../../JOU.rst:29
+#: ../../JOU.rst:20
 msgid "Akroan Mastiff"
 msgstr ""
 
 # 1eeb4ee5ab9f456c888e8c7b312168f0
-#: ../../JOU.rst:28
+#: ../../JOU.rst:19
 msgid "|mana_w|, |tap|: Tap target creature."
 msgstr "|mana_w|, |tap|: Zaznacz wskazanego stwora."
 
 # e733fe61a9114dc380426e2009975b39
-#: ../../JOU.rst:38
+#: ../../JOU.rst:26
 msgid "Armament of Nyx"
 msgstr ""
 
@@ -86,13 +86,13 @@ msgstr ""
 # db9c6d079b2744e4ad957c29fe953c63
 # 9c43c4527421452fbd34ea786fe87c2f
 # 53c56ab370354331893dcb27d2e33f95
-#: ../../JOU.rst:35 ../../JOU.rst:158 ../../JOU.rst:376 ../../JOU.rst:491
-#: ../../JOU.rst:516 ../../JOU.rst:628 ../../JOU.rst:819
+#: ../../JOU.rst:23 ../../JOU.rst:101 ../../JOU.rst:241 ../../JOU.rst:311
+#: ../../JOU.rst:327 ../../JOU.rst:397 ../../JOU.rst:513
 msgid "Enchant creature"
 msgstr "Zaurocz stwora"
 
 # 5d481d6081ed4d709cd80c8fdb55348e
-#: ../../JOU.rst:37
+#: ../../JOU.rst:25
 msgid ""
 "Enchanted creature has double strike as long as it's an enchantment. "
 "Otherwise, prevent all damage that would be dealt by enchanted creature. (A "
@@ -105,12 +105,12 @@ msgstr ""
 "Cios oraz normalnie.)"
 
 # 2e94653c13e948c68263cb8bb2e664b5
-#: ../../JOU.rst:45
+#: ../../JOU.rst:30
 msgid "Banishing Light"
 msgstr ""
 
 # 50e36db6a63f47ba86f75412525414ae
-#: ../../JOU.rst:44
+#: ../../JOU.rst:29
 msgid ""
 "When Banishing Light enters the battlefield, exile target nonland permanent "
 "an opponent controls until Banishing Light leaves the battlefield. (That "
@@ -118,29 +118,29 @@ msgid ""
 msgstr ""
 
 # 36feef53cd4741d79020ea3bb37bdc10
-#: ../../JOU.rst:54
+#: ../../JOU.rst:36
 msgid "Dawnbringer Charioteers"
 msgstr ""
 
 # ea3a2a1d25c5473b827a541cb2c2d0e8
-#: ../../JOU.rst:51
+#: ../../JOU.rst:33
 msgid "Flying, lifelink"
 msgstr "Latanie, więź życia"
 
 # 3974a27725ac45f39f7f60bdbff32729
-#: ../../JOU.rst:53
+#: ../../JOU.rst:35
 msgid ""
 "Heroic — Whenever you cast a spell that targets Dawnbringer Charioteers, put "
 "a +1/+1 counter on Dawnbringer Charioteers."
 msgstr ""
 
 # 8c10c16ff0ad4a4b815b46c444d4a2bf
-#: ../../JOU.rst:61
+#: ../../JOU.rst:40
 msgid "Deicide"
 msgstr "Bogobójstwo"
 
 # ce400e4c896446c5993c616a53715d0b
-#: ../../JOU.rst:60
+#: ../../JOU.rst:39
 #, fuzzy
 msgid ""
 "Exile target enchantment. If the exiled card is a God card, search its "
@@ -153,7 +153,7 @@ msgstr ""
 "jej władcy i wypędź je. Następnie ów gracz tasuje swoją bibliotekę."
 
 # 9548ae41b4324d0989acf54a581b0f19
-#: ../../JOU.rst:70
+#: ../../JOU.rst:46
 msgid "Dictate of Heliod"
 msgstr ""
 
@@ -162,58 +162,58 @@ msgstr ""
 # 9bf283416b5641989f9d4bab550723f2
 # fb78839025f3402f8ab2d91e444012a3
 # a3a186fdb5514304be2a69f05729b110
-#: ../../JOU.rst:67 ../../JOU.rst:308 ../../JOU.rst:534 ../../JOU.rst:748
-#: ../../JOU.rst:974
+#: ../../JOU.rst:43 ../../JOU.rst:197 ../../JOU.rst:339 ../../JOU.rst:469
+#: ../../JOU.rst:611
 msgid "Flash"
 msgstr "Błysk"
 
 # eeadc39de2594d0e912f04a00761f65c
-#: ../../JOU.rst:69
+#: ../../JOU.rst:45
 msgid "Creatures you control get +2/+2."
 msgstr "Stwory, którymi władasz dostają +2/+2."
 
 # 44d62f6b8a104772901e692056d63114
-#: ../../JOU.rst:77
+#: ../../JOU.rst:50
 msgid "Eagle of the Watch"
 msgstr ""
 
 # 5bd88ebf79784a32aaf728fd5b43a469
-#: ../../JOU.rst:76
+#: ../../JOU.rst:49
 msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
 # 4688a5118c9d4e27b0c576577254da67
-#: ../../JOU.rst:84
+#: ../../JOU.rst:54
 msgid "Eidolon of Rhetoric"
 msgstr ""
 
 # 1a052907f2b34302b2d775c45766acba
-#: ../../JOU.rst:83
+#: ../../JOU.rst:53
 msgid "Each player can't cast more than one spell each turn."
 msgstr "Każdy z graczy nie może rzucać więcej niż jednego czaru na turę."
 
 # 9e6aa1d9cb2447258ddcd42f24014f6b
-#: ../../JOU.rst:91
+#: ../../JOU.rst:58
 msgid "Font of Vigor"
 msgstr ""
 
 # 2f9f76d48d784fb39d3316922d5a7d34
-#: ../../JOU.rst:90
+#: ../../JOU.rst:57
 msgid "|mana_2| |mana_w|, Sacrifice Font of Vigor: You gain 7 life."
 msgstr ""
 
 # 2536576ae19f45bcb843357083557f86
-#: ../../JOU.rst:104
+#: ../../JOU.rst:68
 msgid "Godsend"
 msgstr ""
 
 # 27694790cf604a619c07f694259a9cc7
-#: ../../JOU.rst:97
+#: ../../JOU.rst:61
 msgid "Equipped creature gets +3/+3."
 msgstr "Wyposażony stwór dostaje +3/+3."
 
 # fe3de470714b4a9ca87c44704a327133
-#: ../../JOU.rst:99
+#: ../../JOU.rst:63
 msgid ""
 "Whenever equipped creature blocks or becomes blocked by one or more "
 "creatures, you may exile one of those creatures."
@@ -222,7 +222,7 @@ msgstr ""
 "stworów, możesz wypędzić jednego z tych stworów."
 
 # d7be8c9b6bd9444990d26e33578ac224
-#: ../../JOU.rst:101
+#: ../../JOU.rst:65
 #, fuzzy
 msgid ""
 "Your opponents can't cast spells with the same name as a card exiled with "
@@ -232,17 +232,17 @@ msgstr ""
 "przy użyciu Godsend."
 
 # 8b7ac86a9baf44338590ccb7dd3e7b5c
-#: ../../JOU.rst:103
+#: ../../JOU.rst:67
 msgid "Equip |mana_3|"
 msgstr "Wyposaż |mana_3|"
 
 # db51dc7734c24582a6c5e9cdcd0c3fcd
-#: ../../JOU.rst:111
+#: ../../JOU.rst:72
 msgid "Harvestguard Alseids"
 msgstr ""
 
 # 4689494df6b9425d846f5a1db4ef78c9
-#: ../../JOU.rst:110
+#: ../../JOU.rst:71
 msgid ""
 "Constellation — Whenever Harvestguard Alseids or another enchantment enters "
 "the battlefield under your control, prevent all damage that would be dealt "
@@ -253,24 +253,24 @@ msgstr ""
 "zadane w tej turze wskazanemu stworowi."
 
 # 85fc038969f44e158d282ee460360a77
-#: ../../JOU.rst:118
+#: ../../JOU.rst:76
 msgid "Lagonna-Band Trailblazer"
 msgstr ""
 
 # bdb5cc4d39584f2f9e544ed8432281bf
-#: ../../JOU.rst:117
+#: ../../JOU.rst:75
 msgid ""
 "Heroic — Whenever you cast a spell that targets Lagonna-Band Trailblazer, "
 "put a +1/+1 counter on Lagonna-Band Trailblazer."
 msgstr ""
 
 # 3e794950a8a047ff96586524d55b6445
-#: ../../JOU.rst:127
+#: ../../JOU.rst:82
 msgid "Launch the Fleet"
 msgstr ""
 
 # c14d085bf58547d79febcfeae3c20f52
-#: ../../JOU.rst:124
+#: ../../JOU.rst:79
 #, fuzzy
 msgid ""
 "Strive — This spell costs |mana_1| more to cast for each target beyond the "
@@ -279,7 +279,7 @@ msgstr ""
 "Wysiłek — Rzucenie Launch the Fleet kosztuje o |mana_1| więcej za każdy "
 "dodatkowy cel poza pierwszym."
 
-#: ../../JOU.rst:126
+#: ../../JOU.rst:81
 msgid ""
 "Until end of turn, any number of target creatures each gain \"Whenever this "
 "creature attacks, create a 1/1 white Soldier creature token that's tapped "
@@ -287,58 +287,58 @@ msgid ""
 msgstr ""
 
 # 8d6e50eabeb64fca8caafa4ccb628604
-#: ../../JOU.rst:134
+#: ../../JOU.rst:86
 msgid "Leonin Iconoclast"
 msgstr ""
 
 # 48b3b98b05214fa997aa5cd2dac16724
-#: ../../JOU.rst:133
+#: ../../JOU.rst:85
 msgid ""
 "Heroic — Whenever you cast a spell that targets Leonin Iconoclast, destroy "
 "target enchantment creature an opponent controls."
 msgstr ""
 
 # ecd445f9db6a455392792a4dc23b3fbf
-#: ../../JOU.rst:145
+#: ../../JOU.rst:94
 msgid "Mortal Obstinacy"
 msgstr ""
 
 # 8f7d9df9c71f492793c6027632c28dda
 # 94ded8efe4f74174a1c63afba95e7841
-#: ../../JOU.rst:140 ../../JOU.rst:764
+#: ../../JOU.rst:89 ../../JOU.rst:479
 msgid "Enchant creature you control"
 msgstr "Zaurocz stwora, którym władasz"
 
 # 93271a20d1154d9c9753cbfea4f05aff
 # 46eb93ebd6bd490ea11301b774f9d809
-#: ../../JOU.rst:142 ../../JOU.rst:766
+#: ../../JOU.rst:91 ../../JOU.rst:481
 msgid "Enchanted creature gets +1/+1."
 msgstr "Zauroczony stwór dostaje +1/+1."
 
 # 5bf6d344a41848ada5538b529a1f280e
-#: ../../JOU.rst:144
+#: ../../JOU.rst:93
 msgid ""
 "Whenever enchanted creature deals combat damage to a player, you may "
 "sacrifice Mortal Obstinacy. If you do, destroy target enchantment."
 msgstr ""
 
 # 71e3da63c4744f98afff6d11e1b3f42a
-#: ../../JOU.rst:152
+#: ../../JOU.rst:98
 msgid "Nyx-Fleece Ram"
 msgstr ""
 
 # 25eb5675924443b9bc93fc76bc4e7155
-#: ../../JOU.rst:151
+#: ../../JOU.rst:97
 msgid "At the beginning of your upkeep, you gain 1 life."
 msgstr "Na początku twojego utrzymania zyskujesz 1 życie."
 
 # 2139fd7162e9463ab796a154689def8c
-#: ../../JOU.rst:163
+#: ../../JOU.rst:106
 msgid "Oppressive Rays"
 msgstr ""
 
 # 6306075616ad4ef79f394d64a94f0946
-#: ../../JOU.rst:160
+#: ../../JOU.rst:103
 msgid ""
 "Enchanted creature can't attack or block unless its controller pays |mana_3|."
 msgstr ""
@@ -346,23 +346,23 @@ msgstr ""
 "zapłaci |mana_3|."
 
 # 4df5b0ddb4304db894d5eca98519b993
-#: ../../JOU.rst:162
+#: ../../JOU.rst:105
 msgid ""
 "Activated abilities of enchanted creature cost |mana_3| more to activate."
 msgstr ""
 
 # 93f702133ac14e4a8074128017fa4a3a
-#: ../../JOU.rst:168
+#: ../../JOU.rst:108
 msgid "Oreskos Swiftclaw"
 msgstr ""
 
 # de7369e4761d4ad68c725148a1715e33
-#: ../../JOU.rst:179
+#: ../../JOU.rst:116
 msgid "Phalanx Formation"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
-#: ../../JOU.rst:176
+#: ../../JOU.rst:113
 #, fuzzy
 msgid ""
 "Strive — This spell costs |mana_1| |mana_w| more to cast for each target "
@@ -372,19 +372,19 @@ msgstr ""
 "dodatkowy cel poza pierwszym."
 
 # 6aee0292b9e14c40ae0ee6a66e0a551f
-#: ../../JOU.rst:178
+#: ../../JOU.rst:115
 msgid ""
 "Any number of target creatures each gain double strike until end of turn. "
 "(They deal both first-strike and regular combat damage.)"
 msgstr ""
 
 # f741cb5d8029473aa31289c3ea862e00
-#: ../../JOU.rst:186
+#: ../../JOU.rst:120
 msgid "Quarry Colossus"
 msgstr ""
 
 # a10d3c8894c14e358265f3697e5632ff
-#: ../../JOU.rst:185
+#: ../../JOU.rst:119
 msgid ""
 "When Quarry Colossus enters the battlefield, put target creature into its "
 "owner's library just beneath the top X cards of that library, where X is the "
@@ -392,23 +392,23 @@ msgid ""
 msgstr ""
 
 # 50a98b9afa264aecbf3286276b002806
-#: ../../JOU.rst:193
+#: ../../JOU.rst:124
 msgid "Reprisal"
 msgstr ""
 
 # 58ac611404f7415e872e1dd5e6a0eb26
-#: ../../JOU.rst:192
+#: ../../JOU.rst:123
 msgid ""
 "Destroy target creature with power 4 or greater. It can't be regenerated."
 msgstr ""
 
 # cd351f1e7f1a41a08a0a77df7b10eed9
-#: ../../JOU.rst:204
+#: ../../JOU.rst:132
 msgid "Sightless Brawler"
 msgstr ""
 
 # d2388289390a4661b474f48bcdbf7d51
-#: ../../JOU.rst:199
+#: ../../JOU.rst:127
 msgid ""
 "Bestow |mana_4| |mana_w| (If you cast this card for its bestow cost, it's an "
 "Aura spell with enchant creature. It becomes a creature again if it's not "
@@ -416,22 +416,22 @@ msgid ""
 msgstr ""
 
 # c16698ec31564e5686991a3aac5d45e2
-#: ../../JOU.rst:201
+#: ../../JOU.rst:129
 msgid "Sightless Brawler can't attack alone."
 msgstr ""
 
 # 6260dccb65374ae6b06a4077a4f39685
-#: ../../JOU.rst:203
+#: ../../JOU.rst:131
 msgid "Enchanted creature gets +3/+2 and can't attack alone."
 msgstr ""
 
 # b3d1bfcaefe647abb495744b4438e9eb
-#: ../../JOU.rst:211
+#: ../../JOU.rst:136
 msgid "Skybind"
 msgstr ""
 
 # 7d982117fe464a629306fe766f81e9e4
-#: ../../JOU.rst:210
+#: ../../JOU.rst:135
 msgid ""
 "Constellation — Whenever Skybind or another enchantment enters the "
 "battlefield under your control, exile target nonenchantment permanent. "
@@ -444,7 +444,7 @@ msgstr ""
 "końcowego."
 
 # b48a7ca4229046338f59d20b38fffda9
-#: ../../JOU.rst:220
+#: ../../JOU.rst:142
 msgid "Skyspear Cavalry"
 msgstr ""
 
@@ -458,50 +458,50 @@ msgstr ""
 # e29e08b4acfb4feaaccea8561b371f54
 # 4a4f1178bc2e46c9bbc60823621a0107
 # 91359bf8e61a43d0b6cc49bc1993ced2
-#: ../../JOU.rst:217 ../../JOU.rst:233 ../../JOU.rst:269 ../../JOU.rst:349
-#: ../../JOU.rst:401 ../../JOU.rst:468 ../../JOU.rst:612 ../../JOU.rst:901
-#: ../../JOU.rst:1287 ../../JOU.rst:1332
+#: ../../JOU.rst:139 ../../JOU.rst:149 ../../JOU.rst:173 ../../JOU.rst:223
+#: ../../JOU.rst:257 ../../JOU.rst:297 ../../JOU.rst:387 ../../JOU.rst:565
+#: ../../JOU.rst:819 ../../JOU.rst:849
 msgid "Flying"
 msgstr "Latanie"
 
 # 98b3d5207b6d499e97722eb555f35f07
-#: ../../JOU.rst:219
+#: ../../JOU.rst:141
 msgid ""
 "Double strike (This creature deals both first-strike and regular combat "
 "damage.)"
 msgstr ""
 
 # 05252539bb9a49819bffc7693bbd9ce5
-#: ../../JOU.rst:227
+#: ../../JOU.rst:146
 msgid "Stonewise Fortifier"
 msgstr ""
 
 # 4f50af1813f4465d89667c3db20406d3
-#: ../../JOU.rst:226
+#: ../../JOU.rst:145
 msgid ""
 "|mana_4| |mana_w|: Prevent all damage that would be dealt to Stonewise "
 "Fortifier by target creature this turn."
 msgstr ""
 
 # e95dc77dbd3d4ac792fbb3adae3494f8
-#: ../../JOU.rst:236
+#: ../../JOU.rst:152
 msgid "Supply-Line Cranes"
 msgstr ""
 
 # bdce58afe65043d18ca4b7b9abffd566
-#: ../../JOU.rst:235
+#: ../../JOU.rst:151
 msgid ""
 "When Supply-Line Cranes enters the battlefield, put a +1/+1 counter on "
 "target creature."
 msgstr ""
 
 # c40a4920f56145359c25ce86c4fc1232
-#: ../../JOU.rst:243
+#: ../../JOU.rst:156
 msgid "Tethmos High Priest"
 msgstr ""
 
 # b5a74aaab7744f9593b5578f6e5977a2
-#: ../../JOU.rst:242
+#: ../../JOU.rst:155
 msgid ""
 "Heroic — Whenever you cast a spell that targets Tethmos High Priest, return "
 "target creature card with converted mana cost 2 or less from your graveyard "
@@ -509,12 +509,12 @@ msgid ""
 msgstr ""
 
 # 79b5ce0255cf43418455d9142aaae02f
-#: ../../JOU.rst:252
+#: ../../JOU.rst:162
 msgid "Aerial Formation"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
-#: ../../JOU.rst:249
+#: ../../JOU.rst:159
 #, fuzzy
 msgid ""
 "Strive — This spell costs |mana_2| |mana_u| more to cast for each target "
@@ -524,7 +524,7 @@ msgstr ""
 "dodatkowy cel poza pierwszym."
 
 # aaaeebffb36b4fbd88ba265b4d4214c5
-#: ../../JOU.rst:251
+#: ../../JOU.rst:161
 msgid ""
 "Any number of target creatures each get +1/+1 and gain flying until end of "
 "turn."
@@ -533,12 +533,12 @@ msgstr ""
 "tury."
 
 # 4a1e7c3395d54b9eabd830e5337aa8a3
-#: ../../JOU.rst:261
+#: ../../JOU.rst:168
 msgid "Battlefield Thaumaturge"
 msgstr ""
 
 # 5e6dfa90abee4cc881866d1d1823a9a6
-#: ../../JOU.rst:258
+#: ../../JOU.rst:165
 msgid ""
 "Each instant and sorcery spell you cast costs |mana_1| less to cast for each "
 "creature it targets."
@@ -547,30 +547,30 @@ msgstr ""
 "za każdego stwora, którego wskazuje."
 
 # f9ed64727fce4c4babc2dbbb82b6a1f1
-#: ../../JOU.rst:260
+#: ../../JOU.rst:167
 msgid ""
 "Heroic — Whenever you cast a spell that targets Battlefield Thaumaturge, "
 "Battlefield Thaumaturge gains hexproof until end of turn."
 msgstr ""
 
 # 9f6f05aae5fb44b69179c6af74af779d
-#: ../../JOU.rst:270
+#: ../../JOU.rst:174
 msgid "Cloaked Siren"
 msgstr ""
 
 # b30c6594f51c48118a0557535d438620
 # 7bab9d32081b447c88b4da884900392a
-#: ../../JOU.rst:267 ../../JOU.rst:1210
+#: ../../JOU.rst:171 ../../JOU.rst:763
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy możesz rzucić sztuczkę.)"
 
 # 2d215e6eb19d4de2b3f03b036b2b242b
-#: ../../JOU.rst:277
+#: ../../JOU.rst:178
 msgid "Countermand"
 msgstr ""
 
 # 9fb3b315a6774524a37833d20ed9ef7e
-#: ../../JOU.rst:276
+#: ../../JOU.rst:177
 #, fuzzy
 msgid ""
 "Counter target spell. Its controller puts the top four cards of their "
@@ -580,12 +580,12 @@ msgstr ""
 "biblioteki do swojego cmentarza."
 
 # 5254148c61e7449e8a7fd6c848219e3b
-#: ../../JOU.rst:288
+#: ../../JOU.rst:186
 msgid "Crystalline Nautilus"
 msgstr ""
 
 # ed123ba508de4ce2809be48309ac61c1
-#: ../../JOU.rst:283
+#: ../../JOU.rst:181
 msgid ""
 "Bestow |mana_3| |mana_u| |mana_u| (If you cast this card for its bestow "
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
@@ -593,7 +593,7 @@ msgid ""
 msgstr ""
 
 # fb344cb2f67443cbb5a9496e04ad46a3
-#: ../../JOU.rst:285
+#: ../../JOU.rst:183
 msgid ""
 "When Crystalline Nautilus becomes the target of a spell or ability, "
 "sacrifice it."
@@ -602,7 +602,7 @@ msgstr ""
 "go."
 
 # fb344cb2f67443cbb5a9496e04ad46a3
-#: ../../JOU.rst:287
+#: ../../JOU.rst:185
 #, fuzzy
 msgid ""
 "Enchanted creature gets +4/+4 and has \"When this creature becomes the "
@@ -612,11 +612,11 @@ msgstr ""
 "go."
 
 # 97946b85b4ea4343a8b85c9007a745a5
-#: ../../JOU.rst:295
+#: ../../JOU.rst:190
 msgid "Dakra Mystic"
 msgstr ""
 
-#: ../../JOU.rst:294
+#: ../../JOU.rst:189
 msgid ""
 "|mana_u|, |tap|: Each player reveals the top card of their library. You may "
 "put the revealed cards into their owners' graveyards. If you don't, each "
@@ -624,12 +624,12 @@ msgid ""
 msgstr ""
 
 # 6d94fd0a234949ecaf4c1b49bcef04bf
-#: ../../JOU.rst:302
+#: ../../JOU.rst:194
 msgid "Daring Thief"
 msgstr ""
 
 # bc44eeddc21143cdadbb6478f8af3a8b
-#: ../../JOU.rst:301
+#: ../../JOU.rst:193
 msgid ""
 "Inspired — Whenever Daring Thief becomes untapped, you may exchange control "
 "of target nonland permanent you control and target permanent an opponent "
@@ -637,12 +637,12 @@ msgid ""
 msgstr ""
 
 # 2ff15f6f88924d2284c7953dd49d4068
-#: ../../JOU.rst:311
+#: ../../JOU.rst:200
 msgid "Dictate of Kruphix"
 msgstr ""
 
 # dcdc3b8ea8464733a85e98373658e40f
-#: ../../JOU.rst:310
+#: ../../JOU.rst:199
 msgid ""
 "At the beginning of each player's draw step, that player draws an additional "
 "card."
@@ -651,22 +651,22 @@ msgstr ""
 "kartę."
 
 # 0b7e0649b8d748da875e8c4d1fe06c27
-#: ../../JOU.rst:318
+#: ../../JOU.rst:204
 msgid "Font of Fortunes"
 msgstr ""
 
 # 560846e6560849efb90e8c70c0e9c87c
-#: ../../JOU.rst:317
+#: ../../JOU.rst:203
 msgid "|mana_1| |mana_u|, Sacrifice Font of Fortunes: Draw two cards."
 msgstr ""
 
 # 954795b25d3a4439a0721142ab056a53
-#: ../../JOU.rst:325
+#: ../../JOU.rst:208
 msgid "Godhunter Octopus"
 msgstr ""
 
 # 3aa1af6288d5494fbe7211e7ab0d8ec4
-#: ../../JOU.rst:324
+#: ../../JOU.rst:207
 msgid ""
 "Godhunter Octopus can't attack unless defending player controls an "
 "enchantment or an enchanted permanent."
@@ -675,12 +675,12 @@ msgstr ""
 "urokiem lub zauroczonym permanentem."
 
 # 079d5914dc9741e189dfa31b9e15abb1
-#: ../../JOU.rst:334
+#: ../../JOU.rst:214
 msgid "Hour of Need"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
-#: ../../JOU.rst:331 ../../JOU.rst:385
+#: ../../JOU.rst:211 ../../JOU.rst:247
 #, fuzzy
 msgid ""
 "Strive — This spell costs |mana_1| |mana_u| more to cast for each target "
@@ -689,30 +689,30 @@ msgstr ""
 "Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
 "dodatkowy cel poza pierwszym."
 
-#: ../../JOU.rst:333
+#: ../../JOU.rst:213
 msgid ""
 "Exile any number of target creatures. For each creature exiled this way, its "
 "controller creates a 4/4 blue Sphinx creature token with flying."
 msgstr ""
 
 # 37f0a1f8cf5e4800b9a926e673e2c77a
-#: ../../JOU.rst:341
+#: ../../JOU.rst:218
 msgid "Hubris"
 msgstr ""
 
 # 225e405091364135a575487effd2e1ff
-#: ../../JOU.rst:340
+#: ../../JOU.rst:217
 msgid ""
 "Return target creature and all Auras attached to it to their owners' hands."
 msgstr ""
 
 # 866542684ddf44b1bf8471f9eaf4e78b
-#: ../../JOU.rst:354
+#: ../../JOU.rst:228
 msgid "Hypnotic Siren"
 msgstr ""
 
 # 92910865313f4e6ca23f28f177ddd310
-#: ../../JOU.rst:347
+#: ../../JOU.rst:221
 msgid ""
 "Bestow |mana_5| |mana_u| |mana_u| (If you cast this card for its bestow "
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
@@ -720,22 +720,22 @@ msgid ""
 msgstr ""
 
 # cd3c72e4c1994ee8a1361af648e43188
-#: ../../JOU.rst:351
+#: ../../JOU.rst:225
 msgid "You control enchanted creature."
 msgstr "Władasz zauroczonym stworem."
 
 # 813c047fea75409a991c15d068311159
-#: ../../JOU.rst:353
+#: ../../JOU.rst:227
 msgid "Enchanted creature gets +1/+1 and has flying."
 msgstr "Zauroczony stwór dostaje +1/+1 i ma latanie."
 
 # 8bdb11f7dcf449138b5b846bd3c352e4
-#: ../../JOU.rst:361
+#: ../../JOU.rst:232
 msgid "Interpret the Signs"
 msgstr ""
 
 # dffe1f9b68b64dbc913d261c9d42a672
-#: ../../JOU.rst:360
+#: ../../JOU.rst:231
 msgid ""
 "Scry 3, then reveal the top card of your library. Draw cards equal to that "
 "card's converted mana cost. (To scry 3, look at the top three cards of your "
@@ -744,12 +744,12 @@ msgid ""
 msgstr ""
 
 # d7f465a15bce4f74964df148f63d2086
-#: ../../JOU.rst:370
+#: ../../JOU.rst:238
 msgid "Kiora's Dismissal"
 msgstr ""
 
 # e24620f9b8b24c95a0fc33d7a543a98c
-#: ../../JOU.rst:367
+#: ../../JOU.rst:235
 #, fuzzy
 msgid ""
 "Strive — This spell costs |mana_u| more to cast for each target beyond the "
@@ -759,62 +759,62 @@ msgstr ""
 "dodatkowy cel poza pierwszym."
 
 # b8c121ffe7354d3498cd7cda79a254c7
-#: ../../JOU.rst:369
+#: ../../JOU.rst:237
 msgid "Return any number of target enchantments to their owners' hands."
 msgstr "Zwróć dowolną liczbę wskazanych uroków do rąk ich właścicieli."
 
 # e733fe61a9114dc380426e2009975b39
-#: ../../JOU.rst:379
+#: ../../JOU.rst:244
 msgid "Pin to the Earth"
 msgstr ""
 
 # b06b559ba6654effab969c3a0064c432
-#: ../../JOU.rst:378
+#: ../../JOU.rst:243
 msgid "Enchanted creature gets -6/-0."
 msgstr "Zauroczony stwór dostaje -6/-0."
 
 # 8dafd626a9b04f4193b49b30d27b960d
-#: ../../JOU.rst:388
+#: ../../JOU.rst:250
 msgid "Polymorphous Rush"
 msgstr ""
 
 # adb34178717f48a3979ae01b82f2a431
-#: ../../JOU.rst:387
+#: ../../JOU.rst:249
 msgid ""
 "Choose a creature on the battlefield. Any number of target creatures you "
 "control each become a copy of that creature until end of turn."
 msgstr ""
 
 # 576873d7c16b464c8a67745e30a16cc1
-#: ../../JOU.rst:395
+#: ../../JOU.rst:254
 msgid "Pull from the Deep"
 msgstr ""
 
 # 4081693ad2be44b3a68e574e83d8799a
-#: ../../JOU.rst:394
+#: ../../JOU.rst:253
 msgid ""
 "Return up to one target instant card and up to one target sorcery card from "
 "your graveyard to your hand. Exile Pull from the Deep."
 msgstr ""
 
 # 4b7a558abf1441cd8c987d5d0020db35
-#: ../../JOU.rst:404
+#: ../../JOU.rst:260
 msgid "Riptide Chimera"
 msgstr ""
 
 # 514c7a533f424829bec360367e1223f2
-#: ../../JOU.rst:403
+#: ../../JOU.rst:259
 msgid ""
 "At the beginning of your upkeep, return an enchantment you control to its "
 "owner's hand."
 msgstr ""
 
 # 726f9d74d09f4f418211c1f0e1100149
-#: ../../JOU.rst:411
+#: ../../JOU.rst:264
 msgid "Rise of Eagles"
 msgstr ""
 
-#: ../../JOU.rst:410
+#: ../../JOU.rst:263
 msgid ""
 "Create two 2/2 blue Bird enchantment creature tokens with flying. Scry 1. "
 "(Look at the top card of your library. You may put that card on the bottom "
@@ -822,31 +822,31 @@ msgid ""
 msgstr ""
 
 # 8bdae95c3e8549beacbe6af1616d85d7
-#: ../../JOU.rst:420
+#: ../../JOU.rst:270
 msgid "Sage of Hours"
 msgstr ""
 
 # b444cac885e548f09b3aea81a5e9e145
-#: ../../JOU.rst:417
+#: ../../JOU.rst:267
 msgid ""
 "Heroic — Whenever you cast a spell that targets Sage of Hours, put a +1/+1 "
 "counter on it."
 msgstr ""
 
 # c50196de6cfe4055815403bcb5dcc632
-#: ../../JOU.rst:419
+#: ../../JOU.rst:269
 msgid ""
 "Remove all +1/+1 counters from Sage of Hours: For each five counters removed "
 "this way, take an extra turn after this one."
 msgstr ""
 
 # 77703e9e33b741d1806a8a1395b30a9f
-#: ../../JOU.rst:427
+#: ../../JOU.rst:274
 msgid "Scourge of Fleets"
 msgstr ""
 
 # 1cb2b373131641608c6705838cc71aa2
-#: ../../JOU.rst:426
+#: ../../JOU.rst:273
 msgid ""
 "When Scourge of Fleets enters the battlefield, return each creature your "
 "opponents control with toughness X or less to its owner's hand, where X is "
@@ -854,24 +854,24 @@ msgid ""
 msgstr ""
 
 # 156f72aeb12a42559b8335676251f845
-#: ../../JOU.rst:434
+#: ../../JOU.rst:278
 msgid "Sigiled Starfish"
 msgstr ""
 
 # 5664ed3a67b148de8a00392bf7562bc4
-#: ../../JOU.rst:433
+#: ../../JOU.rst:277
 msgid ""
 "|tap|: Scry 1. (Look at the top card of your library. You may put that card "
 "on the bottom of your library.)"
 msgstr ""
 
 # f820c7797e044ff789c6183d6f7aef94
-#: ../../JOU.rst:441
+#: ../../JOU.rst:282
 msgid "Thassa's Devourer"
 msgstr ""
 
 # 84611e1a6a7c47b5be3cdafdf4fdbb92
-#: ../../JOU.rst:440
+#: ../../JOU.rst:281
 #, fuzzy
 msgid ""
 "Constellation — Whenever Thassa's Devourer or another enchantment enters the "
@@ -883,56 +883,56 @@ msgstr ""
 "biblioteki do swojego cmentarza."
 
 # 7987b9abb331437ebbb75c01dc90f069
-#: ../../JOU.rst:448
+#: ../../JOU.rst:286
 msgid "Thassa's Ire"
 msgstr ""
 
 # b92a5151f0e0411eb8911f2a150e05e1
-#: ../../JOU.rst:447
+#: ../../JOU.rst:285
 msgid "|mana_3| |mana_u|: You may tap or untap target creature."
 msgstr ""
 
 # 458daf4cecac4cb9b546d9ef8a749844
-#: ../../JOU.rst:455
+#: ../../JOU.rst:290
 msgid "Triton Cavalry"
 msgstr ""
 
 # 1a4945f1ca284e5e83ab8fee5d99ad62
-#: ../../JOU.rst:454
+#: ../../JOU.rst:289
 msgid ""
 "Heroic — Whenever you cast a spell that targets Triton Cavalry, you may "
 "return target enchantment to its owner's hand."
 msgstr ""
 
 # 1769a48534494247983438131625c751
-#: ../../JOU.rst:462
+#: ../../JOU.rst:294
 msgid "Triton Shorestalker"
 msgstr ""
 
 # e5a7335ea1f648d29be0a7189a6260d2
-#: ../../JOU.rst:461
+#: ../../JOU.rst:293
 msgid "Triton Shorestalker can't be blocked."
 msgstr ""
 
 # 3862c3d6c4cf40b39661b070f73b71d7
-#: ../../JOU.rst:471
+#: ../../JOU.rst:300
 msgid "War-Wing Siren"
 msgstr ""
 
 # 98b9567b59884871a8d88781cd8f761d
-#: ../../JOU.rst:470
+#: ../../JOU.rst:299
 msgid ""
 "Heroic — Whenever you cast a spell that targets War-Wing Siren, put a +1/+1 "
 "counter on War-Wing Siren."
 msgstr ""
 
 # 36edd7f9586246e1971a8021f7ecf4a4
-#: ../../JOU.rst:478
+#: ../../JOU.rst:304
 msgid "Whitewater Naiads"
 msgstr ""
 
 # 8ef6af6a661e41f49662a0b0e0829867
-#: ../../JOU.rst:477
+#: ../../JOU.rst:303
 msgid ""
 "Constellation — Whenever Whitewater Naiads or another enchantment enters the "
 "battlefield under your control, target creature can't be blocked this turn."
@@ -941,12 +941,12 @@ msgstr ""
 "pod twoim władaniem, wskazany stwór nie może być blokowany w tej turze."
 
 # b0fcffe74f2f4d15bef6a71b69b2a649
-#: ../../JOU.rst:485
+#: ../../JOU.rst:308
 msgid "Agent of Erebos"
 msgstr "Agent of Erebos (Agent Erebosa)"
 
 # 4e3be6d629c04b598edfaa7f57ae91af
-#: ../../JOU.rst:484
+#: ../../JOU.rst:307
 msgid ""
 "Constellation — Whenever Agent of Erebos or another enchantment enters the "
 "battlefield under your control, exile all cards from target player's "
@@ -956,12 +956,12 @@ msgstr ""
 "pod twoim władaniem, wypędź wszystkie karty z cmentarza wskazanego gracza."
 
 # e082e5b81aa74995b9812840972ad222
-#: ../../JOU.rst:494
+#: ../../JOU.rst:314
 msgid "Aspect of Gorgon"
 msgstr ""
 
 # f5e325aab47f472b8f87600ba8104ce7
-#: ../../JOU.rst:493
+#: ../../JOU.rst:313
 #, fuzzy
 msgid ""
 "Enchanted creature gets +1/+3 and has deathtouch. (Any amount of damage it "
@@ -969,12 +969,12 @@ msgid ""
 msgstr "Zauroczony stwór dostaje +1/+3 i ma Dotyk Śmierci."
 
 # caf8731c3ea84057b6d0abf5231493bb
-#: ../../JOU.rst:503
+#: ../../JOU.rst:320
 msgid "Bloodcrazed Hoplite"
 msgstr ""
 
 # b2164b77586644348841f5c0aa387aad
-#: ../../JOU.rst:500
+#: ../../JOU.rst:317
 msgid ""
 "Heroic — Whenever you cast a spell that targets Bloodcrazed Hoplite, put a "
 "+1/+1 counter on it."
@@ -983,7 +983,7 @@ msgstr ""
 "znacznik +1/+1."
 
 # e4504afebd5e44298dbafc75ec626a3e
-#: ../../JOU.rst:502
+#: ../../JOU.rst:319
 #, fuzzy
 msgid ""
 "Whenever a +1/+1 counter is put on Bloodcrazed Hoplite, remove a +1/+1 "
@@ -993,12 +993,12 @@ msgstr ""
 "usuń znacznik +1/+1 ze wskazanego stwora władanego przez przeciwnika."
 
 # d210b1b2b98e414199b1fce273a45a92
-#: ../../JOU.rst:510
+#: ../../JOU.rst:324
 msgid "Brain Maggot"
 msgstr ""
 
 # db025c01731f4d8097138e167564cfe2
-#: ../../JOU.rst:509
+#: ../../JOU.rst:323
 #, fuzzy
 msgid ""
 "When Brain Maggot enters the battlefield, target opponent reveals their hand "
@@ -1010,22 +1010,22 @@ msgstr ""
 "aż Brain Maggot opuści pole walki."
 
 # e1cffc41501b4bac99aaf00c512ca02c
-#: ../../JOU.rst:519
+#: ../../JOU.rst:330
 msgid "Cast into Darkness"
 msgstr ""
 
 # 957d454ca8424df2a3757b1bd4d34367
-#: ../../JOU.rst:518
+#: ../../JOU.rst:329
 msgid "Enchanted creature gets -2/-0 and can't block."
 msgstr "Zauroczony stwór dostaje -2/-0 i nie może blokować."
 
 # 5ae5adc9448a4d3f82891938d2b5a1ac
-#: ../../JOU.rst:528
+#: ../../JOU.rst:336
 msgid "Cruel Feeding"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
-#: ../../JOU.rst:525 ../../JOU.rst:665
+#: ../../JOU.rst:333 ../../JOU.rst:419
 #, fuzzy
 msgid ""
 "Strive — This spell costs |mana_2| |mana_b| more to cast for each target "
@@ -1035,7 +1035,7 @@ msgstr ""
 "dodatkowy cel poza pierwszym."
 
 # 14096950b59b470dba8c9e2bbae6b8ab
-#: ../../JOU.rst:527
+#: ../../JOU.rst:335
 msgid ""
 "Any number of target creatures each get +1/+0 and gain lifelink until end of "
 "turn. (Damage dealt by a creature with lifelink also causes its controller "
@@ -1043,24 +1043,24 @@ msgid ""
 msgstr ""
 
 # d22f97f8e6ce40949ed69a7bf0710aa7
-#: ../../JOU.rst:537
+#: ../../JOU.rst:342
 msgid "Dictate of Erebos"
 msgstr ""
 
 # 93d042485da14837a36aac04a99e347b
-#: ../../JOU.rst:536
+#: ../../JOU.rst:341
 msgid ""
 "Whenever a creature you control dies, each opponent sacrifices a creature."
 msgstr ""
 "Ilekroć stwór, którym władasz umiera, każdy przeciwnik poświęca stwora."
 
 # b3e59b806b0c42cbb3a9a7203c1c238f
-#: ../../JOU.rst:544
+#: ../../JOU.rst:346
 msgid "Doomwake Giant"
 msgstr ""
 
 # d0de54a6b04349ddad73c5e23f4ceb80
-#: ../../JOU.rst:543
+#: ../../JOU.rst:345
 msgid ""
 "Constellation — Whenever Doomwake Giant or another enchantment enters the "
 "battlefield under your control, creatures your opponents control get -1/-1 "
@@ -1071,12 +1071,12 @@ msgstr ""
 "końca tury."
 
 # 98e1de7c2c2a4541b7f874982ffbf708
-#: ../../JOU.rst:551
+#: ../../JOU.rst:350
 msgid "Dreadbringer Lampads"
 msgstr ""
 
 # 0d558d4850354e53b9f6eb75b9722645
-#: ../../JOU.rst:550
+#: ../../JOU.rst:349
 msgid ""
 "Constellation — Whenever Dreadbringer Lampads or another enchantment enters "
 "the battlefield under your control, target creature gains intimidate until "
@@ -1089,59 +1089,59 @@ msgstr ""
 "którymi współdzieli kolor.)"
 
 # 2792e0c8124649d5ad564efe3468fac4
-#: ../../JOU.rst:558
+#: ../../JOU.rst:354
 msgid "Extinguish All Hope"
 msgstr ""
 
 # 77e9ef169df444749aadd25d39a86652
-#: ../../JOU.rst:557
+#: ../../JOU.rst:353
 msgid "Destroy all nonenchantment creatures."
 msgstr "Zniszcz wszystkie stwory nie będące urokami."
 
 # ecc86458fa8b41d382af9fbdb9e368bb
-#: ../../JOU.rst:565
+#: ../../JOU.rst:358
 msgid "Feast of Dreams"
 msgstr ""
 
 # 74691691f33d4ce2ac2f11ca0f2e66da
-#: ../../JOU.rst:564
+#: ../../JOU.rst:357
 msgid "Destroy target enchanted creature or enchantment creature."
 msgstr "Zniszcza wskazanego zauroczonego stwora lub stwora będącego urokiem."
 
 # db95adb55a3b47b3abebd537d1fc9edb
-#: ../../JOU.rst:574
+#: ../../JOU.rst:364
 msgid "Felhide Petrifier"
 msgstr ""
 
 # 1871b3574656464087e0ac67d2df8490
-#: ../../JOU.rst:571
+#: ../../JOU.rst:361
 msgid "Deathtouch"
 msgstr "Dotyk śmierci"
 
 # 12ee8e2e6f4d47fcb17265aa7e27d8b6
-#: ../../JOU.rst:573
+#: ../../JOU.rst:363
 msgid "Other Minotaur creatures you control have deathtouch."
 msgstr "Inne stwory typu Minotaur, którymi władasz mają dotyk śmierci."
 
 # 57316c92b5c243ca931e34e06fd1e931
-#: ../../JOU.rst:581
+#: ../../JOU.rst:368
 msgid "Font of Return"
 msgstr ""
 
 # 26c1f3812aa849459a92d32ee3502305
-#: ../../JOU.rst:580
+#: ../../JOU.rst:367
 msgid ""
 "|mana_3| |mana_b|, Sacrifice Font of Return: Return up to three target "
 "creature cards from your graveyard to your hand."
 msgstr ""
 
 # 6c8f9046d32d4009905d33a7a71566c4
-#: ../../JOU.rst:592
+#: ../../JOU.rst:376
 msgid "Gnarled Scarhide"
 msgstr ""
 
 # 2bc4a9bda2974469b9e241b309533795
-#: ../../JOU.rst:587
+#: ../../JOU.rst:371
 msgid ""
 "Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an "
 "Aura spell with enchant creature. It becomes a creature again if it's not "
@@ -1149,22 +1149,22 @@ msgid ""
 msgstr ""
 
 # 64d3cca2c0634041b0d10fc53ddadbbb
-#: ../../JOU.rst:589
+#: ../../JOU.rst:373
 msgid "Gnarled Scarhide can't block."
 msgstr "Gnarled Scarhide nie może blokować."
 
 # 2c3294010a4f405ab712457e28f0b0c5
-#: ../../JOU.rst:591
+#: ../../JOU.rst:375
 msgid "Enchanted creature gets +2/+1 and can't block."
 msgstr "Zauroczony stwór dostaje +2/+1 i nie może blokować."
 
 # ca16f33484274ac48dc0ec90203b7895
-#: ../../JOU.rst:599
+#: ../../JOU.rst:380
 msgid "Grim Guardian"
 msgstr ""
 
 # 33b6448e5d2d4a538ab86ea7c5f9bf71
-#: ../../JOU.rst:598
+#: ../../JOU.rst:379
 msgid ""
 "Constellation — Whenever Grim Guardian or another enchantment enters the "
 "battlefield under your control, each opponent loses 1 life."
@@ -1173,11 +1173,11 @@ msgstr ""
 "twoim władaniem, każdy przeciwnik traci 1 życie."
 
 # 520a6faff2af473cb03ccc4f1f8e1072
-#: ../../JOU.rst:606
+#: ../../JOU.rst:384
 msgid "King Macar, the Gold-Cursed"
 msgstr ""
 
-#: ../../JOU.rst:605
+#: ../../JOU.rst:383
 msgid ""
 "Inspired — Whenever King Macar, the Gold-Cursed becomes untapped, you may "
 "exile target creature. If you do, create a colorless artifact token named "
@@ -1185,58 +1185,58 @@ msgid ""
 msgstr ""
 
 # 745d2e0f40f54b36aac683a6475ab4e1
-#: ../../JOU.rst:615
+#: ../../JOU.rst:390
 msgid "Master of the Feast"
 msgstr ""
 
 # 0748bab8489b4586a65e19ddd3745959
-#: ../../JOU.rst:614
+#: ../../JOU.rst:389
 msgid "At the beginning of your upkeep, each opponent draws a card."
 msgstr "Na początku twojego utrzymania każdy z przeciwników dobiera kartę."
 
 # 906ddf1ba34d43ed8477f931b6e66f08
-#: ../../JOU.rst:622
+#: ../../JOU.rst:394
 msgid "Nightmarish End"
 msgstr ""
 
 # 841fce745177452c9bf0285314956801
-#: ../../JOU.rst:621
+#: ../../JOU.rst:393
 msgid ""
 "Target creature gets -X/-X until end of turn, where X is the number of cards "
 "in your hand."
 msgstr ""
 
 # f91c6e366e3c401a92b53b20ac065a99
-#: ../../JOU.rst:631
+#: ../../JOU.rst:400
 msgid "Nyx Infusion"
 msgstr ""
 
 # 88396a22b2d74de38d30611cdf14c413
-#: ../../JOU.rst:630
+#: ../../JOU.rst:399
 msgid ""
 "Enchanted creature gets +2/+2 as long as it's an enchantment. Otherwise, it "
 "gets -2/-2."
 msgstr ""
 
 # 97bd49f4bd584cc59313cbc04c01674a
-#: ../../JOU.rst:638
+#: ../../JOU.rst:404
 msgid "Pharika's Chosen"
 msgstr ""
 
 # 57b0c495959644faa13498dd499a4b9d
-#: ../../JOU.rst:637
+#: ../../JOU.rst:403
 msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
 
 # 94e6f01e83264168aeed236edee66e18
-#: ../../JOU.rst:645
+#: ../../JOU.rst:408
 msgid "Returned Reveler"
 msgstr ""
 
 # 9fb3b315a6774524a37833d20ed9ef7e
-#: ../../JOU.rst:644
+#: ../../JOU.rst:407
 #, fuzzy
 msgid ""
 "When Returned Reveler dies, each player puts the top three cards of their "
@@ -1246,11 +1246,11 @@ msgstr ""
 "biblioteki do swojego cmentarza."
 
 # 188b251d92e04af8ae462d1a621a8aac
-#: ../../JOU.rst:652
+#: ../../JOU.rst:412
 msgid "Ritual of the Returned"
 msgstr ""
 
-#: ../../JOU.rst:651
+#: ../../JOU.rst:411
 msgid ""
 "Exile target creature card from your graveyard. Create a black Zombie "
 "creature token. Its power is equal to that card's power and its toughness is "
@@ -1258,49 +1258,49 @@ msgid ""
 msgstr ""
 
 # 5effcff37af34472bdcedf6ab865a906
-#: ../../JOU.rst:657
+#: ../../JOU.rst:414
 msgid "Rotted Hulk"
 msgstr ""
 
 # 7af3e0dc6e8444fe8c4f9aba3375b94a
-#: ../../JOU.rst:668
+#: ../../JOU.rst:422
 msgid "Silence the Believers"
 msgstr ""
 
 # 5e2196c7720a43d7a13c306cc65ecd19
-#: ../../JOU.rst:667
+#: ../../JOU.rst:421
 msgid "Exile any number of target creatures and all Auras attached to them."
 msgstr ""
 
 # 82044a69511e4eddaa94d02d53a0f915
-#: ../../JOU.rst:675
+#: ../../JOU.rst:426
 msgid "Spiteful Blow"
 msgstr ""
 
 # 03303e4d03594c86822b3de63ddfe1e9
-#: ../../JOU.rst:674
+#: ../../JOU.rst:425
 msgid "Destroy target creature and target land."
 msgstr ""
 
 # 170b9a1fc605479986536123b0f616de
-#: ../../JOU.rst:682
+#: ../../JOU.rst:430
 msgid "Squelching Leeches"
 msgstr ""
 
 # c2e639db576e42c99b1163d7d57a1561
-#: ../../JOU.rst:681
+#: ../../JOU.rst:429
 msgid ""
 "Squelching Leeches's power and toughness are each equal to the number of "
 "Swamps you control."
 msgstr ""
 
 # bf90c667eb6445c7b08eef8a817f61c9
-#: ../../JOU.rst:689
+#: ../../JOU.rst:434
 msgid "Thoughtrender Lamia"
 msgstr ""
 
 # e35b5c8367024ff0b88e3610347ca691
-#: ../../JOU.rst:688
+#: ../../JOU.rst:433
 msgid ""
 "Constellation — Whenever Thoughtrender Lamia or another enchantment enters "
 "the battlefield under your control, each opponent discards a card."
@@ -1309,28 +1309,28 @@ msgstr ""
 "walki pod twoim władaniem, każdy przeciwnik odrzuca kartę."
 
 # d88bfbd7b11347db81789bd15249482b
-#: ../../JOU.rst:698
+#: ../../JOU.rst:440
 msgid "Tormented Thoughts"
 msgstr ""
 
-#: ../../JOU.rst:695
+#: ../../JOU.rst:437
 msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 # 76080ef96aeb49a2a8770e81a51c4507
-#: ../../JOU.rst:697
+#: ../../JOU.rst:439
 msgid ""
 "Target player discards a number of cards equal to the sacrificed creature's "
 "power."
 msgstr ""
 
 # 81b1eb76d5614a898295cfea5659f614
-#: ../../JOU.rst:705
+#: ../../JOU.rst:444
 msgid "Worst Fears"
 msgstr ""
 
 # db2669510c0946c6bba24f2a6117ac89
-#: ../../JOU.rst:704
+#: ../../JOU.rst:443
 msgid ""
 "You control target player during that player's next turn. Exile Worst Fears. "
 "(You see all cards that player could see and make all decisions for the "
@@ -1338,12 +1338,12 @@ msgid ""
 msgstr ""
 
 # db1c1eac6e874566911a0a65e14024ba
-#: ../../JOU.rst:712
+#: ../../JOU.rst:448
 msgid "Akroan Line Breaker"
 msgstr ""
 
 # 591c4e0b3e4744148b263fba0c7b8a28
-#: ../../JOU.rst:711
+#: ../../JOU.rst:447
 #, fuzzy
 msgid ""
 "Heroic — Whenever you cast a spell that targets Akroan Line Breaker, Akroan "
@@ -1355,12 +1355,12 @@ msgstr ""
 "Breaker dostaje do końca tury +2/+0 oraz Zastraszanie."
 
 # e56263a56bba4b10846d32b8f2cad2d0
-#: ../../JOU.rst:719
+#: ../../JOU.rst:452
 msgid "Bearer of the Heavens"
 msgstr ""
 
 # 79b794033d6e4cc9a882be40159ad014
-#: ../../JOU.rst:718
+#: ../../JOU.rst:451
 msgid ""
 "When Bearer of the Heavens dies, destroy all permanents at the beginning of "
 "the next end step."
@@ -1369,12 +1369,12 @@ msgstr ""
 "najbliższego kroku końcowego."
 
 # 1cb5cc614db041309910089ca01fd493
-#: ../../JOU.rst:726
+#: ../../JOU.rst:456
 msgid "Bladetusk Boar"
 msgstr ""
 
 # 366a636d67a14a509193ee0af9b0c182
-#: ../../JOU.rst:725
+#: ../../JOU.rst:455
 msgid ""
 "Intimidate (This creature can't be blocked except by artifact creatures and/"
 "or creatures that share a color with it.)"
@@ -1383,12 +1383,12 @@ msgstr ""
 "oraz te, z którymi współdzieli kolor.)"
 
 # 15e2ff5093ee4c47bfaa30af7016961e
-#: ../../JOU.rst:735
+#: ../../JOU.rst:462
 msgid "Blinding Flare"
 msgstr ""
 
 # 5248d4eb20c84258912494e8526bd03b
-#: ../../JOU.rst:732
+#: ../../JOU.rst:459
 #, fuzzy
 msgid ""
 "Strive — This spell costs |mana_r| more to cast for each target beyond the "
@@ -1398,39 +1398,39 @@ msgstr ""
 "dodatkowy cel poza pierwszym."
 
 # d88746e21ee749b8a494f1f273429a1e
-#: ../../JOU.rst:734
+#: ../../JOU.rst:461
 msgid "Any number of target creatures can't block this turn."
 msgstr "Dowolna liczba wskazanych stworów nie może blokować w tej turze."
 
 # f2fb50d7c8074d15801ae6129d89a7d3
-#: ../../JOU.rst:742
+#: ../../JOU.rst:466
 msgid "Cyclops of Eternal Fury"
 msgstr ""
 
 # b5cefaaf51834337bb0680d3852e7a06
-#: ../../JOU.rst:741
+#: ../../JOU.rst:465
 msgid "Creatures you control have haste."
 msgstr "Stwory, którymi władasz mają Pośpiech."
 
 # a710785d2f244eb995365a8ac957db9e
-#: ../../JOU.rst:751
+#: ../../JOU.rst:472
 msgid "Dictate of the Twin Gods"
 msgstr "Dictate of the Twin Gods (Dyktat bliźniaczych bogów)"
 
 # c2066f23230b46b68f00451755fe324d
-#: ../../JOU.rst:750
+#: ../../JOU.rst:471
 msgid ""
 "If a source would deal damage to a permanent or player, it deals double that "
 "damage to that permanent or player instead."
 msgstr ""
 
 # 5cd5fedc1500411f9d224ff9bc3157d7
-#: ../../JOU.rst:758
+#: ../../JOU.rst:476
 msgid "Eidolon of the Great Revel"
 msgstr ""
 
 # 71ad9532b7ef4026b9c396e2c91688ce
-#: ../../JOU.rst:757
+#: ../../JOU.rst:475
 msgid ""
 "Whenever a player casts a spell with converted mana cost 3 or less, Eidolon "
 "of the Great Revel deals 2 damage to that player."
@@ -1439,12 +1439,12 @@ msgstr ""
 "the Great Revel zadaje owemu graczowi 2 obrażenia."
 
 # 8044a5f11a74423896f42632b3f44886
-#: ../../JOU.rst:769
+#: ../../JOU.rst:484
 msgid "Flamespeaker's Will"
 msgstr ""
 
 # 620f058bd4f94e52a8c63dae6bfc65b9
-#: ../../JOU.rst:768
+#: ../../JOU.rst:483
 msgid ""
 "Whenever enchanted creature deals combat damage to a player, you may "
 "sacrifice Flamespeaker's Will. If you do, destroy target artifact."
@@ -1453,34 +1453,34 @@ msgstr ""
 "Flamespeaker's Will. Jeśli tak zrobisz, zniszcz wskazany artefakt."
 
 # 564d149d7b524bc3a08885a5458ebd03
-#: ../../JOU.rst:776
+#: ../../JOU.rst:488
 msgid "Flurry of Horns"
 msgstr ""
 
 # 41029c68314f43089b9dd1b4d7f5beab
-#: ../../JOU.rst:775
+#: ../../JOU.rst:487
 #, fuzzy
 msgid "Create two 2/3 red Minotaur creature tokens with haste."
 msgstr "Połóż na polu walki dwa żetony czerwonego stwora Minotaur 2/2."
 
 # 2910415548a64119b8816f640b30d003
-#: ../../JOU.rst:783
+#: ../../JOU.rst:492
 msgid "Font of Ire"
 msgstr ""
 
-#: ../../JOU.rst:782
+#: ../../JOU.rst:491
 msgid ""
 "|mana_3| |mana_r|, Sacrifice Font of Ire: It deals 5 damage to target player "
 "or planeswalker."
 msgstr ""
 
 # 93aab2ab4cd14bbe9dc274cbc015fe7e
-#: ../../JOU.rst:790
+#: ../../JOU.rst:496
 msgid "Forgeborn Oreads"
 msgstr ""
 
 # f7aea86f1c6c4ea8afbee2c048d2f48b
-#: ../../JOU.rst:789
+#: ../../JOU.rst:495
 #, fuzzy
 msgid ""
 "Constellation — Whenever Forgeborn Oreads or another enchantment enters the "
@@ -1492,24 +1492,24 @@ msgstr ""
 "lub graczowi."
 
 # 7abc5b8258af48479cf7daca4dafc258
-#: ../../JOU.rst:797
+#: ../../JOU.rst:500
 msgid "Gluttonous Cyclops"
 msgstr ""
 
 # 38323db59c3b465c932e1729310f4fa5
-#: ../../JOU.rst:796
+#: ../../JOU.rst:499
 msgid ""
 "|mana_5| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
 # 8f7d8709ce1345099b3074d179e74f45
-#: ../../JOU.rst:806
+#: ../../JOU.rst:506
 msgid "Harness by Force"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
-#: ../../JOU.rst:803 ../../JOU.rst:878 ../../JOU.rst:924
+#: ../../JOU.rst:503 ../../JOU.rst:551 ../../JOU.rst:579
 #, fuzzy
 msgid ""
 "Strive — This spell costs |mana_2| |mana_r| more to cast for each target "
@@ -1519,58 +1519,58 @@ msgstr ""
 "dodatkowy cel poza pierwszym."
 
 # ed4a5539bf974b0386cfffae9de75b2a
-#: ../../JOU.rst:805
+#: ../../JOU.rst:505
 msgid ""
 "Gain control of any number of target creatures until end of turn. Untap "
 "those creatures. They gain haste until end of turn."
 msgstr ""
 
 # cd03ef5f560b4036af3d17d7fb947592
-#: ../../JOU.rst:813
+#: ../../JOU.rst:510
 msgid "Knowledge and Power"
 msgstr "Knowledge and Power (Wiedza i potęga)"
 
-#: ../../JOU.rst:812
+#: ../../JOU.rst:509
 msgid ""
 "Whenever you scry, you may pay |mana_2|. If you do, Knowledge and Power "
 "deals 2 damage to any target."
 msgstr ""
 
 # 07f9658977644f77af43fb87c56058da
-#: ../../JOU.rst:824
+#: ../../JOU.rst:518
 msgid "Lightning Diadem"
 msgstr ""
 
-#: ../../JOU.rst:821
+#: ../../JOU.rst:515
 msgid ""
 "When Lightning Diadem enters the battlefield, it deals 2 damage to any "
 "target."
 msgstr ""
 
 # 2aacdc202217492eac3ecaabad9a1b38
-#: ../../JOU.rst:823
+#: ../../JOU.rst:517
 msgid "Enchanted creature gets +2/+2."
 msgstr "Zauroczony stwór dostaje +2/+2."
 
 # c28ed092b9a74976afce7b091b258cf4
-#: ../../JOU.rst:831
+#: ../../JOU.rst:522
 msgid "Magma Spray"
 msgstr ""
 
 # 9df7f2cd1f9b4c29a05f96cd03cbeedc
-#: ../../JOU.rst:830
+#: ../../JOU.rst:521
 msgid ""
 "Magma Spray deals 2 damage to target creature. If that creature would die "
 "this turn, exile it instead."
 msgstr ""
 
 # 42a06d339836448bac228a63198a914e
-#: ../../JOU.rst:842
+#: ../../JOU.rst:530
 msgid "Mogis's Warhound"
 msgstr ""
 
 # 3b4bcd34f36f41df966e762ac309be6c
-#: ../../JOU.rst:837
+#: ../../JOU.rst:525
 msgid ""
 "Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an "
 "Aura spell with enchant creature. It becomes a creature again if it's not "
@@ -1578,45 +1578,45 @@ msgid ""
 msgstr ""
 
 # 10521a8446b8415798456c81dd53aa0e
-#: ../../JOU.rst:839
+#: ../../JOU.rst:527
 #, fuzzy
 msgid "Mogis's Warhound attacks each combat if able."
 msgstr "Mogis's Warhound atakuje w każdej turze jeśli może."
 
 # 020974223e9a443d8ff8eea806d229da
-#: ../../JOU.rst:841
+#: ../../JOU.rst:529
 #, fuzzy
 msgid "Enchanted creature gets +2/+2 and attacks each combat if able."
 msgstr "Zauroczony stwór dostaje +2/+2 i atakuje w każdej turze jeśli może."
 
 # b75f14ae3c9d4894bf0ef099a9823a4b
-#: ../../JOU.rst:847
+#: ../../JOU.rst:532
 msgid "Pensive Minotaur"
 msgstr ""
 
 # 8b35f165afb94266a9f329683a9e581f
-#: ../../JOU.rst:858
+#: ../../JOU.rst:540
 msgid "Prophetic Flamespeaker"
 msgstr ""
 
 # dab2c39d17774e7985108baea521b97f
-#: ../../JOU.rst:855
+#: ../../JOU.rst:537
 msgid "Double strike, trample"
 msgstr "Podwójny cios, tratowanie"
 
 # 3fea589e8e7c462eb7bffbcb592f1fd4
-#: ../../JOU.rst:857
+#: ../../JOU.rst:539
 msgid ""
 "Whenever Prophetic Flamespeaker deals combat damage to a player, exile the "
 "top card of your library. You may play it this turn."
 msgstr ""
 
 # b0e23258b4734d29bede8db37390b7ea
-#: ../../JOU.rst:865
+#: ../../JOU.rst:544
 msgid "Riddle of Lightning"
 msgstr ""
 
-#: ../../JOU.rst:864
+#: ../../JOU.rst:543
 msgid ""
 "Choose any target. Scry 3, then reveal the top card of your library. Riddle "
 "of Lightning deals damage equal to that card's converted mana cost to that "
@@ -1626,69 +1626,69 @@ msgid ""
 msgstr ""
 
 # 917b984e704c4ed396b893018ddc1859
-#: ../../JOU.rst:872
+#: ../../JOU.rst:548
 msgid "Rollick of Abandon"
 msgstr ""
 
 # 631a1707fad24b6fa445d7d7c9c41511
-#: ../../JOU.rst:871
+#: ../../JOU.rst:547
 msgid "All creatures get +2/-2 until end of turn."
 msgstr ""
 
 # e733fe61a9114dc380426e2009975b39
-#: ../../JOU.rst:881
+#: ../../JOU.rst:554
 msgid "Rouse the Mob"
 msgstr ""
 
 # 0fc09889a2324b139b8a0818e754e2a0
-#: ../../JOU.rst:880
+#: ../../JOU.rst:553
 msgid ""
 "Any number of target creatures each get +2/+0 and gain trample until end of "
 "turn."
 msgstr ""
 
 # ea1bf3a686c8494bba3bc975ef7f6fa2
-#: ../../JOU.rst:888
+#: ../../JOU.rst:558
 msgid "Satyr Hoplite"
 msgstr ""
 
 # 763366c6f1c74071b3fe74ac5151002e
-#: ../../JOU.rst:887
+#: ../../JOU.rst:557
 msgid ""
 "Heroic — Whenever you cast a spell that targets Satyr Hoplite, put a +1/+1 "
 "counter on Satyr Hoplite."
 msgstr ""
 
 # 0f3fec21118c419f901fcba7090ee665
-#: ../../JOU.rst:895
+#: ../../JOU.rst:562
 msgid "Sigiled Skink"
 msgstr ""
 
 # 0120ba3a8c7b4d4899a1b6cb4262a5c8
-#: ../../JOU.rst:894
+#: ../../JOU.rst:561
 msgid ""
 "Whenever Sigiled Skink attacks, scry 1. (Look at the top card of your "
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
 
 # 37ce24c725684d1bbe7bec0dce3430b5
-#: ../../JOU.rst:904
+#: ../../JOU.rst:568
 msgid "Spawn of Thraxes"
 msgstr ""
 
-#: ../../JOU.rst:903
+#: ../../JOU.rst:567
 msgid ""
 "When Spawn of Thraxes enters the battlefield, it deals damage to any target "
 "equal to the number of Mountains you control."
 msgstr ""
 
 # b3a03d42f7c0449eb43f5219a6d18a82
-#: ../../JOU.rst:911
+#: ../../JOU.rst:572
 msgid "Spite of Mogis"
 msgstr ""
 
 # 2066ab3bd8c040ba9bfef6faacd6917e
-#: ../../JOU.rst:910
+#: ../../JOU.rst:571
 msgid ""
 "Spite of Mogis deals damage to target creature equal to the number of "
 "instant and sorcery cards in your graveyard. Scry 1. (Look at the top card "
@@ -1696,23 +1696,23 @@ msgid ""
 msgstr ""
 
 # e1933aaf05374a4ea3737e10f7360433
-#: ../../JOU.rst:918
+#: ../../JOU.rst:576
 msgid "Starfall"
 msgstr ""
 
 # dad760d3c09d4a13bf3a508f7a73142a
-#: ../../JOU.rst:917
+#: ../../JOU.rst:575
 msgid ""
 "Starfall deals 3 damage to target creature. If that creature is an "
 "enchantment, Starfall deals 3 damage to that creature's controller."
 msgstr ""
 
 # da68261cdc0840e29efecfff8ba1e3cf
-#: ../../JOU.rst:927
+#: ../../JOU.rst:582
 msgid "Twinflame"
 msgstr ""
 
-#: ../../JOU.rst:926
+#: ../../JOU.rst:581
 msgid ""
 "Choose any number of target creatures you control. For each of them, create "
 "a token that's a copy of that creature, except it has haste. Exile those "
@@ -1720,41 +1720,41 @@ msgid ""
 msgstr ""
 
 # 684632948894449d8f7a77c0463904ae
-#: ../../JOU.rst:936
+#: ../../JOU.rst:588
 msgid "Wildfire Cerberus"
 msgstr ""
 
 # 50de9de59013458cac123b6708d60bc0
-#: ../../JOU.rst:933
+#: ../../JOU.rst:585
 msgid ""
 "|mana_5| |mana_r| |mana_r|: Monstrosity 1. (If this creature isn't "
 "monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
 msgstr ""
 
 # a3fed74beeca4cde869c31f94247fa5e
-#: ../../JOU.rst:935
+#: ../../JOU.rst:587
 msgid ""
 "When Wildfire Cerberus becomes monstrous, it deals 2 damage to each opponent "
 "and each creature your opponents control."
 msgstr ""
 
 # e92279e9bd1d4ecc8786dc64168ad579
-#: ../../JOU.rst:943
+#: ../../JOU.rst:592
 msgid "Bassara Tower Archer"
 msgstr ""
 
 # 009b77dc16ad4c2b99f26a05867da8c8
-#: ../../JOU.rst:942
+#: ../../JOU.rst:591
 msgid "Hexproof, reach"
 msgstr "Antyklątwa, zasięg"
 
 # aea74d3068b44472a5e78ed8a6778ca2
-#: ../../JOU.rst:952
+#: ../../JOU.rst:598
 msgid "Colossal Heroics"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
-#: ../../JOU.rst:949 ../../JOU.rst:1134
+#: ../../JOU.rst:595 ../../JOU.rst:711
 #, fuzzy
 msgid ""
 "Strive — This spell costs |mana_1| |mana_g| more to cast for each target "
@@ -1764,7 +1764,7 @@ msgstr ""
 "dodatkowy cel poza pierwszym."
 
 # 625d9629300042279b2ca1e47d2cdcc6
-#: ../../JOU.rst:951
+#: ../../JOU.rst:597
 msgid ""
 "Any number of target creatures each get +2/+2 until end of turn. Untap those "
 "creatures."
@@ -1773,12 +1773,12 @@ msgstr ""
 "Odznacz owe stwory."
 
 # c3a6dd0357cb40cea70048e8d3731965
-#: ../../JOU.rst:961
+#: ../../JOU.rst:604
 msgid "Consign to Dust"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
-#: ../../JOU.rst:958 ../../JOU.rst:1052
+#: ../../JOU.rst:601 ../../JOU.rst:659
 #, fuzzy
 msgid ""
 "Strive — This spell costs |mana_2| |mana_g| more to cast for each target "
@@ -1788,27 +1788,27 @@ msgstr ""
 "dodatkowy cel poza pierwszym."
 
 # bebc0b3defd64a849ed4c233d84b77fb
-#: ../../JOU.rst:960
+#: ../../JOU.rst:603
 msgid "Destroy any number of target artifacts and/or enchantments."
 msgstr "Zniszcz dowolną liczbę wskazanych artefaktów i/lub uroków."
 
 # 827f2d7f8d0a4f5b980c4a425d86977d
-#: ../../JOU.rst:968
+#: ../../JOU.rst:608
 msgid "Desecration Plague"
 msgstr ""
 
 # 65bc8f41f2d4436fa5f12eda4cb191e0
-#: ../../JOU.rst:967
+#: ../../JOU.rst:607
 msgid "Destroy target enchantment or land."
 msgstr "Zniszcz wskazany urok lub ląd."
 
 # 9cf63cb453134e618829b0cff90fab11
-#: ../../JOU.rst:977
+#: ../../JOU.rst:614
 msgid "Dictate of Karametra"
 msgstr ""
 
 # 4d8279c5b0654369b9eeb5b9c6eed474
-#: ../../JOU.rst:976
+#: ../../JOU.rst:613
 #, fuzzy
 msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
@@ -1818,12 +1818,12 @@ msgstr ""
 "jedną manę w dowolnym kolorze wytworzonym przez ów ląd."
 
 # 670708a7f3d34cb39e9dae38d6944b1f
-#: ../../JOU.rst:984
+#: ../../JOU.rst:618
 msgid "Eidolon of Blossoms"
 msgstr ""
 
 # 4f82d3a5952642899f0e6b75506beb22
-#: ../../JOU.rst:983
+#: ../../JOU.rst:617
 msgid ""
 "Constellation — Whenever Eidolon of Blossoms or another enchantment enters "
 "the battlefield under your control, draw a card."
@@ -1832,12 +1832,12 @@ msgstr ""
 "walki pod twoim władaniem, dobierz kartę."
 
 # 6c3a3b022ced40c7bc7b24abb1d665f8
-#: ../../JOU.rst:991
+#: ../../JOU.rst:622
 msgid "Font of Fertility"
 msgstr ""
 
 # 5bbc01ff7daa4a29be4b1359c4dafd21
-#: ../../JOU.rst:990
+#: ../../JOU.rst:621
 msgid ""
 "|mana_1| |mana_g|, Sacrifice Font of Fertility: Search your library for a "
 "basic land card, put it onto the battlefield tapped, then shuffle your "
@@ -1845,23 +1845,23 @@ msgid ""
 msgstr ""
 
 # 50df15fbe6424fea8449c5987bf765b8
-#: ../../JOU.rst:998
+#: ../../JOU.rst:626
 msgid "Golden Hind"
 msgstr ""
 
 # 3316b2f43b754b7d84e2ab467e2e2325
-#: ../../JOU.rst:997
+#: ../../JOU.rst:625
 #, fuzzy
 msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Dodaj |mana_g| do twojej puli many."
 
 # 58b73ee173ee46ddb173beccd476561a
-#: ../../JOU.rst:1005
+#: ../../JOU.rst:630
 msgid "Goldenhide Ox"
 msgstr ""
 
 # 7d22788330cf4d50a0241e892d35d251
-#: ../../JOU.rst:1004
+#: ../../JOU.rst:629
 msgid ""
 "Constellation — Whenever Goldenhide Ox or another enchantment enters the "
 "battlefield under your control, target creature must be blocked this turn if "
@@ -1872,17 +1872,17 @@ msgstr ""
 "możliwe."
 
 # 5b9392e46b994d5a93cef0a6d6957a55
-#: ../../JOU.rst:1014
+#: ../../JOU.rst:636
 msgid "Heroes' Bane"
 msgstr ""
 
 # cdfb7b828b5d424bbb09d28b6098f283
-#: ../../JOU.rst:1011
+#: ../../JOU.rst:633
 msgid "Heroes' Bane enters the battlefield with four +1/+1 counters on it."
 msgstr "Heroes' Bane wchodzi na pole walki z czterema znacznikami +1/+1."
 
 # a81dbc7c1d154dc99f71b268ef4dc2b9
-#: ../../JOU.rst:1013
+#: ../../JOU.rst:635
 msgid ""
 "|mana_2| |mana_g| |mana_g|: Put X +1/+1 counters on Heroes' Bane, where X is "
 "its power."
@@ -1891,12 +1891,12 @@ msgstr ""
 "X to jego siła."
 
 # e56cd0f9a5d745ef995220c2d6f61b39
-#: ../../JOU.rst:1021
+#: ../../JOU.rst:640
 msgid "Humbler of Mortals"
 msgstr ""
 
 # 23d22d33b0bb44bf9a36fc18e287660e
-#: ../../JOU.rst:1020
+#: ../../JOU.rst:639
 msgid ""
 "Constellation — Whenever Humbler of Mortals or another enchantment enters "
 "the battlefield under your control, creatures you control gain trample until "
@@ -1907,19 +1907,19 @@ msgstr ""
 "tury."
 
 # e7d35a576f18481bb9df470016d1072b
-#: ../../JOU.rst:1030
+#: ../../JOU.rst:646
 msgid "Hydra Broodmaster"
 msgstr ""
 
 # 009259ac9c834d2199284a619abe4bd7
-#: ../../JOU.rst:1027
+#: ../../JOU.rst:643
 msgid ""
 "|mana_x| |mana_x| |mana_g|: Monstrosity X. (If this creature isn't "
 "monstrous, put X +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
 # 60fe2053983c408e9e2009b283ab5829
-#: ../../JOU.rst:1029
+#: ../../JOU.rst:645
 #, fuzzy
 msgid ""
 "When Hydra Broodmaster becomes monstrous, create X X/X green Hydra creature "
@@ -1929,12 +1929,12 @@ msgstr ""
 "zielonych żetonów stwora Hydra X/X."
 
 # d53d779a6edf469b90785e1c8fe3ead4
-#: ../../JOU.rst:1037
+#: ../../JOU.rst:650
 msgid "Kruphix's Insight"
 msgstr ""
 
 # 9f99595c75694b7c83e3bbeffe02c9c2
-#: ../../JOU.rst:1036
+#: ../../JOU.rst:649
 msgid ""
 "Reveal the top six cards of your library. Put up to three enchantment cards "
 "from among them into your hand and the rest of the revealed cards into your "
@@ -1945,39 +1945,39 @@ msgstr ""
 "cmentarza."
 
 # d1d5c461b8d2470296100f81e9a62c1d
-#: ../../JOU.rst:1046
+#: ../../JOU.rst:656
 msgid "Market Festival"
 msgstr ""
 
 # 40516298411d45299a85c99702af2592
-#: ../../JOU.rst:1043
+#: ../../JOU.rst:653
 msgid "Enchant land"
 msgstr "Zaurocz ląd"
 
-#: ../../JOU.rst:1045
+#: ../../JOU.rst:655
 msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional two mana in any combination of colors."
 msgstr ""
 
 # 39b88b99b0624da08d3f1f87d939fd5d
-#: ../../JOU.rst:1055
+#: ../../JOU.rst:662
 msgid "Nature's Panoply"
 msgstr ""
 
 # 0ae435397c3b454c9eeecd4b6702c4d3
-#: ../../JOU.rst:1054
+#: ../../JOU.rst:661
 msgid ""
 "Choose any number of target creatures. Put a +1/+1 counter on each of them."
 msgstr "Wskaż dowolną liczbę stworów. Połóż znacznik +1/+1 na każdej z nich."
 
 # 78c63c8e5ce3485390004bcf6dfc98b8
-#: ../../JOU.rst:1062
+#: ../../JOU.rst:666
 msgid "Nessian Game Warden"
 msgstr ""
 
 # 6937ef560954439fb3405690e3eb597e
-#: ../../JOU.rst:1061
+#: ../../JOU.rst:665
 msgid ""
 "When Nessian Game Warden enters the battlefield, look at the top X cards of "
 "your library, where X is the number of Forests you control. You may reveal a "
@@ -1986,12 +1986,12 @@ msgid ""
 msgstr ""
 
 # a22127caa7ae44d79fb9d3982862cb9f
-#: ../../JOU.rst:1069
+#: ../../JOU.rst:670
 msgid "Oakheart Dryads"
 msgstr ""
 
 # 4aaaac969a2a4230bd71fdeba6eeb116
-#: ../../JOU.rst:1068
+#: ../../JOU.rst:669
 msgid ""
 "Constellation — Whenever Oakheart Dryads or another enchantment enters the "
 "battlefield under your control, target creature gets +1/+1 until end of turn."
@@ -2000,100 +2000,100 @@ msgstr ""
 "pod twoim władaniem, wskazany stwór dostaje +1/+1 do końca tury."
 
 # 27fcb7c55c514fbb892710889085808c
-#: ../../JOU.rst:1076
+#: ../../JOU.rst:674
 msgid "Pheres-Band Thunderhoof"
 msgstr ""
 
 # a8a62e98bc874e52bfd79bfea19afcfb
-#: ../../JOU.rst:1075
+#: ../../JOU.rst:673
 msgid ""
 "Heroic — Whenever you cast a spell that targets Pheres-Band Thunderhoof, put "
 "two +1/+1 counters on Pheres-Band Thunderhoof."
 msgstr ""
 
 # a205a32599eb41fd8489c2b3c1304d41
-#: ../../JOU.rst:1085
+#: ../../JOU.rst:680
 msgid "Pheres-Band Warchief"
 msgstr ""
 
 # e459ede07dc744c58f66378924c5ac3d
-#: ../../JOU.rst:1082
+#: ../../JOU.rst:677
 msgid "Vigilance, trample"
 msgstr ""
 
 # 89e9a544891f4b748885c68ce8c9cbec
-#: ../../JOU.rst:1084
+#: ../../JOU.rst:679
 msgid ""
 "Other Centaur creatures you control get +1/+1 and have vigilance and trample."
 msgstr ""
 
 # dee90382274543639b1ce95c5f047757
-#: ../../JOU.rst:1094
+#: ../../JOU.rst:686
 msgid "Ravenous Leucrocota"
 msgstr ""
 
 # e672e4a3bdca47418cc10e88002cebab
-#: ../../JOU.rst:1091
+#: ../../JOU.rst:683
 msgid "Vigilance"
 msgstr "Czujność"
 
 # 1296a5cc4b59472bbb4d7edde18822d3
-#: ../../JOU.rst:1093
+#: ../../JOU.rst:685
 msgid ""
 "|mana_6| |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put "
 "three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
 # c135f965ec0846909a84748e99e552c5
-#: ../../JOU.rst:1101
+#: ../../JOU.rst:690
 msgid "Renowned Weaver"
 msgstr ""
 
-#: ../../JOU.rst:1100
+#: ../../JOU.rst:689
 msgid ""
 "|mana_1| |mana_g|, Sacrifice Renowned Weaver: Create a 1/3 green Spider "
 "enchantment creature token with reach. (It can block creatures with flying.)"
 msgstr ""
 
 # a983cad2ceaa49dc8c70921b601537cc
-#: ../../JOU.rst:1112
+#: ../../JOU.rst:698
 msgid "Reviving Melody"
 msgstr ""
 
 # f72b96b05d7f4142aa036d06ce55b493
-#: ../../JOU.rst:1107
+#: ../../JOU.rst:693
 msgid "Choose one or both —"
 msgstr "Wybierz jedno lub oba —"
 
 # 51a4532c38494d3db7167f53c40a87b5
-#: ../../JOU.rst:1109
+#: ../../JOU.rst:695
 msgid "Return target creature card from your graveyard to your hand."
 msgstr ""
 
 # 34e2881d1ce843279f554fbfb2843e8e
-#: ../../JOU.rst:1111
+#: ../../JOU.rst:697
 msgid "Return target enchantment card from your graveyard to your hand."
 msgstr ""
 
 # d9f4b1d4248f4becb3b87f52fac47f1e
-#: ../../JOU.rst:1119
+#: ../../JOU.rst:702
 msgid "Satyr Grovedancer"
 msgstr ""
 
 # bb61994d30fc4802b73736e780a3dca6
-#: ../../JOU.rst:1118
+#: ../../JOU.rst:701
 msgid ""
 "When Satyr Grovedancer enters the battlefield, put a +1/+1 counter on target "
 "creature."
 msgstr ""
 
 # fad825c20584467ea9873ce6852d26ca
-#: ../../JOU.rst:1128
+#: ../../JOU.rst:708
 msgid "Setessan Tactics"
 msgstr ""
 
 # e24620f9b8b24c95a0fc33d7a543a98c
-#: ../../JOU.rst:1125
+#: ../../JOU.rst:705
 #, fuzzy
 msgid ""
 "Strive — This spell costs |mana_g| more to cast for each target beyond the "
@@ -2103,7 +2103,7 @@ msgstr ""
 "dodatkowy cel poza pierwszym."
 
 # aaaeebffb36b4fbd88ba265b4d4214c5
-#: ../../JOU.rst:1127
+#: ../../JOU.rst:707
 #, fuzzy
 msgid ""
 "Until end of turn, any number of target creatures each get +1/+1 and gain \"|"
@@ -2113,47 +2113,47 @@ msgstr ""
 "tury."
 
 # 3334a8d9e464455cb7d90ff9ab54404e
-#: ../../JOU.rst:1137
+#: ../../JOU.rst:714
 msgid "Solidarity of Heroes"
 msgstr ""
 
 # 40031731496b44cb81a9c5cc81eaff09
-#: ../../JOU.rst:1136
+#: ../../JOU.rst:713
 msgid ""
 "Choose any number of target creatures. Double the number of +1/+1 counters "
 "on each of them."
 msgstr ""
 
 # 91d804baa0b743639994e848d0a83a84
-#: ../../JOU.rst:1148
+#: ../../JOU.rst:722
 msgid "Spirespine"
 msgstr ""
 
 # 19153ea3c26e40f4a2af78c789fef2d0
-#: ../../JOU.rst:1143
+#: ../../JOU.rst:717
 msgid ""
 "Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an "
 "Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 
-#: ../../JOU.rst:1145
+#: ../../JOU.rst:719
 msgid "Spirespine blocks each combat if able."
 msgstr ""
 
 # 020974223e9a443d8ff8eea806d229da
-#: ../../JOU.rst:1147
+#: ../../JOU.rst:721
 #, fuzzy
 msgid "Enchanted creature gets +4/+1 and blocks each combat if able."
 msgstr "Zauroczony stwór dostaje +2/+2 i atakuje w każdej turze jeśli może."
 
 # e11a34e70ea2404d8956afbe5797274f
-#: ../../JOU.rst:1155
+#: ../../JOU.rst:726
 msgid "Strength from the Fallen"
 msgstr ""
 
 # 8366b12d97614105936d6ba92a958055
-#: ../../JOU.rst:1154
+#: ../../JOU.rst:725
 msgid ""
 "Constellation — Whenever Strength from the Fallen or another enchantment "
 "enters the battlefield under your control, target creature gets +X/+X until "
@@ -2164,34 +2164,34 @@ msgstr ""
 "X jest liczbą kart stworów w twoim cmentarzu."
 
 # a0a9744bdb744ef8861a2f54c850d1a9
-#: ../../JOU.rst:1166
+#: ../../JOU.rst:734
 msgid "Swarmborn Giant"
 msgstr ""
 
 # 4a1190c7906742aca475fb25c2348552
-#: ../../JOU.rst:1161
+#: ../../JOU.rst:729
 msgid "When you're dealt combat damage, sacrifice Swarmborn Giant."
 msgstr ""
 
 # 052bcaf220664617bcbe1abacb27065b
-#: ../../JOU.rst:1163
+#: ../../JOU.rst:731
 msgid ""
 "|mana_4| |mana_g| |mana_g|: Monstrosity 2. (If this creature isn't "
 "monstrous, put two +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
 # f4f6bebd27494c769628ed5c56a6f250
-#: ../../JOU.rst:1165
+#: ../../JOU.rst:733
 msgid "As long as Swarmborn Giant is monstrous, it has reach."
 msgstr ""
 
 # 43c8efce38634c1cb1d62d94858567ca
-#: ../../JOU.rst:1177
+#: ../../JOU.rst:742
 msgid "Ajani, Mentor of Heroes"
 msgstr "Ajani, Mentor of Heroes (Ajani, Mentor Bohaterów)"
 
 # 0db4ee74281143ce93e85e7f53ad108b
-#: ../../JOU.rst:1172
+#: ../../JOU.rst:737
 msgid ""
 "+1: Distribute three +1/+1 counters among one, two, or three target "
 "creatures you control."
@@ -2200,7 +2200,7 @@ msgstr ""
 "stwory, którymi władasz."
 
 # 251795975dc545ee8e86314c51c4a45e
-#: ../../JOU.rst:1174
+#: ../../JOU.rst:739
 msgid ""
 "+1: Look at the top four cards of your library. You may reveal an Aura, "
 "creature, or planeswalker card from among them and put it into your hand. "
@@ -2211,12 +2211,12 @@ msgstr ""
 "Włóż pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 # add281b4c032477d83f5c52c32b7ae59
-#: ../../JOU.rst:1176
+#: ../../JOU.rst:741
 msgid "−8: You gain 100 life."
 msgstr "−8: Zyskujesz 100 punktów życia."
 
 # 8b58e5c75ef74aa9a4dcfa6206a05129
-#: ../../JOU.rst:1188
+#: ../../JOU.rst:750
 msgid "Athreos, God of Passage"
 msgstr ""
 
@@ -2225,13 +2225,13 @@ msgstr ""
 # 3d0b49b9cdf145099f2934a50f1c9326
 # adfa4ab30a14482b9ac467cca4ca69b7
 # 825706da6f7e4bf2ae23f255a5f7b1d6
-#: ../../JOU.rst:1183 ../../JOU.rst:1221 ../../JOU.rst:1234 ../../JOU.rst:1245
-#: ../../JOU.rst:1269
+#: ../../JOU.rst:745 ../../JOU.rst:771 ../../JOU.rst:781 ../../JOU.rst:789
+#: ../../JOU.rst:807
 msgid "Indestructible"
 msgstr "Niezniszczalność"
 
 # 537f41c2040a411f9c6f4548a6692bc1
-#: ../../JOU.rst:1185
+#: ../../JOU.rst:747
 msgid ""
 "As long as your devotion to white and black is less than seven, Athreos "
 "isn't a creature."
@@ -2240,7 +2240,7 @@ msgstr ""
 "jest stworem."
 
 # eb5c5f1d27814dfcba994ca9b1734a1b
-#: ../../JOU.rst:1187
+#: ../../JOU.rst:749
 msgid ""
 "Whenever another creature you own dies, return it to your hand unless target "
 "opponent pays 3 life."
@@ -2249,12 +2249,12 @@ msgstr ""
 "ręki, chyba że wskazany przeciwnik zapłaci 3 życia."
 
 # dc19288eac5047ab865d90b1f068a526
-#: ../../JOU.rst:1197
+#: ../../JOU.rst:756
 msgid "Desperate Stand"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
-#: ../../JOU.rst:1194
+#: ../../JOU.rst:753
 #, fuzzy
 msgid ""
 "Strive — This spell costs |mana_r| |mana_w| more to cast for each target "
@@ -2264,19 +2264,19 @@ msgstr ""
 "dodatkowy cel poza pierwszym."
 
 # 097b2be3e3784063a3a9ee681f12c16a
-#: ../../JOU.rst:1196
+#: ../../JOU.rst:755
 msgid ""
 "Any number of target creatures each get +2/+0 and gain first strike and "
 "vigilance until end of turn."
 msgstr ""
 
 # 8657debb15394a399f250deb21393364
-#: ../../JOU.rst:1204
+#: ../../JOU.rst:760
 msgid "Disciple of Deceit"
 msgstr ""
 
 # 69e2ca158be04cb99e923c4767febf27
-#: ../../JOU.rst:1203
+#: ../../JOU.rst:759
 msgid ""
 "Inspired — Whenever Disciple of Deceit becomes untapped, you may discard a "
 "nonland card. If you do, search your library for a card with the same "
@@ -2285,59 +2285,59 @@ msgid ""
 msgstr ""
 
 # 51bd0a53a09147718cb89b57ab9d35c3
-#: ../../JOU.rst:1215
+#: ../../JOU.rst:768
 msgid "Fleetfeather Cockatrice"
 msgstr ""
 
 # 5da00e357e59432481eadadc9afb2d5b
-#: ../../JOU.rst:1212
+#: ../../JOU.rst:765
 msgid "Flying, deathtouch"
 msgstr "Latanie, dotyk śmierci"
 
 # b1bc32f55ec04deba5dfd5072b63ccd6
-#: ../../JOU.rst:1214
+#: ../../JOU.rst:767
 msgid ""
 "|mana_5| |mana_g| |mana_u|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
 # bed6007ebc61421d9c98742b2190c60d
-#: ../../JOU.rst:1228
+#: ../../JOU.rst:778
 msgid "Iroas, God of Victory"
 msgstr "Iroas, God of Victory (Iroas, bóg zwycięstwa)"
 
 # 65e20234644348ffb5c4ade15a56dd3e
-#: ../../JOU.rst:1223
+#: ../../JOU.rst:773
 msgid ""
 "As long as your devotion to red and white is less than seven, Iroas isn't a "
 "creature."
 msgstr ""
 
 # b5cefaaf51834337bb0680d3852e7a06
-#: ../../JOU.rst:1225
+#: ../../JOU.rst:775
 #, fuzzy
 msgid "Creatures you control have menace."
 msgstr "Stwory, którymi władasz mają Pośpiech."
 
 # 5b478533ffad44f9a45a16a713be6150
-#: ../../JOU.rst:1227
+#: ../../JOU.rst:777
 msgid ""
 "Prevent all damage that would be dealt to attacking creatures you control."
 msgstr ""
 
 # 7ecaf5d47b024cc5be9d6afd8eb15f8d
-#: ../../JOU.rst:1239
+#: ../../JOU.rst:786
 msgid "Keranos, God of Storms"
 msgstr "Keranos, God of Storms (Keranos, bóg burz)"
 
 # 3d2413ec7a7c4e46aa81c59b79359ec0
-#: ../../JOU.rst:1236
+#: ../../JOU.rst:783
 msgid ""
 "As long as your devotion to blue and red is less than seven, Keranos isn't a "
 "creature."
 msgstr ""
 
-#: ../../JOU.rst:1238
+#: ../../JOU.rst:785
 msgid ""
 "Reveal the first card you draw on each of your turns. Whenever you reveal a "
 "land card this way, draw a card. Whenever you reveal a nonland card this "
@@ -2345,24 +2345,24 @@ msgid ""
 msgstr ""
 
 # 76e1218b95274f7c8fe8feb286c1e5c3
-#: ../../JOU.rst:1252
+#: ../../JOU.rst:796
 msgid "Kruphix, God of Horizons"
 msgstr ""
 
 # 87912c91ec8f4de5a5317ec44bb4e6f9
-#: ../../JOU.rst:1247
+#: ../../JOU.rst:791
 msgid ""
 "As long as your devotion to green and blue is less than seven, Kruphix isn't "
 "a creature."
 msgstr ""
 
 # cc951d04268f43c985b64e73e62eaa1c
-#: ../../JOU.rst:1249
+#: ../../JOU.rst:793
 msgid "You have no maximum hand size."
 msgstr "Nie masz górnego limitu kart na ręce."
 
 # f766030c0a5f4125bd677be86df11574
-#: ../../JOU.rst:1251
+#: ../../JOU.rst:795
 #, fuzzy
 msgid "If you would lose unspent mana, that mana becomes colorless instead."
 msgstr ""
@@ -2370,17 +2370,17 @@ msgstr ""
 "tego owa mana staje się bezkolorowa."
 
 # b7c0fa07929f42b38dcca87d53f11620
-#: ../../JOU.rst:1263
+#: ../../JOU.rst:804
 msgid "Nyx Weaver"
 msgstr ""
 
 # ca8564f4528b4b40b819bb237c3ef14d
-#: ../../JOU.rst:1258
+#: ../../JOU.rst:799
 msgid "Reach"
 msgstr "Zasięg"
 
 # ce0a0216837e4fe8ad05fd3637229d00
-#: ../../JOU.rst:1260
+#: ../../JOU.rst:801
 msgid ""
 "At the beginning of your upkeep, put the top two cards of your library into "
 "your graveyard."
@@ -2389,25 +2389,25 @@ msgstr ""
 "do twojego cmentarza."
 
 # 01dd8c845475451fbe846b5473920d54
-#: ../../JOU.rst:1262
+#: ../../JOU.rst:803
 msgid ""
 "|mana_1| |mana_b| |mana_g|, Exile Nyx Weaver: Return target card from your "
 "graveyard to your hand."
 msgstr ""
 
 # 5e23f3cddaaa4a5ea48d5ba0cd29b927
-#: ../../JOU.rst:1274
+#: ../../JOU.rst:812
 msgid "Pharika, God of Affliction"
 msgstr ""
 
 # 75ace5696304445c8ccfc6ef63ecf3b1
-#: ../../JOU.rst:1271
+#: ../../JOU.rst:809
 msgid ""
 "As long as your devotion to black and green is less than seven, Pharika "
 "isn't a creature."
 msgstr ""
 
-#: ../../JOU.rst:1273
+#: ../../JOU.rst:811
 msgid ""
 "|mana_b| |mana_g|: Exile target creature card from a graveyard. Its owner "
 "creates a 1/1 black and green Snake enchantment creature token with "
@@ -2415,23 +2415,23 @@ msgid ""
 msgstr ""
 
 # 63d2e7a2cbad4605b338f3106cc0ea0e
-#: ../../JOU.rst:1281
+#: ../../JOU.rst:816
 msgid "Revel of the Fallen God"
 msgstr ""
 
 # 41029c68314f43089b9dd1b4d7f5beab
-#: ../../JOU.rst:1280
+#: ../../JOU.rst:815
 #, fuzzy
 msgid "Create four 2/2 red and green Satyr creature tokens with haste."
 msgstr "Połóż na polu walki dwa żetony czerwonego stwora Minotaur 2/2."
 
 # 0f541200a9b947bbb909a553ad616ba0
-#: ../../JOU.rst:1290
+#: ../../JOU.rst:822
 msgid "Stormchaser Chimera"
 msgstr ""
 
 # a32f4c23d6a64c7e8e89a48736b4e4ec
-#: ../../JOU.rst:1289
+#: ../../JOU.rst:821
 msgid ""
 "|mana_2| |mana_u| |mana_r|: Scry 1, then reveal the top card of your "
 "library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that "
@@ -2440,12 +2440,12 @@ msgid ""
 msgstr ""
 
 # ef447b5cb0104919863980fb0f2c9b26
-#: ../../JOU.rst:1299
+#: ../../JOU.rst:828
 msgid "Underworld Coinsmith"
 msgstr ""
 
 # 96750c37ad284cd7bf4ccedc1232061d
-#: ../../JOU.rst:1296
+#: ../../JOU.rst:825
 msgid ""
 "Constellation — Whenever Underworld Coinsmith or another enchantment enters "
 "the battlefield under your control, you gain 1 life."
@@ -2454,131 +2454,131 @@ msgstr ""
 "walki pod twoim władaniem, zyskujesz 1 życie."
 
 # 6c9617ae4c2f4994b5dc7984cac08d81
-#: ../../JOU.rst:1298
+#: ../../JOU.rst:827
 msgid "|mana_w| |mana_b|, Pay 1 life: Each opponent loses 1 life."
 msgstr ""
 
 # af2f0a3318884ff18ed5a59027677586
-#: ../../JOU.rst:1308
+#: ../../JOU.rst:834
 msgid "Armory of Iroas"
 msgstr "Armory of Iroas (Zbrojownia Iroasa)"
 
 # a3a0ca139ef341c281008b0d7ee12654
-#: ../../JOU.rst:1305
+#: ../../JOU.rst:831
 msgid "Whenever equipped creature attacks, put a +1/+1 counter on it."
 msgstr "Ilekroć wyposażony stwór atakuje, połóż na nim znacznik +1/+1."
 
 # 1bd6bcb026a9404b838623400e9a01fb
-#: ../../JOU.rst:1307
+#: ../../JOU.rst:833
 msgid "Equip |mana_2|"
 msgstr "Wyposaż |mana_2|"
 
 # dff1bcaecd674bf1ac6d5c08a81e7b0d
-#: ../../JOU.rst:1317
+#: ../../JOU.rst:840
 msgid "Chariot of Victory"
 msgstr ""
 
 # c9b15700dd3c4b508e17c444c5264630
-#: ../../JOU.rst:1314
+#: ../../JOU.rst:837
 msgid "Equipped creature has first strike, trample, and haste."
 msgstr "Wyposażony stwór ma pierwszy cios, tratowanie i pośpiech."
 
 # 71b4cb718e204db18502e5307f62f177
-#: ../../JOU.rst:1316
+#: ../../JOU.rst:839
 msgid "Equip |mana_1|"
 msgstr "Wyposaż |mana_1|"
 
 # 8d8469bf5c3b4266ab03a64a31359900
-#: ../../JOU.rst:1326
+#: ../../JOU.rst:846
 msgid "Deserter's Quarters"
 msgstr ""
 
 # 08a5b3709d624c689ff460672c974ad2
-#: ../../JOU.rst:1323
+#: ../../JOU.rst:843
 msgid "You may choose not to untap Deserter's Quarters during your untap step."
 msgstr "Możesz nie odznaczać Deserter's Quarters w twoim kroku odnzaczania."
 
 # ff306473c94c42449a2807a5bb1b6cff
-#: ../../JOU.rst:1325
+#: ../../JOU.rst:845
 msgid ""
 "|mana_6|, |tap|: Tap target creature. It doesn't untap during its "
 "controller's untap step for as long as Deserter's Quarters remains tapped."
 msgstr ""
 
 # 246cec0dd2b34c279ca2f15057ed7217
-#: ../../JOU.rst:1333
+#: ../../JOU.rst:850
 msgid "Gold-Forged Sentinel"
 msgstr ""
 
 # ff46ee6a2b444fc5856afba56fdcfda5
-#: ../../JOU.rst:1342
+#: ../../JOU.rst:856
 msgid "Hall of Triumph"
 msgstr ""
 
 # e862c97dbdbc4abeb3b657dadfe79805
-#: ../../JOU.rst:1339
+#: ../../JOU.rst:853
 msgid "As Hall of Triumph enters the battlefield, choose a color."
 msgstr "Kładąc  Hall of Triumph na polu walki wybierz kolor."
 
 # 033f70e0bea94c7aa83e8fa9ffb822d7
-#: ../../JOU.rst:1341
+#: ../../JOU.rst:855
 msgid "Creatures you control of the chosen color get +1/+1."
 msgstr "Władane przez ciebie stwory wybranego koloru dostają +1/+1."
 
 # 780f3ce2da804c0c806696aefa183e4a
-#: ../../JOU.rst:1349
+#: ../../JOU.rst:860
 msgid "Mana Confluence"
 msgstr ""
 
 # 1283291927f34d17b7bcda652ce06def
-#: ../../JOU.rst:1348
+#: ../../JOU.rst:859
 #, fuzzy
 msgid "|tap|, Pay 1 life: Add one mana of any color."
 msgstr ""
 "|tap|, zapłać 1 życie: Dodaj jedną manę dowolnego koloru do twojej puli many."
 
 # 4d25b831bb35467f9e144100ba42e4f2
-#: ../../JOU.rst:1360
+#: ../../JOU.rst:868
 msgid "Temple of Epiphany"
 msgstr ""
 
 # 51884cd91f7d42ab978e11bed8e4f0cb
-#: ../../JOU.rst:1355
+#: ../../JOU.rst:863
 msgid "Temple of Epiphany enters the battlefield tapped."
 msgstr ""
 
 # 19c3dd02fd674e51b76e1d443e4fc7cf
-#: ../../JOU.rst:1357
+#: ../../JOU.rst:865
 msgid ""
 "When Temple of Epiphany enters the battlefield, scry 1. (Look at the top "
 "card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
 # 3316b2f43b754b7d84e2ab467e2e2325
-#: ../../JOU.rst:1359
+#: ../../JOU.rst:867
 #, fuzzy
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr "|tap|: Dodaj |mana_g| do twojej puli many."
 
 # e8b87619eae14b24b14ac248e34393a3
-#: ../../JOU.rst:1370
+#: ../../JOU.rst:875
 msgid "Temple of Malady"
 msgstr ""
 
 # 66e0cd425eea41b4b85d48585dfff6fc
-#: ../../JOU.rst:1366
+#: ../../JOU.rst:871
 msgid "Temple of Malady enters the battlefield tapped."
 msgstr ""
 
 # 11835ff7d8b4496d95adfb493dad42d0
-#: ../../JOU.rst:1368
+#: ../../JOU.rst:873
 msgid ""
 "When Temple of Malady enters the battlefield, scry 1. (Look at the top card "
 "of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
 # 3316b2f43b754b7d84e2ab467e2e2325
-#: ../../JOU.rst:1370
+#: ../../JOU.rst:875
 #, fuzzy
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr "|tap|: Dodaj |mana_g| do twojej puli many."
