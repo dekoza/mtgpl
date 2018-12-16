@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:00+0100\n"
-"PO-Revision-Date: 2018-12-16 09:38+0000\n"
+"PO-Revision-Date: 2018-12-16 11:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -383,7 +383,7 @@ msgstr ""
 #: ../../C14.rst:1264
 #: ../../C14.rst:1280
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../C14.rst:266
 msgid "At the beginning of combat on your turn, choose an opponent at random. Raving Dead attacks that player this combat if able."
@@ -491,7 +491,7 @@ msgstr ""
 
 #: ../../C14.rst:350
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../C14.rst:352
 msgid "Lieutenant — As long as you control your commander, Tyrant's Familiar gets +2/+2 and has \"Whenever Tyrant's Familiar attacks, it deals 7 damage to target creature defending player controls.\""
@@ -532,7 +532,7 @@ msgstr ""
 #: ../../C14.rst:1838
 #: ../../C14.rst:1963
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../C14.rst:381
 msgid "|mana_1| |mana_g|: Until end of turn, target creature you control has base power and toughness 5/5 and gains trample."
@@ -1157,6 +1157,7 @@ msgstr ""
 #: ../../C14.rst:879
 msgid "Create a token that's a copy of target creature you control."
 msgstr ""
+"Stwórz żeton stwora będącego kopią wskazanego stwora pod twoim władaniem."
 
 #: ../../C14.rst:881
 msgid "Flashback |mana_5| |mana_u| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
@@ -1220,13 +1221,13 @@ msgstr ""
 
 #: ../../C14.rst:929
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../C14.rst:931
 #: ../../C14.rst:947
 #: ../../C14.rst:1175
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../C14.rst:939
 msgid "Distorting Wake"
@@ -1496,7 +1497,7 @@ msgstr ""
 #: ../../C14.rst:1157
 #: ../../C14.rst:1477
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../C14.rst:1159
 msgid "You can't win the game and your opponents can't lose the game."
@@ -1985,7 +1986,7 @@ msgstr ""
 
 #: ../../C14.rst:1586
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../C14.rst:1588
 msgid "When Tuktuk the Explorer dies, create a legendary 5/5 colorless Goblin Golem artifact creature token named Tuktuk the Returned."
@@ -3056,7 +3057,7 @@ msgstr ""
 
 #: ../../C14.rst:2487
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../C14.rst:2501
 msgid "Dormant Volcano"
