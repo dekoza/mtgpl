@@ -5,15 +5,9 @@ Born of the Gods
 ================
         
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378373&type=card
-   :align: right
-
 Acolyte's Reward
    Prevent the next X damage that would be dealt to target creature this turn, where X is your devotion to white. If damage is prevented this way, Acolyte's Reward deals that much damage to any target. (Each |mana_w| in the mana costs of permanents you control counts toward your devotion to white.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378374&type=card
-   :align: right
 
 Akroan Phalanx
    Vigilance
@@ -21,26 +15,17 @@ Akroan Phalanx
    |mana_2| |mana_r|: Creatures you control get +1/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378375&type=card
-   :align: right
-
 Akroan Skyguard
    Flying
 
    Heroic — Whenever you cast a spell that targets Akroan Skyguard, put a +1/+1 counter on Akroan Skyguard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378376&type=card
-   :align: right
-
 Archetype of Courage
    Creatures you control have first strike.
 
    Creatures your opponents control lose first strike and can't have or gain first strike.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378377&type=card
-   :align: right
 
 Brimaz, King of Oreskos
    Vigilance
@@ -50,9 +35,6 @@ Brimaz, King of Oreskos
    Whenever Brimaz blocks a creature, create a 1/1 white Cat Soldier creature token with vigilance that's blocking that creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378378&type=card
-   :align: right
-
 Dawn to Dusk
    Choose one or both —
 
@@ -61,24 +43,15 @@ Dawn to Dusk
    • Destroy target enchantment.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378379&type=card
-   :align: right
-
 Eidolon of Countless Battles
    Bestow |mana_2| |mana_w| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Eidolon of Countless Battles and enchanted creature each get +1/+1 for each creature you control and +1/+1 for each Aura you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378380&type=card
-   :align: right
-
 Elite Skirmisher
    Heroic — Whenever you cast a spell that targets Elite Skirmisher, you may tap target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378381&type=card
-   :align: right
 
 Ephara's Radiance
    Enchant creature
@@ -86,22 +59,13 @@ Ephara's Radiance
    Enchanted creature has "|mana_1| |mana_w|, |tap|: You gain 3 life."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378382&type=card
-   :align: right
-
 Excoriate
    Exile target tapped creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378383&type=card
-   :align: right
-
 Fated Retribution
    Destroy all creatures and planeswalkers. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378384&type=card
-   :align: right
 
 Ghostblade Eidolon
    Bestow |mana_5| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -111,29 +75,17 @@ Ghostblade Eidolon
    Enchanted creature gets +1/+1 and has double strike.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378385&type=card
-   :align: right
-
 Glimpse the Sun God
    Tap X target creatures. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378386&type=card
-   :align: right
 
 God-Favored General
    Inspired — Whenever God-Favored General becomes untapped, you may pay |mana_2| |mana_w|. If you do, create two 1/1 white Soldier enchantment creature tokens.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378387&type=card
-   :align: right
-
 Great Hart
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378388&type=card
-   :align: right
 
 Griffin Dreamfinder
    Flying
@@ -141,24 +93,15 @@ Griffin Dreamfinder
    When Griffin Dreamfinder enters the battlefield, return target enchantment card from your graveyard to your hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378389&type=card
-   :align: right
-
 Hero of Iroas
    Aura spells you cast cost |mana_1| less to cast.
 
    Heroic — Whenever you cast a spell that targets Hero of Iroas, put a +1/+1 counter on Hero of Iroas.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378390&type=card
-   :align: right
-
 Hold at Bay
    Prevent the next 7 damage that would be dealt to any target this turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378391&type=card
-   :align: right
 
 Loyal Pegasus
    Flying
@@ -166,15 +109,9 @@ Loyal Pegasus
    Loyal Pegasus can't attack or block alone.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378392&type=card
-   :align: right
-
 Mortal's Ardor
    Target creature gets +1/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378393&type=card
-   :align: right
 
 Nyxborn Shieldmate
    Bestow |mana_2| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -182,15 +119,9 @@ Nyxborn Shieldmate
    Enchanted creature gets +1/+2.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378394&type=card
-   :align: right
-
 Oreskos Sun Guide
    Inspired — Whenever Oreskos Sun Guide becomes untapped, you gain 2 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378395&type=card
-   :align: right
 
 Ornitharch
    Flying
@@ -200,22 +131,13 @@ Ornitharch
    When Ornitharch enters the battlefield, if tribute wasn't paid, create two 1/1 white Bird creature tokens with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378396&type=card
-   :align: right
-
 Plea for Guidance
    Search your library for up to two enchantment cards, reveal them, and put them into your hand. Then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378397&type=card
-   :align: right
-
 Revoke Existence
    Exile target artifact or enchantment.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378398&type=card
-   :align: right
 
 Silent Sentinel
    Flying
@@ -223,15 +145,9 @@ Silent Sentinel
    Whenever Silent Sentinel attacks, you may return target enchantment card from your graveyard to the battlefield.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378399&type=card
-   :align: right
-
 Spirit of the Labyrinth
    Each player can't draw more than one card each turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378400&type=card
-   :align: right
 
 Sunbond
    Enchant creature
@@ -239,24 +155,15 @@ Sunbond
    Enchanted creature has "Whenever you gain life, put that many +1/+1 counters on this creature."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378401&type=card
-   :align: right
-
 Vanguard of Brimaz
    Vigilance
 
    Heroic — Whenever you cast a spell that targets Vanguard of Brimaz, create a 1/1 white Cat Soldier creature token with vigilance.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378402&type=card
-   :align: right
-
 Aerie Worshippers
    Inspired — Whenever Aerie Worshippers becomes untapped, you may pay |mana_2| |mana_u|. If you do, create a 2/2 blue Bird enchantment creature token with flying.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378403&type=card
-   :align: right
 
 Arbiter of the Ideal
    Flying
@@ -264,17 +171,11 @@ Arbiter of the Ideal
    Inspired — Whenever Arbiter of the Ideal becomes untapped, reveal the top card of your library. If it's an artifact, creature, or land card, you may put it onto the battlefield with a manifestation counter on it. That permanent is an enchantment in addition to its other types.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378404&type=card
-   :align: right
-
 Archetype of Imagination
    Creatures you control have flying.
 
    Creatures your opponents control lose flying and can't have or gain flying.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378405&type=card
-   :align: right
 
 Chorus of the Tides
    Flying
@@ -282,29 +183,17 @@ Chorus of the Tides
    Heroic — Whenever you cast a spell that targets Chorus of the Tides, scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378406&type=card
-   :align: right
-
 Crypsis
    Target creature you control gains protection from creatures your opponents control until end of turn. Untap it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378407&type=card
-   :align: right
 
 Deepwater Hypnotist
    Inspired — Whenever Deepwater Hypnotist becomes untapped, target creature an opponent controls gets -3/-0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378408&type=card
-   :align: right
-
 Divination
    Draw two cards.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378409&type=card
-   :align: right
 
 Eternity Snare
    Enchant creature
@@ -314,24 +203,15 @@ Eternity Snare
    Enchanted creature doesn't untap during its controller's untap step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378410&type=card
-   :align: right
-
 Evanescent Intellect
    Enchant creature
 
    Enchanted creature has "|mana_1| |mana_u|, |tap|: Target player puts the top three cards of their library into their graveyard."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378411&type=card
-   :align: right
-
 Fated Infatuation
    Create a token that's a copy of target creature you control. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378412&type=card
-   :align: right
 
 Flitterstep Eidolon
    Bestow |mana_5| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -341,29 +221,17 @@ Flitterstep Eidolon
    Enchanted creature gets +1/+1 and can't be blocked.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378413&type=card
-   :align: right
-
 Floodtide Serpent
    Floodtide Serpent can't attack unless you return an enchantment you control to its owner's hand. (This cost is paid as attackers are declared.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378414&type=card
-   :align: right
 
 Kraken of the Straits
    Creatures with power less than the number of Islands you control can't block Kraken of the Straits.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378415&type=card
-   :align: right
-
 Meletis Astronomer
    Heroic — Whenever you cast a spell that targets Meletis Astronomer, look at the top three cards of your library. You may reveal an enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378416&type=card
-   :align: right
 
 Mindreaver
    Heroic — Whenever you cast a spell that targets Mindreaver, exile the top three cards of target player's library.
@@ -371,15 +239,9 @@ Mindreaver
    |mana_u| |mana_u|, Sacrifice Mindreaver: Counter target spell with the same name as a card exiled with Mindreaver.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378417&type=card
-   :align: right
-
 Nullify
    Counter target creature or Aura spell.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378418&type=card
-   :align: right
 
 Nyxborn Triton
    Bestow |mana_4| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -387,31 +249,19 @@ Nyxborn Triton
    Enchanted creature gets +2/+3.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378419&type=card
-   :align: right
-
 Oracle's Insight
    Enchant creature
 
    Enchanted creature has "|tap|: Scry 1, then draw a card." (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378420&type=card
-   :align: right
-
 Perplexing Chimera
    Whenever an opponent casts a spell, you may exchange control of Perplexing Chimera and that spell. If you do, you may choose new targets for the spell. (If the spell becomes a permanent, you control that permanent.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378421&type=card
-   :align: right
-
 Retraction Helix
    Until end of turn, target creature gains "|tap|: Return target nonland permanent to its owner's hand."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378422&type=card
-   :align: right
 
 Siren of the Fanged Coast
    Flying
@@ -421,17 +271,11 @@ Siren of the Fanged Coast
    When Siren of the Fanged Coast enters the battlefield, if tribute wasn't paid, gain control of target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378423&type=card
-   :align: right
-
 Sphinx's Disciple
    Flying
 
    Inspired — Whenever Sphinx's Disciple becomes untapped, draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378424&type=card
-   :align: right
 
 Stratus Walk
    Enchant creature
@@ -443,22 +287,13 @@ Stratus Walk
    Enchanted creature can block only creatures with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378425&type=card
-   :align: right
-
 Sudden Storm
    Tap up to two target creatures. Those creatures don't untap during their controllers' next untap steps. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378426&type=card
-   :align: right
-
 Thassa's Rebuff
    Counter target spell unless its controller pays |mana_x|, where X is your devotion to blue. (Each |mana_u| in the mana costs of permanents you control counts toward your devotion to blue.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378427&type=card
-   :align: right
 
 Tromokratis
    Tromokratis has hexproof unless it's attacking or blocking.
@@ -466,24 +301,15 @@ Tromokratis
    Tromokratis can't be blocked unless all creatures defending player controls block it. (If any creature that player controls doesn't block this creature, it can't be blocked.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378428&type=card
-   :align: right
-
 Vortex Elemental
    |mana_u|: Put Vortex Elemental and each creature blocking or blocked by it on top of their owners' libraries, then those players shuffle their libraries.
 
    |mana_3| |mana_u| |mana_u|: Target creature blocks Vortex Elemental this turn if able.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378429&type=card
-   :align: right
-
 Whelming Wave
    Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378430&type=card
-   :align: right
 
 Archetype of Finality
    Creatures you control have deathtouch.
@@ -491,29 +317,17 @@ Archetype of Finality
    Creatures your opponents control lose deathtouch and can't have or gain deathtouch.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378431&type=card
-   :align: right
-
 Ashiok's Adept
    Heroic — Whenever you cast a spell that targets Ashiok's Adept, each opponent discards a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378432&type=card
-   :align: right
 
 Asphyxiate
    Destroy target untapped creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378433&type=card
-   :align: right
-
 Bile Blight
    Target creature and all other creatures with the same name as that creature get -3/-3 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378434&type=card
-   :align: right
 
 Black Oak of Odunos
    Defender
@@ -521,17 +335,11 @@ Black Oak of Odunos
    |mana_b|, Tap another untapped creature you control: Black Oak of Odunos gets +1/+1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378435&type=card
-   :align: right
-
 Champion of Stray Souls
    |mana_3| |mana_b| |mana_b|, |tap|, Sacrifice X other creatures: Return X target creature cards from your graveyard to the battlefield.
 
    |mana_5| |mana_b| |mana_b|: Put Champion of Stray Souls on top of your library from your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378436&type=card
-   :align: right
 
 Claim of Erebos
    Enchant creature
@@ -539,15 +347,9 @@ Claim of Erebos
    Enchanted creature has "|mana_1| |mana_b|, |tap|: Target player loses 2 life."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378437&type=card
-   :align: right
-
 Drown in Sorrow
    All creatures get -2/-2 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378438&type=card
-   :align: right
 
 Eater of Hope
    Flying
@@ -557,36 +359,21 @@ Eater of Hope
    |mana_2| |mana_b|, Sacrifice two other creatures: Destroy target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378439&type=card
-   :align: right
-
 Eye Gouge
    Target creature gets -1/-1 until end of turn. If it's a Cyclops, destroy it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378440&type=card
-   :align: right
 
 Fate Unraveler
    Whenever an opponent draws a card, Fate Unraveler deals 1 damage to that player.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378441&type=card
-   :align: right
-
 Fated Return
    Put target creature card from a graveyard onto the battlefield under your control. It gains indestructible. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378442&type=card
-   :align: right
-
 Felhide Brawler
    Felhide Brawler can't block unless you control another Minotaur.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378443&type=card
-   :align: right
 
 Forlorn Pseudamma
    Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
@@ -594,22 +381,13 @@ Forlorn Pseudamma
    Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2| |mana_b|. If you do, create a 2/2 black Zombie enchantment creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378444&type=card
-   :align: right
-
 Forsaken Drifters
    When Forsaken Drifters dies, put the top four cards of your library into your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378445&type=card
-   :align: right
-
 Gild
    Exile target creature. Create a colorless artifact token named Gold. It has "Sacrifice this artifact: Add one mana of any color."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378446&type=card
-   :align: right
 
 Grisly Transformation
    Enchant creature
@@ -618,9 +396,6 @@ Grisly Transformation
 
    Enchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378447&type=card
-   :align: right
 
 Herald of Torment
    Bestow |mana_3| |mana_b| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -632,22 +407,13 @@ Herald of Torment
    Enchanted creature gets +3/+3 and has flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378448&type=card
-   :align: right
-
 Marshmist Titan
    This spell costs |mana_x| less to cast, where X is your devotion to black. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378449&type=card
-   :align: right
-
 Necrobite
    Target creature gains deathtouch until end of turn. Regenerate it. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat. Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378450&type=card
-   :align: right
 
 Nyxborn Eidolon
    Bestow |mana_4| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -655,40 +421,25 @@ Nyxborn Eidolon
    Enchanted creature gets +2/+1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378451&type=card
-   :align: right
-
 Odunos River Trawler
    When Odunos River Trawler enters the battlefield, return target enchantment creature card from your graveyard to your hand.
 
    |mana_w|, Sacrifice Odunos River Trawler: Return target enchantment creature card from your graveyard to your hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378452&type=card
-   :align: right
-
 Pain Seer
    Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's converted mana cost.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378453&type=card
-   :align: right
-
 Sanguimancy
    You draw X cards and you lose X life, where X is your devotion to black. (Each |mana_b| in the mana costs of permanents you control counts toward your devotion to black.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378454&type=card
-   :align: right
 
 Servant of Tymaret
    Inspired — Whenever Servant of Tymaret becomes untapped, each opponent loses 1 life. You gain life equal to the life lost this way.
 
    |mana_2| |mana_b|: Regenerate Servant of Tymaret.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378455&type=card
-   :align: right
 
 Shrike Harpy
    Flying
@@ -698,9 +449,6 @@ Shrike Harpy
    When Shrike Harpy enters the battlefield, if tribute wasn't paid, target opponent sacrifices a creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378456&type=card
-   :align: right
-
 Spiteful Returned
    Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
@@ -709,15 +457,9 @@ Spiteful Returned
    Enchanted creature gets +1/+1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378457&type=card
-   :align: right
-
 Warchanter of Mogis
    Inspired — Whenever Warchanter of Mogis becomes untapped, target creature you control gains intimidate until end of turn. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378458&type=card
-   :align: right
 
 Weight of the Underworld
    Enchant creature
@@ -725,15 +467,9 @@ Weight of the Underworld
    Enchanted creature gets -3/-2.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378459&type=card
-   :align: right
-
 Akroan Conscriptor
    Heroic — Whenever you cast a spell that targets Akroan Conscriptor, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378460&type=card
-   :align: right
 
 Archetype of Aggression
    Creatures you control have trample.
@@ -741,31 +477,19 @@ Archetype of Aggression
    Creatures your opponents control lose trample and can't have or gain trample.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378461&type=card
-   :align: right
-
 Bolt of Keranos
    Bolt of Keranos deals 3 damage to any target. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378462&type=card
-   :align: right
-
 Cyclops of One-Eyed Pass
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378463&type=card
-   :align: right
 
 Epiphany Storm
    Enchant creature
 
    Enchanted creature has "|mana_r|, |tap|, Discard a card: Draw a card."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378464&type=card
-   :align: right
 
 Everflame Eidolon
    Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -775,22 +499,13 @@ Everflame Eidolon
    Enchanted creature gets +1/+1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378465&type=card
-   :align: right
-
 Fall of the Hammer
    Target creature you control deals damage equal to its power to another target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378466&type=card
-   :align: right
-
 Fated Conflagration
    Fated Conflagration deals 5 damage to target creature or planeswalker. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378467&type=card
-   :align: right
 
 Fearsome Temper
    Enchant creature
@@ -798,15 +513,9 @@ Fearsome Temper
    Enchanted creature gets +2/+2 and has "|mana_2| |mana_r|: Target creature can't block this creature this turn."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378468&type=card
-   :align: right
-
 Felhide Spiritbinder
    Inspired — Whenever Felhide Spiritbinder becomes untapped, you may pay |mana_1| |mana_r|. If you do, create a token that's a copy of another target creature, except it's an enchantment in addition to its other types. It gains haste. Exile it at the beginning of the next end step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378469&type=card
-   :align: right
 
 Flame-Wreathed Phoenix
    Flying
@@ -816,17 +525,11 @@ Flame-Wreathed Phoenix
    When Flame-Wreathed Phoenix enters the battlefield, if tribute wasn't paid, it gains haste and "When this creature dies, return it to its owner's hand."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378470&type=card
-   :align: right
-
 Forgestoker Dragon
    Flying
 
    |mana_1| |mana_r|: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if Forgestoker Dragon is attacking.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378471&type=card
-   :align: right
 
 Impetuous Sunchaser
    Flying, haste
@@ -834,31 +537,19 @@ Impetuous Sunchaser
    Impetuous Sunchaser attacks each combat if able.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378472&type=card
-   :align: right
-
 Kragma Butcher
    Inspired — Whenever Kragma Butcher becomes untapped, it gets +2/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378473&type=card
-   :align: right
-
 Lightning Volley
    Until end of turn, creatures you control gain "|tap|: This creature deals 1 damage to any target."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378474&type=card
-   :align: right
 
 Nyxborn Rollicker
    Bestow |mana_1| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Enchanted creature gets +1/+1.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378475&type=card
-   :align: right
 
 Oracle of Bones
    Haste
@@ -868,45 +559,27 @@ Oracle of Bones
    When Oracle of Bones enters the battlefield, if tribute wasn't paid, you may cast an instant or sorcery card from your hand without paying its mana cost.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378476&type=card
-   :align: right
-
 Pharagax Giant
    Tribute 2 (As this creature enters the battlefield, an opponent of your choice may put two +1/+1 counters on it.)
 
    When Pharagax Giant enters the battlefield, if tribute wasn't paid, Pharagax Giant deals 5 damage to each opponent.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378477&type=card
-   :align: right
-
 Pinnacle of Rage
    Pinnacle of Rage deals 3 damage to each of two targets.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378478&type=card
-   :align: right
 
 Reckless Reveler
    |mana_r|, Sacrifice Reckless Reveler: Destroy target artifact.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378479&type=card
-   :align: right
-
 Rise to the Challenge
    Target creature gets +2/+0 and gains first strike until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378480&type=card
-   :align: right
-
 Satyr Firedancer
    Whenever an instant or sorcery spell you control deals damage to an opponent, Satyr Firedancer deals that much damage to target creature that player controls.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378481&type=card
-   :align: right
 
 Satyr Nyx-Smith
    Haste
@@ -914,31 +587,19 @@ Satyr Nyx-Smith
    Inspired — Whenever Satyr Nyx-Smith becomes untapped, you may pay |mana_2| |mana_r|. If you do, create a 3/1 red Elemental enchantment creature token with haste.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378482&type=card
-   :align: right
-
 Scouring Sands
    Scouring Sands deals 1 damage to each creature your opponents control. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378483&type=card
-   :align: right
-
 Searing Blood
    Searing Blood deals 2 damage to target creature. When that creature dies this turn, Searing Blood deals 3 damage to the creature's controller.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378484&type=card
-   :align: right
 
 Stormcaller of Keranos
    Haste
 
    |mana_1| |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378485&type=card
-   :align: right
 
 Thunder Brute
    Trample
@@ -948,24 +609,15 @@ Thunder Brute
    When Thunder Brute enters the battlefield, if tribute wasn't paid, it gains haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378486&type=card
-   :align: right
-
 Thunderous Might
    Enchant creature
 
    Whenever enchanted creature attacks, it gets +X/+0 until end of turn, where X is your devotion to red. (Each |mana_r| in the mana costs of permanents you control counts toward your devotion to red.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378487&type=card
-   :align: right
-
 Whims of the Fates
    Starting with you, each player separates all permanents they control into three piles. Then each player chooses one of their piles at random and sacrifices those permanents. (Piles can be empty.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378488&type=card
-   :align: right
 
 Archetype of Endurance
    Creatures you control have hexproof.
@@ -973,22 +625,13 @@ Archetype of Endurance
    Creatures your opponents control lose hexproof and can't have or gain hexproof.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378489&type=card
-   :align: right
-
 Aspect of Hydra
    Target creature gets +X/+X until end of turn, where X is your devotion to green. (Each |mana_g| in the mana costs of permanents you control counts toward your devotion to green.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378490&type=card
-   :align: right
-
 Charging Badger
    Trample
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378491&type=card
-   :align: right
 
 Courser of Kruphix
    Play with the top card of your library revealed.
@@ -998,22 +641,13 @@ Courser of Kruphix
    Whenever a land enters the battlefield under your control, you gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378492&type=card
-   :align: right
-
 Culling Mark
    Target creature blocks this turn if able.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378493&type=card
-   :align: right
-
 Fated Intervention
    Create two 3/3 green Centaur enchantment creature tokens. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378494&type=card
-   :align: right
 
 Graverobber Spider
    Reach
@@ -1021,22 +655,13 @@ Graverobber Spider
    |mana_3| |mana_b|: Graverobber Spider gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. Activate this ability only once each turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378495&type=card
-   :align: right
-
 Hero of Leina Tower
    Heroic — Whenever you cast a spell that targets Hero of Leina Tower, you may pay |mana_x|. If you do, put X +1/+1 counters on Hero of Leina Tower.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378496&type=card
-   :align: right
-
 Hunter's Prowess
    Until end of turn, target creature gets +3/+3 and gains trample and "Whenever this creature deals combat damage to a player, draw that many cards."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378497&type=card
-   :align: right
 
 Karametra's Favor
    Enchant creature
@@ -1046,22 +671,13 @@ Karametra's Favor
    Enchanted creature has "|tap|: Add one mana of any color."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378498&type=card
-   :align: right
-
 Mischief and Mayhem
    Up to two target creatures each get +4/+4 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378499&type=card
-   :align: right
-
 Mortal's Resolve
    Target creature gets +1/+1 and gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378500&type=card
-   :align: right
 
 Nessian Demolok
    Tribute 3 (As this creature enters the battlefield, an opponent of your choice may put three +1/+1 counters on it.)
@@ -1069,17 +685,11 @@ Nessian Demolok
    When Nessian Demolok enters the battlefield, if tribute wasn't paid, destroy target noncreature permanent.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378501&type=card
-   :align: right
-
 Nessian Wilds Ravager
    Tribute 6 (As this creature enters the battlefield, an opponent of your choice may put six +1/+1 counters on it.)
 
    When Nessian Wilds Ravager enters the battlefield, if tribute wasn't paid, you may have Nessian Wilds Ravager fight another target creature. (Each deals damage equal to its power to the other.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378502&type=card
-   :align: right
 
 Noble Quarry
    Bestow |mana_5| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -1089,38 +699,23 @@ Noble Quarry
    Enchanted creature gets +1/+1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378503&type=card
-   :align: right
-
 Nyxborn Wolf
    Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Enchanted creature gets +3/+1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378504&type=card
-   :align: right
-
 Peregrination
    Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Shuffle your library, then scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378505&type=card
-   :align: right
 
 Pheres-Band Raiders
    Inspired — Whenever Pheres-Band Raiders becomes untapped, you may pay |mana_2| |mana_g|. If you do, create a 3/3 green Centaur enchantment creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378506&type=card
-   :align: right
-
 Pheres-Band Tromper
    Inspired — Whenever Pheres-Band Tromper becomes untapped, put a +1/+1 counter on it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378507&type=card
-   :align: right
 
 Raised by Wolves
    Enchant creature
@@ -1130,15 +725,9 @@ Raised by Wolves
    Enchanted creature gets +1/+1 for each Wolf you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378508&type=card
-   :align: right
-
 Satyr Wayfinder
    When Satyr Wayfinder enters the battlefield, reveal the top four cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378509&type=card
-   :align: right
 
 Scourge of Skola Vale
    Trample
@@ -1148,29 +737,17 @@ Scourge of Skola Vale
    |tap|, Sacrifice another creature: Put a number of +1/+1 counters on Scourge of Skola Vale equal to the sacrificed creature's toughness.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378510&type=card
-   :align: right
-
 Setessan Oathsworn
    Heroic — Whenever you cast a spell that targets Setessan Oathsworn, put two +1/+1 counters on Setessan Oathsworn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378511&type=card
-   :align: right
 
 Setessan Starbreaker
    When Setessan Starbreaker enters the battlefield, you may destroy target Aura.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378512&type=card
-   :align: right
-
 Skyreaping
    Skyreaping deals damage to each creature with flying equal to your devotion to green. (Each |mana_g| in the mana costs of permanents you control counts toward your devotion to green.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378513&type=card
-   :align: right
 
 Snake of the Golden Grove
    Tribute 3 (As this creature enters the battlefield, an opponent of your choice may put three +1/+1 counters on it.)
@@ -1178,22 +755,13 @@ Snake of the Golden Grove
    When Snake of the Golden Grove enters the battlefield, if tribute wasn't paid, you gain 4 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378514&type=card
-   :align: right
-
 Swordwise Centaur
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378515&type=card
-   :align: right
-
 Unravel the Aether
    Choose target artifact or enchantment. Its owner shuffles it into their library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378516&type=card
-   :align: right
 
 Chromanticore
    Bestow |mana_2| |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -1203,9 +771,6 @@ Chromanticore
    Enchanted creature gets +4/+4 and has flying, first strike, vigilance, trample, and lifelink.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378517&type=card
-   :align: right
-
 Ephara, God of the Polis
    Indestructible
 
@@ -1213,9 +778,6 @@ Ephara, God of the Polis
 
    At the beginning of each upkeep, if you had another creature enter the battlefield under your control last turn, draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378518&type=card
-   :align: right
 
 Ephara's Enlightenment
    Enchant creature
@@ -1227,9 +789,6 @@ Ephara's Enlightenment
    Whenever a creature enters the battlefield under your control, you may return Ephara's Enlightenment to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378519&type=card
-   :align: right
-
 Fanatic of Xenagos
    Trample
 
@@ -1237,9 +796,6 @@ Fanatic of Xenagos
 
    When Fanatic of Xenagos enters the battlefield, if tribute wasn't paid, it gets +1/+1 and gains haste until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378520&type=card
-   :align: right
 
 Karametra, God of Harvests
    Indestructible
@@ -1249,9 +805,6 @@ Karametra, God of Harvests
    Whenever you cast a creature spell, you may search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378521&type=card
-   :align: right
-
 Kiora, the Crashing Wave
    +1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.
 
@@ -1260,15 +813,9 @@ Kiora, the Crashing Wave
    −5: You get an emblem with "At the beginning of your end step, create a 9/9 blue Kraken creature token."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378522&type=card
-   :align: right
-
 Kiora's Follower
    |tap|: Untap another target permanent.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378523&type=card
-   :align: right
 
 Mogis, God of Slaughter
    Indestructible
@@ -1278,9 +825,6 @@ Mogis, God of Slaughter
    At the beginning of each opponent's upkeep, Mogis deals 2 damage to that player unless they sacrifice a creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378524&type=card
-   :align: right
-
 Phenax, God of Deception
    Indestructible
 
@@ -1289,31 +833,19 @@ Phenax, God of Deception
    Creatures you control have "|tap|: Target player puts the top X cards of their library into their graveyard, where X is this creature's toughness."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378525&type=card
-   :align: right
-
 Ragemonger
    Minotaur spells you cast cost |mana_b| |mana_r| less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Minotaur spell with mana cost |mana_2| |mana_r|, it costs |mana_2| to cast.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378526&type=card
-   :align: right
-
 Reap What Is Sown
    Put a +1/+1 counter on each of up to three target creatures.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378527&type=card
-   :align: right
 
 Siren of the Silent Song
    Flying
 
    Inspired — Whenever Siren of the Silent Song becomes untapped, each opponent discards a card, then puts the top card of their library into their graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378528&type=card
-   :align: right
 
 Xenagos, God of Revels
    Indestructible
@@ -1323,17 +855,11 @@ Xenagos, God of Revels
    At the beginning of combat on your turn, another target creature you control gains haste and gets +X/+X until end of turn, where X is that creature's power.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378529&type=card
-   :align: right
-
 Astral Cornucopia
    Astral Cornucopia enters the battlefield with X charge counters on it.
 
    |tap|: Choose a color. Add one mana of that color for each charge counter on Astral Cornucopia.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378530&type=card
-   :align: right
 
 Gorgon's Head
    Equipped creature has deathtouch.
@@ -1341,17 +867,11 @@ Gorgon's Head
    Equip |mana_2|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378531&type=card
-   :align: right
-
 Heroes' Podium
    Each legendary creature you control gets +1/+1 for each other legendary creature you control.
 
    |mana_x|, |tap|: Look at the top X cards of your library. You may reveal a legendary creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378532&type=card
-   :align: right
 
 Pillar of War
    Defender
@@ -1359,24 +879,15 @@ Pillar of War
    As long as Pillar of War is enchanted, it can attack as though it didn't have defender.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378533&type=card
-   :align: right
-
 Siren Song Lyre
    Equipped creature has "|mana_2|, |tap|: Tap target creature."
 
    Equip |mana_2|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378534&type=card
-   :align: right
-
 Springleaf Drum
    |tap|, Tap an untapped creature you control: Add one mana of any color.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378535&type=card
-   :align: right
 
 Temple of Enlightenment
    Temple of Enlightenment enters the battlefield tapped.
@@ -1386,9 +897,6 @@ Temple of Enlightenment
    |tap|: Add |mana_w| or |mana_u|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378536&type=card
-   :align: right
-
 Temple of Malice
    Temple of Malice enters the battlefield tapped.
 
@@ -1396,9 +904,6 @@ Temple of Malice
 
    |tap|: Add |mana_b| or |mana_r|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378537&type=card
-   :align: right
 
 Temple of Plenty
    Temple of Plenty enters the battlefield tapped.

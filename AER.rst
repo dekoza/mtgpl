@@ -5,9 +5,6 @@ Aether Revolt
 =============
         
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423668&type=card
-   :align: right
-
 Aerial Modification
    Enchant creature or Vehicle
 
@@ -16,46 +13,31 @@ Aerial Modification
    Enchanted creature gets +2/+2 and has flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423669&type=card
-   :align: right
-
 Aeronaut Admiral
    Flying
 
    Vehicles you control have flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423670&type=card
-   :align: right
-
 Aether Inspector
    Vigilance
 
-   When Aether Inspector enters the battlefield, you get {E}{E} (two energy counters).
+   When Aether Inspector enters the battlefield, you get {E} {E} (two energy counters).
 
-   Whenever Aether Inspector attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.
+   Whenever Aether Inspector attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423671&type=card
-   :align: right
 
 Aethergeode Miner
-   Whenever Aethergeode Miner attacks, you get {E}{E} (two energy counters).
+   Whenever Aethergeode Miner attacks, you get {E} {E} (two energy counters).
 
-   Pay {E}{E}: Exile Aethergeode Miner, then return it to the battlefield under its owner's control.
+   Pay {E} {E}: Exile Aethergeode Miner, then return it to the battlefield under its owner's control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423672&type=card
-   :align: right
 
 Airdrop Aeronauts
    Flying
 
    Revolt — When Airdrop Aeronauts enters the battlefield, if a permanent you controlled left the battlefield this turn, you gain 5 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423673&type=card
-   :align: right
 
 Alley Evasion
    Choose one —
@@ -65,31 +47,19 @@ Alley Evasion
    • Return target creature you control to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423674&type=card
-   :align: right
-
 Audacious Infiltrator
    Audacious Infiltrator can't be blocked by artifact creatures.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423675&type=card
-   :align: right
-
 Bastion Enforcer
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423676&type=card
-   :align: right
 
 Call for Unity
    Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a unity counter on Call for Unity.
 
    Creatures you control get +1/+1 for each unity counter on Call for Unity.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423677&type=card
-   :align: right
 
 Caught in the Brights
    Enchant creature
@@ -99,15 +69,9 @@ Caught in the Brights
    When a Vehicle you control attacks, exile enchanted creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423678&type=card
-   :align: right
-
 Consulate Crackdown
    When Consulate Crackdown enters the battlefield, exile all artifacts your opponents control until Consulate Crackdown leaves the battlefield.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423679&type=card
-   :align: right
 
 Conviction
    Enchant creature
@@ -117,15 +81,9 @@ Conviction
    |mana_w|: Return Conviction to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423680&type=card
-   :align: right
-
 Countless Gears Renegade
    Revolt — When Countless Gears Renegade enters the battlefield, if a permanent you controlled left the battlefield this turn, create a 1/1 colorless Servo artifact creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423681&type=card
-   :align: right
 
 Dawnfeather Eagle
    Flying
@@ -133,15 +91,9 @@ Dawnfeather Eagle
    When Dawnfeather Eagle enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423682&type=card
-   :align: right
-
 Deadeye Harpooner
    Revolt — When Deadeye Harpooner enters the battlefield, if a permanent you controlled left the battlefield this turn, destroy target tapped creature an opponent controls.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423683&type=card
-   :align: right
 
 Decommission
    Destroy target artifact or enchantment.
@@ -149,15 +101,9 @@ Decommission
    Revolt — If a permanent you controlled left the battlefield this turn, you gain 3 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423684&type=card
-   :align: right
-
 Deft Dismissal
    Deft Dismissal deals 3 damage divided as you choose among one, two, or three target attacking or blocking creatures.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423685&type=card
-   :align: right
 
 Exquisite Archangel
    Flying
@@ -165,29 +111,17 @@ Exquisite Archangel
    If you would lose the game, instead exile Exquisite Archangel and your life total becomes equal to your starting life total.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423686&type=card
-   :align: right
-
 Felidar Guardian
    When Felidar Guardian enters the battlefield, you may exile another target permanent you control, then return that card to the battlefield under its owner's control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423687&type=card
-   :align: right
 
 Ghirapur Osprey
    Flying
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423688&type=card
-   :align: right
-
 Restoration Specialist
    |mana_w|, Sacrifice Restoration Specialist: Return up to one target artifact card and up to one target enchantment card from your graveyard to your hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423689&type=card
-   :align: right
 
 Solemn Recruit
    Double strike
@@ -195,15 +129,9 @@ Solemn Recruit
    Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a +1/+1 counter on Solemn Recruit.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423690&type=card
-   :align: right
-
 Sram, Senior Edificer
    Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423691&type=card
-   :align: right
 
 Sram's Expertise
    Create three 1/1 colorless Servo artifact creature tokens.
@@ -211,37 +139,25 @@ Sram's Expertise
    You may cast a card with converted mana cost 3 or less from your hand without paying its mana cost.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423692&type=card
-   :align: right
-
 Thopter Arrest
    When Thopter Arrest enters the battlefield, exile target artifact or creature an opponent controls until Thopter Arrest leaves the battlefield.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423693&type=card
-   :align: right
-
 Aether Swooper
    Flying
 
-   When Aether Swooper enters the battlefield, you get {E}{E} (two energy counters).
+   When Aether Swooper enters the battlefield, you get {E} {E} (two energy counters).
 
-   Whenever Aether Swooper attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.
+   Whenever Aether Swooper attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423694&type=card
-   :align: right
 
 Aethertide Whale
    Flying
 
-   When Aethertide Whale enters the battlefield, you get {E}{E}{E}{E}{E}{E} (six energy counters).
+   When Aethertide Whale enters the battlefield, you get {E} {E} {E} {E} {E} {E} (six energy counters).
 
-   Pay {E}{E}{E}{E}: Return Aethertide Whale to its owner's hand.
+   Pay {E} {E} {E} {E}: Return Aethertide Whale to its owner's hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423695&type=card
-   :align: right
 
 Baral, Chief of Compliance
    Instant and sorcery spells you cast cost |mana_1| less to cast.
@@ -249,17 +165,11 @@ Baral, Chief of Compliance
    Whenever a spell or ability you control counters a spell, you may draw a card. If you do, discard a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423696&type=card
-   :align: right
-
 Baral's Expertise
    Return up to three target artifacts and/or creatures to their owners' hands.
 
    You may cast a card with converted mana cost 4 or less from your hand without paying its mana cost.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423697&type=card
-   :align: right
 
 Bastion Inventor
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
@@ -267,29 +177,17 @@ Bastion Inventor
    Hexproof (This creature can't be the target of spells or abilities your opponents control.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423698&type=card
-   :align: right
-
 Disallow
    Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423699&type=card
-   :align: right
 
 Dispersal Technician
    When Dispersal Technician enters the battlefield, you may return target artifact to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423700&type=card
-   :align: right
-
 Efficient Construction
    Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423701&type=card
-   :align: right
 
 Hinterland Drake
    Flying
@@ -297,17 +195,11 @@ Hinterland Drake
    Hinterland Drake can't block artifact creatures.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423702&type=card
-   :align: right
-
 Ice Over
    Enchant artifact or creature
 
    Enchanted permanent doesn't untap during its controller's untap step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423703&type=card
-   :align: right
 
 Illusionist's Stratagem
    Exile up to two target creatures you control, then return those cards to the battlefield under their owner's control.
@@ -315,17 +207,11 @@ Illusionist's Stratagem
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423704&type=card
-   :align: right
-
 Leave in the Dust
    Return target nonland permanent to its owner's hand.
 
    Draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423705&type=card
-   :align: right
 
 Mechanized Production
    Enchant artifact you control
@@ -333,31 +219,19 @@ Mechanized Production
    At the beginning of your upkeep, create a token that's a copy of enchanted artifact. Then if you control eight or more artifacts with the same name as one another, you win the game.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423706&type=card
-   :align: right
-
 Metallic Rebuke
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Counter target spell unless its controller pays |mana_3|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423707&type=card
-   :align: right
-
 Negate
    Counter target noncreature spell.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423708&type=card
-   :align: right
-
 Quicksmith Spy
    When Quicksmith Spy enters the battlefield, target artifact you control gains "|tap|: Draw a card" for as long as you control Quicksmith Spy.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423709&type=card
-   :align: right
 
 Reverse Engineer
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
@@ -365,35 +239,23 @@ Reverse Engineer
    Draw three cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423710&type=card
-   :align: right
-
 Salvage Scuttler
    Whenever Salvage Scuttler attacks, return an artifact you control to its owner's hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423711&type=card
-   :align: right
 
 Shielded Aether Thief
    Flash (You may cast this spell any time you could cast an instant.)
 
    Whenever Shielded Aether Thief blocks, you get {E} (an energy counter).
 
-   |tap|, Pay {E}{E}{E}: Draw a card.
+   |tap|, Pay {E} {E} {E}: Draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423712&type=card
-   :align: right
 
 Shipwreck Moray
-   When Shipwreck Moray enters the battlefield, you get {E}{E}{E}{E} (four energy counters).
+   When Shipwreck Moray enters the battlefield, you get {E} {E} {E} {E} (four energy counters).
 
    Pay {E}: Shipwreck Moray gets +2/-2 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423713&type=card
-   :align: right
 
 Skyship Plunderer
    Flying
@@ -401,22 +263,13 @@ Skyship Plunderer
    Whenever Skyship Plunderer deals combat damage to a player, for each kind of counter on target permanent or player, give that permanent or player another counter of that kind.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423714&type=card
-   :align: right
-
 Take into Custody
    Tap target creature. It doesn't untap during its controller's next untap step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423715&type=card
-   :align: right
-
 Trophy Mage
    When Trophy Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 3, reveal it, put it into your hand, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423716&type=card
-   :align: right
 
 Whir of Invention
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
@@ -424,35 +277,23 @@ Whir of Invention
    Search your library for an artifact card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423717&type=card
-   :align: right
-
 Wind-Kin Raiders
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Flying
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423718&type=card
-   :align: right
-
 Aether Poisoner
    Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 
-   When Aether Poisoner enters the battlefield, you get {E}{E} (two energy counters).
+   When Aether Poisoner enters the battlefield, you get {E} {E} (two energy counters).
 
-   Whenever Aether Poisoner attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.
+   Whenever Aether Poisoner attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423719&type=card
-   :align: right
 
 Alley Strangler
    Menace
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423720&type=card
-   :align: right
 
 Battle at the Bridge
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
@@ -460,29 +301,17 @@ Battle at the Bridge
    Target creature gets -X/-X until end of turn. You gain X life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423721&type=card
-   :align: right
-
 Cruel Finality
    Target creature gets -2/-2 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423722&type=card
-   :align: right
 
 Daring Demolition
    Destroy target creature or Vehicle.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423723&type=card
-   :align: right
-
 Defiant Salvager
    Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate this ability only any time you could cast a sorcery.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423724&type=card
-   :align: right
 
 Fatal Push
    Destroy target creature if it has converted mana cost 2 or less.
@@ -490,17 +319,11 @@ Fatal Push
    Revolt — Destroy that creature if it has converted mana cost 4 or less instead if a permanent you controlled left the battlefield this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423725&type=card
-   :align: right
-
 Fen Hauler
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Fen Hauler can't be blocked by artifact creatures.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423726&type=card
-   :align: right
 
 Foundry Hornet
    Flying
@@ -508,42 +331,27 @@ Foundry Hornet
    When Foundry Hornet enters the battlefield, if you control a creature with a +1/+1 counter on it, creatures your opponents control get -1/-1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423727&type=card
-   :align: right
-
 Fourth Bridge Prowler
    When Fourth Bridge Prowler enters the battlefield, you may have target creature get -1/-1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423728&type=card
-   :align: right
-
 Gifted Aetherborn
    Deathtouch, lifelink
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423729&type=card
-   :align: right
 
 Glint-Sleeve Siphoner
    Menace
 
    Whenever Glint-Sleeve Siphoner enters the battlefield or attacks, you get {E} (an energy counter).
 
-   At the beginning of your upkeep, you may pay {E}{E}. If you do, you draw a card and you lose 1 life.
+   At the beginning of your upkeep, you may pay {E} {E}. If you do, you draw a card and you lose 1 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423730&type=card
-   :align: right
 
 Gonti's Machinations
    Whenever you lose life for the first time each turn, you get {E}. (You get an energy counter. Damage causes loss of life.)
 
-   Pay {E}{E}, Sacrifice Gonti's Machinations: Each opponent loses 3 life. You gain life equal to the life lost this way.
+   Pay {E} {E}, Sacrifice Gonti's Machinations: Each opponent loses 3 life. You gain life equal to the life lost this way.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423731&type=card
-   :align: right
 
 Herald of Anguish
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
@@ -555,15 +363,9 @@ Herald of Anguish
    |mana_1| |mana_b|, Sacrifice an artifact: Target creature gets -2/-2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423732&type=card
-   :align: right
-
 Ironclad Revolutionary
    When Ironclad Revolutionary enters the battlefield, you may sacrifice an artifact. If you do, put two +1/+1 counters on Ironclad Revolutionary and each opponent loses 2 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423733&type=card
-   :align: right
 
 Midnight Entourage
    Other Aetherborn you control get +1/+1.
@@ -571,45 +373,27 @@ Midnight Entourage
    Whenever Midnight Entourage or another Aetherborn you control dies, you draw a card and you lose 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423734&type=card
-   :align: right
-
 Night Market Aeronaut
    Flying
 
    Revolt — Night Market Aeronaut enters the battlefield with a +1/+1 counter on it if a permanent you controlled left the battlefield this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423735&type=card
-   :align: right
-
 Perilous Predicament
    Each opponent sacrifices an artifact creature and a nonartifact creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423736&type=card
-   :align: right
 
 Renegade's Getaway
    Target permanent gains indestructible until end of turn. Create a 1/1 colorless Servo artifact creature token. (Effects that say "destroy" don't destroy a permanent with indestructible, and if it's a creature, it can't be destroyed by damage.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423737&type=card
-   :align: right
-
 Resourceful Return
    Return target creature card from your graveyard to your hand. If you control an artifact, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423738&type=card
-   :align: right
-
 Secret Salvage
    Exile target nonland card from your graveyard. Search your library for any number of cards with the same name as that card, reveal them, and put them into your hand. Then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423739&type=card
-   :align: right
 
 Sly Requisitioner
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
@@ -617,15 +401,9 @@ Sly Requisitioner
    Whenever a nontoken artifact you control is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423740&type=card
-   :align: right
-
 Vengeful Rebel
    Revolt — When Vengeful Rebel enters the battlefield, if a permanent you controlled left the battlefield this turn, target creature an opponent controls gets -3/-3 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423741&type=card
-   :align: right
 
 Yahenni, Undying Partisan
    Haste
@@ -635,35 +413,23 @@ Yahenni, Undying Partisan
    Sacrifice another creature: Yahenni gains indestructible until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423742&type=card
-   :align: right
-
 Yahenni's Expertise
    All creatures get -3/-3 until end of turn.
 
    You may cast a card with converted mana cost 3 or less from your hand without paying its mana cost.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423743&type=card
-   :align: right
-
 Aether Chaser
    First strike
 
-   When Aether Chaser enters the battlefield, you get {E}{E} (two energy counters).
+   When Aether Chaser enters the battlefield, you get {E} {E} (two energy counters).
 
-   Whenever Aether Chaser attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.
+   Whenever Aether Chaser attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423744&type=card
-   :align: right
 
 Chandra's Revolution
    Chandra's Revolution deals 4 damage to target creature. Tap target land. That land doesn't untap during its controller's next untap step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423745&type=card
-   :align: right
 
 Destructive Tampering
    Choose one —
@@ -673,24 +439,15 @@ Destructive Tampering
    • Creatures without flying can't block this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423746&type=card
-   :align: right
-
 Embraal Gear-Smasher
    |tap|, Sacrifice an artifact: Embraal Gear-Smasher deals 2 damage to each opponent.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423747&type=card
-   :align: right
 
 Enraged Giant
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Trample, haste
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423748&type=card
-   :align: right
 
 Freejam Regent
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
@@ -700,15 +457,9 @@ Freejam Regent
    |mana_1| |mana_r|: Freejam Regent gets +2/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423749&type=card
-   :align: right
-
 Frontline Rebel
    Frontline Rebel attacks each combat if able.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423750&type=card
-   :align: right
 
 Gremlin Infestation
    Enchant artifact
@@ -718,22 +469,13 @@ Gremlin Infestation
    When enchanted artifact is put into a graveyard, create a 2/2 red Gremlin creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423751&type=card
-   :align: right
-
 Hungry Flames
    Hungry Flames deals 3 damage to target creature and 2 damage to target player or planeswalker.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423752&type=card
-   :align: right
-
 Indomitable Creativity
    Destroy X target artifacts and/or creatures. For each permanent destroyed this way, its controller reveals cards from the top of their library until an artifact or creature card is revealed and exiles that card. Those players put the exiled cards onto the battlefield, then shuffle their libraries.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423753&type=card
-   :align: right
 
 Invigorated Rampage
    Choose one —
@@ -743,17 +485,11 @@ Invigorated Rampage
    • Two target creatures each get +2/+0 and gain trample until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423754&type=card
-   :align: right
-
 Kari Zev, Skyship Raider
    First strike, menace
 
    Whenever Kari Zev, Skyship Raider attacks, create a legendary 2/1 red Monkey creature token named Ragavan that's tapped and attacking. Exile that token at end of combat.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423755&type=card
-   :align: right
 
 Kari Zev's Expertise
    Gain control of target creature or Vehicle until end of turn. Untap it. It gains haste until end of turn.
@@ -761,52 +497,31 @@ Kari Zev's Expertise
    You may cast a card with converted mana cost 2 or less from your hand without paying its mana cost.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423756&type=card
-   :align: right
-
 Lathnu Sailback
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423757&type=card
-   :align: right
-
 Lightning Runner
    Double strike, haste
 
-   Whenever Lightning Runner attacks, you get {E}{E} (two energy counters), then you may pay {E}{E}{E}{E}{E}{E}{E}{E}. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase.
+   Whenever Lightning Runner attacks, you get {E} {E} (two energy counters), then you may pay {E} {E} {E} {E} {E} {E} {E} {E}. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423758&type=card
-   :align: right
 
 Pia's Revolution
    Whenever a nontoken artifact is put into your graveyard from the battlefield, return that card to your hand unless target opponent has Pia's Revolution deal 3 damage to them.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423759&type=card
-   :align: right
-
 Precise Strike
    Target creature gets +1/+0 and gains first strike until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423760&type=card
-   :align: right
 
 Quicksmith Rebel
    When Quicksmith Rebel enters the battlefield, target artifact you control gains "|tap|: This artifact deals 2 damage to any target" for as long as you control Quicksmith Rebel.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423761&type=card
-   :align: right
-
 Ravenous Intruder
    Sacrifice an artifact: Ravenous Intruder gets +2/+2 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423762&type=card
-   :align: right
 
 Reckless Racer
    First strike
@@ -814,33 +529,21 @@ Reckless Racer
    Whenever Reckless Racer becomes tapped, you may discard a card. If you do, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423763&type=card
-   :align: right
-
 Release the Gremlins
    Destroy X target artifacts. Create X 2/2 red Gremlin creature tokens.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423764&type=card
-   :align: right
-
 Scrapper Champion
    Double strike (This creature deals both first-strike and regular combat damage.)
 
-   When Scrapper Champion enters the battlefield, you get {E}{E} (two energy counters).
+   When Scrapper Champion enters the battlefield, you get {E} {E} (two energy counters).
 
-   Whenever Scrapper Champion attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.
+   Whenever Scrapper Champion attacks, you may pay {E} {E}. If you do, put a +1/+1 counter on it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423765&type=card
-   :align: right
 
 Shock
    Shock deals 2 damage to any target.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423766&type=card
-   :align: right
 
 Siege Modification
    Enchant creature or Vehicle
@@ -850,33 +553,21 @@ Siege Modification
    Enchanted creature gets +3/+0 and has first strike.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423767&type=card
-   :align: right
-
 Sweatworks Brawler
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    Menace
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423768&type=card
-   :align: right
-
 Wrangle
    Gain control of target creature with power 4 or less until end of turn. Untap that creature. It gains haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423769&type=card
-   :align: right
-
 Aether Herder
-   When Aether Herder enters the battlefield, you get {E}{E} (two energy counters).
+   When Aether Herder enters the battlefield, you get {E} {E} (two energy counters).
 
-   Whenever Aether Herder attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.
+   Whenever Aether Herder attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423770&type=card
-   :align: right
 
 Aetherstream Leopard
    Trample
@@ -886,9 +577,6 @@ Aetherstream Leopard
    Whenever Aetherstream Leopard attacks, you may pay {E}. If you do, it gets +2/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423771&type=card
-   :align: right
-
 Aetherwind Basker
    Trample
 
@@ -897,64 +585,37 @@ Aetherwind Basker
    Pay {E}: Aetherwind Basker gets +1/+1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423772&type=card
-   :align: right
-
 Aid from the Cowl
    Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, reveal the top card of your library. If it's a permanent card, you may put it onto the battlefield. Otherwise, you may put it on the bottom of your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423773&type=card
-   :align: right
 
 Druid of the Cowl
    |tap|: Add |mana_g|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423774&type=card
-   :align: right
-
 Greenbelt Rampager
-   When Greenbelt Rampager enters the battlefield, pay {E}{E} (two energy counters). If you can't, return Greenbelt Rampager to its owner's hand and you get {E}.
+   When Greenbelt Rampager enters the battlefield, pay {E} {E} (two energy counters). If you can't, return Greenbelt Rampager to its owner's hand and you get {E}.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423775&type=card
-   :align: right
 
 Greenwheel Liberator
    Revolt — Greenwheel Liberator enters the battlefield with two +1/+1 counters on it if a permanent you controlled left the battlefield this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423776&type=card
-   :align: right
-
 Heroic Intervention
    Permanents you control gain hexproof and indestructible until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423777&type=card
-   :align: right
 
 Hidden Herbalists
    Revolt — When Hidden Herbalists enters the battlefield, if a permanent you controlled left the battlefield this turn, add |mana_g| |mana_g|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423778&type=card
-   :align: right
-
 Highspire Infusion
-   Target creature gets +3/+3 until end of turn. You get {E}{E} (two energy counters).
+   Target creature gets +3/+3 until end of turn. You get {E} {E} (two energy counters).
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423779&type=card
-   :align: right
 
 Lifecraft Awakening
    Put X +1/+1 counters on target artifact you control. If it isn't a creature or Vehicle, it becomes a 0/0 Construct artifact creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423780&type=card
-   :align: right
 
 Lifecraft Cavalry
    Trample
@@ -962,15 +623,9 @@ Lifecraft Cavalry
    Revolt — Lifecraft Cavalry enters the battlefield with two +1/+1 counters on it if a permanent you controlled left the battlefield this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423781&type=card
-   :align: right
-
 Lifecrafter's Gift
    Put a +1/+1 counter on target creature, then put a +1/+1 counter on each creature you control with a +1/+1 counter on it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423782&type=card
-   :align: right
 
 Maulfist Revolutionary
    Trample
@@ -978,15 +633,9 @@ Maulfist Revolutionary
    When Maulfist Revolutionary enters the battlefield or dies, for each kind of counter on target permanent or player, give that permanent or player another counter of that kind.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423783&type=card
-   :align: right
-
 Monstrous Onslaught
    Monstrous Onslaught deals X damage divided as you choose among any number of target creatures, where X is the greatest power among creatures you control as you cast this spell.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423784&type=card
-   :align: right
 
 Narnam Renegade
    Deathtouch
@@ -994,38 +643,23 @@ Narnam Renegade
    Revolt — Narnam Renegade enters the battlefield with a +1/+1 counter on it if a permanent you controlled left the battlefield this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423785&type=card
-   :align: right
-
 Natural Obsolescence
    Put target artifact on the bottom of its owner's library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423786&type=card
-   :align: right
-
 Peema Aether-Seer
    When Peema Aether-Seer enters the battlefield, you get an amount of {E} (energy counters) equal to the greatest power among creatures you control.
 
-   Pay {E}{E}{E}: Target creature blocks this turn if able.
+   Pay {E} {E} {E}: Target creature blocks this turn if able.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423787&type=card
-   :align: right
 
 Prey Upon
    Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423788&type=card
-   :align: right
-
 Ridgescale Tusker
    When Ridgescale Tusker enters the battlefield, put a +1/+1 counter on each other creature you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423789&type=card
-   :align: right
 
 Rishkar, Peema Renegade
    When Rishkar, Peema Renegade enters the battlefield, put a +1/+1 counter on each of up to two target creatures.
@@ -1033,17 +667,11 @@ Rishkar, Peema Renegade
    Each creature you control with a counter on it has "|tap|: Add |mana_g|."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423790&type=card
-   :align: right
-
 Rishkar's Expertise
    Draw cards equal to the greatest power among creatures you control.
 
    You may cast a card with converted mana cost 5 or less from your hand without paying its mana cost.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423791&type=card
-   :align: right
 
 Scrounging Bandar
    Scrounging Bandar enters the battlefield with two +1/+1 counters on it.
@@ -1051,17 +679,11 @@ Scrounging Bandar
    At the beginning of your upkeep, you may move any number of +1/+1 counters from Scrounging Bandar onto another target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423792&type=card
-   :align: right
-
 Silkweaver Elite
    Reach (This creature can block creatures with flying.)
 
    Revolt — When Silkweaver Elite enters the battlefield, if a permanent you controlled left the battlefield this turn, draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423793&type=card
-   :align: right
 
 Unbridled Growth
    Enchant land
@@ -1071,9 +693,6 @@ Unbridled Growth
    Sacrifice Unbridled Growth: Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423794&type=card
-   :align: right
-
 Ajani Unyielding
    +2: Reveal the top three cards of your library. Put all nonland permanent cards revealed this way into your hand and the rest on the bottom of your library in any order.
 
@@ -1082,17 +701,11 @@ Ajani Unyielding
    −9: Put five +1/+1 counters on each creature you control and five loyalty counters on each other planeswalker you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423795&type=card
-   :align: right
-
 Dark Intimations
    Each opponent sacrifices a creature or planeswalker, then discards a card. You return a creature or planeswalker card from your graveyard to your hand, then draw a card.
 
    When you cast a Bolas planeswalker spell, exile Dark Intimations from your graveyard. That planeswalker enters the battlefield with an additional loyalty counter on it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423796&type=card
-   :align: right
 
 Hidden Stockpile
    Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, create a 1/1 colorless Servo artifact creature token.
@@ -1100,17 +713,11 @@ Hidden Stockpile
    |mana_1|, Sacrifice a creature: Scry 1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423797&type=card
-   :align: right
-
 Maverick Thopterist
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
    When Maverick Thopterist enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423798&type=card
-   :align: right
 
 Oath of Ajani
    When Oath of Ajani enters the battlefield, put a +1/+1 counter on each creature you control.
@@ -1118,45 +725,27 @@ Oath of Ajani
    Planeswalker spells you cast cost |mana_1| less to cast.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423799&type=card
-   :align: right
-
 Outland Boar
    Outland Boar can't be blocked by creatures with power 2 or less.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423800&type=card
-   :align: right
 
 Renegade Rallier
    Revolt — When Renegade Rallier enters the battlefield, if a permanent you controlled left the battlefield this turn, return target permanent card with converted mana cost 2 or less from your graveyard to the battlefield.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423801&type=card
-   :align: right
-
 Renegade Wheelsmith
    Whenever Renegade Wheelsmith becomes tapped, target creature can't block this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423802&type=card
-   :align: right
-
 Rogue Refiner
-   When Rogue Refiner enters the battlefield, draw a card and you get {E}{E} (two energy counters).
+   When Rogue Refiner enters the battlefield, draw a card and you get {E} {E} (two energy counters).
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423803&type=card
-   :align: right
 
 Spire Patrol
    Flying
 
    When Spire Patrol enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423804&type=card
-   :align: right
 
 Tezzeret the Schemer
    +1: Create a colorless artifact token named Etherium Cell with "|tap|, Sacrifice this artifact: Add one mana of any color."
@@ -1166,9 +755,6 @@ Tezzeret the Schemer
    −7: You get an emblem with "At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423805&type=card
-   :align: right
-
 Tezzeret's Touch
    Enchant artifact
 
@@ -1177,15 +763,9 @@ Tezzeret's Touch
    When enchanted artifact is put into a graveyard, return that card to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423806&type=card
-   :align: right
-
 Weldfast Engineer
    At the beginning of combat on your turn, target artifact creature you control gets +2/+0 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423807&type=card
-   :align: right
 
 Winding Constrictor
    If one or more counters would be put on an artifact or creature you control, that many plus one of each of those kinds of counters are put on that permanent instead.
@@ -1193,35 +773,23 @@ Winding Constrictor
    If you would get one or more counters, you get that many plus one of each of those kinds of counters instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423808&type=card
-   :align: right
-
 Aegis Automaton
    |mana_4| |mana_w|: Return another target creature you control to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423809&type=card
-   :align: right
-
 Aethersphere Harvester
    Flying
 
-   When Aethersphere Harvester enters the battlefield, you get {E}{E} (two energy counters).
+   When Aethersphere Harvester enters the battlefield, you get {E} {E} (two energy counters).
 
    Pay {E}: Aethersphere Harvester gains lifelink until end of turn.
 
    Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423810&type=card
-   :align: right
-
 Augmenting Automaton
    |mana_1| |mana_b|: Augmenting Automaton gets +1/+1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423811&type=card
-   :align: right
 
 Barricade Breaker
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
@@ -1229,38 +797,23 @@ Barricade Breaker
    Barricade Breaker attacks each combat if able.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423812&type=card
-   :align: right
-
 Cogwork Assembler
    |mana_7|: Create a token that's a copy of target artifact. That token gains haste. Exile it at the beginning of the next end step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423813&type=card
-   :align: right
 
 Consulate Dreadnought
    Crew 6 (Tap any number of creatures you control with total power 6 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423814&type=card
-   :align: right
-
 Consulate Turret
    |tap|: You get {E} (an energy counter).
 
-   |tap|, Pay {E}{E}{E}: Consulate Turret deals 2 damage to target player or planeswalker.
+   |tap|, Pay {E} {E} {E}: Consulate Turret deals 2 damage to target player or planeswalker.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423815&type=card
-   :align: right
 
 Crackdown Construct
    Whenever you activate an ability of an artifact or creature that isn't a mana ability, Crackdown Construct gets +1/+1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423816&type=card
-   :align: right
 
 Daredevil Dragster
    At end of combat, if Daredevil Dragster attacked or blocked this combat, put a velocity counter on it. Then if it has two or more velocity counters on it, sacrifice it and draw two cards.
@@ -1268,31 +821,19 @@ Daredevil Dragster
    Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423817&type=card
-   :align: right
-
 Filigree Crawler
    When Filigree Crawler dies, create a 1/1 colorless Thopter artifact creature token with flying.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423818&type=card
-   :align: right
 
 Foundry Assembler
    Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423819&type=card
-   :align: right
-
 Gonti's Aether Heart
-   Whenever Gonti's Aether Heart or another artifact enters the battlefield under your control, you get {E}{E} (two energy counters).
+   Whenever Gonti's Aether Heart or another artifact enters the battlefield under your control, you get {E} {E} (two energy counters).
 
-   Pay {E}{E}{E}{E}{E}{E}{E}{E}, Exile Gonti's Aether Heart: Take an extra turn after this one.
+   Pay {E} {E} {E} {E} {E} {E} {E} {E}, Exile Gonti's Aether Heart: Take an extra turn after this one.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423820&type=card
-   :align: right
 
 Heart of Kiran
    Flying, vigilance
@@ -1302,17 +843,11 @@ Heart of Kiran
    You may remove a loyalty counter from a planeswalker you control rather than pay Heart of Kiran's crew cost.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423821&type=card
-   :align: right
-
 Hope of Ghirapur
    Flying
 
    Sacrifice Hope of Ghirapur: Until your next turn, target player who was dealt combat damage by Hope of Ghirapur this turn can't cast noncreature spells.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423822&type=card
-   :align: right
 
 Implement of Combustion
    |mana_r|, Sacrifice Implement of Combustion: It deals 1 damage to target player or planeswalker.
@@ -1320,17 +855,11 @@ Implement of Combustion
    When Implement of Combustion is put into a graveyard from the battlefield, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423823&type=card
-   :align: right
-
 Implement of Examination
    |mana_u|, Sacrifice Implement of Examination: Draw a card.
 
    When Implement of Examination is put into a graveyard from the battlefield, draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423824&type=card
-   :align: right
 
 Implement of Ferocity
    |mana_g|, Sacrifice Implement of Ferocity: Put a +1/+1 counter on target creature. Activate this ability only any time you could cast a sorcery.
@@ -1338,17 +867,11 @@ Implement of Ferocity
    When Implement of Ferocity is put into a graveyard from the battlefield, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423825&type=card
-   :align: right
-
 Implement of Improvement
    |mana_w|, Sacrifice Implement of Improvement: You gain 2 life.
 
    When Implement of Improvement is put into a graveyard from the battlefield, draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423826&type=card
-   :align: right
 
 Implement of Malice
    |mana_b|, Sacrifice Implement of Malice: Target player discards a card. Activate this ability only any time you could cast a sorcery.
@@ -1356,22 +879,13 @@ Implement of Malice
    When Implement of Malice is put into a graveyard from the battlefield, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423827&type=card
-   :align: right
-
 Inspiring Statuary
    Nonartifact spells you cast have improvise. (Your artifacts can help cast those spells. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423828&type=card
-   :align: right
-
 Irontread Crusher
    Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423829&type=card
-   :align: right
 
 Lifecrafter's Bestiary
    At the beginning of your upkeep, scry 1.
@@ -1379,15 +893,9 @@ Lifecrafter's Bestiary
    Whenever you cast a creature spell, you may pay |mana_g|. If you do, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423830&type=card
-   :align: right
-
 Merchant's Dockhand
    |mana_3| |mana_u|, |tap|, Tap X untapped artifacts you control: Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423831&type=card
-   :align: right
 
 Metallic Mimic
    As Metallic Mimic enters the battlefield, choose a creature type.
@@ -1397,45 +905,27 @@ Metallic Mimic
    Each other creature you control of the chosen type enters the battlefield with an additional +1/+1 counter on it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423832&type=card
-   :align: right
-
 Mobile Garrison
    Whenever Mobile Garrison attacks, untap another target artifact or creature you control.
 
    Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423833&type=card
-   :align: right
-
 Night Market Guard
    Night Market Guard can block an additional creature each combat.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423834&type=card
-   :align: right
 
 Ornithopter
    Flying
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423835&type=card
-   :align: right
-
 Pacification Array
    |mana_2|, |tap|: Tap target artifact or creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423836&type=card
-   :align: right
-
 Paradox Engine
    Whenever you cast a spell, untap all nonland permanents you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423837&type=card
-   :align: right
 
 Peacewalker Colossus
    |mana_1| |mana_w|: Another target Vehicle you control becomes an artifact creature until end of turn.
@@ -1443,22 +933,13 @@ Peacewalker Colossus
    Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423838&type=card
-   :align: right
-
 Planar Bridge
    |mana_8|, |tap|: Search your library for a permanent card, put it onto the battlefield, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423839&type=card
-   :align: right
-
 Prizefighter Construct
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423840&type=card
-   :align: right
 
 Renegade Map
    Renegade Map enters the battlefield tapped.
@@ -1466,43 +947,25 @@ Renegade Map
    |tap|, Sacrifice Renegade Map: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423841&type=card
-   :align: right
-
 Reservoir Walker
-   When Reservoir Walker enters the battlefield, you gain 3 life and get {E}{E}{E} (three energy counters).
+   When Reservoir Walker enters the battlefield, you gain 3 life and get {E} {E} {E} (three energy counters).
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423842&type=card
-   :align: right
 
 Scrap Trawler
    Whenever Scrap Trawler or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser converted mana cost.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423843&type=card
-   :align: right
-
 Servo Schematic
    When Servo Schematic enters the battlefield or is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423844&type=card
-   :align: right
 
 Treasure Keeper
    When Treasure Keeper dies, reveal cards from the top of your library until you reveal a nonland card with converted mana cost 3 or less. You may cast that card without paying its mana cost. Put all revealed cards not cast this way on the bottom of your library in a random order.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423845&type=card
-   :align: right
-
 Universal Solvent
    |mana_7|, |tap|, Sacrifice Universal Solvent: Destroy target permanent.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423846&type=card
-   :align: right
 
 Untethered Express
    Trample
@@ -1512,15 +975,9 @@ Untethered Express
    Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423847&type=card
-   :align: right
-
 Verdant Automaton
    |mana_3| |mana_g|: Put a +1/+1 counter on Verdant Automaton.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423848&type=card
-   :align: right
 
 Walking Ballista
    Walking Ballista enters the battlefield with X +1/+1 counters on it.
@@ -1530,31 +987,19 @@ Walking Ballista
    Remove a +1/+1 counter from Walking Ballista: It deals 1 damage to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423849&type=card
-   :align: right
-
 Watchful Automaton
    |mana_2| |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423850&type=card
-   :align: right
-
 Welder Automaton
    |mana_3| |mana_r|: Welder Automaton deals 1 damage to each opponent.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=423851&type=card
-   :align: right
 
 Spire of Industry
    |tap|: Add |colorless|.
 
    |tap|, Pay 1 life: Add one mana of any color. Activate this ability only if you control an artifact.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425692&type=card
-   :align: right
 
 Ajani, Valiant Protector
    +2: Put two +1/+1 counters on up to one target creature.
@@ -1564,15 +1009,9 @@ Ajani, Valiant Protector
    −11: Put X +1/+1 counters on target creature, where X is your life total. That creature gains trample until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425693&type=card
-   :align: right
-
 Inspiring Roar
    Put a +1/+1 counter on each creature you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425694&type=card
-   :align: right
 
 Ajani's Comrade
    Trample
@@ -1580,26 +1019,17 @@ Ajani's Comrade
    At the beginning of combat on your turn, if you control an Ajani planeswalker, put a +1/+1 counter on Ajani's Comrade.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425695&type=card
-   :align: right
-
 Ajani's Aid
    When Ajani's Aid enters the battlefield, you may search your library and/or graveyard for a card named Ajani, Valiant Protector, reveal it, and put it into your hand. If you search your library this way, shuffle it.
 
    Sacrifice Ajani's Aid: Prevent all combat damage a creature of your choice would deal this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425696&type=card
-   :align: right
-
 Tranquil Expanse
    Tranquil Expanse enters the battlefield tapped.
 
    |tap|: Add |mana_g| or |mana_w|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425697&type=card
-   :align: right
 
 Tezzeret, Master of Metal
    +1: Reveal cards from the top of your library until you reveal an artifact card. Put that card into your hand and the rest on the bottom of your library in a random order.
@@ -1609,15 +1039,9 @@ Tezzeret, Master of Metal
    −8: Gain control of all artifacts and creatures target opponent controls.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425698&type=card
-   :align: right
-
 Tezzeret's Betrayal
    Destroy target creature. You may search your library and/or graveyard for a card named Tezzeret, Master of Metal, reveal it, and put it into your hand. If you search your library this way, shuffle it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425699&type=card
-   :align: right
 
 Pendulum of Patterns
    When Pendulum of Patterns enters the battlefield, you gain 3 life.
@@ -1625,15 +1049,9 @@ Pendulum of Patterns
    |mana_5|, |tap|, Sacrifice Pendulum of Patterns: Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425700&type=card
-   :align: right
-
 Tezzeret's Simulacrum
    |tap|: Target opponent loses 1 life. If you control a Tezzeret planeswalker, that player loses 3 life instead.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425701&type=card
-   :align: right
 
 Submerged Boneyard
    Submerged Boneyard enters the battlefield tapped.

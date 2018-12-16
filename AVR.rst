@@ -5,17 +5,11 @@ Avacyn Restored
 ===============
         
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239993&type=card
-   :align: right
-
 Angel of Glory's Rise
    Flying
 
    When Angel of Glory's Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240120&type=card
-   :align: right
 
 Angel of Jubilation
    Flying
@@ -25,15 +19,9 @@ Angel of Jubilation
    Players can't pay life or sacrifice creatures to cast spells or activate abilities.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240044&type=card
-   :align: right
-
 Angel's Mercy
    You gain 7 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278065&type=card
-   :align: right
 
 Angelic Wall
    Defender (This creature can't attack.)
@@ -41,15 +29,9 @@ Angelic Wall
    Flying
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240205&type=card
-   :align: right
-
 Archangel
    Flying, vigilance
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239961&type=card
-   :align: right
 
 Avacyn, Angel of Hope
    Flying, vigilance, indestructible
@@ -57,24 +39,15 @@ Avacyn, Angel of Hope
    Other permanents you control have indestructible.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240156&type=card
-   :align: right
-
 Banishing Stroke
    Put target artifact, creature, or enchantment on the bottom of its owner's library.
 
    Miracle |mana_w| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239990&type=card
-   :align: right
-
 Builder's Blessing
    Untapped creatures you control get +0/+2.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240081&type=card
-   :align: right
 
 Call to Serve
    Enchant nonblack creature
@@ -82,29 +55,17 @@ Call to Serve
    Enchanted creature gets +1/+2, has flying, and is an Angel in addition to its other types.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=276198&type=card
-   :align: right
-
 Cathars' Crusade
    Whenever a creature enters the battlefield under your control, put a +1/+1 counter on each creature you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240136&type=card
-   :align: right
 
 Cathedral Sanctifier
    When Cathedral Sanctifier enters the battlefield, you gain 3 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240006&type=card
-   :align: right
-
 Cloudshift
    Exile target creature you control, then return that card to the battlefield under your control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278252&type=card
-   :align: right
 
 Commander's Authority
    Enchant creature
@@ -112,15 +73,9 @@ Commander's Authority
    Enchanted creature has "At the beginning of your upkeep, create a 1/1 white Human creature token."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240124&type=card
-   :align: right
-
 Cursebreak
    Destroy target enchantment. You gain 2 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240087&type=card
-   :align: right
 
 Defang
    Enchant creature
@@ -128,29 +83,17 @@ Defang
    Prevent all damage that would be dealt by enchanted creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239977&type=card
-   :align: right
-
 Defy Death
    Return target creature card from your graveyard to the battlefield. If it's an Angel, put two +1/+1 counters on it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=276195&type=card
-   :align: right
 
 Devout Chaplain
    |tap|, Tap two untapped Humans you control: Exile target artifact or enchantment.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240072&type=card
-   :align: right
-
 Divine Deflection
    Prevent the next X damage that would be dealt to you and/or permanents you control this turn. If damage is prevented this way, Divine Deflection deals that much damage to any target.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239980&type=card
-   :align: right
 
 Emancipation Angel
    Flying
@@ -158,40 +101,25 @@ Emancipation Angel
    When Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247426&type=card
-   :align: right
-
 Entreat the Angels
    Create X 4/4 white Angel creature tokens with flying.
 
    Miracle |mana_x| |mana_w| |mana_w| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240108&type=card
-   :align: right
-
 Farbog Explorer
    Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240029&type=card
-   :align: right
-
 Goldnight Commander
    Whenever another creature enters the battlefield under your control, creatures you control get +1/+1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239998&type=card
-   :align: right
 
 Goldnight Redeemer
    Flying
 
    When Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240161&type=card
-   :align: right
 
 Herald of War
    Flying
@@ -201,36 +129,21 @@ Herald of War
    Angel spells and Human spells you cast cost |mana_1| less to cast for each +1/+1 counter on Herald of War.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240025&type=card
-   :align: right
-
 Holy Justiciar
    |mana_2| |mana_w|, |tap|: Tap target creature. If that creature is a Zombie, exile it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240023&type=card
-   :align: right
 
 Leap of Faith
    Target creature gains flying until end of turn. Prevent all damage that would be dealt to that creature this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239994&type=card
-   :align: right
-
 Midnight Duelist
    Protection from Vampires
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278066&type=card
-   :align: right
-
 Midvast Protector
    When Midvast Protector enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278059&type=card
-   :align: right
 
 Moonlight Geist
    Flying
@@ -238,24 +151,15 @@ Moonlight Geist
    |mana_3| |mana_w|: Prevent all combat damage that would be dealt to and dealt by Moonlight Geist this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262849&type=card
-   :align: right
-
 Moorland Inquisitor
    |mana_2| |mana_w|: Moorland Inquisitor gains first strike until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240132&type=card
-   :align: right
 
 Nearheath Pilgrim
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Nearheath Pilgrim is paired with another creature, both creatures have lifelink.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240096&type=card
-   :align: right
 
 Restoration Angel
    Flash
@@ -265,9 +169,6 @@ Restoration Angel
    When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240015&type=card
-   :align: right
-
 Riders of Gavony
    Vigilance
 
@@ -276,15 +177,9 @@ Riders of Gavony
    Human creatures you control have protection from creatures of the chosen type.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240185&type=card
-   :align: right
-
 Righteous Blow
    Righteous Blow deals 2 damage to target attacking or blocking creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240078&type=card
-   :align: right
 
 Seraph of Dawn
    Flying
@@ -292,17 +187,11 @@ Seraph of Dawn
    Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240155&type=card
-   :align: right
-
 Silverblade Paladin
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Silverblade Paladin is paired with another creature, both creatures have double strike.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240038&type=card
-   :align: right
 
 Spectral Gateguards
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
@@ -310,24 +199,15 @@ Spectral Gateguards
    As long as Spectral Gateguards is paired with another creature, both creatures have vigilance.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262703&type=card
-   :align: right
-
 Terminus
    Put all creatures on the bottom of their owners' libraries.
 
    Miracle |mana_w| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240099&type=card
-   :align: right
-
 Thraben Valiant
    Vigilance
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240173&type=card
-   :align: right
 
 Voice of the Provinces
    Flying
@@ -335,36 +215,21 @@ Voice of the Provinces
    When Voice of the Provinces enters the battlefield, create a 1/1 white Human creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240019&type=card
-   :align: right
-
 Zealous Strike
    Target creature gets +2/+2 and gains first strike until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240031&type=card
-   :align: right
 
 Alchemist's Apprentice
    Sacrifice Alchemist's Apprentice: Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270988&type=card
-   :align: right
-
 Amass the Components
    Draw three cards, then put a card from your hand on the bottom of your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270993&type=card
-   :align: right
-
 Arcane Melee
    Instant and sorcery spells cost |mana_2| less to cast.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=275713&type=card
-   :align: right
 
 Captain of the Mists
    Whenever another Human enters the battlefield under your control, untap Captain of the Mists.
@@ -372,17 +237,11 @@ Captain of the Mists
    |mana_1| |mana_u|, |tap|: You may tap or untap target permanent.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240042&type=card
-   :align: right
-
 Crippling Chill
    Tap target creature. It doesn't untap during its controller's next untap step.
 
    Draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240022&type=card
-   :align: right
 
 Deadeye Navigator
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
@@ -390,24 +249,15 @@ Deadeye Navigator
    As long as Deadeye Navigator is paired with another creature, each of those creatures has "|mana_1| |mana_u|: Exile this creature, then return it to the battlefield under your control."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=275720&type=card
-   :align: right
-
 Devastation Tide
    Return all nonland permanents to their owners' hands.
 
    Miracle |mana_1| |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240008&type=card
-   :align: right
-
 Dreadwaters
    Target player puts the top X cards of their library into their graveyard, where X is the number of lands you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239968&type=card
-   :align: right
 
 Elgaud Shieldmate
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
@@ -415,15 +265,9 @@ Elgaud Shieldmate
    As long as Elgaud Shieldmate is paired with another creature, both creatures have hexproof. (They can't be the targets of spells or abilities your opponents control.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240131&type=card
-   :align: right
-
 Favorable Winds
    Creatures you control with flying get +1/+1.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240080&type=card
-   :align: right
 
 Fettergeist
    Flying
@@ -431,17 +275,11 @@ Fettergeist
    At the beginning of your upkeep, sacrifice Fettergeist unless you pay |mana_1| for each other creature you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240162&type=card
-   :align: right
-
 Fleeting Distraction
    Target creature gets -1/-0 until end of turn.
 
    Draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240211&type=card
-   :align: right
 
 Galvanic Alchemist
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
@@ -449,29 +287,17 @@ Galvanic Alchemist
    As long as Galvanic Alchemist is paired with another creature, each of those creatures has "|mana_2| |mana_u|: Untap this creature."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240021&type=card
-   :align: right
-
 Geist Snatch
    Counter target creature spell. Create a 1/1 blue Spirit creature token with flying.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240003&type=card
-   :align: right
 
 Ghostform
    Up to two target creatures can't be blocked this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240101&type=card
-   :align: right
-
 Ghostly Flicker
    Exile two target artifacts, creatures, and/or lands you control, then return those cards to the battlefield under your control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278260&type=card
-   :align: right
 
 Ghostly Touch
    Enchant creature
@@ -479,24 +305,15 @@ Ghostly Touch
    Enchanted creature has "Whenever this creature attacks, you may tap or untap target permanent."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239982&type=card
-   :align: right
-
 Gryff Vanguard
    Flying
 
    When Gryff Vanguard enters the battlefield, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240094&type=card
-   :align: right
-
 Havengul Skaab
    Whenever Havengul Skaab attacks, return another creature you control to its owner's hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271117&type=card
-   :align: right
 
 Infinite Reflection
    Enchant creature
@@ -506,22 +323,13 @@ Infinite Reflection
    Nontoken creatures you control enter the battlefield as a copy of enchanted creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278064&type=card
-   :align: right
-
 Into the Void
    Return up to two target creatures to their owners' hands.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240005&type=card
-   :align: right
-
 Latch Seeker
    Latch Seeker can't be blocked.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=275706&type=card
-   :align: right
 
 Lone Revenant
    Hexproof (This creature can't be the target of spells or abilities your opponents control.)
@@ -529,22 +337,13 @@ Lone Revenant
    Whenever Lone Revenant deals combat damage to a player, if you control no other creatures, look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=275717&type=card
-   :align: right
-
 Lunar Mystic
    Whenever you cast an instant spell, you may pay |mana_1|. If you do, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240095&type=card
-   :align: right
-
 Mass Appeal
    Draw a card for each Human you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271121&type=card
-   :align: right
 
 Mist Raven
    Flying
@@ -552,45 +351,27 @@ Mist Raven
    When Mist Raven enters the battlefield, return target creature to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=276504&type=card
-   :align: right
-
 Misthollow Griffin
    Flying
 
    You may cast Misthollow Griffin from exile.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240159&type=card
-   :align: right
-
 Nephalia Smuggler
    |mana_3| |mana_u|, |tap|: Exile another target creature you control, then return that card to the battlefield under your control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240050&type=card
-   :align: right
 
 Outwit
    Counter target spell that targets a player.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240141&type=card
-   :align: right
-
 Peel from Reality
    Return target creature you control and target creature you don't control to their owners' hands.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240058&type=card
-   :align: right
-
 Rotcrown Ghoul
    When Rotcrown Ghoul dies, target player puts the top five cards of their library into their graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240035&type=card
-   :align: right
 
 Scrapskin Drake
    Flying (This creature can't be blocked except by creatures with flying or reach.)
@@ -598,15 +379,9 @@ Scrapskin Drake
    Scrapskin Drake can block only creatures with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240063&type=card
-   :align: right
-
 Second Guess
    Counter target spell that's the second spell cast this turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239967&type=card
-   :align: right
 
 Spectral Prison
    Enchant creature
@@ -616,9 +391,6 @@ Spectral Prison
    When enchanted creature becomes the target of a spell, sacrifice Spectral Prison.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239986&type=card
-   :align: right
-
 Spirit Away
    Enchant creature
 
@@ -627,24 +399,15 @@ Spirit Away
    Enchanted creature gets +2/+2 and has flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240069&type=card
-   :align: right
-
 Stern Mentor
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Stern Mentor is paired with another creature, each of those creatures has "|tap|: Target player puts the top two cards of their library into their graveyard."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=275718&type=card
-   :align: right
-
 Stolen Goods
    Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240070&type=card
-   :align: right
 
 Tamiyo, the Moon Sage
    +1: Tap target permanent. It doesn't untap during its controller's next untap step.
@@ -654,17 +417,11 @@ Tamiyo, the Moon Sage
    −8: You get an emblem with "You have no maximum hand size" and "Whenever a card is put into your graveyard from anywhere, you may return it to your hand."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240203&type=card
-   :align: right
-
 Tandem Lookout
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Tandem Lookout is paired with another creature, each of those creatures has "Whenever this creature deals damage to an opponent, draw a card."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240133&type=card
-   :align: right
 
 Temporal Mastery
    Take an extra turn after this one. Exile Temporal Mastery.
@@ -672,17 +429,11 @@ Temporal Mastery
    Miracle |mana_1| |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240130&type=card
-   :align: right
-
 Vanishment
    Put target nonland permanent on top of its owner's library.
 
    Miracle |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239979&type=card
-   :align: right
 
 Wingcrafter
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
@@ -690,36 +441,21 @@ Wingcrafter
    As long as Wingcrafter is paired with another creature, both creatures have flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=279612&type=card
-   :align: right
-
 Appetite for Brains
    Target opponent reveals their hand. You choose a card from it with converted mana cost 4 or greater and exile that card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240010&type=card
-   :align: right
 
 Barter in Blood
    Each player sacrifices two creatures.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240178&type=card
-   :align: right
-
 Blood Artist
    Whenever Blood Artist or another creature dies, target player loses 1 life and you gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240196&type=card
-   :align: right
-
 Bloodflow Connoisseur
    Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239983&type=card
-   :align: right
 
 Bone Splinters
    As an additional cost to cast this spell, sacrifice a creature.
@@ -727,29 +463,17 @@ Bone Splinters
    Destroy target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271115&type=card
-   :align: right
-
 Butcher Ghoul
    Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239971&type=card
-   :align: right
 
 Corpse Traders
    |mana_2| |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240104&type=card
-   :align: right
-
 Crypt Creeper
    Sacrifice Crypt Creeper: Exile target card from a graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240153&type=card
-   :align: right
 
 Dark Impostor
    |mana_4| |mana_b| |mana_b|: Exile target creature and put a +1/+1 counter on Dark Impostor.
@@ -757,31 +481,19 @@ Dark Impostor
    Dark Impostor has all activated abilities of all creature cards exiled with it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240207&type=card
-   :align: right
-
 Death Wind
    Target creature gets -X/-X until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278060&type=card
-   :align: right
-
 Demonic Rising
    At the beginning of your end step, if you control exactly one creature, create a 5/5 black Demon creature token with flying.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271092&type=card
-   :align: right
 
 Demonic Taskmaster
    Flying
 
    At the beginning of your upkeep, sacrifice a creature other than Demonic Taskmaster.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240166&type=card
-   :align: right
 
 Demonlord of Ashmouth
    Flying
@@ -791,36 +503,21 @@ Demonlord of Ashmouth
    Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240119&type=card
-   :align: right
-
 Descent into Madness
    At the beginning of your upkeep, put a despair counter on Descent into Madness, then each player exiles X permanents they control and/or cards from their hand, where X is the number of despair counters on Descent into Madness.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240007&type=card
-   :align: right
 
 Dread Slaver
    Whenever a creature dealt damage by Dread Slaver this turn dies, return it to the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239963&type=card
-   :align: right
-
 Driver of the Dead
    When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271114&type=card
-   :align: right
-
 Essence Harvest
    Target player loses X life and you gain X life, where X is the greatest power among creatures you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240125&type=card
-   :align: right
 
 Evernight Shade
    |mana_b|: Evernight Shade gets +1/+1 until end of turn.
@@ -828,15 +525,9 @@ Evernight Shade
    Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240134&type=card
-   :align: right
-
 Exquisite Blood
    Whenever an opponent loses life, you gain that much life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239970&type=card
-   :align: right
 
 Ghoulflesh
    Enchant creature
@@ -844,22 +535,13 @@ Ghoulflesh
    Enchanted creature gets -1/-1 and is a black Zombie in addition to its other colors and types.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240165&type=card
-   :align: right
-
 Gloom Surgeon
    If combat damage would be dealt to Gloom Surgeon, prevent that damage and exile that many cards from the top of your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=279611&type=card
-   :align: right
-
 Grave Exchange
    Return target creature card from your graveyard to your hand. Target player sacrifices a creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239995&type=card
-   :align: right
 
 Griselbrand
    Flying, lifelink
@@ -867,52 +549,31 @@ Griselbrand
    Pay 7 life: Draw seven cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240199&type=card
-   :align: right
-
 Harvester of Souls
    Deathtouch
 
    Whenever another nontoken creature dies, you may draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240039&type=card
-   :align: right
-
 Homicidal Seclusion
    As long as you control exactly one creature, that creature gets +3/+1 and has lifelink.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=279609&type=card
-   :align: right
 
 Human Frailty
    Destroy target Human creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240057&type=card
-   :align: right
-
 Hunted Ghoul
    Hunted Ghoul can't block Humans.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240180&type=card
-   :align: right
 
 Killing Wave
    For each creature, its controller sacrifices it unless they pay X life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240012&type=card
-   :align: right
-
 Maalfeld Twins
    When Maalfeld Twins dies, create two 2/2 black Zombie creature tokens.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240163&type=card
-   :align: right
 
 Marrow Bats
    Flying
@@ -920,29 +581,17 @@ Marrow Bats
    Pay 4 life: Regenerate Marrow Bats.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239966&type=card
-   :align: right
-
 Mental Agony
    Target player discards two cards and loses 2 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240187&type=card
-   :align: right
 
 Necrobite
    Target creature gains deathtouch until end of turn. Regenerate it. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat. Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=276197&type=card
-   :align: right
-
 Polluted Dead
    When Polluted Dead dies, destroy target land.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271122&type=card
-   :align: right
 
 Predator's Gambit
    Enchant creature
@@ -952,15 +601,9 @@ Predator's Gambit
    Enchanted creature has intimidate as long as its controller controls no other creatures. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239960&type=card
-   :align: right
-
 Renegade Demon
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240020&type=card
-   :align: right
 
 Searchlight Geist
    Flying
@@ -968,15 +611,9 @@ Searchlight Geist
    |mana_3| |mana_b|: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240150&type=card
-   :align: right
-
 Soulcage Fiend
    When Soulcage Fiend dies, each player loses 3 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271113&type=card
-   :align: right
 
 Treacherous Pit-Dweller
    When Treacherous Pit-Dweller enters the battlefield from a graveyard, target opponent gains control of it.
@@ -984,22 +621,13 @@ Treacherous Pit-Dweller
    Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=276502&type=card
-   :align: right
-
 Triumph of Cruelty
    At the beginning of your upkeep, target opponent discards a card if you control the creature with the greatest power or tied for the greatest power.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240171&type=card
-   :align: right
-
 Undead Executioner
    When Undead Executioner dies, you may have target creature get -2/-2 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239974&type=card
-   :align: right
 
 Unhallowed Pact
    Enchant creature
@@ -1007,15 +635,9 @@ Unhallowed Pact
    When enchanted creature dies, return that card to the battlefield under your control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=275707&type=card
-   :align: right
-
 Aggravate
    Aggravate deals 1 damage to each creature target player controls. Each creature dealt damage this way attacks this turn if able.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278063&type=card
-   :align: right
 
 Archwing Dragon
    Flying, haste
@@ -1023,22 +645,13 @@ Archwing Dragon
    At the beginning of the end step, return Archwing Dragon to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240014&type=card
-   :align: right
-
 Banners Raised
    Creatures you control get +1/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270996&type=card
-   :align: right
-
 Battle Hymn
    Add |mana_r| for each creature you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271095&type=card
-   :align: right
 
 Bonfire of the Damned
    Bonfire of the Damned deals X damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.
@@ -1046,31 +659,19 @@ Bonfire of the Damned
    Miracle |mana_x| |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271120&type=card
-   :align: right
-
 Burn at the Stake
    As an additional cost to cast this spell, tap any number of untapped creatures you control.
 
    Burn at the Stake deals damage to any target equal to three times the number of creatures tapped this way.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240202&type=card
-   :align: right
-
 Dangerous Wager
    Discard your hand, then draw two cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240060&type=card
-   :align: right
-
 Demolish
    Destroy target artifact or land.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240138&type=card
-   :align: right
 
 Dual Casting
    Enchant creature
@@ -1078,17 +679,11 @@ Dual Casting
    Enchanted creature has "|mana_r|, |tap|: Copy target instant or sorcery spell you control. You may choose new targets for the copy."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=276499&type=card
-   :align: right
-
 Falkenrath Exterminator
    Whenever Falkenrath Exterminator deals combat damage to a player, put a +1/+1 counter on it.
 
    |mana_2| |mana_r|: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240122&type=card
-   :align: right
 
 Fervent Cathar
    Haste
@@ -1096,15 +691,9 @@ Fervent Cathar
    When Fervent Cathar enters the battlefield, target creature can't block this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240167&type=card
-   :align: right
-
 Gang of Devils
    When Gang of Devils dies, it deals 3 damage divided as you choose among one, two, or three targets.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240002&type=card
-   :align: right
 
 Guise of Fire
    Enchant creature
@@ -1112,17 +701,11 @@ Guise of Fire
    Enchanted creature gets +1/-1 and attacks each combat if able.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240073&type=card
-   :align: right
-
 Hanweir Lancer
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Hanweir Lancer is paired with another creature, both creatures have first strike.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240152&type=card
-   :align: right
 
 Havengul Vampire
    Whenever Havengul Vampire deals combat damage to a player, put a +1/+1 counter on it.
@@ -1130,17 +713,11 @@ Havengul Vampire
    Whenever another creature dies, put a +1/+1 counter on Havengul Vampire.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240201&type=card
-   :align: right
-
 Heirs of Stromkirk
    Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
    Whenever Heirs of Stromkirk deals combat damage to a player, put a +1/+1 counter on it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240146&type=card
-   :align: right
 
 Hound of Griselbrand
    Double strike
@@ -1148,22 +725,13 @@ Hound of Griselbrand
    Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240114&type=card
-   :align: right
-
 Kessig Malcontents
    When Kessig Malcontents enters the battlefield, it deals damage to target player or planeswalker equal to the number of Humans you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240093&type=card
-   :align: right
-
 Kruin Striker
    Whenever another creature enters the battlefield under your control, Kruin Striker gets +1/+0 and gains trample until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271119&type=card
-   :align: right
 
 Lightning Mauler
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
@@ -1171,17 +739,11 @@ Lightning Mauler
    As long as Lightning Mauler is paired with another creature, both creatures have haste.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240086&type=card
-   :align: right
-
 Lightning Prowess
    Enchant creature
 
    Enchanted creature has haste and "|tap|: This creature deals 1 damage to any target."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240107&type=card
-   :align: right
 
 Mad Prophet
    Haste
@@ -1189,17 +751,11 @@ Mad Prophet
    |tap|, Discard a card: Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=279615&type=card
-   :align: right
-
 Malicious Intent
    Enchant creature
 
    Enchanted creature has "|tap|: Target creature can't block this turn."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240062&type=card
-   :align: right
 
 Malignus
    Malignus's power and toughness are each equal to half the highest life total among your opponents, rounded up.
@@ -1207,22 +763,13 @@ Malignus
    Damage that would be dealt by Malignus can't be prevented.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240013&type=card
-   :align: right
-
 Pillar of Flame
    Pillar of Flame deals 2 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240188&type=card
-   :align: right
-
 Raging Poltergeist
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278256&type=card
-   :align: right
 
 Reforge the Soul
    Each player discards their hand, then draws seven cards.
@@ -1230,43 +777,25 @@ Reforge the Soul
    Miracle |mana_1| |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239987&type=card
-   :align: right
-
 Riot Ringleader
    Whenever Riot Ringleader attacks, Human creatures you control get +1/+0 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240126&type=card
-   :align: right
 
 Rite of Ruin
    Choose an order for artifacts, creatures, and lands. Each player sacrifices one permanent of the first type, sacrifices two of the second type, then sacrifices three of the third type.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240183&type=card
-   :align: right
-
 Rush of Blood
    Target creature gets +X/+0 until end of turn, where X is its power.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239984&type=card
-   :align: right
 
 Scalding Devil
    |mana_2| |mana_r|: Scalding Devil deals 1 damage to target player or planeswalker.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240028&type=card
-   :align: right
-
 Somberwald Vigilante
    Whenever Somberwald Vigilante becomes blocked by a creature, Somberwald Vigilante deals 1 damage to that creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239975&type=card
-   :align: right
 
 Stonewright
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
@@ -1274,15 +803,9 @@ Stonewright
    As long as Stonewright is paired with another creature, each of those creatures has "|mana_r|: This creature gets +1/+0 until end of turn."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239959&type=card
-   :align: right
-
 Thatcher Revolt
    Create three 1/1 red Human creature tokens with haste. Sacrifice those tokens at the beginning of the next end step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240001&type=card
-   :align: right
 
 Thunderbolt
    Choose one —
@@ -1292,17 +815,11 @@ Thunderbolt
    • Thunderbolt deals 4 damage to target creature with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239985&type=card
-   :align: right
-
 Thunderous Wrath
    Thunderous Wrath deals 5 damage to any target.
 
    Miracle |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=276497&type=card
-   :align: right
 
 Tibalt, the Fiend-Blooded
    +1: Draw a card, then discard a card at random.
@@ -1312,45 +829,27 @@ Tibalt, the Fiend-Blooded
    −6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=276194&type=card
-   :align: right
-
 Tyrant of Discord
    When Tyrant of Discord enters the battlefield, target opponent chooses a permanent they control at random and sacrifices it. If a nonland permanent is sacrificed this way, repeat this process.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240097&type=card
-   :align: right
 
 Uncanny Speed
    Target creature gets +3/+0 and gains haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278257&type=card
-   :align: right
-
 Vexing Devil
    When Vexing Devil enters the battlefield, any opponent may have it deal 4 damage to them. If a player does, sacrifice Vexing Devil.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240032&type=card
-   :align: right
-
 Vigilante Justice
    Whenever a Human enters the battlefield under your control, Vigilante Justice deals 1 damage to any target.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240082&type=card
-   :align: right
 
 Zealous Conscripts
    Haste
 
    When Zealous Conscripts enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240017&type=card
-   :align: right
 
 Abundant Growth
    Enchant land
@@ -1360,31 +859,19 @@ Abundant Growth
    Enchanted land has "|tap|: Add one mana of any color."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240040&type=card
-   :align: right
-
 Blessings of Nature
    Distribute four +1/+1 counters among any number of target creatures.
 
    Miracle |mana_g| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239964&type=card
-   :align: right
-
 Borderland Ranger
    When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278255&type=card
-   :align: right
-
 Bower Passage
    Creatures with flying can't block creatures you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=279608&type=card
-   :align: right
 
 Champion of Lambholt
    Creatures with power less than Champion of Lambholt's power can't block creatures you control.
@@ -1392,24 +879,15 @@ Champion of Lambholt
    Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240027&type=card
-   :align: right
-
 Craterhoof Behemoth
    Haste
 
    When Craterhoof Behemoth enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=276498&type=card
-   :align: right
-
 Descendants' Path
    At the beginning of your upkeep, reveal the top card of your library. If it's a creature card that shares a creature type with a creature you control, you may cast that card without paying its mana cost. Otherwise, put that card on the bottom of your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240137&type=card
-   :align: right
 
 Diregraf Escort
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
@@ -1417,17 +895,11 @@ Diregraf Escort
    As long as Diregraf Escort is paired with another creature, both creatures have protection from Zombies.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240088&type=card
-   :align: right
-
 Druid's Familiar
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Druid's Familiar is paired with another creature, each of those creatures gets +2/+2.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240135&type=card
-   :align: right
 
 Druids' Repository
    Whenever a creature you control attacks, put a charge counter on Druids' Repository.
@@ -1435,22 +907,13 @@ Druids' Repository
    Remove a charge counter from Druids' Repository: Add one mana of any color.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270987&type=card
-   :align: right
-
 Eaten by Spiders
    Destroy target creature with flying and all Equipment attached to that creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240209&type=card
-   :align: right
-
 Flowering Lumberknot
    Flowering Lumberknot can't attack or block unless it's paired with a creature with soulbond.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240024&type=card
-   :align: right
 
 Geist Trappers
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
@@ -1458,17 +921,11 @@ Geist Trappers
    As long as Geist Trappers is paired with another creature, both creatures have reach.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278254&type=card
-   :align: right
-
 Gloomwidow
    Reach
 
    Gloomwidow can block only creatures with flying.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240009&type=card
-   :align: right
 
 Grounded
    Enchant creature
@@ -1476,45 +933,27 @@ Grounded
    Enchanted creature loses flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240102&type=card
-   :align: right
-
 Howlgeist
    Creatures with power less than Howlgeist's power can't block it.
 
    Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240049&type=card
-   :align: right
-
 Joint Assault
    Target creature gets +2/+2 until end of turn. If it's paired with a creature, that creature also gets +2/+2 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271093&type=card
-   :align: right
 
 Lair Delve
    Reveal the top two cards of your library. Put all creature and land cards revealed this way into your hand and the rest on the bottom of your library in any order.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240076&type=card
-   :align: right
-
 Natural End
    Destroy target artifact or enchantment. You gain 3 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239978&type=card
-   :align: right
-
 Nettle Swine
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240045&type=card
-   :align: right
 
 Nightshade Peddler
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
@@ -1522,24 +961,15 @@ Nightshade Peddler
    As long as Nightshade Peddler is paired with another creature, both creatures have deathtouch.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240103&type=card
-   :align: right
-
 Pathbreaker Wurm
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Pathbreaker Wurm is paired with another creature, both creatures have trample.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240158&type=card
-   :align: right
-
 Primal Surge
    Exile the top card of your library. If it's a permanent card, you may put it onto the battlefield. If you do, repeat this process.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240169&type=card
-   :align: right
 
 Rain of Thorns
    Choose one or more —
@@ -1551,38 +981,23 @@ Rain of Thorns
    • Destroy target land.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=275712&type=card
-   :align: right
-
 Revenge of the Hunted
    Until end of turn, target creature gets +6/+6 and gains trample, and all creatures able to block it this turn do so.
 
    Miracle |mana_g| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240004&type=card
-   :align: right
-
 Sheltering Word
    Target creature you control gains hexproof until end of turn. You gain life equal to that creature's toughness. (A creature with hexproof can't be the target of spells or abilities your opponents control.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271090&type=card
-   :align: right
 
 Snare the Skies
    Target creature gets +1/+1 and gains reach until end of turn. (It can block creatures with flying.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=275711&type=card
-   :align: right
-
 Somberwald Sage
    |tap|: Add three mana of any one color. Spend this mana only to cast creature spells.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240179&type=card
-   :align: right
 
 Soul of the Harvest
    Trample
@@ -1590,29 +1005,17 @@ Soul of the Harvest
    Whenever another nontoken creature enters the battlefield under your control, you may draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240066&type=card
-   :align: right
-
 Terrifying Presence
    Prevent all combat damage that would be dealt by creatures other than target creature this turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240048&type=card
-   :align: right
 
 Timberland Guide
    When Timberland Guide enters the battlefield, put a +1/+1 counter on target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239962&type=card
-   :align: right
-
 Triumph of Ferocity
    At the beginning of your upkeep, draw a card if you control the creature with the greatest power or tied for the greatest power.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240064&type=card
-   :align: right
 
 Trusted Forcemage
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
@@ -1620,43 +1023,25 @@ Trusted Forcemage
    As long as Trusted Forcemage is paired with another creature, each of those creatures gets +1/+1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240154&type=card
-   :align: right
-
 Ulvenwald Tracker
    |mana_1| |mana_g|, |tap|: Target creature you control fights another target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240204&type=card
-   :align: right
 
 Vorstclaw
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240051&type=card
-   :align: right
-
 Wandering Wolf
    Creatures with power less than Wandering Wolf's power can't block it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=276199&type=card
-   :align: right
 
 Wild Defiance
    Whenever a creature you control becomes the target of an instant or sorcery spell, that creature gets +3/+3 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240098&type=card
-   :align: right
-
 Wildwood Geist
    Wildwood Geist gets +2/+2 as long as it's your turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=276501&type=card
-   :align: right
 
 Wolfir Avenger
    Flash (You may cast this spell any time you could cast an instant.)
@@ -1664,33 +1049,21 @@ Wolfir Avenger
    |mana_1| |mana_g|: Regenerate Wolfir Avenger.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240090&type=card
-   :align: right
-
 Wolfir Silverheart
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
    As long as Wolfir Silverheart is paired with another creature, each of those creatures gets +4/+4.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240157&type=card
-   :align: right
-
 Yew Spirit
    |mana_2| |mana_g| |mana_g|: Yew Spirit gets +X/+X until end of turn, where X is its power.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240208&type=card
-   :align: right
 
 Bruna, Light of Alabaster
    Flying, vigilance
 
    Whenever Bruna, Light of Alabaster attacks or blocks, you may attach to it any number of Auras on the battlefield and you may put onto the battlefield attached to it any number of Aura cards that could enchant it from your graveyard and/or hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240034&type=card
-   :align: right
 
 Gisela, Blade of Goldnight
    Flying, first strike
@@ -1700,33 +1073,21 @@ Gisela, Blade of Goldnight
    If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240033&type=card
-   :align: right
-
 Sigarda, Host of Herons
    Flying, hexproof
 
    Spells and abilities your opponents control can't cause you to sacrifice permanents.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240059&type=card
-   :align: right
-
 Angel's Tomb
    Whenever a creature enters the battlefield under your control, you may have Angel's Tomb become a 3/3 white Angel artifact creature with flying until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240074&type=card
-   :align: right
 
 Angelic Armaments
    Equipped creature gets +2/+2, has flying, and is a white Angel in addition to its other colors and types.
 
    Equip |mana_4|
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239965&type=card
-   :align: right
 
 Bladed Bracers
    Equipped creature gets +1/+1.
@@ -1736,29 +1097,17 @@ Bladed Bracers
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240030&type=card
-   :align: right
-
 Conjurer's Closet
    At the beginning of your end step, you may exile target creature you control, then return that card to the battlefield under your control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262674&type=card
-   :align: right
 
 Gallows at Willow Hill
    |mana_3|, |tap|, Tap three untapped Humans you control: Destroy target creature. Its controller creates a 1/1 white Spirit creature token with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=279613&type=card
-   :align: right
-
 Haunted Guardian
    Defender, first strike
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240065&type=card
-   :align: right
 
 Moonsilver Spear
    Equipped creature has first strike.
@@ -1768,15 +1117,9 @@ Moonsilver Spear
    Equip |mana_4|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=279607&type=card
-   :align: right
-
 Narstad Scrapper
    |mana_2|: Narstad Scrapper gets +1/+0 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240052&type=card
-   :align: right
 
 Otherworld Atlas
    |tap|: Put a charge counter on Otherworld Atlas.
@@ -1784,22 +1127,13 @@ Otherworld Atlas
    |tap|: Each player draws a card for each charge counter on Otherworld Atlas.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240105&type=card
-   :align: right
-
 Scroll of Avacyn
    |mana_1|, Sacrifice Scroll of Avacyn: Draw a card. If you control an Angel, you gain 5 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240177&type=card
-   :align: right
-
 Scroll of Griselbrand
    |mana_1|, Sacrifice Scroll of Griselbrand: Target opponent discards a card. If you control a Demon, that player loses 3 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=239989&type=card
-   :align: right
 
 Tormentor's Trident
    Equipped creature gets +3/+0 and attacks each combat if able.
@@ -1807,17 +1141,11 @@ Tormentor's Trident
    Equip |mana_3|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240198&type=card
-   :align: right
-
 Vanguard's Shield
    Equipped creature gets +0/+3 and can block an additional creature each combat.
 
    Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only as a sorcery.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240149&type=card
-   :align: right
 
 Vessel of Endless Rest
    When Vessel of Endless Rest enters the battlefield, put target card from a graveyard on the bottom of its owner's library.
@@ -1825,17 +1153,11 @@ Vessel of Endless Rest
    |tap|: Add one mana of any color.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240194&type=card
-   :align: right
-
 Alchemist's Refuge
    |tap|: Add |colorless|.
 
    |mana_g| |mana_u|, |tap|: You may cast spells this turn as though they had flash.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=278058&type=card
-   :align: right
 
 Cavern of Souls
    As Cavern of Souls enters the battlefield, choose a creature type.
@@ -1845,17 +1167,11 @@ Cavern of Souls
    |tap|: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240147&type=card
-   :align: right
-
 Desolate Lighthouse
    |tap|: Add |colorless|.
 
    |mana_1| |mana_u| |mana_r|, |tap|: Draw a card, then discard a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240175&type=card
-   :align: right
 
 Seraph Sanctuary
    When Seraph Sanctuary enters the battlefield, you gain 1 life.
@@ -1865,115 +1181,67 @@ Seraph Sanctuary
    |tap|: Add |colorless|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=240170&type=card
-   :align: right
-
 Slayers' Stronghold
    |tap|: Add |colorless|.
 
    |mana_r| |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance and haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269637&type=card
-   :align: right
+Plains
+   
+
 
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269634&type=card
-   :align: right
-
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269638&type=card
-   :align: right
-
-Plains
+Island
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269639&type=card
-   :align: right
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269625&type=card
-   :align: right
-
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269633&type=card
-   :align: right
-
-Island
+Swamp
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269631&type=card
-   :align: right
 
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269627&type=card
-   :align: right
-
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269641&type=card
-   :align: right
-
-Swamp
+Mountain
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269632&type=card
-   :align: right
 
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269630&type=card
-   :align: right
-
 Mountain
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269622&type=card
-   :align: right
-
-Mountain
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269636&type=card
-   :align: right
 
 Forest
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269635&type=card
-   :align: right
-
 Forest
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269629&type=card
-   :align: right
 
 Forest
    

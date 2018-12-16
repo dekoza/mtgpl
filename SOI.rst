@@ -5,15 +5,9 @@ Shadows over Innistrad
 ======================
         
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409737&type=card
-   :align: right
-
 Always Watching
    Nontoken creatures you control get +1/+1 and have vigilance.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409738&type=card
-   :align: right
 
 Angel of Deliverance
    Flying
@@ -21,26 +15,17 @@ Angel of Deliverance
    Delirium — Whenever Angel of Deliverance deals damage, if there are four or more card types among cards in your graveyard, exile target creature an opponent controls.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409739&type=card
-   :align: right
-
 Angelic Purge
    As an additional cost to cast this spell, sacrifice a permanent.
 
    Exile target artifact, creature, or enchantment.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409740&type=card
-   :align: right
-
 Apothecary Geist
    Flying
 
    When Apothecary Geist enters the battlefield, if you control another Spirit, you gain 3 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409741&type=card
-   :align: right
 
 Archangel Avacyn
    Flash
@@ -52,31 +37,19 @@ Archangel Avacyn
    When a non-Angel creature you control dies, transform Archangel Avacyn at the beginning of the next upkeep.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409742&type=card
-   :align: right
-
 Avacyn, the Purifier
    Flying
 
    When this creature transforms into Avacyn, the Purifier, it deals 3 damage to each other creature and each opponent.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409743&type=card
-   :align: right
-
 Avacynian Missionaries
    At the beginning of your end step, if Avacynian Missionaries is equipped, transform it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409744&type=card
-   :align: right
-
 Lunarch Inquisitors
    When this creature transforms into Lunarch Inquisitors, you may exile another target creature until Lunarch Inquisitors leaves the battlefield.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409745&type=card
-   :align: right
 
 Bound by Moonsilver
    Enchant creature
@@ -86,45 +59,27 @@ Bound by Moonsilver
    Sacrifice another permanent: Attach Bound by Moonsilver to target creature. Activate this ability only any time you could cast a sorcery and only once each turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409746&type=card
-   :align: right
-
 Bygone Bishop
    Flying
 
    Whenever you cast a creature spell with converted mana cost 3 or less, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409747&type=card
-   :align: right
-
 Cathar's Companion
    Whenever you cast a noncreature spell, Cathar's Companion gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409748&type=card
-   :align: right
 
 Chaplain's Blessing
    You gain 5 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409749&type=card
-   :align: right
-
 Dauntless Cathar
    |mana_1| |mana_w|, Exile Dauntless Cathar from your graveyard: Create a 1/1 white Spirit creature token with flying. Activate this ability only any time you could cast a sorcery.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409750&type=card
-   :align: right
-
 Declaration in Stone
    Exile target creature and all other creatures its controller controls with the same name as that creature. That player investigates for each nontoken creature exiled this way.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409751&type=card
-   :align: right
 
 Descend upon the Sinful
    Exile all creatures.
@@ -132,15 +87,9 @@ Descend upon the Sinful
    Delirium — Create a 4/4 white Angel creature token with flying if there are four or more card types among cards in your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409752&type=card
-   :align: right
-
 Devilthorn Fox
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409753&type=card
-   :align: right
 
 Drogskol Cavalry
    Flying
@@ -150,15 +99,9 @@ Drogskol Cavalry
    |mana_3| |mana_w|: Create a 1/1 white Spirit creature token with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409754&type=card
-   :align: right
-
 Eerie Interlude
    Exile any number of target creatures you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409755&type=card
-   :align: right
 
 Emissary of the Sleepless
    Flying
@@ -166,24 +109,15 @@ Emissary of the Sleepless
    When Emissary of the Sleepless enters the battlefield, if a creature died this turn, create a 1/1 white Spirit creature token with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409756&type=card
-   :align: right
-
 Ethereal Guidance
    Creatures you control get +2/+1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409757&type=card
-   :align: right
 
 Expose Evil
    Tap up to two target creatures.
 
    Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409758&type=card
-   :align: right
 
 Gryff's Boon
    Enchant creature
@@ -193,24 +127,15 @@ Gryff's Boon
    |mana_3| |mana_w|: Return Gryff's Boon from your graveyard to the battlefield attached to target creature. Activate this ability only any time you could cast a sorcery.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409759&type=card
-   :align: right
-
 Hanweir Militia Captain
    At the beginning of your upkeep, if you control four or more creatures, transform Hanweir Militia Captain.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409760&type=card
-   :align: right
 
 Westvale Cult Leader
    Westvale Cult Leader's power and toughness are each equal to the number of creatures you control.
 
    At the beginning of your end step, create a 1/1 white and black Human Cleric creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409761&type=card
-   :align: right
 
 Hope Against Hope
    Enchant creature
@@ -220,45 +145,27 @@ Hope Against Hope
    As long as enchanted creature is a Human, it has first strike.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409762&type=card
-   :align: right
-
 Humble the Brute
    Destroy target creature with power 4 or greater.
 
    Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409763&type=card
-   :align: right
-
 Inquisitor's Ox
    Delirium — Inquisitor's Ox gets +1/+0 and has vigilance as long as there are four or more card types among cards in your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409764&type=card
-   :align: right
 
 Inspiring Captain
    When Inspiring Captain enters the battlefield, creatures you control get +1/+1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409765&type=card
-   :align: right
-
 Militant Inquisitor
    Militant Inquisitor gets +1/+0 for each Equipment you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409766&type=card
-   :align: right
-
 Moorland Drifter
    Delirium — Moorland Drifter has flying as long as there are four or more card types among cards in your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409767&type=card
-   :align: right
 
 Nahiri's Machinations
    At the beginning of combat on your turn, target creature you control gains indestructible until end of turn.
@@ -266,45 +173,27 @@ Nahiri's Machinations
    |mana_1| |mana_r|: Nahiri's Machinations deals 1 damage to target blocking creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409768&type=card
-   :align: right
-
 Nearheath Chaplain
    Lifelink
 
    |mana_2| |mana_w|, Exile Nearheath Chaplain from your graveyard: Create two 1/1 white Spirit creature tokens with flying. Activate this ability only any time you could cast a sorcery.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409769&type=card
-   :align: right
-
 Not Forgotten
    Put target card from a graveyard on the top or bottom of its owner's library. Create a 1/1 white Spirit creature token with flying.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409770&type=card
-   :align: right
 
 Odric, Lunarch Marshal
    At the beginning of each combat, creatures you control gain first strike until end of turn if a creature you control has first strike. The same is true for flying, deathtouch, double strike, haste, hexproof, indestructible, lifelink, menace, reach, skulk, trample, and vigilance.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409771&type=card
-   :align: right
-
 Open the Armory
    Search your library for an Aura or Equipment card, reveal it, and put it into your hand. Then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409772&type=card
-   :align: right
-
 Paranoid Parish-Blade
    Delirium — Paranoid Parish-Blade gets +1/+0 and has first strike as long as there are four or more card types among cards in your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409773&type=card
-   :align: right
 
 Pious Evangel
    Whenever Pious Evangel or another creature enters the battlefield under your control, you gain 1 life.
@@ -312,22 +201,13 @@ Pious Evangel
    |mana_2|, |tap|, Sacrifice another permanent: Transform Pious Evangel.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409774&type=card
-   :align: right
-
 Wayward Disciple
    Whenever Wayward Disciple or another creature you control dies, target opponent loses 1 life and you gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409775&type=card
-   :align: right
-
 Puncturing Light
    Destroy target attacking or blocking creature with power 3 or less.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409776&type=card
-   :align: right
 
 Reaper of Flight Moonsilver
    Flying
@@ -335,15 +215,9 @@ Reaper of Flight Moonsilver
    Delirium — Sacrifice another creature: Reaper of Flight Moonsilver gets +2/+1 until end of turn. Activate this ability only if there are four or more card types among cards in your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409777&type=card
-   :align: right
-
 Silverstrike
    Destroy target attacking creature. You gain 3 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409778&type=card
-   :align: right
 
 Spectral Shepherd
    Flying
@@ -351,22 +225,13 @@ Spectral Shepherd
    |mana_1| |mana_u|: Return target Spirit you control to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409779&type=card
-   :align: right
-
 Stern Constable
    |tap|, Discard a card: Tap target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409780&type=card
-   :align: right
-
 Strength of Arms
    Target creature gets +2/+2 until end of turn. If you control an Equipment, create a 1/1 white Human Soldier creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409781&type=card
-   :align: right
 
 Survive the Night
    Target creature gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
@@ -374,15 +239,9 @@ Survive the Night
    Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409782&type=card
-   :align: right
-
 Tenacity
    Creatures you control get +1/+1 and gain lifelink until end of turn. Untap those creatures.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409783&type=card
-   :align: right
 
 Thalia's Lieutenant
    When Thalia's Lieutenant enters the battlefield, put a +1/+1 counter on each other Human you control.
@@ -390,15 +249,9 @@ Thalia's Lieutenant
    Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Thalia's Lieutenant.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409784&type=card
-   :align: right
-
 Thraben Inspector
    When Thraben Inspector enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409785&type=card
-   :align: right
 
 Topplegeist
    Flying
@@ -408,15 +261,9 @@ Topplegeist
    Delirium — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, tap target creature that player controls.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409786&type=card
-   :align: right
-
 Town Gossipmonger
    |tap|, Tap an untapped creature you control: Transform Town Gossipmonger.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409787&type=card
-   :align: right
 
 Incited Rabble
    Incited Rabble attacks each combat if able.
@@ -424,22 +271,13 @@ Incited Rabble
    |mana_2|: Incited Rabble gets +1/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409788&type=card
-   :align: right
-
 Unruly Mob
    Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409789&type=card
-   :align: right
-
 Vessel of Ephemera
    |mana_2| |mana_w|, Sacrifice Vessel of Ephemera: Create two 1/1 white Spirit creature tokens with flying.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409790&type=card
-   :align: right
 
 Aberrant Researcher
    Flying
@@ -447,15 +285,9 @@ Aberrant Researcher
    At the beginning of your upkeep, put the top card of your library into your graveyard. If it's an instant or sorcery card, transform Aberrant Researcher.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409791&type=card
-   :align: right
-
 Perfected Form
    Flying
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409792&type=card
-   :align: right
 
 Broken Concentration
    Counter target spell.
@@ -463,22 +295,13 @@ Broken Concentration
    Madness |mana_3| |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409793&type=card
-   :align: right
-
 Catalog
    Draw two cards, then discard a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409794&type=card
-   :align: right
-
 Compelling Deterrence
    Return target nonland permanent to its owner's hand. Then that player discards a card if you control a Zombie.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409795&type=card
-   :align: right
 
 Confirm Suspicions
    Counter target spell.
@@ -486,15 +309,9 @@ Confirm Suspicions
    Investigate three times. (To investigate, create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409796&type=card
-   :align: right
-
 Daring Sleuth
    When you sacrifice a Clue, transform Daring Sleuth.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409797&type=card
-   :align: right
 
 Bearer of Overwhelming Truths
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
@@ -502,22 +319,13 @@ Bearer of Overwhelming Truths
    Whenever Bearer of Overwhelming Truths deals combat damage to a player, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409798&type=card
-   :align: right
-
 Deny Existence
    Counter target creature spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409799&type=card
-   :align: right
-
 Drownyard Explorers
    When Drownyard Explorers enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409800&type=card
-   :align: right
 
 Drunau Corpse Trawler
    When Drunau Corpse Trawler enters the battlefield, create a 2/2 black Zombie creature token.
@@ -525,22 +333,13 @@ Drunau Corpse Trawler
    |mana_2| |mana_b|: Target Zombie gains deathtouch until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409801&type=card
-   :align: right
-
 Engulf the Shore
    Return to their owners' hands all creatures with toughness less than or equal to the number of Islands you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409802&type=card
-   :align: right
-
 Epiphany at the Drownyard
    Reveal the top X plus one cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409803&type=card
-   :align: right
 
 Erdwal Illuminator
    Flying
@@ -548,15 +347,9 @@ Erdwal Illuminator
    Whenever you investigate for the first time each turn, investigate an additional time.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409804&type=card
-   :align: right
-
 Essence Flux
    Exile target creature you control, then return that card to the battlefield under its owner's control. If it's a Spirit, put a +1/+1 counter on it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409805&type=card
-   :align: right
 
 Fleeting Memories
    When Fleeting Memories enters the battlefield, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
@@ -564,24 +357,15 @@ Fleeting Memories
    Whenever you sacrifice a Clue, target player puts the top three cards of their library into their graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409806&type=card
-   :align: right
-
 Forgotten Creation
    Skulk (This creature can't be blocked by creatures with greater power.)
 
    At the beginning of your upkeep, you may discard all the cards in your hand. If you do, draw that many cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409807&type=card
-   :align: right
-
 Furtive Homunculus
    Skulk (This creature can't be blocked by creatures with greater power.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409808&type=card
-   :align: right
 
 Geralf's Masterpiece
    Flying
@@ -591,9 +375,6 @@ Geralf's Masterpiece
    |mana_3| |mana_u|, Discard three cards: Return Geralf's Masterpiece from your graveyard to the battlefield tapped.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409809&type=card
-   :align: right
-
 Ghostly Wings
    Enchant creature
 
@@ -602,26 +383,17 @@ Ghostly Wings
    Discard a card: Return enchanted creature to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409810&type=card
-   :align: right
-
 Gone Missing
    Put target permanent on top of its owner's library.
 
    Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409811&type=card
-   :align: right
-
 Invasive Surgery
    Counter target sorcery spell.
 
    Delirium — If there are four or more card types among cards in your graveyard, search the graveyard, hand, and library of that spell's controller for any number of cards with the same name as that spell, exile those cards, then that player shuffles their library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409812&type=card
-   :align: right
 
 Jace, Unraveler of Secrets
    +1: Scry 1, then draw a card.
@@ -631,17 +403,11 @@ Jace, Unraveler of Secrets
    −8: You get an emblem with "Whenever an opponent casts their first spell each turn, counter that spell."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409813&type=card
-   :align: right
-
 Jace's Scrutiny
    Target creature gets -4/-0 until end of turn.
 
    Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409814&type=card
-   :align: right
 
 Just the Wind
    Return target creature to its owner's hand.
@@ -649,15 +415,9 @@ Just the Wind
    Madness |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409815&type=card
-   :align: right
-
 Lamplighter of Selhoff
    When Lamplighter of Selhoff enters the battlefield, if you control another Zombie, you may draw a card. If you do, discard a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409816&type=card
-   :align: right
 
 Manic Scribe
    When Manic Scribe enters the battlefield, each opponent puts the top three cards of their library into their graveyard.
@@ -665,17 +425,11 @@ Manic Scribe
    Delirium — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, that player puts the top three cards of their library into their graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409817&type=card
-   :align: right
-
 Nagging Thoughts
    Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
 
    Madness |mana_1| |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409818&type=card
-   :align: right
 
 Nephalia Moondrakes
    Flying
@@ -685,17 +439,11 @@ Nephalia Moondrakes
    |mana_4| |mana_u| |mana_u|, Exile Nephalia Moondrakes from your graveyard: Creatures you control gain flying until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409819&type=card
-   :align: right
-
 Niblis of Dusk
    Flying
 
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409820&type=card
-   :align: right
 
 Ongoing Investigation
    Whenever one or more creatures you control deal combat damage to a player, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
@@ -703,31 +451,19 @@ Ongoing Investigation
    |mana_1| |mana_g|, Exile a creature card from your graveyard: Investigate. You gain 2 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409821&type=card
-   :align: right
-
 Pieces of the Puzzle
    Reveal the top five cards of your library. Put up to two instant and/or sorcery cards from among them into your hand and the rest into your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409822&type=card
-   :align: right
-
 Pore Over the Pages
    Draw three cards, untap up to two lands, then discard a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409823&type=card
-   :align: right
 
 Press for Answers
    Tap target creature. It doesn't untap during its controller's next untap step.
 
    Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409824&type=card
-   :align: right
 
 Rattlechains
    Flash
@@ -739,43 +475,25 @@ Rattlechains
    You may cast Spirit spells as though they had flash.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409825&type=card
-   :align: right
-
 Reckless Scholar
    |tap|: Target player draws a card, then discards a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409826&type=card
-   :align: right
 
 Rise from the Tides
    Create a tapped 2/2 black Zombie creature token for each instant and sorcery card in your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409827&type=card
-   :align: right
-
 Seagraf Skaab
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409828&type=card
-   :align: right
 
 Silburlind Snapper
    Silburlind Snapper can't attack unless you've cast a noncreature spell this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409829&type=card
-   :align: right
-
 Silent Observer
    Flying
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409830&type=card
-   :align: right
 
 Sleep Paralysis
    Enchant creature
@@ -785,17 +503,11 @@ Sleep Paralysis
    Enchanted creature doesn't untap during its controller's untap step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409831&type=card
-   :align: right
-
 Startled Awake
    Target opponent puts the top thirteen cards of their library into their graveyard.
 
    |mana_3| |mana_u| |mana_u|: Put Startled Awake from your graveyard onto the battlefield transformed. Activate this ability only any time you could cast a sorcery.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409832&type=card
-   :align: right
 
 Persistent Nightmare
    Skulk (This creature can't be blocked by creatures with greater power.)
@@ -803,17 +515,11 @@ Persistent Nightmare
    When Persistent Nightmare deals combat damage to a player, return it to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409833&type=card
-   :align: right
-
 Stitched Mangler
    Stitched Mangler enters the battlefield tapped.
 
    When Stitched Mangler enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409834&type=card
-   :align: right
 
 Stitchwing Skaab
    Flying
@@ -821,17 +527,11 @@ Stitchwing Skaab
    |mana_1| |mana_u|, Discard two cards: Return Stitchwing Skaab from your graveyard to the battlefield tapped.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409835&type=card
-   :align: right
-
 Stormrider Spirit
    Flash (You may cast this spell any time you could cast an instant.)
 
    Flying
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409836&type=card
-   :align: right
 
 Thing in the Ice
    Defender
@@ -841,22 +541,13 @@ Thing in the Ice
    Whenever you cast an instant or sorcery spell, remove an ice counter from Thing in the Ice. Then if it has no ice counters on it, transform it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409837&type=card
-   :align: right
-
 Awoken Horror
    When this creature transforms into Awoken Horror, return all non-Horror creatures to their owners' hands.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409838&type=card
-   :align: right
-
 Trail of Evidence
    Whenever you cast an instant or sorcery spell, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409839&type=card
-   :align: right
 
 Uninvited Geist
    Skulk (This creature can't be blocked by creatures with greater power.)
@@ -864,22 +555,13 @@ Uninvited Geist
    When Uninvited Geist deals combat damage to a player, transform it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409840&type=card
-   :align: right
-
 Unimpeded Trespasser
    Unimpeded Trespasser can't be blocked.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409841&type=card
-   :align: right
-
 Vessel of Paramnesia
    |mana_u|, Sacrifice Vessel of Paramnesia: Target player puts the top three cards of their library into their graveyard. Draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409842&type=card
-   :align: right
 
 Welcome to the Fold
    Madness |mana_x| |mana_u| |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
@@ -887,17 +569,11 @@ Welcome to the Fold
    Gain control of target creature if its toughness is 2 or less. If Welcome to the Fold's madness cost was paid, instead gain control of that creature if its toughness is X or less.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409843&type=card
-   :align: right
-
 Accursed Witch
    Spells your opponents cast that target Accursed Witch cost |mana_1| less to cast.
 
    When Accursed Witch dies, return it to the battlefield transformed under your control attached to target opponent.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409844&type=card
-   :align: right
 
 Infectious Curse
    Enchant player
@@ -907,17 +583,11 @@ Infectious Curse
    At the beginning of enchanted player's upkeep, that player loses 1 life and you gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409845&type=card
-   :align: right
-
 Alms of the Vein
    Target opponent loses 3 life and you gain 3 life.
 
    Madness |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409846&type=card
-   :align: right
 
 Asylum Visitor
    At the beginning of each player's upkeep, if that player has no cards in hand, you draw a card and you lose 1 life.
@@ -925,24 +595,15 @@ Asylum Visitor
    Madness |mana_1| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409847&type=card
-   :align: right
-
 Behind the Scenes
    Creatures you control have skulk. (They can't be blocked by creatures with greater power.)
 
    |mana_4| |mana_w|: Creatures you control get +1/+1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409848&type=card
-   :align: right
-
 Behold the Beyond
    Discard your hand. Search your library for three cards and put those cards into your hand. Then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409849&type=card
-   :align: right
 
 Biting Rain
    All creatures get -2/-2 until end of turn.
@@ -950,22 +611,13 @@ Biting Rain
    Madness |mana_2| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409850&type=card
-   :align: right
-
 Call the Bloodline
    |mana_1|, Discard a card: Create a 1/1 black Vampire Knight creature token with lifelink. Activate this ability only once each turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409851&type=card
-   :align: right
-
 Creeping Dread
    At the beginning of your upkeep, each player discards a card. Each opponent who discarded a card that shares a card type with the card you discarded loses 3 life. (Players reveal the discarded cards simultaneously.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409852&type=card
-   :align: right
 
 Crow of Dark Tidings
    Flying
@@ -973,17 +625,11 @@ Crow of Dark Tidings
    When Crow of Dark Tidings enters the battlefield or dies, put the top two cards of your library into your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409853&type=card
-   :align: right
-
 Dead Weight
    Enchant creature
 
    Enchanted creature gets -2/-2.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409854&type=card
-   :align: right
 
 Diregraf Colossus
    Diregraf Colossus enters the battlefield with a +1/+1 counter on it for each Zombie card in your graveyard.
@@ -991,15 +637,9 @@ Diregraf Colossus
    Whenever you cast a Zombie spell, create a tapped 2/2 black Zombie creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409855&type=card
-   :align: right
-
 Elusive Tormentor
    |mana_1|, Discard a card: Transform Elusive Tormentor.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409856&type=card
-   :align: right
 
 Insidious Mist
    Hexproof, indestructible
@@ -1009,15 +649,9 @@ Insidious Mist
    Whenever Insidious Mist attacks and isn't blocked, you may pay |mana_2| |mana_b|. If you do, transform it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409857&type=card
-   :align: right
-
 Ever After
    Return up to two target creature cards from your graveyard to the battlefield. Each of those creatures is a black Zombie in addition to its other colors and types. Put Ever After on the bottom of its owner's library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409858&type=card
-   :align: right
 
 Farbog Revenant
    Skulk (This creature can't be blocked by creatures with greater power.)
@@ -1025,31 +659,19 @@ Farbog Revenant
    Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409859&type=card
-   :align: right
-
 From Under the Floorboards
    Madness |mana_x| |mana_b| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
    Create three tapped 2/2 black Zombie creature tokens and you gain 3 life. If From Under the Floorboards's madness cost was paid, instead create X of those tokens and you gain X life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409860&type=card
-   :align: right
-
 Ghoulcaller's Accomplice
    |mana_3| |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate this ability only any time you could cast a sorcery.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409861&type=card
-   :align: right
-
 Ghoulsteed
    |mana_2| |mana_b|, Discard two cards: Return Ghoulsteed from your graveyard to the battlefield tapped.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409862&type=card
-   :align: right
 
 Gisa's Bidding
    Create two 2/2 black Zombie creature tokens.
@@ -1057,36 +679,21 @@ Gisa's Bidding
    Madness |mana_2| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409863&type=card
-   :align: right
-
 Grotesque Mutation
    Target creature gets +3/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409864&type=card
-   :align: right
 
 Heir of Falkenrath
    Discard a card: Transform Heir of Falkenrath. Activate this ability only once each turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409865&type=card
-   :align: right
-
 Heir to the Night
    Flying
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409866&type=card
-   :align: right
-
 Hound of the Farbogs
    Delirium — Hound of the Farbogs has menace as long as there are four or more card types among cards in your graveyard. (A creature with menace can't be blocked except by two or more creatures.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409867&type=card
-   :align: right
 
 Indulgent Aristocrat
    Lifelink
@@ -1094,36 +701,21 @@ Indulgent Aristocrat
    |mana_2|, Sacrifice a creature: Put a +1/+1 counter on each Vampire you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409868&type=card
-   :align: right
-
 Kindly Stranger
    Delirium — |mana_2| |mana_b|: Transform Kindly Stranger. Activate this ability only if there are four or more card types among cards in your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409869&type=card
-   :align: right
 
 Demon-Possessed Witch
    When this creature transforms into Demon-Possessed Witch, you may destroy target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409870&type=card
-   :align: right
-
 Liliana's Indignation
    Put the top X cards of your library into your graveyard. Target player loses 2 life for each creature card put into your graveyard this way.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409871&type=card
-   :align: right
-
 Macabre Waltz
    Return up to two target creature cards from your graveyard to your hand, then discard a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409872&type=card
-   :align: right
 
 Markov Dreadknight
    Flying
@@ -1131,17 +723,11 @@ Markov Dreadknight
    |mana_2| |mana_b|, Discard a card: Put two +1/+1 counters on Markov Dreadknight.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409873&type=card
-   :align: right
-
 Merciless Resolve
    As an additional cost to cast this spell, sacrifice a creature or land.
 
    Draw two cards.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409874&type=card
-   :align: right
 
 Mindwrack Demon
    Flying, trample
@@ -1151,26 +737,17 @@ Mindwrack Demon
    Delirium — At the beginning of your upkeep, you lose 4 life unless there are four or more card types among cards in your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409875&type=card
-   :align: right
-
 Morkrut Necropod
    Menace (This creature can't be blocked except by two or more creatures.)
 
    Whenever Morkrut Necropod attacks or blocks, sacrifice another creature or land.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409876&type=card
-   :align: right
-
 Murderous Compulsion
    Destroy target tapped creature.
 
    Madness |mana_1| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409877&type=card
-   :align: right
 
 Olivia's Bloodsworn
    Flying
@@ -1180,17 +757,11 @@ Olivia's Bloodsworn
    |mana_r|: Target Vampire gains haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409878&type=card
-   :align: right
-
 Pale Rider of Trostad
    Skulk (This creature can't be blocked by creatures with greater power.)
 
    When Pale Rider of Trostad enters the battlefield, discard a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409879&type=card
-   :align: right
 
 Pick the Brain
    Target opponent reveals their hand. You choose a nonland card from it and exile that card.
@@ -1198,17 +769,11 @@ Pick the Brain
    Delirium — If there are four or more card types among cards in your graveyard, search that player's graveyard, hand, and library for any number of cards with the same name as the exiled card, exile those cards, then that player shuffles their library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409880&type=card
-   :align: right
-
 Rancid Rats
    Skulk (This creature can't be blocked by creatures with greater power.)
 
    Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409881&type=card
-   :align: right
 
 Relentless Dead
    Menace (This creature can't be blocked except by two or more creatures.)
@@ -1218,57 +783,33 @@ Relentless Dead
    When Relentless Dead dies, you may pay |mana_x|. If you do, return another target Zombie creature card with converted mana cost X from your graveyard to the battlefield.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409882&type=card
-   :align: right
-
 Rottenheart Ghoul
    When Rottenheart Ghoul dies, target player discards a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409883&type=card
-   :align: right
 
 Sanitarium Skeleton
    |mana_2| |mana_b|: Return Sanitarium Skeleton from your graveyard to your hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409884&type=card
-   :align: right
-
 Shamble Back
    Exile target creature card from a graveyard. Create a 2/2 black Zombie creature token. You gain 2 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409885&type=card
-   :align: right
 
 Sinister Concoction
    |mana_b|, Pay 1 life, Put the top card of your library into your graveyard, Discard a card, Sacrifice Sinister Concoction: Destroy target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409886&type=card
-   :align: right
-
 Stallion of Ashmouth
    Delirium — |mana_1| |mana_b|: Stallion of Ashmouth gets +1/+1 until end of turn. Activate this ability only if there are four or more card types among cards in your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409887&type=card
-   :align: right
 
 Stromkirk Mentor
    When Stromkirk Mentor enters the battlefield, put a +1/+1 counter on another target Vampire you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409888&type=card
-   :align: right
-
 Throttle
    Target creature gets -4/-4 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409889&type=card
-   :align: right
 
 To the Slaughter
    Target player sacrifices a creature or planeswalker.
@@ -1276,17 +817,11 @@ To the Slaughter
    Delirium — If there are four or more card types among cards in your graveyard, instead that player sacrifices a creature and a planeswalker.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409890&type=card
-   :align: right
-
 Tooth Collector
    When Tooth Collector enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn.
 
    Delirium — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, target creature that player controls gets -1/-1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409891&type=card
-   :align: right
 
 Triskaidekaphobia
    At the beginning of your upkeep, choose one —
@@ -1296,29 +831,17 @@ Triskaidekaphobia
    • Each player with exactly 13 life loses the game, then each player loses 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409892&type=card
-   :align: right
-
 Twins of Maurer Estate
    Madness |mana_2| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409893&type=card
-   :align: right
 
 Vampire Noble
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409894&type=card
-   :align: right
-
 Vessel of Malignity
    |mana_1| |mana_b|, Sacrifice Vessel of Malignity: Target opponent exiles two cards from their hand. Activate this ability only any time you could cast a sorcery.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409895&type=card
-   :align: right
 
 Avacyn's Judgment
    Madness |mana_x| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
@@ -1326,24 +849,15 @@ Avacyn's Judgment
    Avacyn's Judgment deals 2 damage divided as you choose among any number of targets. If Avacyn's Judgment's madness cost was paid, it deals X damage divided as you choose among those permanents and/or players instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409896&type=card
-   :align: right
-
 Bloodmad Vampire
    Whenever Bloodmad Vampire deals combat damage to a player, put a +1/+1 counter on it.
 
    Madness |mana_1| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409897&type=card
-   :align: right
-
 Breakneck Rider
    At the beginning of each upkeep, if no spells were cast last turn, transform Breakneck Rider.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409898&type=card
-   :align: right
 
 Neck Breaker
    Attacking creatures you control get +1/+0 and have trample.
@@ -1351,57 +865,33 @@ Neck Breaker
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Neck Breaker.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409899&type=card
-   :align: right
-
 Burn from Within
    Burn from Within deals X damage to any target. If a creature is dealt damage this way, it loses indestructible until end of turn. If that creature would die this turn, exile it instead.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409900&type=card
-   :align: right
 
 Convicted Killer
    At the beginning of each upkeep, if no spells were cast last turn, transform Convicted Killer.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409901&type=card
-   :align: right
-
 Branded Howler
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Branded Howler.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409902&type=card
-   :align: right
 
 Dance with Devils
    Create two 1/1 red Devil creature tokens. They have "When this creature dies, it deals 1 damage to any target."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409903&type=card
-   :align: right
-
 Devils' Playground
    Create four 1/1 red Devil creature tokens. They have "When this creature dies, it deals 1 damage to any target."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409904&type=card
-   :align: right
 
 Dissension in the Ranks
    Target blocking creature fights another target blocking creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409905&type=card
-   :align: right
-
 Dual Shot
    Dual Shot deals 1 damage to each of up to two target creatures.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409906&type=card
-   :align: right
 
 Ember-Eye Wolf
    Haste
@@ -1409,15 +899,9 @@ Ember-Eye Wolf
    |mana_1| |mana_r|: Ember-Eye Wolf gets +2/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409907&type=card
-   :align: right
-
 Falkenrath Gorger
    Each Vampire creature card you own that isn't on the battlefield has madness. The madness cost is equal to its mana cost. (If you discard a card with madness, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409908&type=card
-   :align: right
 
 Fiery Temper
    Fiery Temper deals 3 damage to any target.
@@ -1425,24 +909,15 @@ Fiery Temper
    Madness |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409909&type=card
-   :align: right
-
 Flameblade Angel
    Flying
 
    Whenever a source an opponent controls deals damage to you or a permanent you control, you may have Flameblade Angel deal 1 damage to that source's controller.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409910&type=card
-   :align: right
-
 Gatstaf Arsonists
    At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Arsonists.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409911&type=card
-   :align: right
 
 Gatstaf Ravagers
    Menace (This creature can't be blocked except by two or more creatures.)
@@ -1450,17 +925,11 @@ Gatstaf Ravagers
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Gatstaf Ravagers.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409912&type=card
-   :align: right
-
 Geier Reach Bandit
    Haste
 
    At the beginning of each upkeep, if no spells were cast last turn, transform Geier Reach Bandit.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409913&type=card
-   :align: right
 
 Vildin-Pack Alpha
    Whenever a Werewolf enters the battlefield under your control, you may transform it.
@@ -1468,26 +937,17 @@ Vildin-Pack Alpha
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Vildin-Pack Alpha.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409914&type=card
-   :align: right
-
 Geistblast
    Geistblast deals 2 damage to any target.
 
    |mana_2| |mana_u|, Exile Geistblast from your graveyard: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409915&type=card
-   :align: right
-
 Gibbering Fiend
    When Gibbering Fiend enters the battlefield, it deals 1 damage to each opponent.
 
    Delirium — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, Gibbering Fiend deals 1 damage to that player.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409916&type=card
-   :align: right
 
 Goldnight Castigator
    Flying, haste
@@ -1497,29 +957,17 @@ Goldnight Castigator
    If a source would deal damage to Goldnight Castigator, it deals double that damage to Goldnight Castigator instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409917&type=card
-   :align: right
-
 Harness the Storm
    Whenever you cast an instant or sorcery spell from your hand, you may cast target card with the same name as that spell from your graveyard. (You still pay its costs.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409918&type=card
-   :align: right
 
 Howlpack Wolf
    Howlpack Wolf can't block unless you control another Wolf or Werewolf.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409919&type=card
-   :align: right
-
 Hulking Devil
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409920&type=card
-   :align: right
 
 Incorrigible Youths
    Haste
@@ -1527,15 +975,9 @@ Incorrigible Youths
    Madness |mana_2| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409921&type=card
-   :align: right
-
 Inner Struggle
    Target creature deals damage to itself equal to its power.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409922&type=card
-   :align: right
 
 Insolent Neonate
    Menace (This creature can't be blocked except by two or more creatures.)
@@ -1543,17 +985,11 @@ Insolent Neonate
    Discard a card, Sacrifice Insolent Neonate: Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409923&type=card
-   :align: right
-
 Kessig Forgemaster
    Whenever Kessig Forgemaster blocks or becomes blocked by a creature, Kessig Forgemaster deals 1 damage to that creature.
 
    At the beginning of each upkeep, if no spells were cast last turn, transform Kessig Forgemaster.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409924&type=card
-   :align: right
 
 Flameheart Werewolf
    Whenever Flameheart Werewolf blocks or becomes blocked by a creature, Flameheart Werewolf deals 2 damage to that creature.
@@ -1561,17 +997,11 @@ Flameheart Werewolf
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Flameheart Werewolf.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409925&type=card
-   :align: right
-
 Lightning Axe
    As an additional cost to cast this spell, discard a card or pay |mana_5|.
 
    Lightning Axe deals 5 damage to target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409926&type=card
-   :align: right
 
 Mad Prophet
    Haste
@@ -1579,15 +1009,9 @@ Mad Prophet
    |tap|, Discard a card: Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409927&type=card
-   :align: right
-
 Magmatic Chasm
    Creatures without flying can't block this turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409928&type=card
-   :align: right
 
 Malevolent Whispers
    Gain control of target creature until end of turn. Untap that creature. It gets +2/+0 and gains haste until end of turn.
@@ -1595,54 +1019,33 @@ Malevolent Whispers
    Madness |mana_3| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409929&type=card
-   :align: right
-
 Pyre Hound
    Trample
 
    Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Pyre Hound.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409930&type=card
-   :align: right
-
 Ravenous Bloodseeker
    Discard a card: Ravenous Bloodseeker gets +2/-2 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409931&type=card
-   :align: right
 
 Reduce to Ashes
    Reduce to Ashes deals 5 damage to target creature. If that creature would die this turn, exile it instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409932&type=card
-   :align: right
-
 Rush of Adrenaline
    Target creature gets +2/+1 and gains trample until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409933&type=card
-   :align: right
-
 Sanguinary Mage
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409934&type=card
-   :align: right
 
 Scourge Wolf
    First strike
 
    Delirium — Scourge Wolf has double strike as long as there are four or more card types among cards in your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409935&type=card
-   :align: right
 
 Senseless Rage
    Enchant creature
@@ -1652,17 +1055,11 @@ Senseless Rage
    Madness |mana_1| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409936&type=card
-   :align: right
-
 Sin Prodder
    Menace
 
    At the beginning of your upkeep, reveal the top card of your library. Any opponent may have you put that card into your graveyard. If a player does, Sin Prodder deals damage to that player equal to that card's converted mana cost. Otherwise, put that card into your hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409937&type=card
-   :align: right
 
 Skin Invasion
    Enchant creature
@@ -1672,15 +1069,9 @@ Skin Invasion
    When enchanted creature dies, return Skin Invasion to the battlefield transformed under your control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409938&type=card
-   :align: right
-
 Skin Shedder
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409939&type=card
-   :align: right
 
 Spiteful Motives
    Flash (You may cast this spell any time you could cast an instant.)
@@ -1690,9 +1081,6 @@ Spiteful Motives
    Enchanted creature gets +3/+0 and has first strike.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409940&type=card
-   :align: right
-
 Stensia Masquerade
    Attacking creatures you control have first strike.
 
@@ -1701,15 +1089,9 @@ Stensia Masquerade
    Madness |mana_2| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409941&type=card
-   :align: right
-
 Structural Distortion
    Exile target artifact or land. Structural Distortion deals 2 damage to that permanent's controller.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409942&type=card
-   :align: right
 
 Tormenting Voice
    As an additional cost to cast this spell, discard a card.
@@ -1717,31 +1099,19 @@ Tormenting Voice
    Draw two cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409943&type=card
-   :align: right
-
 Ulrich's Kindred
    Trample
 
    |mana_3| |mana_g|: Target attacking Wolf or Werewolf gains indestructible until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409944&type=card
-   :align: right
-
 Uncaged Fury
    Target creature gets +1/+1 and gains double strike until end of turn. (It deals both first-strike and regular combat damage.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409945&type=card
-   :align: right
-
 Vessel of Volatility
    |mana_1| |mana_r|, Sacrifice Vessel of Volatility: Add |mana_r| |mana_r| |mana_r| |mana_r|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409946&type=card
-   :align: right
 
 Village Messenger
    Haste
@@ -1749,17 +1119,11 @@ Village Messenger
    At the beginning of each upkeep, if no spells were cast last turn, transform Village Messenger.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409947&type=card
-   :align: right
-
 Moonrise Intruder
    Menace (This creature can't be blocked except by two or more creatures.)
 
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonrise Intruder.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409948&type=card
-   :align: right
 
 Voldaren Duelist
    Haste
@@ -1767,22 +1131,13 @@ Voldaren Duelist
    When Voldaren Duelist enters the battlefield, target creature can't block this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409949&type=card
-   :align: right
-
 Wolf of Devil's Breach
    Whenever Wolf of Devil's Breach attacks, you may pay |mana_1| |mana_r| and discard a card. If you do, Wolf of Devil's Breach deals damage to target creature or planeswalker equal to the discarded card's converted mana cost.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409950&type=card
-   :align: right
-
 Aim High
    Untap target creature. It gets +2/+2 and gains reach until end of turn. (It can block creatures with flying.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409951&type=card
-   :align: right
 
 Autumnal Gloom
    |mana_b|: Put the top card of your library into your graveyard.
@@ -1790,15 +1145,9 @@ Autumnal Gloom
    Delirium — At the beginning of your end step, if there are four or more card types among cards in your graveyard, transform Autumnal Gloom.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409952&type=card
-   :align: right
-
 Ancient of the Equinox
    Trample, hexproof
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409953&type=card
-   :align: right
 
 Briarbridge Patrol
    Whenever Briarbridge Patrol deals damage to one or more creatures, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
@@ -1806,29 +1155,17 @@ Briarbridge Patrol
    At the beginning of each end step, if you sacrificed three or more Clues this turn, you may put a creature card from your hand onto the battlefield.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409954&type=card
-   :align: right
-
 Byway Courier
    When Byway Courier dies, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409955&type=card
-   :align: right
 
 Clip Wings
    Each opponent sacrifices a creature with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409956&type=card
-   :align: right
-
 Confront the Unknown
    Investigate, then target creature gets +1/+1 until end of turn for each Clue you control. (To investigate, create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409957&type=card
-   :align: right
 
 Crawling Sensation
    At the beginning of your upkeep, you may put the top two cards of your library into your graveyard.
@@ -1836,22 +1173,13 @@ Crawling Sensation
    Whenever one or more land cards are put into your graveyard from anywhere for the first time each turn, create a 1/1 green Insect creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409958&type=card
-   :align: right
-
 Cryptolith Rite
    Creatures you control have "|tap|: Add one mana of any color."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409959&type=card
-   :align: right
-
 Cult of the Waxing Moon
    Whenever a permanent you control transforms into a non-Human creature, create a 2/2 green Wolf creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409960&type=card
-   :align: right
 
 Deathcap Cultivator
    |tap|: Add |mana_b| or |mana_g|.
@@ -1859,26 +1187,17 @@ Deathcap Cultivator
    Delirium — Deathcap Cultivator has deathtouch as long as there are four or more card types among cards in your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409961&type=card
-   :align: right
-
 Duskwatch Recruiter
    |mana_2| |mana_g|: Look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
    At the beginning of each upkeep, if no spells were cast last turn, transform Duskwatch Recruiter.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409962&type=card
-   :align: right
-
 Krallenhorde Howler
    Creature spells you cast cost |mana_1| less to cast.
 
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Howler.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409963&type=card
-   :align: right
 
 Equestrian Skill
    Enchant creature
@@ -1888,15 +1207,9 @@ Equestrian Skill
    As long as enchanted creature is a Human, it has trample.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409964&type=card
-   :align: right
-
 Fork in the Road
    Search your library for up to two basic land cards and reveal them. Put one into your hand and the other into your graveyard. Then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409965&type=card
-   :align: right
 
 Gloomwidow
    Reach
@@ -1904,22 +1217,13 @@ Gloomwidow
    Gloomwidow can block only creatures with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409966&type=card
-   :align: right
-
 Graf Mole
    Whenever you sacrifice a Clue, you gain 3 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409967&type=card
-   :align: right
-
 Groundskeeper
    |mana_1| |mana_g|: Return target basic land card from your graveyard to your hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409968&type=card
-   :align: right
 
 Hermit of the Natterknolls
    Whenever an opponent casts a spell during your turn, draw a card.
@@ -1927,24 +1231,15 @@ Hermit of the Natterknolls
    At the beginning of each upkeep, if no spells were cast last turn, transform Hermit of the Natterknolls.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409969&type=card
-   :align: right
-
 Lone Wolf of the Natterknolls
    Whenever an opponent casts a spell during your turn, draw two cards.
 
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Lone Wolf of the Natterknolls.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409970&type=card
-   :align: right
-
 Hinterland Logger
    At the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Logger.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409971&type=card
-   :align: right
 
 Timber Shredder
    Trample
@@ -1952,24 +1247,15 @@ Timber Shredder
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Timber Shredder.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409972&type=card
-   :align: right
-
 Howlpack Resurgence
    Flash (You may cast this spell any time you could cast an instant.)
 
    Each creature you control that's a Wolf or a Werewolf gets +1/+1 and has trample.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409973&type=card
-   :align: right
-
 Inexorable Blob
    Delirium — Whenever Inexorable Blob attacks, if there are four or more card types among cards in your graveyard, create a 3/3 green Ooze creature token that's tapped and attacking.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409974&type=card
-   :align: right
 
 Intrepid Provisioner
    Trample
@@ -1977,15 +1263,9 @@ Intrepid Provisioner
    When Intrepid Provisioner enters the battlefield, another target Human you control gets +2/+2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409975&type=card
-   :align: right
-
 Kessig Dire Swine
    Delirium — Kessig Dire Swine has trample as long as there are four or more card types among cards in your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409976&type=card
-   :align: right
 
 Lambholt Pacifist
    Lambholt Pacifist can't attack unless you control a creature with power 4 or greater.
@@ -1993,22 +1273,13 @@ Lambholt Pacifist
    At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Pacifist.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409977&type=card
-   :align: right
-
 Lambholt Butcher
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Lambholt Butcher.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409978&type=card
-   :align: right
-
 Loam Dryad
    |tap|, Tap an untapped creature you control: Add one mana of any color.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409979&type=card
-   :align: right
 
 Might Beyond Reason
    Put two +1/+1 counters on target creature.
@@ -2016,22 +1287,13 @@ Might Beyond Reason
    Delirium — Put three +1/+1 counters on that creature instead if there are four or more card types among cards in your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409980&type=card
-   :align: right
-
 Moldgraf Scavenger
    Delirium — Moldgraf Scavenger gets +3/+0 as long as there are four or more card types among cards in your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409981&type=card
-   :align: right
-
 Moonlight Hunt
    Choose target creature you don't control. Each creature you control that's a Wolf or a Werewolf deals damage equal to its power to that creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409982&type=card
-   :align: right
 
 Obsessive Skinner
    When Obsessive Skinner enters the battlefield, put a +1/+1 counter on target creature.
@@ -2039,40 +1301,25 @@ Obsessive Skinner
    Delirium — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, put a +1/+1 counter on target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409983&type=card
-   :align: right
-
 Pack Guardian
    Flash (You may cast this spell any time you could cast an instant.)
 
    When Pack Guardian enters the battlefield, you may discard a land card. If you do, create a 2/2 green Wolf creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409984&type=card
-   :align: right
-
 Quilled Wolf
    |mana_5| |mana_g|: Quilled Wolf gets +4/+4 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409985&type=card
-   :align: right
-
 Rabid Bite
    Target creature you control deals damage equal to its power to target creature you don't control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409986&type=card
-   :align: right
 
 Root Out
    Destroy target artifact or enchantment.
 
    Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409987&type=card
-   :align: right
 
 Sage of Ancient Lore
    Sage of Ancient Lore's power and toughness are each equal to the number of cards in your hand.
@@ -2082,9 +1329,6 @@ Sage of Ancient Lore
    At the beginning of each upkeep, if no spells were cast last turn, transform Sage of Ancient Lore.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409988&type=card
-   :align: right
-
 Werewolf of Ancient Hunger
    Vigilance, trample
 
@@ -2093,22 +1337,13 @@ Werewolf of Ancient Hunger
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Werewolf of Ancient Hunger.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409989&type=card
-   :align: right
-
 Seasons Past
    Return any number of cards with different converted mana costs from your graveyard to your hand. Put Seasons Past on the bottom of its owner's library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409990&type=card
-   :align: right
-
 Second Harvest
    For each token you control, create a token that's a copy of that permanent.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409991&type=card
-   :align: right
 
 Silverfur Partisan
    Trample
@@ -2116,22 +1351,13 @@ Silverfur Partisan
    Whenever a Wolf or Werewolf you control becomes the target of an instant or sorcery spell, create a 2/2 green Wolf creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409992&type=card
-   :align: right
-
 Solitary Hunter
    At the beginning of each upkeep, if no spells were cast last turn, transform Solitary Hunter.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409993&type=card
-   :align: right
-
 One of the Pack
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform One of the Pack.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409994&type=card
-   :align: right
 
 Soul Swallower
    Trample
@@ -2139,22 +1365,13 @@ Soul Swallower
    Delirium — At the beginning of your upkeep, if there are four or more card types among cards in your graveyard, put three +1/+1 counters on Soul Swallower.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409995&type=card
-   :align: right
-
 Stoic Builder
    When Stoic Builder enters the battlefield, you may return target land card from your graveyard to your hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409996&type=card
-   :align: right
-
 Thornhide Wolves
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409997&type=card
-   :align: right
 
 Tireless Tracker
    Whenever a land enters the battlefield under your control, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
@@ -2162,17 +1379,11 @@ Tireless Tracker
    Whenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409998&type=card
-   :align: right
-
 Traverse the Ulvenwald
    Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
 
    Delirium — If there are four or more card types among cards in your graveyard, instead search your library for a creature or land card, reveal it, put it into your hand, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=409999&type=card
-   :align: right
 
 Ulvenwald Hydra
    Reach
@@ -2182,40 +1393,25 @@ Ulvenwald Hydra
    When Ulvenwald Hydra enters the battlefield, you may search your library for a land card, put it onto the battlefield tapped, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410000&type=card
-   :align: right
-
 Ulvenwald Mysteries
    Whenever a nontoken creature you control dies, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    Whenever you sacrifice a Clue, create a 1/1 white Human Soldier creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410001&type=card
-   :align: right
-
 Vessel of Nascency
    |mana_1| |mana_g|, Sacrifice Vessel of Nascency: Reveal the top four cards of your library. You may put an artifact, creature, enchantment, land, or planeswalker card from among them into your hand. Put the rest into your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410002&type=card
-   :align: right
-
 Veteran Cathar
    |mana_3| |mana_w|: Target Human gains double strike until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410003&type=card
-   :align: right
 
 Watcher in the Web
    Reach (This creature can block creatures with flying.)
 
    Watcher in the Web can block an additional seven creatures each combat.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410004&type=card
-   :align: right
 
 Weirding Wood
    Enchant land
@@ -2225,33 +1421,21 @@ Weirding Wood
    Enchanted land has "|tap|: Add two mana of any one color."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410005&type=card
-   :align: right
-
 Altered Ego
    This spell can't be countered.
 
    You may have Altered Ego enter the battlefield as a copy of any creature on the battlefield, except it enters with X additional +1/+1 counters on it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410006&type=card
-   :align: right
-
 Anguished Unmaking
    Exile target nonland permanent. You lose 3 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410007&type=card
-   :align: right
 
 Arlinn Kord
    +1: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste.
 
    0: Create a 2/2 green Wolf creature token. Transform Arlinn Kord.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410008&type=card
-   :align: right
 
 Arlinn, Embraced by the Moon
    +1: Creatures you control get +1/+1 and gain trample until end of turn.
@@ -2261,15 +1445,9 @@ Arlinn, Embraced by the Moon
    −6: You get an emblem with "Creatures you control have haste and '|tap|: This creature deals damage equal to its power to any target.'"
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410009&type=card
-   :align: right
-
 Fevered Visions
    At the beginning of each player's end step, that player draws a card. If the player is your opponent and has four or more cards in hand, Fevered Visions deals 2 damage to that player.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410010&type=card
-   :align: right
 
 The Gitrog Monster
    Deathtouch
@@ -2281,17 +1459,11 @@ The Gitrog Monster
    Whenever one or more land cards are put into your graveyard from anywhere, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410011&type=card
-   :align: right
-
 Invocation of Saint Traft
    Enchant creature
 
    Enchanted creature has "Whenever this creature attacks, create a 4/4 white Angel creature token with flying that's tapped and attacking. Exile that token at end of combat."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410012&type=card
-   :align: right
 
 Nahiri, the Harbinger
    +2: You may discard a card. If you do, draw a card.
@@ -2301,24 +1473,15 @@ Nahiri, the Harbinger
    −8: Search your library for an artifact or creature card, put it onto the battlefield, then shuffle your library. It gains haste. Return it to your hand at the beginning of the next end step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410013&type=card
-   :align: right
-
 Olivia, Mobilized for War
    Flying
 
    Whenever another creature enters the battlefield under your control, you may discard a card. If you do, put a +1/+1 counter on that creature, it gains haste until end of turn, and it becomes a Vampire in addition to its other types.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410014&type=card
-   :align: right
-
 Prized Amalgam
    Whenever a creature enters the battlefield, if it entered from your graveyard or you cast it from your graveyard, return Prized Amalgam from your graveyard to the battlefield tapped at the beginning of the next end step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410015&type=card
-   :align: right
 
 Sigarda, Heron's Grace
    Flying
@@ -2328,9 +1491,6 @@ Sigarda, Heron's Grace
    |mana_2|, Exile a card from your graveyard: Create a 1/1 white Human Soldier creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410016&type=card
-   :align: right
-
 Sorin, Grim Nemesis
    +1: Reveal the top card of your library and put that card into your hand. Each opponent loses life equal to its converted mana cost.
 
@@ -2339,17 +1499,11 @@ Sorin, Grim Nemesis
    −9: Create a number of 1/1 black Vampire Knight creature tokens with lifelink equal to the highest life total among all players.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410017&type=card
-   :align: right
-
 Brain in a Jar
    |mana_1|, |tap|: Put a charge counter on Brain in a Jar, then you may cast an instant or sorcery card with converted mana cost equal to the number of charge counters on Brain in a Jar from your hand without paying its mana cost.
 
    |mana_3|, |tap|, Remove X charge counters from Brain in a Jar: Scry X.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410018&type=card
-   :align: right
 
 Corrupted Grafstone
    Corrupted Grafstone enters the battlefield tapped.
@@ -2357,29 +1511,17 @@ Corrupted Grafstone
    |tap|: Choose a color of a card in your graveyard. Add one mana of that color.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410019&type=card
-   :align: right
-
 Epitaph Golem
    |mana_2|: Put target card from your graveyard on the bottom of your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410020&type=card
-   :align: right
 
 Explosive Apparatus
    |mana_3|, |tap|, Sacrifice Explosive Apparatus: It deals 2 damage to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410021&type=card
-   :align: right
-
 Harvest Hand
    When Harvest Hand dies, return it to the battlefield transformed under your control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410022&type=card
-   :align: right
 
 Scrounged Scythe
    Equipped creature gets +1/+1.
@@ -2389,17 +1531,11 @@ Scrounged Scythe
    Equip |mana_2|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410023&type=card
-   :align: right
-
 Haunted Cloak
    Equipped creature has vigilance, trample, and haste.
 
    Equip |mana_1|
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410024&type=card
-   :align: right
 
 Magnifying Glass
    |tap|: Add |colorless|.
@@ -2407,17 +1543,11 @@ Magnifying Glass
    |mana_4|, |tap|: Investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410025&type=card
-   :align: right
-
 Murderer's Axe
    Equipped creature gets +2/+2.
 
    Equip—Discard a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410026&type=card
-   :align: right
 
 Neglected Heirloom
    Equipped creature gets +1/+1.
@@ -2427,26 +1557,17 @@ Neglected Heirloom
    Equip |mana_1|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410027&type=card
-   :align: right
-
 Ashmouth Blade
    Equipped creature gets +3/+3 and has first strike.
 
    Equip |mana_3|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410028&type=card
-   :align: right
-
 Runaway Carriage
    Trample
 
    When Runaway Carriage attacks or blocks, sacrifice it at end of combat.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410029&type=card
-   :align: right
 
 Shard of Broken Glass
    Equipped creature gets +1/+0.
@@ -2456,9 +1577,6 @@ Shard of Broken Glass
    Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410030&type=card
-   :align: right
-
 Skeleton Key
    Equipped creature has skulk. (It can't be blocked by creatures with greater power.)
 
@@ -2466,9 +1584,6 @@ Skeleton Key
 
    Equip |mana_2|
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410031&type=card
-   :align: right
 
 Slayer's Plate
    Equipped creature gets +4/+2.
@@ -2478,17 +1593,11 @@ Slayer's Plate
    Equip |mana_3|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410032&type=card
-   :align: right
-
 Tamiyo's Journal
    At the beginning of your upkeep, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
    |tap|, Sacrifice three Clues: Search your library for a card and put that card into your hand. Then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410033&type=card
-   :align: right
 
 Thraben Gargoyle
    Defender
@@ -2496,15 +1605,9 @@ Thraben Gargoyle
    |mana_6|: Transform Thraben Gargoyle.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410034&type=card
-   :align: right
-
 Stonewing Antagonizer
    Flying
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410035&type=card
-   :align: right
 
 True-Faith Censer
    Equipped creature gets +1/+1 and has vigilance.
@@ -2514,15 +1617,9 @@ True-Faith Censer
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410036&type=card
-   :align: right
-
 Wicker Witch
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410037&type=card
-   :align: right
 
 Wild-Field Scarecrow
    Defender
@@ -2530,17 +1627,11 @@ Wild-Field Scarecrow
    |mana_2|, Sacrifice Wild-Field Scarecrow: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410038&type=card
-   :align: right
-
 Choked Estuary
    As Choked Estuary enters the battlefield, you may reveal an Island or Swamp card from your hand. If you don't, Choked Estuary enters the battlefield tapped.
 
    |tap|: Add |mana_u| or |mana_b|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410039&type=card
-   :align: right
 
 Drownyard Temple
    |tap|: Add |colorless|.
@@ -2548,17 +1639,11 @@ Drownyard Temple
    |mana_3|: Return Drownyard Temple from your graveyard to the battlefield tapped.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410040&type=card
-   :align: right
-
 Foreboding Ruins
    As Foreboding Ruins enters the battlefield, you may reveal a Swamp or Mountain card from your hand. If you don't, Foreboding Ruins enters the battlefield tapped.
 
    |tap|: Add |mana_b| or |mana_r|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410041&type=card
-   :align: right
 
 Forsaken Sanctuary
    Forsaken Sanctuary enters the battlefield tapped.
@@ -2566,17 +1651,11 @@ Forsaken Sanctuary
    |tap|: Add |mana_w| or |mana_b|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410042&type=card
-   :align: right
-
 Fortified Village
    As Fortified Village enters the battlefield, you may reveal a Forest or Plains card from your hand. If you don't, Fortified Village enters the battlefield tapped.
 
    |tap|: Add |mana_g| or |mana_w|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410043&type=card
-   :align: right
 
 Foul Orchard
    Foul Orchard enters the battlefield tapped.
@@ -2584,17 +1663,11 @@ Foul Orchard
    |tap|: Add |mana_b| or |mana_g|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410044&type=card
-   :align: right
-
 Game Trail
    As Game Trail enters the battlefield, you may reveal a Mountain or Forest card from your hand. If you don't, Game Trail enters the battlefield tapped.
 
    |tap|: Add |mana_r| or |mana_g|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410045&type=card
-   :align: right
 
 Highland Lake
    Highland Lake enters the battlefield tapped.
@@ -2602,17 +1675,11 @@ Highland Lake
    |tap|: Add |mana_u| or |mana_r|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410046&type=card
-   :align: right
-
 Port Town
    As Port Town enters the battlefield, you may reveal a Plains or Island card from your hand. If you don't, Port Town enters the battlefield tapped.
 
    |tap|: Add |mana_w| or |mana_u|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410047&type=card
-   :align: right
 
 Stone Quarry
    Stone Quarry enters the battlefield tapped.
@@ -2620,17 +1687,11 @@ Stone Quarry
    |tap|: Add |mana_r| or |mana_w|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410048&type=card
-   :align: right
-
 Warped Landscape
    |tap|: Add |colorless|.
 
    |mana_2|, |tap|, Sacrifice Warped Landscape: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410049&type=card
-   :align: right
 
 Westvale Abbey
    |tap|: Add |colorless|.
@@ -2640,15 +1701,9 @@ Westvale Abbey
    |mana_5|, |tap|, Sacrifice five creatures: Transform Westvale Abbey, then untap it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410050&type=card
-   :align: right
-
 Ormendahl, Profane Prince
    Flying, lifelink, indestructible, haste
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410051&type=card
-   :align: right
 
 Woodland Stream
    Woodland Stream enters the battlefield tapped.
@@ -2656,106 +1711,61 @@ Woodland Stream
    |tap|: Add |mana_g| or |mana_u|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410052&type=card
-   :align: right
+Plains
+   
+
 
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410053&type=card
-   :align: right
-
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410054&type=card
-   :align: right
-
-Plains
+Island
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410055&type=card
-   :align: right
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410056&type=card
-   :align: right
-
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410057&type=card
-   :align: right
-
-Island
+Swamp
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410058&type=card
-   :align: right
 
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410059&type=card
-   :align: right
-
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410060&type=card
-   :align: right
-
-Swamp
+Mountain
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410061&type=card
-   :align: right
 
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410062&type=card
-   :align: right
-
 Mountain
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410063&type=card
-   :align: right
-
-Mountain
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410064&type=card
-   :align: right
 
 Forest
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410065&type=card
-   :align: right
-
 Forest
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=410066&type=card
-   :align: right
 
 Forest
    

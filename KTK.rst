@@ -5,17 +5,11 @@ Khans of Tarkir
 ===============
         
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386466&type=card
-   :align: right
-
 Abzan Battle Priest
    Outlast |mana_w| (|mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
 
    Each creature you control with a +1/+1 counter on it has lifelink.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386468&type=card
-   :align: right
 
 Abzan Falconer
    Outlast |mana_w| (|mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
@@ -23,24 +17,15 @@ Abzan Falconer
    Each creature you control with a +1/+1 counter on it has flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386471&type=card
-   :align: right
-
 Ainok Bond-Kin
    Outlast |mana_1| |mana_w| (|mana_1| |mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
 
    Each creature you control with a +1/+1 counter on it has first strike.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386473&type=card
-   :align: right
-
 Alabaster Kirin
    Flying, vigilance
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386497&type=card
-   :align: right
 
 Brave the Sands
    Creatures you control have vigilance.
@@ -48,17 +33,11 @@ Brave the Sands
    Each creature you control can block an additional creature each combat.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386511&type=card
-   :align: right
-
 Dazzling Ramparts
    Defender
 
    |mana_1| |mana_w|, |tap|: Tap target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386515&type=card
-   :align: right
 
 Defiant Strike
    Target creature gets +1/+0 until end of turn.
@@ -66,45 +45,27 @@ Defiant Strike
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386532&type=card
-   :align: right
-
 End Hostilities
    Destroy all creatures and all permanents attached to creatures.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386533&type=card
-   :align: right
 
 Erase
    Exile target enchantment.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386534&type=card
-   :align: right
-
 Feat of Resistance
    Put a +1/+1 counter on target creature you control. It gains protection from the color of your choice until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386536&type=card
-   :align: right
-
 Firehoof Cavalry
    |mana_3| |mana_r|: Firehoof Cavalry gets +2/+0 and gains trample until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386553&type=card
-   :align: right
 
 Herald of Anafenza
    Outlast |mana_2| |mana_w| (|mana_2| |mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
 
    Whenever you activate Herald of Anafenza's outlast ability, create a 1/1 white Warrior creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386554&type=card
-   :align: right
 
 High Sentinels of Arashin
    Flying
@@ -114,36 +75,21 @@ High Sentinels of Arashin
    |mana_3| |mana_w|: Put a +1/+1 counter on target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386575&type=card
-   :align: right
-
 Jeskai Student
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386582&type=card
-   :align: right
 
 Kill Shot
    Destroy target attacking creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386594&type=card
-   :align: right
-
 Mardu Hateblade
    |mana_b|: Mardu Hateblade gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386596&type=card
-   :align: right
-
 Mardu Hordechief
    Raid — When Mardu Hordechief enters the battlefield, if you attacked with a creature this turn, create a 1/1 white Warrior creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386600&type=card
-   :align: right
 
 Master of Pearls
    Morph |mana_3| |mana_w| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
@@ -151,15 +97,9 @@ Master of Pearls
    When Master of Pearls is turned face up, creatures you control get +2/+2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386642&type=card
-   :align: right
-
 Rush of Battle
    Creatures you control get +2/+1 until end of turn. Warrior creatures you control gain lifelink until end of turn. (Damage dealt by those Warriors also causes their controller to gain that much life.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386645&type=card
-   :align: right
 
 Sage-Eye Harrier
    Flying
@@ -167,15 +107,9 @@ Sage-Eye Harrier
    Morph |mana_3| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386648&type=card
-   :align: right
-
 Salt Road Patrol
    Outlast |mana_1| |mana_w| (|mana_1| |mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386660&type=card
-   :align: right
 
 Seeker of the Way
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
@@ -183,59 +117,35 @@ Seeker of the Way
    Whenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386667&type=card
-   :align: right
-
 Siegecraft
    Enchant creature
 
    Enchanted creature gets +2/+4.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386669&type=card
-   :align: right
-
 Smite the Monstrous
    Destroy target creature with power 4 or greater.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386682&type=card
-   :align: right
 
 Suspension Field
    When Suspension Field enters the battlefield, you may exile target creature with toughness 3 or greater until Suspension Field leaves the battlefield. (That creature returns under its owner's control.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386691&type=card
-   :align: right
-
 Take Up Arms
    Create three 1/1 white Warrior creature tokens.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386699&type=card
-   :align: right
 
 Timely Hordemate
    Raid — When Timely Hordemate enters the battlefield, if you attacked with a creature this turn, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386713&type=card
-   :align: right
-
 Venerable Lammasu
    Flying
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386715&type=card
-   :align: right
-
 War Behemoth
    Morph |mana_4| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386718&type=card
-   :align: right
 
 Watcher of the Roost
    Flying
@@ -245,9 +155,6 @@ Watcher of the Roost
    When Watcher of the Roost is turned face up, you gain 2 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386726&type=card
-   :align: right
-
 Wingmate Roc
    Flying
 
@@ -256,31 +163,19 @@ Wingmate Roc
    Whenever Wingmate Roc attacks, you gain 1 life for each attacking creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386490&type=card
-   :align: right
-
 Blinding Spray
    Creatures your opponents control get -4/-0 until end of turn.
 
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386502&type=card
-   :align: right
-
 Cancel
    Counter target spell.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386506&type=card
-   :align: right
-
 Clever Impersonator
    You may have Clever Impersonator enter the battlefield as a copy of any nonland permanent on the battlefield.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386510&type=card
-   :align: right
 
 Crippling Chill
    Tap target creature. It doesn't untap during its controller's next untap step.
@@ -288,24 +183,15 @@ Crippling Chill
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386518&type=card
-   :align: right
-
 Dig Through Time
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
 
    Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386519&type=card
-   :align: right
-
 Disdainful Stroke
    Counter target spell with converted mana cost 4 or greater.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386524&type=card
-   :align: right
 
 Dragon's Eye Savants
    Morph—Reveal a blue card in your hand. (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
@@ -313,15 +199,9 @@ Dragon's Eye Savants
    When Dragon's Eye Savants is turned face up, look at target opponent's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386530&type=card
-   :align: right
-
 Embodiment of Spring
    |mana_1| |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386539&type=card
-   :align: right
 
 Force Away
    Return target creature to its owner's hand.
@@ -329,15 +209,9 @@ Force Away
    Ferocious — If you control a creature with power 4 or greater, you may draw a card. If you do, discard a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386546&type=card
-   :align: right
-
 Glacial Stalker
    Morph |mana_4| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386563&type=card
-   :align: right
 
 Icy Blast
    Tap X target creatures.
@@ -345,17 +219,11 @@ Icy Blast
    Ferocious — If you control a creature with power 4 or greater, those creatures don't untap during their controllers' next untap steps.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386574&type=card
-   :align: right
-
 Jeskai Elder
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 
    Whenever Jeskai Elder deals combat damage to a player, you may draw a card. If you do, discard a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386576&type=card
-   :align: right
 
 Jeskai Windscout
    Flying
@@ -363,17 +231,11 @@ Jeskai Windscout
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386581&type=card
-   :align: right
-
 Kheru Spellsnatcher
    Morph |mana_4| |mana_u| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Kheru Spellsnatcher is turned face up, counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may cast that card without paying its mana cost for as long as it remains exiled.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386605&type=card
-   :align: right
 
 Mistfire Weaver
    Flying
@@ -383,26 +245,17 @@ Mistfire Weaver
    When Mistfire Weaver is turned face up, target creature you control gains hexproof until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386607&type=card
-   :align: right
-
 Monastery Flock
    Defender, flying
 
    Morph |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386615&type=card
-   :align: right
-
 Mystic of the Hidden Way
    Mystic of the Hidden Way can't be blocked.
 
    Morph |mana_2| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386621&type=card
-   :align: right
 
 Pearl Lake Ancient
    Flash
@@ -414,15 +267,9 @@ Pearl Lake Ancient
    Return three lands you control to their owner's hand: Return Pearl Lake Ancient to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386629&type=card
-   :align: right
-
 Quiet Contemplation
    Whenever you cast a noncreature spell, you may pay |mana_1|. If you do, tap target creature an opponent controls and it doesn't untap during its controller's next untap step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386638&type=card
-   :align: right
 
 Riverwheel Aerialists
    Flying
@@ -430,33 +277,21 @@ Riverwheel Aerialists
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386653&type=card
-   :align: right
-
 Scaldkin
    Flying
 
    |mana_2| |mana_r|, Sacrifice Scaldkin: Scaldkin deals 2 damage to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386654&type=card
-   :align: right
-
 Scion of Glaciers
    |mana_u|: Scion of Glaciers gets +1/-1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386661&type=card
-   :align: right
 
 Set Adrift
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
 
    Put target nonland permanent on top of its owner's library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386668&type=card
-   :align: right
 
 Singing Bell Strike
    Enchant creature
@@ -468,24 +303,15 @@ Singing Bell Strike
    Enchanted creature has "|mana_6|: Untap this creature."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386673&type=card
-   :align: right
-
 Stubborn Denial
    Counter target noncreature spell unless its controller pays |mana_1|.
 
    Ferocious — If you control a creature with power 4 or greater, counter that spell instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386690&type=card
-   :align: right
-
 Taigam's Scheming
    Look at the top five cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386697&type=card
-   :align: right
 
 Thousand Winds
    Flying
@@ -495,38 +321,23 @@ Thousand Winds
    When Thousand Winds is turned face up, return all other tapped creatures to their owners' hands.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386705&type=card
-   :align: right
-
 Treasure Cruise
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
 
    Draw three cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386719&type=card
-   :align: right
-
 Waterwhirl
    Return up to two target creatures to their owners' hands.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386720&type=card
-   :align: right
 
 Weave Fate
    Draw two cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386721&type=card
-   :align: right
-
 Wetland Sambar
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386722&type=card
-   :align: right
 
 Whirlwind Adept
    Hexproof (This creature can't be the target of spells or abilities your opponents control.)
@@ -534,22 +345,13 @@ Whirlwind Adept
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386488&type=card
-   :align: right
-
 Bellowing Saddlebrute
    Raid — When Bellowing Saddlebrute enters the battlefield, you lose 4 life unless you attacked with a creature this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386489&type=card
-   :align: right
-
 Bitter Revelation
    Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386494&type=card
-   :align: right
 
 Bloodsoaked Champion
    Bloodsoaked Champion can't block.
@@ -557,17 +359,11 @@ Bloodsoaked Champion
    Raid — |mana_1| |mana_b|: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate this ability only if you attacked with a creature this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386512&type=card
-   :align: right
-
 Dead Drop
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
 
    Target player sacrifices two creatures.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386514&type=card
-   :align: right
 
 Debilitating Injury
    Enchant creature
@@ -575,29 +371,17 @@ Debilitating Injury
    Enchanted creature gets -2/-2.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386517&type=card
-   :align: right
-
 Despise
    Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386521&type=card
-   :align: right
 
 Disowned Ancestor
    Outlast |mana_1| |mana_b| (|mana_1| |mana_b|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386528&type=card
-   :align: right
-
 Dutiful Return
    Return up to two target creature cards from your graveyard to your hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386531&type=card
-   :align: right
 
 Empty the Pits
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
@@ -605,24 +389,15 @@ Empty the Pits
    Create X tapped 2/2 black Zombie creature tokens.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386548&type=card
-   :align: right
-
 Grim Haruspex
    Morph |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    Whenever another nontoken creature you control dies, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386549&type=card
-   :align: right
-
 Gurmag Swiftwing
    Flying, first strike, haste
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386578&type=card
-   :align: right
 
 Kheru Bloodsucker
    Whenever a creature you control with toughness 4 or greater dies, each opponent loses 2 life and you gain 2 life.
@@ -630,24 +405,15 @@ Kheru Bloodsucker
    |mana_2| |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Kheru Bloodsucker.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386579&type=card
-   :align: right
-
 Kheru Dreadmaw
    Defender
 
    |mana_1| |mana_g|, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386585&type=card
-   :align: right
-
 Krumar Bond-Kin
    Morph |mana_4| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386598&type=card
-   :align: right
 
 Mardu Skullhunter
    Mardu Skullhunter enters the battlefield tapped.
@@ -655,17 +421,11 @@ Mardu Skullhunter
    Raid — When Mardu Skullhunter enters the battlefield, if you attacked with a creature this turn, target opponent discards a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386603&type=card
-   :align: right
-
 Mer-Ek Nightblade
    Outlast |mana_b| (|mana_b|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
 
    Each creature you control with a +1/+1 counter on it has deathtouch.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386606&type=card
-   :align: right
 
 Molting Snakeskin
    Enchant creature
@@ -673,17 +433,11 @@ Molting Snakeskin
    Enchanted creature gets +2/+0 and has "|mana_2| |mana_b|: Regenerate this creature."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386613&type=card
-   :align: right
-
 Murderous Cut
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
 
    Destroy target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386618&type=card
-   :align: right
 
 Necropolis Fiend
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
@@ -693,45 +447,27 @@ Necropolis Fiend
    |mana_x|, |tap|, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386630&type=card
-   :align: right
-
 Raiders' Spoils
    Creatures you control get +1/+0.
 
    Whenever a Warrior you control deals combat damage to a player, you may pay 1 life. If you do, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386633&type=card
-   :align: right
-
 Rakshasa's Secret
    Target opponent discards two cards. Put the top two cards of your library into your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386635&type=card
-   :align: right
 
 Retribution of the Ancients
    |mana_b|, Remove X +1/+1 counters from among creatures you control: Target creature gets -X/-X until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386637&type=card
-   :align: right
-
 Rite of the Serpent
    Destroy target creature. If that creature had a +1/+1 counter on it, create a 1/1 green Snake creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386640&type=card
-   :align: right
-
 Rotting Mastodon
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386643&type=card
-   :align: right
 
 Ruthless Ripper
    Deathtouch
@@ -741,17 +477,11 @@ Ruthless Ripper
    When Ruthless Ripper is turned face up, target player loses 2 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386662&type=card
-   :align: right
-
 Shambling Attendants
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
 
    Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386665&type=card
-   :align: right
 
 Sidisi's Pet
    Lifelink (Damage dealt by this creature also causes you to gain that much life.)
@@ -759,17 +489,11 @@ Sidisi's Pet
    Morph |mana_1| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386678&type=card
-   :align: right
-
 Sultai Scavenger
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
 
    Flying
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386687&type=card
-   :align: right
 
 Swarm of Bloodflies
    Flying
@@ -779,29 +503,17 @@ Swarm of Bloodflies
    Whenever another creature dies, put a +1/+1 counter on Swarm of Bloodflies.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386698&type=card
-   :align: right
-
 Throttle
    Target creature gets -4/-4 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386710&type=card
-   :align: right
 
 Unyielding Krumar
    |mana_1| |mana_w|: Unyielding Krumar gains first strike until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386470&type=card
-   :align: right
-
 Act of Treason
    Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and |tap| this turn.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386472&type=card
-   :align: right
 
 Ainok Tracker
    First strike
@@ -809,24 +521,15 @@ Ainok Tracker
    Morph |mana_4| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386478&type=card
-   :align: right
-
 Arc Lightning
    Arc Lightning deals 3 damage divided as you choose among one, two, or three targets.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386481&type=card
-   :align: right
 
 Arrow Storm
    Arrow Storm deals 4 damage to any target.
 
    Raid — If you attacked with a creature this turn, instead Arrow Storm deals 5 damage to that permanent or player and the damage can't be prevented.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386482&type=card
-   :align: right
 
 Ashcloud Phoenix
    Flying
@@ -838,61 +541,37 @@ Ashcloud Phoenix
    When Ashcloud Phoenix is turned face up, it deals 2 damage to each player.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386485&type=card
-   :align: right
-
 Barrage of Boulders
    Barrage of Boulders deals 1 damage to each creature you don't control.
 
    Ferocious — If you control a creature with power 4 or greater, creatures can't block this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386492&type=card
-   :align: right
-
 Bloodfire Expert
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386493&type=card
-   :align: right
 
 Bloodfire Mentor
    |mana_2| |mana_u|, |tap|: Draw a card, then discard a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386499&type=card
-   :align: right
-
 Bring Low
    Bring Low deals 3 damage to target creature. If that creature has a +1/+1 counter on it, Bring Low deals 5 damage to it instead.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386500&type=card
-   :align: right
 
 Burn Away
    Burn Away deals 6 damage to target creature. When that creature dies this turn, exile all cards from its controller's graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386503&type=card
-   :align: right
-
 Canyon Lurkers
    Morph |mana_3| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386509&type=card
-   :align: right
 
 Crater's Claws
    Crater's Claws deals X damage to any target.
 
    Ferocious — Crater's Claws deals X plus 2 damage to that permanent or player instead if you control a creature with power 4 or greater.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386522&type=card
-   :align: right
 
 Dragon Grip
    Ferocious — If you control a creature with power 4 or greater, you may cast Dragon Grip as though it had flash. (You may cast it any time you could cast an instant.)
@@ -902,24 +581,15 @@ Dragon Grip
    Enchanted creature gets +2/+0 and has first strike.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386526&type=card
-   :align: right
-
 Dragon-Style Twins
    Double strike
 
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386547&type=card
-   :align: right
-
 Goblinslide
    Whenever you cast a noncreature spell, you may pay |mana_1|. If you do, create a 1/1 red Goblin creature token with haste.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386559&type=card
-   :align: right
 
 Horde Ambusher
    Whenever Horde Ambusher blocks, it deals 1 damage to you.
@@ -929,15 +599,9 @@ Horde Ambusher
    When Horde Ambusher is turned face up, target creature can't block this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386560&type=card
-   :align: right
-
 Hordeling Outburst
    Create three 1/1 red Goblin creature tokens.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386561&type=card
-   :align: right
 
 Howl of the Horde
    When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
@@ -945,54 +609,33 @@ Howl of the Horde
    Raid — If you attacked with a creature this turn, when you cast your next instant or sorcery spell this turn, copy that spell an additional time. You may choose new targets for the copy.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386570&type=card
-   :align: right
-
 Jeering Instigator
    Morph |mana_2| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386586&type=card
-   :align: right
-
 Leaping Master
    |mana_2| |mana_w|: Leaping Master gains flying until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386592&type=card
-   :align: right
 
 Mardu Blazebringer
    When Mardu Blazebringer attacks or blocks, sacrifice it at end of combat.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386595&type=card
-   :align: right
-
 Mardu Heart-Piercer
    Raid — When Mardu Heart-Piercer enters the battlefield, if you attacked with a creature this turn, Mardu Heart-Piercer deals 2 damage to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386599&type=card
-   :align: right
-
 Mardu Warshrieker
    Raid — When Mardu Warshrieker enters the battlefield, if you attacked with a creature this turn, add |mana_r| |mana_w| |mana_b|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386608&type=card
-   :align: right
 
 Monastery Swiftspear
    Haste
 
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386650&type=card
-   :align: right
 
 Sarkhan, the Dragonspeaker
    +1: Until end of turn, Sarkhan, the Dragonspeaker becomes a legendary 4/4 red Dragon creature with flying, indestructible, and haste. (He doesn't lose loyalty while he's not a planeswalker.)
@@ -1002,29 +645,17 @@ Sarkhan, the Dragonspeaker
    −6: You get an emblem with "At the beginning of your draw step, draw two additional cards" and "At the beginning of your end step, discard your hand."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386663&type=card
-   :align: right
-
 Shatter
    Destroy target artifact.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386680&type=card
-   :align: right
 
 Summit Prowler
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386688&type=card
-   :align: right
-
 Swift Kick
    Target creature you control gets +1/+0 until end of turn. It fights target creature you don't control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386701&type=card
-   :align: right
 
 Tormenting Voice
    As an additional cost to cast this spell, discard a card.
@@ -1032,15 +663,9 @@ Tormenting Voice
    Draw two cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386706&type=card
-   :align: right
-
 Trumpet Blast
    Attacking creatures get +2/+0 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386712&type=card
-   :align: right
 
 Valley Dasher
    Haste
@@ -1048,24 +673,15 @@ Valley Dasher
    Valley Dasher attacks each combat if able.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386717&type=card
-   :align: right
-
 War-Name Aspirant
    Raid — War-Name Aspirant enters the battlefield with a +1/+1 counter on it if you attacked with a creature this turn.
 
    War-Name Aspirant can't be blocked by creatures with power 1 or less.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386474&type=card
-   :align: right
-
 Alpine Grizzly
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386479&type=card
-   :align: right
 
 Archers' Parapet
    Defender
@@ -1073,15 +689,9 @@ Archers' Parapet
    |mana_1| |mana_b|, |tap|: Each opponent loses 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386484&type=card
-   :align: right
-
 Awaken the Bear
    Target creature gets +3/+3 and gains trample until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386487&type=card
-   :align: right
 
 Become Immense
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
@@ -1089,15 +699,9 @@ Become Immense
    Target creature gets +6/+6 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386525&type=card
-   :align: right
-
 Dragonscale Boon
    Put two +1/+1 counters on target creature and untap it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386535&type=card
-   :align: right
 
 Feed the Clan
    You gain 5 life.
@@ -1105,15 +709,9 @@ Feed the Clan
    Ferocious — You gain 10 life instead if you control a creature with power 4 or greater.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386550&type=card
-   :align: right
-
 Hardened Scales
    If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386552&type=card
-   :align: right
 
 Heir of the Wilds
    Deathtouch
@@ -1121,15 +719,9 @@ Heir of the Wilds
    Ferocious — Whenever Heir of the Wilds attacks, if you control a creature with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386555&type=card
-   :align: right
-
 Highland Game
    When Highland Game dies, you gain 2 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386557&type=card
-   :align: right
 
 Hooded Hydra
    Hooded Hydra enters the battlefield with X +1/+1 counters on it.
@@ -1141,24 +733,15 @@ Hooded Hydra
    As Hooded Hydra is turned face up, put five +1/+1 counters on it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386558&type=card
-   :align: right
-
 Hooting Mandrills
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
 
    Trample
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386564&type=card
-   :align: right
-
 Incremental Growth
    Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386584&type=card
-   :align: right
 
 Kin-Tree Warden
    |mana_2|: Regenerate Kin-Tree Warden.
@@ -1166,17 +749,11 @@ Kin-Tree Warden
    Morph |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386588&type=card
-   :align: right
-
 Longshot Squad
    Outlast |mana_1| |mana_g| (|mana_1| |mana_g|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
 
    Each creature you control with a +1/+1 counter on it has reach. (A creature with reach can block creatures with flying.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386602&type=card
-   :align: right
 
 Meandering Towershell
    Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
@@ -1184,24 +761,15 @@ Meandering Towershell
    Whenever Meandering Towershell attacks, exile it. Return it to the battlefield under your control tapped and attacking at the beginning of the declare attackers step on your next turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386617&type=card
-   :align: right
-
 Naturalize
    Destroy target artifact or enchantment.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386622&type=card
-   :align: right
 
 Pine Walker
    Morph |mana_4| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    Whenever Pine Walker or another creature you control is turned face up, untap that creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386634&type=card
-   :align: right
 
 Rattleclaw Mystic
    |tap|: Add |mana_g|, |mana_u|, or |mana_r|.
@@ -1211,17 +779,11 @@ Rattleclaw Mystic
    When Rattleclaw Mystic is turned face up, add |mana_g| |mana_u| |mana_r|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386639&type=card
-   :align: right
-
 Roar of Challenge
    All creatures able to block target creature this turn do so.
 
    Ferocious — That creature gains indestructible until end of turn if you control a creature with power 4 or greater.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386646&type=card
-   :align: right
 
 Sagu Archer
    Reach (This creature can block creatures with flying.)
@@ -1229,24 +791,15 @@ Sagu Archer
    Morph |mana_4| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386652&type=card
-   :align: right
-
 Savage Punch
    Target creature you control fights target creature you don't control.
 
    Ferocious — The creature you control gets +2/+2 until end of turn before it fights if you control a creature with power 4 or greater.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386656&type=card
-   :align: right
-
 Scout the Borders
    Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386658&type=card
-   :align: right
 
 See the Unwritten
    Reveal the top eight cards of your library. You may put a creature card from among them onto the battlefield. Put the rest into your graveyard.
@@ -1254,29 +807,17 @@ See the Unwritten
    Ferocious — If you control a creature with power 4 or greater, you may put two creature cards onto the battlefield instead of one.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386659&type=card
-   :align: right
-
 Seek the Horizon
    Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386670&type=card
-   :align: right
 
 Smoke Teller
    |mana_1| |mana_u|: Look at target face-down creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386677&type=card
-   :align: right
-
 Sultai Flayer
    Whenever a creature you control with toughness 4 or greater dies, you gain 4 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386694&type=card
-   :align: right
 
 Temur Charger
    Morph—Reveal a green card in your hand. (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
@@ -1284,24 +825,15 @@ Temur Charger
    When Temur Charger is turned face up, target creature gains trample until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386702&type=card
-   :align: right
-
 Trail of Mystery
    Whenever a face-down creature enters the battlefield under your control, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
 
    Whenever a permanent you control is turned face up, if it's a creature, it gets +2/+2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386707&type=card
-   :align: right
-
 Tusked Colossodon
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386708&type=card
-   :align: right
 
 Tuskguard Captain
    Outlast |mana_g| (|mana_g|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
@@ -1309,22 +841,13 @@ Tuskguard Captain
    Each creature you control with a +1/+1 counter on it has trample.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386724&type=card
-   :align: right
-
 Windstorm
    Windstorm deals X damage to each creature with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386730&type=card
-   :align: right
-
 Woolly Loxodon
    Morph |mana_5| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386463&type=card
-   :align: right
 
 Abomination of Gudul
    Flying
@@ -1334,17 +857,11 @@ Abomination of Gudul
    Morph |mana_2| |mana_b| |mana_g| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386464&type=card
-   :align: right
-
 Abzan Ascendancy
    When Abzan Ascendancy enters the battlefield, put a +1/+1 counter on each creature you control.
 
    Whenever a nontoken creature you control dies, create a 1/1 white Spirit creature token with flying.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386467&type=card
-   :align: right
 
 Abzan Charm
    Choose one —
@@ -1356,17 +873,11 @@ Abzan Charm
    • Distribute two +1/+1 counters among one or two target creatures.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386469&type=card
-   :align: right
-
 Abzan Guide
    Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 
    Morph |mana_2| |mana_w| |mana_b| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386476&type=card
-   :align: right
 
 Anafenza, the Foremost
    Whenever Anafenza, the Foremost attacks, put a +1/+1 counter on another target tapped creature you control.
@@ -1374,38 +885,23 @@ Anafenza, the Foremost
    If a nontoken creature an opponent owns would die or a creature card not on the battlefield would be put into an opponent's graveyard, exile that card instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386477&type=card
-   :align: right
-
 Ankle Shanker
    Haste
 
    Whenever Ankle Shanker attacks, creatures you control gain first strike and deathtouch until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386480&type=card
-   :align: right
-
 Armament Corps
    When Armament Corps enters the battlefield, distribute two +1/+1 counters among one or two target creatures you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386483&type=card
-   :align: right
 
 Avalanche Tusker
    Whenever Avalanche Tusker attacks, target creature defending player controls blocks it this combat if able.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386486&type=card
-   :align: right
-
 Bear's Companion
    When Bear's Companion enters the battlefield, create a 4/4 green Bear creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386501&type=card
-   :align: right
 
 Butcher of the Horde
    Flying
@@ -1413,50 +909,29 @@ Butcher of the Horde
    Sacrifice another creature: Butcher of the Horde gains your choice of vigilance, lifelink, or haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386504&type=card
-   :align: right
-
 Chief of the Edge
    Other Warrior creatures you control get +1/+0.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386505&type=card
-   :align: right
 
 Chief of the Scale
    Other Warrior creatures you control get +0/+1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386507&type=card
-   :align: right
-
 Crackling Doom
    Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices a creature with the greatest power among creatures that player controls.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386513&type=card
-   :align: right
 
 Death Frenzy
    All creatures get -2/-2 until end of turn. Whenever a creature dies this turn, you gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386516&type=card
-   :align: right
-
 Deflecting Palm
    The next time a source of your choice would deal damage to you this turn, prevent that damage. If damage is prevented this way, Deflecting Palm deals that much damage to that source's controller.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386527&type=card
-   :align: right
-
 Duneblast
    Choose up to one creature. Destroy the rest.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386529&type=card
-   :align: right
 
 Efreet Weaponmaster
    First strike
@@ -1466,22 +941,13 @@ Efreet Weaponmaster
    Morph |mana_2| |mana_u| |mana_r| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386538&type=card
-   :align: right
-
 Flying Crane Technique
    Untap all creatures you control. They gain flying and double strike until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386556&type=card
-   :align: right
-
 Highspire Mantis
    Flying, trample
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386562&type=card
-   :align: right
 
 Icefeather Aven
    Flying
@@ -1491,24 +957,15 @@ Icefeather Aven
    When Icefeather Aven is turned face up, you may return another target creature to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386569&type=card
-   :align: right
-
 Ivorytusk Fortress
    Untap each creature you control with a +1/+1 counter on it during each other player's untap step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386571&type=card
-   :align: right
 
 Jeskai Ascendancy
    Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn. Untap those creatures.
 
    Whenever you cast a noncreature spell, you may draw a card. If you do, discard a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386573&type=card
-   :align: right
 
 Jeskai Charm
    Choose one —
@@ -1520,38 +977,23 @@ Jeskai Charm
    • Creatures you control get +1/+1 and gain lifelink until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386580&type=card
-   :align: right
-
 Kheru Lich Lord
    At the beginning of your upkeep, you may pay |mana_2| |mana_b|. If you do, return a creature card at random from your graveyard to the battlefield. It gains flying, trample, and haste. Exile that card at the beginning of your next end step. If it would leave the battlefield, exile it instead of putting it anywhere else.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386583&type=card
-   :align: right
 
 Kin-Tree Invocation
    Create an X/X black and green Spirit Warrior creature token, where X is the greatest toughness among creatures you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386589&type=card
-   :align: right
-
 Mantis Rider
    Flying, vigilance, haste
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386590&type=card
-   :align: right
 
 Mardu Ascendancy
    Whenever a nontoken creature you control attacks, create a 1/1 red Goblin creature token that's tapped and attacking.
 
    Sacrifice Mardu Ascendancy: Creatures you control get +0/+3 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386593&type=card
-   :align: right
 
 Mardu Charm
    Choose one —
@@ -1563,29 +1005,17 @@ Mardu Charm
    • Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386597&type=card
-   :align: right
-
 Mardu Roughrider
    Whenever Mardu Roughrider attacks, target creature can't block this turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386601&type=card
-   :align: right
 
 Master the Way
    Draw a card. Master the Way deals damage to any target equal to the number of cards in your hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386604&type=card
-   :align: right
-
 Mindswipe
    Counter target spell unless its controller pays |mana_x|. Mindswipe deals X damage to that spell's controller.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386616&type=card
-   :align: right
 
 Narset, Enlightened Master
    First strike, hexproof
@@ -1593,17 +1023,11 @@ Narset, Enlightened Master
    Whenever Narset, Enlightened Master attacks, exile the top four cards of your library. Until end of turn, you may cast noncreature cards exiled with Narset this turn without paying their mana costs.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386628&type=card
-   :align: right
-
 Ponyback Brigade
    When Ponyback Brigade enters the battlefield or is turned face up, create three 1/1 red Goblin creature tokens.
 
    Morph |mana_2| |mana_r| |mana_w| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386631&type=card
-   :align: right
 
 Rakshasa Deathdealer
    |mana_b| |mana_g|: Rakshasa Deathdealer gets +2/+2 until end of turn.
@@ -1611,22 +1035,13 @@ Rakshasa Deathdealer
    |mana_b| |mana_g|: Regenerate Rakshasa Deathdealer.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386632&type=card
-   :align: right
-
 Rakshasa Vizier
    Whenever one or more cards are put into exile from your graveyard, put that many +1/+1 counters on Rakshasa Vizier.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386636&type=card
-   :align: right
-
 Ride Down
    Destroy target blocking creature. Creatures that were blocked by that creature this combat gain trample until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386644&type=card
-   :align: right
 
 Sage of the Inward Eye
    Flying
@@ -1634,17 +1049,11 @@ Sage of the Inward Eye
    Whenever you cast a noncreature spell, creatures you control gain lifelink until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386647&type=card
-   :align: right
-
 Sagu Mauler
    Trample, hexproof
 
    Morph |mana_3| |mana_g| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386651&type=card
-   :align: right
 
 Savage Knuckleblade
    |mana_2| |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. Activate this ability only once each turn.
@@ -1654,17 +1063,11 @@ Savage Knuckleblade
    |mana_r|: Savage Knuckleblade gains haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386657&type=card
-   :align: right
-
 Secret Plans
    Face-down creatures you control get +0/+1.
 
    Whenever a permanent you control is turned face up, draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386664&type=card
-   :align: right
 
 Sidisi, Brood Tyrant
    Whenever Sidisi, Brood Tyrant enters the battlefield or attacks, put the top three cards of your library into your graveyard.
@@ -1672,26 +1075,17 @@ Sidisi, Brood Tyrant
    Whenever one or more creature cards are put into your graveyard from your library, create a 2/2 black Zombie creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386666&type=card
-   :align: right
-
 Siege Rhino
    Trample
 
    When Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386671&type=card
-   :align: right
-
 Snowhorn Rider
    Trample
 
    Morph |mana_2| |mana_g| |mana_u| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386672&type=card
-   :align: right
 
 Sorin, Solemn Visitor
    +1: Until your next turn, creatures you control get +1/+0 and gain lifelink.
@@ -1701,15 +1095,9 @@ Sorin, Solemn Visitor
    −6: You get an emblem with "At the beginning of each opponent's upkeep, that player sacrifices a creature."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386674&type=card
-   :align: right
-
 Sultai Ascendancy
    At the beginning of your upkeep, look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386676&type=card
-   :align: right
 
 Sultai Charm
    Choose one —
@@ -1721,15 +1109,9 @@ Sultai Charm
    • Draw two cards, then discard a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386679&type=card
-   :align: right
-
 Sultai Soothsayer
    When Sultai Soothsayer enters the battlefield, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386681&type=card
-   :align: right
 
 Surrak Dragonclaw
    Flash
@@ -1741,17 +1123,11 @@ Surrak Dragonclaw
    Other creatures you control have trample.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386692&type=card
-   :align: right
-
 Temur Ascendancy
    Creatures you control have haste.
 
    Whenever a creature with power 4 or greater enters the battlefield under your control, you may draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386695&type=card
-   :align: right
 
 Temur Charm
    Choose one —
@@ -1763,36 +1139,21 @@ Temur Charm
    • Creatures with power 3 or less can't block this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386704&type=card
-   :align: right
-
 Trap Essence
    Counter target creature spell. Put two +1/+1 counters on up to one target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386711&type=card
-   :align: right
 
 Utter End
    Exile target nonland permanent.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386714&type=card
-   :align: right
-
 Villainous Wealth
    Target opponent exiles the top X cards of their library. You may cast any number of nonland cards with converted mana cost X or less from among them without paying their mana costs.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386716&type=card
-   :align: right
-
 Warden of the Eye
    When Warden of the Eye enters the battlefield, return target noncreature, nonland card from your graveyard to your hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386727&type=card
-   :align: right
 
 Winterflame
    Choose one or both —
@@ -1801,9 +1162,6 @@ Winterflame
 
    • Winterflame deals 2 damage to target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386731&type=card
-   :align: right
 
 Zurgo Helmsmasher
    Haste
@@ -1815,24 +1173,15 @@ Zurgo Helmsmasher
    Whenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386465&type=card
-   :align: right
-
 Abzan Banner
    |tap|: Add |mana_w|, |mana_b|, or |mana_g|.
 
    |mana_w| |mana_b| |mana_g|, |tap|, Sacrifice Abzan Banner: Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386475&type=card
-   :align: right
-
 Altar of the Brood
    Whenever another permanent enters the battlefield under your control, each opponent puts the top card of their library into their graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386498&type=card
-   :align: right
 
 Briber's Purse
    Briber's Purse enters the battlefield with X gem counters on it.
@@ -1840,24 +1189,15 @@ Briber's Purse
    |mana_1|, |tap|, Remove a gem counter from Briber's Purse: Target creature can't attack or block this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386508&type=card
-   :align: right
-
 Cranial Archive
    |mana_2|, Exile Cranial Archive: Target player shuffles their graveyard into their library. Draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386523&type=card
-   :align: right
 
 Dragon Throne of Tarkir
    Equipped creature has defender and "|mana_2|, |tap|: Other creatures you control gain trample and get +X/+X until end of turn, where X is this creature's power."
 
    Equip |mana_3|
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386545&type=card
-   :align: right
 
 Ghostfire Blade
    Equipped creature gets +2/+2.
@@ -1867,17 +1207,11 @@ Ghostfire Blade
    Ghostfire Blade's equip ability costs |mana_2| less to activate if it targets a colorless creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386551&type=card
-   :align: right
-
 Heart-Piercer Bow
    Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.
 
    Equip |mana_1|
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386572&type=card
-   :align: right
 
 Jeskai Banner
    |tap|: Add |mana_u|, |mana_r|, or |mana_w|.
@@ -1885,15 +1219,9 @@ Jeskai Banner
    |mana_u| |mana_r| |mana_w|, |tap|, Sacrifice Jeskai Banner: Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386587&type=card
-   :align: right
-
 Lens of Clarity
    You may look at the top card of your library and at face-down creatures you don't control. (You may do this at any time.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386591&type=card
-   :align: right
 
 Mardu Banner
    |tap|: Add |mana_r|, |mana_w|, or |mana_b|.
@@ -1901,17 +1229,11 @@ Mardu Banner
    |mana_r| |mana_w| |mana_b|, |tap|, Sacrifice Mardu Banner: Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386675&type=card
-   :align: right
-
 Sultai Banner
    |tap|: Add |mana_b|, |mana_g|, or |mana_u|.
 
    |mana_b| |mana_g| |mana_u|, |tap|, Sacrifice Sultai Banner: Draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386693&type=card
-   :align: right
 
 Temur Banner
    |tap|: Add |mana_g|, |mana_u|, or |mana_r|.
@@ -1919,24 +1241,15 @@ Temur Banner
    |mana_g| |mana_u| |mana_r|, |tap|, Sacrifice Temur Banner: Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386709&type=card
-   :align: right
-
 Ugin's Nexus
    If a player would begin an extra turn, that player skips that turn instead.
 
    If Ugin's Nexus would be put into a graveyard from the battlefield, instead exile it and take an extra turn after this one.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386728&type=card
-   :align: right
-
 Witness of the Ages
    Morph |mana_5| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386491&type=card
-   :align: right
 
 Bloodfell Caves
    Bloodfell Caves enters the battlefield tapped.
@@ -1946,15 +1259,9 @@ Bloodfell Caves
    |tap|: Add |mana_b| or |mana_r|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386495&type=card
-   :align: right
-
 Bloodstained Mire
    |tap|, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386496&type=card
-   :align: right
 
 Blossoming Sands
    Blossoming Sands enters the battlefield tapped.
@@ -1964,9 +1271,6 @@ Blossoming Sands
    |tap|: Add |mana_g| or |mana_w|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386520&type=card
-   :align: right
-
 Dismal Backwater
    Dismal Backwater enters the battlefield tapped.
 
@@ -1975,24 +1279,15 @@ Dismal Backwater
    |tap|: Add |mana_u| or |mana_b|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386537&type=card
-   :align: right
-
 Flooded Strand
    |tap|, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386544&type=card
-   :align: right
 
 Frontier Bivouac
    Frontier Bivouac enters the battlefield tapped.
 
    |tap|: Add |mana_g|, |mana_u|, or |mana_r|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386577&type=card
-   :align: right
 
 Jungle Hollow
    Jungle Hollow enters the battlefield tapped.
@@ -2002,17 +1297,11 @@ Jungle Hollow
    |tap|: Add |mana_b| or |mana_g|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386614&type=card
-   :align: right
-
 Mystic Monastery
    Mystic Monastery enters the battlefield tapped.
 
    |tap|: Add |mana_u|, |mana_r|, or |mana_w|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386619&type=card
-   :align: right
 
 Nomad Outpost
    Nomad Outpost enters the battlefield tapped.
@@ -2020,24 +1309,15 @@ Nomad Outpost
    |tap|: Add |mana_r|, |mana_w|, or |mana_b|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386620&type=card
-   :align: right
-
 Opulent Palace
    Opulent Palace enters the battlefield tapped.
 
    |tap|: Add |mana_b|, |mana_g|, or |mana_u|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386627&type=card
-   :align: right
-
 Polluted Delta
    |tap|, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386641&type=card
-   :align: right
 
 Rugged Highlands
    Rugged Highlands enters the battlefield tapped.
@@ -2047,17 +1327,11 @@ Rugged Highlands
    |tap|: Add |mana_r| or |mana_g|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386649&type=card
-   :align: right
-
 Sandsteppe Citadel
    Sandsteppe Citadel enters the battlefield tapped.
 
    |tap|: Add |mana_w|, |mana_b|, or |mana_g|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386655&type=card
-   :align: right
 
 Scoured Barrens
    Scoured Barrens enters the battlefield tapped.
@@ -2067,9 +1341,6 @@ Scoured Barrens
    |tap|: Add |mana_w| or |mana_b|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386689&type=card
-   :align: right
-
 Swiftwater Cliffs
    Swiftwater Cliffs enters the battlefield tapped.
 
@@ -2077,9 +1348,6 @@ Swiftwater Cliffs
 
    |tap|: Add |mana_u| or |mana_r|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386696&type=card
-   :align: right
 
 Thornwood Falls
    Thornwood Falls enters the battlefield tapped.
@@ -2089,17 +1357,11 @@ Thornwood Falls
    |tap|: Add |mana_g| or |mana_u|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386700&type=card
-   :align: right
-
 Tomb of the Spirit Dragon
    |tap|: Add |colorless|.
 
    |mana_2|, |tap|: You gain 1 life for each colorless creature you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386703&type=card
-   :align: right
 
 Tranquil Cove
    Tranquil Cove enters the battlefield tapped.
@@ -2109,9 +1371,6 @@ Tranquil Cove
    |tap|: Add |mana_w| or |mana_u|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386723&type=card
-   :align: right
-
 Wind-Scarred Crag
    Wind-Scarred Crag enters the battlefield tapped.
 
@@ -2120,155 +1379,89 @@ Wind-Scarred Crag
    |tap|: Add |mana_r| or |mana_w|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386725&type=card
-   :align: right
-
 Windswept Heath
    |tap|, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386729&type=card
-   :align: right
 
 Wooded Foothills
    |tap|, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386624&type=card
-   :align: right
+Plains
+   
+
 
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386625&type=card
-   :align: right
+Plains
+   
+
 
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386623&type=card
-   :align: right
-
-Plains
+Island
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386626&type=card
-   :align: right
-
-Plains
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386565&type=card
-   :align: right
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386566&type=card
-   :align: right
+Island
+   
+
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386567&type=card
-   :align: right
-
-Island
+Swamp
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386568&type=card
-   :align: right
-
-Island
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386685&type=card
-   :align: right
 
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386686&type=card
-   :align: right
+Swamp
+   
+
 
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386683&type=card
-   :align: right
-
-Swamp
+Mountain
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386684&type=card
-   :align: right
-
-Swamp
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386612&type=card
-   :align: right
 
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386611&type=card
-   :align: right
-
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386609&type=card
-   :align: right
-
 Mountain
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386610&type=card
-   :align: right
-
-Mountain
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386542&type=card
-   :align: right
 
 Forest
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386540&type=card
-   :align: right
-
 Forest
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386541&type=card
-   :align: right
-
 Forest
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=386543&type=card
-   :align: right
 
 Forest
    

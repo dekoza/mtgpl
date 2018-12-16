@@ -5,9 +5,6 @@ New Phyrexia
 ============
         
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214350&type=card
-   :align: right
-
 Karn Liberated
    +4: Target player exiles a card from their hand.
 
@@ -16,33 +13,21 @@ Karn Liberated
    −14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194208&type=card
-   :align: right
-
 Apostle's Blessing
    (|mana_wp| can be paid with either |mana_w| or 2 life.)
 
    Target artifact or creature you control gains protection from artifacts or from the color of your choice until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214353&type=card
-   :align: right
-
 Auriok Survivors
    When Auriok Survivors enters the battlefield, you may return target Equipment card from your graveyard to the battlefield. If you do, you may attach it to Auriok Survivors.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233068&type=card
-   :align: right
 
 Blade Splicer
    When Blade Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
 
    Golem creatures you control have first strike.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218024&type=card
-   :align: right
 
 Cathedral Membrane
    (|mana_wp| can be paid with either |mana_w| or 2 life.)
@@ -52,9 +37,6 @@ Cathedral Membrane
    When Cathedral Membrane dies during combat, it deals 6 damage to each creature it blocked this combat.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218083&type=card
-   :align: right
-
 Chancellor of the Annex
    You may reveal this card from your opening hand. If you do, when each opponent casts their first spell of the game, counter that spell unless that player pays |mana_1|.
 
@@ -63,26 +45,17 @@ Chancellor of the Annex
    Whenever an opponent casts a spell, counter it unless that player pays |mana_1|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218072&type=card
-   :align: right
-
 Dispatch
    Tap target creature.
 
    Metalcraft — If you control three or more artifacts, exile that creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233077&type=card
-   :align: right
-
 Due Respect
    Permanents enter the battlefield tapped this turn.
 
    Draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214352&type=card
-   :align: right
 
 Elesh Norn, Grand Cenobite
    Vigilance
@@ -92,17 +65,11 @@ Elesh Norn, Grand Cenobite
    Creatures your opponents control get -2/-2.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214364&type=card
-   :align: right
-
 Exclusion Ritual
    Imprint — When Exclusion Ritual enters the battlefield, exile target nonland permanent.
 
    Players can't cast spells with the same name as the exiled card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230083&type=card
-   :align: right
 
 Forced Worship
    Enchant creature
@@ -112,9 +79,6 @@ Forced Worship
    |mana_2| |mana_w|: Return Forced Worship to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218070&type=card
-   :align: right
-
 Inquisitor Exarch
    When Inquisitor Exarch enters the battlefield, choose one —
 
@@ -123,22 +87,13 @@ Inquisitor Exarch
    • Target opponent loses 2 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218053&type=card
-   :align: right
-
 Lost Leonin
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218013&type=card
-   :align: right
-
 Loxodon Convert
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230072&type=card
-   :align: right
 
 Marrow Shards
    (|mana_wp| can be paid with either |mana_w| or 2 life.)
@@ -146,17 +101,11 @@ Marrow Shards
    Marrow Shards deals 1 damage to each attacking creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233062&type=card
-   :align: right
-
 Master Splicer
    When Master Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
 
    Golem creatures you control get +1/+1.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233050&type=card
-   :align: right
 
 Norn's Annex
    (|mana_wp| can be paid with either |mana_w| or 2 life.)
@@ -164,17 +113,11 @@ Norn's Annex
    Creatures can't attack you or a planeswalker you control unless their controller pays |mana_wp| for each of those creatures.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218058&type=card
-   :align: right
-
 Phyrexian Unlife
    You don't lose the game for having 0 or less life.
 
    As long as you have 0 or less life, all damage is dealt to you as though its source had infect. (Damage is dealt to you in the form of poison counters.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218043&type=card
-   :align: right
 
 Porcelain Legionnaire
    (|mana_wp| can be paid with either |mana_w| or 2 life.)
@@ -182,17 +125,11 @@ Porcelain Legionnaire
    First strike
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227504&type=card
-   :align: right
-
 Puresteel Paladin
    Whenever an Equipment enters the battlefield under your control, you may draw a card.
 
    Metalcraft — Equipment you control have equip |mana_0| as long as you control three or more artifacts.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218078&type=card
-   :align: right
 
 Remember the Fallen
    Choose one or both —
@@ -202,17 +139,11 @@ Remember the Fallen
    • Return target artifact card from your graveyard to your hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233038&type=card
-   :align: right
-
 Sensor Splicer
    When Sensor Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
 
    Golem creatures you control have vigilance.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233059&type=card
-   :align: right
 
 Shattered Angel
    Flying
@@ -220,17 +151,11 @@ Shattered Angel
    Whenever a land enters the battlefield under an opponent's control, you may gain 3 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217994&type=card
-   :align: right
-
 Shriek Raptor
    Flying
 
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217981&type=card
-   :align: right
 
 Suture Priest
    Whenever another creature enters the battlefield under your control, you may gain 1 life.
@@ -238,15 +163,9 @@ Suture Priest
    Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230078&type=card
-   :align: right
-
 War Report
    You gain life equal to the number of creatures on the battlefield plus the number of artifacts on the battlefield.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218001&type=card
-   :align: right
 
 Argent Mutation
    Target permanent becomes an artifact in addition to its other types until end of turn.
@@ -254,15 +173,9 @@ Argent Mutation
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202641&type=card
-   :align: right
-
 Arm with Aether
    Until end of turn, creatures you control gain "Whenever this creature deals damage to an opponent, you may return target creature that player controls to its owner's hand."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214383&type=card
-   :align: right
 
 Blighted Agent
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
@@ -270,17 +183,11 @@ Blighted Agent
    Blighted Agent can't be blocked.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218075&type=card
-   :align: right
-
 Chained Throatseeker
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    Chained Throatseeker can't attack unless defending player is poisoned.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214360&type=card
-   :align: right
 
 Chancellor of the Spires
    You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent puts the top seven cards of their library into their graveyard.
@@ -290,15 +197,9 @@ Chancellor of the Spires
    When Chancellor of the Spires enters the battlefield, you may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233080&type=card
-   :align: right
-
 Corrupted Resolve
    Counter target spell if its controller is poisoned.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214365&type=card
-   :align: right
 
 Deceiver Exarch
    Flash (You may cast this spell any time you could cast an instant.)
@@ -310,17 +211,11 @@ Deceiver Exarch
    • Tap target permanent an opponent controls.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217987&type=card
-   :align: right
-
 Defensive Stance
    Enchant creature
 
    Enchanted creature gets -1/+1.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233056&type=card
-   :align: right
 
 Gitaxian Probe
    (|mana_up| can be paid with either |mana_u| or 2 life.)
@@ -330,17 +225,11 @@ Gitaxian Probe
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217988&type=card
-   :align: right
-
 Impaler Shrike
    Flying
 
    Whenever Impaler Shrike deals combat damage to a player, you may sacrifice it. If you do, draw three cards.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214349&type=card
-   :align: right
 
 Jin-Gitaxias, Core Augur
    Flash
@@ -350,24 +239,15 @@ Jin-Gitaxias, Core Augur
    Each opponent's maximum hand size is reduced by seven.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230066&type=card
-   :align: right
-
 Mental Misstep
    (|mana_up| can be paid with either |mana_u| or 2 life.)
 
    Counter target spell with converted mana cost 1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218085&type=card
-   :align: right
-
 Mindculling
    You draw two cards and target opponent discards two cards.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218040&type=card
-   :align: right
 
 Numbing Dose
    Enchant artifact or creature
@@ -377,17 +257,11 @@ Numbing Dose
    At the beginning of the upkeep of enchanted permanent's controller, that player loses 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214384&type=card
-   :align: right
-
 Phyrexian Ingester
    Imprint — When Phyrexian Ingester enters the battlefield, you may exile target nontoken creature.
 
    Phyrexian Ingester gets +X/+Y, where X is the exiled creature card's power and Y is its toughness.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214375&type=card
-   :align: right
 
 Phyrexian Metamorph
    (|mana_up| can be paid with either |mana_u| or 2 life.)
@@ -395,22 +269,13 @@ Phyrexian Metamorph
    You may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218016&type=card
-   :align: right
-
 Psychic Barrier
    Counter target creature spell. Its controller loses 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214347&type=card
-   :align: right
-
 Psychic Surgery
    Whenever an opponent shuffles their library, you may look at the top two cards of that library. You may exile one of those cards. Then put the rest on top of that library in any order.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217990&type=card
-   :align: right
 
 Spined Thopter
    (|mana_up| can be paid with either |mana_u| or 2 life.)
@@ -418,17 +283,11 @@ Spined Thopter
    Flying
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233053&type=card
-   :align: right
-
 Spire Monitor
    Flash (You may cast this spell any time you could cast an instant.)
 
    Flying
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227547&type=card
-   :align: right
 
 Tezzeret's Gambit
    (|mana_up| can be paid with either |mana_u| or 2 life.)
@@ -436,15 +295,9 @@ Tezzeret's Gambit
    Draw two cards, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218017&type=card
-   :align: right
-
 Vapor Snag
    Return target creature to its owner's hand. Its controller loses 1 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233047&type=card
-   :align: right
 
 Viral Drake
    Flying
@@ -454,17 +307,11 @@ Viral Drake
    |mana_3| |mana_u|: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233037&type=card
-   :align: right
-
 Wing Splicer
    When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
 
    Golem creatures you control have flying.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227544&type=card
-   :align: right
 
 Xenograft
    As Xenograft enters the battlefield, choose a creature type.
@@ -472,24 +319,15 @@ Xenograft
    Each creature you control is the chosen type in addition to its other types.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217999&type=card
-   :align: right
-
 Blind Zealot
    Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
    Whenever Blind Zealot deals combat damage to a player, you may sacrifice it. If you do, destroy target creature that player controls.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218061&type=card
-   :align: right
-
 Caress of Phyrexia
    Target player draws three cards, loses 3 life, and gets three poison counters.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218020&type=card
-   :align: right
 
 Chancellor of the Dross
    You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, each opponent loses 3 life, then you gain life equal to the life lost this way.
@@ -497,33 +335,21 @@ Chancellor of the Dross
    Flying, lifelink
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233084&type=card
-   :align: right
-
 Dementia Bat
    Flying
 
    |mana_4| |mana_b|, Sacrifice Dementia Bat: Target player discards two cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233043&type=card
-   :align: right
-
 Despise
    Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230082&type=card
-   :align: right
 
 Dismember
    (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
    Target creature gets -5/-5 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233060&type=card
-   :align: right
 
 Enslave
    Enchant creature
@@ -533,9 +359,6 @@ Enslave
    At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218023&type=card
-   :align: right
-
 Entomber Exarch
    When Entomber Exarch enters the battlefield, choose one —
 
@@ -544,24 +367,15 @@ Entomber Exarch
    • Target opponent reveals their hand. You choose a noncreature card from it. That player discards that card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218073&type=card
-   :align: right
-
 Evil Presence
    Enchant land
 
    Enchanted land is a Swamp.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214376&type=card
-   :align: right
-
 Geth's Verdict
    Target player sacrifices a creature and loses 1 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214346&type=card
-   :align: right
 
 Glistening Oil
    Enchant creature
@@ -573,15 +387,9 @@ Glistening Oil
    When Glistening Oil is put into a graveyard from the battlefield, return Glistening Oil to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214389&type=card
-   :align: right
-
 Grim Affliction
    Put a -1/-1 counter on target creature, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218066&type=card
-   :align: right
 
 Ichor Explosion
    As an additional cost to cast this spell, sacrifice a creature.
@@ -589,15 +397,9 @@ Ichor Explosion
    All creatures get -X/-X until end of turn, where X is the sacrificed creature's power.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214362&type=card
-   :align: right
-
 Life's Finale
    Destroy all creatures, then search target opponent's library for up to three creature cards and put them into their graveyard. Then that player shuffles their library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233072&type=card
-   :align: right
 
 Mortis Dogs
    Whenever Mortis Dogs attacks, it gets +2/+0 until end of turn.
@@ -605,17 +407,11 @@ Mortis Dogs
    When Mortis Dogs dies, target player loses life equal to its power.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194216&type=card
-   :align: right
-
 Parasitic Implant
    Enchant creature
 
    At the beginning of your upkeep, enchanted creature's controller sacrifices it and you create a 1/1 colorless Myr artifact creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214386&type=card
-   :align: right
 
 Phyrexian Obliterator
    Trample
@@ -623,17 +419,11 @@ Phyrexian Obliterator
    Whenever a source deals damage to Phyrexian Obliterator, that source's controller sacrifices that many permanents.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230079&type=card
-   :align: right
-
 Pith Driller
    (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
    When Pith Driller enters the battlefield, put a -1/-1 counter on target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233054&type=card
-   :align: right
 
 Postmortem Lunge
    (|mana_bp| can be paid with either |mana_b| or 2 life.)
@@ -641,24 +431,15 @@ Postmortem Lunge
    Return target creature card with converted mana cost X from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218050&type=card
-   :align: right
-
 Praetor's Grasp
    Search target opponent's library for a card and exile it face down. Then that player shuffles their library. You may look at and play that card for as long as it remains exiled.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214374&type=card
-   :align: right
 
 Reaper of Sheoldred
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    Whenever a source deals damage to Reaper of Sheoldred, that source's controller gets a poison counter.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214382&type=card
-   :align: right
 
 Sheoldred, Whispering One
    Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
@@ -668,26 +449,17 @@ Sheoldred, Whispering One
    At the beginning of each opponent's upkeep, that player sacrifices a creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233041&type=card
-   :align: right
-
 Surgical Extraction
    (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
    Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles their library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233081&type=card
-   :align: right
-
 Toxic Nim
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    |mana_b|: Regenerate Toxic Nim.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217984&type=card
-   :align: right
 
 Vault Skirge
    (|mana_bp| can be paid with either |mana_b| or 2 life.)
@@ -697,9 +469,6 @@ Vault Skirge
    Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218045&type=card
-   :align: right
-
 Whispering Specter
    Flying
 
@@ -708,17 +477,11 @@ Whispering Specter
    Whenever Whispering Specter deals combat damage to a player, you may sacrifice it. If you do, that player discards a card for each poison counter they have.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230076&type=card
-   :align: right
-
 Act of Aggression
    (|mana_rp| can be paid with either |mana_r| or 2 life.)
 
    Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218081&type=card
-   :align: right
 
 Artillerize
    As an additional cost to cast this spell, sacrifice an artifact or creature.
@@ -726,15 +489,9 @@ Artillerize
    Artillerize deals 5 damage to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218055&type=card
-   :align: right
-
 Bludgeon Brawl
    Each noncreature, non-Equipment artifact is an Equipment with equip |mana_x| and "Equipped creature gets +X/+0," where X is that artifact's converted mana cost.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218021&type=card
-   :align: right
 
 Chancellor of the Forge
    You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, create a 1/1 red Goblin creature token with haste.
@@ -742,38 +499,23 @@ Chancellor of the Forge
    When Chancellor of the Forge enters the battlefield, create X 1/1 red Goblin creature tokens with haste, where X is the number of creatures you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227537&type=card
-   :align: right
-
 Fallen Ferromancer
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    |mana_1| |mana_r|, |tap|: Fallen Ferromancer deals 1 damage to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233086&type=card
-   :align: right
-
 Flameborn Viron
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217979&type=card
-   :align: right
 
 Furnace Scamp
    Whenever Furnace Scamp deals combat damage to a player, you may sacrifice it. If you do, Furnace Scamp deals 3 damage to that player.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218004&type=card
-   :align: right
-
 Geosurge
    Add |mana_r| |mana_r| |mana_r| |mana_r| |mana_r| |mana_r| |mana_r|. Spend this mana only to cast artifact or creature spells.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230074&type=card
-   :align: right
 
 Gut Shot
    (|mana_rp| can be paid with either |mana_r| or 2 life.)
@@ -781,17 +523,11 @@ Gut Shot
    Gut Shot deals 1 damage to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233067&type=card
-   :align: right
-
 Invader Parasite
    Imprint — When Invader Parasite enters the battlefield, exile target land.
 
    Whenever a land with the same name as the exiled card enters the battlefield under an opponent's control, Invader Parasite deals 2 damage to that player.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233051&type=card
-   :align: right
 
 Moltensteel Dragon
    (|mana_rp| can be paid with either |mana_r| or 2 life.)
@@ -801,24 +537,15 @@ Moltensteel Dragon
    |mana_rp|: Moltensteel Dragon gets +1/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233082&type=card
-   :align: right
-
 Ogre Menial
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    |mana_r|: Ogre Menial gets +1/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218037&type=card
-   :align: right
-
 Priest of Urabrask
    When Priest of Urabrask enters the battlefield, add |mana_r| |mana_r| |mana_r|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214385&type=card
-   :align: right
 
 Rage Extractor
    (|mana_rp| can be paid with either |mana_r| or 2 life.)
@@ -826,17 +553,11 @@ Rage Extractor
    Whenever you cast a spell with |mana_p| in its mana cost, Rage Extractor deals damage equal to that spell's converted mana cost to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218022&type=card
-   :align: right
-
 Razor Swine
    First strike
 
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227528&type=card
-   :align: right
 
 Ruthless Invasion
    (|mana_rp| can be paid with either |mana_r| or 2 life.)
@@ -844,31 +565,19 @@ Ruthless Invasion
    Nonartifact creatures can't block this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218019&type=card
-   :align: right
-
 Scrapyard Salvo
    Scrapyard Salvo deals damage to target player or planeswalker equal to the number of artifact cards in your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218010&type=card
-   :align: right
-
 Slag Fiend
    Slag Fiend's power and toughness are each equal to the number of artifact cards in all graveyards.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230065&type=card
-   :align: right
 
 Slash Panther
    (|mana_rp| can be paid with either |mana_r| or 2 life.)
 
    Haste
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218082&type=card
-   :align: right
 
 Tormentor Exarch
    When Tormentor Exarch enters the battlefield, choose one —
@@ -878,61 +587,37 @@ Tormentor Exarch
    • Target creature gets -0/-2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214378&type=card
-   :align: right
-
 Urabrask the Hidden
    Creatures you control have haste.
 
    Creatures your opponents control enter the battlefield tapped.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227549&type=card
-   :align: right
-
 Victorious Destruction
    Destroy target artifact or land. Its controller loses 1 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214381&type=card
-   :align: right
 
 Volt Charge
    Volt Charge deals 3 damage to any target. Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218038&type=card
-   :align: right
-
 Vulshok Refugee
    Protection from red
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194383&type=card
-   :align: right
 
 Whipflare
    Whipflare deals 2 damage to each nonartifact creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=221533&type=card
-   :align: right
-
 Beast Within
    Destroy target permanent. Its controller creates a 3/3 green Beast creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218006&type=card
-   :align: right
 
 Birthing Pod
    (|mana_gp| can be paid with either |mana_g| or 2 life.)
 
    |mana_1| |mana_gp|, |tap|, Sacrifice a creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217998&type=card
-   :align: right
 
 Brutalizer Exarch
    When Brutalizer Exarch enters the battlefield, choose one —
@@ -942,17 +627,11 @@ Brutalizer Exarch
    • Put target noncreature permanent on the bottom of its owner's library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218062&type=card
-   :align: right
-
 Chancellor of the Tangle
    You may reveal this card from your opening hand. If you do, at the beginning of your first main phase, add |mana_g|.
 
    Vigilance, reach
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230075&type=card
-   :align: right
 
 Corrosive Gale
    (|mana_gp| can be paid with either |mana_g| or 2 life.)
@@ -960,61 +639,37 @@ Corrosive Gale
    Corrosive Gale deals X damage to each creature with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233065&type=card
-   :align: right
-
 Death-Hood Cobra
    |mana_1| |mana_g|: Death-Hood Cobra gains reach until end of turn.
 
    |mana_1| |mana_g|: Death-Hood Cobra gains deathtouch until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218051&type=card
-   :align: right
-
 Fresh Meat
    Create a 3/3 green Beast creature token for each creature put into your graveyard from the battlefield this turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194171&type=card
-   :align: right
 
 Glissa's Scorn
    Destroy target artifact. Its controller loses 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233052&type=card
-   :align: right
-
 Glistener Elf
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233063&type=card
-   :align: right
 
 Greenhilt Trainee
    |tap|: Target creature gets +4/+4 until end of turn. Activate this ability only if Greenhilt Trainee's power is 4 or greater.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218028&type=card
-   :align: right
-
 Leeching Bite
    Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233040&type=card
-   :align: right
 
 Maul Splicer
    When Maul Splicer enters the battlefield, create two 3/3 colorless Golem artifact creature tokens.
 
    Golem creatures you control have trample.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194274&type=card
-   :align: right
 
 Melira, Sylvok Outcast
    You can't get poison counters.
@@ -1024,24 +679,15 @@ Melira, Sylvok Outcast
    Creatures your opponents control lose infect.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233070&type=card
-   :align: right
-
 Mutagenic Growth
    (|mana_gp| can be paid with either |mana_g| or 2 life.)
 
    Target creature gets +2/+2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217995&type=card
-   :align: right
-
 Mycosynth Fiend
    Mycosynth Fiend gets +1/+1 for each poison counter your opponents have.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230067&type=card
-   :align: right
 
 Noxious Revival
    (|mana_gp| can be paid with either |mana_g| or 2 life.)
@@ -1049,24 +695,15 @@ Noxious Revival
    Put target card from a graveyard on top of its owner's library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218086&type=card
-   :align: right
-
 Phyrexian Swarmlord
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
    At the beginning of your upkeep, create a 1/1 green Insect creature token with infect for each poison counter your opponents have.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233064&type=card
-   :align: right
-
 Rotted Hystrix
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230068&type=card
-   :align: right
 
 Spinebiter
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
@@ -1074,31 +711,19 @@ Spinebiter
    You may have Spinebiter assign its combat damage as though it weren't blocked.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218077&type=card
-   :align: right
-
 Thundering Tanadon
    (|mana_gp| can be paid with either |mana_g| or 2 life.)
 
    Trample
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218044&type=card
-   :align: right
-
 Triumph of the Hordes
    Until end of turn, creatures you control get +1/+1 and gain trample and infect. (Creatures with infect deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214390&type=card
-   :align: right
-
 Viridian Betrayers
    Viridian Betrayers has infect as long as an opponent is poisoned. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214388&type=card
-   :align: right
 
 Viridian Harvest
    Enchant artifact
@@ -1106,17 +731,11 @@ Viridian Harvest
    When enchanted artifact is put into a graveyard, you gain 6 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233079&type=card
-   :align: right
-
 Vital Splicer
    When Vital Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.
 
    |mana_1|: Regenerate target Golem you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218002&type=card
-   :align: right
 
 Vorinclex, Voice of Hunger
    Trample
@@ -1126,24 +745,15 @@ Vorinclex, Voice of Hunger
    Whenever an opponent taps a land for mana, that land doesn't untap during its controller's next untap step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227508&type=card
-   :align: right
-
 Jor Kadeen, the Prevailer
    First strike
 
    Metalcraft — Creatures you control get +3/+0 as long as you control three or more artifacts.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214344&type=card
-   :align: right
-
 Alloy Myr
    |tap|: Add one mana of any color.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233055&type=card
-   :align: right
 
 Batterskull
    Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
@@ -1155,15 +765,9 @@ Batterskull
    Equip |mana_5|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233045&type=card
-   :align: right
-
 Blinding Souleater
    |mana_wp|, |tap|: Tap target creature. (|mana_wp| can be paid with either |mana_w| or 2 life.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214345&type=card
-   :align: right
 
 Caged Sun
    As Caged Sun enters the battlefield, choose a color.
@@ -1173,24 +777,15 @@ Caged Sun
    Whenever a land's ability causes you to add one or more mana of the chosen color, add one additional mana of that color.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230070&type=card
-   :align: right
-
 Conversion Chamber
    |mana_2|, |tap|: Exile target artifact card from a graveyard. Put a charge counter on Conversion Chamber.
 
    |mana_2|, |tap|, Remove a charge counter from Conversion Chamber: Create a 3/3 colorless Golem artifact creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218067&type=card
-   :align: right
-
 Darksteel Relic
    Indestructible (Effects that say "destroy" don't destroy this artifact.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217996&type=card
-   :align: right
 
 Etched Monstrosity
    Etched Monstrosity enters the battlefield with five -1/-1 counters on it.
@@ -1198,59 +793,35 @@ Etched Monstrosity
    |mana_w| |mana_u| |mana_b| |mana_r| |mana_g|, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218068&type=card
-   :align: right
-
 Gremlin Mine
    |mana_1|, |tap|, Sacrifice Gremlin Mine: It deals 4 damage to target artifact creature.
 
    |mana_1|, |tap|, Sacrifice Gremlin Mine: Remove up to four charge counters from target noncreature artifact.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218008&type=card
-   :align: right
-
 Hex Parasite
    |mana_x| |mana_bp|: Remove up to X counters from target permanent. For each counter removed this way, Hex Parasite gets +1/+0 until end of turn. (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227513&type=card
-   :align: right
 
 Hovermyr
    Flying, vigilance
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233058&type=card
-   :align: right
-
 Immolating Souleater
    |mana_rp|: Immolating Souleater gets +1/+0 until end of turn. (|mana_rp| can be paid with either |mana_r| or 2 life.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233066&type=card
-   :align: right
 
 Insatiable Souleater
    |mana_gp|: Insatiable Souleater gains trample until end of turn. (|mana_gp| can be paid with either |mana_g| or 2 life.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218057&type=card
-   :align: right
-
 Isolation Cell
    Whenever an opponent casts a creature spell, that player loses 2 life unless they pay |mana_2|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214380&type=card
-   :align: right
-
 Kiln Walker
    Whenever Kiln Walker attacks, it gets +3/+0 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214359&type=card
-   :align: right
 
 Lashwrithe
    Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
@@ -1260,29 +831,17 @@ Lashwrithe
    Equip |mana_bp| |mana_bp| (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233078&type=card
-   :align: right
-
 Mindcrank
    Whenever an opponent loses life, that player puts that many cards from the top of their library into their graveyard. (Damage dealt by sources without infect causes loss of life.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218039&type=card
-   :align: right
 
 Mycosynth Wellspring
    When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194275&type=card
-   :align: right
-
 Myr Superion
    Spend only mana produced by creatures to cast Myr Superion.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214367&type=card
-   :align: right
 
 Necropouncer
    Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
@@ -1292,38 +851,23 @@ Necropouncer
    Equip |mana_2|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233042&type=card
-   :align: right
-
 Omen Machine
    Players can't draw cards.
 
    At the beginning of each player's draw step, that player exiles the top card of their library. If it's a land card, the player puts it onto the battlefield. Otherwise, the player casts it without paying its mana cost if able.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233085&type=card
-   :align: right
-
 Pestilent Souleater
    |mana_bp|: Pestilent Souleater gains infect until end of turn. (|mana_bp| can be paid with either |mana_b| or 2 life. A creature with infect deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214379&type=card
-   :align: right
 
 Phyrexian Hulk
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233074&type=card
-   :align: right
-
 Pristine Talisman
    |tap|: Add |colorless|. You gain 1 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217982&type=card
-   :align: right
 
 Shrine of Boundless Growth
    At the beginning of your upkeep or whenever you cast a green spell, put a charge counter on Shrine of Boundless Growth.
@@ -1331,17 +875,11 @@ Shrine of Boundless Growth
    |tap|, Sacrifice Shrine of Boundless Growth: Add |colorless| for each charge counter on Shrine of Boundless Growth.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218018&type=card
-   :align: right
-
 Shrine of Burning Rage
    At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage.
 
    |mana_3|, |tap|, Sacrifice Shrine of Burning Rage: It deals damage equal to the number of charge counters on it to any target.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217980&type=card
-   :align: right
 
 Shrine of Limitless Power
    At the beginning of your upkeep or whenever you cast a black spell, put a charge counter on Shrine of Limitless Power.
@@ -1349,26 +887,17 @@ Shrine of Limitless Power
    |mana_4|, |tap|, Sacrifice Shrine of Limitless Power: Target player discards a card for each charge counter on Shrine of Limitless Power.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=206347&type=card
-   :align: right
-
 Shrine of Loyal Legions
    At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.
 
    |mana_3|, |tap|, Sacrifice Shrine of Loyal Legions: Create a 1/1 colorless Myr artifact creature token for each charge counter on Shrine of Loyal Legions.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194318&type=card
-   :align: right
-
 Shrine of Piercing Vision
    At the beginning of your upkeep or whenever you cast a blue spell, put a charge counter on Shrine of Piercing Vision.
 
    |tap|, Sacrifice Shrine of Piercing Vision: Look at the top X cards of your library, where X is the number of charge counters on Shrine of Piercing Vision. Put one of those cards into your hand and the rest on the bottom of your library in any order.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214357&type=card
-   :align: right
 
 Sickleslicer
    Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)
@@ -1378,31 +907,19 @@ Sickleslicer
    Equip |mana_4|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233048&type=card
-   :align: right
-
 Soul Conduit
    |mana_6|, |tap|: Two target players exchange life totals.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=217992&type=card
-   :align: right
-
 Spellskite
    |mana_up|: Change a target of target spell or ability to Spellskite. (|mana_up| can be paid with either |mana_u| or 2 life.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194070&type=card
-   :align: right
 
 Surge Node
    Surge Node enters the battlefield with six charge counters on it.
 
    |mana_1|, |tap|, Remove a charge counter from Surge Node: Put a charge counter on target artifact.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=214368&type=card
-   :align: right
 
 Sword of War and Peace
    Equipped creature gets +2/+2 and has protection from red and from white.
@@ -1412,29 +929,17 @@ Sword of War and Peace
    Equip |mana_2|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233069&type=card
-   :align: right
-
 Torpor Orb
    Creatures entering the battlefield don't cause abilities to trigger.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=233073&type=card
-   :align: right
 
 Trespassing Souleater
    |mana_up|: Trespassing Souleater can't be blocked this turn. (|mana_up| can be paid with either |mana_u| or 2 life.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218079&type=card
-   :align: right
-
 Unwinding Clock
    Untap all artifacts you control during each other player's untap step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=218015&type=card
-   :align: right
 
 Phyrexia's Core
    |tap|: Add |colorless|.
@@ -1442,71 +947,41 @@ Phyrexia's Core
    |mana_1|, |tap|, Sacrifice an artifact: You gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227552&type=card
-   :align: right
+Plains
+   
+
 
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227518&type=card
-   :align: right
-
-Plains
+Island
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227530&type=card
-   :align: right
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227505&type=card
-   :align: right
-
-Island
+Swamp
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227519&type=card
-   :align: right
 
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227521&type=card
-   :align: right
-
-Swamp
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=227507&type=card
-   :align: right
-
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230064&type=card
-   :align: right
-
 Mountain
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230081&type=card
-   :align: right
 
 Forest
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230071&type=card
-   :align: right
 
 Forest
    

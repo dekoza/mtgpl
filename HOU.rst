@@ -5,24 +5,15 @@ Hour of Devastation
 ===================
         
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430690&type=card
-   :align: right
-
 Act of Heroism
    Untap target creature. It gets +2/+2 until end of turn and can block an additional creature this turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430691&type=card
-   :align: right
 
 Adorned Pouncer
    Double strike
 
    Eternalize |mana_3| |mana_w| |mana_w| (|mana_3| |mana_w| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Cat with no mana cost. Eternalize only as a sorcery.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430692&type=card
-   :align: right
 
 Angel of Condemnation
    Flying, vigilance
@@ -32,17 +23,11 @@ Angel of Condemnation
    |mana_2| |mana_w|, |tap|, Exert Angel of Condemnation: Exile another target creature until Angel of Condemnation leaves the battlefield. (An exerted creature won't untap during your next untap step.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430693&type=card
-   :align: right
-
 Angel of the God-Pharaoh
    Flying
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430694&type=card
-   :align: right
 
 Aven of Enduring Hope
    Flying
@@ -50,26 +35,17 @@ Aven of Enduring Hope
    When Aven of Enduring Hope enters the battlefield, you gain 3 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430695&type=card
-   :align: right
-
 Crested Sunmare
    Other Horses you control have indestructible.
 
    At the beginning of each end step, if you gained life this turn, create a 5/5 white Horse creature token.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430696&type=card
-   :align: right
-
 Dauntless Aven
    Flying
 
    Whenever Dauntless Aven attacks, untap target creature you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430697&type=card
-   :align: right
 
 Desert's Hold
    Enchant creature
@@ -79,15 +55,9 @@ Desert's Hold
    Enchanted creature can't attack or block, and its activated abilities can't be activated.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430698&type=card
-   :align: right
-
 Disposal Mummy
    When Disposal Mummy enters the battlefield, exile target card from an opponent's graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430699&type=card
-   :align: right
 
 Djeru, With Eyes Open
    Vigilance
@@ -97,38 +67,23 @@ Djeru, With Eyes Open
    If a source would deal damage to a planeswalker you control, prevent 1 of that damage.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430700&type=card
-   :align: right
-
 Djeru's Renunciation
    Tap up to two target creatures.
 
    Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430701&type=card
-   :align: right
-
 Dutiful Servants
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430702&type=card
-   :align: right
 
 Gideon's Defeat
    Exile target white creature that's attacking or blocking. If it was a Gideon planeswalker, you gain 5 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430703&type=card
-   :align: right
-
 God-Pharaoh's Faithful
    Whenever you cast a blue, black, or red spell, you gain 1 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430704&type=card
-   :align: right
 
 Hour of Revelation
    This spell costs |mana_3| less to cast if there are ten or more nonland permanents on the battlefield.
@@ -136,29 +91,17 @@ Hour of Revelation
    Destroy all nonland permanents.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430705&type=card
-   :align: right
-
 Mummy Paramount
    Whenever another Zombie enters the battlefield under your control, Mummy Paramount gets +1/+1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430706&type=card
-   :align: right
 
 Oketra's Avenger
    You may exert Oketra's Avenger as it attacks. When you do, prevent all combat damage that would be dealt to it this turn. (An exerted creature won't untap during your next untap step.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430707&type=card
-   :align: right
-
 Oketra's Last Mercy
    Your life total becomes equal to your starting life total. Lands you control don't untap during your next untap step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430708&type=card
-   :align: right
 
 Overwhelming Splendor
    Enchant player
@@ -168,15 +111,9 @@ Overwhelming Splendor
    Enchanted player can't activate abilities that aren't mana abilities or loyalty abilities.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430709&type=card
-   :align: right
-
 Sandblast
    Sandblast deals 5 damage to target attacking or blocking creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430710&type=card
-   :align: right
 
 Saving Grace
    Flash
@@ -188,24 +125,15 @@ Saving Grace
    Enchanted creature gets +0/+3.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430711&type=card
-   :align: right
-
 Solemnity
    Players can't get counters.
 
    Counters can't be put on artifacts, creatures, enchantments, or lands.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430712&type=card
-   :align: right
-
 Solitary Camel
    Solitary Camel has lifelink as long as you control a Desert or there is a Desert card in your graveyard. (Damage dealt by this creature also causes you to gain that much life.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430713&type=card
-   :align: right
 
 Steadfast Sentinel
    Vigilance
@@ -213,15 +141,9 @@ Steadfast Sentinel
    Eternalize |mana_4| |mana_w| |mana_w| (|mana_4| |mana_w| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Cleric with no mana cost. Eternalize only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430714&type=card
-   :align: right
-
 Steward of Solidarity
    |tap|, Exert Steward of Solidarity: Create a 1/1 white Warrior creature token with vigilance. (An exerted creature won't untap during your next untap step.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430715&type=card
-   :align: right
 
 Sunscourge Champion
    When Sunscourge Champion enters the battlefield, you gain life equal to its power.
@@ -229,17 +151,11 @@ Sunscourge Champion
    Eternalize—|mana_2| |mana_w| |mana_w|, Discard a card. (|mana_2| |mana_w| |mana_w|, Discard a card, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430716&type=card
-   :align: right
-
 Unconventional Tactics
    Target creature gets +3/+3 and gains flying until end of turn.
 
    Whenever a Zombie enters the battlefield under your control, you may pay |mana_w|. If you do, return Unconventional Tactics from your graveyard to your hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430717&type=card
-   :align: right
 
 Vizier of the True
    You may exert Vizier of the True as it attacks. (It won't untap during your next untap step.)
@@ -247,17 +163,11 @@ Vizier of the True
    Whenever you exert a creature, tap target creature an opponent controls.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430718&type=card
-   :align: right
-
 Aerial Guide
    Flying
 
    Whenever Aerial Guide attacks, another target attacking creature gains flying until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430719&type=card
-   :align: right
 
 Aven Reedstalker
    Flash
@@ -265,17 +175,11 @@ Aven Reedstalker
    Flying
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430720&type=card
-   :align: right
-
 Champion of Wits
    When Champion of Wits enters the battlefield, you may draw cards equal to its power. If you do, discard two cards.
 
    Eternalize |mana_5| |mana_u| |mana_u| (|mana_5| |mana_u| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Naga Wizard with no mana cost. Eternalize only as a sorcery.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430721&type=card
-   :align: right
 
 Countervailing Winds
    Counter target spell unless its controller pays |mana_1| for each card in your graveyard.
@@ -283,15 +187,9 @@ Countervailing Winds
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430722&type=card
-   :align: right
-
 Cunning Survivor
    Whenever you cycle or discard a card, Cunning Survivor gets +1/+0 until end of turn and can't be blocked this turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430723&type=card
-   :align: right
 
 Eternal of Harsh Truths
    Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)
@@ -299,24 +197,15 @@ Eternal of Harsh Truths
    Whenever Eternal of Harsh Truths attacks and isn't blocked, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430724&type=card
-   :align: right
-
 Fraying Sanity
    Enchant player
 
    At the beginning of each end step, enchanted player puts the top X cards of their library into their graveyard, where X is the number of cards put into that graveyard from anywhere this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430725&type=card
-   :align: right
-
 Hour of Eternity
    Exile X target creature cards from your graveyard. For each card exiled this way, create a token that's a copy of that card, except it's a 4/4 black Zombie.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430726&type=card
-   :align: right
 
 Imaginary Threats
    Creatures target opponent controls attack this turn if able. During that player's next untap step, creatures they control don't untap.
@@ -324,22 +213,13 @@ Imaginary Threats
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430727&type=card
-   :align: right
-
 Jace's Defeat
    Counter target blue spell. If it was a Jace planeswalker spell, scry 2.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430728&type=card
-   :align: right
-
 Kefnet's Last Word
    Gain control of target artifact, creature, or enchantment. Lands you control don't untap during your next untap step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430729&type=card
-   :align: right
 
 Nimble Obstructionist
    Flash
@@ -351,24 +231,15 @@ Nimble Obstructionist
    When you cycle Nimble Obstructionist, counter target activated or triggered ability you don't control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430730&type=card
-   :align: right
-
 Ominous Sphinx
    Flying
 
    Whenever you cycle or discard a card, target creature an opponent controls gets -2/-0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430731&type=card
-   :align: right
-
 Proven Combatant
    Eternalize |mana_4| |mana_u| |mana_u| (|mana_4| |mana_u| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Warrior with no mana cost. Eternalize only as a sorcery.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430732&type=card
-   :align: right
 
 Riddleform
    Whenever you cast a noncreature spell, you may have Riddleform become a 3/3 Sphinx creature with flying in addition to its other types until end of turn.
@@ -376,15 +247,9 @@ Riddleform
    |mana_2| |mana_u|: Scry 1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430733&type=card
-   :align: right
-
 Seer of the Last Tomorrow
    |mana_u|, |tap|, Discard a card: Target player puts the top three cards of their library into their graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430734&type=card
-   :align: right
 
 Sinuous Striker
    |mana_u|: Sinuous Striker gets +1/-1 until end of turn.
@@ -392,33 +257,21 @@ Sinuous Striker
    Eternalize—|mana_3| |mana_u| |mana_u|, Discard a card. (|mana_3| |mana_u| |mana_u|, Discard a card, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Naga Warrior with no mana cost. Eternalize only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430735&type=card
-   :align: right
-
 Spellweaver Eternal
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 
    Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430736&type=card
-   :align: right
-
 Strategic Planning
    Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430737&type=card
-   :align: right
 
 Striped Riverwinder
    Hexproof (This creature can't be the target of spells or abilities your opponents control.)
 
    Cycling |mana_u| (|mana_u|, Discard this card: Draw a card.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430738&type=card
-   :align: right
 
 Supreme Will
    Choose one —
@@ -428,22 +281,13 @@ Supreme Will
    • Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430739&type=card
-   :align: right
-
 Swarm Intelligence
    Whenever you cast an instant or sorcery spell, you may copy that spell. You may choose new targets for the copy.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430740&type=card
-   :align: right
-
 Tragic Lesson
    Draw two cards. Then discard a card unless you return a land you control to its owner's hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430741&type=card
-   :align: right
 
 Unesh, Criosphinx Sovereign
    Flying
@@ -453,9 +297,6 @@ Unesh, Criosphinx Sovereign
    Whenever Unesh, Criosphinx Sovereign or another Sphinx enters the battlefield under your control, reveal the top four cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430742&type=card
-   :align: right
-
 Unquenchable Thirst
    Enchant creature
 
@@ -464,15 +305,9 @@ Unquenchable Thirst
    Enchanted creature doesn't untap during its controller's untap step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430743&type=card
-   :align: right
-
 Unsummon
    Return target creature to its owner's hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430744&type=card
-   :align: right
 
 Vizier of the Anointed
    When Vizier of the Anointed enters the battlefield, you may search your library for a creature card with eternalize or embalm, put that card into your graveyard, then shuffle your library.
@@ -480,15 +315,9 @@ Vizier of the Anointed
    Whenever you activate an eternalize or embalm ability, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430745&type=card
-   :align: right
-
 Accursed Horde
    |mana_1| |mana_b|: Target attacking Zombie gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430746&type=card
-   :align: right
 
 Ammit Eternal
    Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)
@@ -498,9 +327,6 @@ Ammit Eternal
    Whenever Ammit Eternal deals combat damage to a player, remove all -1/-1 counters from it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430747&type=card
-   :align: right
-
 Apocalypse Demon
    Flying
 
@@ -509,31 +335,19 @@ Apocalypse Demon
    At the beginning of your upkeep, tap Apocalypse Demon unless you sacrifice another creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430748&type=card
-   :align: right
-
 Banewhip Punisher
    When Banewhip Punisher enters the battlefield, you may put a -1/-1 counter on target creature.
 
    |mana_b|, Sacrifice Banewhip Punisher: Destroy target creature that has a -1/-1 counter on it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430749&type=card
-   :align: right
-
 Bontu's Last Reckoning
    Destroy all creatures. Lands you control don't untap during your next untap step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430750&type=card
-   :align: right
-
 Carrion Screecher
    Flying
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430751&type=card
-   :align: right
 
 Doomfall
    Choose one —
@@ -543,9 +357,6 @@ Doomfall
    • Target opponent reveals their hand. You choose a nonland card from it. Exile that card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430752&type=card
-   :align: right
-
 Dreamstealer
    Menace
 
@@ -554,29 +365,17 @@ Dreamstealer
    Eternalize |mana_4| |mana_b| |mana_b| (|mana_4| |mana_b| |mana_b|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430753&type=card
-   :align: right
-
 Grisly Survivor
    Whenever you cycle or discard a card, Grisly Survivor gets +2/+0 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430754&type=card
-   :align: right
 
 Hour of Glory
    Exile target creature. If that creature was a God, its controller reveals their hand and exiles all cards from it with the same name as that creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430755&type=card
-   :align: right
-
 Khenra Eternal
    Afflict 1 (Whenever this creature becomes blocked, defending player loses 1 life.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430756&type=card
-   :align: right
 
 Lethal Sting
    As an additional cost to cast this spell, put a -1/-1 counter on a creature you control.
@@ -584,29 +383,17 @@ Lethal Sting
    Destroy target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430757&type=card
-   :align: right
-
 Liliana's Defeat
    Destroy target black creature or black planeswalker. If that permanent was a Liliana planeswalker, her controller loses 3 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430758&type=card
-   :align: right
 
 Lurching Rotbeast
    Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430759&type=card
-   :align: right
-
 Marauding Boneslasher
    Marauding Boneslasher can't block unless you control another Zombie.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430760&type=card
-   :align: right
 
 Merciless Eternal
    Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)
@@ -614,17 +401,11 @@ Merciless Eternal
    |mana_2| |mana_b|, Discard a card: Merciless Eternal gets +2/+2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430761&type=card
-   :align: right
-
 Moaning Wall
    Defender
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430762&type=card
-   :align: right
 
 Razaketh, the Foulblooded
    Flying, trample
@@ -632,17 +413,11 @@ Razaketh, the Foulblooded
    Pay 2 life, Sacrifice another creature: Search your library for a card and put that card into your hand. Then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430763&type=card
-   :align: right
-
 Razaketh's Rite
    Search your library for a card and put that card into your hand. Then shuffle your library.
 
    Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430764&type=card
-   :align: right
 
 Ruin Rat
    Deathtouch
@@ -650,22 +425,13 @@ Ruin Rat
    When Ruin Rat dies, exile target card from an opponent's graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430765&type=card
-   :align: right
-
 Scrounger of Souls
    Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430766&type=card
-   :align: right
-
 Torment of Hailfire
    Repeat the following process X times. Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430767&type=card
-   :align: right
 
 Torment of Scarabs
    Enchant player
@@ -673,15 +439,9 @@ Torment of Scarabs
    At the beginning of enchanted player's upkeep, that player loses 3 life unless they sacrifice a nonland permanent or discard a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430768&type=card
-   :align: right
-
 Torment of Venom
    Put three -1/-1 counters on target creature. Its controller loses 3 life unless they sacrifice another nonland permanent or discards a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430769&type=card
-   :align: right
 
 Vile Manifestation
    Vile Manifestation gets +1/+0 for each card with cycling in your graveyard.
@@ -689,24 +449,15 @@ Vile Manifestation
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430770&type=card
-   :align: right
-
 Without Weakness
    Target creature you control gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430771&type=card
-   :align: right
-
 Wretched Camel
    When Wretched Camel dies, if you control a Desert or there is a Desert card in your graveyard, target player discards a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430772&type=card
-   :align: right
 
 Abrade
    Choose one —
@@ -716,15 +467,9 @@ Abrade
    • Destroy target artifact.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430773&type=card
-   :align: right
-
 Blur of Blades
    Put a -1/-1 counter on target creature. Blur of Blades deals 2 damage to that creature's controller.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430774&type=card
-   :align: right
 
 Burning-Fist Minotaur
    First strike
@@ -732,22 +477,13 @@ Burning-Fist Minotaur
    |mana_1| |mana_r|, Discard a card: Burning-Fist Minotaur gets +2/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430775&type=card
-   :align: right
-
 Chandra's Defeat
    Chandra's Defeat deals 5 damage to target red creature or red planeswalker. If that permanent is a Chandra planeswalker, you may discard a card. If you do, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430776&type=card
-   :align: right
-
 Chaos Maw
    When Chaos Maw enters the battlefield, it deals 3 damage to each other creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430777&type=card
-   :align: right
 
 Crash Through
    Creatures you control gain trample until end of turn. (A creature with trample can deal excess combat damage to the player or planeswalker it's attacking.)
@@ -755,15 +491,9 @@ Crash Through
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430778&type=card
-   :align: right
-
 Defiant Khenra
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430779&type=card
-   :align: right
 
 Earthshaker Khenra
    Haste
@@ -773,24 +503,15 @@ Earthshaker Khenra
    Eternalize |mana_4| |mana_r| |mana_r| (|mana_4| |mana_r| |mana_r|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Jackal Warrior with no mana cost. Eternalize only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430780&type=card
-   :align: right
-
 Fervent Paincaster
    |tap|: Fervent Paincaster deals 1 damage to target player or planeswalker.
 
    |tap|, Exert Fervent Paincaster: It deals 1 damage to target creature. (An exerted creature won't untap during your next untap step.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430781&type=card
-   :align: right
-
 Firebrand Archer
    Whenever you cast a noncreature spell, Firebrand Archer deals 1 damage to each opponent.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430782&type=card
-   :align: right
 
 Frontline Devastator
    Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)
@@ -798,15 +519,9 @@ Frontline Devastator
    |mana_1| |mana_r|: Frontline Devastator gets +1/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430783&type=card
-   :align: right
-
 Gilded Cerodon
    Whenever Gilded Cerodon attacks, if you control a Desert or there is a Desert card in your graveyard, target creature can't block this turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430784&type=card
-   :align: right
 
 Granitic Titan
    Menace
@@ -814,22 +529,13 @@ Granitic Titan
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430785&type=card
-   :align: right
-
 Hazoret's Undying Fury
    Shuffle your library, then exile the top four cards. You may cast any number of nonland cards with converted mana cost 5 or less from among them without paying their mana costs. Lands you control don't untap during your next untap step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430786&type=card
-   :align: right
-
 Hour of Devastation
    All creatures lose indestructible until end of turn. Hour of Devastation deals 5 damage to each creature and each non-Bolas planeswalker.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430787&type=card
-   :align: right
 
 Imminent Doom
    Imminent Doom enters the battlefield with a doom counter on it.
@@ -837,17 +543,11 @@ Imminent Doom
    Whenever you cast a spell with converted mana cost equal to the number of doom counters on Imminent Doom, Imminent Doom deals that much damage to any target. Then put a doom counter on Imminent Doom.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430788&type=card
-   :align: right
-
 Inferno Jet
    Inferno Jet deals 6 damage to target opponent or planeswalker.
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430789&type=card
-   :align: right
 
 Khenra Scrapper
    Menace
@@ -855,15 +555,9 @@ Khenra Scrapper
    You may exert Khenra Scrapper as it attacks. When you do, it gets +2/+0 until end of turn. (An exerted creature won't untap during your next untap step.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430790&type=card
-   :align: right
-
 Kindled Fury
    Target creature gets +1/+0 and gains first strike until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430791&type=card
-   :align: right
 
 Magmaroth
    At the beginning of your upkeep, put a -1/-1 counter on Magmaroth.
@@ -871,17 +565,11 @@ Magmaroth
    Whenever you cast a noncreature spell, remove a -1/-1 counter from Magmaroth.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430792&type=card
-   :align: right
-
 Manticore Eternal
    Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)
 
    Manticore Eternal attacks each combat if able.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430793&type=card
-   :align: right
 
 Neheb, the Eternal
    Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)
@@ -889,29 +577,17 @@ Neheb, the Eternal
    At the beginning of your postcombat main phase, add |mana_r| for each 1 life your opponents have lost this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430794&type=card
-   :align: right
-
 Open Fire
    Open Fire deals 3 damage to any target.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430795&type=card
-   :align: right
 
 Puncturing Blow
    Puncturing Blow deals 5 damage to target creature. If that creature would die this turn, exile it instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430796&type=card
-   :align: right
-
 Sand Strangler
    When Sand Strangler enters the battlefield, if you control a Desert or there is a Desert card in your graveyard, you may have Sand Strangler deal 3 damage to target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430797&type=card
-   :align: right
 
 Thorned Moloch
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
@@ -919,24 +595,15 @@ Thorned Moloch
    Thorned Moloch has first strike as long as it's attacking.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430798&type=card
-   :align: right
-
 Wildfire Eternal
    Afflict 4 (Whenever this creature becomes blocked, defending player loses 4 life.)
 
    Whenever Wildfire Eternal attacks and isn't blocked, you may cast an instant or sorcery card from your hand without paying its mana cost.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430799&type=card
-   :align: right
-
 Ambuscade
    Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature an opponent controls.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430800&type=card
-   :align: right
 
 Beneath the Sands
    Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
@@ -944,57 +611,33 @@ Beneath the Sands
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430801&type=card
-   :align: right
-
 Bitterbow Sharpshooters
    Vigilance, reach
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430802&type=card
-   :align: right
 
 Devotee of Strength
    |mana_4| |mana_g|: Target creature gets +2/+2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430803&type=card
-   :align: right
-
 Dune Diviner
    |mana_1|, Tap an untapped Desert you control: You gain 1 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430804&type=card
-   :align: right
 
 Feral Prowler
    When Feral Prowler dies, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430805&type=card
-   :align: right
-
 Frilled Sandwalla
    |mana_1| |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430806&type=card
-   :align: right
 
 Gift of Strength
    Target creature gets +3/+3 and gains reach until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430807&type=card
-   :align: right
-
 Harrier Naga
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430808&type=card
-   :align: right
 
 Hope Tender
    |mana_1|, |tap|: Untap target land.
@@ -1002,22 +645,13 @@ Hope Tender
    |mana_1|, |tap|, Exert Hope Tender: Untap two target lands. (An exerted creature won't untap during your next untap step.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430809&type=card
-   :align: right
-
 Hour of Promise
    Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library. Then if you control three or more Deserts, create two 2/2 black Zombie creature tokens.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430810&type=card
-   :align: right
-
 Life Goes On
    You gain 4 life. If a creature died this turn, you gain 8 life instead.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430811&type=card
-   :align: right
 
 Majestic Myriarch
    Majestic Myriarch's power and toughness are each equal to twice the number of creatures you control.
@@ -1025,15 +659,9 @@ Majestic Myriarch
    At the beginning of each combat, Majestic Myriarch gains flying until end of turn if you control a creature with flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430812&type=card
-   :align: right
-
 Nissa's Defeat
    Destroy target Forest, green enchantment, or green planeswalker. If that permanent was a Nissa planeswalker, draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430813&type=card
-   :align: right
 
 Oasis Ritualist
    |tap|: Add one mana of any color.
@@ -1041,15 +669,9 @@ Oasis Ritualist
    |tap|, Exert Oasis Ritualist: Add two mana of any one color. (An exerted creature won't untap during your next untap step.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430814&type=card
-   :align: right
-
 Overcome
    Creatures you control get +2/+2 and gain trample until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430815&type=card
-   :align: right
 
 Pride Sovereign
    Pride Sovereign gets +1/+1 for each other Cat you control.
@@ -1057,15 +679,9 @@ Pride Sovereign
    |mana_w|, |tap|, Exert Pride Sovereign: Create two 1/1 white Cat creature tokens with lifelink. (An exerted creature won't untap during your next untap step.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430816&type=card
-   :align: right
-
 Quarry Beetle
    When Quarry Beetle enters the battlefield, you may return target land card from your graveyard to the battlefield.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430817&type=card
-   :align: right
 
 Rampaging Hippo
    Trample
@@ -1073,15 +689,9 @@ Rampaging Hippo
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430818&type=card
-   :align: right
-
 Ramunap Excavator
    You may play land cards from your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430819&type=card
-   :align: right
 
 Ramunap Hydra
    Vigilance, reach, trample
@@ -1091,38 +701,23 @@ Ramunap Hydra
    Ramunap Hydra gets +1/+1 as long as there is a Desert card in your graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430820&type=card
-   :align: right
-
 Resilient Khenra
    When Resilient Khenra enters the battlefield, you may have target creature get +X/+X until end of turn, where X is Resilient Khenra's power.
 
    Eternalize |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430821&type=card
-   :align: right
-
 Rhonas's Last Stand
    Create a 5/4 green Snake creature token. Lands you control don't untap during your next untap step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430822&type=card
-   :align: right
 
 Rhonas's Stalwart
    You may exert Rhonas's Stalwart as it attacks. When you do, it gets +1/+1 until end of turn and can't be blocked by creatures with power 2 or less this turn. (An exerted creature won't untap during your next untap step.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430823&type=card
-   :align: right
-
 Sidewinder Naga
    As long as you control a Desert or there is a Desert card in your graveyard, Sidewinder Naga gets +1/+0 and has trample.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430824&type=card
-   :align: right
 
 Sifter Wurm
    Trample
@@ -1130,22 +725,13 @@ Sifter Wurm
    When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card's converted mana cost.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430825&type=card
-   :align: right
-
 Tenacious Hunter
    As long as a creature has a -1/-1 counter on it, Tenacious Hunter has vigilance and deathtouch.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430826&type=card
-   :align: right
-
 Uncage the Menagerie
    Search your library for up to X creature cards with different names that each have converted mana cost X, reveal them, put them into your hand, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430827&type=card
-   :align: right
 
 Bloodwater Entity
    Flying
@@ -1154,9 +740,6 @@ Bloodwater Entity
 
    When Bloodwater Entity enters the battlefield, you may put target instant or sorcery card from your graveyard on top of your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430828&type=card
-   :align: right
 
 The Locust God
    Flying
@@ -1168,9 +751,6 @@ The Locust God
    When The Locust God dies, return it to its owner's hand at the beginning of the next end step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430829&type=card
-   :align: right
-
 Nicol Bolas, God-Pharaoh
    +2: Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost.
 
@@ -1181,9 +761,6 @@ Nicol Bolas, God-Pharaoh
    −12: Exile each nonland permanent your opponents control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430830&type=card
-   :align: right
-
 Obelisk Spider
    Reach
 
@@ -1192,26 +769,17 @@ Obelisk Spider
    Whenever you put one or more -1/-1 counters on a creature, each opponent loses 1 life and you gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430831&type=card
-   :align: right
-
 Resolute Survivors
    You may exert Resolute Survivors as it attacks. (It won't untap during your next untap step.)
 
    Whenever you exert a creature, Resolute Survivors deals 1 damage to each opponent and you gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430832&type=card
-   :align: right
-
 River Hoopoe
    Flying
 
    |mana_3| |mana_g| |mana_u|: You gain 2 life and draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430833&type=card
-   :align: right
 
 Samut, the Tested
    +1: Up to one target creature gains double strike until end of turn.
@@ -1221,9 +789,6 @@ Samut, the Tested
    −7: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430834&type=card
-   :align: right
-
 The Scarab God
    At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control.
 
@@ -1231,9 +796,6 @@ The Scarab God
 
    When The Scarab God dies, return it to its owner's hand at the beginning of the next end step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430835&type=card
-   :align: right
 
 The Scorpion God
    Whenever a creature with a -1/-1 counter on it dies, draw a card.
@@ -1243,24 +805,15 @@ The Scorpion God
    When The Scorpion God dies, return it to its owner's hand at the beginning of the next end step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430836&type=card
-   :align: right
-
 Unraveling Mummy
    |mana_1| |mana_w|: Target attacking Zombie gains lifelink until end of turn.
 
    |mana_1| |mana_b|: Target attacking Zombie gains deathtouch until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430837&type=card
-   :align: right
-
 Farm
    Destroy target attacking or blocking creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430837&type=card
-   :align: right
 
 Market
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
@@ -1268,15 +821,9 @@ Market
    Draw two cards, then discard two cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430838&type=card
-   :align: right
-
 Consign
    Return target nonland permanent to its owner's hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430838&type=card
-   :align: right
 
 Oblivion
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
@@ -1284,15 +831,9 @@ Oblivion
    Target opponent discards two cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430839&type=card
-   :align: right
-
 Claim
    Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430839&type=card
-   :align: right
 
 Fame
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
@@ -1300,15 +841,9 @@ Fame
    Target creature gets +2/+0 and gains haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430840&type=card
-   :align: right
-
 Struggle
    Struggle deals damage to target creature equal to the number of lands you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430840&type=card
-   :align: right
 
 Survive
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
@@ -1316,15 +851,9 @@ Survive
    Each player shuffles their graveyard into their library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430841&type=card
-   :align: right
-
 Appeal
    Until end of turn, target creature gains trample and gets +X/+X, where X is the number of creatures you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430841&type=card
-   :align: right
 
 Authority
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
@@ -1332,15 +861,9 @@ Authority
    Tap up to two target creatures your opponents control. Creatures you control gain vigilance until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430842&type=card
-   :align: right
-
 Leave
    Return any number of target permanents you own to your hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430842&type=card
-   :align: right
 
 Chance
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
@@ -1348,15 +871,9 @@ Chance
    Discard any number of cards, then draw that many cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430843&type=card
-   :align: right
-
 Reason
    Scry 3.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430843&type=card
-   :align: right
 
 Believe
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
@@ -1364,15 +881,9 @@ Believe
    Look at the top card of your library. You may put it onto the battlefield if it's a creature card. If you don't, put it into your hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430844&type=card
-   :align: right
-
 Grind
    Put a -1/-1 counter on each of up to two target creatures.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430844&type=card
-   :align: right
 
 Dust
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
@@ -1380,15 +891,9 @@ Dust
    Exile any number of target creatures that have -1/-1 counters on them.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430845&type=card
-   :align: right
-
 Refuse
    Refuse deals damage to target spell's controller equal to that spell's converted mana cost.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430845&type=card
-   :align: right
 
 Cooperate
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
@@ -1396,15 +901,9 @@ Cooperate
    Copy target instant or sorcery spell. You may choose new targets for the copy.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430846&type=card
-   :align: right
-
 Driven
    Until end of turn, creatures you control gain trample and "Whenever this creature deals combat damage to a player, draw a card."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430846&type=card
-   :align: right
 
 Despair
    Aftermath (Cast this spell only from your graveyard. Then exile it.)
@@ -1412,17 +911,11 @@ Despair
    Until end of turn, creatures you control gain menace and "Whenever this creature deals combat damage to a player, that player discards a card."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430847&type=card
-   :align: right
-
 Abandoned Sarcophagus
    You may cast nonland cards with cycling from your graveyard.
 
    If a card with cycling would be put into your graveyard from anywhere and it wasn't cycled, exile it instead.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430848&type=card
-   :align: right
 
 Crook of Condemnation
    |mana_1|, |tap|: Exile target card from a graveyard.
@@ -1430,31 +923,19 @@ Crook of Condemnation
    |mana_1|, Exile Crook of Condemnation: Exile all cards from all graveyards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430849&type=card
-   :align: right
-
 Dagger of the Worthy
    Equipped creature gets +2/+0 and has afflict 1. (Whenever it becomes blocked, defending player loses 1 life.)
 
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430850&type=card
-   :align: right
-
 God-Pharaoh's Gift
    At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, create a token that's a copy of that card, except it's a 4/4 black Zombie. It gains haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430851&type=card
-   :align: right
-
 Graven Abomination
    Whenever Graven Abomination attacks, exile target card from defending player's graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430852&type=card
-   :align: right
 
 Hollow One
    This spell costs |mana_2| less to cast for each card you've cycled or discarded this turn.
@@ -1462,22 +943,13 @@ Hollow One
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430853&type=card
-   :align: right
-
 Manalith
    |tap|: Add one mana of any color.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430854&type=card
-   :align: right
-
 Mirage Mirror
    |mana_2|: Mirage Mirror becomes a copy of target artifact, creature, enchantment, or land until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430855&type=card
-   :align: right
 
 Sunset Pyramid
    Sunset Pyramid enters the battlefield with three brick counters on it.
@@ -1487,24 +959,15 @@ Sunset Pyramid
    |mana_2|, |tap|: Scry 1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430856&type=card
-   :align: right
-
 Traveler's Amulet
    |mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430857&type=card
-   :align: right
 
 Wall of Forgotten Pharaohs
    Defender
 
    |tap|: Wall of Forgotten Pharaohs deals 1 damage to target player or planeswalker. Activate this ability only if you control a Desert or there is a Desert card in your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430858&type=card
-   :align: right
 
 Crypt of the Eternals
    When Crypt of the Eternals enters the battlefield, you gain 1 life.
@@ -1514,9 +977,6 @@ Crypt of the Eternals
    |mana_1|, |tap|: Add |mana_u|, |mana_b|, or |mana_r|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430859&type=card
-   :align: right
-
 Desert of the Fervent
    Desert of the Fervent enters the battlefield tapped.
 
@@ -1524,9 +984,6 @@ Desert of the Fervent
 
    Cycling |mana_1| |mana_r| (|mana_1| |mana_r|, Discard this card: Draw a card.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430860&type=card
-   :align: right
 
 Desert of the Glorified
    Desert of the Glorified enters the battlefield tapped.
@@ -1536,9 +993,6 @@ Desert of the Glorified
    Cycling |mana_1| |mana_b| (|mana_1| |mana_b|, Discard this card: Draw a card.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430861&type=card
-   :align: right
-
 Desert of the Indomitable
    Desert of the Indomitable enters the battlefield tapped.
 
@@ -1546,9 +1000,6 @@ Desert of the Indomitable
 
    Cycling |mana_1| |mana_g| (|mana_1| |mana_g|, Discard this card: Draw a card.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430862&type=card
-   :align: right
 
 Desert of the Mindful
    Desert of the Mindful enters the battlefield tapped.
@@ -1558,9 +1009,6 @@ Desert of the Mindful
    Cycling |mana_1| |mana_u| (|mana_1| |mana_u|, Discard this card: Draw a card.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430863&type=card
-   :align: right
-
 Desert of the True
    Desert of the True enters the battlefield tapped.
 
@@ -1569,17 +1017,11 @@ Desert of the True
    Cycling |mana_1| |mana_w| (|mana_1| |mana_w|, Discard this card: Draw a card.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430864&type=card
-   :align: right
-
 Dunes of the Dead
    |tap|: Add |colorless|.
 
    When Dunes of the Dead is put into a graveyard from the battlefield, create a 2/2 black Zombie creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430865&type=card
-   :align: right
 
 Endless Sands
    |tap|: Add |colorless|.
@@ -1589,9 +1031,6 @@ Endless Sands
    |mana_4|, |tap|, Sacrifice Endless Sands: Return each creature card exiled with Endless Sands to the battlefield under its owner's control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430866&type=card
-   :align: right
-
 Hashep Oasis
    |tap|: Add |colorless|.
 
@@ -1600,17 +1039,11 @@ Hashep Oasis
    |mana_1| |mana_g| |mana_g|, |tap|, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate this ability only any time you could cast a sorcery.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430867&type=card
-   :align: right
-
 Hostile Desert
    |tap|: Add |colorless|.
 
    |mana_2|, Exile a land card from your graveyard: Hostile Desert becomes a 3/4 Elemental creature until end of turn. It's still a land.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430868&type=card
-   :align: right
 
 Ifnir Deadlands
    |tap|: Add |colorless|.
@@ -1620,9 +1053,6 @@ Ifnir Deadlands
    |mana_2| |mana_b| |mana_b|, |tap|, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate this ability only any time you could cast a sorcery.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430869&type=card
-   :align: right
-
 Ipnu Rivulet
    |tap|: Add |colorless|.
 
@@ -1630,9 +1060,6 @@ Ipnu Rivulet
 
    |mana_1| |mana_u|, |tap|, Sacrifice a Desert: Target player puts the top four cards of their library into their graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430870&type=card
-   :align: right
 
 Ramunap Ruins
    |tap|: Add |colorless|.
@@ -1642,17 +1069,11 @@ Ramunap Ruins
    |mana_2| |mana_r| |mana_r|, |tap|, Sacrifice a Desert: Ramunap Ruins deals 2 damage to each opponent.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430871&type=card
-   :align: right
-
 Scavenger Grounds
    |tap|: Add |colorless|.
 
    |mana_2|, |tap|, Sacrifice a Desert: Exile all cards from all graveyards.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430872&type=card
-   :align: right
 
 Shefet Dunes
    |tap|: Add |colorless|.
@@ -1662,122 +1083,71 @@ Shefet Dunes
    |mana_2| |mana_w| |mana_w|, |tap|, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate this ability only any time you could cast a sorcery.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430873&type=card
-   :align: right
-
 Survivors' Encampment
    |tap|: Add |colorless|.
 
    |tap|, Tap an untapped creature you control: Add one mana of any color.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430874&type=card
-   :align: right
-
 Plains
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430875&type=card
-   :align: right
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430876&type=card
-   :align: right
-
 Swamp
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430877&type=card
-   :align: right
 
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430878&type=card
-   :align: right
-
 Forest
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430879&type=card
-   :align: right
 
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430880&type=card
-   :align: right
-
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430881&type=card
-   :align: right
+Island
+   
+
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430882&type=card
-   :align: right
-
-Island
+Swamp
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430883&type=card
-   :align: right
 
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430884&type=card
-   :align: right
-
-Swamp
+Mountain
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430885&type=card
-   :align: right
 
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430886&type=card
-   :align: right
-
-Mountain
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430887&type=card
-   :align: right
-
 Forest
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430888&type=card
-   :align: right
-
 Forest
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432879&type=card
-   :align: right
 
 Nissa, Genesis Mage
    +2: Untap up to two target creatures and up to two target lands.
@@ -1787,38 +1157,23 @@ Nissa, Genesis Mage
    −10: Look at the top ten cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432880&type=card
-   :align: right
-
 Avid Reclaimer
    |tap|: Add |mana_g| or |mana_u|. If you control a Nissa planeswalker, you gain 2 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432881&type=card
-   :align: right
 
 Brambleweft Behemoth
    Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432882&type=card
-   :align: right
-
 Nissa's Encouragement
    Search your library and graveyard for a card named Forest, a card named Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those cards, put them into your hand, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432883&type=card
-   :align: right
 
 Woodland Stream
    Woodland Stream enters the battlefield tapped.
 
    |tap|: Add |mana_g| or |mana_u|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432884&type=card
-   :align: right
 
 Nicol Bolas, the Deceiver
    +3: Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.
@@ -1828,33 +1183,21 @@ Nicol Bolas, the Deceiver
    −11: Nicol Bolas, the Deceiver deals 7 damage to each opponent. You draw seven cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432885&type=card
-   :align: right
-
 Wasp of the Bitter End
    Flying
 
    Whenever you cast a Bolas planeswalker spell, you may sacrifice Wasp of the Bitter End. If you do, destroy target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432886&type=card
-   :align: right
-
 Zealot of the God-Pharaoh
    |mana_4| |mana_r|: Zealot of the God-Pharaoh deals 2 damage to target opponent or planeswalker.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432887&type=card
-   :align: right
 
 Visage of Bolas
    When Visage of Bolas enters the battlefield, you may search your library and/or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put it into your hand. If you search your library this way, shuffle it.
 
    |tap|: Add |mana_u|, |mana_b|, or |mana_r|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=432888&type=card
-   :align: right
 
 Cinder Barrens
    Cinder Barrens enters the battlefield tapped.

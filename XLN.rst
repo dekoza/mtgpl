@@ -5,17 +5,11 @@ Ixalan
 ======
         
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435152&type=card
-   :align: right
-
 Adanto Vanguard
    As long as Adanto Vanguard is attacking, it gets +2/+0.
 
    Pay 4 life: Adanto Vanguard gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435153&type=card
-   :align: right
 
 Ashes of the Abhorrent
    Players can't cast spells from graveyards or activate abilities of cards in graveyards.
@@ -23,22 +17,13 @@ Ashes of the Abhorrent
    Whenever a creature dies, you gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435154&type=card
-   :align: right
-
 Axis of Mortality
    At the beginning of your upkeep, you may have two target players exchange life totals.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435155&type=card
-   :align: right
-
 Bellowing Aegisaur
    Enrage — Whenever Bellowing Aegisaur is dealt damage, put a +1/+1 counter on each other creature you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435156&type=card
-   :align: right
 
 Bishop of Rebirth
    Vigilance
@@ -46,15 +31,9 @@ Bishop of Rebirth
    Whenever Bishop of Rebirth attacks, you may return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435157&type=card
-   :align: right
-
 Bishop's Soldier
    Lifelink
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435158&type=card
-   :align: right
 
 Bright Reprisal
    Destroy target attacking creature.
@@ -62,15 +41,9 @@ Bright Reprisal
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435159&type=card
-   :align: right
-
 Demystify
    Destroy target enchantment.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435160&type=card
-   :align: right
 
 Duskborne Skymarcher
    Flying
@@ -78,17 +51,11 @@ Duskborne Skymarcher
    |mana_w|, |tap|: Target attacking Vampire gets +1/+1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435161&type=card
-   :align: right
-
 Emissary of Sunrise
    First strike
 
    When Emissary of Sunrise enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435162&type=card
-   :align: right
 
 Encampment Keeper
    First strike
@@ -96,17 +63,11 @@ Encampment Keeper
    |mana_7| |mana_w|, |tap|, Sacrifice Encampment Keeper: Creatures you control get +2/+2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435163&type=card
-   :align: right
-
 Glorifier of Dusk
    Pay 2 life: Glorifier of Dusk gains flying until end of turn.
 
    Pay 2 life: Glorifier of Dusk gains vigilance until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435164&type=card
-   :align: right
 
 Goring Ceratops
    Double strike
@@ -114,31 +75,19 @@ Goring Ceratops
    Whenever Goring Ceratops attacks, other creatures you control gain double strike until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435165&type=card
-   :align: right
-
 Imperial Aerosaur
    Flying
 
    When Imperial Aerosaur enters the battlefield, another target creature you control gets +1/+1 and gains flying until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435166&type=card
-   :align: right
-
 Imperial Lancer
    Imperial Lancer has double strike as long as you control a Dinosaur.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435167&type=card
-   :align: right
-
 Inspiring Cleric
    When Inspiring Cleric enters the battlefield, you gain 4 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435168&type=card
-   :align: right
 
 Ixalan's Binding
    When Ixalan's Binding enters the battlefield, exile target nonland permanent an opponent controls until Ixalan's Binding leaves the battlefield.
@@ -146,15 +95,9 @@ Ixalan's Binding
    Your opponents can't cast spells with the same name as the exiled card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435169&type=card
-   :align: right
-
 Kinjalli's Caller
    Dinosaur spells you cast cost |mana_1| less to cast.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435170&type=card
-   :align: right
 
 Kinjalli's Sunwing
    Flying
@@ -162,31 +105,19 @@ Kinjalli's Sunwing
    Creatures your opponents control enter the battlefield tapped.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435171&type=card
-   :align: right
-
 Legion Conquistador
    When Legion Conquistador enters the battlefield, you may search your library for any number of cards named Legion Conquistador, reveal them, put them into your hand, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435172&type=card
-   :align: right
-
 Legion's Judgment
    Destroy target creature with power 4 or greater.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435173&type=card
-   :align: right
 
 Legion's Landing
    When Legion's Landing enters the battlefield, create a 1/1 white Vampire creature token with lifelink.
 
    When you attack with three or more creatures, transform Legion's Landing.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435174&type=card
-   :align: right
 
 Adanto, the First Fort
    (Transforms from Legion's Landing.)
@@ -196,29 +127,17 @@ Adanto, the First Fort
    |mana_2| |mana_w|, |tap|: Create a 1/1 white Vampire creature token with lifelink.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435175&type=card
-   :align: right
-
 Looming Altisaur
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435176&type=card
-   :align: right
 
 Mavren Fein, Dusk Apostle
    Whenever one or more nontoken Vampires you control attack, create a 1/1 white Vampire creature token with lifelink.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435177&type=card
-   :align: right
-
 Paladin of the Bloodstained
    When Paladin of the Bloodstained enters the battlefield, create a 1/1 white Vampire creature token with lifelink.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435178&type=card
-   :align: right
 
 Pious Interdiction
    Enchant creature
@@ -228,45 +147,27 @@ Pious Interdiction
    Enchanted creature can't attack or block.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435179&type=card
-   :align: right
-
 Priest of the Wakening Sun
    At the beginning of your upkeep, you may reveal a Dinosaur card from your hand. If you do, you gain 2 life.
 
    |mana_3| |mana_w| |mana_w|, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435180&type=card
-   :align: right
-
 Pterodon Knight
    Pterodon Knight has flying as long as you control a Dinosaur.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435181&type=card
-   :align: right
 
 Queen's Commission
    Create two 1/1 white Vampire creature tokens with lifelink.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435182&type=card
-   :align: right
-
 Rallying Roar
    Creatures you control get +1/+1 until end of turn. Untap them.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435183&type=card
-   :align: right
-
 Raptor Companion
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435184&type=card
-   :align: right
 
 Ritual of Rejuvenation
    You gain 4 life.
@@ -274,50 +175,29 @@ Ritual of Rejuvenation
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435185&type=card
-   :align: right
-
 Sanguine Sacrament
    You gain twice X life. Put Sanguine Sacrament on the bottom of its owner's library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435186&type=card
-   :align: right
 
 Settle the Wreckage
    Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle their library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435187&type=card
-   :align: right
-
 Sheltering Light
    Target creature gains indestructible until end of turn. Scry 1. (Damage and effects that say "destroy" don't destroy the creature.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435188&type=card
-   :align: right
 
 Shining Aerosaur
    Flying
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435189&type=card
-   :align: right
-
 Skyblade of the Legion
    Flying
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435190&type=card
-   :align: right
-
 Slash of Talons
    Slash of Talons deals 2 damage to target attacking or blocking creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435191&type=card
-   :align: right
 
 Steadfast Armasaur
    Vigilance
@@ -325,52 +205,31 @@ Steadfast Armasaur
    |mana_1| |mana_w|, |tap|: Steadfast Armasaur deals damage equal to its toughness to target creature blocking or blocked by it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435192&type=card
-   :align: right
-
 Sunrise Seeker
    Vigilance
 
    When Sunrise Seeker enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435193&type=card
-   :align: right
-
 Territorial Hammerskull
    Whenever Territorial Hammerskull attacks, tap target creature an opponent controls.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435194&type=card
-   :align: right
 
 Tocatli Honor Guard
    Creatures entering the battlefield don't cause abilities to trigger.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435195&type=card
-   :align: right
-
 Vampire's Zeal
    Target creature gets +2/+2 until end of turn. If it's a Vampire, it gains first strike until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435196&type=card
-   :align: right
 
 Wakening Sun's Avatar
    When Wakening Sun's Avatar enters the battlefield, if you cast it from your hand, destroy all non-Dinosaur creatures.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435197&type=card
-   :align: right
-
 Air Elemental
    Flying (This creature can't be blocked except by creatures with flying or reach.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435198&type=card
-   :align: right
 
 Arcane Adaptation
    As Arcane Adaptation enters the battlefield, choose a creature type.
@@ -378,22 +237,13 @@ Arcane Adaptation
    Creatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren't on the battlefield.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435199&type=card
-   :align: right
-
 Cancel
    Counter target spell.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435200&type=card
-   :align: right
-
 Chart a Course
    Draw two cards. Then discard a card unless you attacked with a creature this turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435201&type=card
-   :align: right
 
 Daring Saboteur
    |mana_2| |mana_u|: Daring Saboteur can't be blocked this turn.
@@ -401,36 +251,21 @@ Daring Saboteur
    Whenever Daring Saboteur deals combat damage to a player, you may draw a card. If you do, discard a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435202&type=card
-   :align: right
-
 Deadeye Quartermaster
    When Deadeye Quartermaster enters the battlefield, you may search your library for an Equipment or Vehicle card, reveal it, put it into your hand, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435203&type=card
-   :align: right
 
 Deeproot Waters
    Whenever you cast a Merfolk spell, create a 1/1 blue Merfolk creature token with hexproof. (A creature with hexproof can't be the target of spells or abilities your opponents control.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435204&type=card
-   :align: right
-
 Depths of Desire
    Return target creature to its owner's hand. Create a colorless Treasure artifact token with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435205&type=card
-   :align: right
-
 Dive Down
    Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435206&type=card
-   :align: right
 
 Dreamcaller Siren
    Flash
@@ -442,43 +277,25 @@ Dreamcaller Siren
    When Dreamcaller Siren enters the battlefield, if you control another Pirate, tap up to two target nonland permanents.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435207&type=card
-   :align: right
-
 Entrancing Melody
    Gain control of target creature with converted mana cost X.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435208&type=card
-   :align: right
 
 Favorable Winds
    Creatures you control with flying get +1/+1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435209&type=card
-   :align: right
-
 Fleet Swallower
    Whenever Fleet Swallower attacks, target player puts the top half of their library, rounded up, into their graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435210&type=card
-   :align: right
 
 Headwater Sentries
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435211&type=card
-   :align: right
-
 Herald of Secret Streams
    Creatures you control with +1/+1 counters on them can't be blocked.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435212&type=card
-   :align: right
 
 Jace, Cunning Castaway
    +1: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.
@@ -488,17 +305,11 @@ Jace, Cunning Castaway
    −5: Create two tokens that are copies of Jace, Cunning Castaway, except they're not legendary.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435213&type=card
-   :align: right
-
 Kopala, Warden of Waves
    Spells your opponents cast that target a Merfolk you control cost |mana_2| more to cast.
 
    Abilities your opponents activate that target a Merfolk you control cost |mana_2| more to activate.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435214&type=card
-   :align: right
 
 Lookout's Dispersal
    This spell costs |mana_1| less to cast if you control a Pirate.
@@ -506,15 +317,9 @@ Lookout's Dispersal
    Counter target spell unless its controller pays |mana_4|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435215&type=card
-   :align: right
-
 Navigator's Ruin
    Raid — At the beginning of your end step, if you attacked with a creature this turn, target opponent puts the top four cards of their library into their graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435216&type=card
-   :align: right
 
 One With the Wind
    Enchant creature
@@ -522,45 +327,27 @@ One With the Wind
    Enchanted creature gets +2/+2 and has flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435217&type=card
-   :align: right
-
 Opt
    Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435218&type=card
-   :align: right
-
 Overflowing Insight
    Target player draws seven cards.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435219&type=card
-   :align: right
 
 Perilous Voyage
    Return target nonland permanent you don't control to its owner's hand. If its converted mana cost was 2 or less, scry 2.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435220&type=card
-   :align: right
-
 Pirate's Prize
    Draw two cards. Create a colorless Treasure artifact token with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435221&type=card
-   :align: right
-
 Prosperous Pirates
    When Prosperous Pirates enters the battlefield, create two colorless Treasure artifact tokens with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435222&type=card
-   :align: right
 
 River Sneak
    River Sneak can't be blocked.
@@ -568,36 +355,21 @@ River Sneak
    Whenever another Merfolk enters the battlefield under your control, River Sneak gets +1/+1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435223&type=card
-   :align: right
-
 River's Rebuke
    Return all nonland permanents target player controls to their owner's hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435224&type=card
-   :align: right
 
 Run Aground
    Put target artifact or creature on top of its owner's library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435225&type=card
-   :align: right
-
 Sailor of Means
    When Sailor of Means enters the battlefield, create a colorless Treasure artifact token with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435226&type=card
-   :align: right
-
 Search for Azcanta
    At the beginning of your upkeep, look at the top card of your library. You may put it into your graveyard. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435227&type=card
-   :align: right
 
 Azcanta, the Sunken Ruin
    (Transforms from Search for Azcanta.)
@@ -607,29 +379,17 @@ Azcanta, the Sunken Ruin
    |mana_2| |mana_u|, |tap|: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435228&type=card
-   :align: right
-
 Shaper Apprentice
    Shaper Apprentice has flying as long as you control another Merfolk.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435229&type=card
-   :align: right
 
 Shipwreck Looter
    Raid — When Shipwreck Looter enters the battlefield, if you attacked with a creature this turn, you may draw a card. If you do, discard a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435230&type=card
-   :align: right
-
 Shore Keeper
    |mana_7| |mana_u|, |tap|, Sacrifice Shore Keeper: Draw three cards.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435231&type=card
-   :align: right
 
 Siren Lookout
    Flying
@@ -637,38 +397,23 @@ Siren Lookout
    When Siren Lookout enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435232&type=card
-   :align: right
-
 Siren Stormtamer
    Flying
 
    |mana_u|, Sacrifice Siren Stormtamer: Counter target spell or ability that targets you or a creature you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435233&type=card
-   :align: right
-
 Siren's Ruse
    Exile target creature you control, then return that card to the battlefield under its owner's control. If a Pirate was exiled this way, draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435234&type=card
-   :align: right
 
 Spell Pierce
    Counter target noncreature spell unless its controller pays |mana_2|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435235&type=card
-   :align: right
-
 Spell Swindle
    Counter target spell. Create X colorless Treasure artifact tokens, where X is that spell's converted mana cost. They have "|tap|, Sacrifice this artifact: Add one mana of any color."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435236&type=card
-   :align: right
 
 Storm Fleet Aerialist
    Flying
@@ -676,15 +421,9 @@ Storm Fleet Aerialist
    Raid — Storm Fleet Aerialist enters the battlefield with a +1/+1 counter on it if you attacked with a creature this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435237&type=card
-   :align: right
-
 Storm Fleet Spy
    Raid — When Storm Fleet Spy enters the battlefield, if you attacked with a creature this turn, draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435238&type=card
-   :align: right
 
 Storm Sculptor
    Storm Sculptor can't be blocked.
@@ -692,22 +431,13 @@ Storm Sculptor
    When Storm Sculptor enters the battlefield, return a creature you control to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435239&type=card
-   :align: right
-
 Tempest Caller
    When Tempest Caller enters the battlefield, tap all creatures target opponent controls.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435240&type=card
-   :align: right
-
 Watertrap Weaver
    When Watertrap Weaver enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435241&type=card
-   :align: right
 
 Wind Strider
    Flash
@@ -715,24 +445,15 @@ Wind Strider
    Flying
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435242&type=card
-   :align: right
-
 Anointed Deacon
    At the beginning of combat on your turn, you may have target Vampire get +2/+0 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435243&type=card
-   :align: right
 
 Arguel's Blood Fast
    |mana_1| |mana_b|, Pay 2 life: Draw a card.
 
    At the beginning of your upkeep, if you have 5 or less life, you may transform Arguel's Blood Fast.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435244&type=card
-   :align: right
 
 Temple of Aclazotz
    (Transforms from Arguel's Blood Fast.)
@@ -742,15 +463,9 @@ Temple of Aclazotz
    |tap|, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435245&type=card
-   :align: right
-
 Bishop of the Bloodstained
    When Bishop of the Bloodstained enters the battlefield, target opponent loses 1 life for each Vampire you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435246&type=card
-   :align: right
 
 Blight Keeper
    Flying
@@ -758,31 +473,19 @@ Blight Keeper
    |mana_7| |mana_b|, |tap|, Sacrifice Blight Keeper: Target opponent loses 4 life and you gain 4 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435247&type=card
-   :align: right
-
 Bloodcrazed Paladin
    Flash
 
    Bloodcrazed Paladin enters the battlefield with a +1/+1 counter on it for each creature that died this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435248&type=card
-   :align: right
-
 Boneyard Parley
    Exile up to five target creature cards from graveyards. An opponent separates those cards into two piles. Put all cards from the pile of your choice onto the battlefield under your control and the rest into their owners' graveyards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435249&type=card
-   :align: right
-
 Contract Killing
    Destroy target creature. Create two colorless Treasure artifact tokens with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435250&type=card
-   :align: right
 
 Costly Plunder
    As an additional cost to cast this spell, sacrifice an artifact or creature.
@@ -790,29 +493,17 @@ Costly Plunder
    Draw two cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435251&type=card
-   :align: right
-
 Dark Nourishment
    Dark Nourishment deals 3 damage to any target. You gain 3 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435252&type=card
-   :align: right
 
 Deadeye Tormentor
    Raid — When Deadeye Tormentor enters the battlefield, if you attacked with a creature this turn, target opponent discards a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435253&type=card
-   :align: right
-
 Deadeye Tracker
    |mana_1| |mana_b|, |tap|: Exile two target cards from an opponent's graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435254&type=card
-   :align: right
 
 Deathless Ancient
    Flying
@@ -820,22 +511,13 @@ Deathless Ancient
    Tap three untapped Vampires you control: Return Deathless Ancient from your graveyard to your hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435255&type=card
-   :align: right
-
 Desperate Castaways
    Desperate Castaways can't attack unless you control an artifact.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435256&type=card
-   :align: right
-
 Dire Fleet Hoarder
    When Dire Fleet Hoarder dies, create a colorless Treasure artifact token with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435257&type=card
-   :align: right
 
 Dire Fleet Interloper
    Menace
@@ -843,24 +525,15 @@ Dire Fleet Interloper
    When Dire Fleet Interloper enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435258&type=card
-   :align: right
-
 Dire Fleet Ravager
    Menace, deathtouch
 
    When Dire Fleet Ravager enters the battlefield, each player loses a third of their life, rounded up.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435259&type=card
-   :align: right
-
 Duress
    Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435260&type=card
-   :align: right
 
 Fathom Fleet Captain
    Menace
@@ -868,22 +541,13 @@ Fathom Fleet Captain
    Whenever Fathom Fleet Captain attacks, if you control another nontoken Pirate, you may pay |mana_2|. If you do, create a 2/2 black Pirate creature token with menace.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435261&type=card
-   :align: right
-
 Fathom Fleet Cutthroat
    When Fathom Fleet Cutthroat enters the battlefield, destroy target creature an opponent controls that was dealt damage this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435262&type=card
-   :align: right
-
 Grim Captain's Call
    Return a Pirate card from your graveyard to your hand, then do the same for Vampire, Dinosaur, and Merfolk.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435263&type=card
-   :align: right
 
 Heartless Pillage
    Target opponent discards two cards.
@@ -891,24 +555,15 @@ Heartless Pillage
    Raid — If you attacked with a creature this turn, create a colorless Treasure artifact token with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435264&type=card
-   :align: right
-
 Kitesail Freebooter
    Flying
 
    When Kitesail Freebooter enters the battlefield, target opponent reveals their hand. You choose a noncreature, nonland card from it. Exile that card until Kitesail Freebooter leaves the battlefield.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435265&type=card
-   :align: right
-
 Lurking Chupacabra
    Whenever a creature you control explores, target creature an opponent controls gets -2/-2 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435266&type=card
-   :align: right
 
 March of the Drowned
    Choose one —
@@ -918,17 +573,11 @@ March of the Drowned
    • Return two target Pirate cards from your graveyard to your hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435267&type=card
-   :align: right
-
 Mark of the Vampire
    Enchant creature
 
    Enchanted creature gets +2/+2 and has lifelink.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435268&type=card
-   :align: right
 
 Queen's Agent
    Lifelink
@@ -936,15 +585,9 @@ Queen's Agent
    When Queen's Agent enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435269&type=card
-   :align: right
-
 Queen's Bay Soldier
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435270&type=card
-   :align: right
 
 Raiders' Wake
    Whenever an opponent discards a card, that player loses 2 life.
@@ -952,24 +595,15 @@ Raiders' Wake
    Raid — At the beginning of your end step, if you attacked with a creature this turn, target opponent discards a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435271&type=card
-   :align: right
-
 Revel in Riches
    Whenever a creature an opponent controls dies, create a colorless Treasure artifact token with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
    At the beginning of your upkeep, if you control ten or more Treasures, you win the game.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435272&type=card
-   :align: right
-
 Ruin Raider
    Raid — At the beginning of your end step, if you attacked with a creature this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card's converted mana cost.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435273&type=card
-   :align: right
 
 Ruthless Knave
    |mana_2| |mana_b|, Sacrifice a creature: Create two colorless Treasure artifact tokens with "|tap|, Sacrifice this artifact: Add one mana of any color."
@@ -977,36 +611,21 @@ Ruthless Knave
    Sacrifice three Treasures: Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435274&type=card
-   :align: right
-
 Sanctum Seeker
    Whenever a Vampire you control attacks, each opponent loses 1 life and you gain 1 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435275&type=card
-   :align: right
 
 Seekers' Squire
    When Seekers' Squire enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435276&type=card
-   :align: right
-
 Skittering Heartstopper
    |mana_b|: Skittering Heartstopper gains deathtouch until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435277&type=card
-   :align: right
-
 Skulduggery
    Until end of turn, target creature you control gets +1/+1 and target creature an opponent controls gets -1/-1.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435278&type=card
-   :align: right
 
 Skymarch Bloodletter
    Flying
@@ -1014,71 +633,41 @@ Skymarch Bloodletter
    When Skymarch Bloodletter enters the battlefield, target opponent loses 1 life and you gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435279&type=card
-   :align: right
-
 Spreading Rot
    Destroy target land. Its controller loses 2 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435280&type=card
-   :align: right
 
 Sword-Point Diplomacy
    Reveal the top three cards of your library. For each of those cards, put that card into your hand unless any opponent pays 3 life. Then exile the rest.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435281&type=card
-   :align: right
-
 Vanquish the Weak
    Destroy target creature with power 3 or less.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435282&type=card
-   :align: right
 
 Vicious Conquistador
    Whenever Vicious Conquistador attacks, each opponent loses 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435283&type=card
-   :align: right
-
 Vraska's Contempt
    Exile target creature or planeswalker. You gain 2 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435284&type=card
-   :align: right
 
 Walk the Plank
    Destroy target non-Merfolk creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435285&type=card
-   :align: right
-
 Wanted Scoundrels
    When Wanted Scoundrels dies, target opponent creates two colorless Treasure artifact tokens with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435286&type=card
-   :align: right
 
 Angrath's Marauders
    If a source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435287&type=card
-   :align: right
-
 Bonded Horncrest
    Bonded Horncrest can't attack or block alone.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435288&type=card
-   :align: right
 
 Brazen Buccaneers
    Haste
@@ -1086,15 +675,9 @@ Brazen Buccaneers
    When Brazen Buccaneers enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435289&type=card
-   :align: right
-
 Burning Sun's Avatar
    When Burning Sun's Avatar enters the battlefield, it deals 3 damage to target opponent or planeswalker and 3 damage to up to one target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435290&type=card
-   :align: right
 
 Captain Lannery Storm
    Haste
@@ -1104,57 +687,33 @@ Captain Lannery Storm
    Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435291&type=card
-   :align: right
-
 Captivating Crew
    |mana_3| |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435292&type=card
-   :align: right
 
 Charging Monstrosaur
    Trample, haste
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435293&type=card
-   :align: right
-
 Demolish
    Destroy target artifact or land.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435294&type=card
-   :align: right
 
 Dinosaur Stampede
    Attacking creatures get +2/+0 until end of turn. Dinosaurs you control gain trample until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435295&type=card
-   :align: right
-
 Dual Shot
    Dual Shot deals 1 damage to each of up to two target creatures.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435296&type=card
-   :align: right
 
 Fathom Fleet Firebrand
    |mana_1| |mana_r|: Fathom Fleet Firebrand gets +1/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435297&type=card
-   :align: right
-
 Fiery Cannonade
    Fiery Cannonade deals 2 damage to each non-Pirate creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435298&type=card
-   :align: right
 
 Fire Shrine Keeper
    Menace
@@ -1162,24 +721,15 @@ Fire Shrine Keeper
    |mana_7| |mana_r|, |tap|, Sacrifice Fire Shrine Keeper: It deals 3 damage to each of up to two target creatures.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435299&type=card
-   :align: right
-
 Firecannon Blast
    Firecannon Blast deals 3 damage to target creature.
 
    Raid — Firecannon Blast deals 6 damage to that creature instead if you attacked with a creature this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435300&type=card
-   :align: right
-
 Frenzied Raptor
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435301&type=card
-   :align: right
 
 Headstrong Brute
    Headstrong Brute can't block.
@@ -1187,22 +737,13 @@ Headstrong Brute
    Headstrong Brute has menace as long as you control another Pirate.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435302&type=card
-   :align: right
-
 Hijack
    Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435303&type=card
-   :align: right
-
 Lightning Strike
    Lightning Strike deals 3 damage to any target.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435304&type=card
-   :align: right
 
 Lightning-Rig Crew
    |tap|: Lightning-Rig Crew deals 1 damage to each opponent.
@@ -1210,31 +751,19 @@ Lightning-Rig Crew
    Whenever you cast a Pirate spell, untap Lightning-Rig Crew.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435305&type=card
-   :align: right
-
 Makeshift Munitions
    |mana_1|, Sacrifice an artifact or creature: Makeshift Munitions deals 1 damage to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435306&type=card
-   :align: right
-
 Nest Robber
    Haste
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435307&type=card
-   :align: right
 
 Otepec Huntmaster
    Dinosaur spells you cast cost |mana_1| less to cast.
 
    |tap|: Target Dinosaur gains haste until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435308&type=card
-   :align: right
 
 Rampaging Ferocidon
    Menace
@@ -1244,15 +773,9 @@ Rampaging Ferocidon
    Whenever another creature enters the battlefield, Rampaging Ferocidon deals 1 damage to that creature's controller.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435309&type=card
-   :align: right
-
 Raptor Hatchling
    Enrage — Whenever Raptor Hatchling is dealt damage, create a 3/3 green Dinosaur creature token with trample.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435310&type=card
-   :align: right
 
 Repeating Barrage
    Repeating Barrage deals 3 damage to any target.
@@ -1260,17 +783,11 @@ Repeating Barrage
    Raid — |mana_3| |mana_r| |mana_r|: Return Repeating Barrage from your graveyard to your hand. Activate this ability only if you attacked with a creature this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435311&type=card
-   :align: right
-
 Rigging Runner
    First strike
 
    Raid — Rigging Runner enters the battlefield with a +1/+1 counter on it if you attacked with a creature this turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435312&type=card
-   :align: right
 
 Rile
    Rile deals 1 damage to target creature you control. That creature gains trample until end of turn.
@@ -1278,66 +795,39 @@ Rile
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435313&type=card
-   :align: right
-
 Rowdy Crew
    Trample
 
    When Rowdy Crew enters the battlefield, draw three cards, then discard two cards at random. If two cards that share a card type are discarded this way, put two +1/+1 counters on Rowdy Crew.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435314&type=card
-   :align: right
-
 Rummaging Goblin
    |tap|, Discard a card: Draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435315&type=card
-   :align: right
 
 Star of Extinction
    Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435316&type=card
-   :align: right
-
 Storm Fleet Arsonist
    Raid — When Storm Fleet Arsonist enters the battlefield, if you attacked with a creature this turn, target opponent sacrifices a permanent.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435317&type=card
-   :align: right
 
 Storm Fleet Pyromancer
    Raid — When Storm Fleet Pyromancer enters the battlefield, if you attacked with a creature this turn, Storm Fleet Pyromancer deals 2 damage to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435318&type=card
-   :align: right
-
 Sun-Crowned Hunters
    Enrage — Whenever Sun-Crowned Hunters is dealt damage, it deals 3 damage to target opponent or planeswalker.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435319&type=card
-   :align: right
 
 Sunbird's Invocation
    Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell's converted mana cost. You may cast a card revealed this way with converted mana cost X or less without paying its mana cost. Put the rest on the bottom of your library in a random order.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435320&type=card
-   :align: right
-
 Sure Strike
    Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435321&type=card
-   :align: right
 
 Swashbuckling
    Enchant creature
@@ -1345,22 +835,13 @@ Swashbuckling
    Enchanted creature gets +2/+2 and has haste.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435322&type=card
-   :align: right
-
 Thrash of Raptors
    As long as you control another Dinosaur, Thrash of Raptors gets +2/+0 and has trample.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435323&type=card
-   :align: right
-
 Tilonalli's Knight
    Whenever Tilonalli's Knight attacks, if you control a Dinosaur, Tilonalli's Knight gets +1/+1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435324&type=card
-   :align: right
 
 Tilonalli's Skinshifter
    Haste
@@ -1368,33 +849,21 @@ Tilonalli's Skinshifter
    Whenever Tilonalli's Skinshifter attacks, it becomes a copy of another target nonlegendary attacking creature until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435325&type=card
-   :align: right
-
 Trove of Temptation
    Each opponent must attack you or a planeswalker you control with at least one creature each combat if able.
 
    At the beginning of your end step, create a colorless Treasure artifact token with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435326&type=card
-   :align: right
-
 Unfriendly Fire
    Unfriendly Fire deals 4 damage to any target.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435327&type=card
-   :align: right
 
 Vance's Blasting Cannons
    At the beginning of your upkeep, exile the top card of your library. If it's a nonland card, you may cast that card this turn.
 
    Whenever you cast your third spell in a turn, you may transform Vance's Blasting Cannons.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435328&type=card
-   :align: right
 
 Spitfire Bastion
    (Transforms from Vance's Blasting Cannons.)
@@ -1404,22 +873,13 @@ Spitfire Bastion
    |mana_2| |mana_r|, |tap|: Spitfire Bastion deals 3 damage to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435329&type=card
-   :align: right
-
 Wily Goblin
    When Wily Goblin enters the battlefield, create a colorless Treasure artifact token with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435330&type=card
-   :align: right
-
 Ancient Brontodon
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435331&type=card
-   :align: right
 
 Atzocan Archer
    Reach
@@ -1427,22 +887,13 @@ Atzocan Archer
    When Atzocan Archer enters the battlefield, you may have it fight another target creature. (Each deals damage equal to its power to the other.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435332&type=card
-   :align: right
-
 Blinding Fog
    Prevent all damage that would be dealt to creatures this turn. Creatures you control gain hexproof until end of turn. (They can't be the targets of spells or abilities your opponents control.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435333&type=card
-   :align: right
-
 Blossom Dryad
    |tap|: Untap target land.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435334&type=card
-   :align: right
 
 Carnage Tyrant
    This spell can't be countered.
@@ -1450,29 +901,17 @@ Carnage Tyrant
    Trample, hexproof
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435335&type=card
-   :align: right
-
 Colossal Dreadmaw
    Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435336&type=card
-   :align: right
 
 Commune with Dinosaurs
    Look at the top five cards of your library. You may reveal a Dinosaur or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435337&type=card
-   :align: right
-
 Crash the Ramparts
    Target creature gets +3/+3 and gains trample until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435338&type=card
-   :align: right
 
 Crushing Canopy
    Choose one —
@@ -1482,29 +921,17 @@ Crushing Canopy
    • Destroy target enchantment.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435339&type=card
-   :align: right
-
 Deathgorge Scavenger
    Whenever Deathgorge Scavenger enters the battlefield or attacks, you may exile target card from a graveyard. If a creature card is exiled this way, you gain 2 life. If a noncreature card is exiled this way, Deathgorge Scavenger gets +1/+1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435340&type=card
-   :align: right
 
 Deeproot Champion
    Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot Champion.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435341&type=card
-   :align: right
-
 Deeproot Warrior
    Whenever Deeproot Warrior becomes blocked, it gets +1/+1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435342&type=card
-   :align: right
 
 Drover of the Mighty
    Drover of the Mighty gets +2/+2 as long as you control a Dinosaur.
@@ -1512,38 +939,23 @@ Drover of the Mighty
    |tap|: Add one mana of any color.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435343&type=card
-   :align: right
-
 Emergent Growth
    Target creature gets +5/+5 until end of turn and must be blocked this turn if able.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435344&type=card
-   :align: right
 
 Emperor's Vanguard
    Whenever Emperor's Vanguard deals combat damage to a player, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435345&type=card
-   :align: right
-
 Grazing Whiptail
    Reach
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435346&type=card
-   :align: right
 
 Growing Rites of Itlimoc
    When Growing Rites of Itlimoc enters the battlefield, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
    At the beginning of your end step, if you control four or more creatures, transform Growing Rites of Itlimoc.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435347&type=card
-   :align: right
 
 Itlimoc, Cradle of the Sun
    (Transforms from Growing Rites of Itlimoc.)
@@ -1553,22 +965,13 @@ Itlimoc, Cradle of the Sun
    |tap|: Add |mana_g| for each creature you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435348&type=card
-   :align: right
-
 Ixalli's Diviner
    When Ixalli's Diviner enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435349&type=card
-   :align: right
-
 Ixalli's Keeper
    |mana_7| |mana_g|, |tap|, Sacrifice Ixalli's Keeper: Target creature gets +5/+5 and gains trample until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435350&type=card
-   :align: right
 
 Jade Guardian
    Hexproof (This creature can't be the target of spells or abilities your opponents control.)
@@ -1576,29 +979,17 @@ Jade Guardian
    When Jade Guardian enters the battlefield, put a +1/+1 counter on target Merfolk you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435351&type=card
-   :align: right
-
 Jungle Delver
    |mana_3| |mana_g|: Put a +1/+1 counter on Jungle Delver.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435352&type=card
-   :align: right
 
 Kumena's Speaker
    Kumena's Speaker gets +1/+1 as long as you control another Merfolk or an Island.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435353&type=card
-   :align: right
-
 Merfolk Branchwalker
    When Merfolk Branchwalker enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435354&type=card
-   :align: right
 
 New Horizons
    Enchant land
@@ -1608,50 +999,29 @@ New Horizons
    Enchanted land has "|tap|: Add two mana of any one color."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435355&type=card
-   :align: right
-
 Old-Growth Dryads
    When Old-Growth Dryads enters the battlefield, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435356&type=card
-   :align: right
 
 Pounce
    Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435357&type=card
-   :align: right
-
 Ranging Raptors
    Enrage — Whenever Ranging Raptors is dealt damage, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435358&type=card
-   :align: right
 
 Ravenous Daggertooth
    Enrage — Whenever Ravenous Daggertooth is dealt damage, you gain 2 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435359&type=card
-   :align: right
-
 Ripjaw Raptor
    Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435360&type=card
-   :align: right
-
 River Heralds' Boon
    Put a +1/+1 counter on target creature and a +1/+1 counter on up to one target Merfolk.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435361&type=card
-   :align: right
 
 Savage Stomp
    This spell costs |mana_2| less to cast if it targets a Dinosaur you control.
@@ -1659,15 +1029,9 @@ Savage Stomp
    Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435362&type=card
-   :align: right
-
 Shapers' Sanctuary
    Whenever a creature you control becomes the target of a spell or ability an opponent controls, you may draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435363&type=card
-   :align: right
 
 Slice in Twain
    Destroy target artifact or enchantment.
@@ -1675,24 +1039,15 @@ Slice in Twain
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435364&type=card
-   :align: right
-
 Snapping Sailback
    Flash
 
    Enrage — Whenever Snapping Sailback is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435365&type=card
-   :align: right
-
 Spike-Tailed Ceratops
    Spike-Tailed Ceratops can block an additional creature each combat.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435366&type=card
-   :align: right
 
 Thundering Spineback
    Other Dinosaurs you control get +1/+1.
@@ -1700,15 +1055,9 @@ Thundering Spineback
    |mana_5| |mana_g|: Create a 3/3 green Dinosaur creature token with trample.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435367&type=card
-   :align: right
-
 Tishana's Wayfinder
    When Tishana's Wayfinder enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435368&type=card
-   :align: right
 
 Verdant Rebirth
    Until end of turn, target creature gains "When this creature dies, return it to its owner's hand."
@@ -1716,36 +1065,21 @@ Verdant Rebirth
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435369&type=card
-   :align: right
-
 Verdant Sun's Avatar
    Whenever Verdant Sun's Avatar or another creature enters the battlefield under your control, you gain life equal to that creature's toughness.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435370&type=card
-   :align: right
 
 Vineshaper Mystic
    When Vineshaper Mystic enters the battlefield, put a +1/+1 counter on each of up to two target Merfolk you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435371&type=card
-   :align: right
-
 Waker of the Wilds
    |mana_x| |mana_g| |mana_g|: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It's still a land.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435372&type=card
-   :align: right
-
 Wildgrowth Walker
    Whenever a creature you control explores, put a +1/+1 counter on Wildgrowth Walker and you gain 3 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435373&type=card
-   :align: right
 
 Admiral Beckett Brass
    Other Pirates you control get +1/+1.
@@ -1753,22 +1087,13 @@ Admiral Beckett Brass
    At the beginning of your end step, gain control of target nonland permanent controlled by a player who was dealt combat damage by three or more Pirates this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435374&type=card
-   :align: right
-
 Belligerent Brontodon
    Each creature you control assigns combat damage equal to its toughness rather than its power.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435375&type=card
-   :align: right
-
 Call to the Feast
    Create three 1/1 white Vampire creature tokens with lifelink.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435376&type=card
-   :align: right
 
 Deadeye Plunderers
    Deadeye Plunderers gets +1/+1 for each artifact you control.
@@ -1776,15 +1101,9 @@ Deadeye Plunderers
    |mana_2| |mana_u| |mana_b|: Create a colorless Treasure artifact token with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435377&type=card
-   :align: right
-
 Dire Fleet Captain
    Whenever Dire Fleet Captain attacks, it gets +1/+1 until end of turn for each other attacking Pirate.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435378&type=card
-   :align: right
 
 Gishath, Sun's Avatar
    Vigilance, trample, haste
@@ -1792,15 +1111,9 @@ Gishath, Sun's Avatar
    Whenever Gishath, Sun's Avatar deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435379&type=card
-   :align: right
-
 Hostage Taker
    When Hostage Taker enters the battlefield, exile another target creature or artifact until Hostage Taker leaves the battlefield. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435380&type=card
-   :align: right
 
 Huatli, Warrior Poet
    +2: You gain life equal to the greatest power among creatures you control.
@@ -1810,15 +1123,9 @@ Huatli, Warrior Poet
    −X: Huatli, Warrior Poet deals X damage divided as you choose among any number of target creatures. Creatures dealt damage this way can't block this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435381&type=card
-   :align: right
-
 Marauding Looter
    Raid — At the beginning of your end step, if you attacked with a creature this turn, you may draw a card. If you do, discard a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435382&type=card
-   :align: right
 
 Raging Swordtooth
    Trample
@@ -1826,17 +1133,11 @@ Raging Swordtooth
    When Raging Swordtooth enters the battlefield, it deals 1 damage to each other creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435383&type=card
-   :align: right
-
 Regisaur Alpha
    Other Dinosaurs you control have haste.
 
    When Regisaur Alpha enters the battlefield, create a 3/3 green Dinosaur creature token with trample.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435384&type=card
-   :align: right
 
 Shapers of Nature
    |mana_3| |mana_g|: Put a +1/+1 counter on target creature.
@@ -1844,15 +1145,9 @@ Shapers of Nature
    |mana_2| |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435385&type=card
-   :align: right
-
 Sky Terror
    Flying, menace
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435386&type=card
-   :align: right
 
 Tishana, Voice of Thunder
    Tishana, Voice of Thunder's power and toughness are each equal to the number of cards in your hand.
@@ -1862,17 +1157,11 @@ Tishana, Voice of Thunder
    When Tishana enters the battlefield, draw a card for each creature you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435387&type=card
-   :align: right
-
 Vona, Butcher of Magan
    Vigilance, lifelink
 
    |tap|, Pay 7 life: Destroy target nonland permanent. Activate this ability only during your turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435388&type=card
-   :align: right
 
 Vraska, Relic Seeker
    +2: Create a 2/2 black Pirate creature token with menace.
@@ -1882,26 +1171,17 @@ Vraska, Relic Seeker
    −10: Target player's life total becomes 1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435389&type=card
-   :align: right
-
 Cobbled Wings
    Equipped creature has flying.
 
    Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435390&type=card
-   :align: right
-
 Conqueror's Galleon
    When Conqueror's Galleon attacks, exile it at end of combat, then return it to the battlefield transformed under your control.
 
    Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435391&type=card
-   :align: right
 
 Conqueror's Foothold
    (Transforms from Conqueror's Galleon.)
@@ -1915,9 +1195,6 @@ Conqueror's Foothold
    |mana_6|, |tap|: Return target card from your graveyard to your hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435392&type=card
-   :align: right
-
 Dowsing Dagger
    When Dowsing Dagger enters the battlefield, target opponent creates two 0/2 green Plant creature tokens with defender.
 
@@ -1928,26 +1205,17 @@ Dowsing Dagger
    Equip |mana_2|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435393&type=card
-   :align: right
-
 Lost Vale
    (Transforms from Dowsing Dagger.)
 
    |tap|: Add three mana of any one color.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435394&type=card
-   :align: right
-
 Dusk Legion Dreadnought
    Vigilance
 
    Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435395&type=card
-   :align: right
 
 Elaborate Firecannon
    Elaborate Firecannon doesn't untap during your untap step.
@@ -1957,9 +1225,6 @@ Elaborate Firecannon
    At the beginning of your upkeep, you may discard a card. If you do, untap Elaborate Firecannon.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435396&type=card
-   :align: right
-
 Fell Flagship
    Pirates you control get +1/+0.
 
@@ -1968,15 +1233,9 @@ Fell Flagship
    Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435397&type=card
-   :align: right
-
 Gilded Sentinel
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435398&type=card
-   :align: right
 
 Hierophant's Chalice
    When Hierophant's Chalice enters the battlefield, target opponent loses 1 life and you gain 1 life.
@@ -1984,17 +1243,11 @@ Hierophant's Chalice
    |tap|: Add |colorless|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435399&type=card
-   :align: right
-
 Pillar of Origins
    As Pillar of Origins enters the battlefield, choose a creature type.
 
    |tap|: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435400&type=card
-   :align: right
 
 Pirate's Cutlass
    When Pirate's Cutlass enters the battlefield, attach it to target Pirate you control.
@@ -2004,26 +1257,17 @@ Pirate's Cutlass
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435401&type=card
-   :align: right
-
 Primal Amulet
    Instant and sorcery spells you cast cost |mana_1| less to cast.
 
    Whenever you cast an instant or sorcery spell, put a charge counter on Primal Amulet. Then if there are four or more charge counters on it, you may remove those counters and transform it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435402&type=card
-   :align: right
-
 Primal Wellspring
    (Transforms from Primal Amulet.)
 
    |tap|: Add one mana of any color. When that mana is spent to cast an instant or sorcery spell, copy that spell and you may choose new targets for the copy.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435403&type=card
-   :align: right
 
 Prying Blade
    Equipped creature gets +1/+0.
@@ -2033,17 +1277,11 @@ Prying Blade
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435404&type=card
-   :align: right
-
 Sentinel Totem
    When Sentinel Totem enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
    |tap|, Exile Sentinel Totem: Exile all cards from all graveyards.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435405&type=card
-   :align: right
 
 Shadowed Caravel
    Whenever a creature you control explores, put a +1/+1 counter on Shadowed Caravel.
@@ -2051,15 +1289,9 @@ Shadowed Caravel
    Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435406&type=card
-   :align: right
-
 Sleek Schooner
    Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435407&type=card
-   :align: right
 
 Sorcerous Spyglass
    As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, then choose any card name.
@@ -2067,17 +1299,11 @@ Sorcerous Spyglass
    Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435408&type=card
-   :align: right
-
 Thaumatic Compass
    |mana_3|, |tap|: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
 
    At the beginning of your end step, if you control seven or more lands, transform Thaumatic Compass.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435409&type=card
-   :align: right
 
 Spires of Orazca
    (Transforms from Thaumatic Compass.)
@@ -2087,15 +1313,9 @@ Spires of Orazca
    |tap|: Untap target attacking creature an opponent controls and remove it from combat.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435410&type=card
-   :align: right
-
 Treasure Map
    |mana_1|, |tap|: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three colorless Treasure artifact tokens with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435411&type=card
-   :align: right
 
 Treasure Cove
    (Transforms from Treasure Map.)
@@ -2105,9 +1325,6 @@ Treasure Cove
    |tap|, Sacrifice a Treasure: Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435412&type=card
-   :align: right
-
 Vanquisher's Banner
    As Vanquisher's Banner enters the battlefield, choose a creature type.
 
@@ -2116,17 +1333,11 @@ Vanquisher's Banner
    Whenever you cast a creature spell of the chosen type, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435413&type=card
-   :align: right
-
 Dragonskull Summit
    Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
 
    |tap|: Add |mana_b| or |mana_r|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435414&type=card
-   :align: right
 
 Drowned Catacomb
    Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
@@ -2134,17 +1345,11 @@ Drowned Catacomb
    |tap|: Add |mana_u| or |mana_b|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435415&type=card
-   :align: right
-
 Field of Ruin
    |tap|: Add |colorless|.
 
    |mana_2|, |tap|, Sacrifice Field of Ruin: Destroy target nonbasic land an opponent controls. Each player searches their library for a basic land card, puts it onto the battlefield, then shuffles their library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435416&type=card
-   :align: right
 
 Glacial Fortress
    Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
@@ -2152,26 +1357,17 @@ Glacial Fortress
    |tap|: Add |mana_w| or |mana_u|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435417&type=card
-   :align: right
-
 Rootbound Crag
    Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
 
    |tap|: Add |mana_r| or |mana_g|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435418&type=card
-   :align: right
-
 Sunpetal Grove
    Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
 
    |tap|: Add |mana_g| or |mana_w|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435419&type=card
-   :align: right
 
 Unclaimed Territory
    As Unclaimed Territory enters the battlefield, choose a creature type.
@@ -2181,157 +1377,91 @@ Unclaimed Territory
    |tap|: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435420&type=card
-   :align: right
-
 Unknown Shores
    |tap|: Add |colorless|.
 
    |mana_1|, |tap|: Add one mana of any color.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435421&type=card
-   :align: right
+Plains
+   
+
 
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435422&type=card
-   :align: right
+Plains
+   
+
 
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435423&type=card
-   :align: right
-
-Plains
+Island
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435424&type=card
-   :align: right
-
-Plains
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435425&type=card
-   :align: right
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435426&type=card
-   :align: right
+Island
+   
+
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435427&type=card
-   :align: right
-
-Island
+Swamp
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435428&type=card
-   :align: right
-
-Island
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435429&type=card
-   :align: right
 
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435430&type=card
-   :align: right
+Swamp
+   
+
 
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435431&type=card
-   :align: right
-
-Swamp
+Mountain
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435432&type=card
-   :align: right
-
-Swamp
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435433&type=card
-   :align: right
 
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435434&type=card
-   :align: right
+Mountain
+   
+
 
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435435&type=card
-   :align: right
-
-Mountain
+Forest
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435436&type=card
-   :align: right
-
-Mountain
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435437&type=card
-   :align: right
 
 Forest
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435438&type=card
-   :align: right
-
 Forest
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435439&type=card
-   :align: right
-
 Forest
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435440&type=card
-   :align: right
-
-Forest
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435441&type=card
-   :align: right
 
 Jace, Ingenious Mind-Mage
    +1: Draw a card.
@@ -2341,9 +1471,6 @@ Jace, Ingenious Mind-Mage
    −9: Gain control of up to three target creatures.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435442&type=card
-   :align: right
-
 Castaway's Despair
    Enchant creature
 
@@ -2352,33 +1479,21 @@ Castaway's Despair
    Enchanted creature doesn't untap during its controller's untap step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435443&type=card
-   :align: right
-
 Grasping Current
    Return up to two target creatures to their owner's hand.
 
    Search your library and/or graveyard for a card named Jace, Ingenious Mind-Mage, reveal it, and put it into your hand. If you searched your library this way, shuffle it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435444&type=card
-   :align: right
-
 Jace's Sentinel
    As long as you control a Jace planeswalker, Jace's Sentinel gets +1/+0 and can't be blocked.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435445&type=card
-   :align: right
 
 Woodland Stream
    Woodland Stream enters the battlefield tapped.
 
    |tap|: Add |mana_g| or |mana_u|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435446&type=card
-   :align: right
 
 Huatli, Dinosaur Knight
    +2: Put two +1/+1 counters on up to one target Dinosaur you control.
@@ -2388,29 +1503,17 @@ Huatli, Dinosaur Knight
    −7: Dinosaurs you control get +4/+4 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435447&type=card
-   :align: right
-
 Huatli's Snubhorn
    Vigilance (Attacking doesn't cause this creature to tap.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435448&type=card
-   :align: right
 
 Huatli's Spurring
    Target creature gets +2/+0 until end of turn. If you control a Huatli planeswalker, that creature gets +4/+0 until end of turn instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435449&type=card
-   :align: right
-
 Sun-Blessed Mount
    When Sun-Blessed Mount enters the battlefield, you may search your library and/or graveyard for a card named Huatli, Dinosaur Knight, reveal it, then put it into your hand. If you searched your library this way, shuffle it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=435450&type=card
-   :align: right
 
 Stone Quarry
    Stone Quarry enters the battlefield tapped.

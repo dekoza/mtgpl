@@ -5,15 +5,9 @@ Journey into Nyx
 ================
         
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380364&type=card
-   :align: right
-
 Aegis of the Gods
    You have hexproof. (You can't be the target of spells or abilities your opponents control.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380368&type=card
-   :align: right
 
 Ajani's Presence
    Strive — This spell costs |mana_2| |mana_w| more to cast for each target beyond the first.
@@ -21,15 +15,9 @@ Ajani's Presence
    Any number of target creatures each get +1/+1 and gain indestructible until end of turn. (Damage and effects that say "destroy" don't destroy them.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380370&type=card
-   :align: right
-
 Akroan Mastiff
    |mana_w|, |tap|: Tap target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380371&type=card
-   :align: right
 
 Armament of Nyx
    Enchant creature
@@ -37,15 +25,9 @@ Armament of Nyx
    Enchanted creature has double strike as long as it's an enchantment. Otherwise, prevent all damage that would be dealt by enchanted creature. (A creature with double strike deals both first-strike and regular combat damage.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380375&type=card
-   :align: right
-
 Banishing Light
    When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield. (That permanent returns under its owner's control.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380394&type=card
-   :align: right
 
 Dawnbringer Charioteers
    Flying, lifelink
@@ -53,15 +35,9 @@ Dawnbringer Charioteers
    Heroic — Whenever you cast a spell that targets Dawnbringer Charioteers, put a +1/+1 counter on Dawnbringer Charioteers.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380395&type=card
-   :align: right
-
 Deicide
    Exile target enchantment. If the exiled card is a God card, search its controller's graveyard, hand, and library for any number of cards with the same name as that card and exile them, then that player shuffles their library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380400&type=card
-   :align: right
 
 Dictate of Heliod
    Flash
@@ -69,29 +45,17 @@ Dictate of Heliod
    Creatures you control get +2/+2.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380407&type=card
-   :align: right
-
 Eagle of the Watch
    Flying, vigilance
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380409&type=card
-   :align: right
 
 Eidolon of Rhetoric
    Each player can't cast more than one spell each turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380421&type=card
-   :align: right
-
 Font of Vigor
    |mana_2| |mana_w|, Sacrifice Font of Vigor: You gain 7 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380426&type=card
-   :align: right
 
 Godsend
    Equipped creature gets +3/+3.
@@ -103,22 +67,13 @@ Godsend
    Equip |mana_3|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380433&type=card
-   :align: right
-
 Harvestguard Alseids
    Constellation — Whenever Harvestguard Alseids or another enchantment enters the battlefield under your control, prevent all damage that would be dealt to target creature this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380448&type=card
-   :align: right
-
 Lagonna-Band Trailblazer
    Heroic — Whenever you cast a spell that targets Lagonna-Band Trailblazer, put a +1/+1 counter on Lagonna-Band Trailblazer.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380449&type=card
-   :align: right
 
 Launch the Fleet
    Strive — This spell costs |mana_1| more to cast for each target beyond the first.
@@ -126,15 +81,9 @@ Launch the Fleet
    Until end of turn, any number of target creatures each gain "Whenever this creature attacks, create a 1/1 white Soldier creature token that's tapped and attacking."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380450&type=card
-   :align: right
-
 Leonin Iconoclast
    Heroic — Whenever you cast a spell that targets Leonin Iconoclast, destroy target enchantment creature an opponent controls.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380457&type=card
-   :align: right
 
 Mortal Obstinacy
    Enchant creature you control
@@ -144,15 +93,9 @@ Mortal Obstinacy
    Whenever enchanted creature deals combat damage to a player, you may sacrifice Mortal Obstinacy. If you do, destroy target enchantment.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380463&type=card
-   :align: right
-
 Nyx-Fleece Ram
    At the beginning of your upkeep, you gain 1 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380465&type=card
-   :align: right
 
 Oppressive Rays
    Enchant creature
@@ -162,15 +105,9 @@ Oppressive Rays
    Activated abilities of enchanted creature cost |mana_3| more to activate.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380466&type=card
-   :align: right
-
 Oreskos Swiftclaw
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380468&type=card
-   :align: right
 
 Phalanx Formation
    Strive — This spell costs |mana_1| |mana_w| more to cast for each target beyond the first.
@@ -178,22 +115,13 @@ Phalanx Formation
    Any number of target creatures each gain double strike until end of turn. (They deal both first-strike and regular combat damage.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380477&type=card
-   :align: right
-
 Quarry Colossus
    When Quarry Colossus enters the battlefield, put target creature into its owner's library just beneath the top X cards of that library, where X is the number of Plains you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380480&type=card
-   :align: right
-
 Reprisal
    Destroy target creature with power 4 or greater. It can't be regenerated.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380496&type=card
-   :align: right
 
 Sightless Brawler
    Bestow |mana_4| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -203,15 +131,9 @@ Sightless Brawler
    Enchanted creature gets +3/+2 and can't attack alone.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380500&type=card
-   :align: right
-
 Skybind
    Constellation — Whenever Skybind or another enchantment enters the battlefield under your control, exile target nonenchantment permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380501&type=card
-   :align: right
 
 Skyspear Cavalry
    Flying
@@ -219,15 +141,9 @@ Skyspear Cavalry
    Double strike (This creature deals both first-strike and regular combat damage.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380509&type=card
-   :align: right
-
 Stonewise Fortifier
    |mana_4| |mana_w|: Prevent all damage that would be dealt to Stonewise Fortifier by target creature this turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380512&type=card
-   :align: right
 
 Supply-Line Cranes
    Flying
@@ -235,15 +151,9 @@ Supply-Line Cranes
    When Supply-Line Cranes enters the battlefield, put a +1/+1 counter on target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380516&type=card
-   :align: right
-
 Tethmos High Priest
    Heroic — Whenever you cast a spell that targets Tethmos High Priest, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380365&type=card
-   :align: right
 
 Aerial Formation
    Strive — This spell costs |mana_2| |mana_u| more to cast for each target beyond the first.
@@ -251,17 +161,11 @@ Aerial Formation
    Any number of target creatures each get +1/+1 and gain flying until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380377&type=card
-   :align: right
-
 Battlefield Thaumaturge
    Each instant and sorcery spell you cast costs |mana_1| less to cast for each creature it targets.
 
    Heroic — Whenever you cast a spell that targets Battlefield Thaumaturge, Battlefield Thaumaturge gains hexproof until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380385&type=card
-   :align: right
 
 Cloaked Siren
    Flash (You may cast this spell any time you could cast an instant.)
@@ -269,15 +173,9 @@ Cloaked Siren
    Flying
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380388&type=card
-   :align: right
-
 Countermand
    Counter target spell. Its controller puts the top four cards of their library into their graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380390&type=card
-   :align: right
 
 Crystalline Nautilus
    Bestow |mana_3| |mana_u| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -287,22 +185,13 @@ Crystalline Nautilus
    Enchanted creature gets +4/+4 and has "When this creature becomes the target of a spell or ability, sacrifice it."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380392&type=card
-   :align: right
-
 Dakra Mystic
    |mana_u|, |tap|: Each player reveals the top card of their library. You may put the revealed cards into their owners' graveyards. If you don't, each player draws a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380393&type=card
-   :align: right
-
 Daring Thief
    Inspired — Whenever Daring Thief becomes untapped, you may exchange control of target nonland permanent you control and target permanent an opponent controls that shares a card type with it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380402&type=card
-   :align: right
 
 Dictate of Kruphix
    Flash
@@ -310,22 +199,13 @@ Dictate of Kruphix
    At the beginning of each player's draw step, that player draws an additional card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380418&type=card
-   :align: right
-
 Font of Fortunes
    |mana_1| |mana_u|, Sacrifice Font of Fortunes: Draw two cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380425&type=card
-   :align: right
-
 Godhunter Octopus
    Godhunter Octopus can't attack unless defending player controls an enchantment or an enchanted permanent.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380435&type=card
-   :align: right
 
 Hour of Need
    Strive — This spell costs |mana_1| |mana_u| more to cast for each target beyond the first.
@@ -333,15 +213,9 @@ Hour of Need
    Exile any number of target creatures. For each creature exiled this way, its controller creates a 4/4 blue Sphinx creature token with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380436&type=card
-   :align: right
-
 Hubris
    Return target creature and all Auras attached to it to their owners' hands.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380439&type=card
-   :align: right
 
 Hypnotic Siren
    Bestow |mana_5| |mana_u| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -353,15 +227,9 @@ Hypnotic Siren
    Enchanted creature gets +1/+1 and has flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380440&type=card
-   :align: right
-
 Interpret the Signs
    Scry 3, then reveal the top card of your library. Draw cards equal to that card's converted mana cost. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380444&type=card
-   :align: right
 
 Kiora's Dismissal
    Strive — This spell costs |mana_u| more to cast for each target beyond the first.
@@ -369,17 +237,11 @@ Kiora's Dismissal
    Return any number of target enchantments to their owners' hands.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380473&type=card
-   :align: right
-
 Pin to the Earth
    Enchant creature
 
    Enchanted creature gets -6/-0.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380474&type=card
-   :align: right
 
 Polymorphous Rush
    Strive — This spell costs |mana_1| |mana_u| more to cast for each target beyond the first.
@@ -387,15 +249,9 @@ Polymorphous Rush
    Choose a creature on the battlefield. Any number of target creatures you control each become a copy of that creature until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380476&type=card
-   :align: right
-
 Pull from the Deep
    Return up to one target instant card and up to one target sorcery card from your graveyard to your hand. Exile Pull from the Deep.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380485&type=card
-   :align: right
 
 Riptide Chimera
    Flying
@@ -403,15 +259,9 @@ Riptide Chimera
    At the beginning of your upkeep, return an enchantment you control to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380486&type=card
-   :align: right
-
 Rise of Eagles
    Create two 2/2 blue Bird enchantment creature tokens with flying. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380491&type=card
-   :align: right
 
 Sage of Hours
    Heroic — Whenever you cast a spell that targets Sage of Hours, put a +1/+1 counter on it.
@@ -419,50 +269,29 @@ Sage of Hours
    Remove all +1/+1 counters from Sage of Hours: For each five counters removed this way, take an extra turn after this one.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380494&type=card
-   :align: right
-
 Scourge of Fleets
    When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380498&type=card
-   :align: right
 
 Sigiled Starfish
    |tap|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380517&type=card
-   :align: right
-
 Thassa's Devourer
    Constellation — Whenever Thassa's Devourer or another enchantment enters the battlefield under your control, target player puts the top two cards of their library into their graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380518&type=card
-   :align: right
 
 Thassa's Ire
    |mana_3| |mana_u|: You may tap or untap target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380521&type=card
-   :align: right
-
 Triton Cavalry
    Heroic — Whenever you cast a spell that targets Triton Cavalry, you may return target enchantment to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380522&type=card
-   :align: right
-
 Triton Shorestalker
    Triton Shorestalker can't be blocked.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380525&type=card
-   :align: right
 
 War-Wing Siren
    Flying
@@ -470,22 +299,13 @@ War-Wing Siren
    Heroic — Whenever you cast a spell that targets War-Wing Siren, put a +1/+1 counter on War-Wing Siren.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380526&type=card
-   :align: right
-
 Whitewater Naiads
    Constellation — Whenever Whitewater Naiads or another enchantment enters the battlefield under your control, target creature can't be blocked this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380366&type=card
-   :align: right
-
 Agent of Erebos
    Constellation — Whenever Agent of Erebos or another enchantment enters the battlefield under your control, exile all cards from target player's graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380373&type=card
-   :align: right
 
 Aspect of Gorgon
    Enchant creature
@@ -493,24 +313,15 @@ Aspect of Gorgon
    Enchanted creature gets +1/+3 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy it.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380381&type=card
-   :align: right
-
 Bloodcrazed Hoplite
    Heroic — Whenever you cast a spell that targets Bloodcrazed Hoplite, put a +1/+1 counter on it.
 
    Whenever a +1/+1 counter is put on Bloodcrazed Hoplite, remove a +1/+1 counter from target creature an opponent controls.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380382&type=card
-   :align: right
-
 Brain Maggot
    When Brain Maggot enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card until Brain Maggot leaves the battlefield.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380383&type=card
-   :align: right
 
 Cast into Darkness
    Enchant creature
@@ -518,17 +329,11 @@ Cast into Darkness
    Enchanted creature gets -2/-0 and can't block.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380389&type=card
-   :align: right
-
 Cruel Feeding
    Strive — This spell costs |mana_2| |mana_b| more to cast for each target beyond the first.
 
    Any number of target creatures each get +1/+0 and gain lifelink until end of turn. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380399&type=card
-   :align: right
 
 Dictate of Erebos
    Flash
@@ -536,36 +341,21 @@ Dictate of Erebos
    Whenever a creature you control dies, each opponent sacrifices a creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380405&type=card
-   :align: right
-
 Doomwake Giant
    Constellation — Whenever Doomwake Giant or another enchantment enters the battlefield under your control, creatures your opponents control get -1/-1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380406&type=card
-   :align: right
 
 Dreadbringer Lampads
    Constellation — Whenever Dreadbringer Lampads or another enchantment enters the battlefield under your control, target creature gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380411&type=card
-   :align: right
-
 Extinguish All Hope
    Destroy all nonenchantment creatures.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380412&type=card
-   :align: right
-
 Feast of Dreams
    Destroy target enchanted creature or enchantment creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380413&type=card
-   :align: right
 
 Felhide Petrifier
    Deathtouch
@@ -573,15 +363,9 @@ Felhide Petrifier
    Other Minotaur creatures you control have deathtouch.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380420&type=card
-   :align: right
-
 Font of Return
    |mana_3| |mana_b|, Sacrifice Font of Return: Return up to three target creature cards from your graveyard to your hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380424&type=card
-   :align: right
 
 Gnarled Scarhide
    Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -591,22 +375,13 @@ Gnarled Scarhide
    Enchanted creature gets +2/+1 and can't block.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380430&type=card
-   :align: right
-
 Grim Guardian
    Constellation — Whenever Grim Guardian or another enchantment enters the battlefield under your control, each opponent loses 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380443&type=card
-   :align: right
-
 King Macar, the Gold-Cursed
    Inspired — Whenever King Macar, the Gold-Cursed becomes untapped, you may exile target creature. If you do, create a colorless artifact token named Gold. It has "Sacrifice this artifact: Add one mana of any color."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380455&type=card
-   :align: right
 
 Master of the Feast
    Flying
@@ -614,15 +389,9 @@ Master of the Feast
    At the beginning of your upkeep, each opponent draws a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380460&type=card
-   :align: right
-
 Nightmarish End
    Target creature gets -X/-X until end of turn, where X is the number of cards in your hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380461&type=card
-   :align: right
 
 Nyx Infusion
    Enchant creature
@@ -630,36 +399,21 @@ Nyx Infusion
    Enchanted creature gets +2/+2 as long as it's an enchantment. Otherwise, it gets -2/-2.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380470&type=card
-   :align: right
-
 Pharika's Chosen
    Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380481&type=card
-   :align: right
 
 Returned Reveler
    When Returned Reveler dies, each player puts the top three cards of their library into their graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380487&type=card
-   :align: right
-
 Ritual of the Returned
    Exile target creature card from your graveyard. Create a black Zombie creature token. Its power is equal to that card's power and its toughness is equal to that card's toughness.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380489&type=card
-   :align: right
-
 Rotted Hulk
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380499&type=card
-   :align: right
 
 Silence the Believers
    Strive — This spell costs |mana_2| |mana_b| more to cast for each target beyond the first.
@@ -667,29 +421,17 @@ Silence the Believers
    Exile any number of target creatures and all Auras attached to them.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380506&type=card
-   :align: right
-
 Spiteful Blow
    Destroy target creature and target land.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380507&type=card
-   :align: right
 
 Squelching Leeches
    Squelching Leeches's power and toughness are each equal to the number of Swamps you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380519&type=card
-   :align: right
-
 Thoughtrender Lamia
    Constellation — Whenever Thoughtrender Lamia or another enchantment enters the battlefield under your control, each opponent discards a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380520&type=card
-   :align: right
 
 Tormented Thoughts
    As an additional cost to cast this spell, sacrifice a creature.
@@ -697,36 +439,21 @@ Tormented Thoughts
    Target player discards a number of cards equal to the sacrificed creature's power.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380528&type=card
-   :align: right
-
 Worst Fears
    You control target player during that player's next turn. Exile Worst Fears. (You see all cards that player could see and make all decisions for the player.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380369&type=card
-   :align: right
 
 Akroan Line Breaker
    Heroic — Whenever you cast a spell that targets Akroan Line Breaker, Akroan Line Breaker gets +2/+0 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380378&type=card
-   :align: right
-
 Bearer of the Heavens
    When Bearer of the Heavens dies, destroy all permanents at the beginning of the next end step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380379&type=card
-   :align: right
-
 Bladetusk Boar
    Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380380&type=card
-   :align: right
 
 Blinding Flare
    Strive — This spell costs |mana_r| more to cast for each target beyond the first.
@@ -734,15 +461,9 @@ Blinding Flare
    Any number of target creatures can't block this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380391&type=card
-   :align: right
-
 Cyclops of Eternal Fury
    Creatures you control have haste.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380403&type=card
-   :align: right
 
 Dictate of the Twin Gods
    Flash
@@ -750,15 +471,9 @@ Dictate of the Twin Gods
    If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380410&type=card
-   :align: right
-
 Eidolon of the Great Revel
    Whenever a player casts a spell with converted mana cost 3 or less, Eidolon of the Great Revel deals 2 damage to that player.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380414&type=card
-   :align: right
 
 Flamespeaker's Will
    Enchant creature you control
@@ -768,36 +483,21 @@ Flamespeaker's Will
    Whenever enchanted creature deals combat damage to a player, you may sacrifice Flamespeaker's Will. If you do, destroy target artifact.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380416&type=card
-   :align: right
-
 Flurry of Horns
    Create two 2/3 red Minotaur creature tokens with haste.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380419&type=card
-   :align: right
 
 Font of Ire
    |mana_3| |mana_r|, Sacrifice Font of Ire: It deals 5 damage to target player or planeswalker.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380422&type=card
-   :align: right
-
 Forgeborn Oreads
    Constellation — Whenever Forgeborn Oreads or another enchantment enters the battlefield under your control, Forgeborn Oreads deals 1 damage to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380423&type=card
-   :align: right
-
 Gluttonous Cyclops
    |mana_5| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380432&type=card
-   :align: right
 
 Harness by Force
    Strive — This spell costs |mana_2| |mana_r| more to cast for each target beyond the first.
@@ -805,15 +505,9 @@ Harness by Force
    Gain control of any number of target creatures until end of turn. Untap those creatures. They gain haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380445&type=card
-   :align: right
-
 Knowledge and Power
    Whenever you scry, you may pay |mana_2|. If you do, Knowledge and Power deals 2 damage to any target.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380451&type=card
-   :align: right
 
 Lightning Diadem
    Enchant creature
@@ -823,15 +517,9 @@ Lightning Diadem
    Enchanted creature gets +2/+2.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380452&type=card
-   :align: right
-
 Magma Spray
    Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380456&type=card
-   :align: right
 
 Mogis's Warhound
    Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -841,15 +529,9 @@ Mogis's Warhound
    Enchanted creature gets +2/+2 and attacks each combat if able.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380467&type=card
-   :align: right
-
 Pensive Minotaur
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380475&type=card
-   :align: right
 
 Prophetic Flamespeaker
    Double strike, trample
@@ -857,22 +539,13 @@ Prophetic Flamespeaker
    Whenever Prophetic Flamespeaker deals combat damage to a player, exile the top card of your library. You may play it this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380484&type=card
-   :align: right
-
 Riddle of Lightning
    Choose any target. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's converted mana cost to that permanent or player. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380488&type=card
-   :align: right
-
 Rollick of Abandon
    All creatures get +2/-2 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380490&type=card
-   :align: right
 
 Rouse the Mob
    Strive — This spell costs |mana_2| |mana_r| more to cast for each target beyond the first.
@@ -880,22 +553,13 @@ Rouse the Mob
    Any number of target creatures each get +2/+0 and gain trample until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380493&type=card
-   :align: right
-
 Satyr Hoplite
    Heroic — Whenever you cast a spell that targets Satyr Hoplite, put a +1/+1 counter on Satyr Hoplite.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380497&type=card
-   :align: right
-
 Sigiled Skink
    Whenever Sigiled Skink attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380503&type=card
-   :align: right
 
 Spawn of Thraxes
    Flying
@@ -903,22 +567,13 @@ Spawn of Thraxes
    When Spawn of Thraxes enters the battlefield, it deals damage to any target equal to the number of Mountains you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380505&type=card
-   :align: right
-
 Spite of Mogis
    Spite of Mogis deals damage to target creature equal to the number of instant and sorcery cards in your graveyard. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380508&type=card
-   :align: right
-
 Starfall
    Starfall deals 3 damage to target creature. If that creature is an enchantment, Starfall deals 3 damage to that creature's controller.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380523&type=card
-   :align: right
 
 Twinflame
    Strive — This spell costs |mana_2| |mana_r| more to cast for each target beyond the first.
@@ -926,24 +581,15 @@ Twinflame
    Choose any number of target creatures you control. For each of them, create a token that's a copy of that creature, except it has haste. Exile those tokens at the beginning of the next end step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380527&type=card
-   :align: right
-
 Wildfire Cerberus
    |mana_5| |mana_r| |mana_r|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)
 
    When Wildfire Cerberus becomes monstrous, it deals 2 damage to each opponent and each creature your opponents control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380376&type=card
-   :align: right
-
 Bassara Tower Archer
    Hexproof, reach
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380386&type=card
-   :align: right
 
 Colossal Heroics
    Strive — This spell costs |mana_1| |mana_g| more to cast for each target beyond the first.
@@ -951,24 +597,15 @@ Colossal Heroics
    Any number of target creatures each get +2/+2 until end of turn. Untap those creatures.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380387&type=card
-   :align: right
-
 Consign to Dust
    Strive — This spell costs |mana_2| |mana_g| more to cast for each target beyond the first.
 
    Destroy any number of target artifacts and/or enchantments.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380396&type=card
-   :align: right
-
 Desecration Plague
    Destroy target enchantment or land.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380401&type=card
-   :align: right
 
 Dictate of Karametra
    Flash
@@ -976,36 +613,21 @@ Dictate of Karametra
    Whenever a player taps a land for mana, that player adds one mana of any type that land produced.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380408&type=card
-   :align: right
-
 Eidolon of Blossoms
    Constellation — Whenever Eidolon of Blossoms or another enchantment enters the battlefield under your control, draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380417&type=card
-   :align: right
 
 Font of Fertility
    |mana_1| |mana_g|, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380427&type=card
-   :align: right
-
 Golden Hind
    |tap|: Add |mana_g|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380428&type=card
-   :align: right
-
 Goldenhide Ox
    Constellation — Whenever Goldenhide Ox or another enchantment enters the battlefield under your control, target creature must be blocked this turn if able.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380434&type=card
-   :align: right
 
 Heroes' Bane
    Heroes' Bane enters the battlefield with four +1/+1 counters on it.
@@ -1013,15 +635,9 @@ Heroes' Bane
    |mana_2| |mana_g| |mana_g|: Put X +1/+1 counters on Heroes' Bane, where X is its power.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380437&type=card
-   :align: right
-
 Humbler of Mortals
    Constellation — Whenever Humbler of Mortals or another enchantment enters the battlefield under your control, creatures you control gain trample until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380438&type=card
-   :align: right
 
 Hydra Broodmaster
    |mana_x| |mana_x| |mana_g|: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)
@@ -1029,15 +645,9 @@ Hydra Broodmaster
    When Hydra Broodmaster becomes monstrous, create X X/X green Hydra creature tokens.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380447&type=card
-   :align: right
-
 Kruphix's Insight
    Reveal the top six cards of your library. Put up to three enchantment cards from among them into your hand and the rest of the revealed cards into your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380454&type=card
-   :align: right
 
 Market Festival
    Enchant land
@@ -1045,38 +655,23 @@ Market Festival
    Whenever enchanted land is tapped for mana, its controller adds an additional two mana in any combination of colors.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380458&type=card
-   :align: right
-
 Nature's Panoply
    Strive — This spell costs |mana_2| |mana_g| more to cast for each target beyond the first.
 
    Choose any number of target creatures. Put a +1/+1 counter on each of them.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380459&type=card
-   :align: right
-
 Nessian Game Warden
    When Nessian Game Warden enters the battlefield, look at the top X cards of your library, where X is the number of Forests you control. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380464&type=card
-   :align: right
 
 Oakheart Dryads
    Constellation — Whenever Oakheart Dryads or another enchantment enters the battlefield under your control, target creature gets +1/+1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380471&type=card
-   :align: right
-
 Pheres-Band Thunderhoof
    Heroic — Whenever you cast a spell that targets Pheres-Band Thunderhoof, put two +1/+1 counters on Pheres-Band Thunderhoof.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380472&type=card
-   :align: right
 
 Pheres-Band Warchief
    Vigilance, trample
@@ -1084,24 +679,15 @@ Pheres-Band Warchief
    Other Centaur creatures you control get +1/+1 and have vigilance and trample.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380478&type=card
-   :align: right
-
 Ravenous Leucrocota
    Vigilance
 
    |mana_6| |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380479&type=card
-   :align: right
-
 Renowned Weaver
    |mana_1| |mana_g|, Sacrifice Renowned Weaver: Create a 1/3 green Spider enchantment creature token with reach. (It can block creatures with flying.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380483&type=card
-   :align: right
 
 Reviving Melody
    Choose one or both —
@@ -1111,15 +697,9 @@ Reviving Melody
    • Return target enchantment card from your graveyard to your hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380492&type=card
-   :align: right
-
 Satyr Grovedancer
    When Satyr Grovedancer enters the battlefield, put a +1/+1 counter on target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380495&type=card
-   :align: right
 
 Setessan Tactics
    Strive — This spell costs |mana_g| more to cast for each target beyond the first.
@@ -1127,17 +707,11 @@ Setessan Tactics
    Until end of turn, any number of target creatures each get +1/+1 and gain "|tap|: This creature fights another target creature."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380502&type=card
-   :align: right
-
 Solidarity of Heroes
    Strive — This spell costs |mana_1| |mana_g| more to cast for each target beyond the first.
 
    Choose any number of target creatures. Double the number of +1/+1 counters on each of them.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380504&type=card
-   :align: right
 
 Spirespine
    Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
@@ -1147,15 +721,9 @@ Spirespine
    Enchanted creature gets +4/+1 and blocks each combat if able.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380511&type=card
-   :align: right
-
 Strength from the Fallen
    Constellation — Whenever Strength from the Fallen or another enchantment enters the battlefield under your control, target creature gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380513&type=card
-   :align: right
 
 Swarmborn Giant
    When you're dealt combat damage, sacrifice Swarmborn Giant.
@@ -1165,9 +733,6 @@ Swarmborn Giant
    As long as Swarmborn Giant is monstrous, it has reach.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380367&type=card
-   :align: right
-
 Ajani, Mentor of Heroes
    +1: Distribute three +1/+1 counters among one, two, or three target creatures you control.
 
@@ -1175,9 +740,6 @@ Ajani, Mentor of Heroes
 
    −8: You gain 100 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380374&type=card
-   :align: right
 
 Athreos, God of Passage
    Indestructible
@@ -1187,24 +749,15 @@ Athreos, God of Passage
    Whenever another creature you own dies, return it to your hand unless target opponent pays 3 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380398&type=card
-   :align: right
-
 Desperate Stand
    Strive — This spell costs |mana_r| |mana_w| more to cast for each target beyond the first.
 
    Any number of target creatures each get +2/+0 and gain first strike and vigilance until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380404&type=card
-   :align: right
-
 Disciple of Deceit
    Inspired — Whenever Disciple of Deceit becomes untapped, you may discard a nonland card. If you do, search your library for a card with the same converted mana cost as that card, reveal it, put it into your hand, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380415&type=card
-   :align: right
 
 Fleetfeather Cockatrice
    Flash (You may cast this spell any time you could cast an instant.)
@@ -1213,9 +766,6 @@ Fleetfeather Cockatrice
 
    |mana_5| |mana_g| |mana_u|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380441&type=card
-   :align: right
 
 Iroas, God of Victory
    Indestructible
@@ -1227,9 +777,6 @@ Iroas, God of Victory
    Prevent all damage that would be dealt to attacking creatures you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380442&type=card
-   :align: right
-
 Keranos, God of Storms
    Indestructible
 
@@ -1237,9 +784,6 @@ Keranos, God of Storms
 
    Reveal the first card you draw on each of your turns. Whenever you reveal a land card this way, draw a card. Whenever you reveal a nonland card this way, Keranos deals 3 damage to any target.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380446&type=card
-   :align: right
 
 Kruphix, God of Horizons
    Indestructible
@@ -1251,9 +795,6 @@ Kruphix, God of Horizons
    If you would lose unspent mana, that mana becomes colorless instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380462&type=card
-   :align: right
-
 Nyx Weaver
    Reach
 
@@ -1261,9 +802,6 @@ Nyx Weaver
 
    |mana_1| |mana_b| |mana_g|, Exile Nyx Weaver: Return target card from your graveyard to your hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380469&type=card
-   :align: right
 
 Pharika, God of Affliction
    Indestructible
@@ -1273,15 +811,9 @@ Pharika, God of Affliction
    |mana_b| |mana_g|: Exile target creature card from a graveyard. Its owner creates a 1/1 black and green Snake enchantment creature token with deathtouch.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380482&type=card
-   :align: right
-
 Revel of the Fallen God
    Create four 2/2 red and green Satyr creature tokens with haste.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380510&type=card
-   :align: right
 
 Stormchaser Chimera
    Flying
@@ -1289,17 +821,11 @@ Stormchaser Chimera
    |mana_2| |mana_u| |mana_r|: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380524&type=card
-   :align: right
-
 Underworld Coinsmith
    Constellation — Whenever Underworld Coinsmith or another enchantment enters the battlefield under your control, you gain 1 life.
 
    |mana_w| |mana_b|, Pay 1 life: Each opponent loses 1 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380372&type=card
-   :align: right
 
 Armory of Iroas
    Whenever equipped creature attacks, put a +1/+1 counter on it.
@@ -1307,17 +833,11 @@ Armory of Iroas
    Equip |mana_2|
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380384&type=card
-   :align: right
-
 Chariot of Victory
    Equipped creature has first strike, trample, and haste.
 
    Equip |mana_1|
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380397&type=card
-   :align: right
 
 Deserter's Quarters
    You may choose not to untap Deserter's Quarters during your untap step.
@@ -1325,15 +845,9 @@ Deserter's Quarters
    |mana_6|, |tap|: Tap target creature. It doesn't untap during its controller's untap step for as long as Deserter's Quarters remains tapped.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380429&type=card
-   :align: right
-
 Gold-Forged Sentinel
    Flying
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380431&type=card
-   :align: right
 
 Hall of Triumph
    As Hall of Triumph enters the battlefield, choose a color.
@@ -1341,15 +855,9 @@ Hall of Triumph
    Creatures you control of the chosen color get +1/+1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380453&type=card
-   :align: right
-
 Mana Confluence
    |tap|, Pay 1 life: Add one mana of any color.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380514&type=card
-   :align: right
 
 Temple of Epiphany
    Temple of Epiphany enters the battlefield tapped.
@@ -1358,9 +866,6 @@ Temple of Epiphany
 
    |tap|: Add |mana_u| or |mana_r|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=380515&type=card
-   :align: right
 
 Temple of Malady
    Temple of Malady enters the battlefield tapped.

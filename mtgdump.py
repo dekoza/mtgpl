@@ -3,15 +3,13 @@ import click
 import mtgsdk
 
 card_template = """
-.. image:: {card[imageUrl]}
-   :align: right
-
 {card[name]}
    {card_text}
 
 """
 
 symbols_map = {
+    '}{': '} {',
     '{C}': '|colorless|',
     '{T}': '|tap|',
     '{Q}': '|untap|',
@@ -49,16 +47,16 @@ symbols_map = {
     '{13}': '|mana_13|',
     '{14}': '|mana_14|',
     '{15}': '|mana_15|',
-    '{(r/g)}': '|mana_rg|',
-    '{(r/w)}': '|mana_rw|',
-    '{(u/b)}': '|mana_ub|',
-    '{(u/r)}': '|mana_ur|',
-    '{(w/b)}': '|mana_wb|',
-    '{(w/u)}': '|mana_wu|',
-    '{(b/g)}': '|mana_bg|',
-    '{(b/r)}': '|mana_br|',
-    '{(g/w)}': '|mana_gw|',
-    '{(g/u)}': '|mana_gu|',
+    '{R/G}': '|mana_rg|',
+    '{R/W}': '|mana_rw|',
+    '{U/B}': '|mana_ub|',
+    '{U/R}': '|mana_ur|',
+    '{W/B}': '|mana_wb|',
+    '{W/U}': '|mana_wu|',
+    '{B/G}': '|mana_bg|',
+    '{B/R}': '|mana_br|',
+    '{G/W}': '|mana_gw|',
+    '{G/U}': '|mana_gu|',
     '\n': '\n\n   ',
     '||': '| |',
 
@@ -71,7 +69,6 @@ def reformat_card_text(text, card_name=None):
     # if card_name is not None:
     #     text = text.replace(card_name, 'this card')
     return text
-
 
 
 @click.command()

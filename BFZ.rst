@@ -5,29 +5,17 @@ Battle for Zendikar
 ===================
         
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401814&type=card
-   :align: right
-
 Bane of Bala Ged
    Whenever Bane of Bala Ged attacks, defending player exiles two permanents they control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401819&type=card
-   :align: right
 
 Blight Herder
    When you cast this spell, you may put two cards your opponents own from exile into their owners' graveyards. If you do, create three 1/1 colorless Eldrazi Scion creature tokens. They have "Sacrifice this creature: Add |colorless|."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401829&type=card
-   :align: right
-
 Breaker of Armies
    All creatures able to block Breaker of Armies do so.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401847&type=card
-   :align: right
 
 Conduit of Ruin
    When you cast this spell, you may search your library for a colorless creature card with converted mana cost 7 or greater, reveal it, then shuffle your library and put that card on top of it.
@@ -35,82 +23,49 @@ Conduit of Ruin
    The first creature spell you cast each turn costs |mana_2| less to cast.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401854&type=card
-   :align: right
-
 Deathless Behemoth
    Vigilance
 
    Sacrifice two Eldrazi Scions: Return Deathless Behemoth from your graveyard to your hand. Activate this ability only any time you could cast a sorcery.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401857&type=card
-   :align: right
-
 Desolation Twin
    When you cast this spell, create a 10/10 colorless Eldrazi creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401867&type=card
-   :align: right
 
 Eldrazi Devastator
    Trample
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401871&type=card
-   :align: right
-
 Endless One
    Endless One enters the battlefield with X +1/+1 counters on it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401905&type=card
-   :align: right
 
 Gruesome Slaughter
    Until end of turn, colorless creatures you control gain "|tap|: This creature deals damage equal to its power to target creature."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401936&type=card
-   :align: right
-
 Kozilek's Channeler
    |tap|: Add |colorless| |colorless|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401972&type=card
-   :align: right
 
 Oblivion Sower
    When you cast this spell, target opponent exiles the top four cards of their library, then you may put any number of land cards that player owns from exile onto the battlefield under your control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402017&type=card
-   :align: right
-
 Ruin Processor
    When you cast this spell, you may put a card an opponent owns from exile into that player's graveyard. If you do, you gain 5 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402025&type=card
-   :align: right
-
 Scour from Existence
    Exile target permanent.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402073&type=card
-   :align: right
 
 Titan's Presence
    As an additional cost to cast this spell, reveal a colorless creature card from your hand.
 
    Exile target creature if its power is less than or equal to the revealed card's power.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402079&type=card
-   :align: right
 
 Ulamog, the Ceaseless Hunger
    When you cast this spell, exile two target permanents.
@@ -120,15 +75,9 @@ Ulamog, the Ceaseless Hunger
    Whenever Ulamog, the Ceaseless Hunger attacks, defending player exiles the top twenty cards of their library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402080&type=card
-   :align: right
-
 Ulamog's Despoiler
    As Ulamog's Despoiler enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, Ulamog's Despoiler enters the battlefield with four +1/+1 counters on it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402093&type=card
-   :align: right
 
 Void Winnower
    Your opponents can't cast spells with even converted mana costs. (Zero is even.)
@@ -136,17 +85,11 @@ Void Winnower
    Your opponents can't block with creatures with even converted mana costs.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401810&type=card
-   :align: right
-
 Angel of Renewal
    Flying
 
    When Angel of Renewal enters the battlefield, you gain 1 life for each creature you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401812&type=card
-   :align: right
 
 Angelic Gift
    Enchant creature
@@ -156,15 +99,9 @@ Angelic Gift
    Enchanted creature has flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401842&type=card
-   :align: right
-
 Cliffside Lookout
    |mana_4| |mana_w|: Creatures you control get +1/+1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401849&type=card
-   :align: right
 
 Courier Griffin
    Flying
@@ -172,17 +109,11 @@ Courier Griffin
    When Courier Griffin enters the battlefield, you gain 2 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401869&type=card
-   :align: right
-
 Emeria Shepherd
    Flying
 
    Landfall — Whenever a land enters the battlefield under your control, you may return target nonland permanent card from your graveyard to your hand. If that land is a Plains, you may return that nonland permanent card to the battlefield instead.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401870&type=card
-   :align: right
 
 Encircling Fissure
    Prevent all combat damage that would be dealt this turn by creatures target opponent controls.
@@ -190,22 +121,13 @@ Encircling Fissure
    Awaken 2—|mana_4| |mana_w| (If you cast this spell for |mana_4| |mana_w|, also put two +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401874&type=card
-   :align: right
-
 Expedition Envoy
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401877&type=card
-   :align: right
-
 Felidar Cub
    Sacrifice Felidar Cub: Destroy target enchantment.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401878&type=card
-   :align: right
 
 Felidar Sovereign
    Vigilance, lifelink
@@ -213,22 +135,13 @@ Felidar Sovereign
    At the beginning of your upkeep, if you have 40 or more life, you win the game.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401892&type=card
-   :align: right
-
 Fortified Rampart
    Defender
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401895&type=card
-   :align: right
-
 Ghostly Sentinel
    Flying, vigilance
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401897&type=card
-   :align: right
 
 Gideon, Ally of Zendikar
    +1: Until end of turn, Gideon, Ally of Zendikar becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
@@ -238,78 +151,45 @@ Gideon, Ally of Zendikar
    −4: You get an emblem with "Creatures you control get +1/+1."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401898&type=card
-   :align: right
-
 Gideon's Reproach
    Gideon's Reproach deals 4 damage to target attacking or blocking creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401913&type=card
-   :align: right
 
 Hero of Goma Fada
    Rally — Whenever Hero of Goma Fada or another Ally enters the battlefield under your control, creatures you control gain indestructible until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401917&type=card
-   :align: right
-
 Inspired Charge
    Creatures you control get +2/+1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401932&type=card
-   :align: right
 
 Kitesail Scout
    Flying
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401933&type=card
-   :align: right
-
 Kor Bladewhirl
    Rally — Whenever Kor Bladewhirl or another Ally enters the battlefield under your control, creatures you control gain first strike until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401934&type=card
-   :align: right
 
 Kor Castigator
    Kor Castigator can't be blocked by Eldrazi Scions.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401935&type=card
-   :align: right
-
 Kor Entanglers
    Rally — Whenever Kor Entanglers or another Ally enters the battlefield under your control, tap target creature an opponent controls.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401938&type=card
-   :align: right
 
 Lantern Scout
    Rally — Whenever Lantern Scout or another Ally enters the battlefield under your control, creatures you control gain lifelink until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401941&type=card
-   :align: right
-
 Lithomancer's Focus
    Target creature gets +2/+2 until end of turn. Prevent all damage that would be dealt to that creature this turn by colorless sources.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401944&type=card
-   :align: right
-
 Makindi Patrol
    Rally — Whenever Makindi Patrol or another Ally enters the battlefield under your control, creatures you control gain vigilance until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401975&type=card
-   :align: right
 
 Ondu Greathorn
    First strike
@@ -317,17 +197,11 @@ Ondu Greathorn
    Landfall — Whenever a land enters the battlefield under your control, Ondu Greathorn gets +2/+2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401976&type=card
-   :align: right
-
 Ondu Rising
    Whenever a creature attacks this turn, it gains lifelink until end of turn.
 
    Awaken 4—|mana_4| |mana_w| (If you cast this spell for |mana_4| |mana_w|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401995&type=card
-   :align: right
 
 Planar Outburst
    Destroy all nonland creatures.
@@ -335,17 +209,11 @@ Planar Outburst
    Awaken 4—|mana_5| |mana_w| |mana_w| |mana_w| (If you cast this spell for |mana_5| |mana_w| |mana_w| |mana_w|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402001&type=card
-   :align: right
-
 Quarantine Field
    Quarantine Field enters the battlefield with X isolation counters on it.
 
    When Quarantine Field enters the battlefield, for each isolation counter on it, exile up to one target nonland permanent an opponent controls until Quarantine Field leaves the battlefield.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402007&type=card
-   :align: right
 
 Retreat to Emeria
    Landfall — Whenever a land enters the battlefield under your control, choose one —
@@ -355,29 +223,17 @@ Retreat to Emeria
    • Creatures you control get +1/+1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402013&type=card
-   :align: right
-
 Roil's Retribution
    Roil's Retribution deals 5 damage divided as you choose among any number of target attacking or blocking creatures.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402028&type=card
-   :align: right
 
 Serene Steward
    Whenever you gain life, you may pay |mana_w|. If you do, put a +1/+1 counter on target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402030&type=card
-   :align: right
-
 Shadow Glider
    Flying
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402033&type=card
-   :align: right
 
 Sheer Drop
    Destroy target tapped creature.
@@ -385,15 +241,9 @@ Sheer Drop
    Awaken 3—|mana_5| |mana_w| (If you cast this spell for |mana_5| |mana_w|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402042&type=card
-   :align: right
-
 Smite the Monstrous
    Destroy target creature with power 4 or greater.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402048&type=card
-   :align: right
 
 Stasis Snare
    Flash (You may cast this spell any time you could cast an instant.)
@@ -401,38 +251,23 @@ Stasis Snare
    When Stasis Snare enters the battlefield, exile target creature an opponent controls until Stasis Snare leaves the battlefield. (That creature returns under its owner's control.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402049&type=card
-   :align: right
-
 Stone Haven Medic
    |mana_w|, |tap|: You gain 1 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402069&type=card
-   :align: right
 
 Tandem Tactics
    Up to two target creatures each get +1/+2 until end of turn. You gain 2 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402084&type=card
-   :align: right
-
 Unified Front
    Converge — Create a 1/1 white Kor Ally creature token for each color of mana spent to cast Unified Front.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401803&type=card
-   :align: right
 
 Adverse Conditions
    Devoid (This card has no color.)
 
    Tap up to two target creatures. Those creatures don't untap during their controller's next untap step. Create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add |colorless|."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401818&type=card
-   :align: right
 
 Benthic Infiltrator
    Devoid (This card has no color.)
@@ -442,17 +277,11 @@ Benthic Infiltrator
    Benthic Infiltrator can't be blocked.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401851&type=card
-   :align: right
-
 Cryptic Cruiser
    Devoid (This card has no color.)
 
    |mana_2| |mana_u|, Put a card an opponent owns from exile into that player's graveyard: Tap target creature.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401863&type=card
-   :align: right
 
 Drowner of Hope
    Devoid (This card has no color.)
@@ -462,9 +291,6 @@ Drowner of Hope
    Sacrifice an Eldrazi Scion: Tap target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401868&type=card
-   :align: right
-
 Eldrazi Skyspawner
    Devoid (This card has no color.)
 
@@ -473,26 +299,17 @@ Eldrazi Skyspawner
    When Eldrazi Skyspawner enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add |colorless|."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401914&type=card
-   :align: right
-
 Horribly Awry
    Devoid (This card has no color.)
 
    Counter target creature spell with converted mana cost 4 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401915&type=card
-   :align: right
-
 Incubator Drone
    Devoid (This card has no color.)
 
    When Incubator Drone enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add |colorless|."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401950&type=card
-   :align: right
 
 Mist Intruder
    Devoid (This card has no color.)
@@ -502,26 +319,17 @@ Mist Intruder
    Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401965&type=card
-   :align: right
-
 Murk Strider
    Devoid (This card has no color.)
 
    When Murk Strider enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target creature to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401977&type=card
-   :align: right
-
 Oracle of Dust
    Devoid (This card has no color.)
 
    |mana_2|, Put a card an opponent owns from exile into that player's graveyard: Draw a card, then discard a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402018&type=card
-   :align: right
 
 Ruination Guide
    Devoid (This card has no color.)
@@ -531,9 +339,6 @@ Ruination Guide
    Other colorless creatures you control get +1/+0.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402021&type=card
-   :align: right
-
 Salvage Drone
    Devoid (This card has no color.)
 
@@ -542,17 +347,11 @@ Salvage Drone
    When Salvage Drone dies, you may draw a card. If you do, discard a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402047&type=card
-   :align: right
-
 Spell Shrivel
    Devoid (This card has no color.)
 
    Counter target spell unless its controller pays |mana_4|. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402071&type=card
-   :align: right
 
 Tide Drifter
    Devoid (This card has no color.)
@@ -560,38 +359,23 @@ Tide Drifter
    Other colorless creatures you control get +0/+1.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402082&type=card
-   :align: right
-
 Ulamog's Reclaimer
    Devoid (This card has no color.)
 
    When Ulamog's Reclaimer enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target instant or sorcery card from your graveyard to your hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401813&type=card
-   :align: right
-
 Anticipate
    Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401830&type=card
-   :align: right
 
 Brilliant Spectrum
    Converge — Draw X cards, where X is the number of colors of mana spent to cast Brilliant Spectrum. Then discard two cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401843&type=card
-   :align: right
-
 Cloud Manta
    Flying
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401844&type=card
-   :align: right
 
 Clutch of Currents
    Return target creature to its owner's hand.
@@ -599,45 +383,27 @@ Clutch of Currents
    Awaken 3—|mana_4| |mana_u| (If you cast this spell for |mana_4| |mana_u|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401845&type=card
-   :align: right
-
 Coastal Discovery
    Draw two cards.
 
    Awaken 4—|mana_5| |mana_u| (If you cast this spell for |mana_5| |mana_u|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401848&type=card
-   :align: right
-
 Coralhelm Guide
    |mana_4| |mana_u|: Target creature can't be blocked this turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401853&type=card
-   :align: right
 
 Dampening Pulse
    Creatures your opponents control get -1/-0.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401858&type=card
-   :align: right
-
 Dispel
    Counter target instant spell.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401873&type=card
-   :align: right
-
 Exert Influence
    Converge — Gain control of target creature if its power is less than or equal to the number of colors of mana spent to cast Exert Influence.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401906&type=card
-   :align: right
 
 Guardian of Tazeem
    Flying
@@ -645,26 +411,17 @@ Guardian of Tazeem
    Landfall — Whenever a land enters the battlefield under your control, tap target creature an opponent controls. If that land is an Island, that creature doesn't untap during its controller's next untap step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401909&type=card
-   :align: right
-
 Halimar Tidecaller
    When Halimar Tidecaller enters the battlefield, you may return target card with awaken from your graveyard to your hand.
 
    Land creatures you control have flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401982&type=card
-   :align: right
-
 Part the Waterveil
    Take an extra turn after this one. Exile Part the Waterveil.
 
    Awaken 6—|mana_6| |mana_u| |mana_u| |mana_u| (If you cast this spell for |mana_6| |mana_u| |mana_u| |mana_u|, also put six +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401999&type=card
-   :align: right
 
 Prism Array
    Converge — Prism Array enters the battlefield with a crystal counter on it for each color of mana spent to cast it.
@@ -674,9 +431,6 @@ Prism Array
    |mana_w| |mana_u| |mana_b| |mana_r| |mana_g|: Scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402006&type=card
-   :align: right
-
 Retreat to Coralhelm
    Landfall — Whenever a land enters the battlefield under your control, choose one —
 
@@ -685,17 +439,11 @@ Retreat to Coralhelm
    • Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402014&type=card
-   :align: right
-
 Roilmage's Trick
    Converge — Creatures your opponents control get -X/-0 until end of turn, where X is the number of colors of mana spent to cast Roilmage's Trick.
 
    Draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402020&type=card
-   :align: right
 
 Rush of Ice
    Tap target creature. It doesn't untap during its controller's next untap step.
@@ -703,17 +451,11 @@ Rush of Ice
    Awaken 3—|mana_4| |mana_u| (If you cast this spell for |mana_4| |mana_u|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402024&type=card
-   :align: right
-
 Scatter to the Winds
    Counter target spell.
 
    Awaken 3—|mana_4| |mana_u| |mana_u| (If you cast this spell for |mana_4| |mana_u| |mana_u|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402072&type=card
-   :align: right
 
 Tightening Coils
    Enchant creature
@@ -721,15 +463,9 @@ Tightening Coils
    Enchanted creature gets -6/-0 and loses flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402078&type=card
-   :align: right
-
 Ugin's Insight
    Scry X, where X is the highest converted mana cost among permanents you control, then draw three cards.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402097&type=card
-   :align: right
 
 Wave-Wing Elemental
    Flying
@@ -737,17 +473,11 @@ Wave-Wing Elemental
    Landfall — Whenever a land enters the battlefield under your control, Wave-Wing Elemental gets +2/+2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402098&type=card
-   :align: right
-
 Windrider Patrol
    Flying
 
    Whenever Windrider Patrol deals combat damage to a player, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401846&type=card
-   :align: right
 
 Complete Disregard
    Devoid (This card has no color.)
@@ -755,17 +485,11 @@ Complete Disregard
    Exile target creature with power 3 or less.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401852&type=card
-   :align: right
-
 Culling Drone
    Devoid (This card has no color.)
 
    Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401859&type=card
-   :align: right
 
 Dominator Drone
    Devoid (This card has no color.)
@@ -775,9 +499,6 @@ Dominator Drone
    When Dominator Drone enters the battlefield, if you control another colorless creature, each opponent loses 2 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401900&type=card
-   :align: right
-
 Grave Birthing
    Devoid (This card has no color.)
 
@@ -786,26 +507,17 @@ Grave Birthing
    Draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401902&type=card
-   :align: right
-
 Grip of Desolation
    Devoid (This card has no color.)
 
    Exile target creature and target land.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401948&type=card
-   :align: right
-
 Mind Raker
    Devoid (This card has no color.)
 
    When Mind Raker enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, each opponent discards a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402035&type=card
-   :align: right
 
 Silent Skimmer
    Devoid (This card has no color.)
@@ -815,9 +527,6 @@ Silent Skimmer
    Whenever Silent Skimmer attacks, defending player loses 2 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402037&type=card
-   :align: right
-
 Skitterskin
    Devoid (This card has no color.)
 
@@ -826,9 +535,6 @@ Skitterskin
    |mana_1| |mana_b|: Regenerate Skitterskin. Activate this ability only if you control another colorless creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402041&type=card
-   :align: right
-
 Sludge Crawler
    Devoid (This card has no color.)
 
@@ -836,9 +542,6 @@ Sludge Crawler
 
    |mana_2|: Sludge Crawler gets +1/+1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402044&type=card
-   :align: right
 
 Smothering Abomination
    Devoid (This card has no color.)
@@ -850,17 +553,11 @@ Smothering Abomination
    Whenever you sacrifice a creature, draw a card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402063&type=card
-   :align: right
-
 Swarm Surge
    Devoid (This card has no color.)
 
    Creatures you control get +2/+0 until end of turn. Colorless creatures you control also gain first strike until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402075&type=card
-   :align: right
 
 Transgress the Mind
    Devoid (This card has no color.)
@@ -868,17 +565,11 @@ Transgress the Mind
    Target player reveals their hand. You choose a card from it with converted mana cost 3 or greater and exile that card.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402096&type=card
-   :align: right
-
 Wasteland Strangler
    Devoid (This card has no color.)
 
    When Wasteland Strangler enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, target creature gets -3/-3 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401809&type=card
-   :align: right
 
 Altar's Reap
    As an additional cost to cast this spell, sacrifice a creature.
@@ -886,15 +577,9 @@ Altar's Reap
    Draw two cards.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401826&type=card
-   :align: right
-
 Bloodbond Vampire
    Whenever you gain life, put a +1/+1 counter on Bloodbond Vampire.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401828&type=card
-   :align: right
 
 Bone Splinters
    As an additional cost to cast this spell, sacrifice a creature.
@@ -902,15 +587,9 @@ Bone Splinters
    Destroy target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401838&type=card
-   :align: right
-
 Carrier Thrall
    When Carrier Thrall dies, create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add |colorless|."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401855&type=card
-   :align: right
 
 Defiant Bloodlord
    Flying
@@ -918,15 +597,9 @@ Defiant Bloodlord
    Whenever you gain life, target opponent loses that much life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401856&type=card
-   :align: right
-
 Demon's Grasp
    Target creature gets -5/-5 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401861&type=card
-   :align: right
 
 Drana, Liberator of Malakir
    Flying, first strike
@@ -934,15 +607,9 @@ Drana, Liberator of Malakir
    Whenever Drana, Liberator of Malakir deals combat damage to a player, put a +1/+1 counter on each attacking creature you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401865&type=card
-   :align: right
-
 Dutiful Return
    Return up to two target creature cards from your graveyard to your hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401894&type=card
-   :align: right
 
 Geyserfield Stalker
    Menace (This creature can't be blocked except by two or more creatures.)
@@ -950,38 +617,23 @@ Geyserfield Stalker
    Landfall — Whenever a land enters the battlefield under your control, Geyserfield Stalker gets +2/+2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401907&type=card
-   :align: right
-
 Guul Draz Overseer
    Flying
 
    Landfall — Whenever a land enters the battlefield under your control, other creatures you control get +1/+0 until end of turn. If that land is a Swamp, those creatures get +2/+0 until end of turn instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401908&type=card
-   :align: right
-
 Hagra Sharpshooter
    |mana_4| |mana_b|: Target creature gets -1/-1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401929&type=card
-   :align: right
 
 Kalastria Healer
    Rally — Whenever Kalastria Healer or another Ally enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401930&type=card
-   :align: right
-
 Kalastria Nightwatch
    Whenever you gain life, Kalastria Nightwatch gains flying until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401946&type=card
-   :align: right
 
 Malakir Familiar
    Flying, deathtouch
@@ -989,24 +641,15 @@ Malakir Familiar
    Whenever you gain life, Malakir Familiar gets +1/+1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401949&type=card
-   :align: right
-
 Mire's Malice
    Target opponent discards two cards.
 
    Awaken 3—|mana_5| |mana_b| (If you cast this spell for |mana_5| |mana_b|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401968&type=card
-   :align: right
-
 Nirkana Assassin
    Whenever you gain life, Nirkana Assassin gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401971&type=card
-   :align: right
 
 Ob Nixilis Reignited
    +1: You draw a card and you lose 1 life.
@@ -1016,15 +659,9 @@ Ob Nixilis Reignited
    −8: Target opponent gets an emblem with "Whenever a player draws a card, you lose 2 life."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401981&type=card
-   :align: right
-
 Painful Truths
    Converge — You draw X cards and you lose X life, where X is the number of colors of mana spent to cast Painful Truths.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402008&type=card
-   :align: right
 
 Retreat to Hagra
    Landfall — Whenever a land enters the battlefield under your control, choose one —
@@ -1034,17 +671,11 @@ Retreat to Hagra
    • Each opponent loses 1 life and you gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402011&type=card
-   :align: right
-
 Rising Miasma
    All creatures get -2/-2 until end of turn.
 
    Awaken 3—|mana_5| |mana_b| |mana_b| (If you cast this spell for |mana_5| |mana_b| |mana_b|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402019&type=card
-   :align: right
 
 Ruinous Path
    Destroy target creature or planeswalker.
@@ -1052,29 +683,17 @@ Ruinous Path
    Awaken 4—|mana_5| |mana_b| |mana_b| (If you cast this spell for |mana_5| |mana_b| |mana_b|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402088&type=card
-   :align: right
-
 Vampiric Rites
    |mana_1| |mana_b|, Sacrifice a creature: You gain 1 life and draw a card.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402095&type=card
-   :align: right
 
 Voracious Null
    |mana_1| |mana_b|, Sacrifice another creature: Put two +1/+1 counters on Voracious Null. Activate this ability only any time you could cast a sorcery.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402101&type=card
-   :align: right
-
 Zulaport Cutthroat
    Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401815&type=card
-   :align: right
 
 Barrage Tyrant
    Devoid (This card has no color.)
@@ -1082,17 +701,11 @@ Barrage Tyrant
    |mana_2| |mana_r|, Sacrifice another colorless creature: Barrage Tyrant deals damage equal to the sacrificed creature's power to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401850&type=card
-   :align: right
-
 Crumble to Dust
    Devoid (This card has no color.)
 
    Exile target nonbasic land. Search its controller's graveyard, hand, and library for any number of cards with the same name as that land and exile them. Then that player shuffles their library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401937&type=card
-   :align: right
 
 Kozilek's Sentinel
    Devoid (This card has no color.)
@@ -1100,17 +713,11 @@ Kozilek's Sentinel
    Whenever you cast a colorless spell, Kozilek's Sentinel gets +1/+0 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401951&type=card
-   :align: right
-
 Molten Nursery
    Devoid (This card has no color.)
 
    Whenever you cast a colorless spell, Molten Nursery deals 1 damage to any target.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401967&type=card
-   :align: right
 
 Nettle Drone
    Devoid (This card has no color.)
@@ -1120,9 +727,6 @@ Nettle Drone
    Whenever you cast a colorless spell, untap Nettle Drone.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402000&type=card
-   :align: right
-
 Processor Assault
    Devoid (This card has no color.)
 
@@ -1131,17 +735,11 @@ Processor Assault
    Processor Assault deals 5 damage to target creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402029&type=card
-   :align: right
-
 Serpentine Spike
    Devoid (This card has no color.)
 
    Serpentine Spike deals 2 damage to target creature, 3 damage to another target creature, and 4 damage to a third target creature. If a creature dealt damage this way would die this turn, exile it instead.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402074&type=card
-   :align: right
 
 Touch of the Void
    Devoid (This card has no color.)
@@ -1149,26 +747,17 @@ Touch of the Void
    Touch of the Void deals 3 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402077&type=card
-   :align: right
-
 Turn Against
    Devoid (This card has no color.)
 
    Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402089&type=card
-   :align: right
-
 Vestige of Emrakul
    Devoid (This card has no color.)
 
    Trample
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402091&type=card
-   :align: right
 
 Vile Aggregate
    Devoid (This card has no color.)
@@ -1180,9 +769,6 @@ Vile Aggregate
    Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401804&type=card
-   :align: right
-
 Akoum Firebird
    Flying, haste
 
@@ -1191,31 +777,19 @@ Akoum Firebird
    Landfall — Whenever a land enters the battlefield under your control, you may pay |mana_4| |mana_r| |mana_r|. If you do, return Akoum Firebird from your graveyard to the battlefield.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401805&type=card
-   :align: right
-
 Akoum Hellkite
    Flying
 
    Landfall — Whenever a land enters the battlefield under your control, Akoum Hellkite deals 1 damage to any target. If that land is a Mountain, Akoum Hellkite deals 2 damage to that permanent or player instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401806&type=card
-   :align: right
-
 Akoum Stonewaker
    Landfall — Whenever a land enters the battlefield under your control, you may pay |mana_2| |mana_r|. If you do, create a 3/1 red Elemental creature token with trample and haste. Exile that token at the beginning of the next end step.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401817&type=card
-   :align: right
-
 Belligerent Whiptail
    Landfall — Whenever a land enters the battlefield under your control, Belligerent Whiptail gains first strike until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401827&type=card
-   :align: right
 
 Boiling Earth
    Boiling Earth deals 1 damage to each creature your opponents control.
@@ -1223,29 +797,17 @@ Boiling Earth
    Awaken 4—|mana_6| |mana_r| (If you cast this spell for |mana_6| |mana_r|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401840&type=card
-   :align: right
-
 Chasm Guide
    Rally — Whenever Chasm Guide or another Ally enters the battlefield under your control, creatures you control gain haste until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401860&type=card
-   :align: right
 
 Dragonmaster Outcast
    At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401880&type=card
-   :align: right
-
 Firemantle Mage
    Rally — Whenever Firemantle Mage or another Ally enters the battlefield under your control, creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401899&type=card
-   :align: right
 
 Goblin War Paint
    Enchant creature
@@ -1253,15 +815,9 @@ Goblin War Paint
    Enchanted creature gets +2/+2 and has haste.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401939&type=card
-   :align: right
-
 Lavastep Raider
    |mana_2| |mana_r|: Lavastep Raider gets +2/+0 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401945&type=card
-   :align: right
 
 Makindi Sliderunner
    Trample
@@ -1269,36 +825,21 @@ Makindi Sliderunner
    Landfall — Whenever a land enters the battlefield under your control, Makindi Sliderunner gets +1/+1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401974&type=card
-   :align: right
-
 Ondu Champion
    Rally — Whenever Ondu Champion or another Ally enters the battlefield under your control, creatures you control gain trample until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401980&type=card
-   :align: right
 
 Outnumber
    Outnumber deals damage to target creature equal to the number of creatures you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402002&type=card
-   :align: right
-
 Radiant Flames
    Converge — Radiant Flames deals X damage to each creature, where X is the number of colors of mana spent to cast Radiant Flames.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402003&type=card
-   :align: right
-
 Reckless Cohort
    Reckless Cohort attacks each combat if able unless you control another Ally.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402010&type=card
-   :align: right
 
 Retreat to Valakut
    Landfall — Whenever a land enters the battlefield under your control, choose one —
@@ -1308,71 +849,41 @@ Retreat to Valakut
    • Target creature can't block this turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402015&type=card
-   :align: right
-
 Rolling Thunder
    Rolling Thunder deals X damage divided as you choose among any number of targets.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402032&type=card
-   :align: right
 
 Shatterskull Recruit
    Menace (This creature can't be blocked except by two or more creatures.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402050&type=card
-   :align: right
-
 Stonefury
    Stonefury deals damage to target creature equal to the number of lands you control.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402052&type=card
-   :align: right
 
 Sure Strike
    Target creature gets +3/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402076&type=card
-   :align: right
-
 Tunneling Geopede
    Landfall — Whenever a land enters the battlefield under your control, Tunneling Geopede deals 1 damage to each opponent.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402086&type=card
-   :align: right
 
 Valakut Invoker
    |mana_8|: Valakut Invoker deals 3 damage to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402087&type=card
-   :align: right
-
 Valakut Predator
    Landfall — Whenever a land enters the battlefield under your control, Valakut Predator gets +2/+2 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402094&type=card
-   :align: right
 
 Volcanic Upheaval
    Destroy target land.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402100&type=card
-   :align: right
-
 Zada, Hedron Grinder
    Whenever you cast an instant or sorcery spell that targets only Zada, Hedron Grinder, copy that spell for each other creature you control that the spell could target. Each copy targets a different one of those creatures.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401825&type=card
-   :align: right
 
 Blisterpod
    Devoid (This card has no color.)
@@ -1380,17 +891,11 @@ Blisterpod
    When Blisterpod dies, create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add |colorless|."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401833&type=card
-   :align: right
-
 Brood Monitor
    Devoid (This card has no color.)
 
    When Brood Monitor enters the battlefield, create three 1/1 colorless Eldrazi Scion creature tokens. They have "Sacrifice this creature: Add |colorless|."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401836&type=card
-   :align: right
 
 Call the Scions
    Devoid (This card has no color.)
@@ -1398,17 +903,11 @@ Call the Scions
    Create two 1/1 colorless Eldrazi Scion creature tokens. They have "Sacrifice this creature: Add |colorless|."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401875&type=card
-   :align: right
-
 Eyeless Watcher
    Devoid (This card has no color.)
 
    When Eyeless Watcher enters the battlefield, create two 1/1 colorless Eldrazi Scion creature tokens. They have "Sacrifice this creature: Add |colorless|."
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401893&type=card
-   :align: right
 
 From Beyond
    Devoid (This card has no color.)
@@ -1418,17 +917,11 @@ From Beyond
    |mana_1| |mana_g|, Sacrifice From Beyond: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402085&type=card
-   :align: right
-
 Unnatural Aggression
    Devoid (This card has no color.)
 
    Target creature you control fights target creature an opponent controls. If the creature an opponent controls would die this turn, exile it instead.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402092&type=card
-   :align: right
 
 Void Attendant
    Devoid (This card has no color.)
@@ -1436,24 +929,15 @@ Void Attendant
    |mana_1| |mana_g|, Put a card an opponent owns from exile into that player's graveyard: Create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add |colorless|."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401816&type=card
-   :align: right
-
 Beastcaller Savant
    Haste
 
    |tap|: Add one mana of any color. Spend this mana only to cast a creature spell.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401834&type=card
-   :align: right
-
 Broodhunter Wurm
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401866&type=card
-   :align: right
 
 Earthen Arms
    Put two +1/+1 counters on target permanent.
@@ -1461,15 +945,9 @@ Earthen Arms
    Awaken 4—|mana_6| |mana_g| (If you cast this spell for |mana_6| |mana_g|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401896&type=card
-   :align: right
-
 Giant Mantis
    Reach (This creature can block creatures with flying.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401901&type=card
-   :align: right
 
 Greenwarden of Murasa
    When Greenwarden of Murasa enters the battlefield, you may return target card from your graveyard to your hand.
@@ -1477,15 +955,9 @@ Greenwarden of Murasa
    When Greenwarden of Murasa dies, you may exile it. If you do, return target card from your graveyard to your hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401916&type=card
-   :align: right
-
 Infuse with the Elements
    Converge — Put X +1/+1 counters on target creature, where X is the number of colors of mana spent to cast Infuse with the Elements. That creature gains trample until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401928&type=card
-   :align: right
 
 Jaddi Offshoot
    Defender
@@ -1493,36 +965,21 @@ Jaddi Offshoot
    Landfall — Whenever a land enters the battlefield under your control, you gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401940&type=card
-   :align: right
-
 Lifespring Druid
    |tap|: Add one mana of any color.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401964&type=card
-   :align: right
 
 Murasa Ranger
    Landfall — Whenever a land enters the battlefield under your control, you may pay |mana_3| |mana_g|. If you do, put two +1/+1 counters on Murasa Ranger.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401966&type=card
-   :align: right
-
 Natural Connection
    Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401969&type=card
-   :align: right
-
 Nissa's Renewal
    Search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library. You gain 7 life.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401978&type=card
-   :align: right
 
 Oran-Rief Hydra
    Trample
@@ -1530,15 +987,9 @@ Oran-Rief Hydra
    Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Oran-Rief Hydra. If that land is a Forest, put two +1/+1 counters on Oran-Rief Hydra instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401979&type=card
-   :align: right
-
 Oran-Rief Invoker
    |mana_8|: Oran-Rief Invoker gets +5/+5 and gains trample until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401996&type=card
-   :align: right
 
 Plated Crusher
    Trample
@@ -1546,22 +997,13 @@ Plated Crusher
    Hexproof (This creature can't be the target of spells or abilities your opponents control.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401997&type=card
-   :align: right
-
 Plummet
    Destroy target creature with flying.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402004&type=card
-   :align: right
-
 Reclaiming Vines
    Destroy target artifact, enchantment, or land.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402009&type=card
-   :align: right
 
 Retreat to Kazandu
    Landfall — Whenever a land enters the battlefield under your control, choose one —
@@ -1571,78 +1013,45 @@ Retreat to Kazandu
    • You gain 2 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402016&type=card
-   :align: right
-
 Rot Shambler
    Whenever another creature you control dies, put a +1/+1 counter on Rot Shambler.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402026&type=card
-   :align: right
 
 Scythe Leopard
    Landfall — Whenever a land enters the battlefield under your control, Scythe Leopard gets +1/+1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402027&type=card
-   :align: right
-
 Seek the Wilds
    Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402045&type=card
-   :align: right
 
 Snapping Gnarlid
    Landfall — Whenever a land enters the battlefield under your control, Snapping Gnarlid gets +1/+1 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402064&type=card
-   :align: right
-
 Swell of Growth
    Target creature gets +2/+2 until end of turn. You may put a land card from your hand onto the battlefield.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402065&type=card
-   :align: right
 
 Sylvan Scrying
    Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402066&type=card
-   :align: right
-
 Tajuru Beastmaster
    Rally — Whenever Tajuru Beastmaster or another Ally enters the battlefield under your control, creatures you control get +1/+1 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402067&type=card
-   :align: right
 
 Tajuru Stalwart
    Converge — Tajuru Stalwart enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402068&type=card
-   :align: right
-
 Tajuru Warcaller
    Rally — Whenever Tajuru Warcaller or another Ally enters the battlefield under your control, creatures you control get +2/+2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402070&type=card
-   :align: right
-
 Territorial Baloth
    Landfall — Whenever a land enters the battlefield under your control, Territorial Baloth gets +2/+2 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402083&type=card
-   :align: right
 
 Undergrowth Champion
    If damage would be dealt to Undergrowth Champion while it has a +1/+1 counter on it, prevent that damage and remove a +1/+1 counter from Undergrowth Champion.
@@ -1650,17 +1059,11 @@ Undergrowth Champion
    Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on Undergrowth Champion.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402099&type=card
-   :align: right
-
 Woodland Wanderer
    Vigilance, trample
 
    Converge — Woodland Wanderer enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401832&type=card
-   :align: right
 
 Brood Butcher
    Devoid (This card has no color.)
@@ -1669,9 +1072,6 @@ Brood Butcher
 
    |mana_b| |mana_g|, Sacrifice a creature: Target creature gets -2/-2 until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401835&type=card
-   :align: right
 
 Brutal Expulsion
    Devoid (This card has no color.)
@@ -1683,9 +1083,6 @@ Brutal Expulsion
    • Brutal Expulsion deals 2 damage to target creature or planeswalker. If that permanent would be put into a graveyard this turn, exile it instead.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401839&type=card
-   :align: right
-
 Catacomb Sifter
    Devoid (This card has no color.)
 
@@ -1694,9 +1091,6 @@ Catacomb Sifter
    Whenever another creature you control dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401864&type=card
-   :align: right
-
 Dust Stalker
    Devoid (This card has no color.)
 
@@ -1704,9 +1098,6 @@ Dust Stalker
 
    At the beginning of each end step, if you control no other colorless creatures, return Dust Stalker to its owner's hand.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401876&type=card
-   :align: right
 
 Fathom Feeder
    Devoid (This card has no color.)
@@ -1718,17 +1109,11 @@ Fathom Feeder
    |mana_3| |mana_u| |mana_b|: Draw a card. Each opponent exiles the top card of their library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401881&type=card
-   :align: right
-
 Forerunner of Slaughter
    Devoid (This card has no color.)
 
    |mana_1|: Target colorless creature gains haste until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401912&type=card
-   :align: right
 
 Herald of Kozilek
    Devoid (This card has no color.)
@@ -1736,17 +1121,11 @@ Herald of Kozilek
    Colorless spells you cast cost |mana_1| less to cast.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402036&type=card
-   :align: right
-
 Sire of Stagnation
    Devoid (This card has no color.)
 
    Whenever a land enters the battlefield under an opponent's control, that player exiles the top two cards of their library and you draw two cards.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402081&type=card
-   :align: right
 
 Ulamog's Nullifier
    Devoid (This card has no color.)
@@ -1758,24 +1137,15 @@ Ulamog's Nullifier
    When Ulamog's Nullifier enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, counter target spell.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401811&type=card
-   :align: right
-
 Angelic Captain
    Flying
 
    Whenever Angelic Captain attacks, it gets +1/+1 until end of turn for each other attacking Ally.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401831&type=card
-   :align: right
-
 Bring to Light
    Converge — Search your library for a creature, instant, or sorcery card with converted mana cost less than or equal to the number of colors of mana spent to cast Bring to Light, exile that card, then shuffle your library. You may cast that card without paying its mana cost.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401862&type=card
-   :align: right
 
 Drana's Emissary
    Flying
@@ -1783,24 +1153,15 @@ Drana's Emissary
    At the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401903&type=card
-   :align: right
-
 Grove Rumbler
    Trample
 
    Landfall — Whenever a land enters the battlefield under your control, Grove Rumbler gets +2/+2 until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401904&type=card
-   :align: right
-
 Grovetender Druids
    Rally — Whenever Grovetender Druids or another Ally enters the battlefield under your control, you may pay |mana_1|. If you do, create a 1/1 green Plant creature token.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401931&type=card
-   :align: right
 
 Kiora, Master of the Depths
    +1: Untap up to one target creature and up to one target land.
@@ -1810,15 +1171,9 @@ Kiora, Master of the Depths
    −8: You get an emblem with "Whenever a creature enters the battlefield under your control, you may have it fight target creature." Then create three 8/8 blue Octopus creature tokens.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401947&type=card
-   :align: right
-
 March from the Tomb
    Return any number of target Ally creature cards with total converted mana cost 8 or less from your graveyard to the battlefield.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401963&type=card
-   :align: right
 
 Munda, Ambush Leader
    Haste
@@ -1826,15 +1181,9 @@ Munda, Ambush Leader
    Rally — Whenever Munda, Ambush Leader or another Ally enters the battlefield under your control, you may look at the top four cards of your library. If you do, reveal any number of Ally cards from among them, then put those cards on top of your library in any order and the rest on the bottom in any order.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401970&type=card
-   :align: right
-
 Noyan Dar, Roil Shaper
    Whenever you cast an instant or sorcery spell, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401973&type=card
-   :align: right
 
 Omnath, Locus of Rage
    Landfall — Whenever a land enters the battlefield under your control, create a 5/5 red and green Elemental creature token.
@@ -1842,15 +1191,9 @@ Omnath, Locus of Rage
    Whenever Omnath, Locus of Rage or another Elemental you control dies, Omnath deals 3 damage to any target.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402005&type=card
-   :align: right
-
 Resolute Blademaster
    Rally — Whenever Resolute Blademaster or another Ally enters the battlefield under your control, creatures you control gain double strike until end of turn.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402012&type=card
-   :align: right
 
 Roil Spout
    Put target creature on top of its owner's library.
@@ -1858,17 +1201,11 @@ Roil Spout
    Awaken 4—|mana_4| |mana_w| |mana_u| (If you cast this spell for |mana_4| |mana_w| |mana_u|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402039&type=card
-   :align: right
-
 Skyrider Elf
    Flying
 
    Converge — Skyrider Elf enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402090&type=card
-   :align: right
 
 Veteran Warleader
    Veteran Warleader's power and toughness are each equal to the number of creatures you control.
@@ -1876,24 +1213,15 @@ Veteran Warleader
    Tap another untapped Ally you control: Veteran Warleader gains your choice of first strike, vigilance, or trample until end of turn.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401807&type=card
-   :align: right
-
 Aligned Hedron Network
    When Aligned Hedron Network enters the battlefield, exile all creatures with power 5 or greater until Aligned Hedron Network leaves the battlefield. (Those creatures return under their owners' control.)
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401910&type=card
-   :align: right
 
 Hedron Archive
    |tap|: Add |colorless| |colorless|.
 
    |mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401911&type=card
-   :align: right
 
 Hedron Blade
    Equipped creature gets +1/+1.
@@ -1903,17 +1231,11 @@ Hedron Blade
    Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only as a sorcery.)
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401983&type=card
-   :align: right
-
 Pathway Arrows
    Equipped creature has "|mana_2|, |tap|: This creature deals 1 damage to target creature. If a colorless creature is dealt damage this way, tap it."
 
    Equip |mana_2|
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401984&type=card
-   :align: right
 
 Pilgrim's Eye
    Flying
@@ -1921,17 +1243,11 @@ Pilgrim's Eye
    When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402040&type=card
-   :align: right
-
 Slab Hammer
    Whenever equipped creature attacks, you may return a land you control to its owner's hand. If you do, the creature gets +2/+2 until end of turn.
 
    Equip |mana_2|
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401808&type=card
-   :align: right
 
 Ally Encampment
    |tap|: Add |colorless|.
@@ -1941,17 +1257,11 @@ Ally Encampment
    |mana_1|, |tap|, Sacrifice Ally Encampment: Return target Ally you control to its owner's hand.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401820&type=card
-   :align: right
-
 Blighted Cataract
    |tap|: Add |colorless|.
 
    |mana_5| |mana_u|, |tap|, Sacrifice Blighted Cataract: Draw two cards.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401821&type=card
-   :align: right
 
 Blighted Fen
    |tap|: Add |colorless|.
@@ -1959,17 +1269,11 @@ Blighted Fen
    |mana_4| |mana_b|, |tap|, Sacrifice Blighted Fen: Target opponent sacrifices a creature.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401822&type=card
-   :align: right
-
 Blighted Gorge
    |tap|: Add |colorless|.
 
    |mana_4| |mana_r|, |tap|, Sacrifice Blighted Gorge: It deals 2 damage to any target.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401823&type=card
-   :align: right
 
 Blighted Steppe
    |tap|: Add |colorless|.
@@ -1977,17 +1281,11 @@ Blighted Steppe
    |mana_3| |mana_w|, |tap|, Sacrifice Blighted Steppe: You gain 2 life for each creature you control.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401824&type=card
-   :align: right
-
 Blighted Woodland
    |tap|: Add |colorless|.
 
    |mana_3| |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401837&type=card
-   :align: right
 
 Canopy Vista
    (|tap|: Add |mana_g| or |mana_w|.)
@@ -1995,24 +1293,15 @@ Canopy Vista
    Canopy Vista enters the battlefield tapped unless you control two or more basic lands.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401841&type=card
-   :align: right
-
 Cinder Glade
    (|tap|: Add |mana_r| or |mana_g|.)
 
    Cinder Glade enters the battlefield tapped unless you control two or more basic lands.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401872&type=card
-   :align: right
-
 Evolving Wilds
    |tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401879&type=card
-   :align: right
 
 Fertile Thicket
    Fertile Thicket enters the battlefield tapped.
@@ -2022,9 +1311,6 @@ Fertile Thicket
    |tap|: Add |mana_g|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401942&type=card
-   :align: right
-
 Looming Spires
    Looming Spires enters the battlefield tapped.
 
@@ -2032,9 +1318,6 @@ Looming Spires
 
    |tap|: Add |mana_r|.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401943&type=card
-   :align: right
 
 Lumbering Falls
    Lumbering Falls enters the battlefield tapped.
@@ -2044,9 +1327,6 @@ Lumbering Falls
    |mana_2| |mana_g| |mana_u|: Lumbering Falls becomes a 3/3 green and blue Elemental creature with hexproof until end of turn. It's still a land.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401952&type=card
-   :align: right
-
 Mortuary Mire
    Mortuary Mire enters the battlefield tapped.
 
@@ -2055,26 +1335,17 @@ Mortuary Mire
    |tap|: Add |mana_b|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401998&type=card
-   :align: right
-
 Prairie Stream
    (|tap|: Add |mana_w| or |mana_u|.)
 
    Prairie Stream enters the battlefield tapped unless you control two or more basic lands.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402022&type=card
-   :align: right
-
 Sanctum of Ugin
    |tap|: Add |colorless|.
 
    Whenever you cast a colorless spell with converted mana cost 7 or greater, you may sacrifice Sanctum of Ugin. If you do, search your library for a colorless creature card, reveal it, put it into your hand, then shuffle your library.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402023&type=card
-   :align: right
 
 Sandstone Bridge
    Sandstone Bridge enters the battlefield tapped.
@@ -2084,9 +1355,6 @@ Sandstone Bridge
    |tap|: Add |mana_w|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402031&type=card
-   :align: right
-
 Shambling Vent
    Shambling Vent enters the battlefield tapped.
 
@@ -2095,17 +1363,11 @@ Shambling Vent
    |mana_1| |mana_w| |mana_b|: Shambling Vent becomes a 2/3 white and black Elemental creature with lifelink until end of turn. It's still a land.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402034&type=card
-   :align: right
-
 Shrine of the Forsaken Gods
    |tap|: Add |colorless|.
 
    |tap|: Add |colorless| |colorless|. Spend this mana only to cast colorless spells. Activate this ability only if you control seven or more lands.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402038&type=card
-   :align: right
 
 Skyline Cascade
    Skyline Cascade enters the battlefield tapped.
@@ -2115,17 +1377,11 @@ Skyline Cascade
    |tap|: Add |mana_u|.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402043&type=card
-   :align: right
-
 Smoldering Marsh
    (|tap|: Add |mana_b| or |mana_r|.)
 
    Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands.
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402046&type=card
-   :align: right
 
 Spawning Bed
    |tap|: Add |colorless|.
@@ -2133,360 +1389,207 @@ Spawning Bed
    |mana_6|, |tap|, Sacrifice Spawning Bed: Create three 1/1 colorless Eldrazi Scion creature tokens. They have "Sacrifice this creature: Add |colorless|."
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402051&type=card
-   :align: right
-
 Sunken Hollow
    (|tap|: Add |mana_u| or |mana_b|.)
 
    Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401985&type=card
-   :align: right
+Plains
+   
+
 
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401992&type=card
-   :align: right
+Plains
+   
+
 
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401988&type=card
-   :align: right
+Plains
+   
+
 
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401993&type=card
-   :align: right
+Plains
+   
+
 
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401989&type=card
-   :align: right
+Plains
+   
+
 
 Plains
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401991&type=card
-   :align: right
-
-Plains
+Island
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401986&type=card
-   :align: right
-
-Plains
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401994&type=card
-   :align: right
-
-Plains
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401987&type=card
-   :align: right
-
-Plains
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401990&type=card
-   :align: right
-
-Plains
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401922&type=card
-   :align: right
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401925&type=card
-   :align: right
+Island
+   
+
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401918&type=card
-   :align: right
+Island
+   
+
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401923&type=card
-   :align: right
+Island
+   
+
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401920&type=card
-   :align: right
+Island
+   
+
 
 Island
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401926&type=card
-   :align: right
-
-Island
+Swamp
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401924&type=card
-   :align: right
-
-Island
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401927&type=card
-   :align: right
-
-Island
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401919&type=card
-   :align: right
-
-Island
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401921&type=card
-   :align: right
-
-Island
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402055&type=card
-   :align: right
 
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402061&type=card
-   :align: right
+Swamp
+   
+
 
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402053&type=card
-   :align: right
+Swamp
+   
+
 
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402058&type=card
-   :align: right
+Swamp
+   
+
 
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402054&type=card
-   :align: right
+Swamp
+   
+
 
 Swamp
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402060&type=card
-   :align: right
-
-Swamp
+Mountain
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402056&type=card
-   :align: right
-
-Swamp
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402059&type=card
-   :align: right
-
-Swamp
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402057&type=card
-   :align: right
-
-Swamp
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=402062&type=card
-   :align: right
-
-Swamp
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401958&type=card
-   :align: right
 
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401962&type=card
-   :align: right
+Mountain
+   
+
 
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401957&type=card
-   :align: right
+Mountain
+   
+
 
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401959&type=card
-   :align: right
+Mountain
+   
+
 
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401954&type=card
-   :align: right
-
 Mountain
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401956&type=card
-   :align: right
-
 Mountain
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401955&type=card
-   :align: right
-
-Mountain
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401961&type=card
-   :align: right
-
-Mountain
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401953&type=card
-   :align: right
-
-Mountain
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401960&type=card
-   :align: right
-
-Mountain
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401887&type=card
-   :align: right
 
 Forest
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401889&type=card
-   :align: right
+Forest
+   
+
 
 Forest
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401885&type=card
-   :align: right
+Forest
+   
+
 
 Forest
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401888&type=card
-   :align: right
+Forest
+   
+
 
 Forest
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401884&type=card
-   :align: right
-
 Forest
    
 
 
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401891&type=card
-   :align: right
-
 Forest
    
 
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401882&type=card
-   :align: right
-
-Forest
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401886&type=card
-   :align: right
-
-Forest
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401883&type=card
-   :align: right
-
-Forest
-   
-
-
-.. image:: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401890&type=card
-   :align: right
 
 Forest
    
