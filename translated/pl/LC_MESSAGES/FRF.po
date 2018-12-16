@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/frf/pl/>\n"
 "Language: pl\n"
@@ -2723,7 +2723,7 @@ msgstr "Winds of Qal Sisma"
 #: ../../FRF.rst:819
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, które zostałyby zadane w tej turze."
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby być zadane w tej turze."
 
 # eaae8143cf8d47698dc2218f5c747bf5
 #: ../../FRF.rst:821
@@ -3076,9 +3076,8 @@ msgstr "Kiedy Blossoming Sands wchodzi na pole walki, zyskujesz 1 życie."
 
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:929
-#, fuzzy
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dodaj |mana_g| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 # dfe8ed606aed4ca1a16fdaccafe5ffc7
 #: ../../FRF.rst:938
@@ -3088,7 +3087,7 @@ msgstr "Crucible of the Spirit Dragon"
 
 #: ../../FRF.rst:933
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 # 7ec22bf5ad414952a460d46eccef5448
 #: ../../FRF.rst:935
@@ -3148,9 +3147,8 @@ msgstr "Kiedy Jungle Hollow wchodzi na pole walki, zyskujesz 1 życie."
 
 # 298af8ad32384d06997041fe369a02ff
 #: ../../FRF.rst:953
-#, fuzzy
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_g| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 # 5ce8c636d48144abab12a6d96b1912d8
 #: ../../FRF.rst:962
@@ -3214,9 +3212,8 @@ msgstr "Kiedy Swiftwater Cliffs wchodzi na pole walki, zyskujesz 1 życie."
 
 # 1920a00e207543fa8f7d3c20dee7f113
 #: ../../FRF.rst:977
-#, fuzzy
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dodaj |mana_u| lub |mana_r| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 # b8996e2faa3942a18cef52ec8a314ac6
 #: ../../FRF.rst:986
