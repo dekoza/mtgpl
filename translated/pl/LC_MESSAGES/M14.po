@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 11:20+0000\n"
+"PO-Revision-Date: 2018-12-16 18:23+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -357,11 +357,12 @@ msgstr "Charging Griffin (Szarżujący Gryf)"
 # 3ac1790cfef14749b88fa6ab20b1c4d6
 # 57ef05476de34fe880dd720f69cd3b38
 #: ../../M14.rst:110 ../../M14.rst:867 ../../M14.rst:908 ../../M14.rst:1233
-#, fuzzy
 msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z Lataniem.)"
+msgstr ""
+"Latanie (Ten stwór nie może być blokowany za wyjątkiem stworów z lataniem i "
+"zasięgiem.)"
 
 # 3cbd374b2b7e40509dcf06d5444a50c4
 # dc953d6b14424c878786ec668187afa8
@@ -1997,7 +1998,7 @@ msgstr ""
 # eaf851076e874914978b5a367a86b1f2
 #: ../../M14.rst:1003
 msgid "Act of Treason"
-msgstr "Act of Treason (Akt Zdrady)"
+msgstr "Act of Treason (Akt zdrady)"
 
 # 5451ee39c5344aef98529da3162c6704
 # b6d3a66b049d4e0ba6ea8219a2bf6930
@@ -2006,8 +2007,9 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Przejmij władanie nad wskazanym stworem do końca tury. Odznacz tego stwora. "
-"Zyskuje on Pośpiech do końca tury. (Może atakować i |tap| w tej turze.)"
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odznacz owego "
+"stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej "
+"turze.)"
 
 # 3c14af0e342d40db9aed6562ba1185bb
 #: ../../M14.rst:1012
@@ -2802,8 +2804,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być wskazywany przez czary i zdolności "
-"władane przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być celem czarów i zdolności władanych przez "
+"twoich przeciwników.)"
 
 # cef397e21dcc4cff91bf4d69e6ce09d0
 #: ../../M14.rst:1411
