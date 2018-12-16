@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 09:38+0000\n"
+"PO-Revision-Date: 2018-12-16 11:20+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
@@ -823,7 +823,7 @@ msgstr ""
 
 #: ../../DOM.rst:650
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../DOM.rst:660
 msgid "Zahid, Djinn of the Lamp"
@@ -919,7 +919,7 @@ msgstr ""
 
 #: ../../DOM.rst:739
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../DOM.rst:741
 msgid "When Demonlord Belzenlok enters the battlefield, exile cards from the top of your library until you exile a nonland card, then put that card into your hand. If the card's converted mana cost is 4 or greater, repeat this process. Demonlord Belzenlok deals 1 damage to you for each card put into your hand this way."
@@ -971,7 +971,7 @@ msgstr ""
 
 #: ../../DOM.rst:782
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../DOM.rst:790
 msgid "Feral Abomination"
@@ -979,7 +979,7 @@ msgstr ""
 
 #: ../../DOM.rst:789
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../DOM.rst:797
 msgid "Final Parting"
@@ -1237,7 +1237,7 @@ msgstr ""
 #: ../../DOM.rst:1949
 #: ../../DOM.rst:2011
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../DOM.rst:1005
 msgid "Champion of the Flame gets +2/+2 for each Aura and Equipment attached to it."
@@ -1435,7 +1435,7 @@ msgstr ""
 #: ../../DOM.rst:1169
 #: ../../DOM.rst:1678
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../DOM.rst:1171
 msgid "When Keldon Overseer enters the battlefield, if it was kicked, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn."
@@ -1580,7 +1580,7 @@ msgstr ""
 #: ../../DOM.rst:1295
 #: ../../DOM.rst:1627
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../DOM.rst:1297
 msgid "Whenever you attack with three or more creatures, you may pay |mana_2| |mana_r|. If you do, return Warcry Phoenix from your graveyard to the battlefield tapped and attacking."
@@ -2163,7 +2163,7 @@ msgstr ""
 
 #: ../../DOM.rst:1813
 msgid "Defender"
-msgstr ""
+msgstr "Obrońca"
 
 #: ../../DOM.rst:1815
 msgid "|mana_2|: Amaranthine Wall gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
