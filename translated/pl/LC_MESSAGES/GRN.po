@@ -3,19 +3,21 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2018-12-16 00:05+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/grn/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 
 #: ../../GRN.rst:5
 msgid "Guilds of Ravnica"
@@ -41,7 +43,7 @@ msgstr ""
 #: ../../GRN.rst:19 ../../GRN.rst:140 ../../GRN.rst:1242 ../../GRN.rst:1342
 #: ../../GRN.rst:1658 ../../GRN.rst:1697 ../../GRN.rst:1846
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../GRN.rst:21
 msgid ""
@@ -56,7 +58,7 @@ msgstr ""
 #: ../../GRN.rst:28 ../../GRN.rst:80 ../../GRN.rst:176 ../../GRN.rst:258
 #: ../../GRN.rst:558 ../../GRN.rst:911
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../GRN.rst:30
 msgid "Enchanted creature gets +3/+2 and has vigilance."
@@ -68,7 +70,7 @@ msgstr ""
 
 #: ../../GRN.rst:37
 msgid "Destroy all creatures with toughness 4 or greater."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory z wytrzymałością 4 lub większą."
 
 #: ../../GRN.rst:45
 msgid "Collar the Culprit"
@@ -159,7 +161,7 @@ msgstr ""
 #: ../../GRN.rst:877 ../../GRN.rst:1274 ../../GRN.rst:1360 ../../GRN.rst:1389
 #: ../../GRN.rst:1611 ../../GRN.rst:1726 ../../GRN.rst:1805 ../../GRN.rst:2040
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../GRN.rst:106
 msgid "Gird for Battle"
@@ -1313,7 +1315,7 @@ msgstr ""
 
 #: ../../GRN.rst:1041 ../../GRN.rst:1204
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../GRN.rst:1043
 msgid "Destroy target creature with flying."
@@ -1321,7 +1323,7 @@ msgstr ""
 
 #: ../../GRN.rst:1045
 msgid "Destroy target enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany urok."
 
 #: ../../GRN.rst:1053
 msgid "Devkarin Dissident"
