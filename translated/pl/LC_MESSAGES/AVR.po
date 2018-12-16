@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
@@ -430,8 +430,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much"
 " life.)"
 msgstr ""
-"Więź życia (Obrażenia zadane przez tego stwora powodują, że jego władca "
-"zyskuje tyle samo życia.)"
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo życia.)"
 
 #: ../../AVR.rst:302
 msgid "Silverblade Paladin"
@@ -2497,7 +2497,7 @@ msgstr "Alchemist's Refuge (Szałas Alchemika)"
 #: ../../AVR.rst:1832 ../../AVR.rst:1843 ../../AVR.rst:1852 ../../AVR.rst:1865
 #: ../../AVR.rst:1872
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../AVR.rst:1834
 #, fuzzy
@@ -2560,23 +2560,23 @@ msgstr ""
 
 #: ../../AVR.rst:1880 ../../AVR.rst:1887 ../../AVR.rst:1894
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 #: ../../AVR.rst:1901 ../../AVR.rst:1908 ../../AVR.rst:1915
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 #: ../../AVR.rst:1922 ../../AVR.rst:1929 ../../AVR.rst:1936
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 #: ../../AVR.rst:1943 ../../AVR.rst:1950 ../../AVR.rst:1957
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 #: ../../AVR.rst:1964 ../../AVR.rst:1971 ../../AVR.rst:1978
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
 
 # b5c4d088f9224d26871658a228726b2f
 #~ msgid ""
