@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -44,11 +44,12 @@ msgstr ""
 
 #: ../../M19.rst:22
 msgid "Ajani, Adversary of Tyrants"
-msgstr ""
+msgstr "Ajani, Adversary of Tyrants (Ajani, adwersarz tyranów)"
 
 #: ../../M19.rst:17
 msgid "+1: Put a +1/+1 counter on each of up to two target creatures."
 msgstr ""
+"+1: Połóż znacznik +1/+1 na każdym z co najwyżej dwóch wskazanych stworów."
 
 #: ../../M19.rst:19
 msgid ""
@@ -101,7 +102,7 @@ msgstr ""
 
 #: ../../M19.rst:42
 msgid "Angel of the Dawn"
-msgstr ""
+msgstr "Angel of the Dawn (Anioł świtu)"
 
 #: ../../M19.rst:39 ../../M19.rst:71 ../../M19.rst:163 ../../M19.rst:169
 #: ../../M19.rst:175 ../../M19.rst:189 ../../M19.rst:235 ../../M19.rst:271
@@ -120,10 +121,13 @@ msgid ""
 "+1 and gain vigilance until end of turn. (Attacking doesn't cause them to "
 "tap.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"końca tury +1/+1 oraz czujność. (Atakowanie nie powoduje ich zaznaczenia.)"
 
 #: ../../M19.rst:46
+#, fuzzy
 msgid "Cavalry Drillmaster"
-msgstr ""
+msgstr "Cavalry Drillmaster"
 
 #: ../../M19.rst:45
 msgid ""
@@ -142,11 +146,11 @@ msgstr "Wybierz jedno —"
 
 #: ../../M19.rst:51
 msgid "Destroy all creatures."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory."
 
 #: ../../M19.rst:53
 msgid "Destroy all artifacts and enchantments."
-msgstr ""
+msgstr "Zniszcz wszystkie artefakty i uroki."
 
 #: ../../M19.rst:58
 msgid "Daybreak Chaplain"
@@ -157,10 +161,13 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo życia.)"
 
 #: ../../M19.rst:62
+#, fuzzy
 msgid "Dwarven Priest"
-msgstr ""
+msgstr "Dwarven Priest"
 
 #: ../../M19.rst:61
 msgid ""
@@ -175,7 +182,7 @@ msgstr ""
 #: ../../M19.rst:65 ../../M19.rst:93 ../../M19.rst:147 ../../M19.rst:929
 #: ../../M19.rst:1023 ../../M19.rst:1453 ../../M19.rst:1585
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr ""
+msgstr "Czujność (Atakowanie nie powoduje zaznaczenia tego stwora.)"
 
 #: ../../M19.rst:67
 msgid ""
@@ -189,7 +196,7 @@ msgstr ""
 
 #: ../../M19.rst:73
 msgid "Whenever Herald of Faith attacks, you gain 2 life."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje, zyskujesz 2 życia."
 
 #: ../../M19.rst:78
 msgid "Hieromancer's Cage"
@@ -1528,6 +1535,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bitewne w gracza lub "
+"wędrowca, którego atakuje.)"
 
 #: ../../M19.rst:730
 msgid "Hostile Minotaur"
@@ -2039,6 +2048,7 @@ msgstr ""
 #: ../../M19.rst:989
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby być zadane w tej turze."
 
 #: ../../M19.rst:994
 msgid "Runic Armasaur"
@@ -2616,7 +2626,7 @@ msgstr ""
 
 #: ../../M19.rst:1277 ../../M19.rst:1309
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../M19.rst:1279
 msgid ""
@@ -2647,7 +2657,7 @@ msgstr ""
 
 #: ../../M19.rst:1291
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../M19.rst:1298
 msgid "Highland Lake"
@@ -2659,7 +2669,7 @@ msgstr ""
 
 #: ../../M19.rst:1297
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../M19.rst:1304
 msgid "Meandering River"
@@ -2741,7 +2751,7 @@ msgstr ""
 
 #: ../../M19.rst:1341
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../M19.rst:1348
 msgid "Woodland Stream"
@@ -2757,23 +2767,23 @@ msgstr ""
 
 #: ../../M19.rst:1350 ../../M19.rst:1354 ../../M19.rst:1358 ../../M19.rst:1362
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 #: ../../M19.rst:1366 ../../M19.rst:1370 ../../M19.rst:1374 ../../M19.rst:1378
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 #: ../../M19.rst:1382 ../../M19.rst:1386 ../../M19.rst:1390 ../../M19.rst:1394
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 #: ../../M19.rst:1398 ../../M19.rst:1402 ../../M19.rst:1406 ../../M19.rst:1410
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 #: ../../M19.rst:1414 ../../M19.rst:1418 ../../M19.rst:1422 ../../M19.rst:1426
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
 
 #: ../../M19.rst:1436
 msgid "Ajani, Wise Counselor"
@@ -2841,7 +2851,7 @@ msgstr ""
 
 #: ../../M19.rst:1463
 msgid "+1: Draw a card."
-msgstr ""
+msgstr "+1: Dobierz kartę."
 
 #: ../../M19.rst:1465
 msgid ""
