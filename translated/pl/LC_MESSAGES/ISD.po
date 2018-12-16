@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 21:55+0000\n"
+"PO-Revision-Date: 2018-12-16 23:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
@@ -1102,6 +1102,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bitewne w gracza lub "
+"wędrowca, którego atakuje.)"
 
 # c56da12657ff4963a0ef6bb25a8d4b5d
 #: ../../ISD.rst:416
@@ -1552,6 +1554,8 @@ msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
 msgstr ""
+"Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
+"samo życia.)"
 
 # 290415fc05ad4fbebee2ff45a5611ef5
 #: ../../ISD.rst:604
@@ -3513,7 +3517,7 @@ msgstr ""
 #: ../../ISD.rst:1375 ../../ISD.rst:1381 ../../ISD.rst:1399 ../../ISD.rst:1405
 #: ../../ISD.rst:1411 ../../ISD.rst:1417 ../../ISD.rst:1423
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 # 5db7b5adb1944f4d8d1d98b977917af0
 #: ../../ISD.rst:1377
@@ -3638,9 +3642,8 @@ msgstr ""
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1431
-#, fuzzy
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dodaj |mana_w| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 # a9e71f4853c7424794b628668cd96930
 #: ../../ISD.rst:1438
@@ -3656,31 +3659,30 @@ msgstr ""
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1437
-#, fuzzy
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dodaj |mana_w| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 # 3fdd000218c74538a60942b1ef969783
 #: ../../ISD.rst:1440 ../../ISD.rst:1444 ../../ISD.rst:1448
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 # 5ee5bf5c72a04ca2b0725088fa434c7e
 #: ../../ISD.rst:1452 ../../ISD.rst:1456 ../../ISD.rst:1460
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 # ac3fd7f867fe4b4a8131e7aea7ca669d
 #: ../../ISD.rst:1464 ../../ISD.rst:1468 ../../ISD.rst:1472
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 # a5d1e6aa501c49c3b7559600276a51ca
 #: ../../ISD.rst:1476 ../../ISD.rst:1480 ../../ISD.rst:1484
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 # 3fbf68eb494b449daf08dc89bd9aa526
 #: ../../ISD.rst:1488 ../../ISD.rst:1492 ../../ISD.rst:1496
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
