@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 18:04+0100\n"
-"PO-Revision-Date: 2018-12-16 00:05+0000\n"
+"PO-Revision-Date: 2018-12-16 00:35+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -62,7 +62,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../GRN.rst:30
 msgid "Enchanted creature gets +3/+2 and has vigilance."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+2 i ma czujność."
 
 #: ../../GRN.rst:38
 msgid "Citywide Bust"
@@ -78,7 +78,7 @@ msgstr ""
 
 #: ../../GRN.rst:44
 msgid "Destroy target creature with toughness 4 or greater."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora z wytrzymałością 4 lub większą."
 
 #: ../../GRN.rst:54
 msgid "Conclave Tribunal"
@@ -107,23 +107,25 @@ msgstr ""
 
 #: ../../GRN.rst:60 ../../GRN.rst:1256 ../../GRN.rst:1378
 msgid "Choose one or both —"
-msgstr ""
+msgstr "Wybierz jedno lub oba —"
 
 #: ../../GRN.rst:62
 msgid "Exile target artifact."
-msgstr ""
+msgstr "Wypędź wskazany artefakt."
 
 #: ../../GRN.rst:64
 msgid "Exile target enchantment."
-msgstr ""
+msgstr "Wypędź wskazany urok."
 
 #: ../../GRN.rst:74
 msgid "Dawn of Hope"
-msgstr ""
+msgstr "Dawn of Hope (Świt nadziei)"
 
 #: ../../GRN.rst:71
 msgid "Whenever you gain life, you may pay |mana_2|. If you do, draw a card."
 msgstr ""
+"Ilekroć zyskujesz życie, możesz zapłacić |mana_2|. Jeśli to zrobisz, dobierz "
+"kartę."
 
 #: ../../GRN.rst:73
 msgid ""
