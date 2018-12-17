@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../KLD.rst:5
@@ -33,7 +36,7 @@ msgstr ""
 
 #: ../../KLD.rst:14 ../../KLD.rst:198 ../../KLD.rst:1064
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../KLD.rst:22
 msgid "Aerial Responder"
@@ -53,7 +56,7 @@ msgstr ""
 #: ../../KLD.rst:1085 ../../KLD.rst:1459 ../../KLD.rst:1960 ../../KLD.rst:1969
 #: ../../KLD.rst:1980
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../KLD.rst:30
 msgid ""
@@ -143,7 +146,7 @@ msgstr ""
 
 #: ../../KLD.rst:84 ../../KLD.rst:274
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../KLD.rst:86
 msgid ""
@@ -234,7 +237,7 @@ msgstr ""
 
 #: ../../KLD.rst:143 ../../KLD.rst:941
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../KLD.rst:145
 msgid ""
@@ -327,7 +330,7 @@ msgstr ""
 
 #: ../../KLD.rst:221 ../../KLD.rst:971
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../KLD.rst:223
 msgid "Enchanted creature can't attack, block, or crew Vehicles."
@@ -413,7 +416,7 @@ msgstr ""
 
 #: ../../KLD.rst:299
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 #: ../../KLD.rst:301
 msgid "Enchant creature or Vehicle"
@@ -506,7 +509,7 @@ msgstr ""
 
 #: ../../KLD.rst:362 ../../KLD.rst:439
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../KLD.rst:370
 msgid "Dramatic Reversal"
@@ -607,7 +610,7 @@ msgstr ""
 
 #: ../../KLD.rst:437 ../../KLD.rst:1409 ../../KLD.rst:1508
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../KLD.rst:441
 msgid "You may choose new targets for target spell."
@@ -802,7 +805,7 @@ msgstr ""
 
 #: ../../KLD.rst:568
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../KLD.rst:570
 msgid ""
@@ -820,6 +823,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
+"Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
+"do końca tury.)"
 
 #: ../../KLD.rst:585
 msgid "Weldfast Wingsmith"
@@ -987,7 +992,7 @@ msgstr ""
 
 #: ../../KLD.rst:709
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../KLD.rst:711
 msgid ""
@@ -1102,7 +1107,7 @@ msgstr ""
 
 #: ../../KLD.rst:784
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../KLD.rst:794
 msgid "Morbid Curiosity"
@@ -1259,7 +1264,7 @@ msgstr ""
 #: ../../KLD.rst:898 ../../KLD.rst:1010 ../../KLD.rst:1105 ../../KLD.rst:1660
 #: ../../KLD.rst:1840
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../KLD.rst:906
 msgid "Built to Smash"
@@ -1281,7 +1286,7 @@ msgstr ""
 
 #: ../../KLD.rst:914
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../KLD.rst:928
 msgid "Chandra, Torch of Defiance"
@@ -1336,7 +1341,7 @@ msgstr ""
 
 #: ../../KLD.rst:950
 msgid "Destroy target artifact or land."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../KLD.rst:958
 msgid "Fateful Showdown"
@@ -1593,7 +1598,7 @@ msgstr ""
 #: ../../KLD.rst:1137 ../../KLD.rst:1183 ../../KLD.rst:1373 ../../KLD.rst:1382
 #: ../../KLD.rst:1429
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../KLD.rst:1139
 msgid ""
@@ -1807,7 +1812,7 @@ msgstr ""
 
 #: ../../KLD.rst:1300 ../../KLD.rst:1689 ../../KLD.rst:2270
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../KLD.rst:1310
 msgid "Hunt the Weak"
@@ -2036,7 +2041,7 @@ msgstr ""
 
 #: ../../KLD.rst:1468
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../KLD.rst:1470
 msgid "Whenever an artifact enters the battlefield under your control, scry 1."
@@ -2793,7 +2798,7 @@ msgstr ""
 
 #: ../../KLD.rst:1991
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../KLD.rst:2001
 msgid "Torch Gauntlet"
@@ -2857,7 +2862,7 @@ msgstr ""
 
 #: ../../KLD.rst:2039 ../../KLD.rst:2086 ../../KLD.rst:2095
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../KLD.rst:2051
 msgid "Blooming Marsh"
@@ -2871,7 +2876,7 @@ msgstr ""
 
 #: ../../KLD.rst:2050
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../KLD.rst:2060
 msgid "Botanical Sanctum"
@@ -2913,7 +2918,7 @@ msgstr ""
 
 #: ../../KLD.rst:2077 ../../KLD.rst:2252
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../KLD.rst:2089
 msgid "Inventors' Fair"
@@ -2956,27 +2961,27 @@ msgstr ""
 
 #: ../../KLD.rst:2106
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../KLD.rst:2112 ../../KLD.rst:2119 ../../KLD.rst:2126
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 #: ../../KLD.rst:2133 ../../KLD.rst:2140 ../../KLD.rst:2147
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 #: ../../KLD.rst:2154 ../../KLD.rst:2161 ../../KLD.rst:2168
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 #: ../../KLD.rst:2175 ../../KLD.rst:2182 ../../KLD.rst:2189
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 #: ../../KLD.rst:2196 ../../KLD.rst:2203 ../../KLD.rst:2210
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
 
 #: ../../KLD.rst:2223
 msgid "Chandra, Pyrogenius"
@@ -3087,4 +3092,3 @@ msgstr ""
 #: ../../KLD.rst:2293
 msgid "Woodland Stream enters the battlefield tapped."
 msgstr ""
-
