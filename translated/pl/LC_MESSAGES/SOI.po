@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/soi/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../SOI.rst:5
@@ -41,7 +44,7 @@ msgstr ""
 #: ../../SOI.rst:1078 ../../SOI.rst:1129 ../../SOI.rst:1176 ../../SOI.rst:1432
 #: ../../SOI.rst:2308 ../../SOI.rst:2324 ../../SOI.rst:2503
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../SOI.rst:21
 msgid ""
@@ -78,11 +81,11 @@ msgstr ""
 
 #: ../../SOI.rst:46 ../../SOI.rst:733
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../SOI.rst:48
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../SOI.rst:50
 msgid ""
@@ -134,7 +137,7 @@ msgstr ""
 #: ../../SOI.rst:781 ../../SOI.rst:980 ../../SOI.rst:1648 ../../SOI.rst:1668
 #: ../../SOI.rst:1688 ../../SOI.rst:1884 ../../SOI.rst:2288
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../SOI.rst:84
 msgid "Enchanted creature can't attack, block, or transform."
@@ -396,7 +399,7 @@ msgstr ""
 
 #: ../../SOI.rst:273 ../../SOI.rst:1092
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../SOI.rst:275
 msgid ""
@@ -649,7 +652,7 @@ msgstr ""
 
 #: ../../SOI.rst:461 ../../SOI.rst:484
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../SOI.rst:463
 msgid ""
@@ -703,6 +706,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
+"Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
+"do końca tury.)"
 
 #: ../../SOI.rst:502
 msgid ""
@@ -844,7 +849,7 @@ msgstr ""
 
 #: ../../SOI.rst:600
 msgid "Enchanted creature gets +1/+1 and has flying."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma latanie."
 
 #: ../../SOI.rst:602
 msgid "Discard a card: Return enchanted creature to its owner's hand."
@@ -1023,6 +1028,8 @@ msgid ""
 "Tap target creature. It doesn't untap during its controller's next untap "
 "step."
 msgstr ""
+"Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
+"odznaczania swojego władcy."
 
 #: ../../SOI.rst:740
 msgid "Rattlechains"
@@ -1144,7 +1151,7 @@ msgstr ""
 
 #: ../../SOI.rst:828 ../../SOI.rst:1686 ../../SOI.rst:1959 ../../SOI.rst:2046
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 #: ../../SOI.rst:842
 msgid "Thing in the Ice"
@@ -1251,7 +1258,7 @@ msgstr ""
 
 #: ../../SOI.rst:903
 msgid "Enchant player"
-msgstr ""
+msgstr "Zaurocz gracza"
 
 #: ../../SOI.rst:905
 msgid "Spells you cast that target enchanted player cost |mana_1| less to cast."
@@ -1590,7 +1597,7 @@ msgstr ""
 
 #: ../../SOI.rst:1140 ../../SOI.rst:1717
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../SOI.rst:1152
 msgid "Mindwrack Demon"
@@ -1620,6 +1627,8 @@ msgstr ""
 #: ../../SOI.rst:1756
 msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogi (Ten stwór nie może być zablokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../SOI.rst:1160
 msgid ""
@@ -1972,7 +1981,7 @@ msgstr ""
 #: ../../SOI.rst:1407 ../../SOI.rst:1457 ../../SOI.rst:1525 ../../SOI.rst:1577
 #: ../../SOI.rst:1747 ../../SOI.rst:1765
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../SOI.rst:1409
 msgid "|mana_1| |mana_r|: Ember-Eye Wolf gets +2/+0 until end of turn."
@@ -2099,7 +2108,7 @@ msgstr ""
 
 #: ../../SOI.rst:1493
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../SOI.rst:1495
 msgid ""
@@ -2221,7 +2230,7 @@ msgstr ""
 
 #: ../../SOI.rst:1586
 msgid "Creatures without flying can't block this turn."
-msgstr ""
+msgstr "Stwory bez latania nie mogą blokować w tej turze."
 
 #: ../../SOI.rst:1596
 msgid "Malevolent Whispers"
@@ -2247,7 +2256,7 @@ msgstr ""
 #: ../../SOI.rst:1602 ../../SOI.rst:1724 ../../SOI.rst:1950 ../../SOI.rst:1975
 #: ../../SOI.rst:2114 ../../SOI.rst:2137 ../../SOI.rst:2443
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../SOI.rst:1604
 msgid ""
@@ -2291,7 +2300,7 @@ msgstr ""
 
 #: ../../SOI.rst:1639
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../SOI.rst:1641
 msgid ""
@@ -2572,7 +2581,7 @@ msgstr ""
 
 #: ../../SOI.rst:1857 ../../SOI.rst:2584
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../SOI.rst:1859
 msgid ""
@@ -2873,7 +2882,7 @@ msgstr ""
 
 #: ../../SOI.rst:2069
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../SOI.rst:2083
 msgid "Sage of Ancient Lore"
@@ -3083,7 +3092,7 @@ msgstr ""
 
 #: ../../SOI.rst:2212
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../SOI.rst:2214
 msgid "Watcher in the Web can block an additional seven creatures each combat."
@@ -3095,7 +3104,7 @@ msgstr ""
 
 #: ../../SOI.rst:2221
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../SOI.rst:2223
 msgid ""
@@ -3114,7 +3123,7 @@ msgstr ""
 
 #: ../../SOI.rst:2232
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../SOI.rst:2234
 msgid ""
@@ -3182,7 +3191,7 @@ msgstr ""
 
 #: ../../SOI.rst:2275
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../SOI.rst:2277
 msgid ""
@@ -3386,7 +3395,7 @@ msgstr ""
 
 #: ../../SOI.rst:2405 ../../SOI.rst:2546 ../../SOI.rst:2627 ../../SOI.rst:2636
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../SOI.rst:2407
 msgid ""
@@ -3558,7 +3567,7 @@ msgstr ""
 
 #: ../../SOI.rst:2539
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../SOI.rst:2549
 msgid "Drownyard Temple"
@@ -3610,7 +3619,7 @@ msgstr ""
 
 #: ../../SOI.rst:2575
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../SOI.rst:2585
 msgid "Foul Orchard"
@@ -3645,7 +3654,7 @@ msgstr ""
 
 #: ../../SOI.rst:2602
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../SOI.rst:2612
 msgid "Port Town"
@@ -3672,7 +3681,7 @@ msgstr ""
 
 #: ../../SOI.rst:2620
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../SOI.rst:2630
 msgid "Warped Landscape"
@@ -3723,21 +3732,20 @@ msgstr ""
 
 #: ../../SOI.rst:2662 ../../SOI.rst:2669 ../../SOI.rst:2676
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 #: ../../SOI.rst:2683 ../../SOI.rst:2690 ../../SOI.rst:2697
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 #: ../../SOI.rst:2704 ../../SOI.rst:2711 ../../SOI.rst:2718
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 #: ../../SOI.rst:2725 ../../SOI.rst:2732 ../../SOI.rst:2739
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 #: ../../SOI.rst:2746 ../../SOI.rst:2753 ../../SOI.rst:2760
 msgid "Forest"
-msgstr ""
-
+msgstr "Forest (Las)"
