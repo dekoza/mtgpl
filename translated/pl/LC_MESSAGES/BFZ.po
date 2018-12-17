@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-17 00:29+0000\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bfz/pl/>\n"
 "Language: pl\n"
@@ -581,7 +581,7 @@ msgstr ""
 
 #: ../../BFZ.rst:249
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 #: ../../BFZ.rst:251
 msgid ""
@@ -977,6 +977,8 @@ msgid ""
 "Tap target creature. It doesn't untap during its controller's next untap "
 "step."
 msgstr ""
+"Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
+"odznaczania swojego władcy."
 
 #: ../../BFZ.rst:458
 msgid "Scatter to the Winds"
@@ -1385,7 +1387,7 @@ msgstr ""
 
 #: ../../BFZ.rst:681
 msgid "Destroy target creature or planeswalker."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub wędrowca."
 
 #: ../../BFZ.rst:683
 msgid ""
@@ -1909,7 +1911,7 @@ msgstr ""
 
 #: ../../BFZ.rst:949
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../BFZ.rst:956
 msgid "Greenwarden of Murasa"
