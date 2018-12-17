@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 23:22+0000\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -545,7 +545,7 @@ msgstr ""
 
 #: ../../M19.rst:245 ../../M19.rst:287
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../M19.rst:252
 msgid "Cancel"
@@ -579,7 +579,7 @@ msgstr ""
 
 #: ../../M19.rst:263
 msgid "Return target nonland permanent to its owner's hand."
-msgstr ""
+msgstr "Zwróć wskazany nielądowy permanent do ręki jego właściciela."
 
 #: ../../M19.rst:268
 msgid "Divination"
@@ -620,7 +620,7 @@ msgstr ""
 
 #: ../../M19.rst:288
 msgid "Essence Scatter"
-msgstr ""
+msgstr "Essence Scatter (Rozproszenie Esencji)"
 
 #: ../../M19.rst:292
 msgid "Exclusion Mage"
@@ -932,7 +932,7 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../M19.rst:439
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../M19.rst:442
 msgid "Bogstomper"
@@ -1053,7 +1053,7 @@ msgstr ""
 
 #: ../../M19.rst:503
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 #: ../../M19.rst:508
 msgid "Infectious Horror"
@@ -1157,7 +1157,7 @@ msgstr ""
 
 #: ../../M19.rst:549
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../M19.rst:554
 msgid "Murder"
@@ -1665,7 +1665,7 @@ msgstr ""
 
 #: ../../M19.rst:791
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../M19.rst:798
 msgid "Sparktongue Dragon"
@@ -1886,11 +1886,11 @@ msgstr ""
 
 #: ../../M19.rst:908
 msgid "Giant Spider"
-msgstr ""
+msgstr "Giant Spider (Gigantyczny Pająk)"
 
 #: ../../M19.rst:907 ../../M19.rst:1047 ../../M19.rst:1119 ../../M19.rst:1573
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../M19.rst:916
 msgid "Gift of Paradise"
@@ -3064,7 +3064,7 @@ msgstr ""
 
 #: ../../M19.rst:1561
 msgid "Other creatures you control have trample."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają tratowanie."
 
 #: ../../M19.rst:1566
 msgid "Skalla Wolf"
