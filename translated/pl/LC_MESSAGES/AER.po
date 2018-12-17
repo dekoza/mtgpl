@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/aer/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AER.rst:5
@@ -37,7 +40,7 @@ msgstr ""
 
 #: ../../AER.rst:16
 msgid "Enchanted creature gets +2/+2 and has flying."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma latanie."
 
 #: ../../AER.rst:26
 msgid "Aeronaut Admiral"
@@ -49,7 +52,7 @@ msgstr ""
 #: ../../AER.rst:578 ../../AER.rst:698 ../../AER.rst:1153 ../../AER.rst:1207
 #: ../../AER.rst:1309 ../../AER.rst:1420
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../AER.rst:25
 msgid "Vehicles you control have flying."
@@ -61,7 +64,7 @@ msgstr ""
 
 #: ../../AER.rst:32
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../AER.rst:34
 msgid ""
@@ -105,7 +108,7 @@ msgstr ""
 
 #: ../../AER.rst:61 ../../AER.rst:669 ../../AER.rst:739
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../AER.rst:63
 msgid "Target creature you control gets +1/+2 until end of turn."
@@ -147,11 +150,11 @@ msgstr ""
 
 #: ../../AER.rst:95 ../../AER.rst:113
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../AER.rst:97
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../AER.rst:99
 msgid "When a Vehicle you control attacks, exile enchanted creature."
@@ -173,7 +176,7 @@ msgstr ""
 
 #: ../../AER.rst:115
 msgid "Enchanted creature gets +1/+3."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+3."
 
 #: ../../AER.rst:117
 msgid "|mana_w|: Return Conviction to its owner's hand."
@@ -217,7 +220,7 @@ msgstr ""
 
 #: ../../AER.rst:147
 msgid "Destroy target artifact or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../AER.rst:149
 msgid ""
@@ -277,7 +280,7 @@ msgstr ""
 
 #: ../../AER.rst:193
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../AER.rst:195
 msgid ""
@@ -354,7 +357,7 @@ msgstr ""
 
 #: ../../AER.rst:247
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie sztuczek i obrzędów kosztuje cię |mana_1| mniej."
 
 #: ../../AER.rst:249
 msgid ""
@@ -396,6 +399,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być celem czarów i zdolności władanych przez "
+"twoich przeciwników.)"
 
 #: ../../AER.rst:275
 msgid "Disallow"
@@ -459,7 +464,7 @@ msgstr ""
 
 #: ../../AER.rst:315 ../../AER.rst:324
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../AER.rst:325
 msgid "Leave in the Dust"
@@ -467,7 +472,7 @@ msgstr ""
 
 #: ../../AER.rst:322
 msgid "Return target nonland permanent to its owner's hand."
-msgstr ""
+msgstr "Zwróć wskazany nielądowy permanent do ręki jego właściciela."
 
 #: ../../AER.rst:334
 msgid "Mechanized Production"
@@ -498,7 +503,7 @@ msgstr ""
 
 #: ../../AER.rst:349
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: ../../AER.rst:357
 msgid "Quicksmith Spy"
@@ -516,7 +521,7 @@ msgstr ""
 
 #: ../../AER.rst:365
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../AER.rst:373
 msgid "Salvage Scuttler"
@@ -534,7 +539,7 @@ msgstr ""
 
 #: ../../AER.rst:379
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 #: ../../AER.rst:381
 msgid "Whenever Shielded Aether Thief blocks, you get {E} (an energy counter)."
@@ -578,6 +583,8 @@ msgid ""
 "Tap target creature. It doesn't untap during its controller's next untap "
 "step."
 msgstr ""
+"Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
+"odznaczania swojego władcy."
 
 #: ../../AER.rst:416
 msgid "Trophy Mage"
@@ -613,6 +620,8 @@ msgid ""
 "Deathtouch (Any amount of damage this deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
+"Dotyk Śmierci (Stwór otrzymujący od tego jakiekolwiek obrażenia zostaje "
+"zniszczony.)"
 
 #: ../../AER.rst:442
 msgid ""
@@ -872,7 +881,7 @@ msgstr ""
 
 #: ../../AER.rst:631
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../AER.rst:633
 msgid ""
@@ -900,7 +909,7 @@ msgstr ""
 
 #: ../../AER.rst:651 ../../AER.rst:812
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../AER.rst:653
 msgid ""
@@ -930,11 +939,11 @@ msgstr ""
 
 #: ../../AER.rst:671
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../AER.rst:673
 msgid "Creatures without flying can't block this turn."
-msgstr ""
+msgstr "Stwory bez latania nie mogą blokować w tej turze."
 
 #: ../../AER.rst:681
 msgid "Embraal Gear-Smasher"
@@ -1141,6 +1150,7 @@ msgid ""
 "Double strike (This creature deals both first-strike and regular combat "
 "damage.)"
 msgstr ""
+"Podwójny cios (Ten stwór zadaje obrażenia w pierwszym ciosie oraz normalnie.)"
 
 #: ../../AER.rst:830
 msgid ""
@@ -1207,7 +1217,7 @@ msgstr ""
 #: ../../AER.rst:882 ../../AER.rst:893 ../../AER.rst:960 ../../AER.rst:976
 #: ../../AER.rst:1508 ../../AER.rst:1578
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../AER.rst:884
 msgid ""
@@ -1363,7 +1373,7 @@ msgstr ""
 
 #: ../../AER.rst:992
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../AER.rst:994
 msgid ""
@@ -1403,6 +1413,8 @@ msgid ""
 "Target creature you control fights target creature you don't control. "
 "(Each deals damage equal to its power to the other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem, którym nie "
+"władasz. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../AER.rst:1025
 msgid "Ridgescale Tusker"
@@ -1464,7 +1476,7 @@ msgstr ""
 
 #: ../../AER.rst:1058
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../AER.rst:1060
 msgid ""
@@ -1478,11 +1490,11 @@ msgstr ""
 
 #: ../../AER.rst:1067
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../AER.rst:1069
 msgid "Enchanted land has \"|tap|: Add one mana of any color.\""
-msgstr ""
+msgstr "Zauroczony ląd ma \"|tap|: Dostajesz jedną manę dowolnego koloru.\""
 
 #: ../../AER.rst:1071
 msgid "Sacrifice Unbridled Growth: Draw a card."
@@ -1826,7 +1838,7 @@ msgstr ""
 
 #: ../../AER.rst:1298
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../AER.rst:1300 ../../AER.rst:1370
 msgid ""
@@ -1948,7 +1960,7 @@ msgstr ""
 
 #: ../../AER.rst:1377
 msgid "At the beginning of your upkeep, scry 1."
-msgstr ""
+msgstr "Na początku twojego kroku utrzymania, wróż 1."
 
 #: ../../AER.rst:1379
 msgid ""
@@ -2177,7 +2189,7 @@ msgstr ""
 
 #: ../../AER.rst:1551
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../AER.rst:1553
 msgid ""
@@ -2252,7 +2264,7 @@ msgstr ""
 
 #: ../../AER.rst:1598
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../AER.rst:1610
 msgid "Tezzeret, Master of Metal"
@@ -2318,5 +2330,4 @@ msgstr ""
 
 #: ../../AER.rst:1641
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
-
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
