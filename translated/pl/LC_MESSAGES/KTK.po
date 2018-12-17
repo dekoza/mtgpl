@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 23:22+0000\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -584,8 +584,8 @@ msgid ""
 "Tap target creature. It doesn't untap during its controller's next untap "
 "step."
 msgstr ""
-"Zaznacz wskazanego stwora. Nie odznacza się on podczas następnego kroku "
-"odświeżania swojego władcy."
+"Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
+"odznaczania swojego władcy."
 
 # 9cbda68587324cb1af4c4cf23f973fdf
 #: ../../KTK.rst:190
@@ -1739,7 +1739,7 @@ msgstr "Dragon-Style Twins (Bliźniacy Stylu Smoka)"
 # 3750ba6bd44342baa8a3377684af9bbb
 #: ../../KTK.rst:585
 msgid "Double strike"
-msgstr "Podwójny Cios"
+msgstr "Podwójny cios"
 
 # cb58387eda9f4896afd0a7749200300c
 #: ../../KTK.rst:592
@@ -2330,6 +2330,7 @@ msgstr "Roar of Challenge"
 #: ../../KTK.rst:783
 msgid "All creatures able to block target creature this turn do so."
 msgstr ""
+"Wszystkie stwory mogące zablokować wskazanego stwora w tej turze, robią to."
 
 # 18c272f3a7544b9ba56d6ef5a5f05fde
 #: ../../KTK.rst:785
@@ -2349,7 +2350,7 @@ msgstr "Sagu Archer"
 # 60d5d1c9cd464902b820169bddf917f9
 #: ../../KTK.rst:789
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 # b7572532c3e74cafad4f8d871205e054
 #: ../../KTK.rst:798
@@ -3367,7 +3368,7 @@ msgstr ""
 # 69de92d9944443c1b0410c4978b68705
 #: ../../KTK.rst:1123
 msgid "Other creatures you control have trample."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają tratowanie."
 
 # 2efa60a02c9f463b926b271c81d77354
 #: ../../KTK.rst:1130
