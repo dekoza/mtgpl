@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 23:22+0000\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -773,7 +773,7 @@ msgstr "Spear of Heliod"
 # f6f22579f14c4fed9cbb56d258c69482
 #: ../../THS.rst:189
 msgid "Creatures you control get +1/+1."
-msgstr "Stwory, którymi władasz dostają +1/+1."
+msgstr "Stwory pod twoim władaniem dostają +1/+1."
 
 # 94a8342a72534ced8300d07016da5309
 # 210bfbeceb45482c8a47ae610de4fbaf
@@ -944,8 +944,7 @@ msgstr "Breaching Hippocamp"
 # 5d19b02c94fe48d3903a15a4bed4f67c
 #: ../../THS.rst:239 ../../THS.rst:865
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
-"Błysk (Możesz rzucić ten czar w każdej chwili, gdy możesz rzucić sztuczkę.)"
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 # f0d661383013457aae43ef51e0f05348
 # 470251847cee44c0a7bf37c6361a2f26
@@ -3002,8 +3001,7 @@ msgid ""
 "Double strike (This creature deals both first-strike and regular combat "
 "damage.)"
 msgstr ""
-"Podwójny Cios (Ten stwór zadaje obrażenia bojowe zarówno jako Pierwszy Cios "
-"oraz normalnie.)"
+"Podwójny cios (Ten stwór zadaje obrażenia w pierwszym ciosie oraz normalnie.)"
 
 # cc99d50351a64f97b6a31aa997a44e2b
 # 72f4b98da4c747e39aa9c9b806c9b435
@@ -3247,7 +3245,7 @@ msgstr "Fade into Antiquity"
 # 673f61c7bbdc46678a4270701dba9a6f
 #: ../../THS.rst:861
 msgid "Exile target artifact or enchantment."
-msgstr "Wypędź wskazany artefakt lub urok."
+msgstr "Wygnaj wskazany artefakt lub urok."
 
 # aefc59feaec2499094594121f402aae0
 # b5eb01eeda5843608f98229c7a13cb40
@@ -3423,7 +3421,7 @@ msgstr ""
 # d5b0c9f521644fa1a38af5c054fabfa9
 #: ../../THS.rst:917
 msgid "Other creatures you control have trample."
-msgstr "Inne stwory, którymi władasz, mają tratowanie."
+msgstr "Inne stwory pod twoim władaniem mają tratowanie."
 
 # a34f7ab8c15e4dcabae4f11a9a9c3d8e
 # 472dbd967fcc426dacf08d66f013224f
