@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 23:22+0000\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dtk/pl/>\n"
 "Language: pl\n"
@@ -54,7 +54,7 @@ msgstr ""
 
 #: ../../DTK.rst:17
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../DTK.rst:19
 msgid ""
@@ -88,6 +88,7 @@ msgid ""
 "Double strike (This creature deals both first-strike and regular combat "
 "damage.)"
 msgstr ""
+"Podwójny cios (Ten stwór zadaje obrażenia w pierwszym ciosie oraz normalnie.)"
 
 #: ../../DTK.rst:33 ../../DTK.rst:197
 msgid ""
@@ -217,7 +218,7 @@ msgstr ""
 
 #: ../../DTK.rst:91
 msgid "Exile target artifact or enchantment."
-msgstr ""
+msgstr "Wygnaj wskazany artefakt lub urok."
 
 #: ../../DTK.rst:100
 msgid "Glaring Aegis"
@@ -650,7 +651,7 @@ msgstr ""
 
 #: ../../DTK.rst:297 ../../DTK.rst:433
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 #: ../../DTK.rst:299
 msgid "Enchant red or green creature"
@@ -810,7 +811,7 @@ msgstr ""
 
 #: ../../DTK.rst:369 ../../DTK.rst:1303
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: ../../DTK.rst:376
 msgid "Ojutai Interceptor"
@@ -832,6 +833,8 @@ msgid ""
 "Tap target creature. It doesn't untap during its controller's next untap "
 "step."
 msgstr ""
+"Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
+"odznaczania swojego władcy."
 
 #: ../../DTK.rst:388
 msgid "Ojutai's Summons"
@@ -996,7 +999,7 @@ msgstr ""
 
 #: ../../DTK.rst:477
 msgid "Return target nonland permanent to its owner's hand."
-msgstr ""
+msgstr "Zwróć wskazany nielądowy permanent do ręki jego właściciela."
 
 #: ../../DTK.rst:484
 msgid "Youthful Scholar"
@@ -1295,7 +1298,7 @@ msgstr ""
 
 #: ../../DTK.rst:607
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../DTK.rst:614
 msgid "Minister of Pain"
@@ -1746,7 +1749,7 @@ msgstr ""
 
 #: ../../DTK.rst:815
 msgid "Creatures without flying can't block this turn."
-msgstr ""
+msgstr "Stwory bez latania nie mogą blokować w tej turze."
 
 #: ../../DTK.rst:820
 msgid "Qal Sisma Behemoth"
@@ -1928,7 +1931,7 @@ msgstr "Wybierz jedno lub oba —"
 
 #: ../../DTK.rst:901 ../../DTK.rst:1243
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../DTK.rst:903
 msgid "Destroy target land."
@@ -1977,7 +1980,7 @@ msgstr ""
 
 #: ../../DTK.rst:927
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../DTK.rst:929
 msgid ""
@@ -2721,7 +2724,7 @@ msgstr "Zyskujesz 4 życia."
 
 #: ../../DTK.rst:1269
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../DTK.rst:1278
 msgid "Pristine Skywise"
