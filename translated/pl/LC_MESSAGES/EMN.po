@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/emn/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../EMN.rst:5
@@ -84,7 +87,7 @@ msgstr ""
 #: ../../EMN.rst:41 ../../EMN.rst:234 ../../EMN.rst:672 ../../EMN.rst:703
 #: ../../EMN.rst:1612
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 #: ../../EMN.rst:43
 msgid ""
@@ -105,7 +108,7 @@ msgstr ""
 
 #: ../../EMN.rst:52 ../../EMN.rst:1589 ../../EMN.rst:1734 ../../EMN.rst:1770
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../EMN.rst:54
 msgid ""
@@ -237,7 +240,7 @@ msgstr ""
 #: ../../EMN.rst:1029 ../../EMN.rst:1040 ../../EMN.rst:1271 ../../EMN.rst:1745
 #: ../../EMN.rst:1772
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../EMN.rst:139
 msgid "Blessed Alliance"
@@ -298,7 +301,7 @@ msgstr ""
 
 #: ../../EMN.rst:160
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../EMN.rst:162
 msgid "(Melds with Gisela, the Broken Blade.)"
@@ -323,11 +326,11 @@ msgstr ""
 #: ../../EMN.rst:178 ../../EMN.rst:355 ../../EMN.rst:705 ../../EMN.rst:762
 #: ../../EMN.rst:979 ../../EMN.rst:1296 ../../EMN.rst:1673
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../EMN.rst:180
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../EMN.rst:182
 msgid ""
@@ -447,7 +450,7 @@ msgstr ""
 
 #: ../../EMN.rst:261
 msgid "Enchant creature you control"
-msgstr ""
+msgstr "Zaurocz stwora, którym władasz"
 
 #: ../../EMN.rst:263
 msgid ""
@@ -545,7 +548,7 @@ msgstr ""
 
 #: ../../EMN.rst:325
 msgid "Exile target artifact or enchantment."
-msgstr ""
+msgstr "Wygnaj wskazany artefakt lub urok."
 
 #: ../../EMN.rst:335
 msgid "Lone Rider"
@@ -700,7 +703,7 @@ msgstr ""
 
 #: ../../EMN.rst:444 ../../EMN.rst:453
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../EMN.rst:446
 msgid ""
@@ -748,6 +751,8 @@ msgid ""
 "Tap up to two target creatures. Those creatures don't untap during their "
 "controller's next untap step."
 msgstr ""
+"Zaznacz co najwyżej dwa wskazane stwory. Owe stwory nie odznaczą się w "
+"najbliższym kroku odznaczania swojego władcy."
 
 #: ../../EMN.rst:480
 msgid ""
@@ -809,10 +814,12 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
+"Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
+"do końca tury.)"
 
 #: ../../EMN.rst:519
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie sztuczek i obrzędów kosztuje cię |mana_1| mniej."
 
 #: ../../EMN.rst:527
 msgid "Displace"
@@ -859,7 +866,7 @@ msgstr ""
 
 #: ../../EMN.rst:555 ../../EMN.rst:1352
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../EMN.rst:563
 msgid "Enlightened Maniac"
@@ -1052,7 +1059,7 @@ msgstr ""
 
 #: ../../EMN.rst:696
 msgid "Draw three cards."
-msgstr ""
+msgstr "Dobierz trzy karty."
 
 #: ../../EMN.rst:708
 msgid "Spontaneous Mutation"
@@ -1258,11 +1265,13 @@ msgstr ""
 
 #: ../../EMN.rst:861 ../../EMN.rst:1754
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../EMN.rst:863 ../../EMN.rst:1173
 msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogi (Ten stwór nie może być zablokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../EMN.rst:865
 msgid ""
@@ -1321,7 +1330,7 @@ msgstr ""
 
 #: ../../EMN.rst:899 ../../EMN.rst:1736
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../EMN.rst:901
 msgid "Markov Crusader has haste as long as you control another Vampire."
@@ -1348,7 +1357,7 @@ msgstr ""
 
 #: ../../EMN.rst:917
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../EMN.rst:927
 msgid "Noosegraf Mob"
@@ -1718,7 +1727,7 @@ msgstr ""
 #: ../../EMN.rst:1196 ../../EMN.rst:1366 ../../EMN.rst:1388 ../../EMN.rst:1399
 #: ../../EMN.rst:1723
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../EMN.rst:1198
 msgid ""
@@ -2061,7 +2070,7 @@ msgstr ""
 
 #: ../../EMN.rst:1454
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../EMN.rst:1456
 msgid ""
@@ -2115,7 +2124,7 @@ msgstr ""
 
 #: ../../EMN.rst:1486
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../EMN.rst:1488
 msgid ""
@@ -2203,6 +2212,8 @@ msgid ""
 "Target creature you control fights target creature you don't control. "
 "(Each deals damage equal to its power to the other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem, którym nie "
+"władasz. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../EMN.rst:1558
 msgid "Primal Druid"
@@ -2282,7 +2293,7 @@ msgstr ""
 
 #: ../../EMN.rst:1614
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../EMN.rst:1624
 msgid "Tangleclaw Werewolf"
@@ -2302,7 +2313,7 @@ msgstr ""
 
 #: ../../EMN.rst:1630 ../../EMN.rst:1691
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../EMN.rst:1632
 msgid "Fibrous Entangler must be blocked if able."
@@ -2586,7 +2597,7 @@ msgstr ""
 
 #: ../../EMN.rst:1832
 msgid "Flying, deathtouch"
-msgstr ""
+msgstr "Latanie, dotyk śmierci"
 
 #: ../../EMN.rst:1834
 msgid "Whenever Aurora of Emrakul attacks, each opponent loses 3 life."
@@ -2709,7 +2720,7 @@ msgstr ""
 
 #: ../../EMN.rst:1922 ../../EMN.rst:1931 ../../EMN.rst:1944
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../EMN.rst:1924
 msgid "|mana_2|, |tap|: Each player draws a card, then discards a card."
@@ -2740,4 +2751,3 @@ msgid ""
 "you may reveal that card and put it on top of your library instead of "
 "putting it anywhere else."
 msgstr ""
-
