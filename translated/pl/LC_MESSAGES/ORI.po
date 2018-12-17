@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 23:22+0000\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -249,7 +249,7 @@ msgstr ""
 #: ../../ORI.rst:103 ../../ORI.rst:367 ../../ORI.rst:377 ../../ORI.rst:1153
 #: ../../ORI.rst:1185
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 #: ../../ORI.rst:105
 msgid ""
@@ -365,7 +365,7 @@ msgstr ""
 
 #: ../../ORI.rst:157
 msgid "Enchant creature you control"
-msgstr ""
+msgstr "Zaurocz stwora, którym władasz"
 
 #: ../../ORI.rst:159
 msgid ""
@@ -577,7 +577,7 @@ msgstr ""
 
 #: ../../ORI.rst:265
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../ORI.rst:274
 msgid "Calculated Dismissal"
@@ -669,7 +669,7 @@ msgstr ""
 
 #: ../../ORI.rst:309
 msgid "Return target nonland permanent to its owner's hand."
-msgstr ""
+msgstr "Zwróć wskazany nielądowy permanent do ręki jego właściciela."
 
 #: ../../ORI.rst:314
 msgid "Displacement Wave"
@@ -808,7 +808,7 @@ msgstr ""
 
 #: ../../ORI.rst:373
 msgid "Counter target noncreature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: ../../ORI.rst:382
 msgid "Nivix Barrier"
@@ -1505,7 +1505,7 @@ msgstr ""
 
 #: ../../ORI.rst:683 ../../ORI.rst:805
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../ORI.rst:685
 msgid ""
@@ -1705,7 +1705,7 @@ msgstr ""
 
 #: ../../ORI.rst:781
 msgid "Destroy target artifact or land."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../ORI.rst:786
 msgid "Dragon Fodder"
@@ -1963,7 +1963,7 @@ msgstr ""
 
 #: ../../ORI.rst:903 ../../ORI.rst:995 ../../ORI.rst:1085
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../ORI.rst:908
 msgid "Smash to Smithereens"
@@ -2131,7 +2131,7 @@ msgstr ""
 
 #: ../../ORI.rst:971 ../../ORI.rst:1531
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../ORI.rst:975
 msgid ""
@@ -2231,7 +2231,7 @@ msgstr ""
 
 #: ../../ORI.rst:1017
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../ORI.rst:1019
 msgid ""
@@ -2542,6 +2542,7 @@ msgid ""
 "Double strike (This creature deals both first-strike and regular combat "
 "damage.)"
 msgstr ""
+"Podwójny cios (Ten stwór zadaje obrażenia w pierwszym ciosie oraz normalnie.)"
 
 #: ../../ORI.rst:1172
 msgid "Possessed Skaab"
@@ -3038,7 +3039,7 @@ msgstr ""
 
 #: ../../ORI.rst:1497
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../ORI.rst:1504
 msgid "Nightmare"
