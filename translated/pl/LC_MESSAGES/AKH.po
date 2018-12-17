@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/akh/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AKH.rst:5
@@ -30,7 +33,7 @@ msgstr ""
 #: ../../AKH.rst:476 ../../AKH.rst:603 ../../AKH.rst:662 ../../AKH.rst:671
 #: ../../AKH.rst:691 ../../AKH.rst:1665 ../../AKH.rst:1743 ../../AKH.rst:2399
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../AKH.rst:14
 msgid ""
@@ -92,7 +95,7 @@ msgstr ""
 #: ../../AKH.rst:46 ../../AKH.rst:75 ../../AKH.rst:324 ../../AKH.rst:1506
 #: ../../AKH.rst:1730
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../AKH.rst:50
 msgid ""
@@ -117,7 +120,7 @@ msgstr ""
 #: ../../AKH.rst:64 ../../AKH.rst:390 ../../AKH.rst:720 ../../AKH.rst:1051
 #: ../../AKH.rst:1333
 msgid "Enchant creature you control"
-msgstr ""
+msgstr "Zaurocz stwora, którym władasz"
 
 #: ../../AKH.rst:66
 msgid ""
@@ -149,11 +152,11 @@ msgstr ""
 
 #: ../../AKH.rst:86 ../../AKH.rst:503 ../../AKH.rst:1069 ../../AKH.rst:1572
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../AKH.rst:88
 msgid "Enchanted creature can't attack or block."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../AKH.rst:90
 msgid ""
@@ -205,7 +208,7 @@ msgstr ""
 
 #: ../../AKH.rst:120
 msgid "Exile target artifact or enchantment."
-msgstr ""
+msgstr "Wygnaj wskazany artefakt lub urok."
 
 #: ../../AKH.rst:134
 msgid "Gideon of the Trials"
@@ -385,7 +388,7 @@ msgstr ""
 
 #: ../../AKH.rst:242 ../../AKH.rst:682
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../AKH.rst:244
 msgid ""
@@ -483,7 +486,7 @@ msgstr ""
 
 #: ../../AKH.rst:315
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../AKH.rst:317
 msgid ""
@@ -520,7 +523,7 @@ msgstr ""
 
 #: ../../AKH.rst:340 ../../AKH.rst:1638
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../AKH.rst:348
 msgid "Ancient Crab"
@@ -568,7 +571,7 @@ msgstr ""
 
 #: ../../AKH.rst:383
 msgid "Counter target spell."
-msgstr ""
+msgstr "Skontruj wskazany czar."
 
 #: ../../AKH.rst:395
 msgid "Cartouche of Knowledge"
@@ -580,7 +583,7 @@ msgstr ""
 
 #: ../../AKH.rst:394
 msgid "Enchanted creature gets +1/+1 and has flying."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma latanie."
 
 #: ../../AKH.rst:404
 msgid "Censor"
@@ -632,6 +635,8 @@ msgid ""
 "Tap up to two target creatures. Those creatures don't untap during their "
 "controller's next untap step."
 msgstr ""
+"Zaznacz co najwyżej dwa wskazane stwory. Owe stwory nie odznaczą się w "
+"najbliższym kroku odznaczania swojego władcy."
 
 #: ../../AKH.rst:445
 msgid "Drake Haven"
@@ -645,11 +650,11 @@ msgstr ""
 
 #: ../../AKH.rst:452
 msgid "Essence Scatter"
-msgstr ""
+msgstr "Essence Scatter (Rozproszenie Esencji)"
 
 #: ../../AKH.rst:451
 msgid "Counter target creature spell."
-msgstr ""
+msgstr "Skontruj wskazany czar stwora."
 
 #: ../../AKH.rst:461
 msgid "Floodwaters"
@@ -669,7 +674,7 @@ msgstr ""
 
 #: ../../AKH.rst:469
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../AKH.rst:481
 msgid "Glyph Keeper"
@@ -704,7 +709,7 @@ msgstr ""
 
 #: ../../AKH.rst:494 ../../AKH.rst:1278 ../../AKH.rst:1930
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../AKH.rst:506
 msgid "Illusory Wrappings"
@@ -755,7 +760,7 @@ msgstr ""
 
 #: ../../AKH.rst:532
 msgid "Enchant permanent"
-msgstr ""
+msgstr "Zaurocz permanent"
 
 #: ../../AKH.rst:534
 msgid "You control enchanted permanent."
@@ -906,7 +911,7 @@ msgstr ""
 
 #: ../../AKH.rst:644
 msgid "|tap|: Untap another target permanent."
-msgstr ""
+msgstr "|tap|: Odznacz inny wskazany permanent."
 
 #: ../../AKH.rst:646
 msgid ""
@@ -976,7 +981,7 @@ msgstr ""
 
 #: ../../AKH.rst:702
 msgid "Flying, deathtouch"
-msgstr ""
+msgstr "Latanie, dotyk śmierci"
 
 #: ../../AKH.rst:714
 msgid "Bontu the Glorified"
@@ -1010,7 +1015,7 @@ msgstr ""
 
 #: ../../AKH.rst:724
 msgid "Enchanted creature gets +1/+1 and has lifelink."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1 i ma więź życia."
 
 #: ../../AKH.rst:734
 msgid "Cruel Reality"
@@ -1018,7 +1023,7 @@ msgstr ""
 
 #: ../../AKH.rst:731 ../../AKH.rst:953
 msgid "Enchant player"
-msgstr ""
+msgstr "Zaurocz gracza"
 
 #: ../../AKH.rst:733
 msgid ""
@@ -1033,6 +1038,8 @@ msgstr ""
 #: ../../AKH.rst:740
 msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogi (Ten stwór nie może być zablokowany, chyba że przez co najmniej dwa "
+"stwory.)"
 
 #: ../../AKH.rst:748
 msgid "Dispossess"
@@ -1211,7 +1218,7 @@ msgstr ""
 
 #: ../../AKH.rst:871
 msgid "Target player draws two cards and loses 2 life."
-msgstr ""
+msgstr "Wskazany gracz dobiera dwie karty i traci 2 życia."
 
 #: ../../AKH.rst:879
 msgid "Pitiless Vizier"
@@ -1356,7 +1363,7 @@ msgstr ""
 
 #: ../../AKH.rst:971
 msgid "Target player discards two cards."
-msgstr ""
+msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../AKH.rst:983
 msgid "Wander in Death"
@@ -1365,6 +1372,8 @@ msgstr ""
 #: ../../AKH.rst:980
 msgid "Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
+"Zwróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../AKH.rst:992
 msgid "Wasteland Scorpion"
@@ -1372,7 +1381,7 @@ msgstr ""
 
 #: ../../AKH.rst:989
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../AKH.rst:1001
 msgid "Ahn-Crop Crasher"
@@ -1380,7 +1389,7 @@ msgstr ""
 
 #: ../../AKH.rst:998 ../../AKH.rst:1367
 msgid "Haste"
-msgstr ""
+msgstr "Pośpiech"
 
 #: ../../AKH.rst:1000
 msgid ""
@@ -1544,7 +1553,7 @@ msgstr ""
 
 #: ../../AKH.rst:1119
 msgid "As an additional cost to cast this spell, sacrifice a creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../AKH.rst:1121
 msgid "Fling deals damage equal to the sacrificed creature's power to any target."
@@ -1572,7 +1581,7 @@ msgstr ""
 
 #: ../../AKH.rst:1137
 msgid "Flying, haste"
-msgstr ""
+msgstr "Latanie, pośpiech"
 
 #: ../../AKH.rst:1139
 msgid ""
@@ -1682,7 +1691,7 @@ msgstr ""
 
 #: ../../AKH.rst:1210 ../../AKH.rst:1403
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../AKH.rst:1212
 msgid "|mana_1| |mana_r|: Minotaur Sureshot gets +1/+0 until end of turn."
@@ -1694,7 +1703,7 @@ msgstr ""
 
 #: ../../AKH.rst:1219 ../../AKH.rst:1453 ../../AKH.rst:1690
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../AKH.rst:1221
 msgid ""
@@ -1712,6 +1721,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
+"Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
+"do końca tury.)"
 
 #: ../../AKH.rst:1236
 msgid "Pathmaker Initiate"
@@ -1809,7 +1820,7 @@ msgstr ""
 
 #: ../../AKH.rst:1303
 msgid "Destroy target artifact or land."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../AKH.rst:1313
 msgid "Warfire Javelineer"
@@ -1922,7 +1933,7 @@ msgstr ""
 
 #: ../../AKH.rst:1385
 msgid "Destroy target artifact."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../AKH.rst:1387
 msgid "Cycling |mana_g| (|mana_g|, Discard this card: Draw a card.)"
@@ -1946,7 +1957,7 @@ msgstr ""
 
 #: ../../AKH.rst:1404
 msgid "Giant Spider"
-msgstr ""
+msgstr "Giant Spider (Gigantyczny Pająk)"
 
 #: ../../AKH.rst:1415
 msgid "Gift of Paradise"
@@ -1954,7 +1965,7 @@ msgstr ""
 
 #: ../../AKH.rst:1410
 msgid "Enchant land"
-msgstr ""
+msgstr "Zaurocz ląd"
 
 #: ../../AKH.rst:1412
 msgid "When Gift of Paradise enters the battlefield, you gain 3 life."
@@ -2001,6 +2012,7 @@ msgstr ""
 #: ../../AKH.rst:1444
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby być zadane w tej turze."
 
 #: ../../AKH.rst:1456
 msgid "Honored Hydra"
@@ -2085,7 +2097,7 @@ msgstr ""
 
 #: ../../AKH.rst:1513
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../AKH.rst:1515
 msgid "Creature spells you control can't be countered."
@@ -2143,6 +2155,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
+"Antyklątwa (Ten stwór nie może być celem czarów i zdolności władanych przez "
+"twoich przeciwników.)"
 
 #: ../../AKH.rst:1557
 msgid "Shed Weakness"
@@ -2351,7 +2365,7 @@ msgstr ""
 
 #: ../../AKH.rst:1692
 msgid "Other creatures you control have trample."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają tratowanie."
 
 #: ../../AKH.rst:1700
 msgid "Merciless Javelineer"
@@ -2369,7 +2383,7 @@ msgstr ""
 
 #: ../../AKH.rst:1706
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../AKH.rst:1708
 msgid "Other Minotaurs you control have first strike."
@@ -2522,7 +2536,7 @@ msgstr ""
 
 #: ../../AKH.rst:1807
 msgid "Destroy target creature or planeswalker."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub wędrowca."
 
 #: ../../AKH.rst:1817
 msgid "Return"
@@ -2588,7 +2602,7 @@ msgstr ""
 
 #: ../../AKH.rst:1866
 msgid "Destroy target creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora."
 
 #: ../../AKH.rst:1874
 msgid "Reduce"
@@ -2623,6 +2637,7 @@ msgstr ""
 #: ../../AKH.rst:1898
 msgid "All creatures able to block target creature this turn do so."
 msgstr ""
+"Wszystkie stwory mogące zablokować wskazanego stwora w tej turze, robią to."
 
 #: ../../AKH.rst:1906
 msgid "Onward"
@@ -2962,12 +2977,12 @@ msgstr ""
 
 #: ../../AKH.rst:2150
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../AKH.rst:2152 ../../AKH.rst:2161 ../../AKH.rst:2188 ../../AKH.rst:2208
 #: ../../AKH.rst:2241
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../AKH.rst:2154
 msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
@@ -3000,7 +3015,7 @@ msgstr ""
 
 #: ../../AKH.rst:2177
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_u| lub |mana_b|.)"
 
 #: ../../AKH.rst:2179
 msgid "Fetid Pools enters the battlefield tapped."
@@ -3042,7 +3057,7 @@ msgstr ""
 
 #: ../../AKH.rst:2217
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_g| lub |mana_w|.)"
 
 #: ../../AKH.rst:2219
 msgid "Scattered Groves enters the battlefield tapped."
@@ -3072,23 +3087,23 @@ msgstr ""
 
 #: ../../AKH.rst:2247 ../../AKH.rst:2282 ../../AKH.rst:2289 ../../AKH.rst:2296
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 #: ../../AKH.rst:2254 ../../AKH.rst:2303 ../../AKH.rst:2310 ../../AKH.rst:2317
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 #: ../../AKH.rst:2261 ../../AKH.rst:2324 ../../AKH.rst:2331 ../../AKH.rst:2338
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 #: ../../AKH.rst:2268 ../../AKH.rst:2345 ../../AKH.rst:2352 ../../AKH.rst:2359
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 #: ../../AKH.rst:2275 ../../AKH.rst:2366 ../../AKH.rst:2373 ../../AKH.rst:2380
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
 
 #: ../../AKH.rst:2393
 msgid "Gideon, Martial Paragon"
@@ -3137,7 +3152,7 @@ msgstr ""
 
 #: ../../AKH.rst:2410
 msgid "Creatures you control get +1/+1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../AKH.rst:2418
 msgid "Graceful Cat"
@@ -3157,7 +3172,7 @@ msgstr ""
 
 #: ../../AKH.rst:2426
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../AKH.rst:2438
 msgid "Liliana, Death Wielder"
@@ -3215,7 +3230,7 @@ msgstr ""
 
 #: ../../AKH.rst:2467
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../AKH.rst:2477
 msgid "Cinder Barrens"
@@ -3251,7 +3266,7 @@ msgstr ""
 
 #: ../../AKH.rst:2494
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../AKH.rst:2504
 msgid "Meandering River"
@@ -3275,7 +3290,7 @@ msgstr ""
 
 #: ../../AKH.rst:2512
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../AKH.rst:2522
 msgid "Timber Gorge"
@@ -3299,7 +3314,7 @@ msgstr ""
 
 #: ../../AKH.rst:2530
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../AKH.rst:2539
 msgid "Woodland Stream"
@@ -3312,4 +3327,3 @@ msgstr ""
 #: ../../AKH.rst:2539
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
-
