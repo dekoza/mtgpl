@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 23:22+0000\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -957,7 +957,7 @@ msgid ""
 "Tap up to two target creatures. Those creatures don't untap during their "
 "controller's next untap step."
 msgstr ""
-"Zaznacz najwyżej dwa wskazane stwory. Owe stwory nie odznaczą się w "
+"Zaznacz co najwyżej dwa wskazane stwory. Owe stwory nie odznaczą się w "
 "najbliższym kroku odznaczania swojego władcy."
 
 # f0aba63229c1498ebbc247dc0ac9e7cf
@@ -1111,8 +1111,7 @@ msgstr ""
 # 1322a4158b8f4d539e5c3ef7ea223de8
 #: ../../M14.rst:335 ../../M14.rst:823
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
-"Błysk (Możesz rzucić ten czar w każdej chwili, gdy możesz rzucić sztuczkę.)"
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 # b3348129dccc41f1968ca0d2097b1566
 #: ../../M14.rst:342
@@ -2432,7 +2431,7 @@ msgstr ""
 # 363072cbd7154a39b8cf956ce14f39e9
 #: ../../M14.rst:759
 msgid "Creatures without flying can't block this turn."
-msgstr "Stwory bez Latania nie mogą blokować w tej turze."
+msgstr "Stwory bez latania nie mogą blokować w tej turze."
 
 # 24291bf3762a4417a75e262647b24053
 #: ../../M14.rst:768
@@ -2443,7 +2442,7 @@ msgstr ""
 # fa523e01d26c4ddfb7a7c9c48e6e7a86
 #: ../../M14.rst:765
 msgid "Enchanted creature gets +2/+2 and has flying."
-msgstr "Zauroczony stwór dostaje +2/+2 i ma Latanie."
+msgstr "Zauroczony stwór dostaje +2/+2 i ma latanie."
 
 # f316b684345847b2bd35903107362113
 # 27f013ee414649f79366720e123e3092
@@ -2654,7 +2653,7 @@ msgstr "Deadly Recluse (Śmiertelny Pustelnik)"
 # 57ef05476de34fe880dd720f69cd3b38
 #: ../../M14.rst:833 ../../M14.rst:871
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z Lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 # 2f655e4692b44f19a9b7ef8ff93efd7a
 # 4df4cc4222b947f482fb312a164d514f
