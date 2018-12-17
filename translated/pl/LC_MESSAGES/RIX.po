@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-17 09:21+0000\n"
+"PO-Revision-Date: 2018-12-17 15:42+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -110,6 +110,7 @@ msgstr "Everdawn Champion"
 #: ../../RIX.rst:37
 msgid "Prevent all combat damage that would be dealt to Everdawn Champion."
 msgstr ""
+"Zażegnaj wszelkie obrażenia bojowe, jakie mogłyby być zadane temu stworowi."
 
 #: ../../RIX.rst:42
 #, fuzzy
@@ -241,6 +242,8 @@ msgid ""
 "At the beginning of each upkeep, if you lost life last turn, put a +1/+1 "
 "counter on Paladin of Atonement."
 msgstr ""
+"Na początku każdego kroku utrzymania, jeśli straciłeś życie w poprzedniej "
+"turze, połóż znacznik +1/+1 na tym stworze."
 
 #: ../../RIX.rst:87
 msgid "When Paladin of Atonement dies, you gain life equal to its toughness."
@@ -304,46 +307,58 @@ msgid ""
 "When Sanguine Glorifier enters the battlefield, put a +1/+1 counter on "
 "another target Vampire you control."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, połóż znacznik +1/+1 na innym "
+"wskazanym Wampirze pod twoim władaniem."
 
 #: ../../RIX.rst:116
+#, fuzzy
 msgid "Skymarcher Aspirant"
-msgstr ""
+msgstr "Skymarcher Aspirant"
 
 #: ../../RIX.rst:115
 msgid "Skymarcher Aspirant has flying as long as you have the city's blessing."
-msgstr ""
+msgstr "Ten stwór ma latanie o ile masz błogosławieństwo miasta."
 
 #: ../../RIX.rst:120
+#, fuzzy
 msgid "Slaughter the Strong"
-msgstr ""
+msgstr "Slaughter the Strong"
 
 #: ../../RIX.rst:119
 msgid ""
 "Each player chooses any number of creatures they control with total power 4 "
 "or less, then sacrifices all other creatures they control."
 msgstr ""
+"Każdy gracz wybiera dowolną liczbę władanych przez siebie stworów o łącznej "
+"sile 4 lub mniej, a następnie poświęca wszystkie inne stwory pod swoim "
+"władaniem."
 
 #: ../../RIX.rst:126
+#, fuzzy
 msgid "Snubhorn Sentry"
-msgstr ""
+msgstr "Snubhorn Sentry"
 
 #: ../../RIX.rst:125
 msgid "Snubhorn Sentry gets +3/+0 as long as you have the city's blessing."
-msgstr ""
+msgstr "Ten stwór dostaje +3/+0 o ile masz błogosławieństwo miasta."
 
 #: ../../RIX.rst:130
+#, fuzzy
 msgid "Sphinx's Decree"
-msgstr ""
+msgstr "Sphinx's Decree"
 
 #: ../../RIX.rst:129
 msgid ""
 "Each opponent can't cast instant or sorcery spells during that player's next "
 "turn."
 msgstr ""
+"Każdy z przeciwników nie może rzucać sztuczek i obrzędów podczas swojej "
+"najbliższej tury."
 
 #: ../../RIX.rst:138
+#, fuzzy
 msgid "Squire's Devotion"
-msgstr ""
+msgstr "Squire's Devotion"
 
 #: ../../RIX.rst:135
 msgid "Enchanted creature gets +1/+1 and has lifelink."
@@ -354,37 +369,45 @@ msgid ""
 "When Squire's Devotion enters the battlefield, create a 1/1 white Vampire "
 "creature token with lifelink."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, stwórz żeton białego stwora Wampir 1/1 "
+"z więzią życia."
 
 #: ../../RIX.rst:142
+#, fuzzy
 msgid "Sun Sentinel"
-msgstr ""
+msgstr "Sun Sentinel"
 
 #: ../../RIX.rst:141
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
 msgstr "Czujność (Atakowanie nie powoduje zaznaczenia tego stwora.)"
 
 #: ../../RIX.rst:148
+#, fuzzy
 msgid "Sun-Crested Pterodon"
-msgstr ""
+msgstr "Sun-Crested Pterodon"
 
 #: ../../RIX.rst:147
 msgid ""
 "Sun-Crested Pterodon has vigilance as long as you control another Dinosaur."
-msgstr ""
+msgstr "Ten stwór ma czujność o ile władasz innym Dinozaurem."
 
 #: ../../RIX.rst:152
+#, fuzzy
 msgid "Temple Altisaur"
-msgstr ""
+msgstr "Temple Altisaur"
 
 #: ../../RIX.rst:151
 msgid ""
 "If a source would deal damage to another Dinosaur you control, prevent all "
 "but 1 of that damage."
 msgstr ""
+"Jeśli jakieś źródło miałoby zadać obrażenia innemu Dinozaurowi pod twoim "
+"władaniem, zażegnaj wszystkie oprócz 1 z owych obrażeń."
 
 #: ../../RIX.rst:156
+#, fuzzy
 msgid "Trapjaw Tyrant"
-msgstr ""
+msgstr "Trapjaw Tyrant"
 
 #: ../../RIX.rst:155
 msgid ""
@@ -395,16 +418,18 @@ msgstr ""
 "stwora władanego przez przeciwnika dopóki ten stwór nie opuści pola walki."
 
 #: ../../RIX.rst:160
+#, fuzzy
 msgid "Zetalpa, Primal Dawn"
-msgstr ""
+msgstr "Zetalpa, Primal Dawn"
 
 #: ../../RIX.rst:159
 msgid "Flying, double strike, vigilance, trample, indestructible"
-msgstr ""
+msgstr "Latanie, podwójny cios, czujność, tratowanie, niezniszczalność"
 
 #: ../../RIX.rst:166
+#, fuzzy
 msgid "Admiral's Order"
-msgstr ""
+msgstr "Admiral's Order"
 
 #: ../../RIX.rst:163
 msgid ""
