@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-16 23:22+0000\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
@@ -539,6 +539,8 @@ msgid ""
 "Tap target creature. It doesn't untap during its controller's next untap "
 "step."
 msgstr ""
+"Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
+"odznaczania swojego władcy."
 
 #: ../../AVR.rst:381 ../../AVR.rst:440
 msgid "Draw a card."
@@ -856,7 +858,7 @@ msgstr ""
 
 #: ../../AVR.rst:627
 msgid "Enchanted creature gets +2/+2 and has flying."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma latanie."
 
 #: ../../AVR.rst:637
 msgid "Stern Mentor"
@@ -1555,7 +1557,7 @@ msgstr ""
 
 #: ../../AVR.rst:1146
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../AVR.rst:1156
 msgid "Kessig Malcontents"
@@ -1731,7 +1733,7 @@ msgstr ""
 
 #: ../../AVR.rst:1288
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../AVR.rst:1290
 msgid "Thunderbolt deals 3 damage to target player or planeswalker."
@@ -2084,9 +2086,8 @@ msgid "Choose one or more —"
 msgstr ""
 
 #: ../../AVR.rst:1547
-#, fuzzy
 msgid "Destroy target artifact."
-msgstr "Zniszcz wskazany artefakt lub ląd."
+msgstr "Zniszcz wskazany artefakt."
 
 #: ../../AVR.rst:1549
 msgid "Destroy target enchantment."
@@ -2242,7 +2243,7 @@ msgstr ""
 
 #: ../../AVR.rst:1662
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 #: ../../AVR.rst:1664
 msgid "|mana_1| |mana_g|: Regenerate Wolfir Avenger."
