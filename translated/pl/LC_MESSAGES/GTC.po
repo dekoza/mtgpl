@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 23:22+0000\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -1669,7 +1669,7 @@ msgstr ""
 # 6a9c8fe704e143578bcfad6e9eb786d6
 #: ../../GTC.rst:573
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 # e879ae894a8a4688a105de88f9fe9aee
 #: ../../GTC.rst:575
@@ -2561,9 +2561,8 @@ msgid "Gruul Charm"
 msgstr "Gruul Charm (Amulet Gruuli)"
 
 #: ../../GTC.rst:885
-#, fuzzy
 msgid "Creatures without flying can't block this turn."
-msgstr "Wybierz jedno — Stwory bez latania nie mogą blokować w tej turze"
+msgstr "Stwory bez latania nie mogą blokować w tej turze."
 
 #: ../../GTC.rst:887
 #, fuzzy
@@ -2959,8 +2958,7 @@ msgstr ""
 # 903403c826d645938013c7ce1cdc31e9
 #: ../../GTC.rst:1021 ../../GTC.rst:1169
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
-"Błysk (Możesz rzucić ten czar w każdej chwili, gdy możesz rzucić sztuczkę.)"
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 # 8d83a5364fab42768de6c0778724a8a2
 #: ../../GTC.rst:1028
