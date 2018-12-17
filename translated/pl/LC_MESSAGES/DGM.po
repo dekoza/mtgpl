@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 23:22+0000\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -1043,8 +1043,7 @@ msgstr ""
 # 8bf9df34f1af43f9a5228e4aadca5224
 #: ../../DGM.rst:325
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
-"Błysk (Możesz rzucić ten czar w każdej chwili, gdy możesz rzucić sztuczkę.)"
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 # 7b40f5328f064d77970220b218d9dbe9
 #: ../../DGM.rst:327
@@ -1635,7 +1634,6 @@ msgstr ""
 
 # f77b6804e7da433db9de5542552defcc
 #: ../../DGM.rst:515
-#, fuzzy
 msgid "Double strike"
 msgstr "Podwójny cios"
 
