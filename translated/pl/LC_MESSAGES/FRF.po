@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 23:22+0000\n"
+"PO-Revision-Date: 2018-12-17 08:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/frf/pl/>\n"
 "Language: pl\n"
@@ -331,7 +331,7 @@ msgstr "Jeskai Barricade"
 # 053629695d6a45a68d9cf3eeb8c397aa
 #: ../../FRF.rst:87
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr "Błysk (Możesz rzucić ten czar w momencie, gdy możesz rzucić sztuczkę.)"
+msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 # 7a877cc38c5f492790e8a65d0e3fbd3a
 # 3a23b46f46a4481f89eae32c4159fdff
@@ -1114,7 +1114,7 @@ msgid ""
 "Tap up to two target creatures. Those creatures don't untap during their "
 "controller's next untap step."
 msgstr ""
-"Zaznacz do dwóch wskazanych stworów. Owe stwory nie odznaczają się w "
+"Zaznacz co najwyżej dwa wskazane stwory. Owe stwory nie odznaczą się w "
 "najbliższym kroku odznaczania swojego władcy."
 
 # 44f37367e6dc43d1afa0a4e859357e12
@@ -2308,7 +2308,7 @@ msgstr "Archers of Qarsi"
 # cf07030fec7945dd99ac2811598c4450
 #: ../../FRF.rst:695
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr "Zasięg (Ten stwór może blokować stwory z Lataniem.)"
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 # a1ec57ec9d1446ed847a995a21d468fd
 #: ../../FRF.rst:702
