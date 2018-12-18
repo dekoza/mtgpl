@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-17 08:45+0000\n"
+"PO-Revision-Date: 2018-12-18 18:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
@@ -21,11 +21,12 @@ msgstr ""
 
 #: ../../DOM.rst:5
 msgid "Dominaria"
-msgstr ""
+msgstr "Dominaria"
 
 #: ../../DOM.rst:14
+#, fuzzy
 msgid "Karn, Scion of Urza"
-msgstr ""
+msgstr "Karn, Scion of Urza"
 
 #: ../../DOM.rst:9
 msgid ""
@@ -33,31 +34,40 @@ msgid ""
 "them. Put that card into your hand and exile the other with a silver counter "
 "on it."
 msgstr ""
+"+1: Ujawnij dwie wierzchnie karty twojej biblioteki. Przeciwnik wybiera "
+"jedną z nich. Umieść ową kartę w twojej ręce i wygnaj pozostałą umieszczając "
+"na niej znacznik srebra."
 
 #: ../../DOM.rst:11
 msgid ""
 "−1: Put a card you own with a silver counter on it from exile into your hand."
-msgstr ""
+msgstr "–1: Dołóż własną kartę ze znacznikiem srebra z wygnania do twojej ręki."
 
 #: ../../DOM.rst:13
 msgid ""
 "−2: Create a 0/0 colorless Construct artifact creature token with \"This "
 "creature gets +1/+1 for each artifact you control.\""
 msgstr ""
+"–2: Stwórz żeton bezkolorowego artefaktycznego stwora Konstrukt 0/0 ze "
+"zdolnością \"Ten stwór dostaje +1/+1 za każdy artefakt pod twoim władaniem.\""
 
 #: ../../DOM.rst:18
+#, fuzzy
 msgid "Adamant Will"
-msgstr ""
+msgstr "Adamant Will"
 
 #: ../../DOM.rst:17
 msgid ""
 "Target creature gets +2/+2 and gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +2/+2 i niezniszczalność. (Obrażenia i "
+"efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../DOM.rst:22
+#, fuzzy
 msgid "Aven Sentry"
-msgstr ""
+msgstr "Aven Sentry"
 
 #: ../../DOM.rst:21 ../../DOM.rst:157 ../../DOM.rst:191 ../../DOM.rst:199
 #: ../../DOM.rst:225 ../../DOM.rst:251 ../../DOM.rst:269 ../../DOM.rst:389
@@ -68,8 +78,9 @@ msgid "Flying"
 msgstr "Latanie"
 
 #: ../../DOM.rst:28
+#, fuzzy
 msgid "Baird, Steward of Argive"
-msgstr ""
+msgstr "Baird, Steward of Argive"
 
 #: ../../DOM.rst:25 ../../DOM.rst:1069
 msgid "Vigilance"
@@ -80,35 +91,42 @@ msgid ""
 "Creatures can't attack you or a planeswalker you control unless their "
 "controller pays |mana_1| for each of those creatures."
 msgstr ""
+"Stwory nie mogą atakować ciebie lub wędrowców pod twoim władaniem o ile ich "
+"władce nie zapłaci |mana_1| za każdego z owych stworów."
 
 #: ../../DOM.rst:32
+#, fuzzy
 msgid "Benalish Honor Guard"
-msgstr ""
+msgstr "Benalish Honor Guard"
 
 #: ../../DOM.rst:31
 msgid ""
 "Benalish Honor Guard gets +1/+0 for each legendary creature you control."
 msgstr ""
+"Ten stwór dostaje +1/+0 za każdego legendarnego stwora pod twoim władaniem."
 
 #: ../../DOM.rst:36
+#, fuzzy
 msgid "Benalish Marshal"
-msgstr ""
+msgstr "Benalish Marshal"
 
 #: ../../DOM.rst:35
 msgid "Other creatures you control get +1/+1."
 msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../DOM.rst:40
+#, fuzzy
 msgid "Blessed Light"
-msgstr ""
+msgstr "Blessed Light"
 
 #: ../../DOM.rst:39
 msgid "Exile target creature or enchantment."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora lub urok."
 
 #: ../../DOM.rst:44
+#, fuzzy
 msgid "Board the Weatherlight"
-msgstr ""
+msgstr "Board the Weatherlight"
 
 #: ../../DOM.rst:43
 msgid ""
@@ -117,36 +135,46 @@ msgid ""
 "your library in a random order. (Artifacts, legendaries, and Sagas are "
 "historic.)"
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
+"niech historyczną kartę i dołożyć ją do twojej ręki. Połóż pozostałe na "
+"spodzie twojej biblioteki w losowej kolejności. (Artefakty, legendy i Sagi "
+"są historyczne.)"
 
 #: ../../DOM.rst:48
+#, fuzzy
 msgid "Call the Cavalry"
-msgstr ""
+msgstr "Call the Cavalry"
 
 #: ../../DOM.rst:47
 msgid "Create two 2/2 white Knight creature tokens with vigilance."
-msgstr "Stwórz dwa żetony białego stwora Rycerza 2/2 z Czujnością."
+msgstr "Stwórz dwa żetony białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../DOM.rst:52
+#, fuzzy
 msgid "Charge"
-msgstr ""
+msgstr "Charge"
 
 #: ../../DOM.rst:51
 msgid "Creatures you control get +1/+1 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../DOM.rst:56
+#, fuzzy
 msgid "D'Avenant Trapper"
-msgstr ""
+msgstr "D'Avenant Trapper"
 
 #: ../../DOM.rst:55
 msgid ""
 "Whenever you cast a historic spell, tap target creature an opponent "
 "controls. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
+"Ilekroć rzucasz historyczny czar, zaznacz wskazanego stwora pod władaniem "
+"przeciwnika. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:62
+#, fuzzy
 msgid "Danitha Capashen, Paragon"
-msgstr ""
+msgstr "Danitha Capashen, Paragon"
 
 #: ../../DOM.rst:59
 msgid "First strike, vigilance, lifelink"
@@ -154,43 +182,52 @@ msgstr "Pierwszy cios, czujność, więź życia"
 
 #: ../../DOM.rst:61
 msgid "Aura and Equipment spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Aur i Ekwipunku kosztuje cię |mana_1| mniej."
 
 #: ../../DOM.rst:68
 msgid "Daring Archaeologist"
-msgstr ""
+msgstr "Daring Archaeologist (Śmiały archeolog)"
 
 #: ../../DOM.rst:65
 msgid ""
 "When Daring Archaeologist enters the battlefield, you may return target "
 "artifact card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:67
 msgid ""
 "Whenever you cast a historic spell, put a +1/+1 counter on Daring "
 "Archaeologist. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
+"Ilekroć rzucasz historyczny czar, połóż znacznik +1/+1 na tym stworze. ("
+"Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:74
+#, fuzzy
 msgid "Dauntless Bodyguard"
-msgstr ""
+msgstr "Dauntless Bodyguard"
 
 #: ../../DOM.rst:71
 msgid ""
 "As Dauntless Bodyguard enters the battlefield, choose another creature you "
 "control."
 msgstr ""
+"Podczas umieszczania tej karty na polu walki wybierz innego stwora pod twoim "
+"władaniem."
 
 #: ../../DOM.rst:73
 msgid ""
 "Sacrifice Dauntless Bodyguard: The chosen creature gains indestructible "
 "until end of turn."
 msgstr ""
+"Poświęć tego stwora: Wybrany uprzednio stwór zyskuje niezniszczalność do "
+"końca tury."
 
 #: ../../DOM.rst:80
 msgid "Dub"
-msgstr ""
+msgstr "Dub (Pasowanie)"
 
 #: ../../DOM.rst:77 ../../DOM.rst:151 ../../DOM.rst:245 ../../DOM.rst:287
 #: ../../DOM.rst:473 ../../DOM.rst:707
@@ -202,12 +239,13 @@ msgid ""
 "Enchanted creature gets +2/+2, has first strike, and is a Knight in addition "
 "to its other types."
 msgstr ""
-"Zauroczony stwór dostaje +2/+2, ma pierwszy cios i jest Rycerzem dodatkowo "
-"do swoich pozostałych typów."
+"Zauroczony stwór dostaje +2/+2, ma pierwszy cios i jest dodatkowo Rycerzem "
+"oprócz swoich pozostałych typów."
 
 #: ../../DOM.rst:86
+#, fuzzy
 msgid "Evra, Halcyon Witness"
-msgstr ""
+msgstr "Evra, Halcyon Witness"
 
 #: ../../DOM.rst:83 ../../DOM.rst:147 ../../DOM.rst:163
 msgid "Lifelink"
@@ -215,17 +253,20 @@ msgstr "Więź życia"
 
 #: ../../DOM.rst:85
 msgid "|mana_4|: Exchange your life total with Evra, Halcyon Witness's power."
-msgstr ""
+msgstr "|mana_4|: Zamień liczbę twoich punktów życia z siłą tego stwora."
 
 #: ../../DOM.rst:92
+#, fuzzy
 msgid "Excavation Elephant"
-msgstr ""
+msgstr "Excavation Elephant"
 
 #: ../../DOM.rst:89
 msgid ""
 "Kicker |mana_1| |mana_w| (You may pay an additional |mana_1| |mana_w| as you "
 "cast this spell.)"
 msgstr ""
+"Podbicie |mana_1| |mana_w| (Możesz zapłacić dodatkowo |mana_1| |mana_w| "
+"podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:91
 msgid ""
@@ -512,6 +553,8 @@ msgstr ""
 msgid ""
 "Kicker |mana_4| (You may pay an additional |mana_4| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_4| (Możesz zapłacić dodatkowo |mana_4| podczas rzucania tego "
+"czaru.)"
 
 #: ../../DOM.rst:227
 msgid ""
@@ -591,6 +634,8 @@ msgid ""
 "Kicker |mana_1| |mana_u| (You may pay an additional |mana_1| |mana_u| as you "
 "cast this spell.)"
 msgstr ""
+"Podbicie |mana_1| |mana_u| (Możesz zapłacić dodatkowo |mana_1| |mana_u| "
+"podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:265
 msgid ""
@@ -956,6 +1001,8 @@ msgid ""
 "Kicker |mana_3| |mana_b| (You may pay an additional |mana_3| |mana_b| as you "
 "cast this spell.)"
 msgstr ""
+"Podbicie |mana_3| |mana_b| (Możesz zapłacić dodatkowo |mana_3| |mana_b| "
+"podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:449
 msgid ""
@@ -1126,6 +1173,8 @@ msgid ""
 "Kicker |mana_5| |mana_b| (You may pay an additional |mana_5| |mana_b| as you "
 "cast this spell.)"
 msgstr ""
+"Podbicie |mana_5| |mana_b| (Możesz zapłacić dodatkowo |mana_5| |mana_b| "
+"podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:527
 msgid "Menace"
@@ -1277,6 +1326,8 @@ msgstr ""
 msgid ""
 "Kicker |mana_3| (You may pay an additional |mana_3| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_3| (Możesz zapłacić dodatkowo |mana_3| podczas rzucania tego "
+"czaru.)"
 
 #: ../../DOM.rst:599
 msgid ""
@@ -1345,6 +1396,8 @@ msgid ""
 "Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to "
 "any other costs as you cast this spell.)"
 msgstr ""
+"Podbicie—Poświęć stwora. (Możesz poświęcić stwora jako dodatek do innych "
+"kosztów podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:627
 msgid ""
@@ -1446,6 +1499,8 @@ msgid ""
 "Kicker |mana_5| |mana_r| (You may pay an additional |mana_5| |mana_r| as you "
 "cast this spell.)"
 msgstr ""
+"Podbicie |mana_5| |mana_r| (Możesz zapłacić dodatkowo |mana_5| |mana_r| "
+"podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:675
 msgid ""
@@ -1524,6 +1579,8 @@ msgid ""
 "Kicker |mana_3| |mana_r| (You may pay an additional |mana_3| |mana_r| as you "
 "cast this spell.)"
 msgstr ""
+"Podbicie |mana_3| |mana_r| (Możesz zapłacić dodatkowo |mana_3| |mana_r| "
+"podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:715
 msgid ""
@@ -1560,6 +1617,8 @@ msgid ""
 "Kicker—Sacrifice an artifact or Goblin. (You may sacrifice an artifact or "
 "Goblin in addition to any other costs as you cast this spell.)"
 msgstr ""
+"Podbicie—Poświęć artefakt lub Goblina (Możesz poświęcić artefakt lub Goblina "
+"jako dodatek do innych kosztów podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:729
 msgid ""
@@ -1760,6 +1819,8 @@ msgstr ""
 msgid ""
 "Kicker |mana_r| (You may pay an additional |mana_r| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_r| (Możesz zapłacić dodatkowo |mana_r| podczas rzucania tego "
+"czaru.)"
 
 #: ../../DOM.rst:819
 msgid "Trample, haste"
@@ -1967,6 +2028,8 @@ msgstr ""
 msgid ""
 "Kicker |mana_2| (You may pay an additional |mana_2| as you cast this spell.)"
 msgstr ""
+"Podbicie |mana_2| (Możesz zapłacić dodatkowo |mana_2| podczas rzucania tego "
+"czaru.)"
 
 #: ../../DOM.rst:915
 msgid ""
@@ -2022,6 +2085,8 @@ msgid ""
 "Kicker |mana_4| |mana_g| (You may pay an additional |mana_4| |mana_g| as you "
 "cast this spell.)"
 msgstr ""
+"Podbicie |mana_4| |mana_g| (Możesz zapłacić dodatkowo |mana_4| |mana_g| "
+"podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:941
 msgid ""
@@ -2196,6 +2261,8 @@ msgid ""
 "Kicker |mana_2| |mana_g| (You may pay an additional |mana_2| |mana_g| as you "
 "cast this spell.)"
 msgstr ""
+"Podbicie |mana_2| |mana_g| (Możesz zapłacić dodatkowo |mana_2| |mana_g| "
+"podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:1027
 msgid ""
