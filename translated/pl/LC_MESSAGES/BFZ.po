@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 14:36+0000\n"
+"PO-Revision-Date: 2018-12-19 14:55+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bfz/pl/>\n"
 "Language: pl\n"
@@ -358,13 +358,15 @@ msgid "−4: You get an emblem with \"Creatures you control get +1/+1.\""
 msgstr ""
 
 #: ../../BFZ.rst:156
+#, fuzzy
 msgid "Gideon's Reproach"
-msgstr ""
+msgstr "Gideon's Reproach"
 
 #: ../../BFZ.rst:155
 msgid ""
 "Gideon's Reproach deals 4 damage to target attacking or blocking creature."
 msgstr ""
+"Ten czar zadaje 4 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
 
 #: ../../BFZ.rst:160
 msgid "Hero of Goma Fada"
