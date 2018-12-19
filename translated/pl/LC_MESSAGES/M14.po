@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 10:19+0000\n"
+"PO-Revision-Date: 2018-12-19 14:55+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -631,8 +631,9 @@ msgstr ""
 
 # 6d93d1f8b43f4ede921e3d1b103d00e6
 #: ../../M14.rst:174
+#, fuzzy
 msgid "Serra Angel"
-msgstr ""
+msgstr "Serra Angel"
 
 #: ../../M14.rst:173
 msgid "Flying, vigilance"
@@ -678,7 +679,7 @@ msgstr ""
 # 8f60fa8146af4b6e9c66593b2457950e
 #: ../../M14.rst:189
 msgid "Destroy target artifact or enchantment. You gain 4 life."
-msgstr "Zniszcz wskazany artefakt lub urok. Dostajesz 4 życia."
+msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
 
 # be3f63479cff446ca90db99850e3a934
 #: ../../M14.rst:194
