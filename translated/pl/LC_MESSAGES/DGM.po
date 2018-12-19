@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-18 18:25+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -51,7 +51,7 @@ msgid ""
 "target creature an opponent controls."
 msgstr ""
 "Ilekroć Haazda Snare Squad atakuje, możesz zapłacić |mana_w|. Jeśli to "
-"zrobisz, zaznacz wskazanego stwora władanego przez przeciwnika."
+"zrobisz, zatapuj wskazanego stwora władanego przez przeciwnika."
 
 # Lyev są jedną z frakcji wewnątrz Azorius (patrz flavor na Azoriu Cluestone)
 #: ../../DGM.rst:18
@@ -212,8 +212,8 @@ msgid ""
 "You may tap or untap target permanent, then you may tap or untap another "
 "target permanent."
 msgstr ""
-"Możesz zaznaczyć lub odznaczyć wskazany permanent, a następnie możesz "
-"zaznaczyć lub odznaczyć inny wskazany permanent."
+"Możesz zatapować lub odtapować wskazany permanent, a następnie możesz "
+"zatapować lub odtapować inny wskazany permanent."
 
 # 3576509679dd4ce98f6ef39bd77ab45b
 # 9b655120a3e84d7885705e695d21ddae
@@ -297,13 +297,12 @@ msgstr "Zaurocz stwora o sile nie większej niż 3"
 # 4a18bb8e348c482697ad7c690b7616f2
 #: ../../DGM.rst:87
 msgid "When Runner's Bane enters the battlefield, tap enchanted creature."
-msgstr ""
-"Kiedy Runner's Bane wchodzi na pole walki, zaznacz zauroczonego stwora."
+msgstr "Kiedy Runner's Bane wchodzi na pole walki, zatapuj zauroczonego stwora."
 
 # b11b8bdc1868491595ad7792ee959a9b
 #: ../../DGM.rst:89
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 # c591cf62008a4d988f24295db3203a3d
 #: ../../DGM.rst:96
@@ -636,7 +635,7 @@ msgid ""
 msgstr ""
 "Kiedy Smelt-Ward Gatekeepers wchodzi na pole walki, jeśli władasz "
 "przynajmniej dwiema Bramami, przejmij do końca tury władanie nad wskazanym "
-"stworem, którym włada przeciwnik. Odznacz tego stwora. Zyskuje on pośpiech "
+"stworem, którym włada przeciwnik. Odtapuj tego stwora. Zyskuje on pośpiech "
 "do końca tury."
 
 # 785c3162b37148e8ad5a11173d29d57b
@@ -1936,7 +1935,7 @@ msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
 "type that land produced."
 msgstr ""
-"Ilekroć gracz zaznacza ląd pobierając manę, ów gracz dodaje do swojej puli "
+"Ilekroć gracz tapuje ląd pobierając manę, ów gracz dodaje do swojej puli "
 "many jedną manę w kolorze, który został przez ów ląd wyprodukowany."
 
 # bd23f44a27d54b7580ecfeec53fd7f78
@@ -1955,7 +1954,7 @@ msgstr "|tap|: Dodaj |mana_g| do twojej puli many."
 msgid ""
 "Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent."
 msgstr ""
-"Ilekroć zaznaczasz Zhur-Taa Druid pobierając manę, zadaje on po 1 obrażeniu "
+"Ilekroć tapujesz Zhur-Taa Druid pobierając manę, zadaje on po 1 obrażeniu "
 "każdemu z przeciwników."
 
 #: ../../DGM.rst:622
@@ -1964,7 +1963,6 @@ msgstr ""
 
 # 1fa25864d4d9496dbbb13a5511861f24
 #: ../../DGM.rst:619
-#, fuzzy
 msgid "Create a 3/3 green Centaur creature token."
 msgstr "Połóż na polu walki żeton zielonego stwora Centaur 3/3."
 
@@ -2094,7 +2092,7 @@ msgid ""
 "Gain control of target permanent until end of turn. Untap it. It gains haste "
 "until end of turn."
 msgstr ""
-"Przejmij władanie nad wskazanym permanentem do końca tury. Odznacz go. "
+"Przejmij władanie nad wskazanym permanentem do końca tury. Odtapuj go. "
 "Zyskuje on pośpiech do końca tury."
 
 #: ../../DGM.rst:676
@@ -2238,7 +2236,7 @@ msgid ""
 "Creatures you control gain indestructible until end of turn. Untap each "
 "creature you control."
 msgstr ""
-"Stwory, którymi władasz, zyskują niezniszczalność do końca tury. Odznacz "
+"Stwory, którymi władasz, zyskują niezniszczalność do końca tury. Odtapuj "
 "wszystkie stwory, którymi władasz."
 
 #: ../../DGM.rst:760
@@ -2488,7 +2486,7 @@ msgstr "Azorius Guildgate (Brama Gildii Azorius)"
 # 9ba7e3ddf5144effb9cf7effc5812f3d
 #: ../../DGM.rst:859
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr "Brama Gildii Azorius wchodzi na pole walki zaznaczona."
+msgstr "Brama Gildii Azorius wchodzi na pole walki zatapowana."
 
 # a8f3f68c9e894e0297cc00a1f653663a
 #: ../../DGM.rst:868
@@ -2499,7 +2497,7 @@ msgstr "Brama Gildii Boros"
 # Ciekawa koncepcja na tłumaczenie "tapped" - wymaga jeszcze pracy, ale podoba mi się koncepcja.
 #: ../../DGM.rst:865
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # c101d66f67f1469b95f590021f50c52a
 #: ../../DGM.rst:874
@@ -2509,7 +2507,7 @@ msgstr ""
 # d93cfb38da1e4c0cbfa29a11e0b1d940
 #: ../../DGM.rst:871
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # f00fab9fc4344a179920f5db6a9862a3
 #: ../../DGM.rst:880
@@ -2519,7 +2517,7 @@ msgstr ""
 # 8937f0f9805848479a9063ff1bc803ae
 #: ../../DGM.rst:877
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # ef8d2607b312425eb36b219fa5383779
 #: ../../DGM.rst:886
@@ -2529,7 +2527,7 @@ msgstr ""
 # 8a46b996b9dd4172993b88a2c9475053
 #: ../../DGM.rst:883
 msgid "Gruul Guildgate enters the battlefield tapped."
-msgstr "Gruul Guildgate wchodzi na pole walki jako zaznaczony."
+msgstr "Gruul Guildgate wchodzi na pole walki zatapowany."
 
 # 74ed62d376a7476c9387d9e276c08eb7
 #: ../../DGM.rst:892
@@ -2539,7 +2537,7 @@ msgstr ""
 # 4a489b9531c0469fa6d926cd61db27c5
 #: ../../DGM.rst:889
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # 3ebcde26c55940589077da6583fbb719
 #: ../../DGM.rst:900
@@ -2549,7 +2547,7 @@ msgstr "Maze's End (Kres Labiryntu)"
 # 6c33f58348e94deab947cc446a347fc2
 #: ../../DGM.rst:895
 msgid "Maze's End enters the battlefield tapped."
-msgstr "Maze's End wchodzi na pole walki jako zaznaczony."
+msgstr "Maze's End wchodzi na pole walki jako zatapowany."
 
 #: ../../DGM.rst:897
 msgid "|tap|: Add |colorless|."
@@ -2575,7 +2573,7 @@ msgstr ""
 # 7a0e381ff1414d4ba23f8e20f228e939
 #: ../../DGM.rst:903
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr "Orzhov Guildgate wchodzi na pole walki jako zaznaczony."
+msgstr "Orzhov Guildgate wchodzi na pole walki zatapowany."
 
 # 75ad288e7ac34746a144780ca63f4288
 #: ../../DGM.rst:912
@@ -2585,7 +2583,7 @@ msgstr ""
 # e872c2cf89fd4507a523725390a30cfb
 #: ../../DGM.rst:909
 msgid "Rakdos Guildgate enters the battlefield tapped."
-msgstr "Rakdos Guildgate wchodzi na pole walki jako zaznaczony."
+msgstr "Rakdos Guildgate wchodzi na pole walki zatapowany."
 
 # 60107d78f80f44968c0a386c158de17c
 #: ../../DGM.rst:918
@@ -2595,7 +2593,7 @@ msgstr ""
 # 52e297b443c24c27a8ee8ed6873d40c1
 #: ../../DGM.rst:915
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # 91ce735e0f064b3dbbd5d3181b3756d1
 #: ../../DGM.rst:923
@@ -2605,7 +2603,7 @@ msgstr "Simic Guildgate (Brama Gildii Simic)"
 # 3223f92aa08c48df8b634855e6ba86cc
 #: ../../DGM.rst:921
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr "Simic Guildgate wchodzi na pole walki jako zaznaczony."
+msgstr "Simic Guildgate wchodzi na pole walki zatapowany."
 
 # e38df00c0e304137943a4921019d7437
 #~ msgid "Alive // Well (Alive)"
