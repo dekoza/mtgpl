@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 14:55+0000\n"
+"PO-Revision-Date: 2018-12-19 21:47+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -2696,7 +2696,7 @@ msgstr ""
 
 #: ../../M19.rst:1307
 msgid "You have no maximum hand size."
-msgstr ""
+msgstr "Nie masz limitu kart na ręce."
 
 #: ../../M19.rst:1318
 msgid "Rupture Spire"
@@ -3136,12 +3136,13 @@ msgid "Target creature gets -4/-0 until end of turn."
 msgstr ""
 
 #: ../../M19.rst:1600
+#, fuzzy
 msgid "Mist-Cloaked Herald"
-msgstr ""
+msgstr "Mist-Cloaked Herald"
 
 #: ../../M19.rst:1599
 msgid "Mist-Cloaked Herald can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../M19.rst:1608
 msgid "Waterknot"
