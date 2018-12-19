@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2018-12-17 09:21+0000\n"
+"PO-Revision-Date: 2018-12-19 21:47+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/aer/pl/>\n"
 "Language: pl\n"
@@ -498,8 +498,9 @@ msgid "Counter target spell unless its controller pays |mana_3|."
 msgstr ""
 
 #: ../../AER.rst:350
+#, fuzzy
 msgid "Negate"
-msgstr ""
+msgstr "Negate"
 
 #: ../../AER.rst:349
 msgid "Counter target noncreature spell."
