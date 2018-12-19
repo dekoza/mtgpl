@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-17 09:21+0000\n"
+"PO-Revision-Date: 2018-12-19 10:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -428,8 +428,9 @@ msgstr ""
 "wszystkie słowa \\\"wskazany\\\" na \\\"każdy.\\\")"
 
 #: ../../RTR.rst:247
+#, fuzzy
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: ../../RTR.rst:246
 msgid "Counter target spell."
