@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 14:36+0000\n"
+"PO-Revision-Date: 2018-12-19 14:55+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
@@ -273,10 +273,13 @@ msgid ""
 "When Excavation Elephant enters the battlefield, if it was kicked, return "
 "target artifact card from your graveyard to your hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przywróć "
+"wskazaną kartę artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:100
+#, fuzzy
 msgid "Fall of the Thran"
-msgstr ""
+msgstr "Fall of the Thran"
 
 #: ../../DOM.rst:95 ../../DOM.rst:111 ../../DOM.rst:209 ../../DOM.rst:237
 #: ../../DOM.rst:325 ../../DOM.rst:399 ../../DOM.rst:457 ../../DOM.rst:499
@@ -303,47 +306,55 @@ msgstr ""
 "bitwy."
 
 #: ../../DOM.rst:104
+#, fuzzy
 msgid "Gideon's Reproach"
-msgstr ""
+msgstr "Gideon's Reproach"
 
 #: ../../DOM.rst:103
 msgid ""
 "Gideon's Reproach deals 4 damage to target attacking or blocking creature."
 msgstr ""
+"Ten czar zadaje 4 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
 
 #: ../../DOM.rst:108
+#, fuzzy
 msgid "Healing Grace"
-msgstr ""
+msgstr "Healing Grace"
 
 #: ../../DOM.rst:107
 msgid ""
 "Prevent the next 3 damage that would be dealt to any target this turn by a "
 "source of your choice. You gain 3 life."
 msgstr ""
+"Zażegnaj najbliższe 3 obrażenia, które mogłyby zostać zadane dowolnemu "
+"celowi przez wybrane przez ciebie źródło. Zyskujesz 3 życia."
 
 #: ../../DOM.rst:116
+#, fuzzy
 msgid "History of Benalia"
-msgstr ""
+msgstr "History of Benalia"
 
 #: ../../DOM.rst:113
 msgid "I, II — Create a 2/2 white Knight creature token with vigilance."
-msgstr ""
+msgstr "I, II — Stwórz żeton białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../DOM.rst:115
 msgid "III — Knights you control get +2/+1 until end of turn."
-msgstr ""
+msgstr "III — Rycerze pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../DOM.rst:120
+#, fuzzy
 msgid "Invoke the Divine"
-msgstr ""
+msgstr "Invoke the Divine"
 
 #: ../../DOM.rst:119
 msgid "Destroy target artifact or enchantment. You gain 4 life."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
 
 #: ../../DOM.rst:128
+#, fuzzy
 msgid "Knight of Grace"
-msgstr ""
+msgstr "Knight of Grace"
 
 #: ../../DOM.rst:123 ../../DOM.rst:541 ../../DOM.rst:733
 msgid "First strike"
@@ -354,19 +365,23 @@ msgid ""
 "Hexproof from black (This creature can't be the target of black spells or "
 "abilities your opponents control.)"
 msgstr ""
+"Antyklątwa przed czarnym (Ten stwór nie może być celem czarnych czarów lub "
+"zdolności pod władaniem twoich przeciwników.)"
 
 #: ../../DOM.rst:127
 msgid ""
 "Knight of Grace gets +1/+0 as long as any player controls a black permanent."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+0 o ile któryś gracz włada czarnym permanentnem."
 
 #: ../../DOM.rst:130
+#, fuzzy
 msgid "Knight of New Benalia"
-msgstr ""
+msgstr "Knight of New Benalia"
 
 #: ../../DOM.rst:138
+#, fuzzy
 msgid "Kwende, Pride of Femeref"
-msgstr ""
+msgstr "Kwende, Pride of Femeref"
 
 #: ../../DOM.rst:135
 msgid "Double strike"
@@ -377,8 +392,9 @@ msgid "Creatures you control with first strike have double strike."
 msgstr "Stwory pod twoim władaniem z pierwszym ciosem mają podwójny cios."
 
 #: ../../DOM.rst:144
+#, fuzzy
 msgid "Lyra Dawnbringer"
-msgstr ""
+msgstr "Lyra Dawnbringer"
 
 #: ../../DOM.rst:141
 msgid "Flying, first strike, lifelink"
@@ -386,45 +402,56 @@ msgstr "Latanie, pierwszy cios, więź życia"
 
 #: ../../DOM.rst:143
 msgid "Other Angels you control get +1/+1 and have lifelink."
-msgstr ""
+msgstr "Inne Anioły pod twoim władaniem dostają +1/+1 i mają więź życia."
 
 #: ../../DOM.rst:148
+#, fuzzy
 msgid "Mesa Unicorn"
-msgstr ""
+msgstr "Mesa Unicorn"
 
 #: ../../DOM.rst:154
+#, fuzzy
 msgid "On Serra's Wings"
-msgstr ""
+msgstr "On Serra's Wings"
 
 #: ../../DOM.rst:153
 msgid ""
 "Enchanted creature is legendary, gets +1/+1, and has flying, vigilance, and "
 "lifelink."
 msgstr ""
+"Zauroczony stwór jest legendarny, dostaje +1/+1, ma latanie, czujność i więź "
+"życia."
 
 #: ../../DOM.rst:160
+#, fuzzy
 msgid "Pegasus Courser"
-msgstr ""
+msgstr "Pegasus Courser"
 
 #: ../../DOM.rst:159
 msgid ""
 "Whenever Pegasus Courser attacks, another target attacking creature gains "
 "flying until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, inny wskazany atakujący stwór zyskuje latanie do "
+"końca tury."
 
 #: ../../DOM.rst:166
+#, fuzzy
 msgid "Sanctum Spirit"
-msgstr ""
+msgstr "Sanctum Spirit"
 
 #: ../../DOM.rst:165
 msgid ""
 "Discard a historic card: Sanctum Spirit gains indestructible until end of "
 "turn. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
+"Odrzuć historyczną kartę: Ten stwór zyskuje niezniszczalność do końca tury. ("
+"Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:172
+#, fuzzy
 msgid "Seal Away"
-msgstr ""
+msgstr "Seal Away"
 
 #: ../../DOM.rst:169 ../../DOM.rst:319 ../../DOM.rst:339 ../../DOM.rst:373
 #: ../../DOM.rst:1085 ../../DOM.rst:1131
@@ -436,10 +463,13 @@ msgid ""
 "When Seal Away enters the battlefield, exile target tapped creature an "
 "opponent controls until Seal Away leaves the battlefield."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wygnaj wskazanego zaznaczonego stwora "
+"pod władaniem przeciwnika dopóki ta karta nie opuści pola walki."
 
 #: ../../DOM.rst:178
+#, fuzzy
 msgid "Sergeant-at-Arms"
-msgstr ""
+msgstr "Sergeant-at-Arms"
 
 #: ../../DOM.rst:175
 msgid ""
@@ -454,18 +484,22 @@ msgid ""
 "When Sergeant-at-Arms enters the battlefield, if it was kicked, create two "
 "1/1 white Soldier creature tokens."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli został podbity, stwórz dwa "
+"żetony białego stwora Piechur 1/1."
 
 #: ../../DOM.rst:182
+#, fuzzy
 msgid "Serra Angel"
-msgstr ""
+msgstr "Serra Angel"
 
 #: ../../DOM.rst:181
 msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
 #: ../../DOM.rst:188
+#, fuzzy
 msgid "Serra Disciple"
-msgstr ""
+msgstr "Serra Disciple"
 
 #: ../../DOM.rst:185 ../../DOM.rst:1171
 msgid "Flying, first strike"
@@ -476,25 +510,33 @@ msgid ""
 "Whenever you cast a historic spell, Serra Disciple gets +1/+1 until end of "
 "turn. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
+"Ilekroć rzucasz historyczny czar, ten stwór dostaje +1/+1 do końca tury. ("
+"Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:196
+#, fuzzy
 msgid "Shalai, Voice of Plenty"
-msgstr ""
+msgstr "Shalai, Voice of Plenty"
 
 #: ../../DOM.rst:193
 msgid ""
 "You, planeswalkers you control, and other creatures you control have "
 "hexproof."
 msgstr ""
+"Ty, wędrowcy pod twoim władaniem oraz inne stwory pod twoim władaniem mają "
+"antyklątwę."
 
 #: ../../DOM.rst:195
 msgid ""
 "|mana_4| |mana_g| |mana_g|: Put a +1/+1 counter on each creature you control."
 msgstr ""
+"|mana_4| |mana_g| |mana_g|: Połóż znacznik +1/+1 na każdym stworze pod twoim "
+"władaniem."
 
 #: ../../DOM.rst:202
+#, fuzzy
 msgid "Teshar, Ancestor's Apostle"
-msgstr ""
+msgstr "Teshar, Ancestor's Apostle"
 
 #: ../../DOM.rst:201
 msgid ""
