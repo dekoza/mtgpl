@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 21:47+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -38,18 +38,16 @@ msgstr "+1: Połóż znacznik +1/+1 na najwyżej jednym wskazanym stworze."
 # fd340f810d224618a211a0239abb1e44
 # 5c2bd7eb7bf840f38d6cee0f04f139aa
 #: ../../M14.rst:11
-#, fuzzy
 msgid "−3: Target creature gains flying and double strike until end of turn."
-msgstr "-3: Wskazany stwór dostaje do końca tury latanie oraz podwójny cios."
+msgstr "–3: Wskazany stwór dostaje do końca tury latanie oraz podwójny cios."
 
 # 61e69fa8fb274f09b99016ab192f32a2
 # 0acf461f3a5d404da8460238f39c54fc
 #: ../../M14.rst:13
-#, fuzzy
 msgid "−8: Create X 2/2 white Cat creature tokens, where X is your life total."
 msgstr ""
-"-8: Połóż na polu walki X żetonów białych stworów Cat 2/2, gdzie X jest "
-"liczbą twoich punktów życia."
+"–8: Stwórz X żetonów białego stwora Cat 2/2, gdzie X jest stanem twojego "
+"życia."
 
 # 2eb4e711212f43d48a9da55e7479d4eb
 # f31cb2eea1bf4a66bef94b8d26daeebe
@@ -395,7 +393,7 @@ msgstr ""
 # 264eba5cfc614735a5661f7d28497911
 #: ../../M14.rst:81 ../../M14.rst:117
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atakowanie nie powoduje zaznaczenia tego stwora.)"
+msgstr "Czujność (Atakowanie nie powoduje tapowania tego stwora.)"
 
 # 0e07707493094fc78f2d2f5e5bf2228e
 #: ../../M14.rst:88
@@ -412,7 +410,7 @@ msgid ""
 msgstr ""
 "Zaznacz dowolną liczbę odznaczonych stworów, którymi władasz. Połóż na polu "
 "walki tyle żetonów białego stwora Angel 4/4 z lataniem, ile stworów "
-"zaznaczono w ten sposób."
+"zatapowano w ten sposób."
 
 # baa83b309dfa4cdf9c8b28ba690dec85
 # e909a62609bc4d39bd5ccbea1c683f46
@@ -496,7 +494,7 @@ msgstr ""
 #: ../../M14.rst:125
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
-"Stwory władane przez twoich przeciwników wchodzą na pole walki zaznaczone."
+"Stwory władane przez twoich przeciwników wchodzą na pole walki zatapowane."
 
 # e7beabdc96bf4ff1ae8478474f58c816
 # 3ae960dec578492aa913fda276cf538f
@@ -532,7 +530,7 @@ msgid ""
 "Whenever Master of Diversion attacks, tap target creature defending player "
 "controls."
 msgstr ""
-"Ilekroć Master of Diversion atakuje, zaznacz wskazanego stwora władanego "
+"Ilekroć Master of Diversion atakuje, zatapuj wskazanego stwora władanego "
 "przez broniącego się gracza."
 
 # 5266d7d936b7426babca5a41ffbd3349
@@ -614,7 +612,7 @@ msgid ""
 "to tap.)"
 msgstr ""
 "Drzazgule, którymi władasz, mają czujność. (Atakowanie nie powoduje ich "
-"zaznaczenia.)"
+"zatapowania.)"
 
 # 25d754ae63634564b7775da871c87c6c
 #: ../../M14.rst:170
@@ -718,7 +716,7 @@ msgid ""
 "you to gain that much life.)"
 msgstr ""
 "|mana_5| |mana_w|: Stonehorn Chanter zyskuje czujność oraz więź życia do "
-"końca tury. (Atakowanie nie powoduje jego zaznaczenia. Obrażenia przez niego "
+"końca tury. (Atakowanie nie powoduje jego zatapowania. Obrażenia przez niego "
 "zadane powodują, że dostajesz tyle samo życia.)"
 
 # 723aef121d9f4621881365f12ca0817a
@@ -786,13 +784,13 @@ msgstr "Claustrophobia (Klaustrofobia)"
 # 4c043c21c85a4907890715999f032333
 #: ../../M14.rst:235
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr "Gdy Claustrophobia wchodzi na pole walki, zaznacz zauroczonego stwora."
+msgstr "Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
 
 # 273d3e688c474787aed564f4fb2b46ee
 # af7de5d6a54c405885b7e8d436477120
 #: ../../M14.rst:237
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 # 85452e1194844afc80792baebe382888
 # f29db3587d33496c8584fec199ebfb3f
@@ -960,7 +958,7 @@ msgid ""
 "controller's next untap step."
 msgstr ""
 "Zaznacz co najwyżej dwa wskazane stwory. Owe stwory nie odznaczą się w "
-"najbliższym kroku odznaczania swojego władcy."
+"najbliższym kroku odtapowania swojego władcy."
 
 # f0aba63229c1498ebbc247dc0ac9e7cf
 # 4eb0bc8ef41b4136ab7d65bae82b1723
@@ -1215,9 +1213,9 @@ msgid ""
 "creature an opponent controls. That creature doesn't untap during its "
 "controller's untap step for as long as you control Tidebinder Mage."
 msgstr ""
-"Kiedy Tidebinder Mage wchodzi na pole walki, zaznacz wskazanego czerwonego "
+"Kiedy Tidebinder Mage wchodzi na pole walki, zatapuj wskazanego czerwonego "
 "lub zielonego stwora władanego przez przeciwnika. Ów stwór nie odznacza się "
-"podczas kroku odznaczania władającego nim gracza tak długo, jak władasz "
+"podczas kroku odtapowania władającego nim gracza tak długo, jak władasz "
 "Tidebinder Mage."
 
 # c50a1039e5764eb083d27610f3dc3d69
@@ -1294,7 +1292,7 @@ msgid ""
 "its controller's next untap step."
 msgstr ""
 "Ilekroć Wall of Frost blokuje stwora, ów stwór nie odznacza się w następnym "
-"kroku odznaczania władającego nim gracza."
+"kroku odtapowania władającego nim gracza."
 
 # d53ddeec039b4fce8b0c30511574813b
 #: ../../M14.rst:404
@@ -1443,7 +1441,7 @@ msgid ""
 "library."
 msgstr ""
 "|mana_2|, |tap|: Wyszukaj w twojej bibliotece kartę Festering Newt lub "
-"Bubbling Cauldron, połóż ją na polu walki zaznaczoną, następnie przetasuj "
+"Bubbling Cauldron, połóż ją na polu walki zatapowaną, następnie przetasuj "
 "twoją bibliotekę."
 
 # 6789dd42ff7e4b0fb7adfe22d376184b
@@ -1701,7 +1699,7 @@ msgid ""
 "discards a card and you create a tapped 2/2 black Zombie creature token."
 msgstr ""
 "Ilekroć Liliana's Reaver zada graczowi obrażenia bojowe, ów gracz odrzuca "
-"kartę, a ty kładziesz na polu walki zaznaczony żeton czarnego stwora Zombie "
+"kartę, a ty kładziesz na polu walki zatapowany żeton czarnego stwora Zombie "
 "2/2."
 
 # 5d88ba43c3a2475297a39b93c344e752
@@ -1912,7 +1910,7 @@ msgid ""
 "it to the battlefield tapped under its owner's control."
 msgstr ""
 "Kiedy Tenacious Dead umiera, możesz zapłacić |mana_1| |mana_b|. Gdy tak "
-"zrobisz, przywróć go zaznaczonego na pole walki pod władaniem jego "
+"zrobisz, przywróć go zatapowanego na pole walki pod władaniem jego "
 "właściciela."
 
 # 218fa9d18e23456a819736209d10d45a
@@ -1935,7 +1933,7 @@ msgid ""
 msgstr ""
 "Poświęć innego stwora: Regeneruj Vampire Warlord. (Następnym razem w tej "
 "turze, kiedy ten stwór miałby zostać zniszczony, nie jest. Zamiast tego "
-"zaznacz go, usuń z niego wszystkie obrażenia i usuń go z walki.)"
+"zatapuj go, usuń z niego wszystkie obrażenia i usuń go z walki.)"
 
 # ac5a9f62bc694a0cbd8158e884b13ee2
 #: ../../M14.rst:610
@@ -1972,13 +1970,12 @@ msgstr ""
 # d1f029be830a49c9afcd95d97e9067df
 # 74075bc3de5c47208a0a01383dabdd88
 #: ../../M14.rst:617
-#, fuzzy
 msgid ""
 "Whenever Xathrid Necromancer or another Human creature you control dies, "
 "create a tapped 2/2 black Zombie creature token."
 msgstr ""
-"Ilekroć Xathrid Necromancer lub inny Human, którym władasz, umiera, połóż na "
-"polu walki zaznaczont żeton czarnego stwora Zombie 2/2."
+"Ilekroć Xathrid Necromancer lub inny Human pod twoim władaniem umiera, "
+"stwórz zatapowany żeton czarnego stwora Zombie 2/2."
 
 # 27daa62eff5a4d59b1f604c116cfc618
 # 2cb38fdeda52486caa6edd91bf35812d
@@ -2009,7 +2006,7 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Zyskujesz władanie nad wskazanym stworem do końca tury. Odznacz owego "
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odtapuj owego "
 "stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej "
 "turze.)"
 
@@ -2091,7 +2088,7 @@ msgid ""
 "Whenever a player taps a nonbasic land for mana, Burning Earth deals 1 "
 "damage to that player."
 msgstr ""
-"Ilekroć jakiś gracz zaznacza niezwykły ląd pobierając manę, Burning Earth "
+"Ilekroć jakiś gracz tapuje niezwykły ląd pobierając manę, Burning Earth "
 "zadaje 1 obrażenie temu graczowi."
 
 # 6d435ea50dd743ad8441fd9871e6eaf7
@@ -3177,7 +3174,7 @@ msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional one mana of any color."
 msgstr ""
-"Ilekroć zauroczony ląd jest zaznaczany przy pobieraniu many, władający nim "
+"Ilekroć zauroczony ląd jest tapowany przy pobieraniu many, władający nim "
 "gracz dodaje jedną manę dowolnego koloru do swojej puli many (oprócz many, "
 "którą ten ląd produkuje)."
 
@@ -3256,7 +3253,7 @@ msgid ""
 "to tap.)"
 msgstr ""
 "Wyposażony stwór dostaje +0/+3 i ma czujność. (Atak nie powoduje jego "
-"zaznaczenia.)"
+"zatapowania.)"
 
 # 9941d999b99c469d9e7f92bab3e2ab3a
 # 17c705b68a2f49ecbe47cbdc5f906141
