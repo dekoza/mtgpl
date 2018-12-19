@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-17 09:21+0000\n"
+"PO-Revision-Date: 2018-12-19 14:55+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -3008,8 +3008,9 @@ msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
 #: ../../ORI.rst:1478
+#, fuzzy
 msgid "Serra Angel"
-msgstr ""
+msgstr "Serra Angel"
 
 #: ../../ORI.rst:1482
 msgid "Into the Void"
