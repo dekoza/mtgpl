@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 10:19+0000\n"
+"PO-Revision-Date: 2018-12-19 14:36+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -797,50 +797,63 @@ msgid ""
 "+1: Whenever one or more creatures you control deal combat damage to a "
 "player this turn, draw a card, then discard a card."
 msgstr ""
+"+1: Ilekroć jeden lub więcej stworów pod twoim władaniem zada graczowi "
+"obrażenia bojowe w tej turze, dobierz kartę, na następnie odrzuć kartę."
 
 #: ../../XLN.rst:303
 msgid ""
 "−2: Create a 2/2 blue Illusion creature token with \"When this creature "
 "becomes the target of a spell, sacrifice it.\""
 msgstr ""
+"–2: Stwórz żeton niebieskiego stwora Iluzja 2/2 ze zdolnością \"Kiedy ten "
+"stwór zostanie celem czaru, poświęć go.\""
 
 #: ../../XLN.rst:305
 msgid ""
 "−5: Create two tokens that are copies of Jace, Cunning Castaway, except "
 "they're not legendary."
 msgstr ""
+"–5: Stwórz dwa żetony będące kopią tego wędrowca z wyjątkiem tego, że nie są "
+"legendarne."
 
 #: ../../XLN.rst:312
+#, fuzzy
 msgid "Kopala, Warden of Waves"
-msgstr ""
+msgstr "Kopala, Warden of Waves"
 
 #: ../../XLN.rst:309
 msgid ""
 "Spells your opponents cast that target a Merfolk you control cost |mana_2| "
 "more to cast."
 msgstr ""
+"Rzucanie przez twoich przeciwników czarów wskazujących Wodnika pod twoim "
+"władaniem kosztują o |mana_2| więcej."
 
 #: ../../XLN.rst:311
 msgid ""
 "Abilities your opponents activate that target a Merfolk you control cost |"
 "mana_2| more to activate."
 msgstr ""
+"Aktywowanie przez twoich przeciwników  zdolności wskazujących Wodnika pod "
+"twoim władaniem kosztuje o |mana_2| więcej."
 
 #: ../../XLN.rst:318
+#, fuzzy
 msgid "Lookout's Dispersal"
-msgstr ""
+msgstr "Lookout's Dispersal"
 
 #: ../../XLN.rst:315
 msgid "This spell costs |mana_1| less to cast if you control a Pirate."
-msgstr ""
+msgstr "Rzucenie tego czaru kosztuje |mana_1| mniej jeśli władasz Piratem."
 
 #: ../../XLN.rst:317
 msgid "Counter target spell unless its controller pays |mana_4|."
-msgstr ""
+msgstr "Skontruj wskazany czar o ile jego władca nie dopłaci |mana_4|."
 
 #: ../../XLN.rst:322
+#, fuzzy
 msgid "Navigator's Ruin"
-msgstr ""
+msgstr "Navigator's Ruin"
 
 #: ../../XLN.rst:321
 msgid ""
@@ -848,56 +861,71 @@ msgid ""
 "this turn, target opponent puts the top four cards of their library into "
 "their graveyard."
 msgstr ""
+"Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś stworem w tej "
+"turze, wskazany przeciwnik przekłada cztery wierzchnie karty swojej "
+"biblioteki do swojego cmentarza."
 
 #: ../../XLN.rst:328
 msgid "One With the Wind"
-msgstr ""
+msgstr "One With the Wind (Jedność z wiatrem)"
 
 #: ../../XLN.rst:327
 msgid "Enchanted creature gets +2/+2 and has flying."
 msgstr "Zauroczony stwór dostaje +2/+2 i ma latanie."
 
 #: ../../XLN.rst:334
+#, fuzzy
 msgid "Opt"
-msgstr ""
+msgstr "Opt"
 
 #: ../../XLN.rst:331
 msgid ""
 "Scry 1. (Look at the top card of your library. You may put that card on the "
 "bottom of your library.)"
 msgstr ""
+"Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz położyć ową "
+"kartę na spodzie twojej biblioteki.)"
 
 #: ../../XLN.rst:338
+#, fuzzy
 msgid "Overflowing Insight"
-msgstr ""
+msgstr "Overflowing Insight"
 
 #: ../../XLN.rst:337
 msgid "Target player draws seven cards."
-msgstr ""
+msgstr "Wskazany gracz dobiera siedem kart."
 
 #: ../../XLN.rst:342
+#, fuzzy
 msgid "Perilous Voyage"
-msgstr ""
+msgstr "Perilous Voyage"
 
 #: ../../XLN.rst:341
 msgid ""
 "Return target nonland permanent you don't control to its owner's hand. If "
 "its converted mana cost was 2 or less, scry 2."
 msgstr ""
+"Przywróć wskazany permanent nie będący lądem i nie będący pod twoim "
+"władaniem do ręki jego właściciela. Jeśli jego łączny koszt many to 2 lub "
+"mniej, wróż 2."
 
 #: ../../XLN.rst:346
+#, fuzzy
 msgid "Pirate's Prize"
-msgstr ""
+msgstr "Pirate's Prize"
 
 #: ../../XLN.rst:345
 msgid ""
 "Draw two cards. Create a colorless Treasure artifact token with \"|tap|, "
 "Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
+"Dobierz dwie karty. Stwórz żeton bezkolorowego artefaktu Skarb ze zdolnością "
+"\"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego koloru.\""
 
 #: ../../XLN.rst:350
+#, fuzzy
 msgid "Prosperous Pirates"
-msgstr ""
+msgstr "Prosperous Pirates"
 
 #: ../../XLN.rst:349
 msgid ""
@@ -905,41 +933,53 @@ msgid ""
 "Treasure artifact tokens with \"|tap|, Sacrifice this artifact: Add one mana "
 "of any color.\""
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, stwórz dwa żetony bezkolorowego "
+"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną "
+"manę dowolnego koloru.\""
 
 #: ../../XLN.rst:356
+#, fuzzy
 msgid "River Sneak"
-msgstr ""
+msgstr "River Sneak"
 
 #: ../../XLN.rst:353
 msgid "River Sneak can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../XLN.rst:355
 msgid ""
 "Whenever another Merfolk enters the battlefield under your control, River "
 "Sneak gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć inny Wodnik wejdzie na pole walki pod twoim władaniem, ten stwór "
+"dostaje +1/+1 do końca tury."
 
 #: ../../XLN.rst:360
+#, fuzzy
 msgid "River's Rebuke"
-msgstr ""
+msgstr "River's Rebuke"
 
 #: ../../XLN.rst:359
 msgid ""
 "Return all nonland permanents target player controls to their owner's hand."
 msgstr ""
+"Przywróć wszystkie nie-lądowe permanenty władane przez wskazanego gracza do "
+"ręki ich właścicieli."
 
 #: ../../XLN.rst:364
+#, fuzzy
 msgid "Run Aground"
-msgstr ""
+msgstr "Run Aground"
 
 #: ../../XLN.rst:363
 msgid "Put target artifact or creature on top of its owner's library."
 msgstr ""
+"Połóż wskazany artefakt lub stwora na wierzchu biblioteki jego właściciela."
 
 #: ../../XLN.rst:368
+#, fuzzy
 msgid "Sailor of Means"
-msgstr ""
+msgstr "Sailor of Means"
 
 #: ../../XLN.rst:367
 msgid ""
@@ -947,10 +987,14 @@ msgid ""
 "artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\""
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, stwórz żeton bezkolorowego artefaktu "
+"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę "
+"dowolnego koloru.\""
 
 #: ../../XLN.rst:372
+#, fuzzy
 msgid "Search for Azcanta"
-msgstr ""
+msgstr "Search for Azcanta"
 
 #: ../../XLN.rst:371
 msgid ""
@@ -958,18 +1002,22 @@ msgid ""
 "may put it into your graveyard. Then if you have seven or more cards in your "
 "graveyard, you may transform Search for Azcanta."
 msgstr ""
+"Na początku twojego kroku utrzymania, spójrz na wierzchnią kartę twojej "
+"biblioteki. Możesz położyć ją do twojego cmentarza. Następnie jeśli masz co "
+"najmniej siedem kart w cmentarzu, możesz transformować tę kartę."
 
 #: ../../XLN.rst:380
+#, fuzzy
 msgid "Azcanta, the Sunken Ruin"
-msgstr ""
+msgstr "Azcanta, the Sunken Ruin"
 
 #: ../../XLN.rst:375
 msgid "(Transforms from Search for Azcanta.)"
-msgstr ""
+msgstr "(Transformuje się z Search for Azcanta.)"
 
 #: ../../XLN.rst:377
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|."
 
 #: ../../XLN.rst:379
 msgid ""
@@ -977,18 +1025,24 @@ msgid ""
 "may reveal a noncreature, nonland card from among them and put it into your "
 "hand. Put the rest on the bottom of your library in any order."
 msgstr ""
+"|mana_2| |mana_u|, |tap|: Spójrz na cztery wierzchnie karty twojej "
+"biblioteki. Możesz ujawnić spośród nich kartę nie będącą stworem lub lądem i "
+"dołożyć ją do twojej ręki. Połóż pozostałe na spodzie twojej biblioteki w "
+"dowolnej kolejności."
 
 #: ../../XLN.rst:384
+#, fuzzy
 msgid "Shaper Apprentice"
-msgstr ""
+msgstr "Shaper Apprentice"
 
 #: ../../XLN.rst:383
 msgid "Shaper Apprentice has flying as long as you control another Merfolk."
-msgstr ""
+msgstr "Ten stwór ma latanie o ile władasz innym Wodnikiem."
 
 #: ../../XLN.rst:388
+#, fuzzy
 msgid "Shipwreck Looter"
-msgstr ""
+msgstr "Shipwreck Looter"
 
 #: ../../XLN.rst:387
 msgid ""
