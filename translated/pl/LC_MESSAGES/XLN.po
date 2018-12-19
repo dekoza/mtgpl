@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-17 08:45+0000\n"
+"PO-Revision-Date: 2018-12-19 10:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -398,6 +398,8 @@ msgid ""
 "At the beginning of your upkeep, you may reveal a Dinosaur card from your "
 "hand. If you do, you gain 2 life."
 msgstr ""
+"Na początku twojego kroku utrzymania możesz ujawnić kartę Dinozaura z twojej "
+"ręki. Jeśli to zrobisz, zyskujesz 2 życia."
 
 #: ../../XLN.rst:153
 msgid ""
@@ -543,46 +545,56 @@ msgstr ""
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:216
+#, fuzzy
 msgid "Territorial Hammerskull"
-msgstr ""
+msgstr "Territorial Hammerskull"
 
 #: ../../XLN.rst:215
 msgid ""
 "Whenever Territorial Hammerskull attacks, tap target creature an opponent "
 "controls."
 msgstr ""
+"Ilekroć ten stwór atakuje, zaznacz wskazanego stwora pod władaniem "
+"przeciwnika."
 
 #: ../../XLN.rst:220
+#, fuzzy
 msgid "Tocatli Honor Guard"
-msgstr ""
+msgstr "Tocatli Honor Guard"
 
 #: ../../XLN.rst:219
 msgid "Creatures entering the battlefield don't cause abilities to trigger."
-msgstr ""
+msgstr "Stwory wchodzące na pole walki nie powodują wyzwalania zdolności."
 
 #: ../../XLN.rst:224
+#, fuzzy
 msgid "Vampire's Zeal"
-msgstr ""
+msgstr "Vampire's Zeal"
 
 #: ../../XLN.rst:223
 msgid ""
 "Target creature gets +2/+2 until end of turn. If it's a Vampire, it gains "
 "first strike until end of turn."
 msgstr ""
+"Wskazany stwór dostaje +2/+2 do końca tury. Jeśli to Wampir, zyskuje "
+"pierwszy cios do końca tury."
 
 #: ../../XLN.rst:228
+#, fuzzy
 msgid "Wakening Sun's Avatar"
-msgstr ""
+msgstr "Wakening Sun's Avatar"
 
 #: ../../XLN.rst:227
 msgid ""
 "When Wakening Sun's Avatar enters the battlefield, if you cast it from your "
 "hand, destroy all non-Dinosaur creatures."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli został rzucony z twojej ręki, "
+"zniszcz wszystkie stwory nie będące Dinozaurami."
 
 #: ../../XLN.rst:232
 msgid "Air Elemental"
-msgstr ""
+msgstr "Air Elemental (Żywiołak powietrza)"
 
 #: ../../XLN.rst:231
 msgid ""
@@ -593,12 +605,13 @@ msgstr ""
 "zasięgiem.)"
 
 #: ../../XLN.rst:238
+#, fuzzy
 msgid "Arcane Adaptation"
-msgstr ""
+msgstr "Arcane Adaptation"
 
 #: ../../XLN.rst:235
 msgid "As Arcane Adaptation enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Podczas umieszczania tej karty na polu walki, wybierz typ stwora."
 
 #: ../../XLN.rst:237
 msgid ""
@@ -606,10 +619,14 @@ msgid ""
 "The same is true for creature spells you control and creature cards you own "
 "that aren't on the battlefield."
 msgstr ""
+"Stwory pod twoim władaniem są dodatkowo wybranego typu oprócz swoich "
+"pozostałych typów. To samo tyczy się czarów stworów pod twoim władaniem oraz "
+"twoich kart stworów, które nie są na polu walki."
 
 #: ../../XLN.rst:242
+#, fuzzy
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: ../../XLN.rst:241
 msgid "Counter target spell."
@@ -617,31 +634,37 @@ msgstr "Skontruj wskazany czar."
 
 #: ../../XLN.rst:246
 msgid "Chart a Course"
-msgstr ""
+msgstr "Chart a Course (Wyznacz kurs)"
 
 #: ../../XLN.rst:245
 msgid ""
 "Draw two cards. Then discard a card unless you attacked with a creature this "
 "turn."
 msgstr ""
+"Dobierz dwie karty. Następnie odrzuć kartę, chyba że zaatakowałeś stworem w "
+"tej turze."
 
 #: ../../XLN.rst:252
+#, fuzzy
 msgid "Daring Saboteur"
-msgstr ""
+msgstr "Daring Saboteur"
 
 #: ../../XLN.rst:249
 msgid "|mana_2| |mana_u|: Daring Saboteur can't be blocked this turn."
-msgstr ""
+msgstr "|mana_2| |mana_u|: Ten stwór nie może być blokowany w tej turze."
 
 #: ../../XLN.rst:251
 msgid ""
 "Whenever Daring Saboteur deals combat damage to a player, you may draw a "
 "card. If you do, discard a card."
 msgstr ""
+"Ilekroć ten stwór zada graczowi obrażenia bitewne, możesz dobrać kartę. "
+"Jeśli to zrobisz, odrzuć kartę."
 
 #: ../../XLN.rst:256
+#, fuzzy
 msgid "Deadeye Quartermaster"
-msgstr ""
+msgstr "Deadeye Quartermaster"
 
 #: ../../XLN.rst:255
 msgid ""
@@ -649,10 +672,14 @@ msgid ""
 "library for an Equipment or Vehicle card, reveal it, put it into your hand, "
 "then shuffle your library."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz poszukać w swojej bibliotece "
+"kartę Ekwipunku lub Pojazdu, ujawnić ją, dołożyć do twojej ręki, a następnie "
+"przetasować twoją bibliotekę."
 
 #: ../../XLN.rst:260
+#, fuzzy
 msgid "Deeproot Waters"
-msgstr ""
+msgstr "Deeproot Waters"
 
 #: ../../XLN.rst:259
 msgid ""
@@ -660,10 +687,14 @@ msgid ""
 "with hexproof. (A creature with hexproof can't be the target of spells or "
 "abilities your opponents control.)"
 msgstr ""
+"Ilekroć rzucasz czar Wodnika, stwórz żeton niebieskiego stwora Wodnik 1/1 z "
+"antyklątwą. (Stwór z antyklątwą nie może być celem czarów lub zdolności pod "
+"władaniem twoich przeciwników.)"
 
 #: ../../XLN.rst:264
+#, fuzzy
 msgid "Depths of Desire"
-msgstr ""
+msgstr "Depths of Desire"
 
 #: ../../XLN.rst:263
 msgid ""
@@ -671,20 +702,28 @@ msgid ""
 "artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\""
 msgstr ""
+"Przywróć wskazanego stwora do ręki jego właściciela. Stwórz żeton "
+"bezkolorowego artefkatu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: "
+"Dostajesz jedną manę dowolnego koloru.\""
 
 #: ../../XLN.rst:268
+#, fuzzy
 msgid "Dive Down"
-msgstr ""
+msgstr "Dive Down"
 
 #: ../../XLN.rst:267
 msgid ""
 "Target creature you control gets +0/+3 and gains hexproof until end of turn. "
 "(It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje do końca tury +0/+3 oraz "
+"antyklątwę. (Nie może być celem czarów lub zdolności władanych przez twoich "
+"przeciwników.)"
 
 #: ../../XLN.rst:278
+#, fuzzy
 msgid "Dreamcaller Siren"
-msgstr ""
+msgstr "Dreamcaller Siren"
 
 #: ../../XLN.rst:271 ../../XLN.rst:443 ../../XLN.rst:477 ../../XLN.rst:1043
 msgid "Flash"
@@ -692,55 +731,66 @@ msgstr "Błysk"
 
 #: ../../XLN.rst:275
 msgid "Dreamcaller Siren can block only creatures with flying."
-msgstr ""
+msgstr "Ten stwór może blokować wyłącznie stwory z lataniem."
 
 #: ../../XLN.rst:277
 msgid ""
 "When Dreamcaller Siren enters the battlefield, if you control another "
 "Pirate, tap up to two target nonland permanents."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli władasz innym Piratem, zaznacz "
+"co najwyżej dwa wskazane nie-lądowe permanenty."
 
 #: ../../XLN.rst:282
+#, fuzzy
 msgid "Entrancing Melody"
-msgstr ""
+msgstr "Entrancing Melody"
 
 #: ../../XLN.rst:281
 msgid "Gain control of target creature with converted mana cost X."
-msgstr ""
+msgstr "Zyskujesz władanie nad wskazanym stworem o łącznym koszcie many X."
 
 #: ../../XLN.rst:286
+#, fuzzy
 msgid "Favorable Winds"
-msgstr ""
+msgstr "Favorable Winds"
 
 #: ../../XLN.rst:285
 msgid "Creatures you control with flying get +1/+1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mające latanie dostają +1/+1."
 
 #: ../../XLN.rst:290
+#, fuzzy
 msgid "Fleet Swallower"
-msgstr ""
+msgstr "Fleet Swallower"
 
 #: ../../XLN.rst:289
 msgid ""
 "Whenever Fleet Swallower attacks, target player puts the top half of their "
 "library, rounded up, into their graveyard."
 msgstr ""
+"Ilekroć ten stwór atakuje, wskazany gracz przekłada wierzchnią połowę swojej "
+"biblioteki, zaokrąglając wzwyż, do swojego cmentarza."
 
 #: ../../XLN.rst:292
+#, fuzzy
 msgid "Headwater Sentries"
-msgstr ""
+msgstr "Headwater Sentries"
 
 #: ../../XLN.rst:298
+#, fuzzy
 msgid "Herald of Secret Streams"
-msgstr ""
+msgstr "Herald of Secret Streams"
 
 #: ../../XLN.rst:297
 msgid "Creatures you control with +1/+1 counters on them can't be blocked."
 msgstr ""
+"Stwory pod twoim władaniem mające znaczniki +1/+1 nie mogą być blokowane."
 
 #: ../../XLN.rst:306
+#, fuzzy
 msgid "Jace, Cunning Castaway"
-msgstr ""
+msgstr "Jace, Cunning Castaway"
 
 #: ../../XLN.rst:301
 msgid ""
