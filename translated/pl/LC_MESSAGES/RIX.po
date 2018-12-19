@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 14:36+0000\n"
+"PO-Revision-Date: 2018-12-19 21:47+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -436,14 +436,17 @@ msgid ""
 "Raid — If you attacked with a creature this turn, you may pay |mana_u| "
 "rather than pay this spell's mana cost."
 msgstr ""
+"Najazd — Jeśli atakowałeś stworem w tej turze, możesz zapłacić |mana_u| "
+"zamiast płacenia normalnego kosztu tego czaru."
 
 #: ../../RIX.rst:165
 msgid "Counter target spell."
 msgstr "Skontruj wskazany czar."
 
 #: ../../RIX.rst:172
+#, fuzzy
 msgid "Aquatic Incursion"
-msgstr ""
+msgstr "Aquatic Incursion"
 
 #: ../../RIX.rst:169
 msgid ""
@@ -451,14 +454,18 @@ msgid ""
 "creature tokens with hexproof. (They can't be the targets of spells or "
 "abilities your opponents control.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, stwórz dwa żetony niebieskiego stwora "
+"Wodnik 1/1 z antyklątwą. (Nie mogą być celami czarów lub zdolności władanych "
+"przez twoich przeciwników.)"
 
 #: ../../RIX.rst:171
 msgid "|mana_3| |mana_u|: Target Merfolk can't be blocked this turn."
-msgstr ""
+msgstr "|mana_3| |mana_u|: Wskazany Wodnik nie może być blokowany w tej turze."
 
 #: ../../RIX.rst:178
+#, fuzzy
 msgid "Crafty Cutpurse"
-msgstr ""
+msgstr "Crafty Cutpurse"
 
 #: ../../RIX.rst:175 ../../RIX.rst:265 ../../RIX.rst:365 ../../RIX.rst:761
 msgid "Flash"
@@ -470,14 +477,18 @@ msgid ""
 "created under an opponent's control this turn is created under your control "
 "instead."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, każdy żeton, który miałby zostać "
+"stworzony pod władaniem któregokolwiek z przeciwników, jest zamiast tego "
+"tworzony pod twoim władaniem."
 
 #: ../../RIX.rst:186
+#, fuzzy
 msgid "Crashing Tide"
-msgstr ""
+msgstr "Crashing Tide"
 
 #: ../../RIX.rst:181
 msgid "Crashing Tide has flash as long as you control a Merfolk."
-msgstr ""
+msgstr "Ta karta ma błysk o ile władasz Wodnikiem."
 
 #: ../../RIX.rst:183
 msgid "Return target creature to its owner's hand."
@@ -488,44 +499,57 @@ msgid "Draw a card."
 msgstr "Dobierz kartę."
 
 #: ../../RIX.rst:194
+#, fuzzy
 msgid "Curious Obsession"
-msgstr ""
+msgstr "Curious Obsession"
 
 #: ../../RIX.rst:191
 msgid ""
 "Enchanted creature gets +1/+1 and has \"Whenever this creature deals combat "
 "damage to a player, you may draw a card.\""
 msgstr ""
+"Zauroczony stwór ma +1/+1 oraz zdolność \"Ilekroć ten stwór zada graczowi "
+"obrażenia bitewne, możesz dobrać kartę.\""
 
 #: ../../RIX.rst:193
 msgid ""
 "At the beginning of your end step, if you didn't attack with a creature this "
 "turn, sacrifice Curious Obsession."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli nie atakowałeś stworem w tej "
+"turze, poświęć ten urok."
 
 #: ../../RIX.rst:198
+#, fuzzy
 msgid "Deadeye Rig-Hauler"
-msgstr ""
+msgstr "Deadeye Rig-Hauler"
 
 #: ../../RIX.rst:197
 msgid ""
 "Raid — When Deadeye Rig-Hauler enters the battlefield, if you attacked with "
 "a creature this turn, you may return target creature to its owner's hand."
 msgstr ""
+"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, możesz  przywrócić wskazanego stwora do ręki jego właściciela."
 
 #: ../../RIX.rst:204
+#, fuzzy
 msgid "Expel from Orazca"
-msgstr ""
+msgstr "Expel from Orazca"
 
 #: ../../RIX.rst:203
 msgid ""
 "Return target nonland permanent to its owner's hand. If you have the city's "
 "blessing, you may put that permanent on top of its owner's library instead."
 msgstr ""
+"Przywróć wskazany nie-lądowy permanent do ręki jego właściciela. Jeśli masz "
+"błogosławieństwo miasta, możesz zamiast tego położyć ów permanent na "
+"wierzchu biblioteki jego właściciela."
 
 #: ../../RIX.rst:208
+#, fuzzy
 msgid "Flood of Recollection"
-msgstr ""
+msgstr "Flood of Recollection"
 
 #: ../../RIX.rst:207
 msgid ""
@@ -536,80 +560,96 @@ msgstr ""
 "reki. Wygnaj Flood of Recollection."
 
 #: ../../RIX.rst:212
+#, fuzzy
 msgid "Hornswoggle"
-msgstr ""
+msgstr "Hornswoggle"
 
 #: ../../RIX.rst:211
 msgid ""
 "Counter target creature spell. You create a colorless Treasure artifact "
 "token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
+"Skontruj wskazany czar stwora. Stwórz żeton bezkolorowego artefaktu Skarb ze "
+"zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
+"koloru.\""
 
 #: ../../RIX.rst:218
+#, fuzzy
 msgid "Induced Amnesia"
-msgstr ""
+msgstr "Induced Amnesia"
 
 #: ../../RIX.rst:215
 msgid ""
 "When Induced Amnesia enters the battlefield, target player exiles all cards "
 "from their hand face down, then draws that many cards."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wskazany gracz wypędza wszystkie karty "
+"ze swojej ręki grzbietem w górę, następnie dobiera tyle samo kart."
 
 #: ../../RIX.rst:217
 msgid ""
 "When Induced Amnesia is put into a graveyard from the battlefield, return "
 "the exiled cards to their owner's hand."
 msgstr ""
+"Kiedy ta karta trafia z pola walki do cmentarza, przywróć wygnane karty do "
+"ręki ich właściciela."
 
 #: ../../RIX.rst:222
+#, fuzzy
 msgid "Kitesail Corsair"
-msgstr ""
+msgstr "Kitesail Corsair"
 
 #: ../../RIX.rst:221
 msgid "Kitesail Corsair has flying as long as it's attacking."
-msgstr ""
+msgstr "Ten stwór ma latanie o ile atakuje."
 
 #: ../../RIX.rst:228
+#, fuzzy
 msgid "Kumena's Awakening"
-msgstr ""
+msgstr "Kumena's Awakening"
 
 #: ../../RIX.rst:227
 msgid ""
 "At the beginning of your upkeep, each player draws a card. If you have the "
 "city's blessing, instead only you draw a card."
 msgstr ""
+"Na początku twojego kroku utrzymania, każdy gracz dobiera kartę. Jeśli masz "
+"błogosławieństwo miasta, zamiast tego tylko ty dobierasz kartę."
 
 #: ../../RIX.rst:232
+#, fuzzy
 msgid "Mist-Cloaked Herald"
-msgstr ""
+msgstr "Mist-Cloaked Herald"
 
 #: ../../RIX.rst:231
 msgid "Mist-Cloaked Herald can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../RIX.rst:236
+#, fuzzy
 msgid "Negate"
-msgstr ""
+msgstr "Negate"
 
 #: ../../RIX.rst:235
 msgid "Counter target noncreature spell."
 msgstr "Skontruj wskazany czar nie będący stworem."
 
 #: ../../RIX.rst:246
+#, fuzzy
 msgid "Nezahal, Primal Tide"
-msgstr ""
+msgstr "Nezahal, Primal Tide"
 
 #: ../../RIX.rst:239
 msgid "Nezahal, Primal Tide can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../RIX.rst:241
 msgid "You have no maximum hand size."
-msgstr ""
+msgstr "Nie masz limitu kart na ręce."
 
 #: ../../RIX.rst:243
 msgid "Whenever an opponent casts a noncreature spell, draw a card."
-msgstr ""
+msgstr "Ilekroć przeciwnik rzuca czar nie będący stworem, dobierz kartę."
 
 #: ../../RIX.rst:245
 msgid ""
@@ -621,8 +661,9 @@ msgstr ""
 "końcowego."
 
 #: ../../RIX.rst:250
+#, fuzzy
 msgid "Release to the Wind"
-msgstr ""
+msgstr "Release to the Wind"
 
 #: ../../RIX.rst:249
 msgid ""
@@ -633,22 +674,26 @@ msgstr ""
 "pozostaje wygnana, jej właściciel może rzucać ją bez płacenia kosztu many."
 
 #: ../../RIX.rst:254
+#, fuzzy
 msgid "River Darter"
-msgstr ""
+msgstr "River Darter"
 
 #: ../../RIX.rst:253
 msgid "River Darter can't be blocked by Dinosaurs."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez Dinozaury."
 
 #: ../../RIX.rst:258
+#, fuzzy
 msgid "Riverwise Augur"
-msgstr ""
+msgstr "Riverwise Augur"
 
 #: ../../RIX.rst:257
 msgid ""
 "When Riverwise Augur enters the battlefield, draw three cards, then put two "
 "cards from your hand on top of your library in any order."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, dobierz trzy karty, następnie odłóż "
+"dwie karty z twojej ręki na wierzchu twojej biblioteki w dowolnej kolejności."
 
 #: ../../RIX.rst:262
 #, fuzzy
@@ -666,50 +711,62 @@ msgstr ""
 "dowolnego koloru.\""
 
 #: ../../RIX.rst:270
+#, fuzzy
 msgid "Sea Legs"
-msgstr ""
+msgstr "Sea Legs"
 
 #: ../../RIX.rst:269
 msgid ""
 "Enchanted creature gets +0/+2 as long as it's a Pirate. Otherwise, it gets "
 "-2/-0."
 msgstr ""
+"Zauroczony stwór dostaje +0/+2 o ile jest Piratem. W przeciwnym razie "
+"dostaje -2/-0."
 
 #: ../../RIX.rst:274
+#, fuzzy
 msgid "Seafloor Oracle"
-msgstr ""
+msgstr "Seafloor Oracle"
 
 #: ../../RIX.rst:273
 msgid ""
 "Whenever a Merfolk you control deals combat damage to a player, draw a card."
 msgstr ""
+"Ilekroć Wodnik pod twoim władaniem zadaje graczowi obrażenia bitewne, "
+"dobierz kartę."
 
 #: ../../RIX.rst:280
 msgid "Secrets of the Golden City"
-msgstr ""
+msgstr "Secrets of the Golden City (Sekrety Złotego Miasta)"
 
 #: ../../RIX.rst:279
 msgid ""
 "Draw two cards. If you have the city's blessing, draw three cards instead."
 msgstr ""
+"Dobierz dwie karty. Jeśli masz błogosławieństwo miasta, zamiast tego dobierz "
+"trzy karty."
 
 #: ../../RIX.rst:286
+#, fuzzy
 msgid "Silvergill Adept"
-msgstr ""
+msgstr "Silvergill Adept"
 
 #: ../../RIX.rst:283
 msgid ""
 "As an additional cost to cast this spell, reveal a Merfolk card from your "
 "hand or pay |mana_3|."
 msgstr ""
+"Jako dodatkowy koszt rzucenia tego czaru, ujawnij kartę Wodnika z twojej "
+"reki lub zapłać |mana_3|."
 
 #: ../../RIX.rst:285
 msgid "When Silvergill Adept enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, dobierz kartę."
 
 #: ../../RIX.rst:292
+#, fuzzy
 msgid "Siren Reaver"
-msgstr ""
+msgstr "Siren Reaver"
 
 #: ../../RIX.rst:289
 msgid ""
