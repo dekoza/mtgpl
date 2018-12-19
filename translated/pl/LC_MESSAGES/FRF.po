@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-17 09:21+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/frf/pl/>\n"
 "Language: pl\n"
@@ -43,6 +43,8 @@ msgid ""
 "−X: Exile each permanent with converted mana cost X or less that's one or "
 "more colors."
 msgstr ""
+"–X: Wygnaj każdy permanent o całkowitym koszcie X lub mniejszym, który ma co "
+"najmniej jeden kolor."
 
 # 119a7a98bdf142bb876c9f024448e1ae
 #: ../../FRF.rst:13
@@ -50,6 +52,8 @@ msgid ""
 "−10: You gain 7 life, draw seven cards, then put up to seven permanent cards "
 "from your hand onto the battlefield."
 msgstr ""
+"–10: Zyskujesz 7 życia, dobierz siedem kart, następnie połóż na polu walki "
+"co najwyżej siedem kart permanentów z twojej ręki."
 
 # da92892300654292b0fb31235987f357
 #: ../../FRF.rst:18
@@ -202,7 +206,7 @@ msgid ""
 "Dragons — At the beginning of combat on each opponent's turn, tap target "
 "creature that player controls."
 msgstr ""
-"Smoki — Z początkiem walki w turze każdego z przeciwników, zaznacz "
+"Smoki — Z początkiem walki w turze każdego z przeciwników, zatapuj "
 "wskazanego stwora, którym włada ów gracz."
 
 # f4dd56ca58e84f1e9bd101dbb0789737
@@ -271,9 +275,9 @@ msgid ""
 "among creatures you control and put X +1/+1 counters on it.)"
 msgstr ""
 "Z początkiem twojego kroku końcowego wesprzyj X, gdzie X jest liczbą "
-"zaznaczonych stworów, którymi władasz. (Wybierz stwora z najmniejszą "
-"wytrzymałością spośród stworów, którymi władasz i połóż na nim X znaczników "
-"+1/+1.)"
+"zatapowanych stworów, którymi władasz. (Wybierz stwora z najmniejszą "
+"wytrzymałością spośród stworów, którymi władasz i połóż na nim X znaczników +"
+"1/+1.)"
 
 # dfaed490c224404d9c9c66c0ff458d30
 #: ../../FRF.rst:76
@@ -298,7 +302,7 @@ msgid ""
 "Whenever a creature you control with a +1/+1 counter on it attacks, tap "
 "target creature defending player controls."
 msgstr ""
-"Ilekroć stwór, którym władasz mający znacznik +1/+1 zaatakuje, zaznacz "
+"Ilekroć stwór, którym władasz mający znacznik +1/+1 zaatakuje, zatapuj "
 "wskazanego stwora władanego przez broniącego się gracza."
 
 # 0e6e9c4d5d26404fadaa3c62159e5d2a
@@ -457,7 +461,7 @@ msgstr "Pressure Point"
 # 799238b63db1489c93808f2f8d500654
 #: ../../FRF.rst:123
 msgid "Tap target creature."
-msgstr "Zaznacz wskazanego stwora."
+msgstr "Zatapuj wskazanego stwora."
 
 # 2ed4b4ffa6984844af0dae41825f3335
 # f5c219b89e7546e8beb444b73514e027
@@ -605,7 +609,7 @@ msgstr "Wybierz jedno —"
 # bb75f20e5e264d8e94e5581446706c57
 #: ../../FRF.rst:167
 msgid "Target creature gains indestructible until end of turn."
-msgstr ""
+msgstr "Wskazany stwór zyskuje niezniszczalność do końca tury."
 
 # d07b4ab45f7e4858b6c06afdbcf5f422
 #: ../../FRF.rst:169
@@ -624,6 +628,9 @@ msgid ""
 "Whenever Wandering Champion deals combat damage to a player, if you control "
 "a blue or red permanent, you may discard a card. If you do, draw a card."
 msgstr ""
+"Ilekroć ten stwór zadaje graczowi obrażenia bitewne, jeśli władasz "
+"niebieskim lub czerwonym permanentem, możesz odrzucić kartę. Jeśli to "
+"zrobisz, dobierz kartę."
 
 # f806149a5d4c43979bff0222886dc6cd
 #: ../../FRF.rst:180
@@ -635,7 +642,7 @@ msgstr "Wardscale Dragon"
 #: ../../FRF.rst:179
 msgid ""
 "As long as Wardscale Dragon is attacking, defending player can't cast spells."
-msgstr ""
+msgstr "O ile ten stwór atakuje, zaatakowany gracz nie może rzucać czarów."
 
 # 11f446960d2140a5b6cb965d3b01a0a9
 #: ../../FRF.rst:190
@@ -922,7 +929,7 @@ msgstr "Refocus"
 # cff6f3822403400481e39927991e4596
 #: ../../FRF.rst:279
 msgid "Untap target creature."
-msgstr "Odznacz wskazanego stwora."
+msgstr "Odtapuj wskazanego stwora."
 
 # 4c1235f1a1ab4b9c86b9655bb11242be
 #: ../../FRF.rst:288
@@ -1073,8 +1080,9 @@ msgstr "Weź dodatkową turę po obecnej. Wypędź Temporal Trespass."
 
 # e2676cd4f611495a8aac7640852eb8c1
 #: ../../FRF.rst:332
+#, fuzzy
 msgid "Torrent Elemental"
-msgstr ""
+msgstr "Torrent Elemental"
 
 # 885a763b6281418eb637fa4436789c9a
 #: ../../FRF.rst:329
@@ -1082,6 +1090,8 @@ msgid ""
 "Whenever Torrent Elemental attacks, tap all creatures defending player "
 "controls."
 msgstr ""
+"Ilekroć ten stwór atakuje, zatapuj wszystkie stwory pod władaniem "
+"zaatakowanego gracza."
 
 #: ../../FRF.rst:331
 msgid ""
@@ -1101,6 +1111,8 @@ msgstr "Whisk Away"
 msgid ""
 "Put target attacking or blocking creature on top of its owner's library."
 msgstr ""
+"Połóż wskazanego atakującego lub blokującego stwora na wierzchu biblioteki "
+"jego właściciela."
 
 # 7b73f657246847698b6ce9394c18dcbd
 #: ../../FRF.rst:342
@@ -1115,7 +1127,7 @@ msgid ""
 "controller's next untap step."
 msgstr ""
 "Zaznacz co najwyżej dwa wskazane stwory. Owe stwory nie odznaczą się w "
-"najbliższym kroku odznaczania swojego władcy."
+"najbliższym kroku odtapowania swojego władcy."
 
 # 44f37367e6dc43d1afa0a4e859357e12
 #: ../../FRF.rst:346
@@ -1670,9 +1682,9 @@ msgid ""
 "mana_wb|. If you do, return target creature card with power 2 or less from "
 "your graveyard to the battlefield tapped and attacking."
 msgstr ""
-"Ilekroć Alesha, Who Smiles at Death atakuje możesz zapłacić |mana_wb| |"
-"mana_wb|. Jeśli to zrobisz, zwróć wskazaną kartę stwora o sile 2 lub "
-"mniejszej z twojego cmentarza na pole walki zaznaczoną i atakującą."
+"Ilekroć Alesha, Who Smiles at Death atakuje możesz zapłacić |mana_wb| "
+"|mana_wb|. Jeśli to zrobisz, zwróć wskazaną kartę stwora o sile 2 lub "
+"mniejszej z twojego cmentarza na pole walki zatapowaną i atakującą."
 
 # b752b50401464f6d81f0b312bd5e871c
 #: ../../FRF.rst:514
@@ -1820,7 +1832,7 @@ msgid ""
 "target attacking creature and that's tapped and attacking. Exile the token "
 "at end of combat."
 msgstr ""
-"Ilekroć Flamerush Rider atakuje, połóż na polu walki zaznaczony i atakujący "
+"Ilekroć Flamerush Rider atakuje, połóż na polu walki zatapowany i atakujący "
 "żeton, który jest kopią innego wskazanego atakującego stwora. Wypędź ów "
 "żeton na końcu walki."
 
@@ -2011,7 +2023,7 @@ msgid ""
 "Untap those creatures. They gain haste until end of turn."
 msgstr ""
 "Przejmij władanie do końca tury nad wszystkimi stworami o sile 4 lub "
-"większej. Odznacz owe stwory. Zyskują one Pośpiech do końca tury."
+"większej. Odtapuj owe stwory. Zyskują one Pośpiech do końca tury."
 
 # a833dd0737494d3681984334fa7adf77
 #: ../../FRF.rst:609
@@ -2020,7 +2032,7 @@ msgid ""
 "those creatures. They gain haste until end of turn."
 msgstr ""
 "Przejmij władanie do końca tury nad wszystkimi stworami o sile 3 lub "
-"mniejszej. Odznacz owe stwory. Zyskują one Pośpiech do końca tury."
+"mniejszej. Odtapuj owe stwory. Zyskują one Pośpiech do końca tury."
 
 # e9992ce1fb754dccad566bb83ae3e835
 #: ../../FRF.rst:618
@@ -2471,7 +2483,7 @@ msgid ""
 "tapped, then shuffle your library. Bolster 1. (Choose a creature with the "
 "least toughness among creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
-"Poszukaj w twojej bibliotece karty zwykłego lądu, połóż ją zaznaczoną na "
+"Poszukaj w twojej bibliotece karty zwykłego lądu, połóż ją zatapowaną na "
 "polu walki, następnie przetasuj twoją bibliotekę. Wesprzyj 1. (Wybierz "
 "stwora z najmniejszą wytrzymałością spośród stworów, którymi władasz i połóż "
 "na nim znacznik +1/+1.)"
@@ -2500,7 +2512,7 @@ msgid ""
 "Untap it."
 msgstr ""
 "Wskazany nieatakujący stwór zyskuje do końca tury Zasięg i Dotyk Śmierci. "
-"Odznacz go."
+"Odtapuj go."
 
 # 2a42bda08bca4b029f110777e69cfa21
 #: ../../FRF.rst:757
@@ -2897,9 +2909,9 @@ msgid ""
 "opponent controls. That permanent doesn't untap during its controller's next "
 "untap step."
 msgstr ""
-"Ilekroć Smok, którym władasz atakuje, zaznacz wskazany nielądowy permanent "
+"Ilekroć Smok, którym władasz atakuje, zatapuj wskazany nielądowy permanent "
 "władany przez przeciwnika. Ów permanent nie odznacza się w najbliższym kroku "
-"odznaczania swojego władcy."
+"odtapowania swojego władcy."
 
 # d6017d43b77040009fd4579cd1ddfdb1
 #: ../../FRF.rst:878
@@ -3048,7 +3060,7 @@ msgstr "Bloodfell Caves"
 # aa2436488451450cb2473b755ee13dc4
 #: ../../FRF.rst:917
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr "Bloodfell Caves wchodzi na pole walki zaznaczony."
+msgstr "Bloodfell Caves wchodzi na pole walki zatapowany."
 
 # 584bee6d1d0d49c2b7649bba8f8416ad
 #: ../../FRF.rst:919
@@ -3069,7 +3081,7 @@ msgstr "Blossoming Sands (Kwitnące Piaski)"
 # a759aa48a5f646d980f71dde46eb8ef5
 #: ../../FRF.rst:925
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr "Kwitnące Piaski wchodzi na pole walki zaznaczony."
+msgstr "Blossoming Sands wchodzi na pole walki zatapowany."
 
 # e8c2e9e3435d43a281c76d0639755643
 #: ../../FRF.rst:927
@@ -3119,7 +3131,7 @@ msgstr "Dismal Backwater"
 # f121f42d4c204cd9a5997b382073e958
 #: ../../FRF.rst:941
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr "Dismal Backwater wchodzi na pole walki zaznaczony."
+msgstr "Dismal Backwater wchodzi na pole walki zatapowany."
 
 # 8dba136075de4fe3980f88e244be9be2
 #: ../../FRF.rst:943
@@ -3140,7 +3152,7 @@ msgstr "Jungle Hollow"
 # 63ab3785d9e34dffb1e258eda492b95b
 #: ../../FRF.rst:949
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr "Jungle Hollow wchodzi na pole walki zaznaczony."
+msgstr "Jungle Hollow wchodzi na pole walki zatapowany."
 
 # 1d16d7b3084347979e4a7487f5d6c97a
 #: ../../FRF.rst:951
@@ -3161,7 +3173,7 @@ msgstr "Rugged Highlands"
 # 588a23b51cca469fbe766ac552134795
 #: ../../FRF.rst:957
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr "Rugged Highlands wchodzi na pole walki zaznaczony."
+msgstr "Rugged Highlands wchodzi na pole walki zatapowany."
 
 # d9b82f48e7584558867a6e8381afde32
 #: ../../FRF.rst:959
@@ -3183,7 +3195,7 @@ msgstr "Scoured Barrens"
 # ea4db5af406f4b779f9d1803b6cb88cc
 #: ../../FRF.rst:965
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr "Scoured Barrens wchodzi na pole walki zaznaczony."
+msgstr "Scoured Barrens wchodzi na pole walki zatapowany."
 
 # 3dd74a44cca44190b11b59a089bbc427
 #: ../../FRF.rst:967
@@ -3205,7 +3217,7 @@ msgstr "Swiftwater Cliffs"
 # 0436a7d4993a48d8b46d22cfe38f503b
 #: ../../FRF.rst:973
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr "Swiftwater Cliffs wchodzi na pole walki zaznaczony."
+msgstr "Swiftwater Cliffs wchodzi na pole walki zatapowany."
 
 # 8259dcf56cc74dfba803390479b1252f
 #: ../../FRF.rst:975
@@ -3248,7 +3260,7 @@ msgstr "Tranquil Cove"
 # 8c8ec4d55a0343e199660c57ee40f2f6
 #: ../../FRF.rst:989
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr "Tranquil Cove wchodzi na pole walki zaznaczony."
+msgstr "Tranquil Cove wchodzi na pole walki zatapowany."
 
 # 6c32109ad01f4ac8a66ecf0785d84077
 #: ../../FRF.rst:991
@@ -3270,7 +3282,7 @@ msgstr "Wind-Scarred Crag"
 # 4be05d8ff8984f3d84e9f3f890007afb
 #: ../../FRF.rst:997
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr "Wind-Scarred Crag wchodzi na pole walki zaznaczony."
+msgstr "Wind-Scarred Crag wchodzi na pole walki zatapowany."
 
 # 679607247ece46babc5be820e5b837e4
 #: ../../FRF.rst:999
