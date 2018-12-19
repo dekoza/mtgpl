@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 10:19+0000\n"
+"PO-Revision-Date: 2018-12-19 14:55+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -535,7 +535,7 @@ msgstr ""
 # 0fe1f4ca9068403d8d2781bd890296c2
 #: ../../M15.rst:183
 msgid "Destroy target artifact or enchantment. You gain 4 life."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
 
 # 58aadfa5635441df813d114dbbdb0b7f
 #: ../../M15.rst:192
@@ -3488,8 +3488,9 @@ msgstr ""
 
 # da4d97a85a34453fb56f90f9c21011b7
 #: ../../M15.rst:1414
+#, fuzzy
 msgid "Serra Angel"
-msgstr ""
+msgstr "Serra Angel"
 
 # 83f082ed0e3e4ec5aa73268268837bac
 #: ../../M15.rst:1418
