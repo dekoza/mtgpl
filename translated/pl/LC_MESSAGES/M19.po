@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 10:19+0000\n"
+"PO-Revision-Date: 2018-12-19 14:55+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -218,12 +218,13 @@ msgid "Creatures you control get +2/+1 until end of turn."
 msgstr ""
 
 #: ../../M19.rst:86
+#, fuzzy
 msgid "Invoke the Divine"
-msgstr ""
+msgstr "Invoke the Divine"
 
 #: ../../M19.rst:85
 msgid "Destroy target artifact or enchantment. You gain 4 life."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
 
 #: ../../M19.rst:90
 msgid "Isolate"
@@ -374,14 +375,17 @@ msgid "Oreskos Swiftclaw"
 msgstr ""
 
 #: ../../M19.rst:166
+#, fuzzy
 msgid "Pegasus Courser"
-msgstr ""
+msgstr "Pegasus Courser"
 
 #: ../../M19.rst:165
 msgid ""
 "Whenever Pegasus Courser attacks, another target attacking creature gains "
 "flying until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, inny wskazany atakujący stwór zyskuje latanie do "
+"końca tury."
 
 #: ../../M19.rst:172
 msgid "Remorseful Cleric"
