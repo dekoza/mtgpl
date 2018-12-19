@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-19 10:19+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -123,8 +123,8 @@ msgid ""
 "Whenever Bazaar Krovod attacks, another target attacking creature gets "
 "+0/+2 until end of turn. Untap that creature."
 msgstr ""
-"Ilekroć Bazaar Krovod atakuje inny atakujący stwór dostaje +0/+2 do końca"
-" tury. Odznacz owego stwora."
+"Ilekroć Bazaar Krovod atakuje inny atakujący stwór dostaje +0/+2 do końca "
+"tury. Odtapuj owego stwora."
 
 #: ../../RTR.rst:68
 msgid "Concordia Pegasus"
@@ -447,7 +447,7 @@ msgid ""
 "Whenever enchanted land becomes tapped, its controller puts the top three"
 " cards of their library into their graveyard."
 msgstr ""
-"Ilekroć zauroczony ląd zostaje zaznaczony, jego władca wkłada trzy "
+"Ilekroć zauroczony ląd zostaje zatapowany, jego władca wkłada trzy "
 "wierzchnie karty swojej biblioteki do swojego cmentarza."
 
 #: ../../RTR.rst:263
@@ -668,7 +668,7 @@ msgstr ""
 
 #: ../../RTR.rst:373
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 #: ../../RTR.rst:381
 msgid "Psychic Spiral"
@@ -853,8 +853,7 @@ msgid ""
 "If a player does, tap Desecration Demon and put a +1/+1 counter on it."
 msgstr ""
 "Na początku każdej walki dowolny przeciwnik może poświęcić stwora. Jeśli "
-"któryś tak zrobi, zaznacz Desecration Demon i połóż na nim znacznik "
-"+1/+1."
+"któryś tak zrobi, zatapuj Desecration Demon i połóż na nim znacznik +1/+1."
 
 #: ../../RTR.rst:520
 msgid "Destroy the Evidence"
@@ -1402,8 +1401,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. "
 "Until end of turn, it gets +2/+0 and gains haste."
 msgstr ""
-"Przejmij władanie nad wskazanym stworem do końca tury. Odznacz owego "
-"stwora. Do końca tury dostaje on +2/+0 oraz pośpiech."
+"Przejmij władanie nad wskazanym stworem do końca tury. Odtapuj owego stwora. "
+"Do końca tury dostaje on +2/+0 oraz pośpiech."
 
 #: ../../RTR.rst:894
 msgid "Utvara Hellkite"
@@ -1680,7 +1679,7 @@ msgstr ""
 #: ../../RTR.rst:1054
 msgid "As long as it's not your turn, tapped creatures you control have hexproof."
 msgstr ""
-"Dopóki nie jest twoja tura, zaznaczone stwory, którymi władasz, mają "
+"Dopóki nie jest twoja tura, zatapowane stwory, którymi władasz, mają "
 "antyklątwę."
 
 #: ../../RTR.rst:1062
@@ -1701,7 +1700,7 @@ msgstr ""
 
 #: ../../RTR.rst:1068
 msgid "Target creature gets +2/+2 until end of turn. Untap that creature."
-msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Odznacz owego stwora."
+msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Odtapuj owego stwora."
 
 #: ../../RTR.rst:1076
 msgid "Seek the Horizon"
@@ -1755,7 +1754,7 @@ msgid ""
 "Enchanted land has \"Untap this land during each other player's untap "
 "step.\""
 msgstr ""
-"Zauroczony ląd ma \\\"Odznacz ten ląd podczas kroku odznaczania każdego "
+"Zauroczony ląd ma \\\"Odtapuj ten ląd podczas kroku odtapowania każdego "
 "innego gracza.\\\""
 
 #: ../../RTR.rst:1113
@@ -1855,37 +1854,38 @@ msgid "Creatures you control gain lifelink until end of turn."
 msgstr "Stwory pod twoim władaniem zyskują więź życia do końca tury."
 
 #: ../../RTR.rst:1170
-#, fuzzy
 msgid "Put target attacking or blocking creature on top of its owner's library."
 msgstr ""
-"Wybierz jedno — Stwory, którymi władasz zyskują więź życia do końca tury;"
-" albo dobierz kartę; albo połóż wskazanego atakującego lub blokującego "
-"stwora na wierzchu biblioteki jego właściciela."
+"Połóż wskazanego atakującego lub blokującego stwora na wierzchu biblioteki "
+"jego właściciela."
 
 #: ../../RTR.rst:1178
+#, fuzzy
 msgid "Call of the Conclave"
-msgstr ""
+msgstr "Call of the Conclave"
 
 #: ../../RTR.rst:1177
-#, fuzzy
 msgid "Create a 3/3 green Centaur creature token."
 msgstr "Połóż na polu walki żeton zielonego stwora Centaur 3/3."
 
 #: ../../RTR.rst:1187
+#, fuzzy
 msgid "Carnival Hellsteed"
-msgstr ""
+msgstr "Carnival Hellsteed"
 
 #: ../../RTR.rst:1194
+#, fuzzy
 msgid "Centaur Healer"
-msgstr ""
+msgstr "Centaur Healer"
 
 #: ../../RTR.rst:1193
 msgid "When Centaur Healer enters the battlefield, you gain 3 life."
-msgstr "Kiedy Centaur Healer wchodzi na pole walki, zyskujesz 3 życia."
+msgstr "Kiedy Centaur Healer wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../RTR.rst:1203
+#, fuzzy
 msgid "Chemister's Trick"
-msgstr ""
+msgstr "Chemister's Trick"
 
 #: ../../RTR.rst:1200
 msgid ""
@@ -2792,8 +2792,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Blistercoil Weird gets "
 "+1/+1 until end of turn. Untap it."
 msgstr ""
-"Ilekroć rzucasz czar sztuczki lub obrzędu, Blistercoil Weird dostaje "
-"+1/+1 do końca tury. Odznacz go."
+"Ilekroć rzucasz czar sztuczki lub obrzędu, Blistercoil Weird dostaje +1/+1 "
+"do końca tury. Odtapuj go."
 
 #: ../../RTR.rst:1758
 msgid "Cryptborn Horror"
@@ -3149,7 +3149,7 @@ msgstr "Azorius Guildgate (Brama Gildii Azorius)"
 
 #: ../../RTR.rst:1966
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr "Brama Gildii Azorius wchodzi na pole walki zaznaczona."
+msgstr "Brama Gildii Azorius wchodzi na pole walki zatapowana."
 
 #: ../../RTR.rst:1978
 msgid "Blood Crypt"
@@ -3166,7 +3166,7 @@ msgid ""
 "Blood Crypt enters the battlefield tapped."
 msgstr ""
 "Kładąc Blood Crypt na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz Blood Crypt wchodzi na pole walki zaznaczony."
+"zrobisz Blood Crypt wchodzi na pole walki zatapowany."
 
 #: ../../RTR.rst:1987
 msgid "Golgari Guildgate"
@@ -3174,7 +3174,7 @@ msgstr ""
 
 #: ../../RTR.rst:1984
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 #: ../../RTR.rst:1996
 msgid "Grove of the Guardian"
@@ -3191,8 +3191,8 @@ msgid ""
 "control, Sacrifice Grove of the Guardian: Create an 8/8 green and white "
 "Elemental creature token with vigilance."
 msgstr ""
-"|mana_3| |mana_g| |mana_w|, |tap|, zaznacz dwa odznaczone stwory, którymi"
-" władasz, poświęć Grove of the Guardian: Połóż na polu walki żeton biało-"
+"|mana_3| |mana_g| |mana_w|, |tap|, zatapuj dwa odznaczone stwory, którymi "
+"władasz, poświęć Grove of the Guardian: Połóż na polu walki żeton biało-"
 "zielonego stwora Elemental 8/8 z czujnością."
 
 #: ../../RTR.rst:2005
@@ -3209,8 +3209,8 @@ msgid ""
 "As Hallowed Fountain enters the battlefield, you may pay 2 life. If you "
 "don't, Hallowed Fountain enters the battlefield tapped."
 msgstr ""
-"Kładąc Hallowed Fountain na polu walki możesz zapłacić 2 życia. Jeśli "
-"tego nie zrobisz, Hallowed Fountain wchodzi na pole walki zaznaczony."
+"Kładąc Hallowed Fountain na polu walki możesz zapłacić 2 życia. Jeśli tego "
+"nie zrobisz, Hallowed Fountain wchodzi na pole walki zatapowany."
 
 #: ../../RTR.rst:2014
 msgid "Izzet Guildgate"
@@ -3218,7 +3218,7 @@ msgstr "Izzet Guildgate (Brama Gildii Izzet)"
 
 #: ../../RTR.rst:2011
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 #: ../../RTR.rst:2023
 msgid "Overgrown Tomb"
@@ -3233,8 +3233,8 @@ msgid ""
 "As Overgrown Tomb enters the battlefield, you may pay 2 life. If you "
 "don't, Overgrown Tomb enters the battlefield tapped."
 msgstr ""
-"Kładąc Overgrown Tomb na polu walki możesz zapłacić 2 życia. Jeśli tego "
-"nie zrobisz, Overgrown Tomb wchodzi na pole walki zaznaczony."
+"Kładąc Overgrown Tomb na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, Overgrown Tomb wchodzi na pole walki zatapowany."
 
 #: ../../RTR.rst:2032
 msgid "Rakdos Guildgate"
@@ -3242,7 +3242,7 @@ msgstr "Rakdos Guildgate (Brama Gildii Rakdos)"
 
 #: ../../RTR.rst:2029
 msgid "Rakdos Guildgate enters the battlefield tapped."
-msgstr "Rakdos Guildgate wchodzi na pole walki zaznaczony."
+msgstr "Rakdos Guildgate wchodzi na pole walki zatapowany."
 
 #: ../../RTR.rst:2041
 msgid "Rogue's Passage"
@@ -3258,7 +3258,7 @@ msgstr "Selesnya Guildgate (Brama Gildii Selesnya)"
 
 #: ../../RTR.rst:2047
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 #: ../../RTR.rst:2059
 #, fuzzy
@@ -3275,7 +3275,7 @@ msgid ""
 "Steam Vents enters the battlefield tapped."
 msgstr ""
 "Kładąc Steam Vents na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz Steam Vents wchodzi na pole walki zaznaczony."
+"zrobisz Steam Vents wchodzi na pole walki zatapowany."
 
 #: ../../RTR.rst:2068
 msgid "Temple Garden"
@@ -3290,8 +3290,8 @@ msgid ""
 "As Temple Garden enters the battlefield, you may pay 2 life. If you "
 "don't, Temple Garden enters the battlefield tapped."
 msgstr ""
-"Kładąc Temple Garden na pole walki możesz zapłacić 2 życia. Jeśli tego "
-"nie zrobisz Temple Garden wchodzi na pole walki zaznaczony."
+"Kładąc Temple Garden na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz Temple Garden wchodzi na pole walki zatapowany."
 
 #: ../../RTR.rst:2079
 #, fuzzy
@@ -3300,7 +3300,7 @@ msgstr "Transguild Promenade"
 
 #: ../../RTR.rst:2074
 msgid "Transguild Promenade enters the battlefield tapped."
-msgstr "Transguild Promenade wchodzi na pole walki zaznaczony."
+msgstr "Transguild Promenade wchodzi na pole walki zatapowany."
 
 #: ../../RTR.rst:2076
 msgid ""
