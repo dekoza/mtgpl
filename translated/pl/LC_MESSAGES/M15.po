@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-17 09:21+0000\n"
+"PO-Revision-Date: 2018-12-19 10:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -310,7 +310,7 @@ msgstr "Błysk"
 # 639b32bdc5cf40efbc2078234f0c7056
 #: ../../M15.rst:89
 msgid "Creatures entering the battlefield don't cause abilities to trigger."
-msgstr ""
+msgstr "Stwory wchodzące na pole walki nie powodują wyzwalania zdolności."
 
 # a1e580284a6442179989f0bf604301f2
 #: ../../M15.rst:94
@@ -3493,8 +3493,9 @@ msgstr ""
 
 # 83f082ed0e3e4ec5aa73268268837bac
 #: ../../M15.rst:1418
+#, fuzzy
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 # 1c27e5906797410b82fe02b9932c0172
 #: ../../M15.rst:1417
