@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 14:55+0000\n"
+"PO-Revision-Date: 2018-12-19 21:47+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -803,8 +803,9 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:374
+#, fuzzy
 msgid "Negate"
-msgstr ""
+msgstr "Negate"
 
 #: ../../ORI.rst:373
 msgid "Counter target noncreature spell."
