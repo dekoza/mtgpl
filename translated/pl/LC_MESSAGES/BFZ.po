@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-18 18:25+0000\n"
+"PO-Revision-Date: 2018-12-19 14:36+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bfz/pl/>\n"
 "Language: pl\n"
@@ -953,6 +953,8 @@ msgid ""
 "Scry 1. (Look at the top card of your library. You may put that card on the "
 "bottom of your library.)"
 msgstr ""
+"Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. Możesz położyć ową "
+"kartę na spodzie twojej biblioteki.)"
 
 #: ../../BFZ.rst:446
 msgid "Roilmage's Trick"
@@ -2817,7 +2819,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1377
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|."
 
 #: ../../BFZ.rst:1384
 msgid "Smoldering Marsh"
