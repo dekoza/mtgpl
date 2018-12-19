@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-17 15:42+0000\n"
+"PO-Revision-Date: 2018-12-19 10:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -548,8 +548,9 @@ msgid "Counter target creature spell."
 msgstr "Skontruj wskazany czar stwora."
 
 #: ../../M19.rst:252
+#, fuzzy
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: ../../M19.rst:251
 msgid "Counter target spell."
@@ -3120,7 +3121,7 @@ msgstr "Sun Sentinel"
 
 #: ../../M19.rst:1590
 msgid "Air Elemental"
-msgstr ""
+msgstr "Air Elemental (Żywiołak powietrza)"
 
 #: ../../M19.rst:1596
 msgid "Befuddle"
