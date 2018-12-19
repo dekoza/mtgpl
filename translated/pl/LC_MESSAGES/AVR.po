@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-17 08:45+0000\n"
+"PO-Revision-Date: 2018-12-19 10:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
@@ -593,12 +593,13 @@ msgid ""
 msgstr ""
 
 #: ../../AVR.rst:423
+#, fuzzy
 msgid "Favorable Winds"
-msgstr ""
+msgstr "Favorable Winds"
 
 #: ../../AVR.rst:422
 msgid "Creatures you control with flying get +1/+1."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mające latanie dostają +1/+1."
 
 #: ../../AVR.rst:432
 msgid "Fettergeist"
