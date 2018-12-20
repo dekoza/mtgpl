@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-18 18:25+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -136,7 +136,7 @@ msgid ""
 "Artifacts and creatures your opponents control enter the battlefield tapped."
 msgstr ""
 "Artefakty i stwory, którymi władają twoi przeciwnicy wchodzą na pole walki "
-"zaznaczone."
+"zatapowane."
 
 # 7bb2144a24994a6daf3305f7b2755e8a
 #: ../../GTC.rst:40
@@ -163,7 +163,7 @@ msgid ""
 "Whenever another white creature enters the battlefield under your control, "
 "tap target creature an opponent controls."
 msgstr ""
-"Ilekroć inny biały stwór wchodzi na pole walki pod twoim władaniem, zaznacz "
+"Ilekroć inny biały stwór wchodzi na pole walki pod twoim władaniem, zatapuj "
 "wskazanego stwora władanego przez przeciwnika."
 
 # bf5ca91129864257835658c25d9ef869
@@ -406,7 +406,7 @@ msgid ""
 "attack, Nav Squad Commandos gets +1/+1 until end of turn. Untap it."
 msgstr ""
 "Batalion — Ilekroć Nav Squad Commandos i co najmniej dwa inne stwory "
-"atakują, Nav Squad Commandos dostaje +1/+1 do końca tury. Odznacz go."
+"atakują, Nav Squad Commandos dostaje +1/+1 do końca tury. Odtapuj go."
 
 # 5c94ed7e09ab498499e8b945664c2f61
 #: ../../GTC.rst:126
@@ -597,7 +597,7 @@ msgid ""
 "its controller's next untap step."
 msgstr ""
 "Zaznacz wskazanego stwora władanego przez przeciwnika. Ten stwór nie "
-"odznacza się podczas następnego kroku odznaczania jego władcy."
+"odznacza się podczas następnego kroku odtapowania jego władcy."
 
 # 626a9431614044d0be1ffaf686325200
 # ca8e72d3fa404caea986b9c8b85bf467
@@ -918,7 +918,7 @@ msgstr "Zauroczony ląd jest Bagnem."
 # a072930de07f40499d26d564322481b5
 #: ../../GTC.rst:317
 msgid "Whenever enchanted land becomes tapped, its controller loses 2 life."
-msgstr "Ilekroć zauroczony ląd zostaje zaznaczony, jego władca traci 2 życia."
+msgstr "Ilekroć zauroczony ląd zostaje zatapowany, jego władca traci 2 życia."
 
 # 9fddcfcbf315485eabc602bfc858a695
 #: ../../GTC.rst:324
@@ -943,8 +943,8 @@ msgstr "Crypt Ghast (Upiór z Krypty)"
 #, fuzzy
 msgid "Whenever you tap a Swamp for mana, add an additional |mana_b|."
 msgstr ""
-"Ilekroć zaznaczasz Bagno pobierając manę, dodaj |mana_b| do twojej puli many "
-"(jako dodatkową do tej, którą produkuje ląd)."
+"Ilekroć tapujesz Bagno pobierając manę, dodaj |mana_b| do twojej puli many ("
+"jako dodatkową do tej, którą produkuje ląd)."
 
 # a976bdd81c29425c8c9fa86dff5d529e
 #: ../../GTC.rst:336
@@ -1265,7 +1265,7 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Zyskujesz władanie nad wskazanym stworem do końca tury. Odznacz owego "
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odtapuj owego "
 "stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej "
 "turze.)"
 
@@ -1487,7 +1487,7 @@ msgid ""
 "creature. Other creatures that player controls can't block this turn."
 msgstr ""
 "Wskazany stwór, którym włada przeciwnik blokuje w tej turze jeśli może. "
-"Odznacz owego stwora. Pozostałe stwory władane przez owego gracza nie mogą "
+"Odtapuj owego stwora. Pozostałe stwory władane przez owego gracza nie mogą "
 "blokować w tej turze."
 
 # 0fe9e9f8906d4485960a61ffa07cc54c
@@ -1519,7 +1519,7 @@ msgid ""
 msgstr ""
 "Kiedy Molten Primordial wchodzi na pole walki, dla każdego z przeciwników "
 "przejmij do końca tury władanie nad co najwyżej jednym wskazanym stworem "
-"władanym przez owego gracza. Odznacz te stwory. Zyskują one pośpiech do "
+"władanym przez owego gracza. Odtapuj te stwory. Zyskują one pośpiech do "
 "końca tury."
 
 # 8ed3c4b2c9b844bd87a3cbe36f076627
@@ -1796,7 +1796,7 @@ msgstr ""
 # 427ab44206c64760ab3c00101f72bf60
 #: ../../GTC.rst:627
 msgid "|tap|: Untap target Gate."
-msgstr "|tap|: Odznacz wskazaną Bramę."
+msgstr "|tap|: Odtapuj wskazaną Bramę."
 
 # 162b617458e6482782437faa6bae42eb
 #: ../../GTC.rst:634
@@ -1998,7 +1998,7 @@ msgstr ""
 "Kiedy Sylvan Primordial wchodzi na pole walki, dla każdego ze swoich "
 "przeciwników, zniszcz wskazany permanent nie będący stworem władany przez "
 "owego gracza. Dla każdego permanentu zniszczonego w ten sposób, poszukaj w "
-"twojej bibliotece karty Lasu i połóż ją zaznaczoną na polu walki. Następnie "
+"twojej bibliotece karty Lasu i połóż ją zatapowaną na polu walki. Następnie "
 "przetasuj twoją bibliotekę."
 
 # 0331e4ac032940f9b186ea20c58023d5
@@ -2028,9 +2028,9 @@ msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional one mana of any color."
 msgstr ""
-"Ilekroć zauroczony ląd jest zaznaczany przy pobieraniu many, jego władca "
-"dodaje jedną manę dowolnego koloru do swojej puli many (jako dodatek do "
-"many, którą ów ląd wytworzył)."
+"Ilekroć zauroczony ląd jest tapowany przy pobieraniu many, władający nim "
+"gracz dodaje jedną manę dowolnego koloru do swojej puli many (oprócz many, "
+"którą ten ląd produkuje)."
 
 # 43ef0510a8044aa69e0365e29bc6da01
 #: ../../GTC.rst:708
@@ -2525,7 +2525,7 @@ msgid ""
 "card onto the battlefield tapped. Then shuffle your library."
 msgstr ""
 "Zniszcz wskazany ląd. Poszukaj w twojej bibliotece karty zwykłego lądu i "
-"połóż ją zaznaczoną na polu walki. Następnie przetasuj twoją bibliotekę."
+"połóż ją zatapowaną na polu walki. Następnie przetasuj twoją bibliotekę."
 
 # c58f04a595fd47eb9a97f75585501922
 #: ../../GTC.rst:876
@@ -3700,7 +3700,7 @@ msgstr ""
 # a303781413a341c487e1f8d439eb00a4
 #: ../../GTC.rst:1265
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # d242917238044f3faffb800675d4a107
 #: ../../GTC.rst:1274
@@ -3720,7 +3720,7 @@ msgid ""
 "Breeding Pool enters the battlefield tapped."
 msgstr ""
 "Kładąc Breeding Pool na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, Breeding Pool wchodzi na pole walki zaznaczony."
+"zrobisz, Breeding Pool wchodzi na pole walki zatapowany."
 
 # 3029c5f56974428e841e8f8c020e6f0e
 #: ../../GTC.rst:1280
@@ -3730,7 +3730,7 @@ msgstr ""
 # 6ea92957886b4a7ca5445808e11fee79
 #: ../../GTC.rst:1277
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # 5caaa0abcf434d7588c68e7a046862c0
 #: ../../GTC.rst:1286
@@ -3750,7 +3750,7 @@ msgid ""
 "Godless Shrine enters the battlefield tapped."
 msgstr ""
 "Kładąc Bezbożną Kaplicę na polu walki, możesz zapłacić 2 życia. Jeśli tego "
-"nie zrobisz, Bezbożna Kaplica wchodzi na pole walki zaznaczona."
+"nie zrobisz, Bezbożna Kaplica wchodzi na pole walki zatapowana."
 
 # 2dd15ec39b0e4f62b114e65270c26c5b
 #: ../../GTC.rst:1292
@@ -3760,7 +3760,7 @@ msgstr ""
 # 88cffb06b8304954940c9c632c3255ae
 #: ../../GTC.rst:1289
 msgid "Gruul Guildgate enters the battlefield tapped."
-msgstr "Gruul Guildgate wchodzi na pole walki zaznaczony."
+msgstr "Gruul Guildgate wchodzi na pole walki zatapowany."
 
 # 3fd2872c08bd4ce6840e8b11c69349cc
 #: ../../GTC.rst:1298
@@ -3770,7 +3770,7 @@ msgstr "Orzhov Guildgate (Brama Gildii Orzhov)"
 # 3f6fecbfa1b4498593f72dbda57c3f62
 #: ../../GTC.rst:1295
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr "Orzhov Guildgate wchodzi na pole walki zaznaczony."
+msgstr "Orzhov Guildgate wchodzi na pole walki zatapowany."
 
 # b2855b057ada4f448301abc9f7db9f1e
 #: ../../GTC.rst:1304
@@ -3789,7 +3789,7 @@ msgid ""
 "Sacred Foundry enters the battlefield tapped."
 msgstr ""
 "Kładąc Sacred Foundry na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, Sacred Foundry wchodzi na pole walki zaznaczony."
+"zrobisz, Sacred Foundry wchodzi na pole walki zatapowany."
 
 # bf4c0f9890ba41b5b68573d822857a8d
 #: ../../GTC.rst:1310
@@ -3799,7 +3799,7 @@ msgstr "Simic Guildgate (Brama Gildii Simic)"
 # d16c0d2b846b4f19a211e019b386d356
 #: ../../GTC.rst:1307
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr "Simic Guildgate wchodzi na pole walki zaznaczony."
+msgstr "Simic Guildgate wchodzi na pole walki zatapowany."
 
 # 6075bf4bbff542aa9d3524b76af74199
 #: ../../GTC.rst:1316
@@ -3819,7 +3819,7 @@ msgid ""
 "Stomping Ground enters the battlefield tapped."
 msgstr ""
 "Kładąc Stomping Ground na polu walki, możesz zapłacić 2 życia. Jeśli tego "
-"nie zrobisz, Stomping Ground wchodzi na pole walki zaznaczony."
+"nie zrobisz, Stomping Ground wchodzi na pole walki zatapowany."
 
 # 69171bbce7764beb896a293d37b75809
 #: ../../GTC.rst:1322
@@ -3857,7 +3857,7 @@ msgid ""
 "Watery Grave enters the battlefield tapped."
 msgstr ""
 "Kładąc Watery Grave na polu walki, możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, Watery Grave wchodzi na pole walki zaznaczony."
+"zrobisz, Watery Grave wchodzi na pole walki zatapowany."
 
 # a14ba0b1206c47d6a832267ba90f0822
 #~ msgid ""
