@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-20 20:19+0000\n"
+"PO-Revision-Date: 2018-12-20 21:14+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -619,7 +619,7 @@ msgid ""
 "controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
 "Szyfruj (Następnie możesz wypędzić tę kartę kodując ją na stworze, którym "
-"władasz. Ilekroć ów stwór zada graczowi obrażenia bojowe, jego władca może "
+"władasz. Ilekroć ów stwór zada graczowi obrażenia bitewne, jego władca może "
 "rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
 
 # 913ada805d014cb1bac66f624ff837be
@@ -677,7 +677,7 @@ msgid ""
 "When Leyline Phantom deals combat damage, return it to its owner's hand. "
 "(Return it only if it survived combat.)"
 msgstr ""
-"Kiedy Leyline Phantom zadaje obrażenia bojowe, zwróć go do ręki jego "
+"Kiedy Leyline Phantom zadaje obrażenia bitewne, zwróć go do ręki jego "
 "właściciela. (Zwróć go tylko jeśli przeżył bitwę.)"
 
 # 276e63299dd745089ba301763ba2b7f1
@@ -1073,7 +1073,7 @@ msgid ""
 "seven cards of that player's library, then put a creature card from among "
 "them onto the battlefield under your control."
 msgstr ""
-"Ilekroć Lord of the Void zadaje graczowi obrażenia bojowe, wypędź siedem "
+"Ilekroć Lord of the Void zadaje graczowi obrażenia bitewne, wypędź siedem "
 "wierzchnich kart z biblioteki owego gracza, a następnie wybierz kartę stwora "
 "spośród nich i umieść ją na polu walki pod swoim władaniem."
 
@@ -1348,7 +1348,7 @@ msgid ""
 "Whenever a creature you control deals combat damage, put a blaze counter on "
 "Five-Alarm Fire."
 msgstr ""
-"Ilekroć stwór, którym władasz zadaje obrażenia bojowe, połóż znacznik "
+"Ilekroć stwór, którym władasz zadaje obrażenia bitewne, połóż znacznik "
 "płomienia na Five-Alarm Fire."
 
 # 609a64a22a1c453dbd41f2ec9fe7a08f
@@ -1405,7 +1405,7 @@ msgid ""
 "Whenever Hellkite Tyrant deals combat damage to a player, gain control of "
 "all artifacts that player controls."
 msgstr ""
-"Ilekroć Hellkite Tyrant zadaje graczowi obrażenia bojowe, przejmij władanie "
+"Ilekroć Hellkite Tyrant zadaje graczowi obrażenia bitewne, przejmij władanie "
 "nad wszystkimi artefaktami władanymi przez owego gracza."
 
 # cae8cd18506a478bba3d6998aecb47b0
@@ -1785,8 +1785,8 @@ msgid ""
 "Whenever Giant Adephage deals combat damage to a player, create a token "
 "that's a copy of Giant Adephage."
 msgstr ""
-"Ilekroć Giant Adephage zadaje graczowi obrażenia bojowe, połóż na polu walki "
-"żeton będący kopią Giant Adephage."
+"Ilekroć Giant Adephage zadaje graczowi obrażenia bitewne, połóż na polu "
+"walki żeton będący kopią Giant Adephage."
 
 # 7116ecd6ebe6433399d9307a18f2c781
 #: ../../GTC.rst:628
@@ -1822,8 +1822,8 @@ msgid ""
 "Prevent all combat damage that would be dealt this turn by creatures with no "
 "+1/+1 counters on them."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, które miałyby zostać zadane w tej turze "
-"przez stwory bez znaczników +1/+1."
+"Zażegnaj wszystkie obrażenia bitewne, które miałyby zostać zadane w tej "
+"turze przez stwory bez znaczników +1/+1."
 
 # 48135168f4a64f5e99c418e37a524086
 #: ../../GTC.rst:642
@@ -2173,7 +2173,7 @@ msgid ""
 "three cards of your library. Put all land cards revealed this way into your "
 "hand and the rest into your graveyard."
 msgstr ""
-"Ilekroć Borborygmos Enraged zadaje graczowi obrażenia bojowe, ujawnij trzy "
+"Ilekroć Borborygmos Enraged zadaje graczowi obrażenia bitewne, ujawnij trzy "
 "wierzchnie karty z twojej biblioteki. Weź wszystkie karty lądów ujawnione w "
 "ten sposób na rękę, a resztę połóż na swój cmentarz."
 
@@ -3403,8 +3403,8 @@ msgid ""
 "Whenever Nightveil Specter deals combat damage to a player, that player "
 "exiles the top card of their library."
 msgstr ""
-"Ilekroć Nightveil Specter zadaje graczowi obrażenia bojowe, ów gracz wypędza "
-"wierzchnią kartę swojej biblioteki."
+"Ilekroć Nightveil Specter zadaje graczowi obrażenia bitewne, ów gracz "
+"wypędza wierzchnią kartę swojej biblioteki."
 
 # b23e07fdbb3c4b56812ada90949eb618
 #: ../../GTC.rst:1177
@@ -3460,7 +3460,7 @@ msgid ""
 "Prevent all combat damage that would be dealt to Armored Transport by "
 "creatures blocking it."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, które mogłyby być zadane w Armored "
+"Zażegnaj wszystkie obrażenia bitewne, które mogłyby być zadane w Armored "
 "Transport przez stwory go blokujące."
 
 # 525344e276984a51a527d0ed2d55d3de
@@ -3483,7 +3483,7 @@ msgid ""
 msgstr ""
 "|mana_r| |mana_w|: Do końca tury Boros Keyrune staje się czerwono-białym "
 "artefaktycznym stworem Soldier 1/1 z podwójnym ciosem. (Zadaje obrażenia "
-"bojowe jako pierwszy cios oraz normalnie.)"
+"bitewne jako pierwszy cios oraz normalnie.)"
 
 # c94d6c84dc8a44ddb855c878ceaa212a
 #: ../../GTC.rst:1206
