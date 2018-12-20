@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-17 15:42+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -579,7 +579,7 @@ msgid ""
 "step."
 msgstr ""
 "Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
-"odznaczania swojego władcy."
+"odtapowania swojego władcy."
 
 # 9cbda68587324cb1af4c4cf23f973fdf
 #: ../../KTK.rst:190
@@ -662,7 +662,7 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "|mana_1| |mana_g|, |tap|, poświęć Ucieleśnienie Wiosny: Poszukaj w twojej "
-"bibliotece karty bazowego lądu, połóż ją zaznaczoną na polu walki, następnie "
+"bibliotece karty bazowego lądu, połóż ją zatapowaną na polu walki, następnie "
 "przetasuj twoją bibliotekę."
 
 # 1182a1661be4471da165a789fab8c648
@@ -719,7 +719,7 @@ msgid ""
 "creatures don't untap during their controllers' next untap steps."
 msgstr ""
 "Zaciekłość — Jeśli władasz stworem o sile 4 lub większej, owe stwory nie "
-"odznaczą się podczas najbliższych kroków odznaczania ich władców."
+"odznaczą się podczas najbliższych kroków odtapowania ich władców."
 
 # 20e775b5cc344c2ab61b6a6058187f48
 #: ../../KTK.rst:226
@@ -914,7 +914,7 @@ msgstr ""
 # 250a9f62d257480982181a79550b5790
 #: ../../KTK.rst:301
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 # ce5dc70be7d0465caee993d2c048a7b8
 #: ../../KTK.rst:303
@@ -1507,7 +1507,7 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Zyskujesz władanie nad wskazanym stworem do końca tury. Odznacz owego "
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odtapuj owego "
 "stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej "
 "turze.)"
 
@@ -2839,7 +2839,7 @@ msgid ""
 "Untap all creatures you control. They gain flying and double strike until "
 "end of turn."
 msgstr ""
-"Odznacz wszystkie stwory, którymi władasz. Zyskują one do końca tury Latanie "
+"Odtapuj wszystkie stwory, którymi władasz. Zyskują one do końca tury Latanie "
 "oraz Podwójny Cios."
 
 # 6e900277928944b5a1bc4952efd8a228
@@ -2890,8 +2890,8 @@ msgid ""
 "Untap each creature you control with a +1/+1 counter on it during each other "
 "player's untap step."
 msgstr ""
-"Odznacz każdego stwora, którym władasz mającego znacznik +1/+1 podczas kroku "
-"odznaczania każdego innego gracza."
+"Odtapuj każdego stwora, którym władasz mającego znacznik +1/+1 podczas kroku "
+"odtapowania każdego innego gracza."
 
 # c94cfd44593e4ca2ab8e68ee8ac6f044
 #: ../../KTK.rst:968
@@ -2905,7 +2905,7 @@ msgid ""
 "end of turn. Untap those creatures."
 msgstr ""
 "Ilekroć rzucasz czar nie będący stworem, stwory, którymi władasz, dostają do "
-"końca tury +1/+1. Odznacz owe stwory."
+"końca tury +1/+1. Odtapuj owe stwory."
 
 # f5b58811c3d0409b81bfef6f74bed4e1
 #: ../../KTK.rst:967
@@ -3462,7 +3462,7 @@ msgstr "Wybierz jedno lub oba —"
 # c0264fa189f04b418213d1e30898ef48
 #: ../../KTK.rst:1161
 msgid "Tap target creature."
-msgstr "Zaznacz wskazanego stwora."
+msgstr "Zatapuj wskazanego stwora."
 
 # 284efd5132464a32b1d849a656aba1f2
 #: ../../KTK.rst:1163
@@ -3745,7 +3745,7 @@ msgstr "Bloodfell Caves"
 # 9c8e9c32df9745b1a7572a8dcb762ae6
 #: ../../KTK.rst:1255
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr "Bloodfell Caves wchodzi na pole walki zaznaczony."
+msgstr "Bloodfell Caves wchodzi na pole walki zatapowany."
 
 # 6aee438aa87349108877a43956cb7d94
 #: ../../KTK.rst:1257
@@ -3784,7 +3784,7 @@ msgstr "Blossoming Sands (Kwitnące Piaski)"
 # 78e3839257e94996bbaa3266f250807c
 #: ../../KTK.rst:1267
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr "Blossoming Sands wchodzi na pole walki zaznaczony."
+msgstr "Blossoming Sands wchodzi na pole walki zatapowany."
 
 # ad31a86a0c334636aee0a615069cce39
 #: ../../KTK.rst:1269
@@ -3805,7 +3805,7 @@ msgstr "Dismal Backwater"
 # cc18ce2c004d43d7aef685f47b24c937
 #: ../../KTK.rst:1275
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr "Dismal Backwater wchodzi na pole walki zaznaczony."
+msgstr "Dismal Backwater wchodzi na pole walki zatapowany."
 
 # e1de3becc9c743ca8707b10f80fc6576
 #: ../../KTK.rst:1277
@@ -3843,7 +3843,7 @@ msgstr "Frontier Bivouac"
 # 106a7899e4ce4dd59f3df6124f6b5bb8
 #: ../../KTK.rst:1287
 msgid "Frontier Bivouac enters the battlefield tapped."
-msgstr "Frontier Bivouac wchodzi na pole walki zaznaczony."
+msgstr "Frontier Bivouac wchodzi na pole walki zatapowany."
 
 # 28e3c18d8f1d4bfaa765d6e631880a11
 #: ../../KTK.rst:1298
@@ -3854,7 +3854,7 @@ msgstr "Jungle Hollow"
 # cf4d65cabe604c2d8e1b423dfb908e8e
 #: ../../KTK.rst:1293
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr "Jungle Hollow wchodzi na pole walki zaznaczony."
+msgstr "Jungle Hollow wchodzi na pole walki zatapowany."
 
 # 32a10229e69c42268c2e98ca356a4fc2
 #: ../../KTK.rst:1295
@@ -3925,7 +3925,7 @@ msgstr "Rugged Highlands"
 # 116c2537dd44424c8ebb8ed32c3289ac
 #: ../../KTK.rst:1323
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr ""
+msgstr "Rugged Highlands wchodzi na pole walki zatapowany."
 
 # bfae6e27e7094952b99a40a1a256682d
 #: ../../KTK.rst:1325
@@ -3958,7 +3958,7 @@ msgstr "Scoured Barrens"
 # b4f50f59f559421fb8c4f9ec27a799da
 #: ../../KTK.rst:1337
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr ""
+msgstr "Scoured Barrens wchodzi na pole walki zatapowany."
 
 # 15c7a02bc8a64ccc93ca4cdf5b1b0805
 #: ../../KTK.rst:1339
@@ -3980,7 +3980,7 @@ msgstr "Swiftwater Cliffs"
 # 9740c9b88e614b5b98122259701fd8f8
 #: ../../KTK.rst:1345
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr ""
+msgstr "Swiftwater Cliffs wchodzi na pole walki zatapowany."
 
 # cf85e3dffacc432297868cc04c295e78
 #: ../../KTK.rst:1347
@@ -4038,7 +4038,7 @@ msgstr "Tranquil Cove"
 # 2351124ede7f471db5c7fc79b92553a4
 #: ../../KTK.rst:1367
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr ""
+msgstr "Tranquil Cove wchodzi na pole walki zatapowany."
 
 # 4d796bdcaec44b55874c269a24eb1e94
 #: ../../KTK.rst:1369
@@ -4060,7 +4060,7 @@ msgstr "Wind-Scarred Crag"
 # 1da3e9926269454c9524afc38ba0be6d
 #: ../../KTK.rst:1375
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr ""
+msgstr "Wind-Scarred Crag wchodzi na pole walki zatapowany."
 
 # 80c306433ff64aa59708c5c58fc1f086
 #: ../../KTK.rst:1377
