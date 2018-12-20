@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-16 23:22+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -24,9 +24,8 @@ msgid "Guilds of Ravnica"
 msgstr "Guilds of Ravnica (Gildie Ravniki)"
 
 #: ../../GRN.rst:10
-#, fuzzy
 msgid "Blade Instructor"
-msgstr "Blade Instructor"
+msgstr "Blade Instructor (Instruktor Ostrza)"
 
 #: ../../GRN.rst:9 ../../GRN.rst:101 ../../GRN.rst:121 ../../GRN.rst:141
 #: ../../GRN.rst:479 ../../GRN.rst:535 ../../GRN.rst:575 ../../GRN.rst:631
@@ -104,7 +103,7 @@ msgid ""
 "color.)"
 msgstr ""
 "Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
-"zaznaczysz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"zatapujesz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
 "kolorze owego stwora.)"
 
 #: ../../GRN.rst:35
@@ -257,7 +256,7 @@ msgid ""
 "When Intrusive Packbeast enters the battlefield, tap up to two target "
 "creatures your opponents control."
 msgstr ""
-"Kiedy ten stwór wchodzi na pole walki, zaznacz co najwyżej dwa wskazane "
+"Kiedy ten stwór wchodzi na pole walki, zatapuj co najwyżej dwa wskazane "
 "stwory pod władaniem przeciwnika."
 
 #: ../../GRN.rst:96
@@ -409,11 +408,11 @@ msgstr "Błysk"
 
 #: ../../GRN.rst:167
 msgid "When Capture Sphere enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wchodzi na pole walki, zaznacz zauroczonego stwora."
+msgstr "Kiedy ten urok wchodzi na pole walki, zatapuj zauroczonego stwora."
 
 #: ../../GRN.rst:169
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 #: ../../GRN.rst:176
 #, fuzzy
@@ -563,8 +562,8 @@ msgid ""
 "When Guild Summit enters the battlefield, you may tap any number of untapped "
 "Gates you control. Draw a card for each Gate tapped this way."
 msgstr ""
-"Kiedy ten ląd wchodzi na pole walki, możesz zaznaczyć dowolną liczbę "
-"odznaczonych Bram, którymi władasz. Dobierz kartę za każdą Bramę zaznaczoną "
+"Kiedy ten ląd wchodzi na pole walki, możesz zatapować dowolną liczbę "
+"odznaczonych Bram, którymi władasz. Dobierz kartę za każdą Bramę zatapowaną "
 "w ten sposób."
 
 #: ../../GRN.rst:223
@@ -1608,7 +1607,7 @@ msgid ""
 "them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Poszukaj w swojej bibliotece co najwyżej dwóch kart bazowych lądów lub Bram, "
-"połóż je zaznaczone na polu walki, a następnie przetasuj twoją bibliotekę."
+"połóż je zatapowane na polu walki, a następnie przetasuj twoją bibliotekę."
 
 #: ../../GRN.rst:668
 #, fuzzy
@@ -1944,7 +1943,7 @@ msgstr "Artful Takedown"
 
 #: ../../GRN.rst:805
 msgid "Tap target creature."
-msgstr "Zaznacz wskazanego stwora."
+msgstr "Zatapuj wskazanego stwora."
 
 #: ../../GRN.rst:807
 msgid "Target creature gets -2/-4 until end of turn."
@@ -1962,7 +1961,7 @@ msgid ""
 "shuffle their library."
 msgstr ""
 "Zniszcz wskazany permanent władany przez przeciwnika. Jego władca może "
-"poszukać w swojej bibliotece kartę bazowego lądu, położyć ją zaznaczoną na "
+"poszukać w swojej bibliotece kartę bazowego lądu, położyć ją zatapowaną na "
 "polu walki, a następnie przetasować swoją bibliotekę."
 
 #: ../../GRN.rst:820
@@ -2191,7 +2190,7 @@ msgid ""
 "Whenever Emmara, Soul of the Accord becomes tapped, create a 1/1 white "
 "Soldier creature token with lifelink."
 msgstr ""
-"Ilekroć ta karta zostaje zaznaczona, stwórz żeton białego stwora Piechur 1/1 "
+"Ilekroć ta karta zostaje zatapowana, stwórz żeton białego stwora Piechur 1/1 "
 "z więzią życia."
 
 #: ../../GRN.rst:910
@@ -2318,7 +2317,7 @@ msgid ""
 "controller's next untap step."
 msgstr ""
 "|mana_1| |mana_u|, |tap|: Wskazany stwór nie odznacza się w najbliższym "
-"kroku odznaczania swojego władcy."
+"kroku odtapowania swojego władcy."
 
 #: ../../GRN.rst:949
 msgid ""
@@ -2384,7 +2383,7 @@ msgid ""
 "opponents control. Damage and effects that say \"destroy\" don't destroy "
 "them.)"
 msgstr ""
-"Odznacz wszystkie stwory pod twoim władaniem. Zyskują one antyklątwę i "
+"Odtapuj wszystkie stwory pod twoim władaniem. Zyskują one antyklątwę i "
 "niezniszczalność do końca tury. (Nie mogą być celem czarów i zdolności "
 "władanych przez twoich przeciwników. Obrażenia i efekty mówiące \"zniszcz\", "
 "nie niszczą ich.)"
@@ -2469,9 +2468,9 @@ msgid ""
 "creatures you control. Ledev Champion gets +1/+1 until end of turn for each "
 "creature tapped this way."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zaznaczyć dowolną liczbę odznaczonych "
+"Ilekroć ten stwór atakuje, możesz zatapować dowolną liczbę odznaczonych "
 "stworów pod twoim władaniem. Ten stwór dostaje +1/+1 do końca tury za "
-"każdego stwora zaznaczonego w ten sposób."
+"każdego stwora zatapowanego w ten sposób."
 
 #: ../../GRN.rst:999
 msgid ""
@@ -3415,7 +3414,7 @@ msgstr "Boros Guildgate (a)"
 
 #: ../../GRN.rst:1353 ../../GRN.rst:1359
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 #: ../../GRN.rst:1362
 #, fuzzy
@@ -3429,7 +3428,7 @@ msgstr "Dimir Guildgate (a)"
 
 #: ../../GRN.rst:1365 ../../GRN.rst:1371
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 #: ../../GRN.rst:1374
 #, fuzzy
@@ -3443,7 +3442,7 @@ msgstr "Gateway Plaza"
 
 #: ../../GRN.rst:1377
 msgid "Gateway Plaza enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 #: ../../GRN.rst:1379
 msgid ""
@@ -3459,7 +3458,7 @@ msgstr "Golgari Guildgate (a)"
 
 #: ../../GRN.rst:1385 ../../GRN.rst:1391
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 #: ../../GRN.rst:1394
 #, fuzzy
@@ -3492,7 +3491,7 @@ msgstr "Izzet Guildgate (a)"
 
 #: ../../GRN.rst:1403 ../../GRN.rst:1409
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 #: ../../GRN.rst:1412
 #, fuzzy
@@ -3513,7 +3512,7 @@ msgid ""
 "it enters the battlefield tapped."
 msgstr ""
 "Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki zaznaczony."
+"zrobisz, wchodzi na pole walki zatapowany."
 
 #: ../../GRN.rst:1424
 msgid "Sacred Foundry"
@@ -3529,7 +3528,7 @@ msgid ""
 "it enters the battlefield tapped."
 msgstr ""
 "Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki zaznaczony."
+"zrobisz, wchodzi na pole walki zatapowany."
 
 #: ../../GRN.rst:1430
 #, fuzzy
@@ -3538,7 +3537,7 @@ msgstr "Selesnya Guildgate (a)"
 
 #: ../../GRN.rst:1427 ../../GRN.rst:1433
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 #: ../../GRN.rst:1436
 #, fuzzy
@@ -3560,7 +3559,7 @@ msgid ""
 "enters the battlefield tapped."
 msgstr ""
 "Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki zaznaczony."
+"zrobisz, wchodzi na pole walki zatapowany."
 
 #: ../../GRN.rst:1448
 msgid "Temple Garden"
@@ -3576,7 +3575,7 @@ msgid ""
 "it enters the battlefield tapped."
 msgstr ""
 "Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki zaznaczony."
+"zrobisz, wchodzi na pole walki zatapowany."
 
 #: ../../GRN.rst:1454
 msgid "Watery Grave"
@@ -3592,7 +3591,7 @@ msgid ""
 "enters the battlefield tapped."
 msgstr ""
 "Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki zaznaczony."
+"zrobisz, wchodzi na pole walki zatapowany."
 
 #: ../../GRN.rst:1456
 msgid "Plains"
