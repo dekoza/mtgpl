@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2018-12-19 10:19+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
@@ -637,7 +637,7 @@ msgid ""
 "controller's next untap step."
 msgstr ""
 "Zaznacz co najwyżej dwa wskazane stwory. Owe stwory nie odznaczą się w "
-"najbliższym kroku odznaczania swojego władcy."
+"najbliższym kroku odtapowania swojego władcy."
 
 #: ../../AKH.rst:445
 msgid "Drake Haven"
@@ -912,7 +912,7 @@ msgstr ""
 
 #: ../../AKH.rst:644
 msgid "|tap|: Untap another target permanent."
-msgstr "|tap|: Odznacz inny wskazany permanent."
+msgstr "|tap|: Odtapuj inny wskazany permanent."
 
 #: ../../AKH.rst:646
 msgid ""
