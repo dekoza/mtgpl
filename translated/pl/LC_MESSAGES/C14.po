@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 21:47+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -1838,8 +1838,11 @@ msgid ""
 msgstr ""
 
 #: ../../C14.rst:799
+#, fuzzy
 msgid "Whenever you tap a Swamp for mana, add an additional |mana_b|."
 msgstr ""
+"Ilekroć tapujesz Bagno pobierając manę, dodaj |mana_b| do twojej puli many ("
+"jako dodatkową do tej, którą produkuje ląd)."
 
 #: ../../C14.rst:804
 msgid "Disciple of Bolas"
@@ -1924,10 +1927,14 @@ msgid "Liliana's Reaver"
 msgstr ""
 
 #: ../../C14.rst:841
+#, fuzzy
 msgid ""
 "Whenever Liliana's Reaver deals combat damage to a player, that player "
 "discards a card and you create a tapped 2/2 black Zombie creature token."
 msgstr ""
+"Ilekroć Liliana's Reaver zada graczowi obrażenia bojowe, ów gracz odrzuca "
+"kartę, a ty kładziesz na polu walki zatapowany żeton czarnego stwora Zombie "
+"2/2."
 
 #: ../../C14.rst:846
 msgid "Magus of the Coffers"
@@ -2895,6 +2902,9 @@ msgid ""
 "|mana_3|, Sacrifice Burnished Hart: Search your library for up to two basic "
 "land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|mana_3|, poświęć Burnished Hart: Poszukaj w twojej bibliotece najwyżej dwie "
+"karty zwykłych lądów, połóż je na polu walki zatapowane, a następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../C14.rst:1292
 msgid "Caged Sun"
@@ -3489,7 +3499,7 @@ msgstr ""
 
 #: ../../C14.rst:1581
 msgid "Bojuka Bog enters the battlefield tapped."
-msgstr ""
+msgstr "Bojuka Bog wchodzi na pole walki zatapowany."
 
 #: ../../C14.rst:1583
 msgid ""
@@ -3633,7 +3643,7 @@ msgstr ""
 
 #: ../../C14.rst:1659
 msgid "Forgotten Cave enters the battlefield tapped."
-msgstr ""
+msgstr "Zapomniana Jaskinia wchodzi na pole walki zatapowana."
 
 #: ../../C14.rst:1663
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
