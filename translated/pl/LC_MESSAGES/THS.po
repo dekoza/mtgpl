@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-20 20:19+0000\n"
+"PO-Revision-Date: 2018-12-20 21:14+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -916,8 +916,8 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, you may "
 "draw a card."
 msgstr ""
-"Ilekroć stwór, którym władasz, zada graczowi obrażenia bojowe, możesz dobrać "
-"kartę."
+"Ilekroć stwór, którym władasz, zada graczowi obrażenia bitewne, możesz "
+"dobrać kartę."
 
 # 15b12860d6f9423ab58fc177e437b490
 # 77afda2521834c9d8ae30f4406817c0d
@@ -1491,7 +1491,7 @@ msgid ""
 "player, draw a card."
 msgstr ""
 "Ilekroć Thassa's Emissary lub zauroczony stwór zada graczowi obrażenia "
-"bojowe, dobierz kartę."
+"bitewne, dobierz kartę."
 
 # 651b67d2412847f083c9cd0ae7ec8dc7
 # 8ab121b7ff624281945c4041d592d346
@@ -3231,7 +3231,7 @@ msgstr "Defend the Hearth"
 #: ../../THS.rst:857
 msgid "Prevent all combat damage that would be dealt to players this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane graczom w "
+"Zażegnaj wszystkie obrażenia bitewne, które mogłyby zostać zadane graczom w "
 "tej turze."
 
 # 7a15a90c6bcb4068bb58c402b0b8a81a
@@ -3726,8 +3726,8 @@ msgid ""
 "Until end of turn, up to two target creatures you control each gain "
 "\"Whenever this creature deals combat damage to a player, draw a card.\""
 msgstr ""
-"Do końca tury najwyżej dwa wskazane stwory, którymi władasz, dostają "
-"\"Ilekroć ten stwór zadaje graczowi obrażenia bojowe, dobierz kartę.\""
+"Do końca tury najwyżej dwa wskazane stwory, którymi władasz, dostają \""
+"Ilekroć ten stwór zadaje graczowi obrażenia bitewne, dobierz kartę.\""
 
 # ed4881f03ca940b79ab8bff276cc0940
 # 13074b861ea74113ae2acf5503b4e8a0
@@ -3878,10 +3878,11 @@ msgid ""
 "mana cost. Until end of turn, you may cast that card and you may spend mana "
 "as though it were mana of any color to cast that spell."
 msgstr ""
-"Ilekroć Daxos of Meletis zadaje graczowi obrażenia bojowe, wypędź wierzchnią "
-"kartę biblioteki owego gracza. Zyskujesz tyle życia, ile wynosi łączny koszt "
-"many owej karty. Do końca tury możesz zagrać ową kartę i możesz wydawać manę "
-"tak, jakby to była mana dowolnego koloru potrzebnego, by ją zagrać."
+"Ilekroć Daxos of Meletis zadaje graczowi obrażenia bitewne, wypędź "
+"wierzchnią kartę biblioteki owego gracza. Zyskujesz tyle życia, ile wynosi "
+"łączny koszt many owej karty. Do końca tury możesz zagrać ową kartę i możesz "
+"wydawać manę tak, jakby to była mana dowolnego koloru potrzebnego, by ją "
+"zagrać."
 
 # d9966de26cc64385bf621fa3dbc99999
 # 752a07d051334dd2a858c13b1c8df934
@@ -3979,7 +3980,7 @@ msgid ""
 "Whenever Medomai the Ageless deals combat damage to a player, take an extra "
 "turn after this one."
 msgstr ""
-"Ilekroć Medomai the Ageless zadaje graczowi obrażenia bojowe, weź dodatkową "
+"Ilekroć Medomai the Ageless zadaje graczowi obrażenia bitewne, weź dodatkową "
 "turę po bieżącej."
 
 # e19193320dcb475d9e350ea8e46edb15
@@ -4035,7 +4036,7 @@ msgid ""
 "Whenever Polis Crusher deals combat damage to a player, if Polis Crusher is "
 "monstrous, destroy target enchantment that player controls."
 msgstr ""
-"Ilekroć Polis Crusher zadaje graczowi obrażenia bojowe, jeśli Polis Crusher "
+"Ilekroć Polis Crusher zadaje graczowi obrażenia bitewne, jeśli Polis Crusher "
 "jest monstrualny, zniszcz wskazany urok, którym włada ów gracz."
 
 # d5fba2b469874f06a6ac26d0b4bc3db1
