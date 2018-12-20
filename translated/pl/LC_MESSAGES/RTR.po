@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-20 20:19+0000\n"
+"PO-Revision-Date: 2018-12-20 21:14+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -242,7 +242,7 @@ msgid ""
 "Whenever Precinct Captain deals combat damage to a player, create a 1/1 "
 "white Soldier creature token."
 msgstr ""
-"Ilekroć Precinct Captain zada graczowi obrażenia bojowe, połóż na polu "
+"Ilekroć Precinct Captain zada graczowi obrażenia bitewne, połóż na polu "
 "walki żeton białego stwora Piechur 1/1."
 
 #: ../../RTR.rst:148
@@ -473,8 +473,8 @@ msgid ""
 "Whenever Crosstown Courier deals combat damage to a player, that player "
 "puts that many cards from the top of their library into their graveyard."
 msgstr ""
-"Ilekroć Crosstown Courier zadaje graczowi obrażenia bojowe, ów gracz "
-"wkłada tyle samo kart z wierzchu swojej biblioteki do swojego cmentarza."
+"Ilekroć Crosstown Courier zadaje graczowi obrażenia bitewne, ów gracz wkłada "
+"tyle samo kart z wierzchu swojej biblioteki do swojego cmentarza."
 
 #: ../../RTR.rst:279
 msgid "Cyclonic Rift"
@@ -758,8 +758,7 @@ msgstr "Stealer of Secrets (Złodziej Tajemnic)"
 #: ../../RTR.rst:432
 msgid "Whenever Stealer of Secrets deals combat damage to a player, draw a card."
 msgstr ""
-"Ilekroć Stealer of Secrets zadaje graczowi obrażenia bojowe, dobierz "
-"kartę."
+"Ilekroć Stealer of Secrets zadaje graczowi obrażenia bitewne, dobierz kartę."
 
 #: ../../RTR.rst:440
 msgid "Syncopate"
@@ -947,7 +946,7 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, put that"
 " many +1/+1 counters on it."
 msgstr ""
-"Ilekroć stwór, którym władasz zadaje graczowi obrażenia bojowe, połóż na "
+"Ilekroć stwór, którym władasz zadaje graczowi obrażenia bitewne, połóż na "
 "nim tyle samo znaczników +1/+1."
 
 #: ../../RTR.rst:586
@@ -1565,8 +1564,8 @@ msgid ""
 "Prevent all combat damage that would be dealt to you this turn. Populate."
 " (Create a token that's a copy of a creature token you control.)"
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać ci zadane w tej"
-" turze. Zaludnij. (Połóż na polu walki żeton będący kopią żetonu stwora, "
+"Zażegnaj wszystkie obrażenia bitewne, które mogłyby zostać ci zadane w tej "
+"turze. Zaludnij. (Połóż na polu walki żeton będący kopią żetonu stwora, "
 "którym władasz."
 
 #: ../../RTR.rst:998
@@ -2427,7 +2426,7 @@ msgid ""
 "Whenever Rakdos Ringleader deals combat damage to a player, that player "
 "discards a card at random."
 msgstr ""
-"Ilekroć Rakdos Ringleader zadaje graczowi obrażenia bojowe, ów gracz "
+"Ilekroć Rakdos Ringleader zadaje graczowi obrażenia bitewne, ów gracz "
 "odrzuca losową kartę."
 
 #: ../../RTR.rst:1531
@@ -2721,8 +2720,8 @@ msgid ""
 "+1: Until your next turn, whenever a creature deals combat damage to "
 "Vraska the Unseen, destroy that creature."
 msgstr ""
-"+1: Do twojej następnej tury ilekroć stwór zada obrażenia bojowe Vraszce,"
-" zniszcz owego stwora."
+"+1: Do twojej następnej tury ilekroć stwór zada obrażenia bitewne Vraszce, "
+"zniszcz owego stwora."
 
 #: ../../RTR.rst:1721
 #, fuzzy
@@ -2735,9 +2734,8 @@ msgid ""
 "−7: Create three 1/1 black Assassin creature tokens with \"Whenever this "
 "creature deals combat damage to a player, that player loses the game.\""
 msgstr ""
-"-7: Połóż na polu walki trzy żeton stwora Zabójca 1/1 mającego "
-"\\\"Ilekroć ten stwór zada graczowi obrażenia bojowe, ów gracz przegrywa "
-"grę.\\\""
+"-7: Połóż na polu walki trzy żeton stwora Zabójca 1/1 mającego \\\"Ilekroć "
+"ten stwór zada graczowi obrażenia bitewne, ów gracz przegrywa grę.\\\""
 
 #: ../../RTR.rst:1733
 msgid "Wayfaring Temple"
@@ -2757,9 +2755,8 @@ msgid ""
 "Whenever Wayfaring Temple deals combat damage to a player, populate. "
 "(Create a token that's a copy of a creature token you control.)"
 msgstr ""
-"Ilekroć Wayfaring Temple zadaje graczowi obrażenia bojowe, zaludnij. "
-"(Połóż na polu walki żeton, będący kopią władanego przez ciebie żetonu "
-"stwora.)"
+"Ilekroć Wayfaring Temple zadaje graczowi obrażenia bitewne, zaludnij. (Połóż "
+"na polu walki żeton, będący kopią władanego przez ciebie żetonu stwora.)"
 
 #: ../../RTR.rst:1742
 msgid "Azor's Elocutors"
@@ -3037,8 +3034,8 @@ msgid ""
 "Whenever Izzet Keyrune deals combat damage to a player, you may draw a "
 "card. If you do, discard a card."
 msgstr ""
-"Ilekroć Izzet Keyrune zada graczowi obrażenia bojowe, możesz dobrać "
-"kartę. Jeśli tak zrobisz, odrzuć kartę."
+"Ilekroć Izzet Keyrune zada graczowi obrażenia bitewne, możesz dobrać kartę. "
+"Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../RTR.rst:1913
 msgid "Pithing Needle"
