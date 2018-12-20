@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-20 20:19+0000\n"
+"PO-Revision-Date: 2018-12-20 21:14+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -113,11 +113,12 @@ msgstr "Zaurocz stwora"
 
 # 8469fa237bfb4b3fbe38d971ee249db1
 #: ../../M15.rst:31
-#, fuzzy
 msgid ""
 "Enchanted creature has double strike. (It deals both first-strike and "
 "regular combat damage.)"
-msgstr "Zauroczony stwór ma podwójny cios."
+msgstr ""
+"Zauroczony stwór ma Podwójny Cios.(Zadaje zarówno obrażenia bitewne jako "
+"Pierwszy Cios oraz normalnie.)"
 
 # 77b0c089ec9b462eae83a1b51b46e3b3
 #: ../../M15.rst:36
@@ -427,6 +428,8 @@ msgid ""
 "First strike (This creature deals combat damage before creatures without "
 "first strike.)"
 msgstr ""
+"Pierwszy Cios (Ten stwór zadaje obrażenia bitewne przed stworami bez "
+"Pierwszego Ciosu.)"
 
 # c7c030f29eff4af6b77e4c1b4ec87ca9
 #: ../../M15.rst:141
