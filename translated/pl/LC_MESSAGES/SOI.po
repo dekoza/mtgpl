@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2018-12-17 09:21+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/soi/pl/>\n"
 "Language: pl\n"
@@ -1029,7 +1029,7 @@ msgid ""
 "step."
 msgstr ""
 "Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
-"odznaczania swojego władcy."
+"odtapowania swojego władcy."
 
 #: ../../SOI.rst:740
 msgid "Rattlechains"
@@ -1091,7 +1091,7 @@ msgstr ""
 
 #: ../../SOI.rst:785
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 #: ../../SOI.rst:795
 msgid "Startled Awake"
@@ -1488,8 +1488,11 @@ msgid "Gisa's Bidding"
 msgstr ""
 
 #: ../../SOI.rst:1055
+#, fuzzy
 msgid "Create two 2/2 black Zombie creature tokens."
 msgstr ""
+"Połóż na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi 2/"
+"2."
 
 #: ../../SOI.rst:1065
 msgid "Grotesque Mutation"
@@ -2795,8 +2798,11 @@ msgid "Loam Dryad"
 msgstr ""
 
 #: ../../SOI.rst:2007
+#, fuzzy
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
+"|tap|, zatapuj niezatapowanego stwora, którym władasz: Dodaj jedną manę "
+"dowolnego koloru do twojej puli many."
 
 #: ../../SOI.rst:2017
 msgid "Might Beyond Reason"
