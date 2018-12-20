@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-20 20:19+0000\n"
+"PO-Revision-Date: 2018-12-20 21:03+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -33,26 +33,31 @@ msgid "|mana_2| |mana_w|, |tap|: Tap target creature."
 msgstr "|mana_2| |mana_w|, |tap|: Zatapuj wskazanego stwora."
 
 #: ../../ORI.rst:14
+#, fuzzy
 msgid "Ampryn Tactician"
-msgstr ""
+msgstr "Ampryn Tactician"
 
 #: ../../ORI.rst:13
 msgid ""
 "When Ampryn Tactician enters the battlefield, creatures you control get +1/"
 "+1 until end of turn."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, stwory pod twoim władaniem dostają +1/+"
+"1 do końca tury."
 
 #: ../../ORI.rst:18
+#, fuzzy
 msgid "Anointer of Champions"
-msgstr ""
+msgstr "Anointer of Champions"
 
 #: ../../ORI.rst:17
 msgid "|tap|: Target attacking creature gets +1/+1 until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany atakujący stwór dostaje +1/+1 do końca tury."
 
 #: ../../ORI.rst:26
+#, fuzzy
 msgid "Archangel of Tithes"
-msgstr ""
+msgstr "Archangel of Tithes"
 
 #: ../../ORI.rst:21 ../../ORI.rst:39 ../../ORI.rst:163 ../../ORI.rst:227
 #: ../../ORI.rst:243 ../../ORI.rst:427 ../../ORI.rst:461 ../../ORI.rst:589
@@ -66,26 +71,34 @@ msgid ""
 "planeswalker you control unless their controller pays |mana_1| for each of "
 "those creatures."
 msgstr ""
+"O ile ten stwór jest odtapowany, stwory nie mogą atakować ciebie lub "
+"wędrowca pod twoim władaniem dopóki ich władcy nie zapłacą |mana_1| za "
+"każdego z owych stworów."
 
 #: ../../ORI.rst:25
 msgid ""
 "As long as Archangel of Tithes is attacking, creatures can't block unless "
 "their controller pays |mana_1| for each of those creatures."
 msgstr ""
+"O ile ten stwór atakuje, stwory nie mogą blokować o ile ich władca nie "
+"zapłaci |mana_1| za każdego z owych stworów."
 
 #: ../../ORI.rst:30
 msgid "Auramancer"
-msgstr ""
+msgstr "Auramancer (Auromanta)"
 
 #: ../../ORI.rst:29
 msgid ""
 "When Auramancer enters the battlefield, you may return target enchantment "
 "card from your graveyard to your hand."
 msgstr ""
+"Kiedy Auromanta wchodzi na pole walki, możesz przywrócić wskazaną kartę "
+"uroku z twojego cmentarza do twojej ręki."
 
 #: ../../ORI.rst:36
+#, fuzzy
 msgid "Aven Battle Priest"
-msgstr ""
+msgstr "Aven Battle Priest"
 
 #: ../../ORI.rst:33 ../../ORI.rst:49 ../../ORI.rst:185 ../../ORI.rst:259
 #: ../../ORI.rst:321 ../../ORI.rst:391 ../../ORI.rst:397 ../../ORI.rst:551
@@ -100,37 +113,39 @@ msgstr ""
 
 #: ../../ORI.rst:35
 msgid "When Aven Battle Priest enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../ORI.rst:42
+#, fuzzy
 msgid "Blessed Spirits"
-msgstr ""
+msgstr "Blessed Spirits"
 
 #: ../../ORI.rst:41
 msgid ""
 "Whenever you cast an enchantment spell, put a +1/+1 counter on Blessed "
 "Spirits."
-msgstr ""
+msgstr "Ilekroć rzucasz urok, połóż znacznik +1/+1 na tym stworze."
 
 #: ../../ORI.rst:46
 msgid "Celestial Flare"
-msgstr ""
+msgstr "Celestial Flare (Niebiański Rozbłysk)"
 
 #: ../../ORI.rst:45
 msgid "Target player sacrifices an attacking or blocking creature."
-msgstr ""
+msgstr "Wskazany gracz poświęca atakującego lub blokującego stwora."
 
 #: ../../ORI.rst:52
 msgid "Charging Griffin"
-msgstr ""
+msgstr "Charging Griffin (Szarżujący Gryf)"
 
 #: ../../ORI.rst:51
 msgid "Whenever Charging Griffin attacks, it gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Ilekroć Charging Griffin atakuje, dostaje +1/+1 do końca tury."
 
 #: ../../ORI.rst:56
+#, fuzzy
 msgid "Cleric of the Forward Order"
-msgstr ""
+msgstr "Cleric of the Forward Order"
 
 #: ../../ORI.rst:55
 msgid ""
