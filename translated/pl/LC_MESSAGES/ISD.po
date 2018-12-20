@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-17 09:21+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
@@ -407,8 +407,7 @@ msgstr ""
 #: ../../ISD.rst:139
 #, fuzzy
 msgid "As Nevermore enters the battlefield, choose a nonland card name."
-msgstr ""
-"Kiedy Klaustrofobia wchodzi na pole walki, zaznacz zauroczonego stwora."
+msgstr "Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
 
 #: ../../ISD.rst:141
 msgid "Spells with the chosen name can't be cast."
@@ -717,13 +716,12 @@ msgstr "Claustrophobia (Klaustrofobia)"
 # 17e9b2aa69f24df2a809f3883ce36609
 #: ../../ISD.rst:255
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr ""
-"Kiedy Klaustrofobia wchodzi na pole walki, zaznacz zauroczonego stwora."
+msgstr "Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
 
 # c68bb78ced1649828c33d67784cb0ca0
 #: ../../ISD.rst:257
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 # b6c40103b9164affb2ef77be179e5ce4
 #: ../../ISD.rst:264
@@ -1263,8 +1261,8 @@ msgstr ""
 #, fuzzy
 msgid "Create thirteen tapped 2/2 black Zombie creature tokens."
 msgstr ""
-"Połóż na polu walki trzynaście zaznaczonych żetonów czarnego stwora Zombi "
-"2/2."
+"Połóż na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi 2/"
+"2."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:475
@@ -1314,8 +1312,8 @@ msgstr ""
 #, fuzzy
 msgid "|tap|: Create a 2/2 black Vampire creature token with flying."
 msgstr ""
-"Połóż na polu walki trzynaście zaznaczonych żetonów czarnego stwora Zombi "
-"2/2."
+"Połóż na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi 2/"
+"2."
 
 # dd5991cf83974c56a2a7833faac00bb5
 #: ../../ISD.rst:495
@@ -1577,8 +1575,8 @@ msgstr ""
 #, fuzzy
 msgid "Create two 2/2 black Zombie creature tokens."
 msgstr ""
-"Połóż na polu walki trzynaście zaznaczonych żetonów czarnego stwora Zombi "
-"2/2."
+"Połóż na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi 2/"
+"2."
 
 # 429ef147d5b34a348e2fc3b44c28c4d7
 # 5e8954c088e245b9b1588ce5f325afd8
