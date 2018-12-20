@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 21:47+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -208,7 +208,7 @@ msgid ""
 "color.)"
 msgstr ""
 "Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
-"zaznaczysz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"zatapujesz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
 "kolorze owego stwora.)"
 
 # 7031ec86bd114230b1485de982183e99
@@ -683,7 +683,7 @@ msgstr ""
 # 998f4a8d44a34309939aba498e92e908
 #: ../../M15.rst:233
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atakowanie nie powoduje zaznaczenia tego stwora.)"
+msgstr "Czujność (Atakowanie nie powoduje tapowania tego stwora.)"
 
 # e7fd19fec3b849b5bcf44d315d929465
 #: ../../M15.rst:235
@@ -1226,6 +1226,8 @@ msgid ""
 "Whenever Wall of Frost blocks a creature, that creature doesn't untap during "
 "its controller's next untap step."
 msgstr ""
+"Ilekroć Wall of Frost blokuje stwora, ów stwór nie odznacza się w następnym "
+"kroku odtapowania władającego nim gracza."
 
 # cdebff88df6e4a45960924473d7b32b6
 #: ../../M15.rst:446
@@ -2837,10 +2839,14 @@ msgid "When Verdant Haven enters the battlefield, you gain 2 life."
 msgstr ""
 
 #: ../../M15.rst:1073
+#, fuzzy
 msgid ""
 "Whenever enchanted land is tapped for mana, its controller adds an "
 "additional one mana of any color."
 msgstr ""
+"Ilekroć zauroczony ląd jest tapowany przy pobieraniu many, władający nim "
+"gracz dodaje jedną manę dowolnego koloru do swojej puli many (oprócz many, "
+"którą ten ląd produkuje)."
 
 # 750c8b08c119493a98c560d66c7c6d8e
 #: ../../M15.rst:1082
