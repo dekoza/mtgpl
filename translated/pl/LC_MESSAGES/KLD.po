@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2018-12-18 18:25+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
@@ -94,6 +94,7 @@ msgstr ""
 #: ../../KLD.rst:50
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
+"Stwory władane przez twoich przeciwników wchodzą na pole walki zatapowane."
 
 #: ../../KLD.rst:52
 msgid ""
@@ -310,7 +311,7 @@ msgstr ""
 
 #: ../../KLD.rst:196
 msgid "Tap target creature."
-msgstr ""
+msgstr "Zatapuj wskazanego stwora."
 
 #: ../../KLD.rst:208
 msgid "Propeller Pioneer"
