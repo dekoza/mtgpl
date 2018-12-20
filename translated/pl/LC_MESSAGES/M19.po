@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-20 20:19+0000\n"
+"PO-Revision-Date: 2018-12-20 21:14+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -21,19 +21,21 @@ msgstr ""
 
 #: ../../M19.rst:5
 msgid "Core Set 2019"
-msgstr ""
+msgstr "Core Set 2019 (Zestaw Bazowy 2019)"
 
 #: ../../M19.rst:10
+#, fuzzy
 msgid "Aegis of the Heavens"
-msgstr ""
+msgstr "Aegis of the Heavens"
 
 #: ../../M19.rst:9
 msgid "Target creature gets +1/+7 until end of turn."
 msgstr "Wskazany stwór dostaje +1/+7 do końca tury."
 
 #: ../../M19.rst:14
+#, fuzzy
 msgid "Aethershield Artificer"
-msgstr ""
+msgstr "Aethershield Artificer"
 
 #: ../../M19.rst:13
 msgid ""
@@ -2055,7 +2057,7 @@ msgstr ""
 #: ../../M19.rst:989
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bojowe, które mogłyby być zadane w tej turze."
+"Zażegnaj wszystkie obrażenia bitewne, które mogłyby być zadane w tej turze."
 
 #: ../../M19.rst:994
 msgid "Runic Armasaur"
