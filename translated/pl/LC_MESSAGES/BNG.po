@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-17 09:21+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bng/pl/>\n"
 "Language: pl\n"
@@ -244,7 +244,7 @@ msgid ""
 "tap target creature."
 msgstr ""
 "Heroizm — Ilekroć rzucasz czar wskazujący na Elite Skirmisher, możesz "
-"zaznaczyć wskazanego stwora."
+"zatapować wskazanego stwora."
 
 # e4a9072c4ee14291b1b5729ceab0c02d
 # f12055b3ec1846a1a03eff3f85e6e41f
@@ -309,7 +309,7 @@ msgstr "Excoriate"
 # f77e3f2ff3ad4034a74f8843a506958b
 #: ../../BNG.rst:63
 msgid "Exile target tapped creature."
-msgstr "Wypędź wskazanego zaznaczonego stwora."
+msgstr "Wypędź wskazanego zatapowanego stwora."
 
 # 79cc73658d1941d6b0ed4f4c1e1b95e3
 # f5c3d58d78714cc88cc25be411f286eb
@@ -757,7 +757,7 @@ msgid ""
 "control until end of turn. Untap it."
 msgstr ""
 "Wskazany stwór zyskuje do końca tury ochronę przed stworami twoich "
-"przeciwników. Odznacz go."
+"przeciwników. Odtapuj go."
 
 # 36afac4cff1b49e09ae05bbedb67bb3d
 # 2607f3e8b8294512af842f40905c7a05
@@ -803,7 +803,7 @@ msgstr "Kiedy Sidła Wieczności wchodzą na pole walki, dobierz kartę."
 # 209c6fc406084fb1a47f761ed0a99140
 #: ../../BNG.rst:203
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 # 2f78542329fe48c19d97ca52ea083a60
 # ffc5926a45284b2384db073a1c9718e3
@@ -1140,7 +1140,7 @@ msgid ""
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Zaznacz do dwóch wskazanych stworów. Owe stwory nie odznaczą się w "
-"najbliższym kroku odznaczania swoich władców. Wróż 1. (Spójrz na wierzchnią "
+"najbliższym kroku odtapowania swoich władców. Wróż 1. (Spójrz na wierzchnią "
 "kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
 "biblioteki.)"
 
@@ -1321,7 +1321,7 @@ msgid ""
 "|mana_b|, Tap another untapped creature you control: Black Oak of Odunos "
 "gets +1/+1 until end of turn."
 msgstr ""
-"|mana_b|, zaznacz innego odznaczonego stwora, którym władasz: Czarny Dąb z "
+"|mana_b|, zatapuj innego odznaczonego stwora, którym władasz: Czarny Dąb z "
 "Ogunos dostaje +1/+1 do końca tury."
 
 # 170e40671abf4e3b88b6ba074f42cb2e
@@ -1843,7 +1843,7 @@ msgid ""
 "It gains haste until end of turn."
 msgstr ""
 "Heroizm — Ilekroć rzucasz czar wskazujący na Akroan Conscriptor, przejmuj "
-"władanie nad innym wskazanym stworem do końca tury. Odznacz owego stwora. "
+"władanie nad innym wskazanym stworem do końca tury. Odtapuj owego stwora. "
 "Zyskuje on pośpiech do końca tury."
 
 # 42dc9fde61924bf78c713ea257fcc89f
@@ -2699,7 +2699,7 @@ msgid ""
 "put that card on the bottom of your library.)"
 msgstr ""
 "Przeszukaj twoją bibliotekę w poszukiwaniu do dwóch kart zwykłych lądów, "
-"ujawnij owe karty i połóż jedną na polu walki jako zaznaczoną, a drugą dołóż "
+"ujawnij owe karty i połóż jedną na polu walki jako zatapowaną, a drugą dołóż "
 "do twojej ręki. Przetasuj twoją bibliotekę, następnie wróż 1. (Spójrz na "
 "wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na spodzie "
 "twojej biblioteki.)"
@@ -3060,7 +3060,7 @@ msgid ""
 "library."
 msgstr ""
 "Ilekroć rzucasz czar stwora, możesz poszukać w twojej bibliotece karty Lasu "
-"lub Równiny, położyć ją na polu walki zaznaczoną, następnie przetasować "
+"lub Równiny, położyć ją na polu walki zatapowaną, następnie przetasować "
 "twoją bibliotekę."
 
 # 91769e3031484ef6825c4145aa257108
@@ -3110,7 +3110,7 @@ msgstr "Kiora's Follower"
 # 5983cfba893047f881f9cfb96a3ac09c
 #: ../../BNG.rst:817
 msgid "|tap|: Untap another target permanent."
-msgstr "|tap|: Odznacz inny wskazany permanent."
+msgstr "|tap|: Odtapuj inny wskazany permanent."
 
 # 70f5538265bc4bf39ba9114ec1bacd03
 # 36adde1cd0714273bc972a2748bb9780
@@ -3353,7 +3353,7 @@ msgstr "Springleaf Drum (Bęben Wiosennych Liści)"
 #, fuzzy
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
-"|tap|, zaznacz niezaznaczonego stwora, którym władasz: Dodaj jedną manę "
+"|tap|, zatapuj niezatapowanego stwora, którym władasz: Dodaj jedną manę "
 "dowolnego koloru do twojej puli many."
 
 # 7c09abff09ab4b06bbcca8ae92dfebe2
@@ -3366,7 +3366,7 @@ msgstr "Temple of Enlightenment (Świątynia Oświecenia)"
 # 7c4876bccf344fae850ad5f79843a225
 #: ../../BNG.rst:893
 msgid "Temple of Enlightenment enters the battlefield tapped."
-msgstr "Świątynia Oświecenia wchodzi na pole walki zaznaczona."
+msgstr "Świątynia Oświecenia wchodzi na pole walki zatapowana."
 
 # b801a48502e745119d66c2c5fb0b7528
 # e43902eacf5243ed95714f2313a430f2
@@ -3397,7 +3397,7 @@ msgstr "Temple of Malice (Świątynia Złośliwości)"
 # c480987f8be44e6d8873a6e90cda6c4e
 #: ../../BNG.rst:901
 msgid "Temple of Malice enters the battlefield tapped."
-msgstr "Świątynia Złośliwości wchodzi na pole walki zaznaczona."
+msgstr "Świątynia Złośliwości wchodzi na pole walki zatapowana."
 
 # 8f25788fefff4ae5b297ba96c4ab45f2
 # 739718a7d265455d8c7a0db3031d6ce7
@@ -3427,7 +3427,7 @@ msgstr "Temple of Plenty (Świątynia Dostatku)"
 # 6914742025a945fcad1df6a1d0092b5f
 #: ../../BNG.rst:909
 msgid "Temple of Plenty enters the battlefield tapped."
-msgstr "Świątynia Dostatku wchodzi na pole walki zaznaczona."
+msgstr "Świątynia Dostatku wchodzi na pole walki zatapowana."
 
 # 27365b13de4a4a37a7598567ccac8690
 # 79fe9ae300354fe0b59f45ac7e0ce58f
