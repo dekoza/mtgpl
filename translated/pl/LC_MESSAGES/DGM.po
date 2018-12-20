@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-20 20:19+0000\n"
+"PO-Revision-Date: 2018-12-20 21:14+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -224,7 +224,7 @@ msgid ""
 "controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
 "Szyfruj (Następnie możesz wypędzić tę kartę kodując ją na stworze, którym "
-"władasz. Ilekroć ów stwór zada graczowi obrażenia bojowe, jego władca może "
+"władasz. Ilekroć ów stwór zada graczowi obrażenia bitewne, jego władca może "
 "rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
 
 # 1c0cec74946b46c58eeed6eef61d2b32
@@ -588,8 +588,8 @@ msgid ""
 "return Pyrewild Shaman to your hand."
 msgstr ""
 "Ilekroć jeden lub więcej stworów, którymi władasz, zada graczowi obrażenia "
-"bojowe, jeśli Pyrewild Shaman jest w twoim cmentarzu możesz zapłacić |"
-"mana_3|. Jeśli tak zrobisz, zwróć Pyrewild Shaman do twojej ręki."
+"bitewne, jeśli Pyrewild Shaman jest w twoim cmentarzu możesz zapłacić "
+"|mana_3|. Jeśli tak zrobisz, zwróć Pyrewild Shaman do twojej ręki."
 
 # e3aeaa791aea4cdd9878ff8ac5710511
 #: ../../DGM.rst:188
@@ -939,7 +939,7 @@ msgid ""
 "damage to a player, you may draw a card."
 msgstr ""
 "Ilekroć stwór, którym władasz, mający znacznik +1/+1 zada graczowi obrażenia "
-"bojowe, możesz dobrać kartę."
+"bitewne, możesz dobrać kartę."
 
 # 039710ac806e47978447e333c03014db
 #: ../../DGM.rst:298
@@ -1391,7 +1391,7 @@ msgid ""
 "player reveals cards from the top of their library until they reveal four "
 "land cards, then puts those cards into their graveyard."
 msgstr ""
-"Ilekroć Mirko Vosk, Mind Drinker zadaje graczowi obrażenia bojowe, ów gracz "
+"Ilekroć Mirko Vosk, Mind Drinker zadaje graczowi obrażenia bitewne, ów gracz "
 "odkrywa karty z wierzchu swojej biblioteki do momentu, aż odkryje cztery "
 "lądy, następnie umieszcza owe karty w swoim cmentarzu."
 
@@ -1760,8 +1760,8 @@ msgid ""
 "Whenever a creature deals combat damage to you, destroy that creature. "
 "Create a 1/1 white and black Spirit creature token with flying."
 msgstr ""
-"Ilekroć jakiś stwór zada tobie obrażenia bojowe, zniszcz owego stwora. Połóż "
-"na polu walki żeton czarno-białego stwora Spirit 1/1 z lataniem."
+"Ilekroć jakiś stwór zada tobie obrażenia bitewne, zniszcz owego stwora. "
+"Połóż na polu walki żeton czarno-białego stwora Spirit 1/1 z lataniem."
 
 # 1e1e1dd0e3d04ae4baf1a7da26d47a9d
 #: ../../DGM.rst:562
