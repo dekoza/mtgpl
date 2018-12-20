@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 21:47+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -275,7 +275,7 @@ msgstr "Kinjalli's Sunwing"
 #: ../../XLN.rst:105
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
-"Stwory władane przez twoich przeciwników wchodzą na pole walki zaznaczone."
+"Stwory władane przez twoich przeciwników wchodzą na pole walki zatapowane."
 
 #: ../../XLN.rst:110
 #, fuzzy
@@ -436,7 +436,7 @@ msgstr "Rallying Roar"
 
 #: ../../XLN.rst:165
 msgid "Creatures you control get +1/+1 until end of turn. Untap them."
-msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury. Odznacz je."
+msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury. Odtapuj je."
 
 #: ../../XLN.rst:168
 #, fuzzy
@@ -478,7 +478,7 @@ msgid ""
 msgstr ""
 "Wypędź wszystkie atakujące stwory władane przez wskazanego gracza. Ów gracz "
 "może poszukać w swojej bibliotece tyle samo kart bazowych lądów i umieścić "
-"je zaznaczone na polu walki, a następnie przetasować swoją bibliotekę."
+"je zatapowane na polu walki, a następnie przetasować swoją bibliotekę."
 
 #: ../../XLN.rst:188
 #, fuzzy
@@ -554,7 +554,7 @@ msgid ""
 "Whenever Territorial Hammerskull attacks, tap target creature an opponent "
 "controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, zaznacz wskazanego stwora pod władaniem "
+"Ilekroć ten stwór atakuje, zatapuj wskazanego stwora pod władaniem "
 "przeciwnika."
 
 #: ../../XLN.rst:220
@@ -738,7 +738,7 @@ msgid ""
 "When Dreamcaller Siren enters the battlefield, if you control another "
 "Pirate, tap up to two target nonland permanents."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli władasz innym Piratem, zaznacz "
+"Kiedy ta karta wejdzie na pole walki, jeśli władasz innym Piratem, zatapuj "
 "co najwyżej dwa wskazane nie-lądowe permanenty."
 
 #: ../../XLN.rst:282
@@ -2175,7 +2175,7 @@ msgstr ""
 
 #: ../../XLN.rst:895
 msgid "|tap|: Untap target land."
-msgstr ""
+msgstr "|tap|: Odtapuj wskazany ląd."
 
 #: ../../XLN.rst:902
 msgid "Carnage Tyrant"
@@ -3333,7 +3333,7 @@ msgstr ""
 
 #: ../../XLN.rst:1479
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 #: ../../XLN.rst:1486
 msgid "Grasping Current"
@@ -3396,7 +3396,7 @@ msgstr ""
 
 #: ../../XLN.rst:1507
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atakowanie nie powoduje zaznaczenia tego stwora.)"
+msgstr "Czujność (Atakowanie nie powoduje tapowania tego stwora.)"
 
 #: ../../XLN.rst:1512
 msgid "Huatli's Spurring"
