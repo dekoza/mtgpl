@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-17 09:21+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -482,7 +482,7 @@ msgid ""
 "Whenever Heliod's Emissary or enchanted creature attacks, tap target "
 "creature an opponent controls."
 msgstr ""
-"Ilekroć Heliod's Emissary lub zauroczony stwór atakuje, zaznacz wskazanego "
+"Ilekroć Heliod's Emissary lub zauroczony stwór atakuje, zatapuj wskazanego "
 "stwora, którym włada przeciwnik."
 
 # 18b287ff14b84c3e96522795013a2495
@@ -609,7 +609,7 @@ msgstr "Leonin Snarecaster"
 msgid ""
 "When Leonin Snarecaster enters the battlefield, you may tap target creature."
 msgstr ""
-"Kiedy Leonin Snarecaster wchodzi na pole walki, możesz zaznaczyć wskazanego "
+"Kiedy Leonin Snarecaster wchodzi na pole walki, możesz zatapować wskazanego "
 "stwora."
 
 # 79857f72fa3e41ab8bd78275371ba6ce
@@ -1372,8 +1372,8 @@ msgid ""
 "Those creatures don't untap during their controllers' untap steps for as "
 "long as you control Shipbreaker Kraken."
 msgstr ""
-"Kiedy Shipbreaker Kraken staje się monstrualny, zaznacz najwyżej cztery "
-"wskazane stwory. Owe stwory nie odznaczą się podczas kroku odznaczania "
+"Kiedy Shipbreaker Kraken staje się monstrualny, zatapuj najwyżej cztery "
+"wskazane stwory. Owe stwory nie odznaczą się podczas kroku odtapowania "
 "swoich władców dopóki władasz Shipbreaker Krakenem."
 
 # 2d0d869ee855426bb542833f7225e0fe
@@ -1534,9 +1534,9 @@ msgid ""
 "controller's next untap step."
 msgstr ""
 "Każdy z nie więcej niż dwóch wskazanych stworów dostaje do końca tury +0/+3. "
-"Odznacz owe stwory. W chwili najbliższego końca walki w tej turze, zaznacz "
+"Odtapuj owe stwory. W chwili najbliższego końca walki w tej turze, zatapuj "
 "każdego stwora, który był blokowany przez te stwory i owe stwory nie "
-"odznaczą się w następnym kroku odznaczania ich władcy."
+"odznaczą się w następnym kroku odtapowania ich władcy."
 
 # 49ea3f9d60a742f1be08a0bfe2203667
 # e1b06de43fbe4341913036310dc182e7
@@ -1583,9 +1583,9 @@ msgid ""
 "creature an opponent controls. That creature doesn't untap during its "
 "controller's next untap step."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący na Wavecrash Triton, zaznacz "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Wavecrash Triton, zatapuj "
 "wskazanego stwora, którym włada przeciwnik. Ów stwór nie odznacza się "
-"podczas następnego kroku odznaczania jego władcy."
+"podczas następnego kroku odtapowania jego władcy."
 
 # 0dc95419bdd34259898e18ba477117f8
 # 43f6cd0c14cf43228e2108e489b74714
@@ -1874,7 +1874,7 @@ msgstr "Fleshmad Steed"
 # 141d251d8c3746f78e66878b262e8be3
 #: ../../THS.rst:493
 msgid "Whenever another creature dies, tap Fleshmad Steed."
-msgstr "Ilekroć umiera inny stwór, zaznacz Fleshmad Steed."
+msgstr "Ilekroć umiera inny stwór, zatapuj Fleshmad Steed."
 
 # e10e427e62a248119759153fea1ebb40
 # 1e91efe09edf4f489db5fccd2cc0f33f
@@ -2250,7 +2250,7 @@ msgstr "Tormented Hero (Udręczony bohater)"
 # ccc5f13de11044bd97dfbfb27b75818c
 #: ../../THS.rst:597
 msgid "Tormented Hero enters the battlefield tapped."
-msgstr "Tormented Hero wchodzi na pole walki zaznaczony."
+msgstr "Tormented Hero wchodzi na pole walki zatapowany."
 
 # 8ecc2589888d44c2b0a41b31e6154c7f
 # c1a4ab432bbe468c8736fa53e17bb360
@@ -2731,7 +2731,7 @@ msgid ""
 "gains haste until end of turn. Scry 1. (Look at the top card of your "
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Przejmij władanie nad wskazanym stworem do końca tury. Odznacz tego stwora. "
+"Przejmij władanie nad wskazanym stworem do końca tury. Odtapuj tego stwora. "
 "Dostaje on pośpiech do końca tury. Wróż 1. (Spójrz na wierzchnią kartę "
 "twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
@@ -3521,7 +3521,7 @@ msgid ""
 "land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Kiedy poświęcasz Ordeal of Nylea, poszukaj w twojej bibliotece najwyżej "
-"dwóch kart zwykłych lądów, połóż je na polu walki zaznaczone, a następnie "
+"dwóch kart zwykłych lądów, połóż je na polu walki zatapowane, a następnie "
 "przetasuj twoją bibliotekę."
 
 # 3dc538b72219430b91488804c103aee5
@@ -3619,7 +3619,7 @@ msgstr "Savage Surge"
 # 3d3e0cf7004d47e2b2f32084fa51ce92
 #: ../../THS.rst:973
 msgid "Target creature gets +2/+2 until end of turn. Untap that creature."
-msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Odznacz owego stwora."
+msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Odtapuj owego stwora."
 
 # 96eb9271433f486e8123b286b028e1ac
 # 1fc4127b99ae4b82a806e9272dfbe507
@@ -3705,7 +3705,7 @@ msgstr "Voyaging Satyr (Wędrujący Satyr)"
 # 8a23cc59526243a1965fe5b4876d5471
 #: ../../THS.rst:999
 msgid "|tap|: Untap target land."
-msgstr "|tap|: Odznacz wskazany ląd."
+msgstr "|tap|: Odtapuj wskazany ląd."
 
 # 3ad1ceecf6fb4b1a875b4a5d4dc5291f
 # 14698a1463bc49b2bcc3379df4bc064d
@@ -4051,7 +4051,7 @@ msgid ""
 "Untap all creatures and lands you control during each other player's untap "
 "step."
 msgstr ""
-"Odznacz wszystkie stwory i lądy, którymi władasz, podczas kroku odznaczania "
+"Odtapuj wszystkie stwory i lądy, którymi władasz, podczas kroku odtapowania "
 "każdego innego gracza."
 
 # c992b9b700e44498bb5af9948cc40c9e
@@ -4377,7 +4377,7 @@ msgid ""
 "land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_3|, poświęć Burnished Hart: Poszukaj w twojej bibliotece najwyżej dwie "
-"karty zwykłych lądów, połóż je na polu walki zaznaczone, a następnie "
+"karty zwykłych lądów, połóż je na polu walki zatapowane, a następnie "
 "przetasuj twoją bibliotekę."
 
 # 00a90a607b9d499d976522559118d5a2
@@ -4591,7 +4591,7 @@ msgstr "Temple of Abandon (Świątynia Porzucenia)"
 # 6f48b988594d41b9b20462460a592392
 #: ../../THS.rst:1239
 msgid "Temple of Abandon enters the battlefield tapped."
-msgstr "Temple of Abandon wchodzi na pole walki zaznaczony."
+msgstr "Temple of Abandon wchodzi na pole walki zatapowany."
 
 # cc039f90759b4e98a9e08067067d00cb
 # cdec0b76fd924755add288da40eb9285
@@ -4621,7 +4621,7 @@ msgstr "Temple of Deceit (Świątynia Podstępu)"
 # f84592c740994963a388ff3f32d6b86d
 #: ../../THS.rst:1247
 msgid "Temple of Deceit enters the battlefield tapped."
-msgstr "Temple of Deceit  wchodzi na pole walki zaznaczony."
+msgstr "Temple of Deceit  wchodzi na pole walki zatapowany."
 
 # 0575bacf28cd4d43ba2f3ff3d5653d35
 # 723ce4d510a642c9a61306bf36b491bf
@@ -4650,7 +4650,7 @@ msgstr "Temple of Mystery (Świątynia Tajemnic)"
 # 4d234655604041df9697510b135c66ec
 #: ../../THS.rst:1255
 msgid "Temple of Mystery enters the battlefield tapped."
-msgstr "Temple of Mystery wchodzi na pole walki zaznaczony."
+msgstr "Temple of Mystery wchodzi na pole walki zatapowany."
 
 # 2957d412eea642dc8951c8ece4459b7a
 # bba91c9aed10425a92302eac63dca2a3
@@ -4680,7 +4680,7 @@ msgstr "Temple of Silence (Świątynia Ciszy)"
 # b2448fa292f644d48e4156d0ead9859a
 #: ../../THS.rst:1263
 msgid "Temple of Silence enters the battlefield tapped."
-msgstr "Temple of Silence wchodzi na pole walki zaznaczony."
+msgstr "Temple of Silence wchodzi na pole walki zatapowany."
 
 # 709455db0ee44be1927a2135b4ad6000
 # da1c49a99a264423ad55f0f6da6a9e27
@@ -4710,7 +4710,7 @@ msgstr "Temple of Triumph (Świątynia Zwycięstwa)"
 # 12203c4027284af28635aa6c648aa519
 #: ../../THS.rst:1271
 msgid "Temple of Triumph enters the battlefield tapped."
-msgstr "Temple of Triumph wchodzi na pole walki zaznaczony."
+msgstr "Temple of Triumph wchodzi na pole walki zatapowany."
 
 # 4f9920c94c744a8799468955cfdb272a
 # dce89ea713594d108ad98bda8dc4fc28
