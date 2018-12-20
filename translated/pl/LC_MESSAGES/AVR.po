@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-19 10:19+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: ../../AVR.rst:73
 msgid "Untapped creatures you control get +0/+2."
-msgstr "Niezaznaczone stwory, którymi władasz, dostają +0/+2."
+msgstr "Niezatapowane stwory, którymi władasz, dostają +0/+2."
 
 #: ../../AVR.rst:83
 msgid "Call to Serve"
@@ -527,8 +527,7 @@ msgstr ""
 #: ../../AVR.rst:372
 msgid "|mana_1| |mana_u|, |tap|: You may tap or untap target permanent."
 msgstr ""
-"|mana_1| |mana_u|, |tap|: Możesz zaznaczyć lub odznaczyć wskazany "
-"permanent."
+"|mana_1| |mana_u|, |tap|: Możesz zatapować lub odtapować wskazany permanent."
 
 #: ../../AVR.rst:382
 msgid "Crippling Chill"
@@ -540,7 +539,7 @@ msgid ""
 "step."
 msgstr ""
 "Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
-"odznaczania swojego władcy."
+"odtapowania swojego władcy."
 
 #: ../../AVR.rst:381 ../../AVR.rst:440
 msgid "Draw a card."
@@ -841,7 +840,7 @@ msgstr ""
 
 #: ../../AVR.rst:614
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 #: ../../AVR.rst:616
 msgid ""
@@ -1425,8 +1424,8 @@ msgid ""
 "As an additional cost to cast this spell, tap any number of untapped "
 "creatures you control."
 msgstr ""
-"Jako dodatkowy koszt rzucenia Płoń na Stosie, zaznacz dowolną liczbę "
-"niezaznaczonych stworów, którymi władasz."
+"Jako dodatkowy koszt rzucenia Płoń na Stosie, zatapuj dowolną liczbę "
+"niezatapowanych stworów, którymi władasz."
 
 #: ../../AVR.rst:1055
 #, fuzzy
@@ -1435,7 +1434,7 @@ msgid ""
 "number of creatures tapped this way."
 msgstr ""
 "Płoń na Stosie zadaje wskazanemu stworowi lub graczowi trzy razy więcej "
-"obrażeń niż liczba stworów zaznaczonych w ten sposób."
+"obrażeń niż liczba stworów zatapowanych w ten sposób."
 
 #: ../../AVR.rst:1063
 msgid "Dangerous Wager"
