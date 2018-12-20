@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 21:47+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dtk/pl/>\n"
 "Language: pl\n"
@@ -353,7 +353,7 @@ msgstr ""
 
 #: ../../DTK.rst:155
 msgid "Tap target creature."
-msgstr "Zaznacz wskazanego stwora."
+msgstr "Zatapuj wskazanego stwora."
 
 #: ../../DTK.rst:157
 msgid "Ojutai Exemplars gains first strike and lifelink until end of turn."
@@ -663,7 +663,7 @@ msgstr ""
 
 #: ../../DTK.rst:303
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 #: ../../DTK.rst:308
 msgid "Glint"
@@ -838,7 +838,7 @@ msgid ""
 "step."
 msgstr ""
 "Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
-"odznaczania swojego władcy."
+"odtapowania swojego władcy."
 
 #: ../../DTK.rst:388
 msgid "Ojutai's Summons"
