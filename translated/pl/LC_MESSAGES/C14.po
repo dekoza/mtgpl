@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-20 20:19+0000\n"
+"PO-Revision-Date: 2018-12-20 21:14+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -20,12 +20,14 @@ msgstr ""
 "X-Generator: Weblate 3.3\n"
 
 #: ../../C14.rst:5
+#, fuzzy
 msgid "Commander 2014"
-msgstr ""
+msgstr "Commander 2014"
 
 #: ../../C14.rst:14
+#, fuzzy
 msgid "Angel of the Dire Hour"
-msgstr ""
+msgstr "Angel of the Dire Hour"
 
 #: ../../C14.rst:9 ../../C14.rst:33 ../../C14.rst:211 ../../C14.rst:983
 msgid "Flash"
@@ -45,10 +47,13 @@ msgid ""
 "When Angel of the Dire Hour enters the battlefield, if you cast it from your "
 "hand, exile all attacking creatures."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, jeśli rzuciłeś go z twojej ręki, "
+"wygnaj wszystkie atakujące stwory."
 
 #: ../../C14.rst:20
+#, fuzzy
 msgid "Angelic Field Marshal"
-msgstr ""
+msgstr "Angelic Field Marshal"
 
 #: ../../C14.rst:19
 msgid ""
@@ -65,16 +70,21 @@ msgid ""
 "Choose an opponent. You and that player each create three 1/1 white Spirit "
 "creature tokens with flying."
 msgstr ""
+"Wybierz przeciwnika. Ty oraz ów gracz tworzycie po trzy żetony białego "
+"stwora Duch 1/1 z lataniem."
 
 #: ../../C14.rst:25
 msgid ""
 "Choose an opponent. You gain 2 life for each creature you control and that "
 "player gains 2 life for each creature they control."
 msgstr ""
+"Wybierz przeciwnika. Ty zyskujesz 2 życia za każdego stwora pod twoim "
+"władaniem, a ów gracz zyskuje 2 życia za każdego stwora pod jego władaniem."
 
 #: ../../C14.rst:30
+#, fuzzy
 msgid "Comeuppance"
-msgstr ""
+msgstr "Comeuppance"
 
 #: ../../C14.rst:29
 msgid ""
@@ -94,28 +104,35 @@ msgid ""
 "If a nontoken creature would enter the battlefield and it wasn't cast, exile "
 "it instead."
 msgstr ""
+"Jeśli nie-żetonowy stwór miałby wejść na pole walki, a nie został rzucony, "
+"zamiast tego wygnaj go."
 
 #: ../../C14.rst:40
+#, fuzzy
 msgid "Deploy to the Front"
-msgstr ""
+msgstr "Deploy to the Front"
 
 #: ../../C14.rst:39
 msgid ""
 "Create X 1/1 white Soldier creature tokens, where X is the number of "
 "creatures on the battlefield."
 msgstr ""
+"Stwórz X żetonów białego stwora Piechur 1/1, gdzie X jest liczbą stworów na "
+"polu walki."
 
 #: ../../C14.rst:44
+#, fuzzy
 msgid "Fell the Mighty"
-msgstr ""
+msgstr "Fell the Mighty"
 
 #: ../../C14.rst:43
 msgid "Destroy all creatures with power greater than target creature's power."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory z siłą większą niż siła wskazanego stwora."
 
 #: ../../C14.rst:50
+#, fuzzy
 msgid "Hallowed Spiritkeeper"
-msgstr ""
+msgstr "Hallowed Spiritkeeper"
 
 #: ../../C14.rst:47 ../../C14.rst:431 ../../C14.rst:529
 msgid "Vigilance"
@@ -1932,7 +1949,7 @@ msgid ""
 "Whenever Liliana's Reaver deals combat damage to a player, that player "
 "discards a card and you create a tapped 2/2 black Zombie creature token."
 msgstr ""
-"Ilekroć Liliana's Reaver zada graczowi obrażenia bojowe, ów gracz odrzuca "
+"Ilekroć Liliana's Reaver zada graczowi obrażenia bitewne, ów gracz odrzuca "
 "kartę, a ty kładziesz na polu walki zatapowany żeton czarnego stwora Zombie "
 "2/2."
 
