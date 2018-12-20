@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 21:47+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -122,7 +122,7 @@ msgid ""
 "tap.)"
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, stwory pod twoim władaniem dostają do "
-"końca tury +1/+1 oraz czujność. (Atakowanie nie powoduje ich zaznaczenia.)"
+"końca tury +1/+1 oraz czujność. (Atakowanie nie powoduje ich zatapowania.)"
 
 #: ../../M19.rst:46
 #, fuzzy
@@ -182,7 +182,7 @@ msgstr ""
 #: ../../M19.rst:65 ../../M19.rst:93 ../../M19.rst:147 ../../M19.rst:929
 #: ../../M19.rst:1023 ../../M19.rst:1453 ../../M19.rst:1585
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atakowanie nie powoduje zaznaczenia tego stwora.)"
+msgstr "Czujność (Atakowanie nie powoduje tapowania tego stwora.)"
 
 #: ../../M19.rst:67
 msgid ""
@@ -1343,7 +1343,7 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Zyskujesz władanie nad wskazanym stworem do końca tury. Odznacz owego "
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odtapuj owego "
 "stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej "
 "turze.)"
 
@@ -3154,7 +3154,7 @@ msgstr ""
 
 #: ../../M19.rst:1607
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 #: ../../M19.rst:1612
 msgid "Grasping Scoundrel"
