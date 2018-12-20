@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-27 09:25+0100\n"
-"PO-Revision-Date: 2018-12-18 18:25+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -270,8 +270,8 @@ msgstr "Army of the Damned (Armia Potępionych)"
 #: ../../C13.rst:78
 msgid "Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped."
 msgstr ""
-"Połóż na polu walki trzynaście zaznaczonych żetonów czarnego stwora Zombi "
-"2/2."
+"Połóż na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi 2/"
+"2."
 
 # 4dc371cb4d4a420db836abecf46c4361
 #: ../../C13.rst:80
@@ -325,7 +325,7 @@ msgstr ""
 # 11f5655c47d14ce29577d1c253b85201
 #: ../../C13.rst:98
 msgid "Tap an untapped Wizard you control: Draw a card."
-msgstr "Zaznacz niezaznaczonego Maga, którym władasz: Dobierz kartę."
+msgstr "Zaznacz niezatapowanego Maga, którym władasz: Dobierz kartę."
 
 # af67fe23cc9f432ab5ba4102a479c3a2
 #: ../../C13.rst:107
@@ -355,7 +355,7 @@ msgstr ""
 # 1b3f29ac770d4181881689a51500a862
 #: ../../C13.rst:110
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Brama Gildii Azorius wchodzi na pole walki zatapowana."
 
 # ede374b6ad9549b782d6b0d10069af95
 # 809b25a1cb254c47a35a856289754d78
@@ -579,7 +579,7 @@ msgstr ""
 # c8d0d61471f440809813fc1df3728890
 #: ../../C13.rst:184
 msgid "Bojuka Bog enters the battlefield tapped."
-msgstr "Bojuka Bog wchodzi na pole walki zaznaczony."
+msgstr "Bojuka Bog wchodzi na pole walki zatapowany."
 
 # 19444b90e96f48deb3c6db4b7b7071d1
 #: ../../C13.rst:186
@@ -624,7 +624,7 @@ msgstr ""
 # b99cb41aba1440609c1feeeefd8303b1
 #: ../../C13.rst:204
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:206
@@ -1073,7 +1073,7 @@ msgstr ""
 # 36015cf7028948e1b39ea723c4d7f56b
 #: ../../C13.rst:384
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # e2686eea8d0b498298b193e083ec7b54
 # b873d1e036dc464d9e8235e9ee28975d
@@ -1556,7 +1556,7 @@ msgstr "Forgotten Cave (Zapomniana Jaskinia)"
 # e8323cc68807405eabd65f2a773173ad
 #: ../../C13.rst:588
 msgid "Forgotten Cave enters the battlefield tapped."
-msgstr "Zapomniana Jaskinia wchodzi na pole walki zaznaczona."
+msgstr "Zapomniana Jaskinia wchodzi na pole walki zatapowana."
 
 # f4933fd125cb4efb84992eef195edf83
 # 42556cc8b9274d649fad2b38a5cd39db
@@ -1650,7 +1650,7 @@ msgstr ""
 # 6677d2dd2cf84049876e0a193dd87f47
 #: ../../C13.rst:624
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # 81ac1acc9c4e40e1bea9003829260378
 #: ../../C13.rst:626
@@ -1752,7 +1752,7 @@ msgstr ""
 # 26db26a2673d4a29993f66f6afcd903d
 #: ../../C13.rst:668
 msgid "Gruul Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Gruul Guildgate wchodzi na pole walki zatapowany."
 
 # 41a6226f85eb4fc8a931f257009adf2d
 # ab54d77d10d3433da9fe1a68ca464f25
@@ -1971,7 +1971,7 @@ msgstr ""
 # b566610079f8422c86b322e2b5697350
 #: ../../C13.rst:762
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # 1e504a1a4fe7428cb617f1e0ece18ed3
 #: ../../C13.rst:764
@@ -2837,7 +2837,7 @@ msgstr ""
 # 165d048ab0d3401c8be1c8dce83a8a78
 #: ../../C13.rst:1134
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Orzhov Guildgate wchodzi na pole walki zatapowany."
 
 # 794ff71b98b2422fa933de84878b571a
 #: ../../C13.rst:1136
@@ -3105,7 +3105,7 @@ msgstr ""
 # ce3ab7bdee0a466199624c88c5358d76
 #: ../../C13.rst:1244
 msgid "Rakdos Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Rakdos Guildgate wchodzi na pole walki zatapowany."
 
 # fd00e94db3e148a295aee7dcae87bfe5
 #: ../../C13.rst:1251
@@ -3399,7 +3399,7 @@ msgstr ""
 # c3298500fb50411a9355b25047bcff54
 #: ../../C13.rst:1380
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zaznaczony."
+msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # 96a6d9d55b734e03ae4775e03a8967e4
 #: ../../C13.rst:1382
@@ -3539,7 +3539,7 @@ msgstr ""
 # ed49ac389c2b49ed82aa7697ee574f4c
 #: ../../C13.rst:1440
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Simic Guildgate wchodzi na pole walki zatapowany."
 
 # 4e0eecb3e61043babb9e760341bc63ee
 #: ../../C13.rst:1442
@@ -4249,7 +4249,7 @@ msgstr "Transguild Promenade"
 # 9d5abd4a4a2f45ecaa681c02f40efc6f
 #: ../../C13.rst:1762
 msgid "Transguild Promenade enters the battlefield tapped."
-msgstr ""
+msgstr "Transguild Promenade wchodzi na pole walki zatapowany."
 
 # a22dd32cecd14fa3a45100c916cfba49
 #: ../../C13.rst:1764
