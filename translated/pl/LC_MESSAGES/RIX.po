@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 21:47+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -131,7 +131,7 @@ msgstr "Famished Paladin"
 
 #: ../../RIX.rst:45
 msgid "Famished Paladin doesn't untap during your untap step."
-msgstr "Ten stwór nie odznacza się w twoim kroku odznaczania."
+msgstr "Ten stwór nie odznacza się w twoim kroku odtapowania."
 
 #: ../../RIX.rst:47
 msgid "Whenever you gain life, untap Famished Paladin."
@@ -379,7 +379,7 @@ msgstr "Sun Sentinel"
 
 #: ../../RIX.rst:141
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atakowanie nie powoduje zaznaczenia tego stwora.)"
+msgstr "Czujność (Atakowanie nie powoduje tapowania tego stwora.)"
 
 #: ../../RIX.rst:148
 #, fuzzy
@@ -656,7 +656,7 @@ msgid ""
 "Discard three cards: Exile Nezahal. Return it to the battlefield tapped "
 "under its owner's control at the beginning of the next end step."
 msgstr ""
-"Odrzuć trzy karty: Wygnaj tego stwora. Przywróć go zaznaczonego na pole "
+"Odrzuć trzy karty: Wygnaj tego stwora. Przywróć go zatapowanego na pole "
 "walki pod władanie jego właściciela z początkiem najbliższego kroku "
 "końcowego."
 
@@ -839,7 +839,7 @@ msgstr ""
 
 #: ../../RIX.rst:335
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 #: ../../RIX.rst:340
 msgid "Arterial Flow"
@@ -1501,7 +1501,7 @@ msgid ""
 "you have the city's blessing."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz zapłacić |mana_x| |mana_r|. Jeśli to "
-"zrobisz, stwórz X zaznaczonych i atakujących żetonów czerwonego stwora "
+"zrobisz, stwórz X zatapowanych i atakujących żetonów czerwonego stwora "
 "Żywiołak 1/1. Na początku najbliższego kroku końcowego, wygnaj owe żetony, "
 "chyba że masz błogosławieństwo miasta."
 
