@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 21:47+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/jou/pl/>\n"
 "Language: pl\n"
@@ -72,7 +72,7 @@ msgstr ""
 # 1eeb4ee5ab9f456c888e8c7b312168f0
 #: ../../JOU.rst:19
 msgid "|mana_w|, |tap|: Tap target creature."
-msgstr "|mana_w|, |tap|: Zaznacz wskazanego stwora."
+msgstr "|mana_w|, |tap|: Zatapuj wskazanego stwora."
 
 # e733fe61a9114dc380426e2009975b39
 #: ../../JOU.rst:26
@@ -1773,7 +1773,7 @@ msgid ""
 "creatures."
 msgstr ""
 "Każdy z dowolnej liczby wskazanych stworów dostaje +2/+2 do końca tury. "
-"Odznacz owe stwory."
+"Odtapuj owe stwory."
 
 # c3a6dd0357cb40cea70048e8d3731965
 #: ../../JOU.rst:604
@@ -1817,8 +1817,8 @@ msgid ""
 "Whenever a player taps a land for mana, that player adds one mana of any "
 "type that land produced."
 msgstr ""
-"Ilekroć gracz zaznacza ląd dla many, ów gracz dodaje do swojej puli many "
-"jedną manę w dowolnym kolorze wytworzonym przez ów ląd."
+"Ilekroć gracz tapuje ląd pobierając manę, ów gracz dodaje do swojej puli "
+"many jedną manę w kolorze, który został przez ów ląd wyprodukowany."
 
 # 670708a7f3d34cb39e9dae38d6944b1f
 #: ../../JOU.rst:618
