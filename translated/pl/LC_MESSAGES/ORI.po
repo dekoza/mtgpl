@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-19 21:47+0000\n"
+"PO-Revision-Date: 2018-12-20 20:19+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -21,15 +21,16 @@ msgstr ""
 
 #: ../../ORI.rst:5
 msgid "Magic Origins"
-msgstr ""
+msgstr "Magic Origins (Magic - Początki)"
 
 #: ../../ORI.rst:10
+#, fuzzy
 msgid "Akroan Jailer"
-msgstr ""
+msgstr "Akroan Jailer"
 
 #: ../../ORI.rst:9
 msgid "|mana_2| |mana_w|, |tap|: Tap target creature."
-msgstr ""
+msgstr "|mana_2| |mana_w|, |tap|: Zatapuj wskazanego stwora."
 
 #: ../../ORI.rst:14
 msgid "Ampryn Tactician"
@@ -399,7 +400,7 @@ msgstr ""
 
 #: ../../ORI.rst:175 ../../ORI.rst:209 ../../ORI.rst:1083 ../../ORI.rst:1159
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atakowanie nie powoduje zaznaczenia tego stwora.)"
+msgstr "Czujność (Atakowanie nie powoduje tapowania tego stwora.)"
 
 #: ../../ORI.rst:177
 msgid ""
@@ -609,11 +610,11 @@ msgstr ""
 
 #: ../../ORI.rst:283
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
 
 #: ../../ORI.rst:285
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie jest odznaczany w kroku odznaczanie jego władcy."
+msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 #: ../../ORI.rst:290
 msgid "Day's Undoing"
@@ -657,11 +658,11 @@ msgstr ""
 
 #: ../../ORI.rst:303
 msgid "Tap target creature."
-msgstr "Zaznacz wskazanego stwora."
+msgstr "Zatapuj wskazanego stwora."
 
 #: ../../ORI.rst:305
 msgid "Untap target creature."
-msgstr ""
+msgstr "Odtapuj wskazanego stwora."
 
 #: ../../ORI.rst:310
 msgid "Disperse"
@@ -1589,7 +1590,7 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Zyskujesz władanie nad wskazanym stworem do końca tury. Odznacz owego "
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odtapuj owego "
 "stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej "
 "turze.)"
 
