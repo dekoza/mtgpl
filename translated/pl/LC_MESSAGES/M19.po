@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-20 21:14+0000\n"
+"PO-Revision-Date: 2018-12-23 19:58+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -1311,8 +1311,8 @@ msgstr ""
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
-"Złowrogi (Ten stwór nie może być zablokowany, chyba że przez co najmniej dwa "
-"stwory.)"
+"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
+"dwa stwory.)"
 
 #: ../../M19.rst:620
 msgid "Vampire Neonate"
@@ -3147,24 +3147,26 @@ msgid "Mist-Cloaked Herald can't be blocked."
 msgstr "Ten stwór nie może być blokowany."
 
 #: ../../M19.rst:1608
+#, fuzzy
 msgid "Waterknot"
-msgstr ""
+msgstr "Waterknot"
 
 #: ../../M19.rst:1605
 msgid "When Waterknot enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zatapuj wskazanego stwora."
 
 #: ../../M19.rst:1607
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 #: ../../M19.rst:1612
+#, fuzzy
 msgid "Grasping Scoundrel"
-msgstr ""
+msgstr "Grasping Scoundrel"
 
 #: ../../M19.rst:1611
 msgid "Grasping Scoundrel gets +1/+0 as long as it's attacking."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+0 o ile atakuje."
 
 #: ../../M19.rst:1616
 msgid "Radiating Lightning"
