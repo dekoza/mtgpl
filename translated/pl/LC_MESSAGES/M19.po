@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-23 19:58+0000\n"
+"PO-Revision-Date: 2018-12-23 22:06+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -1731,7 +1731,7 @@ msgstr ""
 
 #: ../../M19.rst:821
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, odrzuć kartę."
 
 #: ../../M19.rst:828
 msgid "Trumpet Blast"
@@ -1786,8 +1786,9 @@ msgid "Centaur Courser"
 msgstr ""
 
 #: ../../M19.rst:860
+#, fuzzy
 msgid "Colossal Dreadmaw"
-msgstr ""
+msgstr "Colossal Dreadmaw"
 
 #: ../../M19.rst:864
 msgid "Colossal Majesty"
@@ -1968,7 +1969,7 @@ msgstr ""
 
 #: ../../M19.rst:946
 msgid "Naturalize"
-msgstr ""
+msgstr "Naturalize (Naturalizacja)"
 
 #: ../../M19.rst:945
 msgid "Destroy target artifact or enchantment."
@@ -1999,8 +2000,9 @@ msgid "When Pelakka Wurm dies, draw a card."
 msgstr ""
 
 #: ../../M19.rst:964
+#, fuzzy
 msgid "Plummet"
-msgstr ""
+msgstr "Plummet"
 
 #: ../../M19.rst:963
 msgid "Destroy target creature with flying."
@@ -2134,8 +2136,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być celem czarów i zdolności władanych przez "
-"twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być celem czarów lub zdolności władanych "
+"przez twoich przeciwników.)"
 
 #: ../../M19.rst:1029
 msgid "Vine Mare can't be blocked by black creatures."
