@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2018-12-23 19:58+0000\n"
+"PO-Revision-Date: 2018-12-23 22:06+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
@@ -1818,8 +1818,9 @@ msgid "Reach (This creature can block creatures with flying.)"
 msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../KLD.rst:1310
+#, fuzzy
 msgid "Hunt the Weak"
-msgstr ""
+msgstr "Hunt the Weak"
 
 #: ../../KLD.rst:1309
 msgid ""
@@ -1827,6 +1828,9 @@ msgid ""
 "fights target creature you don't control. (Each deals damage equal to its"
 " power to the other.)"
 msgstr ""
+"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem Następnie ów "
+"stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
+"nawzajem obrażenia równe ich sile.)"
 
 #: ../../KLD.rst:1317
 msgid "Kujar Seedsculptor"
