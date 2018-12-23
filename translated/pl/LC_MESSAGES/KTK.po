@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-20 21:14+0000\n"
+"PO-Revision-Date: 2018-12-23 22:06+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -1029,8 +1029,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być celem czarów i zdolności władanych przez "
-"twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być celem czarów lub zdolności władanych "
+"przez twoich przeciwników.)"
 
 # 8b19038da50f46499ecf1e8f5bad90d2
 #: ../../KTK.rst:350
@@ -1969,9 +1969,8 @@ msgstr "Tormenting Voice"
 
 # 00fca3b16c7d4d63ad3ae700052ca95c
 #: ../../KTK.rst:661
-#, fuzzy
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr "Jako dodatkowy koszt rzucenia Tormenting Voice, odrzuć kartę."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, odrzuć kartę."
 
 # a520adf32ef445888399ee905a6e0c49
 #: ../../KTK.rst:668
@@ -2249,9 +2248,8 @@ msgstr ""
 
 # 5871a93d742b4f1e94e6c5c384eac4a7
 #: ../../KTK.rst:766
-#, fuzzy
 msgid "Naturalize"
-msgstr "Naturalize"
+msgstr "Naturalize (Naturalizacja)"
 
 # 6a914bc39e3441008f81a1ddd369432b
 # 222b4aa8f9db471d9f31aee15108cb8b
