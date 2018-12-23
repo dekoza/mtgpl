@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-20 21:14+0000\n"
+"PO-Revision-Date: 2018-12-23 22:06+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -1765,8 +1765,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być celem czarów i zdolności władanych przez "
-"twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być celem czarów lub zdolności władanych "
+"przez twoich przeciwników.)"
 
 # 00890d25595f4deb95b24b03a548d5d3
 #: ../../M15.rst:657
@@ -2487,8 +2487,9 @@ msgstr ""
 
 # 1ac17bdaa1bc413fbf3f936f4bf80a7c
 #: ../../M15.rst:936
+#, fuzzy
 msgid "Hunt the Weak"
-msgstr ""
+msgstr "Hunt the Weak"
 
 # bdc1967bf8b9485b9b4201ad9f0d9b7d
 #: ../../M15.rst:935
@@ -2497,6 +2498,9 @@ msgid ""
 "fights target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
+"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem Następnie ów "
+"stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
+"nawzajem obrażenia równe ich sile.)"
 
 # a91105b0947e4d76978544d6183ca7cd
 #: ../../M15.rst:940
@@ -2572,7 +2576,7 @@ msgstr ""
 # 4f70423d5b6e423eb68e0375577f26a0
 #: ../../M15.rst:966
 msgid "Naturalize"
-msgstr ""
+msgstr "Naturalize (Naturalizacja)"
 
 # 09acc81972834f8e89b0d608454c0044
 #: ../../M15.rst:965
@@ -2674,8 +2678,9 @@ msgstr ""
 
 # 02d1334ac29a4eeb8f26e4c5b1bd67ac
 #: ../../M15.rst:1006
+#, fuzzy
 msgid "Plummet"
-msgstr ""
+msgstr "Plummet"
 
 # 905b510294214147b4674d8daabf3e09
 #: ../../M15.rst:1005
