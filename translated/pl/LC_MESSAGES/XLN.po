@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-23 19:58+0000\n"
+"PO-Revision-Date: 2018-12-23 21:23+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -1936,6 +1936,8 @@ msgid ""
 "Enrage — Whenever Raptor Hatchling is dealt damage, create a 3/3 green "
 "Dinosaur creature token with trample."
 msgstr ""
+"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, stwórz żeton zielonego "
+"stwora Dinozaur 3/3 z tratowaniem."
 
 #: ../../XLN.rst:784
 msgid "Repeating Barrage"
@@ -2035,6 +2037,8 @@ msgid ""
 "Enrage — Whenever Sun-Crowned Hunters is dealt damage, it deals 3 damage to "
 "target opponent or planeswalker."
 msgstr ""
+"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, zadaje on 3 obrażenia "
+"wskazanemu graczowi lub wędrowcowi."
 
 #: ../../XLN.rst:826
 msgid "Sunbird's Invocation"
@@ -2495,6 +2499,9 @@ msgid ""
 "library for a basic land card, put it onto the battlefield tapped, then "
 "shuffle your library."
 msgstr ""
+"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, możesz poszukać w "
+"twojej bibliotece kartę bazowego lądu, położyć ją zatapowaną na polu walki, "
+"a następnie przetasować twoją bibliotekę."
 
 #: ../../XLN.rst:1016
 msgid "Ravenous Daggertooth"
@@ -2503,7 +2510,7 @@ msgstr ""
 #: ../../XLN.rst:1015
 msgid ""
 "Enrage — Whenever Ravenous Daggertooth is dealt damage, you gain 2 life."
-msgstr ""
+msgstr "Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, zyskujesz 2 życia."
 
 #: ../../XLN.rst:1020
 msgid "Ripjaw Raptor"
@@ -2511,7 +2518,7 @@ msgstr ""
 
 #: ../../XLN.rst:1019
 msgid "Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card."
-msgstr ""
+msgstr "Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, dobierz kartę."
 
 #: ../../XLN.rst:1024
 msgid "River Heralds' Boon"
@@ -2566,6 +2573,8 @@ msgid ""
 "Enrage — Whenever Snapping Sailback is dealt damage, put a +1/+1 counter on "
 "it. (It must survive the damage to get the counter.)"
 msgstr ""
+"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, połóż na nim znacznik +"
+"1/+1. (Musi przeżyć obrażenia, by otrzymać znacznik.)"
 
 #: ../../XLN.rst:1050
 msgid "Spike-Tailed Ceratops"
