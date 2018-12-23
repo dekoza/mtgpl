@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-23 21:23+0000\n"
+"PO-Revision-Date: 2018-12-23 22:06+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -2224,8 +2224,9 @@ msgid "Trample, hexproof"
 msgstr ""
 
 #: ../../XLN.rst:906
+#, fuzzy
 msgid "Colossal Dreadmaw"
-msgstr ""
+msgstr "Colossal Dreadmaw"
 
 #: ../../XLN.rst:905
 msgid ""
@@ -2405,8 +2406,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być celem czarów i zdolności władanych przez "
-"twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być celem czarów lub zdolności władanych "
+"przez twoich przeciwników.)"
 
 #: ../../XLN.rst:979
 msgid ""
@@ -2545,6 +2546,9 @@ msgid ""
 "fights target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
+"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem Następnie ów "
+"stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
+"nawzajem obrażenia równe ich sile.)"
 
 #: ../../XLN.rst:1034
 msgid "Shapers' Sanctuary"
