@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-23 23:04+0000\n"
+"PO-Revision-Date: 2018-12-23 23:56+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -2401,6 +2401,8 @@ msgid ""
 "|mana_2| |mana_w| |mana_b|, |tap|: Put a creature card exiled with this "
 "permanent onto the battlefield under your control."
 msgstr ""
+"|mana_2| |mana_w| |mana_b|, |tap|: Połóż na polu walki pod twoim władaniem "
+"kartę stwora wygnaną tym permanentem."
 
 #: ../../RIX.rst:924
 msgid "Protean Raider"
@@ -2485,6 +2487,8 @@ msgid ""
 "At the beginning of your end step, if you control five or more artifacts, "
 "transform Storm the Vault."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli masz we władaniu co najmniej pięć "
+"artefaktów, transformuj tę kartę."
 
 #: ../../RIX.rst:966
 msgid "Vault of Catlacan"
@@ -2511,18 +2515,20 @@ msgid ""
 "When Zacama, Primal Calamity enters the battlefield, if you cast it, untap "
 "all lands you control."
 msgstr ""
+"Kiedy ta karta wjedzie na pole walki, jeśli została zagrana, odtapuj "
+"wszystkie lądy pod twoim władaniem."
 
 #: ../../RIX.rst:973
 msgid "|mana_2| |mana_r|: Zacama deals 3 damage to target creature."
-msgstr ""
+msgstr "|mana_2| |mana_r|: Ten stwór zadaje 3 obrażenia wskazanemu stworowi."
 
 #: ../../RIX.rst:975
 msgid "|mana_2| |mana_g|: Destroy target artifact or enchantment."
-msgstr ""
+msgstr "|mana_2| |mana_g|: Zniszcz wskazany artefakt lub urok."
 
 #: ../../RIX.rst:977
 msgid "|mana_2| |mana_w|: You gain 3 life."
-msgstr ""
+msgstr "|mana_2| |mana_w|: Zyskujesz 3 życia."
 
 #: ../../RIX.rst:982
 msgid "Awakened Amalgam"
