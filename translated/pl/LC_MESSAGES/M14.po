@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-20 21:14+0000\n"
+"PO-Revision-Date: 2018-12-23 22:06+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -2550,9 +2550,8 @@ msgstr ""
 # 841e719c46a544a0acd38d70f9ea7634
 # c6f2b386387f44eb93a8f20f7225e78c
 #: ../../M14.rst:801
-#, fuzzy
 msgid "As an additional cost to cast this spell, discard a card."
-msgstr "Odrzuć kartę jako dodatkowy koszt rzucenia Wild Guess."
+msgstr "Jako dodatkowy koszt rzucenia tego czaru, odrzuć kartę."
 
 # 3d347563f92f44efb06ca07002bd16ab
 #: ../../M14.rst:808
@@ -2803,8 +2802,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być celem czarów i zdolności władanych przez "
-"twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być celem czarów lub zdolności władanych "
+"przez twoich przeciwników.)"
 
 # cef397e21dcc4cff91bf4d69e6ce09d0
 #: ../../M14.rst:880
@@ -2840,8 +2839,9 @@ msgstr ""
 
 # 41235e176b2a4031ad19e439c860d21f
 #: ../../M14.rst:888
+#, fuzzy
 msgid "Hunt the Weak"
-msgstr ""
+msgstr "Hunt the Weak"
 
 # d1f9912d4ffe40f092fde50e8bf50a5c
 # 1fcdd1712a17470c8e74ed10d2374ae1
@@ -2851,9 +2851,9 @@ msgid ""
 "fights target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
-"Połóż znacznik +1/+1 na wskazanym stworze, którym władasz. Następnie ów "
-"stwór bije się ze wskazanym stworem, którym nie władasz. (Zadają sobie "
-"nawzajem obrażenia równe swojej sile.)"
+"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem Następnie ów "
+"stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
+"nawzajem obrażenia równe ich sile.)"
 
 # 4c7e15d580da4b20889a6d13d6a98a58
 #: ../../M14.rst:892
@@ -2941,7 +2941,7 @@ msgstr "Drzazgule, którymi władasz, dostają +3/+3."
 # d1bf055c1c4740a082497eeb0b340cc1
 #: ../../M14.rst:920
 msgid "Naturalize"
-msgstr ""
+msgstr "Naturalize (Naturalizacja)"
 
 # 8b387417785e4147965a545302dadcff
 # 2cd637b3b7d644869ce141cc530a7863
@@ -2967,8 +2967,9 @@ msgstr ""
 
 # 690f540b7bab413bbb602cc88b85584f
 #: ../../M14.rst:928
+#, fuzzy
 msgid "Plummet"
-msgstr ""
+msgstr "Plummet"
 
 # 8e09b90687c44a10a213526c545bbcf8
 # 215b5c05d5604ee0b4b832e10fb7e597
