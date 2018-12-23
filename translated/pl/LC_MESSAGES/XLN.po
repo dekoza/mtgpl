@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-20 21:14+0000\n"
+"PO-Revision-Date: 2018-12-23 19:58+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -703,7 +703,7 @@ msgid ""
 "color.\""
 msgstr ""
 "Przywróć wskazanego stwora do ręki jego właściciela. Stwórz żeton "
-"bezkolorowego artefkatu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: "
+"bezkolorowego artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: "
 "Dostajesz jedną manę dowolnego koloru.\""
 
 #: ../../XLN.rst:268
@@ -1112,6 +1112,9 @@ msgid ""
 "is that spell's converted mana cost. They have \"|tap|, Sacrifice this "
 "artifact: Add one mana of any color.\""
 msgstr ""
+"Skontruj wskazany czar. Stwórz X żetonów bezkolorowego artefaktu Skarb, "
+"gdzie X jest łącznym kosztem many owego czaru. Mają one zdolność \"|tap|, "
+"poświęć ten artefakt: Dostajesz jedną manę dowolnego koloru.\""
 
 #: ../../XLN.rst:422
 msgid "Storm Fleet Aerialist"
@@ -1265,6 +1268,9 @@ msgid ""
 "Destroy target creature. Create two colorless Treasure artifact tokens with "
 "\"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
+"Zniszcz wskazanego stwora. Stwórz dwa żetony bezkolorowego artefaktu Skarb "
+"ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
+"koloru.\""
 
 #: ../../XLN.rst:494
 msgid "Costly Plunder"
@@ -1341,6 +1347,9 @@ msgid ""
 "When Dire Fleet Hoarder dies, create a colorless Treasure artifact token "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
+"Kiedy ten stwór umrze, stwórz żeton bezkolorowego artefaktu Skarb ze "
+"zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
+"koloru.\""
 
 #: ../../XLN.rst:526
 msgid "Dire Fleet Interloper"
@@ -1348,7 +1357,7 @@ msgstr ""
 
 #: ../../XLN.rst:523 ../../XLN.rst:539 ../../XLN.rst:719 ../../XLN.rst:769
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../XLN.rst:525
 msgid ""
@@ -1431,6 +1440,9 @@ msgid ""
 "Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana "
 "of any color.\""
 msgstr ""
+"Najazd — Jeśli zaatakowałeś stworem w tej turze, stwórz żeton bezkolorowego "
+"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną "
+"manę dowolnego koloru.\""
 
 #: ../../XLN.rst:562
 msgid "Kitesail Freebooter"
@@ -1465,7 +1477,7 @@ msgstr "Wybierz jedno —"
 
 #: ../../XLN.rst:571
 msgid "Return target creature card from your graveyard to your hand."
-msgstr ""
+msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../XLN.rst:573
 msgid "Return two target Pirate cards from your graveyard to your hand."
@@ -1523,6 +1535,9 @@ msgid ""
 "artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\""
 msgstr ""
+"Ilekroć stwór pod władaniem przeciwnika umrze, stwórz żeton bezkolorowego "
+"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną "
+"manę dowolnego koloru.\""
 
 #: ../../XLN.rst:601
 msgid ""
@@ -1551,6 +1566,9 @@ msgid ""
 "artifact tokens with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\""
 msgstr ""
+"|mana_2| |mana_b|, poświęć stwora: Stwórz dwa żetony bezkolorowego artefaktu "
+"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę "
+"dowolnego koloru.\""
 
 #: ../../XLN.rst:611
 msgid "Sacrifice three Treasures: Draw a card."
@@ -1671,6 +1689,9 @@ msgid ""
 "artifact tokens with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\""
 msgstr ""
+"Kiedy ten stwór umrze, wskazany przeciwnik tworzy dwa żetony bezkolorowego "
+"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną "
+"manę dowolnego koloru.\""
 
 #: ../../XLN.rst:666
 msgid "Angrath's Marauders"
@@ -1729,12 +1750,15 @@ msgid ""
 "Whenever Captain Lannery Storm attacks, create a colorless Treasure artifact "
 "token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
+"Ilekroć ten stwór atakuje, stwórz żeton bezkolorowego artefaktu Skarb ze "
+"zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
+"koloru.\""
 
 #: ../../XLN.rst:687
 msgid ""
 "Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until "
 "end of turn."
-msgstr ""
+msgstr "Ilekroć poświęcasz Skarb, ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../XLN.rst:692
 msgid "Captivating Crew"
@@ -2087,6 +2111,9 @@ msgid ""
 "At the beginning of your end step, create a colorless Treasure artifact "
 "token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
+"Na początku twojego kroku końcowego, stwórz żeton bezkolorowego artefaktu "
+"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę "
+"dowolnego koloru.\""
 
 #: ../../XLN.rst:860
 msgid "Unfriendly Fire"
@@ -2139,6 +2166,9 @@ msgid ""
 "artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\""
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, stwórz żeton bezkolorowego artefaktu "
+"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę "
+"dowolnego koloru.\""
 
 #: ../../XLN.rst:880
 msgid "Ancient Brontodon"
@@ -2672,6 +2702,9 @@ msgid ""
 "|mana_2| |mana_u| |mana_b|: Create a colorless Treasure artifact token with "
 "\"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
+"|mana_2| |mana_u| |mana_b|: Stwórz żeton bezkolorowego artefaktu Skarb ze "
+"zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
+"koloru.\""
 
 #: ../../XLN.rst:1106
 msgid "Dire Fleet Captain"
@@ -2835,6 +2868,9 @@ msgid ""
 "Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana "
 "of any color.\""
 msgstr ""
+"–3: Zniszcz wskazany artefakt, stwora lub urok. Stwórz żeton bezkolorowego "
+"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną "
+"manę dowolnego koloru.\""
 
 #: ../../XLN.rst:1171
 msgid "−10: Target player's life total becomes 1."
@@ -3067,6 +3103,9 @@ msgid ""
 "colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add "
 "one mana of any color.\""
 msgstr ""
+"Ilekroć wyposażony stwór zadaje graczowi obrażenia bojowe, stwórz żeton "
+"bezkolorowego artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: "
+"Dostajesz jedną manę dowolnego koloru.\""
 
 #: ../../XLN.rst:1284
 msgid "Sentinel Totem"
@@ -3152,7 +3191,7 @@ msgstr ""
 
 #: ../../XLN.rst:1318
 msgid "Treasure Map"
-msgstr ""
+msgstr "Treasure Map (Mapa Skarbów)"
 
 #: ../../XLN.rst:1317
 msgid ""
@@ -3161,18 +3200,23 @@ msgid ""
 "transform Treasure Map, and create three colorless Treasure artifact tokens "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
+"|mana_1|, |tap|: Wróż 1. Połóż znacznik orientacji na tym artefakcie. "
+"Następnie jeśli są na nim trzy znaczniki orientacji, usuń owe znaczniki, "
+"transformuj ten artefakt i stwórz trzy żetony bezkolorowego artefaktu Skarb "
+"ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
+"koloru.\""
 
 #: ../../XLN.rst:1326
 msgid "Treasure Cove"
-msgstr ""
+msgstr "Treasure Cove (Zatoka Skarbów)"
 
 #: ../../XLN.rst:1321
 msgid "(Transforms from Treasure Map.)"
-msgstr ""
+msgstr "(Transformuje się z Mapy Skarbów.)"
 
 #: ../../XLN.rst:1325
 msgid "|tap|, Sacrifice a Treasure: Draw a card."
-msgstr ""
+msgstr "|tap|, poświęć Skarb: Dobierz kartę."
 
 #: ../../XLN.rst:1334
 msgid "Vanquisher's Banner"
