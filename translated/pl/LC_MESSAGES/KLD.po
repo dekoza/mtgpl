@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2018-12-23 22:06+0000\n"
+"PO-Revision-Date: 2018-12-24 10:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
@@ -1118,7 +1118,7 @@ msgstr ""
 msgid ""
 "As an additional cost to cast this spell, sacrifice an artifact or "
 "creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru poświęć artefakt lub stwora."
 
 #: ../../KLD.rst:793
 msgid "Draw cards equal to the converted mana cost of the sacrificed permanent."
@@ -2897,7 +2897,7 @@ msgstr ""
 
 #: ../../KLD.rst:2059 ../../KLD.rst:2295
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../KLD.rst:2069
 msgid "Concealed Courtyard"
@@ -2911,7 +2911,7 @@ msgstr ""
 
 #: ../../KLD.rst:2068
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../KLD.rst:2078
 msgid "Inspiring Vantage"
@@ -3040,12 +3040,13 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:2253
+#, fuzzy
 msgid "Stone Quarry"
-msgstr ""
+msgstr "Stone Quarry"
 
 #: ../../KLD.rst:2250
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../KLD.rst:2264
 msgid "Nissa, Nature's Artisan"
@@ -3093,9 +3094,10 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:2295
+#, fuzzy
 msgid "Woodland Stream"
-msgstr ""
+msgstr "Woodland Stream"
 
 #: ../../KLD.rst:2293
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
