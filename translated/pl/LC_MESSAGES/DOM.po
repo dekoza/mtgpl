@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-23 22:06+0000\n"
+"PO-Revision-Date: 2018-12-24 10:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
@@ -2851,7 +2851,7 @@ msgstr ""
 
 #: ../../DOM.rst:1281
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../DOM.rst:1288
 msgid "Short Sword"
@@ -2866,6 +2866,8 @@ msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposażaj wyłącznie jako obrzęd.)"
 
 #: ../../DOM.rst:1292
 msgid "Skittering Surveyor"
@@ -2998,7 +3000,7 @@ msgstr ""
 
 #: ../../DOM.rst:1347
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../DOM.rst:1354
 msgid "Isolated Chapel"
@@ -3012,7 +3014,7 @@ msgstr ""
 
 #: ../../DOM.rst:1353
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../DOM.rst:1362
 msgid "Memorial to Folly"
@@ -3024,7 +3026,7 @@ msgstr ""
 
 #: ../../DOM.rst:1359
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../DOM.rst:1361
 msgid ""
