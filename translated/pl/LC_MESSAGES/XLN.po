@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-23 22:06+0000\n"
+"PO-Revision-Date: 2018-12-24 10:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -1049,18 +1049,22 @@ msgid ""
 "Raid — When Shipwreck Looter enters the battlefield, if you attacked with a "
 "creature this turn, you may draw a card. If you do, discard a card."
 msgstr ""
+"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, możesz dobrać kartę. Jeśli to zrobisz, odrzuć kartę."
 
 #: ../../XLN.rst:392
+#, fuzzy
 msgid "Shore Keeper"
-msgstr ""
+msgstr "Shore Keeper"
 
 #: ../../XLN.rst:391
 msgid "|mana_7| |mana_u|, |tap|, Sacrifice Shore Keeper: Draw three cards."
-msgstr ""
+msgstr "|mana_7| |mana_u|, |tap|, poświęć tego stwora: Dobierz trzy karty."
 
 #: ../../XLN.rst:398
+#, fuzzy
 msgid "Siren Lookout"
-msgstr ""
+msgstr "Siren Lookout"
 
 #: ../../XLN.rst:397
 msgid ""
@@ -1075,36 +1079,47 @@ msgstr ""
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:404
+#, fuzzy
 msgid "Siren Stormtamer"
-msgstr ""
+msgstr "Siren Stormtamer"
 
 #: ../../XLN.rst:403
 msgid ""
 "|mana_u|, Sacrifice Siren Stormtamer: Counter target spell or ability that "
 "targets you or a creature you control."
 msgstr ""
+"|mana_u|, poświęć tego stwora: Skontruj wskazany czar lub zdolność "
+"wskazujące ciebie lub stwora pod twoim władaniem."
 
 #: ../../XLN.rst:408
+#, fuzzy
 msgid "Siren's Ruse"
-msgstr ""
+msgstr "Siren's Ruse"
 
 #: ../../XLN.rst:407
 msgid ""
 "Exile target creature you control, then return that card to the battlefield "
 "under its owner's control. If a Pirate was exiled this way, draw a card."
 msgstr ""
+"Wygnaj wskazanego stwora pod twoim władaniem, następnie przywróć ową kartę "
+"na pole walki pod władaniem jej właściciela. Jeśli Pirat został wygnany w "
+"ten sposób, dobierz kartę."
 
 #: ../../XLN.rst:412
+#, fuzzy
 msgid "Spell Pierce"
-msgstr ""
+msgstr "Spell Pierce"
 
 #: ../../XLN.rst:411
 msgid "Counter target noncreature spell unless its controller pays |mana_2|."
 msgstr ""
+"Skontruj wskazany czar nie będący stworem dopóki jego władca nie dopłaci "
+"|mana_2|."
 
 #: ../../XLN.rst:416
+#, fuzzy
 msgid "Spell Swindle"
-msgstr ""
+msgstr "Spell Swindle"
 
 #: ../../XLN.rst:415
 msgid ""
@@ -1117,52 +1132,65 @@ msgstr ""
 "poświęć ten artefakt: Dostajesz jedną manę dowolnego koloru.\""
 
 #: ../../XLN.rst:422
+#, fuzzy
 msgid "Storm Fleet Aerialist"
-msgstr ""
+msgstr "Storm Fleet Aerialist"
 
 #: ../../XLN.rst:421
 msgid ""
 "Raid — Storm Fleet Aerialist enters the battlefield with a +1/+1 counter on "
 "it if you attacked with a creature this turn."
 msgstr ""
+"Najazd — Ten stwór wchodzi na pole walki ze znacznikiem +1/+1 jeśli "
+"atakowałeś stworem w tej turze."
 
 #: ../../XLN.rst:426
+#, fuzzy
 msgid "Storm Fleet Spy"
-msgstr ""
+msgstr "Storm Fleet Spy"
 
 #: ../../XLN.rst:425
 msgid ""
 "Raid — When Storm Fleet Spy enters the battlefield, if you attacked with a "
 "creature this turn, draw a card."
 msgstr ""
+"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, dobierz kartę."
 
 #: ../../XLN.rst:432
+#, fuzzy
 msgid "Storm Sculptor"
-msgstr ""
+msgstr "Storm Sculptor"
 
 #: ../../XLN.rst:429
 msgid "Storm Sculptor can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 #: ../../XLN.rst:431
 msgid ""
 "When Storm Sculptor enters the battlefield, return a creature you control to "
 "its owner's hand."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, przywróć wskazanego stwora pod twoim "
+"władaniem do ręki jego właściciela."
 
 #: ../../XLN.rst:436
+#, fuzzy
 msgid "Tempest Caller"
-msgstr ""
+msgstr "Tempest Caller"
 
 #: ../../XLN.rst:435
 msgid ""
 "When Tempest Caller enters the battlefield, tap all creatures target "
 "opponent controls."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, zatapuj wszystkie stwory pod władaniem "
+"wskazanego przeciwnika."
 
 #: ../../XLN.rst:440
+#, fuzzy
 msgid "Watertrap Weaver"
-msgstr ""
+msgstr "Watertrap Weaver"
 
 #: ../../XLN.rst:439
 msgid ""
@@ -1170,86 +1198,109 @@ msgid ""
 "opponent controls. That creature doesn't untap during its controller's next "
 "untap step."
 msgstr ""
+"Kiedy ta karta wchodzi na pole walki, zatapuj wskazanego stwora pod "
+"władaniem przeciwnika. Ów stwór nie odtapowuje się podczas najbliższego "
+"kroku odtapowania jego władcy."
 
 #: ../../XLN.rst:446
+#, fuzzy
 msgid "Wind Strider"
-msgstr ""
+msgstr "Wind Strider"
 
 #: ../../XLN.rst:450
+#, fuzzy
 msgid "Anointed Deacon"
-msgstr ""
+msgstr "Anointed Deacon"
 
 #: ../../XLN.rst:449
 msgid ""
 "At the beginning of combat on your turn, you may have target Vampire get +2/"
 "+0 until end of turn."
 msgstr ""
+"Na początku walki w twojej turze, możesz sprawić, by wskazany Wampir dostał +"
+"2/+0 do końca tury."
 
 #: ../../XLN.rst:456
+#, fuzzy
 msgid "Arguel's Blood Fast"
-msgstr ""
+msgstr "Arguel's Blood Fast"
 
 #: ../../XLN.rst:453
 msgid "|mana_1| |mana_b|, Pay 2 life: Draw a card."
-msgstr ""
+msgstr "|mana_1| |mana_b|, zapłać 2 życia: Dobierz kartę."
 
 #: ../../XLN.rst:455
 msgid ""
 "At the beginning of your upkeep, if you have 5 or less life, you may "
 "transform Arguel's Blood Fast."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli masz 5 lub mniej życia, możesz "
+"transformować tę kartę."
 
 #: ../../XLN.rst:464
+#, fuzzy
 msgid "Temple of Aclazotz"
-msgstr ""
+msgstr "Temple of Aclazotz"
 
 #: ../../XLN.rst:459
 msgid "(Transforms from Arguel's Blood Fast.)"
-msgstr ""
+msgstr "(Transformuje z Arguel's Blood Fast.)"
 
 #: ../../XLN.rst:461
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../XLN.rst:463
 msgid ""
 "|tap|, Sacrifice a creature: You gain life equal to the sacrificed "
 "creature's toughness."
 msgstr ""
+"|tap|, poświęć stwora: Zyskujesz życie równe wytrzymałości poświęconego "
+"stwora."
 
 #: ../../XLN.rst:468
+#, fuzzy
 msgid "Bishop of the Bloodstained"
-msgstr ""
+msgstr "Bishop of the Bloodstained"
 
 #: ../../XLN.rst:467
 msgid ""
 "When Bishop of the Bloodstained enters the battlefield, target opponent "
 "loses 1 life for each Vampire you control."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik traci 1 życie za "
+"każdego Wampira pod twoim władaniem."
 
 #: ../../XLN.rst:474
+#, fuzzy
 msgid "Blight Keeper"
-msgstr ""
+msgstr "Blight Keeper"
 
 #: ../../XLN.rst:473
 msgid ""
 "|mana_7| |mana_b|, |tap|, Sacrifice Blight Keeper: Target opponent loses 4 "
 "life and you gain 4 life."
 msgstr ""
+"|mana_7| |mana_b|, |tap|, poświęć tego stwora: Wskazany przeciwnik traci 4 "
+"życia, a ty zyskujesz 4 życia."
 
 #: ../../XLN.rst:480
+#, fuzzy
 msgid "Bloodcrazed Paladin"
-msgstr ""
+msgstr "Bloodcrazed Paladin"
 
 #: ../../XLN.rst:479
 msgid ""
 "Bloodcrazed Paladin enters the battlefield with a +1/+1 counter on it for "
 "each creature that died this turn."
 msgstr ""
+"Ten stwór wchodzi na pole walki ze znacznikiem +1/+1 za każdego stwora, "
+"który umarł w tej turze."
 
 #: ../../XLN.rst:484
+#, fuzzy
 msgid "Boneyard Parley"
-msgstr ""
+msgstr "Boneyard Parley"
 
 #: ../../XLN.rst:483
 msgid ""
@@ -1258,10 +1309,15 @@ msgid ""
 "choice onto the battlefield under your control and the rest into their "
 "owners' graveyards."
 msgstr ""
+"Wygnaj co najwyżej pięć wskazanych kart stworów z cmentarzy. Przeciwnik "
+"dzieli owe karty na dwa stosy. Połóż wszystkie karty z wybranego przez "
+"ciebie stosu na polu walki pod twoim władaniem, a pozostałe do cmentarzy ich "
+"właścicieli."
 
 #: ../../XLN.rst:488
+#, fuzzy
 msgid "Contract Killing"
-msgstr ""
+msgstr "Contract Killing"
 
 #: ../../XLN.rst:487
 msgid ""
@@ -1273,13 +1329,14 @@ msgstr ""
 "koloru.\""
 
 #: ../../XLN.rst:494
+#, fuzzy
 msgid "Costly Plunder"
-msgstr ""
+msgstr "Costly Plunder"
 
 #: ../../XLN.rst:491
 msgid ""
 "As an additional cost to cast this spell, sacrifice an artifact or creature."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru poświęć artefakt lub stwora."
 
 #: ../../XLN.rst:493
 msgid "Draw two cards."
@@ -1287,15 +1344,16 @@ msgstr "Dobierz dwie karty."
 
 #: ../../XLN.rst:498
 msgid "Dark Nourishment"
-msgstr ""
+msgstr "Dark Nourishment (Mroczne Nasycenie)"
 
 #: ../../XLN.rst:497
 msgid "Dark Nourishment deals 3 damage to any target. You gain 3 life."
-msgstr ""
+msgstr "Ten czar zadaje 3 obrażenia w dowolny cel. Zyskujesz 3 życia."
 
 #: ../../XLN.rst:502
+#, fuzzy
 msgid "Deadeye Tormentor"
-msgstr ""
+msgstr "Deadeye Tormentor"
 
 #: ../../XLN.rst:501
 msgid ""
@@ -2902,6 +2960,8 @@ msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposażaj wyłącznie jako obrzęd.)"
 
 #: ../../XLN.rst:1184
 msgid "Conqueror's Galleon"
@@ -3259,7 +3319,7 @@ msgstr ""
 
 #: ../../XLN.rst:1339
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../XLN.rst:1346
 msgid "Drowned Catacomb"
@@ -3418,16 +3478,17 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1496
+#, fuzzy
 msgid "Woodland Stream"
-msgstr ""
+msgstr "Woodland Stream"
 
 #: ../../XLN.rst:1493
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../XLN.rst:1495
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../XLN.rst:1504
 msgid "Huatli, Dinosaur Knight"
@@ -3477,12 +3538,13 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1521
+#, fuzzy
 msgid "Stone Quarry"
-msgstr ""
+msgstr "Stone Quarry"
 
 #: ../../XLN.rst:1519
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../XLN.rst:1521
 msgid "|tap|: Add |mana_r| or |mana_w|."
