@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-23 22:06+0000\n"
+"PO-Revision-Date: 2018-12-24 10:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -666,6 +666,8 @@ msgstr ""
 #: ../../ORI.rst:299
 msgid "Counter target noncreature spell unless its controller pays |mana_2|."
 msgstr ""
+"Skontruj wskazany czar nie będący stworem dopóki jego władca nie dopłaci "
+"|mana_2|."
 
 #: ../../ORI.rst:301
 msgid "Disciple of the Ring gets +1/+1 until end of turn."
@@ -1627,7 +1629,7 @@ msgstr ""
 
 #: ../../ORI.rst:733
 msgid "At the beginning of your draw step, draw an additional card."
-msgstr ""
+msgstr "Na początku twojego kroku dobierania, dobierz dodatkową kartę."
 
 #: ../../ORI.rst:735
 msgid "At the beginning of your end step, discard your hand."
@@ -2733,6 +2735,8 @@ msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposażaj wyłącznie jako obrzęd.)"
 
 #: ../../ORI.rst:1254
 msgid "Jayemdae Tome"
@@ -2911,14 +2915,17 @@ msgid "|tap|: Add |mana_w| or |mana_b|. Caves of Koilos deals 1 damage to you."
 msgstr ""
 
 #: ../../ORI.rst:1342
+#, fuzzy
 msgid "Evolving Wilds"
-msgstr ""
+msgstr "Evolving Wilds"
 
 #: ../../ORI.rst:1341
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"połóż ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../ORI.rst:1348
 msgid "Foundry of the Consuls"
