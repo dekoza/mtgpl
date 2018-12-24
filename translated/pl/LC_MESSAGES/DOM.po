@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-24 11:22+0000\n"
+"PO-Revision-Date: 2018-12-24 12:26+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
@@ -193,7 +193,7 @@ msgid ""
 "When Daring Archaeologist enters the battlefield, you may return target "
 "artifact card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazaną kartę "
 "artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:67
@@ -273,7 +273,7 @@ msgid ""
 "When Excavation Elephant enters the battlefield, if it was kicked, return "
 "target artifact card from your graveyard to your hand."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki, jeśli został podbity, przywróć "
+"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, przywróć "
 "wskazaną kartę artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:100
@@ -484,7 +484,7 @@ msgid ""
 "When Sergeant-at-Arms enters the battlefield, if it was kicked, create two "
 "1/1 white Soldier creature tokens."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli został podbity, stwórz dwa "
+"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, stwórz dwa "
 "żetony białego stwora Piechur 1/1."
 
 #: ../../DOM.rst:182
@@ -603,6 +603,8 @@ msgid ""
 "If Academy Drake was kicked, it enters the battlefield with two +1/+1 "
 "counters on it."
 msgstr ""
+"Jeśli ta karta została podbita, wchodzi na pole walki z dwoma znacznikami +1/"
+"+1."
 
 #: ../../DOM.rst:234
 msgid "Academy Journeymage"
@@ -618,6 +620,8 @@ msgid ""
 "When Academy Journeymage enters the battlefield, return target creature an "
 "opponent controls to its owner's hand."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, przywróć wskazanego stwora pod "
+"władaniem przeciwnika do ręki jego właściciela."
 
 #: ../../DOM.rst:242
 msgid "The Antiquities War"
@@ -695,6 +699,9 @@ msgid ""
 "cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
+"karty twojej biblioteki, następnie połóż dowolne z nich na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../DOM.rst:276
 msgid "Cold-Water Snapper"
@@ -765,6 +772,8 @@ msgid ""
 "When Homarid Explorer enters the battlefield, target player puts the top "
 "four cards of their library into their graveyard."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wskazany gracz umieszcza cztery "
+"wierzchnie karty swojej biblioteki w swoim cmentarzu."
 
 #: ../../DOM.rst:310
 msgid "In Bolas's Clutches"
@@ -797,6 +806,9 @@ msgid ""
 "When Merfolk Trickster enters the battlefield, tap target creature an "
 "opponent controls. It loses all abilities until end of turn."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wchodzi na pole walki, zatapuj "
+"wskazanego stwora pod władaniem przeciwnika. Traci on wszystkie zdolności do "
+"końca tury."
 
 #: ../../DOM.rst:332
 msgid "The Mirari Conjecture"
@@ -836,6 +848,8 @@ msgid ""
 "When Naru Meha, Master Wizard enters the battlefield, copy target instant or "
 "sorcery spell you control. You may choose new targets for the copy."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, skopiuj wskazany czar sztuczki lub "
+"obrzędu pod twoim władaniem. Możesz wskazać nowe cele dla kopii."
 
 #: ../../DOM.rst:343
 msgid "Other Wizards you control get +1/+1."
@@ -909,6 +923,10 @@ msgid ""
 "battlefield under its owner's control at the beginning of the next end step. "
 "(Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz wygnać wskazany historyczny "
+"permanent pod twoim władaniem. Jeśli to zrobisz, przywróć ową kartę na pole "
+"walki pod władaniem jej właściciela na początku najbliższego kroku "
+"końcowego. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:382
 msgid "Slinn Voda, the Rising Deep"
@@ -920,6 +938,9 @@ msgid ""
 "return all creatures to their owners' hands except for Merfolk, Krakens, "
 "Leviathans, Octopuses, and Serpents."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, przywróć "
+"wszystkie stwory do rąk ich właścicieli za wyjątkiem Wodników, Lewiatanów, "
+"Ośmiornic i Wężowników."
 
 #: ../../DOM.rst:386
 msgid "Syncopate"
@@ -1054,6 +1075,8 @@ msgid ""
 "When Caligo Skin-Witch enters the battlefield, if it was kicked, each "
 "opponent discards two cards."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, każdy "
+"przeciwnik odrzuca dwie karty."
 
 #: ../../DOM.rst:454
 msgid "Cast Down"
@@ -1126,6 +1149,11 @@ msgid ""
 "process. Demonlord Belzenlok deals 1 damage to you for each card put into "
 "your hand this way."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wygnaj karty z wierzchu twojej "
+"biblioteki dopóki nie wygnasz nie-lądowej karty, następnie dołóż ową kartę "
+"do twojej ręki. Jeśli łączny koszt many owej karty wynosi 4 lub więcej, "
+"powtórz ten proces. Ta karta zadaje tobie 1 obrażenie za każdą kartę "
+"dołożoną do twojej ręki w ten sposób."
 
 #: ../../DOM.rst:488
 msgid "Divest"
@@ -1230,6 +1258,8 @@ msgid ""
 "When Josu Vess, Lich Knight enters the battlefield, if it was kicked, create "
 "eight 2/2 black Zombie Knight creature tokens with menace."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, stwórz osiem "
+"żetonów czarnego stwora Rycerz Zombi 2/2 ze złowrogością."
 
 #: ../../DOM.rst:538
 msgid "Kazarov, Sengir Pureblood"
@@ -1386,6 +1416,8 @@ msgid ""
 "If Stronghold Confessor was kicked, it enters the battlefield with two +1/+1 "
 "counters on it."
 msgstr ""
+"Jeśli ta karta została podbita, wchodzi na pole walki mając na sobie dwa "
+"znaczniki +1/+1."
 
 #: ../../DOM.rst:606
 msgid "Thallid Omnivore"
@@ -1421,6 +1453,9 @@ msgid ""
 "When Torgaar, Famine Incarnate enters the battlefield, up to one target "
 "player's life total becomes half their starting life total, rounded down."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, punkty życia co najwyżej jednego "
+"wskazanego gracza przyjmują wartość połowy ich startowej wartości, "
+"zaokrąglając w dół."
 
 #: ../../DOM.rst:622
 msgid "Urgoros, the Empty One"
@@ -1469,6 +1504,8 @@ msgid ""
 "When Windgrace Acolyte enters the battlefield, put the top three cards of "
 "your library into your graveyard and you gain 3 life."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, umieść trzy wierzchnie karty twojej "
+"biblioteki w twoim cmentarzu oraz zyskujesz 3 życia."
 
 #: ../../DOM.rst:640
 msgid "Yargle, Glutton of Urborg"
@@ -1567,6 +1604,9 @@ msgid ""
 "When Firefist Adept enters the battlefield, it deals X damage to target "
 "creature an opponent controls, where X is the number of Wizards you control."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, zadaje X obrażeń wskazanemu stworowi "
+"pod władaniem przeciwnika, gdzie X jest liczbą Czarodzejów pod twoim "
+"władaniem."
 
 #: ../../DOM.rst:694
 msgid "The First Eruption"
@@ -1632,6 +1672,8 @@ msgid ""
 "When Ghitu Chronicler enters the battlefield, if it was kicked, return "
 "target instant or sorcery card from your graveyard to your hand."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, przywróć "
+"wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:720
 msgid "Ghitu Journeymage"
@@ -1642,6 +1684,8 @@ msgid ""
 "When Ghitu Journeymage enters the battlefield, if you control another "
 "Wizard, Ghitu Journeymage deals 2 damage to each opponent."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli władasz innym Czarodziejem, ta "
+"karta zadaje każdemu przeciwnikowi 2 obrażenia."
 
 #: ../../DOM.rst:724
 msgid "Ghitu Lavarunner"
@@ -1680,6 +1724,8 @@ msgid ""
 "When Goblin Chainwhirler enters the battlefield, it deals 1 damage to each "
 "opponent and each creature and planeswalker they control."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, zadaje 1 obrażenie każdemu "
+"przeciwnikowi oraz każdemu stworowi i wędrowcowi pod ich władaniem."
 
 #: ../../DOM.rst:742
 msgid "Goblin Warchief"
@@ -1703,6 +1749,8 @@ msgid ""
 "nonenchantment permanents you don't control and put an aim counter on each "
 "of them."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wybierz cztery permanenty poza twoim "
+"władaniem nie będące urokami i połóż na każdym z nich znacznik celowania."
 
 #: ../../DOM.rst:747
 msgid ""
@@ -1755,6 +1803,9 @@ msgid ""
 "of target creature until end of turn. Untap that creature. It gains haste "
 "until end of turn."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, zyskujesz "
+"władanie nad wskazanym stworem do końca tury. Odtapuj owego stwora. Zyskuje "
+"on pośpiech do końca tury."
 
 #: ../../DOM.rst:774
 msgid "Keldon Raider"
@@ -1765,6 +1816,8 @@ msgid ""
 "When Keldon Raider enters the battlefield, you may discard a card. If you "
 "do, draw a card."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz odrzucić kartę. Jeśli tak "
+"zrobisz, dobierz kartę."
 
 #: ../../DOM.rst:778
 msgid "Keldon Warcaller"
@@ -1841,6 +1894,8 @@ msgid ""
 "When Siege-Gang Commander enters the battlefield, create three 1/1 red "
 "Goblin creature tokens."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, stwórz trzy żetony czerwonego stwora "
+"Goblin 1/1."
 
 #: ../../DOM.rst:809
 msgid ""
@@ -1916,6 +1971,8 @@ msgid ""
 "When Verix Bladewing enters the battlefield, if it was kicked, create Karox "
 "Bladewing, a legendary 4/4 red Dragon creature token with flying."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, stwórz żeton "
+"legendarnego czerwonego stwora Smok 4/4 z lataniem o nazwie Karox Bladewing."
 
 #: ../../DOM.rst:848
 msgid "Warcry Phoenix"
@@ -1993,6 +2050,8 @@ msgid ""
 "If Baloth Gorger was kicked, it enters the battlefield with three +1/+1 "
 "counters on it."
 msgstr ""
+"Jeśli ta karta została podbita, wchodzi na pole walki z trzema znacznikami +"
+"1/+1."
 
 #: ../../DOM.rst:882
 msgid "Broken Bond"
@@ -2103,6 +2162,8 @@ msgid ""
 "If Grunn, the Lonely King was kicked, it enters the battlefield with five +1/"
 "+1 counters on it."
 msgstr ""
+"Jeśli ta karta została podbita, wchodzi na pole walki z pięcioma znacznikami "
+"+1/+1."
 
 #: ../../DOM.rst:929
 msgid ""
@@ -2137,6 +2198,8 @@ msgstr ""
 msgid ""
 "When Krosan Druid enters the battlefield, if it was kicked, you gain 10 life."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli została pobita, zyskujesz 10 "
+"życia."
 
 #: ../../DOM.rst:946
 msgid "Llanowar Elves"
@@ -2175,6 +2238,8 @@ msgid ""
 "Whenever another Elf enters the battlefield under your control, put a +1/+1 "
 "counter on Marwyn, the Nurturer."
 msgstr ""
+"Ilekroć inny Elf wejdzie na pole walki pod twoim władaniem, połóż znacznik +"
+"1/+1 na tej karcie."
 
 #: ../../DOM.rst:963
 msgid "|tap|: Add an amount of |mana_g| equal to Marwyn's power."
@@ -2314,6 +2379,8 @@ msgid ""
 "When Territorial Allosaurus enters the battlefield, if it was kicked, it "
 "fights another target creature."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli została podbita, walczy z innym "
+"wskazanym stworem."
 
 #: ../../DOM.rst:1032
 msgid "Thorn Elemental"
@@ -2338,6 +2405,8 @@ msgid ""
 "If Untamed Kavu was kicked, it enters the battlefield with three +1/+1 "
 "counters on it."
 msgstr ""
+"Jeśli ta karta została podbita, wchodzi na pole walki z trzema znacznikami +"
+"1/+1."
 
 #: ../../DOM.rst:1044
 msgid "Verdant Force"
@@ -2369,6 +2438,8 @@ msgid ""
 "When Yavimaya Sapherd enters the battlefield, create a 1/1 green Saproling "
 "creature token."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, stwórz żeton zielonego stwora "
+"Saproling 1/1."
 
 #: ../../DOM.rst:1060
 msgid "Adeliz, the Cinder Wind"
@@ -2438,6 +2509,8 @@ msgid ""
 "When Garna, the Bloodflame enters the battlefield, return to your hand all "
 "creature cards in your graveyard that were put there from anywhere this turn."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, przywróć do twojej ręki wszystkie "
+"karty stworów z twojego cmentarza, które trafiły tam skądkolwiek w tej turze."
 
 #: ../../DOM.rst:1089
 msgid "Other creatures you control have haste."
@@ -2506,6 +2579,9 @@ msgid ""
 "you control. Return it to the battlefield under its owner's control at the "
 "beginning of the next end step."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wygnaj inny wskazany permanent pod "
+"twoim władaniem. Przywróć go na pole walki pod władaniem jego właściciela na "
+"początku najbliższego kroku końcowego."
 
 #: ../../DOM.rst:1121
 msgid ""
@@ -2542,6 +2618,8 @@ msgid ""
 "historic card from your graveyard. (Artifacts, legendaries, and Sagas are "
 "historic.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz wygnać wskazaną historyczną "
+"kartę z twojego cmentarza. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1141
 msgid "You may cast nonland cards exiled with Rona."
@@ -2588,6 +2666,8 @@ msgid ""
 "Whenever a land enters the battlefield under your control, you gain 1 life "
 "and draw a card."
 msgstr ""
+"Ilekroć ląd wejdzie na pole walki pod twoim władaniem, zyskujesz 1 życie i "
+"dobierasz kartę."
 
 #: ../../DOM.rst:1168
 msgid "Teferi, Hero of Dominaria"
@@ -2720,6 +2800,9 @@ msgid ""
 "target historic permanent you control to its owner's hand. (Artifacts, "
 "legendaries, and Sagas are historic.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz przywrócić inny wskazany "
+"historyczny permanent po twoim władaniem do ręki jego właściciela. ("
+"Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1226
 msgid "Helm of the Host"
@@ -2819,7 +2902,7 @@ msgstr ""
 
 #: ../../DOM.rst:1265
 msgid "When Navigator's Compass enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../DOM.rst:1267
 msgid ""
@@ -2879,6 +2962,9 @@ msgid ""
 "for a basic land card, reveal it, put it into your hand, then shuffle your "
 "library."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz poszukać w twojej bibliotece "
+"kartę bazowego lądu, ujawnić i umieścić ją w twojej ręce, następnie "
+"przetasuj twoją bibliotekę."
 
 #: ../../DOM.rst:1298
 msgid "Sorcerer's Wand"
@@ -2920,6 +3006,8 @@ msgid ""
 "Traxos, Scourge of Kroog enters the battlefield tapped and doesn't untap "
 "during your untap step."
 msgstr ""
+"Ta karta wchodzi na pole walki zatapowana i nie odtapowuje się w twoim kroku "
+"odtapowania."
 
 #: ../../DOM.rst:1313
 msgid ""
@@ -2983,6 +3071,7 @@ msgid ""
 "Clifftop Retreat enters the battlefield tapped unless you control a Mountain "
 "or a Plains."
 msgstr ""
+"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Górą lub Równiną."
 
 #: ../../DOM.rst:1341
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -2997,6 +3086,7 @@ msgid ""
 "Hinterland Harbor enters the battlefield tapped unless you control a Forest "
 "or an Island."
 msgstr ""
+"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Lasem lub Wyspą."
 
 #: ../../DOM.rst:1347
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -3011,6 +3101,8 @@ msgid ""
 "Isolated Chapel enters the battlefield tapped unless you control a Plains or "
 "a Swamp."
 msgstr ""
+"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Równiną lub "
+"Bagnem."
 
 #: ../../DOM.rst:1353
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -3022,7 +3114,7 @@ msgstr ""
 
 #: ../../DOM.rst:1357
 msgid "Memorial to Folly enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../DOM.rst:1359
 msgid "|tap|: Add |mana_b|."
@@ -3040,7 +3132,7 @@ msgstr ""
 
 #: ../../DOM.rst:1365
 msgid "Memorial to Genius enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../DOM.rst:1367
 msgid "|tap|: Add |mana_u|."
@@ -3056,7 +3148,7 @@ msgstr ""
 
 #: ../../DOM.rst:1373
 msgid "Memorial to Glory enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../DOM.rst:1375
 msgid "|tap|: Add |mana_w|."
@@ -3074,7 +3166,7 @@ msgstr ""
 
 #: ../../DOM.rst:1381
 msgid "Memorial to Unity enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../DOM.rst:1385
 msgid ""
@@ -3090,7 +3182,7 @@ msgstr ""
 
 #: ../../DOM.rst:1389
 msgid "Memorial to War enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../DOM.rst:1391
 msgid "|tap|: Add |mana_r|."
@@ -3110,6 +3202,7 @@ msgid ""
 "Sulfur Falls enters the battlefield tapped unless you control an Island or a "
 "Mountain."
 msgstr ""
+"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Wyspą lub Górą."
 
 #: ../../DOM.rst:1399
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -3124,6 +3217,7 @@ msgid ""
 "Woodland Cemetery enters the battlefield tapped unless you control a Swamp "
 "or a Forest."
 msgstr ""
+"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Bagnem lub Lasem."
 
 #: ../../DOM.rst:1405
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -3138,6 +3232,8 @@ msgid ""
 "When Zhalfirin Void enters the battlefield, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ją na spodzie twojej biblioteki.)"
 
 #: ../../DOM.rst:1414 ../../DOM.rst:1418 ../../DOM.rst:1422 ../../DOM.rst:1426
 msgid "Plains"
@@ -3195,6 +3291,10 @@ msgid ""
 "library and/or graveyard for a card named Teferi, Timebender, reveal it, and "
 "put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz poszukać w twojej bibliotece "
+"oraz/lub cmentarzy kartę o nazwie Teferi, Timebender, ujawnić ją i umieścić "
+"w twojej ręce. Jeśli przeszukałeś twoją bibliotekę w ten sposób, przetasuj "
+"ją."
 
 #: ../../DOM.rst:1512
 msgid "Teferi's Sentinel"
