@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-24 11:22+0000\n"
+"PO-Revision-Date: 2018-12-25 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -2177,12 +2177,13 @@ msgstr ""
 
 # 511af6040bf742d89088143446332671
 #: ../../M15.rst:810
+#, fuzzy
 msgid "Lightning Strike"
-msgstr ""
+msgstr "Lightning Strike"
 
 #: ../../M15.rst:809
 msgid "Lightning Strike deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje 3 obrażenia dowolnemu celowi."
 
 # 242268f842b44c658e1d3f1c32873c87
 #: ../../M15.rst:814
@@ -2230,13 +2231,14 @@ msgstr ""
 
 # 5794a2bc0d304b58ad87112f1d7cb3a3
 #: ../../M15.rst:828
+#, fuzzy
 msgid "Rummaging Goblin"
-msgstr ""
+msgstr "Rummaging Goblin"
 
 # 37aa2a65a7064c8e921fb7f3800c0bf8
 #: ../../M15.rst:827
 msgid "|tap|, Discard a card: Draw a card."
-msgstr ""
+msgstr "|tap|, odrzuć kartę: Dobierz kartę."
 
 # a68bdf3715cf438f81b33a9a72b94b9a
 #: ../../M15.rst:832
