@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-24 10:25+0000\n"
+"PO-Revision-Date: 2018-12-24 11:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -55,8 +55,9 @@ msgstr ""
 
 # 04246215695340c99a342d3e3dcf46a5
 #: ../../M15.rst:18
+#, fuzzy
 msgid "Ajani's Pridemate"
-msgstr ""
+msgstr "Ajani's Pridemate"
 
 # 4c86ac3267644f1598a537a9db77a73e
 #: ../../M15.rst:17
@@ -1410,6 +1411,8 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature card "
 "from your graveyard to your hand."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"stwora z twojego cmentarza do twojej ręki."
 
 # b50fa6afd4d04a669b7c57f61e9c8c2c
 #: ../../M15.rst:524
@@ -2710,6 +2713,8 @@ msgid ""
 "When Reclamation Sage enters the battlefield, you may destroy target "
 "artifact or enchantment."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz zniszczyć wskazany artefakt lub "
+"urok."
 
 # b3535dcd2f61478bbb777bfd72048185
 #: ../../M15.rst:1018
