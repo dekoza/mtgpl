@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2018-12-24 10:25+0000\n"
+"PO-Revision-Date: 2018-12-25 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
@@ -1338,7 +1338,7 @@ msgstr ""
 
 #: ../../KLD.rst:951
 msgid "Demolish"
-msgstr ""
+msgstr "Demolish (Wyburzenie)"
 
 #: ../../KLD.rst:950
 msgid "Destroy target artifact or land."
@@ -1383,14 +1383,17 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:988
+#, fuzzy
 msgid "Hijack"
-msgstr ""
+msgstr "Hijack"
 
 #: ../../KLD.rst:987
 msgid ""
 "Gain control of target artifact or creature until end of turn. Untap it. "
 "It gains haste until end of turn."
 msgstr ""
+"Zyskujesz władaniem nad wskazanym artefaktem lub stworem do końca tury. "
+"Odtapuj go. Zyskuje on pośpiech do końca tury."
 
 #: ../../KLD.rst:997
 msgid "Incendiary Sabotage"
@@ -2526,7 +2529,7 @@ msgstr ""
 
 #: ../../KLD.rst:1793 ../../KLD.rst:1894
 msgid "Trample, haste"
-msgstr ""
+msgstr "Tratowanie, pośpiech"
 
 #: ../../KLD.rst:1795
 msgid ""
