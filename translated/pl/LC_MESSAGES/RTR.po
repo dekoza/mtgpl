@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-23 22:06+0000\n"
+"PO-Revision-Date: 2018-12-24 10:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -2187,11 +2187,10 @@ msgid "Izzet Charm"
 msgstr ""
 
 #: ../../RTR.rst:1391
-#, fuzzy
 msgid "Counter target noncreature spell unless its controller pays |mana_2|."
 msgstr ""
-"Poświęć Judge's Familiar: Skontruj wskazany czar sztuczki lub obrzędu "
-"dopóki jego władca nie zapłaci |mana_1|."
+"Skontruj wskazany czar nie będący stworem dopóki jego władca nie dopłaci "
+"|mana_2|."
 
 #: ../../RTR.rst:1393
 #, fuzzy
@@ -3059,9 +3058,8 @@ msgid "Rakdos Keyrune"
 msgstr ""
 
 #: ../../RTR.rst:1919 ../../RTR.rst:2031
-#, fuzzy
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../RTR.rst:1921
 msgid ""
