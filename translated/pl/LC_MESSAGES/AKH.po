@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2018-12-23 23:04+0000\n"
+"PO-Revision-Date: 2018-12-24 10:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
@@ -2850,6 +2850,8 @@ msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip "
 "only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposażaj wyłącznie jako obrzęd.)"
 
 #: ../../AKH.rst:2074
 msgid "Kefnet's Monument"
@@ -3003,14 +3005,17 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:2171
+#, fuzzy
 msgid "Evolving Wilds"
-msgstr ""
+msgstr "Evolving Wilds"
 
 #: ../../AKH.rst:2170
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land "
 "card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"połóż ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:2182
 msgid "Fetid Pools"
@@ -3166,12 +3171,13 @@ msgid "Whenever Graceful Cat attacks, it gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../AKH.rst:2427
+#, fuzzy
 msgid "Stone Quarry"
-msgstr ""
+msgstr "Stone Quarry"
 
 #: ../../AKH.rst:2424
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../AKH.rst:2426
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -3224,48 +3230,52 @@ msgid "When Tattered Mummy dies, each opponent loses 2 life."
 msgstr ""
 
 #: ../../AKH.rst:2468
+#, fuzzy
 msgid "Foul Orchard"
-msgstr ""
+msgstr "Foul Orchard"
 
 #: ../../AKH.rst:2465
 msgid "Foul Orchard enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../AKH.rst:2467
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../AKH.rst:2477
+#, fuzzy
 msgid "Cinder Barrens"
-msgstr ""
+msgstr "Cinder Barrens"
 
 #: ../../AKH.rst:2474
 msgid "Cinder Barrens enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../AKH.rst:2476
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../AKH.rst:2486
+#, fuzzy
 msgid "Forsaken Sanctuary"
-msgstr ""
+msgstr "Forsaken Sanctuary"
 
 #: ../../AKH.rst:2483
 msgid "Forsaken Sanctuary enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../AKH.rst:2485
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../AKH.rst:2495
+#, fuzzy
 msgid "Highland Lake"
-msgstr ""
+msgstr "Highland Lake"
 
 #: ../../AKH.rst:2492
 msgid "Highland Lake enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../AKH.rst:2494
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -3320,13 +3330,14 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../AKH.rst:2539
+#, fuzzy
 msgid "Woodland Stream"
-msgstr ""
+msgstr "Woodland Stream"
 
 #: ../../AKH.rst:2537
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../AKH.rst:2539
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
