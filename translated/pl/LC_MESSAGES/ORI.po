@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-24 11:22+0000\n"
+"PO-Revision-Date: 2018-12-24 12:26+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -152,6 +152,8 @@ msgid ""
 "When Cleric of the Forward Order enters the battlefield, you gain 2 life for "
 "each creature you control named Cleric of the Forward Order."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, zyskujesz 2 życia za każdego stwora o "
+"takiej samej nazwie jak niniejsza karta."
 
 #: ../../ORI.rst:64
 msgid "Consul's Lieutenant"
@@ -184,7 +186,7 @@ msgstr ""
 msgid ""
 "When Enlightened Ascetic enters the battlefield, you may destroy target "
 "enchantment."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, możesz zniszczyć wskazany urok."
 
 #: ../../ORI.rst:72
 msgid "Enshrouding Mist"
@@ -257,6 +259,8 @@ msgid ""
 "When Heavy Infantry enters the battlefield, tap target creature an opponent "
 "controls."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, zatapuj wskazanego stwora pod "
+"władaniem przeciwnika."
 
 #: ../../ORI.rst:106
 msgid "Hixus, Prison Warden"
@@ -288,6 +292,9 @@ msgid ""
 "controls more lands than you, you may search your library for a Plains card, "
 "put it onto the battlefield, then shuffle your library."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli przeciwnik ma we władaniu więcej "
+"lądów niż ty, możesz poszukać w twojej bibliotece kartę Równin, położyć ją "
+"na polu walki, a następnie przetasować twoją bibliotekę."
 
 #: ../../ORI.rst:124
 msgid "Knightly Valor"
@@ -400,6 +407,8 @@ msgid ""
 "When Patron of the Valiant enters the battlefield, put a +1/+1 counter on "
 "each creature you control with a +1/+1 counter on it."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, połóż znacznik +1/+1 na każdym stworze "
+"pod twoim władaniem posiadającym znacznik +1/+1."
 
 #: ../../ORI.rst:172
 msgid "Relic Seeker"
@@ -499,6 +508,9 @@ msgid ""
 "library for an Aura card, reveal it, put it into your hand, then shuffle "
 "your library."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz poszukać w twojej bibliotece "
+"kartę Aury, ujawnić ją i dołożyć do twojej ręki, a następnie przetasować "
+"twoją bibliotekę."
 
 #: ../../ORI.rst:220
 msgid "Tragic Arrogance"
@@ -520,6 +532,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, creatures you "
 "control get +1/+1 until end of turn."
 msgstr ""
+"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, stwory pod twoim "
+"władaniem dostają +1/+1 do końca tury."
 
 #: ../../ORI.rst:230
 msgid "Vryn Wingmare"
@@ -554,6 +568,8 @@ msgid ""
 "As Alhammarret, High Arbiter enters the battlefield, each opponent reveals "
 "their hand. You choose the name of a nonland card revealed this way."
 msgstr ""
+"Podczas wchodzenia tej karty na pole walki, każdy przeciwnik ujawnia swoją "
+"rękę. Wybierz nazwę nie-lądowej karty ujawnionej w ten sposób."
 
 #: ../../ORI.rst:247
 msgid ""
@@ -588,6 +604,8 @@ msgid ""
 "When Aspiring Aeronaut enters the battlefield, create a 1/1 colorless "
 "Thopter artifact creature token with flying."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, stwórz żeton bezkolorowego "
+"artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../ORI.rst:268
 msgid "Bone to Ash"
@@ -720,6 +738,8 @@ msgid ""
 "When Faerie Miscreant enters the battlefield, if you control another "
 "creature named Faerie Miscreant, draw a card."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli władasz inną kartą o takiej "
+"samej nazwie, dobierz kartę."
 
 #: ../../ORI.rst:330
 msgid "Harbinger of the Tides"
@@ -737,6 +757,8 @@ msgid ""
 "When Harbinger of the Tides enters the battlefield, you may return target "
 "tapped creature an opponent controls to its owner's hand."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazanego "
+"zatapowanego stwora pod władaniem przeciwnika do ręki jego właściciela."
 
 #: ../../ORI.rst:336
 msgid "Hydrolash"
@@ -821,6 +843,8 @@ msgid ""
 "When Mizzium Meddler enters the battlefield, you may change a target of "
 "target spell or ability to Mizzium Meddler."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz zamienić cel wskazanego czaru "
+"lub zdolności na tę kartę."
 
 #: ../../ORI.rst:374
 #, fuzzy
@@ -844,6 +868,8 @@ msgid ""
 "When Nivix Barrier enters the battlefield, target attacking creature gets "
 "-4/-0 until end of turn."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wskazany atakujący stwór dostaje -4/-0 "
+"do końca tury."
 
 #: ../../ORI.rst:388
 msgid "Psychic Rebuttal"
@@ -881,6 +907,8 @@ msgid ""
 "When Screeching Skaab enters the battlefield, put the top two cards of your "
 "library into your graveyard."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, połóż dwie wierzchnie karty twojej "
+"biblioteki do twojego cmentarza."
 
 #: ../../ORI.rst:410
 msgid "Send to Sleep"
@@ -906,6 +934,8 @@ msgid ""
 "When Separatist Voidmage enters the battlefield, you may return target "
 "creature to its owner's hand."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazanego stwora do "
+"ręki jego właściciela."
 
 #: ../../ORI.rst:418
 msgid "Sigiled Starfish"
@@ -966,7 +996,7 @@ msgstr ""
 
 #: ../../ORI.rst:441
 msgid "When Stratus Walk enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, dobierz kartę."
 
 #: ../../ORI.rst:443
 msgid ""
@@ -1021,6 +1051,9 @@ msgid ""
 "When Tower Geist enters the battlefield, look at the top two cards of your "
 "library. Put one of them into your hand and the other into your graveyard."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, spójrz na dwie wierzchnie karty twojej "
+"biblioteki. Dołóż jedną z nich do twojej ręki, a pozostałą do twojego "
+"cmentarza."
 
 #: ../../ORI.rst:468
 msgid "Turn to Frog"
@@ -1049,6 +1082,8 @@ msgid ""
 "When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter "
 "artifact creature tokens with flying."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki,  stwórz dwa żeton bezkolorowego "
+"artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../ORI.rst:477
 msgid ""
@@ -1207,6 +1242,8 @@ msgid ""
 "When Eyeblight Assassin enters the battlefield, target creature an opponent "
 "controls gets -1/-1 until end of turn."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wskazany stwór pod władaniem "
+"przeciwnika dostaje -1/-1 do końca tury."
 
 #: ../../ORI.rst:548
 msgid "Eyeblight Massacre"
@@ -1234,7 +1271,7 @@ msgstr ""
 msgid ""
 "When Fleshbag Marauder enters the battlefield, each player sacrifices a "
 "creature."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, każdy gracz poświęca stwora."
 
 #: ../../ORI.rst:564
 msgid "Gilt-Leaf Winnower"
@@ -1252,6 +1289,8 @@ msgid ""
 "When Gilt-Leaf Winnower enters the battlefield, you may destroy target non-"
 "Elf creature whose power and toughness aren't equal."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz zniszczyć wskazanego stwora nie "
+"będącego Elfem, którego siła i wytrzymałość nie są równe."
 
 #: ../../ORI.rst:570
 msgid "Gnarlroot Trapper"
