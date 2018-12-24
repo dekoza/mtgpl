@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-24 11:22+0000\n"
+"PO-Revision-Date: 2018-12-25 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -2420,9 +2420,8 @@ msgstr "|mana_2| |mana_b|: Zregeneruj Deathbellow Raider."
 # bbd999d886474763892037febebda8b9
 # f0ed0ad4b86f4a86ad58e6d27fc53fcd
 #: ../../THS.rst:646
-#, fuzzy
 msgid "Demolish"
-msgstr "Demolish"
+msgstr "Demolish (Wyburzenie)"
 
 # 3dfa63d348fb4f65bf8e379c7906a632
 # 6cd1ccc92cfd47188df96c2ddb88470f
@@ -2623,9 +2622,8 @@ msgstr "Lightning Strike"
 # 2d4d07872ce5445e987507de47c2343b
 # b41ae74e955645009a28b4b616870ddb
 #: ../../THS.rst:693
-#, fuzzy
 msgid "Lightning Strike deals 3 damage to any target."
-msgstr "Lightning Strike zadaje wskazanemu stworowi lub graczowi 3 obrażenia."
+msgstr "Ten czar zadaje 3 obrażenia dowolnemu celowi."
 
 # b6736a5569b841458de7f90b70fe78be
 #: ../../THS.rst:698
