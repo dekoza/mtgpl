@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2018-12-23 23:04+0000\n"
+"PO-Revision-Date: 2018-12-24 10:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/soi/pl/>\n"
 "Language: pl\n"
@@ -3397,7 +3397,7 @@ msgstr ""
 
 #: ../../SOI.rst:2398 ../../SOI.rst:2427
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../SOI.rst:2408
 msgid "Magnifying Glass"
@@ -3472,6 +3472,8 @@ msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip "
 "only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposażaj wyłącznie jako obrzęd.)"
 
 #: ../../SOI.rst:2468
 msgid "Skeleton Key"
@@ -3602,19 +3604,20 @@ msgstr ""
 
 #: ../../SOI.rst:2557
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../SOI.rst:2567
+#, fuzzy
 msgid "Forsaken Sanctuary"
-msgstr ""
+msgstr "Forsaken Sanctuary"
 
 #: ../../SOI.rst:2564
 msgid "Forsaken Sanctuary enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../SOI.rst:2566
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../SOI.rst:2576
 msgid "Fortified Village"
@@ -3632,12 +3635,13 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../SOI.rst:2585
+#, fuzzy
 msgid "Foul Orchard"
-msgstr ""
+msgstr "Foul Orchard"
 
 #: ../../SOI.rst:2582
 msgid "Foul Orchard enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../SOI.rst:2594
 msgid "Game Trail"
@@ -3655,12 +3659,13 @@ msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
 #: ../../SOI.rst:2603
+#, fuzzy
 msgid "Highland Lake"
-msgstr ""
+msgstr "Highland Lake"
 
 #: ../../SOI.rst:2600
 msgid "Highland Lake enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../SOI.rst:2602
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -3682,12 +3687,13 @@ msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
 #: ../../SOI.rst:2621
+#, fuzzy
 msgid "Stone Quarry"
-msgstr ""
+msgstr "Stone Quarry"
 
 #: ../../SOI.rst:2618
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../SOI.rst:2620
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -3729,16 +3735,17 @@ msgid "Flying, lifelink, indestructible, haste"
 msgstr ""
 
 #: ../../SOI.rst:2657
+#, fuzzy
 msgid "Woodland Stream"
-msgstr ""
+msgstr "Woodland Stream"
 
 #: ../../SOI.rst:2654
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../SOI.rst:2656
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../SOI.rst:2662 ../../SOI.rst:2669 ../../SOI.rst:2676
 msgid "Plains"
