@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-23 23:04+0000\n"
+"PO-Revision-Date: 2018-12-24 10:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bfz/pl/>\n"
 "Language: pl\n"
@@ -2653,14 +2653,17 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:1304
+#, fuzzy
 msgid "Evolving Wilds"
-msgstr ""
+msgstr "Evolving Wilds"
 
 #: ../../BFZ.rst:1303
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"połóż ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../BFZ.rst:1312
 msgid "Fertile Thicket"
@@ -2710,7 +2713,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1325
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../BFZ.rst:1327
 msgid ""
@@ -2734,7 +2737,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1335
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../BFZ.rst:1342
 msgid "Prairie Stream"
@@ -2790,7 +2793,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1361
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../BFZ.rst:1363
 msgid ""
