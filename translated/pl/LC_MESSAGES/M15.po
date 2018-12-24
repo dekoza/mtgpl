@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-23 22:06+0000\n"
+"PO-Revision-Date: 2018-12-24 10:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -3362,18 +3362,18 @@ msgstr "Niezniszczalność"
 
 # 94543eb3b0014a9e9e31fda0b65c674b
 #: ../../M15.rst:1280
+#, fuzzy
 msgid "Evolving Wilds"
-msgstr ""
+msgstr "Evolving Wilds"
 
 # 11b536b230184660af809f701c6a9ec0
 #: ../../M15.rst:1279
-#, fuzzy
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"Poszukaj w twojej bibliotece karty stwora o łącznym koszcie many X lub "
-"mniejszym i połóż ją na polu walki. Następnie przetasuj twoją bibliotekę."
+"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"połóż ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
 
 # 034eb04fdf3e454ba6a7285199a7e59d
 #: ../../M15.rst:1286
