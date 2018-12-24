@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-20 21:14+0000\n"
+"PO-Revision-Date: 2018-12-24 10:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dka/pl/>\n"
 "Language: pl\n"
@@ -2210,7 +2210,7 @@ msgstr ""
 # e095d069e9f84336876800eee8634a08
 #: ../../DKA.rst:875
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 # 5a04735d0b594e2d9ac76728c3002ac1
 #: ../../DKA.rst:882
@@ -2360,14 +2360,17 @@ msgstr ""
 
 # 8b2ed7555e164710b93a5e8e013ad024
 #: ../../DKA.rst:934
+#, fuzzy
 msgid "Evolving Wilds"
-msgstr ""
+msgstr "Evolving Wilds"
 
 #: ../../DKA.rst:933
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
+"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"połóż ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
 
 # 8a82664ecc3b40518e2714cfb02226ca
 #: ../../DKA.rst:940
