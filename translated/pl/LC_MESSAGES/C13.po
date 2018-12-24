@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-27 09:25+0100\n"
-"PO-Revision-Date: 2018-12-24 10:25+0000\n"
+"PO-Revision-Date: 2018-12-24 11:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -139,8 +139,9 @@ msgstr ""
 
 # aa2bd45771fb453f8a527b5600aa6133
 #: ../../C13.rst:31
+#, fuzzy
 msgid "Ajani's Pridemate"
-msgstr ""
+msgstr "Ajani's Pridemate"
 
 # 922513170ac045f395852b76c9a766cf
 #: ../../C13.rst:30
@@ -3243,12 +3244,14 @@ msgstr ""
 # d0ff20c5eee54321a9edb80db1072bb9
 #: ../../C13.rst:1308
 msgid "Rupture Spire enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 # 9f788c1ddef14c249015a57c58c5ede7
 #: ../../C13.rst:1310
 msgid "When Rupture Spire enters the battlefield, sacrifice it unless you pay |mana_1|."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, poświęć ją, chyba że zapłacisz "
+"|mana_1|."
 
 # 5fee2cbcc4b24897b3bdef5234d028af
 #: ../../C13.rst:1317
