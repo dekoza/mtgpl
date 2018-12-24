@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-24 11:22+0000\n"
+"PO-Revision-Date: 2018-12-25 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -1054,13 +1054,15 @@ msgstr ""
 
 #: ../../M19.rst:476
 msgid "Duress"
-msgstr ""
+msgstr "Duress (Przymus)"
 
 #: ../../M19.rst:475
 msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland card "
 "from it. That player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
+"stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../M19.rst:480
 msgid "Epicure of Blood"
@@ -1082,7 +1084,7 @@ msgstr ""
 
 #: ../../M19.rst:487
 msgid "Whenever an opponent discards a card, that player loses 2 life."
-msgstr ""
+msgstr "Ilekroć przeciwnik odrzuca kartę, ów gracz traci 2 życia."
 
 #: ../../M19.rst:492
 msgid "Fraying Omnipotence"
@@ -1336,8 +1338,9 @@ msgid ""
 msgstr "Kiedy ta karta wejdzie na pole walki, zadaje 1 obrażenia w dowolny cel."
 
 #: ../../M19.rst:600
+#, fuzzy
 msgid "Skymarch Bloodletter"
-msgstr ""
+msgstr "Skymarch Bloodletter"
 
 #: ../../M19.rst:599
 msgid ""
@@ -1684,12 +1687,13 @@ msgid "|mana_1| |mana_r|: Lightning Mare gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../M19.rst:760
+#, fuzzy
 msgid "Lightning Strike"
-msgstr ""
+msgstr "Lightning Strike"
 
 #: ../../M19.rst:759
 msgid "Lightning Strike deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje 3 obrażenia dowolnemu celowi."
 
 #: ../../M19.rst:762
 msgid "Onakke Ogre"
@@ -1792,6 +1796,8 @@ msgid ""
 "Target creature gets +3/+0 and gains first strike until end of turn. (It "
 "deals combat damage before creatures without first strike.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
+"obrażenia bojowe przez stworami bez pierwszego ciosu.)"
 
 #: ../../M19.rst:812
 msgid "Tectonic Rift"
