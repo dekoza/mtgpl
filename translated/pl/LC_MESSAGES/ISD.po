@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-23 22:06+0000\n"
+"PO-Revision-Date: 2018-12-24 10:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
@@ -3172,6 +3172,8 @@ msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposażaj wyłącznie jako obrzęd.)"
 
 # feb4c52e00f44556bf770bd209a6688e
 #: ../../ISD.rst:1244
@@ -3415,7 +3417,7 @@ msgstr ""
 # f02c2cc463e4426f9d950acc27585c24
 #: ../../ISD.rst:1333
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 # 0867d7e2b39443838cd7e0ce6ee991af
 #: ../../ISD.rst:1342
@@ -3435,13 +3437,16 @@ msgstr ""
 # 1a89da9d602d49609538d66bb8854202
 #: ../../ISD.rst:1346
 msgid "Traveler's Amulet"
-msgstr ""
+msgstr "Traveler's Amulet (Amulet podróżnika)"
 
 #: ../../ISD.rst:1345
 msgid ""
 "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land "
 "card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"|mana_1|, poświęć ten artefakt.: Poszukaj w twojej bibliotece karty bazowego "
+"lądu, ujawnij ją i dołóż do twojej ręki. Następnie przetasuj twoją "
+"bibliotekę."
 
 # f25da741e6bf4a66b01e1d9ce5b1f1f5
 #: ../../ISD.rst:1352
@@ -3552,9 +3557,8 @@ msgstr ""
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1389
-#, fuzzy
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dodaj |mana_w| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 # 338ff9fa82d34ac988504a0dcca7e6af
 #: ../../ISD.rst:1396
@@ -3570,9 +3574,8 @@ msgstr ""
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1395
-#, fuzzy
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dodaj |mana_w| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 # 4d6931a4a9854d7caa2176d15a938fc3
 #: ../../ISD.rst:1402
