@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-24 10:25+0000\n"
+"PO-Revision-Date: 2018-12-24 11:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -181,13 +181,12 @@ msgid "Knightly Valor"
 msgstr ""
 
 #: ../../RTR.rst:106
-#, fuzzy
 msgid ""
 "When Knightly Valor enters the battlefield, create a 2/2 white Knight "
 "creature token with vigilance. (Attacking doesn't cause it to tap.)"
 msgstr ""
-"Kiedy Knightly Valor wchodzi na pole walki, połóż na polu walki żeton "
-"białego stwora Rycerz 2/2 z czujnością."
+"Kiedy ta karta wejdzie na pole walki, stwórz żeton białego stwora Rycerz 2/2 "
+"z czujnością. (Atakowanie nie powoduje jego zatapowania.)"
 
 #: ../../RTR.rst:108
 msgid "Enchanted creature gets +2/+2 and has vigilance."
