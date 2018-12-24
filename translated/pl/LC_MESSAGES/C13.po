@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-27 09:25+0100\n"
-"PO-Revision-Date: 2018-12-20 20:19+0000\n"
+"PO-Revision-Date: 2018-12-24 10:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -1327,8 +1327,9 @@ msgstr ""
 
 # b5098f9644914502b7e9fee58e68aec7
 #: ../../C13.rst:497
+#, fuzzy
 msgid "Evolving Wilds"
-msgstr ""
+msgstr "Evolving Wilds"
 
 # e3b257ed27584aaab0c6940ee6a8354c
 #: ../../C13.rst:496
@@ -3978,7 +3979,7 @@ msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 # a03289526b7d41f8a167cf1100f60eea
 #: ../../C13.rst:1640
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 # 901a84fe685b4314a1b8d483028c0235
 #: ../../C13.rst:1651
