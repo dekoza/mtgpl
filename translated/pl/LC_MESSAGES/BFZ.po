@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-24 10:25+0000\n"
+"PO-Revision-Date: 2018-12-25 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bfz/pl/>\n"
 "Language: pl\n"
@@ -1311,7 +1311,7 @@ msgstr ""
 
 #: ../../BFZ.rst:645
 msgid "Target opponent discards two cards."
-msgstr ""
+msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../BFZ.rst:647
 msgid ""
@@ -1645,7 +1645,7 @@ msgstr ""
 
 #: ../../BFZ.rst:815
 msgid "Enchanted creature gets +2/+2 and has haste."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma pośpiech."
 
 #: ../../BFZ.rst:820
 msgid "Lavastep Raider"
@@ -1749,6 +1749,8 @@ msgid ""
 "Target creature gets +3/+0 and gains first strike until end of turn. (It "
 "deals combat damage before creatures without first strike.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
+"obrażenia bojowe przez stworami bez pierwszego ciosu.)"
 
 #: ../../BFZ.rst:870
 msgid "Tunneling Geopede"
@@ -2701,7 +2703,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1319
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r|."
 
 #: ../../BFZ.rst:1328
 msgid "Lumbering Falls"
