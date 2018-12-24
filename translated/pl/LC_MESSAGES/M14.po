@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-23 22:06+0000\n"
+"PO-Revision-Date: 2018-12-25 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -1574,13 +1574,12 @@ msgstr "Duress (Przymus)"
 # 2647810d51524897a839eb1e357d29b7
 # 7410c63943b74fdcbb122ac5a7471419
 #: ../../M14.rst:489
-#, fuzzy
 msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland card "
 "from it. That player discards that card."
 msgstr ""
-"Wskazany przeciwnik ujawnia rękę. Wybierasz z niej kartę nie będącą stworem "
-"ani lądem. Ów gracz odrzuca tamtą kartę."
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
+"stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 # d2cffdbee01242d79bba66242d22c1c5
 # 3e783ea397c34978b48dbe6c77dbf7e6
@@ -1719,14 +1718,13 @@ msgstr ""
 # 1e4872fdf5f24702802a4edada69d7ed
 #: ../../M14.rst:532
 msgid "Mark of the Vampire"
-msgstr ""
+msgstr "Mark of the Vampire (Znamię Wampira)"
 
 # 58fafb8841da49418ad60b1dea31f1f0
 # fa523e01d26c4ddfb7a7c9c48e6e7a86
 #: ../../M14.rst:531
-#, fuzzy
 msgid "Enchanted creature gets +2/+2 and has lifelink."
-msgstr "Zauroczony stwór dostaje +2/+2 i ma Latanie."
+msgstr "Zauroczony stwór dostaje +2/+2 i ma więź życia."
 
 # ff32579f99444cf78b3f45dcdaa5060a
 #: ../../M14.rst:536
