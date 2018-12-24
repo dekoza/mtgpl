@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2018-12-24 10:25+0000\n"
+"PO-Revision-Date: 2018-12-24 11:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
@@ -1115,6 +1115,8 @@ msgid ""
 "When Gravedigger enters the battlefield, you may return target creature "
 "card from your graveyard to your hand."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazaną kartę "
+"stwora z twojego cmentarza do twojej ręki."
 
 #: ../../AKH.rst:806
 msgid "Grim Strider"
@@ -1970,7 +1972,7 @@ msgstr "Zaurocz ląd"
 
 #: ../../AKH.rst:1412
 msgid "When Gift of Paradise enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AKH.rst:1414
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
@@ -3287,7 +3289,7 @@ msgstr ""
 
 #: ../../AKH.rst:2501
 msgid "Meandering River enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../AKH.rst:2503
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -3299,7 +3301,7 @@ msgstr ""
 
 #: ../../AKH.rst:2510
 msgid "Submerged Boneyard enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../AKH.rst:2512
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -3311,7 +3313,7 @@ msgstr ""
 
 #: ../../AKH.rst:2519
 msgid "Timber Gorge enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../AKH.rst:2521
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -3323,7 +3325,7 @@ msgstr ""
 
 #: ../../AKH.rst:2528
 msgid "Tranquil Expanse enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../AKH.rst:2530
 msgid "|tap|: Add |mana_g| or |mana_w|."
