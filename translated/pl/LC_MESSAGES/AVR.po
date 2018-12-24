@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-23 22:06+0000\n"
+"PO-Revision-Date: 2018-12-25 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
@@ -1446,7 +1446,7 @@ msgstr "Odrzuć swoją rękę, a następnie dobierz dwie karty."
 
 #: ../../AVR.rst:1070
 msgid "Demolish"
-msgstr ""
+msgstr "Demolish (Wyburzenie)"
 
 #: ../../AVR.rst:1069
 msgid "Destroy target artifact or land."
@@ -1605,7 +1605,7 @@ msgstr ""
 
 #: ../../AVR.rst:1189
 msgid "|tap|, Discard a card: Draw a card."
-msgstr ""
+msgstr "|tap|, odrzuć kartę: Dobierz kartę."
 
 #: ../../AVR.rst:1199
 msgid "Malicious Intent"
