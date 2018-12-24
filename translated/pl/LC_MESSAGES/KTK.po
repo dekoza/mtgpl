@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-24 10:25+0000\n"
+"PO-Revision-Date: 2018-12-25 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -2036,7 +2036,7 @@ msgstr "Awaken the Bear (Obudź Niedźwiedzia)"
 # f459fddc06284e06b1f204cd02bd97cf
 #: ../../KTK.rst:693
 msgid "Target creature gets +3/+3 and gains trample until end of turn."
-msgstr "Wskazany stwór dostaje +3/+3 oraz tratowanie do końca tury."
+msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz tratowanie."
 
 # a8af8699c72c425c9bbe33ca9825c0f6
 #: ../../KTK.rst:700
@@ -3028,7 +3028,6 @@ msgstr ""
 
 # 37ad3ad10e2247d7a3413e958495346f
 #: ../../KTK.rst:1005
-#, fuzzy
 msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland card "
 "from it. That player discards that card."
@@ -3178,7 +3177,7 @@ msgstr "Sagu Mauler"
 # 5a066fadab684438a9db384eea7217c3
 #: ../../KTK.rst:1053
 msgid "Trample, hexproof"
-msgstr "Tratowanie, Antyklątwa"
+msgstr "Tratowanie, antyklątwa"
 
 # dce8fe567fc74e3f84d7eab1ceab87a8
 #: ../../KTK.rst:1055
