@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-23 22:07+0000\n"
+"PO-Revision-Date: 2018-12-24 10:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -4523,13 +4523,12 @@ msgstr "Traveler's Amulet (Amulet podróżnika)"
 # 773b5518fd184e418b16dafcb15fb8fc
 # d2add975ce0d44acb335dbbed69f38fc
 #: ../../THS.rst:1223
-#, fuzzy
 msgid ""
 "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land "
 "card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
-"|mana_1|, poświęć Traveler's Amulet: Poszukaj w twojej bibliotece karty "
-"zwykłego lądu, ujawnij ją i dołóż do twojej ręki. Następnie przetasuj twoją "
+"|mana_1|, poświęć ten artefakt.: Poszukaj w twojej bibliotece karty bazowego "
+"lądu, ujawnij ją i dołóż do twojej ręki. Następnie przetasuj twoją "
 "bibliotekę."
 
 # 7a4cea5dcb964ed09a8e7fe82c84c2b5
@@ -4667,9 +4666,8 @@ msgstr ""
 # a7c1c3c46b6d4579b3f87817ef23e8bd
 # bae965a474ec41f4bc9cda0bfd41180a
 #: ../../THS.rst:1259
-#, fuzzy
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dodaj |mana_g| lub |mana_u| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 # 64e94f06e5df45feb96eb3e1ccc937f8
 # 269e4896648c4e768bb9e4df38f8ea08
@@ -4697,9 +4695,8 @@ msgstr ""
 # 8963c0acfd8546b09a7aa95e791cef2b
 # 0c1a722b59284718ba41fdae8f3276a6
 #: ../../THS.rst:1267
-#, fuzzy
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dodaj |mana_w| lub |mana_b| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 # e14b08ff9bfd4a41ac5ca2b0f5862374
 # 4931d6e19fde4b5fa4a31ded4ae4c9bf
