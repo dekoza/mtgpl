@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-24 11:22+0000\n"
+"PO-Revision-Date: 2018-12-25 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -1360,10 +1360,13 @@ msgid ""
 "Raid — When Deadeye Tormentor enters the battlefield, if you attacked with a "
 "creature this turn, target opponent discards a card."
 msgstr ""
+"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, wskazany przeciwnik odrzuca kartę."
 
 #: ../../XLN.rst:506
+#, fuzzy
 msgid "Deadeye Tracker"
-msgstr ""
+msgstr "Deadeye Tracker"
 
 #: ../../XLN.rst:505
 msgid ""
@@ -1379,26 +1382,31 @@ msgstr ""
 "ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:512
+#, fuzzy
 msgid "Deathless Ancient"
-msgstr ""
+msgstr "Deathless Ancient"
 
 #: ../../XLN.rst:511
 msgid ""
 "Tap three untapped Vampires you control: Return Deathless Ancient from your "
 "graveyard to your hand."
 msgstr ""
+"Zatapuj trzy odtapowane Wampiry pod twoim władaniem: Przywróć tę kartę z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../XLN.rst:516
+#, fuzzy
 msgid "Desperate Castaways"
-msgstr ""
+msgstr "Desperate Castaways"
 
 #: ../../XLN.rst:515
 msgid "Desperate Castaways can't attack unless you control an artifact."
-msgstr ""
+msgstr "Ten stwór nie może atakować dopóki nie władasz artefaktem."
 
 #: ../../XLN.rst:520
+#, fuzzy
 msgid "Dire Fleet Hoarder"
-msgstr ""
+msgstr "Dire Fleet Hoarder"
 
 #: ../../XLN.rst:519
 msgid ""
@@ -1410,8 +1418,9 @@ msgstr ""
 "koloru.\""
 
 #: ../../XLN.rst:526
+#, fuzzy
 msgid "Dire Fleet Interloper"
-msgstr ""
+msgstr "Dire Fleet Interloper"
 
 #: ../../XLN.rst:523 ../../XLN.rst:539 ../../XLN.rst:719 ../../XLN.rst:769
 msgid "Menace"
@@ -1430,32 +1439,38 @@ msgstr ""
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:532
+#, fuzzy
 msgid "Dire Fleet Ravager"
-msgstr ""
+msgstr "Dire Fleet Ravager"
 
 #: ../../XLN.rst:529
 msgid "Menace, deathtouch"
-msgstr ""
+msgstr "Złowrogość, dotyk śmierci"
 
 #: ../../XLN.rst:531
 msgid ""
 "When Dire Fleet Ravager enters the battlefield, each player loses a third of "
 "their life, rounded up."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, każdy gracz traci jedną trzecią "
+"swojego życia, zaokrąglając wzwyż."
 
 #: ../../XLN.rst:536
 msgid "Duress"
-msgstr ""
+msgstr "Duress (Przymus)"
 
 #: ../../XLN.rst:535
 msgid ""
 "Target opponent reveals their hand. You choose a noncreature, nonland card "
 "from it. That player discards that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierasz z niej kartę nie będącą "
+"stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../XLN.rst:542
+#, fuzzy
 msgid "Fathom Fleet Captain"
-msgstr ""
+msgstr "Fathom Fleet Captain"
 
 #: ../../XLN.rst:541
 msgid ""
@@ -1463,34 +1478,44 @@ msgid ""
 "Pirate, you may pay |mana_2|. If you do, create a 2/2 black Pirate creature "
 "token with menace."
 msgstr ""
+"Ilekroć ten stwór atakuje, jeśli władasz innym nie-żetonowym Piratem, możesz "
+"zapłacić |mana_2|. Jeśli to zrobisz, stwórz żeton czarnego stwora Pirat 2/2 "
+"ze złowrogością."
 
 #: ../../XLN.rst:546
+#, fuzzy
 msgid "Fathom Fleet Cutthroat"
-msgstr ""
+msgstr "Fathom Fleet Cutthroat"
 
 #: ../../XLN.rst:545
 msgid ""
 "When Fathom Fleet Cutthroat enters the battlefield, destroy target creature "
 "an opponent controls that was dealt damage this turn."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, zniszcz wskazanego władanego przez "
+"przeciwnika stwora, który otrzymał obrażenia w tej turze."
 
 #: ../../XLN.rst:550
+#, fuzzy
 msgid "Grim Captain's Call"
-msgstr ""
+msgstr "Grim Captain's Call"
 
 #: ../../XLN.rst:549
 msgid ""
 "Return a Pirate card from your graveyard to your hand, then do the same for "
 "Vampire, Dinosaur, and Merfolk."
 msgstr ""
+"Przywróć kartę Pirata z twojego cmentarza do twojej ręki, następnie zrób to "
+"samo dla Wampira, Dinozaura i Wodnika."
 
 #: ../../XLN.rst:556
+#, fuzzy
 msgid "Heartless Pillage"
-msgstr ""
+msgstr "Heartless Pillage"
 
 #: ../../XLN.rst:553
 msgid "Target opponent discards two cards."
-msgstr ""
+msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../XLN.rst:555
 msgid ""
@@ -1503,8 +1528,9 @@ msgstr ""
 "manę dowolnego koloru.\""
 
 #: ../../XLN.rst:562
+#, fuzzy
 msgid "Kitesail Freebooter"
-msgstr ""
+msgstr "Kitesail Freebooter"
 
 #: ../../XLN.rst:561
 msgid ""
@@ -1512,10 +1538,14 @@ msgid ""
 "their hand. You choose a noncreature, nonland card from it. Exile that card "
 "until Kitesail Freebooter leaves the battlefield."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik ujawnia swoją "
+"rękę. Wybierz z niej kartę nie bądącą stworem ani lądem. Wygnaj ową kartę "
+"dopóki ta karta nie opuści pola walki."
 
 #: ../../XLN.rst:566
+#, fuzzy
 msgid "Lurking Chupacabra"
-msgstr ""
+msgstr "Lurking Chupacabra"
 
 #: ../../XLN.rst:565
 msgid ""
@@ -1527,7 +1557,7 @@ msgstr ""
 
 #: ../../XLN.rst:574
 msgid "March of the Drowned"
-msgstr ""
+msgstr "March of the Drowned (Pochód Utopionych)"
 
 #: ../../XLN.rst:569 ../../XLN.rst:917
 msgid "Choose one —"
@@ -1540,18 +1570,19 @@ msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 #: ../../XLN.rst:573
 msgid "Return two target Pirate cards from your graveyard to your hand."
 msgstr ""
+"Przywróć dwie wskazane karty Piratów z twojego cmentarza do twojej ręki."
 
 #: ../../XLN.rst:580
 msgid "Mark of the Vampire"
-msgstr ""
+msgstr "Mark of the Vampire (Znamię Wampira)"
 
 #: ../../XLN.rst:579
 msgid "Enchanted creature gets +2/+2 and has lifelink."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma więź życia."
 
 #: ../../XLN.rst:586
 msgid "Queen's Agent"
-msgstr ""
+msgstr "Queen's Agent (Agent Królowej)"
 
 #: ../../XLN.rst:585
 msgid ""
@@ -1566,26 +1597,31 @@ msgstr ""
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:588
+#, fuzzy
 msgid "Queen's Bay Soldier"
-msgstr ""
+msgstr "Queen's Bay Soldier"
 
 #: ../../XLN.rst:596
+#, fuzzy
 msgid "Raiders' Wake"
-msgstr ""
+msgstr "Raiders' Wake"
 
 #: ../../XLN.rst:593
 msgid "Whenever an opponent discards a card, that player loses 2 life."
-msgstr ""
+msgstr "Ilekroć przeciwnik odrzuca kartę, ów gracz traci 2 życia."
 
 #: ../../XLN.rst:595
 msgid ""
 "Raid — At the beginning of your end step, if you attacked with a creature "
 "this turn, target opponent discards a card."
 msgstr ""
+"Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś stworem w tej "
+"turze, wskazany przeciwnik odrzuca kartę."
 
 #: ../../XLN.rst:602
+#, fuzzy
 msgid "Revel in Riches"
-msgstr ""
+msgstr "Revel in Riches"
 
 #: ../../XLN.rst:599
 msgid ""
@@ -1602,10 +1638,13 @@ msgid ""
 "At the beginning of your upkeep, if you control ten or more Treasures, you "
 "win the game."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli władasz co najmniej dziesięcioma "
+"Skarbami, wygrywasz grę."
 
 #: ../../XLN.rst:606
+#, fuzzy
 msgid "Ruin Raider"
-msgstr ""
+msgstr "Ruin Raider"
 
 #: ../../XLN.rst:605
 msgid ""
@@ -1613,10 +1652,14 @@ msgid ""
 "this turn, reveal the top card of your library and put that card into your "
 "hand. You lose life equal to the card's converted mana cost."
 msgstr ""
+"Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś stworem w tej "
+"turze, ujawnij wierzchnią kartę twojej biblioteki i umieść ją w twojej ręce. "
+"Tracisz życie równe łącznemu kosztowi many owej karty."
 
 #: ../../XLN.rst:612
+#, fuzzy
 msgid "Ruthless Knave"
-msgstr ""
+msgstr "Ruthless Knave"
 
 #: ../../XLN.rst:609
 msgid ""
@@ -1630,21 +1673,25 @@ msgstr ""
 
 #: ../../XLN.rst:611
 msgid "Sacrifice three Treasures: Draw a card."
-msgstr ""
+msgstr "Poświęć trzy Skarby: Dobierz kartę."
 
 #: ../../XLN.rst:616
+#, fuzzy
 msgid "Sanctum Seeker"
-msgstr ""
+msgstr "Sanctum Seeker"
 
 #: ../../XLN.rst:615
 msgid ""
 "Whenever a Vampire you control attacks, each opponent loses 1 life and you "
 "gain 1 life."
 msgstr ""
+"Ilekroć atakuje Wampir pod twoim władaniem, każdy przeciwnik traci 1 życie, "
+"a ty zyskujesz 1 życie."
 
 #: ../../XLN.rst:620
+#, fuzzy
 msgid "Seekers' Squire"
-msgstr ""
+msgstr "Seekers' Squire"
 
 #: ../../XLN.rst:619
 msgid ""
@@ -1659,26 +1706,31 @@ msgstr ""
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:624
+#, fuzzy
 msgid "Skittering Heartstopper"
-msgstr ""
+msgstr "Skittering Heartstopper"
 
 #: ../../XLN.rst:623
 msgid "|mana_b|: Skittering Heartstopper gains deathtouch until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór zyskuje dotyk śmierci do końca tury."
 
 #: ../../XLN.rst:628
+#, fuzzy
 msgid "Skulduggery"
-msgstr ""
+msgstr "Skulduggery"
 
 #: ../../XLN.rst:627
 msgid ""
 "Until end of turn, target creature you control gets +1/+1 and target "
 "creature an opponent controls gets -1/-1."
 msgstr ""
+"Do końca tury wskazany stwór pod twoim władaniem dostaje +1/+1 oraz wskazany "
+"stwór pod władaniem przeciwnika dostaje -1/-1."
 
 #: ../../XLN.rst:634
+#, fuzzy
 msgid "Skymarch Bloodletter"
-msgstr ""
+msgstr "Skymarch Bloodletter"
 
 #: ../../XLN.rst:633
 msgid ""
@@ -1689,16 +1741,17 @@ msgstr ""
 "ty zyskujesz 1 życie."
 
 #: ../../XLN.rst:638
+#, fuzzy
 msgid "Spreading Rot"
-msgstr ""
+msgstr "Spreading Rot"
 
 #: ../../XLN.rst:637
 msgid "Destroy target land. Its controller loses 2 life."
-msgstr ""
+msgstr "Zniszcz wskazany ląd. Jego władca traci 2 życia."
 
 #: ../../XLN.rst:642
 msgid "Sword-Point Diplomacy"
-msgstr ""
+msgstr "Sword-Point Diplomacy (Dyplomacja Czubka Miecza)"
 
 #: ../../XLN.rst:641
 msgid ""
@@ -1706,42 +1759,50 @@ msgid ""
 "that card into your hand unless any opponent pays 3 life. Then exile the "
 "rest."
 msgstr ""
+"Ujawnij trzy wierzchnie kartę twojej biblioteki. Za każdą z owych kart, "
+"umieść ją w twojej ręce, chyba że którykolwiek przeciwnik zapłaci 3 życia. "
+"Następnie wygnaj pozostałe."
 
 #: ../../XLN.rst:646
+#, fuzzy
 msgid "Vanquish the Weak"
-msgstr ""
+msgstr "Vanquish the Weak"
 
 #: ../../XLN.rst:645
 msgid "Destroy target creature with power 3 or less."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 3 lub mniejszej."
 
 #: ../../XLN.rst:650
+#, fuzzy
 msgid "Vicious Conquistador"
-msgstr ""
+msgstr "Vicious Conquistador"
 
 #: ../../XLN.rst:649
 msgid "Whenever Vicious Conquistador attacks, each opponent loses 1 life."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci 1 życie."
 
 #: ../../XLN.rst:654
+#, fuzzy
 msgid "Vraska's Contempt"
-msgstr ""
+msgstr "Vraska's Contempt"
 
 #: ../../XLN.rst:653
 msgid "Exile target creature or planeswalker. You gain 2 life."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora lub wędrowca. Zyskujesz 2 życia."
 
 #: ../../XLN.rst:658
+#, fuzzy
 msgid "Walk the Plank"
-msgstr ""
+msgstr "Walk the Plank"
 
 #: ../../XLN.rst:657
 msgid "Destroy target non-Merfolk creature."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora nie będącego Wodnikiem."
 
 #: ../../XLN.rst:662
+#, fuzzy
 msgid "Wanted Scoundrels"
-msgstr ""
+msgstr "Wanted Scoundrels"
 
 #: ../../XLN.rst:661
 msgid ""
@@ -1754,26 +1815,32 @@ msgstr ""
 "manę dowolnego koloru.\""
 
 #: ../../XLN.rst:666
+#, fuzzy
 msgid "Angrath's Marauders"
-msgstr ""
+msgstr "Angrath's Marauders"
 
 #: ../../XLN.rst:665
 msgid ""
 "If a source you control would deal damage to a permanent or player, it deals "
 "double that damage to that permanent or player instead."
 msgstr ""
+"Jeśli źródło pod twoim władaniem miałoby zadać obrażenia w permanent lub "
+"gracza, zamiast tego zadaje ono dwukrotność owych obrażeń w ów permanent lub "
+"gracza."
 
 #: ../../XLN.rst:670
+#, fuzzy
 msgid "Bonded Horncrest"
-msgstr ""
+msgstr "Bonded Horncrest"
 
 #: ../../XLN.rst:669
 msgid "Bonded Horncrest can't attack or block alone."
-msgstr ""
+msgstr "Ten stwór nie może atakować lub blokować samotnie."
 
 #: ../../XLN.rst:676
+#, fuzzy
 msgid "Brazen Buccaneers"
-msgstr ""
+msgstr "Brazen Buccaneers"
 
 #: ../../XLN.rst:673 ../../XLN.rst:683 ../../XLN.rst:759 ../../XLN.rst:847
 msgid "Haste"
@@ -1793,17 +1860,20 @@ msgstr ""
 
 #: ../../XLN.rst:680
 msgid "Burning Sun's Avatar"
-msgstr ""
+msgstr "Burning Sun's Avatar (Awatar Palącego Słońca)"
 
 #: ../../XLN.rst:679
 msgid ""
 "When Burning Sun's Avatar enters the battlefield, it deals 3 damage to "
 "target opponent or planeswalker and 3 damage to up to one target creature."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, zadaje 3 obrażenia wskazanemu graczowi "
+"lub wędrocowi oraz 3 obrażenia co najwyżej jednemu wskazanemu stworowi."
 
 #: ../../XLN.rst:688
+#, fuzzy
 msgid "Captain Lannery Storm"
-msgstr ""
+msgstr "Captain Lannery Storm"
 
 #: ../../XLN.rst:685
 msgid ""
@@ -1821,8 +1891,9 @@ msgid ""
 msgstr "Ilekroć poświęcasz Skarb, ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../XLN.rst:692
+#, fuzzy
 msgid "Captivating Crew"
-msgstr ""
+msgstr "Captivating Crew"
 
 #: ../../XLN.rst:691
 msgid ""
@@ -1830,166 +1901,197 @@ msgid ""
 "until end of turn. Untap that creature. It gains haste until end of turn. "
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"|mana_3| |mana_r|: Zyskujesz władanie nad wskazanym stworem do końca tury. "
+"Odtapuj owego stwora. Zyskuje on pośpiech do końca tury. Aktywuj tę zdolność "
+"tylko wtedy, gdy możesz rzucić obrzęd."
 
 #: ../../XLN.rst:696
+#, fuzzy
 msgid "Charging Monstrosaur"
-msgstr ""
+msgstr "Charging Monstrosaur"
 
 #: ../../XLN.rst:695
 msgid "Trample, haste"
-msgstr ""
+msgstr "Tratowanie, pośpiech"
 
 #: ../../XLN.rst:700
 msgid "Demolish"
-msgstr ""
+msgstr "Demolish (Wyburzenie)"
 
 #: ../../XLN.rst:699
 msgid "Destroy target artifact or land."
 msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../XLN.rst:704
+#, fuzzy
 msgid "Dinosaur Stampede"
-msgstr ""
+msgstr "Dinosaur Stampede"
 
 #: ../../XLN.rst:703
 msgid ""
 "Attacking creatures get +2/+0 until end of turn. Dinosaurs you control gain "
 "trample until end of turn."
 msgstr ""
+"Atakujące stwory dostają +2/+0 do końca tury. Dinozaury pod twoim władaniem "
+"zyskują tratowanie do końca tury."
 
 #: ../../XLN.rst:708
 msgid "Dual Shot"
-msgstr ""
+msgstr "Dual Shot (Podwójny Strzał)"
 
 #: ../../XLN.rst:707
 msgid "Dual Shot deals 1 damage to each of up to two target creatures."
 msgstr ""
+"Ten czar zadaje 1 obrażenie każdemu z co najwyżej dwóch wskazanych stworów."
 
 #: ../../XLN.rst:712
+#, fuzzy
 msgid "Fathom Fleet Firebrand"
-msgstr ""
+msgstr "Fathom Fleet Firebrand"
 
 #: ../../XLN.rst:711
 msgid "|mana_1| |mana_r|: Fathom Fleet Firebrand gets +1/+0 until end of turn."
-msgstr ""
+msgstr "|mana_1| |mana_r|: Ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../XLN.rst:716
 msgid "Fiery Cannonade"
-msgstr ""
+msgstr "Fiery Cannonade (Ognista Kanonada)"
 
 #: ../../XLN.rst:715
 msgid "Fiery Cannonade deals 2 damage to each non-Pirate creature."
-msgstr ""
+msgstr "Ten czar zadaje 2 obrażenia każdemu stworowi nie będącemu Piratem."
 
 #: ../../XLN.rst:722
+#, fuzzy
 msgid "Fire Shrine Keeper"
-msgstr ""
+msgstr "Fire Shrine Keeper"
 
 #: ../../XLN.rst:721
 msgid ""
 "|mana_7| |mana_r|, |tap|, Sacrifice Fire Shrine Keeper: It deals 3 damage to "
 "each of up to two target creatures."
 msgstr ""
+"|mana_7| |mana_r|, |tap|, poświęć tego stwora: Zadaje on 3 obrażenia każdemu "
+"z co najwyżej dwóch wskazanych stworów."
 
 #: ../../XLN.rst:728
+#, fuzzy
 msgid "Firecannon Blast"
-msgstr ""
+msgstr "Firecannon Blast"
 
 #: ../../XLN.rst:725
 msgid "Firecannon Blast deals 3 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje 3 obrażenia wskazanemu stworowi."
 
 #: ../../XLN.rst:727
 msgid ""
 "Raid — Firecannon Blast deals 6 damage to that creature instead if you "
 "attacked with a creature this turn."
 msgstr ""
+"Najazd — Ten czar zamiast tego zadaje 6 obrażeń owemu stworowi jeśli "
+"atakowałeś stworem w tej turze."
 
 #: ../../XLN.rst:730
+#, fuzzy
 msgid "Frenzied Raptor"
-msgstr ""
+msgstr "Frenzied Raptor"
 
 #: ../../XLN.rst:738
+#, fuzzy
 msgid "Headstrong Brute"
-msgstr ""
+msgstr "Headstrong Brute"
 
 #: ../../XLN.rst:735
 msgid "Headstrong Brute can't block."
-msgstr ""
+msgstr "Ten stwór nie może blokować."
 
 #: ../../XLN.rst:737
 msgid "Headstrong Brute has menace as long as you control another Pirate."
-msgstr ""
+msgstr "Ten stwór ma złowrogość o ile władasz innym Piratem."
 
 #: ../../XLN.rst:742
+#, fuzzy
 msgid "Hijack"
-msgstr ""
+msgstr "Hijack"
 
 #: ../../XLN.rst:741
 msgid ""
 "Gain control of target artifact or creature until end of turn. Untap it. It "
 "gains haste until end of turn."
 msgstr ""
+"Zyskujesz władaniem nad wskazanym artefaktem lub stworem do końca tury. "
+"Odtapuj go. Zyskuje on pośpiech do końca tury."
 
 #: ../../XLN.rst:746
+#, fuzzy
 msgid "Lightning Strike"
-msgstr ""
+msgstr "Lightning Strike"
 
 #: ../../XLN.rst:745
 msgid "Lightning Strike deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje 3 obrażenia dowolnemu celowi."
 
 #: ../../XLN.rst:752
+#, fuzzy
 msgid "Lightning-Rig Crew"
-msgstr ""
+msgstr "Lightning-Rig Crew"
 
 #: ../../XLN.rst:749
 msgid "|tap|: Lightning-Rig Crew deals 1 damage to each opponent."
-msgstr ""
+msgstr "|tap|: Ta karta zadaje 1 obrażenie każdemu przeciwnikowi."
 
 #: ../../XLN.rst:751
 msgid "Whenever you cast a Pirate spell, untap Lightning-Rig Crew."
-msgstr ""
+msgstr "Ilekroć rzucasz czar Pirata, odtapuj tę kartę."
 
 #: ../../XLN.rst:756
+#, fuzzy
 msgid "Makeshift Munitions"
-msgstr ""
+msgstr "Makeshift Munitions"
 
 #: ../../XLN.rst:755
 msgid ""
 "|mana_1|, Sacrifice an artifact or creature: Makeshift Munitions deals 1 "
 "damage to any target."
 msgstr ""
+"|mana_1|, poświęć artefakt lub stwora: Ta karta zadaje 1 obrażenie w dowolny "
+"cel."
 
 #: ../../XLN.rst:760
+#, fuzzy
 msgid "Nest Robber"
-msgstr ""
+msgstr "Nest Robber"
 
 #: ../../XLN.rst:766
+#, fuzzy
 msgid "Otepec Huntmaster"
-msgstr ""
+msgstr "Otepec Huntmaster"
 
 #: ../../XLN.rst:765
 msgid "|tap|: Target Dinosaur gains haste until end of turn."
-msgstr ""
+msgstr "|tap|: Wskazany Dinozaur zyskuje pośpiech do końca tury."
 
 #: ../../XLN.rst:774
+#, fuzzy
 msgid "Rampaging Ferocidon"
-msgstr ""
+msgstr "Rampaging Ferocidon"
 
 #: ../../XLN.rst:771
 msgid "Players can't gain life."
-msgstr ""
+msgstr "Gracze nie mogą zyskiwać życia."
 
 #: ../../XLN.rst:773
 msgid ""
 "Whenever another creature enters the battlefield, Rampaging Ferocidon deals "
 "1 damage to that creature's controller."
 msgstr ""
+"Ilekroć inny stwór wchodzi na pole walki, ta karta zadaje 1 obrażenia władcy "
+"owego stwora."
 
 #: ../../XLN.rst:778
+#, fuzzy
 msgid "Raptor Hatchling"
-msgstr ""
+msgstr "Raptor Hatchling"
 
 #: ../../XLN.rst:777
 msgid ""
@@ -2000,12 +2102,13 @@ msgstr ""
 "stwora Dinozaur 3/3 z tratowaniem."
 
 #: ../../XLN.rst:784
+#, fuzzy
 msgid "Repeating Barrage"
-msgstr ""
+msgstr "Repeating Barrage"
 
 #: ../../XLN.rst:781
 msgid "Repeating Barrage deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje 3 obrażenia w dowolny cel."
 
 #: ../../XLN.rst:783
 msgid ""
@@ -2013,30 +2116,40 @@ msgid ""
 "graveyard to your hand. Activate this ability only if you attacked with a "
 "creature this turn."
 msgstr ""
+"Najazd — |mana_3| |mana_r| |mana_r|: Przywróć tę kartę z twojego cmentarza "
+"do twojej ręki. Aktywuj tę zdolność tylko jeśli atakowałeś stworem w tej "
+"turze."
 
 #: ../../XLN.rst:790
+#, fuzzy
 msgid "Rigging Runner"
-msgstr ""
+msgstr "Rigging Runner"
 
 #: ../../XLN.rst:789
 msgid ""
 "Raid — Rigging Runner enters the battlefield with a +1/+1 counter on it if "
 "you attacked with a creature this turn."
 msgstr ""
+"Najazd — Ta karta wchodzi na pole walki ze znacznikiem +1/+ jeśli atakowałeś "
+"stworem w tej turze."
 
 #: ../../XLN.rst:796
+#, fuzzy
 msgid "Rile"
-msgstr ""
+msgstr "Rile"
 
 #: ../../XLN.rst:793
 msgid ""
 "Rile deals 1 damage to target creature you control. That creature gains "
 "trample until end of turn."
 msgstr ""
+"Ta karta zadaje 1 obrażenie wskazanemu stworowi pod twoim władaniem. Ów "
+"stwór zyskuje tratowanie do końca tury."
 
 #: ../../XLN.rst:802
+#, fuzzy
 msgid "Rowdy Crew"
-msgstr ""
+msgstr "Rowdy Crew"
 
 #: ../../XLN.rst:799 ../../XLN.rst:1131
 msgid "Trample"
@@ -2048,38 +2161,49 @@ msgid ""
 "cards at random. If two cards that share a card type are discarded this way, "
 "put two +1/+1 counters on Rowdy Crew."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, dobierz trzy karty, następnie odrzuć "
+"losowo dwie karty. Jeśli dwie karty mające wspólny typ zostaną odrzucone w "
+"ten sposób, połóż dwa znaczniki +1/+1 na tej karcie."
 
 #: ../../XLN.rst:806
+#, fuzzy
 msgid "Rummaging Goblin"
-msgstr ""
+msgstr "Rummaging Goblin"
 
 #: ../../XLN.rst:805
 msgid "|tap|, Discard a card: Draw a card."
-msgstr ""
+msgstr "|tap|, odrzuć kartę: Dobierz kartę."
 
 #: ../../XLN.rst:810
+#, fuzzy
 msgid "Star of Extinction"
-msgstr ""
+msgstr "Star of Extinction"
 
 #: ../../XLN.rst:809
 msgid ""
 "Destroy target land. Star of Extinction deals 20 damage to each creature and "
 "each planeswalker."
 msgstr ""
+"Zniszcz wskazany ląd. Ten czar zadaje po 20 obrażeń każdemu stworowi i "
+"wędrowcowi."
 
 #: ../../XLN.rst:814
+#, fuzzy
 msgid "Storm Fleet Arsonist"
-msgstr ""
+msgstr "Storm Fleet Arsonist"
 
 #: ../../XLN.rst:813
 msgid ""
 "Raid — When Storm Fleet Arsonist enters the battlefield, if you attacked "
 "with a creature this turn, target opponent sacrifices a permanent."
 msgstr ""
+"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, wskazany przeciwnik poświęca permanent."
 
 #: ../../XLN.rst:818
+#, fuzzy
 msgid "Storm Fleet Pyromancer"
-msgstr ""
+msgstr "Storm Fleet Pyromancer"
 
 #: ../../XLN.rst:817
 msgid ""
@@ -2087,10 +2211,13 @@ msgid ""
 "with a creature this turn, Storm Fleet Pyromancer deals 2 damage to any "
 "target."
 msgstr ""
+"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, ta karta zadaje 2 obrażenia w dowolny cel."
 
 #: ../../XLN.rst:822
+#, fuzzy
 msgid "Sun-Crowned Hunters"
-msgstr ""
+msgstr "Sun-Crowned Hunters"
 
 #: ../../XLN.rst:821
 msgid ""
@@ -2101,8 +2228,9 @@ msgstr ""
 "wskazanemu graczowi lub wędrowcowi."
 
 #: ../../XLN.rst:826
+#, fuzzy
 msgid "Sunbird's Invocation"
-msgstr ""
+msgstr "Sunbird's Invocation"
 
 #: ../../XLN.rst:825
 msgid ""
@@ -2111,6 +2239,11 @@ msgid ""
 "revealed this way with converted mana cost X or less without paying its mana "
 "cost. Put the rest on the bottom of your library in a random order."
 msgstr ""
+"Ilekroć rzucisz czar z twojej ręki, ujawnij X wierzchnich kart twojej "
+"biblioteki, gdzie X jest łącznym kosztem many owego czaru. Możesz rzucić "
+"ujawnioną w ten sposób kartę o łącznym koszcie many X lub mniejszym bez "
+"płacenia jaj kosztu many. Połóż pozostałe na spodzie twojej biblioteki w "
+"losowej kolejności."
 
 #: ../../XLN.rst:830
 msgid "Sure Strike"
@@ -2121,54 +2254,68 @@ msgid ""
 "Target creature gets +3/+0 and gains first strike until end of turn. (It "
 "deals combat damage before creatures without first strike.)"
 msgstr ""
+"Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
+"obrażenia bojowe przez stworami bez pierwszego ciosu.)"
 
 #: ../../XLN.rst:836
+#, fuzzy
 msgid "Swashbuckling"
-msgstr ""
+msgstr "Swashbuckling"
 
 #: ../../XLN.rst:835
 msgid "Enchanted creature gets +2/+2 and has haste."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma pośpiech."
 
 #: ../../XLN.rst:840
+#, fuzzy
 msgid "Thrash of Raptors"
-msgstr ""
+msgstr "Thrash of Raptors"
 
 #: ../../XLN.rst:839
 msgid ""
 "As long as you control another Dinosaur, Thrash of Raptors gets +2/+0 and "
 "has trample."
 msgstr ""
+"O ile władasz innym Dinozaurem, ten stwór dostaje +2/+0 i ma tratowanie."
 
 #: ../../XLN.rst:844
+#, fuzzy
 msgid "Tilonalli's Knight"
-msgstr ""
+msgstr "Tilonalli's Knight"
 
 #: ../../XLN.rst:843
 msgid ""
 "Whenever Tilonalli's Knight attacks, if you control a Dinosaur, Tilonalli's "
 "Knight gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, jeśli władasz Dinozaurem, ten stwór dostaje +1/+1 "
+"do końca tury."
 
 #: ../../XLN.rst:850
+#, fuzzy
 msgid "Tilonalli's Skinshifter"
-msgstr ""
+msgstr "Tilonalli's Skinshifter"
 
 #: ../../XLN.rst:849
 msgid ""
 "Whenever Tilonalli's Skinshifter attacks, it becomes a copy of another "
 "target nonlegendary attacking creature until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, staje się kopią innego wskazanego nielegendarnego "
+"atakujące stwora do końca tury."
 
 #: ../../XLN.rst:856
+#, fuzzy
 msgid "Trove of Temptation"
-msgstr ""
+msgstr "Trove of Temptation"
 
 #: ../../XLN.rst:853
 msgid ""
 "Each opponent must attack you or a planeswalker you control with at least "
 "one creature each combat if able."
 msgstr ""
+"Każdy przeciwnik musi w każdej walce zaatakować ciebie lub wędrowca pod "
+"twoim władaniem przynajmniej jednym stworem, jeśli może."
 
 #: ../../XLN.rst:855
 msgid ""
@@ -2180,49 +2327,57 @@ msgstr ""
 "dowolnego koloru.\""
 
 #: ../../XLN.rst:860
+#, fuzzy
 msgid "Unfriendly Fire"
-msgstr ""
+msgstr "Unfriendly Fire"
 
 #: ../../XLN.rst:859
 msgid "Unfriendly Fire deals 4 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje 4 obrażenia w dowolny cel."
 
 #: ../../XLN.rst:866
+#, fuzzy
 msgid "Vance's Blasting Cannons"
-msgstr ""
+msgstr "Vance's Blasting Cannons"
 
 #: ../../XLN.rst:863
 msgid ""
 "At the beginning of your upkeep, exile the top card of your library. If it's "
 "a nonland card, you may cast that card this turn."
 msgstr ""
+"Na początku twojego kroku utrzymania, wygnaj wierzchnią kartę twojej "
+"biblioteki. Jeśli owa karta nie jest lądem, możesz ją rzucić w tej turze."
 
 #: ../../XLN.rst:865
 msgid ""
 "Whenever you cast your third spell in a turn, you may transform Vance's "
 "Blasting Cannons."
 msgstr ""
+"Ilekroć rzucisz swój trzeci czar w danej turze, możesz transformować tę "
+"kartę."
 
 #: ../../XLN.rst:874
+#, fuzzy
 msgid "Spitfire Bastion"
-msgstr ""
+msgstr "Spitfire Bastion"
 
 #: ../../XLN.rst:869
 msgid "(Transforms from Vance's Blasting Cannons.)"
-msgstr ""
+msgstr "(Transformuje z Vance's Blasting Cannons.)"
 
 #: ../../XLN.rst:871
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r|."
 
 #: ../../XLN.rst:873
 msgid ""
 "|mana_2| |mana_r|, |tap|: Spitfire Bastion deals 3 damage to any target."
-msgstr ""
+msgstr "|mana_2| |mana_r|, |tap|: Ta karta zadaje 3 obrażenia w dowolny cel."
 
 #: ../../XLN.rst:878
+#, fuzzy
 msgid "Wily Goblin"
-msgstr ""
+msgstr "Wily Goblin"
 
 #: ../../XLN.rst:877
 msgid ""
@@ -2235,12 +2390,14 @@ msgstr ""
 "dowolnego koloru.\""
 
 #: ../../XLN.rst:880
+#, fuzzy
 msgid "Ancient Brontodon"
-msgstr ""
+msgstr "Ancient Brontodon"
 
 #: ../../XLN.rst:888
+#, fuzzy
 msgid "Atzocan Archer"
-msgstr ""
+msgstr "Atzocan Archer"
 
 #: ../../XLN.rst:885 ../../XLN.rst:951
 msgid "Reach"
@@ -2251,10 +2408,14 @@ msgid ""
 "When Atzocan Archer enters the battlefield, you may have it fight another "
 "target creature. (Each deals damage equal to its power to the other.)"
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz sprawić, by walczył z innym "
+"wskazanym stworem. (Każdy z nich zadaje drugiemu obrażenia równe swojej "
+"sile.)"
 
 #: ../../XLN.rst:892
+#, fuzzy
 msgid "Blinding Fog"
-msgstr ""
+msgstr "Blinding Fog"
 
 #: ../../XLN.rst:891
 msgid ""
@@ -2262,18 +2423,24 @@ msgid ""
 "control gain hexproof until end of turn. (They can't be the targets of "
 "spells or abilities your opponents control.)"
 msgstr ""
+"Zażegnaj wszystkie obrażenia, które mogłyby zostać zadane stworom w tej "
+"turze. Stwory pod twoim władaniem zyskują antyklątwę do końca tury. (Nie "
+"mogą być wskazywane przez czary lub zdolności władane przez twoich "
+"przeciwników.)"
 
 #: ../../XLN.rst:896
+#, fuzzy
 msgid "Blossom Dryad"
-msgstr ""
+msgstr "Blossom Dryad"
 
 #: ../../XLN.rst:895
 msgid "|tap|: Untap target land."
 msgstr "|tap|: Odtapuj wskazany ląd."
 
 #: ../../XLN.rst:902
+#, fuzzy
 msgid "Carnage Tyrant"
-msgstr ""
+msgstr "Carnage Tyrant"
 
 #: ../../XLN.rst:899
 msgid "This spell can't be countered."
@@ -2281,7 +2448,7 @@ msgstr "Ten czar nie może być skontrowany."
 
 #: ../../XLN.rst:901
 msgid "Trample, hexproof"
-msgstr ""
+msgstr "Tratowanie, antyklątwa"
 
 #: ../../XLN.rst:906
 #, fuzzy
@@ -2297,8 +2464,9 @@ msgstr ""
 "wędrowca, którego atakuje.)"
 
 #: ../../XLN.rst:910
+#, fuzzy
 msgid "Commune with Dinosaurs"
-msgstr ""
+msgstr "Commune with Dinosaurs"
 
 #: ../../XLN.rst:909
 msgid ""
@@ -2306,14 +2474,18 @@ msgid ""
 "land card from among them and put it into your hand. Put the rest on the "
 "bottom of your library in any order."
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
+"nich kartę Dinozaura lub lądu i umieścić ją w twojej ręce. Umieść pozostałe "
+"na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../XLN.rst:914
+#, fuzzy
 msgid "Crash the Ramparts"
-msgstr ""
+msgstr "Crash the Ramparts"
 
 #: ../../XLN.rst:913
 msgid "Target creature gets +3/+3 and gains trample until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz tratowanie."
 
 #: ../../XLN.rst:922
 #, fuzzy
@@ -2325,8 +2497,9 @@ msgid "Destroy target creature with flying."
 msgstr "Zniszcz wskazanego stwora z lataniem."
 
 #: ../../XLN.rst:926
+#, fuzzy
 msgid "Deathgorge Scavenger"
-msgstr ""
+msgstr "Deathgorge Scavenger"
 
 #: ../../XLN.rst:925
 msgid ""
@@ -2335,51 +2508,63 @@ msgid ""
 "you gain 2 life. If a noncreature card is exiled this way, Deathgorge "
 "Scavenger gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć ten stwór wejdzie na pole walki lub zaatakuje, możesz wygnać "
+"wskazaną kartę z cmentarza. Jeśli wygnano w ten sposób kartę stwora, "
+"zyskujesz 2 życia. Jeśli wygnano w ten sposób kartę nie będącą stworem, ten "
+"stwór dostaje +1/+1 do końca tury."
 
 #: ../../XLN.rst:930
+#, fuzzy
 msgid "Deeproot Champion"
-msgstr ""
+msgstr "Deeproot Champion"
 
 #: ../../XLN.rst:929
 msgid ""
 "Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot "
 "Champion."
 msgstr ""
+"Ilekroć rzucisz czar nie będący stworem, połóż znacznik +1/+1 na tym stworze."
 
 #: ../../XLN.rst:934
+#, fuzzy
 msgid "Deeproot Warrior"
-msgstr ""
+msgstr "Deeproot Warrior"
 
 #: ../../XLN.rst:933
 msgid ""
 "Whenever Deeproot Warrior becomes blocked, it gets +1/+1 until end of turn."
-msgstr ""
+msgstr "Ilekroć ten stwór zostanie zablokowany, dostaje +1/+1 do końca tury."
 
 #: ../../XLN.rst:940
+#, fuzzy
 msgid "Drover of the Mighty"
-msgstr ""
+msgstr "Drover of the Mighty"
 
 #: ../../XLN.rst:937
 msgid "Drover of the Mighty gets +2/+2 as long as you control a Dinosaur."
-msgstr ""
+msgstr "Ten stwór dostaje +2/+2 o ile władasz Dinozaurem."
 
 #: ../../XLN.rst:939
 msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../XLN.rst:944
+#, fuzzy
 msgid "Emergent Growth"
-msgstr ""
+msgstr "Emergent Growth"
 
 #: ../../XLN.rst:943
 msgid ""
 "Target creature gets +5/+5 until end of turn and must be blocked this turn "
 "if able."
 msgstr ""
+"Wskazany stwór dostaje +5/+5 do końca tury i musi być blokowany w tej turze "
+"jeśli to możliwe."
 
 #: ../../XLN.rst:948
+#, fuzzy
 msgid "Emperor's Vanguard"
-msgstr ""
+msgstr "Emperor's Vanguard"
 
 #: ../../XLN.rst:947
 msgid ""
@@ -2394,12 +2579,14 @@ msgstr ""
 "odłóż ową kartę lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:952
+#, fuzzy
 msgid "Grazing Whiptail"
-msgstr ""
+msgstr "Grazing Whiptail"
 
 #: ../../XLN.rst:958
+#, fuzzy
 msgid "Growing Rites of Itlimoc"
-msgstr ""
+msgstr "Growing Rites of Itlimoc"
 
 #: ../../XLN.rst:955
 msgid ""
