@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-24 10:25+0000\n"
+"PO-Revision-Date: 2018-12-24 11:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
@@ -353,6 +353,8 @@ msgid ""
 "Whenever another creature with power 2 or less enters the battlefield under "
 "your control, you may pay |mana_1|. If you do, draw a card."
 msgstr ""
+"Ilekroć inny stwór o sile 2 lub mniejszej wejdzie na pole walki pod twoim "
+"władaniem, możesz zapłacić |mana_1|. Jeśli tak zrobisz, dobierz kartę."
 
 # a503874b19d945689a44139c6487a8a0
 #: ../../ISD.rst:124
@@ -1413,7 +1415,7 @@ msgstr ""
 # 5743673a5e9045888da5fad63dff7766
 #: ../../ISD.rst:543
 msgid "Diregraf Ghoul enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 # 7b74c49e5b2043abaeae473d15f294ba
 #: ../../ISD.rst:548
