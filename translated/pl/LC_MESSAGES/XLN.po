@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-25 14:29+0000\n"
+"PO-Revision-Date: 2018-12-25 14:43+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -2595,32 +2595,40 @@ msgid ""
 "put it into your hand. Put the rest on the bottom of your library in any "
 "order."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, spójrz na cztery wierzchnie karty "
+"twojej biblioteki. Możesz ujawnić spośród nich kartę stwora i umieścić ją w "
+"twojej ręce. Umieść pozostałe na spodzie twojej biblioteki w dowolnej "
+"kolejności."
 
 #: ../../XLN.rst:957
 msgid ""
 "At the beginning of your end step, if you control four or more creatures, "
 "transform Growing Rites of Itlimoc."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli władasz co najmniej czterema "
+"stworami, transformuj tę kartę."
 
 #: ../../XLN.rst:966
+#, fuzzy
 msgid "Itlimoc, Cradle of the Sun"
-msgstr ""
+msgstr "Itlimoc, Cradle of the Sun"
 
 #: ../../XLN.rst:961
 msgid "(Transforms from Growing Rites of Itlimoc.)"
-msgstr ""
+msgstr "(Transformuje z Growing Rites of Itlimoc.)"
 
 #: ../../XLN.rst:963
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../XLN.rst:965
 msgid "|tap|: Add |mana_g| for each creature you control."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| za każdego stwora pod twoim władaniem."
 
 #: ../../XLN.rst:970
+#, fuzzy
 msgid "Ixalli's Diviner"
-msgstr ""
+msgstr "Ixalli's Diviner"
 
 #: ../../XLN.rst:969
 msgid ""
@@ -2635,18 +2643,22 @@ msgstr ""
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:974
+#, fuzzy
 msgid "Ixalli's Keeper"
-msgstr ""
+msgstr "Ixalli's Keeper"
 
 #: ../../XLN.rst:973
 msgid ""
 "|mana_7| |mana_g|, |tap|, Sacrifice Ixalli's Keeper: Target creature gets +5/"
 "+5 and gains trample until end of turn."
 msgstr ""
+"|mana_7| |mana_g|, |tap|, poświęć tego stwora: Wskazany stwór dostaje do "
+"końca tury +5/+5 oraz tratowanie."
 
 #: ../../XLN.rst:980
+#, fuzzy
 msgid "Jade Guardian"
-msgstr ""
+msgstr "Jade Guardian"
 
 #: ../../XLN.rst:977
 msgid ""
@@ -2661,28 +2673,34 @@ msgid ""
 "When Jade Guardian enters the battlefield, put a +1/+1 counter on target "
 "Merfolk you control."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, połóż znacznik +1/+1 na wskazanym "
+"Wodniku pod twoim władaniem."
 
 #: ../../XLN.rst:984
+#, fuzzy
 msgid "Jungle Delver"
-msgstr ""
+msgstr "Jungle Delver"
 
 #: ../../XLN.rst:983
 msgid "|mana_3| |mana_g|: Put a +1/+1 counter on Jungle Delver."
-msgstr ""
+msgstr "|mana_3| |mana_g|: Połóż znacznik +1/+1 na tej karcie."
 
 #: ../../XLN.rst:988
+#, fuzzy
 msgid "Kumena's Speaker"
-msgstr ""
+msgstr "Kumena's Speaker"
 
 #: ../../XLN.rst:987
 msgid ""
 "Kumena's Speaker gets +1/+1 as long as you control another Merfolk or an "
 "Island."
 msgstr ""
+"Ten stwór dostaje +1/+1 o ile masz we władaniu innego Wodnika lub Wyspę."
 
 #: ../../XLN.rst:992
+#, fuzzy
 msgid "Merfolk Branchwalker"
-msgstr ""
+msgstr "Merfolk Branchwalker"
 
 #: ../../XLN.rst:991
 msgid ""
@@ -2697,8 +2715,9 @@ msgstr ""
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:1000
+#, fuzzy
 msgid "New Horizons"
-msgstr ""
+msgstr "New Horizons"
 
 #: ../../XLN.rst:995
 msgid "Enchant land"
@@ -2709,14 +2728,19 @@ msgid ""
 "When New Horizons enters the battlefield, put a +1/+1 counter on target "
 "creature you control."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, połóż znacznik +1/+1 na wskazanym "
+"stworze pod twoim władaniem."
 
 #: ../../XLN.rst:999
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
 msgstr ""
+"Zauroczony ląd ma zdolność \"|tap|: Dostajesz dwie many w dowolnym jednym "
+"kolorze.\""
 
 #: ../../XLN.rst:1004
+#, fuzzy
 msgid "Old-Growth Dryads"
-msgstr ""
+msgstr "Old-Growth Dryads"
 
 #: ../../XLN.rst:1003
 msgid ""
@@ -2724,10 +2748,14 @@ msgid ""
 "their library for a basic land card, put it onto the battlefield tapped, "
 "then shuffle their library."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, każdy przeciwnik może poszukać w "
+"swojej bibliotece kartę bazowego lądu, położyć ją na polu walki zatapowaną, "
+"następnie przetasować swoją bibliotekę."
 
 #: ../../XLN.rst:1008
+#, fuzzy
 msgid "Pounce"
-msgstr ""
+msgstr "Pounce"
 
 #: ../../XLN.rst:1007
 msgid ""
@@ -2738,8 +2766,9 @@ msgstr ""
 "władasz. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../XLN.rst:1012
+#, fuzzy
 msgid "Ranging Raptors"
-msgstr ""
+msgstr "Ranging Raptors"
 
 #: ../../XLN.rst:1011
 msgid ""
@@ -2752,8 +2781,9 @@ msgstr ""
 "a następnie przetasować twoją bibliotekę."
 
 #: ../../XLN.rst:1016
+#, fuzzy
 msgid "Ravenous Daggertooth"
-msgstr ""
+msgstr "Ravenous Daggertooth"
 
 #: ../../XLN.rst:1015
 msgid ""
@@ -2761,31 +2791,38 @@ msgid ""
 msgstr "Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, zyskujesz 2 życia."
 
 #: ../../XLN.rst:1020
+#, fuzzy
 msgid "Ripjaw Raptor"
-msgstr ""
+msgstr "Ripjaw Raptor"
 
 #: ../../XLN.rst:1019
 msgid "Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card."
 msgstr "Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, dobierz kartę."
 
 #: ../../XLN.rst:1024
+#, fuzzy
 msgid "River Heralds' Boon"
-msgstr ""
+msgstr "River Heralds' Boon"
 
 #: ../../XLN.rst:1023
 msgid ""
 "Put a +1/+1 counter on target creature and a +1/+1 counter on up to one "
 "target Merfolk."
 msgstr ""
+"Połóż znacznik +1/+1 na wskazanym stworze oraz znacznik +1/+1 na co najwyżej "
+"jednym wskazanym Wodniku."
 
 #: ../../XLN.rst:1030
+#, fuzzy
 msgid "Savage Stomp"
-msgstr ""
+msgstr "Savage Stomp"
 
 #: ../../XLN.rst:1027
 msgid ""
 "This spell costs |mana_2| less to cast if it targets a Dinosaur you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje |mana_2| mniej jeśli wskazuje on Dinozaura pod "
+"twoim władaniem."
 
 #: ../../XLN.rst:1029
 msgid ""
@@ -2793,31 +2830,36 @@ msgid ""
 "fights target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
-"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem Następnie ów "
+"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
 "stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
 "nawzajem obrażenia równe ich sile.)"
 
 #: ../../XLN.rst:1034
+#, fuzzy
 msgid "Shapers' Sanctuary"
-msgstr ""
+msgstr "Shapers' Sanctuary"
 
 #: ../../XLN.rst:1033
 msgid ""
 "Whenever a creature you control becomes the target of a spell or ability an "
 "opponent controls, you may draw a card."
 msgstr ""
+"Ilekroć stwór pod twoim władaniem zostaje wskazany przez czar lub zdolność "
+"władne przez przeciwnika, możesz dobrać kartę."
 
 #: ../../XLN.rst:1040
+#, fuzzy
 msgid "Slice in Twain"
-msgstr ""
+msgstr "Slice in Twain"
 
 #: ../../XLN.rst:1037
 msgid "Destroy target artifact or enchantment."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../XLN.rst:1046
+#, fuzzy
 msgid "Snapping Sailback"
-msgstr ""
+msgstr "Snapping Sailback"
 
 #: ../../XLN.rst:1045
 msgid ""
@@ -2828,20 +2870,22 @@ msgstr ""
 "1/+1. (Musi przeżyć obrażenia, by otrzymać znacznik.)"
 
 #: ../../XLN.rst:1050
+#, fuzzy
 msgid "Spike-Tailed Ceratops"
-msgstr ""
+msgstr "Spike-Tailed Ceratops"
 
 #: ../../XLN.rst:1049
 msgid "Spike-Tailed Ceratops can block an additional creature each combat."
-msgstr ""
+msgstr "Ten stwór może blokować dodatkowego stwora w każdej walce."
 
 #: ../../XLN.rst:1056
+#, fuzzy
 msgid "Thundering Spineback"
-msgstr ""
+msgstr "Thundering Spineback"
 
 #: ../../XLN.rst:1053
 msgid "Other Dinosaurs you control get +1/+1."
-msgstr ""
+msgstr "Inne Dinozaury pod twoim władaniem dostają +1/+1."
 
 #: ../../XLN.rst:1055
 msgid ""
