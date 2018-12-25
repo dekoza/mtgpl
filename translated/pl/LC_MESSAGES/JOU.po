@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-23 19:58+0000\n"
+"PO-Revision-Date: 2018-12-25 14:43+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/jou/pl/>\n"
 "Language: pl\n"
@@ -1854,9 +1854,8 @@ msgstr ""
 
 # 3316b2f43b754b7d84e2ab467e2e2325
 #: ../../JOU.rst:625
-#, fuzzy
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dodaj |mana_g| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_g|."
 
 # 58b73ee173ee46ddb173beccd476561a
 #: ../../JOU.rst:630
