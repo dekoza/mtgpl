@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-25 23:10+0000\n"
+"PO-Revision-Date: 2018-12-25 23:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -3189,6 +3189,7 @@ msgid ""
 "Tishana, Voice of Thunder's power and toughness are each equal to the number "
 "of cards in your hand."
 msgstr ""
+"Siła oraz wytrzymałość tego stwora są obie równe liczbie kart w twojej ręce."
 
 #: ../../XLN.rst:1155
 msgid "You have no maximum hand size."
@@ -3199,28 +3200,34 @@ msgid ""
 "When Tishana enters the battlefield, draw a card for each creature you "
 "control."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, dobierz kartę za każdego stwora pod "
+"twoim władaniem."
 
 #: ../../XLN.rst:1164
+#, fuzzy
 msgid "Vona, Butcher of Magan"
-msgstr ""
+msgstr "Vona, Butcher of Magan"
 
 #: ../../XLN.rst:1161
 msgid "Vigilance, lifelink"
-msgstr ""
+msgstr "Czujność, więź życia"
 
 #: ../../XLN.rst:1163
 msgid ""
 "|tap|, Pay 7 life: Destroy target nonland permanent. Activate this ability "
 "only during your turn."
 msgstr ""
+"|tap|, zapłać 7 życia: Zniszcz wskazany nie-lądowy permanent. Aktywuj tę "
+"zdolność tylko podczas twojej tury."
 
 #: ../../XLN.rst:1172
+#, fuzzy
 msgid "Vraska, Relic Seeker"
-msgstr ""
+msgstr "Vraska, Relic Seeker"
 
 #: ../../XLN.rst:1167
 msgid "+2: Create a 2/2 black Pirate creature token with menace."
-msgstr ""
+msgstr "+2: Stwórz żeton czarnego stwora Pirat 2/2 ze złowrogością."
 
 #: ../../XLN.rst:1169
 msgid ""
@@ -3234,15 +3241,16 @@ msgstr ""
 
 #: ../../XLN.rst:1171
 msgid "−10: Target player's life total becomes 1."
-msgstr ""
+msgstr "–10: Życie wskazanego gracza staje się równe 1."
 
 #: ../../XLN.rst:1178
+#, fuzzy
 msgid "Cobbled Wings"
-msgstr ""
+msgstr "Cobbled Wings"
 
 #: ../../XLN.rst:1175
 msgid "Equipped creature has flying."
-msgstr ""
+msgstr "Wyposażony stwór ma latanie."
 
 #: ../../XLN.rst:1177
 msgid ""
@@ -3253,28 +3261,34 @@ msgstr ""
 "Wyposażaj wyłącznie jako obrzęd.)"
 
 #: ../../XLN.rst:1184
+#, fuzzy
 msgid "Conqueror's Galleon"
-msgstr ""
+msgstr "Conqueror's Galleon"
 
 #: ../../XLN.rst:1181
 msgid ""
 "When Conqueror's Galleon attacks, exile it at end of combat, then return it "
 "to the battlefield transformed under your control."
 msgstr ""
+"Kiedy ten stwór atakuje, wygnaj go na końcu walki, następnie przywróć go na "
+"pole walki pod twoim władaniem, transformowany."
 
 #: ../../XLN.rst:1183
 msgid ""
 "Crew 4 (Tap any number of creatures you control with total power 4 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 4 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"4 lub większej. Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../XLN.rst:1196
+#, fuzzy
 msgid "Conqueror's Foothold"
-msgstr ""
+msgstr "Conqueror's Foothold"
 
 #: ../../XLN.rst:1187
 msgid "(Transforms from Conqueror's Galleon.)"
-msgstr ""
+msgstr "(Transformuje z Conqueror's Galleon.)"
 
 #: ../../XLN.rst:1189 ../../XLN.rst:1243 ../../XLN.rst:1311 ../../XLN.rst:1323
 #: ../../XLN.rst:1349 ../../XLN.rst:1375 ../../XLN.rst:1381
@@ -3283,19 +3297,21 @@ msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../XLN.rst:1191
 msgid "|mana_2|, |tap|: Draw a card, then discard a card."
-msgstr ""
+msgstr "|mana_2|, |tap|: Dobierz kartę, następnie odrzuć kartę."
 
 #: ../../XLN.rst:1193
 msgid "|mana_4|, |tap|: Draw a card."
-msgstr ""
+msgstr "|mana_4|, |tap|: Dobierz kartę."
 
 #: ../../XLN.rst:1195
 msgid "|mana_6|, |tap|: Return target card from your graveyard to your hand."
 msgstr ""
+"|mana_6|, |tap|: Przywróć wskazaną kartę z twojego cmentarza do twojej ręki."
 
 #: ../../XLN.rst:1206
+#, fuzzy
 msgid "Dowsing Dagger"
-msgstr ""
+msgstr "Dowsing Dagger"
 
 #: ../../XLN.rst:1199
 msgid ""
