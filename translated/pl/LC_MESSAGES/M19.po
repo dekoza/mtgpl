@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-25 14:29+0000\n"
+"PO-Revision-Date: 2018-12-25 14:43+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -1933,7 +1933,7 @@ msgstr ""
 
 #: ../../M19.rst:879 ../../M19.rst:1619
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../M19.rst:884
 msgid "Dryad Greenseeker"
@@ -2016,6 +2016,8 @@ msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 #: ../../M19.rst:915
 msgid "Enchanted land has \"|tap|: Add two mana of any one color.\""
 msgstr ""
+"Zauroczony ląd ma zdolność \"|tap|: Dostajesz dwie many w dowolnym jednym "
+"kolorze.\""
 
 #: ../../M19.rst:918
 msgid "Gigantosaurus"
