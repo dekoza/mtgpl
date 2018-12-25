@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-25 14:29+0000\n"
+"PO-Revision-Date: 2018-12-25 14:43+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -2423,9 +2423,8 @@ msgstr ""
 # f16060a4928047119f8e173e1e34b853
 # 54b9d5d352c744ababa96f79124ae6f8
 #: ../../M15.rst:899
-#, fuzzy
 msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dodaj |mana_1| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_g|."
 
 # f610cb5c99ac41aeb8dc8da462eb4b01
 #: ../../M15.rst:906
@@ -2503,7 +2502,7 @@ msgid ""
 "fights target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
-"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem Następnie ów "
+"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
 "stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
 "nawzajem obrażenia równe ich sile.)"
 
