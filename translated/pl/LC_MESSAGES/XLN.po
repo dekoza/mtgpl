@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-25 23:25+0000\n"
+"PO-Revision-Date: 2018-12-27 13:40+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -3318,74 +3318,85 @@ msgid ""
 "When Dowsing Dagger enters the battlefield, target opponent creates two 0/2 "
 "green Plant creature tokens with defender."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik tworzy dwa  żetony "
+"zielonego stwora Roślina 0/2 z obronnością."
 
 #: ../../XLN.rst:1201 ../../XLN.rst:1255
 msgid "Equipped creature gets +2/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+1."
 
 #: ../../XLN.rst:1203
 msgid ""
 "Whenever equipped creature deals combat damage to a player, you may "
 "transform Dowsing Dagger."
 msgstr ""
+"Ilekroć wyposażony stwór zadaje graczowi obrażenia bojowe, możesz "
+"transformować tę kartę."
 
 #: ../../XLN.rst:1205
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../XLN.rst:1212
 msgid "Lost Vale"
-msgstr ""
+msgstr "Lost Vale (Zaginiona Dolina)"
 
 #: ../../XLN.rst:1209
 msgid "(Transforms from Dowsing Dagger.)"
-msgstr ""
+msgstr "(Transformuje z Dowsing Dagger.)"
 
 #: ../../XLN.rst:1211
 msgid "|tap|: Add three mana of any one color."
-msgstr ""
+msgstr "|tap|: Dostajesz trzy many w dowolnym jednym kolorze."
 
 #: ../../XLN.rst:1218
+#, fuzzy
 msgid "Dusk Legion Dreadnought"
-msgstr ""
+msgstr "Dusk Legion Dreadnought"
 
 #: ../../XLN.rst:1217 ../../XLN.rst:1289
 msgid ""
 "Crew 2 (Tap any number of creatures you control with total power 2 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 2 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 2: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../XLN.rst:1226
 msgid "Elaborate Firecannon"
-msgstr ""
+msgstr "Elaborate Firecannon (Wyszukana Ognioplujka)"
 
 #: ../../XLN.rst:1221
 msgid "Elaborate Firecannon doesn't untap during your untap step."
-msgstr ""
+msgstr "Ta karta nie odtapowuje się w twoim kroku odtapowania."
 
 #: ../../XLN.rst:1223
 msgid "|mana_4|, |tap|: Elaborate Firecannon deals 2 damage to any target."
-msgstr ""
+msgstr "|mana_4|, |tap|: Ta karta zadaje 2 obrażenia w dowolny cel."
 
 #: ../../XLN.rst:1225
 msgid ""
 "At the beginning of your upkeep, you may discard a card. If you do, untap "
 "Elaborate Firecannon."
 msgstr ""
+"Na początku twojego kroku utrzymania możesz odrzucić kartę. Jeśli to "
+"zrobisz, odtapuj tę kartę."
 
 #: ../../XLN.rst:1234
+#, fuzzy
 msgid "Fell Flagship"
-msgstr ""
+msgstr "Fell Flagship"
 
 #: ../../XLN.rst:1229
 msgid "Pirates you control get +1/+0."
-msgstr ""
+msgstr "Piraci pod twoim władaniem dostają +1/+0."
 
 #: ../../XLN.rst:1231
 msgid ""
 "Whenever Fell Flagship deals combat damage to a player, that player discards "
 "a card."
 msgstr ""
+"Ilekroć ten stwór zadaje graczowi obrażenia bojowe, ów gracz odrzuca kartę."
 
 #: ../../XLN.rst:1233
 msgid ""
@@ -3394,22 +3405,27 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1236
+#, fuzzy
 msgid "Gilded Sentinel"
-msgstr ""
+msgstr "Gilded Sentinel"
 
 #: ../../XLN.rst:1244
+#, fuzzy
 msgid "Hierophant's Chalice"
-msgstr ""
+msgstr "Hierophant's Chalice"
 
 #: ../../XLN.rst:1241
 msgid ""
 "When Hierophant's Chalice enters the battlefield, target opponent loses 1 "
 "life and you gain 1 life."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wskazany przeciwnik traci 1 życie, a "
+"ty zyskujesz 1 życie."
 
 #: ../../XLN.rst:1250
+#, fuzzy
 msgid "Pillar of Origins"
-msgstr ""
+msgstr "Pillar of Origins"
 
 #: ../../XLN.rst:1247
 msgid "As Pillar of Origins enters the battlefield, choose a creature type."
@@ -3420,26 +3436,34 @@ msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast a creature "
 "spell of the chosen type."
 msgstr ""
+"|tap|: Dostajesz jedną manę w dowolnym kolorze. Wydaj tę manę tylko na "
+"rzucenie czaru stwora owego wybranego typu."
 
 #: ../../XLN.rst:1258
+#, fuzzy
 msgid "Pirate's Cutlass"
-msgstr ""
+msgstr "Pirate's Cutlass"
 
 #: ../../XLN.rst:1253
 msgid ""
 "When Pirate's Cutlass enters the battlefield, attach it to target Pirate you "
 "control."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, dołącz ją do wskazanego Pirata pod "
+"twoim władaniem."
 
 #: ../../XLN.rst:1257 ../../XLN.rst:1277
 msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../XLN.rst:1264
+#, fuzzy
 msgid "Primal Amulet"
-msgstr ""
+msgstr "Primal Amulet"
 
 #: ../../XLN.rst:1261
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
@@ -3451,14 +3475,18 @@ msgid ""
 "Primal Amulet. Then if there are four or more charge counters on it, you may "
 "remove those counters and transform it."
 msgstr ""
+"Ilekroć rzucasz czar sztuczki lub obrzędu, połóż znacznik ładunku na tej "
+"karcie. Następnie jeśli ma ona cztery lub więcej znaczników ładunku możesz "
+"usunąć owe znaczniki i transformować ją."
 
 #: ../../XLN.rst:1270
+#, fuzzy
 msgid "Primal Wellspring"
-msgstr ""
+msgstr "Primal Wellspring"
 
 #: ../../XLN.rst:1267
 msgid "(Transforms from Primal Amulet.)"
-msgstr ""
+msgstr "(Transformuje z Primal Amulet.)"
 
 #: ../../XLN.rst:1269
 msgid ""
