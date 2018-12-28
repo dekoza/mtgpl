@@ -23,17 +23,22 @@ Tłumaczenie dodatków
 Standard
 --------
 
-* :doc:`Guilds of Ravnica<GRN>` (0%)
-* :doc:`Magic 2019 Core Set<M19>` (0%)
-* :doc:`Dominaria<DOM>` (0%)
-* :doc:`Rivals of Ixalan<RIX>` (0%)
-* :doc:`Ixalan<XLN>` (0%)
+* :doc:`Guilds of Ravnica<GRN>` (100%)
+* :doc:`Magic 2019 Core Set<M19>` (31%)
+* :doc:`Dominaria<DOM>` (32%)
+* :doc:`Rivals of Ixalan<RIX>` (100%)
+* :doc:`Ixalan<XLN>` (85%)
 
 Modern
 ------
-
-* :doc:`Origins<ORI>` (0%)
-* :doc:`Dragons of Tarkir<DTK>` (0%)
+* :doc:`Hour of Devastation<HOU>` (0%)
+* :doc:`Amonkhet<AKH>` (0%)
+* :doc:`Eldritch Moon<EMN>` (0%)
+* :doc:`Shadows over Innistrad<SOI>` (0%)
+* :doc:`Oath of the Gatewatch<OGW>` (0%)
+* :doc:`Battle for Zendikar<BFZ>` (0%)
+* :doc:`Origins<ORI>` (15%)
+* :doc:`Dragons of Tarkir<DTK>` (6%)
 * :doc:`Fate Reforged<FRF>` (100%)
 * :doc:`Khans of Tarkir<KTK>` (52%)
 * :doc:`Magic 2015 Core Set<M15>` (7%)

@@ -3,6 +3,11 @@
  Spis zmian
 ************
 
+2018-12-18
+    Testowe uruchomienie strony mtgpopolsku.pl - w pełni przetłumaczone dodatki z aktualnego Standardu: :doc:`Guilds of Ravnica<GRN>`, :doc:`Rivals of Ixalan<RIX>` oraz częściowo pozostałe dodatki aż do New Phyrexia.
+
+    Zmiana tłumaczenia słowa "tap" - mimo że "zaznaczyć" (i analogicznie "odznaczyć" dla "untap") jest bardziej po polsku, to akurat to słowo jest mocno zakorzenione w slangu i występuje niezmienione w innych lokalizacjach gry.
+
 2014-01-29
     Nowe dodatki: :doc:`Born of the Gods<BNG>`, :doc:`Avacyn Restored<AVR>`, :doc:`Dark Ascension<DKA>`, :doc:`Innistrad<ISD>`, :doc:`New Phyrexia<NPH>`.
 
