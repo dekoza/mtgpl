@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-25 14:43+0000\n"
+"PO-Revision-Date: 2018-12-27 13:40+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -2785,7 +2785,7 @@ msgstr ""
 
 #: ../../ORI.rst:1253
 msgid "|mana_4|, |tap|: Draw a card."
-msgstr ""
+msgstr "|mana_4|, |tap|: Dobierz kartę."
 
 #: ../../ORI.rst:1262
 msgid "Mage-Ring Responder"
@@ -2899,7 +2899,7 @@ msgstr ""
 
 #: ../../ORI.rst:1307
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../ORI.rst:1316
 msgid "Throwing Knife"
@@ -2920,6 +2920,8 @@ msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../ORI.rst:1322
 msgid "Veteran's Sidearm"

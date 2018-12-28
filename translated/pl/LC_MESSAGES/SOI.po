@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2018-12-25 14:43+0000\n"
+"PO-Revision-Date: 2018-12-27 13:40+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/soi/pl/>\n"
 "Language: pl\n"
@@ -3388,7 +3388,7 @@ msgstr ""
 
 #: ../../SOI.rst:2389 ../../SOI.rst:2467
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../SOI.rst:2399
 msgid "Haunted Cloak"
@@ -3553,6 +3553,8 @@ msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
 "only as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../SOI.rst:2520
 msgid "Wicker Witch"
