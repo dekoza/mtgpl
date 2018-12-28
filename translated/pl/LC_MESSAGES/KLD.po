@@ -7,13 +7,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 00:38+0100\n"
+"POT-Creation-Date: 2018-12-16 23:18+0100\n"
 "PO-Revision-Date: 2018-12-27 13:40+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
@@ -24,802 +24,802 @@ msgstr ""
 msgid "Kaladesh"
 msgstr ""
 
-#: ../../KLD.rst:15
+#: ../../KLD.rst:12
 msgid "Acrobatic Maneuver"
 msgstr ""
 
-#: ../../KLD.rst:12
+#: ../../KLD.rst:9
 msgid ""
-"Exile target creature you control, then return that card to the "
-"battlefield under its owner's control."
+"Exile target creature you control, then return that card to the battlefield "
+"under its owner's control."
 msgstr ""
 
-#: ../../KLD.rst:14 ../../KLD.rst:198 ../../KLD.rst:1064
+#: ../../KLD.rst:11 ../../KLD.rst:129 ../../KLD.rst:683
 msgid "Draw a card."
 msgstr "Dobierz kartę."
 
-#: ../../KLD.rst:22
+#: ../../KLD.rst:16
 msgid "Aerial Responder"
 msgstr ""
 
-#: ../../KLD.rst:21 ../../KLD.rst:39
+#: ../../KLD.rst:15 ../../KLD.rst:27
 msgid "Flying, vigilance, lifelink"
 msgstr ""
 
-#: ../../KLD.rst:33
+#: ../../KLD.rst:24
 msgid "Aetherstorm Roc"
 msgstr ""
 
-#: ../../KLD.rst:28 ../../KLD.rst:111 ../../KLD.rst:205 ../../KLD.rst:237
-#: ../../KLD.rst:290 ../../KLD.rst:328 ../../KLD.rst:385 ../../KLD.rst:417
-#: ../../KLD.rst:459 ../../KLD.rst:591 ../../KLD.rst:614 ../../KLD.rst:691
-#: ../../KLD.rst:1085 ../../KLD.rst:1459 ../../KLD.rst:1960 ../../KLD.rst:1969
-#: ../../KLD.rst:1980
+#: ../../KLD.rst:19 ../../KLD.rst:75 ../../KLD.rst:133 ../../KLD.rst:153
+#: ../../KLD.rst:185 ../../KLD.rst:211 ../../KLD.rst:247 ../../KLD.rst:267
+#: ../../KLD.rst:297 ../../KLD.rst:381 ../../KLD.rst:395 ../../KLD.rst:445
+#: ../../KLD.rst:695 ../../KLD.rst:931 ../../KLD.rst:1261 ../../KLD.rst:1267
+#: ../../KLD.rst:1275
 msgid "Flying"
 msgstr "Latanie"
 
-#: ../../KLD.rst:30
+#: ../../KLD.rst:21
 msgid ""
-"Whenever Aetherstorm Roc or another creature enters the battlefield under"
-" your control, you get {E} (an energy counter)."
+"Whenever Aetherstorm Roc or another creature enters the battlefield under "
+"your control, you get {E} (an energy counter)."
+msgstr ""
+
+#: ../../KLD.rst:23
+msgid ""
+"Whenever Aetherstorm Roc attacks, you may pay {E} {E}. If you do, put a +1/"
+"+1 counter on it and tap up to one target creature defending player controls."
 msgstr ""
 
 #: ../../KLD.rst:32
-msgid ""
-"Whenever Aetherstorm Roc attacks, you may pay {E}{E}. If you do, put a "
-"+1/+1 counter on it and tap up to one target creature defending player "
-"controls."
-msgstr ""
-
-#: ../../KLD.rst:44
 msgid "Angel of Invention"
 msgstr ""
 
-#: ../../KLD.rst:41 ../../KLD.rst:283 ../../KLD.rst:880 ../../KLD.rst:1252
-#: ../../KLD.rst:1279
+#: ../../KLD.rst:29 ../../KLD.rst:181 ../../KLD.rst:565 ../../KLD.rst:799
+#: ../../KLD.rst:817
 msgid ""
 "Fabricate 2 (When this creature enters the battlefield, put two +1/+1 "
-"counters on it or create two 1/1 colorless Servo artifact creature "
-"tokens.)"
+"counters on it or create two 1/1 colorless Servo artifact creature tokens.)"
 msgstr ""
 
-#: ../../KLD.rst:43
+#: ../../KLD.rst:31
 msgid "Other creatures you control get +1/+1."
 msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
-#: ../../KLD.rst:53
+#: ../../KLD.rst:38
 msgid "Authority of the Consuls"
 msgstr ""
 
-#: ../../KLD.rst:50
+#: ../../KLD.rst:35
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
 "Stwory władane przez twoich przeciwników wchodzą na pole walki zatapowane."
 
-#: ../../KLD.rst:52
+#: ../../KLD.rst:37
 msgid ""
-"Whenever a creature enters the battlefield under an opponent's control, "
-"you gain 1 life."
+"Whenever a creature enters the battlefield under an opponent's control, you "
+"gain 1 life."
 msgstr ""
 
-#: ../../KLD.rst:60
+#: ../../KLD.rst:42
 msgid "Aviary Mechanic"
 msgstr ""
 
-#: ../../KLD.rst:59
+#: ../../KLD.rst:41
 msgid ""
 "When Aviary Mechanic enters the battlefield, you may return another "
 "permanent you control to its owner's hand."
 msgstr ""
 
-#: ../../KLD.rst:67
+#: ../../KLD.rst:46
 msgid "Built to Last"
 msgstr ""
 
-#: ../../KLD.rst:66
+#: ../../KLD.rst:45
 msgid ""
-"Target creature gets +2/+2 until end of turn. If it's an artifact "
-"creature, it gains indestructible until end of turn. (Damage and effects "
-"that say \"destroy\" don't destroy it.)"
+"Target creature gets +2/+2 until end of turn. If it's an artifact creature, "
+"it gains indestructible until end of turn. (Damage and effects that say "
+"\"destroy\" don't destroy it.)"
 msgstr ""
 
-#: ../../KLD.rst:78
+#: ../../KLD.rst:54
 msgid "Captured by the Consulate"
 msgstr ""
 
-#: ../../KLD.rst:73
+#: ../../KLD.rst:49
 msgid "Enchant creature you don't control"
 msgstr ""
 
-#: ../../KLD.rst:75
+#: ../../KLD.rst:51
 msgid "Enchanted creature can't attack."
 msgstr ""
 
-#: ../../KLD.rst:77
+#: ../../KLD.rst:53
 msgid ""
-"Whenever an opponent casts a spell, if it has a single target, change the"
-" target to enchanted creature if able."
+"Whenever an opponent casts a spell, if it has a single target, change the "
+"target to enchanted creature if able."
 msgstr ""
 
-#: ../../KLD.rst:87
+#: ../../KLD.rst:60
 msgid "Cataclysmic Gearhulk"
 msgstr ""
 
-#: ../../KLD.rst:84 ../../KLD.rst:274
+#: ../../KLD.rst:57 ../../KLD.rst:175
 msgid "Vigilance"
 msgstr "Czujność"
 
-#: ../../KLD.rst:86
+#: ../../KLD.rst:59
 msgid ""
 "When Cataclysmic Gearhulk enters the battlefield, each player chooses an "
 "artifact, a creature, an enchantment, and a planeswalker from among the "
 "nonland permanents they control, then sacrifices the rest."
 msgstr ""
 
-#: ../../KLD.rst:96
+#: ../../KLD.rst:66
 msgid "Consulate Surveillance"
 msgstr ""
 
-#: ../../KLD.rst:93
+#: ../../KLD.rst:63
 msgid ""
-"When Consulate Surveillance enters the battlefield, you get {E}{E}{E}{E} "
+"When Consulate Surveillance enters the battlefield, you get {E} {E} {E} {E} "
 "(four energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:95
+#: ../../KLD.rst:65
+#, fuzzy
 msgid ""
-"Pay {E}{E}: Prevent all damage that would be dealt to you this turn by a "
+"Pay {E} {E}: Prevent all damage that would be dealt to you this turn by a "
 "source of your choice."
 msgstr ""
+"Zażegnaj wszystkie obrażenia bitewne, które mogłyby zostać zadane graczom w "
+"tej turze."
 
-#: ../../KLD.rst:105
+#: ../../KLD.rst:72
 msgid "Consul's Shieldguard"
 msgstr ""
 
-#: ../../KLD.rst:102
+#: ../../KLD.rst:69
 msgid ""
-"When Consul's Shieldguard enters the battlefield, you get {E}{E} (two "
+"When Consul's Shieldguard enters the battlefield, you get {E} {E} (two "
 "energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:104
+#: ../../KLD.rst:71
 msgid ""
-"Whenever Consul's Shieldguard attacks, you may pay {E}. If you do, "
-"another target attacking creature gains indestructible until end of turn."
+"Whenever Consul's Shieldguard attacks, you may pay {E}. If you do, another "
+"target attacking creature gains indestructible until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:116
+#: ../../KLD.rst:80
 msgid "Eddytrail Hawk"
 msgstr ""
 
-#: ../../KLD.rst:113
+#: ../../KLD.rst:77
 msgid ""
-"When Eddytrail Hawk enters the battlefield, you get {E}{E} (two energy "
+"When Eddytrail Hawk enters the battlefield, you get {E} {E} (two energy "
 "counters)."
 msgstr ""
 
-#: ../../KLD.rst:115
+#: ../../KLD.rst:79
 msgid ""
-"Whenever Eddytrail Hawk attacks, you may pay {E}. If you do, another "
-"target attacking creature gains flying until end of turn."
+"Whenever Eddytrail Hawk attacks, you may pay {E}. If you do, another target "
+"attacking creature gains flying until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:123
+#: ../../KLD.rst:84
 msgid "Fairgrounds Warden"
 msgstr ""
 
-#: ../../KLD.rst:122
+#: ../../KLD.rst:83
 msgid ""
 "When Fairgrounds Warden enters the battlefield, exile target creature an "
 "opponent controls until Fairgrounds Warden leaves the battlefield."
 msgstr ""
 
-#: ../../KLD.rst:130
+#: ../../KLD.rst:88
 msgid "Fragmentize"
 msgstr ""
 
-#: ../../KLD.rst:129
-msgid "Destroy target artifact or enchantment with converted mana cost 4 or less."
+#: ../../KLD.rst:87
+msgid ""
+"Destroy target artifact or enchantment with converted mana cost 4 or less."
 msgstr ""
 
-#: ../../KLD.rst:137
+#: ../../KLD.rst:92
 msgid "Fumigate"
 msgstr ""
 
-#: ../../KLD.rst:136
+#: ../../KLD.rst:91
 msgid ""
-"Destroy all creatures. You gain 1 life for each creature destroyed this "
-"way."
+"Destroy all creatures. You gain 1 life for each creature destroyed this way."
 msgstr ""
 
-#: ../../KLD.rst:146
+#: ../../KLD.rst:98
 msgid "Gearshift Ace"
 msgstr ""
 
-#: ../../KLD.rst:143 ../../KLD.rst:941
+#: ../../KLD.rst:95 ../../KLD.rst:605
 msgid "First strike"
 msgstr "Pierwszy cios"
 
-#: ../../KLD.rst:145
+#: ../../KLD.rst:97
 msgid ""
 "Whenever Gearshift Ace crews a Vehicle, that Vehicle gains first strike "
 "until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:153
+#: ../../KLD.rst:102
 msgid "Glint-Sleeve Artisan"
 msgstr ""
 
-#: ../../KLD.rst:152 ../../KLD.rst:207 ../../KLD.rst:607 ../../KLD.rst:764
-#: ../../KLD.rst:1302 ../../KLD.rst:1375 ../../KLD.rst:1592 ../../KLD.rst:1842
+#: ../../KLD.rst:101 ../../KLD.rst:135 ../../KLD.rst:391 ../../KLD.rst:491
+#: ../../KLD.rst:831 ../../KLD.rst:877 ../../KLD.rst:1019 ../../KLD.rst:1185
 msgid ""
-"Fabricate 1 (When this creature enters the battlefield, put a +1/+1 "
-"counter on it or create a 1/1 colorless Servo artifact creature token.)"
+"Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter "
+"on it or create a 1/1 colorless Servo artifact creature token.)"
 msgstr ""
 
-#: ../../KLD.rst:160
+#: ../../KLD.rst:106
 msgid "Herald of the Fair"
 msgstr ""
 
-#: ../../KLD.rst:159
+#: ../../KLD.rst:105
 msgid ""
-"When Herald of the Fair enters the battlefield, target creature you "
-"control gets +1/+1 until end of turn."
+"When Herald of the Fair enters the battlefield, target creature you control "
+"gets +1/+1 until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:167
+#: ../../KLD.rst:110
 msgid "Impeccable Timing"
 msgstr ""
 
-#: ../../KLD.rst:166
-msgid "Impeccable Timing deals 3 damage to target attacking or blocking creature."
+#: ../../KLD.rst:109
+msgid ""
+"Impeccable Timing deals 3 damage to target attacking or blocking creature."
 msgstr ""
 
-#: ../../KLD.rst:174
+#: ../../KLD.rst:114
 msgid "Inspired Charge"
 msgstr ""
 
-#: ../../KLD.rst:173
+#: ../../KLD.rst:113
 msgid "Creatures you control get +2/+1 until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:183
+#: ../../KLD.rst:120
 msgid "Master Trinketeer"
 msgstr ""
 
-#: ../../KLD.rst:180
+#: ../../KLD.rst:117
 msgid "Servos and Thopters you control get +1/+1."
 msgstr ""
 
-#: ../../KLD.rst:182
-msgid "|mana_3| |mana_w|: Create a 1/1 colorless Servo artifact creature token."
+#: ../../KLD.rst:119
+msgid ""
+"|mana_3| |mana_w|: Create a 1/1 colorless Servo artifact creature token."
 msgstr ""
 
-#: ../../KLD.rst:190
+#: ../../KLD.rst:124
 msgid "Ninth Bridge Patrol"
 msgstr ""
 
-#: ../../KLD.rst:189
+#: ../../KLD.rst:123
 msgid ""
-"Whenever another creature you control leaves the battlefield, put a +1/+1"
-" counter on Ninth Bridge Patrol."
+"Whenever another creature you control leaves the battlefield, put a +1/+1 "
+"counter on Ninth Bridge Patrol."
 msgstr ""
 
-#: ../../KLD.rst:199
+#: ../../KLD.rst:130
 msgid "Pressure Point"
 msgstr ""
 
-#: ../../KLD.rst:196
+#: ../../KLD.rst:127
 msgid "Tap target creature."
 msgstr "Zatapuj wskazanego stwora."
 
-#: ../../KLD.rst:208
+#: ../../KLD.rst:136
 msgid "Propeller Pioneer"
 msgstr ""
 
-#: ../../KLD.rst:215
+#: ../../KLD.rst:140
 msgid "Refurbish"
 msgstr ""
 
-#: ../../KLD.rst:214
+#: ../../KLD.rst:139
 msgid "Return target artifact card from your graveyard to the battlefield."
 msgstr ""
 
-#: ../../KLD.rst:224
+#: ../../KLD.rst:146
 msgid "Revoke Privileges"
 msgstr ""
 
-#: ../../KLD.rst:221 ../../KLD.rst:971
+#: ../../KLD.rst:143 ../../KLD.rst:623
 msgid "Enchant creature"
 msgstr "Zaurocz stwora"
 
-#: ../../KLD.rst:223
+#: ../../KLD.rst:145
 msgid "Enchanted creature can't attack, block, or crew Vehicles."
 msgstr ""
 
-#: ../../KLD.rst:231
+#: ../../KLD.rst:150
 msgid "Servo Exhibition"
 msgstr ""
 
-#: ../../KLD.rst:230
+#: ../../KLD.rst:149
 msgid "Create two 1/1 colorless Servo artifact creature tokens."
 msgstr ""
 
-#: ../../KLD.rst:238
+#: ../../KLD.rst:154
 msgid "Skyswirl Harrier"
 msgstr ""
 
-#: ../../KLD.rst:245
+#: ../../KLD.rst:158
 msgid "Skywhaler's Shot"
 msgstr ""
 
-#: ../../KLD.rst:244
+#: ../../KLD.rst:157
 msgid "Destroy target creature with power 3 or greater. Scry 1."
 msgstr ""
 
-#: ../../KLD.rst:250
+#: ../../KLD.rst:160
 msgid "Tasseled Dromedary"
 msgstr ""
 
-#: ../../KLD.rst:261
+#: ../../KLD.rst:168
 msgid "Thriving Ibex"
 msgstr ""
 
-#: ../../KLD.rst:258
+#: ../../KLD.rst:165
 msgid ""
-"When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
+"When Thriving Ibex enters the battlefield, you get {E} {E} (two energy "
 "counters)."
 msgstr ""
 
-#: ../../KLD.rst:260
+#: ../../KLD.rst:167
 msgid ""
-"Whenever Thriving Ibex attacks, you may pay {E}{E}. If you do, put a "
-"+1/+1 counter on it."
+"Whenever Thriving Ibex attacks, you may pay {E} {E}. If you do, put a +1/+1 "
+"counter on it."
 msgstr ""
 
-#: ../../KLD.rst:268
+#: ../../KLD.rst:172
 msgid "Toolcraft Exemplar"
 msgstr ""
 
-#: ../../KLD.rst:267
+#: ../../KLD.rst:171
 msgid ""
 "At the beginning of combat on your turn, if you control an artifact, "
 "Toolcraft Exemplar gets +2/+1 until end of turn. If you control three or "
 "more artifacts, it also gains first strike until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:277
+#: ../../KLD.rst:178
 msgid "Trusty Companion"
 msgstr ""
 
-#: ../../KLD.rst:276
+#: ../../KLD.rst:177
 msgid "Trusty Companion can't attack alone."
 msgstr ""
 
-#: ../../KLD.rst:284
+#: ../../KLD.rst:182
 msgid "Visionary Augmenter"
 msgstr ""
 
-#: ../../KLD.rst:293
+#: ../../KLD.rst:188
 msgid "Wispweaver Angel"
 msgstr ""
 
-#: ../../KLD.rst:292
+#: ../../KLD.rst:187
 msgid ""
-"When Wispweaver Angel enters the battlefield, you may exile another "
-"target creature you control, then return that card to the battlefield "
-"under its owner's control."
+"When Wispweaver Angel enters the battlefield, you may exile another target "
+"creature you control, then return that card to the battlefield under its "
+"owner's control."
 msgstr ""
 
-#: ../../KLD.rst:306
+#: ../../KLD.rst:198
 msgid "Aether Meltdown"
 msgstr ""
 
-#: ../../KLD.rst:299
+#: ../../KLD.rst:191
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
-#: ../../KLD.rst:301
+#: ../../KLD.rst:193
 msgid "Enchant creature or Vehicle"
 msgstr ""
 
-#: ../../KLD.rst:303
+#: ../../KLD.rst:195
 msgid ""
-"When Aether Meltdown enters the battlefield, you get {E}{E} (two energy "
+"When Aether Meltdown enters the battlefield, you get {E} {E} (two energy "
 "counters)."
 msgstr ""
 
-#: ../../KLD.rst:305
+#: ../../KLD.rst:197
 msgid "Enchanted permanent gets -4/-0."
 msgstr ""
 
-#: ../../KLD.rst:315
+#: ../../KLD.rst:204
 msgid "Aether Theorist"
 msgstr ""
 
-#: ../../KLD.rst:312
+#: ../../KLD.rst:201
 msgid ""
-"When Aether Theorist enters the battlefield, you get {E}{E}{E} (three "
+"When Aether Theorist enters the battlefield, you get {E} {E} {E} (three "
 "energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:314
+#: ../../KLD.rst:203
 msgid ""
-"|tap|, Pay {E}: Scry 1. (Look at the top card of your library. You may "
-"put that card on the bottom of your library.)"
+"|tap|, Pay {E}: Scry 1. (Look at the top card of your library. You may put "
+"that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../KLD.rst:322
+#: ../../KLD.rst:208
 msgid "Aether Tradewinds"
 msgstr ""
 
-#: ../../KLD.rst:321
+#: ../../KLD.rst:207
 msgid ""
-"Return target permanent you control and target permanent you don't "
-"control to their owners' hands."
+"Return target permanent you control and target permanent you don't control "
+"to their owners' hands."
 msgstr ""
 
-#: ../../KLD.rst:333
+#: ../../KLD.rst:216
 msgid "Aethersquall Ancient"
 msgstr ""
 
-#: ../../KLD.rst:330
+#: ../../KLD.rst:213
 msgid ""
-"At the beginning of your upkeep, you get {E}{E}{E} (three energy "
-"counters)."
+"At the beginning of your upkeep, you get {E} {E} {E} (three energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:332
+#: ../../KLD.rst:215
 msgid ""
-"Pay {E}{E}{E}{E}{E}{E}{E}{E}: Return all other creatures to their owners'"
-" hands. Activate this ability only any time you could cast a sorcery."
+"Pay {E} {E} {E} {E} {E} {E} {E} {E}: Return all other creatures to their "
+"owners' hands. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
-#: ../../KLD.rst:340
+#: ../../KLD.rst:220
 msgid "Ceremonious Rejection"
 msgstr ""
 
-#: ../../KLD.rst:339
+#: ../../KLD.rst:219
 msgid "Counter target colorless spell."
 msgstr ""
 
-#: ../../KLD.rst:347
+#: ../../KLD.rst:224
 msgid "Confiscation Coup"
 msgstr ""
 
-#: ../../KLD.rst:346
+#: ../../KLD.rst:223
 msgid ""
-"Choose target artifact or creature. You get {E}{E}{E}{E} (four energy "
+"Choose target artifact or creature. You get {E} {E} {E} {E} (four energy "
 "counters), then you may pay an amount of {E} equal to that permanent's "
 "converted mana cost. If you do, gain control of it."
 msgstr ""
 
-#: ../../KLD.rst:352
+#: ../../KLD.rst:226
 msgid "Curio Vendor"
 msgstr ""
 
-#: ../../KLD.rst:363
+#: ../../KLD.rst:234
 msgid "Disappearing Act"
 msgstr ""
 
-#: ../../KLD.rst:360
+#: ../../KLD.rst:231
 msgid ""
-"As an additional cost to cast this spell, return a permanent you control "
-"to its owner's hand."
+"As an additional cost to cast this spell, return a permanent you control to "
+"its owner's hand."
 msgstr ""
 
-#: ../../KLD.rst:362 ../../KLD.rst:439
+#: ../../KLD.rst:233 ../../KLD.rst:283
 msgid "Counter target spell."
 msgstr "Skontruj wskazany czar."
 
-#: ../../KLD.rst:370
+#: ../../KLD.rst:238
 msgid "Dramatic Reversal"
 msgstr ""
 
-#: ../../KLD.rst:369
+#: ../../KLD.rst:237
 msgid "Untap all nonland permanents you control."
 msgstr ""
 
-#: ../../KLD.rst:379
+#: ../../KLD.rst:244
 msgid "Era of Innovation"
 msgstr ""
 
-#: ../../KLD.rst:376
+#: ../../KLD.rst:241
 msgid ""
-"Whenever an artifact or Artificer enters the battlefield under your "
-"control, you may pay |mana_1|. If you do, you get {E}{E} (two energy "
-"counters)."
+"Whenever an artifact or Artificer enters the battlefield under your control, "
+"you may pay |mana_1|. If you do, you get {E} {E} (two energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:378
-msgid "Pay {E}{E}{E}{E}{E}{E}, Sacrifice Era of Innovation: Draw three cards."
+#: ../../KLD.rst:243
+msgid ""
+"Pay {E} {E} {E} {E} {E} {E}, Sacrifice Era of Innovation: Draw three cards."
 msgstr ""
 
-#: ../../KLD.rst:388
+#: ../../KLD.rst:250
 msgid "Experimental Aviator"
 msgstr ""
 
-#: ../../KLD.rst:387
+#: ../../KLD.rst:249
 msgid ""
-"When Experimental Aviator enters the battlefield, create two 1/1 "
-"colorless Thopter artifact creature tokens with flying."
+"When Experimental Aviator enters the battlefield, create two 1/1 colorless "
+"Thopter artifact creature tokens with flying."
 msgstr ""
 
-#: ../../KLD.rst:395
+#: ../../KLD.rst:254
 msgid "Failed Inspection"
 msgstr ""
 
-#: ../../KLD.rst:394
+#: ../../KLD.rst:253
 msgid "Counter target spell. Draw a card, then discard a card."
 msgstr ""
 
-#: ../../KLD.rst:404
+#: ../../KLD.rst:260
 msgid "Gearseeker Serpent"
 msgstr ""
 
-#: ../../KLD.rst:401
+#: ../../KLD.rst:257
 msgid "This spell costs |mana_1| less to cast for each artifact you control."
 msgstr ""
 
-#: ../../KLD.rst:403
+#: ../../KLD.rst:259
 msgid "|mana_5| |mana_u|: Gearseeker Serpent can't be blocked this turn."
 msgstr ""
 
-#: ../../KLD.rst:411
+#: ../../KLD.rst:264
 msgid "Glimmer of Genius"
 msgstr ""
 
-#: ../../KLD.rst:410
-msgid "Scry 2, then draw two cards. You get {E}{E} (two energy counters)."
+#: ../../KLD.rst:263
+msgid "Scry 2, then draw two cards. You get {E} {E} (two energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:420
+#: ../../KLD.rst:270
 msgid "Glint-Nest Crane"
 msgstr ""
 
-#: ../../KLD.rst:419
+#: ../../KLD.rst:269
 msgid ""
-"When Glint-Nest Crane enters the battlefield, look at the top four cards "
-"of your library. You may reveal an artifact card from among them and put "
-"it into your hand. Put the rest on the bottom of your library in any "
-"order."
+"When Glint-Nest Crane enters the battlefield, look at the top four cards of "
+"your library. You may reveal an artifact card from among them and put it "
+"into your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
 
-#: ../../KLD.rst:431
+#: ../../KLD.rst:278
 msgid "Hightide Hermit"
 msgstr ""
 
-#: ../../KLD.rst:426 ../../KLD.rst:1687
+#: ../../KLD.rst:273 ../../KLD.rst:1081
 msgid "Defender"
 msgstr ""
 
-#: ../../KLD.rst:428
+#: ../../KLD.rst:275
 msgid ""
-"When Hightide Hermit enters the battlefield, you get {E}{E}{E}{E} (four "
+"When Hightide Hermit enters the battlefield, you get {E} {E} {E} {E} (four "
 "energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:430
+#: ../../KLD.rst:277
 msgid ""
-"Pay {E}{E}: Hightide Hermit can attack this turn as though it didn't have"
-" defender."
+"Pay {E} {E}: Hightide Hermit can attack this turn as though it didn't have "
+"defender."
 msgstr ""
 
-#: ../../KLD.rst:444
+#: ../../KLD.rst:288
 msgid "Insidious Will"
 msgstr ""
 
-#: ../../KLD.rst:437 ../../KLD.rst:1409 ../../KLD.rst:1508
+#: ../../KLD.rst:281 ../../KLD.rst:899 ../../KLD.rst:965
 msgid "Choose one —"
 msgstr "Wybierz jedno —"
 
-#: ../../KLD.rst:441
+#: ../../KLD.rst:285
 msgid "You may choose new targets for target spell."
 msgstr ""
 
-#: ../../KLD.rst:443
+#: ../../KLD.rst:287
 msgid ""
 "Copy target instant or sorcery spell. You may choose new targets for the "
 "copy."
 msgstr ""
 
-#: ../../KLD.rst:453
+#: ../../KLD.rst:294
 msgid "Janjeet Sentry"
 msgstr ""
 
-#: ../../KLD.rst:450
+#: ../../KLD.rst:291
 msgid ""
-"When Janjeet Sentry enters the battlefield, you get {E}{E} (two energy "
+"When Janjeet Sentry enters the battlefield, you get {E} {E} (two energy "
 "counters)."
 msgstr ""
 
-#: ../../KLD.rst:452
-msgid "|tap|, Pay {E}{E}: You may tap or untap target artifact or creature."
+#: ../../KLD.rst:293
+msgid "|tap|, Pay {E} {E}: You may tap or untap target artifact or creature."
 msgstr ""
 
-#: ../../KLD.rst:462
+#: ../../KLD.rst:300
 msgid "Long-Finned Skywhale"
 msgstr ""
 
-#: ../../KLD.rst:461
+#: ../../KLD.rst:299
 msgid "Long-Finned Skywhale can block only creatures with flying."
 msgstr ""
 
-#: ../../KLD.rst:473
+#: ../../KLD.rst:308
 msgid "Malfunction"
 msgstr ""
 
-#: ../../KLD.rst:468
+#: ../../KLD.rst:303
 msgid "Enchant artifact or creature"
 msgstr ""
 
-#: ../../KLD.rst:470
+#: ../../KLD.rst:305
 msgid "When Malfunction enters the battlefield, tap enchanted permanent."
 msgstr ""
 
-#: ../../KLD.rst:472
+#: ../../KLD.rst:307
 msgid "Enchanted permanent doesn't untap during its controller's untap step."
 msgstr ""
 
-#: ../../KLD.rst:482
+#: ../../KLD.rst:314
 msgid "Metallurgic Summonings"
 msgstr ""
 
-#: ../../KLD.rst:479
+#: ../../KLD.rst:311
 msgid ""
 "Whenever you cast an instant or sorcery spell, create an X/X colorless "
-"Construct artifact creature token, where X is that spell's converted mana"
-" cost."
+"Construct artifact creature token, where X is that spell's converted mana "
+"cost."
 msgstr ""
 
-#: ../../KLD.rst:481
+#: ../../KLD.rst:313
 msgid ""
-"|mana_3| |mana_u| |mana_u|, Exile Metallurgic Summonings: Return all "
-"instant and sorcery cards from your graveyard to your hand. Activate this"
-" ability only if you control six or more artifacts."
+"|mana_3| |mana_u| |mana_u|, Exile Metallurgic Summonings: Return all instant "
+"and sorcery cards from your graveyard to your hand. Activate this ability "
+"only if you control six or more artifacts."
 msgstr ""
 
-#: ../../KLD.rst:491
+#: ../../KLD.rst:320
 msgid "Minister of Inquiries"
 msgstr ""
 
-#: ../../KLD.rst:488
+#: ../../KLD.rst:317
 msgid ""
-"When Minister of Inquiries enters the battlefield, you get {E}{E} (two "
+"When Minister of Inquiries enters the battlefield, you get {E} {E} (two "
 "energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:490
+#: ../../KLD.rst:319
 msgid ""
-"|tap|, Pay {E}: Target player puts the top three cards of their library "
-"into their graveyard."
+"|tap|, Pay {E}: Target player puts the top three cards of their library into "
+"their graveyard."
 msgstr ""
 
-#: ../../KLD.rst:498
+#: ../../KLD.rst:324
 msgid "Nimble Innovator"
 msgstr ""
 
-#: ../../KLD.rst:497
+#: ../../KLD.rst:323
 msgid "When Nimble Innovator enters the battlefield, draw a card."
 msgstr ""
 
-#: ../../KLD.rst:507
+#: ../../KLD.rst:330
 msgid "Padeem, Consul of Innovation"
 msgstr ""
 
-#: ../../KLD.rst:504
+#: ../../KLD.rst:327
 msgid "Artifacts you control have hexproof."
 msgstr ""
 
-#: ../../KLD.rst:506
+#: ../../KLD.rst:329
 msgid ""
 "At the beginning of your upkeep, if you control the artifact with the "
 "highest converted mana cost or tied for the highest converted mana cost, "
 "draw a card."
 msgstr ""
 
-#: ../../KLD.rst:514
+#: ../../KLD.rst:334
 msgid "Paradoxical Outcome"
 msgstr ""
 
-#: ../../KLD.rst:513
+#: ../../KLD.rst:333
 msgid ""
 "Return any number of target nonland, nontoken permanents you control to "
-"their owners' hands. Draw a card for each card returned to your hand this"
-" way."
+"their owners' hands. Draw a card for each card returned to your hand this "
+"way."
 msgstr ""
 
-#: ../../KLD.rst:521
+#: ../../KLD.rst:338
 msgid "Revolutionary Rebuff"
 msgstr ""
 
-#: ../../KLD.rst:520
+#: ../../KLD.rst:337
 msgid "Counter target nonartifact spell unless its controller pays |mana_2|."
 msgstr ""
 
-#: ../../KLD.rst:532
+#: ../../KLD.rst:346
 msgid "Saheeli's Artistry"
 msgstr ""
 
-#: ../../KLD.rst:527 ../../KLD.rst:680 ../../KLD.rst:837
+#: ../../KLD.rst:341 ../../KLD.rst:437 ../../KLD.rst:537
 msgid "Choose one or both —"
 msgstr ""
 
-#: ../../KLD.rst:529
+#: ../../KLD.rst:343
 msgid "Create a token that's a copy of target artifact."
 msgstr ""
 
-#: ../../KLD.rst:531
+#: ../../KLD.rst:345
 msgid ""
-"Create a token that's a copy of target creature, except it's an artifact "
-"in addition to its other types."
+"Create a token that's a copy of target creature, except it's an artifact in "
+"addition to its other types."
 msgstr ""
 
-#: ../../KLD.rst:539
+#: ../../KLD.rst:350
 msgid "Select for Inspection"
 msgstr ""
 
-#: ../../KLD.rst:538
+#: ../../KLD.rst:349
 msgid ""
-"Return target tapped creature to its owner's hand. Scry 1. (Look at the "
-"top card of your library. You may put that card on the bottom of your "
-"library.)"
+"Return target tapped creature to its owner's hand. Scry 1. (Look at the top "
+"card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../KLD.rst:546
+#: ../../KLD.rst:354
 msgid "Shrewd Negotiation"
 msgstr ""
 
-#: ../../KLD.rst:545
+#: ../../KLD.rst:353
 msgid ""
 "Exchange control of target artifact you control and target artifact or "
 "creature you don't control."
 msgstr ""
 
-#: ../../KLD.rst:553
+#: ../../KLD.rst:358
 msgid "Tezzeret's Ambition"
 msgstr ""
 
-#: ../../KLD.rst:552
+#: ../../KLD.rst:357
 msgid "Draw three cards. If you control no artifacts, discard a card."
 msgstr ""
 
-#: ../../KLD.rst:562
+#: ../../KLD.rst:364
 msgid "Thriving Turtle"
 msgstr ""
 
-#: ../../KLD.rst:559
+#: ../../KLD.rst:361
 msgid ""
-"When Thriving Turtle enters the battlefield, you get {E}{E} (two energy "
+"When Thriving Turtle enters the battlefield, you get {E} {E} (two energy "
 "counters)."
 msgstr ""
 
-#: ../../KLD.rst:561
+#: ../../KLD.rst:363
 msgid ""
-"Whenever Thriving Turtle attacks, you may pay {E}{E}. If you do, put a "
-"+1/+1 counter on it."
+"Whenever Thriving Turtle attacks, you may pay {E} {E}. If you do, put a +1/"
+"+1 counter on it."
 msgstr ""
 
-#: ../../KLD.rst:571
+#: ../../KLD.rst:370
 msgid "Torrential Gearhulk"
 msgstr ""
 
-#: ../../KLD.rst:568
+#: ../../KLD.rst:367
 msgid "Flash"
 msgstr "Błysk"
 
-#: ../../KLD.rst:570
+#: ../../KLD.rst:369
 msgid ""
-"When Torrential Gearhulk enters the battlefield, you may cast target "
-"instant card from your graveyard without paying its mana cost. If that "
-"card would be put into your graveyard this turn, exile it instead."
+"When Torrential Gearhulk enters the battlefield, you may cast target instant "
+"card from your graveyard without paying its mana cost. If that card would be "
+"put into your graveyard this turn, exile it instead."
 msgstr ""
 
-#: ../../KLD.rst:578
+#: ../../KLD.rst:374
 msgid "Vedalken Blademaster"
 msgstr ""
 
-#: ../../KLD.rst:577
+#: ../../KLD.rst:373
 msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
@@ -827,2286 +827,2276 @@ msgstr ""
 "Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
 "do końca tury.)"
 
-#: ../../KLD.rst:585
+#: ../../KLD.rst:378
 msgid "Weldfast Wingsmith"
 msgstr ""
 
-#: ../../KLD.rst:584
+#: ../../KLD.rst:377
 msgid ""
 "Whenever an artifact enters the battlefield under your control, Weldfast "
 "Wingsmith gains flying until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:592
+#: ../../KLD.rst:382
 msgid "Wind Drake"
 msgstr ""
 
-#: ../../KLD.rst:601
+#: ../../KLD.rst:388
 msgid "Aetherborn Marauder"
 msgstr ""
 
-#: ../../KLD.rst:598
+#: ../../KLD.rst:385
 msgid "Flying, lifelink"
 msgstr ""
 
-#: ../../KLD.rst:600
+#: ../../KLD.rst:387
 msgid ""
-"When Aetherborn Marauder enters the battlefield, move any number of +1/+1"
-" counters from other permanents you control onto Aetherborn Marauder."
+"When Aetherborn Marauder enters the battlefield, move any number of +1/+1 "
+"counters from other permanents you control onto Aetherborn Marauder."
 msgstr ""
 
-#: ../../KLD.rst:608
+#: ../../KLD.rst:392
 msgid "Ambitious Aetherborn"
 msgstr ""
 
-#: ../../KLD.rst:621
+#: ../../KLD.rst:402
 msgid "Demon of Dark Schemes"
 msgstr ""
 
-#: ../../KLD.rst:616
+#: ../../KLD.rst:397
 msgid ""
-"When Demon of Dark Schemes enters the battlefield, all other creatures "
-"get -2/-2 until end of turn."
+"When Demon of Dark Schemes enters the battlefield, all other creatures get "
+"-2/-2 until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:618
+#: ../../KLD.rst:399
 msgid "Whenever another creature dies, you get {E} (an energy counter)."
 msgstr ""
 
-#: ../../KLD.rst:620
+#: ../../KLD.rst:401
 msgid ""
-"|mana_2| |mana_b|, Pay {E}{E}{E}{E}: Put target creature card from a "
+"|mana_2| |mana_b|, Pay {E} {E} {E} {E}: Put target creature card from a "
 "graveyard onto the battlefield under your control tapped."
 msgstr ""
 
-#: ../../KLD.rst:628
+#: ../../KLD.rst:406
 msgid "Dhund Operative"
 msgstr ""
 
-#: ../../KLD.rst:627
+#: ../../KLD.rst:405
 msgid ""
 "As long as you control an artifact, Dhund Operative gets +1/+0 and has "
 "deathtouch. (Any amount of damage it deals to a creature is enough to "
 "destroy it.)"
 msgstr ""
 
-#: ../../KLD.rst:635
+#: ../../KLD.rst:410
 msgid "Diabolic Tutor"
 msgstr ""
 
-#: ../../KLD.rst:634
+#: ../../KLD.rst:409
 msgid ""
 "Search your library for a card and put that card into your hand. Then "
 "shuffle your library."
 msgstr ""
 
-#: ../../KLD.rst:642
+#: ../../KLD.rst:414
 msgid "Die Young"
 msgstr ""
 
-#: ../../KLD.rst:641
+#: ../../KLD.rst:413
 msgid ""
-"Choose target creature. You get {E}{E} (two energy counters), then you "
-"may pay any amount of {E}. The creature gets -1/-1 until end of turn for "
-"each {E} paid this way."
+"Choose target creature. You get {E} {E} (two energy counters), then you may "
+"pay any amount of {E}. The creature gets -1/-1 until end of turn for each "
+"{E} paid this way."
 msgstr ""
 
-#: ../../KLD.rst:649
+#: ../../KLD.rst:418
 msgid "Dukhara Scavenger"
 msgstr ""
 
-#: ../../KLD.rst:648
+#: ../../KLD.rst:417
 msgid ""
-"When Dukhara Scavenger enters the battlefield, you may put target "
-"artifact or creature card from your graveyard on top of your library."
+"When Dukhara Scavenger enters the battlefield, you may put target artifact "
+"or creature card from your graveyard on top of your library."
 msgstr ""
 
-#: ../../KLD.rst:658
+#: ../../KLD.rst:424
 msgid "Eliminate the Competition"
 msgstr ""
 
-#: ../../KLD.rst:655
+#: ../../KLD.rst:421
 msgid "As an additional cost to cast this spell, sacrifice X creatures."
 msgstr ""
 
-#: ../../KLD.rst:657
+#: ../../KLD.rst:423
 msgid "Destroy X target creatures."
 msgstr ""
 
-#: ../../KLD.rst:667
+#: ../../KLD.rst:430
 msgid "Embraal Bruiser"
 msgstr ""
 
-#: ../../KLD.rst:664
+#: ../../KLD.rst:427
 msgid "Embraal Bruiser enters the battlefield tapped."
 msgstr ""
 
-#: ../../KLD.rst:666
+#: ../../KLD.rst:429
 msgid "Embraal Bruiser has menace as long as you control an artifact."
 msgstr ""
 
-#: ../../KLD.rst:674
+#: ../../KLD.rst:434
 msgid "Essence Extraction"
 msgstr ""
 
-#: ../../KLD.rst:673
-msgid "Essence Extraction deals 3 damage to target creature and you gain 3 life."
+#: ../../KLD.rst:433
+msgid ""
+"Essence Extraction deals 3 damage to target creature and you gain 3 life."
 msgstr ""
 
-#: ../../KLD.rst:685
+#: ../../KLD.rst:442
 msgid "Fortuitous Find"
 msgstr ""
 
-#: ../../KLD.rst:682
+#: ../../KLD.rst:439
 msgid "Return target artifact card from your graveyard to your hand."
 msgstr ""
 
-#: ../../KLD.rst:684
+#: ../../KLD.rst:441
 msgid "Return target creature card from your graveyard to your hand."
 msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
-#: ../../KLD.rst:694
+#: ../../KLD.rst:448
 msgid "Foundry Screecher"
 msgstr ""
 
-#: ../../KLD.rst:693
+#: ../../KLD.rst:447
 msgid "Foundry Screecher gets +1/+0 as long as you control an artifact."
 msgstr ""
 
-#: ../../KLD.rst:703
+#: ../../KLD.rst:454
 msgid "Fretwork Colony"
 msgstr ""
 
-#: ../../KLD.rst:700
+#: ../../KLD.rst:451
 msgid "Fretwork Colony can't block."
 msgstr ""
 
-#: ../../KLD.rst:702
+#: ../../KLD.rst:453
 msgid ""
-"At the beginning of your upkeep, put a +1/+1 counter on Fretwork Colony "
-"and you lose 1 life."
+"At the beginning of your upkeep, put a +1/+1 counter on Fretwork Colony and "
+"you lose 1 life."
 msgstr ""
 
-#: ../../KLD.rst:712
+#: ../../KLD.rst:460
 msgid "Gonti, Lord of Luxury"
 msgstr ""
 
-#: ../../KLD.rst:709
+#: ../../KLD.rst:457
 msgid "Deathtouch"
 msgstr "Dotyk śmierci"
 
-#: ../../KLD.rst:711
+#: ../../KLD.rst:459
 msgid ""
 "When Gonti, Lord of Luxury enters the battlefield, look at the top four "
-"cards of target opponent's library, exile one of them face down, then put"
-" the rest on the bottom of that library in a random order. You may look "
-"at and cast that card for as long as it remains exiled, and you may spend"
-" mana as though it were mana of any type to cast that spell."
+"cards of target opponent's library, exile one of them face down, then put "
+"the rest on the bottom of that library in a random order. You may look at "
+"and cast that card for as long as it remains exiled, and you may spend mana "
+"as though it were mana of any type to cast that spell."
 msgstr ""
 
-#: ../../KLD.rst:719
+#: ../../KLD.rst:464
 msgid "Harsh Scrutiny"
 msgstr ""
 
-#: ../../KLD.rst:718
+#: ../../KLD.rst:463
 msgid ""
-"Target opponent reveals their hand. You choose a creature card from it. "
-"That player discards that card. Scry 1."
+"Target opponent reveals their hand. You choose a creature card from it. That "
+"player discards that card. Scry 1."
 msgstr ""
 
-#: ../../KLD.rst:726
+#: ../../KLD.rst:468
 msgid "Lawless Broker"
 msgstr ""
 
-#: ../../KLD.rst:725
+#: ../../KLD.rst:467
 msgid ""
-"When Lawless Broker dies, put a +1/+1 counter on target creature you "
-"control."
+"When Lawless Broker dies, put a +1/+1 counter on target creature you control."
 msgstr ""
 
-#: ../../KLD.rst:733
+#: ../../KLD.rst:472
 msgid "Live Fast"
 msgstr ""
 
-#: ../../KLD.rst:732
-msgid "You draw two cards, lose 2 life, and get {E}{E} (two energy counters)."
+#: ../../KLD.rst:471
+msgid "You draw two cards, lose 2 life, and get {E} {E} (two energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:740
+#: ../../KLD.rst:476
 msgid "Lost Legacy"
 msgstr ""
 
-#: ../../KLD.rst:739
+#: ../../KLD.rst:475
 msgid ""
-"Choose a nonartifact, nonland card name. Search target player's "
-"graveyard, hand, and library for any number of cards with that name and "
-"exile them. That player shuffles their library, then draws a card for "
-"each card exiled from hand this way."
+"Choose a nonartifact, nonland card name. Search target player's graveyard, "
+"hand, and library for any number of cards with that name and exile them. "
+"That player shuffles their library, then draws a card for each card exiled "
+"from hand this way."
 msgstr ""
 
-#: ../../KLD.rst:747
+#: ../../KLD.rst:480
 msgid "Make Obsolete"
 msgstr ""
 
-#: ../../KLD.rst:746
+#: ../../KLD.rst:479
 msgid "Creatures your opponents control get -1/-1 until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:756
+#: ../../KLD.rst:486
 msgid "Marionette Master"
 msgstr ""
 
-#: ../../KLD.rst:753
+#: ../../KLD.rst:483
 msgid ""
 "Fabricate 3 (When this creature enters the battlefield, put three +1/+1 "
-"counters on it or create three 1/1 colorless Servo artifact creature "
-"tokens.)"
+"counters on it or create three 1/1 colorless Servo artifact creature tokens.)"
 msgstr ""
 
-#: ../../KLD.rst:755
+#: ../../KLD.rst:485
 msgid ""
 "Whenever an artifact you control is put into a graveyard from the "
-"battlefield, target opponent loses life equal to Marionette Master's "
-"power."
+"battlefield, target opponent loses life equal to Marionette Master's power."
 msgstr ""
 
-#: ../../KLD.rst:765
+#: ../../KLD.rst:492
 msgid "Maulfist Squad"
 msgstr ""
 
-#: ../../KLD.rst:762 ../../KLD.rst:807 ../../KLD.rst:1162 ../../KLD.rst:1626
+#: ../../KLD.rst:489 ../../KLD.rst:519 ../../KLD.rst:745 ../../KLD.rst:1041
 msgid "Menace"
 msgstr "Złowrogość"
 
-#: ../../KLD.rst:778
+#: ../../KLD.rst:502
 msgid "Midnight Oil"
 msgstr ""
 
-#: ../../KLD.rst:771
+#: ../../KLD.rst:495
 msgid "Midnight Oil enters the battlefield with seven hour counters on it."
 msgstr ""
 
-#: ../../KLD.rst:773
+#: ../../KLD.rst:497
 msgid ""
-"At the beginning of your draw step, draw an additional card and remove "
-"two hour counters from Midnight Oil."
+"At the beginning of your draw step, draw an additional card and remove two "
+"hour counters from Midnight Oil."
 msgstr ""
 
-#: ../../KLD.rst:775
+#: ../../KLD.rst:499
 msgid ""
-"Your maximum hand size is equal to the number of hour counters on "
-"Midnight Oil."
+"Your maximum hand size is equal to the number of hour counters on Midnight "
+"Oil."
 msgstr ""
 
-#: ../../KLD.rst:777
+#: ../../KLD.rst:501
 msgid "Whenever you discard a card, you lose 1 life."
 msgstr ""
 
-#: ../../KLD.rst:785
+#: ../../KLD.rst:506
 msgid "Mind Rot"
 msgstr ""
 
-#: ../../KLD.rst:784
+#: ../../KLD.rst:505
 msgid "Target player discards two cards."
 msgstr "Wskazany gracz odrzuca dwie karty."
 
-#: ../../KLD.rst:794
+#: ../../KLD.rst:512
 msgid "Morbid Curiosity"
 msgstr ""
 
-#: ../../KLD.rst:791
+#: ../../KLD.rst:509
 msgid ""
-"As an additional cost to cast this spell, sacrifice an artifact or "
-"creature."
+"As an additional cost to cast this spell, sacrifice an artifact or creature."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru poświęć artefakt lub stwora."
 
-#: ../../KLD.rst:793
-msgid "Draw cards equal to the converted mana cost of the sacrificed permanent."
+#: ../../KLD.rst:511
+msgid ""
+"Draw cards equal to the converted mana cost of the sacrificed permanent."
 msgstr ""
 
-#: ../../KLD.rst:801
+#: ../../KLD.rst:516
 msgid "Night Market Lookout"
 msgstr ""
 
-#: ../../KLD.rst:800
+#: ../../KLD.rst:515
 msgid ""
-"Whenever Night Market Lookout becomes tapped, each opponent loses 1 life "
-"and you gain 1 life."
+"Whenever Night Market Lookout becomes tapped, each opponent loses 1 life and "
+"you gain 1 life."
 msgstr ""
 
-#: ../../KLD.rst:810
+#: ../../KLD.rst:522
 msgid "Noxious Gearhulk"
 msgstr ""
 
-#: ../../KLD.rst:809
+#: ../../KLD.rst:521
 msgid ""
-"When Noxious Gearhulk enters the battlefield, you may destroy another "
-"target creature. If a creature is destroyed this way, you gain life equal"
-" to its toughness."
+"When Noxious Gearhulk enters the battlefield, you may destroy another target "
+"creature. If a creature is destroyed this way, you gain life equal to its "
+"toughness."
 msgstr ""
 
-#: ../../KLD.rst:817
+#: ../../KLD.rst:526
 msgid "Ovalchase Daredevil"
 msgstr ""
 
-#: ../../KLD.rst:816
+#: ../../KLD.rst:525
 msgid ""
 "Whenever an artifact enters the battlefield under your control, you may "
 "return Ovalchase Daredevil from your graveyard to your hand."
 msgstr ""
 
-#: ../../KLD.rst:822
+#: ../../KLD.rst:528
 msgid "Prakhata Club Security"
 msgstr ""
 
-#: ../../KLD.rst:831
+#: ../../KLD.rst:534
 msgid "Rush of Vitality"
 msgstr ""
 
-#: ../../KLD.rst:830
+#: ../../KLD.rst:533
 msgid ""
-"Target creature gets +1/+0 and gains lifelink and indestructible until "
-"end of turn. (Damage dealt by that creature also causes its controller to"
-" gain that much life, and it can't be destroyed by damage or effects that"
-" say \"destroy.\")"
+"Target creature gets +1/+0 and gains lifelink and indestructible until end "
+"of turn. (Damage dealt by that creature also causes its controller to gain "
+"that much life, and it can't be destroyed by damage or effects that say "
+"\"destroy.\")"
 msgstr ""
 
-#: ../../KLD.rst:842
+#: ../../KLD.rst:542
 msgid "Subtle Strike"
 msgstr ""
 
-#: ../../KLD.rst:839
+#: ../../KLD.rst:539
 msgid "Target creature gets -1/-1 until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:841
+#: ../../KLD.rst:541
 msgid "Put a +1/+1 counter on target creature."
 msgstr ""
 
-#: ../../KLD.rst:849
+#: ../../KLD.rst:546
 msgid "Syndicate Trafficker"
 msgstr ""
 
-#: ../../KLD.rst:848
+#: ../../KLD.rst:545
 msgid ""
 "|mana_1|, Sacrifice an artifact: Put a +1/+1 counter on Syndicate "
 "Trafficker. It gains indestructible until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:858
+#: ../../KLD.rst:552
 msgid "Thriving Rats"
 msgstr ""
 
-#: ../../KLD.rst:855
+#: ../../KLD.rst:549
 msgid ""
-"When Thriving Rats enters the battlefield, you get {E}{E} (two energy "
+"When Thriving Rats enters the battlefield, you get {E} {E} (two energy "
 "counters)."
 msgstr ""
 
-#: ../../KLD.rst:857
+#: ../../KLD.rst:551
 msgid ""
-"Whenever Thriving Rats attacks, you may pay {E}{E}. If you do, put a "
-"+1/+1 counter on it."
+"Whenever Thriving Rats attacks, you may pay {E} {E}. If you do, put a +1/+1 "
+"counter on it."
 msgstr ""
 
-#: ../../KLD.rst:865
+#: ../../KLD.rst:556
 msgid "Tidy Conclusion"
 msgstr ""
 
-#: ../../KLD.rst:864
+#: ../../KLD.rst:555
 msgid "Destroy target creature. You gain 1 life for each artifact you control."
 msgstr ""
 
-#: ../../KLD.rst:874
+#: ../../KLD.rst:562
 msgid "Underhanded Designs"
 msgstr ""
 
-#: ../../KLD.rst:871
+#: ../../KLD.rst:559
 msgid ""
-"Whenever an artifact enters the battlefield under your control, you may "
-"pay |mana_1|. If you do, each opponent loses 1 life and you gain 1 life."
+"Whenever an artifact enters the battlefield under your control, you may pay |"
+"mana_1|. If you do, each opponent loses 1 life and you gain 1 life."
 msgstr ""
 
-#: ../../KLD.rst:873
+#: ../../KLD.rst:561
 msgid ""
-"|mana_1| |mana_b|, Sacrifice Underhanded Designs: Destroy target "
-"creature. Activate this ability only if you control two or more "
-"artifacts."
+"|mana_1| |mana_b|, Sacrifice Underhanded Designs: Destroy target creature. "
+"Activate this ability only if you control two or more artifacts."
 msgstr ""
 
-#: ../../KLD.rst:881
+#: ../../KLD.rst:566
 msgid "Weaponcraft Enthusiast"
 msgstr ""
 
-#: ../../KLD.rst:892
+#: ../../KLD.rst:574
 msgid "Aethertorch Renegade"
 msgstr ""
 
-#: ../../KLD.rst:887
+#: ../../KLD.rst:569
 msgid ""
-"When Aethertorch Renegade enters the battlefield, you get {E}{E}{E}{E} "
+"When Aethertorch Renegade enters the battlefield, you get {E} {E} {E} {E} "
 "(four energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:889
-msgid "|tap|, Pay {E}{E}: Aethertorch Renegade deals 1 damage to target creature."
-msgstr ""
-
-#: ../../KLD.rst:891
+#: ../../KLD.rst:571
 msgid ""
-"|tap|, Pay {E}{E}{E}{E}{E}{E}{E}{E}: Aethertorch Renegade deals 6 damage "
-"to target player or planeswalker."
+"|tap|, Pay {E} {E}: Aethertorch Renegade deals 1 damage to target creature."
 msgstr ""
 
-#: ../../KLD.rst:899
+#: ../../KLD.rst:573
+msgid ""
+"|tap|, Pay {E} {E} {E} {E} {E} {E} {E} {E}: Aethertorch Renegade deals 6 "
+"damage to target player or planeswalker."
+msgstr ""
+
+#: ../../KLD.rst:578
 msgid "Brazen Scourge"
 msgstr ""
 
-#: ../../KLD.rst:898 ../../KLD.rst:1010 ../../KLD.rst:1105 ../../KLD.rst:1660
-#: ../../KLD.rst:1840
+#: ../../KLD.rst:577 ../../KLD.rst:647 ../../KLD.rst:709 ../../KLD.rst:1063
+#: ../../KLD.rst:1183
 msgid "Haste"
 msgstr "Pośpiech"
 
-#: ../../KLD.rst:906
+#: ../../KLD.rst:582
 msgid "Built to Smash"
 msgstr ""
 
-#: ../../KLD.rst:905
+#: ../../KLD.rst:581
 msgid ""
-"Target attacking creature gets +3/+3 until end of turn. If it's an "
-"artifact creature, it gains trample until end of turn."
+"Target attacking creature gets +3/+3 until end of turn. If it's an artifact "
+"creature, it gains trample until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:915
+#: ../../KLD.rst:588
 msgid "Cathartic Reunion"
 msgstr ""
 
-#: ../../KLD.rst:912
+#: ../../KLD.rst:585
 msgid "As an additional cost to cast this spell, discard two cards."
 msgstr ""
 
-#: ../../KLD.rst:914
+#: ../../KLD.rst:587
 msgid "Draw three cards."
 msgstr "Dobierz trzy karty."
 
-#: ../../KLD.rst:928
+#: ../../KLD.rst:598
 msgid "Chandra, Torch of Defiance"
 msgstr ""
 
-#: ../../KLD.rst:921
+#: ../../KLD.rst:591
 msgid ""
 "+1: Exile the top card of your library. You may cast that card. If you "
 "don't, Chandra, Torch of Defiance deals 2 damage to each opponent."
 msgstr ""
 
-#: ../../KLD.rst:923
+#: ../../KLD.rst:593
 msgid "+1: Add |mana_r| |mana_r|."
 msgstr ""
 
-#: ../../KLD.rst:925
+#: ../../KLD.rst:595
 msgid "−3: Chandra, Torch of Defiance deals 4 damage to target creature."
 msgstr ""
 
-#: ../../KLD.rst:927
+#: ../../KLD.rst:597
 msgid ""
-"−7: You get an emblem with \"Whenever you cast a spell, this emblem deals"
-" 5 damage to any target.\""
+"−7: You get an emblem with \"Whenever you cast a spell, this emblem deals 5 "
+"damage to any target.\""
 msgstr ""
 
-#: ../../KLD.rst:935
+#: ../../KLD.rst:602
 msgid "Chandra's Pyrohelix"
 msgstr ""
 
-#: ../../KLD.rst:934
+#: ../../KLD.rst:601
 msgid ""
-"Chandra's Pyrohelix deals 2 damage divided as you choose among one or two"
-" targets."
+"Chandra's Pyrohelix deals 2 damage divided as you choose among one or two "
+"targets."
 msgstr ""
 
-#: ../../KLD.rst:944
+#: ../../KLD.rst:608
 msgid "Combustible Gearhulk"
 msgstr ""
 
-#: ../../KLD.rst:943
+#: ../../KLD.rst:607
 msgid ""
-"When Combustible Gearhulk enters the battlefield, target opponent may "
-"have you draw three cards. If the player doesn't, put the top three cards"
-" of your library into your graveyard, then Combustible Gearhulk deals "
-"damage to that player equal to the total converted mana cost of those "
-"cards."
+"When Combustible Gearhulk enters the battlefield, target opponent may have "
+"you draw three cards. If the player doesn't, put the top three cards of your "
+"library into your graveyard, then Combustible Gearhulk deals damage to that "
+"player equal to the total converted mana cost of those cards."
 msgstr ""
 
-#: ../../KLD.rst:951
+#: ../../KLD.rst:612
 msgid "Demolish"
 msgstr "Demolish (Wyburzenie)"
 
-#: ../../KLD.rst:950
+#: ../../KLD.rst:611
 msgid "Destroy target artifact or land."
 msgstr "Zniszcz wskazany artefakt lub ląd."
 
-#: ../../KLD.rst:958
+#: ../../KLD.rst:616
 msgid "Fateful Showdown"
 msgstr ""
 
-#: ../../KLD.rst:957
+#: ../../KLD.rst:615
 msgid ""
-"Fateful Showdown deals damage to any target equal to the number of cards "
-"in your hand. Discard all the cards in your hand, then draw that many "
-"cards."
+"Fateful Showdown deals damage to any target equal to the number of cards in "
+"your hand. Discard all the cards in your hand, then draw that many cards."
 msgstr ""
 
-#: ../../KLD.rst:965
+#: ../../KLD.rst:620
 msgid "Furious Reprisal"
 msgstr ""
 
-#: ../../KLD.rst:964
+#: ../../KLD.rst:619
 msgid "Furious Reprisal deals 2 damage to each of two targets."
 msgstr ""
 
-#: ../../KLD.rst:974
+#: ../../KLD.rst:626
 msgid "Giant Spectacle"
 msgstr ""
 
-#: ../../KLD.rst:973
+#: ../../KLD.rst:625
 msgid "Enchanted creature gets +2/+1 and has menace."
 msgstr ""
 
-#: ../../KLD.rst:981
+#: ../../KLD.rst:630
 msgid "Harnessed Lightning"
 msgstr ""
 
-#: ../../KLD.rst:980
+#: ../../KLD.rst:629
 msgid ""
-"Choose target creature. You get {E}{E}{E} (three energy counters), then "
-"you may pay any amount of {E}. Harnessed Lightning deals that much damage"
-" to that creature."
+"Choose target creature. You get {E} {E} {E} (three energy counters), then "
+"you may pay any amount of {E}. Harnessed Lightning deals that much damage to "
+"that creature."
 msgstr ""
 
-#: ../../KLD.rst:988
+#: ../../KLD.rst:634
 #, fuzzy
 msgid "Hijack"
 msgstr "Hijack"
 
-#: ../../KLD.rst:987
+#: ../../KLD.rst:633
 msgid ""
-"Gain control of target artifact or creature until end of turn. Untap it. "
-"It gains haste until end of turn."
+"Gain control of target artifact or creature until end of turn. Untap it. It "
+"gains haste until end of turn."
 msgstr ""
 "Zyskujesz władaniem nad wskazanym artefaktem lub stworem do końca tury. "
 "Odtapuj go. Zyskuje on pośpiech do końca tury."
 
-#: ../../KLD.rst:997
+#: ../../KLD.rst:640
 msgid "Incendiary Sabotage"
 msgstr ""
 
-#: ../../KLD.rst:994
+#: ../../KLD.rst:637
 msgid "As an additional cost to cast this spell, sacrifice an artifact."
 msgstr ""
 
-#: ../../KLD.rst:996
+#: ../../KLD.rst:639
 msgid "Incendiary Sabotage deals 3 damage to each creature."
 msgstr ""
 
-#: ../../KLD.rst:1004
+#: ../../KLD.rst:644
 msgid "Inventor's Apprentice"
 msgstr ""
 
-#: ../../KLD.rst:1003
+#: ../../KLD.rst:643
 msgid "Inventor's Apprentice gets +1/+1 as long as you control an artifact."
 msgstr ""
 
-#: ../../KLD.rst:1015
+#: ../../KLD.rst:652
 msgid "Lathnu Hellion"
 msgstr ""
 
-#: ../../KLD.rst:1012
+#: ../../KLD.rst:649
 msgid ""
-"When Lathnu Hellion enters the battlefield, you get {E}{E} (two energy "
+"When Lathnu Hellion enters the battlefield, you get {E} {E} (two energy "
 "counters)."
 msgstr ""
 
-#: ../../KLD.rst:1014
+#: ../../KLD.rst:651
 msgid ""
-"At the beginning of your end step, sacrifice Lathnu Hellion unless you "
-"pay {E}{E}."
+"At the beginning of your end step, sacrifice Lathnu Hellion unless you pay "
+"{E} {E}."
 msgstr ""
 
-#: ../../KLD.rst:1022
+#: ../../KLD.rst:656
 msgid "Madcap Experiment"
 msgstr ""
 
-#: ../../KLD.rst:1021
+#: ../../KLD.rst:655
 msgid ""
-"Reveal cards from the top of your library until you reveal an artifact "
-"card. Put that card onto the battlefield and the rest on the bottom of "
-"your library in a random order. Madcap Experiment deals damage to you "
-"equal to the number of cards revealed this way."
+"Reveal cards from the top of your library until you reveal an artifact card. "
+"Put that card onto the battlefield and the rest on the bottom of your "
+"library in a random order. Madcap Experiment deals damage to you equal to "
+"the number of cards revealed this way."
 msgstr ""
 
-#: ../../KLD.rst:1031
+#: ../../KLD.rst:662
 msgid "Maulfist Doorbuster"
 msgstr ""
 
-#: ../../KLD.rst:1028
+#: ../../KLD.rst:659
 msgid ""
-"When Maulfist Doorbuster enters the battlefield, you get {E}{E} (two "
-"energy counters)."
+"When Maulfist Doorbuster enters the battlefield, you get {E} {E} (two energy "
+"counters)."
 msgstr ""
 
-#: ../../KLD.rst:1030
+#: ../../KLD.rst:661
 msgid ""
 "Whenever Maulfist Doorbuster attacks, you may pay {E}. If you do, target "
 "creature can't block this turn."
 msgstr ""
 
-#: ../../KLD.rst:1042
+#: ../../KLD.rst:670
 msgid "Pia Nalaar"
 msgstr ""
 
-#: ../../KLD.rst:1037
+#: ../../KLD.rst:665
 msgid ""
 "When Pia Nalaar enters the battlefield, create a 1/1 colorless Thopter "
 "artifact creature token with flying."
 msgstr ""
 
-#: ../../KLD.rst:1039
-msgid "|mana_1| |mana_r|: Target artifact creature gets +1/+0 until end of turn."
+#: ../../KLD.rst:667
+msgid ""
+"|mana_1| |mana_r|: Target artifact creature gets +1/+0 until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1041
+#: ../../KLD.rst:669
 msgid "|mana_1|, Sacrifice an artifact: Target creature can't block this turn."
 msgstr ""
 
-#: ../../KLD.rst:1049
+#: ../../KLD.rst:674
 msgid "Quicksmith Genius"
 msgstr ""
 
-#: ../../KLD.rst:1048
+#: ../../KLD.rst:673
 msgid ""
 "Whenever an artifact enters the battlefield under your control, you may "
 "discard a card. If you do, draw a card."
 msgstr ""
 
-#: ../../KLD.rst:1056
+#: ../../KLD.rst:678
 msgid "Reckless Fireweaver"
 msgstr ""
 
-#: ../../KLD.rst:1055
+#: ../../KLD.rst:677
 msgid ""
 "Whenever an artifact enters the battlefield under your control, Reckless "
 "Fireweaver deals 1 damage to each opponent."
 msgstr ""
 
-#: ../../KLD.rst:1065
+#: ../../KLD.rst:684
 msgid "Renegade Tactics"
 msgstr ""
 
-#: ../../KLD.rst:1062
+#: ../../KLD.rst:681
 msgid "Target creature can't block this turn."
 msgstr ""
 
-#: ../../KLD.rst:1072
+#: ../../KLD.rst:688
 msgid "Ruinous Gremlin"
 msgstr ""
 
-#: ../../KLD.rst:1071
+#: ../../KLD.rst:687
 msgid "|mana_2| |mana_r|, Sacrifice Ruinous Gremlin: Destroy target artifact."
 msgstr ""
 
-#: ../../KLD.rst:1079
+#: ../../KLD.rst:692
 msgid "Salivating Gremlins"
 msgstr ""
 
-#: ../../KLD.rst:1078
+#: ../../KLD.rst:691
 msgid ""
-"Whenever an artifact enters the battlefield under your control, "
-"Salivating Gremlins gets +2/+0 and gains trample until end of turn."
+"Whenever an artifact enters the battlefield under your control, Salivating "
+"Gremlins gets +2/+0 and gains trample until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1092
+#: ../../KLD.rst:702
 msgid "Skyship Stalker"
 msgstr ""
 
-#: ../../KLD.rst:1087
+#: ../../KLD.rst:697
 msgid "|mana_r|: Skyship Stalker gets +1/+0 until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1089
+#: ../../KLD.rst:699
 msgid "|mana_r|: Skyship Stalker gains first strike until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1091
+#: ../../KLD.rst:701
 msgid "|mana_r|: Skyship Stalker gains haste until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1099
+#: ../../KLD.rst:706
 msgid "Spark of Creativity"
 msgstr ""
 
-#: ../../KLD.rst:1098
+#: ../../KLD.rst:705
 msgid ""
 "Choose target creature. Exile the top card of your library. You may have "
-"Spark of Creativity deal damage to that creature equal to the exiled "
-"card's converted mana cost. If you don't, you may play that card until "
-"end of turn."
+"Spark of Creativity deal damage to that creature equal to the exiled card's "
+"converted mana cost. If you don't, you may play that card until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1108
+#: ../../KLD.rst:712
 msgid "Speedway Fanatic"
 msgstr ""
 
-#: ../../KLD.rst:1107
+#: ../../KLD.rst:711
 msgid ""
-"Whenever Speedway Fanatic crews a Vehicle, that Vehicle gains haste until"
-" end of turn."
+"Whenever Speedway Fanatic crews a Vehicle, that Vehicle gains haste until "
+"end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1115
+#: ../../KLD.rst:716
 msgid "Spireside Infiltrator"
 msgstr ""
 
-#: ../../KLD.rst:1114
+#: ../../KLD.rst:715
 msgid ""
 "Whenever Spireside Infiltrator becomes tapped, it deals 1 damage to each "
 "opponent."
 msgstr ""
 
-#: ../../KLD.rst:1124
+#: ../../KLD.rst:722
 msgid "Spontaneous Artist"
 msgstr ""
 
-#: ../../KLD.rst:1121
+#: ../../KLD.rst:719
 msgid ""
 "When Spontaneous Artist enters the battlefield, you get {E} (an energy "
 "counter)."
 msgstr ""
 
-#: ../../KLD.rst:1123
+#: ../../KLD.rst:721
 msgid "Pay {E}: Target creature gains haste until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1131
+#: ../../KLD.rst:726
 msgid "Start Your Engines"
 msgstr ""
 
-#: ../../KLD.rst:1130
+#: ../../KLD.rst:725
 msgid ""
-"Vehicles you control become artifact creatures until end of turn. "
-"Creatures you control get +2/+0 until end of turn."
+"Vehicles you control become artifact creatures until end of turn. Creatures "
+"you control get +2/+0 until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1140
+#: ../../KLD.rst:732
 msgid "Territorial Gorger"
 msgstr ""
 
-#: ../../KLD.rst:1137 ../../KLD.rst:1183 ../../KLD.rst:1373 ../../KLD.rst:1382
-#: ../../KLD.rst:1429
+#: ../../KLD.rst:729 ../../KLD.rst:757 ../../KLD.rst:875 ../../KLD.rst:881
+#: ../../KLD.rst:913
 msgid "Trample"
 msgstr "Tratowanie"
 
-#: ../../KLD.rst:1139
+#: ../../KLD.rst:731
 msgid ""
-"Whenever you get one or more {E} (energy counters), Territorial Gorger "
-"gets +2/+2 until end of turn."
+"Whenever you get one or more {E} (energy counters), Territorial Gorger gets "
+"+2/+2 until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1145
+#: ../../KLD.rst:734
 msgid "Terror of the Fairgrounds"
 msgstr ""
 
-#: ../../KLD.rst:1156
+#: ../../KLD.rst:742
 msgid "Thriving Grubs"
 msgstr ""
 
-#: ../../KLD.rst:1153
+#: ../../KLD.rst:739
 msgid ""
-"When Thriving Grubs enters the battlefield, you get {E}{E} (two energy "
+"When Thriving Grubs enters the battlefield, you get {E} {E} (two energy "
 "counters)."
 msgstr ""
 
-#: ../../KLD.rst:1155
+#: ../../KLD.rst:741
 msgid ""
-"Whenever Thriving Grubs attacks, you may pay {E}{E}. If you do, put a "
-"+1/+1 counter on it."
+"Whenever Thriving Grubs attacks, you may pay {E} {E}. If you do, put a +1/+1 "
+"counter on it."
 msgstr ""
 
-#: ../../KLD.rst:1163
+#: ../../KLD.rst:746
 msgid "Wayward Giant"
 msgstr ""
 
-#: ../../KLD.rst:1170
+#: ../../KLD.rst:750
 msgid "Welding Sparks"
 msgstr ""
 
-#: ../../KLD.rst:1169
+#: ../../KLD.rst:749
 msgid ""
 "Welding Sparks deals X damage to target creature, where X is 3 plus the "
 "number of artifacts you control."
 msgstr ""
 
-#: ../../KLD.rst:1177
+#: ../../KLD.rst:754
 msgid "Appetite for the Unnatural"
 msgstr ""
 
-#: ../../KLD.rst:1176
+#: ../../KLD.rst:753
 msgid "Destroy target artifact or enchantment. You gain 2 life."
 msgstr ""
 
-#: ../../KLD.rst:1186
+#: ../../KLD.rst:760
 msgid "Arborback Stomper"
 msgstr ""
 
-#: ../../KLD.rst:1185
+#: ../../KLD.rst:759
 msgid "When Arborback Stomper enters the battlefield, you gain 5 life."
 msgstr ""
 
-#: ../../KLD.rst:1195
+#: ../../KLD.rst:766
 msgid "Architect of the Untamed"
 msgstr ""
 
-#: ../../KLD.rst:1192
+#: ../../KLD.rst:763
 msgid ""
-"Whenever a land enters the battlefield under your control, you get {E} "
-"(an energy counter)."
+"Whenever a land enters the battlefield under your control, you get {E} (an "
+"energy counter)."
 msgstr ""
 
-#: ../../KLD.rst:1194
+#: ../../KLD.rst:765
 msgid ""
-"Pay {E}{E}{E}{E}{E}{E}{E}{E}: Create a 6/6 colorless Beast artifact "
+"Pay {E} {E} {E} {E} {E} {E} {E} {E}: Create a 6/6 colorless Beast artifact "
 "creature token."
 msgstr ""
 
-#: ../../KLD.rst:1202
+#: ../../KLD.rst:770
 msgid "Armorcraft Judge"
 msgstr ""
 
-#: ../../KLD.rst:1201
+#: ../../KLD.rst:769
 msgid ""
-"When Armorcraft Judge enters the battlefield, draw a card for each "
-"creature you control with a +1/+1 counter on it."
+"When Armorcraft Judge enters the battlefield, draw a card for each creature "
+"you control with a +1/+1 counter on it."
 msgstr ""
 
-#: ../../KLD.rst:1209
+#: ../../KLD.rst:774
 msgid "Attune with Aether"
 msgstr ""
 
-#: ../../KLD.rst:1208
+#: ../../KLD.rst:773
 msgid ""
-"Search your library for a basic land card, reveal it, put it into your "
-"hand, then shuffle your library. You get {E}{E} (two energy counters)."
+"Search your library for a basic land card, reveal it, put it into your hand, "
+"then shuffle your library. You get {E} {E} (two energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:1216
+#: ../../KLD.rst:778
 msgid "Blossoming Defense"
 msgstr ""
 
-#: ../../KLD.rst:1215
+#: ../../KLD.rst:777
 msgid ""
-"Target creature you control gets +2/+2 and gains hexproof until end of "
-"turn."
+"Target creature you control gets +2/+2 and gains hexproof until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1225
+#: ../../KLD.rst:784
 msgid "Bristling Hydra"
 msgstr ""
 
-#: ../../KLD.rst:1222
+#: ../../KLD.rst:781
 msgid ""
-"When Bristling Hydra enters the battlefield, you get {E}{E}{E} (three "
+"When Bristling Hydra enters the battlefield, you get {E} {E} {E} (three "
 "energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:1224
+#: ../../KLD.rst:783
 msgid ""
-"Pay {E}{E}{E}: Put a +1/+1 counter on Bristling Hydra. It gains hexproof "
+"Pay {E} {E} {E}: Put a +1/+1 counter on Bristling Hydra. It gains hexproof "
 "until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1232
+#: ../../KLD.rst:788
 msgid "Commencement of Festivities"
 msgstr ""
 
-#: ../../KLD.rst:1231
+#: ../../KLD.rst:787
 msgid "Prevent all combat damage that would be dealt to players this turn."
 msgstr ""
 "Zażegnaj wszystkie obrażenia bitewne, które mogłyby zostać zadane graczom w "
 "tej turze."
 
-#: ../../KLD.rst:1237
+#: ../../KLD.rst:790
 msgid "Cowl Prowler"
 msgstr ""
 
-#: ../../KLD.rst:1246
+#: ../../KLD.rst:796
 msgid "Creeping Mold"
 msgstr ""
 
-#: ../../KLD.rst:1245
+#: ../../KLD.rst:795
 msgid "Destroy target artifact, enchantment, or land."
 msgstr ""
 
-#: ../../KLD.rst:1255
+#: ../../KLD.rst:802
 msgid "Cultivator of Blades"
 msgstr ""
 
-#: ../../KLD.rst:1254
+#: ../../KLD.rst:801
 msgid ""
 "Whenever Cultivator of Blades attacks, you may have other attacking "
 "creatures get +X/+X until end of turn, where X is Cultivator of Blades's "
 "power."
 msgstr ""
 
-#: ../../KLD.rst:1262
+#: ../../KLD.rst:806
 msgid "Dubious Challenge"
 msgstr ""
 
-#: ../../KLD.rst:1261
+#: ../../KLD.rst:805
 msgid ""
-"Look at the top ten cards of your library, exile up to two creature cards"
-" from among them, then shuffle your library. Target opponent may choose "
-"one of the exiled cards and put it onto the battlefield under their "
-"control. Put the rest onto the battlefield under your control."
+"Look at the top ten cards of your library, exile up to two creature cards "
+"from among them, then shuffle your library. Target opponent may choose one "
+"of the exiled cards and put it onto the battlefield under their control. Put "
+"the rest onto the battlefield under your control."
 msgstr ""
 
-#: ../../KLD.rst:1271
+#: ../../KLD.rst:812
 msgid "Durable Handicraft"
 msgstr ""
 
-#: ../../KLD.rst:1268
+#: ../../KLD.rst:809
 msgid ""
-"Whenever a creature enters the battlefield under your control, you may "
-"pay |mana_1|. If you do, put a +1/+1 counter on that creature."
+"Whenever a creature enters the battlefield under your control, you may pay |"
+"mana_1|. If you do, put a +1/+1 counter on that creature."
 msgstr ""
 
-#: ../../KLD.rst:1270
+#: ../../KLD.rst:811
 msgid ""
-"|mana_5| |mana_g|, Sacrifice Durable Handicraft: Put a +1/+1 counter on "
-"each creature you control."
+"|mana_5| |mana_g|, Sacrifice Durable Handicraft: Put a +1/+1 counter on each "
+"creature you control."
 msgstr ""
 
-#: ../../KLD.rst:1280
+#: ../../KLD.rst:818
 msgid "Elegant Edgecrafters"
 msgstr ""
 
-#: ../../KLD.rst:1277
-msgid "Elegant Edgecrafters can't be blocked by creatures with power 2 or less."
+#: ../../KLD.rst:815
+msgid ""
+"Elegant Edgecrafters can't be blocked by creatures with power 2 or less."
 msgstr ""
 
-#: ../../KLD.rst:1287
+#: ../../KLD.rst:822
 msgid "Fairgrounds Trumpeter"
 msgstr ""
 
-#: ../../KLD.rst:1286
+#: ../../KLD.rst:821
 msgid ""
-"At the beginning of each end step, if a +1/+1 counter was put on a "
-"permanent under your control this turn, put a +1/+1 counter on "
-"Fairgrounds Trumpeter."
+"At the beginning of each end step, if a +1/+1 counter was put on a permanent "
+"under your control this turn, put a +1/+1 counter on Fairgrounds Trumpeter."
 msgstr ""
 
-#: ../../KLD.rst:1294
+#: ../../KLD.rst:826
 msgid "Ghirapur Guide"
 msgstr ""
 
-#: ../../KLD.rst:1293
+#: ../../KLD.rst:825
 msgid ""
-"|mana_2| |mana_g|: Target creature you control can't be blocked by "
-"creatures with power 2 or less this turn."
+"|mana_2| |mana_g|: Target creature you control can't be blocked by creatures "
+"with power 2 or less this turn."
 msgstr ""
 
-#: ../../KLD.rst:1303
+#: ../../KLD.rst:832
 msgid "Highspire Artisan"
 msgstr ""
 
-#: ../../KLD.rst:1300 ../../KLD.rst:1689 ../../KLD.rst:2270
+#: ../../KLD.rst:829 ../../KLD.rst:1083 ../../KLD.rst:1457
 msgid "Reach (This creature can block creatures with flying.)"
 msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
-#: ../../KLD.rst:1310
+#: ../../KLD.rst:836
 #, fuzzy
 msgid "Hunt the Weak"
 msgstr "Hunt the Weak"
 
-#: ../../KLD.rst:1309
+#: ../../KLD.rst:835
 msgid ""
 "Put a +1/+1 counter on target creature you control. Then that creature "
-"fights target creature you don't control. (Each deals damage equal to its"
-" power to the other.)"
+"fights target creature you don't control. (Each deals damage equal to its "
+"power to the other.)"
 msgstr ""
 "Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
 "stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
 "nawzajem obrażenia równe ich sile.)"
 
-#: ../../KLD.rst:1317
+#: ../../KLD.rst:840
 msgid "Kujar Seedsculptor"
 msgstr ""
 
-#: ../../KLD.rst:1316
+#: ../../KLD.rst:839
 msgid ""
 "When Kujar Seedsculptor enters the battlefield, put a +1/+1 counter on "
 "target creature you control."
 msgstr ""
 
-#: ../../KLD.rst:1324
+#: ../../KLD.rst:844
 msgid "Larger Than Life"
 msgstr ""
 
-#: ../../KLD.rst:1323
+#: ../../KLD.rst:843
 msgid "Target creature gets +4/+4 and gains trample until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1333
+#: ../../KLD.rst:850
 msgid "Longtusk Cub"
 msgstr ""
 
-#: ../../KLD.rst:1330
+#: ../../KLD.rst:847
 msgid ""
-"Whenever Longtusk Cub deals combat damage to a player, you get {E}{E} "
-"(two energy counters)."
+"Whenever Longtusk Cub deals combat damage to a player, you get {E} {E} (two "
+"energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:1332
-msgid "Pay {E}{E}: Put a +1/+1 counter on Longtusk Cub."
+#: ../../KLD.rst:849
+msgid "Pay {E} {E}: Put a +1/+1 counter on Longtusk Cub."
 msgstr ""
 
-#: ../../KLD.rst:1340
+#: ../../KLD.rst:854
 msgid "Nature's Way"
 msgstr ""
 
-#: ../../KLD.rst:1339
+#: ../../KLD.rst:853
 msgid ""
-"Target creature you control gains vigilance and trample until end of "
-"turn. It deals damage equal to its power to target creature you don't "
-"control."
+"Target creature you control gains vigilance and trample until end of turn. "
+"It deals damage equal to its power to target creature you don't control."
 msgstr ""
 
-#: ../../KLD.rst:1351
+#: ../../KLD.rst:862
 msgid "Nissa, Vital Force"
 msgstr ""
 
-#: ../../KLD.rst:1346
+#: ../../KLD.rst:857
 msgid ""
-"+1: Untap target land you control. Until your next turn, it becomes a 5/5"
-" Elemental creature with haste. It's still a land."
+"+1: Untap target land you control. Until your next turn, it becomes a 5/5 "
+"Elemental creature with haste. It's still a land."
 msgstr ""
 
-#: ../../KLD.rst:1348
+#: ../../KLD.rst:859
 msgid "−3: Return target permanent card from your graveyard to your hand."
 msgstr ""
 
-#: ../../KLD.rst:1350
+#: ../../KLD.rst:861
 msgid ""
-"−6: You get an emblem with \"Whenever a land enters the battlefield under"
-" your control, you may draw a card.\""
+"−6: You get an emblem with \"Whenever a land enters the battlefield under "
+"your control, you may draw a card.\""
 msgstr ""
 
-#: ../../KLD.rst:1358
+#: ../../KLD.rst:866
 msgid "Ornamental Courage"
 msgstr ""
 
-#: ../../KLD.rst:1357
+#: ../../KLD.rst:865
 msgid "Untap target creature. It gets +1/+3 until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1367
+#: ../../KLD.rst:872
 msgid "Oviya Pashiri, Sage Lifecrafter"
 msgstr ""
 
-#: ../../KLD.rst:1364
+#: ../../KLD.rst:869
 msgid ""
 "|mana_2| |mana_g|, |tap|: Create a 1/1 colorless Servo artifact creature "
 "token."
 msgstr ""
 
-#: ../../KLD.rst:1366
+#: ../../KLD.rst:871
 msgid ""
 "|mana_4| |mana_g|, |tap|: Create an X/X colorless Construct artifact "
 "creature token, where X is the number of creatures you control."
 msgstr ""
 
-#: ../../KLD.rst:1376
+#: ../../KLD.rst:878
 msgid "Peema Outrider"
 msgstr ""
 
-#: ../../KLD.rst:1387
+#: ../../KLD.rst:886
 msgid "Riparian Tiger"
 msgstr ""
 
-#: ../../KLD.rst:1384
+#: ../../KLD.rst:883
 msgid ""
-"When Riparian Tiger enters the battlefield, you get {E}{E} (two energy "
+"When Riparian Tiger enters the battlefield, you get {E} {E} (two energy "
 "counters)."
 msgstr ""
 
-#: ../../KLD.rst:1386
+#: ../../KLD.rst:885
 msgid ""
-"Whenever Riparian Tiger attacks, you may pay {E}{E}. If you do, it gets "
-"+2/+2 until end of turn."
+"Whenever Riparian Tiger attacks, you may pay {E} {E}. If you do, it gets +2/"
+"+2 until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1394
+#: ../../KLD.rst:890
 msgid "Sage of Shaila's Claim"
 msgstr ""
 
-#: ../../KLD.rst:1393
+#: ../../KLD.rst:889
 msgid ""
-"When Sage of Shaila's Claim enters the battlefield, you get {E}{E}{E} "
+"When Sage of Shaila's Claim enters the battlefield, you get {E} {E} {E} "
 "(three energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:1403
+#: ../../KLD.rst:896
 msgid "Servant of the Conduit"
 msgstr ""
 
-#: ../../KLD.rst:1400
+#: ../../KLD.rst:893
 msgid ""
-"When Servant of the Conduit enters the battlefield, you get {E}{E} (two "
+"When Servant of the Conduit enters the battlefield, you get {E} {E} (two "
 "energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:1402 ../../KLD.rst:2041
+#: ../../KLD.rst:895 ../../KLD.rst:1315
 msgid "|tap|, Pay {E}: Add one mana of any color."
 msgstr ""
 
-#: ../../KLD.rst:1414
+#: ../../KLD.rst:904
 msgid "Take Down"
 msgstr ""
 
-#: ../../KLD.rst:1411
+#: ../../KLD.rst:901
 msgid "Take Down deals 4 damage to target creature with flying."
 msgstr ""
 
-#: ../../KLD.rst:1413
+#: ../../KLD.rst:903
 msgid "Take Down deals 1 damage to each creature with flying."
 msgstr ""
 
-#: ../../KLD.rst:1423
+#: ../../KLD.rst:910
 msgid "Thriving Rhino"
 msgstr ""
 
-#: ../../KLD.rst:1420
+#: ../../KLD.rst:907
 msgid ""
-"When Thriving Rhino enters the battlefield, you get {E}{E} (two energy "
+"When Thriving Rhino enters the battlefield, you get {E} {E} (two energy "
 "counters)."
 msgstr ""
 
-#: ../../KLD.rst:1422
+#: ../../KLD.rst:909
 msgid ""
-"Whenever Thriving Rhino attacks, you may pay {E}{E}. If you do, put a "
-"+1/+1 counter on it."
+"Whenever Thriving Rhino attacks, you may pay {E} {E}. If you do, put a +1/+1 "
+"counter on it."
 msgstr ""
 
-#: ../../KLD.rst:1432
+#: ../../KLD.rst:916
 msgid "Verdurous Gearhulk"
 msgstr ""
 
-#: ../../KLD.rst:1431
+#: ../../KLD.rst:915
 msgid ""
 "When Verdurous Gearhulk enters the battlefield, distribute four +1/+1 "
 "counters among any number of target creatures you control."
 msgstr ""
 
-#: ../../KLD.rst:1439
+#: ../../KLD.rst:920
 msgid "Wild Wanderer"
 msgstr ""
 
-#: ../../KLD.rst:1438
+#: ../../KLD.rst:919
 msgid ""
-"When Wild Wanderer enters the battlefield, you may search your library "
-"for a basic land card, put it onto the battlefield tapped, then shuffle "
-"your library."
+"When Wild Wanderer enters the battlefield, you may search your library for a "
+"basic land card, put it onto the battlefield tapped, then shuffle your "
+"library."
 msgstr ""
 
-#: ../../KLD.rst:1446
+#: ../../KLD.rst:924
 msgid "Wildest Dreams"
 msgstr ""
 
-#: ../../KLD.rst:1445
+#: ../../KLD.rst:923
 msgid ""
-"Return X target cards from your graveyard to your hand. Exile Wildest "
-"Dreams."
+"Return X target cards from your graveyard to your hand. Exile Wildest Dreams."
 msgstr ""
 
-#: ../../KLD.rst:1453
+#: ../../KLD.rst:928
 msgid "Wily Bandar"
 msgstr ""
 
-#: ../../KLD.rst:1452
+#: ../../KLD.rst:927
 msgid ""
 "|mana_2| |mana_g|: Wily Bandar gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
 
-#: ../../KLD.rst:1462
+#: ../../KLD.rst:934
 msgid "Cloudblazer"
 msgstr ""
 
-#: ../../KLD.rst:1461
+#: ../../KLD.rst:933
 msgid ""
-"When Cloudblazer enters the battlefield, you gain 2 life and draw two "
-"cards."
+"When Cloudblazer enters the battlefield, you gain 2 life and draw two cards."
 msgstr ""
 
-#: ../../KLD.rst:1471
+#: ../../KLD.rst:940
 msgid "Contraband Kingpin"
 msgstr ""
 
-#: ../../KLD.rst:1468
+#: ../../KLD.rst:937
 msgid "Lifelink"
 msgstr "Więź życia"
 
-#: ../../KLD.rst:1470
+#: ../../KLD.rst:939
 msgid "Whenever an artifact enters the battlefield under your control, scry 1."
 msgstr ""
 
-#: ../../KLD.rst:1482
+#: ../../KLD.rst:948
 msgid "Depala, Pilot Exemplar"
 msgstr ""
 
-#: ../../KLD.rst:1477
+#: ../../KLD.rst:943
 msgid "Other Dwarves you control get +1/+1."
 msgstr ""
 
-#: ../../KLD.rst:1479
+#: ../../KLD.rst:945
 msgid "Each Vehicle you control gets +1/+1 as long as it's a creature."
 msgstr ""
 
-#: ../../KLD.rst:1481
+#: ../../KLD.rst:947
 msgid ""
-"Whenever Depala, Pilot Exemplar becomes tapped, you may pay |mana_x|. If "
-"you do, reveal the top X cards of your library, put all Dwarf and Vehicle"
-" cards from among them into your hand, then put the rest on the bottom of"
-" your library in a random order."
+"Whenever Depala, Pilot Exemplar becomes tapped, you may pay |mana_x|. If you "
+"do, reveal the top X cards of your library, put all Dwarf and Vehicle cards "
+"from among them into your hand, then put the rest on the bottom of your "
+"library in a random order."
 msgstr ""
 
-#: ../../KLD.rst:1493
+#: ../../KLD.rst:956
 msgid "Dovin Baan"
 msgstr ""
 
-#: ../../KLD.rst:1488
+#: ../../KLD.rst:951
 msgid ""
 "+1: Until your next turn, up to one target creature gets -3/-0 and its "
 "activated abilities can't be activated."
 msgstr ""
 
-#: ../../KLD.rst:1490
+#: ../../KLD.rst:953
 msgid "−1: You gain 2 life and draw a card."
 msgstr ""
 
-#: ../../KLD.rst:1492
+#: ../../KLD.rst:955
 msgid ""
 "−7: You get an emblem with \"Your opponents can't untap more than two "
 "permanents during their untap steps.\""
 msgstr ""
 
-#: ../../KLD.rst:1502
+#: ../../KLD.rst:962
 msgid "Empyreal Voyager"
 msgstr ""
 
-#: ../../KLD.rst:1499
+#: ../../KLD.rst:959
 msgid "Flying, trample"
 msgstr ""
 
-#: ../../KLD.rst:1501
+#: ../../KLD.rst:961
 msgid ""
-"Whenever Empyreal Voyager deals combat damage to a player, you get that "
-"many {E} (energy counters)."
+"Whenever Empyreal Voyager deals combat damage to a player, you get that many "
+"{E} (energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:1513
+#: ../../KLD.rst:970
 msgid "Engineered Might"
 msgstr ""
 
-#: ../../KLD.rst:1510
+#: ../../KLD.rst:967
 msgid "Target creature gets +5/+5 and gains trample until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1512
+#: ../../KLD.rst:969
 msgid "Creatures you control get +2/+2 and gain vigilance until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1520
+#: ../../KLD.rst:974
 msgid "Hazardous Conditions"
 msgstr ""
 
-#: ../../KLD.rst:1519
+#: ../../KLD.rst:973
 msgid "Creatures with no counters on them get -2/-2 until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1527
+#: ../../KLD.rst:978
 msgid "Kambal, Consul of Allocation"
 msgstr ""
 
-#: ../../KLD.rst:1526
+#: ../../KLD.rst:977
 msgid ""
-"Whenever an opponent casts a noncreature spell, that player loses 2 life "
-"and you gain 2 life."
+"Whenever an opponent casts a noncreature spell, that player loses 2 life and "
+"you gain 2 life."
 msgstr ""
 
-#: ../../KLD.rst:1534
+#: ../../KLD.rst:982
 msgid "Rashmi, Eternities Crafter"
 msgstr ""
 
-#: ../../KLD.rst:1533
+#: ../../KLD.rst:981
 msgid ""
-"Whenever you cast your first spell each turn, reveal the top card of your"
-" library. If it's a nonland card with converted mana cost less than that "
-"spell's, you may cast it without paying its mana cost. If you don't cast "
-"the revealed card, put it into your hand."
+"Whenever you cast your first spell each turn, reveal the top card of your "
+"library. If it's a nonland card with converted mana cost less than that "
+"spell's, you may cast it without paying its mana cost. If you don't cast the "
+"revealed card, put it into your hand."
 msgstr ""
 
-#: ../../KLD.rst:1541
+#: ../../KLD.rst:986
 msgid "Restoration Gearsmith"
 msgstr ""
 
-#: ../../KLD.rst:1540
+#: ../../KLD.rst:985
 msgid ""
-"When Restoration Gearsmith enters the battlefield, return target artifact"
-" or creature card from your graveyard to your hand."
+"When Restoration Gearsmith enters the battlefield, return target artifact or "
+"creature card from your graveyard to your hand."
 msgstr ""
 
-#: ../../KLD.rst:1552
+#: ../../KLD.rst:994
 msgid "Saheeli Rai"
 msgstr ""
 
-#: ../../KLD.rst:1547
+#: ../../KLD.rst:989
 msgid "+1: Scry 1. Saheeli Rai deals 1 damage to each opponent."
 msgstr ""
 
-#: ../../KLD.rst:1549
+#: ../../KLD.rst:991
 msgid ""
-"−2: Create a token that's a copy of target artifact or creature you "
-"control, except it's an artifact in addition to its other types. That "
-"token gains haste. Exile it at the beginning of the next end step."
+"−2: Create a token that's a copy of target artifact or creature you control, "
+"except it's an artifact in addition to its other types. That token gains "
+"haste. Exile it at the beginning of the next end step."
 msgstr ""
 
-#: ../../KLD.rst:1551
+#: ../../KLD.rst:993
 msgid ""
-"−7: Search your library for up to three artifact cards with different "
-"names, put them onto the battlefield, then shuffle your library."
+"−7: Search your library for up to three artifact cards with different names, "
+"put them onto the battlefield, then shuffle your library."
 msgstr ""
 
-#: ../../KLD.rst:1559
+#: ../../KLD.rst:998
 msgid "Unlicensed Disintegration"
 msgstr ""
 
-#: ../../KLD.rst:1558
+#: ../../KLD.rst:997
 msgid ""
 "Destroy target creature. If you control an artifact, Unlicensed "
 "Disintegration deals 3 damage to that creature's controller."
 msgstr ""
 
-#: ../../KLD.rst:1568
+#: ../../KLD.rst:1004
 msgid "Veteran Motorist"
 msgstr ""
 
-#: ../../KLD.rst:1565
+#: ../../KLD.rst:1001
 msgid "When Veteran Motorist enters the battlefield, scry 2."
 msgstr ""
 
-#: ../../KLD.rst:1567
+#: ../../KLD.rst:1003
 msgid ""
-"Whenever Veteran Motorist crews a Vehicle, that Vehicle gets +1/+1 until "
-"end of turn."
+"Whenever Veteran Motorist crews a Vehicle, that Vehicle gets +1/+1 until end "
+"of turn."
 msgstr ""
 
-#: ../../KLD.rst:1577
+#: ../../KLD.rst:1010
 msgid "Voltaic Brawler"
 msgstr ""
 
-#: ../../KLD.rst:1574
+#: ../../KLD.rst:1007
 msgid ""
-"When Voltaic Brawler enters the battlefield, you get {E}{E} (two energy "
+"When Voltaic Brawler enters the battlefield, you get {E} {E} (two energy "
 "counters)."
 msgstr ""
 
-#: ../../KLD.rst:1576
+#: ../../KLD.rst:1009
 msgid ""
-"Whenever Voltaic Brawler attacks, you may pay {E}. If you do, it gets "
-"+1/+1 and gains trample until end of turn."
+"Whenever Voltaic Brawler attacks, you may pay {E}. If you do, it gets +1/+1 "
+"and gains trample until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1586
+#: ../../KLD.rst:1016
 msgid "Whirler Virtuoso"
 msgstr ""
 
-#: ../../KLD.rst:1583
+#: ../../KLD.rst:1013
 msgid ""
-"When Whirler Virtuoso enters the battlefield, you get {E}{E}{E} (three "
+"When Whirler Virtuoso enters the battlefield, you get {E} {E} {E} (three "
 "energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:1585
+#: ../../KLD.rst:1015
 msgid ""
-"Pay {E}{E}{E}: Create a 1/1 colorless Thopter artifact creature token "
-"with flying."
+"Pay {E} {E} {E}: Create a 1/1 colorless Thopter artifact creature token with "
+"flying."
 msgstr ""
 
-#: ../../KLD.rst:1593
+#: ../../KLD.rst:1020
 msgid "Accomplished Automaton"
 msgstr ""
 
-#: ../../KLD.rst:1602
+#: ../../KLD.rst:1026
 msgid "Aetherflux Reservoir"
 msgstr ""
 
-#: ../../KLD.rst:1599
+#: ../../KLD.rst:1023
 msgid ""
-"Whenever you cast a spell, you gain 1 life for each spell you've cast "
-"this turn."
+"Whenever you cast a spell, you gain 1 life for each spell you've cast this "
+"turn."
 msgstr ""
 
-#: ../../KLD.rst:1601
+#: ../../KLD.rst:1025
 msgid "Pay 50 life: Aetherflux Reservoir deals 50 damage to any target."
 msgstr ""
 
-#: ../../KLD.rst:1611
+#: ../../KLD.rst:1032
 msgid "Aetherworks Marvel"
 msgstr ""
 
-#: ../../KLD.rst:1608
+#: ../../KLD.rst:1029
 msgid ""
-"Whenever a permanent you control is put into a graveyard, you get {E} (an"
-" energy counter)."
+"Whenever a permanent you control is put into a graveyard, you get {E} (an "
+"energy counter)."
 msgstr ""
 
-#: ../../KLD.rst:1610
+#: ../../KLD.rst:1031
 msgid ""
-"|tap|, Pay {E}{E}{E}{E}{E}{E}: Look at the top six cards of your library."
-" You may cast a card from among them without paying its mana cost. Put "
-"the rest on the bottom of your library in a random order."
+"|tap|, Pay {E} {E} {E} {E} {E} {E}: Look at the top six cards of your "
+"library. You may cast a card from among them without paying its mana cost. "
+"Put the rest on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../KLD.rst:1620
+#: ../../KLD.rst:1038
 msgid "Animation Module"
 msgstr ""
 
-#: ../../KLD.rst:1617
+#: ../../KLD.rst:1035
 msgid ""
-"Whenever one or more +1/+1 counters are put on a permanent you control, "
-"you may pay |mana_1|. If you do, create a 1/1 colorless Servo artifact "
-"creature token."
+"Whenever one or more +1/+1 counters are put on a permanent you control, you "
+"may pay |mana_1|. If you do, create a 1/1 colorless Servo artifact creature "
+"token."
 msgstr ""
 
-#: ../../KLD.rst:1619
+#: ../../KLD.rst:1037
 msgid ""
-"|mana_3|, |tap|: Choose a counter on target permanent or player. Give "
-"that permanent or player another counter of that kind."
+"|mana_3|, |tap|: Choose a counter on target permanent or player. Give that "
+"permanent or player another counter of that kind."
 msgstr ""
 
-#: ../../KLD.rst:1629
+#: ../../KLD.rst:1044
 msgid "Aradara Express"
 msgstr ""
 
-#: ../../KLD.rst:1628
+#: ../../KLD.rst:1043
 msgid ""
-"Crew 4 (Tap any number of creatures you control with total power 4 or "
-"more: This Vehicle becomes an artifact creature until end of turn.)"
+"Crew 4 (Tap any number of creatures you control with total power 4 or more: "
+"This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 4 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "4 lub większej. Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
-#: ../../KLD.rst:1638
+#: ../../KLD.rst:1050
 msgid "Ballista Charger"
 msgstr ""
 
-#: ../../KLD.rst:1635
+#: ../../KLD.rst:1047
 msgid "Whenever Ballista Charger attacks, it deals 1 damage to any target."
 msgstr ""
 
-#: ../../KLD.rst:1637 ../../KLD.rst:1653 ../../KLD.rst:1698 ../../KLD.rst:1973
+#: ../../KLD.rst:1049 ../../KLD.rst:1059 ../../KLD.rst:1089 ../../KLD.rst:1271
 msgid ""
-"Crew 3 (Tap any number of creatures you control with total power 3 or "
-"more: This Vehicle becomes an artifact creature until end of turn.)"
+"Crew 3 (Tap any number of creatures you control with total power 3 or more: "
+"This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 
-#: ../../KLD.rst:1645
+#: ../../KLD.rst:1054
 msgid "Bastion Mastodon"
 msgstr ""
 
-#: ../../KLD.rst:1644
+#: ../../KLD.rst:1053
 msgid "|mana_w|: Bastion Mastodon gains vigilance until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1654
+#: ../../KLD.rst:1060
 msgid "Bomat Bazaar Barge"
 msgstr ""
 
-#: ../../KLD.rst:1651
+#: ../../KLD.rst:1057
 msgid "When Bomat Bazaar Barge enters the battlefield, draw a card."
 msgstr ""
 
-#: ../../KLD.rst:1665
+#: ../../KLD.rst:1068
 msgid "Bomat Courier"
 msgstr ""
 
-#: ../../KLD.rst:1662
+#: ../../KLD.rst:1065
 msgid ""
 "Whenever Bomat Courier attacks, exile the top card of your library face "
 "down. (You can't look at it.)"
 msgstr ""
 
-#: ../../KLD.rst:1664
+#: ../../KLD.rst:1067
 msgid ""
-"|mana_r|, Discard your hand, Sacrifice Bomat Courier: Put all cards "
-"exiled with Bomat Courier into their owners' hands."
+"|mana_r|, Discard your hand, Sacrifice Bomat Courier: Put all cards exiled "
+"with Bomat Courier into their owners' hands."
 msgstr ""
 
-#: ../../KLD.rst:1672
+#: ../../KLD.rst:1072
 msgid "Chief of the Foundry"
 msgstr ""
 
-#: ../../KLD.rst:1671
+#: ../../KLD.rst:1071
 msgid "Other artifact creatures you control get +1/+1."
 msgstr ""
 
-#: ../../KLD.rst:1681
+#: ../../KLD.rst:1078
 msgid "Cogworker's Puzzleknot"
 msgstr ""
 
-#: ../../KLD.rst:1678
+#: ../../KLD.rst:1075
 msgid ""
-"When Cogworker's Puzzleknot enters the battlefield, create a 1/1 "
-"colorless Servo artifact creature token."
+"When Cogworker's Puzzleknot enters the battlefield, create a 1/1 colorless "
+"Servo artifact creature token."
 msgstr ""
 
-#: ../../KLD.rst:1680
+#: ../../KLD.rst:1077
 msgid ""
-"|mana_1| |mana_w|, Sacrifice Cogworker's Puzzleknot: Create a 1/1 "
-"colorless Servo artifact creature token."
+"|mana_1| |mana_w|, Sacrifice Cogworker's Puzzleknot: Create a 1/1 colorless "
+"Servo artifact creature token."
 msgstr ""
 
-#: ../../KLD.rst:1690
+#: ../../KLD.rst:1084
 msgid "Consulate Skygate"
 msgstr ""
 
-#: ../../KLD.rst:1699
+#: ../../KLD.rst:1090
 msgid "Cultivator's Caravan"
 msgstr ""
 
-#: ../../KLD.rst:1696
+#: ../../KLD.rst:1087
 msgid "|tap|: Add one mana of any color."
 msgstr ""
 
-#: ../../KLD.rst:1710
+#: ../../KLD.rst:1098
 msgid "Deadlock Trap"
 msgstr ""
 
-#: ../../KLD.rst:1705
+#: ../../KLD.rst:1093
 msgid "Deadlock Trap enters the battlefield tapped."
 msgstr ""
 
-#: ../../KLD.rst:1707
+#: ../../KLD.rst:1095
 msgid ""
-"When Deadlock Trap enters the battlefield, you get {E}{E} (two energy "
+"When Deadlock Trap enters the battlefield, you get {E} {E} (two energy "
 "counters)."
 msgstr ""
 
-#: ../../KLD.rst:1709
+#: ../../KLD.rst:1097
 msgid ""
-"|tap|, Pay {E}: Tap target creature or planeswalker. Its activated "
-"abilities can't be activated this turn."
+"|tap|, Pay {E}: Tap target creature or planeswalker. Its activated abilities "
+"can't be activated this turn."
 msgstr ""
 
-#: ../../KLD.rst:1719
+#: ../../KLD.rst:1104
 msgid "Decoction Module"
 msgstr ""
 
-#: ../../KLD.rst:1716
+#: ../../KLD.rst:1101
 msgid ""
-"Whenever a creature enters the battlefield under your control, you get "
-"{E} (an energy counter)."
+"Whenever a creature enters the battlefield under your control, you get {E} "
+"(an energy counter)."
 msgstr ""
 
-#: ../../KLD.rst:1718
-msgid "|mana_4|, |tap|: Return target creature you control to its owner's hand."
+#: ../../KLD.rst:1103
+msgid ""
+"|mana_4|, |tap|: Return target creature you control to its owner's hand."
 msgstr ""
 
-#: ../../KLD.rst:1728
+#: ../../KLD.rst:1110
 msgid "Demolition Stomper"
 msgstr ""
 
-#: ../../KLD.rst:1725
+#: ../../KLD.rst:1107
 msgid "Demolition Stomper can't be blocked by creatures with power 2 or less."
 msgstr ""
 
-#: ../../KLD.rst:1727
+#: ../../KLD.rst:1109
 msgid ""
-"Crew 5 (Tap any number of creatures you control with total power 5 or "
-"more: This Vehicle becomes an artifact creature until end of turn.)"
+"Crew 5 (Tap any number of creatures you control with total power 5 or more: "
+"This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 
-#: ../../KLD.rst:1735
+#: ../../KLD.rst:1114
 msgid "Dukhara Peafowl"
 msgstr ""
 
-#: ../../KLD.rst:1734
+#: ../../KLD.rst:1113
 msgid "|mana_u|: Dukhara Peafowl gains flying until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1744
+#: ../../KLD.rst:1120
 msgid "Dynavolt Tower"
 msgstr ""
 
-#: ../../KLD.rst:1741
+#: ../../KLD.rst:1117
 msgid ""
-"Whenever you cast an instant or sorcery spell, you get {E}{E} (two energy"
-" counters)."
+"Whenever you cast an instant or sorcery spell, you get {E} {E} (two energy "
+"counters)."
 msgstr ""
 
-#: ../../KLD.rst:1743
-msgid "|tap|, Pay {E}{E}{E}{E}{E}: Dynavolt Tower deals 3 damage to any target."
+#: ../../KLD.rst:1119
+msgid ""
+"|tap|, Pay {E} {E} {E} {E} {E}: Dynavolt Tower deals 3 damage to any target."
 msgstr ""
 
-#: ../../KLD.rst:1751
+#: ../../KLD.rst:1124
 msgid "Eager Construct"
 msgstr ""
 
-#: ../../KLD.rst:1750
+#: ../../KLD.rst:1123
 msgid ""
 "When Eager Construct enters the battlefield, each player may scry 1. (To "
-"scry 1, look at the top card of your library, then you may put that card "
-"on the bottom of your library.)"
+"scry 1, look at the top card of your library, then you may put that card on "
+"the bottom of your library.)"
 msgstr ""
 
-#: ../../KLD.rst:1760
+#: ../../KLD.rst:1130
 msgid "Electrostatic Pummeler"
 msgstr ""
 
-#: ../../KLD.rst:1757
+#: ../../KLD.rst:1127
 msgid ""
-"When Electrostatic Pummeler enters the battlefield, you get {E}{E}{E} "
+"When Electrostatic Pummeler enters the battlefield, you get {E} {E} {E} "
 "(three energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:1759
+#: ../../KLD.rst:1129
 msgid ""
-"Pay {E}{E}{E}: Electrostatic Pummeler gets +X/+X until end of turn, where"
-" X is its power."
+"Pay {E} {E} {E}: Electrostatic Pummeler gets +X/+X until end of turn, where "
+"X is its power."
 msgstr ""
 
-#: ../../KLD.rst:1769
+#: ../../KLD.rst:1136
 msgid "Fabrication Module"
 msgstr ""
 
-#: ../../KLD.rst:1766
+#: ../../KLD.rst:1133
 msgid ""
-"Whenever you get one or more {E} (energy counters), put a +1/+1 counter "
-"on target creature you control."
+"Whenever you get one or more {E} (energy counters), put a +1/+1 counter on "
+"target creature you control."
 msgstr ""
 
-#: ../../KLD.rst:1768
+#: ../../KLD.rst:1135
 msgid "|mana_4|, |tap|: You get {E}."
 msgstr ""
 
-#: ../../KLD.rst:1778
+#: ../../KLD.rst:1142
 msgid "Filigree Familiar"
 msgstr ""
 
-#: ../../KLD.rst:1775
+#: ../../KLD.rst:1139
 msgid "When Filigree Familiar enters the battlefield, you gain 2 life."
 msgstr ""
 
-#: ../../KLD.rst:1777
+#: ../../KLD.rst:1141
 msgid "When Filigree Familiar dies, draw a card."
 msgstr ""
 
-#: ../../KLD.rst:1787
+#: ../../KLD.rst:1148
 msgid "Fireforger's Puzzleknot"
 msgstr ""
 
-#: ../../KLD.rst:1784
+#: ../../KLD.rst:1145
 msgid ""
-"When Fireforger's Puzzleknot enters the battlefield, it deals 1 damage to"
-" any target."
+"When Fireforger's Puzzleknot enters the battlefield, it deals 1 damage to "
+"any target."
 msgstr ""
 
-#: ../../KLD.rst:1786
+#: ../../KLD.rst:1147
 msgid ""
-"|mana_2| |mana_r|, Sacrifice Fireforger's Puzzleknot: It deals 1 damage "
-"to any target."
+"|mana_2| |mana_r|, Sacrifice Fireforger's Puzzleknot: It deals 1 damage to "
+"any target."
 msgstr ""
 
-#: ../../KLD.rst:1798
+#: ../../KLD.rst:1156
 msgid "Fleetwheel Cruiser"
 msgstr ""
 
-#: ../../KLD.rst:1793 ../../KLD.rst:1894
+#: ../../KLD.rst:1151 ../../KLD.rst:1219
 msgid "Trample, haste"
 msgstr "Tratowanie, pośpiech"
 
-#: ../../KLD.rst:1795
+#: ../../KLD.rst:1153
 msgid ""
 "When Fleetwheel Cruiser enters the battlefield, it becomes an artifact "
 "creature until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1797 ../../KLD.rst:1937
+#: ../../KLD.rst:1155 ../../KLD.rst:1247
 msgid ""
-"Crew 2 (Tap any number of creatures you control with total power 2 or "
-"more: This Vehicle becomes an artifact creature until end of turn.)"
+"Crew 2 (Tap any number of creatures you control with total power 2 or more: "
+"This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 2 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 2: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
-#: ../../KLD.rst:1805
+#: ../../KLD.rst:1160
 msgid "Foundry Inspector"
 msgstr ""
 
-#: ../../KLD.rst:1804
+#: ../../KLD.rst:1159
 msgid "Artifact spells you cast cost |mana_1| less to cast."
 msgstr ""
 
-#: ../../KLD.rst:1814
+#: ../../KLD.rst:1166
 msgid "Ghirapur Orrery"
 msgstr ""
 
-#: ../../KLD.rst:1811
+#: ../../KLD.rst:1163
 msgid "Each player may play an additional land on each of their turns."
 msgstr ""
 
-#: ../../KLD.rst:1813
+#: ../../KLD.rst:1165
 msgid ""
 "At the beginning of each player's upkeep, if that player has no cards in "
 "hand, that player draws three cards."
 msgstr ""
 
-#: ../../KLD.rst:1823
+#: ../../KLD.rst:1172
 msgid "Glassblower's Puzzleknot"
 msgstr ""
 
-#: ../../KLD.rst:1820
+#: ../../KLD.rst:1169
 msgid ""
-"When Glassblower's Puzzleknot enters the battlefield, scry 2, then you "
-"get {E}{E}. (You get two energy counters. To scry 2, look at the top two "
-"cards of your library, then put any number of them on the bottom of your "
-"library and the rest on top in any order.)"
+"When Glassblower's Puzzleknot enters the battlefield, scry 2, then you get "
+"{E} {E}. (You get two energy counters. To scry 2, look at the top two cards "
+"of your library, then put any number of them on the bottom of your library "
+"and the rest on top in any order.)"
 msgstr ""
 
-#: ../../KLD.rst:1822
+#: ../../KLD.rst:1171
 msgid ""
-"|mana_2| |mana_u|, Sacrifice Glassblower's Puzzleknot: Scry 2, then you "
-"get {E}{E}."
+"|mana_2| |mana_u|, Sacrifice Glassblower's Puzzleknot: Scry 2, then you get "
+"{E} {E}."
 msgstr ""
 
-#: ../../KLD.rst:1834
+#: ../../KLD.rst:1180
 msgid "Inventor's Goggles"
 msgstr ""
 
-#: ../../KLD.rst:1829
+#: ../../KLD.rst:1175
 msgid "Equipped creature gets +1/+2."
 msgstr ""
 
-#: ../../KLD.rst:1831
+#: ../../KLD.rst:1177
 msgid ""
 "Whenever an Artificer enters the battlefield under your control, you may "
 "attach Inventor's Goggles to it."
 msgstr ""
 
-#: ../../KLD.rst:1833 ../../KLD.rst:2000
+#: ../../KLD.rst:1179 ../../KLD.rst:1289
 msgid ""
-"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
-"only as a sorcery.)"
+"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
+"as a sorcery.)"
 msgstr ""
 "Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Wyposaż wyłącznie jako obrzęd.)"
 
-#: ../../KLD.rst:1843
+#: ../../KLD.rst:1186
 msgid "Iron League Steed"
 msgstr ""
 
-#: ../../KLD.rst:1852
+#: ../../KLD.rst:1192
 msgid "Key to the City"
 msgstr ""
 
-#: ../../KLD.rst:1849
+#: ../../KLD.rst:1189
 msgid ""
-"|tap|, Discard a card: Up to one target creature can't be blocked this "
-"turn."
+"|tap|, Discard a card: Up to one target creature can't be blocked this turn."
 msgstr ""
 
-#: ../../KLD.rst:1851
+#: ../../KLD.rst:1191
 msgid ""
-"Whenever Key to the City becomes untapped, you may pay |mana_2|. If you "
-"do, draw a card."
+"Whenever Key to the City becomes untapped, you may pay |mana_2|. If you do, "
+"draw a card."
 msgstr ""
 
-#: ../../KLD.rst:1861
+#: ../../KLD.rst:1198
 msgid "Metalspinner's Puzzleknot"
 msgstr ""
 
-#: ../../KLD.rst:1858
+#: ../../KLD.rst:1195
 msgid ""
-"When Metalspinner's Puzzleknot enters the battlefield, you draw a card "
-"and you lose 1 life."
+"When Metalspinner's Puzzleknot enters the battlefield, you draw a card and "
+"you lose 1 life."
 msgstr ""
 
-#: ../../KLD.rst:1860
+#: ../../KLD.rst:1197
 msgid ""
-"|mana_2| |mana_b|, Sacrifice Metalspinner's Puzzleknot: You draw a card "
-"and you lose 1 life."
+"|mana_2| |mana_b|, Sacrifice Metalspinner's Puzzleknot: You draw a card and "
+"you lose 1 life."
 msgstr ""
 
-#: ../../KLD.rst:1870
+#: ../../KLD.rst:1204
 msgid "Metalwork Colossus"
 msgstr ""
 
-#: ../../KLD.rst:1867
+#: ../../KLD.rst:1201
 msgid ""
-"This spell costs |mana_x| less to cast, where X is the total converted "
-"mana cost of noncreature artifacts you control."
+"This spell costs |mana_x| less to cast, where X is the total converted mana "
+"cost of noncreature artifacts you control."
 msgstr ""
 
-#: ../../KLD.rst:1869
+#: ../../KLD.rst:1203
 msgid ""
-"Sacrifice two artifacts: Return Metalwork Colossus from your graveyard to"
-" your hand."
+"Sacrifice two artifacts: Return Metalwork Colossus from your graveyard to "
+"your hand."
 msgstr ""
 
-#: ../../KLD.rst:1881
+#: ../../KLD.rst:1212
 msgid "Multiform Wonder"
 msgstr ""
 
-#: ../../KLD.rst:1876
+#: ../../KLD.rst:1207
 msgid ""
-"When Multiform Wonder enters the battlefield, you get {E}{E}{E} (three "
+"When Multiform Wonder enters the battlefield, you get {E} {E} {E} (three "
 "energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:1878
+#: ../../KLD.rst:1209
 msgid ""
 "Pay {E}: Multiform Wonder gains your choice of flying, vigilance, or "
 "lifelink until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1880
+#: ../../KLD.rst:1211
 msgid "Pay {E}: Multiform Wonder gets +2/-2 or -2/+2 until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1888
+#: ../../KLD.rst:1216
 msgid "Narnam Cobra"
 msgstr ""
 
-#: ../../KLD.rst:1887
+#: ../../KLD.rst:1215
 msgid ""
-"|mana_g|: Narnam Cobra gains deathtouch until end of turn. (Any amount of"
-" damage it deals to a creature is enough to destroy it.)"
+"|mana_g|: Narnam Cobra gains deathtouch until end of turn. (Any amount of "
+"damage it deals to a creature is enough to destroy it.)"
 msgstr ""
 
-#: ../../KLD.rst:1897
+#: ../../KLD.rst:1222
 msgid "Ovalchase Dragster"
 msgstr ""
 
-#: ../../KLD.rst:1896 ../../KLD.rst:1962 ../../KLD.rst:1984
+#: ../../KLD.rst:1221 ../../KLD.rst:1263 ../../KLD.rst:1279
 msgid ""
-"Crew 1 (Tap any number of creatures you control with total power 1 or "
-"more: This Vehicle becomes an artifact creature until end of turn.)"
+"Crew 1 (Tap any number of creatures you control with total power 1 or more: "
+"This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 
-#: ../../KLD.rst:1904
+#: ../../KLD.rst:1226
 msgid "Panharmonicon"
 msgstr ""
 
-#: ../../KLD.rst:1903
+#: ../../KLD.rst:1225
 msgid ""
 "If an artifact or creature entering the battlefield causes a triggered "
 "ability of a permanent you control to trigger, that ability triggers an "
 "additional time."
 msgstr ""
 
-#: ../../KLD.rst:1913
+#: ../../KLD.rst:1232
 msgid "Perpetual Timepiece"
 msgstr ""
 
-#: ../../KLD.rst:1910
+#: ../../KLD.rst:1229
 msgid "|tap|: Put the top two cards of your library into your graveyard."
 msgstr ""
 
-#: ../../KLD.rst:1912
+#: ../../KLD.rst:1231
 msgid ""
-"|mana_2|, Exile Perpetual Timepiece: Shuffle any number of target cards "
-"from your graveyard into your library."
+"|mana_2|, Exile Perpetual Timepiece: Shuffle any number of target cards from "
+"your graveyard into your library."
 msgstr ""
 
-#: ../../KLD.rst:1920
+#: ../../KLD.rst:1236
 msgid "Prakhata Pillar-Bug"
 msgstr ""
 
-#: ../../KLD.rst:1919
+#: ../../KLD.rst:1235
 msgid ""
 "|mana_b|: Prakhata Pillar-Bug gains lifelink until end of turn. (Damage "
 "dealt by this creature also causes you to gain that much life.)"
 msgstr ""
 
-#: ../../KLD.rst:1929
+#: ../../KLD.rst:1242
 msgid "Prophetic Prism"
 msgstr ""
 
-#: ../../KLD.rst:1926
+#: ../../KLD.rst:1239
 msgid "When Prophetic Prism enters the battlefield, draw a card."
 msgstr ""
 
-#: ../../KLD.rst:1928
+#: ../../KLD.rst:1241
 msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr ""
 
-#: ../../KLD.rst:1938
+#: ../../KLD.rst:1248
 msgid "Renegade Freighter"
 msgstr ""
 
-#: ../../KLD.rst:1935
+#: ../../KLD.rst:1245
 msgid ""
-"Whenever Renegade Freighter attacks, it gets +1/+1 and gains trample "
-"until end of turn."
+"Whenever Renegade Freighter attacks, it gets +1/+1 and gains trample until "
+"end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1947
+#: ../../KLD.rst:1254
 msgid "Scrapheap Scrounger"
 msgstr ""
 
-#: ../../KLD.rst:1944
+#: ../../KLD.rst:1251
 msgid "Scrapheap Scrounger can't block."
 msgstr ""
 
-#: ../../KLD.rst:1946
+#: ../../KLD.rst:1253
 msgid ""
-"|mana_1| |mana_b|, Exile another creature card from your graveyard: "
-"Return Scrapheap Scrounger from your graveyard to the battlefield."
+"|mana_1| |mana_b|, Exile another creature card from your graveyard: Return "
+"Scrapheap Scrounger from your graveyard to the battlefield."
 msgstr ""
 
-#: ../../KLD.rst:1954
+#: ../../KLD.rst:1258
 msgid "Self-Assembler"
 msgstr ""
 
-#: ../../KLD.rst:1953
+#: ../../KLD.rst:1257
 msgid ""
-"When Self-Assembler enters the battlefield, you may search your library "
-"for an Assembly-Worker creature card, reveal it, put it into your hand, "
-"then shuffle your library."
+"When Self-Assembler enters the battlefield, you may search your library for "
+"an Assembly-Worker creature card, reveal it, put it into your hand, then "
+"shuffle your library."
 msgstr ""
 
-#: ../../KLD.rst:1963
+#: ../../KLD.rst:1264
 msgid "Sky Skiff"
 msgstr ""
 
-#: ../../KLD.rst:1974
+#: ../../KLD.rst:1272
 msgid "Skysovereign, Consul Flagship"
 msgstr ""
 
-#: ../../KLD.rst:1971
+#: ../../KLD.rst:1269
 msgid ""
-"Whenever Skysovereign, Consul Flagship enters the battlefield or attacks,"
-" it deals 3 damage to target creature or planeswalker an opponent "
-"controls."
+"Whenever Skysovereign, Consul Flagship enters the battlefield or attacks, it "
+"deals 3 damage to target creature or planeswalker an opponent controls."
 msgstr ""
 
-#: ../../KLD.rst:1985
+#: ../../KLD.rst:1280
 msgid "Smuggler's Copter"
 msgstr ""
 
-#: ../../KLD.rst:1982
+#: ../../KLD.rst:1277
 msgid ""
-"Whenever Smuggler's Copter attacks or blocks, you may draw a card. If you"
-" do, discard a card."
+"Whenever Smuggler's Copter attacks or blocks, you may draw a card. If you "
+"do, discard a card."
 msgstr ""
 
-#: ../../KLD.rst:1992
+#: ../../KLD.rst:1284
 msgid "Snare Thopter"
 msgstr ""
 
-#: ../../KLD.rst:1991
+#: ../../KLD.rst:1283
 msgid "Flying, haste"
 msgstr "Latanie, pośpiech"
 
-#: ../../KLD.rst:2001
+#: ../../KLD.rst:1290
 msgid "Torch Gauntlet"
 msgstr ""
 
-#: ../../KLD.rst:1998
+#: ../../KLD.rst:1287
 msgid "Equipped creature gets +2/+0."
 msgstr ""
 
-#: ../../KLD.rst:2008
+#: ../../KLD.rst:1294
 msgid "Weldfast Monitor"
 msgstr ""
 
-#: ../../KLD.rst:2007
+#: ../../KLD.rst:1293
 msgid "|mana_r|: Weldfast Monitor gains menace until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:2015
+#: ../../KLD.rst:1298
 msgid "Whirlermaker"
 msgstr ""
 
-#: ../../KLD.rst:2014
+#: ../../KLD.rst:1297
 msgid ""
-"|mana_4|, |tap|: Create a 1/1 colorless Thopter artifact creature token "
-"with flying."
+"|mana_4|, |tap|: Create a 1/1 colorless Thopter artifact creature token with "
+"flying."
 msgstr ""
 
-#: ../../KLD.rst:2024
+#: ../../KLD.rst:1304
 msgid "Woodweaver's Puzzleknot"
 msgstr ""
 
-#: ../../KLD.rst:2021
+#: ../../KLD.rst:1301
 msgid ""
-"When Woodweaver's Puzzleknot enters the battlefield, you gain 3 life and "
-"get {E}{E}{E} (three energy counters)."
+"When Woodweaver's Puzzleknot enters the battlefield, you gain 3 life and get "
+"{E} {E} {E} (three energy counters)."
 msgstr ""
 
-#: ../../KLD.rst:2023
+#: ../../KLD.rst:1303
 msgid ""
-"|mana_2| |mana_g|, Sacrifice Woodweaver's Puzzleknot: You gain 3 life and"
-" get {E}{E}{E}."
+"|mana_2| |mana_g|, Sacrifice Woodweaver's Puzzleknot: You gain 3 life and "
+"get {E} {E} {E}."
 msgstr ""
 
-#: ../../KLD.rst:2031
+#: ../../KLD.rst:1308
 msgid "Workshop Assistant"
 msgstr ""
 
-#: ../../KLD.rst:2030
+#: ../../KLD.rst:1307
 msgid ""
-"When Workshop Assistant dies, return another target artifact card from "
-"your graveyard to your hand."
+"When Workshop Assistant dies, return another target artifact card from your "
+"graveyard to your hand."
 msgstr ""
 
-#: ../../KLD.rst:2042
+#: ../../KLD.rst:1316
 msgid "Aether Hub"
 msgstr ""
 
-#: ../../KLD.rst:2037
-msgid "When Aether Hub enters the battlefield, you get {E} (an energy counter)."
+#: ../../KLD.rst:1311
+msgid ""
+"When Aether Hub enters the battlefield, you get {E} (an energy counter)."
 msgstr ""
 
-#: ../../KLD.rst:2039 ../../KLD.rst:2086 ../../KLD.rst:2095
+#: ../../KLD.rst:1313 ../../KLD.rst:1345 ../../KLD.rst:1351
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Dostajesz |colorless|."
 
-#: ../../KLD.rst:2051
+#: ../../KLD.rst:1322
 msgid "Blooming Marsh"
 msgstr ""
 
-#: ../../KLD.rst:2048
+#: ../../KLD.rst:1319
 msgid ""
-"Blooming Marsh enters the battlefield tapped unless you control two or "
-"fewer other lands."
+"Blooming Marsh enters the battlefield tapped unless you control two or fewer "
+"other lands."
 msgstr ""
 
-#: ../../KLD.rst:2050
+#: ../../KLD.rst:1321
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
-#: ../../KLD.rst:2060
+#: ../../KLD.rst:1328
 msgid "Botanical Sanctum"
 msgstr ""
 
-#: ../../KLD.rst:2057
+#: ../../KLD.rst:1325
 msgid ""
-"Botanical Sanctum enters the battlefield tapped unless you control two or"
-" fewer other lands."
+"Botanical Sanctum enters the battlefield tapped unless you control two or "
+"fewer other lands."
 msgstr ""
 
-#: ../../KLD.rst:2059 ../../KLD.rst:2295
+#: ../../KLD.rst:1327 ../../KLD.rst:1473
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
-#: ../../KLD.rst:2069
+#: ../../KLD.rst:1334
 msgid "Concealed Courtyard"
 msgstr ""
 
-#: ../../KLD.rst:2066
+#: ../../KLD.rst:1331
 msgid ""
-"Concealed Courtyard enters the battlefield tapped unless you control two "
-"or fewer other lands."
+"Concealed Courtyard enters the battlefield tapped unless you control two or "
+"fewer other lands."
 msgstr ""
 
-#: ../../KLD.rst:2068
+#: ../../KLD.rst:1333
 msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
-#: ../../KLD.rst:2078
+#: ../../KLD.rst:1340
 msgid "Inspiring Vantage"
 msgstr ""
 
-#: ../../KLD.rst:2075
+#: ../../KLD.rst:1337
 msgid ""
-"Inspiring Vantage enters the battlefield tapped unless you control two or"
-" fewer other lands."
+"Inspiring Vantage enters the battlefield tapped unless you control two or "
+"fewer other lands."
 msgstr ""
 
-#: ../../KLD.rst:2077 ../../KLD.rst:2252
+#: ../../KLD.rst:1339 ../../KLD.rst:1445
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
-#: ../../KLD.rst:2089
+#: ../../KLD.rst:1348
 msgid "Inventors' Fair"
 msgstr ""
 
-#: ../../KLD.rst:2084
+#: ../../KLD.rst:1343
 msgid ""
-"At the beginning of your upkeep, if you control three or more artifacts, "
-"you gain 1 life."
+"At the beginning of your upkeep, if you control three or more artifacts, you "
+"gain 1 life."
 msgstr ""
 
-#: ../../KLD.rst:2088
+#: ../../KLD.rst:1347
 msgid ""
 "|mana_4|, |tap|, Sacrifice Inventors' Fair: Search your library for an "
-"artifact card, reveal it, put it into your hand, then shuffle your "
-"library. Activate this ability only if you control three or more "
-"artifacts."
+"artifact card, reveal it, put it into your hand, then shuffle your library. "
+"Activate this ability only if you control three or more artifacts."
 msgstr ""
 
-#: ../../KLD.rst:2098
+#: ../../KLD.rst:1354
 msgid "Sequestered Stash"
 msgstr ""
 
-#: ../../KLD.rst:2097
+#: ../../KLD.rst:1353
 msgid ""
-"|mana_4|, |tap|, Sacrifice Sequestered Stash: Put the top five cards of "
-"your library into your graveyard. Then you may put an artifact card from "
-"your graveyard on top of your library."
+"|mana_4|, |tap|, Sacrifice Sequestered Stash: Put the top five cards of your "
+"library into your graveyard. Then you may put an artifact card from your "
+"graveyard on top of your library."
 msgstr ""
 
-#: ../../KLD.rst:2107
+#: ../../KLD.rst:1360
 msgid "Spirebluff Canal"
 msgstr ""
 
-#: ../../KLD.rst:2104
+#: ../../KLD.rst:1357
 msgid ""
 "Spirebluff Canal enters the battlefield tapped unless you control two or "
 "fewer other lands."
 msgstr ""
 
-#: ../../KLD.rst:2106
+#: ../../KLD.rst:1359
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
-#: ../../KLD.rst:2112 ../../KLD.rst:2119 ../../KLD.rst:2126
+#: ../../KLD.rst:1362 ../../KLD.rst:1366 ../../KLD.rst:1370
 msgid "Plains"
 msgstr "Plains (Równina)"
 
-#: ../../KLD.rst:2133 ../../KLD.rst:2140 ../../KLD.rst:2147
+#: ../../KLD.rst:1374 ../../KLD.rst:1378 ../../KLD.rst:1382
 msgid "Island"
 msgstr "Island (Wyspa)"
 
-#: ../../KLD.rst:2154 ../../KLD.rst:2161 ../../KLD.rst:2168
+#: ../../KLD.rst:1386 ../../KLD.rst:1390 ../../KLD.rst:1394
 msgid "Swamp"
 msgstr "Swamp (Bagno)"
 
-#: ../../KLD.rst:2175 ../../KLD.rst:2182 ../../KLD.rst:2189
+#: ../../KLD.rst:1398 ../../KLD.rst:1402 ../../KLD.rst:1406
 msgid "Mountain"
 msgstr "Mountain (Góra)"
 
-#: ../../KLD.rst:2196 ../../KLD.rst:2203 ../../KLD.rst:2210
+#: ../../KLD.rst:1410 ../../KLD.rst:1414 ../../KLD.rst:1418
 msgid "Forest"
 msgstr "Forest (Las)"
 
-#: ../../KLD.rst:2223
+#: ../../KLD.rst:1428
 msgid "Chandra, Pyrogenius"
 msgstr ""
 
-#: ../../KLD.rst:2218
+#: ../../KLD.rst:1423
 msgid "+2: Chandra, Pyrogenius deals 2 damage to each opponent."
 msgstr ""
 
-#: ../../KLD.rst:2220
+#: ../../KLD.rst:1425
 msgid "−3: Chandra, Pyrogenius deals 4 damage to target creature."
 msgstr ""
 
-#: ../../KLD.rst:2222
+#: ../../KLD.rst:1427
 msgid ""
-"−10: Chandra, Pyrogenius deals 6 damage to target player or planeswalker "
-"and each creature that player or that planeswalker's controller controls."
+"−10: Chandra, Pyrogenius deals 6 damage to target player or planeswalker and "
+"each creature that player or that planeswalker's controller controls."
 msgstr ""
 
-#: ../../KLD.rst:2230
+#: ../../KLD.rst:1432
 msgid "Flame Lash"
 msgstr ""
 
-#: ../../KLD.rst:2229
+#: ../../KLD.rst:1431
 msgid "Flame Lash deals 4 damage to any target."
 msgstr ""
 
-#: ../../KLD.rst:2237
+#: ../../KLD.rst:1436
 msgid "Liberating Combustion"
 msgstr ""
 
-#: ../../KLD.rst:2236
+#: ../../KLD.rst:1435
 msgid ""
-"Liberating Combustion deals 6 damage to target creature. You may search "
-"your library and/or graveyard for a card named Chandra, Pyrogenius, "
-"reveal it, and put it into your hand. If you search your library this "
-"way, shuffle it."
+"Liberating Combustion deals 6 damage to target creature. You may search your "
+"library and/or graveyard for a card named Chandra, Pyrogenius, reveal it, "
+"and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
 
-#: ../../KLD.rst:2244
+#: ../../KLD.rst:1440
 msgid "Renegade Firebrand"
 msgstr ""
 
-#: ../../KLD.rst:2243
+#: ../../KLD.rst:1439
 msgid ""
-"As long as you control a Chandra planeswalker, Renegade Firebrand gets "
-"+1/+0 and has first strike. (It deals combat damage before creatures "
-"without first strike.)"
+"As long as you control a Chandra planeswalker, Renegade Firebrand gets +1/+0 "
+"and has first strike. (It deals combat damage before creatures without first "
+"strike.)"
 msgstr ""
 
-#: ../../KLD.rst:2253
+#: ../../KLD.rst:1446
 #, fuzzy
 msgid "Stone Quarry"
 msgstr "Stone Quarry"
 
-#: ../../KLD.rst:2250
+#: ../../KLD.rst:1443
 msgid "Stone Quarry enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki zatapowana."
 
-#: ../../KLD.rst:2264
+#: ../../KLD.rst:1454
 msgid "Nissa, Nature's Artisan"
 msgstr ""
 
-#: ../../KLD.rst:2259
+#: ../../KLD.rst:1449
 msgid "+3: You gain 3 life."
 msgstr ""
 
-#: ../../KLD.rst:2261
+#: ../../KLD.rst:1451
 msgid ""
-"−4: Reveal the top two cards of your library. Put all land cards from "
-"among them onto the battlefield and the rest into your hand."
+"−4: Reveal the top two cards of your library. Put all land cards from among "
+"them onto the battlefield and the rest into your hand."
 msgstr ""
 
-#: ../../KLD.rst:2263
-msgid "−12: Creatures you control get +5/+5 and gain trample until end of turn."
+#: ../../KLD.rst:1453
+msgid ""
+"−12: Creatures you control get +5/+5 and gain trample until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:2273
+#: ../../KLD.rst:1460
 msgid "Guardian of the Great Conduit"
 msgstr ""
 
-#: ../../KLD.rst:2272
+#: ../../KLD.rst:1459
 msgid ""
-"As long as you control a Nissa planeswalker, Guardian of the Great "
-"Conduit gets +2/+0 and has vigilance. (Attacking doesn't cause it to "
-"tap.)"
+"As long as you control a Nissa planeswalker, Guardian of the Great Conduit "
+"gets +2/+0 and has vigilance. (Attacking doesn't cause it to tap.)"
 msgstr ""
 
-#: ../../KLD.rst:2278
+#: ../../KLD.rst:1462
 msgid "Terrain Elemental"
 msgstr ""
 
-#: ../../KLD.rst:2287
+#: ../../KLD.rst:1468
 msgid "Verdant Crescendo"
 msgstr ""
 
-#: ../../KLD.rst:2286
+#: ../../KLD.rst:1467
 msgid ""
-"Search your library for a basic land card and put it onto the battlefield"
-" tapped. Search your library and graveyard for a card named Nissa, "
-"Nature's Artisan, reveal it, and put it into your hand. Then shuffle your"
-" library."
+"Search your library for a basic land card and put it onto the battlefield "
+"tapped. Search your library and graveyard for a card named Nissa, Nature's "
+"Artisan, reveal it, and put it into your hand. Then shuffle your library."
 msgstr ""
 
-#: ../../KLD.rst:2295
+#: ../../KLD.rst:1473
 #, fuzzy
 msgid "Woodland Stream"
 msgstr "Woodland Stream"
 
-#: ../../KLD.rst:2293
+#: ../../KLD.rst:1471
 msgid "Woodland Stream enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki zatapowana."
