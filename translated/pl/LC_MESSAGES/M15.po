@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-27 13:40+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -44,7 +44,7 @@ msgid ""
 "−2: Put a +1/+1 counter on each creature you control and a loyalty counter "
 "on each other planeswalker you control."
 msgstr ""
-"−2: Połóż znacznik +1/+1 na każdym stworze, którym władasz oraz znacznik "
+"−2: Umieść znacznik +1/+1 na każdym stworze, którym władasz oraz znacznik "
 "lojalności na każdym innym Wędrowcu, którym władasz."
 
 #: ../../M15.rst:13
@@ -1465,7 +1465,7 @@ msgid ""
 "card on top of it."
 msgstr ""
 "−2: Poszukaj karty w twojej bibliotece, następnie przetasuj twoją biblioteką "
-"i połóż ową kartę na jej wierzchu."
+"i umieść ową kartę na jej wierzchu."
 
 # 2a9a29a9e53644f78d664fc2844288ca
 #: ../../M15.rst:541
@@ -1473,7 +1473,7 @@ msgid ""
 "−8: Put all creature cards from all graveyards onto the battlefield under "
 "your control."
 msgstr ""
-"−8: Połóż wszystkie karty stworów ze wszystkich cmentarzy na polu walki pod "
+"−8: Umieść wszystkie karty stworów ze wszystkich cmentarzy na polu walki pod "
 "twoim władaniem."
 
 # 8ff3c2a0ebc04cd79b81fba5c5bb18df
@@ -2407,7 +2407,7 @@ msgid ""
 "and put it onto the battlefield. Then shuffle your library."
 msgstr ""
 "Poszukaj w twojej bibliotece karty stwora o łącznym koszcie many X lub "
-"mniejszym i połóż ją na polu walki. Następnie przetasuj twoją bibliotekę."
+"mniejszym i umieść ją na polu walki. Następnie przetasuj twoją bibliotekę."
 
 # 689b5eef1dd645f1aaf5372b995f102e
 #: ../../M15.rst:900
@@ -2459,7 +2459,7 @@ msgid ""
 "them onto the battlefield. Then shuffle the rest into your library."
 msgstr ""
 "Poszukaj w twojej bibliotece karty stwora o łącznym koszcie many X lub "
-"mniejszym i połóż ją na polu walki. Następnie przetasuj twoją bibliotekę."
+"mniejszym i umieść ją na polu walki. Następnie przetasuj twoją bibliotekę."
 
 # 3105ae63eb5b4636929aed2bb7716758
 #: ../../M15.rst:917
@@ -2502,7 +2502,7 @@ msgid ""
 "fights target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
-"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
 "stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
 "nawzajem obrażenia równe ich sile.)"
 
@@ -2752,11 +2752,15 @@ msgstr ""
 
 # 216dbbd0f3cd44608a3c6c309f82a3dd
 #: ../../M15.rst:1029
+#, fuzzy
 msgid ""
 "When Satyr Wayfinder enters the battlefield, reveal the top four cards of "
 "your library. You may put a land card from among them into your hand. Put "
 "the rest into your graveyard."
 msgstr ""
+"Kiedy Satyr Wayfinder wchodzi na pole walki, ujawnij cztery wierzchnie karty "
+"twojej biblioteki. Możesz dołożyć kartę lądu spośród nich do twojej ręki. "
+"Umieść pozostałe do twojego cmentarza."
 
 # 033f05b242b4400099862b4b858acfb2
 #: ../../M15.rst:1034
@@ -3381,7 +3385,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"połóż ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
 
 # 034eb04fdf3e454ba6a7285199a7e59d
 #: ../../M15.rst:1286
@@ -3554,6 +3558,8 @@ msgid ""
 "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/"
 "+1 counter on Sengir Vampire."
 msgstr ""
+"Ilekroć umiera stwór, któremu Sengir Vampire zadał obrażenia w tej turze, "
+"umieść znacznik +1/+1 na Sengir Vampire."
 
 # b4d549bf763646b6803349604b92d658
 #: ../../M15.rst:1436
