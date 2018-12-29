@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-25 14:43+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -243,7 +243,7 @@ msgid ""
 "counter on Paladin of Atonement."
 msgstr ""
 "Na początku każdego kroku utrzymania, jeśli straciłeś życie w poprzedniej "
-"turze, połóż znacznik +1/+1 na tym stworze."
+"turze, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../RIX.rst:87
 msgid "When Paladin of Atonement dies, you gain life equal to its toughness."
@@ -307,7 +307,7 @@ msgid ""
 "When Sanguine Glorifier enters the battlefield, put a +1/+1 counter on "
 "another target Vampire you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, połóż znacznik +1/+1 na innym "
+"Kiedy ta karta wejdzie na pole walki, umieść znacznik +1/+1 na innym "
 "wskazanym Wampirze pod twoim władaniem."
 
 #: ../../RIX.rst:116
@@ -1074,7 +1074,7 @@ msgid ""
 "put a +1/+1 counter on Mausoleum Harpy."
 msgstr ""
 "Ilekroć inny stwór pod twoim władaniem umiera, jeśli masz błogosławieństwo "
-"miasta, połóż znacznik +1/+1 na tym stworze."
+"miasta, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../RIX.rst:428
 #, fuzzy
@@ -1174,8 +1174,8 @@ msgid ""
 "|mana_b|, Reveal Tetzimoc, Primal Death from your hand: Put a prey counter "
 "on target creature. Activate this ability only during your turn."
 msgstr ""
-"|mana_b|, ujawnij tę kartę z twojej ręki: Połóż znacznik ofiary na wskazanym "
-"stworze. Aktywują tę zdolność tylko w trakcie twojej tury."
+"|mana_b|, ujawnij tę kartę z twojej ręki: Umieść znacznik ofiary na "
+"wskazanym stworze. Aktywują tę zdolność tylko w trakcie twojej tury."
 
 #: ../../RIX.rst:465
 msgid ""
@@ -1203,7 +1203,7 @@ msgid ""
 msgstr ""
 "|mana_1|, odrzuć kartę: Ten stwór eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../RIX.rst:480
@@ -1736,7 +1736,7 @@ msgid ""
 "Whenever another Merfolk enters the battlefield under your control, put a +1/"
 "+1 counter on target Merfolk you control."
 msgstr ""
-"Ilekroć inny Wodnik wejdzie na pole walki pod twoim władaniem, połóż "
+"Ilekroć inny Wodnik wejdzie na pole walki pod twoim władaniem, umieść "
 "znacznik +1/1+ na wskazanym Wodniku pod twoim władaniem."
 
 #: ../../RIX.rst:686
@@ -1752,7 +1752,7 @@ msgid ""
 msgstr ""
 "Wskazany stwór pod twoim władaniem eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../RIX.rst:685
@@ -1779,7 +1779,7 @@ msgid ""
 "Whenever another Merfolk enters the battlefield under your control, put a +1/"
 "+1 counter on Forerunner of the Heralds."
 msgstr ""
-"Ilekroć inny Wodnik wejdzie na pole walki pod twoim władaniem, połóż "
+"Ilekroć inny Wodnik wejdzie na pole walki pod twoim władaniem, umieść "
 "znacznik +1/+1 na tym stworze."
 
 #: ../../RIX.rst:698
@@ -1823,7 +1823,7 @@ msgid ""
 "fights target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
-"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
 "stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
 "nawzajem obrażenia równe ich sile.)"
 
@@ -1837,7 +1837,7 @@ msgid ""
 "When Jade Bearer enters the battlefield, put a +1/+1 counter on another "
 "target Merfolk you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, połóż znacznik +1/+1 na wskazanym "
+"Kiedy ta karta wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
 "Wodniku pod twoim władaniem."
 
 #: ../../RIX.rst:718
@@ -1867,7 +1867,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, eksploruje, a następnie eksploruje "
 "ponownie. (Ujawnij wierzchnią kartę twojej biblioteki. Dołóż ową kartę do "
-"twojej ręki jeśli to ląd. W przeciwnym razie połóż znacznik +1/+1 na tym "
+"twojej ręki jeśli to ląd. W przeciwnym razie umieść znacznik +1/+1 na tym "
 "stworze, a następnie odłóż ową kartę lub umieść ją w twoim cmentarzu. "
 "Następnie powtórz ten proces.)"
 
@@ -1935,7 +1935,7 @@ msgid ""
 msgstr ""
 "Ilekroć jakiś stwór wchodzi na pole walki pod twoje władanie, ów stwór "
 "eksploruje. (Ujawnij wierzchnią kartę twojej biblioteki. Dołóż ową kartę do "
-"twojej ręki jeśli to ląd. W przeciwnym razie połóż znacznik +1/+1 na danym "
+"twojej ręki jeśli to ląd. W przeciwnym razie umieść znacznik +1/+1 na danym "
 "stworze, a następnie odłóż ową kartę lub umieść ją w twoim cmentarzu.)"
 
 #: ../../RIX.rst:750
@@ -1967,7 +1967,7 @@ msgstr "Strength of the Pack"
 
 #: ../../RIX.rst:757
 msgid "Put two +1/+1 counters on each creature you control."
-msgstr "Połóż po dwa znaczniki +1/+1 na każdym stworze pod twoim władaniem."
+msgstr "Umieść po dwa znaczniki +1/+1 na każdym stworze pod twoim władaniem."
 
 #: ../../RIX.rst:764
 #, fuzzy
@@ -2032,7 +2032,7 @@ msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle your library."
 msgstr ""
-"Poszukaj w twojej bibliotece karty bazowego lądu, połóż ją zatapowaną na "
+"Poszukaj w twojej bibliotece karty bazowego lądu, umieść ją zatapowaną na "
 "polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../RIX.rst:790
@@ -2069,7 +2069,7 @@ msgid ""
 "When World Shaper dies, put all land cards from your graveyard onto the "
 "battlefield tapped."
 msgstr ""
-"Kiedy ten stwór umrze, połóż wszystkie karty lądów z twojego cmentarza na "
+"Kiedy ten stwór umrze, umieść wszystkie karty lądów z twojego cmentarza na "
 "polu walki, zatapowane."
 
 #: ../../RIX.rst:804
@@ -2168,7 +2168,7 @@ msgstr "Więź życia"
 #: ../../RIX.rst:835
 msgid ""
 "Whenever another creature dies, put a +1/+1 counter on Elenda, the Dusk Rose."
-msgstr "Ilekroć inny stwór umrze, połóż znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć inny stwór umrze, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../RIX.rst:837
 msgid ""
@@ -2189,7 +2189,7 @@ msgid ""
 "creature you control. Then if that creature has three or more +1/+1 counters "
 "on it, transform Hadana's Climb."
 msgstr ""
-"Na początku walki w twojej turze, połóż znacznik +1/1+ na wskazanym stworze "
+"Na początku walki w twojej turze, umieść znacznik +1/1+ na wskazanym stworze "
 "pod twoim władaniem. Następnie jeśli ów stwór ma na sobie trzy lub więcej "
 "znaczników +1/+1, transformuj  ten urok."
 
@@ -2219,7 +2219,7 @@ msgid ""
 "+1: Put a loyalty counter on Huatli, Radiant Champion for each creature you "
 "control."
 msgstr ""
-"+1: Połóż na tym wędrowcu znacznik lojalności za każdego stwora pod twoim "
+"+1: Umieść na tym wędrowcu znacznik lojalności za każdego stwora pod twoim "
 "władaniem."
 
 #: ../../RIX.rst:855
@@ -2308,8 +2308,8 @@ msgid ""
 "Tap five untapped Merfolk you control: Put a +1/+1 counter on each Merfolk "
 "you control."
 msgstr ""
-"Zatapuj pięć odtapowanych Wodników pod twoim władaniem: Połóż znacznik +1/+1 "
-"na każdym Wodniku pod twoim władaniem."
+"Zatapuj pięć odtapowanych Wodników pod twoim władaniem: Umieść znacznik +1/+"
+"1 na każdym Wodniku pod twoim władaniem."
 
 #: ../../RIX.rst:888
 #, fuzzy
@@ -2401,7 +2401,7 @@ msgid ""
 "|mana_2| |mana_w| |mana_b|, |tap|: Put a creature card exiled with this "
 "permanent onto the battlefield under your control."
 msgstr ""
-"|mana_2| |mana_w| |mana_b|, |tap|: Połóż na polu walki pod twoim władaniem "
+"|mana_2| |mana_w| |mana_b|, |tap|: Umieść na polu walki pod twoim władaniem "
 "kartę stwora wygnaną tym permanentem."
 
 #: ../../RIX.rst:924
@@ -2449,7 +2449,7 @@ msgid ""
 "Whenever Resplendent Griffin attacks, if you have the city's blessing, put a "
 "+1/+1 counter on it."
 msgstr ""
-"Ilekroć ten stwór atakuje, jeśli masz błogosławieństwo miasta, połóż na nim "
+"Ilekroć ten stwór atakuje, jeśli masz błogosławieństwo miasta, umieść na nim "
 "znacznik +1/+1."
 
 #: ../../RIX.rst:946
@@ -2462,7 +2462,7 @@ msgid ""
 "Enrage — Whenever Siegehorn Ceratops is dealt damage, put two +1/+1 counters "
 "on it. (It must survive the damage to get the counters.)"
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, połóż na nim dwa "
+"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, umieść na nim dwa "
 "znaczniki +1/+1. (Musi przeżyć obrażenia, by otrzymać znaczniki.)"
 
 #: ../../RIX.rst:952
@@ -2762,7 +2762,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"połóż ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../RIX.rst:1072
 #, fuzzy
