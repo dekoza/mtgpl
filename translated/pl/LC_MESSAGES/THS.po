@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 01:16+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -262,7 +262,7 @@ msgstr "Elspeth, Sun's Champion"
 #: ../../THS.rst:55
 #, fuzzy
 msgid "+1: Create three 1/1 white Soldier creature tokens."
-msgstr "+1: Połóż na polu walki trzy żetony białego stwora Soldier 1/1."
+msgstr "+1: Umieść na polu walki trzy żetony białego stwora Soldier 1/1."
 
 # 396ca324092c47dd9674086cacd5bd1b
 # dc7610172a904810a55059dd4ec1af83
@@ -310,9 +310,9 @@ msgid ""
 "the mana costs of permanents you control counts toward your devotion to "
 "white.)"
 msgstr ""
-"Kiedy Evangel of Heliod wchodzi na pole walki, połóż na polu walki tyle "
-"żetonów białego stwora Soldier 1/1, ile wynosi twój kult białego. (Każda |"
-"mana_w| w kosztach many permanentów, którymi władasz wlicza się do twojego "
+"Kiedy Evangel of Heliod wchodzi na pole walki, umieść na polu walki tyle "
+"żetonów białego stwora Soldier 1/1, ile wynosi twój kult białego. (Każda "
+"|mana_w| w kosztach many permanentów, którymi władasz wlicza się do twojego "
 "kultu białego.)"
 
 # 493e9ecd5f5f4d9e99148bb76b346f58
@@ -335,7 +335,7 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Fabled Hero, put a +1/+1 "
 "counter on Fabled Hero."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący Fabled Hero, połóż znacznik +1/+1 "
+"Heroizm — Ilekroć rzucasz czar wskazujący Fabled Hero, umieść znacznik +1/+1 "
 "na Fabled Hero."
 
 # 4995c334d0744fe9b6834e368e1c7462
@@ -353,8 +353,8 @@ msgid ""
 "counter on Favored Hoplite and prevent all damage that would be dealt to it "
 "this turn."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący Favored Hoplite, połóż znacznik +1/"
-"+1 na Favored Hoplite i zapobiegnij wszystkim obrażeniom, które mogłyby mu "
+"Heroizm — Ilekroć rzucasz czar wskazujący Favored Hoplite, umieść znacznik +"
+"1/+1 na Favored Hoplite i zapobiegnij wszystkim obrażeniom, które mogłyby mu "
 "być zadane w tej turze."
 
 # 69b3f9d5f63049b8a207560e8bf187b5
@@ -454,7 +454,7 @@ msgid ""
 "|mana_2| |mana_w| |mana_w|: Create a 2/1 white Cleric enchantment creature "
 "token."
 msgstr ""
-"|mana_2| |mana_w| |mana_w|: Połóż na polu walki żeton białego stwora-uroku "
+"|mana_2| |mana_w| |mana_w|: Umieść na polu walki żeton białego stwora-uroku "
 "Cleric 2/1."
 
 # f5b33e7f3baa4a2d8e9b4725379f5f08
@@ -552,7 +552,7 @@ msgid ""
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_3| |mana_w| |mana_w| |mana_w|: Monstrualność 3. (Jeśli ten stwór nie "
-"jest monstrualny, połóż na nim trzy znaczniki +1/+1 i staje się on "
+"jest monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on "
 "monstrualny.)"
 
 # 438039ed9f104e66bf27e5622e83bc02
@@ -651,7 +651,7 @@ msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod."
 msgstr ""
-"Ilekroć zauroczony stwór atakuje, połóż na nim znacznik +1/+1. Następnie "
+"Ilekroć zauroczony stwór atakuje, umieść na nim znacznik +1/+1. Następnie "
 "jeśli ma on trzy lub więcej znaczników +1/+1, poświęć Ordeal of Heliod."
 
 # 794c890c02c64b8cb247386afba87f07
@@ -673,7 +673,7 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 "
 "counter on each creature you control."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar, który wskazuje Phalanx Leader, połóż "
+"Heroizm — Ilekroć rzucasz czar, który wskazuje Phalanx Leader, umieść "
 "znacznik +1/+1 na każdym stworze, którym władasz."
 
 # dc59748bff07458993e0220d6f1d9c19
@@ -820,8 +820,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Wingsteed Rider, put a +1/+1 "
 "counter on Wingsteed Rider."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący na Wingsteed Rider, połóż znacznik "
-"+1/+1 na Wingsteed Rider."
+"Heroizm — Ilekroć rzucasz czar wskazujący na Wingsteed Rider, umieść "
+"znacznik +1/+1 na Wingsteed Rider."
 
 # 17cf42dfd8b44888bdcf7b53c910dd3f
 # 4ec75892c3ac4ac18903d369771f2142
@@ -1067,7 +1067,7 @@ msgstr "Griptide"
 # ebdbeb35b54f48a4af383bc51d92980b
 #: ../../THS.rst:275
 msgid "Put target creature on top of its owner's library."
-msgstr "Połóż wskazanego stwora na wierzchu biblioteki jego właściciela."
+msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
 
 # 4056c8a3c7434a18a65b6a46b10821d9
 # 5a9857567fff4f9db172ccb841e61665
@@ -1085,7 +1085,7 @@ msgid ""
 "library and the rest on top in any order.)"
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
-"karty twojej biblioteki, następnie połóż dowolne z nich na spodzie twojej "
+"karty twojej biblioteki, następnie umieść dowolne z nich na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 # a3923358e00e404892134d839b0f6a31
@@ -1132,7 +1132,7 @@ msgid ""
 "the mana costs of permanents you control counts toward your devotion to "
 "blue.)"
 msgstr ""
-"Kiedy Master of Waves wchodzi na pole walki, połóż na polu walki tyle "
+"Kiedy Master of Waves wchodzi na pole walki, umieść na polu walki tyle "
 "żetonów niebieskiego stwora Elemental 1/0, ile wynosi twój kult "
 "niebieskiego. (Każda |mana_u| w kosztach many permanentów, którymi władasz "
 "wlicza się do twojego kultu niebieskiego.)"
@@ -1222,7 +1222,7 @@ msgid ""
 "and the rest on top in any order.)"
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
-"karty twojej biblioteki, następnie połóż dowolne z nich na spodzie twojej "
+"karty twojej biblioteki, następnie umieść dowolne z nich na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 # 74acb0ba54294a678903f7cebdbb6b88
@@ -1239,7 +1239,7 @@ msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Thassa."
 msgstr ""
-"Ilekroć zauroczony stwór atakuje, połóż na nim znacznik +1/+1. Następnie "
+"Ilekroć zauroczony stwór atakuje, umieść na nim znacznik +1/+1. Następnie "
 "jeśli ma on trzy lub więcej znaczników +1/+1, poświęć Ordeal of Thassa."
 
 # 7d34209d88cc4d28991779690201a34f
@@ -1290,7 +1290,7 @@ msgid ""
 "the rest on top in any order.)"
 msgstr ""
 "Kiedy Prognostic Sphinx atakuje, wróż 3. (Spójrz na trzy wierzchnie karty "
-"twojej biblioteki, następnie połóż dowolną liczbę z nich na spodzie twojej "
+"twojej biblioteki, następnie umieść dowolną liczbę z nich na spodzie twojej "
 "biblioteki, a pozostałe na wierzchu w dowolnej kolejności.)"
 
 # 8398a664982c4336842180c346331a16
@@ -1334,7 +1334,7 @@ msgid ""
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_5| |mana_u| |mana_u|: Monstrualność 3. (Jeśli ten stwór nie jest "
-"monstrualny, połóż na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
+"monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # 3922694598264a39a2337274d003d350
 # 98312b01f173435c963f421443b2b927
@@ -1361,7 +1361,8 @@ msgid ""
 "monstrous, put four +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_6| |mana_u| |mana_u|: Monstrualność 4. (Jeśli ten stwór nie jest "
-"monstrualny, połóż na nim cztery znaczniki +1/+1 i staje się on monstrualny.)"
+"monstrualny, umieść na nim cztery znaczniki +1/+1 i staje się on "
+"monstrualny.)"
 
 # c265c8f3b7ca413fb8d61a8e8a1aec0e
 # 7a540adb845f4ac09e29ce5ee6d24f27
@@ -1603,7 +1604,7 @@ msgid ""
 "mana_b| in the mana costs of permanents you control counts toward your "
 "devotion to black.)"
 msgstr ""
-"Kiedy Abhorrent Overlord wchodzi na pole walki, połóż na polu walki tyle "
+"Kiedy Abhorrent Overlord wchodzi na pole walki, umieść na polu walki tyle "
 "żetonów czarnego stwora Harpia 1/1 z lataniem, ile wynosi twój kult "
 "czarnego. (Każda |mana_b| w kosztach many permanentów, którymi władasz "
 "wlicza się do twojego kultu czarnego.)"
@@ -1922,7 +1923,7 @@ msgid ""
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_6| |mana_b| |mana_b|: Monstrualność 3. (Jeśli ten stwór nie jest "
-"monstrualny, połóż na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
+"monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # 96a3f0376a8342eaa017611c9df6944f
 # f3921e8a84fb44bc937b0670984a9676
@@ -1960,7 +1961,7 @@ msgid ""
 "monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
 msgstr ""
 "|mana_5| |mana_b| |mana_b|: Monstrualność 1. (Jeśli ten stwór nie jest "
-"monstrualny, połóż na nim znacznik +1/+1 i staje się on monstrualny.)"
+"monstrualny, umieść na nim znacznik +1/+1 i staje się on monstrualny.)"
 
 # ec868cb300c148fdb0bc24a9b6824663
 # 0fa4669677504ca5bcb495475be54f7d
@@ -2089,7 +2090,7 @@ msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos."
 msgstr ""
-"Ilekroć zauroczony stwór atakuje, połóż na nim znacznik +1/+1. Następnie "
+"Ilekroć zauroczony stwór atakuje, umieść na nim znacznik +1/+1. Następnie "
 "jeśli ma on trzy lub więcej znaczników +1/+1, poświęć Ordeal of Erebos."
 
 # 20a9d8517aab422187ca05841b63a71d
@@ -2128,8 +2129,8 @@ msgid ""
 "library and the rest on top in any order.)"
 msgstr ""
 "Wróż 2, następnie dobierz dwie karty. Tracisz 2 życia. (By wróżyć 2, spójrz "
-"na dwie wierzchnie karty twojej biblioteki, następnie połóż dowolną liczbę z "
-"nich na spodzie twojej biblioteki, a pozostałe na wierzchu w dowolnej "
+"na dwie wierzchnie karty twojej biblioteki, następnie umieść dowolną liczbę "
+"z nich na spodzie twojej biblioteki, a pozostałe na wierzchu w dowolnej "
 "kolejności.)"
 
 # 78e904aa798949dda6b7ffa2160bf065
@@ -2320,7 +2321,7 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Akroan Crusader, create a "
 "1/1 red Soldier creature token with haste."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący na Akroan Crusader, połóż na polu "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Akroan Crusader, umieść na polu "
 "walki żeton czerwonego stwora Soldier 1/1 z pośpiechem."
 
 # f9573616301740f6a85a74e76327f6f6
@@ -2468,7 +2469,7 @@ msgid ""
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_5| |mana_r| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
-"monstrualny, połóż na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
+"monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # 1b1307905def42028cf706257ca40629
 # e69d3c2c1a9f416688722461c3e49a07
@@ -2559,7 +2560,7 @@ msgid ""
 "|mana_2| |mana_r|, |tap|, Sacrifice a land: Create a 3/3 colorless Golem "
 "enchantment artifact creature token."
 msgstr ""
-"|mana_2| |mana_r|, |tap|, poświęć ląd: Połóż na polu walki żeton "
+"|mana_2| |mana_r|, |tap|, poświęć ląd: Umieść na polu walki żeton "
 "bezkolorowego artefaktycznego stwora-uroku Golem 3/3."
 
 # 5192db2a9cfb4d9daa0475a3b395feab
@@ -2592,7 +2593,7 @@ msgid ""
 "three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_5| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest monstrualny, "
-"połóż na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
+"umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # 4fe613c02d744a7cbc15cb305178628e
 # 5631b4260e384ac998be69230d9bf1e1
@@ -2684,7 +2685,7 @@ msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros."
 msgstr ""
-"Ilekroć zauroczony stwór atakuje, połóż na nim znacznik +1/+1. Następnie "
+"Ilekroć zauroczony stwór atakuje, umieść na nim znacznik +1/+1. Następnie "
 "jeśli ma on trzy lub więcej znaczników +1/+1, poświęć Ordeal of Purphoros."
 
 # bb415f90eb9c4edc8dc1c67ac018e787
@@ -2916,7 +2917,7 @@ msgid ""
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_6| |mana_r| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
-"monstrualny, połóż na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
+"monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # 00641901be7b44958c72090566861aa5
 # de492daec35e4b67abbe5b7202ee35af
@@ -3074,7 +3075,7 @@ msgid ""
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_3| |mana_g| |mana_g| |mana_g|: Monstrualność 3. (Jeśli ten stwór nie "
-"jest monstrualny, połóż na nim trzy znaczniki +1/+1 i staje się on "
+"jest monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on "
 "monstrualny.)"
 
 # ffcc69da72454c8baa4abc2a609e2c32
@@ -3103,8 +3104,8 @@ msgid ""
 "and the rest on top in any order.)"
 msgstr ""
 "Zniszcz wskazany artefakt lub urok. Wróż 2. (By wróżyć 2, spójrz na dwie "
-"wierzchnie karty twojej biblioteki, następnie połóż dowolną liczbę z nich na "
-"spodzie twojej biblioteki, a pozostałe na wierzchu w dowolnej kolejności.)"
+"wierzchnie karty twojej biblioteki, następnie umieść dowolną liczbę z nich "
+"na spodzie twojej biblioteki, a pozostałe na wierzchu w dowolnej kolejności.)"
 
 # 87288a136c894c6397db21d9a1cda7c9
 # 5b5dece2a7f34531ba7a6597705d2b75
@@ -3153,13 +3154,13 @@ msgstr "Atakujące stwory, którymi władasz, mają dotyk śmierci."
 #, fuzzy
 msgid "|mana_1| |mana_g|, |tap|: Choose one —"
 msgstr ""
-"|mana_1| |mana_g|, |tap|: Wybierz jedno — Połóż znacznik +1/+1 na wskazanym "
+"|mana_1| |mana_g|, |tap|: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym "
 "stworze"
 
 #: ../../THS.rst:839
 #, fuzzy
 msgid "Put a +1/+1 counter on target creature."
-msgstr "{1}{G}, {T}: Wybierz jedno — Połóż znacznik +1/+1 na wskazanym stworze"
+msgstr "{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
 
 #: ../../THS.rst:841
 #, fuzzy
@@ -3177,7 +3178,7 @@ msgid ""
 "Put up to four target cards from your graveyard on the bottom of your "
 "library in any order."
 msgstr ""
-"albo połóż najwyżej cztery wskazane karty ze swojego cmentarza na spodzie "
+"albo umieść najwyżej cztery wskazane karty ze swojego cmentarza na spodzie "
 "swojej biblioteki w dowolnej kolejności."
 
 # 8435d3f59cc5446abf1f27dd4651255c
@@ -3194,7 +3195,7 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Centaur Battlemaster, put "
 "three +1/+1 counters on Centaur Battlemaster."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący na Centaur Battlemaster, połóż "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Centaur Battlemaster, umieść "
 "trzy znaczniki +1/+1 na Centaur Battlemaster."
 
 # 5531fe1a0f7440d787489e166350b03d
@@ -3213,7 +3214,7 @@ msgid ""
 "graveyard."
 msgstr ""
 "Ujawnij pięć wierzchnich kart twojej biblioteki. Możesz umieścić kartę "
-"stwora lub uroku spośród nich w twojej ręce. Połóż pozostałe w twoim "
+"stwora lub uroku spośród nich w twojej ręce. Umieść pozostałe w twoim "
 "cmentarzu."
 
 # ab7afa1129ad4e2086c6071d01fe36b6
@@ -3370,7 +3371,7 @@ msgid ""
 msgstr ""
 "|mana_7| |mana_g| |mana_g|: Monstrualność 5. Aktywacja tej zdolności "
 "kosztuje o |mana_1| mniej za każdego stwora w twoim cmentarzu. (Jeśli ten "
-"stwór nie jest monstrualny, połóż na nim pięć znaczników +1/+1 i staje się "
+"stwór nie jest monstrualny, umieść na nim pięć znaczników +1/+1 i staje się "
 "on monstrualny.)"
 
 # 20feefa75af84bbab4c63ab80918d338
@@ -3386,7 +3387,7 @@ msgid ""
 "four +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_6| |mana_g|: Monstrualność 4. (Jeśli ten stwór nie jest monstrualny, "
-"połóż na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
+"umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # 3a8c09095c4c42c288c29a966f920990
 # bdbdea86b7f5481db0f79f380a096c7a
@@ -3507,7 +3508,7 @@ msgid ""
 "Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it "
 "has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea."
 msgstr ""
-"Ilekroć zauroczony stwór atakuje, połóż na nim znacznik +1/+1. Następnie "
+"Ilekroć zauroczony stwór atakuje, umieść na nim znacznik +1/+1. Następnie "
 "jeśli ma on trzy lub więcej znaczników +1/+1, poświęć Ordeal of Nylea."
 
 # bb21336691f44b49b1cbaec8c1f506fe
@@ -3518,7 +3519,7 @@ msgid ""
 "land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Kiedy poświęcasz Ordeal of Nylea, poszukaj w twojej bibliotece najwyżej "
-"dwóch kart zwykłych lądów, połóż je na polu walki zatapowane, a następnie "
+"dwóch kart zwykłych lądów, umieść je na polu walki zatapowane, a następnie "
 "przetasuj twoją bibliotekę."
 
 # 3dc538b72219430b91488804c103aee5
@@ -3542,7 +3543,7 @@ msgid ""
 "monstrous, put X +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_x| |mana_x| |mana_g|: Monstrualność X. (Jeśli ten stwór nie jest "
-"monstrualny, połóż na nim X znaczników +1/+1 i staje się on monstrualny.)"
+"monstrualny, umieść na nim X znaczników +1/+1 i staje się on monstrualny.)"
 
 # 1d2d222109104b3baa61828c27a3ad1f
 # cdd6d4324a934ccd946aae6606e2f2c2
@@ -3572,8 +3573,8 @@ msgid ""
 "on it equal to your devotion to green. (Each |mana_g| in the mana costs of "
 "permanents you control counts toward your devotion to green.)"
 msgstr ""
-"Kiedy Reverent Hunter wchodzi na pole walki, połóż na nim tyle znaczników +1/"
-"+1, ile wynosi twój kult zielonego. (Każda |mana_g| w kosztach many "
+"Kiedy Reverent Hunter wchodzi na pole walki, umieść na nim tyle znaczników +"
+"1/+1, ile wynosi twój kult zielonego. (Każda |mana_g| w kosztach many "
 "permanentów, którymi władasz wlicza się do twojego kultu zielonego.)"
 
 # d03ef3b806f94593acb4e5e799374022
@@ -3652,7 +3653,7 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Staunch-Hearted Warrior, put "
 "two +1/+1 counters on Staunch-Hearted Warrior."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący na Staunch-Hearted Warrior, połóż "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Staunch-Hearted Warrior, umieść "
 "dwa znaczniki +1/+1 na Staunch-Hearted Warrior."
 
 # d2ee6da629524d03bcfb2a9606341645
@@ -3802,7 +3803,7 @@ msgid ""
 "Nightmare Weaver onto the battlefield under your control. That creature is a "
 "Nightmare in addition to its other types."
 msgstr ""
-"-X: Połóż na polu walki pod swoim władaniem kartę stwora o łącznym koszcie "
+"-X: Umieść na polu walki pod swoim władaniem kartę stwora o łącznym koszcie "
 "many X wypędzoną z użyciem Ashiok, Nightmare Weaver. Ów stwór jest dodatkowo "
 "typu Nightmare."
 
@@ -3829,7 +3830,7 @@ msgid ""
 "card of your library, then you may put that card on the bottom of your "
 "library.)"
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący na Battlewise Hoplite, połóż "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Battlewise Hoplite, umieść "
 "znacznik +1/+1 na Battlewise Hoplite, a następnie wróż 1. (By wróżyć 1, "
 "spójrz na wierzchnią kartę twojej bilbioteki, następnie możesz położyć ową "
 "kartę na spodzie twojej biblioteki.)"
@@ -3912,7 +3913,7 @@ msgid ""
 "monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
 msgstr ""
 "|mana_3| |mana_g| |mana_w|: Monstrualność 1. (Jeśli ten stwór nie jest "
-"monstrualny, połóż na nim znacznik +1/+1 i staje się on monstrualny.)"
+"monstrualny, umieść na nim znacznik +1/+1 i staje się on monstrualny.)"
 
 # e613a749fcaf4c9a8699a9f4aef5f145
 # fab35b3b2693436aa773e95242b161c9
@@ -4024,7 +4025,7 @@ msgid ""
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_4| |mana_r| |mana_g|: Monstrualność 3. (Jeśli ten stwór nie jest "
-"monstrualny, połóż na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
+"monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # fcf682908beb469ba8b3fa28ec171245
 # b45a07bc45144261afffe947526efd7d
@@ -4306,7 +4307,7 @@ msgstr ""
 #, fuzzy
 msgid "0: Create a 2/2 red and green Satyr creature token with haste."
 msgstr ""
-"0: Połóż na polu walki żeton czerwono-zielonego stwora Satyr 2/2 z "
+"0: Umieść na polu walki żeton czerwono-zielonego stwora Satyr 2/2 z "
 "pośpiechem."
 
 # 064aa8e960b64a13ae2c2912055e3ea0
@@ -4375,7 +4376,7 @@ msgid ""
 "land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_3|, poświęć Burnished Hart: Poszukaj w twojej bibliotece najwyżej dwie "
-"karty zwykłych lądów, połóż je na polu walki zatapowane, a następnie "
+"karty zwykłych lądów, umieść je na polu walki zatapowane, a następnie "
 "przetasuj twoją bibliotekę."
 
 # 00a90a607b9d499d976522559118d5a2
@@ -4395,8 +4396,8 @@ msgid ""
 "|mana_10|: Monstrosity 10. (If this creature isn't monstrous, put ten +1/+1 "
 "counters on it and it becomes monstrous.)"
 msgstr ""
-"|mana_10|: Monstrualność 10. (Jeśli ten stwór nie jest monstrualny, połóż na "
-"nim dziesięć znaczników +1/+1 i staje się on monstrualny.)"
+"|mana_10|: Monstrualność 10. (Jeśli ten stwór nie jest monstrualny, umieść "
+"na nim dziesięć znaczników +1/+1 i staje się on monstrualny.)"
 
 # 05e188938cb7461392b89e683b56e1d9
 # b32ab3093a584c6a8b14eb421b25a76c
