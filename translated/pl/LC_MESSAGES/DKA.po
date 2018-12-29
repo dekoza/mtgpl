@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 01:16+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dka/pl/>\n"
 "Language: pl\n"
@@ -601,7 +601,7 @@ msgstr ""
 # 7127c3aa7ba34562a832fca0cc4274f8
 #: ../../DKA.rst:211
 msgid "Put target creature on top of its owner's library."
-msgstr ""
+msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
 
 # fc3b1a5eee2c49b0b89a5fddd1ef4b11
 #: ../../DKA.rst:216
@@ -716,7 +716,7 @@ msgid ""
 "When Screeching Skaab enters the battlefield, put the top two cards of your "
 "library into your graveyard."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, połóż dwie wierzchnie karty twojej "
+"Kiedy ta karta wejdzie na pole walki, umieść dwie wierzchnie karty twojej "
 "biblioteki do twojego cmentarza."
 
 # 180847aa279543189839dd6404d69418
@@ -1702,8 +1702,9 @@ msgstr ""
 
 # 521e0ee6529d4bd8afeb1c6d5b9867cf
 #: ../../DKA.rst:675
+#, fuzzy
 msgid "Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
 
 # 8cdfe01c1f1245c0b14787af2a9d83aa
 #: ../../DKA.rst:677
@@ -2377,7 +2378,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"połóż ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
 
 # 8a82664ecc3b40518e2714cfb02226ca
 #: ../../DKA.rst:940
