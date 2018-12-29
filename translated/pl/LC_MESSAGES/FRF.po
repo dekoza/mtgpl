@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 01:16+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/frf/pl/>\n"
 "Language: pl\n"
@@ -52,7 +52,7 @@ msgid ""
 "−10: You gain 7 life, draw seven cards, then put up to seven permanent cards "
 "from your hand onto the battlefield."
 msgstr ""
-"–10: Zyskujesz 7 życia, dobierz siedem kart, następnie połóż na polu walki "
+"–10: Zyskujesz 7 życia, dobierz siedem kart, następnie umieść na polu walki "
 "co najwyżej siedem kart permanentów z twojej ręki."
 
 # da92892300654292b0fb31235987f357
@@ -69,7 +69,7 @@ msgid ""
 "it.)"
 msgstr ""
 "Wskazany gracz poświęca urok. Wesprzyj 1. (Wybierz stwora z najmniejszą "
-"wytrzymałością spośród stworów, którymi władasz i połóż na nim znacznik +1/"
+"wytrzymałością spośród stworów, którymi władasz i umieść na nim znacznik +1/"
 "+1.)"
 
 # e9105403868d42d8a33ac01df43fbb11
@@ -142,8 +142,8 @@ msgid ""
 "toughness among creatures you control and put two +1/+1 counters on it.)"
 msgstr ""
 "Kiedy Abzan Skycaptian umiera, wesprzyj 2. (Wybierz stwora z najmniejszą "
-"wytrzymałością spośród stworów, którymi władasz i połóż na nim dwa znaczniki "
-"+1/+1.)"
+"wytrzymałością spośród stworów, którymi władasz i umieść na nim dwa "
+"znaczniki +1/+1.)"
 
 # 2da1364fc1714d7daa485286d4468bcd
 #: ../../FRF.rst:36
@@ -197,7 +197,7 @@ msgid ""
 "Khans — At the beginning of combat on your turn, put two +1/+1 counters on "
 "target creature you control."
 msgstr ""
-"Chanowie — Z początkiem walki w twojej turze, połóż dwa znaczniki +1/+1 na "
+"Chanowie — Z początkiem walki w twojej turze, umieść dwa znaczniki +1/+1 na "
 "wskazanym stworze, którym władasz."
 
 # 8d9716acf7c3427dbc5d72f2e3bc53a7
@@ -276,8 +276,8 @@ msgid ""
 msgstr ""
 "Z początkiem twojego kroku końcowego wesprzyj X, gdzie X jest liczbą "
 "zatapowanych stworów, którymi władasz. (Wybierz stwora z najmniejszą "
-"wytrzymałością spośród stworów, którymi władasz i połóż na nim X znaczników +"
-"1/+1.)"
+"wytrzymałością spośród stworów, którymi władasz i umieść na nim X znaczników "
+"+1/+1.)"
 
 # dfaed490c224404d9c9c66c0ff458d30
 #: ../../FRF.rst:76
@@ -293,7 +293,7 @@ msgid ""
 "counters on it.)"
 msgstr ""
 "Kiedy Elite Scaleguard wchodzi na pole walki, wesprzyj 2. (Wybierz stwora z "
-"najmniejszą wytrzymałością spośród stworów, którymi władasz i połóż na nim "
+"najmniejszą wytrzymałością spośród stworów, którymi władasz i umieść na nim "
 "dwa znaczniki +1/+1.)"
 
 # 3ac97b7b3677491895b405bfc36cca61
@@ -324,7 +324,7 @@ msgid ""
 "among creatures you control and put two +1/+1 counters on it.)"
 msgstr ""
 "Zyskujesz 4 życia. Wesprzyj 2. (Wybierz stwora z najmniejszą wytrzymałością "
-"spośród stworów, którymi władasz i połóż na nim dwa znaczniki +1/+1.)"
+"spośród stworów, którymi władasz i umieść na nim dwa znaczniki +1/+1.)"
 
 # d1e79afcbd584f53b8627a6c766d8f99
 #: ../../FRF.rst:92
@@ -369,7 +369,7 @@ msgid ""
 msgstr ""
 "Kiedy Lightform wchodzi na pole walki, staje się Aurą z \"zaurocz stwora\". "
 "Objaw wierzchnią kartę twojej biblioteki i dołącz do niej Lightform. (Aby "
-"objawić kartę, połóż ją na polu walki frontem w dół jako stwora 2/2. Odwróć "
+"objawić kartę, umieść ją na polu walki frontem w dół jako stwora 2/2. Odwróć "
 "ją frontem w górę w dowolnym momencie za jej koszt many jeśli jest to karta "
 "stwora.)"
 
@@ -432,7 +432,7 @@ msgid ""
 "battlefield face down as a 2/2 creature. Turn it face up any time for its "
 "mana cost if it's a creature card.)"
 msgstr ""
-"|mana_3| |mana_w|: Objaw wierzchnią kartę twojej biblioteki. (Połóż ową "
+"|mana_3| |mana_w|: Objaw wierzchnią kartę twojej biblioteki. (Umieść ową "
 "kartę na polu walki frontem w dół jako stwora 2/2. Odwróć ją frontem w górę "
 "w dowolnym momencie za jej koszt many jeśli jest to karta stwora.)"
 
@@ -449,7 +449,7 @@ msgid ""
 "Whenever you cast a noncreature spell, create a 1/1 white Monk creature "
 "token with prowess."
 msgstr ""
-"Ilekroć rzucasz czar nie będący stworem, połóż na polu walki żeton białego "
+"Ilekroć rzucasz czar nie będący stworem, umieść na polu walki żeton białego "
 "stwora Mnich 1/1 z Walecznością."
 
 # d0c1e72443e24308921a9afc1cceadba
@@ -537,13 +537,13 @@ msgstr "Kiedy Sandsteppe Outcast wchodzi na pole walki, wybierz jedno —"
 # e683eea8c99b422c83abb584bb328051
 #: ../../FRF.rst:147
 msgid "Put a +1/+1 counter on Sandsteppe Outcast."
-msgstr "Połóż znacznik +1/+1 na Sandsteppe Outcast."
+msgstr "Umieść znacznik +1/+1 na Sandsteppe Outcast."
 
 # ae8c0938cdeb4806829eb5fab8310cc9
 #: ../../FRF.rst:149
 #, fuzzy
 msgid "Create a 1/1 white Spirit creature token with flying."
-msgstr "Połóż na polu walki żeton białego stwora Duch 1/1 z Lataniem."
+msgstr "Umieść na polu walki żeton białego stwora Duch 1/1 z Lataniem."
 
 # 57fd9ca93d4d4384a44263c40a622645
 #: ../../FRF.rst:154
@@ -558,7 +558,7 @@ msgid ""
 "down as a 2/2 creature. Turn it face up any time for its mana cost if it's a "
 "creature card.)"
 msgstr ""
-"Objaw wierzchnią kartę twojej biblioteki. (Połóż ją na polu walki frontem w "
+"Objaw wierzchnią kartę twojej biblioteki. (Umieść ją na polu walki frontem w "
 "dół jako stwora 2/2. Odwróć ją frontem w górę w dowolnym momencie za jej "
 "koszt many jeśli jest to karta stwora.)"
 
@@ -587,7 +587,7 @@ msgid ""
 "your graveyard as it resolves."
 msgstr ""
 "|mana_2| |mana_ur| |mana_ur|: Następnym razem gdy rzucisz z ręki sztuczkę "
-"lub obrzęd, w trakcie jego rozpatrywania połóż ową kartę w twojej ręce "
+"lub obrzęd, w trakcie jego rozpatrywania umieść ową kartę w twojej ręce "
 "zamiast na cmentarzu."
 
 # cfe3f67f877149b7bed4b25c27e416d1
@@ -658,7 +658,7 @@ msgstr "Kiedy Aven Surveyor wchodzi na pole walki, wybierz jedno —"
 # 26d7f84996dd4aebac63458611c7fa1c
 #: ../../FRF.rst:187
 msgid "Put a +1/+1 counter on Aven Surveyor."
-msgstr "Połóż znacznik +1/+1 na Aven Surveyor."
+msgstr "Umieść znacznik +1/+1 na Aven Surveyor."
 
 # f09aeef18f0d444a8f6f356bea48b545
 #: ../../FRF.rst:189
@@ -682,7 +682,7 @@ msgid ""
 msgstr ""
 "Kiedy Cloudform wchodzi na pole walki, staje się Aurą z \"zaurocz stwora\". "
 "Objaw wierzchnią kartę twojej biblioteki i dołącz do niej Cloudform. (Aby "
-"objawić kartę, połóż ją na polu walki frontem w dół jako stwora 2/2. Odwróć "
+"objawić kartę, umieść ją na polu walki frontem w dół jako stwora 2/2. Odwróć "
 "ją frontem w górę w dowolnym momencie za jej koszt many jeśli jest to karta "
 "stwora.)"
 
@@ -759,7 +759,7 @@ msgid ""
 msgstr ""
 "Kiedy Jeskai Inflitrator zadaje graczowi obrażenia bitewne, wypędź go oraz "
 "wierzchnią kartę twojej biblioteki w postaci zakrytego stosu, przetasuj ów "
-"stos, a następnie objaw owe karty. (Aby objawić kartę, połóż ją na polu "
+"stos, a następnie objaw owe karty. (Aby objawić kartę, umieść ją na polu "
 "walki frontem w dół jako stwora 2/2. Odwróć ją frontem w górę w dowolnym "
 "momencie za jej koszt many jeśli jest to karta stwora.)"
 
@@ -1048,7 +1048,7 @@ msgid ""
 "When Sultai Skullkeeper enters the battlefield, put the top two cards of "
 "your library into your graveyard."
 msgstr ""
-"Kiedy Sultai SKullkeeper wchodzi na pole walki, połóż dwie wierzchnie karty "
+"Kiedy Sultai SKullkeeper wchodzi na pole walki, umieść dwie wierzchnie karty "
 "twojej biblioteki do twojego cmentarza."
 
 # a7777eb368cb465ba1d6a874f49bb0cc
@@ -1064,7 +1064,7 @@ msgid ""
 "Return target creature to its owner's hand. You create a token that's a copy "
 "of that creature."
 msgstr ""
-"Zwróć wskazanego stwora do ręki jego właściciela. Połóż na polu walki żeton "
+"Zwróć wskazanego stwora do ręki jego właściciela. Umieść na polu walki żeton "
 "będący kopią owego stwora."
 
 # 737e90126d6548ad94fa2c7d1e61e8e0
@@ -1111,7 +1111,7 @@ msgstr "Whisk Away"
 msgid ""
 "Put target attacking or blocking creature on top of its owner's library."
 msgstr ""
-"Połóż wskazanego atakującego lub blokującego stwora na wierzchu biblioteki "
+"Umieść wskazanego atakującego lub blokującego stwora na wierzchu biblioteki "
 "jego właściciela."
 
 # 7b73f657246847698b6ce9394c18dcbd
@@ -1144,8 +1144,8 @@ msgid ""
 "time for its mana cost if it's a creature card.)"
 msgstr ""
 "Spójrz na dwie wierzchnie karty twojej biblioteki. Objaw jedną z owych kart, "
-"a następnie połóż drugą na wierzchu lub spodzie twojej biblioteki. (Aby "
-"objawić kartę, połóż ją na polu walki frontem w dół jako stwora 2/2. Odwróć "
+"a następnie umieść drugą na wierzchu lub spodzie twojej biblioteki. (Aby "
+"objawić kartę, umieść ją na polu walki frontem w dół jako stwora 2/2. Odwróć "
 "ją frontem w górę w dowolnym momencie za jej koszt many jeśli jest to karta "
 "stwora.)"
 
@@ -1178,7 +1178,7 @@ msgid ""
 "When Ancestral Vengeance enters the battlefield, put a +1/+1 counter on "
 "target creature you control."
 msgstr ""
-"Kiedy Ancestral Vengeance wchodzi na pole walki, połóż znacznik +1/+1 na "
+"Kiedy Ancestral Vengeance wchodzi na pole walki, umieść znacznik +1/+1 na "
 "wskazanym stworze, którym władasz."
 
 # 41b44f917a5e4867a0fa1173c0331b46
@@ -1317,7 +1317,7 @@ msgid ""
 "a Dragon, put two +1/+1 counters on it."
 msgstr ""
 "Zwróć wskazaną kartę stwora z twojego cmentarza na pole walki. Jeśli to "
-"Smok, połóż na nim dwa znaczniki +1/+1."
+"Smok, umieść na nim dwa znaczniki +1/+1."
 
 # c2478d5f368b406d9558d1e796b5f04c
 #: ../../FRF.rst:402
@@ -1335,7 +1335,7 @@ msgid ""
 msgstr ""
 "Wypędź wszystkie karty stworów z cmentarza wskazanego gracza w postaci "
 "zakrytego stosu, przetasuj ów stos, a następnie objaw owe karty. (Aby "
-"objawić kartę, połóż ją na polu walki frontem w dół jako stwora 2/2. Odwróć "
+"objawić kartę, umieść ją na polu walki frontem w dół jako stwora 2/2. Odwróć "
 "ją frontem w górę w dowolnym momencie za jej koszt many jeśli jest to karta "
 "stwora.)"
 
@@ -1353,7 +1353,7 @@ msgid ""
 "in your graveyard."
 msgstr ""
 "Wybierz wskazanego stwora. Przełóż trzy wierzchnie karty twojej biblioteki "
-"do twojego cmentarza, a następnie połóż tyle znaczników +1/+1 na owym "
+"do twojego cmentarza, a następnie umieść tyle znaczników +1/+1 na owym "
 "stworze, ile masz kart stworów w cmentarzu."
 
 # 6488b28576a849b8877a4a36018b1191
@@ -1376,7 +1376,7 @@ msgstr "Kiedy Hooded Assassin wchodzi na pole walki, wybierz jedno —"
 # cfd56186012449578076f14446896c65
 #: ../../FRF.rst:415
 msgid "Put a +1/+1 counter on Hooded Assassin."
-msgstr "Połóż znacznik +1/+1 na Hooded Assassin."
+msgstr "Umieść znacznik +1/+1 na Hooded Assassin."
 
 # c66872fe90354c1a9e0eddef0ae589fe
 #: ../../FRF.rst:417
@@ -1418,7 +1418,7 @@ msgid ""
 "Whenever Mardu Strike Leader attacks, create a 2/1 black Warrior creature "
 "token."
 msgstr ""
-"Ilekroć Mardu Strike Leader atakuje, połóż na polu walki żeton czarnego "
+"Ilekroć Mardu Strike Leader atakuje, umieść na polu walki żeton czarnego "
 "stwora Wojownik 2/1."
 
 # 4c79c4fe05384b24893e604655081c09
@@ -1521,7 +1521,7 @@ msgid ""
 "card.)"
 msgstr ""
 "|mana_1| |mana_b|, |tap|, poświęć innego stwora: Objaw wierzchnią kartę "
-"twojej biblioteki. (Połóż ową kartę na polu walki frontem w dół jako stwora "
+"twojej biblioteki. (Umieść ową kartę na polu walki frontem w dół jako stwora "
 "2/2. Odwróć ją frontem w górę w dowolnym momencie za jej koszt many jeśli "
 "jest to karta stwora.)"
 
@@ -1599,8 +1599,8 @@ msgid ""
 "card onto the battlefield face down as a 2/2 creature. Turn it face up any "
 "time for its mana cost if it's a creature card.)"
 msgstr ""
-"Kiedy Sultai Emissary umiera, objaw wierzchnią kartę twojej biblioteki. "
-"(Połóż ową kartę na polu walki frontem w dół jako stwora 2/2. Odwróć ją "
+"Kiedy Sultai Emissary umiera, objaw wierzchnią kartę twojej biblioteki. ("
+"Umieść ową kartę na polu walki frontem w dół jako stwora 2/2. Odwróć ją "
 "frontem w górę w dowolnym momencie za jej koszt many jeśli jest to karta "
 "stwora.)"
 
@@ -1635,8 +1635,9 @@ msgid ""
 "your graveyard, then return a nonland card of an opponent's choice from your "
 "graveyard to your hand."
 msgstr ""
-"Połóż cztery wierzchnie karty twojej biblioteki w twoim cmentarzu, następnie "
-"przywróć kartę stwora oraz kartę lądu z twojego cmentarza do twojej ręki."
+"Umieść cztery wierzchnie karty twojej biblioteki w twoim cmentarzu, "
+"następnie przywróć kartę stwora oraz kartę lądu z twojego cmentarza do "
+"twojej ręki."
 
 # 1271e3d8ce0c44f1b1c6d8836cda79fb
 #: ../../FRF.rst:500
@@ -1774,7 +1775,7 @@ msgstr "Kiedy Defiant Ogre wchodzi na pole walki, wybierz jedno —"
 # 41e2da4e55614d968bf447c0b72b5de9
 #: ../../FRF.rst:537
 msgid "Put a +1/+1 counter on Defiant Ogre."
-msgstr "Połóż znacznik +1/+1 na Defiant Ogre."
+msgstr "Umieść znacznik +1/+1 na Defiant Ogre."
 
 # 36c14b3af79f47fa81107713d4f4474f
 #: ../../FRF.rst:539
@@ -1813,8 +1814,8 @@ msgid ""
 "creature. Turn it face up any time for its mana cost if it's a creature "
 "card.)"
 msgstr ""
-"Objaw wierzchnią kartę twojej biblioteki, a następnie połóż na niej dwa "
-"znaczniki +1/+1. (Aby objawić kartę, połóż ją na polu walki frontem w dół "
+"Objaw wierzchnią kartę twojej biblioteki, a następnie umieść na niej dwa "
+"znaczniki +1/+1. (Aby objawić kartę, umieść ją na polu walki frontem w dół "
 "jako stwora 2/2. Odwróć ją frontem w górę w dowolnym momencie za jej koszt "
 "many jeśli jest to karta stwora.)"
 
@@ -1832,7 +1833,7 @@ msgid ""
 "target attacking creature and that's tapped and attacking. Exile the token "
 "at end of combat."
 msgstr ""
-"Ilekroć Flamerush Rider atakuje, połóż na polu walki zatapowany i atakujący "
+"Ilekroć Flamerush Rider atakuje, umieść na polu walki zatapowany i atakujący "
 "żeton, który jest kopią innego wskazanego atakującego stwora. Wypędź ów "
 "żeton na końcu walki."
 
@@ -2096,7 +2097,7 @@ msgid ""
 msgstr ""
 "Kiedy Rageform wchodzi na pole walki, staje się Aurą z \"zaurocz stwora\". "
 "Objaw wierzchnią kartę twojej biblioteki i dołącz Rageform do niej . (Aby "
-"objawić kartę, połóż ją na polu walki frontem w dół jako stwora 2/2. Odwróć "
+"objawić kartę, umieść ją na polu walki frontem w dół jako stwora 2/2. Odwróć "
 "ją frontem w górę w dowolnym momencie za jej koszt many jeśli jest to karta "
 "stwora.)"
 
@@ -2126,7 +2127,7 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
-"Ilekroć stwór, którym władasz zadaje graczowi obrażenia bitewne, połóż na "
+"Ilekroć stwór, którym władasz zadaje graczowi obrażenia bitewne, umieść na "
 "nim znacznik +1/+1."
 
 # b71877a98e9a49c097b44f78fe6822c5
@@ -2262,7 +2263,7 @@ msgstr "Kiedy Ainok Guide wchodzi na pole walki, wybierz jedno —"
 # dab6dd37b22f4d0d929ae3782e0ac963
 #: ../../FRF.rst:677
 msgid "Put a +1/+1 counter on Ainok Guide."
-msgstr "Połóż znacznik +1/+1 na Ainok Guide."
+msgstr "Umieść znacznik +1/+1 na Ainok Guide."
 
 # 3f850fd60b0948df90fe748136ff8481
 #: ../../FRF.rst:679
@@ -2271,7 +2272,7 @@ msgid ""
 "library and put that card on top of it."
 msgstr ""
 "Poszukaj w twojej bibliotece karty zwykłego lądu, ujawnij ją, następnie "
-"przetasuj twoją bibliotekę i połóż ową kartę na jej wierzchu."
+"przetasuj twoją bibliotekę i umieść ową kartę na jej wierzchu."
 
 # f171a69d39f14bffb2c0736a89bc68a7
 #: ../../FRF.rst:686
@@ -2309,7 +2310,7 @@ msgid ""
 "mana cost if it's a creature card.)"
 msgstr ""
 "Ilekroć Arashin War Beast zadaje obrażenia bitewne jednemu lub kilku "
-"blokującym stworom, objaw wierzchnią kartę twojej biblioteki. (Połóż ową "
+"blokującym stworom, objaw wierzchnią kartę twojej biblioteki. (Umieść ową "
 "kartę na polu walki frontem w dół jako stwora 2/2. Odwróć ją frontem w górę "
 "w dowolnym momencie za jej koszt many jeśli jest to karta stwora.)"
 
@@ -2358,7 +2359,7 @@ msgid ""
 "control and put three +1/+1 counters on it.)"
 msgstr ""
 "Wesprzyj 3. (Wybierz stwora z najmniejszą wytrzymałością spośród stworów, "
-"którymi władasz i połóż na nim trzy znaczniki +1/+1.)"
+"którymi władasz i umieść na nim trzy znaczniki +1/+1.)"
 
 # d6e8174090634e04a6c953618cf0d0b2
 #: ../../FRF.rst:712
@@ -2390,10 +2391,10 @@ msgid ""
 "manifest a card, put it onto the battlefield face down as a 2/2 creature. "
 "Turn it face up any time for its mana cost if it's a creature card.)"
 msgstr ""
-"Objaw wierzchnią kartę twojej biblioteki, a następnie połóż na niej znacznik "
-"+1/+1. (Aby objawić kartę, połóż ją na polu walki frontem w dół jako stwora "
-"2/2. Odwróć ją frontem w górę w dowolnym momencie za jej koszt many jeśli "
-"jest to karta stwora.)"
+"Objaw wierzchnią kartę twojej biblioteki, a następnie umieść na niej "
+"znacznik +1/+1. (Aby objawić kartę, umieść ją na polu walki frontem w dół "
+"jako stwora 2/2. Odwróć ją frontem w górę w dowolnym momencie za jej koszt "
+"many jeśli jest to karta stwora.)"
 
 # 5b477d86bf9c4e1d99fb7de909e8043a
 #: ../../FRF.rst:724
@@ -2466,7 +2467,7 @@ msgid ""
 "fights target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
-"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
 "stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
 "nawzajem obrażenia równe ich sile.)"
 
@@ -2483,10 +2484,10 @@ msgid ""
 "tapped, then shuffle your library. Bolster 1. (Choose a creature with the "
 "least toughness among creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
-"Poszukaj w twojej bibliotece karty zwykłego lądu, połóż ją zatapowaną na "
+"Poszukaj w twojej bibliotece karty zwykłego lądu, umieść ją zatapowaną na "
 "polu walki, następnie przetasuj twoją bibliotekę. Wesprzyj 1. (Wybierz "
-"stwora z najmniejszą wytrzymałością spośród stworów, którymi władasz i połóż "
-"na nim znacznik +1/+1.)"
+"stwora z najmniejszą wytrzymałością spośród stworów, którymi władasz i "
+"umieść na nim znacznik +1/+1.)"
 
 # da08e42a5dcc48fb96526f8b786a4427
 #: ../../FRF.rst:750
@@ -2539,8 +2540,8 @@ msgid ""
 "+1/+1 counters on it.)"
 msgstr ""
 "Kiedy Sandsteppe Mastodon wchodzi na pole walki, wesprzyj 5. (Wybierz stwora "
-"z najmniejszą wytrzymałością spośród stworów, którymi władasz i połóż na nim "
-"pięć znaczników +1/+1.)"
+"z najmniejszą wytrzymałością spośród stworów, którymi władasz i umieść na "
+"nim pięć znaczników +1/+1.)"
 
 # 62341d95032e4c8e8f2a58038f8f8ba7
 #: ../../FRF.rst:770
@@ -2574,8 +2575,9 @@ msgid ""
 "Put the top four cards of your library into your graveyard, then return a "
 "creature card and a land card from your graveyard to your hand."
 msgstr ""
-"Połóż cztery wierzchnie karty twojej biblioteki w twoim cmentarzu, następnie "
-"przywróć kartę stwora oraz kartę lądu z twojego cmentarza do twojej ręki."
+"Umieść cztery wierzchnie karty twojej biblioteki w twoim cmentarzu, "
+"następnie przywróć kartę stwora oraz kartę lądu z twojego cmentarza do "
+"twojej ręki."
 
 # 3dadf5a201a34d87bc7b6511b1d078ed
 #: ../../FRF.rst:782
@@ -2620,7 +2622,7 @@ msgid ""
 "Turn it face up any time for its mana cost if it's a creature card.)"
 msgstr ""
 "Kiedy Temur War Shaman wchodzi na pole walki, objaw wierzchnią kartę twojej "
-"biblioteki. (Połóż ową kartę na polu walki frontem w dół jako stwora 2/2. "
+"biblioteki. (Umieść ową kartę na polu walki frontem w dół jako stwora 2/2. "
 "Odwróć ją frontem w górę w dowolnym momencie za jej koszt many jeśli jest to "
 "karta stwora.)"
 
@@ -2692,8 +2694,8 @@ msgid ""
 "any time for its mana cost if it's a creature card.)"
 msgstr ""
 "Z początkiem twojego kroku końcowego, objaw wierzchnią kartę twojej "
-"biblioteki. (Połóż ją na polu walki frontem w dół jako stwora 2/2. Odwróć ją "
-"frontem w górę w dowolnym momencie za jej koszt many jeśli jest to karta "
+"biblioteki. (Umieść ją na polu walki frontem w dół jako stwora 2/2. Odwróć "
+"ją frontem w górę w dowolnym momencie za jej koszt many jeśli jest to karta "
 "stwora.)"
 
 # 7a2c215d950b4554b4fe8a7d688614b7
@@ -2721,8 +2723,8 @@ msgid ""
 "manifest a card, put it onto the battlefield face down as a 2/2 creature. "
 "Turn it face up any time for its mana cost if it's a creature card.)"
 msgstr ""
-"Objaw wierzchnią kartę twojej biblioteki, a następnie połóż na niej X "
-"znaczników +1/+1. (Aby objawić kartę, połóż ją na polu walki frontem w dół "
+"Objaw wierzchnią kartę twojej biblioteki, a następnie umieść na niej X "
+"znaczników +1/+1. (Aby objawić kartę, umieść ją na polu walki frontem w dół "
 "jako stwora 2/2. Odwróć ją frontem w górę w dowolnym momencie za jej koszt "
 "many jeśli jest to karta stwora.)"
 
@@ -2812,7 +2814,7 @@ msgid ""
 "on it.)"
 msgstr ""
 "Ilekroć Smok, którym władasz atakuje, wesprzyj 2. (Wybierz stwora z "
-"najmniejszą wytrzymałością spośród stworów, którymi władasz i połóż na nim "
+"najmniejszą wytrzymałością spośród stworów, którymi władasz i umieść na nim "
 "dwa znaczniki +1/+1.)"
 
 # 6d623a817bcc4862828423a2ccd5efae
@@ -2828,7 +2830,7 @@ msgid ""
 "the battlefield face down as a 2/2 creature. Turn it face up any time for "
 "its mana cost if it's a creature card.)"
 msgstr ""
-"Objaw dwie wierzchnie karty twojej biblioteki. (Aby objawić kartę, połóż ją "
+"Objaw dwie wierzchnie karty twojej biblioteki. (Aby objawić kartę, umieść ją "
 "na polu walki frontem w dół jako stwora 2/2. Odwróć ją frontem w górę w "
 "dowolnym momencie za jej koszt many jeśli jest to karta stwora.)"
 
@@ -3026,7 +3028,7 @@ msgid ""
 "Whenever you cast a noncreature spell, put a lore counter on Scroll of the "
 "Masters."
 msgstr ""
-"Ilekroć rzucasz czar nie będący stworem, połóż znacznik wiedzy na Scroll of "
+"Ilekroć rzucasz czar nie będący stworem, umieść znacznik wiedzy na Scroll of "
 "the Masters."
 
 # feb8825eae224161a371b32c4b58fe66
@@ -3106,7 +3108,7 @@ msgstr "|tap|: Dostajesz |colorless|."
 msgid ""
 "|mana_1|, |tap|: Put a storage counter on Crucible of the Spirit Dragon."
 msgstr ""
-"|mana_1|, |tap|: Połóż znacznik magazynu na Crucible of the Spirit Dragon."
+"|mana_1|, |tap|: Umieść znacznik magazynu na Crucible of the Spirit Dragon."
 
 # 256b7d10a95d45d3852b3e613d654552
 #: ../../FRF.rst:937
