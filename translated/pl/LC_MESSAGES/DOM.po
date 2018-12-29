@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 01:16+0000\n"
+"PO-Revision-Date: 2018-12-29 01:58+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
@@ -544,36 +544,47 @@ msgid ""
 "converted mana cost 3 or less from your graveyard to the battlefield. "
 "(Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
+"Ilekroć rzucasz historyczny czar, przywróć wskazaną kartę stwora o łącznym "
+"koszcie many 3 lub mniejszym z twojego cmentarza na pole walki. (Artefakty, "
+"legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:206
+#, fuzzy
 msgid "Tragic Poet"
-msgstr ""
+msgstr "Tragic Poet"
 
 #: ../../DOM.rst:205
 msgid ""
 "|tap|, Sacrifice Tragic Poet: Return target enchantment card from your "
 "graveyard to your hand."
 msgstr ""
+"|tap|, poświęć tego stwora: Przywróć wskazaną kartę uroku z twojego "
+"cmentarza do twojej ręki."
 
 #: ../../DOM.rst:214
 msgid "Triumph of Gerrard"
-msgstr ""
+msgstr "Triumph of Gerrard (Triumf Gerrarda)"
 
 #: ../../DOM.rst:211
 msgid ""
 "I, II — Put a +1/+1 counter on target creature you control with the greatest "
 "power."
 msgstr ""
+"I, II — Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem o "
+"największej sile."
 
 #: ../../DOM.rst:213
 msgid ""
 "III — Target creature you control with the greatest power gains flying, "
 "first strike, and lifelink until end of turn."
 msgstr ""
+"III — Wskazany stwór pod twoim władaniem o największej sile zyskuje do końca "
+"tury latanie, pierwszy cios oraz więź życia."
 
 #: ../../DOM.rst:220
+#, fuzzy
 msgid "Urza's Ruinous Blast"
-msgstr ""
+msgstr "Urza's Ruinous Blast"
 
 #: ../../DOM.rst:217 ../../DOM.rst:313 ../../DOM.rst:645 ../../DOM.rst:759
 #: ../../DOM.rst:933 ../../DOM.rst:1125
@@ -581,14 +592,17 @@ msgid ""
 "(You may cast a legendary sorcery only if you control a legendary creature "
 "or planeswalker.)"
 msgstr ""
+"(Możesz rzucić legendarny obrzęd tylko jeśli władasz legendarnym stworem lub "
+"wędrowcem.)"
 
 #: ../../DOM.rst:219
 msgid "Exile all nonland permanents that aren't legendary."
-msgstr ""
+msgstr "Wygnaj wszystkie nie-lądowe permanenty, które nie są legendarne."
 
 #: ../../DOM.rst:228
+#, fuzzy
 msgid "Academy Drake"
-msgstr ""
+msgstr "Academy Drake"
 
 #: ../../DOM.rst:223 ../../DOM.rst:801 ../../DOM.rst:875 ../../DOM.rst:995
 #: ../../DOM.rst:1047
@@ -607,8 +621,9 @@ msgstr ""
 "+1."
 
 #: ../../DOM.rst:234
+#, fuzzy
 msgid "Academy Journeymage"
-msgstr ""
+msgstr "Academy Journeymage"
 
 #: ../../DOM.rst:231 ../../DOM.rst:423
 msgid "This spell costs |mana_1| less to cast if you control a Wizard."
@@ -624,8 +639,9 @@ msgstr ""
 "władaniem przeciwnika do ręki jego właściciela."
 
 #: ../../DOM.rst:242
+#, fuzzy
 msgid "The Antiquities War"
-msgstr ""
+msgstr "The Antiquities War"
 
 #: ../../DOM.rst:239
 msgid ""
@@ -633,24 +649,31 @@ msgid ""
 "artifact card from among them and put it into your hand. Put the rest on the "
 "bottom of your library in a random order."
 msgstr ""
+"I, II — Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić "
+"spośród nich kartę artefaktu i umieścić ją w twojej ręce. Umieść pozostałe "
+"na spodzie twojej biblioteki w losowej kolejności."
 
 #: ../../DOM.rst:241
 msgid ""
 "III — Artifacts you control become artifact creatures with base power and "
 "toughness 5/5 until end of turn."
 msgstr ""
+"III — Artefakty pod twoim władaniem stają się do końca tury artefaktycznymi "
+"stworami o bazowej sile i wytrzymałości 5/5."
 
 #: ../../DOM.rst:248
+#, fuzzy
 msgid "Arcane Flight"
-msgstr ""
+msgstr "Arcane Flight"
 
 #: ../../DOM.rst:247
 msgid "Enchanted creature gets +1/+1 and has flying."
 msgstr "Zauroczony stwór dostaje +1/+1 i ma latanie."
 
 #: ../../DOM.rst:254
+#, fuzzy
 msgid "Artificer's Assistant"
-msgstr ""
+msgstr "Artificer's Assistant"
 
 #: ../../DOM.rst:253
 msgid ""
