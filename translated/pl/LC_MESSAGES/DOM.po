@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 01:58+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
@@ -92,7 +92,7 @@ msgid ""
 "controller pays |mana_1| for each of those creatures."
 msgstr ""
 "Stwory nie mogą atakować ciebie lub wędrowców pod twoim władaniem o ile ich "
-"władce nie zapłaci |mana_1| za każdego z owych stworów."
+"władca nie zapłaci |mana_1| za każdego z owych stworów."
 
 #: ../../DOM.rst:32
 #, fuzzy
@@ -136,7 +136,7 @@ msgid ""
 "historic.)"
 msgstr ""
 "Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz ujawnić spośród "
-"niech historyczną kartę i dołożyć ją do twojej ręki. Połóż pozostałe na "
+"niech historyczną kartę i dołożyć ją do twojej ręki. Umieść pozostałe na "
 "spodzie twojej biblioteki w losowej kolejności. (Artefakty, legendy i Sagi "
 "są historyczne.)"
 
@@ -201,7 +201,7 @@ msgid ""
 "Whenever you cast a historic spell, put a +1/+1 counter on Daring "
 "Archaeologist. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"Ilekroć rzucasz historyczny czar, połóż znacznik +1/+1 na tym stworze. ("
+"Ilekroć rzucasz historyczny czar, umieść znacznik +1/+1 na tym stworze. ("
 "Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:74
@@ -530,8 +530,8 @@ msgstr ""
 msgid ""
 "|mana_4| |mana_g| |mana_g|: Put a +1/+1 counter on each creature you control."
 msgstr ""
-"|mana_4| |mana_g| |mana_g|: Połóż znacznik +1/+1 na każdym stworze pod twoim "
-"władaniem."
+"|mana_4| |mana_g| |mana_g|: Umieść znacznik +1/+1 na każdym stworze pod "
+"twoim władaniem."
 
 #: ../../DOM.rst:202
 #, fuzzy
@@ -723,7 +723,7 @@ msgid ""
 "library and the rest on top in any order.)"
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
-"karty twojej biblioteki, następnie połóż dowolne z nich na spodzie twojej "
+"karty twojej biblioteki, następnie umieść dowolne z nich na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../DOM.rst:276
@@ -1773,7 +1773,7 @@ msgid ""
 "of them."
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, wybierz cztery permanenty poza twoim "
-"władaniem nie będące urokami i połóż na każdym z nich znacznik celowania."
+"władaniem nie będące urokami i umieść na każdym z nich znacznik celowania."
 
 #: ../../DOM.rst:747
 msgid ""
@@ -2261,7 +2261,7 @@ msgid ""
 "Whenever another Elf enters the battlefield under your control, put a +1/+1 "
 "counter on Marwyn, the Nurturer."
 msgstr ""
-"Ilekroć inny Elf wejdzie na pole walki pod twoim władaniem, połóż znacznik +"
+"Ilekroć inny Elf wejdzie na pole walki pod twoim władaniem, umieść znacznik +"
 "1/+1 na tej karcie."
 
 #: ../../DOM.rst:963
