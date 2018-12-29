@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 22:21+0000\n"
+"PO-Revision-Date: 2018-12-29 23:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
@@ -283,12 +283,11 @@ msgstr "Fall of the Thran"
 #: ../../DOM.rst:325 ../../DOM.rst:399 ../../DOM.rst:457 ../../DOM.rst:499
 #: ../../DOM.rst:565 ../../DOM.rst:581 ../../DOM.rst:687 ../../DOM.rst:697
 #: ../../DOM.rst:967 ../../DOM.rst:1001
-#, fuzzy
 msgid ""
 "(As this Saga enters and after your draw step, add a lore counter. Sacrifice "
 "after III.)"
 msgstr ""
-"(Gdy ta Saga wchodzi oraz po kroku dobierania, dodaj znacznik wiedzy. "
+"(Umieszczając tę Sagę oraz po kroku dobierania, dodaj znacznik opowieści. "
 "Poświęć po III.)"
 
 #: ../../DOM.rst:97
@@ -363,8 +362,8 @@ msgid ""
 "Hexproof from black (This creature can't be the target of black spells or "
 "abilities your opponents control.)"
 msgstr ""
-"Antyklątwa przed czarnym (Ten stwór nie może być celem czarnych czarów lub "
-"zdolności pod władaniem twoich przeciwników.)"
+"Antyklątwa przed czarnym (Ten stwór nie może być wskazywany przez władane "
+"przez przeciwników czarne czary i zdolności.)"
 
 #: ../../DOM.rst:127
 msgid ""
@@ -1799,29 +1798,32 @@ msgstr "The First Eruption"
 
 #: ../../DOM.rst:689
 msgid "I — The First Eruption deals 1 damage to each creature without flying."
-msgstr ""
+msgstr "I — Ten permanent zadaje po 1 obrażeniu każdemu stworowi bez latania."
 
 #: ../../DOM.rst:691
 msgid "II — Add |mana_r| |mana_r|."
-msgstr ""
+msgstr "II — Dostajesz |mana_r| |mana_r|."
 
 #: ../../DOM.rst:693
 msgid ""
 "III — Sacrifice a Mountain. If you do, The First Eruption deals 3 damage to "
 "each creature."
 msgstr ""
+"III — Poświęć Górę. Jeśli to zrobisz, ten permanent zadaje każdemu stworowi "
+"po 3 obrażenia."
 
 #: ../../DOM.rst:704
+#, fuzzy
 msgid "The Flame of Keld"
-msgstr ""
+msgstr "The Flame of Keld"
 
 #: ../../DOM.rst:699
 msgid "I — Discard your hand."
-msgstr ""
+msgstr "I — Odrzuć twoją rękę."
 
 #: ../../DOM.rst:701
 msgid "II — Draw two cards."
-msgstr ""
+msgstr "II — Dobierz dwie karty."
 
 #: ../../DOM.rst:703
 msgid ""
@@ -1829,20 +1831,27 @@ msgid ""
 "this turn, it deals that much damage plus 2 to that permanent or player "
 "instead."
 msgstr ""
+"III — Jeśli czerwone źródło pod twoim władaniem miałoby w tej turze zadać "
+"obrażenia permanentowi lub graczowi, zadaje ono owemu celowi o 2 obrażenia "
+"więcej."
 
 #: ../../DOM.rst:710
+#, fuzzy
 msgid "Frenzied Rage"
-msgstr ""
+msgstr "Frenzied Rage"
 
 #: ../../DOM.rst:709
 msgid ""
 "Enchanted creature gets +2/+1 and has menace. (It can't be blocked except by "
 "two or more creatures.)"
 msgstr ""
+"Zauroczony stwór dostaje +2/+1 i ma złowrogość. (Nie może być blokowany, "
+"chyba że przez co najmniej dwa stwory.)"
 
 #: ../../DOM.rst:716
+#, fuzzy
 msgid "Ghitu Chronicler"
-msgstr ""
+msgstr "Ghitu Chronicler"
 
 #: ../../DOM.rst:713 ../../DOM.rst:765
 msgid ""
@@ -1861,8 +1870,9 @@ msgstr ""
 "wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:720
+#, fuzzy
 msgid "Ghitu Journeymage"
-msgstr ""
+msgstr "Ghitu Journeymage"
 
 #: ../../DOM.rst:719
 msgid ""
@@ -1873,18 +1883,22 @@ msgstr ""
 "karta zadaje każdemu przeciwnikowi 2 obrażenia."
 
 #: ../../DOM.rst:724
+#, fuzzy
 msgid "Ghitu Lavarunner"
-msgstr ""
+msgstr "Ghitu Lavarunner"
 
 #: ../../DOM.rst:723
 msgid ""
 "As long as there are two or more instant and/or sorcery cards in your "
 "graveyard, Ghitu Lavarunner gets +1/+0 and has haste."
 msgstr ""
+"O ile w twoim cmentarzu są co najmniej dwie karty sztuczki i/lub obrzędu, "
+"ten stwór dostaje +1/+0 i ma pośpiech."
 
 #: ../../DOM.rst:730
+#, fuzzy
 msgid "Goblin Barrage"
-msgstr ""
+msgstr "Goblin Barrage"
 
 #: ../../DOM.rst:727
 msgid ""
@@ -1899,10 +1913,13 @@ msgid ""
 "Goblin Barrage deals 4 damage to target creature. If this spell was kicked, "
 "it also deals 4 damage to target player or planeswalker."
 msgstr ""
+"Ten czar zadaje 4 obrażenia wskazanemu stworowi. Jeśli ten czar został "
+"podbity, zadaje on także 4 obrażenia  wskazanemu graczowi lub wędrowcowi."
 
 #: ../../DOM.rst:736
+#, fuzzy
 msgid "Goblin Chainwhirler"
-msgstr ""
+msgstr "Goblin Chainwhirler"
 
 #: ../../DOM.rst:735
 msgid ""
@@ -1913,20 +1930,22 @@ msgstr ""
 "przeciwnikowi oraz każdemu stworowi i wędrowcowi pod ich władaniem."
 
 #: ../../DOM.rst:742
+#, fuzzy
 msgid "Goblin Warchief"
-msgstr ""
+msgstr "Goblin Warchief"
 
 #: ../../DOM.rst:739
 msgid "Goblin spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie czarów Goblinów kosztuje cię |mana_1| mniej."
 
 #: ../../DOM.rst:741
 msgid "Goblins you control have haste."
-msgstr ""
+msgstr "Gobliny pod twoim władaniem mają pośpiech."
 
 #: ../../DOM.rst:748
+#, fuzzy
 msgid "Haphazard Bombardment"
-msgstr ""
+msgstr "Haphazard Bombardment"
 
 #: ../../DOM.rst:745
 msgid ""
@@ -1938,25 +1957,32 @@ msgstr ""
 "władaniem nie będące urokami i umieść na każdym z nich znacznik celowania."
 
 #: ../../DOM.rst:747
+#, fuzzy
 msgid ""
 "At the beginning of your end step, if two or more permanents you don't "
 "control have an aim counter on them, destroy one of those permanents at "
 "random."
 msgstr ""
+"Na początku twojego kroku końcowego jeśli co najmniej dwa permanenty poza "
+"twoim władaniem mają znacznik celowania, zniszcz jeden losowy z owych "
+"permanentów."
 
 #: ../../DOM.rst:756
+#, fuzzy
 msgid "Jaya Ballard"
-msgstr ""
+msgstr "Jaya Ballard"
 
 #: ../../DOM.rst:751
 msgid ""
 "+1: Add |mana_r| |mana_r| |mana_r|. Spend this mana only to cast instant or "
 "sorcery spells."
 msgstr ""
+"+1: Dostajesz |mana_r| |mana_r| |mana_r|. Wydaj tę mana tylko na rzucanie "
+"sztuczek lub obrzędów."
 
 #: ../../DOM.rst:753
 msgid "+1: Discard up to three cards, then draw that many cards."
-msgstr ""
+msgstr "+1: Odrzuć co najwyżej trzy karty, następnie dobierz tyle samo kart."
 
 #: ../../DOM.rst:755
 msgid ""
@@ -1964,19 +1990,24 @@ msgid ""
 "your graveyard. If a card cast this way would be put into your graveyard, "
 "exile it instead.\""
 msgstr ""
+"–8: Dostajesz emblemat o treści \"Możesz rzucać karty sztuczek i obrzędów z "
+"twojego cmentarza. Jeśli karta rzucona w ten sposób miałaby zostać "
+"umieszczona w twoim cmentarzu, zamiast tego wygnaj ją.\""
 
 #: ../../DOM.rst:762
+#, fuzzy
 msgid "Jaya's Immolating Inferno"
-msgstr ""
+msgstr "Jaya's Immolating Inferno"
 
 #: ../../DOM.rst:761
 msgid ""
 "Jaya's Immolating Inferno deals X damage to each of up to three targets."
-msgstr ""
+msgstr "Ten czar zadaje X obrażeń w każdy z co najwyżej trzech celów."
 
 #: ../../DOM.rst:770
+#, fuzzy
 msgid "Keldon Overseer"
-msgstr ""
+msgstr "Keldon Overseer"
 
 #: ../../DOM.rst:767 ../../DOM.rst:1093
 msgid "Haste"
@@ -1993,8 +2024,9 @@ msgstr ""
 "on pośpiech do końca tury."
 
 #: ../../DOM.rst:774
+#, fuzzy
 msgid "Keldon Raider"
-msgstr ""
+msgstr "Keldon Raider"
 
 #: ../../DOM.rst:773
 msgid ""
@@ -2005,74 +2037,89 @@ msgstr ""
 "zrobisz, dobierz kartę."
 
 #: ../../DOM.rst:778
+#, fuzzy
 msgid "Keldon Warcaller"
-msgstr ""
+msgstr "Keldon Warcaller"
 
 #: ../../DOM.rst:777
 msgid ""
 "Whenever Keldon Warcaller attacks, put a lore counter on target Saga you "
 "control."
 msgstr ""
+"Ilekroć ten stwór atakuje, połóż znacznik opowieści na wskazanej Sadze pod "
+"twoim władaniem."
 
 #: ../../DOM.rst:782
+#, fuzzy
 msgid "Orcish Vandal"
-msgstr ""
+msgstr "Orcish Vandal"
 
 #: ../../DOM.rst:781
 msgid ""
 "|tap|, Sacrifice an artifact: Orcish Vandal deals 2 damage to any target."
-msgstr ""
+msgstr "|tap|, poświęć artefakt: Ten stwór zadaje 2 obrażenia w dowolny cel."
 
 #: ../../DOM.rst:786
+#, fuzzy
 msgid "Radiating Lightning"
-msgstr ""
+msgstr "Radiating Lightning"
 
 #: ../../DOM.rst:785
 msgid ""
 "Radiating Lightning deals 3 damage to target player and 1 damage to each "
 "creature that player controls."
 msgstr ""
+"Ten czar zadaje 3 obrażenia wskazanemu graczowi oraz po 1 obrażeniu każdemu "
+"stworowi pod władaniem owego gracza."
 
 #: ../../DOM.rst:790
+#, fuzzy
 msgid "Rampaging Cyclops"
-msgstr ""
+msgstr "Rampaging Cyclops"
 
 #: ../../DOM.rst:789
 msgid ""
 "Rampaging Cyclops gets -2/-0 as long as two or more creatures are blocking "
 "it."
-msgstr ""
+msgstr "Ten stwór dostaje -2/-0 o ile blokują go co najmniej dwa stwory."
 
 #: ../../DOM.rst:794
+#, fuzzy
 msgid "Run Amok"
-msgstr ""
+msgstr "Run Amok"
 
 #: ../../DOM.rst:793
 msgid ""
 "Target attacking creature gets +3/+3 and gains trample until end of turn."
-msgstr ""
+msgstr "Wskazany atakujący stwór dostaje do końca tury +3/+3 oraz tratowanie."
 
 #: ../../DOM.rst:798
+#, fuzzy
 msgid "Seismic Shift"
-msgstr ""
+msgstr "Seismic Shift"
 
 #: ../../DOM.rst:797
 msgid "Destroy target land. Up to two target creatures can't block this turn."
 msgstr ""
+"Zniszcz wskazany ląd. Co najwyżej dwa wskazane stwory nie mogą blokować w "
+"tej turze."
 
 #: ../../DOM.rst:804
+#, fuzzy
 msgid "Shivan Fire"
-msgstr ""
+msgstr "Shivan Fire"
 
 #: ../../DOM.rst:803
 msgid ""
 "Shivan Fire deals 2 damage to target creature. If this spell was kicked, it "
 "deals 4 damage to that creature instead."
 msgstr ""
+"Ten czar zadaje 2 obrażenia wskazanemu stworowi. Jeśli ten czar został "
+"podbity, zamiast tego zadaje on owemu stworowi 4 obrażenia."
 
 #: ../../DOM.rst:810
 msgid "Siege-Gang Commander"
-msgstr ""
+msgstr "Siege-Gang Commander (Dowódca Ekipy Oblężniczej)"
 
 #: ../../DOM.rst:807
 msgid ""
@@ -2087,18 +2134,22 @@ msgid ""
 "|mana_1| |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage "
 "to any target."
 msgstr ""
+"|mana_1| |mana_r|, poświęć Goblina: Ten stwór zadaje 2 obrażenia w dowolny "
+"cel."
 
 #: ../../DOM.rst:814
+#, fuzzy
 msgid "Skirk Prospector"
-msgstr ""
+msgstr "Skirk Prospector"
 
 #: ../../DOM.rst:813
 msgid "Sacrifice a Goblin: Add |mana_r|."
-msgstr ""
+msgstr "Poświęć Goblina: Dostajesz |mana_r|."
 
 #: ../../DOM.rst:822
+#, fuzzy
 msgid "Skizzik"
-msgstr ""
+msgstr "Skizzik"
 
 #: ../../DOM.rst:817
 msgid ""
@@ -2115,18 +2166,19 @@ msgstr "Tratowanie, pośpiech"
 msgid ""
 "At the beginning of the end step, if Skizzik wasn't kicked, sacrifice it."
 msgstr ""
+"Na początku kroku końcowego, jeśli ten stwór nie został podbity, poświęć go."
 
 #: ../../DOM.rst:826
 msgid "Squee, the Immortal"
-msgstr ""
+msgstr "Squee, the Immortal (Squee, Nieśmiertelny)"
 
 #: ../../DOM.rst:825
 msgid "You may cast Squee, the Immortal from your graveyard or from exile."
-msgstr ""
+msgstr "Możesz rzucić tego stwora z twojego cmentarza lub wygnania."
 
 #: ../../DOM.rst:830
 msgid "Two-Headed Giant"
-msgstr ""
+msgstr "Two-Headed Giant (Dwugłowy Gigant)"
 
 #: ../../DOM.rst:829
 msgid ""
@@ -2134,10 +2186,14 @@ msgid ""
 "heads, Two-Headed Giant gains double strike until end of turn. If both coins "
 "come up tails, Two-Headed Giant gains menace until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, rzuć dwiema monetami. Jeśli na obu wypadnie "
+"reszka, ten stwór zyskuje podwójny cios do końca tury. Jeśli na obu wypadnie "
+"orzeł, ten stwór zyskuje złowrogość do końca tury."
 
 #: ../../DOM.rst:834
+#, fuzzy
 msgid "Valduk, Keeper of the Flame"
-msgstr ""
+msgstr "Valduk, Keeper of the Flame"
 
 #: ../../DOM.rst:833
 msgid ""
@@ -2146,10 +2202,14 @@ msgid ""
 "token with trample and haste. Exile those tokens at the beginning of the "
 "next end step."
 msgstr ""
+"Na początku walki w twojej turze, za każdą Aurę oraz Ekwipunek dołączony do "
+"tego stwora, stwórz żeton czerwonego stwora Elemental 3/1 z tratowaniem i "
+"pośpiechem. Wygnaj owe żetony na początku najbliższego kroku końcowego."
 
 #: ../../DOM.rst:842
+#, fuzzy
 msgid "Verix Bladewing"
-msgstr ""
+msgstr "Verix Bladewing"
 
 #: ../../DOM.rst:841
 msgid ""
@@ -2160,8 +2220,9 @@ msgstr ""
 "legendarnego czerwonego stwora Smok 4/4 z lataniem o nazwie Karox Bladewing."
 
 #: ../../DOM.rst:848
+#, fuzzy
 msgid "Warcry Phoenix"
-msgstr ""
+msgstr "Warcry Phoenix"
 
 #: ../../DOM.rst:845 ../../DOM.rst:1057
 msgid "Flying, haste"
@@ -2173,30 +2234,36 @@ msgid ""
 "mana_r|. If you do, return Warcry Phoenix from your graveyard to the "
 "battlefield tapped and attacking."
 msgstr ""
+"Ilekroć atakujesz co najmniej trzema stworami, możesz zapłacić |mana_2| "
+"|mana_r|. Jeśli tak zrobisz, przywróć tego stwora z twojego cmentarza na "
+"pole walki zatapowanego i atakującego."
 
 #: ../../DOM.rst:854
+#, fuzzy
 msgid "Warlord's Fury"
-msgstr ""
+msgstr "Warlord's Fury"
 
 #: ../../DOM.rst:851
 msgid "Creatures you control gain first strike until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem zyskują pierwszy cios do końca tury."
 
 #: ../../DOM.rst:860
+#, fuzzy
 msgid "Wizard's Lightning"
-msgstr ""
+msgstr "Wizard's Lightning"
 
 #: ../../DOM.rst:857
 msgid "This spell costs |mana_2| less to cast if you control a Wizard."
-msgstr ""
+msgstr "Rzucenie tego czaru kosztuje |mana_2| mniej jeśli władasz Czarodziejem."
 
 #: ../../DOM.rst:859
 msgid "Wizard's Lightning deals 3 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje 3 obrażenia w dowolny cel."
 
 #: ../../DOM.rst:864
+#, fuzzy
 msgid "Adventurous Impulse"
-msgstr ""
+msgstr "Adventurous Impulse"
 
 #: ../../DOM.rst:863
 msgid ""
@@ -2204,31 +2271,43 @@ msgid ""
 "land card from among them and put it into your hand. Put the rest on the "
 "bottom of your library in any order."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Możesz ujawnić spośród "
+"nich kartę lądu i umieścić ją w twojej ręce. Umieść pozostałe na spodzie "
+"twojej biblioteki w dowolnej kolejności."
 
 #: ../../DOM.rst:868
+#, fuzzy
 msgid "Ancient Animus"
-msgstr ""
+msgstr "Ancient Animus"
 
 #: ../../DOM.rst:867
+#, fuzzy
 msgid ""
 "Put a +1/+1 counter on target creature you control if it's legendary. Then "
 "it fights target creature an opponent controls. (Each deals damage equal to "
 "its power to the other.)"
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworzy pod twoim władaniem jeśli jest on "
+"legendarny. Następnie walczy on ze wskazanym stworem pod władaniem "
+"przeciwnika."
 
 #: ../../DOM.rst:872
+#, fuzzy
 msgid "Arbor Armament"
-msgstr ""
+msgstr "Arbor Armament"
 
 #: ../../DOM.rst:871
 msgid ""
 "Put a +1/+1 counter on target creature. That creature gains reach until end "
 "of turn."
 msgstr ""
+"Umieść znacznik +1/+1 na wskazanym stworze. Ów stwór zyskuje zasięg do końca "
+"tury."
 
 #: ../../DOM.rst:878
+#, fuzzy
 msgid "Baloth Gorger"
-msgstr ""
+msgstr "Baloth Gorger"
 
 #: ../../DOM.rst:877
 msgid ""
@@ -2240,27 +2319,33 @@ msgstr ""
 
 #: ../../DOM.rst:882
 msgid "Broken Bond"
-msgstr ""
+msgstr "Broken Bond (Zerwana Więź)"
 
 #: ../../DOM.rst:881
 msgid ""
 "Destroy target artifact or enchantment. You may put a land card from your "
 "hand onto the battlefield."
 msgstr ""
+"Zniszcz wskazany artefakt lub urok. Możesz umieścić kartę lądu z twojej ręki "
+"na polu walki."
 
 #: ../../DOM.rst:886
+#, fuzzy
 msgid "Corrosive Ooze"
-msgstr ""
+msgstr "Corrosive Ooze"
 
 #: ../../DOM.rst:885
 msgid ""
 "Whenever Corrosive Ooze blocks or becomes blocked by an equipped creature, "
 "destroy all Equipment attached to that creature at end of combat."
 msgstr ""
+"Ilekroć ten stwór blokuje lub zostaje zablokowany przez wyposażonego stwora, "
+"zniszcz na koniec walki  każdy Ekwipunek dołączony do owego stwora."
 
 #: ../../DOM.rst:892
+#, fuzzy
 msgid "Elfhame Druid"
-msgstr ""
+msgstr "Elfhame Druid"
 
 #: ../../DOM.rst:889 ../../DOM.rst:945 ../../DOM.rst:1383
 msgid "|tap|: Add |mana_g|."
@@ -2270,10 +2355,13 @@ msgstr "|tap|: Dostajesz |mana_g|."
 msgid ""
 "|tap|: Add |mana_g| |mana_g|. Spend this mana only to cast kicked spells."
 msgstr ""
+"|tap|: Dostajesz |mana_g| |mana_g|. Wydaj tę manę tylko do rzucania "
+"podbitych czarów."
 
 #: ../../DOM.rst:898
+#, fuzzy
 msgid "Fungal Plots"
-msgstr ""
+msgstr "Fungal Plots"
 
 #: ../../DOM.rst:895
 msgid ""
