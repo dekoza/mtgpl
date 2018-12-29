@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 22:21+0000\n"
+"PO-Revision-Date: 2018-12-29 23:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -3306,14 +3306,17 @@ msgid "Grasping Scoundrel gets +1/+0 as long as it's attacking."
 msgstr "Ten stwór dostaje +1/+0 o ile atakuje."
 
 #: ../../M19.rst:1616
+#, fuzzy
 msgid "Radiating Lightning"
-msgstr ""
+msgstr "Radiating Lightning"
 
 #: ../../M19.rst:1615
 msgid ""
 "Radiating Lightning deals 3 damage to target player and 1 damage to each "
 "creature that player controls."
 msgstr ""
+"Ten czar zadaje 3 obrażenia wskazanemu graczowi oraz po 1 obrażeniu każdemu "
+"stworowi pod władaniem owego gracza."
 
 #: ../../M19.rst:1619
 msgid "Llanowar Elves"
