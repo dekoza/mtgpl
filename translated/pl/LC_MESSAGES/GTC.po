@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 01:16+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -243,7 +243,7 @@ msgid ""
 "+1: Put a loyalty counter on Gideon, Champion of Justice for each creature "
 "target opponent controls."
 msgstr ""
-"+1: Połóż na Gideonie jeden znacznik lojalności za każdego stwora władanego "
+"+1: Umieść na Gideonie jeden znacznik lojalności za każdego stwora władanego "
 "przez wskazanego przeciwnika."
 
 # bb3232fa03f34f469510d20bb237541e
@@ -391,7 +391,7 @@ msgid ""
 "When enchanted creature dies, create X 1/1 white Soldier creature tokens, "
 "where X is its power."
 msgstr ""
-"Kiedy zauroczony stwór umiera, połóż na polu walki tyle żetonów białego "
+"Kiedy zauroczony stwór umiera, umieść na polu walki tyle żetonów białego "
 "stwora Piechur 1/1, ile wynosi siła owego stwora."
 
 # e12c7ee390ce457f9b59616a9d7faece
@@ -457,7 +457,7 @@ msgid ""
 "When Urbis Protector enters the battlefield, create a 4/4 white Angel "
 "creature token with flying."
 msgstr ""
-"Kiedy Urbis Protector wchodzi na pole walki, połóż na polu walki żeton "
+"Kiedy Urbis Protector wchodzi na pole walki, umieść na polu walki żeton "
 "białego stwora Anioł 4/4 z lataniem."
 
 # e5a39c70ba1d4d32b7fff9d3c575cbbf
@@ -519,8 +519,8 @@ msgid ""
 "counter on this creature.)"
 msgstr ""
 "Rozwój (Ilekroć jakiś stwór wchodzi na pole walki pod twoim władaniem, jeśli "
-"jego siła lub wytrzymałość jest większa niż tego stwora, połóż znacznik +1/"
-"+1 na tym stworze.)"
+"jego siła lub wytrzymałość jest większa niż tego stwora, umieść znacznik +1/+"
+"1 na tym stworze.)"
 
 # 34d6865c855f42ce98eaa4a3138eee36
 #: ../../GTC.rst:170
@@ -557,7 +557,7 @@ msgid ""
 "from your hand on top of your library. You have no maximum hand size until "
 "your next turn."
 msgstr ""
-"Dobierz tyle kart, ile masz w bibliotece, po czym połóż kartę z twojej ręki "
+"Dobierz tyle kart, ile masz w bibliotece, po czym umieść kartę z twojej ręki "
 "na wierzchu twojej biblioteki. Do twojej następnej tury nie masz limitu kart "
 "w ręce."
 
@@ -841,7 +841,7 @@ msgstr "Stolen Identity (Skradziona Tożsamość)"
 #, fuzzy
 msgid "Create a token that's a copy of target artifact or creature."
 msgstr ""
-"Połóż na polu walki żeton będący kopią wskazanego artefaktu lub stwora."
+"Umieść na polu walki żeton będący kopią wskazanego artefaktu lub stwora."
 
 # fcba6d03dcbd43228c50365daefcf4bc
 #: ../../GTC.rst:284
@@ -852,7 +852,7 @@ msgstr "Totally Lost (Kompletnie Zagubiony)"
 #: ../../GTC.rst:283
 msgid "Put target nonland permanent on top of its owner's library."
 msgstr ""
-"Połóż wskazany nielądowy permanent na wierzchu biblioteki jego właściciela."
+"Umieść wskazany nielądowy permanent na wierzchu biblioteki jego właściciela."
 
 # 50565916d2e046889e3d89d8be9f6c98
 #: ../../GTC.rst:290
@@ -1348,7 +1348,7 @@ msgid ""
 "Whenever a creature you control deals combat damage, put a blaze counter on "
 "Five-Alarm Fire."
 msgstr ""
-"Ilekroć stwór, którym władasz zadaje obrażenia bitewne, połóż znacznik "
+"Ilekroć stwór, którym władasz zadaje obrażenia bitewne, umieść znacznik "
 "płomienia na Five-Alarm Fire."
 
 # 609a64a22a1c453dbd41f2ec9fe7a08f
@@ -1706,7 +1706,7 @@ msgstr "Burst of Strength (Przypływ Siły)"
 # fd829cdb957e469d91731e2fef37de61
 #: ../../GTC.rst:589
 msgid "Put a +1/+1 counter on target creature and untap it."
-msgstr "Połóż znacznik +1/+1 na wskazanym stworze i odznacz go."
+msgstr "Umieść znacznik +1/+1 na wskazanym stworze i odznacz go."
 
 # e6f9544cfd8a45fe8bb6969f48356ae9
 #: ../../GTC.rst:596
@@ -1771,7 +1771,7 @@ msgstr "Forced Adaptation (Wymuszona Adaptacja)"
 msgid ""
 "At the beginning of your upkeep, put a +1/+1 counter on enchanted creature."
 msgstr ""
-"Na początku twojego utrzymania połóż znacznik +1/+1 na zauroczonym stworze."
+"Na początku twojego utrzymania umieść znacznik +1/+1 na zauroczonym stworze."
 
 # ea3b89d285e84db39f0984c40bb03305
 #: ../../GTC.rst:624
@@ -1785,7 +1785,7 @@ msgid ""
 "Whenever Giant Adephage deals combat damage to a player, create a token "
 "that's a copy of Giant Adephage."
 msgstr ""
-"Ilekroć Giant Adephage zadaje graczowi obrażenia bitewne, połóż na polu "
+"Ilekroć Giant Adephage zadaje graczowi obrażenia bitewne, umieść na polu "
 "walki żeton będący kopią Giant Adephage."
 
 # 7116ecd6ebe6433399d9307a18f2c781
@@ -1836,7 +1836,7 @@ msgid ""
 "Whenever another green creature enters the battlefield under your control, "
 "put a +1/+1 counter on target creature."
 msgstr ""
-"Ilekroć inny zielony stwór wchodzi na pole walki pod twoim władaniem, połóż "
+"Ilekroć inny zielony stwór wchodzi na pole walki pod twoim władaniem, umieść "
 "znacznik +1/+1 na wskazanym stworze."
 
 # bddfdce1937e4b8c9d5c9ea677ac58f4
@@ -1851,7 +1851,7 @@ msgid ""
 "Create an X/X green Ooze creature token, where X is the greatest power among "
 "creatures you control."
 msgstr ""
-"Połóż na polu walki żeton zielonego stwora Szlam X/X, gdzie X jest "
+"Umieść na polu walki żeton zielonego stwora Szlam X/X, gdzie X jest "
 "największą siłą spośród stworów, którymi władasz."
 
 # dd4ae05ae6fa4a5782193b1fadbd6b20
@@ -1879,8 +1879,8 @@ msgid ""
 "of +1/+1 counters removed this way."
 msgstr ""
 "|mana_1| |mana_g|, usuń jeden lub więcej znaczników +1/+1 spośród stworów, "
-"którymi władasz: Połóż na polu walki żeton zielonego stwora Szlam X/X, gdzie "
-"X jest liczbą usuniętych w ten sposób znaczników +1/+1."
+"którymi władasz: Umieść na polu walki żeton zielonego stwora Szlam X/X, "
+"gdzie X jest liczbą usuniętych w ten sposób znaczników +1/+1."
 
 # 45fb221b1b53442cbd60376ea8cb6428
 #: ../../GTC.rst:658
@@ -1998,7 +1998,7 @@ msgstr ""
 "Kiedy Sylvan Primordial wchodzi na pole walki, dla każdego ze swoich "
 "przeciwników, zniszcz wskazany permanent nie będący stworem władany przez "
 "owego gracza. Dla każdego permanentu zniszczonego w ten sposób, poszukaj w "
-"twojej bibliotece karty Lasu i połóż ją zatapowaną na polu walki. Następnie "
+"twojej bibliotece karty Lasu i umieść ją zatapowaną na polu walki. Następnie "
 "przetasuj twoją bibliotekę."
 
 # 0331e4ac032940f9b186ea20c58023d5
@@ -2079,9 +2079,9 @@ msgid ""
 "Legion. Then create a 1/1 red and white Soldier creature token with haste "
 "for each muster counter on Assemble the Legion."
 msgstr ""
-"Na początku twojego utrzymania połóż znacznik musztry na Assemble the "
-"Legion. Następnie połóż na polu walki czerwono-biały żeton stwora Soldier "
-"1/1 z pośpiechem za każdy znacznik musztry na Assemble the Legion."
+"Na początku twojego utrzymania umieść znacznik musztry na Assemble the "
+"Legion. Następnie umieść na polu walki czerwono-biały żeton stwora Soldier 1/"
+"1 z pośpiechem za każdy znacznik musztry na Assemble the Legion."
 
 # e71845c23d664a3f91f28cfbec9a1183
 #: ../../GTC.rst:726
@@ -2175,7 +2175,7 @@ msgid ""
 msgstr ""
 "Ilekroć Borborygmos Enraged zadaje graczowi obrażenia bitewne, ujawnij trzy "
 "wierzchnie karty z twojej biblioteki. Weź wszystkie karty lądów ujawnione w "
-"ten sposób na rękę, a resztę połóż na swój cmentarz."
+"ten sposób na rękę, a resztę umieść na swój cmentarz."
 
 # c22faf8175b740418c798e189147d8f8
 #: ../../GTC.rst:749
@@ -2222,7 +2222,7 @@ msgstr ""
 #, fuzzy
 msgid "Create a 1/1 blue and black Horror creature token with flying."
 msgstr ""
-"Połóż na polu walki żeton niebiesko-czarnego stwora Horror 1/1 z lataniem."
+"Umieść na polu walki żeton niebiesko-czarnego stwora Horror 1/1 z lataniem."
 
 # acfd46836c544769b47f9f5feaa1569a
 #: ../../GTC.rst:770
@@ -2301,9 +2301,9 @@ msgid ""
 "creature: Return a card named Deathpact Angel from your graveyard to the "
 "battlefield.\""
 msgstr ""
-"Kiedy Deathpact Angel umiera, połóż na polu walki żeton biało-czarnego "
-"stwora Cleric 1/1 ze zdolnością \"|mana_3| |mana_w| |mana_b| |mana_b|, |"
-"tap|, poświęć tego stwora: Zwróć kartę o nazwie Deathpact Angel z twojego "
+"Kiedy Deathpact Angel umiera, umieść na polu walki żeton biało-czarnego "
+"stwora Cleric 1/1 ze zdolnością \"|mana_3| |mana_w| |mana_b| |mana_b|, |tap|"
+", poświęć tego stwora: Zwróć kartę o nazwie Deathpact Angel z twojego "
 "cmentarza na pole walki.\""
 
 # 3d3758353ef34c7e924b1bb40734efef
@@ -2330,7 +2330,7 @@ msgid ""
 "rest into that player's graveyard."
 msgstr ""
 " albo spójrz na trzy wierzchnie karty biblioteki wskazanego gracza, "
-"następnie połóż jedną z powrotem, a pozostałe umieść w cmentarzu owego "
+"następnie umieść jedną z powrotem, a pozostałe umieść w cmentarzu owego "
 "gracza."
 
 # f85f8acfaf75475da5e2f9cd876d23e0
@@ -2525,7 +2525,7 @@ msgid ""
 "card onto the battlefield tapped. Then shuffle your library."
 msgstr ""
 "Zniszcz wskazany ląd. Poszukaj w twojej bibliotece karty zwykłego lądu i "
-"połóż ją zatapowaną na polu walki. Następnie przetasuj twoją bibliotekę."
+"umieść ją zatapowaną na polu walki. Następnie przetasuj twoją bibliotekę."
 
 # c58f04a595fd47eb9a97f75585501922
 #: ../../GTC.rst:876
@@ -2740,8 +2740,8 @@ msgid ""
 "Counter target spell. Create an X/X green Ooze creature token, where X is "
 "that spell's converted mana cost."
 msgstr ""
-"Skontruj wskazany czar. Połóż na polu walki żeton zielonego stwora Ooze X/X, "
-"gdzie X jest łącznym kosztem many owego czaru."
+"Skontruj wskazany czar. Umieść na polu walki żeton zielonego stwora Ooze X/"
+"X, gdzie X jest łącznym kosztem many owego czaru."
 
 # 6392be278703401aad52950bed5e5bba
 #: ../../GTC.rst:954
@@ -3082,7 +3082,7 @@ msgid ""
 "|mana_2| |mana_r| |mana_w|: Create a 1/1 red and white Soldier creature "
 "token with haste."
 msgstr ""
-"|mana_2| |mana_r| |mana_w|: Połóż na polu walki żeton czerwono-białego "
+"|mana_2| |mana_r| |mana_w|: Umieść na polu walki żeton czerwono-białego "
 "stwora Piechur 1/1 z pośpiechem."
 
 # 224f7a64ea3242589007937d0e3ce023
@@ -3272,7 +3272,7 @@ msgid ""
 "Exile target card from a graveyard. Create a 1/1 white and black Spirit "
 "creature token with flying."
 msgstr ""
-"Wypędź wskazaną kartę z cmentarza. Połóż na polu walki żeton czarno-białego "
+"Wypędź wskazaną kartę z cmentarza. Umieść na polu walki żeton czarno-białego "
 "stwora Spirit 1/1 z lataniem."
 
 # 08e46b5acd844ac8b8408e1322778db1
@@ -3436,7 +3436,7 @@ msgid ""
 "Whenever Rubblebelt Raiders attacks, put a +1/+1 counter on it for each "
 "attacking creature you control."
 msgstr ""
-"Ilekroć Rubblebelt Raiders atakuje, połóż na nim znacznik +1/+1 za każdego "
+"Ilekroć Rubblebelt Raiders atakuje, umieść na nim znacznik +1/+1 za każdego "
 "atakującego stwora, którym władasz."
 
 # 40c151f1e3a14b709c5ce282d2b3e331
