@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-27 13:40+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
@@ -138,8 +138,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, put a +1/+1 "
 "counter on each creature you control."
 msgstr ""
-"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, połóż znacznik +1/"
-"+1 na każdym stworze, którym władasz."
+"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, umieść znacznik +1/+"
+"1 na każdym stworze, którym władasz."
 
 #: ../../AVR.rst:64
 msgid "Cathedral Sanctifier"
@@ -204,7 +204,7 @@ msgid ""
 "an Angel, put two +1/+1 counters on it."
 msgstr ""
 "Przywróć wskazaną kartę stwora z twojego cmentarza na pole walki. Jeśli to "
-"Anioł, połóż na nim dwa znaczniki +1/+1."
+"Anioł, umieść na nim dwa znaczniki +1/+1."
 
 #: ../../AVR.rst:92
 msgid "Devout Chaplain"
@@ -498,7 +498,7 @@ msgid ""
 "Draw three cards, then put a card from your hand on the bottom of your "
 "library."
 msgstr ""
-"Dobierz trzy karty, następnie połóż kartę z twojej ręki na spodzie twojej "
+"Dobierz trzy karty, następnie umieść kartę z twojej ręki na spodzie twojej "
 "biblioteki."
 
 #: ../../AVR.rst:232
@@ -925,6 +925,7 @@ msgstr ""
 #: ../../AVR.rst:433
 msgid "Put target nonland permanent on top of its owner's library."
 msgstr ""
+"Umieść wskazany nielądowy permanent na wierzchu biblioteki jego właściciela."
 
 #: ../../AVR.rst:435
 msgid ""
@@ -982,7 +983,7 @@ msgstr ""
 #: ../../AVR.rst:457
 #, fuzzy
 msgid "Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur."
-msgstr "Poświęć stwora: Połóż znacznik +1/+1 na Bloodflow Connoisseur."
+msgstr "Poświęć stwora: Umieść znacznik +1/+1 na Bloodflow Connoisseur."
 
 #: ../../AVR.rst:464
 msgid "Bone Splinters"
@@ -1061,7 +1062,7 @@ msgid ""
 "create a 5/5 black Demon creature token with flying."
 msgstr ""
 "Na początku twojego kroku końcowego, jeśli władasz dokładnie jednym stworem, "
-"połóż na polu walki żeton czarnego stwora Demon 5/5 z lataniem."
+"umieść na polu walki żeton czarnego stwora Demon 5/5 z lataniem."
 
 #: ../../AVR.rst:496
 msgid "Demonic Taskmaster"
