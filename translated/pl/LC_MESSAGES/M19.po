@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 02:05+0000\n"
+"PO-Revision-Date: 2018-12-29 22:21+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -634,7 +634,7 @@ msgstr "Zwróć wskazany nielądowy permanent do ręki jego właściciela."
 
 #: ../../M19.rst:268
 msgid "Divination"
-msgstr ""
+msgstr "Divination (Wróżbiarstwo)"
 
 #: ../../M19.rst:267 ../../M19.rst:823
 msgid "Draw two cards."
@@ -947,8 +947,9 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:408
+#, fuzzy
 msgid "Tolarian Scholar"
-msgstr ""
+msgstr "Tolarian Scholar"
 
 #: ../../M19.rst:414
 msgid "Totally Lost"
@@ -1571,7 +1572,7 @@ msgstr ""
 
 #: ../../M19.rst:702
 msgid "Fire Elemental"
-msgstr ""
+msgstr "Fire Elemental (Żywiołak Ognia)"
 
 #: ../../M19.rst:708
 msgid "Goblin Instigator"
@@ -3267,11 +3268,11 @@ msgstr "Air Elemental (Żywiołak powietrza)"
 
 #: ../../M19.rst:1596
 msgid "Befuddle"
-msgstr ""
+msgstr "Befuddle (Zamroczenie)"
 
 #: ../../M19.rst:1593
 msgid "Target creature gets -4/-0 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -4/-0 do końca tury."
 
 #: ../../M19.rst:1600
 #, fuzzy
