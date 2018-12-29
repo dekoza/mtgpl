@@ -7,2473 +7,2466 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 00:38+0100\n"
+"POT-Creation-Date: 2018-12-16 23:18+0100\n"
 "PO-Revision-Date: 2018-12-29 01:16+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.3\n"
 "Generated-By: Babel 2.6.0\n"
 
-#: ../../HOU.rst:5 ../../HOU.rst:829
+#: ../../HOU.rst:5 ../../HOU.rst:538
 msgid "Hour of Devastation"
 msgstr ""
 
-#: ../../HOU.rst:13
+#: ../../HOU.rst:10
 msgid "Act of Heroism"
 msgstr ""
 
-#: ../../HOU.rst:12
+#: ../../HOU.rst:9
 msgid ""
 "Untap target creature. It gets +2/+2 until end of turn and can block an "
 "additional creature this turn."
 msgstr ""
 
-#: ../../HOU.rst:22
+#: ../../HOU.rst:16
 msgid "Adorned Pouncer"
 msgstr ""
 
-#: ../../HOU.rst:19
+#: ../../HOU.rst:13
 msgid "Double strike"
 msgstr "Podwójny cios"
 
-#: ../../HOU.rst:21
+#: ../../HOU.rst:15
 msgid ""
 "Eternalize |mana_3| |mana_w| |mana_w| (|mana_3| |mana_w| |mana_w|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except"
-" it's a 4/4 black Zombie Cat with no mana cost. Eternalize only as a "
-"sorcery.)"
+"this card from your graveyard: Create a token that's a copy of it, except "
+"it's a 4/4 black Zombie Cat with no mana cost. Eternalize only as a sorcery.)"
 msgstr ""
 
-#: ../../HOU.rst:33
+#: ../../HOU.rst:24
 msgid "Angel of Condemnation"
 msgstr ""
 
-#: ../../HOU.rst:28
+#: ../../HOU.rst:19
 msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
+#: ../../HOU.rst:21
+msgid ""
+"|mana_2| |mana_w|, |tap|: Exile another target creature. Return that card to "
+"the battlefield under its owner's control at the beginning of the next end "
+"step."
+msgstr ""
+
+#: ../../HOU.rst:23
+msgid ""
+"|mana_2| |mana_w|, |tap|, Exert Angel of Condemnation: Exile another target "
+"creature until Angel of Condemnation leaves the battlefield. (An exerted "
+"creature won't untap during your next untap step.)"
+msgstr ""
+
 #: ../../HOU.rst:30
-msgid ""
-"|mana_2| |mana_w|, |tap|: Exile another target creature. Return that card"
-" to the battlefield under its owner's control at the beginning of the "
-"next end step."
-msgstr ""
-
-#: ../../HOU.rst:32
-msgid ""
-"|mana_2| |mana_w|, |tap|, Exert Angel of Condemnation: Exile another "
-"target creature until Angel of Condemnation leaves the battlefield. (An "
-"exerted creature won't untap during your next untap step.)"
-msgstr ""
-
-#: ../../HOU.rst:42
 msgid "Angel of the God-Pharaoh"
 msgstr ""
 
-#: ../../HOU.rst:39 ../../HOU.rst:48 ../../HOU.rst:66 ../../HOU.rst:254
-#: ../../HOU.rst:265 ../../HOU.rst:347 ../../HOU.rst:358 ../../HOU.rst:449
-#: ../../HOU.rst:505 ../../HOU.rst:532 ../../HOU.rst:1151 ../../HOU.rst:1162
-#: ../../HOU.rst:1208 ../../HOU.rst:1835
+#: ../../HOU.rst:27 ../../HOU.rst:33 ../../HOU.rst:45 ../../HOU.rst:167
+#: ../../HOU.rst:175 ../../HOU.rst:227 ../../HOU.rst:235 ../../HOU.rst:293
+#: ../../HOU.rst:331 ../../HOU.rst:349 ../../HOU.rst:737 ../../HOU.rst:745
+#: ../../HOU.rst:779 ../../HOU.rst:1187
 msgid "Flying"
 msgstr "Latanie"
 
-#: ../../HOU.rst:41 ../../HOU.rst:283 ../../HOU.rst:324 ../../HOU.rst:623
-#: ../../HOU.rst:689 ../../HOU.rst:698 ../../HOU.rst:814 ../../HOU.rst:846
-#: ../../HOU.rst:944 ../../HOU.rst:1073 ../../HOU.rst:1462
+#: ../../HOU.rst:29 ../../HOU.rst:187 ../../HOU.rst:213 ../../HOU.rst:407
+#: ../../HOU.rst:449 ../../HOU.rst:455 ../../HOU.rst:529 ../../HOU.rst:549
+#: ../../HOU.rst:611 ../../HOU.rst:689 ../../HOU.rst:943
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
 msgstr ""
 
-#: ../../HOU.rst:51
+#: ../../HOU.rst:36
 msgid "Aven of Enduring Hope"
 msgstr ""
 
-#: ../../HOU.rst:50
+#: ../../HOU.rst:35
 msgid "When Aven of Enduring Hope enters the battlefield, you gain 3 life."
 msgstr ""
 
-#: ../../HOU.rst:60
+#: ../../HOU.rst:42
 msgid "Crested Sunmare"
 msgstr ""
 
-#: ../../HOU.rst:57
+#: ../../HOU.rst:39
 msgid "Other Horses you control have indestructible."
 msgstr ""
 
-#: ../../HOU.rst:59
+#: ../../HOU.rst:41
 msgid ""
-"At the beginning of each end step, if you gained life this turn, create a"
-" 5/5 white Horse creature token."
+"At the beginning of each end step, if you gained life this turn, create a "
+"5/5 white Horse creature token."
 msgstr ""
 
-#: ../../HOU.rst:69
+#: ../../HOU.rst:48
 msgid "Dauntless Aven"
 msgstr ""
 
-#: ../../HOU.rst:68
+#: ../../HOU.rst:47
 msgid "Whenever Dauntless Aven attacks, untap target creature you control."
 msgstr ""
 
-#: ../../HOU.rst:80
+#: ../../HOU.rst:56
 msgid "Desert's Hold"
 msgstr ""
 
-#: ../../HOU.rst:75 ../../HOU.rst:460
+#: ../../HOU.rst:51 ../../HOU.rst:301
 msgid "Enchant creature"
 msgstr ""
 
-#: ../../HOU.rst:77
+#: ../../HOU.rst:53
 msgid ""
-"When Desert's Hold enters the battlefield, if you control a Desert or "
-"there is a Desert card in your graveyard, you gain 3 life."
+"When Desert's Hold enters the battlefield, if you control a Desert or there "
+"is a Desert card in your graveyard, you gain 3 life."
 msgstr ""
 
-#: ../../HOU.rst:79
+#: ../../HOU.rst:55
 msgid ""
-"Enchanted creature can't attack or block, and its activated abilities "
-"can't be activated."
+"Enchanted creature can't attack or block, and its activated abilities can't "
+"be activated."
 msgstr ""
 
-#: ../../HOU.rst:87
+#: ../../HOU.rst:60
 msgid "Disposal Mummy"
 msgstr ""
 
-#: ../../HOU.rst:86
+#: ../../HOU.rst:59
 msgid ""
 "When Disposal Mummy enters the battlefield, exile target card from an "
 "opponent's graveyard."
 msgstr ""
 
-#: ../../HOU.rst:98
+#: ../../HOU.rst:68
 msgid "Djeru, With Eyes Open"
 msgstr ""
 
-#: ../../HOU.rst:93 ../../HOU.rst:211
+#: ../../HOU.rst:63 ../../HOU.rst:139
 msgid "Vigilance"
 msgstr ""
 
-#: ../../HOU.rst:95
+#: ../../HOU.rst:65
 msgid ""
 "When Djeru, With Eyes Open enters the battlefield, you may search your "
 "library for a planeswalker card, reveal it, put it into your hand, then "
 "shuffle your library."
 msgstr ""
 
-#: ../../HOU.rst:97
+#: ../../HOU.rst:67
 msgid ""
-"If a source would deal damage to a planeswalker you control, prevent 1 of"
-" that damage."
+"If a source would deal damage to a planeswalker you control, prevent 1 of "
+"that damage."
 msgstr ""
 
-#: ../../HOU.rst:107
+#: ../../HOU.rst:74
 msgid "Djeru's Renunciation"
 msgstr ""
 
-#: ../../HOU.rst:104
+#: ../../HOU.rst:71
 msgid "Tap up to two target creatures."
 msgstr ""
 
-#: ../../HOU.rst:106
+#: ../../HOU.rst:73
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
 msgstr ""
 
-#: ../../HOU.rst:112
+#: ../../HOU.rst:76
 msgid "Dutiful Servants"
 msgstr ""
 
-#: ../../HOU.rst:121
+#: ../../HOU.rst:82
 msgid "Gideon's Defeat"
 msgstr ""
 
-#: ../../HOU.rst:120
+#: ../../HOU.rst:81
 msgid ""
-"Exile target white creature that's attacking or blocking. If it was a "
-"Gideon planeswalker, you gain 5 life."
+"Exile target white creature that's attacking or blocking. If it was a Gideon "
+"planeswalker, you gain 5 life."
 msgstr ""
 
-#: ../../HOU.rst:128
+#: ../../HOU.rst:86
 msgid "God-Pharaoh's Faithful"
 msgstr ""
 
-#: ../../HOU.rst:127
+#: ../../HOU.rst:85
 msgid "Whenever you cast a blue, black, or red spell, you gain 1 life."
 msgstr ""
 
-#: ../../HOU.rst:137
+#: ../../HOU.rst:92
 msgid "Hour of Revelation"
 msgstr ""
 
-#: ../../HOU.rst:134
+#: ../../HOU.rst:89
 msgid ""
 "This spell costs |mana_3| less to cast if there are ten or more nonland "
 "permanents on the battlefield."
 msgstr ""
 
-#: ../../HOU.rst:136
+#: ../../HOU.rst:91
 msgid "Destroy all nonland permanents."
 msgstr ""
 
-#: ../../HOU.rst:144
+#: ../../HOU.rst:96
 msgid "Mummy Paramount"
 msgstr ""
 
-#: ../../HOU.rst:143
+#: ../../HOU.rst:95
 msgid ""
 "Whenever another Zombie enters the battlefield under your control, Mummy "
 "Paramount gets +1/+1 until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:151
+#: ../../HOU.rst:100
 msgid "Oketra's Avenger"
 msgstr ""
 
-#: ../../HOU.rst:150
+#: ../../HOU.rst:99
 msgid ""
 "You may exert Oketra's Avenger as it attacks. When you do, prevent all "
 "combat damage that would be dealt to it this turn. (An exerted creature "
 "won't untap during your next untap step.)"
 msgstr ""
 
-#: ../../HOU.rst:158
+#: ../../HOU.rst:104
 msgid "Oketra's Last Mercy"
 msgstr ""
 
-#: ../../HOU.rst:157
+#: ../../HOU.rst:103
 msgid ""
-"Your life total becomes equal to your starting life total. Lands you "
-"control don't untap during your next untap step."
+"Your life total becomes equal to your starting life total. Lands you control "
+"don't untap during your next untap step."
 msgstr ""
 
-#: ../../HOU.rst:169
+#: ../../HOU.rst:112
 msgid "Overwhelming Splendor"
 msgstr ""
 
-#: ../../HOU.rst:164 ../../HOU.rst:306 ../../HOU.rst:671
+#: ../../HOU.rst:107 ../../HOU.rst:201 ../../HOU.rst:437
 msgid "Enchant player"
 msgstr ""
 
-#: ../../HOU.rst:166
+#: ../../HOU.rst:109
 msgid ""
-"Creatures enchanted player controls lose all abilities and have base "
-"power and toughness 1/1."
+"Creatures enchanted player controls lose all abilities and have base power "
+"and toughness 1/1."
 msgstr ""
 
-#: ../../HOU.rst:168
+#: ../../HOU.rst:111
 msgid ""
 "Enchanted player can't activate abilities that aren't mana abilities or "
 "loyalty abilities."
 msgstr ""
 
-#: ../../HOU.rst:176
+#: ../../HOU.rst:116
 msgid "Sandblast"
 msgstr ""
 
-#: ../../HOU.rst:175
+#: ../../HOU.rst:115
 msgid "Sandblast deals 5 damage to target attacking or blocking creature."
 msgstr ""
 
-#: ../../HOU.rst:189
+#: ../../HOU.rst:126
 msgid "Saving Grace"
 msgstr ""
 
-#: ../../HOU.rst:182 ../../HOU.rst:263 ../../HOU.rst:345
+#: ../../HOU.rst:119 ../../HOU.rst:173 ../../HOU.rst:225
 msgid "Flash"
 msgstr ""
 
-#: ../../HOU.rst:184
+#: ../../HOU.rst:121
 msgid "Enchant creature you control"
 msgstr ""
 
-#: ../../HOU.rst:186
+#: ../../HOU.rst:123
 msgid ""
 "When Saving Grace enters the battlefield, all damage that would be dealt "
-"this turn to you and permanents you control is dealt to enchanted "
-"creature instead."
+"this turn to you and permanents you control is dealt to enchanted creature "
+"instead."
 msgstr ""
 
-#: ../../HOU.rst:188
+#: ../../HOU.rst:125
 msgid "Enchanted creature gets +0/+3."
 msgstr ""
 
-#: ../../HOU.rst:198
+#: ../../HOU.rst:132
 msgid "Solemnity"
 msgstr ""
 
-#: ../../HOU.rst:195
+#: ../../HOU.rst:129
 msgid "Players can't get counters."
 msgstr ""
 
-#: ../../HOU.rst:197
+#: ../../HOU.rst:131
 msgid "Counters can't be put on artifacts, creatures, enchantments, or lands."
 msgstr ""
 
-#: ../../HOU.rst:205
+#: ../../HOU.rst:136
 msgid "Solitary Camel"
 msgstr ""
 
-#: ../../HOU.rst:204
+#: ../../HOU.rst:135
 msgid ""
-"Solitary Camel has lifelink as long as you control a Desert or there is a"
-" Desert card in your graveyard. (Damage dealt by this creature also "
-"causes you to gain that much life.)"
+"Solitary Camel has lifelink as long as you control a Desert or there is a "
+"Desert card in your graveyard. (Damage dealt by this creature also causes "
+"you to gain that much life.)"
 msgstr ""
 
-#: ../../HOU.rst:214
+#: ../../HOU.rst:142
 msgid "Steadfast Sentinel"
 msgstr ""
 
-#: ../../HOU.rst:213
+#: ../../HOU.rst:141
 msgid ""
 "Eternalize |mana_4| |mana_w| |mana_w| (|mana_4| |mana_w| |mana_w|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except"
-" it's a 4/4 black Zombie Human Cleric with no mana cost. Eternalize only "
-"as a sorcery.)"
+"this card from your graveyard: Create a token that's a copy of it, except "
+"it's a 4/4 black Zombie Human Cleric with no mana cost. Eternalize only as a "
+"sorcery.)"
 msgstr ""
 
-#: ../../HOU.rst:221
+#: ../../HOU.rst:146
 msgid "Steward of Solidarity"
 msgstr ""
 
-#: ../../HOU.rst:220
+#: ../../HOU.rst:145
 msgid ""
 "|tap|, Exert Steward of Solidarity: Create a 1/1 white Warrior creature "
 "token with vigilance. (An exerted creature won't untap during your next "
 "untap step.)"
 msgstr ""
 
-#: ../../HOU.rst:230
+#: ../../HOU.rst:152
 msgid "Sunscourge Champion"
 msgstr ""
 
-#: ../../HOU.rst:227
+#: ../../HOU.rst:149
 msgid ""
-"When Sunscourge Champion enters the battlefield, you gain life equal to "
-"its power."
+"When Sunscourge Champion enters the battlefield, you gain life equal to its "
+"power."
 msgstr ""
 
-#: ../../HOU.rst:229
+#: ../../HOU.rst:151
 msgid ""
-"Eternalize—|mana_2| |mana_w| |mana_w|, Discard a card. (|mana_2| |mana_w|"
-" |mana_w|, Discard a card, Exile this card from your graveyard: Create a "
-"token that's a copy of it, except it's a 4/4 black Zombie Human Wizard "
-"with no mana cost. Eternalize only as a sorcery.)"
+"Eternalize—|mana_2| |mana_w| |mana_w|, Discard a card. (|mana_2| |mana_w| |"
+"mana_w|, Discard a card, Exile this card from your graveyard: Create a token "
+"that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no "
+"mana cost. Eternalize only as a sorcery.)"
 msgstr ""
 
-#: ../../HOU.rst:239
+#: ../../HOU.rst:158
 msgid "Unconventional Tactics"
 msgstr ""
 
-#: ../../HOU.rst:236
+#: ../../HOU.rst:155
 msgid "Target creature gets +3/+3 and gains flying until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:238
+#: ../../HOU.rst:157
 msgid ""
-"Whenever a Zombie enters the battlefield under your control, you may pay "
-"|mana_w|. If you do, return Unconventional Tactics from your graveyard to"
-" your hand."
+"Whenever a Zombie enters the battlefield under your control, you may pay |"
+"mana_w|. If you do, return Unconventional Tactics from your graveyard to "
+"your hand."
 msgstr ""
 
-#: ../../HOU.rst:248
+#: ../../HOU.rst:164
 msgid "Vizier of the True"
 msgstr ""
 
-#: ../../HOU.rst:245
+#: ../../HOU.rst:161
 msgid ""
-"You may exert Vizier of the True as it attacks. (It won't untap during "
-"your next untap step.)"
+"You may exert Vizier of the True as it attacks. (It won't untap during your "
+"next untap step.)"
 msgstr ""
 
-#: ../../HOU.rst:247
-msgid "Whenever you exert a creature, tap target creature an opponent controls."
+#: ../../HOU.rst:163
+msgid ""
+"Whenever you exert a creature, tap target creature an opponent controls."
 msgstr ""
 
-#: ../../HOU.rst:257
+#: ../../HOU.rst:170
 msgid "Aerial Guide"
 msgstr ""
 
-#: ../../HOU.rst:256
+#: ../../HOU.rst:169
 msgid ""
 "Whenever Aerial Guide attacks, another target attacking creature gains "
 "flying until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:266
+#: ../../HOU.rst:176
 msgid "Aven Reedstalker"
 msgstr ""
 
-#: ../../HOU.rst:275
+#: ../../HOU.rst:182
 msgid "Champion of Wits"
 msgstr ""
 
-#: ../../HOU.rst:272
+#: ../../HOU.rst:179
 msgid ""
-"When Champion of Wits enters the battlefield, you may draw cards equal to"
-" its power. If you do, discard two cards."
+"When Champion of Wits enters the battlefield, you may draw cards equal to "
+"its power. If you do, discard two cards."
 msgstr ""
 
-#: ../../HOU.rst:274
+#: ../../HOU.rst:181
 msgid ""
 "Eternalize |mana_5| |mana_u| |mana_u| (|mana_5| |mana_u| |mana_u|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except"
-" it's a 4/4 black Zombie Naga Wizard with no mana cost. Eternalize only "
-"as a sorcery.)"
+"this card from your graveyard: Create a token that's a copy of it, except "
+"it's a 4/4 black Zombie Naga Wizard with no mana cost. Eternalize only as a "
+"sorcery.)"
 msgstr ""
 
-#: ../../HOU.rst:284
+#: ../../HOU.rst:188
 msgid "Countervailing Winds"
 msgstr ""
 
-#: ../../HOU.rst:281
+#: ../../HOU.rst:185
 msgid ""
-"Counter target spell unless its controller pays |mana_1| for each card in"
-" your graveyard."
+"Counter target spell unless its controller pays |mana_1| for each card in "
+"your graveyard."
 msgstr ""
 
-#: ../../HOU.rst:291
+#: ../../HOU.rst:192
 msgid "Cunning Survivor"
 msgstr ""
 
-#: ../../HOU.rst:290
+#: ../../HOU.rst:191
 msgid ""
-"Whenever you cycle or discard a card, Cunning Survivor gets +1/+0 until "
-"end of turn and can't be blocked this turn."
+"Whenever you cycle or discard a card, Cunning Survivor gets +1/+0 until end "
+"of turn and can't be blocked this turn."
 msgstr ""
 
-#: ../../HOU.rst:300
+#: ../../HOU.rst:198
 msgid "Eternal of Harsh Truths"
 msgstr ""
 
-#: ../../HOU.rst:297 ../../HOU.rst:401 ../../HOU.rst:612 ../../HOU.rst:796
+#: ../../HOU.rst:195 ../../HOU.rst:263 ../../HOU.rst:399 ../../HOU.rst:517
 msgid ""
-"Afflict 2 (Whenever this creature becomes blocked, defending player loses"
-" 2 life.)"
+"Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 "
+"life.)"
 msgstr ""
 
-#: ../../HOU.rst:299
-msgid "Whenever Eternal of Harsh Truths attacks and isn't blocked, draw a card."
+#: ../../HOU.rst:197
+msgid ""
+"Whenever Eternal of Harsh Truths attacks and isn't blocked, draw a card."
 msgstr ""
 
-#: ../../HOU.rst:309
+#: ../../HOU.rst:204
 msgid "Fraying Sanity"
 msgstr ""
 
-#: ../../HOU.rst:308
+#: ../../HOU.rst:203
 msgid ""
-"At the beginning of each end step, enchanted player puts the top X cards "
-"of their library into their graveyard, where X is the number of cards put"
-" into that graveyard from anywhere this turn."
+"At the beginning of each end step, enchanted player puts the top X cards of "
+"their library into their graveyard, where X is the number of cards put into "
+"that graveyard from anywhere this turn."
 msgstr ""
 
-#: ../../HOU.rst:316
+#: ../../HOU.rst:208
 msgid "Hour of Eternity"
 msgstr ""
 
-#: ../../HOU.rst:315
+#: ../../HOU.rst:207
 msgid ""
-"Exile X target creature cards from your graveyard. For each card exiled "
-"this way, create a token that's a copy of that card, except it's a 4/4 "
-"black Zombie."
+"Exile X target creature cards from your graveyard. For each card exiled this "
+"way, create a token that's a copy of that card, except it's a 4/4 black "
+"Zombie."
 msgstr ""
 
-#: ../../HOU.rst:325
+#: ../../HOU.rst:214
 msgid "Imaginary Threats"
 msgstr ""
 
-#: ../../HOU.rst:322
+#: ../../HOU.rst:211
 msgid ""
 "Creatures target opponent controls attack this turn if able. During that "
 "player's next untap step, creatures they control don't untap."
 msgstr ""
 
-#: ../../HOU.rst:332
+#: ../../HOU.rst:218
 msgid "Jace's Defeat"
 msgstr ""
 
-#: ../../HOU.rst:331
+#: ../../HOU.rst:217
 msgid "Counter target blue spell. If it was a Jace planeswalker spell, scry 2."
 msgstr ""
 
-#: ../../HOU.rst:339
+#: ../../HOU.rst:222
 msgid "Kefnet's Last Word"
 msgstr ""
 
-#: ../../HOU.rst:338
+#: ../../HOU.rst:221
 msgid ""
-"Gain control of target artifact, creature, or enchantment. Lands you "
-"control don't untap during your next untap step."
+"Gain control of target artifact, creature, or enchantment. Lands you control "
+"don't untap during your next untap step."
 msgstr ""
 
-#: ../../HOU.rst:352
+#: ../../HOU.rst:232
 msgid "Nimble Obstructionist"
 msgstr ""
 
-#: ../../HOU.rst:349
+#: ../../HOU.rst:229
 msgid ""
 "Cycling |mana_2| |mana_u| (|mana_2| |mana_u|, Discard this card: Draw a "
 "card.)"
 msgstr ""
 
-#: ../../HOU.rst:351
+#: ../../HOU.rst:231
 msgid ""
-"When you cycle Nimble Obstructionist, counter target activated or "
-"triggered ability you don't control."
+"When you cycle Nimble Obstructionist, counter target activated or triggered "
+"ability you don't control."
 msgstr ""
 
-#: ../../HOU.rst:361
+#: ../../HOU.rst:238
 msgid "Ominous Sphinx"
 msgstr ""
 
-#: ../../HOU.rst:360
+#: ../../HOU.rst:237
 msgid ""
-"Whenever you cycle or discard a card, target creature an opponent "
-"controls gets -2/-0 until end of turn."
+"Whenever you cycle or discard a card, target creature an opponent controls "
+"gets -2/-0 until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:368
+#: ../../HOU.rst:242
 msgid "Proven Combatant"
 msgstr ""
 
-#: ../../HOU.rst:367
+#: ../../HOU.rst:241
 msgid ""
 "Eternalize |mana_4| |mana_u| |mana_u| (|mana_4| |mana_u| |mana_u|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except"
-" it's a 4/4 black Zombie Human Warrior with no mana cost. Eternalize only"
-" as a sorcery.)"
+"this card from your graveyard: Create a token that's a copy of it, except "
+"it's a 4/4 black Zombie Human Warrior with no mana cost. Eternalize only as "
+"a sorcery.)"
 msgstr ""
 
-#: ../../HOU.rst:377
+#: ../../HOU.rst:248
 msgid "Riddleform"
 msgstr ""
 
-#: ../../HOU.rst:374
+#: ../../HOU.rst:245
 msgid ""
-"Whenever you cast a noncreature spell, you may have Riddleform become a "
-"3/3 Sphinx creature with flying in addition to its other types until end "
-"of turn."
+"Whenever you cast a noncreature spell, you may have Riddleform become a 3/3 "
+"Sphinx creature with flying in addition to its other types until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:376
+#: ../../HOU.rst:247
 msgid "|mana_2| |mana_u|: Scry 1."
 msgstr ""
 
-#: ../../HOU.rst:384
+#: ../../HOU.rst:252
 msgid "Seer of the Last Tomorrow"
 msgstr ""
 
-#: ../../HOU.rst:383
+#: ../../HOU.rst:251
 msgid ""
-"|mana_u|, |tap|, Discard a card: Target player puts the top three cards "
-"of their library into their graveyard."
+"|mana_u|, |tap|, Discard a card: Target player puts the top three cards of "
+"their library into their graveyard."
 msgstr ""
 
-#: ../../HOU.rst:393
+#: ../../HOU.rst:258
 msgid "Sinuous Striker"
 msgstr ""
 
-#: ../../HOU.rst:390
+#: ../../HOU.rst:255
 msgid "|mana_u|: Sinuous Striker gets +1/-1 until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:392
+#: ../../HOU.rst:257
 msgid ""
-"Eternalize—|mana_3| |mana_u| |mana_u|, Discard a card. (|mana_3| |mana_u|"
-" |mana_u|, Discard a card, Exile this card from your graveyard: Create a "
-"token that's a copy of it, except it's a 4/4 black Zombie Naga Warrior "
-"with no mana cost. Eternalize only as a sorcery.)"
+"Eternalize—|mana_3| |mana_u| |mana_u|, Discard a card. (|mana_3| |mana_u| |"
+"mana_u|, Discard a card, Exile this card from your graveyard: Create a token "
+"that's a copy of it, except it's a 4/4 black Zombie Naga Warrior with no "
+"mana cost. Eternalize only as a sorcery.)"
 msgstr ""
 
-#: ../../HOU.rst:402
+#: ../../HOU.rst:264
 msgid "Spellweaver Eternal"
 msgstr ""
 
-#: ../../HOU.rst:399 ../../HOU.rst:917 ../../HOU.rst:1153
+#: ../../HOU.rst:261 ../../HOU.rst:593 ../../HOU.rst:739
 msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
 
-#: ../../HOU.rst:409
+#: ../../HOU.rst:268
 msgid "Strategic Planning"
 msgstr ""
 
-#: ../../HOU.rst:408
+#: ../../HOU.rst:267
 msgid ""
-"Look at the top three cards of your library. Put one of them into your "
-"hand and the rest into your graveyard."
+"Look at the top three cards of your library. Put one of them into your hand "
+"and the rest into your graveyard."
 msgstr ""
 
-#: ../../HOU.rst:418
+#: ../../HOU.rst:274
 msgid "Striped Riverwinder"
 msgstr ""
 
-#: ../../HOU.rst:415
+#: ../../HOU.rst:271
 msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
 
-#: ../../HOU.rst:417
+#: ../../HOU.rst:273
 msgid "Cycling |mana_u| (|mana_u|, Discard this card: Draw a card.)"
 msgstr ""
 
-#: ../../HOU.rst:429
+#: ../../HOU.rst:282
 msgid "Supreme Will"
 msgstr ""
 
-#: ../../HOU.rst:424 ../../HOU.rst:539 ../../HOU.rst:712
+#: ../../HOU.rst:277 ../../HOU.rst:353 ../../HOU.rst:463
 msgid "Choose one —"
 msgstr ""
 
-#: ../../HOU.rst:426
+#: ../../HOU.rst:279
 msgid "Counter target spell unless its controller pays |mana_3|."
 msgstr ""
 
-#: ../../HOU.rst:428
+#: ../../HOU.rst:281
 msgid ""
-"Look at the top four cards of your library. Put one of them into your "
-"hand and the rest on the bottom of your library in any order."
+"Look at the top four cards of your library. Put one of them into your hand "
+"and the rest on the bottom of your library in any order."
 msgstr ""
 
-#: ../../HOU.rst:436
+#: ../../HOU.rst:286
 msgid "Swarm Intelligence"
 msgstr ""
 
-#: ../../HOU.rst:435
+#: ../../HOU.rst:285
 msgid ""
-"Whenever you cast an instant or sorcery spell, you may copy that spell. "
-"You may choose new targets for the copy."
+"Whenever you cast an instant or sorcery spell, you may copy that spell. You "
+"may choose new targets for the copy."
 msgstr ""
 
-#: ../../HOU.rst:443
+#: ../../HOU.rst:290
 msgid "Tragic Lesson"
 msgstr ""
 
-#: ../../HOU.rst:442
+#: ../../HOU.rst:289
 msgid ""
-"Draw two cards. Then discard a card unless you return a land you control "
-"to its owner's hand."
+"Draw two cards. Then discard a card unless you return a land you control to "
+"its owner's hand."
 msgstr ""
 
-#: ../../HOU.rst:454
+#: ../../HOU.rst:298
 msgid "Unesh, Criosphinx Sovereign"
 msgstr ""
 
-#: ../../HOU.rst:451
+#: ../../HOU.rst:295
 msgid "Sphinx spells you cast cost |mana_2| less to cast."
 msgstr ""
 
-#: ../../HOU.rst:453
+#: ../../HOU.rst:297
 msgid ""
 "Whenever Unesh, Criosphinx Sovereign or another Sphinx enters the "
-"battlefield under your control, reveal the top four cards of your "
-"library. An opponent separates those cards into two piles. Put one pile "
-"into your hand and the other into your graveyard."
+"battlefield under your control, reveal the top four cards of your library. "
+"An opponent separates those cards into two piles. Put one pile into your "
+"hand and the other into your graveyard."
 msgstr ""
 
-#: ../../HOU.rst:465
+#: ../../HOU.rst:306
 msgid "Unquenchable Thirst"
 msgstr ""
 
-#: ../../HOU.rst:462
+#: ../../HOU.rst:303
 msgid ""
-"When Unquenchable Thirst enters the battlefield, if you control a Desert "
-"or there is a Desert card in your graveyard, tap enchanted creature."
+"When Unquenchable Thirst enters the battlefield, if you control a Desert or "
+"there is a Desert card in your graveyard, tap enchanted creature."
 msgstr ""
 
-#: ../../HOU.rst:464
+#: ../../HOU.rst:305
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
 
-#: ../../HOU.rst:472
+#: ../../HOU.rst:310
 msgid "Unsummon"
 msgstr ""
 
-#: ../../HOU.rst:471
+#: ../../HOU.rst:309
 msgid "Return target creature to its owner's hand."
 msgstr ""
 
-#: ../../HOU.rst:481
+#: ../../HOU.rst:316
 msgid "Vizier of the Anointed"
 msgstr ""
 
-#: ../../HOU.rst:478
+#: ../../HOU.rst:313
 msgid ""
 "When Vizier of the Anointed enters the battlefield, you may search your "
-"library for a creature card with eternalize or embalm, put that card into"
-" your graveyard, then shuffle your library."
+"library for a creature card with eternalize or embalm, put that card into "
+"your graveyard, then shuffle your library."
 msgstr ""
 
-#: ../../HOU.rst:480
+#: ../../HOU.rst:315
 msgid "Whenever you activate an eternalize or embalm ability, draw a card."
 msgstr ""
 
-#: ../../HOU.rst:488
+#: ../../HOU.rst:320
 msgid "Accursed Horde"
 msgstr ""
 
-#: ../../HOU.rst:487
+#: ../../HOU.rst:319
 msgid ""
-"|mana_1| |mana_b|: Target attacking Zombie gains indestructible until end"
-" of turn. (Damage and effects that say \"destroy\" don't destroy it. If "
-"its toughness is 0 or less, it's still put into its owner's graveyard.)"
+"|mana_1| |mana_b|: Target attacking Zombie gains indestructible until end of "
+"turn. (Damage and effects that say \"destroy\" don't destroy it. If its "
+"toughness is 0 or less, it's still put into its owner's graveyard.)"
 msgstr ""
 
-#: ../../HOU.rst:499
+#: ../../HOU.rst:328
 msgid "Ammit Eternal"
 msgstr ""
 
-#: ../../HOU.rst:494 ../../HOU.rst:878 ../../HOU.rst:887
+#: ../../HOU.rst:323 ../../HOU.rst:569 ../../HOU.rst:575
 msgid ""
-"Afflict 3 (Whenever this creature becomes blocked, defending player loses"
-" 3 life.)"
+"Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 "
+"life.)"
 msgstr ""
 
-#: ../../HOU.rst:496
-msgid "Whenever an opponent casts a spell, put a -1/-1 counter on Ammit Eternal."
+#: ../../HOU.rst:325
+msgid ""
+"Whenever an opponent casts a spell, put a -1/-1 counter on Ammit Eternal."
 msgstr ""
 
-#: ../../HOU.rst:498
+#: ../../HOU.rst:327
 msgid ""
 "Whenever Ammit Eternal deals combat damage to a player, remove all -1/-1 "
 "counters from it."
 msgstr ""
 
-#: ../../HOU.rst:510
+#: ../../HOU.rst:336
 msgid "Apocalypse Demon"
 msgstr ""
 
-#: ../../HOU.rst:507
+#: ../../HOU.rst:333
 msgid ""
-"Apocalypse Demon's power and toughness are each equal to the number of "
-"cards in your graveyard."
+"Apocalypse Demon's power and toughness are each equal to the number of cards "
+"in your graveyard."
 msgstr ""
 
-#: ../../HOU.rst:509
+#: ../../HOU.rst:335
 msgid ""
-"At the beginning of your upkeep, tap Apocalypse Demon unless you "
-"sacrifice another creature."
+"At the beginning of your upkeep, tap Apocalypse Demon unless you sacrifice "
+"another creature."
 msgstr ""
 
-#: ../../HOU.rst:519
+#: ../../HOU.rst:342
 msgid "Banewhip Punisher"
 msgstr ""
 
-#: ../../HOU.rst:516
+#: ../../HOU.rst:339
 msgid ""
-"When Banewhip Punisher enters the battlefield, you may put a -1/-1 "
-"counter on target creature."
+"When Banewhip Punisher enters the battlefield, you may put a -1/-1 counter "
+"on target creature."
 msgstr ""
 
-#: ../../HOU.rst:518
+#: ../../HOU.rst:341
 msgid ""
-"|mana_b|, Sacrifice Banewhip Punisher: Destroy target creature that has a"
-" -1/-1 counter on it."
+"|mana_b|, Sacrifice Banewhip Punisher: Destroy target creature that has a "
+"-1/-1 counter on it."
 msgstr ""
 
-#: ../../HOU.rst:526
+#: ../../HOU.rst:346
 msgid "Bontu's Last Reckoning"
 msgstr ""
 
-#: ../../HOU.rst:525
+#: ../../HOU.rst:345
 msgid ""
-"Destroy all creatures. Lands you control don't untap during your next "
-"untap step."
+"Destroy all creatures. Lands you control don't untap during your next untap "
+"step."
 msgstr ""
 
-#: ../../HOU.rst:533
+#: ../../HOU.rst:350
 msgid "Carrion Screecher"
 msgstr ""
 
-#: ../../HOU.rst:544
+#: ../../HOU.rst:358
 msgid "Doomfall"
 msgstr ""
 
-#: ../../HOU.rst:541
+#: ../../HOU.rst:355
 msgid "Target opponent exiles a creature they control."
 msgstr ""
 
-#: ../../HOU.rst:543
+#: ../../HOU.rst:357
 msgid ""
-"Target opponent reveals their hand. You choose a nonland card from it. "
-"Exile that card."
+"Target opponent reveals their hand. You choose a nonland card from it. Exile "
+"that card."
 msgstr ""
 
-#: ../../HOU.rst:555
+#: ../../HOU.rst:366
 msgid "Dreamstealer"
 msgstr ""
 
-#: ../../HOU.rst:550 ../../HOU.rst:812 ../../HOU.rst:853
+#: ../../HOU.rst:361 ../../HOU.rst:527 ../../HOU.rst:553
 msgid "Menace"
 msgstr ""
 
-#: ../../HOU.rst:552
+#: ../../HOU.rst:363
 msgid ""
-"Whenever Dreamstealer deals combat damage to a player, that player "
-"discards that many cards."
+"Whenever Dreamstealer deals combat damage to a player, that player discards "
+"that many cards."
 msgstr ""
 
-#: ../../HOU.rst:554
+#: ../../HOU.rst:365
 msgid ""
 "Eternalize |mana_4| |mana_b| |mana_b| (|mana_4| |mana_b| |mana_b|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except"
-" it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only "
-"as a sorcery.)"
+"this card from your graveyard: Create a token that's a copy of it, except "
+"it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a "
+"sorcery.)"
 msgstr ""
 
-#: ../../HOU.rst:562
+#: ../../HOU.rst:370
 msgid "Grisly Survivor"
 msgstr ""
 
-#: ../../HOU.rst:561
+#: ../../HOU.rst:369
 msgid ""
-"Whenever you cycle or discard a card, Grisly Survivor gets +2/+0 until "
-"end of turn."
+"Whenever you cycle or discard a card, Grisly Survivor gets +2/+0 until end "
+"of turn."
 msgstr ""
 
-#: ../../HOU.rst:569
+#: ../../HOU.rst:374
 msgid "Hour of Glory"
 msgstr ""
 
-#: ../../HOU.rst:568
+#: ../../HOU.rst:373
 msgid ""
-"Exile target creature. If that creature was a God, its controller reveals"
-" their hand and exiles all cards from it with the same name as that "
-"creature."
+"Exile target creature. If that creature was a God, its controller reveals "
+"their hand and exiles all cards from it with the same name as that creature."
 msgstr ""
 
-#: ../../HOU.rst:576
+#: ../../HOU.rst:378
 msgid "Khenra Eternal"
 msgstr ""
 
-#: ../../HOU.rst:575
+#: ../../HOU.rst:377
 msgid ""
-"Afflict 1 (Whenever this creature becomes blocked, defending player loses"
-" 1 life.)"
+"Afflict 1 (Whenever this creature becomes blocked, defending player loses 1 "
+"life.)"
 msgstr ""
 
-#: ../../HOU.rst:585
+#: ../../HOU.rst:384
 msgid "Lethal Sting"
 msgstr ""
 
-#: ../../HOU.rst:582
+#: ../../HOU.rst:381
 msgid ""
-"As an additional cost to cast this spell, put a -1/-1 counter on a "
-"creature you control."
+"As an additional cost to cast this spell, put a -1/-1 counter on a creature "
+"you control."
 msgstr ""
 
-#: ../../HOU.rst:584
+#: ../../HOU.rst:383
 msgid "Destroy target creature."
 msgstr ""
 
-#: ../../HOU.rst:592
+#: ../../HOU.rst:388
 msgid "Liliana's Defeat"
 msgstr ""
 
-#: ../../HOU.rst:591
+#: ../../HOU.rst:387
 msgid ""
-"Destroy target black creature or black planeswalker. If that permanent "
-"was a Liliana planeswalker, her controller loses 3 life."
+"Destroy target black creature or black planeswalker. If that permanent was a "
+"Liliana planeswalker, her controller loses 3 life."
 msgstr ""
 
-#: ../../HOU.rst:599
+#: ../../HOU.rst:392
 msgid "Lurching Rotbeast"
 msgstr ""
 
-#: ../../HOU.rst:598 ../../HOU.rst:641
+#: ../../HOU.rst:391 ../../HOU.rst:419
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
 msgstr ""
 
-#: ../../HOU.rst:606
+#: ../../HOU.rst:396
 msgid "Marauding Boneslasher"
 msgstr ""
 
-#: ../../HOU.rst:605
+#: ../../HOU.rst:395
 msgid "Marauding Boneslasher can't block unless you control another Zombie."
 msgstr ""
 
-#: ../../HOU.rst:615
+#: ../../HOU.rst:402
 msgid "Merciless Eternal"
 msgstr ""
 
-#: ../../HOU.rst:614
+#: ../../HOU.rst:401
 msgid ""
-"|mana_2| |mana_b|, Discard a card: Merciless Eternal gets +2/+2 until end"
-" of turn."
+"|mana_2| |mana_b|, Discard a card: Merciless Eternal gets +2/+2 until end of "
+"turn."
 msgstr ""
 
-#: ../../HOU.rst:624
+#: ../../HOU.rst:408
 msgid "Moaning Wall"
 msgstr ""
 
-#: ../../HOU.rst:621 ../../HOU.rst:1501
+#: ../../HOU.rst:405 ../../HOU.rst:967
 msgid "Defender"
 msgstr ""
 
-#: ../../HOU.rst:633
+#: ../../HOU.rst:414
 msgid "Razaketh, the Foulblooded"
 msgstr ""
 
-#: ../../HOU.rst:630
+#: ../../HOU.rst:411
 msgid "Flying, trample"
 msgstr ""
 
-#: ../../HOU.rst:632
+#: ../../HOU.rst:413
 msgid ""
-"Pay 2 life, Sacrifice another creature: Search your library for a card "
-"and put that card into your hand. Then shuffle your library."
+"Pay 2 life, Sacrifice another creature: Search your library for a card and "
+"put that card into your hand. Then shuffle your library."
 msgstr ""
 
-#: ../../HOU.rst:642
+#: ../../HOU.rst:420
 msgid "Razaketh's Rite"
 msgstr ""
 
-#: ../../HOU.rst:639
+#: ../../HOU.rst:417
 msgid ""
 "Search your library for a card and put that card into your hand. Then "
 "shuffle your library."
 msgstr ""
 
-#: ../../HOU.rst:651
+#: ../../HOU.rst:426
 msgid "Ruin Rat"
 msgstr ""
 
-#: ../../HOU.rst:648
+#: ../../HOU.rst:423
 msgid "Deathtouch"
 msgstr ""
 
-#: ../../HOU.rst:650
+#: ../../HOU.rst:425
 msgid "When Ruin Rat dies, exile target card from an opponent's graveyard."
 msgstr ""
 
-#: ../../HOU.rst:658
+#: ../../HOU.rst:430
 msgid "Scrounger of Souls"
 msgstr ""
 
-#: ../../HOU.rst:657
+#: ../../HOU.rst:429
 msgid ""
-"Lifelink (Damage dealt by this creature also causes you to gain that much"
-" life.)"
+"Lifelink (Damage dealt by this creature also causes you to gain that much "
+"life.)"
 msgstr ""
 
-#: ../../HOU.rst:665
+#: ../../HOU.rst:434
 msgid "Torment of Hailfire"
 msgstr ""
 
-#: ../../HOU.rst:664
+#: ../../HOU.rst:433
 msgid ""
-"Repeat the following process X times. Each opponent loses 3 life unless "
-"that player sacrifices a nonland permanent or discards a card."
+"Repeat the following process X times. Each opponent loses 3 life unless that "
+"player sacrifices a nonland permanent or discards a card."
 msgstr ""
 
-#: ../../HOU.rst:674
+#: ../../HOU.rst:440
 msgid "Torment of Scarabs"
 msgstr ""
 
-#: ../../HOU.rst:673
+#: ../../HOU.rst:439
 msgid ""
 "At the beginning of enchanted player's upkeep, that player loses 3 life "
 "unless they sacrifice a nonland permanent or discard a card."
 msgstr ""
 
-#: ../../HOU.rst:681
+#: ../../HOU.rst:444
 msgid "Torment of Venom"
 msgstr ""
 
-#: ../../HOU.rst:680
+#: ../../HOU.rst:443
 msgid ""
 "Put three -1/-1 counters on target creature. Its controller loses 3 life "
 "unless they sacrifice another nonland permanent or discards a card."
 msgstr ""
 
-#: ../../HOU.rst:690
+#: ../../HOU.rst:450
 msgid "Vile Manifestation"
 msgstr ""
 
-#: ../../HOU.rst:687
+#: ../../HOU.rst:447
 msgid ""
-"Vile Manifestation gets +1/+0 for each card with cycling in your "
-"graveyard."
+"Vile Manifestation gets +1/+0 for each card with cycling in your graveyard."
 msgstr ""
 
-#: ../../HOU.rst:699
+#: ../../HOU.rst:456
 msgid "Without Weakness"
 msgstr ""
 
-#: ../../HOU.rst:696
+#: ../../HOU.rst:453
 msgid ""
-"Target creature you control gains indestructible until end of turn. "
-"(Damage and effects that say \"destroy\" don't destroy it. If its "
-"toughness is 0 or less, it's still put into its owner's graveyard.)"
+"Target creature you control gains indestructible until end of turn. (Damage "
+"and effects that say \"destroy\" don't destroy it. If its toughness is 0 or "
+"less, it's still put into its owner's graveyard.)"
 msgstr ""
 
-#: ../../HOU.rst:706
+#: ../../HOU.rst:460
 msgid "Wretched Camel"
 msgstr ""
 
-#: ../../HOU.rst:705
+#: ../../HOU.rst:459
 msgid ""
-"When Wretched Camel dies, if you control a Desert or there is a Desert "
-"card in your graveyard, target player discards a card."
+"When Wretched Camel dies, if you control a Desert or there is a Desert card "
+"in your graveyard, target player discards a card."
 msgstr ""
 
-#: ../../HOU.rst:717
+#: ../../HOU.rst:468
 msgid "Abrade"
 msgstr ""
 
-#: ../../HOU.rst:714
+#: ../../HOU.rst:465
 msgid "Abrade deals 3 damage to target creature."
 msgstr ""
 
-#: ../../HOU.rst:716
+#: ../../HOU.rst:467
 msgid "Destroy target artifact."
 msgstr ""
 
-#: ../../HOU.rst:724
+#: ../../HOU.rst:472
 msgid "Blur of Blades"
 msgstr ""
 
-#: ../../HOU.rst:723
+#: ../../HOU.rst:471
 msgid ""
 "Put a -1/-1 counter on target creature. Blur of Blades deals 2 damage to "
 "that creature's controller."
 msgstr ""
 
-#: ../../HOU.rst:733
+#: ../../HOU.rst:478
 msgid "Burning-Fist Minotaur"
 msgstr ""
 
-#: ../../HOU.rst:730
+#: ../../HOU.rst:475
 msgid "First strike"
 msgstr ""
 
-#: ../../HOU.rst:732
+#: ../../HOU.rst:477
 msgid ""
-"|mana_1| |mana_r|, Discard a card: Burning-Fist Minotaur gets +2/+0 until"
-" end of turn."
+"|mana_1| |mana_r|, Discard a card: Burning-Fist Minotaur gets +2/+0 until "
+"end of turn."
 msgstr ""
 
-#: ../../HOU.rst:740
+#: ../../HOU.rst:482
 msgid "Chandra's Defeat"
 msgstr ""
 
-#: ../../HOU.rst:739
+#: ../../HOU.rst:481
 msgid ""
-"Chandra's Defeat deals 5 damage to target red creature or red "
-"planeswalker. If that permanent is a Chandra planeswalker, you may "
-"discard a card. If you do, draw a card."
+"Chandra's Defeat deals 5 damage to target red creature or red planeswalker. "
+"If that permanent is a Chandra planeswalker, you may discard a card. If you "
+"do, draw a card."
 msgstr ""
 
-#: ../../HOU.rst:747
+#: ../../HOU.rst:486
 msgid "Chaos Maw"
 msgstr ""
 
-#: ../../HOU.rst:746
+#: ../../HOU.rst:485
 msgid ""
 "When Chaos Maw enters the battlefield, it deals 3 damage to each other "
 "creature."
 msgstr ""
 
-#: ../../HOU.rst:756
+#: ../../HOU.rst:492
 msgid "Crash Through"
 msgstr ""
 
-#: ../../HOU.rst:753
+#: ../../HOU.rst:489
 msgid ""
 "Creatures you control gain trample until end of turn. (A creature with "
 "trample can deal excess combat damage to the player or planeswalker it's "
 "attacking.)"
 msgstr ""
 
-#: ../../HOU.rst:755
+#: ../../HOU.rst:491
 msgid "Draw a card."
 msgstr ""
 
-#: ../../HOU.rst:761
+#: ../../HOU.rst:494
 msgid "Defiant Khenra"
 msgstr ""
 
-#: ../../HOU.rst:774
+#: ../../HOU.rst:504
 msgid "Earthshaker Khenra"
 msgstr ""
 
-#: ../../HOU.rst:769
+#: ../../HOU.rst:499
 msgid "Haste"
 msgstr ""
 
-#: ../../HOU.rst:771
+#: ../../HOU.rst:501
 msgid ""
-"When Earthshaker Khenra enters the battlefield, target creature with "
-"power less than or equal to Earthshaker Khenra's power can't block this "
-"turn."
+"When Earthshaker Khenra enters the battlefield, target creature with power "
+"less than or equal to Earthshaker Khenra's power can't block this turn."
 msgstr ""
 
-#: ../../HOU.rst:773
+#: ../../HOU.rst:503
 msgid ""
 "Eternalize |mana_4| |mana_r| |mana_r| (|mana_4| |mana_r| |mana_r|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except"
-" it's a 4/4 black Zombie Jackal Warrior with no mana cost. Eternalize "
-"only as a sorcery.)"
+"this card from your graveyard: Create a token that's a copy of it, except "
+"it's a 4/4 black Zombie Jackal Warrior with no mana cost. Eternalize only as "
+"a sorcery.)"
 msgstr ""
 
-#: ../../HOU.rst:783
+#: ../../HOU.rst:510
 msgid "Fervent Paincaster"
 msgstr ""
 
-#: ../../HOU.rst:780
-msgid "|tap|: Fervent Paincaster deals 1 damage to target player or planeswalker."
-msgstr ""
-
-#: ../../HOU.rst:782
+#: ../../HOU.rst:507
 msgid ""
-"|tap|, Exert Fervent Paincaster: It deals 1 damage to target creature. "
-"(An exerted creature won't untap during your next untap step.)"
+"|tap|: Fervent Paincaster deals 1 damage to target player or planeswalker."
 msgstr ""
 
-#: ../../HOU.rst:790
+#: ../../HOU.rst:509
+msgid ""
+"|tap|, Exert Fervent Paincaster: It deals 1 damage to target creature. (An "
+"exerted creature won't untap during your next untap step.)"
+msgstr ""
+
+#: ../../HOU.rst:514
 msgid "Firebrand Archer"
 msgstr ""
 
-#: ../../HOU.rst:789
+#: ../../HOU.rst:513
 msgid ""
-"Whenever you cast a noncreature spell, Firebrand Archer deals 1 damage to"
-" each opponent."
+"Whenever you cast a noncreature spell, Firebrand Archer deals 1 damage to "
+"each opponent."
 msgstr ""
 
-#: ../../HOU.rst:799
+#: ../../HOU.rst:520
 msgid "Frontline Devastator"
 msgstr ""
 
-#: ../../HOU.rst:798
+#: ../../HOU.rst:519
 msgid "|mana_1| |mana_r|: Frontline Devastator gets +1/+0 until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:806
+#: ../../HOU.rst:524
 msgid "Gilded Cerodon"
 msgstr ""
 
-#: ../../HOU.rst:805
+#: ../../HOU.rst:523
 msgid ""
 "Whenever Gilded Cerodon attacks, if you control a Desert or there is a "
 "Desert card in your graveyard, target creature can't block this turn."
 msgstr ""
 
-#: ../../HOU.rst:815
+#: ../../HOU.rst:530
 msgid "Granitic Titan"
 msgstr ""
 
-#: ../../HOU.rst:822
+#: ../../HOU.rst:534
 msgid "Hazoret's Undying Fury"
 msgstr ""
 
-#: ../../HOU.rst:821
+#: ../../HOU.rst:533
 msgid ""
-"Shuffle your library, then exile the top four cards. You may cast any "
-"number of nonland cards with converted mana cost 5 or less from among "
-"them without paying their mana costs. Lands you control don't untap "
-"during your next untap step."
+"Shuffle your library, then exile the top four cards. You may cast any number "
+"of nonland cards with converted mana cost 5 or less from among them without "
+"paying their mana costs. Lands you control don't untap during your next "
+"untap step."
 msgstr ""
 
-#: ../../HOU.rst:828
+#: ../../HOU.rst:537
 msgid ""
 "All creatures lose indestructible until end of turn. Hour of Devastation "
 "deals 5 damage to each creature and each non-Bolas planeswalker."
 msgstr ""
 
-#: ../../HOU.rst:838
+#: ../../HOU.rst:544
 msgid "Imminent Doom"
 msgstr ""
 
-#: ../../HOU.rst:835
+#: ../../HOU.rst:541
 msgid "Imminent Doom enters the battlefield with a doom counter on it."
 msgstr ""
 
-#: ../../HOU.rst:837
+#: ../../HOU.rst:543
 msgid ""
-"Whenever you cast a spell with converted mana cost equal to the number of"
-" doom counters on Imminent Doom, Imminent Doom deals that much damage to "
-"any target. Then put a doom counter on Imminent Doom."
+"Whenever you cast a spell with converted mana cost equal to the number of "
+"doom counters on Imminent Doom, Imminent Doom deals that much damage to any "
+"target. Then put a doom counter on Imminent Doom."
 msgstr ""
 
-#: ../../HOU.rst:847
+#: ../../HOU.rst:550
 msgid "Inferno Jet"
 msgstr ""
 
-#: ../../HOU.rst:844
+#: ../../HOU.rst:547
 msgid "Inferno Jet deals 6 damage to target opponent or planeswalker."
 msgstr ""
 
-#: ../../HOU.rst:856
+#: ../../HOU.rst:556
 msgid "Khenra Scrapper"
 msgstr ""
 
-#: ../../HOU.rst:855
+#: ../../HOU.rst:555
 msgid ""
 "You may exert Khenra Scrapper as it attacks. When you do, it gets +2/+0 "
-"until end of turn. (An exerted creature won't untap during your next "
-"untap step.)"
+"until end of turn. (An exerted creature won't untap during your next untap "
+"step.)"
 msgstr ""
 
-#: ../../HOU.rst:863
+#: ../../HOU.rst:560
 msgid "Kindled Fury"
 msgstr ""
 
-#: ../../HOU.rst:862
+#: ../../HOU.rst:559
 msgid "Target creature gets +1/+0 and gains first strike until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:872
+#: ../../HOU.rst:566
 msgid "Magmaroth"
 msgstr ""
 
-#: ../../HOU.rst:869
+#: ../../HOU.rst:563
 msgid "At the beginning of your upkeep, put a -1/-1 counter on Magmaroth."
 msgstr ""
 
-#: ../../HOU.rst:871
+#: ../../HOU.rst:565
 msgid ""
-"Whenever you cast a noncreature spell, remove a -1/-1 counter from "
-"Magmaroth."
+"Whenever you cast a noncreature spell, remove a -1/-1 counter from Magmaroth."
 msgstr ""
 
-#: ../../HOU.rst:881
+#: ../../HOU.rst:572
 msgid "Manticore Eternal"
 msgstr ""
 
-#: ../../HOU.rst:880
+#: ../../HOU.rst:571
 msgid "Manticore Eternal attacks each combat if able."
 msgstr ""
 
-#: ../../HOU.rst:890
+#: ../../HOU.rst:578
 msgid "Neheb, the Eternal"
 msgstr ""
 
-#: ../../HOU.rst:889
+#: ../../HOU.rst:577
 msgid ""
-"At the beginning of your postcombat main phase, add |mana_r| for each 1 "
-"life your opponents have lost this turn."
+"At the beginning of your postcombat main phase, add |mana_r| for each 1 life "
+"your opponents have lost this turn."
 msgstr ""
 
-#: ../../HOU.rst:897
+#: ../../HOU.rst:582
 msgid "Open Fire"
 msgstr ""
 
-#: ../../HOU.rst:896
+#: ../../HOU.rst:581
 msgid "Open Fire deals 3 damage to any target."
 msgstr ""
 
-#: ../../HOU.rst:904
+#: ../../HOU.rst:586
 msgid "Puncturing Blow"
 msgstr ""
 
-#: ../../HOU.rst:903
+#: ../../HOU.rst:585
 msgid ""
-"Puncturing Blow deals 5 damage to target creature. If that creature would"
-" die this turn, exile it instead."
+"Puncturing Blow deals 5 damage to target creature. If that creature would "
+"die this turn, exile it instead."
 msgstr ""
 
-#: ../../HOU.rst:911
+#: ../../HOU.rst:590
 msgid "Sand Strangler"
 msgstr ""
 
-#: ../../HOU.rst:910
+#: ../../HOU.rst:589
 msgid ""
-"When Sand Strangler enters the battlefield, if you control a Desert or "
-"there is a Desert card in your graveyard, you may have Sand Strangler "
-"deal 3 damage to target creature."
+"When Sand Strangler enters the battlefield, if you control a Desert or there "
+"is a Desert card in your graveyard, you may have Sand Strangler deal 3 "
+"damage to target creature."
 msgstr ""
 
-#: ../../HOU.rst:920
+#: ../../HOU.rst:596
 msgid "Thorned Moloch"
 msgstr ""
 
-#: ../../HOU.rst:919
+#: ../../HOU.rst:595
 msgid "Thorned Moloch has first strike as long as it's attacking."
 msgstr ""
 
-#: ../../HOU.rst:929
+#: ../../HOU.rst:602
 msgid "Wildfire Eternal"
 msgstr ""
 
-#: ../../HOU.rst:926
+#: ../../HOU.rst:599
 msgid ""
-"Afflict 4 (Whenever this creature becomes blocked, defending player loses"
-" 4 life.)"
+"Afflict 4 (Whenever this creature becomes blocked, defending player loses 4 "
+"life.)"
 msgstr ""
 
-#: ../../HOU.rst:928
+#: ../../HOU.rst:601
 msgid ""
-"Whenever Wildfire Eternal attacks and isn't blocked, you may cast an "
-"instant or sorcery card from your hand without paying its mana cost."
+"Whenever Wildfire Eternal attacks and isn't blocked, you may cast an instant "
+"or sorcery card from your hand without paying its mana cost."
 msgstr ""
 
-#: ../../HOU.rst:936
+#: ../../HOU.rst:606
 msgid "Ambuscade"
 msgstr ""
 
-#: ../../HOU.rst:935
+#: ../../HOU.rst:605
 msgid ""
-"Target creature you control gets +1/+0 until end of turn. It deals damage"
-" equal to its power to target creature an opponent controls."
+"Target creature you control gets +1/+0 until end of turn. It deals damage "
+"equal to its power to target creature an opponent controls."
 msgstr ""
 
-#: ../../HOU.rst:945
+#: ../../HOU.rst:612
 msgid "Beneath the Sands"
 msgstr ""
 
-#: ../../HOU.rst:942
+#: ../../HOU.rst:609
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle your library."
 msgstr ""
 
-#: ../../HOU.rst:952
+#: ../../HOU.rst:616
 msgid "Bitterbow Sharpshooters"
 msgstr ""
 
-#: ../../HOU.rst:951
+#: ../../HOU.rst:615
 msgid "Vigilance, reach"
 msgstr ""
 
-#: ../../HOU.rst:959
+#: ../../HOU.rst:620
 msgid "Devotee of Strength"
 msgstr ""
 
-#: ../../HOU.rst:958
+#: ../../HOU.rst:619
 msgid "|mana_4| |mana_g|: Target creature gets +2/+2 until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:966
+#: ../../HOU.rst:624
 msgid "Dune Diviner"
 msgstr ""
 
-#: ../../HOU.rst:965
+#: ../../HOU.rst:623
 msgid "|mana_1|, Tap an untapped Desert you control: You gain 1 life."
 msgstr ""
 
-#: ../../HOU.rst:973
+#: ../../HOU.rst:628
 msgid "Feral Prowler"
 msgstr ""
 
-#: ../../HOU.rst:972
+#: ../../HOU.rst:627
 msgid "When Feral Prowler dies, draw a card."
 msgstr ""
 
-#: ../../HOU.rst:980
+#: ../../HOU.rst:632
 msgid "Frilled Sandwalla"
 msgstr ""
 
-#: ../../HOU.rst:979
+#: ../../HOU.rst:631
 msgid ""
-"|mana_1| |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. "
-"Activate this ability only once each turn."
+"|mana_1| |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. Activate "
+"this ability only once each turn."
 msgstr ""
 
-#: ../../HOU.rst:987
+#: ../../HOU.rst:636
 msgid "Gift of Strength"
 msgstr ""
 
-#: ../../HOU.rst:986
+#: ../../HOU.rst:635
 msgid "Target creature gets +3/+3 and gains reach until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:992
+#: ../../HOU.rst:638
 msgid "Harrier Naga"
 msgstr ""
 
-#: ../../HOU.rst:1003
+#: ../../HOU.rst:646
 msgid "Hope Tender"
 msgstr ""
 
-#: ../../HOU.rst:1000
+#: ../../HOU.rst:643
 msgid "|mana_1|, |tap|: Untap target land."
 msgstr ""
 
-#: ../../HOU.rst:1002
+#: ../../HOU.rst:645
 msgid ""
 "|mana_1|, |tap|, Exert Hope Tender: Untap two target lands. (An exerted "
 "creature won't untap during your next untap step.)"
 msgstr ""
 
-#: ../../HOU.rst:1010
+#: ../../HOU.rst:650
 msgid "Hour of Promise"
 msgstr ""
 
-#: ../../HOU.rst:1009
+#: ../../HOU.rst:649
 msgid ""
-"Search your library for up to two land cards, put them onto the "
-"battlefield tapped, then shuffle your library. Then if you control three "
-"or more Deserts, create two 2/2 black Zombie creature tokens."
+"Search your library for up to two land cards, put them onto the battlefield "
+"tapped, then shuffle your library. Then if you control three or more "
+"Deserts, create two 2/2 black Zombie creature tokens."
 msgstr ""
 
-#: ../../HOU.rst:1017
+#: ../../HOU.rst:654
 msgid "Life Goes On"
 msgstr ""
 
-#: ../../HOU.rst:1016
+#: ../../HOU.rst:653
 msgid "You gain 4 life. If a creature died this turn, you gain 8 life instead."
 msgstr ""
 
-#: ../../HOU.rst:1026
+#: ../../HOU.rst:660
 msgid "Majestic Myriarch"
 msgstr ""
 
-#: ../../HOU.rst:1023
+#: ../../HOU.rst:657
 msgid ""
-"Majestic Myriarch's power and toughness are each equal to twice the "
-"number of creatures you control."
+"Majestic Myriarch's power and toughness are each equal to twice the number "
+"of creatures you control."
 msgstr ""
 
-#: ../../HOU.rst:1025
+#: ../../HOU.rst:659
 msgid ""
-"At the beginning of each combat, Majestic Myriarch gains flying until end"
-" of turn if you control a creature with flying. The same is true for "
-"first strike, double strike, deathtouch, haste, hexproof, indestructible,"
-" lifelink, menace, reach, trample, and vigilance."
+"At the beginning of each combat, Majestic Myriarch gains flying until end of "
+"turn if you control a creature with flying. The same is true for first "
+"strike, double strike, deathtouch, haste, hexproof, indestructible, "
+"lifelink, menace, reach, trample, and vigilance."
 msgstr ""
 
-#: ../../HOU.rst:1033
+#: ../../HOU.rst:664
 msgid "Nissa's Defeat"
 msgstr ""
 
-#: ../../HOU.rst:1032
+#: ../../HOU.rst:663
 msgid ""
 "Destroy target Forest, green enchantment, or green planeswalker. If that "
 "permanent was a Nissa planeswalker, draw a card."
 msgstr ""
 
-#: ../../HOU.rst:1042
+#: ../../HOU.rst:670
 msgid "Oasis Ritualist"
 msgstr ""
 
-#: ../../HOU.rst:1039 ../../HOU.rst:1469
+#: ../../HOU.rst:667 ../../HOU.rst:947
 msgid "|tap|: Add one mana of any color."
 msgstr ""
 
-#: ../../HOU.rst:1041
+#: ../../HOU.rst:669
 msgid ""
 "|tap|, Exert Oasis Ritualist: Add two mana of any one color. (An exerted "
 "creature won't untap during your next untap step.)"
 msgstr ""
 
-#: ../../HOU.rst:1049
+#: ../../HOU.rst:674
 msgid "Overcome"
 msgstr ""
 
-#: ../../HOU.rst:1048
+#: ../../HOU.rst:673
 msgid "Creatures you control get +2/+2 and gain trample until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:1058
+#: ../../HOU.rst:680
 msgid "Pride Sovereign"
 msgstr ""
 
-#: ../../HOU.rst:1055
+#: ../../HOU.rst:677
 msgid "Pride Sovereign gets +1/+1 for each other Cat you control."
 msgstr ""
 
-#: ../../HOU.rst:1057
+#: ../../HOU.rst:679
 msgid ""
-"|mana_w|, |tap|, Exert Pride Sovereign: Create two 1/1 white Cat creature"
-" tokens with lifelink. (An exerted creature won't untap during your next "
+"|mana_w|, |tap|, Exert Pride Sovereign: Create two 1/1 white Cat creature "
+"tokens with lifelink. (An exerted creature won't untap during your next "
 "untap step.)"
 msgstr ""
 
-#: ../../HOU.rst:1065
+#: ../../HOU.rst:684
 msgid "Quarry Beetle"
 msgstr ""
 
-#: ../../HOU.rst:1064
+#: ../../HOU.rst:683
 msgid ""
-"When Quarry Beetle enters the battlefield, you may return target land "
-"card from your graveyard to the battlefield."
+"When Quarry Beetle enters the battlefield, you may return target land card "
+"from your graveyard to the battlefield."
 msgstr ""
 
-#: ../../HOU.rst:1074
+#: ../../HOU.rst:690
 msgid "Rampaging Hippo"
 msgstr ""
 
-#: ../../HOU.rst:1071 ../../HOU.rst:1128
+#: ../../HOU.rst:687 ../../HOU.rst:723
 msgid "Trample"
 msgstr ""
 
-#: ../../HOU.rst:1081
+#: ../../HOU.rst:694
 msgid "Ramunap Excavator"
 msgstr ""
 
-#: ../../HOU.rst:1080
+#: ../../HOU.rst:693
 msgid "You may play land cards from your graveyard."
 msgstr ""
 
-#: ../../HOU.rst:1092
+#: ../../HOU.rst:702
 msgid "Ramunap Hydra"
 msgstr ""
 
-#: ../../HOU.rst:1087
+#: ../../HOU.rst:697
 msgid "Vigilance, reach, trample"
 msgstr ""
 
-#: ../../HOU.rst:1089
+#: ../../HOU.rst:699
 msgid "Ramunap Hydra gets +1/+1 as long as you control a Desert."
 msgstr ""
 
-#: ../../HOU.rst:1091
+#: ../../HOU.rst:701
 msgid ""
-"Ramunap Hydra gets +1/+1 as long as there is a Desert card in your "
-"graveyard."
+"Ramunap Hydra gets +1/+1 as long as there is a Desert card in your graveyard."
 msgstr ""
 
-#: ../../HOU.rst:1101
+#: ../../HOU.rst:708
 msgid "Resilient Khenra"
 msgstr ""
 
-#: ../../HOU.rst:1098
+#: ../../HOU.rst:705
 msgid ""
-"When Resilient Khenra enters the battlefield, you may have target "
-"creature get +X/+X until end of turn, where X is Resilient Khenra's "
-"power."
+"When Resilient Khenra enters the battlefield, you may have target creature "
+"get +X/+X until end of turn, where X is Resilient Khenra's power."
 msgstr ""
 
-#: ../../HOU.rst:1100
+#: ../../HOU.rst:707
 msgid ""
 "Eternalize |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except"
-" it's a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize only"
-" as a sorcery.)"
+"this card from your graveyard: Create a token that's a copy of it, except "
+"it's a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize only as "
+"a sorcery.)"
 msgstr ""
 
-#: ../../HOU.rst:1108
+#: ../../HOU.rst:712
 msgid "Rhonas's Last Stand"
 msgstr ""
 
-#: ../../HOU.rst:1107
+#: ../../HOU.rst:711
 msgid ""
 "Create a 5/4 green Snake creature token. Lands you control don't untap "
 "during your next untap step."
 msgstr ""
 
-#: ../../HOU.rst:1115
+#: ../../HOU.rst:716
 msgid "Rhonas's Stalwart"
 msgstr ""
 
-#: ../../HOU.rst:1114
+#: ../../HOU.rst:715
 msgid ""
-"You may exert Rhonas's Stalwart as it attacks. When you do, it gets +1/+1"
-" until end of turn and can't be blocked by creatures with power 2 or less"
-" this turn. (An exerted creature won't untap during your next untap "
-"step.)"
+"You may exert Rhonas's Stalwart as it attacks. When you do, it gets +1/+1 "
+"until end of turn and can't be blocked by creatures with power 2 or less "
+"this turn. (An exerted creature won't untap during your next untap step.)"
 msgstr ""
 
-#: ../../HOU.rst:1122
+#: ../../HOU.rst:720
 msgid "Sidewinder Naga"
 msgstr ""
 
-#: ../../HOU.rst:1121
+#: ../../HOU.rst:719
 msgid ""
-"As long as you control a Desert or there is a Desert card in your "
-"graveyard, Sidewinder Naga gets +1/+0 and has trample."
+"As long as you control a Desert or there is a Desert card in your graveyard, "
+"Sidewinder Naga gets +1/+0 and has trample."
 msgstr ""
 
-#: ../../HOU.rst:1131
+#: ../../HOU.rst:726
 msgid "Sifter Wurm"
 msgstr ""
 
-#: ../../HOU.rst:1130
+#: ../../HOU.rst:725
 msgid ""
-"When Sifter Wurm enters the battlefield, scry 3, then reveal the top card"
-" of your library. You gain life equal to that card's converted mana cost."
+"When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of "
+"your library. You gain life equal to that card's converted mana cost."
 msgstr ""
 
-#: ../../HOU.rst:1138
+#: ../../HOU.rst:730
 msgid "Tenacious Hunter"
 msgstr ""
 
-#: ../../HOU.rst:1137
+#: ../../HOU.rst:729
 msgid ""
 "As long as a creature has a -1/-1 counter on it, Tenacious Hunter has "
 "vigilance and deathtouch."
 msgstr ""
 
-#: ../../HOU.rst:1145
+#: ../../HOU.rst:734
 msgid "Uncage the Menagerie"
 msgstr ""
 
-#: ../../HOU.rst:1144
+#: ../../HOU.rst:733
 msgid ""
 "Search your library for up to X creature cards with different names that "
-"each have converted mana cost X, reveal them, put them into your hand, "
-"then shuffle your library."
+"each have converted mana cost X, reveal them, put them into your hand, then "
+"shuffle your library."
 msgstr ""
 
-#: ../../HOU.rst:1156
+#: ../../HOU.rst:742
 msgid "Bloodwater Entity"
 msgstr ""
 
-#: ../../HOU.rst:1155
+#: ../../HOU.rst:741
 msgid ""
-"When Bloodwater Entity enters the battlefield, you may put target instant"
-" or sorcery card from your graveyard on top of your library."
+"When Bloodwater Entity enters the battlefield, you may put target instant or "
+"sorcery card from your graveyard on top of your library."
 msgstr ""
 
-#: ../../HOU.rst:1169
+#: ../../HOU.rst:752
 msgid "The Locust God"
 msgstr ""
 
-#: ../../HOU.rst:1164
+#: ../../HOU.rst:747
 msgid ""
-"Whenever you draw a card, create a 1/1 blue and red Insect creature token"
-" with flying and haste."
+"Whenever you draw a card, create a 1/1 blue and red Insect creature token "
+"with flying and haste."
 msgstr ""
 
-#: ../../HOU.rst:1166
+#: ../../HOU.rst:749
 msgid "|mana_2| |mana_u| |mana_r|: Draw a card, then discard a card."
 msgstr ""
 
-#: ../../HOU.rst:1168
+#: ../../HOU.rst:751
 msgid ""
-"When The Locust God dies, return it to its owner's hand at the beginning "
-"of the next end step."
+"When The Locust God dies, return it to its owner's hand at the beginning of "
+"the next end step."
 msgstr ""
 
-#: ../../HOU.rst:1182
+#: ../../HOU.rst:762
 msgid "Nicol Bolas, God-Pharaoh"
 msgstr ""
 
-#: ../../HOU.rst:1175
+#: ../../HOU.rst:755
 msgid ""
-"+2: Target opponent exiles cards from the top of their library until they"
-" exile a nonland card. Until end of turn, you may cast that card without "
+"+2: Target opponent exiles cards from the top of their library until they "
+"exile a nonland card. Until end of turn, you may cast that card without "
 "paying its mana cost."
 msgstr ""
 
-#: ../../HOU.rst:1177
+#: ../../HOU.rst:757
 msgid "+1: Each opponent exiles two cards from their hand."
 msgstr ""
 
-#: ../../HOU.rst:1179
+#: ../../HOU.rst:759
 msgid ""
-"−4: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature "
-"an opponent controls, or planeswalker an opponent controls."
+"−4: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature an "
+"opponent controls, or planeswalker an opponent controls."
 msgstr ""
 
-#: ../../HOU.rst:1181
+#: ../../HOU.rst:761
 msgid "−12: Exile each nonland permanent your opponents control."
 msgstr ""
 
-#: ../../HOU.rst:1193
+#: ../../HOU.rst:770
 msgid "Obelisk Spider"
 msgstr ""
 
-#: ../../HOU.rst:1188
+#: ../../HOU.rst:765
 msgid "Reach"
 msgstr ""
 
-#: ../../HOU.rst:1190
+#: ../../HOU.rst:767
 msgid ""
 "Whenever Obelisk Spider deals combat damage to a creature, put a -1/-1 "
 "counter on that creature."
 msgstr ""
 
-#: ../../HOU.rst:1192
+#: ../../HOU.rst:769
 msgid ""
 "Whenever you put one or more -1/-1 counters on a creature, each opponent "
 "loses 1 life and you gain 1 life."
 msgstr ""
 
-#: ../../HOU.rst:1202
+#: ../../HOU.rst:776
 msgid "Resolute Survivors"
 msgstr ""
 
-#: ../../HOU.rst:1199
+#: ../../HOU.rst:773
 msgid ""
-"You may exert Resolute Survivors as it attacks. (It won't untap during "
-"your next untap step.)"
+"You may exert Resolute Survivors as it attacks. (It won't untap during your "
+"next untap step.)"
 msgstr ""
 
-#: ../../HOU.rst:1201
+#: ../../HOU.rst:775
 msgid ""
 "Whenever you exert a creature, Resolute Survivors deals 1 damage to each "
 "opponent and you gain 1 life."
 msgstr ""
 
-#: ../../HOU.rst:1211
+#: ../../HOU.rst:782
 msgid "River Hoopoe"
 msgstr ""
 
-#: ../../HOU.rst:1210
+#: ../../HOU.rst:781
 msgid "|mana_3| |mana_g| |mana_u|: You gain 2 life and draw a card."
 msgstr ""
 
-#: ../../HOU.rst:1222
+#: ../../HOU.rst:790
 msgid "Samut, the Tested"
 msgstr ""
 
-#: ../../HOU.rst:1217
+#: ../../HOU.rst:785
 msgid "+1: Up to one target creature gains double strike until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:1219
+#: ../../HOU.rst:787
 msgid ""
-"−2: Samut, the Tested deals 2 damage divided as you choose among one or "
-"two targets."
+"−2: Samut, the Tested deals 2 damage divided as you choose among one or two "
+"targets."
 msgstr ""
 
-#: ../../HOU.rst:1221
+#: ../../HOU.rst:789
 msgid ""
-"−7: Search your library for up to two creature and/or planeswalker cards,"
-" put them onto the battlefield, then shuffle your library."
+"−7: Search your library for up to two creature and/or planeswalker cards, "
+"put them onto the battlefield, then shuffle your library."
 msgstr ""
 
-#: ../../HOU.rst:1233
+#: ../../HOU.rst:798
 msgid "The Scarab God"
 msgstr ""
 
-#: ../../HOU.rst:1228
+#: ../../HOU.rst:793
 msgid ""
-"At the beginning of your upkeep, each opponent loses X life and you scry "
-"X, where X is the number of Zombies you control."
+"At the beginning of your upkeep, each opponent loses X life and you scry X, "
+"where X is the number of Zombies you control."
 msgstr ""
 
-#: ../../HOU.rst:1230
+#: ../../HOU.rst:795
 msgid ""
 "|mana_2| |mana_u| |mana_b|: Exile target creature card from a graveyard. "
 "Create a token that's a copy of it, except it's a 4/4 black Zombie."
 msgstr ""
 
-#: ../../HOU.rst:1232
+#: ../../HOU.rst:797
 msgid ""
-"When The Scarab God dies, return it to its owner's hand at the beginning "
-"of the next end step."
+"When The Scarab God dies, return it to its owner's hand at the beginning of "
+"the next end step."
 msgstr ""
 
-#: ../../HOU.rst:1244
+#: ../../HOU.rst:806
 msgid "The Scorpion God"
 msgstr ""
 
-#: ../../HOU.rst:1239
+#: ../../HOU.rst:801
 msgid "Whenever a creature with a -1/-1 counter on it dies, draw a card."
 msgstr ""
 
-#: ../../HOU.rst:1241
+#: ../../HOU.rst:803
 msgid ""
-"|mana_1| |mana_b| |mana_r|: Put a -1/-1 counter on another target "
-"creature."
+"|mana_1| |mana_b| |mana_r|: Put a -1/-1 counter on another target creature."
 msgstr ""
 
-#: ../../HOU.rst:1243
+#: ../../HOU.rst:805
 msgid ""
-"When The Scorpion God dies, return it to its owner's hand at the "
-"beginning of the next end step."
+"When The Scorpion God dies, return it to its owner's hand at the beginning "
+"of the next end step."
 msgstr ""
 
-#: ../../HOU.rst:1253
+#: ../../HOU.rst:812
 msgid "Unraveling Mummy"
 msgstr ""
 
-#: ../../HOU.rst:1250
+#: ../../HOU.rst:809
 msgid ""
-"|mana_1| |mana_w|: Target attacking Zombie gains lifelink until end of "
-"turn."
+"|mana_1| |mana_w|: Target attacking Zombie gains lifelink until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:1252
+#: ../../HOU.rst:811
 msgid ""
 "|mana_1| |mana_b|: Target attacking Zombie gains deathtouch until end of "
 "turn."
 msgstr ""
 
-#: ../../HOU.rst:1260
+#: ../../HOU.rst:816
 msgid "Farm"
 msgstr ""
 
-#: ../../HOU.rst:1259
+#: ../../HOU.rst:815
 msgid "Destroy target attacking or blocking creature."
 msgstr ""
 
-#: ../../HOU.rst:1269
+#: ../../HOU.rst:822
 msgid "Market"
 msgstr ""
 
-#: ../../HOU.rst:1266 ../../HOU.rst:1282 ../../HOU.rst:1298 ../../HOU.rst:1314
-#: ../../HOU.rst:1330 ../../HOU.rst:1346 ../../HOU.rst:1362 ../../HOU.rst:1378
-#: ../../HOU.rst:1394 ../../HOU.rst:1410
+#: ../../HOU.rst:819 ../../HOU.rst:829 ../../HOU.rst:839 ../../HOU.rst:849
+#: ../../HOU.rst:859 ../../HOU.rst:869 ../../HOU.rst:879 ../../HOU.rst:889
+#: ../../HOU.rst:899 ../../HOU.rst:909
 msgid "Aftermath (Cast this spell only from your graveyard. Then exile it.)"
 msgstr ""
 
-#: ../../HOU.rst:1268
+#: ../../HOU.rst:821
 msgid "Draw two cards, then discard two cards."
 msgstr ""
 
-#: ../../HOU.rst:1276
+#: ../../HOU.rst:826
 msgid "Consign"
 msgstr ""
 
-#: ../../HOU.rst:1275
+#: ../../HOU.rst:825
 msgid "Return target nonland permanent to its owner's hand."
 msgstr ""
 
-#: ../../HOU.rst:1285
+#: ../../HOU.rst:832
 msgid "Oblivion"
 msgstr ""
 
-#: ../../HOU.rst:1284
+#: ../../HOU.rst:831
 msgid "Target opponent discards two cards."
 msgstr ""
 
-#: ../../HOU.rst:1292
+#: ../../HOU.rst:836
 msgid "Claim"
 msgstr ""
 
-#: ../../HOU.rst:1291
+#: ../../HOU.rst:835
 msgid ""
 "Return target creature card with converted mana cost 2 or less from your "
 "graveyard to the battlefield."
 msgstr ""
 
-#: ../../HOU.rst:1301
+#: ../../HOU.rst:842
 msgid "Fame"
 msgstr ""
 
-#: ../../HOU.rst:1300
+#: ../../HOU.rst:841
 msgid "Target creature gets +2/+0 and gains haste until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:1308
+#: ../../HOU.rst:846
 msgid "Struggle"
 msgstr ""
 
-#: ../../HOU.rst:1307
+#: ../../HOU.rst:845
 msgid ""
-"Struggle deals damage to target creature equal to the number of lands you"
-" control."
+"Struggle deals damage to target creature equal to the number of lands you "
+"control."
 msgstr ""
 
-#: ../../HOU.rst:1317
+#: ../../HOU.rst:852
 msgid "Survive"
 msgstr ""
 
-#: ../../HOU.rst:1316
+#: ../../HOU.rst:851
 msgid "Each player shuffles their graveyard into their library."
 msgstr ""
 
-#: ../../HOU.rst:1324
+#: ../../HOU.rst:856
 msgid "Appeal"
 msgstr ""
 
-#: ../../HOU.rst:1323
+#: ../../HOU.rst:855
 msgid ""
-"Until end of turn, target creature gains trample and gets +X/+X, where X "
-"is the number of creatures you control."
+"Until end of turn, target creature gains trample and gets +X/+X, where X is "
+"the number of creatures you control."
 msgstr ""
 
-#: ../../HOU.rst:1333
+#: ../../HOU.rst:862
 msgid "Authority"
 msgstr ""
 
-#: ../../HOU.rst:1332
+#: ../../HOU.rst:861
 msgid ""
-"Tap up to two target creatures your opponents control. Creatures you "
-"control gain vigilance until end of turn."
+"Tap up to two target creatures your opponents control. Creatures you control "
+"gain vigilance until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:1340
+#: ../../HOU.rst:866
 msgid "Leave"
 msgstr ""
 
-#: ../../HOU.rst:1339
+#: ../../HOU.rst:865
 msgid "Return any number of target permanents you own to your hand."
 msgstr ""
 
-#: ../../HOU.rst:1349
+#: ../../HOU.rst:872
 msgid "Chance"
 msgstr ""
 
-#: ../../HOU.rst:1348
+#: ../../HOU.rst:871
 msgid "Discard any number of cards, then draw that many cards."
 msgstr ""
 
-#: ../../HOU.rst:1356
+#: ../../HOU.rst:876
 msgid "Reason"
 msgstr ""
 
-#: ../../HOU.rst:1355
+#: ../../HOU.rst:875
 msgid "Scry 3."
 msgstr ""
 
-#: ../../HOU.rst:1365
+#: ../../HOU.rst:882
 msgid "Believe"
 msgstr ""
 
-#: ../../HOU.rst:1364
+#: ../../HOU.rst:881
 msgid ""
-"Look at the top card of your library. You may put it onto the battlefield"
-" if it's a creature card. If you don't, put it into your hand."
+"Look at the top card of your library. You may put it onto the battlefield if "
+"it's a creature card. If you don't, put it into your hand."
 msgstr ""
 
-#: ../../HOU.rst:1372
+#: ../../HOU.rst:886
 msgid "Grind"
 msgstr ""
 
-#: ../../HOU.rst:1371
+#: ../../HOU.rst:885
 msgid "Put a -1/-1 counter on each of up to two target creatures."
 msgstr ""
 
-#: ../../HOU.rst:1381
+#: ../../HOU.rst:892
 msgid "Dust"
 msgstr ""
 
-#: ../../HOU.rst:1380
+#: ../../HOU.rst:891
 msgid "Exile any number of target creatures that have -1/-1 counters on them."
 msgstr ""
 
-#: ../../HOU.rst:1388
+#: ../../HOU.rst:896
 msgid "Refuse"
 msgstr ""
 
-#: ../../HOU.rst:1387
+#: ../../HOU.rst:895
 msgid ""
 "Refuse deals damage to target spell's controller equal to that spell's "
 "converted mana cost."
 msgstr ""
 
-#: ../../HOU.rst:1397
+#: ../../HOU.rst:902
 msgid "Cooperate"
 msgstr ""
 
-#: ../../HOU.rst:1396
+#: ../../HOU.rst:901
 msgid ""
 "Copy target instant or sorcery spell. You may choose new targets for the "
 "copy."
 msgstr ""
 
-#: ../../HOU.rst:1404
+#: ../../HOU.rst:906
 msgid "Driven"
 msgstr ""
 
-#: ../../HOU.rst:1403
+#: ../../HOU.rst:905
 msgid ""
-"Until end of turn, creatures you control gain trample and \"Whenever this"
-" creature deals combat damage to a player, draw a card.\""
+"Until end of turn, creatures you control gain trample and \"Whenever this "
+"creature deals combat damage to a player, draw a card.\""
 msgstr ""
 
-#: ../../HOU.rst:1413
+#: ../../HOU.rst:912
 msgid "Despair"
 msgstr ""
 
-#: ../../HOU.rst:1412
+#: ../../HOU.rst:911
 msgid ""
 "Until end of turn, creatures you control gain menace and \"Whenever this "
 "creature deals combat damage to a player, that player discards a card.\""
 msgstr ""
 
-#: ../../HOU.rst:1422
+#: ../../HOU.rst:918
 msgid "Abandoned Sarcophagus"
 msgstr ""
 
-#: ../../HOU.rst:1419
+#: ../../HOU.rst:915
 msgid "You may cast nonland cards with cycling from your graveyard."
 msgstr ""
 
-#: ../../HOU.rst:1421
+#: ../../HOU.rst:917
 msgid ""
-"If a card with cycling would be put into your graveyard from anywhere and"
-" it wasn't cycled, exile it instead."
+"If a card with cycling would be put into your graveyard from anywhere and it "
+"wasn't cycled, exile it instead."
 msgstr ""
 
-#: ../../HOU.rst:1431
+#: ../../HOU.rst:924
 msgid "Crook of Condemnation"
 msgstr ""
 
-#: ../../HOU.rst:1428
+#: ../../HOU.rst:921
 msgid "|mana_1|, |tap|: Exile target card from a graveyard."
 msgstr ""
 
-#: ../../HOU.rst:1430
+#: ../../HOU.rst:923
 msgid ""
-"|mana_1|, Exile Crook of Condemnation: Exile all cards from all "
-"graveyards."
+"|mana_1|, Exile Crook of Condemnation: Exile all cards from all graveyards."
 msgstr ""
 
-#: ../../HOU.rst:1440
+#: ../../HOU.rst:930
 msgid "Dagger of the Worthy"
 msgstr ""
 
-#: ../../HOU.rst:1437
+#: ../../HOU.rst:927
 msgid ""
 "Equipped creature gets +2/+0 and has afflict 1. (Whenever it becomes "
 "blocked, defending player loses 1 life.)"
 msgstr ""
 
-#: ../../HOU.rst:1439
+#: ../../HOU.rst:929
 msgid ""
-"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip "
-"only as a sorcery.)"
+"Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
+"as a sorcery.)"
 msgstr ""
 
-#: ../../HOU.rst:1447
+#: ../../HOU.rst:934
 msgid "God-Pharaoh's Gift"
 msgstr ""
 
-#: ../../HOU.rst:1446
+#: ../../HOU.rst:933
 msgid ""
-"At the beginning of combat on your turn, you may exile a creature card "
-"from your graveyard. If you do, create a token that's a copy of that "
-"card, except it's a 4/4 black Zombie. It gains haste until end of turn."
+"At the beginning of combat on your turn, you may exile a creature card from "
+"your graveyard. If you do, create a token that's a copy of that card, except "
+"it's a 4/4 black Zombie. It gains haste until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:1454
+#: ../../HOU.rst:938
 msgid "Graven Abomination"
 msgstr ""
 
-#: ../../HOU.rst:1453
+#: ../../HOU.rst:937
 msgid ""
 "Whenever Graven Abomination attacks, exile target card from defending "
 "player's graveyard."
 msgstr ""
 
-#: ../../HOU.rst:1463
+#: ../../HOU.rst:944
 msgid "Hollow One"
 msgstr ""
 
-#: ../../HOU.rst:1460
+#: ../../HOU.rst:941
 msgid ""
 "This spell costs |mana_2| less to cast for each card you've cycled or "
 "discarded this turn."
 msgstr ""
 
-#: ../../HOU.rst:1470
+#: ../../HOU.rst:948
 msgid "Manalith"
 msgstr ""
 
-#: ../../HOU.rst:1477
+#: ../../HOU.rst:952
 msgid "Mirage Mirror"
 msgstr ""
 
-#: ../../HOU.rst:1476
+#: ../../HOU.rst:951
 msgid ""
 "|mana_2|: Mirage Mirror becomes a copy of target artifact, creature, "
 "enchantment, or land until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:1488
+#: ../../HOU.rst:960
 msgid "Sunset Pyramid"
 msgstr ""
 
-#: ../../HOU.rst:1483
+#: ../../HOU.rst:955
 msgid "Sunset Pyramid enters the battlefield with three brick counters on it."
 msgstr ""
 
-#: ../../HOU.rst:1485
-msgid "|mana_2|, |tap|, Remove a brick counter from Sunset Pyramid: Draw a card."
+#: ../../HOU.rst:957
+msgid ""
+"|mana_2|, |tap|, Remove a brick counter from Sunset Pyramid: Draw a card."
 msgstr ""
 
-#: ../../HOU.rst:1487
+#: ../../HOU.rst:959
 msgid "|mana_2|, |tap|: Scry 1."
 msgstr ""
 
-#: ../../HOU.rst:1495
+#: ../../HOU.rst:964
 msgid "Traveler's Amulet"
 msgstr ""
 
-#: ../../HOU.rst:1494
+#: ../../HOU.rst:963
 msgid ""
-"|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic "
-"land card, reveal it, put it into your hand, then shuffle your library."
+"|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic land "
+"card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 
-#: ../../HOU.rst:1504
+#: ../../HOU.rst:970
 msgid "Wall of Forgotten Pharaohs"
 msgstr ""
 
-#: ../../HOU.rst:1503
+#: ../../HOU.rst:969
 msgid ""
 "|tap|: Wall of Forgotten Pharaohs deals 1 damage to target player or "
-"planeswalker. Activate this ability only if you control a Desert or there"
-" is a Desert card in your graveyard."
+"planeswalker. Activate this ability only if you control a Desert or there is "
+"a Desert card in your graveyard."
 msgstr ""
 
-#: ../../HOU.rst:1515
+#: ../../HOU.rst:978
 msgid "Crypt of the Eternals"
 msgstr ""
 
-#: ../../HOU.rst:1510
+#: ../../HOU.rst:973
 msgid "When Crypt of the Eternals enters the battlefield, you gain 1 life."
 msgstr ""
 
-#: ../../HOU.rst:1512 ../../HOU.rst:1576 ../../HOU.rst:1585 ../../HOU.rst:1596
-#: ../../HOU.rst:1607 ../../HOU.rst:1616 ../../HOU.rst:1627 ../../HOU.rst:1638
-#: ../../HOU.rst:1649 ../../HOU.rst:1658 ../../HOU.rst:1669
+#: ../../HOU.rst:975 ../../HOU.rst:1021 ../../HOU.rst:1027 ../../HOU.rst:1035
+#: ../../HOU.rst:1043 ../../HOU.rst:1049 ../../HOU.rst:1057 ../../HOU.rst:1065
+#: ../../HOU.rst:1073 ../../HOU.rst:1079 ../../HOU.rst:1087
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
-#: ../../HOU.rst:1514
+#: ../../HOU.rst:977
 msgid "|mana_1|, |tap|: Add |mana_u|, |mana_b|, or |mana_r|."
 msgstr ""
 
-#: ../../HOU.rst:1526
+#: ../../HOU.rst:986
 msgid "Desert of the Fervent"
 msgstr ""
 
-#: ../../HOU.rst:1521
+#: ../../HOU.rst:981
 msgid "Desert of the Fervent enters the battlefield tapped."
 msgstr ""
 
-#: ../../HOU.rst:1523
+#: ../../HOU.rst:983
 msgid "|tap|: Add |mana_r|."
 msgstr ""
 
-#: ../../HOU.rst:1525
+#: ../../HOU.rst:985
 msgid ""
 "Cycling |mana_1| |mana_r| (|mana_1| |mana_r|, Discard this card: Draw a "
 "card.)"
 msgstr ""
 
-#: ../../HOU.rst:1537
+#: ../../HOU.rst:994
 msgid "Desert of the Glorified"
 msgstr ""
 
-#: ../../HOU.rst:1532
+#: ../../HOU.rst:989
 msgid "Desert of the Glorified enters the battlefield tapped."
 msgstr ""
 
-#: ../../HOU.rst:1534
+#: ../../HOU.rst:991
 msgid "|tap|: Add |mana_b|."
 msgstr ""
 
-#: ../../HOU.rst:1536
+#: ../../HOU.rst:993
 msgid ""
 "Cycling |mana_1| |mana_b| (|mana_1| |mana_b|, Discard this card: Draw a "
 "card.)"
 msgstr ""
 
-#: ../../HOU.rst:1548
+#: ../../HOU.rst:1002
 msgid "Desert of the Indomitable"
 msgstr ""
 
-#: ../../HOU.rst:1543
+#: ../../HOU.rst:997
 msgid "Desert of the Indomitable enters the battlefield tapped."
 msgstr ""
 
-#: ../../HOU.rst:1545
+#: ../../HOU.rst:999
 msgid "|tap|: Add |mana_g|."
 msgstr ""
 
-#: ../../HOU.rst:1547
+#: ../../HOU.rst:1001
 msgid ""
 "Cycling |mana_1| |mana_g| (|mana_1| |mana_g|, Discard this card: Draw a "
 "card.)"
 msgstr ""
 
-#: ../../HOU.rst:1559
+#: ../../HOU.rst:1010
 msgid "Desert of the Mindful"
 msgstr ""
 
-#: ../../HOU.rst:1554
+#: ../../HOU.rst:1005
 msgid "Desert of the Mindful enters the battlefield tapped."
 msgstr ""
 
-#: ../../HOU.rst:1556
+#: ../../HOU.rst:1007
 msgid "|tap|: Add |mana_u|."
 msgstr ""
 
-#: ../../HOU.rst:1558
+#: ../../HOU.rst:1009
 msgid ""
 "Cycling |mana_1| |mana_u| (|mana_1| |mana_u|, Discard this card: Draw a "
 "card.)"
 msgstr ""
 
-#: ../../HOU.rst:1570
+#: ../../HOU.rst:1018
 msgid "Desert of the True"
 msgstr ""
 
-#: ../../HOU.rst:1565
+#: ../../HOU.rst:1013
 msgid "Desert of the True enters the battlefield tapped."
 msgstr ""
 
-#: ../../HOU.rst:1567
+#: ../../HOU.rst:1015
 msgid "|tap|: Add |mana_w|."
 msgstr ""
 
-#: ../../HOU.rst:1569
+#: ../../HOU.rst:1017
 msgid ""
 "Cycling |mana_1| |mana_w| (|mana_1| |mana_w|, Discard this card: Draw a "
 "card.)"
 msgstr ""
 
-#: ../../HOU.rst:1579
+#: ../../HOU.rst:1024
 msgid "Dunes of the Dead"
 msgstr ""
 
-#: ../../HOU.rst:1578
+#: ../../HOU.rst:1023
 msgid ""
-"When Dunes of the Dead is put into a graveyard from the battlefield, "
-"create a 2/2 black Zombie creature token."
+"When Dunes of the Dead is put into a graveyard from the battlefield, create "
+"a 2/2 black Zombie creature token."
 msgstr ""
 
-#: ../../HOU.rst:1590
+#: ../../HOU.rst:1032
 msgid "Endless Sands"
 msgstr ""
 
-#: ../../HOU.rst:1587
+#: ../../HOU.rst:1029
 msgid "|mana_2|, |tap|: Exile target creature you control."
 msgstr ""
 
-#: ../../HOU.rst:1589
+#: ../../HOU.rst:1031
 msgid ""
-"|mana_4|, |tap|, Sacrifice Endless Sands: Return each creature card "
-"exiled with Endless Sands to the battlefield under its owner's control."
+"|mana_4|, |tap|, Sacrifice Endless Sands: Return each creature card exiled "
+"with Endless Sands to the battlefield under its owner's control."
 msgstr ""
 
-#: ../../HOU.rst:1601
+#: ../../HOU.rst:1040
 msgid "Hashep Oasis"
 msgstr ""
 
-#: ../../HOU.rst:1598
+#: ../../HOU.rst:1037
 msgid "|tap|, Pay 1 life: Add |mana_g|."
 msgstr ""
 
-#: ../../HOU.rst:1600
+#: ../../HOU.rst:1039
 msgid ""
-"|mana_1| |mana_g| |mana_g|, |tap|, Sacrifice a Desert: Target creature "
-"gets +3/+3 until end of turn. Activate this ability only any time you "
-"could cast a sorcery."
+"|mana_1| |mana_g| |mana_g|, |tap|, Sacrifice a Desert: Target creature gets "
+"+3/+3 until end of turn. Activate this ability only any time you could cast "
+"a sorcery."
 msgstr ""
 
-#: ../../HOU.rst:1610
+#: ../../HOU.rst:1046
 msgid "Hostile Desert"
 msgstr ""
 
-#: ../../HOU.rst:1609
+#: ../../HOU.rst:1045
 msgid ""
-"|mana_2|, Exile a land card from your graveyard: Hostile Desert becomes a"
-" 3/4 Elemental creature until end of turn. It's still a land."
+"|mana_2|, Exile a land card from your graveyard: Hostile Desert becomes a "
+"3/4 Elemental creature until end of turn. It's still a land."
 msgstr ""
 
-#: ../../HOU.rst:1621
+#: ../../HOU.rst:1054
 msgid "Ifnir Deadlands"
 msgstr ""
 
-#: ../../HOU.rst:1618
+#: ../../HOU.rst:1051
 msgid "|tap|, Pay 1 life: Add |mana_b|."
 msgstr ""
 
-#: ../../HOU.rst:1620
+#: ../../HOU.rst:1053
 msgid ""
 "|mana_2| |mana_b| |mana_b|, |tap|, Sacrifice a Desert: Put two -1/-1 "
-"counters on target creature an opponent controls. Activate this ability "
-"only any time you could cast a sorcery."
+"counters on target creature an opponent controls. Activate this ability only "
+"any time you could cast a sorcery."
 msgstr ""
 
-#: ../../HOU.rst:1632
+#: ../../HOU.rst:1062
 msgid "Ipnu Rivulet"
 msgstr ""
 
-#: ../../HOU.rst:1629
+#: ../../HOU.rst:1059
 msgid "|tap|, Pay 1 life: Add |mana_u|."
 msgstr ""
 
-#: ../../HOU.rst:1631
+#: ../../HOU.rst:1061
 msgid ""
 "|mana_1| |mana_u|, |tap|, Sacrifice a Desert: Target player puts the top "
 "four cards of their library into their graveyard."
 msgstr ""
 
-#: ../../HOU.rst:1643
+#: ../../HOU.rst:1070
 msgid "Ramunap Ruins"
 msgstr ""
 
-#: ../../HOU.rst:1640
+#: ../../HOU.rst:1067
 msgid "|tap|, Pay 1 life: Add |mana_r|."
 msgstr ""
 
-#: ../../HOU.rst:1642
+#: ../../HOU.rst:1069
 msgid ""
-"|mana_2| |mana_r| |mana_r|, |tap|, Sacrifice a Desert: Ramunap Ruins "
-"deals 2 damage to each opponent."
+"|mana_2| |mana_r| |mana_r|, |tap|, Sacrifice a Desert: Ramunap Ruins deals 2 "
+"damage to each opponent."
 msgstr ""
 
-#: ../../HOU.rst:1652
+#: ../../HOU.rst:1076
 msgid "Scavenger Grounds"
 msgstr ""
 
-#: ../../HOU.rst:1651
-msgid "|mana_2|, |tap|, Sacrifice a Desert: Exile all cards from all graveyards."
+#: ../../HOU.rst:1075
+msgid ""
+"|mana_2|, |tap|, Sacrifice a Desert: Exile all cards from all graveyards."
 msgstr ""
 
-#: ../../HOU.rst:1663
+#: ../../HOU.rst:1084
 msgid "Shefet Dunes"
 msgstr ""
 
-#: ../../HOU.rst:1660
+#: ../../HOU.rst:1081
 msgid "|tap|, Pay 1 life: Add |mana_w|."
 msgstr ""
 
-#: ../../HOU.rst:1662
+#: ../../HOU.rst:1083
 msgid ""
-"|mana_2| |mana_w| |mana_w|, |tap|, Sacrifice a Desert: Creatures you "
-"control get +1/+1 until end of turn. Activate this ability only any time "
-"you could cast a sorcery."
+"|mana_2| |mana_w| |mana_w|, |tap|, Sacrifice a Desert: Creatures you control "
+"get +1/+1 until end of turn. Activate this ability only any time you could "
+"cast a sorcery."
 msgstr ""
 
-#: ../../HOU.rst:1672
+#: ../../HOU.rst:1090
 msgid "Survivors' Encampment"
 msgstr ""
 
-#: ../../HOU.rst:1671
+#: ../../HOU.rst:1089
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
 
-#: ../../HOU.rst:1677 ../../HOU.rst:1712 ../../HOU.rst:1719
+#: ../../HOU.rst:1092 ../../HOU.rst:1112 ../../HOU.rst:1116
 msgid "Plains"
 msgstr ""
 
-#: ../../HOU.rst:1684 ../../HOU.rst:1726 ../../HOU.rst:1733
+#: ../../HOU.rst:1096 ../../HOU.rst:1120 ../../HOU.rst:1124
 msgid "Island"
 msgstr ""
 
-#: ../../HOU.rst:1691 ../../HOU.rst:1740 ../../HOU.rst:1747
+#: ../../HOU.rst:1100 ../../HOU.rst:1128 ../../HOU.rst:1132
 msgid "Swamp"
 msgstr ""
 
-#: ../../HOU.rst:1698 ../../HOU.rst:1754 ../../HOU.rst:1761
+#: ../../HOU.rst:1104 ../../HOU.rst:1136 ../../HOU.rst:1140
 msgid "Mountain"
 msgstr ""
 
-#: ../../HOU.rst:1705 ../../HOU.rst:1768 ../../HOU.rst:1775
+#: ../../HOU.rst:1108 ../../HOU.rst:1144 ../../HOU.rst:1148
 msgid "Forest"
 msgstr ""
 
-#: ../../HOU.rst:1788
+#: ../../HOU.rst:1158
 msgid "Nissa, Genesis Mage"
 msgstr ""
 
-#: ../../HOU.rst:1783
+#: ../../HOU.rst:1153
 msgid "+2: Untap up to two target creatures and up to two target lands."
 msgstr ""
 
-#: ../../HOU.rst:1785
+#: ../../HOU.rst:1155
 msgid "−3: Target creature gets +5/+5 until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:1787
+#: ../../HOU.rst:1157
 msgid ""
-"−10: Look at the top ten cards of your library. You may put any number of"
-" creature and/or land cards from among them onto the battlefield. Put the"
-" rest on the bottom of your library in a random order."
+"−10: Look at the top ten cards of your library. You may put any number of "
+"creature and/or land cards from among them onto the battlefield. Put the "
+"rest on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../HOU.rst:1795
+#: ../../HOU.rst:1162
 msgid "Avid Reclaimer"
 msgstr ""
 
-#: ../../HOU.rst:1794
+#: ../../HOU.rst:1161
 msgid ""
-"|tap|: Add |mana_g| or |mana_u|. If you control a Nissa planeswalker, you"
-" gain 2 life."
+"|tap|: Add |mana_g| or |mana_u|. If you control a Nissa planeswalker, you "
+"gain 2 life."
 msgstr ""
 
-#: ../../HOU.rst:1802
+#: ../../HOU.rst:1166
 msgid "Brambleweft Behemoth"
 msgstr ""
 
-#: ../../HOU.rst:1801
+#: ../../HOU.rst:1165
 msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
 
-#: ../../HOU.rst:1809
+#: ../../HOU.rst:1170
 msgid "Nissa's Encouragement"
 msgstr ""
 
-#: ../../HOU.rst:1808
+#: ../../HOU.rst:1169
 msgid ""
 "Search your library and graveyard for a card named Forest, a card named "
 "Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those "
 "cards, put them into your hand, then shuffle your library."
 msgstr ""
 
-#: ../../HOU.rst:1818
+#: ../../HOU.rst:1176
 msgid "Woodland Stream"
 msgstr ""
 
-#: ../../HOU.rst:1815
+#: ../../HOU.rst:1173
 msgid "Woodland Stream enters the battlefield tapped."
 msgstr ""
 
-#: ../../HOU.rst:1817
+#: ../../HOU.rst:1175
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
 
-#: ../../HOU.rst:1829
+#: ../../HOU.rst:1184
 msgid "Nicol Bolas, the Deceiver"
 msgstr ""
 
-#: ../../HOU.rst:1824
+#: ../../HOU.rst:1179
 msgid ""
 "+3: Each opponent loses 3 life unless that player sacrifices a nonland "
 "permanent or discards a card."
 msgstr ""
 
-#: ../../HOU.rst:1826
+#: ../../HOU.rst:1181
 msgid "−3: Destroy target creature. Draw a card."
 msgstr ""
 
-#: ../../HOU.rst:1828
+#: ../../HOU.rst:1183
 msgid ""
 "−11: Nicol Bolas, the Deceiver deals 7 damage to each opponent. You draw "
 "seven cards."
 msgstr ""
 
-#: ../../HOU.rst:1838
+#: ../../HOU.rst:1190
 msgid "Wasp of the Bitter End"
 msgstr ""
 
-#: ../../HOU.rst:1837
+#: ../../HOU.rst:1189
 msgid ""
-"Whenever you cast a Bolas planeswalker spell, you may sacrifice Wasp of "
-"the Bitter End. If you do, destroy target creature."
+"Whenever you cast a Bolas planeswalker spell, you may sacrifice Wasp of the "
+"Bitter End. If you do, destroy target creature."
 msgstr ""
 
-#: ../../HOU.rst:1845
+#: ../../HOU.rst:1194
 msgid "Zealot of the God-Pharaoh"
 msgstr ""
 
-#: ../../HOU.rst:1844
+#: ../../HOU.rst:1193
 msgid ""
 "|mana_4| |mana_r|: Zealot of the God-Pharaoh deals 2 damage to target "
 "opponent or planeswalker."
 msgstr ""
 
-#: ../../HOU.rst:1854
+#: ../../HOU.rst:1200
 msgid "Visage of Bolas"
 msgstr ""
 
-#: ../../HOU.rst:1851
+#: ../../HOU.rst:1197
 msgid ""
-"When Visage of Bolas enters the battlefield, you may search your library "
-"and/or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, "
-"and put it into your hand. If you search your library this way, shuffle "
-"it."
+"When Visage of Bolas enters the battlefield, you may search your library and/"
+"or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put "
+"it into your hand. If you search your library this way, shuffle it."
 msgstr ""
 
-#: ../../HOU.rst:1853
+#: ../../HOU.rst:1199
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
 msgstr ""
 
-#: ../../HOU.rst:1862
+#: ../../HOU.rst:1205
 msgid "Cinder Barrens"
 msgstr ""
 
-#: ../../HOU.rst:1860
+#: ../../HOU.rst:1203
 msgid "Cinder Barrens enters the battlefield tapped."
 msgstr ""
 
-#: ../../HOU.rst:1862
+#: ../../HOU.rst:1205
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
