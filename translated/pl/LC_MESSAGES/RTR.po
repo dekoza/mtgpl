@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-29 02:05+0000\n"
+"PO-Revision-Date: 2018-12-29 22:21+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -760,8 +760,9 @@ msgstr ""
 "Ilekroć Stealer of Secrets zadaje graczowi obrażenia bitewne, dobierz kartę."
 
 #: ../../RTR.rst:440
+#, fuzzy
 msgid "Syncopate"
-msgstr ""
+msgstr "Syncopate"
 
 #: ../../RTR.rst:439
 msgid ""
@@ -769,9 +770,9 @@ msgid ""
 "is countered this way, exile it instead of putting it into its owner's "
 "graveyard."
 msgstr ""
-"Skontruj wskazany czar dopóki jego władca nie zapłaci |mana_x|. Jeśli "
-"czar zostanie skontrowany w ten sposób, wypędź go zamiast kłaść go na "
-"cmentarz jego właściciela."
+"Skontruj wskazany czar dopóki jego władca nie zapłaci |mana_x|. Jeśli ów "
+"czar zostanie skontrowany w ten sposób, wygnaj go zamiast umieszczać go w "
+"cmentarzu jego właściciela."
 
 #: ../../RTR.rst:449
 msgid "Tower Drake"
