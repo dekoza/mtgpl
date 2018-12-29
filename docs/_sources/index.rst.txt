@@ -11,11 +11,11 @@
 Instrukcje
 ==========
 
-:doc:`Podręcznik Magic 2014<M14_Rulebook>` (51%)
+:doc:`Podręcznik Magic 2014<M14_Rulebook>` (2%)
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` (18%)
 
-:doc:`Kompletne Zasady<comprules>` (0%)
+.. :doc:`Kompletne Zasady<comprules>` (0%)
 
 Tłumaczenie dodatków
 ====================
@@ -27,7 +27,7 @@ Standard
 * :doc:`Magic 2019 Core Set<M19>` (31%)
 * :doc:`Dominaria<DOM>` (32%)
 * :doc:`Rivals of Ixalan<RIX>` (100%)
-* :doc:`Ixalan<XLN>` (85%)
+* :doc:`Ixalan<XLN>` (100%)
 
 Modern
 ------
@@ -53,7 +53,6 @@ Modern
 * :doc:`Dark Ascension<DKA>` (0%)
 * :doc:`Innistrad<ISD>` (0%)
 * :doc:`New Phyrexia<NPH>` (4%)
-* :doc:`Battle for Zendikar<BFZ>` (0%)
 
 Pozostałe
 ---------
@@ -142,5 +141,5 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
    changelog
    commander
    commander_banned
-   comprules
+.. comprules
    

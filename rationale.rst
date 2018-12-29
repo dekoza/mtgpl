@@ -21,6 +21,12 @@ się domyślić, o co tak naprawdę chodzi.
 Często występujące terminy
 --------------------------
 
+Tap, untap -> tapowanie/zatapowanie, odtapowanie
+    Jeden z najbardziej kontrowersyjnych terminów. Pierwotnie tłumaczyłem jako "zaznacz" i "odznacz", które
+    brzmią świetnie po polsku i nadal uważam, że to najlepsza opcja. Ugiąłem się jednak pod powszechnością terminu
+    oraz jego obecnością w niektórych innych wersjach językowych. Choć z drugiej strony Rosjanie mają obróć/przygotuj...
+    Tak czy inaczej ta kwestia może jeszcze ulec zmianie.
+
 Target -> wskazany, wskazywać
     Oczywistym pierwszym tłumaczeniem słowa "target" jest "cel". Po kilku eksperymentach okazuje się jednak,
     iż wybór ten jest bardzo niefortunny. "Zniszcz wycelowanego stwora" brzmi conajmniej niezgrabnie.
@@ -34,9 +40,9 @@ Control -> władza
     która sprawuje kontrolę. Przecież nie "kontroler", gdyż nie sprawdza on biletów. "Władca" jest najbardziej
     adekwatnym i jednocześnie najkrótszym z możliwych tłumaczeń.
     
-Exile -> wypędzenie
-    Był to jeden z trudniejszych terminów do przetłumaczenia. Banicja? Wygnanie? Obie wersje brzmią dobrze, ale
-    kiepsko jest z odmianą, szczególnie z trybem rozkazującym. Uznałem, że "wypędzienie" jest najmniej kłopotliwe.
+Exile -> wygnanie
+    Był to jeden z trudniejszych terminów do przetłumaczenia. Banicja? Wypędzenie? Obie wersje brzmią dobrze, ale
+    kiepsko jest z nazwą strefy Exile. Uznałem, że "wygnanie" jest najmniej kłopotliwe.
 
 Defender -> Obronność
     Dosłownie termin ten oznacza "obrońca". Tutaj potrzebne jest jednak słowo, które bardziej pasuje do stanu
