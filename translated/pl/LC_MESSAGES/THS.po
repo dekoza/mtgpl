@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-27 13:40+0000\n"
+"PO-Revision-Date: 2018-12-29 01:16+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -4604,9 +4604,8 @@ msgstr ""
 # e46764f3aff84f7fa505dca28f961cb6
 # 74f28075af4642879170deb2ad5a7839
 #: ../../THS.rst:1243
-#, fuzzy
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dodaj |mana_r| lub |mana_g| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 # 19b5fe11bbec4327a6e95a5ebe7532d7
 # 68566000259442d18fb5854058f7779a
@@ -4733,10 +4732,8 @@ msgstr "Unknown Shores (Nieznane brzegi)"
 # 47d0678337da4492a878cfb3731e9802
 # 76148186d52a42f9bbcb7a6ca97d3253
 #: ../../THS.rst:1281
-#, fuzzy
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
-"|mana_1|, |tap|: Dodaj jedną manę dowolnego koloru do twojej puli many."
+msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
 # 5120ed8308b14c92af2e8b2be18d28e0
 # 18c21cd3014a4a12b89d7f43df12e16c

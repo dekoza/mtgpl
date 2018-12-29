@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-12-29 01:16+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/mtg_pl/hou/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../HOU.rst:5 ../../HOU.rst:829
@@ -37,7 +40,7 @@ msgstr ""
 
 #: ../../HOU.rst:19
 msgid "Double strike"
-msgstr ""
+msgstr "Podwójny cios"
 
 #: ../../HOU.rst:21
 msgid ""
@@ -53,7 +56,7 @@ msgstr ""
 
 #: ../../HOU.rst:28
 msgid "Flying, vigilance"
-msgstr ""
+msgstr "Latanie, czujność"
 
 #: ../../HOU.rst:30
 msgid ""
@@ -78,7 +81,7 @@ msgstr ""
 #: ../../HOU.rst:505 ../../HOU.rst:532 ../../HOU.rst:1151 ../../HOU.rst:1162
 #: ../../HOU.rst:1208 ../../HOU.rst:1835
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../HOU.rst:41 ../../HOU.rst:283 ../../HOU.rst:324 ../../HOU.rst:623
 #: ../../HOU.rst:689 ../../HOU.rst:698 ../../HOU.rst:814 ../../HOU.rst:846
@@ -2474,4 +2477,3 @@ msgstr ""
 #: ../../HOU.rst:1862
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
-

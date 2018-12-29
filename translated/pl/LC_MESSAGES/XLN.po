@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-27 13:40+0000\n"
+"PO-Revision-Date: 2018-12-29 01:16+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -3279,7 +3279,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 4 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"4 lub większej. Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 4: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../XLN.rst:1196
 #, fuzzy
@@ -3403,6 +3403,8 @@ msgid ""
 "Crew 3 (Tap any number of creatures you control with total power 3 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 3 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 3: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../XLN.rst:1236
 #, fuzzy
@@ -3429,7 +3431,7 @@ msgstr "Pillar of Origins"
 
 #: ../../XLN.rst:1247
 msgid "As Pillar of Origins enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu walki wybierz typ stwora."
 
 #: ../../XLN.rst:1249 ../../XLN.rst:1377
 msgid ""
@@ -3494,14 +3496,18 @@ msgid ""
 "or sorcery spell, copy that spell and you may choose new targets for the "
 "copy."
 msgstr ""
+"|tap|: Dostajesz jedną manę dowolnego koloru. Kiedy owa mana zostaje wydana "
+"na rzucenie czaru sztuczki lub obrzędu, skopiuj ów czar, możesz wybrać nowe "
+"cele dla kopii."
 
 #: ../../XLN.rst:1278
+#, fuzzy
 msgid "Prying Blade"
-msgstr ""
+msgstr "Prying Blade"
 
 #: ../../XLN.rst:1273
 msgid "Equipped creature gets +1/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+0."
 
 #: ../../XLN.rst:1275
 msgid ""
@@ -3515,21 +3521,24 @@ msgstr ""
 
 #: ../../XLN.rst:1284
 msgid "Sentinel Totem"
-msgstr ""
+msgstr "Sentinel Totem (Totem Strażniczy)"
 
 #: ../../XLN.rst:1281
 msgid ""
 "When Sentinel Totem enters the battlefield, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wróż 1. (Spójrz na wierzchnią kartę "
+"twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 #: ../../XLN.rst:1283
 msgid "|tap|, Exile Sentinel Totem: Exile all cards from all graveyards."
-msgstr ""
+msgstr "|tap|: Wygnaj tę kartę: Wygnaj wszystkie karty ze wszystkich cmentarzy."
 
 #: ../../XLN.rst:1290
+#, fuzzy
 msgid "Shadowed Caravel"
-msgstr ""
+msgstr "Shadowed Caravel"
 
 #: ../../XLN.rst:1287
 msgid ""
@@ -3540,60 +3549,76 @@ msgstr ""
 "karcie."
 
 #: ../../XLN.rst:1294
+#, fuzzy
 msgid "Sleek Schooner"
-msgstr ""
+msgstr "Sleek Schooner"
 
 #: ../../XLN.rst:1293
 msgid ""
 "Crew 1 (Tap any number of creatures you control with total power 1 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 1 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 1: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../XLN.rst:1300
+#, fuzzy
 msgid "Sorcerous Spyglass"
-msgstr ""
+msgstr "Sorcerous Spyglass"
 
 #: ../../XLN.rst:1297
 msgid ""
 "As Sorcerous Spyglass enters the battlefield, look at an opponent's hand, "
 "then choose any card name."
 msgstr ""
+"Umieszczając tę kartę na polu walki, spójrz na rękę przeciwnika, następnie "
+"wybierz dowolną nazwę karty."
 
 #: ../../XLN.rst:1299
 msgid ""
 "Activated abilities of sources with the chosen name can't be activated "
 "unless they're mana abilities."
 msgstr ""
+"Aktywowane zdolności źródeł o wybranej nazwie nie mogą być aktywowane, chyba "
+"że dają manę."
 
 #: ../../XLN.rst:1306
+#, fuzzy
 msgid "Thaumatic Compass"
-msgstr ""
+msgstr "Thaumatic Compass"
 
 #: ../../XLN.rst:1303
 msgid ""
 "|mana_3|, |tap|: Search your library for a basic land card, reveal it, put "
 "it into your hand, then shuffle your library."
 msgstr ""
+"|mana_3|, |tap|: Poszukaj w twojej bibliotece kartę bazowego lądu, ujawnij "
+"ją, umieść w twojej ręce, następnie przetasuj twoją bibliotekę."
 
 #: ../../XLN.rst:1305
 msgid ""
 "At the beginning of your end step, if you control seven or more lands, "
 "transform Thaumatic Compass."
 msgstr ""
+"Na początku twojego kroku końcowego, jeśli władasz co najmniej siedmioma "
+"lądami, transformuj tę kartę."
 
 #: ../../XLN.rst:1314
+#, fuzzy
 msgid "Spires of Orazca"
-msgstr ""
+msgstr "Spires of Orazca"
 
 #: ../../XLN.rst:1309
 msgid "(Transforms from Thaumatic Compass.)"
-msgstr ""
+msgstr "(Transformuje z Thaumatic Compass.)"
 
 #: ../../XLN.rst:1313
 msgid ""
 "|tap|: Untap target attacking creature an opponent controls and remove it "
 "from combat."
 msgstr ""
+"|tap|: Odtapuj wskazanego atakującego stwora pod władaniem przeciwnika i "
+"usuń go z walki."
 
 #: ../../XLN.rst:1318
 msgid "Treasure Map"
@@ -3625,52 +3650,58 @@ msgid "|tap|, Sacrifice a Treasure: Draw a card."
 msgstr "|tap|, poświęć Skarb: Dobierz kartę."
 
 #: ../../XLN.rst:1334
+#, fuzzy
 msgid "Vanquisher's Banner"
-msgstr ""
+msgstr "Vanquisher's Banner"
 
 #: ../../XLN.rst:1329
 msgid "As Vanquisher's Banner enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu walki wybierz typ stwora."
 
 #: ../../XLN.rst:1331
 msgid "Creatures you control of the chosen type get +1/+1."
-msgstr ""
+msgstr "Stwory wybranego typu pod twoim władaniem dostają +1/+1."
 
 #: ../../XLN.rst:1333
 msgid "Whenever you cast a creature spell of the chosen type, draw a card."
-msgstr ""
+msgstr "Ilekroć rzucasz czar stwora wybranego typu, dobierz kartę."
 
 #: ../../XLN.rst:1340
+#, fuzzy
 msgid "Dragonskull Summit"
-msgstr ""
+msgstr "Dragonskull Summit"
 
 #: ../../XLN.rst:1337
 msgid ""
 "Dragonskull Summit enters the battlefield tapped unless you control a Swamp "
 "or a Mountain."
 msgstr ""
+"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Bagnem lub Górą."
 
 #: ../../XLN.rst:1339
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../XLN.rst:1346
+#, fuzzy
 msgid "Drowned Catacomb"
-msgstr ""
+msgstr "Drowned Catacomb"
 
 #: ../../XLN.rst:1343
 msgid ""
 "Drowned Catacomb enters the battlefield tapped unless you control an Island "
 "or a Swamp."
 msgstr ""
+"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Wyspą lub Bagnem."
 
 #: ../../XLN.rst:1345
 msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../XLN.rst:1352
+#, fuzzy
 msgid "Field of Ruin"
-msgstr ""
+msgstr "Field of Ruin"
 
 #: ../../XLN.rst:1351
 msgid ""
@@ -3678,44 +3709,54 @@ msgid ""
 "opponent controls. Each player searches their library for a basic land card, "
 "puts it onto the battlefield, then shuffles their library."
 msgstr ""
+"|mana_2|, |tap|, poświęć tę kartę: Zniszcz wskazany nie-bazowy ląd pod "
+"władaniem przeciwnika. Każdy gracz szuka w swojej bibliotece kartę bazowego "
+"lądu, umieszcza ją na polu walki, następnie tasuje swoją bibliotekę."
 
 #: ../../XLN.rst:1358
 msgid "Glacial Fortress"
-msgstr ""
+msgstr "Glacial Fortress (Lodowcowa Forteca)"
 
 #: ../../XLN.rst:1355
 msgid ""
 "Glacial Fortress enters the battlefield tapped unless you control a Plains "
 "or an Island."
 msgstr ""
+"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Równiną lub "
+"Wyspą."
 
 #: ../../XLN.rst:1357
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../XLN.rst:1364
+#, fuzzy
 msgid "Rootbound Crag"
-msgstr ""
+msgstr "Rootbound Crag"
 
 #: ../../XLN.rst:1361
 msgid ""
 "Rootbound Crag enters the battlefield tapped unless you control a Mountain "
 "or a Forest."
 msgstr ""
+"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Górą lub Lasem."
 
 #: ../../XLN.rst:1363
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../XLN.rst:1370
+#, fuzzy
 msgid "Sunpetal Grove"
-msgstr ""
+msgstr "Sunpetal Grove"
 
 #: ../../XLN.rst:1367
 msgid ""
 "Sunpetal Grove enters the battlefield tapped unless you control a Forest or "
 "a Plains."
 msgstr ""
+"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Lasem lub "
+"Równiną."
 
 #: ../../XLN.rst:1369
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -3723,19 +3764,19 @@ msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../XLN.rst:1378
 msgid "Unclaimed Territory"
-msgstr ""
+msgstr "Unclaimed Territory (Ziemia Niczyja)"
 
 #: ../../XLN.rst:1373
 msgid "As Unclaimed Territory enters the battlefield, choose a creature type."
-msgstr ""
+msgstr "Umieszczając tę kartę na polu walki wybierz typ stwora."
 
 #: ../../XLN.rst:1384
 msgid "Unknown Shores"
-msgstr ""
+msgstr "Unknown Shores (Nieznane brzegi)"
 
 #: ../../XLN.rst:1383
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../XLN.rst:1386 ../../XLN.rst:1390 ../../XLN.rst:1394 ../../XLN.rst:1398
 msgid "Plains"
@@ -3758,8 +3799,9 @@ msgid "Forest"
 msgstr "Forest (Las)"
 
 #: ../../XLN.rst:1472
+#, fuzzy
 msgid "Jace, Ingenious Mind-Mage"
-msgstr ""
+msgstr "Jace, Ingenious Mind-Mage"
 
 #: ../../XLN.rst:1467
 msgid "+1: Draw a card."
@@ -3767,31 +3809,33 @@ msgstr "+1: Dobierz kartę."
 
 #: ../../XLN.rst:1469
 msgid "+1: Untap all creatures you control."
-msgstr ""
+msgstr "+1: Odtapuj wszystkie stwory pod twoim władaniem."
 
 #: ../../XLN.rst:1471
 msgid "−9: Gain control of up to three target creatures."
-msgstr ""
+msgstr "–9: Zyskujesz władaniem nad co najwyżej trzema wskazanymi stworami."
 
 #: ../../XLN.rst:1480
+#, fuzzy
 msgid "Castaway's Despair"
-msgstr ""
+msgstr "Castaway's Despair"
 
 #: ../../XLN.rst:1477
 msgid "When Castaway's Despair enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zatapuj zauroczonego stwora."
 
 #: ../../XLN.rst:1479
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 #: ../../XLN.rst:1486
+#, fuzzy
 msgid "Grasping Current"
-msgstr ""
+msgstr "Grasping Current"
 
 #: ../../XLN.rst:1483
 msgid "Return up to two target creatures to their owner's hand."
-msgstr ""
+msgstr "Przywróć co najwyżej dwa wskazane stwory do rąk ich właścicieli."
 
 #: ../../XLN.rst:1485
 msgid ""
@@ -3799,16 +3843,22 @@ msgid ""
 "Mage, reveal it, and put it into your hand. If you searched your library "
 "this way, shuffle it."
 msgstr ""
+"Poszukaj w twojej bibliotece oraz/lub cmentarzu kartę o nazwie Jace, "
+"Ingenious Mind-Mage, ujawnij ją i umieść w twojej ręce. Jeśli przeszukiwałeś "
+"twoją bibliotekę w ten sposób, przetasuj ją."
 
 #: ../../XLN.rst:1490
+#, fuzzy
 msgid "Jace's Sentinel"
-msgstr ""
+msgstr "Jace's Sentinel"
 
 #: ../../XLN.rst:1489
 msgid ""
 "As long as you control a Jace planeswalker, Jace's Sentinel gets +1/+0 and "
 "can't be blocked."
 msgstr ""
+"O ile władasz wędrowcem o typie Jace, ten stwór dostaje +1/+0 i nie może być "
+"blokowany."
 
 #: ../../XLN.rst:1496
 #, fuzzy
@@ -3824,44 +3874,54 @@ msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../XLN.rst:1504
+#, fuzzy
 msgid "Huatli, Dinosaur Knight"
-msgstr ""
+msgstr "Huatli, Dinosaur Knight"
 
 #: ../../XLN.rst:1499
 msgid "+2: Put two +1/+1 counters on up to one target Dinosaur you control."
 msgstr ""
+"+2: Umieść dwa znaczniki +1/+1 na co najwyżej jednym wskazanym Dinozaurze "
+"pod twoim władaniem."
 
 #: ../../XLN.rst:1501
 msgid ""
 "−3: Target Dinosaur you control deals damage equal to its power to target "
 "creature you don't control."
 msgstr ""
+"–3: Wskazany Dinozaur pod twoim władaniem zadaje obrażenia równe swojej sile "
+"wskazanemu stworowi poza twoim władaniem."
 
 #: ../../XLN.rst:1503
 msgid "−7: Dinosaurs you control get +4/+4 until end of turn."
-msgstr ""
+msgstr "–7: Dinozaury pod twoim władaniem dostają +4/+4 do końca tury."
 
 #: ../../XLN.rst:1508
+#, fuzzy
 msgid "Huatli's Snubhorn"
-msgstr ""
+msgstr "Huatli's Snubhorn"
 
 #: ../../XLN.rst:1507
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
 msgstr "Czujność (Atakowanie nie powoduje tapowania tego stwora.)"
 
 #: ../../XLN.rst:1512
+#, fuzzy
 msgid "Huatli's Spurring"
-msgstr ""
+msgstr "Huatli's Spurring"
 
 #: ../../XLN.rst:1511
 msgid ""
 "Target creature gets +2/+0 until end of turn. If you control a Huatli "
 "planeswalker, that creature gets +4/+0 until end of turn instead."
 msgstr ""
+"Wskazany stwór dostaje +2/+0 do końca tury. Jeśli władasz wędrowcem o type "
+"Huatli, zamiast tego ów stwór dostaje +4/+0 do końca tury."
 
 #: ../../XLN.rst:1516
+#, fuzzy
 msgid "Sun-Blessed Mount"
-msgstr ""
+msgstr "Sun-Blessed Mount"
 
 #: ../../XLN.rst:1515
 msgid ""
@@ -3869,6 +3929,10 @@ msgid ""
 "and/or graveyard for a card named Huatli, Dinosaur Knight, reveal it, then "
 "put it into your hand. If you searched your library this way, shuffle it."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz poszukać w twojej bibliotece "
+"oraz/lub cmentarzu kartę o nazwie Huatli, Dinosaur Knight, ujawnić ją, "
+"następnie umieścić w twojej ręce. Jeśli przeszukiwałeś twoją bibliotekę w "
+"ten sposób, przetasuj ją."
 
 #: ../../XLN.rst:1521
 #, fuzzy
