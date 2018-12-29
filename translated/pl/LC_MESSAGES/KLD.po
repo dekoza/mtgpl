@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 01:16+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
@@ -1178,8 +1178,9 @@ msgid "Target creature gets -1/-1 until end of turn."
 msgstr ""
 
 #: ../../KLD.rst:541
+#, fuzzy
 msgid "Put a +1/+1 counter on target creature."
-msgstr ""
+msgstr "{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
 
 #: ../../KLD.rst:546
 msgid "Syndicate Trafficker"
@@ -1826,7 +1827,7 @@ msgid ""
 "fights target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
-"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
 "stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
 "nawzajem obrażenia równe ich sile.)"
 
