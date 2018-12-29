@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-27 13:40+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -971,6 +971,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, put a +1/+1 "
 "counter on each creature you control."
 msgstr ""
+"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, umieść znacznik +1/+"
+"1 na każdym stworze, którym władasz."
 
 #: ../../C14.rst:410
 msgid "Celestial Crusader"
@@ -2088,6 +2090,10 @@ msgid ""
 "two cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
+"Wróż 2, następnie dobierz dwie karty. Tracisz 2 życia. (By wróżyć 2, spójrz "
+"na dwie wierzchnie karty twojej biblioteki, następnie umieść dowolną liczbę "
+"z nich na spodzie twojej biblioteki, a pozostałe na wierzchu w dowolnej "
+"kolejności.)"
 
 #: ../../C14.rst:912
 msgid "Reaper from the Abyss"
@@ -2924,7 +2930,7 @@ msgid ""
 "land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_3|, poświęć Burnished Hart: Poszukaj w twojej bibliotece najwyżej dwie "
-"karty zwykłych lądów, połóż je na polu walki zatapowane, a następnie "
+"karty zwykłych lądów, umieść je na polu walki zatapowane, a następnie "
 "przetasuj twoją bibliotekę."
 
 #: ../../C14.rst:1292
@@ -3451,8 +3457,11 @@ msgid "|mana_1|, |tap|, Discard a card: You gain 4 life."
 msgstr ""
 
 #: ../../C14.rst:1545
+#, fuzzy
 msgid "|mana_1|, |tap|, Pay 1 life: Create a 0/1 white Goat creature token."
 msgstr ""
+"|mana_1|, |tap|, zapłać 1 życie: Umieść na polu walki żeton białego stwora "
+"Goat 0/1."
 
 #: ../../C14.rst:1547
 msgid ""
@@ -3659,7 +3668,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"połóż ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../C14.rst:1664
 msgid "Forgotten Cave"
