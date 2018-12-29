@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-27 13:40+0000\n"
+"PO-Revision-Date: 2018-12-29 01:16+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
@@ -2294,7 +2294,7 @@ msgid ""
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
 "Załoga 4 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
-"4 lub większej. Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
+"co najmniej 4: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1050
 msgid "Ballista Charger"
@@ -2309,6 +2309,8 @@ msgid ""
 "Crew 3 (Tap any number of creatures you control with total power 3 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 3 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 3: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1054
 msgid "Bastion Mastodon"
@@ -2426,6 +2428,8 @@ msgid ""
 "Crew 5 (Tap any number of creatures you control with total power 5 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 5 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 5: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1114
 msgid "Dukhara Peafowl"
@@ -2693,6 +2697,8 @@ msgid ""
 "Crew 1 (Tap any number of creatures you control with total power 1 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
+"Załoga 1 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 1: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1226
 msgid "Panharmonicon"
@@ -2739,7 +2745,7 @@ msgstr ""
 
 #: ../../KLD.rst:1241
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
+msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../KLD.rst:1248
 msgid "Renegade Freighter"
