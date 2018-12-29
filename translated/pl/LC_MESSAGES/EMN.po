@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-27 13:40+0000\n"
+"PO-Revision-Date: 2018-12-29 22:21+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/emn/pl/>\n"
 "Language: pl\n"
@@ -789,6 +789,8 @@ msgid ""
 "|tap|: Add |colorless|. Spend this mana only to cast an instant or sorcery "
 "spell."
 msgstr ""
+"|tap|: Dostajesz |colorless|. Wydaj tę manę tylko na rzucenie sztuczki lub "
+"obrzędu."
 
 #: ../../EMN.rst:339
 msgid ""
@@ -1436,7 +1438,7 @@ msgstr ""
 
 #: ../../EMN.rst:645
 msgid "Enchanted creature gets +1/+1."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+1."
 
 #: ../../EMN.rst:647
 msgid ""
