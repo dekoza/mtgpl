@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-24 11:22+0000\n"
+"PO-Revision-Date: 2018-12-29 01:16+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -2935,9 +2935,8 @@ msgid "Azorius Keyrune"
 msgstr ""
 
 #: ../../RTR.rst:1854 ../../RTR.rst:1968
-#, fuzzy
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dodaj |mana_w| lub |mana_u| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../RTR.rst:1856
 msgid ""

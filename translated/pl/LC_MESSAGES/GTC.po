@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-27 13:40+0000\n"
+"PO-Revision-Date: 2018-12-29 01:16+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -3537,9 +3537,8 @@ msgstr ""
 # a433da4f8b3d4931ad660d1094e3be83
 # c1bd5c73a17d4a2ab588b9b51d21fc56
 #: ../../GTC.rst:1215 ../../GTC.rst:1291
-#, fuzzy
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dodaj |mana_r| lub |mana_g| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 # 049e9fc991f74b4ba65987c50f1bac32
 #: ../../GTC.rst:1217
@@ -3608,10 +3607,8 @@ msgstr "Kiedy Prophetic Prism wchodzi na pole walki, dobierz kartę."
 
 # 3133e8ee159b4d3baf96351c170914f4
 #: ../../GTC.rst:1239
-#, fuzzy
 msgid "|mana_1|, |tap|: Add one mana of any color."
-msgstr ""
-"|mana_1|, |tap|: Dodaj jedną manę dowolnego koloru to twojej puli many."
+msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
 # 91f186cbbb344e9684cfc735f59e7bd9
 #: ../../GTC.rst:1244
