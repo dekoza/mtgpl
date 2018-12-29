@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-25 14:43+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -991,6 +991,8 @@ msgid ""
 "Look at the top three cards of your library. Put one of them into your hand "
 "and the rest into your graveyard."
 msgstr ""
+"Obejrzyj trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich do "
+"twojej ręki, a pozostałe do twojego cmentarza."
 
 # 993b5d7c52354c37a5dbf13b34e49f72
 #: ../../C13.rst:362
@@ -1108,8 +1110,8 @@ msgstr "Army of the Damned (Armia Potępionych)"
 #, fuzzy
 msgid "Create thirteen tapped 2/2 black Zombie creature tokens."
 msgstr ""
-"Połóż na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi "
-"2/2."
+"Umieść na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi 2/"
+"2."
 
 # 4dc371cb4d4a420db836abecf46c4361
 #: ../../C13.rst:409
@@ -3272,8 +3274,11 @@ msgid "Exile target creature with power 5 or greater."
 msgstr ""
 
 #: ../../C13.rst:1217
+#, fuzzy
 msgid "Create a 2/2 white Knight creature token with vigilance."
 msgstr ""
+"Kiedy Knightly Valor wchodzi na pole walki, umieść na polu walki żeton "
+"białego stwora Rycerz 2/2 z czujnością."
 
 # c62141789031499bafb5ce0131d5ea12
 #: ../../C13.rst:1224
@@ -4393,14 +4398,12 @@ msgstr "Evolving Wilds"
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1645
-#, fuzzy
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
-"Kiedy Oko Pielgrzyma wchodzi na pole walki, możesz przeszukać twoją "
-"bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
-"swojej ręki, a następnie przetasować twoją bibliotekę."
+"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
 
 # 84fc79616850413ab61c30f756532bdc
 #: ../../C13.rst:1654
