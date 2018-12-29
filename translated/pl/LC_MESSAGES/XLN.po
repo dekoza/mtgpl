@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 01:16+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -77,7 +77,7 @@ msgid ""
 "Enrage — Whenever Bellowing Aegisaur is dealt damage, put a +1/+1 counter on "
 "each other creature you control."
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, połóż znacznik +1/+ na "
+"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, umieść znacznik +1/+ na "
 "każdym innym stworze pod twoim władaniem."
 
 #: ../../XLN.rst:32
@@ -162,7 +162,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:64
@@ -462,7 +462,7 @@ msgid ""
 "You gain twice X life. Put Sanguine Sacrament on the bottom of its owner's "
 "library."
 msgstr ""
-"Zyskujesz dwukrotność X życia. Połóż tę kartę na spodzie biblioteki jej "
+"Zyskujesz dwukrotność X życia. Umieść tę kartę na spodzie biblioteki jej "
 "właściciela."
 
 #: ../../XLN.rst:184
@@ -541,7 +541,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:216
@@ -974,7 +974,7 @@ msgstr "Run Aground"
 #: ../../XLN.rst:363
 msgid "Put target artifact or creature on top of its owner's library."
 msgstr ""
-"Połóż wskazany artefakt lub stwora na wierzchu biblioteki jego właściciela."
+"Umieść wskazany artefakt lub stwora na wierzchu biblioteki jego właściciela."
 
 #: ../../XLN.rst:368
 #, fuzzy
@@ -1027,7 +1027,7 @@ msgid ""
 msgstr ""
 "|mana_2| |mana_u|, |tap|: Spójrz na cztery wierzchnie karty twojej "
 "biblioteki. Możesz ujawnić spośród nich kartę nie będącą stworem lub lądem i "
-"dołożyć ją do twojej ręki. Połóż pozostałe na spodzie twojej biblioteki w "
+"dołożyć ją do twojej ręki. Umieść pozostałe na spodzie twojej biblioteki w "
 "dowolnej kolejności."
 
 #: ../../XLN.rst:384
@@ -1075,7 +1075,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:404
@@ -1310,7 +1310,7 @@ msgid ""
 "owners' graveyards."
 msgstr ""
 "Wygnaj co najwyżej pięć wskazanych kart stworów z cmentarzy. Przeciwnik "
-"dzieli owe karty na dwa stosy. Połóż wszystkie karty z wybranego przez "
+"dzieli owe karty na dwa stosy. Umieść wszystkie karty z wybranego przez "
 "ciebie stosu na polu walki pod twoim władaniem, a pozostałe do cmentarzy ich "
 "właścicieli."
 
@@ -1378,7 +1378,7 @@ msgstr ""
 "|mana_1| |mana_b|, |tap|: Wypędź dwie wskazane karty z cmentarza "
 "przeciwnika. Ten stwór eksploruje. (Ujawnij wierzchnią kartę twojej "
 "biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym razie "
-"połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub umieść "
+"umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub umieść "
 "ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:512
@@ -1435,7 +1435,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:532
@@ -1593,7 +1593,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:588
@@ -1702,7 +1702,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:624
@@ -1855,7 +1855,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:680
@@ -2163,7 +2163,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, dobierz trzy karty, następnie odrzuć "
 "losowo dwie karty. Jeśli dwie karty mające wspólny typ zostaną odrzucone w "
-"ten sposób, połóż dwa znaczniki +1/+1 na tej karcie."
+"ten sposób, umieść dwa znaczniki +1/+1 na tej karcie."
 
 #: ../../XLN.rst:806
 #, fuzzy
@@ -2242,7 +2242,7 @@ msgstr ""
 "Ilekroć rzucisz czar z twojej ręki, ujawnij X wierzchnich kart twojej "
 "biblioteki, gdzie X jest łącznym kosztem many owego czaru. Możesz rzucić "
 "ujawnioną w ten sposób kartę o łącznym koszcie many X lub mniejszym bez "
-"płacenia jaj kosztu many. Połóż pozostałe na spodzie twojej biblioteki w "
+"płacenia jaj kosztu many. Umieść pozostałe na spodzie twojej biblioteki w "
 "losowej kolejności."
 
 #: ../../XLN.rst:830
@@ -2523,7 +2523,8 @@ msgid ""
 "Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot "
 "Champion."
 msgstr ""
-"Ilekroć rzucisz czar nie będący stworem, połóż znacznik +1/+1 na tym stworze."
+"Ilekroć rzucisz czar nie będący stworem, umieść znacznik +1/+1 na tym "
+"stworze."
 
 #: ../../XLN.rst:934
 #, fuzzy
@@ -2575,7 +2576,7 @@ msgid ""
 msgstr ""
 "Ilekroć ten stwór zada bitewne obrażenia graczowi, eksploruje. (Ujawnij "
 "wierzchnią kartę twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to "
-"ląd. W przeciwnym razie połóż znacznik +1/+1 na tym stworze, a następnie "
+"ląd. W przeciwnym razie umieść znacznik +1/+1 na tym stworze, a następnie "
 "odłóż ową kartę lub umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:952
@@ -2639,7 +2640,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:974
@@ -2673,7 +2674,7 @@ msgid ""
 "When Jade Guardian enters the battlefield, put a +1/+1 counter on target "
 "Merfolk you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, połóż znacznik +1/+1 na wskazanym "
+"Kiedy ta karta wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
 "Wodniku pod twoim władaniem."
 
 #: ../../XLN.rst:984
@@ -2683,7 +2684,7 @@ msgstr "Jungle Delver"
 
 #: ../../XLN.rst:983
 msgid "|mana_3| |mana_g|: Put a +1/+1 counter on Jungle Delver."
-msgstr "|mana_3| |mana_g|: Połóż znacznik +1/+1 na tej karcie."
+msgstr "|mana_3| |mana_g|: Umieść znacznik +1/+1 na tej karcie."
 
 #: ../../XLN.rst:988
 #, fuzzy
@@ -2711,7 +2712,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:1000
@@ -2728,7 +2729,7 @@ msgid ""
 "When New Horizons enters the battlefield, put a +1/+1 counter on target "
 "creature you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, połóż znacznik +1/+1 na wskazanym "
+"Kiedy ta karta wejdzie na pole walki, umieść znacznik +1/+1 na wskazanym "
 "stworze pod twoim władaniem."
 
 #: ../../XLN.rst:999
@@ -2809,8 +2810,8 @@ msgid ""
 "Put a +1/+1 counter on target creature and a +1/+1 counter on up to one "
 "target Merfolk."
 msgstr ""
-"Połóż znacznik +1/+1 na wskazanym stworze oraz znacznik +1/+1 na co najwyżej "
-"jednym wskazanym Wodniku."
+"Umieść znacznik +1/+1 na wskazanym stworze oraz znacznik +1/+1 na co "
+"najwyżej jednym wskazanym Wodniku."
 
 #: ../../XLN.rst:1030
 #, fuzzy
@@ -2830,7 +2831,7 @@ msgid ""
 "fights target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
-"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
 "stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
 "nawzajem obrażenia równe ich sile.)"
 
@@ -2866,7 +2867,7 @@ msgid ""
 "Enrage — Whenever Snapping Sailback is dealt damage, put a +1/+1 counter on "
 "it. (It must survive the damage to get the counter.)"
 msgstr ""
-"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, połóż na nim znacznik +"
+"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, umieść na nim znacznik +"
 "1/+1. (Musi przeżyć obrażenia, by otrzymać znacznik.)"
 
 #: ../../XLN.rst:1050
@@ -2907,7 +2908,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, eksploruje. (Ujawnij wierzchnią kartę "
 "twojej biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym "
-"razie połóż znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
+"razie umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub "
 "umieść ją w twoim cmentarzu.)"
 
 #: ../../XLN.rst:1066
@@ -2946,7 +2947,7 @@ msgid ""
 "When Vineshaper Mystic enters the battlefield, put a +1/+1 counter on each "
 "of up to two target Merfolk you control."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, połóż znacznik +1/+1 na każdym z co "
+"Kiedy ta karta wejdzie na pole walki, umieść znacznik +1/+1 na każdym z co "
 "najwyżej dwóch wskazanych Wodników pod twoim władaniem."
 
 #: ../../XLN.rst:1078
@@ -2958,8 +2959,9 @@ msgid ""
 "|mana_x| |mana_g| |mana_g|: Put X +1/+1 counters on target land you control. "
 "That land becomes a 0/0 Elemental creature with haste. It's still a land."
 msgstr ""
-"|mana_x| |mana_g| |mana_g|: Połóż X znaczników +1/+1 na wskazanym lądzie pod "
-"twoim władaniem. Ów ląd staje się stworem Elemental 0/0. Nadal jest on lądem."
+"|mana_x| |mana_g| |mana_g|: Umieść X znaczników +1/+1 na wskazanym lądzie "
+"pod twoim władaniem. Ów ląd staje się stworem Elemental 0/0. Nadal jest on "
+"lądem."
 
 #: ../../XLN.rst:1082
 #, fuzzy
@@ -2971,7 +2973,7 @@ msgid ""
 "Whenever a creature you control explores, put a +1/+1 counter on Wildgrowth "
 "Walker and you gain 3 life."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem eksploruje, połóż znacznik +1/+1 na tym "
+"Ilekroć stwór pod twoim władaniem eksploruje, umieść znacznik +1/+1 na tym "
 "stworze, a ty zyskujesz 3 życia."
 
 #: ../../XLN.rst:1088
@@ -3477,7 +3479,7 @@ msgid ""
 "Primal Amulet. Then if there are four or more charge counters on it, you may "
 "remove those counters and transform it."
 msgstr ""
-"Ilekroć rzucasz czar sztuczki lub obrzędu, połóż znacznik ładunku na tej "
+"Ilekroć rzucasz czar sztuczki lub obrzędu, umieść znacznik ładunku na tej "
 "karcie. Następnie jeśli ma ona cztery lub więcej znaczników ładunku możesz "
 "usunąć owe znaczniki i transformować ją."
 
@@ -3545,7 +3547,7 @@ msgid ""
 "Whenever a creature you control explores, put a +1/+1 counter on Shadowed "
 "Caravel."
 msgstr ""
-"Ilekroć stwór pod twoim władaniem eksploruje, połóż znacznik +1/+1 na tej "
+"Ilekroć stwór pod twoim władaniem eksploruje, umieść znacznik +1/+1 na tej "
 "karcie."
 
 #: ../../XLN.rst:1294
@@ -3631,7 +3633,7 @@ msgid ""
 "transform Treasure Map, and create three colorless Treasure artifact tokens "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
-"|mana_1|, |tap|: Wróż 1. Połóż znacznik orientacji na tym artefakcie. "
+"|mana_1|, |tap|: Wróż 1. Umieść znacznik orientacji na tym artefakcie. "
 "Następnie jeśli są na nim trzy znaczniki orientacji, usuń owe znaczniki, "
 "transformuj ten artefakt i stwórz trzy żetony bezkolorowego artefaktu Skarb "
 "ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
