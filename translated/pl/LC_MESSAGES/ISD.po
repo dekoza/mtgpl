@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 02:05+0000\n"
+"PO-Revision-Date: 2018-12-30 14:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
@@ -938,7 +938,7 @@ msgstr ""
 #: ../../ISD.rst:339 ../../ISD.rst:801 ../../ISD.rst:1171 ../../ISD.rst:1303
 #: ../../ISD.rst:1317
 msgid "Defender"
-msgstr "Obrońca"
+msgstr "Obronność"
 
 # c7fb8a6c81694861a19b2dc8978c1aa2
 #: ../../ISD.rst:341
@@ -970,10 +970,13 @@ msgid "Memory's Journey"
 msgstr ""
 
 #: ../../ISD.rst:353
+#, fuzzy
 msgid ""
 "Target player shuffles up to three target cards from their graveyard into "
 "their library."
 msgstr ""
+"Wskazany gracz wtasowuje co najwyżej trzy wskazane karty z jego cmentarza do "
+"jego biblioteki."
 
 # 2863541b22f34417bbb832dedaf0324f
 # f58e074122eb4b1d9e3ea1a0a5b398c3
@@ -3430,7 +3433,7 @@ msgstr ""
 # 7680e85fdf054390828134ac06ecb866
 #: ../../ISD.rst:1337
 msgid "Equipped creature gets +2/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+0."
 
 # 423579f1357a4eebb06541bad98ed465
 #: ../../ISD.rst:1339
@@ -3502,8 +3505,9 @@ msgstr ""
 
 # 31c35a7708eb48faa2ab52481646082b
 #: ../../ISD.rst:1372
+#, fuzzy
 msgid "Clifftop Retreat"
-msgstr ""
+msgstr "Clifftop Retreat"
 
 # f53e819042d24187bd9047d058f6066c
 #: ../../ISD.rst:1369
@@ -3549,8 +3553,9 @@ msgstr ""
 
 # d5a1e521d87b4809a214c58b0fb37b48
 #: ../../ISD.rst:1390
+#, fuzzy
 msgid "Hinterland Harbor"
-msgstr ""
+msgstr "Hinterland Harbor"
 
 # 709b45e956a445b898789669ffe472e8
 #: ../../ISD.rst:1387
@@ -3567,8 +3572,9 @@ msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 # 338ff9fa82d34ac988504a0dcca7e6af
 #: ../../ISD.rst:1396
+#, fuzzy
 msgid "Isolated Chapel"
-msgstr ""
+msgstr "Isolated Chapel"
 
 # cae8d9e4e18f4befb60001dfd58e19ee
 #: ../../ISD.rst:1393
@@ -3641,7 +3647,7 @@ msgstr ""
 # cbb7513fc0b64a11983622bd67fe9dfe
 #: ../../ISD.rst:1432
 msgid "Sulfur Falls"
-msgstr ""
+msgstr "Sulfur Falls (Siarczane Wodospady)"
 
 # 1ae0ec8996c5478392f1d9588a775663
 #: ../../ISD.rst:1429
@@ -3659,7 +3665,7 @@ msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 # a9e71f4853c7424794b628668cd96930
 #: ../../ISD.rst:1438
 msgid "Woodland Cemetery"
-msgstr ""
+msgstr "Woodland Cemetery (Leśny Cmentarz)"
 
 # bc800995a451461893c96cdfd33c3427
 #: ../../ISD.rst:1435
