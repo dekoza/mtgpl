@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 01:16+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bng/pl/>\n"
 "Language: pl\n"
@@ -121,8 +121,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Akroan Skyguard, put a +1/+1 "
 "counter on Akroan Skyguard."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący na Akroan Skyguard, połóż znacznik "
-"+1/+1 na Akroan Skyguard."
+"Heroizm — Ilekroć rzucasz czar wskazujący na Akroan Skyguard, umieść "
+"znacznik +1/+1 na Akroan Skyguard."
 
 # 0e29efe6152c4a5eac73461259682d4c
 # ec7cb7fc2cea451a97a27676b63ea2e3
@@ -160,7 +160,7 @@ msgid ""
 "Whenever Brimaz, King of Oreskos attacks, create a 1/1 white Cat Soldier "
 "creature token with vigilance that's attacking."
 msgstr ""
-"Ilekroć Brimaz, Król Oreskos atakuje, połóż na polu walki atakujący żeton "
+"Ilekroć Brimaz, Król Oreskos atakuje, umieść na polu walki atakujący żeton "
 "białego stwora Piechur Kot 1/1 z czujnością."
 
 # 48f89cb469dd4edf8307e4f2fb0ef001
@@ -171,7 +171,7 @@ msgid ""
 "Whenever Brimaz blocks a creature, create a 1/1 white Cat Soldier creature "
 "token with vigilance that's blocking that creature."
 msgstr ""
-"Ilekroć Brimaz blokuje stwora, połóż na polu walki żeton białego stwora "
+"Ilekroć Brimaz blokuje stwora, umieść na polu walki żeton białego stwora "
 "Piechur Kot 1/1 z czujnością, blokującego owego stwora."
 
 # 520e72e051d540389006bec609838a80
@@ -327,7 +327,7 @@ msgid ""
 "of your library and the rest on top in any order.)"
 msgstr ""
 "Zniszcz wszystkie stwory i wędrowców. Jeśli jest twoja tura, wróż 2. (Spójrz "
-"na dwie wierzchnie karty twojej biblioteki, następnie połóż dowolne z nich "
+"na dwie wierzchnie karty twojej biblioteki, następnie umieść dowolne z nich "
 "na spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
 "kolejności.)"
 
@@ -397,8 +397,8 @@ msgid ""
 "creature tokens."
 msgstr ""
 "Natchniony — Ilekroć God-Favored General zostaje odnzaczony, możesz zapłacić "
-"|mana_2| |mana_w|. Jeśli tak zrobisz, połóż na polu walki dwa żetony białego "
-"uroku stwora Piechur 1/1."
+"|mana_2| |mana_w|. Jeśli tak zrobisz, umieść na polu walki dwa żetony "
+"białego uroku stwora Piechur 1/1."
 
 # 910c6e317f18470293c7be0abdefa19c
 # 6a5be75d38164cb29c1932ef626b0034
@@ -446,8 +446,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Hero of Iroas, put a +1/+1 "
 "counter on Hero of Iroas."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący Hero of Iroas, połóż znacznik +1/"
-"+1 na Hero of Iroas."
+"Heroizm — Ilekroć rzucasz czar wskazujący Hero of Iroas, umieść znacznik +1/+"
+"1 na Hero of Iroas."
 
 # fd83511b96f04981b2546f7e93e3e8ad
 # 606d1ce369e14555b519bbe20171a015
@@ -567,7 +567,7 @@ msgid ""
 "1/1 white Bird creature tokens with flying."
 msgstr ""
 "Kiedy Ornitharch wchodzi na pole walki, jeśli danina nie została zapłacona, "
-"połóż na polu walki dwa żetony białego stwora Ptak 1/1 z lataniem."
+"umieść na polu walki dwa żetony białego stwora Ptak 1/1 z lataniem."
 
 # 13c498ad8bac49a48ef090fad2dd8313
 # 8c73c3974b86422bbf927def4558e4ae
@@ -642,7 +642,7 @@ msgid ""
 "Enchanted creature has \"Whenever you gain life, put that many +1/+1 "
 "counters on this creature.\""
 msgstr ""
-"Zauroczony stwór ma \\\"Ilekroć zyskujesz życie, połóż tyle samo znaczników "
+"Zauroczony stwór ma \\\"Ilekroć zyskujesz życie, umieść tyle samo znaczników "
 "+1/+1 na tym stworze.\\\""
 
 # 9f6e88b1056e4fcd98fdb00266f29706
@@ -660,7 +660,7 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Vanguard of Brimaz, create a "
 "1/1 white Cat Soldier creature token with vigilance."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący Vanguard of Brimaz, połóż na polu "
+"Heroizm — Ilekroć rzucasz czar wskazujący Vanguard of Brimaz, umieść na polu "
 "walki żeton białego stwora Piechur Kot 1/1 z czujnością."
 
 # 5f193658315e496b88b0d3be7e4f1e91
@@ -679,9 +679,9 @@ msgid ""
 "|mana_u|. If you do, create a 2/2 blue Bird enchantment creature token with "
 "flying."
 msgstr ""
-"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić |"
-"mana_2| |mana_u|. Jeśli tak zrobisz, połóż na polu walki żeton niebieskiego "
-"uroku stwora Ptak 2/2 z lataniem."
+"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić "
+"|mana_2| |mana_u|. Jeśli tak zrobisz, umieść na polu walki żeton "
+"niebieskiego uroku stwora Ptak 2/2 z lataniem."
 
 # 2db638134b6844cf918912d5c79e3f11
 # 44e60f6e8f7b4aabbb8e4960b23e8fd0
@@ -840,9 +840,9 @@ msgid ""
 "number of them on the bottom of your library and the rest on top in any "
 "order.)"
 msgstr ""
-"Połóż na polu walki żeton będący kopią wskazanego stwora, którym władasz. "
+"Umieść na polu walki żeton będący kopią wskazanego stwora, którym władasz. "
 "Jeśli jest twoja tura, wróż 2. (Spójrz na dwie wierzchnie karty twojej "
-"biblioteki, następnie połóż dowolne z nich na spodzie twojej biblioteki, a "
+"biblioteki, następnie umieść dowolne z nich na spodzie twojej biblioteki, a "
 "pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 # 69568b2073d94b1ab657ca83cbddb32f
@@ -927,7 +927,7 @@ msgid ""
 msgstr ""
 "Heroizm — Ilekroć rzucasz czar wskazujący Astronoma z Meletis, spójrz na "
 "trzy wierzchnie karty twojej biblioteki. Możesz ujawnić kartę uroku spośród "
-"nich i dołożyć ją do twojej reki. Połóż pozostałe na spodzie twojej "
+"nich i dołożyć ją do twojej reki. Umieść pozostałe na spodzie twojej "
 "biblioteki w dowolnej kolejności."
 
 # 4b95e45d7d6b4971b59aa16ed84fe6b9
@@ -1202,7 +1202,7 @@ msgid ""
 "on top of their owners' libraries, then those players shuffle their "
 "libraries."
 msgstr ""
-"|mana_u|: Połóż Wirołaka i każdego stwora blokującego go lub blokowanego "
+"|mana_u|: Umieść Wirołaka i każdego stwora blokującego go lub blokowanego "
 "przez niego na wierzchu bibliotek ich właścicieli, następnie owi gracze "
 "tasują swoje biblioteki."
 
@@ -1348,8 +1348,8 @@ msgid ""
 "|mana_5| |mana_b| |mana_b|: Put Champion of Stray Souls on top of your "
 "library from your graveyard."
 msgstr ""
-"|mana_5| |mana_b| |mana_b|: Połóż Champion of Stray Souls na wierzchu twojej "
-"biblioteki z twojego cmentarza."
+"|mana_5| |mana_b| |mana_b|: Umieść Champion of Stray Souls na wierzchu "
+"twojej biblioteki z twojego cmentarza."
 
 # 41b95aa93c2244a381e790e440d8dafe
 # 2f88a97254474a1580e848d9b3459ec1
@@ -1452,9 +1452,9 @@ msgid ""
 "top two cards of your library, then put any number of them on the bottom of "
 "your library and the rest on top in any order.)"
 msgstr ""
-"Połóż wskazaną kartę stwora z cmentarza na polu walki pod twoim władaniem. "
+"Umieść wskazaną kartę stwora z cmentarza na polu walki pod twoim władaniem. "
 "Zyskuje ona niezniszczalność. Jeśli jest twoja tura, wróż 2. (Spójrz na dwie "
-"wierzchnie karty twojej biblioteki, następnie połóż dowolne z nich na "
+"wierzchnie karty twojej biblioteki, następnie umieść dowolne z nich na "
 "spodzie twojej biblioteki, a pozostałe na jej wierzchu w dowolnej "
 "kolejności.)"
 
@@ -1498,8 +1498,8 @@ msgid ""
 "Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2| "
 "|mana_b|. If you do, create a 2/2 black Zombie enchantment creature token."
 msgstr ""
-"Natchniony — Ilekroć Forlorn Pseudamma zostaje odznaczony, możesz zapłacić |"
-"mana_2| |mana_b|. Jeśli tak zrobisz, połóż na polu walki żeton czarnego "
+"Natchniony — Ilekroć Forlorn Pseudamma zostaje odznaczony, możesz zapłacić "
+"|mana_2| |mana_b|. Jeśli tak zrobisz, umieść na polu walki żeton czarnego "
 "uroku stwora Zombi 2/2."
 
 # 3f6aa0f81fde4acdb18a28ada7257762
@@ -1515,7 +1515,7 @@ msgid ""
 "When Forsaken Drifters dies, put the top four cards of your library into "
 "your graveyard."
 msgstr ""
-"Kiedy Porzuceni Rybacy umierają, połóż cztery wierzchnie karty twojej "
+"Kiedy Porzuceni Rybacy umierają, umieść cztery wierzchnie karty twojej "
 "biblioteki do twojego cmentarza."
 
 # d403d474926f4edc910545cddad6083e
@@ -1532,7 +1532,7 @@ msgid ""
 "Exile target creature. Create a colorless artifact token named Gold. It has "
 "\"Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
-"Wypędź wskazanego stwora. Połóż na polu walki żeton bezkolorowego artefaktu "
+"Wypędź wskazanego stwora. Umieść na polu walki żeton bezkolorowego artefaktu "
 "Złoto z \\\"Poświęć ten artefakt: Dodaj jedną manę dowolnego koloru do "
 "twojej puli many.\\\""
 
@@ -1972,7 +1972,7 @@ msgid ""
 msgstr ""
 "Fated Conflagration zadaje 5 obrażeń wskazanemu stworowi lub wędrowcowi. "
 "Jeśli jest twoja tura, wróż 2. (Spójrz na dwie wierzchnie karty twojej "
-"biblioteki, następnie połóż dowolne z nich na spodzie twojej biblioteki, a "
+"biblioteki, następnie umieść dowolne z nich na spodzie twojej biblioteki, a "
 "pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 # 3abf5438442d4ae69548af1d0a45f91b
@@ -2010,7 +2010,7 @@ msgid ""
 "gains haste. Exile it at the beginning of the next end step."
 msgstr ""
 "Natchniony — Ilekroć Felhide Spiritbinder zostaje odznaczony, możesz "
-"zapłacić |mana_1| |mana_r|. Jeśli tak zrobisz, połóż na polu walki żeton "
+"zapłacić |mana_1| |mana_r|. Jeśli tak zrobisz, umieść na polu walki żeton "
 "będący kopią innego wskazanego stwora, z tym że jest on urokiem w dodatku do "
 "swoich innych typów. Zyskuje on pośpiech. Wypędź go na początku najbliższego "
 "kroku końcowego."
@@ -2245,8 +2245,8 @@ msgid ""
 "mana_r|. If you do, create a 3/1 red Elemental enchantment creature token "
 "with haste."
 msgstr ""
-"Natchniony — Ilekroć Satyr Nyx-Smith zostaje odznaczony, możesz zapłacić |"
-"mana_2| |mana_r|. Jeśli tak zrobisz, połóż na polu walki żeton czerwonego "
+"Natchniony — Ilekroć Satyr Nyx-Smith zostaje odznaczony, możesz zapłacić "
+"|mana_2| |mana_r|. Jeśli tak zrobisz, umieść na polu walki żeton czerwonego "
 "uroku-stwora Żywiołak z pośpiechem."
 
 # 69e08f0dc38a432abeef2a0b0e12a5c4
@@ -2468,9 +2468,9 @@ msgid ""
 "scry 2. (Look at the top two cards of your library, then put any number of "
 "them on the bottom of your library and the rest on top in any order.)"
 msgstr ""
-"Połóż na polu walki dwa żetony zielonego uroku stwora Centaur 3/3. Jeśli "
+"Umieść na polu walki dwa żetony zielonego uroku stwora Centaur 3/3. Jeśli "
 "jest twoja tura, wróż 2. (Spójrz na dwie wierzchnie karty twojej biblioteki, "
-"następnie połóż dowolne z nich na spodzie twojej biblioteki, a pozostałe na "
+"następnie umieść dowolne z nich na spodzie twojej biblioteki, a pozostałe na "
 "jej wierzchu w dowolnej kolejności.)"
 
 # 37f77e6d39d146718f17e05ca1547aa9
@@ -2510,7 +2510,7 @@ msgid ""
 "pay |mana_x|. If you do, put X +1/+1 counters on Hero of Leina Tower."
 msgstr ""
 "Heroizm — Ilekroć rzucasz czar wskazujący na Bohatera z Wieży z Leina, "
-"możesz zapłacić |mana_x|. Jeśli tak zrobisz, połóż X znaczników +1/+1 na "
+"możesz zapłacić |mana_x|. Jeśli tak zrobisz, umieść X znaczników +1/+1 na "
 "Bohaterze z Wieży z Leina."
 
 # f5d507f15a90480c8d8e4e8cd4b1e480
@@ -2699,9 +2699,9 @@ msgid ""
 "put that card on the bottom of your library.)"
 msgstr ""
 "Przeszukaj twoją bibliotekę w poszukiwaniu do dwóch kart zwykłych lądów, "
-"ujawnij owe karty i połóż jedną na polu walki jako zatapowaną, a drugą dołóż "
-"do twojej ręki. Przetasuj twoją bibliotekę, następnie wróż 1. (Spójrz na "
-"wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na spodzie "
+"ujawnij owe karty i umieść jedną na polu walki jako zatapowaną, a drugą "
+"dołóż do twojej ręki. Przetasuj twoją bibliotekę, następnie wróż 1. (Spójrz "
+"na wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na spodzie "
 "twojej biblioteki.)"
 
 # 3144f73ef5e742e9bf84075fc947cd96
@@ -2719,9 +2719,9 @@ msgid ""
 "mana_2| |mana_g|. If you do, create a 3/3 green Centaur enchantment creature "
 "token."
 msgstr ""
-"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić |"
-"mana_2| |mana_u|. Jeśli tak zrobisz, połóż na polu walki żeton niebieskiego "
-"uroku-stwora Ptak 2/2 z lataniem."
+"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić "
+"|mana_2| |mana_u|. Jeśli tak zrobisz, umieść na polu walki żeton "
+"niebieskiego uroku-stwora Ptak 2/2 z lataniem."
 
 # 02392bf92d254168bdf9ae0ba9f3b6e7
 # 133e7f61a897439394465ce673af7e2a
@@ -2738,7 +2738,7 @@ msgid ""
 "Inspired — Whenever Pheres-Band Tromper becomes untapped, put a +1/+1 "
 "counter on it."
 msgstr ""
-"Natchniony — Ilekroć Pheres-Band Tromper zostaje odznaczony, połóż na nim "
+"Natchniony — Ilekroć Pheres-Band Tromper zostaje odznaczony, umieść na nim "
 "znacznik +1/+1."
 
 # 7babffd992f24da389bf8072617af7fb
@@ -2755,7 +2755,7 @@ msgid ""
 "When Raised by Wolves enters the battlefield, create two 2/2 green Wolf "
 "creature tokens."
 msgstr ""
-"Kiedy Wychowany Przez Wilki wchodzi na pole walki, połóż na polu walki dwa "
+"Kiedy Wychowany Przez Wilki wchodzi na pole walki, umieść na polu walki dwa "
 "żetony dzielonego stwora Wilk 2/2."
 
 # 8357e19ddf53448fa0c8755248c6b08f
@@ -2782,7 +2782,7 @@ msgid ""
 msgstr ""
 "Kiedy Satyr Wayfinder wchodzi na pole walki, ujawnij cztery wierzchnie karty "
 "twojej biblioteki. Możesz dołożyć kartę lądu spośród nich do twojej ręki. "
-"Połóż pozostałe do twojego cmentarza."
+"Umieść pozostałe do twojego cmentarza."
 
 # 510fb778ead441039f2ada1765c42da0
 # e566259201c8494e95235f6337b68984
@@ -2803,8 +2803,8 @@ msgid ""
 "|tap|, Sacrifice another creature: Put a number of +1/+1 counters on Scourge "
 "of Skola Vale equal to the sacrificed creature's toughness."
 msgstr ""
-"|tap|, poświęć innego stwora: Połóż na Scourge of Skola Vale tyle znaczników "
-"+1/+1, ile wynosiła wytrzymałość poświęconego stwora."
+"|tap|, poświęć innego stwora: Umieść na Scourge of Skola Vale tyle "
+"znaczników +1/+1, ile wynosiła wytrzymałość poświęconego stwora."
 
 # ef27975ef72343d29bf950509d0e49e0
 #: ../../BNG.rst:742
@@ -2818,8 +2818,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Setessan Oathsworn, put two "
 "+1/+1 counters on Setessan Oathsworn."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący na Akroan Skyguard, połóż znacznik "
-"+1/+1 na Akroan Skyguard."
+"Heroizm — Ilekroć rzucasz czar wskazujący na Akroan Skyguard, umieść "
+"znacznik +1/+1 na Akroan Skyguard."
 
 # 8bad4c6003b6464b8c9a2ce98abd4bc6
 # 54a9c3cf68bc44cd92562cd584bd3e81
@@ -2987,7 +2987,7 @@ msgid ""
 "When Ephara's Enlightenment enters the battlefield, put a +1/+1 counter on "
 "enchanted creature."
 msgstr ""
-"Kiedy Oświecenie Ephary wchodzi na pole walki, połóż znacznik +1/+1 na "
+"Kiedy Oświecenie Ephary wchodzi na pole walki, umieść znacznik +1/+1 na "
 "zauroczonym stworze."
 
 # a1f4b6a939a74138b7c88686388933c0
@@ -3097,7 +3097,7 @@ msgid ""
 "blue Kraken creature token.\""
 msgstr ""
 "-5: Dostajesz emblemat o treści \\\"Na początku twojego kroku końcowego "
-"połóż na polu walki żeton niebieskiego stwora Kraken 9/9.\\\""
+"umieść na polu walki żeton niebieskiego stwora Kraken 9/9.\\\""
 
 # 0ce4c90a23024a469c912825691797d1
 # 63322bf471e3462a9b86f055d19f3627
@@ -3194,7 +3194,7 @@ msgstr "Reap What Is Sown (Zbierz, Co Zasiane)"
 # 4707e933721b48518a3381ce89a25b00
 #: ../../BNG.rst:841
 msgid "Put a +1/+1 counter on each of up to three target creatures."
-msgstr "Połóż znacznik +1/+1 na każdym z najwyżej trzech wskazanych stworów."
+msgstr "Umieść znacznik +1/+1 na każdym z najwyżej trzech wskazanych stworów."
 
 # 78dc893a276a4072a8080f22895526c1
 # e49e4f51bb304a598673d08e5d95af51
@@ -3309,7 +3309,7 @@ msgid ""
 msgstr ""
 "|mana_x|, |tap|: Spójrz na X wierzchnich kart twojej biblioteki. Możesz "
 "ujawnić kartę legendarnego stwora spośród nich i dołożyć ją do twojej ręki. "
-"Połóż pozostałe na spodzie twojej biblioteki w losowej kolejności."
+"Umieść pozostałe na spodzie twojej biblioteki w losowej kolejności."
 
 # 8c4cafbdd78440f690f150a21589a51b
 # fcca1551e0d449f7852f9e56f51488e0
