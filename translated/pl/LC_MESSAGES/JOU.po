@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-25 14:43+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/jou/pl/>\n"
 "Language: pl\n"
@@ -980,7 +980,7 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Bloodcrazed Hoplite, put a "
 "+1/+1 counter on it."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący Bloodcrazed Hoplite, połóż na nim "
+"Heroizm — Ilekroć rzucasz czar wskazujący Bloodcrazed Hoplite, umieść na nim "
 "znacznik +1/+1."
 
 # e4504afebd5e44298dbafc75ec626a3e
@@ -1464,7 +1464,7 @@ msgstr ""
 #: ../../JOU.rst:487
 #, fuzzy
 msgid "Create two 2/3 red Minotaur creature tokens with haste."
-msgstr "Połóż na polu walki dwa żetony czerwonego stwora Minotaur 2/2."
+msgstr "Umieść na polu walki dwa żetony czerwonego stwora Minotaur 2/2."
 
 # 2910415548a64119b8816f640b30d003
 #: ../../JOU.rst:492
@@ -1505,6 +1505,8 @@ msgid ""
 "|mana_5| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
+"|mana_5| |mana_r| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
+"monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # 8f7d8709ce1345099b3074d179e74f45
 #: ../../JOU.rst:506
@@ -1889,7 +1891,7 @@ msgid ""
 "|mana_2| |mana_g| |mana_g|: Put X +1/+1 counters on Heroes' Bane, where X is "
 "its power."
 msgstr ""
-"|mana_2| |mana_g| |mana_g|: Połóż na Heroe's Bane X znaczników +1/+1, gdzie "
+"|mana_2| |mana_g| |mana_g|: Umieść na Heroe's Bane X znaczników +1/+1, gdzie "
 "X to jego siła."
 
 # e56cd0f9a5d745ef995220c2d6f61b39
@@ -1919,6 +1921,8 @@ msgid ""
 "|mana_x| |mana_x| |mana_g|: Monstrosity X. (If this creature isn't "
 "monstrous, put X +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
+"|mana_x| |mana_x| |mana_g|: Monstrualność X. (Jeśli ten stwór nie jest "
+"monstrualny, umieść na nim X znaczników +1/+1 i staje się on monstrualny.)"
 
 # 60fe2053983c408e9e2009b283ab5829
 #: ../../JOU.rst:645
@@ -1927,7 +1931,7 @@ msgid ""
 "When Hydra Broodmaster becomes monstrous, create X X/X green Hydra creature "
 "tokens."
 msgstr ""
-"Kiedy Hydra Broodmaster staje się monstrualna, połóż na polu walki X "
+"Kiedy Hydra Broodmaster staje się monstrualna, umieść na polu walki X "
 "zielonych żetonów stwora Hydra X/X."
 
 # d53d779a6edf469b90785e1c8fe3ead4
@@ -1971,7 +1975,7 @@ msgstr ""
 #: ../../JOU.rst:661
 msgid ""
 "Choose any number of target creatures. Put a +1/+1 counter on each of them."
-msgstr "Wskaż dowolną liczbę stworów. Połóż znacznik +1/+1 na każdej z nich."
+msgstr "Wskaż dowolną liczbę stworów. Umieść znacznik +1/+1 na każdej z nich."
 
 # 78c63c8e5ce3485390004bcf6dfc98b8
 #: ../../JOU.rst:666
@@ -2425,7 +2429,7 @@ msgstr ""
 #: ../../JOU.rst:815
 #, fuzzy
 msgid "Create four 2/2 red and green Satyr creature tokens with haste."
-msgstr "Połóż na polu walki dwa żetony czerwonego stwora Minotaur 2/2."
+msgstr "Umieść na polu walki dwa żetony czerwonego stwora Minotaur 2/2."
 
 # 0f541200a9b947bbb909a553ad616ba0
 #: ../../JOU.rst:822
@@ -2468,7 +2472,7 @@ msgstr "Armory of Iroas (Zbrojownia Iroasa)"
 # a3a0ca139ef341c281008b0d7ee12654
 #: ../../JOU.rst:831
 msgid "Whenever equipped creature attacks, put a +1/+1 counter on it."
-msgstr "Ilekroć wyposażony stwór atakuje, połóż na nim znacznik +1/+1."
+msgstr "Ilekroć wyposażony stwór atakuje, umieść na nim znacznik +1/+1."
 
 # 1bd6bcb026a9404b838623400e9a01fb
 #: ../../JOU.rst:833
