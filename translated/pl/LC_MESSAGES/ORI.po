@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-27 13:40+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -124,7 +124,7 @@ msgstr "Blessed Spirits"
 msgid ""
 "Whenever you cast an enchantment spell, put a +1/+1 counter on Blessed "
 "Spirits."
-msgstr "Ilekroć rzucasz urok, połóż znacznik +1/+1 na tym stworze."
+msgstr "Ilekroć rzucasz urok, umieść znacznik +1/+1 na tym stworze."
 
 #: ../../ORI.rst:46
 msgid "Celestial Flare"
@@ -393,10 +393,13 @@ msgid "Enchant creature you control"
 msgstr "Zaurocz stwora, którym władasz"
 
 #: ../../ORI.rst:159
+#, fuzzy
 msgid ""
 "When enchanted creature dies, create X 1/1 white Soldier creature tokens, "
 "where X is its power."
 msgstr ""
+"Kiedy zauroczony stwór umiera, umieść na polu walki tyle żetonów białego "
+"stwora Piechur 1/1, ile wynosi siła owego stwora."
 
 #: ../../ORI.rst:166
 msgid "Patron of the Valiant"
@@ -407,8 +410,8 @@ msgid ""
 "When Patron of the Valiant enters the battlefield, put a +1/+1 counter on "
 "each creature you control with a +1/+1 counter on it."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, połóż znacznik +1/+1 na każdym stworze "
-"pod twoim władaniem posiadającym znacznik +1/+1."
+"Kiedy ta karta wejdzie na pole walki, umieść znacznik +1/+1 na każdym "
+"stworze pod twoim władaniem posiadającym znacznik +1/+1."
 
 #: ../../ORI.rst:172
 msgid "Relic Seeker"
@@ -907,7 +910,7 @@ msgid ""
 "When Screeching Skaab enters the battlefield, put the top two cards of your "
 "library into your graveyard."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, połóż dwie wierzchnie karty twojej "
+"Kiedy ta karta wejdzie na pole walki, umieść dwie wierzchnie karty twojej "
 "biblioteki do twojego cmentarza."
 
 #: ../../ORI.rst:410
@@ -1489,6 +1492,10 @@ msgid ""
 "two cards of your library, then put any number of them on the bottom of your "
 "library and the rest on top in any order.)"
 msgstr ""
+"Wróż 2, następnie dobierz dwie karty. Tracisz 2 życia. (By wróżyć 2, spójrz "
+"na dwie wierzchnie karty twojej biblioteki, następnie umieść dowolną liczbę "
+"z nich na spodzie twojej biblioteki, a pozostałe na wierzchu w dowolnej "
+"kolejności.)"
 
 #: ../../ORI.rst:652
 msgid "Reave Soul"
@@ -2968,7 +2975,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"połóż ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../ORI.rst:1348
 msgid "Foundry of the Consuls"
@@ -3132,6 +3139,8 @@ msgid ""
 "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/"
 "+1 counter on Sengir Vampire."
 msgstr ""
+"Ilekroć umiera stwór, któremu Sengir Vampire zadał obrażenia w tej turze, "
+"umieść znacznik +1/+1 na Sengir Vampire."
 
 #: ../../ORI.rst:1514
 msgid "Fiery Hellhound"
