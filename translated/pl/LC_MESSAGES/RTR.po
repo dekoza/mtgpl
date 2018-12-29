@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-29 01:16+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -152,9 +152,9 @@ msgid ""
 "Create a 1/1 white Bird creature token with flying, then populate. "
 "(Create a token that's a copy of a creature token you control.)"
 msgstr ""
-"Połóż na polu walki żeton białego stwora Ptak 1/1 z lataniem, następnie "
-"zaludnij. (Połóż na polu walki żeton, będący kopią władanego przez ciebie"
-" żetonu stwora.)"
+"Umieść na polu walki żeton białego stwora Ptak 1/1 z lataniem, następnie "
+"zaludnij. (Umieść na polu walki żeton, będący kopią władanego przez ciebie "
+"żetonu stwora.)"
 
 #: ../../RTR.rst:91
 msgid "Fencing Ace"
@@ -241,7 +241,7 @@ msgid ""
 "Whenever Precinct Captain deals combat damage to a player, create a 1/1 "
 "white Soldier creature token."
 msgstr ""
-"Ilekroć Precinct Captain zada graczowi obrażenia bitewne, połóż na polu "
+"Ilekroć Precinct Captain zada graczowi obrażenia bitewne, umieść na polu "
 "walki żeton białego stwora Piechur 1/1."
 
 #: ../../RTR.rst:148
@@ -275,10 +275,10 @@ msgid ""
 "(To populate, create a token that's a copy of a creature token you "
 "control.)"
 msgstr ""
-"Zaludnij. Stwory, którymi władasz zyskują niezniszczalność do końca tury."
-" (By zaludnić, połóż na polu walki żeton stwora będący kopią władanego "
-"przez ciebie żetonu stwora. Obrażenia i efekty mówiące \\\"zniszcz\\\" "
-"nie niszczą stworów z niezniszczalnością.)"
+"Zaludnij. Stwory, którymi władasz zyskują niezniszczalność do końca tury. ("
+"By zaludnić, umieść na polu walki żeton stwora będący kopią władanego przez "
+"ciebie żetonu stwora. Obrażenia i efekty mówiące \\\"zniszcz\\\" nie niszczą "
+"stworów z niezniszczalnością.)"
 
 #: ../../RTR.rst:166
 msgid "Security Blockade"
@@ -295,7 +295,7 @@ msgid ""
 "When Security Blockade enters the battlefield, create a 2/2 white Knight "
 "creature token with vigilance."
 msgstr ""
-"Kiedy Security Blockade wchodzi na pole walki, połóż na polu walki żeton "
+"Kiedy Security Blockade wchodzi na pole walki, umieść na polu walki żeton "
 "białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../RTR.rst:165
@@ -325,8 +325,8 @@ msgid ""
 "When Seller of Songbirds enters the battlefield, create a 1/1 white Bird "
 "creature token with flying."
 msgstr ""
-"Kiedy Seller of Songbirds wchodzi na pole walki, połóż na polu walki "
-"żeton białego stwora Ptak 1/1 z lataniem."
+"Kiedy Seller of Songbirds wchodzi na pole walki, umieść na polu walki żeton "
+"białego stwora Ptak 1/1 z lataniem."
 
 #: ../../RTR.rst:189
 msgid "Soul Tithe"
@@ -396,8 +396,8 @@ msgid ""
 "Exile target creature, then populate. (Create a token that's a copy of a "
 "creature token you control.)"
 msgstr ""
-"Wypędź wskazanego stwora, następnie zaludnij. (Połóż na polu walki żeton,"
-" będący kopią władanego przez ciebie żetonu stwora.)"
+"Wypędź wskazanego stwora, następnie zaludnij. (Umieść na polu walki żeton, "
+"będący kopią władanego przez ciebie żetonu stwora.)"
 
 #: ../../RTR.rst:231
 msgid "Aquus Steed"
@@ -623,9 +623,9 @@ msgid ""
 "those cards into two piles. Put one pile into your hand and the other on "
 "the bottom of your library in any order."
 msgstr ""
-"-2: Ujawnij trzy wierzchnie karty twojej biblioteki. Przeciwnik rozdziela"
-" je na dwa stosy. Dołóż jeden stos do twojej ręki, a pozostały połóż na "
-"spodzie twojej biblioteki w dowolnej kolejności."
+"-2: Ujawnij trzy wierzchnie karty twojej biblioteki. Przeciwnik rozdziela je "
+"na dwa stosy. Dołóż jeden stos do twojej ręki, a pozostały umieść na spodzie "
+"twojej biblioteki w dowolnej kolejności."
 
 #: ../../RTR.rst:355
 #, fuzzy
@@ -824,7 +824,7 @@ msgstr ""
 #: ../../RTR.rst:496
 msgid "When Dark Revenant dies, put it on top of its owner's library."
 msgstr ""
-"Kiedy Dark Revenant umiera, połóż go na wierzchu biblioteki jego "
+"Kiedy Dark Revenant umiera, umieść go na wierzchu biblioteki jego "
 "właściciela."
 
 #: ../../RTR.rst:504
@@ -851,7 +851,7 @@ msgid ""
 "If a player does, tap Desecration Demon and put a +1/+1 counter on it."
 msgstr ""
 "Na początku każdej walki dowolny przeciwnik może poświęcić stwora. Jeśli "
-"któryś tak zrobi, zatapuj Desecration Demon i połóż na nim znacznik +1/+1."
+"któryś tak zrobi, zatapuj Desecration Demon i umieść na nim znacznik +1/+1."
 
 #: ../../RTR.rst:520
 msgid "Destroy the Evidence"
@@ -945,7 +945,7 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, put that"
 " many +1/+1 counters on it."
 msgstr ""
-"Ilekroć stwór, którym władasz zadaje graczowi obrażenia bitewne, połóż na "
+"Ilekroć stwór, którym władasz zadaje graczowi obrażenia bitewne, umieść na "
 "nim tyle samo znaczników +1/+1."
 
 #: ../../RTR.rst:586
@@ -976,7 +976,7 @@ msgid ""
 "|mana_2| |mana_b|, Discard a card: Create a token that's a copy of Pack "
 "Rat."
 msgstr ""
-"|mana_2| |mana_b|, odrzuć kartę: Połóż na polu walki żeton będący kopią "
+"|mana_2| |mana_b|, odrzuć kartę: Umieść na polu walki żeton będący kopią "
 "Pack Rat."
 
 #: ../../RTR.rst:602
@@ -1006,7 +1006,7 @@ msgid ""
 "target creature. Scavenge only as a sorcery.)"
 msgstr ""
 "Czystka |mana_2| |mana_b| (|mana_2| |mana_b|, wypędź tę kartę z twojego "
-"cmentarza: Połóż na wskazanym stworze tyle znaczników +1/+1, ile wynosi "
+"cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+1, ile wynosi "
 "siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:618
@@ -1067,7 +1067,7 @@ msgid ""
 "target creature. Scavenge only as a sorcery.)"
 msgstr ""
 "Czystka |mana_6| |mana_b| (|mana_6| |mana_b|, wypędź tę kartę z twojego "
-"cmentarza: Połóż na wskazanym stworze tyle znaczników +1/+1, ile wynosi "
+"cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+1, ile wynosi "
 "siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:659
@@ -1105,9 +1105,9 @@ msgid ""
 "this card from your graveyard: Put a number of +1/+1 counters equal to "
 "this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_2| |mana_b| |mana_b| (|mana_2| |mana_b| |mana_b|, wypędź tę"
-" kartę z twojego cmentarza: Połóż na wskazanym stworze tyle znaczników "
-"+1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"Czystka |mana_2| |mana_b| |mana_b| (|mana_2| |mana_b| |mana_b|, wypędź tę "
+"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
+"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:691
 msgid "Annihilating Fire"
@@ -1232,7 +1232,7 @@ msgstr ""
 #: ../../RTR.rst:772
 #, fuzzy
 msgid "Create four 1/1 red Goblin creature tokens."
-msgstr "Połóż na polu walki cztery żetony czerwonego stwora Goblin 1/1."
+msgstr "Umieść na polu walki cztery żetony czerwonego stwora Goblin 1/1."
 
 #: ../../RTR.rst:780
 msgid "Gore-House Chainwalker"
@@ -1379,8 +1379,8 @@ msgstr ""
 #, fuzzy
 msgid "Destroy target land. Create a 1/1 red Goblin creature token."
 msgstr ""
-"Zniszcz wskazany ląd. Połóż na polu walki żeton czerownego stwora Goblin "
-"1/1."
+"Zniszcz wskazany ląd. Umieść na polu walki żeton czerownego stwora Goblin 1/"
+"1."
 
 #: ../../RTR.rst:878
 msgid "Tenement Crasher"
@@ -1412,8 +1412,8 @@ msgid ""
 "Whenever a Dragon you control attacks, create a 6/6 red Dragon creature "
 "token with flying."
 msgstr ""
-"Ilekroć Smok, którym władasz atakuje, połóż na polu walki żeton "
-"czerwonego stwora Smok 6/6 z lataniem."
+"Ilekroć Smok, którym władasz atakuje, umieść na polu walki żeton czerwonego "
+"stwora Smok 6/6 z lataniem."
 
 #: ../../RTR.rst:903
 msgid "Vandalblast"
@@ -1497,7 +1497,7 @@ msgid ""
 "|mana_2| |mana_g|, Sacrifice Centaur's Herald: Create a 3/3 green Centaur"
 " creature token."
 msgstr ""
-"|mana_2| |mana_g|, poświęć Centaur's Herald: Połóż na polu walki żeton "
+"|mana_2| |mana_g|, poświęć Centaur's Herald: Umieść na polu walki żeton "
 "zielonego stwora Centaur 3/3."
 
 #: ../../RTR.rst:961
@@ -1522,9 +1522,9 @@ msgid ""
 "this card from your graveyard: Put a number of +1/+1 counters equal to "
 "this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, wypędź tę"
-" kartę z twojego cmentarza: Połóż na wskazanym stworze tyle znaczników "
-"+1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"Czystka |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, wypędź tę "
+"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
+"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:975
 msgid "Death's Presence"
@@ -1535,9 +1535,8 @@ msgid ""
 "Whenever a creature you control dies, put X +1/+1 counters on target "
 "creature you control, where X is the power of the creature that died."
 msgstr ""
-"Ilekroć umiera stwór, którym władasz, połóż na wskazanym władanym przez "
-"siebie stworze tyle znaczników +1/+1, ile wynosi siła owego zmarłego "
-"stwora."
+"Ilekroć umiera stwór, którym władasz, umieść na wskazanym władanym przez "
+"siebie stworze tyle znaczników +1/+1, ile wynosi siła owego zmarłego stwora."
 
 #: ../../RTR.rst:982
 msgid "Drudge Beetle"
@@ -1550,7 +1549,7 @@ msgid ""
 "target creature. Scavenge only as a sorcery.)"
 msgstr ""
 "Czystka |mana_5| |mana_g| (|mana_5| |mana_g|, wypędź tę kartę z twojego "
-"cmentarza: Połóż na wskazanym stworze tyle znaczników +1/+1, ile wynosi "
+"cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+1, ile wynosi "
 "siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:989
@@ -1564,7 +1563,7 @@ msgid ""
 " (Create a token that's a copy of a creature token you control.)"
 msgstr ""
 "Zażegnaj wszystkie obrażenia bitewne, które mogłyby zostać ci zadane w tej "
-"turze. Zaludnij. (Połóż na polu walki żeton będący kopią żetonu stwora, "
+"turze. Zaludnij. (Umieść na polu walki żeton będący kopią żetonu stwora, "
 "którym władasz."
 
 #: ../../RTR.rst:998
@@ -1597,7 +1596,8 @@ msgstr "Gobbling Ooze (Żarłoczny Szlam)"
 msgid ""
 "|mana_g|, Sacrifice another creature: Put a +1/+1 counter on Gobbling "
 "Ooze."
-msgstr "|mana_g|, poświęć innego stwora: Połóż znacznik +1/+1 na Gobbling Ooze."
+msgstr ""
+"|mana_g|, poświęć innego stwora: Umieść znacznik +1/+1 na Gobbling Ooze."
 
 #: ../../RTR.rst:1021
 msgid "Golgari Decoy"
@@ -1613,9 +1613,9 @@ msgid ""
 "this card from your graveyard: Put a number of +1/+1 counters equal to "
 "this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_3| |mana_g| |mana_g| (|mana_3| |mana_g| |mana_g|, wypędź tę"
-" kartę z twojego cmentarza: Połóż na wskazanym stworze tyle znaczników "
-"+1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"Czystka |mana_3| |mana_g| |mana_g| (|mana_3| |mana_g| |mana_g|, wypędź tę "
+"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
+"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:1028
 msgid "Horncaller's Chant"
@@ -1627,8 +1627,8 @@ msgid ""
 "Create a 4/4 green Rhino creature token with trample, then populate. "
 "(Create a token that's a copy of a creature token you control.)"
 msgstr ""
-"Połóż na polu walki żeton zielonego stwora Nosorożec 4/4 z tratowaniem, "
-"następnie zaludnij. (Połóż na polu walki żeton, będący kopią władanego "
+"Umieść na polu walki żeton zielonego stwora Nosorożec 4/4 z tratowaniem, "
+"następnie zaludnij. (Umieść na polu walki żeton, będący kopią władanego "
 "przez ciebie żetonu stwora.)"
 
 #: ../../RTR.rst:1037
@@ -1641,9 +1641,9 @@ msgid ""
 "this card from your graveyard: Put a number of +1/+1 counters equal to "
 "this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_5| |mana_g| |mana_g| (|mana_5| |mana_g| |mana_g|, wypędź tę"
-" kartę z twojego cmentarza: Połóż na wskazanym stworze tyle znaczników "
-"+1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"Czystka |mana_5| |mana_g| |mana_g| (|mana_5| |mana_g| |mana_g|, wypędź tę "
+"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
+"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:1048
 msgid "Mana Bloom"
@@ -1719,7 +1719,7 @@ msgstr "Slime Molding (Śluzowacenie)"
 #: ../../RTR.rst:1082
 #, fuzzy
 msgid "Create an X/X green Ooze creature token."
-msgstr "Połóż na polu walki żeton zielonego stwora Szlam X/X."
+msgstr "Umieść na polu walki żeton zielonego stwora Szlam X/X."
 
 #: ../../RTR.rst:1090
 msgid "Stonefare Crocodile"
@@ -1777,7 +1777,7 @@ msgid ""
 "When Worldspine Wurm dies, create three 5/5 green Wurm creature tokens "
 "with trample."
 msgstr ""
-"Kiedy Worldspine Wurm umiera, połóż na polu walki trzy żetony zielonego "
+"Kiedy Worldspine Wurm umiera, umieść na polu walki trzy żetony zielonego "
 "stwora Żmij 5/5 z tratowaniem."
 
 #: ../../RTR.rst:1123
@@ -1827,7 +1827,7 @@ msgid ""
 "When Armada Wurm enters the battlefield, create a 5/5 green Wurm creature"
 " token with trample."
 msgstr ""
-"Kiedy Armada Wurm wchodzi na pole walki, połóż na polu walki żeton "
+"Kiedy Armada Wurm wchodzi na pole walki, umieść na polu walki żeton "
 "zielonego stwora Wurm 5/5 z tratowaniem."
 
 #: ../../RTR.rst:1158
@@ -1854,7 +1854,7 @@ msgstr "Stwory pod twoim władaniem zyskują więź życia do końca tury."
 #: ../../RTR.rst:1170
 msgid "Put target attacking or blocking creature on top of its owner's library."
 msgstr ""
-"Połóż wskazanego atakującego lub blokującego stwora na wierzchu biblioteki "
+"Umieść wskazanego atakującego lub blokującego stwora na wierzchu biblioteki "
 "jego właściciela."
 
 #: ../../RTR.rst:1178
@@ -1864,7 +1864,7 @@ msgstr "Call of the Conclave"
 
 #: ../../RTR.rst:1177
 msgid "Create a 3/3 green Centaur creature token."
-msgstr "Połóż na polu walki żeton zielonego stwora Centaur 3/3."
+msgstr "Umieść na polu walki żeton zielonego stwora Centaur 3/3."
 
 #: ../../RTR.rst:1187
 #, fuzzy
@@ -1917,8 +1917,9 @@ msgid "Common Bond"
 msgstr ""
 
 #: ../../RTR.rst:1216 ../../RTR.rst:1218
+#, fuzzy
 msgid "Put a +1/+1 counter on target creature."
-msgstr "Połóż znacznik +1/+1 na wskazanym stworze."
+msgstr "{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
 
 #: ../../RTR.rst:1226
 msgid "Corpsejack Menace"
@@ -1963,9 +1964,9 @@ msgid ""
 "Create a 3/3 green Centaur creature token, then populate. (Create a token"
 " that's a copy of a creature token you control.)"
 msgstr ""
-"Połóż na polu walki żeton zielonego stwora Centaur 3/3, następnie "
-"zaludnij. (Połóż na polu walki żeton, będący kopią władanego przez ciebie"
-" żetonu stwora.)"
+"Umieść na polu walki żeton zielonego stwora Centaur 3/3, następnie zaludnij. "
+"(Umieść na polu walki żeton, będący kopią władanego przez ciebie żetonu "
+"stwora.)"
 
 #: ../../RTR.rst:1253
 msgid "Detention Sphere"
@@ -2015,9 +2016,9 @@ msgid ""
 "this card from your graveyard: Put a number of +1/+1 counters equal to "
 "this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_3| |mana_b| |mana_g| (|mana_3| |mana_b| |mana_g|, wypędź tę"
-" kartę z twojego cmentarza: Połóż na wskazanym stworze tyle znaczników "
-"+1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"Czystka |mana_3| |mana_b| |mana_g| (|mana_3| |mana_b| |mana_g|, wypędź tę "
+"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
+"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:1283
 msgid "Epic Experiment"
@@ -2031,10 +2032,9 @@ msgid ""
 "weren't cast into your graveyard."
 msgstr ""
 "Wypędź X wierzchnich kart twojej biblioteki. Dla każdej karty sztuczki i "
-"obrzędu o łącznym koszcie many X lub mniej spośród nich, możesz rzucić "
-"ową kartę bez płacenia jej kosztu many. Następnie połóż do twojego "
-"cmentarza wszystkie karty wypędzone w ten sposób, które nie zostały "
-"rzucone."
+"obrzędu o łącznym koszcie many X lub mniej spośród nich, możesz rzucić ową "
+"kartę bez płacenia jej kosztu many. Następnie umieść do twojego cmentarza "
+"wszystkie karty wypędzone w ten sposób, które nie zostały rzucone."
 
 #: ../../RTR.rst:1290
 msgid "Essence Backlash"
@@ -2106,9 +2106,8 @@ msgid ""
 "Reveal the top five cards of your library. You may put a creature or land"
 " card from among them into your hand. Put the rest into your graveyard."
 msgstr ""
-"Ujawnij pięć wierzchnich kart twojej biblioteki. Możesz dołożyć kartę "
-"stwora lub lądu spośród nich do twojej ręki. Połóż pozostałe na swój "
-"cmentarz."
+"Ujawnij pięć wierzchnich kart twojej biblioteki. Możesz dołożyć kartę stwora "
+"lub lądu spośród nich do twojej ręki. Umieść pozostałe na swój cmentarz."
 
 #: ../../RTR.rst:1340
 msgid "Havoc Festival"
@@ -2274,7 +2273,7 @@ msgid ""
 "green Saproling creature tokens, where X is the sacrificed creature's "
 "toughness."
 msgstr ""
-"|mana_2| |mana_b| |mana_g|, poświęć nieżetonowego stwora: Połóż na polu "
+"|mana_2| |mana_b| |mana_g|, poświęć nieżetonowego stwora: Umieść na polu "
 "walki X żetonów zielonego stwora Saproling 1/1, gdzie X to wytrzymałość "
 "poświęconego stwora."
 
@@ -2284,7 +2283,7 @@ msgstr ""
 
 #: ../../RTR.rst:1442
 msgid "Discard a creature card: Put a +1/+1 counter on Lotleth Troll."
-msgstr "Odrzuć kartę stwora: Połóż znacznik +1/+1 na Lotleth Troll."
+msgstr "Odrzuć kartę stwora: Umieść znacznik +1/+1 na Lotleth Troll."
 
 #: ../../RTR.rst:1444
 msgid "|mana_b|: Regenerate Lotleth Troll."
@@ -2301,8 +2300,7 @@ msgid ""
 "graveyard."
 msgstr ""
 "Jeśli czar lub zdolność władane przez przeciwnika powodują, że odrzucasz "
-"Loxodon Smitera, połóż go na polu walki zamiast kłaść go na swój "
-"cmentarz."
+"Loxodon Smitera, umieść go na polu walki zamiast kłaść go na swój cmentarz."
 
 #: ../../RTR.rst:1463
 msgid "Lyev Skyknight"
@@ -2544,7 +2542,7 @@ msgstr "Wypędź wskazaną kartę z cmentarza."
 #, fuzzy
 msgid "Create a 2/2 white Knight creature token with vigilance."
 msgstr ""
-"Kiedy Knightly Valor wchodzi na pole walki, połóż na polu walki żeton "
+"Kiedy Knightly Valor wchodzi na pole walki, umieść na polu walki żeton "
 "białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../RTR.rst:1611
@@ -2605,9 +2603,9 @@ msgid ""
 "this card from your graveyard: Put a number of +1/+1 counters equal to "
 "this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_1| |mana_b| |mana_g| (|mana_1| |mana_b| |mana_g|, wypędź tę"
-" kartę z twojego cmentarza: Połóż na wskazanym stworze tyle znaczników "
-"+1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"Czystka |mana_1| |mana_b| |mana_g| (|mana_1| |mana_b| |mana_g|, wypędź tę "
+"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
+"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:1645
 msgid "Spawn of Rix Maadi"
@@ -2685,7 +2683,7 @@ msgid ""
 "|mana_1| |mana_g| |mana_w|, |tap|: Populate. (Create a token that's a "
 "copy of a creature token you control.)"
 msgstr ""
-"|mana_1| |mana_g| |mana_w|, |tap|: Zaludnij. (Połóż na polu walki żeton, "
+"|mana_1| |mana_g| |mana_w|, |tap|: Zaludnij. (Umieść na polu walki żeton, "
 "będący kopią władanego przez ciebie żetonu stwora.)"
 
 #: ../../RTR.rst:1713
@@ -2696,7 +2694,7 @@ msgstr ""
 #, fuzzy
 msgid "|mana_4| |mana_g| |mana_w|: Create a 3/3 green Centaur creature token."
 msgstr ""
-"|mana_4| |mana_g| |mana_w|: Połóż na polu walki żeton zielonego stwora "
+"|mana_4| |mana_g| |mana_w|: Umieść na polu walki żeton zielonego stwora "
 "Centaur 3/3."
 
 #: ../../RTR.rst:1712
@@ -2705,7 +2703,7 @@ msgid ""
 "|mana_2| |mana_g| |mana_w|: Populate. (Create a token that's a copy of a "
 "creature token you control.)"
 msgstr ""
-"|mana_2| |mana_g| |mana_w|: Zaludnij. (Połóż na polu walki żeton, będący "
+"|mana_2| |mana_g| |mana_w|: Zaludnij. (Umieść na polu walki żeton, będący "
 "kopią władanego przez ciebie żetonu stwora.)"
 
 #: ../../RTR.rst:1724
@@ -2732,7 +2730,7 @@ msgid ""
 "−7: Create three 1/1 black Assassin creature tokens with \"Whenever this "
 "creature deals combat damage to a player, that player loses the game.\""
 msgstr ""
-"-7: Połóż na polu walki trzy żeton stwora Zabójca 1/1 mającego \\\"Ilekroć "
+"-7: Umieść na polu walki trzy żeton stwora Zabójca 1/1 mającego \\\"Ilekroć "
 "ten stwór zada graczowi obrażenia bitewne, ów gracz przegrywa grę.\\\""
 
 #: ../../RTR.rst:1733
@@ -2753,8 +2751,9 @@ msgid ""
 "Whenever Wayfaring Temple deals combat damage to a player, populate. "
 "(Create a token that's a copy of a creature token you control.)"
 msgstr ""
-"Ilekroć Wayfaring Temple zadaje graczowi obrażenia bitewne, zaludnij. (Połóż "
-"na polu walki żeton, będący kopią władanego przez ciebie żetonu stwora.)"
+"Ilekroć Wayfaring Temple zadaje graczowi obrażenia bitewne, zaludnij. ("
+"Umieść na polu walki żeton, będący kopią władanego przez ciebie żetonu "
+"stwora.)"
 
 #: ../../RTR.rst:1742
 msgid "Azor's Elocutors"
@@ -2766,9 +2765,9 @@ msgid ""
 "Elocutors. Then if Azor's Elocutors has five or more filibuster counters "
 "on it, you win the game."
 msgstr ""
-"Na początku twojego utrzymania połóż znacznik przestoju na Azor's "
-"Elocutors. Następnie jeśli Azor's Elocutors ma pięć lub więcej znaczników"
-" przestoju, wygrywasz grę."
+"Na początku twojego utrzymania umieść znacznik przestoju na Azor's "
+"Elocutors. Następnie jeśli Azor's Elocutors ma pięć lub więcej znaczników "
+"przestoju, wygrywasz grę."
 
 #: ../../RTR.rst:1741
 msgid ""
@@ -2864,8 +2863,8 @@ msgid ""
 "At the beginning of your upkeep, populate. (Create a token that's a copy "
 "of a creature token you control.)"
 msgstr ""
-"Na początku twojego utrzymania, zaludnij. (Połóż na polu walki żeton "
-"będący kopią władanego przez ciebie żetonu stwora.)"
+"Na początku twojego utrzymania, zaludnij. (Umieść na polu walki żeton będący "
+"kopią władanego przez ciebie żetonu stwora.)"
 
 #: ../../RTR.rst:1806
 msgid "Judge's Familiar"
@@ -2888,8 +2887,8 @@ msgid ""
 "Exile an instant or sorcery spell you control: Put two +1/+1 counters on "
 "Nivmagus Elemental. (That spell won't resolve.)"
 msgstr ""
-"Wypędź czar sztuczki lub obrzędu, którym władasz: Połóż dwa znaczniki "
-"+1/+1 na Nivmagus Elemental. (Ów czar nie rozpatrzy się.)"
+"Wypędź czar sztuczki lub obrzędu, którym władasz: Umieść dwa znaczniki +1/+1 "
+"na Nivmagus Elemental. (Ów czar nie rozpatrzy się.)"
 
 #: ../../RTR.rst:1820
 msgid "Rakdos Cackler"
@@ -2909,9 +2908,9 @@ msgid ""
 "number of +1/+1 counters equal to this card's power on target creature. "
 "Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_0| (|mana_0|, wypędź tę kartę z twojego cmentarza: Połóż na"
-" wskazanym stworze tyle znaczników +1/+1, ile wynosi siła tej karty. "
-"Używaj jedynie jako obrzęd.)"
+"Czystka |mana_0| (|mana_0|, wypędź tę kartę z twojego cmentarza: Umieść na "
+"wskazanym stworze tyle znaczników +1/+1, ile wynosi siła tej karty. Używaj "
+"jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:1841
 msgid "Sundering Growth"
@@ -2923,7 +2922,7 @@ msgid ""
 "Destroy target artifact or enchantment, then populate. (Create a token "
 "that's a copy of a creature token you control.)"
 msgstr ""
-"Zniszcz wskazany artefakt lub urok, następnie zaludnij. (Połóż na polu "
+"Zniszcz wskazany artefakt lub urok, następnie zaludnij. (Umieść na polu "
 "walki żeton, będący kopią władanego przez ciebie żetonu stwora.)"
 
 #: ../../RTR.rst:1848
@@ -3185,7 +3184,7 @@ msgid ""
 "Elemental creature token with vigilance."
 msgstr ""
 "|mana_3| |mana_g| |mana_w|, |tap|, zatapuj dwa odznaczone stwory, którymi "
-"władasz, poświęć Grove of the Guardian: Połóż na polu walki żeton biało-"
+"władasz, poświęć Grove of the Guardian: Umieść na polu walki żeton biało-"
 "zielonego stwora Elemental 8/8 z czujnością."
 
 #: ../../RTR.rst:2005
