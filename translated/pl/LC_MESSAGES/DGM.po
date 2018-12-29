@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 01:16+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -123,8 +123,8 @@ msgid ""
 "(Create a token that's a copy of a creature token you control.)"
 msgstr ""
 "Kiedy Scion of Vitu-Ghazi wchodzi na pole walki, jeśli był rzucony z ręki, "
-"połóż na polu walki żeton białego stwora Bird 1/1 z lataniem, a następnie "
-"zaludnij. (Połóż na polu walki żeton będący kopią władanego przez ciebie "
+"umieść na polu walki żeton białego stwora Bird 1/1 z lataniem, a następnie "
+"zaludnij. (Umieść na polu walki żeton będący kopią władanego przez ciebie "
 "żetonu stwora.)"
 
 # 7cbac1aa0eb2461abc155044a069f26d
@@ -150,7 +150,7 @@ msgid ""
 "Gates, create a 2/2 white Knight creature token with vigilance."
 msgstr ""
 "Kiedy Sunspire Gatekeepers wchodzi na pole walki, jeśli władasz przynajmniej "
-"dwiema Bramami, połóż na polu walki żeton białego stwora Knight 2/2 z "
+"dwiema Bramami, umieść na polu walki żeton białego stwora Knight 2/2 z "
 "czujnością."
 
 # 141ca5f2e31840979a267a3fed1442f8
@@ -164,7 +164,7 @@ msgstr ""
 msgid ""
 "Populate. (Create a token that's a copy of a creature token you control.)"
 msgstr ""
-"Zaludnij. (Połóż na polu walki żeton, będący kopią władanego przez ciebie "
+"Zaludnij. (Umieść na polu walki żeton, będący kopią władanego przez ciebie "
 "żetonu stwora.)"
 
 # f7319fec424944cb913ebc7f217992ff
@@ -332,7 +332,7 @@ msgid ""
 msgstr ""
 "Spójrz na cztery wierzchnie karty twojej biblioteki. Możesz ujawnić najwyżej "
 "dwie karty sztuczki lub obrzędu spośród nich i dołożyć ujawnione karty do "
-"swojej ręki. Połóż pozostałe na spodzie twojej biblioteki w dowolnej "
+"swojej ręki. Umieść pozostałe na spodzie twojej biblioteki w dowolnej "
 "kolejności."
 
 # dd50025145734f5e844e537dcc5fc8b2
@@ -683,8 +683,8 @@ msgid ""
 "counter on this creature.)"
 msgstr ""
 "Rozwój (Ilekroć jakiś stwór wchodzi na pole walki pod twoim władaniem, jeśli "
-"jego siła lub wytrzymałość jest większa niż tego stwora, połóż znacznik +1/"
-"+1 na tym stworze.)"
+"jego siła lub wytrzymałość jest większa niż tego stwora, umieść znacznik +1/+"
+"1 na tym stworze.)"
 
 # 82f951f6e5a24adc85f656a52aafba6d
 #: ../../DGM.rst:212
@@ -753,7 +753,7 @@ msgid ""
 "Whenever Renegade Krasis evolves, put a +1/+1 counter on each other creature "
 "you control with a +1/+1 counter on it."
 msgstr ""
-"Ilekroć Renegade Krasis rozwija się, połóż znacznik +1/+1 na każdym innym "
+"Ilekroć Renegade Krasis rozwija się, umieść znacznik +1/+1 na każdym innym "
 "stworze, którym władasz posiadającym znacznik +1/+1."
 
 # bdcc16879a6643609464ee01e2a00e7a
@@ -809,8 +809,8 @@ msgid ""
 "card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 "Czystka |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, wypędź tę "
-"kartę z twojego cmentarza: Połóż na wskazanym stworze tyle znaczników +1/+1, "
-"ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
+"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 # e4a31187a10046f18c298a4652efda1a
 #: ../../DGM.rst:258
@@ -821,7 +821,7 @@ msgstr "Advent of the Wurm (Nadejście Żmija)"
 #: ../../DGM.rst:257
 #, fuzzy
 msgid "Create a 5/5 green Wurm creature token with trample."
-msgstr "Połóż na polu walki żeton zielonego stwora Żmij 5/5 z tratowaniem."
+msgstr "Umieść na polu walki żeton zielonego stwora Żmij 5/5 z tratowaniem."
 
 # 8562f5a4f446494e8b1b69cee9d8508b
 #: ../../DGM.rst:260
@@ -887,8 +887,8 @@ msgid ""
 "Whenever an instant or sorcery spell you control deals damage, create two "
 "1/1 red and white Soldier creature tokens with haste."
 msgstr ""
-"Ilekroć czar sztuczki lub obrzędu, którymi władasz, zada obrażenia, połóż na "
-"polu walki dwa żetony czerwono-białego stwora Soldier 1/1 z pośpiechem."
+"Ilekroć czar sztuczki lub obrzędu, którymi władasz, zada obrażenia, umieść "
+"na polu walki dwa żetony czerwono-białego stwora Soldier 1/1 z pośpiechem."
 
 # 1ccf726bc2f1432eab1eedf3c38c8f70
 #: ../../DGM.rst:286
@@ -1006,7 +1006,7 @@ msgid ""
 "When Deadbridge Chant enters the battlefield, put the top ten cards of your "
 "library into your graveyard."
 msgstr ""
-"Kiedy Deadbridge Chant wchodzi na pole walki, połóż dziesięć wierzchnich "
+"Kiedy Deadbridge Chant wchodzi na pole walki, umieść dziesięć wierzchnich "
 "kart z twojej biblioteki do twojego cmentarza."
 
 # 7f229971227c4f26a6587d829e1101c8
@@ -1017,7 +1017,7 @@ msgid ""
 "your hand."
 msgstr ""
 "Na początku twojego utrzymania wybierz losowo kartę z twojego cmentarza. "
-"Jeśli jest to karta stwora, połóż go na polu walki. W przeciwnym razie weź "
+"Jeśli jest to karta stwora, umieść go na polu walki. W przeciwnym razie weź "
 "ową kartę do ręki."
 
 # 8d0390104a784404a89cfc5a145cf81a
@@ -1090,7 +1090,7 @@ msgid ""
 "graveyard, then that creature gets -1/-1 until end of turn for each land "
 "card in your graveyard."
 msgstr ""
-"Wskaż stwora. Połóż 4 wierzchnie karty twojej biblioteki do twojego "
+"Wskaż stwora. Umieść 4 wierzchnie karty twojej biblioteki do twojego "
 "cmentarza i ów stwór otrzymuje -1/-1 do końca tury za każdą kartę lądu w "
 "twoim cmentarzu."
 
@@ -1167,7 +1167,7 @@ msgstr ""
 # dc72cbefc32b4544b5aa7337f625d920
 #: ../../DGM.rst:367
 msgid "Whenever a creature you control attacks, put a +1/+1 counter on it."
-msgstr "Ilekroć stwór, którym władasz, atakuje, połóż na nim znacznik +1/+1."
+msgstr "Ilekroć stwór, którym władasz, atakuje, umieść na nim znacznik +1/+1."
 
 # ff98f15a2f4d4ed291024444aca243ec
 #: ../../DGM.rst:374
@@ -1260,8 +1260,8 @@ msgid ""
 "|mana_1| |mana_g| |mana_u|, Return Krasis Incubation to its owner's hand: "
 "Put two +1/+1 counters on enchanted creature."
 msgstr ""
-"|mana_1| |mana_g| |mana_u|, zwróć Krasis Incubation do ręki jego "
-"właściciela: Połóż dwa znaczniki +1/+1 na zauroczonym stworze."
+"|mana_1| |mana_g| |mana_u|, zwróć Krasis Incubation do ręki jego właściciela:"
+" Umieść dwa znaczniki +1/+1 na zauroczonym stworze."
 
 # 5b23301aa18c420696f62fdd9a029762
 #: ../../DGM.rst:408
@@ -1497,7 +1497,7 @@ msgid ""
 msgstr ""
 "Możesz wybrać, aby Progenitor Mimic wszedł na pole walki jako kopia dowolnej "
 "kreatury znajdującej sie na polu walki, z tym że zyskuje dodatkowo \"Na "
-"początku twojego utrzymania, jeśli ten stwór nie jest żetonem, połóż żeton, "
+"początku twojego utrzymania, jeśli ten stwór nie jest żetonem, umieść żeton, "
 "który jest kopią tej kreatury, na pole walki."
 
 # ddc194a8ce10447783d299ae1e894f9b
@@ -1597,7 +1597,7 @@ msgid ""
 "graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. "
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
-"|mana_2| |mana_b| |mana_g|, połóż cztery wierzchnie karty z twojej "
+"|mana_2| |mana_b| |mana_g|, umieść cztery wierzchnie karty z twojej "
 "biblioteki do twojego cmentarza: Zwróć Rot Farm Skeleton z twojego cmentarza "
 "na pole walki. Aktywuj tę zdolność tylko w chwili, gdy możesz rzucić obrzęd."
 
@@ -1648,7 +1648,7 @@ msgid ""
 "|mana_1| |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this "
 "ability only any time you could cast a sorcery."
 msgstr ""
-"|mana_1| |mana_rg|: Połóż znacznik +1/+1 na Savageborn Hydrze. Aktywuj tę "
+"|mana_1| |mana_rg|: Umieść znacznik +1/+1 na Savageborn Hydrze. Aktywuj tę "
 "zdolność tylko wtedy, kiedy mógłbyś rzucić obrzęd."
 
 # 605c5430fe2f44acb0f0eea0161814ae
@@ -1760,7 +1760,7 @@ msgid ""
 "Create a 1/1 white and black Spirit creature token with flying."
 msgstr ""
 "Ilekroć jakiś stwór zada tobie obrażenia bitewne, zniszcz owego stwora. "
-"Połóż na polu walki żeton czarno-białego stwora Spirit 1/1 z lataniem."
+"Umieść na polu walki żeton czarno-białego stwora Spirit 1/1 z lataniem."
 
 # 1e1e1dd0e3d04ae4baf1a7da26d47a9d
 #: ../../DGM.rst:562
@@ -1789,7 +1789,7 @@ msgid ""
 "creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 "
 "green Rhino creature token with trample."
 msgstr ""
-"Kiedy Trostani's Summoner wchodzi na pole walki połóż na polu walki żeton "
+"Kiedy Trostani's Summoner wchodzi na pole walki umieść na polu walki żeton "
 "białego stwora Knight 2/2 z czujnością, żeton zielonego stwora Centaur 3/3 "
 "oraz żeton zielonego stwora Rhino 4/4 z tratowaniem."
 
@@ -1824,8 +1824,8 @@ msgid ""
 msgstr ""
 "Każda karta stwora w twoim cmentarzy ma czystkę. Koszt czystki jest równy "
 "kosztowi many tej karty. (Wypędź kartę stwora z twojego cmentarza i opłać "
-"jej koszt many: Połóż na wskazanym stworze tyle znaczników +1/+1, ile wynosi "
-"siła wypędzonej karty. Używaj jedynie jako obrzęd.)"
+"jej koszt many: Umieść na wskazanym stworze tyle znaczników +1/+1, ile "
+"wynosi siła wypędzonej karty. Używaj jedynie jako obrzęd.)"
 
 # 91404f6bc0374b80b4f2436bc5b6cf13
 #: ../../DGM.rst:577
@@ -1859,7 +1859,7 @@ msgid ""
 "creatures you control.\""
 msgstr ""
 "Ilekroć przeciwnik rzuca czar w twojej turze lub kiedy Voice of Resurgence "
-"umiera, połóż na polu walki zielono-białego stwora Elemental posiadającego "
+"umiera, umieść na polu walki zielono-białego stwora Elemental posiadającego "
 "\"Siła i wytrzymałość tego stwora są równe liczbie stworów pod twoim w "
 "władaniem każde.\""
 
@@ -1876,7 +1876,7 @@ msgid ""
 "target artifact, creature, or land."
 msgstr ""
 "|mana_g| |mana_u|, |tap|: Dla każdego znacznika na wskazanym artefakcie, "
-"stworze lub lądzie, połóż na owym permanencie kolejny taki sam znacznik."
+"stworze lub lądzie, umieść na owym permanencie kolejny taki sam znacznik."
 
 # cbc726d54de74058b5fff7e8f0a8f628
 #: ../../DGM.rst:596
@@ -1962,7 +1962,7 @@ msgstr ""
 # 1fa25864d4d9496dbbb13a5511861f24
 #: ../../DGM.rst:619
 msgid "Create a 3/3 green Centaur creature token."
-msgstr "Połóż na polu walki żeton zielonego stwora Centaur 3/3."
+msgstr "Umieść na polu walki żeton zielonego stwora Centaur 3/3."
 
 # e29de53c6c574478b07cbaf34af7743a
 # 5402dbced51c41b79de34bc5057fbad6
@@ -2052,7 +2052,7 @@ msgstr ""
 #: ../../DGM.rst:649
 #, fuzzy
 msgid "Create four 1/1 white Bird creature tokens with flying."
-msgstr "Połóż na polu walki cztery żetony białych stworów Bird 1/1 z Lataniem."
+msgstr "Umieść na polu walki cztery żetony białych stworów Bird 1/1 z Lataniem."
 
 #: ../../DGM.rst:658
 msgid "Breaking"
@@ -2077,7 +2077,7 @@ msgid ""
 "Put a creature card from a graveyard onto the battlefield under your "
 "control. It gains haste until end of turn."
 msgstr ""
-"Połóż kartę stwora z cmentarza na polu walki pod twoim władaniem. Otrzymuje "
+"Umieść kartę stwora z cmentarza na polu walki pod twoim władaniem. Otrzymuje "
 "on pośpiech do końca tury."
 
 #: ../../DGM.rst:670
@@ -2150,7 +2150,7 @@ msgid ""
 "Exile target creature card from a graveyard. Put X +1/+1 counters on target "
 "creature, where X is the power of the card you exiled."
 msgstr ""
-"Wypędź wskazaną kartę stwora z cmentarza. Połóż X znaczników +1/+1 na "
+"Wypędź wskazaną kartę stwora z cmentarza. Umieść X znaczników +1/+1 na "
 "wskazanym stworze, gdzie X to siła karty, którą wypędzono."
 
 #: ../../DGM.rst:712
@@ -2173,7 +2173,7 @@ msgstr ""
 # 220b1d0c11c949bca096920a7ec9c3ea
 #: ../../DGM.rst:715
 msgid "Put three +1/+1 counters on target creature."
-msgstr "Połóż trzy znaczniki +1/+1 na wskazanym stworze."
+msgstr "Umieść trzy znaczniki +1/+1 na wskazanym stworze."
 
 #: ../../DGM.rst:724
 msgid "Take"
@@ -2554,7 +2554,7 @@ msgid ""
 "you control ten or more Gates with different names, you win the game."
 msgstr ""
 "|mana_3|, |tap|, Zwróć Maze's End do ręki jego właściciela: Przeszukaj twoją "
-"bibliotekę w poszukiwaniu karty Bramy, połóż ją na polu walki, następnie "
+"bibliotekę w poszukiwaniu karty Bramy, umieść ją na polu walki, następnie "
 "przetasuj twoją bibliotekę. Jeśli masz we władaniu dziesięć lub więcej Bram "
 "z różnymi nazwami, wygrywasz grę."
 
