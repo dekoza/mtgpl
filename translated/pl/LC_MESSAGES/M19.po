@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 01:16+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -54,7 +54,7 @@ msgstr "Ajani, Adversary of Tyrants (Ajani, adwersarz tyranów)"
 #: ../../M19.rst:17
 msgid "+1: Put a +1/+1 counter on each of up to two target creatures."
 msgstr ""
-"+1: Połóż znacznik +1/+1 na każdym z co najwyżej dwóch wskazanych stworów."
+"+1: Umieść znacznik +1/+1 na każdym z co najwyżej dwóch wskazanych stworów."
 
 #: ../../M19.rst:19
 msgid ""
@@ -392,7 +392,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz spośród nich ujawnić kartę stwora o sile 2 lub "
-"mniejszej i dołożyć ją do twojej reki. Połóż pozostałe na spodzie twojej "
+"mniejszej i dołożyć ją do twojej reki. Umieść pozostałe na spodzie twojej "
 "biblioteki w losowej kolejności."
 
 #: ../../M19.rst:156
@@ -721,7 +721,7 @@ msgid ""
 "library and the rest on top in any order.)"
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
-"karty twojej biblioteki, następnie połóż dowolne z nich na spodzie twojej "
+"karty twojej biblioteki, następnie umieść dowolne z nich na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../M19.rst:318
@@ -775,7 +775,7 @@ msgid ""
 "and the rest on top in any order.)"
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, wróż 2. (Spójrz na dwie wierzchnie "
-"karty twojej biblioteki, następnie połóż dowolne z nich na spodzie twojej "
+"karty twojej biblioteki, następnie umieść dowolne z nich na spodzie twojej "
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../M19.rst:338
@@ -957,6 +957,7 @@ msgstr ""
 #: ../../M19.rst:413
 msgid "Put target nonland permanent on top of its owner's library."
 msgstr ""
+"Umieść wskazany nielądowy permanent na wierzchu biblioteki jego właściciela."
 
 #: ../../M19.rst:420
 msgid "Uncomfortable Chill"
@@ -1273,7 +1274,7 @@ msgid ""
 "As Phylactery Lich enters the battlefield, put a phylactery counter on an "
 "artifact you control."
 msgstr ""
-"Kładąc tę kartę na polu walki połóż znacznik filakterium na artefakcie pod "
+"Kładąc tę kartę na polu walki umieść znacznik filakterium na artefakcie pod "
 "twoim władaniem."
 
 #: ../../M19.rst:569
@@ -1367,8 +1368,8 @@ msgid ""
 "When Stitcher's Supplier enters the battlefield or dies, put the top three "
 "cards of your library into your graveyard."
 msgstr ""
-"Kiedy ten stwór wejdzie na pole walki lub umrze, połóż trzy wierzchnie karty "
-"twojej biblioteki do twojego cmentarza."
+"Kiedy ten stwór wejdzie na pole walki lub umrze, umieść trzy wierzchnie "
+"karty twojej biblioteki do twojego cmentarza."
 
 #: ../../M19.rst:612
 msgid "Strangling Spores"
@@ -1544,10 +1545,13 @@ msgid "Dragon Egg"
 msgstr ""
 
 #: ../../M19.rst:691
+#, fuzzy
 msgid ""
 "When Dragon Egg dies, create a 2/2 red Dragon creature token with flying and "
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
+"Kiedy Smocze Jajo umiera, umieść na polu walki żeton czerwonego stwora Smok "
+"2/2 z Lataniem oraz \"|mana_r|: Ten stwór dostaje +1/+0 do końca tury.\""
 
 #: ../../M19.rst:696
 msgid "Electrify"
@@ -1972,7 +1976,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, spójrz na pięć wierzchnich kart twojej "
 "biblioteki. Możesz położyć spośród nich kartę lądu na polu bitwy, "
-"zatapowaną. Połóż pozostałe na spodzie twojej biblioteki w losowej "
+"zatapowaną. Umieść pozostałe na spodzie twojej biblioteki w losowej "
 "kolejności."
 
 #: ../../M19.rst:900
@@ -2563,8 +2567,8 @@ msgid ""
 "Whenever a Dragon enters the battlefield under your control, put a gold "
 "counter on Dragon's Hoard."
 msgstr ""
-"Ilekroć Smok wejdzie na pole walki pod twoim władaniem, połóż znacznik złota "
-"na tej karcie."
+"Ilekroć Smok wejdzie na pole walki pod twoim władaniem, umieść znacznik "
+"złota na tej karcie."
 
 #: ../../M19.rst:1185
 msgid "|tap|, Remove a gold counter from Dragon's Hoard: Draw a card."
@@ -3034,7 +3038,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, spójrz na cztery wierzchnie karty "
 "twojej biblioteki. Możesz spośród nich ujawnić niebieską lub artefaktyczną "
-"kartę i dołożyć ją do twojej ręki. Połóż pozostałe na spodzie twojej "
+"kartę i dołożyć ją do twojej ręki. Umieść pozostałe na spodzie twojej "
 "biblioteki w losowej kolejności."
 
 #: ../../M19.rst:1485
@@ -3216,7 +3220,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, spójrz na pięć wierzchnich kart twojej "
 "biblioteki. Możesz spośród nich ujawnić zieloną kartę i dołożyć ją do twojej "
-"reki. Połóż pozostałe na spodzie twojej biblioteki w losowej kolejności."
+"reki. Umieść pozostałe na spodzie twojej biblioteki w losowej kolejności."
 
 #: ../../M19.rst:1570
 msgid "Ursine Champion"
