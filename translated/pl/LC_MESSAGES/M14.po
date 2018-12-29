@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 01:16+0000\n"
+"PO-Revision-Date: 2018-12-29 02:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -33,7 +33,7 @@ msgstr "Ajani, Caller of the Pride (Ajani Dumochwalny)"
 # ee71cf9cfd0349d786c2a102a8c3ee03
 #: ../../M14.rst:9
 msgid "+1: Put a +1/+1 counter on up to one target creature."
-msgstr "+1: Połóż znacznik +1/+1 na najwyżej jednym wskazanym stworze."
+msgstr "+1: Umieść znacznik +1/+1 na najwyżej jednym wskazanym stworze."
 
 # fd340f810d224618a211a0239abb1e44
 # 5c2bd7eb7bf840f38d6cee0f04f139aa
@@ -64,7 +64,7 @@ msgid ""
 "2/2 white Cat creature token. If that enchantment is an Aura, you may attach "
 "it to the token."
 msgstr ""
-"Ilekroć na pole walki pod twoim władaniem wejdzie urok, połóż na polu walki "
+"Ilekroć na pole walki pod twoim władaniem wejdzie urok, umieść na polu walki "
 "żeton białego stwora Kot 2/2. Jeśli ten urok jest aurą, możesz dołączyć go "
 "do tego żetonu."
 
@@ -83,7 +83,7 @@ msgid ""
 "create a 4/4 white Angel creature token with flying."
 msgstr ""
 "Na początku każdego kroku końcowego, jeśli zyskałeś 4 lub więcej życia w tej "
-"turze, połóż na polu walki żeton białego stwora Angel 4/4 z Lataniem."
+"turze, umieść na polu walki żeton białego stwora Angel 4/4 z Lataniem."
 
 # 2ac8f70c687345bb94f7765321291675
 # d0ec5550df8146a08fea58230787e1db
@@ -191,7 +191,7 @@ msgstr ""
 msgid ""
 "Whenever you gain life, put a +1/+1 counter on each creature you control."
 msgstr ""
-"Ilekroć dostajesz życie, połóż znacznik +1/+1 na każdym stworze, którym "
+"Ilekroć dostajesz życie, umieść znacznik +1/+1 na każdym stworze, którym "
 "władasz."
 
 # c60ee3c9f563493faaa3ac5346de42aa
@@ -408,7 +408,7 @@ msgid ""
 "Tap any number of untapped creatures you control. Create a 4/4 white Angel "
 "creature token with flying for each creature tapped this way."
 msgstr ""
-"Zaznacz dowolną liczbę odznaczonych stworów, którymi władasz. Połóż na polu "
+"Zaznacz dowolną liczbę odznaczonych stworów, którymi władasz. Umieść na polu "
 "walki tyle żetonów białego stwora Angel 4/4 z lataniem, ile stworów "
 "zatapowano w ten sposób."
 
@@ -482,7 +482,7 @@ msgstr ""
 #: ../../M14.rst:121
 #, fuzzy
 msgid "Create two 1/1 colorless Sliver creature tokens."
-msgstr "Połóż na polu walki dwa żetony bezkolorowego stwora Drzazgul 1/1."
+msgstr "Umieść na polu walki dwa żetony bezkolorowego stwora Drzazgul 1/1."
 
 # f12f85ac973e476081215df5641910c7
 #: ../../M14.rst:126
@@ -985,7 +985,7 @@ msgid ""
 "Look at the top three cards of your library. Put one of them into your hand "
 "and the rest into your graveyard."
 msgstr ""
-"Obejrzyj trzy wierzchnie karty twojej biblioteki. Połóż jedną z nich do "
+"Obejrzyj trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich do "
 "twojej ręki, a pozostałe do twojego cmentarza."
 
 # 18c3f7a015ef4ade9c57f51695d680b4
@@ -1227,7 +1227,7 @@ msgstr ""
 # 73ef66e6299c450888d5c2f8a0342ad7
 #: ../../M14.rst:377
 msgid "Put target creature on top of its owner's library."
-msgstr "Połóż wskazanego stwora na wierzchu biblioteki jego właściciela."
+msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
 
 # 6953cbc4a817432cb121c5ae0f5638bd
 #: ../../M14.rst:382
@@ -1441,7 +1441,7 @@ msgid ""
 "library."
 msgstr ""
 "|mana_2|, |tap|: Wyszukaj w twojej bibliotece kartę Festering Newt lub "
-"Bubbling Cauldron, połóż ją na polu walki zatapowaną, następnie przetasuj "
+"Bubbling Cauldron, umieść ją na polu walki zatapowaną, następnie przetasuj "
 "twoją bibliotekę."
 
 # 6789dd42ff7e4b0fb7adfe22d376184b
@@ -1627,7 +1627,7 @@ msgid ""
 "battlefield this turn. Put that card onto the battlefield under your control."
 msgstr ""
 "Wskaż kartę stwora w cmentarzu, która dostałą się tam z pola walki w tej "
-"turze. Połóż tę kartę na polu walki pod twoją władzą."
+"turze. Umieść tę kartę na polu walki pod twoją władzą."
 
 # c4dc6b2d0e554938970a36242bf6d123
 #: ../../M14.rst:508
@@ -1791,7 +1791,7 @@ msgid ""
 "Put all creature cards from all graveyards onto the battlefield under your "
 "control."
 msgstr ""
-"Połóż na polu walki pod swoim władaniem wszystkie karty stworów ze "
+"Umieść na polu walki pod swoim władaniem wszystkie karty stworów ze "
 "wszystkich cmentarzy."
 
 # cd58f41bbe63465dbe08d0223952f623
@@ -1818,7 +1818,7 @@ msgid ""
 "+1 counter on Sengir Vampire."
 msgstr ""
 "Ilekroć umiera stwór, któremu Sengir Vampire zadał obrażenia w tej turze, "
-"połóż znacznik +1/+1 na Sengir Vampire."
+"umieść znacznik +1/+1 na Sengir Vampire."
 
 # eb0a599128b7475994f234fb486352d0
 #: ../../M14.rst:578
@@ -1840,7 +1840,7 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "|mana_b|, poświęć sześć stworów o nazwie Shadowborn Apostle: Poszukaj w "
-"swojej bibliotece karty stwora Demon i połóż ją na polu walki. Następnie "
+"swojej bibliotece karty stwora Demon i umieść ją na polu walki. Następnie "
 "przetasuj bibliotekę."
 
 # e33ac7e779f5402788910672143033ec
@@ -1946,8 +1946,8 @@ msgid ""
 "Exile target creature card from a graveyard. Create a 2/2 black Zombie "
 "creature token."
 msgstr ""
-"Wypędź wskazaną kartę stwora z cmentarza. Połóż na polu walki żeton czarnego "
-"stwora Zombie 2/2."
+"Wypędź wskazaną kartę stwora z cmentarza. Umieść na polu walki żeton "
+"czarnego stwora Zombie 2/2."
 
 # 47977d71117b400f86592133a151d74b
 #: ../../M14.rst:614
@@ -2213,7 +2213,7 @@ msgid ""
 "When Dragon Egg dies, create a 2/2 red Dragon creature token with flying and "
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
-"Kiedy Smocze Jajo umiera, połóż na polu walki żeton czerwonego stwora Smok "
+"Kiedy Smocze Jajo umiera, umieść na polu walki żeton czerwonego stwora Smok "
 "2/2 z Lataniem oraz \"|mana_r|: Ten stwór dostaje +1/+0 do końca tury.\""
 
 # a76330a146c94f0ba1c8be9f6ac6fa44
@@ -2357,7 +2357,7 @@ msgid ""
 "Create two 1/1 red Elemental creature tokens. Then flip a coin. If you win "
 "the flip, return Molten Birth to its owner's hand."
 msgstr ""
-"Połóż na polu walki dwa żetony czerwonego stwora Elemental 1/1. Następnie "
+"Umieść na polu walki dwa żetony czerwonego stwora Elemental 1/1. Następnie "
 "rzuć monetą. Jeśli wygrasz rzut, zwróć Molten Birth do ręki jego właściciela."
 
 # da1a6538bc084763bc4f3fb6d6e72d57
@@ -2579,7 +2579,7 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental "
 "creature token."
 msgstr ""
-"Ilekroć rzucasz czar sztuczki lub obrzędu, połóż na polu walki żeton "
+"Ilekroć rzucasz czar sztuczki lub obrzędu, umieść na polu walki żeton "
 "czerwonego stwora Elemental 1/1."
 
 # 3a31db08ab4b498cb14397e2f497bbde
@@ -2595,7 +2595,7 @@ msgid ""
 "At the beginning of your end step, put a +1/+1 counter on target Beast "
 "creature you control."
 msgstr ""
-"Na początku twojego kroku końcowego połóż znacznik +1/+1 na wskazanej "
+"Na początku twojego kroku końcowego umieść znacznik +1/+1 na wskazanej "
 "władanej przez ciebie Bestii."
 
 # 80a132f9b1db4c5aa21d32f0b4e7182e
@@ -2713,7 +2713,7 @@ msgid ""
 "in any order."
 msgstr ""
 "+1: Ujawnij pięć wierzchnich kart swojej biblioteki. Weź wszystkie stwory "
-"pokazane w ten sposób do ręki, a pozostałe karty połóż na spód swojej "
+"pokazane w ten sposób do ręki, a pozostałe karty umieść na spód swojej "
 "biblioteki w dowolnej kolejności."
 
 # 06b331e6eb6b4dd5a620ea7135c8e47c
@@ -2831,7 +2831,7 @@ msgstr ""
 #, fuzzy
 msgid "Create a 2/2 green Wolf creature token for each Forest you control."
 msgstr ""
-"Połóż na polu walki tyle żetonów zielonego stwora Wolf 2/2, iloma Lasami "
+"Umieść na polu walki tyle żetonów zielonego stwora Wolf 2/2, iloma Lasami "
 "władasz."
 
 # 41235e176b2a4031ad19e439c860d21f
@@ -2848,7 +2848,7 @@ msgid ""
 "fights target creature you don't control. (Each deals damage equal to its "
 "power to the other.)"
 msgstr ""
-"Połóż znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
+"Umieść znacznik +1/+1 na wskazanym stworze pod twoim władaniem. Następnie ów "
 "stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
 "nawzajem obrażenia równe ich sile.)"
 
@@ -2998,7 +2998,7 @@ msgstr ""
 msgid ""
 "Whenever you cast a creature spell, create a 3/3 green Beast creature token."
 msgstr ""
-"Ilekroć rzucasz czar stwora, połóż na polu walki żeton zielonego stwora "
+"Ilekroć rzucasz czar stwora, umieść na polu walki żeton zielonego stwora "
 "Beast 3/3."
 
 # a38c1eaa96ea4c09b08d051fcb8060db
@@ -3008,7 +3008,7 @@ msgid ""
 "Whenever you cast a noncreature spell, put three +1/+1 counters on target "
 "creature you control."
 msgstr ""
-"Ilekroć rzucasz czar nie będący stworem, połóż trzy znaczniki +1/+1 na "
+"Ilekroć rzucasz czar nie będący stworem, umieść trzy znaczniki +1/+1 na "
 "wskazanym stworze, którym władasz."
 
 # 147bb9f1e8794277b52b8cdd3856bd50
@@ -3091,7 +3091,7 @@ msgid ""
 "a +1/+1 counter on Scavenging Ooze and you gain 1 life."
 msgstr ""
 "|mana_g|: Wypędź wskazaną kartę z cmentarza. Jeśli była to karta stwora, "
-"połóż znacznik +1/+1 na Scavenging Ooze i zyskaj 1 życie."
+"umieść znacznik +1/+1 na Scavenging Ooze i zyskaj 1 życie."
 
 # c661c4da31694ee18d9f669ce23899ff
 #: ../../M14.rst:966
@@ -3106,7 +3106,7 @@ msgid ""
 "Whenever a land enters the battlefield under your control, create a 1/1 "
 "green Saproling creature token."
 msgstr ""
-"Ilekroć na pole walki pod twoim władaniem wchodzi ląd, połóż na polu walki "
+"Ilekroć na pole walki pod twoim władaniem wchodzi ląd, umieść na polu walki "
 "żeton zielonego stwora Saproling 1/1."
 
 # 54d827d301d045f78e9a547bae1c5fbf
@@ -3214,7 +3214,7 @@ msgid ""
 "Whenever an opponent casts a blue or black spell during your turn, put a +1/"
 "+1 counter on Witchstalker."
 msgstr ""
-"Ilekroć przeciwnik rzuca niebieski lub czarny czar w twojej turze, połóż "
+"Ilekroć przeciwnik rzuca niebieski lub czarny czar w twojej turze, umieść "
 "znacznik +1/+1 na Witchstalkerze."
 
 # 18e44e8f584b4010b99037f3d9c2e051
@@ -3336,7 +3336,7 @@ msgid ""
 "Whenever you cast a spell of the chosen type, put a charge counter on Door "
 "of Destinies."
 msgstr ""
-"Ilekroć rzucasz czar wybranego typu, połóż znacznik ładowania na Drzwiach "
+"Ilekroć rzucasz czar wybranego typu, umieść znacznik ładowania na Drzwiach "
 "Przeznaczeń."
 
 # c7ff84df7cbf4d26b0af80362cc942e6
@@ -3484,7 +3484,7 @@ msgstr ""
 # 08a4c4ca8f234209835028eeac8e3a9a
 #: ../../M14.rst:1069
 msgid "|tap|: Put a charge counter on Ratchet Bomb."
-msgstr "|tap|: Połóż znacznik ładowania na Ratchet Bomb."
+msgstr "|tap|: Umieść znacznik ładowania na Ratchet Bomb."
 
 # 56b679d9d48e443281808c42b4d18e6b
 # 0f7d5463f87a4f6bb0b9f2aa0a916db9
@@ -3648,7 +3648,7 @@ msgstr "|mana_1|, |tap|, odrzuć kartę: Zyskujesz 4 życia."
 #, fuzzy
 msgid "|mana_1|, |tap|, Pay 1 life: Create a 0/1 white Goat creature token."
 msgstr ""
-"|mana_1|, |tap|, zapłać 1 życie: Połóż na polu walki żeton białego stwora "
+"|mana_1|, |tap|, zapłać 1 życie: Umieść na polu walki żeton białego stwora "
 "Goat 0/1."
 
 # 36c38daebf96403bb8bb8781e9a9a670
