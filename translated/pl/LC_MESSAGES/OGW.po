@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 16:01+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ogw/pl/>\n"
 "Language: pl\n"
@@ -156,7 +156,7 @@ msgstr ""
 
 #: ../../OGW.rst:71 ../../OGW.rst:629 ../../OGW.rst:641
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../OGW.rst:73
 msgid "Walker of the Wastes gets +1/+1 for each land you control named Wastes."
@@ -559,7 +559,7 @@ msgstr ""
 
 #: ../../OGW.rst:253 ../../OGW.rst:753
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../OGW.rst:257
 msgid ""
@@ -760,7 +760,7 @@ msgstr ""
 
 #: ../../OGW.rst:365 ../../OGW.rst:375 ../../OGW.rst:705
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../OGW.rst:367
 msgid "Counter target spell."
@@ -1312,6 +1312,8 @@ msgstr ""
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
+"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
+"dwa stwory.)"
 
 #: ../../OGW.rst:674
 msgid "Kazuul's Toll Collector"
@@ -1595,7 +1597,7 @@ msgstr ""
 
 #: ../../OGW.rst:817
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../OGW.rst:819
 msgid ""
@@ -1768,7 +1770,7 @@ msgstr ""
 
 #: ../../OGW.rst:901
 msgid "Deathtouch"
-msgstr ""
+msgstr "Dotyk śmierci"
 
 #: ../../OGW.rst:903
 msgid ""
@@ -1952,16 +1954,17 @@ msgid "Equipped creature gets +1/+1 and has haste."
 msgstr ""
 
 #: ../../OGW.rst:996
+#, fuzzy
 msgid "Cinder Barrens"
-msgstr ""
+msgstr "Cinder Barrens"
 
 #: ../../OGW.rst:993
 msgid "Cinder Barrens enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../OGW.rst:995
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../OGW.rst:1002
 msgid "Corrupted Crossroads"
@@ -2093,15 +2096,15 @@ msgstr ""
 
 #: ../../OGW.rst:1068
 msgid "Submerged Boneyard"
-msgstr ""
+msgstr "Submerged Boneyard (Zatopiony Cmentarz)"
 
 #: ../../OGW.rst:1065
 msgid "Submerged Boneyard enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../OGW.rst:1067
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../OGW.rst:1074
 #, fuzzy
@@ -2118,15 +2121,15 @@ msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../OGW.rst:1080
 msgid "Tranquil Expanse"
-msgstr ""
+msgstr "Tranquil Expanse (Spokojna Przestrzeń)"
 
 #: ../../OGW.rst:1077
 msgid "Tranquil Expanse enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../OGW.rst:1079
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../OGW.rst:1086
 msgid "Unknown Shores"
