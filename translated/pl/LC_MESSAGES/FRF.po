@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 16:01+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/frf/pl/>\n"
 "Language: pl\n"
@@ -1663,7 +1663,7 @@ msgid ""
 "destroy it.)"
 msgstr ""
 "Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby go zniszczyć.)"
+"wystarcza, aby został zniszczony.)"
 
 # b69af29634ce4127b22db2e2161a9c6d
 #: ../../FRF.rst:510
@@ -2738,7 +2738,8 @@ msgstr "Winds of Qal Sisma"
 #: ../../FRF.rst:819
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bitewne, które mogłyby być zadane w tej turze."
+"Zażegnaj wszystkie obrażenia bitewne, które mogłyby zostać zadane w tej "
+"turze."
 
 # eaae8143cf8d47698dc2218f5c747bf5
 #: ../../FRF.rst:821
