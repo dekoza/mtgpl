@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 14:02+0000\n"
+"PO-Revision-Date: 2018-12-30 16:01+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -1324,14 +1324,15 @@ msgstr "|mana_u|: Water Servant dostaje -1/+1 do końca tury."
 
 # 47e7644985b14e2a973becc1ebd012d7
 #: ../../M14.rst:416
+#, fuzzy
 msgid "Windreader Sphinx"
-msgstr ""
+msgstr "Windreader Sphinx"
 
 # 15b3c97ce465497db0d59097ec6d4ff8
 # 189d1ec465814c8bafa269cea597c95d
 #: ../../M14.rst:415
 msgid "Whenever a creature with flying attacks, you may draw a card."
-msgstr "Ilekroć atakuje stwór z Lataniem, możesz dobrać kartę."
+msgstr "Ilekroć atakuje stwór z lataniem, możesz dobrać kartę."
 
 # 3e5fdc82637c4369a0fa71fa67041e4f
 #: ../../M14.rst:420
