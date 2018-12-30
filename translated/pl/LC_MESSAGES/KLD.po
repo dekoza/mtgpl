@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 23:02+0000\n"
+"PO-Revision-Date: 2018-12-31 00:12+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
@@ -2742,8 +2742,9 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1242
+#, fuzzy
 msgid "Prophetic Prism"
-msgstr ""
+msgstr "Prophetic Prism"
 
 #: ../../KLD.rst:1239
 msgid "When Prophetic Prism enters the battlefield, draw a card."
