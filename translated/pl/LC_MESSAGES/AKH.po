@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 14:02+0000\n"
+"PO-Revision-Date: 2018-12-30 16:01+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
@@ -291,12 +291,13 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:120
+#, fuzzy
 msgid "Mighty Leap"
-msgstr ""
+msgstr "Mighty Leap"
 
 #: ../../AKH.rst:119
 msgid "Target creature gets +2/+2 and gains flying until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
 
 #: ../../AKH.rst:128
 msgid "Oketra the True"
@@ -1052,12 +1053,13 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:494
+#, fuzzy
 msgid "Doomed Dissenter"
-msgstr ""
+msgstr "Doomed Dissenter"
 
 #: ../../AKH.rst:493
 msgid "When Doomed Dissenter dies, create a 2/2 black Zombie creature token."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../AKH.rst:500
 msgid "Dread Wanderer"
@@ -1107,7 +1109,7 @@ msgstr ""
 
 #: ../../AKH.rst:520
 msgid "Gravedigger"
-msgstr ""
+msgstr "Gravedigger (Grabarz)"
 
 #: ../../AKH.rst:519
 msgid ""
@@ -1331,6 +1333,9 @@ msgid ""
 "Until end of turn, target creature gets +2/+0 and gains \"When this creature "
 "dies, return it to the battlefield tapped under its owner's control.\""
 msgstr ""
+"Do końca tury wskazany stwór dostaje +2/+0 oraz zdolność \"Kiedy ten stwór "
+"umrze, przywróć go zatapowanego na pole walki pod władanie jego właściciela."
+"\""
 
 #: ../../AKH.rst:620
 msgid "Trespasser's Curse"
