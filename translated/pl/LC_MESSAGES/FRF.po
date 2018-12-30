@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 23:02+0000\n"
+"PO-Revision-Date: 2018-12-31 00:12+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/frf/pl/>\n"
 "Language: pl\n"
@@ -1099,6 +1099,8 @@ msgid ""
 "battlefield tapped. Activate this ability only any time you could cast a "
 "sorcery."
 msgstr ""
+"|mana_3| |mana_bg| |mana_bg|: Umieść tę kartę z wygnania zatapowaną na polu "
+"walki. Aktywuj tę zdolność tylko wtedy, gdy możesz zagrać obrzęd."
 
 # b4ba7a8c5d584ebb8475de411f0aef30
 #: ../../FRF.rst:336
@@ -2178,6 +2180,8 @@ msgid ""
 "Target creature gains double strike until end of turn. (It deals both first-"
 "strike and regular combat damage.)"
 msgstr ""
+"Wskazany stwór zyskuje podwójny cios do końca tury. (Zadaje obrażenia bojowe "
+"zarówno jako pierwszy cios oraz normalnie.)"
 
 # 60fdd65f34e44db3a32c6d14810acb42
 #: ../../FRF.rst:651
@@ -2200,6 +2204,8 @@ msgid ""
 "Whenever Vaultbreaker attacks, you may discard a card. If you do, draw a "
 "card."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz odrzucić kartę. Jeśli tak zrobisz, dobierz "
+"kartę."
 
 # efe9ddac16354c4d834df6926adf8a8c
 #: ../../FRF.rst:664
@@ -2218,7 +2224,7 @@ msgstr ""
 
 #: ../../FRF.rst:663
 msgid "Wild Slash deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje 2 obrażenia w dowolny cel."
 
 # 97dc930d4bc145afaa97a477453ddc07
 #: ../../FRF.rst:668
@@ -2607,6 +2613,9 @@ msgid ""
 "owner's hand. If you do, Temur Sabertooth gains indestructible until end of "
 "turn."
 msgstr ""
+"|mana_1| |mana_g|: Możesz przywrócić innego wskazanego stwora pod twoim "
+"władaniem do ręki jego właściciela. Jeśli tak zrobisz, ten stwór zyskuje "
+"niezniszczalność do końca tury."
 
 # 98fe106ac6cd4d7f8eea8719c1a8afdb
 #: ../../FRF.rst:792
@@ -2639,25 +2648,31 @@ msgstr ""
 # 4780f44ad6ae4ad3ad065bd037f9a88f
 #: ../../FRF.rst:800
 msgid "Warden of the First Tree"
-msgstr ""
+msgstr "Warden of the First Tree (Strażnik Pierwszego Drzewa)"
 
 #: ../../FRF.rst:795
 msgid ""
 "|mana_1| |mana_wb|: Warden of the First Tree becomes a Human Warrior with "
 "base power and toughness 3/3."
 msgstr ""
+"|mana_1| |mana_wb|: Ten stwór staje się Człowiekiem Wojownikiem o bazowej "
+"sile i wytrzymałości 3/3."
 
 #: ../../FRF.rst:797
 msgid ""
 "|mana_2| |mana_wb| |mana_wb|: If Warden of the First Tree is a Warrior, it "
 "becomes a Human Spirit Warrior with trample and lifelink."
 msgstr ""
+"|mana_2| |mana_wb| |mana_wb|: Jeśli ten stwór jest Wojownikiem, staje się "
+"Człowiekiem Duchem Wojownikiem z tratowaniem i więzią życia."
 
 #: ../../FRF.rst:799
 msgid ""
 "|mana_3| |mana_wb| |mana_wb| |mana_wb|: If Warden of the First Tree is a "
 "Spirit, put five +1/+1 counters on it."
 msgstr ""
+"|mana_3| |mana_wb| |mana_wb| |mana_wb|: Jeśli ten stwór jest Duchem, umieść "
+"na nim pięć znaczników +1/+1."
 
 # 0814de5c57944b47970a58ff4e8fc1dc
 #: ../../FRF.rst:806
@@ -2765,6 +2780,10 @@ msgid ""
 "with power less than Yasova Dragonclaw's power until end of turn, untap that "
 "creature, and it gains haste until end of turn."
 msgstr ""
+"Na początku walki w twojej turze, możesz zapłacić |mana_1| |mana_ur| "
+"|mana_ur|. Jeśli tak zrobisz, zyskujesz do końca tury władanie nad wskazanym "
+"stworem pod władaniem przeciwnika o sile mniejszej niż siła tego stwora, "
+"odtapuj owego stwora, zyskuje on pośpiech do końca tury."
 
 # 690580dc2c754363a3101e741e29b34b
 #: ../../FRF.rst:834
@@ -2946,6 +2965,7 @@ msgstr "War Flare"
 msgid ""
 "Creatures you control get +2/+1 until end of turn. Untap those creatures."
 msgstr ""
+"Stwory pod twoim władaniem dostają +2/+1 do końca tury. Odtapuj owe stwory."
 
 # c25e71fccfb84facad8572bf7277f36e
 #: ../../FRF.rst:888
@@ -3043,8 +3063,9 @@ msgstr ""
 
 # 23bc484dc6aa4701b8cff92d707adbe8
 #: ../../FRF.rst:914
+#, fuzzy
 msgid "Ugin's Construct"
-msgstr ""
+msgstr "Ugin's Construct"
 
 # 0661dc87513346d18fcdba9489a1818b
 #: ../../FRF.rst:913
@@ -3052,6 +3073,8 @@ msgid ""
 "When Ugin's Construct enters the battlefield, sacrifice a permanent that's "
 "one or more colors."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, poświęć permanent mający przynajmniej "
+"jeden kolor."
 
 # cf4d1d085a4b4c779bd6e3110a9250bb
 #: ../../FRF.rst:922
@@ -3237,12 +3260,12 @@ msgstr "Thornwood Falls"
 # 16c4194aff5e40b5a07fa776064c5921
 #: ../../FRF.rst:981
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr ""
+msgstr "Ten stwór wchodzi na pole walki zatapowany."
 
 # 57dc8898743346868fa6b65f9a75e68c
 #: ../../FRF.rst:983
 msgid "When Thornwood Falls enters the battlefield, you gain 1 life."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki zyskujesz 1 życie."
 
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:985
