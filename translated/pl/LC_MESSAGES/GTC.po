@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 14:02+0000\n"
+"PO-Revision-Date: 2018-12-31 00:12+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -19,6 +19,7 @@ msgstr ""
 
 # bc285d61e5844f2db8f900ddf644d9e4
 #: ../../GTC.rst:5
+#, fuzzy
 msgid "Gatecrash"
 msgstr "Gatecrash"
 
@@ -47,8 +48,9 @@ msgstr "Wygnaj wskazanego stwora lub urok."
 
 # fafee313e11140c0abc5d0ae3dadb280
 #: ../../GTC.rst:20
+#, fuzzy
 msgid "Angelic Skirmisher"
-msgstr ""
+msgstr "Angelic Skirmisher"
 
 # 407bccbd57bd4960b7bc652b699d76c1
 # 9af04599806c450aafb70122cd2b7743
@@ -117,7 +119,6 @@ msgstr "Obronność"
 #: ../../GTC.rst:29 ../../GTC.rst:33 ../../GTC.rst:101 ../../GTC.rst:137
 #: ../../GTC.rst:309 ../../GTC.rst:327 ../../GTC.rst:425 ../../GTC.rst:429
 #: ../../GTC.rst:907 ../../GTC.rst:1071 ../../GTC.rst:1093
-#, fuzzy
 msgid ""
 "Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each "
 "opponent loses 1 life and you gain that much life.)"
@@ -140,8 +141,9 @@ msgstr ""
 
 # 7bb2144a24994a6daf3305f7b2755e8a
 #: ../../GTC.rst:40
+#, fuzzy
 msgid "Boros Elite"
-msgstr ""
+msgstr "Boros Elite"
 
 # 1e2c2f85b3214883abe28ac992d39af3
 #: ../../GTC.rst:39
@@ -168,8 +170,9 @@ msgstr ""
 
 # bf5ca91129864257835658c25d9ef869
 #: ../../GTC.rst:48
+#, fuzzy
 msgid "Daring Skyjek"
-msgstr ""
+msgstr "Daring Skyjek"
 
 # e3d57ad0f9e54231a4f5727ba76946a4
 #: ../../GTC.rst:47
@@ -201,8 +204,9 @@ msgstr "Zauroczony ląd ma \"|tap|: Zaznacz wskazanego stwora.\""
 
 # d70703ce79eb44f49b909e2c836d9763
 #: ../../GTC.rst:58
+#, fuzzy
 msgid "Dutiful Thrull"
-msgstr ""
+msgstr "Dutiful Thrull"
 
 # 3e963c71fa6c49d0af226be68437e893
 #: ../../GTC.rst:57
@@ -212,7 +216,7 @@ msgstr "|mana_b|: Zregeneruj Dutiful Thrull."
 # 4170ffe28b7840a792c6bc872d0d3bff
 #: ../../GTC.rst:64
 msgid "Frontline Medic"
-msgstr ""
+msgstr "Frontline Medic (Medyk Frontowy)"
 
 # f2193410082c4c46aba817b805a8ec81
 #: ../../GTC.rst:61
@@ -234,8 +238,9 @@ msgstr ""
 
 # 70bb5840d0b84e008ac133870584dcf5
 #: ../../GTC.rst:72
+#, fuzzy
 msgid "Gideon, Champion of Justice"
-msgstr ""
+msgstr "Gideon, Champion of Justice"
 
 # 75013604d300476e9dc6de323feff5b3
 #: ../../GTC.rst:67
@@ -286,8 +291,9 @@ msgstr ""
 
 # c72f6a54fd8c4b9b99850670506544cc
 #: ../../GTC.rst:86
+#, fuzzy
 msgid "Guildscorn Ward"
-msgstr ""
+msgstr "Guildscorn Ward"
 
 # 7bae545ff4c9402c9813490153cd1a3d
 # 871471c5dcc54b6fbcbdf1a698dbb89d
@@ -349,8 +355,9 @@ msgstr "Czujność"
 
 # a3c0732a823447979c70ebe0a027582c
 #: ../../GTC.rst:106
+#, fuzzy
 msgid "Knight Watch"
-msgstr ""
+msgstr "Knight Watch"
 
 # 1fe83262be7b4fa4a04cad7176bbbd23
 #: ../../GTC.rst:105
@@ -359,8 +366,9 @@ msgstr "Stwórz dwa żetony białego stwora Rycerz 2/2 z czujnością."
 
 # 1ae1639126b44b3ea42c58f1d255e4f6
 #: ../../GTC.rst:112
+#, fuzzy
 msgid "Luminate Primordial"
-msgstr ""
+msgstr "Luminate Primordial"
 
 # 6e7051be8fac4f98b9c884e84cf4da5b
 #: ../../GTC.rst:111
@@ -396,8 +404,9 @@ msgstr ""
 
 # e12c7ee390ce457f9b59616a9d7faece
 #: ../../GTC.rst:122
+#, fuzzy
 msgid "Nav Squad Commandos"
-msgstr ""
+msgstr "Nav Squad Commandos"
 
 # 0629402bfff34d12b91d39d3ee70334f
 #: ../../GTC.rst:121
@@ -410,8 +419,9 @@ msgstr ""
 
 # 5c94ed7e09ab498499e8b945664c2f61
 #: ../../GTC.rst:126
+#, fuzzy
 msgid "Righteous Charge"
-msgstr ""
+msgstr "Righteous Charge"
 
 # 440e26246d164cd2bbd735e1e50eff41
 #: ../../GTC.rst:125
@@ -420,8 +430,9 @@ msgstr "Stwory pod twoim władaniem dostają +2/+2 do końca tury."
 
 # 2d7363e5156c466191a48d72ec4877de
 #: ../../GTC.rst:130
+#, fuzzy
 msgid "Shielded Passage"
-msgstr ""
+msgstr "Shielded Passage"
 
 # 35d0bc48dc39424e86cd627436d55972
 #: ../../GTC.rst:129
@@ -442,13 +453,15 @@ msgstr "Zniszcz wskazanego zablokowanego stwora."
 
 # 6e34a525a3bf40f78649a4f6ef829c96
 #: ../../GTC.rst:138
+#, fuzzy
 msgid "Syndic of Tithes"
-msgstr ""
+msgstr "Syndic of Tithes"
 
 # 79056db97d9842a2954da746787df3d3
 #: ../../GTC.rst:142
+#, fuzzy
 msgid "Urbis Protector"
-msgstr ""
+msgstr "Urbis Protector"
 
 # 7af3cba1856040ac9b0fe3070dafc322
 #: ../../GTC.rst:141
@@ -462,8 +475,9 @@ msgstr ""
 
 # e5a39c70ba1d4d32b7fff9d3c575cbbf
 #: ../../GTC.rst:146
+#, fuzzy
 msgid "Zarichi Tiger"
-msgstr ""
+msgstr "Zarichi Tiger"
 
 # 731010388cdb48f48ef4337c9614eb05
 #: ../../GTC.rst:145
@@ -471,8 +485,9 @@ msgid "|mana_1| |mana_w|, |tap|: You gain 2 life."
 msgstr "|mana_1| |mana_w|, |tap|: Zyskujesz 2 życia."
 
 #: ../../GTC.rst:150
+#, fuzzy
 msgid "Aetherize"
-msgstr ""
+msgstr "Aetherize"
 
 # 68620a65d8c5400094575d043d6050f7
 #: ../../GTC.rst:149
@@ -496,8 +511,9 @@ msgstr "|mana_2| |mana_u|: Zwróć Agoraphobia do ręki właściciela."
 
 # 93dc7a3a56b9426aaf430307951f2b00
 #: ../../GTC.rst:164
+#, fuzzy
 msgid "Clinging Anemones"
-msgstr ""
+msgstr "Clinging Anemones"
 
 # 4e3fcca7c20d4053b24a19230b7582f5
 # 2d6b7f339b6640bbbbce6924fe436e12
@@ -524,13 +540,15 @@ msgstr ""
 
 # 34d6865c855f42ce98eaa4a3138eee36
 #: ../../GTC.rst:170
+#, fuzzy
 msgid "Cloudfin Raptor"
-msgstr ""
+msgstr "Cloudfin Raptor"
 
 # 09ae2f657b30451886c274075283f127
 #: ../../GTC.rst:176
+#, fuzzy
 msgid "Diluvian Primordial"
-msgstr ""
+msgstr "Diluvian Primordial"
 
 # 46da0f0c1dc546229c6dcbfe6f04e3e7
 #: ../../GTC.rst:175
@@ -563,8 +581,9 @@ msgstr ""
 
 # cc4da7f7ebe74d40bdd7a8c922bcf6cc
 #: ../../GTC.rst:184
+#, fuzzy
 msgid "Frilled Oculus"
-msgstr ""
+msgstr "Frilled Oculus"
 
 # e5df77dd3dea4b339a04d6faab6f5a9a
 #: ../../GTC.rst:183
@@ -577,8 +596,9 @@ msgstr ""
 
 # 62a2007486bb498eb4ab271619e6b50e
 #: ../../GTC.rst:188
+#, fuzzy
 msgid "Gridlock"
-msgstr ""
+msgstr "Gridlock"
 
 # 52cb7d6cf6e34900b1e03734063266c9
 #: ../../GTC.rst:187
@@ -587,8 +607,9 @@ msgstr "Zaznacz X wskazanych nielądowych permanentów."
 
 # 75be134d11b44e3696d227ee3e2ea3c4
 #: ../../GTC.rst:194
+#, fuzzy
 msgid "Hands of Binding"
-msgstr ""
+msgstr "Hands of Binding"
 
 # 01405212cf3244d5afc17124a9c59355
 #: ../../GTC.rst:191
@@ -624,8 +645,9 @@ msgstr ""
 
 # 913ada805d014cb1bac66f624ff837be
 #: ../../GTC.rst:198
+#, fuzzy
 msgid "Incursion Specialist"
-msgstr ""
+msgstr "Incursion Specialist"
 
 # 00b04c56a0784a769bfe24a9d021cd65
 #: ../../GTC.rst:197
@@ -638,8 +660,9 @@ msgstr ""
 
 # e804fb28fd4c49f7b7ba8f94700e4f14
 #: ../../GTC.rst:204
+#, fuzzy
 msgid "Keymaster Rogue"
-msgstr ""
+msgstr "Keymaster Rogue"
 
 # ad8a2a2f06bd4f919d38a4a28389edc8
 #: ../../GTC.rst:201
@@ -668,8 +691,9 @@ msgstr "Dobierz kartę."
 
 # bd34dd10dad84b8284243f8fb17e27c6
 #: ../../GTC.rst:214
+#, fuzzy
 msgid "Leyline Phantom"
-msgstr ""
+msgstr "Leyline Phantom"
 
 # a9afec89384646ee99a67d92ecafdf5d
 #: ../../GTC.rst:213
@@ -692,8 +716,9 @@ msgstr "|mana_u|: Metropolis Sprite dostaje +1/-1 do końca tury."
 
 # 2d440578b9ad4c94b1470271a4f6ccd5
 #: ../../GTC.rst:226
+#, fuzzy
 msgid "Mindeye Drake"
-msgstr ""
+msgstr "Mindeye Drake"
 
 # fb71120068ba42e1ba9211bf1f008c45
 #: ../../GTC.rst:225
@@ -722,8 +747,9 @@ msgstr ""
 
 # e71af715c25046b3939074549982fdc8
 #: ../../GTC.rst:236
+#, fuzzy
 msgid "Realmwright"
-msgstr ""
+msgstr "Realmwright"
 
 # c10ab51da48c42bfbe695e48aa211a57
 #: ../../GTC.rst:233
@@ -754,8 +780,9 @@ msgstr ""
 
 # 06d9651d9d214d1c974d013ce4b03f07
 #: ../../GTC.rst:246
+#, fuzzy
 msgid "Sapphire Drake"
-msgstr ""
+msgstr "Sapphire Drake"
 
 # 37a984216cbc494689daeb064573ae2f
 #: ../../GTC.rst:245
@@ -764,8 +791,9 @@ msgstr "Każdy stwór, którym władasz, mający znacznik +1/+1 ma latanie."
 
 # ea95e56e1d3740e4864b29f868a76fbd
 #: ../../GTC.rst:252
+#, fuzzy
 msgid "Scatter Arc"
-msgstr ""
+msgstr "Scatter Arc"
 
 # 6f165425bac24a9a920fc57fd3157cf6
 #: ../../GTC.rst:249
@@ -774,8 +802,9 @@ msgstr "Skontruj wskazany czar nie będący stworem."
 
 # e468d832e24146f8b58a507f40c14473
 #: ../../GTC.rst:258
+#, fuzzy
 msgid "Simic Fluxmage"
-msgstr ""
+msgstr "Simic Fluxmage"
 
 # e73e0ce7484442bb9c1ad26af9ef78a5
 #: ../../GTC.rst:257
@@ -788,8 +817,9 @@ msgstr ""
 
 # 42670897055a4dfaa41feab7d8c41c5f
 #: ../../GTC.rst:264
+#, fuzzy
 msgid "Simic Manipulator"
-msgstr ""
+msgstr "Simic Manipulator"
 
 # 7265ebd4adb34307b397c46d8e8f35f8
 #: ../../GTC.rst:263
@@ -804,8 +834,9 @@ msgstr ""
 
 # 8c0f49e05a964761a9d3470144d03501
 #: ../../GTC.rst:270
+#, fuzzy
 msgid "Skygames"
-msgstr ""
+msgstr "Skygames"
 
 # 7ab37e9affc44cd4a66637c3c3ddeea2
 #: ../../GTC.rst:269
@@ -819,8 +850,9 @@ msgstr ""
 
 # e6ac1761775a403196ead39d4895e3b1
 #: ../../GTC.rst:274
+#, fuzzy
 msgid "Spell Rupture"
-msgstr ""
+msgstr "Spell Rupture"
 
 # 5704d3f6e0424de9a5f165ba86025b6f
 #: ../../GTC.rst:273
@@ -856,8 +888,9 @@ msgstr ""
 
 # 50565916d2e046889e3d89d8be9f6c98
 #: ../../GTC.rst:290
+#, fuzzy
 msgid "Voidwalk"
-msgstr ""
+msgstr "Voidwalk"
 
 # abba343dc2854d62bac662ed173c6a07
 #: ../../GTC.rst:287
@@ -870,8 +903,9 @@ msgstr ""
 
 # 68b874d8672c4284931d1e80eea28bd3
 #: ../../GTC.rst:298
+#, fuzzy
 msgid "Way of the Thief"
-msgstr ""
+msgstr "Way of the Thief"
 
 # 90cd546e3422476bab73009eca062226
 #: ../../GTC.rst:295
@@ -885,8 +919,9 @@ msgstr "Zauroczony stwór nie może być blokowany dopóki władasz Bramą."
 
 # 0a7757105c6c4035b24ddcbe41a6584f
 #: ../../GTC.rst:304
+#, fuzzy
 msgid "Balustrade Spy"
-msgstr ""
+msgstr "Balustrade Spy"
 
 # c69257a0c5fb425caacd69665233c3fa
 #: ../../GTC.rst:303
@@ -902,8 +937,9 @@ msgstr ""
 
 # c0274b260c474c9aa5caa1f6a8d17806
 #: ../../GTC.rst:310
+#, fuzzy
 msgid "Basilica Screecher"
-msgstr ""
+msgstr "Basilica Screecher"
 
 # 4419e77dc1854f408de2721e4b21d19e
 #: ../../GTC.rst:318
@@ -948,8 +984,9 @@ msgstr ""
 
 # a976bdd81c29425c8c9fa86dff5d529e
 #: ../../GTC.rst:336
+#, fuzzy
 msgid "Death's Approach"
-msgstr ""
+msgstr "Death's Approach"
 
 # d51b3b267ad040c8929f5dd276865d21
 #: ../../GTC.rst:335
@@ -962,8 +999,9 @@ msgstr ""
 
 # ea61b91b864e44e89961e3ad58ad35cc
 #: ../../GTC.rst:340
+#, fuzzy
 msgid "Devour Flesh"
-msgstr ""
+msgstr "Devour Flesh"
 
 # d5cae447be4d4e7394ab890d7468b618
 #: ../../GTC.rst:339
@@ -976,8 +1014,9 @@ msgstr ""
 
 # be09b442a5654695adc749ddf040aa66
 #: ../../GTC.rst:346
+#, fuzzy
 msgid "Dying Wish"
-msgstr ""
+msgstr "Dying Wish"
 
 # 4dd85cb9202c4caca25bc206110f1be9
 #: ../../GTC.rst:345
@@ -990,8 +1029,9 @@ msgstr ""
 
 # 90d8e0a93e584e8cb82c92718b4638dc
 #: ../../GTC.rst:352
+#, fuzzy
 msgid "Gateway Shade"
-msgstr ""
+msgstr "Gateway Shade"
 
 # 6c02cb1405074d7795eb4764362d0647
 #: ../../GTC.rst:349
@@ -1008,8 +1048,9 @@ msgstr ""
 
 # 007de288c142472884129991d94e0c81
 #: ../../GTC.rst:356
+#, fuzzy
 msgid "Grisly Spectacle"
-msgstr ""
+msgstr "Grisly Spectacle"
 
 # db1b57634aef4337bf1f7734b5b51ab8
 #: ../../GTC.rst:355
@@ -1024,13 +1065,15 @@ msgstr ""
 
 # 2c4ff72b28a74e6398a3de1549c3043d
 #: ../../GTC.rst:358
+#, fuzzy
 msgid "Gutter Skulk"
-msgstr ""
+msgstr "Gutter Skulk"
 
 # d85b77c9b09f4b89955f79d83a46f163
 #: ../../GTC.rst:364
+#, fuzzy
 msgid "Horror of the Dim"
-msgstr ""
+msgstr "Horror of the Dim"
 
 # 5db0134e6e6745a9a56ab234e2822912
 #: ../../GTC.rst:363
@@ -1089,8 +1132,9 @@ msgstr "Wskazany gracz odrzuca kartę."
 
 # 4e113a4a01d045f58f63968aa823b7b8
 #: ../../GTC.rst:390
+#, fuzzy
 msgid "Midnight Recovery"
-msgstr ""
+msgstr "Midnight Recovery"
 
 # 10be1dd7b13b4420943907d691cefca9
 # e8d4786e29a449458fd56b2aa7e2484f
@@ -1100,8 +1144,9 @@ msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 # f0aa79c4aa3f4d98aaf22853d9f071f0
 #: ../../GTC.rst:396
+#, fuzzy
 msgid "Ogre Slumlord"
-msgstr ""
+msgstr "Ogre Slumlord"
 
 # 7f3c335439a145e6b6fba2ce705db869
 #: ../../GTC.rst:393
@@ -1120,8 +1165,9 @@ msgstr "Szczury, którymi władasz mają dotyk śmierci."
 
 # fbb9e9810c0d4c09b8d0b51e537a35ed
 #: ../../GTC.rst:402
+#, fuzzy
 msgid "Sepulchral Primordial"
-msgstr ""
+msgstr "Sepulchral Primordial"
 
 # 2458684d535a42028ec1b11d3574aca6
 #: ../../GTC.rst:399
@@ -1163,8 +1209,9 @@ msgstr ""
 
 # fc154a168c174a4d9989ee07036a8cea
 #: ../../GTC.rst:412
+#, fuzzy
 msgid "Shadow Slice"
-msgstr ""
+msgstr "Shadow Slice"
 
 # d38fd109f4344c3aaf33a23a910df20e
 #: ../../GTC.rst:409
@@ -1173,8 +1220,9 @@ msgstr "Wskazany przeciwnik traci 3 życia."
 
 # 9022ee50993f4f01a7faa6c2f4268d50
 #: ../../GTC.rst:416
+#, fuzzy
 msgid "Slate Street Ruffian"
-msgstr ""
+msgstr "Slate Street Ruffian"
 
 # 757d175a32cc4884a9607cca86277473
 #: ../../GTC.rst:415
@@ -1188,7 +1236,7 @@ msgstr ""
 # a2734646c3534378a9f2f435c2516cca
 #: ../../GTC.rst:422
 msgid "Smog Elemental"
-msgstr ""
+msgstr "Smog Elemental (Żywiołak Smogu)"
 
 # 77356e9e2c6e4a008e8fe64cdf15f87a
 #: ../../GTC.rst:421
@@ -1197,8 +1245,9 @@ msgstr "Stwory z lataniem władane przez przeciwników dostają -1/-1."
 
 # ec3326b52f934600a19628bdbbfa8c52
 #: ../../GTC.rst:426
+#, fuzzy
 msgid "Syndicate Enforcer"
-msgstr ""
+msgstr "Syndicate Enforcer"
 
 # 04f9ae361a584cc89d7e292c1263f307
 #: ../../GTC.rst:432
@@ -1213,8 +1262,9 @@ msgstr ""
 
 # d69a9e94cd1e49ee81eb73725273d7ce
 #: ../../GTC.rst:436
+#, fuzzy
 msgid "Undercity Informer"
-msgstr ""
+msgstr "Undercity Informer"
 
 # 399f34d6c7c844b19e2e6c5589d3969e
 #: ../../GTC.rst:435
@@ -1230,8 +1280,9 @@ msgstr ""
 
 # cd2c70d9997d46c792a8b066c6cfc6a6
 #: ../../GTC.rst:442
+#, fuzzy
 msgid "Undercity Plague"
-msgstr ""
+msgstr "Undercity Plague"
 
 # d010a925c4fb4b0f804c879776701edc
 #: ../../GTC.rst:439
@@ -1242,8 +1293,9 @@ msgstr ""
 
 # 6f79dcb7c4f5431c81fcd5ee7a04ccc7
 #: ../../GTC.rst:446
+#, fuzzy
 msgid "Wight of Precinct Six"
-msgstr ""
+msgstr "Wight of Precinct Six"
 
 # 70cc856d176d41edb00e13ed6e2efa50
 #: ../../GTC.rst:445
@@ -1301,8 +1353,9 @@ msgstr ""
 
 # 05f43c80a29047bfa99a01eb9b539af2
 #: ../../GTC.rst:462
+#, fuzzy
 msgid "Crackling Perimeter"
-msgstr ""
+msgstr "Crackling Perimeter"
 
 # 2ebebb697be4412ab2e1abb6fcfd97e8
 #: ../../GTC.rst:461
@@ -1315,8 +1368,9 @@ msgstr ""
 
 # 116ce4854a354ed68db7677a6e95babf
 #: ../../GTC.rst:466
+#, fuzzy
 msgid "Ember Beast"
-msgstr ""
+msgstr "Ember Beast"
 
 # 11b0d3196674490da2d0409c0ea206da
 #: ../../GTC.rst:465
@@ -1325,8 +1379,9 @@ msgstr "Ember Beast nie może atakować ani blokować sam."
 
 # 5ef1ea3ba8ad443997ec6b83825f7819
 #: ../../GTC.rst:470
+#, fuzzy
 msgid "Firefist Striker"
-msgstr ""
+msgstr "Firefist Striker"
 
 # d8fab694e23b4c1bb9720385fa649b7a
 #: ../../GTC.rst:469
@@ -1390,8 +1445,9 @@ msgstr ""
 
 # dd41b18c017c4c78a72bac9ce72ead23
 #: ../../GTC.rst:492
+#, fuzzy
 msgid "Hellkite Tyrant"
-msgstr ""
+msgstr "Hellkite Tyrant"
 
 # 88d2a46558ff420481386cdbb0f51423
 # e8b6347cd10a4d269de097f9cb1e7f74
@@ -1419,8 +1475,9 @@ msgstr ""
 
 # 3c48db8ee221429a9d3b0d082006de97
 #: ../../GTC.rst:496
+#, fuzzy
 msgid "Hellraiser Goblin"
-msgstr ""
+msgstr "Hellraiser Goblin"
 
 # c23d58378f334350af2dddc46b3c7482
 #: ../../GTC.rst:495
@@ -1430,8 +1487,9 @@ msgstr ""
 
 # 2951083c50a44b0f84dcd2581add45b4
 #: ../../GTC.rst:500
+#, fuzzy
 msgid "Homing Lightning"
-msgstr ""
+msgstr "Homing Lightning"
 
 # 9b48ad245c074b26a1a62ef07102fe88
 #: ../../GTC.rst:499
@@ -1444,8 +1502,9 @@ msgstr ""
 
 # ced6440f8bb14faba807820cabe81691
 #: ../../GTC.rst:506
+#, fuzzy
 msgid "Legion Loyalist"
-msgstr ""
+msgstr "Legion Loyalist"
 
 # dc47929ab5fb4db78dc3575ad78562cb
 # 06f9c5e0514949fc962c398014be7fcf
@@ -1492,8 +1551,9 @@ msgstr ""
 
 # 0fe9e9f8906d4485960a61ffa07cc54c
 #: ../../GTC.rst:520
+#, fuzzy
 msgid "Massive Raid"
-msgstr ""
+msgstr "Massive Raid"
 
 # 5c3e8190faf64b7f89d5472a805dea07
 #: ../../GTC.rst:519
@@ -1507,8 +1567,9 @@ msgstr ""
 
 # 02cab80c94a448b2856b6f4457829a54
 #: ../../GTC.rst:526
+#, fuzzy
 msgid "Molten Primordial"
-msgstr ""
+msgstr "Molten Primordial"
 
 # d0963a28d93642a6aae1415b51ea3346
 #: ../../GTC.rst:525
@@ -1538,8 +1599,9 @@ msgstr ""
 
 # 7f22e1edfb2a46f48a2f3ce829f6161f
 #: ../../GTC.rst:534
+#, fuzzy
 msgid "Ripscale Predator"
-msgstr ""
+msgstr "Ripscale Predator"
 
 # d0a5aa8ce0e54ee09400a3ccf8391db3
 #: ../../GTC.rst:533
@@ -1551,8 +1613,9 @@ msgstr ""
 
 # 01c0787c1c2044d4bdd1d776d1977983
 #: ../../GTC.rst:538
+#, fuzzy
 msgid "Scorchwalker"
-msgstr ""
+msgstr "Scorchwalker"
 
 # f6f11510008f4e25af040934380acf62
 #: ../../GTC.rst:537
@@ -1565,8 +1628,9 @@ msgstr ""
 
 # bfc5bf2e70bf4de8b56249b06b1691e5
 #: ../../GTC.rst:542
+#, fuzzy
 msgid "Skinbrand Goblin"
-msgstr ""
+msgstr "Skinbrand Goblin"
 
 # f1f47de46e1e4005942e9d0a5852a899
 #: ../../GTC.rst:541
@@ -1579,8 +1643,9 @@ msgstr ""
 
 # 6fdefcf4e76d4377b6e5cea8d771b3d7
 #: ../../GTC.rst:546
+#, fuzzy
 msgid "Skullcrack"
-msgstr ""
+msgstr "Skullcrack"
 
 # 29f0d09f00e245f9899558f212f32baf
 #: ../../GTC.rst:545
@@ -1594,8 +1659,9 @@ msgstr ""
 
 # af0625f5674f46789934d49263435127
 #: ../../GTC.rst:550
+#, fuzzy
 msgid "Structural Collapse"
-msgstr ""
+msgstr "Structural Collapse"
 
 # 14daf961364949bd84c8e6791115cf94
 #: ../../GTC.rst:549
@@ -1619,8 +1685,9 @@ msgstr "Zauroczony ląd ma \\\"|tap|, odrzuć kartę: Dobierz kartę.\\\""
 
 # 6e630fe2fb924385bcb7e994695d96e8
 #: ../../GTC.rst:560
+#, fuzzy
 msgid "Towering Thunderfist"
-msgstr ""
+msgstr "Towering Thunderfist"
 
 # c00e40f9be634019858373ade777f68d
 #: ../../GTC.rst:559
@@ -1629,8 +1696,9 @@ msgstr "|mana_w|: Towering Thunderfist zyskuje czujność do końca tury."
 
 # 7103daf008854f3fb43257bad9a1fceb
 #: ../../GTC.rst:566
+#, fuzzy
 msgid "Viashino Shanktail"
-msgstr ""
+msgstr "Viashino Shanktail"
 
 # 54aafdfa929449c18eb3e3bef4055abc
 #: ../../GTC.rst:563
@@ -1648,8 +1716,9 @@ msgstr ""
 
 # 8bafa3db8bb64e09b00b93f702c5629c
 #: ../../GTC.rst:570
+#, fuzzy
 msgid "Warmind Infantry"
-msgstr ""
+msgstr "Warmind Infantry"
 
 # e5ee1086a3a7438f91c2ab13ff26d4be
 #: ../../GTC.rst:569
@@ -1662,8 +1731,9 @@ msgstr ""
 
 # 61d16f46a6a1492dba1e1521c7989cd2
 #: ../../GTC.rst:576
+#, fuzzy
 msgid "Wrecking Ogre"
-msgstr ""
+msgstr "Wrecking Ogre"
 
 # 6a9c8fe704e143578bcfad6e9eb786d6
 #: ../../GTC.rst:573
@@ -1681,8 +1751,9 @@ msgstr ""
 
 # eb5cc8de19f544678191890babce1ee1
 #: ../../GTC.rst:580
+#, fuzzy
 msgid "Adaptive Snapjaw"
-msgstr ""
+msgstr "Adaptive Snapjaw"
 
 # 2fa4147c73d9476882cdfa536b675680
 #: ../../GTC.rst:586
@@ -1710,8 +1781,9 @@ msgstr "Umieść znacznik +1/+1 na wskazanym stworze i odznacz go."
 
 # e6f9544cfd8a45fe8bb6969f48356ae9
 #: ../../GTC.rst:596
+#, fuzzy
 msgid "Crocanura"
-msgstr ""
+msgstr "Crocanura"
 
 # 1bb65728578945f79d9421b4e201a3ee
 #: ../../GTC.rst:593
@@ -1720,8 +1792,9 @@ msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 # 799cc1b1f1aa4542b21f51f8df50bfc8
 #: ../../GTC.rst:602
+#, fuzzy
 msgid "Crowned Ceratok"
-msgstr ""
+msgstr "Crowned Ceratok"
 
 # df0e85e593444a96837f8d5f6e3d0b05
 # e4bbf7236487443c90bc75142abb6c98
@@ -1775,8 +1848,9 @@ msgstr ""
 
 # ea3b89d285e84db39f0984c40bb03305
 #: ../../GTC.rst:624
+#, fuzzy
 msgid "Giant Adephage"
-msgstr ""
+msgstr "Giant Adephage"
 
 # 9796f32114454e0590fc9c80b4e32941
 #: ../../GTC.rst:623
@@ -1790,8 +1864,9 @@ msgstr ""
 
 # 7116ecd6ebe6433399d9307a18f2c781
 #: ../../GTC.rst:628
+#, fuzzy
 msgid "Greenside Watcher"
-msgstr ""
+msgstr "Greenside Watcher"
 
 # 427ab44206c64760ab3c00101f72bf60
 #: ../../GTC.rst:627
@@ -1800,8 +1875,9 @@ msgstr "|tap|: Odtapuj wskazaną Bramę."
 
 # 162b617458e6482782437faa6bae42eb
 #: ../../GTC.rst:634
+#, fuzzy
 msgid "Gyre Sage"
-msgstr ""
+msgstr "Gyre Sage"
 
 # 2ab9c72629f24ba0bfdcd2cfd3bbd92a
 #: ../../GTC.rst:633
@@ -1813,8 +1889,9 @@ msgstr ""
 
 # 873e86f1cbac4ea6b2c5fab60dcf01c1
 #: ../../GTC.rst:638
+#, fuzzy
 msgid "Hindervines"
-msgstr ""
+msgstr "Hindervines"
 
 # 7a4b10abbb7547869de88c6d18392775
 #: ../../GTC.rst:637
@@ -1884,8 +1961,9 @@ msgstr ""
 
 # 45fb221b1b53442cbd60376ea8cb6428
 #: ../../GTC.rst:658
+#, fuzzy
 msgid "Predator's Rapport"
-msgstr ""
+msgstr "Predator's Rapport"
 
 # 81f0a062e9b347f38dd143928d6503f5
 #: ../../GTC.rst:657
@@ -1898,8 +1976,9 @@ msgstr ""
 
 # f3b604f9f29e4e88a12846d8bd660a87
 #: ../../GTC.rst:662
+#, fuzzy
 msgid "Rust Scarab"
-msgstr ""
+msgstr "Rust Scarab"
 
 # 9debac2b4b114eea829a66867037f680
 #: ../../GTC.rst:661
@@ -1912,8 +1991,9 @@ msgstr ""
 
 # 50795272605e41f493c4012c267fafbd
 #: ../../GTC.rst:666
+#, fuzzy
 msgid "Scab-Clan Charger"
-msgstr ""
+msgstr "Scab-Clan Charger"
 
 # feb540a1c8a24551a3cbe8a7910c7c4b
 #: ../../GTC.rst:665
@@ -1926,8 +2006,9 @@ msgstr ""
 
 # 62bdca2e9db54d7ca244167ef66ce723
 #: ../../GTC.rst:670
+#, fuzzy
 msgid "Serene Remembrance"
-msgstr ""
+msgstr "Serene Remembrance"
 
 # 4c3b96ebf5354ce08dd909fe724d5309
 #: ../../GTC.rst:669
@@ -1940,8 +2021,9 @@ msgstr ""
 
 # 39286ee1d3bb476a8dd46d097a18b6b5
 #: ../../GTC.rst:676
+#, fuzzy
 msgid "Skarrg Goliath"
-msgstr ""
+msgstr "Skarrg Goliath"
 
 # 708e96111c7247c780854ea1dcf12ec2
 #: ../../GTC.rst:675
@@ -1968,8 +2050,9 @@ msgstr ""
 
 # fd354ad43c274c75a9fec0fa1e67e44d
 #: ../../GTC.rst:684
+#, fuzzy
 msgid "Spire Tracer"
-msgstr ""
+msgstr "Spire Tracer"
 
 # d2a3479dd40d4143b28531cda1640fa5
 #: ../../GTC.rst:683
@@ -1979,8 +2062,9 @@ msgstr ""
 
 # 9a8abc21434e403b862446b09d76141b
 #: ../../GTC.rst:690
+#, fuzzy
 msgid "Sylvan Primordial"
-msgstr ""
+msgstr "Sylvan Primordial"
 
 # c87b5a9db0fb4ce1bf058e1f8a1c4cd0
 #: ../../GTC.rst:687
@@ -2003,8 +2087,9 @@ msgstr ""
 
 # 0331e4ac032940f9b186ea20c58023d5
 #: ../../GTC.rst:694
+#, fuzzy
 msgid "Tower Defense"
-msgstr ""
+msgstr "Tower Defense"
 
 # 472b897b3b5a4765b4d354498b45f161
 #: ../../GTC.rst:693
@@ -2013,8 +2098,9 @@ msgstr "Stwory, którymi władasz dostają do końca tury +0/+5 oraz zasięg."
 
 # 3e0b9bc4d7954676a8ff06988d305ca2
 #: ../../GTC.rst:702
+#, fuzzy
 msgid "Verdant Haven"
-msgstr ""
+msgstr "Verdant Haven"
 
 # fcc6ddb6342e4e25bb97ae8cb14f2751
 #: ../../GTC.rst:699
@@ -2053,13 +2139,15 @@ msgstr ""
 
 # 4dd1b202b4f242b98dc9ef6695c9a4a1
 #: ../../GTC.rst:712
+#, fuzzy
 msgid "Wildwood Rebirth"
-msgstr ""
+msgstr "Wildwood Rebirth"
 
 # 0c2773ce9b08493a929f3607f5aa8ec7
 #: ../../GTC.rst:716
+#, fuzzy
 msgid "Alms Beast"
-msgstr ""
+msgstr "Alms Beast"
 
 # 39dc7422db064fd289faf3f13d15df29
 #: ../../GTC.rst:715
@@ -2124,8 +2212,9 @@ msgstr ""
 
 # 2ab06b6e5aaf47989163e7d8e2bb0869
 #: ../../GTC.rst:738
+#, fuzzy
 msgid "Bane Alley Broker"
-msgstr ""
+msgstr "Bane Alley Broker"
 
 # 7b80808796744f0582d1bf4dc5a33a42
 #: ../../GTC.rst:733
@@ -2214,8 +2303,9 @@ msgstr " albo wskazany stwór dostaje podwójny cios do końca tury."
 
 # 2b2f527f98394adb9c384d9f7399e09b
 #: ../../GTC.rst:766
+#, fuzzy
 msgid "Call of the Nightwing"
-msgstr ""
+msgstr "Call of the Nightwing"
 
 # 084bb521e5e84a3c9cbb02d02c696a90
 #: ../../GTC.rst:763
@@ -2226,8 +2316,9 @@ msgstr ""
 
 # acfd46836c544769b47f9f5feaa1569a
 #: ../../GTC.rst:770
+#, fuzzy
 msgid "Cartel Aristocrat"
-msgstr ""
+msgstr "Cartel Aristocrat"
 
 # 4149c2f3963b467dadddeddb6510693b
 #: ../../GTC.rst:769
@@ -2245,7 +2336,7 @@ msgstr "Clan Defiance (Bunt Klanów)"
 
 #: ../../GTC.rst:773
 msgid "Choose one or more —"
-msgstr ""
+msgstr "Wybierz jedno lub więcej —"
 
 #: ../../GTC.rst:775
 #, fuzzy
@@ -2264,8 +2355,9 @@ msgstr " i/lub Cland Defiance zadaje X obrażeń wskazanemu graczowi."
 
 # 7afada6bb3d74ec5b4079230bc893a26
 #: ../../GTC.rst:786
+#, fuzzy
 msgid "Consuming Aberration"
-msgstr ""
+msgstr "Consuming Aberration"
 
 # 11a52a6efae2407eaf11a9c47b7dd6cd
 #: ../../GTC.rst:783
@@ -2290,8 +2382,9 @@ msgstr ""
 
 # 7993c5e9c62e41ac8891a63fb8a68e24
 #: ../../GTC.rst:792
+#, fuzzy
 msgid "Deathpact Angel"
-msgstr ""
+msgstr "Deathpact Angel"
 
 #: ../../GTC.rst:791
 #, fuzzy
@@ -2335,8 +2428,9 @@ msgstr ""
 
 # f85f8acfaf75475da5e2f9cd876d23e0
 #: ../../GTC.rst:806
+#, fuzzy
 msgid "Dinrova Horror"
-msgstr ""
+msgstr "Dinrova Horror"
 
 # c7279dafe21145da8b535d3399ac86b0
 #: ../../GTC.rst:805
@@ -2349,8 +2443,9 @@ msgstr ""
 
 # 9cb771f9042f4abba5b75f70656212b7
 #: ../../GTC.rst:814
+#, fuzzy
 msgid "Domri Rade"
-msgstr ""
+msgstr "Domri Rade"
 
 # 1b2d26802a2349c4a535a470f92953be
 #: ../../GTC.rst:809
@@ -2378,13 +2473,15 @@ msgstr ""
 
 # 5c8eba1cafc64451a5a6094e33721e2b
 #: ../../GTC.rst:818
+#, fuzzy
 msgid "Drakewing Krasis"
-msgstr ""
+msgstr "Drakewing Krasis"
 
 # faf96e05d0794d24892f4db6fbde6072
 #: ../../GTC.rst:824
+#, fuzzy
 msgid "Duskmantle Guildmage"
-msgstr ""
+msgstr "Duskmantle Guildmage"
 
 # 6425ef5095294a6a9dfc6594bb5e35c1
 #: ../../GTC.rst:821
@@ -2407,8 +2504,9 @@ msgstr ""
 
 # 18b3ebd7b3284b4b8adcae7ab1fb30ce
 #: ../../GTC.rst:830
+#, fuzzy
 msgid "Duskmantle Seer"
-msgstr ""
+msgstr "Duskmantle Seer"
 
 # efb046e1ec1a4ebb937f03a59cbb5a89
 #: ../../GTC.rst:829
@@ -2424,8 +2522,9 @@ msgstr ""
 
 # 08bf6a8bc3e247bfbedfb089a8b8e9c7
 #: ../../GTC.rst:836
+#, fuzzy
 msgid "Elusive Krasis"
-msgstr ""
+msgstr "Elusive Krasis"
 
 # 6308f2c0dd344c17a5f02de219ceebbe
 #: ../../GTC.rst:833
@@ -2447,8 +2546,9 @@ msgstr ""
 
 # b7d08f76c4f9435086c4ab8cef209bb4
 #: ../../GTC.rst:846
+#, fuzzy
 msgid "Fathom Mage"
-msgstr ""
+msgstr "Fathom Mage"
 
 # 896c85e3c8514adb9d3c72f4c43b1bee
 #: ../../GTC.rst:845
@@ -2475,8 +2575,9 @@ msgstr ""
 
 # 1bc78fc2c41744b38217c249776a535a
 #: ../../GTC.rst:858
+#, fuzzy
 msgid "Fortress Cyclops"
-msgstr ""
+msgstr "Fortress Cyclops"
 
 # 86d2bce83d154833832e57f88e5513ac
 #: ../../GTC.rst:855
@@ -2490,8 +2591,9 @@ msgstr "Ilekroć Fortress Cyclops blokuje, otrzymuje +0/+3 do końca tury."
 
 # 0aa7a4e36aa54359bb337a8e8219d8b5
 #: ../../GTC.rst:866
+#, fuzzy
 msgid "Foundry Champion"
-msgstr ""
+msgstr "Foundry Champion"
 
 # 4f848616551446dcabf739735e6427a1
 #: ../../GTC.rst:861
@@ -2515,8 +2617,9 @@ msgstr "|mana_w|: Foundry Champion dostaje +0/+1 do końca tury."
 
 # 6e7cb96c0ddd43e68e5c88b198d3f021
 #: ../../GTC.rst:870
+#, fuzzy
 msgid "Frenzied Tilling"
-msgstr ""
+msgstr "Frenzied Tilling"
 
 # b77d804970cc49d5b443ca246cc544fd
 #: ../../GTC.rst:869
@@ -2529,8 +2632,9 @@ msgstr ""
 
 # c58f04a595fd47eb9a97f75585501922
 #: ../../GTC.rst:876
+#, fuzzy
 msgid "Ghor-Clan Rampager"
-msgstr ""
+msgstr "Ghor-Clan Rampager"
 
 # 74c843b3b6a94fe28690b4162ace96b9
 #: ../../GTC.rst:875
@@ -2543,8 +2647,9 @@ msgstr ""
 
 # 55c756388a62429b83a206ae3d4310f1
 #: ../../GTC.rst:880
+#, fuzzy
 msgid "Ground Assault"
-msgstr ""
+msgstr "Ground Assault"
 
 # ed28b448ca1747c396c9c315bf5af1e3
 #: ../../GTC.rst:879
@@ -2575,8 +2680,9 @@ msgstr " Clan Defiance zadaje X obrażeń wskazanemu stworowi z lataniem"
 
 # 2ac94fc6f1f742df87ef574fd377f0cb
 #: ../../GTC.rst:894
+#, fuzzy
 msgid "Gruul Ragebeast"
-msgstr ""
+msgstr "Gruul Ragebeast"
 
 # 416be747a41043b88fbdc1200cb16f0b
 #: ../../GTC.rst:893
@@ -2603,8 +2709,9 @@ msgstr ""
 
 # f5e8c02bb22346089d88fe2628a6ac80
 #: ../../GTC.rst:902
+#, fuzzy
 msgid "Hydroform"
-msgstr ""
+msgstr "Hydroform"
 
 # a90c59d944f546d6aed66fabda1f9bf3
 #: ../../GTC.rst:901
@@ -2617,13 +2724,15 @@ msgstr ""
 
 # a8242033cb1940f28f250ddbf792891c
 #: ../../GTC.rst:908
+#, fuzzy
 msgid "Kingpin's Pet"
-msgstr ""
+msgstr "Kingpin's Pet"
 
 # 2355c756d3d64a8abc3f58594a3f58c3
 #: ../../GTC.rst:914
+#, fuzzy
 msgid "Lazav, Dimir Mastermind"
-msgstr ""
+msgstr "Lazav, Dimir Mastermind"
 
 # afc5139de40747bab5d45c4d7c02a628
 #: ../../GTC.rst:911
@@ -2703,8 +2812,9 @@ msgstr " albo wypędź wszystkich wędrowców."
 
 # f438d2f509fa4bcd9a351e4b840c0a52
 #: ../../GTC.rst:940
+#, fuzzy
 msgid "Mind Grind"
-msgstr ""
+msgstr "Mind Grind"
 
 # bc437b5b361146c78400194ad145e581
 #: ../../GTC.rst:939
@@ -2720,8 +2830,9 @@ msgstr ""
 
 # b64f13d2229a4a0b8ef96363ec1cd24a
 #: ../../GTC.rst:944
+#, fuzzy
 msgid "Mortus Strider"
-msgstr ""
+msgstr "Mortus Strider"
 
 # c6d2b13ba4444180ad509bdc0bfbd5f0
 #: ../../GTC.rst:943
@@ -2730,8 +2841,9 @@ msgstr "Kiedy Mortus Strider umiera, zwróć go do ręki jego właściciela."
 
 # 698177f01033485c870e48a197a6c185
 #: ../../GTC.rst:948
+#, fuzzy
 msgid "Mystic Genesis"
-msgstr ""
+msgstr "Mystic Genesis"
 
 # 66a250580b824690b7f537b39c392d7b
 #: ../../GTC.rst:947
@@ -2745,8 +2857,9 @@ msgstr ""
 
 # 6392be278703401aad52950bed5e5bba
 #: ../../GTC.rst:954
+#, fuzzy
 msgid "Nimbus Swimmer"
-msgstr ""
+msgstr "Nimbus Swimmer"
 
 # f6d2a486eb2a4784985a2210b46e78f5
 #: ../../GTC.rst:953
@@ -2802,8 +2915,9 @@ msgstr ""
 
 # dca322519181451ca163435b1c4a4044
 #: ../../GTC.rst:972
+#, fuzzy
 msgid "Ordruun Veteran"
-msgstr ""
+msgstr "Ordruun Veteran"
 
 # 9620e1c9f44a4e279108989bc34ec59a
 #: ../../GTC.rst:971
@@ -2864,8 +2978,9 @@ msgstr ""
 
 # d351093a9bb64d9f85abf434f05161f8
 #: ../../GTC.rst:994
+#, fuzzy
 msgid "Primal Visitation"
-msgstr ""
+msgstr "Primal Visitation"
 
 # 350b79fe6130451fb877368f8d07b34d
 #: ../../GTC.rst:993
@@ -2897,8 +3012,9 @@ msgstr ""
 
 # b62b3a705082457db0c2b33698045127
 #: ../../GTC.rst:1004
+#, fuzzy
 msgid "Psychic Strike"
-msgstr ""
+msgstr "Psychic Strike"
 
 # f25260b4425d42a18a577f33f11bb332
 #: ../../GTC.rst:1003
@@ -2912,8 +3028,9 @@ msgstr ""
 
 # 9c1233a2ab724184957b2e9cc7067fd9
 #: ../../GTC.rst:1008
+#, fuzzy
 msgid "Purge the Profane"
-msgstr ""
+msgstr "Purge the Profane"
 
 # b6c0808aee24451fbef3efd58cdb1533
 #: ../../GTC.rst:1007
@@ -2922,8 +3039,9 @@ msgstr "Wskazany przeciwnik odrzuca dwie karty, a ty zyskujesz 2 życia."
 
 # ecec096ef6fc45d2934a02cfa55a6199
 #: ../../GTC.rst:1014
+#, fuzzy
 msgid "Rubblehulk"
-msgstr ""
+msgstr "Rubblehulk"
 
 # ee8e8f34430e4a66b3a9be3cb3614a96
 #: ../../GTC.rst:1011
@@ -2945,13 +3063,15 @@ msgstr ""
 
 # 5e814b0dd9914a2c842daf8f1dfcd0ce
 #: ../../GTC.rst:1016
+#, fuzzy
 msgid "Ruination Wurm"
-msgstr ""
+msgstr "Ruination Wurm"
 
 # 91d70b2dfe6d47519b8f785e568a22d9
 #: ../../GTC.rst:1024
+#, fuzzy
 msgid "Shambleshark"
-msgstr ""
+msgstr "Shambleshark"
 
 # 73cde187ccd9434098179a15aeadcf1a
 # 903403c826d645938013c7ce1cdc31e9
@@ -2997,8 +3117,9 @@ msgstr "Zwróć wskazanego stwora do ręki jego władcy."
 
 # cdfc5c3518b5423f9cd97b7a351350b3
 #: ../../GTC.rst:1044
+#, fuzzy
 msgid "Skarrg Guildmage"
-msgstr ""
+msgstr "Skarrg Guildmage"
 
 # 6b4fce503020451e9f6321609779eb15
 #: ../../GTC.rst:1041
@@ -3029,8 +3150,9 @@ msgstr "Latanie, pośpiech"
 
 # cce2dcfdfffe4f3f942ca7ebb44e4623
 #: ../../GTC.rst:1056
+#, fuzzy
 msgid "Soul Ransom"
-msgstr ""
+msgstr "Soul Ransom"
 
 # 2d4545246bff43648c185757ad5508c8
 #: ../../GTC.rst:1053
@@ -3048,8 +3170,9 @@ msgstr ""
 
 # 4ba8e4a28fa94af3bb5267eecad59e74
 #: ../../GTC.rst:1062
+#, fuzzy
 msgid "Spark Trooper"
-msgstr ""
+msgstr "Spark Trooper"
 
 # e507018665184ed2af133e54c7b84e22
 #: ../../GTC.rst:1059
@@ -3063,8 +3186,9 @@ msgstr "Na początku kroku końcowego, poświęć Spark Trooper."
 
 # bfa19a248eb74fbc963968cb39aee8b5
 #: ../../GTC.rst:1068
+#, fuzzy
 msgid "Sunhome Guildmage"
-msgstr ""
+msgstr "Sunhome Guildmage"
 
 # d583b9170dd545feab897216ea575cd0
 #: ../../GTC.rst:1065
@@ -3087,8 +3211,9 @@ msgstr ""
 
 # 224f7a64ea3242589007937d0e3ce023
 #: ../../GTC.rst:1074
+#, fuzzy
 msgid "Treasury Thrull"
-msgstr ""
+msgstr "Treasury Thrull"
 
 # bffdd28bcf074d1aa2068c2f57dd5299
 #: ../../GTC.rst:1073
@@ -3101,8 +3226,9 @@ msgstr ""
 
 # 10d5dbd72c75448e8914b2325ac1f3b6
 #: ../../GTC.rst:1082
+#, fuzzy
 msgid "Truefire Paladin"
-msgstr ""
+msgstr "Truefire Paladin"
 
 # 660ac982f16d4a3ca97c0090cbc18f47
 #: ../../GTC.rst:1079
@@ -3135,8 +3261,9 @@ msgstr ""
 
 # ca4c39582b0442978544905eb7ca5a4e
 #: ../../GTC.rst:1090
+#, fuzzy
 msgid "Urban Evolution"
-msgstr ""
+msgstr "Urban Evolution"
 
 # 3bb9d7efc5ed43e0afe1f0112abad26b
 #: ../../GTC.rst:1089
@@ -3162,8 +3289,9 @@ msgstr ""
 
 # 3ae7fbdfab1b4265891c7fc49ee61ef6
 #: ../../GTC.rst:1102
+#, fuzzy
 msgid "Vizkopa Guildmage"
-msgstr ""
+msgstr "Vizkopa Guildmage"
 
 # 89e6cd675c87428b8bf28ce57a5a1f10
 #: ../../GTC.rst:1099
@@ -3183,8 +3311,9 @@ msgstr ""
 
 # 0105ecef05044621947e6741a191a058
 #: ../../GTC.rst:1108
+#, fuzzy
 msgid "Whispering Madness"
-msgstr ""
+msgstr "Whispering Madness"
 
 # e4dba6d9405d4bbab23d83334c6c1763
 #: ../../GTC.rst:1105
@@ -3212,8 +3341,9 @@ msgstr ""
 
 # 708fa06bf99a4c6f85e1966c6fa1e42d
 #: ../../GTC.rst:1118
+#, fuzzy
 msgid "Zameck Guildmage"
-msgstr ""
+msgstr "Zameck Guildmage"
 
 # 15de6c2040eb4791a75323af15b18dba
 #: ../../GTC.rst:1115
@@ -3235,8 +3365,9 @@ msgstr ""
 
 # 2100d8b78a8b43cc93c3ef55a74971d1
 #: ../../GTC.rst:1122
+#, fuzzy
 msgid "Zhur-Taa Swine"
-msgstr ""
+msgstr "Zhur-Taa Swine"
 
 # 3f07b1d29a5449498fd4ba30206231d7
 #: ../../GTC.rst:1121
@@ -3262,8 +3393,9 @@ msgstr ""
 
 # 136bf278989448fea9be079250aae75f
 #: ../../GTC.rst:1130
+#, fuzzy
 msgid "Beckon Apparition"
-msgstr ""
+msgstr "Beckon Apparition"
 
 # 710ff2ea84f642ba97a4b66aedd57f86
 #: ../../GTC.rst:1129
@@ -3289,8 +3421,9 @@ msgstr "Stwory, którymi władasz stają się X/X do końca tury."
 
 # 31594c12a09f45e8a34264dd97b01527
 #: ../../GTC.rst:1138
+#, fuzzy
 msgid "Bioshift"
-msgstr ""
+msgstr "Bioshift"
 
 # 351f51bbe9214026ae28f3e40d135590
 #: ../../GTC.rst:1137
@@ -3354,8 +3487,9 @@ msgstr ""
 
 # 655e900ec31648f09de142ae79041f5f
 #: ../../GTC.rst:1156
+#, fuzzy
 msgid "Deathcult Rogue"
-msgstr ""
+msgstr "Deathcult Rogue"
 
 # cd7a0127fdd544d6b405a32b0be815d9
 #: ../../GTC.rst:1155
@@ -3388,13 +3522,15 @@ msgstr ""
 
 # 2585ef29b7fe4824b5bbd24b56f83f83
 #: ../../GTC.rst:1170
+#, fuzzy
 msgid "Merfolk of the Depths"
-msgstr ""
+msgstr "Merfolk of the Depths"
 
 # 0db924cd9b4f4314bcafbff9dc34571f
 #: ../../GTC.rst:1178
+#, fuzzy
 msgid "Nightveil Specter"
-msgstr ""
+msgstr "Nightveil Specter"
 
 # 2c2d160d1a9146aeb234e226dfb8ffb0
 #: ../../GTC.rst:1175
@@ -3413,8 +3549,9 @@ msgstr "Możesz zagrywać karty wypędzone przez Nightveil Spectera."
 
 # f1a02ecfd0bf481185020ac3ef8739e7
 #: ../../GTC.rst:1182
+#, fuzzy
 msgid "Pit Fight"
-msgstr ""
+msgstr "Pit Fight"
 
 # 345e721b1f98407c90030c9076e0a2b2
 #: ../../GTC.rst:1181
@@ -3427,8 +3564,9 @@ msgstr ""
 
 # 6ef26980e2254322be92ee77638aa37e
 #: ../../GTC.rst:1186
+#, fuzzy
 msgid "Rubblebelt Raiders"
-msgstr ""
+msgstr "Rubblebelt Raiders"
 
 # 16751b1fe68d407cb1dda96982791596
 #: ../../GTC.rst:1185
@@ -3441,8 +3579,9 @@ msgstr ""
 
 # 40c151f1e3a14b709c5ce282d2b3e331
 #: ../../GTC.rst:1190
+#, fuzzy
 msgid "Shattering Blow"
-msgstr ""
+msgstr "Shattering Blow"
 
 # dcc321da18ca433190b4ad957e8ce6d8
 #: ../../GTC.rst:1189
@@ -3465,8 +3604,9 @@ msgstr ""
 
 # 525344e276984a51a527d0ed2d55d3de
 #: ../../GTC.rst:1200
+#, fuzzy
 msgid "Boros Keyrune"
-msgstr ""
+msgstr "Boros Keyrune"
 
 # bff66d62cb8c4261beabef069ab620f7
 # 039bc15b180c4a04bb01b657ce4c4c1b
@@ -3487,8 +3627,9 @@ msgstr ""
 
 # c94d6c84dc8a44ddb855c878ceaa212a
 #: ../../GTC.rst:1206
+#, fuzzy
 msgid "Dimir Keyrune"
-msgstr ""
+msgstr "Dimir Keyrune"
 
 # e7c599ebd26846a68b519e23a5c268cb
 # ce2f83c9691f4a0283fca8f6bf8805e3
@@ -3507,8 +3648,9 @@ msgstr ""
 
 # 0342ae591eeb47fcb68b3768b152c77b
 #: ../../GTC.rst:1212
+#, fuzzy
 msgid "Glaring Spotlight"
-msgstr ""
+msgstr "Glaring Spotlight"
 
 # c825e1fa6a8f48019da7fcee7cff1f07
 #: ../../GTC.rst:1209
@@ -3531,8 +3673,9 @@ msgstr ""
 
 # c5eac6bf4b2b42af9b5cb3cfe9248df9
 #: ../../GTC.rst:1218
+#, fuzzy
 msgid "Gruul Keyrune"
-msgstr ""
+msgstr "Gruul Keyrune"
 
 # a433da4f8b3d4931ad660d1094e3be83
 # c1bd5c73a17d4a2ab588b9b51d21fc56
@@ -3551,8 +3694,9 @@ msgstr ""
 
 # 893e684288654d1fac9f9b8ac4db41f3
 #: ../../GTC.rst:1224
+#, fuzzy
 msgid "Illusionist's Bracers"
-msgstr ""
+msgstr "Illusionist's Bracers"
 
 # 846a43207c7d4b67b9e14ff2e5a7a40f
 #: ../../GTC.rst:1221
@@ -3572,13 +3716,15 @@ msgstr "Wyposaż |mana_3|"
 
 # 76ed43e3dffb45e3b9904601e041cde8
 #: ../../GTC.rst:1228
+#, fuzzy
 msgid "Millennial Gargoyle"
-msgstr ""
+msgstr "Millennial Gargoyle"
 
 # 8f7ed02c1fa147d8841506982c240e8b
 #: ../../GTC.rst:1234
+#, fuzzy
 msgid "Orzhov Keyrune"
-msgstr ""
+msgstr "Orzhov Keyrune"
 
 # 07de1a040b464dddad5c708d74770152
 # ecb704438be442ba9e6cace881da355c
@@ -3597,8 +3743,9 @@ msgstr ""
 
 # 25e3b6e5ea104fa495ecd172b46d7167
 #: ../../GTC.rst:1240
+#, fuzzy
 msgid "Prophetic Prism"
-msgstr ""
+msgstr "Prophetic Prism"
 
 # 178504c1a45242178270a1f52daf207e
 #: ../../GTC.rst:1237
@@ -3612,8 +3759,9 @@ msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
 # 91f186cbbb344e9684cfc735f59e7bd9
 #: ../../GTC.rst:1244
+#, fuzzy
 msgid "Razortip Whip"
-msgstr ""
+msgstr "Razortip Whip"
 
 # e37ca06b70c2488fa947aaac0d9ef5e8
 #: ../../GTC.rst:1243
@@ -3626,8 +3774,9 @@ msgstr ""
 
 # cc531d0dd4be442dadc71f893f1f1a43
 #: ../../GTC.rst:1250
+#, fuzzy
 msgid "Riot Gear"
-msgstr ""
+msgstr "Riot Gear"
 
 # 723bdf3fffba4c17a613b264e3415a0c
 #: ../../GTC.rst:1247
@@ -3645,8 +3794,9 @@ msgstr ""
 
 # 843204fd03c64e4b921f8254d0a7a730
 #: ../../GTC.rst:1256
+#, fuzzy
 msgid "Simic Keyrune"
-msgstr ""
+msgstr "Simic Keyrune"
 
 # eb02b48e44824655baa7f5c8aa97b0d4
 # 33dd5725685d4e989fdd39824b81df5b
@@ -3667,8 +3817,9 @@ msgstr ""
 
 # 9770a03be97a40c6a1d73205e39aae9c
 #: ../../GTC.rst:1262
+#, fuzzy
 msgid "Skyblinder Staff"
-msgstr ""
+msgstr "Skyblinder Staff"
 
 # f1fe1b47e8a7474ebbf3d4b79f21bb43
 #: ../../GTC.rst:1259
@@ -3689,8 +3840,9 @@ msgstr ""
 
 # 0abfd1d1fde44adfa5bd575fa2e718c1
 #: ../../GTC.rst:1268
+#, fuzzy
 msgid "Boros Guildgate"
-msgstr ""
+msgstr "Boros Guildgate"
 
 # a303781413a341c487e1f8d439eb00a4
 #: ../../GTC.rst:1265
@@ -3699,8 +3851,9 @@ msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # d242917238044f3faffb800675d4a107
 #: ../../GTC.rst:1274
+#, fuzzy
 msgid "Breeding Pool"
-msgstr ""
+msgstr "Breeding Pool"
 
 # 911f6277850f4d29a090a08d14d48a5d
 #: ../../GTC.rst:1271
@@ -3719,8 +3872,9 @@ msgstr ""
 
 # 3029c5f56974428e841e8f8c020e6f0e
 #: ../../GTC.rst:1280
+#, fuzzy
 msgid "Dimir Guildgate"
-msgstr ""
+msgstr "Dimir Guildgate"
 
 # 6ea92957886b4a7ca5445808e11fee79
 #: ../../GTC.rst:1277
@@ -3729,8 +3883,9 @@ msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # 5caaa0abcf434d7588c68e7a046862c0
 #: ../../GTC.rst:1286
+#, fuzzy
 msgid "Godless Shrine"
-msgstr ""
+msgstr "Godless Shrine"
 
 # 16accc0a34814dea89f73329b1727669
 #: ../../GTC.rst:1283
@@ -3749,8 +3904,9 @@ msgstr ""
 
 # 2dd15ec39b0e4f62b114e65270c26c5b
 #: ../../GTC.rst:1292
+#, fuzzy
 msgid "Gruul Guildgate"
-msgstr ""
+msgstr "Gruul Guildgate"
 
 # 88cffb06b8304954940c9c632c3255ae
 #: ../../GTC.rst:1289
@@ -3798,8 +3954,9 @@ msgstr "Simic Guildgate wchodzi na pole walki zatapowany."
 
 # 6075bf4bbff542aa9d3524b76af74199
 #: ../../GTC.rst:1316
+#, fuzzy
 msgid "Stomping Ground"
-msgstr ""
+msgstr "Stomping Ground"
 
 # 038d396e9a494a40aa049c08cac8de98
 #: ../../GTC.rst:1313
@@ -3818,8 +3975,9 @@ msgstr ""
 
 # 69171bbce7764beb896a293d37b75809
 #: ../../GTC.rst:1322
+#, fuzzy
 msgid "Thespian's Stage"
-msgstr ""
+msgstr "Thespian's Stage"
 
 #: ../../GTC.rst:1319
 msgid "|tap|: Add |colorless|."
