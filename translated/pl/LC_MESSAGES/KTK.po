@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 14:02+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -1030,8 +1030,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być celem czarów lub zdolności władanych "
-"przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
+"władane przez twoich przeciwników.)"
 
 # 8b19038da50f46499ecf1e8f5bad90d2
 #: ../../KTK.rst:350
@@ -1423,7 +1423,7 @@ msgid ""
 "destroy it.)"
 msgstr ""
 "Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby go zniszczyć.)"
+"wystarcza, aby został zniszczony.)"
 
 # ddde3f3171da4ac586984ba755d60d2b
 #: ../../KTK.rst:490
@@ -1964,9 +1964,8 @@ msgstr ""
 
 # 9fc75f87cfac4ec5b5078e140c2b8321
 #: ../../KTK.rst:664
-#, fuzzy
 msgid "Tormenting Voice"
-msgstr "Tormenting Voice"
+msgstr "Tormenting Voice (Dręczący Głos)"
 
 # 00fca3b16c7d4d63ad3ae700052ca95c
 #: ../../KTK.rst:661
@@ -1982,7 +1981,7 @@ msgstr "Trumpet Blast"
 # 7695860968954f9c869056de0581cc79
 #: ../../KTK.rst:667
 msgid "Attacking creatures get +2/+0 until end of turn."
-msgstr ""
+msgstr "Atakujące stwory dostają +2/+0 do końca tury."
 
 # cc3648d9c5544858b9f4a7487865be2c
 #: ../../KTK.rst:674
@@ -2121,7 +2120,7 @@ msgstr "Highland Game"
 # 7ac0901c19a9450bb2f456fc8ff1cb41
 #: ../../KTK.rst:723
 msgid "When Highland Game dies, you gain 2 life."
-msgstr "Kiedy Highland Game umiera, dostajesz 2 życia."
+msgstr "Kiedy ten stwór umrze, zyskujesz 2 życia."
 
 # ae2607f3e3c74e7cb4180a32994a03c6
 #: ../../KTK.rst:734
