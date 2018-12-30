@@ -3,11 +3,14 @@
  Spis zmian
 ************
 
+208-12-30
+    `Dominaria<DOM>` 100%. `Core Set 2019<M19>` 49%.
+
 2018-12-29
-    Ixalan 100%, Dominaria 55%.
+    `Ixalan<XLN>` 100%, `Dominaria<DOM>` 66%.
 
 2018-12-28
-    Testowe uruchomienie strony mtgpopolsku.pl - w pełni przetłumaczone dodatki z aktualnego Standardu: :doc:`Guilds of Ravnica<GRN>`, :doc:`Rivals of Ixalan<RIX>` oraz częściowo pozostałe dodatki aż do New Phyrexia.
+    Testowe uruchomienie strony mtgpopolsku.pl - w pełni przetłumaczone dodatki z aktualnego Standardu: :doc:`Guilds of Ravnica<GRN>`, :doc:`Rivals of Ixalan<RIX>` oraz częściowo pozostałe dodatki aż do `New Phyrexia<NPH>`.
 
     Zmiana tłumaczenia słowa "tap" - mimo że "zaznaczyć" (i analogicznie "odznaczyć" dla "untap") jest bardziej po polsku, to akurat to słowo jest mocno zakorzenione w slangu i występuje niezmienione w innych lokalizacjach gry.
 

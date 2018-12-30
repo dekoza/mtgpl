@@ -24,8 +24,8 @@ Standard
 --------
 
 * :doc:`Guilds of Ravnica<GRN>` (100%)
-* :doc:`Magic 2019 Core Set<M19>` (31%)
-* :doc:`Dominaria<DOM>` (55%)
+* :doc:`Magic 2019 Core Set<M19>` (49%)
+* :doc:`Dominaria<DOM>` (100%)
 * :doc:`Rivals of Ixalan<RIX>` (100%)
 * :doc:`Ixalan<XLN>` (100%)
 
