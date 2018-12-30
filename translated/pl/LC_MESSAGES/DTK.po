@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 16:01+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dtk/pl/>\n"
 "Language: pl\n"
@@ -1245,7 +1245,7 @@ msgid ""
 "destroy it.)"
 msgstr ""
 "Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby go zniszczyć.)"
+"wystarcza, aby został zniszczony.)"
 
 #: ../../DTK.rst:590
 msgid "Hedonist's Trove"
@@ -1305,8 +1305,9 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:608
+#, fuzzy
 msgid "Mind Rot"
-msgstr ""
+msgstr "Mind Rot"
 
 #: ../../DTK.rst:607
 msgid "Target player discards two cards."
@@ -1901,6 +1902,8 @@ msgid ""
 "Target creature you control deals damage equal to its power to target "
 "creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
+"wskazanemu stworowi poza twoim władaniem."
 
 #: ../../DTK.rst:886
 msgid "Thunderbreak Regent"
@@ -1914,7 +1917,7 @@ msgstr ""
 
 #: ../../DTK.rst:892
 msgid "Tormenting Voice"
-msgstr ""
+msgstr "Tormenting Voice (Dręczący Głos)"
 
 #: ../../DTK.rst:889
 msgid "As an additional cost to cast this spell, discard a card."
@@ -2109,8 +2112,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być celem czarów lub zdolności władanych "
-"przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
+"władane przez twoich przeciwników.)"
 
 #: ../../DTK.rst:984
 msgid "Deathmist Raptor"
@@ -2801,7 +2804,7 @@ msgstr ""
 
 #: ../../DTK.rst:1307
 msgid "Target creature gets -3/-3 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje -3/-3 do końca tury."
 
 #: ../../DTK.rst:1309
 msgid "Destroy target planeswalker."
