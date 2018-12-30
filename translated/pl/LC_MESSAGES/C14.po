@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 16:01+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -2692,8 +2692,9 @@ msgid ""
 msgstr ""
 
 #: ../../C14.rst:1184
+#, fuzzy
 msgid "Reclamation Sage"
-msgstr ""
+msgstr "Reclamation Sage"
 
 #: ../../C14.rst:1183
 msgid ""
@@ -2772,7 +2773,7 @@ msgid ""
 "destroy it.)"
 msgstr ""
 "Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby go zniszczyć.)"
+"wystarcza, aby został zniszczony.)"
 
 #: ../../C14.rst:1218
 msgid "Timberwatch Elf"
@@ -3814,7 +3815,7 @@ msgstr ""
 
 #: ../../C14.rst:1746
 msgid "Reliquary Tower"
-msgstr ""
+msgstr "Reliquary Tower (Wieża Relikwiarzy)"
 
 #: ../../C14.rst:1743
 msgid "You have no maximum hand size."
