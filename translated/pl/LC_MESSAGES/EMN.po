@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 16:01+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/emn/pl/>\n"
 "Language: pl\n"
@@ -1345,7 +1345,7 @@ msgstr ""
 
 #: ../../EMN.rst:606
 msgid "Murder"
-msgstr ""
+msgstr "Murder (Morderstwo)"
 
 #: ../../EMN.rst:605
 msgid "Destroy target creature."
@@ -1400,8 +1400,9 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:630
+#, fuzzy
 msgid "Rise from the Grave"
-msgstr ""
+msgstr "Rise from the Grave"
 
 #: ../../EMN.rst:629
 msgid ""
@@ -1409,6 +1410,9 @@ msgid ""
 "control. That creature is a black Zombie in addition to its other colors and "
 "types."
 msgstr ""
+"Umieść wskazaną kartę stwora z dowolnego cmentarza na polu walki pod twoim "
+"władaniem. Ów stwór jest dodatkowo czarnym Zombi oprócz swoich pozostałych "
+"kolorów i typów."
 
 #: ../../EMN.rst:636
 msgid "Ruthless Disposal"
@@ -2599,8 +2603,9 @@ msgid "Equipped creature gets +2/+2."
 msgstr ""
 
 #: ../../EMN.rst:1210
+#, fuzzy
 msgid "Field Creeper"
-msgstr ""
+msgstr "Field Creeper"
 
 #: ../../EMN.rst:1216
 msgid "Geist-Fueled Scarecrow"
