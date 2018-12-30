@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 23:02+0000\n"
+"PO-Revision-Date: 2018-12-31 00:12+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -427,7 +427,6 @@ msgstr "Pontiff of Blight (Arcykapłan Zarazy)"
 # 16d5d887a4c140949b17cc3cd85a6424
 # fe1dfbf03a484163b3f7823e2b4bda93
 #: ../../DGM.rst:135 ../../DGM.rst:561
-#, fuzzy
 msgid ""
 "Extort (Whenever you cast a spell, you may pay |mana_wb|. If you do, each "
 "opponent loses 1 life and you gain that much life.)"
@@ -2483,8 +2482,9 @@ msgstr "Brama Gildii Azorius wchodzi na pole walki zatapowana."
 
 # a8f3f68c9e894e0297cc00a1f653663a
 #: ../../DGM.rst:868
+#, fuzzy
 msgid "Boros Guildgate"
-msgstr "Brama Gildii Boros"
+msgstr "Boros Guildgate"
 
 # 529f9c1321fe4c20b749a1ad315be735
 # Ciekawa koncepcja na tłumaczenie "tapped" - wymaga jeszcze pracy, ale podoba mi się koncepcja.
@@ -2494,8 +2494,9 @@ msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # c101d66f67f1469b95f590021f50c52a
 #: ../../DGM.rst:874
+#, fuzzy
 msgid "Dimir Guildgate"
-msgstr ""
+msgstr "Dimir Guildgate"
 
 # d93cfb38da1e4c0cbfa29a11e0b1d940
 #: ../../DGM.rst:871
@@ -2514,8 +2515,9 @@ msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # ef8d2607b312425eb36b219fa5383779
 #: ../../DGM.rst:886
+#, fuzzy
 msgid "Gruul Guildgate"
-msgstr ""
+msgstr "Gruul Guildgate"
 
 # 8a46b996b9dd4172993b88a2c9475053
 #: ../../DGM.rst:883
