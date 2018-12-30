@@ -4,7 +4,7 @@
 ************
 
 208-12-30
-    `Dominaria<DOM>` 100%. `Core Set 2019<M19>` 49%.
+    `Dominaria<DOM>` 100%. `Core Set 2019<M19>` 100%.
 
 2018-12-29
     `Ixalan<XLN>` 100%, `Dominaria<DOM>` 66%.
