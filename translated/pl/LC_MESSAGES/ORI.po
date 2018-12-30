@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 14:02+0000\n"
+"PO-Revision-Date: 2018-12-30 16:01+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -297,8 +297,9 @@ msgstr ""
 "na polu walki, a następnie przetasować twoją bibliotekę."
 
 #: ../../ORI.rst:124
+#, fuzzy
 msgid "Knightly Valor"
-msgstr ""
+msgstr "Knightly Valor"
 
 #: ../../ORI.rst:121
 msgid ""
@@ -310,7 +311,7 @@ msgstr ""
 
 #: ../../ORI.rst:123
 msgid "Enchanted creature gets +2/+2 and has vigilance."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma czujność."
 
 #: ../../ORI.rst:130
 msgid "Kytheon, Hero of Akros"
@@ -364,7 +365,7 @@ msgstr ""
 
 #: ../../ORI.rst:147
 msgid "Creatures you control get +2/+1 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../ORI.rst:149
 msgid ""
@@ -374,15 +375,13 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:154
+#, fuzzy
 msgid "Mighty Leap"
-msgstr ""
+msgstr "Mighty Leap"
 
 #: ../../ORI.rst:153
-#, fuzzy
 msgid "Target creature gets +2/+2 and gains flying until end of turn."
-msgstr ""
-"Wskazany stwór do końca tury dostaje +1/+1 za każdego stwora pod twoim "
-"władaniem."
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
 
 #: ../../ORI.rst:160
 msgid "Murder Investigation"
@@ -495,7 +494,7 @@ msgstr ""
 
 #: ../../ORI.rst:205
 msgid "Destroy target tapped creature."
-msgstr ""
+msgstr "Zniszcz wskazanego zatapowanego stwora."
 
 #: ../../ORI.rst:212
 msgid "Topan Freeblade"
@@ -611,8 +610,9 @@ msgstr ""
 "artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../ORI.rst:268
+#, fuzzy
 msgid "Bone to Ash"
-msgstr ""
+msgstr "Bone to Ash"
 
 #: ../../ORI.rst:265
 msgid "Counter target creature spell."
@@ -706,7 +706,7 @@ msgstr "Odtapuj wskazanego stwora."
 
 #: ../../ORI.rst:310
 msgid "Disperse"
-msgstr ""
+msgstr "Disperse (Rozproszenie)"
 
 #: ../../ORI.rst:309
 msgid "Return target nonland permanent to its owner's hand."
@@ -864,7 +864,7 @@ msgstr ""
 
 #: ../../ORI.rst:379 ../../ORI.rst:1235
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../ORI.rst:381
 msgid ""
@@ -1330,14 +1330,17 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:582
+#, fuzzy
 msgid "Infernal Scarring"
-msgstr ""
+msgstr "Infernal Scarring"
 
 #: ../../ORI.rst:581
 msgid ""
 "Enchanted creature gets +2/+0 and has \"When this creature dies, draw a card."
 "\""
 msgstr ""
+"Zauroczony stwór dostaje +2/+0 i ma zdolność \"Kiedy ten stwór umrze, "
+"dobierz kartę.\""
 
 #: ../../ORI.rst:586
 msgid "Infinite Obliteration"
