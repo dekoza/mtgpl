@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 14:02+0000\n"
+"PO-Revision-Date: 2018-12-30 16:01+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bfz/pl/>\n"
 "Language: pl\n"
@@ -380,12 +380,13 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:164
+#, fuzzy
 msgid "Inspired Charge"
-msgstr ""
+msgstr "Inspired Charge"
 
 #: ../../BFZ.rst:163
 msgid "Creatures you control get +2/+1 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../BFZ.rst:168
 msgid "Kitesail Scout"
@@ -560,7 +561,7 @@ msgstr ""
 
 #: ../../BFZ.rst:239
 msgid "Destroy target tapped creature."
-msgstr ""
+msgstr "Zniszcz wskazanego zatapowanego stwora."
 
 #: ../../BFZ.rst:241
 msgid ""
@@ -794,13 +795,15 @@ msgstr ""
 
 #: ../../BFZ.rst:370
 msgid "Anticipate"
-msgstr ""
+msgstr "Anticipate (Antycypuj)"
 
 #: ../../BFZ.rst:369
 msgid ""
 "Look at the top three cards of your library. Put one of them into your hand "
 "and the rest on the bottom of your library in any order."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../BFZ.rst:374
 msgid "Brilliant Spectrum"
