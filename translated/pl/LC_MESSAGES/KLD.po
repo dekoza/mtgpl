@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 16:01+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
@@ -1102,8 +1102,9 @@ msgid "Whenever you discard a card, you lose 1 life."
 msgstr ""
 
 #: ../../KLD.rst:506
+#, fuzzy
 msgid "Mind Rot"
-msgstr ""
+msgstr "Mind Rot"
 
 #: ../../KLD.rst:505
 msgid "Target player discards two cards."
@@ -1800,14 +1801,17 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:826
+#, fuzzy
 msgid "Ghirapur Guide"
-msgstr ""
+msgstr "Ghirapur Guide"
 
 #: ../../KLD.rst:825
 msgid ""
 "|mana_2| |mana_g|: Target creature you control can't be blocked by creatures "
 "with power 2 or less this turn."
 msgstr ""
+"|mana_2| |mana_g|: Wskazany stwór pod twoim władaniem nie może być w tej "
+"turze blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../KLD.rst:832
 msgid "Highspire Artisan"
@@ -2380,7 +2384,7 @@ msgstr ""
 
 #: ../../KLD.rst:1087
 msgid "|tap|: Add one mana of any color."
-msgstr ""
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../KLD.rst:1098
 msgid "Deadlock Trap"
@@ -3048,9 +3052,8 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1446
-#, fuzzy
 msgid "Stone Quarry"
-msgstr "Stone Quarry"
+msgstr "Stone Quarry (Kamieniołom)"
 
 #: ../../KLD.rst:1443
 msgid "Stone Quarry enters the battlefield tapped."
@@ -3101,9 +3104,8 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1473
-#, fuzzy
 msgid "Woodland Stream"
-msgstr "Woodland Stream"
+msgstr "Woodland Stream (Leśny Strumień)"
 
 #: ../../KLD.rst:1471
 msgid "Woodland Stream enters the battlefield tapped."
