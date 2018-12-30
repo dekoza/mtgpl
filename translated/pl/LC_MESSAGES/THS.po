@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 14:02+0000\n"
+"PO-Revision-Date: 2018-12-30 16:01+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -1210,8 +1210,9 @@ msgstr "Zauroczony stwór dostaje +2/+2 i ma latanie."
 
 # 77a67e8c68ac4e2da16cb25b4b01f993
 #: ../../THS.rst:316
+#, fuzzy
 msgid "Omenspeaker"
-msgstr ""
+msgstr "Omenspeaker"
 
 # dffc25db752743c5885fa52661bbe2d7
 # 1d193b6b9ef545989fce781fd2815132
@@ -3167,9 +3168,8 @@ msgid "Bow of Nylea deals 2 damage to target creature with flying."
 msgstr "albo Bow of Nylea zadaje 2 obrażenia wskazanemu stworowi z lataniem"
 
 #: ../../THS.rst:843
-#, fuzzy
 msgid "You gain 3 life."
-msgstr "albo zyskujesz 3 życia"
+msgstr "Zyskujesz 3 życia."
 
 #: ../../THS.rst:845
 #, fuzzy
@@ -4457,7 +4457,7 @@ msgstr "Guardians of Meletis (Strażnicy z Meletis)"
 
 #: ../../THS.rst:1203
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 # 4ee4065b9843493eb32c196d7a2f7c12
 #: ../../THS.rst:1208
