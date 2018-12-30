@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 16:01+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
@@ -1525,12 +1525,13 @@ msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
 msgstr ""
 
 #: ../../AKH.rst:710
+#, fuzzy
 msgid "Electrify"
-msgstr ""
+msgstr "Electrify"
 
 #: ../../AKH.rst:709
 msgid "Electrify deals 4 damage to target creature."
-msgstr ""
+msgstr "Ten czar zadaje 4 obrażenia wskazanemu stworowi."
 
 #: ../../AKH.rst:714
 msgid "Emberhorn Minotaur"
@@ -1743,7 +1744,7 @@ msgstr ""
 
 #: ../../AKH.rst:801
 msgid "Attacking creatures get +2/+0 until end of turn."
-msgstr ""
+msgstr "Atakujące stwory dostają +2/+0 do końca tury."
 
 #: ../../AKH.rst:810
 msgid "Soul-Scar Mage"
@@ -1782,7 +1783,7 @@ msgstr ""
 
 #: ../../AKH.rst:826
 msgid "Tormenting Voice"
-msgstr ""
+msgstr "Tormenting Voice (Dręczący Głos)"
 
 #: ../../AKH.rst:823
 msgid "As an additional cost to cast this spell, discard a card."
@@ -1966,7 +1967,7 @@ msgstr "Giant Spider (Gigantyczny Pająk)"
 
 #: ../../AKH.rst:914
 msgid "Gift of Paradise"
-msgstr ""
+msgstr "Gift of Paradise (Dar Raju)"
 
 #: ../../AKH.rst:909
 msgid "Enchant land"
@@ -2019,7 +2020,8 @@ msgstr ""
 #: ../../AKH.rst:931
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bitewne, które mogłyby być zadane w tej turze."
+"Zażegnaj wszystkie obrażenia bitewne, które mogłyby zostać zadane w tej "
+"turze."
 
 #: ../../AKH.rst:940
 msgid "Honored Hydra"
@@ -2163,8 +2165,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być celem czarów lub zdolności władanych "
-"przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
+"władane przez twoich przeciwników.)"
 
 #: ../../AKH.rst:1002
 msgid "Shed Weakness"
@@ -2333,14 +2335,17 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1074
+#, fuzzy
 msgid "Enigma Drake"
-msgstr ""
+msgstr "Enigma Drake"
 
 #: ../../AKH.rst:1073
 msgid ""
 "Enigma Drake's power is equal to the number of instant and sorcery cards in "
 "your graveyard."
 msgstr ""
+"Siła tego stwora jest równa liczbie kart sztuczek i obrzędów w twoim "
+"cmentarzu."
 
 #: ../../AKH.rst:1080
 msgid "Hapatra, Vizier of Poisons"
@@ -3174,9 +3179,8 @@ msgid "Whenever Graceful Cat attacks, it gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../AKH.rst:1560
-#, fuzzy
 msgid "Stone Quarry"
-msgstr "Stone Quarry"
+msgstr "Stone Quarry (Kamieniołom)"
 
 #: ../../AKH.rst:1557
 msgid "Stone Quarry enters the battlefield tapped."
@@ -3224,12 +3228,13 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1580
+#, fuzzy
 msgid "Tattered Mummy"
-msgstr ""
+msgstr "Tattered Mummy"
 
 #: ../../AKH.rst:1579
 msgid "When Tattered Mummy dies, each opponent loses 2 life."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, każdy przeciwnik traci 2 życia."
 
 #: ../../AKH.rst:1586
 #, fuzzy
@@ -3271,9 +3276,8 @@ msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../AKH.rst:1604
-#, fuzzy
 msgid "Highland Lake"
-msgstr "Highland Lake"
+msgstr "Highland Lake (Górskie Jezioro)"
 
 #: ../../AKH.rst:1601
 msgid "Highland Lake enters the battlefield tapped."
@@ -3297,7 +3301,7 @@ msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../AKH.rst:1616
 msgid "Submerged Boneyard"
-msgstr ""
+msgstr "Submerged Boneyard (Zatopiony Cmentarz)"
 
 #: ../../AKH.rst:1613
 msgid "Submerged Boneyard enters the battlefield tapped."
@@ -3322,7 +3326,7 @@ msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../AKH.rst:1628
 msgid "Tranquil Expanse"
-msgstr ""
+msgstr "Tranquil Expanse (Spokojna Przestrzeń)"
 
 #: ../../AKH.rst:1625
 msgid "Tranquil Expanse enters the battlefield tapped."
@@ -3333,9 +3337,8 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../AKH.rst:1633
-#, fuzzy
 msgid "Woodland Stream"
-msgstr "Woodland Stream"
+msgstr "Woodland Stream (Leśny Strumień)"
 
 #: ../../AKH.rst:1631
 msgid "Woodland Stream enters the battlefield tapped."
