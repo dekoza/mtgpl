@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 23:10+0000\n"
+"PO-Revision-Date: 2018-12-30 14:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -1640,6 +1640,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 #: ../../M19.rst:736
 msgid "Inferno Hellion"
@@ -2643,7 +2645,7 @@ msgstr ""
 
 #: ../../M19.rst:1225
 msgid "Equipped creature gets +2/+0."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +2/+0."
 
 #: ../../M19.rst:1227 ../../M19.rst:1241
 msgid ""
@@ -2703,7 +2705,7 @@ msgstr ""
 
 #: ../../M19.rst:1249
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../M19.rst:1256
 msgid "Skyscanner"
@@ -2806,7 +2808,7 @@ msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../M19.rst:1304
 msgid "Meandering River"
-msgstr ""
+msgstr "Meandering River (Meandrująca Rzeka)"
 
 #: ../../M19.rst:1301
 msgid "Meandering River enters the battlefield tapped."
@@ -2866,8 +2868,9 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../M19.rst:1336
+#, fuzzy
 msgid "Timber Gorge"
-msgstr ""
+msgstr "Timber Gorge"
 
 #: ../../M19.rst:1333
 msgid "Timber Gorge enters the battlefield tapped."
@@ -3320,4 +3323,4 @@ msgstr ""
 
 #: ../../M19.rst:1619
 msgid "Llanowar Elves"
-msgstr "Llanowarskie elfy"
+msgstr "Llanowarskie Elfy"
