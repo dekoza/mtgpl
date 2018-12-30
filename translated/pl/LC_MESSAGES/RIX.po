@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 14:02+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -799,8 +799,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być celem czarów lub zdolności władanych "
-"przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
+"władane przez twoich przeciwników.)"
 
 #: ../../RIX.rst:312
 #, fuzzy
@@ -2791,9 +2791,8 @@ msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../RIX.rst:1084
-#, fuzzy
 msgid "Highland Lake"
-msgstr "Highland Lake"
+msgstr "Highland Lake (Górskie Jezioro)"
 
 #: ../../RIX.rst:1081
 msgid "Highland Lake enters the battlefield tapped."
@@ -2804,9 +2803,8 @@ msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../RIX.rst:1090
-#, fuzzy
 msgid "Stone Quarry"
-msgstr "Stone Quarry"
+msgstr "Stone Quarry (Kamieniołom)"
 
 #: ../../RIX.rst:1087
 msgid "Stone Quarry enters the battlefield tapped."
@@ -2817,9 +2815,8 @@ msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../RIX.rst:1096
-#, fuzzy
 msgid "Woodland Stream"
-msgstr "Woodland Stream"
+msgstr "Woodland Stream (Leśny Strumień)"
 
 #: ../../RIX.rst:1093
 msgid "Woodland Stream enters the battlefield tapped."
@@ -2882,7 +2879,7 @@ msgid ""
 "destroy it.)"
 msgstr ""
 "Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby go zniszczyć.)"
+"wystarcza, aby został zniszczony.)"
 
 #: ../../RIX.rst:1132
 #, fuzzy
