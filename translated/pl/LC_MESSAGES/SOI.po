@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 16:01+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/soi/pl/>\n"
 "Language: pl\n"
@@ -1570,13 +1570,15 @@ msgstr ""
 
 #: ../../SOI.rst:718
 msgid "Macabre Waltz"
-msgstr ""
+msgstr "Macabre Waltz (Makabryczny Walc)"
 
 #: ../../SOI.rst:717
 msgid ""
 "Return up to two target creature cards from your graveyard to your hand, "
 "then discard a card."
 msgstr ""
+"Przywróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do "
+"twojej ręki, następnie odrzuć kartę."
 
 #: ../../SOI.rst:724
 msgid "Markov Dreadknight"
@@ -1694,7 +1696,7 @@ msgid ""
 "destroy it.)"
 msgstr ""
 "Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby go zniszczyć.)"
+"wystarcza, aby został zniszczony.)"
 
 #: ../../SOI.rst:784
 msgid "Relentless Dead"
@@ -2383,7 +2385,7 @@ msgstr ""
 
 #: ../../SOI.rst:1100
 msgid "Tormenting Voice"
-msgstr ""
+msgstr "Tormenting Voice (Dręczący Głos)"
 
 #: ../../SOI.rst:1097
 msgid "As an additional cost to cast this spell, discard a card."
@@ -2623,7 +2625,7 @@ msgstr ""
 
 #: ../../SOI.rst:1205
 msgid "Enchanted creature gets +3/+3."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +3/+3."
 
 #: ../../SOI.rst:1207
 msgid "As long as enchanted creature is a Human, it has trample."
@@ -2801,7 +2803,7 @@ msgstr ""
 
 #: ../../SOI.rst:1285
 msgid "Put two +1/+1 counters on target creature."
-msgstr ""
+msgstr "Umieść dwa znaczniki +1/+1 na wskazanym stworze."
 
 #: ../../SOI.rst:1287
 msgid ""
@@ -2865,14 +2867,17 @@ msgid "|mana_5| |mana_g|: Quilled Wolf gets +4/+4 until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:1316
+#, fuzzy
 msgid "Rabid Bite"
-msgstr ""
+msgstr "Rabid Bite"
 
 #: ../../SOI.rst:1315
 msgid ""
 "Target creature you control deals damage equal to its power to target "
 "creature you don't control."
 msgstr ""
+"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
+"wskazanemu stworowi poza twoim władaniem."
 
 #: ../../SOI.rst:1322
 msgid "Root Out"
@@ -2994,8 +2999,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1372
+#, fuzzy
 msgid "Thornhide Wolves"
-msgstr ""
+msgstr "Thornhide Wolves"
 
 #: ../../SOI.rst:1380
 msgid "Tireless Tracker"
@@ -3336,13 +3342,14 @@ msgstr ""
 
 #: ../../SOI.rst:1520
 msgid "Explosive Apparatus"
-msgstr ""
+msgstr "Explosive Apparatus (Wybuchowy Aparat)"
 
 #: ../../SOI.rst:1519
 msgid ""
 "|mana_3|, |tap|, Sacrifice Explosive Apparatus: It deals 2 damage to any "
 "target."
 msgstr ""
+"|mana_3|, |tap|, poświęć ten permanent: Zadaje on 2 obrażenia w dowolny cel."
 
 #: ../../SOI.rst:1524
 msgid "Harvest Hand"
@@ -3645,9 +3652,8 @@ msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../SOI.rst:1676
-#, fuzzy
 msgid "Highland Lake"
-msgstr "Highland Lake"
+msgstr "Highland Lake (Górskie Jezioro)"
 
 #: ../../SOI.rst:1673
 msgid "Highland Lake enters the battlefield tapped."
@@ -3672,9 +3678,8 @@ msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../SOI.rst:1688
-#, fuzzy
 msgid "Stone Quarry"
-msgstr "Stone Quarry"
+msgstr "Stone Quarry (Kamieniołom)"
 
 #: ../../SOI.rst:1685
 msgid "Stone Quarry enters the battlefield tapped."
@@ -3719,9 +3724,8 @@ msgid "Flying, lifelink, indestructible, haste"
 msgstr ""
 
 #: ../../SOI.rst:1712
-#, fuzzy
 msgid "Woodland Stream"
-msgstr "Woodland Stream"
+msgstr "Woodland Stream (Leśny Strumień)"
 
 #: ../../SOI.rst:1709
 msgid "Woodland Stream enters the battlefield tapped."
