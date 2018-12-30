@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 14:02+0000\n"
+"PO-Revision-Date: 2018-12-30 16:01+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -202,8 +202,9 @@ msgstr ""
 "pod twoim władaniem."
 
 #: ../../M19.rst:68
+#, fuzzy
 msgid "Gallant Cavalry"
-msgstr ""
+msgstr "Gallant Cavalry"
 
 #: ../../M19.rst:65 ../../M19.rst:93 ../../M19.rst:147 ../../M19.rst:929
 #: ../../M19.rst:1023 ../../M19.rst:1453 ../../M19.rst:1585
@@ -220,15 +221,16 @@ msgstr ""
 
 #: ../../M19.rst:74
 msgid "Herald of Faith"
-msgstr ""
+msgstr "Herald of Faith (Herold Wiary)"
 
 #: ../../M19.rst:73
 msgid "Whenever Herald of Faith attacks, you gain 2 life."
 msgstr "Ilekroć ten stwór atakuje, zyskujesz 2 życia."
 
 #: ../../M19.rst:78
+#, fuzzy
 msgid "Hieromancer's Cage"
-msgstr ""
+msgstr "Hieromancer's Cage"
 
 #: ../../M19.rst:77
 msgid ""
@@ -240,12 +242,13 @@ msgstr ""
 "pod władaniem przeciwnika dopóki ta karta nie opuści pola walki."
 
 #: ../../M19.rst:82
+#, fuzzy
 msgid "Inspired Charge"
-msgstr ""
+msgstr "Inspired Charge"
 
 #: ../../M19.rst:81
 msgid "Creatures you control get +2/+1 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../M19.rst:86
 #, fuzzy
@@ -257,20 +260,23 @@ msgid "Destroy target artifact or enchantment. You gain 4 life."
 msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
 
 #: ../../M19.rst:90
+#, fuzzy
 msgid "Isolate"
-msgstr ""
+msgstr "Isolate"
 
 #: ../../M19.rst:89
 msgid "Exile target permanent with converted mana cost 1."
-msgstr ""
+msgstr "Wygnaj wskazany permanent o łącznym koszcie many równym 1."
 
 #: ../../M19.rst:94
+#, fuzzy
 msgid "Knight of the Tusk"
-msgstr ""
+msgstr "Knight of the Tusk"
 
 #: ../../M19.rst:100
+#, fuzzy
 msgid "Knight's Pledge"
-msgstr ""
+msgstr "Knight's Pledge"
 
 #: ../../M19.rst:97 ../../M19.rst:103 ../../M19.rst:129 ../../M19.rst:225
 #: ../../M19.rst:279 ../../M19.rst:313 ../../M19.rst:515 ../../M19.rst:845
@@ -280,11 +286,12 @@ msgstr "Zaurocz stwora"
 
 #: ../../M19.rst:99
 msgid "Enchanted creature gets +2/+2."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../M19.rst:108
+#, fuzzy
 msgid "Knightly Valor"
-msgstr ""
+msgstr "Knightly Valor"
 
 #: ../../M19.rst:105
 msgid ""
@@ -296,11 +303,12 @@ msgstr ""
 
 #: ../../M19.rst:107
 msgid "Enchanted creature gets +2/+2 and has vigilance."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +2/+2 i ma czujność."
 
 #: ../../M19.rst:114
+#, fuzzy
 msgid "Lena, Selfless Champion"
-msgstr ""
+msgstr "Lena, Selfless Champion"
 
 #: ../../M19.rst:111
 msgid ""
@@ -315,30 +323,39 @@ msgid ""
 "Sacrifice Lena: Creatures you control with power less than Lena's power gain "
 "indestructible until end of turn."
 msgstr ""
+"Poświęć tego stwora: Stwory pod twoim władaniem o sile mniejszej niż siła "
+"tego stwora zyskują niezniszczalność do końca tury."
 
 #: ../../M19.rst:118
+#, fuzzy
 msgid "Leonin Vanguard"
-msgstr ""
+msgstr "Leonin Vanguard"
 
 #: ../../M19.rst:117
 msgid ""
 "At the beginning of combat on your turn, if you control three or more "
 "creatures, Leonin Vanguard gets +1/+1 until end of turn and you gain 1 life."
 msgstr ""
+"Na początku walki w twojej turze, jeśli władasz co najmniej trzema stworami, "
+"ten stwór dostaje +1/+1 do końca tury, a ty zyskujesz 1 życie."
 
 #: ../../M19.rst:122
+#, fuzzy
 msgid "Leonin Warleader"
-msgstr ""
+msgstr "Leonin Warleader"
 
 #: ../../M19.rst:121
 msgid ""
 "Whenever Leonin Warleader attacks, create two 1/1 white Cat creature tokens "
 "with lifelink that are tapped and attacking."
 msgstr ""
+"Ilekroć ten stwór atakuje, stwórz dwa zatapowane i atakujące żetony białego "
+"stwora Kot 1/1 z więzią życia."
 
 #: ../../M19.rst:124
+#, fuzzy
 msgid "Loxodon Line Breaker"
-msgstr ""
+msgstr "Loxodon Line Breaker"
 
 #: ../../M19.rst:132
 #, fuzzy
@@ -350,18 +367,22 @@ msgid "Enchanted creature can't attack or block."
 msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../M19.rst:136
+#, fuzzy
 msgid "Make a Stand"
-msgstr ""
+msgstr "Make a Stand"
 
 #: ../../M19.rst:135
 msgid ""
 "Creatures you control get +1/+0 and gain indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy them.)"
 msgstr ""
+"Stwory pod twoim władaniem dostają do końca tury +1/+0 oraz "
+"niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie niszczą ich.)"
 
 #: ../../M19.rst:140
+#, fuzzy
 msgid "Mentor of the Meek"
-msgstr ""
+msgstr "Mentor of the Meek"
 
 #: ../../M19.rst:139
 msgid ""
@@ -372,16 +393,18 @@ msgstr ""
 "władaniem, możesz zapłacić |mana_1|. Jeśli tak zrobisz, dobierz kartę."
 
 #: ../../M19.rst:144
+#, fuzzy
 msgid "Mighty Leap"
-msgstr ""
+msgstr "Mighty Leap"
 
 #: ../../M19.rst:143
 msgid "Target creature gets +2/+2 and gains flying until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
 
 #: ../../M19.rst:150
+#, fuzzy
 msgid "Militia Bugler"
-msgstr ""
+msgstr "Militia Bugler"
 
 #: ../../M19.rst:149
 msgid ""
@@ -396,23 +419,27 @@ msgstr ""
 "biblioteki w losowej kolejności."
 
 #: ../../M19.rst:156
+#, fuzzy
 msgid "Novice Knight"
-msgstr ""
+msgstr "Novice Knight"
 
 #: ../../M19.rst:153 ../../M19.rst:423 ../../M19.rst:689 ../../M19.rst:1045
 #: ../../M19.rst:1205 ../../M19.rst:1259
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 #: ../../M19.rst:155
 msgid ""
 "As long as Novice Knight is enchanted or equipped, it can attack as though "
 "it didn't have defender."
 msgstr ""
+"O ile ten stwór jest zauroczony lub wyposażony, może atakować tak, jakby nie "
+"miał obronności."
 
 #: ../../M19.rst:158
+#, fuzzy
 msgid "Oreskos Swiftclaw"
-msgstr ""
+msgstr "Oreskos Swiftclaw"
 
 #: ../../M19.rst:166
 #, fuzzy
@@ -428,37 +455,45 @@ msgstr ""
 "końca tury."
 
 #: ../../M19.rst:172
+#, fuzzy
 msgid "Remorseful Cleric"
-msgstr ""
+msgstr "Remorseful Cleric"
 
 #: ../../M19.rst:171
 msgid ""
 "Sacrifice Remorseful Cleric: Exile all cards from target player's graveyard."
 msgstr ""
+"Poświęć tego stwora: Wygnaj wszystkie karty z cmentarza wskazanego gracza."
 
 #: ../../M19.rst:180
+#, fuzzy
 msgid "Resplendent Angel"
-msgstr ""
+msgstr "Resplendent Angel"
 
 #: ../../M19.rst:177
 msgid ""
 "At the beginning of each end step, if you gained 5 or more life this turn, "
 "create a 4/4 white Angel creature token with flying and vigilance."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli zyskałeś co najmniej 5 życia w "
+"tej turze, stwórz żeton białego stwora Anioł 4/4 z lataniem i czujnością."
 
 #: ../../M19.rst:179
 msgid ""
 "|mana_3| |mana_w| |mana_w| |mana_w|: Until end of turn, Resplendent Angel "
 "gets +2/+2 and gains lifelink."
 msgstr ""
+"|mana_3| |mana_w| |mana_w| |mana_w|: Do końca tury ten stwór dostaje +2/+2 "
+"oraz więź życia."
 
 #: ../../M19.rst:186
+#, fuzzy
 msgid "Revitalize"
-msgstr ""
+msgstr "Revitalize"
 
 #: ../../M19.rst:183
 msgid "You gain 3 life."
-msgstr ""
+msgstr "Zyskujesz 3 życia."
 
 #: ../../M19.rst:185 ../../M19.rst:247 ../../M19.rst:419 ../../M19.rst:665
 #: ../../M19.rst:1595
@@ -467,15 +502,16 @@ msgstr "Dobierz kartę."
 
 #: ../../M19.rst:190
 msgid "Rustwing Falcon"
-msgstr ""
+msgstr "Rustwing Falcon (Rdzawoskrzydły Sokół)"
 
 #: ../../M19.rst:196
+#, fuzzy
 msgid "Shield Mare"
-msgstr ""
+msgstr "Shield Mare"
 
 #: ../../M19.rst:193
 msgid "Shield Mare can't be blocked by red creatures."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez czerwone stwory."
 
 #: ../../M19.rst:195
 msgid ""
@@ -486,18 +522,22 @@ msgstr ""
 "przez przeciwnika czar lub zdolność, zyskujesz 3 życia."
 
 #: ../../M19.rst:200
+#, fuzzy
 msgid "Star-Crowned Stag"
-msgstr ""
+msgstr "Star-Crowned Stag"
 
 #: ../../M19.rst:199
 msgid ""
 "Whenever Star-Crowned Stag attacks, tap target creature defending player "
 "controls."
 msgstr ""
+"Ilekroć ten stwór atakuje, zatapuj wskazanego stwora pod władaniem "
+"przeciwnika."
 
 #: ../../M19.rst:208
+#, fuzzy
 msgid "Suncleanser"
-msgstr ""
+msgstr "Suncleanser"
 
 #: ../../M19.rst:203
 msgid "When Suncleanser enters the battlefield, choose one —"
@@ -508,24 +548,30 @@ msgid ""
 "Remove all counters from target creature. It can't have counters put on it "
 "for as long as Suncleanser remains on the battlefield."
 msgstr ""
+"Usuń wszystkie znaczniki ze wskazanego stwora. Nie może on otrzymywać "
+"znaczników dopóki niniejszy stwór jest na polu walki."
 
 #: ../../M19.rst:207
 msgid ""
 "Target opponent loses all counters. That player can't get counters for as "
 "long as Suncleanser remains on the battlefield."
 msgstr ""
+"Wskazany przeciwnik traci wszystkie znaczniki. Ów gracz nie może otrzymać "
+"znaczników dopóki ten stwór jest na polu walki."
 
 #: ../../M19.rst:212
+#, fuzzy
 msgid "Take Vengeance"
-msgstr ""
+msgstr "Take Vengeance"
 
 #: ../../M19.rst:211
 msgid "Destroy target tapped creature."
-msgstr ""
+msgstr "Zniszcz wskazanego zatapowanego stwora."
 
 #: ../../M19.rst:216
+#, fuzzy
 msgid "Trusty Packbeast"
-msgstr ""
+msgstr "Trusty Packbeast"
 
 #: ../../M19.rst:215
 msgid ""
@@ -536,50 +582,60 @@ msgstr ""
 "twojego cmentarza do twojej ręki."
 
 #: ../../M19.rst:222
+#, fuzzy
 msgid "Valiant Knight"
-msgstr ""
+msgstr "Valiant Knight"
 
 #: ../../M19.rst:219
 msgid "Other Knights you control get +1/+1."
-msgstr ""
+msgstr "Inni Rycerze pod twoim władaniem dostają +1/+1."
 
 #: ../../M19.rst:221
 msgid ""
 "|mana_3| |mana_w| |mana_w|: Knights you control gain double strike until end "
 "of turn."
 msgstr ""
+"|mana_3| |mana_w| |mana_w|: Rycerze pod twoim władaniem zyskują podwójny "
+"cios do końca tury."
 
 #: ../../M19.rst:228
+#, fuzzy
 msgid "Aether Tunnel"
-msgstr ""
+msgstr "Aether Tunnel"
 
 #: ../../M19.rst:227
 msgid "Enchanted creature gets +1/+0 and can't be blocked."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +1/+0 i nie może być blokowany."
 
 #: ../../M19.rst:232
 msgid "Anticipate"
-msgstr ""
+msgstr "Anticipate (Antycypuj)"
 
 #: ../../M19.rst:231
 msgid ""
 "Look at the top three cards of your library. Put one of them into your hand "
 "and the rest on the bottom of your library in any order."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../M19.rst:238
+#, fuzzy
 msgid "Aven Wind Mage"
-msgstr ""
+msgstr "Aven Wind Mage"
 
 #: ../../M19.rst:237
 msgid ""
 "Whenever you cast an instant or sorcery spell, Aven Wind Mage gets +1/+1 "
 "until end of turn."
 msgstr ""
+"Ilekroć rzucasz czar sztuczki lub obrzędu, ten stwór dostaje +1/+1 do końca "
+"tury."
 
 #: ../../M19.rst:242
+#, fuzzy
 msgid "Aviation Pioneer"
-msgstr ""
+msgstr "Aviation Pioneer"
 
 #: ../../M19.rst:241
 msgid ""
@@ -590,8 +646,9 @@ msgstr ""
 "artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../M19.rst:248
+#, fuzzy
 msgid "Bone to Ash"
-msgstr ""
+msgstr "Bone to Ash"
 
 #: ../../M19.rst:245 ../../M19.rst:287
 msgid "Counter target creature spell."
@@ -607,26 +664,29 @@ msgid "Counter target spell."
 msgstr "Skontruj wskazany czar."
 
 #: ../../M19.rst:260
+#, fuzzy
 msgid "Departed Deckhand"
-msgstr ""
+msgstr "Departed Deckhand"
 
 #: ../../M19.rst:255
 msgid "When Departed Deckhand becomes the target of a spell, sacrifice it."
-msgstr ""
+msgstr "Kiedy ten stwór zostanie wskazany przez czar, poświęć go."
 
 #: ../../M19.rst:257
 msgid "Departed Deckhand can't be blocked except by Spirits."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany, chyba że przez Duchy."
 
 #: ../../M19.rst:259
 msgid ""
 "|mana_3| |mana_u|: Another target creature you control can't be blocked this "
 "turn except by Spirits."
 msgstr ""
+"|mana_3| |mana_u|: Inny wskazany stwór pod twoim władaniem nie może być "
+"blokowany, chyba że przez Duchy."
 
 #: ../../M19.rst:264
 msgid "Disperse"
-msgstr ""
+msgstr "Disperse (Rozproszenie)"
 
 #: ../../M19.rst:263
 msgid "Return target nonland permanent to its owner's hand."
@@ -641,8 +701,9 @@ msgid "Draw two cards."
 msgstr "Dobierz dwie karty."
 
 #: ../../M19.rst:276
+#, fuzzy
 msgid "Djinn of Wishes"
-msgstr ""
+msgstr "Djinn of Wishes"
 
 #: ../../M19.rst:273
 msgid "Djinn of Wishes enters the battlefield with three wish counters on it."
@@ -654,28 +715,35 @@ msgid ""
 "Reveal the top card of your library. You may play that card without paying "
 "its mana cost. If you don't, exile it."
 msgstr ""
+"|mana_2| |mana_u| |mana_u|, usuń znacznik życzenia z tego stwora: Ujawnij "
+"wierzchnią kartę twojej biblioteki. Możesz zagrać ową kartę bez płacenia jej "
+"kosztu many. Jeśli tego nie zrobisz, wygnaj ją."
 
 #: ../../M19.rst:284
+#, fuzzy
 msgid "Dwindle"
-msgstr ""
+msgstr "Dwindle"
 
 #: ../../M19.rst:281
 msgid "Enchanted creature gets -6/-0."
-msgstr ""
+msgstr "Zauroczony stwór dostaje -6/-0."
 
 #: ../../M19.rst:283
 msgid ""
 "When enchanted creature blocks, destroy it. (The attacking creature remains "
 "blocked.)"
 msgstr ""
+"Kiedy zauroczony stwór zablokuje, zniszcz go. (Atakujący stwór pozostaje "
+"zablokowany.)"
 
 #: ../../M19.rst:288
 msgid "Essence Scatter"
 msgstr "Essence Scatter (Rozproszenie Esencji)"
 
 #: ../../M19.rst:292
+#, fuzzy
 msgid "Exclusion Mage"
-msgstr ""
+msgstr "Exclusion Mage"
 
 #: ../../M19.rst:291
 msgid ""
@@ -686,33 +754,38 @@ msgstr ""
 "władaniem przeciwnika do ręki jego właściciela."
 
 #: ../../M19.rst:296
+#, fuzzy
 msgid "Frilled Sea Serpent"
-msgstr ""
+msgstr "Frilled Sea Serpent"
 
 #: ../../M19.rst:295
 msgid ""
 "|mana_5| |mana_u| |mana_u|: Frilled Sea Serpent can't be blocked this turn."
 msgstr ""
+"|mana_5| |mana_u| |mana_u|: Ten stwór nie może być blokowany w tej turze."
 
 #: ../../M19.rst:300
+#, fuzzy
 msgid "Gearsmith Prodigy"
-msgstr ""
+msgstr "Gearsmith Prodigy"
 
 #: ../../M19.rst:299
 msgid "Gearsmith Prodigy gets +1/+0 as long as you control an artifact."
-msgstr ""
+msgstr "Ten stwór dostaje +1/+0 o ile władasz artefaktem."
 
 #: ../../M19.rst:304
+#, fuzzy
 msgid "Ghostform"
-msgstr ""
+msgstr "Ghostform"
 
 #: ../../M19.rst:303
 msgid "Up to two target creatures can't be blocked this turn."
-msgstr ""
+msgstr "Co najwyżej dwa wskazane stwory nie mogą być blokowane w tej turze."
 
 #: ../../M19.rst:310
+#, fuzzy
 msgid "Horizon Scholar"
-msgstr ""
+msgstr "Horizon Scholar"
 
 #: ../../M19.rst:309
 msgid ""
@@ -725,8 +798,9 @@ msgstr ""
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../M19.rst:318
+#, fuzzy
 msgid "Metamorphic Alteration"
-msgstr ""
+msgstr "Metamorphic Alteration"
 
 #: ../../M19.rst:315
 msgid "As Metamorphic Alteration enters the battlefield, choose a creature."
@@ -734,39 +808,46 @@ msgstr "Kładąc tę kartę na polu walki wybierz stwora."
 
 #: ../../M19.rst:317
 msgid "Enchanted creature is a copy of the chosen creature."
-msgstr ""
+msgstr "Zauroczony stwór jest kopią wybranego stwora."
 
 #: ../../M19.rst:322
 msgid "Mirror Image"
-msgstr ""
+msgstr "Mirror Image (Lustrzany Obraz)"
 
 #: ../../M19.rst:321
 msgid ""
 "You may have Mirror Image enter the battlefield as a copy of any creature "
 "you control."
 msgstr ""
+"Możesz sprawić, że ta karta wejdzie na pole walki jako kopia dowolnego "
+"stwora pod twoim władaniem."
 
 #: ../../M19.rst:326
+#, fuzzy
 msgid "Mistcaller"
-msgstr ""
+msgstr "Mistcaller"
 
 #: ../../M19.rst:325
 msgid ""
 "Sacrifice Mistcaller: Until end of turn, if a nontoken creature would enter "
 "the battlefield and it wasn't cast, exile it instead."
 msgstr ""
+"Poświęć tego stwora: Do końca tury, jeśli nie-żetonowy stwór miałby wejść na "
+"pole walki, a nie został rzucony, zamiast tego wygnaj go."
 
 #: ../../M19.rst:330
+#, fuzzy
 msgid "Mystic Archaeologist"
-msgstr ""
+msgstr "Mystic Archaeologist"
 
 #: ../../M19.rst:329
 msgid "|mana_3| |mana_u| |mana_u|: Draw two cards."
-msgstr ""
+msgstr "|mana_3| |mana_u| |mana_u|: Dobierz dwie karty."
 
 #: ../../M19.rst:334
+#, fuzzy
 msgid "Omenspeaker"
-msgstr ""
+msgstr "Omenspeaker"
 
 #: ../../M19.rst:333
 msgid ""
@@ -780,25 +861,27 @@ msgstr ""
 
 #: ../../M19.rst:338
 msgid "Omniscience"
-msgstr ""
+msgstr "Omniscience (Wszechwiedza)"
 
 #: ../../M19.rst:337
 msgid "You may cast spells from your hand without paying their mana costs."
-msgstr ""
+msgstr "Możesz rzucać czary z twojej ręki bez płacenia ich kosztów many."
 
 #: ../../M19.rst:342
 msgid "One with the Machine"
-msgstr ""
+msgstr "One with the Machine (Jedność z Maszyną)"
 
 #: ../../M19.rst:341
 msgid ""
 "Draw cards equal to the highest converted mana cost among artifacts you "
 "control."
 msgstr ""
+"Dobierz tyle kart, ile wynosi najwyższy uproszczony koszt many spośród "
+"artefaktów pod twoim władaniem."
 
 #: ../../M19.rst:346
 msgid "Patient Rebuilding"
-msgstr ""
+msgstr "Patient Rebuilding (Cierpliwa Odbudowa)"
 
 #: ../../M19.rst:345
 msgid ""
@@ -806,34 +889,44 @@ msgid ""
 "their library into their graveyard, then you draw a card for each land card "
 "put into that graveyard this way."
 msgstr ""
+"Na początku twojego kroku utrzymania wskazany przeciwnik umieszcza trzy "
+"wierzchnie karty swojej biblioteki w swoim cmentarzu, a następnie ty "
+"dobierasz kartę za każdą kartę lądu umieszczoną w ten sposób w owym "
+"cmentarzu."
 
 #: ../../M19.rst:350
 msgid "Psychic Corrosion"
-msgstr ""
+msgstr "Psychic Corrosion (Psychiczna Korozja)"
 
 #: ../../M19.rst:349
 msgid ""
 "Whenever you draw a card, each opponent puts the top two cards of their "
 "library into their graveyard."
 msgstr ""
+"Ilekroć dobierasz kartę, każdy przeciwnik umieszcza dwie wierzchnie karty "
+"swojej biblioteki w swoim cmentarzu."
 
 #: ../../M19.rst:356
+#, fuzzy
 msgid "Sai, Master Thopterist"
-msgstr ""
+msgstr "Sai, Master Thopterist"
 
 #: ../../M19.rst:353
 msgid ""
 "Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact "
 "creature token with flying."
 msgstr ""
+"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
+"stwora Thopter 1/1 z lataniem."
 
 #: ../../M19.rst:355
 msgid "|mana_1| |mana_u|, Sacrifice two artifacts: Draw a card."
-msgstr ""
+msgstr "|mana_1| |mana_u|, poświęć dwa artefakty: Dobierz kartę."
 
 #: ../../M19.rst:360
+#, fuzzy
 msgid "Salvager of Secrets"
-msgstr ""
+msgstr "Salvager of Secrets"
 
 #: ../../M19.rst:359
 msgid ""
@@ -844,8 +937,9 @@ msgstr ""
 "obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../M19.rst:364
+#, fuzzy
 msgid "Scholar of Stars"
-msgstr ""
+msgstr "Scholar of Stars"
 
 #: ../../M19.rst:363
 msgid ""
@@ -856,16 +950,18 @@ msgstr ""
 "kartę."
 
 #: ../../M19.rst:368
+#, fuzzy
 msgid "Sift"
-msgstr ""
+msgstr "Sift"
 
 #: ../../M19.rst:367
 msgid "Draw three cards, then discard a card."
-msgstr ""
+msgstr "Dobierz trzy karty, następnie odrzuć kartę."
 
 #: ../../M19.rst:372
+#, fuzzy
 msgid "Skilled Animator"
-msgstr ""
+msgstr "Skilled Animator"
 
 #: ../../M19.rst:371
 msgid ""
@@ -879,65 +975,76 @@ msgstr ""
 
 #: ../../M19.rst:376
 msgid "Sleep"
-msgstr ""
+msgstr "Sleep (Sen)"
 
 #: ../../M19.rst:375
 msgid ""
 "Tap all creatures target player controls. Those creatures don't untap during "
 "that player's next untap step."
 msgstr ""
+"Zatapuj wszystkie stwory pod władaniem wskazanego gracza. Owe stwory nie "
+"odtapują się podczas najbliższego kroku odtapowania owego gracza."
 
 #: ../../M19.rst:380
+#, fuzzy
 msgid "Snapping Drake"
-msgstr ""
+msgstr "Snapping Drake"
 
 #: ../../M19.rst:386
+#, fuzzy
 msgid "Supreme Phantom"
-msgstr ""
+msgstr "Supreme Phantom"
 
 #: ../../M19.rst:385
 msgid "Other Spirits you control get +1/+1."
-msgstr ""
+msgstr "Inne Duchy pod twoim władaniem dostają +1/+1."
 
 #: ../../M19.rst:394
+#, fuzzy
 msgid "Surge Mare"
-msgstr ""
+msgstr "Surge Mare"
 
 #: ../../M19.rst:389
 msgid "Surge Mare can't be blocked by green creatures."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez zielone stwory."
 
 #: ../../M19.rst:391
 msgid ""
 "Whenever Surge Mare deals damage to an opponent, you may draw a card. If you "
 "do, discard a card."
 msgstr ""
+"Ilekroć ten stwór zada przeciwnikowi obrażenia bojowe, możesz dobrać kartę. "
+"Jeśli tak zrobisz, odrzuć kartę."
 
 #: ../../M19.rst:393
 msgid "|mana_1| |mana_u|: Surge Mare gets +2/-2 until end of turn."
-msgstr ""
+msgstr "|mana_1| |mana_u|: Ten stwór dostaje +2/-2 do końca tury."
 
 #: ../../M19.rst:398
 msgid "Switcheroo"
-msgstr ""
+msgstr "Switcheroo (Podmianka)"
 
 #: ../../M19.rst:397
 msgid "Exchange control of two target creatures."
-msgstr ""
+msgstr "Zamień władanie nad dwoma wskazanymi stworami."
 
 #: ../../M19.rst:406
+#, fuzzy
 msgid "Tezzeret, Artifice Master"
-msgstr ""
+msgstr "Tezzeret, Artifice Master"
 
 #: ../../M19.rst:401
 msgid "+1: Create a 1/1 colorless Thopter artifact creature token with flying."
 msgstr ""
+"+1: Stwórz żeton bezkolorowego artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../M19.rst:403
 msgid ""
 "0: Draw a card. If you control three or more artifacts, draw two cards "
 "instead."
 msgstr ""
+"0: Dobierz kartę. Jeśli władasz co najmniej trzema artefaktami, zamiast tego "
+"dobierz dwie karty."
 
 #: ../../M19.rst:405
 msgid ""
@@ -945,6 +1052,9 @@ msgid ""
 "library for a permanent card, put it onto the battlefield, then shuffle your "
 "library.\""
 msgstr ""
+"–9: Dostajesz emblemat o treści \"Na początku twojego kroku końcowego "
+"poszukaj w twojej bibliotece karty permanentu, umieść ją na polu walki, "
+"następnie przetasuj twoją bibliotekę.\""
 
 #: ../../M19.rst:408
 #, fuzzy
@@ -953,7 +1063,7 @@ msgstr "Tolarian Scholar"
 
 #: ../../M19.rst:414
 msgid "Totally Lost"
-msgstr ""
+msgstr "Totally Lost (Kompletnie Zagubiony)"
 
 #: ../../M19.rst:413
 msgid "Put target nonland permanent on top of its owner's library."
@@ -962,37 +1072,43 @@ msgstr ""
 
 #: ../../M19.rst:420
 msgid "Uncomfortable Chill"
-msgstr ""
+msgstr "Uncomfortable Chill (Nieprzyjemny Chłód)"
 
 #: ../../M19.rst:417
 msgid "Creatures your opponents control get -2/-0 until end of turn."
-msgstr ""
+msgstr "Stwory pod władaniem twoich przeciwników dostają -2/-0 do końca tury."
 
 #: ../../M19.rst:424
 msgid "Wall of Mist"
 msgstr "Wall of Mist (Ściana mgły)"
 
 #: ../../M19.rst:430
+#, fuzzy
 msgid "Windreader Sphinx"
-msgstr ""
+msgstr "Windreader Sphinx"
 
 #: ../../M19.rst:429
 msgid "Whenever a creature with flying attacks, you may draw a card."
-msgstr ""
+msgstr "Ilekroć atakuje stwór z lataniem, możesz dobrać kartę."
 
 #: ../../M19.rst:434
+#, fuzzy
 msgid "Abnormal Endurance"
-msgstr ""
+msgstr "Abnormal Endurance"
 
 #: ../../M19.rst:433
 msgid ""
 "Until end of turn, target creature gets +2/+0 and gains \"When this creature "
 "dies, return it to the battlefield tapped under its owner's control.\""
 msgstr ""
+"Do końca tury wskazany stwór dostaje +2/+0 oraz zdolność \"Kiedy ten stwór "
+"umrze, przywróć go zatapowanego na pole walki pod władanie jego właściciela."
+"\""
 
 #: ../../M19.rst:440
+#, fuzzy
 msgid "Blood Divination"
-msgstr ""
+msgstr "Blood Divination"
 
 #: ../../M19.rst:437 ../../M19.rst:461 ../../M19.rst:815
 msgid "As an additional cost to cast this spell, sacrifice a creature."
@@ -1003,56 +1119,65 @@ msgid "Draw three cards."
 msgstr "Dobierz trzy karty."
 
 #: ../../M19.rst:442
+#, fuzzy
 msgid "Bogstomper"
-msgstr ""
+msgstr "Bogstomper"
 
 #: ../../M19.rst:450
 msgid "Bone Dragon"
-msgstr ""
+msgstr "Bone Dragon (Kościany Smok)"
 
 #: ../../M19.rst:449
 msgid ""
 "|mana_3| |mana_b| |mana_b|, Exile seven other cards from your graveyard: "
 "Return Bone Dragon from your graveyard to the battlefield tapped."
 msgstr ""
+"|mana_3| |mana_b| |mana_b|, wygnaj siedem innych kart z twojego cmentarza: "
+"Przywróć tę kartę z twojego cmentarza na pole walki, zatapowaną."
 
 #: ../../M19.rst:454
 msgid "Child of Night"
 msgstr "Child of Night (Dziecię nocy)"
 
 #: ../../M19.rst:458
+#, fuzzy
 msgid "Death Baron"
-msgstr ""
+msgstr "Death Baron"
 
 #: ../../M19.rst:457
 msgid ""
 "Skeletons you control and other Zombies you control get +1/+1 and have "
 "deathtouch."
 msgstr ""
+"Szkielety pod twoim władaniem oraz inne Zombi pod twoim władaniem dostają +1/"
+"+0 i mają dotyk śmierci."
 
 #: ../../M19.rst:464
+#, fuzzy
 msgid "Demon of Catastrophes"
-msgstr ""
+msgstr "Demon of Catastrophes"
 
 #: ../../M19.rst:463
 msgid "Flying, trample"
 msgstr "Latanie, tratowanie"
 
 #: ../../M19.rst:468
+#, fuzzy
 msgid "Diregraf Ghoul"
-msgstr ""
+msgstr "Diregraf Ghoul"
 
 #: ../../M19.rst:467
 msgid "Diregraf Ghoul enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../M19.rst:472
+#, fuzzy
 msgid "Doomed Dissenter"
-msgstr ""
+msgstr "Doomed Dissenter"
 
 #: ../../M19.rst:471
 msgid "When Doomed Dissenter dies, create a 2/2 black Zombie creature token."
-msgstr ""
+msgstr "Kiedy ten stwór umrze, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../M19.rst:476
 msgid "Duress"
@@ -1067,16 +1192,18 @@ msgstr ""
 "stworem ani lądem. Ów gracz odrzuca ową kartę."
 
 #: ../../M19.rst:480
+#, fuzzy
 msgid "Epicure of Blood"
-msgstr ""
+msgstr "Epicure of Blood"
 
 #: ../../M19.rst:479
 msgid "Whenever you gain life, each opponent loses 1 life."
-msgstr ""
+msgstr "Ilekroć zyskujesz życie, każdy przeciwnik traci po 1 życiu."
 
 #: ../../M19.rst:488
+#, fuzzy
 msgid "Fell Specter"
-msgstr ""
+msgstr "Fell Specter"
 
 #: ../../M19.rst:485
 msgid ""
@@ -1089,18 +1216,22 @@ msgid "Whenever an opponent discards a card, that player loses 2 life."
 msgstr "Ilekroć przeciwnik odrzuca kartę, ów gracz traci 2 życia."
 
 #: ../../M19.rst:492
+#, fuzzy
 msgid "Fraying Omnipotence"
-msgstr ""
+msgstr "Fraying Omnipotence"
 
 #: ../../M19.rst:491
 msgid ""
 "Each player loses half their life, then discards half the cards in their "
 "hand, then sacrifices half the creatures they control. Round up each time."
 msgstr ""
+"Każdy gracz traci połowę swojego życia, następnie odrzuca połowę kart ze "
+"swojej ręki, następnie poświęca połowę stworów pod swoim władaniem, za "
+"każdym razem zaokrąglając wzwyż."
 
 #: ../../M19.rst:496
 msgid "Gravedigger"
-msgstr ""
+msgstr "Gravedigger (Grabarz)"
 
 #: ../../M19.rst:495
 msgid ""
@@ -1111,52 +1242,63 @@ msgstr ""
 "stwora z twojego cmentarza do twojej ręki."
 
 #: ../../M19.rst:500
+#, fuzzy
 msgid "Graveyard Marshal"
-msgstr ""
+msgstr "Graveyard Marshal"
 
 #: ../../M19.rst:499
 msgid ""
 "|mana_2| |mana_b|, Exile a creature card from your graveyard: Create a "
 "tapped 2/2 black Zombie creature token."
 msgstr ""
+"|mana_2| |mana_b|, wygnaj kartę stwora z twojego cmentarza: Stwórz "
+"zatapowany żeton czarnego stwora Zombie 2/2."
 
 #: ../../M19.rst:504
+#, fuzzy
 msgid "Hired Blade"
-msgstr ""
+msgstr "Hired Blade"
 
 #: ../../M19.rst:503
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 #: ../../M19.rst:508
+#, fuzzy
 msgid "Infectious Horror"
-msgstr ""
+msgstr "Infectious Horror"
 
 #: ../../M19.rst:507
 msgid "Whenever Infectious Horror attacks, each opponent loses 2 life."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje, każdy przeciwnik traci 2 życia."
 
 #: ../../M19.rst:512
+#, fuzzy
 msgid "Infernal Reckoning"
-msgstr ""
+msgstr "Infernal Reckoning"
 
 #: ../../M19.rst:511
 msgid "Exile target colorless creature. You gain life equal to its power."
 msgstr ""
+"Wygnaj wskazanego bezkolorowego stwora. Zyskujesz życie równe jego sile."
 
 #: ../../M19.rst:518
+#, fuzzy
 msgid "Infernal Scarring"
-msgstr ""
+msgstr "Infernal Scarring"
 
 #: ../../M19.rst:517
 msgid ""
 "Enchanted creature gets +2/+0 and has \"When this creature dies, draw a card."
 "\""
 msgstr ""
+"Zauroczony stwór dostaje +2/+0 i ma zdolność \"Kiedy ten stwór umrze, "
+"dobierz kartę.\""
 
 #: ../../M19.rst:524
+#, fuzzy
 msgid "Isareth the Awakener"
-msgstr ""
+msgstr "Isareth the Awakener"
 
 #: ../../M19.rst:521
 msgid "Deathtouch"
@@ -1169,18 +1311,23 @@ msgid ""
 "to the battlefield with a corpse counter on it. If that creature would leave "
 "the battlefield, exile it instead of putting it anywhere else."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_x|. Kiedy tak zrobisz, "
+"zwróć wskazaną kartę stwora o uproszczonym koszcie many X z twojego "
+"cmentarza na pole walki ze znacznikiem zwłok. Jeśli ów stwór miałby opuścić "
+"pole walki, wygnaj go zamiast umieszczać go gdziekolwiek indziej."
 
 #: ../../M19.rst:528
+#, fuzzy
 msgid "Lich's Caress"
-msgstr ""
+msgstr "Lich's Caress"
 
 #: ../../M19.rst:527
 msgid "Destroy target creature. You gain 3 life."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora. Zyskujesz 3 życia."
 
 #: ../../M19.rst:536
 msgid "Liliana, Untouched by Death"
-msgstr ""
+msgstr "Liliana, Untouched by Death (Liliana, Nietknięta Przez Śmierć)"
 
 #: ../../M19.rst:531
 msgid ""
