@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 02:05+0000\n"
+"PO-Revision-Date: 2018-12-30 14:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
@@ -915,7 +915,7 @@ msgstr ""
 
 #: ../../HOU.rst:405 ../../HOU.rst:967
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../HOU.rst:414
 msgid "Razaketh, the Foulblooded"
@@ -1670,7 +1670,7 @@ msgstr ""
 
 #: ../../HOU.rst:765
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../HOU.rst:767
 msgid ""
@@ -2106,7 +2106,7 @@ msgstr ""
 #: ../../HOU.rst:1043 ../../HOU.rst:1049 ../../HOU.rst:1057 ../../HOU.rst:1065
 #: ../../HOU.rst:1073 ../../HOU.rst:1079 ../../HOU.rst:1087
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../HOU.rst:977
 msgid "|mana_1|, |tap|: Add |mana_u|, |mana_b|, or |mana_r|."
@@ -2122,7 +2122,7 @@ msgstr ""
 
 #: ../../HOU.rst:983
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r|."
 
 #: ../../HOU.rst:985
 msgid ""
@@ -2140,7 +2140,7 @@ msgstr ""
 
 #: ../../HOU.rst:991
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../HOU.rst:993
 msgid ""
@@ -2176,7 +2176,7 @@ msgstr ""
 
 #: ../../HOU.rst:1007
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|."
 
 #: ../../HOU.rst:1009
 msgid ""
@@ -2194,7 +2194,7 @@ msgstr ""
 
 #: ../../HOU.rst:1015
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w|."
 
 #: ../../HOU.rst:1017
 msgid ""
@@ -2328,23 +2328,23 @@ msgstr ""
 
 #: ../../HOU.rst:1092 ../../HOU.rst:1112 ../../HOU.rst:1116
 msgid "Plains"
-msgstr ""
+msgstr "Plains (Równina)"
 
 #: ../../HOU.rst:1096 ../../HOU.rst:1120 ../../HOU.rst:1124
 msgid "Island"
-msgstr ""
+msgstr "Island (Wyspa)"
 
 #: ../../HOU.rst:1100 ../../HOU.rst:1128 ../../HOU.rst:1132
 msgid "Swamp"
-msgstr ""
+msgstr "Swamp (Bagno)"
 
 #: ../../HOU.rst:1104 ../../HOU.rst:1136 ../../HOU.rst:1140
 msgid "Mountain"
-msgstr ""
+msgstr "Mountain (Góra)"
 
 #: ../../HOU.rst:1108 ../../HOU.rst:1144 ../../HOU.rst:1148
 msgid "Forest"
-msgstr ""
+msgstr "Forest (Las)"
 
 #: ../../HOU.rst:1158
 msgid "Nissa, Genesis Mage"
@@ -2406,7 +2406,7 @@ msgstr ""
 
 #: ../../HOU.rst:1175
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../HOU.rst:1184
 msgid "Nicol Bolas, the Deceiver"
