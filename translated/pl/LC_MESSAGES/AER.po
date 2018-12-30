@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 16:01+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/aer/pl/>\n"
 "Language: pl\n"
@@ -399,8 +399,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być celem czarów lub zdolności władanych "
-"przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
+"władane przez twoich przeciwników.)"
 
 #: ../../AER.rst:182
 msgid "Disallow"
@@ -624,7 +624,7 @@ msgid ""
 "destroy it.)"
 msgstr ""
 "Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby go zniszczyć.)"
+"wystarcza, aby został zniszczony.)"
 
 #: ../../AER.rst:289
 msgid ""
@@ -1166,11 +1166,11 @@ msgstr ""
 
 #: ../../AER.rst:546
 msgid "Shock"
-msgstr ""
+msgstr "Shock (Wstrząs)"
 
 #: ../../AER.rst:545
 msgid "Shock deals 2 damage to any target."
-msgstr ""
+msgstr "Ten czar zadaje 2 obrażenia w dowolny cel."
 
 #: ../../AER.rst:554
 msgid "Siege Modification"
@@ -1258,8 +1258,9 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:594
+#, fuzzy
 msgid "Druid of the Cowl"
-msgstr ""
+msgstr "Druid of the Cowl"
 
 #: ../../AER.rst:593
 msgid "|tap|: Add |mana_g|."
@@ -2211,7 +2212,7 @@ msgstr ""
 
 #: ../../AER.rst:1005
 msgid "+2: Put two +1/+1 counters on up to one target creature."
-msgstr ""
+msgstr "+2: Umieść dwa znaczniki +1/+1 na co najwyżej jednym wskazanym stworze."
 
 #: ../../AER.rst:1007
 msgid ""
@@ -2263,7 +2264,7 @@ msgstr ""
 
 #: ../../AER.rst:1032
 msgid "Tranquil Expanse"
-msgstr ""
+msgstr "Tranquil Expanse (Spokojna Przestrzeń)"
 
 #: ../../AER.rst:1029
 msgid "Tranquil Expanse enters the battlefield tapped."
@@ -2307,7 +2308,7 @@ msgstr ""
 
 #: ../../AER.rst:1050
 msgid "Pendulum of Patterns"
-msgstr ""
+msgstr "Pendulum of Patterns (Wahadło Wzorców)"
 
 #: ../../AER.rst:1047
 msgid "When Pendulum of Patterns enters the battlefield, you gain 3 life."
@@ -2315,7 +2316,7 @@ msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:1049
 msgid "|mana_5|, |tap|, Sacrifice Pendulum of Patterns: Draw a card."
-msgstr ""
+msgstr "|mana_5|, |tap|, poświęć ten permanent: Dobierz kartę."
 
 #: ../../AER.rst:1054
 msgid "Tezzeret's Simulacrum"
@@ -2329,7 +2330,7 @@ msgstr ""
 
 #: ../../AER.rst:1059
 msgid "Submerged Boneyard"
-msgstr ""
+msgstr "Submerged Boneyard (Zatopiony Cmentarz)"
 
 #: ../../AER.rst:1057
 msgid "Submerged Boneyard enters the battlefield tapped."
