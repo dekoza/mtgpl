@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 14:02+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -1656,9 +1656,8 @@ msgstr ""
 # 4fa0d2e113bd4a0d964fbae60dd83e0a
 # 023da9fef8aa43758ae3eeeac897db37
 #: ../../C13.rst:599 ../../C13.rst:915 ../../C13.rst:1021 ../../C13.rst:1093
-#, fuzzy
 msgid "Destroy target artifact."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazany artefakt."
 
 # 4fa0d2e113bd4a0d964fbae60dd83e0a
 # 023da9fef8aa43758ae3eeeac897db37
@@ -1721,8 +1720,9 @@ msgstr ""
 
 # 6b5c218e4d484451bab578236bda4d21
 #: ../../C13.rst:626
+#, fuzzy
 msgid "Guttersnipe"
-msgstr ""
+msgstr "Guttersnipe"
 
 # f36122fbdee842699948248e24a08f1b
 #: ../../C13.rst:625
@@ -1730,6 +1730,8 @@ msgid ""
 "Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to "
 "each opponent."
 msgstr ""
+"Ilekroć rzucasz czar sztuczki lub obrzędu, Guttersnipe zadaje każdemu "
+"przeciwnikowi po 2 obrażenia."
 
 # fe1c600be6164ecabb846832b6427d99
 #: ../../C13.rst:638
@@ -2083,7 +2085,7 @@ msgid ""
 "destroy it.)"
 msgstr ""
 "Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby go zniszczyć.)"
+"wystarcza, aby został zniszczony.)"
 
 # df512c6484d943edae58daa7445f10cd
 #: ../../C13.rst:749
@@ -3011,7 +3013,7 @@ msgstr "Klęska Głodu zadaje 3 obrażenia każdemu stworowi i każdemu graczowi
 
 #: ../../C13.rst:1115
 msgid "Put two +1/+1 counters on target creature."
-msgstr ""
+msgstr "Umieść dwa znaczniki +1/+1 na wskazanym stworze."
 
 # 36d2a4669dff41d1b31e7f832c140fe3
 #: ../../C13.rst:1122
@@ -3361,7 +3363,7 @@ msgstr ""
 
 #: ../../C13.rst:1249
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 # 6d90615fd755428495d258a9e030329e
 #: ../../C13.rst:1251
@@ -3706,9 +3708,8 @@ msgstr "Niezniszczalność"
 # 4fcf17f0b062433495e49bf9a382dbbf
 # eb58dedf784c407b855dfda133d03ec7
 #: ../../C13.rst:1387 ../../C13.rst:1843 ../../C13.rst:1947
-#, fuzzy
 msgid "|tap|: Add one mana of any color."
-msgstr "|tap|: Dodaj jedną manę dowolnego koloru do swojej puli many."
+msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 # f631d86cab03428882841b40e118ce0f
 #: ../../C13.rst:1392
@@ -4167,9 +4168,8 @@ msgstr ""
 # 00967a7f3f76434abfb63c0c69411356
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1549 ../../C13.rst:1835
-#, fuzzy
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 # c7f45dba5e1a4bb28bb84e67f3e5e9b2
 #: ../../C13.rst:1556
@@ -4350,9 +4350,8 @@ msgstr "Ten ląd wchodzi na pole walki zatapowany."
 # 00967a7f3f76434abfb63c0c69411356
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1627 ../../C13.rst:1733
-#, fuzzy
 msgid "|tap|: Add |mana_u| or |mana_b|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 # 5a325415dc914f488635b917d2db9218
 #: ../../C13.rst:1636
@@ -4650,7 +4649,7 @@ msgstr "Kiedy Baleful Strix wchodzi na pole walki, dobierz kartę."
 #: ../../C13.rst:1749 ../../C13.rst:1761 ../../C13.rst:1785 ../../C13.rst:1905
 #: ../../C13.rst:1937 ../../C13.rst:1981
 msgid "|tap|: Add |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g|."
 
 # 84b58590476245c3acf86c8075829e0e
 #: ../../C13.rst:1756
@@ -4849,8 +4848,9 @@ msgstr "Rakdos Guildgate wchodzi na pole walki zatapowany."
 
 # adfa4ee2e5de4517aa30bfc045618b99
 #: ../../C13.rst:1844
+#, fuzzy
 msgid "Rupture Spire"
-msgstr ""
+msgstr "Rupture Spire"
 
 # d0ff20c5eee54321a9edb80db1072bb9
 #: ../../C13.rst:1839
@@ -4950,9 +4950,8 @@ msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1885
-#, fuzzy
 msgid "|tap|: Add |mana_g| or |mana_w|."
-msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 # 2aa68967bbf64679a9237ae2b5e4ce3d
 #: ../../C13.rst:1894
