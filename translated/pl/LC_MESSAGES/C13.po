@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 23:02+0000\n"
+"PO-Revision-Date: 2018-12-31 00:12+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -1544,8 +1544,9 @@ msgstr ""
 
 # aacca06fb6a6405a8667962eff09c4ca
 #: ../../C13.rst:562
+#, fuzzy
 msgid "Wight of Precinct Six"
-msgstr ""
+msgstr "Wight of Precinct Six"
 
 # 400d04c7913745b5b8a75445739fa0dc
 #: ../../C13.rst:561
@@ -2551,7 +2552,7 @@ msgstr "Rain of Thorns (Deszcz Cierni)"
 
 #: ../../C13.rst:913
 msgid "Choose one or more —"
-msgstr ""
+msgstr "Wybierz jedno lub więcej —"
 
 # 4fa0d2e113bd4a0d964fbae60dd83e0a
 # 023da9fef8aa43758ae3eeeac897db37
@@ -3476,8 +3477,9 @@ msgstr ""
 
 # 1bbce600f83b4b908cb908c03d59909a
 #: ../../C13.rst:1300
+#, fuzzy
 msgid "Vizkopa Guildmage"
-msgstr ""
+msgstr "Vizkopa Guildmage"
 
 # e8fec6b4e83a4f86b0cb993ebf563d58
 #: ../../C13.rst:1297
@@ -4288,8 +4290,9 @@ msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
 # 39235b816467421e845fa8ca0d52bd2f
 #: ../../C13.rst:1606
+#, fuzzy
 msgid "Boros Guildgate"
-msgstr ""
+msgstr "Boros Guildgate"
 
 # b99cb41aba1440609c1feeeefd8303b1
 #: ../../C13.rst:1603
@@ -4339,8 +4342,9 @@ msgstr ""
 
 # 0aa68b79472642bfa1fc01f5e28deda0
 #: ../../C13.rst:1628
+#, fuzzy
 msgid "Dimir Guildgate"
-msgstr ""
+msgstr "Dimir Guildgate"
 
 # 36015cf7028948e1b39ea723c4d7f56b
 #: ../../C13.rst:1625
@@ -4507,8 +4511,9 @@ msgstr ""
 
 # 308f3c2708674ed8bc20e3e8f860199a
 #: ../../C13.rst:1694
+#, fuzzy
 msgid "Gruul Guildgate"
-msgstr ""
+msgstr "Gruul Guildgate"
 
 # 26db26a2673d4a29993f66f6afcd903d
 #: ../../C13.rst:1691
