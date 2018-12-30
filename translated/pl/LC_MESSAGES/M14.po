@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 16:01+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -359,8 +359,8 @@ msgid ""
 "Flying (This creature can't be blocked except by creatures with flying or "
 "reach.)"
 msgstr ""
-"Latanie (Ten stwór nie może być blokowany za wyjątkiem stworów z lataniem i "
-"zasięgiem.)"
+"Latanie (Ten stwór nie może być blokowany, chyba że przez stwory z lataniem "
+"lub zasięgiem.)"
 
 # 3cbd374b2b7e40509dcf06d5444a50c4
 # dc953d6b14424c878786ec668187afa8
@@ -1536,7 +1536,7 @@ msgid ""
 "destroy it.)"
 msgstr ""
 "Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby go zniszczyć.)"
+"wystarcza, aby został zniszczony.)"
 
 # 74584a0db7f54b3a84f0acee1ce0a271
 # 364285a2df034014b587b71afe0f8982
@@ -1729,8 +1729,9 @@ msgstr "Zauroczony stwór dostaje +2/+2 i ma więź życia."
 
 # ff32579f99444cf78b3f45dcdaa5060a
 #: ../../M14.rst:536
+#, fuzzy
 msgid "Mind Rot"
-msgstr ""
+msgstr "Mind Rot"
 
 # efb7e13149574af38499fe9160ca5084
 # 9a91e19dc00f4fb584e7d64851601db6
@@ -2209,13 +2210,12 @@ msgid "Dragon Egg"
 msgstr "Dragon Egg (Smocze Jajo)"
 
 #: ../../M14.rst:689
-#, fuzzy
 msgid ""
 "When Dragon Egg dies, create a 2/2 red Dragon creature token with flying and "
 "\"|mana_r|: This creature gets +1/+0 until end of turn.\""
 msgstr ""
-"Kiedy Smocze Jajo umiera, umieść na polu walki żeton czerwonego stwora Smok "
-"2/2 z Lataniem oraz \"|mana_r|: Ten stwór dostaje +1/+0 do końca tury.\""
+"Kiedy ten stwór umrze, stwórz żeton czerwonego stwora Smok 2/2 z lataniem "
+"oraz zdolnością \"|mana_r|: Ten stwór dostaje +1/+0 do końca tury.\""
 
 # a76330a146c94f0ba1c8be9f6ac6fa44
 # acfad9b44dd34955b959a1827560b0c4
@@ -2290,15 +2290,15 @@ msgstr ""
 
 # 9725104f303e484b9c74f0ce15e931a3
 #: ../../M14.rst:716
+#, fuzzy
 msgid "Lava Axe"
-msgstr ""
+msgstr "Lava Axe"
 
 # 6bb5dbca764941ee9c755485364baa07
 # 6125cc2790e64273bca1b8b358607144
 #: ../../M14.rst:715
-#, fuzzy
 msgid "Lava Axe deals 5 damage to target player or planeswalker."
-msgstr "Lava Axe zadaje 5 obrażeń wskazanemu graczowi."
+msgstr "Ten czar zadaje 5 obrażeń wskazanemu graczowi lub wędrowcowi."
 
 # b8d8cf687be34f7c908b622c90362ef8
 #: ../../M14.rst:722
@@ -2451,31 +2451,32 @@ msgstr "|mana_r|: Zauroczony stwór dostaje +1/+0 do końca tury."
 
 # c29768a5d40945efa1294b4be8141197
 #: ../../M14.rst:774
+#, fuzzy
 msgid "Shivan Dragon"
-msgstr "Shivan Dragon (Smok z Shiv)"
+msgstr "Shivan Dragon"
 
 # 1f20c0f4c53a4e36856b8d6c793a4c60
 # 008a5a8a655e469986a412d6499f99dd
 #: ../../M14.rst:773
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
-msgstr "|mana_r|: Shivan Dragon dostaje +1/+0 do końca tury."
+msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
 
 # fe008698e22e48648728edb2264c0025
 #: ../../M14.rst:778
 msgid "Shock"
-msgstr ""
+msgstr "Shock (Wstrząs)"
 
 # bf25960af9ce4dd5bac686ec4538ea88
 # 66aca507bcb944f08f6d03dc5d77b04f
 #: ../../M14.rst:777
-#, fuzzy
 msgid "Shock deals 2 damage to any target."
-msgstr "Shock zadaje 2 obrażenia wskazanemu stworowi lub graczowi."
+msgstr "Ten czar zadaje 2 obrażenia w dowolny cel."
 
 # a8244dd25f0b4de8bdd07bbec7d8b5b6
 #: ../../M14.rst:782
+#, fuzzy
 msgid "Smelt"
-msgstr ""
+msgstr "Smelt"
 
 # 6bc1a5c775fa471291138abdafbeb440
 # a2e15a4987e34deda0fb32aed9a5d467
@@ -2697,7 +2698,8 @@ msgstr "Fog (Mgła)"
 #: ../../M14.rst:847
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bitewne, które mogłyby być zadane w tej turze."
+"Zażegnaj wszystkie obrażenia bitewne, które mogłyby zostać zadane w tej "
+"turze."
 
 # e923f9ef6d4b419490c3c9245be244f1
 # 2551c454e0f6423a9495d858f92949bc
@@ -2800,8 +2802,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być celem czarów lub zdolności władanych "
-"przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
+"władane przez twoich przeciwników.)"
 
 # cef397e21dcc4cff91bf4d69e6ce09d0
 #: ../../M14.rst:880
@@ -3445,19 +3447,19 @@ msgstr ""
 
 # a3d665ddb823415cb964f61e28fd9f58
 #: ../../M14.rst:1062
+#, fuzzy
 msgid "Millstone"
-msgstr ""
+msgstr "Millstone"
 
 # fd78db2308c943ea856c88e442b1b406
 # fff5702b61904806b1618503f7b52cfc
 #: ../../M14.rst:1061
-#, fuzzy
 msgid ""
 "|mana_2|, |tap|: Target player puts the top two cards of their library into "
 "their graveyard."
 msgstr ""
-"|mana_2|, |tap|: Wskazany gracz przekłada dwie wierzchnie karty ze swojej "
-"biblioteki do swojego cmentarza."
+"|mana_2|, |tap|: Wskazany gracz umieszcza dwie wierzchnie karty swojej "
+"biblioteki w swoim cmentarzu."
 
 # bcafbfd1d9df40678ddfceab6b6dcd14
 #: ../../M14.rst:1066
