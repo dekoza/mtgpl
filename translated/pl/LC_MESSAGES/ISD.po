@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 16:01+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
@@ -886,8 +886,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być celem czarów lub zdolności władanych "
-"przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
+"władane przez twoich przeciwników.)"
 
 # 29b6526039f642408ece8030bd89bae2
 #: ../../ISD.rst:321
@@ -1728,7 +1728,7 @@ msgid ""
 "destroy it.)"
 msgstr ""
 "Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby go zniszczyć.)"
+"wystarcza, aby został zniszczony.)"
 
 # b11a0be0ed424daa8435aefaffc8b735
 #: ../../ISD.rst:672
@@ -1801,7 +1801,7 @@ msgstr ""
 # 7ace619966cf4b91b0ea486744267e95
 #: ../../ISD.rst:694
 msgid "Walking Corpse"
-msgstr ""
+msgstr "Walking Corpse (Chodzące Zwłoki)"
 
 # 00545cbff03f4cbabbb48ef15c465503
 #: ../../ISD.rst:702
