@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 16:01+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/jou/pl/>\n"
 "Language: pl\n"
@@ -330,7 +330,7 @@ msgstr ""
 # 25eb5675924443b9bc93fc76bc4e7155
 #: ../../JOU.rst:97
 msgid "At the beginning of your upkeep, you gain 1 life."
-msgstr "Na początku twojego utrzymania zyskujesz 1 życie."
+msgstr "Na początku twojego kroku utrzymania zyskujesz 1 życie."
 
 # 2139fd7162e9463ab796a154689def8c
 #: ../../JOU.rst:106
@@ -1232,7 +1232,7 @@ msgid ""
 "destroy it.)"
 msgstr ""
 "Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby go zniszczyć.)"
+"wystarcza, aby został zniszczony.)"
 
 # 94e6f01e83264168aeed236edee66e18
 #: ../../JOU.rst:408
