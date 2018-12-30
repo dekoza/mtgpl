@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 22:21+0000\n"
+"PO-Revision-Date: 2018-12-30 14:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/emn/pl/>\n"
 "Language: pl\n"
@@ -910,7 +910,7 @@ msgstr ""
 
 #: ../../EMN.rst:391 ../../EMN.rst:663 ../../EMN.rst:903 ../../EMN.rst:1071
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../EMN.rst:393
 msgid ""
@@ -1988,7 +1988,7 @@ msgstr ""
 
 #: ../../EMN.rst:925 ../../EMN.rst:987 ../../EMN.rst:1003
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../EMN.rst:927
 msgid ""
@@ -2557,6 +2557,8 @@ msgid ""
 "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../EMN.rst:1196
 msgid "Cryptolith Fragment"
