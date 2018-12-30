@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2018-12-30 16:01+0000\n"
+"PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -931,8 +931,9 @@ msgid "Destroy target creature. Its controller loses 2 life."
 msgstr "Zniszcz wskazanego stwora. Jego władca traci 2 życia."
 
 #: ../../RTR.rst:568
+#, fuzzy
 msgid "Mind Rot"
-msgstr ""
+msgstr "Mind Rot"
 
 #: ../../RTR.rst:567
 msgid "Target player discards two cards."
@@ -1261,16 +1262,17 @@ msgstr ""
 " biją się ze sobą."
 
 #: ../../RTR.rst:794
+#, fuzzy
 msgid "Guttersnipe"
-msgstr ""
+msgstr "Guttersnipe"
 
 #: ../../RTR.rst:793
 msgid ""
 "Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage"
 " to each opponent."
 msgstr ""
-"Ilekroć rzucasz czar sztuczki lub obrzędu, Guutersnipe zadaje każdemu "
-"przeciwnikowi 2 obrażenia."
+"Ilekroć rzucasz czar sztuczki lub obrzędu, Guttersnipe zadaje każdemu "
+"przeciwnikowi po 2 obrażenia."
 
 #: ../../RTR.rst:805
 msgid "Lobber Crew"
@@ -1691,8 +1693,8 @@ msgid ""
 "Hexproof (This creature can't be the target of spells or abilities your "
 "opponents control.)"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być celem czarów lub zdolności władanych "
-"przez twoich przeciwników.)"
+"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
+"władane przez twoich przeciwników.)"
 
 #: ../../RTR.rst:1069
 msgid "Savage Surge"
@@ -2597,7 +2599,7 @@ msgid ""
 "destroy it.)"
 msgstr ""
 "Dotyk śmierci (Dowolna ilość obrażeń zadana stworowi przez tę kartę "
-"wystarcza, aby go zniszczyć.)"
+"wystarcza, aby został zniszczony.)"
 
 #: ../../RTR.rst:1637
 msgid ""
