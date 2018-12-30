@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 14:02+0000\n"
+"PO-Revision-Date: 2018-12-30 16:01+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -387,8 +387,9 @@ msgstr ""
 
 # 17b52cd94b7642abb1fec7c508dfc934
 #: ../../M15.rst:124
+#, fuzzy
 msgid "Oreskos Swiftclaw"
-msgstr ""
+msgstr "Oreskos Swiftclaw"
 
 # 609181bf06254d3bae1916c40c5c8812
 #: ../../M15.rst:132
@@ -670,7 +671,7 @@ msgstr ""
 #: ../../M15.rst:227 ../../M15.rst:265 ../../M15.rst:635 ../../M15.rst:871
 #: ../../M15.rst:921 ../../M15.rst:1085 ../../M15.rst:1133
 msgid "Defender (This creature can't attack.)"
-msgstr ""
+msgstr "Obronność (Ten stwór nie może atakować.)"
 
 # 4bf2a7395b5a4af6acd47ad99ff43a10
 #: ../../M15.rst:229
@@ -1403,7 +1404,7 @@ msgstr ""
 # 300f0da311824d69bccb2fa88302df9d
 #: ../../M15.rst:520
 msgid "Gravedigger"
-msgstr ""
+msgstr "Gravedigger (Grabarz)"
 
 # b1d08154659b4e11bec7face510120c1
 #: ../../M15.rst:519
@@ -3509,13 +3510,14 @@ msgstr "Zniszcz wskazanego atakującego lub blokującego stwora."
 
 # 7f0ae7f9ba6448b696d956e213435a6d
 #: ../../M15.rst:1410
+#, fuzzy
 msgid "Inspired Charge"
-msgstr ""
+msgstr "Inspired Charge"
 
 # c7c5a03077d94788b4e304795b1cccfe
 #: ../../M15.rst:1409
 msgid "Creatures you control get +2/+1 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 # da4d97a85a34453fb56f90f9c21011b7
 #: ../../M15.rst:1414
