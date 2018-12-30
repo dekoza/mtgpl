@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 14:02+0000\n"
+"PO-Revision-Date: 2018-12-30 16:01+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dtk/pl/>\n"
 "Language: pl\n"
@@ -267,7 +267,7 @@ msgstr ""
 
 #: ../../DTK.rst:115
 msgid "Creatures you control get +2/+1 until end of turn."
-msgstr ""
+msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../DTK.rst:124
 msgid "Herald of Dromoka"
@@ -539,13 +539,15 @@ msgstr ""
 
 #: ../../DTK.rst:248
 msgid "Anticipate"
-msgstr ""
+msgstr "Anticipate (Antycypuj)"
 
 #: ../../DTK.rst:247
 msgid ""
 "Look at the top three cards of your library. Put one of them into your hand "
 "and the rest on the bottom of your library in any order."
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../DTK.rst:256
 msgid "Belltoll Dragon"
