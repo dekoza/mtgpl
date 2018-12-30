@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 02:05+0000\n"
+"PO-Revision-Date: 2018-12-30 14:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -852,7 +852,7 @@ msgstr ""
 # 1c071d74405a4809b3545cacd133c481
 #: ../../C13.rst:307
 msgid "Defender"
-msgstr "Obrońca"
+msgstr "Obronność"
 
 # 2b2540e380da41d8b2c40f62bbaef056
 #: ../../C13.rst:309
@@ -2222,7 +2222,7 @@ msgstr ""
 #: ../../C13.rst:1753 ../../C13.rst:1775 ../../C13.rst:1791 ../../C13.rst:1805
 #: ../../C13.rst:1847 ../../C13.rst:1919 ../../C13.rst:1951 ../../C13.rst:1957
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 # f00abbdcf6b34a81ad1a65e789b9fe5e
 #: ../../C13.rst:794
@@ -2772,7 +2772,7 @@ msgstr "Ekwipowany stwór dostaje +2/+2 oraz ma więź życia oraz tratowanie."
 # f1e76643096d4ec0910c851ea361fa1a
 #: ../../C13.rst:995 ../../C13.rst:1509
 msgid "Equip |mana_3|"
-msgstr "Ekwipuj |mana_3|"
+msgstr "Wyposaż |mana_3|"
 
 # 0361f542d9314692a8ce25d12c92478f
 #: ../../C13.rst:1006
@@ -3201,7 +3201,7 @@ msgstr ""
 # 72eca7f228a4416eae3e42fb6953d20e
 #: ../../C13.rst:1187
 msgid "Vigilance, trample"
-msgstr ""
+msgstr "Czujność, tratowanie"
 
 # 85e5f98293854239be883dd2ca7744f6
 #: ../../C13.rst:1189
@@ -3631,9 +3631,8 @@ msgstr ""
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1359 ../../C13.rst:1569 ../../C13.rst:1879
-#, fuzzy
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 # f7189b4fa0c04aef819ea92f71e2ee72
 #: ../../C13.rst:1361
@@ -4240,7 +4239,7 @@ msgstr ""
 
 #: ../../C13.rst:1581 ../../C13.rst:1591 ../../C13.rst:1989
 msgid "|tap|: Add |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b|."
 
 # 479225d55fd44335ae63cbae61845578
 #: ../../C13.rst:1583
@@ -4299,9 +4298,8 @@ msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1605
-#, fuzzy
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 # 2607ac98bdb34c0c8fcdff90d694e61c
 #: ../../C13.rst:1610
@@ -4368,7 +4366,7 @@ msgstr ""
 
 #: ../../C13.rst:1633 ../../C13.rst:1801 ../../C13.rst:1869
 msgid "|tap|: Add |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w|."
 
 # d35a6b20477d403e8dca46fd49c339b9
 # 4d8007b0c8fb4d0aa3b1abd7a8f21a2b
@@ -4417,7 +4415,7 @@ msgstr ""
 
 #: ../../C13.rst:1651 ../../C13.rst:1769 ../../C13.rst:1973
 msgid "|tap|: Add |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u|."
 
 # 93a4757d924545f4865cf1a988237c3b
 #: ../../C13.rst:1653
@@ -4438,7 +4436,7 @@ msgstr "Zapomniana Jaskinia wchodzi na pole walki zatapowana."
 
 #: ../../C13.rst:1659 ../../C13.rst:1913 ../../C13.rst:1965
 msgid "|tap|: Add |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r|."
 
 # 4b3ca85105054227bc770adf8e474e2b
 #: ../../C13.rst:1661
@@ -4458,9 +4456,8 @@ msgstr "Ten ląd wchodzi na pole walki zatapowany."
 # 00967a7f3f76434abfb63c0c69411356
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1667
-#, fuzzy
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 # 6638f2cb1762480caedad446ec4ea175
 #: ../../C13.rst:1676
@@ -4521,9 +4518,8 @@ msgstr "Gruul Guildgate wchodzi na pole walki zatapowany."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1693 ../../C13.rst:1741
-#, fuzzy
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 # 9359d22cbd5647029429072bc1ba8a48
 #: ../../C13.rst:1700
@@ -4571,9 +4567,8 @@ msgstr "Ten ląd wchodzi na pole walki zatapowany."
 # 00967a7f3f76434abfb63c0c69411356
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1713
-#, fuzzy
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 # 733d4bfdb83b46319c0626ee37fa0a94
 #: ../../C13.rst:1720
@@ -4815,9 +4810,8 @@ msgstr "Orzhov Guildgate wchodzi na pole walki zatapowany."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1821
-#, fuzzy
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 # 464b9dc709ad45208711818447a51b7a
 #: ../../C13.rst:1830
@@ -4996,9 +4990,8 @@ msgstr "Simic Guildgate wchodzi na pole walki zatapowany."
 # 00967a7f3f76434abfb63c0c69411356
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1899
-#, fuzzy
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 # 4e822b9c4f0b4208a51574a16b599156
 #: ../../C13.rst:1908
