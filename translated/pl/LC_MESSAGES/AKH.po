@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 22:21+0000\n"
+"PO-Revision-Date: 2018-12-30 14:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
@@ -2437,7 +2437,7 @@ msgstr ""
 
 #: ../../AKH.rst:1119
 msgid "Other creatures you control have haste."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają pośpiech."
 
 #: ../../AKH.rst:1121
 msgid "|mana_w|, |tap|: Untap another target creature."
@@ -2844,7 +2844,7 @@ msgstr ""
 
 #: ../../AKH.rst:1327
 msgid "Equipped creature gets +1/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1."
 
 #: ../../AKH.rst:1329
 msgid ""
@@ -3280,7 +3280,7 @@ msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../AKH.rst:1610
 msgid "Meandering River"
-msgstr ""
+msgstr "Meandering River (Meandrująca Rzeka)"
 
 #: ../../AKH.rst:1607
 msgid "Meandering River enters the battlefield tapped."
@@ -3303,8 +3303,9 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../AKH.rst:1622
+#, fuzzy
 msgid "Timber Gorge"
-msgstr ""
+msgstr "Timber Gorge"
 
 #: ../../AKH.rst:1619
 msgid "Timber Gorge enters the battlefield tapped."
