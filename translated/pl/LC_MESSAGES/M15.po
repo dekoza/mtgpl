@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 22:21+0000\n"
+"PO-Revision-Date: 2018-12-30 14:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -1222,7 +1222,7 @@ msgstr ""
 
 #: ../../M15.rst:437
 msgid "Defender"
-msgstr "Obrońca"
+msgstr "Obronność"
 
 # f0c6ed7531dc43729ee1973353383024
 #: ../../M15.rst:439
@@ -2330,6 +2330,8 @@ msgid ""
 "Haste (This creature can attack and |tap| as soon as it comes under your "
 "control.)"
 msgstr ""
+"Pośpiech (Ten stwór może atakować i |tap| od razu po wejściu pod twoje "
+"władanie.)"
 
 # 9c518579eced4c2098ce4b3f9f8dc5bd
 #: ../../M15.rst:868
@@ -3084,20 +3086,22 @@ msgid ""
 "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 # a1697cdf18b44cdd9fc93e52bf7e25d1
 #: ../../M15.rst:1164
 msgid "Juggernaut"
-msgstr ""
+msgstr "Juggernaut (Burzyciel)"
 
 #: ../../M15.rst:1161
 msgid "Juggernaut attacks each combat if able."
-msgstr ""
+msgstr "Ten stwór atakuje w każdej walce jeśli może."
 
 # 0b063fffe94b484492047b68713e4894
 #: ../../M15.rst:1163
 msgid "Juggernaut can't be blocked by Walls."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez Ściany."
 
 # 896b8b92d87846d7b435b25f95b8704d
 #: ../../M15.rst:1170
