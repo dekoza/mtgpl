@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 14:02+0000\n"
+"PO-Revision-Date: 2018-12-30 16:01+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ogw/pl/>\n"
 "Language: pl\n"
@@ -355,26 +355,30 @@ msgid ""
 msgstr ""
 
 #: ../../OGW.rst:160
+#, fuzzy
 msgid "Make a Stand"
-msgstr ""
+msgstr "Make a Stand"
 
 #: ../../OGW.rst:159
 msgid ""
 "Creatures you control get +1/+0 and gain indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy them.)"
 msgstr ""
+"Stwory pod twoim władaniem dostają do końca tury +1/+0 oraz "
+"niezniszczalność. (Obrażenia i efekty mówiące \"zniszcz\" nie niszczą ich.)"
 
 #: ../../OGW.rst:164
 msgid "Makindi Aeronaut"
 msgstr ""
 
 #: ../../OGW.rst:168
+#, fuzzy
 msgid "Mighty Leap"
-msgstr ""
+msgstr "Mighty Leap"
 
 #: ../../OGW.rst:167
 msgid "Target creature gets +2/+2 and gains flying until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
 
 #: ../../OGW.rst:172
 msgid "Munda's Vanguard"
@@ -1795,7 +1799,7 @@ msgstr ""
 
 #: ../../OGW.rst:915
 msgid "Whenever you gain life, each opponent loses 1 life."
-msgstr ""
+msgstr "Ilekroć zyskujesz życie, każdy przeciwnik traci po 1 życiu."
 
 #: ../../OGW.rst:920
 msgid "Joraga Auxiliary"
