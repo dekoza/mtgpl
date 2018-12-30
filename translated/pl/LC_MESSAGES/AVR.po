@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 02:05+0000\n"
+"PO-Revision-Date: 2018-12-30 14:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
@@ -2345,7 +2345,7 @@ msgstr ""
 
 #: ../../AVR.rst:1093
 msgid "Equipped creature gets +1/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1."
 
 #: ../../AVR.rst:1095
 msgid "As long as equipped creature is a Human or an Angel, it has vigilance."
@@ -2453,7 +2453,7 @@ msgstr ""
 
 #: ../../AVR.rst:1141
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../AVR.rst:1148
 msgid "Vanguard's Shield"
@@ -2470,6 +2470,8 @@ msgid ""
 "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../AVR.rst:1154
 msgid "Vessel of Endless Rest"
