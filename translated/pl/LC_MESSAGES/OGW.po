@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-29 23:10+0000\n"
+"PO-Revision-Date: 2018-12-30 14:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ogw/pl/>\n"
 "Language: pl\n"
@@ -492,7 +492,7 @@ msgstr ""
 
 #: ../../OGW.rst:219
 msgid "Defender"
-msgstr ""
+msgstr "Obronność"
 
 #: ../../OGW.rst:221
 msgid ""
@@ -1483,7 +1483,7 @@ msgstr ""
 
 #: ../../OGW.rst:763 ../../OGW.rst:851
 msgid "Reach"
-msgstr ""
+msgstr "Zasięg"
 
 #: ../../OGW.rst:765
 msgid ""
@@ -1692,7 +1692,7 @@ msgstr ""
 
 #: ../../OGW.rst:863
 msgid "Vigilance, trample"
-msgstr ""
+msgstr "Czujność, tratowanie"
 
 #: ../../OGW.rst:868
 msgid "Vines of the Recluse"
@@ -1880,6 +1880,8 @@ msgid ""
 "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_1| (|mana_1|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposażaj wyłącznie jako obrzęd.)"
 
 #: ../../OGW.rst:962
 msgid "Captain's Claws"
@@ -1893,7 +1895,7 @@ msgstr ""
 
 #: ../../OGW.rst:961
 msgid "Equip |mana_1|"
-msgstr ""
+msgstr "Wyposaż |mana_1|"
 
 #: ../../OGW.rst:968
 msgid "Chitinous Cloak"
@@ -1907,7 +1909,7 @@ msgstr ""
 
 #: ../../OGW.rst:967
 msgid "Equip |mana_3|"
-msgstr ""
+msgstr "Wyposaż |mana_3|"
 
 #: ../../OGW.rst:972
 msgid "Hedron Crawler"
@@ -1990,7 +1992,7 @@ msgstr ""
 
 #: ../../OGW.rst:1015
 msgid "|tap|: Add |mana_b| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../OGW.rst:1017
 msgid ""
@@ -2008,11 +2010,11 @@ msgstr ""
 
 #: ../../OGW.rst:1030
 msgid "Meandering River"
-msgstr ""
+msgstr "Meandering River (Meandrująca Rzeka)"
 
 #: ../../OGW.rst:1027
 msgid "Meandering River enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../OGW.rst:1029
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -2029,7 +2031,7 @@ msgstr ""
 #: ../../OGW.rst:1035 ../../OGW.rst:1083 ../../OGW.rst:1097 ../../OGW.rst:1101
 #: ../../OGW.rst:1105 ../../OGW.rst:1109
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../OGW.rst:1037
 msgid ""
@@ -2053,7 +2055,7 @@ msgstr ""
 
 #: ../../OGW.rst:1045
 msgid "|tap|: Add |mana_r| or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../OGW.rst:1047
 msgid ""
@@ -2098,12 +2100,13 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
 #: ../../OGW.rst:1074
+#, fuzzy
 msgid "Timber Gorge"
-msgstr ""
+msgstr "Timber Gorge"
 
 #: ../../OGW.rst:1071
 msgid "Timber Gorge enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../OGW.rst:1073
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -2139,7 +2142,7 @@ msgstr ""
 
 #: ../../OGW.rst:1091
 msgid "|tap|: Add |mana_u| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../OGW.rst:1093
 msgid ""
