@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-31 10:37+0000\n"
+"PO-Revision-Date: 2019-01-01 01:24+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
@@ -21,22 +21,27 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../HOU.rst:5 ../../HOU.rst:538
+#, fuzzy
 msgid "Hour of Devastation"
-msgstr ""
+msgstr "Hour of Devastation"
 
 #: ../../HOU.rst:10
+#, fuzzy
 msgid "Act of Heroism"
-msgstr ""
+msgstr "Act of Heroism"
 
 #: ../../HOU.rst:9
 msgid ""
 "Untap target creature. It gets +2/+2 until end of turn and can block an "
 "additional creature this turn."
 msgstr ""
+"Odtapuj wskazanego stwora. Dostaje on +2/+2 do końca tury i może blokować "
+"dodatkowego stwora w tej turze."
 
 #: ../../HOU.rst:16
+#, fuzzy
 msgid "Adorned Pouncer"
-msgstr ""
+msgstr "Adorned Pouncer"
 
 #: ../../HOU.rst:13
 msgid "Double strike"
@@ -50,8 +55,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:24
+#, fuzzy
 msgid "Angel of Condemnation"
-msgstr ""
+msgstr "Angel of Condemnation"
 
 #: ../../HOU.rst:19
 msgid "Flying, vigilance"
@@ -63,6 +69,9 @@ msgid ""
 "the battlefield under its owner's control at the beginning of the next end "
 "step."
 msgstr ""
+"|mana_2| |mana_w|, |tap|: Wygnaj innego wskazanego stwora. Przywróć ową "
+"kartę na pole walki pod władanie jej właściciela na początku najbliższego "
+"kroku końcowego."
 
 #: ../../HOU.rst:23
 msgid ""
@@ -70,10 +79,14 @@ msgid ""
 "creature until Angel of Condemnation leaves the battlefield. (An exerted "
 "creature won't untap during your next untap step.)"
 msgstr ""
+"|mana_2| |mana_w|, |tap|, wytęż tego stwora: Wygnaj innego wskazanego stwora "
+"dopóki ten stwór nie opuści pola walki. (Wytężony stwór nie odtapuje się w "
+"twoim najbliższym kroku odtapowania.)"
 
 #: ../../HOU.rst:30
+#, fuzzy
 msgid "Angel of the God-Pharaoh"
-msgstr ""
+msgstr "Angel of the God-Pharaoh"
 
 #: ../../HOU.rst:27 ../../HOU.rst:33 ../../HOU.rst:45 ../../HOU.rst:167
 #: ../../HOU.rst:175 ../../HOU.rst:227 ../../HOU.rst:235 ../../HOU.rst:293
@@ -86,7 +99,7 @@ msgstr "Latanie"
 #: ../../HOU.rst:449 ../../HOU.rst:455 ../../HOU.rst:529 ../../HOU.rst:549
 #: ../../HOU.rst:611 ../../HOU.rst:689 ../../HOU.rst:943
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../HOU.rst:36
 msgid "Aven of Enduring Hope"
@@ -179,7 +192,7 @@ msgstr ""
 
 #: ../../HOU.rst:73
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../HOU.rst:76
 msgid "Dutiful Servants"
@@ -519,6 +532,8 @@ msgid ""
 "Cycling |mana_2| |mana_u| (|mana_2| |mana_u|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_2| |mana_u| (|mana_2| |mana_u|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../HOU.rst:231
 msgid ""
@@ -624,7 +639,7 @@ msgstr ""
 
 #: ../../HOU.rst:273
 msgid "Cycling |mana_u| (|mana_u|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_u| (|mana_u|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../HOU.rst:282
 msgid "Supreme Will"
@@ -891,7 +906,7 @@ msgstr ""
 
 #: ../../HOU.rst:391 ../../HOU.rst:419
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_b| (|mana_b|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../HOU.rst:396
 msgid "Marauding Boneslasher"
@@ -1003,6 +1018,7 @@ msgstr ""
 msgid ""
 "Vile Manifestation gets +1/+0 for each card with cycling in your graveyard."
 msgstr ""
+"Ten stwór dostaje +1/+0 za każdą kartę z recyklingiem w twoim cmentarzu."
 
 #: ../../HOU.rst:456
 msgid "Without Weakness"
@@ -1980,13 +1996,15 @@ msgstr ""
 
 #: ../../HOU.rst:915
 msgid "You may cast nonland cards with cycling from your graveyard."
-msgstr ""
+msgstr "Możesz rzucać nie-lądowe karty z recyklingiem z twojego cmentarza."
 
 #: ../../HOU.rst:917
 msgid ""
 "If a card with cycling would be put into your graveyard from anywhere and it "
 "wasn't cycled, exile it instead."
 msgstr ""
+"Jeśli karta z recyklingiem miałaby zostać umieszczona skądkolwiek w twoim "
+"cmentarzu, a nie została recyklowana, zamiast tego wygnaj ją."
 
 #: ../../HOU.rst:924
 msgid "Crook of Condemnation"
@@ -2138,6 +2156,8 @@ msgid ""
 "Cycling |mana_1| |mana_r| (|mana_1| |mana_r|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_1| |mana_r| (|mana_1| |mana_r|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../HOU.rst:994
 msgid "Desert of the Glorified"
@@ -2156,6 +2176,8 @@ msgid ""
 "Cycling |mana_1| |mana_b| (|mana_1| |mana_b|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../HOU.rst:1002
 msgid "Desert of the Indomitable"
@@ -2174,6 +2196,8 @@ msgid ""
 "Cycling |mana_1| |mana_g| (|mana_1| |mana_g|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_1| |mana_g| (|mana_1| |mana_g|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../HOU.rst:1010
 msgid "Desert of the Mindful"
@@ -2192,6 +2216,8 @@ msgid ""
 "Cycling |mana_1| |mana_u| (|mana_1| |mana_u|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_1| |mana_u| (|mana_1| |mana_u|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../HOU.rst:1018
 msgid "Desert of the True"
@@ -2210,6 +2236,8 @@ msgid ""
 "Cycling |mana_1| |mana_w| (|mana_1| |mana_w|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_1| |mana_w| (|mana_1| |mana_w|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../HOU.rst:1024
 msgid "Dunes of the Dead"
