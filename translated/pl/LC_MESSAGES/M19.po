@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 23:02+0000\n"
+"PO-Revision-Date: 2018-12-31 16:27+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -61,7 +61,7 @@ msgid ""
 "−2: Return target creature card with converted mana cost 2 or less from your "
 "graveyard to the battlefield."
 msgstr ""
-"–2: Przywróć wskazaną kartę stwora o łącznym koszcie many 2 lub mniej z "
+"–2: Przywróć wskazaną kartę stwora o skróconym koszcie many 2 lub mniej z "
 "twojego cmentarza na pole walki."
 
 #: ../../M19.rst:21
@@ -266,7 +266,7 @@ msgstr "Isolate"
 
 #: ../../M19.rst:89
 msgid "Exile target permanent with converted mana cost 1."
-msgstr "Wygnaj wskazany permanent o łącznym koszcie many równym 1."
+msgstr "Wygnaj wskazany permanent o skróconym koszcie many równym 1."
 
 #: ../../M19.rst:94
 #, fuzzy
@@ -876,7 +876,7 @@ msgid ""
 "Draw cards equal to the highest converted mana cost among artifacts you "
 "control."
 msgstr ""
-"Dobierz tyle kart, ile wynosi najwyższy uproszczony koszt many spośród "
+"Dobierz tyle kart, ile wynosi najwyższy skrócony koszt many spośród "
 "artefaktów pod twoim władaniem."
 
 #: ../../M19.rst:346
@@ -1312,9 +1312,9 @@ msgid ""
 "the battlefield, exile it instead of putting it anywhere else."
 msgstr ""
 "Ilekroć ten stwór atakuje, możesz zapłacić |mana_x|. Kiedy tak zrobisz, "
-"zwróć wskazaną kartę stwora o uproszczonym koszcie many X z twojego "
-"cmentarza na pole walki ze znacznikiem zwłok. Jeśli ów stwór miałby opuścić "
-"pole walki, wygnaj go zamiast umieszczać go gdziekolwiek indziej."
+"zwróć wskazaną kartę stwora o skróconym koszcie many X z twojego cmentarza "
+"na pole walki ze znacznikiem zwłok. Jeśli ów stwór miałby opuścić pole "
+"walki, wygnaj go zamiast umieszczać go gdziekolwiek indziej."
 
 #: ../../M19.rst:528
 #, fuzzy
