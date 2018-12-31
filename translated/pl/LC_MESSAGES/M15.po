@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-31 00:12+0000\n"
+"PO-Revision-Date: 2018-12-31 10:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
@@ -1256,6 +1256,8 @@ msgid ""
 "Intimidate (This creature can't be blocked except by artifact creatures and/"
 "or creatures that share a color with it.)"
 msgstr ""
+"Zastraszenie (Ten stwór nie może być blokowany chyba że przez stwory "
+"artefaktyczne lub współdzielące z nim kolor.)"
 
 # 8f773f5d18964210ab52681e5eecf3ac
 #: ../../M15.rst:454
@@ -1652,8 +1654,9 @@ msgstr ""
 
 # 6c346f36ea3c4f7fbbf2db44baf24448
 #: ../../M15.rst:612
+#, fuzzy
 msgid "Stab Wound"
-msgstr ""
+msgstr "Stab Wound"
 
 # 591f8b4cd556409eaf72366be65806e9
 #: ../../M15.rst:609

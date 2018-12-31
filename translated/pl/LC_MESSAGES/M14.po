@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-31 00:12+0000\n"
+"PO-Revision-Date: 2018-12-31 10:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -1364,8 +1364,8 @@ msgid ""
 "Intimidate (This creature can't be blocked except by artifact creatures and/"
 "or creatures that share a color with it.)"
 msgstr ""
-"Zastraszenie (Ten stwór może być blokowany tylko przez stwory artefaktyczne "
-"lub te, które mają z nim wspólny kolor.)"
+"Zastraszenie (Ten stwór nie może być blokowany chyba że przez stwory "
+"artefaktyczne lub współdzielące z nim kolor.)"
 
 # 0ba3a7c46be64bd38aeee71759c197d3
 #: ../../M14.rst:430
@@ -2773,8 +2773,9 @@ msgstr ""
 # a7a31ed0c679467e885291818c3bbe3b
 # 83564c6c869047d1ac826965f9c7208f
 #: ../../M14.rst:868
+#, fuzzy
 msgid "Giant Growth"
-msgstr "Giant Growth (Gigantyczny Rozrost)"
+msgstr "Giant Growth"
 
 # 285671a89db64a5da13c4234c04087de
 # 08a7294d010444e48d82275d46f3d159

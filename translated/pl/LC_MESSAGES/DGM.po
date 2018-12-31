@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-31 00:12+0000\n"
+"PO-Revision-Date: 2018-12-31 10:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -41,8 +41,9 @@ msgstr ""
 
 # 6857010c475042d587040b7196aebd9c
 #: ../../DGM.rst:14
+#, fuzzy
 msgid "Haazda Snare Squad"
-msgstr ""
+msgstr "Haazda Snare Squad"
 
 # 0ed005abe95c4660a80ca45dee9c29e5
 #: ../../DGM.rst:13
@@ -71,8 +72,9 @@ msgstr ""
 
 # 18a367e6a9cd4cdeabb3ac9dbaff9dcf
 #: ../../DGM.rst:24
+#, fuzzy
 msgid "Maze Sentinel"
-msgstr ""
+msgstr "Maze Sentinel"
 
 # 720d5ce9f50c4b7592d964c6cb20c954
 #: ../../DGM.rst:21
@@ -86,8 +88,9 @@ msgstr "Wielokolorowe stwory, którymi władasz, mają czujność."
 
 # 6fa11321f7c44666987bd7d680c84724
 #: ../../DGM.rst:28
+#, fuzzy
 msgid "Renounce the Guilds"
-msgstr ""
+msgstr "Renounce the Guilds"
 
 # 2df3cdd53bec41da8b106ea19de8cf1e
 #: ../../DGM.rst:27
@@ -111,8 +114,9 @@ msgstr ""
 
 # 2479320fab744a98b6f2696ab15aa424
 #: ../../DGM.rst:36
+#, fuzzy
 msgid "Scion of Vitu-Ghazi"
-msgstr ""
+msgstr "Scion of Vitu-Ghazi"
 
 # 1cc1feacd11e4f26a8e820213409acf0
 #: ../../DGM.rst:35
@@ -129,8 +133,9 @@ msgstr ""
 
 # 7cbac1aa0eb2461abc155044a069f26d
 #: ../../DGM.rst:40
+#, fuzzy
 msgid "Steeple Roc"
-msgstr ""
+msgstr "Steeple Roc"
 
 # 5f33b7627b4b400aa84e1bf00472506e
 #: ../../DGM.rst:39
@@ -139,8 +144,9 @@ msgstr "Latanie, pierwszy cios"
 
 # dd01a7327948429f9007cb4ee79a6567
 #: ../../DGM.rst:44
+#, fuzzy
 msgid "Sunspire Gatekeepers"
-msgstr ""
+msgstr "Sunspire Gatekeepers"
 
 # 3dc15de9534441fc91988f1e7b260ca3
 #: ../../DGM.rst:43
@@ -155,8 +161,9 @@ msgstr ""
 
 # 141ca5f2e31840979a267a3fed1442f8
 #: ../../DGM.rst:48
+#, fuzzy
 msgid "Wake the Reflections"
-msgstr ""
+msgstr "Wake the Reflections"
 
 # a0c85808b37d4dd7945c83f3f5f57ebb
 #: ../../DGM.rst:47
@@ -246,17 +253,18 @@ msgstr "Latanie"
 # 3093bff8121f4ccdb83a275b427ca7ff
 #: ../../DGM.rst:69
 msgid "Multicolored creatures you control have flying."
-msgstr "Wielokolorowe stwory, którymi władasz, mają latanie."
+msgstr "Wielokolorowe stwory pod twoim władaniem mają latanie."
 
 # 1011a12da1b541f3802df9dc7920a46f
 #: ../../DGM.rst:74
+#, fuzzy
 msgid "Mindstatic"
-msgstr ""
+msgstr "Mindstatic"
 
 # d9b93ba1ad944c5b8e80506bc03ecafc
 #: ../../DGM.rst:73
 msgid "Counter target spell unless its controller pays |mana_6|."
-msgstr "Skontruj wskazany czar dopóki jego władcą nie zapłaci |mana_6|."
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_6|."
 
 # b127085ae53a42c29a9247ed630bf329
 #: ../../DGM.rst:78
@@ -272,8 +280,9 @@ msgstr "Obronność"
 
 # 53c6108f4cbd4aa9b570b17fb1567fb4
 #: ../../DGM.rst:82
+#, fuzzy
 msgid "Opal Lake Gatekeepers"
-msgstr ""
+msgstr "Opal Lake Gatekeepers"
 
 # de18a27a130c447bb09dd931cecdba77
 #: ../../DGM.rst:81
@@ -281,8 +290,8 @@ msgid ""
 "When Opal Lake Gatekeepers enters the battlefield, if you control two or "
 "more Gates, you may draw a card."
 msgstr ""
-"Kiedy Opal Lake Gatekeepers wchodzi na pole walki możesz dobrać kartę jeśli "
-"władasz przynajmniej dwiema Bramami."
+"Kiedy ta karta wejdzie na pole walki, jeśli władasz co najmniej dwiema "
+"Bramami, możesz dobrać kartę."
 
 # 1a2ebd5603714860a700176e24e0387b
 #: ../../DGM.rst:90
@@ -297,7 +306,7 @@ msgstr "Zaurocz stwora o sile nie większej niż 3"
 # 4a18bb8e348c482697ad7c690b7616f2
 #: ../../DGM.rst:87
 msgid "When Runner's Bane enters the battlefield, tap enchanted creature."
-msgstr "Kiedy Runner's Bane wchodzi na pole walki, zatapuj zauroczonego stwora."
+msgstr "Kiedy ta karta wejdzie na pole walki, zatapuj zauroczonego stwora."
 
 # b11b8bdc1868491595ad7792ee959a9b
 #: ../../DGM.rst:89
@@ -306,8 +315,9 @@ msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
 
 # c591cf62008a4d988f24295db3203a3d
 #: ../../DGM.rst:96
+#, fuzzy
 msgid "Trait Doctoring"
-msgstr ""
+msgstr "Trait Doctoring"
 
 # 398a972353964bb3bc56d1df6300cb75
 #: ../../DGM.rst:93
@@ -2505,8 +2515,9 @@ msgstr "Ten ląd wchodzi na pole walki zatapowany."
 
 # f00fab9fc4344a179920f5db6a9862a3
 #: ../../DGM.rst:880
+#, fuzzy
 msgid "Golgari Guildgate"
-msgstr ""
+msgstr "Golgari Guildgate"
 
 # 8937f0f9805848479a9063ff1bc803ae
 #: ../../DGM.rst:877

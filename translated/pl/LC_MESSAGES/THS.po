@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 23:02+0000\n"
+"PO-Revision-Date: 2018-12-31 10:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -810,8 +810,9 @@ msgstr ""
 
 # 61bdc94ec4d348a69287531388e186bb
 #: ../../THS.rst:206
+#, fuzzy
 msgid "Wingsteed Rider"
-msgstr ""
+msgstr "Wingsteed Rider"
 
 # 5705cee5059342b08730d917f08aad0d
 # a8c53d1a171b4d2981650614f7b10cf6
@@ -1090,8 +1091,9 @@ msgstr ""
 
 # a3923358e00e404892134d839b0f6a31
 #: ../../THS.rst:286
+#, fuzzy
 msgid "Lost in a Labyrinth"
-msgstr ""
+msgstr "Lost in a Labyrinth"
 
 # 0a085118e6994de3888058f1b9dc029b
 # 5ef454344c7942bf873db497bcd78a76
@@ -1747,6 +1749,8 @@ msgid ""
 "Intimidate (This creature can't be blocked except by artifact creatures and/"
 "or creatures that share a color with it.)"
 msgstr ""
+"Zastraszenie (Ten stwór nie może być blokowany chyba że przez stwory "
+"artefaktyczne lub współdzielące z nim kolor.)"
 
 # a975b9d086c846c2b40f82981b75ba34
 # c19a4a7ea16f42aab546c9f55a3f0714
@@ -1988,8 +1992,9 @@ msgstr "Wskazany stwór dostaje -4/-4 do końca tury."
 
 # 977847dcbf284ce38b0e0a835299352f
 #: ../../THS.rst:532
+#, fuzzy
 msgid "Loathsome Catoblepas"
-msgstr ""
+msgstr "Loathsome Catoblepas"
 
 # 52776aefeec8402c8a8e49b0fea103ae
 # 55daeaea62d44d44a2f0f379a4cdce46
@@ -2013,7 +2018,7 @@ msgstr ""
 # 4fcca0eb078b42798b00cb4029634cd9
 #: ../../THS.rst:536
 msgid "March of the Returned"
-msgstr ""
+msgstr "March of the Returned (Pochód Przywróconych)"
 
 # 4008fa3a1da24b52aa6c635674343711
 # c8e0783220084e8d827e041b87e21d43
@@ -2135,8 +2140,9 @@ msgstr ""
 
 # 78e904aa798949dda6b7ffa2160bf065
 #: ../../THS.rst:568
+#, fuzzy
 msgid "Rescue from the Underworld"
-msgstr ""
+msgstr "Rescue from the Underworld"
 
 # 0bd246ea5f094938a09d5207880da696
 # d7adaee9809e46e4b34432b97885c41c
@@ -2628,8 +2634,9 @@ msgstr "Ten czar zadaje 3 obrażenia dowolnemu celowi."
 
 # b6736a5569b841458de7f90b70fe78be
 #: ../../THS.rst:698
+#, fuzzy
 msgid "Magma Jet"
-msgstr ""
+msgstr "Magma Jet"
 
 #: ../../THS.rst:697
 #, fuzzy
@@ -3346,8 +3353,9 @@ msgstr "Mistcutter Hydra wchodzi na pole walki z X znacznikami +1/+1."
 
 # a026b89a2fc348f5a0551a2d35e5103a
 #: ../../THS.rst:900
+#, fuzzy
 msgid "Nemesis of Mortals"
-msgstr ""
+msgstr "Nemesis of Mortals"
 
 # 2824bc9225ce4907869a05a83ed12970
 # b5c1ff48e2914dcf8d4f6e73ead3ab72
@@ -3375,8 +3383,9 @@ msgstr ""
 
 # 20feefa75af84bbab4c63ab80918d338
 #: ../../THS.rst:906
+#, fuzzy
 msgid "Nessian Asp"
-msgstr ""
+msgstr "Nessian Asp"
 
 # fdaaaba1c87c43c8a46cf90acc8249a7
 # 230d025840d547c4b652aaa6c3ceb3c5
@@ -4083,8 +4092,9 @@ msgstr ""
 
 # d9779816fb094f868d40b1e25d14f9a0
 #: ../../THS.rst:1108
+#, fuzzy
 msgid "Reaper of the Wilds"
-msgstr ""
+msgstr "Reaper of the Wilds"
 
 # d01bf81a58434f7e8d2d4c7b0fb4c62b
 # d8a3d8f79b2f46bd95b2f6577ce67135
@@ -4461,8 +4471,9 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 
 # 4ee4065b9843493eb32c196d7a2f7c12
 #: ../../THS.rst:1208
+#, fuzzy
 msgid "Opaline Unicorn"
-msgstr ""
+msgstr "Opaline Unicorn"
 
 # 11da2a5a5fd14841bf129f80ef1f6633
 # bde0f6a0e2004aea94b2b5280621655d

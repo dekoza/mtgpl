@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 23:02+0000\n"
+"PO-Revision-Date: 2018-12-31 10:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/soi/pl/>\n"
 "Language: pl\n"
@@ -54,32 +54,40 @@ msgid ""
 "more card types among cards in your graveyard, exile target creature an "
 "opponent controls."
 msgstr ""
+"Delirium — Ilekroć ten stwór zadaje obrażenia, jeśli w twoim cmentarzu są "
+"karty należące do przynajmniej czterech typów kart, wygnaj wskazanego stwora "
+"spod władania przeciwnika."
 
 #: ../../SOI.rst:22
+#, fuzzy
 msgid "Angelic Purge"
-msgstr ""
+msgstr "Angelic Purge"
 
 #: ../../SOI.rst:19
 msgid "As an additional cost to cast this spell, sacrifice a permanent."
-msgstr ""
+msgstr "Jako dodatkowy koszt rzucenia tego czaru poświęć permanent."
 
 #: ../../SOI.rst:21
 msgid "Exile target artifact, creature, or enchantment."
-msgstr ""
+msgstr "Wygnaj wskazany artefakt, stwora lub urok."
 
 #: ../../SOI.rst:28
+#, fuzzy
 msgid "Apothecary Geist"
-msgstr ""
+msgstr "Apothecary Geist"
 
 #: ../../SOI.rst:27
 msgid ""
 "When Apothecary Geist enters the battlefield, if you control another Spirit, "
 "you gain 3 life."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli władasz innym Duchem, zyskujesz "
+"3 życia."
 
 #: ../../SOI.rst:38
+#, fuzzy
 msgid "Archangel Avacyn"
-msgstr ""
+msgstr "Archangel Avacyn"
 
 #: ../../SOI.rst:31 ../../SOI.rst:469
 msgid "Flash"
@@ -94,6 +102,8 @@ msgid ""
 "When Archangel Avacyn enters the battlefield, creatures you control gain "
 "indestructible until end of turn."
 msgstr ""
+"Kiedy ta karta wchodzi na pole walki, stwory pod twoim władaniem zyskują "
+"niezniszczalność do końca tury."
 
 #: ../../SOI.rst:37
 msgid ""
