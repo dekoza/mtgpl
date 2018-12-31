@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-31 10:37+0000\n"
+"PO-Revision-Date: 2019-01-01 01:24+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -27,8 +27,9 @@ msgstr "Commander 2013"
 
 # 0314c309ee764b7c8b6cbfbb84798f5d
 #: ../../C13.rst:12
+#, fuzzy
 msgid "Act of Authority"
-msgstr ""
+msgstr "Act of Authority"
 
 # c2bca7b6bd1d4b2d93364c09a412f99a
 #: ../../C13.rst:9
@@ -36,6 +37,8 @@ msgid ""
 "When Act of Authority enters the battlefield, you may exile target artifact "
 "or enchantment."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz wygnać wskazany artefakt lub "
+"urok."
 
 # 8c287360d58b4f468f3fb3e4d9ecc42e
 #: ../../C13.rst:11
@@ -100,7 +103,7 @@ msgstr "Ajani's Pridemate"
 #: ../../C13.rst:21
 msgid ""
 "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate."
-msgstr ""
+msgstr "Ilekroć zyskujesz życie, możesz położyć znacznik +1/+1 na tym stworze."
 
 # bed1b10e152e40108d9f1031f18e9f7e
 #: ../../C13.rst:28
@@ -132,7 +135,7 @@ msgstr ""
 # 6b8a6efe961047a48876b725cc4340d8
 #: ../../C13.rst:35
 msgid "Azorius Herald can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 # 911f4a21b80f4c379147823287105fc9
 #: ../../C13.rst:37
@@ -1186,6 +1189,8 @@ msgid ""
 "Cycling |mana_1| |mana_b| (|mana_1| |mana_b|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 # 58865941a09d4397952764b8afef83cf
 #: ../../C13.rst:435
@@ -1917,7 +1922,7 @@ msgstr ""
 # 538e1f9611a84a6cbd8f6a1c650a22ab
 #: ../../C13.rst:693
 msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_3| (|mana_3|, odrzuć tę kartę: Dobierz kartę.)"
 
 # 0580180589e1466b96112491daaa7331
 #: ../../C13.rst:700
@@ -3283,8 +3288,8 @@ msgstr ""
 #, fuzzy
 msgid "Create a 2/2 white Knight creature token with vigilance."
 msgstr ""
-"Kiedy Knightly Valor wchodzi na pole walki, umieść na polu walki żeton "
-"białego stwora Rycerz 2/2 z czujnością."
+"Kiedy Knightly Valor wchodzi na pole walki, stwórz żeton białego stwora "
+"Rycerz 2/2 z czujnością."
 
 # c62141789031499bafb5ce0131d5ea12
 #: ../../C13.rst:1224
@@ -4250,7 +4255,7 @@ msgstr "|tap|: Dostajesz |mana_b|."
 # 479225d55fd44335ae63cbae61845578
 #: ../../C13.rst:1583
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_b| (|mana_b|, odrzuć tę kartę: Dobierz kartę.)"
 
 # f627ac01176e4f24b20f5ed22947ef79
 #: ../../C13.rst:1592
@@ -4380,7 +4385,7 @@ msgstr "|tap|: Dostajesz |mana_w|."
 # 471658282afc4b188b00ca40caaa04cd
 #: ../../C13.rst:1635 ../../C13.rst:1907 ../../C13.rst:1915
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 # e3760c182e23439bbcafa269f3865fcc
 #: ../../C13.rst:1642
@@ -4448,7 +4453,7 @@ msgstr "|tap|: Dostajesz |mana_r|."
 # 4b3ca85105054227bc770adf8e474e2b
 #: ../../C13.rst:1661
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_r| (|mana_r|, odrzuć tę kartę: Dobierz kartę.)"
 
 # dd25c2161cc1459e9430edb3177c0f72
 #: ../../C13.rst:1668
@@ -4703,7 +4708,7 @@ msgstr ""
 # 16a94884c25444ccbec70c51b14490e0
 #: ../../C13.rst:1771
 msgid "Cycling |mana_u| (|mana_u|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_u| (|mana_u|, odrzuć tę kartę: Dobierz kartę.)"
 
 # ed6f7aebc1a3499dbf1429e28a2408b0
 #: ../../C13.rst:1780
@@ -4931,7 +4936,7 @@ msgstr ""
 # f2a01065e91f4825a9e18f1f6e48b90c
 #: ../../C13.rst:1871
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
 # d6220f3e888d4e1ba2d61c30d802c3bb
 #: ../../C13.rst:1880
@@ -5079,7 +5084,7 @@ msgstr ""
 # 8c1148b16f214805a2b8fbebb102c843
 #: ../../C13.rst:1939
 msgid "Cycling |mana_g| (|mana_g|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_g| (|mana_g|, odrzuć tę kartę: Dobierz kartę.)"
 
 # 407df5abddb6483190822aff87206a09
 #: ../../C13.rst:1948
