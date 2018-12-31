@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-31 10:37+0000\n"
+"PO-Revision-Date: 2019-01-01 01:24+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -127,9 +127,9 @@ msgid ""
 "(Create a token that's a copy of a creature token you control.)"
 msgstr ""
 "Kiedy Scion of Vitu-Ghazi wchodzi na pole walki, jeśli był rzucony z ręki, "
-"umieść na polu walki żeton białego stwora Bird 1/1 z lataniem, a następnie "
-"zaludnij. (Umieść na polu walki żeton będący kopią władanego przez ciebie "
-"żetonu stwora.)"
+"stwórz żeton białego stwora Bird 1/1 z lataniem, a następnie zaludnij. ("
+"Umieść na polu walki żeton będący kopią władanego przez ciebie żetonu "
+"stwora.)"
 
 # 7cbac1aa0eb2461abc155044a069f26d
 #: ../../DGM.rst:40
@@ -156,8 +156,7 @@ msgid ""
 "Gates, create a 2/2 white Knight creature token with vigilance."
 msgstr ""
 "Kiedy Sunspire Gatekeepers wchodzi na pole walki, jeśli władasz przynajmniej "
-"dwiema Bramami, umieść na polu walki żeton białego stwora Knight 2/2 z "
-"czujnością."
+"dwiema Bramami, stwórz żeton białego stwora Knight 2/2 z czujnością."
 
 # 141ca5f2e31840979a267a3fed1442f8
 #: ../../DGM.rst:48
@@ -896,8 +895,8 @@ msgid ""
 "Whenever an instant or sorcery spell you control deals damage, create two "
 "1/1 red and white Soldier creature tokens with haste."
 msgstr ""
-"Ilekroć czar sztuczki lub obrzędu, którymi władasz, zada obrażenia, umieść "
-"na polu walki dwa żetony czerwono-białego stwora Soldier 1/1 z pośpiechem."
+"Ilekroć czar sztuczki lub obrzędu, którymi władasz, zada obrażenia, stwórz "
+"dwa żetony czerwono-białego stwora Soldier 1/1 z pośpiechem."
 
 # 1ccf726bc2f1432eab1eedf3c38c8f70
 #: ../../DGM.rst:286
@@ -1798,9 +1797,9 @@ msgid ""
 "creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 "
 "green Rhino creature token with trample."
 msgstr ""
-"Kiedy Trostani's Summoner wchodzi na pole walki umieść na polu walki żeton "
-"białego stwora Knight 2/2 z czujnością, żeton zielonego stwora Centaur 3/3 "
-"oraz żeton zielonego stwora Rhino 4/4 z tratowaniem."
+"Kiedy Trostani's Summoner wchodzi na pole walki stwórz żeton białego stwora "
+"Knight 2/2 z czujnością, żeton zielonego stwora Centaur 3/3 oraz żeton "
+"zielonego stwora Rhino 4/4 z tratowaniem."
 
 # fc7f65b8d0794aaf87b499f92e279dea
 #: ../../DGM.rst:572
@@ -1868,9 +1867,9 @@ msgid ""
 "creatures you control.\""
 msgstr ""
 "Ilekroć przeciwnik rzuca czar w twojej turze lub kiedy Voice of Resurgence "
-"umiera, umieść na polu walki zielono-białego stwora Elemental posiadającego "
-"\"Siła i wytrzymałość tego stwora są równe liczbie stworów pod twoim w "
-"władaniem każde.\""
+"umiera, stwórz zielono-białego stwora Elemental posiadającego \"Siła i "
+"wytrzymałość tego stwora są równe liczbie stworów pod twoim w władaniem "
+"każde.\""
 
 # 83757b37a1a044e4b396a75b5228b7b7
 #: ../../DGM.rst:592
