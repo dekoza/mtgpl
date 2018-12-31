@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-31 00:12+0000\n"
+"PO-Revision-Date: 2018-12-31 10:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -344,6 +344,8 @@ msgid ""
 "Intimidate (This creature can't be blocked except by artifact creatures and/"
 "or creatures that share a color with it.)"
 msgstr ""
+"Zastraszenie (Ten stwór nie może być blokowany chyba że przez stwory "
+"artefaktyczne lub współdzielące z nim kolor.)"
 
 #: ../../C14.rst:133
 msgid ""
@@ -1411,8 +1413,9 @@ msgid "Draw three cards."
 msgstr "Dobierz trzy karty."
 
 #: ../../C14.rst:600
+#, fuzzy
 msgid "Cyclonic Rift"
-msgstr ""
+msgstr "Cyclonic Rift"
 
 #: ../../C14.rst:597
 msgid "Return target nonland permanent you don't control to its owner's hand."
@@ -1424,6 +1427,9 @@ msgid ""
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
+"Przeciążenie |mana_6| |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \""
+"wskazany\" na \"każdy.\")"
 
 #: ../../C14.rst:608
 msgid "Deep-Sea Kraken"
