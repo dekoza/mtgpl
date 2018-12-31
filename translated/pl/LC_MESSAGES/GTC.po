@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-31 10:37+0000\n"
+"PO-Revision-Date: 2019-01-01 01:24+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -399,8 +399,8 @@ msgid ""
 "When enchanted creature dies, create X 1/1 white Soldier creature tokens, "
 "where X is its power."
 msgstr ""
-"Kiedy zauroczony stwór umiera, umieść na polu walki tyle żetonów białego "
-"stwora Piechur 1/1, ile wynosi siła owego stwora."
+"Kiedy zauroczony stwór umiera, stwórz tyle żetonów białego stwora Piechur 1/"
+"1, ile wynosi siła owego stwora."
 
 # e12c7ee390ce457f9b59616a9d7faece
 #: ../../GTC.rst:122
@@ -470,8 +470,8 @@ msgid ""
 "When Urbis Protector enters the battlefield, create a 4/4 white Angel "
 "creature token with flying."
 msgstr ""
-"Kiedy Urbis Protector wchodzi na pole walki, umieść na polu walki żeton "
-"białego stwora Anioł 4/4 z lataniem."
+"Kiedy Urbis Protector wchodzi na pole walki, stwórz żeton białego stwora "
+"Anioł 4/4 z lataniem."
 
 # e5a39c70ba1d4d32b7fff9d3c575cbbf
 #: ../../GTC.rst:146
@@ -1857,8 +1857,8 @@ msgid ""
 "Whenever Giant Adephage deals combat damage to a player, create a token "
 "that's a copy of Giant Adephage."
 msgstr ""
-"Ilekroć Giant Adephage zadaje graczowi obrażenia bitewne, umieść na polu "
-"walki żeton będący kopią Giant Adephage."
+"Ilekroć Giant Adephage zadaje graczowi obrażenia bitewne, stwórz żeton "
+"będący kopią Giant Adephage."
 
 # 7116ecd6ebe6433399d9307a18f2c781
 #: ../../GTC.rst:628
@@ -2166,8 +2166,8 @@ msgid ""
 "for each muster counter on Assemble the Legion."
 msgstr ""
 "Na początku twojego utrzymania umieść znacznik musztry na Assemble the "
-"Legion. Następnie umieść na polu walki czerwono-biały żeton stwora Soldier 1/"
-"1 z pośpiechem za każdy znacznik musztry na Assemble the Legion."
+"Legion. Następnie stwórz czerwono-biały żeton stwora Soldier 1/1 z "
+"pośpiechem za każdy znacznik musztry na Assemble the Legion."
 
 # e71845c23d664a3f91f28cfbec9a1183
 #: ../../GTC.rst:726
@@ -2392,10 +2392,10 @@ msgid ""
 "creature: Return a card named Deathpact Angel from your graveyard to the "
 "battlefield.\""
 msgstr ""
-"Kiedy Deathpact Angel umiera, umieść na polu walki żeton biało-czarnego "
-"stwora Cleric 1/1 ze zdolnością \"|mana_3| |mana_w| |mana_b| |mana_b|, |tap|"
-", poświęć tego stwora: Zwróć kartę o nazwie Deathpact Angel z twojego "
-"cmentarza na pole walki.\""
+"Kiedy Deathpact Angel umiera, stwórz żeton biało-czarnego stwora Cleric 1/1 "
+"ze zdolnością \"|mana_3| |mana_w| |mana_b| |mana_b|, |tap|, poświęć tego "
+"stwora: Zwróć kartę o nazwie Deathpact Angel z twojego cmentarza na pole "
+"walki.\""
 
 # 3d3758353ef34c7e924b1bb40734efef
 #: ../../GTC.rst:802
