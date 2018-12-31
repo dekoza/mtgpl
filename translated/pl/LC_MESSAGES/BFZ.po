@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 23:02+0000\n"
+"PO-Revision-Date: 2018-12-31 10:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bfz/pl/>\n"
 "Language: pl\n"
@@ -866,8 +866,9 @@ msgid "Creatures your opponents control get -1/-0."
 msgstr ""
 
 #: ../../BFZ.rst:402
+#, fuzzy
 msgid "Dispel"
-msgstr ""
+msgstr "Dispel"
 
 #: ../../BFZ.rst:401
 msgid "Counter target instant spell."
