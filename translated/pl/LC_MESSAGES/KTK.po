@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-31 00:12+0000\n"
+"PO-Revision-Date: 2018-12-31 10:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -181,8 +181,9 @@ msgstr ""
 
 # 46046525cead4d798dde304f60473b56
 #: ../../KTK.rst:62
+#, fuzzy
 msgid "Firehoof Cavalry"
-msgstr ""
+msgstr "Firehoof Cavalry"
 
 # 67b438af936240878eb587d760ee9546
 #: ../../KTK.rst:61
@@ -311,6 +312,8 @@ msgid ""
 "|mana_b|: Mardu Hateblade gains deathtouch until end of turn. (Any amount of "
 "damage it deals to a creature is enough to destroy it.)"
 msgstr ""
+"|mana_b|: Ten stwór  zyskuje dotyk śmierci do końca tury. (Dowolna ilość "
+"obrażeń zadana stworowi przez tę kartę wystarcza, aby został zniszczony.)"
 
 # 75dd61f650e84a0a823be54c3d6acd05
 #: ../../KTK.rst:92
@@ -324,6 +327,8 @@ msgid ""
 "Raid — When Mardu Hordechief enters the battlefield, if you attacked with a "
 "creature this turn, create a 1/1 white Warrior creature token."
 msgstr ""
+"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, stwórz żeton białego stwora Wojownik 1/1."
 
 # 33f8cf3c4c97463f95e8456fa50d6329
 #: ../../KTK.rst:98
@@ -362,6 +367,9 @@ msgid ""
 "control gain lifelink until end of turn. (Damage dealt by those Warriors "
 "also causes their controller to gain that much life.)"
 msgstr ""
+"Stwory pod twoim władaniem dostają +2/+1 do końca tury. Wojownicy pod twoim "
+"władaniem zyskują więź życia. (Obrażenia zadane przez owych Wojowników "
+"dodatkowo sprawiają, że ich władca zyskuje tyle samo życia.)"
 
 # cbdbcaa7552d45479197fff627b54498
 #: ../../KTK.rst:108
@@ -397,6 +405,8 @@ msgid ""
 "Whenever you cast a noncreature spell, Seeker of the Way gains lifelink "
 "until end of turn."
 msgstr ""
+"Ilekroć rzucasz czar nie będący stworem, ten stwór zyskuje więź życia do "
+"końca tury."
 
 # 11cbff08d8e846a885094f1d2cf7beb8
 #: ../../KTK.rst:124
@@ -432,9 +442,8 @@ msgstr "Zniszcz wskazanego stwora z siłą 4 lub większą."
 
 # 2a1a31490b724a4ea15c984d66c055b1
 #: ../../KTK.rst:132
-#, fuzzy
 msgid "Suspension Field"
-msgstr "Suspension Field"
+msgstr "Suspension Field (Pole Zawieszenia)"
 
 # f480fb1773814d6988311e5740976f1d
 #: ../../KTK.rst:131
@@ -443,6 +452,9 @@ msgid ""
 "with toughness 3 or greater until Suspension Field leaves the battlefield. "
 "(That creature returns under its owner's control.)"
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz wygnać wskazanego stwora o "
+"wytrzymałości 3 lub większej dopóki ta karta nie opuści pola walki. (Ów "
+"stwór wraca pod władanie swojego właściciela.)"
 
 # e3c0dff9e18c45668d23a0efac1befad
 #: ../../KTK.rst:136
@@ -452,7 +464,7 @@ msgstr "Take Up Arms"
 
 #: ../../KTK.rst:135
 msgid "Create three 1/1 white Warrior creature tokens."
-msgstr ""
+msgstr "Stwórz trzy żetony białego stwora Wojownik 1/1."
 
 # dd5eada07b1c46bd8bc28c9c0b44c8d0
 #: ../../KTK.rst:140
@@ -467,11 +479,15 @@ msgid ""
 "creature this turn, return target creature card with converted mana cost 2 "
 "or less from your graveyard to the battlefield."
 msgstr ""
+"Najazd — Kiedy ta karta wyjdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, przywróć wskazaną kartę stwora o uproszczonym koszcie many 2 lub "
+"mniejszym z twojego cmentarza na pole walki."
 
 # 59df968c623f481395dbbd3fd3414719
 #: ../../KTK.rst:144
+#, fuzzy
 msgid "Venerable Lammasu"
-msgstr ""
+msgstr "Venerable Lammasu"
 
 # 76459712b9bb45349f02355cf9ecec2b
 #: ../../KTK.rst:148
@@ -522,12 +538,16 @@ msgid ""
 "Raid — When Wingmate Roc enters the battlefield, if you attacked with a "
 "creature this turn, create a 3/4 white Bird creature token with flying."
 msgstr ""
+"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, stwórz żeton białego stwora Ptak 3/4 z lataniem."
 
 # 7b9bd28ac8f040179077c1c14b068a1d
 #: ../../KTK.rst:163
 msgid ""
 "Whenever Wingmate Roc attacks, you gain 1 life for each attacking creature."
 msgstr ""
+"Ilekroć ten stwór atakuje, zyskujesz po 1 życiu za każdego atakującego "
+"stwora."
 
 # 20e6dcc320254036a9a3a918af141844
 #: ../../KTK.rst:170
@@ -744,8 +764,9 @@ msgstr "Jeskai Windscout"
 
 # fd988a9e36314f65a3fd4ad3cb8f2774
 #: ../../KTK.rst:238
+#, fuzzy
 msgid "Kheru Spellsnatcher"
-msgstr ""
+msgstr "Kheru Spellsnatcher"
 
 # 9a056651a4144a6995e011ae47f04a76
 #: ../../KTK.rst:235
@@ -820,7 +841,7 @@ msgstr "Mystic of the Hidden Way"
 # caed8fc471fe4a4fa0c38c8cc31dbd7b
 #: ../../KTK.rst:255
 msgid "Mystic of the Hidden Way can't be blocked."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany."
 
 # 1a7ab4e911e749fca835db5373a1f7cc
 #: ../../KTK.rst:268
@@ -859,6 +880,9 @@ msgid ""
 "target creature an opponent controls and it doesn't untap during its "
 "controller's next untap step."
 msgstr ""
+"Ilekroć rzucasz czar nie będący stworem, możesz zapłacić |mana_1|. Jeśli to "
+"zrobisz, zatapuj wskazanego stwora pod władaniem przeciwnika i nie odtapuje "
+"się on w najbliższym kroku odtapowania swojego władcy."
 
 # 6a0150a7ce80448089dc77e40104dd75
 #: ../../KTK.rst:278
@@ -876,6 +900,7 @@ msgstr "Scaldkin"
 msgid ""
 "|mana_2| |mana_r|, Sacrifice Scaldkin: Scaldkin deals 2 damage to any target."
 msgstr ""
+"|mana_2| |mana_r|, poświęć tego stwora: Zadaje on 2 obrażenia w dowolny cel."
 
 # b5360dab2fe24ca98a6a6a1b478c1ae6
 #: ../../KTK.rst:288
@@ -886,7 +911,7 @@ msgstr "Scion of Glaciers"
 # b07a3d204b724b1ba39ab45bd61208dd
 #: ../../KTK.rst:287
 msgid "|mana_u|: Scion of Glaciers gets +1/-1 until end of turn."
-msgstr ""
+msgstr "|mana_u|: Ten stwór dostaje +1/-1 do końca tury."
 
 # c9758c45f4314cfca13f18af53388e54
 #: ../../KTK.rst:294
@@ -910,7 +935,7 @@ msgstr "Singing Bell Strike"
 #: ../../KTK.rst:299
 msgid ""
 "When Singing Bell Strike enters the battlefield, tap enchanted creature."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zatapuj zauroczonego stwora."
 
 # 250a9f62d257480982181a79550b5790
 #: ../../KTK.rst:301
