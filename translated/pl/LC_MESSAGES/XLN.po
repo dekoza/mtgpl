@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 23:02+0000\n"
+"PO-Revision-Date: 2018-12-31 16:27+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -93,7 +93,7 @@ msgid ""
 "Whenever Bishop of Rebirth attacks, you may return target creature card with "
 "converted mana cost 3 or less from your graveyard to the battlefield."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zwrócić wskazaną kartę stwora o całkowitym "
+"Ilekroć ten stwór atakuje, możesz zwrócić wskazaną kartę stwora o skróconym "
 "koszcie 3 lub mniejszym z twojego cmentarza na pole walki."
 
 #: ../../XLN.rst:36
@@ -748,7 +748,7 @@ msgstr "Entrancing Melody"
 
 #: ../../XLN.rst:281
 msgid "Gain control of target creature with converted mana cost X."
-msgstr "Zyskujesz władanie nad wskazanym stworem o łącznym koszcie many X."
+msgstr "Zyskujesz władanie nad wskazanym stworem o skróconym koszcie many X."
 
 #: ../../XLN.rst:286
 #, fuzzy
@@ -906,7 +906,7 @@ msgid ""
 "its converted mana cost was 2 or less, scry 2."
 msgstr ""
 "Przywróć wskazany permanent nie będący lądem i nie będący pod twoim "
-"władaniem do ręki jego właściciela. Jeśli jego łączny koszt many to 2 lub "
+"władaniem do ręki jego właściciela. Jeśli jego skrócony koszt many to 2 lub "
 "mniej, wróż 2."
 
 #: ../../XLN.rst:346
@@ -1128,7 +1128,7 @@ msgid ""
 "artifact: Add one mana of any color.\""
 msgstr ""
 "Skontruj wskazany czar. Stwórz X żetonów bezkolorowego artefaktu Skarb, "
-"gdzie X jest łącznym kosztem many owego czaru. Mają one zdolność \"|tap|, "
+"gdzie X jest skróconym kosztem many owego czaru. Mają one zdolność \"|tap|, "
 "poświęć ten artefakt: Dostajesz jedną manę dowolnego koloru.\""
 
 #: ../../XLN.rst:422
@@ -1654,7 +1654,7 @@ msgid ""
 msgstr ""
 "Najazd — Na początku twojego kroku końcowego, jeśli atakowałeś stworem w tej "
 "turze, ujawnij wierzchnią kartę twojej biblioteki i umieść ją w twojej ręce. "
-"Tracisz życie równe łącznemu kosztowi many owej karty."
+"Tracisz życie równe skróconemu kosztowi many owej karty."
 
 #: ../../XLN.rst:612
 #, fuzzy
@@ -2240,8 +2240,8 @@ msgid ""
 "cost. Put the rest on the bottom of your library in a random order."
 msgstr ""
 "Ilekroć rzucisz czar z twojej ręki, ujawnij X wierzchnich kart twojej "
-"biblioteki, gdzie X jest łącznym kosztem many owego czaru. Możesz rzucić "
-"ujawnioną w ten sposób kartę o łącznym koszcie many X lub mniejszym bez "
+"biblioteki, gdzie X jest skróconym kosztem many owego czaru. Możesz rzucić "
+"ujawnioną w ten sposób kartę o skróconym koszcie many X lub mniejszym bez "
 "płacenia jaj kosztu many. Umieść pozostałe na spodzie twojej biblioteki w "
 "losowej kolejności."
 
