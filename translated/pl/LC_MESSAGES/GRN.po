@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 23:02+0000\n"
+"PO-Revision-Date: 2018-12-31 16:27+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -505,7 +505,7 @@ msgstr "Disdainful Stroke"
 
 #: ../../GRN.rst:199
 msgid "Counter target spell with converted mana cost 4 or greater."
-msgstr "Skontruj wskazany czar o łącznym koszcie many 4 lub większym."
+msgstr "Skontruj wskazany czar o skróconym koszcie many 4 lub większym."
 
 #: ../../GRN.rst:208
 #, fuzzy
@@ -924,9 +924,9 @@ msgid ""
 "the same for creature cards with converted mana costs 2 and 3. Return those "
 "cards to the battlefield."
 msgstr ""
-"Wybierz w twoim cmentarzu kartę stwora o łącznym koszcie many 1, a następnie "
-"zrób to samo dla kart stworów o łącznym koszcie many 2 i 3. Zwróć owe karty "
-"na pole walki."
+"Wybierz w twoim cmentarzu kartę stwora o skróconym koszcie many 1, a "
+"następnie zrób to samo dla kart stworów o skróconym koszcie many 2 i 3. "
+"Zwróć owe karty na pole walki."
 
 #: ../../GRN.rst:384
 #, fuzzy
@@ -974,7 +974,7 @@ msgid ""
 "less than or equal to the number of creature cards in your graveyard, reveal "
 "it, put it into your hand, then shuffle your library."
 msgstr ""
-"Ściółka — Wyszukaj w twojej bibliotece czarną kartę o łącznym koszcie many "
+"Ściółka — Wyszukaj w twojej bibliotece czarną kartę o skróconym koszcie many "
 "mniejszym lub równym liczbie kart stworów w twoim cmentarzu, ujawnij ją i "
 "dołóż do twojej ręki, a następnie przetasuj twoją bibliotekę."
 
@@ -1091,7 +1091,7 @@ msgstr "Ritual of Soot"
 
 #: ../../GRN.rst:441
 msgid "Destroy all creatures with converted mana cost 3 or less."
-msgstr "Zniszcz wszystkie stwory o łącznym koszcie many 3 lub mniejszym."
+msgstr "Zniszcz wszystkie stwory o skróconym koszcie many 3 lub mniejszym."
 
 #: ../../GRN.rst:448
 #, fuzzy
@@ -1274,7 +1274,7 @@ msgid ""
 "until end of turn, where X is that spell's converted mana cost."
 msgstr ""
 "Ilekroć rzucasz sztuczkę lub obrzęd, ten stwór dostaje +X/+0 do końca tury, "
-"gdzie X jest łącznym kosztem many owego czaru."
+"gdzie X jest skróconym kosztem many owego czaru."
 
 #: ../../GRN.rst:522
 #, fuzzy
@@ -1708,7 +1708,7 @@ msgid ""
 msgstr ""
 "Ściółka — Rzucając ten czar, ujawnij X wierzchnich kart twojej biblioteki, "
 "gdzie X jest liczbą kart stworów w twoim cmentarzu. Spośród owych kart "
-"możesz położyć na polu walki kartę zielonego permanentu o łącznym koszcie "
+"możesz położyć na polu walki kartę zielonego permanentu o skróconym koszcie "
 "many X lub mniej. Umieść pozostałe na spodzie twojej biblioteki w losowej "
 "kolejności."
 
@@ -2428,7 +2428,6 @@ msgstr ""
 "kartę twojej biblioteki. Możesz położyć ową kartę do twojego cmentarza.)"
 
 #: ../../GRN.rst:987
-#, fuzzy
 msgid ""
 "|mana_x|: Lazav, the Multifarious becomes a copy of target creature card in "
 "your graveyard with converted mana cost X, except its name is Lazav, the "
@@ -2436,7 +2435,7 @@ msgid ""
 "ability."
 msgstr ""
 "|mana_x|: Ten stwór staje się kopią wskazanej karty stwora w twoim cmentarzu "
-"o całkowitym koszcie many X, z wyjątkiem tego, że jego nazwa to 'Lazav, the "
+"o skróconym koszcie many X, z wyjątkiem tego, że jego nazwa to 'Lazav, the "
 "Multifarious', jest legendarny w dodatku do swoich innych typów oraz posiada "
 "niniejszą zdolność."
 
@@ -2455,8 +2454,8 @@ msgid ""
 "with converted mana cost X. You may choose new targets for the copy."
 msgstr ""
 "|mana_x| |mana_r|, |tap|: Skopiuj wskazany władany przez ciebie czar "
-"sztuczki lub obrzędu o łącznym koszcie X. Możesz wskazać nowe cele dla owej "
-"kopii."
+"sztuczki lub obrzędu o skróconym koszcie X. Możesz wskazać nowe cele dla "
+"owej kopii."
 
 #: ../../GRN.rst:1000
 #, fuzzy
@@ -2893,7 +2892,7 @@ msgstr ""
 msgid ""
 "−3: Destroy target nonland permanent with converted mana cost 3 or less."
 msgstr ""
-"-3: Zniszcz wskazany nie-lądowy permanent o łącznym koszcie many 3 lub "
+"-3: Zniszcz wskazany nie-lądowy permanent o skróconym koszcie many 3 lub "
 "mniejszym."
 
 #: ../../GRN.rst:1159
@@ -3042,7 +3041,7 @@ msgid ""
 "converted mana cost among permanents they control to its owner's hand, then "
 "discards a card."
 msgstr ""
-"Każdy przeciwnik przywraca nie-lądowy permanent o najwyższym całkowitym "
+"Każdy przeciwnik przywraca nie-lądowy permanent o najwyższym skróconym "
 "koszcie many spośród władanych permanentów do ręki właścicela, następnie "
 "odrzuca kartę."
 
@@ -3056,7 +3055,7 @@ msgid ""
 "Copy target instant or sorcery spell with converted mana cost 4 or less. You "
 "may choose new targets for the copy."
 msgstr ""
-"Skopiuj wskazany czar sztuczki lub obrzędu o całkowitym koszcie 4 lub "
+"Skopiuj wskazany czar sztuczki lub obrzędu o skróconym koszcie many 4 lub "
 "mniejszym. Możesz wybrać nowe cele dla owej kopii."
 
 #: ../../GRN.rst:1228
