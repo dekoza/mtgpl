@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 23:02+0000\n"
+"PO-Revision-Date: 2018-12-31 10:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dtk/pl/>\n"
 "Language: pl\n"
@@ -1471,8 +1471,9 @@ msgid "Ukud Cobra"
 msgstr ""
 
 #: ../../DTK.rst:690
+#, fuzzy
 msgid "Ultimate Price"
-msgstr ""
+msgstr "Ultimate Price"
 
 #: ../../DTK.rst:689
 msgid "Destroy target monocolored creature."
