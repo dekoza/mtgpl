@@ -60,6 +60,7 @@ Modern
 Pozostałe
 ---------
 
+* :doc:`Explorers of Ixalan<E02>` (0%)
 * :doc:`Commander 2014<C14>` (9%)
 * :doc:`Commander 2013<C13>` (13%)
 
@@ -97,6 +98,7 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 .. toctree::
    :hidden:
    
+   E02
    C15
    OGW
    SOI

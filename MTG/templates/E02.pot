@@ -1,0 +1,457 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2018, Dominik Kozaczko & Strefa Gry
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 0.2018\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-01 14:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../E02.rst:5
+msgid "Explorers of Ixalan"
+msgstr ""
+
+#: ../../E02.rst:10
+msgid "Beacon of Immortality"
+msgstr ""
+
+#: ../../E02.rst:9
+msgid "Double target player's life total. Shuffle Beacon of Immortality into its owner's library."
+msgstr ""
+
+#: ../../E02.rst:14
+msgid "Day of Judgment"
+msgstr ""
+
+#: ../../E02.rst:13
+msgid "Destroy all creatures."
+msgstr ""
+
+#: ../../E02.rst:18
+msgid "Path to Exile"
+msgstr ""
+
+#: ../../E02.rst:17
+msgid "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library."
+msgstr ""
+
+#: ../../E02.rst:26
+msgid "Shielded by Faith"
+msgstr ""
+
+#: ../../E02.rst:21
+#: ../../E02.rst:33
+#: ../../E02.rst:71
+#: ../../E02.rst:143
+#: ../../E02.rst:165
+#: ../../E02.rst:179
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../E02.rst:23
+msgid "Enchanted creature has indestructible."
+msgstr ""
+
+#: ../../E02.rst:25
+msgid "Whenever a creature enters the battlefield, you may attach Shielded by Faith to that creature."
+msgstr ""
+
+#: ../../E02.rst:30
+msgid "Veteran's Reflexes"
+msgstr ""
+
+#: ../../E02.rst:29
+msgid "Target creature gets +1/+1 until end of turn. Untap that creature."
+msgstr ""
+
+#: ../../E02.rst:36
+msgid "Vow of Duty"
+msgstr ""
+
+#: ../../E02.rst:35
+msgid "Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control."
+msgstr ""
+
+#: ../../E02.rst:40
+msgid "Aether Gale"
+msgstr ""
+
+#: ../../E02.rst:39
+msgid "Return six target nonland permanents to their owners' hands."
+msgstr ""
+
+#: ../../E02.rst:44
+msgid "Blatant Thievery"
+msgstr ""
+
+#: ../../E02.rst:43
+msgid "For each opponent, gain control of target permanent that player controls."
+msgstr ""
+
+#: ../../E02.rst:48
+msgid "Concentrate"
+msgstr ""
+
+#: ../../E02.rst:47
+msgid "Draw three cards."
+msgstr ""
+
+#: ../../E02.rst:54
+msgid "Merfolk Sovereign"
+msgstr ""
+
+#: ../../E02.rst:51
+msgid "Other Merfolk creatures you control get +1/+1."
+msgstr ""
+
+#: ../../E02.rst:53
+msgid "|tap|: Target Merfolk creature can't be blocked this turn."
+msgstr ""
+
+#: ../../E02.rst:60
+msgid "Threads of Disloyalty"
+msgstr ""
+
+#: ../../E02.rst:57
+msgid "Enchant creature with converted mana cost 2 or less"
+msgstr ""
+
+#: ../../E02.rst:59
+msgid "You control enchanted creature."
+msgstr ""
+
+#: ../../E02.rst:64
+msgid "Time Warp"
+msgstr ""
+
+#: ../../E02.rst:63
+msgid "Target player takes an extra turn after this one."
+msgstr ""
+
+#: ../../E02.rst:68
+msgid "Unsummon"
+msgstr ""
+
+#: ../../E02.rst:67
+msgid "Return target creature to its owner's hand."
+msgstr ""
+
+#: ../../E02.rst:74
+msgid "Vow of Flight"
+msgstr ""
+
+#: ../../E02.rst:73
+msgid "Enchanted creature gets +2/+2, has flying, and can't attack you or a planeswalker you control."
+msgstr ""
+
+#: ../../E02.rst:78
+msgid "Bloodbond Vampire"
+msgstr ""
+
+#: ../../E02.rst:77
+msgid "Whenever you gain life, put a +1/+1 counter on Bloodbond Vampire."
+msgstr ""
+
+#: ../../E02.rst:82
+msgid "Child of Night"
+msgstr ""
+
+#: ../../E02.rst:81
+msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
+msgstr ""
+
+#: ../../E02.rst:86
+msgid "Coat with Venom"
+msgstr ""
+
+#: ../../E02.rst:85
+msgid "Target creature gets +1/+2 and gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
+msgstr ""
+
+#: ../../E02.rst:90
+msgid "Doom Blade"
+msgstr ""
+
+#: ../../E02.rst:89
+msgid "Destroy target nonblack creature."
+msgstr ""
+
+#: ../../E02.rst:94
+msgid "Innocent Blood"
+msgstr ""
+
+#: ../../E02.rst:93
+msgid "Each player sacrifices a creature."
+msgstr ""
+
+#: ../../E02.rst:100
+msgid "Necropolis Regent"
+msgstr ""
+
+#: ../../E02.rst:97
+#: ../../E02.rst:107
+msgid "Flying"
+msgstr ""
+
+#: ../../E02.rst:99
+msgid "Whenever a creature you control deals combat damage to a player, put that many +1/+1 counters on it."
+msgstr ""
+
+#: ../../E02.rst:104
+msgid "Urge to Feed"
+msgstr ""
+
+#: ../../E02.rst:103
+msgid "Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires."
+msgstr ""
+
+#: ../../E02.rst:110
+msgid "Vampire Interloper"
+msgstr ""
+
+#: ../../E02.rst:109
+msgid "Vampire Interloper can't block."
+msgstr ""
+
+#: ../../E02.rst:114
+msgid "Vampire Nighthawk"
+msgstr ""
+
+#: ../../E02.rst:113
+msgid "Flying, deathtouch, lifelink"
+msgstr ""
+
+#: ../../E02.rst:116
+msgid "Vampire Noble"
+msgstr ""
+
+#: ../../E02.rst:122
+msgid "Aggravated Assault"
+msgstr ""
+
+#: ../../E02.rst:121
+msgid "|mana_3| |mana_r| |mana_r|: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../E02.rst:128
+msgid "Disaster Radius"
+msgstr ""
+
+#: ../../E02.rst:125
+msgid "As an additional cost to cast this spell, reveal a creature card from your hand."
+msgstr ""
+
+#: ../../E02.rst:127
+msgid "Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost."
+msgstr ""
+
+#: ../../E02.rst:132
+msgid "Mass Mutiny"
+msgstr ""
+
+#: ../../E02.rst:131
+msgid "For each opponent, gain control of up to one target creature that player controls until end of turn. Untap those creatures. They gain haste until end of turn."
+msgstr ""
+
+#: ../../E02.rst:136
+msgid "Rush of Adrenaline"
+msgstr ""
+
+#: ../../E02.rst:135
+msgid "Target creature gets +2/+1 and gains trample until end of turn."
+msgstr ""
+
+#: ../../E02.rst:140
+msgid "Shared Animosity"
+msgstr ""
+
+#: ../../E02.rst:139
+msgid "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it."
+msgstr ""
+
+#: ../../E02.rst:146
+msgid "Vow of Lightning"
+msgstr ""
+
+#: ../../E02.rst:145
+msgid "Enchanted creature gets +2/+2, has first strike, and can't attack you or a planeswalker you control."
+msgstr ""
+
+#: ../../E02.rst:150
+msgid "Borderland Ranger"
+msgstr ""
+
+#: ../../E02.rst:149
+msgid "When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library."
+msgstr ""
+
+#: ../../E02.rst:154
+msgid "Giant Growth"
+msgstr ""
+
+#: ../../E02.rst:153
+msgid "Target creature gets +3/+3 until end of turn."
+msgstr ""
+
+#: ../../E02.rst:158
+msgid "Hunter's Prowess"
+msgstr ""
+
+#: ../../E02.rst:157
+msgid "Until end of turn, target creature gets +3/+3 and gains trample and \"Whenever this creature deals combat damage to a player, draw that many cards.\""
+msgstr ""
+
+#: ../../E02.rst:162
+msgid "Prey Upon"
+msgstr ""
+
+#: ../../E02.rst:161
+msgid "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../E02.rst:170
+msgid "Rancor"
+msgstr ""
+
+#: ../../E02.rst:167
+msgid "Enchanted creature gets +2/+0 and has trample."
+msgstr ""
+
+#: ../../E02.rst:169
+msgid "When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand."
+msgstr ""
+
+#: ../../E02.rst:176
+msgid "Soul of the Harvest"
+msgstr ""
+
+#: ../../E02.rst:173
+msgid "Trample"
+msgstr ""
+
+#: ../../E02.rst:175
+msgid "Whenever another nontoken creature enters the battlefield under your control, you may draw a card."
+msgstr ""
+
+#: ../../E02.rst:182
+msgid "Vow of Wildness"
+msgstr ""
+
+#: ../../E02.rst:181
+msgid "Enchanted creature gets +3/+3, has trample, and can't attack you or a planeswalker you control."
+msgstr ""
+
+#: ../../E02.rst:188
+msgid "Jungle Barrier"
+msgstr ""
+
+#: ../../E02.rst:185
+msgid "Defender (This creature can't attack.)"
+msgstr ""
+
+#: ../../E02.rst:187
+msgid "When Jungle Barrier enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../E02.rst:192
+msgid "Lightning Helix"
+msgstr ""
+
+#: ../../E02.rst:191
+msgid "Lightning Helix deals 3 damage to any target and you gain 3 life."
+msgstr ""
+
+#: ../../E02.rst:196
+msgid "Mortify"
+msgstr ""
+
+#: ../../E02.rst:195
+msgid "Destroy target creature or enchantment."
+msgstr ""
+
+#: ../../E02.rst:200
+msgid "Zealous Persecution"
+msgstr ""
+
+#: ../../E02.rst:199
+msgid "Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1."
+msgstr ""
+
+#: ../../E02.rst:208
+msgid "Adaptive Automaton"
+msgstr ""
+
+#: ../../E02.rst:203
+msgid "As Adaptive Automaton enters the battlefield, choose a creature type."
+msgstr ""
+
+#: ../../E02.rst:205
+msgid "Adaptive Automaton is the chosen type in addition to its other types."
+msgstr ""
+
+#: ../../E02.rst:207
+msgid "Other creatures you control of the chosen type get +1/+1."
+msgstr ""
+
+#: ../../E02.rst:214
+msgid "Prismatic Lens"
+msgstr ""
+
+#: ../../E02.rst:211
+#: ../../E02.rst:233
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../E02.rst:213
+msgid "|mana_1|, |tap|: Add one mana of any color."
+msgstr ""
+
+#: ../../E02.rst:218
+msgid "Quicksilver Amulet"
+msgstr ""
+
+#: ../../E02.rst:217
+msgid "|mana_4|, |tap|: You may put a creature card from your hand onto the battlefield."
+msgstr ""
+
+#: ../../E02.rst:224
+msgid "Crumbling Necropolis"
+msgstr ""
+
+#: ../../E02.rst:221
+msgid "Crumbling Necropolis enters the battlefield tapped."
+msgstr ""
+
+#: ../../E02.rst:223
+msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
+msgstr ""
+
+#: ../../E02.rst:230
+msgid "Jungle Shrine"
+msgstr ""
+
+#: ../../E02.rst:227
+msgid "Jungle Shrine enters the battlefield tapped."
+msgstr ""
+
+#: ../../E02.rst:229
+msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."
+msgstr ""
+
+#: ../../E02.rst:235
+msgid "Tainted Field"
+msgstr ""
+
+#: ../../E02.rst:235
+msgid "|tap|: Add |mana_w| or |mana_b|. Activate this ability only if you control a Swamp."
+msgstr ""
+
