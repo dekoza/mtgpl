@@ -31,17 +31,20 @@ Standard
 
 Modern
 ------
-* :doc:`Hour of Devastation<HOU>` (0%)
-* :doc:`Amonkhet<AKH>` (0%)
-* :doc:`Eldritch Moon<EMN>` (0%)
-* :doc:`Shadows over Innistrad<SOI>` (0%)
-* :doc:`Oath of the Gatewatch<OGW>` (0%)
-* :doc:`Battle for Zendikar<BFZ>` (0%)
-* :doc:`Origins<ORI>` (15%)
-* :doc:`Dragons of Tarkir<DTK>` (6%)
+
+* :doc:`Hour of Devastation<HOU>` (11%)
+* :doc:`Amonkhet<AKH>` (18%)
+* :doc:`Aether Revolt<AER>` (12%)
+* :doc:`Kaladesh<KLD>` (9%)
+* :doc:`Eldritch Moon<EMN>` (7%)
+* :doc:`Shadows over Innistrad<SOI>` (11%)
+* :doc:`Oath of the Gatewatch<OGW>` (9%)
+* :doc:`Battle for Zendikar<BFZ>` (11%)
+* :doc:`Origins<ORI>` (18%)
+* :doc:`Dragons of Tarkir<DTK>` (13%)
 * :doc:`Fate Reforged<FRF>` (100%)
-* :doc:`Khans of Tarkir<KTK>` (52%)
-* :doc:`Magic 2015 Core Set<M15>` (7%)
+* :doc:`Khans of Tarkir<KTK>` (85%)
+* :doc:`Magic 2015 Core Set<M15>` (20%)
 * :doc:`Journey into Nyx<JOU>` (38%)
 * :doc:`Born of the Gods<BNG>` (100%)
 * :doc:`Theros<THS>` (100%)
@@ -49,16 +52,16 @@ Modern
 * :doc:`Dragons' Maze<DGM>` (100%)
 * :doc:`Gatecrash<GTC>` (100%)
 * :doc:`Return to Ravnica<RTR>` (100%)
-* :doc:`Avacyn Restored<AVR>` (9%)
-* :doc:`Dark Ascension<DKA>` (0%)
-* :doc:`Innistrad<ISD>` (0%)
-* :doc:`New Phyrexia<NPH>` (4%)
+* :doc:`Avacyn Restored<AVR>` (17%)
+* :doc:`Dark Ascension<DKA>` (10%)
+* :doc:`Innistrad<ISD>` (13%)
+* :doc:`New Phyrexia<NPH>` (9%)
 
 Pozostałe
 ---------
 
-* :doc:`Commander 2014<C14>` (0%)
-* :doc:`Commander 2013<C13>` (5%)
+* :doc:`Commander 2014<C14>` (9%)
+* :doc:`Commander 2013<C13>` (13%)
 
 Specjalne karty
 ---------------
