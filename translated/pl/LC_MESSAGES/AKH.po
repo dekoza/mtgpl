@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 23:18+0100\n"
-"PO-Revision-Date: 2018-12-30 23:02+0000\n"
+"PO-Revision-Date: 2019-01-01 01:24+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
@@ -144,7 +144,7 @@ msgstr ""
 
 #: ../../AKH.rst:55 ../../AKH.rst:225
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:64
 msgid "Compulsory Rest"
@@ -191,7 +191,7 @@ msgstr ""
 #: ../../AKH.rst:843 ../../AKH.rst:919 ../../AKH.rst:1023 ../../AKH.rst:1381
 #: ../../AKH.rst:1407 ../../AKH.rst:1421 ../../AKH.rst:1435 ../../AKH.rst:1443
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:78
 msgid "Fan Bearer"
@@ -366,6 +366,8 @@ msgid ""
 "Cycling |mana_1| |mana_w| (|mana_1| |mana_w|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_1| |mana_w| (|mana_1| |mana_w|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../AKH.rst:153
 msgid "When you cycle Renewed Faith, you may gain 2 life."
@@ -597,7 +599,7 @@ msgstr ""
 #: ../../AKH.rst:265 ../../AKH.rst:271 ../../AKH.rst:283 ../../AKH.rst:325
 #: ../../AKH.rst:377
 msgid "Cycling |mana_u| (|mana_u|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_u| (|mana_u|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:272
 msgid "Compelling Argument"
@@ -790,6 +792,8 @@ msgid ""
 "As long as you have seven or more cards in hand, you may pay |mana_0| rather "
 "than pay cycling costs."
 msgstr ""
+"O ile masz co najmniej siedem kart w ręce, możesz płacić |mana_0| zamiast "
+"płacić koszty recyklingu."
 
 #: ../../AKH.rst:368
 msgid "Open into Wonder"
@@ -828,6 +832,8 @@ msgstr ""
 msgid ""
 "Return up to two target cards with cycling from your graveyard to your hand."
 msgstr ""
+"Przywróć co najwyżej dwie wskazane karty z recyklingiem z twojego cmentarza "
+"do twojej ręki."
 
 #: ../../AKH.rst:386
 msgid "Scribe of the Mindful"
@@ -917,6 +923,8 @@ msgid ""
 "Cycling |mana_1| |mana_u| (|mana_1| |mana_u|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_1| |mana_u| (|mana_1| |mana_u|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../AKH.rst:423
 msgid "When you cycle Vizier of Tumbling Sands, untap target permanent."
@@ -1139,7 +1147,7 @@ msgstr ""
 
 #: ../../AKH.rst:529 ../../AKH.rst:587
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_b| (|mana_b|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:534
 msgid "Lay Bare the Heart"
@@ -1318,6 +1326,8 @@ msgid ""
 "Cycling |mana_3| |mana_b| (|mana_3| |mana_b|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_3| |mana_b| (|mana_3| |mana_b|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../AKH.rst:609
 msgid ""
@@ -1510,6 +1520,8 @@ msgid ""
 "Cycling |mana_3| |mana_r| (|mana_3| |mana_r|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_3| |mana_r| (|mana_3| |mana_r|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../AKH.rst:701
 msgid ""
@@ -1522,7 +1534,7 @@ msgstr ""
 
 #: ../../AKH.rst:705
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_r| (|mana_r|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:710
 #, fuzzy
@@ -1770,7 +1782,7 @@ msgstr ""
 
 #: ../../AKH.rst:815 ../../AKH.rst:933
 msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_3| (|mana_3|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:820
 msgid "Thresher Lizard"
@@ -1943,7 +1955,7 @@ msgstr "Zniszcz wskazany artefakt."
 
 #: ../../AKH.rst:895
 msgid "Cycling |mana_g| (|mana_g|, Discard this card: Draw a card.)"
-msgstr ""
+msgstr "Recykling |mana_g| (|mana_g|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:902
 msgid "Exemplar of Strength"
@@ -2187,6 +2199,8 @@ msgid ""
 "Cycling |mana_3| |mana_g| (|mana_3| |mana_g|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_3| |mana_g| (|mana_3| |mana_g|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../AKH.rst:1007
 msgid ""
