@@ -9,7 +9,7 @@ card_template = """
 """
 
 symbols_map = {
-    '}{': '} {',
+#    '}{': '} {',
     '{C}': '|colorless|',
     '{T}': '|tap|',
     '{Q}': '|untap|',
@@ -58,7 +58,7 @@ symbols_map = {
     '{G/W}': '|mana_gw|',
     '{G/U}': '|mana_gu|',
     '\n': '\n\n   ',
-    '||': '| |',
+    '||': '|\ |',
 
 }
 

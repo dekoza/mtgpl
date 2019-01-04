@@ -1,0 +1,507 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2018, Dominik Kozaczko & Strefa Gry
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2019.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../rulebook.rst:7
+msgid "Magic the Gathering - Basic Rulebook"
+msgstr ""
+
+#: ../../rulebook.rst:11
+msgid "Magic Gameplay"
+msgstr ""
+
+#: ../../rulebook.rst:13
+msgid "If you are new to Magic, this section will provide an introduction to the game and a rulebook to refer to when you have questions."
+msgstr ""
+
+#: ../../rulebook.rst:16
+msgid "**BASIC TOPICS**"
+msgstr ""
+
+#: ../../rulebook.rst:18
+msgid ":ref:`Parts of a Card<sec-parts-of-a-card>`"
+msgstr ""
+
+#: ../../rulebook.rst:19
+msgid ":ref:`Your Play Area<sec-your-play-area>`"
+msgstr ""
+
+#: ../../rulebook.rst:20
+msgid ":ref:`Game Actions<sec-game-actions>`"
+msgstr ""
+
+#: ../../rulebook.rst:22
+msgid "**ADVANCED TOPICS**"
+msgstr ""
+
+#: ../../rulebook.rst:24
+msgid ":ref:`Targeting<sec-targeting>`"
+msgstr ""
+
+#: ../../rulebook.rst:25
+msgid ":ref:`The Stack<sec-the-stack>`"
+msgstr ""
+
+#: ../../rulebook.rst:26
+msgid ":ref:`Parts of the Turn<sec-parts-of-the-turn>`"
+msgstr ""
+
+#: ../../rulebook.rst:31
+msgid "How to Read a *Magic* Card"
+msgstr ""
+
+#: ../../rulebook.rst:33
+msgid "*Magic* cards are formatted so that the information you need to know is always in the same place."
+msgstr ""
+
+#: ../../rulebook.rst:43
+msgid "NAME"
+msgstr ""
+
+#: ../../rulebook.rst:45
+msgid "Each card has a name that serves as its unique identifier. Though a card may be reprinted in many *Magic* sets, no two cards with the same name will ever function differently. In most *Magic* formats, you can have up to four copies of a card with the same name (except basic lands, which are unlimited). When a card’s name appears in its text box, the card is referring only to itself, not to any other cards with the same name."
+msgstr ""
+
+#: ../../rulebook.rst:55
+msgid "MANA COST"
+msgstr ""
+
+#: ../../rulebook.rst:57
+msgid "Mana is the resource used to cast spells in *Magic*. All spell cards have a mana cost in the upper right corner. Serra Angel’s mana cost, |mana_3|\\ |mana_w|\\ |mana_w|, means that you must pay three mana of any kind plus two white mana to cast it."
+msgstr ""
+
+#: ../../rulebook.rst:65
+msgid "TYPE LINE"
+msgstr ""
+
+#: ../../rulebook.rst:67
+msgid "Every card in *Magic* has a type, and some cards also have subtypes or supertypes that provide more information. For example, Serra Angel’s type is creature, and its subtype is Angel."
+msgstr ""
+
+#: ../../rulebook.rst:71
+msgid "**Lands**"
+msgstr ""
+
+#: ../../rulebook.rst:77
+msgid "You’ll use lands to generate mana, the game’s primary resource, which is used to cast spells and activate abilities. Each basic land makes one mana of a particular color. Plains make white mana |mana_w|, Islands make blue mana |mana_u|, Swamps make black mana |mana_b|, Mountains make red mana |mana_r|, and Forests make green mana |mana_g|."
+msgstr ""
+
+#: ../../rulebook.rst:79
+msgid "You can play one land during each of your turns. To play a land, just put it from your hand onto the battlefield during either of the main phases of your turn."
+msgstr ""
+
+#: ../../rulebook.rst:83
+msgid "**Creatures**"
+msgstr ""
+
+#: ../../rulebook.rst:91
+msgid "Creatures fight for you: they can attack during the combat phase of your turn and block during the combat phase of an opponent’s turn. You can cast a creature as a spell during your main phase, and it remains on the battlefield as a permanent. Creatures enter the battlefield with \"summoning sickness,\" which means that a creature you control can’t attack (or use an ability that has |tap| in its cost) until it starts your turn under your control. You can block with a creature no matter how long it’s been on the battlefield."
+msgstr ""
+
+#: ../../rulebook.rst:93
+msgid "**Artifacts**"
+msgstr ""
+
+#: ../../rulebook.rst:98
+msgid "Artifacts represent machines or magical objects. Like creatures, you can cast an artifact as a spell during your main phase, and it remains on the battlefield unless it’s destroyed, sacrificed, exiled, or otherwise removed. Most artifacts are colorless, which means you can cast them with any color of mana."
+msgstr ""
+
+#: ../../rulebook.rst:100
+msgid "**Enchantments**"
+msgstr ""
+
+#: ../../rulebook.rst:105
+msgid "Enchantments have persistent magical effects that affect the game as long as they’re on the battlefield. Like creatures, you can cast an enchantment as a spell during your main phase, and it remains on the battlefield unless it’s destroyed, sacrificed, exiled, or otherwise removed."
+msgstr ""
+
+#: ../../rulebook.rst:107
+msgid "**Sorceries**"
+msgstr ""
+
+#: ../../rulebook.rst:110
+msgid "Sorceries are spells that you can cast only during a main phase of your turn. They have a one-time effect. You do what the spell says, and then put the card into your graveyard."
+msgstr ""
+
+#: ../../rulebook.rst:112
+msgid "**Instants**"
+msgstr ""
+
+#: ../../rulebook.rst:115
+msgid "Instants are spells that can be cast at any time, even during your opponent’s turn or during combat. Like sorceries, instants have a one-time effect, and then you put them into your graveyard."
+msgstr ""
+
+#: ../../rulebook.rst:120
+msgid "TEXT BOX"
+msgstr ""
+
+#: ../../rulebook.rst:122
+msgid "Some cards have special abilities that are printed here (in the area above the dividing line), and abilities sometimes have reminder text in parentheses to help explain what they do. Flavor text may also appear in the text box, usually below a divider bar. Flavor text has no effect on gameplay; it’s a bit of story information about the card."
+msgstr ""
+
+#: ../../rulebook.rst:128
+msgid "Abilities of creatures and other permanents on the battlefield usually fall into one of three categories: static abilities, triggered abilities, and activated abilities."
+msgstr ""
+
+#: ../../rulebook.rst:132
+msgid "**Static Abilities**"
+msgstr ""
+
+#: ../../rulebook.rst:136
+msgid "A static ability is text that’s always true while that card is on the battlefield. For example, Favorable Winds is an enchantment with the static ability \"Creatures you control with flying get +1/+1.\" You don’t have to activate a static ability; it just does what it says."
+msgstr ""
+
+#: ../../rulebook.rst:138
+msgid "**Triggered Abilities**"
+msgstr ""
+
+#: ../../rulebook.rst:145
+msgid "A triggered ability is an ability that is triggered by a specific event occurring in the game. For example, Tattered Mummy is a creature with the triggered ability \"When Tattered Mummy dies, each opponent loses 2 life.\" Each triggered ability starts with the word \"when,\" \"whenever,\" or \"at.\" You don’t activate a triggered ability— it automatically triggers whenever the condition or conditions stated in the first part of the ability are met."
+msgstr ""
+
+#: ../../rulebook.rst:147
+msgid "**Activated Abilities**"
+msgstr ""
+
+#: ../../rulebook.rst:157
+msgid "An activated ability is an ability that you can activate whenever you want (like casting an instant), as long as you can pay the cost. Each activated ability is formatted in the same way: \"Cost: Effect.\" For example, Inspired Sphinx is a creature with the activated ability \"|mana_3|\\ |mana_u|: Create a 1/1 colorless Thopter artifact creature token with flying.\" Some activated abilities contain the |tap| (tap) symbol in their costs; this means that you must tap that card to activate the ability. You can’t activate this kind of ability if the permanent is already tapped or if it’s a creature with summoning sickness."
+msgstr ""
+
+#: ../../rulebook.rst:162
+msgid "POWER/TOUGHNESS"
+msgstr ""
+
+#: ../../rulebook.rst:164
+msgid "Every creature card has a box in the lower right corner that shows its power and toughness. A creature’s power (the first number) is the amount of damage it deals in combat. Its toughness (the second number) is the amount of damage that must be dealt to it in a single turn to destroy it."
+msgstr ""
+
+#: ../../rulebook.rst:179
+msgid "EXPANSION SYMBOL"
+msgstr ""
+
+#: ../../rulebook.rst:181
+msgid "This symbol tells you which *Magic* set the card is from. Each *Magic* set has its own distinct symbol, and the color of the symbol tells you the card’s rarity."
+msgstr ""
+
+#: ../../rulebook.rst:187
+msgid "|image14|\\ |image15|\\ |image16|\\ |image17|"
+msgstr ""
+
+#: ../../rulebook.rst:192
+msgid "YOUR PLAY AREA"
+msgstr ""
+
+#: ../../rulebook.rst:201
+msgid "A game of Magic starts with only players’ decks and life counters on the table, but once each player has had a few turns to play lands, cast spells, and attack with creatures, a kind of virtual gameboard begins to take shape. That gameboard is divided into several different game zones. The previous page shows what a two-player game might look like after a few turns."
+msgstr ""
+
+#: ../../rulebook.rst:211
+msgid "LIBRARY"
+msgstr ""
+
+#: ../../rulebook.rst:213
+msgid "Your library is your draw pile, which remains face down throughout the game. You lose the game if you are forced to draw a card but cannot because your library is out of cards."
+msgstr ""
+
+#: ../../rulebook.rst:220
+msgid "HAND"
+msgstr ""
+
+#: ../../rulebook.rst:222
+msgid "You start the game by drawing a hand of seven cards. If you have more than seven cards in your hand as your turn ends, you must discard down to seven."
+msgstr ""
+
+#: ../../rulebook.rst:229
+msgid "BATTLEFIELD"
+msgstr ""
+
+#: ../../rulebook.rst:231
+msgid "You and your opponents share the battlefield. Cards that go onto the battlefield (including lands, creatures, artifacts, and enchantments) are called permanents. Instants and sorceries are never on the battlefield. You can arrange your permanents however you want (we recommend putting your lands closest to you), but your opponent must be able to see all of them."
+msgstr ""
+
+#: ../../rulebook.rst:241
+msgid "GRAVEYARD"
+msgstr ""
+
+#: ../../rulebook.rst:243
+msgid "Your graveyard is your discard pile: creatures that die, artifacts and enchantments that are destroyed, and cards you discard from your hand go here. The cards in your graveyard should always be face up, and anyone can look at them at any time. Each player has their own graveyard."
+msgstr ""
+
+#: ../../rulebook.rst:251
+msgid "EXILE"
+msgstr ""
+
+#: ../../rulebook.rst:253
+msgid "If a spell or ability exiles a card, that card is set apart from the rest of the game. Cards in exile are normally face up."
+msgstr ""
+
+#: ../../rulebook.rst:260
+msgid "Game Actions"
+msgstr ""
+
+#: ../../rulebook.rst:262
+msgid "This section describes the actions that you’ll take during a game, including tapping your cards, casting spells, and attacking and blocking with creatures in combat."
+msgstr ""
+
+#: ../../rulebook.rst:270
+msgid "TAPPING AND UNTAPPING"
+msgstr ""
+
+#: ../../rulebook.rst:272
+msgid "To tap a card is to turn it sideways to show that it has been used for the turn. You do this when you use a land to make mana, when you attack with a creature, or when you activate an ability that has the |tap| symbol as part of its cost (|tap| means \"tap this permanent\"). When a permanent is tapped, you can’t tap it again until it’s been untapped (turned back upright). As your turn begins, untap your tapped cards so you can use them again."
+msgstr ""
+
+#: ../../rulebook.rst:284
+msgid "CASTING SPELLS"
+msgstr ""
+
+#: ../../rulebook.rst:286
+msgid "To cast a spell, you must pay its mana cost (located in the upper right corner of the card) by tapping lands (or other permanents) to make the amount and Game Actions type of mana which that spell requires. For example, if you were casting Serra Angel, which costs |mana_3|\\ |mana_w|\\ |mana_w|, you could tap three basic lands of any type to pay |mana_3| plus two Plains to pay |mana_w|\\ |mana_w|."
+msgstr ""
+
+#: ../../rulebook.rst:293
+msgid "Once a spell has been cast, one of two things happens. If the spell is an instant or a sorcery, you follow the instructions on the card, and then you put the card into your graveyard. If the spell is a creature, artifact, or enchantment, you put the card on the table in front of you. The card is now on the battlefield."
+msgstr ""
+
+#: ../../rulebook.rst:299
+msgid "Cards on the battlefield are called permanents to differentiate them from instants and sorceries, which are never on the battlefield."
+msgstr ""
+
+#: ../../rulebook.rst:311
+msgid "ATTACKING AND BLOCKING"
+msgstr ""
+
+#: ../../rulebook.rst:313
+msgid "The most common way to win the game is to attack with your creatures. If a creature that is attacking an opponent isn’t blocked, it deals damage equal to its power to that opponent."
+msgstr ""
+
+#: ../../rulebook.rst:317
+msgid "The middle phase of each turn is the combat phase. In your combat phase, you choose which of your creatures will attack, and you choose which opponents they will attack. Tap your creatures to show that they are attacking. Your opponents then choose which of their creatures will block, if any. Tapped creatures can’t be declared as blockers."
+msgstr ""
+
+#: ../../rulebook.rst:323
+msgid "Once all blockers have been chosen, each creature—both attackers and blockers—simultaneously deals damage equal to its power (the number on the left side of the slash in the lower right corner of the card)."
+msgstr ""
+
+#: ../../rulebook.rst:327
+msgid "An attacking creature that isn’t blocked deals damage to the player it’s attacking."
+msgstr ""
+
+#: ../../rulebook.rst:329
+msgid "An attacking creature that is blocked deals damage to the creature or creatures that are blocking it, and vice versa."
+msgstr ""
+
+#: ../../rulebook.rst:332
+msgid "If damage is dealt to your opponent, they lose that much life."
+msgstr ""
+
+#: ../../rulebook.rst:334
+msgid "If one of your attacking creatures is blocked by multiple creatures, you decide how to divide its combat damage among them. You must assign at least enough damage to the first blocking creature to destroy it before you can assign damage to the second one, and so on."
+msgstr ""
+
+#: ../../rulebook.rst:339
+msgid "If a creature is dealt damage equal to or greater than its toughness over the course of a single turn (whether it be combat damage, damage from spells or abilities, or a combination of both), that creature is destroyed, and it goes to its owner’s graveyard (or \"dies\"). If a creature takes damage that isn’t enough to destroy it in a single turn, that creature stays on the battlefield, and the damage wears off at the end of the turn."
+msgstr ""
+
+#: ../../rulebook.rst:350
+msgid "In the following examples, an opponent is attacking you with a variety of creatures:"
+msgstr ""
+
+#: ../../rulebook.rst:356
+msgid "Mesa Unicorn deals 2 damage to you."
+msgstr ""
+
+#: ../../rulebook.rst:361
+msgid "Mesa Unicorn is destroyed."
+msgstr ""
+
+#: ../../rulebook.rst:366
+msgid "Both creatures survive."
+msgstr ""
+
+#: ../../rulebook.rst:371
+msgid "Giant Spider is destroyed."
+msgstr ""
+
+#: ../../rulebook.rst:375
+msgid "In this example, Dwarven Priest is attacking, and you have two creatures that can block. When you block one attacker with two or more creatures, your opponent must choose the order in which your blockers will take damage. Remember, the attacking player always chooses the order in which blocking creatures receive damage."
+msgstr ""
+
+#: ../../rulebook.rst:383
+msgid "Reclamation Sage and Giant Spider will deal a total of 4 damage to Dwarven Priest, which is enough to destroy it. Meanwhile, Dwarven Priest can deal enough damage to destroy Reclamation Sage, but not enough to destroy Giant Spider. Since your opponent’s Dwarven Priest will be destroyed in either case, they order Reclamation Sage before Giant Spider so that at least one of your creatures will be destroyed."
+msgstr ""
+
+#: ../../rulebook.rst:396
+msgid "Once blockers have been ordered, damage is dealt. Dwarven Priest deals 1 damage to Reclamation Sage, destroying it, then deals its remaining 1 damage to Giant Spider."
+msgstr ""
+
+#: ../../rulebook.rst:403
+msgid "Advanced Topics"
+msgstr ""
+
+#: ../../rulebook.rst:405
+msgid "One of the most fun and interesting aspects of the *Magic* game is the tremendous number of unique cards you can play with, which in turn provide an incredibly wide range of things that could happen in any given game. This section is a reference for when you need to know more details about the rules of *Magic*."
+msgstr ""
+
+#: ../../rulebook.rst:414
+msgid "TARGETING"
+msgstr ""
+
+#: ../../rulebook.rst:416
+msgid "Some spells and abilities use the word \"target\" to describe something that the spell or ability will affect. You must choose all targets for a spell when you cast it, and for an ability when it triggers or when you activate it. If you can’t meet the targeting requirements, you can’t cast the spell or use the ability. For example, if a spell has the text \"Destroy target creature,\" but there are no creatures on the battlefield, you can’t cast that spell because it has no valid targets."
+msgstr ""
+
+#: ../../rulebook.rst:424
+msgid "If a spell \"deals damage to any target,\" you can choose any creature or player (or planeswalker, if a player has one) as a target for that spell."
+msgstr ""
+
+#: ../../rulebook.rst:428
+msgid "Once you choose targets, you can’t change your mind later. When the spell or ability resolves, it checks the targets to make sure they’re still legal (that is, they’re still there and they still match the requirements of the spell or ability). If a target isn’t legal, the spell or ability can’t affect it. If none of the targets are legal, the spell or ability does nothing at all."
+msgstr ""
+
+#: ../../rulebook.rst:438
+msgid "THE STACK"
+msgstr ""
+
+#: ../../rulebook.rst:440
+msgid "The stack is a game zone shared by all players (like the battlefield) where spells and abilities wait to resolve. Resolving a spell or ability simply means that its effect happens."
+msgstr ""
+
+#: ../../rulebook.rst:444
+msgid "**Using the Stack**"
+msgstr ""
+
+#: ../../rulebook.rst:449
+#: ../../rulebook.rst:467
+msgid "When you cast a spell or activate an ability, it doesn’t resolve right away—it goes on the stack. Spells and abilities remain on the stack until both players choose not to cast any new spells or activate any new abilities. Triggered abilities also go on the stack until they resolve."
+msgstr ""
+
+#: ../../rulebook.rst:451
+msgid "When you have finished putting spells and abilities on the stack, priority then passes to the next player in turn order, who may want to use a spell or ability of their own in response. Subsequent players (including you) can then respond to that player’s response, and so on—the result is a \"stack\" waiting to resolve. Spells and abilities remain on the stack until all players choose not to cast any new spells or activate any new abilities."
+msgstr ""
+
+#: ../../rulebook.rst:459
+msgid "*A general rule is that spells and abilities on the stack resolve one by one, beginning with the last one put on the stack.*"
+msgstr ""
+
+#: ../../rulebook.rst:462
+msgid "**Responding to Spells and Abilities**"
+msgstr ""
+
+#: ../../rulebook.rst:469
+msgid "Each player has an opportunity to cast an instant spell (or activate an activated ability) in response to any spell or ability that goes on the stack. If a player does decide to respond, their spell or ability goes on the stack on top of what was already waiting there. When all players pass—that is, decline to do anything more—the top spell or ability on the stack will resolve."
+msgstr ""
+
+#: ../../rulebook.rst:484
+msgid "After a spell or ability resolves, both players again get the chance to respond. If no one does, the next thing waiting on the stack will resolve. If the stack is empty, the current step of the turn will end, and the game will proceed to the next step."
+msgstr ""
+
+#: ../../rulebook.rst:489
+msgid "**Example of Spells on the Stack**"
+msgstr ""
+
+#: ../../rulebook.rst:493
+msgid "Your opponent casts Shock targeting your Eager Construct, a 2/2 creature. Shock goes on the stack. You respond to Shock by casting Titanic Growth. Titanic Growth goes on the stack on top of Shock. You and your opponent both decline to do anything else."
+msgstr ""
+
+#: ../../rulebook.rst:495
+msgid "Titanic Growth resolves, making Eager Construct a 6/6 until the end of the turn. Then Shock resolves and deals 2 damage to the pumped-up Eager Construct, which is not enough to destroy it."
+msgstr ""
+
+#: ../../rulebook.rst:505
+msgid "**What would happen if Titanic Growth were cast first?**"
+msgstr ""
+
+#: ../../rulebook.rst:510
+msgid "The Shock would go on the stack on top of Titanic Growth, which means it would resolve first this time. Shock would still deal 2 damage to Eager Construct, but this time that damage is being dealt before Titanic Growth can resolve and take effect—so 2 damage is enough to destroy Eager Construct!"
+msgstr ""
+
+#: ../../rulebook.rst:522
+msgid "Parts of the Turn"
+msgstr ""
+
+#: ../../rulebook.rst:524
+msgid "Each turn proceeds in the same sequence. Whenever you enter a new step or phase, any triggered abilities that happen during that step or phase trigger and are put on the stack. The active player (the player whose turn it is) gets to start casting spells and activating abilities, then each other player in turn order will too. When all players decline to do anything more and nothing is on the stack waiting to resolve, the game will move to the next step."
+msgstr ""
+
+#: ../../rulebook.rst:540
+msgid "BEGINNING PHASE"
+msgstr ""
+
+#: ../../rulebook.rst:542
+msgid "**Untap step** You untap all your tapped permanents. On the first turn of the game, you don’t have any permanents, so you just skip this step. No one can cast spells or activate abilities during this step."
+msgstr ""
+
+#: ../../rulebook.rst:546
+msgid "**Upkeep step** Players can cast instants and activate abilities. This part of the turn is mentioned on a number of cards. If something is supposed to happen just once per turn, right at the beginning, an ability will trigger \"at the beginning of your upkeep.\""
+msgstr ""
+
+#: ../../rulebook.rst:551
+msgid "**Draw step** You must draw a card from your library (even if you don’t want to). The player who goes first in a two-player game skips the draw step on their first turn to make up for the advantage of going first. Players can then cast instants and activate abilities."
+msgstr ""
+
+#: ../../rulebook.rst:560
+msgid "FIRST MAIN PHASE"
+msgstr ""
+
+#: ../../rulebook.rst:562
+msgid "You can cast any number of sorceries, instants, creatures, artifacts, enchantments, and planeswalkers, and you can activate abilities. You can play a land during this phase, but remember that you can play only one land during your turn. Your opponent can cast instants and activate abilities."
+msgstr ""
+
+#: ../../rulebook.rst:571
+msgid "COMBAT PHASE"
+msgstr ""
+
+#: ../../rulebook.rst:573
+msgid "**Beginning of combat step** Players can cast instants and activate abilities."
+msgstr ""
+
+#: ../../rulebook.rst:575
+msgid "**Declare attackers step** You decide which, if any, of your untapped creatures will attack, and which player or planeswalker they will attack. This taps the attacking creatures. Players can then cast instants and activate abilities."
+msgstr ""
+
+#: ../../rulebook.rst:580
+msgid "**Declare blockers step** Your opponent decides which, if any, of their untapped creatures will block your attacking creatures. If multiple creatures block a single attacker, you order the blockers to show which will be first to receive damage, which will be second, and so on. Players can then cast instants and activate abilities."
+msgstr ""
+
+#: ../../rulebook.rst:586
+msgid "**Combat damage step** Each attacking or blocking creature that’s still on the battlefield assigns its combat damage to the defending player (if it’s attacking that player and wasn’t blocked), to a planeswalker (if it’s attacking that planeswalker and wasn’t blocked), to the creature or creatures blocking it, or to the creature it’s blocking. If an attacking creature is blocked by multiple creatures, you divide its combat damage among them by assigning at least enough damage to the first blocking creature to destroy it, then by assigning damage to the second one, and so on. Once players decide how the creatures they control will deal their combat damage, the damage is all dealt at the same time. Players can then cast instants and activate abilities."
+msgstr ""
+
+#: ../../rulebook.rst:598
+msgid "**End of combat step** Players can cast instants and activate abilities."
+msgstr ""
+
+#: ../../rulebook.rst:604
+msgid "SECOND MAIN PHASE"
+msgstr ""
+
+#: ../../rulebook.rst:606
+msgid "Your second main phase is just like your first main phase. You can cast any type of spell and activate abilities, but your opponent can only cast instants and activate abilities. You can play a land during this phase if you didn’t play one during your first main phase."
+msgstr ""
+
+#: ../../rulebook.rst:614
+msgid "ENDING PHASE"
+msgstr ""
+
+#: ../../rulebook.rst:616
+msgid "**End step** Abilities that trigger “at the beginning of your end step” go on the stack. Players can cast instants and activate abilities."
+msgstr ""
+
+#: ../../rulebook.rst:619
+msgid "**Cleanup step** If you have more than seven cards in your hand, choose and discard cards until you have only seven. Next, all damage on creatures is removed and all “until end of turn” effects end. No one can cast instants or activate abilities unless an ability triggers during this step."
+msgstr ""
+

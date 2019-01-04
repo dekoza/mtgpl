@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: MTG-pl 0.2018\n"
+"Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-01 14:01+0100\n"
+"POT-Creation-Date: 2019-01-04 01:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgid "Instrukcje"
 msgstr ""
 
 #: ../../index.rst:14
-msgid ":doc:`Podręcznik Magic 2014<M14_Rulebook>` (2%)"
+msgid ":doc:`Podstawowy podręcznik zasad<rulebook>` (0%)"
 msgstr ""
 
 #: ../../index.rst:16
@@ -165,78 +165,82 @@ msgid "Pozostałe"
 msgstr ""
 
 #: ../../index.rst:63
-msgid ":doc:`Commander 2014<C14>` (9%)"
+msgid ":doc:`Explorers of Ixalan<E02>` (0%)"
 msgstr ""
 
 #: ../../index.rst:64
+msgid ":doc:`Commander 2014<C14>` (9%)"
+msgstr ""
+
+#: ../../index.rst:65
 msgid ":doc:`Commander 2013<C13>` (13%)"
 msgstr ""
 
-#: ../../index.rst:67
+#: ../../index.rst:68
 msgid "Specjalne karty"
 msgstr ""
 
-#: ../../index.rst:69
+#: ../../index.rst:70
 msgid ":doc:`Bohaterowie<THS_heroes>` (100%) - uwzględnia karty z Journey into Nyx"
 msgstr ""
 
-#: ../../index.rst:70
+#: ../../index.rst:71
 msgid ":doc:`Pokonaj Bóstwo<JOU_god>` (0%)"
 msgstr ""
 
-#: ../../index.rst:71
+#: ../../index.rst:72
 msgid ":doc:`Walka z Hordą<BNG_horde>` (100%)"
 msgstr ""
 
-#: ../../index.rst:72
+#: ../../index.rst:73
 msgid ":doc:`Staw czoła Hydrze<THS_hydra>` (100%)"
 msgstr ""
 
-#: ../../index.rst:75
+#: ../../index.rst:76
 msgid "Warto przeczytać"
 msgstr ""
 
-#: ../../index.rst:77
+#: ../../index.rst:78
 msgid ":doc:`Uzasadnienie tłumaczeń<rationale>`"
 msgstr ""
 
-#: ../../index.rst:78
+#: ../../index.rst:79
 msgid ":doc:`Nowe sposoby gry<game_variants>`"
 msgstr ""
 
-#: ../../index.rst:79
+#: ../../index.rst:80
 msgid ":doc:`Polskie lądy i żetony<polish_cards>`"
 msgstr ""
 
-#: ../../index.rst:83
+#: ../../index.rst:84
 msgid "Ostatnie zmiany"
 msgstr ""
 
-#: ../../index.rst:84
+#: ../../index.rst:85
 msgid "Proszę zajrzeć do pliku :doc:`Ostatnie zmiany<changelog>`"
 msgstr ""
 
-#: ../../index.rst:87
+#: ../../index.rst:88
 msgid "Ekipa"
 msgstr ""
 
-#: ../../index.rst:89
+#: ../../index.rst:90
 msgid "Niniejsze tłumaczenie powstało dzięki pracy następujących osób:"
 msgstr ""
 
-#: ../../index.rst:91
+#: ../../index.rst:92
 msgid "Dominik Kozaczko - pomysłodawca, główny tłumacz"
 msgstr ""
 
-#: ../../index.rst:92
+#: ../../index.rst:93
 msgid "Bartek Pękala - tłumacz"
 msgstr ""
 
-#: ../../index.rst:93
+#: ../../index.rst:94
 msgid "Zofia Wąchocka - tłumacz, filolog"
 msgstr ""
 
-#: ../../index.rst:94
+#: ../../index.rst:95
 msgid "Roman Cupek - nadzorca merytoryczny"
 msgstr ""
 

@@ -3,7 +3,10 @@
  Spis zmian
 ************
 
-208-12-30
+2019-01-04
+    Nowy :doc:`podręcznik gry<rulebook>` (edycja Dominaria). Drobne porządki.
+
+2018-12-30
     `Dominaria<DOM>` 100%. `Core Set 2019<M19>` 100%.
 
 2018-12-29

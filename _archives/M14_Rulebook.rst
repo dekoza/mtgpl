@@ -483,8 +483,6 @@ the turn will end and the game will proceed to the next part). If
 either player plays something new, it goes on top of the stack and
 the process repeats.
 
-[Turn the page to see examples of spells on the stack.]
-
 Examples of Spells on the Stack
 -------------------------------
 

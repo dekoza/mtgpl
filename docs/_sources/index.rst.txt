@@ -11,7 +11,7 @@
 Instrukcje
 ==========
 
-:doc:`Podręcznik Magic 2014<M14_Rulebook>` (2%)
+:doc:`Podstawowy podręcznik zasad<rulebook>` (0%)
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` (18%)
 
@@ -124,7 +124,7 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
    ISD
    DKA
    AVR
-   M14_Rulebook
+   rulebook
    RTR
    GTC
    DGM
@@ -146,5 +146,4 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
    changelog
    commander
    commander_banned
-.. comprules
    
