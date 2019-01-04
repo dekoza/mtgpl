@@ -124,7 +124,6 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
    ISD
    DKA
    AVR
-   rulebook
    RTR
    GTC
    DGM
@@ -139,11 +138,12 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
    M15
    C14
    JOU
-
+   
+   rulebook
    game_variants
    polish_cards
    symbols
    changelog
    commander
    commander_banned
-   
+   glossary
