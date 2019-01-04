@@ -8,13 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-04 01:41+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-04 01:20+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <http://example.com/projects/zasady/rulebook/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 
 #: ../../rulebook.rst:7
 msgid "Magic the Gathering - Basic Rulebook"
@@ -30,39 +33,39 @@ msgstr ""
 
 #: ../../rulebook.rst:16
 msgid "**BASIC TOPICS**"
-msgstr ""
+msgstr "**Podstawowe tematy**"
 
 #: ../../rulebook.rst:18
 msgid ":ref:`Parts of a Card<sec-parts-of-a-card>`"
-msgstr ""
+msgstr ":ref:`Części karty<sec-parts-of-a-card>`"
 
 #: ../../rulebook.rst:19
 msgid ":ref:`Your Play Area<sec-your-play-area>`"
-msgstr ""
+msgstr ":ref:`Pole rozgrywki<sec-your-play-area>`"
 
 #: ../../rulebook.rst:20
 msgid ":ref:`Game Actions<sec-game-actions>`"
-msgstr ""
+msgstr ":ref:`Akcje w grze<sec-game-actions>`"
 
 #: ../../rulebook.rst:22
 msgid "**ADVANCED TOPICS**"
-msgstr ""
+msgstr "**Zaawansowane tematy**"
 
 #: ../../rulebook.rst:24
 msgid ":ref:`Targeting<sec-targeting>`"
-msgstr ""
+msgstr ":ref:`Wskazywanie<sec-targeting>`"
 
 #: ../../rulebook.rst:25
 msgid ":ref:`The Stack<sec-the-stack>`"
-msgstr ""
+msgstr ":ref:`Stos<sec-the-stack>`"
 
 #: ../../rulebook.rst:26
 msgid ":ref:`Parts of the Turn<sec-parts-of-the-turn>`"
-msgstr ""
+msgstr ":ref:`Części tury<sec-parts-of-the-turn>`"
 
 #: ../../rulebook.rst:31
 msgid "How to Read a *Magic* Card"
-msgstr ""
+msgstr "Jak czytać kartę do gry w *Magic*"
 
 #: ../../rulebook.rst:33
 msgid "*Magic* cards are formatted so that the information you need to know is always in the same place."
@@ -70,7 +73,7 @@ msgstr ""
 
 #: ../../rulebook.rst:43
 msgid "NAME"
-msgstr ""
+msgstr "Nazwa"
 
 #: ../../rulebook.rst:45
 msgid "Each card has a name that serves as its unique identifier. Though a card may be reprinted in many *Magic* sets, no two cards with the same name will ever function differently. In most *Magic* formats, you can have up to four copies of a card with the same name (except basic lands, which are unlimited). When a card’s name appears in its text box, the card is referring only to itself, not to any other cards with the same name."
@@ -78,7 +81,7 @@ msgstr ""
 
 #: ../../rulebook.rst:55
 msgid "MANA COST"
-msgstr ""
+msgstr "Koszt many"
 
 #: ../../rulebook.rst:57
 msgid "Mana is the resource used to cast spells in *Magic*. All spell cards have a mana cost in the upper right corner. Serra Angel’s mana cost, |mana_3|\\ |mana_w|\\ |mana_w|, means that you must pay three mana of any kind plus two white mana to cast it."
@@ -86,7 +89,7 @@ msgstr ""
 
 #: ../../rulebook.rst:65
 msgid "TYPE LINE"
-msgstr ""
+msgstr "Linia typu"
 
 #: ../../rulebook.rst:67
 msgid "Every card in *Magic* has a type, and some cards also have subtypes or supertypes that provide more information. For example, Serra Angel’s type is creature, and its subtype is Angel."
@@ -94,7 +97,7 @@ msgstr ""
 
 #: ../../rulebook.rst:71
 msgid "**Lands**"
-msgstr ""
+msgstr "**Lądy**"
 
 #: ../../rulebook.rst:77
 msgid "You’ll use lands to generate mana, the game’s primary resource, which is used to cast spells and activate abilities. Each basic land makes one mana of a particular color. Plains make white mana |mana_w|, Islands make blue mana |mana_u|, Swamps make black mana |mana_b|, Mountains make red mana |mana_r|, and Forests make green mana |mana_g|."
@@ -103,34 +106,52 @@ msgstr ""
 #: ../../rulebook.rst:79
 msgid "You can play one land during each of your turns. To play a land, just put it from your hand onto the battlefield during either of the main phases of your turn."
 msgstr ""
+"Możesz  zagrywać jeden ląd w każdej z twoich tury. Aby zagrać ląd, umieść go "
+"na polu walki z twojej ręki podczas jednej z faz głównych w twojej turze."
 
 #: ../../rulebook.rst:83
 msgid "**Creatures**"
-msgstr ""
+msgstr "**Stwory**"
 
 #: ../../rulebook.rst:91
 msgid "Creatures fight for you: they can attack during the combat phase of your turn and block during the combat phase of an opponent’s turn. You can cast a creature as a spell during your main phase, and it remains on the battlefield as a permanent. Creatures enter the battlefield with \"summoning sickness,\" which means that a creature you control can’t attack (or use an ability that has |tap| in its cost) until it starts your turn under your control. You can block with a creature no matter how long it’s been on the battlefield."
 msgstr ""
+"Stwory walczą dla ciebie; mogą atakować w fazie walki w twojej turze albo "
+"blokować w fazie walki w turze przeciwnika. Możesz rzucić czar stwora "
+"podczas twojej fazy głównej i pozostanie on na polu walki jako "
+":term:`permanent`. Stwory wchodzą na pole walki z \"chorobą przywołania\", "
+"tzn. nie mogą atakować (oraz używać zdolności mających |tap| w koszcie) "
+"dopóki nie zaczną twojej tury pod twoim władaniem. Możesz blokować stworem "
+"niezależnie od kiedy przebywa on na polu walki."
 
 #: ../../rulebook.rst:93
 msgid "**Artifacts**"
-msgstr ""
+msgstr "**Artefakty**"
 
 #: ../../rulebook.rst:98
 msgid "Artifacts represent machines or magical objects. Like creatures, you can cast an artifact as a spell during your main phase, and it remains on the battlefield unless it’s destroyed, sacrificed, exiled, or otherwise removed. Most artifacts are colorless, which means you can cast them with any color of mana."
 msgstr ""
+"Artefakty reprezentują maszyny i magiczne obiekty. Podobnie do stworów, "
+"możesz rzucić artefakt jako czar podczas twojej fazy głównej i pozostanie on "
+"na polu walki dopóki nie zostanie zniszczony, poświęcony, wygnany lub "
+"usunięty w inny sposób. Większość artefaktów nie ma koloru, co oznacza, że "
+"można je rzucać używając many dowolnych kolorów."
 
 #: ../../rulebook.rst:100
 msgid "**Enchantments**"
-msgstr ""
+msgstr "**Uroki**"
 
 #: ../../rulebook.rst:105
 msgid "Enchantments have persistent magical effects that affect the game as long as they’re on the battlefield. Like creatures, you can cast an enchantment as a spell during your main phase, and it remains on the battlefield unless it’s destroyed, sacrificed, exiled, or otherwise removed."
 msgstr ""
+"Uroki mają stały magiczny efekt, który wpływa na grę dopóki pozostają one na "
+"polu walki. Podobnie do stworów, możesz rzucić urok jako czar w twojej fazie "
+"głównej i pozostanie on na polu walki dopóki nie zostanie zniszczony, "
+"poświęcony, wygnany lub usunięty w inny sposób."
 
 #: ../../rulebook.rst:107
 msgid "**Sorceries**"
-msgstr ""
+msgstr "**Obrzędy**"
 
 #: ../../rulebook.rst:110
 msgid "Sorceries are spells that you can cast only during a main phase of your turn. They have a one-time effect. You do what the spell says, and then put the card into your graveyard."
@@ -138,7 +159,7 @@ msgstr ""
 
 #: ../../rulebook.rst:112
 msgid "**Instants**"
-msgstr ""
+msgstr "**Sztuczki**"
 
 #: ../../rulebook.rst:115
 msgid "Instants are spells that can be cast at any time, even during your opponent’s turn or during combat. Like sorceries, instants have a one-time effect, and then you put them into your graveyard."
@@ -146,7 +167,7 @@ msgstr ""
 
 #: ../../rulebook.rst:120
 msgid "TEXT BOX"
-msgstr ""
+msgstr "Pole tekstu"
 
 #: ../../rulebook.rst:122
 msgid "Some cards have special abilities that are printed here (in the area above the dividing line), and abilities sometimes have reminder text in parentheses to help explain what they do. Flavor text may also appear in the text box, usually below a divider bar. Flavor text has no effect on gameplay; it’s a bit of story information about the card."
@@ -155,18 +176,26 @@ msgstr ""
 #: ../../rulebook.rst:128
 msgid "Abilities of creatures and other permanents on the battlefield usually fall into one of three categories: static abilities, triggered abilities, and activated abilities."
 msgstr ""
+"Zdolności stworów i innych permanentów na polu walki zwykle należą do jednej "
+"z trzech kategorii: zdolności statycznych, zdolności wyzwalanych oraz "
+"zdolności aktywowanych."
 
 #: ../../rulebook.rst:132
 msgid "**Static Abilities**"
-msgstr ""
+msgstr "**Zdolności statyczne**"
 
 #: ../../rulebook.rst:136
 msgid "A static ability is text that’s always true while that card is on the battlefield. For example, Favorable Winds is an enchantment with the static ability \"Creatures you control with flying get +1/+1.\" You don’t have to activate a static ability; it just does what it says."
 msgstr ""
+"Zdolność statyczna to tekst, który jest zawsze prawdziwy, gdy dana karta "
+"jest polu walki. Przykładowo, Favorable Winds jest urokiem ze zdolnością "
+"statyczną \"Stwory pod twoim władaniem mające latanie dostają +1/+1.\" Nie "
+"musisz aktywować zdolności statycznej; po prostu dzieje się to, co jest w "
+"jej treści."
 
 #: ../../rulebook.rst:138
 msgid "**Triggered Abilities**"
-msgstr ""
+msgstr "**Zdolności wyzwalane**"
 
 #: ../../rulebook.rst:145
 msgid "A triggered ability is an ability that is triggered by a specific event occurring in the game. For example, Tattered Mummy is a creature with the triggered ability \"When Tattered Mummy dies, each opponent loses 2 life.\" Each triggered ability starts with the word \"when,\" \"whenever,\" or \"at.\" You don’t activate a triggered ability— it automatically triggers whenever the condition or conditions stated in the first part of the ability are met."
@@ -174,7 +203,7 @@ msgstr ""
 
 #: ../../rulebook.rst:147
 msgid "**Activated Abilities**"
-msgstr ""
+msgstr "**Zdolności aktywowane**"
 
 #: ../../rulebook.rst:157
 msgid "An activated ability is an ability that you can activate whenever you want (like casting an instant), as long as you can pay the cost. Each activated ability is formatted in the same way: \"Cost: Effect.\" For example, Inspired Sphinx is a creature with the activated ability \"|mana_3|\\ |mana_u|: Create a 1/1 colorless Thopter artifact creature token with flying.\" Some activated abilities contain the |tap| (tap) symbol in their costs; this means that you must tap that card to activate the ability. You can’t activate this kind of ability if the permanent is already tapped or if it’s a creature with summoning sickness."
@@ -182,7 +211,7 @@ msgstr ""
 
 #: ../../rulebook.rst:162
 msgid "POWER/TOUGHNESS"
-msgstr ""
+msgstr "Siła/Wytrzymałość"
 
 #: ../../rulebook.rst:164
 msgid "Every creature card has a box in the lower right corner that shows its power and toughness. A creature’s power (the first number) is the amount of damage it deals in combat. Its toughness (the second number) is the amount of damage that must be dealt to it in a single turn to destroy it."
@@ -190,7 +219,7 @@ msgstr ""
 
 #: ../../rulebook.rst:179
 msgid "EXPANSION SYMBOL"
-msgstr ""
+msgstr "Symbol dodatku"
 
 #: ../../rulebook.rst:181
 msgid "This symbol tells you which *Magic* set the card is from. Each *Magic* set has its own distinct symbol, and the color of the symbol tells you the card’s rarity."
@@ -202,7 +231,7 @@ msgstr ""
 
 #: ../../rulebook.rst:192
 msgid "YOUR PLAY AREA"
-msgstr ""
+msgstr "Pole gry"
 
 #: ../../rulebook.rst:201
 msgid "A game of Magic starts with only players’ decks and life counters on the table, but once each player has had a few turns to play lands, cast spells, and attack with creatures, a kind of virtual gameboard begins to take shape. That gameboard is divided into several different game zones. The previous page shows what a two-player game might look like after a few turns."
@@ -210,7 +239,7 @@ msgstr ""
 
 #: ../../rulebook.rst:211
 msgid "LIBRARY"
-msgstr ""
+msgstr "Biblioteka"
 
 #: ../../rulebook.rst:213
 msgid "Your library is your draw pile, which remains face down throughout the game. You lose the game if you are forced to draw a card but cannot because your library is out of cards."
@@ -218,7 +247,7 @@ msgstr ""
 
 #: ../../rulebook.rst:220
 msgid "HAND"
-msgstr ""
+msgstr "Ręka"
 
 #: ../../rulebook.rst:222
 msgid "You start the game by drawing a hand of seven cards. If you have more than seven cards in your hand as your turn ends, you must discard down to seven."
@@ -226,7 +255,7 @@ msgstr ""
 
 #: ../../rulebook.rst:229
 msgid "BATTLEFIELD"
-msgstr ""
+msgstr "Pole walki"
 
 #: ../../rulebook.rst:231
 msgid "You and your opponents share the battlefield. Cards that go onto the battlefield (including lands, creatures, artifacts, and enchantments) are called permanents. Instants and sorceries are never on the battlefield. You can arrange your permanents however you want (we recommend putting your lands closest to you), but your opponent must be able to see all of them."
@@ -234,23 +263,29 @@ msgstr ""
 
 #: ../../rulebook.rst:241
 msgid "GRAVEYARD"
-msgstr ""
+msgstr "Cmentarz"
 
 #: ../../rulebook.rst:243
 msgid "Your graveyard is your discard pile: creatures that die, artifacts and enchantments that are destroyed, and cards you discard from your hand go here. The cards in your graveyard should always be face up, and anyone can look at them at any time. Each player has their own graveyard."
 msgstr ""
+"Cmentarz jest stosem kart odrzuconych; trafiają tu umarłe stwory, zniszczone "
+"artefakty lub uroki, a także karty odrzucone z ręki. Karty w twoim cmentarzu "
+"powinny być zawsze odsłonięte i każdy może je przeglądać w dowolnej chwili. "
+"Każdy gracz ma swój własny cmentarz."
 
 #: ../../rulebook.rst:251
 msgid "EXILE"
-msgstr ""
+msgstr "Wygnanie"
 
 #: ../../rulebook.rst:253
 msgid "If a spell or ability exiles a card, that card is set apart from the rest of the game. Cards in exile are normally face up."
 msgstr ""
+"Jeśli czar lub zdolność wygania kartę, owa karta jest odkładana osobno od "
+"reszty gry. Karty na wygnaniu są zwykle odsłonięte."
 
 #: ../../rulebook.rst:260
 msgid "Game Actions"
-msgstr ""
+msgstr "Akcje w grze"
 
 #: ../../rulebook.rst:262
 msgid "This section describes the actions that you’ll take during a game, including tapping your cards, casting spells, and attacking and blocking with creatures in combat."
@@ -279,6 +314,8 @@ msgstr ""
 #: ../../rulebook.rst:299
 msgid "Cards on the battlefield are called permanents to differentiate them from instants and sorceries, which are never on the battlefield."
 msgstr ""
+"Kart na polu walki nazywane są permanentami, by odróżnić je od sztuczek i "
+"obrzędów, które nigdy nie znajdują się na polu walki."
 
 #: ../../rulebook.rst:311
 msgid "ATTACKING AND BLOCKING"
@@ -379,6 +416,9 @@ msgstr ""
 #: ../../rulebook.rst:440
 msgid "The stack is a game zone shared by all players (like the battlefield) where spells and abilities wait to resolve. Resolving a spell or ability simply means that its effect happens."
 msgstr ""
+"Stos jest strefą gry współdzieloną przez wszystkich graczy (podobnie do pola "
+"walki), gdzie czary i zdolności czekają na rozpatrzenie. Rozpatrzenie czaru "
+"lub zdolności oznacza po prostu, że ich efekt się wydarza."
 
 #: ../../rulebook.rst:444
 msgid "**Using the Stack**"
