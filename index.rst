@@ -11,7 +11,7 @@
 Instrukcje
 ==========
 
-:doc:`Podstawowy podręcznik zasad<rulebook>` (33%)
+:doc:`Podstawowy podręcznik zasad<rulebook>` (100%)
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` (18%)
 
