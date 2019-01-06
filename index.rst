@@ -20,6 +20,11 @@ Instrukcje
 Tłumaczenie dodatków
 ====================
 
+Nadochodzące
+------------
+
+* :doc:`Ravnica Allegiance spoiler (90 kart)<RNA>` (?%)
+
 Standard
 --------
 
