@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 16:01+0000\n"
+"PO-Revision-Date: 2019-01-06 20:52+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ogw/pl/>\n"
 "Language: pl\n"
@@ -355,7 +355,6 @@ msgid ""
 msgstr ""
 
 #: ../../OGW.rst:160
-#, fuzzy
 msgid "Make a Stand"
 msgstr "Make a Stand"
 
@@ -372,7 +371,6 @@ msgid "Makindi Aeronaut"
 msgstr ""
 
 #: ../../OGW.rst:168
-#, fuzzy
 msgid "Mighty Leap"
 msgstr "Mighty Leap"
 
@@ -727,7 +725,7 @@ msgstr ""
 
 #: ../../OGW.rst:354
 msgid "Negate"
-msgstr ""
+msgstr "Negate"
 
 #: ../../OGW.rst:353
 msgid "Counter target noncreature spell."
@@ -1949,14 +1947,13 @@ msgstr ""
 
 #: ../../OGW.rst:990
 msgid "Strider Harness"
-msgstr ""
+msgstr "Strider Harness"
 
 #: ../../OGW.rst:987
 msgid "Equipped creature gets +1/+1 and has haste."
 msgstr ""
 
 #: ../../OGW.rst:996
-#, fuzzy
 msgid "Cinder Barrens"
 msgstr "Cinder Barrens"
 
@@ -2110,7 +2107,6 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../OGW.rst:1074
-#, fuzzy
 msgid "Timber Gorge"
 msgstr "Timber Gorge"
 
