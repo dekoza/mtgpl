@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:59+0100\n"
-"PO-Revision-Date: 2019-01-06 15:39+0000\n"
+"PO-Revision-Date: 2019-01-06 16:01+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rna/pl/>\n"
 "Language: pl\n"
@@ -439,6 +439,8 @@ msgstr ""
 #: ../../RNA.rst:161
 msgid "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem walczy ze wskazanym stworem, którym nie "
+"władasz. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../RNA.rst:166
 msgid "Wilderness Reclamation"
@@ -543,7 +545,7 @@ msgstr ""
 #: ../../RNA.rst:217
 #: ../../RNA.rst:241
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../RNA.rst:219
 msgid "|mana_4|\\ |mana_r|\\ |mana_g|: Frenzied Arynx gets +3/+0 until end of turn."
@@ -555,7 +557,7 @@ msgstr ""
 
 #: ../../RNA.rst:223
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../RNA.rst:225
 msgid "When Frilled Mystic enters the battlefield, you may counter target spell."
@@ -784,7 +786,7 @@ msgstr ""
 
 #: ../../RNA.rst:351
 msgid "Draw two cards."
-msgstr ""
+msgstr "Dobierz dwie karty."
 
 #: ../../RNA.rst:353
 msgid "Addendum — If you cast this spell during your main phase, you gain 2 life."
@@ -849,7 +851,7 @@ msgstr ""
 #: ../../RNA.rst:385
 #: ../../RNA.rst:395
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../RNA.rst:390
 msgid "Consume"
@@ -865,7 +867,7 @@ msgstr ""
 
 #: ../../RNA.rst:393
 msgid "Tap target creature."
-msgstr ""
+msgstr "Zatapuj wskazanego stwora."
 
 #: ../../RNA.rst:400
 msgid "Deploy"
@@ -1093,7 +1095,7 @@ msgstr ""
 
 #: ../../RNA.rst:539
 msgid "Flying, lifelink"
-msgstr ""
+msgstr "Latanie, więź życia"
 
 #: ../../RNA.rst:541
 msgid "Whenever The Haunt of Hightower attacks, defending player discards a card."
