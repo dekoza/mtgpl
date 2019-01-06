@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2019-01-01 01:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ktk/pl/>\n"
@@ -65,9 +65,10 @@ msgstr "Ainok Bond-Kin"
 # fa58b4bf075645f9a0d6dc96bfeb0bd7
 # 0fd61520ce7c4e6e800f65ebe7bc14ba
 #: ../../KTK.rst:21 ../../KTK.rst:111
+#, fuzzy
 msgid ""
-"Outlast |mana_1| |mana_w| (|mana_1| |mana_w|, |tap|: Put a +1/+1 counter on "
-"this creature. Outlast only as a sorcery.)"
+"Outlast |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, |tap|: Put a +1/+1 counter "
+"on this creature. Outlast only as a sorcery.)"
 msgstr ""
 "Wytrzymaj |mana_1| |mana_w| (|mana_1| |mana_w|, |tap|: Umieść znacznik +1/+1 "
 "na tym stworze. Używaj jako obrzęd.)"
@@ -121,7 +122,8 @@ msgstr "Obronność"
 
 # c44180e848114ad0b9e5d73e0d9174cc
 #: ../../KTK.rst:39
-msgid "|mana_1| |mana_w|, |tap|: Tap target creature."
+#, fuzzy
+msgid "|mana_1|\\ |mana_w|, |tap|: Tap target creature."
 msgstr "|mana_1| |mana_w|, |tap|: Zaznacz wskazanego stwora."
 
 # 1a73eeb07b3f4b31b6c24bb19525e1ef
@@ -187,8 +189,9 @@ msgstr "Firehoof Cavalry"
 
 # 67b438af936240878eb587d760ee9546
 #: ../../KTK.rst:61
+#, fuzzy
 msgid ""
-"|mana_3| |mana_r|: Firehoof Cavalry gets +2/+0 and gains trample until end "
+"|mana_3|\\ |mana_r|: Firehoof Cavalry gets +2/+0 and gains trample until end "
 "of turn."
 msgstr ""
 "|mana_3| |mana_r|: Firehoof Cavalry dostaje do końca tury +2/+0 oraz "
@@ -201,9 +204,10 @@ msgstr "Herald of Anafenza (Herold Anafenzy)"
 
 # 153df11f983e41c7800cac7425ba556e
 #: ../../KTK.rst:65
+#, fuzzy
 msgid ""
-"Outlast |mana_2| |mana_w| (|mana_2| |mana_w|, |tap|: Put a +1/+1 counter on "
-"this creature. Outlast only as a sorcery.)"
+"Outlast |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, |tap|: Put a +1/+1 counter "
+"on this creature. Outlast only as a sorcery.)"
 msgstr ""
 "Wytrzymaj |mana_2| |mana_w| (|mana_2| |mana_w|, |tap|: Umieść znacznik +1/+1 "
 "na tym stworze. Używaj jako obrzęd.)"
@@ -260,7 +264,8 @@ msgstr ""
 
 # 550061396de04d358aa59c3e41cfdd3d
 #: ../../KTK.rst:75
-msgid "|mana_3| |mana_w|: Put a +1/+1 counter on target creature."
+#, fuzzy
+msgid "|mana_3|\\ |mana_w|: Put a +1/+1 counter on target creature."
 msgstr "|mana_3| |mana_w|: Umieść znacznik +1/+1 na wskazanym stworze."
 
 # 807d146d751442cbb8f979aa1b975aa5
@@ -337,9 +342,10 @@ msgstr "Master of Pearls (Mistrz Pereł)"
 
 # a288fc31f0b948ed9e5fbc5615c04824
 #: ../../KTK.rst:95
+#, fuzzy
 msgid ""
-"Morph |mana_3| |mana_w| |mana_w| (You may cast this card face down as a 2/2 "
-"creature for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_3|\\ |mana_w|\\ |mana_w| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_3| |mana_w| |mana_w| (Możesz rzucić tę kartę za |mana_3| "
 "frontem w dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie "
@@ -379,9 +385,10 @@ msgstr "Sage-Eye Harrier"
 
 # 28d1027d6b554ec69260c2a0533568ce
 #: ../../KTK.rst:107
+#, fuzzy
 msgid ""
-"Morph |mana_3| |mana_w| (You may cast this card face down as a 2/2 creature "
-"for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_3|\\ |mana_w| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_3| |mana_w| (Możesz rzucić tę kartę za |mana_3| frontem w "
 "dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie za jej "
@@ -497,9 +504,10 @@ msgstr "War Behemoth"
 
 # ae9604eb078e4b738008f830b3d6c4ea
 #: ../../KTK.rst:147
+#, fuzzy
 msgid ""
-"Morph |mana_4| |mana_w| (You may cast this card face down as a 2/2 creature "
-"for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_4|\\ |mana_w| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_4| |mana_w| (Możesz rzucić tę kartę za |mana_3| frontem w "
 "dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie za jej "
@@ -676,8 +684,9 @@ msgstr "Embodiment of Spring (Ucieleśnienie Wiosny)"
 
 # 03b0386b043b49dca02019b54a1870a9
 #: ../../KTK.rst:203
+#, fuzzy
 msgid ""
-"|mana_1| |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your "
+"|mana_1|\\ |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your "
 "library for a basic land card, put it onto the battlefield tapped, then "
 "shuffle your library."
 msgstr ""
@@ -713,9 +722,10 @@ msgstr "Glacial Stalker"
 
 # bf74e6ec1c014b0bbadd489a9d024022
 #: ../../KTK.rst:213
+#, fuzzy
 msgid ""
-"Morph |mana_4| |mana_u| (You may cast this card face down as a 2/2 creature "
-"for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_4|\\ |mana_u| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_4| |mana_u| (Możesz rzucić tę kartę za |mana_3| frontem w "
 "dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie za jej "
@@ -770,9 +780,10 @@ msgstr "Kheru Spellsnatcher"
 
 # 9a056651a4144a6995e011ae47f04a76
 #: ../../KTK.rst:235
+#, fuzzy
 msgid ""
-"Morph |mana_4| |mana_u| |mana_u| (You may cast this card face down as a 2/2 "
-"creature for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_4|\\ |mana_u|\\ |mana_u| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_4| |mana_u| |mana_u| (Możesz rzucić tę kartę za |mana_3| "
 "frontem w dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie "
@@ -796,9 +807,10 @@ msgstr "Mistfire Weaver"
 # c70c52797bb347178ed71504ac2f239f
 # 554e925ff2e54d86aecf1bd81bc14c6a
 #: ../../KTK.rst:243 ../../KTK.rst:257
+#, fuzzy
 msgid ""
-"Morph |mana_2| |mana_u| (You may cast this card face down as a 2/2 creature "
-"for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_2|\\ |mana_u| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_2| |mana_u| (Możesz rzucić tę kartę za |mana_3| frontem w "
 "dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie za jej "
@@ -897,8 +909,10 @@ msgid "Scaldkin"
 msgstr "Scaldkin"
 
 #: ../../KTK.rst:283
+#, fuzzy
 msgid ""
-"|mana_2| |mana_r|, Sacrifice Scaldkin: Scaldkin deals 2 damage to any target."
+"|mana_2|\\ |mana_r|, Sacrifice Scaldkin: Scaldkin deals 2 damage to any "
+"target."
 msgstr ""
 "|mana_2| |mana_r|, poświęć tego stwora: Zadaje on 2 obrażenia w dowolny cel."
 
@@ -989,9 +1003,10 @@ msgstr "Thousand Winds"
 
 # 921db8d5f77045b2a82451fc6155d123
 #: ../../KTK.rst:319
+#, fuzzy
 msgid ""
-"Morph |mana_5| |mana_u| |mana_u| (You may cast this card face down as a 2/2 "
-"creature for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_5| |mana_u| |mana_u| (Możesz rzucić tę kartę za |mana_3| "
 "frontem w dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie "
@@ -1098,13 +1113,16 @@ msgstr ""
 msgid "Bloodsoaked Champion can't block."
 msgstr ""
 
-# 3eb56f0f8e43495496391de77dccbae9
+# cb5b0966925d4d22a991af241bf2d53b
 #: ../../KTK.rst:359
+#, fuzzy
 msgid ""
-"Raid — |mana_1| |mana_b|: Return Bloodsoaked Champion from your graveyard to "
-"the battlefield. Activate this ability only if you attacked with a creature "
-"this turn."
+"Raid — |mana_1|\\ |mana_b|: Return Bloodsoaked Champion from your graveyard "
+"to the battlefield. Activate this ability only if you attacked with a "
+"creature this turn."
 msgstr ""
+"Najazd — Kiedy Bellowing Sabblebrute wchodzi na pole walki, tracisz 4 życia, "
+"chyba że zaatakowałeś stworem w tej turze."
 
 # 0db896e329654892826ed89777feded0
 #: ../../KTK.rst:366
@@ -1152,9 +1170,10 @@ msgstr "Disowned Ancestor"
 
 # 24297d2add814507ab0d5c63c33c3d0f
 #: ../../KTK.rst:379
+#, fuzzy
 msgid ""
-"Outlast |mana_1| |mana_b| (|mana_1| |mana_b|, |tap|: Put a +1/+1 counter on "
-"this creature. Outlast only as a sorcery.)"
+"Outlast |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, |tap|: Put a +1/+1 counter "
+"on this creature. Outlast only as a sorcery.)"
 msgstr ""
 "Wytrzymaj |mana_1| |mana_b| (|mana_1| |mana_b|, |tap|: Umieść znacznik +1/+1 "
 "na tym stworze. Używaj jako obrzęd.)"
@@ -1231,12 +1250,15 @@ msgid ""
 "opponent loses 2 life and you gain 2 life."
 msgstr ""
 
-# 964bc20da20d48f49ca0d4a1d4f27daf
+# ac495d9f08f145c58b55303a207873d1
 #: ../../KTK.rst:405
+#, fuzzy
 msgid ""
-"|mana_2| |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Kheru "
-"Bloodsucker."
+"|mana_2|\\ |mana_b|, Sacrifice another creature: Put a +1/+1 counter on "
+"Kheru Bloodsucker."
 msgstr ""
+"|mana_1| |mana_g|, poświęć innego stwora: Zyskujesz życie równe "
+"wytrzymałości poświęconego stwora."
 
 # 46a1962a10fc49e79eb735e71d68029b
 #: ../../KTK.rst:412
@@ -1246,8 +1268,9 @@ msgstr "Kheru Dreadmaw"
 
 # ac495d9f08f145c58b55303a207873d1
 #: ../../KTK.rst:411
+#, fuzzy
 msgid ""
-"|mana_1| |mana_g|, Sacrifice another creature: You gain life equal to the "
+"|mana_1|\\ |mana_g|, Sacrifice another creature: You gain life equal to the "
 "sacrificed creature's toughness."
 msgstr ""
 "|mana_1| |mana_g|, poświęć innego stwora: Zyskujesz życie równe "
@@ -1261,9 +1284,10 @@ msgstr "Krumar Bond-Kin"
 
 # 41bc53e34df24581b1b603d5b4ce0f3c
 #: ../../KTK.rst:415
+#, fuzzy
 msgid ""
-"Morph |mana_4| |mana_b| (You may cast this card face down as a 2/2 creature "
-"for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_4|\\ |mana_b| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_4| |mana_b| (Możesz rzucić tę kartę za |mana_3| frontem w "
 "dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie za jej "
@@ -1317,7 +1341,7 @@ msgstr "Molting Snakeskin"
 #: ../../KTK.rst:433
 #, fuzzy
 msgid ""
-"Enchanted creature gets +2/+0 and has \"|mana_2| |mana_b|: Regenerate this "
+"Enchanted creature gets +2/+0 and has \"|mana_2|\\ |mana_b|: Regenerate this "
 "creature.\""
 msgstr "Zauroczony stwór dostaje +2/+0 i ma Pierwszy Cios."
 
@@ -1468,9 +1492,10 @@ msgstr ""
 
 # 3543ad0aee6a455899c0efd0aaaff011
 #: ../../KTK.rst:489
+#, fuzzy
 msgid ""
-"Morph |mana_1| |mana_b| (You may cast this card face down as a 2/2 creature "
-"for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_1|\\ |mana_b| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_1| |mana_b| (Możesz rzucić tę kartę za |mana_3| frontem w "
 "dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie za jej "
@@ -1516,11 +1541,12 @@ msgstr ""
 msgid "Unyielding Krumar"
 msgstr "Unyielding Krumar (Nieustępliwy Krumar)"
 
-# 9abb7c9c3887429f9ba61346fbc554a2
+# 2a2b6dc0fd364ae090ea2ad52ac55392
 #: ../../KTK.rst:511
+#, fuzzy
 msgid ""
-"|mana_1| |mana_w|: Unyielding Krumar gains first strike until end of turn."
-msgstr ""
+"|mana_1|\\ |mana_w|: Unyielding Krumar gains first strike until end of turn."
+msgstr "|mana_2| |mana_w|: Skaczący Mistrz zyskuje Latanie do końca tury."
 
 # 5d97ad91ce7f430b84a430af13981f0f
 #: ../../KTK.rst:516
@@ -1551,9 +1577,10 @@ msgstr "Pierwszy cios"
 
 # c2a6c185a4b64f21bd456f539fb6ad5f
 #: ../../KTK.rst:521
+#, fuzzy
 msgid ""
-"Morph |mana_4| |mana_r| (You may cast this card face down as a 2/2 creature "
-"for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_4|\\ |mana_r| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_4| |mana_r| (Możesz rzucić tę kartę za |mana_3| frontem w "
 "dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie za jej "
@@ -1613,9 +1640,10 @@ msgstr "Kiedy Ashcloud Phenix umiera, zwróć go na pole walki frontem w dół."
 
 # 0ea71b998c754bd99d28b45961773b92
 #: ../../KTK.rst:539
+#, fuzzy
 msgid ""
-"Morph |mana_4| |mana_r| |mana_r| (You may cast this card face down as a 2/2 "
-"creature for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_4|\\ |mana_r|\\ |mana_r| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_4| |mana_r| |mana_r| (Możesz rzucić tę kartę za |mana_3| "
 "frontem w dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie "
@@ -1664,7 +1692,8 @@ msgstr "Bloodfire Mentor"
 
 # 02fa096c2b9d4218812049ae1b4afb88
 #: ../../KTK.rst:555
-msgid "|mana_2| |mana_u|, |tap|: Draw a card, then discard a card."
+#, fuzzy
+msgid "|mana_2|\\ |mana_u|, |tap|: Draw a card, then discard a card."
 msgstr "|mana_2| |mana_u|, |tap|: Dobierz kartę, następnie odrzuć kartę."
 
 # 5579d86273ff43dbbcbd24140c9b91e1
@@ -1702,9 +1731,10 @@ msgstr "Canyon Lurkers"
 
 # e9da107a927f4fe9a56c399d51ae5279
 #: ../../KTK.rst:567
+#, fuzzy
 msgid ""
-"Morph |mana_3| |mana_r| (You may cast this card face down as a 2/2 creature "
-"for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_3|\\ |mana_r| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_3| |mana_r| (Możesz rzucić tę kartę za |mana_3| frontem w "
 "dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie za jej "
@@ -1854,9 +1884,10 @@ msgstr "Jeering Instigator"
 
 # fbb404f319a34977bbb63d36dff651a4
 #: ../../KTK.rst:613
+#, fuzzy
 msgid ""
-"Morph |mana_2| |mana_r| (You may cast this card face down as a 2/2 creature "
-"for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_2|\\ |mana_r| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_2| |mana_r| (Możesz rzucić tę kartę za |mana_3| frontem w "
 "dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie za jej "
@@ -1877,7 +1908,8 @@ msgstr "Leaping Master (Skaczący Mistrz)"
 
 # 2a2b6dc0fd364ae090ea2ad52ac55392
 #: ../../KTK.rst:619
-msgid "|mana_2| |mana_w|: Leaping Master gains flying until end of turn."
+#, fuzzy
+msgid "|mana_2|\\ |mana_w|: Leaping Master gains flying until end of turn."
 msgstr "|mana_2| |mana_w|: Skaczący Mistrz zyskuje Latanie do końca tury."
 
 # b399169a432043d9bd4a1a0a020d4072
@@ -1913,10 +1945,13 @@ msgstr "Mardu Warshrieker"
 
 # cb5b0966925d4d22a991af241bf2d53b
 #: ../../KTK.rst:631
+#, fuzzy
 msgid ""
 "Raid — When Mardu Warshrieker enters the battlefield, if you attacked with a "
-"creature this turn, add |mana_r| |mana_w| |mana_b|."
+"creature this turn, add |mana_r|\\ |mana_w|\\ |mana_b|."
 msgstr ""
+"Najazd — Kiedy ta karta wejdzie na pole walki, jeśli atakowałeś stworem w "
+"tej turze, stwórz żeton białego stwora Wojownik 1/1."
 
 # 8bea359c5e204e9f85cf59707c64416b
 #: ../../KTK.rst:638
@@ -2050,7 +2085,8 @@ msgstr "Archers' Parapet"
 
 # 1bd3731ea7a64aa1a265b7238ce219fa
 #: ../../KTK.rst:689
-msgid "|mana_1| |mana_b|, |tap|: Each opponent loses 1 life."
+#, fuzzy
+msgid "|mana_1|\\ |mana_b|, |tap|: Each opponent loses 1 life."
 msgstr "|mana_1| |mana_b|, |tap|: Każdy przeciwnik traci 1 życie."
 
 # d30022b4e8554d14abe14f5e551df67b
@@ -2169,7 +2205,8 @@ msgstr ""
 
 # d53cf4c38b434af0a86ba57997c013e7
 #: ../../KTK.rst:731
-msgid "Morph |mana_3| |mana_g| |mana_g|"
+#, fuzzy
+msgid "Morph |mana_3|\\ |mana_g|\\ |mana_g|"
 msgstr "Przemiana |mana_3| |mana_g| |mana_g|"
 
 # 95467c8d1d1f412697ef0a17af5a6967
@@ -2234,9 +2271,10 @@ msgstr "Longshot Squad"
 
 # adcafd40c3f44e10b142604c74fdd143
 #: ../../KTK.rst:753
+#, fuzzy
 msgid ""
-"Outlast |mana_1| |mana_g| (|mana_1| |mana_g|, |tap|: Put a +1/+1 counter on "
-"this creature. Outlast only as a sorcery.)"
+"Outlast |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, |tap|: Put a +1/+1 counter "
+"on this creature. Outlast only as a sorcery.)"
 msgstr ""
 "Wytrzymaj |mana_1| |mana_g| (|mana_1| |mana_g|, |tap|: Umieść znacznik +1/+1 "
 "na tym stworze. Używaj jako obrzęd.)"
@@ -2290,9 +2328,10 @@ msgstr ""
 # d097db98440f4b84b7cefaa99a709145
 # c7f04b0f38c9495b8666339d6a8a5e63
 #: ../../KTK.rst:769 ../../KTK.rst:791
+#, fuzzy
 msgid ""
-"Morph |mana_4| |mana_g| (You may cast this card face down as a 2/2 creature "
-"for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_4|\\ |mana_g| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_4| |mana_g| (Możesz rzucić tę kartę za |mana_3| frontem w "
 "dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie za jej "
@@ -2330,7 +2369,7 @@ msgstr ""
 
 #: ../../KTK.rst:779
 msgid ""
-"When Rattleclaw Mystic is turned face up, add |mana_g| |mana_u| |mana_r|."
+"When Rattleclaw Mystic is turned face up, add |mana_g|\\ |mana_u|\\ |mana_r|."
 msgstr ""
 
 # 1a4174599bcc4ea1b0a69e7d90f0a656
@@ -2441,10 +2480,11 @@ msgstr ""
 msgid "Smoke Teller"
 msgstr "Smoke Teller"
 
-# 2b07810f2dde42a6b7a3bc2291874736
+# c44180e848114ad0b9e5d73e0d9174cc
 #: ../../KTK.rst:815
-msgid "|mana_1| |mana_u|: Look at target face-down creature."
-msgstr ""
+#, fuzzy
+msgid "|mana_1|\\ |mana_u|: Look at target face-down creature."
+msgstr "|mana_1| |mana_w|, |tap|: Zaznacz wskazanego stwora."
 
 # e73ab1417c694b49a947470775e6bda8
 #: ../../KTK.rst:820
@@ -2546,9 +2586,10 @@ msgstr "Woolly Loxodon"
 
 # a1694d66ec98453bb941644a586947e8
 #: ../../KTK.rst:849
+#, fuzzy
 msgid ""
-"Morph |mana_5| |mana_g| (You may cast this card face down as a 2/2 creature "
-"for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_5|\\ |mana_g| (You may cast this card face down as a 2/2 "
+"creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_5| |mana_g| (Możesz rzucić tę kartę za |mana_3| frontem w "
 "dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie za jej "
@@ -2570,9 +2611,11 @@ msgstr ""
 
 # d83fa69d8bda4947b496050bff2d9629
 #: ../../KTK.rst:857
+#, fuzzy
 msgid ""
-"Morph |mana_2| |mana_b| |mana_g| |mana_u| (You may cast this card face down "
-"as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_2|\\ |mana_b|\\ |mana_g|\\ |mana_u| (You may cast this card face "
+"down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph "
+"cost.)"
 msgstr ""
 "Przemiana |mana_2| |mana_b| |mana_g| |mana_u| (Możesz rzucić tę kartę za |"
 "mana_3| frontem w dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym "
@@ -2642,9 +2685,11 @@ msgstr "Abzan Guide"
 
 # 56b240c7f9b546daad25662dd995b32f
 #: ../../KTK.rst:879
+#, fuzzy
 msgid ""
-"Morph |mana_2| |mana_w| |mana_b| |mana_g| (You may cast this card face down "
-"as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_2|\\ |mana_w|\\ |mana_b|\\ |mana_g| (You may cast this card face "
+"down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph "
+"cost.)"
 msgstr ""
 "Przemiana |mana_2| |mana_w| |mana_b| |mana_g| (Możesz rzucić tę kartę za |"
 "mana_3| frontem w dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym "
@@ -2845,9 +2890,11 @@ msgstr ""
 
 # 3167b6294b724608aea758acee935d60
 #: ../../KTK.rst:941
+#, fuzzy
 msgid ""
-"Morph |mana_2| |mana_u| |mana_r| |mana_w| (You may cast this card face down "
-"as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_2|\\ |mana_u|\\ |mana_r|\\ |mana_w| (You may cast this card face "
+"down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph "
+"cost.)"
 msgstr ""
 "Przemiana |mana_2| |mana_u| |mana_r| |mana_w| (Możesz rzucić tę kartę za |"
 "mana_3| frontem w dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym "
@@ -2886,9 +2933,10 @@ msgstr "Icefeather Aven"
 
 # 2248fe1e9a914894b875ce6bb1e11253
 #: ../../KTK.rst:955
+#, fuzzy
 msgid ""
-"Morph |mana_1| |mana_g| |mana_u| (You may cast this card face down as a 2/2 "
-"creature for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_1|\\ |mana_g|\\ |mana_u| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_1| |mana_g| |mana_u| (Możesz rzucić tę kartę za |mana_3| "
 "frontem w dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie "
@@ -2969,8 +3017,9 @@ msgstr ""
 
 # 4c9152d4d0f14d19aa27a2ffb1251841
 #: ../../KTK.rst:981
+#, fuzzy
 msgid ""
-"At the beginning of your upkeep, you may pay |mana_2| |mana_b|. If you do, "
+"At the beginning of your upkeep, you may pay |mana_2|\\ |mana_b|. If you do, "
 "return a creature card at random from your graveyard to the battlefield. It "
 "gains flying, trample, and haste. Exile that card at the beginning of your "
 "next end step. If it would leave the battlefield, exile it instead of "
@@ -3132,9 +3181,11 @@ msgstr ""
 
 # 329cb94d29714db1a8318aafe367d5d3
 #: ../../KTK.rst:1029
+#, fuzzy
 msgid ""
-"Morph |mana_2| |mana_r| |mana_w| |mana_b| (You may cast this card face down "
-"as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_2|\\ |mana_r|\\ |mana_w|\\ |mana_b| (You may cast this card face "
+"down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph "
+"cost.)"
 msgstr ""
 "Przemiana |mana_2| |mana_r| |mana_w| |mana_b| (Możesz rzucić tę kartę za |"
 "mana_3| frontem w dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym "
@@ -3146,14 +3197,14 @@ msgstr ""
 msgid "Rakshasa Deathdealer"
 msgstr "Rakshasa Deathdealer"
 
-# 2b3642301ce347feb235c708e8d1d8a0
+# 2a2b6dc0fd364ae090ea2ad52ac55392
 #: ../../KTK.rst:1033
-msgid "|mana_b| |mana_g|: Rakshasa Deathdealer gets +2/+2 until end of turn."
-msgstr ""
+#, fuzzy
+msgid "|mana_b|\\ |mana_g|: Rakshasa Deathdealer gets +2/+2 until end of turn."
+msgstr "|mana_2| |mana_w|: Skaczący Mistrz zyskuje Latanie do końca tury."
 
-# 94580d9c3ef145a986728ca32f16768e
 #: ../../KTK.rst:1035
-msgid "|mana_b| |mana_g|: Regenerate Rakshasa Deathdealer."
+msgid "|mana_b|\\ |mana_g|: Regenerate Rakshasa Deathdealer."
 msgstr ""
 
 # 8796b0ee7269472dbe7484b2939836d2
@@ -3208,9 +3259,10 @@ msgstr "Tratowanie, antyklątwa"
 
 # dce8fe567fc74e3f84d7eab1ceab87a8
 #: ../../KTK.rst:1055
+#, fuzzy
 msgid ""
-"Morph |mana_3| |mana_g| |mana_u| (You may cast this card face down as a 2/2 "
-"creature for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_3|\\ |mana_g|\\ |mana_u| (You may cast this card face down as a "
+"2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 "Przemiana |mana_3| |mana_g| |mana_u| (Możesz rzucić tę kartę za |mana_3| "
 "frontem w dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie "
@@ -3222,17 +3274,17 @@ msgstr ""
 msgid "Savage Knuckleblade"
 msgstr "Savage Knuckleblade"
 
-# 0be2f4cd7886416c84d5dfb9eb1d771f
 #: ../../KTK.rst:1059
 msgid ""
-"|mana_2| |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. "
+"|mana_2|\\ |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. "
 "Activate this ability only once each turn."
 msgstr ""
 
-# 40976b5467b34542b852de9bc779e950
+# 4f6f8d818b524c0fbe44565b7821bcd2
 #: ../../KTK.rst:1061
-msgid "|mana_2| |mana_u|: Return Savage Knuckleblade to its owner's hand."
-msgstr ""
+#, fuzzy
+msgid "|mana_2|\\ |mana_u|: Return Savage Knuckleblade to its owner's hand."
+msgstr "Zwróć wskazanego stwora do ręki jego władcy."
 
 # 158c8def96aa4dada14324208f7e63d2
 #: ../../KTK.rst:1063
@@ -3295,9 +3347,11 @@ msgstr "Snowhorn Rider"
 
 # 2c84565ca42c47488328dc43d4af7475
 #: ../../KTK.rst:1087
+#, fuzzy
 msgid ""
-"Morph |mana_2| |mana_g| |mana_u| |mana_r| (You may cast this card face down "
-"as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+"Morph |mana_2|\\ |mana_g|\\ |mana_u|\\ |mana_r| (You may cast this card face "
+"down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph "
+"cost.)"
 msgstr ""
 "Przemiana |mana_2| |mana_g| |mana_u| |mana_r| (Możesz rzucić tę kartę za |"
 "mana_3| frontem w dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym "
@@ -3530,7 +3584,9 @@ msgstr "|tap|: Dodaj |mana_w|, |mana_b|, lub |mana_g| do twojej puli many."
 
 # 712f66826ca1431ab9414647f5bdecf1
 #: ../../KTK.rst:1179
-msgid "|mana_w| |mana_b| |mana_g|, |tap|, Sacrifice Abzan Banner: Draw a card."
+#, fuzzy
+msgid ""
+"|mana_w|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice Abzan Banner: Draw a card."
 msgstr ""
 "|mana_w| |mana_b| |mana_g|, |tap|, poświęć Sztandar Abzanów: Dobierz kartę."
 
@@ -3661,8 +3717,9 @@ msgstr "|tap|: Dodaj |mana_u|, |mana_r| lub |mana_w| do twojej puli many."
 
 # 98b5b083e0da41ad85200adba7eedd28
 #: ../../KTK.rst:1219
+#, fuzzy
 msgid ""
-"|mana_u| |mana_r| |mana_w|, |tap|, Sacrifice Jeskai Banner: Draw a card."
+"|mana_u|\\ |mana_r|\\ |mana_w|, |tap|, Sacrifice Jeskai Banner: Draw a card."
 msgstr ""
 "|mana_u| |mana_r| |mana_w|, |tap|, poświęć Sztandar Jeskai'ów: Dobierz kartę."
 
@@ -3693,7 +3750,9 @@ msgstr "|tap|: Dodaj |mana_w|, |mana_b|, lub |mana_g| do twojej puli many."
 
 # e7f80cf5afe642baaa61648df4e8ff4e
 #: ../../KTK.rst:1229
-msgid "|mana_r| |mana_w| |mana_b|, |tap|, Sacrifice Mardu Banner: Draw a card."
+#, fuzzy
+msgid ""
+"|mana_r|\\ |mana_w|\\ |mana_b|, |tap|, Sacrifice Mardu Banner: Draw a card."
 msgstr ""
 "|mana_r| |mana_w| |mana_b|, |tap|, poświęć Sztandar Mardu: Dobierz kartę."
 
@@ -3710,8 +3769,9 @@ msgstr "|tap|: Dodaj |mana_b| lub |mana_g| do twojej puli many."
 
 # 537bd6401c974eab84502fb859178c32
 #: ../../KTK.rst:1235
+#, fuzzy
 msgid ""
-"|mana_b| |mana_g| |mana_u|, |tap|, Sacrifice Sultai Banner: Draw a card."
+"|mana_b|\\ |mana_g|\\ |mana_u|, |tap|, Sacrifice Sultai Banner: Draw a card."
 msgstr ""
 "|mana_b| |mana_g| |mana_u|, |tap|, poświęć Sztandar Sultai'ów: Dobierz kartę."
 
@@ -3722,7 +3782,9 @@ msgstr "Temur Banner (Sztandar Temurów)"
 
 # 68b7430b4fcc4771979611a1d3ab97b1
 #: ../../KTK.rst:1241
-msgid "|mana_g| |mana_u| |mana_r|, |tap|, Sacrifice Temur Banner: Draw a card."
+#, fuzzy
+msgid ""
+"|mana_g|\\ |mana_u|\\ |mana_r|, |tap|, Sacrifice Temur Banner: Draw a card."
 msgstr ""
 "|mana_g| |mana_u| |mana_r|, |tap|, poświęć Sztandar Temurów: Dobierz kartę."
 
