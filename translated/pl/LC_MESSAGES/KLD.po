@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2018-12-31 00:12+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
@@ -567,7 +567,7 @@ msgstr ""
 #, fuzzy
 msgid "|mana_5|\\ |mana_u|: Gearseeker Serpent can't be blocked this turn."
 msgstr ""
-"|mana_2| |mana_g|: Wskazany stwór pod twoim władaniem nie może być w tej "
+"|mana_2|\\ |mana_g|: Wskazany stwór pod twoim władaniem nie może być w tej "
 "turze blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../KLD.rst:264
@@ -966,8 +966,11 @@ msgid "Return target artifact card from your graveyard to your hand."
 msgstr ""
 
 #: ../../KLD.rst:441
+#, fuzzy
 msgid "Return target creature card from your graveyard to your hand."
-msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+msgstr ""
+"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../KLD.rst:448
 msgid "Foundry Screecher"
@@ -1819,7 +1822,7 @@ msgid ""
 "|mana_2|\\ |mana_g|: Target creature you control can't be blocked by "
 "creatures with power 2 or less this turn."
 msgstr ""
-"|mana_2| |mana_g|: Wskazany stwór pod twoim władaniem nie może być w tej "
+"|mana_2|\\ |mana_g|: Wskazany stwór pod twoim władaniem nie może być w tej "
 "turze blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../KLD.rst:832
@@ -2112,7 +2115,7 @@ msgstr ""
 
 #: ../../KLD.rst:959
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../KLD.rst:961
 msgid ""
