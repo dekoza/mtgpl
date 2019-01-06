@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 20:52+0000\n"
+"PO-Revision-Date: 2019-01-06 22:07+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -1816,7 +1816,7 @@ msgstr "Tratowanie"
 # b51f2ee877c54c06a3b9f1240131eb3e
 #: ../../GTC.rst:601
 msgid "Each creature you control with a +1/+1 counter on it has trample."
-msgstr "Każdy stwór, którym władasz mający znacznik +1/+1 ma tratowanie."
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma tratowanie."
 
 # f42a37c8a88f4e4f9c0b53c88bfe2f7e
 #: ../../GTC.rst:606
@@ -3888,9 +3888,8 @@ msgstr "Breeding Pool"
 
 # 911f6277850f4d29a090a08d14d48a5d
 #: ../../GTC.rst:1271
-#, fuzzy
 msgid "(|tap|: Add |mana_g| or |mana_u|.)"
-msgstr "(|tap|: Dodaj |mana_g| lub |mana_u| do twojej puli many.)"
+msgstr "(|tap|: Dostajesz |mana_g| lub |mana_u|.)"
 
 # 1005acd2a66f4bfea05158329b3a0af0
 #: ../../GTC.rst:1273
@@ -3920,9 +3919,8 @@ msgstr "Godless Shrine"
 
 # 16accc0a34814dea89f73329b1727669
 #: ../../GTC.rst:1283
-#, fuzzy
 msgid "(|tap|: Add |mana_w| or |mana_b|.)"
-msgstr "(|tap|: Dodaj |mana_w| lub |mana_b| do twojej puli many.)"
+msgstr "(|tap|: Dostajesz |mana_w| lub |mana_b|.)"
 
 # 95cff7ee0262439e8862ecd670c7551e
 #: ../../GTC.rst:1285
@@ -3942,7 +3940,7 @@ msgstr "Gruul Guildgate"
 # 88cffb06b8304954940c9c632c3255ae
 #: ../../GTC.rst:1289
 msgid "Gruul Guildgate enters the battlefield tapped."
-msgstr "Gruul Guildgate wchodzi na pole walki zatapowany."
+msgstr "Ta karta wchodzi na pole walki zaznaczona."
 
 # 3fd2872c08bd4ce6840e8b11c69349cc
 #: ../../GTC.rst:1298
@@ -3952,7 +3950,7 @@ msgstr "Orzhov Guildgate (Brama Gildii Orzhov)"
 # 3f6fecbfa1b4498593f72dbda57c3f62
 #: ../../GTC.rst:1295
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr "Orzhov Guildgate wchodzi na pole walki zatapowany."
+msgstr "Ta karta wchodzi na pole walki zaznaczona."
 
 # b2855b057ada4f448301abc9f7db9f1e
 #: ../../GTC.rst:1304
@@ -3981,7 +3979,7 @@ msgstr "Simic Guildgate (Brama Gildii Simic)"
 # d16c0d2b846b4f19a211e019b386d356
 #: ../../GTC.rst:1307
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr "Simic Guildgate wchodzi na pole walki zatapowany."
+msgstr "Ta karta wchodzi na pole walki zaznaczona."
 
 # 6075bf4bbff542aa9d3524b76af74199
 #: ../../GTC.rst:1316
@@ -3991,9 +3989,8 @@ msgstr "Stomping Ground"
 
 # 038d396e9a494a40aa049c08cac8de98
 #: ../../GTC.rst:1313
-#, fuzzy
 msgid "(|tap|: Add |mana_r| or |mana_g|.)"
-msgstr "(|tap|: Dodaj |mana_r| lub |mana_g| do twojej puli many.)"
+msgstr "(|tap|: Dostajesz |mana_r| lub |mana_g|.)"
 
 # 9589fa564bef4f7387075b23dccd0b43
 #: ../../GTC.rst:1315
