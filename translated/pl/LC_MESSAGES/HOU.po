@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-01 01:24+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
@@ -71,7 +71,7 @@ msgid ""
 "to the battlefield under its owner's control at the beginning of the next "
 "end step."
 msgstr ""
-"|mana_2| |mana_w|, |tap|: Wygnaj innego wskazanego stwora. Przywróć ową "
+"|mana_2|\\ |mana_w|, |tap|: Wygnaj innego wskazanego stwora. Przywróć ową "
 "kartę na pole walki pod władanie jej właściciela na początku najbliższego "
 "kroku końcowego."
 
@@ -82,9 +82,9 @@ msgid ""
 "target creature until Angel of Condemnation leaves the battlefield. (An "
 "exerted creature won't untap during your next untap step.)"
 msgstr ""
-"|mana_2| |mana_w|, |tap|, wytęż tego stwora: Wygnaj innego wskazanego stwora "
-"dopóki ten stwór nie opuści pola walki. (Wytężony stwór nie odtapuje się w "
-"twoim najbliższym kroku odtapowania.)"
+"|mana_2|\\ |mana_w|, |tap|, wytęż tego stwora: Wygnaj innego wskazanego "
+"stwora dopóki ten stwór nie opuści pola walki. (Wytężony stwór nie odtapuje "
+"się w twoim najbliższym kroku odtapowania.)"
 
 #: ../../HOU.rst:30
 #, fuzzy
@@ -536,7 +536,7 @@ msgid ""
 "Cycling |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|, Discard this card: Draw a "
 "card.)"
 msgstr ""
-"Recykling |mana_2| |mana_u| (|mana_2| |mana_u|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 #: ../../HOU.rst:231
@@ -944,7 +944,7 @@ msgstr ""
 
 #: ../../HOU.rst:411
 msgid "Flying, trample"
-msgstr ""
+msgstr "Latanie, tratowanie"
 
 #: ../../HOU.rst:413
 msgid ""
@@ -1659,7 +1659,7 @@ msgstr ""
 #, fuzzy
 msgid "|mana_2|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
 msgstr ""
-"Recykling |mana_2| |mana_u| (|mana_2| |mana_u|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 #: ../../HOU.rst:751
@@ -1737,7 +1737,7 @@ msgstr ""
 #, fuzzy
 msgid "|mana_3|\\ |mana_g|\\ |mana_u|: You gain 2 life and draw a card."
 msgstr ""
-"Recykling |mana_1| |mana_g| (|mana_1| |mana_g|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 #: ../../HOU.rst:790
@@ -2169,7 +2169,7 @@ msgid ""
 "Cycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this card: Draw a "
 "card.)"
 msgstr ""
-"Recykling |mana_1| |mana_r| (|mana_1| |mana_r|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 #: ../../HOU.rst:994
@@ -2190,7 +2190,7 @@ msgid ""
 "Cycling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Discard this card: Draw a "
 "card.)"
 msgstr ""
-"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 #: ../../HOU.rst:1002
@@ -2211,7 +2211,7 @@ msgid ""
 "Cycling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this card: Draw a "
 "card.)"
 msgstr ""
-"Recykling |mana_1| |mana_g| (|mana_1| |mana_g|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 #: ../../HOU.rst:1010
@@ -2232,7 +2232,7 @@ msgid ""
 "Cycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this card: Draw a "
 "card.)"
 msgstr ""
-"Recykling |mana_1| |mana_u| (|mana_1| |mana_u|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 #: ../../HOU.rst:1018
@@ -2253,7 +2253,7 @@ msgid ""
 "Cycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this card: Draw a "
 "card.)"
 msgstr ""
-"Recykling |mana_1| |mana_w| (|mana_1| |mana_w|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 #: ../../HOU.rst:1024
