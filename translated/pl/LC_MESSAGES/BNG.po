@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 14:29+0000\n"
+"PO-Revision-Date: 2019-01-06 15:39+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bng/pl/>\n"
 "Language: pl\n"
@@ -297,8 +297,7 @@ msgstr "Zaurocz stwora"
 #: ../../BNG.rst:59
 #, fuzzy
 msgid "Enchanted creature has \"|mana_1|\\ |mana_w|, |tap|: You gain 3 life.\""
-msgstr ""
-"Zauroczony stwór ma \\\"|mana_1|\\ |mana_w|, |tap|: Zyskujesz 3 życia.\\\""
+msgstr "Zauroczony stwór ma \"|mana_1|\\ |mana_w|, |tap|: Zyskujesz 3 życia.\""
 
 # 5a29cf0d5af74c749f0fa9128373de1c
 # fe9ac7053fca46c3bfee9bf531c09215
@@ -646,8 +645,8 @@ msgid ""
 "Enchanted creature has \"Whenever you gain life, put that many +1/+1 "
 "counters on this creature.\""
 msgstr ""
-"Zauroczony stwór ma \\\"Ilekroć zyskujesz życie, umieść tyle samo znaczników "
-"+1/+1 na tym stworze.\\\""
+"Zauroczony stwór ma \"Ilekroć zyskujesz życie, umieść tyle samo znaczników +"
+"1/+1 na tym stworze.\""
 
 # 9f6e88b1056e4fcd98fdb00266f29706
 # b931ac24deb74da08cf0d0a1a73082ae
@@ -824,8 +823,8 @@ msgid ""
 "Enchanted creature has \"|mana_1|\\ |mana_u|, |tap|: Target player puts the "
 "top three cards of their library into their graveyard.\""
 msgstr ""
-"Zauroczony stwór ma \\\"|mana_1|\\ |mana_u|, |tap|: Wskazany gracz kładzie "
-"trzy wierzchnie karty swojej biblioteki do swojego cmentarza.\\\""
+"Zauroczony stwór ma \"|mana_1|\\ |mana_u|, |tap|: Wskazany gracz kładzie "
+"trzy wierzchnie karty swojej biblioteki do swojego cmentarza.\""
 
 # d4223718e0254977995ca756ca1a8ded
 # f5252d1f302647b885da090ee2f8d308
@@ -1016,9 +1015,9 @@ msgid ""
 "at the top card of your library, then you may put that card on the bottom of "
 "your library.)"
 msgstr ""
-"Zauroczony stwór ma \\\"|tap|: Wróż 1, następnie dobierz kartę.\\\" (By "
-"wróżyć 1, spójrz na wierzchnią kartę twojej biblioteki, następnie możesz "
-"położyć ową kartę na spodzie twojej biblioteki.)"
+"Zauroczony stwór ma \"|tap|: Wróż 1, następnie dobierz kartę.\" (By wróżyć "
+"1, spójrz na wierzchnią kartę twojej biblioteki, następnie możesz położyć "
+"ową kartę na spodzie twojej biblioteki.)"
 
 # 282593b034ba4f84bd9ff32e16f43b51
 # 4271116765d64975a9b6b827da7e6541
@@ -1054,8 +1053,8 @@ msgid ""
 "Until end of turn, target creature gains \"|tap|: Return target nonland "
 "permanent to its owner's hand.\""
 msgstr ""
-"Wskazany stwór zyskuje do końca tury \\\"|tap|: Zwróć wskazany nielądowy "
-"permanent do ręki jego właściciela.\\\""
+"Wskazany stwór zyskuje do końca tury \"|tap|: Zwróć wskazany nielądowy "
+"permanent do ręki jego właściciela.\""
 
 # 51aadac9a882402ebb646f5aec1eef06
 # 74bbabc8a88345dfb709658bfcea6311
@@ -1374,8 +1373,8 @@ msgid ""
 "Enchanted creature has \"|mana_1|\\ |mana_b|, |tap|: Target player loses 2 "
 "life.\""
 msgstr ""
-"Zauroczony stwór ma \\\"|mana_1|\\ |mana_b|, |tap|: Wskazany gracz traci dwa "
-"życia.\\\""
+"Zauroczony stwór ma \"|mana_1|\\ |mana_b|, |tap|: Wskazany gracz traci dwa "
+"życia.\""
 
 # df5cc4f07d9c4a4d8ff64c18d75951c5
 # b8a74be17b49480dbb362817f58b665d
@@ -1543,8 +1542,8 @@ msgid ""
 "\"Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 "Wypędź wskazanego stwora. Umieść na polu walki żeton bezkolorowego artefaktu "
-"Złoto z \\\"Poświęć ten artefakt: Dodaj jedną manę dowolnego koloru do "
-"twojej puli many.\\\""
+"Złoto z \"Poświęć ten artefakt: Dodaj jedną manę dowolnego koloru do twojej "
+"puli many.\""
 
 # cab288071a314832997a87209460973e
 # c8c799b00d914d1596a97471cec0f4b3
@@ -1919,8 +1918,7 @@ msgstr "Epiphany Storm"
 #, fuzzy
 msgid ""
 "Enchanted creature has \"|mana_r|, |tap|, Discard a card: Draw a card.\""
-msgstr ""
-"Zauroczony stwór ma \\\"|mana_r|, |tap|, odrzuć kartę: dobierz kartę.\\\""
+msgstr "Zauroczony stwór ma \"|mana_r|, |tap|, odrzuć kartę: dobierz kartę.\""
 
 # 0f5d966e19df432eac4a273c0237320e
 # af5abfe707514a34a619e5536b0ebe56
@@ -2004,8 +2002,8 @@ msgid ""
 "Enchanted creature gets +2/+2 and has \"|mana_2|\\ |mana_r|: Target creature "
 "can't block this creature this turn.\""
 msgstr ""
-"Zauroczony stwór dostaje +2/+2 i ma \\\"|mana_2|\\ |mana_r|: Wskazany stwór "
-"nie może blokować tego stwora w tej turze.\\\""
+"Zauroczony stwór dostaje +2/+2 i ma \"|mana_2|\\ |mana_r|: Wskazany stwór "
+"nie może blokować tego stwora w tej turze.\""
 
 # 9053e237ccd44c96ab75fc8771f05d06
 # bae6c925ff59482fa5c72c11b1e52d8d
@@ -2046,8 +2044,8 @@ msgid ""
 "\""
 msgstr ""
 "Kiedy Feniks Opleciony Ogniem wchodzi na pole walki, jeśli danina nie "
-"została zapłacona, zyskuje on pośpiech oraz \\\"Kiedy ten stwór umiera, "
-"przywróć go do ręki jego właściciela.\\\""
+"została zapłacona, zyskuje on pośpiech oraz \"Kiedy ten stwór umiera, "
+"przywróć go do ręki jego właściciela.\""
 
 # c092cd69db044b6d8667bd6e91e05861
 # 3cf16f26f04142ddb440ccdf70519d23
@@ -2122,8 +2120,8 @@ msgid ""
 "Until end of turn, creatures you control gain \"|tap|: This creature deals 1 "
 "damage to any target.\""
 msgstr ""
-"Stwory, którymi władasz, zyskują do końca tury \\\"|tap|: Ten stwór zadaje 1 "
-"obrażenie wskazanemu stworowi lub graczowi.\\\""
+"Stwory, którymi władasz, zyskują do końca tury \"|tap|: Ten stwór zadaje 1 "
+"obrażenie wskazanemu stworowi lub graczowi.\""
 
 # 2f62e06563f848c3a0e494230e3a54e0
 #: ../../BNG.rst:552
@@ -2548,8 +2546,8 @@ msgid ""
 "\"Whenever this creature deals combat damage to a player, draw that many "
 "cards.\""
 msgstr ""
-"Do końca tury wskazany stwór dostaje +3/+3, tratowanie oraz \\\"Ilekroć ten "
-"stwór zada graczowi obrażenia bitewne, dobierz tyle samo kart.\\\""
+"Do końca tury wskazany stwór dostaje +3/+3, tratowanie oraz \"Ilekroć ten "
+"stwór zada graczowi obrażenia bitewne, dobierz tyle samo kart.\""
 
 # 2dbe13410f44488ebfa1df63b7d164c5
 # 2213bcf904cd4aa6978c5bc950660c7a
@@ -2569,8 +2567,8 @@ msgstr "Kiedy Łaska Karametry wchodzi na pole walki, dobierz kartę."
 #, fuzzy
 msgid "Enchanted creature has \"|tap|: Add one mana of any color.\""
 msgstr ""
-"Zauroczony stwór ma \\\"|tap|: Doda jedną manę dowolnego koloru do twojej "
-"puli many.\\\""
+"Zauroczony stwór ma \"|tap|: Doda jedną manę dowolnego koloru do twojej puli "
+"many.\""
 
 # 0df291f5ede44209ad4986a21a1ad323
 # abaa095d51f241ea8c49f15b4b3b4147
@@ -2600,7 +2598,7 @@ msgid ""
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
 "Wskazany stwór dostaje do końca tury +1/+1 oraz niezniszczalność. (Obrażenia "
-"oraz efekty mówiące \\\"zniszcz\\\" nie niszczą go.)"
+"oraz efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 # bcf08c2a1a334f3ba84bb4d1507c2b5a
 # 087bad2395ee47fb8ac216fce9f307c0
@@ -3119,8 +3117,8 @@ msgid ""
 "−5: You get an emblem with \"At the beginning of your end step, create a 9/9 "
 "blue Kraken creature token.\""
 msgstr ""
-"-5: Dostajesz emblemat o treści \\\"Na początku twojego kroku końcowego "
-"stwórz żeton niebieskiego stwora Kraken 9/9.\\\""
+"-5: Dostajesz emblemat o treści \"Na początku twojego kroku końcowego stwórz "
+"żeton niebieskiego stwora Kraken 9/9.\""
 
 # 0ce4c90a23024a469c912825691797d1
 # 63322bf471e3462a9b86f055d19f3627
@@ -3184,9 +3182,9 @@ msgid ""
 "Creatures you control have \"|tap|: Target player puts the top X cards of "
 "their library into their graveyard, where X is this creature's toughness.\""
 msgstr ""
-"Stwory, którymi władasz, mają \\\"|tap|: Wskazany gracz wkłada X wierzchnich "
+"Stwory, którymi władasz, mają \"|tap|: Wskazany gracz wkłada X wierzchnich "
 "kart swojej biblioteki do swojego cmentarza, gdzie X jest wytrzymałością "
-"tego stwora.\\\""
+"tego stwora.\""
 
 # 2d89cf2d5939457d8a3ec32e5529e794
 # 0136df3f62874b889402da252d76c588
@@ -3362,8 +3360,7 @@ msgstr "Siren Song Lyre"
 #: ../../BNG.rst:883
 #, fuzzy
 msgid "Equipped creature has \"|mana_2|, |tap|: Tap target creature.\""
-msgstr ""
-"Wyposażony stwór ma \\\"|mana_2|, |tap|: Zaznacz wskazanego stwora.\\\""
+msgstr "Wyposażony stwór ma \"|mana_2|, |tap|: Zaznacz wskazanego stwora.\""
 
 # 77fee743cc894fbfad287936f3122651
 # 5d3d7380a40d4e44a7a827e221cbbcb8
