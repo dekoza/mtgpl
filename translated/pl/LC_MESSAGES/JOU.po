@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-01 01:24+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/jou/pl/>\n"
 "Language: pl\n"
@@ -50,7 +50,7 @@ msgid ""
 "Strive — This spell costs |mana_2|\\ |mana_w| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
+"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
 "dodatkowy cel poza pierwszym."
 
 # f792c954794243dc821e88101dc91f50
@@ -368,7 +368,7 @@ msgid ""
 "Strive — This spell costs |mana_1|\\ |mana_w| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
+"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
 "dodatkowy cel poza pierwszym."
 
 # 6aee0292b9e14c40ae0ee6a66e0a551f
@@ -408,11 +408,15 @@ msgid "Sightless Brawler"
 msgstr ""
 
 #: ../../JOU.rst:127
+#, fuzzy
 msgid ""
 "Bestow |mana_4|\\ |mana_w| (If you cast this card for its bestow cost, it's "
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
+"Obdaruj |mana_4|\\ |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
+"nie jest dołączona do stwora.)"
 
 # c16698ec31564e5686991a3aac5d45e2
 #: ../../JOU.rst:129
@@ -519,7 +523,7 @@ msgid ""
 "Strive — This spell costs |mana_2|\\ |mana_u| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
+"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
 "dodatkowy cel poza pierwszym."
 
 # aaaeebffb36b4fbd88ba265b4d4214c5
@@ -683,7 +687,7 @@ msgid ""
 "Strive — This spell costs |mana_1|\\ |mana_u| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
+"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
 "dodatkowy cel poza pierwszym."
 
 #: ../../JOU.rst:213
@@ -1028,7 +1032,7 @@ msgid ""
 "Strive — This spell costs |mana_2|\\ |mana_b| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
+"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
 "dodatkowy cel poza pierwszym."
 
 # 14096950b59b470dba8c9e2bbae6b8ab
@@ -1139,11 +1143,15 @@ msgid "Gnarled Scarhide"
 msgstr ""
 
 #: ../../JOU.rst:371
+#, fuzzy
 msgid ""
 "Bestow |mana_3|\\ |mana_b| (If you cast this card for its bestow cost, it's "
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_3|\\ |mana_b| (Jeśli zagrasz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # 64d3cca2c0634041b0d10fc53ddadbbb
 #: ../../JOU.rst:373
@@ -1502,7 +1510,7 @@ msgid ""
 "|mana_5|\\ |mana_r|\\ |mana_r|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
-"|mana_5| |mana_r| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
+"|mana_5|\\ |mana_r|\\ |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
 "monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # 8f7d8709ce1345099b3074d179e74f45
@@ -1517,7 +1525,7 @@ msgid ""
 "Strive — This spell costs |mana_2|\\ |mana_r| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
+"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
 "dodatkowy cel poza pierwszym."
 
 # ed4a5539bf974b0386cfffae9de75b2a
@@ -1572,11 +1580,15 @@ msgid "Mogis's Warhound"
 msgstr ""
 
 #: ../../JOU.rst:525
+#, fuzzy
 msgid ""
 "Bestow |mana_2|\\ |mana_r| (If you cast this card for its bestow cost, it's "
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_2|\\ |mana_r| (Jeśli zagrasz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # 10521a8446b8415798456c81dd53aa0e
 #: ../../JOU.rst:527
@@ -1732,7 +1744,7 @@ msgid ""
 "|mana_5|\\ |mana_r|\\ |mana_r|: Monstrosity 1. (If this creature isn't "
 "monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
 msgstr ""
-"|mana_5| |mana_r| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
+"|mana_5|\\ |mana_r|\\ |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
 "monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # a3fed74beeca4cde869c31f94247fa5e
@@ -1764,7 +1776,7 @@ msgid ""
 "Strive — This spell costs |mana_1|\\ |mana_g| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
+"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
 "dodatkowy cel poza pierwszym."
 
 # 625d9629300042279b2ca1e47d2cdcc6
@@ -1788,7 +1800,7 @@ msgid ""
 "Strive — This spell costs |mana_2|\\ |mana_g| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
+"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
 "dodatkowy cel poza pierwszym."
 
 # bebc0b3defd64a849ed4c233d84b77fb
@@ -1890,8 +1902,8 @@ msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_g|: Put X +1/+1 counters on Heroes' Bane, where "
 "X is its power."
 msgstr ""
-"|mana_2| |mana_g| |mana_g|: Umieść na Heroe's Bane X znaczników +1/+1, gdzie "
-"X to jego siła."
+"|mana_2|\\ |mana_g|\\ |mana_g|: Umieść na Heroe's Bane X znaczników +1/+1, "
+"gdzie X to jego siła."
 
 # e56cd0f9a5d745ef995220c2d6f61b39
 #: ../../JOU.rst:640
@@ -1921,7 +1933,7 @@ msgid ""
 "|mana_x|\\ |mana_x|\\ |mana_g|: Monstrosity X. (If this creature isn't "
 "monstrous, put X +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
-"|mana_x| |mana_x| |mana_g|: Monstrualność X. (Jeśli ten stwór nie jest "
+"|mana_x|\\ |mana_x|\\ |mana_g|: Monstrualność X. (Jeśli ten stwór nie jest "
 "monstrualny, umieść na nim X znaczników +1/+1 i staje się on monstrualny.)"
 
 # 60fe2053983c408e9e2009b283ab5829
@@ -2050,7 +2062,7 @@ msgid ""
 "|mana_6|\\ |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put "
 "three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
-"|mana_5| |mana_r| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
+"|mana_5|\\ |mana_r|\\ |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
 "monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # c135f965ec0846909a84748e99e552c5
@@ -2076,8 +2088,11 @@ msgstr "Wybierz jedno lub oba —"
 
 # 51a4532c38494d3db7167f53c40a87b5
 #: ../../JOU.rst:695
+#, fuzzy
 msgid "Return target creature card from your graveyard to your hand."
-msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+msgstr ""
+"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 # 34e2881d1ce843279f554fbfb2843e8e
 #: ../../JOU.rst:697
@@ -2139,11 +2154,15 @@ msgid "Spirespine"
 msgstr ""
 
 #: ../../JOU.rst:717
+#, fuzzy
 msgid ""
 "Bestow |mana_4|\\ |mana_g| (If you cast this card for its bestow cost, it's "
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
+"Obdarowanie |mana_4|\\ |mana_g| (Jeśli zagrasz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 #: ../../JOU.rst:719
 msgid "Spirespine blocks each combat if able."
@@ -2188,7 +2207,7 @@ msgid ""
 "|mana_4|\\ |mana_g|\\ |mana_g|: Monstrosity 2. (If this creature isn't "
 "monstrous, put two +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
-"|mana_x| |mana_x| |mana_g|: Monstrualność X. (Jeśli ten stwór nie jest "
+"|mana_x|\\ |mana_x|\\ |mana_g|: Monstrualność X. (Jeśli ten stwór nie jest "
 "monstrualny, umieść na nim X znaczników +1/+1 i staje się on monstrualny.)"
 
 # f4f6bebd27494c769628ed5c56a6f250
@@ -2271,7 +2290,7 @@ msgid ""
 "Strive — This spell costs |mana_r|\\ |mana_w| more to cast for each target "
 "beyond the first."
 msgstr ""
-"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
+"Wysiłek — Rzucenie Twinflame kosztuje o |mana_2|\\ |mana_r| więcej za każdy "
 "dodatkowy cel poza pierwszym."
 
 # 097b2be3e3784063a3a9ee681f12c16a
@@ -2312,7 +2331,7 @@ msgid ""
 "|mana_5|\\ |mana_g|\\ |mana_u|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
-"|mana_5| |mana_r| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
+"|mana_5|\\ |mana_r|\\ |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
 "monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # bed6007ebc61421d9c98742b2190c60d
