@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 14:29+0000\n"
+"PO-Revision-Date: 2019-01-06 20:52+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
@@ -64,7 +64,6 @@ msgstr ""
 "efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../DOM.rst:22
-#, fuzzy
 msgid "Aven Sentry"
 msgstr "Aven Sentry"
 
@@ -77,7 +76,6 @@ msgid "Flying"
 msgstr "Latanie"
 
 #: ../../DOM.rst:28
-#, fuzzy
 msgid "Baird, Steward of Argive"
 msgstr "Baird, Steward of Argive"
 
@@ -94,7 +92,6 @@ msgstr ""
 "władca nie zapłaci |mana_1| za każdego z owych stworów."
 
 #: ../../DOM.rst:32
-#, fuzzy
 msgid "Benalish Honor Guard"
 msgstr "Benalish Honor Guard"
 
@@ -105,7 +102,6 @@ msgstr ""
 "Ten stwór dostaje +1/+0 za każdego legendarnego stwora pod twoim władaniem."
 
 #: ../../DOM.rst:36
-#, fuzzy
 msgid "Benalish Marshal"
 msgstr "Benalish Marshal"
 
@@ -114,7 +110,6 @@ msgid "Other creatures you control get +1/+1."
 msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../DOM.rst:40
-#, fuzzy
 msgid "Blessed Light"
 msgstr "Blessed Light"
 
@@ -123,7 +118,6 @@ msgid "Exile target creature or enchantment."
 msgstr "Wygnaj wskazanego stwora lub urok."
 
 #: ../../DOM.rst:44
-#, fuzzy
 msgid "Board the Weatherlight"
 msgstr "Board the Weatherlight"
 
@@ -140,7 +134,6 @@ msgstr ""
 "są historyczne.)"
 
 #: ../../DOM.rst:48
-#, fuzzy
 msgid "Call the Cavalry"
 msgstr "Call the Cavalry"
 
@@ -149,7 +142,6 @@ msgid "Create two 2/2 white Knight creature tokens with vigilance."
 msgstr "Stwórz dwa żetony białego stwora Rycerz 2/2 z czujnością."
 
 #: ../../DOM.rst:52
-#, fuzzy
 msgid "Charge"
 msgstr "Charge"
 
@@ -158,7 +150,6 @@ msgid "Creatures you control get +1/+1 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../DOM.rst:56
-#, fuzzy
 msgid "D'Avenant Trapper"
 msgstr "D'Avenant Trapper"
 
@@ -171,7 +162,6 @@ msgstr ""
 "przeciwnika. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:62
-#, fuzzy
 msgid "Danitha Capashen, Paragon"
 msgstr "Danitha Capashen, Paragon"
 
@@ -204,7 +194,6 @@ msgstr ""
 "(Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:74
-#, fuzzy
 msgid "Dauntless Bodyguard"
 msgstr "Dauntless Bodyguard"
 
@@ -242,7 +231,6 @@ msgstr ""
 "oprócz swoich pozostałych typów."
 
 #: ../../DOM.rst:86
-#, fuzzy
 msgid "Evra, Halcyon Witness"
 msgstr "Evra, Halcyon Witness"
 
@@ -255,12 +243,10 @@ msgid "|mana_4|: Exchange your life total with Evra, Halcyon Witness's power."
 msgstr "|mana_4|: Zamień liczbę twoich punktów życia z siłą tego stwora."
 
 #: ../../DOM.rst:92
-#, fuzzy
 msgid "Excavation Elephant"
 msgstr "Excavation Elephant"
 
 #: ../../DOM.rst:89
-#, fuzzy
 msgid ""
 "Kicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |mana_w| as "
 "you cast this spell.)"
@@ -277,7 +263,6 @@ msgstr ""
 "wskazaną kartę artefaktu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:100
-#, fuzzy
 msgid "Fall of the Thran"
 msgstr "Fall of the Thran"
 
@@ -305,7 +290,6 @@ msgstr ""
 "bitwy."
 
 #: ../../DOM.rst:104
-#, fuzzy
 msgid "Gideon's Reproach"
 msgstr "Gideon's Reproach"
 
@@ -316,7 +300,6 @@ msgstr ""
 "Ten czar zadaje 4 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
 
 #: ../../DOM.rst:108
-#, fuzzy
 msgid "Healing Grace"
 msgstr "Healing Grace"
 
@@ -329,7 +312,6 @@ msgstr ""
 "celowi przez wybrane przez ciebie źródło. Zyskujesz 3 życia."
 
 #: ../../DOM.rst:116
-#, fuzzy
 msgid "History of Benalia"
 msgstr "History of Benalia"
 
@@ -342,7 +324,6 @@ msgid "III — Knights you control get +2/+1 until end of turn."
 msgstr "III — Rycerze pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../DOM.rst:120
-#, fuzzy
 msgid "Invoke the Divine"
 msgstr "Invoke the Divine"
 
@@ -351,7 +332,6 @@ msgid "Destroy target artifact or enchantment. You gain 4 life."
 msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
 
 #: ../../DOM.rst:128
-#, fuzzy
 msgid "Knight of Grace"
 msgstr "Knight of Grace"
 
@@ -373,12 +353,10 @@ msgid ""
 msgstr "Ten stwór dostaje +1/+0 o ile któryś gracz włada czarnym permanentnem."
 
 #: ../../DOM.rst:130
-#, fuzzy
 msgid "Knight of New Benalia"
 msgstr "Knight of New Benalia"
 
 #: ../../DOM.rst:138
-#, fuzzy
 msgid "Kwende, Pride of Femeref"
 msgstr "Kwende, Pride of Femeref"
 
@@ -391,7 +369,6 @@ msgid "Creatures you control with first strike have double strike."
 msgstr "Stwory pod twoim władaniem z pierwszym ciosem mają podwójny cios."
 
 #: ../../DOM.rst:144
-#, fuzzy
 msgid "Lyra Dawnbringer"
 msgstr "Lyra Dawnbringer"
 
@@ -404,12 +381,10 @@ msgid "Other Angels you control get +1/+1 and have lifelink."
 msgstr "Inne Anioły pod twoim władaniem dostają +1/+1 i mają więź życia."
 
 #: ../../DOM.rst:148
-#, fuzzy
 msgid "Mesa Unicorn"
 msgstr "Mesa Unicorn"
 
 #: ../../DOM.rst:154
-#, fuzzy
 msgid "On Serra's Wings"
 msgstr "On Serra's Wings"
 
@@ -422,7 +397,6 @@ msgstr ""
 "życia."
 
 #: ../../DOM.rst:160
-#, fuzzy
 msgid "Pegasus Courser"
 msgstr "Pegasus Courser"
 
@@ -435,7 +409,6 @@ msgstr ""
 "końca tury."
 
 #: ../../DOM.rst:166
-#, fuzzy
 msgid "Sanctum Spirit"
 msgstr "Sanctum Spirit"
 
@@ -448,7 +421,6 @@ msgstr ""
 "(Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:172
-#, fuzzy
 msgid "Seal Away"
 msgstr "Seal Away"
 
@@ -466,12 +438,10 @@ msgstr ""
 "pod władaniem przeciwnika dopóki ta karta nie opuści pola walki."
 
 #: ../../DOM.rst:178
-#, fuzzy
 msgid "Sergeant-at-Arms"
 msgstr "Sergeant-at-Arms"
 
 #: ../../DOM.rst:175
-#, fuzzy
 msgid ""
 "Kicker |mana_2|\\ |mana_w| (You may pay an additional |mana_2|\\ |mana_w| as "
 "you cast this spell.)"
@@ -488,7 +458,6 @@ msgstr ""
 "żetony białego stwora Piechur 1/1."
 
 #: ../../DOM.rst:182
-#, fuzzy
 msgid "Serra Angel"
 msgstr "Serra Angel"
 
@@ -497,7 +466,6 @@ msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
 #: ../../DOM.rst:188
-#, fuzzy
 msgid "Serra Disciple"
 msgstr "Serra Disciple"
 
@@ -514,7 +482,6 @@ msgstr ""
 "(Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:196
-#, fuzzy
 msgid "Shalai, Voice of Plenty"
 msgstr "Shalai, Voice of Plenty"
 
@@ -527,7 +494,6 @@ msgstr ""
 "antyklątwę."
 
 #: ../../DOM.rst:195
-#, fuzzy
 msgid ""
 "|mana_4|\\ |mana_g|\\ |mana_g|: Put a +1/+1 counter on each creature you "
 "control."
@@ -536,7 +502,6 @@ msgstr ""
 "twoim władaniem."
 
 #: ../../DOM.rst:202
-#, fuzzy
 msgid "Teshar, Ancestor's Apostle"
 msgstr "Teshar, Ancestor's Apostle"
 
@@ -551,7 +516,6 @@ msgstr ""
 "legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:206
-#, fuzzy
 msgid "Tragic Poet"
 msgstr "Tragic Poet"
 
@@ -584,7 +548,6 @@ msgstr ""
 "tury latanie, pierwszy cios oraz więź życia."
 
 #: ../../DOM.rst:220
-#, fuzzy
 msgid "Urza's Ruinous Blast"
 msgstr "Urza's Ruinous Blast"
 
@@ -602,7 +565,6 @@ msgid "Exile all nonland permanents that aren't legendary."
 msgstr "Wygnaj wszystkie nie-lądowe permanenty, które nie są legendarne."
 
 #: ../../DOM.rst:228
-#, fuzzy
 msgid "Academy Drake"
 msgstr "Academy Drake"
 
@@ -623,7 +585,6 @@ msgstr ""
 "+1."
 
 #: ../../DOM.rst:234
-#, fuzzy
 msgid "Academy Journeymage"
 msgstr "Academy Journeymage"
 
@@ -641,7 +602,6 @@ msgstr ""
 "władaniem przeciwnika do ręki jego właściciela."
 
 #: ../../DOM.rst:242
-#, fuzzy
 msgid "The Antiquities War"
 msgstr "The Antiquities War"
 
@@ -664,7 +624,6 @@ msgstr ""
 "stworami o bazowej sile i wytrzymałości 5/5."
 
 #: ../../DOM.rst:248
-#, fuzzy
 msgid "Arcane Flight"
 msgstr "Arcane Flight"
 
@@ -673,7 +632,6 @@ msgid "Enchanted creature gets +1/+1 and has flying."
 msgstr "Zauroczony stwór dostaje +1/+1 i ma latanie."
 
 #: ../../DOM.rst:254
-#, fuzzy
 msgid "Artificer's Assistant"
 msgstr "Artificer's Assistant"
 
@@ -704,7 +662,6 @@ msgid "Blink of an Eye"
 msgstr "Mgnienie oka"
 
 #: ../../DOM.rst:263 ../../DOM.rst:379
-#, fuzzy
 msgid ""
 "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as "
 "you cast this spell.)"
@@ -721,7 +678,6 @@ msgstr ""
 "czar został podbity, dobierz kartę."
 
 #: ../../DOM.rst:272
-#, fuzzy
 msgid "Cloudreader Sphinx"
 msgstr "Cloudreader Sphinx"
 
@@ -736,7 +692,6 @@ msgstr ""
 "biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 #: ../../DOM.rst:276
-#, fuzzy
 msgid "Cold-Water Snapper"
 msgstr "Cold-Water Snapper"
 
@@ -749,7 +704,6 @@ msgstr ""
 "władane przez twoich przeciwników.)"
 
 #: ../../DOM.rst:284
-#, fuzzy
 msgid "Curator's Ward"
 msgstr "Curator's Ward"
 
@@ -806,7 +760,6 @@ msgid "Draw two cards."
 msgstr "Dobierz dwie karty."
 
 #: ../../DOM.rst:302
-#, fuzzy
 msgid "Homarid Explorer"
 msgstr "Homarid Explorer"
 
@@ -831,7 +784,6 @@ msgid "Enchanted permanent is legendary."
 msgstr "Zauroczony permanent jest legendarny."
 
 #: ../../DOM.rst:316
-#, fuzzy
 msgid "Karn's Temporal Sundering"
 msgstr "Karn's Temporal Sundering"
 
@@ -858,7 +810,6 @@ msgstr ""
 "końca tury."
 
 #: ../../DOM.rst:332
-#, fuzzy
 msgid "The Mirari Conjecture"
 msgstr "The Mirari Conjecture"
 
@@ -881,7 +832,6 @@ msgstr ""
 "Możesz wskazać nowe cele dla kopii."
 
 #: ../../DOM.rst:336
-#, fuzzy
 msgid "Naban, Dean of Iteration"
 msgstr "Naban, Dean of Iteration"
 
@@ -896,7 +846,6 @@ msgstr ""
 "wyzwalana dodatkowy raz."
 
 #: ../../DOM.rst:344
-#, fuzzy
 msgid "Naru Meha, Master Wizard"
 msgstr "Naru Meha, Master Wizard"
 
@@ -913,7 +862,6 @@ msgid "Other Wizards you control get +1/+1."
 msgstr "Inni Czarodzieje pod twoim władaniem dostają +1/+1."
 
 #: ../../DOM.rst:350
-#, fuzzy
 msgid "Opt"
 msgstr "Opt"
 
@@ -926,7 +874,6 @@ msgstr ""
 "kartę na spodzie twojej biblioteki.)"
 
 #: ../../DOM.rst:358
-#, fuzzy
 msgid "Precognition Field"
 msgstr "Precognition Field"
 
@@ -949,7 +896,6 @@ msgid "|mana_3|: Exile the top card of your library."
 msgstr "|mana_3|: Wygnaj wierzchnią kartę twojej biblioteki."
 
 #: ../../DOM.rst:362
-#, fuzzy
 msgid "Relic Runner"
 msgstr "Relic Runner"
 
@@ -971,7 +917,6 @@ msgstr ""
 "Przywróć wskazany permanent pod twoim władaniem do ręki jego właściciela."
 
 #: ../../DOM.rst:370
-#, fuzzy
 msgid "Sage of Lat-Nam"
 msgstr "Sage of Lat-Nam"
 
@@ -980,7 +925,6 @@ msgid "|tap|, Sacrifice an artifact: Draw a card."
 msgstr "|tap|, poświęć artefakt: Dobierz kartę."
 
 #: ../../DOM.rst:376
-#, fuzzy
 msgid "Sentinel of the Pearl Trident"
 msgstr "Sentinel of the Pearl Trident"
 
@@ -997,7 +941,6 @@ msgstr ""
 "końcowego. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:382
-#, fuzzy
 msgid "Slinn Voda, the Rising Deep"
 msgstr "Slinn Voda, the Rising Deep"
 
@@ -1012,7 +955,6 @@ msgstr ""
 "Ośmiornic i Wężowników."
 
 #: ../../DOM.rst:386
-#, fuzzy
 msgid "Syncopate"
 msgstr "Syncopate"
 
@@ -1027,7 +969,6 @@ msgstr ""
 "cmentarzu jego właściciela."
 
 #: ../../DOM.rst:392
-#, fuzzy
 msgid "Tempest Djinn"
 msgstr "Tempest Djinn"
 
@@ -1036,7 +977,6 @@ msgid "Tempest Djinn gets +1/+0 for each basic Island you control."
 msgstr "Ten stwór dostaje +1/+0 za każdą bazową Wyspę pod twoim władaniem."
 
 #: ../../DOM.rst:396
-#, fuzzy
 msgid "Tetsuko Umezawa, Fugitive"
 msgstr "Tetsuko Umezawa, Fugitive"
 
@@ -1064,12 +1004,10 @@ msgid "III — Return all tapped creatures to their owners' hands."
 msgstr "III — Przywróć wszystkie zatapowane stwory do rąk ich właścicieli."
 
 #: ../../DOM.rst:406
-#, fuzzy
 msgid "Tolarian Scholar"
 msgstr "Tolarian Scholar"
 
 #: ../../DOM.rst:412
-#, fuzzy
 msgid "Unwind"
 msgstr "Unwind"
 
@@ -1079,7 +1017,6 @@ msgstr ""
 "Skontruj wskazany czar nie będący stworem. Odtapuj co najwyżej trzy lądy."
 
 #: ../../DOM.rst:416
-#, fuzzy
 msgid "Vodalian Arcanist"
 msgstr "Vodalian Arcanist"
 
@@ -1092,7 +1029,6 @@ msgstr ""
 "obrzędu."
 
 #: ../../DOM.rst:420
-#, fuzzy
 msgid "Weight of Memory"
 msgstr "Weight of Memory"
 
@@ -1105,7 +1041,6 @@ msgstr ""
 "biblioteki w swoim cmentarzu."
 
 #: ../../DOM.rst:426
-#, fuzzy
 msgid "Wizard's Retort"
 msgstr "Wizard's Retort"
 
@@ -1118,7 +1053,6 @@ msgid "Zahid, Djinn of the Lamp"
 msgstr "Zahid, Djinn of the Lamp (Zahid, Dżin z Lampy)"
 
 #: ../../DOM.rst:429
-#, fuzzy
 msgid ""
 "You may pay |mana_3|\\ |mana_u| and tap an untapped artifact you control "
 "rather than pay this spell's mana cost."
@@ -1127,7 +1061,6 @@ msgstr ""
 "twoim władaniem zamiast płacić koszt many tego czaru."
 
 #: ../../DOM.rst:436
-#, fuzzy
 msgid "Blessing of Belzenlok"
 msgstr "Blessing of Belzenlok"
 
@@ -1140,12 +1073,10 @@ msgstr ""
 "on także więź życia do końca tury."
 
 #: ../../DOM.rst:438
-#, fuzzy
 msgid "Cabal Evangel"
 msgstr "Cabal Evangel"
 
 #: ../../DOM.rst:444
-#, fuzzy
 msgid "Cabal Paladin"
 msgstr "Cabal Paladin"
 
@@ -1158,12 +1089,10 @@ msgstr ""
 "przeciwnikowi. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:450
-#, fuzzy
 msgid "Caligo Skin-Witch"
 msgstr "Caligo Skin-Witch"
 
 #: ../../DOM.rst:447
-#, fuzzy
 msgid ""
 "Kicker |mana_3|\\ |mana_b| (You may pay an additional |mana_3|\\ |mana_b| as "
 "you cast this spell.)"
@@ -1180,7 +1109,6 @@ msgstr ""
 "przeciwnik odrzuca dwie karty."
 
 #: ../../DOM.rst:454
-#, fuzzy
 msgid "Cast Down"
 msgstr "Cast Down"
 
@@ -1189,7 +1117,6 @@ msgid "Destroy target nonlegendary creature."
 msgstr "Zniszcz wskazanego nie-legendarnego stwora."
 
 #: ../../DOM.rst:462
-#, fuzzy
 msgid "Chainer's Torment"
 msgstr "Chainer's Torment"
 
@@ -1210,7 +1137,6 @@ msgstr ""
 "twojego życia, zaokrąglając wzwyż. Zadaje on tobie X obrażeń."
 
 #: ../../DOM.rst:466
-#, fuzzy
 msgid "Dark Bargain"
 msgstr "Dark Bargain"
 
@@ -1224,7 +1150,6 @@ msgstr ""
 "obrażenia."
 
 #: ../../DOM.rst:470
-#, fuzzy
 msgid "Deathbloom Thallid"
 msgstr "Deathbloom Thallid"
 
@@ -1234,7 +1159,6 @@ msgid ""
 msgstr "Kiedy ten stwór umrze, stwórz żeton zielonego stwora Saproling 1/1."
 
 #: ../../DOM.rst:478
-#, fuzzy
 msgid "Demonic Vigor"
 msgstr "Demonic Vigor"
 
@@ -1248,7 +1172,6 @@ msgstr ""
 "Kiedy zauroczony stwór umrze, przywróć ową kartę do ręki jej właściciela."
 
 #: ../../DOM.rst:484
-#, fuzzy
 msgid "Demonlord Belzenlok"
 msgstr "Demonlord Belzenlok"
 
@@ -1271,7 +1194,6 @@ msgstr ""
 "dołożoną do twojej ręki w ten sposób."
 
 #: ../../DOM.rst:488
-#, fuzzy
 msgid "Divest"
 msgstr "Divest"
 
@@ -1284,7 +1206,6 @@ msgstr ""
 "lądu. Ów gracz odrzuca ową kartę."
 
 #: ../../DOM.rst:492
-#, fuzzy
 msgid "Dread Shade"
 msgstr "Dread Shade"
 
@@ -1293,7 +1214,6 @@ msgid "|mana_b|: Dread Shade gets +1/+1 until end of turn."
 msgstr "|mana_b|: Ten stwór dostaje +1/+1 do końca tury."
 
 #: ../../DOM.rst:496
-#, fuzzy
 msgid "Drudge Sentinel"
 msgstr "Drudge Sentinel"
 
@@ -1306,7 +1226,6 @@ msgstr ""
 "(Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../DOM.rst:506
-#, fuzzy
 msgid "The Eldest Reborn"
 msgstr "The Eldest Reborn"
 
@@ -1327,7 +1246,6 @@ msgstr ""
 "polu walki pod twoim władaniem."
 
 #: ../../DOM.rst:510
-#, fuzzy
 msgid "Eviscerate"
 msgstr "Eviscerate"
 
@@ -1336,7 +1254,6 @@ msgid "Destroy target creature."
 msgstr "Zniszcz wskazanego stwora."
 
 #: ../../DOM.rst:514
-#, fuzzy
 msgid "Feral Abomination"
 msgstr "Feral Abomination"
 
@@ -1357,7 +1274,6 @@ msgstr ""
 "a drugą w twoim cmentarzu. Następnie przetasuj twoją bibliotekę."
 
 #: ../../DOM.rst:522
-#, fuzzy
 msgid "Fungal Infection"
 msgstr "Fungal Infection"
 
@@ -1370,12 +1286,10 @@ msgstr ""
 "Saproling 1/1."
 
 #: ../../DOM.rst:530
-#, fuzzy
 msgid "Josu Vess, Lich Knight"
 msgstr "Josu Vess, Lich Knight"
 
 #: ../../DOM.rst:525
-#, fuzzy
 msgid ""
 "Kicker |mana_5|\\ |mana_b| (You may pay an additional |mana_5|\\ |mana_b| as "
 "you cast this spell.)"
@@ -1396,7 +1310,6 @@ msgstr ""
 "żetonów czarnego stwora Rycerz Zombi 2/2 ze złowrogością."
 
 #: ../../DOM.rst:538
-#, fuzzy
 msgid "Kazarov, Sengir Pureblood"
 msgstr "Kazarov, Sengir Pureblood"
 
@@ -1409,12 +1322,10 @@ msgstr ""
 "+1/+1 na niniejszym stworze."
 
 #: ../../DOM.rst:537
-#, fuzzy
 msgid "|mana_3|\\ |mana_r|: Kazarov deals 2 damage to target creature."
 msgstr "|mana_3|\\ |mana_r|: Ten stwór zadaje 2 obrażenia wskazanemu stworowi."
 
 #: ../../DOM.rst:546
-#, fuzzy
 msgid "Knight of Malice"
 msgstr "Knight of Malice"
 
@@ -1433,7 +1344,6 @@ msgstr ""
 "Ten stwór dostaje +1/+0 o ile którykolwiek gracz włada białym permanentem."
 
 #: ../../DOM.rst:558
-#, fuzzy
 msgid "Lich's Mastery"
 msgstr "Lich's Mastery"
 
@@ -1462,7 +1372,6 @@ msgid "When Lich's Mastery leaves the battlefield, you lose the game."
 msgstr "Kiedy ten permanent opuści pole walki, przegrywasz grę."
 
 #: ../../DOM.rst:562
-#, fuzzy
 msgid "Lingering Phantom"
 msgstr "Lingering Phantom"
 
@@ -1477,7 +1386,6 @@ msgstr ""
 "legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:572
-#, fuzzy
 msgid "Phyrexian Scriptures"
 msgstr "Phyrexian Scriptures"
 
@@ -1510,7 +1418,6 @@ msgid "A deck can have any number of cards named Rat Colony."
 msgstr "Talia może zawierać dowolną liczbę kart o nazwie Rat Colony."
 
 #: ../../DOM.rst:586
-#, fuzzy
 msgid "Rite of Belzenlok"
 msgstr "Rite of Belzenlok"
 
@@ -1529,7 +1436,6 @@ msgstr ""
 "Jeśli nie możesz, ten stwór zadaje tobie 6 obrażeń.\""
 
 #: ../../DOM.rst:590
-#, fuzzy
 msgid "Settle the Score"
 msgstr "Settle the Score"
 
@@ -1542,7 +1448,6 @@ msgstr ""
 "twoim władaniem."
 
 #: ../../DOM.rst:594
-#, fuzzy
 msgid "Soul Salvage"
 msgstr "Soul Salvage"
 
@@ -1554,7 +1459,6 @@ msgstr ""
 "ręki."
 
 #: ../../DOM.rst:602
-#, fuzzy
 msgid "Stronghold Confessor"
 msgstr "Stronghold Confessor"
 
@@ -1593,7 +1497,6 @@ msgstr ""
 "Jeśli Saproling został poświęcony w ten sposób, zyskujesz 2 życia."
 
 #: ../../DOM.rst:610
-#, fuzzy
 msgid "Thallid Soothsayer"
 msgstr "Thallid Soothsayer"
 
@@ -1637,7 +1540,6 @@ msgstr ""
 "kartę. Jeśli ów gracz nie może, dobierz kartę."
 
 #: ../../DOM.rst:628
-#, fuzzy
 msgid "Vicious Offering"
 msgstr "Vicious Offering"
 
@@ -1658,7 +1560,6 @@ msgstr ""
 "zamiast tego ów stwór dostaje -5/-5 do końca tury."
 
 #: ../../DOM.rst:632
-#, fuzzy
 msgid "Whisper, Blood Liturgist"
 msgstr "Whisper, Blood Liturgist"
 
@@ -1671,7 +1572,6 @@ msgstr ""
 "cmentarza na pole walki."
 
 #: ../../DOM.rst:638
-#, fuzzy
 msgid "Windgrace Acolyte"
 msgstr "Windgrace Acolyte"
 
@@ -1684,12 +1584,10 @@ msgstr ""
 "biblioteki w twoim cmentarzu oraz zyskujesz 3 życia."
 
 #: ../../DOM.rst:640
-#, fuzzy
 msgid "Yargle, Glutton of Urborg"
 msgstr "Yargle, Glutton of Urborg"
 
 #: ../../DOM.rst:648
-#, fuzzy
 msgid "Yawgmoth's Vile Offering"
 msgstr "Yawgmoth's Vile Offering"
 
@@ -1704,7 +1602,6 @@ msgstr ""
 "wskazanego stwora lub wędrowca. Wygnaj niniejszą kartę."
 
 #: ../../DOM.rst:652
-#, fuzzy
 msgid "Bloodstone Goblin"
 msgstr "Bloodstone Goblin"
 
@@ -1719,7 +1616,6 @@ msgstr ""
 "najmniej dwa stwory.)"
 
 #: ../../DOM.rst:658
-#, fuzzy
 msgid "Champion of the Flame"
 msgstr "Champion of the Flame"
 
@@ -1734,7 +1630,6 @@ msgstr ""
 "Ten stwór dostaje +2/+2 za każdą dołączoną do niego Aurę lub Ekwipunek."
 
 #: ../../DOM.rst:662
-#, fuzzy
 msgid "Fervent Strike"
 msgstr "Fervent Strike"
 
@@ -1761,12 +1656,10 @@ msgid "Destroy target artifact."
 msgstr "Zniszcz wskazany artefakt."
 
 #: ../../DOM.rst:676
-#, fuzzy
 msgid "Fight with Fire"
 msgstr "Fight with Fire"
 
 #: ../../DOM.rst:673
-#, fuzzy
 msgid ""
 "Kicker |mana_5|\\ |mana_r| (You may pay an additional |mana_5|\\ |mana_r| as "
 "you cast this spell.)"
@@ -1790,7 +1683,6 @@ msgid "Fire Elemental"
 msgstr "Fire Elemental (Żywiołak Ognia)"
 
 #: ../../DOM.rst:684
-#, fuzzy
 msgid "Firefist Adept"
 msgstr "Firefist Adept"
 
@@ -1804,7 +1696,6 @@ msgstr ""
 "władaniem."
 
 #: ../../DOM.rst:694
-#, fuzzy
 msgid "The First Eruption"
 msgstr "The First Eruption"
 
@@ -1813,7 +1704,6 @@ msgid "I — The First Eruption deals 1 damage to each creature without flying."
 msgstr "I — Ten permanent zadaje po 1 obrażeniu każdemu stworowi bez latania."
 
 #: ../../DOM.rst:691
-#, fuzzy
 msgid "II — Add |mana_r|\\ |mana_r|."
 msgstr "II — Dostajesz |mana_r|\\ |mana_r|."
 
@@ -1826,7 +1716,6 @@ msgstr ""
 "po 3 obrażenia."
 
 #: ../../DOM.rst:704
-#, fuzzy
 msgid "The Flame of Keld"
 msgstr "The Flame of Keld"
 
@@ -1849,7 +1738,6 @@ msgstr ""
 "więcej."
 
 #: ../../DOM.rst:710
-#, fuzzy
 msgid "Frenzied Rage"
 msgstr "Frenzied Rage"
 
@@ -1862,12 +1750,10 @@ msgstr ""
 "chyba że przez co najmniej dwa stwory.)"
 
 #: ../../DOM.rst:716
-#, fuzzy
 msgid "Ghitu Chronicler"
 msgstr "Ghitu Chronicler"
 
 #: ../../DOM.rst:713 ../../DOM.rst:765
-#, fuzzy
 msgid ""
 "Kicker |mana_3|\\ |mana_r| (You may pay an additional |mana_3|\\ |mana_r| as "
 "you cast this spell.)"
@@ -1884,7 +1770,6 @@ msgstr ""
 "wskazaną kartę sztuczki lub obrzędu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:720
-#, fuzzy
 msgid "Ghitu Journeymage"
 msgstr "Ghitu Journeymage"
 
@@ -1897,7 +1782,6 @@ msgstr ""
 "karta zadaje każdemu przeciwnikowi 2 obrażenia."
 
 #: ../../DOM.rst:724
-#, fuzzy
 msgid "Ghitu Lavarunner"
 msgstr "Ghitu Lavarunner"
 
@@ -1910,7 +1794,6 @@ msgstr ""
 "ten stwór dostaje +1/+0 i ma pośpiech."
 
 #: ../../DOM.rst:730
-#, fuzzy
 msgid "Goblin Barrage"
 msgstr "Goblin Barrage"
 
@@ -1931,7 +1814,6 @@ msgstr ""
 "podbity, zadaje on także 4 obrażenia  wskazanemu graczowi lub wędrowcowi."
 
 #: ../../DOM.rst:736
-#, fuzzy
 msgid "Goblin Chainwhirler"
 msgstr "Goblin Chainwhirler"
 
@@ -1944,7 +1826,6 @@ msgstr ""
 "przeciwnikowi oraz każdemu stworowi i wędrowcowi pod ich władaniem."
 
 #: ../../DOM.rst:742
-#, fuzzy
 msgid "Goblin Warchief"
 msgstr "Goblin Warchief"
 
@@ -1957,7 +1838,6 @@ msgid "Goblins you control have haste."
 msgstr "Gobliny pod twoim władaniem mają pośpiech."
 
 #: ../../DOM.rst:748
-#, fuzzy
 msgid "Haphazard Bombardment"
 msgstr "Haphazard Bombardment"
 
@@ -1971,7 +1851,6 @@ msgstr ""
 "władaniem nie będące urokami i umieść na każdym z nich znacznik celowania."
 
 #: ../../DOM.rst:747
-#, fuzzy
 msgid ""
 "At the beginning of your end step, if two or more permanents you don't "
 "control have an aim counter on them, destroy one of those permanents at "
@@ -1982,12 +1861,10 @@ msgstr ""
 "permanentów."
 
 #: ../../DOM.rst:756
-#, fuzzy
 msgid "Jaya Ballard"
 msgstr "Jaya Ballard"
 
 #: ../../DOM.rst:751
-#, fuzzy
 msgid ""
 "+1: Add |mana_r|\\ |mana_r|\\ |mana_r|. Spend this mana only to cast instant "
 "or sorcery spells."
@@ -2010,7 +1887,6 @@ msgstr ""
 "umieszczona w twoim cmentarzu, zamiast tego wygnaj ją.\""
 
 #: ../../DOM.rst:762
-#, fuzzy
 msgid "Jaya's Immolating Inferno"
 msgstr "Jaya's Immolating Inferno"
 
@@ -2020,7 +1896,6 @@ msgid ""
 msgstr "Ten czar zadaje X obrażeń w każdy z co najwyżej trzech celów."
 
 #: ../../DOM.rst:770
-#, fuzzy
 msgid "Keldon Overseer"
 msgstr "Keldon Overseer"
 
@@ -2039,7 +1914,6 @@ msgstr ""
 "on pośpiech do końca tury."
 
 #: ../../DOM.rst:774
-#, fuzzy
 msgid "Keldon Raider"
 msgstr "Keldon Raider"
 
@@ -2052,7 +1926,6 @@ msgstr ""
 "zrobisz, dobierz kartę."
 
 #: ../../DOM.rst:778
-#, fuzzy
 msgid "Keldon Warcaller"
 msgstr "Keldon Warcaller"
 
@@ -2065,7 +1938,6 @@ msgstr ""
 "twoim władaniem."
 
 #: ../../DOM.rst:782
-#, fuzzy
 msgid "Orcish Vandal"
 msgstr "Orcish Vandal"
 
@@ -2075,7 +1947,6 @@ msgid ""
 msgstr "|tap|, poświęć artefakt: Ten stwór zadaje 2 obrażenia w dowolny cel."
 
 #: ../../DOM.rst:786
-#, fuzzy
 msgid "Radiating Lightning"
 msgstr "Radiating Lightning"
 
@@ -2088,7 +1959,6 @@ msgstr ""
 "stworowi pod władaniem owego gracza."
 
 #: ../../DOM.rst:790
-#, fuzzy
 msgid "Rampaging Cyclops"
 msgstr "Rampaging Cyclops"
 
@@ -2099,7 +1969,6 @@ msgid ""
 msgstr "Ten stwór dostaje -2/-0 o ile blokują go co najmniej dwa stwory."
 
 #: ../../DOM.rst:794
-#, fuzzy
 msgid "Run Amok"
 msgstr "Run Amok"
 
@@ -2109,7 +1978,6 @@ msgid ""
 msgstr "Wskazany atakujący stwór dostaje do końca tury +3/+3 oraz tratowanie."
 
 #: ../../DOM.rst:798
-#, fuzzy
 msgid "Seismic Shift"
 msgstr "Seismic Shift"
 
@@ -2120,7 +1988,6 @@ msgstr ""
 "tej turze."
 
 #: ../../DOM.rst:804
-#, fuzzy
 msgid "Shivan Fire"
 msgstr "Shivan Fire"
 
@@ -2145,7 +2012,6 @@ msgstr ""
 "Goblin 1/1."
 
 #: ../../DOM.rst:809
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage "
 "to any target."
@@ -2154,7 +2020,6 @@ msgstr ""
 "cel."
 
 #: ../../DOM.rst:814
-#, fuzzy
 msgid "Skirk Prospector"
 msgstr "Skirk Prospector"
 
@@ -2163,7 +2028,6 @@ msgid "Sacrifice a Goblin: Add |mana_r|."
 msgstr "Poświęć Goblina: Dostajesz |mana_r|."
 
 #: ../../DOM.rst:822
-#, fuzzy
 msgid "Skizzik"
 msgstr "Skizzik"
 
@@ -2207,7 +2071,6 @@ msgstr ""
 "orzeł, ten stwór zyskuje złowrogość do końca tury."
 
 #: ../../DOM.rst:834
-#, fuzzy
 msgid "Valduk, Keeper of the Flame"
 msgstr "Valduk, Keeper of the Flame"
 
@@ -2223,7 +2086,6 @@ msgstr ""
 "pośpiechem. Wygnaj owe żetony na początku najbliższego kroku końcowego."
 
 #: ../../DOM.rst:842
-#, fuzzy
 msgid "Verix Bladewing"
 msgstr "Verix Bladewing"
 
@@ -2236,7 +2098,6 @@ msgstr ""
 "legendarnego czerwonego stwora Smok 4/4 z lataniem o nazwie Karox Bladewing."
 
 #: ../../DOM.rst:848
-#, fuzzy
 msgid "Warcry Phoenix"
 msgstr "Warcry Phoenix"
 
@@ -2245,7 +2106,6 @@ msgid "Flying, haste"
 msgstr "Latanie, pośpiech"
 
 #: ../../DOM.rst:847
-#, fuzzy
 msgid ""
 "Whenever you attack with three or more creatures, you may pay |mana_2|\\ |"
 "mana_r|. If you do, return Warcry Phoenix from your graveyard to the "
@@ -2256,7 +2116,6 @@ msgstr ""
 "pole walki zatapowanego i atakującego."
 
 #: ../../DOM.rst:854
-#, fuzzy
 msgid "Warlord's Fury"
 msgstr "Warlord's Fury"
 
@@ -2265,7 +2124,6 @@ msgid "Creatures you control gain first strike until end of turn."
 msgstr "Stwory pod twoim władaniem zyskują pierwszy cios do końca tury."
 
 #: ../../DOM.rst:860
-#, fuzzy
 msgid "Wizard's Lightning"
 msgstr "Wizard's Lightning"
 
@@ -2279,7 +2137,6 @@ msgid "Wizard's Lightning deals 3 damage to any target."
 msgstr "Ten czar zadaje 3 obrażenia w dowolny cel."
 
 #: ../../DOM.rst:864
-#, fuzzy
 msgid "Adventurous Impulse"
 msgstr "Adventurous Impulse"
 
@@ -2294,12 +2151,10 @@ msgstr ""
 "twojej biblioteki w dowolnej kolejności."
 
 #: ../../DOM.rst:868
-#, fuzzy
 msgid "Ancient Animus"
 msgstr "Ancient Animus"
 
 #: ../../DOM.rst:867
-#, fuzzy
 msgid ""
 "Put a +1/+1 counter on target creature you control if it's legendary. Then "
 "it fights target creature an opponent controls. (Each deals damage equal to "
@@ -2310,7 +2165,6 @@ msgstr ""
 "przeciwnika."
 
 #: ../../DOM.rst:872
-#, fuzzy
 msgid "Arbor Armament"
 msgstr "Arbor Armament"
 
@@ -2323,7 +2177,6 @@ msgstr ""
 "tury."
 
 #: ../../DOM.rst:878
-#, fuzzy
 msgid "Baloth Gorger"
 msgstr "Baloth Gorger"
 
@@ -2348,7 +2201,6 @@ msgstr ""
 "na polu walki."
 
 #: ../../DOM.rst:886
-#, fuzzy
 msgid "Corrosive Ooze"
 msgstr "Corrosive Ooze"
 
@@ -2361,7 +2213,6 @@ msgstr ""
 "zniszcz na koniec walki  każdy Ekwipunek dołączony do owego stwora."
 
 #: ../../DOM.rst:892
-#, fuzzy
 msgid "Elfhame Druid"
 msgstr "Elfhame Druid"
 
@@ -2370,7 +2221,6 @@ msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../DOM.rst:891
-#, fuzzy
 msgid ""
 "|tap|: Add |mana_g|\\ |mana_g|. Spend this mana only to cast kicked spells."
 msgstr ""
@@ -2378,12 +2228,10 @@ msgstr ""
 "podbitych czarów."
 
 #: ../../DOM.rst:898
-#, fuzzy
 msgid "Fungal Plots"
 msgstr "Fungal Plots"
 
 #: ../../DOM.rst:895
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_g|, Exile a creature card from your graveyard: Create a 1/1 "
 "green Saproling creature token."
@@ -2396,12 +2244,10 @@ msgid "Sacrifice two Saprolings: You gain 2 life and draw a card."
 msgstr "Poświęć dwa Saprolingi: Zyskujesz 2 życia i dobierasz kartę."
 
 #: ../../DOM.rst:906
-#, fuzzy
 msgid "Gaea's Blessing"
 msgstr "Gaea's Blessing"
 
 #: ../../DOM.rst:901
-#, fuzzy
 msgid ""
 "Target player shuffles up to three target cards from their graveyard into "
 "their library."
@@ -2418,7 +2264,6 @@ msgstr ""
 "cmentarz do twojej biblioteki."
 
 #: ../../DOM.rst:910
-#, fuzzy
 msgid "Gaea's Protector"
 msgstr "Gaea's Protector"
 
@@ -2427,7 +2272,6 @@ msgid "Gaea's Protector must be blocked if able."
 msgstr "Ten stwór musi być blokowany jeśli to możliwe."
 
 #: ../../DOM.rst:916
-#, fuzzy
 msgid "Gift of Growth"
 msgstr "Gift of Growth"
 
@@ -2447,7 +2291,6 @@ msgstr ""
 "został podbity, zamiast tego ów stwór dostaje +4/+4 do końca tury."
 
 #: ../../DOM.rst:922
-#, fuzzy
 msgid "Grow from the Ashes"
 msgstr "Grow from the Ashes"
 
@@ -2484,7 +2327,6 @@ msgstr ""
 "do końca tury."
 
 #: ../../DOM.rst:936
-#, fuzzy
 msgid "Kamahl's Druidic Vow"
 msgstr "Kamahl's Druidic Vow"
 
@@ -2499,12 +2341,10 @@ msgstr ""
 "skróconym koszcie many co najwyżej X. Umieść pozostałe w twoim cmentarzu."
 
 #: ../../DOM.rst:942
-#, fuzzy
 msgid "Krosan Druid"
 msgstr "Krosan Druid"
 
 #: ../../DOM.rst:939
-#, fuzzy
 msgid ""
 "Kicker |mana_4|\\ |mana_g| (You may pay an additional |mana_4|\\ |mana_g| as "
 "you cast this spell.)"
@@ -2524,17 +2364,14 @@ msgid "Llanowar Elves"
 msgstr "Llanowarskie Elfy"
 
 #: ../../DOM.rst:950
-#, fuzzy
 msgid "Llanowar Envoy"
 msgstr "Llanowar Envoy"
 
 #: ../../DOM.rst:949
-#, fuzzy
 msgid "|mana_1|\\ |mana_g|: Add one mana of any color."
 msgstr "|mana_1|\\ |mana_g|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../DOM.rst:954
-#, fuzzy
 msgid "Llanowar Scout"
 msgstr "Llanowar Scout"
 
@@ -2567,7 +2404,6 @@ msgid "|tap|: Add an amount of |mana_g| equal to Marwyn's power."
 msgstr "|tap|: Dostajesz tyle |mana_g|, ile wynosi siła tego stwora."
 
 #: ../../DOM.rst:972
-#, fuzzy
 msgid "The Mending of Dominaria"
 msgstr "The Mending of Dominaria"
 
@@ -2588,7 +2424,6 @@ msgstr ""
 "następnie wtasuj twój cmentarz do twojej biblioteki."
 
 #: ../../DOM.rst:980
-#, fuzzy
 msgid "Multani, Yavimaya's Avatar"
 msgstr "Multani, Yavimaya's Avatar"
 
@@ -2605,7 +2440,6 @@ msgstr ""
 "w twoim cmentarzu."
 
 #: ../../DOM.rst:979
-#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_g|, Return two lands you control to their owner's hand: "
 "Return Multani from your graveyard to your hand."
@@ -2614,7 +2448,6 @@ msgstr ""
 "właścicieli: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:984
-#, fuzzy
 msgid "Nature's Spiral"
 msgstr "Nature's Spiral"
 
@@ -2623,7 +2456,6 @@ msgid "Return target permanent card from your graveyard to your hand."
 msgstr "Przywróć wskazaną kartę permanentu z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:988
-#, fuzzy
 msgid "Pierce the Sky"
 msgstr "Pierce the Sky"
 
@@ -2636,7 +2468,6 @@ msgid "Primordial Wurm"
 msgstr "Primordial Wurm (Pierwotny Żmij)"
 
 #: ../../DOM.rst:998
-#, fuzzy
 msgid "Saproling Migration"
 msgstr "Saproling Migration"
 
@@ -2649,7 +2480,6 @@ msgstr ""
 "podbity, zamiast tego stwórz cztery takie żetony."
 
 #: ../../DOM.rst:1006
-#, fuzzy
 msgid "Song of Freyalise"
 msgstr "Song of Freyalise"
 
@@ -2670,7 +2500,6 @@ msgstr ""
 "stwory zyskują do końca tury czujność, tratowanie i niezniszczalność."
 
 #: ../../DOM.rst:1010
-#, fuzzy
 msgid "Spore Swarm"
 msgstr "Spore Swarm"
 
@@ -2679,7 +2508,6 @@ msgid "Create three 1/1 green Saproling creature tokens."
 msgstr "Stwórz trzy żetony zielonego stwora Saproling 1/1."
 
 #: ../../DOM.rst:1014
-#, fuzzy
 msgid "Sporecrown Thallid"
 msgstr "Sporecrown Thallid"
 
@@ -2691,7 +2519,6 @@ msgstr ""
 "+1/+1."
 
 #: ../../DOM.rst:1018
-#, fuzzy
 msgid "Steel Leaf Champion"
 msgstr "Steel Leaf Champion"
 
@@ -2700,7 +2527,6 @@ msgid "Steel Leaf Champion can't be blocked by creatures with power 2 or less."
 msgstr "Ten stwór nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../DOM.rst:1022
-#, fuzzy
 msgid "Sylvan Awakening"
 msgstr "Sylvan Awakening"
 
@@ -2714,12 +2540,10 @@ msgstr ""
 "są też lądami."
 
 #: ../../DOM.rst:1028
-#, fuzzy
 msgid "Territorial Allosaurus"
 msgstr "Territorial Allosaurus"
 
 #: ../../DOM.rst:1025
-#, fuzzy
 msgid ""
 "Kicker |mana_2|\\ |mana_g| (You may pay an additional |mana_2|\\ |mana_g| as "
 "you cast this spell.)"
@@ -2748,7 +2572,6 @@ msgstr ""
 "nie został zablokowany."
 
 #: ../../DOM.rst:1040
-#, fuzzy
 msgid "Untamed Kavu"
 msgstr "Untamed Kavu"
 
@@ -2765,7 +2588,6 @@ msgstr ""
 "+1/+1."
 
 #: ../../DOM.rst:1044
-#, fuzzy
 msgid "Verdant Force"
 msgstr "Verdant Force"
 
@@ -2777,7 +2599,6 @@ msgstr ""
 "Saproling 1/1."
 
 #: ../../DOM.rst:1050
-#, fuzzy
 msgid "Wild Onslaught"
 msgstr "Wild Onslaught"
 
@@ -2791,7 +2612,6 @@ msgstr ""
 "pod twoim władaniem."
 
 #: ../../DOM.rst:1054
-#, fuzzy
 msgid "Yavimaya Sapherd"
 msgstr "Yavimaya Sapherd"
 
@@ -2804,7 +2624,6 @@ msgstr ""
 "Saproling 1/1."
 
 #: ../../DOM.rst:1060
-#, fuzzy
 msgid "Adeliz, the Cinder Wind"
 msgstr "Adeliz, the Cinder Wind"
 
@@ -2829,12 +2648,10 @@ msgid "Other legendary creatures you control get +2/+2."
 msgstr "Inne legendarne stwory pod twoim władaniem dostają +2/+2."
 
 #: ../../DOM.rst:1074
-#, fuzzy
 msgid "Aryel, Knight of Windgrace"
 msgstr "Aryel, Knight of Windgrace"
 
 #: ../../DOM.rst:1071
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_w|, |tap|: Create a 2/2 white Knight creature token with "
 "vigilance."
@@ -2851,7 +2668,6 @@ msgstr ""
 "wskazanego stwora o sile X lub mniejszej."
 
 #: ../../DOM.rst:1082
-#, fuzzy
 msgid "Darigaaz Reincarnated"
 msgstr "Darigaaz Reincarnated"
 
@@ -2878,7 +2694,6 @@ msgstr ""
 "znaczników jajka, przywróć ją na pole walki."
 
 #: ../../DOM.rst:1090
-#, fuzzy
 msgid "Garna, the Bloodflame"
 msgstr "Garna, the Bloodflame"
 
@@ -2895,7 +2710,6 @@ msgid "Other creatures you control have haste."
 msgstr "Inne stwory pod twoim władaniem mają pośpiech."
 
 #: ../../DOM.rst:1096
-#, fuzzy
 msgid "Grand Warlord Radha"
 msgstr "Grand Warlord Radha"
 
@@ -2910,7 +2724,6 @@ msgstr ""
 "tracisz owej many podczas końców kroków i faz."
 
 #: ../../DOM.rst:1102
-#, fuzzy
 msgid "Hallar, the Firefletcher"
 msgstr "Hallar, the Firefletcher"
 
@@ -2925,7 +2738,6 @@ msgstr ""
 "liczbie umieszczonych na nim znaczników +1/+1."
 
 #: ../../DOM.rst:1106
-#, fuzzy
 msgid "Jhoira, Weatherlight Captain"
 msgstr "Jhoira, Weatherlight Captain"
 
@@ -2938,12 +2750,10 @@ msgstr ""
 "są historyczne.)"
 
 #: ../../DOM.rst:1112
-#, fuzzy
 msgid "Jodah, Archmage Eternal"
 msgstr "Jodah, Archmage Eternal"
 
 #: ../../DOM.rst:1111
-#, fuzzy
 msgid ""
 "You may pay |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| rather than "
 "pay the mana cost for spells that you cast."
@@ -2952,7 +2762,6 @@ msgstr ""
 "płacić koszt many rzucanych przez ciebie czarów."
 
 #: ../../DOM.rst:1116
-#, fuzzy
 msgid "Muldrotha, the Gravetide"
 msgstr "Muldrotha, the Gravetide"
 
@@ -2967,7 +2776,6 @@ msgstr ""
 "typów permanentu, wybierz jeden podczas zagrywania jej.)"
 
 #: ../../DOM.rst:1122
-#, fuzzy
 msgid "Oath of Teferi"
 msgstr "Oath of Teferi"
 
@@ -2990,7 +2798,6 @@ msgstr ""
 "dwukrotnie w każdej turze zamiast tylko raz."
 
 #: ../../DOM.rst:1128
-#, fuzzy
 msgid "Primevals' Glorious Rebirth"
 msgstr "Primevals' Glorious Rebirth"
 
@@ -3002,7 +2809,6 @@ msgstr ""
 "pole walki."
 
 #: ../../DOM.rst:1136
-#, fuzzy
 msgid "Raff Capashen, Ship's Mage"
 msgstr "Raff Capashen, Ship's Mage"
 
@@ -3015,7 +2821,6 @@ msgstr ""
 "i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1144
-#, fuzzy
 msgid "Rona, Disciple of Gix"
 msgstr "Rona, Disciple of Gix"
 
@@ -3037,7 +2842,6 @@ msgid "|mana_4|, |tap|: Exile the top card of your library."
 msgstr "|mana_4|, |tap|: Wygnaj wierzchnią kartę twojej biblioteki."
 
 #: ../../DOM.rst:1150
-#, fuzzy
 msgid "Shanna, Sisay's Legacy"
 msgstr "Shanna, Sisay's Legacy"
 
@@ -3054,7 +2858,6 @@ msgid "Shanna gets +1/+1 for each creature you control."
 msgstr "Ten stwór dostaje +1/+1 za każdego stwora pod twoim władaniem."
 
 #: ../../DOM.rst:1156
-#, fuzzy
 msgid "Slimefoot, the Stowaway"
 msgstr "Slimefoot, the Stowaway"
 
@@ -3071,7 +2874,6 @@ msgid "|mana_4|: Create a 1/1 green Saproling creature token."
 msgstr "|mana_4|: Stwórz żeton zielonego stwora Saproling 1/1."
 
 #: ../../DOM.rst:1160
-#, fuzzy
 msgid "Tatyova, Benthic Druid"
 msgstr "Tatyova, Benthic Druid"
 
@@ -3109,7 +2911,6 @@ msgstr ""
 "permanent spod władania przeciwnika.\""
 
 #: ../../DOM.rst:1174
-#, fuzzy
 msgid "Tiana, Ship's Caretaker"
 msgstr "Tiana, Ship's Caretaker"
 
@@ -3124,7 +2925,6 @@ msgstr ""
 "początku najbliższego kroku końcowego."
 
 #: ../../DOM.rst:1180
-#, fuzzy
 msgid "Aesthir Glider"
 msgstr "Aesthir Glider"
 
@@ -3133,7 +2933,6 @@ msgid "Aesthir Glider can't block."
 msgstr "Ten stwór nie może blokować."
 
 #: ../../DOM.rst:1186
-#, fuzzy
 msgid "Amaranthine Wall"
 msgstr "Amaranthine Wall"
 
@@ -3150,7 +2949,6 @@ msgstr ""
 "efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../DOM.rst:1194
-#, fuzzy
 msgid "Blackblade Reforged"
 msgstr "Blackblade Reforged"
 
@@ -3167,7 +2965,6 @@ msgid "Equip |mana_7|"
 msgstr "Wyposaż |mana_7|"
 
 #: ../../DOM.rst:1198
-#, fuzzy
 msgid "Bloodtallow Candle"
 msgstr "Bloodtallow Candle"
 
@@ -3180,7 +2977,6 @@ msgstr ""
 "tury."
 
 #: ../../DOM.rst:1204
-#, fuzzy
 msgid "Damping Sphere"
 msgstr "Damping Sphere"
 
@@ -3201,7 +2997,6 @@ msgstr ""
 "każdy inny czar rzucony przez owego gracza w tej turze."
 
 #: ../../DOM.rst:1212
-#, fuzzy
 msgid "Forebear's Blade"
 msgstr "Forebear's Blade"
 
@@ -3230,7 +3025,6 @@ msgid "|tap|: Add three mana of any one color."
 msgstr "|tap|: Dostajesz trzy many w dowolnym jednym kolorze."
 
 #: ../../DOM.rst:1220
-#, fuzzy
 msgid "Guardians of Koilos"
 msgstr "Guardians of Koilos"
 
@@ -3245,7 +3039,6 @@ msgstr ""
 "(Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1226
-#, fuzzy
 msgid "Helm of the Host"
 msgstr "Helm of the Host"
 
@@ -3272,7 +3065,6 @@ msgid "Whenever Howling Golem attacks or blocks, each player draws a card."
 msgstr "Ilekroć ten stwór atakuje lub blokuje, każdy gracz dobiera kartę."
 
 #: ../../DOM.rst:1234
-#, fuzzy
 msgid "Icy Manipulator"
 msgstr "Icy Manipulator"
 
@@ -3293,7 +3085,6 @@ msgstr ""
 "(Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1248
-#, fuzzy
 msgid "Jousting Lance"
 msgstr "Jousting Lance"
 
@@ -3326,7 +3117,6 @@ msgid "Juggernaut can't be blocked by Walls."
 msgstr "Ten stwór nie może być blokowany przez Ściany."
 
 #: ../../DOM.rst:1258
-#, fuzzy
 msgid "Mishra's Self-Replicator"
 msgstr "Mishra's Self-Replicator"
 
@@ -3341,7 +3131,6 @@ msgstr ""
 "są historyczne.)"
 
 #: ../../DOM.rst:1262
-#, fuzzy
 msgid "Mox Amber"
 msgstr "Mox Amber"
 
@@ -3370,12 +3159,10 @@ msgstr ""
 "lądem wybranego przez ciebie typu oprócz swoich pozostałych typów."
 
 #: ../../DOM.rst:1272
-#, fuzzy
 msgid "Pardic Wanderer"
 msgstr "Pardic Wanderer"
 
 #: ../../DOM.rst:1276
-#, fuzzy
 msgid "Powerstone Shard"
 msgstr "Powerstone Shard"
 
@@ -3387,7 +3174,6 @@ msgstr ""
 "Powerstone Shard."
 
 #: ../../DOM.rst:1282
-#, fuzzy
 msgid "Shield of the Realm"
 msgstr "Shield of the Realm"
 
@@ -3419,7 +3205,6 @@ msgstr ""
 "Wyposażaj wyłącznie jako obrzęd.)"
 
 #: ../../DOM.rst:1292
-#, fuzzy
 msgid "Skittering Surveyor"
 msgstr "Skittering Surveyor"
 
@@ -3448,7 +3233,6 @@ msgstr ""
 "zamiast tego zadaje on 2 obrażenia owemu graczowi lub wędrowcowi.\""
 
 #: ../../DOM.rst:1302
-#, fuzzy
 msgid "Sparring Construct"
 msgstr "Sparring Construct"
 
@@ -3461,7 +3245,6 @@ msgstr ""
 "władaniem."
 
 #: ../../DOM.rst:1306
-#, fuzzy
 msgid "Thran Temporal Gateway"
 msgstr "Thran Temporal Gateway"
 
@@ -3474,7 +3257,6 @@ msgstr ""
 "ręki na polu walki. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1314
-#, fuzzy
 msgid "Traxos, Scourge of Kroog"
 msgstr "Traxos, Scourge of Kroog"
 
@@ -3495,7 +3277,6 @@ msgstr ""
 "Sagi są historyczne.)"
 
 #: ../../DOM.rst:1318
-#, fuzzy
 msgid "Urza's Tome"
 msgstr "Urza's Tome"
 
@@ -3510,7 +3291,6 @@ msgstr ""
 "historyczne.)"
 
 #: ../../DOM.rst:1322
-#, fuzzy
 msgid "Voltaic Servant"
 msgstr "Voltaic Servant"
 
@@ -3519,7 +3299,6 @@ msgid "At the beginning of your end step, untap target artifact."
 msgstr "Na początku twojego kroku końcowego, odtapuj wskazany artefakt."
 
 #: ../../DOM.rst:1330
-#, fuzzy
 msgid "Weatherlight"
 msgstr "Weatherlight"
 
@@ -3540,7 +3319,6 @@ msgid "Crew 3"
 msgstr "Załoga 3"
 
 #: ../../DOM.rst:1336
-#, fuzzy
 msgid "Cabal Stronghold"
 msgstr "Cabal Stronghold"
 
@@ -3555,7 +3333,6 @@ msgstr ""
 "władaniem."
 
 #: ../../DOM.rst:1342
-#, fuzzy
 msgid "Clifftop Retreat"
 msgstr "Clifftop Retreat"
 
@@ -3571,7 +3348,6 @@ msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../DOM.rst:1348
-#, fuzzy
 msgid "Hinterland Harbor"
 msgstr "Hinterland Harbor"
 
@@ -3587,7 +3363,6 @@ msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../DOM.rst:1354
-#, fuzzy
 msgid "Isolated Chapel"
 msgstr "Isolated Chapel"
 
@@ -3616,7 +3391,6 @@ msgid "|tap|: Add |mana_b|."
 msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../DOM.rst:1361
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_b|, |tap|, Sacrifice Memorial to Folly: Return target "
 "creature card from your graveyard to your hand."
@@ -3637,7 +3411,6 @@ msgid "|tap|: Add |mana_u|."
 msgstr "|tap|: Dostajesz |mana_u|."
 
 #: ../../DOM.rst:1369
-#, fuzzy
 msgid ""
 "|mana_4|\\ |mana_u|, |tap|, Sacrifice Memorial to Genius: Draw two cards."
 msgstr "|mana_4|\\ |mana_u|, |tap|, poświęć ten permanent: Dobierz dwie karty."
@@ -3655,7 +3428,6 @@ msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Dostajesz |mana_w|."
 
 #: ../../DOM.rst:1377
-#, fuzzy
 msgid ""
 "|mana_3|\\ |mana_w|, |tap|, Sacrifice Memorial to Glory: Create two 1/1 "
 "white Soldier creature tokens."
@@ -3672,7 +3444,6 @@ msgid "Memorial to Unity enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../DOM.rst:1385
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_g|, |tap|, Sacrifice Memorial to Unity: Look at the top "
 "five cards of your library. You may reveal a creature card from among them "
@@ -3697,7 +3468,6 @@ msgid "|tap|: Add |mana_r|."
 msgstr "|tap|: Dostajesz |mana_r|."
 
 #: ../../DOM.rst:1393
-#, fuzzy
 msgid ""
 "|mana_4|\\ |mana_r|, |tap|, Sacrifice Memorial to War: Destroy target land."
 msgstr ""
@@ -3734,7 +3504,6 @@ msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../DOM.rst:1412
-#, fuzzy
 msgid "Zhalfirin Void"
 msgstr "Zhalfirin Void"
 
@@ -3767,7 +3536,6 @@ msgid "Forest"
 msgstr "Forest (Las)"
 
 #: ../../DOM.rst:1500
-#, fuzzy
 msgid "Teferi, Timebender"
 msgstr "Teferi, Timebender"
 
@@ -3784,7 +3552,6 @@ msgid "−9: Take an extra turn after this one."
 msgstr "–9: Weź dodatkową turę po obecnej."
 
 #: ../../DOM.rst:1504
-#, fuzzy
 msgid "Temporal Machinations"
 msgstr "Temporal Machinations"
 
@@ -3797,7 +3564,6 @@ msgstr ""
 "artefaktem, dobierz kartę."
 
 #: ../../DOM.rst:1508
-#, fuzzy
 msgid "Niambi, Faithful Healer"
 msgstr "Niambi, Faithful Healer"
 
@@ -3813,7 +3579,6 @@ msgstr ""
 "przetasuj ją."
 
 #: ../../DOM.rst:1512
-#, fuzzy
 msgid "Teferi's Sentinel"
 msgstr "Teferi's Sentinel"
 
@@ -3839,7 +3604,6 @@ msgid "Chandra, Bold Pyromancer"
 msgstr "Chandra, Bold Pyromancer (Chandra, Zuchwała Piromantka)"
 
 #: ../../DOM.rst:1521
-#, fuzzy
 msgid ""
 "+1: Add |mana_r|\\ |mana_r|. Chandra, Bold Pyromancer deals 2 damage to "
 "target player."
@@ -3863,7 +3627,6 @@ msgstr ""
 "stworowi i wędrowcowi pod jego władaniem."
 
 #: ../../DOM.rst:1532
-#, fuzzy
 msgid "Chandra's Outburst"
 msgstr "Chandra's Outburst"
 
@@ -3882,7 +3645,6 @@ msgstr ""
 "została przeszukana w ten sposób, przetasuj ją."
 
 #: ../../DOM.rst:1536
-#, fuzzy
 msgid "Karplusan Hound"
 msgstr "Karplusan Hound"
 
@@ -3895,7 +3657,6 @@ msgstr ""
 "zadaje 2 obrażenia w dowolny cel."
 
 #: ../../DOM.rst:1540
-#, fuzzy
 msgid "Pyromantic Pilgrim"
 msgstr "Pyromantic Pilgrim"
 
@@ -3908,7 +3669,6 @@ msgstr ""
 "władanie.)"
 
 #: ../../DOM.rst:1546
-#, fuzzy
 msgid "Timber Gorge"
 msgstr "Timber Gorge"
 
@@ -3921,7 +3681,6 @@ msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../DOM.rst:1551
-#, fuzzy
 msgid "Firesong and Sunspeaker"
 msgstr "Firesong and Sunspeaker"
 
