@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 16:01+0000\n"
+"PO-Revision-Date: 2019-01-06 22:07+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -36,7 +36,7 @@ msgid ""
 "attacking creature with lesser power.)"
 msgstr ""
 "Mentor (Ilekroć ten stwór atakuje, umieść znacznik +1/+1 na wskazanym "
-"atakującym stwórze o mniejszej sile.)"
+"atakującym stworze o mniejszej sile.)"
 
 #: ../../GRN.rst:16
 msgid "Bounty Agent"
@@ -1806,7 +1806,7 @@ msgstr "Artful Takedown"
 
 #: ../../GRN.rst:805
 msgid "Tap target creature."
-msgstr "Zatapuj wskazanego stwora."
+msgstr "Zaznacz wskazanego stwora."
 
 #: ../../GRN.rst:807
 msgid "Target creature gets -2/-4 until end of turn."
@@ -3088,6 +3088,9 @@ msgid ""
 "menace. (A creature with menace can't be blocked except by two or more "
 "creatures.)"
 msgstr ""
+"Wyposażony stwór dostaje +1/+0 za każdą Bramę pod twoim władaniem oraz ma "
+"czujność i złowrogość. (Złowrogi stwór nie może być blokowany, chyba że "
+"przez co najmniej dwa stwory.)"
 
 #: ../../GRN.rst:1313
 msgid ""
