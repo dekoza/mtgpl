@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-01 01:24+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -1019,7 +1019,7 @@ msgid ""
 "Cycling |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, Discard this card: Draw a "
 "card.)"
 msgstr ""
-"Recykling |mana_2| |mana_w| (|mana_2| |mana_w|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 #: ../../C14.rst:421
@@ -1111,7 +1111,7 @@ msgid ""
 "Multikicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |"
 "mana_w| any number of times as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1| |mana_u| (Możesz zapłacić dodatkowo |mana_1| |mana_u| "
+"Podbicie |mana_1|\\ |mana_u| (Możesz zapłacić dodatkowo |mana_1|\\ |mana_u| "
 "podczas rzucania tego czaru.)"
 
 #: ../../C14.rst:459
@@ -1374,10 +1374,14 @@ msgid "Brine Elemental"
 msgstr ""
 
 #: ../../C14.rst:573
+#, fuzzy
 msgid ""
 "Morph |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card face down as a "
 "2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_5|\\ |mana_u|\\ |mana_u| (Możesz rzucić tę kartę za |mana_3| "
+"frontem w dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie "
+"za jej koszt przemiany.)"
 
 #: ../../C14.rst:575
 msgid ""
@@ -1395,10 +1399,13 @@ msgstr ""
 "Stwórz żeton stwora będącego kopią wskazanego stwora pod twoim władaniem."
 
 #: ../../C14.rst:581
+#, fuzzy
 msgid ""
 "Flashback |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 #: ../../C14.rst:586
 msgid "Call to Mind"
@@ -1442,9 +1449,9 @@ msgid ""
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
-"Przeciążenie |mana_6| |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
-"\"wskazany\" na \"każdy.\")"
+"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \""
+"wskazany\" na \"każdy.\")"
 
 #: ../../C14.rst:608
 msgid "Deep-Sea Kraken"
@@ -1595,7 +1602,7 @@ msgid ""
 "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1| |mana_u| (Możesz zapłacić dodatkowo |mana_1| |mana_u| "
+"Podbicie |mana_1|\\ |mana_u| (Możesz zapłacić dodatkowo |mana_1|\\ |mana_u| "
 "podczas rzucania tego czaru.)"
 
 #: ../../C14.rst:669
@@ -1647,9 +1654,9 @@ msgid ""
 "Evoke |mana_2|\\ |mana_u| (You may cast this spell for its evoke cost. If "
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
-"Przeciążenie |mana_6| |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
-"\"wskazany\" na \"każdy.\")"
+"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \""
+"wskazany\" na \"każdy.\")"
 
 #: ../../C14.rst:694
 msgid "Phyrexian Ingester"
@@ -1734,10 +1741,14 @@ msgid "Shaper Parasite"
 msgstr ""
 
 #: ../../C14.rst:721
+#, fuzzy
 msgid ""
 "Morph |mana_2|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_2|\\ |mana_u| (Możesz rzucić tę kartę za |mana_3| frontem w "
+"dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie za jej "
+"koszt przemiany.)"
 
 #: ../../C14.rst:723
 msgid ""
@@ -2161,9 +2172,9 @@ msgid ""
 "Evoke |mana_1|\\ |mana_b| (You may cast this spell for its evoke cost. If "
 "you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
-"Przeciążenie |mana_6| |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
-"\"wskazany\" na \"każdy.\")"
+"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \""
+"wskazany\" na \"każdy.\")"
 
 #: ../../C14.rst:924
 msgid "Sign in Blood"
@@ -2324,10 +2335,13 @@ msgid "Draw two cards, then discard two cards."
 msgstr ""
 
 #: ../../C14.rst:997
+#, fuzzy
 msgid ""
 "Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 #: ../../C14.rst:1002
 msgid "Flametongue Kavu"
@@ -2401,9 +2415,9 @@ msgid ""
 "Evoke |mana_1|\\ |mana_r|\\ |mana_r| (You may cast this spell for its evoke "
 "cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
-"Przeciążenie |mana_6| |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
-"\"wskazany\" na \"każdy.\")"
+"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \""
+"wskazany\" na \"każdy.\")"
 
 #: ../../C14.rst:1034
 msgid "Starstorm"
@@ -2609,7 +2623,7 @@ msgid ""
 "Reinforce 3—|mana_3|\\ |mana_g| (|mana_3|\\ |mana_g|, Discard this card: Put "
 "three +1/+1 counters on target creature.)"
 msgstr ""
-"Recykling |mana_2| |mana_w| (|mana_2| |mana_w|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 #: ../../C14.rst:1126
@@ -2638,7 +2652,7 @@ msgid ""
 "Multikicker |mana_1|\\ |mana_g| (You may pay an additional |mana_1|\\ |"
 "mana_g| any number of times as you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1| |mana_u| (Możesz zapłacić dodatkowo |mana_1| |mana_u| "
+"Podbicie |mana_1|\\ |mana_u| (Możesz zapłacić dodatkowo |mana_1|\\ |mana_u| "
 "podczas rzucania tego czaru.)"
 
 #: ../../C14.rst:1137
