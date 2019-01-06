@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2019-01-06 20:52+0000\n"
+"PO-Revision-Date: 2019-01-06 22:07+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -850,7 +850,7 @@ msgstr "Cremate (Kremacja)"
 
 #: ../../RTR.rst:476
 msgid "Exile target card from a graveyard."
-msgstr "Wypędź wskazaną kartę z cmentarza."
+msgstr "Wygnaj wskazaną kartę z dowolnego cmentarza."
 
 #: ../../RTR.rst:488
 #, fuzzy
@@ -3332,17 +3332,15 @@ msgstr "Azorius Guildgate (Brama Gildii Azorius)"
 
 #: ../../RTR.rst:1966
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr "Brama Gildii Azorius wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki jako zaznaczona."
 
 #: ../../RTR.rst:1978
-#, fuzzy
 msgid "Blood Crypt"
-msgstr "Blood Crypt"
+msgstr "Blood Crypt (Krwawa krypta)"
 
 #: ../../RTR.rst:1975
-#, fuzzy
 msgid "(|tap|: Add |mana_b| or |mana_r|.)"
-msgstr "(|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many.)"
+msgstr "(|tap|: Dostajesz |mana_b| lub |mana_r|.)"
 
 #: ../../RTR.rst:1977
 msgid ""
@@ -3383,12 +3381,11 @@ msgstr ""
 
 #: ../../RTR.rst:2005
 msgid "Hallowed Fountain"
-msgstr "Hallowed Fountain (Uświęcona Fontanna)"
+msgstr "Hallowed Fountain (Uświęcona fontanna)"
 
 #: ../../RTR.rst:2002
-#, fuzzy
 msgid "(|tap|: Add |mana_w| or |mana_u|.)"
-msgstr "(|tap|: Dodaj |mana_w| lub |mana_u| do twojej puli many.)"
+msgstr "(|tap|: Dostajesz |mana_w| lub |mana_u|.)"
 
 #: ../../RTR.rst:2004
 msgid ""
@@ -3428,7 +3425,7 @@ msgstr "Rakdos Guildgate (Brama Gildii Rakdos)"
 
 #: ../../RTR.rst:2029
 msgid "Rakdos Guildgate enters the battlefield tapped."
-msgstr "Rakdos Guildgate wchodzi na pole walki zatapowany."
+msgstr "Ta karta wchodzi na pole walki zaznaczona."
 
 #: ../../RTR.rst:2041
 #, fuzzy
