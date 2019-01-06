@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2019-01-01 01:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/nph/pl/>\n"
@@ -241,9 +241,8 @@ msgstr "Zaurocz stwora"
 msgid "Enchanted creature can't attack."
 msgstr ""
 
-# 527d350cf91142559e0cd4af45241971
 #: ../../NPH.rst:79
-msgid "|mana_2| |mana_w|: Return Forced Worship to its owner's hand."
+msgid "|mana_2|\\ |mana_w|: Return Forced Worship to its owner's hand."
 msgstr ""
 
 # df50645cc0364b2fb1db3da93cb2d647
@@ -761,11 +760,10 @@ msgstr ""
 msgid "Viral Drake"
 msgstr ""
 
-# 1e233d57117b41c8b1085aa8ca6200ac
 #: ../../NPH.rst:307
 msgid ""
-"|mana_3| |mana_u|: Proliferate. (You choose any number of permanents and/or "
-"players with counters on them, then give each another counter of a kind "
+"|mana_3|\\ |mana_u|: Proliferate. (You choose any number of permanents and/"
+"or players with counters on them, then give each another counter of a kind "
 "already there.)"
 msgstr ""
 
@@ -857,10 +855,10 @@ msgstr "Latanie, więź życia"
 msgid "Dementia Bat"
 msgstr ""
 
-# 189f3aec9f4f434abb7139aad0384182
 #: ../../NPH.rst:341
 msgid ""
-"|mana_4| |mana_b|, Sacrifice Dementia Bat: Target player discards two cards."
+"|mana_4|\\ |mana_b|, Sacrifice Dementia Bat: Target player discards two "
+"cards."
 msgstr ""
 
 # 9070f4f5740d4a8e91a4ed90bee23d95
@@ -1255,7 +1253,7 @@ msgstr ""
 
 #: ../../NPH.rst:505
 msgid ""
-"|mana_1| |mana_r|, |tap|: Fallen Ferromancer deals 1 damage to any target."
+"|mana_1|\\ |mana_r|, |tap|: Fallen Ferromancer deals 1 damage to any target."
 msgstr ""
 
 # 5332fb6eff874d87ae0ade24b9a1889a
@@ -1282,8 +1280,8 @@ msgstr ""
 
 #: ../../NPH.rst:517
 msgid ""
-"Add |mana_r| |mana_r| |mana_r| |mana_r| |mana_r| |mana_r| |mana_r|. Spend "
-"this mana only to cast artifact or creature spells."
+"Add |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|\\ |"
+"mana_r|. Spend this mana only to cast artifact or creature spells."
 msgstr ""
 
 # 5c7cb6d4e3fd4e3bb589665d2418b76f
@@ -1340,7 +1338,7 @@ msgstr ""
 
 #: ../../NPH.rst:547
 msgid ""
-"When Priest of Urabrask enters the battlefield, add |mana_r| |mana_r| |"
+"When Priest of Urabrask enters the battlefield, add |mana_r|\\ |mana_r|\\ |"
 "mana_r|."
 msgstr ""
 
@@ -1508,10 +1506,9 @@ msgstr ""
 msgid "(|mana_gp| can be paid with either |mana_g| or 2 life.)"
 msgstr ""
 
-# a972a3d23ff44ffba88416720c831c08
 #: ../../NPH.rst:619
 msgid ""
-"|mana_1| |mana_gp|, |tap|, Sacrifice a creature: Search your library for a "
+"|mana_1|\\ |mana_gp|, |tap|, Sacrifice a creature: Search your library for a "
 "creature card with converted mana cost equal to 1 plus the sacrificed "
 "creature's converted mana cost, put that card onto the battlefield, then "
 "shuffle your library. Activate this ability only any time you could cast a "
@@ -1569,11 +1566,12 @@ msgid "Death-Hood Cobra"
 msgstr ""
 
 #: ../../NPH.rst:643
-msgid "|mana_1| |mana_g|: Death-Hood Cobra gains reach until end of turn."
+msgid "|mana_1|\\ |mana_g|: Death-Hood Cobra gains reach until end of turn."
 msgstr ""
 
 #: ../../NPH.rst:645
-msgid "|mana_1| |mana_g|: Death-Hood Cobra gains deathtouch until end of turn."
+msgid ""
+"|mana_1|\\ |mana_g|: Death-Hood Cobra gains deathtouch until end of turn."
 msgstr ""
 
 # eafbe12da6ee41ce80f489f32918a994
@@ -1927,11 +1925,10 @@ msgid ""
 "Etched Monstrosity enters the battlefield with five -1/-1 counters on it."
 msgstr ""
 
-# 40d0c5994cf44de3b2f26b8f7a1f9827
 #: ../../NPH.rst:793
 msgid ""
-"|mana_w| |mana_u| |mana_b| |mana_r| |mana_g|, Remove five -1/-1 counters "
-"from Etched Monstrosity: Target player draws three cards."
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|, Remove five -1/-1 "
+"counters from Etched Monstrosity: Target player draws three cards."
 msgstr ""
 
 # 7d2fcd7a4c4f4c888824a85827e5fc02
@@ -1957,11 +1954,10 @@ msgstr ""
 msgid "Hex Parasite"
 msgstr ""
 
-# 0db8a5d79ac54116a09735cf76f2dddd
 #: ../../NPH.rst:803
 msgid ""
-"|mana_x| |mana_bp|: Remove up to X counters from target permanent. For each "
-"counter removed this way, Hex Parasite gets +1/+0 until end of turn. (|"
+"|mana_x|\\ |mana_bp|: Remove up to X counters from target permanent. For "
+"each counter removed this way, Hex Parasite gets +1/+0 until end of turn. (|"
 "mana_bp| can be paid with either |mana_b| or 2 life.)"
 msgstr ""
 
@@ -2030,10 +2026,9 @@ msgstr ""
 msgid "Equipped creature gets +1/+1 for each Swamp you control."
 msgstr ""
 
-# bf507c4b3c9d408dae072c852ae8f501
 #: ../../NPH.rst:831
 msgid ""
-"Equip |mana_bp| |mana_bp| (|mana_bp| can be paid with either |mana_b| or 2 "
+"Equip |mana_bp|\\ |mana_bp| (|mana_bp| can be paid with either |mana_b| or 2 "
 "life.)"
 msgstr ""
 
