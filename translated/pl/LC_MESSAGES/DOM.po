@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2018-12-31 16:27+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
@@ -265,7 +265,7 @@ msgid ""
 "Kicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |mana_w| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1| |mana_w| (Możesz zapłacić dodatkowo |mana_1| |mana_w| "
+"Podbicie |mana_1|\\ |mana_w| (Możesz zapłacić dodatkowo |mana_1|\\ |mana_w| "
 "podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:91
@@ -476,7 +476,7 @@ msgid ""
 "Kicker |mana_2|\\ |mana_w| (You may pay an additional |mana_2|\\ |mana_w| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2| |mana_w| (Możesz zapłacić dodatkowe |mana_2| |mana_w| "
+"Podbicie |mana_2|\\ |mana_w| (Możesz zapłacić dodatkowe |mana_2|\\ |mana_w| "
 "podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:177
@@ -532,7 +532,7 @@ msgid ""
 "|mana_4|\\ |mana_g|\\ |mana_g|: Put a +1/+1 counter on each creature you "
 "control."
 msgstr ""
-"|mana_4| |mana_g| |mana_g|: Umieść znacznik +1/+1 na każdym stworze pod "
+"|mana_4|\\ |mana_g|\\ |mana_g|: Umieść znacznik +1/+1 na każdym stworze pod "
 "twoim władaniem."
 
 #: ../../DOM.rst:202
@@ -709,7 +709,7 @@ msgid ""
 "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_1| |mana_u| (Możesz zapłacić dodatkowo |mana_1| |mana_u| "
+"Podbicie |mana_1|\\ |mana_u| (Możesz zapłacić dodatkowo |mana_1|\\ |mana_u| "
 "podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:265
@@ -1123,8 +1123,8 @@ msgid ""
 "You may pay |mana_3|\\ |mana_u| and tap an untapped artifact you control "
 "rather than pay this spell's mana cost."
 msgstr ""
-"Możesz zapłacić |mana_3| |mana_u| i zatapować odtapowany artefakt pod twoim "
-"władaniem zamiast płacić koszt many tego czaru."
+"Możesz zapłacić |mana_3|\\ |mana_u| i zatapować odtapowany artefakt pod "
+"twoim władaniem zamiast płacić koszt many tego czaru."
 
 #: ../../DOM.rst:436
 #, fuzzy
@@ -1168,7 +1168,7 @@ msgid ""
 "Kicker |mana_3|\\ |mana_b| (You may pay an additional |mana_3|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_3| |mana_b| (Możesz zapłacić dodatkowo |mana_3| |mana_b| "
+"Podbicie |mana_3|\\ |mana_b| (Możesz zapłacić dodatkowo |mana_3|\\ |mana_b| "
 "podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:449
@@ -1380,7 +1380,7 @@ msgid ""
 "Kicker |mana_5|\\ |mana_b| (You may pay an additional |mana_5|\\ |mana_b| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_5| |mana_b| (Możesz zapłacić dodatkowo |mana_5| |mana_b| "
+"Podbicie |mana_5|\\ |mana_b| (Możesz zapłacić dodatkowo |mana_5|\\ |mana_b| "
 "podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:527
@@ -1411,7 +1411,7 @@ msgstr ""
 #: ../../DOM.rst:537
 #, fuzzy
 msgid "|mana_3|\\ |mana_r|: Kazarov deals 2 damage to target creature."
-msgstr "|mana_3| |mana_r|: Ten stwór zadaje 2 obrażenia wskazanemu stworowi."
+msgstr "|mana_3|\\ |mana_r|: Ten stwór zadaje 2 obrażenia wskazanemu stworowi."
 
 #: ../../DOM.rst:546
 #, fuzzy
@@ -1771,7 +1771,7 @@ msgid ""
 "Kicker |mana_5|\\ |mana_r| (You may pay an additional |mana_5|\\ |mana_r| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_5| |mana_r| (Możesz zapłacić dodatkowo |mana_5| |mana_r| "
+"Podbicie |mana_5|\\ |mana_r| (Możesz zapłacić dodatkowo |mana_5|\\ |mana_r| "
 "podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:675
@@ -1815,7 +1815,7 @@ msgstr "I — Ten permanent zadaje po 1 obrażeniu każdemu stworowi bez latania
 #: ../../DOM.rst:691
 #, fuzzy
 msgid "II — Add |mana_r|\\ |mana_r|."
-msgstr "II — Dostajesz |mana_r| |mana_r|."
+msgstr "II — Dostajesz |mana_r|\\ |mana_r|."
 
 #: ../../DOM.rst:693
 msgid ""
@@ -1872,7 +1872,7 @@ msgid ""
 "Kicker |mana_3|\\ |mana_r| (You may pay an additional |mana_3|\\ |mana_r| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_3| |mana_r| (Możesz zapłacić dodatkowo |mana_3| |mana_r| "
+"Podbicie |mana_3|\\ |mana_r| (Możesz zapłacić dodatkowo |mana_3|\\ |mana_r| "
 "podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:715
@@ -1992,8 +1992,8 @@ msgid ""
 "+1: Add |mana_r|\\ |mana_r|\\ |mana_r|. Spend this mana only to cast instant "
 "or sorcery spells."
 msgstr ""
-"+1: Dostajesz |mana_r| |mana_r| |mana_r|. Wydaj tę mana tylko na rzucanie "
-"sztuczek lub obrzędów."
+"+1: Dostajesz |mana_r|\\ |mana_r|\\ |mana_r|. Wydaj tę mana tylko na "
+"rzucanie sztuczek lub obrzędów."
 
 #: ../../DOM.rst:753
 msgid "+1: Discard up to three cards, then draw that many cards."
@@ -2150,7 +2150,7 @@ msgid ""
 "|mana_1|\\ |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage "
 "to any target."
 msgstr ""
-"|mana_1| |mana_r|, poświęć Goblina: Ten stwór zadaje 2 obrażenia w dowolny "
+"|mana_1|\\ |mana_r|, poświęć Goblina: Ten stwór zadaje 2 obrażenia w dowolny "
 "cel."
 
 #: ../../DOM.rst:814
@@ -2251,9 +2251,9 @@ msgid ""
 "mana_r|. If you do, return Warcry Phoenix from your graveyard to the "
 "battlefield tapped and attacking."
 msgstr ""
-"Ilekroć atakujesz co najmniej trzema stworami, możesz zapłacić |mana_2| |"
-"mana_r|. Jeśli tak zrobisz, przywróć tego stwora z twojego cmentarza na pole "
-"walki zatapowanego i atakującego."
+"Ilekroć atakujesz co najmniej trzema stworami, możesz zapłacić |mana_2|\\ "
+"|mana_r|. Jeśli tak zrobisz, przywróć tego stwora z twojego cmentarza na "
+"pole walki zatapowanego i atakującego."
 
 #: ../../DOM.rst:854
 #, fuzzy
@@ -2374,7 +2374,7 @@ msgstr "|tap|: Dostajesz |mana_g|."
 msgid ""
 "|tap|: Add |mana_g|\\ |mana_g|. Spend this mana only to cast kicked spells."
 msgstr ""
-"|tap|: Dostajesz |mana_g| |mana_g|. Wydaj tę manę tylko do rzucania "
+"|tap|: Dostajesz |mana_g|\\ |mana_g|. Wydaj tę manę tylko do rzucania "
 "podbitych czarów."
 
 #: ../../DOM.rst:898
@@ -2388,7 +2388,7 @@ msgid ""
 "|mana_1|\\ |mana_g|, Exile a creature card from your graveyard: Create a 1/1 "
 "green Saproling creature token."
 msgstr ""
-"|mana_1| |mana_g|, wygnaj kartę stwora z twojego cmentarza: Stwórz żeton "
+"|mana_1|\\ |mana_g|, wygnaj kartę stwora z twojego cmentarza: Stwórz żeton "
 "zielonego stwora Saproling 1/1."
 
 #: ../../DOM.rst:897
@@ -2509,7 +2509,7 @@ msgid ""
 "Kicker |mana_4|\\ |mana_g| (You may pay an additional |mana_4|\\ |mana_g| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_4| |mana_g| (Możesz zapłacić dodatkowo |mana_4| |mana_g| "
+"Podbicie |mana_4|\\ |mana_g| (Możesz zapłacić dodatkowo |mana_4|\\ |mana_g| "
 "podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:941
@@ -2531,7 +2531,7 @@ msgstr "Llanowar Envoy"
 #: ../../DOM.rst:949
 #, fuzzy
 msgid "|mana_1|\\ |mana_g|: Add one mana of any color."
-msgstr "|mana_1| |mana_g|: Dostajesz jedną manę dowolnego koloru."
+msgstr "|mana_1|\\ |mana_g|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../DOM.rst:954
 #, fuzzy
@@ -2610,7 +2610,7 @@ msgid ""
 "|mana_1|\\ |mana_g|, Return two lands you control to their owner's hand: "
 "Return Multani from your graveyard to your hand."
 msgstr ""
-"|mana_1| |mana_g|, przywróć dwa lądy będące pod twoim władaniem do rąk ich "
+"|mana_1|\\ |mana_g|, przywróć dwa lądy będące pod twoim władaniem do rąk ich "
 "właścicieli: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:984
@@ -2724,7 +2724,7 @@ msgid ""
 "Kicker |mana_2|\\ |mana_g| (You may pay an additional |mana_2|\\ |mana_g| as "
 "you cast this spell.)"
 msgstr ""
-"Podbicie |mana_2| |mana_g| (Możesz zapłacić dodatkowo |mana_2| |mana_g| "
+"Podbicie |mana_2|\\ |mana_g| (Możesz zapłacić dodatkowo |mana_2|\\ |mana_g| "
 "podczas rzucania tego czaru.)"
 
 #: ../../DOM.rst:1027
@@ -2839,7 +2839,7 @@ msgid ""
 "|mana_2|\\ |mana_w|, |tap|: Create a 2/2 white Knight creature token with "
 "vigilance."
 msgstr ""
-"|mana_2| |mana_w|, |tap|: Stwórz żeton białego stwora Rycerz 2/2 z "
+"|mana_2|\\ |mana_w|, |tap|: Stwórz żeton białego stwora Rycerz 2/2 z "
 "czujnością."
 
 #: ../../DOM.rst:1073
@@ -2948,8 +2948,8 @@ msgid ""
 "You may pay |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| rather than "
 "pay the mana cost for spells that you cast."
 msgstr ""
-"Możesz płacić |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| zamiast płacić "
-"koszt many rzucanych przez ciebie czarów."
+"Możesz płacić |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| zamiast "
+"płacić koszt many rzucanych przez ciebie czarów."
 
 #: ../../DOM.rst:1116
 #, fuzzy
@@ -3621,7 +3621,7 @@ msgid ""
 "|mana_2|\\ |mana_b|, |tap|, Sacrifice Memorial to Folly: Return target "
 "creature card from your graveyard to your hand."
 msgstr ""
-"|mana_2| |mana_b|, |tap|, poświęć ten permanent: Przywróć wskazaną kartę "
+"|mana_2|\\ |mana_b|, |tap|, poświęć ten permanent: Przywróć wskazaną kartę "
 "stwora z twojego cmentarza do twojej ręki."
 
 #: ../../DOM.rst:1370
@@ -3640,7 +3640,7 @@ msgstr "|tap|: Dostajesz |mana_u|."
 #, fuzzy
 msgid ""
 "|mana_4|\\ |mana_u|, |tap|, Sacrifice Memorial to Genius: Draw two cards."
-msgstr "|mana_4| |mana_u|, |tap|, poświęć ten permanent: Dobierz dwie karty."
+msgstr "|mana_4|\\ |mana_u|, |tap|, poświęć ten permanent: Dobierz dwie karty."
 
 #: ../../DOM.rst:1378
 msgid "Memorial to Glory"
@@ -3660,7 +3660,7 @@ msgid ""
 "|mana_3|\\ |mana_w|, |tap|, Sacrifice Memorial to Glory: Create two 1/1 "
 "white Soldier creature tokens."
 msgstr ""
-"|mana_3| |mana_w|, |tap|, poświęć ten permanent: Stwórz dwa żetony białego "
+"|mana_3|\\ |mana_w|, |tap|, poświęć ten permanent: Stwórz dwa żetony białego "
 "stwora Piechur 1/1."
 
 #: ../../DOM.rst:1386
@@ -3679,10 +3679,10 @@ msgid ""
 "and put it into your hand. Then put the rest on the bottom of your library "
 "in a random order."
 msgstr ""
-"|mana_2| |mana_g|, |tap|, poświęć ten permanent: Spójrz na pięć wierzchnich "
-"kart twojej biblioteki. Możesz ujawnić spośród nich kartę stwora i umieścić "
-"ją w twojej ręce. Następnie umieść pozostałe na spodzie twojej biblioteki w "
-"losowej kolejności."
+"|mana_2|\\ |mana_g|, |tap|, poświęć ten permanent: Spójrz na pięć "
+"wierzchnich kart twojej biblioteki. Możesz ujawnić spośród nich kartę stwora "
+"i umieścić ją w twojej ręce. Następnie umieść pozostałe na spodzie twojej "
+"biblioteki w losowej kolejności."
 
 #: ../../DOM.rst:1394
 msgid "Memorial to War"
@@ -3700,7 +3700,8 @@ msgstr "|tap|: Dostajesz |mana_r|."
 #, fuzzy
 msgid ""
 "|mana_4|\\ |mana_r|, |tap|, Sacrifice Memorial to War: Destroy target land."
-msgstr "|mana_4| |mana_r|, |tap|, poświęć ten permanent: Zniszcz wskazany ląd."
+msgstr ""
+"|mana_4|\\ |mana_r|, |tap|, poświęć ten permanent: Zniszcz wskazany ląd."
 
 #: ../../DOM.rst:1400
 msgid "Sulfur Falls"
@@ -3843,8 +3844,8 @@ msgid ""
 "+1: Add |mana_r|\\ |mana_r|. Chandra, Bold Pyromancer deals 2 damage to "
 "target player."
 msgstr ""
-"+1: Dostajesz |mana_r| |mana_r|. Ten permanent zadaje wskazanemu graczowi 2 "
-"obrażenia."
+"+1: Dostajesz |mana_r|\\ |mana_r|. Ten permanent zadaje wskazanemu graczowi "
+"2 obrażenia."
 
 #: ../../DOM.rst:1523
 msgid ""
