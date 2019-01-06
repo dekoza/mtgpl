@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2019-01-01 01:25+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -328,7 +328,7 @@ msgstr "Selesnya Sentry"
 
 #: ../../RTR.rst:172
 msgid "|mana_5| |mana_g|: Regenerate Selesnya Sentry."
-msgstr "|mana_5| |mana_g|: Zregeneruj Selesnya Sentry."
+msgstr "|mana_5|\\ |mana_g|: Zregeneruj Selesnya Sentry."
 
 #: ../../RTR.rst:180
 #, fuzzy
@@ -428,7 +428,7 @@ msgstr "Aquus Steed"
 
 #: ../../RTR.rst:230
 msgid "|mana_2| |mana_u|, |tap|: Target creature gets -2/-0 until end of turn."
-msgstr "|mana_2| |mana_u|, |tap|: Wskazany stwór dostaje -2/-0 do końca tury."
+msgstr "|mana_2|\\ |mana_u|, |tap|: Wskazany stwór dostaje -2/-0 do końca tury."
 
 #: ../../RTR.rst:240
 #, fuzzy
@@ -547,9 +547,9 @@ msgid ""
 "library into their graveyard, where X is the number of creatures with "
 "defender you control."
 msgstr ""
-"|mana_2| |mana_u|, |tap|: Wskazany gracz wkłada X wierzchnich kart swojej"
-" biblioteki do swojego cmentarza, gdzie X jest liczbą władanych przez "
-"ciebie stworów z obronnością."
+"|mana_2|\\ |mana_u|, |tap|: Wskazany gracz wkłada X wierzchnich kart swojej "
+"biblioteki do swojego cmentarza, gdzie X jest liczbą władanych przez ciebie "
+"stworów z obronnością."
 
 #: ../../RTR.rst:304
 msgid "Downsize"
@@ -965,7 +965,7 @@ msgstr "Grim Roustabout"
 
 #: ../../RTR.rst:551
 msgid "|mana_1| |mana_b|: Regenerate Grim Roustabout."
-msgstr "|mana_1| |mana_b|: Zregeneruj Grim Roustabout."
+msgstr "|mana_1|\\ |mana_b|: Zregeneruj Grim Roustabout."
 
 #: ../../RTR.rst:561
 #, fuzzy
@@ -1031,7 +1031,7 @@ msgid ""
 "|mana_2| |mana_b|, Discard a card: Create a token that's a copy of Pack "
 "Rat."
 msgstr ""
-"|mana_2| |mana_b|, odrzuć kartę: Umieść na polu walki żeton będący kopią "
+"|mana_2|\\ |mana_b|, odrzuć kartę: Umieść na polu walki żeton będący kopią "
 "Pack Rat."
 
 #: ../../RTR.rst:602
@@ -1041,7 +1041,7 @@ msgstr "Perilous Shadow"
 
 #: ../../RTR.rst:601
 msgid "|mana_1| |mana_b|: Perilous Shadow gets +2/+2 until end of turn."
-msgstr "|mana_1| |mana_b|: Perilous Shadow dostaje +2/+2 do końca tury."
+msgstr "|mana_1|\\ |mana_b|: Perilous Shadow dostaje +2/+2 do końca tury."
 
 #: ../../RTR.rst:611
 #, fuzzy
@@ -1062,7 +1062,7 @@ msgid ""
 "graveyard: Put a number of +1/+1 counters equal to this card's power on "
 "target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_2| |mana_b| (|mana_2| |mana_b|, wypędź tę kartę z twojego "
+"Czystka |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|, wypędź tę kartę z twojego "
 "cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+1, ile wynosi "
 "siła tej karty. Używaj jedynie jako obrzęd.)"
 
@@ -1128,7 +1128,7 @@ msgid ""
 "graveyard: Put a number of +1/+1 counters equal to this card's power on "
 "target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_6| |mana_b| (|mana_6| |mana_b|, wypędź tę kartę z twojego "
+"Czystka |mana_6|\\ |mana_b| (|mana_6|\\ |mana_b|, wypędź tę kartę z twojego "
 "cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+1, ile wynosi "
 "siła tej karty. Używaj jedynie jako obrzęd.)"
 
@@ -1171,9 +1171,9 @@ msgid ""
 "this card from your graveyard: Put a number of +1/+1 counters equal to "
 "this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_2| |mana_b| |mana_b| (|mana_2| |mana_b| |mana_b|, wypędź tę "
-"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
-"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"Czystka |mana_2|\\ |mana_b|\\ |mana_b| (|mana_2|\\ |mana_b|\\ |mana_b|, "
+"wypędź tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
+"znaczników +1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:691
 msgid "Annihilating Fire"
@@ -1224,7 +1224,7 @@ msgstr "Bellows Lizard"
 
 #: ../../RTR.rst:713
 msgid "|mana_1| |mana_r|: Bellows Lizard gets +1/+0 until end of turn."
-msgstr "|mana_1| |mana_r|: Bellows Lizard dostaje +1/+0 do końca tury."
+msgstr "|mana_1|\\ |mana_r|: Bellows Lizard dostaje +1/+0 do końca tury."
 
 #: ../../RTR.rst:723
 #, fuzzy
@@ -1595,7 +1595,7 @@ msgid ""
 "|mana_2| |mana_g|, Sacrifice Centaur's Herald: Create a 3/3 green Centaur"
 " creature token."
 msgstr ""
-"|mana_2| |mana_g|, poświęć Centaur's Herald: Umieść na polu walki żeton "
+"|mana_2|\\ |mana_g|, poświęć Centaur's Herald: Umieść na polu walki żeton "
 "zielonego stwora Centaur 3/3."
 
 #: ../../RTR.rst:961
@@ -1622,9 +1622,9 @@ msgid ""
 "this card from your graveyard: Put a number of +1/+1 counters equal to "
 "this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, wypędź tę "
-"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
-"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"Czystka |mana_4|\\ |mana_g|\\ |mana_g| (|mana_4|\\ |mana_g|\\ |mana_g|, "
+"wypędź tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
+"znaczników +1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:975
 #, fuzzy
@@ -1650,7 +1650,7 @@ msgid ""
 "graveyard: Put a number of +1/+1 counters equal to this card's power on "
 "target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_5| |mana_g| (|mana_5| |mana_g|, wypędź tę kartę z twojego "
+"Czystka |mana_5|\\ |mana_g| (|mana_5|\\ |mana_g|, wypędź tę kartę z twojego "
 "cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+1, ile wynosi "
 "siła tej karty. Używaj jedynie jako obrzęd.)"
 
@@ -1718,9 +1718,9 @@ msgid ""
 "this card from your graveyard: Put a number of +1/+1 counters equal to "
 "this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_3| |mana_g| |mana_g| (|mana_3| |mana_g| |mana_g|, wypędź tę "
-"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
-"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"Czystka |mana_3|\\ |mana_g|\\ |mana_g| (|mana_3|\\ |mana_g|\\ |mana_g|, "
+"wypędź tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
+"znaczników +1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:1028
 #, fuzzy
@@ -1748,9 +1748,9 @@ msgid ""
 "this card from your graveyard: Put a number of +1/+1 counters equal to "
 "this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_5| |mana_g| |mana_g| (|mana_5| |mana_g| |mana_g|, wypędź tę "
-"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
-"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"Czystka |mana_5|\\ |mana_g|\\ |mana_g| (|mana_5|\\ |mana_g|\\ |mana_g|, "
+"wypędź tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
+"znaczników +1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:1048
 #, fuzzy
@@ -1843,9 +1843,8 @@ msgid ""
 "|mana_2| |mana_b|: Stonefare Crocodile gains lifelink until end of turn. "
 "(Damage dealt by this creature also causes you to gain that much life.)"
 msgstr ""
-"|mana_2| |mana_b|: Stonefare Crocodile zyskuje więź życia do końca tury. "
-"(Obrażenia zadane przez tego stwora powodują, że zyskujesz tyle samo "
-"życia.)"
+"|mana_2|\\ |mana_b|: Stonefare Crocodile zyskuje więź życia do końca tury. ("
+"Obrażenia zadane przez tego stwora powodują, że zyskujesz tyle samo życia.)"
 
 #: ../../RTR.rst:1097
 #, fuzzy
@@ -2146,9 +2145,9 @@ msgid ""
 "this card from your graveyard: Put a number of +1/+1 counters equal to "
 "this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_3| |mana_b| |mana_g| (|mana_3| |mana_b| |mana_g|, wypędź tę "
-"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
-"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"Czystka |mana_3|\\ |mana_b|\\ |mana_g| (|mana_3|\\ |mana_b|\\ |mana_g|, "
+"wypędź tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
+"znaczników +1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:1283
 msgid "Epic Experiment"
@@ -2273,7 +2272,7 @@ msgid ""
 "|mana_2| |mana_b| |mana_r|, Sacrifice Hellhole Flailer: Hellhole Flailer "
 "deals damage equal to its power to target player or planeswalker."
 msgstr ""
-"|mana_2| |mana_b| |mana_r|, poświęć Hellhole Flailer: Hellhole Flailer "
+"|mana_2|\\ |mana_b|\\ |mana_r|, poświęć Hellhole Flailer: Hellhole Flailer "
 "zadaje wskazanemu graczowi obrażenia równe swojej sile."
 
 #: ../../RTR.rst:1356
@@ -2372,8 +2371,8 @@ msgid ""
 "|mana_1| |mana_b| |mana_g|, Sacrifice another creature: Each opponent "
 "loses life equal to the sacrificed creature's power."
 msgstr ""
-"|mana_1| |mana_b| |mana_g|, poświęć innego stwora: Każdy przeciwnik traci"
-" tyle życia, ile siły miał poświęcony stwór."
+"|mana_1|\\ |mana_b|\\ |mana_g|, poświęć innego stwora: Każdy przeciwnik "
+"traci tyle życia, ile siły miał poświęcony stwór."
 
 #: ../../RTR.rst:1417
 msgid ""
@@ -2408,7 +2407,7 @@ msgid ""
 "intimidate until end of turn. (It can't be blocked except by artifact "
 "creatures and/or creatures that share a color with it.)"
 msgstr ""
-"|mana_1| |mana_b| |mana_g|: Wskazany stwór dostaje +1/+1 oraz "
+"|mana_1|\\ |mana_b|\\ |mana_g|: Wskazany stwór dostaje +1/+1 oraz "
 "zastraszanie do końca tury."
 
 #: ../../RTR.rst:1433
@@ -2418,7 +2417,7 @@ msgid ""
 "green Saproling creature tokens, where X is the sacrificed creature's "
 "toughness."
 msgstr ""
-"|mana_2| |mana_b| |mana_g|, poświęć nieżetonowego stwora: Umieść na polu "
+"|mana_2|\\ |mana_b|\\ |mana_g|, poświęć nieżetonowego stwora: Umieść na polu "
 "walki X żetonów zielonego stwora Saproling 1/1, gdzie X to wytrzymałość "
 "poświęconego stwora."
 
@@ -2489,7 +2488,7 @@ msgstr "New Prahv Guildmage"
 
 #: ../../RTR.rst:1478
 msgid "|mana_w| |mana_u|: Target creature gains flying until end of turn."
-msgstr "|mana_w| |mana_u|: Wskazany stwór zyskuje latanie do końca tury."
+msgstr "|mana_w|\\ |mana_u|: Wskazany stwór zyskuje latanie do końca tury."
 
 #: ../../RTR.rst:1480
 msgid ""
@@ -2497,10 +2496,9 @@ msgid ""
 "controls. (Until your next turn, that permanent can't attack or block and"
 " its activated abilities can't be activated.)"
 msgstr ""
-"|mana_3| |mana_w| |mana_u|: Uwięź wskazany nielądowy permanent władany "
-"przez przeciwnika. (Do twojej następnej tury ów permanent  nie może "
-"atakować ani blokować, a jego aktywowane zdolności nie mogą być "
-"aktywowane.)"
+"|mana_3|\\ |mana_w|\\ |mana_u|: Uwięź wskazany nielądowy permanent władany "
+"przez przeciwnika. (Do twojej następnej tury ów permanent  nie może atakować "
+"ani blokować, a jego aktywowane zdolności nie mogą być aktywowane.)"
 
 #: ../../RTR.rst:1490
 #, fuzzy
@@ -2509,14 +2507,14 @@ msgstr "Nivix Guildmage"
 
 #: ../../RTR.rst:1487
 msgid "|mana_1| |mana_u| |mana_r|: Draw a card, then discard a card."
-msgstr "|mana_1| |mana_u| |mana_r|: Dobierz kartę, po czym odrzuć kartę."
+msgstr "|mana_1|\\ |mana_u|\\ |mana_r|: Dobierz kartę, po czym odrzuć kartę."
 
 #: ../../RTR.rst:1489
 msgid ""
 "|mana_2| |mana_u| |mana_r|: Copy target instant or sorcery spell you "
 "control. You may choose new targets for the copy."
 msgstr ""
-"|mana_2| |mana_u| |mana_r|: Skopiuj wskazany czar sztuczki lub obrzędu, "
+"|mana_2|\\ |mana_u|\\ |mana_r|: Skopiuj wskazany czar sztuczki lub obrzędu, "
 "którym władasz. Możesz wskazać nowe cele dla kopii."
 
 #: ../../RTR.rst:1501
@@ -2536,7 +2534,7 @@ msgstr ""
 #, fuzzy
 msgid "|mana_u| |mana_r|: Niv-Mizzet, Dracogenius deals 1 damage to any target."
 msgstr ""
-"|mana_u| |mana_r|: Niv-Mizzet, Dracogenius zadaje 1 obrażenie wskazanemu "
+"|mana_u|\\ |mana_r|: Niv-Mizzet, Dracogenius zadaje 1 obrażenie wskazanemu "
 "stworowi lub graczowi."
 
 #: ../../RTR.rst:1514
@@ -2663,13 +2661,14 @@ msgstr "Rix Maadi Guildmage"
 
 #: ../../RTR.rst:1581
 msgid "|mana_b| |mana_r|: Target blocking creature gets -1/-1 until end of turn."
-msgstr "|mana_b| |mana_r|: Wskazany blokujący stwór dostaje -1/-1 do końca tury."
+msgstr ""
+"|mana_b|\\ |mana_r|: Wskazany blokujący stwór dostaje -1/-1 do końca tury."
 
 #: ../../RTR.rst:1583
 msgid "|mana_b| |mana_r|: Target player who lost life this turn loses 1 life."
 msgstr ""
-"|mana_b| |mana_r|: Wskazany gracz, który stracił punkty życia w tej "
-"turze, traci 1 życie."
+"|mana_b|\\ |mana_r|: Wskazany gracz, który stracił punkty życia w tej turze, "
+"traci 1 życie."
 
 #: ../../RTR.rst:1591
 msgid "Search Warrant"
@@ -2768,9 +2767,9 @@ msgid ""
 "this card from your graveyard: Put a number of +1/+1 counters equal to "
 "this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
-"Czystka |mana_1| |mana_b| |mana_g| (|mana_1| |mana_b| |mana_g|, wypędź tę "
-"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
-"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"Czystka |mana_1|\\ |mana_b|\\ |mana_g| (|mana_1|\\ |mana_b|\\ |mana_g|, "
+"wypędź tę kartę z twojego cmentarza: Umieść na wskazanym stworze tyle "
+"znaczników +1/+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 #: ../../RTR.rst:1645
 #, fuzzy
@@ -2835,7 +2834,7 @@ msgstr "Trestle Troll"
 
 #: ../../RTR.rst:1694
 msgid "|mana_1| |mana_b| |mana_g|: Regenerate Trestle Troll."
-msgstr "|mana_1| |mana_b| |mana_g|: Zregeneruj Trestle Troll."
+msgstr "|mana_1|\\ |mana_b|\\ |mana_g|: Zregeneruj Trestle Troll."
 
 #: ../../RTR.rst:1704
 #, fuzzy
@@ -2856,8 +2855,8 @@ msgid ""
 "|mana_1| |mana_g| |mana_w|, |tap|: Populate. (Create a token that's a "
 "copy of a creature token you control.)"
 msgstr ""
-"|mana_1| |mana_g| |mana_w|, |tap|: Zaludnij. (Umieść na polu walki żeton, "
-"będący kopią władanego przez ciebie żetonu stwora.)"
+"|mana_1|\\ |mana_g|\\ |mana_w|, |tap|: Zaludnij. (Umieść na polu walki "
+"żeton, będący kopią władanego przez ciebie żetonu stwora.)"
 
 #: ../../RTR.rst:1713
 #, fuzzy
@@ -2868,7 +2867,7 @@ msgstr "Vitu-Ghazi Guildmage"
 #, fuzzy
 msgid "|mana_4| |mana_g| |mana_w|: Create a 3/3 green Centaur creature token."
 msgstr ""
-"|mana_4| |mana_g| |mana_w|: Umieść na polu walki żeton zielonego stwora "
+"|mana_4|\\ |mana_g|\\ |mana_w|: Umieść na polu walki żeton zielonego stwora "
 "Centaur 3/3."
 
 #: ../../RTR.rst:1712
@@ -2877,8 +2876,8 @@ msgid ""
 "|mana_2| |mana_g| |mana_w|: Populate. (Create a token that's a copy of a "
 "creature token you control.)"
 msgstr ""
-"|mana_2| |mana_g| |mana_w|: Zaludnij. (Umieść na polu walki żeton, będący "
-"kopią władanego przez ciebie żetonu stwora.)"
+"|mana_2|\\ |mana_g|\\ |mana_w|: Zaludnij. (Umieść na polu walki żeton, "
+"będący kopią władanego przez ciebie żetonu stwora.)"
 
 #: ../../RTR.rst:1724
 #, fuzzy
@@ -3131,7 +3130,7 @@ msgid ""
 "|mana_w| |mana_u|: Azorius Keyrune becomes a 2/2 white and blue Bird "
 "artifact creature with flying until end of turn."
 msgstr ""
-"|mana_w| |mana_u|: Do końca tury Azorius Keyrune staje się biało-"
+"|mana_w|\\ |mana_u|: Do końca tury Azorius Keyrune staje się biało-"
 "niebieskim artefaktycznym stworem Bird 2/2 z Lataniem."
 
 #: ../../RTR.rst:1866
@@ -3198,8 +3197,8 @@ msgid ""
 "|mana_b| |mana_g|: Golgari Keyrune becomes a 2/2 black and green Insect "
 "artifact creature with deathtouch until end of turn."
 msgstr ""
-"|mana_b| |mana_g|: Do końca tury Golgari Keyrune staje się czarno-"
-"zielonym artefaktycznym stworem Insect 2/2 z Dotykiem Śmierci."
+"|mana_b|\\ |mana_g|: Do końca tury Golgari Keyrune staje się czarno-zielonym "
+"artefaktycznym stworem Insect 2/2 z Dotykiem Śmierci."
 
 #: ../../RTR.rst:1904
 #, fuzzy
@@ -3215,7 +3214,7 @@ msgid ""
 "|mana_u| |mana_r|: Until end of turn, Izzet Keyrune becomes a 2/1 blue "
 "and red Elemental artifact creature."
 msgstr ""
-"|mana_u| |mana_r|: Do końca tury Izzet Keyrune staje się niebiesko-"
+"|mana_u|\\ |mana_r|: Do końca tury Izzet Keyrune staje się niebiesko-"
 "czerwonym artefaktycznym stworem Elemental 2/1."
 
 #: ../../RTR.rst:1903
@@ -3258,8 +3257,8 @@ msgid ""
 "|mana_b| |mana_r|: Rakdos Keyrune becomes a 3/1 black and red Devil "
 "artifact creature with first strike until end of turn."
 msgstr ""
-"|mana_b| |mana_r|: Do końca tury Rakdos Keyrune staje się czarno-"
-"czerwonym artefaktycznym stworem Devil 3/1 z Pierwszym Ciosem."
+"|mana_b|\\ |mana_r|: Do końca tury Rakdos Keyrune staje się czarno-czerwonym "
+"artefaktycznym stworem Devil 3/1 z Pierwszym Ciosem."
 
 #: ../../RTR.rst:1931
 #, fuzzy
@@ -3275,8 +3274,8 @@ msgid ""
 "|mana_g| |mana_w|: Selesnya Keyrune becomes a 3/3 green and white Wolf "
 "artifact creature until end of turn."
 msgstr ""
-"|mana_g| |mana_w|: Do końca tury Selesnya Keyrune staje się zielono-"
-"białym artefaktycznym stworem Wolf 3/3."
+"|mana_g|\\ |mana_w|: Do końca tury Selesnya Keyrune staje się zielono-białym "
+"artefaktycznym stworem Wolf 3/3."
 
 #: ../../RTR.rst:1938
 #, fuzzy
@@ -3385,9 +3384,9 @@ msgid ""
 "control, Sacrifice Grove of the Guardian: Create an 8/8 green and white "
 "Elemental creature token with vigilance."
 msgstr ""
-"|mana_3| |mana_g| |mana_w|, |tap|, zatapuj dwa odznaczone stwory, którymi "
-"władasz, poświęć Grove of the Guardian: Umieść na polu walki żeton biało-"
-"zielonego stwora Elemental 8/8 z czujnością."
+"|mana_3|\\ |mana_g|\\ |mana_w|, |tap|, zatapuj dwa odznaczone stwory, "
+"którymi władasz, poświęć Grove of the Guardian: Umieść na polu walki żeton "
+"biało-zielonego stwora Elemental 8/8 z czujnością."
 
 #: ../../RTR.rst:2005
 msgid "Hallowed Fountain"
