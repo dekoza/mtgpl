@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2019-01-01 01:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ths/pl/>\n"
@@ -106,8 +106,9 @@ msgstr "Celestial Archon"
 # c14b3d0dbdfb406899cbdec720b0855e
 # 340f1b0f656341c58ecc62be0aa9dee6
 #: ../../THS.rst:19
+#, fuzzy
 msgid ""
-"Bestow |mana_5| |mana_w| |mana_w| (If you cast this card for its bestow "
+"Bestow |mana_5|\\ |mana_w|\\ |mana_w| (If you cast this card for its bestow "
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
@@ -230,8 +231,9 @@ msgstr "Decorated Griffin"
 # a1fe5157998944adadd4032d3fba39c3
 # b5abdd54935048e28bb0fb41db485265
 #: ../../THS.rst:47
+#, fuzzy
 msgid ""
-"|mana_1| |mana_w|: Prevent the next 1 combat damage that would be dealt to "
+"|mana_1|\\ |mana_w|: Prevent the next 1 combat damage that would be dealt to "
 "you this turn."
 msgstr ""
 "|mana_1| |mana_w|: Zażegnaj następne 1 obrażenie bojowe, które może ci "
@@ -352,9 +354,9 @@ msgid ""
 "counter on Favored Hoplite and prevent all damage that would be dealt to it "
 "this turn."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący Favored Hoplite, umieść znacznik +"
-"1/+1 na Favored Hoplite i zapobiegnij wszystkim obrażeniom, które mogłyby mu "
-"być zadane w tej turze."
+"Heroizm — Ilekroć rzucasz czar wskazujący Favored Hoplite, umieść znacznik "
+"+1/+1 na Favored Hoplite i zapobiegnij wszystkim obrażeniom, które mogłyby "
+"mu być zadane w tej turze."
 
 # 69b3f9d5f63049b8a207560e8bf187b5
 # dea591b079304b02b0aa0ff4e0edf493
@@ -450,8 +452,8 @@ msgstr "Inne stwory pod twoim władaniem mają czujność."
 #: ../../THS.rst:101
 #, fuzzy
 msgid ""
-"|mana_2| |mana_w| |mana_w|: Create a 2/1 white Cleric enchantment creature "
-"token."
+"|mana_2|\\ |mana_w|\\ |mana_w|: Create a 2/1 white Cleric enchantment "
+"creature token."
 msgstr ""
 "|mana_2| |mana_w| |mana_w|: Umieść na polu walki żeton białego stwora-uroku "
 "Cleric 2/1."
@@ -465,9 +467,10 @@ msgstr "Heliod's Emissary (Emisariusz Helioda)"
 # 0d437aa4b66d4a1da6e6ddbf10a7e108
 # 7e35076bf2ab4f3b9e9f199a69f40073
 #: ../../THS.rst:105
+#, fuzzy
 msgid ""
-"Bestow |mana_6| |mana_w| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_6|\\ |mana_w| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_6| |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
@@ -504,9 +507,10 @@ msgstr "Hopeful Eidolon"
 # 131971df74344983812c2fbefcbef345
 # 1ba6766f637341068550e77dc6f15c68
 #: ../../THS.rst:113
+#, fuzzy
 msgid ""
-"Bestow |mana_3| |mana_w| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_3|\\ |mana_w| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_3| |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
@@ -546,9 +550,10 @@ msgstr "Czujność"
 # fbc2051da9d2450d97b64f21b903f870
 # 20456c6f232e4bc9a32919c767de9a7e
 #: ../../THS.rst:123
+#, fuzzy
 msgid ""
-"|mana_3| |mana_w| |mana_w| |mana_w|: Monstrosity 3. (If this creature isn't "
-"monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+"|mana_3|\\ |mana_w|\\ |mana_w|\\ |mana_w|: Monstrosity 3. (If this creature "
+"isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_3| |mana_w| |mana_w| |mana_w|: Monstrualność 3. (Jeśli ten stwór nie "
 "jest monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on "
@@ -621,9 +626,10 @@ msgstr "Observant Alseid"
 # 9a959020a11d4b76ac8e512d03041066
 # 5476295200824088b3679fdd02755260
 #: ../../THS.rst:141
+#, fuzzy
 msgid ""
-"Bestow |mana_4| |mana_w| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_4|\\ |mana_w| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_4| |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
@@ -697,8 +703,9 @@ msgstr "Scholar of Athreos (Mędrzec Aterosa)"
 # 587e95948cb1464a99e00991c7006d90
 # a5d6a01e8ec64dc5a2320dfeb50f10d7
 #: ../../THS.rst:165
+#, fuzzy
 msgid ""
-"|mana_2| |mana_b|: Each opponent loses 1 life. You gain life equal to the "
+"|mana_2|\\ |mana_b|: Each opponent loses 1 life. You gain life equal to the "
 "life lost this way."
 msgstr ""
 "|mana_2| |mana_b|: Każdy z przeciwników traci po 1 życiu. Zyskujesz tyle "
@@ -730,9 +737,10 @@ msgstr "Setessan Griffin (Setessiański gryf)"
 # 510dad5e59f44d21a73dc2c04006c7d7
 # b7167096b6454aa6a4aae73db308906c
 #: ../../THS.rst:175
+#, fuzzy
 msgid ""
-"|mana_2| |mana_g| |mana_g|: Setessan Griffin gets +2/+2 until end of turn. "
-"Activate this ability only once each turn."
+"|mana_2|\\ |mana_g|\\ |mana_g|: Setessan Griffin gets +2/+2 until end of "
+"turn. Activate this ability only once each turn."
 msgstr ""
 "|mana_2| |mana_g| |mana_g|: Setessan Griffin dostaje +2/+2 do końca tury. "
 "Aktywuj tę zdolność tylko raz na turę."
@@ -777,9 +785,10 @@ msgstr "Stwory pod twoim władaniem dostają +1/+1."
 # 94a8342a72534ced8300d07016da5309
 # 210bfbeceb45482c8a47ae610de4fbaf
 #: ../../THS.rst:191
+#, fuzzy
 msgid ""
-"|mana_1| |mana_w| |mana_w|, |tap|: Destroy target creature that dealt damage "
-"to you this turn."
+"|mana_1|\\ |mana_w|\\ |mana_w|, |tap|: Destroy target creature that dealt "
+"damage to you this turn."
 msgstr ""
 "|mana_1| |mana_w| |mana_w|, |tap|: Zniszcz wskazanego stwora, który zadał "
 "tobie obrażenia w tej turze."
@@ -922,9 +931,10 @@ msgstr ""
 # 15b12860d6f9423ab58fc177e437b490
 # 77afda2521834c9d8ae30f4406817c0d
 #: ../../THS.rst:235
+#, fuzzy
 msgid ""
-"|mana_1| |mana_u|, |tap|: Creatures your opponents control attack this turn "
-"if able."
+"|mana_1|\\ |mana_u|, |tap|: Creatures your opponents control attack this "
+"turn if able."
 msgstr ""
 "|mana_1| |mana_u|, |tap|: Stwory, którymi władają przeciwnicy, atakują w tej "
 "turze jeśli mogą."
@@ -966,8 +976,9 @@ msgstr "Coastline Chimera"
 # dd880c8749c347ca924397c879d6b9fe
 # b7dddc2111fd47798725c722bcaa0b16
 #: ../../THS.rst:247
+#, fuzzy
 msgid ""
-"|mana_1| |mana_w|: Coastline Chimera can block an additional creature this "
+"|mana_1|\\ |mana_w|: Coastline Chimera can block an additional creature this "
 "turn."
 msgstr ""
 "|mana_1| |mana_w|: Coastline Chimera może blokować dodatkowego stwora w tej "
@@ -985,7 +996,7 @@ msgstr "Crackling Triton"
 #: ../../THS.rst:251
 #, fuzzy
 msgid ""
-"|mana_2| |mana_r|, Sacrifice Crackling Triton: Crackling Triton deals 2 "
+"|mana_2|\\ |mana_r|, Sacrifice Crackling Triton: Crackling Triton deals 2 "
 "damage to any target."
 msgstr ""
 "|mana_2| |mana_r|, poświęć Crackling Triton: Crackling Triton zadaje 2 "
@@ -1148,9 +1159,10 @@ msgstr "Meletis Charlatan"
 # 1ce4bb551088425bb41b666d3be860ad
 # 0e4cb9f45c734dccb6f3b3061cdd70e7
 #: ../../THS.rst:297
+#, fuzzy
 msgid ""
-"|mana_2| |mana_u|, |tap|: The controller of target instant or sorcery spell "
-"copies it. That player may choose new targets for the copy."
+"|mana_2|\\ |mana_u|, |tap|: The controller of target instant or sorcery "
+"spell copies it. That player may choose new targets for the copy."
 msgstr ""
 "|mana_2| |mana_u|, |tap|: Władca wskazanego czaru sztuczki lub obrzędu "
 "kopiuje go. Ów gracz może wybrać nowe cele dla kopii."
@@ -1194,9 +1206,10 @@ msgstr "Nimbus Naiad"
 # c609e0b17fe24e57a8c7a756ccd5d7e6
 # 76bd2ba7b00b412bac3dc54cb5eb4b20
 #: ../../THS.rst:307
+#, fuzzy
 msgid ""
-"Bestow |mana_4| |mana_u| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_4|\\ |mana_u| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_4| |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
@@ -1331,8 +1344,9 @@ msgstr ""
 # a4a903369a804d6f81e49d37af43c0dd
 # 7d52796230aa49bab0e8c224ca10f85e
 #: ../../THS.rst:347
+#, fuzzy
 msgid ""
-"|mana_5| |mana_u| |mana_u|: Monstrosity 3. (If this creature isn't "
+"|mana_5|\\ |mana_u|\\ |mana_u|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_5| |mana_u| |mana_u|: Monstrualność 3. (Jeśli ten stwór nie jest "
@@ -1358,8 +1372,9 @@ msgstr "Shipbreaker Kraken"
 # 0d644be7bf7d4a0382c69b5bce6fd27c
 # 81746e93720e4a0785499acc0574bffb
 #: ../../THS.rst:353
+#, fuzzy
 msgid ""
-"|mana_6| |mana_u| |mana_u|: Monstrosity 4. (If this creature isn't "
+"|mana_6|\\ |mana_u|\\ |mana_u|: Monstrosity 4. (If this creature isn't "
 "monstrous, put four +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_6| |mana_u| |mana_u|: Monstrualność 4. (Jeśli ten stwór nie jest "
@@ -1442,8 +1457,9 @@ msgstr "Na początku twojego kroku utrzymania, wróż 1."
 # 27efde4e0b414965a30cddeb82a6c42e
 # 7d277ad3086e4c58bb964a9eb0df0285
 #: ../../THS.rst:373
+#, fuzzy
 msgid ""
-"|mana_1| |mana_u|: Target creature you control can't be blocked this turn."
+"|mana_1|\\ |mana_u|: Target creature you control can't be blocked this turn."
 msgstr ""
 "|mana_1| |mana_u|: Wskazany stwór, którym władasz, nie może być blokowany w "
 "tej turze."
@@ -1475,9 +1491,10 @@ msgstr "Thassa's Emissary"
 # 8ae3377fa7e84f1c9563506c31c9a79e
 # 8a955590651b4a09859d8b24ef2e2f99
 #: ../../THS.rst:381
+#, fuzzy
 msgid ""
-"Bestow |mana_5| |mana_u| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_5|\\ |mana_u| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_5| |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
@@ -1653,7 +1670,8 @@ msgstr "Asphodel Wanderer"
 # 67465f30a38d464b875c940fe276e4ac
 # 0e89ff932b354d53973c4c2b3a2359bb
 #: ../../THS.rst:429
-msgid "|mana_2| |mana_b|: Regenerate Asphodel Wanderer."
+#, fuzzy
+msgid "|mana_2|\\ |mana_b|: Regenerate Asphodel Wanderer."
 msgstr "|mana_2| |mana_b|: Zregeneruj Asphodel Wanderer."
 
 # 681c2c0379a84344aed65f8a7e6bec49
@@ -1666,9 +1684,10 @@ msgstr "Baleful Eidolon"
 # ab2fb0325c004d40ba705ca56993d507
 # fac6aabd384541e39f1221f0dfb97293
 #: ../../THS.rst:433
+#, fuzzy
 msgid ""
-"Bestow |mana_4| |mana_b| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_4|\\ |mana_b| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_4| |mana_b| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
@@ -1734,9 +1753,10 @@ msgstr "Cavern Lampad"
 # 3b567a7666084d16a21180dc0756d273
 # 35cbb6b18b1b4aa38af3902261841fee
 #: ../../THS.rst:451 ../../THS.rst:481
+#, fuzzy
 msgid ""
-"Bestow |mana_5| |mana_b| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_5|\\ |mana_b| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_5| |mana_b| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
@@ -1837,7 +1857,8 @@ msgstr "Twoi przeciwnicy nie mogą zyskiwać życia."
 # d8a4f0e05d39440195d7265cb622fdab
 # 22d584630e504602bfd6869b0b834b24
 #: ../../THS.rst:477
-msgid "|mana_1| |mana_b|, Pay 2 life: Draw a card."
+#, fuzzy
+msgid "|mana_1|\\ |mana_b|, Pay 2 life: Draw a card."
 msgstr "|mana_1| |mana_b|, zapłać 2 życia: Dobierz kartę."
 
 # 823b067dc62141a0995bae0dd6388932
@@ -1921,8 +1942,9 @@ msgstr "Hythonia the Cruel (Hythonia Okrutna)"
 # 91ad812d4acb4fe6acd2daedc5c237f1
 # fb5a4cd76c70446f9f476a33e4b7db6c
 #: ../../THS.rst:507
+#, fuzzy
 msgid ""
-"|mana_6| |mana_b| |mana_b|: Monstrosity 3. (If this creature isn't "
+"|mana_6|\\ |mana_b|\\ |mana_b|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_6| |mana_b| |mana_b|: Monstrualność 3. (Jeśli ten stwór nie jest "
@@ -1959,8 +1981,9 @@ msgstr "Keepsake Gorgon"
 # 1084e54b1b3741baa9e1a7c63609cb5d
 # 0f899d619ff046b49c711fd9739f7dbd
 #: ../../THS.rst:519
+#, fuzzy
 msgid ""
-"|mana_5| |mana_b| |mana_b|: Monstrosity 1. (If this creature isn't "
+"|mana_5|\\ |mana_b|\\ |mana_b|: Monstrosity 1. (If this creature isn't "
 "monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
 msgstr ""
 "|mana_5| |mana_b| |mana_b|: Monstrualność 1. (Jeśli ten stwór nie jest "
@@ -1998,8 +2021,9 @@ msgstr "Loathsome Catoblepas"
 # 52776aefeec8402c8a8e49b0fea103ae
 # 55daeaea62d44d44a2f0f379a4cdce46
 #: ../../THS.rst:529
+#, fuzzy
 msgid ""
-"|mana_2| |mana_g|: Loathsome Catoblepas must be blocked this turn if able."
+"|mana_2|\\ |mana_g|: Loathsome Catoblepas must be blocked this turn if able."
 msgstr ""
 "|mana_2| |mana_g|: Loathsome Catoblepas musi być blokowany w tej turze jeśli "
 "to możliwe."
@@ -2061,8 +2085,9 @@ msgstr "Nighthowler"
 # dffafc6393c240ab9b61b9f79beb1743
 # 4cea2126eb51460a9a9accb50390e3b5
 #: ../../THS.rst:543
+#, fuzzy
 msgid ""
-"Bestow |mana_2| |mana_b| |mana_b| (If you cast this card for its bestow "
+"Bestow |mana_2|\\ |mana_b|\\ |mana_b| (If you cast this card for its bestow "
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
@@ -2189,9 +2214,10 @@ msgstr "Returned Phalanx"
 # 4747e1d7bea14aed81159713d62d19ac
 # 8c458814cb3d4a4da42d0b642042c5af
 #: ../../THS.rst:577
+#, fuzzy
 msgid ""
-"|mana_1| |mana_u|: Returned Phalanx can attack this turn as though it didn't "
-"have defender."
+"|mana_1|\\ |mana_u|: Returned Phalanx can attack this turn as though it "
+"didn't have defender."
 msgstr ""
 "|mana_1| |mana_u|: Returned Phalanx może atakować w tej turze jakby nie miał "
 "obronności."
@@ -2298,8 +2324,9 @@ msgstr "Stwory, którymi władasz, mają więź życia"
 # 739864fc33014fccbf49f474901a780b
 # b6cfc490c8bb482faecaf5458821ddfb
 #: ../../THS.rst:611
+#, fuzzy
 msgid ""
-"|mana_2| |mana_b| |mana_b|, |tap|: Return target creature card from your "
+"|mana_2|\\ |mana_b|\\ |mana_b|, |tap|: Return target creature card from your "
 "graveyard to the battlefield. It gains haste. Exile it at the beginning of "
 "the next end step. If it would leave the battlefield, exile it instead of "
 "putting it anywhere else. Activate this ability only any time you could cast "
@@ -2420,7 +2447,8 @@ msgstr "Deathbellow Raider atakuje w każdej turze jeśli to możliwe."
 # 80a28c1e1e3e4d8291f8758080ebd848
 # d25c5a5f52134951990c64fc01dc2778
 #: ../../THS.rst:641
-msgid "|mana_2| |mana_b|: Regenerate Deathbellow Raider."
+#, fuzzy
+msgid "|mana_2|\\ |mana_b|: Regenerate Deathbellow Raider."
 msgstr "|mana_2| |mana_b|: Zregeneruj Deathbellow Raider."
 
 # bbd999d886474763892037febebda8b9
@@ -2469,8 +2497,9 @@ msgstr "Ember Swallower"
 # ec2380bd46774ff5b98f29f74aa81f37
 # 01bb2013de4e4fc095189a163c45d1f3
 #: ../../THS.rst:657 ../../THS.rst:785
+#, fuzzy
 msgid ""
-"|mana_5| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't "
+"|mana_5|\\ |mana_r|\\ |mana_r|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_5| |mana_r| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
@@ -2521,9 +2550,10 @@ msgstr ""
 # f14e16771fb24acd91b19b5efbef4b91
 # 7094f0e386554e51bc92c3d8473fd729
 #: ../../THS.rst:669
+#, fuzzy
 msgid ""
-"|mana_1| |mana_r|: Firedrinker Satyr gets +1/+0 until end of turn and deals "
-"1 damage to you."
+"|mana_1|\\ |mana_r|: Firedrinker Satyr gets +1/+0 until end of turn and "
+"deals 1 damage to you."
 msgstr ""
 "|mana_1| |mana_r|: Firedrinker Satyr dostaje +1/+0 do końca tury i zadaje "
 "tobie 1 obrażenie."
@@ -2562,7 +2592,7 @@ msgstr "Stwory, którymi władasz, mają pośpiech."
 #: ../../THS.rst:679
 #, fuzzy
 msgid ""
-"|mana_2| |mana_r|, |tap|, Sacrifice a land: Create a 3/3 colorless Golem "
+"|mana_2|\\ |mana_r|, |tap|, Sacrifice a land: Create a 3/3 colorless Golem "
 "enchantment artifact creature token."
 msgstr ""
 "|mana_2| |mana_r|, |tap|, poświęć ląd: Umieść na polu walki żeton "
@@ -2593,8 +2623,9 @@ msgstr "Tratowanie"
 # 32aa11f6a0a84fa7b8028f0d73a4aa3a
 # 0ad6bc7f6fa64f87a78dce105be2ec60
 #: ../../THS.rst:685
+#, fuzzy
 msgid ""
-"|mana_5| |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put "
+"|mana_5|\\ |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put "
 "three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_5| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest monstrualny, "
@@ -2748,8 +2779,9 @@ msgstr "Priest of Iroas (Kapłan Iroasa)"
 # a99929ff432b4b50827e24ba33de690a
 # 20b92d38a37742149d88bfa8a3b9bc8b
 #: ../../THS.rst:729
+#, fuzzy
 msgid ""
-"|mana_3| |mana_w|, Sacrifice Priest of Iroas: Destroy target enchantment."
+"|mana_3|\\ |mana_w|, Sacrifice Priest of Iroas: Destroy target enchantment."
 msgstr "|mana_3| |mana_w|, poświęć Priest of Iroas: Zniszcz wskazany urok."
 
 # 59c461659aed49719d0a3b8752aeebe4
@@ -2781,7 +2813,8 @@ msgstr ""
 # f3822299d17a40849f38eb96be0b2461
 # c1b5559bc86f4ef590f371c9b8857c72
 #: ../../THS.rst:739
-msgid "|mana_2| |mana_r|: Creatures you control get +1/+0 until end of turn."
+#, fuzzy
+msgid "|mana_2|\\ |mana_r|: Creatures you control get +1/+0 until end of turn."
 msgstr ""
 "|mana_2| |mana_r|: Stwory, którymi władasz, dostają +1/+0 do końca tury."
 
@@ -2794,9 +2827,10 @@ msgstr "Purphoros's Emissary (Emisariusz Purforosa)"
 # 4b60adafbb1341b78a9cb7c39bc05b54
 # 38db6bf2a32c45c993ddd357383d32b9
 #: ../../THS.rst:743
+#, fuzzy
 msgid ""
-"Bestow |mana_6| |mana_r| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_6|\\ |mana_r| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_6| |mana_r| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
@@ -2887,9 +2921,10 @@ msgstr "Spearpoint Oread"
 # f68e94bb80ce4f73bada40246154b160
 # ebe40e3a5ea6493c9c64ec8549e8459a
 #: ../../THS.rst:769
+#, fuzzy
 msgid ""
-"Bestow |mana_5| |mana_r| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_5|\\ |mana_r| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_5| |mana_r| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
@@ -2918,8 +2953,9 @@ msgstr "Stoneshock Giant"
 # 242b4fafc4444526acacf703622450fb
 # 4048e1a17ad24e63989a14fe358f6883
 #: ../../THS.rst:777
+#, fuzzy
 msgid ""
-"|mana_6| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't "
+"|mana_6|\\ |mana_r|\\ |mana_r|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_6| |mana_r| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
@@ -3033,7 +3069,8 @@ msgstr "Agent of Horizons"
 # 930690ace72d4722958119a10d6a3e53
 # 1cd1262f470c4c07a09ee3db61a9d3a1
 #: ../../THS.rst:807
-msgid "|mana_2| |mana_u|: Agent of Horizons can't be blocked this turn."
+#, fuzzy
+msgid "|mana_2|\\ |mana_u|: Agent of Horizons can't be blocked this turn."
 msgstr ""
 "|mana_2| |mana_u|: Agent of Horizons nie może być blokowany w tej turze."
 
@@ -3076,9 +3113,10 @@ msgstr "Zasięg"
 # a330df2a456648cd8a05c2d4bc83af9d
 # a1eec84acb474294b387f6a2e00f13be
 #: ../../THS.rst:817
+#, fuzzy
 msgid ""
-"|mana_3| |mana_g| |mana_g| |mana_g|: Monstrosity 3. (If this creature isn't "
-"monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+"|mana_3|\\ |mana_g|\\ |mana_g|\\ |mana_g|: Monstrosity 3. (If this creature "
+"isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_3| |mana_g| |mana_g| |mana_g|: Monstrualność 3. (Jeśli ten stwór nie "
 "jest monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on "
@@ -3129,8 +3167,9 @@ msgstr "Błysk"
 # 05688b1976d5462e88b7fd54e5ff2166
 # 474920c33b2b48b997dbbc9c3f5ddd5d
 #: ../../THS.rst:829
+#, fuzzy
 msgid ""
-"Bestow |mana_3| |mana_g| |mana_g| (If you cast this card for its bestow "
+"Bestow |mana_3|\\ |mana_g|\\ |mana_g| (If you cast this card for its bestow "
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
@@ -3158,7 +3197,7 @@ msgstr "Atakujące stwory, którymi władasz, mają dotyk śmierci."
 
 #: ../../THS.rst:837
 #, fuzzy
-msgid "|mana_1| |mana_g|, |tap|: Choose one —"
+msgid "|mana_1|\\ |mana_g|, |tap|: Choose one —"
 msgstr ""
 "|mana_1| |mana_g|, |tap|: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym "
 "stworze"
@@ -3166,7 +3205,8 @@ msgstr ""
 #: ../../THS.rst:839
 #, fuzzy
 msgid "Put a +1/+1 counter on target creature."
-msgstr "{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
+msgstr ""
+"{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
 
 #: ../../THS.rst:841
 #, fuzzy
@@ -3310,9 +3350,10 @@ msgstr "Leafcrown Dryad"
 # e5994a8d7e80466fbb6fa43ef26fcec7
 # 8a3c5fcc01394719be447fe5319ba7c6
 #: ../../THS.rst:881
+#, fuzzy
 msgid ""
-"Bestow |mana_3| |mana_g| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_3|\\ |mana_g| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_3| |mana_g| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
@@ -3370,9 +3411,10 @@ msgstr ""
 # 107e388660104f5a8f1082f7e3c5e6ee
 # d61a836886d342939e166317695102d2
 #: ../../THS.rst:899
+#, fuzzy
 msgid ""
-"|mana_7| |mana_g| |mana_g|: Monstrosity 5. This ability costs |mana_1| less "
-"to activate for each creature card in your graveyard. (If this creature "
+"|mana_7|\\ |mana_g|\\ |mana_g|: Monstrosity 5. This ability costs |mana_1| "
+"less to activate for each creature card in your graveyard. (If this creature "
 "isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_7| |mana_g| |mana_g|: Monstrualność 5. Aktywacja tej zdolności "
@@ -3389,8 +3431,9 @@ msgstr "Nessian Asp"
 # fdaaaba1c87c43c8a46cf90acc8249a7
 # 230d025840d547c4b652aaa6c3ceb3c5
 #: ../../THS.rst:905
+#, fuzzy
 msgid ""
-"|mana_6| |mana_g|: Monstrosity 4. (If this creature isn't monstrous, put "
+"|mana_6|\\ |mana_g|: Monstrosity 4. (If this creature isn't monstrous, put "
 "four +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_6| |mana_g|: Monstrualność 4. (Jeśli ten stwór nie jest monstrualny, "
@@ -3431,7 +3474,8 @@ msgstr "Inne stwory pod twoim władaniem mają tratowanie."
 # a34f7ab8c15e4dcabae4f11a9a9c3d8e
 # 472dbd967fcc426dacf08d66f013224f
 #: ../../THS.rst:919
-msgid "|mana_3| |mana_g|: Target creature gets +2/+2 until end of turn."
+#, fuzzy
+msgid "|mana_3|\\ |mana_g|: Target creature gets +2/+2 until end of turn."
 msgstr "|mana_3| |mana_g|: Wskazany stwór dostaje +2/+2 do końca tury."
 
 # 2adb764dfc2b4a32aebf1a2f11dba507
@@ -3462,9 +3506,10 @@ msgstr "Nylea's Emissary (Emisariusz Nylei)"
 # bcadbdd380744d239e3fd27991dd0a5a
 # 48b68902eb6a47088bf637819a591376
 #: ../../THS.rst:927
+#, fuzzy
 msgid ""
-"Bestow |mana_5| |mana_g| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_5|\\ |mana_g| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdaruj |mana_5| |mana_g| (Jeśli zagrasz tę kartę za koszt obdarowania, jest "
@@ -3545,8 +3590,9 @@ msgstr "Polukranos, World Eater (Polukranos, Pożeracz Świata)"
 # 16b47721c2ca48f19eb525d4c41bab43
 # 5db4255c064c49eb8be740656db37c28
 #: ../../THS.rst:955
+#, fuzzy
 msgid ""
-"|mana_x| |mana_x| |mana_g|: Monstrosity X. (If this creature isn't "
+"|mana_x|\\ |mana_x|\\ |mana_g|: Monstrosity X. (If this creature isn't "
 "monstrous, put X +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_x| |mana_x| |mana_g|: Monstrualność X. (Jeśli ten stwór nie jest "
@@ -3580,8 +3626,8 @@ msgid ""
 "on it equal to your devotion to green. (Each |mana_g| in the mana costs of "
 "permanents you control counts toward your devotion to green.)"
 msgstr ""
-"Kiedy Reverent Hunter wchodzi na pole walki, umieść na nim tyle znaczników +"
-"1/+1, ile wynosi twój kult zielonego. (Każda |mana_g| w kosztach many "
+"Kiedy Reverent Hunter wchodzi na pole walki, umieść na nim tyle znaczników "
+"+1/+1, ile wynosi twój kult zielonego. (Każda |mana_g| w kosztach many "
 "permanentów, którymi władasz wlicza się do twojego kultu zielonego.)"
 
 # d03ef3b806f94593acb4e5e799374022
@@ -3594,7 +3640,7 @@ msgstr "Satyr Hedonist (Satyr Hedonista)"
 # b25bc2794197496f99b66c07a5fa6b00
 #: ../../THS.rst:965
 #, fuzzy
-msgid "|mana_r|, Sacrifice Satyr Hedonist: Add |mana_r| |mana_r| |mana_r|."
+msgid "|mana_r|, Sacrifice Satyr Hedonist: Add |mana_r|\\ |mana_r|\\ |mana_r|."
 msgstr ""
 "|mana_r|, poświęć Satyra Hedonistę: Dodaj |mana_r| |mana_r| |mana_r| do "
 "twojej puli many."
@@ -3608,7 +3654,8 @@ msgstr "Satyr Piper (Satyr Flecista)"
 # aa1d1cb3aa5c4c288d6b6b1aa3dca6c4
 # 917f742ad4e54440b473ce7686101258
 #: ../../THS.rst:969
-msgid "|mana_3| |mana_g|: Target creature must be blocked this turn if able."
+#, fuzzy
+msgid "|mana_3|\\ |mana_g|: Target creature must be blocked this turn if able."
 msgstr ""
 "|mana_3| |mana_g|: Wskazany stwór musi być blokowany w tej turze, jeśli to "
 "możliwe."
@@ -3731,8 +3778,8 @@ msgid ""
 "Until end of turn, up to two target creatures you control each gain "
 "\"Whenever this creature deals combat damage to a player, draw a card.\""
 msgstr ""
-"Do końca tury najwyżej dwa wskazane stwory, którymi władasz, dostają \""
-"Ilekroć ten stwór zadaje graczowi obrażenia bitewne, dobierz kartę.\""
+"Do końca tury najwyżej dwa wskazane stwory, którymi władasz, dostają "
+"\"Ilekroć ten stwór zadaje graczowi obrażenia bitewne, dobierz kartę.\""
 
 # ed4881f03ca940b79ab8bff276cc0940
 # 13074b861ea74113ae2acf5503b4e8a0
@@ -3915,8 +3962,9 @@ msgstr "Fleecemane Lion"
 # c1ecea8007a143c391667f10432f408a
 # 201a724b24a74ab6846c95c095634100
 #: ../../THS.rst:1053
+#, fuzzy
 msgid ""
-"|mana_3| |mana_g| |mana_w|: Monstrosity 1. (If this creature isn't "
+"|mana_3|\\ |mana_g|\\ |mana_w|: Monstrosity 1. (If this creature isn't "
 "monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
 msgstr ""
 "|mana_3| |mana_g| |mana_w|: Monstrualność 1. (Jeśli ten stwór nie jest "
@@ -4027,8 +4075,9 @@ msgstr "Tratowanie, ochrona przed urokami"
 # 1c678cb4260e42189acc5bafcecaaf4d
 # dcc5d94ec2d24e45b84b66311f7151d9
 #: ../../THS.rst:1087
+#, fuzzy
 msgid ""
-"|mana_4| |mana_r| |mana_g|: Monstrosity 3. (If this creature isn't "
+"|mana_4|\\ |mana_r|\\ |mana_g|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_4| |mana_r| |mana_g|: Monstrualność 3. (Jeśli ten stwór nie jest "
@@ -4114,8 +4163,9 @@ msgstr "|mana_b|: Reaper of the Wilds dostaje dotyk śmierci do końca tury."
 # 1348f6ae40b345749649c990df290a45
 # 14ab8674224048c08b1bd4fcd4e7cbcd
 #: ../../THS.rst:1107
+#, fuzzy
 msgid ""
-"|mana_1| |mana_g|: Reaper of the Wilds gains hexproof until end of turn."
+"|mana_1|\\ |mana_g|: Reaper of the Wilds gains hexproof until end of turn."
 msgstr ""
 "|mana_1| |mana_g|: Reaper of the Wilds dostaje antyklątwę do końca tury."
 
@@ -4135,7 +4185,8 @@ msgstr "Latanie, czujność"
 # 24042dd47f914a9f8f6a6882a50f54ce
 # 705cffb2b074437b8bcbaf8c71d60a0d
 #: ../../THS.rst:1113
-msgid "|mana_w| |mana_b|, Pay 3 life: Regenerate Sentry of the Underworld."
+#, fuzzy
+msgid "|mana_w|\\ |mana_b|, Pay 3 life: Regenerate Sentry of the Underworld."
 msgstr ""
 "|mana_w| |mana_b|, zapłać 3 życia: Zregeneruj Sentry of the Underworld."
 
@@ -4149,9 +4200,10 @@ msgstr "Shipwreck Singer"
 # 4e59029c17d34579aaba4be206fe7aed
 # 1861ab931b7f4ba9a07c12fd5a61d1f5
 #: ../../THS.rst:1119
+#, fuzzy
 msgid ""
-"|mana_1| |mana_u|: Target creature an opponent controls attacks this turn if "
-"able."
+"|mana_1|\\ |mana_u|: Target creature an opponent controls attacks this turn "
+"if able."
 msgstr ""
 "|mana_1| |mana_u|: Wskazany stwór władany przez przeciwnika atakuje w tej "
 "turze jeśli może."
@@ -4159,8 +4211,9 @@ msgstr ""
 # 5c7be854b4e7486680de868eac406a22
 # 6766a595f4a44472aac63f2b3f6795e7
 #: ../../THS.rst:1121
+#, fuzzy
 msgid ""
-"|mana_1| |mana_b|, |tap|: Attacking creatures get -1/-1 until end of turn."
+"|mana_1|\\ |mana_b|, |tap|: Attacking creatures get -1/-1 until end of turn."
 msgstr ""
 "|mana_1| |mana_b|, |tap|: Atakujące stwory dostają -1/-1 do końca tury."
 
@@ -4245,7 +4298,7 @@ msgstr "Tymaret, the Murder King (Tymaret, Król Mordu)"
 #: ../../THS.rst:1143
 #, fuzzy
 msgid ""
-"|mana_1| |mana_r|, Sacrifice another creature: Tymaret, the Murder King "
+"|mana_1|\\ |mana_r|, Sacrifice another creature: Tymaret, the Murder King "
 "deals 2 damage to target player or planeswalker."
 msgstr ""
 "|mana_1| |mana_r|, poświęć innego stwora: Tymaret, the Murder King zadaje 2 "
@@ -4254,9 +4307,10 @@ msgstr ""
 # 4fadf7931ee74964b914eb34184d0c01
 # 84d283612e8d4b77a4690c3c174cead9
 #: ../../THS.rst:1145
+#, fuzzy
 msgid ""
-"|mana_1| |mana_b|, Sacrifice a creature: Return Tymaret from your graveyard "
-"to your hand."
+"|mana_1|\\ |mana_b|, Sacrifice a creature: Return Tymaret from your "
+"graveyard to your hand."
 msgstr ""
 "|mana_1| |mana_b|, poświęć stwora: Przywróć Tymaret z twojego cmentarza do "
 "twojej ręki."
