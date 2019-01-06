@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2019-01-01 01:24+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c13/pl/>\n"
@@ -87,9 +87,10 @@ msgstr "Latanie"
 
 # d78deae43c8c4a48bc1069a4e358c915
 #: ../../C13.rst:17
+#, fuzzy
 msgid ""
-"|mana_1| |mana_g| |mana_u|: Creatures you control gain shroud until end of "
-"turn. (They can't be the targets of spells or abilities.)"
+"|mana_1|\\ |mana_g|\\ |mana_u|: Creatures you control gain shroud until end "
+"of turn. (They can't be the targets of spells or abilities.)"
 msgstr ""
 "|mana_1| |mana_g| |mana_u|: Stwory, którymi władasz, zyskują antymagię do "
 "końca tury. (Nie mogą być wskazywane przez czary lub zdolności.)"
@@ -154,12 +155,12 @@ msgstr ""
 msgid "Cradle of Vitality"
 msgstr ""
 
-# 915dbeca919147ffad79427666897f25
 #: ../../C13.rst:43
+#, fuzzy
 msgid ""
-"Whenever you gain life, you may pay |mana_1| |mana_w|. If you do, put a +1/"
+"Whenever you gain life, you may pay |mana_1|\\ |mana_w|. If you do, put a +1/"
 "+1 counter on target creature for each 1 life you gained."
-msgstr ""
+msgstr "Ilekroć zyskujesz życie, możesz położyć znacznik +1/+1 na tym stworze."
 
 # cfbc1310ca2c4fa4b206c3febf83d37a
 #: ../../C13.rst:50
@@ -207,10 +208,9 @@ msgstr ""
 msgid "Eternal Dragon"
 msgstr ""
 
-# e0e8b29aef254deca69f192aa0c35c38
 #: ../../C13.rst:61
 msgid ""
-"|mana_3| |mana_w| |mana_w|: Return Eternal Dragon from your graveyard to "
+"|mana_3|\\ |mana_w|\\ |mana_w|: Return Eternal Dragon from your graveyard to "
 "your hand. Activate this ability only during your upkeep."
 msgstr ""
 
@@ -249,12 +249,11 @@ msgstr ""
 msgid "Flickerform"
 msgstr ""
 
-# 4ca14c92c03244caafa5e8a05804b33a
 #: ../../C13.rst:75
 msgid ""
-"|mana_2| |mana_w| |mana_w|: Exile enchanted creature and all Auras attached "
-"to it. At the beginning of the next end step, return that card to the "
-"battlefield under its owner's control. If you do, return the other cards "
+"|mana_2|\\ |mana_w|\\ |mana_w|: Exile enchanted creature and all Auras "
+"attached to it. At the beginning of the next end step, return that card to "
+"the battlefield under its owner's control. If you do, return the other cards "
 "exiled this way to the battlefield under their owners' control attached to "
 "that creature."
 msgstr ""
@@ -282,12 +281,11 @@ msgstr ""
 msgid "Flying, protection from black"
 msgstr ""
 
-# 5b0f9b976bec4b71b820a67c8208f86b
 #: ../../C13.rst:87
 msgid ""
-"Echo |mana_3| |mana_w| |mana_w| (At the beginning of your upkeep, if this "
-"came under your control since the beginning of your last upkeep, sacrifice "
-"it unless you pay its echo cost.)"
+"Echo |mana_3|\\ |mana_w|\\ |mana_w| (At the beginning of your upkeep, if "
+"this came under your control since the beginning of your last upkeep, "
+"sacrifice it unless you pay its echo cost.)"
 msgstr ""
 
 # 3b20b6f30b9347c99b2ba06ec2dc544c
@@ -629,12 +627,15 @@ msgstr ""
 msgid "Target player draws two cards."
 msgstr ""
 
-# 89b8bebcd6c14e3c8b22ff34f8c31f6b
+# 4dc371cb4d4a420db836abecf46c4361
 #: ../../C13.rst:219
+#, fuzzy
 msgid ""
-"Flashback—|mana_1| |mana_u|, Pay 3 life. (You may cast this card from your "
+"Flashback—|mana_1|\\ |mana_u|, Pay 3 life. (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b|  (Możesz rzucić tę kartę z "
+"cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 4783e69f7ca949fa80b24a8435341dbe
 #: ../../C13.rst:226
@@ -695,11 +696,10 @@ msgstr ""
 msgid "Echo Mage"
 msgstr ""
 
-# bc84c8018731482dbe00d3312ceb71b9
 #: ../../C13.rst:245
 msgid ""
-"Level up |mana_1| |mana_u| (|mana_1| |mana_u|: Put a level counter on this. "
-"Level up only as a sorcery.)"
+"Level up |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|: Put a level counter on "
+"this. Level up only as a sorcery.)"
 msgstr ""
 
 # 449644af0efd4586bfce2990702aa9c5
@@ -712,10 +712,9 @@ msgstr ""
 msgid "2/4"
 msgstr ""
 
-# 506eb646879148c3a98c6e18cb0510b5
 #: ../../C13.rst:251
 msgid ""
-"|mana_u| |mana_u|, |tap|: Copy target instant or sorcery spell. You may "
+"|mana_u|\\ |mana_u|, |tap|: Copy target instant or sorcery spell. You may "
 "choose new targets for the copy."
 msgstr ""
 
@@ -729,10 +728,9 @@ msgstr ""
 msgid "2/5"
 msgstr ""
 
-# 1fd4f64082ac4ceda26effe13f684a44
 #: ../../C13.rst:257
 msgid ""
-"|mana_u| |mana_u|, |tap|: Copy target instant or sorcery spell twice. You "
+"|mana_u|\\ |mana_u|, |tap|: Copy target instant or sorcery spell twice. You "
 "may choose new targets for the copies."
 msgstr ""
 
@@ -761,11 +759,10 @@ msgstr ""
 msgid "Hada Spy Patrol"
 msgstr ""
 
-# e656173db4e54ca28b40df0b83c8579a
 #: ../../C13.rst:273
 msgid ""
-"Level up |mana_2| |mana_u| (|mana_2| |mana_u|: Put a level counter on this. "
-"Level up only as a sorcery.)"
+"Level up |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|: Put a level counter on "
+"this. Level up only as a sorcery.)"
 msgstr ""
 
 # 3252d087fcfe4295af370fe89e0439d2
@@ -913,12 +910,11 @@ msgstr "Każdy gracz dobiera X kart."
 msgid "Raven Familiar"
 msgstr ""
 
-# 3918299e29e74c08bee556b1a5d6a098
 #: ../../C13.rst:331
 msgid ""
-"Echo |mana_2| |mana_u| (At the beginning of your upkeep, if this came under "
-"your control since the beginning of your last upkeep, sacrifice it unless "
-"you pay its echo cost.)"
+"Echo |mana_2|\\ |mana_u| (At the beginning of your upkeep, if this came "
+"under your control since the beginning of your last upkeep, sacrifice it "
+"unless you pay its echo cost.)"
 msgstr ""
 
 # f6558b9ceb2446a5847459d04ce5fc29
@@ -945,12 +941,11 @@ msgstr ""
 msgid "Skyscribing"
 msgstr ""
 
-# 3df5089e2e47434b999a3d6dc71582b8
 #: ../../C13.rst:345
 msgid ""
-"Forecast — |mana_2| |mana_u|, Reveal Skyscribing from your hand: Each player "
-"draws a card. (Activate this ability only during your upkeep and only once "
-"each turn.)"
+"Forecast — |mana_2|\\ |mana_u|, Reveal Skyscribing from your hand: Each "
+"player draws a card. (Activate this ability only during your upkeep and only "
+"once each turn.)"
 msgstr ""
 
 # 22dfcd9314a249a3991009ea564c260d
@@ -962,8 +957,8 @@ msgstr ""
 #: ../../C13.rst:349
 #, fuzzy
 msgid ""
-"Kicker |mana_w| and/or |mana_2| |mana_b| (You may pay an additional |mana_w| "
-"and/or |mana_2| |mana_b| as you cast this spell.)"
+"Kicker |mana_w| and/or |mana_2|\\ |mana_b| (You may pay an additional |"
+"mana_w| and/or |mana_2|\\ |mana_b| as you cast this spell.)"
 msgstr ""
 "Podbicie |mana_r| (Możesz zapłacić dodatkowo |mana_r| podczas rzucania tego "
 "czaru.)"
@@ -975,11 +970,10 @@ msgid ""
 "|mana_w| kicker, you gain 3 life."
 msgstr ""
 
-# 378c043cd0864b599ce1fa37ef2dc1af
 #: ../../C13.rst:353
 msgid ""
 "When Stormscape Battlemage enters the battlefield, if it was kicked with its "
-"|mana_2| |mana_b| kicker, destroy target nonblack creature. That creature "
+"|mana_2|\\ |mana_b| kicker, destroy target nonblack creature. That creature "
 "can't be regenerated."
 msgstr ""
 
@@ -1113,14 +1107,15 @@ msgstr "Army of the Damned (Armia Potępionych)"
 #, fuzzy
 msgid "Create thirteen tapped 2/2 black Zombie creature tokens."
 msgstr ""
-"Umieść na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi 2/"
-"2."
+"Umieść na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi "
+"2/2."
 
 # 4dc371cb4d4a420db836abecf46c4361
 #: ../../C13.rst:409
+#, fuzzy
 msgid ""
-"Flashback |mana_7| |mana_b| |mana_b| |mana_b| (You may cast this card from "
-"your graveyard for its flashback cost. Then exile it.)"
+"Flashback |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (You may cast this card "
+"from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 "Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b|  (Możesz rzucić tę kartę z "
 "cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
@@ -1158,12 +1153,15 @@ msgid ""
 "creature destroyed this way."
 msgstr ""
 
-# 6bb950284b0d4cf1abddfe83a1aca45c
+# 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:425
+#, fuzzy
 msgid ""
-"Cycling |mana_3| |mana_b| |mana_b| (|mana_3| |mana_b| |mana_b|, Discard this "
-"card: Draw a card.)"
+"Cycling |mana_3|\\ |mana_b|\\ |mana_b| (|mana_3|\\ |mana_b|\\ |mana_b|, "
+"Discard this card: Draw a card.)"
 msgstr ""
+"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 # 90dfc073005a477dbac86290c3307ea7
 #: ../../C13.rst:427
@@ -1185,8 +1183,9 @@ msgstr ""
 
 # 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:433
+#, fuzzy
 msgid ""
-"Cycling |mana_1| |mana_b| (|mana_1| |mana_b|, Discard this card: Draw a "
+"Cycling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Discard this card: Draw a "
 "card.)"
 msgstr ""
 "Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
@@ -1320,9 +1319,8 @@ msgstr ""
 msgid "Blue spells and red spells you cast cost |mana_1| less to cast."
 msgstr ""
 
-# 2ba8fe3dac664836a80a5479fbcaec26
 #: ../../C13.rst:483
-msgid "|mana_1| |mana_b|: Regenerate Nightscape Familiar."
+msgid "|mana_1|\\ |mana_b|: Regenerate Nightscape Familiar."
 msgstr ""
 
 # 2a6b6d0fefd246bc9b6c242392e0ef41
@@ -1352,11 +1350,12 @@ msgstr ""
 
 # a6865b3ac2074e08b66f1c2ab1adb408
 #: ../../C13.rst:493
+#, fuzzy
 msgid ""
-"Suspend 5—|mana_1| |mana_b| (Rather than cast this card from your hand, you "
-"may pay |mana_1| |mana_b| and exile it with five time counters on it. At the "
-"beginning of your upkeep, remove a time counter. When the last is removed, "
-"cast it without paying its mana cost.)"
+"Suspend 5—|mana_1|\\ |mana_b| (Rather than cast this card from your hand, "
+"you may pay |mana_1|\\ |mana_b| and exile it with five time counters on it. "
+"At the beginning of your upkeep, remove a time counter. When the last is "
+"removed, cast it without paying its mana cost.)"
 msgstr ""
 "Zawieszenie 5 — |mana_1| |mana_b| (Zamiast rzucać ten czar z ręki, możesz "
 "zapłacić |mana_1| |mana_b| i wypędzić go z pięcioma znacznikami czasu. Na "
@@ -1395,8 +1394,9 @@ msgstr ""
 
 # d198f92a685445b8a36e9398093a758a
 #: ../../C13.rst:505
+#, fuzzy
 msgid ""
-"|mana_1| |mana_b|, Pay 2 life: Return target creature card from your "
+"|mana_1|\\ |mana_b|, Pay 2 life: Return target creature card from your "
 "graveyard to your hand."
 msgstr ""
 "|mana_1| |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z twojego "
@@ -1527,10 +1527,9 @@ msgid ""
 "At the beginning of your upkeep, you may put a verse counter on Vile Requiem."
 msgstr ""
 
-# ecbb890257d94f7089e5426bafcc4b3d
 #: ../../C13.rst:553
 msgid ""
-"|mana_1| |mana_b|, Sacrifice Vile Requiem: Destroy up to X target nonblack "
+"|mana_1|\\ |mana_b|, Sacrifice Vile Requiem: Destroy up to X target nonblack "
 "creatures, where X is the number of verse counters on Vile Requiem. They "
 "can't be regenerated."
 msgstr ""
@@ -1567,7 +1566,7 @@ msgstr ""
 
 #: ../../C13.rst:565
 msgid ""
-"|mana_1| |mana_r|, Sacrifice a creature: Blood Rites deals 2 damage to any "
+"|mana_1|\\ |mana_r|, Sacrifice a creature: Blood Rites deals 2 damage to any "
 "target."
 msgstr ""
 
@@ -1608,12 +1607,11 @@ msgstr ""
 msgid "Crater Hellion"
 msgstr ""
 
-# 9033490049234393bb832caef7382269
 #: ../../C13.rst:579
 msgid ""
-"Echo |mana_4| |mana_r| |mana_r| (At the beginning of your upkeep, if this "
-"came under your control since the beginning of your last upkeep, sacrifice "
-"it unless you pay its echo cost.)"
+"Echo |mana_4|\\ |mana_r|\\ |mana_r| (At the beginning of your upkeep, if "
+"this came under your control since the beginning of your last upkeep, "
+"sacrifice it unless you pay its echo cost.)"
 msgstr ""
 
 # f42631b918cb4fd7ba7186711117de34
@@ -1859,12 +1857,15 @@ msgstr ""
 msgid "Slice and Dice deals 4 damage to each creature."
 msgstr ""
 
-# 7ec7cffb20b2473ba77e376fa55f7e79
+# 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:673
+#, fuzzy
 msgid ""
-"Cycling |mana_2| |mana_r| (|mana_2| |mana_r|, Discard this card: Draw a "
+"Cycling |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 # f4723785ef814f139b5d9be2c0f742b5
 #: ../../C13.rst:675
@@ -1885,10 +1886,9 @@ msgid ""
 "creature."
 msgstr ""
 
-# 5a13f05ca8534b0395a9c3c246d22276
 #: ../../C13.rst:681
 msgid ""
-"Evoke |mana_1| |mana_r| |mana_r| (You may cast this spell for its evoke "
+"Evoke |mana_1|\\ |mana_r|\\ |mana_r| (You may cast this spell for its evoke "
 "cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 
@@ -1939,9 +1939,9 @@ msgstr ""
 
 #: ../../C13.rst:699
 msgid ""
-"Overload |mana_x| |mana_x| |mana_r| |mana_r| (You may cast this spell for "
-"its overload cost. If you do, change its text by replacing all instances of "
-"\"target\" with \"each.\")"
+"Overload |mana_x|\\ |mana_x|\\ |mana_r|\\ |mana_r| (You may cast this spell "
+"for its overload cost. If you do, change its text by replacing all instances "
+"of \"target\" with \"each.\")"
 msgstr ""
 
 # 034b61c2ef2b46088c087b4f2463829f
@@ -1998,8 +1998,8 @@ msgstr ""
 
 #: ../../C13.rst:719
 msgid ""
-"|mana_x| |mana_r|: This turn, creatures can't block unless their controller "
-"pays |mana_x| for each blocking creature they control."
+"|mana_x|\\ |mana_r|: This turn, creatures can't block unless their "
+"controller pays |mana_x| for each blocking creature they control."
 msgstr ""
 
 # b4d4cd7c67e74a1898bddfd4fefbb86a
@@ -2238,10 +2238,10 @@ msgstr "|tap|: Dostajesz |colorless|."
 msgid "Elvish Skysweeper"
 msgstr ""
 
-# 2d1b3881f3ff492a93f06d0422960548
 #: ../../C13.rst:793
 msgid ""
-"|mana_4| |mana_g|, Sacrifice a creature: Destroy target creature with flying."
+"|mana_4|\\ |mana_g|, Sacrifice a creature: Destroy target creature with "
+"flying."
 msgstr ""
 
 # 8dcdc73a48b144d1a5396769f3e71d98
@@ -2337,7 +2337,7 @@ msgid "Jade Mage"
 msgstr ""
 
 #: ../../C13.rst:827
-msgid "|mana_2| |mana_g|: Create a 1/1 green Saproling creature token."
+msgid "|mana_2|\\ |mana_g|: Create a 1/1 green Saproling creature token."
 msgstr ""
 
 # 8040f130a02d47799ea8d04580640911
@@ -2345,11 +2345,10 @@ msgstr ""
 msgid "Kazandu Tuskcaller"
 msgstr ""
 
-# 1cf18a7f2ee54289b944f3b7d75aa785
 #: ../../C13.rst:831
 msgid ""
-"Level up |mana_1| |mana_g| (|mana_1| |mana_g|: Put a level counter on this. "
-"Level up only as a sorcery.)"
+"Level up |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|: Put a level counter on "
+"this. Level up only as a sorcery.)"
 msgstr ""
 
 # e2746c68afd34565a42e443378203f2e
@@ -2392,12 +2391,15 @@ msgstr "Zniszcz wskazany artefakt lub urok."
 msgid "Krosan Tusker"
 msgstr ""
 
-# 383d5cc788fc4104ab3e28bb0f8ad9ce
+# 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:853
+#, fuzzy
 msgid ""
-"Cycling |mana_2| |mana_g| (|mana_2| |mana_g|, Discard this card: Draw a "
+"Cycling |mana_2|\\ |mana_g| (|mana_2|\\ |mana_g|, Discard this card: Draw a "
 "card.)"
 msgstr ""
+"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:855
@@ -2421,9 +2423,8 @@ msgstr ""
 msgid "Beast spells you cast cost |mana_1| less to cast."
 msgstr ""
 
-# ce0e5b48c5734e38af0158751e9ab059
 #: ../../C13.rst:861
-msgid "|mana_1| |mana_g|: Regenerate target Beast."
+msgid "|mana_1|\\ |mana_g|: Regenerate target Beast."
 msgstr ""
 
 # 8577498a19d6480398cae2ff3faedb2f
@@ -2431,12 +2432,15 @@ msgstr ""
 msgid "Mold Shambler"
 msgstr ""
 
-# ac406dd673ec4dc0bf07f9e7fe9a649a
+# 0d7b8d76cf5a4d039279d93302d665c0
 #: ../../C13.rst:865
+#, fuzzy
 msgid ""
-"Kicker |mana_1| |mana_g| (You may pay an additional |mana_1| |mana_g| as you "
-"cast this spell.)"
+"Kicker |mana_1|\\ |mana_g| (You may pay an additional |mana_1|\\ |mana_g| as "
+"you cast this spell.)"
 msgstr ""
+"Podbicie |mana_r| (Możesz zapłacić dodatkowo |mana_r| podczas rzucania tego "
+"czaru.)"
 
 # f4a7f24b6058450aa6e5acea53325be7
 #: ../../C13.rst:867
@@ -2495,10 +2499,10 @@ msgstr ""
 msgid "Create five 1/1 green Insect creature tokens."
 msgstr ""
 
-# 1de106a82bbe47448262161926433bfd
 #: ../../C13.rst:887
 msgid ""
-"Entwine |mana_g| |mana_g| |mana_g| (Choose both if you pay the entwine cost.)"
+"Entwine |mana_g|\\ |mana_g|\\ |mana_g| (Choose both if you pay the entwine "
+"cost.)"
 msgstr ""
 
 # dfa42a904201451a94b09a3616b23469
@@ -2646,11 +2650,10 @@ msgstr ""
 msgid "Reach"
 msgstr "Zasięg"
 
-# 4d2a9c4e2ddc465da22d76bd51621a6d
 #: ../../C13.rst:947
 msgid ""
-"|mana_x| |mana_g| |mana_g|: Silklash Spider deals X damage to each creature "
-"with flying."
+"|mana_x|\\ |mana_g|\\ |mana_g|: Silklash Spider deals X damage to each "
+"creature with flying."
 msgstr ""
 
 # c0f559ff642d434d9b12f871bcb36107
@@ -2732,11 +2735,10 @@ msgid ""
 "Elemental creature token."
 msgstr ""
 
-# f5e06a580bd44fa7b477737c78b36250
 #: ../../C13.rst:979
 msgid ""
-"Evoke |mana_4| |mana_g| (You may cast this spell for its evoke cost. If you "
-"do, it's sacrificed when it enters the battlefield.)"
+"Evoke |mana_4|\\ |mana_g| (You may cast this spell for its evoke cost. If "
+"you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 
 #: ../../C13.rst:984
@@ -2866,10 +2868,9 @@ msgstr ""
 msgid "Deepfire Elemental"
 msgstr ""
 
-# a1c352f037a241f3a1733222208052a7
 #: ../../C13.rst:1039
 msgid ""
-"|mana_x| |mana_x| |mana_1|: Destroy target artifact or creature with "
+"|mana_x|\\ |mana_x|\\ |mana_1|: Destroy target artifact or creature with "
 "converted mana cost X."
 msgstr ""
 
@@ -2886,11 +2887,10 @@ msgid ""
 "permanent."
 msgstr ""
 
-# 6bdcb4480e69461ca283757ce63af76f
 #: ../../C13.rst:1047
 msgid ""
-"|mana_1| |mana_g| |mana_w| |mana_u|: Put Derevi onto the battlefield from "
-"the command zone."
+"|mana_1|\\ |mana_g|\\ |mana_w|\\ |mana_u|: Put Derevi onto the battlefield "
+"from the command zone."
 msgstr ""
 
 # c4d6b17122594002b3cba8cf696692d8
@@ -3029,7 +3029,7 @@ msgstr ""
 
 #: ../../C13.rst:1121
 msgid ""
-"Enchanted land has \"|mana_g| |mana_u|, |tap|: Create a 2/2 green and blue "
+"Enchanted land has \"|mana_g|\\ |mana_u|, |tap|: Create a 2/2 green and blue "
 "Drake creature token with flying.\""
 msgstr ""
 
@@ -3080,13 +3080,12 @@ msgstr ""
 msgid "Mayael the Anima"
 msgstr ""
 
-# 6f35205d956c4265ae7f85ce09ca435c
 #: ../../C13.rst:1141
 msgid ""
-"|mana_3| |mana_r| |mana_g| |mana_w|, |tap|: Look at the top five cards of "
-"your library. You may put a creature card with power 5 or greater from among "
-"them onto the battlefield. Put the rest on the bottom of your library in any "
-"order."
+"|mana_3|\\ |mana_r|\\ |mana_g|\\ |mana_w|, |tap|: Look at the top five cards "
+"of your library. You may put a creature card with power 5 or greater from "
+"among them onto the battlefield. Put the rest on the bottom of your library "
+"in any order."
 msgstr ""
 
 # f631ea78ca044ed5a98da63cafab7b41
@@ -3138,15 +3137,17 @@ msgstr ""
 msgid "Nivix Guildmage"
 msgstr "Nivix Guildmage"
 
-# adfce21ac5894e858e2c6bc8eef28f1a
+# 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:1161
-msgid "|mana_1| |mana_u| |mana_r|: Draw a card, then discard a card."
+#, fuzzy
+msgid "|mana_1|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
 msgstr ""
+"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
-# 004367e4347a4638a7bfe3590df6d46f
 #: ../../C13.rst:1163
 msgid ""
-"|mana_2| |mana_u| |mana_r|: Copy target instant or sorcery spell you "
+"|mana_2|\\ |mana_u|\\ |mana_r|: Copy target instant or sorcery spell you "
 "control. You may choose new targets for the copy."
 msgstr ""
 
@@ -3308,25 +3309,22 @@ msgstr ""
 msgid "Shattergang Brothers"
 msgstr ""
 
-# 323e07097c21499a869f101b6f98693c
 #: ../../C13.rst:1227
 msgid ""
-"|mana_2| |mana_b|, Sacrifice a creature: Each other player sacrifices a "
+"|mana_2|\\ |mana_b|, Sacrifice a creature: Each other player sacrifices a "
 "creature."
 msgstr ""
 
-# 997d14aa9c7a4e7e9d9cc0a2078a61c5
 #: ../../C13.rst:1229
 msgid ""
-"|mana_2| |mana_r|, Sacrifice an artifact: Each other player sacrifices an "
+"|mana_2|\\ |mana_r|, Sacrifice an artifact: Each other player sacrifices an "
 "artifact."
 msgstr ""
 
-# 6373ed50614d4c9193dc2f24f445fdf5
 #: ../../C13.rst:1231
 msgid ""
-"|mana_2| |mana_g|, Sacrifice an enchantment: Each other player sacrifices an "
-"enchantment."
+"|mana_2|\\ |mana_g|, Sacrifice an enchantment: Each other player sacrifices "
+"an enchantment."
 msgstr ""
 
 # 4017e76b16fb4f9ab65066fe41334c65
@@ -3432,10 +3430,9 @@ msgid ""
 "power and toughness each equal to its converted mana cost until end of turn."
 msgstr ""
 
-# 663c99b580344699819e55d29a7d134b
 #: ../../C13.rst:1271
 msgid ""
-"|mana_w| |mana_b|: Target artifact creature gains deathtouch and lifelink "
+"|mana_w|\\ |mana_b|: Target artifact creature gains deathtouch and lifelink "
 "until end of turn."
 msgstr ""
 
@@ -3489,17 +3486,18 @@ msgstr ""
 msgid "Vizkopa Guildmage"
 msgstr "Vizkopa Guildmage"
 
-# e8fec6b4e83a4f86b0cb993ebf563d58
+# 3791fe90945e4dcdaa67a3ebfeaf4c33
 #: ../../C13.rst:1297
+#, fuzzy
 msgid ""
-"|mana_1| |mana_w| |mana_b|: Target creature gains lifelink until end of turn."
-msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_b|: Target creature gains lifelink until end of "
+"turn."
+msgstr "Ekwipowany stwór dostaje +2/+2 oraz ma więź życia oraz tratowanie."
 
-# b05b8480a0ea4c00aedf0403e0f39c7c
 #: ../../C13.rst:1299
 msgid ""
-"|mana_1| |mana_w| |mana_b|: Whenever you gain life this turn, each opponent "
-"loses that much life."
+"|mana_1|\\ |mana_w|\\ |mana_b|: Whenever you gain life this turn, each "
+"opponent loses that much life."
 msgstr ""
 
 # 9e6102e739474f6b8cac841b45564c1f
@@ -3540,28 +3538,31 @@ msgstr ""
 msgid "Golgari Guildmage"
 msgstr ""
 
-# 44efc55ebb1a493d90f7a834fc3a3871
+# d198f92a685445b8a36e9398093a758a
 #: ../../C13.rst:1321
+#, fuzzy
 msgid ""
-"|mana_4| |mana_b|, Sacrifice a creature: Return target creature card from "
+"|mana_4|\\ |mana_b|, Sacrifice a creature: Return target creature card from "
 "your graveyard to your hand."
 msgstr ""
+"|mana_1| |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z twojego "
+"cmentarza do twojej ręki."
 
-# be57a0829bfb43c2b3960a53873da4cc
 #: ../../C13.rst:1323
-msgid "|mana_4| |mana_g|: Put a +1/+1 counter on target creature."
-msgstr ""
+#, fuzzy
+msgid "|mana_4|\\ |mana_g|: Put a +1/+1 counter on target creature."
+msgstr "Umieść dwa znaczniki +1/+1 na wskazanym stworze."
 
 # 5c7e288e15544836915a634bf6ec0f48
 #: ../../C13.rst:1328
 msgid "Mistmeadow Witch"
 msgstr ""
 
-# 601e49252fd54a7ab6186d00e575d060
 #: ../../C13.rst:1327
 msgid ""
-"|mana_2| |mana_w| |mana_u|: Exile target creature. Return that card to the "
-"battlefield under its owner's control at the beginning of the next end step."
+"|mana_2|\\ |mana_w|\\ |mana_u|: Exile target creature. Return that card to "
+"the battlefield under its owner's control at the beginning of the next end "
+"step."
 msgstr ""
 
 # 3cb013423be24d81bb08b32c90fd3983
@@ -3592,13 +3593,14 @@ msgid "Selesnya Guildmage"
 msgstr ""
 
 #: ../../C13.rst:1339
-msgid "|mana_3| |mana_g|: Create a 1/1 green Saproling creature token."
+msgid "|mana_3|\\ |mana_g|: Create a 1/1 green Saproling creature token."
 msgstr ""
 
-# d4df41c859434cfa970fa62bfa0670cd
+# c14e0e501fb9403ab74ef577e02f7c51
 #: ../../C13.rst:1341
-msgid "|mana_3| |mana_w|: Creatures you control get +1/+1 until end of turn."
-msgstr ""
+#, fuzzy
+msgid "|mana_3|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
+msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 # 3300540b6b774241ac4f43e53a94a360
 #: ../../C13.rst:1348
@@ -3647,10 +3649,9 @@ msgstr "Azorius Keyrune"
 msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
-# f7189b4fa0c04aef819ea92f71e2ee72
 #: ../../C13.rst:1361
 msgid ""
-"|mana_w| |mana_u|: Azorius Keyrune becomes a 2/2 white and blue Bird "
+"|mana_w|\\ |mana_u|: Azorius Keyrune becomes a 2/2 white and blue Bird "
 "artifact creature with flying until end of turn."
 msgstr ""
 
@@ -3665,8 +3666,9 @@ msgid "Basalt Monolith doesn't untap during your untap step."
 msgstr ""
 
 #: ../../C13.rst:1367
-msgid "|tap|: Add |colorless| |colorless| |colorless|."
-msgstr ""
+#, fuzzy
+msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
+msgstr "|tap|: Dostajesz |colorless|."
 
 # 552073d7aa2e4c518ebae22d9042b2c1
 #: ../../C13.rst:1369
@@ -3915,11 +3917,10 @@ msgstr ""
 msgid "At the beginning of your upkeep, put a plague counter on Plague Boiler."
 msgstr ""
 
-# 1e77b60d12464b4389c65d1483e2baa4
 #: ../../C13.rst:1455
 msgid ""
-"|mana_1| |mana_b| |mana_g|: Put a plague counter on Plague Boiler or remove "
-"a plague counter from it."
+"|mana_1|\\ |mana_b|\\ |mana_g|: Put a plague counter on Plague Boiler or "
+"remove a plague counter from it."
 msgstr ""
 
 # 05508aecb9f146288a2f7ddc84276284
@@ -3960,7 +3961,7 @@ msgstr ""
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1469
 #, fuzzy
-msgid "|mana_1|, |tap|: Add |mana_g| |mana_w|."
+msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
 msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
 # 16ac9a96a20c4d1497d6424238eec295
@@ -3972,7 +3973,7 @@ msgstr ""
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1473
 #, fuzzy
-msgid "|mana_1|, |tap|: Add |mana_g| |mana_u|."
+msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_u|."
 msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
 
 # 64209a8424364d36aef8b9a2245c6585
@@ -3981,8 +3982,9 @@ msgid "Sol Ring"
 msgstr ""
 
 #: ../../C13.rst:1477
-msgid "|tap|: Add |colorless| |colorless|."
-msgstr ""
+#, fuzzy
+msgid "|tap|: Add |colorless|\\ |colorless|."
+msgstr "|tap|: Dostajesz |colorless|."
 
 # a85d0109b5c248fcb617bebbdc23ee78
 #: ../../C13.rst:1484
@@ -4212,7 +4214,7 @@ msgstr ""
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1563
 #, fuzzy
-msgid "|tap|: Add |mana_w| |mana_u|."
+msgid "|tap|: Add |mana_w|\\ |mana_u|."
 msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
 # d73f68d18f454e189838b22fcdebd824
@@ -4294,7 +4296,7 @@ msgstr ""
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1599
 #, fuzzy
-msgid "|tap|: Add |mana_r| |mana_w|."
+msgid "|tap|: Add |mana_r|\\ |mana_w|."
 msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
 # 39235b816467421e845fa8ca0d52bd2f
@@ -4331,10 +4333,9 @@ msgstr "|tap|: Dodaj jedną manę dowolnego koloru do swojej puli many."
 msgid "Contested Cliffs"
 msgstr ""
 
-# ca6bc1d86ad8467f9061c599a4c0ae15
 #: ../../C13.rst:1615
 msgid ""
-"|mana_r| |mana_g|, |tap|: Target Beast creature you control fights target "
+"|mana_r|\\ |mana_g|, |tap|: Target Beast creature you control fights target "
 "creature an opponent controls. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
@@ -4429,10 +4430,9 @@ msgstr ""
 msgid "|tap|: Add |mana_u|."
 msgstr "|tap|: Dostajesz |mana_u|."
 
-# 93a4757d924545f4865cf1a988237c3b
 #: ../../C13.rst:1653
 msgid ""
-"|mana_1| |mana_u|: Faerie Conclave becomes a 2/1 blue Faerie creature with "
+"|mana_1|\\ |mana_u|: Faerie Conclave becomes a 2/1 blue Faerie creature with "
 "flying until end of turn. It's still a land."
 msgstr ""
 
@@ -4493,7 +4493,7 @@ msgstr ""
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1675
 #, fuzzy
-msgid "|tap|: Add |mana_b| |mana_g|."
+msgid "|tap|: Add |mana_b|\\ |mana_g|."
 msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
 
 # 6dc05e2afeba4d35b4983f9d51c66f5f
@@ -4501,10 +4501,14 @@ msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
 msgid "Grim Backwoods"
 msgstr ""
 
-# ba4707257a884e7587785d080f2603fd
+# 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:1681
-msgid "|mana_2| |mana_b| |mana_g|, |tap|, Sacrifice a creature: Draw a card."
+#, fuzzy
+msgid ""
+"|mana_2|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice a creature: Draw a card."
 msgstr ""
+"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 # 12e0576389d646d7ae50151c9f261b4c
 #: ../../C13.rst:1688
@@ -4565,7 +4569,7 @@ msgstr ""
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1707
 #, fuzzy
-msgid "|tap|: Add |mana_u| |mana_r|."
+msgid "|tap|: Add |mana_u|\\ |mana_r|."
 msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
 
 # bf40d8b20471454a9e06c079a991c375
@@ -4673,7 +4677,7 @@ msgstr ""
 
 #: ../../C13.rst:1755
 msgid ""
-"|mana_1| |mana_r|, |tap|: Create a 0/1 red Kobold creature token named "
+"|mana_1|\\ |mana_r|, |tap|: Create a 0/1 red Kobold creature token named "
 "Kobolds of Kher Keep."
 msgstr ""
 
@@ -4809,7 +4813,7 @@ msgstr ""
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1815
 #, fuzzy
-msgid "|tap|: Add |mana_w| |mana_b|."
+msgid "|tap|: Add |mana_w|\\ |mana_b|."
 msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
 # 4527055bf50f4a509af417696a9767ac
@@ -4848,7 +4852,7 @@ msgstr ""
 # 028df60119664d69a7449f0ba8bbee3c
 #: ../../C13.rst:1829
 #, fuzzy
-msgid "|tap|: Add |mana_b| |mana_r|."
+msgid "|tap|: Add |mana_b|\\ |mana_r|."
 msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
 
 # d6aa8fec3a2a468bb5c993ca77ec42eb
@@ -4988,7 +4992,7 @@ msgstr ""
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1893
 #, fuzzy
-msgid "|tap|: Add |mana_g| |mana_w|."
+msgid "|tap|: Add |mana_g|\\ |mana_w|."
 msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
 # 79026daf44a2416592cbf39e69c033ab
@@ -5051,7 +5055,7 @@ msgstr ""
 
 #: ../../C13.rst:1927
 msgid ""
-"|tap|: Add |colorless| |colorless|. Activate this ability only if you "
+"|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you "
 "control five or more lands."
 msgstr ""
 
@@ -5122,7 +5126,7 @@ msgstr ""
 
 #: ../../C13.rst:1959
 msgid ""
-"|mana_2| |mana_g| |mana_w|, |tap|: Create a 1/1 green Saproling creature "
+"|mana_2|\\ |mana_g|\\ |mana_w|, |tap|: Create a 1/1 green Saproling creature "
 "token."
 msgstr ""
 

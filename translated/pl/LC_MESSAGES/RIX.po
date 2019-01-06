@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2018-12-31 16:27+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
@@ -167,7 +167,8 @@ msgstr "Imperial Ceratops"
 
 #: ../../RIX.rst:57
 msgid "Enrage — Whenever Imperial Ceratops is dealt damage, you gain 2 life."
-msgstr "Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, zyskujesz 2 życia."
+msgstr ""
+"Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, zyskujesz 2 życia."
 
 #: ../../RIX.rst:62
 #, fuzzy
@@ -459,7 +460,8 @@ msgstr ""
 "przez twoich przeciwników.)"
 
 #: ../../RIX.rst:171
-msgid "|mana_3| |mana_u|: Target Merfolk can't be blocked this turn."
+#, fuzzy
+msgid "|mana_3|\\ |mana_u|: Target Merfolk can't be blocked this turn."
 msgstr "|mana_3| |mana_u|: Wskazany Wodnik nie może być blokowany w tej turze."
 
 #: ../../RIX.rst:178
@@ -822,10 +824,11 @@ msgid "Timestream Navigator"
 msgstr "Timestream Navigator"
 
 #: ../../RIX.rst:321
+#, fuzzy
 msgid ""
-"|mana_2| |mana_u| |mana_u|, |tap|, Put Timestream Navigator on the bottom of "
-"its owner's library: Take an extra turn after this one. Activate this "
-"ability only if you have the city's blessing."
+"|mana_2|\\ |mana_u|\\ |mana_u|, |tap|, Put Timestream Navigator on the "
+"bottom of its owner's library: Take an extra turn after this one. Activate "
+"this ability only if you have the city's blessing."
 msgstr ""
 "|mana_2| |mana_u| |mana_u|, |tap|, umieść tę kartę na spodzie biblioteki jej "
 "właściciela: Dostajesz dodatkową turę zaraz po obecnej. Aktywuj tę zdolność "
@@ -1613,7 +1616,8 @@ msgid "Sun-Collared Raptor"
 msgstr "Sun-Collared Raptor"
 
 #: ../../RIX.rst:633
-msgid "|mana_2| |mana_r|: Sun-Collared Raptor gets +3/+0 until end of turn."
+#, fuzzy
+msgid "|mana_2|\\ |mana_r|: Sun-Collared Raptor gets +3/+0 until end of turn."
 msgstr "|mana_2| |mana_r|: Ten stwór dostaje +3/+0 do końca tury."
 
 #: ../../RIX.rst:638
@@ -1652,9 +1656,10 @@ msgid "Tilonalli's Summoner"
 msgstr "Tilonalli's Summoner"
 
 #: ../../RIX.rst:651
+#, fuzzy
 msgid ""
-"Whenever Tilonalli's Summoner attacks, you may pay |mana_x| |mana_r|. If you "
-"do, create X 1/1 red Elemental creature tokens that are tapped and "
+"Whenever Tilonalli's Summoner attacks, you may pay |mana_x|\\ |mana_r|. If "
+"you do, create X 1/1 red Elemental creature tokens that are tapped and "
 "attacking. At the beginning of the next end step, exile those tokens unless "
 "you have the city's blessing."
 msgstr ""
@@ -2127,12 +2132,13 @@ msgstr ""
 "czarów sztuczek ani obrzędów w ciągu następnej tury owego gracza."
 
 #: ../../RIX.rst:817
+#, fuzzy
 msgid ""
-"Whenever Azor attacks, you may pay |mana_x| |mana_w| |mana_u| |mana_u|. If "
-"you do, you gain X life and draw X cards."
+"Whenever Azor attacks, you may pay |mana_x|\\ |mana_w|\\ |mana_u|\\ |"
+"mana_u|. If you do, you gain X life and draw X cards."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić |mana_x| |mana_w| |mana_u| "
-"|mana_u|. Jeśli tak zrobisz, zyskujesz X życia i dobierasz X kart."
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_x| |mana_w| |mana_u| |"
+"mana_u|. Jeśli tak zrobisz, zyskujesz X życia i dobierasz X kart."
 
 #: ../../RIX.rst:826
 #, fuzzy
@@ -2202,9 +2208,10 @@ msgid "(Transforms from Hadana's Climb.)"
 msgstr "(Transformuje się z Hadana's Climb.)"
 
 #: ../../RIX.rst:849
+#, fuzzy
 msgid ""
-"|mana_1| |mana_g| |mana_u|, |tap|: Target creature you control gains flying "
-"and gets +X/+X until end of turn, where X is its power."
+"|mana_1|\\ |mana_g|\\ |mana_u|, |tap|: Target creature you control gains "
+"flying and gets +X/+X until end of turn, where X is its power."
 msgstr ""
 "|mana_1| |mana_g| |mana_u|, |tap|: Wskazany stwór pod twoim władaniem "
 "zyskuje do końca tury latanie oraz +X/+X, gdzie X jest jego siłą."
@@ -2265,8 +2272,9 @@ msgid "(Transforms from Journey to Eternity.)"
 msgstr "(Transformuje z Journey to Eternity.)"
 
 #: ../../RIX.rst:871
+#, fuzzy
 msgid ""
-"|mana_3| |mana_b| |mana_g|, |tap|: Return target creature card from your "
+"|mana_3|\\ |mana_b|\\ |mana_g|, |tap|: Return target creature card from your "
 "graveyard to the battlefield."
 msgstr ""
 "|mana_3| |mana_b| |mana_g|, |tap|: Przywróć wskazaną kartę stwora z twojego "
@@ -2278,8 +2286,9 @@ msgid "Jungle Creeper"
 msgstr "Jungle Creeper"
 
 #: ../../RIX.rst:875
+#, fuzzy
 msgid ""
-"|mana_3| |mana_b| |mana_g|: Return Jungle Creeper from your graveyard to "
+"|mana_3|\\ |mana_b|\\ |mana_g|: Return Jungle Creeper from your graveyard to "
 "your hand."
 msgstr ""
 "|mana_3| |mana_b| |mana_g|: Przywróć tę kartę z twojego cmentarza do twojej "
@@ -2308,8 +2317,8 @@ msgid ""
 "Tap five untapped Merfolk you control: Put a +1/+1 counter on each Merfolk "
 "you control."
 msgstr ""
-"Zatapuj pięć odtapowanych Wodników pod twoim władaniem: Umieść znacznik +1/+"
-"1 na każdym Wodniku pod twoim władaniem."
+"Zatapuj pięć odtapowanych Wodników pod twoim władaniem: Umieść znacznik +1/"
+"+1 na każdym Wodniku pod twoim władaniem."
 
 #: ../../RIX.rst:888
 #, fuzzy
@@ -2360,15 +2369,17 @@ msgid "(Transforms from Path of Mettle.)"
 msgstr "(Transformuje z Path of Meetle.)"
 
 #: ../../RIX.rst:905
+#, fuzzy
 msgid ""
-"|mana_1| |mana_r|, |tap|: Metzali, Tower of Triumph deals 2 damage to each "
+"|mana_1|\\ |mana_r|, |tap|: Metzali, Tower of Triumph deals 2 damage to each "
 "opponent."
 msgstr ""
 "|mana_1| |mana_r|, |tap|: Ta karta zadaje 2 obrażenia każdemu przeciwnikowi."
 
 #: ../../RIX.rst:907
+#, fuzzy
 msgid ""
-"|mana_2| |mana_w|, |tap|: Choose a creature at random that attacked this "
+"|mana_2|\\ |mana_w|, |tap|: Choose a creature at random that attacked this "
 "turn. Destroy that creature."
 msgstr ""
 "|mana_2| |mana_w|, |tap|: Wybierz losowo stwora, który atakował w tej turze. "
@@ -2380,9 +2391,10 @@ msgid "Profane Procession"
 msgstr "Profane Procession"
 
 #: ../../RIX.rst:911
+#, fuzzy
 msgid ""
-"|mana_3| |mana_w| |mana_b|: Exile target creature. Then if there are three "
-"or more cards exiled with Profane Procession, transform it."
+"|mana_3|\\ |mana_w|\\ |mana_b|: Exile target creature. Then if there are "
+"three or more cards exiled with Profane Procession, transform it."
 msgstr ""
 "|mana_3| |mana_w| |mana_b|: Wygnaj wskazanego stwora. Następnie jeśli co "
 "najmniej trzy karty wygnano z użyciem tej karty, transformuj ją."
@@ -2397,8 +2409,9 @@ msgid "(Transforms from Profane Procession.)"
 msgstr "(Transformuje z Profane Procession.)"
 
 #: ../../RIX.rst:919
+#, fuzzy
 msgid ""
-"|mana_2| |mana_w| |mana_b|, |tap|: Put a creature card exiled with this "
+"|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Put a creature card exiled with this "
 "permanent onto the battlefield under your control."
 msgstr ""
 "|mana_2| |mana_w| |mana_b|, |tap|: Umieść na polu walki pod twoim władaniem "
@@ -2486,8 +2499,8 @@ msgid ""
 "artifact: Add one mana of any color.\""
 msgstr ""
 "Ilekroć jeden lub więcej stworów pod twoim władaniem zadaje graczowi "
-"obrażenia bojowe, stwórz żeton bezkolorowego artefaktu Skarb ze zdolnością \""
-"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego koloru.\""
+"obrażenia bojowe, stwórz żeton bezkolorowego artefaktu Skarb ze zdolnością "
+"\"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego koloru.\""
 
 #: ../../RIX.rst:957
 msgid ""
@@ -2528,15 +2541,18 @@ msgstr ""
 "wszystkie lądy pod twoim władaniem."
 
 #: ../../RIX.rst:973
-msgid "|mana_2| |mana_r|: Zacama deals 3 damage to target creature."
+#, fuzzy
+msgid "|mana_2|\\ |mana_r|: Zacama deals 3 damage to target creature."
 msgstr "|mana_2| |mana_r|: Ten stwór zadaje 3 obrażenia wskazanemu stworowi."
 
 #: ../../RIX.rst:975
-msgid "|mana_2| |mana_g|: Destroy target artifact or enchantment."
+#, fuzzy
+msgid "|mana_2|\\ |mana_g|: Destroy target artifact or enchantment."
 msgstr "|mana_2| |mana_g|: Zniszcz wskazany artefakt lub urok."
 
 #: ../../RIX.rst:977
-msgid "|mana_2| |mana_w|: You gain 3 life."
+#, fuzzy
+msgid "|mana_2|\\ |mana_w|: You gain 3 life."
 msgstr "|mana_2| |mana_w|: Zyskujesz 3 życia."
 
 #: ../../RIX.rst:982

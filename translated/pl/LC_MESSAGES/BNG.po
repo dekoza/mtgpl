@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2019-01-01 01:24+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bng/pl/>\n"
@@ -67,7 +67,8 @@ msgstr "Czujność"
 # 17d0243fb5db4cdb847f235c89920dcb
 # 3603f64b8f7f4024826b9f2352310d49
 #: ../../BNG.rst:15
-msgid "|mana_2| |mana_r|: Creatures you control get +1/+0 until end of turn."
+#, fuzzy
+msgid "|mana_2|\\ |mana_r|: Creatures you control get +1/+0 until end of turn."
 msgstr ""
 "|mana_2| |mana_r|: Stwory, którymi władasz, dostają do końca tury +1/+0."
 
@@ -209,8 +210,9 @@ msgstr "Eidolon of Countless Battles (Eidolon Niezliczonych Bitew)"
 # 9eb188a7dd654b6c90839fa371f7c4b3
 # 50b2b8c97a1042a5abedcfbc263128bd
 #: ../../BNG.rst:47
+#, fuzzy
 msgid ""
-"Bestow |mana_2| |mana_w| |mana_w| (If you cast this card for its bestow "
+"Bestow |mana_2|\\ |mana_w|\\ |mana_w| (If you cast this card for its bestow "
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
@@ -294,7 +296,7 @@ msgstr "Zaurocz stwora"
 # 4706a965c6e34d209656180eafecd739
 #: ../../BNG.rst:59
 #, fuzzy
-msgid "Enchanted creature has \"|mana_1| |mana_w|, |tap|: You gain 3 life.\""
+msgid "Enchanted creature has \"|mana_1|\\ |mana_w|, |tap|: You gain 3 life.\""
 msgstr ""
 "Zauroczony stwór ma \\\"|mana_1| |mana_w|, |tap|: Zyskujesz 3 życia.\\\""
 
@@ -340,9 +342,10 @@ msgstr "Ghostblade Eidolon (Eidolon Duchowego Ostrza)"
 # 12a22382e7b34eea9a54e4a4d6d8af8e
 # f151b39063b64a6db1a16b1c9cbdb9a4
 #: ../../BNG.rst:71
+#, fuzzy
 msgid ""
-"Bestow |mana_5| |mana_w| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_5|\\ |mana_w| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdarowanie |mana_5| |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, "
@@ -393,7 +396,7 @@ msgstr "God-Favored General"
 #, fuzzy
 msgid ""
 "Inspired — Whenever God-Favored General becomes untapped, you may pay |"
-"mana_2| |mana_w|. If you do, create two 1/1 white Soldier enchantment "
+"mana_2|\\ |mana_w|. If you do, create two 1/1 white Soldier enchantment "
 "creature tokens."
 msgstr ""
 "Natchniony — Ilekroć God-Favored General zostaje odnzaczony, możesz zapłacić "
@@ -446,8 +449,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Hero of Iroas, put a +1/+1 "
 "counter on Hero of Iroas."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący Hero of Iroas, umieść znacznik +1/+"
-"1 na Hero of Iroas."
+"Heroizm — Ilekroć rzucasz czar wskazujący Hero of Iroas, umieść znacznik +1/"
+"+1 na Hero of Iroas."
 
 # fd83511b96f04981b2546f7e93e3e8ad
 # 606d1ce369e14555b519bbe20171a015
@@ -504,9 +507,10 @@ msgstr "Nyxborn Shieldmate"
 # 3ac24f23ee1746c5961caf1d275cf456
 # 67c317452b284ad39ad98e21e848970d
 #: ../../BNG.rst:117
+#, fuzzy
 msgid ""
-"Bestow |mana_2| |mana_w| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_2|\\ |mana_w| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdarowanie |mana_2| |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, "
@@ -675,12 +679,12 @@ msgstr "Aerie Worshippers"
 #: ../../BNG.rst:165
 #, fuzzy
 msgid ""
-"Inspired — Whenever Aerie Worshippers becomes untapped, you may pay |mana_2| "
-"|mana_u|. If you do, create a 2/2 blue Bird enchantment creature token with "
-"flying."
+"Inspired — Whenever Aerie Worshippers becomes untapped, you may pay |mana_2|"
+"\\ |mana_u|. If you do, create a 2/2 blue Bird enchantment creature token "
+"with flying."
 msgstr ""
-"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić "
-"|mana_2| |mana_u|. Jeśli tak zrobisz, stwórz żeton niebieskiego uroku stwora "
+"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić |"
+"mana_2| |mana_u|. Jeśli tak zrobisz, stwórz żeton niebieskiego uroku stwora "
 "Ptak 2/2 z lataniem."
 
 # 2db638134b6844cf918912d5c79e3f11
@@ -817,7 +821,7 @@ msgstr "Evanescent Intellect"
 #: ../../BNG.rst:209
 #, fuzzy
 msgid ""
-"Enchanted creature has \"|mana_1| |mana_u|, |tap|: Target player puts the "
+"Enchanted creature has \"|mana_1|\\ |mana_u|, |tap|: Target player puts the "
 "top three cards of their library into their graveyard.\""
 msgstr ""
 "Zauroczony stwór ma \\\"|mana_1| |mana_u|, |tap|: Wskazany gracz kładzie "
@@ -854,9 +858,10 @@ msgstr "Flitterstep Eidolon (Cichostępy Eidolon)"
 # f808c65fab55459280b5e549a6fa17b6
 # 3066b8d6eedb462e92d6f9aaff2fa95f
 #: ../../BNG.rst:217
+#, fuzzy
 msgid ""
-"Bestow |mana_5| |mana_u| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_5|\\ |mana_u| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdarowanie |mana_5| |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, "
@@ -952,8 +957,8 @@ msgstr ""
 #: ../../BNG.rst:239
 #, fuzzy
 msgid ""
-"|mana_u| |mana_u|, Sacrifice Mindreaver: Counter target spell with the same "
-"name as a card exiled with Mindreaver."
+"|mana_u|\\ |mana_u|, Sacrifice Mindreaver: Counter target spell with the "
+"same name as a card exiled with Mindreaver."
 msgstr ""
 "|mana_u| |mana_u|, poświęć Mindreaver: Skontruj wskazany czar o tej samej "
 "nazwie co karta wypędzona Mindreaverem."
@@ -979,9 +984,10 @@ msgstr "Nyxborn Triton"
 # f7909822acc64113b24c14ffab03fd96
 # a6c5cfa5a4034c13b6579c977fd6af83
 #: ../../BNG.rst:247
+#, fuzzy
 msgid ""
-"Bestow |mana_4| |mana_u| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_4|\\ |mana_u| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdarowanie |mana_4| |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, "
@@ -1209,8 +1215,9 @@ msgstr ""
 # d84919ac273c4716a66434aa2c304c0d
 # 757a537812294a2d84c7f35b72c3ef69
 #: ../../BNG.rst:307
+#, fuzzy
 msgid ""
-"|mana_3| |mana_u| |mana_u|: Target creature blocks Vortex Elemental this "
+"|mana_3|\\ |mana_u|\\ |mana_u|: Target creature blocks Vortex Elemental this "
 "turn if able."
 msgstr ""
 "|mana_3| |mana_u| |mana_u|: Wskazany stwór blokuje Wirołaka w tej turze "
@@ -1334,8 +1341,9 @@ msgstr "Champion of Stray Souls"
 # 5ccde7d7c55e4716ac36572666318bf9
 # 8e9e6e3754cf44039bea56aa33cf3d9e
 #: ../../BNG.rst:339
+#, fuzzy
 msgid ""
-"|mana_3| |mana_b| |mana_b|, |tap|, Sacrifice X other creatures: Return X "
+"|mana_3|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice X other creatures: Return X "
 "target creature cards from your graveyard to the battlefield."
 msgstr ""
 "|mana_3| |mana_b| |mana_b|, |tap|, poświęć X innych stworów: Przywróć X "
@@ -1344,8 +1352,9 @@ msgstr ""
 # 51697ba747af4c779d1615adb3b0653a
 # ea665fd53201488d98baf937372beff7
 #: ../../BNG.rst:341
+#, fuzzy
 msgid ""
-"|mana_5| |mana_b| |mana_b|: Put Champion of Stray Souls on top of your "
+"|mana_5|\\ |mana_b|\\ |mana_b|: Put Champion of Stray Souls on top of your "
 "library from your graveyard."
 msgstr ""
 "|mana_5| |mana_b| |mana_b|: Umieść Champion of Stray Souls na wierzchu "
@@ -1362,7 +1371,7 @@ msgstr "Claim of Erebos (Roszczenie Erebosa)"
 #: ../../BNG.rst:347
 #, fuzzy
 msgid ""
-"Enchanted creature has \"|mana_1| |mana_b|, |tap|: Target player loses 2 "
+"Enchanted creature has \"|mana_1|\\ |mana_b|, |tap|: Target player loses 2 "
 "life.\""
 msgstr ""
 "Zauroczony stwór ma \\\"|mana_1| |mana_b|, |tap|: Wskazany gracz traci dwa "
@@ -1400,8 +1409,9 @@ msgstr "|mana_b|, poświęć innego stwora: Zregeneruj Pożeracza Nadziei."
 # da502c714b7443b383197222817619d8
 # d564aa3dc67c49bbb454c12664d134cb
 #: ../../BNG.rst:359
+#, fuzzy
 msgid ""
-"|mana_2| |mana_b|, Sacrifice two other creatures: Destroy target creature."
+"|mana_2|\\ |mana_b|, Sacrifice two other creatures: Destroy target creature."
 msgstr "|mana_2| |mana_b|, poświęć dwa inne stwory: Zniszcz wskazanego stwora."
 
 # 1c2564e6c497464cb1502b900938772a
@@ -1494,11 +1504,11 @@ msgstr ""
 #: ../../BNG.rst:381
 #, fuzzy
 msgid ""
-"Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2| "
-"|mana_b|. If you do, create a 2/2 black Zombie enchantment creature token."
+"Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2|"
+"\\ |mana_b|. If you do, create a 2/2 black Zombie enchantment creature token."
 msgstr ""
-"Natchniony — Ilekroć Forlorn Pseudamma zostaje odznaczony, możesz zapłacić "
-"|mana_2| |mana_b|. Jeśli tak zrobisz, stwórz żeton czarnego uroku stwora "
+"Natchniony — Ilekroć Forlorn Pseudamma zostaje odznaczony, możesz zapłacić |"
+"mana_2| |mana_b|. Jeśli tak zrobisz, stwórz żeton czarnego uroku stwora "
 "Zombi 2/2."
 
 # 3f6aa0f81fde4acdb18a28ada7257762
@@ -1568,8 +1578,9 @@ msgstr "Herald of Torment (Herold Udręki)"
 # f9c2ea62654044cb869017e5264478cf
 # c1abd5c3bb814fdfb64590875918d71c
 #: ../../BNG.rst:401
+#, fuzzy
 msgid ""
-"Bestow |mana_3| |mana_b| |mana_b| (If you cast this card for its bestow "
+"Bestow |mana_3|\\ |mana_b|\\ |mana_b| (If you cast this card for its bestow "
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
@@ -1633,9 +1644,10 @@ msgstr "Nyxborn Eidolon"
 # c1850725cc3c4169ad83dadab1e104c6
 # 206741df98d4404c980edeadca4b9a66
 #: ../../BNG.rst:419
+#, fuzzy
 msgid ""
-"Bestow |mana_4| |mana_b| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_4|\\ |mana_b| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdarowanie |mana_4| |mana_b| (Jeśli zagrasz tę kartę za koszt obdarowania, "
@@ -1730,7 +1742,8 @@ msgstr ""
 # 3ded0a8bf9d24a5d9282c6a8820527d6
 # 31a0d557a79b4eea9fe469c4d3020c67
 #: ../../BNG.rst:441
-msgid "|mana_2| |mana_b|: Regenerate Servant of Tymaret."
+#, fuzzy
+msgid "|mana_2|\\ |mana_b|: Regenerate Servant of Tymaret."
 msgstr "|mana_2| |mana_b|: Zregeneruj Sługę Tymareta."
 
 # bc009165ee38406fa89a7c6a53aed86b
@@ -1759,9 +1772,10 @@ msgstr "Spiteful Returned"
 # 78d5f22defd74171bcf5b7133835a527
 # 46453e6de1b948e2a2b3ed68448fa596
 #: ../../BNG.rst:453
+#, fuzzy
 msgid ""
-"Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_3|\\ |mana_b| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdarowanie |mana_3| |mana_b| (Jeśli zagrasz tę kartę za koszt obdarowania, "
@@ -1916,9 +1930,10 @@ msgstr "Everflame Eidolon (Eidolon Wiecznego Ognia)"
 # 3c4c072935c44cd89bc40f11689e0dfa
 # 53c0390032b04265b13697cfc3462e91
 #: ../../BNG.rst:495
+#, fuzzy
 msgid ""
-"Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_2|\\ |mana_r| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdarowanie |mana_2| |mana_r| (Jeśli zagrasz tę kartę za koszt obdarowania, "
@@ -1985,7 +2000,7 @@ msgstr "Fearsome Temper (Straszliwy Temperament)"
 #: ../../BNG.rst:513
 #, fuzzy
 msgid ""
-"Enchanted creature gets +2/+2 and has \"|mana_2| |mana_r|: Target creature "
+"Enchanted creature gets +2/+2 and has \"|mana_2|\\ |mana_r|: Target creature "
 "can't block this creature this turn.\""
 msgstr ""
 "Zauroczony stwór dostaje +2/+2 i ma \\\"|mana_2| |mana_r|: Wskazany stwór "
@@ -2004,9 +2019,9 @@ msgstr "Felhide Spiritbinder"
 #, fuzzy
 msgid ""
 "Inspired — Whenever Felhide Spiritbinder becomes untapped, you may pay |"
-"mana_1| |mana_r|. If you do, create a token that's a copy of another target "
-"creature, except it's an enchantment in addition to its other types. It "
-"gains haste. Exile it at the beginning of the next end step."
+"mana_1|\\ |mana_r|. If you do, create a token that's a copy of another "
+"target creature, except it's an enchantment in addition to its other types. "
+"It gains haste. Exile it at the beginning of the next end step."
 msgstr ""
 "Natchniony — Ilekroć Felhide Spiritbinder zostaje odznaczony, możesz "
 "zapłacić |mana_1| |mana_r|. Jeśli tak zrobisz, stwórz żeton będący kopią "
@@ -2045,7 +2060,7 @@ msgstr "Forgestoker Dragon"
 #: ../../BNG.rst:531
 #, fuzzy
 msgid ""
-"|mana_1| |mana_r|: Forgestoker Dragon deals 1 damage to target creature. "
+"|mana_1|\\ |mana_r|: Forgestoker Dragon deals 1 damage to target creature. "
 "That creature can't block this combat. Activate this ability only if "
 "Forgestoker Dragon is attacking."
 msgstr ""
@@ -2118,9 +2133,10 @@ msgstr "Nyxborn Rollicker"
 # d4517b945aaa44bdae7eb848df18c5d0
 # a28e41367bed41358bac444ec0b02b8b
 #: ../../BNG.rst:549
+#, fuzzy
 msgid ""
-"Bestow |mana_1| |mana_r| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_1|\\ |mana_r| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdarowanie |mana_1| |mana_r| (Jeśli zagrasz tę kartę za koszt obdarowania, "
@@ -2240,12 +2256,12 @@ msgstr "Satyr Nyx-Smith"
 #: ../../BNG.rst:587
 #, fuzzy
 msgid ""
-"Inspired — Whenever Satyr Nyx-Smith becomes untapped, you may pay |mana_2| |"
-"mana_r|. If you do, create a 3/1 red Elemental enchantment creature token "
+"Inspired — Whenever Satyr Nyx-Smith becomes untapped, you may pay |mana_2|\\ "
+"|mana_r|. If you do, create a 3/1 red Elemental enchantment creature token "
 "with haste."
 msgstr ""
-"Natchniony — Ilekroć Satyr Nyx-Smith zostaje odznaczony, możesz zapłacić "
-"|mana_2| |mana_r|. Jeśli tak zrobisz, stwórz żeton czerwonego uroku-stwora "
+"Natchniony — Ilekroć Satyr Nyx-Smith zostaje odznaczony, możesz zapłacić |"
+"mana_2| |mana_r|. Jeśli tak zrobisz, stwórz żeton czerwonego uroku-stwora "
 "Żywiołak z pośpiechem."
 
 # 69e08f0dc38a432abeef2a0b0e12a5c4
@@ -2290,8 +2306,9 @@ msgstr "Stormcaller of Keranos"
 # 9ee0e11b1ee24451b02c9566c81e55a7
 # f01e4449a9b34e1f80dc22c18dfd7b88
 #: ../../BNG.rst:601
+#, fuzzy
 msgid ""
-"|mana_1| |mana_u|: Scry 1. (Look at the top card of your library. You may "
+"|mana_1|\\ |mana_u|: Scry 1. (Look at the top card of your library. You may "
 "put that card on the bottom of your library.)"
 msgstr ""
 "|mana_1| |mana_u|: Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
@@ -2487,9 +2504,10 @@ msgstr "Zasięg"
 # 68fade83d4d1479cb27e12618743209a
 # d9a3544b89154b3da2b2fe62a7b49090
 #: ../../BNG.rst:655
+#, fuzzy
 msgid ""
-"|mana_3| |mana_b|: Graverobber Spider gets +X/+X until end of turn, where X "
-"is the number of creature cards in your graveyard. Activate this ability "
+"|mana_3|\\ |mana_b|: Graverobber Spider gets +X/+X until end of turn, where "
+"X is the number of creature cards in your graveyard. Activate this ability "
 "only once each turn."
 msgstr ""
 "|mana_3| |mana_b|: Pająk Cmentarny dostaje do końca tury +X/+X, gdzie X jest "
@@ -2638,9 +2656,10 @@ msgstr "Noble Quarry"
 # 4b40125dac2a4ecf91e91a2cabd27175
 # 2e8dbfb7fea5475a81b4b2a7e8d49ad6
 #: ../../BNG.rst:695
+#, fuzzy
 msgid ""
-"Bestow |mana_5| |mana_g| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_5|\\ |mana_g| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdarowanie |mana_5| |mana_g| (Jeśli zagrasz tę kartę za koszt obdarowania, "
@@ -2666,9 +2685,10 @@ msgstr "Nyxborn Wolf"
 # f6dc17bbbfea4a6684bf4b24ed196712
 # 8d3d0c578cd640c2be7270d5af692c7f
 #: ../../BNG.rst:703
+#, fuzzy
 msgid ""
-"Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_4|\\ |mana_g| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 "Obdarowanie |mana_4| |mana_g| (Jeśli zagrasz tę kartę za koszt obdarowania, "
@@ -2715,11 +2735,11 @@ msgstr "Pheres-Band Raiders"
 #, fuzzy
 msgid ""
 "Inspired — Whenever Pheres-Band Raiders becomes untapped, you may pay |"
-"mana_2| |mana_g|. If you do, create a 3/3 green Centaur enchantment creature "
-"token."
+"mana_2|\\ |mana_g|. If you do, create a 3/3 green Centaur enchantment "
+"creature token."
 msgstr ""
-"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić "
-"|mana_2| |mana_u|. Jeśli tak zrobisz, stwórz żeton niebieskiego uroku-stwora "
+"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić |"
+"mana_2| |mana_u|. Jeśli tak zrobisz, stwórz żeton niebieskiego uroku-stwora "
 "Ptak 2/2 z lataniem."
 
 # 02392bf92d254168bdf9ae0ba9f3b6e7
@@ -2907,10 +2927,11 @@ msgstr "Chromanticore (Chromantykora)"
 # 75498f00322d47ff9a68a325fc668da0
 # 784cb9f24e5f42a8b08de6de281427c1
 #: ../../BNG.rst:767
+#, fuzzy
 msgid ""
-"Bestow |mana_2| |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| (If you cast "
-"this card for its bestow cost, it's an Aura spell with enchant creature. It "
-"becomes a creature again if it's not attached to a creature.)"
+"Bestow |mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| (If "
+"you cast this card for its bestow cost, it's an Aura spell with enchant "
+"creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 "Obdarowanie |mana_2| |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| (Jeśli "
 "zagrasz tę kartę za koszt obdarowania, jest ona czarem Aury zauroczenia "
@@ -3174,10 +3195,12 @@ msgstr "Ragemonger"
 # a4febf9efb204fbd9b24d6abf8ad83ab
 # 90315a1dfe6344c4b227cf259ce60502
 #: ../../BNG.rst:837
+#, fuzzy
 msgid ""
-"Minotaur spells you cast cost |mana_b| |mana_r| less to cast. This effect "
+"Minotaur spells you cast cost |mana_b|\\ |mana_r| less to cast. This effect "
 "reduces only the amount of colored mana you pay. (For example, if you cast a "
-"Minotaur spell with mana cost |mana_2| |mana_r|, it costs |mana_2| to cast.)"
+"Minotaur spell with mana cost |mana_2|\\ |mana_r|, it costs |mana_2| to "
+"cast.)"
 msgstr ""
 "Rzucenie czarów Minotaurów kosztuje cię o |mana_b| |mana_r| mniej. Efekt ten "
 "zmniejsza tylko ilość kolorowej many. (Przykładowo jeśli rzucasz czar "

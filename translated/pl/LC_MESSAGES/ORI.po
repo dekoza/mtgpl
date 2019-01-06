@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2019-01-01 01:25+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
@@ -29,7 +29,8 @@ msgid "Akroan Jailer"
 msgstr "Akroan Jailer"
 
 #: ../../ORI.rst:9
-msgid "|mana_2| |mana_w|, |tap|: Tap target creature."
+#, fuzzy
+msgid "|mana_2|\\ |mana_w|, |tap|: Tap target creature."
 msgstr "|mana_2| |mana_w|, |tap|: Zatapuj wskazanego stwora."
 
 #: ../../ORI.rst:14
@@ -42,8 +43,8 @@ msgid ""
 "When Ampryn Tactician enters the battlefield, creatures you control get +1/"
 "+1 until end of turn."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, stwory pod twoim władaniem dostają +1/+"
-"1 do końca tury."
+"Kiedy ta karta wejdzie na pole walki, stwory pod twoim władaniem dostają +1/"
+"+1 do końca tury."
 
 #: ../../ORI.rst:18
 #, fuzzy
@@ -325,8 +326,9 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:129
-msgid "|mana_2| |mana_w|: Kytheon gains indestructible until end of turn."
-msgstr ""
+#, fuzzy
+msgid "|mana_2|\\ |mana_w|: Kytheon gains indestructible until end of turn."
+msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../ORI.rst:138
 msgid "Gideon, Battle-Forged"
@@ -356,8 +358,9 @@ msgid "Kytheon's Irregulars"
 msgstr ""
 
 #: ../../ORI.rst:143
-msgid "|mana_w| |mana_w|: Tap target creature."
-msgstr ""
+#, fuzzy
+msgid "|mana_w|\\ |mana_w|: Tap target creature."
+msgstr "|mana_2| |mana_w|, |tap|: Zatapuj wskazanego stwora."
 
 #: ../../ORI.rst:150
 msgid "Kytheon's Tactics"
@@ -397,8 +400,8 @@ msgid ""
 "When enchanted creature dies, create X 1/1 white Soldier creature tokens, "
 "where X is its power."
 msgstr ""
-"Kiedy zauroczony stwór umiera, stwórz tyle żetonów białego stwora Piechur 1/"
-"1, ile wynosi siła owego stwora."
+"Kiedy zauroczony stwór umiera, stwórz tyle żetonów białego stwora Piechur "
+"1/1, ile wynosi siła owego stwora."
 
 #: ../../ORI.rst:166
 msgid "Patron of the Valiant"
@@ -648,7 +651,8 @@ msgstr ""
 
 #: ../../ORI.rst:283
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr "Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
+msgstr ""
+"Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
 
 #: ../../ORI.rst:285
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -689,8 +693,8 @@ msgstr ""
 #: ../../ORI.rst:299
 msgid "Counter target noncreature spell unless its controller pays |mana_2|."
 msgstr ""
-"Skontruj wskazany czar nie będący stworem dopóki jego władca nie dopłaci "
-"|mana_2|."
+"Skontruj wskazany czar nie będący stworem dopóki jego władca nie dopłaci |"
+"mana_2|."
 
 #: ../../ORI.rst:301
 msgid "Disciple of the Ring gets +1/+1 until end of turn."
@@ -990,8 +994,9 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:435
-msgid "|mana_5| |mana_u|: Draw a card, then discard a card."
-msgstr ""
+#, fuzzy
+msgid "|mana_5|\\ |mana_u|: Draw a card, then discard a card."
+msgstr "|mana_4|, |tap|: Dobierz kartę."
 
 #: ../../ORI.rst:446
 msgid "Stratus Walk"
@@ -1172,7 +1177,7 @@ msgstr ""
 #: ../../ORI.rst:511
 msgid ""
 "Spell mastery — If there are two or more instant and/or sorcery cards in "
-"your graveyard, add |mana_b| |mana_b| |mana_b|."
+"your graveyard, add |mana_b|\\ |mana_b|\\ |mana_b|."
 msgstr ""
 
 #: ../../ORI.rst:516
@@ -1217,7 +1222,7 @@ msgstr ""
 
 #: ../../ORI.rst:533
 msgid ""
-"|mana_b| |mana_b|, Exile two other creature cards from your graveyard: "
+"|mana_b|\\ |mana_b|, Exile two other creature cards from your graveyard: "
 "Return Despoiler of Souls from your graveyard to the battlefield."
 msgstr ""
 
@@ -1543,8 +1548,9 @@ msgstr ""
 
 #: ../../ORI.rst:667
 msgid ""
-"|mana_4| |mana_b|: Each opponent loses 2 life and you gain 2 life. Activate "
-"this ability only if there are four or more creature cards in your graveyard."
+"|mana_4|\\ |mana_b|: Each opponent loses 2 life and you gain 2 life. "
+"Activate this ability only if there are four or more creature cards in your "
+"graveyard."
 msgstr ""
 
 #: ../../ORI.rst:672
@@ -1695,8 +1701,9 @@ msgid "Bellows Lizard"
 msgstr "Bellows Lizard"
 
 #: ../../ORI.rst:739
-msgid "|mana_1| |mana_r|: Bellows Lizard gets +1/+0 until end of turn."
-msgstr ""
+#, fuzzy
+msgid "|mana_1|\\ |mana_r|: Bellows Lizard gets +1/+0 until end of turn."
+msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../ORI.rst:744
 #, fuzzy
@@ -1986,7 +1993,7 @@ msgstr ""
 
 #: ../../ORI.rst:877
 msgid ""
-"|mana_2| |mana_r|, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 "
+"|mana_2|\\ |mana_r|, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 "
 "damage to any target."
 msgstr ""
 
@@ -2099,7 +2106,7 @@ msgstr ""
 
 #: ../../ORI.rst:925
 msgid ""
-"|mana_2| |mana_r|: Volcanic Rambler deals 1 damage to target player or "
+"|mana_2|\\ |mana_r|: Volcanic Rambler deals 1 damage to target player or "
 "planeswalker."
 msgstr ""
 
@@ -2136,8 +2143,8 @@ msgstr ""
 
 #: ../../ORI.rst:939
 msgid ""
-"|mana_1| |mana_g|, Sacrifice Caustic Caterpillar: Destroy target artifact or "
-"enchantment."
+"|mana_1|\\ |mana_g|, Sacrifice Caustic Caterpillar: Destroy target artifact "
+"or enchantment."
 msgstr ""
 
 #: ../../ORI.rst:944
@@ -2470,11 +2477,14 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:1091
+#, fuzzy
 msgid ""
-"|mana_1| |mana_g|: Target creature you control gains trample until end of "
+"|mana_1|\\ |mana_g|: Target creature you control gains trample until end of "
 "turn. (It can deal excess combat damage to the player or planeswalker it's "
 "attacking.)"
 msgstr ""
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bitewne w gracza lub "
+"wędrowca, którego atakuje.)"
 
 #: ../../ORI.rst:1098
 msgid "Sylvan Messenger"
@@ -2511,9 +2521,9 @@ msgstr ""
 
 #: ../../ORI.rst:1111
 msgid ""
-"|mana_2| |mana_g|: Regenerate Undercity Troll. (The next time this creature "
-"would be destroyed this turn, it isn't. Instead tap it, remove all damage "
-"from it, and remove it from combat.)"
+"|mana_2|\\ |mana_g|: Regenerate Undercity Troll. (The next time this "
+"creature would be destroyed this turn, it isn't. Instead tap it, remove all "
+"damage from it, and remove it from combat.)"
 msgstr ""
 
 #: ../../ORI.rst:1118

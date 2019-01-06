@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2018-12-31 00:12+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
@@ -66,8 +66,8 @@ msgstr ""
 
 #: ../../KLD.rst:23
 msgid ""
-"Whenever Aetherstorm Roc attacks, you may pay {E} {E}. If you do, put a +1/"
-"+1 counter on it and tap up to one target creature defending player controls."
+"Whenever Aetherstorm Roc attacks, you may pay {E}{E}. If you do, put a +1/+1 "
+"counter on it and tap up to one target creature defending player controls."
 msgstr ""
 
 #: ../../KLD.rst:32
@@ -160,14 +160,14 @@ msgstr ""
 
 #: ../../KLD.rst:63
 msgid ""
-"When Consulate Surveillance enters the battlefield, you get {E} {E} {E} {E} "
+"When Consulate Surveillance enters the battlefield, you get {E}{E}{E}{E} "
 "(four energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:65
 #, fuzzy
 msgid ""
-"Pay {E} {E}: Prevent all damage that would be dealt to you this turn by a "
+"Pay {E}{E}: Prevent all damage that would be dealt to you this turn by a "
 "source of your choice."
 msgstr ""
 "Zażegnaj wszystkie obrażenia bitewne, które mogłyby zostać zadane graczom w "
@@ -179,8 +179,8 @@ msgstr ""
 
 #: ../../KLD.rst:69
 msgid ""
-"When Consul's Shieldguard enters the battlefield, you get {E} {E} (two "
-"energy counters)."
+"When Consul's Shieldguard enters the battlefield, you get {E}{E} (two energy "
+"counters)."
 msgstr ""
 
 #: ../../KLD.rst:71
@@ -195,7 +195,7 @@ msgstr ""
 
 #: ../../KLD.rst:77
 msgid ""
-"When Eddytrail Hawk enters the battlefield, you get {E} {E} (two energy "
+"When Eddytrail Hawk enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
@@ -296,7 +296,7 @@ msgstr ""
 
 #: ../../KLD.rst:119
 msgid ""
-"|mana_3| |mana_w|: Create a 1/1 colorless Servo artifact creature token."
+"|mana_3|\\ |mana_w|: Create a 1/1 colorless Servo artifact creature token."
 msgstr ""
 
 #: ../../KLD.rst:124
@@ -371,13 +371,13 @@ msgstr ""
 
 #: ../../KLD.rst:165
 msgid ""
-"When Thriving Ibex enters the battlefield, you get {E} {E} (two energy "
+"When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
 #: ../../KLD.rst:167
 msgid ""
-"Whenever Thriving Ibex attacks, you may pay {E} {E}. If you do, put a +1/+1 "
+"Whenever Thriving Ibex attacks, you may pay {E}{E}. If you do, put a +1/+1 "
 "counter on it."
 msgstr ""
 
@@ -429,7 +429,7 @@ msgstr ""
 
 #: ../../KLD.rst:195
 msgid ""
-"When Aether Meltdown enters the battlefield, you get {E} {E} (two energy "
+"When Aether Meltdown enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
@@ -443,8 +443,8 @@ msgstr ""
 
 #: ../../KLD.rst:201
 msgid ""
-"When Aether Theorist enters the battlefield, you get {E} {E} {E} (three "
-"energy counters)."
+"When Aether Theorist enters the battlefield, you get {E}{E}{E} (three energy "
+"counters)."
 msgstr ""
 
 #: ../../KLD.rst:203
@@ -469,13 +469,13 @@ msgstr ""
 
 #: ../../KLD.rst:213
 msgid ""
-"At the beginning of your upkeep, you get {E} {E} {E} (three energy counters)."
+"At the beginning of your upkeep, you get {E}{E}{E} (three energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:215
 msgid ""
-"Pay {E} {E} {E} {E} {E} {E} {E} {E}: Return all other creatures to their "
-"owners' hands. Activate this ability only any time you could cast a sorcery."
+"Pay {E}{E}{E}{E}{E}{E}{E}{E}: Return all other creatures to their owners' "
+"hands. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../KLD.rst:220
@@ -492,7 +492,7 @@ msgstr ""
 
 #: ../../KLD.rst:223
 msgid ""
-"Choose target artifact or creature. You get {E} {E} {E} {E} (four energy "
+"Choose target artifact or creature. You get {E}{E}{E}{E} (four energy "
 "counters), then you may pay an amount of {E} equal to that permanent's "
 "converted mana cost. If you do, gain control of it."
 msgstr ""
@@ -530,12 +530,11 @@ msgstr ""
 #: ../../KLD.rst:241
 msgid ""
 "Whenever an artifact or Artificer enters the battlefield under your control, "
-"you may pay |mana_1|. If you do, you get {E} {E} (two energy counters)."
+"you may pay |mana_1|. If you do, you get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:243
-msgid ""
-"Pay {E} {E} {E} {E} {E} {E}, Sacrifice Era of Innovation: Draw three cards."
+msgid "Pay {E}{E}{E}{E}{E}{E}, Sacrifice Era of Innovation: Draw three cards."
 msgstr ""
 
 #: ../../KLD.rst:250
@@ -565,15 +564,18 @@ msgid "This spell costs |mana_1| less to cast for each artifact you control."
 msgstr ""
 
 #: ../../KLD.rst:259
-msgid "|mana_5| |mana_u|: Gearseeker Serpent can't be blocked this turn."
+#, fuzzy
+msgid "|mana_5|\\ |mana_u|: Gearseeker Serpent can't be blocked this turn."
 msgstr ""
+"|mana_2| |mana_g|: Wskazany stwór pod twoim władaniem nie może być w tej "
+"turze blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../KLD.rst:264
 msgid "Glimmer of Genius"
 msgstr ""
 
 #: ../../KLD.rst:263
-msgid "Scry 2, then draw two cards. You get {E} {E} (two energy counters)."
+msgid "Scry 2, then draw two cards. You get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:270
@@ -597,13 +599,13 @@ msgstr "Obronność"
 
 #: ../../KLD.rst:275
 msgid ""
-"When Hightide Hermit enters the battlefield, you get {E} {E} {E} {E} (four "
+"When Hightide Hermit enters the battlefield, you get {E}{E}{E}{E} (four "
 "energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:277
 msgid ""
-"Pay {E} {E}: Hightide Hermit can attack this turn as though it didn't have "
+"Pay {E}{E}: Hightide Hermit can attack this turn as though it didn't have "
 "defender."
 msgstr ""
 
@@ -631,12 +633,12 @@ msgstr ""
 
 #: ../../KLD.rst:291
 msgid ""
-"When Janjeet Sentry enters the battlefield, you get {E} {E} (two energy "
+"When Janjeet Sentry enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
 #: ../../KLD.rst:293
-msgid "|tap|, Pay {E} {E}: You may tap or untap target artifact or creature."
+msgid "|tap|, Pay {E}{E}: You may tap or untap target artifact or creature."
 msgstr ""
 
 #: ../../KLD.rst:300
@@ -676,9 +678,9 @@ msgstr ""
 
 #: ../../KLD.rst:313
 msgid ""
-"|mana_3| |mana_u| |mana_u|, Exile Metallurgic Summonings: Return all instant "
-"and sorcery cards from your graveyard to your hand. Activate this ability "
-"only if you control six or more artifacts."
+"|mana_3|\\ |mana_u|\\ |mana_u|, Exile Metallurgic Summonings: Return all "
+"instant and sorcery cards from your graveyard to your hand. Activate this "
+"ability only if you control six or more artifacts."
 msgstr ""
 
 #: ../../KLD.rst:320
@@ -687,7 +689,7 @@ msgstr ""
 
 #: ../../KLD.rst:317
 msgid ""
-"When Minister of Inquiries enters the battlefield, you get {E} {E} (two "
+"When Minister of Inquiries enters the battlefield, you get {E}{E} (two "
 "energy counters)."
 msgstr ""
 
@@ -791,14 +793,14 @@ msgstr ""
 
 #: ../../KLD.rst:361
 msgid ""
-"When Thriving Turtle enters the battlefield, you get {E} {E} (two energy "
+"When Thriving Turtle enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
 #: ../../KLD.rst:363
 msgid ""
-"Whenever Thriving Turtle attacks, you may pay {E} {E}. If you do, put a +1/"
-"+1 counter on it."
+"Whenever Thriving Turtle attacks, you may pay {E}{E}. If you do, put a +1/+1 "
+"counter on it."
 msgstr ""
 
 #: ../../KLD.rst:370
@@ -876,7 +878,7 @@ msgstr ""
 
 #: ../../KLD.rst:401
 msgid ""
-"|mana_2| |mana_b|, Pay {E} {E} {E} {E}: Put target creature card from a "
+"|mana_2|\\ |mana_b|, Pay {E}{E}{E}{E}: Put target creature card from a "
 "graveyard onto the battlefield under your control tapped."
 msgstr ""
 
@@ -907,7 +909,7 @@ msgstr ""
 
 #: ../../KLD.rst:413
 msgid ""
-"Choose target creature. You get {E} {E} (two energy counters), then you may "
+"Choose target creature. You get {E}{E} (two energy counters), then you may "
 "pay any amount of {E}. The creature gets -1/-1 until end of turn for each "
 "{E} paid this way."
 msgstr ""
@@ -1030,7 +1032,7 @@ msgid "Live Fast"
 msgstr ""
 
 #: ../../KLD.rst:471
-msgid "You draw two cards, lose 2 life, and get {E} {E} (two energy counters)."
+msgid "You draw two cards, lose 2 life, and get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:476
@@ -1182,7 +1184,8 @@ msgstr ""
 #: ../../KLD.rst:541
 #, fuzzy
 msgid "Put a +1/+1 counter on target creature."
-msgstr "{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
+msgstr ""
+"{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
 
 #: ../../KLD.rst:546
 msgid "Syndicate Trafficker"
@@ -1200,13 +1203,13 @@ msgstr ""
 
 #: ../../KLD.rst:549
 msgid ""
-"When Thriving Rats enters the battlefield, you get {E} {E} (two energy "
+"When Thriving Rats enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
 #: ../../KLD.rst:551
 msgid ""
-"Whenever Thriving Rats attacks, you may pay {E} {E}. If you do, put a +1/+1 "
+"Whenever Thriving Rats attacks, you may pay {E}{E}. If you do, put a +1/+1 "
 "counter on it."
 msgstr ""
 
@@ -1230,7 +1233,7 @@ msgstr ""
 
 #: ../../KLD.rst:561
 msgid ""
-"|mana_1| |mana_b|, Sacrifice Underhanded Designs: Destroy target creature. "
+"|mana_1|\\ |mana_b|, Sacrifice Underhanded Designs: Destroy target creature. "
 "Activate this ability only if you control two or more artifacts."
 msgstr ""
 
@@ -1244,19 +1247,19 @@ msgstr ""
 
 #: ../../KLD.rst:569
 msgid ""
-"When Aethertorch Renegade enters the battlefield, you get {E} {E} {E} {E} "
-"(four energy counters)."
+"When Aethertorch Renegade enters the battlefield, you get {E}{E}{E}{E} (four "
+"energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:571
 msgid ""
-"|tap|, Pay {E} {E}: Aethertorch Renegade deals 1 damage to target creature."
+"|tap|, Pay {E}{E}: Aethertorch Renegade deals 1 damage to target creature."
 msgstr ""
 
 #: ../../KLD.rst:573
 msgid ""
-"|tap|, Pay {E} {E} {E} {E} {E} {E} {E} {E}: Aethertorch Renegade deals 6 "
-"damage to target player or planeswalker."
+"|tap|, Pay {E}{E}{E}{E}{E}{E}{E}{E}: Aethertorch Renegade deals 6 damage to "
+"target player or planeswalker."
 msgstr ""
 
 #: ../../KLD.rst:578
@@ -1301,8 +1304,9 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:593
-msgid "+1: Add |mana_r| |mana_r|."
-msgstr ""
+#, fuzzy
+msgid "+1: Add |mana_r|\\ |mana_r|."
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../KLD.rst:595
 msgid "−3: Chandra, Torch of Defiance deals 4 damage to target creature."
@@ -1376,8 +1380,8 @@ msgstr ""
 
 #: ../../KLD.rst:629
 msgid ""
-"Choose target creature. You get {E} {E} {E} (three energy counters), then "
-"you may pay any amount of {E}. Harnessed Lightning deals that much damage to "
+"Choose target creature. You get {E}{E}{E} (three energy counters), then you "
+"may pay any amount of {E}. Harnessed Lightning deals that much damage to "
 "that creature."
 msgstr ""
 
@@ -1420,14 +1424,14 @@ msgstr ""
 
 #: ../../KLD.rst:649
 msgid ""
-"When Lathnu Hellion enters the battlefield, you get {E} {E} (two energy "
+"When Lathnu Hellion enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
 #: ../../KLD.rst:651
 msgid ""
 "At the beginning of your end step, sacrifice Lathnu Hellion unless you pay "
-"{E} {E}."
+"{E}{E}."
 msgstr ""
 
 #: ../../KLD.rst:656
@@ -1448,7 +1452,7 @@ msgstr ""
 
 #: ../../KLD.rst:659
 msgid ""
-"When Maulfist Doorbuster enters the battlefield, you get {E} {E} (two energy "
+"When Maulfist Doorbuster enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
@@ -1469,9 +1473,12 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:667
+#, fuzzy
 msgid ""
-"|mana_1| |mana_r|: Target artifact creature gets +1/+0 until end of turn."
+"|mana_1|\\ |mana_r|: Target artifact creature gets +1/+0 until end of turn."
 msgstr ""
+"Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
+"do końca tury.)"
 
 #: ../../KLD.rst:669
 msgid "|mana_1|, Sacrifice an artifact: Target creature can't block this turn."
@@ -1510,7 +1517,8 @@ msgid "Ruinous Gremlin"
 msgstr ""
 
 #: ../../KLD.rst:687
-msgid "|mana_2| |mana_r|, Sacrifice Ruinous Gremlin: Destroy target artifact."
+msgid ""
+"|mana_2|\\ |mana_r|, Sacrifice Ruinous Gremlin: Destroy target artifact."
 msgstr ""
 
 #: ../../KLD.rst:692
@@ -1619,13 +1627,13 @@ msgstr ""
 
 #: ../../KLD.rst:739
 msgid ""
-"When Thriving Grubs enters the battlefield, you get {E} {E} (two energy "
+"When Thriving Grubs enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
 #: ../../KLD.rst:741
 msgid ""
-"Whenever Thriving Grubs attacks, you may pay {E} {E}. If you do, put a +1/+1 "
+"Whenever Thriving Grubs attacks, you may pay {E}{E}. If you do, put a +1/+1 "
 "counter on it."
 msgstr ""
 
@@ -1671,8 +1679,8 @@ msgstr ""
 
 #: ../../KLD.rst:765
 msgid ""
-"Pay {E} {E} {E} {E} {E} {E} {E} {E}: Create a 6/6 colorless Beast artifact "
-"creature token."
+"Pay {E}{E}{E}{E}{E}{E}{E}{E}: Create a 6/6 colorless Beast artifact creature "
+"token."
 msgstr ""
 
 #: ../../KLD.rst:770
@@ -1692,7 +1700,7 @@ msgstr ""
 #: ../../KLD.rst:773
 msgid ""
 "Search your library for a basic land card, reveal it, put it into your hand, "
-"then shuffle your library. You get {E} {E} (two energy counters)."
+"then shuffle your library. You get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:778
@@ -1710,13 +1718,13 @@ msgstr ""
 
 #: ../../KLD.rst:781
 msgid ""
-"When Bristling Hydra enters the battlefield, you get {E} {E} {E} (three "
-"energy counters)."
+"When Bristling Hydra enters the battlefield, you get {E}{E}{E} (three energy "
+"counters)."
 msgstr ""
 
 #: ../../KLD.rst:783
 msgid ""
-"Pay {E} {E} {E}: Put a +1/+1 counter on Bristling Hydra. It gains hexproof "
+"Pay {E}{E}{E}: Put a +1/+1 counter on Bristling Hydra. It gains hexproof "
 "until end of turn."
 msgstr ""
 
@@ -1777,8 +1785,8 @@ msgstr ""
 
 #: ../../KLD.rst:811
 msgid ""
-"|mana_5| |mana_g|, Sacrifice Durable Handicraft: Put a +1/+1 counter on each "
-"creature you control."
+"|mana_5|\\ |mana_g|, Sacrifice Durable Handicraft: Put a +1/+1 counter on "
+"each creature you control."
 msgstr ""
 
 #: ../../KLD.rst:818
@@ -1806,9 +1814,10 @@ msgid "Ghirapur Guide"
 msgstr "Ghirapur Guide"
 
 #: ../../KLD.rst:825
+#, fuzzy
 msgid ""
-"|mana_2| |mana_g|: Target creature you control can't be blocked by creatures "
-"with power 2 or less this turn."
+"|mana_2|\\ |mana_g|: Target creature you control can't be blocked by "
+"creatures with power 2 or less this turn."
 msgstr ""
 "|mana_2| |mana_g|: Wskazany stwór pod twoim władaniem nie może być w tej "
 "turze blokowany przez stwory o sile 2 lub mniejszej."
@@ -1860,13 +1869,15 @@ msgstr ""
 
 #: ../../KLD.rst:847
 msgid ""
-"Whenever Longtusk Cub deals combat damage to a player, you get {E} {E} (two "
+"Whenever Longtusk Cub deals combat damage to a player, you get {E}{E} (two "
 "energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:849
-msgid "Pay {E} {E}: Put a +1/+1 counter on Longtusk Cub."
+#, fuzzy
+msgid "Pay {E}{E}: Put a +1/+1 counter on Longtusk Cub."
 msgstr ""
+"{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
 
 #: ../../KLD.rst:854
 msgid "Nature's Way"
@@ -1912,13 +1923,13 @@ msgstr ""
 
 #: ../../KLD.rst:869
 msgid ""
-"|mana_2| |mana_g|, |tap|: Create a 1/1 colorless Servo artifact creature "
+"|mana_2|\\ |mana_g|, |tap|: Create a 1/1 colorless Servo artifact creature "
 "token."
 msgstr ""
 
 #: ../../KLD.rst:871
 msgid ""
-"|mana_4| |mana_g|, |tap|: Create an X/X colorless Construct artifact "
+"|mana_4|\\ |mana_g|, |tap|: Create an X/X colorless Construct artifact "
 "creature token, where X is the number of creatures you control."
 msgstr ""
 
@@ -1932,13 +1943,13 @@ msgstr ""
 
 #: ../../KLD.rst:883
 msgid ""
-"When Riparian Tiger enters the battlefield, you get {E} {E} (two energy "
+"When Riparian Tiger enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
 #: ../../KLD.rst:885
 msgid ""
-"Whenever Riparian Tiger attacks, you may pay {E} {E}. If you do, it gets +2/"
+"Whenever Riparian Tiger attacks, you may pay {E}{E}. If you do, it gets +2/"
 "+2 until end of turn."
 msgstr ""
 
@@ -1948,8 +1959,8 @@ msgstr ""
 
 #: ../../KLD.rst:889
 msgid ""
-"When Sage of Shaila's Claim enters the battlefield, you get {E} {E} {E} "
-"(three energy counters)."
+"When Sage of Shaila's Claim enters the battlefield, you get {E}{E}{E} (three "
+"energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:896
@@ -1958,7 +1969,7 @@ msgstr ""
 
 #: ../../KLD.rst:893
 msgid ""
-"When Servant of the Conduit enters the battlefield, you get {E} {E} (two "
+"When Servant of the Conduit enters the battlefield, you get {E}{E} (two "
 "energy counters)."
 msgstr ""
 
@@ -1984,13 +1995,13 @@ msgstr ""
 
 #: ../../KLD.rst:907
 msgid ""
-"When Thriving Rhino enters the battlefield, you get {E} {E} (two energy "
+"When Thriving Rhino enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
 #: ../../KLD.rst:909
 msgid ""
-"Whenever Thriving Rhino attacks, you may pay {E} {E}. If you do, put a +1/+1 "
+"Whenever Thriving Rhino attacks, you may pay {E}{E}. If you do, put a +1/+1 "
 "counter on it."
 msgstr ""
 
@@ -2030,7 +2041,7 @@ msgstr ""
 
 #: ../../KLD.rst:927
 msgid ""
-"|mana_2| |mana_g|: Wily Bandar gains indestructible until end of turn. "
+"|mana_2|\\ |mana_g|: Wily Bandar gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
 
@@ -2212,7 +2223,7 @@ msgstr ""
 
 #: ../../KLD.rst:1007
 msgid ""
-"When Voltaic Brawler enters the battlefield, you get {E} {E} (two energy "
+"When Voltaic Brawler enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
@@ -2228,13 +2239,13 @@ msgstr ""
 
 #: ../../KLD.rst:1013
 msgid ""
-"When Whirler Virtuoso enters the battlefield, you get {E} {E} {E} (three "
+"When Whirler Virtuoso enters the battlefield, you get {E}{E}{E} (three "
 "energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:1015
 msgid ""
-"Pay {E} {E} {E}: Create a 1/1 colorless Thopter artifact creature token with "
+"Pay {E}{E}{E}: Create a 1/1 colorless Thopter artifact creature token with "
 "flying."
 msgstr ""
 
@@ -2268,9 +2279,9 @@ msgstr ""
 
 #: ../../KLD.rst:1031
 msgid ""
-"|tap|, Pay {E} {E} {E} {E} {E} {E}: Look at the top six cards of your "
-"library. You may cast a card from among them without paying its mana cost. "
-"Put the rest on the bottom of your library in a random order."
+"|tap|, Pay {E}{E}{E}{E}{E}{E}: Look at the top six cards of your library. "
+"You may cast a card from among them without paying its mana cost. Put the "
+"rest on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../KLD.rst:1038
@@ -2370,8 +2381,8 @@ msgstr ""
 
 #: ../../KLD.rst:1077
 msgid ""
-"|mana_1| |mana_w|, Sacrifice Cogworker's Puzzleknot: Create a 1/1 colorless "
-"Servo artifact creature token."
+"|mana_1|\\ |mana_w|, Sacrifice Cogworker's Puzzleknot: Create a 1/1 "
+"colorless Servo artifact creature token."
 msgstr ""
 
 #: ../../KLD.rst:1084
@@ -2396,7 +2407,7 @@ msgstr ""
 
 #: ../../KLD.rst:1095
 msgid ""
-"When Deadlock Trap enters the battlefield, you get {E} {E} (two energy "
+"When Deadlock Trap enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
@@ -2451,13 +2462,13 @@ msgstr ""
 
 #: ../../KLD.rst:1117
 msgid ""
-"Whenever you cast an instant or sorcery spell, you get {E} {E} (two energy "
+"Whenever you cast an instant or sorcery spell, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
 
 #: ../../KLD.rst:1119
 msgid ""
-"|tap|, Pay {E} {E} {E} {E} {E}: Dynavolt Tower deals 3 damage to any target."
+"|tap|, Pay {E}{E}{E}{E}{E}: Dynavolt Tower deals 3 damage to any target."
 msgstr ""
 
 #: ../../KLD.rst:1124
@@ -2477,14 +2488,14 @@ msgstr ""
 
 #: ../../KLD.rst:1127
 msgid ""
-"When Electrostatic Pummeler enters the battlefield, you get {E} {E} {E} "
-"(three energy counters)."
+"When Electrostatic Pummeler enters the battlefield, you get {E}{E}{E} (three "
+"energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:1129
 msgid ""
-"Pay {E} {E} {E}: Electrostatic Pummeler gets +X/+X until end of turn, where "
-"X is its power."
+"Pay {E}{E}{E}: Electrostatic Pummeler gets +X/+X until end of turn, where X "
+"is its power."
 msgstr ""
 
 #: ../../KLD.rst:1136
@@ -2525,7 +2536,7 @@ msgstr ""
 
 #: ../../KLD.rst:1147
 msgid ""
-"|mana_2| |mana_r|, Sacrifice Fireforger's Puzzleknot: It deals 1 damage to "
+"|mana_2|\\ |mana_r|, Sacrifice Fireforger's Puzzleknot: It deals 1 damage to "
 "any target."
 msgstr ""
 
@@ -2580,15 +2591,15 @@ msgstr ""
 #: ../../KLD.rst:1169
 msgid ""
 "When Glassblower's Puzzleknot enters the battlefield, scry 2, then you get "
-"{E} {E}. (You get two energy counters. To scry 2, look at the top two cards "
+"{E}{E}. (You get two energy counters. To scry 2, look at the top two cards "
 "of your library, then put any number of them on the bottom of your library "
 "and the rest on top in any order.)"
 msgstr ""
 
 #: ../../KLD.rst:1171
 msgid ""
-"|mana_2| |mana_u|, Sacrifice Glassblower's Puzzleknot: Scry 2, then you get "
-"{E} {E}."
+"|mana_2|\\ |mana_u|, Sacrifice Glassblower's Puzzleknot: Scry 2, then you "
+"get {E}{E}."
 msgstr ""
 
 #: ../../KLD.rst:1180
@@ -2644,8 +2655,8 @@ msgstr ""
 
 #: ../../KLD.rst:1197
 msgid ""
-"|mana_2| |mana_b|, Sacrifice Metalspinner's Puzzleknot: You draw a card and "
-"you lose 1 life."
+"|mana_2|\\ |mana_b|, Sacrifice Metalspinner's Puzzleknot: You draw a card "
+"and you lose 1 life."
 msgstr ""
 
 #: ../../KLD.rst:1204
@@ -2670,7 +2681,7 @@ msgstr ""
 
 #: ../../KLD.rst:1207
 msgid ""
-"When Multiform Wonder enters the battlefield, you get {E} {E} {E} (three "
+"When Multiform Wonder enters the battlefield, you get {E}{E}{E} (three "
 "energy counters)."
 msgstr ""
 
@@ -2774,7 +2785,7 @@ msgstr ""
 
 #: ../../KLD.rst:1253
 msgid ""
-"|mana_1| |mana_b|, Exile another creature card from your graveyard: Return "
+"|mana_1|\\ |mana_b|, Exile another creature card from your graveyard: Return "
 "Scrapheap Scrounger from your graveyard to the battlefield."
 msgstr ""
 
@@ -2854,13 +2865,13 @@ msgstr ""
 #: ../../KLD.rst:1301
 msgid ""
 "When Woodweaver's Puzzleknot enters the battlefield, you gain 3 life and get "
-"{E} {E} {E} (three energy counters)."
+"{E}{E}{E} (three energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:1303
 msgid ""
-"|mana_2| |mana_g|, Sacrifice Woodweaver's Puzzleknot: You gain 3 life and "
-"get {E} {E} {E}."
+"|mana_2|\\ |mana_g|, Sacrifice Woodweaver's Puzzleknot: You gain 3 life and "
+"get {E}{E}{E}."
 msgstr ""
 
 #: ../../KLD.rst:1308

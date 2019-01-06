@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2018-12-31 10:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ogw/pl/>\n"
@@ -69,7 +69,7 @@ msgid "|colorless|, |tap|: Target creature can't attack or block this turn."
 msgstr ""
 
 #: ../../OGW.rst:25
-msgid "|colorless| |colorless|, |tap|: Draw a card."
+msgid "|colorless|\\ |colorless|, |tap|: Draw a card."
 msgstr ""
 
 #: ../../OGW.rst:34
@@ -217,7 +217,7 @@ msgstr ""
 
 #: ../../OGW.rst:97
 msgid ""
-"|mana_2| |colorless|: Exile another target creature, then return it to the "
+"|mana_2|\\ |colorless|: Exile another target creature, then return it to the "
 "battlefield tapped under its owner's control. (|colorless| represents "
 "colorless mana.)"
 msgstr ""
@@ -284,9 +284,9 @@ msgstr ""
 
 #: ../../OGW.rst:125
 msgid ""
-"|mana_w| |mana_u| |mana_b| |mana_r| |mana_g|: Ally creatures you control get "
-"+X/+X until end of turn, where X is the number of colors among those "
-"creatures."
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Ally creatures you "
+"control get +X/+X until end of turn, where X is the number of colors among "
+"those creatures."
 msgstr ""
 
 #: ../../OGW.rst:130
@@ -335,7 +335,7 @@ msgid "Kor Sky Climber"
 msgstr ""
 
 #: ../../OGW.rst:147
-msgid "|mana_1| |mana_w|: Kor Sky Climber gains flying until end of turn."
+msgid "|mana_1|\\ |mana_w|: Kor Sky Climber gains flying until end of turn."
 msgstr ""
 
 #: ../../OGW.rst:156
@@ -462,10 +462,11 @@ msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
 #: ../../OGW.rst:205
+#, fuzzy
 msgid ""
-"|mana_1| |mana_w|: Target creature with a +1/+1 counter on it gains flying "
+"|mana_1|\\ |mana_w|: Target creature with a +1/+1 counter on it gains flying "
 "and vigilance until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
 
 #: ../../OGW.rst:212
 msgid "Stone Haven Outfitter"
@@ -549,7 +550,7 @@ msgstr ""
 
 #: ../../OGW.rst:247
 msgid ""
-"|mana_3| |colorless|: Target creature can't be blocked this turn. (|"
+"|mana_3|\\ |colorless|: Target creature can't be blocked this turn. (|"
 "colorless| represents colorless mana.)"
 msgstr ""
 
@@ -563,9 +564,9 @@ msgstr "Błysk"
 
 #: ../../OGW.rst:257
 msgid ""
-"|mana_1| |colorless|: Target opponent exiles the top card of their library. "
-"If it's a land card, you may return Dimensional Infiltrator to its owner's "
-"hand. (|colorless| represents colorless mana.)"
+"|mana_1|\\ |colorless|: Target opponent exiles the top card of their "
+"library. If it's a land card, you may return Dimensional Infiltrator to its "
+"owner's hand. (|colorless| represents colorless mana.)"
 msgstr ""
 
 #: ../../OGW.rst:266
@@ -585,7 +586,7 @@ msgstr ""
 
 #: ../../OGW.rst:271
 msgid ""
-"|mana_3| |colorless|: Draw a card. (|colorless| represents colorless mana.)"
+"|mana_3|\\ |colorless|: Draw a card. (|colorless| represents colorless mana.)"
 msgstr ""
 
 #: ../../OGW.rst:280
@@ -626,7 +627,7 @@ msgstr ""
 
 #: ../../OGW.rst:301 ../../OGW.rst:347
 msgid ""
-"Surge |mana_2| |mana_u| (You may cast this spell for its surge cost if you "
+"Surge |mana_2|\\ |mana_u| (You may cast this spell for its surge cost if you "
 "or a teammate has cast another spell this turn.)"
 msgstr ""
 
@@ -654,8 +655,8 @@ msgstr ""
 
 #: ../../OGW.rst:315
 msgid ""
-"Surge |mana_3| |mana_u| |mana_u| (You may cast this spell for its surge cost "
-"if you or a teammate has cast another spell this turn.)"
+"Surge |mana_3|\\ |mana_u|\\ |mana_u| (You may cast this spell for its surge "
+"cost if you or a teammate has cast another spell this turn.)"
 msgstr ""
 
 #: ../../OGW.rst:317
@@ -691,7 +692,7 @@ msgstr ""
 
 #: ../../OGW.rst:331
 msgid ""
-"Surge |mana_1| |mana_u| (You may cast this spell for its surge cost if you "
+"Surge |mana_1|\\ |mana_u| (You may cast this spell for its surge cost if you "
 "or a teammate has cast another spell this turn.)"
 msgstr ""
 
@@ -717,7 +718,7 @@ msgid ""
 msgstr ""
 
 #: ../../OGW.rst:343
-msgid "|mana_1| |mana_u|: Scry 1."
+msgid "|mana_1|\\ |mana_u|: Scry 1."
 msgstr ""
 
 #: ../../OGW.rst:350
@@ -754,7 +755,7 @@ msgstr ""
 
 #: ../../OGW.rst:363
 msgid ""
-"Surge |mana_u| |mana_u| (You may cast this spell for its surge cost if you "
+"Surge |mana_u|\\ |mana_u| (You may cast this spell for its surge cost if you "
 "or a teammate has cast another spell this turn.)"
 msgstr ""
 
@@ -822,7 +823,7 @@ msgstr ""
 
 #: ../../OGW.rst:399
 msgid ""
-"When you cast this spell, you may pay |mana_1| |colorless|. If you do, "
+"When you cast this spell, you may pay |mana_1|\\ |colorless|. If you do, "
 "target opponent sacrifices a creature. (|colorless| represents colorless "
 "mana.)"
 msgstr ""
@@ -837,7 +838,7 @@ msgstr ""
 
 #: ../../OGW.rst:409
 msgid ""
-"|mana_3| |colorless|, Exile a creature card from your graveyard: Target "
+"|mana_3|\\ |colorless|, Exile a creature card from your graveyard: Target "
 "opponent loses life equal to the exiled card's power. (|colorless| "
 "represents colorless mana.)"
 msgstr ""
@@ -848,7 +849,7 @@ msgstr ""
 
 #: ../../OGW.rst:415
 msgid ""
-"|mana_1| |colorless|: Target opponent loses 1 life and you gain 1 life. (|"
+"|mana_1|\\ |colorless|: Target opponent loses 1 life and you gain 1 life. (|"
 "colorless| represents colorless mana.)"
 msgstr ""
 
@@ -868,8 +869,8 @@ msgstr ""
 
 #: ../../OGW.rst:427
 msgid ""
-"|mana_1| |colorless|: Havoc Sower gets +2/+1 until end of turn. (|colorless| "
-"represents colorless mana.)"
+"|mana_1|\\ |colorless|: Havoc Sower gets +2/+1 until end of turn. (|"
+"colorless| represents colorless mana.)"
 msgstr ""
 
 #: ../../OGW.rst:436
@@ -1028,7 +1029,7 @@ msgstr ""
 
 #: ../../OGW.rst:521
 msgid ""
-"|mana_2| |mana_b|, Sacrifice another Vampire or Zombie: Put two +1/+1 "
+"|mana_2|\\ |mana_b|, Sacrifice another Vampire or Zombie: Put two +1/+1 "
 "counters on Kalitas, Traitor of Ghet."
 msgstr ""
 
@@ -1048,7 +1049,7 @@ msgstr ""
 
 #: ../../OGW.rst:529
 msgid ""
-"|mana_3| |mana_b|, Exile a creature card from your graveyard: Create a "
+"|mana_3|\\ |mana_b|, Exile a creature card from your graveyard: Create a "
 "tapped 2/2 black Zombie creature token."
 msgstr ""
 
@@ -1128,9 +1129,9 @@ msgstr ""
 
 #: ../../OGW.rst:575
 msgid ""
-"When you cast this spell, you may pay |mana_1| |colorless|. If you do, gain "
-"control of target creature until end of turn, untap that creature, and it "
-"gains haste until end of turn. (|colorless| represents colorless mana.)"
+"When you cast this spell, you may pay |mana_1|\\ |colorless|. If you do, "
+"gain control of target creature until end of turn, untap that creature, and "
+"it gains haste until end of turn. (|colorless| represents colorless mana.)"
 msgstr ""
 
 #: ../../OGW.rst:577 ../../OGW.rst:695
@@ -1143,7 +1144,7 @@ msgstr ""
 
 #: ../../OGW.rst:583
 msgid ""
-"|mana_2| |colorless|: Each creature with toughness greater than its power "
+"|mana_2|\\ |colorless|: Each creature with toughness greater than its power "
 "can't block this turn. (|colorless| represents colorless mana.)"
 msgstr ""
 
@@ -1196,7 +1197,7 @@ msgstr ""
 
 #: ../../OGW.rst:611 ../../OGW.rst:667 ../../OGW.rst:693
 msgid ""
-"Surge |mana_1| |mana_r| (You may cast this spell for its surge cost if you "
+"Surge |mana_1|\\ |mana_r| (You may cast this spell for its surge cost if you "
 "or a teammate has cast another spell this turn.)"
 msgstr ""
 
@@ -1284,7 +1285,7 @@ msgstr ""
 
 #: ../../OGW.rst:655
 msgid ""
-"Surge |mana_x| |mana_r| (You may cast this spell for its surge cost if you "
+"Surge |mana_x|\\ |mana_r| (You may cast this spell for its surge cost if you "
 "or a teammate has cast another spell this turn.)"
 msgstr ""
 
@@ -1396,8 +1397,8 @@ msgstr ""
 
 #: ../../OGW.rst:711
 msgid ""
-"Surge |mana_3| |mana_r| |mana_r| (You may cast this spell for its surge cost "
-"if you or a teammate has cast another spell this turn.)"
+"Surge |mana_3|\\ |mana_r|\\ |mana_r| (You may cast this spell for its surge "
+"cost if you or a teammate has cast another spell this turn.)"
 msgstr ""
 
 #: ../../OGW.rst:715
@@ -1432,7 +1433,7 @@ msgid ""
 msgstr ""
 
 #: ../../OGW.rst:729
-msgid "|mana_1| |colorless|: Regenerate Birthing Hulk."
+msgid "|mana_1|\\ |colorless|: Regenerate Birthing Hulk."
 msgstr ""
 
 #: ../../OGW.rst:736
@@ -1493,7 +1494,7 @@ msgstr "Zasięg"
 
 #: ../../OGW.rst:765
 msgid ""
-"|mana_2| |colorless|, Sacrifice a land: Return World Breaker from your "
+"|mana_2|\\ |colorless|, Sacrifice a land: Return World Breaker from your "
 "graveyard to your hand. (|colorless| represents colorless mana.)"
 msgstr ""
 
@@ -1745,7 +1746,7 @@ msgstr ""
 
 #: ../../OGW.rst:889
 msgid ""
-"|mana_3| |colorless|: Target opponent exiles a card from their hand. "
+"|mana_3|\\ |colorless|: Target opponent exiles a card from their hand. "
 "Activate this ability only any time you could cast a sorcery. (|colorless| "
 "represents colorless mana.)"
 msgstr ""
@@ -1780,9 +1781,9 @@ msgstr ""
 
 #: ../../OGW.rst:905
 msgid ""
-"|mana_1| |mana_w| |mana_b|, Sacrifice another creature: Exile target nonland "
-"permanent. Activate this ability only if you have at least 10 life more than "
-"your starting life total."
+"|mana_1|\\ |mana_w|\\ |mana_b|, Sacrifice another creature: Exile target "
+"nonland permanent. Activate this ability only if you have at least 10 life "
+"more than your starting life total."
 msgstr ""
 
 #: ../../OGW.rst:910
@@ -1809,8 +1810,8 @@ msgstr ""
 
 #: ../../OGW.rst:919
 msgid ""
-"|mana_4| |mana_g| |mana_w|: Support 2. (Put a +1/+1 counter on each of up to "
-"two other target creatures.)"
+"|mana_4|\\ |mana_g|\\ |mana_w|: Support 2. (Put a +1/+1 counter on each of "
+"up to two other target creatures.)"
 msgstr ""
 
 #: ../../OGW.rst:924
@@ -1831,7 +1832,7 @@ msgstr ""
 
 #: ../../OGW.rst:929
 msgid ""
-"|mana_r| |mana_g|, Return a land you control to its owner's hand: Target "
+"|mana_r|\\ |mana_g|, Return a land you control to its owner's hand: Target "
 "creature gains trample until end of turn."
 msgstr ""
 
@@ -1851,10 +1852,11 @@ msgid "Relentless Hunter"
 msgstr ""
 
 #: ../../OGW.rst:937
+#, fuzzy
 msgid ""
-"|mana_1| |mana_r| |mana_g|: Relentless Hunter gets +1/+1 and gains trample "
-"until end of turn."
-msgstr ""
+"|mana_1|\\ |mana_r|\\ |mana_g|: Relentless Hunter gets +1/+1 and gains "
+"trample until end of turn."
+msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
 
 #: ../../OGW.rst:944
 msgid "Stormchaser Mage"
@@ -2003,8 +2005,9 @@ msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../OGW.rst:1017
 msgid ""
-"|mana_1| |mana_b| |mana_g|: Hissing Quagmire becomes a 2/2 black and green "
-"Elemental creature with deathtouch until end of turn. It's still a land."
+"|mana_1|\\ |mana_b|\\ |mana_g|: Hissing Quagmire becomes a 2/2 black and "
+"green Elemental creature with deathtouch until end of turn. It's still a "
+"land."
 msgstr ""
 
 #: ../../OGW.rst:1024
@@ -2042,13 +2045,13 @@ msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../OGW.rst:1037
 msgid ""
-"|mana_2| |colorless|, |tap|, Sacrifice Mirrorpool: Copy target instant or "
+"|mana_2|\\ |colorless|, |tap|, Sacrifice Mirrorpool: Copy target instant or "
 "sorcery spell you control. You may choose new targets for the copy."
 msgstr ""
 
 #: ../../OGW.rst:1039
 msgid ""
-"|mana_4| |colorless|, |tap|, Sacrifice Mirrorpool: Create a token that's a "
+"|mana_4|\\ |colorless|, |tap|, Sacrifice Mirrorpool: Create a token that's a "
 "copy of target creature you control."
 msgstr ""
 
@@ -2066,7 +2069,7 @@ msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../OGW.rst:1047
 msgid ""
-"|mana_2| |mana_r| |mana_w|: Needle Spires becomes a 2/1 red and white "
+"|mana_2|\\ |mana_r|\\ |mana_w|: Needle Spires becomes a 2/1 red and white "
 "Elemental creature with double strike until end of turn. It's still a land."
 msgstr ""
 
@@ -2090,8 +2093,8 @@ msgstr ""
 
 #: ../../OGW.rst:1061
 msgid ""
-"|mana_2| |colorless|, |tap|: Draw a card. Activate this ability only if you "
-"have no cards in hand."
+"|mana_2|\\ |colorless|, |tap|: Draw a card. Activate this ability only if "
+"you have no cards in hand."
 msgstr ""
 
 #: ../../OGW.rst:1068
@@ -2153,9 +2156,9 @@ msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../OGW.rst:1093
 msgid ""
-"|mana_2| |mana_u| |mana_r|: Until end of turn, Wandering Fumarole becomes a "
-"1/4 blue and red Elemental creature with \"|mana_0|: Switch this creature's "
-"power and toughness until end of turn.\" It's still a land."
+"|mana_2|\\ |mana_u|\\ |mana_r|: Until end of turn, Wandering Fumarole "
+"becomes a 1/4 blue and red Elemental creature with \"|mana_0|: Switch this "
+"creature's power and toughness until end of turn.\" It's still a land."
 msgstr ""
 
 #: ../../OGW.rst:1098 ../../OGW.rst:1102 ../../OGW.rst:1106 ../../OGW.rst:1109

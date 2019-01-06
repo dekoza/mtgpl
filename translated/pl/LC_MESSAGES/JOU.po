@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2019-01-01 01:24+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/jou/pl/>\n"
@@ -47,7 +47,7 @@ msgstr ""
 #: ../../JOU.rst:13
 #, fuzzy
 msgid ""
-"Strive — This spell costs |mana_2| |mana_w| more to cast for each target "
+"Strive — This spell costs |mana_2|\\ |mana_w| more to cast for each target "
 "beyond the first."
 msgstr ""
 "Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
@@ -197,9 +197,8 @@ msgstr "Każdy z graczy nie może rzucać więcej niż jednego czaru na turę."
 msgid "Font of Vigor"
 msgstr ""
 
-# 2f9f76d48d784fb39d3316922d5a7d34
 #: ../../JOU.rst:57
-msgid "|mana_2| |mana_w|, Sacrifice Font of Vigor: You gain 7 life."
+msgid "|mana_2|\\ |mana_w|, Sacrifice Font of Vigor: You gain 7 life."
 msgstr ""
 
 # 2536576ae19f45bcb843357083557f86
@@ -366,7 +365,7 @@ msgstr ""
 #: ../../JOU.rst:113
 #, fuzzy
 msgid ""
-"Strive — This spell costs |mana_1| |mana_w| more to cast for each target "
+"Strive — This spell costs |mana_1|\\ |mana_w| more to cast for each target "
 "beyond the first."
 msgstr ""
 "Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
@@ -408,11 +407,10 @@ msgstr ""
 msgid "Sightless Brawler"
 msgstr ""
 
-# d2388289390a4661b474f48bcdbf7d51
 #: ../../JOU.rst:127
 msgid ""
-"Bestow |mana_4| |mana_w| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_4|\\ |mana_w| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 
@@ -478,10 +476,9 @@ msgstr ""
 msgid "Stonewise Fortifier"
 msgstr ""
 
-# 4f50af1813f4465d89667c3db20406d3
 #: ../../JOU.rst:145
 msgid ""
-"|mana_4| |mana_w|: Prevent all damage that would be dealt to Stonewise "
+"|mana_4|\\ |mana_w|: Prevent all damage that would be dealt to Stonewise "
 "Fortifier by target creature this turn."
 msgstr ""
 
@@ -519,7 +516,7 @@ msgstr ""
 #: ../../JOU.rst:159
 #, fuzzy
 msgid ""
-"Strive — This spell costs |mana_2| |mana_u| more to cast for each target "
+"Strive — This spell costs |mana_2|\\ |mana_u| more to cast for each target "
 "beyond the first."
 msgstr ""
 "Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
@@ -586,10 +583,9 @@ msgstr ""
 msgid "Crystalline Nautilus"
 msgstr ""
 
-# ed123ba508de4ce2809be48309ac61c1
 #: ../../JOU.rst:181
 msgid ""
-"Bestow |mana_3| |mana_u| |mana_u| (If you cast this card for its bestow "
+"Bestow |mana_3|\\ |mana_u|\\ |mana_u| (If you cast this card for its bestow "
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
@@ -657,9 +653,8 @@ msgstr ""
 msgid "Font of Fortunes"
 msgstr ""
 
-# 560846e6560849efb90e8c70c0e9c87c
 #: ../../JOU.rst:203
-msgid "|mana_1| |mana_u|, Sacrifice Font of Fortunes: Draw two cards."
+msgid "|mana_1|\\ |mana_u|, Sacrifice Font of Fortunes: Draw two cards."
 msgstr ""
 
 # 954795b25d3a4439a0721142ab056a53
@@ -685,7 +680,7 @@ msgstr ""
 #: ../../JOU.rst:211 ../../JOU.rst:247
 #, fuzzy
 msgid ""
-"Strive — This spell costs |mana_1| |mana_u| more to cast for each target "
+"Strive — This spell costs |mana_1|\\ |mana_u| more to cast for each target "
 "beyond the first."
 msgstr ""
 "Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
@@ -713,10 +708,9 @@ msgstr ""
 msgid "Hypnotic Siren"
 msgstr ""
 
-# 92910865313f4e6ca23f28f177ddd310
 #: ../../JOU.rst:221
 msgid ""
-"Bestow |mana_5| |mana_u| |mana_u| (If you cast this card for its bestow "
+"Bestow |mana_5|\\ |mana_u|\\ |mana_u| (If you cast this card for its bestow "
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
@@ -889,10 +883,11 @@ msgstr ""
 msgid "Thassa's Ire"
 msgstr ""
 
-# b92a5151f0e0411eb8911f2a150e05e1
+# 1eeb4ee5ab9f456c888e8c7b312168f0
 #: ../../JOU.rst:285
-msgid "|mana_3| |mana_u|: You may tap or untap target creature."
-msgstr ""
+#, fuzzy
+msgid "|mana_3|\\ |mana_u|: You may tap or untap target creature."
+msgstr "|mana_w|, |tap|: Zatapuj wskazanego stwora."
 
 # 458daf4cecac4cb9b546d9ef8a749844
 #: ../../JOU.rst:290
@@ -1030,7 +1025,7 @@ msgstr ""
 #: ../../JOU.rst:333 ../../JOU.rst:419
 #, fuzzy
 msgid ""
-"Strive — This spell costs |mana_2| |mana_b| more to cast for each target "
+"Strive — This spell costs |mana_2|\\ |mana_b| more to cast for each target "
 "beyond the first."
 msgstr ""
 "Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
@@ -1130,23 +1125,23 @@ msgstr "Inne stwory typu Minotaur, którymi władasz mają dotyk śmierci."
 msgid "Font of Return"
 msgstr ""
 
-# 26c1f3812aa849459a92d32ee3502305
+# 51a4532c38494d3db7167f53c40a87b5
 #: ../../JOU.rst:367
+#, fuzzy
 msgid ""
-"|mana_3| |mana_b|, Sacrifice Font of Return: Return up to three target "
+"|mana_3|\\ |mana_b|, Sacrifice Font of Return: Return up to three target "
 "creature cards from your graveyard to your hand."
-msgstr ""
+msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 # 6c8f9046d32d4009905d33a7a71566c4
 #: ../../JOU.rst:376
 msgid "Gnarled Scarhide"
 msgstr ""
 
-# 2bc4a9bda2974469b9e241b309533795
 #: ../../JOU.rst:371
 msgid ""
-"Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_3|\\ |mana_b| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 
@@ -1474,8 +1469,8 @@ msgstr ""
 
 #: ../../JOU.rst:491
 msgid ""
-"|mana_3| |mana_r|, Sacrifice Font of Ire: It deals 5 damage to target player "
-"or planeswalker."
+"|mana_3|\\ |mana_r|, Sacrifice Font of Ire: It deals 5 damage to target "
+"player or planeswalker."
 msgstr ""
 
 # 93aab2ab4cd14bbe9dc274cbc015fe7e
@@ -1502,8 +1497,9 @@ msgstr ""
 
 # 38323db59c3b465c932e1729310f4fa5
 #: ../../JOU.rst:499
+#, fuzzy
 msgid ""
-"|mana_5| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't "
+"|mana_5|\\ |mana_r|\\ |mana_r|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_5| |mana_r| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
@@ -1518,7 +1514,7 @@ msgstr ""
 #: ../../JOU.rst:503 ../../JOU.rst:551 ../../JOU.rst:579
 #, fuzzy
 msgid ""
-"Strive — This spell costs |mana_2| |mana_r| more to cast for each target "
+"Strive — This spell costs |mana_2|\\ |mana_r| more to cast for each target "
 "beyond the first."
 msgstr ""
 "Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
@@ -1575,11 +1571,10 @@ msgstr ""
 msgid "Mogis's Warhound"
 msgstr ""
 
-# 3b4bcd34f36f41df966e762ac309be6c
 #: ../../JOU.rst:525
 msgid ""
-"Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_2|\\ |mana_r| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 
@@ -1730,12 +1725,15 @@ msgstr ""
 msgid "Wildfire Cerberus"
 msgstr ""
 
-# 50de9de59013458cac123b6708d60bc0
+# 38323db59c3b465c932e1729310f4fa5
 #: ../../JOU.rst:585
+#, fuzzy
 msgid ""
-"|mana_5| |mana_r| |mana_r|: Monstrosity 1. (If this creature isn't "
+"|mana_5|\\ |mana_r|\\ |mana_r|: Monstrosity 1. (If this creature isn't "
 "monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
 msgstr ""
+"|mana_5| |mana_r| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
+"monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # a3fed74beeca4cde869c31f94247fa5e
 #: ../../JOU.rst:587
@@ -1763,7 +1761,7 @@ msgstr ""
 #: ../../JOU.rst:595 ../../JOU.rst:711
 #, fuzzy
 msgid ""
-"Strive — This spell costs |mana_1| |mana_g| more to cast for each target "
+"Strive — This spell costs |mana_1|\\ |mana_g| more to cast for each target "
 "beyond the first."
 msgstr ""
 "Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
@@ -1787,7 +1785,7 @@ msgstr ""
 #: ../../JOU.rst:601 ../../JOU.rst:659
 #, fuzzy
 msgid ""
-"Strive — This spell costs |mana_2| |mana_g| more to cast for each target "
+"Strive — This spell costs |mana_2|\\ |mana_g| more to cast for each target "
 "beyond the first."
 msgstr ""
 "Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
@@ -1842,10 +1840,9 @@ msgstr ""
 msgid "Font of Fertility"
 msgstr ""
 
-# 5bbc01ff7daa4a29be4b1359c4dafd21
 #: ../../JOU.rst:621
 msgid ""
-"|mana_1| |mana_g|, Sacrifice Font of Fertility: Search your library for a "
+"|mana_1|\\ |mana_g|, Sacrifice Font of Fertility: Search your library for a "
 "basic land card, put it onto the battlefield tapped, then shuffle your "
 "library."
 msgstr ""
@@ -1888,9 +1885,10 @@ msgstr "Heroes' Bane wchodzi na pole walki z czterema znacznikami +1/+1."
 
 # a81dbc7c1d154dc99f71b268ef4dc2b9
 #: ../../JOU.rst:635
+#, fuzzy
 msgid ""
-"|mana_2| |mana_g| |mana_g|: Put X +1/+1 counters on Heroes' Bane, where X is "
-"its power."
+"|mana_2|\\ |mana_g|\\ |mana_g|: Put X +1/+1 counters on Heroes' Bane, where "
+"X is its power."
 msgstr ""
 "|mana_2| |mana_g| |mana_g|: Umieść na Heroe's Bane X znaczników +1/+1, gdzie "
 "X to jego siła."
@@ -1918,8 +1916,9 @@ msgstr ""
 
 # 009259ac9c834d2199284a619abe4bd7
 #: ../../JOU.rst:643
+#, fuzzy
 msgid ""
-"|mana_x| |mana_x| |mana_g|: Monstrosity X. (If this creature isn't "
+"|mana_x|\\ |mana_x|\\ |mana_g|: Monstrosity X. (If this creature isn't "
 "monstrous, put X +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 "|mana_x| |mana_x| |mana_g|: Monstrualność X. (Jeśli ten stwór nie jest "
@@ -2044,12 +2043,15 @@ msgstr ""
 msgid "Vigilance"
 msgstr "Czujność"
 
-# 1296a5cc4b59472bbb4d7edde18822d3
+# 38323db59c3b465c932e1729310f4fa5
 #: ../../JOU.rst:685
+#, fuzzy
 msgid ""
-"|mana_6| |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put "
+"|mana_6|\\ |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put "
 "three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
+"|mana_5| |mana_r| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
+"monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # c135f965ec0846909a84748e99e552c5
 #: ../../JOU.rst:690
@@ -2058,7 +2060,7 @@ msgstr ""
 
 #: ../../JOU.rst:689
 msgid ""
-"|mana_1| |mana_g|, Sacrifice Renowned Weaver: Create a 1/3 green Spider "
+"|mana_1|\\ |mana_g|, Sacrifice Renowned Weaver: Create a 1/3 green Spider "
 "enchantment creature token with reach. (It can block creatures with flying.)"
 msgstr ""
 
@@ -2136,11 +2138,10 @@ msgstr ""
 msgid "Spirespine"
 msgstr ""
 
-# 19153ea3c26e40f4a2af78c789fef2d0
 #: ../../JOU.rst:717
 msgid ""
-"Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an "
-"Aura spell with enchant creature. It becomes a creature again if it's not "
+"Bestow |mana_4|\\ |mana_g| (If you cast this card for its bestow cost, it's "
+"an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
 
@@ -2180,12 +2181,15 @@ msgstr ""
 msgid "When you're dealt combat damage, sacrifice Swarmborn Giant."
 msgstr ""
 
-# 052bcaf220664617bcbe1abacb27065b
+# 009259ac9c834d2199284a619abe4bd7
 #: ../../JOU.rst:731
+#, fuzzy
 msgid ""
-"|mana_4| |mana_g| |mana_g|: Monstrosity 2. (If this creature isn't "
+"|mana_4|\\ |mana_g|\\ |mana_g|: Monstrosity 2. (If this creature isn't "
 "monstrous, put two +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
+"|mana_x| |mana_x| |mana_g|: Monstrualność X. (Jeśli ten stwór nie jest "
+"monstrualny, umieść na nim X znaczników +1/+1 i staje się on monstrualny.)"
 
 # f4f6bebd27494c769628ed5c56a6f250
 #: ../../JOU.rst:733
@@ -2264,7 +2268,7 @@ msgstr ""
 #: ../../JOU.rst:753
 #, fuzzy
 msgid ""
-"Strive — This spell costs |mana_r| |mana_w| more to cast for each target "
+"Strive — This spell costs |mana_r|\\ |mana_w| more to cast for each target "
 "beyond the first."
 msgstr ""
 "Wysiłek — Rzucenie Twinflame kosztuje o |mana_2| |mana_r| więcej za każdy "
@@ -2301,12 +2305,15 @@ msgstr ""
 msgid "Flying, deathtouch"
 msgstr "Latanie, dotyk śmierci"
 
-# b1bc32f55ec04deba5dfd5072b63ccd6
+# 38323db59c3b465c932e1729310f4fa5
 #: ../../JOU.rst:767
+#, fuzzy
 msgid ""
-"|mana_5| |mana_g| |mana_u|: Monstrosity 3. (If this creature isn't "
+"|mana_5|\\ |mana_g|\\ |mana_u|: Monstrosity 3. (If this creature isn't "
 "monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
+"|mana_5| |mana_r| |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
+"monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 # bed6007ebc61421d9c98742b2190c60d
 #: ../../JOU.rst:778
@@ -2395,12 +2402,13 @@ msgstr ""
 "Na początku twojego utrzymania, włóż dwie wierzchnie karty twojej biblioteki "
 "do twojego cmentarza."
 
-# 01dd8c845475451fbe846b5473920d54
+# 51a4532c38494d3db7167f53c40a87b5
 #: ../../JOU.rst:803
+#, fuzzy
 msgid ""
-"|mana_1| |mana_b| |mana_g|, Exile Nyx Weaver: Return target card from your "
-"graveyard to your hand."
-msgstr ""
+"|mana_1|\\ |mana_b|\\ |mana_g|, Exile Nyx Weaver: Return target card from "
+"your graveyard to your hand."
+msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 # 5e23f3cddaaa4a5ea48d5ba0cd29b927
 #: ../../JOU.rst:812
@@ -2416,7 +2424,7 @@ msgstr ""
 
 #: ../../JOU.rst:811
 msgid ""
-"|mana_b| |mana_g|: Exile target creature card from a graveyard. Its owner "
+"|mana_b|\\ |mana_g|: Exile target creature card from a graveyard. Its owner "
 "creates a 1/1 black and green Snake enchantment creature token with "
 "deathtouch."
 msgstr ""
@@ -2437,10 +2445,9 @@ msgstr "Umieść na polu walki dwa żetony czerwonego stwora Minotaur 2/2."
 msgid "Stormchaser Chimera"
 msgstr ""
 
-# a32f4c23d6a64c7e8e89a48736b4e4ec
 #: ../../JOU.rst:821
 msgid ""
-"|mana_2| |mana_u| |mana_r|: Scry 1, then reveal the top card of your "
+"|mana_2|\\ |mana_u|\\ |mana_r|: Scry 1, then reveal the top card of your "
 "library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that "
 "card's converted mana cost. (To scry 1, look at the top card of your "
 "library, then you may put that card on the bottom of your library.)"
@@ -2460,9 +2467,8 @@ msgstr ""
 "Konstelacja — Ilekroć Underworld Coinsmith lub inny urok wchodzi na pole "
 "walki pod twoim władaniem, zyskujesz 1 życie."
 
-# 6c9617ae4c2f4994b5dc7984cac08d81
 #: ../../JOU.rst:827
-msgid "|mana_w| |mana_b|, Pay 1 life: Each opponent loses 1 life."
+msgid "|mana_w|\\ |mana_b|, Pay 1 life: Each opponent loses 1 life."
 msgstr ""
 
 # af2f0a3318884ff18ed5a59027677586

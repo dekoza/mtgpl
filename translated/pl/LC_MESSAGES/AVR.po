@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2019-01-01 01:24+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
@@ -138,8 +138,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, put a +1/+1 "
 "counter on each creature you control."
 msgstr ""
-"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, umieść znacznik +1/+"
-"1 na każdym stworze, którym władasz."
+"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, umieść znacznik +1/"
+"+1 na każdym stworze, którym władasz."
 
 #: ../../AVR.rst:64
 msgid "Cathedral Sanctifier"
@@ -247,8 +247,8 @@ msgstr ""
 
 #: ../../AVR.rst:107
 msgid ""
-"Miracle |mana_x| |mana_w| |mana_w| (You may cast this card for its miracle "
-"cost when you draw it if it's the first card you drew this turn.)"
+"Miracle |mana_x|\\ |mana_w|\\ |mana_w| (You may cast this card for its "
+"miracle cost when you draw it if it's the first card you drew this turn.)"
 msgstr ""
 
 #: ../../AVR.rst:112
@@ -301,8 +301,8 @@ msgstr ""
 
 #: ../../AVR.rst:133
 msgid ""
-"|mana_2| |mana_w|, |tap|: Tap target creature. If that creature is a Zombie, "
-"exile it."
+"|mana_2|\\ |mana_w|, |tap|: Tap target creature. If that creature is a "
+"Zombie, exile it."
 msgstr ""
 
 #: ../../AVR.rst:138
@@ -338,10 +338,13 @@ msgid "Moonlight Geist"
 msgstr ""
 
 #: ../../AVR.rst:151
+#, fuzzy
 msgid ""
-"|mana_3| |mana_w|: Prevent all combat damage that would be dealt to and "
+"|mana_3|\\ |mana_w|: Prevent all combat damage that would be dealt to and "
 "dealt by Moonlight Geist this turn."
 msgstr ""
+"Zażegnaj wszystkie obrażenia, które mogłyby zostać zadane zauroczonemu "
+"stworowi."
 
 #: ../../AVR.rst:156
 msgid "Moorland Inquisitor"
@@ -349,7 +352,8 @@ msgstr ""
 
 #: ../../AVR.rst:155
 msgid ""
-"|mana_2| |mana_w|: Moorland Inquisitor gains first strike until end of turn."
+"|mana_2|\\ |mana_w|: Moorland Inquisitor gains first strike until end of "
+"turn."
 msgstr ""
 
 #: ../../AVR.rst:162
@@ -522,7 +526,8 @@ msgstr ""
 "Kapitana Mgieł."
 
 #: ../../AVR.rst:237
-msgid "|mana_1| |mana_u|, |tap|: You may tap or untap target permanent."
+#, fuzzy
+msgid "|mana_1|\\ |mana_u|, |tap|: You may tap or untap target permanent."
 msgstr ""
 "|mana_1| |mana_u|, |tap|: Możesz zatapować lub odtapować wskazany permanent."
 
@@ -549,7 +554,7 @@ msgstr ""
 #: ../../AVR.rst:249
 msgid ""
 "As long as Deadeye Navigator is paired with another creature, each of those "
-"creatures has \"|mana_1| |mana_u|: Exile this creature, then return it to "
+"creatures has \"|mana_1|\\ |mana_u|: Exile this creature, then return it to "
 "the battlefield under your control.\""
 msgstr ""
 
@@ -563,8 +568,8 @@ msgstr ""
 
 #: ../../AVR.rst:255 ../../AVR.rst:429
 msgid ""
-"Miracle |mana_1| |mana_u| (You may cast this card for its miracle cost when "
-"you draw it if it's the first card you drew this turn.)"
+"Miracle |mana_1|\\ |mana_u| (You may cast this card for its miracle cost "
+"when you draw it if it's the first card you drew this turn.)"
 msgstr ""
 
 #: ../../AVR.rst:260
@@ -622,7 +627,7 @@ msgstr ""
 #: ../../AVR.rst:287
 msgid ""
 "As long as Galvanic Alchemist is paired with another creature, each of those "
-"creatures has \"|mana_2| |mana_u|: Untap this creature.\""
+"creatures has \"|mana_2|\\ |mana_u|: Untap this creature.\""
 msgstr ""
 
 #: ../../AVR.rst:292
@@ -775,7 +780,7 @@ msgstr ""
 
 #: ../../AVR.rst:361
 msgid ""
-"|mana_3| |mana_u|, |tap|: Exile another target creature you control, then "
+"|mana_3|\\ |mana_u|, |tap|: Exile another target creature you control, then "
 "return that card to the battlefield under your control."
 msgstr ""
 
@@ -1015,9 +1020,9 @@ msgstr "Corpse Traders (Handlarze Zwłok)"
 
 #: ../../AVR.rst:471
 msgid ""
-"|mana_2| |mana_b|, Sacrifice a creature: Target opponent reveals their hand. "
-"You choose a card from it. That player discards that card. Activate this "
-"ability only any time you could cast a sorcery."
+"|mana_2|\\ |mana_b|, Sacrifice a creature: Target opponent reveals their "
+"hand. You choose a card from it. That player discards that card. Activate "
+"this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../AVR.rst:476
@@ -1034,8 +1039,8 @@ msgstr ""
 
 #: ../../AVR.rst:479
 msgid ""
-"|mana_4| |mana_b| |mana_b|: Exile target creature and put a +1/+1 counter on "
-"Dark Impostor."
+"|mana_4|\\ |mana_b|\\ |mana_b|: Exile target creature and put a +1/+1 "
+"counter on Dark Impostor."
 msgstr ""
 
 #: ../../AVR.rst:481
@@ -1301,7 +1306,7 @@ msgstr ""
 
 #: ../../AVR.rst:611
 msgid ""
-"|mana_3| |mana_b|: Searchlight Geist gains deathtouch until end of turn. "
+"|mana_3|\\ |mana_b|: Searchlight Geist gains deathtouch until end of turn. "
 "(Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
 
@@ -1404,8 +1409,8 @@ msgstr ""
 
 #: ../../AVR.rst:659
 msgid ""
-"Miracle |mana_x| |mana_r| (You may cast this card for its miracle cost when "
-"you draw it if it's the first card you drew this turn.)"
+"Miracle |mana_x|\\ |mana_r| (You may cast this card for its miracle cost "
+"when you draw it if it's the first card you drew this turn.)"
 msgstr ""
 
 #: ../../AVR.rst:666
@@ -1468,7 +1473,7 @@ msgstr ""
 
 #: ../../AVR.rst:685
 msgid ""
-"|mana_2| |mana_r|: Falkenrath Exterminator deals damage to target creature "
+"|mana_2|\\ |mana_r|: Falkenrath Exterminator deals damage to target creature "
 "equal to the number of +1/+1 counters on Falkenrath Exterminator."
 msgstr ""
 
@@ -1651,8 +1656,8 @@ msgstr "Odrzuć swoją rękę, a następnie dobierz dwie karty."
 
 #: ../../AVR.rst:777
 msgid ""
-"Miracle |mana_1| |mana_r| (You may cast this card for its miracle cost when "
-"you draw it if it's the first card you drew this turn.)"
+"Miracle |mana_1|\\ |mana_r| (You may cast this card for its miracle cost "
+"when you draw it if it's the first card you drew this turn.)"
 msgstr ""
 
 #: ../../AVR.rst:782
@@ -1690,7 +1695,7 @@ msgstr ""
 
 #: ../../AVR.rst:793
 msgid ""
-"|mana_2| |mana_r|: Scalding Devil deals 1 damage to target player or "
+"|mana_2|\\ |mana_r|: Scalding Devil deals 1 damage to target player or "
 "planeswalker."
 msgstr ""
 
@@ -2198,10 +2203,13 @@ msgid "Ulvenwald Tracker"
 msgstr ""
 
 #: ../../AVR.rst:1027
+#, fuzzy
 msgid ""
-"|mana_1| |mana_g|, |tap|: Target creature you control fights another target "
-"creature."
+"|mana_1|\\ |mana_g|, |tap|: Target creature you control fights another "
+"target creature."
 msgstr ""
+"Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../AVR.rst:1030
 msgid "Vorstclaw"
@@ -2242,7 +2250,7 @@ msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 #: ../../AVR.rst:1049
-msgid "|mana_1| |mana_g|: Regenerate Wolfir Avenger."
+msgid "|mana_1|\\ |mana_g|: Regenerate Wolfir Avenger."
 msgstr ""
 
 #: ../../AVR.rst:1056
@@ -2261,8 +2269,8 @@ msgstr ""
 
 #: ../../AVR.rst:1059
 msgid ""
-"|mana_2| |mana_g| |mana_g|: Yew Spirit gets +X/+X until end of turn, where X "
-"is its power."
+"|mana_2|\\ |mana_g|\\ |mana_g|: Yew Spirit gets +X/+X until end of turn, "
+"where X is its power."
 msgstr ""
 
 #: ../../AVR.rst:1066
@@ -2502,7 +2510,7 @@ msgstr "|tap|: Dostajesz |colorless|."
 #: ../../AVR.rst:1159
 #, fuzzy
 msgid ""
-"|mana_g| |mana_u|, |tap|: You may cast spells this turn as though they had "
+"|mana_g|\\ |mana_u|, |tap|: You may cast spells this turn as though they had "
 "flash."
 msgstr ""
 "|mana_g| |mana_u|, |tap|: Możesz rzucić nielądowe karty w tej turze tak, "
@@ -2531,7 +2539,8 @@ msgid "Desolate Lighthouse"
 msgstr ""
 
 #: ../../AVR.rst:1173
-msgid "|mana_1| |mana_u| |mana_r|, |tap|: Draw a card, then discard a card."
+msgid ""
+"|mana_1|\\ |mana_u|\\ |mana_r|, |tap|: Draw a card, then discard a card."
 msgstr ""
 
 #: ../../AVR.rst:1182
@@ -2553,8 +2562,8 @@ msgstr ""
 
 #: ../../AVR.rst:1187
 msgid ""
-"|mana_r| |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance and "
-"haste until end of turn."
+"|mana_r|\\ |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance "
+"and haste until end of turn."
 msgstr ""
 
 #: ../../AVR.rst:1190 ../../AVR.rst:1194 ../../AVR.rst:1198

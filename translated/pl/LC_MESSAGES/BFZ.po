@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2018-12-31 10:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bfz/pl/>\n"
@@ -124,8 +124,9 @@ msgid "Kozilek's Channeler"
 msgstr ""
 
 #: ../../BFZ.rst:49 ../../BFZ.rst:1221
-msgid "|tap|: Add |colorless| |colorless|."
-msgstr ""
+#, fuzzy
+msgid "|tap|: Add |colorless|\\ |colorless|."
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../BFZ.rst:54
 msgid "Oblivion Sower"
@@ -256,8 +257,9 @@ msgid "Cliffside Lookout"
 msgstr ""
 
 #: ../../BFZ.rst:103
-msgid "|mana_4| |mana_w|: Creatures you control get +1/+1 until end of turn."
-msgstr ""
+#, fuzzy
+msgid "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
+msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../BFZ.rst:110
 msgid "Courier Griffin"
@@ -291,9 +293,9 @@ msgstr ""
 
 #: ../../BFZ.rst:121
 msgid ""
-"Awaken 2—|mana_4| |mana_w| (If you cast this spell for |mana_4| |mana_w|, "
-"also put two +1/+1 counters on target land you control and it becomes a 0/0 "
-"Elemental creature with haste. It's still a land.)"
+"Awaken 2—|mana_4|\\ |mana_w| (If you cast this spell for |mana_4|\\ |"
+"mana_w|, also put two +1/+1 counters on target land you control and it "
+"becomes a 0/0 Elemental creature with haste. It's still a land.)"
 msgstr ""
 
 #: ../../BFZ.rst:124
@@ -475,9 +477,9 @@ msgstr ""
 
 #: ../../BFZ.rst:203
 msgid ""
-"Awaken 4—|mana_4| |mana_w| (If you cast this spell for |mana_4| |mana_w|, "
-"also put four +1/+1 counters on target land you control and it becomes a 0/0 "
-"Elemental creature with haste. It's still a land.)"
+"Awaken 4—|mana_4|\\ |mana_w| (If you cast this spell for |mana_4|\\ |"
+"mana_w|, also put four +1/+1 counters on target land you control and it "
+"becomes a 0/0 Elemental creature with haste. It's still a land.)"
 msgstr ""
 
 #: ../../BFZ.rst:210
@@ -490,10 +492,10 @@ msgstr ""
 
 #: ../../BFZ.rst:209
 msgid ""
-"Awaken 4—|mana_5| |mana_w| |mana_w| |mana_w| (If you cast this spell for |"
-"mana_5| |mana_w| |mana_w| |mana_w|, also put four +1/+1 counters on target "
-"land you control and it becomes a 0/0 Elemental creature with haste. It's "
-"still a land.)"
+"Awaken 4—|mana_5|\\ |mana_w|\\ |mana_w|\\ |mana_w| (If you cast this spell "
+"for |mana_5|\\ |mana_w|\\ |mana_w|\\ |mana_w|, also put four +1/+1 counters "
+"on target land you control and it becomes a 0/0 Elemental creature with "
+"haste. It's still a land.)"
 msgstr ""
 
 #: ../../BFZ.rst:216
@@ -565,9 +567,9 @@ msgstr "Zniszcz wskazanego zatapowanego stwora."
 
 #: ../../BFZ.rst:241
 msgid ""
-"Awaken 3—|mana_5| |mana_w| (If you cast this spell for |mana_5| |mana_w|, "
-"also put three +1/+1 counters on target land you control and it becomes a "
-"0/0 Elemental creature with haste. It's still a land.)"
+"Awaken 3—|mana_5|\\ |mana_w| (If you cast this spell for |mana_5|\\ |"
+"mana_w|, also put three +1/+1 counters on target land you control and it "
+"becomes a 0/0 Elemental creature with haste. It's still a land.)"
 msgstr ""
 
 #: ../../BFZ.rst:246
@@ -670,8 +672,8 @@ msgstr ""
 
 #: ../../BFZ.rst:283
 msgid ""
-"|mana_2| |mana_u|, Put a card an opponent owns from exile into that player's "
-"graveyard: Tap target creature."
+"|mana_2|\\ |mana_u|, Put a card an opponent owns from exile into that "
+"player's graveyard: Tap target creature."
 msgstr ""
 
 #: ../../BFZ.rst:292
@@ -829,9 +831,9 @@ msgstr "Zwróć wskazanego stwora do ręki jego władcy."
 
 #: ../../BFZ.rst:383 ../../BFZ.rst:451
 msgid ""
-"Awaken 3—|mana_4| |mana_u| (If you cast this spell for |mana_4| |mana_u|, "
-"also put three +1/+1 counters on target land you control and it becomes a "
-"0/0 Elemental creature with haste. It's still a land.)"
+"Awaken 3—|mana_4|\\ |mana_u| (If you cast this spell for |mana_4|\\ |"
+"mana_u|, also put three +1/+1 counters on target land you control and it "
+"becomes a 0/0 Elemental creature with haste. It's still a land.)"
 msgstr ""
 
 #: ../../BFZ.rst:390
@@ -844,9 +846,9 @@ msgstr "Dobierz dwie karty."
 
 #: ../../BFZ.rst:389
 msgid ""
-"Awaken 4—|mana_5| |mana_u| (If you cast this spell for |mana_5| |mana_u|, "
-"also put four +1/+1 counters on target land you control and it becomes a 0/0 "
-"Elemental creature with haste. It's still a land.)"
+"Awaken 4—|mana_5|\\ |mana_u| (If you cast this spell for |mana_5|\\ |"
+"mana_u|, also put four +1/+1 counters on target land you control and it "
+"becomes a 0/0 Elemental creature with haste. It's still a land.)"
 msgstr ""
 
 #: ../../BFZ.rst:394
@@ -854,7 +856,7 @@ msgid "Coralhelm Guide"
 msgstr ""
 
 #: ../../BFZ.rst:393
-msgid "|mana_4| |mana_u|: Target creature can't be blocked this turn."
+msgid "|mana_4|\\ |mana_u|: Target creature can't be blocked this turn."
 msgstr ""
 
 #: ../../BFZ.rst:398
@@ -919,10 +921,10 @@ msgstr ""
 
 #: ../../BFZ.rst:423
 msgid ""
-"Awaken 6—|mana_6| |mana_u| |mana_u| |mana_u| (If you cast this spell for |"
-"mana_6| |mana_u| |mana_u| |mana_u|, also put six +1/+1 counters on target "
-"land you control and it becomes a 0/0 Elemental creature with haste. It's "
-"still a land.)"
+"Awaken 6—|mana_6|\\ |mana_u|\\ |mana_u|\\ |mana_u| (If you cast this spell "
+"for |mana_6|\\ |mana_u|\\ |mana_u|\\ |mana_u|, also put six +1/+1 counters "
+"on target land you control and it becomes a 0/0 Elemental creature with "
+"haste. It's still a land.)"
 msgstr ""
 
 #: ../../BFZ.rst:432
@@ -940,11 +942,14 @@ msgid "Remove a crystal counter from Prism Array: Tap target creature."
 msgstr ""
 
 #: ../../BFZ.rst:431
+#, fuzzy
 msgid ""
-"|mana_w| |mana_u| |mana_b| |mana_r| |mana_g|: Scry 3. (Look at the top three "
-"cards of your library, then put any number of them on the bottom of your "
-"library and the rest on top in any order.)"
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Scry 3. (Look at the "
+"top three cards of your library, then put any number of them on the bottom "
+"of your library and the rest on top in any order.)"
 msgstr ""
+"Spójrz na trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich w "
+"twojej ręce, a pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../BFZ.rst:440
 msgid "Retreat to Coralhelm"
@@ -998,9 +1003,10 @@ msgstr "Skontruj wskazany czar."
 
 #: ../../BFZ.rst:457
 msgid ""
-"Awaken 3—|mana_4| |mana_u| |mana_u| (If you cast this spell for |mana_4| |"
-"mana_u| |mana_u|, also put three +1/+1 counters on target land you control "
-"and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+"Awaken 3—|mana_4|\\ |mana_u|\\ |mana_u| (If you cast this spell for |mana_4|"
+"\\ |mana_u|\\ |mana_u|, also put three +1/+1 counters on target land you "
+"control and it becomes a 0/0 Elemental creature with haste. It's still a "
+"land.)"
 msgstr ""
 
 #: ../../BFZ.rst:464
@@ -1112,8 +1118,8 @@ msgstr ""
 
 #: ../../BFZ.rst:535
 msgid ""
-"|mana_1| |mana_b|: Regenerate Skitterskin. Activate this ability only if you "
-"control another colorless creature."
+"|mana_1|\\ |mana_b|: Regenerate Skitterskin. Activate this ability only if "
+"you control another colorless creature."
 msgstr ""
 
 #: ../../BFZ.rst:544
@@ -1275,7 +1281,7 @@ msgid "Hagra Sharpshooter"
 msgstr ""
 
 #: ../../BFZ.rst:627
-msgid "|mana_4| |mana_b|: Target creature gets -1/-1 until end of turn."
+msgid "|mana_4|\\ |mana_b|: Target creature gets -1/-1 until end of turn."
 msgstr ""
 
 #: ../../BFZ.rst:632
@@ -1319,9 +1325,9 @@ msgstr "Wskazany przeciwnik odrzuca dwie karty."
 
 #: ../../BFZ.rst:647
 msgid ""
-"Awaken 3—|mana_5| |mana_b| (If you cast this spell for |mana_5| |mana_b|, "
-"also put three +1/+1 counters on target land you control and it becomes a "
-"0/0 Elemental creature with haste. It's still a land.)"
+"Awaken 3—|mana_5|\\ |mana_b| (If you cast this spell for |mana_5|\\ |"
+"mana_b|, also put three +1/+1 counters on target land you control and it "
+"becomes a 0/0 Elemental creature with haste. It's still a land.)"
 msgstr ""
 
 #: ../../BFZ.rst:652
@@ -1384,9 +1390,10 @@ msgstr ""
 
 #: ../../BFZ.rst:677
 msgid ""
-"Awaken 3—|mana_5| |mana_b| |mana_b| (If you cast this spell for |mana_5| |"
-"mana_b| |mana_b|, also put three +1/+1 counters on target land you control "
-"and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+"Awaken 3—|mana_5|\\ |mana_b|\\ |mana_b| (If you cast this spell for |mana_5|"
+"\\ |mana_b|\\ |mana_b|, also put three +1/+1 counters on target land you "
+"control and it becomes a 0/0 Elemental creature with haste. It's still a "
+"land.)"
 msgstr ""
 
 #: ../../BFZ.rst:684
@@ -1399,9 +1406,10 @@ msgstr "Zniszcz wskazanego stwora lub wędrowca."
 
 #: ../../BFZ.rst:683
 msgid ""
-"Awaken 4—|mana_5| |mana_b| |mana_b| (If you cast this spell for |mana_5| |"
-"mana_b| |mana_b|, also put four +1/+1 counters on target land you control "
-"and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+"Awaken 4—|mana_5|\\ |mana_b|\\ |mana_b| (If you cast this spell for |mana_5|"
+"\\ |mana_b|\\ |mana_b|, also put four +1/+1 counters on target land you "
+"control and it becomes a 0/0 Elemental creature with haste. It's still a "
+"land.)"
 msgstr ""
 
 #: ../../BFZ.rst:688
@@ -1410,7 +1418,7 @@ msgstr ""
 
 #: ../../BFZ.rst:687
 msgid ""
-"|mana_1| |mana_b|, Sacrifice a creature: You gain 1 life and draw a card."
+"|mana_1|\\ |mana_b|, Sacrifice a creature: You gain 1 life and draw a card."
 msgstr ""
 
 #: ../../BFZ.rst:692
@@ -1419,7 +1427,7 @@ msgstr ""
 
 #: ../../BFZ.rst:691
 msgid ""
-"|mana_1| |mana_b|, Sacrifice another creature: Put two +1/+1 counters on "
+"|mana_1|\\ |mana_b|, Sacrifice another creature: Put two +1/+1 counters on "
 "Voracious Null. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
@@ -1439,7 +1447,7 @@ msgstr ""
 
 #: ../../BFZ.rst:701
 msgid ""
-"|mana_2| |mana_r|, Sacrifice another colorless creature: Barrage Tyrant "
+"|mana_2|\\ |mana_r|, Sacrifice another colorless creature: Barrage Tyrant "
 "deals damage equal to the sacrificed creature's power to any target."
 msgstr ""
 
@@ -1560,8 +1568,8 @@ msgstr ""
 #: ../../BFZ.rst:777
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
-"may pay |mana_4| |mana_r| |mana_r|. If you do, return Akoum Firebird from "
-"your graveyard to the battlefield."
+"may pay |mana_4|\\ |mana_r|\\ |mana_r|. If you do, return Akoum Firebird "
+"from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../BFZ.rst:784
@@ -1582,7 +1590,7 @@ msgstr ""
 #: ../../BFZ.rst:787
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
-"may pay |mana_2| |mana_r|. If you do, create a 3/1 red Elemental creature "
+"may pay |mana_2|\\ |mana_r|. If you do, create a 3/1 red Elemental creature "
 "token with trample and haste. Exile that token at the beginning of the next "
 "end step."
 msgstr ""
@@ -1607,9 +1615,9 @@ msgstr ""
 
 #: ../../BFZ.rst:797
 msgid ""
-"Awaken 4—|mana_6| |mana_r| (If you cast this spell for |mana_6| |mana_r|, "
-"also put four +1/+1 counters on target land you control and it becomes a 0/0 "
-"Elemental creature with haste. It's still a land.)"
+"Awaken 4—|mana_6|\\ |mana_r| (If you cast this spell for |mana_6|\\ |"
+"mana_r|, also put four +1/+1 counters on target land you control and it "
+"becomes a 0/0 Elemental creature with haste. It's still a land.)"
 msgstr ""
 
 #: ../../BFZ.rst:802
@@ -1656,7 +1664,7 @@ msgid "Lavastep Raider"
 msgstr ""
 
 #: ../../BFZ.rst:819
-msgid "|mana_2| |mana_r|: Lavastep Raider gets +2/+0 until end of turn."
+msgid "|mana_2|\\ |mana_r|: Lavastep Raider gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../BFZ.rst:826
@@ -1856,10 +1864,13 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:917
+#, fuzzy
 msgid ""
-"|mana_1| |mana_g|, Sacrifice From Beyond: Search your library for an Eldrazi "
-"card, reveal it, put it into your hand, then shuffle your library."
+"|mana_1|\\ |mana_g|, Sacrifice From Beyond: Search your library for an "
+"Eldrazi card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
+"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../BFZ.rst:924
 msgid "Unnatural Aggression"
@@ -1877,9 +1888,9 @@ msgstr ""
 
 #: ../../BFZ.rst:929
 msgid ""
-"|mana_1| |mana_g|, Put a card an opponent owns from exile into that player's "
-"graveyard: Create a 1/1 colorless Eldrazi Scion creature token. It has "
-"\"Sacrifice this creature: Add |colorless|.\""
+"|mana_1|\\ |mana_g|, Put a card an opponent owns from exile into that "
+"player's graveyard: Create a 1/1 colorless Eldrazi Scion creature token. It "
+"has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
 
 #: ../../BFZ.rst:936
@@ -1910,9 +1921,9 @@ msgstr ""
 
 #: ../../BFZ.rst:945
 msgid ""
-"Awaken 4—|mana_6| |mana_g| (If you cast this spell for |mana_6| |mana_g|, "
-"also put four +1/+1 counters on target land you control and it becomes a 0/0 "
-"Elemental creature with haste. It's still a land.)"
+"Awaken 4—|mana_6|\\ |mana_g| (If you cast this spell for |mana_6|\\ |"
+"mana_g|, also put four +1/+1 counters on target land you control and it "
+"becomes a 0/0 Elemental creature with haste. It's still a land.)"
 msgstr ""
 
 #: ../../BFZ.rst:950
@@ -1975,7 +1986,7 @@ msgstr ""
 #: ../../BFZ.rst:973
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, you "
-"may pay |mana_3| |mana_g|. If you do, put two +1/+1 counters on Murasa "
+"may pay |mana_3|\\ |mana_g|. If you do, put two +1/+1 counters on Murasa "
 "Ranger."
 msgstr ""
 
@@ -2057,7 +2068,8 @@ msgstr ""
 #: ../../BFZ.rst:1011
 #, fuzzy
 msgid "Put a +1/+1 counter on target creature."
-msgstr "{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
+msgstr ""
+"{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
 
 #: ../../BFZ.rst:1013
 msgid "You gain 2 life."
@@ -2207,7 +2219,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1073
 msgid ""
-"|mana_b| |mana_g|, Sacrifice a creature: Target creature gets -2/-2 until "
+"|mana_b|\\ |mana_g|, Sacrifice a creature: Target creature gets -2/-2 until "
 "end of turn."
 msgstr ""
 
@@ -2265,8 +2277,8 @@ msgstr "Dotyk śmierci"
 
 #: ../../BFZ.rst:1109
 msgid ""
-"|mana_3| |mana_u| |mana_b|: Draw a card. Each opponent exiles the top card "
-"of their library."
+"|mana_3|\\ |mana_u|\\ |mana_b|: Draw a card. Each opponent exiles the top "
+"card of their library."
 msgstr ""
 
 #: ../../BFZ.rst:1116
@@ -2456,9 +2468,10 @@ msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
 
 #: ../../BFZ.rst:1201
 msgid ""
-"Awaken 4—|mana_4| |mana_w| |mana_u| (If you cast this spell for |mana_4| |"
-"mana_w| |mana_u|, also put four +1/+1 counters on target land you control "
-"and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+"Awaken 4—|mana_4|\\ |mana_w|\\ |mana_u| (If you cast this spell for |mana_4|"
+"\\ |mana_w|\\ |mana_u|, also put four +1/+1 counters on target land you "
+"control and it becomes a 0/0 Elemental creature with haste. It's still a "
+"land.)"
 msgstr ""
 
 #: ../../BFZ.rst:1208
@@ -2589,7 +2602,8 @@ msgid "Blighted Cataract"
 msgstr ""
 
 #: ../../BFZ.rst:1263
-msgid "|mana_5| |mana_u|, |tap|, Sacrifice Blighted Cataract: Draw two cards."
+msgid ""
+"|mana_5|\\ |mana_u|, |tap|, Sacrifice Blighted Cataract: Draw two cards."
 msgstr ""
 
 #: ../../BFZ.rst:1270
@@ -2598,8 +2612,8 @@ msgstr ""
 
 #: ../../BFZ.rst:1269
 msgid ""
-"|mana_4| |mana_b|, |tap|, Sacrifice Blighted Fen: Target opponent sacrifices "
-"a creature."
+"|mana_4|\\ |mana_b|, |tap|, Sacrifice Blighted Fen: Target opponent "
+"sacrifices a creature."
 msgstr ""
 
 #: ../../BFZ.rst:1276
@@ -2608,8 +2622,8 @@ msgstr ""
 
 #: ../../BFZ.rst:1275
 msgid ""
-"|mana_4| |mana_r|, |tap|, Sacrifice Blighted Gorge: It deals 2 damage to any "
-"target."
+"|mana_4|\\ |mana_r|, |tap|, Sacrifice Blighted Gorge: It deals 2 damage to "
+"any target."
 msgstr ""
 
 #: ../../BFZ.rst:1282
@@ -2618,7 +2632,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1281
 msgid ""
-"|mana_3| |mana_w|, |tap|, Sacrifice Blighted Steppe: You gain 2 life for "
+"|mana_3|\\ |mana_w|, |tap|, Sacrifice Blighted Steppe: You gain 2 life for "
 "each creature you control."
 msgstr ""
 
@@ -2627,11 +2641,14 @@ msgid "Blighted Woodland"
 msgstr ""
 
 #: ../../BFZ.rst:1287
+#, fuzzy
 msgid ""
-"|mana_3| |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
+"|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
 "for up to two basic land cards, put them onto the battlefield tapped, then "
 "shuffle your library."
 msgstr ""
+"|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
+"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../BFZ.rst:1294
 msgid "Canopy Vista"
@@ -2726,7 +2743,7 @@ msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../BFZ.rst:1327
 msgid ""
-"|mana_2| |mana_g| |mana_u|: Lumbering Falls becomes a 3/3 green and blue "
+"|mana_2|\\ |mana_g|\\ |mana_u|: Lumbering Falls becomes a 3/3 green and blue "
 "Elemental creature with hexproof until end of turn. It's still a land."
 msgstr ""
 
@@ -2806,7 +2823,7 @@ msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../BFZ.rst:1363
 msgid ""
-"|mana_1| |mana_w| |mana_b|: Shambling Vent becomes a 2/3 white and black "
+"|mana_1|\\ |mana_w|\\ |mana_b|: Shambling Vent becomes a 2/3 white and black "
 "Elemental creature with lifelink until end of turn. It's still a land."
 msgstr ""
 
@@ -2816,7 +2833,7 @@ msgstr ""
 
 #: ../../BFZ.rst:1369
 msgid ""
-"|tap|: Add |colorless| |colorless|. Spend this mana only to cast colorless "
+"|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast colorless "
 "spells. Activate this ability only if you control seven or more lands."
 msgstr ""
 

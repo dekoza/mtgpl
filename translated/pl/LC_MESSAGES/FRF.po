@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2019-01-01 01:24+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/frf/pl/>\n"
@@ -232,8 +232,8 @@ msgstr ""
 #: ../../FRF.rst:59
 #, fuzzy
 msgid ""
-"|mana_1| |mana_bg| |mana_bg|: Move a +1/+1 counter from target creature onto "
-"a second target creature."
+"|mana_1|\\ |mana_bg|\\ |mana_bg|: Move a +1/+1 counter from target creature "
+"onto a second target creature."
 msgstr ""
 "|mana_1| |mana_bg| |mana_bg|: Przenieś znacznik +1/+1 ze wskazanego stwora "
 "na innego wskazanego stwora."
@@ -427,8 +427,9 @@ msgstr ""
 
 # 5a653eeea4764dec870ba0a41d223d71
 #: ../../FRF.rst:113
+#, fuzzy
 msgid ""
-"|mana_3| |mana_w|: Manifest the top card of your library. (Put it onto the "
+"|mana_3|\\ |mana_w|: Manifest the top card of your library. (Put it onto the "
 "battlefield face down as a 2/2 creature. Turn it face up any time for its "
 "mana cost if it's a creature card.)"
 msgstr ""
@@ -449,8 +450,8 @@ msgid ""
 "Whenever you cast a noncreature spell, create a 1/1 white Monk creature "
 "token with prowess."
 msgstr ""
-"Ilekroć rzucasz czar nie będący stworem, stwórz żeton białego stwora Mnich 1/"
-"1 z Walecznością."
+"Ilekroć rzucasz czar nie będący stworem, stwórz żeton białego stwora Mnich "
+"1/1 z Walecznością."
 
 # d0c1e72443e24308921a9afc1cceadba
 #: ../../FRF.rst:126
@@ -582,9 +583,9 @@ msgstr "Czary sztuczek i obrzędów, którymi władasz mają Więź Życia."
 #: ../../FRF.rst:161
 #, fuzzy
 msgid ""
-"|mana_2| |mana_ur| |mana_ur|: The next time you cast an instant or sorcery "
-"spell from your hand this turn, put that card into your hand instead of into "
-"your graveyard as it resolves."
+"|mana_2|\\ |mana_ur|\\ |mana_ur|: The next time you cast an instant or "
+"sorcery spell from your hand this turn, put that card into your hand instead "
+"of into your graveyard as it resolves."
 msgstr ""
 "|mana_2| |mana_ur| |mana_ur|: Następnym razem gdy rzucisz z ręki sztuczkę "
 "lub obrzęd, w trakcie jego rozpatrywania umieść ową kartę w twojej ręce "
@@ -941,7 +942,7 @@ msgstr "Renowned Weaponsmith"
 #: ../../FRF.rst:285
 #, fuzzy
 msgid ""
-"|tap|: Add |colorless| |colorless|. Spend this mana only to cast artifact "
+"|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast artifact "
 "spells or activate abilities of artifacts."
 msgstr ""
 "|tap|: Dodaj |mana_2| do twojej puli many. Użyj tej many tylko do rzucania "
@@ -1030,7 +1031,7 @@ msgstr "Shu Yun, the Silent Tempest"
 #: ../../FRF.rst:309
 #, fuzzy
 msgid ""
-"Whenever you cast a noncreature spell, you may pay |mana_rw| |mana_rw|. If "
+"Whenever you cast a noncreature spell, you may pay |mana_rw|\\ |mana_rw|. If "
 "you do, target creature gains double strike until end of turn."
 msgstr ""
 "Ilekroć rzucasz czar nie będący stworem możesz zapłacić |mana_rw| |mana_rw|. "
@@ -1094,8 +1095,9 @@ msgstr ""
 "zaatakowanego gracza."
 
 #: ../../FRF.rst:331
+#, fuzzy
 msgid ""
-"|mana_3| |mana_bg| |mana_bg|: Put Torrent Elemental from exile onto the "
+"|mana_3|\\ |mana_bg|\\ |mana_bg|: Put Torrent Elemental from exile onto the "
 "battlefield tapped. Activate this ability only any time you could cast a "
 "sorcery."
 msgstr ""
@@ -1159,8 +1161,9 @@ msgstr "Alesha's Vanguard"
 
 # 2a341a86d1944cc386b704541f10f717
 #: ../../FRF.rst:349
+#, fuzzy
 msgid ""
-"Dash |mana_2| |mana_b| (You may cast this spell for its dash cost. If you "
+"Dash |mana_2|\\ |mana_b| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
@@ -1237,8 +1240,8 @@ msgstr ""
 #: ../../FRF.rst:373
 #, fuzzy
 msgid ""
-"|mana_3| |mana_rw| |mana_rw|: Creatures your opponents control block this "
-"turn if able, and you choose how those creatures block."
+"|mana_3|\\ |mana_rw|\\ |mana_rw|: Creatures your opponents control block "
+"this turn if able, and you choose how those creatures block."
 msgstr ""
 "|mana_3| |mana_rw| |mana_rw|: Stwory władane przez twoich przeciwników "
 "blokują w tej turze jeśli mogą, a ty wybierasz jak owe stwory blokują."
@@ -1398,8 +1401,9 @@ msgstr "Ilekroć Mardu Shadowspear atakuje, każdy przeciwnik traci 1 życie."
 
 # 0397ecfb30964c239d36f3fe6d7c46e0
 #: ../../FRF.rst:423
+#, fuzzy
 msgid ""
-"Dash |mana_1| |mana_b| (You may cast this spell for its dash cost. If you "
+"Dash |mana_1|\\ |mana_b| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
@@ -1420,13 +1424,14 @@ msgid ""
 "Whenever Mardu Strike Leader attacks, create a 2/1 black Warrior creature "
 "token."
 msgstr ""
-"Ilekroć Mardu Strike Leader atakuje, stwórz żeton czarnego stwora Wojownik 2/"
-"1."
+"Ilekroć Mardu Strike Leader atakuje, stwórz żeton czarnego stwora Wojownik "
+"2/1."
 
 # 4c79c4fe05384b24893e604655081c09
 #: ../../FRF.rst:429
+#, fuzzy
 msgid ""
-"Dash |mana_3| |mana_b| (You may cast this spell for its dash cost. If you "
+"Dash |mana_3|\\ |mana_b| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
@@ -1516,9 +1521,10 @@ msgstr "Qarsi High Priest"
 
 # 3db92265264a44f3bbbd686a809bf37b
 #: ../../FRF.rst:455
+#, fuzzy
 msgid ""
-"|mana_1| |mana_b|, |tap|, Sacrifice another creature: Manifest the top card "
-"of your library. (Put that card onto the battlefield face down as a 2/2 "
+"|mana_1|\\ |mana_b|, |tap|, Sacrifice another creature: Manifest the top "
+"card of your library. (Put that card onto the battlefield face down as a 2/2 "
 "creature. Turn it face up any time for its mana cost if it's a creature "
 "card.)"
 msgstr ""
@@ -1601,8 +1607,8 @@ msgid ""
 "card onto the battlefield face down as a 2/2 creature. Turn it face up any "
 "time for its mana cost if it's a creature card.)"
 msgstr ""
-"Kiedy Sultai Emissary umiera, objaw wierzchnią kartę twojej biblioteki. ("
-"Umieść ową kartę na polu walki frontem w dół jako stwora 2/2. Odwróć ją "
+"Kiedy Sultai Emissary umiera, objaw wierzchnią kartę twojej biblioteki. "
+"(Umieść ową kartę na polu walki frontem w dół jako stwora 2/2. Odwróć ją "
 "frontem w górę w dowolnym momencie za jej koszt many jeśli jest to karta "
 "stwora.)"
 
@@ -1633,7 +1639,7 @@ msgstr "Tasigur, the Golden Fang"
 #: ../../FRF.rst:493
 #, fuzzy
 msgid ""
-"|mana_2| |mana_gu| |mana_gu|: Put the top two cards of your library into "
+"|mana_2|\\ |mana_gu|\\ |mana_gu|: Put the top two cards of your library into "
 "your graveyard, then return a nonland card of an opponent's choice from your "
 "graveyard to your hand."
 msgstr ""
@@ -1681,12 +1687,12 @@ msgstr "Pierwszy cios"
 #: ../../FRF.rst:509
 #, fuzzy
 msgid ""
-"Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb| |"
+"Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb|\\ |"
 "mana_wb|. If you do, return target creature card with power 2 or less from "
 "your graveyard to the battlefield tapped and attacking."
 msgstr ""
-"Ilekroć Alesha, Who Smiles at Death atakuje możesz zapłacić |mana_wb| "
-"|mana_wb|. Jeśli to zrobisz, zwróć wskazaną kartę stwora o sile 2 lub "
+"Ilekroć Alesha, Who Smiles at Death atakuje możesz zapłacić |mana_wb| |"
+"mana_wb|. Jeśli to zrobisz, zwróć wskazaną kartę stwora o sile 2 lub "
 "mniejszej z twojego cmentarza na pole walki zatapowaną i atakującą."
 
 # b752b50401464f6d81f0b312bd5e871c
@@ -1841,10 +1847,11 @@ msgstr ""
 
 # 7a153310f0a4478d82c0be28f4e08bcb
 #: ../../FRF.rst:553
+#, fuzzy
 msgid ""
-"Dash |mana_2| |mana_r| |mana_r| (You may cast this spell for its dash cost. "
-"If you do, it gains haste, and it's returned from the battlefield to its "
-"owner's hand at the beginning of the next end step.)"
+"Dash |mana_2|\\ |mana_r|\\ |mana_r| (You may cast this spell for its dash "
+"cost. If you do, it gains haste, and it's returned from the battlefield to "
+"its owner's hand at the beginning of the next end step.)"
 msgstr ""
 "Brawura |mana_2| |mana_r| |mana_r| (Możesz rzucić ten czar za koszt brawury. "
 "Jeśli tak zrobisz, dostaje on Pośpiech i jest zwracany z pola walki do ręki "
@@ -1913,8 +1920,9 @@ msgstr ""
 # 3bb05d0f233a4259890307ae8aba059e
 # dcd1a44b766f4374a5b787a2924ae122
 #: ../../FRF.rst:571 ../../FRF.rst:657
+#, fuzzy
 msgid ""
-"Dash |mana_2| |mana_r| (You may cast this spell for its dash cost. If you "
+"Dash |mana_2|\\ |mana_r| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
@@ -2004,8 +2012,9 @@ msgstr "Mardu Scout"
 
 # e6083f4d52004f43a87f1b60b8801957
 #: ../../FRF.rst:601
+#, fuzzy
 msgid ""
-"Dash |mana_1| |mana_r| (You may cast this spell for its dash cost. If you "
+"Dash |mana_1|\\ |mana_r| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
@@ -2136,8 +2145,8 @@ msgstr ""
 #: ../../FRF.rst:635
 #, fuzzy
 msgid ""
-"Ferocious — |mana_2| |mana_gu| |mana_gu|: Draw a card for each creature you "
-"control with power 4 or greater."
+"Ferocious — |mana_2|\\ |mana_gu|\\ |mana_gu|: Draw a card for each creature "
+"you control with power 4 or greater."
 msgstr ""
 "Zaciekłość — |mana_2| |mana_gu| |mana_gu|: Dobierz tyle kart, iloma stworami "
 "o sile 4 lub większej władasz."
@@ -2432,7 +2441,8 @@ msgstr "Kładąc Frontier Siege na polu walki wybierz Chanów lub Smoki."
 #: ../../FRF.rst:729
 #, fuzzy
 msgid ""
-"Khans — At the beginning of each of your main phases, add |mana_g| |mana_g|."
+"Khans — At the beginning of each of your main phases, add |mana_g|\\ |"
+"mana_g|."
 msgstr ""
 "Chanowie — Z początkiem każdej twojej fazy głównej dodaj |mana_g| |mana_g| "
 "do twojej puli many."
@@ -2608,8 +2618,9 @@ msgstr "Temur Sabertooth"
 
 # 885b53b7b7514f38936dac5f94ec396f
 #: ../../FRF.rst:785
+#, fuzzy
 msgid ""
-"|mana_1| |mana_g|: You may return another creature you control to its "
+"|mana_1|\\ |mana_g|: You may return another creature you control to its "
 "owner's hand. If you do, Temur Sabertooth gains indestructible until end of "
 "turn."
 msgstr ""
@@ -2651,25 +2662,28 @@ msgid "Warden of the First Tree"
 msgstr "Warden of the First Tree (Strażnik Pierwszego Drzewa)"
 
 #: ../../FRF.rst:795
+#, fuzzy
 msgid ""
-"|mana_1| |mana_wb|: Warden of the First Tree becomes a Human Warrior with "
+"|mana_1|\\ |mana_wb|: Warden of the First Tree becomes a Human Warrior with "
 "base power and toughness 3/3."
 msgstr ""
 "|mana_1| |mana_wb|: Ten stwór staje się Człowiekiem Wojownikiem o bazowej "
 "sile i wytrzymałości 3/3."
 
 #: ../../FRF.rst:797
+#, fuzzy
 msgid ""
-"|mana_2| |mana_wb| |mana_wb|: If Warden of the First Tree is a Warrior, it "
-"becomes a Human Spirit Warrior with trample and lifelink."
+"|mana_2|\\ |mana_wb|\\ |mana_wb|: If Warden of the First Tree is a Warrior, "
+"it becomes a Human Spirit Warrior with trample and lifelink."
 msgstr ""
 "|mana_2| |mana_wb| |mana_wb|: Jeśli ten stwór jest Wojownikiem, staje się "
 "Człowiekiem Duchem Wojownikiem z tratowaniem i więzią życia."
 
 #: ../../FRF.rst:799
+#, fuzzy
 msgid ""
-"|mana_3| |mana_wb| |mana_wb| |mana_wb|: If Warden of the First Tree is a "
-"Spirit, put five +1/+1 counters on it."
+"|mana_3|\\ |mana_wb|\\ |mana_wb|\\ |mana_wb|: If Warden of the First Tree is "
+"a Spirit, put five +1/+1 counters on it."
 msgstr ""
 "|mana_3| |mana_wb| |mana_wb| |mana_wb|: Jeśli ten stwór jest Duchem, umieść "
 "na nim pięć znaczników +1/+1."
@@ -2689,8 +2703,8 @@ msgstr "|tap|: Dostajesz |mana_g|."
 #: ../../FRF.rst:805
 #, fuzzy
 msgid ""
-"Ferocious — |tap|: Add |mana_g| |mana_g|. Activate this ability only if you "
-"control a creature with power 4 or greater."
+"Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate this ability only if "
+"you control a creature with power 4 or greater."
 msgstr ""
 "Zaciekłość — |tap|: Dodaj |mana_g| |mana_g| do twojej puli many. Aktywuj tę "
 "zdolność tylko jeśli władasz stworem o cile 4 lub większej."
@@ -2774,14 +2788,15 @@ msgid "Yasova Dragonclaw"
 msgstr "Yasova Dragonclaw"
 
 #: ../../FRF.rst:827
+#, fuzzy
 msgid ""
-"At the beginning of combat on your turn, you may pay |mana_1| |mana_ur| |"
+"At the beginning of combat on your turn, you may pay |mana_1|\\ |mana_ur|\\ |"
 "mana_ur|. If you do, gain control of target creature an opponent controls "
 "with power less than Yasova Dragonclaw's power until end of turn, untap that "
 "creature, and it gains haste until end of turn."
 msgstr ""
-"Na początku walki w twojej turze, możesz zapłacić |mana_1| |mana_ur| "
-"|mana_ur|. Jeśli tak zrobisz, zyskujesz do końca tury władanie nad wskazanym "
+"Na początku walki w twojej turze, możesz zapłacić |mana_1| |mana_ur| |"
+"mana_ur|. Jeśli tak zrobisz, zyskujesz do końca tury władanie nad wskazanym "
 "stworem pod władaniem przeciwnika o sile mniejszej niż siła tego stwora, "
 "odtapuj owego stwora, zyskuje on pośpiech do końca tury."
 
@@ -2903,10 +2918,11 @@ msgstr ""
 
 # 1d5115baa9b340a2bc209d233bf23d3e
 #: ../../FRF.rst:865
+#, fuzzy
 msgid ""
-"Dash |mana_3| |mana_b| |mana_r| (You may cast this spell for its dash cost. "
-"If you do, it gains haste, and it's returned from the battlefield to its "
-"owner's hand at the beginning of the next end step.)"
+"Dash |mana_3|\\ |mana_b|\\ |mana_r| (You may cast this spell for its dash "
+"cost. If you do, it gains haste, and it's returned from the battlefield to "
+"its owner's hand at the beginning of the next end step.)"
 msgstr ""
 "Brawura |mana_3| |mana_b| |mana_r| (Możesz rzucić ten czar za koszt brawury. "
 "Jeśli tak zrobisz, dostaje on Pośpiech i jest zwracany z pola walki do ręki "

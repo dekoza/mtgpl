@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2018-12-31 10:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dtk/pl/>\n"
@@ -92,7 +92,7 @@ msgstr ""
 
 #: ../../DTK.rst:33 ../../DTK.rst:197
 msgid ""
-"Megamorph |mana_4| |mana_w| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_4|\\ |mana_w| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -186,7 +186,7 @@ msgid "Dromoka Dunecaster"
 msgstr ""
 
 #: ../../DTK.rst:75
-msgid "|mana_1| |mana_w|, |tap|: Tap target creature without flying."
+msgid "|mana_1|\\ |mana_w|, |tap|: Tap target creature without flying."
 msgstr ""
 
 #: ../../DTK.rst:78
@@ -199,7 +199,7 @@ msgstr ""
 
 #: ../../DTK.rst:83
 msgid ""
-"|mana_2| |mana_w|: Bolster 1. (Choose a creature with the least toughness "
+"|mana_2|\\ |mana_w|: Bolster 1. (Choose a creature with the least toughness "
 "among creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
 
@@ -291,7 +291,7 @@ msgstr "Więź życia"
 
 #: ../../DTK.rst:129
 msgid ""
-"Megamorph |mana_2| |mana_w| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_2|\\ |mana_w| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -320,7 +320,7 @@ msgstr "Latanie, czujność"
 
 #: ../../DTK.rst:141
 msgid ""
-"Megamorph |mana_1| |mana_w| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_1|\\ |mana_w| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -335,7 +335,7 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:147
-msgid "|mana_2| |mana_w|: Put a lore counter on Myth Realized."
+msgid "|mana_2|\\ |mana_w|: Put a lore counter on Myth Realized."
 msgstr ""
 
 #: ../../DTK.rst:149
@@ -469,9 +469,9 @@ msgstr "Latanie, więź życia"
 
 #: ../../DTK.rst:211
 msgid ""
-"Megamorph |mana_5| |mana_w| |mana_w| (You may cast this card face down as a "
-"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
-"and put a +1/+1 counter on it.)"
+"Megamorph |mana_5|\\ |mana_w|\\ |mana_w| (You may cast this card face down "
+"as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
+"cost and put a +1/+1 counter on it.)"
 msgstr ""
 
 #: ../../DTK.rst:213
@@ -559,9 +559,9 @@ msgstr ""
 
 #: ../../DTK.rst:253
 msgid ""
-"Megamorph |mana_5| |mana_u| |mana_u| (You may cast this card face down as a "
-"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
-"and put a +1/+1 counter on it.)"
+"Megamorph |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card face down "
+"as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
+"cost and put a +1/+1 counter on it.)"
 msgstr ""
 
 #: ../../DTK.rst:255
@@ -620,7 +620,7 @@ msgstr "Obronność"
 
 #: ../../DTK.rst:281
 msgid ""
-"Megamorph |mana_6| |mana_u| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_6|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -792,7 +792,7 @@ msgstr ""
 
 #: ../../DTK.rst:359
 msgid ""
-"Megamorph |mana_5| |mana_u| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_5|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -827,7 +827,7 @@ msgstr ""
 
 #: ../../DTK.rst:375
 msgid ""
-"Megamorph |mana_3| |mana_u| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_3|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -906,7 +906,7 @@ msgstr ""
 
 #: ../../DTK.rst:417 ../../DTK.rst:443
 msgid ""
-"Megamorph |mana_4| |mana_u| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_4|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -967,8 +967,8 @@ msgstr ""
 
 #: ../../DTK.rst:455
 msgid ""
-"Whenever you cast a noncreature spell, you may pay |mana_1| |mana_u|. If you "
-"do, create a 2/2 blue Djinn Monk creature token with flying."
+"Whenever you cast a noncreature spell, you may pay |mana_1|\\ |mana_u|. If "
+"you do, create a 2/2 blue Djinn Monk creature token with flying."
 msgstr ""
 
 #: ../../DTK.rst:464
@@ -977,7 +977,7 @@ msgstr ""
 
 #: ../../DTK.rst:461
 msgid ""
-"Megamorph |mana_1| |mana_u| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_1|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -1039,9 +1039,9 @@ msgstr "Latanie, dotyk śmierci"
 
 #: ../../DTK.rst:495
 msgid ""
-"Megamorph |mana_5| |mana_b| |mana_b| (You may cast this card face down as a "
-"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
-"and put a +1/+1 counter on it.)"
+"Megamorph |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this card face down "
+"as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
+"cost and put a +1/+1 counter on it.)"
 msgstr ""
 
 #: ../../DTK.rst:497
@@ -1062,7 +1062,7 @@ msgstr ""
 
 #: ../../DTK.rst:503
 msgid ""
-"Dash |mana_3| |mana_b| (You may cast this spell for its dash cost. If you "
+"Dash |mana_3|\\ |mana_b| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
@@ -1073,8 +1073,8 @@ msgstr ""
 
 #: ../../DTK.rst:507
 msgid ""
-"|mana_1| |mana_b|, Sacrifice another Warrior creature: Target player loses X "
-"life and you gain X life, where X is the sacrificed creature's power."
+"|mana_1|\\ |mana_b|, Sacrifice another Warrior creature: Target player loses "
+"X life and you gain X life, where X is the sacrificed creature's power."
 msgstr ""
 
 #: ../../DTK.rst:512
@@ -1114,7 +1114,7 @@ msgstr ""
 
 #: ../../DTK.rst:523
 msgid ""
-"|mana_1| |mana_b|, Exile one or more creature cards from your graveyard: "
+"|mana_1|\\ |mana_b|, Exile one or more creature cards from your graveyard: "
 "Create a tapped X/X black Zombie Horror creature token, where X is twice the "
 "number of cards exiled this way."
 msgstr ""
@@ -1273,7 +1273,7 @@ msgstr ""
 
 #: ../../DTK.rst:593
 msgid ""
-"Dash |mana_2| |mana_b| (You may cast this spell for its dash cost. If you "
+"Dash |mana_2|\\ |mana_b| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
@@ -1288,7 +1288,7 @@ msgstr ""
 
 #: ../../DTK.rst:599
 msgid ""
-"Megamorph |mana_3| |mana_b| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_3|\\ |mana_b| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -1299,7 +1299,7 @@ msgstr ""
 
 #: ../../DTK.rst:603
 msgid ""
-"Megamorph |mana_6| |mana_b| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_6|\\ |mana_b| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -1333,9 +1333,9 @@ msgstr ""
 
 #: ../../DTK.rst:619
 msgid ""
-"Dash |mana_2| |mana_b| |mana_b| (You may cast this spell for its dash cost. "
-"If you do, it gains haste, and it's returned from the battlefield to its "
-"owner's hand at the beginning of the next end step.)"
+"Dash |mana_2|\\ |mana_b|\\ |mana_b| (You may cast this spell for its dash "
+"cost. If you do, it gains haste, and it's returned from the battlefield to "
+"its owner's hand at the beginning of the next end step.)"
 msgstr ""
 
 #: ../../DTK.rst:626
@@ -1368,7 +1368,7 @@ msgstr ""
 
 #: ../../DTK.rst:639
 msgid ""
-"Dash |mana_1| |mana_b| (You may cast this spell for its dash cost. If you "
+"Dash |mana_1|\\ |mana_b| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
@@ -1445,7 +1445,7 @@ msgstr ""
 
 #: ../../DTK.rst:673
 msgid ""
-"Megamorph |mana_2| |mana_b| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_2|\\ |mana_b| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -1507,7 +1507,7 @@ msgstr ""
 
 #: ../../DTK.rst:709
 msgid ""
-"Megamorph |mana_2| |mana_r| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_2|\\ |mana_r| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -1522,10 +1522,10 @@ msgstr ""
 
 #: ../../DTK.rst:715
 msgid ""
-"Formidable — |mana_3| |mana_r| |mana_r|: Creatures you control gain menace "
-"until end of turn. Activate this ability only if creatures you control have "
-"total power 8 or greater. (They can't be blocked except by two or more "
-"creatures.)"
+"Formidable — |mana_3|\\ |mana_r|\\ |mana_r|: Creatures you control gain "
+"menace until end of turn. Activate this ability only if creatures you "
+"control have total power 8 or greater. (They can't be blocked except by two "
+"or more creatures.)"
 msgstr ""
 
 #: ../../DTK.rst:720
@@ -1558,8 +1558,8 @@ msgstr ""
 
 #: ../../DTK.rst:729
 msgid ""
-"Formidable — |mana_2| |mana_r|: Crater Elemental has base power 8 until end "
-"of turn. Activate this ability only if creatures you control have total "
+"Formidable — |mana_2|\\ |mana_r|: Crater Elemental has base power 8 until "
+"end of turn. Activate this ability only if creatures you control have total "
 "power 8 or greater."
 msgstr ""
 
@@ -1617,14 +1617,15 @@ msgid "|mana_r|: Dragon Whisperer gains flying until end of turn."
 msgstr ""
 
 #: ../../DTK.rst:755
-msgid "|mana_1| |mana_r|: Dragon Whisperer gets +1/+0 until end of turn."
-msgstr ""
+#, fuzzy
+msgid "|mana_1|\\ |mana_r|: Dragon Whisperer gets +1/+0 until end of turn."
+msgstr "Wskazany stwór dostaje +2/+2 do końca tury."
 
 #: ../../DTK.rst:757
 msgid ""
-"Formidable — |mana_4| |mana_r| |mana_r|: Create a 4/4 red Dragon creature "
-"token with flying. Activate this ability only if creatures you control have "
-"total power 8 or greater."
+"Formidable — |mana_4|\\ |mana_r|\\ |mana_r|: Create a 4/4 red Dragon "
+"creature token with flying. Activate this ability only if creatures you "
+"control have total power 8 or greater."
 msgstr ""
 
 #: ../../DTK.rst:762
@@ -1712,7 +1713,7 @@ msgstr ""
 
 #: ../../DTK.rst:793 ../../DTK.rst:917
 msgid ""
-"Dash |mana_2| |mana_r| (You may cast this spell for its dash cost. If you "
+"Dash |mana_2|\\ |mana_r| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
@@ -1830,7 +1831,7 @@ msgstr ""
 
 #: ../../DTK.rst:847 ../../DTK.rst:923
 msgid ""
-"Dash |mana_1| |mana_r| (You may cast this spell for its dash cost. If you "
+"Dash |mana_1|\\ |mana_r| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
@@ -1853,7 +1854,7 @@ msgstr ""
 
 #: ../../DTK.rst:857
 msgid ""
-"Dash |mana_3| |mana_r| (You may cast this spell for its dash cost. If you "
+"Dash |mana_3|\\ |mana_r| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
@@ -1864,9 +1865,9 @@ msgstr ""
 
 #: ../../DTK.rst:863
 msgid ""
-"Megamorph |mana_4| |mana_r| |mana_r| (You may cast this card face down as a "
-"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
-"and put a +1/+1 counter on it.)"
+"Megamorph |mana_4|\\ |mana_r|\\ |mana_r| (You may cast this card face down "
+"as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
+"cost and put a +1/+1 counter on it.)"
 msgstr ""
 
 #: ../../DTK.rst:872
@@ -1879,9 +1880,9 @@ msgstr ""
 
 #: ../../DTK.rst:869
 msgid ""
-"Megamorph |mana_5| |mana_r| |mana_r| (You may cast this card face down as a "
-"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
-"and put a +1/+1 counter on it.)"
+"Megamorph |mana_5|\\ |mana_r|\\ |mana_r| (You may cast this card face down "
+"as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
+"cost and put a +1/+1 counter on it.)"
 msgstr ""
 
 #: ../../DTK.rst:871
@@ -2000,7 +2001,7 @@ msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../DTK.rst:929
 msgid ""
-"Megamorph |mana_5| |mana_g| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_5|\\ |mana_g| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -2021,7 +2022,7 @@ msgstr ""
 
 #: ../../DTK.rst:937 ../../DTK.rst:989
 msgid ""
-"Megamorph |mana_1| |mana_g| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_1|\\ |mana_g| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -2051,8 +2052,9 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:947
-msgid "|mana_2| |mana_g|: Creatures you control get +0/+1 until end of turn."
-msgstr ""
+#, fuzzy
+msgid "|mana_2|\\ |mana_g|: Creatures you control get +0/+1 until end of turn."
+msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../DTK.rst:952
 msgid "Atarka Beastbreaker"
@@ -2060,9 +2062,9 @@ msgstr ""
 
 #: ../../DTK.rst:951
 msgid ""
-"Formidable — |mana_4| |mana_g|: Atarka Beastbreaker gets +4/+4 until end of "
-"turn. Activate this ability only if creatures you control have total power 8 "
-"or greater."
+"Formidable — |mana_4|\\ |mana_g|: Atarka Beastbreaker gets +4/+4 until end "
+"of turn. Activate this ability only if creatures you control have total "
+"power 8 or greater."
 msgstr ""
 
 #: ../../DTK.rst:958
@@ -2085,8 +2087,8 @@ msgstr ""
 
 #: ../../DTK.rst:963
 msgid ""
-"Formidable — |tap|: Add |colorless| |colorless| |colorless|. Activate this "
-"ability only if creatures you control have total power 8 or greater."
+"Formidable — |tap|: Add |colorless|\\ |colorless|\\ |colorless|. Activate "
+"this ability only if creatures you control have total power 8 or greater."
 msgstr ""
 
 #: ../../DTK.rst:968
@@ -2128,7 +2130,7 @@ msgstr ""
 
 #: ../../DTK.rst:983
 msgid ""
-"Megamorph |mana_4| |mana_g| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_4|\\ |mana_g| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -2171,7 +2173,7 @@ msgstr ""
 
 #: ../../DTK.rst:1003
 msgid ""
-"Formidable — |mana_1| |mana_g|: Regenerate Dragon-Scarred Bear. Activate "
+"Formidable — |mana_1|\\ |mana_g|: Regenerate Dragon-Scarred Bear. Activate "
 "this ability only if creatures you control have total power 8 or greater."
 msgstr ""
 
@@ -2239,7 +2241,7 @@ msgstr ""
 
 #: ../../DTK.rst:1033
 msgid ""
-"Megamorph |mana_3| |mana_g| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_3|\\ |mana_g| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -2260,9 +2262,9 @@ msgstr "Latanie, tratowanie"
 
 #: ../../DTK.rst:1041
 msgid ""
-"Megamorph |mana_5| |mana_g| |mana_g| (You may cast this card face down as a "
-"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
-"and put a +1/+1 counter on it.)"
+"Megamorph |mana_5|\\ |mana_g|\\ |mana_g| (You may cast this card face down "
+"as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
+"cost and put a +1/+1 counter on it.)"
 msgstr ""
 
 #: ../../DTK.rst:1043
@@ -2287,7 +2289,7 @@ msgstr ""
 
 #: ../../DTK.rst:1051
 msgid ""
-"Formidable — |mana_2| |mana_g|: Target creature blocks Lurking Arynx this "
+"Formidable — |mana_2|\\ |mana_g|: Target creature blocks Lurking Arynx this "
 "turn if able. Activate this ability only if creatures you control have total "
 "power 8 or greater."
 msgstr ""
@@ -2310,7 +2312,7 @@ msgstr ""
 
 #: ../../DTK.rst:1061
 msgid ""
-"|mana_1| |mana_g|: Turn Obscuring Aether face down. (It becomes a 2/2 "
+"|mana_1|\\ |mana_g|: Turn Obscuring Aether face down. (It becomes a 2/2 "
 "creature.)"
 msgstr ""
 
@@ -2356,9 +2358,9 @@ msgstr ""
 
 #: ../../DTK.rst:1079
 msgid ""
-"Megamorph |mana_3| |mana_g| |mana_g| (You may cast this card face down as a "
-"2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost "
-"and put a +1/+1 counter on it.)"
+"Megamorph |mana_3|\\ |mana_g|\\ |mana_g| (You may cast this card face down "
+"as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
+"cost and put a +1/+1 counter on it.)"
 msgstr ""
 
 #: ../../DTK.rst:1086
@@ -2373,8 +2375,8 @@ msgstr ""
 
 #: ../../DTK.rst:1085
 msgid ""
-"|mana_2| |mana_g|, Remove a +1/+1 counter from Salt Road Quartermasters: Put "
-"a +1/+1 counter on target creature."
+"|mana_2|\\ |mana_g|, Remove a +1/+1 counter from Salt Road Quartermasters: "
+"Put a +1/+1 counter on target creature."
 msgstr ""
 
 #: ../../DTK.rst:1090
@@ -2404,7 +2406,7 @@ msgstr ""
 
 #: ../../DTK.rst:1099
 msgid ""
-"Megamorph |mana_6| |mana_g| (You may cast this card face down as a 2/2 "
+"Megamorph |mana_6|\\ |mana_g| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
@@ -2435,7 +2437,7 @@ msgstr ""
 
 #: ../../DTK.rst:1111
 msgid ""
-"Formidable — |mana_9| |mana_g| |mana_g|, |tap|: Each player's life total "
+"Formidable — |mana_9|\\ |mana_g|\\ |mana_g|, |tap|: Each player's life total "
 "becomes the number of creatures they control. Activate this ability only if "
 "creatures you control have total power 8 or greater."
 msgstr ""
@@ -2649,7 +2651,8 @@ msgstr ""
 #: ../../DTK.rst:1217
 #, fuzzy
 msgid "Put a +1/+1 counter on target creature."
-msgstr "{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
+msgstr ""
+"{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
 
 #: ../../DTK.rst:1219
 msgid "Target creature you control fights target creature you don't control."
@@ -2671,13 +2674,13 @@ msgstr ""
 
 #: ../../DTK.rst:1231
 msgid ""
-"|mana_2| |mana_r|: Harbinger of the Hunt deals 1 damage to each creature "
+"|mana_2|\\ |mana_r|: Harbinger of the Hunt deals 1 damage to each creature "
 "without flying."
 msgstr ""
 
 #: ../../DTK.rst:1233
 msgid ""
-"|mana_2| |mana_g|: Harbinger of the Hunt deals 1 damage to each other "
+"|mana_2|\\ |mana_g|: Harbinger of the Hunt deals 1 damage to each other "
 "creature with flying."
 msgstr ""
 
@@ -2790,9 +2793,9 @@ msgstr ""
 
 #: ../../DTK.rst:1297
 msgid ""
-"Whenever Savage Ventmaw attacks, add |mana_r| |mana_r| |mana_r| |mana_g| |"
-"mana_g| |mana_g|. Until end of turn, you don't lose this mana as steps and "
-"phases end."
+"Whenever Savage Ventmaw attacks, add |mana_r|\\ |mana_r|\\ |mana_r|\\ |"
+"mana_g|\\ |mana_g|\\ |mana_g|. Until end of turn, you don't lose this mana "
+"as steps and phases end."
 msgstr ""
 
 #: ../../DTK.rst:1310
@@ -2843,7 +2846,7 @@ msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../DTK.rst:1325
 msgid ""
-"|mana_4| |mana_r| |mana_g|: Atarka Monument becomes a 4/4 red and green "
+"|mana_4|\\ |mana_r|\\ |mana_g|: Atarka Monument becomes a 4/4 red and green "
 "Dragon artifact creature with flying until end of turn."
 msgstr ""
 
@@ -2875,8 +2878,8 @@ msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../DTK.rst:1341
 msgid ""
-"|mana_4| |mana_g| |mana_w|: Dromoka Monument becomes a 4/4 green and white "
-"Dragon artifact creature with flying until end of turn."
+"|mana_4|\\ |mana_g|\\ |mana_w|: Dromoka Monument becomes a 4/4 green and "
+"white Dragon artifact creature with flying until end of turn."
 msgstr ""
 
 #: ../../DTK.rst:1350
@@ -2916,8 +2919,8 @@ msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../DTK.rst:1359
 msgid ""
-"|mana_4| |mana_b| |mana_r|: Kolaghan Monument becomes a 4/4 black and red "
-"Dragon artifact creature with flying until end of turn."
+"|mana_4|\\ |mana_b|\\ |mana_r|: Kolaghan Monument becomes a 4/4 black and "
+"red Dragon artifact creature with flying until end of turn."
 msgstr ""
 
 #: ../../DTK.rst:1366
@@ -2930,7 +2933,7 @@ msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../DTK.rst:1365
 msgid ""
-"|mana_4| |mana_w| |mana_u|: Ojutai Monument becomes a 4/4 white and blue "
+"|mana_4|\\ |mana_w|\\ |mana_u|: Ojutai Monument becomes a 4/4 white and blue "
 "Dragon artifact creature with flying until end of turn."
 msgstr ""
 
@@ -2944,8 +2947,8 @@ msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../DTK.rst:1371
 msgid ""
-"|mana_4| |mana_u| |mana_b|: Silumgar Monument becomes a 4/4 blue and black "
-"Dragon artifact creature with flying until end of turn."
+"|mana_4|\\ |mana_u|\\ |mana_b|: Silumgar Monument becomes a 4/4 blue and "
+"black Dragon artifact creature with flying until end of turn."
 msgstr ""
 
 #: ../../DTK.rst:1378
