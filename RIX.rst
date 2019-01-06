@@ -168,7 +168,7 @@ Admiral's Order
 Aquatic Incursion
    When Aquatic Incursion enters the battlefield, create two 1/1 blue Merfolk creature tokens with hexproof. (They can't be the targets of spells or abilities your opponents control.)
 
-   |mana_3| |mana_u|: Target Merfolk can't be blocked this turn.
+   |mana_3|\ |mana_u|: Target Merfolk can't be blocked this turn.
 
 
 Crafty Cutpurse
@@ -318,7 +318,7 @@ Sworn Guardian
 Timestream Navigator
    Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
 
-   |mana_2| |mana_u| |mana_u|, |tap|, Put Timestream Navigator on the bottom of its owner's library: Take an extra turn after this one. Activate this ability only if you have the city's blessing.
+   |mana_2|\ |mana_u|\ |mana_u|, |tap|, Put Timestream Navigator on the bottom of its owner's library: Take an extra turn after this one. Activate this ability only if you have the city's blessing.
 
 
 Warkite Marauder
@@ -630,7 +630,7 @@ Storm Fleet Swashbuckler
 Sun-Collared Raptor
    Trample
 
-   |mana_2| |mana_r|: Sun-Collared Raptor gets +3/+0 until end of turn.
+   |mana_2|\ |mana_r|: Sun-Collared Raptor gets +3/+0 until end of turn.
 
 
 Swaggering Corsair
@@ -648,7 +648,7 @@ Tilonalli's Crown
 Tilonalli's Summoner
    Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
 
-   Whenever Tilonalli's Summoner attacks, you may pay |mana_x| |mana_r|. If you do, create X 1/1 red Elemental creature tokens that are tapped and attacking. At the beginning of the next end step, exile those tokens unless you have the city's blessing.
+   Whenever Tilonalli's Summoner attacks, you may pay |mana_x|\ |mana_r|. If you do, create X 1/1 red Elemental creature tokens that are tapped and attacking. At the beginning of the next end step, exile those tokens unless you have the city's blessing.
 
 
 Aggressive Urge
@@ -814,7 +814,7 @@ Azor, the Lawbringer
 
    When Azor, the Lawbringer enters the battlefield, each opponent can't cast instant or sorcery spells during that player's next turn.
 
-   Whenever Azor attacks, you may pay |mana_x| |mana_w| |mana_u| |mana_u|. If you do, you gain X life and draw X cards.
+   Whenever Azor attacks, you may pay |mana_x|\ |mana_w|\ |mana_u|\ |mana_u|. If you do, you gain X life and draw X cards.
 
 
 Deadeye Brawler
@@ -846,7 +846,7 @@ Winged Temple of Orazca
 
    |tap|: Add one mana of any color.
 
-   |mana_1| |mana_g| |mana_u|, |tap|: Target creature you control gains flying and gets +X/+X until end of turn, where X is its power.
+   |mana_1|\ |mana_g|\ |mana_u|, |tap|: Target creature you control gains flying and gets +X/+X until end of turn, where X is its power.
 
 
 Huatli, Radiant Champion
@@ -868,11 +868,11 @@ Atzal, Cave of Eternity
 
    |tap|: Add one mana of any color.
 
-   |mana_3| |mana_b| |mana_g|, |tap|: Return target creature card from your graveyard to the battlefield.
+   |mana_3|\ |mana_b|\ |mana_g|, |tap|: Return target creature card from your graveyard to the battlefield.
 
 
 Jungle Creeper
-   |mana_3| |mana_b| |mana_g|: Return Jungle Creeper from your graveyard to your hand.
+   |mana_3|\ |mana_b|\ |mana_g|: Return Jungle Creeper from your graveyard to your hand.
 
 
 Kumena, Tyrant of Orazca
@@ -902,13 +902,13 @@ Metzali, Tower of Triumph
 
    |tap|: Add one mana of any color.
 
-   |mana_1| |mana_r|, |tap|: Metzali, Tower of Triumph deals 2 damage to each opponent.
+   |mana_1|\ |mana_r|, |tap|: Metzali, Tower of Triumph deals 2 damage to each opponent.
 
-   |mana_2| |mana_w|, |tap|: Choose a creature at random that attacked this turn. Destroy that creature.
+   |mana_2|\ |mana_w|, |tap|: Choose a creature at random that attacked this turn. Destroy that creature.
 
 
 Profane Procession
-   |mana_3| |mana_w| |mana_b|: Exile target creature. Then if there are three or more cards exiled with Profane Procession, transform it.
+   |mana_3|\ |mana_w|\ |mana_b|: Exile target creature. Then if there are three or more cards exiled with Profane Procession, transform it.
 
 
 Tomb of the Dusk Rose
@@ -916,7 +916,7 @@ Tomb of the Dusk Rose
 
    |tap|: Add one mana of any color.
 
-   |mana_2| |mana_w| |mana_b|, |tap|: Put a creature card exiled with this permanent onto the battlefield under your control.
+   |mana_2|\ |mana_w|\ |mana_b|, |tap|: Put a creature card exiled with this permanent onto the battlefield under your control.
 
 
 Protean Raider
@@ -970,11 +970,11 @@ Zacama, Primal Calamity
 
    When Zacama, Primal Calamity enters the battlefield, if you cast it, untap all lands you control.
 
-   |mana_2| |mana_r|: Zacama deals 3 damage to target creature.
+   |mana_2|\ |mana_r|: Zacama deals 3 damage to target creature.
 
-   |mana_2| |mana_g|: Destroy target artifact or enchantment.
+   |mana_2|\ |mana_g|: Destroy target artifact or enchantment.
 
-   |mana_2| |mana_w|: You gain 3 life.
+   |mana_2|\ |mana_w|: You gain 3 life.
 
 
 Awakened Amalgam

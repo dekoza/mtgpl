@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -317,7 +317,7 @@ msgid "Zarichi Tiger"
 msgstr ""
 
 #: ../../GTC.rst:145
-msgid "|mana_1| |mana_w|, |tap|: You gain 2 life."
+msgid "|mana_1|\\ |mana_w|, |tap|: You gain 2 life."
 msgstr ""
 
 #: ../../GTC.rst:150
@@ -337,7 +337,7 @@ msgid "Enchanted creature gets -5/-0."
 msgstr ""
 
 #: ../../GTC.rst:157
-msgid "|mana_2| |mana_u|: Return Agoraphobia to its owner's hand."
+msgid "|mana_2|\\ |mana_u|: Return Agoraphobia to its owner's hand."
 msgstr ""
 
 #: ../../GTC.rst:164
@@ -383,7 +383,7 @@ msgid "Frilled Oculus"
 msgstr ""
 
 #: ../../GTC.rst:183
-msgid "|mana_1| |mana_g|: Frilled Oculus gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_1|\\ |mana_g|: Frilled Oculus gets +2/+2 until end of turn. Activate this ability only once each turn."
 msgstr ""
 
 #: ../../GTC.rst:188
@@ -518,7 +518,7 @@ msgid "Simic Fluxmage"
 msgstr ""
 
 #: ../../GTC.rst:257
-msgid "|mana_1| |mana_u|, |tap|: Move a +1/+1 counter from Simic Fluxmage onto target creature."
+msgid "|mana_1|\\ |mana_u|, |tap|: Move a +1/+1 counter from Simic Fluxmage onto target creature."
 msgstr ""
 
 #: ../../GTC.rst:264
@@ -831,7 +831,7 @@ msgid "Cinder Elemental"
 msgstr ""
 
 #: ../../GTC.rst:457
-msgid "|mana_x| |mana_r|, |tap|, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to any target."
+msgid "|mana_x|\\ |mana_r|, |tap|, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to any target."
 msgstr ""
 
 #: ../../GTC.rst:462
@@ -985,7 +985,7 @@ msgid "Scorchwalker"
 msgstr ""
 
 #: ../../GTC.rst:537
-msgid "Bloodrush — |mana_1| |mana_r| |mana_r|, Discard Scorchwalker: Target attacking creature gets +5/+1 until end of turn."
+msgid "Bloodrush — |mana_1|\\ |mana_r|\\ |mana_r|, Discard Scorchwalker: Target attacking creature gets +5/+1 until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:542
@@ -1037,7 +1037,7 @@ msgid "First strike"
 msgstr ""
 
 #: ../../GTC.rst:565
-msgid "Bloodrush — |mana_2| |mana_r|, Discard Viashino Shanktail: Target attacking creature gets +3/+1 and gains first strike until end of turn."
+msgid "Bloodrush — |mana_2|\\ |mana_r|, Discard Viashino Shanktail: Target attacking creature gets +3/+1 and gains first strike until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:570
@@ -1057,7 +1057,7 @@ msgid "Double strike"
 msgstr ""
 
 #: ../../GTC.rst:575
-msgid "Bloodrush — |mana_3| |mana_r| |mana_r|, Discard Wrecking Ogre: Target attacking creature gets +3/+3 and gains double strike until end of turn."
+msgid "Bloodrush — |mana_3|\\ |mana_r|\\ |mana_r|, Discard Wrecking Ogre: Target attacking creature gets +3/+3 and gains double strike until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:580
@@ -1189,7 +1189,7 @@ msgid "Ooze Flux"
 msgstr ""
 
 #: ../../GTC.rst:653
-msgid "|mana_1| |mana_g|, Remove one or more +1/+1 counters from among creatures you control: Create an X/X green Ooze creature token, where X is the number of +1/+1 counters removed this way."
+msgid "|mana_1|\\ |mana_g|, Remove one or more +1/+1 counters from among creatures you control: Create an X/X green Ooze creature token, where X is the number of +1/+1 counters removed this way."
 msgstr ""
 
 #: ../../GTC.rst:658
@@ -1213,7 +1213,7 @@ msgid "Scab-Clan Charger"
 msgstr ""
 
 #: ../../GTC.rst:665
-msgid "Bloodrush — |mana_1| |mana_g|, Discard Scab-Clan Charger: Target attacking creature gets +2/+4 until end of turn."
+msgid "Bloodrush — |mana_1|\\ |mana_g|, Discard Scab-Clan Charger: Target attacking creature gets +2/+4 until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:670
@@ -1229,7 +1229,7 @@ msgid "Skarrg Goliath"
 msgstr ""
 
 #: ../../GTC.rst:675
-msgid "Bloodrush — |mana_5| |mana_g| |mana_g|, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn."
+msgid "Bloodrush — |mana_5|\\ |mana_g|\\ |mana_g|, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:680
@@ -1345,7 +1345,7 @@ msgid "You may look at cards exiled with Bane Alley Broker."
 msgstr ""
 
 #: ../../GTC.rst:737
-msgid "|mana_u| |mana_b|, |tap|: Return a card exiled with Bane Alley Broker to its owner's hand."
+msgid "|mana_u|\\ |mana_b|, |tap|: Return a card exiled with Bane Alley Broker to its owner's hand."
 msgstr ""
 
 #: ../../GTC.rst:742
@@ -1446,7 +1446,7 @@ msgid "Deathpact Angel"
 msgstr ""
 
 #: ../../GTC.rst:791
-msgid "When Deathpact Angel dies, create a 1/1 white and black Cleric creature token. It has \"|mana_3| |mana_w| |mana_b| |mana_b|, |tap|, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield.\""
+msgid "When Deathpact Angel dies, create a 1/1 white and black Cleric creature token. It has \"|mana_3|\\ |mana_w|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield.\""
 msgstr ""
 
 #: ../../GTC.rst:802
@@ -1498,11 +1498,11 @@ msgid "Duskmantle Guildmage"
 msgstr ""
 
 #: ../../GTC.rst:821
-msgid "|mana_1| |mana_u| |mana_b|: Whenever a card is put into an opponent's graveyard from anywhere this turn, that player loses 1 life."
+msgid "|mana_1|\\ |mana_u|\\ |mana_b|: Whenever a card is put into an opponent's graveyard from anywhere this turn, that player loses 1 life."
 msgstr ""
 
 #: ../../GTC.rst:823
-msgid "|mana_2| |mana_u| |mana_b|: Target player puts the top two cards of their library into their graveyard."
+msgid "|mana_2|\\ |mana_u|\\ |mana_b|: Target player puts the top two cards of their library into their graveyard."
 msgstr ""
 
 #: ../../GTC.rst:830
@@ -1586,7 +1586,7 @@ msgid "Ghor-Clan Rampager"
 msgstr ""
 
 #: ../../GTC.rst:875
-msgid "Bloodrush — |mana_r| |mana_g|, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn."
+msgid "Bloodrush — |mana_r|\\ |mana_g|, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:880
@@ -1826,7 +1826,7 @@ msgid "Rubblehulk's power and toughness are each equal to the number of lands yo
 msgstr ""
 
 #: ../../GTC.rst:1013
-msgid "Bloodrush — |mana_1| |mana_r| |mana_g|, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control."
+msgid "Bloodrush — |mana_1|\\ |mana_r|\\ |mana_g|, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control."
 msgstr ""
 
 #: ../../GTC.rst:1016
@@ -1871,11 +1871,11 @@ msgid "Skarrg Guildmage"
 msgstr ""
 
 #: ../../GTC.rst:1041
-msgid "|mana_r| |mana_g|: Creatures you control gain trample until end of turn."
+msgid "|mana_r|\\ |mana_g|: Creatures you control gain trample until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:1043
-msgid "|mana_1| |mana_r| |mana_g|: Target land you control becomes a 4/4 Elemental creature until end of turn. It's still a land."
+msgid "|mana_1|\\ |mana_r|\\ |mana_g|: Target land you control becomes a 4/4 Elemental creature until end of turn. It's still a land."
 msgstr ""
 
 #: ../../GTC.rst:1048
@@ -1915,11 +1915,11 @@ msgid "Sunhome Guildmage"
 msgstr ""
 
 #: ../../GTC.rst:1065
-msgid "|mana_1| |mana_r| |mana_w|: Creatures you control get +1/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|\\ |mana_w|: Creatures you control get +1/+0 until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:1067
-msgid "|mana_2| |mana_r| |mana_w|: Create a 1/1 red and white Soldier creature token with haste."
+msgid "|mana_2|\\ |mana_r|\\ |mana_w|: Create a 1/1 red and white Soldier creature token with haste."
 msgstr ""
 
 #: ../../GTC.rst:1074
@@ -1935,11 +1935,11 @@ msgid "Truefire Paladin"
 msgstr ""
 
 #: ../../GTC.rst:1079
-msgid "|mana_r| |mana_w|: Truefire Paladin gets +2/+0 until end of turn."
+msgid "|mana_r|\\ |mana_w|: Truefire Paladin gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:1081
-msgid "|mana_r| |mana_w|: Truefire Paladin gains first strike until end of turn."
+msgid "|mana_r|\\ |mana_w|: Truefire Paladin gains first strike until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:1086
@@ -1971,11 +1971,11 @@ msgid "Vizkopa Guildmage"
 msgstr ""
 
 #: ../../GTC.rst:1099
-msgid "|mana_1| |mana_w| |mana_b|: Target creature gains lifelink until end of turn."
+msgid "|mana_1|\\ |mana_w|\\ |mana_b|: Target creature gains lifelink until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:1101
-msgid "|mana_1| |mana_w| |mana_b|: Whenever you gain life this turn, each opponent loses that much life."
+msgid "|mana_1|\\ |mana_w|\\ |mana_b|: Whenever you gain life this turn, each opponent loses that much life."
 msgstr ""
 
 #: ../../GTC.rst:1108
@@ -1999,11 +1999,11 @@ msgid "Zameck Guildmage"
 msgstr ""
 
 #: ../../GTC.rst:1115
-msgid "|mana_g| |mana_u|: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it."
+msgid "|mana_g|\\ |mana_u|: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it."
 msgstr ""
 
 #: ../../GTC.rst:1117
-msgid "|mana_g| |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card."
+msgid "|mana_g|\\ |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card."
 msgstr ""
 
 #: ../../GTC.rst:1122
@@ -2011,7 +2011,7 @@ msgid "Zhur-Taa Swine"
 msgstr ""
 
 #: ../../GTC.rst:1121
-msgid "Bloodrush — |mana_1| |mana_r| |mana_g|, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn."
+msgid "Bloodrush — |mana_1|\\ |mana_r|\\ |mana_g|, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:1126
@@ -2063,7 +2063,7 @@ msgid "Burning-Tree Emissary"
 msgstr ""
 
 #: ../../GTC.rst:1147
-msgid "When Burning-Tree Emissary enters the battlefield, add |mana_r| |mana_g|."
+msgid "When Burning-Tree Emissary enters the battlefield, add |mana_r|\\ |mana_g|."
 msgstr ""
 
 #: ../../GTC.rst:1152
@@ -2156,7 +2156,7 @@ msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
 #: ../../GTC.rst:1199
-msgid "|mana_r| |mana_w|: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature with double strike until end of turn. (It deals both first-strike and regular combat damage.)"
+msgid "|mana_r|\\ |mana_w|: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature with double strike until end of turn. (It deals both first-strike and regular combat damage.)"
 msgstr ""
 
 #: ../../GTC.rst:1206
@@ -2169,7 +2169,7 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
 #: ../../GTC.rst:1205
-msgid "|mana_u| |mana_b|: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature until end of turn and can't be blocked this turn."
+msgid "|mana_u|\\ |mana_b|: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature until end of turn and can't be blocked this turn."
 msgstr ""
 
 #: ../../GTC.rst:1212
@@ -2194,7 +2194,7 @@ msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
 #: ../../GTC.rst:1217
-msgid "|mana_r| |mana_g|: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature with trample until end of turn."
+msgid "|mana_r|\\ |mana_g|: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature with trample until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:1224
@@ -2223,7 +2223,7 @@ msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr ""
 
 #: ../../GTC.rst:1233
-msgid "|mana_w| |mana_b|: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact creature with lifelink until end of turn."
+msgid "|mana_w|\\ |mana_b|: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact creature with lifelink until end of turn."
 msgstr ""
 
 #: ../../GTC.rst:1240
@@ -2268,7 +2268,7 @@ msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
 
 #: ../../GTC.rst:1255
-msgid "|mana_g| |mana_u|: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature with hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
+msgid "|mana_g|\\ |mana_u|: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature with hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 
 #: ../../GTC.rst:1262

@@ -176,7 +176,7 @@ Resplendent Angel
 
    At the beginning of each end step, if you gained 5 or more life this turn, create a 4/4 white Angel creature token with flying and vigilance.
 
-   |mana_3| |mana_w| |mana_w| |mana_w|: Until end of turn, Resplendent Angel gets +2/+2 and gains lifelink.
+   |mana_3|\ |mana_w|\ |mana_w|\ |mana_w|: Until end of turn, Resplendent Angel gets +2/+2 and gains lifelink.
 
 
 Revitalize
@@ -218,7 +218,7 @@ Trusty Packbeast
 Valiant Knight
    Other Knights you control get +1/+1.
 
-   |mana_3| |mana_w| |mana_w|: Knights you control gain double strike until end of turn.
+   |mana_3|\ |mana_w|\ |mana_w|: Knights you control gain double strike until end of turn.
 
 
 Aether Tunnel
@@ -256,7 +256,7 @@ Departed Deckhand
 
    Departed Deckhand can't be blocked except by Spirits.
 
-   |mana_3| |mana_u|: Another target creature you control can't be blocked this turn except by Spirits.
+   |mana_3|\ |mana_u|: Another target creature you control can't be blocked this turn except by Spirits.
 
 
 Disperse
@@ -272,7 +272,7 @@ Djinn of Wishes
 
    Djinn of Wishes enters the battlefield with three wish counters on it.
 
-   |mana_2| |mana_u| |mana_u|, Remove a wish counter from Djinn of Wishes: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it.
+   |mana_2|\ |mana_u|\ |mana_u|, Remove a wish counter from Djinn of Wishes: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it.
 
 
 Dwindle
@@ -292,7 +292,7 @@ Exclusion Mage
 
 
 Frilled Sea Serpent
-   |mana_5| |mana_u| |mana_u|: Frilled Sea Serpent can't be blocked this turn.
+   |mana_5|\ |mana_u|\ |mana_u|: Frilled Sea Serpent can't be blocked this turn.
 
 
 Gearsmith Prodigy
@@ -326,7 +326,7 @@ Mistcaller
 
 
 Mystic Archaeologist
-   |mana_3| |mana_u| |mana_u|: Draw two cards.
+   |mana_3|\ |mana_u|\ |mana_u|: Draw two cards.
 
 
 Omenspeaker
@@ -352,7 +352,7 @@ Psychic Corrosion
 Sai, Master Thopterist
    Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying.
 
-   |mana_1| |mana_u|, Sacrifice two artifacts: Draw a card.
+   |mana_1|\ |mana_u|, Sacrifice two artifacts: Draw a card.
 
 
 Salvager of Secrets
@@ -390,7 +390,7 @@ Surge Mare
 
    Whenever Surge Mare deals damage to an opponent, you may draw a card. If you do, discard a card.
 
-   |mana_1| |mana_u|: Surge Mare gets +2/-2 until end of turn.
+   |mana_1|\ |mana_u|: Surge Mare gets +2/-2 until end of turn.
 
 
 Switcheroo
@@ -446,7 +446,7 @@ Bogstomper
 Bone Dragon
    Flying
 
-   |mana_3| |mana_b| |mana_b|, Exile seven other cards from your graveyard: Return Bone Dragon from your graveyard to the battlefield tapped.
+   |mana_3|\ |mana_b|\ |mana_b|, Exile seven other cards from your graveyard: Return Bone Dragon from your graveyard to the battlefield tapped.
 
 
 Child of Night
@@ -496,7 +496,7 @@ Gravedigger
 
 
 Graveyard Marshal
-   |mana_2| |mana_b|, Exile a creature card from your graveyard: Create a tapped 2/2 black Zombie creature token.
+   |mana_2|\ |mana_b|, Exile a creature card from your graveyard: Create a tapped 2/2 black Zombie creature token.
 
 
 Hired Blade
@@ -582,7 +582,7 @@ Ravenous Harpy
 
 
 Reassembling Skeleton
-   |mana_1| |mana_b|: Return Reassembling Skeleton from your graveyard to the battlefield tapped.
+   |mana_1|\ |mana_b|: Return Reassembling Skeleton from your graveyard to the battlefield tapped.
 
 
 Rise from the Grave
@@ -656,7 +656,7 @@ Boggart Brute
 
 
 Catalyst Elemental
-   Sacrifice Catalyst Elemental: Add |mana_r| |mana_r|.
+   Sacrifice Catalyst Elemental: Add |mana_r|\ |mana_r|.
 
 
 Crash Through
@@ -678,7 +678,7 @@ Demanding Dragon
 Dismissive Pyromancer
    |mana_r|, |tap|, Discard a card: Draw a card.
 
-   |mana_2| |mana_r|, |tap|, Sacrifice Dismissive Pyromancer: It deals 4 damage to target creature.
+   |mana_2|\ |mana_r|, |tap|, Sacrifice Dismissive Pyromancer: It deals 4 damage to target creature.
 
 
 Doublecast
@@ -740,7 +740,7 @@ Lathliss, Dragon Queen
 
    Whenever another nontoken Dragon enters the battlefield under your control, create a 5/5 red Dragon creature token with flying.
 
-   |mana_1| |mana_r|: Dragons you control get +1/+0 until end of turn.
+   |mana_1|\ |mana_r|: Dragons you control get +1/+0 until end of turn.
 
 
 Lava Axe
@@ -752,7 +752,7 @@ Lightning Mare
 
    Lightning Mare can't be blocked by blue creatures.
 
-   |mana_1| |mana_r|: Lightning Mare gets +1/+0 until end of turn.
+   |mana_1|\ |mana_r|: Lightning Mare gets +1/+0 until end of turn.
 
 
 Lightning Strike
@@ -784,7 +784,7 @@ Shock
 Siegebreaker Giant
    Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
 
-   |mana_3| |mana_r|: Target creature can't block this turn.
+   |mana_3|\ |mana_r|: Target creature can't block this turn.
 
 
 Smelt
@@ -794,7 +794,7 @@ Smelt
 Sparktongue Dragon
    Flying
 
-   When Sparktongue Dragon enters the battlefield, you may pay |mana_2| |mana_r|. When you do, it deals 3 damage to any target.
+   When Sparktongue Dragon enters the battlefield, you may pay |mana_2|\ |mana_r|. When you do, it deals 3 damage to any target.
 
 
 Spit Flame
@@ -886,7 +886,7 @@ Dryad Greenseeker
 Elvish Clancaller
    Other Elves you control get +1/+1.
 
-   |mana_4| |mana_g| |mana_g|, |tap|: Search your library for a card named Elvish Clancaller, put it onto the battlefield, then shuffle your library.
+   |mana_4|\ |mana_g|\ |mana_g|, |tap|: Search your library for a card named Elvish Clancaller, put it onto the battlefield, then shuffle your library.
 
 
 Elvish Rejuvenator
@@ -900,7 +900,7 @@ Ghastbark Twins
 
 
 Ghirapur Guide
-   |mana_2| |mana_g|: Target creature you control can't be blocked by creatures with power 2 or less this turn.
+   |mana_2|\ |mana_g|: Target creature you control can't be blocked by creatures with power 2 or less this turn.
 
 
 Giant Spider
@@ -1002,13 +1002,13 @@ Talons of Wildwood
 
    Enchanted creature gets +1/+1 and has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)
 
-   |mana_2| |mana_g|: Return Talons of Wildwood from your graveyard to your hand.
+   |mana_2|\ |mana_g|: Return Talons of Wildwood from your graveyard to your hand.
 
 
 Thorn Lieutenant
    Whenever Thorn Lieutenant becomes the target of a spell or ability an opponent controls, create a 1/1 green Elf Warrior creature token.
 
-   |mana_5| |mana_g|: Thorn Lieutenant gets +4/+4 until end of turn.
+   |mana_5|\ |mana_g|: Thorn Lieutenant gets +4/+4 until end of turn.
 
 
 Thornhide Wolves
@@ -1096,7 +1096,7 @@ Nicol Bolas, the Ravager
 
    When Nicol Bolas, the Ravager enters the battlefield, each opponent discards a card.
 
-   |mana_4| |mana_u| |mana_b| |mana_r|: Exile Nicol Bolas, the Ravager, then return him to the battlefield transformed under his owner's control. Activate this ability only any time you could cast a sorcery.
+   |mana_4|\ |mana_u|\ |mana_b|\ |mana_r|: Exile Nicol Bolas, the Ravager, then return him to the battlefield transformed under his owner's control. Activate this ability only any time you could cast a sorcery.
 
 
 Nicol Bolas, the Arisen
@@ -1142,7 +1142,7 @@ Satyr Enchanter
 Skyrider Patrol
    Flying
 
-   At the beginning of combat on your turn, you may pay |mana_g| |mana_u|. When you do, put a +1/+1 counter on another target creature you control, and that creature gains flying until end of turn.
+   At the beginning of combat on your turn, you may pay |mana_g|\ |mana_u|. When you do, put a +1/+1 counter on another target creature you control, and that creature gains flying until end of turn.
 
 
 Vaevictis Asmadi, the Dire
@@ -1482,7 +1482,7 @@ Pendulum of Patterns
 Tezzeret's Gatebreaker
    When Tezzeret's Gatebreaker enters the battlefield, look at the top five cards of your library. You may reveal a blue or artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 
-   |mana_5| |mana_u|, |tap|, Sacrifice Tezzeret's Gatebreaker: Creatures you control can't be blocked this turn.
+   |mana_5|\ |mana_u|, |tap|, Sacrifice Tezzeret's Gatebreaker: Creatures you control can't be blocked this turn.
 
 
 Tezzeret's Strider
@@ -1504,7 +1504,7 @@ Arisen Gorgon
 Gravewaker
    Flying
 
-   |mana_5| |mana_b| |mana_b|: Return target creature card from your graveyard to the battlefield tapped.
+   |mana_5|\ |mana_b|\ |mana_b|: Return target creature card from your graveyard to the battlefield tapped.
 
 
 Liliana's Spoils
@@ -1566,13 +1566,13 @@ Skalla Wolf
 
 
 Ursine Champion
-   |mana_5| |mana_g|: Ursine Champion gets +3/+3 and becomes a Bear Berserker until end of turn. Activate this ability only once each turn.
+   |mana_5|\ |mana_g|: Ursine Champion gets +3/+3 and becomes a Bear Berserker until end of turn. Activate this ability only once each turn.
 
 
 Vivien's Jaguar
    Reach (This creature can block creatures with flying.)
 
-   |mana_2| |mana_g|: Return Vivien's Jaguar from your graveyard to your hand. Activate this ability only if you control a Vivien planeswalker.
+   |mana_2|\ |mana_g|: Return Vivien's Jaguar from your graveyard to your hand. Activate this ability only if you control a Vivien planeswalker.
 
 
 Nexus of Fate

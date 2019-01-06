@@ -6,13 +6,13 @@ Eldritch Moon
         
 
 Abundant Maw
-   Emerge |mana_6| |mana_b| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_6|\ |mana_b| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
 
    When you cast this spell, target opponent loses 3 life and you gain 3 life.
 
 
 Decimator of the Provinces
-   Emerge |mana_6| |mana_g| |mana_g| |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_6|\ |mana_g|\ |mana_g|\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
 
    When you cast this spell, creatures you control get +2/+2 and gain trample until end of turn.
 
@@ -20,7 +20,7 @@ Decimator of the Provinces
 
 
 Distended Mindbender
-   Emerge |mana_5| |mana_b| |mana_b| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_5|\ |mana_b|\ |mana_b| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
 
    When you cast this spell, target opponent reveals their hand. You choose from it a nonland card with converted mana cost 3 or less and a card with converted mana cost 4 or greater. That player discards those cards.
 
@@ -28,7 +28,7 @@ Distended Mindbender
 Drownyard Behemoth
    Flash (You may cast this spell any time you could cast an instant.)
 
-   Emerge |mana_7| |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_7|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
 
    Drownyard Behemoth has hexproof as long as it entered the battlefield this turn.
 
@@ -36,7 +36,7 @@ Drownyard Behemoth
 Elder Deep-Fiend
    Flash
 
-   Emerge |mana_5| |mana_u| |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_5|\ |mana_u|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
 
    When you cast this spell, tap up to four target permanents.
 
@@ -56,31 +56,31 @@ Eternal Scourge
 
 
 It of the Horrid Swarm
-   Emerge |mana_6| |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_6|\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
 
    When you cast this spell, create two 1/1 green Insect creature tokens.
 
 
 Lashweed Lurker
-   Emerge |mana_5| |mana_g| |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_5|\ |mana_g|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
 
    When you cast this spell, you may put target nonland permanent on top of its owner's library.
 
 
 Mockery of Nature
-   Emerge |mana_7| |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_7|\ |mana_g| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
 
    When you cast this spell, you may destroy target artifact or enchantment.
 
 
 Vexing Scuttler
-   Emerge |mana_6| |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_6|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
 
    When you cast this spell, you may return target instant or sorcery card from your graveyard to your hand.
 
 
 Wretched Gryff
-   Emerge |mana_5| |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
+   Emerge |mana_5|\ |mana_u| (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)
 
    When you cast this spell, draw a card.
 
@@ -100,7 +100,7 @@ Blessed Alliance
 
 
 Borrowed Grace
-   Escalate |mana_1| |mana_w| (Pay this cost for each mode chosen beyond the first.)
+   Escalate |mana_1|\ |mana_w| (Pay this cost for each mode chosen beyond the first.)
 
    Choose one or both —
 
@@ -128,7 +128,7 @@ Choking Restraints
 
    Enchanted creature can't attack or block.
 
-   |mana_3| |mana_w| |mana_w|, Sacrifice Choking Restraints: Exile enchanted creature.
+   |mana_3|\ |mana_w|\ |mana_w|, Sacrifice Choking Restraints: Exile enchanted creature.
 
 
 Collective Effort
@@ -260,7 +260,7 @@ Repel the Abominable
 Sanctifier of Souls
    Whenever another creature enters the battlefield under your control, Sanctifier of Souls gets +1/+1 until end of turn.
 
-   |mana_2| |mana_w|, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying.
+   |mana_2|\ |mana_w|, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying.
 
 
 Selfless Spirit
@@ -306,19 +306,19 @@ Thalia's Lancers
 
 
 Thraben Standard Bearer
-   |mana_1| |mana_w|, |tap|, Discard a card: Create a 1/1 white Human Soldier creature token.
+   |mana_1|\ |mana_w|, |tap|, Discard a card: Create a 1/1 white Human Soldier creature token.
 
 
 Advanced Stitchwing
    Flying
 
-   |mana_2| |mana_u|, Discard two cards: Return Advanced Stitchwing from your graveyard to the battlefield tapped.
+   |mana_2|\ |mana_u|, Discard two cards: Return Advanced Stitchwing from your graveyard to the battlefield tapped.
 
 
 Chilling Grasp
    Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
 
-   Madness |mana_3| |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_3|\ |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Coax from the Blind Eternities
@@ -534,7 +534,7 @@ Collective Brutality
 
 
 Cryptbreaker
-   |mana_1| |mana_b|, |tap|, Discard a card: Create a 2/2 black Zombie creature token.
+   |mana_1|\ |mana_b|, |tap|, Discard a card: Create a 2/2 black Zombie creature token.
 
    Tap three untapped Zombies you control: You draw a card and you lose 1 life.
 
@@ -556,7 +556,7 @@ Gavony Unhallowed
 Graf Harvest
    Zombies you control have menace. (They can't be blocked except by two or more creatures.)
 
-   |mana_3| |mana_b|, Exile a creature card from your graveyard: Create a 2/2 black Zombie creature token.
+   |mana_3|\ |mana_b|, Exile a creature card from your graveyard: Create a 2/2 black Zombie creature token.
 
 
 Graf Rats
@@ -574,7 +574,7 @@ Chittering Host
 Haunted Dead
    When Haunted Dead enters the battlefield, create a 1/1 white Spirit creature token with flying.
 
-   |mana_1| |mana_b|, Discard two cards: Return Haunted Dead from your graveyard to the battlefield tapped.
+   |mana_1|\ |mana_b|, Discard two cards: Return Haunted Dead from your graveyard to the battlefield tapped.
 
 
 Liliana, the Last Hope
@@ -676,7 +676,7 @@ Voldaren Pariah
 
    Sacrifice three other creatures: Transform Voldaren Pariah.
 
-   Madness |mana_b| |mana_b| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_b|\ |mana_b|\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Abolisher of Bloodlines
@@ -690,7 +690,7 @@ Wailing Ghoul
 
 
 Weirded Vampire
-   Madness |mana_2| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_2|\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Whispers of Emrakul
@@ -702,13 +702,13 @@ Whispers of Emrakul
 Abandon Reason
    Up to two target creatures each get +1/+0 and gain first strike until end of turn.
 
-   Madness |mana_1| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_1|\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Alchemist's Greeting
    Alchemist's Greeting deals 4 damage to target creature.
 
-   Madness |mana_1| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_1|\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Assembled Alphas
@@ -728,7 +728,7 @@ Blood Mist
 
 
 Bold Impaler
-   |mana_2| |mana_r|: Bold Impaler gets +2/+0 until end of turn.
+   |mana_2|\ |mana_r|: Bold Impaler gets +2/+0 until end of turn.
 
 
 Borrowed Hostility
@@ -760,11 +760,11 @@ Collective Defiance
 Conduit of Storms
    Whenever Conduit of Storms attacks, add |mana_r| at the beginning of your next main phase this turn.
 
-   |mana_3| |mana_r| |mana_r|: Transform Conduit of Storms.
+   |mana_3|\ |mana_r|\ |mana_r|: Transform Conduit of Storms.
 
 
 Conduit of Emrakul
-   Whenever Conduit of Emrakul attacks, add |colorless| |colorless| at the beginning of your next main phase this turn.
+   Whenever Conduit of Emrakul attacks, add |colorless|\ |colorless| at the beginning of your next main phase this turn.
 
 
 Deranged Whelp
@@ -822,7 +822,7 @@ Incendiary Flow
 Insatiable Gorgers
    Insatiable Gorgers attacks each combat if able.
 
-   Madness |mana_3| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_3|\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Make Mischief
@@ -870,7 +870,7 @@ Shreds of Sanity
 Smoldering Werewolf
    When Smoldering Werewolf enters the battlefield, it deals 1 damage to each of up to two target creatures.
 
-   |mana_4| |mana_r| |mana_r|: Transform Smoldering Werewolf.
+   |mana_4|\ |mana_r|\ |mana_r|: Transform Smoldering Werewolf.
 
 
 Erupting Dreadwolf
@@ -896,7 +896,7 @@ Stromkirk Occultist
 
    Whenever Stromkirk Occultist deals combat damage to a player, exile the top card of your library. Until end of turn, you may play that card.
 
-   Madness |mana_1| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_1|\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Thermo-Alchemist
@@ -912,7 +912,7 @@ Vildin-Pack Outcast
 
    |mana_r|: Vildin-Pack Outcast gets +1/-1 until end of turn.
 
-   |mana_5| |mana_r| |mana_r|: Transform Vildin-Pack Outcast.
+   |mana_5|\ |mana_r|\ |mana_r|: Transform Vildin-Pack Outcast.
 
 
 Dronepack Kindred
@@ -942,7 +942,7 @@ Clear Shot
 Crop Sigil
    At the beginning of your upkeep, you may put the top card of your library into your graveyard.
 
-   Delirium — |mana_2| |mana_g|, Sacrifice Crop Sigil: Return up to one target creature card and up to one target land card from your graveyard to your hand. Activate this ability only if there are four or more card types among cards in your graveyard.
+   Delirium — |mana_2|\ |mana_g|, Sacrifice Crop Sigil: Return up to one target creature card and up to one target land card from your graveyard to your hand. Activate this ability only if there are four or more card types among cards in your graveyard.
 
 
 Crossroads Consecrator
@@ -988,11 +988,11 @@ Ishkanah, Grafwidow
 
    Delirium — When Ishkanah, Grafwidow enters the battlefield, if there are four or more card types among cards in your graveyard, create three 1/2 green Spider creature tokens with reach.
 
-   |mana_6| |mana_b|: Target opponent loses 1 life for each Spider you control.
+   |mana_6|\ |mana_b|: Target opponent loses 1 life for each Spider you control.
 
 
 Kessig Prowler
-   |mana_4| |mana_g|: Transform Kessig Prowler.
+   |mana_4|\ |mana_g|: Transform Kessig Prowler.
 
 
 Sinuous Predator
@@ -1020,7 +1020,7 @@ Primal Druid
 Shrill Howler
    Creatures with power less than Shrill Howler's power can't block it.
 
-   |mana_5| |mana_g|: Transform Shrill Howler.
+   |mana_5|\ |mana_g|: Transform Shrill Howler.
 
 
 Howling Chorus
@@ -1056,7 +1056,7 @@ Swift Spinner
 Tangleclaw Werewolf
    Tangleclaw Werewolf can block an additional creature each combat.
 
-   |mana_6| |mana_g|: Transform Tangleclaw Werewolf.
+   |mana_6|\ |mana_g|: Transform Tangleclaw Werewolf.
 
 
 Fibrous Entangler
@@ -1072,11 +1072,11 @@ Ulvenwald Captive
 
    |tap|: Add |mana_g|.
 
-   |mana_5| |mana_g| |mana_g|: Transform Ulvenwald Captive.
+   |mana_5|\ |mana_g|\ |mana_g|: Transform Ulvenwald Captive.
 
 
 Ulvenwald Abomination
-   |tap|: Add |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|.
 
 
 Ulvenwald Observer
@@ -1106,7 +1106,7 @@ Woodland Patrol
 Bloodhall Priest
    Whenever Bloodhall Priest enters the battlefield or attacks, if you have no cards in hand, Bloodhall Priest deals 2 damage to any target.
 
-   Madness |mana_1| |mana_b| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_1|\ |mana_b|\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Campaign of Vengeance
@@ -1266,7 +1266,7 @@ Hanweir Battlements
 
    |mana_r|, |tap|: Target creature gains haste until end of turn.
 
-   |mana_3| |mana_r| |mana_r|, |tap|: If you both own and control Hanweir Battlements and a creature named Hanweir Garrison, exile them, then meld them into Hanweir, the Writhing Township.
+   |mana_3|\ |mana_r|\ |mana_r|, |tap|: If you both own and control Hanweir Battlements and a creature named Hanweir Garrison, exile them, then meld them into Hanweir, the Writhing Township.
 
 
 Nephalia Academy

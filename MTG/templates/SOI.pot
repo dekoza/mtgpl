@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -186,7 +186,7 @@ msgid "Dauntless Cathar"
 msgstr ""
 
 #: ../../SOI.rst:77
-msgid "|mana_1| |mana_w|, Exile Dauntless Cathar from your graveyard: Create a 1/1 white Spirit creature token with flying. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_w|, Exile Dauntless Cathar from your graveyard: Create a 1/1 white Spirit creature token with flying. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../SOI.rst:82
@@ -222,7 +222,7 @@ msgid "Whenever another Spirit enters the battlefield under your control, you ga
 msgstr ""
 
 #: ../../SOI.rst:99
-msgid "|mana_3| |mana_w|: Create a 1/1 white Spirit creature token with flying."
+msgid "|mana_3|\\ |mana_w|: Create a 1/1 white Spirit creature token with flying."
 msgstr ""
 
 #: ../../SOI.rst:104
@@ -276,7 +276,7 @@ msgid "Enchanted creature gets +1/+0 and has flying."
 msgstr ""
 
 #: ../../SOI.rst:127
-msgid "|mana_3| |mana_w|: Return Gryff's Boon from your graveyard to the battlefield attached to target creature. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|\\ |mana_w|: Return Gryff's Boon from your graveyard to the battlefield attached to target creature. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../SOI.rst:132
@@ -360,7 +360,7 @@ msgid "At the beginning of combat on your turn, target creature you control gain
 msgstr ""
 
 #: ../../SOI.rst:173
-msgid "|mana_1| |mana_r|: Nahiri's Machinations deals 1 damage to target blocking creature."
+msgid "|mana_1|\\ |mana_r|: Nahiri's Machinations deals 1 damage to target blocking creature."
 msgstr ""
 
 #: ../../SOI.rst:180
@@ -373,7 +373,7 @@ msgid "Lifelink"
 msgstr ""
 
 #: ../../SOI.rst:179
-msgid "|mana_2| |mana_w|, Exile Nearheath Chaplain from your graveyard: Create two 1/1 white Spirit creature tokens with flying. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_w|, Exile Nearheath Chaplain from your graveyard: Create two 1/1 white Spirit creature tokens with flying. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../SOI.rst:184
@@ -457,7 +457,7 @@ msgid "Spectral Shepherd"
 msgstr ""
 
 #: ../../SOI.rst:225
-msgid "|mana_1| |mana_u|: Return target Spirit you control to its owner's hand."
+msgid "|mana_1|\\ |mana_u|: Return target Spirit you control to its owner's hand."
 msgstr ""
 
 #: ../../SOI.rst:230
@@ -557,7 +557,7 @@ msgid "Vessel of Ephemera"
 msgstr ""
 
 #: ../../SOI.rst:279
-msgid "|mana_2| |mana_w|, Sacrifice Vessel of Ephemera: Create two 1/1 white Spirit creature tokens with flying."
+msgid "|mana_2|\\ |mana_w|, Sacrifice Vessel of Ephemera: Create two 1/1 white Spirit creature tokens with flying."
 msgstr ""
 
 #: ../../SOI.rst:286
@@ -582,7 +582,7 @@ msgid "Counter target spell."
 msgstr ""
 
 #: ../../SOI.rst:295
-msgid "Madness |mana_3| |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgid "Madness |mana_3|\\ |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 
 #: ../../SOI.rst:300
@@ -656,7 +656,7 @@ msgid "When Drunau Corpse Trawler enters the battlefield, create a 2/2 black Zom
 msgstr ""
 
 #: ../../SOI.rst:333
-msgid "|mana_2| |mana_b|: Target Zombie gains deathtouch until end of turn."
+msgid "|mana_2|\\ |mana_b|: Target Zombie gains deathtouch until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:338
@@ -734,7 +734,7 @@ msgid "Geralf's Masterpiece gets -1/-1 for each card in your hand."
 msgstr ""
 
 #: ../../SOI.rst:375
-msgid "|mana_3| |mana_u|, Discard three cards: Return Geralf's Masterpiece from your graveyard to the battlefield tapped."
+msgid "|mana_3|\\ |mana_u|, Discard three cards: Return Geralf's Masterpiece from your graveyard to the battlefield tapped."
 msgstr ""
 
 #: ../../SOI.rst:384
@@ -834,7 +834,7 @@ msgid "Look at the top two cards of your library. Put one of them into your hand
 msgstr ""
 
 #: ../../SOI.rst:431
-msgid "Madness |mana_1| |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgid "Madness |mana_1|\\ |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 
 #: ../../SOI.rst:440
@@ -846,7 +846,7 @@ msgid "When Nephalia Moondrakes enters the battlefield, target creature gains fl
 msgstr ""
 
 #: ../../SOI.rst:439
-msgid "|mana_4| |mana_u| |mana_u|, Exile Nephalia Moondrakes from your graveyard: Creatures you control gain flying until end of turn."
+msgid "|mana_4|\\ |mana_u|\\ |mana_u|, Exile Nephalia Moondrakes from your graveyard: Creatures you control gain flying until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:446
@@ -862,7 +862,7 @@ msgid "Whenever one or more creatures you control deal combat damage to a player
 msgstr ""
 
 #: ../../SOI.rst:451
-msgid "|mana_1| |mana_g|, Exile a creature card from your graveyard: Investigate. You gain 2 life."
+msgid "|mana_1|\\ |mana_g|, Exile a creature card from your graveyard: Investigate. You gain 2 life."
 msgstr ""
 
 #: ../../SOI.rst:456
@@ -954,7 +954,7 @@ msgid "Target opponent puts the top thirteen cards of their library into their g
 msgstr ""
 
 #: ../../SOI.rst:509
-msgid "|mana_3| |mana_u| |mana_u|: Put Startled Awake from your graveyard onto the battlefield transformed. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|\\ |mana_u|\\ |mana_u|: Put Startled Awake from your graveyard onto the battlefield transformed. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../SOI.rst:516
@@ -982,7 +982,7 @@ msgid "Stitchwing Skaab"
 msgstr ""
 
 #: ../../SOI.rst:527
-msgid "|mana_1| |mana_u|, Discard two cards: Return Stitchwing Skaab from your graveyard to the battlefield tapped."
+msgid "|mana_1|\\ |mana_u|, Discard two cards: Return Stitchwing Skaab from your graveyard to the battlefield tapped."
 msgstr ""
 
 #: ../../SOI.rst:534
@@ -1059,7 +1059,7 @@ msgid "Welcome to the Fold"
 msgstr ""
 
 #: ../../SOI.rst:567
-msgid "Madness |mana_x| |mana_u| |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgid "Madness |mana_x|\\ |mana_u|\\ |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 
 #: ../../SOI.rst:569
@@ -1116,7 +1116,7 @@ msgstr ""
 
 #: ../../SOI.rst:595
 #: ../../SOI.rst:749
-msgid "Madness |mana_1| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgid "Madness |mana_1|\\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 
 #: ../../SOI.rst:602
@@ -1128,7 +1128,7 @@ msgid "Creatures you control have skulk. (They can't be blocked by creatures wit
 msgstr ""
 
 #: ../../SOI.rst:601
-msgid "|mana_4| |mana_w|: Creatures you control get +1/+1 until end of turn."
+msgid "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:606
@@ -1150,7 +1150,7 @@ msgstr ""
 #: ../../SOI.rst:611
 #: ../../SOI.rst:679
 #: ../../SOI.rst:835
-msgid "Madness |mana_2| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgid "Madness |mana_2|\\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 
 #: ../../SOI.rst:616
@@ -1218,7 +1218,7 @@ msgid "Insidious Mist can't block and can't be blocked."
 msgstr ""
 
 #: ../../SOI.rst:649
-msgid "Whenever Insidious Mist attacks and isn't blocked, you may pay |mana_2| |mana_b|. If you do, transform it."
+msgid "Whenever Insidious Mist attacks and isn't blocked, you may pay |mana_2|\\ |mana_b|. If you do, transform it."
 msgstr ""
 
 #: ../../SOI.rst:654
@@ -1242,7 +1242,7 @@ msgid "From Under the Floorboards"
 msgstr ""
 
 #: ../../SOI.rst:663
-msgid "Madness |mana_x| |mana_b| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgid "Madness |mana_x|\\ |mana_b|\\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 
 #: ../../SOI.rst:665
@@ -1254,7 +1254,7 @@ msgid "Ghoulcaller's Accomplice"
 msgstr ""
 
 #: ../../SOI.rst:669
-msgid "|mana_3| |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|\\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../SOI.rst:674
@@ -1262,7 +1262,7 @@ msgid "Ghoulsteed"
 msgstr ""
 
 #: ../../SOI.rst:673
-msgid "|mana_2| |mana_b|, Discard two cards: Return Ghoulsteed from your graveyard to the battlefield tapped."
+msgid "|mana_2|\\ |mana_b|, Discard two cards: Return Ghoulsteed from your graveyard to the battlefield tapped."
 msgstr ""
 
 #: ../../SOI.rst:680
@@ -1314,7 +1314,7 @@ msgid "Kindly Stranger"
 msgstr ""
 
 #: ../../SOI.rst:705
-msgid "Delirium — |mana_2| |mana_b|: Transform Kindly Stranger. Activate this ability only if there are four or more card types among cards in your graveyard."
+msgid "Delirium — |mana_2|\\ |mana_b|: Transform Kindly Stranger. Activate this ability only if there are four or more card types among cards in your graveyard."
 msgstr ""
 
 #: ../../SOI.rst:710
@@ -1346,7 +1346,7 @@ msgid "Markov Dreadknight"
 msgstr ""
 
 #: ../../SOI.rst:723
-msgid "|mana_2| |mana_b|, Discard a card: Put two +1/+1 counters on Markov Dreadknight."
+msgid "|mana_2|\\ |mana_b|, Discard a card: Put two +1/+1 counters on Markov Dreadknight."
 msgstr ""
 
 #: ../../SOI.rst:730
@@ -1467,7 +1467,7 @@ msgid "Sanitarium Skeleton"
 msgstr ""
 
 #: ../../SOI.rst:791
-msgid "|mana_2| |mana_b|: Return Sanitarium Skeleton from your graveyard to your hand."
+msgid "|mana_2|\\ |mana_b|: Return Sanitarium Skeleton from your graveyard to your hand."
 msgstr ""
 
 #: ../../SOI.rst:796
@@ -1491,7 +1491,7 @@ msgid "Stallion of Ashmouth"
 msgstr ""
 
 #: ../../SOI.rst:803
-msgid "Delirium — |mana_1| |mana_b|: Stallion of Ashmouth gets +1/+1 until end of turn. Activate this ability only if there are four or more card types among cards in your graveyard."
+msgid "Delirium — |mana_1|\\ |mana_b|: Stallion of Ashmouth gets +1/+1 until end of turn. Activate this ability only if there are four or more card types among cards in your graveyard."
 msgstr ""
 
 #: ../../SOI.rst:808
@@ -1563,7 +1563,7 @@ msgid "Vessel of Malignity"
 msgstr ""
 
 #: ../../SOI.rst:843
-msgid "|mana_1| |mana_b|, Sacrifice Vessel of Malignity: Target opponent exiles two cards from their hand. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_b|, Sacrifice Vessel of Malignity: Target opponent exiles two cards from their hand. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../SOI.rst:850
@@ -1571,7 +1571,7 @@ msgid "Avacyn's Judgment"
 msgstr ""
 
 #: ../../SOI.rst:847
-msgid "Madness |mana_x| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgid "Madness |mana_x|\\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 
 #: ../../SOI.rst:849
@@ -1588,7 +1588,7 @@ msgstr ""
 
 #: ../../SOI.rst:855
 #: ../../SOI.rst:1055
-msgid "Madness |mana_1| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgid "Madness |mana_1|\\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 
 #: ../../SOI.rst:860
@@ -1681,7 +1681,7 @@ msgid "Haste"
 msgstr ""
 
 #: ../../SOI.rst:899
-msgid "|mana_1| |mana_r|: Ember-Eye Wolf gets +2/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|: Ember-Eye Wolf gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:904
@@ -1757,7 +1757,7 @@ msgid "Geistblast deals 2 damage to any target."
 msgstr ""
 
 #: ../../SOI.rst:943
-msgid "|mana_2| |mana_u|, Exile Geistblast from your graveyard: Copy target instant or sorcery spell you control. You may choose new targets for the copy."
+msgid "|mana_2|\\ |mana_u|, Exile Geistblast from your graveyard: Copy target instant or sorcery spell you control. You may choose new targets for the copy."
 msgstr ""
 
 #: ../../SOI.rst:950
@@ -1814,7 +1814,7 @@ msgstr ""
 
 #: ../../SOI.rst:975
 #: ../../SOI.rst:1089
-msgid "Madness |mana_2| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgid "Madness |mana_2|\\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 
 #: ../../SOI.rst:980
@@ -1894,7 +1894,7 @@ msgid "Gain control of target creature until end of turn. Untap that creature. I
 msgstr ""
 
 #: ../../SOI.rst:1019
-msgid "Madness |mana_3| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+msgid "Madness |mana_3|\\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
 msgstr ""
 
 #: ../../SOI.rst:1026
@@ -2032,7 +2032,7 @@ msgid "Ulrich's Kindred"
 msgstr ""
 
 #: ../../SOI.rst:1105
-msgid "|mana_3| |mana_g|: Target attacking Wolf or Werewolf gains indestructible until end of turn."
+msgid "|mana_3|\\ |mana_g|: Target attacking Wolf or Werewolf gains indestructible until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:1110
@@ -2048,7 +2048,7 @@ msgid "Vessel of Volatility"
 msgstr ""
 
 #: ../../SOI.rst:1113
-msgid "|mana_1| |mana_r|, Sacrifice Vessel of Volatility: Add |mana_r| |mana_r| |mana_r| |mana_r|."
+msgid "|mana_1|\\ |mana_r|, Sacrifice Vessel of Volatility: Add |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_r|."
 msgstr ""
 
 #: ../../SOI.rst:1120
@@ -2080,7 +2080,7 @@ msgid "Wolf of Devil's Breach"
 msgstr ""
 
 #: ../../SOI.rst:1135
-msgid "Whenever Wolf of Devil's Breach attacks, you may pay |mana_1| |mana_r| and discard a card. If you do, Wolf of Devil's Breach deals damage to target creature or planeswalker equal to the discarded card's converted mana cost."
+msgid "Whenever Wolf of Devil's Breach attacks, you may pay |mana_1|\\ |mana_r| and discard a card. If you do, Wolf of Devil's Breach deals damage to target creature or planeswalker equal to the discarded card's converted mana cost."
 msgstr ""
 
 #: ../../SOI.rst:1140
@@ -2193,7 +2193,7 @@ msgid "Duskwatch Recruiter"
 msgstr ""
 
 #: ../../SOI.rst:1191
-msgid "|mana_2| |mana_g|: Look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+msgid "|mana_2|\\ |mana_g|: Look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
 
 #: ../../SOI.rst:1193
@@ -2258,7 +2258,7 @@ msgid "Groundskeeper"
 msgstr ""
 
 #: ../../SOI.rst:1225
-msgid "|mana_1| |mana_g|: Return target basic land card from your graveyard to your hand."
+msgid "|mana_1|\\ |mana_g|: Return target basic land card from your graveyard to your hand."
 msgstr ""
 
 #: ../../SOI.rst:1232
@@ -2414,7 +2414,7 @@ msgid "Quilled Wolf"
 msgstr ""
 
 #: ../../SOI.rst:1311
-msgid "|mana_5| |mana_g|: Quilled Wolf gets +4/+4 until end of turn."
+msgid "|mana_5|\\ |mana_g|: Quilled Wolf gets +4/+4 until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:1316
@@ -2578,7 +2578,7 @@ msgid "Vessel of Nascency"
 msgstr ""
 
 #: ../../SOI.rst:1403
-msgid "|mana_1| |mana_g|, Sacrifice Vessel of Nascency: Reveal the top four cards of your library. You may put an artifact, creature, enchantment, land, or planeswalker card from among them into your hand. Put the rest into your graveyard."
+msgid "|mana_1|\\ |mana_g|, Sacrifice Vessel of Nascency: Reveal the top four cards of your library. You may put an artifact, creature, enchantment, land, or planeswalker card from among them into your hand. Put the rest into your graveyard."
 msgstr ""
 
 #: ../../SOI.rst:1408
@@ -2586,7 +2586,7 @@ msgid "Veteran Cathar"
 msgstr ""
 
 #: ../../SOI.rst:1407
-msgid "|mana_3| |mana_w|: Target Human gains double strike until end of turn."
+msgid "|mana_3|\\ |mana_w|: Target Human gains double strike until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:1414

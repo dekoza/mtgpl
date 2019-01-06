@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgid "Akroan Jailer"
 msgstr ""
 
 #: ../../ORI.rst:9
-msgid "|mana_2| |mana_w|, |tap|: Tap target creature."
+msgid "|mana_2|\\ |mana_w|, |tap|: Tap target creature."
 msgstr ""
 
 #: ../../ORI.rst:14
@@ -296,7 +296,7 @@ msgid "At end of combat, if Kytheon, Hero of Akros and at least two other creatu
 msgstr ""
 
 #: ../../ORI.rst:129
-msgid "|mana_2| |mana_w|: Kytheon gains indestructible until end of turn."
+msgid "|mana_2|\\ |mana_w|: Kytheon gains indestructible until end of turn."
 msgstr ""
 
 #: ../../ORI.rst:138
@@ -320,7 +320,7 @@ msgid "Kytheon's Irregulars"
 msgstr ""
 
 #: ../../ORI.rst:143
-msgid "|mana_w| |mana_w|: Tap target creature."
+msgid "|mana_w|\\ |mana_w|: Tap target creature."
 msgstr ""
 
 #: ../../ORI.rst:150
@@ -826,7 +826,7 @@ msgid "Whenever you draw a card, target opponent puts the top two cards of their
 msgstr ""
 
 #: ../../ORI.rst:435
-msgid "|mana_5| |mana_u|: Draw a card, then discard a card."
+msgid "|mana_5|\\ |mana_u|: Draw a card, then discard a card."
 msgstr ""
 
 #: ../../ORI.rst:446
@@ -962,7 +962,7 @@ msgid "Search your library for a card and put that card into your hand. Then shu
 msgstr ""
 
 #: ../../ORI.rst:511
-msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, add |mana_b| |mana_b| |mana_b|."
+msgid "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, add |mana_b|\\ |mana_b|\\ |mana_b|."
 msgstr ""
 
 #: ../../ORI.rst:516
@@ -1008,7 +1008,7 @@ msgid "Despoiler of Souls can't block."
 msgstr ""
 
 #: ../../ORI.rst:533
-msgid "|mana_b| |mana_b|, Exile two other creature cards from your graveyard: Return Despoiler of Souls from your graveyard to the battlefield."
+msgid "|mana_b|\\ |mana_b|, Exile two other creature cards from your graveyard: Return Despoiler of Souls from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../ORI.rst:540
@@ -1258,7 +1258,7 @@ msgid "Whenever a creature dies, scry 1. (Look at the top card of your library. 
 msgstr ""
 
 #: ../../ORI.rst:667
-msgid "|mana_4| |mana_b|: Each opponent loses 2 life and you gain 2 life. Activate this ability only if there are four or more creature cards in your graveyard."
+msgid "|mana_4|\\ |mana_b|: Each opponent loses 2 life and you gain 2 life. Activate this ability only if there are four or more creature cards in your graveyard."
 msgstr ""
 
 #: ../../ORI.rst:672
@@ -1383,7 +1383,7 @@ msgid "Bellows Lizard"
 msgstr ""
 
 #: ../../ORI.rst:739
-msgid "|mana_1| |mana_r|: Bellows Lizard gets +1/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|: Bellows Lizard gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../ORI.rst:744
@@ -1620,7 +1620,7 @@ msgid "When Pia and Kiran Nalaar enters the battlefield, create two 1/1 colorles
 msgstr ""
 
 #: ../../ORI.rst:877
-msgid "|mana_2| |mana_r|, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to any target."
+msgid "|mana_2|\\ |mana_r|, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to any target."
 msgstr ""
 
 #: ../../ORI.rst:882
@@ -1715,7 +1715,7 @@ msgid "Volcanic Rambler"
 msgstr ""
 
 #: ../../ORI.rst:925
-msgid "|mana_2| |mana_r|: Volcanic Rambler deals 1 damage to target player or planeswalker."
+msgid "|mana_2|\\ |mana_r|: Volcanic Rambler deals 1 damage to target player or planeswalker."
 msgstr ""
 
 #: ../../ORI.rst:930
@@ -1743,7 +1743,7 @@ msgid "Caustic Caterpillar"
 msgstr ""
 
 #: ../../ORI.rst:939
-msgid "|mana_1| |mana_g|, Sacrifice Caustic Caterpillar: Destroy target artifact or enchantment."
+msgid "|mana_1|\\ |mana_g|, Sacrifice Caustic Caterpillar: Destroy target artifact or enchantment."
 msgstr ""
 
 #: ../../ORI.rst:944
@@ -2014,7 +2014,7 @@ msgid "Whenever a creature you control becomes blocked, it gets +1/+1 until end 
 msgstr ""
 
 #: ../../ORI.rst:1091
-msgid "|mana_1| |mana_g|: Target creature you control gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)"
+msgid "|mana_1|\\ |mana_g|: Target creature you control gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
 
 #: ../../ORI.rst:1098
@@ -2046,7 +2046,7 @@ msgid "Undercity Troll"
 msgstr ""
 
 #: ../../ORI.rst:1111
-msgid "|mana_2| |mana_g|: Regenerate Undercity Troll. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+msgid "|mana_2|\\ |mana_g|: Regenerate Undercity Troll. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
 msgstr ""
 
 #: ../../ORI.rst:1118

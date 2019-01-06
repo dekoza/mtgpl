@@ -30,7 +30,7 @@ Aven Sunstriker
 
    Double strike (This creature deals both first-strike and regular combat damage.)
 
-   Megamorph |mana_4| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_4|\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
 
 Aven Tactician
@@ -72,7 +72,7 @@ Dromoka Captain
 
 
 Dromoka Dunecaster
-   |mana_1| |mana_w|, |tap|: Tap target creature without flying.
+   |mana_1|\ |mana_w|, |tap|: Tap target creature without flying.
 
 
 Dromoka Warrior
@@ -80,7 +80,7 @@ Dromoka Warrior
 
 
 Echoes of the Kin Tree
-   |mana_2| |mana_w|: Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+   |mana_2|\ |mana_w|: Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
 
 
 Enduring Victory
@@ -126,7 +126,7 @@ Herald of Dromoka
 Hidden Dragonslayer
    Lifelink
 
-   Megamorph |mana_2| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_2|\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Hidden Dragonslayer is turned face up, destroy target creature with power 4 or greater an opponent controls.
 
@@ -138,13 +138,13 @@ Lightwalker
 Misthoof Kirin
    Flying, vigilance
 
-   Megamorph |mana_1| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_1|\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
 
 Myth Realized
    Whenever you cast a noncreature spell, put a lore counter on Myth Realized.
 
-   |mana_2| |mana_w|: Put a lore counter on Myth Realized.
+   |mana_2|\ |mana_w|: Put a lore counter on Myth Realized.
 
    |mana_w|: Until end of turn, Myth Realized becomes a Monk Avatar creature in addition to its other types and gains "This creature's power and toughness are each equal to the number of lore counters on it."
 
@@ -194,7 +194,7 @@ Sandcrafter Mage
 
 
 Sandstorm Charger
-   Megamorph |mana_4| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_4|\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
 
 Scale Blessing
@@ -208,7 +208,7 @@ Secure the Wastes
 Shieldhide Dragon
    Flying, lifelink
 
-   Megamorph |mana_5| |mana_w| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_5|\ |mana_w|\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Shieldhide Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control.
 
@@ -250,7 +250,7 @@ Anticipate
 Belltoll Dragon
    Flying, hexproof
 
-   Megamorph |mana_5| |mana_u| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_5|\ |mana_u|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Belltoll Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control.
 
@@ -278,7 +278,7 @@ Dance of the Skywise
 Dirgur Nemesis
    Defender
 
-   Megamorph |mana_6| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_6|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
 
 Dragonlord's Prerogative
@@ -356,7 +356,7 @@ Mirror Mockery
 
 
 Monastery Loremaster
-   Megamorph |mana_5| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_5|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Monastery Loremaster is turned face up, return target noncreature, nonland card from your graveyard to your hand.
 
@@ -372,7 +372,7 @@ Negate
 Ojutai Interceptor
    Flying
 
-   Megamorph |mana_3| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_3|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
 
 Ojutai's Breath
@@ -414,7 +414,7 @@ Shorecrasher Elemental
 
    |mana_1|: Shorecrasher Elemental gets +1/-1 or -1/+1 until end of turn.
 
-   Megamorph |mana_4| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_4|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
 
 Sidisi's Faithful
@@ -440,7 +440,7 @@ Silumgar Sorcerer
 
 
 Silumgar Spell-Eater
-   Megamorph |mana_4| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_4|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Silumgar Spell-Eater is turned face up, counter target spell unless its controller pays |mana_3|.
 
@@ -452,13 +452,13 @@ Silumgar's Scorn
 
 
 Skywise Teachings
-   Whenever you cast a noncreature spell, you may pay |mana_1| |mana_u|. If you do, create a 2/2 blue Djinn Monk creature token with flying.
+   Whenever you cast a noncreature spell, you may pay |mana_1|\ |mana_u|. If you do, create a 2/2 blue Djinn Monk creature token with flying.
 
 
 Stratus Dancer
    Flying
 
-   Megamorph |mana_1| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_1|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Stratus Dancer is turned face up, counter target instant or sorcery spell.
 
@@ -492,7 +492,7 @@ Zephyr Scribe
 Acid-Spewer Dragon
    Flying, deathtouch
 
-   Megamorph |mana_5| |mana_b| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_5|\ |mana_b|\ |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Acid-Spewer Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control.
 
@@ -500,11 +500,11 @@ Acid-Spewer Dragon
 Ambuscade Shaman
    Whenever Ambuscade Shaman or another creature enters the battlefield under your control, that creature gets +2/+2 until end of turn.
 
-   Dash |mana_3| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_3|\ |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Blood-Chin Fanatic
-   |mana_1| |mana_b|, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature's power.
+   |mana_1|\ |mana_b|, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature's power.
 
 
 Blood-Chin Rager
@@ -520,7 +520,7 @@ Coat with Venom
 
 
 Corpseweft
-   |mana_1| |mana_b|, Exile one or more creature cards from your graveyard: Create a tapped X/X black Zombie Horror creature token, where X is twice the number of cards exiled this way.
+   |mana_1|\ |mana_b|, Exile one or more creature cards from your graveyard: Create a tapped X/X black Zombie Horror creature token, where X is twice the number of cards exiled this way.
 
 
 Damnable Pact
@@ -590,17 +590,17 @@ Hedonist's Trove
 
 
 Kolaghan Skirmisher
-   Dash |mana_2| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_2|\ |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Marang River Skeleton
    |mana_b|: Regenerate Marang River Skeleton.
 
-   Megamorph |mana_3| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_3|\ |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
 
 Marsh Hulk
-   Megamorph |mana_6| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_6|\ |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
 
 Mind Rot
@@ -616,7 +616,7 @@ Minister of Pain
 Pitiless Horde
    At the beginning of your upkeep, you lose 2 life.
 
-   Dash |mana_2| |mana_b| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_2|\ |mana_b|\ |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Qarsi Sadist
@@ -636,7 +636,7 @@ Reckless Imp
 
    Reckless Imp can't block.
 
-   Dash |mana_1| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_1|\ |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Risen Executioner
@@ -670,7 +670,7 @@ Sidisi, Undead Vizier
 Silumgar Assassin
    Creatures with power greater than Silumgar Assassin's power can't block it.
 
-   Megamorph |mana_2| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_2|\ |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Silumgar Assassin is turned face up, destroy target creature with power 3 or less an opponent controls.
 
@@ -706,13 +706,13 @@ Wandering Tombshell
 
 
 Atarka Efreet
-   Megamorph |mana_2| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_2|\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Atarka Efreet is turned face up, it deals 1 damage to any target.
 
 
 Atarka Pummeler
-   Formidable — |mana_3| |mana_r| |mana_r|: Creatures you control gain menace until end of turn. Activate this ability only if creatures you control have total power 8 or greater. (They can't be blocked except by two or more creatures.)
+   Formidable — |mana_3|\ |mana_r|\ |mana_r|: Creatures you control gain menace until end of turn. Activate this ability only if creatures you control have total power 8 or greater. (They can't be blocked except by two or more creatures.)
 
 
 Berserkers' Onslaught
@@ -726,7 +726,7 @@ Commune with Lava
 Crater Elemental
    |mana_r|, |tap|, Sacrifice Crater Elemental: It deals 4 damage to target creature.
 
-   Formidable — |mana_2| |mana_r|: Crater Elemental has base power 8 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |mana_2|\ |mana_r|: Crater Elemental has base power 8 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.
 
 
 Descent of the Dragons
@@ -752,9 +752,9 @@ Dragon Tempest
 Dragon Whisperer
    |mana_r|: Dragon Whisperer gains flying until end of turn.
 
-   |mana_1| |mana_r|: Dragon Whisperer gets +1/+0 until end of turn.
+   |mana_1|\ |mana_r|: Dragon Whisperer gets +1/+0 until end of turn.
 
-   Formidable — |mana_4| |mana_r| |mana_r|: Create a 4/4 red Dragon creature token with flying. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |mana_4|\ |mana_r|\ |mana_r|: Create a 4/4 red Dragon creature token with flying. Activate this ability only if creatures you control have total power 8 or greater.
 
 
 Dragonlord's Servant
@@ -790,7 +790,7 @@ Kolaghan Forerunners
 
    Kolaghan Forerunners's power is equal to the number of creatures you control.
 
-   Dash |mana_2| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_2|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Kolaghan Stormsinger
@@ -844,7 +844,7 @@ Sarkhan's Triumph
 
 
 Screamreach Brawler
-   Dash |mana_1| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_1|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Seismic Rupture
@@ -854,19 +854,19 @@ Seismic Rupture
 Sprinting Warbrute
    Sprinting Warbrute attacks each combat if able.
 
-   Dash |mana_3| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_3|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Stormcrag Elemental
    Trample
 
-   Megamorph |mana_4| |mana_r| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_4|\ |mana_r|\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
 
 Stormwing Dragon
    Flying, first strike
 
-   Megamorph |mana_5| |mana_r| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_5|\ |mana_r|\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Stormwing Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control.
 
@@ -914,19 +914,19 @@ Volcanic Vision
 Warbringer
    Dash costs you pay cost |mana_2| less (as long as this creature is on the battlefield).
 
-   Dash |mana_2| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_2|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Zurgo Bellstriker
    Zurgo Bellstriker can't block creatures with power 2 or greater.
 
-   Dash |mana_1| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_1|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Aerie Bowmasters
    Reach (This creature can block creatures with flying.)
 
-   Megamorph |mana_5| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_5|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
 
 Ainok Artillerist
@@ -934,7 +934,7 @@ Ainok Artillerist
 
 
 Ainok Survivalist
-   Megamorph |mana_1| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_1|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Ainok Survivalist is turned face up, destroy target artifact or enchantment an opponent controls.
 
@@ -944,11 +944,11 @@ Assault Formation
 
    |mana_g|: Target creature with defender can attack this turn as though it didn't have defender.
 
-   |mana_2| |mana_g|: Creatures you control get +0/+1 until end of turn.
+   |mana_2|\ |mana_g|: Creatures you control get +0/+1 until end of turn.
 
 
 Atarka Beastbreaker
-   Formidable — |mana_4| |mana_g|: Atarka Beastbreaker gets +4/+4 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |mana_4|\ |mana_g|: Atarka Beastbreaker gets +4/+4 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.
 
 
 Avatar of the Resolute
@@ -960,7 +960,7 @@ Avatar of the Resolute
 Circle of Elders
    Vigilance
 
-   Formidable — |tap|: Add |colorless| |colorless| |colorless|. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |tap|: Add |colorless|\ |colorless|\ |colorless|. Activate this ability only if creatures you control have total power 8 or greater.
 
 
 Collected Company
@@ -980,13 +980,13 @@ Deathmist Raptor
 
    Whenever a permanent you control is turned face up, you may return Deathmist Raptor from your graveyard to the battlefield face up or face down.
 
-   Megamorph |mana_4| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_4|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
 
 Den Protector
    Creatures with power less than Den Protector's power can't block it.
 
-   Megamorph |mana_1| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_1|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Den Protector is turned face up, return target card from your graveyard to your hand.
 
@@ -1000,7 +1000,7 @@ Display of Dominance
 
 
 Dragon-Scarred Bear
-   Formidable — |mana_1| |mana_g|: Regenerate Dragon-Scarred Bear. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |mana_1|\ |mana_g|: Regenerate Dragon-Scarred Bear. Activate this ability only if creatures you control have total power 8 or greater.
 
 
 Dromoka's Gift
@@ -1030,7 +1030,7 @@ Glade Watcher
 
 
 Guardian Shield-Bearer
-   Megamorph |mana_3| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_3|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Guardian Shield-Bearer is turned face up, put a +1/+1 counter on another target creature you control.
 
@@ -1038,7 +1038,7 @@ Guardian Shield-Bearer
 Herdchaser Dragon
    Flying, trample
 
-   Megamorph |mana_5| |mana_g| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_5|\ |mana_g|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Herdchaser Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control.
 
@@ -1048,7 +1048,7 @@ Inspiring Call
 
 
 Lurking Arynx
-   Formidable — |mana_2| |mana_g|: Target creature blocks Lurking Arynx this turn if able. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |mana_2|\ |mana_g|: Target creature blocks Lurking Arynx this turn if able. Activate this ability only if creatures you control have total power 8 or greater.
 
 
 Naturalize
@@ -1058,7 +1058,7 @@ Naturalize
 Obscuring Aether
    Face-down creature spells you cast cost |mana_1| less to cast.
 
-   |mana_1| |mana_g|: Turn Obscuring Aether face down. (It becomes a 2/2 creature.)
+   |mana_1|\ |mana_g|: Turn Obscuring Aether face down. (It becomes a 2/2 creature.)
 
 
 Pinion Feast
@@ -1076,13 +1076,13 @@ Revealing Wind
 Salt Road Ambushers
    Whenever another permanent you control is turned face up, if it's a creature, put two +1/+1 counters on it.
 
-   Megamorph |mana_3| |mana_g| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_3|\ |mana_g|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
 
 Salt Road Quartermasters
    Salt Road Quartermasters enters the battlefield with two +1/+1 counters on it.
 
-   |mana_2| |mana_g|, Remove a +1/+1 counter from Salt Road Quartermasters: Put a +1/+1 counter on target creature.
+   |mana_2|\ |mana_g|, Remove a +1/+1 counter from Salt Road Quartermasters: Put a +1/+1 counter on target creature.
 
 
 Sandsteppe Scavenger
@@ -1096,7 +1096,7 @@ Scaleguard Sentinels
 
 
 Segmented Krotiq
-   Megamorph |mana_6| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_6|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
 
 Servant of the Scale
@@ -1108,7 +1108,7 @@ Servant of the Scale
 Shaman of Forgotten Ways
    |tap|: Add two mana in any combination of colors. Spend this mana only to cast creature spells.
 
-   Formidable — |mana_9| |mana_g| |mana_g|, |tap|: Each player's life total becomes the number of creatures they control. Activate this ability only if creatures you control have total power 8 or greater.
+   Formidable — |mana_9|\ |mana_g|\ |mana_g|, |tap|: Each player's life total becomes the number of creatures they control. Activate this ability only if creatures you control have total power 8 or greater.
 
 
 Shape the Sands
@@ -1228,9 +1228,9 @@ Enduring Scalelord
 Harbinger of the Hunt
    Flying
 
-   |mana_2| |mana_r|: Harbinger of the Hunt deals 1 damage to each creature without flying.
+   |mana_2|\ |mana_r|: Harbinger of the Hunt deals 1 damage to each creature without flying.
 
-   |mana_2| |mana_g|: Harbinger of the Hunt deals 1 damage to each other creature with flying.
+   |mana_2|\ |mana_g|: Harbinger of the Hunt deals 1 damage to each other creature with flying.
 
 
 Kolaghan's Command
@@ -1294,7 +1294,7 @@ Sarkhan Unbroken
 Savage Ventmaw
    Flying
 
-   Whenever Savage Ventmaw attacks, add |mana_r| |mana_r| |mana_r| |mana_g| |mana_g| |mana_g|. Until end of turn, you don't lose this mana as steps and phases end.
+   Whenever Savage Ventmaw attacks, add |mana_r|\ |mana_r|\ |mana_r|\ |mana_g|\ |mana_g|\ |mana_g|. Until end of turn, you don't lose this mana as steps and phases end.
 
 
 Silumgar's Command
@@ -1322,7 +1322,7 @@ Ancestral Statue
 Atarka Monument
    |tap|: Add |mana_r| or |mana_g|.
 
-   |mana_4| |mana_r| |mana_g|: Atarka Monument becomes a 4/4 red and green Dragon artifact creature with flying until end of turn.
+   |mana_4|\ |mana_r|\ |mana_g|: Atarka Monument becomes a 4/4 red and green Dragon artifact creature with flying until end of turn.
 
 
 Custodian of the Trove
@@ -1338,7 +1338,7 @@ Dragonloft Idol
 Dromoka Monument
    |tap|: Add |mana_g| or |mana_w|.
 
-   |mana_4| |mana_g| |mana_w|: Dromoka Monument becomes a 4/4 green and white Dragon artifact creature with flying until end of turn.
+   |mana_4|\ |mana_g|\ |mana_w|: Dromoka Monument becomes a 4/4 green and white Dragon artifact creature with flying until end of turn.
 
 
 Gate Smasher
@@ -1356,19 +1356,19 @@ Keeper of the Lens
 Kolaghan Monument
    |tap|: Add |mana_b| or |mana_r|.
 
-   |mana_4| |mana_b| |mana_r|: Kolaghan Monument becomes a 4/4 black and red Dragon artifact creature with flying until end of turn.
+   |mana_4|\ |mana_b|\ |mana_r|: Kolaghan Monument becomes a 4/4 black and red Dragon artifact creature with flying until end of turn.
 
 
 Ojutai Monument
    |tap|: Add |mana_w| or |mana_u|.
 
-   |mana_4| |mana_w| |mana_u|: Ojutai Monument becomes a 4/4 white and blue Dragon artifact creature with flying until end of turn.
+   |mana_4|\ |mana_w|\ |mana_u|: Ojutai Monument becomes a 4/4 white and blue Dragon artifact creature with flying until end of turn.
 
 
 Silumgar Monument
    |tap|: Add |mana_u| or |mana_b|.
 
-   |mana_4| |mana_u| |mana_b|: Silumgar Monument becomes a 4/4 blue and black Dragon artifact creature with flying until end of turn.
+   |mana_4|\ |mana_u|\ |mana_b|: Silumgar Monument becomes a 4/4 blue and black Dragon artifact creature with flying until end of turn.
 
 
 Spidersilk Net

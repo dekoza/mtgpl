@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -248,7 +248,7 @@ msgid "Selesnya Sentry"
 msgstr ""
 
 #: ../../RTR.rst:109
-msgid "|mana_5| |mana_g|: Regenerate Selesnya Sentry."
+msgid "|mana_5|\\ |mana_g|: Regenerate Selesnya Sentry."
 msgstr ""
 
 #: ../../RTR.rst:114
@@ -313,7 +313,7 @@ msgid "Aquus Steed"
 msgstr ""
 
 #: ../../RTR.rst:143
-msgid "|mana_2| |mana_u|, |tap|: Target creature gets -2/-0 until end of turn."
+msgid "|mana_2|\\ |mana_u|, |tap|: Target creature gets -2/-0 until end of turn."
 msgstr ""
 
 #: ../../RTR.rst:150
@@ -325,7 +325,7 @@ msgid "Tap target creature you don't control."
 msgstr ""
 
 #: ../../RTR.rst:149
-msgid "Overload |mana_3| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_3|\\ |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../RTR.rst:154
@@ -369,7 +369,7 @@ msgid "Return target nonland permanent you don't control to its owner's hand."
 msgstr ""
 
 #: ../../RTR.rst:173
-msgid "Overload |mana_6| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_6|\\ |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../RTR.rst:178
@@ -394,7 +394,7 @@ msgid "Defender"
 msgstr ""
 
 #: ../../RTR.rst:183
-msgid "|mana_2| |mana_u|, |tap|: Target player puts the top X cards of their library into their graveyard, where X is the number of creatures with defender you control."
+msgid "|mana_2|\\ |mana_u|, |tap|: Target player puts the top X cards of their library into their graveyard, where X is the number of creatures with defender you control."
 msgstr ""
 
 #: ../../RTR.rst:190
@@ -406,7 +406,7 @@ msgid "Target creature you don't control gets -4/-0 until end of turn."
 msgstr ""
 
 #: ../../RTR.rst:189
-msgid "Overload |mana_2| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_2|\\ |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../RTR.rst:196
@@ -480,7 +480,7 @@ msgid "Target creature you control gets +0/+1 and gains hexproof until end of tu
 msgstr ""
 
 #: ../../RTR.rst:229
-msgid "Overload |mana_1| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_1|\\ |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../RTR.rst:236
@@ -676,7 +676,7 @@ msgid "Grim Roustabout"
 msgstr ""
 
 #: ../../RTR.rst:347
-msgid "|mana_1| |mana_b|: Regenerate Grim Roustabout."
+msgid "|mana_1|\\ |mana_b|: Regenerate Grim Roustabout."
 msgstr ""
 
 #: ../../RTR.rst:354
@@ -724,7 +724,7 @@ msgid "Pack Rat's power and toughness are each equal to the number of Rats you c
 msgstr ""
 
 #: ../../RTR.rst:375
-msgid "|mana_2| |mana_b|, Discard a card: Create a token that's a copy of Pack Rat."
+msgid "|mana_2|\\ |mana_b|, Discard a card: Create a token that's a copy of Pack Rat."
 msgstr ""
 
 #: ../../RTR.rst:380
@@ -732,7 +732,7 @@ msgid "Perilous Shadow"
 msgstr ""
 
 #: ../../RTR.rst:379
-msgid "|mana_1| |mana_b|: Perilous Shadow gets +2/+2 until end of turn."
+msgid "|mana_1|\\ |mana_b|: Perilous Shadow gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../RTR.rst:386
@@ -744,7 +744,7 @@ msgid "Swampwalk (This creature can't be blocked as long as defending player con
 msgstr ""
 
 #: ../../RTR.rst:385
-msgid "Scavenge |mana_2| |mana_b| (|mana_2| |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgid "Scavenge |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 
 #: ../../RTR.rst:390
@@ -788,7 +788,7 @@ msgid "Terrus Wurm"
 msgstr ""
 
 #: ../../RTR.rst:409
-msgid "Scavenge |mana_6| |mana_b| (|mana_6| |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgid "Scavenge |mana_6|\\ |mana_b| (|mana_6|\\ |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 
 #: ../../RTR.rst:416
@@ -820,7 +820,7 @@ msgid "Zanikev Locust"
 msgstr ""
 
 #: ../../RTR.rst:431
-msgid "Scavenge |mana_2| |mana_b| |mana_b| (|mana_2| |mana_b| |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgid "Scavenge |mana_2|\\ |mana_b|\\ |mana_b| (|mana_2|\\ |mana_b|\\ |mana_b|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 
 #: ../../RTR.rst:436
@@ -858,7 +858,7 @@ msgid "Bellows Lizard"
 msgstr ""
 
 #: ../../RTR.rst:449
-msgid "|mana_1| |mana_r|: Bellows Lizard gets +1/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|: Bellows Lizard gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../RTR.rst:456
@@ -896,7 +896,7 @@ msgid "Target creature you control gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../RTR.rst:473
-msgid "Overload |mana_2| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_2|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../RTR.rst:480
@@ -908,7 +908,7 @@ msgid "Electrickery deals 1 damage to target creature you don't control."
 msgstr ""
 
 #: ../../RTR.rst:479
-msgid "Overload |mana_1| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_1|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../RTR.rst:484
@@ -972,7 +972,7 @@ msgid "Mizzium Mortars deals 4 damage to target creature you don't control."
 msgstr ""
 
 #: ../../RTR.rst:517
-msgid "Overload |mana_3| |mana_r| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../RTR.rst:524
@@ -1012,7 +1012,7 @@ msgid "Street Spasm deals X damage to target creature without flying you don't c
 msgstr ""
 
 #: ../../RTR.rst:545
-msgid "Overload |mana_x| |mana_x| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_x|\\ |mana_x|\\ |mana_r|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../RTR.rst:550
@@ -1059,7 +1059,7 @@ msgid "Destroy target artifact you don't control."
 msgstr ""
 
 #: ../../RTR.rst:569
-msgid "Overload |mana_4| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_4|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../RTR.rst:574
@@ -1113,7 +1113,7 @@ msgid "Centaur's Herald"
 msgstr ""
 
 #: ../../RTR.rst:599
-msgid "|mana_2| |mana_g|, Sacrifice Centaur's Herald: Create a 3/3 green Centaur creature token."
+msgid "|mana_2|\\ |mana_g|, Sacrifice Centaur's Herald: Create a 3/3 green Centaur creature token."
 msgstr ""
 
 #: ../../RTR.rst:604
@@ -1129,7 +1129,7 @@ msgid "Deadbridge Goliath"
 msgstr ""
 
 #: ../../RTR.rst:607
-msgid "Scavenge |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgid "Scavenge |mana_4|\\ |mana_g|\\ |mana_g| (|mana_4|\\ |mana_g|\\ |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 
 #: ../../RTR.rst:612
@@ -1145,7 +1145,7 @@ msgid "Drudge Beetle"
 msgstr ""
 
 #: ../../RTR.rst:615
-msgid "Scavenge |mana_5| |mana_g| (|mana_5| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgid "Scavenge |mana_5|\\ |mana_g| (|mana_5|\\ |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 
 #: ../../RTR.rst:620
@@ -1189,7 +1189,7 @@ msgid "All creatures able to block Golgari Decoy do so."
 msgstr ""
 
 #: ../../RTR.rst:639
-msgid "Scavenge |mana_3| |mana_g| |mana_g| (|mana_3| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgid "Scavenge |mana_3|\\ |mana_g|\\ |mana_g| (|mana_3|\\ |mana_g|\\ |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 
 #: ../../RTR.rst:644
@@ -1205,7 +1205,7 @@ msgid "Korozda Monitor"
 msgstr ""
 
 #: ../../RTR.rst:649
-msgid "Scavenge |mana_5| |mana_g| |mana_g| (|mana_5| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgid "Scavenge |mana_5|\\ |mana_g|\\ |mana_g| (|mana_5|\\ |mana_g|\\ |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 
 #: ../../RTR.rst:658
@@ -1269,7 +1269,7 @@ msgid "Stonefare Crocodile"
 msgstr ""
 
 #: ../../RTR.rst:681
-msgid "|mana_2| |mana_b|: Stonefare Crocodile gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)"
+msgid "|mana_2|\\ |mana_b|: Stonefare Crocodile gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)"
 msgstr ""
 
 #: ../../RTR.rst:686
@@ -1399,7 +1399,7 @@ msgstr ""
 
 #: ../../RTR.rst:755
 #: ../../RTR.rst:1063
-msgid "Overload |mana_3| |mana_u| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_3|\\ |mana_u|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../RTR.rst:760
@@ -1436,7 +1436,7 @@ msgid "Counter target spell you don't control."
 msgstr ""
 
 #: ../../RTR.rst:777
-msgid "Overload |mana_1| |mana_u| |mana_u| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_1|\\ |mana_u|\\ |mana_u|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../RTR.rst:782
@@ -1480,7 +1480,7 @@ msgid "Dreg Mangler"
 msgstr ""
 
 #: ../../RTR.rst:801
-msgid "Scavenge |mana_3| |mana_b| |mana_g| (|mana_3| |mana_b| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgid "Scavenge |mana_3|\\ |mana_b|\\ |mana_g| (|mana_3|\\ |mana_b|\\ |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 
 #: ../../RTR.rst:806
@@ -1564,7 +1564,7 @@ msgid "Hellhole Flailer"
 msgstr ""
 
 #: ../../RTR.rst:847
-msgid "|mana_2| |mana_b| |mana_r|, Sacrifice Hellhole Flailer: Hellhole Flailer deals damage equal to its power to target player or planeswalker."
+msgid "|mana_2|\\ |mana_b|\\ |mana_r|, Sacrifice Hellhole Flailer: Hellhole Flailer deals damage equal to its power to target player or planeswalker."
 msgstr ""
 
 #: ../../RTR.rst:852
@@ -1632,7 +1632,7 @@ msgid "Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your gravey
 msgstr ""
 
 #: ../../RTR.rst:893
-msgid "|mana_1| |mana_b| |mana_g|, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power."
+msgid "|mana_1|\\ |mana_b|\\ |mana_g|, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power."
 msgstr ""
 
 #: ../../RTR.rst:895
@@ -1652,11 +1652,11 @@ msgid "Korozda Guildmage"
 msgstr ""
 
 #: ../../RTR.rst:903
-msgid "|mana_1| |mana_b| |mana_g|: Target creature gets +1/+1 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgid "|mana_1|\\ |mana_b|\\ |mana_g|: Target creature gets +1/+1 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
 msgstr ""
 
 #: ../../RTR.rst:905
-msgid "|mana_2| |mana_b| |mana_g|, Sacrifice a nontoken creature: Create X 1/1 green Saproling creature tokens, where X is the sacrificed creature's toughness."
+msgid "|mana_2|\\ |mana_b|\\ |mana_g|, Sacrifice a nontoken creature: Create X 1/1 green Saproling creature tokens, where X is the sacrificed creature's toughness."
 msgstr ""
 
 #: ../../RTR.rst:914
@@ -1704,11 +1704,11 @@ msgid "New Prahv Guildmage"
 msgstr ""
 
 #: ../../RTR.rst:935
-msgid "|mana_w| |mana_u|: Target creature gains flying until end of turn."
+msgid "|mana_w|\\ |mana_u|: Target creature gains flying until end of turn."
 msgstr ""
 
 #: ../../RTR.rst:937
-msgid "|mana_3| |mana_w| |mana_u|: Detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)"
+msgid "|mana_3|\\ |mana_w|\\ |mana_u|: Detain target nonland permanent an opponent controls. (Until your next turn, that permanent can't attack or block and its activated abilities can't be activated.)"
 msgstr ""
 
 #: ../../RTR.rst:944
@@ -1716,11 +1716,11 @@ msgid "Nivix Guildmage"
 msgstr ""
 
 #: ../../RTR.rst:941
-msgid "|mana_1| |mana_u| |mana_r|: Draw a card, then discard a card."
+msgid "|mana_1|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
 msgstr ""
 
 #: ../../RTR.rst:943
-msgid "|mana_2| |mana_u| |mana_r|: Copy target instant or sorcery spell you control. You may choose new targets for the copy."
+msgid "|mana_2|\\ |mana_u|\\ |mana_r|: Copy target instant or sorcery spell you control. You may choose new targets for the copy."
 msgstr ""
 
 #: ../../RTR.rst:952
@@ -1732,7 +1732,7 @@ msgid "Whenever Niv-Mizzet, Dracogenius deals damage to a player, you may draw a
 msgstr ""
 
 #: ../../RTR.rst:951
-msgid "|mana_u| |mana_r|: Niv-Mizzet, Dracogenius deals 1 damage to any target."
+msgid "|mana_u|\\ |mana_r|: Niv-Mizzet, Dracogenius deals 1 damage to any target."
 msgstr ""
 
 #: ../../RTR.rst:962
@@ -1824,11 +1824,11 @@ msgid "Rix Maadi Guildmage"
 msgstr ""
 
 #: ../../RTR.rst:1005
-msgid "|mana_b| |mana_r|: Target blocking creature gets -1/-1 until end of turn."
+msgid "|mana_b|\\ |mana_r|: Target blocking creature gets -1/-1 until end of turn."
 msgstr ""
 
 #: ../../RTR.rst:1007
-msgid "|mana_b| |mana_r|: Target player who lost life this turn loses 1 life."
+msgid "|mana_b|\\ |mana_r|: Target player who lost life this turn loses 1 life."
 msgstr ""
 
 #: ../../RTR.rst:1012
@@ -1888,7 +1888,7 @@ msgid "Deathtouch (Any amount of damage this deals to a creature is enough to de
 msgstr ""
 
 #: ../../RTR.rst:1043
-msgid "Scavenge |mana_1| |mana_b| |mana_g| (|mana_1| |mana_b| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgid "Scavenge |mana_1|\\ |mana_b|\\ |mana_g| (|mana_1|\\ |mana_b|\\ |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 
 #: ../../RTR.rst:1048
@@ -1940,7 +1940,7 @@ msgid "Trestle Troll"
 msgstr ""
 
 #: ../../RTR.rst:1079
-msgid "|mana_1| |mana_b| |mana_g|: Regenerate Trestle Troll."
+msgid "|mana_1|\\ |mana_b|\\ |mana_g|: Regenerate Trestle Troll."
 msgstr ""
 
 #: ../../RTR.rst:1086
@@ -1952,7 +1952,7 @@ msgid "Whenever another creature enters the battlefield under your control, you 
 msgstr ""
 
 #: ../../RTR.rst:1085
-msgid "|mana_1| |mana_g| |mana_w|, |tap|: Populate. (Create a token that's a copy of a creature token you control.)"
+msgid "|mana_1|\\ |mana_g|\\ |mana_w|, |tap|: Populate. (Create a token that's a copy of a creature token you control.)"
 msgstr ""
 
 #: ../../RTR.rst:1092
@@ -1960,11 +1960,11 @@ msgid "Vitu-Ghazi Guildmage"
 msgstr ""
 
 #: ../../RTR.rst:1089
-msgid "|mana_4| |mana_g| |mana_w|: Create a 3/3 green Centaur creature token."
+msgid "|mana_4|\\ |mana_g|\\ |mana_w|: Create a 3/3 green Centaur creature token."
 msgstr ""
 
 #: ../../RTR.rst:1091
-msgid "|mana_2| |mana_g| |mana_w|: Populate. (Create a token that's a copy of a creature token you control.)"
+msgid "|mana_2|\\ |mana_g|\\ |mana_w|: Populate. (Create a token that's a copy of a creature token you control.)"
 msgstr ""
 
 #: ../../RTR.rst:1100
@@ -2121,7 +2121,7 @@ msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
 #: ../../RTR.rst:1181
-msgid "|mana_w| |mana_u|: Azorius Keyrune becomes a 2/2 white and blue Bird artifact creature with flying until end of turn."
+msgid "|mana_w|\\ |mana_u|: Azorius Keyrune becomes a 2/2 white and blue Bird artifact creature with flying until end of turn."
 msgstr ""
 
 #: ../../RTR.rst:1188
@@ -2171,7 +2171,7 @@ msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr ""
 
 #: ../../RTR.rst:1205
-msgid "|mana_b| |mana_g|: Golgari Keyrune becomes a 2/2 black and green Insect artifact creature with deathtouch until end of turn."
+msgid "|mana_b|\\ |mana_g|: Golgari Keyrune becomes a 2/2 black and green Insect artifact creature with deathtouch until end of turn."
 msgstr ""
 
 #: ../../RTR.rst:1214
@@ -2184,7 +2184,7 @@ msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
 #: ../../RTR.rst:1211
-msgid "|mana_u| |mana_r|: Until end of turn, Izzet Keyrune becomes a 2/1 blue and red Elemental artifact creature."
+msgid "|mana_u|\\ |mana_r|: Until end of turn, Izzet Keyrune becomes a 2/1 blue and red Elemental artifact creature."
 msgstr ""
 
 #: ../../RTR.rst:1213
@@ -2213,7 +2213,7 @@ msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
 #: ../../RTR.rst:1225
-msgid "|mana_b| |mana_r|: Rakdos Keyrune becomes a 3/1 black and red Devil artifact creature with first strike until end of turn."
+msgid "|mana_b|\\ |mana_r|: Rakdos Keyrune becomes a 3/1 black and red Devil artifact creature with first strike until end of turn."
 msgstr ""
 
 #: ../../RTR.rst:1232
@@ -2226,7 +2226,7 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
 #: ../../RTR.rst:1231
-msgid "|mana_g| |mana_w|: Selesnya Keyrune becomes a 3/3 green and white Wolf artifact creature until end of turn."
+msgid "|mana_g|\\ |mana_w|: Selesnya Keyrune becomes a 3/3 green and white Wolf artifact creature until end of turn."
 msgstr ""
 
 #: ../../RTR.rst:1236
@@ -2303,7 +2303,7 @@ msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../RTR.rst:1275
-msgid "|mana_3| |mana_g| |mana_w|, |tap|, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Create an 8/8 green and white Elemental creature token with vigilance."
+msgid "|mana_3|\\ |mana_g|\\ |mana_w|, |tap|, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Create an 8/8 green and white Elemental creature token with vigilance."
 msgstr ""
 
 #: ../../RTR.rst:1282

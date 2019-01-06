@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -95,7 +95,7 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../C15.rst:31
-msgid "|mana_5| |mana_w| |mana_w|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+msgid "|mana_5|\\ |mana_w|\\ |mana_w|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
 #: ../../C15.rst:33
@@ -274,7 +274,7 @@ msgid "Scourge of Nel Toth"
 msgstr ""
 
 #: ../../C15.rst:123
-msgid "You may cast Scourge of Nel Toth from your graveyard by paying |mana_b| |mana_b| and sacrificing two creatures rather than paying its mana cost."
+msgid "You may cast Scourge of Nel Toth from your graveyard by paying |mana_b|\\ |mana_b| and sacrificing two creatures rather than paying its mana cost."
 msgstr ""
 
 #: ../../C15.rst:130
@@ -338,7 +338,7 @@ msgid "Magus of the Wheel"
 msgstr ""
 
 #: ../../C15.rst:163
-msgid "|mana_1| |mana_r|, |tap|, Sacrifice Magus of the Wheel: Each player discards their hand, then draws seven cards."
+msgid "|mana_1|\\ |mana_r|, |tap|, Sacrifice Magus of the Wheel: Each player discards their hand, then draws seven cards."
 msgstr ""
 
 #: ../../C15.rst:168
@@ -358,7 +358,7 @@ msgid "Exile target card that's an instant or sorcery from your graveyard. For e
 msgstr ""
 
 #: ../../C15.rst:173
-msgid "Overload |mana_5| |mana_r| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_5|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../C15.rst:180
@@ -422,7 +422,7 @@ msgid "Centaur Vinecrasher enters the battlefield with a number of +1/+1 counter
 msgstr ""
 
 #: ../../C15.rst:209
-msgid "Whenever a land card is put into a graveyard from anywhere, you may pay |mana_g| |mana_g|. If you do, return Centaur Vinecrasher from your graveyard to your hand."
+msgid "Whenever a land card is put into a graveyard from anywhere, you may pay |mana_g|\\ |mana_g|. If you do, return Centaur Vinecrasher from your graveyard to your hand."
 msgstr ""
 
 #: ../../C15.rst:214
@@ -514,7 +514,7 @@ msgid "Whenever you cast an enchantment spell, you get an experience counter."
 msgstr ""
 
 #: ../../C15.rst:261
-msgid "|mana_1| |mana_w| |mana_b|: Create a white and black Spirit enchantment creature token. It has \"This creature's power and toughness are each equal to the number of experience counters you have.\""
+msgid "|mana_1|\\ |mana_w|\\ |mana_b|: Create a white and black Spirit enchantment creature token. It has \"This creature's power and toughness are each equal to the number of experience counters you have.\""
 msgstr ""
 
 #: ../../C15.rst:268
@@ -554,7 +554,7 @@ msgid "Whenever you gain life, put two +1/+1 counters on Karlov of the Ghost Cou
 msgstr ""
 
 #: ../../C15.rst:281
-msgid "|mana_w| |mana_b|, Remove six +1/+1 counters from Karlov of the Ghost Council: Exile target creature."
+msgid "|mana_w|\\ |mana_b|, Remove six +1/+1 counters from Karlov of the Ghost Council: Exile target creature."
 msgstr ""
 
 #: ../../C15.rst:286
@@ -562,7 +562,7 @@ msgid "Kaseto, Orochi Archmage"
 msgstr ""
 
 #: ../../C15.rst:285
-msgid "|mana_g| |mana_u|: Target creature can't be blocked this turn. If that creature is a Snake, it gets +2/+2 until end of turn."
+msgid "|mana_g|\\ |mana_u|: Target creature can't be blocked this turn. If that creature is a Snake, it gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../C15.rst:292
@@ -742,7 +742,7 @@ msgid "Enchanted creature can't attack or block."
 msgstr ""
 
 #: ../../C15.rst:379
-msgid "|mana_1| |mana_w|: Return Cage of Hands to its owner's hand."
+msgid "|mana_1|\\ |mana_w|: Return Cage of Hands to its owner's hand."
 msgstr ""
 
 #: ../../C15.rst:386
@@ -758,7 +758,7 @@ msgid "Celestial Archon"
 msgstr ""
 
 #: ../../C15.rst:389
-msgid "Bestow |mana_5| |mana_w| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_5|\\ |mana_w|\\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../C15.rst:391
@@ -846,7 +846,7 @@ msgid "Ghostblade Eidolon"
 msgstr ""
 
 #: ../../C15.rst:431
-msgid "Bestow |mana_5| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_5|\\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../C15.rst:433
@@ -894,7 +894,7 @@ msgid "Marshal's Anthem"
 msgstr ""
 
 #: ../../C15.rst:455
-msgid "Multikicker |mana_1| |mana_w| (You may pay an additional |mana_1| |mana_w| any number of times as you cast this spell.)"
+msgid "Multikicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |mana_w| any number of times as you cast this spell.)"
 msgstr ""
 
 #: ../../C15.rst:457
@@ -1006,7 +1006,7 @@ msgid "Whenever a creature you control deals combat damage to a player, you may 
 msgstr ""
 
 #: ../../C15.rst:519
-msgid "|mana_1| |mana_u|, |tap|: Creatures your opponents control attack this turn if able."
+msgid "|mana_1|\\ |mana_u|, |tap|: Creatures your opponents control attack this turn if able."
 msgstr ""
 
 #: ../../C15.rst:524
@@ -1034,7 +1034,7 @@ msgid "Tap target creature you don't control."
 msgstr ""
 
 #: ../../C15.rst:533
-msgid "Overload |mana_3| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_3|\\ |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../C15.rst:538
@@ -1110,7 +1110,7 @@ msgid "When Mulldrifter enters the battlefield, draw two cards."
 msgstr ""
 
 #: ../../C15.rst:573
-msgid "Evoke |mana_2| |mana_u| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+msgid "Evoke |mana_2|\\ |mana_u| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 
 #: ../../C15.rst:580
@@ -1123,7 +1123,7 @@ msgstr ""
 
 #: ../../C15.rst:579
 #: ../../C15.rst:869
-msgid "Flashback |mana_2| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../C15.rst:586
@@ -1131,7 +1131,7 @@ msgid "Ninja of the Deep Hours"
 msgstr ""
 
 #: ../../C15.rst:583
-msgid "Ninjutsu |mana_1| |mana_u| (|mana_1| |mana_u|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+msgid "Ninjutsu |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
 msgstr ""
 
 #: ../../C15.rst:585
@@ -1308,11 +1308,11 @@ msgid "Champion of Stray Souls"
 msgstr ""
 
 #: ../../C15.rst:679
-msgid "|mana_3| |mana_b| |mana_b|, |tap|, Sacrifice X other creatures: Return X target creature cards from your graveyard to the battlefield."
+msgid "|mana_3|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice X other creatures: Return X target creature cards from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../C15.rst:681
-msgid "|mana_5| |mana_b| |mana_b|: Put Champion of Stray Souls on top of your library from your graveyard."
+msgid "|mana_5|\\ |mana_b|\\ |mana_b|: Put Champion of Stray Souls on top of your library from your graveyard."
 msgstr ""
 
 #: ../../C15.rst:690
@@ -1356,7 +1356,7 @@ msgid "|mana_b|, Sacrifice another creature: Regenerate Eater of Hope."
 msgstr ""
 
 #: ../../C15.rst:705
-msgid "|mana_2| |mana_b|, Sacrifice two other creatures: Destroy target creature."
+msgid "|mana_2|\\ |mana_b|, Sacrifice two other creatures: Destroy target creature."
 msgstr ""
 
 #: ../../C15.rst:714
@@ -1368,7 +1368,7 @@ msgid "Whenever another creature leaves the battlefield, you may have target pla
 msgstr ""
 
 #: ../../C15.rst:713
-msgid "Unearth |mana_2| |mana_b| (|mana_2| |mana_b|: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+msgid "Unearth |mana_2|\\ |mana_b| (|mana_2|\\ |mana_b|: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
 msgstr ""
 
 #: ../../C15.rst:722
@@ -1412,7 +1412,7 @@ msgid "Nighthowler"
 msgstr ""
 
 #: ../../C15.rst:737
-msgid "Bestow |mana_2| |mana_b| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_2|\\ |mana_b|\\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../C15.rst:739
@@ -1452,7 +1452,7 @@ msgid "Phyrexian Reclamation"
 msgstr ""
 
 #: ../../C15.rst:757
-msgid "|mana_1| |mana_b|, Pay 2 life: Return target creature card from your graveyard to your hand."
+msgid "|mana_1|\\ |mana_b|, Pay 2 life: Return target creature card from your graveyard to your hand."
 msgstr ""
 
 #: ../../C15.rst:762
@@ -1480,7 +1480,7 @@ msgid "Exile target creature and all other creatures with the same name as that 
 msgstr ""
 
 #: ../../C15.rst:771
-msgid "Flashback |mana_5| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../C15.rst:780
@@ -1496,7 +1496,7 @@ msgid "When Shriekmaw enters the battlefield, destroy target nonartifact, nonbla
 msgstr ""
 
 #: ../../C15.rst:779
-msgid "Evoke |mana_1| |mana_b| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+msgid "Evoke |mana_1|\\ |mana_b| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 
 #: ../../C15.rst:786
@@ -1608,7 +1608,7 @@ msgid "Desolation Giant"
 msgstr ""
 
 #: ../../C15.rst:839
-msgid "Kicker |mana_w| |mana_w| (You may pay an additional |mana_w| |mana_w| as you cast this spell.)"
+msgid "Kicker |mana_w|\\ |mana_w| (You may pay an additional |mana_w|\\ |mana_w| as you cast this spell.)"
 msgstr ""
 
 #: ../../C15.rst:841
@@ -1624,7 +1624,7 @@ msgid "Draw two cards, then discard a card at random."
 msgstr ""
 
 #: ../../C15.rst:847
-msgid "Flashback |mana_2| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_2|\\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../C15.rst:854
@@ -1760,7 +1760,7 @@ msgid "Mizzium Mortars deals 4 damage to target creature you don't control."
 msgstr ""
 
 #: ../../C15.rst:921
-msgid "Overload |mana_3| |mana_r| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_3|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../C15.rst:926
@@ -1776,7 +1776,7 @@ msgid "Stoneshock Giant"
 msgstr ""
 
 #: ../../C15.rst:929
-msgid "|mana_6| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+msgid "|mana_6|\\ |mana_r|\\ |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
 #: ../../C15.rst:931
@@ -1812,7 +1812,7 @@ msgid "Urza's Rage"
 msgstr ""
 
 #: ../../C15.rst:949
-msgid "Kicker |mana_8| |mana_r| (You may pay an additional |mana_8| |mana_r| as you cast this spell.)"
+msgid "Kicker |mana_8|\\ |mana_r| (You may pay an additional |mana_8|\\ |mana_r| as you cast this spell.)"
 msgstr ""
 
 #: ../../C15.rst:951
@@ -1833,7 +1833,7 @@ msgid "Destroy target artifact you don't control."
 msgstr ""
 
 #: ../../C15.rst:959
-msgid "Overload |mana_4| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_4|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../C15.rst:964
@@ -1870,7 +1870,7 @@ msgid "Arbor Colossus"
 msgstr ""
 
 #: ../../C15.rst:981
-msgid "|mana_3| |mana_g| |mana_g| |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+msgid "|mana_3|\\ |mana_g|\\ |mana_g|\\ |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
 #: ../../C15.rst:983
@@ -1914,7 +1914,7 @@ msgid "Protection from black"
 msgstr ""
 
 #: ../../C15.rst:1007
-msgid "|mana_2| |mana_g| |mana_g|: Chameleon Colossus gets +X/+X until end of turn, where X is its power."
+msgid "|mana_2|\\ |mana_g|\\ |mana_g|: Chameleon Colossus gets +X/+X until end of turn, where X is its power."
 msgstr ""
 
 #: ../../C15.rst:1018
@@ -1926,7 +1926,7 @@ msgid "When Cloudthresher enters the battlefield, it deals 2 damage to each crea
 msgstr ""
 
 #: ../../C15.rst:1017
-msgid "Evoke |mana_2| |mana_g| |mana_g| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+msgid "Evoke |mana_2|\\ |mana_g|\\ |mana_g| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 
 #: ../../C15.rst:1024
@@ -2054,7 +2054,7 @@ msgid "Noble Quarry"
 msgstr ""
 
 #: ../../C15.rst:1083
-msgid "Bestow |mana_5| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_5|\\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../C15.rst:1085
@@ -2150,7 +2150,7 @@ msgid "Create a 1/2 green Spider creature token with reach for each creature car
 msgstr ""
 
 #: ../../C15.rst:1133
-msgid "Flashback |mana_6| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_6|\\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../C15.rst:1140
@@ -2178,7 +2178,7 @@ msgid "Saproling creatures get +1/+1."
 msgstr ""
 
 #: ../../C15.rst:1149
-msgid "Morph |mana_3| |mana_g| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_3|\\ |mana_g|\\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../C15.rst:1151
@@ -2222,7 +2222,7 @@ msgid "Viridian Zealot"
 msgstr ""
 
 #: ../../C15.rst:1171
-msgid "|mana_1| |mana_g|, Sacrifice Viridian Zealot: Destroy target artifact or enchantment."
+msgid "|mana_1|\\ |mana_g|, Sacrifice Viridian Zealot: Destroy target artifact or enchantment."
 msgstr ""
 
 #: ../../C15.rst:1178
@@ -2262,7 +2262,7 @@ msgid "Counter target spell you don't control."
 msgstr ""
 
 #: ../../C15.rst:1193
-msgid "Overload |mana_1| |mana_u| |mana_u| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_1|\\ |mana_u|\\ |mana_u|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../C15.rst:1198
@@ -2286,7 +2286,7 @@ msgid "Etherium-Horn Sorcerer"
 msgstr ""
 
 #: ../../C15.rst:1205
-msgid "|mana_1| |mana_u| |mana_r|: Return Etherium-Horn Sorcerer to its owner's hand."
+msgid "|mana_1|\\ |mana_u|\\ |mana_r|: Return Etherium-Horn Sorcerer to its owner's hand."
 msgstr ""
 
 #: ../../C15.rst:1207
@@ -2354,7 +2354,7 @@ msgid "Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your gravey
 msgstr ""
 
 #: ../../C15.rst:1243
-msgid "|mana_1| |mana_b| |mana_g|, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power."
+msgid "|mana_1|\\ |mana_b|\\ |mana_g|, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature's power."
 msgstr ""
 
 #: ../../C15.rst:1245
@@ -2366,11 +2366,11 @@ msgid "Korozda Guildmage"
 msgstr ""
 
 #: ../../C15.rst:1249
-msgid "|mana_1| |mana_b| |mana_g|: Target creature gets +1/+1 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgid "|mana_1|\\ |mana_b|\\ |mana_g|: Target creature gets +1/+1 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
 msgstr ""
 
 #: ../../C15.rst:1251
-msgid "|mana_2| |mana_b| |mana_g|, Sacrifice a nontoken creature: Create X 1/1 green Saproling creature tokens, where X is the sacrificed creature's toughness."
+msgid "|mana_2|\\ |mana_b|\\ |mana_g|, Sacrifice a nontoken creature: Create X 1/1 green Saproling creature tokens, where X is the sacrificed creature's toughness."
 msgstr ""
 
 #: ../../C15.rst:1256
@@ -2506,7 +2506,7 @@ msgid "Constellation — Whenever Underworld Coinsmith or another enchantment en
 msgstr ""
 
 #: ../../C15.rst:1325
-msgid "|mana_w| |mana_b|, Pay 1 life: Each opponent loses 1 life."
+msgid "|mana_w|\\ |mana_b|, Pay 1 life: Each opponent loses 1 life."
 msgstr ""
 
 #: ../../C15.rst:1332
@@ -2575,7 +2575,7 @@ msgstr ""
 
 #: ../../C15.rst:1363
 #: ../../C15.rst:1409
-msgid "|tap|: Add |colorless| |colorless| |colorless|."
+msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
 msgstr ""
 
 #: ../../C15.rst:1365
@@ -2606,7 +2606,7 @@ msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
 #: ../../C15.rst:1379
-msgid "|mana_r| |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card."
+msgid "|mana_r|\\ |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card."
 msgstr ""
 
 #: ../../C15.rst:1384
@@ -2614,7 +2614,7 @@ msgid "Boros Signet"
 msgstr ""
 
 #: ../../C15.rst:1383
-msgid "|mana_1|, |tap|: Add |mana_r| |mana_w|."
+msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_w|."
 msgstr ""
 
 #: ../../C15.rst:1388
@@ -2694,7 +2694,7 @@ msgid "Golgari Signet"
 msgstr ""
 
 #: ../../C15.rst:1425
-msgid "|mana_1|, |tap|: Add |mana_b| |mana_g|."
+msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_g|."
 msgstr ""
 
 #: ../../C15.rst:1430
@@ -2702,7 +2702,7 @@ msgid "Izzet Signet"
 msgstr ""
 
 #: ../../C15.rst:1429
-msgid "|mana_1|, |tap|: Add |mana_u| |mana_r|."
+msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_r|."
 msgstr ""
 
 #: ../../C15.rst:1436
@@ -2756,7 +2756,7 @@ msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr ""
 
 #: ../../C15.rst:1459
-msgid "|mana_w| |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
+msgid "|mana_w|\\ |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
 msgstr ""
 
 #: ../../C15.rst:1464
@@ -2764,7 +2764,7 @@ msgid "Orzhov Signet"
 msgstr ""
 
 #: ../../C15.rst:1463
-msgid "|mana_1|, |tap|: Add |mana_w| |mana_b|."
+msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_b|."
 msgstr ""
 
 #: ../../C15.rst:1470
@@ -2798,7 +2798,7 @@ msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
 
 #: ../../C15.rst:1479
-msgid "|mana_g| |mana_u|: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature with hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
+msgid "|mana_g|\\ |mana_u|: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature with hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 
 #: ../../C15.rst:1484
@@ -2806,7 +2806,7 @@ msgid "Simic Signet"
 msgstr ""
 
 #: ../../C15.rst:1483
-msgid "|mana_1|, |tap|: Add |mana_g| |mana_u|."
+msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_u|."
 msgstr ""
 
 #: ../../C15.rst:1492
@@ -2832,7 +2832,7 @@ msgstr ""
 
 #: ../../C15.rst:1495
 #: ../../C15.rst:1535
-msgid "|tap|: Add |colorless| |colorless|."
+msgid "|tap|: Add |colorless|\\ |colorless|."
 msgstr ""
 
 #: ../../C15.rst:1502
@@ -2954,7 +2954,7 @@ msgid "When Boros Garrison enters the battlefield, return a land you control to 
 msgstr ""
 
 #: ../../C15.rst:1563
-msgid "|tap|: Add |mana_r| |mana_w|."
+msgid "|tap|: Add |mana_r|\\ |mana_w|."
 msgstr ""
 
 #: ../../C15.rst:1570
@@ -3049,7 +3049,7 @@ msgid "When Golgari Rot Farm enters the battlefield, return a land you control t
 msgstr ""
 
 #: ../../C15.rst:1613
-msgid "|tap|: Add |mana_b| |mana_g|."
+msgid "|tap|: Add |mana_b|\\ |mana_g|."
 msgstr ""
 
 #: ../../C15.rst:1620
@@ -3057,7 +3057,7 @@ msgid "Grim Backwoods"
 msgstr ""
 
 #: ../../C15.rst:1619
-msgid "|mana_2| |mana_b| |mana_g|, |tap|, Sacrifice a creature: Draw a card."
+msgid "|mana_2|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice a creature: Draw a card."
 msgstr ""
 
 #: ../../C15.rst:1626
@@ -3081,7 +3081,7 @@ msgid "When Izzet Boilerworks enters the battlefield, return a land you control 
 msgstr ""
 
 #: ../../C15.rst:1633
-msgid "|tap|: Add |mana_u| |mana_r|."
+msgid "|tap|: Add |mana_u|\\ |mana_r|."
 msgstr ""
 
 #: ../../C15.rst:1640
@@ -3159,7 +3159,7 @@ msgid "Novijen, Heart of Progress"
 msgstr ""
 
 #: ../../C15.rst:1677
-msgid "|mana_g| |mana_u|, |tap|: Put a +1/+1 counter on each creature that entered the battlefield this turn."
+msgid "|mana_g|\\ |mana_u|, |tap|: Put a +1/+1 counter on each creature that entered the battlefield this turn."
 msgstr ""
 
 #: ../../C15.rst:1686
@@ -3187,7 +3187,7 @@ msgid "When Orzhov Basilica enters the battlefield, return a land you control to
 msgstr ""
 
 #: ../../C15.rst:1693
-msgid "|tap|: Add |mana_w| |mana_b|."
+msgid "|tap|: Add |mana_w|\\ |mana_b|."
 msgstr ""
 
 #: ../../C15.rst:1700
@@ -3255,7 +3255,7 @@ msgid "When Simic Growth Chamber enters the battlefield, return a land you contr
 msgstr ""
 
 #: ../../C15.rst:1743
-msgid "|tap|: Add |mana_g| |mana_u|."
+msgid "|tap|: Add |mana_g|\\ |mana_u|."
 msgstr ""
 
 #: ../../C15.rst:1750
@@ -3323,7 +3323,7 @@ msgid "Temple of the False God"
 msgstr ""
 
 #: ../../C15.rst:1797
-msgid "|tap|: Add |colorless| |colorless|. Activate this ability only if you control five or more lands."
+msgid "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you control five or more lands."
 msgstr ""
 
 #: ../../C15.rst:1802

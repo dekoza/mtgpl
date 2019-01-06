@@ -14,7 +14,7 @@ Act of Authority
 Aerie Mystics
    Flying
 
-   |mana_1| |mana_g| |mana_u|: Creatures you control gain shroud until end of turn. (They can't be the targets of spells or abilities.)
+   |mana_1|\ |mana_g|\ |mana_u|: Creatures you control gain shroud until end of turn. (They can't be the targets of spells or abilities.)
 
 
 Ajani's Pridemate
@@ -40,7 +40,7 @@ Azorius Herald
 
 
 Cradle of Vitality
-   Whenever you gain life, you may pay |mana_1| |mana_w|. If you do, put a +1/+1 counter on target creature for each 1 life you gained.
+   Whenever you gain life, you may pay |mana_1|\ |mana_w|. If you do, put a +1/+1 counter on target creature for each 1 life you gained.
 
 
 Curse of the Forsaken
@@ -58,7 +58,7 @@ Darksteel Mutation
 Eternal Dragon
    Flying
 
-   |mana_3| |mana_w| |mana_w|: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
+   |mana_3|\ |mana_w|\ |mana_w|: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
 
    Plainscycling |mana_2| (|mana_2|, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)
 
@@ -72,7 +72,7 @@ Fiend Hunter
 Flickerform
    Enchant creature
 
-   |mana_2| |mana_w| |mana_w|: Exile enchanted creature and all Auras attached to it. At the beginning of the next end step, return that card to the battlefield under its owner's control. If you do, return the other cards exiled this way to the battlefield under their owners' control attached to that creature.
+   |mana_2|\ |mana_w|\ |mana_w|: Exile enchanted creature and all Auras attached to it. At the beginning of the next end step, return that card to the battlefield under its owner's control. If you do, return the other cards exiled this way to the battlefield under their owners' control attached to that creature.
 
 
 Flickerwisp
@@ -84,7 +84,7 @@ Flickerwisp
 Karmic Guide
    Flying, protection from black
 
-   Echo |mana_3| |mana_w| |mana_w| (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+   Echo |mana_3|\ |mana_w|\ |mana_w| (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
 
    When Karmic Guide enters the battlefield, return target creature card from your graveyard to the battlefield.
 
@@ -216,7 +216,7 @@ Deceiver Exarch
 Deep Analysis
    Target player draws two cards.
 
-   Flashback—|mana_1| |mana_u|, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback—|mana_1|\ |mana_u|, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Dismiss
@@ -242,19 +242,19 @@ Dungeon Geists
 
 
 Echo Mage
-   Level up |mana_1| |mana_u| (|mana_1| |mana_u|: Put a level counter on this. Level up only as a sorcery.)
+   Level up |mana_1|\ |mana_u| (|mana_1|\ |mana_u|: Put a level counter on this. Level up only as a sorcery.)
 
    LEVEL 2-3
 
    2/4
 
-   |mana_u| |mana_u|, |tap|: Copy target instant or sorcery spell. You may choose new targets for the copy.
+   |mana_u|\ |mana_u|, |tap|: Copy target instant or sorcery spell. You may choose new targets for the copy.
 
    LEVEL 4+
 
    2/5
 
-   |mana_u| |mana_u|, |tap|: Copy target instant or sorcery spell twice. You may choose new targets for the copies.
+   |mana_u|\ |mana_u|, |tap|: Copy target instant or sorcery spell twice. You may choose new targets for the copies.
 
 
 Fog Bank
@@ -270,7 +270,7 @@ Guard Gomazoa
 
 
 Hada Spy Patrol
-   Level up |mana_2| |mana_u| (|mana_2| |mana_u|: Put a level counter on this. Level up only as a sorcery.)
+   Level up |mana_2|\ |mana_u| (|mana_2|\ |mana_u|: Put a level counter on this. Level up only as a sorcery.)
 
    LEVEL 1-2
 
@@ -328,7 +328,7 @@ Prosperity
 Raven Familiar
    Flying
 
-   Echo |mana_2| |mana_u| (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+   Echo |mana_2|\ |mana_u| (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
 
    When Raven Familiar enters the battlefield, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
 
@@ -342,15 +342,15 @@ Sharding Sphinx
 Skyscribing
    Each player draws X cards.
 
-   Forecast — |mana_2| |mana_u|, Reveal Skyscribing from your hand: Each player draws a card. (Activate this ability only during your upkeep and only once each turn.)
+   Forecast — |mana_2|\ |mana_u|, Reveal Skyscribing from your hand: Each player draws a card. (Activate this ability only during your upkeep and only once each turn.)
 
 
 Stormscape Battlemage
-   Kicker |mana_w| and/or |mana_2| |mana_b| (You may pay an additional |mana_w| and/or |mana_2| |mana_b| as you cast this spell.)
+   Kicker |mana_w| and/or |mana_2|\ |mana_b| (You may pay an additional |mana_w| and/or |mana_2|\ |mana_b| as you cast this spell.)
 
    When Stormscape Battlemage enters the battlefield, if it was kicked with its |mana_w| kicker, you gain 3 life.
 
-   When Stormscape Battlemage enters the battlefield, if it was kicked with its |mana_2| |mana_b| kicker, destroy target nonblack creature. That creature can't be regenerated.
+   When Stormscape Battlemage enters the battlefield, if it was kicked with its |mana_2|\ |mana_b| kicker, destroy target nonblack creature. That creature can't be regenerated.
 
 
 Strategic Planning
@@ -406,7 +406,7 @@ Annihilate
 Army of the Damned
    Create thirteen tapped 2/2 black Zombie creature tokens.
 
-   Flashback |mana_7| |mana_b| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_7|\ |mana_b|\ |mana_b|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Baleful Force
@@ -422,7 +422,7 @@ Curse of Shallow Graves
 Decree of Pain
    Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.
 
-   Cycling |mana_3| |mana_b| |mana_b| (|mana_3| |mana_b| |mana_b|, Discard this card: Draw a card.)
+   Cycling |mana_3|\ |mana_b|\ |mana_b| (|mana_3|\ |mana_b|\ |mana_b|, Discard this card: Draw a card.)
 
    When you cycle Decree of Pain, all creatures get -2/-2 until end of turn.
 
@@ -430,7 +430,7 @@ Decree of Pain
 Dirge of Dread
    All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)
 
-   Cycling |mana_1| |mana_b| (|mana_1| |mana_b|, Discard this card: Draw a card.)
+   Cycling |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Discard this card: Draw a card.)
 
    When you cycle Dirge of Dread, you may have target creature gain fear until end of turn.
 
@@ -480,7 +480,7 @@ Marrow Bats
 Nightscape Familiar
    Blue spells and red spells you cast cost |mana_1| less to cast.
 
-   |mana_1| |mana_b|: Regenerate Nightscape Familiar.
+   |mana_1|\ |mana_b|: Regenerate Nightscape Familiar.
 
 
 Ophiomancer
@@ -490,7 +490,7 @@ Ophiomancer
 Phthisis
    Destroy target creature. Its controller loses life equal to its power plus its toughness.
 
-   Suspend 5—|mana_1| |mana_b| (Rather than cast this card from your hand, you may pay |mana_1| |mana_b| and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+   Suspend 5—|mana_1|\ |mana_b| (Rather than cast this card from your hand, you may pay |mana_1|\ |mana_b| and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
 
 
 Phyrexian Delver
@@ -502,7 +502,7 @@ Phyrexian Gargantua
 
 
 Phyrexian Reclamation
-   |mana_1| |mana_b|, Pay 2 life: Return target creature card from your graveyard to your hand.
+   |mana_1|\ |mana_b|, Pay 2 life: Return target creature card from your graveyard to your hand.
 
 
 Price of Knowledge
@@ -550,7 +550,7 @@ Vampire Nighthawk
 Vile Requiem
    At the beginning of your upkeep, you may put a verse counter on Vile Requiem.
 
-   |mana_1| |mana_b|, Sacrifice Vile Requiem: Destroy up to X target nonblack creatures, where X is the number of verse counters on Vile Requiem. They can't be regenerated.
+   |mana_1|\ |mana_b|, Sacrifice Vile Requiem: Destroy up to X target nonblack creatures, where X is the number of verse counters on Vile Requiem. They can't be regenerated.
 
 
 Viscera Seer
@@ -562,7 +562,7 @@ Wight of Precinct Six
 
 
 Blood Rites
-   |mana_1| |mana_r|, Sacrifice a creature: Blood Rites deals 2 damage to any target.
+   |mana_1|\ |mana_r|, Sacrifice a creature: Blood Rites deals 2 damage to any target.
 
 
 Capricious Efreet
@@ -576,7 +576,7 @@ Charmbreaker Devils
 
 
 Crater Hellion
-   Echo |mana_4| |mana_r| |mana_r| (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+   Echo |mana_4|\ |mana_r|\ |mana_r| (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
 
    When Crater Hellion enters the battlefield, it deals 4 damage to each other creature.
 
@@ -670,7 +670,7 @@ Tumble
 Slice and Dice
    Slice and Dice deals 4 damage to each creature.
 
-   Cycling |mana_2| |mana_r| (|mana_2| |mana_r|, Discard this card: Draw a card.)
+   Cycling |mana_2|\ |mana_r| (|mana_2|\ |mana_r|, Discard this card: Draw a card.)
 
    When you cycle Slice and Dice, you may have it deal 1 damage to each creature.
 
@@ -678,7 +678,7 @@ Slice and Dice
 Spitebellows
    When Spitebellows leaves the battlefield, it deals 6 damage to target creature.
 
-   Evoke |mana_1| |mana_r| |mana_r| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+   Evoke |mana_1|\ |mana_r|\ |mana_r| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
 
 
 Stalking Vengeance
@@ -696,7 +696,7 @@ Starstorm
 Street Spasm
    Street Spasm deals X damage to target creature without flying you don't control.
 
-   Overload |mana_x| |mana_x| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
+   Overload |mana_x|\ |mana_x|\ |mana_r|\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
 
 
 Sudden Demise
@@ -716,7 +716,7 @@ Tooth and Claw
 
 
 War Cadence
-   |mana_x| |mana_r|: This turn, creatures can't block unless their controller pays |mana_x| for each blocking creature they control.
+   |mana_x|\ |mana_r|: This turn, creatures can't block unless their controller pays |mana_x| for each blocking creature they control.
 
 
 Warstorm Surge
@@ -790,7 +790,7 @@ Drumhunter
 
 
 Elvish Skysweeper
-   |mana_4| |mana_g|, Sacrifice a creature: Destroy target creature with flying.
+   |mana_4|\ |mana_g|, Sacrifice a creature: Destroy target creature with flying.
 
 
 Farhaven Elf
@@ -824,11 +824,11 @@ Hunted Troll
 
 
 Jade Mage
-   |mana_2| |mana_g|: Create a 1/1 green Saproling creature token.
+   |mana_2|\ |mana_g|: Create a 1/1 green Saproling creature token.
 
 
 Kazandu Tuskcaller
-   Level up |mana_1| |mana_g| (|mana_1| |mana_g|: Put a level counter on this. Level up only as a sorcery.)
+   Level up |mana_1|\ |mana_g| (|mana_1|\ |mana_g|: Put a level counter on this. Level up only as a sorcery.)
 
    LEVEL 2-5
 
@@ -850,7 +850,7 @@ Krosan Grip
 
 
 Krosan Tusker
-   Cycling |mana_2| |mana_g| (|mana_2| |mana_g|, Discard this card: Draw a card.)
+   Cycling |mana_2|\ |mana_g| (|mana_2|\ |mana_g|, Discard this card: Draw a card.)
 
    When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library. (Do this before you draw.)
 
@@ -858,11 +858,11 @@ Krosan Tusker
 Krosan Warchief
    Beast spells you cast cost |mana_1| less to cast.
 
-   |mana_1| |mana_g|: Regenerate target Beast.
+   |mana_1|\ |mana_g|: Regenerate target Beast.
 
 
 Mold Shambler
-   Kicker |mana_1| |mana_g| (You may pay an additional |mana_1| |mana_g| as you cast this spell.)
+   Kicker |mana_1|\ |mana_g| (You may pay an additional |mana_1|\ |mana_g| as you cast this spell.)
 
    When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.
 
@@ -884,7 +884,7 @@ One Dozen Eyes
 
    • Create five 1/1 green Insect creature tokens.
 
-   Entwine |mana_g| |mana_g| |mana_g| (Choose both if you pay the entwine cost.)
+   Entwine |mana_g|\ |mana_g|\ |mana_g| (Choose both if you pay the entwine cost.)
 
 
 Phantom Nantuko
@@ -944,7 +944,7 @@ Sakura-Tribe Elder
 Silklash Spider
    Reach
 
-   |mana_x| |mana_g| |mana_g|: Silklash Spider deals X damage to each creature with flying.
+   |mana_x|\ |mana_g|\ |mana_g|: Silklash Spider deals X damage to each creature with flying.
 
 
 Slice in Twain
@@ -976,7 +976,7 @@ Tempt with Discovery
 Walker of the Grove
    When Walker of the Grove leaves the battlefield, create a 4/4 green Elemental creature token.
 
-   Evoke |mana_4| |mana_g| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+   Evoke |mana_4|\ |mana_g| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
 
 
 Aethermage's Touch
@@ -1036,7 +1036,7 @@ Deathbringer Thoctar
 
 
 Deepfire Elemental
-   |mana_x| |mana_x| |mana_1|: Destroy target artifact or creature with converted mana cost X.
+   |mana_x|\ |mana_x|\ |mana_1|: Destroy target artifact or creature with converted mana cost X.
 
 
 Derevi, Empyrial Tactician
@@ -1044,7 +1044,7 @@ Derevi, Empyrial Tactician
 
    Whenever Derevi, Empyrial Tactician enters the battlefield or a creature you control deals combat damage to a player, you may tap or untap target permanent.
 
-   |mana_1| |mana_g| |mana_w| |mana_u|: Put Derevi onto the battlefield from the command zone.
+   |mana_1|\ |mana_g|\ |mana_w|\ |mana_u|: Put Derevi onto the battlefield from the command zone.
 
 
 Dromar's Charm
@@ -1118,7 +1118,7 @@ Jund Charm
 Leafdrake Roost
    Enchant land
 
-   Enchanted land has "|mana_g| |mana_u|, |tap|: Create a 2/2 green and blue Drake creature token with flying."
+   Enchanted land has "|mana_g|\ |mana_u|, |tap|: Create a 2/2 green and blue Drake creature token with flying."
 
 
 Lim-Dûl's Vault
@@ -1138,7 +1138,7 @@ Marath, Will of the Wild
 
 
 Mayael the Anima
-   |mana_3| |mana_r| |mana_g| |mana_w|, |tap|: Look at the top five cards of your library. You may put a creature card with power 5 or greater from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+   |mana_3|\ |mana_r|\ |mana_g|\ |mana_w|, |tap|: Look at the top five cards of your library. You may put a creature card with power 5 or greater from among them onto the battlefield. Put the rest on the bottom of your library in any order.
 
 
 Naya Charm
@@ -1158,9 +1158,9 @@ Nekusar, the Mindrazer
 
 
 Nivix Guildmage
-   |mana_1| |mana_u| |mana_r|: Draw a card, then discard a card.
+   |mana_1|\ |mana_u|\ |mana_r|: Draw a card, then discard a card.
 
-   |mana_2| |mana_u| |mana_r|: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+   |mana_2|\ |mana_u|\ |mana_r|: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
 
 
 Oloro, Ageless Ascetic
@@ -1224,11 +1224,11 @@ Sharuum the Hegemon
 
 
 Shattergang Brothers
-   |mana_2| |mana_b|, Sacrifice a creature: Each other player sacrifices a creature.
+   |mana_2|\ |mana_b|, Sacrifice a creature: Each other player sacrifices a creature.
 
-   |mana_2| |mana_r|, Sacrifice an artifact: Each other player sacrifices an artifact.
+   |mana_2|\ |mana_r|, Sacrifice an artifact: Each other player sacrifices an artifact.
 
-   |mana_2| |mana_g|, Sacrifice an enchantment: Each other player sacrifices an enchantment.
+   |mana_2|\ |mana_g|, Sacrifice an enchantment: Each other player sacrifices an enchantment.
 
 
 Skyward Eye Prophets
@@ -1268,7 +1268,7 @@ Sprouting Thrinax
 Sydri, Galvanic Genius
    |mana_u|: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.
 
-   |mana_w| |mana_b|: Target artifact creature gains deathtouch and lifelink until end of turn.
+   |mana_w|\ |mana_b|: Target artifact creature gains deathtouch and lifelink until end of turn.
 
 
 Thraximundar
@@ -1294,9 +1294,9 @@ Valley Rannet
 
 
 Vizkopa Guildmage
-   |mana_1| |mana_w| |mana_b|: Target creature gains lifelink until end of turn.
+   |mana_1|\ |mana_w|\ |mana_b|: Target creature gains lifelink until end of turn.
 
-   |mana_1| |mana_w| |mana_b|: Whenever you gain life this turn, each opponent loses that much life.
+   |mana_1|\ |mana_w|\ |mana_b|: Whenever you gain life this turn, each opponent loses that much life.
 
 
 Winged Coatl
@@ -1318,13 +1318,13 @@ Divinity of Pride
 
 
 Golgari Guildmage
-   |mana_4| |mana_b|, Sacrifice a creature: Return target creature card from your graveyard to your hand.
+   |mana_4|\ |mana_b|, Sacrifice a creature: Return target creature card from your graveyard to your hand.
 
-   |mana_4| |mana_g|: Put a +1/+1 counter on target creature.
+   |mana_4|\ |mana_g|: Put a +1/+1 counter on target creature.
 
 
 Mistmeadow Witch
-   |mana_2| |mana_w| |mana_u|: Exile target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+   |mana_2|\ |mana_w|\ |mana_u|: Exile target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
 
 
 Murkfiend Liege
@@ -1336,9 +1336,9 @@ Murkfiend Liege
 
 
 Selesnya Guildmage
-   |mana_3| |mana_g|: Create a 1/1 green Saproling creature token.
+   |mana_3|\ |mana_g|: Create a 1/1 green Saproling creature token.
 
-   |mana_3| |mana_w|: Creatures you control get +1/+1 until end of turn.
+   |mana_3|\ |mana_w|: Creatures you control get +1/+1 until end of turn.
 
 
 Spiteful Visions
@@ -1358,13 +1358,13 @@ Armillary Sphere
 Azorius Keyrune
    |tap|: Add |mana_w| or |mana_u|.
 
-   |mana_w| |mana_u|: Azorius Keyrune becomes a 2/2 white and blue Bird artifact creature with flying until end of turn.
+   |mana_w|\ |mana_u|: Azorius Keyrune becomes a 2/2 white and blue Bird artifact creature with flying until end of turn.
 
 
 Basalt Monolith
    Basalt Monolith doesn't untap during your untap step.
 
-   |tap|: Add |colorless| |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|\ |colorless|.
 
    |mana_3|: Untap Basalt Monolith.
 
@@ -1452,7 +1452,7 @@ Pilgrim's Eye
 Plague Boiler
    At the beginning of your upkeep, put a plague counter on Plague Boiler.
 
-   |mana_1| |mana_b| |mana_g|: Put a plague counter on Plague Boiler or remove a plague counter from it.
+   |mana_1|\ |mana_b|\ |mana_g|: Put a plague counter on Plague Boiler or remove a plague counter from it.
 
    When Plague Boiler has three or more plague counters on it, sacrifice it. If you do, destroy all nonland permanents.
 
@@ -1466,15 +1466,15 @@ Seer's Sundial
 
 
 Selesnya Signet
-   |mana_1|, |tap|: Add |mana_g| |mana_w|.
+   |mana_1|, |tap|: Add |mana_g|\ |mana_w|.
 
 
 Simic Signet
-   |mana_1|, |tap|: Add |mana_g| |mana_u|.
+   |mana_1|, |tap|: Add |mana_g|\ |mana_u|.
 
 
 Sol Ring
-   |tap|: Add |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|.
 
 
 Spine of Ish Sah
@@ -1560,7 +1560,7 @@ Azorius Chancery
 
    When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_w| |mana_u|.
+   |tap|: Add |mana_w|\ |mana_u|.
 
 
 Azorius Guildgate
@@ -1596,7 +1596,7 @@ Boros Garrison
 
    When Boros Garrison enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_r| |mana_w|.
+   |tap|: Add |mana_r|\ |mana_w|.
 
 
 Boros Guildgate
@@ -1612,7 +1612,7 @@ Command Tower
 Contested Cliffs
    |tap|: Add |colorless|.
 
-   |mana_r| |mana_g|, |tap|: Target Beast creature you control fights target creature an opponent controls. (Each deals damage equal to its power to the other.)
+   |mana_r|\ |mana_g|, |tap|: Target Beast creature you control fights target creature an opponent controls. (Each deals damage equal to its power to the other.)
 
 
 Crumbling Necropolis
@@ -1650,7 +1650,7 @@ Faerie Conclave
 
    |tap|: Add |mana_u|.
 
-   |mana_1| |mana_u|: Faerie Conclave becomes a 2/1 blue Faerie creature with flying until end of turn. It's still a land.
+   |mana_1|\ |mana_u|: Faerie Conclave becomes a 2/1 blue Faerie creature with flying until end of turn. It's still a land.
 
 
 Forgotten Cave
@@ -1672,13 +1672,13 @@ Golgari Rot Farm
 
    When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_b| |mana_g|.
+   |tap|: Add |mana_b|\ |mana_g|.
 
 
 Grim Backwoods
    |tap|: Add |colorless|.
 
-   |mana_2| |mana_b| |mana_g|, |tap|, Sacrifice a creature: Draw a card.
+   |mana_2|\ |mana_b|\ |mana_g|, |tap|, Sacrifice a creature: Draw a card.
 
 
 Grixis Panorama
@@ -1704,7 +1704,7 @@ Izzet Boilerworks
 
    When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_u| |mana_r|.
+   |tap|: Add |mana_u|\ |mana_r|.
 
 
 Izzet Guildgate
@@ -1752,7 +1752,7 @@ Khalni Garden
 Kher Keep
    |tap|: Add |colorless|.
 
-   |mana_1| |mana_r|, |tap|: Create a 0/1 red Kobold creature token named Kobolds of Kher Keep.
+   |mana_1|\ |mana_r|, |tap|: Create a 0/1 red Kobold creature token named Kobolds of Kher Keep.
 
 
 Llanowar Reborn
@@ -1812,7 +1812,7 @@ Orzhov Basilica
 
    When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_w| |mana_b|.
+   |tap|: Add |mana_w|\ |mana_b|.
 
 
 Orzhov Guildgate
@@ -1826,7 +1826,7 @@ Rakdos Carnarium
 
    When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_b| |mana_r|.
+   |tap|: Add |mana_b|\ |mana_r|.
 
 
 Rakdos Guildgate
@@ -1890,7 +1890,7 @@ Selesnya Sanctuary
 
    When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_g| |mana_w|.
+   |tap|: Add |mana_g|\ |mana_w|.
 
 
 Simic Guildgate
@@ -1924,7 +1924,7 @@ Springjack Pasture
 
 
 Temple of the False God
-   |tap|: Add |colorless| |colorless|. Activate this ability only if you control five or more lands.
+   |tap|: Add |colorless|\ |colorless|. Activate this ability only if you control five or more lands.
 
 
 Terramorphic Expanse
@@ -1956,7 +1956,7 @@ Urza's Factory
 Vitu-Ghazi, the City-Tree
    |tap|: Add |colorless|.
 
-   |mana_2| |mana_g| |mana_w|, |tap|: Create a 1/1 green Saproling creature token.
+   |mana_2|\ |mana_g|\ |mana_w|, |tap|: Create a 1/1 green Saproling creature token.
 
 
 Vivid Crag

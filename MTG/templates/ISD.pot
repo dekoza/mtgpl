@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -146,7 +146,7 @@ msgid "Each player chooses a creature they control. Destroy the rest."
 msgstr ""
 
 #: ../../ISD.rst:59
-msgid "Flashback |mana_5| |mana_w| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_5|\\ |mana_w|\\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:64
@@ -187,7 +187,7 @@ msgstr ""
 
 #: ../../ISD.rst:79
 #: ../../ISD.rst:291
-msgid "Flashback |mana_1| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_1|\\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:86
@@ -336,7 +336,7 @@ msgid "Creatures you control get +2/+0 until end of turn."
 msgstr ""
 
 #: ../../ISD.rst:157
-msgid "Flashback |mana_2| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:162
@@ -352,7 +352,7 @@ msgid "Selfless Cathar"
 msgstr ""
 
 #: ../../ISD.rst:165
-msgid "|mana_1| |mana_w|, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn."
+msgid "|mana_1|\\ |mana_w|, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn."
 msgstr ""
 
 #: ../../ISD.rst:170
@@ -360,7 +360,7 @@ msgid "Silverchase Fox"
 msgstr ""
 
 #: ../../ISD.rst:169
-msgid "|mana_1| |mana_w|, Sacrifice Silverchase Fox: Exile target enchantment."
+msgid "|mana_1|\\ |mana_w|, Sacrifice Silverchase Fox: Exile target enchantment."
 msgstr ""
 
 #: ../../ISD.rst:174
@@ -501,7 +501,7 @@ msgid "Create a token that's a copy of target creature you control."
 msgstr ""
 
 #: ../../ISD.rst:241
-msgid "Flashback |mana_5| |mana_u| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:246
@@ -603,7 +603,7 @@ msgstr ""
 
 #: ../../ISD.rst:297
 #: ../../ISD.rst:1149
-msgid "Flashback |mana_6| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_6|\\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:300
@@ -627,7 +627,7 @@ msgid "Put target creature on top of its owner's library."
 msgstr ""
 
 #: ../../ISD.rst:311
-msgid "Flashback |mana_7| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_7|\\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:316
@@ -689,7 +689,7 @@ msgid "Defender"
 msgstr ""
 
 #: ../../ISD.rst:341
-msgid "|mana_1| |mana_u|: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it."
+msgid "|mana_1|\\ |mana_u|: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it."
 msgstr ""
 
 #: ../../ISD.rst:346
@@ -732,7 +732,7 @@ msgid "Mirror-Mad Phantasm"
 msgstr ""
 
 #: ../../ISD.rst:367
-msgid "|mana_1| |mana_u|: Mirror-Mad Phantasm's owner shuffles it into their library. If that player does, they reveal cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into their graveyard."
+msgid "|mana_1|\\ |mana_u|: Mirror-Mad Phantasm's owner shuffles it into their library. If that player does, they reveal cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into their graveyard."
 msgstr ""
 
 #: ../../ISD.rst:372
@@ -788,7 +788,7 @@ msgid "Return target creature to its owner's hand."
 msgstr ""
 
 #: ../../ISD.rst:401
-msgid "Flashback |mana_4| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_4|\\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:408
@@ -844,7 +844,7 @@ msgid "Stitcher's Apprentice"
 msgstr ""
 
 #: ../../ISD.rst:437
-msgid "|mana_1| |mana_u|, |tap|: Create a 2/2 blue Homunculus creature token, then sacrifice a creature."
+msgid "|mana_1|\\ |mana_u|, |tap|: Create a 2/2 blue Homunculus creature token, then sacrifice a creature."
 msgstr ""
 
 #: ../../ISD.rst:446
@@ -869,7 +869,7 @@ msgstr ""
 
 #: ../../ISD.rst:451
 #: ../../ISD.rst:767
-msgid "Flashback |mana_2| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_2|\\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:458
@@ -921,7 +921,7 @@ msgid "Create thirteen tapped 2/2 black Zombie creature tokens."
 msgstr ""
 
 #: ../../ISD.rst:475
-msgid "Flashback |mana_7| |mana_b| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:482
@@ -982,7 +982,7 @@ msgid "Target opponent loses 3 life."
 msgstr ""
 
 #: ../../ISD.rst:515
-msgid "Flashback |mana_5| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_5|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:522
@@ -1118,7 +1118,7 @@ msgid "Haste"
 msgstr ""
 
 #: ../../ISD.rst:595
-msgid "|mana_1| |mana_b|: Regenerate Manor Skeleton."
+msgid "|mana_1|\\ |mana_b|: Regenerate Manor Skeleton."
 msgstr ""
 
 #: ../../ISD.rst:600
@@ -1147,7 +1147,7 @@ msgstr ""
 
 #: ../../ISD.rst:609
 #: ../../ISD.rst:643
-msgid "Flashback |mana_5| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:614
@@ -1183,7 +1183,7 @@ msgid "Screeching Bat"
 msgstr ""
 
 #: ../../ISD.rst:633
-msgid "At the beginning of your upkeep, you may pay |mana_2| |mana_b| |mana_b|. If you do, transform Screeching Bat."
+msgid "At the beginning of your upkeep, you may pay |mana_2|\\ |mana_b|\\ |mana_b|. If you do, transform Screeching Bat."
 msgstr ""
 
 #: ../../ISD.rst:638
@@ -1191,7 +1191,7 @@ msgid "Stalking Vampire"
 msgstr ""
 
 #: ../../ISD.rst:637
-msgid "At the beginning of your upkeep, you may pay |mana_2| |mana_b| |mana_b|. If you do, transform Stalking Vampire."
+msgid "At the beginning of your upkeep, you may pay |mana_2|\\ |mana_b|\\ |mana_b|. If you do, transform Stalking Vampire."
 msgstr ""
 
 #: ../../ISD.rst:644
@@ -1264,7 +1264,7 @@ msgid "Return target creature card from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../ISD.rst:677
-msgid "Flashback |mana_3| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_3|\\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:684
@@ -1424,7 +1424,7 @@ msgid "Devil's Play deals X damage to any target."
 msgstr ""
 
 #: ../../ISD.rst:773
-msgid "Flashback |mana_x| |mana_r| |mana_r| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_x|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:780
@@ -1444,7 +1444,7 @@ msgid "Feral Ridgewolf"
 msgstr ""
 
 #: ../../ISD.rst:785
-msgid "|mana_1| |mana_r|: Feral Ridgewolf gets +2/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|: Feral Ridgewolf gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../ISD.rst:792
@@ -1465,7 +1465,7 @@ msgstr ""
 
 #: ../../ISD.rst:797
 #: ../../ISD.rst:871
-msgid "Flashback |mana_3| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_3|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:804
@@ -1505,7 +1505,7 @@ msgid "Heretic's Punishment"
 msgstr ""
 
 #: ../../ISD.rst:819
-msgid "|mana_3| |mana_r|: Choose any target, then put the top three cards of your library into your graveyard. Heretic's Punishment deals damage to that permanent or player equal to the highest converted mana cost among those cards."
+msgid "|mana_3|\\ |mana_r|: Choose any target, then put the top three cards of your library into your graveyard. Heretic's Punishment deals damage to that permanent or player equal to the highest converted mana cost among those cards."
 msgstr ""
 
 #: ../../ISD.rst:826
@@ -1513,7 +1513,7 @@ msgid "Infernal Plunge"
 msgstr ""
 
 #: ../../ISD.rst:825
-msgid "Add |mana_r| |mana_r| |mana_r|."
+msgid "Add |mana_r|\\ |mana_r|\\ |mana_r|."
 msgstr ""
 
 #: ../../ISD.rst:832
@@ -1553,7 +1553,7 @@ msgid "Kessig Wolf"
 msgstr ""
 
 #: ../../ISD.rst:847
-msgid "|mana_1| |mana_r|: Kessig Wolf gains first strike until end of turn."
+msgid "|mana_1|\\ |mana_r|: Kessig Wolf gains first strike until end of turn."
 msgstr ""
 
 #: ../../ISD.rst:854
@@ -1605,7 +1605,7 @@ msgid "Each instant and sorcery card in your graveyard gains flashback until end
 msgstr ""
 
 #: ../../ISD.rst:877
-msgid "Flashback |mana_4| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_4|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:882
@@ -1661,7 +1661,7 @@ msgid "Rolling Temblor deals 2 damage to each creature without flying."
 msgstr ""
 
 #: ../../ISD.rst:907
-msgid "Flashback |mana_4| |mana_r| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_4|\\ |mana_r|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:912
@@ -1789,7 +1789,7 @@ msgid "Choose a permanent type. Return all cards of the chosen type from your gr
 msgstr ""
 
 #: ../../ISD.rst:979
-msgid "Flashback |mana_5| |mana_g| |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_5|\\ |mana_g|\\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:984
@@ -1797,7 +1797,7 @@ msgid "Darkthicket Wolf"
 msgstr ""
 
 #: ../../ISD.rst:983
-msgid "|mana_2| |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_2|\\ |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn."
 msgstr ""
 
 #: ../../ISD.rst:990
@@ -1829,7 +1829,7 @@ msgid "Elder of Laurels"
 msgstr ""
 
 #: ../../ISD.rst:999
-msgid "|mana_3| |mana_g|: Target creature gets +X/+X until end of turn, where X is the number of creatures you control."
+msgid "|mana_3|\\ |mana_g|: Target creature gets +X/+X until end of turn, where X is the number of creatures you control."
 msgstr ""
 
 #: ../../ISD.rst:1004
@@ -1917,7 +1917,7 @@ msgid "You gain 2 life for each creature card in your graveyard."
 msgstr ""
 
 #: ../../ISD.rst:1047
-msgid "Flashback |mana_2| |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_2|\\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:1052
@@ -2137,7 +2137,7 @@ msgid "Put a +1/+1 counter on each of up to two target creatures."
 msgstr ""
 
 #: ../../ISD.rst:1167
-msgid "Flashback |mana_1| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_1|\\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../ISD.rst:1174
@@ -2205,7 +2205,7 @@ msgid "Evil Twin"
 msgstr ""
 
 #: ../../ISD.rst:1205
-msgid "You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield, except it has \"|mana_u| |mana_b|, |tap|: Destroy target creature with the same name as this creature.\""
+msgid "You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield, except it has \"|mana_u|\\ |mana_b|, |tap|: Destroy target creature with the same name as this creature.\""
 msgstr ""
 
 #: ../../ISD.rst:1212
@@ -2237,11 +2237,11 @@ msgid "Olivia Voldaren"
 msgstr ""
 
 #: ../../ISD.rst:1225
-msgid "|mana_1| |mana_r|: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren."
+msgid "|mana_1|\\ |mana_r|: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren."
 msgstr ""
 
 #: ../../ISD.rst:1227
-msgid "|mana_3| |mana_b| |mana_b|: Gain control of target Vampire for as long as you control Olivia Voldaren."
+msgid "|mana_3|\\ |mana_b|\\ |mana_b|: Gain control of target Vampire for as long as you control Olivia Voldaren."
 msgstr ""
 
 #: ../../ISD.rst:1236
@@ -2521,7 +2521,7 @@ msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../ISD.rst:1377
-msgid "|mana_2| |mana_g| |mana_w|, |tap|: Put a +1/+1 counter on each creature you control."
+msgid "|mana_2|\\ |mana_g|\\ |mana_w|, |tap|: Put a +1/+1 counter on each creature you control."
 msgstr ""
 
 #: ../../ISD.rst:1384
@@ -2561,7 +2561,7 @@ msgid "Kessig Wolf Run"
 msgstr ""
 
 #: ../../ISD.rst:1401
-msgid "|mana_x| |mana_r| |mana_g|, |tap|: Target creature gets +X/+0 and gains trample until end of turn."
+msgid "|mana_x|\\ |mana_r|\\ |mana_g|, |tap|: Target creature gets +X/+0 and gains trample until end of turn."
 msgstr ""
 
 #: ../../ISD.rst:1408
@@ -2569,7 +2569,7 @@ msgid "Moorland Haunt"
 msgstr ""
 
 #: ../../ISD.rst:1407
-msgid "|mana_w| |mana_u|, |tap|, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying."
+msgid "|mana_w|\\ |mana_u|, |tap|, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying."
 msgstr ""
 
 #: ../../ISD.rst:1414
@@ -2577,7 +2577,7 @@ msgid "Nephalia Drownyard"
 msgstr ""
 
 #: ../../ISD.rst:1413
-msgid "|mana_1| |mana_u| |mana_b|, |tap|: Target player puts the top three cards of their library into their graveyard."
+msgid "|mana_1|\\ |mana_u|\\ |mana_b|, |tap|: Target player puts the top three cards of their library into their graveyard."
 msgstr ""
 
 #: ../../ISD.rst:1420
@@ -2593,7 +2593,7 @@ msgid "Stensia Bloodhall"
 msgstr ""
 
 #: ../../ISD.rst:1425
-msgid "|mana_3| |mana_b| |mana_r|, |tap|: Stensia Bloodhall deals 2 damage to target player or planeswalker."
+msgid "|mana_3|\\ |mana_b|\\ |mana_r|, |tap|: Stensia Bloodhall deals 2 damage to target player or planeswalker."
 msgstr ""
 
 #: ../../ISD.rst:1432

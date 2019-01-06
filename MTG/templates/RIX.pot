@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -363,7 +363,7 @@ msgid "When Aquatic Incursion enters the battlefield, create two 1/1 blue Merfol
 msgstr ""
 
 #: ../../RIX.rst:171
-msgid "|mana_3| |mana_u|: Target Merfolk can't be blocked this turn."
+msgid "|mana_3|\\ |mana_u|: Target Merfolk can't be blocked this turn."
 msgstr ""
 
 #: ../../RIX.rst:178
@@ -617,7 +617,7 @@ msgid "Timestream Navigator"
 msgstr ""
 
 #: ../../RIX.rst:321
-msgid "|mana_2| |mana_u| |mana_u|, |tap|, Put Timestream Navigator on the bottom of its owner's library: Take an extra turn after this one. Activate this ability only if you have the city's blessing."
+msgid "|mana_2|\\ |mana_u|\\ |mana_u|, |tap|, Put Timestream Navigator on the bottom of its owner's library: Take an extra turn after this one. Activate this ability only if you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:328
@@ -1153,7 +1153,7 @@ msgid "Sun-Collared Raptor"
 msgstr ""
 
 #: ../../RIX.rst:633
-msgid "|mana_2| |mana_r|: Sun-Collared Raptor gets +3/+0 until end of turn."
+msgid "|mana_2|\\ |mana_r|: Sun-Collared Raptor gets +3/+0 until end of turn."
 msgstr ""
 
 #: ../../RIX.rst:638
@@ -1181,7 +1181,7 @@ msgid "Tilonalli's Summoner"
 msgstr ""
 
 #: ../../RIX.rst:651
-msgid "Whenever Tilonalli's Summoner attacks, you may pay |mana_x| |mana_r|. If you do, create X 1/1 red Elemental creature tokens that are tapped and attacking. At the beginning of the next end step, exile those tokens unless you have the city's blessing."
+msgid "Whenever Tilonalli's Summoner attacks, you may pay |mana_x|\\ |mana_r|. If you do, create X 1/1 red Elemental creature tokens that are tapped and attacking. At the beginning of the next end step, exile those tokens unless you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:658
@@ -1486,7 +1486,7 @@ msgid "When Azor, the Lawbringer enters the battlefield, each opponent can't cas
 msgstr ""
 
 #: ../../RIX.rst:817
-msgid "Whenever Azor attacks, you may pay |mana_x| |mana_w| |mana_u| |mana_u|. If you do, you gain X life and draw X cards."
+msgid "Whenever Azor attacks, you may pay |mana_x|\\ |mana_w|\\ |mana_u|\\ |mana_u|. If you do, you gain X life and draw X cards."
 msgstr ""
 
 #: ../../RIX.rst:826
@@ -1538,7 +1538,7 @@ msgid "(Transforms from Hadana's Climb.)"
 msgstr ""
 
 #: ../../RIX.rst:849
-msgid "|mana_1| |mana_g| |mana_u|, |tap|: Target creature you control gains flying and gets +X/+X until end of turn, where X is its power."
+msgid "|mana_1|\\ |mana_g|\\ |mana_u|, |tap|: Target creature you control gains flying and gets +X/+X until end of turn, where X is its power."
 msgstr ""
 
 #: ../../RIX.rst:858
@@ -1578,7 +1578,7 @@ msgid "(Transforms from Journey to Eternity.)"
 msgstr ""
 
 #: ../../RIX.rst:871
-msgid "|mana_3| |mana_b| |mana_g|, |tap|: Return target creature card from your graveyard to the battlefield."
+msgid "|mana_3|\\ |mana_b|\\ |mana_g|, |tap|: Return target creature card from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../RIX.rst:876
@@ -1586,7 +1586,7 @@ msgid "Jungle Creeper"
 msgstr ""
 
 #: ../../RIX.rst:875
-msgid "|mana_3| |mana_b| |mana_g|: Return Jungle Creeper from your graveyard to your hand."
+msgid "|mana_3|\\ |mana_b|\\ |mana_g|: Return Jungle Creeper from your graveyard to your hand."
 msgstr ""
 
 #: ../../RIX.rst:884
@@ -1642,11 +1642,11 @@ msgid "(Transforms from Path of Mettle.)"
 msgstr ""
 
 #: ../../RIX.rst:905
-msgid "|mana_1| |mana_r|, |tap|: Metzali, Tower of Triumph deals 2 damage to each opponent."
+msgid "|mana_1|\\ |mana_r|, |tap|: Metzali, Tower of Triumph deals 2 damage to each opponent."
 msgstr ""
 
 #: ../../RIX.rst:907
-msgid "|mana_2| |mana_w|, |tap|: Choose a creature at random that attacked this turn. Destroy that creature."
+msgid "|mana_2|\\ |mana_w|, |tap|: Choose a creature at random that attacked this turn. Destroy that creature."
 msgstr ""
 
 #: ../../RIX.rst:912
@@ -1654,7 +1654,7 @@ msgid "Profane Procession"
 msgstr ""
 
 #: ../../RIX.rst:911
-msgid "|mana_3| |mana_w| |mana_b|: Exile target creature. Then if there are three or more cards exiled with Profane Procession, transform it."
+msgid "|mana_3|\\ |mana_w|\\ |mana_b|: Exile target creature. Then if there are three or more cards exiled with Profane Procession, transform it."
 msgstr ""
 
 #: ../../RIX.rst:920
@@ -1666,7 +1666,7 @@ msgid "(Transforms from Profane Procession.)"
 msgstr ""
 
 #: ../../RIX.rst:919
-msgid "|mana_2| |mana_w| |mana_b|, |tap|: Put a creature card exiled with this permanent onto the battlefield under your control."
+msgid "|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Put a creature card exiled with this permanent onto the battlefield under your control."
 msgstr ""
 
 #: ../../RIX.rst:924
@@ -1758,15 +1758,15 @@ msgid "When Zacama, Primal Calamity enters the battlefield, if you cast it, unta
 msgstr ""
 
 #: ../../RIX.rst:973
-msgid "|mana_2| |mana_r|: Zacama deals 3 damage to target creature."
+msgid "|mana_2|\\ |mana_r|: Zacama deals 3 damage to target creature."
 msgstr ""
 
 #: ../../RIX.rst:975
-msgid "|mana_2| |mana_g|: Destroy target artifact or enchantment."
+msgid "|mana_2|\\ |mana_g|: Destroy target artifact or enchantment."
 msgstr ""
 
 #: ../../RIX.rst:977
-msgid "|mana_2| |mana_w|: You gain 3 life."
+msgid "|mana_2|\\ |mana_w|: You gain 3 life."
 msgstr ""
 
 #: ../../RIX.rst:982

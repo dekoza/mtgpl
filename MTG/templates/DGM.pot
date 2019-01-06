@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -250,7 +250,7 @@ msgid "Hired Torturer"
 msgstr ""
 
 #: ../../DGM.rst:125
-msgid "|mana_3| |mana_b|, |tap|: Target opponent loses 2 life, then reveals a card at random from their hand."
+msgid "|mana_3|\\ |mana_b|, |tap|: Target opponent loses 2 life, then reveals a card at random from their hand."
 msgstr ""
 
 #: ../../DGM.rst:132
@@ -360,7 +360,7 @@ msgid "Pyrewild Shaman"
 msgstr ""
 
 #: ../../DGM.rst:179
-msgid "Bloodrush — |mana_1| |mana_r|, Discard Pyrewild Shaman: Target attacking creature gets +3/+1 until end of turn."
+msgid "Bloodrush — |mana_1|\\ |mana_r|, Discard Pyrewild Shaman: Target attacking creature gets +3/+1 until end of turn."
 msgstr ""
 
 #: ../../DGM.rst:181
@@ -404,7 +404,7 @@ msgid "Target creature you control gets +1/+0 and gains first strike until end o
 msgstr ""
 
 #: ../../DGM.rst:201
-msgid "Overload |mana_1| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_1|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../DGM.rst:208
@@ -426,7 +426,7 @@ msgid "Kraul Warrior"
 msgstr ""
 
 #: ../../DGM.rst:211
-msgid "|mana_5| |mana_g|: Kraul Warrior gets +3/+3 until end of turn."
+msgid "|mana_5|\\ |mana_g|: Kraul Warrior gets +3/+3 until end of turn."
 msgstr ""
 
 #: ../../DGM.rst:218
@@ -503,7 +503,7 @@ msgid "Reach (This creature can block creatures with flying.)"
 msgstr ""
 
 #: ../../DGM.rst:253
-msgid "Scavenge |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
+msgid "Scavenge |mana_4|\\ |mana_g|\\ |mana_g| (|mana_4|\\ |mana_g|\\ |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 
 #: ../../DGM.rst:258
@@ -531,7 +531,7 @@ msgid "Beetleform Mage"
 msgstr ""
 
 #: ../../DGM.rst:271
-msgid "|mana_g| |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn."
+msgid "|mana_g|\\ |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn."
 msgstr ""
 
 #: ../../DGM.rst:276
@@ -595,7 +595,7 @@ msgid "Whenever a creature blocks, that creature's controller loses 1 life."
 msgstr ""
 
 #: ../../DGM.rst:303
-msgid "|mana_1| |mana_b| |mana_r|: Regenerate Carnage Gladiator."
+msgid "|mana_1|\\ |mana_b|\\ |mana_r|: Regenerate Carnage Gladiator."
 msgstr ""
 
 #: ../../DGM.rst:312
@@ -655,7 +655,7 @@ msgid "Until end of turn, target creature you control becomes a blue and red Dra
 msgstr ""
 
 #: ../../DGM.rst:333
-msgid "Overload |mana_3| |mana_u| |mana_u| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
+msgid "Overload |mana_3|\\ |mana_u|\\ |mana_u|\\ |mana_r|\\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")"
 msgstr ""
 
 #: ../../DGM.rst:338
@@ -775,7 +775,7 @@ msgid "Enchanted creature can't attack or block, and its activated abilities can
 msgstr ""
 
 #: ../../DGM.rst:401
-msgid "|mana_1| |mana_g| |mana_u|, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature."
+msgid "|mana_1|\\ |mana_g|\\ |mana_u|, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature."
 msgstr ""
 
 #: ../../DGM.rst:408
@@ -803,7 +803,7 @@ msgid "White creatures you control get +0/+1."
 msgstr ""
 
 #: ../../DGM.rst:415
-msgid "|mana_r| |mana_w|, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn."
+msgid "|mana_r|\\ |mana_w|, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn."
 msgstr ""
 
 #: ../../DGM.rst:424
@@ -967,7 +967,7 @@ msgid "Rot Farm Skeleton can't block."
 msgstr ""
 
 #: ../../DGM.rst:503
-msgid "|mana_2| |mana_b| |mana_g|, Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_b|\\ |mana_g|, Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../DGM.rst:512
@@ -999,7 +999,7 @@ msgid "Savageborn Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
 #: ../../DGM.rst:519
-msgid "|mana_1| |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../DGM.rst:524
@@ -1127,7 +1127,7 @@ msgid "Vorel of the Hull Clade"
 msgstr ""
 
 #: ../../DGM.rst:591
-msgid "|mana_g| |mana_u|, |tap|: Double the number of each kind of counter on target artifact, creature, or land."
+msgid "|mana_g|\\ |mana_u|, |tap|: Double the number of each kind of counter on target artifact, creature, or land."
 msgstr ""
 
 #: ../../DGM.rst:596
@@ -1461,7 +1461,7 @@ msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
 #: ../../DGM.rst:801
-msgid "|mana_w| |mana_u|, |tap|, Sacrifice Azorius Cluestone: Draw a card."
+msgid "|mana_w|\\ |mana_u|, |tap|, Sacrifice Azorius Cluestone: Draw a card."
 msgstr ""
 
 #: ../../DGM.rst:808
@@ -1474,7 +1474,7 @@ msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
 #: ../../DGM.rst:807
-msgid "|mana_r| |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card."
+msgid "|mana_r|\\ |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card."
 msgstr ""
 
 #: ../../DGM.rst:814
@@ -1487,7 +1487,7 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
 #: ../../DGM.rst:813
-msgid "|mana_u| |mana_b|, |tap|, Sacrifice Dimir Cluestone: Draw a card."
+msgid "|mana_u|\\ |mana_b|, |tap|, Sacrifice Dimir Cluestone: Draw a card."
 msgstr ""
 
 #: ../../DGM.rst:820
@@ -1500,7 +1500,7 @@ msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr ""
 
 #: ../../DGM.rst:819
-msgid "|mana_b| |mana_g|, |tap|, Sacrifice Golgari Cluestone: Draw a card."
+msgid "|mana_b|\\ |mana_g|, |tap|, Sacrifice Golgari Cluestone: Draw a card."
 msgstr ""
 
 #: ../../DGM.rst:826
@@ -1513,7 +1513,7 @@ msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
 #: ../../DGM.rst:825
-msgid "|mana_r| |mana_g|, |tap|, Sacrifice Gruul Cluestone: Draw a card."
+msgid "|mana_r|\\ |mana_g|, |tap|, Sacrifice Gruul Cluestone: Draw a card."
 msgstr ""
 
 #: ../../DGM.rst:832
@@ -1526,7 +1526,7 @@ msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
 #: ../../DGM.rst:831
-msgid "|mana_u| |mana_r|, |tap|, Sacrifice Izzet Cluestone: Draw a card."
+msgid "|mana_u|\\ |mana_r|, |tap|, Sacrifice Izzet Cluestone: Draw a card."
 msgstr ""
 
 #: ../../DGM.rst:838
@@ -1539,7 +1539,7 @@ msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr ""
 
 #: ../../DGM.rst:837
-msgid "|mana_w| |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
+msgid "|mana_w|\\ |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
 msgstr ""
 
 #: ../../DGM.rst:844
@@ -1552,7 +1552,7 @@ msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
 #: ../../DGM.rst:843
-msgid "|mana_b| |mana_r|, |tap|, Sacrifice Rakdos Cluestone: Draw a card."
+msgid "|mana_b|\\ |mana_r|, |tap|, Sacrifice Rakdos Cluestone: Draw a card."
 msgstr ""
 
 #: ../../DGM.rst:850
@@ -1565,7 +1565,7 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
 #: ../../DGM.rst:849
-msgid "|mana_g| |mana_w|, |tap|, Sacrifice Selesnya Cluestone: Draw a card."
+msgid "|mana_g|\\ |mana_w|, |tap|, Sacrifice Selesnya Cluestone: Draw a card."
 msgstr ""
 
 #: ../../DGM.rst:856
@@ -1578,7 +1578,7 @@ msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
 
 #: ../../DGM.rst:855
-msgid "|mana_g| |mana_u|, |tap|, Sacrifice Simic Cluestone: Draw a card."
+msgid "|mana_g|\\ |mana_u|, |tap|, Sacrifice Simic Cluestone: Draw a card."
 msgstr ""
 
 #: ../../DGM.rst:862

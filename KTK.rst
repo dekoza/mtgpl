@@ -18,7 +18,7 @@ Abzan Falconer
 
 
 Ainok Bond-Kin
-   Outlast |mana_1| |mana_w| (|mana_1| |mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+   Outlast |mana_1|\ |mana_w| (|mana_1|\ |mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
 
    Each creature you control with a +1/+1 counter on it has first strike.
 
@@ -36,7 +36,7 @@ Brave the Sands
 Dazzling Ramparts
    Defender
 
-   |mana_1| |mana_w|, |tap|: Tap target creature.
+   |mana_1|\ |mana_w|, |tap|: Tap target creature.
 
 
 Defiant Strike
@@ -58,11 +58,11 @@ Feat of Resistance
 
 
 Firehoof Cavalry
-   |mana_3| |mana_r|: Firehoof Cavalry gets +2/+0 and gains trample until end of turn.
+   |mana_3|\ |mana_r|: Firehoof Cavalry gets +2/+0 and gains trample until end of turn.
 
 
 Herald of Anafenza
-   Outlast |mana_2| |mana_w| (|mana_2| |mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+   Outlast |mana_2|\ |mana_w| (|mana_2|\ |mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
 
    Whenever you activate Herald of Anafenza's outlast ability, create a 1/1 white Warrior creature token.
 
@@ -72,7 +72,7 @@ High Sentinels of Arashin
 
    High Sentinels of Arashin gets +1/+1 for each other creature you control with a +1/+1 counter on it.
 
-   |mana_3| |mana_w|: Put a +1/+1 counter on target creature.
+   |mana_3|\ |mana_w|: Put a +1/+1 counter on target creature.
 
 
 Jeskai Student
@@ -92,7 +92,7 @@ Mardu Hordechief
 
 
 Master of Pearls
-   Morph |mana_3| |mana_w| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_3|\ |mana_w|\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Master of Pearls is turned face up, creatures you control get +2/+2 until end of turn.
 
@@ -104,11 +104,11 @@ Rush of Battle
 Sage-Eye Harrier
    Flying
 
-   Morph |mana_3| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_3|\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Salt Road Patrol
-   Outlast |mana_1| |mana_w| (|mana_1| |mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+   Outlast |mana_1|\ |mana_w| (|mana_1|\ |mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
 
 
 Seeker of the Way
@@ -144,7 +144,7 @@ Venerable Lammasu
 
 
 War Behemoth
-   Morph |mana_4| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_4|\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Watcher of the Roost
@@ -200,7 +200,7 @@ Dragon's Eye Savants
 
 
 Embodiment of Spring
-   |mana_1| |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |mana_1|\ |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 
 
 Force Away
@@ -210,7 +210,7 @@ Force Away
 
 
 Glacial Stalker
-   Morph |mana_4| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_4|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Icy Blast
@@ -232,7 +232,7 @@ Jeskai Windscout
 
 
 Kheru Spellsnatcher
-   Morph |mana_4| |mana_u| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_4|\ |mana_u|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Kheru Spellsnatcher is turned face up, counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may cast that card without paying its mana cost for as long as it remains exiled.
 
@@ -240,7 +240,7 @@ Kheru Spellsnatcher
 Mistfire Weaver
    Flying
 
-   Morph |mana_2| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_2|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Mistfire Weaver is turned face up, target creature you control gains hexproof until end of turn.
 
@@ -254,7 +254,7 @@ Monastery Flock
 Mystic of the Hidden Way
    Mystic of the Hidden Way can't be blocked.
 
-   Morph |mana_2| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_2|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Pearl Lake Ancient
@@ -280,7 +280,7 @@ Riverwheel Aerialists
 Scaldkin
    Flying
 
-   |mana_2| |mana_r|, Sacrifice Scaldkin: Scaldkin deals 2 damage to any target.
+   |mana_2|\ |mana_r|, Sacrifice Scaldkin: Scaldkin deals 2 damage to any target.
 
 
 Scion of Glaciers
@@ -316,7 +316,7 @@ Taigam's Scheming
 Thousand Winds
    Flying
 
-   Morph |mana_5| |mana_u| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_5|\ |mana_u|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Thousand Winds is turned face up, return all other tapped creatures to their owners' hands.
 
@@ -356,7 +356,7 @@ Bitter Revelation
 Bloodsoaked Champion
    Bloodsoaked Champion can't block.
 
-   Raid — |mana_1| |mana_b|: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate this ability only if you attacked with a creature this turn.
+   Raid — |mana_1|\ |mana_b|: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate this ability only if you attacked with a creature this turn.
 
 
 Dead Drop
@@ -376,7 +376,7 @@ Despise
 
 
 Disowned Ancestor
-   Outlast |mana_1| |mana_b| (|mana_1| |mana_b|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+   Outlast |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
 
 
 Dutiful Return
@@ -402,17 +402,17 @@ Gurmag Swiftwing
 Kheru Bloodsucker
    Whenever a creature you control with toughness 4 or greater dies, each opponent loses 2 life and you gain 2 life.
 
-   |mana_2| |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Kheru Bloodsucker.
+   |mana_2|\ |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Kheru Bloodsucker.
 
 
 Kheru Dreadmaw
    Defender
 
-   |mana_1| |mana_g|, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.
+   |mana_1|\ |mana_g|, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.
 
 
 Krumar Bond-Kin
-   Morph |mana_4| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_4|\ |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Mardu Skullhunter
@@ -430,7 +430,7 @@ Mer-Ek Nightblade
 Molting Snakeskin
    Enchant creature
 
-   Enchanted creature gets +2/+0 and has "|mana_2| |mana_b|: Regenerate this creature."
+   Enchanted creature gets +2/+0 and has "|mana_2|\ |mana_b|: Regenerate this creature."
 
 
 Murderous Cut
@@ -486,7 +486,7 @@ Shambling Attendants
 Sidisi's Pet
    Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 
-   Morph |mana_1| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_1|\ |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Sultai Scavenger
@@ -508,7 +508,7 @@ Throttle
 
 
 Unyielding Krumar
-   |mana_1| |mana_w|: Unyielding Krumar gains first strike until end of turn.
+   |mana_1|\ |mana_w|: Unyielding Krumar gains first strike until end of turn.
 
 
 Act of Treason
@@ -518,7 +518,7 @@ Act of Treason
 Ainok Tracker
    First strike
 
-   Morph |mana_4| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_4|\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Arc Lightning
@@ -536,7 +536,7 @@ Ashcloud Phoenix
 
    When Ashcloud Phoenix dies, return it to the battlefield face down under your control.
 
-   Morph |mana_4| |mana_r| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_4|\ |mana_r|\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Ashcloud Phoenix is turned face up, it deals 2 damage to each player.
 
@@ -552,7 +552,7 @@ Bloodfire Expert
 
 
 Bloodfire Mentor
-   |mana_2| |mana_u|, |tap|: Draw a card, then discard a card.
+   |mana_2|\ |mana_u|, |tap|: Draw a card, then discard a card.
 
 
 Bring Low
@@ -564,7 +564,7 @@ Burn Away
 
 
 Canyon Lurkers
-   Morph |mana_3| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_3|\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Crater's Claws
@@ -610,13 +610,13 @@ Howl of the Horde
 
 
 Jeering Instigator
-   Morph |mana_2| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_2|\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.
 
 
 Leaping Master
-   |mana_2| |mana_w|: Leaping Master gains flying until end of turn.
+   |mana_2|\ |mana_w|: Leaping Master gains flying until end of turn.
 
 
 Mardu Blazebringer
@@ -628,7 +628,7 @@ Mardu Heart-Piercer
 
 
 Mardu Warshrieker
-   Raid — When Mardu Warshrieker enters the battlefield, if you attacked with a creature this turn, add |mana_r| |mana_w| |mana_b|.
+   Raid — When Mardu Warshrieker enters the battlefield, if you attacked with a creature this turn, add |mana_r|\ |mana_w|\ |mana_b|.
 
 
 Monastery Swiftspear
@@ -686,7 +686,7 @@ Alpine Grizzly
 Archers' Parapet
    Defender
 
-   |mana_1| |mana_b|, |tap|: Each opponent loses 1 life.
+   |mana_1|\ |mana_b|, |tap|: Each opponent loses 1 life.
 
 
 Awaken the Bear
@@ -728,7 +728,7 @@ Hooded Hydra
 
    When Hooded Hydra dies, create a 1/1 green Snake creature token for each +1/+1 counter on it.
 
-   Morph |mana_3| |mana_g| |mana_g|
+   Morph |mana_3|\ |mana_g|\ |mana_g|
 
    As Hooded Hydra is turned face up, put five +1/+1 counters on it.
 
@@ -750,7 +750,7 @@ Kin-Tree Warden
 
 
 Longshot Squad
-   Outlast |mana_1| |mana_g| (|mana_1| |mana_g|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+   Outlast |mana_1|\ |mana_g| (|mana_1|\ |mana_g|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
 
    Each creature you control with a +1/+1 counter on it has reach. (A creature with reach can block creatures with flying.)
 
@@ -766,7 +766,7 @@ Naturalize
 
 
 Pine Walker
-   Morph |mana_4| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_4|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    Whenever Pine Walker or another creature you control is turned face up, untap that creature.
 
@@ -776,7 +776,7 @@ Rattleclaw Mystic
 
    Morph |mana_2| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
-   When Rattleclaw Mystic is turned face up, add |mana_g| |mana_u| |mana_r|.
+   When Rattleclaw Mystic is turned face up, add |mana_g|\ |mana_u|\ |mana_r|.
 
 
 Roar of Challenge
@@ -788,7 +788,7 @@ Roar of Challenge
 Sagu Archer
    Reach (This creature can block creatures with flying.)
 
-   Morph |mana_4| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_4|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Savage Punch
@@ -812,7 +812,7 @@ Seek the Horizon
 
 
 Smoke Teller
-   |mana_1| |mana_u|: Look at target face-down creature.
+   |mana_1|\ |mana_u|: Look at target face-down creature.
 
 
 Sultai Flayer
@@ -846,7 +846,7 @@ Windstorm
 
 
 Woolly Loxodon
-   Morph |mana_5| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_5|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Abomination of Gudul
@@ -854,7 +854,7 @@ Abomination of Gudul
 
    Whenever Abomination of Gudul deals combat damage to a player, you may draw a card. If you do, discard a card.
 
-   Morph |mana_2| |mana_b| |mana_g| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_2|\ |mana_b|\ |mana_g|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Abzan Ascendancy
@@ -876,7 +876,7 @@ Abzan Charm
 Abzan Guide
    Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 
-   Morph |mana_2| |mana_w| |mana_b| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_2|\ |mana_w|\ |mana_b|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Anafenza, the Foremost
@@ -938,7 +938,7 @@ Efreet Weaponmaster
 
    When Efreet Weaponmaster enters the battlefield or is turned face up, another target creature you control gets +3/+0 until end of turn.
 
-   Morph |mana_2| |mana_u| |mana_r| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_2|\ |mana_u|\ |mana_r|\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Flying Crane Technique
@@ -952,7 +952,7 @@ Highspire Mantis
 Icefeather Aven
    Flying
 
-   Morph |mana_1| |mana_g| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_1|\ |mana_g|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Icefeather Aven is turned face up, you may return another target creature to its owner's hand.
 
@@ -978,7 +978,7 @@ Jeskai Charm
 
 
 Kheru Lich Lord
-   At the beginning of your upkeep, you may pay |mana_2| |mana_b|. If you do, return a creature card at random from your graveyard to the battlefield. It gains flying, trample, and haste. Exile that card at the beginning of your next end step. If it would leave the battlefield, exile it instead of putting it anywhere else.
+   At the beginning of your upkeep, you may pay |mana_2|\ |mana_b|. If you do, return a creature card at random from your graveyard to the battlefield. It gains flying, trample, and haste. Exile that card at the beginning of your next end step. If it would leave the battlefield, exile it instead of putting it anywhere else.
 
 
 Kin-Tree Invocation
@@ -1026,13 +1026,13 @@ Narset, Enlightened Master
 Ponyback Brigade
    When Ponyback Brigade enters the battlefield or is turned face up, create three 1/1 red Goblin creature tokens.
 
-   Morph |mana_2| |mana_r| |mana_w| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_2|\ |mana_r|\ |mana_w|\ |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Rakshasa Deathdealer
-   |mana_b| |mana_g|: Rakshasa Deathdealer gets +2/+2 until end of turn.
+   |mana_b|\ |mana_g|: Rakshasa Deathdealer gets +2/+2 until end of turn.
 
-   |mana_b| |mana_g|: Regenerate Rakshasa Deathdealer.
+   |mana_b|\ |mana_g|: Regenerate Rakshasa Deathdealer.
 
 
 Rakshasa Vizier
@@ -1052,13 +1052,13 @@ Sage of the Inward Eye
 Sagu Mauler
    Trample, hexproof
 
-   Morph |mana_3| |mana_g| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_3|\ |mana_g|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Savage Knuckleblade
-   |mana_2| |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_2|\ |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. Activate this ability only once each turn.
 
-   |mana_2| |mana_u|: Return Savage Knuckleblade to its owner's hand.
+   |mana_2|\ |mana_u|: Return Savage Knuckleblade to its owner's hand.
 
    |mana_r|: Savage Knuckleblade gains haste until end of turn.
 
@@ -1084,7 +1084,7 @@ Siege Rhino
 Snowhorn Rider
    Trample
 
-   Morph |mana_2| |mana_g| |mana_u| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_2|\ |mana_g|\ |mana_u|\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
 
 Sorin, Solemn Visitor
@@ -1176,7 +1176,7 @@ Zurgo Helmsmasher
 Abzan Banner
    |tap|: Add |mana_w|, |mana_b|, or |mana_g|.
 
-   |mana_w| |mana_b| |mana_g|, |tap|, Sacrifice Abzan Banner: Draw a card.
+   |mana_w|\ |mana_b|\ |mana_g|, |tap|, Sacrifice Abzan Banner: Draw a card.
 
 
 Altar of the Brood
@@ -1216,7 +1216,7 @@ Heart-Piercer Bow
 Jeskai Banner
    |tap|: Add |mana_u|, |mana_r|, or |mana_w|.
 
-   |mana_u| |mana_r| |mana_w|, |tap|, Sacrifice Jeskai Banner: Draw a card.
+   |mana_u|\ |mana_r|\ |mana_w|, |tap|, Sacrifice Jeskai Banner: Draw a card.
 
 
 Lens of Clarity
@@ -1226,19 +1226,19 @@ Lens of Clarity
 Mardu Banner
    |tap|: Add |mana_r|, |mana_w|, or |mana_b|.
 
-   |mana_r| |mana_w| |mana_b|, |tap|, Sacrifice Mardu Banner: Draw a card.
+   |mana_r|\ |mana_w|\ |mana_b|, |tap|, Sacrifice Mardu Banner: Draw a card.
 
 
 Sultai Banner
    |tap|: Add |mana_b|, |mana_g|, or |mana_u|.
 
-   |mana_b| |mana_g| |mana_u|, |tap|, Sacrifice Sultai Banner: Draw a card.
+   |mana_b|\ |mana_g|\ |mana_u|, |tap|, Sacrifice Sultai Banner: Draw a card.
 
 
 Temur Banner
    |tap|: Add |mana_g|, |mana_u|, or |mana_r|.
 
-   |mana_g| |mana_u| |mana_r|, |tap|, Sacrifice Temur Banner: Draw a card.
+   |mana_g|\ |mana_u|\ |mana_r|, |tap|, Sacrifice Temur Banner: Draw a card.
 
 
 Ugin's Nexus

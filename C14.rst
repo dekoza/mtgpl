@@ -52,7 +52,7 @@ Hallowed Spiritkeeper
 Jazal Goldmane
    First strike
 
-   |mana_3| |mana_w| |mana_w|: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.
+   |mana_3|\ |mana_w|\ |mana_w|: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.
 
 
 Nahiri, the Lithomancer
@@ -94,7 +94,7 @@ Reef Worm
 
 
 Stitcher Geralf
-   |mana_2| |mana_u|, |tap|: Each player puts the top three cards of their library into their graveyard. Exile up to two creature cards put into graveyards this way. Create an X/X blue Zombie creature token, where X is the total power of the cards exiled this way.
+   |mana_2|\ |mana_u|, |tap|: Each player puts the top three cards of their library into their graveyard. Exile up to two creature cards put into graveyards this way. Create an X/X blue Zombie creature token, where X is the total power of the cards exiled this way.
 
 
 Stormsurge Kraken
@@ -130,7 +130,7 @@ Demon of Wailing Agonies
 Flesh Carver
    Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
-   |mana_1| |mana_b|, Sacrifice another creature: Put two +1/+1 counters on Flesh Carver.
+   |mana_1|\ |mana_b|, Sacrifice another creature: Put two +1/+1 counters on Flesh Carver.
 
    When Flesh Carver dies, create an X/X black Horror creature token, where X is Flesh Carver's power.
 
@@ -160,7 +160,7 @@ Ob Nixilis of the Black Oath
 
    −2: Create a 5/5 black Demon creature token with flying. You lose 2 life.
 
-   −8: You get an emblem with "|mana_1| |mana_b|, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power."
+   −8: You get an emblem with "|mana_1|\ |mana_b|, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature's power."
 
    Ob Nixilis of the Black Oath can be your commander.
 
@@ -214,7 +214,7 @@ Dualcaster Mage
 
 
 Feldon of the Third Path
-   |mana_2| |mana_r|, |tap|: Create a token that's a copy of target creature card in your graveyard, except it's an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step.
+   |mana_2|\ |mana_r|, |tap|: Create a token that's a copy of target creature card in your graveyard, except it's an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step.
 
 
 Impact Resonance
@@ -246,13 +246,13 @@ Warmonger Hellkite
 
    All creatures attack each combat if able.
 
-   |mana_1| |mana_r|: Attacking creatures get +1/+0 until end of turn.
+   |mana_1|\ |mana_r|: Attacking creatures get +1/+0 until end of turn.
 
 
 Creeperhulk
    Trample
 
-   |mana_1| |mana_g|: Until end of turn, target creature you control has base power and toughness 5/5 and gains trample.
+   |mana_1|\ |mana_g|: Until end of turn, target creature you control has base power and toughness 5/5 and gains trample.
 
 
 Freyalise, Llanowar's Fury
@@ -388,7 +388,7 @@ Afterlife
 
 
 Armistice
-   |mana_3| |mana_w| |mana_w|: You draw a card and target opponent gains 3 life.
+   |mana_3|\ |mana_w|\ |mana_w|: You draw a card and target opponent gains 3 life.
 
 
 Brave the Elements
@@ -416,7 +416,7 @@ Condemn
 Decree of Justice
    Create X 4/4 white Angel creature tokens with flying.
 
-   Cycling |mana_2| |mana_w| (|mana_2| |mana_w|, Discard this card: Draw a card.)
+   Cycling |mana_2|\ |mana_w| (|mana_2|\ |mana_w|, Discard this card: Draw a card.)
 
    When you cycle Decree of Justice, you may pay |mana_x|. If you do, create X 1/1 white Soldier creature tokens.
 
@@ -454,7 +454,7 @@ Kor Sanctifiers
 
 
 Marshal's Anthem
-   Multikicker |mana_1| |mana_w| (You may pay an additional |mana_1| |mana_w| any number of times as you cast this spell.)
+   Multikicker |mana_1|\ |mana_w| (You may pay an additional |mana_1|\ |mana_w| any number of times as you cast this spell.)
 
    Creatures you control get +1/+1.
 
@@ -476,7 +476,7 @@ Midnight Haunting
 Mobilization
    Soldier creatures have vigilance.
 
-   |mana_2| |mana_w|: Create a 1/1 white Soldier creature token.
+   |mana_2|\ |mana_w|: Create a 1/1 white Soldier creature token.
 
 
 Nomads' Assembly
@@ -502,7 +502,7 @@ Return to Dust
 Sacred Mesa
    At the beginning of your upkeep, sacrifice Sacred Mesa unless you sacrifice a Pegasus.
 
-   |mana_1| |mana_w|: Create a 1/1 white Pegasus creature token with flying.
+   |mana_1|\ |mana_w|: Create a 1/1 white Pegasus creature token with flying.
 
 
 Serra Avatar
@@ -566,11 +566,11 @@ Wing Shards
 
 
 Azure Mage
-   |mana_3| |mana_u|: Draw a card.
+   |mana_3|\ |mana_u|: Draw a card.
 
 
 Brine Elemental
-   Morph |mana_5| |mana_u| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_5|\ |mana_u|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Brine Elemental is turned face up, each opponent skips their next untap step.
 
@@ -578,7 +578,7 @@ Brine Elemental
 Cackling Counterpart
    Create a token that's a copy of target creature you control.
 
-   Flashback |mana_5| |mana_u| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_5|\ |mana_u|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Call to Mind
@@ -596,13 +596,13 @@ Concentrate
 Cyclonic Rift
    Return target nonland permanent you don't control to its owner's hand.
 
-   Overload |mana_6| |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
+   Overload |mana_6|\ |mana_u| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
 
 
 Deep-Sea Kraken
    Deep-Sea Kraken can't be blocked.
 
-   Suspend 9—|mana_2| |mana_u| (Rather than cast this card from your hand, you may pay |mana_2| |mana_u| and exile it with nine time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+   Suspend 9—|mana_2|\ |mana_u| (Rather than cast this card from your hand, you may pay |mana_2|\ |mana_u| and exile it with nine time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
 
    Whenever an opponent casts a spell, if Deep-Sea Kraken is suspended, remove a time counter from it.
 
@@ -664,7 +664,7 @@ Infinite Reflection
 
 
 Into the Roil
-   Kicker |mana_1| |mana_u| (You may pay an additional |mana_1| |mana_u| as you cast this spell.)
+   Kicker |mana_1|\ |mana_u| (You may pay an additional |mana_1|\ |mana_u| as you cast this spell.)
 
    Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.
 
@@ -684,7 +684,7 @@ Mulldrifter
 
    When Mulldrifter enters the battlefield, draw two cards.
 
-   Evoke |mana_2| |mana_u| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+   Evoke |mana_2|\ |mana_u| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
 
 
 Phyrexian Ingester
@@ -698,7 +698,7 @@ Pongify
 
 
 Riptide Survivor
-   Morph |mana_1| |mana_u| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_1|\ |mana_u|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Riptide Survivor is turned face up, discard two cards, then draw three cards.
 
@@ -718,7 +718,7 @@ Sea Gate Oracle
 
 
 Shaper Parasite
-   Morph |mana_2| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_2|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Shaper Parasite is turned face up, target creature gets +2/-2 or -2/+2 until end of turn.
 
@@ -734,7 +734,7 @@ Sphinx of Jwar Isle
 Sphinx of Magosi
    Flying
 
-   |mana_2| |mana_u|: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.
+   |mana_2|\ |mana_u|: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.
 
 
 Sphinx of Uthuun
@@ -752,7 +752,7 @@ Turn to Frog
 
 
 Willbender
-   Morph |mana_1| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_1|\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Willbender is turned face up, change the target of target spell or ability with a single target.
 
@@ -806,7 +806,7 @@ Disciple of Bolas
 Drana, Kalastria Bloodchief
    Flying
 
-   |mana_x| |mana_b| |mana_b|: Target creature gets -0/-X until end of turn and Drana, Kalastria Bloodchief gets +X/+0 until end of turn.
+   |mana_x|\ |mana_b|\ |mana_b|: Target creature gets -0/-X until end of turn and Drana, Kalastria Bloodchief gets +X/+0 until end of turn.
 
 
 Dread Return
@@ -916,7 +916,7 @@ Shriekmaw
 
    When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.
 
-   Evoke |mana_1| |mana_b| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+   Evoke |mana_1|\ |mana_b| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
 
 
 Sign in Blood
@@ -994,7 +994,7 @@ Chaos Warp
 Faithless Looting
    Draw two cards, then discard two cards.
 
-   Flashback |mana_2| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_2|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Flametongue Kavu
@@ -1008,7 +1008,7 @@ Goblin Welder
 Hoard-Smelter Dragon
    Flying
 
-   |mana_3| |mana_r|: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's converted mana cost.
+   |mana_3|\ |mana_r|: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's converted mana cost.
 
 
 Ingot Chewer
@@ -1024,7 +1024,7 @@ Magmaquake
 Spitebellows
    When Spitebellows leaves the battlefield, it deals 6 damage to target creature.
 
-   Evoke |mana_1| |mana_r| |mana_r| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+   Evoke |mana_1|\ |mana_r|\ |mana_r| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
 
 
 Starstorm
@@ -1080,7 +1080,7 @@ Elvish Mystic
 
 
 Elvish Skysweeper
-   |mana_4| |mana_g|, Sacrifice a creature: Destroy target creature with flying.
+   |mana_4|\ |mana_g|, Sacrifice a creature: Destroy target creature with flying.
 
 
 Elvish Visionary
@@ -1094,7 +1094,7 @@ Essence Warden
 Ezuri, Renegade Leader
    |mana_g|: Regenerate another target Elf.
 
-   |mana_2| |mana_g| |mana_g| |mana_g|: Elf creatures you control get +3/+3 and gain trample until end of turn.
+   |mana_2|\ |mana_g|\ |mana_g|\ |mana_g|: Elf creatures you control get +3/+3 and gain trample until end of turn.
 
 
 Farhaven Elf
@@ -1118,7 +1118,7 @@ Harrow
 Hunting Triad
    Create three 1/1 green Elf Warrior creature tokens.
 
-   Reinforce 3—|mana_3| |mana_g| (|mana_3| |mana_g|, Discard this card: Put three +1/+1 counters on target creature.)
+   Reinforce 3—|mana_3|\ |mana_g| (|mana_3|\ |mana_g|, Discard this card: Put three +1/+1 counters on target creature.)
 
 
 Immaculate Magistrate
@@ -1132,7 +1132,7 @@ Imperious Perfect
 
 
 Joraga Warcaller
-   Multikicker |mana_1| |mana_g| (You may pay an additional |mana_1| |mana_g| any number of times as you cast this spell.)
+   Multikicker |mana_1|\ |mana_g| (You may pay an additional |mana_1|\ |mana_g| any number of times as you cast this spell.)
 
    Joraga Warcaller enters the battlefield with a +1/+1 counter on it for each time it was kicked.
 
@@ -1150,7 +1150,7 @@ Lys Alana Huntmaster
 Masked Admirers
    When Masked Admirers enters the battlefield, draw a card.
 
-   Whenever you cast a creature spell, you may pay |mana_g| |mana_g|. If you do, return Masked Admirers from your graveyard to your hand.
+   Whenever you cast a creature spell, you may pay |mana_g|\ |mana_g|. If you do, return Masked Admirers from your graveyard to your hand.
 
 
 Overrun
@@ -1186,7 +1186,7 @@ Reclamation Sage
 Silklash Spider
    Reach
 
-   |mana_x| |mana_g| |mana_g|: Silklash Spider deals X damage to each creature with flying.
+   |mana_x|\ |mana_g|\ |mana_g|: Silklash Spider deals X damage to each creature with flying.
 
 
 Soul of the Harvest
@@ -1248,7 +1248,7 @@ Wood Elves
 Wren's Run Packmaster
    Champion an Elf (When this creature enters the battlefield, sacrifice it unless you exile another Elf you control. When this creature leaves the battlefield, that card returns to the battlefield.)
 
-   |mana_2| |mana_g|: Create a 2/2 green Wolf creature token.
+   |mana_2|\ |mana_g|: Create a 2/2 green Wolf creature token.
 
    Wolves you control have deathtouch.
 
@@ -1272,7 +1272,7 @@ Bonehoard
 Bosh, Iron Golem
    Trample
 
-   |mana_3| |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to any target.
+   |mana_3|\ |mana_r|, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to any target.
 
 
 Bottle Gnomes
@@ -1292,7 +1292,7 @@ Caged Sun
 
 
 Cathodion
-   When Cathodion dies, add |colorless| |colorless| |colorless|.
+   When Cathodion dies, add |colorless|\ |colorless|\ |colorless|.
 
 
 Charcoal Diamond
@@ -1302,7 +1302,7 @@ Charcoal Diamond
 
 
 Dreamstone Hedron
-   |tap|: Add |colorless| |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|\ |colorless|.
 
    |mana_3|, |tap|, Sacrifice Dreamstone Hedron: Draw three cards.
 
@@ -1354,7 +1354,7 @@ Lashwrithe
 
    Equipped creature gets +1/+1 for each Swamp you control.
 
-   Equip |mana_bp| |mana_bp| (|mana_bp| can be paid with either |mana_b| or 2 life.)
+   Equip |mana_bp|\ |mana_bp| (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
 
 Liquimetal Coating
@@ -1424,7 +1424,7 @@ Nevinyrral's Disk
 
 
 Palladium Myr
-   |tap|: Add |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|.
 
 
 Panic Spellbomb
@@ -1488,7 +1488,7 @@ Sky Diamond
 
 
 Sol Ring
-   |tap|: Add |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|.
 
 
 Solemn Simulacrum
@@ -1532,7 +1532,7 @@ Sword of Vengeance
 
 
 Thran Dynamo
-   |tap|: Add |colorless| |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|\ |colorless|.
 
 
 Tormod's Crypt
@@ -1550,7 +1550,7 @@ Trading Post
 
 
 Ur-Golem's Eye
-   |tap|: Add |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|.
 
 
 Wayfarer's Bauble
@@ -1560,7 +1560,7 @@ Wayfarer's Bauble
 Worn Powerstone
    Worn Powerstone enters the battlefield tapped.
 
-   |tap|: Add |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|.
 
 
 Wurmcoil Engine
@@ -1596,7 +1596,7 @@ Coral Atoll
 
    When Coral Atoll enters the battlefield, sacrifice it unless you return an untapped Island you control to its owner's hand.
 
-   |tap|: Add |colorless| |mana_u|.
+   |tap|: Add |colorless|\ |mana_u|.
 
 
 Crypt of Agadeem
@@ -1610,7 +1610,7 @@ Crypt of Agadeem
 Crystal Vein
    |tap|: Add |colorless|.
 
-   |tap|, Sacrifice Crystal Vein: Add |colorless| |colorless|.
+   |tap|, Sacrifice Crystal Vein: Add |colorless|\ |colorless|.
 
 
 Darksteel Citadel
@@ -1624,7 +1624,7 @@ Dormant Volcano
 
    When Dormant Volcano enters the battlefield, sacrifice it unless you return an untapped Mountain you control to its owner's hand.
 
-   |tap|: Add |colorless| |mana_r|.
+   |tap|: Add |colorless|\ |mana_r|.
 
 
 Drifting Meadow
@@ -1648,7 +1648,7 @@ Everglades
 
    When Everglades enters the battlefield, sacrifice it unless you return an untapped Swamp you control to its owner's hand.
 
-   |tap|: Add |colorless| |mana_b|.
+   |tap|: Add |colorless|\ |mana_b|.
 
 
 Evolving Wilds
@@ -1690,7 +1690,7 @@ Havenwood Battleground
 
    |tap|: Add |mana_g|.
 
-   |tap|, Sacrifice Havenwood Battleground: Add |mana_g| |mana_g|.
+   |tap|, Sacrifice Havenwood Battleground: Add |mana_g|\ |mana_g|.
 
 
 Jungle Basin
@@ -1698,7 +1698,7 @@ Jungle Basin
 
    When Jungle Basin enters the battlefield, sacrifice it unless you return an untapped Forest you control to its owner's hand.
 
-   |tap|: Add |colorless| |mana_g|.
+   |tap|: Add |colorless|\ |mana_g|.
 
 
 Karoo
@@ -1706,7 +1706,7 @@ Karoo
 
    When Karoo enters the battlefield, sacrifice it unless you return an untapped Plains you control to its owner's hand.
 
-   |tap|: Add |colorless| |mana_w|.
+   |tap|: Add |colorless|\ |mana_w|.
 
 
 Lonely Sandbar
@@ -1784,7 +1784,7 @@ Tectonic Edge
 
 
 Temple of the False God
-   |tap|: Add |colorless| |colorless|. Activate this ability only if you control five or more lands.
+   |tap|: Add |colorless|\ |colorless|. Activate this ability only if you control five or more lands.
 
 
 Terramorphic Expanse

@@ -64,13 +64,13 @@ Hollowhenge Spirit
 Increasing Devotion
    Create five 1/1 white Human creature tokens. If this spell was cast from a graveyard, create ten of those tokens instead.
 
-   Flashback |mana_7| |mana_w| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_7|\ |mana_w|\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Lingering Souls
    Create two 1/1 white Spirit creature tokens with flying.
 
-   Flashback |mana_1| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_1|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Loyal Cathar
@@ -178,7 +178,7 @@ Chant of the Skifsang
 Chill of Foreboding
    Each player puts the top five cards of their library into their graveyard.
 
-   Flashback |mana_7| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_7|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Counterlash
@@ -212,7 +212,7 @@ Griptide
 
 
 Havengul Runebinder
-   |mana_2| |mana_u|, |tap|, Exile a creature card from your graveyard: Create a 2/2 black Zombie creature token, then put a +1/+1 counter on each Zombie creature you control.
+   |mana_2|\ |mana_u|, |tap|, Exile a creature card from your graveyard: Create a 2/2 black Zombie creature token, then put a +1/+1 counter on each Zombie creature you control.
 
 
 Headless Skaab
@@ -224,13 +224,13 @@ Headless Skaab
 Increasing Confusion
    Target player puts the top X cards of their library into their graveyard. If this spell was cast from a graveyard, that player puts twice that many cards into their graveyard instead.
 
-   Flashback |mana_x| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_x|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Mystic Retrieval
    Return target instant or sorcery card from your graveyard to your hand.
 
-   Flashback |mana_2| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_2|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Nephalia Seakite
@@ -390,7 +390,7 @@ Highborn Ghoul
 Increasing Ambition
    Search your library for a card and put that card into your hand. If this spell was cast from a graveyard, instead search your library for two cards and put those cards into your hand. Then shuffle your library.
 
-   Flashback |mana_7| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_7|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Mikaeus, the Unhallowed
@@ -414,7 +414,7 @@ Archdemon of Greed
 Reap the Seagraf
    Create a 2/2 black Zombie creature token.
 
-   Flashback |mana_4| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_4|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Sightless Ghoul
@@ -424,7 +424,7 @@ Sightless Ghoul
 
 
 Skirsdag Flayer
-   |mana_3| |mana_b|, |tap|, Sacrifice a Human: Destroy target creature.
+   |mana_3|\ |mana_b|, |tap|, Sacrifice a Human: Destroy target creature.
 
 
 Spiteful Shadows
@@ -478,7 +478,7 @@ Blood Feud
 Burning Oil
    Burning Oil deals 3 damage to target attacking or blocking creature.
 
-   Flashback |mana_3| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_3|\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Curse of Bloodletting
@@ -496,13 +496,13 @@ Erdwal Ripper
 Faithless Looting
    Draw two cards, then discard two cards.
 
-   Flashback |mana_2| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_2|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Fires of Undeath
    Fires of Undeath deals 2 damage to any target.
 
-   Flashback |mana_5| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_5|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Flayer of the Hatebound
@@ -522,7 +522,7 @@ Forge Devil
 
 
 Heckling Fiends
-   |mana_2| |mana_r|: Target creature attacks this turn if able.
+   |mana_2|\ |mana_r|: Target creature attacks this turn if able.
 
 
 Hellrider
@@ -544,7 +544,7 @@ Hinterland Scourge
 Increasing Vengeance
    Copy target instant or sorcery spell you control. If this spell was cast from a graveyard, copy that spell twice instead. You may choose new targets for the copies.
 
-   Flashback |mana_3| |mana_r| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_3|\ |mana_r|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Markov Blademaster
@@ -596,7 +596,7 @@ Scorch the Fields
 Shattered Perception
    Discard all the cards in your hand, then draw that many cards.
 
-   Flashback |mana_5| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_5|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Talons of Falkenrath
@@ -604,7 +604,7 @@ Talons of Falkenrath
 
    Enchant creature
 
-   Enchanted creature has "|mana_1| |mana_r|: This creature gets +2/+0 until end of turn."
+   Enchanted creature has "|mana_1|\ |mana_r|: This creature gets +2/+0 until end of turn."
 
 
 Torch Fiend
@@ -640,7 +640,7 @@ Dawntreader Elk
 
 
 Deranged Outcast
-   |mana_1| |mana_g|, Sacrifice a Human: Put two +1/+1 counters on target creature.
+   |mana_1|\ |mana_g|, Sacrifice a Human: Put two +1/+1 counters on target creature.
 
 
 Favor of the Woods
@@ -680,7 +680,7 @@ Hunger of the Howlpack
 Increasing Savagery
    Put five +1/+1 counters on target creature. If this spell was cast from a graveyard, put ten +1/+1 counters on that creature instead.
 
-   Flashback |mana_5| |mana_g| |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_5|\ |mana_g|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Kessig Recluse
@@ -720,7 +720,7 @@ Scorned Villager
 Moonscarred Werewolf
    Vigilance
 
-   |tap|: Add |mana_g| |mana_g|.
+   |tap|: Add |mana_g|\ |mana_g|.
 
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonscarred Werewolf.
 
@@ -738,7 +738,7 @@ Strangleroot Geist
 Tracker's Instincts
    Reveal the top four cards of your library. Put a creature card from among them into your hand and the rest into your graveyard.
 
-   Flashback |mana_2| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_2|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Ulvenwald Bear
@@ -760,17 +760,17 @@ Vorapede
 Wild Hunger
    Target creature gets +3/+1 and gains trample until end of turn.
 
-   Flashback |mana_3| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_3|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Wolfbitten Captive
-   |mana_1| |mana_g|: Wolfbitten Captive gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Wolfbitten Captive gets +2/+2 until end of turn. Activate this ability only once each turn.
 
    At the beginning of each upkeep, if no spells were cast last turn, transform Wolfbitten Captive.
 
 
 Krallenhorde Killer
-   |mana_3| |mana_g|: Krallenhorde Killer gets +4/+4 until end of turn. Activate this ability only once each turn.
+   |mana_3|\ |mana_g|: Krallenhorde Killer gets +4/+4 until end of turn. Activate this ability only once each turn.
 
    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Killer.
 
@@ -936,7 +936,7 @@ Evolving Wilds
 Grim Backwoods
    |tap|: Add |colorless|.
 
-   |mana_2| |mana_b| |mana_g|, |tap|, Sacrifice a creature: Draw a card.
+   |mana_2|\ |mana_b|\ |mana_g|, |tap|, Sacrifice a creature: Draw a card.
 
 
 Haunted Fengraf
@@ -948,5 +948,5 @@ Haunted Fengraf
 Vault of the Archangel
    |tap|: Add |colorless|.
 
-   |mana_2| |mana_w| |mana_b|, |tap|: Creatures you control gain deathtouch and lifelink until end of turn.
+   |mana_2|\ |mana_w|\ |mana_b|, |tap|: Creatures you control gain deathtouch and lifelink until end of turn.
 

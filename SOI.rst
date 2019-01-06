@@ -74,7 +74,7 @@ Chaplain's Blessing
 
 
 Dauntless Cathar
-   |mana_1| |mana_w|, Exile Dauntless Cathar from your graveyard: Create a 1/1 white Spirit creature token with flying. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_w|, Exile Dauntless Cathar from your graveyard: Create a 1/1 white Spirit creature token with flying. Activate this ability only any time you could cast a sorcery.
 
 
 Declaration in Stone
@@ -96,7 +96,7 @@ Drogskol Cavalry
 
    Whenever another Spirit enters the battlefield under your control, you gain 2 life.
 
-   |mana_3| |mana_w|: Create a 1/1 white Spirit creature token with flying.
+   |mana_3|\ |mana_w|: Create a 1/1 white Spirit creature token with flying.
 
 
 Eerie Interlude
@@ -124,7 +124,7 @@ Gryff's Boon
 
    Enchanted creature gets +1/+0 and has flying.
 
-   |mana_3| |mana_w|: Return Gryff's Boon from your graveyard to the battlefield attached to target creature. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_w|: Return Gryff's Boon from your graveyard to the battlefield attached to target creature. Activate this ability only any time you could cast a sorcery.
 
 
 Hanweir Militia Captain
@@ -170,13 +170,13 @@ Moorland Drifter
 Nahiri's Machinations
    At the beginning of combat on your turn, target creature you control gains indestructible until end of turn.
 
-   |mana_1| |mana_r|: Nahiri's Machinations deals 1 damage to target blocking creature.
+   |mana_1|\ |mana_r|: Nahiri's Machinations deals 1 damage to target blocking creature.
 
 
 Nearheath Chaplain
    Lifelink
 
-   |mana_2| |mana_w|, Exile Nearheath Chaplain from your graveyard: Create two 1/1 white Spirit creature tokens with flying. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_w|, Exile Nearheath Chaplain from your graveyard: Create two 1/1 white Spirit creature tokens with flying. Activate this ability only any time you could cast a sorcery.
 
 
 Not Forgotten
@@ -222,7 +222,7 @@ Silverstrike
 Spectral Shepherd
    Flying
 
-   |mana_1| |mana_u|: Return target Spirit you control to its owner's hand.
+   |mana_1|\ |mana_u|: Return target Spirit you control to its owner's hand.
 
 
 Stern Constable
@@ -276,7 +276,7 @@ Unruly Mob
 
 
 Vessel of Ephemera
-   |mana_2| |mana_w|, Sacrifice Vessel of Ephemera: Create two 1/1 white Spirit creature tokens with flying.
+   |mana_2|\ |mana_w|, Sacrifice Vessel of Ephemera: Create two 1/1 white Spirit creature tokens with flying.
 
 
 Aberrant Researcher
@@ -292,7 +292,7 @@ Perfected Form
 Broken Concentration
    Counter target spell.
 
-   Madness |mana_3| |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_3|\ |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Catalog
@@ -330,7 +330,7 @@ Drownyard Explorers
 Drunau Corpse Trawler
    When Drunau Corpse Trawler enters the battlefield, create a 2/2 black Zombie creature token.
 
-   |mana_2| |mana_b|: Target Zombie gains deathtouch until end of turn.
+   |mana_2|\ |mana_b|: Target Zombie gains deathtouch until end of turn.
 
 
 Engulf the Shore
@@ -372,7 +372,7 @@ Geralf's Masterpiece
 
    Geralf's Masterpiece gets -1/-1 for each card in your hand.
 
-   |mana_3| |mana_u|, Discard three cards: Return Geralf's Masterpiece from your graveyard to the battlefield tapped.
+   |mana_3|\ |mana_u|, Discard three cards: Return Geralf's Masterpiece from your graveyard to the battlefield tapped.
 
 
 Ghostly Wings
@@ -428,7 +428,7 @@ Manic Scribe
 Nagging Thoughts
    Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
 
-   Madness |mana_1| |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_1|\ |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Nephalia Moondrakes
@@ -436,7 +436,7 @@ Nephalia Moondrakes
 
    When Nephalia Moondrakes enters the battlefield, target creature gains flying until end of turn.
 
-   |mana_4| |mana_u| |mana_u|, Exile Nephalia Moondrakes from your graveyard: Creatures you control gain flying until end of turn.
+   |mana_4|\ |mana_u|\ |mana_u|, Exile Nephalia Moondrakes from your graveyard: Creatures you control gain flying until end of turn.
 
 
 Niblis of Dusk
@@ -448,7 +448,7 @@ Niblis of Dusk
 Ongoing Investigation
    Whenever one or more creatures you control deal combat damage to a player, investigate. (Create a colorless Clue artifact token with "|mana_2|, Sacrifice this artifact: Draw a card.")
 
-   |mana_1| |mana_g|, Exile a creature card from your graveyard: Investigate. You gain 2 life.
+   |mana_1|\ |mana_g|, Exile a creature card from your graveyard: Investigate. You gain 2 life.
 
 
 Pieces of the Puzzle
@@ -506,7 +506,7 @@ Sleep Paralysis
 Startled Awake
    Target opponent puts the top thirteen cards of their library into their graveyard.
 
-   |mana_3| |mana_u| |mana_u|: Put Startled Awake from your graveyard onto the battlefield transformed. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_u|\ |mana_u|: Put Startled Awake from your graveyard onto the battlefield transformed. Activate this ability only any time you could cast a sorcery.
 
 
 Persistent Nightmare
@@ -524,7 +524,7 @@ Stitched Mangler
 Stitchwing Skaab
    Flying
 
-   |mana_1| |mana_u|, Discard two cards: Return Stitchwing Skaab from your graveyard to the battlefield tapped.
+   |mana_1|\ |mana_u|, Discard two cards: Return Stitchwing Skaab from your graveyard to the battlefield tapped.
 
 
 Stormrider Spirit
@@ -564,7 +564,7 @@ Vessel of Paramnesia
 
 
 Welcome to the Fold
-   Madness |mana_x| |mana_u| |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_x|\ |mana_u|\ |mana_u| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
    Gain control of target creature if its toughness is 2 or less. If Welcome to the Fold's madness cost was paid, instead gain control of that creature if its toughness is X or less.
 
@@ -592,13 +592,13 @@ Alms of the Vein
 Asylum Visitor
    At the beginning of each player's upkeep, if that player has no cards in hand, you draw a card and you lose 1 life.
 
-   Madness |mana_1| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_1|\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Behind the Scenes
    Creatures you control have skulk. (They can't be blocked by creatures with greater power.)
 
-   |mana_4| |mana_w|: Creatures you control get +1/+1 until end of turn.
+   |mana_4|\ |mana_w|: Creatures you control get +1/+1 until end of turn.
 
 
 Behold the Beyond
@@ -608,7 +608,7 @@ Behold the Beyond
 Biting Rain
    All creatures get -2/-2 until end of turn.
 
-   Madness |mana_2| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_2|\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Call the Bloodline
@@ -646,7 +646,7 @@ Insidious Mist
 
    Insidious Mist can't block and can't be blocked.
 
-   Whenever Insidious Mist attacks and isn't blocked, you may pay |mana_2| |mana_b|. If you do, transform it.
+   Whenever Insidious Mist attacks and isn't blocked, you may pay |mana_2|\ |mana_b|. If you do, transform it.
 
 
 Ever After
@@ -660,23 +660,23 @@ Farbog Revenant
 
 
 From Under the Floorboards
-   Madness |mana_x| |mana_b| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_x|\ |mana_b|\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
    Create three tapped 2/2 black Zombie creature tokens and you gain 3 life. If From Under the Floorboards's madness cost was paid, instead create X of those tokens and you gain X life.
 
 
 Ghoulcaller's Accomplice
-   |mana_3| |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_b|, Exile Ghoulcaller's Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate this ability only any time you could cast a sorcery.
 
 
 Ghoulsteed
-   |mana_2| |mana_b|, Discard two cards: Return Ghoulsteed from your graveyard to the battlefield tapped.
+   |mana_2|\ |mana_b|, Discard two cards: Return Ghoulsteed from your graveyard to the battlefield tapped.
 
 
 Gisa's Bidding
    Create two 2/2 black Zombie creature tokens.
 
-   Madness |mana_2| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_2|\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Grotesque Mutation
@@ -702,7 +702,7 @@ Indulgent Aristocrat
 
 
 Kindly Stranger
-   Delirium — |mana_2| |mana_b|: Transform Kindly Stranger. Activate this ability only if there are four or more card types among cards in your graveyard.
+   Delirium — |mana_2|\ |mana_b|: Transform Kindly Stranger. Activate this ability only if there are four or more card types among cards in your graveyard.
 
 
 Demon-Possessed Witch
@@ -720,7 +720,7 @@ Macabre Waltz
 Markov Dreadknight
    Flying
 
-   |mana_2| |mana_b|, Discard a card: Put two +1/+1 counters on Markov Dreadknight.
+   |mana_2|\ |mana_b|, Discard a card: Put two +1/+1 counters on Markov Dreadknight.
 
 
 Merciless Resolve
@@ -746,7 +746,7 @@ Morkrut Necropod
 Murderous Compulsion
    Destroy target tapped creature.
 
-   Madness |mana_1| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_1|\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Olivia's Bloodsworn
@@ -788,7 +788,7 @@ Rottenheart Ghoul
 
 
 Sanitarium Skeleton
-   |mana_2| |mana_b|: Return Sanitarium Skeleton from your graveyard to your hand.
+   |mana_2|\ |mana_b|: Return Sanitarium Skeleton from your graveyard to your hand.
 
 
 Shamble Back
@@ -800,7 +800,7 @@ Sinister Concoction
 
 
 Stallion of Ashmouth
-   Delirium — |mana_1| |mana_b|: Stallion of Ashmouth gets +1/+1 until end of turn. Activate this ability only if there are four or more card types among cards in your graveyard.
+   Delirium — |mana_1|\ |mana_b|: Stallion of Ashmouth gets +1/+1 until end of turn. Activate this ability only if there are four or more card types among cards in your graveyard.
 
 
 Stromkirk Mentor
@@ -832,7 +832,7 @@ Triskaidekaphobia
 
 
 Twins of Maurer Estate
-   Madness |mana_2| |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_2|\ |mana_b| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Vampire Noble
@@ -840,11 +840,11 @@ Vampire Noble
 
 
 Vessel of Malignity
-   |mana_1| |mana_b|, Sacrifice Vessel of Malignity: Target opponent exiles two cards from their hand. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_b|, Sacrifice Vessel of Malignity: Target opponent exiles two cards from their hand. Activate this ability only any time you could cast a sorcery.
 
 
 Avacyn's Judgment
-   Madness |mana_x| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_x|\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
    Avacyn's Judgment deals 2 damage divided as you choose among any number of targets. If Avacyn's Judgment's madness cost was paid, it deals X damage divided as you choose among those permanents and/or players instead.
 
@@ -852,7 +852,7 @@ Avacyn's Judgment
 Bloodmad Vampire
    Whenever Bloodmad Vampire deals combat damage to a player, put a +1/+1 counter on it.
 
-   Madness |mana_1| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_1|\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Breakneck Rider
@@ -896,7 +896,7 @@ Dual Shot
 Ember-Eye Wolf
    Haste
 
-   |mana_1| |mana_r|: Ember-Eye Wolf gets +2/+0 until end of turn.
+   |mana_1|\ |mana_r|: Ember-Eye Wolf gets +2/+0 until end of turn.
 
 
 Falkenrath Gorger
@@ -940,7 +940,7 @@ Vildin-Pack Alpha
 Geistblast
    Geistblast deals 2 damage to any target.
 
-   |mana_2| |mana_u|, Exile Geistblast from your graveyard: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+   |mana_2|\ |mana_u|, Exile Geistblast from your graveyard: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
 
 
 Gibbering Fiend
@@ -972,7 +972,7 @@ Hulking Devil
 Incorrigible Youths
    Haste
 
-   Madness |mana_2| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_2|\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Inner Struggle
@@ -1016,7 +1016,7 @@ Magmatic Chasm
 Malevolent Whispers
    Gain control of target creature until end of turn. Untap that creature. It gets +2/+0 and gains haste until end of turn.
 
-   Madness |mana_3| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_3|\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Pyre Hound
@@ -1052,7 +1052,7 @@ Senseless Rage
 
    Enchanted creature gets +2/+2.
 
-   Madness |mana_1| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_1|\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Sin Prodder
@@ -1086,7 +1086,7 @@ Stensia Masquerade
 
    Whenever a Vampire you control deals combat damage to a player, put a +1/+1 counter on it.
 
-   Madness |mana_2| |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+   Madness |mana_2|\ |mana_r| (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
 
 
 Structural Distortion
@@ -1102,7 +1102,7 @@ Tormenting Voice
 Ulrich's Kindred
    Trample
 
-   |mana_3| |mana_g|: Target attacking Wolf or Werewolf gains indestructible until end of turn.
+   |mana_3|\ |mana_g|: Target attacking Wolf or Werewolf gains indestructible until end of turn.
 
 
 Uncaged Fury
@@ -1110,7 +1110,7 @@ Uncaged Fury
 
 
 Vessel of Volatility
-   |mana_1| |mana_r|, Sacrifice Vessel of Volatility: Add |mana_r| |mana_r| |mana_r| |mana_r|.
+   |mana_1|\ |mana_r|, Sacrifice Vessel of Volatility: Add |mana_r|\ |mana_r|\ |mana_r|\ |mana_r|.
 
 
 Village Messenger
@@ -1132,7 +1132,7 @@ Voldaren Duelist
 
 
 Wolf of Devil's Breach
-   Whenever Wolf of Devil's Breach attacks, you may pay |mana_1| |mana_r| and discard a card. If you do, Wolf of Devil's Breach deals damage to target creature or planeswalker equal to the discarded card's converted mana cost.
+   Whenever Wolf of Devil's Breach attacks, you may pay |mana_1|\ |mana_r| and discard a card. If you do, Wolf of Devil's Breach deals damage to target creature or planeswalker equal to the discarded card's converted mana cost.
 
 
 Aim High
@@ -1188,7 +1188,7 @@ Deathcap Cultivator
 
 
 Duskwatch Recruiter
-   |mana_2| |mana_g|: Look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+   |mana_2|\ |mana_g|: Look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
    At the beginning of each upkeep, if no spells were cast last turn, transform Duskwatch Recruiter.
 
@@ -1222,7 +1222,7 @@ Graf Mole
 
 
 Groundskeeper
-   |mana_1| |mana_g|: Return target basic land card from your graveyard to your hand.
+   |mana_1|\ |mana_g|: Return target basic land card from your graveyard to your hand.
 
 
 Hermit of the Natterknolls
@@ -1308,7 +1308,7 @@ Pack Guardian
 
 
 Quilled Wolf
-   |mana_5| |mana_g|: Quilled Wolf gets +4/+4 until end of turn.
+   |mana_5|\ |mana_g|: Quilled Wolf gets +4/+4 until end of turn.
 
 
 Rabid Bite
@@ -1400,11 +1400,11 @@ Ulvenwald Mysteries
 
 
 Vessel of Nascency
-   |mana_1| |mana_g|, Sacrifice Vessel of Nascency: Reveal the top four cards of your library. You may put an artifact, creature, enchantment, land, or planeswalker card from among them into your hand. Put the rest into your graveyard.
+   |mana_1|\ |mana_g|, Sacrifice Vessel of Nascency: Reveal the top four cards of your library. You may put an artifact, creature, enchantment, land, or planeswalker card from among them into your hand. Put the rest into your graveyard.
 
 
 Veteran Cathar
-   |mana_3| |mana_w|: Target Human gains double strike until end of turn.
+   |mana_3|\ |mana_w|: Target Human gains double strike until end of turn.
 
 
 Watcher in the Web

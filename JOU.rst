@@ -10,7 +10,7 @@ Aegis of the Gods
 
 
 Ajani's Presence
-   Strive — This spell costs |mana_2| |mana_w| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_2|\ |mana_w| more to cast for each target beyond the first.
 
    Any number of target creatures each get +1/+1 and gain indestructible until end of turn. (Damage and effects that say "destroy" don't destroy them.)
 
@@ -54,7 +54,7 @@ Eidolon of Rhetoric
 
 
 Font of Vigor
-   |mana_2| |mana_w|, Sacrifice Font of Vigor: You gain 7 life.
+   |mana_2|\ |mana_w|, Sacrifice Font of Vigor: You gain 7 life.
 
 
 Godsend
@@ -110,7 +110,7 @@ Oreskos Swiftclaw
 
 
 Phalanx Formation
-   Strive — This spell costs |mana_1| |mana_w| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_1|\ |mana_w| more to cast for each target beyond the first.
 
    Any number of target creatures each gain double strike until end of turn. (They deal both first-strike and regular combat damage.)
 
@@ -124,7 +124,7 @@ Reprisal
 
 
 Sightless Brawler
-   Bestow |mana_4| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_4|\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Sightless Brawler can't attack alone.
 
@@ -142,7 +142,7 @@ Skyspear Cavalry
 
 
 Stonewise Fortifier
-   |mana_4| |mana_w|: Prevent all damage that would be dealt to Stonewise Fortifier by target creature this turn.
+   |mana_4|\ |mana_w|: Prevent all damage that would be dealt to Stonewise Fortifier by target creature this turn.
 
 
 Supply-Line Cranes
@@ -156,7 +156,7 @@ Tethmos High Priest
 
 
 Aerial Formation
-   Strive — This spell costs |mana_2| |mana_u| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_2|\ |mana_u| more to cast for each target beyond the first.
 
    Any number of target creatures each get +1/+1 and gain flying until end of turn.
 
@@ -178,7 +178,7 @@ Countermand
 
 
 Crystalline Nautilus
-   Bestow |mana_3| |mana_u| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_3|\ |mana_u|\ |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    When Crystalline Nautilus becomes the target of a spell or ability, sacrifice it.
 
@@ -200,7 +200,7 @@ Dictate of Kruphix
 
 
 Font of Fortunes
-   |mana_1| |mana_u|, Sacrifice Font of Fortunes: Draw two cards.
+   |mana_1|\ |mana_u|, Sacrifice Font of Fortunes: Draw two cards.
 
 
 Godhunter Octopus
@@ -208,7 +208,7 @@ Godhunter Octopus
 
 
 Hour of Need
-   Strive — This spell costs |mana_1| |mana_u| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_1|\ |mana_u| more to cast for each target beyond the first.
 
    Exile any number of target creatures. For each creature exiled this way, its controller creates a 4/4 blue Sphinx creature token with flying.
 
@@ -218,7 +218,7 @@ Hubris
 
 
 Hypnotic Siren
-   Bestow |mana_5| |mana_u| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_5|\ |mana_u|\ |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Flying
 
@@ -244,7 +244,7 @@ Pin to the Earth
 
 
 Polymorphous Rush
-   Strive — This spell costs |mana_1| |mana_u| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_1|\ |mana_u| more to cast for each target beyond the first.
 
    Choose a creature on the battlefield. Any number of target creatures you control each become a copy of that creature until end of turn.
 
@@ -282,7 +282,7 @@ Thassa's Devourer
 
 
 Thassa's Ire
-   |mana_3| |mana_u|: You may tap or untap target creature.
+   |mana_3|\ |mana_u|: You may tap or untap target creature.
 
 
 Triton Cavalry
@@ -330,7 +330,7 @@ Cast into Darkness
 
 
 Cruel Feeding
-   Strive — This spell costs |mana_2| |mana_b| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_2|\ |mana_b| more to cast for each target beyond the first.
 
    Any number of target creatures each get +1/+0 and gain lifelink until end of turn. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)
 
@@ -364,11 +364,11 @@ Felhide Petrifier
 
 
 Font of Return
-   |mana_3| |mana_b|, Sacrifice Font of Return: Return up to three target creature cards from your graveyard to your hand.
+   |mana_3|\ |mana_b|, Sacrifice Font of Return: Return up to three target creature cards from your graveyard to your hand.
 
 
 Gnarled Scarhide
-   Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_3|\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Gnarled Scarhide can't block.
 
@@ -416,7 +416,7 @@ Rotted Hulk
 
 
 Silence the Believers
-   Strive — This spell costs |mana_2| |mana_b| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_2|\ |mana_b| more to cast for each target beyond the first.
 
    Exile any number of target creatures and all Auras attached to them.
 
@@ -488,7 +488,7 @@ Flurry of Horns
 
 
 Font of Ire
-   |mana_3| |mana_r|, Sacrifice Font of Ire: It deals 5 damage to target player or planeswalker.
+   |mana_3|\ |mana_r|, Sacrifice Font of Ire: It deals 5 damage to target player or planeswalker.
 
 
 Forgeborn Oreads
@@ -496,11 +496,11 @@ Forgeborn Oreads
 
 
 Gluttonous Cyclops
-   |mana_5| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+   |mana_5|\ |mana_r|\ |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
 
 Harness by Force
-   Strive — This spell costs |mana_2| |mana_r| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_2|\ |mana_r| more to cast for each target beyond the first.
 
    Gain control of any number of target creatures until end of turn. Untap those creatures. They gain haste until end of turn.
 
@@ -522,7 +522,7 @@ Magma Spray
 
 
 Mogis's Warhound
-   Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_2|\ |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Mogis's Warhound attacks each combat if able.
 
@@ -548,7 +548,7 @@ Rollick of Abandon
 
 
 Rouse the Mob
-   Strive — This spell costs |mana_2| |mana_r| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_2|\ |mana_r| more to cast for each target beyond the first.
 
    Any number of target creatures each get +2/+0 and gain trample until end of turn.
 
@@ -576,13 +576,13 @@ Starfall
 
 
 Twinflame
-   Strive — This spell costs |mana_2| |mana_r| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_2|\ |mana_r| more to cast for each target beyond the first.
 
    Choose any number of target creatures you control. For each of them, create a token that's a copy of that creature, except it has haste. Exile those tokens at the beginning of the next end step.
 
 
 Wildfire Cerberus
-   |mana_5| |mana_r| |mana_r|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+   |mana_5|\ |mana_r|\ |mana_r|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)
 
    When Wildfire Cerberus becomes monstrous, it deals 2 damage to each opponent and each creature your opponents control.
 
@@ -592,13 +592,13 @@ Bassara Tower Archer
 
 
 Colossal Heroics
-   Strive — This spell costs |mana_1| |mana_g| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_1|\ |mana_g| more to cast for each target beyond the first.
 
    Any number of target creatures each get +2/+2 until end of turn. Untap those creatures.
 
 
 Consign to Dust
-   Strive — This spell costs |mana_2| |mana_g| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_2|\ |mana_g| more to cast for each target beyond the first.
 
    Destroy any number of target artifacts and/or enchantments.
 
@@ -618,7 +618,7 @@ Eidolon of Blossoms
 
 
 Font of Fertility
-   |mana_1| |mana_g|, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |mana_1|\ |mana_g|, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 
 
 Golden Hind
@@ -632,7 +632,7 @@ Goldenhide Ox
 Heroes' Bane
    Heroes' Bane enters the battlefield with four +1/+1 counters on it.
 
-   |mana_2| |mana_g| |mana_g|: Put X +1/+1 counters on Heroes' Bane, where X is its power.
+   |mana_2|\ |mana_g|\ |mana_g|: Put X +1/+1 counters on Heroes' Bane, where X is its power.
 
 
 Humbler of Mortals
@@ -640,7 +640,7 @@ Humbler of Mortals
 
 
 Hydra Broodmaster
-   |mana_x| |mana_x| |mana_g|: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)
+   |mana_x|\ |mana_x|\ |mana_g|: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)
 
    When Hydra Broodmaster becomes monstrous, create X X/X green Hydra creature tokens.
 
@@ -656,7 +656,7 @@ Market Festival
 
 
 Nature's Panoply
-   Strive — This spell costs |mana_2| |mana_g| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_2|\ |mana_g| more to cast for each target beyond the first.
 
    Choose any number of target creatures. Put a +1/+1 counter on each of them.
 
@@ -682,11 +682,11 @@ Pheres-Band Warchief
 Ravenous Leucrocota
    Vigilance
 
-   |mana_6| |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+   |mana_6|\ |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
 
 Renowned Weaver
-   |mana_1| |mana_g|, Sacrifice Renowned Weaver: Create a 1/3 green Spider enchantment creature token with reach. (It can block creatures with flying.)
+   |mana_1|\ |mana_g|, Sacrifice Renowned Weaver: Create a 1/3 green Spider enchantment creature token with reach. (It can block creatures with flying.)
 
 
 Reviving Melody
@@ -708,13 +708,13 @@ Setessan Tactics
 
 
 Solidarity of Heroes
-   Strive — This spell costs |mana_1| |mana_g| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_1|\ |mana_g| more to cast for each target beyond the first.
 
    Choose any number of target creatures. Double the number of +1/+1 counters on each of them.
 
 
 Spirespine
-   Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_4|\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Spirespine blocks each combat if able.
 
@@ -728,7 +728,7 @@ Strength from the Fallen
 Swarmborn Giant
    When you're dealt combat damage, sacrifice Swarmborn Giant.
 
-   |mana_4| |mana_g| |mana_g|: Monstrosity 2. (If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)
+   |mana_4|\ |mana_g|\ |mana_g|: Monstrosity 2. (If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)
 
    As long as Swarmborn Giant is monstrous, it has reach.
 
@@ -750,7 +750,7 @@ Athreos, God of Passage
 
 
 Desperate Stand
-   Strive — This spell costs |mana_r| |mana_w| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_r|\ |mana_w| more to cast for each target beyond the first.
 
    Any number of target creatures each get +2/+0 and gain first strike and vigilance until end of turn.
 
@@ -764,7 +764,7 @@ Fleetfeather Cockatrice
 
    Flying, deathtouch
 
-   |mana_5| |mana_g| |mana_u|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+   |mana_5|\ |mana_g|\ |mana_u|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
 
 Iroas, God of Victory
@@ -800,7 +800,7 @@ Nyx Weaver
 
    At the beginning of your upkeep, put the top two cards of your library into your graveyard.
 
-   |mana_1| |mana_b| |mana_g|, Exile Nyx Weaver: Return target card from your graveyard to your hand.
+   |mana_1|\ |mana_b|\ |mana_g|, Exile Nyx Weaver: Return target card from your graveyard to your hand.
 
 
 Pharika, God of Affliction
@@ -808,7 +808,7 @@ Pharika, God of Affliction
 
    As long as your devotion to black and green is less than seven, Pharika isn't a creature.
 
-   |mana_b| |mana_g|: Exile target creature card from a graveyard. Its owner creates a 1/1 black and green Snake enchantment creature token with deathtouch.
+   |mana_b|\ |mana_g|: Exile target creature card from a graveyard. Its owner creates a 1/1 black and green Snake enchantment creature token with deathtouch.
 
 
 Revel of the Fallen God
@@ -818,13 +818,13 @@ Revel of the Fallen God
 Stormchaser Chimera
    Flying
 
-   |mana_2| |mana_u| |mana_r|: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
+   |mana_2|\ |mana_u|\ |mana_r|: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
 
 
 Underworld Coinsmith
    Constellation — Whenever Underworld Coinsmith or another enchantment enters the battlefield under your control, you gain 1 life.
 
-   |mana_w| |mana_b|, Pay 1 life: Each opponent loses 1 life.
+   |mana_w|\ |mana_b|, Pay 1 life: Each opponent loses 1 life.
 
 
 Armory of Iroas

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,7 +49,7 @@ msgid "Balan, Wandering Knight has double strike as long as two or more Equipmen
 msgstr ""
 
 #: ../../C17.rst:19
-msgid "|mana_1| |mana_w|: Attach all Equipment you control to Balan."
+msgid "|mana_1|\\ |mana_w|: Attach all Equipment you control to Balan."
 msgstr ""
 
 #: ../../C17.rst:26
@@ -85,7 +85,7 @@ msgid "As Kindred Boon enters the battlefield, choose a creature type."
 msgstr ""
 
 #: ../../C17.rst:35
-msgid "|mana_1| |mana_w|: Put a divinity counter on target creature you control of the chosen type."
+msgid "|mana_1|\\ |mana_w|: Put a divinity counter on target creature you control of the chosen type."
 msgstr ""
 
 #: ../../C17.rst:37
@@ -222,7 +222,7 @@ msgid "Boneyard Scourge"
 msgstr ""
 
 #: ../../C17.rst:93
-msgid "Whenever a Dragon you control dies while Boneyard Scourge is in your graveyard, you may pay |mana_1| |mana_b|. If you do, return Boneyard Scourge from your graveyard to the battlefield."
+msgid "Whenever a Dragon you control dies while Boneyard Scourge is in your graveyard, you may pay |mana_1|\\ |mana_b|. If you do, return Boneyard Scourge from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../C17.rst:100
@@ -352,7 +352,7 @@ msgid "|mana_r|, |tap|: Exile target instant or sorcery card from your graveyard
 msgstr ""
 
 #: ../../C17.rst:165
-msgid "|mana_1| |mana_r|, |tap|, Sacrifice Izzet Chemister: Cast any number of cards exiled with Izzet Chemister without paying their mana costs."
+msgid "|mana_1|\\ |mana_r|, |tap|, Sacrifice Izzet Chemister: Cast any number of cards exiled with Izzet Chemister without paying their mana costs."
 msgstr ""
 
 #: ../../C17.rst:170
@@ -450,7 +450,7 @@ msgid "Eminence — At the beginning of combat on your turn, if Arahbo, Roar of 
 msgstr ""
 
 #: ../../C17.rst:215
-msgid "Whenever another Cat you control attacks, you may pay |mana_1| |mana_g| |mana_w|. If you do, it gains trample and gets +X/+X until end of turn, where X is its power."
+msgid "Whenever another Cat you control attacks, you may pay |mana_1|\\ |mana_g|\\ |mana_w|. If you do, it gains trample and gets +X/+X until end of turn, where X is its power."
 msgstr ""
 
 #: ../../C17.rst:224
@@ -710,7 +710,7 @@ msgid "Whenever you cast a spell, put a +1/+1 counter on Ramos, Dragon Engine fo
 msgstr ""
 
 #: ../../C17.rst:353
-msgid "Remove five +1/+1 counters from Ramos: Add |mana_w| |mana_w| |mana_u| |mana_u| |mana_b| |mana_b| |mana_r| |mana_r| |mana_g| |mana_g|. Activate this ability only once each turn."
+msgid "Remove five +1/+1 counters from Ramos: Add |mana_w|\\ |mana_w|\\ |mana_u|\\ |mana_u|\\ |mana_b|\\ |mana_b|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|. Activate this ability only once each turn."
 msgstr ""
 
 #: ../../C17.rst:360
@@ -755,7 +755,7 @@ msgid "Each player chooses a creature they control. Destroy the rest."
 msgstr ""
 
 #: ../../C17.rst:375
-msgid "Flashback |mana_5| |mana_w| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_5|\\ |mana_w|\\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../C17.rst:380
@@ -783,7 +783,7 @@ msgid "Jazal Goldmane"
 msgstr ""
 
 #: ../../C17.rst:391
-msgid "|mana_3| |mana_w| |mana_w|: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures."
+msgid "|mana_3|\\ |mana_w|\\ |mana_w|: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures."
 msgstr ""
 
 #: ../../C17.rst:396
@@ -959,7 +959,7 @@ msgid "|tap|: Draw three cards."
 msgstr ""
 
 #: ../../C17.rst:483
-msgid "|mana_2| |mana_u| |mana_u|: Return Arcanis the Omnipotent to its owner's hand."
+msgid "|mana_2|\\ |mana_u|\\ |mana_u|: Return Arcanis the Omnipotent to its owner's hand."
 msgstr ""
 
 #: ../../C17.rst:488
@@ -1011,7 +1011,7 @@ msgid "Into the Roil"
 msgstr ""
 
 #: ../../C17.rst:509
-msgid "Kicker |mana_1| |mana_u| (You may pay an additional |mana_1| |mana_u| as you cast this spell.)"
+msgid "Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as you cast this spell.)"
 msgstr ""
 
 #: ../../C17.rst:511
@@ -1243,7 +1243,7 @@ msgid "Dark Impostor"
 msgstr ""
 
 #: ../../C17.rst:627
-msgid "|mana_4| |mana_b| |mana_b|: Exile target creature and put a +1/+1 counter on Dark Impostor."
+msgid "|mana_4|\\ |mana_b|\\ |mana_b|: Exile target creature and put a +1/+1 counter on Dark Impostor."
 msgstr ""
 
 #: ../../C17.rst:629
@@ -1267,7 +1267,7 @@ msgid "Destroy all creatures. They can't be regenerated. Draw a card for each cr
 msgstr ""
 
 #: ../../C17.rst:641
-msgid "Cycling |mana_3| |mana_b| |mana_b| (|mana_3| |mana_b| |mana_b|, Discard this card: Draw a card.)"
+msgid "Cycling |mana_3|\\ |mana_b|\\ |mana_b| (|mana_3|\\ |mana_b|\\ |mana_b|, Discard this card: Draw a card.)"
 msgstr ""
 
 #: ../../C17.rst:643
@@ -1279,7 +1279,7 @@ msgid "Drana, Kalastria Bloodchief"
 msgstr ""
 
 #: ../../C17.rst:649
-msgid "|mana_x| |mana_b| |mana_b|: Target creature gets -0/-X until end of turn and Drana, Kalastria Bloodchief gets +X/+0 until end of turn."
+msgid "|mana_x|\\ |mana_b|\\ |mana_b|: Target creature gets -0/-X until end of turn and Drana, Kalastria Bloodchief gets +X/+0 until end of turn."
 msgstr ""
 
 #: ../../C17.rst:656
@@ -1419,7 +1419,7 @@ msgid "When Skeletal Vampire enters the battlefield, create two 1/1 black Bat cr
 msgstr ""
 
 #: ../../C17.rst:727
-msgid "|mana_3| |mana_b| |mana_b|, Sacrifice a Bat: Create two 1/1 black Bat creature tokens with flying."
+msgid "|mana_3|\\ |mana_b|\\ |mana_b|, Sacrifice a Bat: Create two 1/1 black Bat creature tokens with flying."
 msgstr ""
 
 #: ../../C17.rst:729
@@ -1535,7 +1535,7 @@ msgid "Hellkite Charger"
 msgstr ""
 
 #: ../../C17.rst:789
-msgid "Whenever Hellkite Charger attacks, you may pay |mana_5| |mana_r| |mana_r|. If you do, untap all attacking creatures and after this phase, there is an additional combat phase."
+msgid "Whenever Hellkite Charger attacks, you may pay |mana_5|\\ |mana_r|\\ |mana_r|. If you do, untap all attacking creatures and after this phase, there is an additional combat phase."
 msgstr ""
 
 #: ../../C17.rst:798
@@ -1655,7 +1655,7 @@ msgid "As Frontier Siege enters the battlefield, choose Khans or Dragons."
 msgstr ""
 
 #: ../../C17.rst:857
-msgid "Khans — At the beginning of each of your main phases, add |mana_g| |mana_g|."
+msgid "Khans — At the beginning of each of your main phases, add |mana_g|\\ |mana_g|."
 msgstr ""
 
 #: ../../C17.rst:859
@@ -1743,7 +1743,7 @@ msgid "Temur Sabertooth"
 msgstr ""
 
 #: ../../C17.rst:905
-msgid "|mana_1| |mana_g|: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn."
+msgid "|mana_1|\\ |mana_g|: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn."
 msgstr ""
 
 #: ../../C17.rst:912
@@ -1790,7 +1790,7 @@ msgid "When Bladewing the Risen enters the battlefield, you may return target Dr
 msgstr ""
 
 #: ../../C17.rst:931
-msgid "|mana_b| |mana_r|: Dragon creatures get +1/+1 until end of turn."
+msgid "|mana_b|\\ |mana_r|: Dragon creatures get +1/+1 until end of turn."
 msgstr ""
 
 #: ../../C17.rst:938
@@ -1842,7 +1842,7 @@ msgid "Crosis, the Purger"
 msgstr ""
 
 #: ../../C17.rst:961
-msgid "Whenever Crosis, the Purger deals combat damage to a player, you may pay |mana_2| |mana_b|. If you do, choose a color, then that player reveals their hand and discards all cards of that color."
+msgid "Whenever Crosis, the Purger deals combat damage to a player, you may pay |mana_2|\\ |mana_b|. If you do, choose a color, then that player reveals their hand and discards all cards of that color."
 msgstr ""
 
 #: ../../C17.rst:972
@@ -1871,7 +1871,7 @@ msgid "Etherium-Horn Sorcerer"
 msgstr ""
 
 #: ../../C17.rst:981
-msgid "|mana_1| |mana_u| |mana_r|: Return Etherium-Horn Sorcerer to its owner's hand."
+msgid "|mana_1|\\ |mana_u|\\ |mana_r|: Return Etherium-Horn Sorcerer to its owner's hand."
 msgstr ""
 
 #: ../../C17.rst:983
@@ -1883,7 +1883,7 @@ msgid "Fleecemane Lion"
 msgstr ""
 
 #: ../../C17.rst:987
-msgid "|mana_3| |mana_g| |mana_w|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
+msgid "|mana_3|\\ |mana_g|\\ |mana_w|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
 msgstr ""
 
 #: ../../C17.rst:989
@@ -1903,7 +1903,7 @@ msgid "Intet, the Dreamer"
 msgstr ""
 
 #: ../../C17.rst:999
-msgid "Whenever Intet, the Dreamer deals combat damage to a player, you may pay |mana_2| |mana_u|. If you do, exile the top card of your library face down. You may look at that card for as long as it remains exiled. You may play that card without paying its mana cost for as long as Intet remains on the battlefield."
+msgid "Whenever Intet, the Dreamer deals combat damage to a player, you may pay |mana_2|\\ |mana_u|. If you do, exile the top card of your library face down. You may look at that card for as long as it remains exiled. You may play that card without paying its mana cost for as long as Intet remains on the battlefield."
 msgstr ""
 
 #: ../../C17.rst:1004
@@ -1923,7 +1923,7 @@ msgid "Whenever a Dragon you control attacks, creatures you control get +1/+0 un
 msgstr ""
 
 #: ../../C17.rst:1011
-msgid "Dash |mana_3| |mana_b| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgid "Dash |mana_3|\\ |mana_b|\\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
 msgstr ""
 
 #: ../../C17.rst:1020
@@ -2007,7 +2007,7 @@ msgid "Nin, the Pain Artist"
 msgstr ""
 
 #: ../../C17.rst:1055
-msgid "|mana_x| |mana_u| |mana_r|, |tap|: Nin, the Pain Artist deals X damage to target creature. That creature's controller draws X cards."
+msgid "|mana_x|\\ |mana_u|\\ |mana_r|, |tap|: Nin, the Pain Artist deals X damage to target creature. That creature's controller draws X cards."
 msgstr ""
 
 #: ../../C17.rst:1064
@@ -2019,7 +2019,7 @@ msgid "Whenever Niv-Mizzet, Dracogenius deals damage to a player, you may draw a
 msgstr ""
 
 #: ../../C17.rst:1063
-msgid "|mana_u| |mana_r|: Niv-Mizzet, Dracogenius deals 1 damage to any target."
+msgid "|mana_u|\\ |mana_r|: Niv-Mizzet, Dracogenius deals 1 damage to any target."
 msgstr ""
 
 #: ../../C17.rst:1072
@@ -2039,11 +2039,11 @@ msgid "Nivix Guildmage"
 msgstr ""
 
 #: ../../C17.rst:1075
-msgid "|mana_1| |mana_u| |mana_r|: Draw a card, then discard a card."
+msgid "|mana_1|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
 msgstr ""
 
 #: ../../C17.rst:1077
-msgid "|mana_2| |mana_u| |mana_r|: Copy target instant or sorcery spell you control. You may choose new targets for the copy."
+msgid "|mana_2|\\ |mana_u|\\ |mana_r|: Copy target instant or sorcery spell you control. You may choose new targets for the copy."
 msgstr ""
 
 #: ../../C17.rst:1084
@@ -2103,7 +2103,7 @@ msgid "Savage Ventmaw"
 msgstr ""
 
 #: ../../C17.rst:1115
-msgid "Whenever Savage Ventmaw attacks, add |mana_r| |mana_r| |mana_r| |mana_g| |mana_g| |mana_g|. Until end of turn, you don't lose this mana as steps and phases end."
+msgid "Whenever Savage Ventmaw attacks, add |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|\\ |mana_g|. Until end of turn, you don't lose this mana as steps and phases end."
 msgstr ""
 
 #: ../../C17.rst:1122
@@ -2179,7 +2179,7 @@ msgid "Teneb, the Harvester"
 msgstr ""
 
 #: ../../C17.rst:1163
-msgid "Whenever Teneb, the Harvester deals combat damage to a player, you may pay |mana_2| |mana_b|. If you do, put target creature card from a graveyard onto the battlefield under your control."
+msgid "Whenever Teneb, the Harvester deals combat damage to a player, you may pay |mana_2|\\ |mana_b|. If you do, put target creature card from a graveyard onto the battlefield under your control."
 msgstr ""
 
 #: ../../C17.rst:1168
@@ -2251,7 +2251,7 @@ msgid "Boros Signet"
 msgstr ""
 
 #: ../../C17.rst:1203
-msgid "|mana_1|, |tap|: Add |mana_r| |mana_w|."
+msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_w|."
 msgstr ""
 
 #: ../../C17.rst:1210
@@ -2300,7 +2300,7 @@ msgid "Dreamstone Hedron"
 msgstr ""
 
 #: ../../C17.rst:1227
-msgid "|tap|: Add |colorless| |colorless| |colorless|."
+msgid "|tap|: Add |colorless|\\ |colorless|\\ |colorless|."
 msgstr ""
 
 #: ../../C17.rst:1229
@@ -2321,7 +2321,7 @@ msgid "Fist of Suns"
 msgstr ""
 
 #: ../../C17.rst:1237
-msgid "You may pay |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| rather than pay the mana cost for spells that you cast."
+msgid "You may pay |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| rather than pay the mana cost for spells that you cast."
 msgstr ""
 
 #: ../../C17.rst:1246
@@ -2343,7 +2343,7 @@ msgstr ""
 #: ../../C17.rst:1249
 #: ../../C17.rst:1311
 #: ../../C17.rst:1365
-msgid "|tap|: Add |colorless| |colorless|."
+msgid "|tap|: Add |colorless|\\ |colorless|."
 msgstr ""
 
 #: ../../C17.rst:1251
@@ -2411,7 +2411,7 @@ msgid "Orzhov Signet"
 msgstr ""
 
 #: ../../C17.rst:1287
-msgid "|mana_1|, |tap|: Add |mana_w| |mana_b|."
+msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_b|."
 msgstr ""
 
 #: ../../C17.rst:1296
@@ -2431,7 +2431,7 @@ msgid "Rakdos Signet"
 msgstr ""
 
 #: ../../C17.rst:1299
-msgid "|mana_1|, |tap|: Add |mana_b| |mana_r|."
+msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_r|."
 msgstr ""
 
 #: ../../C17.rst:1308
@@ -2585,7 +2585,7 @@ msgid "Blighted Woodland"
 msgstr ""
 
 #: ../../C17.rst:1385
-msgid "|mana_3| |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
 #: ../../C17.rst:1394
@@ -2651,7 +2651,7 @@ msgid "When Boros Garrison enters the battlefield, return a land you control to 
 msgstr ""
 
 #: ../../C17.rst:1417
-msgid "|tap|: Add |mana_r| |mana_w|."
+msgid "|tap|: Add |mana_r|\\ |mana_w|."
 msgstr ""
 
 #: ../../C17.rst:1424
@@ -2717,7 +2717,7 @@ msgid "When Dimir Aqueduct enters the battlefield, return a land you control to 
 msgstr ""
 
 #: ../../C17.rst:1455
-msgid "|tap|: Add |mana_u| |mana_b|."
+msgid "|tap|: Add |mana_u|\\ |mana_b|."
 msgstr ""
 
 #: ../../C17.rst:1464
@@ -2840,7 +2840,7 @@ msgid "When Izzet Boilerworks enters the battlefield, return a land you control 
 msgstr ""
 
 #: ../../C17.rst:1525
-msgid "|tap|: Add |mana_u| |mana_r|."
+msgid "|tap|: Add |mana_u|\\ |mana_r|."
 msgstr ""
 
 #: ../../C17.rst:1532
@@ -2992,7 +2992,7 @@ msgid "When Orzhov Basilica enters the battlefield, return a land you control to
 msgstr ""
 
 #: ../../C17.rst:1609
-msgid "|tap|: Add |mana_w| |mana_b|."
+msgid "|tap|: Add |mana_w|\\ |mana_b|."
 msgstr ""
 
 #: ../../C17.rst:1616
@@ -3016,7 +3016,7 @@ msgid "When Rakdos Carnarium enters the battlefield, return a land you control t
 msgstr ""
 
 #: ../../C17.rst:1623
-msgid "|tap|: Add |mana_b| |mana_r|."
+msgid "|tap|: Add |mana_b|\\ |mana_r|."
 msgstr ""
 
 #: ../../C17.rst:1630
@@ -3128,7 +3128,7 @@ msgid "When Selesnya Sanctuary enters the battlefield, return a land you control
 msgstr ""
 
 #: ../../C17.rst:1691
-msgid "|tap|: Add |mana_g| |mana_w|."
+msgid "|tap|: Add |mana_g|\\ |mana_w|."
 msgstr ""
 
 #: ../../C17.rst:1700
@@ -3140,7 +3140,7 @@ msgid "Stirring Wildwood enters the battlefield tapped."
 msgstr ""
 
 #: ../../C17.rst:1699
-msgid "|mana_1| |mana_g| |mana_w|: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land."
+msgid "|mana_1|\\ |mana_g|\\ |mana_w|: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land."
 msgstr ""
 
 #: ../../C17.rst:1706
@@ -3172,7 +3172,7 @@ msgid "Temple of the False God"
 msgstr ""
 
 #: ../../C17.rst:1717
-msgid "|tap|: Add |colorless| |colorless|. Activate this ability only if you control five or more lands."
+msgid "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you control five or more lands."
 msgstr ""
 
 #: ../../C17.rst:1722

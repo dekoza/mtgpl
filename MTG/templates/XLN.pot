@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -154,7 +154,7 @@ msgid "Encampment Keeper"
 msgstr ""
 
 #: ../../XLN.rst:63
-msgid "|mana_7| |mana_w|, |tap|, Sacrifice Encampment Keeper: Creatures you control get +2/+2 until end of turn."
+msgid "|mana_7|\\ |mana_w|, |tap|, Sacrifice Encampment Keeper: Creatures you control get +2/+2 until end of turn."
 msgstr ""
 
 #: ../../XLN.rst:70
@@ -275,7 +275,7 @@ msgid "|tap|: Add |mana_w|."
 msgstr ""
 
 #: ../../XLN.rst:127
-msgid "|mana_2| |mana_w|, |tap|: Create a 1/1 white Vampire creature token with lifelink."
+msgid "|mana_2|\\ |mana_w|, |tap|: Create a 1/1 white Vampire creature token with lifelink."
 msgstr ""
 
 #: ../../XLN.rst:130
@@ -327,7 +327,7 @@ msgid "At the beginning of your upkeep, you may reveal a Dinosaur card from your
 msgstr ""
 
 #: ../../XLN.rst:153
-msgid "|mana_3| |mana_w| |mana_w|, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle your library."
+msgid "|mana_3|\\ |mana_w|\\ |mana_w|, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 
 #: ../../XLN.rst:158
@@ -411,7 +411,7 @@ msgid "Steadfast Armasaur"
 msgstr ""
 
 #: ../../XLN.rst:205
-msgid "|mana_1| |mana_w|, |tap|: Steadfast Armasaur deals damage equal to its toughness to target creature blocking or blocked by it."
+msgid "|mana_1|\\ |mana_w|, |tap|: Steadfast Armasaur deals damage equal to its toughness to target creature blocking or blocked by it."
 msgstr ""
 
 #: ../../XLN.rst:212
@@ -495,7 +495,7 @@ msgid "Daring Saboteur"
 msgstr ""
 
 #: ../../XLN.rst:249
-msgid "|mana_2| |mana_u|: Daring Saboteur can't be blocked this turn."
+msgid "|mana_2|\\ |mana_u|: Daring Saboteur can't be blocked this turn."
 msgstr ""
 
 #: ../../XLN.rst:251
@@ -742,7 +742,7 @@ msgid "|tap|: Add |mana_u|."
 msgstr ""
 
 #: ../../XLN.rst:379
-msgid "|mana_2| |mana_u|, |tap|: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+msgid "|mana_2|\\ |mana_u|, |tap|: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
 msgstr ""
 
 #: ../../XLN.rst:384
@@ -766,7 +766,7 @@ msgid "Shore Keeper"
 msgstr ""
 
 #: ../../XLN.rst:391
-msgid "|mana_7| |mana_u|, |tap|, Sacrifice Shore Keeper: Draw three cards."
+msgid "|mana_7|\\ |mana_u|, |tap|, Sacrifice Shore Keeper: Draw three cards."
 msgstr ""
 
 #: ../../XLN.rst:398
@@ -870,7 +870,7 @@ msgid "Arguel's Blood Fast"
 msgstr ""
 
 #: ../../XLN.rst:453
-msgid "|mana_1| |mana_b|, Pay 2 life: Draw a card."
+msgid "|mana_1|\\ |mana_b|, Pay 2 life: Draw a card."
 msgstr ""
 
 #: ../../XLN.rst:455
@@ -906,7 +906,7 @@ msgid "Blight Keeper"
 msgstr ""
 
 #: ../../XLN.rst:473
-msgid "|mana_7| |mana_b|, |tap|, Sacrifice Blight Keeper: Target opponent loses 4 life and you gain 4 life."
+msgid "|mana_7|\\ |mana_b|, |tap|, Sacrifice Blight Keeper: Target opponent loses 4 life and you gain 4 life."
 msgstr ""
 
 #: ../../XLN.rst:480
@@ -966,7 +966,7 @@ msgid "Deadeye Tracker"
 msgstr ""
 
 #: ../../XLN.rst:505
-msgid "|mana_1| |mana_b|, |tap|: Exile two target cards from an opponent's graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+msgid "|mana_1|\\ |mana_b|, |tap|: Exile two target cards from an opponent's graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
 
 #: ../../XLN.rst:512
@@ -1154,7 +1154,7 @@ msgid "Ruthless Knave"
 msgstr ""
 
 #: ../../XLN.rst:609
-msgid "|mana_2| |mana_b|, Sacrifice a creature: Create two colorless Treasure artifact tokens with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgid "|mana_2|\\ |mana_b|, Sacrifice a creature: Create two colorless Treasure artifact tokens with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 
 #: ../../XLN.rst:611
@@ -1313,7 +1313,7 @@ msgid "Captivating Crew"
 msgstr ""
 
 #: ../../XLN.rst:691
-msgid "|mana_3| |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|\\ |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../XLN.rst:696
@@ -1353,7 +1353,7 @@ msgid "Fathom Fleet Firebrand"
 msgstr ""
 
 #: ../../XLN.rst:711
-msgid "|mana_1| |mana_r|: Fathom Fleet Firebrand gets +1/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|: Fathom Fleet Firebrand gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../XLN.rst:716
@@ -1369,7 +1369,7 @@ msgid "Fire Shrine Keeper"
 msgstr ""
 
 #: ../../XLN.rst:721
-msgid "|mana_7| |mana_r|, |tap|, Sacrifice Fire Shrine Keeper: It deals 3 damage to each of up to two target creatures."
+msgid "|mana_7|\\ |mana_r|, |tap|, Sacrifice Fire Shrine Keeper: It deals 3 damage to each of up to two target creatures."
 msgstr ""
 
 #: ../../XLN.rst:728
@@ -1477,7 +1477,7 @@ msgid "Repeating Barrage deals 3 damage to any target."
 msgstr ""
 
 #: ../../XLN.rst:783
-msgid "Raid — |mana_3| |mana_r| |mana_r|: Return Repeating Barrage from your graveyard to your hand. Activate this ability only if you attacked with a creature this turn."
+msgid "Raid — |mana_3|\\ |mana_r|\\ |mana_r|: Return Repeating Barrage from your graveyard to your hand. Activate this ability only if you attacked with a creature this turn."
 msgstr ""
 
 #: ../../XLN.rst:790
@@ -1642,7 +1642,7 @@ msgid "|tap|: Add |mana_r|."
 msgstr ""
 
 #: ../../XLN.rst:873
-msgid "|mana_2| |mana_r|, |tap|: Spitfire Bastion deals 3 damage to any target."
+msgid "|mana_2|\\ |mana_r|, |tap|: Spitfire Bastion deals 3 damage to any target."
 msgstr ""
 
 #: ../../XLN.rst:878
@@ -1827,7 +1827,7 @@ msgid "Ixalli's Keeper"
 msgstr ""
 
 #: ../../XLN.rst:973
-msgid "|mana_7| |mana_g|, |tap|, Sacrifice Ixalli's Keeper: Target creature gets +5/+5 and gains trample until end of turn."
+msgid "|mana_7|\\ |mana_g|, |tap|, Sacrifice Ixalli's Keeper: Target creature gets +5/+5 and gains trample until end of turn."
 msgstr ""
 
 #: ../../XLN.rst:980
@@ -1847,7 +1847,7 @@ msgid "Jungle Delver"
 msgstr ""
 
 #: ../../XLN.rst:983
-msgid "|mana_3| |mana_g|: Put a +1/+1 counter on Jungle Delver."
+msgid "|mana_3|\\ |mana_g|: Put a +1/+1 counter on Jungle Delver."
 msgstr ""
 
 #: ../../XLN.rst:988
@@ -1983,7 +1983,7 @@ msgid "Other Dinosaurs you control get +1/+1."
 msgstr ""
 
 #: ../../XLN.rst:1055
-msgid "|mana_5| |mana_g|: Create a 3/3 green Dinosaur creature token with trample."
+msgid "|mana_5|\\ |mana_g|: Create a 3/3 green Dinosaur creature token with trample."
 msgstr ""
 
 #: ../../XLN.rst:1060
@@ -2023,7 +2023,7 @@ msgid "Waker of the Wilds"
 msgstr ""
 
 #: ../../XLN.rst:1077
-msgid "|mana_x| |mana_g| |mana_g|: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It's still a land."
+msgid "|mana_x|\\ |mana_g|\\ |mana_g|: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It's still a land."
 msgstr ""
 
 #: ../../XLN.rst:1082
@@ -2071,7 +2071,7 @@ msgid "Deadeye Plunderers gets +1/+1 for each artifact you control."
 msgstr ""
 
 #: ../../XLN.rst:1101
-msgid "|mana_2| |mana_u| |mana_b|: Create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
+msgid "|mana_2|\\ |mana_u|\\ |mana_b|: Create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 
 #: ../../XLN.rst:1106
@@ -2151,11 +2151,11 @@ msgid "Shapers of Nature"
 msgstr ""
 
 #: ../../XLN.rst:1143
-msgid "|mana_3| |mana_g|: Put a +1/+1 counter on target creature."
+msgid "|mana_3|\\ |mana_g|: Put a +1/+1 counter on target creature."
 msgstr ""
 
 #: ../../XLN.rst:1145
-msgid "|mana_2| |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card."
+msgid "|mana_2|\\ |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card."
 msgstr ""
 
 #: ../../XLN.rst:1150

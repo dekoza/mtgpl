@@ -122,7 +122,7 @@ Fatal Fumes
 Hired Torturer
    Defender
 
-   |mana_3| |mana_b|, |tap|: Target opponent loses 2 life, then reveals a card at random from their hand.
+   |mana_3|\ |mana_b|, |tap|: Target opponent loses 2 life, then reveals a card at random from their hand.
 
 
 Maze Abomination
@@ -176,7 +176,7 @@ Punish the Enemy
 
 
 Pyrewild Shaman
-   Bloodrush — |mana_1| |mana_r|, Discard Pyrewild Shaman: Target attacking creature gets +3/+1 until end of turn.
+   Bloodrush — |mana_1|\ |mana_r|, Discard Pyrewild Shaman: Target attacking creature gets +3/+1 until end of turn.
 
    Whenever one or more creatures you control deal combat damage to a player, if Pyrewild Shaman is in your graveyard, you may pay |mana_3|. If you do, return Pyrewild Shaman to your hand.
 
@@ -198,7 +198,7 @@ Smelt-Ward Gatekeepers
 Weapon Surge
    Target creature you control gets +1/+0 and gains first strike until end of turn.
 
-   Overload |mana_1| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
+   Overload |mana_1|\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
 
 
 Battering Krasis
@@ -208,7 +208,7 @@ Battering Krasis
 
 
 Kraul Warrior
-   |mana_5| |mana_g|: Kraul Warrior gets +3/+3 until end of turn.
+   |mana_5|\ |mana_g|: Kraul Warrior gets +3/+3 until end of turn.
 
 
 Maze Behemoth
@@ -250,7 +250,7 @@ Skylasher
 Thrashing Mossdog
    Reach (This creature can block creatures with flying.)
 
-   Scavenge |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
+   Scavenge |mana_4|\ |mana_g|\ |mana_g| (|mana_4|\ |mana_g|\ |mana_g|, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)
 
 
 Advent of the Wurm
@@ -268,7 +268,7 @@ Ascended Lawmage
 
 
 Beetleform Mage
-   |mana_g| |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn.
+   |mana_g|\ |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn.
 
 
 Blast of Genius
@@ -300,7 +300,7 @@ Bronzebeak Moa
 Carnage Gladiator
    Whenever a creature blocks, that creature's controller loses 1 life.
 
-   |mana_1| |mana_b| |mana_r|: Regenerate Carnage Gladiator.
+   |mana_1|\ |mana_b|\ |mana_r|: Regenerate Carnage Gladiator.
 
 
 Council of the Absolute
@@ -330,7 +330,7 @@ Deputy of Acquittals
 Dragonshift
    Until end of turn, target creature you control becomes a blue and red Dragon with base power and toughness 4/4, loses all abilities, and gains flying.
 
-   Overload |mana_3| |mana_u| |mana_u| |mana_r| |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
+   Overload |mana_3|\ |mana_u|\ |mana_u|\ |mana_r|\ |mana_r| (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")
 
 
 Drown in Filth
@@ -398,7 +398,7 @@ Krasis Incubation
 
    Enchanted creature can't attack or block, and its activated abilities can't be activated.
 
-   |mana_1| |mana_g| |mana_u|, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature.
+   |mana_1|\ |mana_g|\ |mana_u|, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature.
 
 
 Lavinia of the Tenth
@@ -412,7 +412,7 @@ Legion's Initiative
 
    White creatures you control get +0/+1.
 
-   |mana_r| |mana_w|, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn.
+   |mana_r|\ |mana_w|, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn.
 
 
 Master of Cruelties
@@ -500,7 +500,7 @@ Restore the Peace
 Rot Farm Skeleton
    Rot Farm Skeleton can't block.
 
-   |mana_2| |mana_b| |mana_g|, Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|\ |mana_g|, Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.
 
 
 Ruric Thar, the Unbowed
@@ -516,7 +516,7 @@ Savageborn Hydra
 
    Savageborn Hydra enters the battlefield with X +1/+1 counters on it.
 
-   |mana_1| |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
 
 
 Scab-Clan Giant
@@ -588,7 +588,7 @@ Voice of Resurgence
 
 
 Vorel of the Hull Clade
-   |mana_g| |mana_u|, |tap|: Double the number of each kind of counter on target artifact, creature, or land.
+   |mana_g|\ |mana_u|, |tap|: Double the number of each kind of counter on target artifact, creature, or land.
 
 
 Warleader's Helix
@@ -798,61 +798,61 @@ Tear
 Azorius Cluestone
    |tap|: Add |mana_w| or |mana_u|.
 
-   |mana_w| |mana_u|, |tap|, Sacrifice Azorius Cluestone: Draw a card.
+   |mana_w|\ |mana_u|, |tap|, Sacrifice Azorius Cluestone: Draw a card.
 
 
 Boros Cluestone
    |tap|: Add |mana_r| or |mana_w|.
 
-   |mana_r| |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card.
+   |mana_r|\ |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card.
 
 
 Dimir Cluestone
    |tap|: Add |mana_u| or |mana_b|.
 
-   |mana_u| |mana_b|, |tap|, Sacrifice Dimir Cluestone: Draw a card.
+   |mana_u|\ |mana_b|, |tap|, Sacrifice Dimir Cluestone: Draw a card.
 
 
 Golgari Cluestone
    |tap|: Add |mana_b| or |mana_g|.
 
-   |mana_b| |mana_g|, |tap|, Sacrifice Golgari Cluestone: Draw a card.
+   |mana_b|\ |mana_g|, |tap|, Sacrifice Golgari Cluestone: Draw a card.
 
 
 Gruul Cluestone
    |tap|: Add |mana_r| or |mana_g|.
 
-   |mana_r| |mana_g|, |tap|, Sacrifice Gruul Cluestone: Draw a card.
+   |mana_r|\ |mana_g|, |tap|, Sacrifice Gruul Cluestone: Draw a card.
 
 
 Izzet Cluestone
    |tap|: Add |mana_u| or |mana_r|.
 
-   |mana_u| |mana_r|, |tap|, Sacrifice Izzet Cluestone: Draw a card.
+   |mana_u|\ |mana_r|, |tap|, Sacrifice Izzet Cluestone: Draw a card.
 
 
 Orzhov Cluestone
    |tap|: Add |mana_w| or |mana_b|.
 
-   |mana_w| |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card.
+   |mana_w|\ |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card.
 
 
 Rakdos Cluestone
    |tap|: Add |mana_b| or |mana_r|.
 
-   |mana_b| |mana_r|, |tap|, Sacrifice Rakdos Cluestone: Draw a card.
+   |mana_b|\ |mana_r|, |tap|, Sacrifice Rakdos Cluestone: Draw a card.
 
 
 Selesnya Cluestone
    |tap|: Add |mana_g| or |mana_w|.
 
-   |mana_g| |mana_w|, |tap|, Sacrifice Selesnya Cluestone: Draw a card.
+   |mana_g|\ |mana_w|, |tap|, Sacrifice Selesnya Cluestone: Draw a card.
 
 
 Simic Cluestone
    |tap|: Add |mana_g| or |mana_u|.
 
-   |mana_g| |mana_u|, |tap|, Sacrifice Simic Cluestone: Draw a card.
+   |mana_g|\ |mana_u|, |tap|, Sacrifice Simic Cluestone: Draw a card.
 
 
 Azorius Guildgate

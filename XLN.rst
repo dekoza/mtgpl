@@ -60,7 +60,7 @@ Emissary of Sunrise
 Encampment Keeper
    First strike
 
-   |mana_7| |mana_w|, |tap|, Sacrifice Encampment Keeper: Creatures you control get +2/+2 until end of turn.
+   |mana_7|\ |mana_w|, |tap|, Sacrifice Encampment Keeper: Creatures you control get +2/+2 until end of turn.
 
 
 Glorifier of Dusk
@@ -124,7 +124,7 @@ Adanto, the First Fort
 
    |tap|: Add |mana_w|.
 
-   |mana_2| |mana_w|, |tap|: Create a 1/1 white Vampire creature token with lifelink.
+   |mana_2|\ |mana_w|, |tap|: Create a 1/1 white Vampire creature token with lifelink.
 
 
 Looming Altisaur
@@ -150,7 +150,7 @@ Pious Interdiction
 Priest of the Wakening Sun
    At the beginning of your upkeep, you may reveal a Dinosaur card from your hand. If you do, you gain 2 life.
 
-   |mana_3| |mana_w| |mana_w|, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle your library.
+   |mana_3|\ |mana_w|\ |mana_w|, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle your library.
 
 
 Pterodon Knight
@@ -202,7 +202,7 @@ Slash of Talons
 Steadfast Armasaur
    Vigilance
 
-   |mana_1| |mana_w|, |tap|: Steadfast Armasaur deals damage equal to its toughness to target creature blocking or blocked by it.
+   |mana_1|\ |mana_w|, |tap|: Steadfast Armasaur deals damage equal to its toughness to target creature blocking or blocked by it.
 
 
 Sunrise Seeker
@@ -246,7 +246,7 @@ Chart a Course
 
 
 Daring Saboteur
-   |mana_2| |mana_u|: Daring Saboteur can't be blocked this turn.
+   |mana_2|\ |mana_u|: Daring Saboteur can't be blocked this turn.
 
    Whenever Daring Saboteur deals combat damage to a player, you may draw a card. If you do, discard a card.
 
@@ -376,7 +376,7 @@ Azcanta, the Sunken Ruin
 
    |tap|: Add |mana_u|.
 
-   |mana_2| |mana_u|, |tap|: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+   |mana_2|\ |mana_u|, |tap|: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
 
 
 Shaper Apprentice
@@ -388,7 +388,7 @@ Shipwreck Looter
 
 
 Shore Keeper
-   |mana_7| |mana_u|, |tap|, Sacrifice Shore Keeper: Draw three cards.
+   |mana_7|\ |mana_u|, |tap|, Sacrifice Shore Keeper: Draw three cards.
 
 
 Siren Lookout
@@ -450,7 +450,7 @@ Anointed Deacon
 
 
 Arguel's Blood Fast
-   |mana_1| |mana_b|, Pay 2 life: Draw a card.
+   |mana_1|\ |mana_b|, Pay 2 life: Draw a card.
 
    At the beginning of your upkeep, if you have 5 or less life, you may transform Arguel's Blood Fast.
 
@@ -470,7 +470,7 @@ Bishop of the Bloodstained
 Blight Keeper
    Flying
 
-   |mana_7| |mana_b|, |tap|, Sacrifice Blight Keeper: Target opponent loses 4 life and you gain 4 life.
+   |mana_7|\ |mana_b|, |tap|, Sacrifice Blight Keeper: Target opponent loses 4 life and you gain 4 life.
 
 
 Bloodcrazed Paladin
@@ -502,7 +502,7 @@ Deadeye Tormentor
 
 
 Deadeye Tracker
-   |mana_1| |mana_b|, |tap|: Exile two target cards from an opponent's graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
+   |mana_1|\ |mana_b|, |tap|: Exile two target cards from an opponent's graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 
 
 Deathless Ancient
@@ -606,7 +606,7 @@ Ruin Raider
 
 
 Ruthless Knave
-   |mana_2| |mana_b|, Sacrifice a creature: Create two colorless Treasure artifact tokens with "|tap|, Sacrifice this artifact: Add one mana of any color."
+   |mana_2|\ |mana_b|, Sacrifice a creature: Create two colorless Treasure artifact tokens with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
    Sacrifice three Treasures: Draw a card.
 
@@ -688,7 +688,7 @@ Captain Lannery Storm
 
 
 Captivating Crew
-   |mana_3| |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_r|: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.
 
 
 Charging Monstrosaur
@@ -708,7 +708,7 @@ Dual Shot
 
 
 Fathom Fleet Firebrand
-   |mana_1| |mana_r|: Fathom Fleet Firebrand gets +1/+0 until end of turn.
+   |mana_1|\ |mana_r|: Fathom Fleet Firebrand gets +1/+0 until end of turn.
 
 
 Fiery Cannonade
@@ -718,7 +718,7 @@ Fiery Cannonade
 Fire Shrine Keeper
    Menace
 
-   |mana_7| |mana_r|, |tap|, Sacrifice Fire Shrine Keeper: It deals 3 damage to each of up to two target creatures.
+   |mana_7|\ |mana_r|, |tap|, Sacrifice Fire Shrine Keeper: It deals 3 damage to each of up to two target creatures.
 
 
 Firecannon Blast
@@ -780,7 +780,7 @@ Raptor Hatchling
 Repeating Barrage
    Repeating Barrage deals 3 damage to any target.
 
-   Raid — |mana_3| |mana_r| |mana_r|: Return Repeating Barrage from your graveyard to your hand. Activate this ability only if you attacked with a creature this turn.
+   Raid — |mana_3|\ |mana_r|\ |mana_r|: Return Repeating Barrage from your graveyard to your hand. Activate this ability only if you attacked with a creature this turn.
 
 
 Rigging Runner
@@ -870,7 +870,7 @@ Spitfire Bastion
 
    |tap|: Add |mana_r|.
 
-   |mana_2| |mana_r|, |tap|: Spitfire Bastion deals 3 damage to any target.
+   |mana_2|\ |mana_r|, |tap|: Spitfire Bastion deals 3 damage to any target.
 
 
 Wily Goblin
@@ -970,7 +970,7 @@ Ixalli's Diviner
 
 
 Ixalli's Keeper
-   |mana_7| |mana_g|, |tap|, Sacrifice Ixalli's Keeper: Target creature gets +5/+5 and gains trample until end of turn.
+   |mana_7|\ |mana_g|, |tap|, Sacrifice Ixalli's Keeper: Target creature gets +5/+5 and gains trample until end of turn.
 
 
 Jade Guardian
@@ -980,7 +980,7 @@ Jade Guardian
 
 
 Jungle Delver
-   |mana_3| |mana_g|: Put a +1/+1 counter on Jungle Delver.
+   |mana_3|\ |mana_g|: Put a +1/+1 counter on Jungle Delver.
 
 
 Kumena's Speaker
@@ -1052,7 +1052,7 @@ Spike-Tailed Ceratops
 Thundering Spineback
    Other Dinosaurs you control get +1/+1.
 
-   |mana_5| |mana_g|: Create a 3/3 green Dinosaur creature token with trample.
+   |mana_5|\ |mana_g|: Create a 3/3 green Dinosaur creature token with trample.
 
 
 Tishana's Wayfinder
@@ -1074,7 +1074,7 @@ Vineshaper Mystic
 
 
 Waker of the Wilds
-   |mana_x| |mana_g| |mana_g|: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It's still a land.
+   |mana_x|\ |mana_g|\ |mana_g|: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It's still a land.
 
 
 Wildgrowth Walker
@@ -1098,7 +1098,7 @@ Call to the Feast
 Deadeye Plunderers
    Deadeye Plunderers gets +1/+1 for each artifact you control.
 
-   |mana_2| |mana_u| |mana_b|: Create a colorless Treasure artifact token with "|tap|, Sacrifice this artifact: Add one mana of any color."
+   |mana_2|\ |mana_u|\ |mana_b|: Create a colorless Treasure artifact token with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
 
 Dire Fleet Captain
@@ -1140,9 +1140,9 @@ Regisaur Alpha
 
 
 Shapers of Nature
-   |mana_3| |mana_g|: Put a +1/+1 counter on target creature.
+   |mana_3|\ |mana_g|: Put a +1/+1 counter on target creature.
 
-   |mana_2| |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card.
+   |mana_2|\ |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card.
 
 
 Sky Terror

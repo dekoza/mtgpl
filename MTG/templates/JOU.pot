@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,7 +33,7 @@ msgid "Ajani's Presence"
 msgstr ""
 
 #: ../../JOU.rst:13
-msgid "Strive — This spell costs |mana_2| |mana_w| more to cast for each target beyond the first."
+msgid "Strive — This spell costs |mana_2|\\ |mana_w| more to cast for each target beyond the first."
 msgstr ""
 
 #: ../../JOU.rst:15
@@ -131,7 +131,7 @@ msgid "Font of Vigor"
 msgstr ""
 
 #: ../../JOU.rst:57
-msgid "|mana_2| |mana_w|, Sacrifice Font of Vigor: You gain 7 life."
+msgid "|mana_2|\\ |mana_w|, Sacrifice Font of Vigor: You gain 7 life."
 msgstr ""
 
 #: ../../JOU.rst:68
@@ -237,7 +237,7 @@ msgid "Phalanx Formation"
 msgstr ""
 
 #: ../../JOU.rst:113
-msgid "Strive — This spell costs |mana_1| |mana_w| more to cast for each target beyond the first."
+msgid "Strive — This spell costs |mana_1|\\ |mana_w| more to cast for each target beyond the first."
 msgstr ""
 
 #: ../../JOU.rst:115
@@ -265,7 +265,7 @@ msgid "Sightless Brawler"
 msgstr ""
 
 #: ../../JOU.rst:127
-msgid "Bestow |mana_4| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_4|\\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../JOU.rst:129
@@ -310,7 +310,7 @@ msgid "Stonewise Fortifier"
 msgstr ""
 
 #: ../../JOU.rst:145
-msgid "|mana_4| |mana_w|: Prevent all damage that would be dealt to Stonewise Fortifier by target creature this turn."
+msgid "|mana_4|\\ |mana_w|: Prevent all damage that would be dealt to Stonewise Fortifier by target creature this turn."
 msgstr ""
 
 #: ../../JOU.rst:152
@@ -334,7 +334,7 @@ msgid "Aerial Formation"
 msgstr ""
 
 #: ../../JOU.rst:159
-msgid "Strive — This spell costs |mana_2| |mana_u| more to cast for each target beyond the first."
+msgid "Strive — This spell costs |mana_2|\\ |mana_u| more to cast for each target beyond the first."
 msgstr ""
 
 #: ../../JOU.rst:161
@@ -375,7 +375,7 @@ msgid "Crystalline Nautilus"
 msgstr ""
 
 #: ../../JOU.rst:181
-msgid "Bestow |mana_3| |mana_u| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_3|\\ |mana_u|\\ |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../JOU.rst:183
@@ -415,7 +415,7 @@ msgid "Font of Fortunes"
 msgstr ""
 
 #: ../../JOU.rst:203
-msgid "|mana_1| |mana_u|, Sacrifice Font of Fortunes: Draw two cards."
+msgid "|mana_1|\\ |mana_u|, Sacrifice Font of Fortunes: Draw two cards."
 msgstr ""
 
 #: ../../JOU.rst:208
@@ -432,7 +432,7 @@ msgstr ""
 
 #: ../../JOU.rst:211
 #: ../../JOU.rst:247
-msgid "Strive — This spell costs |mana_1| |mana_u| more to cast for each target beyond the first."
+msgid "Strive — This spell costs |mana_1|\\ |mana_u| more to cast for each target beyond the first."
 msgstr ""
 
 #: ../../JOU.rst:213
@@ -452,7 +452,7 @@ msgid "Hypnotic Siren"
 msgstr ""
 
 #: ../../JOU.rst:221
-msgid "Bestow |mana_5| |mana_u| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_5|\\ |mana_u|\\ |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../JOU.rst:225
@@ -564,7 +564,7 @@ msgid "Thassa's Ire"
 msgstr ""
 
 #: ../../JOU.rst:285
-msgid "|mana_3| |mana_u|: You may tap or untap target creature."
+msgid "|mana_3|\\ |mana_u|: You may tap or untap target creature."
 msgstr ""
 
 #: ../../JOU.rst:290
@@ -649,7 +649,7 @@ msgstr ""
 
 #: ../../JOU.rst:333
 #: ../../JOU.rst:419
-msgid "Strive — This spell costs |mana_2| |mana_b| more to cast for each target beyond the first."
+msgid "Strive — This spell costs |mana_2|\\ |mana_b| more to cast for each target beyond the first."
 msgstr ""
 
 #: ../../JOU.rst:335
@@ -713,7 +713,7 @@ msgid "Font of Return"
 msgstr ""
 
 #: ../../JOU.rst:367
-msgid "|mana_3| |mana_b|, Sacrifice Font of Return: Return up to three target creature cards from your graveyard to your hand."
+msgid "|mana_3|\\ |mana_b|, Sacrifice Font of Return: Return up to three target creature cards from your graveyard to your hand."
 msgstr ""
 
 #: ../../JOU.rst:376
@@ -721,7 +721,7 @@ msgid "Gnarled Scarhide"
 msgstr ""
 
 #: ../../JOU.rst:371
-msgid "Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_3|\\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../JOU.rst:373
@@ -933,7 +933,7 @@ msgid "Font of Ire"
 msgstr ""
 
 #: ../../JOU.rst:491
-msgid "|mana_3| |mana_r|, Sacrifice Font of Ire: It deals 5 damage to target player or planeswalker."
+msgid "|mana_3|\\ |mana_r|, Sacrifice Font of Ire: It deals 5 damage to target player or planeswalker."
 msgstr ""
 
 #: ../../JOU.rst:496
@@ -949,7 +949,7 @@ msgid "Gluttonous Cyclops"
 msgstr ""
 
 #: ../../JOU.rst:499
-msgid "|mana_5| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+msgid "|mana_5|\\ |mana_r|\\ |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
 #: ../../JOU.rst:506
@@ -959,7 +959,7 @@ msgstr ""
 #: ../../JOU.rst:503
 #: ../../JOU.rst:551
 #: ../../JOU.rst:579
-msgid "Strive — This spell costs |mana_2| |mana_r| more to cast for each target beyond the first."
+msgid "Strive — This spell costs |mana_2|\\ |mana_r| more to cast for each target beyond the first."
 msgstr ""
 
 #: ../../JOU.rst:505
@@ -999,7 +999,7 @@ msgid "Mogis's Warhound"
 msgstr ""
 
 #: ../../JOU.rst:525
-msgid "Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_2|\\ |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../JOU.rst:527
@@ -1103,7 +1103,7 @@ msgid "Wildfire Cerberus"
 msgstr ""
 
 #: ../../JOU.rst:585
-msgid "|mana_5| |mana_r| |mana_r|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
+msgid "|mana_5|\\ |mana_r|\\ |mana_r|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)"
 msgstr ""
 
 #: ../../JOU.rst:587
@@ -1124,7 +1124,7 @@ msgstr ""
 
 #: ../../JOU.rst:595
 #: ../../JOU.rst:711
-msgid "Strive — This spell costs |mana_1| |mana_g| more to cast for each target beyond the first."
+msgid "Strive — This spell costs |mana_1|\\ |mana_g| more to cast for each target beyond the first."
 msgstr ""
 
 #: ../../JOU.rst:597
@@ -1137,7 +1137,7 @@ msgstr ""
 
 #: ../../JOU.rst:601
 #: ../../JOU.rst:659
-msgid "Strive — This spell costs |mana_2| |mana_g| more to cast for each target beyond the first."
+msgid "Strive — This spell costs |mana_2|\\ |mana_g| more to cast for each target beyond the first."
 msgstr ""
 
 #: ../../JOU.rst:603
@@ -1173,7 +1173,7 @@ msgid "Font of Fertility"
 msgstr ""
 
 #: ../../JOU.rst:621
-msgid "|mana_1| |mana_g|, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|mana_1|\\ |mana_g|, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
 #: ../../JOU.rst:626
@@ -1201,7 +1201,7 @@ msgid "Heroes' Bane enters the battlefield with four +1/+1 counters on it."
 msgstr ""
 
 #: ../../JOU.rst:635
-msgid "|mana_2| |mana_g| |mana_g|: Put X +1/+1 counters on Heroes' Bane, where X is its power."
+msgid "|mana_2|\\ |mana_g|\\ |mana_g|: Put X +1/+1 counters on Heroes' Bane, where X is its power."
 msgstr ""
 
 #: ../../JOU.rst:640
@@ -1217,7 +1217,7 @@ msgid "Hydra Broodmaster"
 msgstr ""
 
 #: ../../JOU.rst:643
-msgid "|mana_x| |mana_x| |mana_g|: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)"
+msgid "|mana_x|\\ |mana_x|\\ |mana_g|: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
 #: ../../JOU.rst:645
@@ -1297,7 +1297,7 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../JOU.rst:685
-msgid "|mana_6| |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+msgid "|mana_6|\\ |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
 #: ../../JOU.rst:690
@@ -1305,7 +1305,7 @@ msgid "Renowned Weaver"
 msgstr ""
 
 #: ../../JOU.rst:689
-msgid "|mana_1| |mana_g|, Sacrifice Renowned Weaver: Create a 1/3 green Spider enchantment creature token with reach. (It can block creatures with flying.)"
+msgid "|mana_1|\\ |mana_g|, Sacrifice Renowned Weaver: Create a 1/3 green Spider enchantment creature token with reach. (It can block creatures with flying.)"
 msgstr ""
 
 #: ../../JOU.rst:698
@@ -1357,7 +1357,7 @@ msgid "Spirespine"
 msgstr ""
 
 #: ../../JOU.rst:717
-msgid "Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_4|\\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../JOU.rst:719
@@ -1385,7 +1385,7 @@ msgid "When you're dealt combat damage, sacrifice Swarmborn Giant."
 msgstr ""
 
 #: ../../JOU.rst:731
-msgid "|mana_4| |mana_g| |mana_g|: Monstrosity 2. (If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)"
+msgid "|mana_4|\\ |mana_g|\\ |mana_g|: Monstrosity 2. (If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
 #: ../../JOU.rst:733
@@ -1433,7 +1433,7 @@ msgid "Desperate Stand"
 msgstr ""
 
 #: ../../JOU.rst:753
-msgid "Strive — This spell costs |mana_r| |mana_w| more to cast for each target beyond the first."
+msgid "Strive — This spell costs |mana_r|\\ |mana_w| more to cast for each target beyond the first."
 msgstr ""
 
 #: ../../JOU.rst:755
@@ -1457,7 +1457,7 @@ msgid "Flying, deathtouch"
 msgstr ""
 
 #: ../../JOU.rst:767
-msgid "|mana_5| |mana_g| |mana_u|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+msgid "|mana_5|\\ |mana_g|\\ |mana_u|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
 msgstr ""
 
 #: ../../JOU.rst:778
@@ -1517,7 +1517,7 @@ msgid "At the beginning of your upkeep, put the top two cards of your library in
 msgstr ""
 
 #: ../../JOU.rst:803
-msgid "|mana_1| |mana_b| |mana_g|, Exile Nyx Weaver: Return target card from your graveyard to your hand."
+msgid "|mana_1|\\ |mana_b|\\ |mana_g|, Exile Nyx Weaver: Return target card from your graveyard to your hand."
 msgstr ""
 
 #: ../../JOU.rst:812
@@ -1529,7 +1529,7 @@ msgid "As long as your devotion to black and green is less than seven, Pharika i
 msgstr ""
 
 #: ../../JOU.rst:811
-msgid "|mana_b| |mana_g|: Exile target creature card from a graveyard. Its owner creates a 1/1 black and green Snake enchantment creature token with deathtouch."
+msgid "|mana_b|\\ |mana_g|: Exile target creature card from a graveyard. Its owner creates a 1/1 black and green Snake enchantment creature token with deathtouch."
 msgstr ""
 
 #: ../../JOU.rst:816
@@ -1545,7 +1545,7 @@ msgid "Stormchaser Chimera"
 msgstr ""
 
 #: ../../JOU.rst:821
-msgid "|mana_2| |mana_u| |mana_r|: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
+msgid "|mana_2|\\ |mana_u|\\ |mana_r|: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
 msgstr ""
 
 #: ../../JOU.rst:828
@@ -1557,7 +1557,7 @@ msgid "Constellation — Whenever Underworld Coinsmith or another enchantment en
 msgstr ""
 
 #: ../../JOU.rst:827
-msgid "|mana_w| |mana_b|, Pay 1 life: Each opponent loses 1 life."
+msgid "|mana_w|\\ |mana_b|, Pay 1 life: Each opponent loses 1 life."
 msgstr ""
 
 #: ../../JOU.rst:834

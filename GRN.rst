@@ -46,7 +46,7 @@ Crush Contraband
 Dawn of Hope
    Whenever you gain life, you may pay |mana_2|. If you do, draw a card.
 
-   |mana_3| |mana_w|: Create a 1/1 white Soldier creature token with lifelink.
+   |mana_3|\ |mana_w|: Create a 1/1 white Soldier creature token with lifelink.
 
 
 Demotion
@@ -132,7 +132,7 @@ Roc Charger
 
 
 Skyline Scout
-   Whenever Skyline Scout attacks, you may pay |mana_1| |mana_w|. If you do, it gains flying until end of turn.
+   Whenever Skyline Scout attacks, you may pay |mana_1|\ |mana_w|. If you do, it gains flying until end of turn.
 
 
 Sunhome Stalwart
@@ -260,11 +260,11 @@ Nightveil Sprite
 
 
 Omnispell Adept
-   |mana_2| |mana_u|, |tap|: You may cast an instant or sorcery card from your hand without paying its mana cost.
+   |mana_2|\ |mana_u|, |tap|: You may cast an instant or sorcery card from your hand without paying its mana cost.
 
 
 Passwall Adept
-   |mana_2| |mana_u|: Target creature can't be blocked this turn.
+   |mana_2|\ |mana_u|: Target creature can't be blocked this turn.
 
 
 Quasiduplicate
@@ -386,7 +386,7 @@ Hired Poisoner
 Kraul Swarm
    Flying
 
-   |mana_2| |mana_b|, Discard a creature card: Return Kraul Swarm from your graveyard to your hand.
+   |mana_2|\ |mana_b|, Discard a creature card: Return Kraul Swarm from your graveyard to your hand.
 
 
 Lotleth Giant
@@ -422,7 +422,7 @@ Never Happened
 Pilfering Imp
    Flying
 
-   |mana_1| |mana_b|, |tap|, Sacrifice Pilfering Imp: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_b|, |tap|, Sacrifice Pilfering Imp: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
 
 
 Plaguecrafter
@@ -456,7 +456,7 @@ Undercity Necrolisk
 
 
 Veiled Shade
-   |mana_1| |mana_b|: Veiled Shade gets +1/+1 until end of turn.
+   |mana_1|\ |mana_b|: Veiled Shade gets +1/+1 until end of turn.
 
 
 Vicious Rumors
@@ -518,7 +518,7 @@ Experimental Frenzy
 
    You can't play cards from your hand.
 
-   |mana_3| |mana_r|: Destroy Experimental Frenzy.
+   |mana_3|\ |mana_r|: Destroy Experimental Frenzy.
 
 
 Fearless Halberdier
@@ -534,7 +534,7 @@ Fire Urchin
 Goblin Banneret
    Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
 
-   |mana_1| |mana_r|: Goblin Banneret gets +2/+0 until end of turn.
+   |mana_1|\ |mana_r|: Goblin Banneret gets +2/+0 until end of turn.
 
 
 Goblin Cratermaker
@@ -606,7 +606,7 @@ Rubblebelt Boar
 Runaway Steam-Kin
    Whenever you cast a red spell, if Runaway Steam-Kin has fewer than three +1/+1 counters on it, put a +1/+1 counter on Runaway Steam-Kin.
 
-   Remove three +1/+1 counters from Runaway Steam-Kin: Add |mana_r| |mana_r| |mana_r|.
+   Remove three +1/+1 counters from Runaway Steam-Kin: Add |mana_r|\ |mana_r|\ |mana_r|.
 
 
 Smelt-Ward Minotaur
@@ -668,7 +668,7 @@ Crushing Canopy
 
 
 Devkarin Dissident
-   |mana_4| |mana_g|: Devkarin Dissident gets +2/+2 until end of turn.
+   |mana_4|\ |mana_g|: Devkarin Dissident gets +2/+2 until end of turn.
 
 
 District Guide
@@ -688,7 +688,7 @@ Golgari Raiders
 Grappling Sundew
    Defender, reach
 
-   |mana_4| |mana_g|: Grappling Sundew gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy this creature.)
+   |mana_4|\ |mana_g|: Grappling Sundew gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy this creature.)
 
 
 Hatchery Spider
@@ -832,7 +832,7 @@ Beamsplitter Mage
 Boros Challenger
    Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
 
-   |mana_2| |mana_r| |mana_w|: Boros Challenger gets +1/+1 until end of turn.
+   |mana_2|\ |mana_r|\ |mana_w|: Boros Challenger gets +1/+1 until end of turn.
 
 
 Camaraderie
@@ -852,7 +852,7 @@ Charnel Troll
 
    At the beginning of your upkeep, exile a creature card from your graveyard. If you do, put a +1/+1 counter on Charnel Troll. Otherwise, sacrifice it.
 
-   |mana_b| |mana_g|, Discard a creature card: Put a +1/+1 counter on Charnel Troll.
+   |mana_b|\ |mana_g|, Discard a creature card: Put a +1/+1 counter on Charnel Troll.
 
 
 Conclave Cavalier
@@ -864,7 +864,7 @@ Conclave Cavalier
 Conclave Guildmage
    |mana_g|, |tap|: Creatures you control gain trample until end of turn.
 
-   |mana_5| |mana_w|, |tap|: Create a 2/2 green and white Elf Knight creature token with vigilance.
+   |mana_5|\ |mana_w|, |tap|: Create a 2/2 green and white Elf Knight creature token with vigilance.
 
 
 Crackling Drake
@@ -918,9 +918,9 @@ Etrata, the Silencer
 Firemind's Research
    Whenever you cast an instant or sorcery spell, put a charge counter on Firemind's Research.
 
-   |mana_1| |mana_u|, Remove two charge counters from Firemind's Research: Draw a card.
+   |mana_1|\ |mana_u|, Remove two charge counters from Firemind's Research: Draw a card.
 
-   |mana_1| |mana_r|, Remove five charge counters from Firemind's Research: It deals 5 damage to any target.
+   |mana_1|\ |mana_r|, Remove five charge counters from Firemind's Research: It deals 5 damage to any target.
 
 
 Garrison Sergeant
@@ -944,9 +944,9 @@ Hammer Dropper
 
 
 House Guildmage
-   |mana_1| |mana_u|, |tap|: Target creature doesn't untap during its controller's next untap step.
+   |mana_1|\ |mana_u|, |tap|: Target creature doesn't untap during its controller's next untap step.
 
-   |mana_2| |mana_b|, |tap|: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+   |mana_2|\ |mana_b|, |tap|: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 
 
 Hypothesizzle
@@ -960,7 +960,7 @@ Ionize
 Izoni, Thousand-Eyed
    Undergrowth — When Izoni, Thousand-Eyed enters the battlefield, create a 1/1 black and green Insect creature token for each creature card in your graveyard.
 
-   |mana_b| |mana_g|, Sacrifice another creature: You gain 1 life and draw a card.
+   |mana_b|\ |mana_g|, Sacrifice another creature: You gain 1 life and draw a card.
 
 
 Join Shields
@@ -988,21 +988,21 @@ Lazav, the Multifarious
 
 
 League Guildmage
-   |mana_3| |mana_u|, |tap|: Draw a card.
+   |mana_3|\ |mana_u|, |tap|: Draw a card.
 
-   |mana_x| |mana_r|, |tap|: Copy target instant or sorcery spell you control with converted mana cost X. You may choose new targets for the copy.
+   |mana_x|\ |mana_r|, |tap|: Copy target instant or sorcery spell you control with converted mana cost X. You may choose new targets for the copy.
 
 
 Ledev Champion
    Whenever Ledev Champion attacks, you may tap any number of untapped creatures you control. Ledev Champion gets +1/+1 until end of turn for each creature tapped this way.
 
-   |mana_3| |mana_g| |mana_w|: Create a 1/1 white Soldier creature token with lifelink.
+   |mana_3|\ |mana_g|\ |mana_w|: Create a 1/1 white Soldier creature token with lifelink.
 
 
 Legion Guildmage
-   |mana_5| |mana_r|, |tap|: Legion Guildmage deals 3 damage to each opponent.
+   |mana_5|\ |mana_r|, |tap|: Legion Guildmage deals 3 damage to each opponent.
 
-   |mana_2| |mana_w|, |tap|: Tap another target creature.
+   |mana_2|\ |mana_w|, |tap|: Tap another target creature.
 
 
 March of the Multitudes
@@ -1082,9 +1082,9 @@ Sumala Woodshaper
 
 
 Swarm Guildmage
-   |mana_4| |mana_b|, |tap|: Creatures you control get +1/+0 and gain menace until end of turn. (They can't be blocked except by two or more creatures.)
+   |mana_4|\ |mana_b|, |tap|: Creatures you control get +1/+0 and gain menace until end of turn. (They can't be blocked except by two or more creatures.)
 
-   |mana_1| |mana_g|, |tap|: You gain 2 life.
+   |mana_1|\ |mana_g|, |tap|: You gain 2 life.
 
 
 Swathcutter Giant
@@ -1104,7 +1104,7 @@ Tajic, Legion's Edge
 
    Prevent all noncombat damage that would be dealt to other creatures you control.
 
-   |mana_r| |mana_w|: Tajic, Legion's Edge gains first strike until end of turn.
+   |mana_r|\ |mana_w|: Tajic, Legion's Edge gains first strike until end of turn.
 
 
 Thief of Sanity
@@ -1278,7 +1278,7 @@ Statue
 Boros Locket
    |tap|: Add |mana_r| or |mana_w|.
 
-   |mana_rw| |mana_rw| |mana_rw| |mana_rw|, |tap|, Sacrifice Boros Locket: Draw two cards.
+   |mana_rw|\ |mana_rw|\ |mana_rw|\ |mana_rw|, |tap|, Sacrifice Boros Locket: Draw two cards.
 
 
 Chamber Sentry
@@ -1286,7 +1286,7 @@ Chamber Sentry
 
    |mana_x|, |tap|, Remove X +1/+1 counters from Chamber Sentry: It deals X damage to any target.
 
-   |mana_w| |mana_u| |mana_b| |mana_r| |mana_g|: Return Chamber Sentry from your graveyard to your hand.
+   |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Return Chamber Sentry from your graveyard to your hand.
 
 
 Chromatic Lantern
@@ -1298,7 +1298,7 @@ Chromatic Lantern
 Dimir Locket
    |tap|: Add |mana_u| or |mana_b|.
 
-   |mana_ub| |mana_ub| |mana_ub| |mana_ub|, |tap|, Sacrifice Dimir Locket: Draw two cards.
+   |mana_ub|\ |mana_ub|\ |mana_ub|\ |mana_ub|, |tap|, Sacrifice Dimir Locket: Draw two cards.
 
 
 Gatekeeper Gargoyle
@@ -1316,13 +1316,13 @@ Glaive of the Guildpact
 Golgari Locket
    |tap|: Add |mana_b| or |mana_g|.
 
-   |mana_bg| |mana_bg| |mana_bg| |mana_bg|, |tap|, Sacrifice Golgari Locket: Draw two cards.
+   |mana_bg|\ |mana_bg|\ |mana_bg|\ |mana_bg|, |tap|, Sacrifice Golgari Locket: Draw two cards.
 
 
 Izzet Locket
    |tap|: Add |mana_u| or |mana_r|.
 
-   |mana_ur| |mana_ur| |mana_ur| |mana_ur|, |tap|, Sacrifice Izzet Locket: Draw two cards.
+   |mana_ur|\ |mana_ur|\ |mana_ur|\ |mana_ur|, |tap|, Sacrifice Izzet Locket: Draw two cards.
 
 
 Rampaging Monument
@@ -1336,7 +1336,7 @@ Rampaging Monument
 Selesnya Locket
    |tap|: Add |mana_g| or |mana_w|.
 
-   |mana_gw| |mana_gw| |mana_gw| |mana_gw|, |tap|, Sacrifice Selesnya Locket: Draw two cards.
+   |mana_gw|\ |mana_gw|\ |mana_gw|\ |mana_gw|, |tap|, Sacrifice Selesnya Locket: Draw two cards.
 
 
 Silent Dart

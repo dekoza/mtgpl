@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -143,7 +143,7 @@ msgid "Whenever you gain life, you may pay |mana_2|. If you do, draw a card."
 msgstr ""
 
 #: ../../GRN.rst:49
-msgid "|mana_3| |mana_w|: Create a 1/1 white Soldier creature token with lifelink."
+msgid "|mana_3|\\ |mana_w|: Create a 1/1 white Soldier creature token with lifelink."
 msgstr ""
 
 #: ../../GRN.rst:56
@@ -294,7 +294,7 @@ msgid "Skyline Scout"
 msgstr ""
 
 #: ../../GRN.rst:135
-msgid "Whenever Skyline Scout attacks, you may pay |mana_1| |mana_w|. If you do, it gains flying until end of turn."
+msgid "Whenever Skyline Scout attacks, you may pay |mana_1|\\ |mana_w|. If you do, it gains flying until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:142
@@ -524,7 +524,7 @@ msgid "Omnispell Adept"
 msgstr ""
 
 #: ../../GRN.rst:263
-msgid "|mana_2| |mana_u|, |tap|: You may cast an instant or sorcery card from your hand without paying its mana cost."
+msgid "|mana_2|\\ |mana_u|, |tap|: You may cast an instant or sorcery card from your hand without paying its mana cost."
 msgstr ""
 
 #: ../../GRN.rst:268
@@ -532,7 +532,7 @@ msgid "Passwall Adept"
 msgstr ""
 
 #: ../../GRN.rst:267
-msgid "|mana_2| |mana_u|: Target creature can't be blocked this turn."
+msgid "|mana_2|\\ |mana_u|: Target creature can't be blocked this turn."
 msgstr ""
 
 #: ../../GRN.rst:274
@@ -734,7 +734,7 @@ msgid "Kraul Swarm"
 msgstr ""
 
 #: ../../GRN.rst:389
-msgid "|mana_2| |mana_b|, Discard a creature card: Return Kraul Swarm from your graveyard to your hand."
+msgid "|mana_2|\\ |mana_b|, Discard a creature card: Return Kraul Swarm from your graveyard to your hand."
 msgstr ""
 
 #: ../../GRN.rst:394
@@ -798,7 +798,7 @@ msgid "Pilfering Imp"
 msgstr ""
 
 #: ../../GRN.rst:425
-msgid "|mana_1| |mana_b|, |tap|, Sacrifice Pilfering Imp: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_1|\\ |mana_b|, |tap|, Sacrifice Pilfering Imp: Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../GRN.rst:430
@@ -858,7 +858,7 @@ msgid "Veiled Shade"
 msgstr ""
 
 #: ../../GRN.rst:459
-msgid "|mana_1| |mana_b|: Veiled Shade gets +1/+1 until end of turn."
+msgid "|mana_1|\\ |mana_b|: Veiled Shade gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:464
@@ -975,7 +975,7 @@ msgid "You can't play cards from your hand."
 msgstr ""
 
 #: ../../GRN.rst:521
-msgid "|mana_3| |mana_r|: Destroy Experimental Frenzy."
+msgid "|mana_3|\\ |mana_r|: Destroy Experimental Frenzy."
 msgstr ""
 
 #: ../../GRN.rst:524
@@ -995,7 +995,7 @@ msgid "Goblin Banneret"
 msgstr ""
 
 #: ../../GRN.rst:537
-msgid "|mana_1| |mana_r|: Goblin Banneret gets +2/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|: Goblin Banneret gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:546
@@ -1116,7 +1116,7 @@ msgid "Whenever you cast a red spell, if Runaway Steam-Kin has fewer than three 
 msgstr ""
 
 #: ../../GRN.rst:609
-msgid "Remove three +1/+1 counters from Runaway Steam-Kin: Add |mana_r| |mana_r| |mana_r|."
+msgid "Remove three +1/+1 counters from Runaway Steam-Kin: Add |mana_r|\\ |mana_r|\\ |mana_r|."
 msgstr ""
 
 #: ../../GRN.rst:614
@@ -1225,7 +1225,7 @@ msgid "Devkarin Dissident"
 msgstr ""
 
 #: ../../GRN.rst:671
-msgid "|mana_4| |mana_g|: Devkarin Dissident gets +2/+2 until end of turn."
+msgid "|mana_4|\\ |mana_g|: Devkarin Dissident gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:676
@@ -1261,7 +1261,7 @@ msgid "Defender, reach"
 msgstr ""
 
 #: ../../GRN.rst:691
-msgid "|mana_4| |mana_g|: Grappling Sundew gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy this creature.)"
+msgid "|mana_4|\\ |mana_g|: Grappling Sundew gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy this creature.)"
 msgstr ""
 
 #: ../../GRN.rst:698
@@ -1484,7 +1484,7 @@ msgid "Boros Challenger"
 msgstr ""
 
 #: ../../GRN.rst:835
-msgid "|mana_2| |mana_r| |mana_w|: Boros Challenger gets +1/+1 until end of turn."
+msgid "|mana_2|\\ |mana_r|\\ |mana_w|: Boros Challenger gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:840
@@ -1520,7 +1520,7 @@ msgid "At the beginning of your upkeep, exile a creature card from your graveyar
 msgstr ""
 
 #: ../../GRN.rst:855
-msgid "|mana_b| |mana_g|, Discard a creature card: Put a +1/+1 counter on Charnel Troll."
+msgid "|mana_b|\\ |mana_g|, Discard a creature card: Put a +1/+1 counter on Charnel Troll."
 msgstr ""
 
 #: ../../GRN.rst:862
@@ -1540,7 +1540,7 @@ msgid "|mana_g|, |tap|: Creatures you control gain trample until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:867
-msgid "|mana_5| |mana_w|, |tap|: Create a 2/2 green and white Elf Knight creature token with vigilance."
+msgid "|mana_5|\\ |mana_w|, |tap|: Create a 2/2 green and white Elf Knight creature token with vigilance."
 msgstr ""
 
 #: ../../GRN.rst:876
@@ -1637,11 +1637,11 @@ msgid "Whenever you cast an instant or sorcery spell, put a charge counter on Fi
 msgstr ""
 
 #: ../../GRN.rst:921
-msgid "|mana_1| |mana_u|, Remove two charge counters from Firemind's Research: Draw a card."
+msgid "|mana_1|\\ |mana_u|, Remove two charge counters from Firemind's Research: Draw a card."
 msgstr ""
 
 #: ../../GRN.rst:923
-msgid "|mana_1| |mana_r|, Remove five charge counters from Firemind's Research: It deals 5 damage to any target."
+msgid "|mana_1|\\ |mana_r|, Remove five charge counters from Firemind's Research: It deals 5 damage to any target."
 msgstr ""
 
 #: ../../GRN.rst:928
@@ -1685,11 +1685,11 @@ msgid "House Guildmage"
 msgstr ""
 
 #: ../../GRN.rst:947
-msgid "|mana_1| |mana_u|, |tap|: Target creature doesn't untap during its controller's next untap step."
+msgid "|mana_1|\\ |mana_u|, |tap|: Target creature doesn't untap during its controller's next untap step."
 msgstr ""
 
 #: ../../GRN.rst:949
-msgid "|mana_2| |mana_b|, |tap|: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+msgid "|mana_2|\\ |mana_b|, |tap|: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
 msgstr ""
 
 #: ../../GRN.rst:954
@@ -1717,7 +1717,7 @@ msgid "Undergrowth — When Izoni, Thousand-Eyed enters the battlefield, create 
 msgstr ""
 
 #: ../../GRN.rst:963
-msgid "|mana_b| |mana_g|, Sacrifice another creature: You gain 1 life and draw a card."
+msgid "|mana_b|\\ |mana_g|, Sacrifice another creature: You gain 1 life and draw a card."
 msgstr ""
 
 #: ../../GRN.rst:968
@@ -1769,11 +1769,11 @@ msgid "League Guildmage"
 msgstr ""
 
 #: ../../GRN.rst:991
-msgid "|mana_3| |mana_u|, |tap|: Draw a card."
+msgid "|mana_3|\\ |mana_u|, |tap|: Draw a card."
 msgstr ""
 
 #: ../../GRN.rst:993
-msgid "|mana_x| |mana_r|, |tap|: Copy target instant or sorcery spell you control with converted mana cost X. You may choose new targets for the copy."
+msgid "|mana_x|\\ |mana_r|, |tap|: Copy target instant or sorcery spell you control with converted mana cost X. You may choose new targets for the copy."
 msgstr ""
 
 #: ../../GRN.rst:1000
@@ -1785,7 +1785,7 @@ msgid "Whenever Ledev Champion attacks, you may tap any number of untapped creat
 msgstr ""
 
 #: ../../GRN.rst:999
-msgid "|mana_3| |mana_g| |mana_w|: Create a 1/1 white Soldier creature token with lifelink."
+msgid "|mana_3|\\ |mana_g|\\ |mana_w|: Create a 1/1 white Soldier creature token with lifelink."
 msgstr ""
 
 #: ../../GRN.rst:1006
@@ -1793,11 +1793,11 @@ msgid "Legion Guildmage"
 msgstr ""
 
 #: ../../GRN.rst:1003
-msgid "|mana_5| |mana_r|, |tap|: Legion Guildmage deals 3 damage to each opponent."
+msgid "|mana_5|\\ |mana_r|, |tap|: Legion Guildmage deals 3 damage to each opponent."
 msgstr ""
 
 #: ../../GRN.rst:1005
-msgid "|mana_2| |mana_w|, |tap|: Tap another target creature."
+msgid "|mana_2|\\ |mana_w|, |tap|: Tap another target creature."
 msgstr ""
 
 #: ../../GRN.rst:1012
@@ -1921,11 +1921,11 @@ msgid "Swarm Guildmage"
 msgstr ""
 
 #: ../../GRN.rst:1085
-msgid "|mana_4| |mana_b|, |tap|: Creatures you control get +1/+0 and gain menace until end of turn. (They can't be blocked except by two or more creatures.)"
+msgid "|mana_4|\\ |mana_b|, |tap|: Creatures you control get +1/+0 and gain menace until end of turn. (They can't be blocked except by two or more creatures.)"
 msgstr ""
 
 #: ../../GRN.rst:1087
-msgid "|mana_1| |mana_g|, |tap|: You gain 2 life."
+msgid "|mana_1|\\ |mana_g|, |tap|: You gain 2 life."
 msgstr ""
 
 #: ../../GRN.rst:1094
@@ -1953,7 +1953,7 @@ msgid "Prevent all noncombat damage that would be dealt to other creatures you c
 msgstr ""
 
 #: ../../GRN.rst:1107
-msgid "|mana_r| |mana_w|: Tajic, Legion's Edge gains first strike until end of turn."
+msgid "|mana_r|\\ |mana_w|: Tajic, Legion's Edge gains first strike until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:1114
@@ -2271,7 +2271,7 @@ msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
 #: ../../GRN.rst:1281
-msgid "|mana_rw| |mana_rw| |mana_rw| |mana_rw|, |tap|, Sacrifice Boros Locket: Draw two cards."
+msgid "|mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|, |tap|, Sacrifice Boros Locket: Draw two cards."
 msgstr ""
 
 #: ../../GRN.rst:1290
@@ -2287,7 +2287,7 @@ msgid "|mana_x|, |tap|, Remove X +1/+1 counters from Chamber Sentry: It deals X 
 msgstr ""
 
 #: ../../GRN.rst:1289
-msgid "|mana_w| |mana_u| |mana_b| |mana_r| |mana_g|: Return Chamber Sentry from your graveyard to your hand."
+msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Return Chamber Sentry from your graveyard to your hand."
 msgstr ""
 
 #: ../../GRN.rst:1296
@@ -2314,7 +2314,7 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
 #: ../../GRN.rst:1301
-msgid "|mana_ub| |mana_ub| |mana_ub| |mana_ub|, |tap|, Sacrifice Dimir Locket: Draw two cards."
+msgid "|mana_ub|\\ |mana_ub|\\ |mana_ub|\\ |mana_ub|, |tap|, Sacrifice Dimir Locket: Draw two cards."
 msgstr ""
 
 #: ../../GRN.rst:1308
@@ -2348,7 +2348,7 @@ msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr ""
 
 #: ../../GRN.rst:1319
-msgid "|mana_bg| |mana_bg| |mana_bg| |mana_bg|, |tap|, Sacrifice Golgari Locket: Draw two cards."
+msgid "|mana_bg|\\ |mana_bg|\\ |mana_bg|\\ |mana_bg|, |tap|, Sacrifice Golgari Locket: Draw two cards."
 msgstr ""
 
 #: ../../GRN.rst:1326
@@ -2362,7 +2362,7 @@ msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
 #: ../../GRN.rst:1325
-msgid "|mana_ur| |mana_ur| |mana_ur| |mana_ur|, |tap|, Sacrifice Izzet Locket: Draw two cards."
+msgid "|mana_ur|\\ |mana_ur|\\ |mana_ur|\\ |mana_ur|, |tap|, Sacrifice Izzet Locket: Draw two cards."
 msgstr ""
 
 #: ../../GRN.rst:1334
@@ -2388,7 +2388,7 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
 #: ../../GRN.rst:1339
-msgid "|mana_gw| |mana_gw| |mana_gw| |mana_gw|, |tap|, Sacrifice Selesnya Locket: Draw two cards."
+msgid "|mana_gw|\\ |mana_gw|\\ |mana_gw|\\ |mana_gw|, |tap|, Sacrifice Selesnya Locket: Draw two cards."
 msgstr ""
 
 #: ../../GRN.rst:1344

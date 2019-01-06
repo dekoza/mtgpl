@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,11 +54,11 @@ msgid "Flying, vigilance"
 msgstr ""
 
 #: ../../M15.rst:23
-msgid "|mana_1| |mana_w|: Prevent all damage that would be dealt to another target creature this turn by sources of the color of your choice."
+msgid "|mana_1|\\ |mana_w|: Prevent all damage that would be dealt to another target creature this turn by sources of the color of your choice."
 msgstr ""
 
 #: ../../M15.rst:25
-msgid "|mana_5| |mana_w| |mana_w|: Prevent all damage that would be dealt to target player or planeswalker this turn by sources of the color of your choice."
+msgid "|mana_5|\\ |mana_w|\\ |mana_w|: Prevent all damage that would be dealt to target player or planeswalker this turn by sources of the color of your choice."
 msgstr ""
 
 #: ../../M15.rst:32
@@ -117,7 +117,7 @@ msgid "Dauntless River Marshal gets +1/+1 as long as you control an Island."
 msgstr ""
 
 #: ../../M15.rst:49
-msgid "|mana_3| |mana_u|: Tap target creature."
+msgid "|mana_3|\\ |mana_u|: Tap target creature."
 msgstr ""
 
 #: ../../M15.rst:56
@@ -366,7 +366,7 @@ msgid "Selfless Cathar"
 msgstr ""
 
 #: ../../M15.rst:171
-msgid "|mana_1| |mana_w|, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn."
+msgid "|mana_1|\\ |mana_w|, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn."
 msgstr ""
 
 #: ../../M15.rst:180
@@ -394,11 +394,11 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../M15.rst:189
-msgid "|mana_4| |mana_w| |mana_w|: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn."
+msgid "|mana_4|\\ |mana_w|\\ |mana_w|: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn."
 msgstr ""
 
 #: ../../M15.rst:191
-msgid "|mana_4| |mana_w| |mana_w|, Exile Soul of Theros from your graveyard: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn."
+msgid "|mana_4|\\ |mana_w|\\ |mana_w|, Exile Soul of Theros from your graveyard: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn."
 msgstr ""
 
 #: ../../M15.rst:196
@@ -426,7 +426,7 @@ msgid "Whenever a nontoken creature enters the battlefield under your control, y
 msgstr ""
 
 #: ../../M15.rst:207
-msgid "|mana_1| |mana_w|, Sacrifice a Spirit: Target non-Spirit creature gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
+msgid "|mana_1|\\ |mana_w|, Sacrifice a Spirit: Target non-Spirit creature gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
 
 #: ../../M15.rst:214
@@ -505,7 +505,7 @@ msgid "Amphin Pathmage"
 msgstr ""
 
 #: ../../M15.rst:247
-msgid "|mana_2| |mana_u|: Target creature can't be blocked this turn."
+msgid "|mana_2|\\ |mana_u|: Target creature can't be blocked this turn."
 msgstr ""
 
 #: ../../M15.rst:254
@@ -678,7 +678,7 @@ msgid "Jalira, Master Polymorphist"
 msgstr ""
 
 #: ../../M15.rst:341
-msgid "|mana_2| |mana_u|, |tap|, Sacrifice another creature: Reveal cards from the top of your library until you reveal a nonlegendary creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order."
+msgid "|mana_2|\\ |mana_u|, |tap|, Sacrifice another creature: Reveal cards from the top of your library until you reveal a nonlegendary creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order."
 msgstr ""
 
 #: ../../M15.rst:348
@@ -690,7 +690,7 @@ msgid "Jorubai Murk Lurker gets +1/+1 as long as you control a Swamp."
 msgstr ""
 
 #: ../../M15.rst:347
-msgid "|mana_1| |mana_b|: Target creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)"
+msgid "|mana_1|\\ |mana_b|: Target creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)"
 msgstr ""
 
 #: ../../M15.rst:354
@@ -714,7 +714,7 @@ msgid "Mercurial Pretender"
 msgstr ""
 
 #: ../../M15.rst:363
-msgid "You may have Mercurial Pretender enter the battlefield as a copy of any creature you control, except it has \"|mana_2| |mana_u| |mana_u|: Return this creature to its owner's hand.\""
+msgid "You may have Mercurial Pretender enter the battlefield as a copy of any creature you control, except it has \"|mana_2|\\ |mana_u|\\ |mana_u|: Return this creature to its owner's hand.\""
 msgstr ""
 
 #: ../../M15.rst:368
@@ -790,7 +790,7 @@ msgid "Research Assistant"
 msgstr ""
 
 #: ../../M15.rst:405
-msgid "|mana_3| |mana_u|, |tap|: Draw a card, then discard a card."
+msgid "|mana_3|\\ |mana_u|, |tap|: Draw a card, then discard a card."
 msgstr ""
 
 #: ../../M15.rst:414
@@ -798,11 +798,11 @@ msgid "Soul of Ravnica"
 msgstr ""
 
 #: ../../M15.rst:411
-msgid "|mana_5| |mana_u| |mana_u|: Draw a card for each color among permanents you control."
+msgid "|mana_5|\\ |mana_u|\\ |mana_u|: Draw a card for each color among permanents you control."
 msgstr ""
 
 #: ../../M15.rst:413
-msgid "|mana_5| |mana_u| |mana_u|, Exile Soul of Ravnica from your graveyard: Draw a card for each color among permanents you control."
+msgid "|mana_5|\\ |mana_u|\\ |mana_u|, Exile Soul of Ravnica from your graveyard: Draw a card for each color among permanents you control."
 msgstr ""
 
 #: ../../M15.rst:418
@@ -887,7 +887,7 @@ msgid "Blood Host"
 msgstr ""
 
 #: ../../M15.rst:457
-msgid "|mana_1| |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Blood Host and you gain 2 life."
+msgid "|mana_1|\\ |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Blood Host and you gain 2 life."
 msgstr ""
 
 #: ../../M15.rst:464
@@ -940,7 +940,7 @@ msgid "|mana_b|, |tap|, Pay 1 life: Put a +1/+1 counter on Cruel Sadist."
 msgstr ""
 
 #: ../../M15.rst:491
-msgid "|mana_2| |mana_b|, |tap|, Remove X +1/+1 counters from Cruel Sadist: Cruel Sadist deals X damage to target creature."
+msgid "|mana_2|\\ |mana_b|, |tap|, Remove X +1/+1 counters from Cruel Sadist: Cruel Sadist deals X damage to target creature."
 msgstr ""
 
 #: ../../M15.rst:498
@@ -1068,7 +1068,7 @@ msgid "Necromancer's Stockpile"
 msgstr ""
 
 #: ../../M15.rst:563
-msgid "|mana_1| |mana_b|, Discard a creature card: Draw a card. If the discarded card was a Zombie card, create a tapped 2/2 black Zombie creature token."
+msgid "|mana_1|\\ |mana_b|, Discard a creature card: Draw a card. If the discarded card was a Zombie card, create a tapped 2/2 black Zombie creature token."
 msgstr ""
 
 #: ../../M15.rst:570
@@ -1080,7 +1080,7 @@ msgid "Nightfire Giant gets +1/+1 as long as you control a Mountain."
 msgstr ""
 
 #: ../../M15.rst:569
-msgid "|mana_4| |mana_r|: Nightfire Giant deals 2 damage to any target."
+msgid "|mana_4|\\ |mana_r|: Nightfire Giant deals 2 damage to any target."
 msgstr ""
 
 #: ../../M15.rst:578
@@ -1108,7 +1108,7 @@ msgid "Other black creatures you control get +1/+1."
 msgstr ""
 
 #: ../../M15.rst:583
-msgid "|mana_2| |mana_b|, |tap|: Another target black creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
+msgid "|mana_2|\\ |mana_b|, |tap|: Another target black creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
 
 #: ../../M15.rst:588
@@ -1144,11 +1144,11 @@ msgid "Deathtouch"
 msgstr ""
 
 #: ../../M15.rst:601
-msgid "|mana_3| |mana_b| |mana_b|: Return up to three target creature cards from your graveyard to your hand."
+msgid "|mana_3|\\ |mana_b|\\ |mana_b|: Return up to three target creature cards from your graveyard to your hand."
 msgstr ""
 
 #: ../../M15.rst:603
-msgid "|mana_3| |mana_b| |mana_b|, Exile Soul of Innistrad from your graveyard: Return up to three target creature cards from your graveyard to your hand."
+msgid "|mana_3|\\ |mana_b|\\ |mana_b|, Exile Soul of Innistrad from your graveyard: Return up to three target creature cards from your graveyard to your hand."
 msgstr ""
 
 #: ../../M15.rst:612
@@ -1205,7 +1205,7 @@ msgid "Whenever you gain life, put a +1/+1 counter on Wall of Limbs."
 msgstr ""
 
 #: ../../M15.rst:639
-msgid "|mana_5| |mana_b| |mana_b|, Sacrifice Wall of Limbs: Target player loses X life, where X is Wall of Limbs's power."
+msgid "|mana_5|\\ |mana_b|\\ |mana_b|, Sacrifice Wall of Limbs: Target player loses X life, where X is Wall of Limbs's power."
 msgstr ""
 
 #: ../../M15.rst:648
@@ -1217,7 +1217,7 @@ msgid "Whenever an opponent discards a creature card, create a 2/2 black Zombie 
 msgstr ""
 
 #: ../../M15.rst:645
-msgid "Whenever an opponent discards a land card, add |mana_b| |mana_b|."
+msgid "Whenever an opponent discards a land card, add |mana_b|\\ |mana_b|."
 msgstr ""
 
 #: ../../M15.rst:647
@@ -1237,7 +1237,7 @@ msgid "Hexproof (This creature can't be the target of spells or abilities your o
 msgstr ""
 
 #: ../../M15.rst:657
-msgid "|mana_3| |mana_b|: Until end of turn, Xathrid Slyblade loses hexproof and gains first strike and deathtouch. (It deals combat damage before creatures without first strike. Any amount of damage it deals to a creature is enough to destroy it.)"
+msgid "|mana_3|\\ |mana_b|: Until end of turn, Xathrid Slyblade loses hexproof and gains first strike and deathtouch. (It deals combat damage before creatures without first strike. Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
 
 #: ../../M15.rst:662
@@ -1245,7 +1245,7 @@ msgid "Zof Shade"
 msgstr ""
 
 #: ../../M15.rst:661
-msgid "|mana_2| |mana_b|: Zof Shade gets +2/+2 until end of turn."
+msgid "|mana_2|\\ |mana_b|: Zof Shade gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../M15.rst:666
@@ -1401,7 +1401,7 @@ msgid "Generator Servant"
 msgstr ""
 
 #: ../../M15.rst:743
-msgid "|tap|, Sacrifice Generator Servant: Add |colorless| |colorless|. If that mana is spent on a creature spell, it gains haste until end of turn. (That creature can attack and |tap| as soon as it comes under your control.)"
+msgid "|tap|, Sacrifice Generator Servant: Add |colorless|\\ |colorless|. If that mana is spent on a creature spell, it gains haste until end of turn. (That creature can attack and |tap| as soon as it comes under your control.)"
 msgstr ""
 
 #: ../../M15.rst:748
@@ -1489,7 +1489,7 @@ msgid "Kird Chieftain gets +1/+1 as long as you control a Forest."
 msgstr ""
 
 #: ../../M15.rst:793
-msgid "|mana_4| |mana_g|: Target creature gets +2/+2 and gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)"
+msgid "|mana_4|\\ |mana_g|: Target creature gets +2/+2 and gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)"
 msgstr ""
 
 #: ../../M15.rst:798
@@ -1533,7 +1533,7 @@ msgid "Miner's Bane"
 msgstr ""
 
 #: ../../M15.rst:817
-msgid "|mana_2| |mana_r|: Miner's Bane gets +1/+0 and gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)"
+msgid "|mana_2|\\ |mana_r|: Miner's Bane gets +1/+0 and gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)"
 msgstr ""
 
 #: ../../M15.rst:824
@@ -1597,11 +1597,11 @@ msgid "First strike"
 msgstr ""
 
 #: ../../M15.rst:851
-msgid "|mana_3| |mana_r| |mana_r|: Soul of Shandalar deals 3 damage to target player or planeswalker and 3 damage to up to one target creature that player or that planeswalker's controller controls."
+msgid "|mana_3|\\ |mana_r|\\ |mana_r|: Soul of Shandalar deals 3 damage to target player or planeswalker and 3 damage to up to one target creature that player or that planeswalker's controller controls."
 msgstr ""
 
 #: ../../M15.rst:853
-msgid "|mana_3| |mana_r| |mana_r|, Exile Soul of Shandalar from your graveyard: Soul of Shandalar deals 3 damage to target player or planeswalker and 3 damage to up to one target creature that player or that planeswalker's controller controls."
+msgid "|mana_3|\\ |mana_r|\\ |mana_r|, Exile Soul of Shandalar from your graveyard: Soul of Shandalar deals 3 damage to target player or planeswalker and 3 damage to up to one target creature that player or that planeswalker's controller controls."
 msgstr ""
 
 #: ../../M15.rst:860
@@ -1657,7 +1657,7 @@ msgid "Carnivorous Moss-Beast"
 msgstr ""
 
 #: ../../M15.rst:885
-msgid "|mana_5| |mana_g| |mana_g|: Put a +1/+1 counter on Carnivorous Moss-Beast."
+msgid "|mana_5|\\ |mana_g|\\ |mana_g|: Put a +1/+1 counter on Carnivorous Moss-Beast."
 msgstr ""
 
 #: ../../M15.rst:890
@@ -1929,11 +1929,11 @@ msgid "Reach"
 msgstr ""
 
 #: ../../M15.rst:1045
-msgid "|mana_3| |mana_g| |mana_g|: Create a 3/3 green Beast creature token."
+msgid "|mana_3|\\ |mana_g|\\ |mana_g|: Create a 3/3 green Beast creature token."
 msgstr ""
 
 #: ../../M15.rst:1047
-msgid "|mana_3| |mana_g| |mana_g|, Exile Soul of Zendikar from your graveyard: Create a 3/3 green Beast creature token."
+msgid "|mana_3|\\ |mana_g|\\ |mana_g|, Exile Soul of Zendikar from your graveyard: Create a 3/3 green Beast creature token."
 msgstr ""
 
 #: ../../M15.rst:1054
@@ -1945,7 +1945,7 @@ msgid "Sunblade Elf gets +1/+1 as long as you control a Plains."
 msgstr ""
 
 #: ../../M15.rst:1053
-msgid "|mana_4| |mana_w|: Creatures you control get +1/+1 until end of turn."
+msgid "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgstr ""
 
 #: ../../M15.rst:1058
@@ -1993,7 +1993,7 @@ msgid "Enchanted creature gets +1/+1."
 msgstr ""
 
 #: ../../M15.rst:1081
-msgid "|mana_4| |mana_g|: Return Vineweft from your graveyard to your hand."
+msgid "|mana_4|\\ |mana_g|: Return Vineweft from your graveyard to your hand."
 msgstr ""
 
 #: ../../M15.rst:1088
@@ -2009,7 +2009,7 @@ msgid "Yisan, the Wanderer Bard"
 msgstr ""
 
 #: ../../M15.rst:1091
-msgid "|mana_2| |mana_g|, |tap|, Put a verse counter on Yisan, the Wanderer Bard: Search your library for a creature card with converted mana cost equal to the number of verse counters on Yisan, put it onto the battlefield, then shuffle your library."
+msgid "|mana_2|\\ |mana_g|, |tap|, Put a verse counter on Yisan, the Wanderer Bard: Search your library for a creature card with converted mana cost equal to the number of verse counters on Yisan, put it onto the battlefield, then shuffle your library."
 msgstr ""
 
 #: ../../M15.rst:1102

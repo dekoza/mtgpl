@@ -46,7 +46,7 @@ Gruesome Slaughter
 
 
 Kozilek's Channeler
-   |tap|: Add |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|.
 
 
 Oblivion Sower
@@ -100,7 +100,7 @@ Angelic Gift
 
 
 Cliffside Lookout
-   |mana_4| |mana_w|: Creatures you control get +1/+1 until end of turn.
+   |mana_4|\ |mana_w|: Creatures you control get +1/+1 until end of turn.
 
 
 Courier Griffin
@@ -118,7 +118,7 @@ Emeria Shepherd
 Encircling Fissure
    Prevent all combat damage that would be dealt this turn by creatures target opponent controls.
 
-   Awaken 2—|mana_4| |mana_w| (If you cast this spell for |mana_4| |mana_w|, also put two +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 2—|mana_4|\ |mana_w| (If you cast this spell for |mana_4|\ |mana_w|, also put two +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Expedition Envoy
@@ -200,13 +200,13 @@ Ondu Greathorn
 Ondu Rising
    Whenever a creature attacks this turn, it gains lifelink until end of turn.
 
-   Awaken 4—|mana_4| |mana_w| (If you cast this spell for |mana_4| |mana_w|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 4—|mana_4|\ |mana_w| (If you cast this spell for |mana_4|\ |mana_w|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Planar Outburst
    Destroy all nonland creatures.
 
-   Awaken 4—|mana_5| |mana_w| |mana_w| |mana_w| (If you cast this spell for |mana_5| |mana_w| |mana_w| |mana_w|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 4—|mana_5|\ |mana_w|\ |mana_w|\ |mana_w| (If you cast this spell for |mana_5|\ |mana_w|\ |mana_w|\ |mana_w|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Quarantine Field
@@ -238,7 +238,7 @@ Shadow Glider
 Sheer Drop
    Destroy target tapped creature.
 
-   Awaken 3—|mana_5| |mana_w| (If you cast this spell for |mana_5| |mana_w|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 3—|mana_5|\ |mana_w| (If you cast this spell for |mana_5|\ |mana_w|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Smite the Monstrous
@@ -280,7 +280,7 @@ Benthic Infiltrator
 Cryptic Cruiser
    Devoid (This card has no color.)
 
-   |mana_2| |mana_u|, Put a card an opponent owns from exile into that player's graveyard: Tap target creature.
+   |mana_2|\ |mana_u|, Put a card an opponent owns from exile into that player's graveyard: Tap target creature.
 
 
 Drowner of Hope
@@ -380,17 +380,17 @@ Cloud Manta
 Clutch of Currents
    Return target creature to its owner's hand.
 
-   Awaken 3—|mana_4| |mana_u| (If you cast this spell for |mana_4| |mana_u|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 3—|mana_4|\ |mana_u| (If you cast this spell for |mana_4|\ |mana_u|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Coastal Discovery
    Draw two cards.
 
-   Awaken 4—|mana_5| |mana_u| (If you cast this spell for |mana_5| |mana_u|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 4—|mana_5|\ |mana_u| (If you cast this spell for |mana_5|\ |mana_u|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Coralhelm Guide
-   |mana_4| |mana_u|: Target creature can't be blocked this turn.
+   |mana_4|\ |mana_u|: Target creature can't be blocked this turn.
 
 
 Dampening Pulse
@@ -420,7 +420,7 @@ Halimar Tidecaller
 Part the Waterveil
    Take an extra turn after this one. Exile Part the Waterveil.
 
-   Awaken 6—|mana_6| |mana_u| |mana_u| |mana_u| (If you cast this spell for |mana_6| |mana_u| |mana_u| |mana_u|, also put six +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 6—|mana_6|\ |mana_u|\ |mana_u|\ |mana_u| (If you cast this spell for |mana_6|\ |mana_u|\ |mana_u|\ |mana_u|, also put six +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Prism Array
@@ -428,7 +428,7 @@ Prism Array
 
    Remove a crystal counter from Prism Array: Tap target creature.
 
-   |mana_w| |mana_u| |mana_b| |mana_r| |mana_g|: Scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+   |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
 
 Retreat to Coralhelm
@@ -448,13 +448,13 @@ Roilmage's Trick
 Rush of Ice
    Tap target creature. It doesn't untap during its controller's next untap step.
 
-   Awaken 3—|mana_4| |mana_u| (If you cast this spell for |mana_4| |mana_u|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 3—|mana_4|\ |mana_u| (If you cast this spell for |mana_4|\ |mana_u|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Scatter to the Winds
    Counter target spell.
 
-   Awaken 3—|mana_4| |mana_u| |mana_u| (If you cast this spell for |mana_4| |mana_u| |mana_u|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 3—|mana_4|\ |mana_u|\ |mana_u| (If you cast this spell for |mana_4|\ |mana_u|\ |mana_u|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Tightening Coils
@@ -532,7 +532,7 @@ Skitterskin
 
    Skitterskin can't block.
 
-   |mana_1| |mana_b|: Regenerate Skitterskin. Activate this ability only if you control another colorless creature.
+   |mana_1|\ |mana_b|: Regenerate Skitterskin. Activate this ability only if you control another colorless creature.
 
 
 Sludge Crawler
@@ -624,7 +624,7 @@ Guul Draz Overseer
 
 
 Hagra Sharpshooter
-   |mana_4| |mana_b|: Target creature gets -1/-1 until end of turn.
+   |mana_4|\ |mana_b|: Target creature gets -1/-1 until end of turn.
 
 
 Kalastria Healer
@@ -644,7 +644,7 @@ Malakir Familiar
 Mire's Malice
    Target opponent discards two cards.
 
-   Awaken 3—|mana_5| |mana_b| (If you cast this spell for |mana_5| |mana_b|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 3—|mana_5|\ |mana_b| (If you cast this spell for |mana_5|\ |mana_b|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Nirkana Assassin
@@ -674,21 +674,21 @@ Retreat to Hagra
 Rising Miasma
    All creatures get -2/-2 until end of turn.
 
-   Awaken 3—|mana_5| |mana_b| |mana_b| (If you cast this spell for |mana_5| |mana_b| |mana_b|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 3—|mana_5|\ |mana_b|\ |mana_b| (If you cast this spell for |mana_5|\ |mana_b|\ |mana_b|, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Ruinous Path
    Destroy target creature or planeswalker.
 
-   Awaken 4—|mana_5| |mana_b| |mana_b| (If you cast this spell for |mana_5| |mana_b| |mana_b|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 4—|mana_5|\ |mana_b|\ |mana_b| (If you cast this spell for |mana_5|\ |mana_b|\ |mana_b|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Vampiric Rites
-   |mana_1| |mana_b|, Sacrifice a creature: You gain 1 life and draw a card.
+   |mana_1|\ |mana_b|, Sacrifice a creature: You gain 1 life and draw a card.
 
 
 Voracious Null
-   |mana_1| |mana_b|, Sacrifice another creature: Put two +1/+1 counters on Voracious Null. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_b|, Sacrifice another creature: Put two +1/+1 counters on Voracious Null. Activate this ability only any time you could cast a sorcery.
 
 
 Zulaport Cutthroat
@@ -698,7 +698,7 @@ Zulaport Cutthroat
 Barrage Tyrant
    Devoid (This card has no color.)
 
-   |mana_2| |mana_r|, Sacrifice another colorless creature: Barrage Tyrant deals damage equal to the sacrificed creature's power to any target.
+   |mana_2|\ |mana_r|, Sacrifice another colorless creature: Barrage Tyrant deals damage equal to the sacrificed creature's power to any target.
 
 
 Crumble to Dust
@@ -774,7 +774,7 @@ Akoum Firebird
 
    Akoum Firebird attacks each combat if able.
 
-   Landfall — Whenever a land enters the battlefield under your control, you may pay |mana_4| |mana_r| |mana_r|. If you do, return Akoum Firebird from your graveyard to the battlefield.
+   Landfall — Whenever a land enters the battlefield under your control, you may pay |mana_4|\ |mana_r|\ |mana_r|. If you do, return Akoum Firebird from your graveyard to the battlefield.
 
 
 Akoum Hellkite
@@ -784,7 +784,7 @@ Akoum Hellkite
 
 
 Akoum Stonewaker
-   Landfall — Whenever a land enters the battlefield under your control, you may pay |mana_2| |mana_r|. If you do, create a 3/1 red Elemental creature token with trample and haste. Exile that token at the beginning of the next end step.
+   Landfall — Whenever a land enters the battlefield under your control, you may pay |mana_2|\ |mana_r|. If you do, create a 3/1 red Elemental creature token with trample and haste. Exile that token at the beginning of the next end step.
 
 
 Belligerent Whiptail
@@ -794,7 +794,7 @@ Belligerent Whiptail
 Boiling Earth
    Boiling Earth deals 1 damage to each creature your opponents control.
 
-   Awaken 4—|mana_6| |mana_r| (If you cast this spell for |mana_6| |mana_r|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 4—|mana_6|\ |mana_r| (If you cast this spell for |mana_6|\ |mana_r|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Chasm Guide
@@ -816,7 +816,7 @@ Goblin War Paint
 
 
 Lavastep Raider
-   |mana_2| |mana_r|: Lavastep Raider gets +2/+0 until end of turn.
+   |mana_2|\ |mana_r|: Lavastep Raider gets +2/+0 until end of turn.
 
 
 Makindi Sliderunner
@@ -914,7 +914,7 @@ From Beyond
 
    At the beginning of your upkeep, create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add |colorless|."
 
-   |mana_1| |mana_g|, Sacrifice From Beyond: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle your library.
+   |mana_1|\ |mana_g|, Sacrifice From Beyond: Search your library for an Eldrazi card, reveal it, put it into your hand, then shuffle your library.
 
 
 Unnatural Aggression
@@ -926,7 +926,7 @@ Unnatural Aggression
 Void Attendant
    Devoid (This card has no color.)
 
-   |mana_1| |mana_g|, Put a card an opponent owns from exile into that player's graveyard: Create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add |colorless|."
+   |mana_1|\ |mana_g|, Put a card an opponent owns from exile into that player's graveyard: Create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add |colorless|."
 
 
 Beastcaller Savant
@@ -942,7 +942,7 @@ Broodhunter Wurm
 Earthen Arms
    Put two +1/+1 counters on target permanent.
 
-   Awaken 4—|mana_6| |mana_g| (If you cast this spell for |mana_6| |mana_g|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 4—|mana_6|\ |mana_g| (If you cast this spell for |mana_6|\ |mana_g|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Giant Mantis
@@ -970,7 +970,7 @@ Lifespring Druid
 
 
 Murasa Ranger
-   Landfall — Whenever a land enters the battlefield under your control, you may pay |mana_3| |mana_g|. If you do, put two +1/+1 counters on Murasa Ranger.
+   Landfall — Whenever a land enters the battlefield under your control, you may pay |mana_3|\ |mana_g|. If you do, put two +1/+1 counters on Murasa Ranger.
 
 
 Natural Connection
@@ -1070,7 +1070,7 @@ Brood Butcher
 
    When Brood Butcher enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has "Sacrifice this creature: Add |colorless|."
 
-   |mana_b| |mana_g|, Sacrifice a creature: Target creature gets -2/-2 until end of turn.
+   |mana_b|\ |mana_g|, Sacrifice a creature: Target creature gets -2/-2 until end of turn.
 
 
 Brutal Expulsion
@@ -1106,7 +1106,7 @@ Fathom Feeder
 
    Ingest (Whenever this creature deals combat damage to a player, that player exiles the top card of their library.)
 
-   |mana_3| |mana_u| |mana_b|: Draw a card. Each opponent exiles the top card of their library.
+   |mana_3|\ |mana_u|\ |mana_b|: Draw a card. Each opponent exiles the top card of their library.
 
 
 Forerunner of Slaughter
@@ -1198,7 +1198,7 @@ Resolute Blademaster
 Roil Spout
    Put target creature on top of its owner's library.
 
-   Awaken 4—|mana_4| |mana_w| |mana_u| (If you cast this spell for |mana_4| |mana_w| |mana_u|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
+   Awaken 4—|mana_4|\ |mana_w|\ |mana_u| (If you cast this spell for |mana_4|\ |mana_w|\ |mana_u|, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)
 
 
 Skyrider Elf
@@ -1218,7 +1218,7 @@ Aligned Hedron Network
 
 
 Hedron Archive
-   |tap|: Add |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|.
 
    |mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards.
 
@@ -1260,31 +1260,31 @@ Ally Encampment
 Blighted Cataract
    |tap|: Add |colorless|.
 
-   |mana_5| |mana_u|, |tap|, Sacrifice Blighted Cataract: Draw two cards.
+   |mana_5|\ |mana_u|, |tap|, Sacrifice Blighted Cataract: Draw two cards.
 
 
 Blighted Fen
    |tap|: Add |colorless|.
 
-   |mana_4| |mana_b|, |tap|, Sacrifice Blighted Fen: Target opponent sacrifices a creature.
+   |mana_4|\ |mana_b|, |tap|, Sacrifice Blighted Fen: Target opponent sacrifices a creature.
 
 
 Blighted Gorge
    |tap|: Add |colorless|.
 
-   |mana_4| |mana_r|, |tap|, Sacrifice Blighted Gorge: It deals 2 damage to any target.
+   |mana_4|\ |mana_r|, |tap|, Sacrifice Blighted Gorge: It deals 2 damage to any target.
 
 
 Blighted Steppe
    |tap|: Add |colorless|.
 
-   |mana_3| |mana_w|, |tap|, Sacrifice Blighted Steppe: You gain 2 life for each creature you control.
+   |mana_3|\ |mana_w|, |tap|, Sacrifice Blighted Steppe: You gain 2 life for each creature you control.
 
 
 Blighted Woodland
    |tap|: Add |colorless|.
 
-   |mana_3| |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   |mana_3|\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
 
 
 Canopy Vista
@@ -1324,7 +1324,7 @@ Lumbering Falls
 
    |tap|: Add |mana_g| or |mana_u|.
 
-   |mana_2| |mana_g| |mana_u|: Lumbering Falls becomes a 3/3 green and blue Elemental creature with hexproof until end of turn. It's still a land.
+   |mana_2|\ |mana_g|\ |mana_u|: Lumbering Falls becomes a 3/3 green and blue Elemental creature with hexproof until end of turn. It's still a land.
 
 
 Mortuary Mire
@@ -1360,13 +1360,13 @@ Shambling Vent
 
    |tap|: Add |mana_w| or |mana_b|.
 
-   |mana_1| |mana_w| |mana_b|: Shambling Vent becomes a 2/3 white and black Elemental creature with lifelink until end of turn. It's still a land.
+   |mana_1|\ |mana_w|\ |mana_b|: Shambling Vent becomes a 2/3 white and black Elemental creature with lifelink until end of turn. It's still a land.
 
 
 Shrine of the Forsaken Gods
    |tap|: Add |colorless|.
 
-   |tap|: Add |colorless| |colorless|. Spend this mana only to cast colorless spells. Activate this ability only if you control seven or more lands.
+   |tap|: Add |colorless|\ |colorless|. Spend this mana only to cast colorless spells. Activate this ability only if you control seven or more lands.
 
 
 Skyline Cascade

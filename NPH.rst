@@ -76,7 +76,7 @@ Forced Worship
 
    Enchanted creature can't attack.
 
-   |mana_2| |mana_w|: Return Forced Worship to its owner's hand.
+   |mana_2|\ |mana_w|: Return Forced Worship to its owner's hand.
 
 
 Inquisitor Exarch
@@ -304,7 +304,7 @@ Viral Drake
 
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
-   |mana_3| |mana_u|: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+   |mana_3|\ |mana_u|: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
 
 
 Wing Splicer
@@ -338,7 +338,7 @@ Chancellor of the Dross
 Dementia Bat
    Flying
 
-   |mana_4| |mana_b|, Sacrifice Dementia Bat: Target player discards two cards.
+   |mana_4|\ |mana_b|, Sacrifice Dementia Bat: Target player discards two cards.
 
 
 Despise
@@ -502,7 +502,7 @@ Chancellor of the Forge
 Fallen Ferromancer
    Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
 
-   |mana_1| |mana_r|, |tap|: Fallen Ferromancer deals 1 damage to any target.
+   |mana_1|\ |mana_r|, |tap|: Fallen Ferromancer deals 1 damage to any target.
 
 
 Flameborn Viron
@@ -514,7 +514,7 @@ Furnace Scamp
 
 
 Geosurge
-   Add |mana_r| |mana_r| |mana_r| |mana_r| |mana_r| |mana_r| |mana_r|. Spend this mana only to cast artifact or creature spells.
+   Add |mana_r|\ |mana_r|\ |mana_r|\ |mana_r|\ |mana_r|\ |mana_r|\ |mana_r|. Spend this mana only to cast artifact or creature spells.
 
 
 Gut Shot
@@ -544,7 +544,7 @@ Ogre Menial
 
 
 Priest of Urabrask
-   When Priest of Urabrask enters the battlefield, add |mana_r| |mana_r| |mana_r|.
+   When Priest of Urabrask enters the battlefield, add |mana_r|\ |mana_r|\ |mana_r|.
 
 
 Rage Extractor
@@ -616,7 +616,7 @@ Beast Within
 Birthing Pod
    (|mana_gp| can be paid with either |mana_g| or 2 life.)
 
-   |mana_1| |mana_gp|, |tap|, Sacrifice a creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_gp|, |tap|, Sacrifice a creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.
 
 
 Brutalizer Exarch
@@ -640,9 +640,9 @@ Corrosive Gale
 
 
 Death-Hood Cobra
-   |mana_1| |mana_g|: Death-Hood Cobra gains reach until end of turn.
+   |mana_1|\ |mana_g|: Death-Hood Cobra gains reach until end of turn.
 
-   |mana_1| |mana_g|: Death-Hood Cobra gains deathtouch until end of turn.
+   |mana_1|\ |mana_g|: Death-Hood Cobra gains deathtouch until end of turn.
 
 
 Fresh Meat
@@ -790,7 +790,7 @@ Darksteel Relic
 Etched Monstrosity
    Etched Monstrosity enters the battlefield with five -1/-1 counters on it.
 
-   |mana_w| |mana_u| |mana_b| |mana_r| |mana_g|, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.
+   |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|, Remove five -1/-1 counters from Etched Monstrosity: Target player draws three cards.
 
 
 Gremlin Mine
@@ -800,7 +800,7 @@ Gremlin Mine
 
 
 Hex Parasite
-   |mana_x| |mana_bp|: Remove up to X counters from target permanent. For each counter removed this way, Hex Parasite gets +1/+0 until end of turn. (|mana_bp| can be paid with either |mana_b| or 2 life.)
+   |mana_x|\ |mana_bp|: Remove up to X counters from target permanent. For each counter removed this way, Hex Parasite gets +1/+0 until end of turn. (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
 
 Hovermyr
@@ -828,7 +828,7 @@ Lashwrithe
 
    Equipped creature gets +1/+1 for each Swamp you control.
 
-   Equip |mana_bp| |mana_bp| (|mana_bp| can be paid with either |mana_b| or 2 life.)
+   Equip |mana_bp|\ |mana_bp| (|mana_bp| can be paid with either |mana_b| or 2 life.)
 
 
 Mindcrank

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -145,7 +145,7 @@ msgid "Daghatar the Adamant enters the battlefield with four +1/+1 counters on i
 msgstr ""
 
 #: ../../FRF.rst:59
-msgid "|mana_1| |mana_bg| |mana_bg|: Move a +1/+1 counter from target creature onto a second target creature."
+msgid "|mana_1|\\ |mana_bg|\\ |mana_bg|: Move a +1/+1 counter from target creature onto a second target creature."
 msgstr ""
 
 #: ../../FRF.rst:66
@@ -249,7 +249,7 @@ msgid "Whenever a permanent you control is turned face up, you gain 1 life for e
 msgstr ""
 
 #: ../../FRF.rst:113
-msgid "|mana_3| |mana_w|: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgid "|mana_3|\\ |mana_w|: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
 msgstr ""
 
 #: ../../FRF.rst:120
@@ -339,7 +339,7 @@ msgid "Instant and sorcery spells you control have lifelink."
 msgstr ""
 
 #: ../../FRF.rst:161
-msgid "|mana_2| |mana_ur| |mana_ur|: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves."
+msgid "|mana_2|\\ |mana_ur|\\ |mana_ur|: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves."
 msgstr ""
 
 #: ../../FRF.rst:170
@@ -547,7 +547,7 @@ msgid "Renowned Weaponsmith"
 msgstr ""
 
 #: ../../FRF.rst:285
-msgid "|tap|: Add |colorless| |colorless|. Spend this mana only to cast artifact spells or activate abilities of artifacts."
+msgid "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast artifact spells or activate abilities of artifacts."
 msgstr ""
 
 #: ../../FRF.rst:287
@@ -594,7 +594,7 @@ msgid "Shu Yun, the Silent Tempest"
 msgstr ""
 
 #: ../../FRF.rst:309
-msgid "Whenever you cast a noncreature spell, you may pay |mana_rw| |mana_rw|. If you do, target creature gains double strike until end of turn."
+msgid "Whenever you cast a noncreature spell, you may pay |mana_rw|\\ |mana_rw|. If you do, target creature gains double strike until end of turn."
 msgstr ""
 
 #: ../../FRF.rst:314
@@ -630,7 +630,7 @@ msgid "Whenever Torrent Elemental attacks, tap all creatures defending player co
 msgstr ""
 
 #: ../../FRF.rst:331
-msgid "|mana_3| |mana_bg| |mana_bg|: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_3|\\ |mana_bg|\\ |mana_bg|: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../FRF.rst:336
@@ -662,7 +662,7 @@ msgid "Alesha's Vanguard"
 msgstr ""
 
 #: ../../FRF.rst:349
-msgid "Dash |mana_2| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgid "Dash |mana_2|\\ |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
 msgstr ""
 
 #: ../../FRF.rst:358
@@ -702,7 +702,7 @@ msgid "Whenever a creature you control attacks, defending player loses 1 life an
 msgstr ""
 
 #: ../../FRF.rst:373
-msgid "|mana_3| |mana_rw| |mana_rw|: Creatures your opponents control block this turn if able, and you choose how those creatures block."
+msgid "|mana_3|\\ |mana_rw|\\ |mana_rw|: Creatures your opponents control block this turn if able, and you choose how those creatures block."
 msgstr ""
 
 #: ../../FRF.rst:382
@@ -794,7 +794,7 @@ msgid "Whenever Mardu Shadowspear attacks, each opponent loses 1 life."
 msgstr ""
 
 #: ../../FRF.rst:423
-msgid "Dash |mana_1| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgid "Dash |mana_1|\\ |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
 msgstr ""
 
 #: ../../FRF.rst:430
@@ -806,7 +806,7 @@ msgid "Whenever Mardu Strike Leader attacks, create a 2/1 black Warrior creature
 msgstr ""
 
 #: ../../FRF.rst:429
-msgid "Dash |mana_3| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgid "Dash |mana_3|\\ |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
 msgstr ""
 
 #: ../../FRF.rst:434
@@ -854,7 +854,7 @@ msgid "Qarsi High Priest"
 msgstr ""
 
 #: ../../FRF.rst:455
-msgid "|mana_1| |mana_b|, |tap|, Sacrifice another creature: Manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
+msgid "|mana_1|\\ |mana_b|, |tap|, Sacrifice another creature: Manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)"
 msgstr ""
 
 #: ../../FRF.rst:460
@@ -910,7 +910,7 @@ msgid "Tasigur, the Golden Fang"
 msgstr ""
 
 #: ../../FRF.rst:493
-msgid "|mana_2| |mana_gu| |mana_gu|: Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand."
+msgid "|mana_2|\\ |mana_gu|\\ |mana_gu|: Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand."
 msgstr ""
 
 #: ../../FRF.rst:500
@@ -938,7 +938,7 @@ msgid "First strike"
 msgstr ""
 
 #: ../../FRF.rst:509
-msgid "Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb| |mana_wb|. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking."
+msgid "Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb|\\ |mana_wb|. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking."
 msgstr ""
 
 #: ../../FRF.rst:514
@@ -1026,7 +1026,7 @@ msgid "Whenever Flamerush Rider attacks, create a token that's a copy of another
 msgstr ""
 
 #: ../../FRF.rst:553
-msgid "Dash |mana_2| |mana_r| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgid "Dash |mana_2|\\ |mana_r|\\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
 msgstr ""
 
 #: ../../FRF.rst:562
@@ -1063,7 +1063,7 @@ msgstr ""
 
 #: ../../FRF.rst:571
 #: ../../FRF.rst:657
-msgid "Dash |mana_2| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgid "Dash |mana_2|\\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
 msgstr ""
 
 #: ../../FRF.rst:574
@@ -1111,7 +1111,7 @@ msgid "Mardu Scout"
 msgstr ""
 
 #: ../../FRF.rst:601
-msgid "Dash |mana_1| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgid "Dash |mana_1|\\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
 msgstr ""
 
 #: ../../FRF.rst:610
@@ -1175,7 +1175,7 @@ msgid "Whenever a creature you control deals combat damage to a player, put a +1
 msgstr ""
 
 #: ../../FRF.rst:635
-msgid "Ferocious — |mana_2| |mana_gu| |mana_gu|: Draw a card for each creature you control with power 4 or greater."
+msgid "Ferocious — |mana_2|\\ |mana_gu|\\ |mana_gu|: Draw a card for each creature you control with power 4 or greater."
 msgstr ""
 
 #: ../../FRF.rst:642
@@ -1344,7 +1344,7 @@ msgid "As Frontier Siege enters the battlefield, choose Khans or Dragons."
 msgstr ""
 
 #: ../../FRF.rst:729
-msgid "Khans — At the beginning of each of your main phases, add |mana_g| |mana_g|."
+msgid "Khans — At the beginning of each of your main phases, add |mana_g|\\ |mana_g|."
 msgstr ""
 
 #: ../../FRF.rst:731
@@ -1440,7 +1440,7 @@ msgid "Temur Sabertooth"
 msgstr ""
 
 #: ../../FRF.rst:785
-msgid "|mana_1| |mana_g|: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn."
+msgid "|mana_1|\\ |mana_g|: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn."
 msgstr ""
 
 #: ../../FRF.rst:792
@@ -1460,15 +1460,15 @@ msgid "Warden of the First Tree"
 msgstr ""
 
 #: ../../FRF.rst:795
-msgid "|mana_1| |mana_wb|: Warden of the First Tree becomes a Human Warrior with base power and toughness 3/3."
+msgid "|mana_1|\\ |mana_wb|: Warden of the First Tree becomes a Human Warrior with base power and toughness 3/3."
 msgstr ""
 
 #: ../../FRF.rst:797
-msgid "|mana_2| |mana_wb| |mana_wb|: If Warden of the First Tree is a Warrior, it becomes a Human Spirit Warrior with trample and lifelink."
+msgid "|mana_2|\\ |mana_wb|\\ |mana_wb|: If Warden of the First Tree is a Warrior, it becomes a Human Spirit Warrior with trample and lifelink."
 msgstr ""
 
 #: ../../FRF.rst:799
-msgid "|mana_3| |mana_wb| |mana_wb| |mana_wb|: If Warden of the First Tree is a Spirit, put five +1/+1 counters on it."
+msgid "|mana_3|\\ |mana_wb|\\ |mana_wb|\\ |mana_wb|: If Warden of the First Tree is a Spirit, put five +1/+1 counters on it."
 msgstr ""
 
 #: ../../FRF.rst:806
@@ -1480,7 +1480,7 @@ msgid "|tap|: Add |mana_g|."
 msgstr ""
 
 #: ../../FRF.rst:805
-msgid "Ferocious — |tap|: Add |mana_g| |mana_g|. Activate this ability only if you control a creature with power 4 or greater."
+msgid "Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate this ability only if you control a creature with power 4 or greater."
 msgstr ""
 
 #: ../../FRF.rst:812
@@ -1520,7 +1520,7 @@ msgid "Yasova Dragonclaw"
 msgstr ""
 
 #: ../../FRF.rst:827
-msgid "At the beginning of combat on your turn, you may pay |mana_1| |mana_ur| |mana_ur|. If you do, gain control of target creature an opponent controls with power less than Yasova Dragonclaw's power until end of turn, untap that creature, and it gains haste until end of turn."
+msgid "At the beginning of combat on your turn, you may pay |mana_1|\\ |mana_ur|\\ |mana_ur|. If you do, gain control of target creature an opponent controls with power less than Yasova Dragonclaw's power until end of turn, untap that creature, and it gains haste until end of turn."
 msgstr ""
 
 #: ../../FRF.rst:834
@@ -1584,7 +1584,7 @@ msgid "Whenever a Dragon you control attacks, creatures you control get +1/+0 un
 msgstr ""
 
 #: ../../FRF.rst:865
-msgid "Dash |mana_3| |mana_b| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
+msgid "Dash |mana_3|\\ |mana_b|\\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)"
 msgstr ""
 
 #: ../../FRF.rst:872

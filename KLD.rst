@@ -20,7 +20,7 @@ Aetherstorm Roc
 
    Whenever Aetherstorm Roc or another creature enters the battlefield under your control, you get {E} (an energy counter).
 
-   Whenever Aetherstorm Roc attacks, you may pay {E} {E}. If you do, put a +1/+1 counter on it and tap up to one target creature defending player controls.
+   Whenever Aetherstorm Roc attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it and tap up to one target creature defending player controls.
 
 
 Angel of Invention
@@ -60,13 +60,13 @@ Cataclysmic Gearhulk
 
 
 Consulate Surveillance
-   When Consulate Surveillance enters the battlefield, you get {E} {E} {E} {E} (four energy counters).
+   When Consulate Surveillance enters the battlefield, you get {E}{E}{E}{E} (four energy counters).
 
-   Pay {E} {E}: Prevent all damage that would be dealt to you this turn by a source of your choice.
+   Pay {E}{E}: Prevent all damage that would be dealt to you this turn by a source of your choice.
 
 
 Consul's Shieldguard
-   When Consul's Shieldguard enters the battlefield, you get {E} {E} (two energy counters).
+   When Consul's Shieldguard enters the battlefield, you get {E}{E} (two energy counters).
 
    Whenever Consul's Shieldguard attacks, you may pay {E}. If you do, another target attacking creature gains indestructible until end of turn.
 
@@ -74,7 +74,7 @@ Consul's Shieldguard
 Eddytrail Hawk
    Flying
 
-   When Eddytrail Hawk enters the battlefield, you get {E} {E} (two energy counters).
+   When Eddytrail Hawk enters the battlefield, you get {E}{E} (two energy counters).
 
    Whenever Eddytrail Hawk attacks, you may pay {E}. If you do, another target attacking creature gains flying until end of turn.
 
@@ -116,7 +116,7 @@ Inspired Charge
 Master Trinketeer
    Servos and Thopters you control get +1/+1.
 
-   |mana_3| |mana_w|: Create a 1/1 colorless Servo artifact creature token.
+   |mana_3|\ |mana_w|: Create a 1/1 colorless Servo artifact creature token.
 
 
 Ninth Bridge Patrol
@@ -162,9 +162,9 @@ Tasseled Dromedary
 
 
 Thriving Ibex
-   When Thriving Ibex enters the battlefield, you get {E} {E} (two energy counters).
+   When Thriving Ibex enters the battlefield, you get {E}{E} (two energy counters).
 
-   Whenever Thriving Ibex attacks, you may pay {E} {E}. If you do, put a +1/+1 counter on it.
+   Whenever Thriving Ibex attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.
 
 
 Toolcraft Exemplar
@@ -192,13 +192,13 @@ Aether Meltdown
 
    Enchant creature or Vehicle
 
-   When Aether Meltdown enters the battlefield, you get {E} {E} (two energy counters).
+   When Aether Meltdown enters the battlefield, you get {E}{E} (two energy counters).
 
    Enchanted permanent gets -4/-0.
 
 
 Aether Theorist
-   When Aether Theorist enters the battlefield, you get {E} {E} {E} (three energy counters).
+   When Aether Theorist enters the battlefield, you get {E}{E}{E} (three energy counters).
 
    |tap|, Pay {E}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
@@ -210,9 +210,9 @@ Aether Tradewinds
 Aethersquall Ancient
    Flying
 
-   At the beginning of your upkeep, you get {E} {E} {E} (three energy counters).
+   At the beginning of your upkeep, you get {E}{E}{E} (three energy counters).
 
-   Pay {E} {E} {E} {E} {E} {E} {E} {E}: Return all other creatures to their owners' hands. Activate this ability only any time you could cast a sorcery.
+   Pay {E}{E}{E}{E}{E}{E}{E}{E}: Return all other creatures to their owners' hands. Activate this ability only any time you could cast a sorcery.
 
 
 Ceremonious Rejection
@@ -220,7 +220,7 @@ Ceremonious Rejection
 
 
 Confiscation Coup
-   Choose target artifact or creature. You get {E} {E} {E} {E} (four energy counters), then you may pay an amount of {E} equal to that permanent's converted mana cost. If you do, gain control of it.
+   Choose target artifact or creature. You get {E}{E}{E}{E} (four energy counters), then you may pay an amount of {E} equal to that permanent's converted mana cost. If you do, gain control of it.
 
 
 Curio Vendor
@@ -238,9 +238,9 @@ Dramatic Reversal
 
 
 Era of Innovation
-   Whenever an artifact or Artificer enters the battlefield under your control, you may pay |mana_1|. If you do, you get {E} {E} (two energy counters).
+   Whenever an artifact or Artificer enters the battlefield under your control, you may pay |mana_1|. If you do, you get {E}{E} (two energy counters).
 
-   Pay {E} {E} {E} {E} {E} {E}, Sacrifice Era of Innovation: Draw three cards.
+   Pay {E}{E}{E}{E}{E}{E}, Sacrifice Era of Innovation: Draw three cards.
 
 
 Experimental Aviator
@@ -256,11 +256,11 @@ Failed Inspection
 Gearseeker Serpent
    This spell costs |mana_1| less to cast for each artifact you control.
 
-   |mana_5| |mana_u|: Gearseeker Serpent can't be blocked this turn.
+   |mana_5|\ |mana_u|: Gearseeker Serpent can't be blocked this turn.
 
 
 Glimmer of Genius
-   Scry 2, then draw two cards. You get {E} {E} (two energy counters).
+   Scry 2, then draw two cards. You get {E}{E} (two energy counters).
 
 
 Glint-Nest Crane
@@ -272,9 +272,9 @@ Glint-Nest Crane
 Hightide Hermit
    Defender
 
-   When Hightide Hermit enters the battlefield, you get {E} {E} {E} {E} (four energy counters).
+   When Hightide Hermit enters the battlefield, you get {E}{E}{E}{E} (four energy counters).
 
-   Pay {E} {E}: Hightide Hermit can attack this turn as though it didn't have defender.
+   Pay {E}{E}: Hightide Hermit can attack this turn as though it didn't have defender.
 
 
 Insidious Will
@@ -288,9 +288,9 @@ Insidious Will
 
 
 Janjeet Sentry
-   When Janjeet Sentry enters the battlefield, you get {E} {E} (two energy counters).
+   When Janjeet Sentry enters the battlefield, you get {E}{E} (two energy counters).
 
-   |tap|, Pay {E} {E}: You may tap or untap target artifact or creature.
+   |tap|, Pay {E}{E}: You may tap or untap target artifact or creature.
 
 
 Long-Finned Skywhale
@@ -310,11 +310,11 @@ Malfunction
 Metallurgic Summonings
    Whenever you cast an instant or sorcery spell, create an X/X colorless Construct artifact creature token, where X is that spell's converted mana cost.
 
-   |mana_3| |mana_u| |mana_u|, Exile Metallurgic Summonings: Return all instant and sorcery cards from your graveyard to your hand. Activate this ability only if you control six or more artifacts.
+   |mana_3|\ |mana_u|\ |mana_u|, Exile Metallurgic Summonings: Return all instant and sorcery cards from your graveyard to your hand. Activate this ability only if you control six or more artifacts.
 
 
 Minister of Inquiries
-   When Minister of Inquiries enters the battlefield, you get {E} {E} (two energy counters).
+   When Minister of Inquiries enters the battlefield, you get {E}{E} (two energy counters).
 
    |tap|, Pay {E}: Target player puts the top three cards of their library into their graveyard.
 
@@ -358,9 +358,9 @@ Tezzeret's Ambition
 
 
 Thriving Turtle
-   When Thriving Turtle enters the battlefield, you get {E} {E} (two energy counters).
+   When Thriving Turtle enters the battlefield, you get {E}{E} (two energy counters).
 
-   Whenever Thriving Turtle attacks, you may pay {E} {E}. If you do, put a +1/+1 counter on it.
+   Whenever Thriving Turtle attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.
 
 
 Torrential Gearhulk
@@ -398,7 +398,7 @@ Demon of Dark Schemes
 
    Whenever another creature dies, you get {E} (an energy counter).
 
-   |mana_2| |mana_b|, Pay {E} {E} {E} {E}: Put target creature card from a graveyard onto the battlefield under your control tapped.
+   |mana_2|\ |mana_b|, Pay {E}{E}{E}{E}: Put target creature card from a graveyard onto the battlefield under your control tapped.
 
 
 Dhund Operative
@@ -410,7 +410,7 @@ Diabolic Tutor
 
 
 Die Young
-   Choose target creature. You get {E} {E} (two energy counters), then you may pay any amount of {E}. The creature gets -1/-1 until end of turn for each {E} paid this way.
+   Choose target creature. You get {E}{E} (two energy counters), then you may pay any amount of {E}. The creature gets -1/-1 until end of turn for each {E} paid this way.
 
 
 Dukhara Scavenger
@@ -468,7 +468,7 @@ Lawless Broker
 
 
 Live Fast
-   You draw two cards, lose 2 life, and get {E} {E} (two energy counters).
+   You draw two cards, lose 2 life, and get {E}{E} (two energy counters).
 
 
 Lost Legacy
@@ -546,9 +546,9 @@ Syndicate Trafficker
 
 
 Thriving Rats
-   When Thriving Rats enters the battlefield, you get {E} {E} (two energy counters).
+   When Thriving Rats enters the battlefield, you get {E}{E} (two energy counters).
 
-   Whenever Thriving Rats attacks, you may pay {E} {E}. If you do, put a +1/+1 counter on it.
+   Whenever Thriving Rats attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.
 
 
 Tidy Conclusion
@@ -558,7 +558,7 @@ Tidy Conclusion
 Underhanded Designs
    Whenever an artifact enters the battlefield under your control, you may pay |mana_1|. If you do, each opponent loses 1 life and you gain 1 life.
 
-   |mana_1| |mana_b|, Sacrifice Underhanded Designs: Destroy target creature. Activate this ability only if you control two or more artifacts.
+   |mana_1|\ |mana_b|, Sacrifice Underhanded Designs: Destroy target creature. Activate this ability only if you control two or more artifacts.
 
 
 Weaponcraft Enthusiast
@@ -566,11 +566,11 @@ Weaponcraft Enthusiast
 
 
 Aethertorch Renegade
-   When Aethertorch Renegade enters the battlefield, you get {E} {E} {E} {E} (four energy counters).
+   When Aethertorch Renegade enters the battlefield, you get {E}{E}{E}{E} (four energy counters).
 
-   |tap|, Pay {E} {E}: Aethertorch Renegade deals 1 damage to target creature.
+   |tap|, Pay {E}{E}: Aethertorch Renegade deals 1 damage to target creature.
 
-   |tap|, Pay {E} {E} {E} {E} {E} {E} {E} {E}: Aethertorch Renegade deals 6 damage to target player or planeswalker.
+   |tap|, Pay {E}{E}{E}{E}{E}{E}{E}{E}: Aethertorch Renegade deals 6 damage to target player or planeswalker.
 
 
 Brazen Scourge
@@ -590,7 +590,7 @@ Cathartic Reunion
 Chandra, Torch of Defiance
    +1: Exile the top card of your library. You may cast that card. If you don't, Chandra, Torch of Defiance deals 2 damage to each opponent.
 
-   +1: Add |mana_r| |mana_r|.
+   +1: Add |mana_r|\ |mana_r|.
 
    −3: Chandra, Torch of Defiance deals 4 damage to target creature.
 
@@ -626,7 +626,7 @@ Giant Spectacle
 
 
 Harnessed Lightning
-   Choose target creature. You get {E} {E} {E} (three energy counters), then you may pay any amount of {E}. Harnessed Lightning deals that much damage to that creature.
+   Choose target creature. You get {E}{E}{E} (three energy counters), then you may pay any amount of {E}. Harnessed Lightning deals that much damage to that creature.
 
 
 Hijack
@@ -646,9 +646,9 @@ Inventor's Apprentice
 Lathnu Hellion
    Haste
 
-   When Lathnu Hellion enters the battlefield, you get {E} {E} (two energy counters).
+   When Lathnu Hellion enters the battlefield, you get {E}{E} (two energy counters).
 
-   At the beginning of your end step, sacrifice Lathnu Hellion unless you pay {E} {E}.
+   At the beginning of your end step, sacrifice Lathnu Hellion unless you pay {E}{E}.
 
 
 Madcap Experiment
@@ -656,7 +656,7 @@ Madcap Experiment
 
 
 Maulfist Doorbuster
-   When Maulfist Doorbuster enters the battlefield, you get {E} {E} (two energy counters).
+   When Maulfist Doorbuster enters the battlefield, you get {E}{E} (two energy counters).
 
    Whenever Maulfist Doorbuster attacks, you may pay {E}. If you do, target creature can't block this turn.
 
@@ -664,7 +664,7 @@ Maulfist Doorbuster
 Pia Nalaar
    When Pia Nalaar enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.
 
-   |mana_1| |mana_r|: Target artifact creature gets +1/+0 until end of turn.
+   |mana_1|\ |mana_r|: Target artifact creature gets +1/+0 until end of turn.
 
    |mana_1|, Sacrifice an artifact: Target creature can't block this turn.
 
@@ -684,7 +684,7 @@ Renegade Tactics
 
 
 Ruinous Gremlin
-   |mana_2| |mana_r|, Sacrifice Ruinous Gremlin: Destroy target artifact.
+   |mana_2|\ |mana_r|, Sacrifice Ruinous Gremlin: Destroy target artifact.
 
 
 Salivating Gremlins
@@ -736,9 +736,9 @@ Terror of the Fairgrounds
 
 
 Thriving Grubs
-   When Thriving Grubs enters the battlefield, you get {E} {E} (two energy counters).
+   When Thriving Grubs enters the battlefield, you get {E}{E} (two energy counters).
 
-   Whenever Thriving Grubs attacks, you may pay {E} {E}. If you do, put a +1/+1 counter on it.
+   Whenever Thriving Grubs attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.
 
 
 Wayward Giant
@@ -762,7 +762,7 @@ Arborback Stomper
 Architect of the Untamed
    Whenever a land enters the battlefield under your control, you get {E} (an energy counter).
 
-   Pay {E} {E} {E} {E} {E} {E} {E} {E}: Create a 6/6 colorless Beast artifact creature token.
+   Pay {E}{E}{E}{E}{E}{E}{E}{E}: Create a 6/6 colorless Beast artifact creature token.
 
 
 Armorcraft Judge
@@ -770,7 +770,7 @@ Armorcraft Judge
 
 
 Attune with Aether
-   Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library. You get {E} {E} (two energy counters).
+   Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library. You get {E}{E} (two energy counters).
 
 
 Blossoming Defense
@@ -778,9 +778,9 @@ Blossoming Defense
 
 
 Bristling Hydra
-   When Bristling Hydra enters the battlefield, you get {E} {E} {E} (three energy counters).
+   When Bristling Hydra enters the battlefield, you get {E}{E}{E} (three energy counters).
 
-   Pay {E} {E} {E}: Put a +1/+1 counter on Bristling Hydra. It gains hexproof until end of turn.
+   Pay {E}{E}{E}: Put a +1/+1 counter on Bristling Hydra. It gains hexproof until end of turn.
 
 
 Commencement of Festivities
@@ -808,7 +808,7 @@ Dubious Challenge
 Durable Handicraft
    Whenever a creature enters the battlefield under your control, you may pay |mana_1|. If you do, put a +1/+1 counter on that creature.
 
-   |mana_5| |mana_g|, Sacrifice Durable Handicraft: Put a +1/+1 counter on each creature you control.
+   |mana_5|\ |mana_g|, Sacrifice Durable Handicraft: Put a +1/+1 counter on each creature you control.
 
 
 Elegant Edgecrafters
@@ -822,7 +822,7 @@ Fairgrounds Trumpeter
 
 
 Ghirapur Guide
-   |mana_2| |mana_g|: Target creature you control can't be blocked by creatures with power 2 or less this turn.
+   |mana_2|\ |mana_g|: Target creature you control can't be blocked by creatures with power 2 or less this turn.
 
 
 Highspire Artisan
@@ -844,9 +844,9 @@ Larger Than Life
 
 
 Longtusk Cub
-   Whenever Longtusk Cub deals combat damage to a player, you get {E} {E} (two energy counters).
+   Whenever Longtusk Cub deals combat damage to a player, you get {E}{E} (two energy counters).
 
-   Pay {E} {E}: Put a +1/+1 counter on Longtusk Cub.
+   Pay {E}{E}: Put a +1/+1 counter on Longtusk Cub.
 
 
 Nature's Way
@@ -866,9 +866,9 @@ Ornamental Courage
 
 
 Oviya Pashiri, Sage Lifecrafter
-   |mana_2| |mana_g|, |tap|: Create a 1/1 colorless Servo artifact creature token.
+   |mana_2|\ |mana_g|, |tap|: Create a 1/1 colorless Servo artifact creature token.
 
-   |mana_4| |mana_g|, |tap|: Create an X/X colorless Construct artifact creature token, where X is the number of creatures you control.
+   |mana_4|\ |mana_g|, |tap|: Create an X/X colorless Construct artifact creature token, where X is the number of creatures you control.
 
 
 Peema Outrider
@@ -880,17 +880,17 @@ Peema Outrider
 Riparian Tiger
    Trample
 
-   When Riparian Tiger enters the battlefield, you get {E} {E} (two energy counters).
+   When Riparian Tiger enters the battlefield, you get {E}{E} (two energy counters).
 
-   Whenever Riparian Tiger attacks, you may pay {E} {E}. If you do, it gets +2/+2 until end of turn.
+   Whenever Riparian Tiger attacks, you may pay {E}{E}. If you do, it gets +2/+2 until end of turn.
 
 
 Sage of Shaila's Claim
-   When Sage of Shaila's Claim enters the battlefield, you get {E} {E} {E} (three energy counters).
+   When Sage of Shaila's Claim enters the battlefield, you get {E}{E}{E} (three energy counters).
 
 
 Servant of the Conduit
-   When Servant of the Conduit enters the battlefield, you get {E} {E} (two energy counters).
+   When Servant of the Conduit enters the battlefield, you get {E}{E} (two energy counters).
 
    |tap|, Pay {E}: Add one mana of any color.
 
@@ -904,9 +904,9 @@ Take Down
 
 
 Thriving Rhino
-   When Thriving Rhino enters the battlefield, you get {E} {E} (two energy counters).
+   When Thriving Rhino enters the battlefield, you get {E}{E} (two energy counters).
 
-   Whenever Thriving Rhino attacks, you may pay {E} {E}. If you do, put a +1/+1 counter on it.
+   Whenever Thriving Rhino attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.
 
 
 Verdurous Gearhulk
@@ -924,7 +924,7 @@ Wildest Dreams
 
 
 Wily Bandar
-   |mana_2| |mana_g|: Wily Bandar gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+   |mana_2|\ |mana_g|: Wily Bandar gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
 
 Cloudblazer
@@ -1004,15 +1004,15 @@ Veteran Motorist
 
 
 Voltaic Brawler
-   When Voltaic Brawler enters the battlefield, you get {E} {E} (two energy counters).
+   When Voltaic Brawler enters the battlefield, you get {E}{E} (two energy counters).
 
    Whenever Voltaic Brawler attacks, you may pay {E}. If you do, it gets +1/+1 and gains trample until end of turn.
 
 
 Whirler Virtuoso
-   When Whirler Virtuoso enters the battlefield, you get {E} {E} {E} (three energy counters).
+   When Whirler Virtuoso enters the battlefield, you get {E}{E}{E} (three energy counters).
 
-   Pay {E} {E} {E}: Create a 1/1 colorless Thopter artifact creature token with flying.
+   Pay {E}{E}{E}: Create a 1/1 colorless Thopter artifact creature token with flying.
 
 
 Accomplished Automaton
@@ -1028,7 +1028,7 @@ Aetherflux Reservoir
 Aetherworks Marvel
    Whenever a permanent you control is put into a graveyard, you get {E} (an energy counter).
 
-   |tap|, Pay {E} {E} {E} {E} {E} {E}: Look at the top six cards of your library. You may cast a card from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.
+   |tap|, Pay {E}{E}{E}{E}{E}{E}: Look at the top six cards of your library. You may cast a card from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.
 
 
 Animation Module
@@ -1074,7 +1074,7 @@ Chief of the Foundry
 Cogworker's Puzzleknot
    When Cogworker's Puzzleknot enters the battlefield, create a 1/1 colorless Servo artifact creature token.
 
-   |mana_1| |mana_w|, Sacrifice Cogworker's Puzzleknot: Create a 1/1 colorless Servo artifact creature token.
+   |mana_1|\ |mana_w|, Sacrifice Cogworker's Puzzleknot: Create a 1/1 colorless Servo artifact creature token.
 
 
 Consulate Skygate
@@ -1092,7 +1092,7 @@ Cultivator's Caravan
 Deadlock Trap
    Deadlock Trap enters the battlefield tapped.
 
-   When Deadlock Trap enters the battlefield, you get {E} {E} (two energy counters).
+   When Deadlock Trap enters the battlefield, you get {E}{E} (two energy counters).
 
    |tap|, Pay {E}: Tap target creature or planeswalker. Its activated abilities can't be activated this turn.
 
@@ -1114,9 +1114,9 @@ Dukhara Peafowl
 
 
 Dynavolt Tower
-   Whenever you cast an instant or sorcery spell, you get {E} {E} (two energy counters).
+   Whenever you cast an instant or sorcery spell, you get {E}{E} (two energy counters).
 
-   |tap|, Pay {E} {E} {E} {E} {E}: Dynavolt Tower deals 3 damage to any target.
+   |tap|, Pay {E}{E}{E}{E}{E}: Dynavolt Tower deals 3 damage to any target.
 
 
 Eager Construct
@@ -1124,9 +1124,9 @@ Eager Construct
 
 
 Electrostatic Pummeler
-   When Electrostatic Pummeler enters the battlefield, you get {E} {E} {E} (three energy counters).
+   When Electrostatic Pummeler enters the battlefield, you get {E}{E}{E} (three energy counters).
 
-   Pay {E} {E} {E}: Electrostatic Pummeler gets +X/+X until end of turn, where X is its power.
+   Pay {E}{E}{E}: Electrostatic Pummeler gets +X/+X until end of turn, where X is its power.
 
 
 Fabrication Module
@@ -1144,7 +1144,7 @@ Filigree Familiar
 Fireforger's Puzzleknot
    When Fireforger's Puzzleknot enters the battlefield, it deals 1 damage to any target.
 
-   |mana_2| |mana_r|, Sacrifice Fireforger's Puzzleknot: It deals 1 damage to any target.
+   |mana_2|\ |mana_r|, Sacrifice Fireforger's Puzzleknot: It deals 1 damage to any target.
 
 
 Fleetwheel Cruiser
@@ -1166,9 +1166,9 @@ Ghirapur Orrery
 
 
 Glassblower's Puzzleknot
-   When Glassblower's Puzzleknot enters the battlefield, scry 2, then you get {E} {E}. (You get two energy counters. To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+   When Glassblower's Puzzleknot enters the battlefield, scry 2, then you get {E}{E}. (You get two energy counters. To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
 
-   |mana_2| |mana_u|, Sacrifice Glassblower's Puzzleknot: Scry 2, then you get {E} {E}.
+   |mana_2|\ |mana_u|, Sacrifice Glassblower's Puzzleknot: Scry 2, then you get {E}{E}.
 
 
 Inventor's Goggles
@@ -1194,7 +1194,7 @@ Key to the City
 Metalspinner's Puzzleknot
    When Metalspinner's Puzzleknot enters the battlefield, you draw a card and you lose 1 life.
 
-   |mana_2| |mana_b|, Sacrifice Metalspinner's Puzzleknot: You draw a card and you lose 1 life.
+   |mana_2|\ |mana_b|, Sacrifice Metalspinner's Puzzleknot: You draw a card and you lose 1 life.
 
 
 Metalwork Colossus
@@ -1204,7 +1204,7 @@ Metalwork Colossus
 
 
 Multiform Wonder
-   When Multiform Wonder enters the battlefield, you get {E} {E} {E} (three energy counters).
+   When Multiform Wonder enters the battlefield, you get {E}{E}{E} (three energy counters).
 
    Pay {E}: Multiform Wonder gains your choice of flying, vigilance, or lifelink until end of turn.
 
@@ -1250,7 +1250,7 @@ Renegade Freighter
 Scrapheap Scrounger
    Scrapheap Scrounger can't block.
 
-   |mana_1| |mana_b|, Exile another creature card from your graveyard: Return Scrapheap Scrounger from your graveyard to the battlefield.
+   |mana_1|\ |mana_b|, Exile another creature card from your graveyard: Return Scrapheap Scrounger from your graveyard to the battlefield.
 
 
 Self-Assembler
@@ -1298,9 +1298,9 @@ Whirlermaker
 
 
 Woodweaver's Puzzleknot
-   When Woodweaver's Puzzleknot enters the battlefield, you gain 3 life and get {E} {E} {E} (three energy counters).
+   When Woodweaver's Puzzleknot enters the battlefield, you gain 3 life and get {E}{E}{E} (three energy counters).
 
-   |mana_2| |mana_g|, Sacrifice Woodweaver's Puzzleknot: You gain 3 life and get {E} {E} {E}.
+   |mana_2|\ |mana_g|, Sacrifice Woodweaver's Puzzleknot: You gain 3 life and get {E}{E}{E}.
 
 
 Workshop Assistant

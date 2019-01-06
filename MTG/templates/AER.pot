@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -76,11 +76,11 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../AER.rst:25
-msgid "When Aether Inspector enters the battlefield, you get {E} {E} (two energy counters)."
+msgid "When Aether Inspector enters the battlefield, you get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../AER.rst:27
-msgid "Whenever Aether Inspector attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token."
+msgid "Whenever Aether Inspector attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token."
 msgstr ""
 
 #: ../../AER.rst:34
@@ -88,11 +88,11 @@ msgid "Aethergeode Miner"
 msgstr ""
 
 #: ../../AER.rst:31
-msgid "Whenever Aethergeode Miner attacks, you get {E} {E} (two energy counters)."
+msgid "Whenever Aethergeode Miner attacks, you get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../AER.rst:33
-msgid "Pay {E} {E}: Exile Aethergeode Miner, then return it to the battlefield under its owner's control."
+msgid "Pay {E}{E}: Exile Aethergeode Miner, then return it to the battlefield under its owner's control."
 msgstr ""
 
 #: ../../AER.rst:40
@@ -300,11 +300,11 @@ msgid "Aether Swooper"
 msgstr ""
 
 #: ../../AER.rst:149
-msgid "When Aether Swooper enters the battlefield, you get {E} {E} (two energy counters)."
+msgid "When Aether Swooper enters the battlefield, you get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../AER.rst:151
-msgid "Whenever Aether Swooper attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token."
+msgid "Whenever Aether Swooper attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token."
 msgstr ""
 
 #: ../../AER.rst:160
@@ -312,11 +312,11 @@ msgid "Aethertide Whale"
 msgstr ""
 
 #: ../../AER.rst:157
-msgid "When Aethertide Whale enters the battlefield, you get {E} {E} {E} {E} {E} {E} (six energy counters)."
+msgid "When Aethertide Whale enters the battlefield, you get {E}{E}{E}{E}{E}{E} (six energy counters)."
 msgstr ""
 
 #: ../../AER.rst:159
-msgid "Pay {E} {E} {E} {E}: Return Aethertide Whale to its owner's hand."
+msgid "Pay {E}{E}{E}{E}: Return Aethertide Whale to its owner's hand."
 msgstr ""
 
 #: ../../AER.rst:166
@@ -499,7 +499,7 @@ msgid "Whenever Shielded Aether Thief blocks, you get {E} (an energy counter)."
 msgstr ""
 
 #: ../../AER.rst:251
-msgid "|tap|, Pay {E} {E} {E}: Draw a card."
+msgid "|tap|, Pay {E}{E}{E}: Draw a card."
 msgstr ""
 
 #: ../../AER.rst:258
@@ -507,7 +507,7 @@ msgid "Shipwreck Moray"
 msgstr ""
 
 #: ../../AER.rst:255
-msgid "When Shipwreck Moray enters the battlefield, you get {E} {E} {E} {E} (four energy counters)."
+msgid "When Shipwreck Moray enters the battlefield, you get {E}{E}{E}{E} (four energy counters)."
 msgstr ""
 
 #: ../../AER.rst:257
@@ -559,11 +559,11 @@ msgid "Deathtouch (Any amount of damage this deals to a creature is enough to de
 msgstr ""
 
 #: ../../AER.rst:289
-msgid "When Aether Poisoner enters the battlefield, you get {E} {E} (two energy counters)."
+msgid "When Aether Poisoner enters the battlefield, you get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../AER.rst:291
-msgid "Whenever Aether Poisoner attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token."
+msgid "Whenever Aether Poisoner attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token."
 msgstr ""
 
 #: ../../AER.rst:296
@@ -661,7 +661,7 @@ msgid "Whenever Glint-Sleeve Siphoner enters the battlefield or attacks, you get
 msgstr ""
 
 #: ../../AER.rst:347
-msgid "At the beginning of your upkeep, you may pay {E} {E}. If you do, you draw a card and you lose 1 life."
+msgid "At the beginning of your upkeep, you may pay {E}{E}. If you do, you draw a card and you lose 1 life."
 msgstr ""
 
 #: ../../AER.rst:354
@@ -673,7 +673,7 @@ msgid "Whenever you lose life for the first time each turn, you get {E}. (You ge
 msgstr ""
 
 #: ../../AER.rst:353
-msgid "Pay {E} {E}, Sacrifice Gonti's Machinations: Each opponent loses 3 life. You gain life equal to the life lost this way."
+msgid "Pay {E}{E}, Sacrifice Gonti's Machinations: Each opponent loses 3 life. You gain life equal to the life lost this way."
 msgstr ""
 
 #: ../../AER.rst:364
@@ -685,7 +685,7 @@ msgid "At the beginning of your end step, each opponent discards a card."
 msgstr ""
 
 #: ../../AER.rst:363
-msgid "|mana_1| |mana_b|, Sacrifice an artifact: Target creature gets -2/-2 until end of turn."
+msgid "|mana_1|\\ |mana_b|, Sacrifice an artifact: Target creature gets -2/-2 until end of turn."
 msgstr ""
 
 #: ../../AER.rst:368
@@ -798,11 +798,11 @@ msgid "First strike"
 msgstr ""
 
 #: ../../AER.rst:425
-msgid "When Aether Chaser enters the battlefield, you get {E} {E} (two energy counters)."
+msgid "When Aether Chaser enters the battlefield, you get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../AER.rst:427
-msgid "Whenever Aether Chaser attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token."
+msgid "Whenever Aether Chaser attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token."
 msgstr ""
 
 #: ../../AER.rst:432
@@ -846,7 +846,7 @@ msgid "Freejam Regent"
 msgstr ""
 
 #: ../../AER.rst:457
-msgid "|mana_1| |mana_r|: Freejam Regent gets +2/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|: Freejam Regent gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../AER.rst:462
@@ -939,7 +939,7 @@ msgid "Double strike, haste"
 msgstr ""
 
 #: ../../AER.rst:507
-msgid "Whenever Lightning Runner attacks, you get {E} {E} (two energy counters), then you may pay {E} {E} {E} {E} {E} {E} {E} {E}. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase."
+msgid "Whenever Lightning Runner attacks, you get {E}{E} (two energy counters), then you may pay {E}{E}{E}{E}{E}{E}{E}{E}. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase."
 msgstr ""
 
 #: ../../AER.rst:512
@@ -999,11 +999,11 @@ msgid "Double strike (This creature deals both first-strike and regular combat d
 msgstr ""
 
 #: ../../AER.rst:539
-msgid "When Scrapper Champion enters the battlefield, you get {E} {E} (two energy counters)."
+msgid "When Scrapper Champion enters the battlefield, you get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../AER.rst:541
-msgid "Whenever Scrapper Champion attacks, you may pay {E} {E}. If you do, put a +1/+1 counter on it."
+msgid "Whenever Scrapper Champion attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it."
 msgstr ""
 
 #: ../../AER.rst:546
@@ -1039,11 +1039,11 @@ msgid "Aether Herder"
 msgstr ""
 
 #: ../../AER.rst:567
-msgid "When Aether Herder enters the battlefield, you get {E} {E} (two energy counters)."
+msgid "When Aether Herder enters the battlefield, you get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../AER.rst:569
-msgid "Whenever Aether Herder attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token."
+msgid "Whenever Aether Herder attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token."
 msgstr ""
 
 #: ../../AER.rst:578
@@ -1100,7 +1100,7 @@ msgid "Greenbelt Rampager"
 msgstr ""
 
 #: ../../AER.rst:597
-msgid "When Greenbelt Rampager enters the battlefield, pay {E} {E} (two energy counters). If you can't, return Greenbelt Rampager to its owner's hand and you get {E}."
+msgid "When Greenbelt Rampager enters the battlefield, pay {E}{E} (two energy counters). If you can't, return Greenbelt Rampager to its owner's hand and you get {E}."
 msgstr ""
 
 #: ../../AER.rst:602
@@ -1124,7 +1124,7 @@ msgid "Hidden Herbalists"
 msgstr ""
 
 #: ../../AER.rst:609
-msgid "Revolt — When Hidden Herbalists enters the battlefield, if a permanent you controlled left the battlefield this turn, add |mana_g| |mana_g|."
+msgid "Revolt — When Hidden Herbalists enters the battlefield, if a permanent you controlled left the battlefield this turn, add |mana_g|\\ |mana_g|."
 msgstr ""
 
 #: ../../AER.rst:614
@@ -1132,7 +1132,7 @@ msgid "Highspire Infusion"
 msgstr ""
 
 #: ../../AER.rst:613
-msgid "Target creature gets +3/+3 until end of turn. You get {E} {E} (two energy counters)."
+msgid "Target creature gets +3/+3 until end of turn. You get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../AER.rst:618
@@ -1204,7 +1204,7 @@ msgid "When Peema Aether-Seer enters the battlefield, you get an amount of {E} (
 msgstr ""
 
 #: ../../AER.rst:653
-msgid "Pay {E} {E} {E}: Target creature blocks this turn if able."
+msgid "Pay {E}{E}{E}: Target creature blocks this turn if able."
 msgstr ""
 
 #: ../../AER.rst:658
@@ -1376,7 +1376,7 @@ msgid "Rogue Refiner"
 msgstr ""
 
 #: ../../AER.rst:741
-msgid "When Rogue Refiner enters the battlefield, draw a card and you get {E} {E} (two energy counters)."
+msgid "When Rogue Refiner enters the battlefield, draw a card and you get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../AER.rst:748
@@ -1440,7 +1440,7 @@ msgid "Aegis Automaton"
 msgstr ""
 
 #: ../../AER.rst:777
-msgid "|mana_4| |mana_w|: Return another target creature you control to its owner's hand."
+msgid "|mana_4|\\ |mana_w|: Return another target creature you control to its owner's hand."
 msgstr ""
 
 #: ../../AER.rst:788
@@ -1448,7 +1448,7 @@ msgid "Aethersphere Harvester"
 msgstr ""
 
 #: ../../AER.rst:783
-msgid "When Aethersphere Harvester enters the battlefield, you get {E} {E} (two energy counters)."
+msgid "When Aethersphere Harvester enters the battlefield, you get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../AER.rst:785
@@ -1465,7 +1465,7 @@ msgid "Augmenting Automaton"
 msgstr ""
 
 #: ../../AER.rst:791
-msgid "|mana_1| |mana_b|: Augmenting Automaton gets +1/+1 until end of turn."
+msgid "|mana_1|\\ |mana_b|: Augmenting Automaton gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../AER.rst:798
@@ -1501,7 +1501,7 @@ msgid "|tap|: You get {E} (an energy counter)."
 msgstr ""
 
 #: ../../AER.rst:811
-msgid "|tap|, Pay {E} {E} {E}: Consulate Turret deals 2 damage to target player or planeswalker."
+msgid "|tap|, Pay {E}{E}{E}: Consulate Turret deals 2 damage to target player or planeswalker."
 msgstr ""
 
 #: ../../AER.rst:816
@@ -1542,11 +1542,11 @@ msgid "Gonti's Aether Heart"
 msgstr ""
 
 #: ../../AER.rst:833
-msgid "Whenever Gonti's Aether Heart or another artifact enters the battlefield under your control, you get {E} {E} (two energy counters)."
+msgid "Whenever Gonti's Aether Heart or another artifact enters the battlefield under your control, you get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../AER.rst:835
-msgid "Pay {E} {E} {E} {E} {E} {E} {E} {E}, Exile Gonti's Aether Heart: Take an extra turn after this one."
+msgid "Pay {E}{E}{E}{E}{E}{E}{E}{E}, Exile Gonti's Aether Heart: Take an extra turn after this one."
 msgstr ""
 
 #: ../../AER.rst:844
@@ -1663,7 +1663,7 @@ msgid "Merchant's Dockhand"
 msgstr ""
 
 #: ../../AER.rst:897
-msgid "|mana_3| |mana_u|, |tap|, Tap X untapped artifacts you control: Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
+msgid "|mana_3|\\ |mana_u|, |tap|, Tap X untapped artifacts you control: Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
 msgstr ""
 
 #: ../../AER.rst:906
@@ -1723,7 +1723,7 @@ msgid "Peacewalker Colossus"
 msgstr ""
 
 #: ../../AER.rst:931
-msgid "|mana_1| |mana_w|: Another target Vehicle you control becomes an artifact creature until end of turn."
+msgid "|mana_1|\\ |mana_w|: Another target Vehicle you control becomes an artifact creature until end of turn."
 msgstr ""
 
 #: ../../AER.rst:933
@@ -1759,7 +1759,7 @@ msgid "Reservoir Walker"
 msgstr ""
 
 #: ../../AER.rst:951
-msgid "When Reservoir Walker enters the battlefield, you gain 3 life and get {E} {E} {E} (three energy counters)."
+msgid "When Reservoir Walker enters the battlefield, you gain 3 life and get {E}{E}{E} (three energy counters)."
 msgstr ""
 
 #: ../../AER.rst:956
@@ -1807,7 +1807,7 @@ msgid "Verdant Automaton"
 msgstr ""
 
 #: ../../AER.rst:979
-msgid "|mana_3| |mana_g|: Put a +1/+1 counter on Verdant Automaton."
+msgid "|mana_3|\\ |mana_g|: Put a +1/+1 counter on Verdant Automaton."
 msgstr ""
 
 #: ../../AER.rst:988
@@ -1831,7 +1831,7 @@ msgid "Watchful Automaton"
 msgstr ""
 
 #: ../../AER.rst:991
-msgid "|mana_2| |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid "|mana_2|\\ |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
 #: ../../AER.rst:996
@@ -1839,7 +1839,7 @@ msgid "Welder Automaton"
 msgstr ""
 
 #: ../../AER.rst:995
-msgid "|mana_3| |mana_r|: Welder Automaton deals 1 damage to each opponent."
+msgid "|mana_3|\\ |mana_r|: Welder Automaton deals 1 damage to each opponent."
 msgstr ""
 
 #: ../../AER.rst:1002

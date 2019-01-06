@@ -86,7 +86,7 @@ Evra, Halcyon Witness
 
 
 Excavation Elephant
-   Kicker |mana_1| |mana_w| (You may pay an additional |mana_1| |mana_w| as you cast this spell.)
+   Kicker |mana_1|\ |mana_w| (You may pay an additional |mana_1|\ |mana_w| as you cast this spell.)
 
    When Excavation Elephant enters the battlefield, if it was kicked, return target artifact card from your graveyard to your hand.
 
@@ -172,7 +172,7 @@ Seal Away
 
 
 Sergeant-at-Arms
-   Kicker |mana_2| |mana_w| (You may pay an additional |mana_2| |mana_w| as you cast this spell.)
+   Kicker |mana_2|\ |mana_w| (You may pay an additional |mana_2|\ |mana_w| as you cast this spell.)
 
    When Sergeant-at-Arms enters the battlefield, if it was kicked, create two 1/1 white Soldier creature tokens.
 
@@ -192,7 +192,7 @@ Shalai, Voice of Plenty
 
    You, planeswalkers you control, and other creatures you control have hexproof.
 
-   |mana_4| |mana_g| |mana_g|: Put a +1/+1 counter on each creature you control.
+   |mana_4|\ |mana_g|\ |mana_g|: Put a +1/+1 counter on each creature you control.
 
 
 Teshar, Ancestor's Apostle
@@ -260,7 +260,7 @@ Befuddle
 
 
 Blink of an Eye
-   Kicker |mana_1| |mana_u| (You may pay an additional |mana_1| |mana_u| as you cast this spell.)
+   Kicker |mana_1|\ |mana_u| (You may pay an additional |mana_1|\ |mana_u| as you cast this spell.)
 
    Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.
 
@@ -376,7 +376,7 @@ Sentinel of the Pearl Trident
 
 
 Slinn Voda, the Rising Deep
-   Kicker |mana_1| |mana_u| (You may pay an additional |mana_1| |mana_u| as you cast this spell.)
+   Kicker |mana_1|\ |mana_u| (You may pay an additional |mana_1|\ |mana_u| as you cast this spell.)
 
    When Slinn Voda, the Rising Deep enters the battlefield, if it was kicked, return all creatures to their owners' hands except for Merfolk, Krakens, Leviathans, Octopuses, and Serpents.
 
@@ -426,7 +426,7 @@ Wizard's Retort
 
 
 Zahid, Djinn of the Lamp
-   You may pay |mana_3| |mana_u| and tap an untapped artifact you control rather than pay this spell's mana cost.
+   You may pay |mana_3|\ |mana_u| and tap an untapped artifact you control rather than pay this spell's mana cost.
 
    Flying
 
@@ -444,7 +444,7 @@ Cabal Paladin
 
 
 Caligo Skin-Witch
-   Kicker |mana_3| |mana_b| (You may pay an additional |mana_3| |mana_b| as you cast this spell.)
+   Kicker |mana_3|\ |mana_b| (You may pay an additional |mana_3|\ |mana_b| as you cast this spell.)
 
    When Caligo Skin-Witch enters the battlefield, if it was kicked, each opponent discards two cards.
 
@@ -522,7 +522,7 @@ Fungal Infection
 
 
 Josu Vess, Lich Knight
-   Kicker |mana_5| |mana_b| (You may pay an additional |mana_5| |mana_b| as you cast this spell.)
+   Kicker |mana_5|\ |mana_b| (You may pay an additional |mana_5|\ |mana_b| as you cast this spell.)
 
    Menace
 
@@ -534,7 +534,7 @@ Kazarov, Sengir Pureblood
 
    Whenever a creature an opponent controls is dealt damage, put a +1/+1 counter on Kazarov, Sengir Pureblood.
 
-   |mana_3| |mana_r|: Kazarov deals 2 damage to target creature.
+   |mana_3|\ |mana_r|: Kazarov deals 2 damage to target creature.
 
 
 Knight of Malice
@@ -670,7 +670,7 @@ Fiery Intervention
 
 
 Fight with Fire
-   Kicker |mana_5| |mana_r| (You may pay an additional |mana_5| |mana_r| as you cast this spell.)
+   Kicker |mana_5|\ |mana_r| (You may pay an additional |mana_5|\ |mana_r| as you cast this spell.)
 
    Fight with Fire deals 5 damage to target creature. If this spell was kicked, it deals 10 damage divided as you choose among any number of targets instead. (Those targets can include players and planeswalkers.)
 
@@ -688,7 +688,7 @@ The First Eruption
 
    I — The First Eruption deals 1 damage to each creature without flying.
 
-   II — Add |mana_r| |mana_r|.
+   II — Add |mana_r|\ |mana_r|.
 
    III — Sacrifice a Mountain. If you do, The First Eruption deals 3 damage to each creature.
 
@@ -710,7 +710,7 @@ Frenzied Rage
 
 
 Ghitu Chronicler
-   Kicker |mana_3| |mana_r| (You may pay an additional |mana_3| |mana_r| as you cast this spell.)
+   Kicker |mana_3|\ |mana_r| (You may pay an additional |mana_3|\ |mana_r| as you cast this spell.)
 
    When Ghitu Chronicler enters the battlefield, if it was kicked, return target instant or sorcery card from your graveyard to your hand.
 
@@ -748,7 +748,7 @@ Haphazard Bombardment
 
 
 Jaya Ballard
-   +1: Add |mana_r| |mana_r| |mana_r|. Spend this mana only to cast instant or sorcery spells.
+   +1: Add |mana_r|\ |mana_r|\ |mana_r|. Spend this mana only to cast instant or sorcery spells.
 
    +1: Discard up to three cards, then draw that many cards.
 
@@ -762,7 +762,7 @@ Jaya's Immolating Inferno
 
 
 Keldon Overseer
-   Kicker |mana_3| |mana_r| (You may pay an additional |mana_3| |mana_r| as you cast this spell.)
+   Kicker |mana_3|\ |mana_r| (You may pay an additional |mana_3|\ |mana_r| as you cast this spell.)
 
    Haste
 
@@ -806,7 +806,7 @@ Shivan Fire
 Siege-Gang Commander
    When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.
 
-   |mana_1| |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.
+   |mana_1|\ |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.
 
 
 Skirk Prospector
@@ -844,7 +844,7 @@ Verix Bladewing
 Warcry Phoenix
    Flying, haste
 
-   Whenever you attack with three or more creatures, you may pay |mana_2| |mana_r|. If you do, return Warcry Phoenix from your graveyard to the battlefield tapped and attacking.
+   Whenever you attack with three or more creatures, you may pay |mana_2|\ |mana_r|. If you do, return Warcry Phoenix from your graveyard to the battlefield tapped and attacking.
 
 
 Warlord's Fury
@@ -888,11 +888,11 @@ Corrosive Ooze
 Elfhame Druid
    |tap|: Add |mana_g|.
 
-   |tap|: Add |mana_g| |mana_g|. Spend this mana only to cast kicked spells.
+   |tap|: Add |mana_g|\ |mana_g|. Spend this mana only to cast kicked spells.
 
 
 Fungal Plots
-   |mana_1| |mana_g|, Exile a creature card from your graveyard: Create a 1/1 green Saproling creature token.
+   |mana_1|\ |mana_g|, Exile a creature card from your graveyard: Create a 1/1 green Saproling creature token.
 
    Sacrifice two Saprolings: You gain 2 life and draw a card.
 
@@ -936,7 +936,7 @@ Kamahl's Druidic Vow
 
 
 Krosan Druid
-   Kicker |mana_4| |mana_g| (You may pay an additional |mana_4| |mana_g| as you cast this spell.)
+   Kicker |mana_4|\ |mana_g| (You may pay an additional |mana_4|\ |mana_g| as you cast this spell.)
 
    When Krosan Druid enters the battlefield, if it was kicked, you gain 10 life.
 
@@ -946,7 +946,7 @@ Llanowar Elves
 
 
 Llanowar Envoy
-   |mana_1| |mana_g|: Add one mana of any color.
+   |mana_1|\ |mana_g|: Add one mana of any color.
 
 
 Llanowar Scout
@@ -976,7 +976,7 @@ Multani, Yavimaya's Avatar
 
    Multani, Yavimaya's Avatar gets +1/+1 for each land you control and each land card in your graveyard.
 
-   |mana_1| |mana_g|, Return two lands you control to their owner's hand: Return Multani from your graveyard to your hand.
+   |mana_1|\ |mana_g|, Return two lands you control to their owner's hand: Return Multani from your graveyard to your hand.
 
 
 Nature's Spiral
@@ -1022,7 +1022,7 @@ Sylvan Awakening
 
 
 Territorial Allosaurus
-   Kicker |mana_2| |mana_g| (You may pay an additional |mana_2| |mana_g| as you cast this spell.)
+   Kicker |mana_2|\ |mana_g| (You may pay an additional |mana_2|\ |mana_g| as you cast this spell.)
 
    When Territorial Allosaurus enters the battlefield, if it was kicked, it fights another target creature.
 
@@ -1068,7 +1068,7 @@ Arvad the Cursed
 Aryel, Knight of Windgrace
    Vigilance
 
-   |mana_2| |mana_w|, |tap|: Create a 2/2 white Knight creature token with vigilance.
+   |mana_2|\ |mana_w|, |tap|: Create a 2/2 white Knight creature token with vigilance.
 
    |mana_b|, |tap|, Tap X untapped Knights you control: Destroy target creature with power X or less.
 
@@ -1108,7 +1108,7 @@ Jhoira, Weatherlight Captain
 Jodah, Archmage Eternal
    Flying
 
-   You may pay |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| rather than pay the mana cost for spells that you cast.
+   You may pay |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g| rather than pay the mana cost for spells that you cast.
 
 
 Muldrotha, the Gravetide
@@ -1358,7 +1358,7 @@ Memorial to Folly
 
    |tap|: Add |mana_b|.
 
-   |mana_2| |mana_b|, |tap|, Sacrifice Memorial to Folly: Return target creature card from your graveyard to your hand.
+   |mana_2|\ |mana_b|, |tap|, Sacrifice Memorial to Folly: Return target creature card from your graveyard to your hand.
 
 
 Memorial to Genius
@@ -1366,7 +1366,7 @@ Memorial to Genius
 
    |tap|: Add |mana_u|.
 
-   |mana_4| |mana_u|, |tap|, Sacrifice Memorial to Genius: Draw two cards.
+   |mana_4|\ |mana_u|, |tap|, Sacrifice Memorial to Genius: Draw two cards.
 
 
 Memorial to Glory
@@ -1374,7 +1374,7 @@ Memorial to Glory
 
    |tap|: Add |mana_w|.
 
-   |mana_3| |mana_w|, |tap|, Sacrifice Memorial to Glory: Create two 1/1 white Soldier creature tokens.
+   |mana_3|\ |mana_w|, |tap|, Sacrifice Memorial to Glory: Create two 1/1 white Soldier creature tokens.
 
 
 Memorial to Unity
@@ -1382,7 +1382,7 @@ Memorial to Unity
 
    |tap|: Add |mana_g|.
 
-   |mana_2| |mana_g|, |tap|, Sacrifice Memorial to Unity: Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Then put the rest on the bottom of your library in a random order.
+   |mana_2|\ |mana_g|, |tap|, Sacrifice Memorial to Unity: Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Then put the rest on the bottom of your library in a random order.
 
 
 Memorial to War
@@ -1390,7 +1390,7 @@ Memorial to War
 
    |tap|: Add |mana_r|.
 
-   |mana_4| |mana_r|, |tap|, Sacrifice Memorial to War: Destroy target land.
+   |mana_4|\ |mana_r|, |tap|, Sacrifice Memorial to War: Destroy target land.
 
 
 Sulfur Falls
@@ -1518,7 +1518,7 @@ Meandering River
 
 
 Chandra, Bold Pyromancer
-   +1: Add |mana_r| |mana_r|. Chandra, Bold Pyromancer deals 2 damage to target player.
+   +1: Add |mana_r|\ |mana_r|. Chandra, Bold Pyromancer deals 2 damage to target player.
 
    −3: Chandra, Bold Pyromancer deals 3 damage to target creature or planeswalker.
 

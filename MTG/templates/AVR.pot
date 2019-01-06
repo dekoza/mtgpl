@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -237,7 +237,7 @@ msgid "Create X 4/4 white Angel creature tokens with flying."
 msgstr ""
 
 #: ../../AVR.rst:107
-msgid "Miracle |mana_x| |mana_w| |mana_w| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
+msgid "Miracle |mana_x|\\ |mana_w|\\ |mana_w| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
 msgstr ""
 
 #: ../../AVR.rst:112
@@ -281,7 +281,7 @@ msgid "Holy Justiciar"
 msgstr ""
 
 #: ../../AVR.rst:133
-msgid "|mana_2| |mana_w|, |tap|: Tap target creature. If that creature is a Zombie, exile it."
+msgid "|mana_2|\\ |mana_w|, |tap|: Tap target creature. If that creature is a Zombie, exile it."
 msgstr ""
 
 #: ../../AVR.rst:138
@@ -313,7 +313,7 @@ msgid "Moonlight Geist"
 msgstr ""
 
 #: ../../AVR.rst:151
-msgid "|mana_3| |mana_w|: Prevent all combat damage that would be dealt to and dealt by Moonlight Geist this turn."
+msgid "|mana_3|\\ |mana_w|: Prevent all combat damage that would be dealt to and dealt by Moonlight Geist this turn."
 msgstr ""
 
 #: ../../AVR.rst:156
@@ -321,7 +321,7 @@ msgid "Moorland Inquisitor"
 msgstr ""
 
 #: ../../AVR.rst:155
-msgid "|mana_2| |mana_w|: Moorland Inquisitor gains first strike until end of turn."
+msgid "|mana_2|\\ |mana_w|: Moorland Inquisitor gains first strike until end of turn."
 msgstr ""
 
 #: ../../AVR.rst:162
@@ -476,7 +476,7 @@ msgid "Whenever another Human enters the battlefield under your control, untap C
 msgstr ""
 
 #: ../../AVR.rst:237
-msgid "|mana_1| |mana_u|, |tap|: You may tap or untap target permanent."
+msgid "|mana_1|\\ |mana_u|, |tap|: You may tap or untap target permanent."
 msgstr ""
 
 #: ../../AVR.rst:244
@@ -497,7 +497,7 @@ msgid "Deadeye Navigator"
 msgstr ""
 
 #: ../../AVR.rst:249
-msgid "As long as Deadeye Navigator is paired with another creature, each of those creatures has \"|mana_1| |mana_u|: Exile this creature, then return it to the battlefield under your control.\""
+msgid "As long as Deadeye Navigator is paired with another creature, each of those creatures has \"|mana_1|\\ |mana_u|: Exile this creature, then return it to the battlefield under your control.\""
 msgstr ""
 
 #: ../../AVR.rst:256
@@ -510,7 +510,7 @@ msgstr ""
 
 #: ../../AVR.rst:255
 #: ../../AVR.rst:429
-msgid "Miracle |mana_1| |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
+msgid "Miracle |mana_1|\\ |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
 msgstr ""
 
 #: ../../AVR.rst:260
@@ -558,7 +558,7 @@ msgid "Galvanic Alchemist"
 msgstr ""
 
 #: ../../AVR.rst:287
-msgid "As long as Galvanic Alchemist is paired with another creature, each of those creatures has \"|mana_2| |mana_u|: Untap this creature.\""
+msgid "As long as Galvanic Alchemist is paired with another creature, each of those creatures has \"|mana_2|\\ |mana_u|: Untap this creature.\""
 msgstr ""
 
 #: ../../AVR.rst:292
@@ -686,7 +686,7 @@ msgid "Nephalia Smuggler"
 msgstr ""
 
 #: ../../AVR.rst:361
-msgid "|mana_3| |mana_u|, |tap|: Exile another target creature you control, then return that card to the battlefield under your control."
+msgid "|mana_3|\\ |mana_u|, |tap|: Exile another target creature you control, then return that card to the battlefield under your control."
 msgstr ""
 
 #: ../../AVR.rst:366
@@ -887,7 +887,7 @@ msgid "Corpse Traders"
 msgstr ""
 
 #: ../../AVR.rst:471
-msgid "|mana_2| |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_2|\\ |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../AVR.rst:476
@@ -903,7 +903,7 @@ msgid "Dark Impostor"
 msgstr ""
 
 #: ../../AVR.rst:479
-msgid "|mana_4| |mana_b| |mana_b|: Exile target creature and put a +1/+1 counter on Dark Impostor."
+msgid "|mana_4|\\ |mana_b|\\ |mana_b|: Exile target creature and put a +1/+1 counter on Dark Impostor."
 msgstr ""
 
 #: ../../AVR.rst:481
@@ -1131,7 +1131,7 @@ msgid "Searchlight Geist"
 msgstr ""
 
 #: ../../AVR.rst:611
-msgid "|mana_3| |mana_b|: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
+msgid "|mana_3|\\ |mana_b|: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)"
 msgstr ""
 
 #: ../../AVR.rst:616
@@ -1219,7 +1219,7 @@ msgid "Bonfire of the Damned deals X damage to target player or planeswalker and
 msgstr ""
 
 #: ../../AVR.rst:659
-msgid "Miracle |mana_x| |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
+msgid "Miracle |mana_x|\\ |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
 msgstr ""
 
 #: ../../AVR.rst:666
@@ -1267,7 +1267,7 @@ msgid "Whenever Falkenrath Exterminator deals combat damage to a player, put a +
 msgstr ""
 
 #: ../../AVR.rst:685
-msgid "|mana_2| |mana_r|: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator."
+msgid "|mana_2|\\ |mana_r|: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator."
 msgstr ""
 
 #: ../../AVR.rst:692
@@ -1422,7 +1422,7 @@ msgid "Each player discards their hand, then draws seven cards."
 msgstr ""
 
 #: ../../AVR.rst:777
-msgid "Miracle |mana_1| |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
+msgid "Miracle |mana_1|\\ |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
 msgstr ""
 
 #: ../../AVR.rst:782
@@ -1454,7 +1454,7 @@ msgid "Scalding Devil"
 msgstr ""
 
 #: ../../AVR.rst:793
-msgid "|mana_2| |mana_r|: Scalding Devil deals 1 damage to target player or planeswalker."
+msgid "|mana_2|\\ |mana_r|: Scalding Devil deals 1 damage to target player or planeswalker."
 msgstr ""
 
 #: ../../AVR.rst:798
@@ -1871,7 +1871,7 @@ msgid "Ulvenwald Tracker"
 msgstr ""
 
 #: ../../AVR.rst:1027
-msgid "|mana_1| |mana_g|, |tap|: Target creature you control fights another target creature."
+msgid "|mana_1|\\ |mana_g|, |tap|: Target creature you control fights another target creature."
 msgstr ""
 
 #: ../../AVR.rst:1030
@@ -1911,7 +1911,7 @@ msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr ""
 
 #: ../../AVR.rst:1049
-msgid "|mana_1| |mana_g|: Regenerate Wolfir Avenger."
+msgid "|mana_1|\\ |mana_g|: Regenerate Wolfir Avenger."
 msgstr ""
 
 #: ../../AVR.rst:1056
@@ -1927,7 +1927,7 @@ msgid "Yew Spirit"
 msgstr ""
 
 #: ../../AVR.rst:1059
-msgid "|mana_2| |mana_g| |mana_g|: Yew Spirit gets +X/+X until end of turn, where X is its power."
+msgid "|mana_2|\\ |mana_g|\\ |mana_g|: Yew Spirit gets +X/+X until end of turn, where X is its power."
 msgstr ""
 
 #: ../../AVR.rst:1066
@@ -2124,7 +2124,7 @@ msgid "|tap|: Add |colorless|."
 msgstr ""
 
 #: ../../AVR.rst:1159
-msgid "|mana_g| |mana_u|, |tap|: You may cast spells this turn as though they had flash."
+msgid "|mana_g|\\ |mana_u|, |tap|: You may cast spells this turn as though they had flash."
 msgstr ""
 
 #: ../../AVR.rst:1168
@@ -2144,7 +2144,7 @@ msgid "Desolate Lighthouse"
 msgstr ""
 
 #: ../../AVR.rst:1173
-msgid "|mana_1| |mana_u| |mana_r|, |tap|: Draw a card, then discard a card."
+msgid "|mana_1|\\ |mana_u|\\ |mana_r|, |tap|: Draw a card, then discard a card."
 msgstr ""
 
 #: ../../AVR.rst:1182
@@ -2164,7 +2164,7 @@ msgid "Slayers' Stronghold"
 msgstr ""
 
 #: ../../AVR.rst:1187
-msgid "|mana_r| |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance and haste until end of turn."
+msgid "|mana_r|\\ |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance and haste until end of turn."
 msgstr ""
 
 #: ../../AVR.rst:1190

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -168,7 +168,7 @@ msgid "Create five 1/1 white Human creature tokens. If this spell was cast from 
 msgstr ""
 
 #: ../../DKA.rst:67
-msgid "Flashback |mana_7| |mana_w| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_7|\\ |mana_w|\\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:74
@@ -180,7 +180,7 @@ msgid "Create two 1/1 white Spirit creature tokens with flying."
 msgstr ""
 
 #: ../../DKA.rst:73
-msgid "Flashback |mana_1| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_1|\\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:80
@@ -378,7 +378,7 @@ msgid "Each player puts the top five cards of their library into their graveyard
 msgstr ""
 
 #: ../../DKA.rst:181
-msgid "Flashback |mana_7| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_7|\\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:186
@@ -449,7 +449,7 @@ msgid "Havengul Runebinder"
 msgstr ""
 
 #: ../../DKA.rst:215
-msgid "|mana_2| |mana_u|, |tap|, Exile a creature card from your graveyard: Create a 2/2 black Zombie creature token, then put a +1/+1 counter on each Zombie creature you control."
+msgid "|mana_2|\\ |mana_u|, |tap|, Exile a creature card from your graveyard: Create a 2/2 black Zombie creature token, then put a +1/+1 counter on each Zombie creature you control."
 msgstr ""
 
 #: ../../DKA.rst:222
@@ -474,7 +474,7 @@ msgid "Target player puts the top X cards of their library into their graveyard.
 msgstr ""
 
 #: ../../DKA.rst:227
-msgid "Flashback |mana_x| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_x|\\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:234
@@ -487,7 +487,7 @@ msgstr ""
 
 #: ../../DKA.rst:233
 #: ../../DKA.rst:499
-msgid "Flashback |mana_2| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:240
@@ -733,7 +733,7 @@ msgid "Search your library for a card and put that card into your hand. If this 
 msgstr ""
 
 #: ../../DKA.rst:393
-msgid "Flashback |mana_7| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_7|\\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:402
@@ -777,7 +777,7 @@ msgid "Create a 2/2 black Zombie creature token."
 msgstr ""
 
 #: ../../DKA.rst:417
-msgid "Flashback |mana_4| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_4|\\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:424
@@ -793,7 +793,7 @@ msgid "Skirsdag Flayer"
 msgstr ""
 
 #: ../../DKA.rst:427
-msgid "|mana_3| |mana_b|, |tap|, Sacrifice a Human: Destroy target creature."
+msgid "|mana_3|\\ |mana_b|, |tap|, Sacrifice a Human: Destroy target creature."
 msgstr ""
 
 #: ../../DKA.rst:434
@@ -889,7 +889,7 @@ msgid "Burning Oil deals 3 damage to target attacking or blocking creature."
 msgstr ""
 
 #: ../../DKA.rst:481
-msgid "Flashback |mana_3| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_3|\\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:488
@@ -932,7 +932,7 @@ msgid "Fires of Undeath deals 2 damage to any target."
 msgstr ""
 
 #: ../../DKA.rst:505
-msgid "Flashback |mana_5| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_5|\\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:512
@@ -968,7 +968,7 @@ msgid "Heckling Fiends"
 msgstr ""
 
 #: ../../DKA.rst:525
-msgid "|mana_2| |mana_r|: Target creature attacks this turn if able."
+msgid "|mana_2|\\ |mana_r|: Target creature attacks this turn if able."
 msgstr ""
 
 #: ../../DKA.rst:532
@@ -1008,7 +1008,7 @@ msgid "Copy target instant or sorcery spell you control. If this spell was cast 
 msgstr ""
 
 #: ../../DKA.rst:547
-msgid "Flashback |mana_3| |mana_r| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_3|\\ |mana_r|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:554
@@ -1092,7 +1092,7 @@ msgid "Discard all the cards in your hand, then draw that many cards."
 msgstr ""
 
 #: ../../DKA.rst:599
-msgid "Flashback |mana_5| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_5|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:608
@@ -1100,7 +1100,7 @@ msgid "Talons of Falkenrath"
 msgstr ""
 
 #: ../../DKA.rst:607
-msgid "Enchanted creature has \"|mana_1| |mana_r|: This creature gets +2/+0 until end of turn.\""
+msgid "Enchanted creature has \"|mana_1|\\ |mana_r|: This creature gets +2/+0 until end of turn.\""
 msgstr ""
 
 #: ../../DKA.rst:612
@@ -1168,7 +1168,7 @@ msgid "Deranged Outcast"
 msgstr ""
 
 #: ../../DKA.rst:643
-msgid "|mana_1| |mana_g|, Sacrifice a Human: Put two +1/+1 counters on target creature."
+msgid "|mana_1|\\ |mana_g|, Sacrifice a Human: Put two +1/+1 counters on target creature."
 msgstr ""
 
 #: ../../DKA.rst:650
@@ -1241,7 +1241,7 @@ msgid "Put five +1/+1 counters on target creature. If this spell was cast from a
 msgstr ""
 
 #: ../../DKA.rst:683
-msgid "Flashback |mana_5| |mana_g| |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_5|\\ |mana_g|\\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:690
@@ -1317,7 +1317,7 @@ msgid "Moonscarred Werewolf"
 msgstr ""
 
 #: ../../DKA.rst:723
-msgid "|tap|: Add |mana_g| |mana_g|."
+msgid "|tap|: Add |mana_g|\\ |mana_g|."
 msgstr ""
 
 #: ../../DKA.rst:725
@@ -1345,7 +1345,7 @@ msgid "Reveal the top four cards of your library. Put a creature card from among
 msgstr ""
 
 #: ../../DKA.rst:741
-msgid "Flashback |mana_2| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_2|\\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:746
@@ -1381,7 +1381,7 @@ msgid "Target creature gets +3/+1 and gains trample until end of turn."
 msgstr ""
 
 #: ../../DKA.rst:763
-msgid "Flashback |mana_3| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_3|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../DKA.rst:770
@@ -1389,7 +1389,7 @@ msgid "Wolfbitten Captive"
 msgstr ""
 
 #: ../../DKA.rst:767
-msgid "|mana_1| |mana_g|: Wolfbitten Captive gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_1|\\ |mana_g|: Wolfbitten Captive gets +2/+2 until end of turn. Activate this ability only once each turn."
 msgstr ""
 
 #: ../../DKA.rst:769
@@ -1401,7 +1401,7 @@ msgid "Krallenhorde Killer"
 msgstr ""
 
 #: ../../DKA.rst:773
-msgid "|mana_3| |mana_g|: Krallenhorde Killer gets +4/+4 until end of turn. Activate this ability only once each turn."
+msgid "|mana_3|\\ |mana_g|: Krallenhorde Killer gets +4/+4 until end of turn. Activate this ability only once each turn."
 msgstr ""
 
 #: ../../DKA.rst:775
@@ -1709,7 +1709,7 @@ msgid "Grim Backwoods"
 msgstr ""
 
 #: ../../DKA.rst:939
-msgid "|mana_2| |mana_b| |mana_g|, |tap|, Sacrifice a creature: Draw a card."
+msgid "|mana_2|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice a creature: Draw a card."
 msgstr ""
 
 #: ../../DKA.rst:946
@@ -1725,6 +1725,6 @@ msgid "Vault of the Archangel"
 msgstr ""
 
 #: ../../DKA.rst:951
-msgid "|mana_2| |mana_w| |mana_b|, |tap|: Creatures you control gain deathtouch and lifelink until end of turn."
+msgid "|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Creatures you control gain deathtouch and lifelink until end of turn."
 msgstr ""
 

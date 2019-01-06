@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -178,7 +178,7 @@ msgid "Magus of the Will"
 msgstr ""
 
 #: ../../C16.rst:77
-msgid "|mana_2| |mana_b|, |tap|, Exile Magus of the Will: Until end of turn, you may play cards from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile that card instead."
+msgid "|mana_2|\\ |mana_b|, |tap|, Exile Magus of the Will: Until end of turn, you may play cards from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile that card instead."
 msgstr ""
 
 #: ../../C16.rst:82
@@ -243,7 +243,7 @@ msgid "Runehorn Hellkite"
 msgstr ""
 
 #: ../../C16.rst:111
-msgid "|mana_5| |mana_r|, Exile Runehorn Hellkite from your graveyard: Each player discards their hand, then draws seven cards."
+msgid "|mana_5|\\ |mana_r|, Exile Runehorn Hellkite from your graveyard: Each player discards their hand, then draws seven cards."
 msgstr ""
 
 #: ../../C16.rst:118
@@ -759,7 +759,7 @@ msgid "Custodi Soulbinders enters the battlefield with X +1/+1 counters on it, w
 msgstr ""
 
 #: ../../C16.rst:395
-msgid "|mana_2| |mana_w|, Remove a +1/+1 counter from Custodi Soulbinders: Create a 1/1 white Spirit creature token with flying."
+msgid "|mana_2|\\ |mana_w|, Remove a +1/+1 counter from Custodi Soulbinders: Create a 1/1 white Spirit creature token with flying."
 msgstr ""
 
 #: ../../C16.rst:400
@@ -767,7 +767,7 @@ msgid "Dispeller's Capsule"
 msgstr ""
 
 #: ../../C16.rst:399
-msgid "|mana_2| |mana_w|, |tap|, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment."
+msgid "|mana_2|\\ |mana_w|, |tap|, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment."
 msgstr ""
 
 #: ../../C16.rst:406
@@ -801,7 +801,7 @@ msgid "Whenever you draw a card, you may put a hoofprint counter on Hoofprints o
 msgstr ""
 
 #: ../../C16.rst:415
-msgid "|mana_2| |mana_w|, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate this ability only during your turn."
+msgid "|mana_2|\\ |mana_w|, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate this ability only during your turn."
 msgstr ""
 
 #: ../../C16.rst:424
@@ -866,7 +866,7 @@ msgid "When Reveillark leaves the battlefield, return up to two target creature 
 msgstr ""
 
 #: ../../C16.rst:453
-msgid "Evoke |mana_5| |mana_w| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
+msgid "Evoke |mana_5|\\ |mana_w| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 
 #: ../../C16.rst:458
@@ -922,7 +922,7 @@ msgid "Academy Elite enters the battlefield with X +1/+1 counters on it, where X
 msgstr ""
 
 #: ../../C16.rst:487
-msgid "|mana_2| |mana_u|, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card."
+msgid "|mana_2|\\ |mana_u|, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card."
 msgstr ""
 
 #: ../../C16.rst:496
@@ -934,7 +934,7 @@ msgid "Aeon Chronicler's power and toughness are each equal to the number of car
 msgstr ""
 
 #: ../../C16.rst:493
-msgid "Suspend X—|mana_x| |mana_3| |mana_u|. X can't be 0. (Rather than cast this card from your hand, you may pay |mana_x| |mana_3| |mana_u| and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)"
+msgid "Suspend X—|mana_x|\\ |mana_3|\\ |mana_u|. X can't be 0. (Rather than cast this card from your hand, you may pay |mana_x|\\ |mana_3|\\ |mana_u| and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)"
 msgstr ""
 
 #: ../../C16.rst:495
@@ -986,7 +986,7 @@ msgid "Devastation Tide"
 msgstr ""
 
 #: ../../C16.rst:521
-msgid "Miracle |mana_1| |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
+msgid "Miracle |mana_1|\\ |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
 msgstr ""
 
 #: ../../C16.rst:526
@@ -1010,11 +1010,11 @@ msgid "Ethersworn Adjudicator"
 msgstr ""
 
 #: ../../C16.rst:535
-msgid "|mana_1| |mana_w| |mana_b|, |tap|: Destroy target creature or enchantment."
+msgid "|mana_1|\\ |mana_w|\\ |mana_b|, |tap|: Destroy target creature or enchantment."
 msgstr ""
 
 #: ../../C16.rst:537
-msgid "|mana_2| |mana_u|: Untap Ethersworn Adjudicator."
+msgid "|mana_2|\\ |mana_u|: Untap Ethersworn Adjudicator."
 msgstr ""
 
 #: ../../C16.rst:542
@@ -1147,7 +1147,7 @@ msgid "Create thirteen tapped 2/2 black Zombie creature tokens."
 msgstr ""
 
 #: ../../C16.rst:607
-msgid "Flashback |mana_7| |mana_b| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../C16.rst:614
@@ -1155,7 +1155,7 @@ msgid "Bane of the Living"
 msgstr ""
 
 #: ../../C16.rst:611
-msgid "Morph |mana_x| |mana_b| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_x|\\ |mana_b|\\ |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../C16.rst:613
@@ -1179,7 +1179,7 @@ msgid "Whenever a creature you control attacks, defending player loses 1 life an
 msgstr ""
 
 #: ../../C16.rst:623
-msgid "|mana_3| |mana_rw| |mana_rw|: Creatures your opponents control block this turn if able, and you choose how those creatures block."
+msgid "|mana_3|\\ |mana_rw|\\ |mana_rw|: Creatures your opponents control block this turn if able, and you choose how those creatures block."
 msgstr ""
 
 #: ../../C16.rst:628
@@ -1187,7 +1187,7 @@ msgid "Executioner's Capsule"
 msgstr ""
 
 #: ../../C16.rst:627
-msgid "|mana_1| |mana_b|, |tap|, Sacrifice Executioner's Capsule: Destroy target nonblack creature."
+msgid "|mana_1|\\ |mana_b|, |tap|, Sacrifice Executioner's Capsule: Destroy target nonblack creature."
 msgstr ""
 
 #: ../../C16.rst:634
@@ -1199,7 +1199,7 @@ msgid "Festercreep enters the battlefield with a +1/+1 counter on it."
 msgstr ""
 
 #: ../../C16.rst:633
-msgid "|mana_1| |mana_b|, Remove a +1/+1 counter from Festercreep: All other creatures get -1/-1 until end of turn."
+msgid "|mana_1|\\ |mana_b|, Remove a +1/+1 counter from Festercreep: All other creatures get -1/-1 until end of turn."
 msgstr ""
 
 #: ../../C16.rst:638
@@ -1275,7 +1275,7 @@ msgid "Whenever an opponent discards a creature card, create a 2/2 black Zombie 
 msgstr ""
 
 #: ../../C16.rst:673
-msgid "Whenever an opponent discards a land card, add |mana_b| |mana_b|."
+msgid "Whenever an opponent discards a land card, add |mana_b|\\ |mana_b|."
 msgstr ""
 
 #: ../../C16.rst:675
@@ -1295,7 +1295,7 @@ msgid "Alesha, Who Smiles at Death"
 msgstr ""
 
 #: ../../C16.rst:685
-msgid "Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb| |mana_wb|. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking."
+msgid "Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb|\\ |mana_wb|. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking."
 msgstr ""
 
 #: ../../C16.rst:692
@@ -1392,7 +1392,7 @@ msgid "Sacrifice a creature. Grab the Reins deals damage equal to that creature'
 msgstr ""
 
 #: ../../C16.rst:733
-msgid "Entwine |mana_2| |mana_r| (Choose both if you pay the entwine cost.)"
+msgid "Entwine |mana_2|\\ |mana_r| (Choose both if you pay the entwine cost.)"
 msgstr ""
 
 #: ../../C16.rst:740
@@ -1400,7 +1400,7 @@ msgid "Hellkite Igniter"
 msgstr ""
 
 #: ../../C16.rst:739
-msgid "|mana_1| |mana_r|: Hellkite Igniter gets +X/+0 until end of turn, where X is the number of artifacts you control."
+msgid "|mana_1|\\ |mana_r|: Hellkite Igniter gets +X/+0 until end of turn, where X is the number of artifacts you control."
 msgstr ""
 
 #: ../../C16.rst:748
@@ -1447,7 +1447,7 @@ msgid "Each instant and sorcery card in your graveyard gains flashback until end
 msgstr ""
 
 #: ../../C16.rst:761
-msgid "Flashback |mana_4| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+msgid "Flashback |mana_4|\\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 
 #: ../../C16.rst:768
@@ -1460,7 +1460,7 @@ msgid "Each player discards their hand, then draws seven cards."
 msgstr ""
 
 #: ../../C16.rst:767
-msgid "Miracle |mana_1| |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
+msgid "Miracle |mana_1|\\ |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)"
 msgstr ""
 
 #: ../../C16.rst:772
@@ -1512,7 +1512,7 @@ msgid "Wheel of Fate"
 msgstr ""
 
 #: ../../C16.rst:797
-msgid "Suspend 4—|mana_1| |mana_r| (Rather than cast this card from your hand, pay |mana_1| |mana_r| and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
+msgid "Suspend 4—|mana_1|\\ |mana_r| (Rather than cast this card from your hand, pay |mana_1|\\ |mana_r| and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
 msgstr ""
 
 #: ../../C16.rst:804
@@ -1597,7 +1597,7 @@ msgid "Creatures with power less than Den Protector's power can't block it."
 msgstr ""
 
 #: ../../C16.rst:841
-msgid "Megamorph |mana_1| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
+msgid "Megamorph |mana_1|\\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)"
 msgstr ""
 
 #: ../../C16.rst:843
@@ -1740,7 +1740,7 @@ msgid "Realm Seekers enters the battlefield with X +1/+1 counters on it, where X
 msgstr ""
 
 #: ../../C16.rst:917
-msgid "|mana_2| |mana_g|, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle your library."
+msgid "|mana_2|\\ |mana_g|, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 
 #: ../../C16.rst:924
@@ -1796,7 +1796,7 @@ msgid "Solidarity of Heroes"
 msgstr ""
 
 #: ../../C16.rst:945
-msgid "Strive — This spell costs |mana_1| |mana_g| more to cast for each target beyond the first."
+msgid "Strive — This spell costs |mana_1|\\ |mana_g| more to cast for each target beyond the first."
 msgstr ""
 
 #: ../../C16.rst:947
@@ -1824,7 +1824,7 @@ msgid "Saproling creatures get +1/+1."
 msgstr ""
 
 #: ../../C16.rst:961
-msgid "Morph |mana_3| |mana_g| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_3|\\ |mana_g|\\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../C16.rst:963
@@ -2087,7 +2087,7 @@ msgid "Etherium-Horn Sorcerer"
 msgstr ""
 
 #: ../../C16.rst:1107
-msgid "|mana_1| |mana_u| |mana_r|: Return Etherium-Horn Sorcerer to its owner's hand."
+msgid "|mana_1|\\ |mana_u|\\ |mana_r|: Return Etherium-Horn Sorcerer to its owner's hand."
 msgstr ""
 
 #: ../../C16.rst:1116
@@ -2143,7 +2143,7 @@ msgid "Gwafa Hazid, Profiteer"
 msgstr ""
 
 #: ../../C16.rst:1139
-msgid "|mana_w| |mana_u|, |tap|: Put a bribery counter on target creature you don't control. Its controller draws a card."
+msgid "|mana_w|\\ |mana_u|, |tap|: Put a bribery counter on target creature you don't control. Its controller draws a card."
 msgstr ""
 
 #: ../../C16.rst:1141
@@ -2155,7 +2155,7 @@ msgid "Hanna, Ship's Navigator"
 msgstr ""
 
 #: ../../C16.rst:1145
-msgid "|mana_1| |mana_w| |mana_u|, |tap|: Return target artifact or enchantment card from your graveyard to your hand."
+msgid "|mana_1|\\ |mana_w|\\ |mana_u|, |tap|: Return target artifact or enchantment card from your graveyard to your hand."
 msgstr ""
 
 #: ../../C16.rst:1154
@@ -2209,11 +2209,11 @@ msgid "Korozda Guildmage"
 msgstr ""
 
 #: ../../C16.rst:1177
-msgid "|mana_1| |mana_b| |mana_g|: Target creature gets +1/+1 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
+msgid "|mana_1|\\ |mana_b|\\ |mana_g|: Target creature gets +1/+1 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)"
 msgstr ""
 
 #: ../../C16.rst:1179
-msgid "|mana_2| |mana_b| |mana_g|, Sacrifice a nontoken creature: Create X 1/1 green Saproling creature tokens, where X is the sacrificed creature's toughness."
+msgid "|mana_2|\\ |mana_b|\\ |mana_g|, Sacrifice a nontoken creature: Create X 1/1 green Saproling creature tokens, where X is the sacrificed creature's toughness."
 msgstr ""
 
 #: ../../C16.rst:1184
@@ -2337,7 +2337,7 @@ msgid "Rubblehulk's power and toughness are each equal to the number of lands yo
 msgstr ""
 
 #: ../../C16.rst:1247
-msgid "Bloodrush — |mana_1| |mana_r| |mana_g|, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control."
+msgid "Bloodrush — |mana_1|\\ |mana_r|\\ |mana_g|, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control."
 msgstr ""
 
 #: ../../C16.rst:1252
@@ -2381,7 +2381,7 @@ msgid "|mana_u|: Target noncreature artifact becomes an artifact creature with p
 msgstr ""
 
 #: ../../C16.rst:1275
-msgid "|mana_w| |mana_b|: Target artifact creature gains deathtouch and lifelink until end of turn."
+msgid "|mana_w|\\ |mana_b|: Target artifact creature gains deathtouch and lifelink until end of turn."
 msgstr ""
 
 #: ../../C16.rst:1280
@@ -2405,7 +2405,7 @@ msgid "Vorel of the Hull Clade"
 msgstr ""
 
 #: ../../C16.rst:1287
-msgid "|mana_g| |mana_u|, |tap|: Double the number of each kind of counter on target artifact, creature, or land."
+msgid "|mana_g|\\ |mana_u|, |tap|: Double the number of each kind of counter on target artifact, creature, or land."
 msgstr ""
 
 #: ../../C16.rst:1294
@@ -2441,7 +2441,7 @@ msgid "At the beginning of your upkeep, you gain X life and draw X cards, where 
 msgstr ""
 
 #: ../../C16.rst:1311
-msgid "|mana_u| |mana_r| |mana_w|: Target opponent gains control of target permanent you control."
+msgid "|mana_u|\\ |mana_r|\\ |mana_w|: Target opponent gains control of target permanent you control."
 msgstr ""
 
 #: ../../C16.rst:1318
@@ -2486,11 +2486,11 @@ msgid "Selesnya Guildmage"
 msgstr ""
 
 #: ../../C16.rst:1333
-msgid "|mana_3| |mana_g|: Create a 1/1 green Saproling creature token."
+msgid "|mana_3|\\ |mana_g|: Create a 1/1 green Saproling creature token."
 msgstr ""
 
 #: ../../C16.rst:1335
-msgid "|mana_3| |mana_w|: Creatures you control get +1/+1 until end of turn."
+msgid "|mana_3|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgstr ""
 
 #: ../../C16.rst:1342
@@ -2662,7 +2662,7 @@ msgid "Equipped creature gets +1/+0 for each artifact you control."
 msgstr ""
 
 #: ../../C16.rst:1423
-msgid "|mana_b| |mana_b|: Attach Cranial Plating to target creature you control."
+msgid "|mana_b|\\ |mana_b|: Attach Cranial Plating to target creature you control."
 msgstr ""
 
 #: ../../C16.rst:1425
@@ -2720,7 +2720,7 @@ msgid "Golgari Signet"
 msgstr ""
 
 #: ../../C16.rst:1459
-msgid "|mana_1|, |tap|: Add |mana_b| |mana_g|."
+msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_g|."
 msgstr ""
 
 #: ../../C16.rst:1464
@@ -2728,7 +2728,7 @@ msgid "Gruul Signet"
 msgstr ""
 
 #: ../../C16.rst:1463
-msgid "|mana_1|, |tap|: Add |mana_r| |mana_g|."
+msgid "|mana_1|, |tap|: Add |mana_r|\\ |mana_g|."
 msgstr ""
 
 #: ../../C16.rst:1468
@@ -2820,7 +2820,7 @@ msgid "Orzhov Signet"
 msgstr ""
 
 #: ../../C16.rst:1511
-msgid "|mana_1|, |tap|: Add |mana_w| |mana_b|."
+msgid "|mana_1|, |tap|: Add |mana_w|\\ |mana_b|."
 msgstr ""
 
 #: ../../C16.rst:1518
@@ -2841,7 +2841,7 @@ msgstr ""
 
 #: ../../C16.rst:1521
 #: ../../C16.rst:1895
-msgid "|mana_1|, |tap|: Add |mana_b| |mana_r|."
+msgid "|mana_1|, |tap|: Add |mana_b|\\ |mana_r|."
 msgstr ""
 
 #: ../../C16.rst:1528
@@ -2857,7 +2857,7 @@ msgid "Simic Signet"
 msgstr ""
 
 #: ../../C16.rst:1531
-msgid "|mana_1|, |tap|: Add |mana_g| |mana_u|."
+msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_u|."
 msgstr ""
 
 #: ../../C16.rst:1540
@@ -2877,7 +2877,7 @@ msgid "Sol Ring"
 msgstr ""
 
 #: ../../C16.rst:1543
-msgid "|tap|: Add |colorless| |colorless|."
+msgid "|tap|: Add |colorless|\\ |colorless|."
 msgstr ""
 
 #: ../../C16.rst:1550
@@ -2913,7 +2913,7 @@ msgid "Equipped creature gets +4/+0."
 msgstr ""
 
 #: ../../C16.rst:1563
-msgid "|mana_r| |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library."
+msgid "|mana_r|\\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library."
 msgstr ""
 
 #: ../../C16.rst:1572
@@ -2998,7 +2998,7 @@ msgid "When Azorius Chancery enters the battlefield, return a land you control t
 msgstr ""
 
 #: ../../C16.rst:1611
-msgid "|tap|: Add |mana_w| |mana_u|."
+msgid "|tap|: Add |mana_w|\\ |mana_u|."
 msgstr ""
 
 #: ../../C16.rst:1620
@@ -3014,7 +3014,7 @@ msgid "When Boros Garrison enters the battlefield, return a land you control to 
 msgstr ""
 
 #: ../../C16.rst:1619
-msgid "|tap|: Add |mana_r| |mana_w|."
+msgid "|tap|: Add |mana_r|\\ |mana_w|."
 msgstr ""
 
 #: ../../C16.rst:1626
@@ -3058,7 +3058,7 @@ msgid "Darkwater Catacombs"
 msgstr ""
 
 #: ../../C16.rst:1651
-msgid "|mana_1|, |tap|: Add |mana_u| |mana_b|."
+msgid "|mana_1|, |tap|: Add |mana_u|\\ |mana_b|."
 msgstr ""
 
 #: ../../C16.rst:1660
@@ -3074,7 +3074,7 @@ msgid "When Dimir Aqueduct enters the battlefield, return a land you control to 
 msgstr ""
 
 #: ../../C16.rst:1659
-msgid "|tap|: Add |mana_u| |mana_b|."
+msgid "|tap|: Add |mana_u|\\ |mana_b|."
 msgstr ""
 
 #: ../../C16.rst:1668
@@ -3162,7 +3162,7 @@ msgid "When Golgari Rot Farm enters the battlefield, return a land you control t
 msgstr ""
 
 #: ../../C16.rst:1709
-msgid "|tap|: Add |mana_b| |mana_g|."
+msgid "|tap|: Add |mana_b|\\ |mana_g|."
 msgstr ""
 
 #: ../../C16.rst:1718
@@ -3190,7 +3190,7 @@ msgid "When Gruul Turf enters the battlefield, return a land you control to its 
 msgstr ""
 
 #: ../../C16.rst:1725
-msgid "|tap|: Add |mana_r| |mana_g|."
+msgid "|tap|: Add |mana_r|\\ |mana_g|."
 msgstr ""
 
 #: ../../C16.rst:1732
@@ -3214,7 +3214,7 @@ msgid "When Izzet Boilerworks enters the battlefield, return a land you control 
 msgstr ""
 
 #: ../../C16.rst:1739
-msgid "|tap|: Add |mana_u| |mana_r|."
+msgid "|tap|: Add |mana_u|\\ |mana_r|."
 msgstr ""
 
 #: ../../C16.rst:1748
@@ -3364,7 +3364,7 @@ msgid "When Orzhov Basilica enters the battlefield, return a land you control to
 msgstr ""
 
 #: ../../C16.rst:1823
-msgid "|tap|: Add |mana_w| |mana_b|."
+msgid "|tap|: Add |mana_w|\\ |mana_b|."
 msgstr ""
 
 #: ../../C16.rst:1832
@@ -3380,7 +3380,7 @@ msgid "When Rakdos Carnarium enters the battlefield, return a land you control t
 msgstr ""
 
 #: ../../C16.rst:1831
-msgid "|tap|: Add |mana_b| |mana_r|."
+msgid "|tap|: Add |mana_b|\\ |mana_r|."
 msgstr ""
 
 #: ../../C16.rst:1838
@@ -3485,7 +3485,7 @@ msgid "When Selesnya Sanctuary enters the battlefield, return a land you control
 msgstr ""
 
 #: ../../C16.rst:1891
-msgid "|tap|: Add |mana_g| |mana_w|."
+msgid "|tap|: Add |mana_g|\\ |mana_w|."
 msgstr ""
 
 #: ../../C16.rst:1896
@@ -3505,7 +3505,7 @@ msgid "When Simic Growth Chamber enters the battlefield, return a land you contr
 msgstr ""
 
 #: ../../C16.rst:1903
-msgid "|tap|: Add |mana_g| |mana_u|."
+msgid "|tap|: Add |mana_g|\\ |mana_u|."
 msgstr ""
 
 #: ../../C16.rst:1912
@@ -3525,7 +3525,7 @@ msgid "Sungrass Prairie"
 msgstr ""
 
 #: ../../C16.rst:1915
-msgid "|mana_1|, |tap|: Add |mana_g| |mana_w|."
+msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
 msgstr ""
 
 #: ../../C16.rst:1922
@@ -3561,7 +3561,7 @@ msgid "Temple of the False God"
 msgstr ""
 
 #: ../../C16.rst:1933
-msgid "|tap|: Add |colorless| |colorless|. Activate this ability only if you control five or more lands."
+msgid "|tap|: Add |colorless|\\ |colorless|. Activate this ability only if you control five or more lands."
 msgstr ""
 
 #: ../../C16.rst:1938

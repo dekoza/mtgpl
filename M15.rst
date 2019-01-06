@@ -20,9 +20,9 @@ Ajani's Pridemate
 Avacyn, Guardian Angel
    Flying, vigilance
 
-   |mana_1| |mana_w|: Prevent all damage that would be dealt to another target creature this turn by sources of the color of your choice.
+   |mana_1|\ |mana_w|: Prevent all damage that would be dealt to another target creature this turn by sources of the color of your choice.
 
-   |mana_5| |mana_w| |mana_w|: Prevent all damage that would be dealt to target player or planeswalker this turn by sources of the color of your choice.
+   |mana_5|\ |mana_w|\ |mana_w|: Prevent all damage that would be dealt to target player or planeswalker this turn by sources of the color of your choice.
 
 
 Battle Mastery
@@ -46,7 +46,7 @@ Constricting Sliver
 Dauntless River Marshal
    Dauntless River Marshal gets +1/+1 as long as you control an Island.
 
-   |mana_3| |mana_u|: Tap target creature.
+   |mana_3|\ |mana_u|: Tap target creature.
 
 
 Devouring Light
@@ -168,7 +168,7 @@ Sanctified Charge
 
 
 Selfless Cathar
-   |mana_1| |mana_w|, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn.
+   |mana_1|\ |mana_w|, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn.
 
 
 Seraph of the Masses
@@ -186,9 +186,9 @@ Solemn Offering
 Soul of Theros
    Vigilance
 
-   |mana_4| |mana_w| |mana_w|: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn.
+   |mana_4|\ |mana_w|\ |mana_w|: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn.
 
-   |mana_4| |mana_w| |mana_w|, Exile Soul of Theros from your graveyard: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn.
+   |mana_4|\ |mana_w|\ |mana_w|, Exile Soul of Theros from your graveyard: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn.
 
 
 Soulmender
@@ -204,7 +204,7 @@ Spectra Ward
 Spirit Bonds
    Whenever a nontoken creature enters the battlefield under your control, you may pay |mana_w|. If you do, create a 1/1 white Spirit creature token with flying.
 
-   |mana_1| |mana_w|, Sacrifice a Spirit: Target non-Spirit creature gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+   |mana_1|\ |mana_w|, Sacrifice a Spirit: Target non-Spirit creature gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
 
 Sungrace Pegasus
@@ -244,7 +244,7 @@ Aetherspouts
 
 
 Amphin Pathmage
-   |mana_2| |mana_u|: Target creature can't be blocked this turn.
+   |mana_2|\ |mana_u|: Target creature can't be blocked this turn.
 
 
 Chasm Skulker
@@ -338,13 +338,13 @@ Jace's Ingenuity
 
 
 Jalira, Master Polymorphist
-   |mana_2| |mana_u|, |tap|, Sacrifice another creature: Reveal cards from the top of your library until you reveal a nonlegendary creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
+   |mana_2|\ |mana_u|, |tap|, Sacrifice another creature: Reveal cards from the top of your library until you reveal a nonlegendary creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.
 
 
 Jorubai Murk Lurker
    Jorubai Murk Lurker gets +1/+1 as long as you control a Swamp.
 
-   |mana_1| |mana_b|: Target creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
+   |mana_1|\ |mana_b|: Target creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
 
 
 Kapsho Kitefins
@@ -360,7 +360,7 @@ Master of Predicaments
 
 
 Mercurial Pretender
-   You may have Mercurial Pretender enter the battlefield as a copy of any creature you control, except it has "|mana_2| |mana_u| |mana_u|: Return this creature to its owner's hand."
+   You may have Mercurial Pretender enter the battlefield as a copy of any creature you control, except it has "|mana_2|\ |mana_u|\ |mana_u|: Return this creature to its owner's hand."
 
 
 Military Intelligence
@@ -402,15 +402,15 @@ Quickling
 
 
 Research Assistant
-   |mana_3| |mana_u|, |tap|: Draw a card, then discard a card.
+   |mana_3|\ |mana_u|, |tap|: Draw a card, then discard a card.
 
 
 Soul of Ravnica
    Flying
 
-   |mana_5| |mana_u| |mana_u|: Draw a card for each color among permanents you control.
+   |mana_5|\ |mana_u|\ |mana_u|: Draw a card for each color among permanents you control.
 
-   |mana_5| |mana_u| |mana_u|, Exile Soul of Ravnica from your graveyard: Draw a card for each color among permanents you control.
+   |mana_5|\ |mana_u|\ |mana_u|, Exile Soul of Ravnica from your graveyard: Draw a card for each color among permanents you control.
 
 
 Statute of Denial
@@ -454,7 +454,7 @@ Black Cat
 
 
 Blood Host
-   |mana_1| |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Blood Host and you gain 2 life.
+   |mana_1|\ |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Blood Host and you gain 2 life.
 
 
 Carrion Crow
@@ -488,7 +488,7 @@ Crippling Blight
 Cruel Sadist
    |mana_b|, |tap|, Pay 1 life: Put a +1/+1 counter on Cruel Sadist.
 
-   |mana_2| |mana_b|, |tap|, Remove X +1/+1 counters from Cruel Sadist: Cruel Sadist deals X damage to target creature.
+   |mana_2|\ |mana_b|, |tap|, Remove X +1/+1 counters from Cruel Sadist: Cruel Sadist deals X damage to target creature.
 
 
 Endless Obedience
@@ -560,13 +560,13 @@ Necromancer's Assistant
 
 
 Necromancer's Stockpile
-   |mana_1| |mana_b|, Discard a creature card: Draw a card. If the discarded card was a Zombie card, create a tapped 2/2 black Zombie creature token.
+   |mana_1|\ |mana_b|, Discard a creature card: Draw a card. If the discarded card was a Zombie card, create a tapped 2/2 black Zombie creature token.
 
 
 Nightfire Giant
    Nightfire Giant gets +1/+1 as long as you control a Mountain.
 
-   |mana_4| |mana_r|: Nightfire Giant deals 2 damage to any target.
+   |mana_4|\ |mana_r|: Nightfire Giant deals 2 damage to any target.
 
 
 Ob Nixilis, Unshackled
@@ -580,7 +580,7 @@ Ob Nixilis, Unshackled
 Paragon of Open Graves
    Other black creatures you control get +1/+1.
 
-   |mana_2| |mana_b|, |tap|: Another target black creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+   |mana_2|\ |mana_b|, |tap|: Another target black creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
 
 
 Rotfeaster Maggot
@@ -598,9 +598,9 @@ Sign in Blood
 Soul of Innistrad
    Deathtouch
 
-   |mana_3| |mana_b| |mana_b|: Return up to three target creature cards from your graveyard to your hand.
+   |mana_3|\ |mana_b|\ |mana_b|: Return up to three target creature cards from your graveyard to your hand.
 
-   |mana_3| |mana_b| |mana_b|, Exile Soul of Innistrad from your graveyard: Return up to three target creature cards from your graveyard to your hand.
+   |mana_3|\ |mana_b|\ |mana_b|, Exile Soul of Innistrad from your graveyard: Return up to three target creature cards from your graveyard to your hand.
 
 
 Stab Wound
@@ -636,13 +636,13 @@ Wall of Limbs
 
    Whenever you gain life, put a +1/+1 counter on Wall of Limbs.
 
-   |mana_5| |mana_b| |mana_b|, Sacrifice Wall of Limbs: Target player loses X life, where X is Wall of Limbs's power.
+   |mana_5|\ |mana_b|\ |mana_b|, Sacrifice Wall of Limbs: Target player loses X life, where X is Wall of Limbs's power.
 
 
 Waste Not
    Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.
 
-   Whenever an opponent discards a land card, add |mana_b| |mana_b|.
+   Whenever an opponent discards a land card, add |mana_b|\ |mana_b|.
 
    Whenever an opponent discards a noncreature, nonland card, draw a card.
 
@@ -654,11 +654,11 @@ Witch's Familiar
 Xathrid Slyblade
    Hexproof (This creature can't be the target of spells or abilities your opponents control.)
 
-   |mana_3| |mana_b|: Until end of turn, Xathrid Slyblade loses hexproof and gains first strike and deathtouch. (It deals combat damage before creatures without first strike. Any amount of damage it deals to a creature is enough to destroy it.)
+   |mana_3|\ |mana_b|: Until end of turn, Xathrid Slyblade loses hexproof and gains first strike and deathtouch. (It deals combat damage before creatures without first strike. Any amount of damage it deals to a creature is enough to destroy it.)
 
 
 Zof Shade
-   |mana_2| |mana_b|: Zof Shade gets +2/+2 until end of turn.
+   |mana_2|\ |mana_b|: Zof Shade gets +2/+2 until end of turn.
 
 
 Act on Impulse
@@ -740,7 +740,7 @@ Frenzied Goblin
 
 
 Generator Servant
-   |tap|, Sacrifice Generator Servant: Add |colorless| |colorless|. If that mana is spent on a creature spell, it gains haste until end of turn. (That creature can attack and |tap| as soon as it comes under your control.)
+   |tap|, Sacrifice Generator Servant: Add |colorless|\ |colorless|. If that mana is spent on a creature spell, it gains haste until end of turn. (That creature can attack and |tap| as soon as it comes under your control.)
 
 
 Goblin Kaboomist
@@ -790,7 +790,7 @@ Inferno Fist
 Kird Chieftain
    Kird Chieftain gets +1/+1 as long as you control a Forest.
 
-   |mana_4| |mana_g|: Target creature gets +2/+2 and gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)
+   |mana_4|\ |mana_g|: Target creature gets +2/+2 and gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)
 
 
 Krenko's Enforcer
@@ -814,7 +814,7 @@ Might Makes Right
 
 
 Miner's Bane
-   |mana_2| |mana_r|: Miner's Bane gets +1/+0 and gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)
+   |mana_2|\ |mana_r|: Miner's Bane gets +1/+0 and gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)
 
 
 Paragon of Fierce Defiance
@@ -848,9 +848,9 @@ Siege Dragon
 Soul of Shandalar
    First strike
 
-   |mana_3| |mana_r| |mana_r|: Soul of Shandalar deals 3 damage to target player or planeswalker and 3 damage to up to one target creature that player or that planeswalker's controller controls.
+   |mana_3|\ |mana_r|\ |mana_r|: Soul of Shandalar deals 3 damage to target player or planeswalker and 3 damage to up to one target creature that player or that planeswalker's controller controls.
 
-   |mana_3| |mana_r| |mana_r|, Exile Soul of Shandalar from your graveyard: Soul of Shandalar deals 3 damage to target player or planeswalker and 3 damage to up to one target creature that player or that planeswalker's controller controls.
+   |mana_3|\ |mana_r|\ |mana_r|, Exile Soul of Shandalar from your graveyard: Soul of Shandalar deals 3 damage to target player or planeswalker and 3 damage to up to one target creature that player or that planeswalker's controller controls.
 
 
 Stoke the Flames
@@ -882,7 +882,7 @@ Back to Nature
 
 
 Carnivorous Moss-Beast
-   |mana_5| |mana_g| |mana_g|: Put a +1/+1 counter on Carnivorous Moss-Beast.
+   |mana_5|\ |mana_g|\ |mana_g|: Put a +1/+1 counter on Carnivorous Moss-Beast.
 
 
 Charging Rhino
@@ -1042,15 +1042,15 @@ Siege Wurm
 Soul of Zendikar
    Reach
 
-   |mana_3| |mana_g| |mana_g|: Create a 3/3 green Beast creature token.
+   |mana_3|\ |mana_g|\ |mana_g|: Create a 3/3 green Beast creature token.
 
-   |mana_3| |mana_g| |mana_g|, Exile Soul of Zendikar from your graveyard: Create a 3/3 green Beast creature token.
+   |mana_3|\ |mana_g|\ |mana_g|, Exile Soul of Zendikar from your graveyard: Create a 3/3 green Beast creature token.
 
 
 Sunblade Elf
    Sunblade Elf gets +1/+1 as long as you control a Plains.
 
-   |mana_4| |mana_w|: Creatures you control get +1/+1 until end of turn.
+   |mana_4|\ |mana_w|: Creatures you control get +1/+1 until end of turn.
 
 
 Titanic Growth
@@ -1078,7 +1078,7 @@ Vineweft
 
    Enchanted creature gets +1/+1.
 
-   |mana_4| |mana_g|: Return Vineweft from your graveyard to your hand.
+   |mana_4|\ |mana_g|: Return Vineweft from your graveyard to your hand.
 
 
 Wall of Mulch
@@ -1088,7 +1088,7 @@ Wall of Mulch
 
 
 Yisan, the Wanderer Bard
-   |mana_2| |mana_g|, |tap|, Put a verse counter on Yisan, the Wanderer Bard: Search your library for a creature card with converted mana cost equal to the number of verse counters on Yisan, put it onto the battlefield, then shuffle your library.
+   |mana_2|\ |mana_g|, |tap|, Put a verse counter on Yisan, the Wanderer Bard: Search your library for a creature card with converted mana cost equal to the number of verse counters on Yisan, put it onto the battlefield, then shuffle your library.
 
 
 Garruk, Apex Predator

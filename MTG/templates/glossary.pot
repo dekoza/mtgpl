@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 02:26+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,11 +16,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../glossary.rst:2
+#: ../../glossary.rst:8
+msgid "choroba przywołania"
+msgstr ""
+
+#: ../../glossary.rst:9
+msgid "summoning sickness"
+msgstr ""
+
+#: ../../glossary.rst:11
+msgid "Termin ten odnosi się do stworów, które co prawda są pod twoim władaniem, ale nie było ich na polu walki lub pod twoim władaniem na początku twojej tury. Taki stwór nie może atakować, a jego zdolności posiadające w koszcie znak |tap| nie mogą być aktywowane. Stwór nie ma choroby przywołania jeśli ma :term:`pośpiech (haste)<haste>`"
+msgstr ""
+
+#: ../../glossary.rst:5
 msgid "permanent"
 msgstr ""
 
-#: ../../glossary.rst:4
-msgid "Coś, co jest trwale na polu walki."
+#: ../../glossary.rst:7
+msgid "Karta znajdująca się na polu walki. Może to być ląd, artefakt, urok, stwór, wędrowiec."
+msgstr ""
+
+#: ../../glossary.rst:14
+msgid "pośpiech"
+msgstr ""
+
+#: ../../glossary.rst:15
+msgid "haste"
+msgstr ""
+
+#: ../../glossary.rst:17
+msgid "Słowo kluczowe oznaczające, że dany stwór nie posiada :term:`choroby przywołania<summoning sickness>`. Oznacza to, że można nim atakować lub używać jego zdolności posiadających w koszcie znak |tap| zaraz po wejściu owego stwora na pole walki."
 msgstr ""
 

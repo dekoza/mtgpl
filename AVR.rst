@@ -104,7 +104,7 @@ Emancipation Angel
 Entreat the Angels
    Create X 4/4 white Angel creature tokens with flying.
 
-   Miracle |mana_x| |mana_w| |mana_w| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
+   Miracle |mana_x|\ |mana_w|\ |mana_w| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
 Farbog Explorer
@@ -130,7 +130,7 @@ Herald of War
 
 
 Holy Justiciar
-   |mana_2| |mana_w|, |tap|: Tap target creature. If that creature is a Zombie, exile it.
+   |mana_2|\ |mana_w|, |tap|: Tap target creature. If that creature is a Zombie, exile it.
 
 
 Leap of Faith
@@ -148,11 +148,11 @@ Midvast Protector
 Moonlight Geist
    Flying
 
-   |mana_3| |mana_w|: Prevent all combat damage that would be dealt to and dealt by Moonlight Geist this turn.
+   |mana_3|\ |mana_w|: Prevent all combat damage that would be dealt to and dealt by Moonlight Geist this turn.
 
 
 Moorland Inquisitor
-   |mana_2| |mana_w|: Moorland Inquisitor gains first strike until end of turn.
+   |mana_2|\ |mana_w|: Moorland Inquisitor gains first strike until end of turn.
 
 
 Nearheath Pilgrim
@@ -234,7 +234,7 @@ Arcane Melee
 Captain of the Mists
    Whenever another Human enters the battlefield under your control, untap Captain of the Mists.
 
-   |mana_1| |mana_u|, |tap|: You may tap or untap target permanent.
+   |mana_1|\ |mana_u|, |tap|: You may tap or untap target permanent.
 
 
 Crippling Chill
@@ -246,13 +246,13 @@ Crippling Chill
 Deadeye Navigator
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
-   As long as Deadeye Navigator is paired with another creature, each of those creatures has "|mana_1| |mana_u|: Exile this creature, then return it to the battlefield under your control."
+   As long as Deadeye Navigator is paired with another creature, each of those creatures has "|mana_1|\ |mana_u|: Exile this creature, then return it to the battlefield under your control."
 
 
 Devastation Tide
    Return all nonland permanents to their owners' hands.
 
-   Miracle |mana_1| |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
+   Miracle |mana_1|\ |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
 Dreadwaters
@@ -284,7 +284,7 @@ Fleeting Distraction
 Galvanic Alchemist
    Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
 
-   As long as Galvanic Alchemist is paired with another creature, each of those creatures has "|mana_2| |mana_u|: Untap this creature."
+   As long as Galvanic Alchemist is paired with another creature, each of those creatures has "|mana_2|\ |mana_u|: Untap this creature."
 
 
 Geist Snatch
@@ -358,7 +358,7 @@ Misthollow Griffin
 
 
 Nephalia Smuggler
-   |mana_3| |mana_u|, |tap|: Exile another target creature you control, then return that card to the battlefield under your control.
+   |mana_3|\ |mana_u|, |tap|: Exile another target creature you control, then return that card to the battlefield under your control.
 
 
 Outwit
@@ -426,7 +426,7 @@ Tandem Lookout
 Temporal Mastery
    Take an extra turn after this one. Exile Temporal Mastery.
 
-   Miracle |mana_1| |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
+   Miracle |mana_1|\ |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
 Vanishment
@@ -468,7 +468,7 @@ Butcher Ghoul
 
 
 Corpse Traders
-   |mana_2| |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
 
 
 Crypt Creeper
@@ -476,7 +476,7 @@ Crypt Creeper
 
 
 Dark Impostor
-   |mana_4| |mana_b| |mana_b|: Exile target creature and put a +1/+1 counter on Dark Impostor.
+   |mana_4|\ |mana_b|\ |mana_b|: Exile target creature and put a +1/+1 counter on Dark Impostor.
 
    Dark Impostor has all activated abilities of all creature cards exiled with it.
 
@@ -608,7 +608,7 @@ Renegade Demon
 Searchlight Geist
    Flying
 
-   |mana_3| |mana_b|: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+   |mana_3|\ |mana_b|: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
 
 
 Soulcage Fiend
@@ -656,7 +656,7 @@ Battle Hymn
 Bonfire of the Damned
    Bonfire of the Damned deals X damage to target player or planeswalker and each creature that player or that planeswalker's controller controls.
 
-   Miracle |mana_x| |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
+   Miracle |mana_x|\ |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
 Burn at the Stake
@@ -682,7 +682,7 @@ Dual Casting
 Falkenrath Exterminator
    Whenever Falkenrath Exterminator deals combat damage to a player, put a +1/+1 counter on it.
 
-   |mana_2| |mana_r|: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator.
+   |mana_2|\ |mana_r|: Falkenrath Exterminator deals damage to target creature equal to the number of +1/+1 counters on Falkenrath Exterminator.
 
 
 Fervent Cathar
@@ -774,7 +774,7 @@ Raging Poltergeist
 Reforge the Soul
    Each player discards their hand, then draws seven cards.
 
-   Miracle |mana_1| |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
+   Miracle |mana_1|\ |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
 Riot Ringleader
@@ -790,7 +790,7 @@ Rush of Blood
 
 
 Scalding Devil
-   |mana_2| |mana_r|: Scalding Devil deals 1 damage to target player or planeswalker.
+   |mana_2|\ |mana_r|: Scalding Devil deals 1 damage to target player or planeswalker.
 
 
 Somberwald Vigilante
@@ -1024,7 +1024,7 @@ Trusted Forcemage
 
 
 Ulvenwald Tracker
-   |mana_1| |mana_g|, |tap|: Target creature you control fights another target creature.
+   |mana_1|\ |mana_g|, |tap|: Target creature you control fights another target creature.
 
 
 Vorstclaw
@@ -1046,7 +1046,7 @@ Wildwood Geist
 Wolfir Avenger
    Flash (You may cast this spell any time you could cast an instant.)
 
-   |mana_1| |mana_g|: Regenerate Wolfir Avenger.
+   |mana_1|\ |mana_g|: Regenerate Wolfir Avenger.
 
 
 Wolfir Silverheart
@@ -1056,7 +1056,7 @@ Wolfir Silverheart
 
 
 Yew Spirit
-   |mana_2| |mana_g| |mana_g|: Yew Spirit gets +X/+X until end of turn, where X is its power.
+   |mana_2|\ |mana_g|\ |mana_g|: Yew Spirit gets +X/+X until end of turn, where X is its power.
 
 
 Bruna, Light of Alabaster
@@ -1156,7 +1156,7 @@ Vessel of Endless Rest
 Alchemist's Refuge
    |tap|: Add |colorless|.
 
-   |mana_g| |mana_u|, |tap|: You may cast spells this turn as though they had flash.
+   |mana_g|\ |mana_u|, |tap|: You may cast spells this turn as though they had flash.
 
 
 Cavern of Souls
@@ -1170,7 +1170,7 @@ Cavern of Souls
 Desolate Lighthouse
    |tap|: Add |colorless|.
 
-   |mana_1| |mana_u| |mana_r|, |tap|: Draw a card, then discard a card.
+   |mana_1|\ |mana_u|\ |mana_r|, |tap|: Draw a card, then discard a card.
 
 
 Seraph Sanctuary
@@ -1184,7 +1184,7 @@ Seraph Sanctuary
 Slayers' Stronghold
    |tap|: Add |colorless|.
 
-   |mana_r| |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance and haste until end of turn.
+   |mana_r|\ |mana_w|, |tap|: Target creature gets +2/+0 and gains vigilance and haste until end of turn.
 
 
 Plains

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,7 +48,7 @@ msgid "When Angel of Sanctions enters the battlefield, you may exile target nonl
 msgstr ""
 
 #: ../../AKH.rst:13
-msgid "Embalm |mana_5| |mana_w| (|mana_5| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Angel with no mana cost. Embalm only as a sorcery.)"
+msgid "Embalm |mana_5|\\ |mana_w| (|mana_5|\\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Angel with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
 
 #: ../../AKH.rst:18
@@ -68,7 +68,7 @@ msgid "Whenever a creature token enters the battlefield under your control, you 
 msgstr ""
 
 #: ../../AKH.rst:23
-msgid "Embalm |mana_3| |mana_w| (|mana_3| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)"
+msgid "Embalm |mana_3|\\ |mana_w| (|mana_3|\\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
 
 #: ../../AKH.rst:28
@@ -295,7 +295,7 @@ msgid "Oketra the True can't attack or block unless you control at least three o
 msgstr ""
 
 #: ../../AKH.rst:127
-msgid "|mana_3| |mana_w|: Create a 1/1 white Warrior creature token with vigilance."
+msgid "|mana_3|\\ |mana_w|: Create a 1/1 white Warrior creature token with vigilance."
 msgstr ""
 
 #: ../../AKH.rst:136
@@ -303,7 +303,7 @@ msgid "Oketra's Attendant"
 msgstr ""
 
 #: ../../AKH.rst:135
-msgid "Embalm |mana_3| |mana_w| |mana_w| (|mana_3| |mana_w| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Soldier with no mana cost. Embalm only as a sorcery.)"
+msgid "Embalm |mana_3|\\ |mana_w|\\ |mana_w| (|mana_3|\\ |mana_w|\\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Soldier with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
 
 #: ../../AKH.rst:140
@@ -335,7 +335,7 @@ msgid "You gain 6 life."
 msgstr ""
 
 #: ../../AKH.rst:151
-msgid "Cycling |mana_1| |mana_w| (|mana_1| |mana_w|, Discard this card: Draw a card.)"
+msgid "Cycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this card: Draw a card.)"
 msgstr ""
 
 #: ../../AKH.rst:153
@@ -428,7 +428,7 @@ msgid "Trueheart Duelist can block an additional creature each combat."
 msgstr ""
 
 #: ../../AKH.rst:203
-msgid "Embalm |mana_2| |mana_w| (|mana_2| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Warrior with no mana cost. Embalm only as a sorcery.)"
+msgid "Embalm |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Warrior with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
 
 #: ../../AKH.rst:210
@@ -440,7 +440,7 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../AKH.rst:209
-msgid "Embalm |mana_4| |mana_w| (|mana_4| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Warrior with no mana cost. Embalm only as a sorcery.)"
+msgid "Embalm |mana_4|\\ |mana_w| (|mana_4|\\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Warrior with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
 
 #: ../../AKH.rst:216
@@ -497,7 +497,7 @@ msgid "Aven Initiate"
 msgstr ""
 
 #: ../../AKH.rst:247
-msgid "Embalm |mana_6| |mana_u| (|mana_6| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)"
+msgid "Embalm |mana_6|\\ |mana_u| (|mana_6|\\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
 
 #: ../../AKH.rst:252
@@ -613,7 +613,7 @@ msgid "Whenever Glyph Keeper becomes the target of a spell or ability for the fi
 msgstr ""
 
 #: ../../AKH.rst:315
-msgid "Embalm |mana_5| |mana_u| |mana_u| (|mana_5| |mana_u| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Sphinx with no mana cost. Embalm only as a sorcery.)"
+msgid "Embalm |mana_5|\\ |mana_u|\\ |mana_u| (|mana_5|\\ |mana_u|\\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Sphinx with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
 
 #: ../../AKH.rst:320
@@ -655,7 +655,7 @@ msgid "Kefnet the Mindful can't attack or block unless you have seven or more ca
 msgstr ""
 
 #: ../../AKH.rst:339
-msgid "|mana_3| |mana_u|: Draw a card, then you may return a land you control to its owner's hand."
+msgid "|mana_3|\\ |mana_u|: Draw a card, then you may return a land you control to its owner's hand."
 msgstr ""
 
 #: ../../AKH.rst:346
@@ -667,7 +667,7 @@ msgid "When Labyrinth Guardian becomes the target of a spell, sacrifice it."
 msgstr ""
 
 #: ../../AKH.rst:345
-msgid "Embalm |mana_3| |mana_u| (|mana_3| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Illusion Warrior with no mana cost. Embalm only as a sorcery.)"
+msgid "Embalm |mana_3|\\ |mana_u| (|mana_3|\\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Illusion Warrior with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
 
 #: ../../AKH.rst:354
@@ -767,7 +767,7 @@ msgid "Tah-Crop Skirmisher"
 msgstr ""
 
 #: ../../AKH.rst:403
-msgid "Embalm |mana_3| |mana_u| (|mana_3| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Naga Warrior with no mana cost. Embalm only as a sorcery.)"
+msgid "Embalm |mana_3|\\ |mana_u| (|mana_3|\\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Naga Warrior with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
 
 #: ../../AKH.rst:410
@@ -791,7 +791,7 @@ msgid "You may have Vizier of Many Faces enter the battlefield as a copy of any 
 msgstr ""
 
 #: ../../AKH.rst:415
-msgid "Embalm |mana_3| |mana_u| |mana_u|"
+msgid "Embalm |mana_3|\\ |mana_u|\\ |mana_u|"
 msgstr ""
 
 #: ../../AKH.rst:424
@@ -803,7 +803,7 @@ msgid "|tap|: Untap another target permanent."
 msgstr ""
 
 #: ../../AKH.rst:421
-msgid "Cycling |mana_1| |mana_u| (|mana_1| |mana_u|, Discard this card: Draw a card.)"
+msgid "Cycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this card: Draw a card.)"
 msgstr ""
 
 #: ../../AKH.rst:423
@@ -875,7 +875,7 @@ msgid "Bontu the Glorified can't attack or block unless a creature died under yo
 msgstr ""
 
 #: ../../AKH.rst:467
-msgid "|mana_1| |mana_b|, Sacrifice another creature: Scry 1. Each opponent loses 1 life and you gain 1 life."
+msgid "|mana_1|\\ |mana_b|, Sacrifice another creature: Scry 1. Each opponent loses 1 life and you gain 1 life."
 msgstr ""
 
 #: ../../AKH.rst:476
@@ -936,7 +936,7 @@ msgid "Dread Wanderer enters the battlefield tapped."
 msgstr ""
 
 #: ../../AKH.rst:499
-msgid "|mana_2| |mana_b|: Return Dread Wanderer from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery and only if you have one or fewer cards in hand."
+msgid "|mana_2|\\ |mana_b|: Return Dread Wanderer from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery and only if you have one or fewer cards in hand."
 msgstr ""
 
 #: ../../AKH.rst:502
@@ -1041,7 +1041,7 @@ msgid "Other Zombies you control get +1/+1."
 msgstr ""
 
 #: ../../AKH.rst:553
-msgid "|mana_1| |mana_b|, |tap|: All Zombies gain menace until end of turn."
+msgid "|mana_1|\\ |mana_b|, |tap|: All Zombies gain menace until end of turn."
 msgstr ""
 
 #: ../../AKH.rst:558
@@ -1146,7 +1146,7 @@ msgid "Create three 2/2 black Zombie creature tokens."
 msgstr ""
 
 #: ../../AKH.rst:607
-msgid "Cycling |mana_3| |mana_b| (|mana_3| |mana_b|, Discard this card: Draw a card.)"
+msgid "Cycling |mana_3|\\ |mana_b| (|mana_3|\\ |mana_b|, Discard this card: Draw a card.)"
 msgstr ""
 
 #: ../../AKH.rst:609
@@ -1307,7 +1307,7 @@ msgid "Deem Worthy deals 7 damage to target creature."
 msgstr ""
 
 #: ../../AKH.rst:699
-msgid "Cycling |mana_3| |mana_r| (|mana_3| |mana_r|, Discard this card: Draw a card.)"
+msgid "Cycling |mana_3|\\ |mana_r| (|mana_3|\\ |mana_r|, Discard this card: Draw a card.)"
 msgstr ""
 
 #: ../../AKH.rst:701
@@ -1403,7 +1403,7 @@ msgid "Hazoret the Fervent can't attack or block unless you have one or fewer ca
 msgstr ""
 
 #: ../../AKH.rst:749
-msgid "|mana_2| |mana_r|, Discard a card: Hazoret deals 2 damage to each opponent."
+msgid "|mana_2|\\ |mana_r|, Discard a card: Hazoret deals 2 damage to each opponent."
 msgstr ""
 
 #: ../../AKH.rst:754
@@ -1423,7 +1423,7 @@ msgid "When Heart-Piercer Manticore enters the battlefield, you may sacrifice an
 msgstr ""
 
 #: ../../AKH.rst:759
-msgid "Embalm |mana_5| |mana_r| (|mana_5| |mana_r|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Manticore with no mana cost. Embalm only as a sorcery.)"
+msgid "Embalm |mana_5|\\ |mana_r| (|mana_5|\\ |mana_r|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Manticore with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
 
 #: ../../AKH.rst:762
@@ -1464,7 +1464,7 @@ msgid "Reach (This creature can block creatures with flying.)"
 msgstr ""
 
 #: ../../AKH.rst:783
-msgid "|mana_1| |mana_r|: Minotaur Sureshot gets +1/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|: Minotaur Sureshot gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../AKH.rst:790
@@ -1739,7 +1739,7 @@ msgid "Honored Hydra"
 msgstr ""
 
 #: ../../AKH.rst:939
-msgid "Embalm |mana_3| |mana_g| (|mana_3| |mana_g|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Snake Hydra with no mana cost. Embalm only as a sorcery.)"
+msgid "Embalm |mana_3|\\ |mana_g| (|mana_3|\\ |mana_g|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Snake Hydra with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
 
 #: ../../AKH.rst:944
@@ -1783,7 +1783,7 @@ msgid "Oashra Cultivator"
 msgstr ""
 
 #: ../../AKH.rst:961
-msgid "|mana_2| |mana_g|, |tap|, Sacrifice Oashra Cultivator: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|mana_2|\\ |mana_g|, |tap|, Sacrifice Oashra Cultivator: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
 #: ../../AKH.rst:966
@@ -1831,7 +1831,7 @@ msgid "Rhonas the Indomitable can't attack or block unless you control another c
 msgstr ""
 
 #: ../../AKH.rst:987
-msgid "|mana_2| |mana_g|: Another target creature gets +2/+0 and gains trample until end of turn."
+msgid "|mana_2|\\ |mana_g|: Another target creature gets +2/+0 and gains trample until end of turn."
 msgstr ""
 
 #: ../../AKH.rst:994
@@ -1867,7 +1867,7 @@ msgid "Shefet Monitor"
 msgstr ""
 
 #: ../../AKH.rst:1005
-msgid "Cycling |mana_3| |mana_g| (|mana_3| |mana_g|, Discard this card: Draw a card.)"
+msgid "Cycling |mana_3|\\ |mana_g| (|mana_3|\\ |mana_g|, Discard this card: Draw a card.)"
 msgstr ""
 
 #: ../../AKH.rst:1007
@@ -1959,7 +1959,7 @@ msgid "Creature tokens you control have flying and vigilance."
 msgstr ""
 
 #: ../../AKH.rst:1057
-msgid "Embalm |mana_4| |mana_w| |mana_u| (|mana_4| |mana_w| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)"
+msgid "Embalm |mana_4|\\ |mana_w|\\ |mana_u| (|mana_4|\\ |mana_w|\\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
 
 #: ../../AKH.rst:1062
@@ -1967,7 +1967,7 @@ msgid "Bounty of the Luxa"
 msgstr ""
 
 #: ../../AKH.rst:1061
-msgid "At the beginning of your precombat main phase, remove all flood counters from Bounty of the Luxa. If no counters were removed this way, put a flood counter on Bounty of the Luxa and draw a card. Otherwise, add |colorless| |mana_g| |mana_u|."
+msgid "At the beginning of your precombat main phase, remove all flood counters from Bounty of the Luxa. If no counters were removed this way, put a flood counter on Bounty of the Luxa and draw a card. Otherwise, add |colorless|\\ |mana_g|\\ |mana_u|."
 msgstr ""
 
 #: ../../AKH.rst:1068
@@ -2095,7 +2095,7 @@ msgid "At the beginning of combat on your turn, target creature token you contro
 msgstr ""
 
 #: ../../AKH.rst:1133
-msgid "Embalm |mana_3| |mana_w| |mana_u| (|mana_3| |mana_w| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)"
+msgid "Embalm |mana_3|\\ |mana_w|\\ |mana_u| (|mana_3|\\ |mana_w|\\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
 
 #: ../../AKH.rst:1138
@@ -2111,7 +2111,7 @@ msgid "Weaver of Currents"
 msgstr ""
 
 #: ../../AKH.rst:1141
-msgid "|tap|: Add |colorless| |colorless|."
+msgid "|tap|: Add |colorless|\\ |colorless|."
 msgstr ""
 
 #: ../../AKH.rst:1146
@@ -2708,7 +2708,7 @@ msgid "Companion of the Trials"
 msgstr ""
 
 #: ../../AKH.rst:1543
-msgid "|mana_1| |mana_w|: Untap target creature. Activate this ability only if you control a Gideon planeswalker."
+msgid "|mana_1|\\ |mana_w|: Untap target creature. Activate this ability only if you control a Gideon planeswalker."
 msgstr ""
 
 #: ../../AKH.rst:1550
@@ -2764,7 +2764,7 @@ msgid "Desiccated Naga"
 msgstr ""
 
 #: ../../AKH.rst:1571
-msgid "|mana_3| |mana_b|: Target opponent loses 2 life and you gain 2 life. Activate this ability only if you control a Liliana planeswalker."
+msgid "|mana_3|\\ |mana_b|: Target opponent loses 2 life and you gain 2 life. Activate this ability only if you control a Liliana planeswalker."
 msgstr ""
 
 #: ../../AKH.rst:1576

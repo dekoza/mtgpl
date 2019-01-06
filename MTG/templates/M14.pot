@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -168,7 +168,7 @@ msgid "First strike (This creature deals combat damage before creatures without 
 msgstr ""
 
 #: ../../M14.rst:63
-msgid "|mana_1| |mana_w|: Capashen Knight gets +1/+0 until end of turn."
+msgid "|mana_1|\\ |mana_w|: Capashen Knight gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../M14.rst:68
@@ -408,7 +408,7 @@ msgid "Stonehorn Chanter"
 msgstr ""
 
 #: ../../M14.rst:201
-msgid "|mana_5| |mana_w|: Stonehorn Chanter gains vigilance and lifelink until end of turn. (Attacking doesn't cause it to tap. Damage dealt by it also causes you to gain that much life.)"
+msgid "|mana_5|\\ |mana_w|: Stonehorn Chanter gains vigilance and lifelink until end of turn. (Attacking doesn't cause it to tap. Damage dealt by it also causes you to gain that much life.)"
 msgstr ""
 
 #: ../../M14.rst:206
@@ -424,7 +424,7 @@ msgid "Air Servant"
 msgstr ""
 
 #: ../../M14.rst:217
-msgid "|mana_2| |mana_u|: Tap target creature with flying."
+msgid "|mana_2|\\ |mana_u|: Tap target creature with flying."
 msgstr ""
 
 #: ../../M14.rst:222
@@ -688,7 +688,7 @@ msgid "Spell Blast"
 msgstr ""
 
 #: ../../M14.rst:369
-msgid "Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3| |mana_u| |mana_u|, X is 5.)"
+msgid "Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
 
 #: ../../M14.rst:374
@@ -776,7 +776,7 @@ msgid "Zephyr Charge"
 msgstr ""
 
 #: ../../M14.rst:419
-msgid "|mana_1| |mana_u|: Target creature gains flying until end of turn."
+msgid "|mana_1|\\ |mana_u|: Target creature gains flying until end of turn."
 msgstr ""
 
 #: ../../M14.rst:424
@@ -843,7 +843,7 @@ msgid "Corpse Hauler"
 msgstr ""
 
 #: ../../M14.rst:455
-msgid "|mana_2| |mana_b|, Sacrifice Corpse Hauler: Return another target creature card from your graveyard to your hand."
+msgid "|mana_2|\\ |mana_b|, Sacrifice Corpse Hauler: Return another target creature card from your graveyard to your hand."
 msgstr ""
 
 #: ../../M14.rst:460
@@ -920,7 +920,7 @@ msgid "Gnawing Zombie"
 msgstr ""
 
 #: ../../M14.rst:497
-msgid "|mana_1| |mana_b|, Sacrifice a creature: Target player loses 1 life and you gain 1 life."
+msgid "|mana_1|\\ |mana_b|, Sacrifice a creature: Target player loses 1 life and you gain 1 life."
 msgstr ""
 
 #: ../../M14.rst:502
@@ -952,7 +952,7 @@ msgid "−3: Target creature gets +X/+X or -X/-X until end of turn, where X is t
 msgstr ""
 
 #: ../../M14.rst:515
-msgid "−6: You get an emblem with \"Swamps you control have '|tap|: Add |mana_b| |mana_b| |mana_b| |mana_b|.'\""
+msgid "−6: You get an emblem with \"Swamps you control have '|tap|: Add |mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b|.'\""
 msgstr ""
 
 #: ../../M14.rst:522
@@ -972,7 +972,7 @@ msgid "Liturgy of Blood"
 msgstr ""
 
 #: ../../M14.rst:525
-msgid "Destroy target creature. Add |mana_b| |mana_b| |mana_b|."
+msgid "Destroy target creature. Add |mana_b|\\ |mana_b|\\ |mana_b|."
 msgstr ""
 
 #: ../../M14.rst:532
@@ -1008,7 +1008,7 @@ msgid "Nightwing Shade"
 msgstr ""
 
 #: ../../M14.rst:551
-msgid "|mana_1| |mana_b|: Nightwing Shade gets +1/+1 until end of turn."
+msgid "|mana_1|\\ |mana_b|: Nightwing Shade gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../M14.rst:558
@@ -1088,7 +1088,7 @@ msgid "Tenacious Dead"
 msgstr ""
 
 #: ../../M14.rst:597
-msgid "When Tenacious Dead dies, you may pay |mana_1| |mana_b|. If you do, return it to the battlefield tapped under its owner's control."
+msgid "When Tenacious Dead dies, you may pay |mana_1|\\ |mana_b|. If you do, return it to the battlefield tapped under its owner's control."
 msgstr ""
 
 #: ../../M14.rst:600
@@ -1715,7 +1715,7 @@ msgid "Rootwalla"
 msgstr ""
 
 #: ../../M14.rst:947
-msgid "|mana_1| |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn."
 msgstr ""
 
 #: ../../M14.rst:950
@@ -1755,7 +1755,7 @@ msgid "Trollhide"
 msgstr ""
 
 #: ../../M14.rst:971
-msgid "Enchanted creature gets +2/+2 and has \"|mana_1| |mana_g|: Regenerate this creature.\" (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
+msgid "Enchanted creature gets +2/+2 and has \"|mana_1|\\ |mana_g|: Regenerate this creature.\" (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
 msgstr ""
 
 #: ../../M14.rst:978

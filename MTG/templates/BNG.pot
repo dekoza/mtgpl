@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,7 +39,7 @@ msgid "Vigilance"
 msgstr ""
 
 #: ../../BNG.rst:15
-msgid "|mana_2| |mana_r|: Creatures you control get +1/+0 until end of turn."
+msgid "|mana_2|\\ |mana_r|: Creatures you control get +1/+0 until end of turn."
 msgstr ""
 
 #: ../../BNG.rst:22
@@ -113,7 +113,7 @@ msgid "Eidolon of Countless Battles"
 msgstr ""
 
 #: ../../BNG.rst:47
-msgid "Bestow |mana_2| |mana_w| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_2|\\ |mana_w|\\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../BNG.rst:49
@@ -151,7 +151,7 @@ msgid "Enchant creature"
 msgstr ""
 
 #: ../../BNG.rst:59
-msgid "Enchanted creature has \"|mana_1| |mana_w|, |tap|: You gain 3 life.\""
+msgid "Enchanted creature has \"|mana_1|\\ |mana_w|, |tap|: You gain 3 life.\""
 msgstr ""
 
 #: ../../BNG.rst:64
@@ -175,7 +175,7 @@ msgid "Ghostblade Eidolon"
 msgstr ""
 
 #: ../../BNG.rst:71
-msgid "Bestow |mana_5| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_5|\\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../BNG.rst:73
@@ -199,7 +199,7 @@ msgid "God-Favored General"
 msgstr ""
 
 #: ../../BNG.rst:83
-msgid "Inspired — Whenever God-Favored General becomes untapped, you may pay |mana_2| |mana_w|. If you do, create two 1/1 white Soldier enchantment creature tokens."
+msgid "Inspired — Whenever God-Favored General becomes untapped, you may pay |mana_2|\\ |mana_w|. If you do, create two 1/1 white Soldier enchantment creature tokens."
 msgstr ""
 
 #: ../../BNG.rst:86
@@ -255,7 +255,7 @@ msgid "Nyxborn Shieldmate"
 msgstr ""
 
 #: ../../BNG.rst:117
-msgid "Bestow |mana_2| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_2|\\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../BNG.rst:119
@@ -339,7 +339,7 @@ msgid "Aerie Worshippers"
 msgstr ""
 
 #: ../../BNG.rst:165
-msgid "Inspired — Whenever Aerie Worshippers becomes untapped, you may pay |mana_2| |mana_u|. If you do, create a 2/2 blue Bird enchantment creature token with flying."
+msgid "Inspired — Whenever Aerie Worshippers becomes untapped, you may pay |mana_2|\\ |mana_u|. If you do, create a 2/2 blue Bird enchantment creature token with flying."
 msgstr ""
 
 #: ../../BNG.rst:172
@@ -411,7 +411,7 @@ msgid "Evanescent Intellect"
 msgstr ""
 
 #: ../../BNG.rst:209
-msgid "Enchanted creature has \"|mana_1| |mana_u|, |tap|: Target player puts the top three cards of their library into their graveyard.\""
+msgid "Enchanted creature has \"|mana_1|\\ |mana_u|, |tap|: Target player puts the top three cards of their library into their graveyard.\""
 msgstr ""
 
 #: ../../BNG.rst:214
@@ -427,7 +427,7 @@ msgid "Flitterstep Eidolon"
 msgstr ""
 
 #: ../../BNG.rst:217
-msgid "Bestow |mana_5| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_5|\\ |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../BNG.rst:219
@@ -471,7 +471,7 @@ msgid "Heroic — Whenever you cast a spell that targets Mindreaver, exile the t
 msgstr ""
 
 #: ../../BNG.rst:239
-msgid "|mana_u| |mana_u|, Sacrifice Mindreaver: Counter target spell with the same name as a card exiled with Mindreaver."
+msgid "|mana_u|\\ |mana_u|, Sacrifice Mindreaver: Counter target spell with the same name as a card exiled with Mindreaver."
 msgstr ""
 
 #: ../../BNG.rst:244
@@ -487,7 +487,7 @@ msgid "Nyxborn Triton"
 msgstr ""
 
 #: ../../BNG.rst:247
-msgid "Bestow |mana_4| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_4|\\ |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../BNG.rst:249
@@ -594,7 +594,7 @@ msgid "|mana_u|: Put Vortex Elemental and each creature blocking or blocked by i
 msgstr ""
 
 #: ../../BNG.rst:307
-msgid "|mana_3| |mana_u| |mana_u|: Target creature blocks Vortex Elemental this turn if able."
+msgid "|mana_3|\\ |mana_u|\\ |mana_u|: Target creature blocks Vortex Elemental this turn if able."
 msgstr ""
 
 #: ../../BNG.rst:312
@@ -659,11 +659,11 @@ msgid "Champion of Stray Souls"
 msgstr ""
 
 #: ../../BNG.rst:339
-msgid "|mana_3| |mana_b| |mana_b|, |tap|, Sacrifice X other creatures: Return X target creature cards from your graveyard to the battlefield."
+msgid "|mana_3|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice X other creatures: Return X target creature cards from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../BNG.rst:341
-msgid "|mana_5| |mana_b| |mana_b|: Put Champion of Stray Souls on top of your library from your graveyard."
+msgid "|mana_5|\\ |mana_b|\\ |mana_b|: Put Champion of Stray Souls on top of your library from your graveyard."
 msgstr ""
 
 #: ../../BNG.rst:348
@@ -671,7 +671,7 @@ msgid "Claim of Erebos"
 msgstr ""
 
 #: ../../BNG.rst:347
-msgid "Enchanted creature has \"|mana_1| |mana_b|, |tap|: Target player loses 2 life.\""
+msgid "Enchanted creature has \"|mana_1|\\ |mana_b|, |tap|: Target player loses 2 life.\""
 msgstr ""
 
 #: ../../BNG.rst:352
@@ -691,7 +691,7 @@ msgid "|mana_b|, Sacrifice another creature: Regenerate Eater of Hope."
 msgstr ""
 
 #: ../../BNG.rst:359
-msgid "|mana_2| |mana_b|, Sacrifice two other creatures: Destroy target creature."
+msgid "|mana_2|\\ |mana_b|, Sacrifice two other creatures: Destroy target creature."
 msgstr ""
 
 #: ../../BNG.rst:364
@@ -735,7 +735,7 @@ msgid "Intimidate (This creature can't be blocked except by artifact creatures a
 msgstr ""
 
 #: ../../BNG.rst:381
-msgid "Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2| |mana_b|. If you do, create a 2/2 black Zombie enchantment creature token."
+msgid "Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2|\\ |mana_b|. If you do, create a 2/2 black Zombie enchantment creature token."
 msgstr ""
 
 #: ../../BNG.rst:386
@@ -771,7 +771,7 @@ msgid "Herald of Torment"
 msgstr ""
 
 #: ../../BNG.rst:401
-msgid "Bestow |mana_3| |mana_b| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_3|\\ |mana_b|\\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../BNG.rst:405
@@ -803,7 +803,7 @@ msgid "Nyxborn Eidolon"
 msgstr ""
 
 #: ../../BNG.rst:419
-msgid "Bestow |mana_4| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_4|\\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../BNG.rst:421
@@ -847,7 +847,7 @@ msgid "Inspired — Whenever Servant of Tymaret becomes untapped, each opponent 
 msgstr ""
 
 #: ../../BNG.rst:441
-msgid "|mana_2| |mana_b|: Regenerate Servant of Tymaret."
+msgid "|mana_2|\\ |mana_b|: Regenerate Servant of Tymaret."
 msgstr ""
 
 #: ../../BNG.rst:450
@@ -863,7 +863,7 @@ msgid "Spiteful Returned"
 msgstr ""
 
 #: ../../BNG.rst:453
-msgid "Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_3|\\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../BNG.rst:455
@@ -938,7 +938,7 @@ msgid "Everflame Eidolon"
 msgstr ""
 
 #: ../../BNG.rst:495
-msgid "Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_2|\\ |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../BNG.rst:497
@@ -966,7 +966,7 @@ msgid "Fearsome Temper"
 msgstr ""
 
 #: ../../BNG.rst:513
-msgid "Enchanted creature gets +2/+2 and has \"|mana_2| |mana_r|: Target creature can't block this creature this turn.\""
+msgid "Enchanted creature gets +2/+2 and has \"|mana_2|\\ |mana_r|: Target creature can't block this creature this turn.\""
 msgstr ""
 
 #: ../../BNG.rst:518
@@ -974,7 +974,7 @@ msgid "Felhide Spiritbinder"
 msgstr ""
 
 #: ../../BNG.rst:517
-msgid "Inspired — Whenever Felhide Spiritbinder becomes untapped, you may pay |mana_1| |mana_r|. If you do, create a token that's a copy of another target creature, except it's an enchantment in addition to its other types. It gains haste. Exile it at the beginning of the next end step."
+msgid "Inspired — Whenever Felhide Spiritbinder becomes untapped, you may pay |mana_1|\\ |mana_r|. If you do, create a token that's a copy of another target creature, except it's an enchantment in addition to its other types. It gains haste. Exile it at the beginning of the next end step."
 msgstr ""
 
 #: ../../BNG.rst:526
@@ -990,7 +990,7 @@ msgid "Forgestoker Dragon"
 msgstr ""
 
 #: ../../BNG.rst:531
-msgid "|mana_1| |mana_r|: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if Forgestoker Dragon is attacking."
+msgid "|mana_1|\\ |mana_r|: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if Forgestoker Dragon is attacking."
 msgstr ""
 
 #: ../../BNG.rst:538
@@ -1026,7 +1026,7 @@ msgid "Nyxborn Rollicker"
 msgstr ""
 
 #: ../../BNG.rst:549
-msgid "Bestow |mana_1| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_1|\\ |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../BNG.rst:560
@@ -1088,7 +1088,7 @@ msgid "Satyr Nyx-Smith"
 msgstr ""
 
 #: ../../BNG.rst:587
-msgid "Inspired — Whenever Satyr Nyx-Smith becomes untapped, you may pay |mana_2| |mana_r|. If you do, create a 3/1 red Elemental enchantment creature token with haste."
+msgid "Inspired — Whenever Satyr Nyx-Smith becomes untapped, you may pay |mana_2|\\ |mana_r|. If you do, create a 3/1 red Elemental enchantment creature token with haste."
 msgstr ""
 
 #: ../../BNG.rst:592
@@ -1112,7 +1112,7 @@ msgid "Stormcaller of Keranos"
 msgstr ""
 
 #: ../../BNG.rst:601
-msgid "|mana_1| |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgid "|mana_1|\\ |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
 #: ../../BNG.rst:610
@@ -1211,7 +1211,7 @@ msgid "Reach"
 msgstr ""
 
 #: ../../BNG.rst:655
-msgid "|mana_3| |mana_b|: Graverobber Spider gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. Activate this ability only once each turn."
+msgid "|mana_3|\\ |mana_b|: Graverobber Spider gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. Activate this ability only once each turn."
 msgstr ""
 
 #: ../../BNG.rst:660
@@ -1283,7 +1283,7 @@ msgid "Noble Quarry"
 msgstr ""
 
 #: ../../BNG.rst:695
-msgid "Bestow |mana_5| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_5|\\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../BNG.rst:697
@@ -1295,7 +1295,7 @@ msgid "Nyxborn Wolf"
 msgstr ""
 
 #: ../../BNG.rst:703
-msgid "Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_4|\\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../BNG.rst:705
@@ -1315,7 +1315,7 @@ msgid "Pheres-Band Raiders"
 msgstr ""
 
 #: ../../BNG.rst:713
-msgid "Inspired — Whenever Pheres-Band Raiders becomes untapped, you may pay |mana_2| |mana_g|. If you do, create a 3/3 green Centaur enchantment creature token."
+msgid "Inspired — Whenever Pheres-Band Raiders becomes untapped, you may pay |mana_2|\\ |mana_g|. If you do, create a 3/3 green Centaur enchantment creature token."
 msgstr ""
 
 #: ../../BNG.rst:718
@@ -1407,7 +1407,7 @@ msgid "Chromanticore"
 msgstr ""
 
 #: ../../BNG.rst:767
-msgid "Bestow |mana_2| |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
+msgid "Bestow |mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
 
 #: ../../BNG.rst:769
@@ -1531,7 +1531,7 @@ msgid "Ragemonger"
 msgstr ""
 
 #: ../../BNG.rst:837
-msgid "Minotaur spells you cast cost |mana_b| |mana_r| less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Minotaur spell with mana cost |mana_2| |mana_r|, it costs |mana_2| to cast.)"
+msgid "Minotaur spells you cast cost |mana_b|\\ |mana_r| less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Minotaur spell with mana cost |mana_2|\\ |mana_r|, it costs |mana_2| to cast.)"
 msgstr ""
 
 #: ../../BNG.rst:842

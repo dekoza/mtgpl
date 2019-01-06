@@ -74,7 +74,7 @@ Curtains' Call
 
 
 Magus of the Will
-   |mana_2| |mana_b|, |tap|, Exile Magus of the Will: Until end of turn, you may play cards from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile that card instead.
+   |mana_2|\ |mana_b|, |tap|, Exile Magus of the Will: Until end of turn, you may play cards from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile that card instead.
 
 
 Parting Thoughts
@@ -108,7 +108,7 @@ Goblin Spymaster
 Runehorn Hellkite
    Flying
 
-   |mana_5| |mana_r|, Exile Runehorn Hellkite from your graveyard: Each player discards their hand, then draws seven cards.
+   |mana_5|\ |mana_r|, Exile Runehorn Hellkite from your graveyard: Each player discards their hand, then draws seven cards.
 
 
 Benefactor's Draught
@@ -392,11 +392,11 @@ Citadel Siege
 Custodi Soulbinders
    Custodi Soulbinders enters the battlefield with X +1/+1 counters on it, where X is the number of other creatures on the battlefield.
 
-   |mana_2| |mana_w|, Remove a +1/+1 counter from Custodi Soulbinders: Create a 1/1 white Spirit creature token with flying.
+   |mana_2|\ |mana_w|, Remove a +1/+1 counter from Custodi Soulbinders: Create a 1/1 white Spirit creature token with flying.
 
 
 Dispeller's Capsule
-   |mana_2| |mana_w|, |tap|, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment.
+   |mana_2|\ |mana_w|, |tap|, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment.
 
 
 Elite Scaleguard
@@ -412,7 +412,7 @@ Ghostly Prison
 Hoofprints of the Stag
    Whenever you draw a card, you may put a hoofprint counter on Hoofprints of the Stag.
 
-   |mana_2| |mana_w|, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate this ability only during your turn.
+   |mana_2|\ |mana_w|, Remove four hoofprint counters from Hoofprints of the Stag: Create a 4/4 white Elemental creature token with flying. Activate this ability only during your turn.
 
 
 Hushwing Gryff
@@ -450,7 +450,7 @@ Reveillark
 
    When Reveillark leaves the battlefield, return up to two target creature cards with power 2 or less from your graveyard to the battlefield.
 
-   Evoke |mana_5| |mana_w| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
+   Evoke |mana_5|\ |mana_w| (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)
 
 
 Reverse the Sands
@@ -484,13 +484,13 @@ Windborn Muse
 Academy Elite
    Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.
 
-   |mana_2| |mana_u|, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.
+   |mana_2|\ |mana_u|, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.
 
 
 Aeon Chronicler
    Aeon Chronicler's power and toughness are each equal to the number of cards in your hand.
 
-   Suspend X—|mana_x| |mana_3| |mana_u|. X can't be 0. (Rather than cast this card from your hand, you may pay |mana_x| |mana_3| |mana_u| and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+   Suspend X—|mana_x|\ |mana_3|\ |mana_u|. X can't be 0. (Rather than cast this card from your hand, you may pay |mana_x|\ |mana_3|\ |mana_u| and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
 
    Whenever a time counter is removed from Aeon Chronicler while it's exiled, draw a card.
 
@@ -518,7 +518,7 @@ Chief Engineer
 Devastation Tide
    Return all nonland permanents to their owners' hands.
 
-   Miracle |mana_1| |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
+   Miracle |mana_1|\ |mana_u| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
 Disdainful Stroke
@@ -532,9 +532,9 @@ Etherium Sculptor
 Ethersworn Adjudicator
    Flying
 
-   |mana_1| |mana_w| |mana_b|, |tap|: Destroy target creature or enchantment.
+   |mana_1|\ |mana_w|\ |mana_b|, |tap|: Destroy target creature or enchantment.
 
-   |mana_2| |mana_u|: Untap Ethersworn Adjudicator.
+   |mana_2|\ |mana_u|: Untap Ethersworn Adjudicator.
 
 
 Evacuation
@@ -604,11 +604,11 @@ Windfall
 Army of the Damned
    Create thirteen tapped 2/2 black Zombie creature tokens.
 
-   Flashback |mana_7| |mana_b| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_7|\ |mana_b|\ |mana_b|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Bane of the Living
-   Morph |mana_x| |mana_b| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_x|\ |mana_b|\ |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Bane of the Living is turned face up, all creatures get -X/-X until end of turn.
 
@@ -620,17 +620,17 @@ Beacon of Unrest
 Brutal Hordechief
    Whenever a creature you control attacks, defending player loses 1 life and you gain 1 life.
 
-   |mana_3| |mana_rw| |mana_rw|: Creatures your opponents control block this turn if able, and you choose how those creatures block.
+   |mana_3|\ |mana_rw|\ |mana_rw|: Creatures your opponents control block this turn if able, and you choose how those creatures block.
 
 
 Executioner's Capsule
-   |mana_1| |mana_b|, |tap|, Sacrifice Executioner's Capsule: Destroy target nonblack creature.
+   |mana_1|\ |mana_b|, |tap|, Sacrifice Executioner's Capsule: Destroy target nonblack creature.
 
 
 Festercreep
    Festercreep enters the battlefield with a +1/+1 counter on it.
 
-   |mana_1| |mana_b|, Remove a +1/+1 counter from Festercreep: All other creatures get -1/-1 until end of turn.
+   |mana_1|\ |mana_b|, Remove a +1/+1 counter from Festercreep: All other creatures get -1/-1 until end of turn.
 
 
 Ghastly Conscription
@@ -670,7 +670,7 @@ Sangromancer
 Waste Not
    Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.
 
-   Whenever an opponent discards a land card, add |mana_b| |mana_b|.
+   Whenever an opponent discards a land card, add |mana_b|\ |mana_b|.
 
    Whenever an opponent discards a noncreature, nonland card, draw a card.
 
@@ -682,7 +682,7 @@ Wight of Precinct Six
 Alesha, Who Smiles at Death
    First strike
 
-   Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb| |mana_wb|. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.
+   Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb|\ |mana_wb|. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.
 
 
 Blasphemous Act
@@ -730,13 +730,13 @@ Grab the Reins
 
    • Sacrifice a creature. Grab the Reins deals damage equal to that creature's power to any target.
 
-   Entwine |mana_2| |mana_r| (Choose both if you pay the entwine cost.)
+   Entwine |mana_2|\ |mana_r| (Choose both if you pay the entwine cost.)
 
 
 Hellkite Igniter
    Flying, haste
 
-   |mana_1| |mana_r|: Hellkite Igniter gets +X/+0 until end of turn, where X is the number of artifacts you control.
+   |mana_1|\ |mana_r|: Hellkite Igniter gets +X/+0 until end of turn, where X is the number of artifacts you control.
 
 
 Hellkite Tyrant
@@ -758,13 +758,13 @@ Kazuul, Tyrant of the Cliffs
 Past in Flames
    Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
 
-   Flashback |mana_4| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_4|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Reforge the Soul
    Each player discards their hand, then draws seven cards.
 
-   Miracle |mana_1| |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
+   Miracle |mana_1|\ |mana_r| (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)
 
 
 Slobad, Goblin Tinkerer
@@ -794,7 +794,7 @@ Volcanic Vision
 
 
 Wheel of Fate
-   Suspend 4—|mana_1| |mana_r| (Rather than cast this card from your hand, pay |mana_1| |mana_r| and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+   Suspend 4—|mana_1|\ |mana_r| (Rather than cast this card from your hand, pay |mana_1|\ |mana_r| and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
 
    Each player discards their hand, then draws seven cards.
 
@@ -838,7 +838,7 @@ Cultivate
 Den Protector
    Creatures with power less than Den Protector's power can't block it.
 
-   Megamorph |mana_1| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+   Megamorph |mana_1|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
 
    When Den Protector is turned face up, return target card from your graveyard to your hand.
 
@@ -914,7 +914,7 @@ Rampant Growth
 Realm Seekers
    Realm Seekers enters the battlefield with X +1/+1 counters on it, where X is the total number of cards in all players' hands.
 
-   |mana_2| |mana_g|, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle your library.
+   |mana_2|\ |mana_g|, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle your library.
 
 
 Rites of Flourishing
@@ -942,7 +942,7 @@ Shamanic Revelation
 
 
 Solidarity of Heroes
-   Strive — This spell costs |mana_1| |mana_g| more to cast for each target beyond the first.
+   Strive — This spell costs |mana_1|\ |mana_g| more to cast for each target beyond the first.
 
    Choose any number of target creatures. Double the number of +1/+1 counters on each of them.
 
@@ -958,7 +958,7 @@ Tempt with Discovery
 Thelonite Hermit
    Saproling creatures get +1/+1.
 
-   Morph |mana_3| |mana_g| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
+   Morph |mana_3|\ |mana_g|\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)
 
    When Thelonite Hermit is turned face up, create four 1/1 green Saproling creature tokens.
 
@@ -1104,7 +1104,7 @@ Enduring Scalelord
 
 
 Etherium-Horn Sorcerer
-   |mana_1| |mana_u| |mana_r|: Return Etherium-Horn Sorcerer to its owner's hand.
+   |mana_1|\ |mana_u|\ |mana_r|: Return Etherium-Horn Sorcerer to its owner's hand.
 
    Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
 
@@ -1136,13 +1136,13 @@ Glint-Eye Nephilim
 
 
 Gwafa Hazid, Profiteer
-   |mana_w| |mana_u|, |tap|: Put a bribery counter on target creature you don't control. Its controller draws a card.
+   |mana_w|\ |mana_u|, |tap|: Put a bribery counter on target creature you don't control. Its controller draws a card.
 
    Creatures with bribery counters on them can't attack or block.
 
 
 Hanna, Ship's Navigator
-   |mana_1| |mana_w| |mana_u|, |tap|: Return target artifact or enchantment card from your graveyard to your hand.
+   |mana_1|\ |mana_w|\ |mana_u|, |tap|: Return target artifact or enchantment card from your graveyard to your hand.
 
 
 Horizon Chimera
@@ -1174,9 +1174,9 @@ Juniper Order Ranger
 
 
 Korozda Guildmage
-   |mana_1| |mana_b| |mana_g|: Target creature gets +1/+1 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+   |mana_1|\ |mana_b|\ |mana_g|: Target creature gets +1/+1 and gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
-   |mana_2| |mana_b| |mana_g|, Sacrifice a nontoken creature: Create X 1/1 green Saproling creature tokens, where X is the sacrificed creature's toughness.
+   |mana_2|\ |mana_b|\ |mana_g|, Sacrifice a nontoken creature: Create X 1/1 green Saproling creature tokens, where X is the sacrificed creature's toughness.
 
 
 Lavalanche
@@ -1244,7 +1244,7 @@ Rakdos Charm
 Rubblehulk
    Rubblehulk's power and toughness are each equal to the number of lands you control.
 
-   Bloodrush — |mana_1| |mana_r| |mana_g|, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control.
+   Bloodrush — |mana_1|\ |mana_r|\ |mana_g|, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control.
 
 
 Selvala, Explorer Returned
@@ -1272,7 +1272,7 @@ Sphinx Summoner
 Sydri, Galvanic Genius
    |mana_u|: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.
 
-   |mana_w| |mana_b|: Target artifact creature gains deathtouch and lifelink until end of turn.
+   |mana_w|\ |mana_b|: Target artifact creature gains deathtouch and lifelink until end of turn.
 
 
 Terminate
@@ -1284,7 +1284,7 @@ Utter End
 
 
 Vorel of the Hull Clade
-   |mana_g| |mana_u|, |tap|: Double the number of each kind of counter on target artifact, creature, or land.
+   |mana_g|\ |mana_u|, |tap|: Double the number of each kind of counter on target artifact, creature, or land.
 
 
 Vulturous Zombie
@@ -1308,7 +1308,7 @@ Wilderness Elemental
 Zedruu the Greathearted
    At the beginning of your upkeep, you gain X life and draw X cards, where X is the number of permanents you own that your opponents control.
 
-   |mana_u| |mana_r| |mana_w|: Target opponent gains control of target permanent you control.
+   |mana_u|\ |mana_r|\ |mana_w|: Target opponent gains control of target permanent you control.
 
 
 Zhur-Taa Druid
@@ -1330,9 +1330,9 @@ Mirrorweave
 
 
 Selesnya Guildmage
-   |mana_3| |mana_g|: Create a 1/1 green Saproling creature token.
+   |mana_3|\ |mana_g|: Create a 1/1 green Saproling creature token.
 
-   |mana_3| |mana_w|: Creatures you control get +1/+1 until end of turn.
+   |mana_3|\ |mana_w|: Creatures you control get +1/+1 until end of turn.
 
 
 Spitting Image
@@ -1420,7 +1420,7 @@ Commander's Sphere
 Cranial Plating
    Equipped creature gets +1/+0 for each artifact you control.
 
-   |mana_b| |mana_b|: Attach Cranial Plating to target creature you control.
+   |mana_b|\ |mana_b|: Attach Cranial Plating to target creature you control.
 
    Equip |mana_1|
 
@@ -1456,11 +1456,11 @@ Fellwar Stone
 
 
 Golgari Signet
-   |mana_1|, |tap|: Add |mana_b| |mana_g|.
+   |mana_1|, |tap|: Add |mana_b|\ |mana_g|.
 
 
 Gruul Signet
-   |mana_1|, |tap|: Add |mana_r| |mana_g|.
+   |mana_1|, |tap|: Add |mana_r|\ |mana_g|.
 
 
 Howling Mine
@@ -1508,7 +1508,7 @@ Nevinyrral's Disk
 
 
 Orzhov Signet
-   |mana_1|, |tap|: Add |mana_w| |mana_b|.
+   |mana_1|, |tap|: Add |mana_w|\ |mana_b|.
 
 
 Psychosis Crawler
@@ -1518,7 +1518,7 @@ Psychosis Crawler
 
 
 Rakdos Signet
-   |mana_1|, |tap|: Add |mana_b| |mana_r|.
+   |mana_1|, |tap|: Add |mana_b|\ |mana_r|.
 
 
 Shimmer Myr
@@ -1528,7 +1528,7 @@ Shimmer Myr
 
 
 Simic Signet
-   |mana_1|, |tap|: Add |mana_g| |mana_u|.
+   |mana_1|, |tap|: Add |mana_g|\ |mana_u|.
 
 
 Skullclamp
@@ -1540,7 +1540,7 @@ Skullclamp
 
 
 Sol Ring
-   |tap|: Add |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|.
 
 
 Solemn Simulacrum
@@ -1560,7 +1560,7 @@ Soul of New Phyrexia
 Sunforger
    Equipped creature gets +4/+0.
 
-   |mana_r| |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library.
+   |mana_r|\ |mana_w|, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library.
 
    Equip |mana_3|
 
@@ -1608,7 +1608,7 @@ Azorius Chancery
 
    When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_w| |mana_u|.
+   |tap|: Add |mana_w|\ |mana_u|.
 
 
 Boros Garrison
@@ -1616,7 +1616,7 @@ Boros Garrison
 
    When Boros Garrison enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_r| |mana_w|.
+   |tap|: Add |mana_r|\ |mana_w|.
 
 
 Buried Ruin
@@ -1648,7 +1648,7 @@ Darksteel Citadel
 
 
 Darkwater Catacombs
-   |mana_1|, |tap|: Add |mana_u| |mana_b|.
+   |mana_1|, |tap|: Add |mana_u|\ |mana_b|.
 
 
 Dimir Aqueduct
@@ -1656,7 +1656,7 @@ Dimir Aqueduct
 
    When Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_u| |mana_b|.
+   |tap|: Add |mana_u|\ |mana_b|.
 
 
 Dismal Backwater
@@ -1706,7 +1706,7 @@ Golgari Rot Farm
 
    When Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_b| |mana_g|.
+   |tap|: Add |mana_b|\ |mana_g|.
 
 
 Grand Coliseum
@@ -1722,7 +1722,7 @@ Gruul Turf
 
    When Gruul Turf enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_r| |mana_g|.
+   |tap|: Add |mana_r|\ |mana_g|.
 
 
 Homeward Path
@@ -1736,7 +1736,7 @@ Izzet Boilerworks
 
    When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_u| |mana_r|.
+   |tap|: Add |mana_u|\ |mana_r|.
 
 
 Jungle Hollow
@@ -1820,7 +1820,7 @@ Orzhov Basilica
 
    When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_w| |mana_b|.
+   |tap|: Add |mana_w|\ |mana_b|.
 
 
 Rakdos Carnarium
@@ -1828,7 +1828,7 @@ Rakdos Carnarium
 
    When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_b| |mana_r|.
+   |tap|: Add |mana_b|\ |mana_r|.
 
 
 Reliquary Tower
@@ -1888,11 +1888,11 @@ Selesnya Sanctuary
 
    When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_g| |mana_w|.
+   |tap|: Add |mana_g|\ |mana_w|.
 
 
 Shadowblood Ridge
-   |mana_1|, |tap|: Add |mana_b| |mana_r|.
+   |mana_1|, |tap|: Add |mana_b|\ |mana_r|.
 
 
 Simic Growth Chamber
@@ -1900,7 +1900,7 @@ Simic Growth Chamber
 
    When Simic Growth Chamber enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_g| |mana_u|.
+   |tap|: Add |mana_g|\ |mana_u|.
 
 
 Spinerock Knoll
@@ -1912,7 +1912,7 @@ Spinerock Knoll
 
 
 Sungrass Prairie
-   |mana_1|, |tap|: Add |mana_g| |mana_w|.
+   |mana_1|, |tap|: Add |mana_g|\ |mana_w|.
 
 
 Sunpetal Grove
@@ -1930,7 +1930,7 @@ Swiftwater Cliffs
 
 
 Temple of the False God
-   |tap|: Add |colorless| |colorless|. Activate this ability only if you control five or more lands.
+   |tap|: Add |colorless|\ |colorless|. Activate this ability only if you control five or more lands.
 
 
 Terramorphic Expanse

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../KTK.rst:21
 #: ../../KTK.rst:111
-msgid "Outlast |mana_1| |mana_w| (|mana_1| |mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
+msgid "Outlast |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
 msgstr ""
 
 #: ../../KTK.rst:23
@@ -85,7 +85,7 @@ msgid "Defender"
 msgstr ""
 
 #: ../../KTK.rst:39
-msgid "|mana_1| |mana_w|, |tap|: Tap target creature."
+msgid "|mana_1|\\ |mana_w|, |tap|: Tap target creature."
 msgstr ""
 
 #: ../../KTK.rst:46
@@ -131,7 +131,7 @@ msgid "Firehoof Cavalry"
 msgstr ""
 
 #: ../../KTK.rst:61
-msgid "|mana_3| |mana_r|: Firehoof Cavalry gets +2/+0 and gains trample until end of turn."
+msgid "|mana_3|\\ |mana_r|: Firehoof Cavalry gets +2/+0 and gains trample until end of turn."
 msgstr ""
 
 #: ../../KTK.rst:68
@@ -139,7 +139,7 @@ msgid "Herald of Anafenza"
 msgstr ""
 
 #: ../../KTK.rst:65
-msgid "Outlast |mana_2| |mana_w| (|mana_2| |mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
+msgid "Outlast |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
 msgstr ""
 
 #: ../../KTK.rst:67
@@ -176,7 +176,7 @@ msgid "High Sentinels of Arashin gets +1/+1 for each other creature you control 
 msgstr ""
 
 #: ../../KTK.rst:75
-msgid "|mana_3| |mana_w|: Put a +1/+1 counter on target creature."
+msgid "|mana_3|\\ |mana_w|: Put a +1/+1 counter on target creature."
 msgstr ""
 
 #: ../../KTK.rst:80
@@ -225,7 +225,7 @@ msgid "Master of Pearls"
 msgstr ""
 
 #: ../../KTK.rst:95
-msgid "Morph |mana_3| |mana_w| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_3|\\ |mana_w|\\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:97
@@ -245,7 +245,7 @@ msgid "Sage-Eye Harrier"
 msgstr ""
 
 #: ../../KTK.rst:107
-msgid "Morph |mana_3| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_3|\\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:112
@@ -317,7 +317,7 @@ msgid "War Behemoth"
 msgstr ""
 
 #: ../../KTK.rst:147
-msgid "Morph |mana_4| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_4|\\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:156
@@ -423,7 +423,7 @@ msgid "Embodiment of Spring"
 msgstr ""
 
 #: ../../KTK.rst:203
-msgid "|mana_1| |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+msgid "|mana_1|\\ |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
 #: ../../KTK.rst:210
@@ -443,7 +443,7 @@ msgid "Glacial Stalker"
 msgstr ""
 
 #: ../../KTK.rst:213
-msgid "Morph |mana_4| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_4|\\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:220
@@ -475,7 +475,7 @@ msgid "Kheru Spellsnatcher"
 msgstr ""
 
 #: ../../KTK.rst:235
-msgid "Morph |mana_4| |mana_u| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_4|\\ |mana_u|\\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:237
@@ -488,7 +488,7 @@ msgstr ""
 
 #: ../../KTK.rst:243
 #: ../../KTK.rst:257
-msgid "Morph |mana_2| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_2|\\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:245
@@ -550,7 +550,7 @@ msgid "Scaldkin"
 msgstr ""
 
 #: ../../KTK.rst:283
-msgid "|mana_2| |mana_r|, Sacrifice Scaldkin: Scaldkin deals 2 damage to any target."
+msgid "|mana_2|\\ |mana_r|, Sacrifice Scaldkin: Scaldkin deals 2 damage to any target."
 msgstr ""
 
 #: ../../KTK.rst:288
@@ -610,7 +610,7 @@ msgid "Thousand Winds"
 msgstr ""
 
 #: ../../KTK.rst:319
-msgid "Morph |mana_5| |mana_u| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:321
@@ -679,7 +679,7 @@ msgid "Bloodsoaked Champion can't block."
 msgstr ""
 
 #: ../../KTK.rst:359
-msgid "Raid — |mana_1| |mana_b|: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate this ability only if you attacked with a creature this turn."
+msgid "Raid — |mana_1|\\ |mana_b|: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate this ability only if you attacked with a creature this turn."
 msgstr ""
 
 #: ../../KTK.rst:366
@@ -711,7 +711,7 @@ msgid "Disowned Ancestor"
 msgstr ""
 
 #: ../../KTK.rst:379
-msgid "Outlast |mana_1| |mana_b| (|mana_1| |mana_b|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
+msgid "Outlast |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
 msgstr ""
 
 #: ../../KTK.rst:384
@@ -759,7 +759,7 @@ msgid "Whenever a creature you control with toughness 4 or greater dies, each op
 msgstr ""
 
 #: ../../KTK.rst:405
-msgid "|mana_2| |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Kheru Bloodsucker."
+msgid "|mana_2|\\ |mana_b|, Sacrifice another creature: Put a +1/+1 counter on Kheru Bloodsucker."
 msgstr ""
 
 #: ../../KTK.rst:412
@@ -767,7 +767,7 @@ msgid "Kheru Dreadmaw"
 msgstr ""
 
 #: ../../KTK.rst:411
-msgid "|mana_1| |mana_g|, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness."
+msgid "|mana_1|\\ |mana_g|, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness."
 msgstr ""
 
 #: ../../KTK.rst:416
@@ -775,7 +775,7 @@ msgid "Krumar Bond-Kin"
 msgstr ""
 
 #: ../../KTK.rst:415
-msgid "Morph |mana_4| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_4|\\ |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:422
@@ -807,7 +807,7 @@ msgid "Molting Snakeskin"
 msgstr ""
 
 #: ../../KTK.rst:433
-msgid "Enchanted creature gets +2/+0 and has \"|mana_2| |mana_b|: Regenerate this creature.\""
+msgid "Enchanted creature gets +2/+0 and has \"|mana_2|\\ |mana_b|: Regenerate this creature.\""
 msgstr ""
 
 #: ../../KTK.rst:440
@@ -901,7 +901,7 @@ msgid "Lifelink (Damage dealt by this creature also causes you to gain that much
 msgstr ""
 
 #: ../../KTK.rst:489
-msgid "Morph |mana_1| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_1|\\ |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:496
@@ -933,7 +933,7 @@ msgid "Unyielding Krumar"
 msgstr ""
 
 #: ../../KTK.rst:511
-msgid "|mana_1| |mana_w|: Unyielding Krumar gains first strike until end of turn."
+msgid "|mana_1|\\ |mana_w|: Unyielding Krumar gains first strike until end of turn."
 msgstr ""
 
 #: ../../KTK.rst:516
@@ -954,7 +954,7 @@ msgid "First strike"
 msgstr ""
 
 #: ../../KTK.rst:521
-msgid "Morph |mana_4| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_4|\\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:526
@@ -986,7 +986,7 @@ msgid "When Ashcloud Phoenix dies, return it to the battlefield face down under 
 msgstr ""
 
 #: ../../KTK.rst:539
-msgid "Morph |mana_4| |mana_r| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_4|\\ |mana_r|\\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:541
@@ -1014,7 +1014,7 @@ msgid "Bloodfire Mentor"
 msgstr ""
 
 #: ../../KTK.rst:555
-msgid "|mana_2| |mana_u|, |tap|: Draw a card, then discard a card."
+msgid "|mana_2|\\ |mana_u|, |tap|: Draw a card, then discard a card."
 msgstr ""
 
 #: ../../KTK.rst:560
@@ -1038,7 +1038,7 @@ msgid "Canyon Lurkers"
 msgstr ""
 
 #: ../../KTK.rst:567
-msgid "Morph |mana_3| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_3|\\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:574
@@ -1122,7 +1122,7 @@ msgid "Jeering Instigator"
 msgstr ""
 
 #: ../../KTK.rst:613
-msgid "Morph |mana_2| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_2|\\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:615
@@ -1134,7 +1134,7 @@ msgid "Leaping Master"
 msgstr ""
 
 #: ../../KTK.rst:619
-msgid "|mana_2| |mana_w|: Leaping Master gains flying until end of turn."
+msgid "|mana_2|\\ |mana_w|: Leaping Master gains flying until end of turn."
 msgstr ""
 
 #: ../../KTK.rst:624
@@ -1158,7 +1158,7 @@ msgid "Mardu Warshrieker"
 msgstr ""
 
 #: ../../KTK.rst:631
-msgid "Raid — When Mardu Warshrieker enters the battlefield, if you attacked with a creature this turn, add |mana_r| |mana_w| |mana_b|."
+msgid "Raid — When Mardu Warshrieker enters the battlefield, if you attacked with a creature this turn, add |mana_r|\\ |mana_w|\\ |mana_b|."
 msgstr ""
 
 #: ../../KTK.rst:638
@@ -1253,7 +1253,7 @@ msgid "Archers' Parapet"
 msgstr ""
 
 #: ../../KTK.rst:689
-msgid "|mana_1| |mana_b|, |tap|: Each opponent loses 1 life."
+msgid "|mana_1|\\ |mana_b|, |tap|: Each opponent loses 1 life."
 msgstr ""
 
 #: ../../KTK.rst:694
@@ -1329,7 +1329,7 @@ msgid "When Hooded Hydra dies, create a 1/1 green Snake creature token for each 
 msgstr ""
 
 #: ../../KTK.rst:731
-msgid "Morph |mana_3| |mana_g| |mana_g|"
+msgid "Morph |mana_3|\\ |mana_g|\\ |mana_g|"
 msgstr ""
 
 #: ../../KTK.rst:733
@@ -1371,7 +1371,7 @@ msgid "Longshot Squad"
 msgstr ""
 
 #: ../../KTK.rst:753
-msgid "Outlast |mana_1| |mana_g| (|mana_1| |mana_g|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
+msgid "Outlast |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, |tap|: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
 msgstr ""
 
 #: ../../KTK.rst:755
@@ -1405,7 +1405,7 @@ msgstr ""
 
 #: ../../KTK.rst:769
 #: ../../KTK.rst:791
-msgid "Morph |mana_4| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_4|\\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:771
@@ -1427,7 +1427,7 @@ msgid "Morph |mana_2| (You may cast this card face down as a 2/2 creature for |m
 msgstr ""
 
 #: ../../KTK.rst:779
-msgid "When Rattleclaw Mystic is turned face up, add |mana_g| |mana_u| |mana_r|."
+msgid "When Rattleclaw Mystic is turned face up, add |mana_g|\\ |mana_u|\\ |mana_r|."
 msgstr ""
 
 #: ../../KTK.rst:786
@@ -1495,7 +1495,7 @@ msgid "Smoke Teller"
 msgstr ""
 
 #: ../../KTK.rst:815
-msgid "|mana_1| |mana_u|: Look at target face-down creature."
+msgid "|mana_1|\\ |mana_u|: Look at target face-down creature."
 msgstr ""
 
 #: ../../KTK.rst:820
@@ -1559,7 +1559,7 @@ msgid "Woolly Loxodon"
 msgstr ""
 
 #: ../../KTK.rst:849
-msgid "Morph |mana_5| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_5|\\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:858
@@ -1571,7 +1571,7 @@ msgid "Whenever Abomination of Gudul deals combat damage to a player, you may dr
 msgstr ""
 
 #: ../../KTK.rst:857
-msgid "Morph |mana_2| |mana_b| |mana_g| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_2|\\ |mana_b|\\ |mana_g|\\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:864
@@ -1615,7 +1615,7 @@ msgid "Abzan Guide"
 msgstr ""
 
 #: ../../KTK.rst:879
-msgid "Morph |mana_2| |mana_w| |mana_b| |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_2|\\ |mana_w|\\ |mana_b|\\ |mana_g| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:886
@@ -1727,7 +1727,7 @@ msgid "When Efreet Weaponmaster enters the battlefield or is turned face up, ano
 msgstr ""
 
 #: ../../KTK.rst:941
-msgid "Morph |mana_2| |mana_u| |mana_r| |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_2|\\ |mana_u|\\ |mana_r|\\ |mana_w| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:946
@@ -1751,7 +1751,7 @@ msgid "Icefeather Aven"
 msgstr ""
 
 #: ../../KTK.rst:955
-msgid "Morph |mana_1| |mana_g| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_1|\\ |mana_g|\\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:957
@@ -1799,7 +1799,7 @@ msgid "Kheru Lich Lord"
 msgstr ""
 
 #: ../../KTK.rst:981
-msgid "At the beginning of your upkeep, you may pay |mana_2| |mana_b|. If you do, return a creature card at random from your graveyard to the battlefield. It gains flying, trample, and haste. Exile that card at the beginning of your next end step. If it would leave the battlefield, exile it instead of putting it anywhere else."
+msgid "At the beginning of your upkeep, you may pay |mana_2|\\ |mana_b|. If you do, return a creature card at random from your graveyard to the battlefield. It gains flying, trample, and haste. Exile that card at the beginning of your next end step. If it would leave the battlefield, exile it instead of putting it anywhere else."
 msgstr ""
 
 #: ../../KTK.rst:986
@@ -1891,7 +1891,7 @@ msgid "When Ponyback Brigade enters the battlefield or is turned face up, create
 msgstr ""
 
 #: ../../KTK.rst:1029
-msgid "Morph |mana_2| |mana_r| |mana_w| |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_2|\\ |mana_r|\\ |mana_w|\\ |mana_b| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:1036
@@ -1899,11 +1899,11 @@ msgid "Rakshasa Deathdealer"
 msgstr ""
 
 #: ../../KTK.rst:1033
-msgid "|mana_b| |mana_g|: Rakshasa Deathdealer gets +2/+2 until end of turn."
+msgid "|mana_b|\\ |mana_g|: Rakshasa Deathdealer gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../KTK.rst:1035
-msgid "|mana_b| |mana_g|: Regenerate Rakshasa Deathdealer."
+msgid "|mana_b|\\ |mana_g|: Regenerate Rakshasa Deathdealer."
 msgstr ""
 
 #: ../../KTK.rst:1040
@@ -1939,7 +1939,7 @@ msgid "Trample, hexproof"
 msgstr ""
 
 #: ../../KTK.rst:1055
-msgid "Morph |mana_3| |mana_g| |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_3|\\ |mana_g|\\ |mana_u| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:1064
@@ -1947,11 +1947,11 @@ msgid "Savage Knuckleblade"
 msgstr ""
 
 #: ../../KTK.rst:1059
-msgid "|mana_2| |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. Activate this ability only once each turn."
+msgid "|mana_2|\\ |mana_g|: Savage Knuckleblade gets +2/+2 until end of turn. Activate this ability only once each turn."
 msgstr ""
 
 #: ../../KTK.rst:1061
-msgid "|mana_2| |mana_u|: Return Savage Knuckleblade to its owner's hand."
+msgid "|mana_2|\\ |mana_u|: Return Savage Knuckleblade to its owner's hand."
 msgstr ""
 
 #: ../../KTK.rst:1063
@@ -1995,7 +1995,7 @@ msgid "Snowhorn Rider"
 msgstr ""
 
 #: ../../KTK.rst:1087
-msgid "Morph |mana_2| |mana_g| |mana_u| |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
+msgid "Morph |mana_2|\\ |mana_g|\\ |mana_u|\\ |mana_r| (You may cast this card face down as a 2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
 
 #: ../../KTK.rst:1096
@@ -2156,7 +2156,7 @@ msgid "|tap|: Add |mana_w|, |mana_b|, or |mana_g|."
 msgstr ""
 
 #: ../../KTK.rst:1179
-msgid "|mana_w| |mana_b| |mana_g|, |tap|, Sacrifice Abzan Banner: Draw a card."
+msgid "|mana_w|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice Abzan Banner: Draw a card."
 msgstr ""
 
 #: ../../KTK.rst:1184
@@ -2234,7 +2234,7 @@ msgid "|tap|: Add |mana_u|, |mana_r|, or |mana_w|."
 msgstr ""
 
 #: ../../KTK.rst:1219
-msgid "|mana_u| |mana_r| |mana_w|, |tap|, Sacrifice Jeskai Banner: Draw a card."
+msgid "|mana_u|\\ |mana_r|\\ |mana_w|, |tap|, Sacrifice Jeskai Banner: Draw a card."
 msgstr ""
 
 #: ../../KTK.rst:1224
@@ -2255,7 +2255,7 @@ msgid "|tap|: Add |mana_r|, |mana_w|, or |mana_b|."
 msgstr ""
 
 #: ../../KTK.rst:1229
-msgid "|mana_r| |mana_w| |mana_b|, |tap|, Sacrifice Mardu Banner: Draw a card."
+msgid "|mana_r|\\ |mana_w|\\ |mana_b|, |tap|, Sacrifice Mardu Banner: Draw a card."
 msgstr ""
 
 #: ../../KTK.rst:1236
@@ -2268,7 +2268,7 @@ msgid "|tap|: Add |mana_b|, |mana_g|, or |mana_u|."
 msgstr ""
 
 #: ../../KTK.rst:1235
-msgid "|mana_b| |mana_g| |mana_u|, |tap|, Sacrifice Sultai Banner: Draw a card."
+msgid "|mana_b|\\ |mana_g|\\ |mana_u|, |tap|, Sacrifice Sultai Banner: Draw a card."
 msgstr ""
 
 #: ../../KTK.rst:1242
@@ -2276,7 +2276,7 @@ msgid "Temur Banner"
 msgstr ""
 
 #: ../../KTK.rst:1241
-msgid "|mana_g| |mana_u| |mana_r|, |tap|, Sacrifice Temur Banner: Draw a card."
+msgid "|mana_g|\\ |mana_u|\\ |mana_r|, |tap|, Sacrifice Temur Banner: Draw a card."
 msgstr ""
 
 #: ../../KTK.rst:1248

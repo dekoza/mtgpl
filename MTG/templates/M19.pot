@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 01:41+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -380,7 +380,7 @@ msgid "At the beginning of each end step, if you gained 5 or more life this turn
 msgstr ""
 
 #: ../../M19.rst:179
-msgid "|mana_3| |mana_w| |mana_w| |mana_w|: Until end of turn, Resplendent Angel gets +2/+2 and gains lifelink."
+msgid "|mana_3|\\ |mana_w|\\ |mana_w|\\ |mana_w|: Until end of turn, Resplendent Angel gets +2/+2 and gains lifelink."
 msgstr ""
 
 #: ../../M19.rst:186
@@ -464,7 +464,7 @@ msgid "Other Knights you control get +1/+1."
 msgstr ""
 
 #: ../../M19.rst:221
-msgid "|mana_3| |mana_w| |mana_w|: Knights you control gain double strike until end of turn."
+msgid "|mana_3|\\ |mana_w|\\ |mana_w|: Knights you control gain double strike until end of turn."
 msgstr ""
 
 #: ../../M19.rst:228
@@ -529,7 +529,7 @@ msgid "Departed Deckhand can't be blocked except by Spirits."
 msgstr ""
 
 #: ../../M19.rst:259
-msgid "|mana_3| |mana_u|: Another target creature you control can't be blocked this turn except by Spirits."
+msgid "|mana_3|\\ |mana_u|: Another target creature you control can't be blocked this turn except by Spirits."
 msgstr ""
 
 #: ../../M19.rst:264
@@ -558,7 +558,7 @@ msgid "Djinn of Wishes enters the battlefield with three wish counters on it."
 msgstr ""
 
 #: ../../M19.rst:275
-msgid "|mana_2| |mana_u| |mana_u|, Remove a wish counter from Djinn of Wishes: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it."
+msgid "|mana_2|\\ |mana_u|\\ |mana_u|, Remove a wish counter from Djinn of Wishes: Reveal the top card of your library. You may play that card without paying its mana cost. If you don't, exile it."
 msgstr ""
 
 #: ../../M19.rst:284
@@ -590,7 +590,7 @@ msgid "Frilled Sea Serpent"
 msgstr ""
 
 #: ../../M19.rst:295
-msgid "|mana_5| |mana_u| |mana_u|: Frilled Sea Serpent can't be blocked this turn."
+msgid "|mana_5|\\ |mana_u|\\ |mana_u|: Frilled Sea Serpent can't be blocked this turn."
 msgstr ""
 
 #: ../../M19.rst:300
@@ -650,7 +650,7 @@ msgid "Mystic Archaeologist"
 msgstr ""
 
 #: ../../M19.rst:329
-msgid "|mana_3| |mana_u| |mana_u|: Draw two cards."
+msgid "|mana_3|\\ |mana_u|\\ |mana_u|: Draw two cards."
 msgstr ""
 
 #: ../../M19.rst:334
@@ -702,7 +702,7 @@ msgid "Whenever you cast an artifact spell, create a 1/1 colorless Thopter artif
 msgstr ""
 
 #: ../../M19.rst:355
-msgid "|mana_1| |mana_u|, Sacrifice two artifacts: Draw a card."
+msgid "|mana_1|\\ |mana_u|, Sacrifice two artifacts: Draw a card."
 msgstr ""
 
 #: ../../M19.rst:360
@@ -770,7 +770,7 @@ msgid "Whenever Surge Mare deals damage to an opponent, you may draw a card. If 
 msgstr ""
 
 #: ../../M19.rst:393
-msgid "|mana_1| |mana_u|: Surge Mare gets +2/-2 until end of turn."
+msgid "|mana_1|\\ |mana_u|: Surge Mare gets +2/-2 until end of turn."
 msgstr ""
 
 #: ../../M19.rst:398
@@ -860,7 +860,7 @@ msgid "Bone Dragon"
 msgstr ""
 
 #: ../../M19.rst:449
-msgid "|mana_3| |mana_b| |mana_b|, Exile seven other cards from your graveyard: Return Bone Dragon from your graveyard to the battlefield tapped."
+msgid "|mana_3|\\ |mana_b|\\ |mana_b|, Exile seven other cards from your graveyard: Return Bone Dragon from your graveyard to the battlefield tapped."
 msgstr ""
 
 #: ../../M19.rst:454
@@ -948,7 +948,7 @@ msgid "Graveyard Marshal"
 msgstr ""
 
 #: ../../M19.rst:499
-msgid "|mana_2| |mana_b|, Exile a creature card from your graveyard: Create a tapped 2/2 black Zombie creature token."
+msgid "|mana_2|\\ |mana_b|, Exile a creature card from your graveyard: Create a tapped 2/2 black Zombie creature token."
 msgstr ""
 
 #: ../../M19.rst:504
@@ -1112,7 +1112,7 @@ msgid "Reassembling Skeleton"
 msgstr ""
 
 #: ../../M19.rst:585
-msgid "|mana_1| |mana_b|: Return Reassembling Skeleton from your graveyard to the battlefield tapped."
+msgid "|mana_1|\\ |mana_b|: Return Reassembling Skeleton from your graveyard to the battlefield tapped."
 msgstr ""
 
 #: ../../M19.rst:590
@@ -1246,7 +1246,7 @@ msgid "Catalyst Elemental"
 msgstr ""
 
 #: ../../M19.rst:659
-msgid "Sacrifice Catalyst Elemental: Add |mana_r| |mana_r|."
+msgid "Sacrifice Catalyst Elemental: Add |mana_r|\\ |mana_r|."
 msgstr ""
 
 #: ../../M19.rst:666
@@ -1282,7 +1282,7 @@ msgid "|mana_r|, |tap|, Discard a card: Draw a card."
 msgstr ""
 
 #: ../../M19.rst:681
-msgid "|mana_2| |mana_r|, |tap|, Sacrifice Dismissive Pyromancer: It deals 4 damage to target creature."
+msgid "|mana_2|\\ |mana_r|, |tap|, Sacrifice Dismissive Pyromancer: It deals 4 damage to target creature."
 msgstr ""
 
 #: ../../M19.rst:686
@@ -1396,7 +1396,7 @@ msgid "Whenever another nontoken Dragon enters the battlefield under your contro
 msgstr ""
 
 #: ../../M19.rst:743
-msgid "|mana_1| |mana_r|: Dragons you control get +1/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|: Dragons you control get +1/+0 until end of turn."
 msgstr ""
 
 #: ../../M19.rst:748
@@ -1421,7 +1421,7 @@ msgid "Lightning Mare can't be blocked by blue creatures."
 msgstr ""
 
 #: ../../M19.rst:755
-msgid "|mana_1| |mana_r|: Lightning Mare gets +1/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|: Lightning Mare gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../M19.rst:760
@@ -1477,7 +1477,7 @@ msgid "Siegebreaker Giant"
 msgstr ""
 
 #: ../../M19.rst:787
-msgid "|mana_3| |mana_r|: Target creature can't block this turn."
+msgid "|mana_3|\\ |mana_r|: Target creature can't block this turn."
 msgstr ""
 
 #: ../../M19.rst:792
@@ -1493,7 +1493,7 @@ msgid "Sparktongue Dragon"
 msgstr ""
 
 #: ../../M19.rst:797
-msgid "When Sparktongue Dragon enters the battlefield, you may pay |mana_2| |mana_r|. When you do, it deals 3 damage to any target."
+msgid "When Sparktongue Dragon enters the battlefield, you may pay |mana_2|\\ |mana_r|. When you do, it deals 3 damage to any target."
 msgstr ""
 
 #: ../../M19.rst:804
@@ -1651,7 +1651,7 @@ msgid "Other Elves you control get +1/+1."
 msgstr ""
 
 #: ../../M19.rst:889
-msgid "|mana_4| |mana_g| |mana_g|, |tap|: Search your library for a card named Elvish Clancaller, put it onto the battlefield, then shuffle your library."
+msgid "|mana_4|\\ |mana_g|\\ |mana_g|, |tap|: Search your library for a card named Elvish Clancaller, put it onto the battlefield, then shuffle your library."
 msgstr ""
 
 #: ../../M19.rst:894
@@ -1675,7 +1675,7 @@ msgid "Ghirapur Guide"
 msgstr ""
 
 #: ../../M19.rst:903
-msgid "|mana_2| |mana_g|: Target creature you control can't be blocked by creatures with power 2 or less this turn."
+msgid "|mana_2|\\ |mana_g|: Target creature you control can't be blocked by creatures with power 2 or less this turn."
 msgstr ""
 
 #: ../../M19.rst:908
@@ -1862,7 +1862,7 @@ msgid "Enchanted creature gets +1/+1 and has trample. (It can deal excess combat
 msgstr ""
 
 #: ../../M19.rst:1005
-msgid "|mana_2| |mana_g|: Return Talons of Wildwood from your graveyard to your hand."
+msgid "|mana_2|\\ |mana_g|: Return Talons of Wildwood from your graveyard to your hand."
 msgstr ""
 
 #: ../../M19.rst:1012
@@ -1874,7 +1874,7 @@ msgid "Whenever Thorn Lieutenant becomes the target of a spell or ability an opp
 msgstr ""
 
 #: ../../M19.rst:1011
-msgid "|mana_5| |mana_g|: Thorn Lieutenant gets +4/+4 until end of turn."
+msgid "|mana_5|\\ |mana_g|: Thorn Lieutenant gets +4/+4 until end of turn."
 msgstr ""
 
 #: ../../M19.rst:1014
@@ -2017,7 +2017,7 @@ msgid "When Nicol Bolas, the Ravager enters the battlefield, each opponent disca
 msgstr ""
 
 #: ../../M19.rst:1099
-msgid "|mana_4| |mana_u| |mana_b| |mana_r|: Exile Nicol Bolas, the Ravager, then return him to the battlefield transformed under his owner's control. Activate this ability only any time you could cast a sorcery."
+msgid "|mana_4|\\ |mana_u|\\ |mana_b|\\ |mana_r|: Exile Nicol Bolas, the Ravager, then return him to the battlefield transformed under his owner's control. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 
 #: ../../M19.rst:1110
@@ -2089,7 +2089,7 @@ msgid "Skyrider Patrol"
 msgstr ""
 
 #: ../../M19.rst:1145
-msgid "At the beginning of combat on your turn, you may pay |mana_g| |mana_u|. When you do, put a +1/+1 counter on another target creature you control, and that creature gains flying until end of turn."
+msgid "At the beginning of combat on your turn, you may pay |mana_g|\\ |mana_u|. When you do, put a +1/+1 counter on another target creature you control, and that creature gains flying until end of turn."
 msgstr ""
 
 #: ../../M19.rst:1152
@@ -2593,7 +2593,7 @@ msgid "When Tezzeret's Gatebreaker enters the battlefield, look at the top five 
 msgstr ""
 
 #: ../../M19.rst:1485
-msgid "|mana_5| |mana_u|, |tap|, Sacrifice Tezzeret's Gatebreaker: Creatures you control can't be blocked this turn."
+msgid "|mana_5|\\ |mana_u|, |tap|, Sacrifice Tezzeret's Gatebreaker: Creatures you control can't be blocked this turn."
 msgstr ""
 
 #: ../../M19.rst:1490
@@ -2633,7 +2633,7 @@ msgid "Gravewaker"
 msgstr ""
 
 #: ../../M19.rst:1507
-msgid "|mana_5| |mana_b| |mana_b|: Return target creature card from your graveyard to the battlefield tapped."
+msgid "|mana_5|\\ |mana_b|\\ |mana_b|: Return target creature card from your graveyard to the battlefield tapped."
 msgstr ""
 
 #: ../../M19.rst:1514
@@ -2745,7 +2745,7 @@ msgid "Ursine Champion"
 msgstr ""
 
 #: ../../M19.rst:1569
-msgid "|mana_5| |mana_g|: Ursine Champion gets +3/+3 and becomes a Bear Berserker until end of turn. Activate this ability only once each turn."
+msgid "|mana_5|\\ |mana_g|: Ursine Champion gets +3/+3 and becomes a Bear Berserker until end of turn. Activate this ability only once each turn."
 msgstr ""
 
 #: ../../M19.rst:1576
@@ -2753,7 +2753,7 @@ msgid "Vivien's Jaguar"
 msgstr ""
 
 #: ../../M19.rst:1575
-msgid "|mana_2| |mana_g|: Return Vivien's Jaguar from your graveyard to your hand. Activate this ability only if you control a Vivien planeswalker."
+msgid "|mana_2|\\ |mana_g|: Return Vivien's Jaguar from your graveyard to your hand. Activate this ability only if you control a Vivien planeswalker."
 msgstr ""
 
 #: ../../M19.rst:1582
