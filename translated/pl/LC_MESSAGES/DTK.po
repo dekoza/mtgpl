@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2018-12-31 10:37+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dtk/pl/>\n"
 "Language: pl\n"
@@ -1061,11 +1061,15 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:503
+#, fuzzy
 msgid ""
 "Dash |mana_3|\\ |mana_b| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
+"Brawura |mana_3|\\ |mana_b| (Możesz rzucić ten czar za koszt brawury. Jeśli "
+"tak zrobisz, dostaje on Pośpiech i jest zwracany z pola walki do ręki "
+"właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../DTK.rst:508
 msgid "Blood-Chin Fanatic"
@@ -1272,11 +1276,15 @@ msgid "Kolaghan Skirmisher"
 msgstr ""
 
 #: ../../DTK.rst:593
+#, fuzzy
 msgid ""
 "Dash |mana_2|\\ |mana_b| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
+"Brawura |mana_2|\\ |mana_b| (Możesz rzucić ten czar za koszt brawury. Jeśli "
+"tak zrobisz, dostaje on Pośpiech i jest zwracany z pola walki do ręki "
+"właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../DTK.rst:600
 msgid "Marang River Skeleton"
@@ -1367,11 +1375,15 @@ msgid "Reckless Imp can't block."
 msgstr ""
 
 #: ../../DTK.rst:639
+#, fuzzy
 msgid ""
 "Dash |mana_1|\\ |mana_b| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
+"Brawura |mana_1|\\ |mana_b| (Możesz rzucić ten czar za koszt brawury. Jeśli "
+"tak zrobisz, dostaje on Pośpiech i jest zwracany z pola walki do ręki "
+"właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../DTK.rst:648
 msgid "Risen Executioner"
@@ -1712,11 +1724,15 @@ msgid ""
 msgstr ""
 
 #: ../../DTK.rst:793 ../../DTK.rst:917
+#, fuzzy
 msgid ""
 "Dash |mana_2|\\ |mana_r| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
+"Brawura |mana_2|\\ |mana_r| (Możesz rzucić ten czar za koszt brawury. Jeśli "
+"tak zrobisz, dostaje on Pośpiech i jest zwracany z pola walki do ręki "
+"właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../DTK.rst:802
 msgid "Kolaghan Stormsinger"
@@ -1830,11 +1846,15 @@ msgid "Screamreach Brawler"
 msgstr ""
 
 #: ../../DTK.rst:847 ../../DTK.rst:923
+#, fuzzy
 msgid ""
 "Dash |mana_1|\\ |mana_r| (You may cast this spell for its dash cost. If you "
 "do, it gains haste, and it's returned from the battlefield to its owner's "
 "hand at the beginning of the next end step.)"
 msgstr ""
+"Brawura |mana_1|\\ |mana_r| (Możesz rzucić ten czar za koszt brawury. Jeśli "
+"tak zrobisz, dostaje on Pośpiech i jest zwracany z pola walki do ręki "
+"właściciela na początku najbliższego kroku końcowego.)"
 
 #: ../../DTK.rst:852
 msgid "Seismic Rupture"
@@ -2689,8 +2709,11 @@ msgid "Kolaghan's Command"
 msgstr ""
 
 #: ../../DTK.rst:1239
+#, fuzzy
 msgid "Return target creature card from your graveyard to your hand."
-msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+msgstr ""
+"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../DTK.rst:1241
 msgid "Target player discards a card."
