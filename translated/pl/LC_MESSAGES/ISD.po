@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2018-12-31 10:37+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/isd/pl/>\n"
@@ -188,12 +188,15 @@ msgstr ""
 msgid "Each player chooses a creature they control. Destroy the rest."
 msgstr ""
 
-# 0e04a11e65cc45639f3d0d69c40df146
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:59
+#, fuzzy
 msgid ""
-"Flashback |mana_5| |mana_w| |mana_w| (You may cast this card from your "
+"Flashback |mana_5|\\ |mana_w|\\ |mana_w| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # e56c492fa54746ada20650bdac3908a5
 #: ../../ISD.rst:64
@@ -243,13 +246,15 @@ msgstr ""
 msgid "Tap up to two target creatures."
 msgstr ""
 
-# 6187a835ecec4aacb0e5cf70fe9ea72f
-# f1466c1bad754e5abd300075c52a2b1e
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:79 ../../ISD.rst:291
+#, fuzzy
 msgid ""
-"Flashback |mana_1| |mana_u| (You may cast this card from your graveyard for "
-"its flashback cost. Then exile it.)"
+"Flashback |mana_1|\\ |mana_u| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # a4dbd500be6b4399b3c76ce058799f5b
 #: ../../ISD.rst:86
@@ -410,7 +415,8 @@ msgstr ""
 #: ../../ISD.rst:139
 #, fuzzy
 msgid "As Nevermore enters the battlefield, choose a nonland card name."
-msgstr "Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
+msgstr ""
+"Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
 
 #: ../../ISD.rst:141
 msgid "Spells with the chosen name can't be cast."
@@ -455,12 +461,15 @@ msgstr ""
 msgid "Creatures you control get +2/+0 until end of turn."
 msgstr ""
 
-# 811551ff78664ad28a1b9c9e1b3eedf9
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:157
+#, fuzzy
 msgid ""
-"Flashback |mana_2| |mana_r| (You may cast this card from your graveyard for "
-"its flashback cost. Then exile it.)"
+"Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 30a60f5c13794faeb5eb0af2d4adc1b6
 #: ../../ISD.rst:162
@@ -477,10 +486,9 @@ msgstr ""
 msgid "Selfless Cathar"
 msgstr ""
 
-# 6df0628db7214f8ab81cc4b94653f885
 #: ../../ISD.rst:165
 msgid ""
-"|mana_1| |mana_w|, Sacrifice Selfless Cathar: Creatures you control get +1/"
+"|mana_1|\\ |mana_w|, Sacrifice Selfless Cathar: Creatures you control get +1/"
 "+1 until end of turn."
 msgstr ""
 
@@ -489,9 +497,9 @@ msgstr ""
 msgid "Silverchase Fox"
 msgstr ""
 
-# ae47db45ab9841b2bd7b351607296df7
 #: ../../ISD.rst:169
-msgid "|mana_1| |mana_w|, Sacrifice Silverchase Fox: Exile target enchantment."
+msgid ""
+"|mana_1|\\ |mana_w|, Sacrifice Silverchase Fox: Exile target enchantment."
 msgstr ""
 
 # e4f1c32e09104b00964f6fc760436ef4
@@ -682,12 +690,15 @@ msgid "Create a token that's a copy of target creature you control."
 msgstr ""
 "Stwórz żeton stwora będącego kopią wskazanego stwora pod twoim władaniem."
 
-# 5539a0460d2d4c83bf82291c54a1418a
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:241
+#, fuzzy
 msgid ""
-"Flashback |mana_5| |mana_u| |mana_u| (You may cast this card from your "
+"Flashback |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 32d30cd3a235465a80cd09949e025551
 #: ../../ISD.rst:246
@@ -721,7 +732,8 @@ msgstr "Claustrophobia (Klaustrofobia)"
 # 17e9b2aa69f24df2a809f3883ce36609
 #: ../../ISD.rst:255
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr "Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
+msgstr ""
+"Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
 
 # c68bb78ced1649828c33d67784cb0ca0
 #: ../../ISD.rst:257
@@ -823,13 +835,15 @@ msgid ""
 "and the rest into your graveyard."
 msgstr ""
 
-# 4fd8b08441a34f079dfe885fb395eae3
-# 0ba82e0e680547c3b49b6549c6ceb1c5
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:297 ../../ISD.rst:1149
+#, fuzzy
 msgid ""
-"Flashback |mana_6| |mana_b| (You may cast this card from your graveyard for "
-"its flashback cost. Then exile it.)"
+"Flashback |mana_6|\\ |mana_b| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 26431b64ee0d4f01b9bc82d8369c4d83
 #: ../../ISD.rst:300
@@ -858,12 +872,15 @@ msgstr ""
 msgid "Put target creature on top of its owner's library."
 msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
 
-# 833704580af74ba0880f6b462f06d12b
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:311
+#, fuzzy
 msgid ""
-"Flashback |mana_7| |mana_u| (You may cast this card from your graveyard for "
-"its flashback cost. Then exile it.)"
+"Flashback |mana_7|\\ |mana_u| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 1d22e2034ba74d28a51003b7207a45bb
 #: ../../ISD.rst:316
@@ -943,10 +960,9 @@ msgstr ""
 msgid "Defender"
 msgstr "Obronność"
 
-# c7fb8a6c81694861a19b2dc8978c1aa2
 #: ../../ISD.rst:341
 msgid ""
-"|mana_1| |mana_u|: Put a hatchling counter on Ludevic's Test Subject. Then "
+"|mana_1|\\ |mana_u|: Put a hatchling counter on Ludevic's Test Subject. Then "
 "if there are five or more hatchling counters on it, remove all of them and "
 "transform it."
 msgstr ""
@@ -1008,7 +1024,7 @@ msgstr ""
 
 #: ../../ISD.rst:367
 msgid ""
-"|mana_1| |mana_u|: Mirror-Mad Phantasm's owner shuffles it into their "
+"|mana_1|\\ |mana_u|: Mirror-Mad Phantasm's owner shuffles it into their "
 "library. If that player does, they reveal cards from the top of that library "
 "until a card named Mirror-Mad Phantasm is revealed. The player puts that "
 "card onto the battlefield and all other cards revealed this way into their "
@@ -1085,12 +1101,15 @@ msgstr ""
 msgid "Return target creature to its owner's hand."
 msgstr "Zwróć wskazanego stwora do ręki jego władcy."
 
-# 647726d773ac479da6e3d0f38dea946c
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:401
+#, fuzzy
 msgid ""
-"Flashback |mana_4| |mana_u| (You may cast this card from your graveyard for "
-"its flashback cost. Then exile it.)"
+"Flashback |mana_4|\\ |mana_u| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 0bb3765e5c47461b920d959f3f7ba765
 #: ../../ISD.rst:408
@@ -1168,8 +1187,8 @@ msgstr ""
 
 #: ../../ISD.rst:437
 msgid ""
-"|mana_1| |mana_u|, |tap|: Create a 2/2 blue Homunculus creature token, then "
-"sacrifice a creature."
+"|mana_1|\\ |mana_u|, |tap|: Create a 2/2 blue Homunculus creature token, "
+"then sacrifice a creature."
 msgstr ""
 
 # f5e592217098479a823f485ab7d349f2
@@ -1199,13 +1218,15 @@ msgstr ""
 msgid "Draw a card."
 msgstr "Dobierz kartę."
 
-# 952d8d50a909445589d948433a474d81
-# 64e567e170394f1fab28672ae844e493
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:451 ../../ISD.rst:767
+#, fuzzy
 msgid ""
-"Flashback |mana_2| |mana_u| (You may cast this card from your graveyard for "
-"its flashback cost. Then exile it.)"
+"Flashback |mana_2|\\ |mana_u| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 58f3aa764ff746f9b7eb9d78bb84fdb1
 #: ../../ISD.rst:458
@@ -1269,14 +1290,15 @@ msgstr ""
 #, fuzzy
 msgid "Create thirteen tapped 2/2 black Zombie creature tokens."
 msgstr ""
-"Umieść na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi 2/"
-"2."
+"Umieść na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi "
+"2/2."
 
 # 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:475
+#, fuzzy
 msgid ""
-"Flashback |mana_7| |mana_b| |mana_b| |mana_b| (You may cast this card from "
-"your graveyard for its flashback cost. Then exile it.)"
+"Flashback |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (You may cast this card "
+"from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
 "Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
 "twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
@@ -1320,8 +1342,8 @@ msgstr ""
 #, fuzzy
 msgid "|tap|: Create a 2/2 black Vampire creature token with flying."
 msgstr ""
-"Umieść na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi 2/"
-"2."
+"Umieść na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi "
+"2/2."
 
 # dd5991cf83974c56a2a7833faac00bb5
 #: ../../ISD.rst:495
@@ -1362,12 +1384,15 @@ msgstr ""
 msgid "Target opponent loses 3 life."
 msgstr "Wskazany przeciwnik traci 3 życia."
 
-# 3822745e670348ec9d55f468305d4f42
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:515
+#, fuzzy
 msgid ""
-"Flashback |mana_5| |mana_r| (You may cast this card from your graveyard for "
-"its flashback cost. Then exile it.)"
+"Flashback |mana_5|\\ |mana_r| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 5321aae451b24b6eb1e73c6b02c0097d
 #: ../../ISD.rst:522
@@ -1545,9 +1570,8 @@ msgstr ""
 msgid "Haste"
 msgstr "Pośpiech"
 
-# 1e0a56ec03b2487e9ba522d334cfc259
 #: ../../ISD.rst:595
-msgid "|mana_1| |mana_b|: Regenerate Manor Skeleton."
+msgid "|mana_1|\\ |mana_b|: Regenerate Manor Skeleton."
 msgstr ""
 
 # a6ef1b0ff459455789ba2d9fd061a75c
@@ -1584,16 +1608,18 @@ msgstr ""
 #, fuzzy
 msgid "Create two 2/2 black Zombie creature tokens."
 msgstr ""
-"Umieść na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi 2/"
-"2."
+"Umieść na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi "
+"2/2."
 
-# 429ef147d5b34a348e2fc3b44c28c4d7
-# 5e8954c088e245b9b1588ce5f325afd8
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:609 ../../ISD.rst:643
+#, fuzzy
 msgid ""
-"Flashback |mana_5| |mana_b| |mana_b| (You may cast this card from your "
+"Flashback |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 59dacfe028d04aff8b1465fe3bbcda36
 #: ../../ISD.rst:614
@@ -1640,11 +1666,10 @@ msgstr ""
 msgid "Screeching Bat"
 msgstr ""
 
-# 809c5b2ede57488483df7d149ab79523
 #: ../../ISD.rst:633
 msgid ""
-"At the beginning of your upkeep, you may pay |mana_2| |mana_b| |mana_b|. If "
-"you do, transform Screeching Bat."
+"At the beginning of your upkeep, you may pay |mana_2|\\ |mana_b|\\ |mana_b|. "
+"If you do, transform Screeching Bat."
 msgstr ""
 
 # cc39a80416924bf084705716e953df02
@@ -1652,11 +1677,10 @@ msgstr ""
 msgid "Stalking Vampire"
 msgstr ""
 
-# 47cac8e156e648988cc1e6602285ec8d
 #: ../../ISD.rst:637
 msgid ""
-"At the beginning of your upkeep, you may pay |mana_2| |mana_b| |mana_b|. If "
-"you do, transform Stalking Vampire."
+"At the beginning of your upkeep, you may pay |mana_2|\\ |mana_b|\\ |mana_b|. "
+"If you do, transform Stalking Vampire."
 msgstr ""
 
 # 998a049aeb4d460bbae3710cedecb643
@@ -1761,12 +1785,15 @@ msgstr ""
 msgid "Return target creature card from your graveyard to the battlefield."
 msgstr ""
 
-# f7756fbfe0964634a35a7150d2b6b9db
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:677
+#, fuzzy
 msgid ""
-"Flashback |mana_3| |mana_w| (You may cast this card from your graveyard for "
-"its flashback cost. Then exile it.)"
+"Flashback |mana_3|\\ |mana_w| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 5a51a947a17c4f30b4fbf294707579e1
 #: ../../ISD.rst:684
@@ -1980,12 +2007,15 @@ msgstr ""
 msgid "Devil's Play deals X damage to any target."
 msgstr ""
 
-# ea58a91f4df34ce788115dd737ba0152
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:773
+#, fuzzy
 msgid ""
-"Flashback |mana_x| |mana_r| |mana_r| |mana_r| (You may cast this card from "
-"your graveyard for its flashback cost. Then exile it.)"
+"Flashback |mana_x|\\ |mana_r|\\ |mana_r|\\ |mana_r| (You may cast this card "
+"from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # b151b4dc8b064aa1836bd30b766324da
 #: ../../ISD.rst:780
@@ -2009,9 +2039,8 @@ msgstr ""
 msgid "Feral Ridgewolf"
 msgstr ""
 
-# 6429334cbd1c496fadb52bde49c1cc86
 #: ../../ISD.rst:785
-msgid "|mana_1| |mana_r|: Feral Ridgewolf gets +2/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|: Feral Ridgewolf gets +2/+0 until end of turn."
 msgstr ""
 
 # 1876b27782f04c7bb36bef008d19f2d1
@@ -2034,13 +2063,15 @@ msgstr ""
 msgid "Geistflame deals 1 damage to any target."
 msgstr ""
 
-# 01634bb378cb4f1491ed108167619abd
-# 7d64b5f730e34037afe5c42b726aad99
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:797 ../../ISD.rst:871
+#, fuzzy
 msgid ""
-"Flashback |mana_3| |mana_r| (You may cast this card from your graveyard for "
-"its flashback cost. Then exile it.)"
+"Flashback |mana_3|\\ |mana_r| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 05aec0edbbb24f8aa4732330f670a1e9
 #: ../../ISD.rst:804
@@ -2092,7 +2123,7 @@ msgstr ""
 
 #: ../../ISD.rst:819
 msgid ""
-"|mana_3| |mana_r|: Choose any target, then put the top three cards of your "
+"|mana_3|\\ |mana_r|: Choose any target, then put the top three cards of your "
 "library into your graveyard. Heretic's Punishment deals damage to that "
 "permanent or player equal to the highest converted mana cost among those "
 "cards."
@@ -2103,9 +2134,11 @@ msgstr ""
 msgid "Infernal Plunge"
 msgstr ""
 
+# 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:825
-msgid "Add |mana_r| |mana_r| |mana_r|."
-msgstr ""
+#, fuzzy
+msgid "Add |mana_r|\\ |mana_r|\\ |mana_r|."
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 # 2c2cdf31f9754670b46abff28dcb84a0
 #: ../../ISD.rst:832
@@ -2157,9 +2190,8 @@ msgstr ""
 msgid "Kessig Wolf"
 msgstr ""
 
-# e14332eb62b64a5dae6d99fc592ec6b3
 #: ../../ISD.rst:847
-msgid "|mana_1| |mana_r|: Kessig Wolf gains first strike until end of turn."
+msgid "|mana_1|\\ |mana_r|: Kessig Wolf gains first strike until end of turn."
 msgstr ""
 
 # 538ed9ab3fcf46abbb7cb51d4b964f30
@@ -2229,12 +2261,15 @@ msgid ""
 "turn. The flashback cost is equal to its mana cost."
 msgstr ""
 
-# 48459f1b71bd4b3789a0de501ba74e42
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:877
+#, fuzzy
 msgid ""
-"Flashback |mana_4| |mana_r| (You may cast this card from your graveyard for "
-"its flashback cost. Then exile it.)"
+"Flashback |mana_4|\\ |mana_r| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 75378fde9db346d19fab25311a5d3c50
 #: ../../ISD.rst:882
@@ -2307,12 +2342,15 @@ msgstr ""
 msgid "Rolling Temblor deals 2 damage to each creature without flying."
 msgstr ""
 
-# bcd9fae2b75a4ec2b492aa2172cf693a
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:907
+#, fuzzy
 msgid ""
-"Flashback |mana_4| |mana_r| |mana_r| (You may cast this card from your "
+"Flashback |mana_4|\\ |mana_r|\\ |mana_r| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # f2182e3dad994f34973055a0981cbadf
 #: ../../ISD.rst:912
@@ -2493,22 +2531,24 @@ msgid ""
 "graveyard to your hand."
 msgstr ""
 
-# 86d647eef9e14adf872a90b79b7f75c5
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:979
+#, fuzzy
 msgid ""
-"Flashback |mana_5| |mana_g| |mana_g| (You may cast this card from your "
+"Flashback |mana_5|\\ |mana_g|\\ |mana_g| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 7c6c159ba88a4061ab07fc04fa7b8e5c
 #: ../../ISD.rst:984
 msgid "Darkthicket Wolf"
 msgstr ""
 
-# 5eb1a3d8ff0c4162b78785058a9ee63e
 #: ../../ISD.rst:983
 msgid ""
-"|mana_2| |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. Activate "
+"|mana_2|\\ |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. Activate "
 "this ability only once each turn."
 msgstr ""
 
@@ -2553,11 +2593,10 @@ msgstr ""
 msgid "Elder of Laurels"
 msgstr ""
 
-# f6d3888b3fb44014b1a152e63601adf8
 #: ../../ISD.rst:999
 msgid ""
-"|mana_3| |mana_g|: Target creature gets +X/+X until end of turn, where X is "
-"the number of creatures you control."
+"|mana_3|\\ |mana_g|: Target creature gets +X/+X until end of turn, where X "
+"is the number of creatures you control."
 msgstr ""
 
 # 7a0eece9ab9a4c3f88c2d21feb4c9352
@@ -2677,12 +2716,15 @@ msgstr ""
 msgid "You gain 2 life for each creature card in your graveyard."
 msgstr ""
 
-# 6a75b416a66a421585e86af752100408
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:1047
+#, fuzzy
 msgid ""
-"Flashback |mana_2| |mana_g| (You may cast this card from your graveyard for "
-"its flashback cost. Then exile it.)"
+"Flashback |mana_2|\\ |mana_g| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 1135c30df3904188ab1a8b9c9f82e8d2
 #: ../../ISD.rst:1052
@@ -2994,12 +3036,15 @@ msgstr ""
 msgid "Put a +1/+1 counter on each of up to two target creatures."
 msgstr "Umieść znacznik +/1+ na każdym z co najwyżej dwóch wskazanych stworów."
 
-# a1669e4726274b42bf4185bbb3b78122
+# 3f9f36e248ab4511a82399dd2f173ae4
 #: ../../ISD.rst:1167
+#, fuzzy
 msgid ""
-"Flashback |mana_1| |mana_w| (You may cast this card from your graveyard for "
-"its flashback cost. Then exile it.)"
+"Flashback |mana_1|\\ |mana_w| (You may cast this card from your graveyard "
+"for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b| (Możesz zagrać tę kartę z "
+"twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 9b3ec821ec4b44d8b6bcd17ecc690402
 #: ../../ISD.rst:1174
@@ -3096,7 +3141,7 @@ msgstr ""
 #: ../../ISD.rst:1205
 msgid ""
 "You may have Evil Twin enter the battlefield as a copy of any creature on "
-"the battlefield, except it has \"|mana_u| |mana_b|, |tap|: Destroy target "
+"the battlefield, except it has \"|mana_u|\\ |mana_b|, |tap|: Destroy target "
 "creature with the same name as this creature.\""
 msgstr ""
 
@@ -3142,19 +3187,17 @@ msgstr ""
 msgid "Olivia Voldaren"
 msgstr ""
 
-# 549f4be0bf8244f28d420bdca38337e0
 #: ../../ISD.rst:1225
 msgid ""
-"|mana_1| |mana_r|: Olivia Voldaren deals 1 damage to another target "
+"|mana_1|\\ |mana_r|: Olivia Voldaren deals 1 damage to another target "
 "creature. That creature becomes a Vampire in addition to its other types. "
 "Put a +1/+1 counter on Olivia Voldaren."
 msgstr ""
 
-# 1bc73ea0fc4e42e8b7b5fc653fc5755f
 #: ../../ISD.rst:1227
 msgid ""
-"|mana_3| |mana_b| |mana_b|: Gain control of target Vampire for as long as "
-"you control Olivia Voldaren."
+"|mana_3|\\ |mana_b|\\ |mana_b|: Gain control of target Vampire for as long "
+"as you control Olivia Voldaren."
 msgstr ""
 
 # 2f8cd2e1a48545ee9d30f7a541e137c7
@@ -3536,11 +3579,10 @@ msgstr ""
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Dostajesz |colorless|."
 
-# 5db7b5adb1944f4d8d1d98b977917af0
 #: ../../ISD.rst:1377
 msgid ""
-"|mana_2| |mana_g| |mana_w|, |tap|: Put a +1/+1 counter on each creature you "
-"control."
+"|mana_2|\\ |mana_g|\\ |mana_w|, |tap|: Put a +1/+1 counter on each creature "
+"you control."
 msgstr ""
 
 # 0a32eda9faf04427ba7a941292a8faa8
@@ -3599,10 +3641,9 @@ msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 msgid "Kessig Wolf Run"
 msgstr ""
 
-# bab9149a334a428c939f5ad995adff1d
 #: ../../ISD.rst:1401
 msgid ""
-"|mana_x| |mana_r| |mana_g|, |tap|: Target creature gets +X/+0 and gains "
+"|mana_x|\\ |mana_r|\\ |mana_g|, |tap|: Target creature gets +X/+0 and gains "
 "trample until end of turn."
 msgstr ""
 
@@ -3613,8 +3654,8 @@ msgstr ""
 
 #: ../../ISD.rst:1407
 msgid ""
-"|mana_w| |mana_u|, |tap|, Exile a creature card from your graveyard: Create "
-"a 1/1 white Spirit creature token with flying."
+"|mana_w|\\ |mana_u|, |tap|, Exile a creature card from your graveyard: "
+"Create a 1/1 white Spirit creature token with flying."
 msgstr ""
 
 # 6d1c5cd5a14c44a8a5809f3faf6b0f94
@@ -3624,8 +3665,8 @@ msgstr ""
 
 #: ../../ISD.rst:1413
 msgid ""
-"|mana_1| |mana_u| |mana_b|, |tap|: Target player puts the top three cards of "
-"their library into their graveyard."
+"|mana_1|\\ |mana_u|\\ |mana_b|, |tap|: Target player puts the top three "
+"cards of their library into their graveyard."
 msgstr ""
 
 # 898b5c4a3cda4e0f8175a403f69dcd5e
@@ -3644,7 +3685,7 @@ msgstr ""
 
 #: ../../ISD.rst:1425
 msgid ""
-"|mana_3| |mana_b| |mana_r|, |tap|: Stensia Bloodhall deals 2 damage to "
+"|mana_3|\\ |mana_b|\\ |mana_r|, |tap|: Stensia Bloodhall deals 2 damage to "
 "target player or planeswalker."
 msgstr ""
 
