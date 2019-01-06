@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2018-12-31 10:37+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dka/pl/>\n"
 "Language: pl\n"
@@ -508,10 +508,13 @@ msgid ""
 msgstr ""
 
 #: ../../DKA.rst:181
+#, fuzzy
 msgid ""
 "Flashback |mana_7|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 49e776c8e2704fb19d31201a5e4bcb00
 #: ../../DKA.rst:186
@@ -658,10 +661,13 @@ msgid "Return target instant or sorcery card from your graveyard to your hand."
 msgstr ""
 
 #: ../../DKA.rst:233 ../../DKA.rst:499
+#, fuzzy
 msgid ""
 "Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 9d21fdd7dc3448cc863dd13458527aa0
 #: ../../DKA.rst:240
@@ -1069,10 +1075,13 @@ msgid "Create a 2/2 black Zombie creature token."
 msgstr ""
 
 #: ../../DKA.rst:417
+#, fuzzy
 msgid ""
 "Flashback |mana_4|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # d8012e801521419da645a2b19898c9cd
 #: ../../DKA.rst:424
@@ -1231,10 +1240,13 @@ msgid "Burning Oil deals 3 damage to target attacking or blocking creature."
 msgstr ""
 
 #: ../../DKA.rst:481
+#, fuzzy
 msgid ""
 "Flashback |mana_3|\\ |mana_w| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # dea39e0921364441aef6a693978689ba
 #: ../../DKA.rst:488
@@ -1511,10 +1523,13 @@ msgid "Discard all the cards in your hand, then draw that many cards."
 msgstr ""
 
 #: ../../DKA.rst:599
+#, fuzzy
 msgid ""
 "Flashback |mana_5|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 17ddd25c63ce44c4bf9153f320baf3f1
 #: ../../DKA.rst:608
@@ -1718,10 +1733,13 @@ msgid ""
 msgstr ""
 
 #: ../../DKA.rst:683
+#, fuzzy
 msgid ""
 "Flashback |mana_5|\\ |mana_g|\\ |mana_g| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # ba0405240210477787d97263a1de1102
 #: ../../DKA.rst:690
@@ -1870,10 +1888,13 @@ msgid ""
 msgstr ""
 
 #: ../../DKA.rst:741
+#, fuzzy
 msgid ""
 "Flashback |mana_2|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 134feea4f43347fab943f1cde42fb735
 #: ../../DKA.rst:746
@@ -1920,10 +1941,13 @@ msgid "Target creature gets +3/+1 and gains trample until end of turn."
 msgstr ""
 
 #: ../../DKA.rst:763
+#, fuzzy
 msgid ""
 "Flashback |mana_3|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # ea11654b7e834e4191ad2d41cece5479
 #: ../../DKA.rst:770
@@ -2375,9 +2399,12 @@ msgid "Grim Backwoods"
 msgstr ""
 
 #: ../../DKA.rst:939
+#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice a creature: Draw a card."
 msgstr ""
+"Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 # e591918e9f124085b6fd9226a8babef2
 #: ../../DKA.rst:946
