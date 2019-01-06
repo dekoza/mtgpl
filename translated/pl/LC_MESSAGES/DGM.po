@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 14:29+0000\n"
+"PO-Revision-Date: 2019-01-06 22:07+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -2508,7 +2508,7 @@ msgstr "Azorius Guildgate (Brama Gildii Azorius)"
 # 9ba7e3ddf5144effb9cf7effc5812f3d
 #: ../../DGM.rst:859
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr "Brama Gildii Azorius wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki jako zaznaczona."
 
 # a8f3f68c9e894e0297cc00a1f653663a
 #: ../../DGM.rst:868
@@ -2553,7 +2553,7 @@ msgstr "Gruul Guildgate"
 # 8a46b996b9dd4172993b88a2c9475053
 #: ../../DGM.rst:883
 msgid "Gruul Guildgate enters the battlefield tapped."
-msgstr "Gruul Guildgate wchodzi na pole walki zatapowany."
+msgstr "Ta karta wchodzi na pole walki zaznaczona."
 
 # 74ed62d376a7476c9387d9e276c08eb7
 #: ../../DGM.rst:892
@@ -2594,22 +2594,22 @@ msgstr ""
 # 839178e5529a45c9b9e60c921d5b870b
 #: ../../DGM.rst:906
 msgid "Orzhov Guildgate"
-msgstr ""
+msgstr "Orzhov Guildgate (Brama Gildii Orzhov)"
 
 # 7a0e381ff1414d4ba23f8e20f228e939
 #: ../../DGM.rst:903
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr "Orzhov Guildgate wchodzi na pole walki zatapowany."
+msgstr "Ta karta wchodzi na pole walki zaznaczona."
 
 # 75ad288e7ac34746a144780ca63f4288
 #: ../../DGM.rst:912
 msgid "Rakdos Guildgate"
-msgstr ""
+msgstr "Rakdos Guildgate (Brama Gildii Rakdos)"
 
 # e872c2cf89fd4507a523725390a30cfb
 #: ../../DGM.rst:909
 msgid "Rakdos Guildgate enters the battlefield tapped."
-msgstr "Rakdos Guildgate wchodzi na pole walki zatapowany."
+msgstr "Ta karta wchodzi na pole walki zaznaczona."
 
 # 60107d78f80f44968c0a386c158de17c
 #: ../../DGM.rst:918
@@ -2629,7 +2629,7 @@ msgstr "Simic Guildgate (Brama Gildii Simic)"
 # 3223f92aa08c48df8b634855e6ba86cc
 #: ../../DGM.rst:921
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr "Simic Guildgate wchodzi na pole walki zatapowany."
+msgstr "Ta karta wchodzi na pole walki zaznaczona."
 
 # e38df00c0e304137943a4921019d7437
 #~ msgid "Alive // Well (Alive)"
