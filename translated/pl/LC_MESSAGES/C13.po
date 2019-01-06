@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 14:29+0000\n"
+"PO-Revision-Date: 2019-01-06 16:01+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -1655,7 +1655,7 @@ msgstr ""
 
 #: ../../C13.rst:597 ../../C13.rst:1241
 msgid "Choose one or both —"
-msgstr ""
+msgstr "Wybierz jedno lub oba —"
 
 # 4fa0d2e113bd4a0d964fbae60dd83e0a
 # 023da9fef8aa43758ae3eeeac897db37
@@ -2493,7 +2493,7 @@ msgstr ""
 #: ../../C13.rst:1081 ../../C13.rst:1091 ../../C13.rst:1109 ../../C13.rst:1145
 #: ../../C13.rst:1211
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../C13.rst:883
 msgid "Create a 5/5 green Beast creature token."
@@ -2571,9 +2571,8 @@ msgstr "Wybierz jedno lub więcej —"
 # 4fa0d2e113bd4a0d964fbae60dd83e0a
 # 023da9fef8aa43758ae3eeeac897db37
 #: ../../C13.rst:917 ../../C13.rst:1095
-#, fuzzy
 msgid "Destroy target enchantment."
-msgstr "Zniszcz wskazany artefakt lub urok."
+msgstr "Zniszcz wskazany urok."
 
 # 4fa0d2e113bd4a0d964fbae60dd83e0a
 # 023da9fef8aa43758ae3eeeac897db37
