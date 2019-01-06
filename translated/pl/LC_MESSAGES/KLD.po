@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 16:01+0000\n"
+"PO-Revision-Date: 2019-01-06 20:52+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
@@ -278,7 +278,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:114
-#, fuzzy
 msgid "Inspired Charge"
 msgstr "Inspired Charge"
 
@@ -966,7 +965,6 @@ msgid "Return target artifact card from your graveyard to your hand."
 msgstr ""
 
 #: ../../KLD.rst:441
-#, fuzzy
 msgid "Return target creature card from your graveyard to your hand."
 msgstr ""
 "|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
@@ -1107,7 +1105,6 @@ msgid "Whenever you discard a card, you lose 1 life."
 msgstr ""
 
 #: ../../KLD.rst:506
-#, fuzzy
 msgid "Mind Rot"
 msgstr "Mind Rot"
 
@@ -1389,7 +1386,6 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:634
-#, fuzzy
 msgid "Hijack"
 msgstr "Hijack"
 
@@ -1812,12 +1808,10 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:826
-#, fuzzy
 msgid "Ghirapur Guide"
 msgstr "Ghirapur Guide"
 
 #: ../../KLD.rst:825
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_g|: Target creature you control can't be blocked by "
 "creatures with power 2 or less this turn."
@@ -1834,7 +1828,6 @@ msgid "Reach (This creature can block creatures with flying.)"
 msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../KLD.rst:836
-#, fuzzy
 msgid "Hunt the Weak"
 msgstr "Hunt the Weak"
 
