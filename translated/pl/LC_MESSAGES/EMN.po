@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2018-12-31 16:27+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/emn/pl/>\n"
@@ -32,8 +32,9 @@ msgstr "Abundant Maw"
 
 #: ../../EMN.rst:9
 msgid ""
-"Emerge |mana_6| |mana_b| (You may cast this spell by sacrificing a creature "
-"and paying the emerge cost reduced by that creature's converted mana cost.)"
+"Emerge |mana_6|\\ |mana_b| (You may cast this spell by sacrificing a "
+"creature and paying the emerge cost reduced by that creature's converted "
+"mana cost.)"
 msgstr ""
 
 #: ../../EMN.rst:11
@@ -47,7 +48,7 @@ msgstr ""
 
 #: ../../EMN.rst:15
 msgid ""
-"Emerge |mana_6| |mana_g| |mana_g| |mana_g| (You may cast this spell by "
+"Emerge |mana_6|\\ |mana_g|\\ |mana_g|\\ |mana_g| (You may cast this spell by "
 "sacrificing a creature and paying the emerge cost reduced by that creature's "
 "converted mana cost.)"
 msgstr ""
@@ -68,9 +69,9 @@ msgstr ""
 
 #: ../../EMN.rst:23
 msgid ""
-"Emerge |mana_5| |mana_b| |mana_b| (You may cast this spell by sacrificing a "
-"creature and paying the emerge cost reduced by that creature's converted "
-"mana cost.)"
+"Emerge |mana_5|\\ |mana_b|\\ |mana_b| (You may cast this spell by "
+"sacrificing a creature and paying the emerge cost reduced by that creature's "
+"converted mana cost.)"
 msgstr ""
 
 #: ../../EMN.rst:25
@@ -91,8 +92,9 @@ msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 #: ../../EMN.rst:31
 msgid ""
-"Emerge |mana_7| |mana_u| (You may cast this spell by sacrificing a creature "
-"and paying the emerge cost reduced by that creature's converted mana cost.)"
+"Emerge |mana_7|\\ |mana_u| (You may cast this spell by sacrificing a "
+"creature and paying the emerge cost reduced by that creature's converted "
+"mana cost.)"
 msgstr ""
 
 #: ../../EMN.rst:33
@@ -111,9 +113,9 @@ msgstr "Błysk"
 
 #: ../../EMN.rst:39
 msgid ""
-"Emerge |mana_5| |mana_u| |mana_u| (You may cast this spell by sacrificing a "
-"creature and paying the emerge cost reduced by that creature's converted "
-"mana cost.)"
+"Emerge |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this spell by "
+"sacrificing a creature and paying the emerge cost reduced by that creature's "
+"converted mana cost.)"
 msgstr ""
 
 #: ../../EMN.rst:41
@@ -160,8 +162,9 @@ msgstr ""
 
 #: ../../EMN.rst:59
 msgid ""
-"Emerge |mana_6| |mana_g| (You may cast this spell by sacrificing a creature "
-"and paying the emerge cost reduced by that creature's converted mana cost.)"
+"Emerge |mana_6|\\ |mana_g| (You may cast this spell by sacrificing a "
+"creature and paying the emerge cost reduced by that creature's converted "
+"mana cost.)"
 msgstr ""
 
 #: ../../EMN.rst:61
@@ -174,9 +177,9 @@ msgstr ""
 
 #: ../../EMN.rst:65
 msgid ""
-"Emerge |mana_5| |mana_g| |mana_u| (You may cast this spell by sacrificing a "
-"creature and paying the emerge cost reduced by that creature's converted "
-"mana cost.)"
+"Emerge |mana_5|\\ |mana_g|\\ |mana_u| (You may cast this spell by "
+"sacrificing a creature and paying the emerge cost reduced by that creature's "
+"converted mana cost.)"
 msgstr ""
 
 #: ../../EMN.rst:67
@@ -191,8 +194,9 @@ msgstr ""
 
 #: ../../EMN.rst:71
 msgid ""
-"Emerge |mana_7| |mana_g| (You may cast this spell by sacrificing a creature "
-"and paying the emerge cost reduced by that creature's converted mana cost.)"
+"Emerge |mana_7|\\ |mana_g| (You may cast this spell by sacrificing a "
+"creature and paying the emerge cost reduced by that creature's converted "
+"mana cost.)"
 msgstr ""
 
 #: ../../EMN.rst:73
@@ -206,8 +210,9 @@ msgstr ""
 
 #: ../../EMN.rst:77
 msgid ""
-"Emerge |mana_6| |mana_u| (You may cast this spell by sacrificing a creature "
-"and paying the emerge cost reduced by that creature's converted mana cost.)"
+"Emerge |mana_6|\\ |mana_u| (You may cast this spell by sacrificing a "
+"creature and paying the emerge cost reduced by that creature's converted "
+"mana cost.)"
 msgstr ""
 
 #: ../../EMN.rst:79
@@ -222,8 +227,9 @@ msgstr ""
 
 #: ../../EMN.rst:83
 msgid ""
-"Emerge |mana_5| |mana_u| (You may cast this spell by sacrificing a creature "
-"and paying the emerge cost reduced by that creature's converted mana cost.)"
+"Emerge |mana_5|\\ |mana_u| (You may cast this spell by sacrificing a "
+"creature and paying the emerge cost reduced by that creature's converted "
+"mana cost.)"
 msgstr ""
 
 #: ../../EMN.rst:85
@@ -270,7 +276,7 @@ msgstr ""
 
 #: ../../EMN.rst:103
 msgid ""
-"Escalate |mana_1| |mana_w| (Pay this cost for each mode chosen beyond the "
+"Escalate |mana_1|\\ |mana_w| (Pay this cost for each mode chosen beyond the "
 "first.)"
 msgstr ""
 
@@ -331,8 +337,8 @@ msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../EMN.rst:131
 msgid ""
-"|mana_3| |mana_w| |mana_w|, Sacrifice Choking Restraints: Exile enchanted "
-"creature."
+"|mana_3|\\ |mana_w|\\ |mana_w|, Sacrifice Choking Restraints: Exile "
+"enchanted creature."
 msgstr ""
 
 #: ../../EMN.rst:144
@@ -628,7 +634,7 @@ msgstr ""
 
 #: ../../EMN.rst:263
 msgid ""
-"|mana_2| |mana_w|, Exile a creature card from your graveyard: Create a 1/1 "
+"|mana_2|\\ |mana_w|, Exile a creature card from your graveyard: Create a 1/1 "
 "white Spirit creature token with flying."
 msgstr ""
 
@@ -722,7 +728,7 @@ msgstr ""
 
 #: ../../EMN.rst:309
 msgid ""
-"|mana_1| |mana_w|, |tap|, Discard a card: Create a 1/1 white Human Soldier "
+"|mana_1|\\ |mana_w|, |tap|, Discard a card: Create a 1/1 white Human Soldier "
 "creature token."
 msgstr ""
 
@@ -732,7 +738,7 @@ msgstr ""
 
 #: ../../EMN.rst:315
 msgid ""
-"|mana_2| |mana_u|, Discard two cards: Return Advanced Stitchwing from your "
+"|mana_2|\\ |mana_u|, Discard two cards: Return Advanced Stitchwing from your "
 "graveyard to the battlefield tapped."
 msgstr ""
 
@@ -750,8 +756,9 @@ msgstr ""
 
 #: ../../EMN.rst:321
 msgid ""
-"Madness |mana_3| |mana_u| (If you discard this card, discard it into exile. "
-"When you do, cast it for its madness cost or put it into your graveyard.)"
+"Madness |mana_3|\\ |mana_u| (If you discard this card, discard it into "
+"exile. When you do, cast it for its madness cost or put it into your "
+"graveyard.)"
 msgstr ""
 
 #: ../../EMN.rst:326
@@ -1191,8 +1198,8 @@ msgstr ""
 
 #: ../../EMN.rst:537
 msgid ""
-"|mana_1| |mana_b|, |tap|, Discard a card: Create a 2/2 black Zombie creature "
-"token."
+"|mana_1|\\ |mana_b|, |tap|, Discard a card: Create a 2/2 black Zombie "
+"creature token."
 msgstr ""
 
 #: ../../EMN.rst:539
@@ -1237,7 +1244,7 @@ msgstr ""
 
 #: ../../EMN.rst:559
 msgid ""
-"|mana_3| |mana_b|, Exile a creature card from your graveyard: Create a 2/2 "
+"|mana_3|\\ |mana_b|, Exile a creature card from your graveyard: Create a 2/2 "
 "black Zombie creature token."
 msgstr ""
 
@@ -1285,7 +1292,7 @@ msgstr ""
 
 #: ../../EMN.rst:577
 msgid ""
-"|mana_1| |mana_b|, Discard two cards: Return Haunted Dead from your "
+"|mana_1|\\ |mana_b|, Discard two cards: Return Haunted Dead from your "
 "graveyard to the battlefield tapped."
 msgstr ""
 
@@ -1505,7 +1512,7 @@ msgstr ""
 
 #: ../../EMN.rst:679
 msgid ""
-"Madness |mana_b| |mana_b| |mana_b| (If you discard this card, discard it "
+"Madness |mana_b|\\ |mana_b|\\ |mana_b| (If you discard this card, discard it "
 "into exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
@@ -1536,8 +1543,9 @@ msgstr ""
 
 #: ../../EMN.rst:693
 msgid ""
-"Madness |mana_2| |mana_b| (If you discard this card, discard it into exile. "
-"When you do, cast it for its madness cost or put it into your graveyard.)"
+"Madness |mana_2|\\ |mana_b| (If you discard this card, discard it into "
+"exile. When you do, cast it for its madness cost or put it into your "
+"graveyard.)"
 msgstr ""
 
 #: ../../EMN.rst:700
@@ -1566,8 +1574,9 @@ msgstr ""
 
 #: ../../EMN.rst:705 ../../EMN.rst:711 ../../EMN.rst:899
 msgid ""
-"Madness |mana_1| |mana_r| (If you discard this card, discard it into exile. "
-"When you do, cast it for its madness cost or put it into your graveyard.)"
+"Madness |mana_1|\\ |mana_r| (If you discard this card, discard it into "
+"exile. When you do, cast it for its madness cost or put it into your "
+"graveyard.)"
 msgstr ""
 
 #: ../../EMN.rst:712
@@ -1620,8 +1629,9 @@ msgid "Bold Impaler"
 msgstr ""
 
 #: ../../EMN.rst:731
-msgid "|mana_2| |mana_r|: Bold Impaler gets +2/+0 until end of turn."
-msgstr ""
+#, fuzzy
+msgid "|mana_2|\\ |mana_r|: Bold Impaler gets +2/+0 until end of turn."
+msgstr "Wskazany stwór dostaje +1/+1 do końca tury."
 
 #: ../../EMN.rst:742
 msgid "Borrowed Hostility"
@@ -1682,7 +1692,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:763
-msgid "|mana_3| |mana_r| |mana_r|: Transform Conduit of Storms."
+msgid "|mana_3|\\ |mana_r|\\ |mana_r|: Transform Conduit of Storms."
 msgstr ""
 
 #: ../../EMN.rst:768
@@ -1691,7 +1701,7 @@ msgstr ""
 
 #: ../../EMN.rst:767
 msgid ""
-"Whenever Conduit of Emrakul attacks, add |colorless| |colorless| at the "
+"Whenever Conduit of Emrakul attacks, add |colorless|\\ |colorless| at the "
 "beginning of your next main phase this turn."
 msgstr ""
 
@@ -1808,8 +1818,9 @@ msgstr ""
 
 #: ../../EMN.rst:825
 msgid ""
-"Madness |mana_3| |mana_r| (If you discard this card, discard it into exile. "
-"When you do, cast it for its madness cost or put it into your graveyard.)"
+"Madness |mana_3|\\ |mana_r| (If you discard this card, discard it into "
+"exile. When you do, cast it for its madness cost or put it into your "
+"graveyard.)"
 msgstr ""
 
 #: ../../EMN.rst:830
@@ -1905,7 +1916,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:873
-msgid "|mana_4| |mana_r| |mana_r|: Transform Smoldering Werewolf."
+msgid "|mana_4|\\ |mana_r|\\ |mana_r|: Transform Smoldering Werewolf."
 msgstr ""
 
 #: ../../EMN.rst:878
@@ -1977,7 +1988,7 @@ msgid "|mana_r|: Vildin-Pack Outcast gets +1/-1 until end of turn."
 msgstr ""
 
 #: ../../EMN.rst:915
-msgid "|mana_5| |mana_r| |mana_r|: Transform Vildin-Pack Outcast."
+msgid "|mana_5|\\ |mana_r|\\ |mana_r|: Transform Vildin-Pack Outcast."
 msgstr ""
 
 #: ../../EMN.rst:922
@@ -2043,10 +2054,10 @@ msgstr ""
 
 #: ../../EMN.rst:945
 msgid ""
-"Delirium — |mana_2| |mana_g|, Sacrifice Crop Sigil: Return up to one target "
-"creature card and up to one target land card from your graveyard to your "
-"hand. Activate this ability only if there are four or more card types among "
-"cards in your graveyard."
+"Delirium — |mana_2|\\ |mana_g|, Sacrifice Crop Sigil: Return up to one "
+"target creature card and up to one target land card from your graveyard to "
+"your hand. Activate this ability only if there are four or more card types "
+"among cards in your graveyard."
 msgstr ""
 
 #: ../../EMN.rst:950
@@ -2158,7 +2169,8 @@ msgstr ""
 
 #: ../../EMN.rst:991
 msgid ""
-"|mana_6| |mana_b|: Target opponent loses 1 life for each Spider you control."
+"|mana_6|\\ |mana_b|: Target opponent loses 1 life for each Spider you "
+"control."
 msgstr ""
 
 #: ../../EMN.rst:996
@@ -2166,7 +2178,7 @@ msgid "Kessig Prowler"
 msgstr ""
 
 #: ../../EMN.rst:995
-msgid "|mana_4| |mana_g|: Transform Kessig Prowler."
+msgid "|mana_4|\\ |mana_g|: Transform Kessig Prowler."
 msgstr ""
 
 #: ../../EMN.rst:1000
@@ -2226,7 +2238,7 @@ msgid "Creatures with power less than Shrill Howler's power can't block it."
 msgstr ""
 
 #: ../../EMN.rst:1023
-msgid "|mana_5| |mana_g|: Transform Shrill Howler."
+msgid "|mana_5|\\ |mana_g|: Transform Shrill Howler."
 msgstr ""
 
 #: ../../EMN.rst:1030
@@ -2296,7 +2308,7 @@ msgid "Tangleclaw Werewolf can block an additional creature each combat."
 msgstr ""
 
 #: ../../EMN.rst:1059
-msgid "|mana_6| |mana_g|: Transform Tangleclaw Werewolf."
+msgid "|mana_6|\\ |mana_g|: Transform Tangleclaw Werewolf."
 msgstr ""
 
 #: ../../EMN.rst:1068
@@ -2324,7 +2336,7 @@ msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../EMN.rst:1075
-msgid "|mana_5| |mana_g| |mana_g|: Transform Ulvenwald Captive."
+msgid "|mana_5|\\ |mana_g|\\ |mana_g|: Transform Ulvenwald Captive."
 msgstr ""
 
 #: ../../EMN.rst:1080
@@ -2332,8 +2344,9 @@ msgid "Ulvenwald Abomination"
 msgstr ""
 
 #: ../../EMN.rst:1079
-msgid "|tap|: Add |colorless| |colorless|."
-msgstr ""
+#, fuzzy
+msgid "|tap|: Add |colorless|\\ |colorless|."
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../EMN.rst:1084
 msgid "Ulvenwald Observer"
@@ -2391,7 +2404,7 @@ msgstr ""
 
 #: ../../EMN.rst:1109
 msgid ""
-"Madness |mana_1| |mana_b| |mana_r| (If you discard this card, discard it "
+"Madness |mana_1|\\ |mana_b|\\ |mana_r| (If you discard this card, discard it "
 "into exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
@@ -2730,7 +2743,7 @@ msgstr ""
 
 #: ../../EMN.rst:1269
 msgid ""
-"|mana_3| |mana_r| |mana_r|, |tap|: If you both own and control Hanweir "
+"|mana_3|\\ |mana_r|\\ |mana_r|, |tap|: If you both own and control Hanweir "
 "Battlements and a creature named Hanweir Garrison, exile them, then meld "
 "them into Hanweir, the Writhing Township."
 msgstr ""
