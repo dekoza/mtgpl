@@ -3,6 +3,9 @@
  Spis zmian
 ************
 
+2019-01-06
+    Dodane tłumaczenia przyszłych kart z Ravnica Allegiance (dzięki API Scryfall.com)
+
 2019-01-04
     Nowy :doc:`podręcznik gry<rulebook>` (edycja Dominaria). Drobne porządki.
 

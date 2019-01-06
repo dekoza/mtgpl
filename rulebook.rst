@@ -84,7 +84,7 @@ phases of your turn.
 | Creatures fight for you: they can attack during the combat phase of
   your turn and block during the combat phase of an opponent’s turn. You
   can cast a creature as a spell during your main phase, and it remains
-  on the battlefield as a :term:`permanent`. Creatures enter the battlefield
+  on the battlefield as a permanent. Creatures enter the battlefield
   with "summoning sickness," which means that a creature you control
   can’t attack (or use an ability that has |tap| in its cost) until
   it starts your turn under your control. You can block with a creature
@@ -628,4 +628,5 @@ ENDING PHASE
 .. |image16| image:: images/rare.png
 .. |image17| image:: images/mythic.png
 .. |image28| image:: images/unblocked.png
+
 
