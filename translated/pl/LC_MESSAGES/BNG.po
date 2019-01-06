@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-01 01:24+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/bng/pl/>\n"
 "Language: pl\n"
@@ -70,7 +70,7 @@ msgstr "Czujność"
 #, fuzzy
 msgid "|mana_2|\\ |mana_r|: Creatures you control get +1/+0 until end of turn."
 msgstr ""
-"|mana_2| |mana_r|: Stwory, którymi władasz, dostają do końca tury +1/+0."
+"|mana_2|\\ |mana_r|: Stwory, którymi władasz, dostają +1/+0 do końca tury."
 
 # 436a53ba4e744b80b2d5b3c0a9a4560c
 # 6ad3f8547485441aa45d6137f974d68a
@@ -216,7 +216,7 @@ msgid ""
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_2| |mana_w| |mana_w| (Jeśli zagrasz tę kartę za koszt "
+"Obdarowanie |mana_2|\\ |mana_w|\\ |mana_w| (Jeśli zagrasz tę kartę za koszt "
 "obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
 "stworem, jeśli nie jest dołączona do stwora.)"
 
@@ -298,7 +298,7 @@ msgstr "Zaurocz stwora"
 #, fuzzy
 msgid "Enchanted creature has \"|mana_1|\\ |mana_w|, |tap|: You gain 3 life.\""
 msgstr ""
-"Zauroczony stwór ma \\\"|mana_1| |mana_w|, |tap|: Zyskujesz 3 życia.\\\""
+"Zauroczony stwór ma \\\"|mana_1|\\ |mana_w|, |tap|: Zyskujesz 3 życia.\\\""
 
 # 5a29cf0d5af74c749f0fa9128373de1c
 # fe9ac7053fca46c3bfee9bf531c09215
@@ -348,9 +348,9 @@ msgid ""
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_5| |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, "
-"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
-"nie jest dołączona do stwora.)"
+"Obdarowanie |mana_5|\\ |mana_w| (Jeśli zagrasz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # 8d2a2b1922a6435097c9125129f84a48
 #: ../../BNG.rst:73
@@ -400,8 +400,8 @@ msgid ""
 "creature tokens."
 msgstr ""
 "Natchniony — Ilekroć God-Favored General zostaje odnzaczony, możesz zapłacić "
-"|mana_2| |mana_w|. Jeśli tak zrobisz, stwórz dwa żetony białego uroku stwora "
-"Piechur 1/1."
+"|mana_2|\\ |mana_w|. Jeśli tak zrobisz, stwórz dwa żetony białego uroku "
+"stwora Piechur 1/1."
 
 # 910c6e317f18470293c7be0abdefa19c
 # 6a5be75d38164cb29c1932ef626b0034
@@ -513,9 +513,9 @@ msgid ""
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_2| |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, "
-"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
-"nie jest dołączona do stwora.)"
+"Obdarowanie |mana_2|\\ |mana_w| (Jeśli zagrasz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # 2a88dddcf82348cead407807f2a22b31
 # 7da00155212842ebb5a3934615dbe964
@@ -683,9 +683,9 @@ msgid ""
 "\\ |mana_u|. If you do, create a 2/2 blue Bird enchantment creature token "
 "with flying."
 msgstr ""
-"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić |"
-"mana_2| |mana_u|. Jeśli tak zrobisz, stwórz żeton niebieskiego uroku stwora "
-"Ptak 2/2 z lataniem."
+"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić "
+"|mana_2|\\ |mana_u|. Jeśli tak zrobisz, stwórz żeton niebieskiego uroku "
+"stwora Ptak 2/2 z lataniem."
 
 # 2db638134b6844cf918912d5c79e3f11
 # 44e60f6e8f7b4aabbb8e4960b23e8fd0
@@ -824,7 +824,7 @@ msgid ""
 "Enchanted creature has \"|mana_1|\\ |mana_u|, |tap|: Target player puts the "
 "top three cards of their library into their graveyard.\""
 msgstr ""
-"Zauroczony stwór ma \\\"|mana_1| |mana_u|, |tap|: Wskazany gracz kładzie "
+"Zauroczony stwór ma \\\"|mana_1|\\ |mana_u|, |tap|: Wskazany gracz kładzie "
 "trzy wierzchnie karty swojej biblioteki do swojego cmentarza.\\\""
 
 # d4223718e0254977995ca756ca1a8ded
@@ -864,7 +864,7 @@ msgid ""
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_5| |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"Obdaruj |mana_5|\\ |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, "
 "jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
 "nie jest dołączona do stwora.)"
 
@@ -960,7 +960,7 @@ msgid ""
 "|mana_u|\\ |mana_u|, Sacrifice Mindreaver: Counter target spell with the "
 "same name as a card exiled with Mindreaver."
 msgstr ""
-"|mana_u| |mana_u|, poświęć Mindreaver: Skontruj wskazany czar o tej samej "
+"|mana_u|\\ |mana_u|, poświęć Mindreaver: Skontruj wskazany czar o tej samej "
 "nazwie co karta wypędzona Mindreaverem."
 
 # b9f8616117fc4086ab3f3025379911df
@@ -990,7 +990,7 @@ msgid ""
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_4| |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"Obdaruj |mana_4|\\ |mana_u| (Jeśli zagrasz tę kartę za koszt obdarowania, "
 "jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
 "nie jest dołączona do stwora.)"
 
@@ -1220,7 +1220,7 @@ msgid ""
 "|mana_3|\\ |mana_u|\\ |mana_u|: Target creature blocks Vortex Elemental this "
 "turn if able."
 msgstr ""
-"|mana_3| |mana_u| |mana_u|: Wskazany stwór blokuje Wirołaka w tej turze "
+"|mana_3|\\ |mana_u|\\ |mana_u|: Wskazany stwór blokuje Wirołaka w tej turze "
 "jeśli może."
 
 # 230f8b76ae0246dda58d295016876fd6
@@ -1346,7 +1346,7 @@ msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice X other creatures: Return X "
 "target creature cards from your graveyard to the battlefield."
 msgstr ""
-"|mana_3| |mana_b| |mana_b|, |tap|, poświęć X innych stworów: Przywróć X "
+"|mana_3|\\ |mana_b|\\ |mana_b|, |tap|, poświęć X innych stworów: Przywróć X "
 "wskazanych kart stworów z twojego cmentarza na pole walki."
 
 # 51697ba747af4c779d1615adb3b0653a
@@ -1357,7 +1357,7 @@ msgid ""
 "|mana_5|\\ |mana_b|\\ |mana_b|: Put Champion of Stray Souls on top of your "
 "library from your graveyard."
 msgstr ""
-"|mana_5| |mana_b| |mana_b|: Umieść Champion of Stray Souls na wierzchu "
+"|mana_5|\\ |mana_b|\\ |mana_b|: Umieść Champion of Stray Souls na wierzchu "
 "twojej biblioteki z twojego cmentarza."
 
 # 41b95aa93c2244a381e790e440d8dafe
@@ -1374,7 +1374,7 @@ msgid ""
 "Enchanted creature has \"|mana_1|\\ |mana_b|, |tap|: Target player loses 2 "
 "life.\""
 msgstr ""
-"Zauroczony stwór ma \\\"|mana_1| |mana_b|, |tap|: Wskazany gracz traci dwa "
+"Zauroczony stwór ma \\\"|mana_1|\\ |mana_b|, |tap|: Wskazany gracz traci dwa "
 "życia.\\\""
 
 # df5cc4f07d9c4a4d8ff64c18d75951c5
@@ -1412,7 +1412,8 @@ msgstr "|mana_b|, poświęć innego stwora: Zregeneruj Pożeracza Nadziei."
 #, fuzzy
 msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice two other creatures: Destroy target creature."
-msgstr "|mana_2| |mana_b|, poświęć dwa inne stwory: Zniszcz wskazanego stwora."
+msgstr ""
+"|mana_2|\\ |mana_b|, poświęć dwa inne stwory: Zniszcz wskazanego stwora."
 
 # 1c2564e6c497464cb1502b900938772a
 # 31b9cdf20899470399901cc63f37d52b
@@ -1507,8 +1508,8 @@ msgid ""
 "Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2|"
 "\\ |mana_b|. If you do, create a 2/2 black Zombie enchantment creature token."
 msgstr ""
-"Natchniony — Ilekroć Forlorn Pseudamma zostaje odznaczony, możesz zapłacić |"
-"mana_2| |mana_b|. Jeśli tak zrobisz, stwórz żeton czarnego uroku stwora "
+"Natchniony — Ilekroć Forlorn Pseudamma zostaje odznaczony, możesz zapłacić "
+"|mana_2|\\ |mana_b|. Jeśli tak zrobisz, stwórz żeton czarnego uroku stwora "
 "Zombi 2/2."
 
 # 3f6aa0f81fde4acdb18a28ada7257762
@@ -1584,7 +1585,7 @@ msgid ""
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
 "if it's not attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_3| |mana_b| |mana_b| (Jeśli zagrasz tę kartę za koszt "
+"Obdarowanie |mana_3|\\ |mana_b|\\ |mana_b| (Jeśli zagrasz tę kartę za koszt "
 "obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
 "stworem, jeśli nie jest dołączona do stwora.)"
 
@@ -1650,7 +1651,7 @@ msgid ""
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_4| |mana_b| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"Obdaruj |mana_4|\\ |mana_b| (Jeśli zagrasz tę kartę za koszt obdarowania, "
 "jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
 "nie jest dołączona do stwora.)"
 
@@ -1744,7 +1745,7 @@ msgstr ""
 #: ../../BNG.rst:441
 #, fuzzy
 msgid "|mana_2|\\ |mana_b|: Regenerate Servant of Tymaret."
-msgstr "|mana_2| |mana_b|: Zregeneruj Sługę Tymareta."
+msgstr "|mana_2|\\ |mana_b|: Zregeneruj Sługę Tymareta."
 
 # bc009165ee38406fa89a7c6a53aed86b
 # c8d711c27ad244a28c20730b783b4a4b
@@ -1778,9 +1779,9 @@ msgid ""
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_3| |mana_b| (Jeśli zagrasz tę kartę za koszt obdarowania, "
-"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
-"nie jest dołączona do stwora.)"
+"Obdarowanie |mana_3|\\ |mana_b| (Jeśli zagrasz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # 0e10ce96e1a5446fbafe52e05586fa85
 # 700a7f24a6cf4a58939c4de4fad48297
@@ -1936,9 +1937,9 @@ msgid ""
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_2| |mana_r| (Jeśli zagrasz tę kartę za koszt obdarowania, "
-"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
-"nie jest dołączona do stwora.)"
+"Obdarowanie |mana_2|\\ |mana_r| (Jeśli zagrasz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # bc329c2b5e7e4382b270c2e4ded353b1
 # 5d51fac6574c41dd8a3b80ef9eed484c
@@ -2003,7 +2004,7 @@ msgid ""
 "Enchanted creature gets +2/+2 and has \"|mana_2|\\ |mana_r|: Target creature "
 "can't block this creature this turn.\""
 msgstr ""
-"Zauroczony stwór dostaje +2/+2 i ma \\\"|mana_2| |mana_r|: Wskazany stwór "
+"Zauroczony stwór dostaje +2/+2 i ma \\\"|mana_2|\\ |mana_r|: Wskazany stwór "
 "nie może blokować tego stwora w tej turze.\\\""
 
 # 9053e237ccd44c96ab75fc8771f05d06
@@ -2024,7 +2025,7 @@ msgid ""
 "It gains haste. Exile it at the beginning of the next end step."
 msgstr ""
 "Natchniony — Ilekroć Felhide Spiritbinder zostaje odznaczony, możesz "
-"zapłacić |mana_1| |mana_r|. Jeśli tak zrobisz, stwórz żeton będący kopią "
+"zapłacić |mana_1|\\ |mana_r|. Jeśli tak zrobisz, stwórz żeton będący kopią "
 "innego wskazanego stwora, z tym że jest on urokiem w dodatku do swoich "
 "innych typów. Zyskuje on pośpiech. Wypędź go na początku najbliższego kroku "
 "końcowego."
@@ -2064,7 +2065,7 @@ msgid ""
 "That creature can't block this combat. Activate this ability only if "
 "Forgestoker Dragon is attacking."
 msgstr ""
-"|mana_1| |mana_r|: Forgestoker Dragon zadaje 1 obrażenie wskazanemu "
+"|mana_1|\\ |mana_r|: Forgestoker Dragon zadaje 1 obrażenie wskazanemu "
 "stworowi. Ów stwór nie może blokować w tej walce. Aktywuj tę zdolność tylko "
 "jeśli Forgestoker Dragon atakuje."
 
@@ -2139,9 +2140,9 @@ msgid ""
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_1| |mana_r| (Jeśli zagrasz tę kartę za koszt obdarowania, "
-"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
-"nie jest dołączona do stwora.)"
+"Obdarowanie |mana_1|\\ |mana_r| (Jeśli zagrasz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # ae372d47e98e43d7b1589edf40907303
 # bfee212ae37d4a669811c6387f4b7294
@@ -2260,8 +2261,8 @@ msgid ""
 "|mana_r|. If you do, create a 3/1 red Elemental enchantment creature token "
 "with haste."
 msgstr ""
-"Natchniony — Ilekroć Satyr Nyx-Smith zostaje odznaczony, możesz zapłacić |"
-"mana_2| |mana_r|. Jeśli tak zrobisz, stwórz żeton czerwonego uroku-stwora "
+"Natchniony — Ilekroć Satyr Nyx-Smith zostaje odznaczony, możesz zapłacić "
+"|mana_2|\\ |mana_r|. Jeśli tak zrobisz, stwórz żeton czerwonego uroku-stwora "
 "Żywiołak z pośpiechem."
 
 # 69e08f0dc38a432abeef2a0b0e12a5c4
@@ -2311,7 +2312,7 @@ msgid ""
 "|mana_1|\\ |mana_u|: Scry 1. (Look at the top card of your library. You may "
 "put that card on the bottom of your library.)"
 msgstr ""
-"|mana_1| |mana_u|: Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
+"|mana_1|\\ |mana_u|: Wróż 1. (Spójrz na wierzchnią kartę twojej biblioteki. "
 "Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
 # 67aefc6e3a574f0bb2d826fc9ec371c8
@@ -2510,8 +2511,9 @@ msgid ""
 "X is the number of creature cards in your graveyard. Activate this ability "
 "only once each turn."
 msgstr ""
-"|mana_3| |mana_b|: Pająk Cmentarny dostaje do końca tury +X/+X, gdzie X jest "
-"liczbą kart stworów w twoim cmentarzu. Aktywuj tę zdolność tylko raz na turę."
+"|mana_3|\\ |mana_b|: Pająk Cmentarny dostaje do końca tury +X/+X, gdzie X "
+"jest liczbą kart stworów w twoim cmentarzu. Aktywuj tę zdolność tylko raz na "
+"turę."
 
 # 14f08a5a32ca4c4cb4268e5be7e4b9c8
 # f1fa8b293661499194f4c26c503d730e
@@ -2662,7 +2664,7 @@ msgid ""
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_5| |mana_g| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"Obdaruj |mana_5|\\ |mana_g| (Jeśli zagrasz tę kartę za koszt obdarowania, "
 "jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
 "nie jest dołączona do stwora.)"
 
@@ -2691,9 +2693,9 @@ msgid ""
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_4| |mana_g| (Jeśli zagrasz tę kartę za koszt obdarowania, "
-"jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
-"nie jest dołączona do stwora.)"
+"Obdarowanie |mana_4|\\ |mana_g| (Jeśli zagrasz tę kartę za koszt "
+"obdarowania, jest ona czarem Aury zauroczenia stwora. Ponownie staje się "
+"stworem, jeśli nie jest dołączona do stwora.)"
 
 # 17bc3fd895c946e5b378256286542e45
 # f75577eef2a1477095d8f949d2e3df9d
@@ -2738,9 +2740,9 @@ msgid ""
 "mana_2|\\ |mana_g|. If you do, create a 3/3 green Centaur enchantment "
 "creature token."
 msgstr ""
-"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić |"
-"mana_2| |mana_u|. Jeśli tak zrobisz, stwórz żeton niebieskiego uroku-stwora "
-"Ptak 2/2 z lataniem."
+"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić "
+"|mana_2|\\ |mana_u|. Jeśli tak zrobisz, stwórz żeton niebieskiego uroku-"
+"stwora Ptak 2/2 z lataniem."
 
 # 02392bf92d254168bdf9ae0ba9f3b6e7
 # 133e7f61a897439394465ce673af7e2a
@@ -2933,9 +2935,10 @@ msgid ""
 "you cast this card for its bestow cost, it's an Aura spell with enchant "
 "creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_2| |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| (Jeśli "
-"zagrasz tę kartę za koszt obdarowania, jest ona czarem Aury zauroczenia "
-"stwora. Ponownie staje się stworem, jeśli nie jest dołączona do stwora.)"
+"Obdarowanie |mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| ("
+"Jeśli zagrasz tę kartę za koszt obdarowania, jest ona czarem Aury "
+"zauroczenia stwora. Ponownie staje się stworem, jeśli nie jest dołączona do "
+"stwora.)"
 
 # d0bedd0d09d845bcb72ba64bf72ee2ed
 # f93fdf1c51b9423a8caaf8b0bf281b19
@@ -3202,9 +3205,9 @@ msgid ""
 "Minotaur spell with mana cost |mana_2|\\ |mana_r|, it costs |mana_2| to "
 "cast.)"
 msgstr ""
-"Rzucenie czarów Minotaurów kosztuje cię o |mana_b| |mana_r| mniej. Efekt ten "
-"zmniejsza tylko ilość kolorowej many. (Przykładowo jeśli rzucasz czar "
-"Minotaura o koszcie |mana_2| |mana_r|, płacisz za jego rzucenie |mana_2|.)"
+"Rzucenie czarów Minotaurów kosztuje cię o |mana_b|\\ |mana_r| mniej. Efekt "
+"ten zmniejsza tylko ilość kolorowej many. (Przykładowo jeśli rzucasz czar "
+"Minotaura o koszcie |mana_2|\\ |mana_r|, płacisz za jego rzucenie |mana_2|.)"
 
 # 4bcd7eeb0424465488214d45b90ed293
 # 275953a0e92d4b109ae2603740f2c960
