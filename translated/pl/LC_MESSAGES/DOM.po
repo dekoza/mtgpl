@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2018-12-31 16:27+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
@@ -40,7 +40,8 @@ msgstr ""
 #: ../../DOM.rst:11
 msgid ""
 "−1: Put a card you own with a silver counter on it from exile into your hand."
-msgstr "–1: Dołóż własną kartę ze znacznikiem srebra z wygnania do twojej ręki."
+msgstr ""
+"–1: Dołóż własną kartę ze znacznikiem srebra z wygnania do twojej ręki."
 
 #: ../../DOM.rst:13
 msgid ""
@@ -199,8 +200,8 @@ msgid ""
 "Whenever you cast a historic spell, put a +1/+1 counter on Daring "
 "Archaeologist. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"Ilekroć rzucasz historyczny czar, umieść znacznik +1/+1 na tym stworze. ("
-"Artefakty, legendy i Sagi są historyczne.)"
+"Ilekroć rzucasz historyczny czar, umieść znacznik +1/+1 na tym stworze. "
+"(Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:74
 #, fuzzy
@@ -259,9 +260,10 @@ msgid "Excavation Elephant"
 msgstr "Excavation Elephant"
 
 #: ../../DOM.rst:89
+#, fuzzy
 msgid ""
-"Kicker |mana_1| |mana_w| (You may pay an additional |mana_1| |mana_w| as you "
-"cast this spell.)"
+"Kicker |mana_1|\\ |mana_w| (You may pay an additional |mana_1|\\ |mana_w| as "
+"you cast this spell.)"
 msgstr ""
 "Podbicie |mana_1| |mana_w| (Możesz zapłacić dodatkowo |mana_1| |mana_w| "
 "podczas rzucania tego czaru.)"
@@ -442,8 +444,8 @@ msgid ""
 "Discard a historic card: Sanctum Spirit gains indestructible until end of "
 "turn. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"Odrzuć historyczną kartę: Ten stwór zyskuje niezniszczalność do końca tury. ("
-"Artefakty, legendy i Sagi są historyczne.)"
+"Odrzuć historyczną kartę: Ten stwór zyskuje niezniszczalność do końca tury. "
+"(Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:172
 #, fuzzy
@@ -469,9 +471,10 @@ msgid "Sergeant-at-Arms"
 msgstr "Sergeant-at-Arms"
 
 #: ../../DOM.rst:175
+#, fuzzy
 msgid ""
-"Kicker |mana_2| |mana_w| (You may pay an additional |mana_2| |mana_w| as you "
-"cast this spell.)"
+"Kicker |mana_2|\\ |mana_w| (You may pay an additional |mana_2|\\ |mana_w| as "
+"you cast this spell.)"
 msgstr ""
 "Podbicie |mana_2| |mana_w| (Możesz zapłacić dodatkowe |mana_2| |mana_w| "
 "podczas rzucania tego czaru.)"
@@ -507,8 +510,8 @@ msgid ""
 "Whenever you cast a historic spell, Serra Disciple gets +1/+1 until end of "
 "turn. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"Ilekroć rzucasz historyczny czar, ten stwór dostaje +1/+1 do końca tury. ("
-"Artefakty, legendy i Sagi są historyczne.)"
+"Ilekroć rzucasz historyczny czar, ten stwór dostaje +1/+1 do końca tury. "
+"(Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:196
 #, fuzzy
@@ -524,8 +527,10 @@ msgstr ""
 "antyklątwę."
 
 #: ../../DOM.rst:195
+#, fuzzy
 msgid ""
-"|mana_4| |mana_g| |mana_g|: Put a +1/+1 counter on each creature you control."
+"|mana_4|\\ |mana_g|\\ |mana_g|: Put a +1/+1 counter on each creature you "
+"control."
 msgstr ""
 "|mana_4| |mana_g| |mana_g|: Umieść znacznik +1/+1 na każdym stworze pod "
 "twoim władaniem."
@@ -699,9 +704,10 @@ msgid "Blink of an Eye"
 msgstr "Mgnienie oka"
 
 #: ../../DOM.rst:263 ../../DOM.rst:379
+#, fuzzy
 msgid ""
-"Kicker |mana_1| |mana_u| (You may pay an additional |mana_1| |mana_u| as you "
-"cast this spell.)"
+"Kicker |mana_1|\\ |mana_u| (You may pay an additional |mana_1|\\ |mana_u| as "
+"you cast this spell.)"
 msgstr ""
 "Podbicie |mana_1| |mana_u| (Możesz zapłacić dodatkowo |mana_1| |mana_u| "
 "podczas rzucania tego czaru.)"
@@ -1112,8 +1118,9 @@ msgid "Zahid, Djinn of the Lamp"
 msgstr "Zahid, Djinn of the Lamp (Zahid, Dżin z Lampy)"
 
 #: ../../DOM.rst:429
+#, fuzzy
 msgid ""
-"You may pay |mana_3| |mana_u| and tap an untapped artifact you control "
+"You may pay |mana_3|\\ |mana_u| and tap an untapped artifact you control "
 "rather than pay this spell's mana cost."
 msgstr ""
 "Możesz zapłacić |mana_3| |mana_u| i zatapować odtapowany artefakt pod twoim "
@@ -1156,9 +1163,10 @@ msgid "Caligo Skin-Witch"
 msgstr "Caligo Skin-Witch"
 
 #: ../../DOM.rst:447
+#, fuzzy
 msgid ""
-"Kicker |mana_3| |mana_b| (You may pay an additional |mana_3| |mana_b| as you "
-"cast this spell.)"
+"Kicker |mana_3|\\ |mana_b| (You may pay an additional |mana_3|\\ |mana_b| as "
+"you cast this spell.)"
 msgstr ""
 "Podbicie |mana_3| |mana_b| (Możesz zapłacić dodatkowo |mana_3| |mana_b| "
 "podczas rzucania tego czaru.)"
@@ -1294,8 +1302,8 @@ msgid ""
 "|mana_3|: Tap Drudge Sentinel. It gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"|mana_3|: Zatapuj tego stwora. Zyskuje on niezniszczalność do końca tury. ("
-"Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
+"|mana_3|: Zatapuj tego stwora. Zyskuje on niezniszczalność do końca tury. "
+"(Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../DOM.rst:506
 #, fuzzy
@@ -1367,9 +1375,10 @@ msgid "Josu Vess, Lich Knight"
 msgstr "Josu Vess, Lich Knight"
 
 #: ../../DOM.rst:525
+#, fuzzy
 msgid ""
-"Kicker |mana_5| |mana_b| (You may pay an additional |mana_5| |mana_b| as you "
-"cast this spell.)"
+"Kicker |mana_5|\\ |mana_b| (You may pay an additional |mana_5|\\ |mana_b| as "
+"you cast this spell.)"
 msgstr ""
 "Podbicie |mana_5| |mana_b| (Możesz zapłacić dodatkowo |mana_5| |mana_b| "
 "podczas rzucania tego czaru.)"
@@ -1396,11 +1405,12 @@ msgid ""
 "Whenever a creature an opponent controls is dealt damage, put a +1/+1 "
 "counter on Kazarov, Sengir Pureblood."
 msgstr ""
-"Ilekroć stwór pod władaniem przeciwnika otrzymuje obrażenia, połóż znacznik +"
-"1/+1 na niniejszym stworze."
+"Ilekroć stwór pod władaniem przeciwnika otrzymuje obrażenia, połóż znacznik "
+"+1/+1 na niniejszym stworze."
 
 #: ../../DOM.rst:537
-msgid "|mana_3| |mana_r|: Kazarov deals 2 damage to target creature."
+#, fuzzy
+msgid "|mana_3|\\ |mana_r|: Kazarov deals 2 damage to target creature."
 msgstr "|mana_3| |mana_r|: Ten stwór zadaje 2 obrażenia wskazanemu stworowi."
 
 #: ../../DOM.rst:546
@@ -1720,7 +1730,8 @@ msgstr "Tratowanie"
 #: ../../DOM.rst:657
 msgid ""
 "Champion of the Flame gets +2/+2 for each Aura and Equipment attached to it."
-msgstr "Ten stwór dostaje +2/+2 za każdą dołączoną do niego Aurę lub Ekwipunek."
+msgstr ""
+"Ten stwór dostaje +2/+2 za każdą dołączoną do niego Aurę lub Ekwipunek."
 
 #: ../../DOM.rst:662
 #, fuzzy
@@ -1755,9 +1766,10 @@ msgid "Fight with Fire"
 msgstr "Fight with Fire"
 
 #: ../../DOM.rst:673
+#, fuzzy
 msgid ""
-"Kicker |mana_5| |mana_r| (You may pay an additional |mana_5| |mana_r| as you "
-"cast this spell.)"
+"Kicker |mana_5|\\ |mana_r| (You may pay an additional |mana_5|\\ |mana_r| as "
+"you cast this spell.)"
 msgstr ""
 "Podbicie |mana_5| |mana_r| (Możesz zapłacić dodatkowo |mana_5| |mana_r| "
 "podczas rzucania tego czaru.)"
@@ -1801,7 +1813,8 @@ msgid "I — The First Eruption deals 1 damage to each creature without flying."
 msgstr "I — Ten permanent zadaje po 1 obrażeniu każdemu stworowi bez latania."
 
 #: ../../DOM.rst:691
-msgid "II — Add |mana_r| |mana_r|."
+#, fuzzy
+msgid "II — Add |mana_r|\\ |mana_r|."
 msgstr "II — Dostajesz |mana_r| |mana_r|."
 
 #: ../../DOM.rst:693
@@ -1854,9 +1867,10 @@ msgid "Ghitu Chronicler"
 msgstr "Ghitu Chronicler"
 
 #: ../../DOM.rst:713 ../../DOM.rst:765
+#, fuzzy
 msgid ""
-"Kicker |mana_3| |mana_r| (You may pay an additional |mana_3| |mana_r| as you "
-"cast this spell.)"
+"Kicker |mana_3|\\ |mana_r| (You may pay an additional |mana_3|\\ |mana_r| as "
+"you cast this spell.)"
 msgstr ""
 "Podbicie |mana_3| |mana_r| (Możesz zapłacić dodatkowo |mana_3| |mana_r| "
 "podczas rzucania tego czaru.)"
@@ -1973,9 +1987,10 @@ msgid "Jaya Ballard"
 msgstr "Jaya Ballard"
 
 #: ../../DOM.rst:751
+#, fuzzy
 msgid ""
-"+1: Add |mana_r| |mana_r| |mana_r|. Spend this mana only to cast instant or "
-"sorcery spells."
+"+1: Add |mana_r|\\ |mana_r|\\ |mana_r|. Spend this mana only to cast instant "
+"or sorcery spells."
 msgstr ""
 "+1: Dostajesz |mana_r| |mana_r| |mana_r|. Wydaj tę mana tylko na rzucanie "
 "sztuczek lub obrzędów."
@@ -2130,8 +2145,9 @@ msgstr ""
 "Goblin 1/1."
 
 #: ../../DOM.rst:809
+#, fuzzy
 msgid ""
-"|mana_1| |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage "
+"|mana_1|\\ |mana_r|, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage "
 "to any target."
 msgstr ""
 "|mana_1| |mana_r|, poświęć Goblina: Ten stwór zadaje 2 obrażenia w dowolny "
@@ -2229,14 +2245,15 @@ msgid "Flying, haste"
 msgstr "Latanie, pośpiech"
 
 #: ../../DOM.rst:847
+#, fuzzy
 msgid ""
-"Whenever you attack with three or more creatures, you may pay |mana_2| |"
+"Whenever you attack with three or more creatures, you may pay |mana_2|\\ |"
 "mana_r|. If you do, return Warcry Phoenix from your graveyard to the "
 "battlefield tapped and attacking."
 msgstr ""
-"Ilekroć atakujesz co najmniej trzema stworami, możesz zapłacić |mana_2| "
-"|mana_r|. Jeśli tak zrobisz, przywróć tego stwora z twojego cmentarza na "
-"pole walki zatapowanego i atakującego."
+"Ilekroć atakujesz co najmniej trzema stworami, możesz zapłacić |mana_2| |"
+"mana_r|. Jeśli tak zrobisz, przywróć tego stwora z twojego cmentarza na pole "
+"walki zatapowanego i atakującego."
 
 #: ../../DOM.rst:854
 #, fuzzy
@@ -2254,7 +2271,8 @@ msgstr "Wizard's Lightning"
 
 #: ../../DOM.rst:857
 msgid "This spell costs |mana_2| less to cast if you control a Wizard."
-msgstr "Rzucenie tego czaru kosztuje |mana_2| mniej jeśli władasz Czarodziejem."
+msgstr ""
+"Rzucenie tego czaru kosztuje |mana_2| mniej jeśli władasz Czarodziejem."
 
 #: ../../DOM.rst:859
 msgid "Wizard's Lightning deals 3 damage to any target."
@@ -2314,8 +2332,8 @@ msgid ""
 "If Baloth Gorger was kicked, it enters the battlefield with three +1/+1 "
 "counters on it."
 msgstr ""
-"Jeśli ta karta została podbita, wchodzi na pole walki z trzema znacznikami +"
-"1/+1."
+"Jeśli ta karta została podbita, wchodzi na pole walki z trzema znacznikami "
+"+1/+1."
 
 #: ../../DOM.rst:882
 msgid "Broken Bond"
@@ -2352,8 +2370,9 @@ msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../DOM.rst:891
+#, fuzzy
 msgid ""
-"|tap|: Add |mana_g| |mana_g|. Spend this mana only to cast kicked spells."
+"|tap|: Add |mana_g|\\ |mana_g|. Spend this mana only to cast kicked spells."
 msgstr ""
 "|tap|: Dostajesz |mana_g| |mana_g|. Wydaj tę manę tylko do rzucania "
 "podbitych czarów."
@@ -2364,8 +2383,9 @@ msgid "Fungal Plots"
 msgstr "Fungal Plots"
 
 #: ../../DOM.rst:895
+#, fuzzy
 msgid ""
-"|mana_1| |mana_g|, Exile a creature card from your graveyard: Create a 1/1 "
+"|mana_1|\\ |mana_g|, Exile a creature card from your graveyard: Create a 1/1 "
 "green Saproling creature token."
 msgstr ""
 "|mana_1| |mana_g|, wygnaj kartę stwora z twojego cmentarza: Stwórz żeton "
@@ -2484,9 +2504,10 @@ msgid "Krosan Druid"
 msgstr "Krosan Druid"
 
 #: ../../DOM.rst:939
+#, fuzzy
 msgid ""
-"Kicker |mana_4| |mana_g| (You may pay an additional |mana_4| |mana_g| as you "
-"cast this spell.)"
+"Kicker |mana_4|\\ |mana_g| (You may pay an additional |mana_4|\\ |mana_g| as "
+"you cast this spell.)"
 msgstr ""
 "Podbicie |mana_4| |mana_g| (Możesz zapłacić dodatkowo |mana_4| |mana_g| "
 "podczas rzucania tego czaru.)"
@@ -2508,7 +2529,8 @@ msgid "Llanowar Envoy"
 msgstr "Llanowar Envoy"
 
 #: ../../DOM.rst:949
-msgid "|mana_1| |mana_g|: Add one mana of any color."
+#, fuzzy
+msgid "|mana_1|\\ |mana_g|: Add one mana of any color."
 msgstr "|mana_1| |mana_g|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../DOM.rst:954
@@ -2537,8 +2559,8 @@ msgid ""
 "Whenever another Elf enters the battlefield under your control, put a +1/+1 "
 "counter on Marwyn, the Nurturer."
 msgstr ""
-"Ilekroć inny Elf wejdzie na pole walki pod twoim władaniem, umieść znacznik +"
-"1/+1 na tej karcie."
+"Ilekroć inny Elf wejdzie na pole walki pod twoim władaniem, umieść znacznik "
+"+1/+1 na tej karcie."
 
 #: ../../DOM.rst:963
 msgid "|tap|: Add an amount of |mana_g| equal to Marwyn's power."
@@ -2583,8 +2605,9 @@ msgstr ""
 "w twoim cmentarzu."
 
 #: ../../DOM.rst:979
+#, fuzzy
 msgid ""
-"|mana_1| |mana_g|, Return two lands you control to their owner's hand: "
+"|mana_1|\\ |mana_g|, Return two lands you control to their owner's hand: "
 "Return Multani from your graveyard to your hand."
 msgstr ""
 "|mana_1| |mana_g|, przywróć dwa lądy będące pod twoim władaniem do rąk ich "
@@ -2696,9 +2719,10 @@ msgid "Territorial Allosaurus"
 msgstr "Territorial Allosaurus"
 
 #: ../../DOM.rst:1025
+#, fuzzy
 msgid ""
-"Kicker |mana_2| |mana_g| (You may pay an additional |mana_2| |mana_g| as you "
-"cast this spell.)"
+"Kicker |mana_2|\\ |mana_g| (You may pay an additional |mana_2|\\ |mana_g| as "
+"you cast this spell.)"
 msgstr ""
 "Podbicie |mana_2| |mana_g| (Możesz zapłacić dodatkowo |mana_2| |mana_g| "
 "podczas rzucania tego czaru.)"
@@ -2737,8 +2761,8 @@ msgid ""
 "If Untamed Kavu was kicked, it enters the battlefield with three +1/+1 "
 "counters on it."
 msgstr ""
-"Jeśli ta karta została podbita, wchodzi na pole walki z trzema znacznikami +"
-"1/+1."
+"Jeśli ta karta została podbita, wchodzi na pole walki z trzema znacznikami "
+"+1/+1."
 
 #: ../../DOM.rst:1044
 #, fuzzy
@@ -2810,8 +2834,9 @@ msgid "Aryel, Knight of Windgrace"
 msgstr "Aryel, Knight of Windgrace"
 
 #: ../../DOM.rst:1071
+#, fuzzy
 msgid ""
-"|mana_2| |mana_w|, |tap|: Create a 2/2 white Knight creature token with "
+"|mana_2|\\ |mana_w|, |tap|: Create a 2/2 white Knight creature token with "
 "vigilance."
 msgstr ""
 "|mana_2| |mana_w|, |tap|: Stwórz żeton białego stwora Rycerz 2/2 z "
@@ -2918,9 +2943,10 @@ msgid "Jodah, Archmage Eternal"
 msgstr "Jodah, Archmage Eternal"
 
 #: ../../DOM.rst:1111
+#, fuzzy
 msgid ""
-"You may pay |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| rather than pay the "
-"mana cost for spells that you cast."
+"You may pay |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| rather than "
+"pay the mana cost for spells that you cast."
 msgstr ""
 "Możesz płacić |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| zamiast płacić "
 "koszt many rzucanych przez ciebie czarów."
@@ -3163,8 +3189,8 @@ msgid ""
 "If a land is tapped for two or more mana, it produces |colorless| instead of "
 "any other type and amount."
 msgstr ""
-"Jeśli ląd zostaje zatapowany po dwie lub więcej many, produkuje on "
-"|colorless| zamiast wszelkich innych typów i ilości."
+"Jeśli ląd zostaje zatapowany po dwie lub więcej many, produkuje on |"
+"colorless| zamiast wszelkich innych typów i ilości."
 
 #: ../../DOM.rst:1203
 msgid ""
@@ -3215,8 +3241,8 @@ msgid ""
 "legendaries, and Sagas are historic.)"
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, możesz przywrócić inny wskazany "
-"historyczny permanent po twoim władaniem do ręki jego właściciela. ("
-"Artefakty, legendy i Sagi są historyczne.)"
+"historyczny permanent po twoim władaniem do ręki jego właściciela. "
+"(Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1226
 #, fuzzy
@@ -3263,8 +3289,8 @@ msgid ""
 "Historic spells you cast cost |mana_1| less to cast. (Artifacts, "
 "legendaries, and Sagas are historic.)"
 msgstr ""
-"Rzucanie przez ciebie historycznych czarów kosztuje o |mana_1| mniej. ("
-"Artefakty, legendy i Sagi są historyczne.)"
+"Rzucanie przez ciebie historycznych czarów kosztuje o |mana_1| mniej. "
+"(Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:1248
 #, fuzzy
@@ -3590,8 +3616,9 @@ msgid "|tap|: Add |mana_b|."
 msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../DOM.rst:1361
+#, fuzzy
 msgid ""
-"|mana_2| |mana_b|, |tap|, Sacrifice Memorial to Folly: Return target "
+"|mana_2|\\ |mana_b|, |tap|, Sacrifice Memorial to Folly: Return target "
 "creature card from your graveyard to your hand."
 msgstr ""
 "|mana_2| |mana_b|, |tap|, poświęć ten permanent: Przywróć wskazaną kartę "
@@ -3610,7 +3637,9 @@ msgid "|tap|: Add |mana_u|."
 msgstr "|tap|: Dostajesz |mana_u|."
 
 #: ../../DOM.rst:1369
-msgid "|mana_4| |mana_u|, |tap|, Sacrifice Memorial to Genius: Draw two cards."
+#, fuzzy
+msgid ""
+"|mana_4|\\ |mana_u|, |tap|, Sacrifice Memorial to Genius: Draw two cards."
 msgstr "|mana_4| |mana_u|, |tap|, poświęć ten permanent: Dobierz dwie karty."
 
 #: ../../DOM.rst:1378
@@ -3626,9 +3655,10 @@ msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Dostajesz |mana_w|."
 
 #: ../../DOM.rst:1377
+#, fuzzy
 msgid ""
-"|mana_3| |mana_w|, |tap|, Sacrifice Memorial to Glory: Create two 1/1 white "
-"Soldier creature tokens."
+"|mana_3|\\ |mana_w|, |tap|, Sacrifice Memorial to Glory: Create two 1/1 "
+"white Soldier creature tokens."
 msgstr ""
 "|mana_3| |mana_w|, |tap|, poświęć ten permanent: Stwórz dwa żetony białego "
 "stwora Piechur 1/1."
@@ -3642,11 +3672,12 @@ msgid "Memorial to Unity enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki zatapowana."
 
 #: ../../DOM.rst:1385
+#, fuzzy
 msgid ""
-"|mana_2| |mana_g|, |tap|, Sacrifice Memorial to Unity: Look at the top five "
-"cards of your library. You may reveal a creature card from among them and "
-"put it into your hand. Then put the rest on the bottom of your library in a "
-"random order."
+"|mana_2|\\ |mana_g|, |tap|, Sacrifice Memorial to Unity: Look at the top "
+"five cards of your library. You may reveal a creature card from among them "
+"and put it into your hand. Then put the rest on the bottom of your library "
+"in a random order."
 msgstr ""
 "|mana_2| |mana_g|, |tap|, poświęć ten permanent: Spójrz na pięć wierzchnich "
 "kart twojej biblioteki. Możesz ujawnić spośród nich kartę stwora i umieścić "
@@ -3666,8 +3697,9 @@ msgid "|tap|: Add |mana_r|."
 msgstr "|tap|: Dostajesz |mana_r|."
 
 #: ../../DOM.rst:1393
+#, fuzzy
 msgid ""
-"|mana_4| |mana_r|, |tap|, Sacrifice Memorial to War: Destroy target land."
+"|mana_4|\\ |mana_r|, |tap|, Sacrifice Memorial to War: Destroy target land."
 msgstr "|mana_4| |mana_r|, |tap|, poświęć ten permanent: Zniszcz wskazany ląd."
 
 #: ../../DOM.rst:1400
@@ -3806,9 +3838,10 @@ msgid "Chandra, Bold Pyromancer"
 msgstr "Chandra, Bold Pyromancer (Chandra, Zuchwała Piromantka)"
 
 #: ../../DOM.rst:1521
+#, fuzzy
 msgid ""
-"+1: Add |mana_r| |mana_r|. Chandra, Bold Pyromancer deals 2 damage to target "
-"player."
+"+1: Add |mana_r|\\ |mana_r|. Chandra, Bold Pyromancer deals 2 damage to "
+"target player."
 msgstr ""
 "+1: Dostajesz |mana_r| |mana_r|. Ten permanent zadaje wskazanemu graczowi 2 "
 "obrażenia."
@@ -3893,7 +3926,8 @@ msgstr "Firesong and Sunspeaker"
 
 #: ../../DOM.rst:1549
 msgid "Red instant and sorcery spells you control have lifelink."
-msgstr "Czerwone czary sztuczek i obrzędów pod twoim władaniem mają więź życia."
+msgstr ""
+"Czerwone czary sztuczek i obrzędów pod twoim władaniem mają więź życia."
 
 #: ../../DOM.rst:1551
 msgid ""
