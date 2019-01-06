@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2019-01-01 01:24+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/hou/pl/>\n"
@@ -49,9 +49,10 @@ msgstr "Podwójny cios"
 
 #: ../../HOU.rst:15
 msgid ""
-"Eternalize |mana_3| |mana_w| |mana_w| (|mana_3| |mana_w| |mana_w|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except "
-"it's a 4/4 black Zombie Cat with no mana cost. Eternalize only as a sorcery.)"
+"Eternalize |mana_3|\\ |mana_w|\\ |mana_w| (|mana_3|\\ |mana_w|\\ |mana_w|, "
+"Exile this card from your graveyard: Create a token that's a copy of it, "
+"except it's a 4/4 black Zombie Cat with no mana cost. Eternalize only as a "
+"sorcery.)"
 msgstr ""
 
 #: ../../HOU.rst:24
@@ -64,20 +65,22 @@ msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
 #: ../../HOU.rst:21
+#, fuzzy
 msgid ""
-"|mana_2| |mana_w|, |tap|: Exile another target creature. Return that card to "
-"the battlefield under its owner's control at the beginning of the next end "
-"step."
+"|mana_2|\\ |mana_w|, |tap|: Exile another target creature. Return that card "
+"to the battlefield under its owner's control at the beginning of the next "
+"end step."
 msgstr ""
 "|mana_2| |mana_w|, |tap|: Wygnaj innego wskazanego stwora. Przywróć ową "
 "kartę na pole walki pod władanie jej właściciela na początku najbliższego "
 "kroku końcowego."
 
 #: ../../HOU.rst:23
+#, fuzzy
 msgid ""
-"|mana_2| |mana_w|, |tap|, Exert Angel of Condemnation: Exile another target "
-"creature until Angel of Condemnation leaves the battlefield. (An exerted "
-"creature won't untap during your next untap step.)"
+"|mana_2|\\ |mana_w|, |tap|, Exert Angel of Condemnation: Exile another "
+"target creature until Angel of Condemnation leaves the battlefield. (An "
+"exerted creature won't untap during your next untap step.)"
 msgstr ""
 "|mana_2| |mana_w|, |tap|, wytęż tego stwora: Wygnaj innego wskazanego stwora "
 "dopóki ten stwór nie opuści pola walki. (Wytężony stwór nie odtapuje się w "
@@ -341,10 +344,10 @@ msgstr ""
 
 #: ../../HOU.rst:141
 msgid ""
-"Eternalize |mana_4| |mana_w| |mana_w| (|mana_4| |mana_w| |mana_w|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except "
-"it's a 4/4 black Zombie Human Cleric with no mana cost. Eternalize only as a "
-"sorcery.)"
+"Eternalize |mana_4|\\ |mana_w|\\ |mana_w| (|mana_4|\\ |mana_w|\\ |mana_w|, "
+"Exile this card from your graveyard: Create a token that's a copy of it, "
+"except it's a 4/4 black Zombie Human Cleric with no mana cost. Eternalize "
+"only as a sorcery.)"
 msgstr ""
 
 #: ../../HOU.rst:146
@@ -370,10 +373,10 @@ msgstr ""
 
 #: ../../HOU.rst:151
 msgid ""
-"Eternalize—|mana_2| |mana_w| |mana_w|, Discard a card. (|mana_2| |mana_w| |"
-"mana_w|, Discard a card, Exile this card from your graveyard: Create a token "
-"that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no "
-"mana cost. Eternalize only as a sorcery.)"
+"Eternalize—|mana_2|\\ |mana_w|\\ |mana_w|, Discard a card. (|mana_2|\\ |"
+"mana_w|\\ |mana_w|, Discard a card, Exile this card from your graveyard: "
+"Create a token that's a copy of it, except it's a 4/4 black Zombie Human "
+"Wizard with no mana cost. Eternalize only as a sorcery.)"
 msgstr ""
 
 #: ../../HOU.rst:158
@@ -432,10 +435,10 @@ msgstr ""
 
 #: ../../HOU.rst:181
 msgid ""
-"Eternalize |mana_5| |mana_u| |mana_u| (|mana_5| |mana_u| |mana_u|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except "
-"it's a 4/4 black Zombie Naga Wizard with no mana cost. Eternalize only as a "
-"sorcery.)"
+"Eternalize |mana_5|\\ |mana_u|\\ |mana_u| (|mana_5|\\ |mana_u|\\ |mana_u|, "
+"Exile this card from your graveyard: Create a token that's a copy of it, "
+"except it's a 4/4 black Zombie Naga Wizard with no mana cost. Eternalize "
+"only as a sorcery.)"
 msgstr ""
 
 #: ../../HOU.rst:188
@@ -528,8 +531,9 @@ msgid "Nimble Obstructionist"
 msgstr ""
 
 #: ../../HOU.rst:229
+#, fuzzy
 msgid ""
-"Cycling |mana_2| |mana_u| (|mana_2| |mana_u|, Discard this card: Draw a "
+"Cycling |mana_2|\\ |mana_u| (|mana_2|\\ |mana_u|, Discard this card: Draw a "
 "card.)"
 msgstr ""
 "Recykling |mana_2| |mana_u| (|mana_2| |mana_u|, odrzuć tę kartę: Dobierz "
@@ -557,10 +561,10 @@ msgstr ""
 
 #: ../../HOU.rst:241
 msgid ""
-"Eternalize |mana_4| |mana_u| |mana_u| (|mana_4| |mana_u| |mana_u|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except "
-"it's a 4/4 black Zombie Human Warrior with no mana cost. Eternalize only as "
-"a sorcery.)"
+"Eternalize |mana_4|\\ |mana_u|\\ |mana_u| (|mana_4|\\ |mana_u|\\ |mana_u|, "
+"Exile this card from your graveyard: Create a token that's a copy of it, "
+"except it's a 4/4 black Zombie Human Warrior with no mana cost. Eternalize "
+"only as a sorcery.)"
 msgstr ""
 
 #: ../../HOU.rst:248
@@ -574,7 +578,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:247
-msgid "|mana_2| |mana_u|: Scry 1."
+msgid "|mana_2|\\ |mana_u|: Scry 1."
 msgstr ""
 
 #: ../../HOU.rst:252
@@ -597,10 +601,10 @@ msgstr ""
 
 #: ../../HOU.rst:257
 msgid ""
-"Eternalize—|mana_3| |mana_u| |mana_u|, Discard a card. (|mana_3| |mana_u| |"
-"mana_u|, Discard a card, Exile this card from your graveyard: Create a token "
-"that's a copy of it, except it's a 4/4 black Zombie Naga Warrior with no "
-"mana cost. Eternalize only as a sorcery.)"
+"Eternalize—|mana_3|\\ |mana_u|\\ |mana_u|, Discard a card. (|mana_3|\\ |"
+"mana_u|\\ |mana_u|, Discard a card, Exile this card from your graveyard: "
+"Create a token that's a copy of it, except it's a 4/4 black Zombie Naga "
+"Warrior with no mana cost. Eternalize only as a sorcery.)"
 msgstr ""
 
 #: ../../HOU.rst:264
@@ -738,8 +742,8 @@ msgstr ""
 
 #: ../../HOU.rst:319
 msgid ""
-"|mana_1| |mana_b|: Target attacking Zombie gains indestructible until end of "
-"turn. (Damage and effects that say \"destroy\" don't destroy it. If its "
+"|mana_1|\\ |mana_b|: Target attacking Zombie gains indestructible until end "
+"of turn. (Damage and effects that say \"destroy\" don't destroy it. If its "
 "toughness is 0 or less, it's still put into its owner's graveyard.)"
 msgstr ""
 
@@ -840,10 +844,10 @@ msgstr ""
 
 #: ../../HOU.rst:365
 msgid ""
-"Eternalize |mana_4| |mana_b| |mana_b| (|mana_4| |mana_b| |mana_b|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except "
-"it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a "
-"sorcery.)"
+"Eternalize |mana_4|\\ |mana_b|\\ |mana_b| (|mana_4|\\ |mana_b|\\ |mana_b|, "
+"Exile this card from your graveyard: Create a token that's a copy of it, "
+"except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize "
+"only as a sorcery.)"
 msgstr ""
 
 #: ../../HOU.rst:370
@@ -922,8 +926,8 @@ msgstr ""
 
 #: ../../HOU.rst:401
 msgid ""
-"|mana_2| |mana_b|, Discard a card: Merciless Eternal gets +2/+2 until end of "
-"turn."
+"|mana_2|\\ |mana_b|, Discard a card: Merciless Eternal gets +2/+2 until end "
+"of turn."
 msgstr ""
 
 #: ../../HOU.rst:408
@@ -1073,7 +1077,7 @@ msgstr ""
 
 #: ../../HOU.rst:477
 msgid ""
-"|mana_1| |mana_r|, Discard a card: Burning-Fist Minotaur gets +2/+0 until "
+"|mana_1|\\ |mana_r|, Discard a card: Burning-Fist Minotaur gets +2/+0 until "
 "end of turn."
 msgstr ""
 
@@ -1137,10 +1141,10 @@ msgstr ""
 
 #: ../../HOU.rst:503
 msgid ""
-"Eternalize |mana_4| |mana_r| |mana_r| (|mana_4| |mana_r| |mana_r|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except "
-"it's a 4/4 black Zombie Jackal Warrior with no mana cost. Eternalize only as "
-"a sorcery.)"
+"Eternalize |mana_4|\\ |mana_r|\\ |mana_r| (|mana_4|\\ |mana_r|\\ |mana_r|, "
+"Exile this card from your graveyard: Create a token that's a copy of it, "
+"except it's a 4/4 black Zombie Jackal Warrior with no mana cost. Eternalize "
+"only as a sorcery.)"
 msgstr ""
 
 #: ../../HOU.rst:510
@@ -1173,7 +1177,7 @@ msgid "Frontline Devastator"
 msgstr ""
 
 #: ../../HOU.rst:519
-msgid "|mana_1| |mana_r|: Frontline Devastator gets +1/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|: Frontline Devastator gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../HOU.rst:524
@@ -1369,7 +1373,7 @@ msgid "Devotee of Strength"
 msgstr ""
 
 #: ../../HOU.rst:619
-msgid "|mana_4| |mana_g|: Target creature gets +2/+2 until end of turn."
+msgid "|mana_4|\\ |mana_g|: Target creature gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../HOU.rst:624
@@ -1394,8 +1398,8 @@ msgstr ""
 
 #: ../../HOU.rst:631
 msgid ""
-"|mana_1| |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. Activate "
-"this ability only once each turn."
+"|mana_1|\\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. "
+"Activate this ability only once each turn."
 msgstr ""
 
 #: ../../HOU.rst:636
@@ -1563,10 +1567,10 @@ msgstr ""
 
 #: ../../HOU.rst:707
 msgid ""
-"Eternalize |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile "
-"this card from your graveyard: Create a token that's a copy of it, except "
-"it's a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize only as "
-"a sorcery.)"
+"Eternalize |mana_4|\\ |mana_g|\\ |mana_g| (|mana_4|\\ |mana_g|\\ |mana_g|, "
+"Exile this card from your graveyard: Create a token that's a copy of it, "
+"except it's a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize "
+"only as a sorcery.)"
 msgstr ""
 
 #: ../../HOU.rst:712
@@ -1652,8 +1656,11 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:749
-msgid "|mana_2| |mana_u| |mana_r|: Draw a card, then discard a card."
+#, fuzzy
+msgid "|mana_2|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
 msgstr ""
+"Recykling |mana_2| |mana_u| (|mana_2| |mana_u|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../HOU.rst:751
 msgid ""
@@ -1727,8 +1734,11 @@ msgid "River Hoopoe"
 msgstr ""
 
 #: ../../HOU.rst:781
-msgid "|mana_3| |mana_g| |mana_u|: You gain 2 life and draw a card."
+#, fuzzy
+msgid "|mana_3|\\ |mana_g|\\ |mana_u|: You gain 2 life and draw a card."
 msgstr ""
+"Recykling |mana_1| |mana_g| (|mana_1| |mana_g|, odrzuć tę kartę: Dobierz "
+"kartę.)"
 
 #: ../../HOU.rst:790
 msgid "Samut, the Tested"
@@ -1762,7 +1772,7 @@ msgstr ""
 
 #: ../../HOU.rst:795
 msgid ""
-"|mana_2| |mana_u| |mana_b|: Exile target creature card from a graveyard. "
+"|mana_2|\\ |mana_u|\\ |mana_b|: Exile target creature card from a graveyard. "
 "Create a token that's a copy of it, except it's a 4/4 black Zombie."
 msgstr ""
 
@@ -1782,7 +1792,8 @@ msgstr ""
 
 #: ../../HOU.rst:803
 msgid ""
-"|mana_1| |mana_b| |mana_r|: Put a -1/-1 counter on another target creature."
+"|mana_1|\\ |mana_b|\\ |mana_r|: Put a -1/-1 counter on another target "
+"creature."
 msgstr ""
 
 #: ../../HOU.rst:805
@@ -1797,12 +1808,13 @@ msgstr ""
 
 #: ../../HOU.rst:809
 msgid ""
-"|mana_1| |mana_w|: Target attacking Zombie gains lifelink until end of turn."
+"|mana_1|\\ |mana_w|: Target attacking Zombie gains lifelink until end of "
+"turn."
 msgstr ""
 
 #: ../../HOU.rst:811
 msgid ""
-"|mana_1| |mana_b|: Target attacking Zombie gains deathtouch until end of "
+"|mana_1|\\ |mana_b|: Target attacking Zombie gains deathtouch until end of "
 "turn."
 msgstr ""
 
@@ -2152,8 +2164,9 @@ msgid "|tap|: Add |mana_r|."
 msgstr "|tap|: Dostajesz |mana_r|."
 
 #: ../../HOU.rst:985
+#, fuzzy
 msgid ""
-"Cycling |mana_1| |mana_r| (|mana_1| |mana_r|, Discard this card: Draw a "
+"Cycling |mana_1|\\ |mana_r| (|mana_1|\\ |mana_r|, Discard this card: Draw a "
 "card.)"
 msgstr ""
 "Recykling |mana_1| |mana_r| (|mana_1| |mana_r|, odrzuć tę kartę: Dobierz "
@@ -2172,8 +2185,9 @@ msgid "|tap|: Add |mana_b|."
 msgstr "|tap|: Dostajesz |mana_b|."
 
 #: ../../HOU.rst:993
+#, fuzzy
 msgid ""
-"Cycling |mana_1| |mana_b| (|mana_1| |mana_b|, Discard this card: Draw a "
+"Cycling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Discard this card: Draw a "
 "card.)"
 msgstr ""
 "Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
@@ -2192,8 +2206,9 @@ msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../HOU.rst:1001
+#, fuzzy
 msgid ""
-"Cycling |mana_1| |mana_g| (|mana_1| |mana_g|, Discard this card: Draw a "
+"Cycling |mana_1|\\ |mana_g| (|mana_1|\\ |mana_g|, Discard this card: Draw a "
 "card.)"
 msgstr ""
 "Recykling |mana_1| |mana_g| (|mana_1| |mana_g|, odrzuć tę kartę: Dobierz "
@@ -2212,8 +2227,9 @@ msgid "|tap|: Add |mana_u|."
 msgstr "|tap|: Dostajesz |mana_u|."
 
 #: ../../HOU.rst:1009
+#, fuzzy
 msgid ""
-"Cycling |mana_1| |mana_u| (|mana_1| |mana_u|, Discard this card: Draw a "
+"Cycling |mana_1|\\ |mana_u| (|mana_1|\\ |mana_u|, Discard this card: Draw a "
 "card.)"
 msgstr ""
 "Recykling |mana_1| |mana_u| (|mana_1| |mana_u|, odrzuć tę kartę: Dobierz "
@@ -2232,8 +2248,9 @@ msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Dostajesz |mana_w|."
 
 #: ../../HOU.rst:1017
+#, fuzzy
 msgid ""
-"Cycling |mana_1| |mana_w| (|mana_1| |mana_w|, Discard this card: Draw a "
+"Cycling |mana_1|\\ |mana_w| (|mana_1|\\ |mana_w|, Discard this card: Draw a "
 "card.)"
 msgstr ""
 "Recykling |mana_1| |mana_w| (|mana_1| |mana_w|, odrzuć tę kartę: Dobierz "
@@ -2273,9 +2290,9 @@ msgstr ""
 
 #: ../../HOU.rst:1039
 msgid ""
-"|mana_1| |mana_g| |mana_g|, |tap|, Sacrifice a Desert: Target creature gets "
-"+3/+3 until end of turn. Activate this ability only any time you could cast "
-"a sorcery."
+"|mana_1|\\ |mana_g|\\ |mana_g|, |tap|, Sacrifice a Desert: Target creature "
+"gets +3/+3 until end of turn. Activate this ability only any time you could "
+"cast a sorcery."
 msgstr ""
 
 #: ../../HOU.rst:1046
@@ -2298,7 +2315,7 @@ msgstr ""
 
 #: ../../HOU.rst:1053
 msgid ""
-"|mana_2| |mana_b| |mana_b|, |tap|, Sacrifice a Desert: Put two -1/-1 "
+"|mana_2|\\ |mana_b|\\ |mana_b|, |tap|, Sacrifice a Desert: Put two -1/-1 "
 "counters on target creature an opponent controls. Activate this ability only "
 "any time you could cast a sorcery."
 msgstr ""
@@ -2313,7 +2330,7 @@ msgstr ""
 
 #: ../../HOU.rst:1061
 msgid ""
-"|mana_1| |mana_u|, |tap|, Sacrifice a Desert: Target player puts the top "
+"|mana_1|\\ |mana_u|, |tap|, Sacrifice a Desert: Target player puts the top "
 "four cards of their library into their graveyard."
 msgstr ""
 
@@ -2327,8 +2344,8 @@ msgstr ""
 
 #: ../../HOU.rst:1069
 msgid ""
-"|mana_2| |mana_r| |mana_r|, |tap|, Sacrifice a Desert: Ramunap Ruins deals 2 "
-"damage to each opponent."
+"|mana_2|\\ |mana_r|\\ |mana_r|, |tap|, Sacrifice a Desert: Ramunap Ruins "
+"deals 2 damage to each opponent."
 msgstr ""
 
 #: ../../HOU.rst:1076
@@ -2350,9 +2367,9 @@ msgstr ""
 
 #: ../../HOU.rst:1083
 msgid ""
-"|mana_2| |mana_w| |mana_w|, |tap|, Sacrifice a Desert: Creatures you control "
-"get +1/+1 until end of turn. Activate this ability only any time you could "
-"cast a sorcery."
+"|mana_2|\\ |mana_w|\\ |mana_w|, |tap|, Sacrifice a Desert: Creatures you "
+"control get +1/+1 until end of turn. Activate this ability only any time you "
+"could cast a sorcery."
 msgstr ""
 
 #: ../../HOU.rst:1090
@@ -2483,7 +2500,7 @@ msgstr ""
 
 #: ../../HOU.rst:1193
 msgid ""
-"|mana_4| |mana_r|: Zealot of the God-Pharaoh deals 2 damage to target "
+"|mana_4|\\ |mana_r|: Zealot of the God-Pharaoh deals 2 damage to target "
 "opponent or planeswalker."
 msgstr ""
 
