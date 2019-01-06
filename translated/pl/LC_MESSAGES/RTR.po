@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2019-01-06 14:29+0000\n"
+"PO-Revision-Date: 2019-01-06 15:39+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -290,7 +290,7 @@ msgid ""
 msgstr ""
 "Zaludnij. Stwory, którymi władasz zyskują niezniszczalność do końca tury. ("
 "By zaludnić, stwórz żeton stwora będący kopią władanego przez ciebie żetonu "
-"stwora. Obrażenia i efekty mówiące \\\"zniszcz\\\" nie niszczą stworów z "
+"stwora. Obrażenia i efekty mówiące \"zniszcz\" nie niszczą stworów z "
 "niezniszczalnością.)"
 
 #: ../../RTR.rst:166
@@ -318,8 +318,8 @@ msgid ""
 "Enchanted land has \"|tap|: Prevent the next 1 damage that would be dealt"
 " to you this turn.\""
 msgstr ""
-"Zauroczony ląd ma \\\"|tap|: Zażegnaj następnemu 1 obrażeniu, które "
-"mogłoby zostać ci zadane w tej turze.\\\""
+"Zauroczony ląd ma \"|tap|: Zażegnaj następnemu 1 obrażeniu, które mogłoby "
+"zostać ci zadane w tej turze.\""
 
 #: ../../RTR.rst:173
 #, fuzzy
@@ -1158,7 +1158,7 @@ msgstr "Underworld Connections"
 #: ../../RTR.rst:674
 #, fuzzy
 msgid "Enchanted land has \"|tap|, Pay 1 life: Draw a card.\""
-msgstr "Zauroczony ląd ma \\\"|tap|, zapłać 1 życie: Dobierz kartę.\\\""
+msgstr "Zauroczony ląd ma \"|tap|, zapłać 1 życie: Dobierz kartę.\""
 
 #: ../../RTR.rst:684
 #, fuzzy
@@ -1398,8 +1398,8 @@ msgid ""
 "Enchanted creature gets +2/+2 and has \"|mana_u|: This creature gains "
 "flying until end of turn.\""
 msgstr ""
-"Zauroczony stwór dostaje +2/+2 i ma \\\"|mana_u|: Ten stwór zyskuje "
-"latanie do końca tury.\\\""
+"Zauroczony stwór dostaje +2/+2 i ma \"|mana_u|: Ten stwór zyskuje latanie do "
+"końca tury.\""
 
 #: ../../RTR.rst:837
 #, fuzzy
@@ -1426,8 +1426,7 @@ msgid ""
 "Enchanted land has \"|tap|: Target creature gains haste until end of "
 "turn.\""
 msgstr ""
-"Zauroczony ląd ma \\\"|tap:| Wskazany stwór zyskuje pośpiech do końca "
-"tury.\\\""
+"Zauroczony ląd ma \"|tap:| Wskazany stwór zyskuje pośpiech do końca tury.\""
 
 #: ../../RTR.rst:855
 #, fuzzy
@@ -1866,8 +1865,8 @@ msgid ""
 "Enchanted land has \"Untap this land during each other player's untap "
 "step.\""
 msgstr ""
-"Zauroczony ląd ma \\\"Odtapuj ten ląd podczas kroku odtapowania każdego "
-"innego gracza.\\\""
+"Zauroczony ląd ma \"Odtapuj ten ląd podczas kroku odtapowania każdego innego "
+"gracza.\""
 
 #: ../../RTR.rst:1113
 #, fuzzy
@@ -2904,8 +2903,8 @@ msgid ""
 "−7: Create three 1/1 black Assassin creature tokens with \"Whenever this "
 "creature deals combat damage to a player, that player loses the game.\""
 msgstr ""
-"-7: Umieść na polu walki trzy żeton stwora Zabójca 1/1 mającego \\\"Ilekroć "
-"ten stwór zada graczowi obrażenia bitewne, ów gracz przegrywa grę.\\\""
+"-7: Umieść na polu walki trzy żeton stwora Zabójca 1/1 mającego \"Ilekroć "
+"ten stwór zada graczowi obrażenia bitewne, ów gracz przegrywa grę.\""
 
 #: ../../RTR.rst:1733
 msgid "Wayfaring Temple"
