@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2018-12-31 16:27+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -484,8 +484,8 @@ msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_w|\\ |mana_w|: Until end of turn, Resplendent "
 "Angel gets +2/+2 and gains lifelink."
 msgstr ""
-"|mana_3| |mana_w| |mana_w| |mana_w|: Do końca tury ten stwór dostaje +2/+2 "
-"oraz więź życia."
+"|mana_3|\\ |mana_w|\\ |mana_w|\\ |mana_w|: Do końca tury ten stwór dostaje +"
+"2/+2 oraz więź życia."
 
 #: ../../M19.rst:186
 #, fuzzy
@@ -597,7 +597,7 @@ msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_w|: Knights you control gain double strike until "
 "end of turn."
 msgstr ""
-"|mana_3| |mana_w| |mana_w|: Rycerze pod twoim władaniem zyskują podwójny "
+"|mana_3|\\ |mana_w|\\ |mana_w|: Rycerze pod twoim władaniem zyskują podwójny "
 "cios do końca tury."
 
 #: ../../M19.rst:228
@@ -684,7 +684,7 @@ msgid ""
 "|mana_3|\\ |mana_u|: Another target creature you control can't be blocked "
 "this turn except by Spirits."
 msgstr ""
-"|mana_3| |mana_u|: Inny wskazany stwór pod twoim władaniem nie może być "
+"|mana_3|\\ |mana_u|: Inny wskazany stwór pod twoim władaniem nie może być "
 "blokowany, chyba że przez Duchy."
 
 #: ../../M19.rst:264
@@ -719,9 +719,9 @@ msgid ""
 "Reveal the top card of your library. You may play that card without paying "
 "its mana cost. If you don't, exile it."
 msgstr ""
-"|mana_2| |mana_u| |mana_u|, usuń znacznik życzenia z tego stwora: Ujawnij "
-"wierzchnią kartę twojej biblioteki. Możesz zagrać ową kartę bez płacenia jej "
-"kosztu many. Jeśli tego nie zrobisz, wygnaj ją."
+"|mana_2|\\ |mana_u|\\ |mana_u|, usuń znacznik życzenia z tego stwora: "
+"Ujawnij wierzchnią kartę twojej biblioteki. Możesz zagrać ową kartę bez "
+"płacenia jej kosztu many. Jeśli tego nie zrobisz, wygnaj ją."
 
 #: ../../M19.rst:284
 #, fuzzy
@@ -768,7 +768,7 @@ msgid ""
 "|mana_5|\\ |mana_u|\\ |mana_u|: Frilled Sea Serpent can't be blocked this "
 "turn."
 msgstr ""
-"|mana_5| |mana_u| |mana_u|: Ten stwór nie może być blokowany w tej turze."
+"|mana_5|\\ |mana_u|\\ |mana_u|: Ten stwór nie może być blokowany w tej turze."
 
 #: ../../M19.rst:300
 #, fuzzy
@@ -849,7 +849,7 @@ msgstr "Mystic Archaeologist"
 #: ../../M19.rst:329
 #, fuzzy
 msgid "|mana_3|\\ |mana_u|\\ |mana_u|: Draw two cards."
-msgstr "|mana_3| |mana_u| |mana_u|: Dobierz dwie karty."
+msgstr "|mana_3|\\ |mana_u|\\ |mana_u|: Dobierz dwie karty."
 
 #: ../../M19.rst:334
 #, fuzzy
@@ -929,7 +929,7 @@ msgstr ""
 #: ../../M19.rst:355
 #, fuzzy
 msgid "|mana_1|\\ |mana_u|, Sacrifice two artifacts: Draw a card."
-msgstr "|mana_1| |mana_u|, poświęć dwa artefakty: Dobierz kartę."
+msgstr "|mana_1|\\ |mana_u|, poświęć dwa artefakty: Dobierz kartę."
 
 #: ../../M19.rst:360
 #, fuzzy
@@ -1027,7 +1027,7 @@ msgstr ""
 #: ../../M19.rst:393
 #, fuzzy
 msgid "|mana_1|\\ |mana_u|: Surge Mare gets +2/-2 until end of turn."
-msgstr "|mana_1| |mana_u|: Ten stwór dostaje +2/-2 do końca tury."
+msgstr "|mana_1|\\ |mana_u|: Ten stwór dostaje +2/-2 do końca tury."
 
 #: ../../M19.rst:398
 msgid "Switcheroo"
@@ -1142,8 +1142,8 @@ msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_b|, Exile seven other cards from your graveyard: "
 "Return Bone Dragon from your graveyard to the battlefield tapped."
 msgstr ""
-"|mana_3| |mana_b| |mana_b|, wygnaj siedem innych kart z twojego cmentarza: "
-"Przywróć tę kartę z twojego cmentarza na pole walki, zatapowaną."
+"|mana_3|\\ |mana_b|\\ |mana_b|, wygnaj siedem innych kart z twojego "
+"cmentarza: Przywróć tę kartę z twojego cmentarza na pole walki, zatapowaną."
 
 #: ../../M19.rst:454
 msgid "Child of Night"
@@ -1262,7 +1262,7 @@ msgid ""
 "|mana_2|\\ |mana_b|, Exile a creature card from your graveyard: Create a "
 "tapped 2/2 black Zombie creature token."
 msgstr ""
-"|mana_2| |mana_b|, wygnaj kartę stwora z twojego cmentarza: Stwórz "
+"|mana_2|\\ |mana_b|, wygnaj kartę stwora z twojego cmentarza: Stwórz "
 "zatapowany żeton czarnego stwora Zombie 2/2."
 
 #: ../../M19.rst:504
@@ -1500,7 +1500,7 @@ msgid ""
 "|mana_1|\\ |mana_b|: Return Reassembling Skeleton from your graveyard to the "
 "battlefield tapped."
 msgstr ""
-"|mana_1| |mana_b|: Przywróć tę kartę z twojego cmentarza na pole walki, "
+"|mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole walki, "
 "zatapowaną."
 
 #: ../../M19.rst:590
@@ -1692,7 +1692,7 @@ msgstr "Catalyst Elemental"
 #: ../../M19.rst:659
 #, fuzzy
 msgid "Sacrifice Catalyst Elemental: Add |mana_r|\\ |mana_r|."
-msgstr "Poświęć tego stwora: Dostajesz |mana_r| |mana_r|."
+msgstr "Poświęć tego stwora: Dostajesz |mana_r|\\ |mana_r|."
 
 #: ../../M19.rst:666
 #, fuzzy
@@ -1753,7 +1753,7 @@ msgid ""
 "|mana_2|\\ |mana_r|, |tap|, Sacrifice Dismissive Pyromancer: It deals 4 "
 "damage to target creature."
 msgstr ""
-"|mana_2| |mana_r|, |tap|, poświęć tego stwora: Zadaje on 4 obrażenia "
+"|mana_2|\\ |mana_r|, |tap|, poświęć tego stwora: Zadaje on 4 obrażenia "
 "wskazanemu stworowi."
 
 #: ../../M19.rst:686
@@ -1911,7 +1911,7 @@ msgstr ""
 #, fuzzy
 msgid "|mana_1|\\ |mana_r|: Dragons you control get +1/+0 until end of turn."
 msgstr ""
-"|mana_1| |mana_r|: Smoki pod twoim władaniem dostają +1/+0 do końca tury."
+"|mana_1|\\ |mana_r|: Smoki pod twoim władaniem dostają +1/+0 do końca tury."
 
 #: ../../M19.rst:748
 #, fuzzy
@@ -1938,7 +1938,7 @@ msgstr "Ten stwór nie może być blokowany przez niebieskie stwory."
 #: ../../M19.rst:755
 #, fuzzy
 msgid "|mana_1|\\ |mana_r|: Lightning Mare gets +1/+0 until end of turn."
-msgstr "|mana_1| |mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../M19.rst:760
 #, fuzzy
@@ -2014,7 +2014,7 @@ msgstr "Siegebreaker Giant"
 #: ../../M19.rst:787
 #, fuzzy
 msgid "|mana_3|\\ |mana_r|: Target creature can't block this turn."
-msgstr "|mana_3| |mana_r|: Wskazany stwór nie może blokować w tej turze."
+msgstr "|mana_3|\\ |mana_r|: Wskazany stwór nie może blokować w tej turze."
 
 #: ../../M19.rst:792
 #, fuzzy
@@ -2036,7 +2036,7 @@ msgid ""
 "When Sparktongue Dragon enters the battlefield, you may pay |mana_2|\\ |"
 "mana_r|. When you do, it deals 3 damage to any target."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, możesz zapłacić |mana_2| |mana_r|. "
+"Kiedy ta karta wejdzie na pole walki, możesz zapłacić |mana_2|\\ |mana_r|. "
 "Kiedy to zrobisz, zadaje on 3 obrażenia w dowolny cel."
 
 #: ../../M19.rst:804
@@ -2252,7 +2252,7 @@ msgid ""
 "|mana_4|\\ |mana_g|\\ |mana_g|, |tap|: Search your library for a card named "
 "Elvish Clancaller, put it onto the battlefield, then shuffle your library."
 msgstr ""
-"|mana_4| |mana_g| |mana_g|, |tap|: Poszukaj w twojej bibliotece kartę o "
+"|mana_4|\\ |mana_g|\\ |mana_g|, |tap|: Poszukaj w twojej bibliotece kartę o "
 "nazwie Elvish Clancaller, umieść ją na polu walki, następnie przetasuj twoją "
 "bibliotekę."
 
@@ -2293,7 +2293,7 @@ msgid ""
 "|mana_2|\\ |mana_g|: Target creature you control can't be blocked by "
 "creatures with power 2 or less this turn."
 msgstr ""
-"|mana_2| |mana_g|: Wskazany stwór pod twoim władaniem nie może być w tej "
+"|mana_2|\\ |mana_g|: Wskazany stwór pod twoim władaniem nie może być w tej "
 "turze blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../M19.rst:908
@@ -2531,7 +2531,7 @@ msgid ""
 "|mana_2|\\ |mana_g|: Return Talons of Wildwood from your graveyard to your "
 "hand."
 msgstr ""
-"|mana_2| |mana_g|: Przywróć tę kartę z twojego cmentarza do twojej ręki."
+"|mana_2|\\ |mana_g|: Przywróć tę kartę z twojego cmentarza do twojej ręki."
 
 #: ../../M19.rst:1012
 #, fuzzy
@@ -2549,7 +2549,7 @@ msgstr ""
 #: ../../M19.rst:1011
 #, fuzzy
 msgid "|mana_5|\\ |mana_g|: Thorn Lieutenant gets +4/+4 until end of turn."
-msgstr "|mana_5| |mana_g|: Ten stwór dostaje +4/+4 do końca tury."
+msgstr "|mana_5|\\ |mana_g|: Ten stwór dostaje +4/+4 do końca tury."
 
 #: ../../M19.rst:1014
 #, fuzzy
@@ -2766,8 +2766,8 @@ msgid ""
 "then return him to the battlefield transformed under his owner's control. "
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
-"|mana_4| |mana_u| |mana_b| |mana_r|: Wygnaj ten permanent i przywróć go "
-"transformowany na pole walki pod władaniem jego właściciela. Aktywuj tę "
+"|mana_4|\\ |mana_u|\\ |mana_b|\\ |mana_r|: Wygnaj ten permanent i przywróć "
+"go transformowany na pole walki pod władaniem jego właściciela. Aktywuj tę "
 "zdolność tylko wtedy, gdy możesz rzucić obrzęd."
 
 #: ../../M19.rst:1110
@@ -2868,8 +2868,8 @@ msgid ""
 "When you do, put a +1/+1 counter on another target creature you control, and "
 "that creature gains flying until end of turn."
 msgstr ""
-"Na początku walki w twojej turze możesz zapłacić |mana_g| |mana_u|. Kiedy to "
-"zrobisz, umieść znacznik +1/+1 na innym wskazanym stworze pod twoim "
+"Na początku walki w twojej turze możesz zapłacić |mana_g|\\ |mana_u|. Kiedy "
+"to zrobisz, umieść znacznik +1/+1 na innym wskazanym stworze pod twoim "
 "władaniem i ów stwór zyskuje latanie do końca tury."
 
 #: ../../M19.rst:1152
@@ -3502,8 +3502,8 @@ msgid ""
 "|mana_5|\\ |mana_u|, |tap|, Sacrifice Tezzeret's Gatebreaker: Creatures you "
 "control can't be blocked this turn."
 msgstr ""
-"|mana_5| |mana_u|, |tap|, poświęć ten permanent: Stwory pod twoim władaniem "
-"nie mogą być blokowane w tej turze."
+"|mana_5|\\ |mana_u|, |tap|, poświęć ten permanent: Stwory pod twoim "
+"władaniem nie mogą być blokowane w tej turze."
 
 #: ../../M19.rst:1490
 #, fuzzy
@@ -3563,7 +3563,7 @@ msgid ""
 "|mana_5|\\ |mana_b|\\ |mana_b|: Return target creature card from your "
 "graveyard to the battlefield tapped."
 msgstr ""
-"|mana_5| |mana_b| |mana_b|: Przywróć wskazaną kartę stwora z twojego "
+"|mana_5|\\ |mana_b|\\ |mana_b|: Przywróć wskazaną kartę stwora z twojego "
 "cmentarza na pole walki, zatapowaną."
 
 #: ../../M19.rst:1514
@@ -3731,7 +3731,7 @@ msgid ""
 "|mana_5|\\ |mana_g|: Ursine Champion gets +3/+3 and becomes a Bear Berserker "
 "until end of turn. Activate this ability only once each turn."
 msgstr ""
-"|mana_5| |mana_g|: Ten stwór do końca tury dostaje +3/+3 i staje się "
+"|mana_5|\\ |mana_g|: Ten stwór do końca tury dostaje +3/+3 i staje się "
 "Niedźwiedziem Berserkerem. Aktywuj tę zdolność tylko raz w każdej turze."
 
 #: ../../M19.rst:1576
@@ -3745,7 +3745,7 @@ msgid ""
 "|mana_2|\\ |mana_g|: Return Vivien's Jaguar from your graveyard to your "
 "hand. Activate this ability only if you control a Vivien planeswalker."
 msgstr ""
-"|mana_2| |mana_g|: Przywróć tę kartę z twojego cmentarza do twojej ręki. "
+"|mana_2|\\ |mana_g|: Przywróć tę kartę z twojego cmentarza do twojej ręki. "
 "Aktywuj tę zdolność tylko jeśli władasz wędrowcem typu Vivien."
 
 #: ../../M19.rst:1582
