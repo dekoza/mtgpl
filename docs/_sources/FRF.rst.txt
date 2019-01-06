@@ -56,7 +56,7 @@ Daghatar the Adamant
 
    Daghatar the Adamant enters the battlefield with four +1/+1 counters on it.
 
-   |mana_1| |mana_bg| |mana_bg|: Move a +1/+1 counter from target creature onto a second target creature.
+   |mana_1|\ |mana_bg|\ |mana_bg|: Move a +1/+1 counter from target creature onto a second target creature.
 
 
 Dragon Bell Monk
@@ -110,7 +110,7 @@ Mardu Woe-Reaper
 Mastery of the Unseen
    Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.
 
-   |mana_3| |mana_w|: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
+   |mana_3|\ |mana_w|: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
 
 
 Monastery Mentor
@@ -158,7 +158,7 @@ Soulfire Grand Master
 
    Instant and sorcery spells you control have lifelink.
 
-   |mana_2| |mana_ur| |mana_ur|: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves.
+   |mana_2|\ |mana_ur|\ |mana_ur|: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves.
 
 
 Valorous Stance
@@ -282,7 +282,7 @@ Refocus
 
 
 Renowned Weaponsmith
-   |tap|: Add |colorless| |colorless|. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+   |tap|: Add |colorless|\ |colorless|. Spend this mana only to cast artifact spells or activate abilities of artifacts.
 
    |mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library.
 
@@ -306,7 +306,7 @@ Shifting Loyalties
 Shu Yun, the Silent Tempest
    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 
-   Whenever you cast a noncreature spell, you may pay |mana_rw| |mana_rw|. If you do, target creature gains double strike until end of turn.
+   Whenever you cast a noncreature spell, you may pay |mana_rw|\ |mana_rw|. If you do, target creature gains double strike until end of turn.
 
 
 Sultai Skullkeeper
@@ -328,7 +328,7 @@ Torrent Elemental
 
    Whenever Torrent Elemental attacks, tap all creatures defending player controls.
 
-   |mana_3| |mana_bg| |mana_bg|: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery.
+   |mana_3|\ |mana_bg|\ |mana_bg|: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery.
 
 
 Whisk Away
@@ -346,7 +346,7 @@ Write into Being
 
 
 Alesha's Vanguard
-   Dash |mana_2| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_2|\ |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Ancestral Vengeance
@@ -370,7 +370,7 @@ Battle Brawler
 Brutal Hordechief
    Whenever a creature you control attacks, defending player loses 1 life and you gain 1 life.
 
-   |mana_3| |mana_rw| |mana_rw|: Creatures your opponents control block this turn if able, and you choose how those creatures block.
+   |mana_3|\ |mana_rw|\ |mana_rw|: Creatures your opponents control block this turn if able, and you choose how those creatures block.
 
 
 Crux of Fate
@@ -420,13 +420,13 @@ Hooded Assassin
 Mardu Shadowspear
    Whenever Mardu Shadowspear attacks, each opponent loses 1 life.
 
-   Dash |mana_1| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_1|\ |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Mardu Strike Leader
    Whenever Mardu Strike Leader attacks, create a 2/1 black Warrior creature token.
 
-   Dash |mana_3| |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_3|\ |mana_b| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Merciless Executioner
@@ -452,7 +452,7 @@ Palace Siege
 
 
 Qarsi High Priest
-   |mana_1| |mana_b|, |tap|, Sacrifice another creature: Manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
+   |mana_1|\ |mana_b|, |tap|, Sacrifice another creature: Manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)
 
 
 Reach of Shadows
@@ -490,7 +490,7 @@ Sultai Runemark
 Tasigur, the Golden Fang
    Delve (Each card you exile from your graveyard while casting this spell pays for |mana_1|.)
 
-   |mana_2| |mana_gu| |mana_gu|: Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand.
+   |mana_2|\ |mana_gu|\ |mana_gu|: Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand.
 
 
 Tasigur's Cruelty
@@ -506,7 +506,7 @@ Typhoid Rats
 Alesha, Who Smiles at Death
    First strike
 
-   Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb| |mana_wb|. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.
+   Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb|\ |mana_wb|. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.
 
 
 Arcbond
@@ -550,7 +550,7 @@ Fierce Invocation
 Flamerush Rider
    Whenever Flamerush Rider attacks, create a token that's a copy of another target attacking creature and that's tapped and attacking. Exile the token at end of combat.
 
-   Dash |mana_2| |mana_r| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_2|\ |mana_r|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Flamewake Phoenix
@@ -568,7 +568,7 @@ Friendly Fire
 Goblin Heelcutter
    Whenever Goblin Heelcutter attacks, target creature can't block this turn.
 
-   Dash |mana_2| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_2|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Gore Swine
@@ -598,7 +598,7 @@ Mardu Runemark
 
 
 Mardu Scout
-   Dash |mana_1| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_1|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Mob Rule
@@ -632,7 +632,7 @@ Shaman of the Great Hunt
 
    Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on it.
 
-   Ferocious — |mana_2| |mana_gu| |mana_gu|: Draw a card for each creature you control with power 4 or greater.
+   Ferocious — |mana_2|\ |mana_gu|\ |mana_gu|: Draw a card for each creature you control with power 4 or greater.
 
 
 Shockmaw Dragon
@@ -654,7 +654,7 @@ Temur Battle Rage
 Vaultbreaker
    Whenever Vaultbreaker attacks, you may discard a card. If you do, draw a card.
 
-   Dash |mana_2| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_2|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Wild Slash
@@ -726,7 +726,7 @@ Frontier Mastodon
 Frontier Siege
    As Frontier Siege enters the battlefield, choose Khans or Dragons.
 
-   • Khans — At the beginning of each of your main phases, add |mana_g| |mana_g|.
+   • Khans — At the beginning of each of your main phases, add |mana_g|\ |mana_g|.
 
    • Dragons — Whenever a creature with flying enters the battlefield under your control, you may have it fight target creature you don't control.
 
@@ -782,7 +782,7 @@ Temur Runemark
 
 
 Temur Sabertooth
-   |mana_1| |mana_g|: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn.
+   |mana_1|\ |mana_g|: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn.
 
 
 Temur War Shaman
@@ -792,17 +792,17 @@ Temur War Shaman
 
 
 Warden of the First Tree
-   |mana_1| |mana_wb|: Warden of the First Tree becomes a Human Warrior with base power and toughness 3/3.
+   |mana_1|\ |mana_wb|: Warden of the First Tree becomes a Human Warrior with base power and toughness 3/3.
 
-   |mana_2| |mana_wb| |mana_wb|: If Warden of the First Tree is a Warrior, it becomes a Human Spirit Warrior with trample and lifelink.
+   |mana_2|\ |mana_wb|\ |mana_wb|: If Warden of the First Tree is a Warrior, it becomes a Human Spirit Warrior with trample and lifelink.
 
-   |mana_3| |mana_wb| |mana_wb| |mana_wb|: If Warden of the First Tree is a Spirit, put five +1/+1 counters on it.
+   |mana_3|\ |mana_wb|\ |mana_wb|\ |mana_wb|: If Warden of the First Tree is a Spirit, put five +1/+1 counters on it.
 
 
 Whisperer of the Wilds
    |tap|: Add |mana_g|.
 
-   Ferocious — |tap|: Add |mana_g| |mana_g|. Activate this ability only if you control a creature with power 4 or greater.
+   Ferocious — |tap|: Add |mana_g|\ |mana_g|. Activate this ability only if you control a creature with power 4 or greater.
 
 
 Whisperwood Elemental
@@ -824,7 +824,7 @@ Winds of Qal Sisma
 Yasova Dragonclaw
    Trample
 
-   At the beginning of combat on your turn, you may pay |mana_1| |mana_ur| |mana_ur|. If you do, gain control of target creature an opponent controls with power less than Yasova Dragonclaw's power until end of turn, untap that creature, and it gains haste until end of turn.
+   At the beginning of combat on your turn, you may pay |mana_1|\ |mana_ur|\ |mana_ur|. If you do, gain control of target creature an opponent controls with power less than Yasova Dragonclaw's power until end of turn, untap that creature, and it gains haste until end of turn.
 
 
 Atarka, World Render
@@ -862,7 +862,7 @@ Kolaghan, the Storm's Fury
 
    Whenever a Dragon you control attacks, creatures you control get +1/+0 until end of turn.
 
-   Dash |mana_3| |mana_b| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_3|\ |mana_b|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Ojutai, Soul of Winter

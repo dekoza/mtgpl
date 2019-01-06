@@ -10,7 +10,7 @@ Angel of Sanctions
 
    When Angel of Sanctions enters the battlefield, you may exile target nonland permanent an opponent controls until Angel of Sanctions leaves the battlefield.
 
-   Embalm |mana_5| |mana_w| (|mana_5| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Angel with no mana cost. Embalm only as a sorcery.)
+   Embalm |mana_5|\ |mana_w| (|mana_5|\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Angel with no mana cost. Embalm only as a sorcery.)
 
 
 Anointed Procession
@@ -20,7 +20,7 @@ Anointed Procession
 Anointer Priest
    Whenever a creature token enters the battlefield under your control, you gain 1 life.
 
-   Embalm |mana_3| |mana_w| (|mana_3| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)
+   Embalm |mana_3|\ |mana_w| (|mana_3|\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)
 
 
 Approach of the Second Sun
@@ -124,7 +124,7 @@ Oketra the True
 
    Oketra the True can't attack or block unless you control at least three other creatures.
 
-   |mana_3| |mana_w|: Create a 1/1 white Warrior creature token with vigilance.
+   |mana_3|\ |mana_w|: Create a 1/1 white Warrior creature token with vigilance.
 
 
 Oketra's Attendant
@@ -132,7 +132,7 @@ Oketra's Attendant
 
    Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)
 
-   Embalm |mana_3| |mana_w| |mana_w| (|mana_3| |mana_w| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Soldier with no mana cost. Embalm only as a sorcery.)
+   Embalm |mana_3|\ |mana_w|\ |mana_w| (|mana_3|\ |mana_w|\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Soldier with no mana cost. Embalm only as a sorcery.)
 
 
 Protection of the Hekma
@@ -148,7 +148,7 @@ Regal Caracal
 Renewed Faith
    You gain 6 life.
 
-   Cycling |mana_1| |mana_w| (|mana_1| |mana_w|, Discard this card: Draw a card.)
+   Cycling |mana_1|\ |mana_w| (|mana_1|\ |mana_w|, Discard this card: Draw a card.)
 
    When you cycle Renewed Faith, you may gain 2 life.
 
@@ -200,13 +200,13 @@ Trial of Solidarity
 Trueheart Duelist
    Trueheart Duelist can block an additional creature each combat.
 
-   Embalm |mana_2| |mana_w| (|mana_2| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Warrior with no mana cost. Embalm only as a sorcery.)
+   Embalm |mana_2|\ |mana_w| (|mana_2|\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Warrior with no mana cost. Embalm only as a sorcery.)
 
 
 Unwavering Initiate
    Vigilance
 
-   Embalm |mana_4| |mana_w| (|mana_4| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Warrior with no mana cost. Embalm only as a sorcery.)
+   Embalm |mana_4|\ |mana_w| (|mana_4|\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Warrior with no mana cost. Embalm only as a sorcery.)
 
 
 Vizier of Deferment
@@ -244,7 +244,7 @@ As Foretold
 Aven Initiate
    Flying
 
-   Embalm |mana_6| |mana_u| (|mana_6| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)
+   Embalm |mana_6|\ |mana_u| (|mana_6|\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)
 
 
 Cancel
@@ -312,7 +312,7 @@ Glyph Keeper
 
    Whenever Glyph Keeper becomes the target of a spell or ability for the first time each turn, counter that spell or ability.
 
-   Embalm |mana_5| |mana_u| |mana_u| (|mana_5| |mana_u| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Sphinx with no mana cost. Embalm only as a sorcery.)
+   Embalm |mana_5|\ |mana_u|\ |mana_u| (|mana_5|\ |mana_u|\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Sphinx with no mana cost. Embalm only as a sorcery.)
 
 
 Hekma Sentinels
@@ -336,13 +336,13 @@ Kefnet the Mindful
 
    Kefnet the Mindful can't attack or block unless you have seven or more cards in hand.
 
-   |mana_3| |mana_u|: Draw a card, then you may return a land you control to its owner's hand.
+   |mana_3|\ |mana_u|: Draw a card, then you may return a land you control to its owner's hand.
 
 
 Labyrinth Guardian
    When Labyrinth Guardian becomes the target of a spell, sacrifice it.
 
-   Embalm |mana_3| |mana_u| (|mana_3| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Illusion Warrior with no mana cost. Embalm only as a sorcery.)
+   Embalm |mana_3|\ |mana_u| (|mana_3|\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Illusion Warrior with no mana cost. Embalm only as a sorcery.)
 
 
 Lay Claim
@@ -400,7 +400,7 @@ Slither Blade
 
 
 Tah-Crop Skirmisher
-   Embalm |mana_3| |mana_u| (|mana_3| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Naga Warrior with no mana cost. Embalm only as a sorcery.)
+   Embalm |mana_3|\ |mana_u| (|mana_3|\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Naga Warrior with no mana cost. Embalm only as a sorcery.)
 
 
 Trial of Knowledge
@@ -412,13 +412,13 @@ Trial of Knowledge
 Vizier of Many Faces
    You may have Vizier of Many Faces enter the battlefield as a copy of any creature on the battlefield, except if Vizier of Many Faces was embalmed, the token has no mana cost, it's white, and it's a Zombie in addition to its other types.
 
-   Embalm |mana_3| |mana_u| |mana_u|
+   Embalm |mana_3|\ |mana_u|\ |mana_u|
 
 
 Vizier of Tumbling Sands
    |tap|: Untap another target permanent.
 
-   Cycling |mana_1| |mana_u| (|mana_1| |mana_u|, Discard this card: Draw a card.)
+   Cycling |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Discard this card: Draw a card.)
 
    When you cycle Vizier of Tumbling Sands, untap target permanent.
 
@@ -464,7 +464,7 @@ Bontu the Glorified
 
    Bontu the Glorified can't attack or block unless a creature died under your control this turn.
 
-   |mana_1| |mana_b|, Sacrifice another creature: Scry 1. Each opponent loses 1 life and you gain 1 life.
+   |mana_1|\ |mana_b|, Sacrifice another creature: Scry 1. Each opponent loses 1 life and you gain 1 life.
 
 
 Cartouche of Ambition
@@ -496,7 +496,7 @@ Doomed Dissenter
 Dread Wanderer
    Dread Wanderer enters the battlefield tapped.
 
-   |mana_2| |mana_b|: Return Dread Wanderer from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery and only if you have one or fewer cards in hand.
+   |mana_2|\ |mana_b|: Return Dread Wanderer from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery and only if you have one or fewer cards in hand.
 
 
 Dune Beetle
@@ -550,7 +550,7 @@ Liliana's Mastery
 Lord of the Accursed
    Other Zombies you control get +1/+1.
 
-   |mana_1| |mana_b|, |tap|: All Zombies gain menace until end of turn.
+   |mana_1|\ |mana_b|, |tap|: All Zombies gain menace until end of turn.
 
 
 Miasmic Mummy
@@ -604,7 +604,7 @@ Splendid Agony
 Stir the Sands
    Create three 2/2 black Zombie creature tokens.
 
-   Cycling |mana_3| |mana_b| (|mana_3| |mana_b|, Discard this card: Draw a card.)
+   Cycling |mana_3|\ |mana_b| (|mana_3|\ |mana_b|, Discard this card: Draw a card.)
 
    When you cycle Stir the Sands, create a 2/2 black Zombie creature token.
 
@@ -696,7 +696,7 @@ Consuming Fervor
 Deem Worthy
    Deem Worthy deals 7 damage to target creature.
 
-   Cycling |mana_3| |mana_r| (|mana_3| |mana_r|, Discard this card: Draw a card.)
+   Cycling |mana_3|\ |mana_r| (|mana_3|\ |mana_r|, Discard this card: Draw a card.)
 
    When you cycle Deem Worthy, you may have it deal 2 damage to target creature.
 
@@ -746,7 +746,7 @@ Hazoret the Fervent
 
    Hazoret the Fervent can't attack or block unless you have one or fewer cards in hand.
 
-   |mana_2| |mana_r|, Discard a card: Hazoret deals 2 damage to each opponent.
+   |mana_2|\ |mana_r|, Discard a card: Hazoret deals 2 damage to each opponent.
 
 
 Hazoret's Favor
@@ -756,7 +756,7 @@ Hazoret's Favor
 Heart-Piercer Manticore
    When Heart-Piercer Manticore enters the battlefield, you may sacrifice another creature. When you do, Heart-Piercer Manticore deals damage equal to that creature's power to any target.
 
-   Embalm |mana_5| |mana_r| (|mana_5| |mana_r|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Manticore with no mana cost. Embalm only as a sorcery.)
+   Embalm |mana_5|\ |mana_r| (|mana_5|\ |mana_r|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Manticore with no mana cost. Embalm only as a sorcery.)
 
 
 Hyena Pack
@@ -780,7 +780,7 @@ Manticore of the Gauntlet
 Minotaur Sureshot
    Reach (This creature can block creatures with flying.)
 
-   |mana_1| |mana_r|: Minotaur Sureshot gets +1/+0 until end of turn.
+   |mana_1|\ |mana_r|: Minotaur Sureshot gets +1/+0 until end of turn.
 
 
 Nef-Crop Entangler
@@ -936,7 +936,7 @@ Haze of Pollen
 Honored Hydra
    Trample
 
-   Embalm |mana_3| |mana_g| (|mana_3| |mana_g|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Snake Hydra with no mana cost. Embalm only as a sorcery.)
+   Embalm |mana_3|\ |mana_g| (|mana_3|\ |mana_g|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Snake Hydra with no mana cost. Embalm only as a sorcery.)
 
 
 Hooded Brawler
@@ -958,7 +958,7 @@ Naga Vitalist
 
 
 Oashra Cultivator
-   |mana_2| |mana_g|, |tap|, Sacrifice Oashra Cultivator: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+   |mana_2|\ |mana_g|, |tap|, Sacrifice Oashra Cultivator: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
 
 
 Ornery Kudu
@@ -984,7 +984,7 @@ Rhonas the Indomitable
 
    Rhonas the Indomitable can't attack or block unless you control another creature with power 4 or greater.
 
-   |mana_2| |mana_g|: Another target creature gets +2/+0 and gains trample until end of turn.
+   |mana_2|\ |mana_g|: Another target creature gets +2/+0 and gains trample until end of turn.
 
 
 Sandwurm Convergence
@@ -1002,7 +1002,7 @@ Shed Weakness
 
 
 Shefet Monitor
-   Cycling |mana_3| |mana_g| (|mana_3| |mana_g|, Discard this card: Draw a card.)
+   Cycling |mana_3|\ |mana_g| (|mana_3|\ |mana_g|, Discard this card: Draw a card.)
 
    When you cycle Shefet Monitor, you may search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle your library. (Do this before you draw.)
 
@@ -1054,11 +1054,11 @@ Aven Wind Guide
 
    Creature tokens you control have flying and vigilance.
 
-   Embalm |mana_4| |mana_w| |mana_u| (|mana_4| |mana_w| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)
+   Embalm |mana_4|\ |mana_w|\ |mana_u| (|mana_4|\ |mana_w|\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)
 
 
 Bounty of the Luxa
-   At the beginning of your precombat main phase, remove all flood counters from Bounty of the Luxa. If no counters were removed this way, put a flood counter on Bounty of the Luxa and draw a card. Otherwise, add |colorless| |mana_g| |mana_u|.
+   At the beginning of your precombat main phase, remove all flood counters from Bounty of the Luxa. If no counters were removed this way, put a flood counter on Bounty of the Luxa and draw a card. Otherwise, add |colorless|\ |mana_g|\ |mana_u|.
 
 
 Decimator Beetle
@@ -1130,7 +1130,7 @@ Shadowstorm Vizier
 Temmet, Vizier of Naktamun
    At the beginning of combat on your turn, target creature token you control gets +1/+1 until end of turn and can't be blocked this turn.
 
-   Embalm |mana_3| |mana_w| |mana_u| (|mana_3| |mana_w| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)
+   Embalm |mana_3|\ |mana_w|\ |mana_u| (|mana_3|\ |mana_w|\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)
 
 
 Wayward Servant
@@ -1138,7 +1138,7 @@ Wayward Servant
 
 
 Weaver of Currents
-   |tap|: Add |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|.
 
 
 Dusk
@@ -1540,7 +1540,7 @@ Gideon, Martial Paragon
 Companion of the Trials
    Flying
 
-   |mana_1| |mana_w|: Untap target creature. Activate this ability only if you control a Gideon planeswalker.
+   |mana_1|\ |mana_w|: Untap target creature. Activate this ability only if you control a Gideon planeswalker.
 
 
 Gideon's Resolve
@@ -1568,7 +1568,7 @@ Liliana, Death Wielder
 
 
 Desiccated Naga
-   |mana_3| |mana_b|: Target opponent loses 2 life and you gain 2 life. Activate this ability only if you control a Liliana planeswalker.
+   |mana_3|\ |mana_b|: Target opponent loses 2 life and you gain 2 life. Activate this ability only if you control a Liliana planeswalker.
 
 
 Liliana's Influence

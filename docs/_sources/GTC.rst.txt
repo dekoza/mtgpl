@@ -142,7 +142,7 @@ Urbis Protector
 
 
 Zarichi Tiger
-   |mana_1| |mana_w|, |tap|: You gain 2 life.
+   |mana_1|\ |mana_w|, |tap|: You gain 2 life.
 
 
 Aetherize
@@ -154,7 +154,7 @@ Agoraphobia
 
    Enchanted creature gets -5/-0.
 
-   |mana_2| |mana_u|: Return Agoraphobia to its owner's hand.
+   |mana_2|\ |mana_u|: Return Agoraphobia to its owner's hand.
 
 
 Clinging Anemones
@@ -180,7 +180,7 @@ Enter the Infinite
 
 
 Frilled Oculus
-   |mana_1| |mana_g|: Frilled Oculus gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Frilled Oculus gets +2/+2 until end of turn. Activate this ability only once each turn.
 
 
 Gridlock
@@ -254,7 +254,7 @@ Scatter Arc
 Simic Fluxmage
    Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)
 
-   |mana_1| |mana_u|, |tap|: Move a +1/+1 counter from Simic Fluxmage onto target creature.
+   |mana_1|\ |mana_u|, |tap|: Move a +1/+1 counter from Simic Fluxmage onto target creature.
 
 
 Simic Manipulator
@@ -454,7 +454,7 @@ Bomber Corps
 
 
 Cinder Elemental
-   |mana_x| |mana_r|, |tap|, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to any target.
+   |mana_x|\ |mana_r|, |tap|, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to any target.
 
 
 Crackling Perimeter
@@ -534,7 +534,7 @@ Ripscale Predator
 
 
 Scorchwalker
-   Bloodrush — |mana_1| |mana_r| |mana_r|, Discard Scorchwalker: Target attacking creature gets +5/+1 until end of turn.
+   Bloodrush — |mana_1|\ |mana_r|\ |mana_r|, Discard Scorchwalker: Target attacking creature gets +5/+1 until end of turn.
 
 
 Skinbrand Goblin
@@ -562,7 +562,7 @@ Towering Thunderfist
 Viashino Shanktail
    First strike
 
-   Bloodrush — |mana_2| |mana_r|, Discard Viashino Shanktail: Target attacking creature gets +3/+1 and gains first strike until end of turn.
+   Bloodrush — |mana_2|\ |mana_r|, Discard Viashino Shanktail: Target attacking creature gets +3/+1 and gains first strike until end of turn.
 
 
 Warmind Infantry
@@ -572,7 +572,7 @@ Warmind Infantry
 Wrecking Ogre
    Double strike
 
-   Bloodrush — |mana_3| |mana_r| |mana_r|, Discard Wrecking Ogre: Target attacking creature gets +3/+3 and gains double strike until end of turn.
+   Bloodrush — |mana_3|\ |mana_r|\ |mana_r|, Discard Wrecking Ogre: Target attacking creature gets +3/+3 and gains double strike until end of turn.
 
 
 Adaptive Snapjaw
@@ -650,7 +650,7 @@ Naturalize
 
 
 Ooze Flux
-   |mana_1| |mana_g|, Remove one or more +1/+1 counters from among creatures you control: Create an X/X green Ooze creature token, where X is the number of +1/+1 counters removed this way.
+   |mana_1|\ |mana_g|, Remove one or more +1/+1 counters from among creatures you control: Create an X/X green Ooze creature token, where X is the number of +1/+1 counters removed this way.
 
 
 Predator's Rapport
@@ -662,7 +662,7 @@ Rust Scarab
 
 
 Scab-Clan Charger
-   Bloodrush — |mana_1| |mana_g|, Discard Scab-Clan Charger: Target attacking creature gets +2/+4 until end of turn.
+   Bloodrush — |mana_1|\ |mana_g|, Discard Scab-Clan Charger: Target attacking creature gets +2/+4 until end of turn.
 
 
 Serene Remembrance
@@ -672,7 +672,7 @@ Serene Remembrance
 Skarrg Goliath
    Trample
 
-   Bloodrush — |mana_5| |mana_g| |mana_g|, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.
+   Bloodrush — |mana_5|\ |mana_g|\ |mana_g|, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.
 
 
 Slaughterhorn
@@ -734,7 +734,7 @@ Bane Alley Broker
 
    You may look at cards exiled with Bane Alley Broker.
 
-   |mana_u| |mana_b|, |tap|: Return a card exiled with Bane Alley Broker to its owner's hand.
+   |mana_u|\ |mana_b|, |tap|: Return a card exiled with Bane Alley Broker to its owner's hand.
 
 
 Biovisionary
@@ -788,7 +788,7 @@ Consuming Aberration
 Deathpact Angel
    Flying
 
-   When Deathpact Angel dies, create a 1/1 white and black Cleric creature token. It has "|mana_3| |mana_w| |mana_b| |mana_b|, |tap|, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield."
+   When Deathpact Angel dies, create a 1/1 white and black Cleric creature token. It has "|mana_3|\ |mana_w|\ |mana_b|\ |mana_b|, |tap|, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield."
 
 
 Dimir Charm
@@ -818,9 +818,9 @@ Drakewing Krasis
 
 
 Duskmantle Guildmage
-   |mana_1| |mana_u| |mana_b|: Whenever a card is put into an opponent's graveyard from anywhere this turn, that player loses 1 life.
+   |mana_1|\ |mana_u|\ |mana_b|: Whenever a card is put into an opponent's graveyard from anywhere this turn, that player loses 1 life.
 
-   |mana_2| |mana_u| |mana_b|: Target player puts the top two cards of their library into their graveyard.
+   |mana_2|\ |mana_u|\ |mana_b|: Target player puts the top two cards of their library into their graveyard.
 
 
 Duskmantle Seer
@@ -872,7 +872,7 @@ Frenzied Tilling
 Ghor-Clan Rampager
    Trample
 
-   Bloodrush — |mana_r| |mana_g|, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn.
+   Bloodrush — |mana_r|\ |mana_g|, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn.
 
 
 Ground Assault
@@ -1010,7 +1010,7 @@ Purge the Profane
 Rubblehulk
    Rubblehulk's power and toughness are each equal to the number of lands you control.
 
-   Bloodrush — |mana_1| |mana_r| |mana_g|, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control.
+   Bloodrush — |mana_1|\ |mana_r|\ |mana_g|, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control.
 
 
 Ruination Wurm
@@ -1038,9 +1038,9 @@ Simic Charm
 
 
 Skarrg Guildmage
-   |mana_r| |mana_g|: Creatures you control gain trample until end of turn.
+   |mana_r|\ |mana_g|: Creatures you control gain trample until end of turn.
 
-   |mana_1| |mana_r| |mana_g|: Target land you control becomes a 4/4 Elemental creature until end of turn. It's still a land.
+   |mana_1|\ |mana_r|\ |mana_g|: Target land you control becomes a 4/4 Elemental creature until end of turn. It's still a land.
 
 
 Skyknight Legionnaire
@@ -1062,9 +1062,9 @@ Spark Trooper
 
 
 Sunhome Guildmage
-   |mana_1| |mana_r| |mana_w|: Creatures you control get +1/+0 until end of turn.
+   |mana_1|\ |mana_r|\ |mana_w|: Creatures you control get +1/+0 until end of turn.
 
-   |mana_2| |mana_r| |mana_w|: Create a 1/1 red and white Soldier creature token with haste.
+   |mana_2|\ |mana_r|\ |mana_w|: Create a 1/1 red and white Soldier creature token with haste.
 
 
 Treasury Thrull
@@ -1076,9 +1076,9 @@ Treasury Thrull
 Truefire Paladin
    Vigilance
 
-   |mana_r| |mana_w|: Truefire Paladin gets +2/+0 until end of turn.
+   |mana_r|\ |mana_w|: Truefire Paladin gets +2/+0 until end of turn.
 
-   |mana_r| |mana_w|: Truefire Paladin gains first strike until end of turn.
+   |mana_r|\ |mana_w|: Truefire Paladin gains first strike until end of turn.
 
 
 Unexpected Results
@@ -1096,9 +1096,9 @@ Vizkopa Confessor
 
 
 Vizkopa Guildmage
-   |mana_1| |mana_w| |mana_b|: Target creature gains lifelink until end of turn.
+   |mana_1|\ |mana_w|\ |mana_b|: Target creature gains lifelink until end of turn.
 
-   |mana_1| |mana_w| |mana_b|: Whenever you gain life this turn, each opponent loses that much life.
+   |mana_1|\ |mana_w|\ |mana_b|: Whenever you gain life this turn, each opponent loses that much life.
 
 
 Whispering Madness
@@ -1112,13 +1112,13 @@ Wojek Halberdiers
 
 
 Zameck Guildmage
-   |mana_g| |mana_u|: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.
+   |mana_g|\ |mana_u|: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.
 
-   |mana_g| |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card.
+   |mana_g|\ |mana_u|, Remove a +1/+1 counter from a creature you control: Draw a card.
 
 
 Zhur-Taa Swine
-   Bloodrush — |mana_1| |mana_r| |mana_g|, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn.
+   Bloodrush — |mana_1|\ |mana_r|\ |mana_g|, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn.
 
 
 Arrows of Justice
@@ -1144,7 +1144,7 @@ Boros Reckoner
 
 
 Burning-Tree Emissary
-   When Burning-Tree Emissary enters the battlefield, add |mana_r| |mana_g|.
+   When Burning-Tree Emissary enters the battlefield, add |mana_r|\ |mana_g|.
 
 
 Coerced Confession
@@ -1196,13 +1196,13 @@ Armored Transport
 Boros Keyrune
    |tap|: Add |mana_r| or |mana_w|.
 
-   |mana_r| |mana_w|: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature with double strike until end of turn. (It deals both first-strike and regular combat damage.)
+   |mana_r|\ |mana_w|: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature with double strike until end of turn. (It deals both first-strike and regular combat damage.)
 
 
 Dimir Keyrune
    |tap|: Add |mana_u| or |mana_b|.
 
-   |mana_u| |mana_b|: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature until end of turn and can't be blocked this turn.
+   |mana_u|\ |mana_b|: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature until end of turn and can't be blocked this turn.
 
 
 Glaring Spotlight
@@ -1214,7 +1214,7 @@ Glaring Spotlight
 Gruul Keyrune
    |tap|: Add |mana_r| or |mana_g|.
 
-   |mana_r| |mana_g|: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature with trample until end of turn.
+   |mana_r|\ |mana_g|: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature with trample until end of turn.
 
 
 Illusionist's Bracers
@@ -1230,7 +1230,7 @@ Millennial Gargoyle
 Orzhov Keyrune
    |tap|: Add |mana_w| or |mana_b|.
 
-   |mana_w| |mana_b|: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact creature with lifelink until end of turn.
+   |mana_w|\ |mana_b|: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact creature with lifelink until end of turn.
 
 
 Prophetic Prism
@@ -1252,7 +1252,7 @@ Riot Gear
 Simic Keyrune
    |tap|: Add |mana_g| or |mana_u|.
 
-   |mana_g| |mana_u|: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature with hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+   |mana_g|\ |mana_u|: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature with hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
 
 
 Skyblinder Staff

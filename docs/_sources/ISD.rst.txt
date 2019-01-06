@@ -56,7 +56,7 @@ Dearly Departed
 Divine Reckoning
    Each player chooses a creature they control. Destroy the rest.
 
-   Flashback |mana_5| |mana_w| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_5|\ |mana_w|\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Doomed Traveler
@@ -76,7 +76,7 @@ Elite Inquisitor
 Feeling of Dread
    Tap up to two target creatures.
 
-   Flashback |mana_1| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_1|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Fiend Hunter
@@ -154,7 +154,7 @@ Purify the Grave
 Rally the Peasants
    Creatures you control get +2/+0 until end of turn.
 
-   Flashback |mana_2| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_2|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Rebuke
@@ -162,11 +162,11 @@ Rebuke
 
 
 Selfless Cathar
-   |mana_1| |mana_w|, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn.
+   |mana_1|\ |mana_w|, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn.
 
 
 Silverchase Fox
-   |mana_1| |mana_w|, Sacrifice Silverchase Fox: Exile target enchantment.
+   |mana_1|\ |mana_w|, Sacrifice Silverchase Fox: Exile target enchantment.
 
 
 Slayer of the Wicked
@@ -238,7 +238,7 @@ Battleground Geist
 Cackling Counterpart
    Create a token that's a copy of target creature you control.
 
-   Flashback |mana_5| |mana_u| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_5|\ |mana_u|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Civilized Scholar
@@ -288,13 +288,13 @@ Dissipate
 Dream Twist
    Target player puts the top three cards of their library into their graveyard.
 
-   Flashback |mana_1| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_1|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Forbidden Alchemy
    Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
 
-   Flashback |mana_6| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_6|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Fortress Crab
@@ -308,7 +308,7 @@ Frightful Delusion
 Grasp of Phantoms
    Put target creature on top of its owner's library.
 
-   Flashback |mana_7| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_7|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Hysterical Blindness
@@ -338,7 +338,7 @@ Lost in the Mist
 Ludevic's Test Subject
    Defender
 
-   |mana_1| |mana_u|: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.
+   |mana_1|\ |mana_u|: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.
 
 
 Ludevic's Abomination
@@ -364,7 +364,7 @@ Mindshrieker
 Mirror-Mad Phantasm
    Flying
 
-   |mana_1| |mana_u|: Mirror-Mad Phantasm's owner shuffles it into their library. If that player does, they reveal cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into their graveyard.
+   |mana_1|\ |mana_u|: Mirror-Mad Phantasm's owner shuffles it into their library. If that player does, they reveal cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into their graveyard.
 
 
 Moon Heron
@@ -398,7 +398,7 @@ Sensory Deprivation
 Silent Departure
    Return target creature to its owner's hand.
 
-   Flashback |mana_4| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_4|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Skaab Goliath
@@ -434,7 +434,7 @@ Stitched Drake
 
 
 Stitcher's Apprentice
-   |mana_1| |mana_u|, |tap|: Create a 2/2 blue Homunculus creature token, then sacrifice a creature.
+   |mana_1|\ |mana_u|, |tap|: Create a 2/2 blue Homunculus creature token, then sacrifice a creature.
 
 
 Sturmgeist
@@ -448,7 +448,7 @@ Sturmgeist
 Think Twice
    Draw a card.
 
-   Flashback |mana_2| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_2|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Undead Alchemist
@@ -472,7 +472,7 @@ Altar's Reap
 Army of the Damned
    Create thirteen tapped 2/2 black Zombie creature tokens.
 
-   Flashback |mana_7| |mana_b| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_7|\ |mana_b|\ |mana_b|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Bitterheart Witch
@@ -512,7 +512,7 @@ Brain Weevil
 Bump in the Night
    Target opponent loses 3 life.
 
-   Flashback |mana_5| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_5|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Corpse Lunge
@@ -592,7 +592,7 @@ Liliana of the Veil
 Manor Skeleton
    Haste
 
-   |mana_1| |mana_b|: Regenerate Manor Skeleton.
+   |mana_1|\ |mana_b|: Regenerate Manor Skeleton.
 
 
 Markov Patrician
@@ -606,7 +606,7 @@ Maw of the Mire
 Moan of the Unhallowed
    Create two 2/2 black Zombie creature tokens.
 
-   Flashback |mana_5| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_5|\ |mana_b|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Morkrut Banshee
@@ -630,17 +630,17 @@ Rotting Fensnake
 Screeching Bat
    Flying
 
-   At the beginning of your upkeep, you may pay |mana_2| |mana_b| |mana_b|. If you do, transform Screeching Bat.
+   At the beginning of your upkeep, you may pay |mana_2|\ |mana_b|\ |mana_b|. If you do, transform Screeching Bat.
 
 
 Stalking Vampire
-   At the beginning of your upkeep, you may pay |mana_2| |mana_b| |mana_b|. If you do, transform Stalking Vampire.
+   At the beginning of your upkeep, you may pay |mana_2|\ |mana_b|\ |mana_b|. If you do, transform Stalking Vampire.
 
 
 Sever the Bloodline
    Exile target creature and all other creatures with the same name as that creature.
 
-   Flashback |mana_5| |mana_b| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_5|\ |mana_b|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Skeletal Grimace
@@ -674,7 +674,7 @@ Unbreathing Horde
 Unburial Rites
    Return target creature card from your graveyard to the battlefield.
 
-   Flashback |mana_3| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_3|\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Vampire Interloper
@@ -764,13 +764,13 @@ Curse of the Pierced Heart
 Desperate Ravings
    Draw two cards, then discard a card at random.
 
-   Flashback |mana_2| |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_2|\ |mana_u| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Devil's Play
    Devil's Play deals X damage to any target.
 
-   Flashback |mana_x| |mana_r| |mana_r| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_x|\ |mana_r|\ |mana_r|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Falkenrath Marauders
@@ -782,7 +782,7 @@ Falkenrath Marauders
 Feral Ridgewolf
    Trample
 
-   |mana_1| |mana_r|: Feral Ridgewolf gets +2/+0 until end of turn.
+   |mana_1|\ |mana_r|: Feral Ridgewolf gets +2/+0 until end of turn.
 
 
 Furor of the Bitten
@@ -794,7 +794,7 @@ Furor of the Bitten
 Geistflame
    Geistflame deals 1 damage to any target.
 
-   Flashback |mana_3| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_3|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Hanweir Watchkeep
@@ -816,13 +816,13 @@ Harvest Pyre
 
 
 Heretic's Punishment
-   |mana_3| |mana_r|: Choose any target, then put the top three cards of your library into your graveyard. Heretic's Punishment deals damage to that permanent or player equal to the highest converted mana cost among those cards.
+   |mana_3|\ |mana_r|: Choose any target, then put the top three cards of your library into your graveyard. Heretic's Punishment deals damage to that permanent or player equal to the highest converted mana cost among those cards.
 
 
 Infernal Plunge
    As an additional cost to cast this spell, sacrifice a creature.
 
-   Add |mana_r| |mana_r| |mana_r|.
+   Add |mana_r|\ |mana_r|\ |mana_r|.
 
 
 Instigator Gang
@@ -844,7 +844,7 @@ Into the Maw of Hell
 
 
 Kessig Wolf
-   |mana_1| |mana_r|: Kessig Wolf gains first strike until end of turn.
+   |mana_1|\ |mana_r|: Kessig Wolf gains first strike until end of turn.
 
 
 Kruin Outlaw
@@ -868,13 +868,13 @@ Night Revelers
 Nightbird's Clutches
    Up to two target creatures can't block this turn.
 
-   Flashback |mana_3| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_3|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Past in Flames
    Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
 
-   Flashback |mana_4| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_4|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Pitchburn Devils
@@ -904,7 +904,7 @@ Riot Devils
 Rolling Temblor
    Rolling Temblor deals 2 damage to each creature without flying.
 
-   Flashback |mana_4| |mana_r| |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_4|\ |mana_r|\ |mana_r| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Scourge of Geier Reach
@@ -976,11 +976,11 @@ Caravan Vigil
 Creeping Renaissance
    Choose a permanent type. Return all cards of the chosen type from your graveyard to your hand.
 
-   Flashback |mana_5| |mana_g| |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_5|\ |mana_g|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Darkthicket Wolf
-   |mana_2| |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_2|\ |mana_g|: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn.
 
 
 Daybreak Ranger
@@ -996,7 +996,7 @@ Nightfall Predator
 
 
 Elder of Laurels
-   |mana_3| |mana_g|: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+   |mana_3|\ |mana_g|: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
 
 
 Essence of the Wild
@@ -1044,7 +1044,7 @@ Gatstaf Howler
 Gnaw to the Bone
    You gain 2 life for each creature card in your graveyard.
 
-   Flashback |mana_2| |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_2|\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Grave Bramble
@@ -1146,7 +1146,7 @@ Somberwald Spider
 Spider Spawning
    Create a 1/2 green Spider creature token with reach for each creature card in your graveyard.
 
-   Flashback |mana_6| |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_6|\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Spidery Grasp
@@ -1164,7 +1164,7 @@ Splinterfright
 Travel Preparations
    Put a +1/+1 counter on each of up to two target creatures.
 
-   Flashback |mana_1| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_1|\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Tree of Redemption
@@ -1202,7 +1202,7 @@ Wreath of Geists
 
 
 Evil Twin
-   You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield, except it has "|mana_u| |mana_b|, |tap|: Destroy target creature with the same name as this creature."
+   You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield, except it has "|mana_u|\ |mana_b|, |tap|: Destroy target creature with the same name as this creature."
 
 
 Geist of Saint Traft
@@ -1222,9 +1222,9 @@ Grimgrin, Corpse-Born
 Olivia Voldaren
    Flying
 
-   |mana_1| |mana_r|: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren.
+   |mana_1|\ |mana_r|: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren.
 
-   |mana_3| |mana_b| |mana_b|: Gain control of target Vampire for as long as you control Olivia Voldaren.
+   |mana_3|\ |mana_b|\ |mana_b|: Gain control of target Vampire for as long as you control Olivia Voldaren.
 
 
 Blazing Torch
@@ -1374,7 +1374,7 @@ Clifftop Retreat
 Gavony Township
    |tap|: Add |colorless|.
 
-   |mana_2| |mana_g| |mana_w|, |tap|: Put a +1/+1 counter on each creature you control.
+   |mana_2|\ |mana_g|\ |mana_w|, |tap|: Put a +1/+1 counter on each creature you control.
 
 
 Ghost Quarter
@@ -1398,19 +1398,19 @@ Isolated Chapel
 Kessig Wolf Run
    |tap|: Add |colorless|.
 
-   |mana_x| |mana_r| |mana_g|, |tap|: Target creature gets +X/+0 and gains trample until end of turn.
+   |mana_x|\ |mana_r|\ |mana_g|, |tap|: Target creature gets +X/+0 and gains trample until end of turn.
 
 
 Moorland Haunt
    |tap|: Add |colorless|.
 
-   |mana_w| |mana_u|, |tap|, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying.
+   |mana_w|\ |mana_u|, |tap|, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying.
 
 
 Nephalia Drownyard
    |tap|: Add |colorless|.
 
-   |mana_1| |mana_u| |mana_b|, |tap|: Target player puts the top three cards of their library into their graveyard.
+   |mana_1|\ |mana_u|\ |mana_b|, |tap|: Target player puts the top three cards of their library into their graveyard.
 
 
 Shimmering Grotto
@@ -1422,7 +1422,7 @@ Shimmering Grotto
 Stensia Bloodhall
    |tap|: Add |colorless|.
 
-   |mana_3| |mana_b| |mana_r|, |tap|: Stensia Bloodhall deals 2 damage to target player or planeswalker.
+   |mana_3|\ |mana_b|\ |mana_r|, |tap|: Stensia Bloodhall deals 2 damage to target player or planeswalker.
 
 
 Sulfur Falls

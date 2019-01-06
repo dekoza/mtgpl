@@ -16,7 +16,7 @@ Balan, Wandering Knight
 
    Balan, Wandering Knight has double strike as long as two or more Equipment are attached to it.
 
-   |mana_1| |mana_w|: Attach all Equipment you control to Balan.
+   |mana_1|\ |mana_w|: Attach all Equipment you control to Balan.
 
 
 Curse of Vitality
@@ -32,7 +32,7 @@ Fortunate Few
 Kindred Boon
    As Kindred Boon enters the battlefield, choose a creature type.
 
-   |mana_1| |mana_w|: Put a divinity counter on target creature you control of the chosen type.
+   |mana_1|\ |mana_w|: Put a divinity counter on target creature you control of the chosen type.
 
    Each creature you control with a divinity counter on it has indestructible.
 
@@ -90,7 +90,7 @@ Bloodline Necromancer
 Boneyard Scourge
    Flying
 
-   Whenever a Dragon you control dies while Boneyard Scourge is in your graveyard, you may pay |mana_1| |mana_b|. If you do, return Boneyard Scourge from your graveyard to the battlefield.
+   Whenever a Dragon you control dies while Boneyard Scourge is in your graveyard, you may pay |mana_1|\ |mana_b|. If you do, return Boneyard Scourge from your graveyard to the battlefield.
 
 
 Curse of Disturbance
@@ -162,7 +162,7 @@ Izzet Chemister
 
    |mana_r|, |tap|: Exile target instant or sorcery card from your graveyard.
 
-   |mana_1| |mana_r|, |tap|, Sacrifice Izzet Chemister: Cast any number of cards exiled with Izzet Chemister without paying their mana costs.
+   |mana_1|\ |mana_r|, |tap|, Sacrifice Izzet Chemister: Cast any number of cards exiled with Izzet Chemister without paying their mana costs.
 
 
 Kindred Charge
@@ -212,7 +212,7 @@ Traverse the Outlands
 Arahbo, Roar of the World
    Eminence — At the beginning of combat on your turn, if Arahbo, Roar of the World is in the command zone or on the battlefield, another target Cat you control gets +3/+3 until end of turn.
 
-   Whenever another Cat you control attacks, you may pay |mana_1| |mana_g| |mana_w|. If you do, it gains trample and gets +X/+X until end of turn, where X is its power.
+   Whenever another Cat you control attacks, you may pay |mana_1|\ |mana_g|\ |mana_w|. If you do, it gains trample and gets +X/+X until end of turn, where X is its power.
 
 
 Edgar Markov
@@ -350,7 +350,7 @@ Ramos, Dragon Engine
 
    Whenever you cast a spell, put a +1/+1 counter on Ramos, Dragon Engine for each of that spell's colors.
 
-   Remove five +1/+1 counters from Ramos: Add |mana_w| |mana_w| |mana_u| |mana_u| |mana_b| |mana_b| |mana_r| |mana_r| |mana_g| |mana_g|. Activate this ability only once each turn.
+   Remove five +1/+1 counters from Ramos: Add |mana_w|\ |mana_w|\ |mana_u|\ |mana_u|\ |mana_b|\ |mana_b|\ |mana_r|\ |mana_r|\ |mana_g|\ |mana_g|. Activate this ability only once each turn.
 
 
 Path of Ancestry
@@ -372,7 +372,7 @@ Condemn
 Divine Reckoning
    Each player chooses a creature they control. Destroy the rest.
 
-   Flashback |mana_5| |mana_w| |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+   Flashback |mana_5|\ |mana_w|\ |mana_w| (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 
 
 Fell the Mighty
@@ -388,7 +388,7 @@ Jareth, Leonine Titan
 Jazal Goldmane
    First strike
 
-   |mana_3| |mana_w| |mana_w|: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.
+   |mana_3|\ |mana_w|\ |mana_w|: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.
 
 
 Kemba, Kha Regent
@@ -480,7 +480,7 @@ Wing Shards
 Arcanis the Omnipotent
    |tap|: Draw three cards.
 
-   |mana_2| |mana_u| |mana_u|: Return Arcanis the Omnipotent to its owner's hand.
+   |mana_2|\ |mana_u|\ |mana_u|: Return Arcanis the Omnipotent to its owner's hand.
 
 
 Archaeomancer
@@ -506,7 +506,7 @@ Harbinger of the Tides
 
 
 Into the Roil
-   Kicker |mana_1| |mana_u| (You may pay an additional |mana_1| |mana_u| as you cast this spell.)
+   Kicker |mana_1|\ |mana_u| (You may pay an additional |mana_1|\ |mana_u| as you cast this spell.)
 
    Return target nonland permanent to its owner's hand. If this spell was kicked, draw a card.
 
@@ -624,7 +624,7 @@ Damnable Pact
 
 
 Dark Impostor
-   |mana_4| |mana_b| |mana_b|: Exile target creature and put a +1/+1 counter on Dark Impostor.
+   |mana_4|\ |mana_b|\ |mana_b|: Exile target creature and put a +1/+1 counter on Dark Impostor.
 
    Dark Impostor has all activated abilities of all creature cards exiled with it.
 
@@ -638,7 +638,7 @@ Deathbringer Regent
 Decree of Pain
    Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.
 
-   Cycling |mana_3| |mana_b| |mana_b| (|mana_3| |mana_b| |mana_b|, Discard this card: Draw a card.)
+   Cycling |mana_3|\ |mana_b|\ |mana_b| (|mana_3|\ |mana_b|\ |mana_b|, Discard this card: Draw a card.)
 
    When you cycle Decree of Pain, all creatures get -2/-2 until end of turn.
 
@@ -646,7 +646,7 @@ Decree of Pain
 Drana, Kalastria Bloodchief
    Flying
 
-   |mana_x| |mana_b| |mana_b|: Target creature gets -0/-X until end of turn and Drana, Kalastria Bloodchief gets +X/+0 until end of turn.
+   |mana_x|\ |mana_b|\ |mana_b|: Target creature gets -0/-X until end of turn and Drana, Kalastria Bloodchief gets +X/+0 until end of turn.
 
 
 Falkenrath Noble
@@ -724,7 +724,7 @@ Skeletal Vampire
 
    When Skeletal Vampire enters the battlefield, create two 1/1 black Bat creature tokens with flying.
 
-   |mana_3| |mana_b| |mana_b|, Sacrifice a Bat: Create two 1/1 black Bat creature tokens with flying.
+   |mana_3|\ |mana_b|\ |mana_b|, Sacrifice a Bat: Create two 1/1 black Bat creature tokens with flying.
 
    Sacrifice a Bat: Regenerate Skeletal Vampire.
 
@@ -786,7 +786,7 @@ Earthquake
 Hellkite Charger
    Flying, haste
 
-   Whenever Hellkite Charger attacks, you may pay |mana_5| |mana_r| |mana_r|. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.
+   Whenever Hellkite Charger attacks, you may pay |mana_5|\ |mana_r|\ |mana_r|. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.
 
 
 Outpost Siege
@@ -854,7 +854,7 @@ Farseek
 Frontier Siege
    As Frontier Siege enters the battlefield, choose Khans or Dragons.
 
-   • Khans — At the beginning of each of your main phases, add |mana_g| |mana_g|.
+   • Khans — At the beginning of each of your main phases, add |mana_g|\ |mana_g|.
 
    • Dragons — Whenever a creature with flying enters the battlefield under your control, you may have it fight target creature you don't control.
 
@@ -902,7 +902,7 @@ Soul's Majesty
 
 
 Temur Sabertooth
-   |mana_1| |mana_g|: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn.
+   |mana_1|\ |mana_g|: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn.
 
 
 Zendikar Resurgent
@@ -928,7 +928,7 @@ Bladewing the Risen
 
    When Bladewing the Risen enters the battlefield, you may return target Dragon permanent card from your graveyard to the battlefield.
 
-   |mana_b| |mana_r|: Dragon creatures get +1/+1 until end of turn.
+   |mana_b|\ |mana_r|: Dragon creatures get +1/+1 until end of turn.
 
 
 Blood Baron of Vizkopa
@@ -958,7 +958,7 @@ Crackling Doom
 Crosis, the Purger
    Flying
 
-   Whenever Crosis, the Purger deals combat damage to a player, you may pay |mana_2| |mana_b|. If you do, choose a color, then that player reveals their hand and discards all cards of that color.
+   Whenever Crosis, the Purger deals combat damage to a player, you may pay |mana_2|\ |mana_b|. If you do, choose a color, then that player reveals their hand and discards all cards of that color.
 
 
 Crosis's Charm
@@ -978,13 +978,13 @@ Dromoka, the Eternal
 
 
 Etherium-Horn Sorcerer
-   |mana_1| |mana_u| |mana_r|: Return Etherium-Horn Sorcerer to its owner's hand.
+   |mana_1|\ |mana_u|\ |mana_r|: Return Etherium-Horn Sorcerer to its owner's hand.
 
    Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)
 
 
 Fleecemane Lion
-   |mana_3| |mana_g| |mana_w|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+   |mana_3|\ |mana_g|\ |mana_w|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)
 
    As long as Fleecemane Lion is monstrous, it has hexproof and indestructible.
 
@@ -996,7 +996,7 @@ Havengul Lich
 Intet, the Dreamer
    Flying
 
-   Whenever Intet, the Dreamer deals combat damage to a player, you may pay |mana_2| |mana_u|. If you do, exile the top card of your library face down. You may look at that card for as long as it remains exiled. You may play that card without paying its mana cost for as long as Intet remains on the battlefield.
+   Whenever Intet, the Dreamer deals combat damage to a player, you may pay |mana_2|\ |mana_u|. If you do, exile the top card of your library face down. You may look at that card for as long as it remains exiled. You may play that card without paying its mana cost for as long as Intet remains on the battlefield.
 
 
 Izzet Chronarch
@@ -1008,7 +1008,7 @@ Kolaghan, the Storm's Fury
 
    Whenever a Dragon you control attacks, creatures you control get +1/+0 until end of turn.
 
-   Dash |mana_3| |mana_b| |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+   Dash |mana_3|\ |mana_b|\ |mana_r| (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
 
 
 Marchesa, the Black Rose
@@ -1052,7 +1052,7 @@ Mortify
 
 
 Nin, the Pain Artist
-   |mana_x| |mana_u| |mana_r|, |tap|: Nin, the Pain Artist deals X damage to target creature. That creature's controller draws X cards.
+   |mana_x|\ |mana_u|\ |mana_r|, |tap|: Nin, the Pain Artist deals X damage to target creature. That creature's controller draws X cards.
 
 
 Niv-Mizzet, Dracogenius
@@ -1060,7 +1060,7 @@ Niv-Mizzet, Dracogenius
 
    Whenever Niv-Mizzet, Dracogenius deals damage to a player, you may draw a card.
 
-   |mana_u| |mana_r|: Niv-Mizzet, Dracogenius deals 1 damage to any target.
+   |mana_u|\ |mana_r|: Niv-Mizzet, Dracogenius deals 1 damage to any target.
 
 
 Niv-Mizzet, the Firemind
@@ -1072,9 +1072,9 @@ Niv-Mizzet, the Firemind
 
 
 Nivix Guildmage
-   |mana_1| |mana_u| |mana_r|: Draw a card, then discard a card.
+   |mana_1|\ |mana_u|\ |mana_r|: Draw a card, then discard a card.
 
-   |mana_2| |mana_u| |mana_r|: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+   |mana_2|\ |mana_u|\ |mana_r|: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
 
 
 Ojutai, Soul of Winter
@@ -1112,7 +1112,7 @@ Rakdos Charm
 Savage Ventmaw
    Flying
 
-   Whenever Savage Ventmaw attacks, add |mana_r| |mana_r| |mana_r| |mana_g| |mana_g| |mana_g|. Until end of turn, you don't lose this mana as steps and phases end.
+   Whenever Savage Ventmaw attacks, add |mana_r|\ |mana_r|\ |mana_r|\ |mana_g|\ |mana_g|\ |mana_g|. Until end of turn, you don't lose this mana as steps and phases end.
 
 
 Scion of the Ur-Dragon
@@ -1160,7 +1160,7 @@ Stromkirk Captain
 Teneb, the Harvester
    Flying
 
-   Whenever Teneb, the Harvester deals combat damage to a player, you may pay |mana_2| |mana_b|. If you do, put target creature card from a graveyard onto the battlefield under your control.
+   Whenever Teneb, the Harvester deals combat damage to a player, you may pay |mana_2|\ |mana_b|. If you do, put target creature card from a graveyard onto the battlefield under your control.
 
 
 Terminate
@@ -1200,7 +1200,7 @@ Blade of the Bloodchief
 
 
 Boros Signet
-   |mana_1|, |tap|: Add |mana_r| |mana_w|.
+   |mana_1|, |tap|: Add |mana_r|\ |mana_w|.
 
 
 Commander's Sphere
@@ -1224,7 +1224,7 @@ Door of Destinies
 
 
 Dreamstone Hedron
-   |tap|: Add |colorless| |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|\ |colorless|.
 
    |mana_3|, |tap|, Sacrifice Dreamstone Hedron: Draw three cards.
 
@@ -1234,7 +1234,7 @@ Fellwar Stone
 
 
 Fist of Suns
-   You may pay |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| rather than pay the mana cost for spells that you cast.
+   You may pay |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g| rather than pay the mana cost for spells that you cast.
 
 
 Grappling Hook
@@ -1246,7 +1246,7 @@ Grappling Hook
 
 
 Hedron Archive
-   |tap|: Add |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|.
 
    |mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards.
 
@@ -1284,7 +1284,7 @@ Nihil Spellbomb
 
 
 Orzhov Signet
-   |mana_1|, |tap|: Add |mana_w| |mana_b|.
+   |mana_1|, |tap|: Add |mana_w|\ |mana_b|.
 
 
 Quietus Spike
@@ -1296,7 +1296,7 @@ Quietus Spike
 
 
 Rakdos Signet
-   |mana_1|, |tap|: Add |mana_b| |mana_r|.
+   |mana_1|, |tap|: Add |mana_b|\ |mana_r|.
 
 
 Skullclamp
@@ -1308,7 +1308,7 @@ Skullclamp
 
 
 Sol Ring
-   |tap|: Add |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|.
 
 
 Staff of Nin
@@ -1362,7 +1362,7 @@ Well of Lost Dreams
 Worn Powerstone
    Worn Powerstone enters the battlefield tapped.
 
-   |tap|: Add |colorless| |colorless|.
+   |tap|: Add |colorless|\ |colorless|.
 
 
 Akoum Refuge
@@ -1382,7 +1382,7 @@ Arcane Sanctum
 Blighted Woodland
    |tap|: Add |colorless|.
 
-   |mana_3| |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+   |mana_3|\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
 
 
 Bloodfell Caves
@@ -1414,7 +1414,7 @@ Boros Garrison
 
    When Boros Garrison enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_r| |mana_w|.
+   |tap|: Add |mana_r|\ |mana_w|.
 
 
 Boros Guildgate
@@ -1452,7 +1452,7 @@ Dimir Aqueduct
 
    When Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_u| |mana_b|.
+   |tap|: Add |mana_u|\ |mana_b|.
 
 
 Dismal Backwater
@@ -1522,7 +1522,7 @@ Izzet Boilerworks
 
    When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_u| |mana_r|.
+   |tap|: Add |mana_u|\ |mana_r|.
 
 
 Jungle Shrine
@@ -1606,7 +1606,7 @@ Orzhov Basilica
 
    When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_w| |mana_b|.
+   |tap|: Add |mana_w|\ |mana_b|.
 
 
 Orzhov Guildgate
@@ -1620,7 +1620,7 @@ Rakdos Carnarium
 
    When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_b| |mana_r|.
+   |tap|: Add |mana_b|\ |mana_r|.
 
 
 Rakdos Guildgate
@@ -1688,7 +1688,7 @@ Selesnya Sanctuary
 
    When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.
 
-   |tap|: Add |mana_g| |mana_w|.
+   |tap|: Add |mana_g|\ |mana_w|.
 
 
 Stirring Wildwood
@@ -1696,7 +1696,7 @@ Stirring Wildwood
 
    |tap|: Add |mana_g| or |mana_w|.
 
-   |mana_1| |mana_g| |mana_w|: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land.
+   |mana_1|\ |mana_g|\ |mana_w|: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land.
 
 
 Stone Quarry
@@ -1714,7 +1714,7 @@ Swiftwater Cliffs
 
 
 Temple of the False God
-   |tap|: Add |colorless| |colorless|. Activate this ability only if you control five or more lands.
+   |tap|: Add |colorless|\ |colorless|. Activate this ability only if you control five or more lands.
 
 
 Terramorphic Expanse

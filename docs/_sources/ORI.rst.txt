@@ -6,7 +6,7 @@ Magic Origins
         
 
 Akroan Jailer
-   |mana_2| |mana_w|, |tap|: Tap target creature.
+   |mana_2|\ |mana_w|, |tap|: Tap target creature.
 
 
 Ampryn Tactician
@@ -126,7 +126,7 @@ Knightly Valor
 Kytheon, Hero of Akros
    At end of combat, if Kytheon, Hero of Akros and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control.
 
-   |mana_2| |mana_w|: Kytheon gains indestructible until end of turn.
+   |mana_2|\ |mana_w|: Kytheon gains indestructible until end of turn.
 
 
 Gideon, Battle-Forged
@@ -140,7 +140,7 @@ Gideon, Battle-Forged
 Kytheon's Irregulars
    Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
 
-   |mana_w| |mana_w|: Tap target creature.
+   |mana_w|\ |mana_w|: Tap target creature.
 
 
 Kytheon's Tactics
@@ -432,7 +432,7 @@ Soulblade Djinn
 Sphinx's Tutelage
    Whenever you draw a card, target opponent puts the top two cards of their library into their graveyard. If they're both nonland cards that share a color, repeat this process.
 
-   |mana_5| |mana_u|: Draw a card, then discard a card.
+   |mana_5|\ |mana_u|: Draw a card, then discard a card.
 
 
 Stratus Walk
@@ -508,7 +508,7 @@ Dark Dabbling
 Dark Petition
    Search your library for a card and put that card into your hand. Then shuffle your library.
 
-   Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, add |mana_b| |mana_b| |mana_b|.
+   Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, add |mana_b|\ |mana_b|\ |mana_b|.
 
 
 Deadbridge Shaman
@@ -530,7 +530,7 @@ Demonic Pact
 Despoiler of Souls
    Despoiler of Souls can't block.
 
-   |mana_b| |mana_b|, Exile two other creature cards from your graveyard: Return Despoiler of Souls from your graveyard to the battlefield.
+   |mana_b|\ |mana_b|, Exile two other creature cards from your graveyard: Return Despoiler of Souls from your graveyard to the battlefield.
 
 
 Erebos's Titan
@@ -664,7 +664,7 @@ Revenant
 Shadows of the Past
    Whenever a creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
-   |mana_4| |mana_b|: Each opponent loses 2 life and you gain 2 life. Activate this ability only if there are four or more creature cards in your graveyard.
+   |mana_4|\ |mana_b|: Each opponent loses 2 life and you gain 2 life. Activate this ability only if there are four or more creature cards in your graveyard.
 
 
 Shambling Ghoul
@@ -736,7 +736,7 @@ Avaricious Dragon
 
 
 Bellows Lizard
-   |mana_1| |mana_r|: Bellows Lizard gets +1/+0 until end of turn.
+   |mana_1|\ |mana_r|: Bellows Lizard gets +1/+0 until end of turn.
 
 
 Boggart Brute
@@ -874,7 +874,7 @@ Molten Vortex
 Pia and Kiran Nalaar
    When Pia and Kiran Nalaar enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.
 
-   |mana_2| |mana_r|, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to any target.
+   |mana_2|\ |mana_r|, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to any target.
 
 
 Prickleboar
@@ -922,7 +922,7 @@ Titan's Strength
 
 
 Volcanic Rambler
-   |mana_2| |mana_r|: Volcanic Rambler deals 1 damage to target player or planeswalker.
+   |mana_2|\ |mana_r|: Volcanic Rambler deals 1 damage to target player or planeswalker.
 
 
 Aerial Volley
@@ -936,7 +936,7 @@ Animist's Awakening
 
 
 Caustic Caterpillar
-   |mana_1| |mana_g|, Sacrifice Caustic Caterpillar: Destroy target artifact or enchantment.
+   |mana_1|\ |mana_g|, Sacrifice Caustic Caterpillar: Destroy target artifact or enchantment.
 
 
 Conclave Naturalists
@@ -1088,7 +1088,7 @@ Skysnare Spider
 Somberwald Alpha
    Whenever a creature you control becomes blocked, it gets +1/+1 until end of turn.
 
-   |mana_1| |mana_g|: Target creature you control gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)
+   |mana_1|\ |mana_g|: Target creature you control gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)
 
 
 Sylvan Messenger
@@ -1108,7 +1108,7 @@ Titanic Growth
 Undercity Troll
    Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)
 
-   |mana_2| |mana_g|: Regenerate Undercity Troll. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+   |mana_2|\ |mana_g|: Regenerate Undercity Troll. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
 
 
 Valeron Wardens

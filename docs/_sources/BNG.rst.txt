@@ -12,7 +12,7 @@ Acolyte's Reward
 Akroan Phalanx
    Vigilance
 
-   |mana_2| |mana_r|: Creatures you control get +1/+0 until end of turn.
+   |mana_2|\ |mana_r|: Creatures you control get +1/+0 until end of turn.
 
 
 Akroan Skyguard
@@ -44,7 +44,7 @@ Dawn to Dusk
 
 
 Eidolon of Countless Battles
-   Bestow |mana_2| |mana_w| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_2|\ |mana_w|\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Eidolon of Countless Battles and enchanted creature each get +1/+1 for each creature you control and +1/+1 for each Aura you control.
 
@@ -56,7 +56,7 @@ Elite Skirmisher
 Ephara's Radiance
    Enchant creature
 
-   Enchanted creature has "|mana_1| |mana_w|, |tap|: You gain 3 life."
+   Enchanted creature has "|mana_1|\ |mana_w|, |tap|: You gain 3 life."
 
 
 Excoriate
@@ -68,7 +68,7 @@ Fated Retribution
 
 
 Ghostblade Eidolon
-   Bestow |mana_5| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_5|\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Double strike (This creature deals both first-strike and regular combat damage.)
 
@@ -80,7 +80,7 @@ Glimpse the Sun God
 
 
 God-Favored General
-   Inspired — Whenever God-Favored General becomes untapped, you may pay |mana_2| |mana_w|. If you do, create two 1/1 white Soldier enchantment creature tokens.
+   Inspired — Whenever God-Favored General becomes untapped, you may pay |mana_2|\ |mana_w|. If you do, create two 1/1 white Soldier enchantment creature tokens.
 
 
 Great Hart
@@ -114,7 +114,7 @@ Mortal's Ardor
 
 
 Nyxborn Shieldmate
-   Bestow |mana_2| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_2|\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Enchanted creature gets +1/+2.
 
@@ -162,7 +162,7 @@ Vanguard of Brimaz
 
 
 Aerie Worshippers
-   Inspired — Whenever Aerie Worshippers becomes untapped, you may pay |mana_2| |mana_u|. If you do, create a 2/2 blue Bird enchantment creature token with flying.
+   Inspired — Whenever Aerie Worshippers becomes untapped, you may pay |mana_2|\ |mana_u|. If you do, create a 2/2 blue Bird enchantment creature token with flying.
 
 
 Arbiter of the Ideal
@@ -206,7 +206,7 @@ Eternity Snare
 Evanescent Intellect
    Enchant creature
 
-   Enchanted creature has "|mana_1| |mana_u|, |tap|: Target player puts the top three cards of their library into their graveyard."
+   Enchanted creature has "|mana_1|\ |mana_u|, |tap|: Target player puts the top three cards of their library into their graveyard."
 
 
 Fated Infatuation
@@ -214,7 +214,7 @@ Fated Infatuation
 
 
 Flitterstep Eidolon
-   Bestow |mana_5| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_5|\ |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Flitterstep Eidolon can't be blocked.
 
@@ -236,7 +236,7 @@ Meletis Astronomer
 Mindreaver
    Heroic — Whenever you cast a spell that targets Mindreaver, exile the top three cards of target player's library.
 
-   |mana_u| |mana_u|, Sacrifice Mindreaver: Counter target spell with the same name as a card exiled with Mindreaver.
+   |mana_u|\ |mana_u|, Sacrifice Mindreaver: Counter target spell with the same name as a card exiled with Mindreaver.
 
 
 Nullify
@@ -244,7 +244,7 @@ Nullify
 
 
 Nyxborn Triton
-   Bestow |mana_4| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_4|\ |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Enchanted creature gets +2/+3.
 
@@ -304,7 +304,7 @@ Tromokratis
 Vortex Elemental
    |mana_u|: Put Vortex Elemental and each creature blocking or blocked by it on top of their owners' libraries, then those players shuffle their libraries.
 
-   |mana_3| |mana_u| |mana_u|: Target creature blocks Vortex Elemental this turn if able.
+   |mana_3|\ |mana_u|\ |mana_u|: Target creature blocks Vortex Elemental this turn if able.
 
 
 Whelming Wave
@@ -336,15 +336,15 @@ Black Oak of Odunos
 
 
 Champion of Stray Souls
-   |mana_3| |mana_b| |mana_b|, |tap|, Sacrifice X other creatures: Return X target creature cards from your graveyard to the battlefield.
+   |mana_3|\ |mana_b|\ |mana_b|, |tap|, Sacrifice X other creatures: Return X target creature cards from your graveyard to the battlefield.
 
-   |mana_5| |mana_b| |mana_b|: Put Champion of Stray Souls on top of your library from your graveyard.
+   |mana_5|\ |mana_b|\ |mana_b|: Put Champion of Stray Souls on top of your library from your graveyard.
 
 
 Claim of Erebos
    Enchant creature
 
-   Enchanted creature has "|mana_1| |mana_b|, |tap|: Target player loses 2 life."
+   Enchanted creature has "|mana_1|\ |mana_b|, |tap|: Target player loses 2 life."
 
 
 Drown in Sorrow
@@ -356,7 +356,7 @@ Eater of Hope
 
    |mana_b|, Sacrifice another creature: Regenerate Eater of Hope.
 
-   |mana_2| |mana_b|, Sacrifice two other creatures: Destroy target creature.
+   |mana_2|\ |mana_b|, Sacrifice two other creatures: Destroy target creature.
 
 
 Eye Gouge
@@ -378,7 +378,7 @@ Felhide Brawler
 Forlorn Pseudamma
    Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
-   Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2| |mana_b|. If you do, create a 2/2 black Zombie enchantment creature token.
+   Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2|\ |mana_b|. If you do, create a 2/2 black Zombie enchantment creature token.
 
 
 Forsaken Drifters
@@ -398,7 +398,7 @@ Grisly Transformation
 
 
 Herald of Torment
-   Bestow |mana_3| |mana_b| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_3|\ |mana_b|\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Flying
 
@@ -416,7 +416,7 @@ Necrobite
 
 
 Nyxborn Eidolon
-   Bestow |mana_4| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_4|\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Enchanted creature gets +2/+1.
 
@@ -438,7 +438,7 @@ Sanguimancy
 Servant of Tymaret
    Inspired — Whenever Servant of Tymaret becomes untapped, each opponent loses 1 life. You gain life equal to the life lost this way.
 
-   |mana_2| |mana_b|: Regenerate Servant of Tymaret.
+   |mana_2|\ |mana_b|: Regenerate Servant of Tymaret.
 
 
 Shrike Harpy
@@ -450,7 +450,7 @@ Shrike Harpy
 
 
 Spiteful Returned
-   Bestow |mana_3| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_3|\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Whenever Spiteful Returned or enchanted creature attacks, defending player loses 2 life.
 
@@ -492,7 +492,7 @@ Epiphany Storm
 
 
 Everflame Eidolon
-   Bestow |mana_2| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_2|\ |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    |mana_r|: Everflame Eidolon gets +1/+0 until end of turn. If it's an Aura, enchanted creature gets +1/+0 until end of turn instead.
 
@@ -510,11 +510,11 @@ Fated Conflagration
 Fearsome Temper
    Enchant creature
 
-   Enchanted creature gets +2/+2 and has "|mana_2| |mana_r|: Target creature can't block this creature this turn."
+   Enchanted creature gets +2/+2 and has "|mana_2|\ |mana_r|: Target creature can't block this creature this turn."
 
 
 Felhide Spiritbinder
-   Inspired — Whenever Felhide Spiritbinder becomes untapped, you may pay |mana_1| |mana_r|. If you do, create a token that's a copy of another target creature, except it's an enchantment in addition to its other types. It gains haste. Exile it at the beginning of the next end step.
+   Inspired — Whenever Felhide Spiritbinder becomes untapped, you may pay |mana_1|\ |mana_r|. If you do, create a token that's a copy of another target creature, except it's an enchantment in addition to its other types. It gains haste. Exile it at the beginning of the next end step.
 
 
 Flame-Wreathed Phoenix
@@ -528,7 +528,7 @@ Flame-Wreathed Phoenix
 Forgestoker Dragon
    Flying
 
-   |mana_1| |mana_r|: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if Forgestoker Dragon is attacking.
+   |mana_1|\ |mana_r|: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if Forgestoker Dragon is attacking.
 
 
 Impetuous Sunchaser
@@ -546,7 +546,7 @@ Lightning Volley
 
 
 Nyxborn Rollicker
-   Bestow |mana_1| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_1|\ |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Enchanted creature gets +1/+1.
 
@@ -584,7 +584,7 @@ Satyr Firedancer
 Satyr Nyx-Smith
    Haste
 
-   Inspired — Whenever Satyr Nyx-Smith becomes untapped, you may pay |mana_2| |mana_r|. If you do, create a 3/1 red Elemental enchantment creature token with haste.
+   Inspired — Whenever Satyr Nyx-Smith becomes untapped, you may pay |mana_2|\ |mana_r|. If you do, create a 3/1 red Elemental enchantment creature token with haste.
 
 
 Scouring Sands
@@ -598,7 +598,7 @@ Searing Blood
 Stormcaller of Keranos
    Haste
 
-   |mana_1| |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   |mana_1|\ |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
 Thunder Brute
@@ -652,7 +652,7 @@ Fated Intervention
 Graverobber Spider
    Reach
 
-   |mana_3| |mana_b|: Graverobber Spider gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. Activate this ability only once each turn.
+   |mana_3|\ |mana_b|: Graverobber Spider gets +X/+X until end of turn, where X is the number of creature cards in your graveyard. Activate this ability only once each turn.
 
 
 Hero of Leina Tower
@@ -692,7 +692,7 @@ Nessian Wilds Ravager
 
 
 Noble Quarry
-   Bestow |mana_5| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_5|\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    All creatures able to block Noble Quarry or enchanted creature do so.
 
@@ -700,7 +700,7 @@ Noble Quarry
 
 
 Nyxborn Wolf
-   Bestow |mana_4| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_4|\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Enchanted creature gets +3/+1.
 
@@ -710,7 +710,7 @@ Peregrination
 
 
 Pheres-Band Raiders
-   Inspired — Whenever Pheres-Band Raiders becomes untapped, you may pay |mana_2| |mana_g|. If you do, create a 3/3 green Centaur enchantment creature token.
+   Inspired — Whenever Pheres-Band Raiders becomes untapped, you may pay |mana_2|\ |mana_g|. If you do, create a 3/3 green Centaur enchantment creature token.
 
 
 Pheres-Band Tromper
@@ -764,7 +764,7 @@ Unravel the Aether
 
 
 Chromanticore
-   Bestow |mana_2| |mana_w| |mana_u| |mana_b| |mana_r| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_2|\ |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Flying, first strike, vigilance, trample, lifelink
 
@@ -834,7 +834,7 @@ Phenax, God of Deception
 
 
 Ragemonger
-   Minotaur spells you cast cost |mana_b| |mana_r| less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Minotaur spell with mana cost |mana_2| |mana_r|, it costs |mana_2| to cast.)
+   Minotaur spells you cast cost |mana_b|\ |mana_r| less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Minotaur spell with mana cost |mana_2|\ |mana_r|, it costs |mana_2| to cast.)
 
 
 Reap What Is Sown

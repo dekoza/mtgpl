@@ -12,15 +12,15 @@ Act of Heroism
 Adorned Pouncer
    Double strike
 
-   Eternalize |mana_3| |mana_w| |mana_w| (|mana_3| |mana_w| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Cat with no mana cost. Eternalize only as a sorcery.)
+   Eternalize |mana_3|\ |mana_w|\ |mana_w| (|mana_3|\ |mana_w|\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Cat with no mana cost. Eternalize only as a sorcery.)
 
 
 Angel of Condemnation
    Flying, vigilance
 
-   |mana_2| |mana_w|, |tap|: Exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+   |mana_2|\ |mana_w|, |tap|: Exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
 
-   |mana_2| |mana_w|, |tap|, Exert Angel of Condemnation: Exile another target creature until Angel of Condemnation leaves the battlefield. (An exerted creature won't untap during your next untap step.)
+   |mana_2|\ |mana_w|, |tap|, Exert Angel of Condemnation: Exile another target creature until Angel of Condemnation leaves the battlefield. (An exerted creature won't untap during your next untap step.)
 
 
 Angel of the God-Pharaoh
@@ -138,7 +138,7 @@ Solitary Camel
 Steadfast Sentinel
    Vigilance
 
-   Eternalize |mana_4| |mana_w| |mana_w| (|mana_4| |mana_w| |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Cleric with no mana cost. Eternalize only as a sorcery.)
+   Eternalize |mana_4|\ |mana_w|\ |mana_w| (|mana_4|\ |mana_w|\ |mana_w|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Cleric with no mana cost. Eternalize only as a sorcery.)
 
 
 Steward of Solidarity
@@ -148,7 +148,7 @@ Steward of Solidarity
 Sunscourge Champion
    When Sunscourge Champion enters the battlefield, you gain life equal to its power.
 
-   Eternalize—|mana_2| |mana_w| |mana_w|, Discard a card. (|mana_2| |mana_w| |mana_w|, Discard a card, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)
+   Eternalize—|mana_2|\ |mana_w|\ |mana_w|, Discard a card. (|mana_2|\ |mana_w|\ |mana_w|, Discard a card, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)
 
 
 Unconventional Tactics
@@ -178,7 +178,7 @@ Aven Reedstalker
 Champion of Wits
    When Champion of Wits enters the battlefield, you may draw cards equal to its power. If you do, discard two cards.
 
-   Eternalize |mana_5| |mana_u| |mana_u| (|mana_5| |mana_u| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Naga Wizard with no mana cost. Eternalize only as a sorcery.)
+   Eternalize |mana_5|\ |mana_u|\ |mana_u| (|mana_5|\ |mana_u|\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Naga Wizard with no mana cost. Eternalize only as a sorcery.)
 
 
 Countervailing Winds
@@ -226,7 +226,7 @@ Nimble Obstructionist
 
    Flying
 
-   Cycling |mana_2| |mana_u| (|mana_2| |mana_u|, Discard this card: Draw a card.)
+   Cycling |mana_2|\ |mana_u| (|mana_2|\ |mana_u|, Discard this card: Draw a card.)
 
    When you cycle Nimble Obstructionist, counter target activated or triggered ability you don't control.
 
@@ -238,13 +238,13 @@ Ominous Sphinx
 
 
 Proven Combatant
-   Eternalize |mana_4| |mana_u| |mana_u| (|mana_4| |mana_u| |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Warrior with no mana cost. Eternalize only as a sorcery.)
+   Eternalize |mana_4|\ |mana_u|\ |mana_u| (|mana_4|\ |mana_u|\ |mana_u|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Warrior with no mana cost. Eternalize only as a sorcery.)
 
 
 Riddleform
    Whenever you cast a noncreature spell, you may have Riddleform become a 3/3 Sphinx creature with flying in addition to its other types until end of turn.
 
-   |mana_2| |mana_u|: Scry 1.
+   |mana_2|\ |mana_u|: Scry 1.
 
 
 Seer of the Last Tomorrow
@@ -254,7 +254,7 @@ Seer of the Last Tomorrow
 Sinuous Striker
    |mana_u|: Sinuous Striker gets +1/-1 until end of turn.
 
-   Eternalize—|mana_3| |mana_u| |mana_u|, Discard a card. (|mana_3| |mana_u| |mana_u|, Discard a card, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Naga Warrior with no mana cost. Eternalize only as a sorcery.)
+   Eternalize—|mana_3|\ |mana_u|\ |mana_u|, Discard a card. (|mana_3|\ |mana_u|\ |mana_u|, Discard a card, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Naga Warrior with no mana cost. Eternalize only as a sorcery.)
 
 
 Spellweaver Eternal
@@ -316,7 +316,7 @@ Vizier of the Anointed
 
 
 Accursed Horde
-   |mana_1| |mana_b|: Target attacking Zombie gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
+   |mana_1|\ |mana_b|: Target attacking Zombie gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
 
 
 Ammit Eternal
@@ -362,7 +362,7 @@ Dreamstealer
 
    Whenever Dreamstealer deals combat damage to a player, that player discards that many cards.
 
-   Eternalize |mana_4| |mana_b| |mana_b| (|mana_4| |mana_b| |mana_b|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)
+   Eternalize |mana_4|\ |mana_b|\ |mana_b| (|mana_4|\ |mana_b|\ |mana_b|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)
 
 
 Grisly Survivor
@@ -398,7 +398,7 @@ Marauding Boneslasher
 Merciless Eternal
    Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)
 
-   |mana_2| |mana_b|, Discard a card: Merciless Eternal gets +2/+2 until end of turn.
+   |mana_2|\ |mana_b|, Discard a card: Merciless Eternal gets +2/+2 until end of turn.
 
 
 Moaning Wall
@@ -474,7 +474,7 @@ Blur of Blades
 Burning-Fist Minotaur
    First strike
 
-   |mana_1| |mana_r|, Discard a card: Burning-Fist Minotaur gets +2/+0 until end of turn.
+   |mana_1|\ |mana_r|, Discard a card: Burning-Fist Minotaur gets +2/+0 until end of turn.
 
 
 Chandra's Defeat
@@ -500,7 +500,7 @@ Earthshaker Khenra
 
    When Earthshaker Khenra enters the battlefield, target creature with power less than or equal to Earthshaker Khenra's power can't block this turn.
 
-   Eternalize |mana_4| |mana_r| |mana_r| (|mana_4| |mana_r| |mana_r|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Jackal Warrior with no mana cost. Eternalize only as a sorcery.)
+   Eternalize |mana_4|\ |mana_r|\ |mana_r| (|mana_4|\ |mana_r|\ |mana_r|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Jackal Warrior with no mana cost. Eternalize only as a sorcery.)
 
 
 Fervent Paincaster
@@ -516,7 +516,7 @@ Firebrand Archer
 Frontline Devastator
    Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)
 
-   |mana_1| |mana_r|: Frontline Devastator gets +1/+0 until end of turn.
+   |mana_1|\ |mana_r|: Frontline Devastator gets +1/+0 until end of turn.
 
 
 Gilded Cerodon
@@ -616,7 +616,7 @@ Bitterbow Sharpshooters
 
 
 Devotee of Strength
-   |mana_4| |mana_g|: Target creature gets +2/+2 until end of turn.
+   |mana_4|\ |mana_g|: Target creature gets +2/+2 until end of turn.
 
 
 Dune Diviner
@@ -628,7 +628,7 @@ Feral Prowler
 
 
 Frilled Sandwalla
-   |mana_1| |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Frilled Sandwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
 
 
 Gift of Strength
@@ -704,7 +704,7 @@ Ramunap Hydra
 Resilient Khenra
    When Resilient Khenra enters the battlefield, you may have target creature get +X/+X until end of turn, where X is Resilient Khenra's power.
 
-   Eternalize |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize only as a sorcery.)
+   Eternalize |mana_4|\ |mana_g|\ |mana_g| (|mana_4|\ |mana_g|\ |mana_g|, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize only as a sorcery.)
 
 
 Rhonas's Last Stand
@@ -746,7 +746,7 @@ The Locust God
 
    Whenever you draw a card, create a 1/1 blue and red Insect creature token with flying and haste.
 
-   |mana_2| |mana_u| |mana_r|: Draw a card, then discard a card.
+   |mana_2|\ |mana_u|\ |mana_r|: Draw a card, then discard a card.
 
    When The Locust God dies, return it to its owner's hand at the beginning of the next end step.
 
@@ -778,7 +778,7 @@ Resolute Survivors
 River Hoopoe
    Flying
 
-   |mana_3| |mana_g| |mana_u|: You gain 2 life and draw a card.
+   |mana_3|\ |mana_g|\ |mana_u|: You gain 2 life and draw a card.
 
 
 Samut, the Tested
@@ -792,7 +792,7 @@ Samut, the Tested
 The Scarab God
    At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control.
 
-   |mana_2| |mana_u| |mana_b|: Exile target creature card from a graveyard. Create a token that's a copy of it, except it's a 4/4 black Zombie.
+   |mana_2|\ |mana_u|\ |mana_b|: Exile target creature card from a graveyard. Create a token that's a copy of it, except it's a 4/4 black Zombie.
 
    When The Scarab God dies, return it to its owner's hand at the beginning of the next end step.
 
@@ -800,15 +800,15 @@ The Scarab God
 The Scorpion God
    Whenever a creature with a -1/-1 counter on it dies, draw a card.
 
-   |mana_1| |mana_b| |mana_r|: Put a -1/-1 counter on another target creature.
+   |mana_1|\ |mana_b|\ |mana_r|: Put a -1/-1 counter on another target creature.
 
    When The Scorpion God dies, return it to its owner's hand at the beginning of the next end step.
 
 
 Unraveling Mummy
-   |mana_1| |mana_w|: Target attacking Zombie gains lifelink until end of turn.
+   |mana_1|\ |mana_w|: Target attacking Zombie gains lifelink until end of turn.
 
-   |mana_1| |mana_b|: Target attacking Zombie gains deathtouch until end of turn.
+   |mana_1|\ |mana_b|: Target attacking Zombie gains deathtouch until end of turn.
 
 
 Farm
@@ -982,7 +982,7 @@ Desert of the Fervent
 
    |tap|: Add |mana_r|.
 
-   Cycling |mana_1| |mana_r| (|mana_1| |mana_r|, Discard this card: Draw a card.)
+   Cycling |mana_1|\ |mana_r| (|mana_1|\ |mana_r|, Discard this card: Draw a card.)
 
 
 Desert of the Glorified
@@ -990,7 +990,7 @@ Desert of the Glorified
 
    |tap|: Add |mana_b|.
 
-   Cycling |mana_1| |mana_b| (|mana_1| |mana_b|, Discard this card: Draw a card.)
+   Cycling |mana_1|\ |mana_b| (|mana_1|\ |mana_b|, Discard this card: Draw a card.)
 
 
 Desert of the Indomitable
@@ -998,7 +998,7 @@ Desert of the Indomitable
 
    |tap|: Add |mana_g|.
 
-   Cycling |mana_1| |mana_g| (|mana_1| |mana_g|, Discard this card: Draw a card.)
+   Cycling |mana_1|\ |mana_g| (|mana_1|\ |mana_g|, Discard this card: Draw a card.)
 
 
 Desert of the Mindful
@@ -1006,7 +1006,7 @@ Desert of the Mindful
 
    |tap|: Add |mana_u|.
 
-   Cycling |mana_1| |mana_u| (|mana_1| |mana_u|, Discard this card: Draw a card.)
+   Cycling |mana_1|\ |mana_u| (|mana_1|\ |mana_u|, Discard this card: Draw a card.)
 
 
 Desert of the True
@@ -1014,7 +1014,7 @@ Desert of the True
 
    |tap|: Add |mana_w|.
 
-   Cycling |mana_1| |mana_w| (|mana_1| |mana_w|, Discard this card: Draw a card.)
+   Cycling |mana_1|\ |mana_w| (|mana_1|\ |mana_w|, Discard this card: Draw a card.)
 
 
 Dunes of the Dead
@@ -1036,7 +1036,7 @@ Hashep Oasis
 
    |tap|, Pay 1 life: Add |mana_g|.
 
-   |mana_1| |mana_g| |mana_g|, |tap|, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate this ability only any time you could cast a sorcery.
+   |mana_1|\ |mana_g|\ |mana_g|, |tap|, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate this ability only any time you could cast a sorcery.
 
 
 Hostile Desert
@@ -1050,7 +1050,7 @@ Ifnir Deadlands
 
    |tap|, Pay 1 life: Add |mana_b|.
 
-   |mana_2| |mana_b| |mana_b|, |tap|, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|\ |mana_b|, |tap|, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate this ability only any time you could cast a sorcery.
 
 
 Ipnu Rivulet
@@ -1058,7 +1058,7 @@ Ipnu Rivulet
 
    |tap|, Pay 1 life: Add |mana_u|.
 
-   |mana_1| |mana_u|, |tap|, Sacrifice a Desert: Target player puts the top four cards of their library into their graveyard.
+   |mana_1|\ |mana_u|, |tap|, Sacrifice a Desert: Target player puts the top four cards of their library into their graveyard.
 
 
 Ramunap Ruins
@@ -1066,7 +1066,7 @@ Ramunap Ruins
 
    |tap|, Pay 1 life: Add |mana_r|.
 
-   |mana_2| |mana_r| |mana_r|, |tap|, Sacrifice a Desert: Ramunap Ruins deals 2 damage to each opponent.
+   |mana_2|\ |mana_r|\ |mana_r|, |tap|, Sacrifice a Desert: Ramunap Ruins deals 2 damage to each opponent.
 
 
 Scavenger Grounds
@@ -1080,7 +1080,7 @@ Shefet Dunes
 
    |tap|, Pay 1 life: Add |mana_w|.
 
-   |mana_2| |mana_w| |mana_w|, |tap|, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_w|\ |mana_w|, |tap|, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate this ability only any time you could cast a sorcery.
 
 
 Survivors' Encampment
@@ -1190,7 +1190,7 @@ Wasp of the Bitter End
 
 
 Zealot of the God-Pharaoh
-   |mana_4| |mana_r|: Zealot of the God-Pharaoh deals 2 damage to target opponent or planeswalker.
+   |mana_4|\ |mana_r|: Zealot of the God-Pharaoh deals 2 damage to target opponent or planeswalker.
 
 
 Visage of Bolas

@@ -60,7 +60,7 @@ Brave the Elements
 Capashen Knight
    First strike (This creature deals combat damage before creatures without first strike.)
 
-   |mana_1| |mana_w|: Capashen Knight gets +1/+0 until end of turn.
+   |mana_1|\ |mana_w|: Capashen Knight gets +1/+0 until end of turn.
 
 
 Celestial Flare
@@ -198,7 +198,7 @@ Steelform Sliver
 
 
 Stonehorn Chanter
-   |mana_5| |mana_w|: Stonehorn Chanter gains vigilance and lifelink until end of turn. (Attacking doesn't cause it to tap. Damage dealt by it also causes you to gain that much life.)
+   |mana_5|\ |mana_w|: Stonehorn Chanter gains vigilance and lifelink until end of turn. (Attacking doesn't cause it to tap. Damage dealt by it also causes you to gain that much life.)
 
 
 Suntail Hawk
@@ -214,7 +214,7 @@ Wall of Swords
 Air Servant
    Flying
 
-   |mana_2| |mana_u|: Tap target creature with flying.
+   |mana_2|\ |mana_u|: Tap target creature with flying.
 
 
 Archaeomancer
@@ -366,7 +366,7 @@ Sensory Deprivation
 
 
 Spell Blast
-   Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3| |mana_u| |mana_u|, X is 5.)
+   Counter target spell with converted mana cost X. (For example, if that spell's mana cost is |mana_3|\ |mana_u|\ |mana_u|, X is 5.)
 
 
 Tidebinder Mage
@@ -416,7 +416,7 @@ Windreader Sphinx
 
 
 Zephyr Charge
-   |mana_1| |mana_u|: Target creature gains flying until end of turn.
+   |mana_1|\ |mana_u|: Target creature gains flying until end of turn.
 
 
 Accursed Spirit
@@ -452,7 +452,7 @@ Child of Night
 
 
 Corpse Hauler
-   |mana_2| |mana_b|, Sacrifice Corpse Hauler: Return another target creature card from your graveyard to your hand.
+   |mana_2|\ |mana_b|, Sacrifice Corpse Hauler: Return another target creature card from your graveyard to your hand.
 
 
 Corrupt
@@ -494,7 +494,7 @@ Festering Newt
 
 
 Gnawing Zombie
-   |mana_1| |mana_b|, Sacrifice a creature: Target player loses 1 life and you gain 1 life.
+   |mana_1|\ |mana_b|, Sacrifice a creature: Target player loses 1 life and you gain 1 life.
 
 
 Grim Return
@@ -512,7 +512,7 @@ Liliana of the Dark Realms
 
    −3: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.
 
-   −6: You get an emblem with "Swamps you control have '|tap|: Add |mana_b| |mana_b| |mana_b| |mana_b|.'"
+   −6: You get an emblem with "Swamps you control have '|tap|: Add |mana_b|\ |mana_b|\ |mana_b|\ |mana_b|.'"
 
 
 Liliana's Reaver
@@ -522,7 +522,7 @@ Liliana's Reaver
 
 
 Liturgy of Blood
-   Destroy target creature. Add |mana_b| |mana_b| |mana_b|.
+   Destroy target creature. Add |mana_b|\ |mana_b|\ |mana_b|.
 
 
 Mark of the Vampire
@@ -548,7 +548,7 @@ Nightmare
 Nightwing Shade
    Flying
 
-   |mana_1| |mana_b|: Nightwing Shade gets +1/+1 until end of turn.
+   |mana_1|\ |mana_b|: Nightwing Shade gets +1/+1 until end of turn.
 
 
 Quag Sickness
@@ -594,7 +594,7 @@ Syphon Sliver
 
 
 Tenacious Dead
-   When Tenacious Dead dies, you may pay |mana_1| |mana_b|. If you do, return it to the battlefield tapped under its owner's control.
+   When Tenacious Dead dies, you may pay |mana_1|\ |mana_b|. If you do, return it to the battlefield tapped under its owner's control.
 
 
 Undead Minotaur
@@ -944,7 +944,7 @@ Ranger's Guile
 
 
 Rootwalla
-   |mana_1| |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_1|\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
 
 
 Rumbling Baloth
@@ -968,7 +968,7 @@ Sporemound
 Trollhide
    Enchant creature
 
-   Enchanted creature gets +2/+2 and has "|mana_1| |mana_g|: Regenerate this creature." (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+   Enchanted creature gets +2/+2 and has "|mana_1|\ |mana_g|: Regenerate this creature." (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
 
 
 Vastwood Hydra

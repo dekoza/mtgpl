@@ -22,7 +22,7 @@ Endbringer
 
    |colorless|, |tap|: Target creature can't attack or block this turn.
 
-   |colorless| |colorless|, |tap|: Draw a card.
+   |colorless|\ |colorless|, |tap|: Draw a card.
 
 
 Kozilek, the Great Distortion
@@ -94,7 +94,7 @@ Warping Wail
 Eldrazi Displacer
    Devoid (This card has no color.)
 
-   |mana_2| |colorless|: Exile another target creature, then return it to the battlefield tapped under its owner's control. (|colorless| represents colorless mana.)
+   |mana_2|\ |colorless|: Exile another target creature, then return it to the battlefield tapped under its owner's control. (|colorless| represents colorless mana.)
 
 
 Affa Protector
@@ -122,7 +122,7 @@ Expedition Raptor
 General Tazri
    When General Tazri enters the battlefield, you may search your library for an Ally creature card, reveal it, put it into your hand, then shuffle your library.
 
-   |mana_w| |mana_u| |mana_b| |mana_r| |mana_g|: Ally creatures you control get +X/+X until end of turn, where X is the number of colors among those creatures.
+   |mana_w|\ |mana_u|\ |mana_b|\ |mana_r|\ |mana_g|: Ally creatures you control get +X/+X until end of turn, where X is the number of colors among those creatures.
 
 
 Immolating Glare
@@ -144,7 +144,7 @@ Kor Scythemaster
 
 
 Kor Sky Climber
-   |mana_1| |mana_w|: Kor Sky Climber gains flying until end of turn.
+   |mana_1|\ |mana_w|: Kor Sky Climber gains flying until end of turn.
 
 
 Linvala, the Preserver
@@ -202,7 +202,7 @@ Spawnbinder Mage
 Steppe Glider
    Flying, vigilance
 
-   |mana_1| |mana_w|: Target creature with a +1/+1 counter on it gains flying and vigilance until end of turn.
+   |mana_1|\ |mana_w|: Target creature with a +1/+1 counter on it gains flying and vigilance until end of turn.
 
 
 Stone Haven Outfitter
@@ -244,7 +244,7 @@ Deepfathom Skulker
 
    Whenever a creature you control deals combat damage to a player, you may draw a card.
 
-   |mana_3| |colorless|: Target creature can't be blocked this turn. (|colorless| represents colorless mana.)
+   |mana_3|\ |colorless|: Target creature can't be blocked this turn. (|colorless| represents colorless mana.)
 
 
 Dimensional Infiltrator
@@ -254,7 +254,7 @@ Dimensional Infiltrator
 
    Flying
 
-   |mana_1| |colorless|: Target opponent exiles the top card of their library. If it's a land card, you may return Dimensional Infiltrator to its owner's hand. (|colorless| represents colorless mana.)
+   |mana_1|\ |colorless|: Target opponent exiles the top card of their library. If it's a land card, you may return Dimensional Infiltrator to its owner's hand. (|colorless| represents colorless mana.)
 
 
 Gravity Negator
@@ -268,7 +268,7 @@ Gravity Negator
 Prophet of Distortion
    Devoid (This card has no color.)
 
-   |mana_3| |colorless|: Draw a card. (|colorless| represents colorless mana.)
+   |mana_3|\ |colorless|: Draw a card. (|colorless| represents colorless mana.)
 
 
 Slip Through Space
@@ -298,7 +298,7 @@ Ancient Crab
 
 
 Comparative Analysis
-   Surge |mana_2| |mana_u| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+   Surge |mana_2|\ |mana_u| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 
    Target player draws two cards.
 
@@ -312,7 +312,7 @@ Containment Membrane
 
 
 Crush of Tentacles
-   Surge |mana_3| |mana_u| |mana_u| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+   Surge |mana_3|\ |mana_u|\ |mana_u| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 
    Return all nonland permanents to their owners' hands. If Crush of Tentacles's surge cost was paid, create an 8/8 blue Octopus creature token.
 
@@ -328,7 +328,7 @@ Gift of Tusks
 
 
 Grip of the Roil
-   Surge |mana_1| |mana_u| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+   Surge |mana_1|\ |mana_u| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 
    Tap target creature. It doesn't untap during its controller's next untap step.
 
@@ -340,11 +340,11 @@ Hedron Alignment
 
    At the beginning of your upkeep, you may reveal your hand. If you do, you win the game if you own a card named Hedron Alignment in exile, in your hand, in your graveyard, and on the battlefield.
 
-   |mana_1| |mana_u|: Scry 1.
+   |mana_1|\ |mana_u|: Scry 1.
 
 
 Jwar Isle Avenger
-   Surge |mana_2| |mana_u| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+   Surge |mana_2|\ |mana_u| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 
    Flying
 
@@ -360,7 +360,7 @@ Oath of Jace
 
 
 Overwhelming Denial
-   Surge |mana_u| |mana_u| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+   Surge |mana_u|\ |mana_u| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 
    This spell can't be countered.
 
@@ -396,7 +396,7 @@ Unity of Purpose
 Bearer of Silence
    Devoid (This card has no color.)
 
-   When you cast this spell, you may pay |mana_1| |colorless|. If you do, target opponent sacrifices a creature. (|colorless| represents colorless mana.)
+   When you cast this spell, you may pay |mana_1|\ |colorless|. If you do, target opponent sacrifices a creature. (|colorless| represents colorless mana.)
 
    Flying
 
@@ -406,13 +406,13 @@ Bearer of Silence
 Dread Defiler
    Devoid (This card has no color.)
 
-   |mana_3| |colorless|, Exile a creature card from your graveyard: Target opponent loses life equal to the exiled card's power. (|colorless| represents colorless mana.)
+   |mana_3|\ |colorless|, Exile a creature card from your graveyard: Target opponent loses life equal to the exiled card's power. (|colorless| represents colorless mana.)
 
 
 Essence Depleter
    Devoid (This card has no color.)
 
-   |mana_1| |colorless|: Target opponent loses 1 life and you gain 1 life. (|colorless| represents colorless mana.)
+   |mana_1|\ |colorless|: Target opponent loses 1 life and you gain 1 life. (|colorless| represents colorless mana.)
 
 
 Flaying Tendrils
@@ -424,7 +424,7 @@ Flaying Tendrils
 Havoc Sower
    Devoid (This card has no color.)
 
-   |mana_1| |colorless|: Havoc Sower gets +2/+1 until end of turn. (|colorless| represents colorless mana.)
+   |mana_1|\ |colorless|: Havoc Sower gets +2/+1 until end of turn. (|colorless| represents colorless mana.)
 
 
 Inverter of Truth
@@ -518,7 +518,7 @@ Kalitas, Traitor of Ghet
 
    If a nontoken creature an opponent controls would die, instead exile that card and create a 2/2 black Zombie creature token.
 
-   |mana_2| |mana_b|, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas, Traitor of Ghet.
+   |mana_2|\ |mana_b|, Sacrifice another Vampire or Zombie: Put two +1/+1 counters on Kalitas, Traitor of Ghet.
 
 
 Malakir Soothsayer
@@ -526,7 +526,7 @@ Malakir Soothsayer
 
 
 Null Caller
-   |mana_3| |mana_b|, Exile a creature card from your graveyard: Create a tapped 2/2 black Zombie creature token.
+   |mana_3|\ |mana_b|, Exile a creature card from your graveyard: Create a tapped 2/2 black Zombie creature token.
 
 
 Remorseless Punishment
@@ -572,7 +572,7 @@ Eldrazi Aggressor
 Eldrazi Obligator
    Devoid (This card has no color.)
 
-   When you cast this spell, you may pay |mana_1| |colorless|. If you do, gain control of target creature until end of turn, untap that creature, and it gains haste until end of turn. (|colorless| represents colorless mana.)
+   When you cast this spell, you may pay |mana_1|\ |colorless|. If you do, gain control of target creature until end of turn, untap that creature, and it gains haste until end of turn. (|colorless| represents colorless mana.)
 
    Haste
 
@@ -580,7 +580,7 @@ Eldrazi Obligator
 Immobilizer Eldrazi
    Devoid (This card has no color.)
 
-   |mana_2| |colorless|: Each creature with toughness greater than its power can't block this turn. (|colorless| represents colorless mana.)
+   |mana_2|\ |colorless|: Each creature with toughness greater than its power can't block this turn. (|colorless| represents colorless mana.)
 
 
 Kozilek's Return
@@ -608,7 +608,7 @@ Akoum Flameseeker
 
 
 Boulder Salvo
-   Surge |mana_1| |mana_r| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+   Surge |mana_1|\ |mana_r| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 
    Boulder Salvo deals 4 damage to target creature.
 
@@ -652,7 +652,7 @@ Expedite
 
 
 Fall of the Titans
-   Surge |mana_x| |mana_r| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+   Surge |mana_x|\ |mana_r| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 
    Fall of the Titans deals X damage to each of up to two targets.
 
@@ -664,7 +664,7 @@ Goblin Dark-Dwellers
 
 
 Goblin Freerunner
-   Surge |mana_1| |mana_r| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+   Surge |mana_1|\ |mana_r| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 
    Menace (This creature can't be blocked except by two or more creatures.)
 
@@ -690,7 +690,7 @@ Pyromancer's Assault
 
 
 Reckless Bushwhacker
-   Surge |mana_1| |mana_r| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+   Surge |mana_1|\ |mana_r| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 
    Haste
 
@@ -708,7 +708,7 @@ Tears of Valakut
 
 
 Tyrant of Valakut
-   Surge |mana_3| |mana_r| |mana_r| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+   Surge |mana_3|\ |mana_r|\ |mana_r| (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
 
    Flying
 
@@ -726,7 +726,7 @@ Birthing Hulk
 
    When Birthing Hulk enters the battlefield, create two 1/1 colorless Eldrazi Scion creature tokens. They have "Sacrifice this creature: Add |colorless|." (|colorless| represents colorless mana.)
 
-   |mana_1| |colorless|: Regenerate Birthing Hulk.
+   |mana_1|\ |colorless|: Regenerate Birthing Hulk.
 
 
 Ruin in Their Wake
@@ -762,7 +762,7 @@ World Breaker
 
    Reach
 
-   |mana_2| |colorless|, Sacrifice a land: Return World Breaker from your graveyard to your hand. (|colorless| represents colorless mana.)
+   |mana_2|\ |colorless|, Sacrifice a land: Return World Breaker from your graveyard to your hand. (|colorless| represents colorless mana.)
 
 
 Baloth Pup
@@ -886,7 +886,7 @@ Mindmelter
 
    Mindmelter can't be blocked.
 
-   |mana_3| |colorless|: Target opponent exiles a card from their hand. Activate this ability only any time you could cast a sorcery. (|colorless| represents colorless mana.)
+   |mana_3|\ |colorless|: Target opponent exiles a card from their hand. Activate this ability only any time you could cast a sorcery. (|colorless| represents colorless mana.)
 
 
 Void Grafter
@@ -902,7 +902,7 @@ Ayli, Eternal Pilgrim
 
    |mana_1|, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.
 
-   |mana_1| |mana_w| |mana_b|, Sacrifice another creature: Exile target nonland permanent. Activate this ability only if you have at least 10 life more than your starting life total.
+   |mana_1|\ |mana_w|\ |mana_b|, Sacrifice another creature: Exile target nonland permanent. Activate this ability only if you have at least 10 life more than your starting life total.
 
 
 Baloth Null
@@ -916,7 +916,7 @@ Cliffhaven Vampire
 
 
 Joraga Auxiliary
-   |mana_4| |mana_g| |mana_w|: Support 2. (Put a +1/+1 counter on each of up to two other target creatures.)
+   |mana_4|\ |mana_g|\ |mana_w|: Support 2. (Put a +1/+1 counter on each of up to two other target creatures.)
 
 
 Jori En, Ruin Diver
@@ -926,7 +926,7 @@ Jori En, Ruin Diver
 Mina and Denn, Wildborn
    You may play an additional land on each of your turns.
 
-   |mana_r| |mana_g|, Return a land you control to its owner's hand: Target creature gains trample until end of turn.
+   |mana_r|\ |mana_g|, Return a land you control to its owner's hand: Target creature gains trample until end of turn.
 
 
 Reflector Mage
@@ -934,7 +934,7 @@ Reflector Mage
 
 
 Relentless Hunter
-   |mana_1| |mana_r| |mana_g|: Relentless Hunter gets +1/+1 and gains trample until end of turn.
+   |mana_1|\ |mana_r|\ |mana_g|: Relentless Hunter gets +1/+1 and gains trample until end of turn.
 
 
 Stormchaser Mage
@@ -1014,7 +1014,7 @@ Hissing Quagmire
 
    |tap|: Add |mana_b| or |mana_g|.
 
-   |mana_1| |mana_b| |mana_g|: Hissing Quagmire becomes a 2/2 black and green Elemental creature with deathtouch until end of turn. It's still a land.
+   |mana_1|\ |mana_b|\ |mana_g|: Hissing Quagmire becomes a 2/2 black and green Elemental creature with deathtouch until end of turn. It's still a land.
 
 
 Holdout Settlement
@@ -1034,9 +1034,9 @@ Mirrorpool
 
    |tap|: Add |colorless|.
 
-   |mana_2| |colorless|, |tap|, Sacrifice Mirrorpool: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+   |mana_2|\ |colorless|, |tap|, Sacrifice Mirrorpool: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
 
-   |mana_4| |colorless|, |tap|, Sacrifice Mirrorpool: Create a token that's a copy of target creature you control.
+   |mana_4|\ |colorless|, |tap|, Sacrifice Mirrorpool: Create a token that's a copy of target creature you control.
 
 
 Needle Spires
@@ -1044,7 +1044,7 @@ Needle Spires
 
    |tap|: Add |mana_r| or |mana_w|.
 
-   |mana_2| |mana_r| |mana_w|: Needle Spires becomes a 2/1 red and white Elemental creature with double strike until end of turn. It's still a land.
+   |mana_2|\ |mana_r|\ |mana_w|: Needle Spires becomes a 2/1 red and white Elemental creature with double strike until end of turn. It's still a land.
 
 
 Ruins of Oran-Rief
@@ -1058,7 +1058,7 @@ Ruins of Oran-Rief
 Sea Gate Wreckage
    |tap|: Add |colorless|. (|colorless| represents colorless mana.)
 
-   |mana_2| |colorless|, |tap|: Draw a card. Activate this ability only if you have no cards in hand.
+   |mana_2|\ |colorless|, |tap|: Draw a card. Activate this ability only if you have no cards in hand.
 
 
 Submerged Boneyard
@@ -1090,7 +1090,7 @@ Wandering Fumarole
 
    |tap|: Add |mana_u| or |mana_r|.
 
-   |mana_2| |mana_u| |mana_r|: Until end of turn, Wandering Fumarole becomes a 1/4 blue and red Elemental creature with "|mana_0|: Switch this creature's power and toughness until end of turn." It's still a land.
+   |mana_2|\ |mana_u|\ |mana_r|: Until end of turn, Wandering Fumarole becomes a 1/4 blue and red Elemental creature with "|mana_0|: Switch this creature's power and toughness until end of turn." It's still a land.
 
 
 Wastes

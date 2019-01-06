@@ -16,7 +16,7 @@ Cavalry Pegasus
 
 
 Celestial Archon
-   Bestow |mana_5| |mana_w| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_5|\ |mana_w|\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Flying, first strike
 
@@ -44,7 +44,7 @@ Dauntless Onslaught
 Decorated Griffin
    Flying
 
-   |mana_1| |mana_w|: Prevent the next 1 combat damage that would be dealt to you this turn.
+   |mana_1|\ |mana_w|: Prevent the next 1 combat damage that would be dealt to you this turn.
 
 
 Divine Verdict
@@ -98,11 +98,11 @@ Heliod, God of the Sun
 
    Other creatures you control have vigilance.
 
-   |mana_2| |mana_w| |mana_w|: Create a 2/1 white Cleric enchantment creature token.
+   |mana_2|\ |mana_w|\ |mana_w|: Create a 2/1 white Cleric enchantment creature token.
 
 
 Heliod's Emissary
-   Bestow |mana_6| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_6|\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Whenever Heliod's Emissary or enchanted creature attacks, tap target creature an opponent controls.
 
@@ -110,7 +110,7 @@ Heliod's Emissary
 
 
 Hopeful Eidolon
-   Bestow |mana_3| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_3|\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Lifelink (Damage dealt by this creature also causes you to gain that much life.)
 
@@ -120,7 +120,7 @@ Hopeful Eidolon
 Hundred-Handed One
    Vigilance
 
-   |mana_3| |mana_w| |mana_w| |mana_w|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+   |mana_3|\ |mana_w|\ |mana_w|\ |mana_w|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
    As long as Hundred-Handed One is monstrous, it has reach and can block an additional ninety-nine creatures each combat.
 
@@ -138,7 +138,7 @@ Leonin Snarecaster
 
 
 Observant Alseid
-   Bestow |mana_4| |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_4|\ |mana_w| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Vigilance
 
@@ -162,7 +162,7 @@ Ray of Dissolution
 
 
 Scholar of Athreos
-   |mana_2| |mana_b|: Each opponent loses 1 life. You gain life equal to the life lost this way.
+   |mana_2|\ |mana_b|: Each opponent loses 1 life. You gain life equal to the life lost this way.
 
 
 Setessan Battle Priest
@@ -172,7 +172,7 @@ Setessan Battle Priest
 Setessan Griffin
    Flying
 
-   |mana_2| |mana_g| |mana_g|: Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn.
+   |mana_2|\ |mana_g|\ |mana_g|: Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn.
 
 
 Silent Artisan
@@ -188,7 +188,7 @@ Soldier of the Pantheon
 Spear of Heliod
    Creatures you control get +1/+1.
 
-   |mana_1| |mana_w| |mana_w|, |tap|: Destroy target creature that dealt damage to you this turn.
+   |mana_1|\ |mana_w|\ |mana_w|, |tap|: Destroy target creature that dealt damage to you this turn.
 
 
 Traveling Philosopher
@@ -232,7 +232,7 @@ Benthic Giant
 Bident of Thassa
    Whenever a creature you control deals combat damage to a player, you may draw a card.
 
-   |mana_1| |mana_u|, |tap|: Creatures your opponents control attack this turn if able.
+   |mana_1|\ |mana_u|, |tap|: Creatures your opponents control attack this turn if able.
 
 
 Breaching Hippocamp
@@ -244,11 +244,11 @@ Breaching Hippocamp
 Coastline Chimera
    Flying
 
-   |mana_1| |mana_w|: Coastline Chimera can block an additional creature this turn.
+   |mana_1|\ |mana_w|: Coastline Chimera can block an additional creature this turn.
 
 
 Crackling Triton
-   |mana_2| |mana_r|, Sacrifice Crackling Triton: Crackling Triton deals 2 damage to any target.
+   |mana_2|\ |mana_r|, Sacrifice Crackling Triton: Crackling Triton deals 2 damage to any target.
 
 
 Curse of the Swine
@@ -294,7 +294,7 @@ Master of Waves
 
 
 Meletis Charlatan
-   |mana_2| |mana_u|, |tap|: The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy.
+   |mana_2|\ |mana_u|, |tap|: The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy.
 
 
 Mnemonic Wall
@@ -304,7 +304,7 @@ Mnemonic Wall
 
 
 Nimbus Naiad
-   Bestow |mana_4| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_4|\ |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Flying
 
@@ -344,13 +344,13 @@ Sea God's Revenge
 Sealock Monster
    Sealock Monster can't attack unless defending player controls an Island.
 
-   |mana_5| |mana_u| |mana_u|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+   |mana_5|\ |mana_u|\ |mana_u|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
    When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types.
 
 
 Shipbreaker Kraken
-   |mana_6| |mana_u| |mana_u|: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)
+   |mana_6|\ |mana_u|\ |mana_u|: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)
 
    When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control Shipbreaker Kraken.
 
@@ -370,7 +370,7 @@ Thassa, God of the Sea
 
    At the beginning of your upkeep, scry 1.
 
-   |mana_1| |mana_u|: Target creature you control can't be blocked this turn.
+   |mana_1|\ |mana_u|: Target creature you control can't be blocked this turn.
 
 
 Thassa's Bounty
@@ -378,7 +378,7 @@ Thassa's Bounty
 
 
 Thassa's Emissary
-   Bestow |mana_5| |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_5|\ |mana_u| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Whenever Thassa's Emissary or enchanted creature deals combat damage to a player, draw a card.
 
@@ -426,11 +426,11 @@ Agent of the Fates
 
 
 Asphodel Wanderer
-   |mana_2| |mana_b|: Regenerate Asphodel Wanderer.
+   |mana_2|\ |mana_b|: Regenerate Asphodel Wanderer.
 
 
 Baleful Eidolon
-   Bestow |mana_4| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_4|\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 
@@ -448,7 +448,7 @@ Boon of Erebos
 
 
 Cavern Lampad
-   Bestow |mana_5| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_5|\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
 
@@ -474,11 +474,11 @@ Erebos, God of the Dead
 
    Your opponents can't gain life.
 
-   |mana_1| |mana_b|, Pay 2 life: Draw a card.
+   |mana_1|\ |mana_b|, Pay 2 life: Draw a card.
 
 
 Erebos's Emissary
-   Bestow |mana_5| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_5|\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Discard a creature card: Erebos's Emissary gets +2/+2 until end of turn. If Erebos's Emissary is an Aura, enchanted creature gets +2/+2 until end of turn instead.
 
@@ -504,7 +504,7 @@ Hero's Downfall
 Hythonia the Cruel
    Deathtouch
 
-   |mana_6| |mana_b| |mana_b|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+   |mana_6|\ |mana_b|\ |mana_b|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
    When Hythonia the Cruel becomes monstrous, destroy all non-Gorgon creatures.
 
@@ -516,7 +516,7 @@ Insatiable Harpy
 Keepsake Gorgon
    Deathtouch
 
-   |mana_5| |mana_b| |mana_b|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+   |mana_5|\ |mana_b|\ |mana_b|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)
 
    When Keepsake Gorgon becomes monstrous, destroy target non-Gorgon creature an opponent controls.
 
@@ -526,7 +526,7 @@ Lash of the Whip
 
 
 Loathsome Catoblepas
-   |mana_2| |mana_g|: Loathsome Catoblepas must be blocked this turn if able.
+   |mana_2|\ |mana_g|: Loathsome Catoblepas must be blocked this turn if able.
 
    When Loathsome Catoblepas dies, target creature an opponent controls gets -3/-3 until end of turn.
 
@@ -540,7 +540,7 @@ Mogis's Marauder
 
 
 Nighthowler
-   Bestow |mana_2| |mana_b| |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_2|\ |mana_b|\ |mana_b| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.
 
@@ -574,7 +574,7 @@ Returned Centaur
 Returned Phalanx
    Defender
 
-   |mana_1| |mana_u|: Returned Phalanx can attack this turn as though it didn't have defender.
+   |mana_1|\ |mana_u|: Returned Phalanx can attack this turn as though it didn't have defender.
 
 
 Scourgemark
@@ -608,7 +608,7 @@ Viper's Kiss
 Whip of Erebos
    Creatures you control have lifelink.
 
-   |mana_2| |mana_b| |mana_b|, |tap|: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.
+   |mana_2|\ |mana_b|\ |mana_b|, |tap|: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.
 
 
 Akroan Crusader
@@ -638,7 +638,7 @@ Coordinated Assault
 Deathbellow Raider
    Deathbellow Raider attacks each combat if able.
 
-   |mana_2| |mana_b|: Regenerate Deathbellow Raider.
+   |mana_2|\ |mana_b|: Regenerate Deathbellow Raider.
 
 
 Demolish
@@ -654,7 +654,7 @@ Dragon Mantle
 
 
 Ember Swallower
-   |mana_5| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+   |mana_5|\ |mana_r|\ |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
    When Ember Swallower becomes monstrous, each player sacrifices three lands.
 
@@ -666,7 +666,7 @@ Fanatic of Mogis
 Firedrinker Satyr
    Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you.
 
-   |mana_1| |mana_r|: Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to you.
+   |mana_1|\ |mana_r|: Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to you.
 
 
 Flamespeaker Adept
@@ -676,13 +676,13 @@ Flamespeaker Adept
 Hammer of Purphoros
    Creatures you control have haste.
 
-   |mana_2| |mana_r|, |tap|, Sacrifice a land: Create a 3/3 colorless Golem enchantment artifact creature token.
+   |mana_2|\ |mana_r|, |tap|, Sacrifice a land: Create a 3/3 colorless Golem enchantment artifact creature token.
 
 
 Ill-Tempered Cyclops
    Trample
 
-   |mana_5| |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+   |mana_5|\ |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
 
 Labyrinth Champion
@@ -726,7 +726,7 @@ Portent of Betrayal
 
 
 Priest of Iroas
-   |mana_3| |mana_w|, Sacrifice Priest of Iroas: Destroy target enchantment.
+   |mana_3|\ |mana_w|, Sacrifice Priest of Iroas: Destroy target enchantment.
 
 
 Purphoros, God of the Forge
@@ -736,11 +736,11 @@ Purphoros, God of the Forge
 
    Whenever another creature enters the battlefield under your control, Purphoros deals 2 damage to each opponent.
 
-   |mana_2| |mana_r|: Creatures you control get +1/+0 until end of turn.
+   |mana_2|\ |mana_r|: Creatures you control get +1/+0 until end of turn.
 
 
 Purphoros's Emissary
-   Bestow |mana_6| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_6|\ |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Menace (This creature can't be blocked except by two or more creatures.)
 
@@ -766,7 +766,7 @@ Spark Jolt
 
 
 Spearpoint Oread
-   Bestow |mana_5| |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_5|\ |mana_r| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    First strike
 
@@ -774,7 +774,7 @@ Spearpoint Oread
 
 
 Stoneshock Giant
-   |mana_6| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+   |mana_6|\ |mana_r|\ |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
    When Stoneshock Giant becomes monstrous, creatures without flying your opponents control can't block this turn.
 
@@ -782,7 +782,7 @@ Stoneshock Giant
 Stormbreath Dragon
    Flying, haste, protection from white
 
-   |mana_5| |mana_r| |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+   |mana_5|\ |mana_r|\ |mana_r|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
    When Stormbreath Dragon becomes monstrous, it deals damage to each opponent equal to the number of cards in that player's hand.
 
@@ -804,7 +804,7 @@ Wild Celebrants
 
 
 Agent of Horizons
-   |mana_2| |mana_u|: Agent of Horizons can't be blocked this turn.
+   |mana_2|\ |mana_u|: Agent of Horizons can't be blocked this turn.
 
 
 Anthousa, Setessan Hero
@@ -814,7 +814,7 @@ Anthousa, Setessan Hero
 Arbor Colossus
    Reach
 
-   |mana_3| |mana_g| |mana_g| |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+   |mana_3|\ |mana_g|\ |mana_g|\ |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
    When Arbor Colossus becomes monstrous, destroy target creature with flying an opponent controls.
 
@@ -826,7 +826,7 @@ Artisan's Sorrow
 Boon Satyr
    Flash
 
-   Bestow |mana_3| |mana_g| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_3|\ |mana_g|\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Enchanted creature gets +4/+2.
 
@@ -834,7 +834,7 @@ Boon Satyr
 Bow of Nylea
    Attacking creatures you control have deathtouch.
 
-   |mana_1| |mana_g|, |tap|: Choose one —
+   |mana_1|\ |mana_g|, |tap|: Choose one —
 
    • Put a +1/+1 counter on target creature.
 
@@ -878,7 +878,7 @@ Karametra's Acolyte
 
 
 Leafcrown Dryad
-   Bestow |mana_3| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_3|\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Reach
 
@@ -896,13 +896,13 @@ Mistcutter Hydra
 Nemesis of Mortals
    This spell costs |mana_1| less to cast for each creature card in your graveyard.
 
-   |mana_7| |mana_g| |mana_g|: Monstrosity 5. This ability costs |mana_1| less to activate for each creature card in your graveyard. (If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)
+   |mana_7|\ |mana_g|\ |mana_g|: Monstrosity 5. This ability costs |mana_1| less to activate for each creature card in your graveyard. (If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)
 
 
 Nessian Asp
    Reach
 
-   |mana_6| |mana_g|: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)
+   |mana_6|\ |mana_g|: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)
 
 
 Nessian Courser
@@ -916,7 +916,7 @@ Nylea, God of the Hunt
 
    Other creatures you control have trample.
 
-   |mana_3| |mana_g|: Target creature gets +2/+2 until end of turn.
+   |mana_3|\ |mana_g|: Target creature gets +2/+2 until end of turn.
 
 
 Nylea's Disciple
@@ -924,7 +924,7 @@ Nylea's Disciple
 
 
 Nylea's Emissary
-   Bestow |mana_5| |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+   Bestow |mana_5|\ |mana_g| (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
 
    Trample
 
@@ -952,7 +952,7 @@ Pheres-Band Centaurs
 
 
 Polukranos, World Eater
-   |mana_x| |mana_x| |mana_g|: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)
+   |mana_x|\ |mana_x|\ |mana_g|: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)
 
    When Polukranos, World Eater becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos.
 
@@ -962,11 +962,11 @@ Reverent Hunter
 
 
 Satyr Hedonist
-   |mana_r|, Sacrifice Satyr Hedonist: Add |mana_r| |mana_r| |mana_r|.
+   |mana_r|, Sacrifice Satyr Hedonist: Add |mana_r|\ |mana_r|\ |mana_r|.
 
 
 Satyr Piper
-   |mana_3| |mana_g|: Target creature must be blocked this turn if able.
+   |mana_3|\ |mana_g|: Target creature must be blocked this turn if able.
 
 
 Savage Surge
@@ -1050,7 +1050,7 @@ Destructive Revelry
 
 
 Fleecemane Lion
-   |mana_3| |mana_g| |mana_w|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+   |mana_3|\ |mana_g|\ |mana_w|: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)
 
    As long as Fleecemane Lion is monstrous, it has hexproof and indestructible.
 
@@ -1084,7 +1084,7 @@ Pharika's Mender
 Polis Crusher
    Trample, protection from enchantments
 
-   |mana_4| |mana_r| |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+   |mana_4|\ |mana_r|\ |mana_g|: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
 
    Whenever Polis Crusher deals combat damage to a player, if Polis Crusher is monstrous, destroy target enchantment that player controls.
 
@@ -1104,21 +1104,21 @@ Reaper of the Wilds
 
    |mana_b|: Reaper of the Wilds gains deathtouch until end of turn.
 
-   |mana_1| |mana_g|: Reaper of the Wilds gains hexproof until end of turn.
+   |mana_1|\ |mana_g|: Reaper of the Wilds gains hexproof until end of turn.
 
 
 Sentry of the Underworld
    Flying, vigilance
 
-   |mana_w| |mana_b|, Pay 3 life: Regenerate Sentry of the Underworld.
+   |mana_w|\ |mana_b|, Pay 3 life: Regenerate Sentry of the Underworld.
 
 
 Shipwreck Singer
    Flying
 
-   |mana_1| |mana_u|: Target creature an opponent controls attacks this turn if able.
+   |mana_1|\ |mana_u|: Target creature an opponent controls attacks this turn if able.
 
-   |mana_1| |mana_b|, |tap|: Attacking creatures get -1/-1 until end of turn.
+   |mana_1|\ |mana_b|, |tap|: Attacking creatures get -1/-1 until end of turn.
 
 
 Spellheart Chimera
@@ -1140,9 +1140,9 @@ Triad of Fates
 
 
 Tymaret, the Murder King
-   |mana_1| |mana_r|, Sacrifice another creature: Tymaret, the Murder King deals 2 damage to target player or planeswalker.
+   |mana_1|\ |mana_r|, Sacrifice another creature: Tymaret, the Murder King deals 2 damage to target player or planeswalker.
 
-   |mana_1| |mana_b|, Sacrifice a creature: Return Tymaret from your graveyard to your hand.
+   |mana_1|\ |mana_b|, Sacrifice a creature: Return Tymaret from your graveyard to your hand.
 
 
 Underworld Cerberus

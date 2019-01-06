@@ -22,15 +22,15 @@ Aeronaut Admiral
 Aether Inspector
    Vigilance
 
-   When Aether Inspector enters the battlefield, you get {E} {E} (two energy counters).
+   When Aether Inspector enters the battlefield, you get {E}{E} (two energy counters).
 
-   Whenever Aether Inspector attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token.
+   Whenever Aether Inspector attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.
 
 
 Aethergeode Miner
-   Whenever Aethergeode Miner attacks, you get {E} {E} (two energy counters).
+   Whenever Aethergeode Miner attacks, you get {E}{E} (two energy counters).
 
-   Pay {E} {E}: Exile Aethergeode Miner, then return it to the battlefield under its owner's control.
+   Pay {E}{E}: Exile Aethergeode Miner, then return it to the battlefield under its owner's control.
 
 
 Airdrop Aeronauts
@@ -146,17 +146,17 @@ Thopter Arrest
 Aether Swooper
    Flying
 
-   When Aether Swooper enters the battlefield, you get {E} {E} (two energy counters).
+   When Aether Swooper enters the battlefield, you get {E}{E} (two energy counters).
 
-   Whenever Aether Swooper attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token.
+   Whenever Aether Swooper attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.
 
 
 Aethertide Whale
    Flying
 
-   When Aethertide Whale enters the battlefield, you get {E} {E} {E} {E} {E} {E} (six energy counters).
+   When Aethertide Whale enters the battlefield, you get {E}{E}{E}{E}{E}{E} (six energy counters).
 
-   Pay {E} {E} {E} {E}: Return Aethertide Whale to its owner's hand.
+   Pay {E}{E}{E}{E}: Return Aethertide Whale to its owner's hand.
 
 
 Baral, Chief of Compliance
@@ -248,11 +248,11 @@ Shielded Aether Thief
 
    Whenever Shielded Aether Thief blocks, you get {E} (an energy counter).
 
-   |tap|, Pay {E} {E} {E}: Draw a card.
+   |tap|, Pay {E}{E}{E}: Draw a card.
 
 
 Shipwreck Moray
-   When Shipwreck Moray enters the battlefield, you get {E} {E} {E} {E} (four energy counters).
+   When Shipwreck Moray enters the battlefield, you get {E}{E}{E}{E} (four energy counters).
 
    Pay {E}: Shipwreck Moray gets +2/-2 until end of turn.
 
@@ -286,9 +286,9 @@ Wind-Kin Raiders
 Aether Poisoner
    Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
 
-   When Aether Poisoner enters the battlefield, you get {E} {E} (two energy counters).
+   When Aether Poisoner enters the battlefield, you get {E}{E} (two energy counters).
 
-   Whenever Aether Poisoner attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token.
+   Whenever Aether Poisoner attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.
 
 
 Alley Strangler
@@ -344,13 +344,13 @@ Glint-Sleeve Siphoner
 
    Whenever Glint-Sleeve Siphoner enters the battlefield or attacks, you get {E} (an energy counter).
 
-   At the beginning of your upkeep, you may pay {E} {E}. If you do, you draw a card and you lose 1 life.
+   At the beginning of your upkeep, you may pay {E}{E}. If you do, you draw a card and you lose 1 life.
 
 
 Gonti's Machinations
    Whenever you lose life for the first time each turn, you get {E}. (You get an energy counter. Damage causes loss of life.)
 
-   Pay {E} {E}, Sacrifice Gonti's Machinations: Each opponent loses 3 life. You gain life equal to the life lost this way.
+   Pay {E}{E}, Sacrifice Gonti's Machinations: Each opponent loses 3 life. You gain life equal to the life lost this way.
 
 
 Herald of Anguish
@@ -360,7 +360,7 @@ Herald of Anguish
 
    At the beginning of your end step, each opponent discards a card.
 
-   |mana_1| |mana_b|, Sacrifice an artifact: Target creature gets -2/-2 until end of turn.
+   |mana_1|\ |mana_b|, Sacrifice an artifact: Target creature gets -2/-2 until end of turn.
 
 
 Ironclad Revolutionary
@@ -422,9 +422,9 @@ Yahenni's Expertise
 Aether Chaser
    First strike
 
-   When Aether Chaser enters the battlefield, you get {E} {E} (two energy counters).
+   When Aether Chaser enters the battlefield, you get {E}{E} (two energy counters).
 
-   Whenever Aether Chaser attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token.
+   Whenever Aether Chaser attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.
 
 
 Chandra's Revolution
@@ -454,7 +454,7 @@ Freejam Regent
 
    Flying
 
-   |mana_1| |mana_r|: Freejam Regent gets +2/+0 until end of turn.
+   |mana_1|\ |mana_r|: Freejam Regent gets +2/+0 until end of turn.
 
 
 Frontline Rebel
@@ -504,7 +504,7 @@ Lathnu Sailback
 Lightning Runner
    Double strike, haste
 
-   Whenever Lightning Runner attacks, you get {E} {E} (two energy counters), then you may pay {E} {E} {E} {E} {E} {E} {E} {E}. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase.
+   Whenever Lightning Runner attacks, you get {E}{E} (two energy counters), then you may pay {E}{E}{E}{E}{E}{E}{E}{E}. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase.
 
 
 Pia's Revolution
@@ -536,9 +536,9 @@ Release the Gremlins
 Scrapper Champion
    Double strike (This creature deals both first-strike and regular combat damage.)
 
-   When Scrapper Champion enters the battlefield, you get {E} {E} (two energy counters).
+   When Scrapper Champion enters the battlefield, you get {E}{E} (two energy counters).
 
-   Whenever Scrapper Champion attacks, you may pay {E} {E}. If you do, put a +1/+1 counter on it.
+   Whenever Scrapper Champion attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.
 
 
 Shock
@@ -564,9 +564,9 @@ Wrangle
 
 
 Aether Herder
-   When Aether Herder enters the battlefield, you get {E} {E} (two energy counters).
+   When Aether Herder enters the battlefield, you get {E}{E} (two energy counters).
 
-   Whenever Aether Herder attacks, you may pay {E} {E}. If you do, create a 1/1 colorless Servo artifact creature token.
+   Whenever Aether Herder attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token.
 
 
 Aetherstream Leopard
@@ -594,7 +594,7 @@ Druid of the Cowl
 
 
 Greenbelt Rampager
-   When Greenbelt Rampager enters the battlefield, pay {E} {E} (two energy counters). If you can't, return Greenbelt Rampager to its owner's hand and you get {E}.
+   When Greenbelt Rampager enters the battlefield, pay {E}{E} (two energy counters). If you can't, return Greenbelt Rampager to its owner's hand and you get {E}.
 
 
 Greenwheel Liberator
@@ -606,11 +606,11 @@ Heroic Intervention
 
 
 Hidden Herbalists
-   Revolt — When Hidden Herbalists enters the battlefield, if a permanent you controlled left the battlefield this turn, add |mana_g| |mana_g|.
+   Revolt — When Hidden Herbalists enters the battlefield, if a permanent you controlled left the battlefield this turn, add |mana_g|\ |mana_g|.
 
 
 Highspire Infusion
-   Target creature gets +3/+3 until end of turn. You get {E} {E} (two energy counters).
+   Target creature gets +3/+3 until end of turn. You get {E}{E} (two energy counters).
 
 
 Lifecraft Awakening
@@ -650,7 +650,7 @@ Natural Obsolescence
 Peema Aether-Seer
    When Peema Aether-Seer enters the battlefield, you get an amount of {E} (energy counters) equal to the greatest power among creatures you control.
 
-   Pay {E} {E} {E}: Target creature blocks this turn if able.
+   Pay {E}{E}{E}: Target creature blocks this turn if able.
 
 
 Prey Upon
@@ -738,7 +738,7 @@ Renegade Wheelsmith
 
 
 Rogue Refiner
-   When Rogue Refiner enters the battlefield, draw a card and you get {E} {E} (two energy counters).
+   When Rogue Refiner enters the battlefield, draw a card and you get {E}{E} (two energy counters).
 
 
 Spire Patrol
@@ -774,13 +774,13 @@ Winding Constrictor
 
 
 Aegis Automaton
-   |mana_4| |mana_w|: Return another target creature you control to its owner's hand.
+   |mana_4|\ |mana_w|: Return another target creature you control to its owner's hand.
 
 
 Aethersphere Harvester
    Flying
 
-   When Aethersphere Harvester enters the battlefield, you get {E} {E} (two energy counters).
+   When Aethersphere Harvester enters the battlefield, you get {E}{E} (two energy counters).
 
    Pay {E}: Aethersphere Harvester gains lifelink until end of turn.
 
@@ -788,7 +788,7 @@ Aethersphere Harvester
 
 
 Augmenting Automaton
-   |mana_1| |mana_b|: Augmenting Automaton gets +1/+1 until end of turn.
+   |mana_1|\ |mana_b|: Augmenting Automaton gets +1/+1 until end of turn.
 
 
 Barricade Breaker
@@ -808,7 +808,7 @@ Consulate Dreadnought
 Consulate Turret
    |tap|: You get {E} (an energy counter).
 
-   |tap|, Pay {E} {E} {E}: Consulate Turret deals 2 damage to target player or planeswalker.
+   |tap|, Pay {E}{E}{E}: Consulate Turret deals 2 damage to target player or planeswalker.
 
 
 Crackdown Construct
@@ -830,9 +830,9 @@ Foundry Assembler
 
 
 Gonti's Aether Heart
-   Whenever Gonti's Aether Heart or another artifact enters the battlefield under your control, you get {E} {E} (two energy counters).
+   Whenever Gonti's Aether Heart or another artifact enters the battlefield under your control, you get {E}{E} (two energy counters).
 
-   Pay {E} {E} {E} {E} {E} {E} {E} {E}, Exile Gonti's Aether Heart: Take an extra turn after this one.
+   Pay {E}{E}{E}{E}{E}{E}{E}{E}, Exile Gonti's Aether Heart: Take an extra turn after this one.
 
 
 Heart of Kiran
@@ -894,7 +894,7 @@ Lifecrafter's Bestiary
 
 
 Merchant's Dockhand
-   |mana_3| |mana_u|, |tap|, Tap X untapped artifacts you control: Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+   |mana_3|\ |mana_u|, |tap|, Tap X untapped artifacts you control: Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
 
 
 Metallic Mimic
@@ -928,7 +928,7 @@ Paradox Engine
 
 
 Peacewalker Colossus
-   |mana_1| |mana_w|: Another target Vehicle you control becomes an artifact creature until end of turn.
+   |mana_1|\ |mana_w|: Another target Vehicle you control becomes an artifact creature until end of turn.
 
    Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)
 
@@ -948,7 +948,7 @@ Renegade Map
 
 
 Reservoir Walker
-   When Reservoir Walker enters the battlefield, you gain 3 life and get {E} {E} {E} (three energy counters).
+   When Reservoir Walker enters the battlefield, you gain 3 life and get {E}{E}{E} (three energy counters).
 
 
 Scrap Trawler
@@ -976,7 +976,7 @@ Untethered Express
 
 
 Verdant Automaton
-   |mana_3| |mana_g|: Put a +1/+1 counter on Verdant Automaton.
+   |mana_3|\ |mana_g|: Put a +1/+1 counter on Verdant Automaton.
 
 
 Walking Ballista
@@ -988,11 +988,11 @@ Walking Ballista
 
 
 Watchful Automaton
-   |mana_2| |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+   |mana_2|\ |mana_u|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 
 
 Welder Automaton
-   |mana_3| |mana_r|: Welder Automaton deals 1 damage to each opponent.
+   |mana_3|\ |mana_r|: Welder Automaton deals 1 damage to each opponent.
 
 
 Spire of Industry
