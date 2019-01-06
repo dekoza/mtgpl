@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2018-12-30 23:02+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/aer/pl/>\n"
@@ -69,29 +69,33 @@ msgstr "Czujność"
 #: ../../AER.rst:25
 #, fuzzy
 msgid ""
-"When Aether Inspector enters the battlefield, you get {E} {E} (two energy "
+"When Aether Inspector enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:27
+#, fuzzy
 msgid ""
-"Whenever Aether Inspector attacks, you may pay {E} {E}. If you do, create a "
+"Whenever Aether Inspector attacks, you may pay {E}{E}. If you do, create a "
 "1/1 colorless Servo artifact creature token."
 msgstr ""
+"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
+"stwora Thopter 1/1 z lataniem."
 
 #: ../../AER.rst:34
 msgid "Aethergeode Miner"
 msgstr ""
 
 #: ../../AER.rst:31
+#, fuzzy
 msgid ""
-"Whenever Aethergeode Miner attacks, you get {E} {E} (two energy counters)."
-msgstr ""
+"Whenever Aethergeode Miner attacks, you get {E}{E} (two energy counters)."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:33
 msgid ""
-"Pay {E} {E}: Exile Aethergeode Miner, then return it to the battlefield "
-"under its owner's control."
+"Pay {E}{E}: Exile Aethergeode Miner, then return it to the battlefield under "
+"its owner's control."
 msgstr ""
 
 #: ../../AER.rst:40
@@ -327,30 +331,36 @@ msgid "Aether Swooper"
 msgstr ""
 
 #: ../../AER.rst:149
+#, fuzzy
 msgid ""
-"When Aether Swooper enters the battlefield, you get {E} {E} (two energy "
+"When Aether Swooper enters the battlefield, you get {E}{E} (two energy "
 "counters)."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:151
+#, fuzzy
 msgid ""
-"Whenever Aether Swooper attacks, you may pay {E} {E}. If you do, create a "
-"1/1 colorless Servo artifact creature token."
+"Whenever Aether Swooper attacks, you may pay {E}{E}. If you do, create a 1/1 "
+"colorless Servo artifact creature token."
 msgstr ""
+"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
+"stwora Thopter 1/1 z lataniem."
 
 #: ../../AER.rst:160
 msgid "Aethertide Whale"
 msgstr ""
 
 #: ../../AER.rst:157
+#, fuzzy
 msgid ""
-"When Aethertide Whale enters the battlefield, you get {E} {E} {E} {E} {E} "
-"{E} (six energy counters)."
-msgstr ""
+"When Aethertide Whale enters the battlefield, you get {E}{E}{E}{E}{E}{E} "
+"(six energy counters)."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:159
-msgid "Pay {E} {E} {E} {E}: Return Aethertide Whale to its owner's hand."
-msgstr ""
+#, fuzzy
+msgid "Pay {E}{E}{E}{E}: Return Aethertide Whale to its owner's hand."
+msgstr "Zwróć wskazany nielądowy permanent do ręki jego właściciela."
 
 #: ../../AER.rst:166
 msgid "Baral, Chief of Compliance"
@@ -549,7 +559,7 @@ msgid "Whenever Shielded Aether Thief blocks, you get {E} (an energy counter)."
 msgstr ""
 
 #: ../../AER.rst:251
-msgid "|tap|, Pay {E} {E} {E}: Draw a card."
+msgid "|tap|, Pay {E}{E}{E}: Draw a card."
 msgstr ""
 
 #: ../../AER.rst:258
@@ -557,10 +567,11 @@ msgid "Shipwreck Moray"
 msgstr ""
 
 #: ../../AER.rst:255
+#, fuzzy
 msgid ""
-"When Shipwreck Moray enters the battlefield, you get {E} {E} {E} {E} (four "
+"When Shipwreck Moray enters the battlefield, you get {E}{E}{E}{E} (four "
 "energy counters)."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:257
 msgid "Pay {E}: Shipwreck Moray gets +2/-2 until end of turn."
@@ -627,16 +638,20 @@ msgstr ""
 "wystarcza, aby został zniszczony.)"
 
 #: ../../AER.rst:289
+#, fuzzy
 msgid ""
-"When Aether Poisoner enters the battlefield, you get {E} {E} (two energy "
+"When Aether Poisoner enters the battlefield, you get {E}{E} (two energy "
 "counters)."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:291
+#, fuzzy
 msgid ""
-"Whenever Aether Poisoner attacks, you may pay {E} {E}. If you do, create a "
+"Whenever Aether Poisoner attacks, you may pay {E}{E}. If you do, create a "
 "1/1 colorless Servo artifact creature token."
 msgstr ""
+"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
+"stwora Thopter 1/1 z lataniem."
 
 #: ../../AER.rst:296
 msgid "Alley Strangler"
@@ -745,7 +760,7 @@ msgstr ""
 
 #: ../../AER.rst:347
 msgid ""
-"At the beginning of your upkeep, you may pay {E} {E}. If you do, you draw a "
+"At the beginning of your upkeep, you may pay {E}{E}. If you do, you draw a "
 "card and you lose 1 life."
 msgstr ""
 
@@ -761,7 +776,7 @@ msgstr ""
 
 #: ../../AER.rst:353
 msgid ""
-"Pay {E} {E}, Sacrifice Gonti's Machinations: Each opponent loses 3 life. You "
+"Pay {E}{E}, Sacrifice Gonti's Machinations: Each opponent loses 3 life. You "
 "gain life equal to the life lost this way."
 msgstr ""
 
@@ -775,7 +790,7 @@ msgstr ""
 
 #: ../../AER.rst:363
 msgid ""
-"|mana_1| |mana_b|, Sacrifice an artifact: Target creature gets -2/-2 until "
+"|mana_1|\\ |mana_b|, Sacrifice an artifact: Target creature gets -2/-2 until "
 "end of turn."
 msgstr ""
 
@@ -913,16 +928,20 @@ msgid "First strike"
 msgstr "Pierwszy cios"
 
 #: ../../AER.rst:425
+#, fuzzy
 msgid ""
-"When Aether Chaser enters the battlefield, you get {E} {E} (two energy "
+"When Aether Chaser enters the battlefield, you get {E}{E} (two energy "
 "counters)."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:427
+#, fuzzy
 msgid ""
-"Whenever Aether Chaser attacks, you may pay {E} {E}. If you do, create a 1/1 "
+"Whenever Aether Chaser attacks, you may pay {E}{E}. If you do, create a 1/1 "
 "colorless Servo artifact creature token."
 msgstr ""
+"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
+"stwora Thopter 1/1 z lataniem."
 
 #: ../../AER.rst:432
 msgid "Chandra's Revolution"
@@ -969,7 +988,7 @@ msgid "Freejam Regent"
 msgstr ""
 
 #: ../../AER.rst:457
-msgid "|mana_1| |mana_r|: Freejam Regent gets +2/+0 until end of turn."
+msgid "|mana_1|\\ |mana_r|: Freejam Regent gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../AER.rst:462
@@ -1079,10 +1098,9 @@ msgstr ""
 
 #: ../../AER.rst:507
 msgid ""
-"Whenever Lightning Runner attacks, you get {E} {E} (two energy counters), "
-"then you may pay {E} {E} {E} {E} {E} {E} {E} {E}. If you pay, untap all "
-"creatures you control, and after this phase, there is an additional combat "
-"phase."
+"Whenever Lightning Runner attacks, you get {E}{E} (two energy counters), "
+"then you may pay {E}{E}{E}{E}{E}{E}{E}{E}. If you pay, untap all creatures "
+"you control, and after this phase, there is an additional combat phase."
 msgstr ""
 
 #: ../../AER.rst:512
@@ -1153,14 +1171,15 @@ msgstr ""
 "Podwójny cios (Ten stwór zadaje obrażenia w pierwszym ciosie oraz normalnie.)"
 
 #: ../../AER.rst:539
+#, fuzzy
 msgid ""
-"When Scrapper Champion enters the battlefield, you get {E} {E} (two energy "
+"When Scrapper Champion enters the battlefield, you get {E}{E} (two energy "
 "counters)."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:541
 msgid ""
-"Whenever Scrapper Champion attacks, you may pay {E} {E}. If you do, put a +1/"
+"Whenever Scrapper Champion attacks, you may pay {E}{E}. If you do, put a +1/"
 "+1 counter on it."
 msgstr ""
 
@@ -1199,16 +1218,20 @@ msgid "Aether Herder"
 msgstr ""
 
 #: ../../AER.rst:567
+#, fuzzy
 msgid ""
-"When Aether Herder enters the battlefield, you get {E} {E} (two energy "
+"When Aether Herder enters the battlefield, you get {E}{E} (two energy "
 "counters)."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:569
+#, fuzzy
 msgid ""
-"Whenever Aether Herder attacks, you may pay {E} {E}. If you do, create a 1/1 "
+"Whenever Aether Herder attacks, you may pay {E}{E}. If you do, create a 1/1 "
 "colorless Servo artifact creature token."
 msgstr ""
+"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
+"stwora Thopter 1/1 z lataniem."
 
 #: ../../AER.rst:578
 msgid "Aetherstream Leopard"
@@ -1272,7 +1295,7 @@ msgstr ""
 
 #: ../../AER.rst:597
 msgid ""
-"When Greenbelt Rampager enters the battlefield, pay {E} {E} (two energy "
+"When Greenbelt Rampager enters the battlefield, pay {E}{E} (two energy "
 "counters). If you can't, return Greenbelt Rampager to its owner's hand and "
 "you get {E}."
 msgstr ""
@@ -1303,7 +1326,7 @@ msgstr ""
 #: ../../AER.rst:609
 msgid ""
 "Revolt — When Hidden Herbalists enters the battlefield, if a permanent you "
-"controlled left the battlefield this turn, add |mana_g| |mana_g|."
+"controlled left the battlefield this turn, add |mana_g|\\ |mana_g|."
 msgstr ""
 
 #: ../../AER.rst:614
@@ -1311,10 +1334,11 @@ msgid "Highspire Infusion"
 msgstr ""
 
 #: ../../AER.rst:613
+#, fuzzy
 msgid ""
-"Target creature gets +3/+3 until end of turn. You get {E} {E} (two energy "
+"Target creature gets +3/+3 until end of turn. You get {E}{E} (two energy "
 "counters)."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:618
 msgid "Lifecraft Awakening"
@@ -1401,7 +1425,7 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:653
-msgid "Pay {E} {E} {E}: Target creature blocks this turn if able."
+msgid "Pay {E}{E}{E}: Target creature blocks this turn if able."
 msgstr ""
 
 #: ../../AER.rst:658
@@ -1612,10 +1636,11 @@ msgid "Rogue Refiner"
 msgstr ""
 
 #: ../../AER.rst:741
+#, fuzzy
 msgid ""
-"When Rogue Refiner enters the battlefield, draw a card and you get {E} {E} "
+"When Rogue Refiner enters the battlefield, draw a card and you get {E}{E} "
 "(two energy counters)."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:748
 msgid "Spire Patrol"
@@ -1700,8 +1725,8 @@ msgstr ""
 
 #: ../../AER.rst:777
 msgid ""
-"|mana_4| |mana_w|: Return another target creature you control to its owner's "
-"hand."
+"|mana_4|\\ |mana_w|: Return another target creature you control to its "
+"owner's hand."
 msgstr ""
 
 #: ../../AER.rst:788
@@ -1709,10 +1734,11 @@ msgid "Aethersphere Harvester"
 msgstr ""
 
 #: ../../AER.rst:783
+#, fuzzy
 msgid ""
-"When Aethersphere Harvester enters the battlefield, you get {E} {E} (two "
+"When Aethersphere Harvester enters the battlefield, you get {E}{E} (two "
 "energy counters)."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:785
 msgid "Pay {E}: Aethersphere Harvester gains lifelink until end of turn."
@@ -1731,7 +1757,7 @@ msgid "Augmenting Automaton"
 msgstr ""
 
 #: ../../AER.rst:791
-msgid "|mana_1| |mana_b|: Augmenting Automaton gets +1/+1 until end of turn."
+msgid "|mana_1|\\ |mana_b|: Augmenting Automaton gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../AER.rst:798
@@ -1774,7 +1800,7 @@ msgstr ""
 
 #: ../../AER.rst:811
 msgid ""
-"|tap|, Pay {E} {E} {E}: Consulate Turret deals 2 damage to target player or "
+"|tap|, Pay {E}{E}{E}: Consulate Turret deals 2 damage to target player or "
 "planeswalker."
 msgstr ""
 
@@ -1826,15 +1852,16 @@ msgid "Gonti's Aether Heart"
 msgstr ""
 
 #: ../../AER.rst:833
+#, fuzzy
 msgid ""
 "Whenever Gonti's Aether Heart or another artifact enters the battlefield "
-"under your control, you get {E} {E} (two energy counters)."
-msgstr ""
+"under your control, you get {E}{E} (two energy counters)."
+msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:835
 msgid ""
-"Pay {E} {E} {E} {E} {E} {E} {E} {E}, Exile Gonti's Aether Heart: Take an "
-"extra turn after this one."
+"Pay {E}{E}{E}{E}{E}{E}{E}{E}, Exile Gonti's Aether Heart: Take an extra turn "
+"after this one."
 msgstr ""
 
 #: ../../AER.rst:844
@@ -1981,9 +2008,9 @@ msgstr ""
 
 #: ../../AER.rst:897
 msgid ""
-"|mana_3| |mana_u|, |tap|, Tap X untapped artifacts you control: Look at the "
-"top X cards of your library. Put one of them into your hand and the rest on "
-"the bottom of your library in any order."
+"|mana_3|\\ |mana_u|, |tap|, Tap X untapped artifacts you control: Look at "
+"the top X cards of your library. Put one of them into your hand and the rest "
+"on the bottom of your library in any order."
 msgstr ""
 
 #: ../../AER.rst:906
@@ -2047,10 +2074,13 @@ msgid "Peacewalker Colossus"
 msgstr ""
 
 #: ../../AER.rst:931
+#, fuzzy
 msgid ""
-"|mana_1| |mana_w|: Another target Vehicle you control becomes an artifact "
+"|mana_1|\\ |mana_w|: Another target Vehicle you control becomes an artifact "
 "creature until end of turn."
 msgstr ""
+"Załoga 1 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"co najmniej 1: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../AER.rst:933
 msgid ""
@@ -2095,8 +2125,8 @@ msgstr ""
 #: ../../AER.rst:951
 #, fuzzy
 msgid ""
-"When Reservoir Walker enters the battlefield, you gain 3 life and get {E} "
-"{E} {E} (three energy counters)."
+"When Reservoir Walker enters the battlefield, you gain 3 life and get {E}{E}"
+"{E} (three energy counters)."
 msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
 
 #: ../../AER.rst:956
@@ -2153,7 +2183,7 @@ msgid "Verdant Automaton"
 msgstr ""
 
 #: ../../AER.rst:979
-msgid "|mana_3| |mana_g|: Put a +1/+1 counter on Verdant Automaton."
+msgid "|mana_3|\\ |mana_g|: Put a +1/+1 counter on Verdant Automaton."
 msgstr ""
 
 #: ../../AER.rst:988
@@ -2180,7 +2210,7 @@ msgstr ""
 
 #: ../../AER.rst:991
 msgid ""
-"|mana_2| |mana_u|: Scry 1. (Look at the top card of your library. You may "
+"|mana_2|\\ |mana_u|: Scry 1. (Look at the top card of your library. You may "
 "put that card on the bottom of your library.)"
 msgstr ""
 
@@ -2189,7 +2219,7 @@ msgid "Welder Automaton"
 msgstr ""
 
 #: ../../AER.rst:995
-msgid "|mana_3| |mana_r|: Welder Automaton deals 1 damage to each opponent."
+msgid "|mana_3|\\ |mana_r|: Welder Automaton deals 1 damage to each opponent."
 msgstr ""
 
 #: ../../AER.rst:1002
@@ -2212,7 +2242,8 @@ msgstr ""
 
 #: ../../AER.rst:1005
 msgid "+2: Put two +1/+1 counters on up to one target creature."
-msgstr "+2: Umieść dwa znaczniki +1/+1 na co najwyżej jednym wskazanym stworze."
+msgstr ""
+"+2: Umieść dwa znaczniki +1/+1 na co najwyżej jednym wskazanym stworze."
 
 #: ../../AER.rst:1007
 msgid ""
