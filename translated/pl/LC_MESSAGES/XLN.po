@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2018-12-31 16:27+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -176,7 +176,7 @@ msgid ""
 "|mana_7|\\ |mana_w|, |tap|, Sacrifice Encampment Keeper: Creatures you "
 "control get +2/+2 until end of turn."
 msgstr ""
-"|mana_7| |mana_w|, |tap|, poświęć tego stwora: Stwory pod twoim władaniem "
+"|mana_7|\\ |mana_w|, |tap|, poświęć tego stwora: Stwory pod twoim władaniem "
 "dostają +2/+2 do końca tury."
 
 #: ../../XLN.rst:70
@@ -339,7 +339,7 @@ msgid ""
 "|mana_2|\\ |mana_w|, |tap|: Create a 1/1 white Vampire creature token with "
 "lifelink."
 msgstr ""
-"|mana_2| |mana_w|, |tap|: Stwórz żeton białego stwora Wampir 1/1 z więzią "
+"|mana_2|\\ |mana_w|, |tap|: Stwórz żeton białego stwora Wampir 1/1 z więzią "
 "życia."
 
 #: ../../XLN.rst:130
@@ -410,7 +410,7 @@ msgid ""
 "your library for a Dinosaur card, reveal it, put it into your hand, then "
 "shuffle your library."
 msgstr ""
-"|mana_3| |mana_w| |mana_w|, poświęć tego stwora: Poszukaj w twojej "
+"|mana_3|\\ |mana_w|\\ |mana_w|, poświęć tego stwora: Poszukaj w twojej "
 "bibliotece kartę Dinozaura, ujawnij ją, dołóż do twojej ręki, a następnie "
 "przetasuj twoją bibliotekę."
 
@@ -528,7 +528,7 @@ msgid ""
 "|mana_1|\\ |mana_w|, |tap|: Steadfast Armasaur deals damage equal to its "
 "toughness to target creature blocking or blocked by it."
 msgstr ""
-"|mana_1| |mana_w|, |tap|: Ten stwór zadaje obrażenia równe swojej "
+"|mana_1|\\ |mana_w|, |tap|: Ten stwór zadaje obrażenia równe swojej "
 "wytrzymałości wskazanemu stworowi blokowanemu przez niego lub blokującego go."
 
 #: ../../XLN.rst:212
@@ -656,7 +656,7 @@ msgstr "Daring Saboteur"
 #: ../../XLN.rst:249
 #, fuzzy
 msgid "|mana_2|\\ |mana_u|: Daring Saboteur can't be blocked this turn."
-msgstr "|mana_2| |mana_u|: Ten stwór nie może być blokowany w tej turze."
+msgstr "|mana_2|\\ |mana_u|: Ten stwór nie może być blokowany w tej turze."
 
 #: ../../XLN.rst:251
 msgid ""
@@ -1031,7 +1031,7 @@ msgid ""
 "may reveal a noncreature, nonland card from among them and put it into your "
 "hand. Put the rest on the bottom of your library in any order."
 msgstr ""
-"|mana_2| |mana_u|, |tap|: Spójrz na cztery wierzchnie karty twojej "
+"|mana_2|\\ |mana_u|, |tap|: Spójrz na cztery wierzchnie karty twojej "
 "biblioteki. Możesz ujawnić spośród nich kartę nie będącą stworem lub lądem i "
 "dołożyć ją do twojej ręki. Umieść pozostałe na spodzie twojej biblioteki w "
 "dowolnej kolejności."
@@ -1066,7 +1066,7 @@ msgstr "Shore Keeper"
 #: ../../XLN.rst:391
 #, fuzzy
 msgid "|mana_7|\\ |mana_u|, |tap|, Sacrifice Shore Keeper: Draw three cards."
-msgstr "|mana_7| |mana_u|, |tap|, poświęć tego stwora: Dobierz trzy karty."
+msgstr "|mana_7|\\ |mana_u|, |tap|, poświęć tego stwora: Dobierz trzy karty."
 
 #: ../../XLN.rst:398
 #, fuzzy
@@ -1235,7 +1235,7 @@ msgstr "Arguel's Blood Fast"
 #: ../../XLN.rst:453
 #, fuzzy
 msgid "|mana_1|\\ |mana_b|, Pay 2 life: Draw a card."
-msgstr "|mana_1| |mana_b|, zapłać 2 życia: Dobierz kartę."
+msgstr "|mana_1|\\ |mana_b|, zapłać 2 życia: Dobierz kartę."
 
 #: ../../XLN.rst:455
 msgid ""
@@ -1290,7 +1290,7 @@ msgid ""
 "|mana_7|\\ |mana_b|, |tap|, Sacrifice Blight Keeper: Target opponent loses 4 "
 "life and you gain 4 life."
 msgstr ""
-"|mana_7| |mana_b|, |tap|, poświęć tego stwora: Wskazany przeciwnik traci 4 "
+"|mana_7|\\ |mana_b|, |tap|, poświęć tego stwora: Wskazany przeciwnik traci 4 "
 "życia, a ty zyskujesz 4 życia."
 
 #: ../../XLN.rst:480
@@ -1385,7 +1385,7 @@ msgid ""
 "Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter "
 "on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
-"|mana_1| |mana_b|, |tap|: Wypędź dwie wskazane karty z cmentarza "
+"|mana_1|\\ |mana_b|, |tap|: Wypędź dwie wskazane karty z cmentarza "
 "przeciwnika. Ten stwór eksploruje. (Ujawnij wierzchnią kartę twojej "
 "biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym razie "
 "umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub umieść "
@@ -1574,8 +1574,11 @@ msgid "Choose one —"
 msgstr "Wybierz jedno —"
 
 #: ../../XLN.rst:571
+#, fuzzy
 msgid "Return target creature card from your graveyard to your hand."
-msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+msgstr ""
+"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../XLN.rst:573
 msgid "Return two target Pirate cards from your graveyard to your hand."
@@ -1678,9 +1681,9 @@ msgid ""
 "artifact tokens with \"|tap|, Sacrifice this artifact: Add one mana of any "
 "color.\""
 msgstr ""
-"|mana_2| |mana_b|, poświęć stwora: Stwórz dwa żetony bezkolorowego artefaktu "
-"Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę "
-"dowolnego koloru.\""
+"|mana_2|\\ |mana_b|, poświęć stwora: Stwórz dwa żetony bezkolorowego "
+"artefaktu Skarb ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną "
+"manę dowolnego koloru.\""
 
 #: ../../XLN.rst:611
 msgid "Sacrifice three Treasures: Draw a card."
@@ -1913,7 +1916,7 @@ msgid ""
 "until end of turn. Untap that creature. It gains haste until end of turn. "
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
-"|mana_3| |mana_r|: Zyskujesz władanie nad wskazanym stworem do końca tury. "
+"|mana_3|\\ |mana_r|: Zyskujesz władanie nad wskazanym stworem do końca tury. "
 "Odtapuj owego stwora. Zyskuje on pośpiech do końca tury. Aktywuj tę zdolność "
 "tylko wtedy, gdy możesz rzucić obrzęd."
 
@@ -1965,7 +1968,7 @@ msgstr "Fathom Fleet Firebrand"
 #, fuzzy
 msgid ""
 "|mana_1|\\ |mana_r|: Fathom Fleet Firebrand gets +1/+0 until end of turn."
-msgstr "|mana_1| |mana_r|: Ten stwór dostaje +1/+0 do końca tury."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje +1/+0 do końca tury."
 
 #: ../../XLN.rst:716
 msgid "Fiery Cannonade"
@@ -1986,8 +1989,8 @@ msgid ""
 "|mana_7|\\ |mana_r|, |tap|, Sacrifice Fire Shrine Keeper: It deals 3 damage "
 "to each of up to two target creatures."
 msgstr ""
-"|mana_7| |mana_r|, |tap|, poświęć tego stwora: Zadaje on 3 obrażenia każdemu "
-"z co najwyżej dwóch wskazanych stworów."
+"|mana_7|\\ |mana_r|, |tap|, poświęć tego stwora: Zadaje on 3 obrażenia "
+"każdemu z co najwyżej dwóch wskazanych stworów."
 
 #: ../../XLN.rst:728
 #, fuzzy
@@ -2132,9 +2135,9 @@ msgid ""
 "graveyard to your hand. Activate this ability only if you attacked with a "
 "creature this turn."
 msgstr ""
-"Najazd — |mana_3| |mana_r| |mana_r|: Przywróć tę kartę z twojego cmentarza "
-"do twojej ręki. Aktywuj tę zdolność tylko jeśli atakowałeś stworem w tej "
-"turze."
+"Najazd — |mana_3|\\ |mana_r|\\ |mana_r|: Przywróć tę kartę z twojego "
+"cmentarza do twojej ręki. Aktywuj tę zdolność tylko jeśli atakowałeś stworem "
+"w tej turze."
 
 #: ../../XLN.rst:790
 #, fuzzy
@@ -2389,7 +2392,7 @@ msgstr "|tap|: Dostajesz |mana_r|."
 #, fuzzy
 msgid ""
 "|mana_2|\\ |mana_r|, |tap|: Spitfire Bastion deals 3 damage to any target."
-msgstr "|mana_2| |mana_r|, |tap|: Ta karta zadaje 3 obrażenia w dowolny cel."
+msgstr "|mana_2|\\ |mana_r|, |tap|: Ta karta zadaje 3 obrażenia w dowolny cel."
 
 #: ../../XLN.rst:878
 #, fuzzy
@@ -2671,7 +2674,7 @@ msgid ""
 "|mana_7|\\ |mana_g|, |tap|, Sacrifice Ixalli's Keeper: Target creature gets "
 "+5/+5 and gains trample until end of turn."
 msgstr ""
-"|mana_7| |mana_g|, |tap|, poświęć tego stwora: Wskazany stwór dostaje do "
+"|mana_7|\\ |mana_g|, |tap|, poświęć tego stwora: Wskazany stwór dostaje do "
 "końca tury +5/+5 oraz tratowanie."
 
 #: ../../XLN.rst:980
@@ -2703,7 +2706,7 @@ msgstr "Jungle Delver"
 #: ../../XLN.rst:983
 #, fuzzy
 msgid "|mana_3|\\ |mana_g|: Put a +1/+1 counter on Jungle Delver."
-msgstr "|mana_3| |mana_g|: Umieść znacznik +1/+1 na tej karcie."
+msgstr "|mana_3|\\ |mana_g|: Umieść znacznik +1/+1 na tej karcie."
 
 #: ../../XLN.rst:988
 #, fuzzy
@@ -2913,7 +2916,8 @@ msgstr "Inne Dinozaury pod twoim władaniem dostają +1/+1."
 msgid ""
 "|mana_5|\\ |mana_g|: Create a 3/3 green Dinosaur creature token with trample."
 msgstr ""
-"|mana_5| |mana_g|: Stwórz żeton zielonego stwora Dinozaur 3/3 z tratowaniem."
+"|mana_5|\\ |mana_g|: Stwórz żeton zielonego stwora Dinozaur 3/3 z "
+"tratowaniem."
 
 #: ../../XLN.rst:1060
 #, fuzzy
@@ -2982,9 +2986,9 @@ msgid ""
 "control. That land becomes a 0/0 Elemental creature with haste. It's still a "
 "land."
 msgstr ""
-"|mana_x| |mana_g| |mana_g|: Umieść X znaczników +1/+1 na wskazanym lądzie "
-"pod twoim władaniem. Ów ląd staje się stworem Elemental 0/0. Nadal jest on "
-"lądem."
+"|mana_x|\\ |mana_g|\\ |mana_g|: Umieść X znaczników +1/+1 na wskazanym "
+"lądzie pod twoim władaniem. Ów ląd staje się stworem Elemental 0/0. Nadal "
+"jest on lądem."
 
 #: ../../XLN.rst:1082
 #, fuzzy
@@ -3055,8 +3059,8 @@ msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_b|: Create a colorless Treasure artifact token "
 "with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
-"|mana_2| |mana_u| |mana_b|: Stwórz żeton bezkolorowego artefaktu Skarb ze "
-"zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
+"|mana_2|\\ |mana_u|\\ |mana_b|: Stwórz żeton bezkolorowego artefaktu Skarb "
+"ze zdolnością \"|tap|, poświęć ten artefakt: Dostajesz jedną manę dowolnego "
 "koloru.\""
 
 #: ../../XLN.rst:1106
@@ -3187,7 +3191,7 @@ msgstr "Shapers of Nature"
 #: ../../XLN.rst:1143
 #, fuzzy
 msgid "|mana_3|\\ |mana_g|: Put a +1/+1 counter on target creature."
-msgstr "|mana_3| |mana_g|: Umieść znacznik +1/+1 na wskazanym stworze."
+msgstr "|mana_3|\\ |mana_g|: Umieść znacznik +1/+1 na wskazanym stworze."
 
 #: ../../XLN.rst:1145
 #, fuzzy
@@ -3195,7 +3199,7 @@ msgid ""
 "|mana_2|\\ |mana_u|, Remove a +1/+1 counter from a creature you control: "
 "Draw a card."
 msgstr ""
-"|mana_2| |mana_u|, usuń znacznik +1/+1 ze stwora pod twoim władaniem: "
+"|mana_2|\\ |mana_u|, usuń znacznik +1/+1 ze stwora pod twoim władaniem: "
 "Dobierz kartę."
 
 #: ../../XLN.rst:1150
