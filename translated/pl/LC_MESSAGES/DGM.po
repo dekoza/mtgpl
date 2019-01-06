@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2019-01-01 01:24+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/dgm/pl/>\n"
@@ -127,8 +127,8 @@ msgid ""
 "(Create a token that's a copy of a creature token you control.)"
 msgstr ""
 "Kiedy Scion of Vitu-Ghazi wchodzi na pole walki, jeśli był rzucony z ręki, "
-"stwórz żeton białego stwora Bird 1/1 z lataniem, a następnie zaludnij. ("
-"Umieść na polu walki żeton będący kopią władanego przez ciebie żetonu "
+"stwórz żeton białego stwora Bird 1/1 z lataniem, a następnie zaludnij. "
+"(Umieść na polu walki żeton będący kopią władanego przez ciebie żetonu "
 "stwora.)"
 
 # 7cbac1aa0eb2461abc155044a069f26d
@@ -403,8 +403,8 @@ msgstr "Hired Torturer (Wynajety Oprawca)"
 #: ../../DGM.rst:125
 #, fuzzy
 msgid ""
-"|mana_3| |mana_b|, |tap|: Target opponent loses 2 life, then reveals a card "
-"at random from their hand."
+"|mana_3|\\ |mana_b|, |tap|: Target opponent loses 2 life, then reveals a "
+"card at random from their hand."
 msgstr ""
 "|mana_3| |mana_b|, |tap|: Wskazany przeciwnik traci 2 życia, a następnie "
 "ujawnia losową kartę ze swojej ręki."
@@ -581,8 +581,9 @@ msgstr ""
 
 # c7bb65823bdf48ada7621e2fe053d06e
 #: ../../DGM.rst:179
+#, fuzzy
 msgid ""
-"Bloodrush — |mana_1| |mana_r|, Discard Pyrewild Shaman: Target attacking "
+"Bloodrush — |mana_1|\\ |mana_r|, Discard Pyrewild Shaman: Target attacking "
 "creature gets +3/+1 until end of turn."
 msgstr ""
 "Zew krwi — |mana_1| |mana_r|, odrzuć Pyrewild Shaman: Wskazany atakujący "
@@ -596,8 +597,8 @@ msgid ""
 "return Pyrewild Shaman to your hand."
 msgstr ""
 "Ilekroć jeden lub więcej stworów, którymi władasz, zada graczowi obrażenia "
-"bitewne, jeśli Pyrewild Shaman jest w twoim cmentarzu możesz zapłacić "
-"|mana_3|. Jeśli tak zrobisz, zwróć Pyrewild Shaman do twojej ręki."
+"bitewne, jeśli Pyrewild Shaman jest w twoim cmentarzu możesz zapłacić |"
+"mana_3|. Jeśli tak zrobisz, zwróć Pyrewild Shaman do twojej ręki."
 
 # e3aeaa791aea4cdd9878ff8ac5710511
 #: ../../DGM.rst:188
@@ -661,8 +662,9 @@ msgstr ""
 "tury."
 
 #: ../../DGM.rst:201
+#, fuzzy
 msgid ""
-"Overload |mana_1| |mana_r| (You may cast this spell for its overload cost. "
+"Overload |mana_1|\\ |mana_r| (You may cast this spell for its overload cost. "
 "If you do, change its text by replacing all instances of \"target\" with "
 "\"each.\")"
 msgstr ""
@@ -691,8 +693,8 @@ msgid ""
 "counter on this creature.)"
 msgstr ""
 "Rozwój (Ilekroć jakiś stwór wchodzi na pole walki pod twoim władaniem, jeśli "
-"jego siła lub wytrzymałość jest większa niż tego stwora, umieść znacznik +1/+"
-"1 na tym stworze.)"
+"jego siła lub wytrzymałość jest większa niż tego stwora, umieść znacznik +1/"
+"+1 na tym stworze.)"
 
 # 82f951f6e5a24adc85f656a52aafba6d
 #: ../../DGM.rst:212
@@ -701,7 +703,8 @@ msgstr ""
 
 # 7171ba60ad104591b533df6c2ae3b47e
 #: ../../DGM.rst:211
-msgid "|mana_5| |mana_g|: Kraul Warrior gets +3/+3 until end of turn."
+#, fuzzy
+msgid "|mana_5|\\ |mana_g|: Kraul Warrior gets +3/+3 until end of turn."
 msgstr "|mana_5| |mana_g|: Kraul Warrior dostaje +3/+3 do końca tury."
 
 # eff8689b8b9e4cbe9606a605e6666c0d
@@ -811,14 +814,15 @@ msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 # 0bfc5ca1ff294d4d907355e731e172ad
 #: ../../DGM.rst:253
+#, fuzzy
 msgid ""
-"Scavenge |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, Exile this "
-"card from your graveyard: Put a number of +1/+1 counters equal to this "
-"card's power on target creature. Scavenge only as a sorcery.)"
+"Scavenge |mana_4|\\ |mana_g|\\ |mana_g| (|mana_4|\\ |mana_g|\\ |mana_g|, "
+"Exile this card from your graveyard: Put a number of +1/+1 counters equal to "
+"this card's power on target creature. Scavenge only as a sorcery.)"
 msgstr ""
 "Czystka |mana_4| |mana_g| |mana_g| (|mana_4| |mana_g| |mana_g|, wypędź tę "
-"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/+"
-"1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
+"kartę z twojego cmentarza: Umieść na wskazanym stworze tyle znaczników +1/"
+"+1, ile wynosi siła tej karty. Używaj jedynie jako obrzęd.)"
 
 # e4a31187a10046f18c298a4652efda1a
 #: ../../DGM.rst:258
@@ -857,9 +861,10 @@ msgstr "Beetleform Mage (Żukokształtny Mag)"
 
 # a0ae77b4f50c4350b524dba878ba2d81
 #: ../../DGM.rst:271
+#, fuzzy
 msgid ""
-"|mana_g| |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end of "
-"turn. Activate this ability only once each turn."
+"|mana_g|\\ |mana_u|: Beetleform Mage gets +2/+2 and gains flying until end "
+"of turn. Activate this ability only once each turn."
 msgstr ""
 "|mana_g| |mana_u|: Żukokształtny Mag dostaje +2/+2 oraz latanie do końca "
 "tury. Aktywuj tę zdolność tylko raz na turę."
@@ -975,7 +980,8 @@ msgstr "Ilekroć jakiś stwór blokuje, władający nim gracz traci 1 życie."
 
 # 1c7ee9fab1614b9ca669b00bb3ca7c11
 #: ../../DGM.rst:303
-msgid "|mana_1| |mana_b| |mana_r|: Regenerate Carnage Gladiator."
+#, fuzzy
+msgid "|mana_1|\\ |mana_b|\\ |mana_r|: Regenerate Carnage Gladiator."
 msgstr "|mana_1| |mana_b| |mana_r|: Zregeneruj Carnage Gladiator."
 
 # eb8ff28328454f9b84766a8743a3bacf
@@ -1077,10 +1083,11 @@ msgstr ""
 "Smokiem 4/4, traci wszystkie zdolności i zyskuje latanie."
 
 #: ../../DGM.rst:333
+#, fuzzy
 msgid ""
-"Overload |mana_3| |mana_u| |mana_u| |mana_r| |mana_r| (You may cast this "
-"spell for its overload cost. If you do, change its text by replacing all "
-"instances of \"target\" with \"each.\")"
+"Overload |mana_3|\\ |mana_u|\\ |mana_u|\\ |mana_r|\\ |mana_r| (You may cast "
+"this spell for its overload cost. If you do, change its text by replacing "
+"all instances of \"target\" with \"each.\")"
 msgstr ""
 "Przeciążenie |mana_3| |mana_u| |mana_u| |mana_r| |mana_r| (Możesz rzucić "
 "czar po jego przeciążeniowym koszcie. Jeśli to zrobisz, zmień jego tekst "
@@ -1264,12 +1271,13 @@ msgstr ""
 
 # 0fa2400824fb470590d551d3e4beadd3
 #: ../../DGM.rst:401
+#, fuzzy
 msgid ""
-"|mana_1| |mana_g| |mana_u|, Return Krasis Incubation to its owner's hand: "
-"Put two +1/+1 counters on enchanted creature."
+"|mana_1|\\ |mana_g|\\ |mana_u|, Return Krasis Incubation to its owner's "
+"hand: Put two +1/+1 counters on enchanted creature."
 msgstr ""
-"|mana_1| |mana_g| |mana_u|, zwróć Krasis Incubation do ręki jego właściciela:"
-" Umieść dwa znaczniki +1/+1 na zauroczonym stworze."
+"|mana_1| |mana_g| |mana_u|, zwróć Krasis Incubation do ręki jego "
+"właściciela: Umieść dwa znaczniki +1/+1 na zauroczonym stworze."
 
 # 5b23301aa18c420696f62fdd9a029762
 #: ../../DGM.rst:408
@@ -1311,8 +1319,9 @@ msgstr "Białe stwory, którymi władasz, dostają +0/+1."
 
 # f04c746e29844808bb7e5ba520ba1203
 #: ../../DGM.rst:415
+#, fuzzy
 msgid ""
-"|mana_r| |mana_w|, Exile Legion's Initiative: Exile all creatures you "
+"|mana_r|\\ |mana_w|, Exile Legion's Initiative: Exile all creatures you "
 "control. At the beginning of the next combat, return those cards to the "
 "battlefield under their owner's control and those creatures gain haste until "
 "end of turn."
@@ -1600,10 +1609,11 @@ msgstr "Rot Farm Skeleton nie może blokować."
 
 # 704a4c9fc7374bdc9a0d3225975d04ac
 #: ../../DGM.rst:503
+#, fuzzy
 msgid ""
-"|mana_2| |mana_b| |mana_g|, Put the top four cards of your library into your "
-"graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. "
-"Activate this ability only any time you could cast a sorcery."
+"|mana_2|\\ |mana_b|\\ |mana_g|, Put the top four cards of your library into "
+"your graveyard: Return Rot Farm Skeleton from your graveyard to the "
+"battlefield. Activate this ability only any time you could cast a sorcery."
 msgstr ""
 "|mana_2| |mana_b| |mana_g|, umieść cztery wierzchnie karty z twojej "
 "biblioteki do twojego cmentarza: Zwróć Rot Farm Skeleton z twojego cmentarza "
@@ -1653,7 +1663,7 @@ msgstr "Savageborn Hydra wchodzi na pole walki z X znacznikami +1/+1."
 #: ../../DGM.rst:519
 #, fuzzy
 msgid ""
-"|mana_1| |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this "
+"|mana_1|\\ |mana_rg|: Put a +1/+1 counter on Savageborn Hydra. Activate this "
 "ability only any time you could cast a sorcery."
 msgstr ""
 "|mana_1| |mana_rg|: Umieść znacznik +1/+1 na Savageborn Hydrze. Aktywuj tę "
@@ -1880,7 +1890,7 @@ msgstr ""
 #: ../../DGM.rst:591
 #, fuzzy
 msgid ""
-"|mana_g| |mana_u|, |tap|: Double the number of each kind of counter on "
+"|mana_g|\\ |mana_u|, |tap|: Double the number of each kind of counter on "
 "target artifact, creature, or land."
 msgstr ""
 "|mana_g| |mana_u|, |tap|: Dla każdego znacznika na wskazanym artefakcie, "
@@ -2060,7 +2070,8 @@ msgstr ""
 #: ../../DGM.rst:649
 #, fuzzy
 msgid "Create four 1/1 white Bird creature tokens with flying."
-msgstr "Umieść na polu walki cztery żetony białych stworów Bird 1/1 z Lataniem."
+msgstr ""
+"Umieść na polu walki cztery żetony białych stworów Bird 1/1 z Lataniem."
 
 #: ../../DGM.rst:658
 msgid "Breaking"
@@ -2332,7 +2343,8 @@ msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 # 264919420397438689e0c9cef70d9c69
 #: ../../DGM.rst:801
-msgid "|mana_w| |mana_u|, |tap|, Sacrifice Azorius Cluestone: Draw a card."
+#, fuzzy
+msgid "|mana_w|\\ |mana_u|, |tap|, Sacrifice Azorius Cluestone: Draw a card."
 msgstr "|mana_w| |mana_u|, |tap|, poświęć Azorius Cluestone: Dobierz kartę."
 
 # 418b2a191d3d404b8b1aa481a9ca6371
@@ -2350,7 +2362,8 @@ msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 # 01444424672440afaf0a5fdc052ee04d
 #: ../../DGM.rst:807
-msgid "|mana_r| |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card."
+#, fuzzy
+msgid "|mana_r|\\ |mana_w|, |tap|, Sacrifice Boros Cluestone: Draw a card."
 msgstr "|mana_r| |mana_w|, |tap|, poświęć Boros Cluestone: Dobierz kartę."
 
 # 6656536c7ca6420190d3f80a633c52a3
@@ -2366,7 +2379,8 @@ msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 # 62a1721c795c4062a68cda8932825489
 #: ../../DGM.rst:813
-msgid "|mana_u| |mana_b|, |tap|, Sacrifice Dimir Cluestone: Draw a card."
+#, fuzzy
+msgid "|mana_u|\\ |mana_b|, |tap|, Sacrifice Dimir Cluestone: Draw a card."
 msgstr "|mana_u| |mana_b|, |tap|, poświęć Dimir Cluestone: Dobierz kartę."
 
 # 75add2c7ccda469fa63d3cd8a263581b
@@ -2382,7 +2396,8 @@ msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 # 1ccf3f3659284404a60ec48e70027443
 #: ../../DGM.rst:819
-msgid "|mana_b| |mana_g|, |tap|, Sacrifice Golgari Cluestone: Draw a card."
+#, fuzzy
+msgid "|mana_b|\\ |mana_g|, |tap|, Sacrifice Golgari Cluestone: Draw a card."
 msgstr "|mana_b| |mana_g|, |tap|, poświęć Golgari Cluestone: Dobierz kartę."
 
 # 3985655044c64aa3af5ba938b5b7b520
@@ -2398,7 +2413,8 @@ msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 # 30c2c321e26948ce99f633d7144074bd
 #: ../../DGM.rst:825
-msgid "|mana_r| |mana_g|, |tap|, Sacrifice Gruul Cluestone: Draw a card."
+#, fuzzy
+msgid "|mana_r|\\ |mana_g|, |tap|, Sacrifice Gruul Cluestone: Draw a card."
 msgstr "|mana_r| |mana_g|, |tap|, poświęć Gruul Cluestone: dobierz kartę."
 
 # 41448d9d6b1a451489eca61267529025
@@ -2414,7 +2430,8 @@ msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 # bae836dc29404492be78d47742a7bbb0
 #: ../../DGM.rst:831
-msgid "|mana_u| |mana_r|, |tap|, Sacrifice Izzet Cluestone: Draw a card."
+#, fuzzy
+msgid "|mana_u|\\ |mana_r|, |tap|, Sacrifice Izzet Cluestone: Draw a card."
 msgstr "|mana_u| |mana_r|, |tap|, poświęć Izzet Cluestone: Dobierz kartę."
 
 # d35f2807265940beaafed51b994cae77
@@ -2430,7 +2447,8 @@ msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 # 320a659fd60543dda22033ba064ffa40
 #: ../../DGM.rst:837
-msgid "|mana_w| |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
+#, fuzzy
+msgid "|mana_w|\\ |mana_b|, |tap|, Sacrifice Orzhov Cluestone: Draw a card."
 msgstr "|mana_w| |mana_b|, |tap|, poświęć Orzhov Cluestone: Dobierz kartę."
 
 # d6aa6c8681b4401d8b9fe49388d5a875
@@ -2446,7 +2464,8 @@ msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 # e49afd8ecb004eca8b78f32d5b73bd14
 #: ../../DGM.rst:843
-msgid "|mana_b| |mana_r|, |tap|, Sacrifice Rakdos Cluestone: Draw a card."
+#, fuzzy
+msgid "|mana_b|\\ |mana_r|, |tap|, Sacrifice Rakdos Cluestone: Draw a card."
 msgstr "|mana_b| |mana_r|, |tap|, poświęć Rakdos Cluestone: Dobierz kartę."
 
 # 38117d0636ed450181bc5422e092b85a
@@ -2461,7 +2480,8 @@ msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 # 9267b84d8bfc4b69b34415c703541cb7
 #: ../../DGM.rst:849
-msgid "|mana_g| |mana_w|, |tap|, Sacrifice Selesnya Cluestone: Draw a card."
+#, fuzzy
+msgid "|mana_g|\\ |mana_w|, |tap|, Sacrifice Selesnya Cluestone: Draw a card."
 msgstr "|mana_g| |mana_w|, |tap|, poświęć Selesnya Cluestone: Dobierz kartę."
 
 # 533d36e9059a4f74a603a641b5312768
@@ -2476,7 +2496,8 @@ msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 # 294799aa546843a6bcb9af2b262a63a4
 #: ../../DGM.rst:855
-msgid "|mana_g| |mana_u|, |tap|, Sacrifice Simic Cluestone: Draw a card."
+#, fuzzy
+msgid "|mana_g|\\ |mana_u|, |tap|, Sacrifice Simic Cluestone: Draw a card."
 msgstr "|mana_g| |mana_u|, |tap|, poświęć Simic Cluestone: Dobierz kartę."
 
 # 497c827c69c844b1b3b7f2449f94fba6
