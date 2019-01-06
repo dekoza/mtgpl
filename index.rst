@@ -102,47 +102,50 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 
 .. toctree::
    :hidden:
-   
-   E02
-   C15
-   OGW
-   SOI
-   EMN
-   KLD
-   C16
+
    AER
    AKH
-   HOU
+   AVR
+   BFZ
+   BNG
+   C13
+   C14
+   C15
+   C16
    C17
+   DGM
+   DKA
    DOM
+   DTK
+   E02
+   EMN
    FRF
    GRN
-   JOU_god
+   GTC
+   HOU
+   ISD
+   JOU
+   KLD
+   KTK
+   M14
+   M15
    M19
    NPH
-   RIX
-   XLN 
+   OGW
    ORI
-   BFZ
-   DTK
-   rationale
-   ISD
-   DKA
-   AVR
+   RIX
+   RNA
    RTR
-   GTC
-   DGM
-   M14
+   SOI
    THS
+   XLN
+
+   JOU_god
+   rationale
    THS_heroes
    THS_hydra
-   C13
    BNG_horde
-   BNG
-   KTK
-   M15
-   C14
-   JOU
+
    
    rulebook
    game_variants
