@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2018-12-31 16:27+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -462,7 +462,8 @@ msgstr ""
 #: ../../RIX.rst:171
 #, fuzzy
 msgid "|mana_3|\\ |mana_u|: Target Merfolk can't be blocked this turn."
-msgstr "|mana_3| |mana_u|: Wskazany Wodnik nie może być blokowany w tej turze."
+msgstr ""
+"|mana_3|\\ |mana_u|: Wskazany Wodnik nie może być blokowany w tej turze."
 
 #: ../../RIX.rst:178
 #, fuzzy
@@ -830,9 +831,9 @@ msgid ""
 "bottom of its owner's library: Take an extra turn after this one. Activate "
 "this ability only if you have the city's blessing."
 msgstr ""
-"|mana_2| |mana_u| |mana_u|, |tap|, umieść tę kartę na spodzie biblioteki jej "
-"właściciela: Dostajesz dodatkową turę zaraz po obecnej. Aktywuj tę zdolność "
-"tylko jeśli masz błogosławieństwo miasta."
+"|mana_2|\\ |mana_u|\\ |mana_u|, |tap|, umieść tę kartę na spodzie biblioteki "
+"jej właściciela: Dostajesz dodatkową turę zaraz po obecnej. Aktywuj tę "
+"zdolność tylko jeśli masz błogosławieństwo miasta."
 
 #: ../../RIX.rst:328
 #, fuzzy
@@ -1147,8 +1148,11 @@ msgid "Recover"
 msgstr "Recover"
 
 #: ../../RIX.rst:449
+#, fuzzy
 msgid "Return target creature card from your graveyard to your hand."
-msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+msgstr ""
+"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../RIX.rst:458
 #, fuzzy
@@ -1618,7 +1622,7 @@ msgstr "Sun-Collared Raptor"
 #: ../../RIX.rst:633
 #, fuzzy
 msgid "|mana_2|\\ |mana_r|: Sun-Collared Raptor gets +3/+0 until end of turn."
-msgstr "|mana_2| |mana_r|: Ten stwór dostaje +3/+0 do końca tury."
+msgstr "|mana_2|\\ |mana_r|: Ten stwór dostaje +3/+0 do końca tury."
 
 #: ../../RIX.rst:638
 #, fuzzy
@@ -1663,7 +1667,7 @@ msgid ""
 "attacking. At the beginning of the next end step, exile those tokens unless "
 "you have the city's blessing."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić |mana_x| |mana_r|. Jeśli to "
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_x|\\ |mana_r|. Jeśli to "
 "zrobisz, stwórz X zatapowanych i atakujących żetonów czerwonego stwora "
 "Żywiołak 1/1. Na początku najbliższego kroku końcowego, wygnaj owe żetony, "
 "chyba że masz błogosławieństwo miasta."
@@ -2137,8 +2141,8 @@ msgid ""
 "Whenever Azor attacks, you may pay |mana_x|\\ |mana_w|\\ |mana_u|\\ |"
 "mana_u|. If you do, you gain X life and draw X cards."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić |mana_x| |mana_w| |mana_u| |"
-"mana_u|. Jeśli tak zrobisz, zyskujesz X życia i dobierasz X kart."
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_x|\\ |mana_w|\\ |mana_u|\\ "
+"|mana_u|. Jeśli tak zrobisz, zyskujesz X życia i dobierasz X kart."
 
 #: ../../RIX.rst:826
 #, fuzzy
@@ -2213,7 +2217,7 @@ msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_u|, |tap|: Target creature you control gains "
 "flying and gets +X/+X until end of turn, where X is its power."
 msgstr ""
-"|mana_1| |mana_g| |mana_u|, |tap|: Wskazany stwór pod twoim władaniem "
+"|mana_1|\\ |mana_g|\\ |mana_u|, |tap|: Wskazany stwór pod twoim władaniem "
 "zyskuje do końca tury latanie oraz +X/+X, gdzie X jest jego siłą."
 
 #: ../../RIX.rst:858
@@ -2277,8 +2281,8 @@ msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_g|, |tap|: Return target creature card from your "
 "graveyard to the battlefield."
 msgstr ""
-"|mana_3| |mana_b| |mana_g|, |tap|: Przywróć wskazaną kartę stwora z twojego "
-"cmentarza na pole walki."
+"|mana_3|\\ |mana_b|\\ |mana_g|, |tap|: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza na pole walki."
 
 #: ../../RIX.rst:876
 #, fuzzy
@@ -2291,8 +2295,8 @@ msgid ""
 "|mana_3|\\ |mana_b|\\ |mana_g|: Return Jungle Creeper from your graveyard to "
 "your hand."
 msgstr ""
-"|mana_3| |mana_b| |mana_g|: Przywróć tę kartę z twojego cmentarza do twojej "
-"reki."
+"|mana_3|\\ |mana_b|\\ |mana_g|: Przywróć tę kartę z twojego cmentarza do "
+"twojej reki."
 
 #: ../../RIX.rst:884
 #, fuzzy
@@ -2374,7 +2378,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, |tap|: Metzali, Tower of Triumph deals 2 damage to each "
 "opponent."
 msgstr ""
-"|mana_1| |mana_r|, |tap|: Ta karta zadaje 2 obrażenia każdemu przeciwnikowi."
+"|mana_1|\\ |mana_r|, |tap|: Ta karta zadaje 2 obrażenia każdemu "
+"przeciwnikowi."
 
 #: ../../RIX.rst:907
 #, fuzzy
@@ -2382,8 +2387,8 @@ msgid ""
 "|mana_2|\\ |mana_w|, |tap|: Choose a creature at random that attacked this "
 "turn. Destroy that creature."
 msgstr ""
-"|mana_2| |mana_w|, |tap|: Wybierz losowo stwora, który atakował w tej turze. "
-"Zniszcz owego stwora."
+"|mana_2|\\ |mana_w|, |tap|: Wybierz losowo stwora, który atakował w tej "
+"turze. Zniszcz owego stwora."
 
 #: ../../RIX.rst:912
 #, fuzzy
@@ -2396,7 +2401,7 @@ msgid ""
 "|mana_3|\\ |mana_w|\\ |mana_b|: Exile target creature. Then if there are "
 "three or more cards exiled with Profane Procession, transform it."
 msgstr ""
-"|mana_3| |mana_w| |mana_b|: Wygnaj wskazanego stwora. Następnie jeśli co "
+"|mana_3|\\ |mana_w|\\ |mana_b|: Wygnaj wskazanego stwora. Następnie jeśli co "
 "najmniej trzy karty wygnano z użyciem tej karty, transformuj ją."
 
 #: ../../RIX.rst:920
@@ -2414,8 +2419,8 @@ msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Put a creature card exiled with this "
 "permanent onto the battlefield under your control."
 msgstr ""
-"|mana_2| |mana_w| |mana_b|, |tap|: Umieść na polu walki pod twoim władaniem "
-"kartę stwora wygnaną tym permanentem."
+"|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Umieść na polu walki pod twoim "
+"władaniem kartę stwora wygnaną tym permanentem."
 
 #: ../../RIX.rst:924
 #, fuzzy
@@ -2543,17 +2548,17 @@ msgstr ""
 #: ../../RIX.rst:973
 #, fuzzy
 msgid "|mana_2|\\ |mana_r|: Zacama deals 3 damage to target creature."
-msgstr "|mana_2| |mana_r|: Ten stwór zadaje 3 obrażenia wskazanemu stworowi."
+msgstr "|mana_2|\\ |mana_r|: Ten stwór zadaje 3 obrażenia wskazanemu stworowi."
 
 #: ../../RIX.rst:975
 #, fuzzy
 msgid "|mana_2|\\ |mana_g|: Destroy target artifact or enchantment."
-msgstr "|mana_2| |mana_g|: Zniszcz wskazany artefakt lub urok."
+msgstr "|mana_2|\\ |mana_g|: Zniszcz wskazany artefakt lub urok."
 
 #: ../../RIX.rst:977
 #, fuzzy
 msgid "|mana_2|\\ |mana_w|: You gain 3 life."
-msgstr "|mana_2| |mana_w|: Zyskujesz 3 życia."
+msgstr "|mana_2|\\ |mana_w|: Zyskujesz 3 życia."
 
 #: ../../RIX.rst:982
 #, fuzzy
