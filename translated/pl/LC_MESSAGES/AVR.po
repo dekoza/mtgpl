@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-01 01:24+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
@@ -529,7 +529,8 @@ msgstr ""
 #, fuzzy
 msgid "|mana_1|\\ |mana_u|, |tap|: You may tap or untap target permanent."
 msgstr ""
-"|mana_1| |mana_u|, |tap|: Możesz zatapować lub odtapować wskazany permanent."
+"|mana_1|\\ |mana_u|, |tap|: Możesz zatapować lub odtapować wskazany "
+"permanent."
 
 #: ../../AVR.rst:244
 msgid "Crippling Chill"
@@ -2513,7 +2514,7 @@ msgid ""
 "|mana_g|\\ |mana_u|, |tap|: You may cast spells this turn as though they had "
 "flash."
 msgstr ""
-"|mana_g| |mana_u|, |tap|: Możesz rzucić nielądowe karty w tej turze tak, "
+"|mana_g|\\ |mana_u|, |tap|: Możesz rzucić nielądowe karty w tej turze tak, "
 "jakby miały błysk."
 
 #: ../../AVR.rst:1168
