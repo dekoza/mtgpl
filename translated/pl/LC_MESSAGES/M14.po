@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-16 23:18+0100\n"
+"POT-Creation-Date: 2019-01-06 13:06+0100\n"
 "PO-Revision-Date: 2019-01-01 01:24+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
@@ -328,7 +328,8 @@ msgstr ""
 # 42a8253a9c474398af4aca3ec6f49c52
 # 7d890483a44f4efc99df234fb92358fc
 #: ../../M14.rst:63
-msgid "|mana_1| |mana_w|: Capashen Knight gets +1/+0 until end of turn."
+#, fuzzy
+msgid "|mana_1|\\ |mana_w|: Capashen Knight gets +1/+0 until end of turn."
 msgstr "|mana_1| |mana_w|: Rycerz z Capashen dostaje +1/+0 do końca tury."
 
 # 0aa4b4bf7f744ceda457712d80023557
@@ -709,10 +710,11 @@ msgstr ""
 # ffd7832d4fa6403486d67bb84d872d21
 # 990802a77c3c4330a7ae7122dd71b60f
 #: ../../M14.rst:201
+#, fuzzy
 msgid ""
-"|mana_5| |mana_w|: Stonehorn Chanter gains vigilance and lifelink until end "
-"of turn. (Attacking doesn't cause it to tap. Damage dealt by it also causes "
-"you to gain that much life.)"
+"|mana_5|\\ |mana_w|: Stonehorn Chanter gains vigilance and lifelink until "
+"end of turn. (Attacking doesn't cause it to tap. Damage dealt by it also "
+"causes you to gain that much life.)"
 msgstr ""
 "|mana_5| |mana_w|: Stonehorn Chanter zyskuje czujność oraz więź życia do "
 "końca tury. (Atakowanie nie powoduje jego zatapowania. Obrażenia przez niego "
@@ -737,7 +739,8 @@ msgstr "Air Servant (Powietrzny Sługa)"
 # aabf89bd9aaf4c55b26ba65796508a8b
 # 0ba7862ef5e042fa986a96e16d509220
 #: ../../M14.rst:217
-msgid "|mana_2| |mana_u|: Tap target creature with flying."
+#, fuzzy
+msgid "|mana_2|\\ |mana_u|: Tap target creature with flying."
 msgstr "|mana_2| |mana_u|: Zaznacz wskazanego stwora z Lataniem."
 
 # 12ff9b3fcb7e48b79b02431c23cbaa28
@@ -783,7 +786,8 @@ msgstr "Claustrophobia (Klaustrofobia)"
 # 4c043c21c85a4907890715999f032333
 #: ../../M14.rst:235
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr "Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
+msgstr ""
+"Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
 
 # 273d3e688c474787aed564f4fb2b46ee
 # af7de5d6a54c405885b7e8d436477120
@@ -1192,9 +1196,10 @@ msgstr ""
 # c486c6f08ee24ea9bf9b4fa8ef829846
 # 59daf398ab8a437983e3bc518a3d40d5
 #: ../../M14.rst:369
+#, fuzzy
 msgid ""
 "Counter target spell with converted mana cost X. (For example, if that "
-"spell's mana cost is |mana_3| |mana_u| |mana_u|, X is 5.)"
+"spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
 "Skontruj wskazany czar o łącznym koszcie many równym X. (Np. jeśli koszt "
 "tego czaru to |mana_3| |mana_u| |mana_u|, X wynosi 5.)"
@@ -1341,7 +1346,8 @@ msgstr ""
 # b7b5201bd3f24bcb8f18c3fb9ccd0909
 # 189810cce4414dc7903511692239f13e
 #: ../../M14.rst:419
-msgid "|mana_1| |mana_u|: Target creature gains flying until end of turn."
+#, fuzzy
+msgid "|mana_1|\\ |mana_u|: Target creature gains flying until end of turn."
 msgstr "|mana_1| |mana_u|: Wskazany stwór dostaje Latanie do końca tury."
 
 # 2cee698f53804f91b5b4367d849b01fb
@@ -1459,8 +1465,9 @@ msgstr "Corpse Hauler (Wozak Zwłok)"
 # e30ef7ccecf14313a719b739fc62f89c
 # 040f049873e442628cc59443f03345bd
 #: ../../M14.rst:455
+#, fuzzy
 msgid ""
-"|mana_2| |mana_b|, Sacrifice Corpse Hauler: Return another target creature "
+"|mana_2|\\ |mana_b|, Sacrifice Corpse Hauler: Return another target creature "
 "card from your graveyard to your hand."
 msgstr ""
 "|mana_2| |mana_b|, poświęć Corpse Hauler: Zwróć inną wskazaną kartę stwora z "
@@ -1607,9 +1614,10 @@ msgstr ""
 # f821fc3542324d26a455e332d7fad0e6
 # 2b9da02997f548d38550550a86db83a9
 #: ../../M14.rst:497
+#, fuzzy
 msgid ""
-"|mana_1| |mana_b|, Sacrifice a creature: Target player loses 1 life and you "
-"gain 1 life."
+"|mana_1|\\ |mana_b|, Sacrifice a creature: Target player loses 1 life and "
+"you gain 1 life."
 msgstr ""
 "|mana_1| |mana_b|, poświęć stwora: Wskazany gracz traci 1 życie, a ty "
 "otrzymujesz 1 życie."
@@ -1674,8 +1682,8 @@ msgstr ""
 #: ../../M14.rst:515
 #, fuzzy
 msgid ""
-"−6: You get an emblem with \"Swamps you control have '|tap|: Add |mana_b| |"
-"mana_b| |mana_b| |mana_b|.'\""
+"−6: You get an emblem with \"Swamps you control have '|tap|: Add |mana_b|\\ |"
+"mana_b|\\ |mana_b|\\ |mana_b|.'\""
 msgstr ""
 "-6: Dostajesz emblemat o treści \"Bagna, którymi władasz, mają '|tap|: Dodaj "
 "|mana_b| |mana_b| |mana_b| |mana_b| do swojego zasobnika many.'\""
@@ -1710,7 +1718,7 @@ msgstr ""
 # 20ad6e0a78fc4f128aa9d667bd78c8ca
 #: ../../M14.rst:525
 #, fuzzy
-msgid "Destroy target creature. Add |mana_b| |mana_b| |mana_b|."
+msgid "Destroy target creature. Add |mana_b|\\ |mana_b|\\ |mana_b|."
 msgstr ""
 "Zniszcz wskazanego stwora. Dodaj |mana_b| |mana_b| |mana_b| do twojej puli "
 "many."
@@ -1766,7 +1774,8 @@ msgstr ""
 # 92ef10afd3c845139d7d307e3a58daf5
 # 11b1e144f6fc422fb34445ef73b6dfae
 #: ../../M14.rst:551
-msgid "|mana_1| |mana_b|: Nightwing Shade gets +1/+1 until end of turn."
+#, fuzzy
+msgid "|mana_1|\\ |mana_b|: Nightwing Shade gets +1/+1 until end of turn."
 msgstr "|mana_1| |mana_b|: Nightwing Shade dostaje +1/+1 do końca tury."
 
 # d150b8449856443a9830f1b36dfdcb82
@@ -1904,8 +1913,9 @@ msgstr ""
 # d09b7f2897d8444d96db77bce847e7a9
 # 6f2e98d950004811b41d7acf8eddbf1a
 #: ../../M14.rst:597
+#, fuzzy
 msgid ""
-"When Tenacious Dead dies, you may pay |mana_1| |mana_b|. If you do, return "
+"When Tenacious Dead dies, you may pay |mana_1|\\ |mana_b|. If you do, return "
 "it to the battlefield tapped under its owner's control."
 msgstr ""
 "Kiedy Tenacious Dead umiera, możesz zapłacić |mana_1| |mana_b|. Gdy tak "
@@ -3044,8 +3054,9 @@ msgstr ""
 # d678d5d25d3d4a29a80c9ae24a04d700
 # 1136cd6ab3d8441a874651447c3402ca
 #: ../../M14.rst:947
+#, fuzzy
 msgid ""
-"|mana_1| |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this "
+"|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this "
 "ability only once each turn."
 msgstr ""
 "|mana_1| |mana_g|: Rootwalla dostaje +2/+2 do końca tury. Aktywuj tę "
@@ -3116,8 +3127,9 @@ msgid "Trollhide"
 msgstr ""
 
 #: ../../M14.rst:971
+#, fuzzy
 msgid ""
-"Enchanted creature gets +2/+2 and has \"|mana_1| |mana_g|: Regenerate this "
+"Enchanted creature gets +2/+2 and has \"|mana_1|\\ |mana_g|: Regenerate this "
 "creature.\" (The next time the creature would be destroyed this turn, it "
 "isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
 msgstr ""
