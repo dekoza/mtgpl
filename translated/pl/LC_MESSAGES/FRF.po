@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 14:29+0000\n"
+"PO-Revision-Date: 2019-01-06 15:39+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/frf/pl/>\n"
 "Language: pl\n"
@@ -1805,8 +1805,8 @@ msgid ""
 "until end of turn.\""
 msgstr ""
 "Dodaj |mana_r| do twojej puli many za każdego atakującego stwora, którym "
-"władasz. Do końca tury ataukujące stwory, którymi władasz dostają \\\"|"
-"mana_r|: Ten stwór dostaje +1/+0 do końca tury.\\\""
+"władasz. Do końca tury ataukujące stwory, którymi władasz dostają \"|mana_r|:"
+" Ten stwór dostaje +1/+0 do końca tury.\""
 
 # a86981e155a1417b84bd4c8a0b1654b3
 #: ../../FRF.rst:548
@@ -2736,8 +2736,8 @@ msgid ""
 "of your library.\""
 msgstr ""
 "Poświęć Whisperwood Elemental: Do końca tury nie będące żetonami stwory "
-"mające wierzch do góry zyskują \\\"Kiedy ten stwór umiera, objaw wierzchnią "
-"kartę twojej biblioteki.\\\""
+"mające wierzch do góry zyskują \"Kiedy ten stwór umiera, objaw wierzchnią "
+"kartę twojej biblioteki.\""
 
 # 2264e292ef414142a579bda16ac1fe33
 #: ../../FRF.rst:816
