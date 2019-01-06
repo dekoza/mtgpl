@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-01 01:24+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
@@ -330,7 +330,7 @@ msgstr ""
 #: ../../M14.rst:63
 #, fuzzy
 msgid "|mana_1|\\ |mana_w|: Capashen Knight gets +1/+0 until end of turn."
-msgstr "|mana_1| |mana_w|: Rycerz z Capashen dostaje +1/+0 do końca tury."
+msgstr "|mana_1|\\ |mana_w|: Rycerz z Capashen dostaje +1/+0 do końca tury."
 
 # 0aa4b4bf7f744ceda457712d80023557
 # 5cc3b39c4e7345a888ce48d2d922fabc
@@ -716,7 +716,7 @@ msgid ""
 "end of turn. (Attacking doesn't cause it to tap. Damage dealt by it also "
 "causes you to gain that much life.)"
 msgstr ""
-"|mana_5| |mana_w|: Stonehorn Chanter zyskuje czujność oraz więź życia do "
+"|mana_5|\\ |mana_w|: Stonehorn Chanter zyskuje czujność oraz więź życia do "
 "końca tury. (Atakowanie nie powoduje jego zatapowania. Obrażenia przez niego "
 "zadane powodują, że dostajesz tyle samo życia.)"
 
@@ -741,7 +741,7 @@ msgstr "Air Servant (Powietrzny Sługa)"
 #: ../../M14.rst:217
 #, fuzzy
 msgid "|mana_2|\\ |mana_u|: Tap target creature with flying."
-msgstr "|mana_2| |mana_u|: Zaznacz wskazanego stwora z Lataniem."
+msgstr "|mana_2|\\ |mana_u|: Zaznacz wskazanego stwora z Lataniem."
 
 # 12ff9b3fcb7e48b79b02431c23cbaa28
 # d78d0e177fb54f7f904a8fb26f3e641c
@@ -1202,7 +1202,7 @@ msgid ""
 "spell's mana cost is |mana_3|\\ |mana_u|\\ |mana_u|, X is 5.)"
 msgstr ""
 "Skontruj wskazany czar o łącznym koszcie many równym X. (Np. jeśli koszt "
-"tego czaru to |mana_3| |mana_u| |mana_u|, X wynosi 5.)"
+"tego czaru to |mana_3|\\ |mana_u|\\ |mana_u|, X wynosi 5.)"
 
 # a0782106b6ca45a788f083d0291bc3c0
 #: ../../M14.rst:374
@@ -1348,7 +1348,7 @@ msgstr ""
 #: ../../M14.rst:419
 #, fuzzy
 msgid "|mana_1|\\ |mana_u|: Target creature gains flying until end of turn."
-msgstr "|mana_1| |mana_u|: Wskazany stwór dostaje Latanie do końca tury."
+msgstr "|mana_1|\\ |mana_u|: Wskazany stwór dostaje Latanie do końca tury."
 
 # 2cee698f53804f91b5b4367d849b01fb
 # 88a18e185fbd49999a8e6a7e76e6a400
@@ -1470,8 +1470,8 @@ msgid ""
 "|mana_2|\\ |mana_b|, Sacrifice Corpse Hauler: Return another target creature "
 "card from your graveyard to your hand."
 msgstr ""
-"|mana_2| |mana_b|, poświęć Corpse Hauler: Zwróć inną wskazaną kartę stwora z "
-"twojego cmentarza do twojej ręki."
+"|mana_2|\\ |mana_b|, poświęć Corpse Hauler: Zwróć inną wskazaną kartę stwora "
+"z twojego cmentarza do twojej ręki."
 
 # 3bad32cc6e23452fbefb1b79e05ca076
 # b803bc038c404647bbe66b1141e94a04
@@ -1619,7 +1619,7 @@ msgid ""
 "|mana_1|\\ |mana_b|, Sacrifice a creature: Target player loses 1 life and "
 "you gain 1 life."
 msgstr ""
-"|mana_1| |mana_b|, poświęć stwora: Wskazany gracz traci 1 życie, a ty "
+"|mana_1|\\ |mana_b|, poświęć stwora: Wskazany gracz traci 1 życie, a ty "
 "otrzymujesz 1 życie."
 
 # d28cbc1276b449a9b61534a028e4ff27
@@ -1686,7 +1686,7 @@ msgid ""
 "mana_b|\\ |mana_b|\\ |mana_b|.'\""
 msgstr ""
 "-6: Dostajesz emblemat o treści \"Bagna, którymi władasz, mają '|tap|: Dodaj "
-"|mana_b| |mana_b| |mana_b| |mana_b| do swojego zasobnika many.'\""
+"|mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b| do swojego zasobnika many.'\""
 
 # c12a327112f94cb1a43b87521f126798
 #: ../../M14.rst:522
@@ -1720,8 +1720,8 @@ msgstr ""
 #, fuzzy
 msgid "Destroy target creature. Add |mana_b|\\ |mana_b|\\ |mana_b|."
 msgstr ""
-"Zniszcz wskazanego stwora. Dodaj |mana_b| |mana_b| |mana_b| do twojej puli "
-"many."
+"Zniszcz wskazanego stwora. Dodaj |mana_b|\\ |mana_b|\\ |mana_b| do twojej "
+"puli many."
 
 # 1e4872fdf5f24702802a4edada69d7ed
 #: ../../M14.rst:532
@@ -1776,7 +1776,7 @@ msgstr ""
 #: ../../M14.rst:551
 #, fuzzy
 msgid "|mana_1|\\ |mana_b|: Nightwing Shade gets +1/+1 until end of turn."
-msgstr "|mana_1| |mana_b|: Nightwing Shade dostaje +1/+1 do końca tury."
+msgstr "|mana_1|\\ |mana_b|: Nightwing Shade dostaje +1/+1 do końca tury."
 
 # d150b8449856443a9830f1b36dfdcb82
 #: ../../M14.rst:558
@@ -1918,7 +1918,7 @@ msgid ""
 "When Tenacious Dead dies, you may pay |mana_1|\\ |mana_b|. If you do, return "
 "it to the battlefield tapped under its owner's control."
 msgstr ""
-"Kiedy Tenacious Dead umiera, możesz zapłacić |mana_1| |mana_b|. Gdy tak "
+"Kiedy Tenacious Dead umiera, możesz zapłacić |mana_1|\\ |mana_b|. Gdy tak "
 "zrobisz, przywróć go zatapowanego na pole walki pod władaniem jego "
 "właściciela."
 
@@ -3059,7 +3059,7 @@ msgid ""
 "|mana_1|\\ |mana_g|: Rootwalla gets +2/+2 until end of turn. Activate this "
 "ability only once each turn."
 msgstr ""
-"|mana_1| |mana_g|: Rootwalla dostaje +2/+2 do końca tury. Aktywuj tę "
+"|mana_1|\\ |mana_g|: Rootwalla dostaje +2/+2 do końca tury. Aktywuj tę "
 "zdolność tylko raz na turę."
 
 # f768d3439fca41608b718ef7e9601022
@@ -3133,7 +3133,7 @@ msgid ""
 "creature.\" (The next time the creature would be destroyed this turn, it "
 "isn't. Instead tap it, remove all damage from it, and remove it from combat.)"
 msgstr ""
-"Zauroczony stwór dostaje +2/+2 oraz ma \"|mana_1| |mana_g|: Regeneruj tego "
+"Zauroczony stwór dostaje +2/+2 oraz ma \"|mana_1|\\ |mana_g|: Regeneruj tego "
 "stwora.\" (Następnym razem w tej turze, kiedy ten stwór miałby zostać "
 "zniszczony, nie jest. Zamiast tego zużyj go, usuń z niego wszystkie "
 "obrażenia i usuń go z walki.)"
