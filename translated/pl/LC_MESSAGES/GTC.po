@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-01 01:24+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -483,7 +483,7 @@ msgstr "Zarichi Tiger"
 #: ../../GTC.rst:145
 #, fuzzy
 msgid "|mana_1|\\ |mana_w|, |tap|: You gain 2 life."
-msgstr "|mana_1| |mana_w|, |tap|: Zyskujesz 2 życia."
+msgstr "|mana_1|\\ |mana_w|, |tap|: Zyskujesz 2 życia."
 
 #: ../../GTC.rst:150
 #, fuzzy
@@ -509,7 +509,7 @@ msgstr "Zauroczony stwór dostaje -5/-0."
 #: ../../GTC.rst:157
 #, fuzzy
 msgid "|mana_2|\\ |mana_u|: Return Agoraphobia to its owner's hand."
-msgstr "|mana_2| |mana_u|: Zwróć Agoraphobia do ręki właściciela."
+msgstr "|mana_2|\\ |mana_u|: Zwróć Agoraphobia do ręki właściciela."
 
 # 93dc7a3a56b9426aaf430307951f2b00
 #: ../../GTC.rst:164
@@ -594,7 +594,7 @@ msgid ""
 "|mana_1|\\ |mana_g|: Frilled Oculus gets +2/+2 until end of turn. Activate "
 "this ability only once each turn."
 msgstr ""
-"|mana_1| |mana_g|: Frilled Oculus dostaje +2/+2 do końca tury. Możesz "
+"|mana_1|\\ |mana_g|: Frilled Oculus dostaje +2/+2 do końca tury. Możesz "
 "aktywować tę zdolność tylko raz na turę."
 
 # 62a2007486bb498eb4ab271619e6b50e
@@ -816,7 +816,7 @@ msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Move a +1/+1 counter from Simic Fluxmage onto "
 "target creature."
 msgstr ""
-"|mana_1| |mana_u|, |tap|: Przenieś znacznik +1/+1 z Simic Fluxmage na "
+"|mana_1|\\ |mana_u|, |tap|: Przenieś znacznik +1/+1 z Simic Fluxmage na "
 "wskazanego stwora."
 
 # 42670897055a4dfaa41feab7d8c41c5f
@@ -1143,8 +1143,11 @@ msgstr "Midnight Recovery"
 # 10be1dd7b13b4420943907d691cefca9
 # e8d4786e29a449458fd56b2aa7e2484f
 #: ../../GTC.rst:387 ../../GTC.rst:711
+#, fuzzy
 msgid "Return target creature card from your graveyard to your hand."
-msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
+msgstr ""
+"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 # f0aa79c4aa3f4d98aaf22853d9f071f0
 #: ../../GTC.rst:396
@@ -1350,8 +1353,8 @@ msgid ""
 "|mana_x|\\ |mana_r|, |tap|, Sacrifice Cinder Elemental: Cinder Elemental "
 "deals X damage to any target."
 msgstr ""
-"|mana_x| |mana_r|, |tap|, Poświęć Cinder Elemental: Cinder Elemental zadaje "
-"X obrażeń wskazanemu stworowi lub graczowi."
+"|mana_x|\\ |mana_r|, |tap|, Poświęć Cinder Elemental: Cinder Elemental "
+"zadaje X obrażeń wskazanemu stworowi lub graczowi."
 
 # 05f43c80a29047bfa99a01eb9b539af2
 #: ../../GTC.rst:462
@@ -1626,7 +1629,7 @@ msgid ""
 "Bloodrush — |mana_1|\\ |mana_r|\\ |mana_r|, Discard Scorchwalker: Target "
 "attacking creature gets +5/+1 until end of turn."
 msgstr ""
-"Zew krwi — |mana_1| |mana_r| |mana_r|, odrzuć Scorchwalker: Wskazany "
+"Zew krwi — |mana_1|\\ |mana_r|\\ |mana_r|, odrzuć Scorchwalker: Wskazany "
 "atakujący stwór dostaje +5/+1 do końca tury."
 
 # bfc5bf2e70bf4de8b56249b06b1691e5
@@ -1715,8 +1718,8 @@ msgid ""
 "Bloodrush — |mana_2|\\ |mana_r|, Discard Viashino Shanktail: Target "
 "attacking creature gets +3/+1 and gains first strike until end of turn."
 msgstr ""
-"Zew krwi — |mana_2| |mana_r|, odrzuć Viashino Shanktail: Wskazany atakujący "
-"stwór dostaje do końca tury +3/+1 oraz pierwszy cios."
+"Zew krwi — |mana_2|\\ |mana_r|, odrzuć Viashino Shanktail: Wskazany "
+"atakujący stwór dostaje do końca tury +3/+1 oraz pierwszy cios."
 
 # 8bafa3db8bb64e09b00b93f702c5629c
 #: ../../GTC.rst:570
@@ -1751,7 +1754,7 @@ msgid ""
 "Bloodrush — |mana_3|\\ |mana_r|\\ |mana_r|, Discard Wrecking Ogre: Target "
 "attacking creature gets +3/+3 and gains double strike until end of turn."
 msgstr ""
-"Zew krwi — |mana_3| |mana_r| |mana_r|, odrzuć Wrecking Ogre: Wskazany "
+"Zew krwi — |mana_3|\\ |mana_r|\\ |mana_r|, odrzuć Wrecking Ogre: Wskazany "
 "atakujący stwór dostaje do końca tury +3/+3 oraz podwójny cios."
 
 # eb5cc8de19f544678191890babce1ee1
@@ -1960,7 +1963,7 @@ msgid ""
 "you control: Create an X/X green Ooze creature token, where X is the number "
 "of +1/+1 counters removed this way."
 msgstr ""
-"|mana_1| |mana_g|, usuń jeden lub więcej znaczników +1/+1 spośród stworów, "
+"|mana_1|\\ |mana_g|, usuń jeden lub więcej znaczników +1/+1 spośród stworów, "
 "którymi władasz: Umieść na polu walki żeton zielonego stwora Szlam X/X, "
 "gdzie X jest liczbą usuniętych w ten sposób znaczników +1/+1."
 
@@ -2007,7 +2010,7 @@ msgid ""
 "Bloodrush — |mana_1|\\ |mana_g|, Discard Scab-Clan Charger: Target attacking "
 "creature gets +2/+4 until end of turn."
 msgstr ""
-"Zew krwi — |mana_1| |mana_g|, odrzuć Scab-Clan Charger: Wskazany atakujący "
+"Zew krwi — |mana_1|\\ |mana_g|, odrzuć Scab-Clan Charger: Wskazany atakujący "
 "stwór dostaje +2/+4 do końca tury."
 
 # 62bdca2e9db54d7ca244167ef66ce723
@@ -2038,7 +2041,7 @@ msgid ""
 "Bloodrush — |mana_5|\\ |mana_g|\\ |mana_g|, Discard Skarrg Goliath: Target "
 "attacking creature gets +9/+9 and gains trample until end of turn."
 msgstr ""
-"Zew krwi — |mana_5| |mana_g| |mana_g|, odrzuć Skarrg Goliath: Wskazany "
+"Zew krwi — |mana_5|\\ |mana_g|\\ |mana_g|, odrzuć Skarrg Goliath: Wskazany "
 "atakujący stwór dostaje do końca tury +9/+9 oraz tratowanie."
 
 # ac12610b556d4028897107f53dbfb79e
@@ -2241,8 +2244,8 @@ msgid ""
 "|mana_u|\\ |mana_b|, |tap|: Return a card exiled with Bane Alley Broker to "
 "its owner's hand."
 msgstr ""
-"|mana_u| |mana_b|, |tap|: Przywróć kartę wypędzoną przez Bane Alley Brokera "
-"do ręki właściciela."
+"|mana_u|\\ |mana_b|, |tap|: Przywróć kartę wypędzoną przez Bane Alley "
+"Brokera do ręki właściciela."
 
 # 31f719d1c29a4c8d83197e30f80419bb
 #: ../../GTC.rst:742
@@ -2403,9 +2406,9 @@ msgid ""
 "the battlefield.\""
 msgstr ""
 "Kiedy Deathpact Angel umiera, stwórz żeton biało-czarnego stwora Cleric 1/1 "
-"ze zdolnością \"|mana_3| |mana_w| |mana_b| |mana_b|, |tap|, poświęć tego "
-"stwora: Zwróć kartę o nazwie Deathpact Angel z twojego cmentarza na pole "
-"walki.\""
+"ze zdolnością \"|mana_3|\\ |mana_w|\\ |mana_b|\\ |mana_b|, |tap|, poświęć "
+"tego stwora: Zwróć kartę o nazwie Deathpact Angel z twojego cmentarza na "
+"pole walki.\""
 
 # 3d3758353ef34c7e924b1bb40734efef
 #: ../../GTC.rst:802
@@ -2498,7 +2501,7 @@ msgid ""
 "|mana_1|\\ |mana_u|\\ |mana_b|: Whenever a card is put into an opponent's "
 "graveyard from anywhere this turn, that player loses 1 life."
 msgstr ""
-"|mana_1| |mana_u| |mana_b|: Ilekroć w tej turze karta zostaje położona z "
+"|mana_1|\\ |mana_u|\\ |mana_b|: Ilekroć w tej turze karta zostaje położona z "
 "dowolnego miejsca na cmentarzu któregoś przeciwnika, ów gracz traci 1 życie."
 
 # 2b3501486a3844e5beebb352dfa77e53
@@ -2508,8 +2511,8 @@ msgid ""
 "|mana_2|\\ |mana_u|\\ |mana_b|: Target player puts the top two cards of "
 "their library into their graveyard."
 msgstr ""
-"|mana_2| |mana_u| |mana_b|: Wskazany gracz wkłada dwie wierzchnie karty ze "
-"swojej biblioteki do swojego cmentarza."
+"|mana_2|\\ |mana_u|\\ |mana_b|: Wskazany gracz wkłada dwie wierzchnie karty "
+"ze swojej biblioteki do swojego cmentarza."
 
 # 18b3ebd7b3284b4b8adcae7ab1fb30ce
 #: ../../GTC.rst:830
@@ -2652,8 +2655,8 @@ msgid ""
 "Bloodrush — |mana_r|\\ |mana_g|, Discard Ghor-Clan Rampager: Target "
 "attacking creature gets +4/+4 and gains trample until end of turn."
 msgstr ""
-"Zew krwi — |mana_r| |mana_g|, odrzuć Ghor-Clan Rampager: Wskazany atakujący "
-"stwór dostaje +4/+4 i tratowanie do końca tury."
+"Zew krwi — |mana_r|\\ |mana_g|, odrzuć Ghor-Clan Rampager: Wskazany "
+"atakujący stwór dostaje +4/+4 i tratowanie do końca tury."
 
 # 55c756388a62429b83a206ae3d4310f1
 #: ../../GTC.rst:880
@@ -3069,8 +3072,9 @@ msgid ""
 "attacking creature gets +X/+X until end of turn, where X is the number of "
 "lands you control."
 msgstr ""
-"Zew krwi — |mana_1| |mana_r| |mana_g|, odrzuć Rubblehulk: Wskazany atakujący "
-"stwór dostaje +X/+X do końca tury, gdzie X to liczba lądów, którymi władasz."
+"Zew krwi — |mana_1|\\ |mana_r|\\ |mana_g|, odrzuć Rubblehulk: Wskazany "
+"atakujący stwór dostaje +X/+X do końca tury, gdzie X to liczba lądów, "
+"którymi władasz."
 
 # 5e814b0dd9914a2c842daf8f1dfcd0ce
 #: ../../GTC.rst:1016
@@ -3138,7 +3142,8 @@ msgstr "Skarrg Guildmage"
 msgid ""
 "|mana_r|\\ |mana_g|: Creatures you control gain trample until end of turn."
 msgstr ""
-"|mana_r| |mana_g|: Stwory, którymi władasz zyskują tratowanie do końca tury."
+"|mana_r|\\ |mana_g|: Stwory, którymi władasz zyskują tratowanie do końca "
+"tury."
 
 # 941ded0e6f564ce48a7f183c2e3128ec
 #: ../../GTC.rst:1043
@@ -3147,8 +3152,8 @@ msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_g|: Target land you control becomes a 4/4 "
 "Elemental creature until end of turn. It's still a land."
 msgstr ""
-"|mana_1| |mana_r| |mana_g|: Wskazany ląd, którym władasz staje się stworem "
-"Żywiołak 4/4 do końca tury. Nadal jest lądem."
+"|mana_1|\\ |mana_r|\\ |mana_g|: Wskazany ląd, którym władasz staje się "
+"stworem Żywiołak 4/4 do końca tury. Nadal jest lądem."
 
 # 9cbd60d14b2a43dc923b0cb12c612f5d
 #: ../../GTC.rst:1048
@@ -3210,8 +3215,8 @@ msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_w|: Creatures you control get +1/+0 until end of "
 "turn."
 msgstr ""
-"|mana_1| |mana_r| |mana_w|: Stwory, którymi władasz dostają +1/+0 do końca "
-"tury."
+"|mana_1|\\ |mana_r|\\ |mana_w|: Stwory, którymi władasz dostają +1/+0 do "
+"końca tury."
 
 # a6f1e2212fdf4cecaa5ef6534efffc40
 #: ../../GTC.rst:1067
@@ -3220,7 +3225,7 @@ msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_w|: Create a 1/1 red and white Soldier creature "
 "token with haste."
 msgstr ""
-"|mana_2| |mana_r| |mana_w|: Umieść na polu walki żeton czerwono-białego "
+"|mana_2|\\ |mana_r|\\ |mana_w|: Umieść na polu walki żeton czerwono-białego "
 "stwora Piechur 1/1 z pośpiechem."
 
 # 224f7a64ea3242589007937d0e3ce023
@@ -3248,7 +3253,7 @@ msgstr "Truefire Paladin"
 #: ../../GTC.rst:1079
 #, fuzzy
 msgid "|mana_r|\\ |mana_w|: Truefire Paladin gets +2/+0 until end of turn."
-msgstr "|mana_r| |mana_w|: Truefire Paladin dostaje +2/+0 do końca tury."
+msgstr "|mana_r|\\ |mana_w|: Truefire Paladin dostaje +2/+0 do końca tury."
 
 # 1bb4a30a271a4820974590392fa739cd
 #: ../../GTC.rst:1081
@@ -3256,7 +3261,7 @@ msgstr "|mana_r| |mana_w|: Truefire Paladin dostaje +2/+0 do końca tury."
 msgid ""
 "|mana_r|\\ |mana_w|: Truefire Paladin gains first strike until end of turn."
 msgstr ""
-"|mana_r| |mana_w|: Truefire Paladin zyskuje pierwszy cios do końca tury."
+"|mana_r|\\ |mana_w|: Truefire Paladin zyskuje pierwszy cios do końca tury."
 
 # 405444016c6e4465855400e4034fea5f
 #: ../../GTC.rst:1086
@@ -3316,7 +3321,8 @@ msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Target creature gains lifelink until end of "
 "turn."
 msgstr ""
-"|mana_1| |mana_w| |mana_b|: Wskazany stwór dostaje więź życia do końca tury."
+"|mana_1|\\ |mana_w|\\ |mana_b|: Wskazany stwór dostaje więź życia do końca "
+"tury."
 
 # b7798e4123ff4ea9ae43409e39463ab5
 #: ../../GTC.rst:1101
@@ -3325,7 +3331,7 @@ msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Whenever you gain life this turn, each "
 "opponent loses that much life."
 msgstr ""
-"|mana_1| |mana_w| |mana_b|: Ilekroć zyskasz życie w tej turze, każdy z "
+"|mana_1|\\ |mana_w|\\ |mana_b|: Ilekroć zyskasz życie w tej turze, każdy z "
 "przeciwników traci tyle samo życia."
 
 # 0105ecef05044621947e6741a191a058
@@ -3371,7 +3377,7 @@ msgid ""
 "|mana_g|\\ |mana_u|: This turn, each creature you control enters the "
 "battlefield with an additional +1/+1 counter on it."
 msgstr ""
-"|mana_g| |mana_u|: W tej turze każdy stwór, którym władasz wchodzi na pole "
+"|mana_g|\\ |mana_u|: W tej turze każdy stwór, którym władasz wchodzi na pole "
 "walki z dodatkowym znacznikiem +1/+1."
 
 # 0f24e60ab55f4eb5a24fc04bc30a6ad2
@@ -3381,7 +3387,7 @@ msgid ""
 "|mana_g|\\ |mana_u|, Remove a +1/+1 counter from a creature you control: "
 "Draw a card."
 msgstr ""
-"|mana_g| |mana_u|, usuń znacznik +1/+1 ze stwora, którym władasz: Dobierz "
+"|mana_g|\\ |mana_u|, usuń znacznik +1/+1 ze stwora, którym władasz: Dobierz "
 "kartę."
 
 # 2100d8b78a8b43cc93c3ef55a74971d1
@@ -3397,7 +3403,7 @@ msgid ""
 "Bloodrush — |mana_1|\\ |mana_r|\\ |mana_g|, Discard Zhur-Taa Swine: Target "
 "attacking creature gets +5/+4 until end of turn."
 msgstr ""
-"Zew krwi — |mana_1| |mana_r| |mana_g|, odrzuć Zhur-Taa Swine: Wskazany "
+"Zew krwi — |mana_1|\\ |mana_r|\\ |mana_g|, odrzuć Zhur-Taa Swine: Wskazany "
 "atakujący stwór dostaje do końca tury +5/+4."
 
 # 235af54e2b1348b4b12222f40cf21d6b
@@ -3488,7 +3494,7 @@ msgstr "Burning-Tree Emissary (Emisariusz Płonącego Drzewa)"
 msgid ""
 "When Burning-Tree Emissary enters the battlefield, add |mana_r|\\ |mana_g|."
 msgstr ""
-"Kiedy Burning-Tree Emissary wchodzi na pole walki, dodaj |mana_r| |mana_g| "
+"Kiedy Burning-Tree Emissary wchodzi na pole walki, dodaj |mana_r|\\ |mana_g| "
 "do twojej puli many."
 
 # f12d33ade5324959b443795a2e631b1c
@@ -3644,7 +3650,7 @@ msgid ""
 "artifact creature with double strike until end of turn. (It deals both first-"
 "strike and regular combat damage.)"
 msgstr ""
-"|mana_r| |mana_w|: Do końca tury Boros Keyrune staje się czerwono-białym "
+"|mana_r|\\ |mana_w|: Do końca tury Boros Keyrune staje się czerwono-białym "
 "artefaktycznym stworem Soldier 1/1 z podwójnym ciosem. (Zadaje obrażenia "
 "bitewne jako pierwszy cios oraz normalnie.)"
 
@@ -3667,7 +3673,7 @@ msgid ""
 "|mana_u|\\ |mana_b|: Dimir Keyrune becomes a 2/2 blue and black Horror "
 "artifact creature until end of turn and can't be blocked this turn."
 msgstr ""
-"|mana_u| |mana_b|: Do końca tury Dimir Keyrune staje się niebiesko-czarnym "
+"|mana_u|\\ |mana_b|: Do końca tury Dimir Keyrune staje się niebiesko-czarnym "
 "artefaktycznym stworem Horror 2/2 i nie może być blokowany w tej turze."
 
 # 0342ae591eeb47fcb68b3768b152c77b
@@ -3714,7 +3720,7 @@ msgid ""
 "|mana_r|\\ |mana_g|: Gruul Keyrune becomes a 3/2 red and green Beast "
 "artifact creature with trample until end of turn."
 msgstr ""
-"|mana_r| |mana_g|: Do końca tury Gruul Keyrune staje się czerwono-zielonym "
+"|mana_r|\\ |mana_g|: Do końca tury Gruul Keyrune staje się czerwono-zielonym "
 "artefaktycznym stworem Beast 3/2 z Tratowaniem."
 
 # 893e684288654d1fac9f9b8ac4db41f3
@@ -3764,7 +3770,7 @@ msgid ""
 "|mana_w|\\ |mana_b|: Orzhov Keyrune becomes a 1/4 white and black Thrull "
 "artifact creature with lifelink until end of turn."
 msgstr ""
-"|mana_w| |mana_b|: Do końca tury Orzhov Keyrune staje się biało-czarnym "
+"|mana_w|\\ |mana_b|: Do końca tury Orzhov Keyrune staje się biało-czarnym "
 "artefaktycznym stworem Thrull 1/4 z Więzią Życia."
 
 # 25e3b6e5ea104fa495ecd172b46d7167
@@ -3838,9 +3844,9 @@ msgid ""
 "artifact creature with hexproof until end of turn. (It can't be the target "
 "of spells or abilities your opponents control.)"
 msgstr ""
-"|mana_g| |mana_u|: Do końca tury Simic Keyrune staje się zielono-niebieskim "
-"artefaktycznym stworem Krab 2/3 z antyklątwą. (Nie może być wskazywany przez "
-"czary i zdolności władane przez twoich przeciwników.)"
+"|mana_g|\\ |mana_u|: Do końca tury Simic Keyrune staje się zielono-"
+"niebieskim artefaktycznym stworem Krab 2/3 z antyklątwą. (Nie może być "
+"wskazywany przez czary i zdolności władane przez twoich przeciwników.)"
 
 # 9770a03be97a40c6a1d73205e39aae9c
 #: ../../GTC.rst:1262
