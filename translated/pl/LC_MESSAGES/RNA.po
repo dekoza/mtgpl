@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:59+0100\n"
-"PO-Revision-Date: 2019-01-06 16:01+0000\n"
+"PO-Revision-Date: 2019-01-06 22:07+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rna/pl/>\n"
 "Language: pl\n"
@@ -281,7 +281,7 @@ msgstr "Burning-Tree Vandal"
 msgid "Riot (This creature enters the battlefield with your choice of a +1/+ counter or haste.)"
 msgstr ""
 "Zamieszki (Możesz wybrać, czy ten stwór wejdzie na pole walki mając znacznik "
-"+1/+1 albo pośpiech.)"
+"+1/+1, czy pośpiech.)"
 
 #: ../../RNA.rst:103
 msgid "Whenever Burning-Tree Vandal attacks, you may discard a card. If you do, draw a card."
@@ -346,7 +346,7 @@ msgstr "Skarrgan Hellkite (Skarrgańskie piekielstwo)"
 msgid "Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)"
 msgstr ""
 "Zamieszki (Możesz wybrać, czy ten stwór wejdzie na pole walki mając znacznik "
-"+1/+1 albo pośpiech.)"
+"+1/+1, czy pośpiech.)"
 
 #: ../../RNA.rst:127
 msgid "|mana_3|\\ |mana_r|: Skarrgan Hellkite deals 2 damage divided as you choose among one or two targets. Activate this ability only if Skarrgan Hellkite has a +1/+1 counter on it."
@@ -419,22 +419,31 @@ msgstr ""
 #: ../../RNA.rst:151
 msgid "Whenever a nontoken creature enters the battlefield under your control, if that creature does not have the same name as another creature you control or a creature card in your graveyard, draw a card."
 msgstr ""
+"Ilekroć nie-żetonowy stwór wejdzie na pole walki pod twoim władaniem, jeśli "
+"ów stwór nie ma tej samej nazwy, co inny stwór pod twoim władaniem lub w "
+"twoim cmentarzu, dobierz kartę."
 
 #: ../../RNA.rst:156
+#, fuzzy
 msgid "Rampage of the Clans"
-msgstr ""
+msgstr "Rampage of the Clans"
 
 #: ../../RNA.rst:155
 msgid "Destroy all artifacts and enchantments. For each permanent destroyed this way, its controller creates a 3/3 green Centaur creature token."
 msgstr ""
+"Zniszcz wszystkie artefakty i uroki. Za każdy permanent zniszczony w ten "
+"sposób, jego władca tworzy żeton zielonego stwora Centaur 3/3."
 
 #: ../../RNA.rst:162
+#, fuzzy
 msgid "Titanic Brawl"
-msgstr ""
+msgstr "Titanic Brawl"
 
 #: ../../RNA.rst:159
 msgid "This spell costs |mana_1| less to cast if it targets a creature you control with a +1/+1 counter on it."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej, jeśli wskazuje on mającego "
+"znacznik +1/+1 stwora pod twoim władaniem."
 
 #: ../../RNA.rst:161
 msgid "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)"
@@ -444,103 +453,140 @@ msgstr ""
 
 #: ../../RNA.rst:166
 msgid "Wilderness Reclamation"
-msgstr ""
+msgstr "Wilderness Reclamation (Odzyskanie dziczy)"
 
 #: ../../RNA.rst:165
 msgid "At the beginning of your end step, untap all lands you control."
 msgstr ""
+"Na początku twojego kroku końcowego, odtapuj wszystkie lądy pod twoim "
+"władaniem."
 
 #: ../../RNA.rst:170
+#, fuzzy
 msgid "Absorb"
-msgstr ""
+msgstr "Absorb"
 
 #: ../../RNA.rst:169
 msgid "Counter target spell. You gain 3 life."
-msgstr ""
+msgstr "Skontruj wskazany czar. Zyskujesz 3 życia."
 
 #: ../../RNA.rst:176
+#, fuzzy
 msgid "Aeromunculus"
-msgstr ""
+msgstr "Aeromunculus"
 
 #: ../../RNA.rst:175
 msgid "|mana_2|\\ |mana_g|\\ |mana_u|: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)"
 msgstr ""
+"|mana_2|\\ |mana_g|\\ |mana_u|: Adaptacja 1. (Jeśli ten stwór nie ma "
+"znaczników +1/+1, umieść na nim znacznik +1/+1.)"
 
 #: ../../RNA.rst:180
+#, fuzzy
 msgid "Basilica Bell-Haunt"
-msgstr ""
+msgstr "Basilica Bell-Haunt"
 
 #: ../../RNA.rst:179
 msgid "When Basilica Bell-Haunt enters the battlefield, each opponent discards a card and you gain 3 life."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, każdy przeciwnik odrzuca kartę, a ty "
+"zyskujesz 3 życia."
 
 #: ../../RNA.rst:184
 msgid "Bedevil"
-msgstr ""
+msgstr "Bedevil (Sponiewieranie)"
 
 #: ../../RNA.rst:183
 msgid "Destroy target artifact, creature, or planeswalker."
-msgstr ""
+msgstr "Zniszcz wskazany artefakt, stwora lub wędrowca."
 
 #: ../../RNA.rst:190
 msgid "Biomancer's Familiar"
-msgstr ""
+msgstr "Biomancer's Familiar (Chowaniec biomanty)"
 
 #: ../../RNA.rst:187
 msgid "Activated abilities of creatures you control cost |mana_2| less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana."
 msgstr ""
+"Aktywowanie zdolności stworów pod twoim władaniem kosztuje o |mana_2| mnie. "
+"Ten efekt nie może obniżyć całkowitej many potrzebnej na aktywację zdolności "
+"do mniej niż jednej many."
 
 #: ../../RNA.rst:189
 msgid "|tap|: The next time target creature adapts this turn, it adapts as though it had no +1/+1 counters on it."
 msgstr ""
+"|tap|: Najbliższa w tej turze adaptacja wskazanego stwora przebiegnie tak, "
+"jakby nie miał on znaczników +1/+1."
 
 #: ../../RNA.rst:194
+#, fuzzy
 msgid "Bolrac-Clan Crusher"
-msgstr ""
+msgstr "Bolrac-Clan Crusher"
 
 #: ../../RNA.rst:193
 msgid "|tap|, Remove a +1/+1 counter from a creature you control: Bolrac-Clan Crusher deals 2 damage to any target."
 msgstr ""
+"|tap|, usuń znacznik +1/+1 ze stwora pod twoim władaniem: Ten permanent "
+"zadaje 2 obrażenia w dowolnie wskazany cel."
 
 #: ../../RNA.rst:198
+#, fuzzy
 msgid "Deputy of Detention"
-msgstr ""
+msgstr "Deputy of Detention"
 
 #: ../../RNA.rst:197
 msgid "When Deputy of Detention enters the battlefield, exile target nonland permanent an opponent controls and all other nonland permanents that player controls with the same name as that permanent until Deputy of Detention leaves the battlefield."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wygnaj wskazany nie-lądowy permanent "
+"pod władaniem przeciwnika oraz wszystkie inne nie-lądowe permanenty władane "
+"przez owego gracza mające taką samą nazwę jak ów permanent dopóki ta karta "
+"nie opuści pola walki."
 
 #: ../../RNA.rst:206
+#, fuzzy
 msgid "Dovin, Grand Arbiter"
-msgstr ""
+msgstr "Dovin, Grand Arbiter"
 
 #: ../../RNA.rst:201
 msgid "+1: Until end of turn, whenever a creature you control deals combat damage to a player, put a loyalty counter on Dovin, Grand Arbiter."
 msgstr ""
+"+1: Do końca tury, ilekroć stwór pod twoim władaniem zada graczowi obrażenia "
+"bojowe, umieść znacznik lojalności na tym wędrowcu."
 
 #: ../../RNA.rst:203
 msgid "-1: Create a 1/1 colorless Thopter artifact creature token with flying. You gain 1 life."
 msgstr ""
+"-1: Stwórz żeton bezkolorowego artefaktycznego stwora Thopter 1/1 z "
+"lataniem. Zyskujesz 1 życie."
 
 #: ../../RNA.rst:205
 msgid "-7: Look at the top ten cards of your library. Put three of them into your hand and the rest on the bottom of your library in a random order."
 msgstr ""
+"-7: Spójrz na dziesięć wierzchnich kart twojej biblioteki. Umieść trzy z "
+"nich w twojej ręce, a pozostałe na spodzie twojej biblioteki w losowej "
+"kolejności."
 
 #: ../../RNA.rst:212
+#, fuzzy
 msgid "Emergency Powers"
-msgstr ""
+msgstr "Emergency Powers"
 
 #: ../../RNA.rst:209
 msgid "Each player shuffles their hand and graveyard into their library, then draws seven cards. Exile Emergency Powers."
 msgstr ""
+"Każdy gracz wtasowuje swoją rękę i cmentarz do swojej biblioteki, następnie "
+"dobiera siedem kart. Wygnaj tę kartę."
 
 #: ../../RNA.rst:211
 msgid "Addendum — If you cast this spell during your main phase, you may put a permanent card with converted mana cost 7 or less from your hand onto the battlefield."
 msgstr ""
+"Dopisek — Jeśli rzucasz ten czar w twojej fazie głównej, możesz umieścić "
+"kartę permanentu o skróconym koszcie many 7 lub mniejszym z twojej ręki na "
+"polu walki."
 
 #: ../../RNA.rst:220
+#, fuzzy
 msgid "Frenzied Arynx"
-msgstr ""
+msgstr "Frenzied Arynx"
 
 #: ../../RNA.rst:217
 #: ../../RNA.rst:241
@@ -549,11 +595,12 @@ msgstr "Tratowanie"
 
 #: ../../RNA.rst:219
 msgid "|mana_4|\\ |mana_r|\\ |mana_g|: Frenzied Arynx gets +3/+0 until end of turn."
-msgstr ""
+msgstr "|mana_4|\\ |mana_r|\\ |mana_g|: Ten stwór dostaje +3/+0 do końca tury."
 
 #: ../../RNA.rst:226
+#, fuzzy
 msgid "Frilled Mystic"
-msgstr ""
+msgstr "Frilled Mystic"
 
 #: ../../RNA.rst:223
 msgid "Flash"
@@ -561,135 +608,173 @@ msgstr "Błysk"
 
 #: ../../RNA.rst:225
 msgid "When Frilled Mystic enters the battlefield, you may counter target spell."
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, możesz skontrować wskazany czar."
 
 #: ../../RNA.rst:232
+#, fuzzy
 msgid "Grasping Thrull"
-msgstr ""
+msgstr "Grasping Thrull"
 
 #: ../../RNA.rst:231
 msgid "When Grasping Thrull enters the battlefield, it deals 2 damage to each opponent and you gain 2 life."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, zadaje każdemu przeciwnikowi 2 "
+"obrażenia, a ty zyskujesz 2 życia."
 
 #: ../../RNA.rst:236
 msgid "Growth Spiral"
-msgstr ""
+msgstr "Growth Spiral (Spirala wzrostu)"
 
 #: ../../RNA.rst:235
 msgid "Draw a card. You may put a land card from your hand onto the battlefield."
-msgstr ""
+msgstr "Dobierz kartę. Możesz umieść kartę lądu z twojej ręki na polu walki."
 
 #: ../../RNA.rst:244
+#, fuzzy
 msgid "Gruul Spellbreaker"
-msgstr ""
+msgstr "Gruul Spellbreaker"
 
 #: ../../RNA.rst:243
 msgid "As long as it's your turn, you and Gruul Spellbreaker have hexproof."
-msgstr ""
+msgstr "O ile jest twoja tura, ty i ten permanent macie antyklątwę."
 
 #: ../../RNA.rst:252
+#, fuzzy
 msgid "High Alert"
-msgstr ""
+msgstr "High Alert"
 
 #: ../../RNA.rst:247
 msgid "Each creature you control assigns combat damage equal to its toughness rather than its power."
 msgstr ""
+"Każdy stwór pod twoim władaniem przypisuje obrażenia bojowe równe swojej "
+"wytrzymałości, a nie sile."
 
 #: ../../RNA.rst:249
 msgid "Creatures you control can attack as though they didn't have defender."
 msgstr ""
+"Stwory pod twoim władaniem mogą atakować tak, jakby nie miały obronności."
 
 #: ../../RNA.rst:251
 msgid "|mana_2|\\ |mana_w|\\ |mana_u|: Untap target creature."
-msgstr ""
+msgstr "|mana_2|\\ |mana_w|\\ |mana_u|: Odznacz wskazanego stwora."
 
 #: ../../RNA.rst:260
+#, fuzzy
 msgid "Hydroid Krasis"
-msgstr ""
+msgstr "Hydroid Krasis"
 
 #: ../../RNA.rst:255
 msgid "When you cast this spell, you gain half X life and draw half X cards. Round down each time."
 msgstr ""
+"Kiedy rzucasz ten czar, zyskujesz połowę X życia i dobierasz połowę X kart, "
+"każdorazowo zaokrąglając w dół."
 
 #: ../../RNA.rst:259
 msgid "Hydroid Krasis enters the battlefield with X +1/+1 counters on it."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki mając X znaczników +1/+1."
 
 #: ../../RNA.rst:266
+#, fuzzy
 msgid "Imperious Oligarch"
-msgstr ""
+msgstr "Imperious Oligarch"
 
 #: ../../RNA.rst:263
 msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../RNA.rst:272
+#, fuzzy
 msgid "Judith, the Scourge Diva"
-msgstr ""
+msgstr "Judith, the Scourge Diva"
 
 #: ../../RNA.rst:269
 msgid "Other creatures you control get +1/+0."
-msgstr ""
+msgstr "Inne stwory pod twoim władaniem mają +1/+0."
 
 #: ../../RNA.rst:271
 msgid "Whenever a nontoken creature you control dies, Judith, the Scourge Diva deals 1 damage to any target."
 msgstr ""
+"Ilekroć umrze nie-żetonowy stwór pod twoim władaniem, ten permanent zadaje 1 "
+"obrażenie w dowolnie wskazany cel."
 
 #: ../../RNA.rst:280
+#, fuzzy
 msgid "Kaya, Orzhov Usurper"
-msgstr ""
+msgstr "Kaya, Orzhov Usurper"
 
 #: ../../RNA.rst:275
 msgid "+1: Exile up to two target cards from a single graveyard. You gain 2 life if at least one creature card was exiled this way."
 msgstr ""
+"+1: Wygnaj co najwyżej dwie wskazane karty z jednego cmentarza. Zyskujesz 2 "
+"życia jeśli w ten sposób wygnano przynajmniej jedną kartę stwora."
 
 #: ../../RNA.rst:277
 msgid "-1: Exile target nonland permanent with converted mana cost 1 or less."
 msgstr ""
+"-1: Wygnaj wskazany nie-lądowy permanent o skróconym koszcie many 1 lub "
+"mniejszym."
 
 #: ../../RNA.rst:279
 msgid "-5: Kaya, Orzhov Usurper deals damage to target player equal to the number of cards that player owns in exile and you gain that much life."
 msgstr ""
+"-5: Ten wędrowiec zadaje wskazanemu graczowi obrażenia równe liczbie kart "
+"posiadanych przez owego gracza na wygnaniu, a ty zyskujesz tyle samo życia."
 
 #: ../../RNA.rst:286
+#, fuzzy
 msgid "Lavinia, Azorius Renegade"
-msgstr ""
+msgstr "Lavinia, Azorius Renegade"
 
 #: ../../RNA.rst:283
 msgid "Each opponent can't cast noncreature spells with converted mana cost greater than the number of lands that player controls."
 msgstr ""
+"Każdy z przeciwników nie może rzucać nie-stworowych czarów o skróconym "
+"koszcie many większym niż liczba lądów władanych przez owego gracza."
 
 #: ../../RNA.rst:285
 msgid "Whenever an opponent casts a spell, if no mana was spent to cast it, counter that spell."
 msgstr ""
+"Ilekroć przeciwnik rzuca czar, jeśli nie wydano na niego many, skontruj ów "
+"czar."
 
 #: ../../RNA.rst:290
+#, fuzzy
 msgid "Mortify"
-msgstr ""
+msgstr "Mortify"
 
 #: ../../RNA.rst:289
 msgid "Destroy target creature or enchantment."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora lub urok."
 
 #: ../../RNA.rst:294
+#, fuzzy
 msgid "Pitiless Pontiff"
-msgstr ""
+msgstr "Pitiless Pontiff"
 
 #: ../../RNA.rst:293
 msgid "|mana_1|, Sacrifice another creature: Pitiless Pontiff gains deathtouch and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
+"|mana_1|, poświęć innego stwora: Ten stwór zyskuje do końca tury dotyk "
+"śmierci i niezniszczalność. (Obrażenia oraz efekty mówiące \"zniszcz\" nie "
+"niszczą go.)"
 
 #: ../../RNA.rst:298
+#, fuzzy
 msgid "Prime Speaker Vannifar"
-msgstr ""
+msgstr "Prime Speaker Vannifar"
 
 #: ../../RNA.rst:297
 msgid "|tap|, Sacrifice another creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery."
 msgstr ""
+"|tap|, poświęć innego stwora: Poszukaj w twojej bibliotece kartę stwora o "
+"skróconym koszcie many większym o 1 od skróconego kosztu many poświęconego "
+"stwora, umieść ową kartę na polu walki, następnie przetasuj twoją "
+"bibliotekę. Aktywuj jako obrzęd."
 
 #: ../../RNA.rst:304
+#, fuzzy
 msgid "Rafter Demon"
-msgstr ""
+msgstr "Rafter Demon"
 
 #: ../../RNA.rst:301
 msgid "Spectacle |mana_3|\\ |mana_b|\\ |mana_r| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
@@ -705,36 +790,45 @@ msgstr ""
 "każdy przeciwnik odrzuca kartę."
 
 #: ../../RNA.rst:308
+#, fuzzy
 msgid "Rakdos Firewheeler"
-msgstr ""
+msgstr "Rakdos Firewheeler"
 
 #: ../../RNA.rst:307
 msgid "When Rakdos Firewheeler enters the battlefield, it deals 2 damage to target opponent and 2 damage to up to one target creature or planeswalker."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, zadaje 2 obrażenia wskazanemu "
+"przeciwnikowi i 2 obrażenia co najwyżej jednemu wskazanemu stworowi lub "
+"wędrowcowi."
 
 #: ../../RNA.rst:314
+#, fuzzy
 msgid "Rakdos, the Showstopper"
-msgstr ""
+msgstr "Rakdos, the Showstopper"
 
 #: ../../RNA.rst:313
 msgid "When Rakdos, the Showstopper enters the battlefield, flip a coin for each creature that isn't a Demon, Devil, or Imp. Destroy each creature whose coin comes up tails."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, rzuć monetą za każdego stwora nie "
+"będącego Demonem, Diabłem  lub Impem. Zniszcz każdego stwora, dla którego "
+"wypadła reszka."
 
 #: ../../RNA.rst:324
+#, fuzzy
 msgid "Ravager Wurm"
-msgstr ""
+msgstr "Ravager Wurm"
 
 #: ../../RNA.rst:319
 msgid "When Ravager Wurm enters the battlefield, choose up to one —"
-msgstr ""
+msgstr "Kiedy ta karta wejdzie na pole walki, wybierz co najwyżej jedno —"
 
 #: ../../RNA.rst:321
 msgid "Ravager Wurm fights target creature you don't control."
-msgstr ""
+msgstr "Ten stwór walczy ze wskazanym stworem poza twoim władaniem."
 
 #: ../../RNA.rst:323
 msgid "Destroy target land with an activated ability that isn't a mana ability."
-msgstr ""
+msgstr "Zniszcz wskazany ląd z aktywowaną zdolnością nie dającą many."
 
 #: ../../RNA.rst:330
 msgid "\"He called me Mister Pig!\""
@@ -742,47 +836,60 @@ msgstr ""
 
 #: ../../RNA.rst:327
 msgid "Creature spells you control can't be countered."
-msgstr ""
+msgstr "Władane przez ciebie czary stworów nie mogą być skontrowane."
 
 #: ../../RNA.rst:329
 msgid "Nontoken creatures you control have riot. (They enter the battlefield with your choice of a +1/+1 counter or haste.)"
 msgstr ""
+"Nie-żetonowe stwory pod twoim władaniem mają zamieszki. (Dla każdego z nich "
+"wybierasz, czy wchodzi na pole walki ze znacznikiem +1/+1, czy z pośpiechem.)"
 
 #: ../../RNA.rst:340
+#, fuzzy
 msgid "Seraph of the Scales"
-msgstr ""
+msgstr "Seraph of the Scales"
 
 #: ../../RNA.rst:335
 msgid "|mana_w|: Seraph of the Scales gains vigilance until end of turn."
-msgstr ""
+msgstr "|mana_w|: Ten stwór zyskuje czujność do końca tury."
 
 #: ../../RNA.rst:337
 msgid "|mana_b|: Seraph of the Scales gains deathtouch until end of turn."
-msgstr ""
+msgstr "|mana_b|: Ten stwór zyskuje dotyk śmierci do końca tury."
 
 #: ../../RNA.rst:339
 msgid "Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.)"
 msgstr ""
+"Życie-po-życiu 2 (Kiedy ten stwór umrze, stwórz dwa żetony biało-czarnego "
+"stwora Duch 1/1 z lataniem.)"
 
 #: ../../RNA.rst:348
+#, fuzzy
 msgid "Simic Ascendancy"
-msgstr ""
+msgstr "Simic Ascendancy"
 
 #: ../../RNA.rst:343
 msgid "|mana_1|\\ |mana_g|\\ |mana_u|: Put a +1/+1 counter on target creature you control."
 msgstr ""
+"|mana_1|\\ |mana_g|\\ |mana_u|: Umieść znacznik +1/+1 na wskazanym stworze "
+"pod twoim władaniem."
 
 #: ../../RNA.rst:345
 msgid "Whenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on Simic Ascendancy."
 msgstr ""
+"Ilekroć przynajmniej jeden znacznik +1/+1 jest umieszczany na stworze pod "
+"twoim władaniem, umieść tyle samo znaczników wzrostu na tym permanencie."
 
 #: ../../RNA.rst:347
 msgid "At the beginning of your upkeep, if Simic Ascendancy has twenty or more growth counters on it, you win the game."
 msgstr ""
+"Na początku twojego kroku utrzymania, jeśli ten permanent ma przynajmniej "
+"dwadzieścia znaczników wzrostu, wygrywasz grę."
 
 #: ../../RNA.rst:354
+#, fuzzy
 msgid "Sphinx's Insight"
-msgstr ""
+msgstr "Sphinx's Insight"
 
 #: ../../RNA.rst:351
 msgid "Draw two cards."
@@ -791,62 +898,79 @@ msgstr "Dobierz dwie karty."
 #: ../../RNA.rst:353
 msgid "Addendum — If you cast this spell during your main phase, you gain 2 life."
 msgstr ""
+"Dopisek — Jeśli rzucasz ten czar w twojej fazie głównej, zyskujesz 2 życia."
 
 #: ../../RNA.rst:360
+#, fuzzy
 msgid "Teysa Karlov"
-msgstr ""
+msgstr "Teysa Karlov"
 
 #: ../../RNA.rst:357
 msgid "If a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
 msgstr ""
+"Jeśli śmierć stwora powoduje wyzwolenie zdolności permanentu pod twoim "
+"władaniem, owa zdolność wyzwalana jest dodatkowy raz."
 
 #: ../../RNA.rst:359
 msgid "Creature tokens you control have vigilance and lifelink."
-msgstr ""
+msgstr "Żetony stworów pod twoim władaniem mają czujność i więź życia."
 
 #: ../../RNA.rst:368
+#, fuzzy
 msgid "Zegana, Utopian Speaker"
-msgstr ""
+msgstr "Zegana, Utopian Speaker"
 
 #: ../../RNA.rst:363
 msgid "When Zegana, Utopian Speaker enters the battlefield, if you control another creature with a +1/+1 counter on it, draw a card."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, jeśli władasz innym stworem mającym "
+"znacznik +1/+1, dobierz kartę."
 
 #: ../../RNA.rst:365
 msgid "|mana_4|\\ |mana_g|\\ |mana_u|: Adapt 4. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)"
 msgstr ""
+"|mana_4|\\ |mana_g|\\ |mana_u|: Adaptacja 4. (Jeśli ten stwór nie ma "
+"znaczników +1/+1, umieść na nim cztery znaczniki +1/+1.)"
 
 #: ../../RNA.rst:367
 msgid "Each creature you control with a +1/+1 counter on it has trample."
-msgstr ""
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma tratowanie."
 
 #: ../../RNA.rst:372
+#, fuzzy
 msgid "Zhur-Taa Goblin"
-msgstr ""
+msgstr "Zhur-Taa Goblin"
 
 #: ../../RNA.rst:376
+#, fuzzy
 msgid "Carnival"
-msgstr ""
+msgstr "Carnival"
 
 #: ../../RNA.rst:375
 msgid "Carnival deals 1 damage to target creature or planeswalker and 1 damage to that permanent's controller."
 msgstr ""
+"Ten czar zadaje 1 obrażenie wskazanemu stworowi lub wędrowcowi oraz 1 "
+"obrażenie władcy owego permanentu."
 
 #: ../../RNA.rst:380
+#, fuzzy
 msgid "Carnage"
-msgstr ""
+msgstr "Carnage"
 
 #: ../../RNA.rst:379
 msgid "Carnage deals 3 damage to target opponent. That player discards two cards."
 msgstr ""
+"Ten czar zadaje wskazanemu przeciwnikowi 3 obrażenia. Ów gracz odrzuca dwie "
+"karty."
 
 #: ../../RNA.rst:386
+#, fuzzy
 msgid "Consecrate"
-msgstr ""
+msgstr "Consecrate"
 
 #: ../../RNA.rst:383
 msgid "Exile target card from a graveyard."
-msgstr ""
+msgstr "Wygnaj wskazaną kartę z dowolnego cmentarza."
 
 #: ../../RNA.rst:385
 #: ../../RNA.rst:395
@@ -854,244 +978,293 @@ msgid "Draw a card."
 msgstr "Dobierz kartę."
 
 #: ../../RNA.rst:390
+#, fuzzy
 msgid "Consume"
-msgstr ""
+msgstr "Consume"
 
 #: ../../RNA.rst:389
 msgid "Target player sacrifices a creature with the greatest power among creatures they control. You gain life equal to its power."
 msgstr ""
+"Wskazany gracz poświęca stwora o największej sile spośród władanych przez "
+"siebie stworów. Zyskujesz życie równe jego sile."
 
 #: ../../RNA.rst:396
+#, fuzzy
 msgid "Depose"
-msgstr ""
+msgstr "Depose"
 
 #: ../../RNA.rst:393
 msgid "Tap target creature."
-msgstr "Zatapuj wskazanego stwora."
+msgstr "Zaznacz wskazanego stwora."
 
 #: ../../RNA.rst:400
+#, fuzzy
 msgid "Deploy"
-msgstr ""
+msgstr "Deploy"
 
 #: ../../RNA.rst:399
 msgid "Create two 1/1 colorless Thopter artifact creature tokens with flying, then you gain 1 life for each creature you control."
 msgstr ""
+"Stwórz dwa żetony bezkolorowego artefaktycznego stwora Thopter 1/1 z "
+"lataniem, następnie zyskujesz 1 życie za każdego stwora pod twoim władaniem."
 
 #: ../../RNA.rst:404
+#, fuzzy
 msgid "Incubation"
-msgstr ""
+msgstr "Incubation"
 
 #: ../../RNA.rst:403
 msgid "Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
 msgstr ""
+"Spójrz na pięć wierzchnich kart twojej biblioteki. Możesz spośród nich "
+"ujawnić kartę stwora i umieścić ją w twojej ręce. Umieść pozostałe na "
+"spodzie twojej biblioteki w losowej kolejności."
 
 #: ../../RNA.rst:408
+#, fuzzy
 msgid "Incongruity"
-msgstr ""
+msgstr "Incongruity"
 
 #: ../../RNA.rst:407
 msgid "Exile target creature. That creature's controller creates a 3/3 green Frog Lizard creature token."
 msgstr ""
+"Wygnaj wskazanego stwora. Jego władca tworzy żeton zielonego stwora Żaba "
+"Jaszczur 3/3."
 
 #: ../../RNA.rst:414
+#, fuzzy
 msgid "Azorius Locket"
-msgstr ""
+msgstr "Azorius Locket"
 
 #: ../../RNA.rst:411
 #: ../../RNA.rst:451
 #: ../../RNA.rst:457
 msgid "|tap|: Add |mana_w| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../RNA.rst:413
 msgid "|mana_wu|\\ |mana_wu|\\ |mana_wu|\\ |mana_wu|, |tap|, Sacrifice Azorius Locket: Draw two cards."
 msgstr ""
+"|mana_wu|\\ |mana_wu|\\ |mana_wu|\\ |mana_wu|, |tap|, poświęć ten permanent: "
+"Dobierz dwie karty."
 
 #: ../../RNA.rst:422
+#, fuzzy
 msgid "Gate Colossus"
-msgstr ""
+msgstr "Gate Colossus"
 
 #: ../../RNA.rst:417
 msgid "This spell costs |mana_1| less to cast for each Gate you control."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_1| mniej za każdą Bramę pod twoim "
+"władaniem."
 
 #: ../../RNA.rst:419
 msgid "Gate Colossus can't be blocked by creatures with power 2 or less."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../RNA.rst:421
 msgid "Whenever a Gate enters the battlefield under your control, you may put Gate Colossus from your graveyard on top of your library."
 msgstr ""
+"Ilekroć Brama wchodzi na pole walki pod twoim władaniem, możesz umieścić tę "
+"kartę z twojego cmentarza na wierzchu twojej biblioteki."
 
 #: ../../RNA.rst:428
+#, fuzzy
 msgid "Gruul Locket"
-msgstr ""
+msgstr "Gruul Locket"
 
 #: ../../RNA.rst:425
 #: ../../RNA.rst:481
 #: ../../RNA.rst:487
 msgid "|tap|: Add |mana_r| or |mana_g|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../RNA.rst:427
 msgid "|mana_rg|\\ |mana_rg|\\ |mana_rg|\\ |mana_rg|, |tap|, Sacrifice Gruul Locket: Draw two cards."
 msgstr ""
+"|mana_rg|\\ |mana_rg|\\ |mana_rg|\\ |mana_rg|, |tap|, poświęć ten permanent: "
+"Dobierz dwie karty."
 
 #: ../../RNA.rst:434
+#, fuzzy
 msgid "Orzhov Locket"
-msgstr ""
+msgstr "Orzhov Locket"
 
 #: ../../RNA.rst:431
 #: ../../RNA.rst:499
 #: ../../RNA.rst:505
 msgid "|tap|: Add |mana_w| or |mana_b|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../RNA.rst:433
 msgid "|mana_wb|\\ |mana_wb|\\ |mana_wb|\\ |mana_wb|, |tap|, Sacrifice Orzhov Locket: Draw two cards."
 msgstr ""
+"|mana_wb|\\ |mana_wb|\\ |mana_wb|\\ |mana_wb|, |tap|, poświęć ten permanent: "
+"Dobierz dwie karty."
 
 #: ../../RNA.rst:440
+#, fuzzy
 msgid "Rakdos Locket"
-msgstr ""
+msgstr "Rakdos Locket"
 
 #: ../../RNA.rst:437
 #: ../../RNA.rst:511
 #: ../../RNA.rst:517
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../RNA.rst:439
 msgid "|mana_br|\\ |mana_br|\\ |mana_br|\\ |mana_br|, |tap|, Sacrifice Rakdos Locket: Draw two cards."
 msgstr ""
+"|mana_br|\\ |mana_br|\\ |mana_br|\\ |mana_br|, |tap|, poświęć ten permanent: "
+"Dobierz dwie karty."
 
 #: ../../RNA.rst:446
+#, fuzzy
 msgid "Simic Locket"
-msgstr ""
+msgstr "Simic Locket"
 
 #: ../../RNA.rst:443
 #: ../../RNA.rst:523
 #: ../../RNA.rst:529
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../RNA.rst:445
 msgid "|mana_gu|\\ |mana_gu|\\ |mana_gu|\\ |mana_gu|, |tap|, Sacrifice Simic Locket: Draw two cards."
 msgstr ""
+"|mana_gu|\\ |mana_gu|\\ |mana_gu|\\ |mana_gu|, |tap|, poświęć ten permanent: "
+"Dobierz dwie karty."
 
 #: ../../RNA.rst:452
 #: ../../RNA.rst:458
 msgid "Azorius Guildgate"
-msgstr ""
+msgstr "Azorius Guildgate (Brama Gildii Azorius)"
 
 #: ../../RNA.rst:449
 #: ../../RNA.rst:455
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki jako zaznaczona."
 
 #: ../../RNA.rst:464
 msgid "Blood Crypt"
-msgstr ""
+msgstr "Blood Crypt (Krwawa krypta)"
 
 #: ../../RNA.rst:461
 msgid "(|tap|: Add |mana_b| or |mana_r|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_b| lub |mana_r|.)"
 
 #: ../../RNA.rst:463
 msgid "As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 msgstr ""
+"Umieszczając tę kartę na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi na pole walki jako zaznaczona."
 
 #: ../../RNA.rst:470
+#, fuzzy
 msgid "Breeding Pool"
-msgstr ""
+msgstr "Breeding Pool"
 
 #: ../../RNA.rst:467
 msgid "(|tap|: Add |mana_g| or |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_g| lub |mana_u|.)"
 
 #: ../../RNA.rst:469
 msgid "As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 msgstr ""
+"Umieszczając tę kartę na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi na pole walki jako zaznaczona."
 
 #: ../../RNA.rst:476
+#, fuzzy
 msgid "Godless Shrine"
-msgstr ""
+msgstr "Godless Shrine"
 
 #: ../../RNA.rst:473
 msgid "(|tap|: Add |mana_w| or |mana_b|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_w| lub |mana_b|.)"
 
 #: ../../RNA.rst:475
 msgid "As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 msgstr ""
+"Umieszczając tę kartę na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi na pole walki jako zaznaczona."
 
 #: ../../RNA.rst:482
 #: ../../RNA.rst:488
+#, fuzzy
 msgid "Gruul Guildgate"
-msgstr ""
+msgstr "Gruul Guildgate"
 
 #: ../../RNA.rst:479
 #: ../../RNA.rst:485
 msgid "Gruul Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zaznaczona."
 
 #: ../../RNA.rst:494
 msgid "Hallowed Fountain"
-msgstr ""
+msgstr "Hallowed Fountain (Uświęcona fontanna)"
 
 #: ../../RNA.rst:491
 msgid "(|tap|: Add |mana_w| or |mana_u|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_w| lub |mana_u|.)"
 
 #: ../../RNA.rst:493
 msgid "As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 msgstr ""
+"Umieszczając tę kartę na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi na pole walki jako zaznaczona."
 
 #: ../../RNA.rst:500
 #: ../../RNA.rst:506
 msgid "Orzhov Guildgate"
-msgstr ""
+msgstr "Orzhov Guildgate (Brama Gildii Orzhov)"
 
 #: ../../RNA.rst:497
 #: ../../RNA.rst:503
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zaznaczona."
 
 #: ../../RNA.rst:512
 #: ../../RNA.rst:518
 msgid "Rakdos Guildgate"
-msgstr ""
+msgstr "Rakdos Guildgate (Brama Gildii Rakdos)"
 
 #: ../../RNA.rst:509
 #: ../../RNA.rst:515
 msgid "Rakdos Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zaznaczona."
 
 #: ../../RNA.rst:524
 #: ../../RNA.rst:530
 msgid "Simic Guildgate"
-msgstr ""
+msgstr "Simic Guildgate (Brama Gildii Simic)"
 
 #: ../../RNA.rst:521
 #: ../../RNA.rst:527
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki zaznaczona."
 
 #: ../../RNA.rst:536
+#, fuzzy
 msgid "Stomping Ground"
-msgstr ""
+msgstr "Stomping Ground"
 
 #: ../../RNA.rst:533
 msgid "(|tap|: Add |mana_r| or |mana_g|.)"
-msgstr ""
+msgstr "(|tap|: Dostajesz |mana_r| lub |mana_g|.)"
 
 #: ../../RNA.rst:535
 msgid "As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 msgstr ""
+"Umieszczając tę kartę na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wchodzi na pole walki jako zaznaczona."
 
 #: ../../RNA.rst:543
+#, fuzzy
 msgid "The Haunt of Hightower"
-msgstr ""
+msgstr "The Haunt of Hightower"
 
 #: ../../RNA.rst:539
 msgid "Flying, lifelink"
@@ -1099,8 +1272,10 @@ msgstr "Latanie, więź życia"
 
 #: ../../RNA.rst:541
 msgid "Whenever The Haunt of Hightower attacks, defending player discards a card."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje, zaatakowany gracz odrzuca kartę."
 
 #: ../../RNA.rst:543
 msgid "Whenever a card is put into an opponent's graveyard from anywhere, put a +1/+1 counter on The Haunt of Hightower."
 msgstr ""
+"Ilekroć jakaś karta trafia skądkolwiek do cmentarza przeciwnika, umieść "
+"znacznik +1/+1 na tym permanencie."
