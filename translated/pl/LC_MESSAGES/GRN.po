@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2018-12-31 16:27+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -147,7 +147,7 @@ msgstr ""
 msgid ""
 "|mana_3|\\ |mana_w|: Create a 1/1 white Soldier creature token with lifelink."
 msgstr ""
-"|mana_3| |mana_w|: Stwórz żeton białego stwora Piechur 1/1 z więzią życia."
+"|mana_3|\\ |mana_w|: Stwórz żeton białego stwora Piechur 1/1 z więzią życia."
 
 #: ../../GRN.rst:56
 #, fuzzy
@@ -339,7 +339,7 @@ msgid ""
 "Whenever Skyline Scout attacks, you may pay |mana_1|\\ |mana_w|. If you do, "
 "it gains flying until end of turn."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zapłacić |mana_1| |mana_w|. Jeśli to "
+"Ilekroć ten stwór atakuje, możesz zapłacić |mana_1|\\ |mana_w|. Jeśli to "
 "zrobisz, zyskuje on latanie do końca tury."
 
 #: ../../GRN.rst:142
@@ -671,8 +671,8 @@ msgid ""
 "|mana_2|\\ |mana_u|, |tap|: You may cast an instant or sorcery card from "
 "your hand without paying its mana cost."
 msgstr ""
-"|mana_2| |mana_u|, |tap|: Możesz zagrać kartę sztuczki lub obrzędu z twojej "
-"ręki bez płacenia kosztu many."
+"|mana_2|\\ |mana_u|, |tap|: Możesz zagrać kartę sztuczki lub obrzędu z "
+"twojej ręki bez płacenia kosztu many."
 
 #: ../../GRN.rst:268
 #, fuzzy
@@ -682,7 +682,7 @@ msgstr "Passwall Adept"
 #: ../../GRN.rst:267
 #, fuzzy
 msgid "|mana_2|\\ |mana_u|: Target creature can't be blocked this turn."
-msgstr "|mana_2| |mana_u|: Wskazany stwór nie może być blokowany w tej turze."
+msgstr "|mana_2|\\ |mana_u|: Wskazany stwór nie może być blokowany w tej turze."
 
 #: ../../GRN.rst:274
 #, fuzzy
@@ -952,7 +952,7 @@ msgid ""
 "|mana_2|\\ |mana_b|, Discard a creature card: Return Kraul Swarm from your "
 "graveyard to your hand."
 msgstr ""
-"|mana_2| |mana_b|, odrzuć kartę stwora: Zwróć tę kartę z twojego cmentarza "
+"|mana_2|\\ |mana_b|, odrzuć kartę stwora: Zwróć tę kartę z twojego cmentarza "
 "do twojej ręki."
 
 #: ../../GRN.rst:394
@@ -1061,7 +1061,7 @@ msgid ""
 "their hand. You choose a nonland card from it. That player discards that "
 "card. Activate this ability only any time you could cast a sorcery."
 msgstr ""
-"|mana_1| |mana_b|, |tap|, poświęć tego stwora: Wskazany przeciwnik ujawnia "
+"|mana_1|\\ |mana_b|, |tap|, poświęć tego stwora: Wskazany przeciwnik ujawnia "
 "swoją rękę. Ty wybierasz z niej kartę nie będącą lądem. Ów gracz odrzuca ową "
 "kartę. Aktywuj tę zdolność tylko jeśli możesz rzucić obrzęd."
 
@@ -1154,7 +1154,7 @@ msgstr "Veiled Shade"
 #: ../../GRN.rst:459
 #, fuzzy
 msgid "|mana_1|\\ |mana_b|: Veiled Shade gets +1/+1 until end of turn."
-msgstr "|mana_1| |mana_b|: Ten stwór dostaje +1/+1 do końca tury."
+msgstr "|mana_1|\\ |mana_b|: Ten stwór dostaje +1/+1 do końca tury."
 
 #: ../../GRN.rst:464
 #, fuzzy
@@ -1304,7 +1304,7 @@ msgstr "Nie możesz zagrywać kart z twojej ręki."
 #: ../../GRN.rst:521
 #, fuzzy
 msgid "|mana_3|\\ |mana_r|: Destroy Experimental Frenzy."
-msgstr "|mana_3| |mana_r|: Zniszcz ten urok."
+msgstr "|mana_3|\\ |mana_r|: Zniszcz ten urok."
 
 #: ../../GRN.rst:524
 #, fuzzy
@@ -1331,7 +1331,7 @@ msgstr "Goblin Banneret"
 #: ../../GRN.rst:537
 #, fuzzy
 msgid "|mana_1|\\ |mana_r|: Goblin Banneret gets +2/+0 until end of turn."
-msgstr "|mana_1| |mana_r|: Ten stwór dostaje +2/+0 do końca tury."
+msgstr "|mana_1|\\ |mana_r|: Ten stwór dostaje +2/+0 do końca tury."
 
 #: ../../GRN.rst:546
 #, fuzzy
@@ -1503,8 +1503,8 @@ msgid ""
 "Remove three +1/+1 counters from Runaway Steam-Kin: Add |mana_r|\\ |mana_r|"
 "\\ |mana_r|."
 msgstr ""
-"Usuń trzy znaczniki +1/+1 z tego stwora: Dostajesz |mana_r| |mana_r| |"
-"mana_r|."
+"Usuń trzy znaczniki +1/+1 z tego stwora: Dostajesz |mana_r|\\ |mana_r|\\ "
+"|mana_r|."
 
 #: ../../GRN.rst:614
 #, fuzzy
@@ -1644,7 +1644,7 @@ msgstr "Devkarin Dissident"
 #: ../../GRN.rst:671
 #, fuzzy
 msgid "|mana_4|\\ |mana_g|: Devkarin Dissident gets +2/+2 until end of turn."
-msgstr "|mana_4| |mana_g|: Ten stwór dostaje +2/+2 do końca tury."
+msgstr "|mana_4|\\ |mana_g|: Ten stwór dostaje +2/+2 do końca tury."
 
 #: ../../GRN.rst:676
 #, fuzzy
@@ -1698,8 +1698,8 @@ msgid ""
 "|mana_4|\\ |mana_g|: Grappling Sundew gains indestructible until end of "
 "turn. (Damage and effects that say \"destroy\" don't destroy this creature.)"
 msgstr ""
-"|mana_4| |mana_g|: Ten stwór zyskuje niezniszczalność do końca tury. "
-"(Obrażenia i efekty mówiące \"zniszcz\" nie niszczą tego stwora.)"
+"|mana_4|\\ |mana_g|: Ten stwór zyskuje niezniszczalność do końca tury. ("
+"Obrażenia i efekty mówiące \"zniszcz\" nie niszczą tego stwora.)"
 
 #: ../../GRN.rst:698
 #, fuzzy
@@ -2032,7 +2032,7 @@ msgstr "Boros Challenger"
 msgid ""
 "|mana_2|\\ |mana_r|\\ |mana_w|: Boros Challenger gets +1/+1 until end of "
 "turn."
-msgstr "|mana_2| |mana_r| |mana_w|: Ten stwór dostaje +1/+1 do końca tury."
+msgstr "|mana_2|\\ |mana_r|\\ |mana_w|: Ten stwór dostaje +1/+1 do końca tury."
 
 #: ../../GRN.rst:840
 msgid "Camaraderie"
@@ -2087,7 +2087,8 @@ msgid ""
 "|mana_b|\\ |mana_g|, Discard a creature card: Put a +1/+1 counter on Charnel "
 "Troll."
 msgstr ""
-"|mana_b| |mana_g|, odrzuć kartę stwora: Umieść znacznik +1/+1 na tym stworze."
+"|mana_b|\\ |mana_g|, odrzuć kartę stwora: Umieść znacznik +1/+1 na tym "
+"stworze."
 
 #: ../../GRN.rst:862
 msgid "Conclave Cavalier"
@@ -2117,7 +2118,7 @@ msgid ""
 "|mana_5|\\ |mana_w|, |tap|: Create a 2/2 green and white Elf Knight creature "
 "token with vigilance."
 msgstr ""
-"|mana_5| |mana_w|, |tap|: Stwórz żeton zielono-białego stwora Elfi Rycerz "
+"|mana_5|\\ |mana_w|, |tap|: Stwórz żeton zielono-białego stwora Elfi Rycerz "
 "2/2 z czujnością."
 
 #: ../../GRN.rst:876
@@ -2264,7 +2265,7 @@ msgid ""
 "|mana_1|\\ |mana_u|, Remove two charge counters from Firemind's Research: "
 "Draw a card."
 msgstr ""
-"|mana_1| |mana_u|, usuń trzy znaczniki ładunku z tej karty: Dobierz kartę."
+"|mana_1|\\ |mana_u|, usuń trzy znaczniki ładunku z tej karty: Dobierz kartę."
 
 #: ../../GRN.rst:923
 #, fuzzy
@@ -2272,8 +2273,8 @@ msgid ""
 "|mana_1|\\ |mana_r|, Remove five charge counters from Firemind's Research: "
 "It deals 5 damage to any target."
 msgstr ""
-"|mana_1| |mana_r|, usuń pięć znaczników ładunku z tej karty: Ta karta zadaje "
-"5 obrażeń w dowolny cel."
+"|mana_1|\\ |mana_r|, usuń pięć znaczników ładunku z tej karty: Ta karta "
+"zadaje 5 obrażeń w dowolny cel."
 
 #: ../../GRN.rst:928
 #, fuzzy
@@ -2336,7 +2337,7 @@ msgid ""
 "|mana_1|\\ |mana_u|, |tap|: Target creature doesn't untap during its "
 "controller's next untap step."
 msgstr ""
-"|mana_1| |mana_u|, |tap|: Wskazany stwór nie odznacza się w najbliższym "
+"|mana_1|\\ |mana_u|, |tap|: Wskazany stwór nie odznacza się w najbliższym "
 "kroku odtapowania swojego władcy."
 
 #: ../../GRN.rst:949
@@ -2346,7 +2347,7 @@ msgid ""
 "library, then put any number of them into your graveyard and the rest on top "
 "of your library in any order.)"
 msgstr ""
-"|mana_2| |mana_b|, |tap|: Nadzoruj 2. (Spójrz na dwie wierzchnie karty "
+"|mana_2|\\ |mana_b|, |tap|: Nadzoruj 2. (Spójrz na dwie wierzchnie karty "
 "twojej biblioteki, a następnie dowolne z nich umieść do twojego cmentarza, a "
 "pozostałe odłóż na wierzch twojej biblioteki w dowolnej kolejności.)"
 
@@ -2391,7 +2392,7 @@ msgid ""
 "|mana_b|\\ |mana_g|, Sacrifice another creature: You gain 1 life and draw a "
 "card."
 msgstr ""
-"|mana_b| |mana_g|, poświęć innego stwora: Zyskujesz 1 życie oraz dobierz "
+"|mana_b|\\ |mana_g|, poświęć innego stwora: Zyskujesz 1 życie oraz dobierz "
 "kartę."
 
 #: ../../GRN.rst:968
@@ -2468,7 +2469,7 @@ msgstr "League Guildmage"
 #: ../../GRN.rst:991
 #, fuzzy
 msgid "|mana_3|\\ |mana_u|, |tap|: Draw a card."
-msgstr "|mana_3| |mana_u|, |tap|: Dobierz kartę."
+msgstr "|mana_3|\\ |mana_u|, |tap|: Dobierz kartę."
 
 #: ../../GRN.rst:993
 #, fuzzy
@@ -2476,7 +2477,7 @@ msgid ""
 "|mana_x|\\ |mana_r|, |tap|: Copy target instant or sorcery spell you control "
 "with converted mana cost X. You may choose new targets for the copy."
 msgstr ""
-"|mana_x| |mana_r|, |tap|: Skopiuj wskazany władany przez ciebie czar "
+"|mana_x|\\ |mana_r|, |tap|: Skopiuj wskazany władany przez ciebie czar "
 "sztuczki lub obrzędu o skróconym koszcie X. Możesz wskazać nowe cele dla "
 "owej kopii."
 
@@ -2501,8 +2502,8 @@ msgid ""
 "|mana_3|\\ |mana_g|\\ |mana_w|: Create a 1/1 white Soldier creature token "
 "with lifelink."
 msgstr ""
-"|mana_3| |mana_g| |mana_w|: Stwórz żeton białego stwora Piechur 1/1 z więzią "
-"życia."
+"|mana_3|\\ |mana_g|\\ |mana_w|: Stwórz żeton białego stwora Piechur 1/1 z "
+"więzią życia."
 
 #: ../../GRN.rst:1006
 #, fuzzy
@@ -2514,12 +2515,13 @@ msgstr "Legion Guildmage"
 msgid ""
 "|mana_5|\\ |mana_r|, |tap|: Legion Guildmage deals 3 damage to each opponent."
 msgstr ""
-"|mana_5| |mana_r|, |tap|: Ten stwór zadaje 3 obrażenia każdemu przeciwnikowi."
+"|mana_5|\\ |mana_r|, |tap|: Ten stwór zadaje 3 obrażenia każdemu "
+"przeciwnikowi."
 
 #: ../../GRN.rst:1005
 #, fuzzy
 msgid "|mana_2|\\ |mana_w|, |tap|: Tap another target creature."
-msgstr "|mana_2| |mana_w|, |tap|: Zaznacz innego wskazanego stwora."
+msgstr "|mana_2|\\ |mana_w|, |tap|: Zaznacz innego wskazanego stwora."
 
 #: ../../GRN.rst:1012
 #, fuzzy
@@ -2713,14 +2715,14 @@ msgid ""
 "|mana_4|\\ |mana_b|, |tap|: Creatures you control get +1/+0 and gain menace "
 "until end of turn. (They can't be blocked except by two or more creatures.)"
 msgstr ""
-"|mana_4| |mana_b|, |tap|: Stwory pod twoim władaniem dostają do końca tury "
+"|mana_4|\\ |mana_b|, |tap|: Stwory pod twoim władaniem dostają do końca tury "
 "+1/+0 oraz złowrogość. (Nie mogą być blokowane, chyba że przez co najmniej "
 "dwa stwory.)"
 
 #: ../../GRN.rst:1087
 #, fuzzy
 msgid "|mana_1|\\ |mana_g|, |tap|: You gain 2 life."
-msgstr "|mana_1| |mana_g|, |tap|: Zyskujesz 2 życia."
+msgstr "|mana_1|\\ |mana_g|, |tap|: Zyskujesz 2 życia."
 
 #: ../../GRN.rst:1094
 #, fuzzy
@@ -2762,7 +2764,7 @@ msgstr ""
 msgid ""
 "|mana_r|\\ |mana_w|: Tajic, Legion's Edge gains first strike until end of "
 "turn."
-msgstr "|mana_r| |mana_w|: Ten stwór zyskuje pierwszy cios do końca tury."
+msgstr "|mana_r|\\ |mana_w|: Ten stwór zyskuje pierwszy cios do końca tury."
 
 #: ../../GRN.rst:1114
 msgid "Thief of Sanity"
@@ -3247,7 +3249,7 @@ msgid ""
 "|mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|, |tap|, Sacrifice Boros "
 "Locket: Draw two cards."
 msgstr ""
-"|mana_rw| |mana_rw| |mana_rw| |mana_rw|, |tap|, poświęć ten artefakt: "
+"|mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|, |tap|, poświęć ten artefakt: "
 "Dobierz dwie karty."
 
 #: ../../GRN.rst:1290
@@ -3277,8 +3279,8 @@ msgid ""
 "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Return Chamber Sentry "
 "from your graveyard to your hand."
 msgstr ""
-"|mana_w| |mana_u| |mana_b| |mana_r| |mana_g|: Przywróć tę kartę z twojego "
-"cmentarza do twojej ręki."
+"|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Przywróć tę kartę z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../GRN.rst:1296
 #, fuzzy
@@ -3310,7 +3312,7 @@ msgid ""
 "|mana_ub|\\ |mana_ub|\\ |mana_ub|\\ |mana_ub|, |tap|, Sacrifice Dimir "
 "Locket: Draw two cards."
 msgstr ""
-"|mana_ub| |mana_ub| |mana_ub| |mana_ub|, |tap|, poświęć ten artefakt: "
+"|mana_ub|\\ |mana_ub|\\ |mana_ub|\\ |mana_ub|, |tap|, poświęć ten artefakt: "
 "Dobierz dwie karty."
 
 #: ../../GRN.rst:1308
@@ -3361,7 +3363,7 @@ msgid ""
 "|mana_bg|\\ |mana_bg|\\ |mana_bg|\\ |mana_bg|, |tap|, Sacrifice Golgari "
 "Locket: Draw two cards."
 msgstr ""
-"|mana_bg| |mana_bg| |mana_bg| |mana_bg|, |tap|, poświęć ten artefakt: "
+"|mana_bg|\\ |mana_bg|\\ |mana_bg|\\ |mana_bg|, |tap|, poświęć ten artefakt: "
 "Dobierz dwie karty."
 
 #: ../../GRN.rst:1326
@@ -3379,7 +3381,7 @@ msgid ""
 "|mana_ur|\\ |mana_ur|\\ |mana_ur|\\ |mana_ur|, |tap|, Sacrifice Izzet "
 "Locket: Draw two cards."
 msgstr ""
-"|mana_ur| |mana_ur| |mana_ur| |mana_ur|, |tap|, poświęć ten artefakt: "
+"|mana_ur|\\ |mana_ur|\\ |mana_ur|\\ |mana_ur|, |tap|, poświęć ten artefakt: "
 "Dobierz dwie karty."
 
 #: ../../GRN.rst:1334
@@ -3414,7 +3416,7 @@ msgid ""
 "|mana_gw|\\ |mana_gw|\\ |mana_gw|\\ |mana_gw|, |tap|, Sacrifice Selesnya "
 "Locket: Draw two cards."
 msgstr ""
-"|mana_gw| |mana_gw| |mana_gw| |mana_gw|, |tap|, poświęć ten artefakt: "
+"|mana_gw|\\ |mana_gw|\\ |mana_gw|\\ |mana_gw|, |tap|, poświęć ten artefakt: "
 "Dobierz dwie karty."
 
 #: ../../GRN.rst:1344
