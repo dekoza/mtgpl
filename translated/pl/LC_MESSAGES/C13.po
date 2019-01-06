@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-01 01:24+0000\n"
+"PO-Revision-Date: 2019-01-06 14:29+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
@@ -92,8 +92,8 @@ msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_u|: Creatures you control gain shroud until end "
 "of turn. (They can't be the targets of spells or abilities.)"
 msgstr ""
-"|mana_1| |mana_g| |mana_u|: Stwory, którymi władasz, zyskują antymagię do "
-"końca tury. (Nie mogą być wskazywane przez czary lub zdolności.)"
+"|mana_1|\\ |mana_g|\\ |mana_u|: Stwory, którymi władasz, zyskują antymagię "
+"do końca tury. (Nie mogą być wskazywane przez czary lub zdolności.)"
 
 # aa2bd45771fb453f8a527b5600aa6133
 #: ../../C13.rst:22
@@ -634,8 +634,8 @@ msgid ""
 "Flashback—|mana_1|\\ |mana_u|, Pay 3 life. (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b|  (Możesz rzucić tę kartę z "
-"cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b|  (Możesz rzucić tę "
+"kartę z cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # 4783e69f7ca949fa80b24a8435341dbe
 #: ../../C13.rst:226
@@ -1117,8 +1117,8 @@ msgid ""
 "Flashback |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (You may cast this card "
 "from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7| |mana_b| |mana_b| |mana_b|  (Możesz rzucić tę kartę z "
-"cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
 # de5e314904f54992b08375745144191e
 #: ../../C13.rst:414
@@ -1160,7 +1160,7 @@ msgid ""
 "Cycling |mana_3|\\ |mana_b|\\ |mana_b| (|mana_3|\\ |mana_b|\\ |mana_b|, "
 "Discard this card: Draw a card.)"
 msgstr ""
-"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 # 90dfc073005a477dbac86290c3307ea7
@@ -1188,7 +1188,7 @@ msgid ""
 "Cycling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, Discard this card: Draw a "
 "card.)"
 msgstr ""
-"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 # 58865941a09d4397952764b8afef83cf
@@ -1357,8 +1357,8 @@ msgid ""
 "At the beginning of your upkeep, remove a time counter. When the last is "
 "removed, cast it without paying its mana cost.)"
 msgstr ""
-"Zawieszenie 5 — |mana_1| |mana_b| (Zamiast rzucać ten czar z ręki, możesz "
-"zapłacić |mana_1| |mana_b| i wypędzić go z pięcioma znacznikami czasu. Na "
+"Zawieszenie 5 — |mana_1|\\ |mana_b| (Zamiast rzucać ten czar z ręki, możesz "
+"zapłacić |mana_1|\\ |mana_b| i wypędzić go z pięcioma znacznikami czasu. Na "
 "początku twojego utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik "
 "zostanie usunięty, rzuć go bez płacenia kosztu many.)"
 
@@ -1399,8 +1399,8 @@ msgid ""
 "|mana_1|\\ |mana_b|, Pay 2 life: Return target creature card from your "
 "graveyard to your hand."
 msgstr ""
-"|mana_1| |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z twojego "
-"cmentarza do twojej ręki."
+"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 # 42b1804b82744015998345352620d74e
 #: ../../C13.rst:512
@@ -1864,7 +1864,7 @@ msgid ""
 "Cycling |mana_2|\\ |mana_r| (|mana_2|\\ |mana_r|, Discard this card: Draw a "
 "card.)"
 msgstr ""
-"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 # f4723785ef814f139b5d9be2c0f742b5
@@ -1887,10 +1887,14 @@ msgid ""
 msgstr ""
 
 #: ../../C13.rst:681
+#, fuzzy
 msgid ""
 "Evoke |mana_1|\\ |mana_r|\\ |mana_r| (You may cast this spell for its evoke "
 "cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
+"Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \""
+"wskazany\" na \"każdy.\")"
 
 # 98f0ccfe6bcd4559a3656ce964adbf9e
 #: ../../C13.rst:688
@@ -2202,8 +2206,8 @@ msgid ""
 "on it. At the beginning of your upkeep, remove a time counter from it. When "
 "the last is removed, sacrifice it.)"
 msgstr ""
-"Zawieszenie 5 — |mana_1| |mana_b| (Zamiast rzucać ten czar z ręki, możesz "
-"zapłacić |mana_1| |mana_b| i wypędzić go z pięcioma znacznikami czasu. Na "
+"Zawieszenie 5 — |mana_1|\\ |mana_b| (Zamiast rzucać ten czar z ręki, możesz "
+"zapłacić |mana_1|\\ |mana_b| i wypędzić go z pięcioma znacznikami czasu. Na "
 "początku twojego utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik "
 "zostanie usunięty, rzuć go bez płacenia kosztu many.)"
 
@@ -2398,7 +2402,7 @@ msgid ""
 "Cycling |mana_2|\\ |mana_g| (|mana_2|\\ |mana_g|, Discard this card: Draw a "
 "card.)"
 msgstr ""
-"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
@@ -3104,8 +3108,8 @@ msgstr "Klęska Głodu zadaje 3 obrażenia każdemu stworowi i każdemu graczowi
 #, fuzzy
 msgid "Return target card from a graveyard to its owner's hand."
 msgstr ""
-"|mana_1| |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z twojego "
-"cmentarza do twojej ręki."
+"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../C13.rst:1151
 msgid "Tap all creatures target player controls."
@@ -3142,7 +3146,7 @@ msgstr "Nivix Guildmage"
 #, fuzzy
 msgid "|mana_1|\\ |mana_u|\\ |mana_r|: Draw a card, then discard a card."
 msgstr ""
-"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 #: ../../C13.rst:1163
@@ -3360,8 +3364,8 @@ msgstr "Skontruj wskazany czar."
 #, fuzzy
 msgid "Return target creature card from your graveyard to your hand."
 msgstr ""
-"|mana_1| |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z twojego "
-"cmentarza do twojej ręki."
+"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 # 7e6c6dc5249640d881bef0f835746033
 #: ../../C13.rst:1252
@@ -3492,13 +3496,18 @@ msgstr "Vizkopa Guildmage"
 msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Target creature gains lifelink until end of "
 "turn."
-msgstr "Ekwipowany stwór dostaje +2/+2 oraz ma więź życia oraz tratowanie."
+msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_b|: Wskazany stwór dostaje więź życia do końca "
+"tury."
 
 #: ../../C13.rst:1299
+#, fuzzy
 msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Whenever you gain life this turn, each "
 "opponent loses that much life."
 msgstr ""
+"|mana_1|\\ |mana_w|\\ |mana_b|: Ilekroć zyskasz życie w tej turze, każdy z "
+"przeciwników traci tyle samo życia."
 
 # 9e6102e739474f6b8cac841b45564c1f
 #: ../../C13.rst:1308
@@ -3545,8 +3554,8 @@ msgid ""
 "|mana_4|\\ |mana_b|, Sacrifice a creature: Return target creature card from "
 "your graveyard to your hand."
 msgstr ""
-"|mana_1| |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z twojego "
-"cmentarza do twojej ręki."
+"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../C13.rst:1323
 #, fuzzy
@@ -4507,7 +4516,7 @@ msgstr ""
 msgid ""
 "|mana_2|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice a creature: Draw a card."
 msgstr ""
-"Recykling |mana_1| |mana_b| (|mana_1| |mana_b|, odrzuć tę kartę: Dobierz "
+"Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
 # 12e0576389d646d7ae50151c9f261b4c
