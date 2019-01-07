@@ -3,7 +3,6 @@ import click
 import mtgsdk
 import requests
 
-
 card_template = """
 {card[name]}
    {card_text}
@@ -11,7 +10,7 @@ card_template = """
 """
 
 symbols_map = {
-#    '}{': '} {',
+    #    '}{': '} {',
     '{C}': '|colorless|',
     '{T}': '|tap|',
     '{Q}': '|untap|',
@@ -79,6 +78,7 @@ def import_rst(expansion):
     expansions = expansion.split(',')
     for expansion in expansions:
         page = 1
+        cache = []
         with open(f"{expansion}.rst", 'w') as output:
             try:
                 cardset = mtgsdk.Set.find(expansion)
@@ -97,9 +97,13 @@ def import_rst(expansion):
                     if not results:
                         break
                     for card in results:
-                        print(card['name'])
-                        output.write(
-                            card_template.format(card=card, card_text=reformat_card_text(card.get('text', ''))))
+                        name = card['name']
+                        if name not in cache:
+                            print(name)
+                            cache.append(name)
+
+                            output.write(
+                                card_template.format(card=card, card_text=reformat_card_text(card.get('text', ''))))
                     page += 1
             except mtgsdk.restclient.MtgException:
                 result = requests.get(f'https://api.scryfall.com/sets/{expansion.lower()}')
@@ -107,7 +111,8 @@ def import_rst(expansion):
                     print(f'ERROR retrieving expansion {expansion}!')
                     continue
                 name = result.json()['name']
-                result = requests.get(f'https://api.scryfall.com/cards/search?order=set&q=e%3A{expansion.lower()}&unique=prints')
+                result = requests.get(
+                    f'https://api.scryfall.com/cards/search?order=set&q=e%3A{expansion.lower()}&unique=prints')
                 if result.status_code != 200:
                     print(f'ERROR retrieving expansion {expansion} ({name})!')
                     continue
@@ -122,15 +127,18 @@ def import_rst(expansion):
 
 """)
                     for card in data['data']:
-                        print(card['name'])
-                        if card.get('card_faces'):
-                            for face in card['card_faces']:
+                        name = card['name']
+                        if name not in cache:
+                            print(name)
+                            if card.get('card_faces'):
+                                for face in card['card_faces']:
+                                    output.write(
+                                        card_template.format(card=face,
+                                                             card_text=reformat_card_text(face.get('oracle_text', ''))))
+                            else:
                                 output.write(
-                                card_template.format(card=face,
-                                                     card_text=reformat_card_text(face.get('oracle_text', ''))))
-                        else:
-                            output.write(
-                            card_template.format(card=card, card_text=reformat_card_text(card.get('oracle_text', ''))))
+                                    card_template.format(card=card,
+                                                         card_text=reformat_card_text(card.get('oracle_text', ''))))
                     if not data['has_more']:
                         break
                     result = requests.get(data['next_page'])

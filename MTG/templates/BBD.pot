@@ -1,0 +1,2417 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013-2018, Dominik Kozaczko & Strefa Gry
+# This file is distributed under the same license as the MTG-pl package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MTG-pl 2019.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-07 13:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../BBD.rst:5
+msgid "Battlebond"
+msgstr ""
+
+#: ../../BBD.rst:18
+msgid "Will Kenrith"
+msgstr ""
+
+#: ../../BBD.rst:9
+msgid "+2: Until your next turn, up to two target creatures each have base power and toughness 0/3 and lose all abilities."
+msgstr ""
+
+#: ../../BBD.rst:11
+msgid "−2: Target player draws two cards. Until your next turn, instant, sorcery, and planeswalker spells that player casts cost |mana_2| less to cast."
+msgstr ""
+
+#: ../../BBD.rst:13
+msgid "−8: Target player gets an emblem with \"Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.\""
+msgstr ""
+
+#: ../../BBD.rst:15
+msgid "Partner with Rowan Kenrith"
+msgstr ""
+
+#: ../../BBD.rst:17
+msgid "Will Kenrith can be your commander."
+msgstr ""
+
+#: ../../BBD.rst:30
+msgid "Rowan Kenrith"
+msgstr ""
+
+#: ../../BBD.rst:21
+msgid "+2: During target player's next turn, each creature that player controls attacks if able."
+msgstr ""
+
+#: ../../BBD.rst:23
+msgid "−2: Rowan Kenrith deals 3 damage to each tapped creature target player controls."
+msgstr ""
+
+#: ../../BBD.rst:25
+msgid "−8: Target player gets an emblem with \"Whenever you activate an ability that isn't a mana ability, copy it. You may choose new targets for the copy.\""
+msgstr ""
+
+#: ../../BBD.rst:27
+msgid "Partner with Will Kenrith"
+msgstr ""
+
+#: ../../BBD.rst:29
+msgid "Rowan Kenrith can be your commander."
+msgstr ""
+
+#: ../../BBD.rst:38
+msgid "Regna, the Redeemer"
+msgstr ""
+
+#: ../../BBD.rst:33
+msgid "Partner with Krav, the Unredeemed (When this creature enters the battlefield, target player may put Krav into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:35
+#: ../../BBD.rst:217
+#: ../../BBD.rst:251
+#: ../../BBD.rst:267
+#: ../../BBD.rst:287
+#: ../../BBD.rst:369
+#: ../../BBD.rst:463
+#: ../../BBD.rst:539
+#: ../../BBD.rst:563
+#: ../../BBD.rst:709
+#: ../../BBD.rst:723
+#: ../../BBD.rst:737
+#: ../../BBD.rst:765
+#: ../../BBD.rst:823
+#: ../../BBD.rst:853
+#: ../../BBD.rst:867
+#: ../../BBD.rst:931
+#: ../../BBD.rst:1153
+#: ../../BBD.rst:1193
+#: ../../BBD.rst:1205
+#: ../../BBD.rst:1231
+#: ../../BBD.rst:1245
+msgid "Flying"
+msgstr ""
+
+#: ../../BBD.rst:37
+msgid "At the beginning of each end step, if your team gained life this turn, create two 1/1 white Warrior creature tokens."
+msgstr ""
+
+#: ../../BBD.rst:44
+msgid "Krav, the Unredeemed"
+msgstr ""
+
+#: ../../BBD.rst:41
+msgid "Partner with Regna, the Redeemer (When this creature enters the battlefield, target player may put Regna into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:43
+msgid "|mana_b|, Sacrifice X creatures: Target player draws X cards and gains X life. Put X +1/+1 counters on Krav, the Unredeemed."
+msgstr ""
+
+#: ../../BBD.rst:52
+msgid "Zndrsplt, Eye of Wisdom"
+msgstr ""
+
+#: ../../BBD.rst:47
+msgid "Partner with Okaun, Eye of Chaos (When this creature enters the battlefield, target player may put Okaun into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:49
+#: ../../BBD.rst:57
+msgid "At the beginning of combat on your turn, flip a coin until you lose a flip."
+msgstr ""
+
+#: ../../BBD.rst:51
+msgid "Whenever a player wins a coin flip, draw a card."
+msgstr ""
+
+#: ../../BBD.rst:60
+msgid "Okaun, Eye of Chaos"
+msgstr ""
+
+#: ../../BBD.rst:55
+msgid "Partner with Zndrsplt, Eye of Wisdom (When this creature enters the battlefield, target player may put Zndrsplt into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:59
+msgid "Whenever a player wins a coin flip, double Okaun's power and toughness until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:68
+msgid "Virtus the Veiled"
+msgstr ""
+
+#: ../../BBD.rst:63
+msgid "Partner with Gorm the Great (When this creature enters the battlefield, target player may put Gorm into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:65
+#: ../../BBD.rst:135
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../BBD.rst:67
+msgid "Whenever Virtus the Veiled deals combat damage to a player, that player loses half their life, rounded up."
+msgstr ""
+
+#: ../../BBD.rst:76
+msgid "Gorm the Great"
+msgstr ""
+
+#: ../../BBD.rst:71
+msgid "Partner with Virtus the Veiled (When this creature enters the battlefield, target player may put Virtus into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:73
+#: ../../BBD.rst:1187
+#: ../../BBD.rst:1291
+msgid "Vigilance"
+msgstr ""
+
+#: ../../BBD.rst:75
+msgid "Gorm the Great must be blocked if able, and Gorm must be blocked by two or more creatures if able."
+msgstr ""
+
+#: ../../BBD.rst:84
+msgid "Khorvath Brightflame"
+msgstr ""
+
+#: ../../BBD.rst:79
+msgid "Partner with Sylvia Brightspear (When this creature enters the battlefield, target player may put Sylvia into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:81
+msgid "Flying, haste"
+msgstr ""
+
+#: ../../BBD.rst:83
+msgid "Knights your team controls have flying and haste."
+msgstr ""
+
+#: ../../BBD.rst:92
+msgid "Sylvia Brightspear"
+msgstr ""
+
+#: ../../BBD.rst:87
+msgid "Partner with Khorvath Brightflame (When this creature enters the battlefield, target player may put Khorvath into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:89
+msgid "Double strike"
+msgstr ""
+
+#: ../../BBD.rst:91
+msgid "Dragons your team controls have double strike."
+msgstr ""
+
+#: ../../BBD.rst:98
+msgid "Pir, Imaginative Rascal"
+msgstr ""
+
+#: ../../BBD.rst:95
+msgid "Partner with Toothy, Imaginary Friend (When this creature enters the battlefield, target player may put Toothy into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:97
+msgid "If one or more counters would be put on a permanent your team controls, that many plus one of each of those kinds of counters are put on that permanent instead."
+msgstr ""
+
+#: ../../BBD.rst:106
+msgid "Toothy, Imaginary Friend"
+msgstr ""
+
+#: ../../BBD.rst:101
+msgid "Partner with Pir, Imaginative Rascal (When this creature enters the battlefield, target player may put Pir into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:103
+msgid "Whenever you draw a card, put a +1/+1 counter on Toothy, Imaginary Friend."
+msgstr ""
+
+#: ../../BBD.rst:105
+msgid "When Toothy leaves the battlefield, draw a card for each +1/+1 counter on it."
+msgstr ""
+
+#: ../../BBD.rst:112
+msgid "Blaring Recruiter"
+msgstr ""
+
+#: ../../BBD.rst:109
+msgid "Partner with Blaring Captain (When this creature enters the battlefield, target player may put Blaring Captain into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:111
+msgid "|mana_2|\\ |mana_w|: Create a 1/1 white Warrior creature token."
+msgstr ""
+
+#: ../../BBD.rst:118
+msgid "Blaring Captain"
+msgstr ""
+
+#: ../../BBD.rst:115
+msgid "Partner with Blaring Recruiter (When this creature enters the battlefield, target player may put Blaring Recruiter into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:117
+msgid "Whenever Blaring Captain attacks, attacking Warriors get +1/+1 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:124
+msgid "Chakram Retriever"
+msgstr ""
+
+#: ../../BBD.rst:121
+msgid "Partner with Chakram Slinger (When this creature enters the battlefield, target player may put Chakram Slinger into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:123
+msgid "Whenever you cast a spell during your turn, untap target creature."
+msgstr ""
+
+#: ../../BBD.rst:130
+msgid "Chakram Slinger"
+msgstr ""
+
+#: ../../BBD.rst:127
+msgid "Partner with Chakram Retriever (When this creature enters the battlefield, target player may put Chakram Retriever into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:129
+msgid "|mana_r|, |tap|: Chakram Slinger deals 2 damage to target player or planeswalker."
+msgstr ""
+
+#: ../../BBD.rst:138
+msgid "Soulblade Corrupter"
+msgstr ""
+
+#: ../../BBD.rst:133
+msgid "Partner with Soulblade Renewer (When this creature enters the battlefield, target player may put Soulblade Renewer into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:137
+msgid "Whenever a creature with a +1/+1 counter on it attacks one of your opponents, that creature gains deathtouch until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:144
+msgid "Soulblade Renewer"
+msgstr ""
+
+#: ../../BBD.rst:141
+msgid "Partner with Soulblade Corrupter (When this creature enters the battlefield, target player may put Soulblade Corrupter into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:143
+msgid "When Soulblade Renewer enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)"
+msgstr ""
+
+#: ../../BBD.rst:150
+msgid "Impetuous Protege"
+msgstr ""
+
+#: ../../BBD.rst:147
+msgid "Partner with Proud Mentor (When this creature enters the battlefield, target player may put Proud Mentor into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:149
+msgid "Whenever Impetuous Protege attacks, it gets +X/+0 until end of turn, where X is the greatest power among tapped creatures your opponents control."
+msgstr ""
+
+#: ../../BBD.rst:156
+msgid "Proud Mentor"
+msgstr ""
+
+#: ../../BBD.rst:153
+msgid "Partner with Impetuous Protege (When this creature enters the battlefield, target player may put Impetuous Protege into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:155
+msgid "|mana_w|, |tap|: Tap target creature."
+msgstr ""
+
+#: ../../BBD.rst:162
+msgid "Ley Weaver"
+msgstr ""
+
+#: ../../BBD.rst:159
+msgid "Partner with Lore Weaver (When this creature enters the battlefield, target player may put Lore Weaver into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:161
+msgid "|tap|: Untap two target lands."
+msgstr ""
+
+#: ../../BBD.rst:168
+msgid "Lore Weaver"
+msgstr ""
+
+#: ../../BBD.rst:165
+msgid "Partner with Ley Weaver (When this creature enters the battlefield, target player may put Ley Weaver into their hand from their library, then shuffle.)"
+msgstr ""
+
+#: ../../BBD.rst:167
+msgid "|mana_5|\\ |mana_u|\\ |mana_u|: Target player draws two cards."
+msgstr ""
+
+#: ../../BBD.rst:172
+msgid "Arena Rector"
+msgstr ""
+
+#: ../../BBD.rst:171
+msgid "When Arena Rector dies, you may exile it. If you do, search your library for a planeswalker card, put it onto the battlefield, then shuffle your library."
+msgstr ""
+
+#: ../../BBD.rst:176
+msgid "Aurora Champion"
+msgstr ""
+
+#: ../../BBD.rst:175
+msgid "Whenever Aurora Champion attacks, if your team controls another Warrior, tap target creature."
+msgstr ""
+
+#: ../../BBD.rst:186
+msgid "Brightling"
+msgstr ""
+
+#: ../../BBD.rst:179
+msgid "|mana_w|: Brightling gains vigilance until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:181
+msgid "|mana_w|: Brightling gains lifelink until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:183
+msgid "|mana_w|: Return Brightling to its owner's hand."
+msgstr ""
+
+#: ../../BBD.rst:185
+msgid "|mana_1|: Brightling gets +1/-1 or -1/+1 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:192
+msgid "Bring Down"
+msgstr ""
+
+#: ../../BBD.rst:189
+#: ../../BBD.rst:257
+#: ../../BBD.rst:301
+msgid "Assist (Another player can pay up to |mana_3| of this spell's cost.)"
+msgstr ""
+
+#: ../../BBD.rst:191
+msgid "Destroy target creature with power 4 or greater."
+msgstr ""
+
+#: ../../BBD.rst:198
+msgid "Dwarven Lightsmith"
+msgstr ""
+
+#: ../../BBD.rst:195
+#: ../../BBD.rst:239
+#: ../../BBD.rst:295
+msgid "Assist (Another player can pay up to |mana_5| of this spell's cost.)"
+msgstr ""
+
+#: ../../BBD.rst:197
+msgid "When Dwarven Lightsmith enters the battlefield, creatures your team controls get +1/+1 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:202
+msgid "Jubilant Mascot"
+msgstr ""
+
+#: ../../BBD.rst:201
+msgid "At the beginning of combat on your turn, you may pay |mana_3|\\ |mana_w|. If you do, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)"
+msgstr ""
+
+#: ../../BBD.rst:208
+msgid "Play of the Game"
+msgstr ""
+
+#: ../../BBD.rst:205
+#: ../../BBD.rst:277
+#: ../../BBD.rst:375
+#: ../../BBD.rst:461
+msgid "Assist (Another player can pay up to |mana_6| of this spell's cost.)"
+msgstr ""
+
+#: ../../BBD.rst:207
+msgid "Exile all nonland permanents."
+msgstr ""
+
+#: ../../BBD.rst:212
+msgid "Regna's Sanction"
+msgstr ""
+
+#: ../../BBD.rst:211
+msgid "For each player, choose friend or foe. Each friend puts a +1/+1 counter on each creature they control. Each foe chooses one untapped creature they control, then taps the rest."
+msgstr ""
+
+#: ../../BBD.rst:220
+msgid "Skystreamer"
+msgstr ""
+
+#: ../../BBD.rst:215
+msgid "Assist (Another player can pay up to |mana_4| of this spell's cost.)"
+msgstr ""
+
+#: ../../BBD.rst:219
+msgid "When Skystreamer enters the battlefield, target player gains 4 life."
+msgstr ""
+
+#: ../../BBD.rst:226
+msgid "Together Forever"
+msgstr ""
+
+#: ../../BBD.rst:223
+msgid "When Together Forever enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two target creatures.)"
+msgstr ""
+
+#: ../../BBD.rst:225
+msgid "|mana_1|: Choose target creature with a counter on it. When that creature dies this turn, return that card to its owner's hand."
+msgstr ""
+
+#: ../../BBD.rst:232
+msgid "Arcane Artisan"
+msgstr ""
+
+#: ../../BBD.rst:229
+msgid "|mana_2|\\ |mana_u|, |tap|: Target player draws a card, then exiles a card from their hand. If a creature card is exiled this way, that player creates a token that's a copy of that card."
+msgstr ""
+
+#: ../../BBD.rst:231
+msgid "When Arcane Artisan leaves the battlefield, exile all tokens created with it at the beginning of the next end step."
+msgstr ""
+
+#: ../../BBD.rst:236
+msgid "Fumble"
+msgstr ""
+
+#: ../../BBD.rst:235
+msgid "Return target creature to its owner's hand. Gain control of all Auras and Equipment that were attached to it, then attach them to another creature."
+msgstr ""
+
+#: ../../BBD.rst:242
+msgid "Game Plan"
+msgstr ""
+
+#: ../../BBD.rst:241
+msgid "Each player shuffles their hand and graveyard into their library, then draws seven cards. Exile Game Plan."
+msgstr ""
+
+#: ../../BBD.rst:248
+msgid "Huddle Up"
+msgstr ""
+
+#: ../../BBD.rst:245
+msgid "Assist (Another player can pay up to |mana_2| of this spell's cost.)"
+msgstr ""
+
+#: ../../BBD.rst:247
+msgid "Two target players each draw a card."
+msgstr ""
+
+#: ../../BBD.rst:254
+msgid "Nimbus Champion"
+msgstr ""
+
+#: ../../BBD.rst:253
+msgid "Whenever Nimbus Champion attacks, you may return target creature to its owner's hand if that creature's power is less than or equal to the number of Warriors your team controls."
+msgstr ""
+
+#: ../../BBD.rst:260
+msgid "Out of Bounds"
+msgstr ""
+
+#: ../../BBD.rst:259
+msgid "Counter target spell."
+msgstr ""
+
+#: ../../BBD.rst:264
+msgid "Saltwater Stalwart"
+msgstr ""
+
+#: ../../BBD.rst:263
+msgid "Whenever Saltwater Stalwart deals damage to an opponent, target player draws a card."
+msgstr ""
+
+#: ../../BBD.rst:270
+msgid "Soaring Show-Off"
+msgstr ""
+
+#: ../../BBD.rst:269
+msgid "When Soaring Show-Off enters the battlefield, each player draws a card."
+msgstr ""
+
+#: ../../BBD.rst:274
+msgid "Spellseeker"
+msgstr ""
+
+#: ../../BBD.rst:273
+msgid "When Spellseeker enters the battlefield, you may search your library for an instant or sorcery card with converted mana cost 2 or less, reveal it, put it into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../BBD.rst:280
+msgid "Spellweaver Duo"
+msgstr ""
+
+#: ../../BBD.rst:279
+msgid "When Spellweaver Duo enters the battlefield, you may return target tapped creature to its owner's hand."
+msgstr ""
+
+#: ../../BBD.rst:284
+msgid "Zndrsplt's Judgment"
+msgstr ""
+
+#: ../../BBD.rst:283
+msgid "For each player, choose friend or foe. Each friend creates a token that's a copy of a creature they control. Each foe returns a creature they control to its owner's hand."
+msgstr ""
+
+#: ../../BBD.rst:292
+msgid "Archfiend of Despair"
+msgstr ""
+
+#: ../../BBD.rst:289
+msgid "Your opponents can't gain life."
+msgstr ""
+
+#: ../../BBD.rst:291
+msgid "At the beginning of each end step, each opponent loses life equal to the life that player lost this turn. (Damage causes loss of life.)"
+msgstr ""
+
+#: ../../BBD.rst:298
+msgid "Bloodborn Scoundrels"
+msgstr ""
+
+#: ../../BBD.rst:297
+msgid "When Bloodborn Scoundrels enters the battlefield, target opponent loses 2 life and you gain 2 life."
+msgstr ""
+
+#: ../../BBD.rst:304
+msgid "Fan Favorite"
+msgstr ""
+
+#: ../../BBD.rst:303
+msgid "|mana_2|: Fan Favorite gets +1/+1 until end of turn. Any player may activate this ability."
+msgstr ""
+
+#: ../../BBD.rst:310
+msgid "Gang Up"
+msgstr ""
+
+#: ../../BBD.rst:307
+#: ../../BBD.rst:409
+msgid "Assist (Another player can pay up to |mana_x| of this spell's cost. You choose the value of X.)"
+msgstr ""
+
+#: ../../BBD.rst:309
+msgid "Destroy target creature with power X or less."
+msgstr ""
+
+#: ../../BBD.rst:318
+msgid "Inner Demon"
+msgstr ""
+
+#: ../../BBD.rst:313
+#: ../../BBD.rst:517
+#: ../../BBD.rst:525
+#: ../../BBD.rst:581
+#: ../../BBD.rst:643
+#: ../../BBD.rst:703
+#: ../../BBD.rst:921
+#: ../../BBD.rst:965
+#: ../../BBD.rst:1069
+#: ../../BBD.rst:1199
+msgid "Enchant creature"
+msgstr ""
+
+#: ../../BBD.rst:315
+msgid "Enchanted creature gets +2/+2, has flying, and is a Demon in addition to its other types."
+msgstr ""
+
+#: ../../BBD.rst:317
+msgid "When Inner Demon enters the battlefield, all non-Demon creatures get -2/-2 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:322
+msgid "Mindblade Render"
+msgstr ""
+
+#: ../../BBD.rst:321
+msgid "Whenever your opponents are dealt combat damage, if any of that damage was dealt by a Warrior, you draw a card and you lose 1 life."
+msgstr ""
+
+#: ../../BBD.rst:326
+msgid "Sickle Dancer"
+msgstr ""
+
+#: ../../BBD.rst:325
+msgid "Whenever Sickle Dancer attacks, if your team controls another Warrior, Sickle Dancer gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:332
+msgid "Stunning Reversal"
+msgstr ""
+
+#: ../../BBD.rst:329
+msgid "The next time you would lose the game this turn, instead draw seven cards and your life total becomes 1."
+msgstr ""
+
+#: ../../BBD.rst:331
+msgid "Exile Stunning Reversal."
+msgstr ""
+
+#: ../../BBD.rst:336
+msgid "Thrasher Brute"
+msgstr ""
+
+#: ../../BBD.rst:335
+msgid "Whenever Thrasher Brute or another Warrior enters the battlefield under your team's control, target opponent loses 1 life and you gain 1 life."
+msgstr ""
+
+#: ../../BBD.rst:340
+msgid "Thrilling Encore"
+msgstr ""
+
+#: ../../BBD.rst:339
+msgid "Put onto the battlefield under your control all creature cards in all graveyards that were put there from the battlefield this turn."
+msgstr ""
+
+#: ../../BBD.rst:344
+msgid "Virtus's Maneuver"
+msgstr ""
+
+#: ../../BBD.rst:343
+msgid "For each player, choose friend or foe. Each friend returns a creature card from their graveyard to their hand. Each foe sacrifices a creature they control."
+msgstr ""
+
+#: ../../BBD.rst:348
+msgid "Azra Bladeseeker"
+msgstr ""
+
+#: ../../BBD.rst:347
+msgid "When Azra Bladeseeker enters the battlefield, each player on your team may discard a card, then each player who discarded a card this way draws a card."
+msgstr ""
+
+#: ../../BBD.rst:352
+msgid "Bonus Round"
+msgstr ""
+
+#: ../../BBD.rst:351
+msgid "Until end of turn, whenever a player casts an instant or sorcery spell, that player copies it and may choose new targets for the copy."
+msgstr ""
+
+#: ../../BBD.rst:356
+msgid "Bull-Rush Bruiser"
+msgstr ""
+
+#: ../../BBD.rst:355
+msgid "Whenever Bull-Rush Bruiser attacks, if your team controls another Warrior, Bull-Rush Bruiser gains first strike until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:360
+msgid "Cheering Fanatic"
+msgstr ""
+
+#: ../../BBD.rst:359
+msgid "Whenever Cheering Fanatic attacks, choose a card name. Spells with the chosen name cost |mana_1| less to cast this turn."
+msgstr ""
+
+#: ../../BBD.rst:364
+msgid "Khorvath's Fury"
+msgstr ""
+
+#: ../../BBD.rst:363
+msgid "For each player, choose friend or foe. Each friend discards all cards from their hand, then draws that many cards plus one. Khorvath's Fury deals damage to each foe equal to the number of cards in their hand."
+msgstr ""
+
+#: ../../BBD.rst:372
+msgid "Lava-Field Overlord"
+msgstr ""
+
+#: ../../BBD.rst:367
+#: ../../BBD.rst:399
+msgid "Assist (Another player can pay up to |mana_7| of this spell's cost.)"
+msgstr ""
+
+#: ../../BBD.rst:371
+msgid "When Lava-Field Overlord enters the battlefield, it deals 4 damage to target creature an opponent controls."
+msgstr ""
+
+#: ../../BBD.rst:378
+msgid "Magma Hellion"
+msgstr ""
+
+#: ../../BBD.rst:377
+msgid "Trample, haste"
+msgstr ""
+
+#: ../../BBD.rst:384
+msgid "Najeela, the Blade-Blossom"
+msgstr ""
+
+#: ../../BBD.rst:381
+msgid "Whenever a Warrior attacks, you may have its controller create a 1/1 white Warrior creature token that's tapped and attacking."
+msgstr ""
+
+#: ../../BBD.rst:383
+msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Untap all attacking creatures. They gain trample, lifelink, and haste until end of turn. After this phase, there is an additional combat phase. Activate this ability only during combat."
+msgstr ""
+
+#: ../../BBD.rst:388
+msgid "Stadium Vendors"
+msgstr ""
+
+#: ../../BBD.rst:387
+msgid "When Stadium Vendors enters the battlefield, choose a player. That player adds two mana of any one color they choose."
+msgstr ""
+
+#: ../../BBD.rst:392
+msgid "Stolen Strategy"
+msgstr ""
+
+#: ../../BBD.rst:391
+msgid "At the beginning of your upkeep, exile the top card of each opponent's library. Until end of turn, you may cast nonland cards from among those exiled cards, and you may spend mana as though it were mana of any color to cast those spells."
+msgstr ""
+
+#: ../../BBD.rst:396
+msgid "Bramble Sovereign"
+msgstr ""
+
+#: ../../BBD.rst:395
+msgid "Whenever another nontoken creature enters the battlefield, you may pay |mana_1|\\ |mana_g|. If you do, that creature's controller creates a token that's a copy of that creature."
+msgstr ""
+
+#: ../../BBD.rst:402
+msgid "Charging Binox"
+msgstr ""
+
+#: ../../BBD.rst:401
+#: ../../BBD.rst:1089
+#: ../../BBD.rst:1123
+msgid "Trample"
+msgstr ""
+
+#: ../../BBD.rst:406
+msgid "Combo Attack"
+msgstr ""
+
+#: ../../BBD.rst:405
+msgid "Two target creatures your team controls each deal damage equal to their power to target creature."
+msgstr ""
+
+#: ../../BBD.rst:414
+msgid "The Crowd Goes Wild"
+msgstr ""
+
+#: ../../BBD.rst:411
+msgid "Support X. (Put a +1/+1 counter on each of up to X target creatures.)"
+msgstr ""
+
+#: ../../BBD.rst:413
+msgid "Each creature with a +1/+1 counter on it gains trample until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:418
+msgid "Decorated Champion"
+msgstr ""
+
+#: ../../BBD.rst:417
+msgid "Whenever another Warrior enters the battlefield under your team's control, put a +1/+1 counter on Decorated Champion."
+msgstr ""
+
+#: ../../BBD.rst:424
+msgid "Generous Patron"
+msgstr ""
+
+#: ../../BBD.rst:421
+msgid "When Generous Patron enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)"
+msgstr ""
+
+#: ../../BBD.rst:423
+msgid "Whenever you put one or more counters on a creature you don't control, draw a card."
+msgstr ""
+
+#: ../../BBD.rst:430
+msgid "Grothama, All-Devouring"
+msgstr ""
+
+#: ../../BBD.rst:427
+msgid "Other creatures have \"Whenever this creature attacks, you may have it fight Grothama, All-Devouring.\""
+msgstr ""
+
+#: ../../BBD.rst:429
+msgid "When Grothama leaves the battlefield, each player draws cards equal to the amount of damage dealt to Grothama this turn by sources they controlled."
+msgstr ""
+
+#: ../../BBD.rst:434
+msgid "Jungle Wayfinder"
+msgstr ""
+
+#: ../../BBD.rst:433
+msgid "When Jungle Wayfinder enters the battlefield, each player may search their library for a basic land card, reveal it, put it into their hand, then shuffle their library."
+msgstr ""
+
+#: ../../BBD.rst:438
+msgid "Pir's Whim"
+msgstr ""
+
+#: ../../BBD.rst:437
+msgid "For each player, choose friend or foe. Each friend searches their library for a land card, puts it onto the battlefield tapped, then shuffles their library. Each foe sacrifices an artifact or enchantment they control."
+msgstr ""
+
+#: ../../BBD.rst:446
+msgid "Archon of Valor's Reach"
+msgstr ""
+
+#: ../../BBD.rst:441
+msgid "Flying, vigilance, trample"
+msgstr ""
+
+#: ../../BBD.rst:443
+msgid "As Archon of Valor's Reach enters the battlefield, choose artifact, enchantment, instant, sorcery, or planeswalker."
+msgstr ""
+
+#: ../../BBD.rst:445
+msgid "Players can't cast spells of the chosen type."
+msgstr ""
+
+#: ../../BBD.rst:450
+msgid "Azra Oddsmaker"
+msgstr ""
+
+#: ../../BBD.rst:449
+msgid "At the beginning of combat on your turn, you may discard a card. If you do, choose a creature. Whenever that creature deals combat damage to a player this turn, you draw two cards."
+msgstr ""
+
+#: ../../BBD.rst:454
+msgid "Last One Standing"
+msgstr ""
+
+#: ../../BBD.rst:453
+msgid "Choose a creature at random, then destroy the rest."
+msgstr ""
+
+#: ../../BBD.rst:458
+msgid "Rushblade Commander"
+msgstr ""
+
+#: ../../BBD.rst:457
+msgid "Warriors your team controls have haste."
+msgstr ""
+
+#: ../../BBD.rst:466
+msgid "Vampire Charmseeker"
+msgstr ""
+
+#: ../../BBD.rst:465
+msgid "When Vampire Charmseeker enters the battlefield, return target instant, sorcery, or creature card from a graveyard to its owner's hand."
+msgstr ""
+
+#: ../../BBD.rst:470
+msgid "Sentinel Tower"
+msgstr ""
+
+#: ../../BBD.rst:469
+msgid "Whenever an instant or sorcery spell is cast during your turn, Sentinel Tower deals damage to any target equal to 1 plus the number of instant and sorcery spells cast before that spell this turn."
+msgstr ""
+
+#: ../../BBD.rst:476
+msgid "Victory Chimes"
+msgstr ""
+
+#: ../../BBD.rst:473
+msgid "Untap Victory Chimes during each other player's untap step."
+msgstr ""
+
+#: ../../BBD.rst:475
+msgid "|tap|: A player of your choice adds |colorless|."
+msgstr ""
+
+#: ../../BBD.rst:482
+msgid "Bountiful Promenade"
+msgstr ""
+
+#: ../../BBD.rst:479
+msgid "Bountiful Promenade enters the battlefield tapped unless you have two or more opponents."
+msgstr ""
+
+#: ../../BBD.rst:481
+msgid "|tap|: Add |mana_g| or |mana_w|."
+msgstr ""
+
+#: ../../BBD.rst:488
+msgid "Luxury Suite"
+msgstr ""
+
+#: ../../BBD.rst:485
+msgid "Luxury Suite enters the battlefield tapped unless you have two or more opponents."
+msgstr ""
+
+#: ../../BBD.rst:487
+msgid "|tap|: Add |mana_b| or |mana_r|."
+msgstr ""
+
+#: ../../BBD.rst:494
+msgid "Morphic Pool"
+msgstr ""
+
+#: ../../BBD.rst:491
+msgid "Morphic Pool enters the battlefield tapped unless you have two or more opponents."
+msgstr ""
+
+#: ../../BBD.rst:493
+msgid "|tap|: Add |mana_u| or |mana_b|."
+msgstr ""
+
+#: ../../BBD.rst:500
+msgid "Sea of Clouds"
+msgstr ""
+
+#: ../../BBD.rst:497
+msgid "Sea of Clouds enters the battlefield tapped unless you have two or more opponents."
+msgstr ""
+
+#: ../../BBD.rst:499
+msgid "|tap|: Add |mana_w| or |mana_u|."
+msgstr ""
+
+#: ../../BBD.rst:506
+msgid "Spire Garden"
+msgstr ""
+
+#: ../../BBD.rst:503
+msgid "Spire Garden enters the battlefield tapped unless you have two or more opponents."
+msgstr ""
+
+#: ../../BBD.rst:505
+msgid "|tap|: Add |mana_r| or |mana_g|."
+msgstr ""
+
+#: ../../BBD.rst:510
+msgid "Angel of Retribution"
+msgstr ""
+
+#: ../../BBD.rst:509
+msgid "Flying, first strike"
+msgstr ""
+
+#: ../../BBD.rst:514
+msgid "Angelic Chorus"
+msgstr ""
+
+#: ../../BBD.rst:513
+msgid "Whenever a creature enters the battlefield under your control, you gain life equal to its toughness."
+msgstr ""
+
+#: ../../BBD.rst:522
+msgid "Angelic Gift"
+msgstr ""
+
+#: ../../BBD.rst:519
+msgid "When Angelic Gift enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../BBD.rst:521
+msgid "Enchanted creature has flying."
+msgstr ""
+
+#: ../../BBD.rst:528
+msgid "Battle Mastery"
+msgstr ""
+
+#: ../../BBD.rst:527
+msgid "Enchanted creature has double strike. (It deals both first-strike and regular combat damage.)"
+msgstr ""
+
+#: ../../BBD.rst:532
+msgid "Champion of Arashin"
+msgstr ""
+
+#: ../../BBD.rst:531
+#: ../../BBD.rst:767
+msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
+msgstr ""
+
+#: ../../BBD.rst:536
+msgid "Doomed Traveler"
+msgstr ""
+
+#: ../../BBD.rst:535
+msgid "When Doomed Traveler dies, create a 1/1 white Spirit creature token with flying."
+msgstr ""
+
+#: ../../BBD.rst:542
+msgid "Expedition Raptor"
+msgstr ""
+
+#: ../../BBD.rst:541
+msgid "When Expedition Raptor enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)"
+msgstr ""
+
+#: ../../BBD.rst:548
+msgid "Kor Spiritdancer"
+msgstr ""
+
+#: ../../BBD.rst:545
+msgid "Kor Spiritdancer gets +2/+2 for each Aura attached to it."
+msgstr ""
+
+#: ../../BBD.rst:547
+msgid "Whenever you cast an Aura spell, you may draw a card."
+msgstr ""
+
+#: ../../BBD.rst:552
+msgid "Land Tax"
+msgstr ""
+
+#: ../../BBD.rst:551
+msgid "At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../BBD.rst:556
+msgid "Lightwalker"
+msgstr ""
+
+#: ../../BBD.rst:555
+msgid "Lightwalker has flying as long as it has a +1/+1 counter on it."
+msgstr ""
+
+#: ../../BBD.rst:560
+msgid "Long Road Home"
+msgstr ""
+
+#: ../../BBD.rst:559
+msgid "Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it."
+msgstr ""
+
+#: ../../BBD.rst:566
+msgid "Loyal Pegasus"
+msgstr ""
+
+#: ../../BBD.rst:565
+msgid "Loyal Pegasus can't attack or block alone."
+msgstr ""
+
+#: ../../BBD.rst:570
+msgid "Mangara of Corondor"
+msgstr ""
+
+#: ../../BBD.rst:569
+msgid "|tap|: Exile Mangara of Corondor and target permanent."
+msgstr ""
+
+#: ../../BBD.rst:574
+msgid "Midnight Guard"
+msgstr ""
+
+#: ../../BBD.rst:573
+msgid "Whenever another creature enters the battlefield, untap Midnight Guard."
+msgstr ""
+
+#: ../../BBD.rst:578
+msgid "Oreskos Explorer"
+msgstr ""
+
+#: ../../BBD.rst:577
+msgid "When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../BBD.rst:584
+msgid "Pacifism"
+msgstr ""
+
+#: ../../BBD.rst:583
+msgid "Enchanted creature can't attack or block."
+msgstr ""
+
+#: ../../BBD.rst:586
+msgid "Raptor Companion"
+msgstr ""
+
+#: ../../BBD.rst:592
+msgid "Rebuke"
+msgstr ""
+
+#: ../../BBD.rst:591
+msgid "Destroy target attacking creature."
+msgstr ""
+
+#: ../../BBD.rst:596
+msgid "Royal Trooper"
+msgstr ""
+
+#: ../../BBD.rst:595
+msgid "Whenever Royal Trooper blocks, it gets +2/+2 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:602
+msgid "Shoulder to Shoulder"
+msgstr ""
+
+#: ../../BBD.rst:599
+#: ../../BBD.rst:1081
+msgid "Support 2. (Put a +1/+1 counter on each of up to two target creatures.)"
+msgstr ""
+
+#: ../../BBD.rst:601
+#: ../../BBD.rst:683
+#: ../../BBD.rst:951
+msgid "Draw a card."
+msgstr ""
+
+#: ../../BBD.rst:606
+msgid "Silverchase Fox"
+msgstr ""
+
+#: ../../BBD.rst:605
+msgid "|mana_1|\\ |mana_w|, Sacrifice Silverchase Fox: Exile target enchantment."
+msgstr ""
+
+#: ../../BBD.rst:610
+msgid "Solemn Offering"
+msgstr ""
+
+#: ../../BBD.rst:609
+msgid "Destroy target artifact or enchantment. You gain 4 life."
+msgstr ""
+
+#: ../../BBD.rst:614
+msgid "Sparring Mummy"
+msgstr ""
+
+#: ../../BBD.rst:613
+msgid "When Sparring Mummy enters the battlefield, untap target creature."
+msgstr ""
+
+#: ../../BBD.rst:620
+msgid "Steppe Glider"
+msgstr ""
+
+#: ../../BBD.rst:617
+#: ../../BBD.rst:1169
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../BBD.rst:619
+msgid "|mana_1|\\ |mana_w|: Target creature with a +1/+1 counter on it gains flying and vigilance until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:624
+msgid "Swords to Plowshares"
+msgstr ""
+
+#: ../../BBD.rst:623
+msgid "Exile target creature. Its controller gains life equal to its power."
+msgstr ""
+
+#: ../../BBD.rst:628
+msgid "Take Up Arms"
+msgstr ""
+
+#: ../../BBD.rst:627
+msgid "Create three 1/1 white Warrior creature tokens."
+msgstr ""
+
+#: ../../BBD.rst:632
+msgid "Tandem Tactics"
+msgstr ""
+
+#: ../../BBD.rst:631
+msgid "Up to two target creatures each get +1/+2 until end of turn. You gain 2 life."
+msgstr ""
+
+#: ../../BBD.rst:636
+msgid "Benthic Giant"
+msgstr ""
+
+#: ../../BBD.rst:635
+#: ../../BBD.rst:1091
+#: ../../BBD.rst:1095
+msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
+msgstr ""
+
+#: ../../BBD.rst:640
+msgid "Call to Heel"
+msgstr ""
+
+#: ../../BBD.rst:639
+msgid "Return target creature to its owner's hand. Its controller draws a card."
+msgstr ""
+
+#: ../../BBD.rst:648
+msgid "Claustrophobia"
+msgstr ""
+
+#: ../../BBD.rst:645
+msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
+msgstr ""
+
+#: ../../BBD.rst:647
+msgid "Enchanted creature doesn't untap during its controller's untap step."
+msgstr ""
+
+#: ../../BBD.rst:652
+msgid "Coralhelm Guide"
+msgstr ""
+
+#: ../../BBD.rst:651
+msgid "|mana_4|\\ |mana_u|: Target creature can't be blocked this turn."
+msgstr ""
+
+#: ../../BBD.rst:658
+msgid "Fog Bank"
+msgstr ""
+
+#: ../../BBD.rst:655
+msgid "Defender, flying"
+msgstr ""
+
+#: ../../BBD.rst:657
+msgid "Prevent all combat damage that would be dealt to and dealt by Fog Bank."
+msgstr ""
+
+#: ../../BBD.rst:662
+msgid "Frost Lynx"
+msgstr ""
+
+#: ../../BBD.rst:661
+msgid "When Frost Lynx enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step."
+msgstr ""
+
+#: ../../BBD.rst:666
+msgid "Impulse"
+msgstr ""
+
+#: ../../BBD.rst:665
+msgid "Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
+msgstr ""
+
+#: ../../BBD.rst:670
+msgid "Kitesail Corsair"
+msgstr ""
+
+#: ../../BBD.rst:669
+msgid "Kitesail Corsair has flying as long as it's attacking."
+msgstr ""
+
+#: ../../BBD.rst:672
+msgid "Kraken Hatchling"
+msgstr ""
+
+#: ../../BBD.rst:684
+msgid "Mystic Confluence"
+msgstr ""
+
+#: ../../BBD.rst:677
+msgid "Choose three. You may choose the same mode more than once."
+msgstr ""
+
+#: ../../BBD.rst:679
+msgid "Counter target spell unless its controller pays |mana_3|."
+msgstr ""
+
+#: ../../BBD.rst:681
+msgid "Return target creature to its owner's hand."
+msgstr ""
+
+#: ../../BBD.rst:688
+msgid "Negate"
+msgstr ""
+
+#: ../../BBD.rst:687
+msgid "Counter target noncreature spell."
+msgstr ""
+
+#: ../../BBD.rst:692
+msgid "Nimbus of the Isles"
+msgstr ""
+
+#: ../../BBD.rst:691
+msgid "Flying (This creature can't be blocked except by creatures with flying or reach.)"
+msgstr ""
+
+#: ../../BBD.rst:696
+msgid "Omenspeaker"
+msgstr ""
+
+#: ../../BBD.rst:695
+msgid "When Omenspeaker enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../BBD.rst:700
+msgid "Opportunity"
+msgstr ""
+
+#: ../../BBD.rst:699
+msgid "Target player draws four cards."
+msgstr ""
+
+#: ../../BBD.rst:706
+msgid "Oracle's Insight"
+msgstr ""
+
+#: ../../BBD.rst:705
+msgid "Enchanted creature has \"|tap|: Scry 1, then draw a card.\" (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BBD.rst:712
+msgid "Peregrine Drake"
+msgstr ""
+
+#: ../../BBD.rst:711
+msgid "When Peregrine Drake enters the battlefield, untap up to five lands."
+msgstr ""
+
+#: ../../BBD.rst:716
+msgid "Phantom Warrior"
+msgstr ""
+
+#: ../../BBD.rst:715
+msgid "Phantom Warrior can't be blocked."
+msgstr ""
+
+#: ../../BBD.rst:720
+msgid "Reckless Scholar"
+msgstr ""
+
+#: ../../BBD.rst:719
+msgid "|tap|: Target player draws a card, then discards a card."
+msgstr ""
+
+#: ../../BBD.rst:726
+msgid "Sower of Temptation"
+msgstr ""
+
+#: ../../BBD.rst:725
+msgid "When Sower of Temptation enters the battlefield, gain control of target creature for as long as Sower of Temptation remains on the battlefield."
+msgstr ""
+
+#: ../../BBD.rst:730
+msgid "Spell Snare"
+msgstr ""
+
+#: ../../BBD.rst:729
+msgid "Counter target spell with converted mana cost 2."
+msgstr ""
+
+#: ../../BBD.rst:734
+msgid "Switcheroo"
+msgstr ""
+
+#: ../../BBD.rst:733
+msgid "Exchange control of two target creatures."
+msgstr ""
+
+#: ../../BBD.rst:740
+msgid "Tidespout Tyrant"
+msgstr ""
+
+#: ../../BBD.rst:739
+msgid "Whenever you cast a spell, return target permanent to its owner's hand."
+msgstr ""
+
+#: ../../BBD.rst:744
+msgid "Totally Lost"
+msgstr ""
+
+#: ../../BBD.rst:743
+msgid "Put target nonland permanent on top of its owner's library."
+msgstr ""
+
+#: ../../BBD.rst:750
+msgid "True-Name Nemesis"
+msgstr ""
+
+#: ../../BBD.rst:747
+msgid "As True-Name Nemesis enters the battlefield, choose a player."
+msgstr ""
+
+#: ../../BBD.rst:749
+msgid "True-Name Nemesis has protection from the chosen player. (This creature can't be blocked, targeted, dealt damage, or enchanted by anything controlled by that player.)"
+msgstr ""
+
+#: ../../BBD.rst:754
+msgid "Watercourser"
+msgstr ""
+
+#: ../../BBD.rst:753
+msgid "|mana_u|: Watercourser gets +1/-1 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:758
+msgid "Assassin's Strike"
+msgstr ""
+
+#: ../../BBD.rst:757
+msgid "Destroy target creature. Its controller discards a card."
+msgstr ""
+
+#: ../../BBD.rst:762
+msgid "Assassinate"
+msgstr ""
+
+#: ../../BBD.rst:761
+msgid "Destroy target tapped creature."
+msgstr ""
+
+#: ../../BBD.rst:768
+msgid "Daggerdrome Imp"
+msgstr ""
+
+#: ../../BBD.rst:774
+msgid "Diabolic Intent"
+msgstr ""
+
+#: ../../BBD.rst:771
+msgid "As an additional cost to cast this spell, sacrifice a creature."
+msgstr ""
+
+#: ../../BBD.rst:773
+msgid "Search your library for a card and put that card into your hand. Then shuffle your library."
+msgstr ""
+
+#: ../../BBD.rst:778
+msgid "Doomed Dissenter"
+msgstr ""
+
+#: ../../BBD.rst:777
+msgid "When Doomed Dissenter dies, create a 2/2 black Zombie creature token."
+msgstr ""
+
+#: ../../BBD.rst:782
+msgid "Eyeblight Assassin"
+msgstr ""
+
+#: ../../BBD.rst:781
+msgid "When Eyeblight Assassin enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:786
+msgid "Fill with Fright"
+msgstr ""
+
+#: ../../BBD.rst:785
+msgid "Target player discards two cards. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+msgstr ""
+
+#: ../../BBD.rst:790
+msgid "Grotesque Mutation"
+msgstr ""
+
+#: ../../BBD.rst:789
+msgid "Target creature gets +3/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)"
+msgstr ""
+
+#: ../../BBD.rst:794
+msgid "Hand of Silumgar"
+msgstr ""
+
+#: ../../BBD.rst:793
+#: ../../BBD.rst:1025
+msgid "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)"
+msgstr ""
+
+#: ../../BBD.rst:798
+msgid "Last Gasp"
+msgstr ""
+
+#: ../../BBD.rst:797
+msgid "Target creature gets -3/-3 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:802
+msgid "Liturgy of Blood"
+msgstr ""
+
+#: ../../BBD.rst:801
+msgid "Destroy target creature. Add |mana_b|\\ |mana_b|\\ |mana_b|."
+msgstr ""
+
+#: ../../BBD.rst:808
+msgid "Morbid Curiosity"
+msgstr ""
+
+#: ../../BBD.rst:805
+msgid "As an additional cost to cast this spell, sacrifice an artifact or creature."
+msgstr ""
+
+#: ../../BBD.rst:807
+msgid "Draw cards equal to the converted mana cost of the sacrificed permanent."
+msgstr ""
+
+#: ../../BBD.rst:814
+msgid "Nirkana Revenant"
+msgstr ""
+
+#: ../../BBD.rst:811
+msgid "Whenever you tap a Swamp for mana, add an additional |mana_b|."
+msgstr ""
+
+#: ../../BBD.rst:813
+msgid "|mana_b|: Nirkana Revenant gets +1/+1 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:820
+msgid "Noosegraf Mob"
+msgstr ""
+
+#: ../../BBD.rst:817
+msgid "Noosegraf Mob enters the battlefield with five +1/+1 counters on it."
+msgstr ""
+
+#: ../../BBD.rst:819
+msgid "Whenever a player casts a spell, remove a +1/+1 counter from Noosegraf Mob. If you do, create a 2/2 black Zombie creature token."
+msgstr ""
+
+#: ../../BBD.rst:826
+msgid "Noxious Dragon"
+msgstr ""
+
+#: ../../BBD.rst:825
+msgid "When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less."
+msgstr ""
+
+#: ../../BBD.rst:832
+msgid "Nyxathid"
+msgstr ""
+
+#: ../../BBD.rst:829
+msgid "As Nyxathid enters the battlefield, choose an opponent."
+msgstr ""
+
+#: ../../BBD.rst:831
+msgid "Nyxathid gets -1/-1 for each card in the chosen player's hand."
+msgstr ""
+
+#: ../../BBD.rst:836
+msgid "Painful Lesson"
+msgstr ""
+
+#: ../../BBD.rst:835
+msgid "Target player draws two cards and loses 2 life."
+msgstr ""
+
+#: ../../BBD.rst:838
+msgid "Prakhata Club Security"
+msgstr ""
+
+#: ../../BBD.rst:846
+msgid "Quest for the Gravelord"
+msgstr ""
+
+#: ../../BBD.rst:843
+msgid "Whenever a creature dies, you may put a quest counter on Quest for the Gravelord."
+msgstr ""
+
+#: ../../BBD.rst:845
+msgid "Remove three quest counters from Quest for the Gravelord and sacrifice it: Create a 5/5 black Zombie Giant creature token."
+msgstr ""
+
+#: ../../BBD.rst:850
+msgid "Rotfeaster Maggot"
+msgstr ""
+
+#: ../../BBD.rst:849
+msgid "When Rotfeaster Maggot enters the battlefield, exile target creature card from a graveyard. You gain life equal to that card's toughness."
+msgstr ""
+
+#: ../../BBD.rst:856
+msgid "Screeching Buzzard"
+msgstr ""
+
+#: ../../BBD.rst:855
+msgid "When Screeching Buzzard dies, each opponent discards a card."
+msgstr ""
+
+#: ../../BBD.rst:860
+msgid "Shambling Ghoul"
+msgstr ""
+
+#: ../../BBD.rst:859
+msgid "Shambling Ghoul enters the battlefield tapped."
+msgstr ""
+
+#: ../../BBD.rst:864
+msgid "Slum Reaper"
+msgstr ""
+
+#: ../../BBD.rst:863
+msgid "When Slum Reaper enters the battlefield, each player sacrifices a creature."
+msgstr ""
+
+#: ../../BBD.rst:872
+msgid "Swarm of Bloodflies"
+msgstr ""
+
+#: ../../BBD.rst:869
+msgid "Swarm of Bloodflies enters the battlefield with two +1/+1 counters on it."
+msgstr ""
+
+#: ../../BBD.rst:871
+msgid "Whenever another creature dies, put a +1/+1 counter on Swarm of Bloodflies."
+msgstr ""
+
+#: ../../BBD.rst:876
+msgid "Tavern Swindler"
+msgstr ""
+
+#: ../../BBD.rst:875
+msgid "|tap|, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life."
+msgstr ""
+
+#: ../../BBD.rst:880
+msgid "Tenacious Dead"
+msgstr ""
+
+#: ../../BBD.rst:879
+msgid "When Tenacious Dead dies, you may pay |mana_1|\\ |mana_b|. If you do, return it to the battlefield tapped under its owner's control."
+msgstr ""
+
+#: ../../BBD.rst:884
+msgid "Bathe in Dragonfire"
+msgstr ""
+
+#: ../../BBD.rst:883
+msgid "Bathe in Dragonfire deals 4 damage to target creature."
+msgstr ""
+
+#: ../../BBD.rst:890
+msgid "Battle Rampart"
+msgstr ""
+
+#: ../../BBD.rst:887
+#: ../../BBD.rst:1211
+msgid "Defender"
+msgstr ""
+
+#: ../../BBD.rst:889
+msgid "|tap|: Target creature gains haste until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:894
+msgid "Battle-Rattle Shaman"
+msgstr ""
+
+#: ../../BBD.rst:893
+msgid "At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:898
+msgid "Blaze"
+msgstr ""
+
+#: ../../BBD.rst:897
+msgid "Blaze deals X damage to any target."
+msgstr ""
+
+#: ../../BBD.rst:902
+msgid "Blood Feud"
+msgstr ""
+
+#: ../../BBD.rst:901
+msgid "Target creature fights another target creature. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../BBD.rst:910
+msgid "Boldwyr Intimidator"
+msgstr ""
+
+#: ../../BBD.rst:905
+msgid "Cowards can't block Warriors."
+msgstr ""
+
+#: ../../BBD.rst:907
+msgid "|mana_r|: Target creature becomes a Coward until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:909
+msgid "|mana_2|\\ |mana_r|: Target creature becomes a Warrior until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:914
+msgid "Borderland Marauder"
+msgstr ""
+
+#: ../../BBD.rst:913
+msgid "Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:918
+msgid "Chain Lightning"
+msgstr ""
+
+#: ../../BBD.rst:917
+msgid "Chain Lightning deals 3 damage to any target. Then that player or that permanent's controller may pay |mana_r|\\ |mana_r|. If the player does, they may copy this spell and may choose a new target for that copy."
+msgstr ""
+
+#: ../../BBD.rst:928
+msgid "Dragon Breath"
+msgstr ""
+
+#: ../../BBD.rst:923
+msgid "Enchanted creature has haste."
+msgstr ""
+
+#: ../../BBD.rst:925
+msgid "|mana_r|: Enchanted creature gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:927
+msgid "When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Breath from your graveyard to the battlefield attached to that creature."
+msgstr ""
+
+#: ../../BBD.rst:934
+msgid "Dragon Hatchling"
+msgstr ""
+
+#: ../../BBD.rst:933
+msgid "|mana_r|: Dragon Hatchling gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:936
+msgid "Earth Elemental"
+msgstr ""
+
+#: ../../BBD.rst:942
+msgid "Ember Beast"
+msgstr ""
+
+#: ../../BBD.rst:941
+msgid "Ember Beast can't attack or block alone."
+msgstr ""
+
+#: ../../BBD.rst:946
+msgid "Enthralling Victor"
+msgstr ""
+
+#: ../../BBD.rst:945
+msgid "When Enthralling Victor enters the battlefield, gain control of target creature an opponent controls with power 2 or less until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and |tap| this turn.)"
+msgstr ""
+
+#: ../../BBD.rst:952
+msgid "Expedite"
+msgstr ""
+
+#: ../../BBD.rst:949
+msgid "Target creature gains haste until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:956
+msgid "Flamewave Invoker"
+msgstr ""
+
+#: ../../BBD.rst:955
+msgid "|mana_7|\\ |mana_r|: Flamewave Invoker deals 5 damage to target player or planeswalker."
+msgstr ""
+
+#: ../../BBD.rst:962
+msgid "Goblin Razerunners"
+msgstr ""
+
+#: ../../BBD.rst:959
+msgid "|mana_1|\\ |mana_r|, Sacrifice a land: Put a +1/+1 counter on Goblin Razerunners."
+msgstr ""
+
+#: ../../BBD.rst:961
+msgid "At the beginning of your end step, you may have Goblin Razerunners deal damage equal to the number of +1/+1 counters on it to target player or planeswalker."
+msgstr ""
+
+#: ../../BBD.rst:968
+msgid "Lightning Talons"
+msgstr ""
+
+#: ../../BBD.rst:967
+msgid "Enchanted creature gets +3/+0 and has first strike. (It deals combat damage before creatures without first strike.)"
+msgstr ""
+
+#: ../../BBD.rst:972
+msgid "Magmatic Force"
+msgstr ""
+
+#: ../../BBD.rst:971
+msgid "At the beginning of each upkeep, Magmatic Force deals 3 damage to any target."
+msgstr ""
+
+#: ../../BBD.rst:976
+msgid "Pathmaker Initiate"
+msgstr ""
+
+#: ../../BBD.rst:975
+msgid "|tap|: Target creature with power 2 or less can't be blocked this turn."
+msgstr ""
+
+#: ../../BBD.rst:980
+msgid "Reckless Reveler"
+msgstr ""
+
+#: ../../BBD.rst:979
+msgid "|mana_r|, Sacrifice Reckless Reveler: Destroy target artifact."
+msgstr ""
+
+#: ../../BBD.rst:984
+msgid "Shock"
+msgstr ""
+
+#: ../../BBD.rst:983
+msgid "Shock deals 2 damage to any target."
+msgstr ""
+
+#: ../../BBD.rst:988
+msgid "Thunder Strike"
+msgstr ""
+
+#: ../../BBD.rst:987
+msgid "Target creature gets +2/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)"
+msgstr ""
+
+#: ../../BBD.rst:992
+msgid "Trumpet Blast"
+msgstr ""
+
+#: ../../BBD.rst:991
+msgid "Attacking creatures get +2/+0 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:998
+msgid "War's Toll"
+msgstr ""
+
+#: ../../BBD.rst:995
+msgid "Whenever an opponent taps a land for mana, tap all lands that player controls."
+msgstr ""
+
+#: ../../BBD.rst:997
+msgid "If a creature an opponent controls attacks, all creatures that opponent controls attack if able."
+msgstr ""
+
+#: ../../BBD.rst:1002
+msgid "Wrap in Flames"
+msgstr ""
+
+#: ../../BBD.rst:1001
+msgid "Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn."
+msgstr ""
+
+#: ../../BBD.rst:1006
+msgid "Aim High"
+msgstr ""
+
+#: ../../BBD.rst:1005
+msgid "Untap target creature. It gets +2/+2 and gains reach until end of turn. (It can block creatures with flying.)"
+msgstr ""
+
+#: ../../BBD.rst:1010
+msgid "Beast Within"
+msgstr ""
+
+#: ../../BBD.rst:1009
+msgid "Destroy target permanent. Its controller creates a 3/3 green Beast creature token."
+msgstr ""
+
+#: ../../BBD.rst:1014
+msgid "Canopy Spider"
+msgstr ""
+
+#: ../../BBD.rst:1013
+#: ../../BBD.rst:1213
+msgid "Reach (This creature can block creatures with flying.)"
+msgstr ""
+
+#: ../../BBD.rst:1018
+msgid "Charging Rhino"
+msgstr ""
+
+#: ../../BBD.rst:1017
+msgid "Charging Rhino can't be blocked by more than one creature."
+msgstr ""
+
+#: ../../BBD.rst:1020
+msgid "Cowl Prowler"
+msgstr ""
+
+#: ../../BBD.rst:1026
+msgid "Daggerback Basilisk"
+msgstr ""
+
+#: ../../BBD.rst:1032
+msgid "Doubling Season"
+msgstr ""
+
+#: ../../BBD.rst:1029
+msgid "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead."
+msgstr ""
+
+#: ../../BBD.rst:1031
+msgid "If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead."
+msgstr ""
+
+#: ../../BBD.rst:1036
+msgid "Elvish Visionary"
+msgstr ""
+
+#: ../../BBD.rst:1035
+msgid "When Elvish Visionary enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../BBD.rst:1042
+msgid "Feral Hydra"
+msgstr ""
+
+#: ../../BBD.rst:1039
+msgid "Feral Hydra enters the battlefield with X +1/+1 counters on it."
+msgstr ""
+
+#: ../../BBD.rst:1041
+msgid "|mana_3|: Put a +1/+1 counter on Feral Hydra. Any player may activate this ability."
+msgstr ""
+
+#: ../../BBD.rst:1048
+msgid "Fertile Ground"
+msgstr ""
+
+#: ../../BBD.rst:1045
+msgid "Enchant land"
+msgstr ""
+
+#: ../../BBD.rst:1047
+msgid "Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color."
+msgstr ""
+
+#: ../../BBD.rst:1054
+msgid "Fertilid"
+msgstr ""
+
+#: ../../BBD.rst:1051
+msgid "Fertilid enters the battlefield with two +1/+1 counters on it."
+msgstr ""
+
+#: ../../BBD.rst:1053
+msgid "|mana_1|\\ |mana_g|, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library."
+msgstr ""
+
+#: ../../BBD.rst:1058
+msgid "Giant Growth"
+msgstr ""
+
+#: ../../BBD.rst:1057
+msgid "Target creature gets +3/+3 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:1062
+msgid "Greater Good"
+msgstr ""
+
+#: ../../BBD.rst:1061
+msgid "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards."
+msgstr ""
+
+#: ../../BBD.rst:1066
+msgid "Hunted Wumpus"
+msgstr ""
+
+#: ../../BBD.rst:1065
+msgid "When Hunted Wumpus enters the battlefield, each other player may put a creature card from their hand onto the battlefield."
+msgstr ""
+
+#: ../../BBD.rst:1074
+msgid "Karametra's Favor"
+msgstr ""
+
+#: ../../BBD.rst:1071
+msgid "When Karametra's Favor enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../BBD.rst:1073
+msgid "Enchanted creature has \"|tap|: Add one mana of any color.\""
+msgstr ""
+
+#: ../../BBD.rst:1078
+msgid "Kraul Warrior"
+msgstr ""
+
+#: ../../BBD.rst:1077
+msgid "|mana_5|\\ |mana_g|: Kraul Warrior gets +3/+3 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:1082
+msgid "Lead by Example"
+msgstr ""
+
+#: ../../BBD.rst:1086
+msgid "Magus of the Candelabra"
+msgstr ""
+
+#: ../../BBD.rst:1085
+msgid "|mana_x|, |tap|: Untap X target lands."
+msgstr ""
+
+#: ../../BBD.rst:1092
+msgid "Plated Crusher"
+msgstr ""
+
+#: ../../BBD.rst:1096
+msgid "Primal Huntbeast"
+msgstr ""
+
+#: ../../BBD.rst:1100
+msgid "Pulse of Murasa"
+msgstr ""
+
+#: ../../BBD.rst:1099
+msgid "Return target creature or land card from a graveyard to its owner's hand. You gain 6 life."
+msgstr ""
+
+#: ../../BBD.rst:1104
+msgid "Return to the Earth"
+msgstr ""
+
+#: ../../BBD.rst:1103
+msgid "Destroy target artifact, enchantment, or creature with flying."
+msgstr ""
+
+#: ../../BBD.rst:1108
+msgid "Saddleback Lagac"
+msgstr ""
+
+#: ../../BBD.rst:1107
+msgid "When Saddleback Lagac enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)"
+msgstr ""
+
+#: ../../BBD.rst:1112
+msgid "Seedborn Muse"
+msgstr ""
+
+#: ../../BBD.rst:1111
+msgid "Untap all permanents you control during each other player's untap step."
+msgstr ""
+
+#: ../../BBD.rst:1116
+msgid "Skyshroud Claim"
+msgstr ""
+
+#: ../../BBD.rst:1115
+msgid "Search your library for up to two Forest cards, put them onto the battlefield, then shuffle your library."
+msgstr ""
+
+#: ../../BBD.rst:1120
+msgid "Veteran Explorer"
+msgstr ""
+
+#: ../../BBD.rst:1119
+msgid "When Veteran Explorer dies, each player may search their library for up to two basic land cards and put them onto the battlefield. Then each player who searched their library this way shuffles it."
+msgstr ""
+
+#: ../../BBD.rst:1128
+msgid "Vigor"
+msgstr ""
+
+#: ../../BBD.rst:1125
+msgid "If damage would be dealt to another creature you control, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way."
+msgstr ""
+
+#: ../../BBD.rst:1127
+msgid "When Vigor is put into a graveyard from anywhere, shuffle it into its owner's library."
+msgstr ""
+
+#: ../../BBD.rst:1132
+msgid "Wandering Wolf"
+msgstr ""
+
+#: ../../BBD.rst:1131
+msgid "Creatures with power less than Wandering Wolf's power can't block it."
+msgstr ""
+
+#: ../../BBD.rst:1138
+msgid "Apocalypse Hydra"
+msgstr ""
+
+#: ../../BBD.rst:1135
+msgid "Apocalypse Hydra enters the battlefield with X +1/+1 counters on it. If X is 5 or more, it enters the battlefield with an additional X +1/+1 counters on it."
+msgstr ""
+
+#: ../../BBD.rst:1137
+msgid "|mana_1|\\ |mana_r|, Remove a +1/+1 counter from Apocalypse Hydra: Apocalypse Hydra deals 1 damage to any target."
+msgstr ""
+
+#: ../../BBD.rst:1142
+msgid "Auger Spree"
+msgstr ""
+
+#: ../../BBD.rst:1141
+msgid "Target creature gets +4/-4 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:1146
+msgid "Centaur Healer"
+msgstr ""
+
+#: ../../BBD.rst:1145
+msgid "When Centaur Healer enters the battlefield, you gain 3 life."
+msgstr ""
+
+#: ../../BBD.rst:1150
+msgid "Dinrova Horror"
+msgstr ""
+
+#: ../../BBD.rst:1149
+msgid "When Dinrova Horror enters the battlefield, return target permanent to its owner's hand, then that player discards a card."
+msgstr ""
+
+#: ../../BBD.rst:1156
+msgid "Enduring Scalelord"
+msgstr ""
+
+#: ../../BBD.rst:1155
+msgid "Whenever one or more +1/+1 counters are put on another creature you control, you may put a +1/+1 counter on Enduring Scalelord."
+msgstr ""
+
+#: ../../BBD.rst:1160
+msgid "Evil Twin"
+msgstr ""
+
+#: ../../BBD.rst:1159
+msgid "You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield, except it has \"|mana_u|\\ |mana_b|, |tap|: Destroy target creature with the same name as this creature.\""
+msgstr ""
+
+#: ../../BBD.rst:1166
+msgid "Gwafa Hazid, Profiteer"
+msgstr ""
+
+#: ../../BBD.rst:1163
+msgid "|mana_w|\\ |mana_u|, |tap|: Put a bribery counter on target creature you don't control. Its controller draws a card."
+msgstr ""
+
+#: ../../BBD.rst:1165
+msgid "Creatures with bribery counters on them can't attack or block."
+msgstr ""
+
+#: ../../BBD.rst:1172
+msgid "Jelenn Sphinx"
+msgstr ""
+
+#: ../../BBD.rst:1171
+msgid "Whenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:1176
+msgid "Kiss of the Amesha"
+msgstr ""
+
+#: ../../BBD.rst:1175
+msgid "Target player gains 7 life and draws two cards."
+msgstr ""
+
+#: ../../BBD.rst:1180
+msgid "Relentless Hunter"
+msgstr ""
+
+#: ../../BBD.rst:1179
+msgid "|mana_1|\\ |mana_r|\\ |mana_g|: Relentless Hunter gets +1/+1 and gains trample until end of turn."
+msgstr ""
+
+#: ../../BBD.rst:1182
+msgid "Rhox Brute"
+msgstr ""
+
+#: ../../BBD.rst:1190
+msgid "Riptide Crab"
+msgstr ""
+
+#: ../../BBD.rst:1189
+msgid "When Riptide Crab dies, draw a card."
+msgstr ""
+
+#: ../../BBD.rst:1196
+msgid "Savage Ventmaw"
+msgstr ""
+
+#: ../../BBD.rst:1195
+msgid "Whenever Savage Ventmaw attacks, add |mana_r|\\ |mana_r|\\ |mana_r|\\ |mana_g|\\ |mana_g|\\ |mana_g|. Until end of turn, you don't lose this mana as steps and phases end."
+msgstr ""
+
+#: ../../BBD.rst:1202
+msgid "Unflinching Courage"
+msgstr ""
+
+#: ../../BBD.rst:1201
+msgid "Enchanted creature gets +2/+2 and has trample and lifelink. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)"
+msgstr ""
+
+#: ../../BBD.rst:1208
+msgid "Urborg Drake"
+msgstr ""
+
+#: ../../BBD.rst:1207
+msgid "Urborg Drake attacks each combat if able."
+msgstr ""
+
+#: ../../BBD.rst:1214
+msgid "Consulate Skygate"
+msgstr ""
+
+#: ../../BBD.rst:1220
+msgid "Culling Dais"
+msgstr ""
+
+#: ../../BBD.rst:1217
+msgid "|tap|, Sacrifice a creature: Put a charge counter on Culling Dais."
+msgstr ""
+
+#: ../../BBD.rst:1219
+msgid "|mana_1|, Sacrifice Culling Dais: Draw a card for each charge counter on Culling Dais."
+msgstr ""
+
+#: ../../BBD.rst:1224
+msgid "Eager Construct"
+msgstr ""
+
+#: ../../BBD.rst:1223
+msgid "When Eager Construct enters the battlefield, each player may scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BBD.rst:1228
+msgid "Genesis Chamber"
+msgstr ""
+
+#: ../../BBD.rst:1227
+msgid "Whenever a nontoken creature enters the battlefield, if Genesis Chamber is untapped, that creature's controller creates a 1/1 colorless Myr artifact creature token."
+msgstr ""
+
+#: ../../BBD.rst:1232
+msgid "Gold-Forged Sentinel"
+msgstr ""
+
+#: ../../BBD.rst:1234
+msgid "Hexplate Golem"
+msgstr ""
+
+#: ../../BBD.rst:1242
+msgid "Juggernaut"
+msgstr ""
+
+#: ../../BBD.rst:1239
+msgid "Juggernaut attacks each combat if able."
+msgstr ""
+
+#: ../../BBD.rst:1241
+msgid "Juggernaut can't be blocked by Walls."
+msgstr ""
+
+#: ../../BBD.rst:1246
+msgid "Millennial Gargoyle"
+msgstr ""
+
+#: ../../BBD.rst:1250
+msgid "Mind's Eye"
+msgstr ""
+
+#: ../../BBD.rst:1249
+msgid "Whenever an opponent draws a card, you may pay |mana_1|. If you do, draw a card."
+msgstr ""
+
+#: ../../BBD.rst:1258
+msgid "Mycosynth Lattice"
+msgstr ""
+
+#: ../../BBD.rst:1253
+msgid "All permanents are artifacts in addition to their other types."
+msgstr ""
+
+#: ../../BBD.rst:1255
+msgid "All cards that aren't on the battlefield, spells, and permanents are colorless."
+msgstr ""
+
+#: ../../BBD.rst:1257
+msgid "Players may spend mana as though it were mana of any color."
+msgstr ""
+
+#: ../../BBD.rst:1262
+msgid "Night Market Guard"
+msgstr ""
+
+#: ../../BBD.rst:1261
+msgid "Night Market Guard can block an additional creature each combat."
+msgstr ""
+
+#: ../../BBD.rst:1266
+msgid "Peace Strider"
+msgstr ""
+
+#: ../../BBD.rst:1265
+msgid "When Peace Strider enters the battlefield, you gain 3 life."
+msgstr ""
+
+#: ../../BBD.rst:1270
+msgid "Pierce Strider"
+msgstr ""
+
+#: ../../BBD.rst:1269
+msgid "When Pierce Strider enters the battlefield, target opponent loses 3 life."
+msgstr ""
+
+#: ../../BBD.rst:1276
+msgid "Seer's Lantern"
+msgstr ""
+
+#: ../../BBD.rst:1273
+msgid "|tap|: Add |colorless|. (|colorless| represents colorless mana.)"
+msgstr ""
+
+#: ../../BBD.rst:1275
+msgid "|mana_2|, |tap|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+msgstr ""
+
+#: ../../BBD.rst:1280
+msgid "Spectral Searchlight"
+msgstr ""
+
+#: ../../BBD.rst:1279
+msgid "|tap|: Choose a player. That player adds one mana of any color they choose."
+msgstr ""
+
+#: ../../BBD.rst:1282
+msgid "Stone Golem"
+msgstr ""
+
+#: ../../BBD.rst:1288
+msgid "Tyrant's Machine"
+msgstr ""
+
+#: ../../BBD.rst:1287
+msgid "|mana_4|, |tap|: Tap target creature."
+msgstr ""
+
+#: ../../BBD.rst:1292
+msgid "Yotian Soldier"
+msgstr ""
+
+#: ../../BBD.rst:1294
+msgid "Plains"
+msgstr ""
+
+#: ../../BBD.rst:1298
+msgid "Island"
+msgstr ""
+
+#: ../../BBD.rst:1302
+msgid "Swamp"
+msgstr ""
+
+#: ../../BBD.rst:1306
+msgid "Mountain"
+msgstr ""
+
+#: ../../BBD.rst:1310
+msgid "Forest"
+msgstr ""
+

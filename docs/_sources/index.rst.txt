@@ -66,6 +66,7 @@ Pozostałe
 ---------
 
 * :doc:`Explorers of Ixalan<E02>` (0%)
+* :doc:`Battlebond<BBD>` (0%)
 * :doc:`Commander 2014<C14>` (9%)
 * :doc:`Commander 2013<C13>` (13%)
 
@@ -84,6 +85,11 @@ Warto przeczytać
 * :doc:`Nowe sposoby gry<game_variants>`
 * :doc:`Polskie lądy i żetony<polish_cards>`
 
+
+Glosariusz
+==========
+
+* :doc:`Słowniczek podstawowych pojęć oraz slangu<glossary>`
 
 Ostatnie zmiany
 ===============
@@ -139,6 +145,7 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
    SOI
    THS
    XLN
+   BBD
 
    JOU_god
    rationale
