@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-07 07:07+0100\n"
+"POT-Creation-Date: 2019-01-07 07:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,7 +37,11 @@ msgid "Ability"
 msgstr ""
 
 #: ../../glossary.rst:20
-msgid "1. Text on an object that explains what that object does or can do. 2.An activated or triggered ability on the stack. This kind of ability is an object. See rule 112, \"Abilities,\" and section 6, \"Spells, Abilities, and Effects.\""
+msgid "Text on an object that explains what that object does or can do."
+msgstr ""
+
+#: ../../glossary.rst:21
+msgid "An activated or triggered ability on the stack. This kind of ability is an object. See rule 112, \"Abilities,\" and section 6, \"Spells, Abilities, and Effects.\""
 msgstr ""
 
 #: ../../glossary.rst:22
@@ -181,7 +185,11 @@ msgid "Ante"
 msgstr ""
 
 #: ../../glossary.rst:75
-msgid "1. A zone used only when playing \"for keeps.\" 2.To put a card into the ante zone. See rule 407, \"Ante.\""
+msgid "A zone used only when playing \"for keeps.\""
+msgstr ""
+
+#: ../../glossary.rst:76
+msgid "To put a card into the ante zone. See rule 407, \"Ante.\""
 msgstr ""
 
 #: ../../glossary.rst:77
@@ -1265,7 +1273,11 @@ msgid "Draw"
 msgstr ""
 
 #: ../../glossary.rst:475
-msgid "1. To put the top card of a player's library into their hand as a turn-based action or as the result of an effect that uses the word \"draw.\" See rule 120, \"Drawing a Card.\" 2.The result of a game in which neither player wins or loses. See rule 104.4."
+msgid "To put the top card of a player's library into their hand as a turn-based action or as the result of an effect that uses the word \"draw.\" See rule 120, \"Drawing a Card.\""
+msgstr ""
+
+#: ../../glossary.rst:476
+msgid "The result of a game in which neither player wins or loses. See rule 104.4."
 msgstr ""
 
 #: ../../glossary.rst:477
@@ -1553,7 +1565,11 @@ msgid "Exile"
 msgstr ""
 
 #: ../../glossary.rst:584
-msgid "1. A zone. Exile is essentially a holding area for cards. It used to be known as the \"removed-from-the-game\" zone. 2.To put an object into the exile zone from whatever zone it's currently in. An \"exiled\" card is one that's been put into the exile zone. See rule 406, \"Exile.\""
+msgid "A zone. Exile is essentially a holding area for cards. It used to be known as the \"removed-from-the-game\" zone."
+msgstr ""
+
+#: ../../glossary.rst:585
+msgid "To put an object into the exile zone from whatever zone it's currently in. An \"exiled\" card is one that's been put into the exile zone. See rule 406, \"Exile.\""
 msgstr ""
 
 #: ../../glossary.rst:586
@@ -1609,7 +1625,15 @@ msgid "Face Down"
 msgstr ""
 
 #: ../../glossary.rst:606
-msgid "1. A card is \"face down\" if it's physically positioned so the card back is showing. Cards in some zones are normally kept face down. See section 4, \"Zones.\" 2.A status a permanent may have. See rule 110.6 and rule 702.36, \"Morph.\" 3.Face-down spells have additional rules. See rule 707, \"Face-Down Spells and Permanents,\" and rule 702.36, \"Morph.\""
+msgid "A card is \"face down\" if it's physically positioned so the card back is showing. Cards in some zones are normally kept face down. See section 4, \"Zones.\""
+msgstr ""
+
+#: ../../glossary.rst:607
+msgid "A status a permanent may have. See rule 110.6 and rule 702.36, \"Morph.\""
+msgstr ""
+
+#: ../../glossary.rst:608
+msgid "Face-down spells have additional rules. See rule 707, \"Face-Down Spells and Permanents,\" and rule 702.36, \"Morph.\""
 msgstr ""
 
 #: ../../glossary.rst:609
@@ -1617,7 +1641,11 @@ msgid "Face Up"
 msgstr ""
 
 #: ../../glossary.rst:611
-msgid "1. A card is \"face up\" if it's physically positioned so the card front is showing. Cards in some zones are normally kept face up. See section 4, \"Zones.\" 2.A default status a permanent may have. See rule 110.6 and rule 702.36, \"Morph.\""
+msgid "A card is \"face up\" if it's physically positioned so the card front is showing. Cards in some zones are normally kept face up. See section 4, \"Zones.\""
+msgstr ""
+
+#: ../../glossary.rst:612
+msgid "A default status a permanent may have. See rule 110.6 and rule 702.36, \"Morph.\""
 msgstr ""
 
 #: ../../glossary.rst:613
@@ -1865,7 +1893,11 @@ msgid "Graveyard"
 msgstr ""
 
 #: ../../glossary.rst:705
-msgid "1. A zone. A player's graveyard is their discard pile. 2.All the cards in a player's graveyard. See rule 404, \"Graveyard.\""
+msgid "A zone. A player's graveyard is their discard pile."
+msgstr ""
+
+#: ../../glossary.rst:706
+msgid "All the cards in a player's graveyard. See rule 404, \"Graveyard.\""
 msgstr ""
 
 #: ../../glossary.rst:707
@@ -1873,7 +1905,11 @@ msgid "Hand"
 msgstr ""
 
 #: ../../glossary.rst:709
-msgid "1. A zone. A player's hand is where that player holds cards they have drawn but not played yet. 2.All the cards in a player's hand. See rule 402, \"Hand.\""
+msgid "A zone. A player's hand is where that player holds cards they have drawn but not played yet."
+msgstr ""
+
+#: ../../glossary.rst:710
+msgid "All the cards in a player's hand. See rule 402, \"Hand.\""
 msgstr ""
 
 #: ../../glossary.rst:711
@@ -2378,7 +2414,11 @@ msgid "Loyalty"
 msgstr ""
 
 #: ../../glossary.rst:905
-msgid "1. Part of a card that only planeswalkers have. A planeswalker card's loyalty is printed in its lower right corner. See rule 209, \"Loyalty.\" 2.A characteristic that only planeswalkers have. See rule 306.5."
+msgid "Part of a card that only planeswalkers have. A planeswalker card's loyalty is printed in its lower right corner. See rule 209, \"Loyalty.\""
+msgstr ""
+
+#: ../../glossary.rst:906
+msgid "A characteristic that only planeswalkers have. See rule 306.5."
 msgstr ""
 
 #: ../../glossary.rst:907
@@ -2902,7 +2942,11 @@ msgid "Phase"
 msgstr ""
 
 #: ../../glossary.rst:1105
-msgid "1. A subsection of a turn. See section 5, \"Turn Structure.\" 2.A permanent \"phases in\" when its status changes from phased out to phased in. A permanent \"phases out\" when its status changes from phased in to phased out. See rule 702.25, \"Phasing.\""
+msgid "A subsection of a turn. See section 5, \"Turn Structure.\""
+msgstr ""
+
+#: ../../glossary.rst:1106
+msgid "A permanent \"phases in\" when its status changes from phased out to phased in. A permanent \"phases out\" when its status changes from phased in to phased out. See rule 702.25, \"Phasing.\""
 msgstr ""
 
 #: ../../glossary.rst:1107
@@ -3054,7 +3098,23 @@ msgid "Play"
 msgstr ""
 
 #: ../../glossary.rst:1166
-msgid "1. To play a land is to put a land onto the battlefield as a special action. See rule 115, \"Special Actions,\" and rule 305, \"Lands.\" 2.To play a card is to play that card as a land or cast that card as a spell, whichever is appropriate. See rule 601, \"Casting Spells.\" 3.(Obsolete) Casting a spell used to be known as playing a spell. Cards with that text have received errata in the Oracle card reference. See :term:`Cast`. 4.(Obsolete) Activating an activated ability used to be known as playing an activated ability. Cards with that text have received errata in the Oracle card reference. See :term:`Activate`. 5.(Obsolete) The battlefield used to be known as the in-play zone. Cards that were printed with text that contains the phrases \"in play,\" \"from play,\" \"into play,\" or the like are referring to the battlefield and have received errata in the Oracle card reference. See :term:`Battlefield`."
+msgid "To play a land is to put a land onto the battlefield as a special action. See rule 115, \"Special Actions,\" and rule 305, \"Lands.\""
+msgstr ""
+
+#: ../../glossary.rst:1167
+msgid "To play a card is to play that card as a land or cast that card as a spell, whichever is appropriate. See rule 601, \"Casting Spells.\""
+msgstr ""
+
+#: ../../glossary.rst:1168
+msgid "(Obsolete) Casting a spell used to be known as playing a spell. Cards with that text have received errata in the Oracle card reference. See :term:`Cast`."
+msgstr ""
+
+#: ../../glossary.rst:1169
+msgid "(Obsolete) Activating an activated ability used to be known as playing an activated ability. Cards with that text have received errata in the Oracle card reference. See :term:`Activate`."
+msgstr ""
+
+#: ../../glossary.rst:1170
+msgid "(Obsolete) The battlefield used to be known as the in-play zone. Cards that were printed with text that contains the phrases \"in play,\" \"from play,\" \"into play,\" or the like are referring to the battlefield and have received errata in the Oracle card reference. See :term:`Battlefield`."
 msgstr ""
 
 #: ../../glossary.rst:1171
@@ -3118,7 +3178,12 @@ msgid "Power"
 msgstr ""
 
 #: ../../glossary.rst:1194
-msgid "1. Part of a card that only creatures have. A creature card's power is printed before the slash in its lower right corner. See rule 208, \"Power/Toughness.\" 2.A characteristic that only creatures have. See rule 302.4."
+msgid "Part of a card that only creatures have. A creature card's power is printed before the slash in its lower right corner. See rule 208, \"Power/Toughness.\""
+msgstr ""
+
+#: ../../glossary.rst:1195
+#: ../../glossary.rst:1537
+msgid "A characteristic that only creatures have. See rule 302.4."
 msgstr ""
 
 #: ../../glossary.rst:1196
@@ -4018,7 +4083,7 @@ msgid "Toughness"
 msgstr ""
 
 #: ../../glossary.rst:1536
-msgid "1. Part of a card that only creatures have. A creature card's toughness is printed after the slash in its lower right corner. See rule 208, \"Power/Toughness.\" 2.A characteristic that only creatures have. See rule 302.4."
+msgid "Part of a card that only creatures have. A creature card's toughness is printed after the slash in its lower right corner. See rule 208, \"Power/Toughness.\""
 msgstr ""
 
 #: ../../glossary.rst:1538
@@ -4154,7 +4219,11 @@ msgid "Type"
 msgstr ""
 
 #: ../../glossary.rst:1588
-msgid "1. An object's card type or, more broadly, its card type, subtype, and/or supertype. See rule 205, \"Type Line,\" and section 3, \"Card Types.\" 2.An attribute mana has. See rule 106, \"Mana.\""
+msgid "An object's card type or, more broadly, its card type, subtype, and/or supertype. See rule 205, \"Type Line,\" and section 3, \"Card Types.\""
+msgstr ""
+
+#: ../../glossary.rst:1589
+msgid "An attribute mana has. See rule 106, \"Mana.\""
 msgstr ""
 
 #: ../../glossary.rst:1590
@@ -4306,7 +4375,11 @@ msgid "Vanguard"
 msgstr ""
 
 #: ../../glossary.rst:1646
-msgid "1. A casual variant in which each player plays the role of a famous character. See rule 902, \"Vanguard.\" 2.A card type seen only on nontraditional Magic cards in the Vanguard casual variant. A vanguard card is not a permanent. See rule 311, \"Vanguards.\""
+msgid "A casual variant in which each player plays the role of a famous character. See rule 902, \"Vanguard.\""
+msgstr ""
+
+#: ../../glossary.rst:1647
+msgid "A card type seen only on nontraditional Magic cards in the Vanguard casual variant. A vanguard card is not a permanent. See rule 311, \"Vanguards.\""
 msgstr ""
 
 #: ../../glossary.rst:1648

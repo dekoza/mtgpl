@@ -18,7 +18,7 @@ Oznacznia reguł odnoszą się do pełnych zasad gry *Magic*, które zostaną ud
 
    Ability
       1. Text on an object that explains what that object does or can do.
-      2.An activated or triggered ability on the stack. This kind of ability is an object. See rule 112, "Abilities," and section 6, "Spells, Abilities, and Effects."
+      2. An activated or triggered ability on the stack. This kind of ability is an object. See rule 112, "Abilities," and section 6, "Spells, Abilities, and Effects."
 
    Ability Word
       An italicized word with no rules meaning that ties together abilities on different cards that have similar functionality. See rule 207.2c.
@@ -73,7 +73,7 @@ Oznacznia reguł odnoszą się do pełnych zasad gry *Magic*, które zostaną ud
 
    Ante
       1. A zone used only when playing "for keeps."
-      2.To put a card into the ante zone. See rule 407, "Ante."
+      2. To put a card into the ante zone. See rule 407, "Ante."
 
    Any Target
       A spell or ability may require "any target." "Any target" is the same as "target creature, player, or planeswalker." See rule 114.4.
@@ -473,7 +473,7 @@ Oznacznia reguł odnoszą się do pełnych zasad gry *Magic*, które zostaną ud
 
    Draw
       1. To put the top card of a player's library into their hand as a turn-based action or as the result of an effect that uses the word "draw." See rule 120, "Drawing a Card."
-      2.The result of a game in which neither player wins or loses. See rule 104.4.
+      2. The result of a game in which neither player wins or loses. See rule 104.4.
 
    Draw Step
       Part of the turn. This step is the third and final step of the beginning phase. See rule 504, "Draw Step."
@@ -582,7 +582,7 @@ Oznacznia reguł odnoszą się do pełnych zasad gry *Magic*, które zostaną ud
 
    Exile
       1. A zone. Exile is essentially a holding area for cards. It used to be known as the "removed-from-the-game" zone.
-      2.To put an object into the exile zone from whatever zone it's currently in. An "exiled" card is one that's been put into the exile zone. See rule 406, "Exile."
+      2. To put an object into the exile zone from whatever zone it's currently in. An "exiled" card is one that's been put into the exile zone. See rule 406, "Exile."
 
    Expansion Symbol
       A card's expansion symbol is a small icon normally printed below the right edge of the illustration that has no effect on game play. See rule 206, "Expansion Symbol."
@@ -604,12 +604,12 @@ Oznacznia reguł odnoszą się do pełnych zasad gry *Magic*, które zostaną ud
 
    Face Down
       1. A card is "face down" if it's physically positioned so the card back is showing. Cards in some zones are normally kept face down. See section 4, "Zones."
-      2.A status a permanent may have. See rule 110.6 and rule 702.36, "Morph."
-      3.Face-down spells have additional rules. See rule 707, "Face-Down Spells and Permanents," and rule 702.36, "Morph."
+      2. A status a permanent may have. See rule 110.6 and rule 702.36, "Morph."
+      3. Face-down spells have additional rules. See rule 707, "Face-Down Spells and Permanents," and rule 702.36, "Morph."
 
    Face Up
       1. A card is "face up" if it's physically positioned so the card front is showing. Cards in some zones are normally kept face up. See section 4, "Zones."
-      2.A default status a permanent may have. See rule 110.6 and rule 702.36, "Morph."
+      2. A default status a permanent may have. See rule 110.6 and rule 702.36, "Morph."
 
    Fading
       A keyword ability that limits how long a permanent remains on the battlefield. See rule 702.31, "Fading."
@@ -703,11 +703,11 @@ Oznacznia reguł odnoszą się do pełnych zasad gry *Magic*, które zostaną ud
 
    Graveyard
       1. A zone. A player's graveyard is their discard pile.
-      2.All the cards in a player's graveyard. See rule 404, "Graveyard."
+      2. All the cards in a player's graveyard. See rule 404, "Graveyard."
 
    Hand
       1. A zone. A player's hand is where that player holds cards they have drawn but not played yet.
-      2.All the cards in a player's hand. See rule 402, "Hand."
+      2. All the cards in a player's hand. See rule 402, "Hand."
 
    Hand Modifier
       A characteristic that only vanguards have. See rule 210, "Hand Modifier."
@@ -903,7 +903,7 @@ Oznacznia reguł odnoszą się do pełnych zasad gry *Magic*, które zostaną ud
 
    Loyalty
       1. Part of a card that only planeswalkers have. A planeswalker card's loyalty is printed in its lower right corner. See rule 209, "Loyalty."
-      2.A characteristic that only planeswalkers have. See rule 306.5.
+      2. A characteristic that only planeswalkers have. See rule 306.5.
 
    Loyalty Ability
       An activated ability with a loyalty symbol in its cost. See rule 606, "Loyalty Abilities."
@@ -1103,7 +1103,7 @@ Oznacznia reguł odnoszą się do pełnych zasad gry *Magic*, które zostaną ud
 
    Phase
       1. A subsection of a turn. See section 5, "Turn Structure."
-      2.A permanent "phases in" when its status changes from phased out to phased in. A permanent "phases out" when its status changes from phased in to phased out. See rule 702.25, "Phasing."
+      2. A permanent "phases in" when its status changes from phased out to phased in. A permanent "phases out" when its status changes from phased in to phased out. See rule 702.25, "Phasing."
 
    Phased In, Phased Out
       A status a permanent may have. Phased-in is the default status. Phased-out permanents are treated as though they do not exist. See rule 110.6 and rule 702.25, "Phasing." ("Phased-out" was a zone in older versions of the rules.)
@@ -1164,10 +1164,10 @@ Oznacznia reguł odnoszą się do pełnych zasad gry *Magic*, które zostaną ud
 
    Play
       1. To play a land is to put a land onto the battlefield as a special action. See rule 115, "Special Actions," and rule 305, "Lands."
-      2.To play a card is to play that card as a land or cast that card as a spell, whichever is appropriate. See rule 601, "Casting Spells."
-      3.(Obsolete) Casting a spell used to be known as playing a spell. Cards with that text have received errata in the Oracle card reference. See :term:`Cast`.
-      4.(Obsolete) Activating an activated ability used to be known as playing an activated ability. Cards with that text have received errata in the Oracle card reference. See :term:`Activate`.
-      5.(Obsolete) The battlefield used to be known as the in-play zone. Cards that were printed with text that contains the phrases "in play," "from play," "into play," or the like are referring to the battlefield and have received errata in the Oracle card reference. See :term:`Battlefield`.
+      2. To play a card is to play that card as a land or cast that card as a spell, whichever is appropriate. See rule 601, "Casting Spells."
+      3. (Obsolete) Casting a spell used to be known as playing a spell. Cards with that text have received errata in the Oracle card reference. See :term:`Cast`.
+      4. (Obsolete) Activating an activated ability used to be known as playing an activated ability. Cards with that text have received errata in the Oracle card reference. See :term:`Activate`.
+      5. (Obsolete) The battlefield used to be known as the in-play zone. Cards that were printed with text that contains the phrases "in play," "from play," "into play," or the like are referring to the battlefield and have received errata in the Oracle card reference. See :term:`Battlefield`.
 
    Player
       One of the people in the game. See rule 102, "Players."
@@ -1192,7 +1192,7 @@ Oznacznia reguł odnoszą się do pełnych zasad gry *Magic*, które zostaną ud
 
    Power
       1. Part of a card that only creatures have. A creature card's power is printed before the slash in its lower right corner. See rule 208, "Power/Toughness."
-      2.A characteristic that only creatures have. See rule 302.4.
+      2. A characteristic that only creatures have. See rule 302.4.
 
    Precombat Main Phase
       The first main phase of a turn. See :term:`Main Phase`.
@@ -1534,7 +1534,7 @@ Oznacznia reguł odnoszą się do pełnych zasad gry *Magic*, które zostaną ud
 
    Toughness
       1. Part of a card that only creatures have. A creature card's toughness is printed after the slash in its lower right corner. See rule 208, "Power/Toughness."
-      2.A characteristic that only creatures have. See rule 302.4.
+      2. A characteristic that only creatures have. See rule 302.4.
 
    Tournament
       An organized play activity where players compete against other players. See rule 100.6.
@@ -1586,7 +1586,7 @@ Oznacznia reguł odnoszą się do pełnych zasad gry *Magic*, które zostaną ud
 
    Type
       1. An object's card type or, more broadly, its card type, subtype, and/or supertype. See rule 205, "Type Line," and section 3, "Card Types."
-      2.An attribute mana has. See rule 106, "Mana."
+      2. An attribute mana has. See rule 106, "Mana."
 
    Type Icon
       An icon that appears in the upper left of some Future Sight cards that has no effect on game play. See rule 107.10.
@@ -1644,7 +1644,7 @@ Oznacznia reguł odnoszą się do pełnych zasad gry *Magic*, które zostaną ud
 
    Vanguard
       1. A casual variant in which each player plays the role of a famous character. See rule 902, "Vanguard."
-      2.A card type seen only on nontraditional Magic cards in the Vanguard casual variant. A vanguard card is not a permanent. See rule 311, "Vanguards."
+      2. A card type seen only on nontraditional Magic cards in the Vanguard casual variant. A vanguard card is not a permanent. See rule 311, "Vanguards."
 
    Vanishing
       A keyword ability that limits how long a permanent remains on the battlefield. See rule 702.62, "Vanishing."
