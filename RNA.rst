@@ -155,6 +155,10 @@ Rampage of the Clans
    Destroy all artifacts and enchantments. For each permanent destroyed this way, its controller creates a 3/3 green Centaur creature token.
 
 
+Silhana Guide
+   When Silhana Guide enters the battlefield, look at the top four cards of your library. You may reveal a creature or land card from among them and put it on top of your library. Put the rest on the bottom of your library in a random order.
+
+
 Titanic Brawl
    This spell costs |mana_1| less to cast if it targets a creature you control with a +1/+1 counter on it.
 
@@ -289,6 +293,12 @@ Mortify
    Destroy target creature or enchantment.
 
 
+Nikya of the Old Ways
+   You can't cast noncreature spells.
+
+   Whenever you tap a land for mana, add one mana of any type that land produced.
+
+
 Pitiless Pontiff
    |mana_1|, Sacrifice another creature: Pitiless Pontiff gains deathtouch and indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
 
@@ -345,6 +355,12 @@ Simic Ascendancy
    Whenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on Simic Ascendancy.
 
    At the beginning of your upkeep, if Simic Ascendancy has twenty or more growth counters on it, you win the game.
+
+
+Sphinx of New Prahv
+   Flying, vigilance
+
+   Spells your opponents cast that target Sphinx of New Prahv cost |mana_2| more to cast.
 
 
 Sphinx's Insight
