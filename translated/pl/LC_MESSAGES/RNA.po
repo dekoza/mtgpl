@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-09 22:36+0100\n"
-"PO-Revision-Date: 2019-01-07 12:58+0000\n"
+"PO-Revision-Date: 2019-01-09 21:46+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/rna/pl/>\n"
 "Language: pl\n"
@@ -25,8 +25,9 @@ msgid "Ravnica Allegiance (spoiler)"
 msgstr "Ravnica Allegiance (spoiler)"
 
 #: ../../RNA.rst:16
+#, fuzzy
 msgid "Angel of Grace"
-msgstr ""
+msgstr "Angel of Grace"
 
 #: ../../RNA.rst:9 ../../RNA.rst:435
 msgid "Flash"
@@ -43,12 +44,16 @@ msgid ""
 "When Angel of Grace enters the battlefield, until end of turn, damage that "
 "would reduce your life total to less than 1 reduces it to 1 instead."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, do końca tury obrażenia mogące "
+"zredukować twoje punkty życia do mniej niż 1 zamiast tego redukują je do 1."
 
 #: ../../RNA.rst:15
 msgid ""
 "|mana_4|\\ |mana_w|\\ |mana_w|, Exile Angel of Grace from your graveyard: "
 "Your life total becomes 10."
 msgstr ""
+"|mana_4|\\ |mana_w|\\ |mana_w|, wygnaj tę kartę z twojego cmentarza: Twoje "
+"punkty życia otrzymują wartość 10."
 
 #: ../../RNA.rst:20
 #, fuzzy
@@ -64,8 +69,9 @@ msgstr ""
 "gdzie X jest liczbą stworów pod twoim władaniem."
 
 #: ../../RNA.rst:26
+#, fuzzy
 msgid "Archway Angel"
-msgstr ""
+msgstr "Archway Angel"
 
 #: ../../RNA.rst:25
 #, fuzzy
@@ -77,18 +83,21 @@ msgstr ""
 "obrażenia, a ty zyskujesz 2 życia."
 
 #: ../../RNA.rst:30
+#, fuzzy
 msgid "Hero of Precinct One"
-msgstr ""
+msgstr "Hero of Precinct One"
 
 #: ../../RNA.rst:29
 msgid ""
 "Whenever you cast a multicolored spell, create a 1/1 white Human creature "
 "token."
 msgstr ""
+"Ilekroć rzucasz wielokolorowy czar, stwórz żeton białego stwora Człowiek 1/1."
 
 #: ../../RNA.rst:38
+#, fuzzy
 msgid "Lumbering Battlement"
-msgstr ""
+msgstr "Lumbering Battlement"
 
 #: ../../RNA.rst:33 ../../RNA.rst:493
 msgid "Vigilance"
@@ -99,14 +108,18 @@ msgid ""
 "When Lumbering Battlement enters the battlefield, exile any number of other "
 "nontoken creatures you control until it leaves the battlefield."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wygnaj dowolną liczbę innych "
+"nieżetonowych stworów pod twoim władaniem dopóki ta karta nie opuści pola "
+"walki."
 
 #: ../../RNA.rst:37
 msgid "Lumbering Battlement gets +2/+2 for each card exiled with it."
-msgstr ""
+msgstr "Ten stwór dostaje +2/+2 za każdą kartę wygnaną z jego pomocą."
 
 #: ../../RNA.rst:42
+#, fuzzy
 msgid "Ministrant of Obligation"
-msgstr ""
+msgstr "Ministrant of Obligation"
 
 #: ../../RNA.rst:41
 #, fuzzy
@@ -168,7 +181,7 @@ msgstr ""
 
 #: ../../RNA.rst:64
 msgid "Unbreakable Formation"
-msgstr ""
+msgstr "Unbreakable Formation (Niezłomna formacja)"
 
 #: ../../RNA.rst:61
 #, fuzzy
@@ -186,8 +199,9 @@ msgstr ""
 "3, następnie dobierz trzy karty."
 
 #: ../../RNA.rst:70
+#, fuzzy
 msgid "Arrester's Admonition"
-msgstr ""
+msgstr "Arrester's Admonition"
 
 #: ../../RNA.rst:67
 #, fuzzy
@@ -201,8 +215,9 @@ msgstr ""
 "Dopisek — Jeśli rzucasz ten czar w twojej fazie głównej, zyskujesz 2 życia."
 
 #: ../../RNA.rst:76
+#, fuzzy
 msgid "Benthic Biomancer"
-msgstr ""
+msgstr "Benthic Biomancer"
 
 #: ../../RNA.rst:73
 #, fuzzy
@@ -223,8 +238,9 @@ msgstr ""
 "twoim władaniem, umieść tyle samo znaczników wzrostu na tym permanencie."
 
 #: ../../RNA.rst:80
+#, fuzzy
 msgid "Essence Capture"
-msgstr ""
+msgstr "Essence Capture"
 
 #: ../../RNA.rst:79
 #, fuzzy
@@ -257,8 +273,9 @@ msgid "Gain control of X target creatures and/or planeswalkers."
 msgstr "Zyskujesz władanie nad X wskazanymi stworami i/lub wędrowcami."
 
 #: ../../RNA.rst:94
+#, fuzzy
 msgid "Mesmerizing Benthid"
-msgstr ""
+msgstr "Mesmerizing Benthid"
 
 #: ../../RNA.rst:91
 msgid ""
@@ -266,10 +283,13 @@ msgid ""
 "Illusion creature tokens with \"Whenever this creature blocks a creature, "
 "that creature doesn't untap during its controller's next untap step.\""
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, stwórz dwa żetony niebieskiego stwora "
+"Iluzja 0/2 ze zdolnością \"Ilekroć ten stwór blokuje stwora, ów stwór nie "
+"odznacza się w najbliższym kroku oznaczania swojego władcy.\""
 
 #: ../../RNA.rst:93
 msgid "Mesmerizing Benthid has hexproof as long as you control an Illusion."
-msgstr ""
+msgstr "Ten permanent ma antyklątwę dopóki władasz Iluzją."
 
 #: ../../RNA.rst:100
 #, fuzzy
@@ -289,8 +309,9 @@ msgstr ""
 "3, następnie dobierz trzy karty."
 
 #: ../../RNA.rst:106
+#, fuzzy
 msgid "Pteramander"
-msgstr ""
+msgstr "Pteramander"
 
 #: ../../RNA.rst:105
 #, fuzzy
@@ -311,8 +332,9 @@ msgid "Counter target spell unless its controller pays |mana_2|."
 msgstr "Skontruj wskazany czar o ile jego władca nie dopłaci |mana_2|."
 
 #: ../../RNA.rst:116
+#, fuzzy
 msgid "Skatewing Spy"
-msgstr ""
+msgstr "Skatewing Spy"
 
 #: ../../RNA.rst:113
 #, fuzzy
@@ -363,8 +385,9 @@ msgid "|mana_4|\\ |mana_u|: Tap target creature without flying."
 msgstr "|mana_4|\\ |mana_u|: Zatapuj wskazanego stwora bez latania."
 
 #: ../../RNA.rst:136
+#, fuzzy
 msgid "Windstorm Drake"
-msgstr ""
+msgstr "Windstorm Drake"
 
 #: ../../RNA.rst:135
 #, fuzzy
@@ -372,14 +395,17 @@ msgid "Other creatures you control with flying get +1/+0."
 msgstr "Inne stwory pod twoim władaniem mają +1/+0."
 
 #: ../../RNA.rst:140
+#, fuzzy
 msgid "Awaken the Erstwhile"
-msgstr ""
+msgstr "Awaken the Erstwhile"
 
 #: ../../RNA.rst:139
 msgid ""
 "Each player discards all the cards in their hand, then creates that many 2/2 "
 "black Zombie creature tokens."
 msgstr ""
+"Każdy gracz odrzuca wszystkie karty ze swojej ręki, następnie tworzy tyle "
+"samo żetonów czarnego stwora Zombi 2/2."
 
 #: ../../RNA.rst:146
 #, fuzzy
@@ -447,18 +473,22 @@ msgstr ""
 "gracz odrzuca ową kartę."
 
 #: ../../RNA.rst:168
+#, fuzzy
 msgid "Font of Agonies"
-msgstr ""
+msgstr "Font of Agonies"
 
 #: ../../RNA.rst:165
 msgid "Whenever you pay life, put that many blood counters on Font of Agonies."
 msgstr ""
+"Ilekroć płacisz życiem, umieść tyle samo znaczników krwi na tym permanencie."
 
 #: ../../RNA.rst:167
 msgid ""
 "|mana_1|\\ |mana_b|, Remove four blood counters from Font of Agonies: "
 "Destroy target creature."
 msgstr ""
+"|mana_1|\\ |mana_b|, usuń cztery znaczniki krwi z tego permanentu: Zniszcz "
+"wskazanego stwora."
 
 #: ../../RNA.rst:174
 #, fuzzy
@@ -584,8 +614,9 @@ msgstr ""
 "ujawnione karty na spodzie twojej biblioteki w losowej kolejności."
 
 #: ../../RNA.rst:208
+#, fuzzy
 msgid "Burn Bright"
-msgstr ""
+msgstr "Burn Bright"
 
 #: ../../RNA.rst:207
 #, fuzzy
