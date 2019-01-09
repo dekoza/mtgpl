@@ -5,18 +5,78 @@ Ravnica Allegiance (spoiler)
 ============================
 
 
+Angel of Grace
+   Flash
+
+   Flying
+
+   When Angel of Grace enters the battlefield, until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.
+
+   |mana_4|\ |mana_w|\ |mana_w|, Exile Angel of Grace from your graveyard: Your life total becomes 10.
+
+
 Angelic Exaltation
    Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of creatures you control.
+
+
+Archway Angel
+   Flying
+
+   When Archway Angel enters the battlefield, you gain 2 life for each Gate you control.
+
+
+Hero of Precinct One
+   Whenever you cast a multicolored spell, create a 1/1 white Human creature token.
+
+
+Lumbering Battlement
+   Vigilance
+
+   When Lumbering Battlement enters the battlefield, exile any number of other nontoken creatures you control until it leaves the battlefield.
+
+   Lumbering Battlement gets +2/+2 for each card exiled with it.
+
+
+Ministrant of Obligation
+   Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature token with flying.)
 
 
 Smothering Tithe
    Whenever an opponent draws a card, that player may pay |mana_2|. If the player doesn't, you create a colorless Treasure artifact token with "|tap|, Sacrifice this artifact: Add one mana of any color."
 
 
+Spirit of the Spires
+   Flying
+
+   Other creatures you control with flying get +0/+1.
+
+
 Tithe Taker
    During your turn, spells your opponents cast cost |mana_1| more to cast and abilities your opponents activate cost |mana_1| more to activate unless they're mana abilities.
 
    Afterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)
+
+
+Unbreakable Formation
+   Creatures you control gain indestructible until end of turn.
+
+   Addendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures, and they also gain vigilance until end of turn.
+
+
+Arrester's Admonition
+   Return target creature to its owner's hand.
+
+   Addendum — If you cast this spell during your main phase, draw a card.
+
+
+Benthic Biomancer
+   |mana_1|\ |mana_u|: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)
+
+   Whenever one or more +1/+1 counters are put on Benthic Biomancer, draw a card, then discard a card.
+
+
+Essence Capture
+   Counter target creature spell. Put a +1/+1 counter on up to one target creature you control.
 
 
 Humongulus
@@ -27,14 +87,32 @@ Mass Manipulation
    Gain control of X target creatures and/or planeswalkers.
 
 
+Mesmerizing Benthid
+   When Mesmerizing Benthid enters the battlefield, create two 0/2 blue Illusion creature tokens with "Whenever this creature blocks a creature, that creature doesn't untap during its controller's next untap step."
+
+   Mesmerizing Benthid has hexproof as long as you control an Illusion.
+
+
 Precognitive Perception
    Draw three cards.
 
    Addendum — If you cast this spell during your main phase, instead scry 3, then draw three cards.
 
 
+Pteramander
+   Flying
+
+   |mana_7|\ |mana_u|: Adapt 4. This ability costs |mana_1| less to activate for each instant and sorcery card in your graveyard. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)
+
+
 Quench
    Counter target spell unless its controller pays |mana_2|.
+
+
+Skatewing Spy
+   |mana_5|\ |mana_u|: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)
+
+   Each creature you control with a +1/+1 counter on it has flying.
 
 
 Sphinx of Foresight
@@ -49,6 +127,16 @@ Verity Circle
    Whenever a creature an opponent controls becomes tapped, if it isn't being declared as an attacker, you may draw a card.
 
    |mana_4|\ |mana_u|: Tap target creature without flying.
+
+
+Windstorm Drake
+   Flying
+
+   Other creatures you control with flying get +1/+0.
+
+
+Awaken the Erstwhile
+   Each player discards all the cards in their hand, then creates that many 2/2 black Zombie creature tokens.
 
 
 Bankrupt in Blood
@@ -73,10 +161,28 @@ Drill Bit
    Target player reveals their hand. You choose a nonland card from it. That player discards that card.
 
 
+Font of Agonies
+   Whenever you pay life, put that many blood counters on Font of Agonies.
+
+   |mana_1|\ |mana_b|, Remove four blood counters from Font of Agonies: Destroy target creature.
+
+
 Gutterbones
    Gutterbones enters the battlefield tapped.
 
    |mana_1|\ |mana_b|: Return Gutterbones from your graveyard to your hand. Activate this ability only during your turn and only if an opponent lost life this turn.
+
+
+"Knife to meet you"
+   Deathtouch
+
+   Afterlife 1. (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)
+
+
+Orzhov Racketeers
+   Whenever Orzhov Racketeers deals combat damage to a player, that player discards a card.
+
+   Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.)
 
 
 Pestilent Spirit
@@ -97,8 +203,12 @@ Amplifire
    At the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature card. Until your next turn, Amplifire's base power becomes twice that card's power and its base toughness becomes twice that card's toughness. Put the revealed cards on the bottom of your library in a random order.
 
 
+Burn Bright
+   Creatures you control get +2/+0 until end of turn.
+
+
 Burning-Tree Vandal
-   Riot (This creature enters the battlefield with your choice of a +1/+ counter or haste.)
+   Riot (This creature enters the battlefield with your choice of a +1/1+ counter or haste.)
 
    Whenever Burning-Tree Vandal attacks, you may discard a card. If you do, draw a card.
 
@@ -107,10 +217,24 @@ Electrodominance
    Electrodominance deals X damage to any target. You may cast a card with converted mana cost X or less from your hand without paying its mana cost.
 
 
+Gates Ablaze
+   Gates Ablaze deals X damage to each creature, where X is the number of Gates you control.
+
+
+Immolation Shaman
+   Whenever an opponent activates an ability of an artifact, creature, or land that isn't a mana ability, Immolation Shaman deals 1 damage to that player.
+
+   |mana_3|\ |mana_r|\ |mana_r|: Immolation Shaman gets +3/+3 and gains menace until end of turn.
+
+
 Light Up the Stage
    Spectacle |mana_r| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 
    Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+
+
+Mirror March
+   Whenever a nontoken creature enters the battlefield under your control, flip a coin until you lose a flip. For each flip you won, create a token that's a copy of that creature. Those tokens gain haste. Exile them at the beginning of the next end step.
 
 
 Rix Maadi Reveler
@@ -119,12 +243,22 @@ Rix Maadi Reveler
    When Rix Maadi Reveler enters the battlefield, discard a card, then draw a card. If Rix Maadi Reveler's spectacle cost was paid, instead discard your hand, then draw three cards.
 
 
+"#branding"
+   "#branding" deals 2 damage to target creature. If that creature would die this turn, exile it instead.
+
+
 Skarrgan Hellkite
    Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
 
    Flying
 
    |mana_3|\ |mana_r|: Skarrgan Hellkite deals 2 damage divided as you choose among one or two targets. Activate this ability only if Skarrgan Hellkite has a +1/+1 counter on it.
+
+
+Skewer the Critics
+   Spectacle |mana_r| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+
+   Skewer the Critics deals 3 damage to any target.
 
 
 Smelt-Ward Ignus
@@ -147,7 +281,13 @@ Growth-Chamber Guardian
    Whenever one or more +1/+1 counters are put on Growth-Chamber Guardian, you may search your library for a card named Growth-Chamber Guardian, reveal it, put it into your hand, then shuffle your library.
 
 
-"Mutant, NM, Pack Fresh"
+Gruul Beastmaster
+   Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+
+   Whenever Gruul Beastmaster attacks, another target creature you control gets +X/+0 until end of turn, where X is Gruul Beastmaster's power.
+
+
+Guardian Project
    Whenever a nontoken creature enters the battlefield under your control, if that creature does not have the same name as another creature you control or a creature card in your graveyard, draw a card.
 
 
@@ -155,14 +295,24 @@ Rampage of the Clans
    Destroy all artifacts and enchantments. For each permanent destroyed this way, its controller creates a 3/3 green Centaur creature token.
 
 
-Silhana Guide
-   When Silhana Guide enters the battlefield, look at the top four cards of your library. You may reveal a creature or land card from among them and put it on top of your library. Put the rest on the bottom of your library in a random order.
+Sauroform Hybrid
+   |mana_4|\ |mana_g|\ |mana_g|: Adapt 4. (If this creature has no +1/+1 counters on it, put four +1/+1 counter on it.)
+
+
+Silhana Wayfinder
+   When Silhana Wayfinder enters the battlefield, look at the top four cards of your library. You may reveal a creature or land card from among them and put it on top of your library. Put the rest on the bottom of your library in a random order.
 
 
 Titanic Brawl
    This spell costs |mana_1| less to cast if it targets a creature you control with a +1/+1 counter on it.
 
    Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)
+
+
+Trollbred Guardian
+   |mana_2|\ |mana_g|: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)
+
+   Each creature you control with a +1/+1 counter on it has trample.
 
 
 Wilderness Reclamation
@@ -177,6 +327,12 @@ Aeromunculus
    Flying
 
    |mana_2|\ |mana_g|\ |mana_u|: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)
+
+
+Azorius Skyguard
+   Flying, first strike
+
+   Creatures your opponents control get -1/-0.
 
 
 Basilica Bell-Haunt
@@ -197,8 +353,40 @@ Bolrac-Clan Crusher
    |tap|, Remove a +1/+1 counter from a creature you control: Bolrac-Clan Crusher deals 2 damage to any target.
 
 
+"Whiplash"
+   Whenever an opponent casts a noncreature spell, "Whiplash" deals 1 damage to that player.
+
+   |mana_1|, Sacrifice "Whiplash": Destroy target artifact or enchantment. "Whiplash" deals 2 damage to that permanent's controller.
+
+
+Clan Guildmage
+   |mana_1|\ |mana_r|, |tap|: Target creature can't block this turn.
+
+   |mana_2|\ |mana_g|, |tap|: Target land you control becomes a 4/4 Elemental creature with haste until end of turn. It's still a land.
+
+
+Combine Guildmage
+   |mana_1|\ |mana_g|, |tap|: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.
+
+   |mana_1|\ |mana_u|, |tap|: Move a +1/+1 counter from target creature you control onto another target creature you control.
+
+
+Cult Guildmage
+   |mana_3|\ |mana_b|, |tap|: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+
+   |mana_r|, |tap|: Cult Guildmage deals 1 damage to target opponent or planeswalker.
+
+
 Deputy of Detention
    When Deputy of Detention enters the battlefield, exile target nonland permanent an opponent controls and all other nonland permanents that player controls with the same name as that permanent until Deputy of Detention leaves the battlefield.
+
+
+Domri, Chaos Bringer
+   +1: Add |mana_r| or |mana_g|. If that mana is spent on a creature spell, it gains riot.
+
+   −3: Look at the top four cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+
+   −8: You get an emblem with "At the beginning of each end step, create a 4/4 red and green Beast creature token with trample."
 
 
 Dovin, Grand Arbiter
@@ -209,10 +397,30 @@ Dovin, Grand Arbiter
    -7: Look at the top ten cards of your library. Put three of them into your hand and the rest on the bottom of your library in a random order.
 
 
+Dovin's Acuity
+   When Dovin's Acuity enters the battlefield, you gain 2 life and draw a card.
+
+   Whenever you cast an instant spell during your main phase, you may return Dovin's Acuity to its owner's hand.
+
+
 Emergency Powers
    Each player shuffles their hand and graveyard into their library, then draws seven cards. Exile Emergency Powers.
 
    Addendum — If you cast this spell during your main phase, you may put a permanent card with converted mana cost 7 or less from your hand onto the battlefield.
+
+
+Ethereal Absolution
+   Creatures you control get +1/+1.
+
+   Creatures your opponents control get -1/-1.
+
+   |mana_2|\ |mana_w|\ |mana_b|: Exile target card from an opponent's graveyard. If it was a creature card, you create a 1/1 white and black Spirit creature token with flying.
+
+
+Fireblade Artist
+   Haste
+
+   At the beginning of your upkeep, you may sacrifice a creature. When you do, Fireblade Artist deals 2 damage to target opponent or planeswalker.
 
 
 Frenzied Arynx
@@ -227,6 +435,12 @@ Frilled Mystic
    Flash
 
    When Frilled Mystic enters the battlefield, you may counter target spell.
+
+
+Galloping Lizrog
+   Trample
+
+   When Galloping Lizrog enters the battlefield, you may remove any number of +1/+1 counters from among creatures you control. If you do, put twice that many +1/+1 counters on Galloping Lizrog.
 
 
 Grasping Thrull
@@ -245,6 +459,18 @@ Gruul Spellbreaker
    Trample
 
    As long as it's your turn, you and Gruul Spellbreaker have hexproof.
+
+
+Gyre Engineer
+   |tap|: Add |mana_g|\ |mana_u|.
+
+
+Hackrobat
+   Spectacle |mana_b|\ |mana_r| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+
+   |mana_b|: Hackrobat gains deathtouch until end of turn.
+
+   |mana_r|: Hackrobat gets +2/-2 until end of turn.
 
 
 High Alert
@@ -283,6 +509,10 @@ Kaya, Orzhov Usurper
    -5: Kaya, Orzhov Usurper deals damage to target player equal to the number of cards that player owns in exile and you gain that much life.
 
 
+Kaya's Wrath
+   Destroy all creatures. You gain life equal to the number of creatures you controlled that were destroyed this way.
+
+
 Lavinia, Azorius Renegade
    Each opponent can't cast noncreature spells with converted mana cost greater than the number of lands that player controls.
 
@@ -317,6 +547,10 @@ Rakdos Firewheeler
    When Rakdos Firewheeler enters the battlefield, it deals 2 damage to target opponent and 2 damage to up to one target creature or planeswalker.
 
 
+Rakdos Roustabout
+   Whenever Rakdos Roustabout becomes blocked, it deals 1 damage to the player or planeswalker it's attacking.
+
+
 Rakdos, the Showstopper
    Flying, trample
 
@@ -333,10 +567,20 @@ Ravager Wurm
    • Destroy target land with an activated ability that isn't a mana ability.
 
 
-"He called me Mister Pig!"
+Rhythm of the Wild
    Creature spells you control can't be countered.
 
    Nontoken creatures you control have riot. (They enter the battlefield with your choice of a +1/+1 counter or haste.)
+
+
+Savage Smash
+   Target creature you control gets +2/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.)
+
+
+Senate Guildmage
+   |mana_w|, |tap|: You gain 2 life.
+
+   |mana_u|, |tap|: Draw a card, then discard a card.
 
 
 Seraph of the Scales
@@ -347,6 +591,12 @@ Seraph of the Scales
    |mana_b|: Seraph of the Scales gains deathtouch until end of turn.
 
    Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.)
+
+
+Sharktocrab
+   |mana_2|\ |mana_g|\ |mana_u|: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)
+
+   Whenever one or more +1/+1 counter are put on Sharktocrab, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
 
 
 Simic Ascendancy
@@ -369,10 +619,24 @@ Sphinx's Insight
    Addendum — If you cast this spell during your main phase, you gain 2 life.
 
 
+Syndicate Guildmage
+   |mana_1|\ |mana_w|, |tap|: Tap target creature with power 4 or greater.
+
+   |mana_4|\ |mana_b|, |tap|: Syndicate Guildmage deals 2 damage to target opponent or planeswalker.
+
+
 Teysa Karlov
    If a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
 
    Creature tokens you control have vigilance and lifelink.
+
+
+Theater of Horrors
+   At the beginning of your upkeep, exile the top card of your library.
+
+   During your turn, if an opponent lost life this turn, you may play cards exiled with Theater of Horrors.
+
+   |mana_3|\ |mana_r|: Theater of Horrors deals 1 damage to target opponent or planeswalker.
 
 
 Zegana, Utopian Speaker
@@ -385,6 +649,14 @@ Zegana, Utopian Speaker
 
 Zhur-Taa Goblin
    Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)
+
+
+Bedeck
+   Target creature gets +3/-3 until end of turn.
+
+
+Bedazzle
+   Destroy target nonbasic land. Bedeck deals 2 damage to target opponent or planeswalker.
 
 
 Carnival
@@ -423,6 +695,30 @@ Incongruity
    Exile target creature. That creature's controller creates a 3/3 green Frog Lizard creature token.
 
 
+Revival
+   Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.
+
+
+Revenge
+   Double your life total. Target opponent loses half their life, rounded up.
+
+
+Thrash
+   Target creature you control deals damage equal to its power to target creature or planeswalker you don't control.
+
+
+Threat
+   Create a 4/4 red and green Beast creature token with trample.
+
+
+Warrant
+   Put target attacking or blocking creature on top of its owner's library.
+
+
+Warden
+   Create a 4/4 white and blue Sphinx creature token with flying and vigilance.
+
+
 Azorius Locket
    |tap|: Add |mana_w| or |mana_u|.
 
@@ -435,6 +731,10 @@ Gate Colossus
    Gate Colossus can't be blocked by creatures with power 2 or less.
 
    Whenever a Gate enters the battlefield under your control, you may put Gate Colossus from your graveyard on top of your library.
+
+
+"Azhovirzzekdosaruulosnyic Signet"
+   Multicolored creatures you control get +1/+1.
 
 
 Gruul Locket
@@ -453,6 +753,12 @@ Rakdos Locket
    |tap|: Add |mana_b| or |mana_r|.
 
    |mana_br|\ |mana_br|\ |mana_br|\ |mana_br|, |tap|, Sacrifice Rakdos Locket: Draw two cards.
+
+
+Scrabbling Claws
+   |tap|: Target player exiles a card from their graveyard.
+
+   |mana_1|, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card.
 
 
 Simic Locket
@@ -519,6 +825,14 @@ Orzhov Guildgate
    Orzhov Guildgate enters the battlefield tapped.
 
    |tap|: Add |mana_w| or |mana_b|.
+
+
+"Ayn Rand Could Never"
+   When "Ayn Rand Could Never" enters the battlefield, if you control two or more Gates, you gain 3 life.
+
+   |tap|: Add |colorless|.
+
+   |tap|: Add one mana of any color a Gate you control could produce.
 
 
 Rakdos Guildgate

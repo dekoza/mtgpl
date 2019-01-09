@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-07 15:14+0100\n"
+"POT-Creation-Date: 2019-01-09 22:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,1009 +20,1595 @@ msgstr ""
 msgid "Ravnica Allegiance (spoiler)"
 msgstr ""
 
-#: ../../RNA.rst:10
-msgid "Angelic Exaltation"
+#: ../../RNA.rst:16
+msgid "Angel of Grace"
 msgstr ""
 
 #: ../../RNA.rst:9
-msgid "Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of creatures you control."
-msgstr ""
-
-#: ../../RNA.rst:14
-msgid "Smothering Tithe"
-msgstr ""
-
-#: ../../RNA.rst:13
-msgid "Whenever an opponent draws a card, that player may pay |mana_2|. If the player doesn't, you create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
-msgstr ""
-
-#: ../../RNA.rst:20
-msgid "Tithe Taker"
-msgstr ""
-
-#: ../../RNA.rst:17
-msgid "During your turn, spells your opponents cast cost |mana_1| more to cast and abilities your opponents activate cost |mana_1| more to activate unless they're mana abilities."
-msgstr ""
-
-#: ../../RNA.rst:19
-#: ../../RNA.rst:269
-msgid "Afterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)"
-msgstr ""
-
-#: ../../RNA.rst:24
-msgid "Humongulus"
-msgstr ""
-
-#: ../../RNA.rst:23
-msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
-msgstr ""
-
-#: ../../RNA.rst:28
-msgid "Mass Manipulation"
-msgstr ""
-
-#: ../../RNA.rst:27
-msgid "Gain control of X target creatures and/or planeswalkers."
-msgstr ""
-
-#: ../../RNA.rst:34
-msgid "Precognitive Perception"
-msgstr ""
-
-#: ../../RNA.rst:31
-#: ../../RNA.rst:57
-msgid "Draw three cards."
-msgstr ""
-
-#: ../../RNA.rst:33
-msgid "Addendum — If you cast this spell during your main phase, instead scry 3, then draw three cards."
-msgstr ""
-
-#: ../../RNA.rst:38
-msgid "Quench"
-msgstr ""
-
-#: ../../RNA.rst:37
-msgid "Counter target spell unless its controller pays |mana_2|."
-msgstr ""
-
-#: ../../RNA.rst:46
-msgid "Sphinx of Foresight"
-msgstr ""
-
-#: ../../RNA.rst:41
-msgid "You may reveal this card from your opening hand. If you do, scry 3 at the beginning of your first upkeep."
-msgstr ""
-
-#: ../../RNA.rst:43
-#: ../../RNA.rst:125
-#: ../../RNA.rst:177
-#: ../../RNA.rst:233
-#: ../../RNA.rst:343
-msgid "Flying"
-msgstr ""
-
-#: ../../RNA.rst:45
-msgid "At the beginning of your upkeep, scry 1."
-msgstr ""
-
-#: ../../RNA.rst:52
-msgid "Verity Circle"
-msgstr ""
-
-#: ../../RNA.rst:49
-msgid "Whenever a creature an opponent controls becomes tapped, if it isn't being declared as an attacker, you may draw a card."
-msgstr ""
-
-#: ../../RNA.rst:51
-msgid "|mana_4|\\ |mana_u|: Tap target creature without flying."
-msgstr ""
-
-#: ../../RNA.rst:58
-msgid "Bankrupt in Blood"
-msgstr ""
-
-#: ../../RNA.rst:55
-msgid "As an additional cost to cast this spell, sacrifice two creatures."
-msgstr ""
-
-#: ../../RNA.rst:64
-msgid "Blade Juggler"
-msgstr ""
-
-#: ../../RNA.rst:61
-msgid "Spectacle |mana_2|\\ |mana_b| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
-msgstr ""
-
-#: ../../RNA.rst:63
-msgid "When Blade Juggler enters the battlefield, it deals 1 damage to you and you draw a card."
-msgstr ""
-
-#: ../../RNA.rst:68
-msgid "Cry of the Carnarium"
-msgstr ""
-
-#: ../../RNA.rst:67
-msgid "All creatures get -2/-2 until end of turn. Exile all creature cards in all graveyards that were put there from the battlefield this turn. If a creature would die this turn, exile it instead."
-msgstr ""
-
-#: ../../RNA.rst:74
-msgid "Drill Bit"
-msgstr ""
-
-#: ../../RNA.rst:71
-msgid "Spectacle |mana_b| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
-msgstr ""
-
-#: ../../RNA.rst:73
-msgid "Target player reveals their hand. You choose a nonland card from it. That player discards that card."
-msgstr ""
-
-#: ../../RNA.rst:80
-msgid "Gutterbones"
-msgstr ""
-
-#: ../../RNA.rst:77
-msgid "Gutterbones enters the battlefield tapped."
-msgstr ""
-
-#: ../../RNA.rst:79
-msgid "|mana_1|\\ |mana_b|: Return Gutterbones from your graveyard to your hand. Activate this ability only during your turn and only if an opponent lost life this turn."
-msgstr ""
-
-#: ../../RNA.rst:86
-msgid "Pestilent Spirit"
-msgstr ""
-
-#: ../../RNA.rst:83
-msgid "Menace, deathtouch"
-msgstr ""
-
-#: ../../RNA.rst:85
-msgid "Instant and sorcery spells you control have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.)"
-msgstr ""
-
-#: ../../RNA.rst:94
-msgid "Spawn of Mayhem"
-msgstr ""
-
-#: ../../RNA.rst:89
-msgid "Spectacle |mana_1|\\ |mana_b|\\ |mana_b| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
-msgstr ""
-
-#: ../../RNA.rst:91
-#: ../../RNA.rst:261
-#: ../../RNA.rst:321
-msgid "Flying, trample"
-msgstr ""
-
-#: ../../RNA.rst:93
-msgid "At the beginning of your upkeep, Spawn of Mayhem deals 1 damage to each player. Then if you have 10 or less life, put a +1/+1 counter on Spawn of Mayhem."
-msgstr ""
-
-#: ../../RNA.rst:98
-msgid "Amplifire"
-msgstr ""
-
-#: ../../RNA.rst:97
-msgid "At the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature card. Until your next turn, Amplifire's base power becomes twice that card's power and its base toughness becomes twice that card's toughness. Put the revealed cards on the bottom of your library in a random order."
-msgstr ""
-
-#: ../../RNA.rst:104
-msgid "Burning-Tree Vandal"
-msgstr ""
-
-#: ../../RNA.rst:101
-msgid "Riot (This creature enters the battlefield with your choice of a +1/+ counter or haste.)"
-msgstr ""
-
-#: ../../RNA.rst:103
-msgid "Whenever Burning-Tree Vandal attacks, you may discard a card. If you do, draw a card."
-msgstr ""
-
-#: ../../RNA.rst:108
-msgid "Electrodominance"
-msgstr ""
-
-#: ../../RNA.rst:107
-msgid "Electrodominance deals X damage to any target. You may cast a card with converted mana cost X or less from your hand without paying its mana cost."
-msgstr ""
-
-#: ../../RNA.rst:114
-msgid "Light Up the Stage"
-msgstr ""
-
-#: ../../RNA.rst:111
-msgid "Spectacle |mana_r| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
-msgstr ""
-
-#: ../../RNA.rst:113
-msgid "Exile the top two cards of your library. Until the end of your next turn, you may play those cards."
-msgstr ""
-
-#: ../../RNA.rst:120
-msgid "Rix Maadi Reveler"
-msgstr ""
-
-#: ../../RNA.rst:117
-msgid "Spectacle |mana_2|\\ |mana_b|\\ |mana_r| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
-msgstr ""
-
-#: ../../RNA.rst:119
-msgid "When Rix Maadi Reveler enters the battlefield, discard a card, then draw a card. If Rix Maadi Reveler's spectacle cost was paid, instead discard your hand, then draw three cards."
-msgstr ""
-
-#: ../../RNA.rst:128
-msgid "Skarrgan Hellkite"
-msgstr ""
-
-#: ../../RNA.rst:123
-#: ../../RNA.rst:219
-#: ../../RNA.rst:243
-#: ../../RNA.rst:327
-#: ../../RNA.rst:387
-msgid "Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)"
-msgstr ""
-
-#: ../../RNA.rst:127
-msgid "|mana_3|\\ |mana_r|: Skarrgan Hellkite deals 2 damage divided as you choose among one or two targets. Activate this ability only if Skarrgan Hellkite has a +1/+1 counter on it."
-msgstr ""
-
-#: ../../RNA.rst:132
-msgid "Smelt-Ward Ignus"
-msgstr ""
-
-#: ../../RNA.rst:131
-msgid "|mana_2|\\ |mana_r|, Sacrifice Smelt-Ward Ignus: Gain control of target creature with power 3 or less until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery."
-msgstr ""
-
-#: ../../RNA.rst:136
-msgid "Biogenic Upgrade"
-msgstr ""
-
-#: ../../RNA.rst:135
-msgid "Distribute three +1/+1 counters among one, two, or three target creatures, then double the number of +1/+1 counters on each of those creatures."
-msgstr ""
-
-#: ../../RNA.rst:142
-msgid "End-Raze Forerunners"
-msgstr ""
-
-#: ../../RNA.rst:139
-msgid "Vigilance, trample, haste"
-msgstr ""
-
-#: ../../RNA.rst:141
-msgid "When End-Raze Forerunners enters the battlefield, other creatures you control get +2/+2 and gain vigilance and trample until end of turn."
-msgstr ""
-
-#: ../../RNA.rst:148
-msgid "Growth-Chamber Guardian"
-msgstr ""
-
-#: ../../RNA.rst:145
-msgid "|mana_2|\\ |mana_g|: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)"
-msgstr ""
-
-#: ../../RNA.rst:147
-msgid "Whenever one or more +1/+1 counters are put on Growth-Chamber Guardian, you may search your library for a card named Growth-Chamber Guardian, reveal it, put it into your hand, then shuffle your library."
-msgstr ""
-
-#: ../../RNA.rst:152
-msgid "\"Mutant, NM, Pack Fresh\""
-msgstr ""
-
-#: ../../RNA.rst:151
-msgid "Whenever a nontoken creature enters the battlefield under your control, if that creature does not have the same name as another creature you control or a creature card in your graveyard, draw a card."
-msgstr ""
-
-#: ../../RNA.rst:156
-msgid "Rampage of the Clans"
-msgstr ""
-
-#: ../../RNA.rst:155
-msgid "Destroy all artifacts and enchantments. For each permanent destroyed this way, its controller creates a 3/3 green Centaur creature token."
-msgstr ""
-
-#: ../../RNA.rst:160
-msgid "Silhana Guide"
-msgstr ""
-
-#: ../../RNA.rst:159
-msgid "When Silhana Guide enters the battlefield, look at the top four cards of your library. You may reveal a creature or land card from among them and put it on top of your library. Put the rest on the bottom of your library in a random order."
-msgstr ""
-
-#: ../../RNA.rst:166
-msgid "Titanic Brawl"
-msgstr ""
-
-#: ../../RNA.rst:163
-msgid "This spell costs |mana_1| less to cast if it targets a creature you control with a +1/+1 counter on it."
-msgstr ""
-
-#: ../../RNA.rst:165
-msgid "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)"
-msgstr ""
-
-#: ../../RNA.rst:170
-msgid "Wilderness Reclamation"
-msgstr ""
-
-#: ../../RNA.rst:169
-msgid "At the beginning of your end step, untap all lands you control."
-msgstr ""
-
-#: ../../RNA.rst:174
-msgid "Absorb"
-msgstr ""
-
-#: ../../RNA.rst:173
-msgid "Counter target spell. You gain 3 life."
-msgstr ""
-
-#: ../../RNA.rst:180
-msgid "Aeromunculus"
-msgstr ""
-
-#: ../../RNA.rst:179
-msgid "|mana_2|\\ |mana_g|\\ |mana_u|: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)"
-msgstr ""
-
-#: ../../RNA.rst:184
-msgid "Basilica Bell-Haunt"
-msgstr ""
-
-#: ../../RNA.rst:183
-msgid "When Basilica Bell-Haunt enters the battlefield, each opponent discards a card and you gain 3 life."
-msgstr ""
-
-#: ../../RNA.rst:188
-msgid "Bedevil"
-msgstr ""
-
-#: ../../RNA.rst:187
-msgid "Destroy target artifact, creature, or planeswalker."
-msgstr ""
-
-#: ../../RNA.rst:194
-msgid "Biomancer's Familiar"
-msgstr ""
-
-#: ../../RNA.rst:191
-msgid "Activated abilities of creatures you control cost |mana_2| less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana."
-msgstr ""
-
-#: ../../RNA.rst:193
-msgid "|tap|: The next time target creature adapts this turn, it adapts as though it had no +1/+1 counters on it."
-msgstr ""
-
-#: ../../RNA.rst:198
-msgid "Bolrac-Clan Crusher"
-msgstr ""
-
-#: ../../RNA.rst:197
-msgid "|tap|, Remove a +1/+1 counter from a creature you control: Bolrac-Clan Crusher deals 2 damage to any target."
-msgstr ""
-
-#: ../../RNA.rst:202
-msgid "Deputy of Detention"
-msgstr ""
-
-#: ../../RNA.rst:201
-msgid "When Deputy of Detention enters the battlefield, exile target nonland permanent an opponent controls and all other nonland permanents that player controls with the same name as that permanent until Deputy of Detention leaves the battlefield."
-msgstr ""
-
-#: ../../RNA.rst:210
-msgid "Dovin, Grand Arbiter"
-msgstr ""
-
-#: ../../RNA.rst:205
-msgid "+1: Until end of turn, whenever a creature you control deals combat damage to a player, put a loyalty counter on Dovin, Grand Arbiter."
-msgstr ""
-
-#: ../../RNA.rst:207
-msgid "-1: Create a 1/1 colorless Thopter artifact creature token with flying. You gain 1 life."
-msgstr ""
-
-#: ../../RNA.rst:209
-msgid "-7: Look at the top ten cards of your library. Put three of them into your hand and the rest on the bottom of your library in a random order."
-msgstr ""
-
-#: ../../RNA.rst:216
-msgid "Emergency Powers"
-msgstr ""
-
-#: ../../RNA.rst:213
-msgid "Each player shuffles their hand and graveyard into their library, then draws seven cards. Exile Emergency Powers."
-msgstr ""
-
-#: ../../RNA.rst:215
-msgid "Addendum — If you cast this spell during your main phase, you may put a permanent card with converted mana cost 7 or less from your hand onto the battlefield."
-msgstr ""
-
-#: ../../RNA.rst:224
-msgid "Frenzied Arynx"
-msgstr ""
-
-#: ../../RNA.rst:221
-#: ../../RNA.rst:245
-msgid "Trample"
-msgstr ""
-
-#: ../../RNA.rst:223
-msgid "|mana_4|\\ |mana_r|\\ |mana_g|: Frenzied Arynx gets +3/+0 until end of turn."
-msgstr ""
-
-#: ../../RNA.rst:230
-msgid "Frilled Mystic"
-msgstr ""
-
-#: ../../RNA.rst:227
+#: ../../RNA.rst:435
 msgid "Flash"
 msgstr ""
 
-#: ../../RNA.rst:229
-msgid "When Frilled Mystic enters the battlefield, you may counter target spell."
-msgstr ""
-
-#: ../../RNA.rst:236
-msgid "Grasping Thrull"
-msgstr ""
-
-#: ../../RNA.rst:235
-msgid "When Grasping Thrull enters the battlefield, it deals 2 damage to each opponent and you gain 2 life."
-msgstr ""
-
-#: ../../RNA.rst:240
-msgid "Growth Spiral"
-msgstr ""
-
-#: ../../RNA.rst:239
-msgid "Draw a card. You may put a land card from your hand onto the battlefield."
-msgstr ""
-
-#: ../../RNA.rst:248
-msgid "Gruul Spellbreaker"
-msgstr ""
-
-#: ../../RNA.rst:247
-msgid "As long as it's your turn, you and Gruul Spellbreaker have hexproof."
-msgstr ""
-
-#: ../../RNA.rst:256
-msgid "High Alert"
-msgstr ""
-
-#: ../../RNA.rst:251
-msgid "Each creature you control assigns combat damage equal to its toughness rather than its power."
-msgstr ""
-
+#: ../../RNA.rst:11
+#: ../../RNA.rst:23
+#: ../../RNA.rst:49
+#: ../../RNA.rst:103
+#: ../../RNA.rst:121
+#: ../../RNA.rst:133
 #: ../../RNA.rst:253
-msgid "Creatures you control can attack as though they didn't have defender."
+#: ../../RNA.rst:327
+#: ../../RNA.rst:447
+#: ../../RNA.rst:587
+msgid "Flying"
 msgstr ""
 
-#: ../../RNA.rst:255
-msgid "|mana_2|\\ |mana_w|\\ |mana_u|: Untap target creature."
+#: ../../RNA.rst:13
+msgid "When Angel of Grace enters the battlefield, until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead."
 msgstr ""
 
-#: ../../RNA.rst:264
-msgid "Hydroid Krasis"
+#: ../../RNA.rst:15
+msgid "|mana_4|\\ |mana_w|\\ |mana_w|, Exile Angel of Grace from your graveyard: Your life total becomes 10."
 msgstr ""
 
-#: ../../RNA.rst:259
-msgid "When you cast this spell, you gain half X life and draw half X cards. Round down each time."
+#: ../../RNA.rst:20
+msgid "Angelic Exaltation"
 msgstr ""
 
-#: ../../RNA.rst:263
-msgid "Hydroid Krasis enters the battlefield with X +1/+1 counters on it."
+#: ../../RNA.rst:19
+msgid "Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of creatures you control."
 msgstr ""
 
-#: ../../RNA.rst:270
-msgid "Imperious Oligarch"
+#: ../../RNA.rst:26
+msgid "Archway Angel"
 msgstr ""
 
-#: ../../RNA.rst:267
+#: ../../RNA.rst:25
+msgid "When Archway Angel enters the battlefield, you gain 2 life for each Gate you control."
+msgstr ""
+
+#: ../../RNA.rst:30
+msgid "Hero of Precinct One"
+msgstr ""
+
+#: ../../RNA.rst:29
+msgid "Whenever you cast a multicolored spell, create a 1/1 white Human creature token."
+msgstr ""
+
+#: ../../RNA.rst:38
+msgid "Lumbering Battlement"
+msgstr ""
+
+#: ../../RNA.rst:33
+#: ../../RNA.rst:493
 msgid "Vigilance"
 msgstr ""
 
-#: ../../RNA.rst:276
-msgid "Judith, the Scourge Diva"
+#: ../../RNA.rst:35
+msgid "When Lumbering Battlement enters the battlefield, exile any number of other nontoken creatures you control until it leaves the battlefield."
 msgstr ""
 
-#: ../../RNA.rst:273
-msgid "Other creatures you control get +1/+0."
+#: ../../RNA.rst:37
+msgid "Lumbering Battlement gets +2/+2 for each card exiled with it."
 msgstr ""
 
-#: ../../RNA.rst:275
-msgid "Whenever a nontoken creature you control dies, Judith, the Scourge Diva deals 1 damage to any target."
+#: ../../RNA.rst:42
+msgid "Ministrant of Obligation"
 msgstr ""
 
-#: ../../RNA.rst:284
-msgid "Kaya, Orzhov Usurper"
+#: ../../RNA.rst:41
+msgid "Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature token with flying.)"
 msgstr ""
 
-#: ../../RNA.rst:279
-msgid "+1: Exile up to two target cards from a single graveyard. You gain 2 life if at least one creature card was exiled this way."
+#: ../../RNA.rst:46
+msgid "Smothering Tithe"
 msgstr ""
 
-#: ../../RNA.rst:281
-msgid "-1: Exile target nonland permanent with converted mana cost 1 or less."
+#: ../../RNA.rst:45
+msgid "Whenever an opponent draws a card, that player may pay |mana_2|. If the player doesn't, you create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 
-#: ../../RNA.rst:283
-msgid "-5: Kaya, Orzhov Usurper deals damage to target player equal to the number of cards that player owns in exile and you gain that much life."
+#: ../../RNA.rst:52
+msgid "Spirit of the Spires"
 msgstr ""
 
-#: ../../RNA.rst:290
-msgid "Lavinia, Azorius Renegade"
+#: ../../RNA.rst:51
+msgid "Other creatures you control with flying get +0/+1."
 msgstr ""
 
-#: ../../RNA.rst:287
-msgid "Each opponent can't cast noncreature spells with converted mana cost greater than the number of lands that player controls."
+#: ../../RNA.rst:58
+msgid "Tithe Taker"
 msgstr ""
 
-#: ../../RNA.rst:289
-msgid "Whenever an opponent casts a spell, if no mana was spent to cast it, counter that spell."
+#: ../../RNA.rst:55
+msgid "During your turn, spells your opponents cast cost |mana_1| more to cast and abilities your opponents activate cost |mana_1| more to activate unless they're mana abilities."
 msgstr ""
 
-#: ../../RNA.rst:294
-msgid "Mortify"
+#: ../../RNA.rst:57
+#: ../../RNA.rst:495
+msgid "Afterlife 1 (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)"
 msgstr ""
 
-#: ../../RNA.rst:293
-msgid "Destroy target creature or enchantment."
+#: ../../RNA.rst:64
+msgid "Unbreakable Formation"
 msgstr ""
 
-#: ../../RNA.rst:300
-msgid "Nikya of the Old Ways"
+#: ../../RNA.rst:61
+msgid "Creatures you control gain indestructible until end of turn."
 msgstr ""
 
-#: ../../RNA.rst:297
-msgid "You can't cast noncreature spells."
+#: ../../RNA.rst:63
+msgid "Addendum — If you cast this spell during your main phase, put a +1/+1 counter on each of those creatures, and they also gain vigilance until end of turn."
 msgstr ""
 
-#: ../../RNA.rst:299
-msgid "Whenever you tap a land for mana, add one mana of any type that land produced."
+#: ../../RNA.rst:70
+msgid "Arrester's Admonition"
 msgstr ""
 
-#: ../../RNA.rst:304
-msgid "Pitiless Pontiff"
+#: ../../RNA.rst:67
+msgid "Return target creature to its owner's hand."
 msgstr ""
 
-#: ../../RNA.rst:303
-msgid "|mana_1|, Sacrifice another creature: Pitiless Pontiff gains deathtouch and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
+#: ../../RNA.rst:69
+msgid "Addendum — If you cast this spell during your main phase, draw a card."
 msgstr ""
 
-#: ../../RNA.rst:308
-msgid "Prime Speaker Vannifar"
+#: ../../RNA.rst:76
+msgid "Benthic Biomancer"
 msgstr ""
 
-#: ../../RNA.rst:307
-msgid "|tap|, Sacrifice another creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery."
+#: ../../RNA.rst:73
+msgid "|mana_1|\\ |mana_u|: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)"
 msgstr ""
 
-#: ../../RNA.rst:314
-msgid "Rafter Demon"
+#: ../../RNA.rst:75
+msgid "Whenever one or more +1/+1 counters are put on Benthic Biomancer, draw a card, then discard a card."
 msgstr ""
 
-#: ../../RNA.rst:311
-msgid "Spectacle |mana_3|\\ |mana_b|\\ |mana_r| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
+#: ../../RNA.rst:80
+msgid "Essence Capture"
 msgstr ""
 
-#: ../../RNA.rst:313
-msgid "When Rafter Demon enters the battlefield, if its spectacle cost was paid, each opponent discards a card."
+#: ../../RNA.rst:79
+msgid "Counter target creature spell. Put a +1/+1 counter on up to one target creature you control."
 msgstr ""
 
-#: ../../RNA.rst:318
-msgid "Rakdos Firewheeler"
+#: ../../RNA.rst:84
+msgid "Humongulus"
 msgstr ""
 
-#: ../../RNA.rst:317
-msgid "When Rakdos Firewheeler enters the battlefield, it deals 2 damage to target opponent and 2 damage to up to one target creature or planeswalker."
+#: ../../RNA.rst:83
+msgid "Hexproof (This creature can't be the target of spells or abilities your opponents control.)"
 msgstr ""
 
-#: ../../RNA.rst:324
-msgid "Rakdos, the Showstopper"
+#: ../../RNA.rst:88
+msgid "Mass Manipulation"
 msgstr ""
 
-#: ../../RNA.rst:323
-msgid "When Rakdos, the Showstopper enters the battlefield, flip a coin for each creature that isn't a Demon, Devil, or Imp. Destroy each creature whose coin comes up tails."
+#: ../../RNA.rst:87
+msgid "Gain control of X target creatures and/or planeswalkers."
 msgstr ""
 
-#: ../../RNA.rst:334
-msgid "Ravager Wurm"
+#: ../../RNA.rst:94
+msgid "Mesmerizing Benthid"
 msgstr ""
 
-#: ../../RNA.rst:329
-msgid "When Ravager Wurm enters the battlefield, choose up to one —"
+#: ../../RNA.rst:91
+msgid "When Mesmerizing Benthid enters the battlefield, create two 0/2 blue Illusion creature tokens with \"Whenever this creature blocks a creature, that creature doesn't untap during its controller's next untap step.\""
 msgstr ""
 
-#: ../../RNA.rst:331
-msgid "Ravager Wurm fights target creature you don't control."
+#: ../../RNA.rst:93
+msgid "Mesmerizing Benthid has hexproof as long as you control an Illusion."
 msgstr ""
 
-#: ../../RNA.rst:333
-msgid "Destroy target land with an activated ability that isn't a mana ability."
+#: ../../RNA.rst:100
+msgid "Precognitive Perception"
 msgstr ""
 
-#: ../../RNA.rst:340
-msgid "\"He called me Mister Pig!\""
+#: ../../RNA.rst:97
+#: ../../RNA.rst:145
+msgid "Draw three cards."
 msgstr ""
 
-#: ../../RNA.rst:337
-msgid "Creature spells you control can't be countered."
+#: ../../RNA.rst:99
+msgid "Addendum — If you cast this spell during your main phase, instead scry 3, then draw three cards."
 msgstr ""
 
-#: ../../RNA.rst:339
-msgid "Nontoken creatures you control have riot. (They enter the battlefield with your choice of a +1/+1 counter or haste.)"
+#: ../../RNA.rst:106
+msgid "Pteramander"
 msgstr ""
 
-#: ../../RNA.rst:350
-msgid "Seraph of the Scales"
+#: ../../RNA.rst:105
+msgid "|mana_7|\\ |mana_u|: Adapt 4. This ability costs |mana_1| less to activate for each instant and sorcery card in your graveyard. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)"
 msgstr ""
 
-#: ../../RNA.rst:345
-msgid "|mana_w|: Seraph of the Scales gains vigilance until end of turn."
+#: ../../RNA.rst:110
+msgid "Quench"
 msgstr ""
 
-#: ../../RNA.rst:347
-msgid "|mana_b|: Seraph of the Scales gains deathtouch until end of turn."
+#: ../../RNA.rst:109
+msgid "Counter target spell unless its controller pays |mana_2|."
 msgstr ""
 
-#: ../../RNA.rst:349
+#: ../../RNA.rst:116
+msgid "Skatewing Spy"
+msgstr ""
+
+#: ../../RNA.rst:113
+msgid "|mana_5|\\ |mana_u|: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../RNA.rst:115
+msgid "Each creature you control with a +1/+1 counter on it has flying."
+msgstr ""
+
+#: ../../RNA.rst:124
+msgid "Sphinx of Foresight"
+msgstr ""
+
+#: ../../RNA.rst:119
+msgid "You may reveal this card from your opening hand. If you do, scry 3 at the beginning of your first upkeep."
+msgstr ""
+
+#: ../../RNA.rst:123
+msgid "At the beginning of your upkeep, scry 1."
+msgstr ""
+
+#: ../../RNA.rst:130
+msgid "Verity Circle"
+msgstr ""
+
+#: ../../RNA.rst:127
+msgid "Whenever a creature an opponent controls becomes tapped, if it isn't being declared as an attacker, you may draw a card."
+msgstr ""
+
+#: ../../RNA.rst:129
+msgid "|mana_4|\\ |mana_u|: Tap target creature without flying."
+msgstr ""
+
+#: ../../RNA.rst:136
+msgid "Windstorm Drake"
+msgstr ""
+
+#: ../../RNA.rst:135
+msgid "Other creatures you control with flying get +1/+0."
+msgstr ""
+
+#: ../../RNA.rst:140
+msgid "Awaken the Erstwhile"
+msgstr ""
+
+#: ../../RNA.rst:139
+msgid "Each player discards all the cards in their hand, then creates that many 2/2 black Zombie creature tokens."
+msgstr ""
+
+#: ../../RNA.rst:146
+msgid "Bankrupt in Blood"
+msgstr ""
+
+#: ../../RNA.rst:143
+msgid "As an additional cost to cast this spell, sacrifice two creatures."
+msgstr ""
+
+#: ../../RNA.rst:152
+msgid "Blade Juggler"
+msgstr ""
+
+#: ../../RNA.rst:149
+msgid "Spectacle |mana_2|\\ |mana_b| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
+msgstr ""
+
+#: ../../RNA.rst:151
+msgid "When Blade Juggler enters the battlefield, it deals 1 damage to you and you draw a card."
+msgstr ""
+
+#: ../../RNA.rst:156
+msgid "Cry of the Carnarium"
+msgstr ""
+
+#: ../../RNA.rst:155
+msgid "All creatures get -2/-2 until end of turn. Exile all creature cards in all graveyards that were put there from the battlefield this turn. If a creature would die this turn, exile it instead."
+msgstr ""
+
+#: ../../RNA.rst:162
+msgid "Drill Bit"
+msgstr ""
+
+#: ../../RNA.rst:159
+msgid "Spectacle |mana_b| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
+msgstr ""
+
+#: ../../RNA.rst:161
+msgid "Target player reveals their hand. You choose a nonland card from it. That player discards that card."
+msgstr ""
+
+#: ../../RNA.rst:168
+msgid "Font of Agonies"
+msgstr ""
+
+#: ../../RNA.rst:165
+msgid "Whenever you pay life, put that many blood counters on Font of Agonies."
+msgstr ""
+
+#: ../../RNA.rst:167
+msgid "|mana_1|\\ |mana_b|, Remove four blood counters from Font of Agonies: Destroy target creature."
+msgstr ""
+
+#: ../../RNA.rst:174
+msgid "Gutterbones"
+msgstr ""
+
+#: ../../RNA.rst:171
+msgid "Gutterbones enters the battlefield tapped."
+msgstr ""
+
+#: ../../RNA.rst:173
+msgid "|mana_1|\\ |mana_b|: Return Gutterbones from your graveyard to your hand. Activate this ability only during your turn and only if an opponent lost life this turn."
+msgstr ""
+
+#: ../../RNA.rst:180
+msgid "\"Knife to meet you\""
+msgstr ""
+
+#: ../../RNA.rst:177
+msgid "Deathtouch"
+msgstr ""
+
+#: ../../RNA.rst:179
+msgid "Afterlife 1. (When this creature dies, create a 1/1 white and black Spirit creature token with flying.)"
+msgstr ""
+
+#: ../../RNA.rst:186
+msgid "Orzhov Racketeers"
+msgstr ""
+
+#: ../../RNA.rst:183
+msgid "Whenever Orzhov Racketeers deals combat damage to a player, that player discards a card."
+msgstr ""
+
+#: ../../RNA.rst:185
+#: ../../RNA.rst:593
 msgid "Afterlife 2 (When this creature dies, create two 1/1 white and black Spirit creature tokens with flying.)"
 msgstr ""
 
-#: ../../RNA.rst:358
-msgid "Simic Ascendancy"
+#: ../../RNA.rst:192
+msgid "Pestilent Spirit"
 msgstr ""
 
-#: ../../RNA.rst:353
-msgid "|mana_1|\\ |mana_g|\\ |mana_u|: Put a +1/+1 counter on target creature you control."
+#: ../../RNA.rst:189
+msgid "Menace, deathtouch"
 msgstr ""
 
-#: ../../RNA.rst:355
-msgid "Whenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on Simic Ascendancy."
+#: ../../RNA.rst:191
+msgid "Instant and sorcery spells you control have deathtouch. (Any amount of damage they deal to a creature is enough to destroy it.)"
 msgstr ""
 
-#: ../../RNA.rst:357
-msgid "At the beginning of your upkeep, if Simic Ascendancy has twenty or more growth counters on it, you win the game."
+#: ../../RNA.rst:200
+msgid "Spawn of Mayhem"
 msgstr ""
 
-#: ../../RNA.rst:364
-msgid "Sphinx of New Prahv"
+#: ../../RNA.rst:195
+msgid "Spectacle |mana_1|\\ |mana_b|\\ |mana_b| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
 msgstr ""
 
-#: ../../RNA.rst:361
-msgid "Flying, vigilance"
+#: ../../RNA.rst:197
+#: ../../RNA.rst:487
+#: ../../RNA.rst:555
+msgid "Flying, trample"
 msgstr ""
 
-#: ../../RNA.rst:363
-msgid "Spells your opponents cast that target Sphinx of New Prahv cost |mana_2| more to cast."
+#: ../../RNA.rst:199
+msgid "At the beginning of your upkeep, Spawn of Mayhem deals 1 damage to each player. Then if you have 10 or less life, put a +1/+1 counter on Spawn of Mayhem."
 msgstr ""
 
-#: ../../RNA.rst:370
-msgid "Sphinx's Insight"
+#: ../../RNA.rst:204
+msgid "Amplifire"
 msgstr ""
 
-#: ../../RNA.rst:367
-msgid "Draw two cards."
+#: ../../RNA.rst:203
+msgid "At the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature card. Until your next turn, Amplifire's base power becomes twice that card's power and its base toughness becomes twice that card's toughness. Put the revealed cards on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../RNA.rst:369
-msgid "Addendum — If you cast this spell during your main phase, you gain 2 life."
+#: ../../RNA.rst:208
+msgid "Burn Bright"
 msgstr ""
 
-#: ../../RNA.rst:376
-msgid "Teysa Karlov"
+#: ../../RNA.rst:207
+msgid "Creatures you control get +2/+0 until end of turn."
 msgstr ""
 
-#: ../../RNA.rst:373
-msgid "If a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
+#: ../../RNA.rst:214
+msgid "Burning-Tree Vandal"
 msgstr ""
 
-#: ../../RNA.rst:375
-msgid "Creature tokens you control have vigilance and lifelink."
+#: ../../RNA.rst:211
+msgid "Riot (This creature enters the battlefield with your choice of a +1/1+ counter or haste.)"
 msgstr ""
 
-#: ../../RNA.rst:384
-msgid "Zegana, Utopian Speaker"
+#: ../../RNA.rst:213
+msgid "Whenever Burning-Tree Vandal attacks, you may discard a card. If you do, draw a card."
 msgstr ""
 
-#: ../../RNA.rst:379
-msgid "When Zegana, Utopian Speaker enters the battlefield, if you control another creature with a +1/+1 counter on it, draw a card."
+#: ../../RNA.rst:218
+msgid "Electrodominance"
 msgstr ""
 
-#: ../../RNA.rst:381
-msgid "|mana_4|\\ |mana_g|\\ |mana_u|: Adapt 4. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)"
+#: ../../RNA.rst:217
+msgid "Electrodominance deals X damage to any target. You may cast a card with converted mana cost X or less from your hand without paying its mana cost."
 msgstr ""
 
-#: ../../RNA.rst:383
+#: ../../RNA.rst:222
+msgid "Gates Ablaze"
+msgstr ""
+
+#: ../../RNA.rst:221
+msgid "Gates Ablaze deals X damage to each creature, where X is the number of Gates you control."
+msgstr ""
+
+#: ../../RNA.rst:228
+msgid "Immolation Shaman"
+msgstr ""
+
+#: ../../RNA.rst:225
+msgid "Whenever an opponent activates an ability of an artifact, creature, or land that isn't a mana ability, Immolation Shaman deals 1 damage to that player."
+msgstr ""
+
+#: ../../RNA.rst:227
+msgid "|mana_3|\\ |mana_r|\\ |mana_r|: Immolation Shaman gets +3/+3 and gains menace until end of turn."
+msgstr ""
+
+#: ../../RNA.rst:234
+msgid "Light Up the Stage"
+msgstr ""
+
+#: ../../RNA.rst:231
+#: ../../RNA.rst:259
+msgid "Spectacle |mana_r| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
+msgstr ""
+
+#: ../../RNA.rst:233
+msgid "Exile the top two cards of your library. Until the end of your next turn, you may play those cards."
+msgstr ""
+
+#: ../../RNA.rst:238
+msgid "Mirror March"
+msgstr ""
+
+#: ../../RNA.rst:237
+msgid "Whenever a nontoken creature enters the battlefield under your control, flip a coin until you lose a flip. For each flip you won, create a token that's a copy of that creature. Those tokens gain haste. Exile them at the beginning of the next end step."
+msgstr ""
+
+#: ../../RNA.rst:244
+msgid "Rix Maadi Reveler"
+msgstr ""
+
+#: ../../RNA.rst:241
+msgid "Spectacle |mana_2|\\ |mana_b|\\ |mana_r| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
+msgstr ""
+
+#: ../../RNA.rst:243
+msgid "When Rix Maadi Reveler enters the battlefield, discard a card, then draw a card. If Rix Maadi Reveler's spectacle cost was paid, instead discard your hand, then draw three cards."
+msgstr ""
+
+#: ../../RNA.rst:248
+msgid "\"#branding\""
+msgstr ""
+
+#: ../../RNA.rst:247
+msgid "\"#branding\" deals 2 damage to target creature. If that creature would die this turn, exile it instead."
+msgstr ""
+
+#: ../../RNA.rst:256
+msgid "Skarrgan Hellkite"
+msgstr ""
+
+#: ../../RNA.rst:251
+#: ../../RNA.rst:285
+#: ../../RNA.rst:427
+#: ../../RNA.rst:457
+#: ../../RNA.rst:561
+#: ../../RNA.rst:651
+msgid "Riot (This creature enters the battlefield with your choice of a +1/+1 counter or haste.)"
+msgstr ""
+
+#: ../../RNA.rst:255
+msgid "|mana_3|\\ |mana_r|: Skarrgan Hellkite deals 2 damage divided as you choose among one or two targets. Activate this ability only if Skarrgan Hellkite has a +1/+1 counter on it."
+msgstr ""
+
+#: ../../RNA.rst:262
+msgid "Skewer the Critics"
+msgstr ""
+
+#: ../../RNA.rst:261
+msgid "Skewer the Critics deals 3 damage to any target."
+msgstr ""
+
+#: ../../RNA.rst:266
+msgid "Smelt-Ward Ignus"
+msgstr ""
+
+#: ../../RNA.rst:265
+msgid "|mana_2|\\ |mana_r|, Sacrifice Smelt-Ward Ignus: Gain control of target creature with power 3 or less until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../RNA.rst:270
+msgid "Biogenic Upgrade"
+msgstr ""
+
+#: ../../RNA.rst:269
+msgid "Distribute three +1/+1 counters among one, two, or three target creatures, then double the number of +1/+1 counters on each of those creatures."
+msgstr ""
+
+#: ../../RNA.rst:276
+msgid "End-Raze Forerunners"
+msgstr ""
+
+#: ../../RNA.rst:273
+msgid "Vigilance, trample, haste"
+msgstr ""
+
+#: ../../RNA.rst:275
+msgid "When End-Raze Forerunners enters the battlefield, other creatures you control get +2/+2 and gain vigilance and trample until end of turn."
+msgstr ""
+
+#: ../../RNA.rst:282
+msgid "Growth-Chamber Guardian"
+msgstr ""
+
+#: ../../RNA.rst:279
+#: ../../RNA.rst:313
+msgid "|mana_2|\\ |mana_g|: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../RNA.rst:281
+msgid "Whenever one or more +1/+1 counters are put on Growth-Chamber Guardian, you may search your library for a card named Growth-Chamber Guardian, reveal it, put it into your hand, then shuffle your library."
+msgstr ""
+
+#: ../../RNA.rst:288
+msgid "Gruul Beastmaster"
+msgstr ""
+
+#: ../../RNA.rst:287
+msgid "Whenever Gruul Beastmaster attacks, another target creature you control gets +X/+0 until end of turn, where X is Gruul Beastmaster's power."
+msgstr ""
+
+#: ../../RNA.rst:292
+msgid "Guardian Project"
+msgstr ""
+
+#: ../../RNA.rst:291
+msgid "Whenever a nontoken creature enters the battlefield under your control, if that creature does not have the same name as another creature you control or a creature card in your graveyard, draw a card."
+msgstr ""
+
+#: ../../RNA.rst:296
+msgid "Rampage of the Clans"
+msgstr ""
+
+#: ../../RNA.rst:295
+msgid "Destroy all artifacts and enchantments. For each permanent destroyed this way, its controller creates a 3/3 green Centaur creature token."
+msgstr ""
+
+#: ../../RNA.rst:300
+msgid "Sauroform Hybrid"
+msgstr ""
+
+#: ../../RNA.rst:299
+msgid "|mana_4|\\ |mana_g|\\ |mana_g|: Adapt 4. (If this creature has no +1/+1 counters on it, put four +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../RNA.rst:304
+msgid "Silhana Wayfinder"
+msgstr ""
+
+#: ../../RNA.rst:303
+msgid "When Silhana Wayfinder enters the battlefield, look at the top four cards of your library. You may reveal a creature or land card from among them and put it on top of your library. Put the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../RNA.rst:310
+msgid "Titanic Brawl"
+msgstr ""
+
+#: ../../RNA.rst:307
+msgid "This spell costs |mana_1| less to cast if it targets a creature you control with a +1/+1 counter on it."
+msgstr ""
+
+#: ../../RNA.rst:309
+msgid "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../RNA.rst:316
+msgid "Trollbred Guardian"
+msgstr ""
+
+#: ../../RNA.rst:315
+#: ../../RNA.rst:647
 msgid "Each creature you control with a +1/+1 counter on it has trample."
 msgstr ""
 
-#: ../../RNA.rst:388
-msgid "Zhur-Taa Goblin"
+#: ../../RNA.rst:320
+msgid "Wilderness Reclamation"
 msgstr ""
 
-#: ../../RNA.rst:392
-msgid "Carnival"
+#: ../../RNA.rst:319
+msgid "At the beginning of your end step, untap all lands you control."
 msgstr ""
 
-#: ../../RNA.rst:391
-msgid "Carnival deals 1 damage to target creature or planeswalker and 1 damage to that permanent's controller."
+#: ../../RNA.rst:324
+msgid "Absorb"
 msgstr ""
 
-#: ../../RNA.rst:396
-msgid "Carnage"
+#: ../../RNA.rst:323
+msgid "Counter target spell. You gain 3 life."
+msgstr ""
+
+#: ../../RNA.rst:330
+msgid "Aeromunculus"
+msgstr ""
+
+#: ../../RNA.rst:329
+#: ../../RNA.rst:597
+msgid "|mana_2|\\ |mana_g|\\ |mana_u|: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)"
+msgstr ""
+
+#: ../../RNA.rst:336
+msgid "Azorius Skyguard"
+msgstr ""
+
+#: ../../RNA.rst:333
+msgid "Flying, first strike"
+msgstr ""
+
+#: ../../RNA.rst:335
+msgid "Creatures your opponents control get -1/-0."
+msgstr ""
+
+#: ../../RNA.rst:340
+msgid "Basilica Bell-Haunt"
+msgstr ""
+
+#: ../../RNA.rst:339
+msgid "When Basilica Bell-Haunt enters the battlefield, each opponent discards a card and you gain 3 life."
+msgstr ""
+
+#: ../../RNA.rst:344
+msgid "Bedevil"
+msgstr ""
+
+#: ../../RNA.rst:343
+msgid "Destroy target artifact, creature, or planeswalker."
+msgstr ""
+
+#: ../../RNA.rst:350
+msgid "Biomancer's Familiar"
+msgstr ""
+
+#: ../../RNA.rst:347
+msgid "Activated abilities of creatures you control cost |mana_2| less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana."
+msgstr ""
+
+#: ../../RNA.rst:349
+msgid "|tap|: The next time target creature adapts this turn, it adapts as though it had no +1/+1 counters on it."
+msgstr ""
+
+#: ../../RNA.rst:354
+msgid "Bolrac-Clan Crusher"
+msgstr ""
+
+#: ../../RNA.rst:353
+msgid "|tap|, Remove a +1/+1 counter from a creature you control: Bolrac-Clan Crusher deals 2 damage to any target."
+msgstr ""
+
+#: ../../RNA.rst:360
+msgid "\"Whiplash\""
+msgstr ""
+
+#: ../../RNA.rst:357
+msgid "Whenever an opponent casts a noncreature spell, \"Whiplash\" deals 1 damage to that player."
+msgstr ""
+
+#: ../../RNA.rst:359
+msgid "|mana_1|, Sacrifice \"Whiplash\": Destroy target artifact or enchantment. \"Whiplash\" deals 2 damage to that permanent's controller."
+msgstr ""
+
+#: ../../RNA.rst:366
+msgid "Clan Guildmage"
+msgstr ""
+
+#: ../../RNA.rst:363
+msgid "|mana_1|\\ |mana_r|, |tap|: Target creature can't block this turn."
+msgstr ""
+
+#: ../../RNA.rst:365
+msgid "|mana_2|\\ |mana_g|, |tap|: Target land you control becomes a 4/4 Elemental creature with haste until end of turn. It's still a land."
+msgstr ""
+
+#: ../../RNA.rst:372
+msgid "Combine Guildmage"
+msgstr ""
+
+#: ../../RNA.rst:369
+msgid "|mana_1|\\ |mana_g|, |tap|: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it."
+msgstr ""
+
+#: ../../RNA.rst:371
+msgid "|mana_1|\\ |mana_u|, |tap|: Move a +1/+1 counter from target creature you control onto another target creature you control."
+msgstr ""
+
+#: ../../RNA.rst:378
+msgid "Cult Guildmage"
+msgstr ""
+
+#: ../../RNA.rst:375
+msgid "|mana_3|\\ |mana_b|, |tap|: Target player discards a card. Activate this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../RNA.rst:377
+msgid "|mana_r|, |tap|: Cult Guildmage deals 1 damage to target opponent or planeswalker."
+msgstr ""
+
+#: ../../RNA.rst:382
+msgid "Deputy of Detention"
+msgstr ""
+
+#: ../../RNA.rst:381
+msgid "When Deputy of Detention enters the battlefield, exile target nonland permanent an opponent controls and all other nonland permanents that player controls with the same name as that permanent until Deputy of Detention leaves the battlefield."
+msgstr ""
+
+#: ../../RNA.rst:390
+msgid "Domri, Chaos Bringer"
+msgstr ""
+
+#: ../../RNA.rst:385
+msgid "+1: Add |mana_r| or |mana_g|. If that mana is spent on a creature spell, it gains riot."
+msgstr ""
+
+#: ../../RNA.rst:387
+msgid "−3: Look at the top four cards of your library. You may reveal up to two creature cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../RNA.rst:389
+msgid "−8: You get an emblem with \"At the beginning of each end step, create a 4/4 red and green Beast creature token with trample.\""
+msgstr ""
+
+#: ../../RNA.rst:398
+msgid "Dovin, Grand Arbiter"
+msgstr ""
+
+#: ../../RNA.rst:393
+msgid "+1: Until end of turn, whenever a creature you control deals combat damage to a player, put a loyalty counter on Dovin, Grand Arbiter."
 msgstr ""
 
 #: ../../RNA.rst:395
-msgid "Carnage deals 3 damage to target opponent. That player discards two cards."
+msgid "-1: Create a 1/1 colorless Thopter artifact creature token with flying. You gain 1 life."
 msgstr ""
 
-#: ../../RNA.rst:402
-msgid "Consecrate"
+#: ../../RNA.rst:397
+msgid "-7: Look at the top ten cards of your library. Put three of them into your hand and the rest on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../RNA.rst:399
-msgid "Exile target card from a graveyard."
+#: ../../RNA.rst:404
+msgid "Dovin's Acuity"
 msgstr ""
 
 #: ../../RNA.rst:401
-#: ../../RNA.rst:411
-msgid "Draw a card."
+msgid "When Dovin's Acuity enters the battlefield, you gain 2 life and draw a card."
 msgstr ""
 
-#: ../../RNA.rst:406
-msgid "Consume"
+#: ../../RNA.rst:403
+msgid "Whenever you cast an instant spell during your main phase, you may return Dovin's Acuity to its owner's hand."
 msgstr ""
 
-#: ../../RNA.rst:405
-msgid "Target player sacrifices a creature with the greatest power among creatures they control. You gain life equal to its power."
+#: ../../RNA.rst:410
+msgid "Emergency Powers"
 msgstr ""
 
-#: ../../RNA.rst:412
-msgid "Depose"
+#: ../../RNA.rst:407
+msgid "Each player shuffles their hand and graveyard into their library, then draws seven cards. Exile Emergency Powers."
 msgstr ""
 
 #: ../../RNA.rst:409
-msgid "Tap target creature."
+msgid "Addendum — If you cast this spell during your main phase, you may put a permanent card with converted mana cost 7 or less from your hand onto the battlefield."
 msgstr ""
 
-#: ../../RNA.rst:416
-msgid "Deploy"
+#: ../../RNA.rst:418
+msgid "Ethereal Absolution"
+msgstr ""
+
+#: ../../RNA.rst:413
+msgid "Creatures you control get +1/+1."
 msgstr ""
 
 #: ../../RNA.rst:415
-msgid "Create two 1/1 colorless Thopter artifact creature tokens with flying, then you gain 1 life for each creature you control."
+msgid "Creatures your opponents control get -1/-1."
 msgstr ""
 
-#: ../../RNA.rst:420
-msgid "Incubation"
-msgstr ""
-
-#: ../../RNA.rst:419
-msgid "Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+#: ../../RNA.rst:417
+msgid "|mana_2|\\ |mana_w|\\ |mana_b|: Exile target card from an opponent's graveyard. If it was a creature card, you create a 1/1 white and black Spirit creature token with flying."
 msgstr ""
 
 #: ../../RNA.rst:424
-msgid "Incongruity"
+msgid "Fireblade Artist"
+msgstr ""
+
+#: ../../RNA.rst:421
+msgid "Haste"
 msgstr ""
 
 #: ../../RNA.rst:423
-msgid "Exile target creature. That creature's controller creates a 3/3 green Frog Lizard creature token."
+msgid "At the beginning of your upkeep, you may sacrifice a creature. When you do, Fireblade Artist deals 2 damage to target opponent or planeswalker."
 msgstr ""
 
-#: ../../RNA.rst:430
-msgid "Azorius Locket"
-msgstr ""
-
-#: ../../RNA.rst:427
-#: ../../RNA.rst:467
-#: ../../RNA.rst:473
-msgid "|tap|: Add |mana_w| or |mana_u|."
+#: ../../RNA.rst:432
+msgid "Frenzied Arynx"
 msgstr ""
 
 #: ../../RNA.rst:429
-msgid "|mana_wu|\\ |mana_wu|\\ |mana_wu|\\ |mana_wu|, |tap|, Sacrifice Azorius Locket: Draw two cards."
+#: ../../RNA.rst:441
+#: ../../RNA.rst:459
+msgid "Trample"
+msgstr ""
+
+#: ../../RNA.rst:431
+msgid "|mana_4|\\ |mana_r|\\ |mana_g|: Frenzied Arynx gets +3/+0 until end of turn."
 msgstr ""
 
 #: ../../RNA.rst:438
-msgid "Gate Colossus"
-msgstr ""
-
-#: ../../RNA.rst:433
-msgid "This spell costs |mana_1| less to cast for each Gate you control."
-msgstr ""
-
-#: ../../RNA.rst:435
-msgid "Gate Colossus can't be blocked by creatures with power 2 or less."
+msgid "Frilled Mystic"
 msgstr ""
 
 #: ../../RNA.rst:437
-msgid "Whenever a Gate enters the battlefield under your control, you may put Gate Colossus from your graveyard on top of your library."
+msgid "When Frilled Mystic enters the battlefield, you may counter target spell."
 msgstr ""
 
 #: ../../RNA.rst:444
-msgid "Gruul Locket"
-msgstr ""
-
-#: ../../RNA.rst:441
-#: ../../RNA.rst:497
-#: ../../RNA.rst:503
-msgid "|tap|: Add |mana_r| or |mana_g|."
+msgid "Galloping Lizrog"
 msgstr ""
 
 #: ../../RNA.rst:443
-msgid "|mana_rg|\\ |mana_rg|\\ |mana_rg|\\ |mana_rg|, |tap|, Sacrifice Gruul Locket: Draw two cards."
+msgid "When Galloping Lizrog enters the battlefield, you may remove any number of +1/+1 counters from among creatures you control. If you do, put twice that many +1/+1 counters on Galloping Lizrog."
 msgstr ""
 
 #: ../../RNA.rst:450
-msgid "Orzhov Locket"
-msgstr ""
-
-#: ../../RNA.rst:447
-#: ../../RNA.rst:515
-#: ../../RNA.rst:521
-msgid "|tap|: Add |mana_w| or |mana_b|."
+msgid "Grasping Thrull"
 msgstr ""
 
 #: ../../RNA.rst:449
-msgid "|mana_wb|\\ |mana_wb|\\ |mana_wb|\\ |mana_wb|, |tap|, Sacrifice Orzhov Locket: Draw two cards."
+msgid "When Grasping Thrull enters the battlefield, it deals 2 damage to each opponent and you gain 2 life."
 msgstr ""
 
-#: ../../RNA.rst:456
-msgid "Rakdos Locket"
+#: ../../RNA.rst:454
+msgid "Growth Spiral"
 msgstr ""
 
 #: ../../RNA.rst:453
-#: ../../RNA.rst:527
-#: ../../RNA.rst:533
-msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
-
-#: ../../RNA.rst:455
-msgid "|mana_br|\\ |mana_br|\\ |mana_br|\\ |mana_br|, |tap|, Sacrifice Rakdos Locket: Draw two cards."
+msgid "Draw a card. You may put a land card from your hand onto the battlefield."
 msgstr ""
 
 #: ../../RNA.rst:462
-msgid "Simic Locket"
-msgstr ""
-
-#: ../../RNA.rst:459
-#: ../../RNA.rst:539
-#: ../../RNA.rst:545
-msgid "|tap|: Add |mana_g| or |mana_u|."
+msgid "Gruul Spellbreaker"
 msgstr ""
 
 #: ../../RNA.rst:461
-msgid "|mana_gu|\\ |mana_gu|\\ |mana_gu|\\ |mana_gu|, |tap|, Sacrifice Simic Locket: Draw two cards."
+msgid "As long as it's your turn, you and Gruul Spellbreaker have hexproof."
 msgstr ""
 
-#: ../../RNA.rst:468
-#: ../../RNA.rst:474
-msgid "Azorius Guildgate"
+#: ../../RNA.rst:466
+msgid "Gyre Engineer"
 msgstr ""
 
 #: ../../RNA.rst:465
-#: ../../RNA.rst:471
-msgid "Azorius Guildgate enters the battlefield tapped."
+msgid "|tap|: Add |mana_g|\\ |mana_u|."
 msgstr ""
 
-#: ../../RNA.rst:480
-msgid "Blood Crypt"
+#: ../../RNA.rst:474
+msgid "Hackrobat"
+msgstr ""
+
+#: ../../RNA.rst:469
+msgid "Spectacle |mana_b|\\ |mana_r| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
+msgstr ""
+
+#: ../../RNA.rst:471
+msgid "|mana_b|: Hackrobat gains deathtouch until end of turn."
+msgstr ""
+
+#: ../../RNA.rst:473
+msgid "|mana_r|: Hackrobat gets +2/-2 until end of turn."
+msgstr ""
+
+#: ../../RNA.rst:482
+msgid "High Alert"
 msgstr ""
 
 #: ../../RNA.rst:477
-msgid "(|tap|: Add |mana_b| or |mana_r|.)"
+msgid "Each creature you control assigns combat damage equal to its toughness rather than its power."
 msgstr ""
 
 #: ../../RNA.rst:479
-msgid "As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+msgid "Creatures you control can attack as though they didn't have defender."
 msgstr ""
 
-#: ../../RNA.rst:486
-msgid "Breeding Pool"
+#: ../../RNA.rst:481
+msgid "|mana_2|\\ |mana_w|\\ |mana_u|: Untap target creature."
 msgstr ""
 
-#: ../../RNA.rst:483
-msgid "(|tap|: Add |mana_g| or |mana_u|.)"
+#: ../../RNA.rst:490
+msgid "Hydroid Krasis"
 msgstr ""
 
 #: ../../RNA.rst:485
-msgid "As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
-msgstr ""
-
-#: ../../RNA.rst:492
-msgid "Godless Shrine"
+msgid "When you cast this spell, you gain half X life and draw half X cards. Round down each time."
 msgstr ""
 
 #: ../../RNA.rst:489
-msgid "(|tap|: Add |mana_w| or |mana_b|.)"
+msgid "Hydroid Krasis enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
-#: ../../RNA.rst:491
-msgid "As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+#: ../../RNA.rst:496
+msgid "Imperious Oligarch"
 msgstr ""
 
-#: ../../RNA.rst:498
-#: ../../RNA.rst:504
-msgid "Gruul Guildgate"
+#: ../../RNA.rst:502
+msgid "Judith, the Scourge Diva"
 msgstr ""
 
-#: ../../RNA.rst:495
+#: ../../RNA.rst:499
+msgid "Other creatures you control get +1/+0."
+msgstr ""
+
 #: ../../RNA.rst:501
-msgid "Gruul Guildgate enters the battlefield tapped."
+msgid "Whenever a nontoken creature you control dies, Judith, the Scourge Diva deals 1 damage to any target."
 msgstr ""
 
 #: ../../RNA.rst:510
-msgid "Hallowed Fountain"
+msgid "Kaya, Orzhov Usurper"
+msgstr ""
+
+#: ../../RNA.rst:505
+msgid "+1: Exile up to two target cards from a single graveyard. You gain 2 life if at least one creature card was exiled this way."
 msgstr ""
 
 #: ../../RNA.rst:507
-msgid "(|tap|: Add |mana_w| or |mana_u|.)"
+msgid "-1: Exile target nonland permanent with converted mana cost 1 or less."
 msgstr ""
 
 #: ../../RNA.rst:509
-msgid "As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+msgid "-5: Kaya, Orzhov Usurper deals damage to target player equal to the number of cards that player owns in exile and you gain that much life."
 msgstr ""
 
-#: ../../RNA.rst:516
-#: ../../RNA.rst:522
-msgid "Orzhov Guildgate"
+#: ../../RNA.rst:514
+msgid "Kaya's Wrath"
 msgstr ""
 
 #: ../../RNA.rst:513
+msgid "Destroy all creatures. You gain life equal to the number of creatures you controlled that were destroyed this way."
+msgstr ""
+
+#: ../../RNA.rst:520
+msgid "Lavinia, Azorius Renegade"
+msgstr ""
+
+#: ../../RNA.rst:517
+msgid "Each opponent can't cast noncreature spells with converted mana cost greater than the number of lands that player controls."
+msgstr ""
+
 #: ../../RNA.rst:519
-msgid "Orzhov Guildgate enters the battlefield tapped."
+msgid "Whenever an opponent casts a spell, if no mana was spent to cast it, counter that spell."
 msgstr ""
 
-#: ../../RNA.rst:528
+#: ../../RNA.rst:524
+msgid "Mortify"
+msgstr ""
+
+#: ../../RNA.rst:523
+msgid "Destroy target creature or enchantment."
+msgstr ""
+
+#: ../../RNA.rst:530
+msgid "Nikya of the Old Ways"
+msgstr ""
+
+#: ../../RNA.rst:527
+msgid "You can't cast noncreature spells."
+msgstr ""
+
+#: ../../RNA.rst:529
+msgid "Whenever you tap a land for mana, add one mana of any type that land produced."
+msgstr ""
+
 #: ../../RNA.rst:534
-msgid "Rakdos Guildgate"
+msgid "Pitiless Pontiff"
 msgstr ""
 
-#: ../../RNA.rst:525
-#: ../../RNA.rst:531
-msgid "Rakdos Guildgate enters the battlefield tapped."
+#: ../../RNA.rst:533
+msgid "|mana_1|, Sacrifice another creature: Pitiless Pontiff gains deathtouch and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
 
-#: ../../RNA.rst:540
-#: ../../RNA.rst:546
-msgid "Simic Guildgate"
+#: ../../RNA.rst:538
+msgid "Prime Speaker Vannifar"
 msgstr ""
 
 #: ../../RNA.rst:537
+msgid "|tap|, Sacrifice another creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery."
+msgstr ""
+
+#: ../../RNA.rst:544
+msgid "Rafter Demon"
+msgstr ""
+
+#: ../../RNA.rst:541
+msgid "Spectacle |mana_3|\\ |mana_b|\\ |mana_r| (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)"
+msgstr ""
+
 #: ../../RNA.rst:543
-msgid "Simic Guildgate enters the battlefield tapped."
+msgid "When Rafter Demon enters the battlefield, if its spectacle cost was paid, each opponent discards a card."
+msgstr ""
+
+#: ../../RNA.rst:548
+msgid "Rakdos Firewheeler"
+msgstr ""
+
+#: ../../RNA.rst:547
+msgid "When Rakdos Firewheeler enters the battlefield, it deals 2 damage to target opponent and 2 damage to up to one target creature or planeswalker."
 msgstr ""
 
 #: ../../RNA.rst:552
-msgid "Stomping Ground"
-msgstr ""
-
-#: ../../RNA.rst:549
-msgid "(|tap|: Add |mana_r| or |mana_g|.)"
+msgid "Rakdos Roustabout"
 msgstr ""
 
 #: ../../RNA.rst:551
-msgid "As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+msgid "Whenever Rakdos Roustabout becomes blocked, it deals 1 damage to the player or planeswalker it's attacking."
 msgstr ""
 
-#: ../../RNA.rst:559
-msgid "The Haunt of Hightower"
-msgstr ""
-
-#: ../../RNA.rst:555
-msgid "Flying, lifelink"
+#: ../../RNA.rst:558
+msgid "Rakdos, the Showstopper"
 msgstr ""
 
 #: ../../RNA.rst:557
+msgid "When Rakdos, the Showstopper enters the battlefield, flip a coin for each creature that isn't a Demon, Devil, or Imp. Destroy each creature whose coin comes up tails."
+msgstr ""
+
+#: ../../RNA.rst:568
+msgid "Ravager Wurm"
+msgstr ""
+
+#: ../../RNA.rst:563
+msgid "When Ravager Wurm enters the battlefield, choose up to one —"
+msgstr ""
+
+#: ../../RNA.rst:565
+msgid "Ravager Wurm fights target creature you don't control."
+msgstr ""
+
+#: ../../RNA.rst:567
+msgid "Destroy target land with an activated ability that isn't a mana ability."
+msgstr ""
+
+#: ../../RNA.rst:574
+msgid "Rhythm of the Wild"
+msgstr ""
+
+#: ../../RNA.rst:571
+msgid "Creature spells you control can't be countered."
+msgstr ""
+
+#: ../../RNA.rst:573
+msgid "Nontoken creatures you control have riot. (They enter the battlefield with your choice of a +1/+1 counter or haste.)"
+msgstr ""
+
+#: ../../RNA.rst:578
+msgid "Savage Smash"
+msgstr ""
+
+#: ../../RNA.rst:577
+msgid "Target creature you control gets +2/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.)"
+msgstr ""
+
+#: ../../RNA.rst:584
+msgid "Senate Guildmage"
+msgstr ""
+
+#: ../../RNA.rst:581
+msgid "|mana_w|, |tap|: You gain 2 life."
+msgstr ""
+
+#: ../../RNA.rst:583
+msgid "|mana_u|, |tap|: Draw a card, then discard a card."
+msgstr ""
+
+#: ../../RNA.rst:594
+msgid "Seraph of the Scales"
+msgstr ""
+
+#: ../../RNA.rst:589
+msgid "|mana_w|: Seraph of the Scales gains vigilance until end of turn."
+msgstr ""
+
+#: ../../RNA.rst:591
+msgid "|mana_b|: Seraph of the Scales gains deathtouch until end of turn."
+msgstr ""
+
+#: ../../RNA.rst:600
+msgid "Sharktocrab"
+msgstr ""
+
+#: ../../RNA.rst:599
+msgid "Whenever one or more +1/+1 counter are put on Sharktocrab, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step."
+msgstr ""
+
+#: ../../RNA.rst:608
+msgid "Simic Ascendancy"
+msgstr ""
+
+#: ../../RNA.rst:603
+msgid "|mana_1|\\ |mana_g|\\ |mana_u|: Put a +1/+1 counter on target creature you control."
+msgstr ""
+
+#: ../../RNA.rst:605
+msgid "Whenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on Simic Ascendancy."
+msgstr ""
+
+#: ../../RNA.rst:607
+msgid "At the beginning of your upkeep, if Simic Ascendancy has twenty or more growth counters on it, you win the game."
+msgstr ""
+
+#: ../../RNA.rst:614
+msgid "Sphinx of New Prahv"
+msgstr ""
+
+#: ../../RNA.rst:611
+msgid "Flying, vigilance"
+msgstr ""
+
+#: ../../RNA.rst:613
+msgid "Spells your opponents cast that target Sphinx of New Prahv cost |mana_2| more to cast."
+msgstr ""
+
+#: ../../RNA.rst:620
+msgid "Sphinx's Insight"
+msgstr ""
+
+#: ../../RNA.rst:617
+msgid "Draw two cards."
+msgstr ""
+
+#: ../../RNA.rst:619
+msgid "Addendum — If you cast this spell during your main phase, you gain 2 life."
+msgstr ""
+
+#: ../../RNA.rst:626
+msgid "Syndicate Guildmage"
+msgstr ""
+
+#: ../../RNA.rst:623
+msgid "|mana_1|\\ |mana_w|, |tap|: Tap target creature with power 4 or greater."
+msgstr ""
+
+#: ../../RNA.rst:625
+msgid "|mana_4|\\ |mana_b|, |tap|: Syndicate Guildmage deals 2 damage to target opponent or planeswalker."
+msgstr ""
+
+#: ../../RNA.rst:632
+msgid "Teysa Karlov"
+msgstr ""
+
+#: ../../RNA.rst:629
+msgid "If a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
+msgstr ""
+
+#: ../../RNA.rst:631
+msgid "Creature tokens you control have vigilance and lifelink."
+msgstr ""
+
+#: ../../RNA.rst:640
+msgid "Theater of Horrors"
+msgstr ""
+
+#: ../../RNA.rst:635
+msgid "At the beginning of your upkeep, exile the top card of your library."
+msgstr ""
+
+#: ../../RNA.rst:637
+msgid "During your turn, if an opponent lost life this turn, you may play cards exiled with Theater of Horrors."
+msgstr ""
+
+#: ../../RNA.rst:639
+msgid "|mana_3|\\ |mana_r|: Theater of Horrors deals 1 damage to target opponent or planeswalker."
+msgstr ""
+
+#: ../../RNA.rst:648
+msgid "Zegana, Utopian Speaker"
+msgstr ""
+
+#: ../../RNA.rst:643
+msgid "When Zegana, Utopian Speaker enters the battlefield, if you control another creature with a +1/+1 counter on it, draw a card."
+msgstr ""
+
+#: ../../RNA.rst:645
+msgid "|mana_4|\\ |mana_g|\\ |mana_u|: Adapt 4. (If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)"
+msgstr ""
+
+#: ../../RNA.rst:652
+msgid "Zhur-Taa Goblin"
+msgstr ""
+
+#: ../../RNA.rst:656
+msgid "Bedeck"
+msgstr ""
+
+#: ../../RNA.rst:655
+msgid "Target creature gets +3/-3 until end of turn."
+msgstr ""
+
+#: ../../RNA.rst:660
+msgid "Bedazzle"
+msgstr ""
+
+#: ../../RNA.rst:659
+msgid "Destroy target nonbasic land. Bedeck deals 2 damage to target opponent or planeswalker."
+msgstr ""
+
+#: ../../RNA.rst:664
+msgid "Carnival"
+msgstr ""
+
+#: ../../RNA.rst:663
+msgid "Carnival deals 1 damage to target creature or planeswalker and 1 damage to that permanent's controller."
+msgstr ""
+
+#: ../../RNA.rst:668
+msgid "Carnage"
+msgstr ""
+
+#: ../../RNA.rst:667
+msgid "Carnage deals 3 damage to target opponent. That player discards two cards."
+msgstr ""
+
+#: ../../RNA.rst:674
+msgid "Consecrate"
+msgstr ""
+
+#: ../../RNA.rst:671
+msgid "Exile target card from a graveyard."
+msgstr ""
+
+#: ../../RNA.rst:673
+#: ../../RNA.rst:683
+msgid "Draw a card."
+msgstr ""
+
+#: ../../RNA.rst:678
+msgid "Consume"
+msgstr ""
+
+#: ../../RNA.rst:677
+msgid "Target player sacrifices a creature with the greatest power among creatures they control. You gain life equal to its power."
+msgstr ""
+
+#: ../../RNA.rst:684
+msgid "Depose"
+msgstr ""
+
+#: ../../RNA.rst:681
+msgid "Tap target creature."
+msgstr ""
+
+#: ../../RNA.rst:688
+msgid "Deploy"
+msgstr ""
+
+#: ../../RNA.rst:687
+msgid "Create two 1/1 colorless Thopter artifact creature tokens with flying, then you gain 1 life for each creature you control."
+msgstr ""
+
+#: ../../RNA.rst:692
+msgid "Incubation"
+msgstr ""
+
+#: ../../RNA.rst:691
+msgid "Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+msgstr ""
+
+#: ../../RNA.rst:696
+msgid "Incongruity"
+msgstr ""
+
+#: ../../RNA.rst:695
+msgid "Exile target creature. That creature's controller creates a 3/3 green Frog Lizard creature token."
+msgstr ""
+
+#: ../../RNA.rst:700
+msgid "Revival"
+msgstr ""
+
+#: ../../RNA.rst:699
+msgid "Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield."
+msgstr ""
+
+#: ../../RNA.rst:704
+msgid "Revenge"
+msgstr ""
+
+#: ../../RNA.rst:703
+msgid "Double your life total. Target opponent loses half their life, rounded up."
+msgstr ""
+
+#: ../../RNA.rst:708
+msgid "Thrash"
+msgstr ""
+
+#: ../../RNA.rst:707
+msgid "Target creature you control deals damage equal to its power to target creature or planeswalker you don't control."
+msgstr ""
+
+#: ../../RNA.rst:712
+msgid "Threat"
+msgstr ""
+
+#: ../../RNA.rst:711
+msgid "Create a 4/4 red and green Beast creature token with trample."
+msgstr ""
+
+#: ../../RNA.rst:716
+msgid "Warrant"
+msgstr ""
+
+#: ../../RNA.rst:715
+msgid "Put target attacking or blocking creature on top of its owner's library."
+msgstr ""
+
+#: ../../RNA.rst:720
+msgid "Warden"
+msgstr ""
+
+#: ../../RNA.rst:719
+msgid "Create a 4/4 white and blue Sphinx creature token with flying and vigilance."
+msgstr ""
+
+#: ../../RNA.rst:726
+msgid "Azorius Locket"
+msgstr ""
+
+#: ../../RNA.rst:723
+#: ../../RNA.rst:773
+#: ../../RNA.rst:779
+msgid "|tap|: Add |mana_w| or |mana_u|."
+msgstr ""
+
+#: ../../RNA.rst:725
+msgid "|mana_wu|\\ |mana_wu|\\ |mana_wu|\\ |mana_wu|, |tap|, Sacrifice Azorius Locket: Draw two cards."
+msgstr ""
+
+#: ../../RNA.rst:734
+msgid "Gate Colossus"
+msgstr ""
+
+#: ../../RNA.rst:729
+msgid "This spell costs |mana_1| less to cast for each Gate you control."
+msgstr ""
+
+#: ../../RNA.rst:731
+msgid "Gate Colossus can't be blocked by creatures with power 2 or less."
+msgstr ""
+
+#: ../../RNA.rst:733
+msgid "Whenever a Gate enters the battlefield under your control, you may put Gate Colossus from your graveyard on top of your library."
+msgstr ""
+
+#: ../../RNA.rst:738
+msgid "\"Azhovirzzekdosaruulosnyic Signet\""
+msgstr ""
+
+#: ../../RNA.rst:737
+msgid "Multicolored creatures you control get +1/+1."
+msgstr ""
+
+#: ../../RNA.rst:744
+msgid "Gruul Locket"
+msgstr ""
+
+#: ../../RNA.rst:741
+#: ../../RNA.rst:803
+#: ../../RNA.rst:809
+msgid "|tap|: Add |mana_r| or |mana_g|."
+msgstr ""
+
+#: ../../RNA.rst:743
+msgid "|mana_rg|\\ |mana_rg|\\ |mana_rg|\\ |mana_rg|, |tap|, Sacrifice Gruul Locket: Draw two cards."
+msgstr ""
+
+#: ../../RNA.rst:750
+msgid "Orzhov Locket"
+msgstr ""
+
+#: ../../RNA.rst:747
+#: ../../RNA.rst:821
+#: ../../RNA.rst:827
+msgid "|tap|: Add |mana_w| or |mana_b|."
+msgstr ""
+
+#: ../../RNA.rst:749
+msgid "|mana_wb|\\ |mana_wb|\\ |mana_wb|\\ |mana_wb|, |tap|, Sacrifice Orzhov Locket: Draw two cards."
+msgstr ""
+
+#: ../../RNA.rst:756
+msgid "Rakdos Locket"
+msgstr ""
+
+#: ../../RNA.rst:753
+#: ../../RNA.rst:841
+#: ../../RNA.rst:847
+msgid "|tap|: Add |mana_b| or |mana_r|."
+msgstr ""
+
+#: ../../RNA.rst:755
+msgid "|mana_br|\\ |mana_br|\\ |mana_br|\\ |mana_br|, |tap|, Sacrifice Rakdos Locket: Draw two cards."
+msgstr ""
+
+#: ../../RNA.rst:762
+msgid "Scrabbling Claws"
+msgstr ""
+
+#: ../../RNA.rst:759
+msgid "|tap|: Target player exiles a card from their graveyard."
+msgstr ""
+
+#: ../../RNA.rst:761
+msgid "|mana_1|, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card."
+msgstr ""
+
+#: ../../RNA.rst:768
+msgid "Simic Locket"
+msgstr ""
+
+#: ../../RNA.rst:765
+#: ../../RNA.rst:853
+#: ../../RNA.rst:859
+msgid "|tap|: Add |mana_g| or |mana_u|."
+msgstr ""
+
+#: ../../RNA.rst:767
+msgid "|mana_gu|\\ |mana_gu|\\ |mana_gu|\\ |mana_gu|, |tap|, Sacrifice Simic Locket: Draw two cards."
+msgstr ""
+
+#: ../../RNA.rst:774
+#: ../../RNA.rst:780
+msgid "Azorius Guildgate"
+msgstr ""
+
+#: ../../RNA.rst:771
+#: ../../RNA.rst:777
+msgid "Azorius Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../RNA.rst:786
+msgid "Blood Crypt"
+msgstr ""
+
+#: ../../RNA.rst:783
+msgid "(|tap|: Add |mana_b| or |mana_r|.)"
+msgstr ""
+
+#: ../../RNA.rst:785
+msgid "As Blood Crypt enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+msgstr ""
+
+#: ../../RNA.rst:792
+msgid "Breeding Pool"
+msgstr ""
+
+#: ../../RNA.rst:789
+msgid "(|tap|: Add |mana_g| or |mana_u|.)"
+msgstr ""
+
+#: ../../RNA.rst:791
+msgid "As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+msgstr ""
+
+#: ../../RNA.rst:798
+msgid "Godless Shrine"
+msgstr ""
+
+#: ../../RNA.rst:795
+msgid "(|tap|: Add |mana_w| or |mana_b|.)"
+msgstr ""
+
+#: ../../RNA.rst:797
+msgid "As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+msgstr ""
+
+#: ../../RNA.rst:804
+#: ../../RNA.rst:810
+msgid "Gruul Guildgate"
+msgstr ""
+
+#: ../../RNA.rst:801
+#: ../../RNA.rst:807
+msgid "Gruul Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../RNA.rst:816
+msgid "Hallowed Fountain"
+msgstr ""
+
+#: ../../RNA.rst:813
+msgid "(|tap|: Add |mana_w| or |mana_u|.)"
+msgstr ""
+
+#: ../../RNA.rst:815
+msgid "As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+msgstr ""
+
+#: ../../RNA.rst:822
+#: ../../RNA.rst:828
+msgid "Orzhov Guildgate"
+msgstr ""
+
+#: ../../RNA.rst:819
+#: ../../RNA.rst:825
+msgid "Orzhov Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../RNA.rst:836
+msgid "\"Ayn Rand Could Never\""
+msgstr ""
+
+#: ../../RNA.rst:831
+msgid "When \"Ayn Rand Could Never\" enters the battlefield, if you control two or more Gates, you gain 3 life."
+msgstr ""
+
+#: ../../RNA.rst:833
+msgid "|tap|: Add |colorless|."
+msgstr ""
+
+#: ../../RNA.rst:835
+msgid "|tap|: Add one mana of any color a Gate you control could produce."
+msgstr ""
+
+#: ../../RNA.rst:842
+#: ../../RNA.rst:848
+msgid "Rakdos Guildgate"
+msgstr ""
+
+#: ../../RNA.rst:839
+#: ../../RNA.rst:845
+msgid "Rakdos Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../RNA.rst:854
+#: ../../RNA.rst:860
+msgid "Simic Guildgate"
+msgstr ""
+
+#: ../../RNA.rst:851
+#: ../../RNA.rst:857
+msgid "Simic Guildgate enters the battlefield tapped."
+msgstr ""
+
+#: ../../RNA.rst:866
+msgid "Stomping Ground"
+msgstr ""
+
+#: ../../RNA.rst:863
+msgid "(|tap|: Add |mana_r| or |mana_g|.)"
+msgstr ""
+
+#: ../../RNA.rst:865
+msgid "As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
+msgstr ""
+
+#: ../../RNA.rst:873
+msgid "The Haunt of Hightower"
+msgstr ""
+
+#: ../../RNA.rst:869
+msgid "Flying, lifelink"
+msgstr ""
+
+#: ../../RNA.rst:871
 msgid "Whenever The Haunt of Hightower attacks, defending player discards a card."
 msgstr ""
 
-#: ../../RNA.rst:559
+#: ../../RNA.rst:873
 msgid "Whenever a card is put into an opponent's graveyard from anywhere, put a +1/+1 counter on The Haunt of Hightower."
 msgstr ""
 
