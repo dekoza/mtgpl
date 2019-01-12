@@ -6,16 +6,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 20:52+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/ths/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1419174967.506886\n"
 
 # cf7ee521875a459c9352819ad80d2edc
@@ -436,8 +436,8 @@ msgid ""
 "creature. (Each |mana_w| in the mana costs of permanents you control counts "
 "toward your devotion to white.)"
 msgstr ""
-"Dopóki twój kult białego jest mniejszy niż pięć, Heliod nie jest stworem "
-"(Każda |mana_w| w kosztach many permanentów, którymi władasz, wlicza się do "
+"Dopóki twój kult białego jest mniejszy niż pięć, Heliod nie jest stworem ("
+"Każda |mana_w| w kosztach many permanentów pod twoim władaniem wlicza się do "
 "twojego kultu białego.)"
 
 # 2d76ba454cd840c293d1e9c33ec2dd40
@@ -483,7 +483,7 @@ msgid ""
 "Whenever Heliod's Emissary or enchanted creature attacks, tap target "
 "creature an opponent controls."
 msgstr ""
-"Ilekroć Heliod's Emissary lub zauroczony stwór atakuje, zatapuj wskazanego "
+"Ilekroć Heliod's Emissary lub zauroczony stwór atakuje, przekręć wskazanego "
 "stwora, którym włada przeciwnik."
 
 # 18b287ff14b84c3e96522795013a2495
@@ -612,7 +612,7 @@ msgstr "Leonin Snarecaster"
 msgid ""
 "When Leonin Snarecaster enters the battlefield, you may tap target creature."
 msgstr ""
-"Kiedy Leonin Snarecaster wchodzi na pole walki, możesz zatapować wskazanego "
+"Kiedy Leonin Snarecaster wchodzi na pole walki, możesz przekręcić wskazanego "
 "stwora."
 
 # 79857f72fa3e41ab8bd78275371ba6ce
@@ -678,7 +678,7 @@ msgid ""
 "counter on each creature you control."
 msgstr ""
 "Heroizm — Ilekroć rzucasz czar, który wskazuje Phalanx Leader, umieść "
-"znacznik +1/+1 na każdym stworze, którym władasz."
+"znacznik +1/+1 na każdym stworze pod twoim władaniem."
 
 # dc59748bff07458993e0220d6f1d9c19
 # 1ecf63e9603a4b369ba8abf682acfa25
@@ -924,7 +924,7 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, you may "
 "draw a card."
 msgstr ""
-"Ilekroć stwór, którym władasz, zada graczowi obrażenia bitewne, możesz "
+"Ilekroć stwór pod twoim władaniem zada graczowi obrażenia bitewne, możesz "
 "dobrać kartę."
 
 # 15b12860d6f9423ab58fc177e437b490
@@ -963,7 +963,7 @@ msgid ""
 "creature you control."
 msgstr ""
 "Kiedy Breaching Hippocamp wchodzi na pole walki, odznacz innego wskazanego "
-"stwora, którym władasz."
+"stwora pod twoim władaniem."
 
 # ee604bd60d284fd396456d29ae1d22c3
 # 5c6795d32d0b457b8cf309212cab1ac0
@@ -1130,7 +1130,7 @@ msgstr "Ochrona przed czerwonym"
 # c311a65bf5454c9a8fcbd26be8a7190d
 #: ../../THS.rst:291
 msgid "Elemental creatures you control get +1/+1."
-msgstr "Stwory Elemental, którymi władasz, dostają +1/+1."
+msgstr "Stwory Elemental pod twoim władaniem dostają +1/+1."
 
 # 602f7e5938b24fe29f18c440abe96847
 # 33300a0813d145d1aa3b1e414f627963
@@ -1386,9 +1386,9 @@ msgid ""
 "Those creatures don't untap during their controllers' untap steps for as "
 "long as you control Shipbreaker Kraken."
 msgstr ""
-"Kiedy Shipbreaker Kraken staje się monstrualny, zatapuj najwyżej cztery "
-"wskazane stwory. Owe stwory nie odznaczą się podczas kroku odtapowania "
-"swoich władców dopóki władasz Shipbreaker Krakenem."
+"Kiedy Shipbreaker Kraken staje się monstrualny, przekręć najwyżej cztery "
+"wskazane stwory. Owe stwory nie odznaczą się podczas kroku odkręcania swoich "
+"władców dopóki władasz Shipbreaker Krakenem."
 
 # 2d0d869ee855426bb542833f7225e0fe
 # c2353506575c439c95db9ef825557331
@@ -1442,8 +1442,8 @@ msgid ""
 "your devotion to blue.)"
 msgstr ""
 "Dopóki twój kult niebieskiego jest mniejszy niż pięć, Thassa nie jest "
-"stworem (Każda |mana_u| w kosztach many permanentów, którymi władasz, wlicza "
-"się do twojego kultu niebieskiego.)"
+"stworem (Każda |mana_u| w kosztach many permanentów pod twoim władaniem "
+"wlicza się do twojego kultu niebieskiego.)"
 
 # e7948d64b2d047ddb351e0aeb689c483
 # cc9014a1800a432ea1293ee77b6bb7f8
@@ -1458,8 +1458,8 @@ msgstr "Na początku twojego kroku utrzymania, wróż 1."
 msgid ""
 "|mana_1|\\ |mana_u|: Target creature you control can't be blocked this turn."
 msgstr ""
-"|mana_1|\\ |mana_u|: Wskazany stwór, którym władasz, nie może być blokowany "
-"w tej turze."
+"|mana_1|\\ |mana_u|: Wskazany stwór pod twoim władaniem nie może być "
+"blokowany w tej turze."
 
 # 22205fa897444442afb1b71cd14dcc37
 # 36ee6d91f4bb4b38bdca306e94f8e515
@@ -1549,9 +1549,9 @@ msgid ""
 "controller's next untap step."
 msgstr ""
 "Każdy z nie więcej niż dwóch wskazanych stworów dostaje do końca tury +0/+3. "
-"Odtapuj owe stwory. W chwili najbliższego końca walki w tej turze, zatapuj "
+"Odkręć owe stwory. W chwili najbliższego końca walki w tej turze, przekręć "
 "każdego stwora, który był blokowany przez te stwory i owe stwory nie "
-"odznaczą się w następnym kroku odtapowania ich władcy."
+"odznaczą się w następnym kroku odkręcania ich władcy."
 
 # 49ea3f9d60a742f1be08a0bfe2203667
 # e1b06de43fbe4341913036310dc182e7
@@ -1598,9 +1598,9 @@ msgid ""
 "creature an opponent controls. That creature doesn't untap during its "
 "controller's next untap step."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący na Wavecrash Triton, zatapuj "
+"Heroizm — Ilekroć rzucasz czar wskazujący na Wavecrash Triton, przekręć "
 "wskazanego stwora, którym włada przeciwnik. Ów stwór nie odznacza się "
-"podczas następnego kroku odtapowania jego władcy."
+"podczas następnego kroku odkręcania jego władcy."
 
 # 0dc95419bdd34259898e18ba477117f8
 # 43f6cd0c14cf43228e2108e489b74714
@@ -1823,8 +1823,8 @@ msgid ""
 msgstr ""
 "Kiedy Disciple of Phenax wchodzi na pole walki, wskazany gracz ujawnia tyle "
 "kart ze swojej ręki, ile wynosi twój kult czarnego. Wybierasz jedną z nich. "
-"Ów gracz odrzuca ową kartę. (Każda |mana_b| w kosztach many permanentów, "
-"którymi władasz, wlicza się do twojego kultu czarnego.)"
+"Ów gracz odrzuca ową kartę. (Każda |mana_b| w kosztach many permanentów pod "
+"twoim władaniem wlicza się do twojego kultu czarnego.)"
 
 # de5261379b134eb18d9950c28ed535f3
 # 7ddbce4fd4a74fd787765410c976854b
@@ -1841,8 +1841,8 @@ msgid ""
 "creature. (Each |mana_b| in the mana costs of permanents you control counts "
 "toward your devotion to black.)"
 msgstr ""
-"Dopóki twój kult czarnego jest mniejszy niż pięć, Erebos nie jest stworem "
-"(Każda |mana_b| w kosztach many permanentów, którymi władasz, wlicza się do "
+"Dopóki twój kult czarnego jest mniejszy niż pięć, Erebos nie jest stworem ("
+"Każda |mana_b| w kosztach many permanentów pod twoim władaniem wlicza się do "
 "twojego kultu czarnego.)"
 
 # 9f87f00ae09f4b0ebc78f44779e31ba5
@@ -1894,7 +1894,7 @@ msgstr "Fleshmad Steed"
 # 141d251d8c3746f78e66878b262e8be3
 #: ../../THS.rst:493
 msgid "Whenever another creature dies, tap Fleshmad Steed."
-msgstr "Ilekroć umiera inny stwór, zatapuj Fleshmad Steed."
+msgstr "Ilekroć umiera inny stwór, przekręć Fleshmad Steed."
 
 # e10e427e62a248119759153fea1ebb40
 # 1e91efe09edf4f489db5fccd2cc0f33f
@@ -2277,7 +2277,7 @@ msgstr "Tormented Hero (Udręczony bohater)"
 # ccc5f13de11044bd97dfbfb27b75818c
 #: ../../THS.rst:597
 msgid "Tormented Hero enters the battlefield tapped."
-msgstr "Tormented Hero wchodzi na pole walki zatapowany."
+msgstr "Tormented Hero wchodzi na pole walki przekręcony."
 
 # 8ecc2589888d44c2b0a41b31e6154c7f
 # c1a4ab432bbe468c8736fa53e17bb360
@@ -2315,7 +2315,7 @@ msgstr "Whip of Erebos (Bat Erebosa)"
 # 5745a5e927b74a3e98eaa207f8e8692f
 #: ../../THS.rst:609
 msgid "Creatures you control have lifelink."
-msgstr "Stwory, którymi władasz, mają więź życia"
+msgstr "Stwory pod twoim władaniem mają więź życia"
 
 # 739864fc33014fccbf49f474901a780b
 # b6cfc490c8bb482faecaf5458821ddfb
@@ -2581,7 +2581,7 @@ msgstr "Hammer of Purphoros (Młot Purforosa)"
 # 30a3b49e0d8a4a3da817974c1aebbcb3
 #: ../../THS.rst:677
 msgid "Creatures you control have haste."
-msgstr "Stwory, którymi władasz, mają pośpiech."
+msgstr "Stwory pod twoim władaniem mają pośpiech."
 
 # 7fd5e5fcae724effb732a8dfbc560172
 # 25523a21a16f4c93b3f25ca39cb49b4a
@@ -2761,7 +2761,7 @@ msgid ""
 "gains haste until end of turn. Scry 1. (Look at the top card of your "
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
-"Przejmij władanie nad wskazanym stworem do końca tury. Odtapuj tego stwora. "
+"Przejmij władanie nad wskazanym stworem do końca tury. Odkręć tego stwora. "
 "Dostaje on pośpiech do końca tury. Wróż 1. (Spójrz na wierzchnią kartę "
 "twojej biblioteki. Możesz położyć ową kartę na spodzie twojej biblioteki.)"
 
@@ -2811,7 +2811,7 @@ msgstr ""
 #, fuzzy
 msgid "|mana_2|\\ |mana_r|: Creatures you control get +1/+0 until end of turn."
 msgstr ""
-"|mana_2|\\ |mana_r|: Stwory, którymi władasz, dostają +1/+0 do końca tury."
+"|mana_2|\\ |mana_r|: Stwory pod twoim władaniem dostają +1/+0 do końca tury."
 
 # ca500d6b9ecf4629a97aa9e049529362
 # 66022d0ce8d84bf7a33f6c2c00e8e318
@@ -2879,7 +2879,7 @@ msgstr "Rageblood Shaman"
 #: ../../THS.rst:757
 msgid "Other Minotaur creatures you control get +1/+1 and have trample."
 msgstr ""
-"Inne stwory Minotaur, którymi władasz, dostają +1/+1 i mają tratowanie."
+"Inne stwory Minotaur pod twoim władaniem dostają +1/+1 i mają tratowanie."
 
 # 27dbda649eaa4bcbbdde53bf89734447
 # 63e78b70a56f4fd995243884f1ec20f2
@@ -3002,7 +3002,7 @@ msgid ""
 "Each Human creature you control has \"|mana_r|, |tap|: This creature deals 1 "
 "damage to any target.\""
 msgstr ""
-"Każdy Human, którym władasz ma \"|mana_r|, |tap|: Ten stwór zadaje 1 "
+"Każdy Human pod twoim władaniem ma \"|mana_r|, |tap|: Ten stwór zadaje 1 "
 "obrażenie wskazanemu stworowi lub graczowi.\""
 
 # 9dc8c3e90d4b4acfb0958ae5aedd5afb
@@ -3085,7 +3085,7 @@ msgid ""
 "end of turn. They're still lands."
 msgstr ""
 "Heroizm — Ilekroć rzucasz czar wskazujący na Anthousa, Setessan Hero, każdy "
-"z najwyżej trzech wskazanych lądów, którymi władasz, staje się stworem "
+"z najwyżej trzech wskazanych lądów pod twoim władaniem staje się stworem "
 "Warrior 2/2 i nadal pozostaje lądem."
 
 # f908b87e357048249940cd085b43c5d0
@@ -3188,7 +3188,7 @@ msgstr "Bow of Nylea (Łuk Nylei)"
 # cc988eeba3f2450ebb4a5efb78912d3e
 #: ../../THS.rst:835
 msgid "Attacking creatures you control have deathtouch."
-msgstr "Atakujące stwory, którymi władasz, mają dotyk śmierci."
+msgstr "Atakujące stwory pod twoim władaniem mają dotyk śmierci."
 
 #: ../../THS.rst:837
 #, fuzzy
@@ -3312,7 +3312,7 @@ msgid ""
 "Target green creature you control gets +2/+2 until end of turn. It fights "
 "target green creature an opponent controls."
 msgstr ""
-"Wskazany zielony stwór, którym władasz, dostaje +2/+2 do końca tury. Bije "
+"Wskazany zielony stwór pod twoim władaniem dostaje +2/+2 do końca tury. Bije "
 "się on ze wskazanym zielonym stworem, którym włada przeciwnik."
 
 # be7a052fe9c44e41a09dc0e82958fa93
@@ -3456,8 +3456,8 @@ msgid ""
 "(Each |mana_g| in the mana costs of permanents you control counts toward "
 "your devotion to green.)"
 msgstr ""
-"Dopóki twój kult zielonego jest mniejszy niż pięć, Nylea nie jest stworem "
-"(Każda |mana_g| w kosztach many permanentów, którymi władasz, wlicza się do "
+"Dopóki twój kult zielonego jest mniejszy niż pięć, Nylea nie jest stworem ("
+"Każda |mana_g| w kosztach many permanentów pod twoim władaniem wlicza się do "
 "twojego kultu zielonego.)"
 
 # 4d5861638c5f4028a2a62a850c1994a7
@@ -3566,7 +3566,7 @@ msgid ""
 "land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Kiedy poświęcasz Ordeal of Nylea, poszukaj w twojej bibliotece najwyżej "
-"dwóch kart zwykłych lądów, umieść je na polu walki zatapowane, a następnie "
+"dwóch kart zwykłych lądów, umieść je na polu walki przekręcone, a następnie "
 "przetasuj twoją bibliotekę."
 
 # 3dc538b72219430b91488804c103aee5
@@ -3666,7 +3666,7 @@ msgstr "Savage Surge"
 # 3d3e0cf7004d47e2b2f32084fa51ce92
 #: ../../THS.rst:973
 msgid "Target creature gets +2/+2 until end of turn. Untap that creature."
-msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Odtapuj owego stwora."
+msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Odkręć owego stwora."
 
 # 96eb9271433f486e8123b286b028e1ac
 # 1fc4127b99ae4b82a806e9272dfbe507
@@ -3740,7 +3740,7 @@ msgid ""
 "(Each deals damage equal to its power to the other.)"
 msgstr ""
 "Wskaż stwora władanego przez przeciwnika. Jeśli ów stwór umrze w tej turze, "
-"zyskasz 3 życia. Wskazany stwór, którym władasz, walczy z owym stworem."
+"zyskasz 3 życia. Wskazany stwór pod twoim władaniem walczy z owym stworem."
 
 # acf159cb8be446a68c2ddf0f7028dd50
 # 9bc611b51749443399f3bbe796aef516
@@ -3752,7 +3752,7 @@ msgstr "Voyaging Satyr (Wędrujący Satyr)"
 # 8a23cc59526243a1965fe5b4876d5471
 #: ../../THS.rst:999
 msgid "|tap|: Untap target land."
-msgstr "|tap|: Odtapuj wskazany ląd."
+msgstr "|tap|: Odkręć wskazany ląd."
 
 # 3ad1ceecf6fb4b1a875b4a5d4dc5291f
 # 14698a1463bc49b2bcc3379df4bc064d
@@ -3773,8 +3773,8 @@ msgid ""
 "Until end of turn, up to two target creatures you control each gain "
 "\"Whenever this creature deals combat damage to a player, draw a card.\""
 msgstr ""
-"Do końca tury najwyżej dwa wskazane stwory, którymi władasz, dostają "
-"\"Ilekroć ten stwór zadaje graczowi obrażenia bitewne, dobierz kartę.\""
+"Do końca tury najwyżej dwa wskazane stwory pod twoim władaniem dostają \""
+"Ilekroć ten stwór zadaje graczowi obrażenia bitewne, dobierz kartę.\""
 
 # ed4881f03ca940b79ab8bff276cc0940
 # 13074b861ea74113ae2acf5503b4e8a0
@@ -3813,8 +3813,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Anax and Cymede, creatures "
 "you control get +1/+1 and gain trample until end of turn."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący na Anax and Cymede, stwory, "
-"którymi władasz, dostają +1/+1 oraz tratowanie do końca tury."
+"Heroizm — Ilekroć rzucasz czar wskazujący na Anax and Cymede, stwory pod "
+"twoim władaniem dostają +1/+1 oraz tratowanie do końca tury."
 
 # b2db682f9b9749f5afaa0d9bc0df8633
 # 6befca49fea34feaa7c4d8c353d1fbca
@@ -3841,7 +3841,7 @@ msgstr "Ashiok, Nightmare Weaver (Ashiok, Tkacz Koszmarów)"
 # e9cb59532e5741bdb8e171068a0fadd7
 #: ../../THS.rst:1027
 msgid "+2: Exile the top three cards of target opponent's library."
-msgstr "+2: Wypędź trzy wierzchnie karty z biblioteki wskazanego przeciwnika."
+msgstr "+2: Wygnaj trzy wierzchnie karty z biblioteki wskazanego przeciwnika."
 
 # e10dd3d32cc04149b54d8e09a8e9035c
 # 26d8cdcad7504706b42842ea66728c80
@@ -3861,7 +3861,7 @@ msgstr ""
 #: ../../THS.rst:1031
 #, fuzzy
 msgid "−10: Exile all cards from all opponents' hands and graveyards."
-msgstr "-10: Wypędź wszystkie karty z rąk i cmentarzy wszystkich przeciwników."
+msgstr "-10: Wygnaj wszystkie karty z rąk i cmentarzy wszystkich przeciwników."
 
 # 423122e9b8c84f08bd271aba54ee964d
 # 4d743e09f170458d99e0e7737b329f0a
@@ -4005,7 +4005,7 @@ msgstr "Kragma Warcaller"
 # fdc1cfb6b4334239bcf12eb65288d5a7
 #: ../../THS.rst:1067
 msgid "Minotaur creatures you control have haste."
-msgstr "Stwory Minotaur, którymi władasz, mają pośpiech."
+msgstr "Stwory Minotaur pod twoim władaniem mają pośpiech."
 
 # ce7363eba26545e2bb9f16683717108a
 # 6a98569c21eb45aca7cb0236033a8b98
@@ -4013,7 +4013,7 @@ msgstr "Stwory Minotaur, którymi władasz, mają pośpiech."
 msgid ""
 "Whenever a Minotaur you control attacks, it gets +2/+0 until end of turn."
 msgstr ""
-"Ilekroć Minotaur, którym władasz, atakuje, dostaje on +2/+0 do końca tury."
+"Ilekroć Minotaur pod twoim władaniem atakuje, dostaje on +2/+0 do końca tury."
 
 # aa766709de7f40a9bde4e6249649fd21
 # 7981da33ed9a45cfbb1b4c22002fd685
@@ -4101,7 +4101,7 @@ msgid ""
 "Untap all creatures and lands you control during each other player's untap "
 "step."
 msgstr ""
-"Odtapuj wszystkie stwory i lądy, którymi władasz, podczas kroku odtapowania "
+"Odkręć wszystkie stwory i lądy pod twoim władaniem podczas kroku odkręcania "
 "każdego innego gracza."
 
 # c992b9b700e44498bb5af9948cc40c9e
@@ -4268,7 +4268,7 @@ msgid ""
 "|mana_w|, |tap|: Exile target creature that has a fate counter on it, then "
 "return it to the battlefield under its owner's control."
 msgstr ""
-"|mana_w|, |tap|: Wypędź wskazanego stwora posiadającego znacznik "
+"|mana_w|, |tap|: Wygnaj wskazanego stwora posiadającego znacznik "
 "przeznaczenia, a następnie przywróć go na pole walki pod władaniem jego "
 "właściciela."
 
@@ -4279,7 +4279,7 @@ msgid ""
 "|mana_b|, |tap|: Exile target creature that has a fate counter on it. Its "
 "controller draws two cards."
 msgstr ""
-"|mana_b|, |tap|: Wypędź wskazanego stwora posiadającego znacznik "
+"|mana_b|, |tap|: Wygnaj wskazanego stwora posiadającego znacznik "
 "przeznaczenia. Jego władca dobiera dwie karty."
 
 # 39d9acf26ec849f794ef6519eba716ba
@@ -4375,7 +4375,7 @@ msgid ""
 "−6: Exile the top seven cards of your library. You may put any number of "
 "creature and/or land cards from among them onto the battlefield."
 msgstr ""
-"-6: Wypędź siedem wierzchnich kart twojej biblioteki. Możesz położyć na polu "
+"-6: Wygnaj siedem wierzchnich kart twojej biblioteki. Możesz położyć na polu "
 "walki dowolną liczbę kart stworów i lądów spośród nich."
 
 # cd221279fbf2459986b3288e3f988ed5
@@ -4433,7 +4433,7 @@ msgid ""
 "land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_3|, poświęć Burnished Hart: Poszukaj w twojej bibliotece najwyżej dwie "
-"karty zwykłych lądów, umieść je na polu walki zatapowane, a następnie "
+"karty zwykłych lądów, umieść je na polu walki przekręcone, a następnie "
 "przetasuj twoją bibliotekę."
 
 # 00a90a607b9d499d976522559118d5a2
@@ -4647,7 +4647,7 @@ msgstr "Temple of Abandon (Świątynia Porzucenia)"
 # 6f48b988594d41b9b20462460a592392
 #: ../../THS.rst:1239
 msgid "Temple of Abandon enters the battlefield tapped."
-msgstr "Temple of Abandon wchodzi na pole walki zatapowany."
+msgstr "Temple of Abandon wchodzi na pole walki przekręcony."
 
 # cc039f90759b4e98a9e08067067d00cb
 # cdec0b76fd924755add288da40eb9285
@@ -4676,7 +4676,7 @@ msgstr "Temple of Deceit (Świątynia Podstępu)"
 # f84592c740994963a388ff3f32d6b86d
 #: ../../THS.rst:1247
 msgid "Temple of Deceit enters the battlefield tapped."
-msgstr "Temple of Deceit  wchodzi na pole walki zatapowany."
+msgstr "Temple of Deceit  wchodzi na pole walki przekręcony."
 
 # 0575bacf28cd4d43ba2f3ff3d5653d35
 # 723ce4d510a642c9a61306bf36b491bf
@@ -4705,7 +4705,7 @@ msgstr "Temple of Mystery (Świątynia Tajemnic)"
 # 4d234655604041df9697510b135c66ec
 #: ../../THS.rst:1255
 msgid "Temple of Mystery enters the battlefield tapped."
-msgstr "Temple of Mystery wchodzi na pole walki zatapowany."
+msgstr "Temple of Mystery wchodzi na pole walki przekręcony."
 
 # 2957d412eea642dc8951c8ece4459b7a
 # bba91c9aed10425a92302eac63dca2a3
@@ -4734,7 +4734,7 @@ msgstr "Temple of Silence (Świątynia Ciszy)"
 # b2448fa292f644d48e4156d0ead9859a
 #: ../../THS.rst:1263
 msgid "Temple of Silence enters the battlefield tapped."
-msgstr "Temple of Silence wchodzi na pole walki zatapowany."
+msgstr "Temple of Silence wchodzi na pole walki przekręcony."
 
 # 709455db0ee44be1927a2135b4ad6000
 # da1c49a99a264423ad55f0f6da6a9e27
@@ -4763,7 +4763,7 @@ msgstr "Temple of Triumph (Świątynia Zwycięstwa)"
 # 12203c4027284af28635aa6c648aa519
 #: ../../THS.rst:1271
 msgid "Temple of Triumph enters the battlefield tapped."
-msgstr "Temple of Triumph wchodzi na pole walki zatapowany."
+msgstr "Temple of Triumph wchodzi na pole walki przekręcony."
 
 # 4f9920c94c744a8799468955cfdb272a
 # dce89ea713594d108ad98bda8dc4fc28
