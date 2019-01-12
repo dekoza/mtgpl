@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 20:52+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/hou/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../HOU.rst:5 ../../HOU.rst:538
@@ -35,7 +35,7 @@ msgid ""
 "Untap target creature. It gets +2/+2 until end of turn and can block an "
 "additional creature this turn."
 msgstr ""
-"Odtapuj wskazanego stwora. Dostaje on +2/+2 do końca tury i może blokować "
+"Odkręć wskazanego stwora. Dostaje on +2/+2 do końca tury i może blokować "
 "dodatkowego stwora w tej turze."
 
 #: ../../HOU.rst:16
@@ -83,8 +83,8 @@ msgid ""
 "exerted creature won't untap during your next untap step.)"
 msgstr ""
 "|mana_2|\\ |mana_w|, |tap|, wytęż tego stwora: Wygnaj innego wskazanego "
-"stwora dopóki ten stwór nie opuści pola walki. (Wytężony stwór nie odtapuje "
-"się w twoim najbliższym kroku odtapowania.)"
+"stwora dopóki ten stwór nie opuści pola walki. (Wytężony stwór nie odkręci "
+"się w twoim najbliższym kroku odkręcania.)"
 
 #: ../../HOU.rst:30
 #, fuzzy
@@ -302,7 +302,7 @@ msgstr "Błysk"
 
 #: ../../HOU.rst:121
 msgid "Enchant creature you control"
-msgstr ""
+msgstr "Zaurocz stwora pod twoim władaniem"
 
 #: ../../HOU.rst:123
 msgid ""
@@ -711,7 +711,7 @@ msgstr ""
 
 #: ../../HOU.rst:305
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../HOU.rst:310
 msgid "Unsummon"
@@ -1356,7 +1356,7 @@ msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle your library."
 msgstr ""
-"Poszukaj w twojej bibliotece karty bazowego lądu, umieść ją zatapowaną na "
+"Poszukaj w twojej bibliotece karty bazowego lądu, umieść ją przekręconą na "
 "polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../HOU.rst:616
@@ -2375,8 +2375,11 @@ msgid "Survivors' Encampment"
 msgstr ""
 
 #: ../../HOU.rst:1089
+#, fuzzy
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
+"|tap|, przekręć odkręconego stwora pod twoim władaniem: Dodaj jedną manę "
+"dowolnego koloru do twojej puli many."
 
 #: ../../HOU.rst:1092 ../../HOU.rst:1112 ../../HOU.rst:1116
 msgid "Plains"
@@ -2456,7 +2459,7 @@ msgstr "Woodland Stream (Leśny Strumień)"
 
 #: ../../HOU.rst:1173
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../HOU.rst:1175
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -2523,7 +2526,7 @@ msgstr "Cinder Barrens"
 
 #: ../../HOU.rst:1203
 msgid "Cinder Barrens enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../HOU.rst:1205
 msgid "|tap|: Add |mana_b| or |mana_r|."
