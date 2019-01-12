@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 22:07+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/frf/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/frf/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1421483309.161061\n"
 
 # 7345517278b443309b0fc8a176170ddf
@@ -198,7 +198,7 @@ msgid ""
 "target creature you control."
 msgstr ""
 "Chanowie — Z początkiem walki w twojej turze, umieść dwa znaczniki +1/+1 na "
-"wskazanym stworze, którym władasz."
+"wskazanym stworze pod twoim władaniem."
 
 # 8d9716acf7c3427dbc5d72f2e3bc53a7
 #: ../../FRF.rst:51
@@ -206,7 +206,7 @@ msgid ""
 "Dragons — At the beginning of combat on each opponent's turn, tap target "
 "creature that player controls."
 msgstr ""
-"Smoki — Z początkiem walki w turze każdego z przeciwników, zatapuj "
+"Smoki — Z początkiem walki w turze każdego z przeciwników, przekręć "
 "wskazanego stwora, którym włada ów gracz."
 
 # f4dd56ca58e84f1e9bd101dbb0789737
@@ -275,7 +275,7 @@ msgid ""
 "among creatures you control and put X +1/+1 counters on it.)"
 msgstr ""
 "Z początkiem twojego kroku końcowego wesprzyj X, gdzie X jest liczbą "
-"zatapowanych stworów, którymi władasz. (Wybierz stwora z najmniejszą "
+"przekręconych stworów, którymi władasz. (Wybierz stwora z najmniejszą "
 "wytrzymałością spośród stworów, którymi władasz i umieść na nim X znaczników "
 "+1/+1.)"
 
@@ -302,7 +302,7 @@ msgid ""
 "Whenever a creature you control with a +1/+1 counter on it attacks, tap "
 "target creature defending player controls."
 msgstr ""
-"Ilekroć stwór, którym władasz mający znacznik +1/+1 zaatakuje, zatapuj "
+"Ilekroć stwór pod twoim władaniem mający znacznik +1/+1 zaatakuje, przekręć "
 "wskazanego stwora władanego przez broniącego się gracza."
 
 # 0e6e9c4d5d26404fadaa3c62159e5d2a
@@ -350,7 +350,7 @@ msgid ""
 "creature you control to its owner's hand."
 msgstr ""
 "Kiedy Jeskai Barricade wchodzi na pole walki, możesz zwrócić innego "
-"wskazanego stwora, którym władasz do ręki jego właściciela."
+"wskazanego stwora pod twoim władaniem do ręki jego właściciela."
 
 # 42d6b4ae981b4deaa3744b93cf455660
 #: ../../FRF.rst:98
@@ -422,8 +422,8 @@ msgid ""
 "Whenever a permanent you control is turned face up, you gain 1 life for each "
 "creature you control."
 msgstr ""
-"Ilekroć permanent, którym władasz zostaje odwrócony frontem do góry, "
-"zyskujesz 1 życie za każdego stwora, którym władasz."
+"Ilekroć permanent pod twoim władaniem zostaje odwrócony frontem do góry, "
+"zyskujesz 1 życie za każdego stwora pod twoim władaniem."
 
 # 5a653eeea4764dec870ba0a41d223d71
 #: ../../FRF.rst:113
@@ -485,8 +485,8 @@ msgid ""
 "next upkeep. Exile Rally the Ancestors."
 msgstr ""
 "Zwróć każdą kartę stwora o łącznym koszcie many X lub mniejszym z twojego "
-"cmentarza na pole walki. Wypędź owe stwory z poczatkiem twojego najbliższego "
-"utrzymania. Wypędź Rally the Ancestors."
+"cmentarza na pole walki. Wygnaj owe stwory z poczatkiem twojego najbliższego "
+"utrzymania. Wygnaj Rally the Ancestors."
 
 # 225fca38ed20412a833961e463135618
 #: ../../FRF.rst:138
@@ -873,7 +873,7 @@ msgid ""
 "control cost |mana_2| more to cast."
 msgstr ""
 "Smoki — Czary rzucane przez twoich przeciwników wskazujące ciebie lub "
-"permanent, którym władasz kosztują o |mana_2| więcej."
+"permanent pod twoim władaniem kosztują o |mana_2| więcej."
 
 # 830a8b214d714d758b106260cc9b9bd2
 #: ../../FRF.rst:268
@@ -916,7 +916,7 @@ msgid ""
 "battlefield face down as a 2/2 creature. If it's a creature card, it can be "
 "turned face up any time for its mana cost.)"
 msgstr ""
-"Wypędź wskazanego stwora. Jego władca objawia wierzchnią kartę swojej "
+"Wygnaj wskazanego stwora. Jego władca objawia wierzchnią kartę swojej "
 "biblioteki. (Ów gracz kładzie wierzchnią kartę swojej biblioteki na polu "
 "walki frontem w dół jako stwora 2/2. Jeśli jest to karta stwora, może być "
 "odwrócona frontem do góry w dowolnym momencie za jej koszt many.)"
@@ -930,7 +930,7 @@ msgstr "Refocus"
 # cff6f3822403400481e39927991e4596
 #: ../../FRF.rst:279
 msgid "Untap target creature."
-msgstr "Odtapuj wskazanego stwora."
+msgstr "Odkręć wskazanego stwora."
 
 # 4c1235f1a1ab4b9c86b9655bb11242be
 #: ../../FRF.rst:288
@@ -988,8 +988,8 @@ msgid ""
 "Return target nonland permanent you control and target nonland permanent you "
 "don't control to their owners' hands."
 msgstr ""
-"Zwróć wskazany nielądowy permanent, którym władasz oraz wskazany nielądowy "
-"permanent którym nie władasz do rąk ich właścicieli."
+"Zwróć wskazany nielądowy permanent pod twoim władaniem oraz wskazany "
+"nielądowy permanent którym nie władasz do rąk ich właścicieli."
 
 # e978caafa0954cfcbccd63bf1cd82b33
 #: ../../FRF.rst:300
@@ -1077,7 +1077,7 @@ msgstr "Temporal Trespass"
 # 113619dd294449da8e5b301aab8e7f21
 #: ../../FRF.rst:323
 msgid "Take an extra turn after this one. Exile Temporal Trespass."
-msgstr "Weź dodatkową turę po obecnej. Wypędź Temporal Trespass."
+msgstr "Weź dodatkową turę po obecnej. Wygnaj Temporal Trespass."
 
 # e2676cd4f611495a8aac7640852eb8c1
 #: ../../FRF.rst:332
@@ -1091,7 +1091,7 @@ msgid ""
 "Whenever Torrent Elemental attacks, tap all creatures defending player "
 "controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, zatapuj wszystkie stwory pod władaniem "
+"Ilekroć ten stwór atakuje, przekręć wszystkie stwory pod władaniem "
 "zaatakowanego gracza."
 
 #: ../../FRF.rst:331
@@ -1101,7 +1101,7 @@ msgid ""
 "battlefield tapped. Activate this ability only any time you could cast a "
 "sorcery."
 msgstr ""
-"|mana_3|\\ |mana_bg|\\ |mana_bg|: Umieść tę kartę z wygnania zatapowaną na "
+"|mana_3|\\ |mana_bg|\\ |mana_bg|: Umieść tę kartę z wygnania przekręconą na "
 "polu walki. Aktywuj tę zdolność tylko wtedy, gdy możesz zagrać obrzęd."
 
 # b4ba7a8c5d584ebb8475de411f0aef30
@@ -1131,7 +1131,7 @@ msgid ""
 "controller's next untap step."
 msgstr ""
 "Zaznacz co najwyżej dwa wskazane stwory. Owe stwory nie odznaczą się w "
-"najbliższym kroku odtapowania swojego władcy."
+"najbliższym kroku odkręcania swojego władcy."
 
 # 44f37367e6dc43d1afa0a4e859357e12
 #: ../../FRF.rst:346
@@ -1184,7 +1184,7 @@ msgid ""
 "target creature you control."
 msgstr ""
 "Kiedy Ancestral Vengeance wchodzi na pole walki, umieść znacznik +1/+1 na "
-"wskazanym stworze, którym władasz."
+"wskazanym stworze pod twoim władaniem."
 
 # 41b44f917a5e4867a0fa1173c0331b46
 #: ../../FRF.rst:357
@@ -1233,8 +1233,8 @@ msgid ""
 "Whenever a creature you control attacks, defending player loses 1 life and "
 "you gain 1 life."
 msgstr ""
-"Ilekroć stwór, którym władasz atakuje, broniący się gracz traci 1 życie, a "
-"ty zyskujesz 1 życie."
+"Ilekroć stwór pod twoim władaniem atakuje, broniący się gracz traci 1 życie, "
+"a ty zyskujesz 1 życie."
 
 # aa1ec7a57e5c48c191f2d15f8e198070
 #: ../../FRF.rst:373
@@ -1338,7 +1338,7 @@ msgid ""
 "onto the battlefield face down as a 2/2 creature. Turn it face up any time "
 "for its mana cost if it's a creature card.)"
 msgstr ""
-"Wypędź wszystkie karty stworów z cmentarza wskazanego gracza w postaci "
+"Wygnaj wszystkie karty stworów z cmentarza wskazanego gracza w postaci "
 "zakrytego stosu, przetasuj ów stos, a następnie objaw owe karty. (Aby "
 "objawić kartę, umieść ją na polu walki frontem w dół jako stwora 2/2. Odwróć "
 "ją frontem w górę w dowolnym momencie za jej koszt many jeśli jest to karta "
@@ -1693,7 +1693,7 @@ msgid ""
 msgstr ""
 "Ilekroć Alesha, Who Smiles at Death atakuje możesz zapłacić |mana_wb|\\ "
 "|mana_wb|. Jeśli to zrobisz, zwróć wskazaną kartę stwora o sile 2 lub "
-"mniejszej z twojego cmentarza na pole walki zatapowaną i atakującą."
+"mniejszej z twojego cmentarza na pole walki przekręconą i atakującą."
 
 # b752b50401464f6d81f0b312bd5e871c
 #: ../../FRF.rst:514
@@ -1804,9 +1804,9 @@ msgid ""
 "attacking creatures you control gain \"|mana_r|: This creature gets +1/+0 "
 "until end of turn.\""
 msgstr ""
-"Dodaj |mana_r| do twojej puli many za każdego atakującego stwora, którym "
-"władasz. Do końca tury ataukujące stwory, którymi władasz dostają \"|mana_r|:"
-" Ten stwór dostaje +1/+0 do końca tury.\""
+"Dodaj |mana_r| do twojej puli many za każdego atakującego stwora pod twoim "
+"władaniem. Do końca tury ataukujące stwory, którymi władasz dostają \""
+"|mana_r|: Ten stwór dostaje +1/+0 do końca tury.\""
 
 # a86981e155a1417b84bd4c8a0b1654b3
 #: ../../FRF.rst:548
@@ -1841,8 +1841,8 @@ msgid ""
 "target attacking creature and that's tapped and attacking. Exile the token "
 "at end of combat."
 msgstr ""
-"Ilekroć Flamerush Rider atakuje, stwórz zatapowany i atakujący żeton, który "
-"jest kopią innego wskazanego atakującego stwora. Wypędź ów żeton na końcu "
+"Ilekroć Flamerush Rider atakuje, stwórz przekręcony i atakujący żeton, który "
+"jest kopią innego wskazanego atakującego stwora. Wygnaj ów żeton na końcu "
 "walki."
 
 # 7a153310f0a4478d82c0be28f4e08bcb
@@ -2035,7 +2035,7 @@ msgid ""
 "Untap those creatures. They gain haste until end of turn."
 msgstr ""
 "Przejmij władanie do końca tury nad wszystkimi stworami o sile 4 lub "
-"większej. Odtapuj owe stwory. Zyskują one Pośpiech do końca tury."
+"większej. Odkręć owe stwory. Zyskują one Pośpiech do końca tury."
 
 # a833dd0737494d3681984334fa7adf77
 #: ../../FRF.rst:609
@@ -2044,7 +2044,7 @@ msgid ""
 "those creatures. They gain haste until end of turn."
 msgstr ""
 "Przejmij władanie do końca tury nad wszystkimi stworami o sile 3 lub "
-"mniejszej. Odtapuj owe stwory. Zyskują one Pośpiech do końca tury."
+"mniejszej. Odkręć owe stwory. Zyskują one Pośpiech do końca tury."
 
 # e9992ce1fb754dccad566bb83ae3e835
 #: ../../FRF.rst:618
@@ -2073,7 +2073,7 @@ msgid ""
 "Dragons — Whenever a creature you control leaves the battlefield, Outpost "
 "Siege deals 1 damage to any target."
 msgstr ""
-"Smoki — Ilekroć stwór, którym władasz opuszcza pole walki, Outpost Siege "
+"Smoki — Ilekroć stwór pod twoim władaniem opuszcza pole walki, Outpost Siege "
 "zadaje 1 obrażenie wskazanemu stworowi lub graczowi."
 
 # 58a14153b4034dbc9335aeed23db34b9
@@ -2138,8 +2138,8 @@ msgid ""
 "Whenever a creature you control deals combat damage to a player, put a +1/+1 "
 "counter on it."
 msgstr ""
-"Ilekroć stwór, którym władasz zadaje graczowi obrażenia bitewne, umieść na "
-"nim znacznik +1/+1."
+"Ilekroć stwór pod twoim władaniem zadaje graczowi obrażenia bitewne, umieść "
+"na nim znacznik +1/+1."
 
 # b71877a98e9a49c097b44f78fe6822c5
 #: ../../FRF.rst:635
@@ -2307,8 +2307,8 @@ msgid ""
 "When Ambush Krotiq enters the battlefield, return another creature you "
 "control to its owner's hand."
 msgstr ""
-"Kiedy Ambush Krotiq wchodzi na pole walki, zwróć innego stwora, którym "
-"władasz do ręki jego właściciela."
+"Kiedy Ambush Krotiq wchodzi na pole walki, zwróć innego stwora pod twoim "
+"władaniem do ręki jego właściciela."
 
 # 6d7674c64c0d4250800a1e2321d3e142
 #: ../../FRF.rst:690
@@ -2358,7 +2358,7 @@ msgid ""
 "Each creature you control with a +1/+1 counter on it can't be blocked by "
 "more than one creature."
 msgstr ""
-"Każdy stwór, którym władasz mający znacznik +1/+1 nie może być blokowany "
+"Każdy stwór pod twoim władaniem mający znacznik +1/+1 nie może być blokowany "
 "przez więcej niż jednego stwora."
 
 # f4e3f8f6ff124d86becf888c31992dfd
@@ -2499,7 +2499,7 @@ msgid ""
 "tapped, then shuffle your library. Bolster 1. (Choose a creature with the "
 "least toughness among creatures you control and put a +1/+1 counter on it.)"
 msgstr ""
-"Poszukaj w twojej bibliotece karty zwykłego lądu, umieść ją zatapowaną na "
+"Poszukaj w twojej bibliotece karty zwykłego lądu, umieść ją przekręconą na "
 "polu walki, następnie przetasuj twoją bibliotekę. Wesprzyj 1. (Wybierz "
 "stwora z najmniejszą wytrzymałością spośród stworów, którymi władasz i "
 "umieść na nim znacznik +1/+1.)"
@@ -2528,7 +2528,7 @@ msgid ""
 "Untap it."
 msgstr ""
 "Wskazany nieatakujący stwór zyskuje do końca tury Zasięg i Dotyk Śmierci. "
-"Odtapuj go."
+"Odkręć go."
 
 # 2a42bda08bca4b029f110777e69cfa21
 #: ../../FRF.rst:757
@@ -2567,7 +2567,7 @@ msgstr "Shamanic Revelation"
 # f6b03e244b044530ab5d68e680195fb6
 #: ../../FRF.rst:767
 msgid "Draw a card for each creature you control."
-msgstr "Dobierz kartę za każdego stwora, którym władasz."
+msgstr "Dobierz kartę za każdego stwora pod twoim władaniem."
 
 # ed19cfbf98c04c228077eaed1d26ca37
 #: ../../FRF.rst:769
@@ -2575,8 +2575,8 @@ msgid ""
 "Ferocious — You gain 4 life for each creature you control with power 4 or "
 "greater."
 msgstr ""
-"Zaciekłość — Zyskujesz 4 życia za każdego stwora o sile 4 lub większej, "
-"którym władasz."
+"Zaciekłość — Zyskujesz 4 życia za każdego stwora o sile 4 lub większej pod "
+"twoim władaniem."
 
 # 5c3f0b73b8824b8f81a5daedac4564b2
 #: ../../FRF.rst:774
@@ -2651,8 +2651,8 @@ msgid ""
 "Whenever a permanent you control is turned face up, if it's a creature, you "
 "may have it fight target creature you don't control."
 msgstr ""
-"Ilekroć permanent, którym władasz zostaje odwrócony frontem do góry, jeśli "
-"to stwór, możesz sprawić, aby walczył ze wskazanym stworem, którym nie "
+"Ilekroć permanent pod twoim władaniem zostaje odwrócony frontem do góry, "
+"jeśli to stwór, możesz sprawić, aby walczył ze wskazanym stworem, którym nie "
 "władasz."
 
 # 4780f44ad6ae4ad3ad065bd037f9a88f
@@ -2797,7 +2797,7 @@ msgstr ""
 "Na początku walki w twojej turze, możesz zapłacić |mana_1|\\ |mana_ur|\\ "
 "|mana_ur|. Jeśli tak zrobisz, zyskujesz do końca tury władanie nad wskazanym "
 "stworem pod władaniem przeciwnika o sile mniejszej niż siła tego stwora, "
-"odtapuj owego stwora, zyskuje on pośpiech do końca tury."
+"odkręć owego stwora, zyskuje on pośpiech do końca tury."
 
 # 690580dc2c754363a3101e741e29b34b
 #: ../../FRF.rst:834
@@ -2816,7 +2816,8 @@ msgid ""
 "Whenever a Dragon you control attacks, it gains double strike until end of "
 "turn."
 msgstr ""
-"Ilekroć Smok, którym władasz atakuje, zyskuje on do końca tury Podwójny Cios."
+"Ilekroć Smok pod twoim władaniem atakuje, zyskuje on do końca tury Podwójny "
+"Cios."
 
 # 2f111abeb53e48f398e4d33f7602b29c
 #: ../../FRF.rst:840
@@ -2847,7 +2848,7 @@ msgid ""
 "the least toughness among creatures you control and put two +1/+1 counters "
 "on it.)"
 msgstr ""
-"Ilekroć Smok, którym władasz atakuje, wesprzyj 2. (Wybierz stwora z "
+"Ilekroć Smok pod twoim władaniem atakuje, wesprzyj 2. (Wybierz stwora z "
 "najmniejszą wytrzymałością spośród stworów, którymi władasz i umieść na nim "
 "dwa znaczniki +1/+1.)"
 
@@ -2880,8 +2881,8 @@ msgid ""
 "Choose target creature you control and target creature an opponent controls. "
 "Each of those creatures deals damage equal to its toughness to the other."
 msgstr ""
-"Wybierz wskazanego stwora, którym władasz oraz wskazanego stwora władanego "
-"przez przeciwnika. Zadają one sobie nawzajem obrażenia równe swej "
+"Wybierz wskazanego stwora pod twoim władaniem oraz wskazanego stwora "
+"władanego przez przeciwnika. Zadają one sobie nawzajem obrażenia równe swej "
 "wytrzymałości."
 
 # c24ecb0fcc5e4767ab0aba606b5e1c04
@@ -2912,7 +2913,7 @@ msgid ""
 "Whenever a Dragon you control attacks, creatures you control get +1/+0 until "
 "end of turn."
 msgstr ""
-"Ilekroć Smok, którym władasz atakuje, stwory, którymi władasz dostają do "
+"Ilekroć Smok pod twoim władaniem atakuje, stwory, którymi władasz dostają do "
 "końca tury +1/+0."
 
 # 1d5115baa9b340a2bc209d233bf23d3e
@@ -2945,9 +2946,9 @@ msgid ""
 "opponent controls. That permanent doesn't untap during its controller's next "
 "untap step."
 msgstr ""
-"Ilekroć Smok, którym władasz atakuje, zatapuj wskazany nielądowy permanent "
-"władany przez przeciwnika. Ów permanent nie odznacza się w najbliższym kroku "
-"odtapowania swojego władcy."
+"Ilekroć Smok pod twoim władaniem atakuje, przekręć wskazany nielądowy "
+"permanent władany przez przeciwnika. Ów permanent nie odznacza się w "
+"najbliższym kroku odkręcania swojego władcy."
 
 # d6017d43b77040009fd4579cd1ddfdb1
 #: ../../FRF.rst:878
@@ -2980,7 +2981,7 @@ msgstr "War Flare"
 msgid ""
 "Creatures you control get +2/+1 until end of turn. Untap those creatures."
 msgstr ""
-"Stwory pod twoim władaniem dostają +2/+1 do końca tury. Odtapuj owe stwory."
+"Stwory pod twoim władaniem dostają +2/+1 do końca tury. Odkręć owe stwory."
 
 # c25e71fccfb84facad8572bf7277f36e
 #: ../../FRF.rst:888
@@ -3073,8 +3074,8 @@ msgid ""
 "|mana_3|, |tap|: Target creature you control gets +1/+1 until end of turn "
 "for each lore counter on Scroll of the Masters."
 msgstr ""
-"|mana_3|, |tap|: Wskazany stwór, którym władasz dostaje do końca tury +1/+1 "
-"za każdy znacznik wiedzy na Scroll of the Masters."
+"|mana_3|, |tap|: Wskazany stwór pod twoim władaniem dostaje do końca tury +1/"
+"+1 za każdy znacznik wiedzy na Scroll of the Masters."
 
 # 23bc484dc6aa4701b8cff92d707adbe8
 #: ../../FRF.rst:914
@@ -3100,7 +3101,7 @@ msgstr "Bloodfell Caves"
 # aa2436488451450cb2473b755ee13dc4
 #: ../../FRF.rst:917
 msgid "Bloodfell Caves enters the battlefield tapped."
-msgstr "Bloodfell Caves wchodzi na pole walki zatapowany."
+msgstr "Bloodfell Caves wchodzi na pole walki przekręcony."
 
 # 584bee6d1d0d49c2b7649bba8f8416ad
 #: ../../FRF.rst:919
@@ -3120,7 +3121,7 @@ msgstr "Blossoming Sands (Kwitnące Piaski)"
 # a759aa48a5f646d980f71dde46eb8ef5
 #: ../../FRF.rst:925
 msgid "Blossoming Sands enters the battlefield tapped."
-msgstr "Blossoming Sands wchodzi na pole walki zatapowany."
+msgstr "Blossoming Sands wchodzi na pole walki przekręcony."
 
 # e8c2e9e3435d43a281c76d0639755643
 #: ../../FRF.rst:927
@@ -3170,7 +3171,7 @@ msgstr "Dismal Backwater"
 # f121f42d4c204cd9a5997b382073e958
 #: ../../FRF.rst:941
 msgid "Dismal Backwater enters the battlefield tapped."
-msgstr "Dismal Backwater wchodzi na pole walki zatapowany."
+msgstr "Dismal Backwater wchodzi na pole walki przekręcony."
 
 # 8dba136075de4fe3980f88e244be9be2
 #: ../../FRF.rst:943
@@ -3191,7 +3192,7 @@ msgstr "Jungle Hollow"
 # 63ab3785d9e34dffb1e258eda492b95b
 #: ../../FRF.rst:949
 msgid "Jungle Hollow enters the battlefield tapped."
-msgstr "Jungle Hollow wchodzi na pole walki zatapowany."
+msgstr "Jungle Hollow wchodzi na pole walki przekręcony."
 
 # 1d16d7b3084347979e4a7487f5d6c97a
 #: ../../FRF.rst:951
@@ -3212,7 +3213,7 @@ msgstr "Rugged Highlands"
 # 588a23b51cca469fbe766ac552134795
 #: ../../FRF.rst:957
 msgid "Rugged Highlands enters the battlefield tapped."
-msgstr "Rugged Highlands wchodzi na pole walki zatapowany."
+msgstr "Rugged Highlands wchodzi na pole walki przekręcony."
 
 # d9b82f48e7584558867a6e8381afde32
 #: ../../FRF.rst:959
@@ -3233,7 +3234,7 @@ msgstr "Scoured Barrens"
 # ea4db5af406f4b779f9d1803b6cb88cc
 #: ../../FRF.rst:965
 msgid "Scoured Barrens enters the battlefield tapped."
-msgstr "Scoured Barrens wchodzi na pole walki zatapowany."
+msgstr "Scoured Barrens wchodzi na pole walki przekręcony."
 
 # 3dd74a44cca44190b11b59a089bbc427
 #: ../../FRF.rst:967
@@ -3254,7 +3255,7 @@ msgstr "Swiftwater Cliffs"
 # 0436a7d4993a48d8b46d22cfe38f503b
 #: ../../FRF.rst:973
 msgid "Swiftwater Cliffs enters the battlefield tapped."
-msgstr "Swiftwater Cliffs wchodzi na pole walki zatapowany."
+msgstr "Swiftwater Cliffs wchodzi na pole walki przekręcony."
 
 # 8259dcf56cc74dfba803390479b1252f
 #: ../../FRF.rst:975
@@ -3275,7 +3276,7 @@ msgstr "Thornwood Falls"
 # 16c4194aff5e40b5a07fa776064c5921
 #: ../../FRF.rst:981
 msgid "Thornwood Falls enters the battlefield tapped."
-msgstr "Ten stwór wchodzi na pole walki zatapowany."
+msgstr "Ten stwór wchodzi na pole walki przekręcony."
 
 # 57dc8898743346868fa6b65f9a75e68c
 #: ../../FRF.rst:983
@@ -3296,7 +3297,7 @@ msgstr "Tranquil Cove"
 # 8c8ec4d55a0343e199660c57ee40f2f6
 #: ../../FRF.rst:989
 msgid "Tranquil Cove enters the battlefield tapped."
-msgstr "Tranquil Cove wchodzi na pole walki zatapowany."
+msgstr "Tranquil Cove wchodzi na pole walki przekręcony."
 
 # 6c32109ad01f4ac8a66ecf0785d84077
 #: ../../FRF.rst:991
@@ -3317,7 +3318,7 @@ msgstr "Wind-Scarred Crag"
 # 4be05d8ff8984f3d84e9f3f890007afb
 #: ../../FRF.rst:997
 msgid "Wind-Scarred Crag enters the battlefield tapped."
-msgstr "Wind-Scarred Crag wchodzi na pole walki zatapowany."
+msgstr "Wind-Scarred Crag wchodzi na pole walki przekręcony."
 
 # 679607247ece46babc5be820e5b837e4
 #: ../../FRF.rst:999
