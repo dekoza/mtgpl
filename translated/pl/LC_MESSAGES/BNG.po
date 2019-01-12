@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 15:39+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/bng/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/bng/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1391098335.778030\n"
 
 # 002c0f8b22fd47fca10fa6654a5b2208
@@ -70,7 +70,7 @@ msgstr "Czujność"
 #, fuzzy
 msgid "|mana_2|\\ |mana_r|: Creatures you control get +1/+0 until end of turn."
 msgstr ""
-"|mana_2|\\ |mana_r|: Stwory, którymi władasz, dostają +1/+0 do końca tury."
+"|mana_2|\\ |mana_r|: Stwory pod twoim władaniem dostają +1/+0 do końca tury."
 
 # 436a53ba4e744b80b2d5b3c0a9a4560c
 # 6ad3f8547485441aa45d6137f974d68a
@@ -228,7 +228,7 @@ msgid ""
 "creature you control and +1/+1 for each Aura you control."
 msgstr ""
 "Eidolon Niezliczonych Bitew oraz zauroczony stwór dostają +1/+1 za każdego "
-"stwora, którym władasz oraz +1/+1 za każdą Aurę, którą władasz."
+"stwora pod twoim władaniem oraz +1/+1 za każdą Aurę, którą władasz."
 
 # 2b3f8f2a474142d7b738043061aefa29
 # 2e289eb37f3d49da959afb5941b34bc5
@@ -246,7 +246,7 @@ msgid ""
 "tap target creature."
 msgstr ""
 "Heroizm — Ilekroć rzucasz czar wskazujący na Elite Skirmisher, możesz "
-"zatapować wskazanego stwora."
+"przekręcić wskazanego stwora."
 
 # e4a9072c4ee14291b1b5729ceab0c02d
 # f12055b3ec1846a1a03eff3f85e6e41f
@@ -310,7 +310,7 @@ msgstr "Excoriate"
 # f77e3f2ff3ad4034a74f8843a506958b
 #: ../../BNG.rst:63
 msgid "Exile target tapped creature."
-msgstr "Wypędź wskazanego zatapowanego stwora."
+msgstr "Wygnaj wskazanego przekręconego stwora."
 
 # 79cc73658d1941d6b0ed4f4c1e1b95e3
 # f5c3d58d78714cc88cc25be411f286eb
@@ -760,7 +760,7 @@ msgid ""
 "control until end of turn. Untap it."
 msgstr ""
 "Wskazany stwór zyskuje do końca tury ochronę przed stworami twoich "
-"przeciwników. Odtapuj go."
+"przeciwników. Odkręć go."
 
 # 36afac4cff1b49e09ae05bbedb67bb3d
 # 2607f3e8b8294512af842f40905c7a05
@@ -806,7 +806,7 @@ msgstr "Kiedy Sidła Wieczności wchodzą na pole walki, dobierz kartę."
 # 209c6fc406084fb1a47f761ed0a99140
 #: ../../BNG.rst:203
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 # 2f78542329fe48c19d97ca52ea083a60
 # ffc5926a45284b2384db073a1c9718e3
@@ -843,10 +843,10 @@ msgid ""
 "number of them on the bottom of your library and the rest on top in any "
 "order.)"
 msgstr ""
-"Umieść na polu walki żeton będący kopią wskazanego stwora, którym władasz. "
-"Jeśli jest twoja tura, wróż 2. (Spójrz na dwie wierzchnie karty twojej "
-"biblioteki, następnie umieść dowolne z nich na spodzie twojej biblioteki, a "
-"pozostałe na jej wierzchu w dowolnej kolejności.)"
+"Umieść na polu walki żeton będący kopią wskazanego stwora pod twoim "
+"władaniem. Jeśli jest twoja tura, wróż 2. (Spójrz na dwie wierzchnie karty "
+"twojej biblioteki, następnie umieść dowolne z nich na spodzie twojej "
+"biblioteki, a pozostałe na jej wierzchu w dowolnej kolejności.)"
 
 # 69568b2073d94b1ab657ca83cbddb32f
 # a15d29e6ca30427e9f2787738e8b6f2d
@@ -892,8 +892,8 @@ msgid ""
 "Floodtide Serpent can't attack unless you return an enchantment you control "
 "to its owner's hand. (This cost is paid as attackers are declared.)"
 msgstr ""
-"Wężownik Zatopienia nie może atakować dopóki nie zwrócisz uroku, którym "
-"władasz, do ręki jego właściciela. (Koszt ten jest płacony przy deklaracji "
+"Wężownik Zatopienia nie może atakować dopóki nie zwrócisz uroku pod twoim "
+"władaniem do ręki jego właściciela. (Koszt ten jest płacony przy deklaracji "
 "atakujących.)"
 
 # 0b54a6512df6417d9cb466b8cc5222bf
@@ -911,8 +911,8 @@ msgid ""
 "Creatures with power less than the number of Islands you control can't block "
 "Kraken of the Straits."
 msgstr ""
-"Stwory o sile mniejszej niż liczba Wysp, którymi władasz, nie mogą blokować "
-"Kraken of the Straits."
+"Stwory o sile mniejszej niż liczba Wysp pod twoim władaniem nie mogą "
+"blokować Kraken of the Straits."
 
 # 5107c0173fea421f9a7cff8cf3182c8b
 # 9fb23184611848ab9da5f54f477999ae
@@ -1145,7 +1145,7 @@ msgid ""
 "library. You may put that card on the bottom of your library.)"
 msgstr ""
 "Zaznacz do dwóch wskazanych stworów. Owe stwory nie odznaczą się w "
-"najbliższym kroku odtapowania swoich władców. Wróż 1. (Spójrz na wierzchnią "
+"najbliższym kroku odkręcania swoich władców. Wróż 1. (Spójrz na wierzchnią "
 "kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
 "biblioteki.)"
 
@@ -1165,8 +1165,8 @@ msgid ""
 "counts toward your devotion to blue.)"
 msgstr ""
 "Skontruj wskazany czar dopóki jego władca nie dopłaci |mana_x|, gdzie X jest "
-"twoim kultem niebieskiego (Każdy symbol |mana_u| w kosztach many "
-"permanentów, którymi władasz, wlicza się do twojego kultu niebieskiego.)"
+"twoim kultem niebieskiego (Każdy symbol |mana_u| w kosztach many permanentów "
+"pod twoim władaniem wlicza się do twojego kultu niebieskiego.)"
 
 # 69b36f1063084c1097e16c2d996cfe86
 # b051115aa4cb4ad095ad046d40e8e233
@@ -1327,8 +1327,8 @@ msgid ""
 "|mana_b|, Tap another untapped creature you control: Black Oak of Odunos "
 "gets +1/+1 until end of turn."
 msgstr ""
-"|mana_b|, zatapuj innego odznaczonego stwora, którym władasz: Czarny Dąb z "
-"Ogunos dostaje +1/+1 do końca tury."
+"|mana_b|, przekręć innego odznaczonego stwora pod twoim władaniem: Czarny "
+"Dąb z Ogunos dostaje +1/+1 do końca tury."
 
 # 170e40671abf4e3b88b6ba074f42cb2e
 # a39bb43c9e894911a1220f6fa6a572f6
@@ -1541,7 +1541,7 @@ msgid ""
 "Exile target creature. Create a colorless artifact token named Gold. It has "
 "\"Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
-"Wypędź wskazanego stwora. Umieść na polu walki żeton bezkolorowego artefaktu "
+"Wygnaj wskazanego stwora. Umieść na polu walki żeton bezkolorowego artefaktu "
 "Złoto z \"Poświęć ten artefakt: Dodaj jedną manę dowolnego koloru do twojej "
 "puli many.\""
 
@@ -1617,8 +1617,8 @@ msgid ""
 "your devotion to black.)"
 msgstr ""
 "Koszt rzucenia Marshmist Titan jest zmniejszony o |mana_x|, gdzie X jest "
-"twoim kultem czarnego. (Każdy symbol |mana_b| w kosztach permanentów, "
-"którymi władasz, wlicza się w twój kult czarnego.)"
+"twoim kultem czarnego. (Każdy symbol |mana_b| w kosztach permanentów pod "
+"twoim władaniem wlicza się w twój kult czarnego.)"
 
 # b5e352927b5f4ca3908646247629b727
 # 7fd39ecbfccb44d199e04212b0f0f8ab
@@ -1719,8 +1719,8 @@ msgid ""
 "(Each |mana_b| in the mana costs of permanents you control counts toward "
 "your devotion to black.)"
 msgstr ""
-"Dobierasz X kart i tracisz X życia, gdzie X jest twoim kultem czarnego. "
-"(Każdy symbol |mana_b| w kosztach many permanentów, którymi władasz, wlicza "
+"Dobierasz X kart i tracisz X życia, gdzie X jest twoim kultem czarnego. ("
+"Każdy symbol |mana_b| w kosztach many permanentów pod twoim władaniem wlicza "
 "się do twojego kultu czarnego.)"
 
 # 92900fbc99664e52b0890ff50841d795
@@ -1822,10 +1822,10 @@ msgid ""
 "can't be blocked except by artifact creatures and/or creatures that share a "
 "color with it.)"
 msgstr ""
-"Natchniony — Ilekroć Warchanter of Mogis zostaje odznaczony, wskazany stwór, "
-"którym władasz, zyskuje zastraszenie do końca tury. (Stwór z zastraszaniem "
-"nie może być blokowany przez stwory inne niż artefaktowe lub takie, które "
-"współdzielą z nim kolor.)"
+"Natchniony — Ilekroć Warchanter of Mogis zostaje odznaczony, wskazany stwór "
+"pod twoim władaniem zyskuje zastraszenie do końca tury. (Stwór z "
+"zastraszaniem nie może być blokowany przez stwory inne niż artefaktowe lub "
+"takie, które współdzielą z nim kolor.)"
 
 # ae116696f80247c583783aaf47ebc0c3
 # 74f0ad02b51243bba5c7717f90869324
@@ -1856,7 +1856,7 @@ msgid ""
 "It gains haste until end of turn."
 msgstr ""
 "Heroizm — Ilekroć rzucasz czar wskazujący na Akroan Conscriptor, przejmuj "
-"władanie nad innym wskazanym stworem do końca tury. Odtapuj owego stwora. "
+"władanie nad innym wskazanym stworem do końca tury. Odkręć owego stwora. "
 "Zyskuje on pośpiech do końca tury."
 
 # 42dc9fde61924bf78c713ea257fcc89f
@@ -1963,7 +1963,7 @@ msgid ""
 "Target creature you control deals damage equal to its power to another "
 "target creature."
 msgstr ""
-"Wskazany stwór, którym władasz, zadaje obrażenia równe swojej sile innemu "
+"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile innemu "
 "wskazanemu stworowi."
 
 # e8004a59239d4ad3bfd35e9a68cf2650
@@ -2025,7 +2025,7 @@ msgstr ""
 "Natchniony — Ilekroć Felhide Spiritbinder zostaje odznaczony, możesz "
 "zapłacić |mana_1|\\ |mana_r|. Jeśli tak zrobisz, stwórz żeton będący kopią "
 "innego wskazanego stwora, z tym że jest on urokiem w dodatku do swoich "
-"innych typów. Zyskuje on pośpiech. Wypędź go na początku najbliższego kroku "
+"innych typów. Zyskuje on pośpiech. Wygnaj go na początku najbliższego kroku "
 "końcowego."
 
 # 2829afd931c74b1fa0494a244655fca6
@@ -2120,7 +2120,7 @@ msgid ""
 "Until end of turn, creatures you control gain \"|tap|: This creature deals 1 "
 "damage to any target.\""
 msgstr ""
-"Stwory, którymi władasz, zyskują do końca tury \"|tap|: Ten stwór zadaje 1 "
+"Stwory pod twoim władaniem zyskują do końca tury \"|tap|: Ten stwór zadaje 1 "
 "obrażenie wskazanemu stworowi lub graczowi.\""
 
 # 2f62e06563f848c3a0e494230e3a54e0
@@ -2239,7 +2239,7 @@ msgid ""
 "opponent, Satyr Firedancer deals that much damage to target creature that "
 "player controls."
 msgstr ""
-"Ilekroć czar sztuczki lub obrzędu, którym władasz, zadaje obrażenia "
+"Ilekroć czar sztuczki lub obrzędu pod twoim władaniem zadaje obrażenia "
 "przeciwnikowi, Satyr Tancerz Ognia zadaje tyle samo obrażeń wskazanemu "
 "stworowi władanemu przez owego gracza."
 
@@ -2357,8 +2357,8 @@ msgid ""
 "you control counts toward your devotion to red.)"
 msgstr ""
 "Ilekroć zauroczony stwór atakuje, dostaje do końca tury +X/+0, gdzie X jest "
-"twoim kultem czerwonego. (Każdy symbol |mana_r| w kosztach many permanentów, "
-"którymi władasz, wlicza się do twojego kultu czerwonego.)"
+"twoim kultem czerwonego. (Każdy symbol |mana_r| w kosztach many permanentów "
+"pod twoim władaniem wlicza się do twojego kultu czerwonego.)"
 
 # d797059ef4a14a068b8e63683a3d3c45
 # 9dc028373a544d718c5380f5c36ccd73
@@ -2417,8 +2417,8 @@ msgid ""
 "toward your devotion to green.)"
 msgstr ""
 "Wskazany stwór dostaje +X/+X do końca tury, gdzie X jest twoim kultem "
-"zielonego. (Każdy symbol |mana_g| w kosztach many permanentów, którymi "
-"władasz, wlicza się się do twojego kultu zielonego)."
+"zielonego. (Każdy symbol |mana_g| w kosztach many permanentów pod twoim "
+"władaniem wlicza się się do twojego kultu zielonego)."
 
 # 49094192bcda4f93bf20a318cf28bce7
 # f57d02c6bfb8402d9429b89bf5ec1f80
@@ -2718,7 +2718,7 @@ msgid ""
 "put that card on the bottom of your library.)"
 msgstr ""
 "Przeszukaj twoją bibliotekę w poszukiwaniu do dwóch kart zwykłych lądów, "
-"ujawnij owe karty i umieść jedną na polu walki jako zatapowaną, a drugą "
+"ujawnij owe karty i umieść jedną na polu walki jako przekręconą, a drugą "
 "dołóż do twojej ręki. Przetasuj twoją bibliotekę, następnie wróż 1. (Spójrz "
 "na wierzchnią kartę twojej biblioteki. Możesz położyć ową kartę na spodzie "
 "twojej biblioteki.)"
@@ -2781,7 +2781,7 @@ msgstr ""
 # 07b0c155749d4055b4a8c2e8018e5514
 #: ../../BNG.rst:725
 msgid "Enchanted creature gets +1/+1 for each Wolf you control."
-msgstr "Zauroczony stwór dostaje +1/+1 za każdego Wilka, którym władasz."
+msgstr "Zauroczony stwór dostaje +1/+1 za każdego Wilka pod twoim władaniem."
 
 # 5c071cbaabbe4dc5846478302803ba1d
 # b41ced31cfaf4943ba65af3fc941e285
@@ -2874,8 +2874,8 @@ msgid ""
 "toward your devotion to green.)"
 msgstr ""
 "Skyreaping zadaje każdemu stworowi z lataniem obrażenia równe twojemu "
-"kultowi zielonego. (Każdy symbol |mana_g| w kosztach many permanentów, "
-"którymi władasz, wlicza się do twojego kultu zielonego.)"
+"kultowi zielonego. (Każdy symbol |mana_g| w kosztach many permanentów pod "
+"twoim władaniem wlicza się do twojego kultu zielonego.)"
 
 # 788aabab254440e0a237444259e89b8f
 # cb144ea59f8c4c2887097427b4a57e31
@@ -3081,7 +3081,7 @@ msgid ""
 "library."
 msgstr ""
 "Ilekroć rzucasz czar stwora, możesz poszukać w twojej bibliotece karty Lasu "
-"lub Równiny, położyć ją na polu walki zatapowaną, następnie przetasować "
+"lub Równiny, położyć ją na polu walki przekręconą, następnie przetasować "
 "twoją bibliotekę."
 
 # 91769e3031484ef6825c4145aa257108
@@ -3131,7 +3131,7 @@ msgstr "Kiora's Follower"
 # 5983cfba893047f881f9cfb96a3ac09c
 #: ../../BNG.rst:817
 msgid "|tap|: Untap another target permanent."
-msgstr "|tap|: Odtapuj inny wskazany permanent."
+msgstr "|tap|: Odkręć inny wskazany permanent."
 
 # 70f5538265bc4bf39ba9114ec1bacd03
 # 36adde1cd0714273bc972a2748bb9780
@@ -3182,7 +3182,7 @@ msgid ""
 "Creatures you control have \"|tap|: Target player puts the top X cards of "
 "their library into their graveyard, where X is this creature's toughness.\""
 msgstr ""
-"Stwory, którymi władasz, mają \"|tap|: Wskazany gracz wkłada X wierzchnich "
+"Stwory pod twoim władaniem mają \"|tap|: Wskazany gracz wkłada X wierzchnich "
 "kart swojej biblioteki do swojego cmentarza, gdzie X jest wytrzymałością "
 "tego stwora.\""
 
@@ -3262,7 +3262,7 @@ msgid ""
 "gains haste and gets +X/+X until end of turn, where X is that creature's "
 "power."
 msgstr ""
-"Na początku walki w twojej turze, inny wskazany stwór, którym władasz, "
+"Na początku walki w twojej turze, inny wskazany stwór pod twoim władaniem "
 "dostaje do końca tury pośpiech oraz +X/+X, gdzie X jest siłą owego stwora."
 
 # d0ba0190e48149c4b0d7bc963438f233
@@ -3319,8 +3319,8 @@ msgid ""
 "Each legendary creature you control gets +1/+1 for each other legendary "
 "creature you control."
 msgstr ""
-"Każdy legendarny stwór, którym władasz, dostaje +1/+1 za każdego innego "
-"legendarnego stwora, którym władasz."
+"Każdy legendarny stwór pod twoim władaniem dostaje +1/+1 za każdego innego "
+"legendarnego stwora pod twoim władaniem."
 
 # 593ce18b38a34bd8b7b55123d48057bd
 # 03fb4a6f60024e83bb147da996f02493
@@ -3375,7 +3375,7 @@ msgstr "Springleaf Drum (Bęben Wiosennych Liści)"
 #, fuzzy
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
-"|tap|, zatapuj niezatapowanego stwora, którym władasz: Dodaj jedną manę "
+"|tap|, przekręć odkręconego stwora pod twoim władaniem: Dodaj jedną manę "
 "dowolnego koloru do twojej puli many."
 
 # 7c09abff09ab4b06bbcca8ae92dfebe2
@@ -3388,7 +3388,7 @@ msgstr "Temple of Enlightenment (Świątynia Oświecenia)"
 # 7c4876bccf344fae850ad5f79843a225
 #: ../../BNG.rst:893
 msgid "Temple of Enlightenment enters the battlefield tapped."
-msgstr "Świątynia Oświecenia wchodzi na pole walki zatapowana."
+msgstr "Świątynia Oświecenia wchodzi na pole walki przekręcona."
 
 # b801a48502e745119d66c2c5fb0b7528
 # e43902eacf5243ed95714f2313a430f2
@@ -3418,7 +3418,7 @@ msgstr "Temple of Malice (Świątynia Złośliwości)"
 # c480987f8be44e6d8873a6e90cda6c4e
 #: ../../BNG.rst:901
 msgid "Temple of Malice enters the battlefield tapped."
-msgstr "Świątynia Złośliwości wchodzi na pole walki zatapowana."
+msgstr "Świątynia Złośliwości wchodzi na pole walki przekręcona."
 
 # 8f25788fefff4ae5b297ba96c4ab45f2
 # 739718a7d265455d8c7a0db3031d6ce7
@@ -3447,7 +3447,7 @@ msgstr "Temple of Plenty (Świątynia Dostatku)"
 # 6914742025a945fcad1df6a1d0092b5f
 #: ../../BNG.rst:909
 msgid "Temple of Plenty enters the battlefield tapped."
-msgstr "Świątynia Dostatku wchodzi na pole walki zatapowana."
+msgstr "Świątynia Dostatku wchodzi na pole walki przekręcona."
 
 # 27365b13de4a4a37a7598567ccac8690
 # 79fe9ae300354fe0b59f45ac7e0ce58f
