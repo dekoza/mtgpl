@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 20:52+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/c14/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: ../../C14.rst:5
 #, fuzzy
@@ -960,10 +960,14 @@ msgid "Brave the Elements"
 msgstr ""
 
 #: ../../C14.rst:395
+#, fuzzy
 msgid ""
 "Choose a color. White creatures you control gain protection from the chosen "
 "color until end of turn."
 msgstr ""
+"Wybierz kolor. Białe stwory pod twoim władaniem dostają ochronę przed "
+"wskazanym kolorem do końca tury. (Nie mogą być blokowane, wskazywane, "
+"zauroczone, ani nie dostają obrażeń od czegokolwiek w tym kolorze.)"
 
 #: ../../C14.rst:400
 msgid "Cathars' Crusade"
@@ -974,8 +978,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, put a +1/+1 "
 "counter on each creature you control."
 msgstr ""
-"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, umieść znacznik +1/"
-"+1 na każdym stworze, którym władasz."
+"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, umieść znacznik +1/+"
+"1 na każdym stworze pod twoim władaniem."
 
 #: ../../C14.rst:410
 msgid "Celestial Crusader"
@@ -1997,7 +2001,7 @@ msgid ""
 "discards a card and you create a tapped 2/2 black Zombie creature token."
 msgstr ""
 "Ilekroć Liliana's Reaver zada graczowi obrażenia bitewne, ów gracz odrzuca "
-"kartę, a ty kładziesz na polu walki zatapowany żeton czarnego stwora Zombie "
+"kartę, a ty kładziesz na polu walki przekręcony żeton czarnego stwora Zombie "
 "2/2."
 
 #: ../../C14.rst:846
@@ -2483,7 +2487,7 @@ msgstr ""
 
 #: ../../C14.rst:1059
 msgid "Draw a card for each creature you control."
-msgstr ""
+msgstr "Dobierz kartę za każdego stwora pod twoim władaniem."
 
 #: ../../C14.rst:1064
 msgid "Desert Twister"
@@ -2997,7 +3001,7 @@ msgid ""
 "land cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|mana_3|, poświęć Burnished Hart: Poszukaj w twojej bibliotece najwyżej dwie "
-"karty zwykłych lądów, umieść je na polu walki zatapowane, a następnie "
+"karty zwykłych lądów, umieść je na polu walki przekręcone, a następnie "
 "przetasuj twoją bibliotekę."
 
 #: ../../C14.rst:1292
@@ -3598,7 +3602,7 @@ msgstr ""
 
 #: ../../C14.rst:1581
 msgid "Bojuka Bog enters the battlefield tapped."
-msgstr "Bojuka Bog wchodzi na pole walki zatapowany."
+msgstr "Bojuka Bog wchodzi na pole walki przekręcony."
 
 #: ../../C14.rst:1583
 msgid ""
@@ -3739,7 +3743,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../C14.rst:1664
 msgid "Forgotten Cave"
@@ -3747,7 +3751,7 @@ msgstr ""
 
 #: ../../C14.rst:1659
 msgid "Forgotten Cave enters the battlefield tapped."
-msgstr "Zapomniana Jaskinia wchodzi na pole walki zatapowana."
+msgstr "Zapomniana Jaskinia wchodzi na pole walki przekręcona."
 
 #: ../../C14.rst:1663
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
