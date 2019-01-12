@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 22:07+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/grn/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: ../../GRN.rst:5
 msgid "Guilds of Ravnica"
@@ -98,7 +98,7 @@ msgid ""
 "color.)"
 msgstr ""
 "Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
-"zatapujesz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
 "kolorze owego stwora.)"
 
 #: ../../GRN.rst:35
@@ -120,11 +120,11 @@ msgstr "Wybierz jedno lub oba —"
 
 #: ../../GRN.rst:41
 msgid "Exile target artifact."
-msgstr "Wypędź wskazany artefakt."
+msgstr "Wygnaj wskazany artefakt."
 
 #: ../../GRN.rst:43
 msgid "Exile target enchantment."
-msgstr "Wypędź wskazany urok."
+msgstr "Wygnaj wskazany urok."
 
 #: ../../GRN.rst:50
 msgid "Dawn of Hope"
@@ -241,7 +241,7 @@ msgid ""
 "When Intrusive Packbeast enters the battlefield, tap up to two target "
 "creatures your opponents control."
 msgstr ""
-"Kiedy ten stwór wchodzi na pole walki, zatapuj co najwyżej dwa wskazane "
+"Kiedy ten stwór wchodzi na pole walki, przekręć co najwyżej dwa wskazane "
 "stwory pod władaniem przeciwnika."
 
 #: ../../GRN.rst:96
@@ -379,11 +379,11 @@ msgstr "Błysk"
 
 #: ../../GRN.rst:167
 msgid "When Capture Sphere enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ten urok wchodzi na pole walki, zatapuj zauroczonego stwora."
+msgstr "Kiedy ten urok wchodzi na pole walki, przekręć zauroczonego stwora."
 
 #: ../../GRN.rst:169
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../GRN.rst:176
 msgid "Chemister's Insight"
@@ -512,7 +512,7 @@ msgstr "Możesz patrzeć na dodatkowe dwie karty ilekroć nadzorujesz."
 
 #: ../../GRN.rst:217
 msgid "Exile Enhanced Surveillance: Shuffle your graveyard into your library."
-msgstr "Wypędź ten urok: Wtasuj twój cmentarz do twojej biblioteki."
+msgstr "Wygnaj ten urok: Wtasuj twój cmentarz do twojej biblioteki."
 
 #: ../../GRN.rst:224
 msgid "Guild Summit"
@@ -523,8 +523,8 @@ msgid ""
 "When Guild Summit enters the battlefield, you may tap any number of untapped "
 "Gates you control. Draw a card for each Gate tapped this way."
 msgstr ""
-"Kiedy ten ląd wchodzi na pole walki, możesz zatapować dowolną liczbę "
-"odznaczonych Bram, którymi władasz. Dobierz kartę za każdą Bramę zatapowaną "
+"Kiedy ten ląd wchodzi na pole walki, możesz przekręcić dowolną liczbę "
+"odznaczonych Bram, którymi władasz. Dobierz kartę za każdą Bramę przekręconą "
 "w ten sposób."
 
 #: ../../GRN.rst:223
@@ -1493,7 +1493,7 @@ msgid ""
 "them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Poszukaj w swojej bibliotece co najwyżej dwóch kart bazowych lądów lub Bram, "
-"umieść je zatapowane na polu walki, a następnie przetasuj twoją bibliotekę."
+"umieść je przekręcone na polu walki, a następnie przetasuj twoją bibliotekę."
 
 #: ../../GRN.rst:668
 msgid "Crushing Canopy"
@@ -1790,7 +1790,7 @@ msgid ""
 "hand. Exile Vivid Revival."
 msgstr ""
 "Przywróć co najwyżej trzy wskazane wielokolorowe karty z twojego cmentarza "
-"do twojej ręki. Wypędź tę kartę."
+"do twojej ręki. Wygnaj tę kartę."
 
 #: ../../GRN.rst:796
 msgid "Wary Okapi"
@@ -1823,7 +1823,7 @@ msgid ""
 "shuffle their library."
 msgstr ""
 "Zniszcz wskazany permanent władany przez przeciwnika. Jego władca może "
-"poszukać w swojej bibliotece kartę bazowego lądu, położyć ją zatapowaną na "
+"poszukać w swojej bibliotece kartę bazowego lądu, położyć ją przekręconą na "
 "polu walki, a następnie przetasować swoją bibliotekę."
 
 #: ../../GRN.rst:820
@@ -2042,8 +2042,8 @@ msgid ""
 "Whenever Emmara, Soul of the Accord becomes tapped, create a 1/1 white "
 "Soldier creature token with lifelink."
 msgstr ""
-"Ilekroć ta karta zostaje zatapowana, stwórz żeton białego stwora Piechur 1/1 "
-"z więzią życia."
+"Ilekroć ta karta zostaje przekręcona, stwórz żeton białego stwora Piechur 1/"
+"1 z więzią życia."
 
 #: ../../GRN.rst:910
 msgid "Erstwhile Trooper"
@@ -2161,7 +2161,7 @@ msgid ""
 "controller's next untap step."
 msgstr ""
 "|mana_1|\\ |mana_u|, |tap|: Wskazany stwór nie odznacza się w najbliższym "
-"kroku odtapowania swojego władcy."
+"kroku odkręcania swojego władcy."
 
 #: ../../GRN.rst:949
 msgid ""
@@ -2225,7 +2225,7 @@ msgid ""
 "opponents control. Damage and effects that say \"destroy\" don't destroy "
 "them.)"
 msgstr ""
-"Odtapuj wszystkie stwory pod twoim władaniem. Zyskują one antyklątwę i "
+"Odkręć wszystkie stwory pod twoim władaniem. Zyskują one antyklątwę i "
 "niezniszczalność do końca tury. (Nie mogą być celem czarów i zdolności "
 "władanych przez twoich przeciwników. Obrażenia i efekty mówiące \"zniszcz\", "
 "nie niszczą ich.)"
@@ -2305,9 +2305,9 @@ msgid ""
 "creatures you control. Ledev Champion gets +1/+1 until end of turn for each "
 "creature tapped this way."
 msgstr ""
-"Ilekroć ten stwór atakuje, możesz zatapować dowolną liczbę odznaczonych "
+"Ilekroć ten stwór atakuje, możesz przekręcić dowolną liczbę odznaczonych "
 "stworów pod twoim władaniem. Ten stwór dostaje +1/+1 do końca tury za "
-"każdego stwora zatapowanego w ten sposób."
+"każdego stwora przekręconego w ten sposób."
 
 #: ../../GRN.rst:999
 msgid ""
@@ -3197,7 +3197,7 @@ msgstr "Boros Guildgate (a)"
 
 #: ../../GRN.rst:1353 ../../GRN.rst:1359
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../GRN.rst:1362
 msgid "Boros Guildgate (b)"
@@ -3209,7 +3209,7 @@ msgstr "Dimir Guildgate (a)"
 
 #: ../../GRN.rst:1365 ../../GRN.rst:1371
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../GRN.rst:1374
 msgid "Dimir Guildgate (b)"
@@ -3220,8 +3220,9 @@ msgid "Gateway Plaza"
 msgstr "Gateway Plaza"
 
 #: ../../GRN.rst:1377
+#, fuzzy
 msgid "Gateway Plaza enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../GRN.rst:1379
 msgid ""
@@ -3236,7 +3237,7 @@ msgstr "Golgari Guildgate (a)"
 
 #: ../../GRN.rst:1385 ../../GRN.rst:1391
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../GRN.rst:1394
 msgid "Golgari Guildgate (b)"
@@ -3266,7 +3267,7 @@ msgstr "Izzet Guildgate (a)"
 
 #: ../../GRN.rst:1403 ../../GRN.rst:1409
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../GRN.rst:1412
 msgid "Izzet Guildgate (b)"
@@ -3286,7 +3287,7 @@ msgid ""
 "it enters the battlefield tapped."
 msgstr ""
 "Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki zatapowany."
+"zrobisz, wchodzi na pole walki przekręcony."
 
 #: ../../GRN.rst:1424
 msgid "Sacred Foundry"
@@ -3302,7 +3303,7 @@ msgid ""
 "it enters the battlefield tapped."
 msgstr ""
 "Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki zatapowany."
+"zrobisz, wchodzi na pole walki przekręcony."
 
 #: ../../GRN.rst:1430
 msgid "Selesnya Guildgate (a)"
@@ -3310,7 +3311,7 @@ msgstr "Selesnya Guildgate (a)"
 
 #: ../../GRN.rst:1427 ../../GRN.rst:1433
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 #: ../../GRN.rst:1436
 msgid "Selesnya Guildgate (b)"
@@ -3330,7 +3331,7 @@ msgid ""
 "enters the battlefield tapped."
 msgstr ""
 "Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki zatapowany."
+"zrobisz, wchodzi na pole walki przekręcony."
 
 #: ../../GRN.rst:1448
 msgid "Temple Garden"
@@ -3346,7 +3347,7 @@ msgid ""
 "it enters the battlefield tapped."
 msgstr ""
 "Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki zatapowany."
+"zrobisz, wchodzi na pole walki przekręcony."
 
 #: ../../GRN.rst:1454
 msgid "Watery Grave"
@@ -3362,7 +3363,7 @@ msgid ""
 "enters the battlefield tapped."
 msgstr ""
 "Gdy ten ląd wchodzi na pole walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, wchodzi na pole walki zatapowany."
+"zrobisz, wchodzi na pole walki przekręcony."
 
 #: ../../GRN.rst:1456
 msgid "Plains"
