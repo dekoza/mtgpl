@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 20:52+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/soi/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/soi/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../SOI.rst:5
@@ -1045,7 +1045,7 @@ msgid ""
 "step."
 msgstr ""
 "Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
-"odtapowania swojego władcy."
+"odkręcania swojego władcy."
 
 #: ../../SOI.rst:476
 msgid "Rattlechains"
@@ -1107,7 +1107,7 @@ msgstr ""
 
 #: ../../SOI.rst:503
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../SOI.rst:510
 msgid "Startled Awake"
@@ -1507,7 +1507,7 @@ msgstr ""
 #, fuzzy
 msgid "Create two 2/2 black Zombie creature tokens."
 msgstr ""
-"Umieść na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi "
+"Umieść na polu walki trzynaście przekręconych żetonów czarnego stwora Zombi "
 "2/2."
 
 #: ../../SOI.rst:684
@@ -1668,7 +1668,7 @@ msgstr ""
 
 #: ../../SOI.rst:747
 msgid "Destroy target tapped creature."
-msgstr "Zniszcz wskazanego zatapowanego stwora."
+msgstr "Zniszcz wskazanego przekręconego stwora."
 
 #: ../../SOI.rst:758
 msgid "Olivia's Bloodsworn"
@@ -2828,7 +2828,7 @@ msgstr ""
 #, fuzzy
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
-"|tap|, zatapuj niezatapowanego stwora, którym władasz: Dodaj jedną manę "
+"|tap|, przekręć odkręconego stwora pod twoim władaniem: Dodaj jedną manę "
 "dowolnego koloru do twojej puli many."
 
 #: ../../SOI.rst:1288
@@ -3639,7 +3639,7 @@ msgstr "Forsaken Sanctuary"
 
 #: ../../SOI.rst:1649
 msgid "Forsaken Sanctuary enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../SOI.rst:1651
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -3666,7 +3666,7 @@ msgstr "Foul Orchard"
 
 #: ../../SOI.rst:1661
 msgid "Foul Orchard enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../SOI.rst:1670
 msgid "Game Trail"
@@ -3688,7 +3688,7 @@ msgstr "Highland Lake (Górskie Jezioro)"
 
 #: ../../SOI.rst:1673
 msgid "Highland Lake enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../SOI.rst:1675
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -3714,7 +3714,7 @@ msgstr "Stone Quarry (Kamieniołom)"
 
 #: ../../SOI.rst:1685
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../SOI.rst:1687
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -3760,7 +3760,7 @@ msgstr "Woodland Stream (Leśny Strumień)"
 
 #: ../../SOI.rst:1709
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../SOI.rst:1711
 msgid "|tap|: Add |mana_g| or |mana_u|."
