@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 22:07+0000\n"
+"PO-Revision-Date: 2019-01-12 01:58+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/ktk/pl/>\n"
 "Language: pl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1421404675.490232\n"
 
 # 3162ee2691fd4c0fb41c4569970ffac7
@@ -54,7 +54,7 @@ msgstr "Abzan Falconer"
 # 9a5fa63eb28445adae74b1e6b04e16bf
 #: ../../KTK.rst:17
 msgid "Each creature you control with a +1/+1 counter on it has flying."
-msgstr "Każdy stwór, którym władasz, mający znacznik +1/+1, ma latanie."
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma latanie."
 
 # a371f30d929f4cf9a3261133853140f1
 #: ../../KTK.rst:24

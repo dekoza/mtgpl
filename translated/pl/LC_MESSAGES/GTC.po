@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 22:07+0000\n"
+"PO-Revision-Date: 2019-01-12 01:58+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1385404109.643633\n"
 
 # bc285d61e5844f2db8f900ddf644d9e4
@@ -790,7 +790,7 @@ msgstr "Sapphire Drake"
 # 37a984216cbc494689daeb064573ae2f
 #: ../../GTC.rst:245
 msgid "Each creature you control with a +1/+1 counter on it has flying."
-msgstr "Każdy stwór, którym władasz, mający znacznik +1/+1 ma latanie."
+msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma latanie."
 
 # ea95e56e1d3740e4864b29f868a76fbd
 #: ../../GTC.rst:252
