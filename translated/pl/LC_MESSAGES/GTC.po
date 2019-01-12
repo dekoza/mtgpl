@@ -5,9 +5,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-12 01:58+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/gtc/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -137,7 +137,7 @@ msgid ""
 "Artifacts and creatures your opponents control enter the battlefield tapped."
 msgstr ""
 "Artefakty i stwory, którymi władają twoi przeciwnicy wchodzą na pole walki "
-"zatapowane."
+"przekręcone."
 
 # 7bb2144a24994a6daf3305f7b2755e8a
 #: ../../GTC.rst:40
@@ -165,7 +165,7 @@ msgid ""
 "Whenever another white creature enters the battlefield under your control, "
 "tap target creature an opponent controls."
 msgstr ""
-"Ilekroć inny biały stwór wchodzi na pole walki pod twoim władaniem, zatapuj "
+"Ilekroć inny biały stwór wchodzi na pole walki pod twoim władaniem, przekręć "
 "wskazanego stwora władanego przez przeciwnika."
 
 # bf5ca91129864257835658c25d9ef869
@@ -268,7 +268,7 @@ msgstr ""
 #: ../../GTC.rst:71
 #, fuzzy
 msgid "−15: Exile all other permanents."
-msgstr "-15: Wypędź wszystkie inne permanenty."
+msgstr "-15: Wygnaj wszystkie inne permanenty."
 
 # 711d657768a14f6f96415576bfb158b1
 #: ../../GTC.rst:80
@@ -328,8 +328,8 @@ msgstr "Hold the Gates (Utrzymać Bramy)"
 msgid ""
 "Creatures you control get +0/+1 for each Gate you control and have vigilance."
 msgstr ""
-"Stwory, którymi władasz, zyskują +0/+1 za każdą Bramę, którą władasz i mają "
-"czujność."
+"Stwory pod twoim władaniem zyskują +0/+1 za każdą Bramę, którą władasz i "
+"mają czujność."
 
 # de56137ee9104a91819cd69ef58019f5
 #: ../../GTC.rst:96
@@ -390,7 +390,7 @@ msgstr "Murder Investigation (Śledztwo w Sprawie Morderstwa)"
 # 9721ea40025e42b39c98548c9647a2a4
 #: ../../GTC.rst:115 ../../GTC.rst:343
 msgid "Enchant creature you control"
-msgstr "Zaurocz stwora, którym władasz"
+msgstr "Zaurocz stwora pod twoim władaniem"
 
 # 2d0e6be6c955454cb1856c312db1e4d4
 #: ../../GTC.rst:117
@@ -415,7 +415,7 @@ msgid ""
 "attack, Nav Squad Commandos gets +1/+1 until end of turn. Untap it."
 msgstr ""
 "Batalion — Ilekroć Nav Squad Commandos i co najmniej dwa inne stwory "
-"atakują, Nav Squad Commandos dostaje +1/+1 do końca tury. Odtapuj go."
+"atakują, Nav Squad Commandos dostaje +1/+1 do końca tury. Odkręć go."
 
 # 5c94ed7e09ab498499e8b945664c2f61
 #: ../../GTC.rst:126
@@ -621,7 +621,7 @@ msgid ""
 "its controller's next untap step."
 msgstr ""
 "Zaznacz wskazanego stwora władanego przez przeciwnika. Ten stwór nie "
-"odznacza się podczas następnego kroku odtapowania jego władcy."
+"odznacza się podczas następnego kroku odkręcania jego władcy."
 
 # 626a9431614044d0be1ffaf686325200
 # ca8e72d3fa404caea986b9c8b85bf467
@@ -642,9 +642,9 @@ msgid ""
 "control. Whenever that creature deals combat damage to a player, its "
 "controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
-"Szyfruj (Następnie możesz wypędzić tę kartę kodując ją na stworze, którym "
-"władasz. Ilekroć ów stwór zada graczowi obrażenia bitewne, jego władca może "
-"rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
+"Szyfruj (Następnie możesz wypędzić tę kartę kodując ją na stworze pod twoim "
+"władaniem. Ilekroć ów stwór zada graczowi obrażenia bitewne, jego władca "
+"może rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
 
 # 913ada805d014cb1bac66f624ff837be
 #: ../../GTC.rst:198
@@ -678,8 +678,8 @@ msgid ""
 "When Keymaster Rogue enters the battlefield, return a creature you control "
 "to its owner's hand."
 msgstr ""
-"Kiedy Keymaster Rogue wchodzi na pole walki, zwróć stwora, którym władasz do "
-"ręki jego właściciela."
+"Kiedy Keymaster Rogue wchodzi na pole walki, zwróć stwora pod twoim "
+"władaniem do ręki jego właściciela."
 
 # dd75f3e349da41d88e7511c8f337210b
 #: ../../GTC.rst:210
@@ -902,7 +902,7 @@ msgid ""
 "Exile target creature. Return it to the battlefield under its owner's "
 "control at the beginning of the next end step."
 msgstr ""
-"Wypędź wskazanego stwora. Z początkiem najbliższego kroku końcowego przywróć "
+"Wygnaj wskazanego stwora. Z początkiem najbliższego kroku końcowego przywróć "
 "go na pole walki pod władaniem jego właściciela."
 
 # 68b874d8672c4284931d1e80eea28bd3
@@ -958,7 +958,7 @@ msgstr "Zauroczony ląd jest Bagnem."
 # a072930de07f40499d26d564322481b5
 #: ../../GTC.rst:317
 msgid "Whenever enchanted land becomes tapped, its controller loses 2 life."
-msgstr "Ilekroć zauroczony ląd zostaje zatapowany, jego władca traci 2 życia."
+msgstr "Ilekroć zauroczony ląd zostaje przekręcony, jego władca traci 2 życia."
 
 # 9fddcfcbf315485eabc602bfc858a695
 #: ../../GTC.rst:324
@@ -1321,9 +1321,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Zyskujesz władanie nad wskazanym stworem do końca tury. Odtapuj owego "
-"stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej "
-"turze.)"
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odkręć owego stwora. "
+"Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej turze.)"
 
 # e077dfe104cf4029b7f803000f73b24b
 #: ../../GTC.rst:454
@@ -1407,7 +1406,7 @@ msgid ""
 "Whenever a creature you control deals combat damage, put a blaze counter on "
 "Five-Alarm Fire."
 msgstr ""
-"Ilekroć stwór, którym władasz zadaje obrażenia bitewne, umieść znacznik "
+"Ilekroć stwór pod twoim władaniem zadaje obrażenia bitewne, umieść znacznik "
 "płomienia na Five-Alarm Fire."
 
 # 609a64a22a1c453dbd41f2ec9fe7a08f
@@ -1550,7 +1549,7 @@ msgid ""
 "creature. Other creatures that player controls can't block this turn."
 msgstr ""
 "Wskazany stwór, którym włada przeciwnik blokuje w tej turze jeśli może. "
-"Odtapuj owego stwora. Pozostałe stwory władane przez owego gracza nie mogą "
+"Odkręć owego stwora. Pozostałe stwory władane przez owego gracza nie mogą "
 "blokować w tej turze."
 
 # 0fe9e9f8906d4485960a61ffa07cc54c
@@ -1584,8 +1583,8 @@ msgid ""
 msgstr ""
 "Kiedy Molten Primordial wchodzi na pole walki, dla każdego z przeciwników "
 "przejmij do końca tury władanie nad co najwyżej jednym wskazanym stworem "
-"władanym przez owego gracza. Odtapuj te stwory. Zyskują one pośpiech do "
-"końca tury."
+"władanym przez owego gracza. Odkręć te stwory. Zyskują one pośpiech do końca "
+"tury."
 
 # 8ed3c4b2c9b844bd87a3cbe36f076627
 #: ../../GTC.rst:530
@@ -1878,7 +1877,7 @@ msgstr "Greenside Watcher"
 # 427ab44206c64760ab3c00101f72bf60
 #: ../../GTC.rst:627
 msgid "|tap|: Untap target Gate."
-msgstr "|tap|: Odtapuj wskazaną Bramę."
+msgstr "|tap|: Odkręć wskazaną Bramę."
 
 # 162b617458e6482782437faa6bae42eb
 #: ../../GTC.rst:634
@@ -1978,8 +1977,8 @@ msgid ""
 "Choose target creature you control. You gain life equal to that creature's "
 "power plus its toughness."
 msgstr ""
-"Wskaż stwora, którym władasz. Zyskujesz tyle życia, ile wynosi suma siły i "
-"wytrzymałości owego stwora."
+"Wskaż stwora pod twoim władaniem. Zyskujesz tyle życia, ile wynosi suma siły "
+"i wytrzymałości owego stwora."
 
 # f3b604f9f29e4e88a12846d8bd660a87
 #: ../../GTC.rst:662
@@ -2091,8 +2090,8 @@ msgstr ""
 "Kiedy Sylvan Primordial wchodzi na pole walki, dla każdego ze swoich "
 "przeciwników, zniszcz wskazany permanent nie będący stworem władany przez "
 "owego gracza. Dla każdego permanentu zniszczonego w ten sposób, poszukaj w "
-"twojej bibliotece karty Lasu i umieść ją zatapowaną na polu walki. Następnie "
-"przetasuj twoją bibliotekę."
+"twojej bibliotece karty Lasu i umieść ją przekręconą na polu walki. "
+"Następnie przetasuj twoją bibliotekę."
 
 # 0331e4ac032940f9b186ea20c58023d5
 #: ../../GTC.rst:694
@@ -2470,7 +2469,8 @@ msgstr ""
 #: ../../GTC.rst:811
 #, fuzzy
 msgid "−2: Target creature you control fights another target creature."
-msgstr "-2: Wskazany stwór, którym władasz bije się z innym wskazanym stworem."
+msgstr ""
+"-2: Wskazany stwór pod twoim władaniem bije się z innym wskazanym stworem."
 
 #: ../../GTC.rst:813
 #, fuzzy
@@ -2639,7 +2639,7 @@ msgid ""
 "card onto the battlefield tapped. Then shuffle your library."
 msgstr ""
 "Zniszcz wskazany ląd. Poszukaj w twojej bibliotece karty zwykłego lądu i "
-"umieść ją zatapowaną na polu walki. Następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu walki. Następnie przetasuj twoją bibliotekę."
 
 # c58f04a595fd47eb9a97f75585501922
 #: ../../GTC.rst:876
@@ -2792,9 +2792,9 @@ msgid ""
 "additional +1/+1 counters on it equal to Master Biomancer's power and as a "
 "Mutant in addition to its other types."
 msgstr ""
-"Każdy inny stwór, którym władasz wchodzi na pole walki z tyloma dodatkowymi "
-"znacznikami +1/+1, ile wynosi siła Master Biomancera oraz jest dodatkowo "
-"typu Mutant."
+"Każdy inny stwór pod twoim władaniem wchodzi na pole walki z tyloma "
+"dodatkowymi znacznikami +1/+1, ile wynosi siła Master Biomancera oraz jest "
+"dodatkowo typu Mutant."
 
 # e5f4c1be2460430496cef50e198f1a30
 #: ../../GTC.rst:936
@@ -2805,7 +2805,7 @@ msgstr "Merciless Eviction (Bezlitosna Eksmisja)"
 #: ../../GTC.rst:929
 #, fuzzy
 msgid "Exile all artifacts."
-msgstr "Wypędź wskazany artefakt."
+msgstr "Wygnaj wskazany artefakt."
 
 #: ../../GTC.rst:931
 #, fuzzy
@@ -2961,8 +2961,8 @@ msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza na twoją rękę."
 #, fuzzy
 msgid "Destroy target creature and you lose life equal to its toughness."
 msgstr ""
-"Wskaż stwora, którym władasz. Zyskujesz tyle życia, ile wynosi suma siły i "
-"wytrzymałości owego stwora."
+"Wskaż stwora pod twoim władaniem. Zyskujesz tyle życia, ile wynosi suma siły "
+"i wytrzymałości owego stwora."
 
 # 9f2de1aa2146403fbc81353afb1b116a
 #: ../../GTC.rst:981
@@ -3151,7 +3151,7 @@ msgid ""
 "|mana_1|\\ |mana_r|\\ |mana_g|: Target land you control becomes a 4/4 "
 "Elemental creature until end of turn. It's still a land."
 msgstr ""
-"|mana_1|\\ |mana_r|\\ |mana_g|: Wskazany ląd, którym władasz staje się "
+"|mana_1|\\ |mana_r|\\ |mana_g|: Wskazany ląd pod twoim władaniem staje się "
 "stworem Żywiołak 4/4 do końca tury. Nadal jest lądem."
 
 # 9cbd60d14b2a43dc923b0cb12c612f5d
@@ -3375,8 +3375,8 @@ msgid ""
 "|mana_g|\\ |mana_u|: This turn, each creature you control enters the "
 "battlefield with an additional +1/+1 counter on it."
 msgstr ""
-"|mana_g|\\ |mana_u|: W tej turze każdy stwór, którym władasz wchodzi na pole "
-"walki z dodatkowym znacznikiem +1/+1."
+"|mana_g|\\ |mana_u|: W tej turze każdy stwór pod twoim władaniem wchodzi na "
+"pole walki z dodatkowym znacznikiem +1/+1."
 
 # 0f24e60ab55f4eb5a24fc04bc30a6ad2
 #: ../../GTC.rst:1117
@@ -3385,8 +3385,8 @@ msgid ""
 "|mana_g|\\ |mana_u|, Remove a +1/+1 counter from a creature you control: "
 "Draw a card."
 msgstr ""
-"|mana_g|\\ |mana_u|, usuń znacznik +1/+1 ze stwora, którym władasz: Dobierz "
-"kartę."
+"|mana_g|\\ |mana_u|, usuń znacznik +1/+1 ze stwora pod twoim władaniem: "
+"Dobierz kartę."
 
 # 2100d8b78a8b43cc93c3ef55a74971d1
 #: ../../GTC.rst:1122
@@ -3430,7 +3430,7 @@ msgid ""
 "Exile target card from a graveyard. Create a 1/1 white and black Spirit "
 "creature token with flying."
 msgstr ""
-"Wypędź wskazaną kartę z cmentarza. Umieść na polu walki żeton czarno-białego "
+"Wygnaj wskazaną kartę z cmentarza. Umieść na polu walki żeton czarno-białego "
 "stwora Spirit 1/1 z lataniem."
 
 # 08e46b5acd844ac8b8408e1322778db1
@@ -3585,8 +3585,8 @@ msgid ""
 "Target creature you control fights another target creature. (Each deals "
 "damage equal to its power to the other.)"
 msgstr ""
-"Wskazany stwór, którym władasz bije się z innym wskazanym stworem.  (Zadają "
-"sobie nawzajem obrażenia równe swojej sile.)"
+"Wskazany stwór pod twoim władaniem bije się z innym wskazanym stworem.  ("
+"Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 # 6ef26980e2254322be92ee77638aa37e
 #: ../../GTC.rst:1186
@@ -3601,7 +3601,7 @@ msgid ""
 "attacking creature you control."
 msgstr ""
 "Ilekroć Rubblebelt Raiders atakuje, umieść na nim znacznik +1/+1 za każdego "
-"atakującego stwora, którym władasz."
+"atakującego stwora pod twoim władaniem."
 
 # 40c151f1e3a14b709c5ce282d2b3e331
 #: ../../GTC.rst:1190
@@ -3612,7 +3612,7 @@ msgstr "Shattering Blow"
 # dcc321da18ca433190b4ad957e8ce6d8
 #: ../../GTC.rst:1189
 msgid "Exile target artifact."
-msgstr "Wypędź wskazany artefakt."
+msgstr "Wygnaj wskazany artefakt."
 
 # e21aa8afc18c44a698cfd86a8ca6685b
 #: ../../GTC.rst:1194
@@ -3878,7 +3878,7 @@ msgstr "Boros Guildgate"
 # a303781413a341c487e1f8d439eb00a4
 #: ../../GTC.rst:1265
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # d242917238044f3faffb800675d4a107
 #: ../../GTC.rst:1274
@@ -3898,7 +3898,7 @@ msgid ""
 "Breeding Pool enters the battlefield tapped."
 msgstr ""
 "Kładąc Breeding Pool na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, Breeding Pool wchodzi na pole walki zatapowany."
+"zrobisz, Breeding Pool wchodzi na pole walki przekręcony."
 
 # 3029c5f56974428e841e8f8c020e6f0e
 #: ../../GTC.rst:1280
@@ -3909,7 +3909,7 @@ msgstr "Dimir Guildgate"
 # 6ea92957886b4a7ca5445808e11fee79
 #: ../../GTC.rst:1277
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 5caaa0abcf434d7588c68e7a046862c0
 #: ../../GTC.rst:1286
@@ -3929,7 +3929,7 @@ msgid ""
 "Godless Shrine enters the battlefield tapped."
 msgstr ""
 "Kładąc Bezbożną Kaplicę na polu walki, możesz zapłacić 2 życia. Jeśli tego "
-"nie zrobisz, Bezbożna Kaplica wchodzi na pole walki zatapowana."
+"nie zrobisz, Bezbożna Kaplica wchodzi na pole walki przekręcona."
 
 # 2dd15ec39b0e4f62b114e65270c26c5b
 #: ../../GTC.rst:1292
@@ -3969,7 +3969,7 @@ msgid ""
 "Sacred Foundry enters the battlefield tapped."
 msgstr ""
 "Kładąc Sacred Foundry na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, Sacred Foundry wchodzi na pole walki zatapowany."
+"zrobisz, Sacred Foundry wchodzi na pole walki przekręcony."
 
 # bf4c0f9890ba41b5b68573d822857a8d
 #: ../../GTC.rst:1310
@@ -3999,7 +3999,7 @@ msgid ""
 "Stomping Ground enters the battlefield tapped."
 msgstr ""
 "Kładąc Stomping Ground na polu walki, możesz zapłacić 2 życia. Jeśli tego "
-"nie zrobisz, Stomping Ground wchodzi na pole walki zatapowany."
+"nie zrobisz, Stomping Ground wchodzi na pole walki przekręcony."
 
 # 69171bbce7764beb896a293d37b75809
 #: ../../GTC.rst:1322
@@ -4038,7 +4038,7 @@ msgid ""
 "Watery Grave enters the battlefield tapped."
 msgstr ""
 "Kładąc Watery Grave na polu walki, możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, Watery Grave wchodzi na pole walki zatapowany."
+"zrobisz, Watery Grave wchodzi na pole walki przekręcony."
 
 # a14ba0b1206c47d6a832267ba90f0822
 #~ msgid ""
