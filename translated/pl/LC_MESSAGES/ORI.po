@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 22:07+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/ori/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: ../../ORI.rst:5
 msgid "Magic Origins"
@@ -31,7 +31,7 @@ msgstr "Akroan Jailer"
 #: ../../ORI.rst:9
 #, fuzzy
 msgid "|mana_2|\\ |mana_w|, |tap|: Tap target creature."
-msgstr "|mana_2|\\ |mana_w|, |tap|: Zatapuj wskazanego stwora."
+msgstr "|mana_2|\\ |mana_w|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../ORI.rst:14
 #, fuzzy
@@ -260,7 +260,7 @@ msgid ""
 "When Heavy Infantry enters the battlefield, tap target creature an opponent "
 "controls."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zatapuj wskazanego stwora pod "
+"Kiedy ta karta wejdzie na pole walki, przekręć wskazanego stwora pod "
 "władaniem przeciwnika."
 
 #: ../../ORI.rst:106
@@ -307,7 +307,7 @@ msgid ""
 "creature token with vigilance. (Attacking doesn't cause it to tap.)"
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, stwórz żeton białego stwora Rycerz 2/2 "
-"z czujnością. (Atakowanie nie powoduje jego zatapowania.)"
+"z czujnością. (Atakowanie nie powoduje jego przekręcenia.)"
 
 #: ../../ORI.rst:123
 msgid "Enchanted creature gets +2/+2 and has vigilance."
@@ -359,7 +359,7 @@ msgstr ""
 #: ../../ORI.rst:143
 #, fuzzy
 msgid "|mana_w|\\ |mana_w|: Tap target creature."
-msgstr "|mana_2|\\ |mana_w|, |tap|: Zatapuj wskazanego stwora."
+msgstr "|mana_2|\\ |mana_w|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../ORI.rst:150
 msgid "Kytheon's Tactics"
@@ -390,7 +390,7 @@ msgstr ""
 
 #: ../../ORI.rst:157
 msgid "Enchant creature you control"
-msgstr "Zaurocz stwora, którym władasz"
+msgstr "Zaurocz stwora pod twoim władaniem"
 
 #: ../../ORI.rst:159
 #, fuzzy
@@ -429,7 +429,7 @@ msgstr ""
 
 #: ../../ORI.rst:175 ../../ORI.rst:209 ../../ORI.rst:1083 ../../ORI.rst:1159
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atakowanie nie powoduje tapowania tego stwora.)"
+msgstr "Czujność (Atakowanie nie powoduje przekręcenia tego stwora.)"
 
 #: ../../ORI.rst:177
 msgid ""
@@ -495,7 +495,7 @@ msgstr ""
 
 #: ../../ORI.rst:205
 msgid "Destroy target tapped creature."
-msgstr "Zniszcz wskazanego zatapowanego stwora."
+msgstr "Zniszcz wskazanego przekręconego stwora."
 
 #: ../../ORI.rst:212
 msgid "Topan Freeblade"
@@ -649,11 +649,11 @@ msgstr ""
 #: ../../ORI.rst:283
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
 msgstr ""
-"Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
+"Kiedy Klaustrofobia wchodzi na pole walki, przekręć zauroczonego stwora."
 
 #: ../../ORI.rst:285
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../ORI.rst:290
 msgid "Day's Undoing"
@@ -703,7 +703,7 @@ msgstr "Zaznacz wskazanego stwora."
 
 #: ../../ORI.rst:305
 msgid "Untap target creature."
-msgstr "Odtapuj wskazanego stwora."
+msgstr "Odkręć wskazanego stwora."
 
 #: ../../ORI.rst:310
 msgid "Disperse"
@@ -762,7 +762,7 @@ msgid ""
 "tapped creature an opponent controls to its owner's hand."
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazanego "
-"zatapowanego stwora pod władaniem przeciwnika do ręki jego właściciela."
+"przekręconego stwora pod władaniem przeciwnika do ręki jego właściciela."
 
 #: ../../ORI.rst:336
 msgid "Hydrolash"
@@ -1662,9 +1662,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Zyskujesz władanie nad wskazanym stworem do końca tury. Odtapuj owego "
-"stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej "
-"turze.)"
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odkręć owego stwora. "
+"Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej turze.)"
 
 #: ../../ORI.rst:728
 msgid "Akroan Sergeant"
@@ -2740,6 +2739,8 @@ msgid ""
 "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../ORI.rst:1224
 msgid "Chief of the Foundry"
@@ -2987,7 +2988,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../ORI.rst:1348
 msgid "Foundry of the Consuls"
