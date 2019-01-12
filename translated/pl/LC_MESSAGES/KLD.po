@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 22:07+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/kld/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../KLD.rst:5
@@ -92,7 +92,7 @@ msgstr ""
 #: ../../KLD.rst:35
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
-"Stwory władane przez twoich przeciwników wchodzą na pole walki zatapowane."
+"Stwory władane przez twoich przeciwników wchodzą na pole walki przekręcone."
 
 #: ../../KLD.rst:37
 msgid ""
@@ -1395,7 +1395,7 @@ msgid ""
 "gains haste until end of turn."
 msgstr ""
 "Zyskujesz władaniem nad wskazanym artefaktem lub stworem do końca tury. "
-"Odtapuj go. Zyskuje on pośpiech do końca tury."
+"Odkręć go. Zyskuje on pośpiech do końca tury."
 
 #: ../../KLD.rst:640
 msgid "Incendiary Sabotage"
@@ -2306,7 +2306,7 @@ msgid ""
 "Crew 4 (Tap any number of creatures you control with total power 4 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 4 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 4 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 4: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1050
@@ -2322,7 +2322,7 @@ msgid ""
 "Crew 3 (Tap any number of creatures you control with total power 3 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 3 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 3 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 3: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1054
@@ -2441,7 +2441,7 @@ msgid ""
 "Crew 5 (Tap any number of creatures you control with total power 5 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 5 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 5 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 5: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1114
@@ -2555,7 +2555,7 @@ msgid ""
 "Crew 2 (Tap any number of creatures you control with total power 2 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 2 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 2 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 2: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1160
@@ -2710,7 +2710,7 @@ msgid ""
 "Crew 1 (Tap any number of creatures you control with total power 1 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 1 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 1 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 1: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1226
@@ -3065,7 +3065,7 @@ msgstr "Stone Quarry (Kamieniołom)"
 
 #: ../../KLD.rst:1443
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../KLD.rst:1454
 msgid "Nissa, Nature's Artisan"
@@ -3117,4 +3117,4 @@ msgstr "Woodland Stream (Leśny Strumień)"
 
 #: ../../KLD.rst:1471
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
