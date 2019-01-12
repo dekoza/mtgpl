@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 20:52+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/dom/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: ../../DOM.rst:5
 msgid "Dominaria"
@@ -158,7 +158,7 @@ msgid ""
 "Whenever you cast a historic spell, tap target creature an opponent "
 "controls. (Artifacts, legendaries, and Sagas are historic.)"
 msgstr ""
-"Ilekroć rzucasz historyczny czar, zatapuj wskazanego stwora pod władaniem "
+"Ilekroć rzucasz historyczny czar, przekręć wskazanego stwora pod władaniem "
 "przeciwnika. (Artefakty, legendy i Sagi są historyczne.)"
 
 #: ../../DOM.rst:62
@@ -434,7 +434,7 @@ msgid ""
 "When Seal Away enters the battlefield, exile target tapped creature an "
 "opponent controls until Seal Away leaves the battlefield."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wygnaj wskazanego zatapowanego stwora "
+"Kiedy ta karta wejdzie na pole walki, wygnaj wskazanego przekręconego stwora "
 "pod władaniem przeciwnika dopóki ta karta nie opuści pola walki."
 
 #: ../../DOM.rst:178
@@ -805,7 +805,7 @@ msgid ""
 "When Merfolk Trickster enters the battlefield, tap target creature an "
 "opponent controls. It loses all abilities until end of turn."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, wchodzi na pole walki, zatapuj "
+"Kiedy ta karta wejdzie na pole walki, wchodzi na pole walki, przekręć "
 "wskazanego stwora pod władaniem przeciwnika. Traci on wszystkie zdolności do "
 "końca tury."
 
@@ -996,12 +996,12 @@ msgid ""
 "I, II — Tap target creature an opponent controls. It doesn't untap during "
 "its controller's untap step for as long as you control Time of Ice."
 msgstr ""
-"I, II — Zatapuj wskazanego stwora pod władaniem przeciwnika. Nie odtapuje "
-"się on w kroku odtapowania jego władcy dopóki władasz niniejszym permanentem."
+"I, II — Przekręć wskazanego stwora pod władaniem przeciwnika. Nie odkręci "
+"się on w kroku odkręcania jego władcy dopóki władasz niniejszym permanentem."
 
 #: ../../DOM.rst:403
 msgid "III — Return all tapped creatures to their owners' hands."
-msgstr "III — Przywróć wszystkie zatapowane stwory do rąk ich właścicieli."
+msgstr "III — Przywróć wszystkie przekręcone stwory do rąk ich właścicieli."
 
 #: ../../DOM.rst:406
 msgid "Tolarian Scholar"
@@ -1014,7 +1014,7 @@ msgstr "Unwind"
 #: ../../DOM.rst:411
 msgid "Counter target noncreature spell. Untap up to three lands."
 msgstr ""
-"Skontruj wskazany czar nie będący stworem. Odtapuj co najwyżej trzy lądy."
+"Skontruj wskazany czar nie będący stworem. Odkręć co najwyżej trzy lądy."
 
 #: ../../DOM.rst:416
 msgid "Vodalian Arcanist"
@@ -1057,7 +1057,7 @@ msgid ""
 "You may pay |mana_3|\\ |mana_u| and tap an untapped artifact you control "
 "rather than pay this spell's mana cost."
 msgstr ""
-"Możesz zapłacić |mana_3|\\ |mana_u| i zatapować odtapowany artefakt pod "
+"Możesz zapłacić |mana_3|\\ |mana_u| i przekręcić odtapowany artefakt pod "
 "twoim władaniem zamiast płacić koszt many tego czaru."
 
 #: ../../DOM.rst:436
@@ -1222,8 +1222,8 @@ msgid ""
 "|mana_3|: Tap Drudge Sentinel. It gains indestructible until end of turn. "
 "(Damage and effects that say \"destroy\" don't destroy it.)"
 msgstr ""
-"|mana_3|: Zatapuj tego stwora. Zyskuje on niezniszczalność do końca tury. "
-"(Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
+"|mana_3|: Przekręć tego stwora. Zyskuje on niezniszczalność do końca tury. ("
+"Obrażenia i efekty mówiące \"zniszcz\" nie niszczą go.)"
 
 #: ../../DOM.rst:506
 msgid "The Eldest Reborn"
@@ -1910,7 +1910,7 @@ msgid ""
 "until end of turn."
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, jeśli została podbita, zyskujesz "
-"władanie nad wskazanym stworem do końca tury. Odtapuj owego stwora. Zyskuje "
+"władanie nad wskazanym stworem do końca tury. Odkręć owego stwora. Zyskuje "
 "on pośpiech do końca tury."
 
 #: ../../DOM.rst:774
@@ -2113,7 +2113,7 @@ msgid ""
 msgstr ""
 "Ilekroć atakujesz co najmniej trzema stworami, możesz zapłacić |mana_2|\\ "
 "|mana_r|. Jeśli tak zrobisz, przywróć tego stwora z twojego cmentarza na "
-"pole walki zatapowanego i atakującego."
+"pole walki przekręconego i atakującego."
 
 #: ../../DOM.rst:854
 msgid "Warlord's Fury"
@@ -2287,7 +2287,7 @@ msgid ""
 "Untap target creature. It gets +2/+2 until end of turn. If this spell was "
 "kicked, that creature gets +4/+4 until end of turn instead."
 msgstr ""
-"Odtapuj wskazanego stwora. Dostaje on +2/+2 do końca tury. Jeśli ten czar "
+"Odkręć wskazanego stwora. Dostaje on +2/+2 do końca tury. Jeśli ten czar "
 "został podbity, zamiast tego ów stwór dostaje +4/+4 do końca tury."
 
 #: ../../DOM.rst:922
@@ -2664,7 +2664,7 @@ msgid ""
 "|mana_b|, |tap|, Tap X untapped Knights you control: Destroy target creature "
 "with power X or less."
 msgstr ""
-"|mana_b|, |tap|, zatapuj X odtapowanych Rycerzy pod twoim władaniem: Zniszcz "
+"|mana_b|, |tap|, przekręć X odkręconych Rycerzy pod twoim władaniem: Zniszcz "
 "wskazanego stwora o sile X lub mniejszej."
 
 #: ../../DOM.rst:1082
@@ -2893,7 +2893,7 @@ msgstr "Teferi, Hero of Dominaria (Teferi, Bohater Dominarii)"
 msgid ""
 "+1: Draw a card. At the beginning of the next end step, untap two lands."
 msgstr ""
-"+1: Dobierz kartę. Na początku najbliższego kroku końcowego odtapuj dwa lądy."
+"+1: Dobierz kartę. Na początku najbliższego kroku końcowego odkręć dwa lądy."
 
 #: ../../DOM.rst:1165
 msgid ""
@@ -2985,8 +2985,8 @@ msgid ""
 "If a land is tapped for two or more mana, it produces |colorless| instead of "
 "any other type and amount."
 msgstr ""
-"Jeśli ląd zostaje zatapowany po dwie lub więcej many, produkuje on |"
-"colorless| zamiast wszelkich innych typów i ilości."
+"Jeśli ląd zostaje przekręcony po dwie lub więcej many, produkuje on "
+"|colorless| zamiast wszelkich innych typów i ilości."
 
 #: ../../DOM.rst:1203
 msgid ""
@@ -3070,7 +3070,7 @@ msgstr "Icy Manipulator"
 
 #: ../../DOM.rst:1233
 msgid "|mana_1|, |tap|: Tap target artifact, creature, or land."
-msgstr "|mana_1|, |tap|: Zatapuj wskazany artefakt, stwora lub ląd."
+msgstr "|mana_1|, |tap|: Przekręć wskazany artefakt, stwora lub ląd."
 
 #: ../../DOM.rst:1240
 msgid "Jhoira's Familiar"
@@ -3265,15 +3265,15 @@ msgid ""
 "Traxos, Scourge of Kroog enters the battlefield tapped and doesn't untap "
 "during your untap step."
 msgstr ""
-"Ta karta wchodzi na pole walki zatapowana i nie odtapowuje się w twoim kroku "
-"odtapowania."
+"Ta karta wchodzi na pole walki przekręcona i nie odkręca się w twoim kroku "
+"odkręcania."
 
 #: ../../DOM.rst:1313
 msgid ""
 "Whenever you cast a historic spell, untap Traxos. (Artifacts, legendaries, "
 "and Sagas are historic.)"
 msgstr ""
-"Ilekroć rzucasz historyczny czar, odtapuj tę kartę. (Artefakty, legendy i "
+"Ilekroć rzucasz historyczny czar, odkręć tę kartę. (Artefakty, legendy i "
 "Sagi są historyczne.)"
 
 #: ../../DOM.rst:1318
@@ -3296,7 +3296,7 @@ msgstr "Voltaic Servant"
 
 #: ../../DOM.rst:1321
 msgid "At the beginning of your end step, untap target artifact."
-msgstr "Na początku twojego kroku końcowego, odtapuj wskazany artefakt."
+msgstr "Na początku twojego kroku końcowego, odkręć wskazany artefakt."
 
 #: ../../DOM.rst:1330
 msgid "Weatherlight"
@@ -3341,7 +3341,8 @@ msgid ""
 "Clifftop Retreat enters the battlefield tapped unless you control a Mountain "
 "or a Plains."
 msgstr ""
-"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Górą lub Równiną."
+"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Górą lub "
+"Równiną."
 
 #: ../../DOM.rst:1341
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -3356,7 +3357,7 @@ msgid ""
 "Hinterland Harbor enters the battlefield tapped unless you control a Forest "
 "or an Island."
 msgstr ""
-"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Lasem lub Wyspą."
+"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Lasem lub Wyspą."
 
 #: ../../DOM.rst:1347
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -3371,7 +3372,7 @@ msgid ""
 "Isolated Chapel enters the battlefield tapped unless you control a Plains or "
 "a Swamp."
 msgstr ""
-"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Równiną lub "
+"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Równiną lub "
 "Bagnem."
 
 #: ../../DOM.rst:1353
@@ -3384,7 +3385,7 @@ msgstr "Memorial to Folly (Pomnik Kaprysu)"
 
 #: ../../DOM.rst:1357
 msgid "Memorial to Folly enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../DOM.rst:1359
 msgid "|tap|: Add |mana_b|."
@@ -3404,7 +3405,7 @@ msgstr "Memorial to Genius (Pomnik Geniuszu)"
 
 #: ../../DOM.rst:1365
 msgid "Memorial to Genius enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../DOM.rst:1367
 msgid "|tap|: Add |mana_u|."
@@ -3421,7 +3422,7 @@ msgstr "Memorial to Glory (Pomnik Chwały)"
 
 #: ../../DOM.rst:1373
 msgid "Memorial to Glory enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../DOM.rst:1375
 msgid "|tap|: Add |mana_w|."
@@ -3441,7 +3442,7 @@ msgstr "Memorial to Unity (Pomnik Wspólnoty)"
 
 #: ../../DOM.rst:1381
 msgid "Memorial to Unity enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../DOM.rst:1385
 msgid ""
@@ -3461,7 +3462,7 @@ msgstr "Memorial to War (Pomnik Wojny)"
 
 #: ../../DOM.rst:1389
 msgid "Memorial to War enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../DOM.rst:1391
 msgid "|tap|: Add |mana_r|."
@@ -3482,7 +3483,7 @@ msgid ""
 "Sulfur Falls enters the battlefield tapped unless you control an Island or a "
 "Mountain."
 msgstr ""
-"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Wyspą lub Górą."
+"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Wyspą lub Górą."
 
 #: ../../DOM.rst:1399
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -3497,7 +3498,8 @@ msgid ""
 "Woodland Cemetery enters the battlefield tapped unless you control a Swamp "
 "or a Forest."
 msgstr ""
-"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Bagnem lub Lasem."
+"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Bagnem lub "
+"Lasem."
 
 #: ../../DOM.rst:1405
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -3541,7 +3543,7 @@ msgstr "Teferi, Timebender"
 
 #: ../../DOM.rst:1495
 msgid "+2: Untap up to one target artifact or creature."
-msgstr "+2: Odtapuj co najwyżej jeden wskazany artefakt lub stwora."
+msgstr "+2: Odkręć co najwyżej jeden wskazany artefakt lub stwora."
 
 #: ../../DOM.rst:1497
 msgid "−3: You gain 2 life and draw two cards."
@@ -3593,7 +3595,7 @@ msgstr "Meandering River (Meandrująca Rzeka)"
 
 #: ../../DOM.rst:1515
 msgid "Meandering River enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../DOM.rst:1517
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -3674,7 +3676,7 @@ msgstr "Timber Gorge"
 
 #: ../../DOM.rst:1543
 msgid "Timber Gorge enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../DOM.rst:1545
 msgid "|tap|: Add |mana_r| or |mana_g|."
