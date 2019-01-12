@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 20:52+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/m19/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: ../../M19.rst:5
 msgid "Core Set 2019"
@@ -136,7 +136,7 @@ msgid ""
 "tap.)"
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, stwory pod twoim władaniem dostają do "
-"końca tury +1/+1 oraz czujność. (Atakowanie nie powoduje ich zatapowania.)"
+"końca tury +1/+1 oraz czujność. (Atakowanie nie powoduje ich przekręcenia.)"
 
 #: ../../M19.rst:46
 msgid "Cavalry Drillmaster"
@@ -199,7 +199,7 @@ msgstr "Gallant Cavalry"
 #: ../../M19.rst:65 ../../M19.rst:93 ../../M19.rst:147 ../../M19.rst:929
 #: ../../M19.rst:1023 ../../M19.rst:1453 ../../M19.rst:1585
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atakowanie nie powoduje tapowania tego stwora.)"
+msgstr "Czujność (Atakowanie nie powoduje przekręcenia tego stwora.)"
 
 #: ../../M19.rst:67
 msgid ""
@@ -282,7 +282,7 @@ msgid ""
 "creature token with vigilance. (Attacking doesn't cause it to tap.)"
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, stwórz żeton białego stwora Rycerz 2/2 "
-"z czujnością. (Atakowanie nie powoduje jego zatapowania.)"
+"z czujnością. (Atakowanie nie powoduje jego przekręcenia.)"
 
 #: ../../M19.rst:107
 msgid "Enchanted creature gets +2/+2 and has vigilance."
@@ -329,7 +329,7 @@ msgid ""
 "Whenever Leonin Warleader attacks, create two 1/1 white Cat creature tokens "
 "with lifelink that are tapped and attacking."
 msgstr ""
-"Ilekroć ten stwór atakuje, stwórz dwa zatapowane i atakujące żetony białego "
+"Ilekroć ten stwór atakuje, stwórz dwa przekręcone i atakujące żetony białego "
 "stwora Kot 1/1 z więzią życia."
 
 #: ../../M19.rst:124
@@ -497,7 +497,7 @@ msgid ""
 "Whenever Star-Crowned Stag attacks, tap target creature defending player "
 "controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, zatapuj wskazanego stwora pod władaniem "
+"Ilekroć ten stwór atakuje, przekręć wskazanego stwora pod władaniem "
 "przeciwnika."
 
 #: ../../M19.rst:208
@@ -530,7 +530,7 @@ msgstr "Take Vengeance"
 
 #: ../../M19.rst:211
 msgid "Destroy target tapped creature."
-msgstr "Zniszcz wskazanego zatapowanego stwora."
+msgstr "Zniszcz wskazanego przekręconego stwora."
 
 #: ../../M19.rst:216
 msgid "Trusty Packbeast"
@@ -923,8 +923,8 @@ msgid ""
 "Tap all creatures target player controls. Those creatures don't untap during "
 "that player's next untap step."
 msgstr ""
-"Zatapuj wszystkie stwory pod władaniem wskazanego gracza. Owe stwory nie "
-"odtapują się podczas najbliższego kroku odtapowania owego gracza."
+"Przekręć wszystkie stwory pod władaniem wskazanego gracza. Owe stwory nie "
+"odkręcą się podczas najbliższego kroku odkręcania owego gracza."
 
 #: ../../M19.rst:380
 msgid "Snapping Drake"
@@ -1036,7 +1036,7 @@ msgid ""
 "dies, return it to the battlefield tapped under its owner's control.\""
 msgstr ""
 "Do końca tury wskazany stwór dostaje +2/+0 oraz zdolność \"Kiedy ten stwór "
-"umrze, przywróć go zatapowanego na pole walki pod władanie jego właściciela."
+"umrze, przywróć go przekręconego na pole walki pod władanie jego właściciela."
 "\""
 
 #: ../../M19.rst:440
@@ -1065,7 +1065,7 @@ msgid ""
 "Return Bone Dragon from your graveyard to the battlefield tapped."
 msgstr ""
 "|mana_3|\\ |mana_b|\\ |mana_b|, wygnaj siedem innych kart z twojego "
-"cmentarza: Przywróć tę kartę z twojego cmentarza na pole walki, zatapowaną."
+"cmentarza: Przywróć tę kartę z twojego cmentarza na pole walki, przekręconą."
 
 #: ../../M19.rst:454
 msgid "Child of Night"
@@ -1097,7 +1097,7 @@ msgstr "Diregraf Ghoul"
 
 #: ../../M19.rst:467
 msgid "Diregraf Ghoul enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../M19.rst:472
 msgid "Doomed Dissenter"
@@ -1176,7 +1176,7 @@ msgid ""
 "tapped 2/2 black Zombie creature token."
 msgstr ""
 "|mana_2|\\ |mana_b|, wygnaj kartę stwora z twojego cmentarza: Stwórz "
-"zatapowany żeton czarnego stwora Zombie 2/2."
+"przekręcony żeton czarnego stwora Zombie 2/2."
 
 #: ../../M19.rst:504
 msgid "Hired Blade"
@@ -1399,7 +1399,7 @@ msgid ""
 "battlefield tapped."
 msgstr ""
 "|mana_1|\\ |mana_b|: Przywróć tę kartę z twojego cmentarza na pole walki, "
-"zatapowaną."
+"przekręconą."
 
 #: ../../M19.rst:590
 msgid "Rise from the Grave"
@@ -1510,9 +1510,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Zyskujesz władanie nad wskazanym stworem do końca tury. Odtapuj owego "
-"stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej "
-"turze.)"
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odkręć owego stwora. "
+"Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej turze.)"
 
 #: ../../M19.rst:640
 msgid "Alpine Moon"
@@ -2109,7 +2108,7 @@ msgid ""
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, spójrz na pięć wierzchnich kart twojej "
 "biblioteki. Możesz umieścić kartę lądu spośród nich na polu bitwy, "
-"zatapowaną. Umieść pozostałe na spodzie twojej biblioteki w losowej "
+"przekręconą. Umieść pozostałe na spodzie twojej biblioteki w losowej "
 "kolejności."
 
 #: ../../M19.rst:900
@@ -2332,7 +2331,7 @@ msgid ""
 "cards, put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "Poświęć dowolną liczbę lądów. Poszukaj w twojej bibliotece co najwyżej tyle "
-"samo kart lądów, umieść je zatapowane na polu walki, następnie przetasuj "
+"samo kart lądów, umieść je przekręcone na polu walki, następnie przetasuj "
 "twoją bibliotekę."
 
 #: ../../M19.rst:1006
@@ -2957,7 +2956,7 @@ msgstr "Cinder Barrens"
 
 #: ../../M19.rst:1271
 msgid "Cinder Barrens enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../M19.rst:1273
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -2987,7 +2986,7 @@ msgstr "Forsaken Sanctuary"
 
 #: ../../M19.rst:1283
 msgid "Forsaken Sanctuary enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../M19.rst:1285
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -2999,7 +2998,7 @@ msgstr "Foul Orchard"
 
 #: ../../M19.rst:1289
 msgid "Foul Orchard enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../M19.rst:1291
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -3011,7 +3010,7 @@ msgstr "Highland Lake (Górskie Jezioro)"
 
 #: ../../M19.rst:1295
 msgid "Highland Lake enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../M19.rst:1297
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -3023,7 +3022,7 @@ msgstr "Meandering River (Meandrująca Rzeka)"
 
 #: ../../M19.rst:1301
 msgid "Meandering River enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../M19.rst:1303
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -3043,7 +3042,7 @@ msgstr "Rupture Spire"
 
 #: ../../M19.rst:1313
 msgid "Rupture Spire enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../M19.rst:1315
 msgid ""
@@ -3059,7 +3058,7 @@ msgstr "Stone Quarry (Kamieniołom)"
 
 #: ../../M19.rst:1321
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../M19.rst:1323
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -3071,7 +3070,7 @@ msgstr "Submerged Boneyard (Zatopiony Cmentarz)"
 
 #: ../../M19.rst:1327
 msgid "Submerged Boneyard enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../M19.rst:1329
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -3083,7 +3082,7 @@ msgstr "Timber Gorge"
 
 #: ../../M19.rst:1333
 msgid "Timber Gorge enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../M19.rst:1335
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -3095,7 +3094,7 @@ msgstr "Tranquil Expanse (Spokojna Przestrzeń)"
 
 #: ../../M19.rst:1339
 msgid "Tranquil Expanse enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../M19.rst:1341
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -3107,7 +3106,7 @@ msgstr "Woodland Stream (Leśny Strumień)"
 
 #: ../../M19.rst:1345
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../M19.rst:1347
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -3325,7 +3324,7 @@ msgid ""
 "graveyard to the battlefield tapped."
 msgstr ""
 "|mana_5|\\ |mana_b|\\ |mana_b|: Przywróć wskazaną kartę stwora z twojego "
-"cmentarza na pole walki, zatapowaną."
+"cmentarza na pole walki, przekręconą."
 
 #: ../../M19.rst:1514
 msgid "Liliana's Spoils"
@@ -3543,11 +3542,11 @@ msgstr "Waterknot"
 
 #: ../../M19.rst:1605
 msgid "When Waterknot enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ta karta wejdzie na pole walki, zatapuj zauroczonego stwora."
+msgstr "Kiedy ta karta wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../M19.rst:1607
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../M19.rst:1612
 msgid "Grasping Scoundrel"
