@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 22:07+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/c13/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/c13/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1391098867.903162\n"
 
 # dd0d92f2f9ef4152b3b14e70292202a7
@@ -92,7 +92,7 @@ msgid ""
 "|mana_1|\\ |mana_g|\\ |mana_u|: Creatures you control gain shroud until end "
 "of turn. (They can't be the targets of spells or abilities.)"
 msgstr ""
-"|mana_1|\\ |mana_g|\\ |mana_u|: Stwory, którymi władasz, zyskują antymagię "
+"|mana_1|\\ |mana_g|\\ |mana_u|: Stwory pod twoim władaniem zyskują antymagię "
 "do końca tury. (Nie mogą być wskazywane przez czary lub zdolności.)"
 
 # aa2bd45771fb453f8a527b5600aa6133
@@ -539,7 +539,7 @@ msgstr ""
 # 11f5655c47d14ce29577d1c253b85201
 #: ../../C13.rst:179
 msgid "Tap an untapped Wizard you control: Draw a card."
-msgstr "Zaznacz niezatapowanego Maga, którym władasz: Dobierz kartę."
+msgstr "Zaznacz odkręconego Maga pod twoim władaniem: Dobierz kartę."
 
 # 9dab0355f6244ec0b90fb5c68a891812
 #: ../../C13.rst:184
@@ -1106,7 +1106,7 @@ msgstr "Army of the Damned (Armia Potępionych)"
 #, fuzzy
 msgid "Create thirteen tapped 2/2 black Zombie creature tokens."
 msgstr ""
-"Umieść na polu walki trzynaście zatapowanych żetonów czarnego stwora Zombi "
+"Umieść na polu walki trzynaście przekręconych żetonów czarnego stwora Zombi "
 "2/2."
 
 # 4dc371cb4d4a420db836abecf46c4361
@@ -2937,7 +2937,7 @@ msgstr ""
 # da4445e2b22e4a49a5fa60e9b757881c
 #: ../../C13.rst:1071
 msgid "Creatures you control have haste."
-msgstr "Stwory, którymi władasz, mają pośpiech."
+msgstr "Stwory pod twoim władaniem mają pośpiech."
 
 # 76efe474c67c4c5b95ca41a521bdfd24
 #: ../../C13.rst:1073
@@ -2970,7 +2970,7 @@ msgstr ""
 #: ../../C13.rst:1087
 #, fuzzy
 msgid "Creatures you control get +2/+0 until end of turn."
-msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
+msgstr "lub stwory pod twoim władaniem dostają +0/+2 do końca tury."
 
 # 7279bb8779224d06866e5cf491013c9e
 #: ../../C13.rst:1098
@@ -3009,8 +3009,9 @@ msgid "Jund Charm"
 msgstr ""
 
 #: ../../C13.rst:1111
+#, fuzzy
 msgid "Exile all cards from target player's graveyard."
-msgstr ""
+msgstr "Wygnaj wskazaną kartę z cmentarza."
 
 # 21e2b9ddc9a74de99faf47af8a203c7b
 #: ../../C13.rst:1113
@@ -3282,8 +3283,9 @@ msgid "Target creature gets +2/+2 and gains trample until end of turn."
 msgstr "Ekwipowany stwór dostaje +2/+2 oraz ma więź życia oraz tratowanie."
 
 #: ../../C13.rst:1215
+#, fuzzy
 msgid "Exile target creature with power 5 or greater."
-msgstr ""
+msgstr "Wygnaj wskazaną kartę z cmentarza."
 
 #: ../../C13.rst:1217
 #, fuzzy
@@ -4271,7 +4273,7 @@ msgstr ""
 # c8d0d61471f440809813fc1df3728890
 #: ../../C13.rst:1587
 msgid "Bojuka Bog enters the battlefield tapped."
-msgstr "Bojuka Bog wchodzi na pole walki zatapowany."
+msgstr "Bojuka Bog wchodzi na pole walki przekręcony."
 
 # 19444b90e96f48deb3c6db4b7b7071d1
 #: ../../C13.rst:1589
@@ -4312,7 +4314,7 @@ msgstr "Boros Guildgate"
 # b99cb41aba1440609c1feeeefd8303b1
 #: ../../C13.rst:1603
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1605
@@ -4363,7 +4365,7 @@ msgstr "Dimir Guildgate"
 # 36015cf7028948e1b39ea723c4d7f56b
 #: ../../C13.rst:1625
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 00967a7f3f76434abfb63c0c69411356
 # 028df60119664d69a7449f0ba8bbee3c
@@ -4417,7 +4419,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 # 84fc79616850413ab61c30f756532bdc
 #: ../../C13.rst:1654
@@ -4447,7 +4449,7 @@ msgstr "Forgotten Cave (Zapomniana Jaskinia)"
 # e8323cc68807405eabd65f2a773173ad
 #: ../../C13.rst:1657
 msgid "Forgotten Cave enters the battlefield tapped."
-msgstr "Zapomniana Jaskinia wchodzi na pole walki zatapowana."
+msgstr "Zapomniana Jaskinia wchodzi na pole walki przekręcona."
 
 #: ../../C13.rst:1659 ../../C13.rst:1913 ../../C13.rst:1965
 msgid "|tap|: Add |mana_r|."
@@ -4467,7 +4469,7 @@ msgstr "Golgari Guildgate"
 # 6677d2dd2cf84049876e0a193dd87f47
 #: ../../C13.rst:1665
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 00967a7f3f76434abfb63c0c69411356
 # 028df60119664d69a7449f0ba8bbee3c
@@ -4583,7 +4585,7 @@ msgstr ""
 # b566610079f8422c86b322e2b5697350
 #: ../../C13.rst:1711
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 00967a7f3f76434abfb63c0c69411356
 # 028df60119664d69a7449f0ba8bbee3c
@@ -4876,7 +4878,7 @@ msgstr "Rupture Spire"
 # d0ff20c5eee54321a9edb80db1072bb9
 #: ../../C13.rst:1839
 msgid "Rupture Spire enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 # 9f788c1ddef14c249015a57c58c5ede7
 #: ../../C13.rst:1841
@@ -4967,7 +4969,7 @@ msgstr ""
 # c3298500fb50411a9355b25047bcff54
 #: ../../C13.rst:1883
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1885
@@ -5101,7 +5103,7 @@ msgstr "Transguild Promenade"
 # 9d5abd4a4a2f45ecaa681c02f40efc6f
 #: ../../C13.rst:1943
 msgid "Transguild Promenade enters the battlefield tapped."
-msgstr "Transguild Promenade wchodzi na pole walki zatapowany."
+msgstr "Transguild Promenade wchodzi na pole walki przekręcony."
 
 # a22dd32cecd14fa3a45100c916cfba49
 #: ../../C13.rst:1945
