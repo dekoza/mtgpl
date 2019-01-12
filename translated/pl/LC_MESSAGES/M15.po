@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 20:52+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/m15/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1419538900.448648\n"
 
 # 2d302d9fc1d24dd69e37a890bf1494aa
@@ -44,8 +44,8 @@ msgid ""
 "−2: Put a +1/+1 counter on each creature you control and a loyalty counter "
 "on each other planeswalker you control."
 msgstr ""
-"−2: Umieść znacznik +1/+1 na każdym stworze, którym władasz oraz znacznik "
-"lojalności na każdym innym Wędrowcu, którym władasz."
+"−2: Umieść znacznik +1/+1 na każdym stworze pod twoim władaniem oraz "
+"znacznik lojalności na każdym innym Wędrowcu pod twoim władaniem."
 
 #: ../../M15.rst:13
 msgid ""
@@ -209,7 +209,7 @@ msgid ""
 "color.)"
 msgstr ""
 "Współpraca (Twoje stwory mogą pomóc rzucić ten czar. Każdy stwór, którego "
-"zatapujesz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
+"przekręcisz podczas rzucania tego czaru płaci za |mana_1| lub jedną manę w "
 "kolorze owego stwora.)"
 
 # 7031ec86bd114230b1485de982183e99
@@ -685,7 +685,7 @@ msgstr ""
 # 998f4a8d44a34309939aba498e92e908
 #: ../../M15.rst:233
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atakowanie nie powoduje tapowania tego stwora.)"
+msgstr "Czujność (Atakowanie nie powoduje przekręcenia tego stwora.)"
 
 # e7fd19fec3b849b5bcf44d315d929465
 #: ../../M15.rst:235
@@ -1229,7 +1229,7 @@ msgid ""
 "its controller's next untap step."
 msgstr ""
 "Ilekroć Wall of Frost blokuje stwora, ów stwór nie odznacza się w następnym "
-"kroku odtapowania władającego nim gracza."
+"kroku odkręcania władającego nim gracza."
 
 # cdebff88df6e4a45960924473d7b32b6
 #: ../../M15.rst:446
@@ -1812,7 +1812,7 @@ msgid ""
 "costs. You can play a land this way only if you have an available land play "
 "remaining.)"
 msgstr ""
-"Wypędź trzy wierzchnie karty twojej biblioteki. Do końca tury możesz "
+"Wygnaj trzy wierzchnie karty twojej biblioteki. Do końca tury możesz "
 "zagrywać karty wypędzone w ten sposób. (Jeśli rzucasz w ten sposób czar, "
 "wciąż musisz opłacić jego koszt. Możesz zagrać ląd w ten sposób, o ile "
 "możesz jeszcze zagrać ląd.)"
@@ -1920,14 +1920,19 @@ msgstr ""
 #: ../../M15.rst:703
 msgid "0: Exile the top card of your library. You may play it this turn."
 msgstr ""
+"0: Wygnaj wierzchnią kartę twojej biblioteki. Możesz ją zagrać w tej turze."
 
 # 94e0ff8ceab445698db142cc2e05ad0d
 #: ../../M15.rst:705
+#, fuzzy
 msgid ""
 "−7: Exile the top ten cards of your library. Choose an instant or sorcery "
 "card exiled this way and copy it three times. You may cast the copies "
 "without paying their mana costs."
 msgstr ""
+"-7: Wygnaj dziesięć wierzchnich kart twojej biblioteki. Wybierz spośród nich "
+"kartę sztuczki lub obrzędu i skopiuj trzykrotnie. Możesz rzucić te kopie bez "
+"płacenia kosztów many."
 
 # 070881f51d664bc0b2213e2698eea6e0
 #: ../../M15.rst:710
@@ -2127,7 +2132,7 @@ msgstr ""
 # dccb11e1df5a4b9ca8e2f04563ef97ab
 #: ../../M15.rst:783
 msgid "Enchant creature you control"
-msgstr "Zaurocz stwora, którym władasz"
+msgstr "Zaurocz stwora pod twoim władaniem"
 
 # c02837f06f9b4f9a85abd17c0f1c1490
 #: ../../M15.rst:785
@@ -2709,6 +2714,9 @@ msgid ""
 "Target creature you control gets +1/+1 and gains hexproof until end of turn. "
 "(It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
+"Wskazany stwór pod twoim władaniem dostaje +1/+1 oraz Antyklątwę do końca "
+"tury. (Nie może być wskazywany przez czary lub zdolności władane przez "
+"twoich przeciwników.)"
 
 # a875c3d987394e83ab782046b508e715
 #: ../../M15.rst:1014
@@ -2746,6 +2754,8 @@ msgid ""
 "At the beginning of your upkeep, return a creature you control to its "
 "owner's hand."
 msgstr ""
+"Na początku twojego utrzymania zwróć stwora pod twoim władaniem do ręki jego "
+"właściciela."
 
 # 3faea02985fa471cac04f003025db102
 #: ../../M15.rst:1024
@@ -3007,6 +3017,8 @@ msgid ""
 "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
+"Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
+"Wyposaż wyłącznie jako obrzęd.)"
 
 # 9210c3a1045c496cb06e22e77fc55df4
 #: ../../M15.rst:1122
@@ -3403,7 +3415,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 # 034eb04fdf3e454ba6a7285199a7e59d
 #: ../../M15.rst:1286
