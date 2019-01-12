@@ -5,16 +5,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 22:07+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/dgm/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1385404179.955608\n"
 
 # d6272cfee66d43c8990c868ddac5ade3
@@ -52,7 +52,7 @@ msgid ""
 "target creature an opponent controls."
 msgstr ""
 "Ilekroć Haazda Snare Squad atakuje, możesz zapłacić |mana_w|. Jeśli to "
-"zrobisz, zatapuj wskazanego stwora władanego przez przeciwnika."
+"zrobisz, przekręć wskazanego stwora władanego przez przeciwnika."
 
 # Lyev są jedną z frakcji wewnątrz Azorius (patrz flavor na Azoriu Cluestone)
 #: ../../DGM.rst:18
@@ -84,7 +84,7 @@ msgstr "Czujność"
 # cd92ab92e7c04f07bd8299de5f4dfd7f
 #: ../../DGM.rst:23
 msgid "Multicolored creatures you control have vigilance."
-msgstr "Wielokolorowe stwory, którymi władasz, mają czujność."
+msgstr "Wielokolorowe stwory pod twoim władaniem mają czujność."
 
 # 6fa11321f7c44666987bd7d680c84724
 #: ../../DGM.rst:28
@@ -186,7 +186,7 @@ msgid ""
 "|mana_u|: Exile Aetherling. Return it to the battlefield under its owner's "
 "control at the beginning of the next end step."
 msgstr ""
-"|mana_u|: Wypędź Ætherlinga. Przywróć go na pole walki pod władaniem jego "
+"|mana_u|: Wygnaj Ætherlinga. Przywróć go na pole walki pod władaniem jego "
 "właściciela na początku najbliższego kroku końcowego."
 
 # 30740520f5b1404ba90f73d0ae2d54f7
@@ -218,8 +218,8 @@ msgid ""
 "You may tap or untap target permanent, then you may tap or untap another "
 "target permanent."
 msgstr ""
-"Możesz zatapować lub odtapować wskazany permanent, a następnie możesz "
-"zatapować lub odtapować inny wskazany permanent."
+"Możesz przekręcić lub odtapować wskazany permanent, a następnie możesz "
+"przekręcić lub odtapować inny wskazany permanent."
 
 # 3576509679dd4ce98f6ef39bd77ab45b
 # 9b655120a3e84d7885705e695d21ddae
@@ -229,9 +229,9 @@ msgid ""
 "control. Whenever that creature deals combat damage to a player, its "
 "controller may cast a copy of the encoded card without paying its mana cost.)"
 msgstr ""
-"Szyfruj (Następnie możesz wypędzić tę kartę kodując ją na stworze, którym "
-"władasz. Ilekroć ów stwór zada graczowi obrażenia bitewne, jego władca może "
-"rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
+"Szyfruj (Następnie możesz wypędzić tę kartę kodując ją na stworze pod twoim "
+"władaniem. Ilekroć ów stwór zada graczowi obrażenia bitewne, jego władca "
+"może rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
 
 # 1c0cec74946b46c58eeed6eef61d2b32
 #: ../../DGM.rst:70
@@ -305,12 +305,12 @@ msgstr "Zaurocz stwora o sile nie większej niż 3"
 # 4a18bb8e348c482697ad7c690b7616f2
 #: ../../DGM.rst:87
 msgid "When Runner's Bane enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ta karta wejdzie na pole walki, zatapuj zauroczonego stwora."
+msgstr "Kiedy ta karta wejdzie na pole walki, przekręć zauroczonego stwora."
 
 # b11b8bdc1868491595ad7792ee959a9b
 #: ../../DGM.rst:89
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 # c591cf62008a4d988f24295db3203a3d
 #: ../../DGM.rst:96
@@ -381,7 +381,7 @@ msgid ""
 "Exile all creature cards from target player's graveyard. You gain 3 life for "
 "each card exiled this way."
 msgstr ""
-"Wypędź wszystkie karty stworów z cmentarza wskazanego gracza. Zyskujesz 3 "
+"Wygnaj wszystkie karty stworów z cmentarza wskazanego gracza. Zyskujesz 3 "
 "życia za każdą kartę stwora wypędzoną w ten sposób."
 
 # 5903d250817b42a4ba775f69306567d6
@@ -426,7 +426,7 @@ msgstr ""
 # 4a1cf7639978489caa80cee0dda606c1
 #: ../../DGM.rst:131
 msgid "Multicolored creatures you control have deathtouch."
-msgstr "Wielokolorowe stwory, którymi władasz, mają dotyk śmierci."
+msgstr "Wielokolorowe stwory pod twoim władaniem mają dotyk śmierci."
 
 # 826d63e55ad34b8b86b9d9e4821afaf1
 #: ../../DGM.rst:138
@@ -536,7 +536,7 @@ msgstr "Pośpiech"
 # 4202afcb4c154329b542e9b8d0845315
 #: ../../DGM.rst:167
 msgid "Multicolored creatures you control have haste."
-msgstr "Wielokolorowe stwory, którymi władasz, mają pośpiech."
+msgstr "Wielokolorowe stwory pod twoim władaniem mają pośpiech."
 
 # a8a3cfed9bfc4771a06e9fdba9798c21
 #: ../../DGM.rst:172
@@ -596,9 +596,9 @@ msgid ""
 "if Pyrewild Shaman is in your graveyard, you may pay |mana_3|. If you do, "
 "return Pyrewild Shaman to your hand."
 msgstr ""
-"Ilekroć jeden lub więcej stworów, którymi władasz, zada graczowi obrażenia "
-"bitewne, jeśli Pyrewild Shaman jest w twoim cmentarzu możesz zapłacić |"
-"mana_3|. Jeśli tak zrobisz, zwróć Pyrewild Shaman do twojej ręki."
+"Ilekroć jeden lub więcej stworów pod twoim władaniem zada graczowi obrażenia "
+"bitewne, jeśli Pyrewild Shaman jest w twoim cmentarzu możesz zapłacić "
+"|mana_3|. Jeśli tak zrobisz, zwróć Pyrewild Shaman do twojej ręki."
 
 # e3aeaa791aea4cdd9878ff8ac5710511
 #: ../../DGM.rst:188
@@ -644,8 +644,8 @@ msgid ""
 msgstr ""
 "Kiedy Smelt-Ward Gatekeepers wchodzi na pole walki, jeśli władasz "
 "przynajmniej dwiema Bramami, przejmij do końca tury władanie nad wskazanym "
-"stworem, którym włada przeciwnik. Odtapuj tego stwora. Zyskuje on pośpiech "
-"do końca tury."
+"stworem, którym włada przeciwnik. Odkręć tego stwora. Zyskuje on pośpiech do "
+"końca tury."
 
 # 785c3162b37148e8ad5a11173d29d57b
 #: ../../DGM.rst:202
@@ -658,7 +658,7 @@ msgid ""
 "Target creature you control gets +1/+0 and gains first strike until end of "
 "turn."
 msgstr ""
-"Wskazany stwór, którym władasz dostaje +1/+0 oraz pierwszy cios do końca "
+"Wskazany stwór pod twoim władaniem dostaje +1/+0 oraz pierwszy cios do końca "
 "tury."
 
 #: ../../DGM.rst:201
@@ -715,7 +715,7 @@ msgstr ""
 # be88fc173ebb4343a3ddd38133aa233f
 #: ../../DGM.rst:217
 msgid "Multicolored creatures you control have trample."
-msgstr "Wielokolorowe stwory, którymi władasz, mają tratowanie."
+msgstr "Wielokolorowe stwory pod twoim władaniem mają tratowanie."
 
 # c0ac0c667e6f454fa998e4d13ce0ffe8
 #: ../../DGM.rst:222
@@ -739,7 +739,7 @@ msgid ""
 "creature an opponent controls. (Each deals damage equal to its power to the "
 "other.)"
 msgstr ""
-"Wskazany stwór, którym władasz, posiadający znacznik +1/+1 bije się ze "
+"Wskazany stwór pod twoim władaniem posiadający znacznik +1/+1 bije się ze "
 "wskazanym stworem władanym przez przeciwnika. (Każdy zadaje drugiemu "
 "obrażenia równe swojej sile.)"
 
@@ -765,7 +765,7 @@ msgid ""
 "you control with a +1/+1 counter on it."
 msgstr ""
 "Ilekroć Renegade Krasis rozwija się, umieść znacznik +1/+1 na każdym innym "
-"stworze, którym władasz posiadającym znacznik +1/+1."
+"stworze pod twoim władaniem posiadającym znacznik +1/+1."
 
 # bdcc16879a6643609464ee01e2a00e7a
 #: ../../DGM.rst:240
@@ -900,7 +900,7 @@ msgid ""
 "Whenever an instant or sorcery spell you control deals damage, create two "
 "1/1 red and white Soldier creature tokens with haste."
 msgstr ""
-"Ilekroć czar sztuczki lub obrzędu, którymi władasz, zada obrażenia, stwórz "
+"Ilekroć czar sztuczki lub obrzędu pod twoim władaniem zada obrażenia, stwórz "
 "dwa żetony czerwono-białego stwora Soldier 1/1 z pośpiechem."
 
 # 1ccf726bc2f1432eab1eedf3c38c8f70
@@ -951,8 +951,8 @@ msgid ""
 "Whenever a creature you control with a +1/+1 counter on it deals combat "
 "damage to a player, you may draw a card."
 msgstr ""
-"Ilekroć stwór, którym władasz, mający znacznik +1/+1 zada graczowi obrażenia "
-"bitewne, możesz dobrać kartę."
+"Ilekroć stwór pod twoim władaniem mający znacznik +1/+1 zada graczowi "
+"obrażenia bitewne, możesz dobrać kartę."
 
 # 039710ac806e47978447e333c03014db
 #: ../../DGM.rst:298
@@ -1065,7 +1065,7 @@ msgid ""
 "target creature you control to its owner's hand."
 msgstr ""
 "Kiedy Deputy of Acquittals wchodzi na pole walki, możesz wrócić innego "
-"stwora, którym władasz, na rękę jego właściciela."
+"stwora pod twoim władaniem na rękę jego właściciela."
 
 # 8c458ec2a32647378a4c6b21d846aa14
 #: ../../DGM.rst:334
@@ -1079,8 +1079,8 @@ msgid ""
 "Until end of turn, target creature you control becomes a blue and red Dragon "
 "with base power and toughness 4/4, loses all abilities, and gains flying."
 msgstr ""
-"Do końca tury, wskazany stwór, którym władasz, staje się niebiesko-czerwonym "
-"Smokiem 4/4, traci wszystkie zdolności i zyskuje latanie."
+"Do końca tury, wskazany stwór pod twoim władaniem staje się niebiesko-"
+"czerwonym Smokiem 4/4, traci wszystkie zdolności i zyskuje latanie."
 
 #: ../../DGM.rst:333
 #, fuzzy
@@ -1135,7 +1135,7 @@ msgstr "Pierwszy cios, pośpiech"
 # 873c425aff9649b4b0cad3769b75716f
 #: ../../DGM.rst:349
 msgid "Each other creature you control with a +1/+1 counter on it has haste."
-msgstr "Każdy inny stwór, którym władasz, ze znacznikiem +1/+1, ma pośpiech."
+msgstr "Każdy inny stwór pod twoim władaniem ze znacznikiem +1/+1, ma pośpiech."
 
 # af157058e4b9415fb9e4af7d2254d1c8
 #: ../../DGM.rst:354
@@ -1182,7 +1182,8 @@ msgstr ""
 # dc72cbefc32b4544b5aa7337f625d920
 #: ../../DGM.rst:367
 msgid "Whenever a creature you control attacks, put a +1/+1 counter on it."
-msgstr "Ilekroć stwór, którym władasz, atakuje, umieść na nim znacznik +1/+1."
+msgstr ""
+"Ilekroć stwór pod twoim władaniem atakuje, umieść na nim znacznik +1/+1."
 
 # ff98f15a2f4d4ed291024444aca243ec
 #: ../../DGM.rst:374
@@ -1205,7 +1206,7 @@ msgstr "Gruul War Chant (Pieśń Wojenna Gruul)"
 # d599b9f68b1142a7a130cbb301965908
 #: ../../DGM.rst:377
 msgid "Attacking creatures you control get +1/+0 and have menace."
-msgstr "Czerwone stwory, którymi władasz, dostają +1/+0 i mają złowrogość."
+msgstr "Czerwone stwory pod twoim władaniem dostają +1/+0 i mają złowrogość."
 
 # 3341b213d3614bf78fa464d759825085
 #: ../../DGM.rst:382
@@ -1252,7 +1253,7 @@ msgid ""
 "|mana_2|, Remove a +1/+1 counter from a creature you control: Target "
 "creature gets -1/-1 until end of turn."
 msgstr ""
-"|mana_2|, Usuń znacznik +1/+1 ze stwora, którym władasz: Wskazany stwór "
+"|mana_2|, Usuń znacznik +1/+1 ze stwora pod twoim władaniem: Wskazany stwór "
 "dostaje -1/-1 do końca tury."
 
 # a7983fe23d604e91a909b6eca626920f
@@ -1310,12 +1311,12 @@ msgstr "Legion's Initiative (Inicjatywa Legionu)"
 # d599b9f68b1142a7a130cbb301965908
 #: ../../DGM.rst:411
 msgid "Red creatures you control get +1/+0."
-msgstr "Czerwone stwory, którymi władasz, dostają +1/+0."
+msgstr "Czerwone stwory pod twoim władaniem dostają +1/+0."
 
 # 82d843363aca413ead32241609f2f3ed
 #: ../../DGM.rst:413
 msgid "White creatures you control get +0/+1."
-msgstr "Białe stwory, którymi władasz, dostają +0/+1."
+msgstr "Białe stwory pod twoim władaniem dostają +0/+1."
 
 # f04c746e29844808bb7e5ba520ba1203
 #: ../../DGM.rst:415
@@ -1326,7 +1327,7 @@ msgid ""
 "battlefield under their owner's control and those creatures gain haste until "
 "end of turn."
 msgstr ""
-"|mana_r|\\ |mana_w|, wypędź Legion's Initiative: Wypędź wszystkie stwory, "
+"|mana_r|\\ |mana_w|, wypędź Legion's Initiative: Wygnaj wszystkie stwory, "
 "którymi władasz. Na początku następnej walki przywróć te karty na pole walki "
 "pod władzą ich właściciela. Stwory te dostają pośpiech do końca tury."
 
@@ -1365,7 +1366,7 @@ msgstr "Maw of the Obzedat (Paszcza Obzedata)"
 #: ../../DGM.rst:427
 msgid ""
 "Sacrifice a creature: Creatures you control get +1/+1 until end of turn."
-msgstr "Poświęć stwora: Stwory, którymi władasz, dostają +1/+1 do końca tury."
+msgstr "Poświęć stwora: Stwory pod twoim władaniem dostają +1/+1 do końca tury."
 
 # 2555adeebba6477197c35d59e134b2a1
 #: ../../DGM.rst:436
@@ -1733,7 +1734,7 @@ msgid ""
 "At the beginning of your upkeep, return a creature you control to its "
 "owner's hand."
 msgstr ""
-"Na początku twojego utrzymania zwróć stwora, którym władasz, do ręki jego "
+"Na początku twojego utrzymania zwróć stwora pod twoim władaniem do ręki jego "
 "właściciela."
 
 # 91b83c2330f64f0abe766aff276766c9
@@ -1841,7 +1842,7 @@ msgid ""
 "target creature. Scavenge only as a sorcery.)"
 msgstr ""
 "Każda karta stwora w twoim cmentarzy ma czystkę. Koszt czystki jest równy "
-"kosztowi many tej karty. (Wypędź kartę stwora z twojego cmentarza i opłać "
+"kosztowi many tej karty. (Wygnaj kartę stwora z twojego cmentarza i opłać "
 "jej koszt many: Umieść na wskazanym stworze tyle znaczników +1/+1, ile "
 "wynosi siła wypędzonej karty. Używaj jedynie jako obrzęd.)"
 
@@ -2030,7 +2031,7 @@ msgstr ""
 # f7404a2c4a454941a8c8288b1c886ae6
 #: ../../DGM.rst:625
 msgid "You gain 2 life for each creature you control."
-msgstr "Zyskujesz 2 życia za każdego stwora, którym władasz."
+msgstr "Zyskujesz 2 życia za każdego stwora pod twoim władaniem."
 
 #: ../../DGM.rst:634
 msgid "Armed"
@@ -2109,7 +2110,7 @@ msgid ""
 "Gain control of target permanent until end of turn. Untap it. It gains haste "
 "until end of turn."
 msgstr ""
-"Przejmij władanie nad wskazanym permanentem do końca tury. Odtapuj go. "
+"Przejmij władanie nad wskazanym permanentem do końca tury. Odkręć go. "
 "Zyskuje on pośpiech do końca tury."
 
 #: ../../DGM.rst:676
@@ -2169,7 +2170,7 @@ msgid ""
 "Exile target creature card from a graveyard. Put X +1/+1 counters on target "
 "creature, where X is the power of the card you exiled."
 msgstr ""
-"Wypędź wskazaną kartę stwora z cmentarza. Umieść X znaczników +1/+1 na "
+"Wygnaj wskazaną kartę stwora z cmentarza. Umieść X znaczników +1/+1 na "
 "wskazanym stworze, gdzie X to siła karty, którą wypędzono."
 
 #: ../../DGM.rst:712
@@ -2182,8 +2183,8 @@ msgstr ""
 msgid ""
 "Target creature you control deals damage equal to its power to any target."
 msgstr ""
-"Wskazany stwór, którym władasz zadaje obrażenia równe swojej sile wskazanemu "
-"stworowi lub graczowi."
+"Wskazany stwór pod twoim władaniem zadaje obrażenia równe swojej sile "
+"wskazanemu stworowi lub graczowi."
 
 #: ../../DGM.rst:718
 msgid "Give"
@@ -2204,7 +2205,7 @@ msgid ""
 "Remove all +1/+1 counters from target creature you control. Draw that many "
 "cards."
 msgstr ""
-"Zdejmij wszystkie znaczniki +1/+1 ze wskazanego stwora, którym władasz. "
+"Zdejmij wszystkie znaczniki +1/+1 ze wskazanego stwora pod twoim władaniem. "
 "Dobierz tyle samo kart."
 
 #: ../../DGM.rst:730
@@ -2253,7 +2254,7 @@ msgid ""
 "Creatures you control gain indestructible until end of turn. Untap each "
 "creature you control."
 msgstr ""
-"Stwory, którymi władasz, zyskują niezniszczalność do końca tury. Odtapuj "
+"Stwory pod twoim władaniem zyskują niezniszczalność do końca tury. Odkręć "
 "wszystkie stwory, którymi władasz."
 
 #: ../../DGM.rst:760
@@ -2264,7 +2265,8 @@ msgstr ""
 #: ../../DGM.rst:757
 msgid "Creatures you control gain deathtouch and lifelink until end of turn."
 msgstr ""
-"Stwory, którymi władasz, dostają do końca tury dotyk śmierci oraz więź życia."
+"Stwory pod twoim władaniem dostają do końca tury dotyk śmierci oraz więź "
+"życia."
 
 #: ../../DGM.rst:766
 msgid "Toil"
@@ -2520,7 +2522,7 @@ msgstr "Boros Guildgate"
 # Ciekawa koncepcja na tłumaczenie "tapped" - wymaga jeszcze pracy, ale podoba mi się koncepcja.
 #: ../../DGM.rst:865
 msgid "Boros Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # c101d66f67f1469b95f590021f50c52a
 #: ../../DGM.rst:874
@@ -2531,7 +2533,7 @@ msgstr "Dimir Guildgate"
 # d93cfb38da1e4c0cbfa29a11e0b1d940
 #: ../../DGM.rst:871
 msgid "Dimir Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # f00fab9fc4344a179920f5db6a9862a3
 #: ../../DGM.rst:880
@@ -2542,7 +2544,7 @@ msgstr "Golgari Guildgate"
 # 8937f0f9805848479a9063ff1bc803ae
 #: ../../DGM.rst:877
 msgid "Golgari Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # ef8d2607b312425eb36b219fa5383779
 #: ../../DGM.rst:886
@@ -2563,7 +2565,7 @@ msgstr ""
 # 4a489b9531c0469fa6d926cd61db27c5
 #: ../../DGM.rst:889
 msgid "Izzet Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 3ebcde26c55940589077da6583fbb719
 #: ../../DGM.rst:900
@@ -2573,7 +2575,7 @@ msgstr "Maze's End (Kres Labiryntu)"
 # 6c33f58348e94deab947cc446a347fc2
 #: ../../DGM.rst:895
 msgid "Maze's End enters the battlefield tapped."
-msgstr "Maze's End wchodzi na pole walki jako zatapowany."
+msgstr "Maze's End wchodzi na pole walki jako przekręcony."
 
 #: ../../DGM.rst:897
 msgid "|tap|: Add |colorless|."
@@ -2619,7 +2621,7 @@ msgstr ""
 # 52e297b443c24c27a8ee8ed6873d40c1
 #: ../../DGM.rst:915
 msgid "Selesnya Guildgate enters the battlefield tapped."
-msgstr "Ten ląd wchodzi na pole walki zatapowany."
+msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 91ce735e0f064b3dbbd5d3181b3756d1
 #: ../../DGM.rst:923
