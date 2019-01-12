@@ -5,16 +5,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 20:52+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/m14/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1385404032.966664\n"
 
 # 34446830b7c949d8b59852b41945ee2c
@@ -190,8 +190,8 @@ msgstr ""
 msgid ""
 "Whenever you gain life, put a +1/+1 counter on each creature you control."
 msgstr ""
-"Ilekroć dostajesz życie, umieść znacznik +1/+1 na każdym stworze, którym "
-"władasz."
+"Ilekroć dostajesz życie, umieść znacznik +1/+1 na każdym stworze pod twoim "
+"władaniem."
 
 # c60ee3c9f563493faaa3ac5346de42aa
 # 0387efbd84044451b346eb1f6a9b9254
@@ -301,7 +301,7 @@ msgid ""
 "Choose a color. White creatures you control gain protection from the chosen "
 "color until end of turn."
 msgstr ""
-"Wybierz kolor. Białe stwory, którymi władasz, dostają ochronę przed "
+"Wybierz kolor. Białe stwory pod twoim władaniem dostają ochronę przed "
 "wskazanym kolorem do końca tury. (Nie mogą być blokowane, wskazywane, "
 "zauroczone, ani nie dostają obrażeń od czegokolwiek w tym kolorze.)"
 
@@ -393,7 +393,7 @@ msgstr ""
 # 264eba5cfc614735a5661f7d28497911
 #: ../../M14.rst:81 ../../M14.rst:117
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atakowanie nie powoduje tapowania tego stwora.)"
+msgstr "Czujność (Atakowanie nie powoduje przekręcenia tego stwora.)"
 
 # 0e07707493094fc78f2d2f5e5bf2228e
 #: ../../M14.rst:88
@@ -459,13 +459,13 @@ msgstr "Wybierz jedno —"
 #: ../../M14.rst:109
 #, fuzzy
 msgid "Creatures you control get +2/+0 until end of turn."
-msgstr "lub stwory, którymi władasz, dostają +0/+2 do końca tury."
+msgstr "lub stwory pod twoim władaniem dostają +0/+2 do końca tury."
 
 # 02e79699304240c6933409fb85acabf0
 #: ../../M14.rst:111
 #, fuzzy
 msgid "Creatures you control get +0/+2 until end of turn."
-msgstr "lub stwory, którymi władasz, dostają +0/+2 do końca tury."
+msgstr "lub stwory pod twoim władaniem dostają +0/+2 do końca tury."
 
 # 5a5d509280e8494eb3bde9270f479263
 #: ../../M14.rst:118
@@ -494,7 +494,7 @@ msgstr ""
 #: ../../M14.rst:125
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
-"Stwory władane przez twoich przeciwników wchodzą na pole walki zatapowane."
+"Stwory władane przez twoich przeciwników wchodzą na pole walki przekręcone."
 
 # e7beabdc96bf4ff1ae8478474f58c816
 # 3ae960dec578492aa913fda276cf538f
@@ -530,7 +530,7 @@ msgid ""
 "Whenever Master of Diversion attacks, tap target creature defending player "
 "controls."
 msgstr ""
-"Ilekroć Master of Diversion atakuje, zatapuj wskazanego stwora władanego "
+"Ilekroć Master of Diversion atakuje, przekręć wskazanego stwora władanego "
 "przez broniącego się gracza."
 
 # 5266d7d936b7426babca5a41ffbd3349
@@ -557,7 +557,7 @@ msgid ""
 "total, creatures you control get +1/+1."
 msgstr ""
 "Tak długo, jak liczba twoich punktów życia jest nie mniejsza od twojej "
-"początkowej liczby punktów życia, stwory, którymi władasz, dostają +1/+1."
+"początkowej liczby punktów życia, stwory pod twoim władaniem dostają +1/+1."
 
 # ad5eaa852d8e4379a10888f5a187809d
 # c42c631e270b4cc0b2a046d82ab7752b
@@ -566,8 +566,8 @@ msgid ""
 "Whenever one or more creatures you control attack, you gain life equal to "
 "the number of attacking creatures."
 msgstr ""
-"Ilekroć co najmniej jeden stwór, którym władasz, atakuje, zyskujesz punkty "
-"życia równe liczbie atakujących stworów."
+"Ilekroć co najmniej jeden stwór pod twoim władaniem atakuje, zyskujesz "
+"punkty życia równe liczbie atakujących stworów."
 
 # e8e7959c4d7e41f4a7bda7992e023f89
 #: ../../M14.rst:152
@@ -611,8 +611,8 @@ msgid ""
 "Sliver creatures you control have vigilance. (Attacking doesn't cause them "
 "to tap.)"
 msgstr ""
-"Drzazgule, którymi władasz, mają czujność. (Atakowanie nie powoduje ich "
-"zatapowania.)"
+"Drzazgule pod twoim władaniem mają czujność. (Atakowanie nie powoduje ich "
+"przekręcenia.)"
 
 # 25d754ae63634564b7775da871c87c6c
 #: ../../M14.rst:170
@@ -699,7 +699,7 @@ msgstr "Steelform Sliver (Drzazgul Twardokształtny)"
 # cbabccd8adc54960841880549703f85e
 #: ../../M14.rst:197
 msgid "Sliver creatures you control get +0/+1."
-msgstr "Drzazgule, którymi władasz, dostają +0/+1."
+msgstr "Drzazgule pod twoim władaniem dostają +0/+1."
 
 # 7a016d05bfb24855881a93ec6f701b8c
 #: ../../M14.rst:202
@@ -716,8 +716,8 @@ msgid ""
 "causes you to gain that much life.)"
 msgstr ""
 "|mana_5|\\ |mana_w|: Stonehorn Chanter zyskuje czujność oraz więź życia do "
-"końca tury. (Atakowanie nie powoduje jego zatapowania. Obrażenia przez niego "
-"zadane powodują, że dostajesz tyle samo życia.)"
+"końca tury. (Atakowanie nie powoduje jego przekręcenia. Obrażenia przez "
+"niego zadane powodują, że dostajesz tyle samo życia.)"
 
 # 723aef121d9f4621881365f12ca0817a
 #: ../../M14.rst:206
@@ -785,13 +785,13 @@ msgstr "Claustrophobia (Klaustrofobia)"
 #: ../../M14.rst:235
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
 msgstr ""
-"Kiedy Klaustrofobia wchodzi na pole walki, zatapuj zauroczonego stwora."
+"Kiedy Klaustrofobia wchodzi na pole walki, przekręć zauroczonego stwora."
 
 # 273d3e688c474787aed564f4fb2b46ee
 # af7de5d6a54c405885b7e8d436477120
 #: ../../M14.rst:237
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 # 85452e1194844afc80792baebe382888
 # f29db3587d33496c8584fec199ebfb3f
@@ -959,7 +959,7 @@ msgid ""
 "controller's next untap step."
 msgstr ""
 "Zaznacz co najwyżej dwa wskazane stwory. Owe stwory nie odznaczą się w "
-"najbliższym kroku odtapowania swojego władcy."
+"najbliższym kroku odkręcania swojego władcy."
 
 # f0aba63229c1498ebbc247dc0ac9e7cf
 # 4eb0bc8ef41b4136ab7d65bae82b1723
@@ -971,7 +971,7 @@ msgstr "Galerider Sliver (Drzazgul Latawiec)"
 # b3c47d4b83d241469e2a6e6131615f2b
 #: ../../M14.rst:289
 msgid "Sliver creatures you control have flying."
-msgstr "Drzazgule, którymi władasz, mają latanie."
+msgstr "Drzazgule pod twoim władaniem mają latanie."
 
 # d0b782073ef84132b8722f6d9c4dae91
 # 0b86768a844e40699191a10aa2694e2f
@@ -1214,9 +1214,9 @@ msgid ""
 "creature an opponent controls. That creature doesn't untap during its "
 "controller's untap step for as long as you control Tidebinder Mage."
 msgstr ""
-"Kiedy Tidebinder Mage wchodzi na pole walki, zatapuj wskazanego czerwonego "
+"Kiedy Tidebinder Mage wchodzi na pole walki, przekręć wskazanego czerwonego "
 "lub zielonego stwora władanego przez przeciwnika. Ów stwór nie odznacza się "
-"podczas kroku odtapowania władającego nim gracza tak długo, jak władasz "
+"podczas kroku odkręcania władającego nim gracza tak długo, jak władasz "
 "Tidebinder Mage."
 
 # c50a1039e5764eb083d27610f3dc3d69
@@ -1257,8 +1257,8 @@ msgid ""
 "Whenever Trained Condor attacks, another target creature you control gains "
 "flying until end of turn."
 msgstr ""
-"Ilekroć Trained Condor atakuje, inny wskazany stwór, którym władasz, dostaje "
-"latanie do końca tury."
+"Ilekroć Trained Condor atakuje, inny wskazany stwór pod twoim władaniem "
+"dostaje latanie do końca tury."
 
 # a3dba083d1e346dfa3888884928330cf
 #: ../../M14.rst:392
@@ -1293,7 +1293,7 @@ msgid ""
 "its controller's next untap step."
 msgstr ""
 "Ilekroć Wall of Frost blokuje stwora, ów stwór nie odznacza się w następnym "
-"kroku odtapowania władającego nim gracza."
+"kroku odkręcania władającego nim gracza."
 
 # d53ddeec039b4fce8b0c30511574813b
 #: ../../M14.rst:404
@@ -1443,7 +1443,7 @@ msgid ""
 "library."
 msgstr ""
 "|mana_2|, |tap|: Wyszukaj w twojej bibliotece kartę Festering Newt lub "
-"Bubbling Cauldron, umieść ją na polu walki zatapowaną, następnie przetasuj "
+"Bubbling Cauldron, umieść ją na polu walki przekręconą, następnie przetasuj "
 "twoją bibliotekę."
 
 # 6789dd42ff7e4b0fb7adfe22d376184b
@@ -1518,7 +1518,7 @@ msgstr "Dark Prophecy (Mroczne Proroctwo)"
 msgid ""
 "Whenever a creature you control dies, you draw a card and you lose 1 life."
 msgstr ""
-"Ilekroć umiera stwór, którym władasz, dobierasz kartę i tracisz 1 życie."
+"Ilekroć umiera stwór pod twoim władaniem dobierasz kartę i tracisz 1 życie."
 
 # 853af9a2d7ca4e848abfde899b4b3416
 # 12c2fc4feabe4bbb847a22df6a61078a
@@ -1681,8 +1681,8 @@ msgid ""
 "−6: You get an emblem with \"Swamps you control have '|tap|: Add |mana_b|\\ |"
 "mana_b|\\ |mana_b|\\ |mana_b|.'\""
 msgstr ""
-"-6: Dostajesz emblemat o treści \"Bagna, którymi władasz, mają '|tap|: Dodaj "
-"|mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b| do swojego zasobnika many.'\""
+"-6: Dostajesz emblemat o treści \"Bagna pod twoim władaniem mają '|tap|: "
+"Dodaj |mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b| do swojego zasobnika many.'\""
 
 # c12a327112f94cb1a43b87521f126798
 #: ../../M14.rst:522
@@ -1702,7 +1702,7 @@ msgid ""
 "discards a card and you create a tapped 2/2 black Zombie creature token."
 msgstr ""
 "Ilekroć Liliana's Reaver zada graczowi obrażenia bitewne, ów gracz odrzuca "
-"kartę, a ty kładziesz na polu walki zatapowany żeton czarnego stwora Zombie "
+"kartę, a ty kładziesz na polu walki przekręcony żeton czarnego stwora Zombie "
 "2/2."
 
 # 5d88ba43c3a2475297a39b93c344e752
@@ -1782,7 +1782,7 @@ msgstr ""
 # 32ec1506faa54b61a3481d03e297fb2c
 #: ../../M14.rst:557
 msgid "Enchanted creature gets -1/-1 for each Swamp you control."
-msgstr "Zauroczony stwór dostaje -1/-1 za każde Bagno, którym władasz."
+msgstr "Zauroczony stwór dostaje -1/-1 za każde Bagno pod twoim władaniem."
 
 # fdaff994585242c88cdcf6ce045c512d
 #: ../../M14.rst:562
@@ -1897,8 +1897,8 @@ msgid ""
 "Sliver creatures you control have lifelink. (Damage dealt by a Sliver "
 "creature you control also causes you to gain that much life.)"
 msgstr ""
-"Drzazgule, którymi władaszm mają więź życia. (Obrażenia zadane Drzazgula, "
-"którym władasz, powodują, że zyskujesz tyle samo życia.)"
+"Drzazgule, którymi władaszm mają więź życia. (Obrażenia zadane Drzazgula pod "
+"twoim władaniem powodują, że zyskujesz tyle samo życia.)"
 
 # 04556201732d4f05aace3e2598170302
 #: ../../M14.rst:598
@@ -1914,7 +1914,7 @@ msgid ""
 "it to the battlefield tapped under its owner's control."
 msgstr ""
 "Kiedy Tenacious Dead umiera, możesz zapłacić |mana_1|\\ |mana_b|. Gdy tak "
-"zrobisz, przywróć go zatapowanego na pole walki pod władaniem jego "
+"zrobisz, przywróć go przekręconego na pole walki pod władaniem jego "
 "właściciela."
 
 # 218fa9d18e23456a819736209d10d45a
@@ -1937,7 +1937,7 @@ msgid ""
 msgstr ""
 "Poświęć innego stwora: Regeneruj Vampire Warlord. (Następnym razem w tej "
 "turze, kiedy ten stwór miałby zostać zniszczony, nie jest. Zamiast tego "
-"zatapuj go, usuń z niego wszystkie obrażenia i usuń go z walki.)"
+"przekręć go, usuń z niego wszystkie obrażenia i usuń go z walki.)"
 
 # ac5a9f62bc694a0cbd8158e884b13ee2
 #: ../../M14.rst:610
@@ -1952,7 +1952,7 @@ msgid ""
 "Exile target creature card from a graveyard. Create a 2/2 black Zombie "
 "creature token."
 msgstr ""
-"Wypędź wskazaną kartę stwora z cmentarza. Umieść na polu walki żeton "
+"Wygnaj wskazaną kartę stwora z cmentarza. Umieść na polu walki żeton "
 "czarnego stwora Zombie 2/2."
 
 # 47977d71117b400f86592133a151d74b
@@ -1979,7 +1979,7 @@ msgid ""
 "create a tapped 2/2 black Zombie creature token."
 msgstr ""
 "Ilekroć Xathrid Necromancer lub inny Human pod twoim władaniem umiera, "
-"stwórz zatapowany żeton czarnego stwora Zombie 2/2."
+"stwórz przekręcony żeton czarnego stwora Zombie 2/2."
 
 # 27daa62eff5a4d59b1f604c116cfc618
 # 2cb38fdeda52486caa6edd91bf35812d
@@ -2010,9 +2010,8 @@ msgid ""
 "Gain control of target creature until end of turn. Untap that creature. It "
 "gains haste until end of turn. (It can attack and |tap| this turn.)"
 msgstr ""
-"Zyskujesz władanie nad wskazanym stworem do końca tury. Odtapuj owego "
-"stwora. Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej "
-"turze.)"
+"Zyskujesz władanie nad wskazanym stworem do końca tury. Odkręć owego stwora. "
+"Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej turze.)"
 
 # 3c14af0e342d40db9aed6562ba1185bb
 #: ../../M14.rst:634
@@ -2125,7 +2124,7 @@ msgstr ""
 #: ../../M14.rst:659
 msgid "0: Exile the top card of your library. You may play it this turn."
 msgstr ""
-"0: Wypędź wierzchnią kartę twojej biblioteki. Możesz ją zagrać w tej turze."
+"0: Wygnaj wierzchnią kartę twojej biblioteki. Możesz ją zagrać w tej turze."
 
 # 4518c409cae5497bb9e7fa1b632230b9
 # a642a5124dbe412b9172860c7f308d82
@@ -2136,7 +2135,7 @@ msgid ""
 "card exiled this way and copy it three times. You may cast the copies "
 "without paying their mana costs."
 msgstr ""
-"-7: Wypędź dziesięć wierzchnich kart twojej biblioteki. Wybierz spośród nich "
+"-7: Wygnaj dziesięć wierzchnich kart twojej biblioteki. Wybierz spośród nich "
 "kartę sztuczki lub obrzędu i skopiuj trzykrotnie. Możesz rzucić te kopie bez "
 "płacenia kosztów many."
 
@@ -2181,7 +2180,7 @@ msgid ""
 "your graveyard to your hand."
 msgstr ""
 "Ilekroć przeciwnik otrzymuje obrażenia od czerwonego czaru sztuczki lub "
-"obrzędu, którym władasz, lub od czerwonego wędrowca, którym władasz, "
+"obrzędu pod twoim władaniem lub od czerwonego wędrowca pod twoim władaniem "
 "przywróć Chandra's Phoenix z twojego cmentarza do twojej ręki."
 
 # 97532f9961724227aa1507972ef0acbc
@@ -2498,7 +2497,7 @@ msgid ""
 "Sliver creatures you control have first strike. (They deal combat damage "
 "before creatures without first strike.)"
 msgstr ""
-"Drzazgule, którymi władasz, mają pierwszy cios. (Zadają obrażenia bitewne "
+"Drzazgule pod twoim władaniem mają pierwszy cios. (Zadają obrażenia bitewne "
 "przed stworami nie posiadającymi pierwszego ciosu.)"
 
 # 15446867461c45f882ec6a49ff1a67d1
@@ -2513,8 +2512,8 @@ msgid ""
 "Sliver creatures you control have \"Whenever this creature attacks, it deals "
 "1 damage to any target.\""
 msgstr ""
-"Slivery, którymi władasz, mają \"Kiedy ten stwór atakuje, zadaje 1 obrażenie "
-"we wskazanego stwora lub gracza.\""
+"Slivery pod twoim władaniem mają \"Kiedy ten stwór atakuje, zadaje 1 "
+"obrażenie we wskazanego stwora lub gracza.\""
 
 # 24e859473d8b4fc692e7ab5a4ff36af1
 #: ../../M14.rst:794
@@ -2821,9 +2820,9 @@ msgid ""
 "assign enough damage to its blockers to destroy them, you may have it assign "
 "the rest of its damage to the player or planeswalker it's attacking.)"
 msgstr ""
-"Drzazgule, którymi władasz, mają Tratowanie. (Jeśli Drzazgul, którym "
-"władasz, miałby zadać dość obrażeń, by zniszczyć blokujące go stwory, możesz "
-"przypisać pozostałe obrażenia w broniącego się gracza lub wędrowca.)"
+"Drzazgule pod twoim władaniem mają Tratowanie. (Jeśli Drzazgul pod twoim "
+"władaniem miałby zadać dość obrażeń, by zniszczyć blokujące go stwory, "
+"możesz przypisać pozostałe obrażenia w broniącego się gracza lub wędrowca.)"
 
 # 90b471ffd7954769a32c78ccc1e44c47
 #: ../../M14.rst:884
@@ -2892,7 +2891,7 @@ msgid ""
 "creature you control."
 msgstr ""
 "Ilekroć Kalonian Hydra atakuje, podwój liczbę znaczników +1/+1 na każdym "
-"stworze, którym władasz."
+"stworze pod twoim władaniem."
 
 # 79e7edc3c9e44483bdc56f934ca62034
 #: ../../M14.rst:902
@@ -2924,8 +2923,8 @@ msgstr "Manaweft Sliver (Drzazgul Manoplot)"
 #, fuzzy
 msgid "Sliver creatures you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
-"Slivery, którymi władasz, mają \"|tap|: Dodaj jedną manę dowolnego koloru do "
-"swojego zasobnika many.\""
+"Slivery pod twoim władaniem mają \"|tap|: Dodaj jedną manę dowolnego koloru "
+"do swojego zasobnika many.\""
 
 # d851174b9328419fa1b797d580aa186d
 # bde423976f534bc2b9fa070edc289f84
@@ -2937,7 +2936,7 @@ msgstr "Megantic Sliver (Megantyczny Drzazgul)"
 # 1bca6c43fe4b4fd28271ddc6ee907641
 #: ../../M14.rst:915
 msgid "Sliver creatures you control get +3/+3."
-msgstr "Drzazgule, którymi władasz, dostają +3/+3."
+msgstr "Drzazgule pod twoim władaniem dostają +3/+3."
 
 # d1bf055c1c4740a082497eeb0b340cc1
 #: ../../M14.rst:920
@@ -2987,7 +2986,7 @@ msgstr "Predatory Sliver (Drapieżny Drzazgul)"
 # f2f453f0c8be479b86cca0c6536ad418
 #: ../../M14.rst:931
 msgid "Sliver creatures you control get +1/+1."
-msgstr "Drzazgule, którymi władasz, dostają +1/+1."
+msgstr "Drzazgule pod twoim władaniem dostają +1/+1."
 
 # 432311cbef6648b5a88dc0a5644ce0b2
 #: ../../M14.rst:940
@@ -3010,7 +3009,7 @@ msgid ""
 "creature you control."
 msgstr ""
 "Ilekroć rzucasz czar nie będący stworem, umieść trzy znaczniki +1/+1 na "
-"wskazanym stworze, którym władasz."
+"wskazanym stworze pod twoim władaniem."
 
 # 147bb9f1e8794277b52b8cdd3856bd50
 # ef59e8a5d5c543b38d9769550daa8f33
@@ -3032,9 +3031,9 @@ msgid ""
 "Target creature you control gets +1/+1 and gains hexproof until end of turn. "
 "(It can't be the target of spells or abilities your opponents control.)"
 msgstr ""
-"Wskazany stwór, którym władasz, dostaje +1/+1 oraz Antyklątwę do końca tury. "
-"(Nie może być wskazywany przez czary lub zdolności władane przez twoich "
-"przeciwników.)"
+"Wskazany stwór pod twoim władaniem dostaje +1/+1 oraz Antyklątwę do końca "
+"tury. (Nie może być wskazywany przez czary lub zdolności władane przez "
+"twoich przeciwników.)"
 
 # 47fc64d7617c4b9abebd2a5db0f56037
 #: ../../M14.rst:948
@@ -3092,7 +3091,7 @@ msgid ""
 "|mana_g|: Exile target card from a graveyard. If it was a creature card, put "
 "a +1/+1 counter on Scavenging Ooze and you gain 1 life."
 msgstr ""
-"|mana_g|: Wypędź wskazaną kartę z cmentarza. Jeśli była to karta stwora, "
+"|mana_g|: Wygnaj wskazaną kartę z cmentarza. Jeśli była to karta stwora, "
 "umieść znacznik +1/+1 na Scavenging Ooze i zyskaj 1 życie."
 
 # c661c4da31694ee18d9f669ce23899ff
@@ -3147,8 +3146,8 @@ msgid ""
 "equal to the number of +1/+1 counters on Vastwood Hydra among any number of "
 "creatures you control."
 msgstr ""
-"Kiedy Vastwood Hydra umiera, możesz rozdzielić pomiędzy stwory, którymi "
-"władasz, tyle znaczników +1/+1, ile znajdowało się na Vastwood Hydrze."
+"Kiedy Vastwood Hydra umiera, możesz rozdzielić pomiędzy stwory pod twoim "
+"władaniem tyle znaczników +1/+1, ile znajdowało się na Vastwood Hydrze."
 
 # 18108f9ec7d9494299a7c63c686463a3
 #: ../../M14.rst:986
@@ -3255,7 +3254,7 @@ msgid ""
 "to tap.)"
 msgstr ""
 "Wyposażony stwór dostaje +0/+3 i ma czujność. (Atak nie powoduje jego "
-"zatapowania.)"
+"przekręcenia.)"
 
 # 9941d999b99c469d9e7f92bab3e2ab3a
 # 17c705b68a2f49ecbe47cbdc5f906141
@@ -3300,9 +3299,9 @@ msgid ""
 "don't destroy them. Artifact creatures with indestructible can't be "
 "destroyed by damage.)"
 msgstr ""
-"Artefakty, którymi władasz, mają Niezniszczalność. (Efekty, które mówią "
-"\"zniszcz\" nie niszczą ich. Artefaktowe stwory z Niezniszczalnością nie "
-"mogą zostać zniszczone przez obrażenia.)"
+"Artefakty pod twoim władaniem mają Niezniszczalność. (Efekty, które mówią \""
+"zniszcz\" nie niszczą ich. Artefaktowe stwory z Niezniszczalnością nie mogą "
+"zostać zniszczone przez obrażenia.)"
 
 # 6ee5305731a743e4bcb2ec920ec5fcf3
 #: ../../M14.rst:1026
@@ -3350,7 +3349,7 @@ msgid ""
 "Creatures you control of the chosen type get +1/+1 for each charge counter "
 "on Door of Destinies."
 msgstr ""
-"Stwory wybranego typu, którymi władasz, dostają +1/+1 za każdy znacznik "
+"Stwory wybranego typu pod twoim władaniem dostają +1/+1 za każdy znacznik "
 "ładowania na Door of Destinies."
 
 # 178ea7bde1d04086b95cee3b42e399b6
@@ -3409,7 +3408,7 @@ msgid ""
 "When a creature attacks you or a planeswalker you control, if Guardian of "
 "the Ages has defender, it loses defender and gains trample."
 msgstr ""
-"Kiedy jakiś stwór atakuje ciebie lub wędrowca, którym władasz, jeśli "
+"Kiedy jakiś stwór atakuje ciebie lub wędrowca pod twoim władaniem jeśli "
 "Guardian of Ages ma obronność, traci obronność i zyskuje tratowanie."
 
 # a6fb7dde5c08430596777aa766342e34
@@ -3443,7 +3442,7 @@ msgid ""
 "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
 msgstr ""
-"Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora, którym władasz. "
+"Wyposaż |mana_4| (|mana_4|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Wyposaż wyłącznie jako obrzęd.)"
 
 # a3d665ddb823415cb964f61e28fd9f58
@@ -3474,8 +3473,8 @@ msgid ""
 "control would deal damage to a permanent or player, it deals that much "
 "damage plus 2 to that permanent or player instead."
 msgstr ""
-"Jeśli czerwony czar sztuczki lub obrzędu, którym władasz, albo wędrowiec, "
-"którym władasz miałby zadać obrażenia permanentowi lub graczowi, zadaje "
+"Jeśli czerwony czar sztuczki lub obrzędu pod twoim władaniem albo wędrowiec "
+"pod twoim władaniem miałby zadać obrażenia permanentowi lub graczowi, zadaje "
 "owemu permanentowi lub graczowi o 2 obrażenia więcej."
 
 # 893821670bbd4783873f3cb994551a72
