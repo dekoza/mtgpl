@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 22:07+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/nph/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/nph/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1391082081.559340\n"
 
 # d0f3a9d48318481798b3d1d601f23bd7
@@ -65,8 +65,8 @@ msgid ""
 "Target artifact or creature you control gains protection from artifacts or "
 "from the color of your choice until end of turn."
 msgstr ""
-"Wskazany artefakt lub stwór, którym władasz zyskuje do końca tury ochronę od "
-"artefaktów lub wybranego przez ciebie koloru."
+"Wskazany artefakt lub stwór pod twoim władaniem zyskuje do końca tury "
+"ochronę od artefaktów lub wybranego przez ciebie koloru."
 
 # b1c86b280e874522aef58989c62ce173
 #: ../../NPH.rst:24
@@ -1428,13 +1428,13 @@ msgstr ""
 # 0bc774a338be411ebc04fa01bceb8109
 #: ../../NPH.rst:591
 msgid "Creatures you control have haste."
-msgstr ""
+msgstr "Stwory pod twoim władaniem mają pośpiech."
 
 # 9797d3dbc84e4716a06a96cb8c615f54
 #: ../../NPH.rst:593
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
-"Stwory władane przez twoich przeciwników wchodzą na pole walki zatapowane."
+"Stwory władane przez twoich przeciwników wchodzą na pole walki przekręcone."
 
 # a11a82f6cac845dfaf171dca8c094fb0
 #: ../../NPH.rst:598
