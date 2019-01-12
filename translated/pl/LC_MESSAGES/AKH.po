@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 22:07+0000\n"
+"PO-Revision-Date: 2019-01-13 00:09+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/akh/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AKH.rst:5
@@ -120,7 +120,7 @@ msgstr ""
 #: ../../AKH.rst:43 ../../AKH.rst:255 ../../AKH.rst:471 ../../AKH.rst:679
 #: ../../AKH.rst:859
 msgid "Enchant creature you control"
-msgstr "Zaurocz stwora, którym władasz"
+msgstr "Zaurocz stwora pod twoim władaniem"
 
 #: ../../AKH.rst:45
 msgid ""
@@ -639,7 +639,7 @@ msgid ""
 "controller's next untap step."
 msgstr ""
 "Zaznacz co najwyżej dwa wskazane stwory. Owe stwory nie odznaczą się w "
-"najbliższym kroku odtapowania swojego władcy."
+"najbliższym kroku odkręcania swojego władcy."
 
 #: ../../AKH.rst:292
 msgid "Drake Haven"
@@ -917,7 +917,7 @@ msgstr ""
 
 #: ../../AKH.rst:419
 msgid "|tap|: Untap another target permanent."
-msgstr "|tap|: Odtapuj inny wskazany permanent."
+msgstr "|tap|: Odkręć inny wskazany permanent."
 
 #: ../../AKH.rst:421
 #, fuzzy
@@ -1346,7 +1346,7 @@ msgid ""
 "dies, return it to the battlefield tapped under its owner's control.\""
 msgstr ""
 "Do końca tury wskazany stwór dostaje +2/+0 oraz zdolność \"Kiedy ten stwór "
-"umrze, przywróć go zatapowanego na pole walki pod władanie jego właściciela."
+"umrze, przywróć go przekręconego na pole walki pod władanie jego właściciela."
 "\""
 
 #: ../../AKH.rst:620
@@ -2102,7 +2102,7 @@ msgid ""
 "library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:966
 msgid "Ornery Kudu"
@@ -2700,7 +2700,7 @@ msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle your library."
 msgstr ""
-"Poszukaj w twojej bibliotece karty bazowego lądu, umieść ją zatapowaną na "
+"Poszukaj w twojej bibliotece karty bazowego lądu, umieść ją przekręconą na "
 "polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:1244
@@ -3047,7 +3047,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:1408
 msgid "Fetid Pools"
@@ -3207,7 +3207,7 @@ msgstr "Stone Quarry (Kamieniołom)"
 
 #: ../../AKH.rst:1557
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1559
 msgid "|tap|: Add |mana_r| or |mana_w|."
@@ -3264,7 +3264,7 @@ msgstr "Foul Orchard"
 
 #: ../../AKH.rst:1583
 msgid "Foul Orchard enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1585
 msgid "|tap|: Add |mana_b| or |mana_g|."
@@ -3276,7 +3276,7 @@ msgstr "Cinder Barrens"
 
 #: ../../AKH.rst:1589
 msgid "Cinder Barrens enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1591
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -3288,7 +3288,7 @@ msgstr "Forsaken Sanctuary"
 
 #: ../../AKH.rst:1595
 msgid "Forsaken Sanctuary enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1597
 msgid "|tap|: Add |mana_w| or |mana_b|."
@@ -3300,7 +3300,7 @@ msgstr "Highland Lake (Górskie Jezioro)"
 
 #: ../../AKH.rst:1601
 msgid "Highland Lake enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1603
 msgid "|tap|: Add |mana_u| or |mana_r|."
@@ -3312,7 +3312,7 @@ msgstr "Meandering River (Meandrująca Rzeka)"
 
 #: ../../AKH.rst:1607
 msgid "Meandering River enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1609
 msgid "|tap|: Add |mana_w| or |mana_u|."
@@ -3324,7 +3324,7 @@ msgstr "Submerged Boneyard (Zatopiony Cmentarz)"
 
 #: ../../AKH.rst:1613
 msgid "Submerged Boneyard enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1615
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -3336,7 +3336,7 @@ msgstr "Timber Gorge"
 
 #: ../../AKH.rst:1619
 msgid "Timber Gorge enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1621
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -3348,7 +3348,7 @@ msgstr "Tranquil Expanse (Spokojna Przestrzeń)"
 
 #: ../../AKH.rst:1625
 msgid "Tranquil Expanse enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1627
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -3360,7 +3360,7 @@ msgstr "Woodland Stream (Leśny Strumień)"
 
 #: ../../AKH.rst:1631
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AKH.rst:1633
 msgid "|tap|: Add |mana_g| or |mana_u|."

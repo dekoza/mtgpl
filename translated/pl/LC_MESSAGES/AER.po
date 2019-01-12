@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 20:52+0000\n"
+"PO-Revision-Date: 2019-01-13 00:07+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/aer/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/aer/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AER.rst:5
@@ -597,7 +597,7 @@ msgid ""
 "step."
 msgstr ""
 "Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
-"odtapowania swojego władcy."
+"odkręcania swojego władcy."
 
 #: ../../AER.rst:272
 msgid "Trophy Mage"
@@ -1747,7 +1747,7 @@ msgid ""
 "Crew 1 (Tap any number of creatures you control with total power 1 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 1 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 1 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 1: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../AER.rst:792
@@ -1785,7 +1785,7 @@ msgid ""
 "Crew 6 (Tap any number of creatures you control with total power 6 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 6 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 6 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 6: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../AER.rst:812
@@ -1828,7 +1828,7 @@ msgid ""
 "Crew 2 (Tap any number of creatures you control with total power 2 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 2 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 2 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 2: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../AER.rst:826
@@ -1875,7 +1875,7 @@ msgid ""
 "Crew 3 (Tap any number of creatures you control with total power 3 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 3 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 3 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 3: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../AER.rst:843
@@ -2077,7 +2077,7 @@ msgid ""
 "|mana_1|\\ |mana_w|: Another target Vehicle you control becomes an artifact "
 "creature until end of turn."
 msgstr ""
-"Załoga 1 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 1 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 1: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../AER.rst:933
@@ -2085,7 +2085,7 @@ msgid ""
 "Crew 4 (Tap any number of creatures you control with total power 4 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 4 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 4 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 4: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../AER.rst:938
@@ -2297,7 +2297,7 @@ msgstr "Tranquil Expanse (Spokojna Przestrzeń)"
 
 #: ../../AER.rst:1029
 msgid "Tranquil Expanse enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AER.rst:1031
 msgid "|tap|: Add |mana_g| or |mana_w|."
@@ -2363,7 +2363,7 @@ msgstr "Submerged Boneyard (Zatopiony Cmentarz)"
 
 #: ../../AER.rst:1057
 msgid "Submerged Boneyard enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../AER.rst:1059
 msgid "|tap|: Add |mana_u| or |mana_b|."

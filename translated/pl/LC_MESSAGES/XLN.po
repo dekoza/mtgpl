@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 22:07+0000\n"
+"PO-Revision-Date: 2019-01-13 00:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/xln/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: ../../XLN.rst:5
 msgid "Ixalan"
@@ -259,7 +259,7 @@ msgstr "Kinjalli's Sunwing"
 #: ../../XLN.rst:105
 msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
-"Stwory władane przez twoich przeciwników wchodzą na pole walki zatapowane."
+"Stwory władane przez twoich przeciwników wchodzą na pole walki przekręcone."
 
 #: ../../XLN.rst:110
 msgid "Legion Conquistador"
@@ -409,7 +409,7 @@ msgstr "Rallying Roar"
 
 #: ../../XLN.rst:165
 msgid "Creatures you control get +1/+1 until end of turn. Untap them."
-msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury. Odtapuj je."
+msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury. Odkręć je."
 
 #: ../../XLN.rst:168
 msgid "Raptor Companion"
@@ -445,9 +445,9 @@ msgid ""
 "their library for that many basic land cards, put those cards onto the "
 "battlefield tapped, then shuffle their library."
 msgstr ""
-"Wypędź wszystkie atakujące stwory władane przez wskazanego gracza. Ów gracz "
+"Wygnaj wszystkie atakujące stwory władane przez wskazanego gracza. Ów gracz "
 "może poszukać w swojej bibliotece tyle samo kart bazowych lądów i umieścić "
-"je zatapowane na polu walki, a następnie przetasować swoją bibliotekę."
+"je przekręcone na polu walki, a następnie przetasować swoją bibliotekę."
 
 #: ../../XLN.rst:188
 msgid "Sheltering Light"
@@ -516,7 +516,7 @@ msgid ""
 "Whenever Territorial Hammerskull attacks, tap target creature an opponent "
 "controls."
 msgstr ""
-"Ilekroć ten stwór atakuje, zatapuj wskazanego stwora pod władaniem "
+"Ilekroć ten stwór atakuje, przekręć wskazanego stwora pod władaniem "
 "przeciwnika."
 
 #: ../../XLN.rst:220
@@ -689,7 +689,7 @@ msgid ""
 "When Dreamcaller Siren enters the battlefield, if you control another "
 "Pirate, tap up to two target nonland permanents."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, jeśli władasz innym Piratem, zatapuj "
+"Kiedy ta karta wejdzie na pole walki, jeśli władasz innym Piratem, przekręć "
 "co najwyżej dwa wskazane nie-lądowe permanenty."
 
 #: ../../XLN.rst:282
@@ -1103,8 +1103,8 @@ msgid ""
 "When Tempest Caller enters the battlefield, tap all creatures target "
 "opponent controls."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki, zatapuj wszystkie stwory pod władaniem "
-"wskazanego przeciwnika."
+"Kiedy ta karta wejdzie na pole walki, przekręć wszystkie stwory pod "
+"władaniem wskazanego przeciwnika."
 
 #: ../../XLN.rst:440
 msgid "Watertrap Weaver"
@@ -1116,9 +1116,9 @@ msgid ""
 "opponent controls. That creature doesn't untap during its controller's next "
 "untap step."
 msgstr ""
-"Kiedy ta karta wchodzi na pole walki, zatapuj wskazanego stwora pod "
-"władaniem przeciwnika. Ów stwór nie odtapowuje się podczas najbliższego "
-"kroku odtapowania jego władcy."
+"Kiedy ta karta wchodzi na pole walki, przekręć wskazanego stwora pod "
+"władaniem przeciwnika. Ów stwór nie odkręca się podczas najbliższego kroku "
+"odkręcania jego władcy."
 
 #: ../../XLN.rst:446
 msgid "Wind Strider"
@@ -1281,7 +1281,7 @@ msgid ""
 "Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter "
 "on this creature, then put the card back or put it into your graveyard.)"
 msgstr ""
-"|mana_1|\\ |mana_b|, |tap|: Wypędź dwie wskazane karty z cmentarza "
+"|mana_1|\\ |mana_b|, |tap|: Wygnaj dwie wskazane karty z cmentarza "
 "przeciwnika. Ten stwór eksploruje. (Ujawnij wierzchnią kartę twojej "
 "biblioteki. Dołóż ową kartę do twojej ręki jeśli to ląd. W przeciwnym razie "
 "umieść znacznik +1/+1 na tym stworze, a następnie odłóż ową kartę lub umieść "
@@ -1296,7 +1296,7 @@ msgid ""
 "Tap three untapped Vampires you control: Return Deathless Ancient from your "
 "graveyard to your hand."
 msgstr ""
-"Zatapuj trzy odtapowane Wampiry pod twoim władaniem: Przywróć tę kartę z "
+"Przekręć trzy odkręcone Wampiry pod twoim władaniem: Przywróć tę kartę z "
 "twojego cmentarza do twojej ręki."
 
 #: ../../XLN.rst:516
@@ -1778,7 +1778,7 @@ msgid ""
 "Activate this ability only any time you could cast a sorcery."
 msgstr ""
 "|mana_3|\\ |mana_r|: Zyskujesz władanie nad wskazanym stworem do końca tury. "
-"Odtapuj owego stwora. Zyskuje on pośpiech do końca tury. Aktywuj tę zdolność "
+"Odkręć owego stwora. Zyskuje on pośpiech do końca tury. Aktywuj tę zdolność "
 "tylko wtedy, gdy możesz rzucić obrzęd."
 
 #: ../../XLN.rst:696
@@ -1889,7 +1889,7 @@ msgid ""
 "gains haste until end of turn."
 msgstr ""
 "Zyskujesz władaniem nad wskazanym artefaktem lub stworem do końca tury. "
-"Odtapuj go. Zyskuje on pośpiech do końca tury."
+"Odkręć go. Zyskuje on pośpiech do końca tury."
 
 #: ../../XLN.rst:746
 msgid "Lightning Strike"
@@ -1909,7 +1909,7 @@ msgstr "|tap|: Ta karta zadaje 1 obrażenie każdemu przeciwnikowi."
 
 #: ../../XLN.rst:751
 msgid "Whenever you cast a Pirate spell, untap Lightning-Rig Crew."
-msgstr "Ilekroć rzucasz czar Pirata, odtapuj tę kartę."
+msgstr "Ilekroć rzucasz czar Pirata, odkręć tę kartę."
 
 #: ../../XLN.rst:756
 msgid "Makeshift Munitions"
@@ -2274,7 +2274,7 @@ msgstr "Blossom Dryad"
 
 #: ../../XLN.rst:895
 msgid "|tap|: Untap target land."
-msgstr "|tap|: Odtapuj wskazany ląd."
+msgstr "|tap|: Odkręć wskazany ląd."
 
 #: ../../XLN.rst:902
 msgid "Carnage Tyrant"
@@ -2567,7 +2567,7 @@ msgid ""
 "then shuffle their library."
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, każdy przeciwnik może poszukać w "
-"swojej bibliotece kartę bazowego lądu, położyć ją na polu walki zatapowaną, "
+"swojej bibliotece kartę bazowego lądu, położyć ją na polu walki przekręconą, "
 "następnie przetasować swoją bibliotekę."
 
 #: ../../XLN.rst:1008
@@ -2593,7 +2593,7 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "Rozjuszenie — Ilekroć ten stwór otrzymuje obrażenia, możesz poszukać w "
-"twojej bibliotece kartę bazowego lądu, położyć ją zatapowaną na polu walki, "
+"twojej bibliotece kartę bazowego lądu, położyć ją przekręconą na polu walki, "
 "a następnie przetasować twoją bibliotekę."
 
 #: ../../XLN.rst:1016
@@ -3066,7 +3066,7 @@ msgid ""
 "Crew 4 (Tap any number of creatures you control with total power 4 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 4 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 4 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 4: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../XLN.rst:1196
@@ -3144,7 +3144,7 @@ msgid ""
 "Crew 2 (Tap any number of creatures you control with total power 2 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 2 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 2 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 2: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../XLN.rst:1226
@@ -3153,7 +3153,7 @@ msgstr "Elaborate Firecannon (Wyszukana Ognioplujka)"
 
 #: ../../XLN.rst:1221
 msgid "Elaborate Firecannon doesn't untap during your untap step."
-msgstr "Ta karta nie odtapowuje się w twoim kroku odtapowania."
+msgstr "Ta karta nie odkręca się w twoim kroku odkręcania."
 
 #: ../../XLN.rst:1223
 msgid "|mana_4|, |tap|: Elaborate Firecannon deals 2 damage to any target."
@@ -3165,7 +3165,7 @@ msgid ""
 "Elaborate Firecannon."
 msgstr ""
 "Na początku twojego kroku utrzymania możesz odrzucić kartę. Jeśli to "
-"zrobisz, odtapuj tę kartę."
+"zrobisz, odkręć tę kartę."
 
 #: ../../XLN.rst:1234
 msgid "Fell Flagship"
@@ -3187,7 +3187,7 @@ msgid ""
 "Crew 3 (Tap any number of creatures you control with total power 3 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 3 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 3 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 3: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../XLN.rst:1236
@@ -3334,7 +3334,7 @@ msgid ""
 "Crew 1 (Tap any number of creatures you control with total power 1 or more: "
 "This Vehicle becomes an artifact creature until end of turn.)"
 msgstr ""
-"Załoga 1 (Zatapuj dowolną liczbę stworów pod twoim władaniem o łącznej sile "
+"Załoga 1 (Przekręć dowolną liczbę stworów pod twoim władaniem o łącznej sile "
 "co najmniej 1: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../XLN.rst:1300
@@ -3390,8 +3390,8 @@ msgid ""
 "|tap|: Untap target attacking creature an opponent controls and remove it "
 "from combat."
 msgstr ""
-"|tap|: Odtapuj wskazanego atakującego stwora pod władaniem przeciwnika i "
-"usuń go z walki."
+"|tap|: Odkręć wskazanego atakującego stwora pod władaniem przeciwnika i usuń "
+"go z walki."
 
 #: ../../XLN.rst:1318
 msgid "Treasure Map"
@@ -3447,7 +3447,7 @@ msgid ""
 "Dragonskull Summit enters the battlefield tapped unless you control a Swamp "
 "or a Mountain."
 msgstr ""
-"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Bagnem lub Górą."
+"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Bagnem lub Górą."
 
 #: ../../XLN.rst:1339
 msgid "|tap|: Add |mana_b| or |mana_r|."
@@ -3462,7 +3462,8 @@ msgid ""
 "Drowned Catacomb enters the battlefield tapped unless you control an Island "
 "or a Swamp."
 msgstr ""
-"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Wyspą lub Bagnem."
+"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Wyspą lub "
+"Bagnem."
 
 #: ../../XLN.rst:1345
 msgid "|tap|: Add |mana_u| or |mana_b|."
@@ -3491,7 +3492,7 @@ msgid ""
 "Glacial Fortress enters the battlefield tapped unless you control a Plains "
 "or an Island."
 msgstr ""
-"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Równiną lub "
+"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Równiną lub "
 "Wyspą."
 
 #: ../../XLN.rst:1357
@@ -3507,7 +3508,7 @@ msgid ""
 "Rootbound Crag enters the battlefield tapped unless you control a Mountain "
 "or a Forest."
 msgstr ""
-"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Górą lub Lasem."
+"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Górą lub Lasem."
 
 #: ../../XLN.rst:1363
 msgid "|tap|: Add |mana_r| or |mana_g|."
@@ -3522,7 +3523,7 @@ msgid ""
 "Sunpetal Grove enters the battlefield tapped unless you control a Forest or "
 "a Plains."
 msgstr ""
-"Ta karta wchodzi na pole walki zatapowana, chyba że władasz Lasem lub "
+"Ta karta wchodzi na pole walki przekręcona, chyba że władasz Lasem lub "
 "Równiną."
 
 #: ../../XLN.rst:1369
@@ -3575,7 +3576,7 @@ msgstr "+1: Dobierz kartę."
 
 #: ../../XLN.rst:1469
 msgid "+1: Untap all creatures you control."
-msgstr "+1: Odtapuj wszystkie stwory pod twoim władaniem."
+msgstr "+1: Odkręć wszystkie stwory pod twoim władaniem."
 
 #: ../../XLN.rst:1471
 msgid "−9: Gain control of up to three target creatures."
@@ -3587,11 +3588,11 @@ msgstr "Castaway's Despair"
 
 #: ../../XLN.rst:1477
 msgid "When Castaway's Despair enters the battlefield, tap enchanted creature."
-msgstr "Kiedy ta karta wejdzie na pole walki, zatapuj zauroczonego stwora."
+msgstr "Kiedy ta karta wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../XLN.rst:1479
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../XLN.rst:1486
 msgid "Grasping Current"
@@ -3629,7 +3630,7 @@ msgstr "Woodland Stream (Leśny Strumień)"
 
 #: ../../XLN.rst:1493
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../XLN.rst:1495
 msgid "|tap|: Add |mana_g| or |mana_u|."
@@ -3663,7 +3664,7 @@ msgstr "Huatli's Snubhorn"
 
 #: ../../XLN.rst:1507
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
-msgstr "Czujność (Atakowanie nie powoduje tapowania tego stwora.)"
+msgstr "Czujność (Atakowanie nie powoduje przekręcenia tego stwora.)"
 
 #: ../../XLN.rst:1512
 msgid "Huatli's Spurring"
@@ -3698,7 +3699,7 @@ msgstr "Stone Quarry (Kamieniołom)"
 
 #: ../../XLN.rst:1519
 msgid "Stone Quarry enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zatapowana."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../XLN.rst:1521
 msgid "|tap|: Add |mana_r| or |mana_w|."

@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 22:07+0000\n"
+"PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/bfz/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/bfz/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 #: ../../BFZ.rst:5
 msgid "Battle for Zendikar"
@@ -561,7 +561,7 @@ msgstr ""
 
 #: ../../BFZ.rst:239
 msgid "Destroy target tapped creature."
-msgstr "Zniszcz wskazanego zatapowanego stwora."
+msgstr "Zniszcz wskazanego przekręconego stwora."
 
 #: ../../BFZ.rst:241
 msgid ""
@@ -989,7 +989,7 @@ msgid ""
 "step."
 msgstr ""
 "Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
-"odtapowania swojego władcy."
+"odkręcania swojego władcy."
 
 #: ../../BFZ.rst:458
 msgid "Scatter to the Winds"
@@ -1868,7 +1868,7 @@ msgid ""
 "Eldrazi card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../BFZ.rst:924
 msgid "Unnatural Aggression"
@@ -1997,7 +1997,7 @@ msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle your library."
 msgstr ""
-"Poszukaj w twojej bibliotece karty bazowego lądu, umieść ją zatapowaną na "
+"Poszukaj w twojej bibliotece karty bazowego lądu, umieść ją przekręconą na "
 "polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../BFZ.rst:982
@@ -2645,7 +2645,7 @@ msgid ""
 "shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../BFZ.rst:1294
 msgid "Canopy Vista"
@@ -2685,7 +2685,7 @@ msgid ""
 "put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
-"umieść ją zatapowaną na polu walki, następnie przetasuj twoją bibliotekę."
+"umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../BFZ.rst:1312
 msgid "Fertile Thicket"

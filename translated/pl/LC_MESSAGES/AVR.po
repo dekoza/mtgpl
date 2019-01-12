@@ -7,16 +7,16 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-06 20:52+0000\n"
+"PO-Revision-Date: 2019-01-13 00:09+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
-"Language-Team: Polish <http://example.com/projects/mtg_pl/avr/pl/>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/avr/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AVR.rst:5
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../AVR.rst:17
 msgid "Other nonblack creatures you control get +1/+1."
-msgstr "Inne nieczarne stwory, którymi władasz, dostają +1/+1."
+msgstr "Inne nieczarne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../AVR.rst:19
 msgid ""
@@ -89,7 +89,7 @@ msgstr "Latanie, czujność, niezniszczalność"
 
 #: ../../AVR.rst:39
 msgid "Other permanents you control have indestructible."
-msgstr "Inne permanenty, którymi władasz, mają niezniszczalność."
+msgstr "Inne permanenty pod twoim władaniem mają niezniszczalność."
 
 #: ../../AVR.rst:46
 msgid "Banishing Stroke"
@@ -113,7 +113,7 @@ msgstr ""
 
 #: ../../AVR.rst:49
 msgid "Untapped creatures you control get +0/+2."
-msgstr "Niezatapowane stwory, którymi władasz, dostają +0/+2."
+msgstr "Odkręcone stwory pod twoim władaniem dostają +0/+2."
 
 #: ../../AVR.rst:56
 msgid "Call to Serve"
@@ -138,8 +138,8 @@ msgid ""
 "Whenever a creature enters the battlefield under your control, put a +1/+1 "
 "counter on each creature you control."
 msgstr ""
-"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, umieść znacznik +1/"
-"+1 na każdym stworze, którym władasz."
+"Ilekroć stwór wchodzi na pole walki pod twoim władaniem, umieść znacznik +1/+"
+"1 na każdym stworze pod twoim władaniem."
 
 #: ../../AVR.rst:64
 msgid "Cathedral Sanctifier"
@@ -528,7 +528,7 @@ msgstr ""
 #, fuzzy
 msgid "|mana_1|\\ |mana_u|, |tap|: You may tap or untap target permanent."
 msgstr ""
-"|mana_1|\\ |mana_u|, |tap|: Możesz zatapować lub odtapować wskazany "
+"|mana_1|\\ |mana_u|, |tap|: Możesz przekręcić lub odtapować wskazany "
 "permanent."
 
 #: ../../AVR.rst:244
@@ -541,7 +541,7 @@ msgid ""
 "step."
 msgstr ""
 "Zaznacz wskazanego stwora. Nie odznacza się on podczas najbliższego kroku "
-"odtapowania swojego władcy."
+"odkręcania swojego władcy."
 
 #: ../../AVR.rst:243 ../../AVR.rst:281
 msgid "Draw a card."
@@ -840,7 +840,7 @@ msgstr ""
 
 #: ../../AVR.rst:389
 msgid "Enchanted creature doesn't untap during its controller's untap step."
-msgstr "Zauroczony stwór nie odtapowuje się w kroku odtapowania jego władcy."
+msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../AVR.rst:391
 msgid ""
@@ -1385,7 +1385,7 @@ msgstr "Banners Raised (Chorągwie Wzwyż)"
 
 #: ../../AVR.rst:649
 msgid "Creatures you control get +1/+0 until end of turn."
-msgstr "Stwory, którymi władasz, dostają do końca tury +1/+0."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +1/+0."
 
 #: ../../AVR.rst:654
 msgid "Battle Hymn"
@@ -1421,8 +1421,8 @@ msgid ""
 "As an additional cost to cast this spell, tap any number of untapped "
 "creatures you control."
 msgstr ""
-"Jako dodatkowy koszt rzucenia Płoń na Stosie, zatapuj dowolną liczbę "
-"niezatapowanych stworów, którymi władasz."
+"Jako dodatkowy koszt rzucenia Płoń na Stosie, przekręć dowolną liczbę "
+"nieprzekręconych stworów, którymi władasz."
 
 #: ../../AVR.rst:665
 #, fuzzy
@@ -1431,7 +1431,7 @@ msgid ""
 "of creatures tapped this way."
 msgstr ""
 "Płoń na Stosie zadaje wskazanemu stworowi lub graczowi trzy razy więcej "
-"obrażeń niż liczba stworów zatapowanych w ten sposób."
+"obrażeń niż liczba stworów przekręconych w ten sposób."
 
 #: ../../AVR.rst:670
 msgid "Dangerous Wager"
