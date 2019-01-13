@@ -6,6 +6,10 @@ Spis zmian
 2019-01-13
     Wystawienie seriwsu dla tłumaczy: `https://weblate.mtgpopolsku.pl`
 
+    Aktywacja SSL w całym serwisie, wyłączenie możliwości przeglądania serwisu bez HTTPS.
+
+    Ustalenie ostatecznej wersji tlumaczenia słów 'tap/untap'.
+
 2019-01-06
     Dodane tłumaczenia przyszłych kart z Ravnica Allegiance (dzięki API Scryfall.com)
 
