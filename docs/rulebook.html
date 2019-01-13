@@ -6,7 +6,7 @@
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Magic the Gathering - Podręcznik podstaw gry &#8212; MTG-pl 2019.1.6 - dokumentacja</title>
+    <title>Magic the Gathering - Podręcznik podstaw gry &#8212; MTG-pl 2019.1.13 - dokumentacja</title>
     <link rel="stylesheet" href="_static/classic.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     
@@ -19,12 +19,26 @@
     <link rel="index" title="Indeks" href="genindex.html" />
     <link rel="search" title="Szukaj" href="search.html" />
     <link rel="next" title="Game Variants" href="game_variants.html" />
-    <link rel="prev" title="Journey into Nyx (Podróż do Nyx)" href="JOU.html" />
+    <link rel="prev" title="Walka z Hordą!" href="BNG_horde.html" />
 <script type="text/javascript" src="_static/prototype.js"></script>
 <script type="text/javascript" src="_static/prototip.js"></script>
 <script type="text/javascript" src="_static/wizards_1.js"></script>
 <link href="_static/prototip.css" type="text/css" rel="stylesheet">
 <link href="_static/mtg_styles.css" type="text/css" rel="stylesheet">
+<link href="//cdn.jsdelivr.net/npm/keyrune@latest/css/keyrune.min.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+  @font-face {
+    font-family: 'Keyrune';
+    src: url('//cdn.jsdelivr.net/npm/keyrune@latest/fonts/keyrune.eot');
+    src: url('//cdn.jsdelivr.net/npm/keyrune@latest/fonts/keyrune.eot?#iefix') format('embedded-opentype'),
+         url('//cdn.jsdelivr.net/npm/keyrune@latest/fonts/keyrune.woff2') format('woff2'),
+         url('//cdn.jsdelivr.net/npm/keyrune@latest/fonts/keyrune.woff') format('woff'),
+         url('//cdn.jsdelivr.net/npm/keyrune@latest/fonts/keyrune.ttf') format('truetype'),
+         url('//cdn.jsdelivr.net/npm/keyrune@latest/fonts/keyrune.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+</style>
 
 
   </head><body>
@@ -38,9 +52,9 @@
           <a href="game_variants.html" title="Game Variants"
              accesskey="N">dalej</a> |</li>
         <li class="right" >
-          <a href="JOU.html" title="Journey into Nyx (Podróż do Nyx)"
+          <a href="BNG_horde.html" title="Walka z Hordą!"
              accesskey="P">wstecz</a> |</li>
-        <li class="nav-item nav-item-0"><a href="index.html">MTG-pl 2019.1.6 - dokumentacja</a> &#187;</li> 
+        <li class="nav-item nav-item-0"><a href="index.html">MTG-pl 2019.1.13 - dokumentacja</a> &#187;</li> 
       </ul>
     </div>  
 
@@ -122,7 +136,7 @@
 </div>
 <div class="line-block">
 <div class="line"><strong>Zdolności aktywowane</strong></div>
-<div class="line">Zdolność aktywowana to zdolność, której można użyć w dowolnym momencie (zupełnie jak rzucenie sztuczki), o ile opłaci się jej koszt. Każda tego typu zdolność ma ten sam format: „Koszt: Efekt”. Przykładowo: Inspired Sphinx jest stworem ze zdolnością aktywowaną „<img alt="{3}" src="_images/mana_3.png" /><img alt="{U}" src="_images/mana_u.png" />: Stwórz żeton bezkolorowego artefaktycznego stwora Thopter 1/1 z lataniem.” Niektóre aktywowane zdolności zawierają w swoim koszcie symbol <img alt="{T}" src="_images/tap.png" /> (<a class="reference internal" href="#actions-tapping-untappings"><span class="std std-ref">tapnięcie</span></a>); oznacza to, że musisz <a class="reference internal" href="#actions-tapping-untappings"><span class="std std-ref">tapnąć</span></a> ową kartę, by aktywować jej zdolność. Nie możesz aktywować tego typu zdolności jeśli <a class="reference internal" href="glossary.html#term-permanent"><span class="xref std std-term">permanent</span></a> jest już zatapowany albo jeśli stwór ma <a class="reference internal" href="glossary.html#term-summoning-sickness"><span class="xref std std-term">chorobę przywołania</span></a>.</div>
+<div class="line">Zdolność aktywowana to zdolność, której można użyć w dowolnym momencie (zupełnie jak rzucenie sztuczki), o ile opłaci się jej koszt. Każda tego typu zdolność ma ten sam format: „Koszt: Efekt”. Przykładowo: Inspired Sphinx jest stworem ze zdolnością aktywowaną „<img alt="{3}" src="_images/mana_3.png" /><img alt="{U}" src="_images/mana_u.png" />: Stwórz żeton bezkolorowego artefaktycznego stwora Thopter 1/1 z lataniem.” Niektóre aktywowane zdolności zawierają w swoim koszcie symbol <img alt="{T}" src="_images/tap.png" /> (<a class="reference internal" href="#actions-tapping-untappings"><span class="std std-ref">przekręcenie</span></a>); oznacza to, że musisz <a class="reference internal" href="#actions-tapping-untappings"><span class="std std-ref">przekręcić</span></a> ową kartę, by aktywować jej zdolność. Nie możesz aktywować tego typu zdolności jeśli <a class="reference internal" href="glossary.html#term-permanent"><span class="xref std std-term">permanent</span></a> jest już przekręcony albo jeśli stwór ma <span class="xref std std-term">chorobę przywołania</span>.</div>
 </div>
 </div>
 <div class="section" id="power-toughness">
@@ -163,14 +177,14 @@
 </div>
 <div class="section" id="game-actions">
 <span id="sec-game-actions"></span><h2>Akcje w grze<a class="headerlink" href="#game-actions" title="Stały odnośnik do tego nagłówka">¶</a></h2>
-<p>Ta sekcja opisuje akcje, które można wykonać podczas gry - tapowanie kart, rzucanie czarów oraz atakowanie i blokowanie stworami w walce.</p>
+<p>Ta sekcja opisuje akcje, które można wykonać podczas gry - przekręcanie kart, rzucanie czarów oraz atakowanie i blokowanie stworami w walce.</p>
 <div class="section" id="tapping-and-untapping">
-<span id="actions-tapping-untappings"></span><h3>Tapowanie i odtapowywanie<a class="headerlink" href="#tapping-and-untapping" title="Stały odnośnik do tego nagłówka">¶</a></h3>
-<p>Aby zatapować (zaznaczyć) kartę należy obrócić ją prostopadle, by zaznaczyć, że ta karta już została użyta w danej turze. Robisz to używając lądów do uzyskania many, czy atakując stworem albo używając zdolności posiadającej symbol <img alt="{T}" src="_images/tap.png" /> w jej koszcie (<img alt="{T}" src="_images/tap.png" /> oznacza „tapnij ten <a class="reference internal" href="glossary.html#term-permanent"><span class="xref std std-term">permanent</span></a>”). Kiedy permanent jest zatapowany, nie możesz go tapnąć ponownie dopóki nie zostanie odtapowany (ponownie odwrócony pionowo). Z początkiem twojej tury odtapowujesz swoje zatapowane karty, by móc ich użyć ponownie.</p>
+<span id="actions-tapping-untappings"></span><h3>Przekręcanie i odkręcanie<a class="headerlink" href="#tapping-and-untapping" title="Stały odnośnik do tego nagłówka">¶</a></h3>
+<p>Aby przekręcić (zaznaczyć) kartę należy obrócić ją prostopadle, by zaznaczyć, że ta karta już została użyta w danej turze. Robisz to używając lądów do uzyskania many, czy atakując stworem albo używając zdolności posiadającej symbol <img alt="{T}" src="_images/tap.png" /> w jej koszcie (<img alt="{T}" src="_images/tap.png" /> oznacza „przekręć ten <a class="reference internal" href="glossary.html#term-permanent"><span class="xref std std-term">permanent</span></a>”). Kiedy permanent jest przekręcony, nie możesz go przekręcić ponownie dopóki nie zostanie odkręcony (ponownie odwrócony pionowo). Z początkiem twojej tury odkręcasz swoje przekręcone karty, by móc ich użyć ponownie.</p>
 </div>
 <div class="section" id="casting-spells">
 <span id="actions-casting-spells"></span><h3>Rzucanie czarów<a class="headerlink" href="#casting-spells" title="Stały odnośnik do tego nagłówka">¶</a></h3>
-<p>Aby rzucić czar, musisz opłacić jego koszt many (umieszczony w prawym górnym rogu karty) poprzez zatapowanie lądów (lub innych permanentów), by wytworzyć liczbę i rodzaj many wymaganą przez ów czar. Przykładowo: jeśli chcesz rzucić Serra Angel kosztujący <img alt="{3}" src="_images/mana_3.png" /><img alt="{W}" src="_images/mana_w.png" /><img alt="{W}" src="_images/mana_w.png" /> możesz zatapować trzy bazowe lądy dowolnego typu, by zapłacić za <img alt="{3}" src="_images/mana_3.png" /> oraz dwie Równiny (Plains), by zapłacić za <img alt="{W}" src="_images/mana_w.png" /><img alt="{W}" src="_images/mana_w.png" />.</p>
+<p>Aby rzucić czar, musisz opłacić jego koszt many (umieszczony w prawym górnym rogu karty) poprzez przekręcenie lądów (lub innych permanentów), by wytworzyć liczbę i rodzaj many wymaganą przez ów czar. Przykładowo: jeśli chcesz rzucić Serra Angel kosztujący <img alt="{3}" src="_images/mana_3.png" /><img alt="{W}" src="_images/mana_w.png" /><img alt="{W}" src="_images/mana_w.png" /> możesz przekręcić trzy bazowe lądy dowolnego typu, by zapłacić za <img alt="{3}" src="_images/mana_3.png" /> oraz dwie Równiny (Plains), by zapłacić za <img alt="{W}" src="_images/mana_w.png" /><img alt="{W}" src="_images/mana_w.png" />.</p>
 <p>Gdy czar został już rzucony może się zdarzyć jedna z dwóch rzeczy. Jeśli czar jest sztuczką lub obrzędem, podążasz za instrukcjami na karcie, a następnie umieszczasz owa kartę w twoim cmentarzu. Jeśli czar jest stworem, artefaktem lub urokiem, umieszczasz kartę na stole przed sobą. Owa karta jest teraz na polu walki.</p>
 <p>Karty na polu walki nazywane są permanentami, by odróżnić je od sztuczek i obrzędów, które nigdy nie znajdują się na polu walki.</p>
 <img alt="_images/castingex.png" class="align-center" src="_images/castingex.png" />
@@ -178,7 +192,7 @@
 <div class="section" id="attacking-and-blocking">
 <span id="actions-attacking-blocking"></span><h3>Atakowanie i blokowanie<a class="headerlink" href="#attacking-and-blocking" title="Stały odnośnik do tego nagłówka">¶</a></h3>
 <p>Najpowszechniejszym sposobem wygrania gry jest atakowanie swoimi stworami. Jeśli stwór atakujący przeciwnika nie zostanie zablokowany, zadaje mu obrażenia równe swojej sile.</p>
-<p>Środkowa faza każdej tury to faza walki. W twojej fazie walki wybierasz, które z twoich stworów będą atakować i których graczy. Zatapuj twoje stwory, by pokazać, że atakują. Twoi przeciwnicy mogą następnie wybrać, które z ich stworów będą blokować, o ile w ogóle. Zatapowane stwory nie mogą być wyznaczone do bloku.</p>
+<p>Środkowa faza każdej tury to faza walki. W twojej fazie walki wybierasz, które z twoich stworów będą atakować i których graczy. Przekręć twoje stwory, by pokazać, że atakują. Twoi przeciwnicy mogą następnie wybrać, które z ich stworów będą blokować, o ile w ogóle. Przekręcone stwory nie mogą być wyznaczone do bloku.</p>
 <p>Gdy już blokujący zostali wybrani, każdy stwór — zarówno atakujący jak i blokujący — jednocześnie zadaje obrażenia równe swojej sile (liczba po lewej stronie ukośnika w prawym dolnym rogu karty).</p>
 <ul class="simple">
 <li>Atakujący stwór, który nie został zablokowany, zadaje obrażenia zaatakowanemu graczowi.</li>
@@ -257,7 +271,7 @@
 <div class="section" id="beginning-phase">
 <span id="turn-beginning"></span><h3>Faza początkowa<a class="headerlink" href="#beginning-phase" title="Stały odnośnik do tego nagłówka">¶</a></h3>
 <ul class="simple">
-<li><strong>Krok odtapowania</strong> Odtapowujesz wszystkie twoje zatapowane permanenty. W pierwszej turze gry nie masz żadnych permanentów, więc po prostu pomijasz ten krok. Nikt nie może rzucać czarów ani aktywować zdolności podczas tego kroku.</li>
+<li><strong>Krok odkręcania</strong> Odkręcasz wszystkie twoje przekręcone permanenty. W pierwszej turze gry nie masz żadnych permanentów, więc po prostu pomijasz ten krok. Nikt nie może rzucać czarów ani aktywować zdolności podczas tego kroku.</li>
 <li><strong>Krok utrzymania</strong> Gracze mogą rzucać czary i aktywować zdolności. Ta część tury jest wymieniona na niektórych kartach. Jeśli coś ma się wydarzyć raz na turę, zaraz na jej początku, zdolność będzie wyzwalana „na początku twojego kroku rozliczania.”</li>
 <li><strong>Krok dobierania</strong> Musisz dobrać kartę z twojej biblioteki (nawet jeśli nie chcesz). Gracz, który rozpoczyna grę dwuosobową pomija ten krok w swojej turze, by wyrównać korzyść wynikającą z rozpoczęcia gry. Gracze następnie mogą rzucać sztuczki i aktywować zdolności.</li>
 </ul>
@@ -272,8 +286,8 @@
 <span id="turn-combat"></span><h3>Faza walki<a class="headerlink" href="#combat-phase" title="Stały odnośnik do tego nagłówka">¶</a></h3>
 <ul class="simple">
 <li><strong>Krok początku walki</strong> Gracze mogą rzucać sztuczki i aktywować zdolności.</li>
-<li><strong>Krok deklaracji atakujących</strong> Decydujesz które, o ile jakiekolwiek, z twoich odtapowanych stworów będzie atakować oraz którego gracza lub wędrowca będą atakować. To zatapuje atakujące stwory. Gracze mogą następnie rzucać sztuczki i aktywować zdolności.</li>
-<li><strong>Krok deklaracji blokujących</strong> Twój przeciwnik decyduje które, o ile jakiekolwiek, z jego odtapowanych stworów będzie blokować twoje atakujące stwory. Jeśli wiele stworów blokuje pojedynczego atakującego, to ty decydujesz o kolejności otrzymywania przez nich obrażeń. Gracze następnie mogą rzucać sztuczki i aktywować zdolności.</li>
+<li><strong>Krok deklaracji atakujących</strong> Decydujesz które, o ile jakiekolwiek, z twoich odkręconych stworów będzie atakować oraz którego gracza lub wędrowca będą atakować. To przekręci atakujące stwory. Gracze mogą następnie rzucać sztuczki i aktywować zdolności.</li>
+<li><strong>Krok deklaracji blokujących</strong> Twój przeciwnik decyduje które, o ile jakiekolwiek, z jego odkręconych stworów będzie blokować twoje atakujące stwory. Jeśli wiele stworów blokuje pojedynczego atakującego, to ty decydujesz o kolejności otrzymywania przez nich obrażeń. Gracze następnie mogą rzucać sztuczki i aktywować zdolności.</li>
 <li><strong>Krok obrażeń bojowych</strong> Każdy atakujący i blokujący stwór, który nadal jest na polu walki przypisuje obrażenia zaatakowanemu graczowi (jeśli go atakuje i nie był zablokowany), wędrowcowi (jeśli go atakuje i nie został zablokowany), oraz stworom blokującym go lub zablokowanym przez niego. Jeśli atakujący stwór jest blokowany przez kilka stworów, obrażenia rozdzielasz między owe stwory przypisując pierwszemu co najmniej tyle, by go zniszczyć, zanim przypiszesz kolejnemu itd. Gdy już gracze określili, jak będą zadane obrażenia, są one zadawane w tym samym momencie. Gracze mogą następnie rzucać sztuczki i aktywować zdolności.</li>
 <li><strong>Krok końca walki</strong> Gracze mogą rzucać sztuczki i aktywować zdolności.</li>
 </ul>
@@ -322,7 +336,7 @@
 </ul>
 </li>
 <li><a class="reference internal" href="#game-actions">Akcje w grze</a><ul>
-<li><a class="reference internal" href="#tapping-and-untapping">Tapowanie i odtapowywanie</a></li>
+<li><a class="reference internal" href="#tapping-and-untapping">Przekręcanie i odkręcanie</a></li>
 <li><a class="reference internal" href="#casting-spells">Rzucanie czarów</a></li>
 <li><a class="reference internal" href="#attacking-and-blocking">Atakowanie i blokowanie</a></li>
 <li><a class="reference internal" href="#in-the-following-examples-an-opponent-is-attacking-you-with-a-variety-of-creatures">W kolejnych przykładach przeciwnik atakuje cię różnymi stworami:</a></li>
@@ -344,8 +358,8 @@
 </ul>
 
   <h4>Poprzedni temat</h4>
-  <p class="topless"><a href="JOU.html"
-                        title="poprzedni rozdział">Journey into Nyx (Podróż do Nyx)</a></p>
+  <p class="topless"><a href="BNG_horde.html"
+                        title="poprzedni rozdział">Walka z Hordą!</a></p>
   <h4>Następny temat</h4>
   <p class="topless"><a href="game_variants.html"
                         title="następny rozdział">Game Variants</a></p>
@@ -382,15 +396,15 @@
           <a href="game_variants.html" title="Game Variants"
              >dalej</a> |</li>
         <li class="right" >
-          <a href="JOU.html" title="Journey into Nyx (Podróż do Nyx)"
+          <a href="BNG_horde.html" title="Walka z Hordą!"
              >wstecz</a> |</li>
-        <li class="nav-item nav-item-0"><a href="index.html">MTG-pl 2019.1.6 - dokumentacja</a> &#187;</li> 
+        <li class="nav-item nav-item-0"><a href="index.html">MTG-pl 2019.1.13 - dokumentacja</a> &#187;</li> 
       </ul>
     </div>
 
     <div class="footer" role="contentinfo">
-        &#169; Copyright 2013-2018, Dominik Kozaczko &amp; Strefa Gry.
-      Ostatnia modyfikacja 2019-01-06.
+        &#169; Copyright 2013-2018, Dominik Kozaczko.
+      Ostatnia modyfikacja 2019-01-13.
       Utworzone przy pomocy <a href="http://sphinx-doc.org/">Sphinx</a>'a 1.8.2.
     </div>
 <!-- Piwik -->

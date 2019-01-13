@@ -21,11 +21,10 @@ się domyślić, o co tak naprawdę chodzi.
 Często występujące terminy
 --------------------------
 
-Tap, untap -> tapowanie/zatapowanie, odtapowanie
+Tap, untap -> przekręcanie/odkręcanie
     Jeden z najbardziej kontrowersyjnych terminów. Pierwotnie tłumaczyłem jako "zaznacz" i "odznacz", które
-    brzmią świetnie po polsku i nadal uważam, że to najlepsza opcja. Ugiąłem się jednak pod powszechnością terminu
-    oraz jego obecnością w niektórych innych wersjach językowych. Choć z drugiej strony Rosjanie mają obróć/przygotuj...
-    Tak czy inaczej ta kwestia może jeszcze ulec zmianie.
+    brzmią całkiem sensownie po polsku. Ostatecznie zdecydowałem się jednak na najbardziej obrazowe "przekręć"
+    i "odkręć". Dzięki temu unikamy językowego potworka i idealnie opisujemy czynności, które sa wykonywane.
 
 Target -> wskazany, wskazywać
     Oczywistym pierwszym tłumaczeniem słowa "target" jest "cel". Po kilku eksperymentach okazuje się jednak,

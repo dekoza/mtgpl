@@ -286,7 +286,7 @@ Skatewing Spy
 
 
 Skitter Eel
-   |mana_2|\ |mana_u|: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.
+   |mana_2|\ |mana_u|: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)
 
 
 Slimebind
@@ -484,7 +484,7 @@ Undercity Scavenger
 
 
 Undercity's Embrace
-   Target opponent sacrifices a creature. If you control a creature with power 4 or greater, your gain 4 life.
+   Target opponent sacrifices a creature. If you control a creature with power 4 or greater, you gain 4 life.
 
 
 Vindictive Vampire

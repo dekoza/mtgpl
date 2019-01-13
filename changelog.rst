@@ -1,7 +1,10 @@
 
-************
- Spis zmian
-************
+***********
+Spis zmian
+***********
+
+2019-01-13
+    Wystawienie seriwsu dla tłumaczy: `https://weblate.mtgpopolsku.pl`
 
 2019-01-06
     Dodane tłumaczenia przyszłych kart z Ravnica Allegiance (dzięki API Scryfall.com)
@@ -10,10 +13,10 @@
     Nowy :doc:`podręcznik gry<rulebook>` (edycja Dominaria). Drobne porządki.
 
 2018-12-30
-    `Dominaria<DOM>` 100%. `Core Set 2019<M19>` 100%.
+    :doc:`Dominaria<DOM>` 100%. :doc:`Core Set 2019<M19>` 100%.
 
 2018-12-29
-    `Ixalan<XLN>` 100%, `Dominaria<DOM>` 66%.
+    :doc:`Ixalan<XLN>` 100%, :doc:`Dominaria<DOM>` 66%.
 
 2018-12-28
     Testowe uruchomienie strony mtgpopolsku.pl - w pełni przetłumaczone dodatki z aktualnego Standardu: :doc:`Guilds of Ravnica<GRN>`, :doc:`Rivals of Ixalan<RIX>` oraz częściowo pozostałe dodatki aż do `New Phyrexia<NPH>`.
