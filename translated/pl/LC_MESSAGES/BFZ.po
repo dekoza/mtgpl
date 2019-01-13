@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: 2019-01-13 15:26+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/bfz/pl/>\n"
@@ -20,11 +20,11 @@ msgstr ""
 "X-Generator: Weblate 3.4-dev\n"
 
 #: ../../BFZ.rst:5
-msgid "Battle for Zendikar"
+msgid ":mtgexp:`BFZ` Battle for Zendikar"
 msgstr ""
 
 #: ../../BFZ.rst:10
-msgid "Bane of Bala Ged"
+msgid ":mtgtip:`Bane of Bala Ged`"
 msgstr ""
 
 #: ../../BFZ.rst:9
@@ -34,7 +34,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:14
-msgid "Blight Herder"
+msgid ":mtgtip:`Blight Herder`"
 msgstr ""
 
 #: ../../BFZ.rst:13
@@ -46,7 +46,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:18
-msgid "Breaker of Armies"
+msgid ":mtgtip:`Breaker of Armies`"
 msgstr ""
 
 #: ../../BFZ.rst:17
@@ -54,7 +54,7 @@ msgid "All creatures able to block Breaker of Armies do so."
 msgstr ""
 
 #: ../../BFZ.rst:24
-msgid "Conduit of Ruin"
+msgid ":mtgtip:`Conduit of Ruin`"
 msgstr ""
 
 #: ../../BFZ.rst:21
@@ -70,7 +70,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:30
-msgid "Deathless Behemoth"
+msgid ":mtgtip:`Deathless Behemoth`"
 msgstr ""
 
 #: ../../BFZ.rst:27
@@ -84,7 +84,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:34
-msgid "Desolation Twin"
+msgid ":mtgtip:`Desolation Twin`"
 msgstr ""
 
 #: ../../BFZ.rst:33
@@ -93,16 +93,16 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:38
-msgid "Eldrazi Devastator"
+msgid ":mtgtip:`Eldrazi Devastator`"
 msgstr ""
 
 #: ../../BFZ.rst:37 ../../BFZ.rst:759 ../../BFZ.rst:767 ../../BFZ.rst:823
-#: ../../BFZ.rst:985 ../../BFZ.rst:995 ../../BFZ.rst:1157
+#: ../../BFZ.rst:985 ../../BFZ.rst:1155
 msgid "Trample"
 msgstr "Tratowanie"
 
 #: ../../BFZ.rst:42
-msgid "Endless One"
+msgid ":mtgtip:`Endless One`"
 msgstr ""
 
 #: ../../BFZ.rst:41
@@ -110,7 +110,7 @@ msgid "Endless One enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
 #: ../../BFZ.rst:46
-msgid "Gruesome Slaughter"
+msgid ":mtgtip:`Gruesome Slaughter`"
 msgstr ""
 
 #: ../../BFZ.rst:45
@@ -120,16 +120,16 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:50
-msgid "Kozilek's Channeler"
+msgid ":mtgtip:`Kozilek's Channeler`"
 msgstr ""
 
-#: ../../BFZ.rst:49 ../../BFZ.rst:1221
+#: ../../BFZ.rst:49 ../../BFZ.rst:1219
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
 msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../BFZ.rst:54
-msgid "Oblivion Sower"
+msgid ":mtgtip:`Oblivion Sower`"
 msgstr ""
 
 #: ../../BFZ.rst:53
@@ -140,7 +140,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:58
-msgid "Ruin Processor"
+msgid ":mtgtip:`Ruin Processor`"
 msgstr ""
 
 #: ../../BFZ.rst:57
@@ -150,7 +150,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:62
-msgid "Scour from Existence"
+msgid ":mtgtip:`Scour from Existence`"
 msgstr ""
 
 #: ../../BFZ.rst:61
@@ -158,7 +158,7 @@ msgid "Exile target permanent."
 msgstr ""
 
 #: ../../BFZ.rst:68
-msgid "Titan's Presence"
+msgid ":mtgtip:`Titan's Presence`"
 msgstr ""
 
 #: ../../BFZ.rst:65
@@ -174,7 +174,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:76
-msgid "Ulamog, the Ceaseless Hunger"
+msgid ":mtgtip:`Ulamog, the Ceaseless Hunger`"
 msgstr ""
 
 #: ../../BFZ.rst:71
@@ -192,7 +192,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:80
-msgid "Ulamog's Despoiler"
+msgid ":mtgtip:`Ulamog's Despoiler`"
 msgstr ""
 
 #: ../../BFZ.rst:79
@@ -203,7 +203,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:86
-msgid "Void Winnower"
+msgid ":mtgtip:`Void Winnower`"
 msgstr ""
 
 #: ../../BFZ.rst:83
@@ -218,15 +218,15 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:92
-msgid "Angel of Renewal"
+msgid ":mtgtip:`Angel of Renewal`"
 msgstr ""
 
 #: ../../BFZ.rst:89 ../../BFZ.rst:107 ../../BFZ.rst:113 ../../BFZ.rst:167
 #: ../../BFZ.rst:235 ../../BFZ.rst:297 ../../BFZ.rst:317 ../../BFZ.rst:377
 #: ../../BFZ.rst:409 ../../BFZ.rst:471 ../../BFZ.rst:477 ../../BFZ.rst:525
 #: ../../BFZ.rst:549 ../../BFZ.rst:595 ../../BFZ.rst:621 ../../BFZ.rst:781
-#: ../../BFZ.rst:1135 ../../BFZ.rst:1141 ../../BFZ.rst:1151 ../../BFZ.rst:1205
-#: ../../BFZ.rst:1241
+#: ../../BFZ.rst:1133 ../../BFZ.rst:1139 ../../BFZ.rst:1149 ../../BFZ.rst:1203
+#: ../../BFZ.rst:1239
 msgid "Flying"
 msgstr "Latanie"
 
@@ -237,7 +237,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:100
-msgid "Angelic Gift"
+msgid ":mtgtip:`Angelic Gift`"
 msgstr ""
 
 #: ../../BFZ.rst:95 ../../BFZ.rst:461 ../../BFZ.rst:813
@@ -253,7 +253,7 @@ msgid "Enchanted creature has flying."
 msgstr ""
 
 #: ../../BFZ.rst:104
-msgid "Cliffside Lookout"
+msgid ":mtgtip:`Cliffside Lookout`"
 msgstr ""
 
 #: ../../BFZ.rst:103
@@ -262,7 +262,7 @@ msgid "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../BFZ.rst:110
-msgid "Courier Griffin"
+msgid ":mtgtip:`Courier Griffin`"
 msgstr ""
 
 #: ../../BFZ.rst:109
@@ -270,7 +270,7 @@ msgid "When Courier Griffin enters the battlefield, you gain 2 life."
 msgstr ""
 
 #: ../../BFZ.rst:116
-msgid "Emeria Shepherd"
+msgid ":mtgtip:`Emeria Shepherd`"
 msgstr ""
 
 #: ../../BFZ.rst:115
@@ -282,7 +282,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:122
-msgid "Encircling Fissure"
+msgid ":mtgtip:`Encircling Fissure`"
 msgstr ""
 
 #: ../../BFZ.rst:119
@@ -299,11 +299,11 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:124
-msgid "Expedition Envoy"
+msgid ":mtgtip:`Expedition Envoy`"
 msgstr ""
 
 #: ../../BFZ.rst:130
-msgid "Felidar Cub"
+msgid ":mtgtip:`Felidar Cub`"
 msgstr ""
 
 #: ../../BFZ.rst:129
@@ -311,7 +311,7 @@ msgid "Sacrifice Felidar Cub: Destroy target enchantment."
 msgstr ""
 
 #: ../../BFZ.rst:136
-msgid "Felidar Sovereign"
+msgid ":mtgtip:`Felidar Sovereign`"
 msgstr ""
 
 #: ../../BFZ.rst:133
@@ -325,7 +325,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:140
-msgid "Fortified Rampart"
+msgid ":mtgtip:`Fortified Rampart`"
 msgstr ""
 
 #: ../../BFZ.rst:139 ../../BFZ.rst:963
@@ -333,7 +333,7 @@ msgid "Defender"
 msgstr "Obronność"
 
 #: ../../BFZ.rst:144
-msgid "Ghostly Sentinel"
+msgid ":mtgtip:`Ghostly Sentinel`"
 msgstr ""
 
 #: ../../BFZ.rst:143
@@ -341,7 +341,7 @@ msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
 #: ../../BFZ.rst:152
-msgid "Gideon, Ally of Zendikar"
+msgid ":mtgtip:`Gideon, Ally of Zendikar`"
 msgstr ""
 
 #: ../../BFZ.rst:147
@@ -360,7 +360,8 @@ msgid "−4: You get an emblem with \"Creatures you control get +1/+1.\""
 msgstr ""
 
 #: ../../BFZ.rst:156
-msgid "Gideon's Reproach"
+#, fuzzy
+msgid ":mtgtip:`Gideon's Reproach`"
 msgstr "Gideon's Reproach"
 
 #: ../../BFZ.rst:155
@@ -370,7 +371,7 @@ msgstr ""
 "Ten czar zadaje 4 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
 
 #: ../../BFZ.rst:160
-msgid "Hero of Goma Fada"
+msgid ":mtgtip:`Hero of Goma Fada`"
 msgstr ""
 
 #: ../../BFZ.rst:159
@@ -381,7 +382,8 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:164
-msgid "Inspired Charge"
+#, fuzzy
+msgid ":mtgtip:`Inspired Charge`"
 msgstr "Inspired Charge"
 
 #: ../../BFZ.rst:163
@@ -389,11 +391,11 @@ msgid "Creatures you control get +2/+1 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../BFZ.rst:168
-msgid "Kitesail Scout"
+msgid ":mtgtip:`Kitesail Scout`"
 msgstr ""
 
 #: ../../BFZ.rst:172
-msgid "Kor Bladewhirl"
+msgid ":mtgtip:`Kor Bladewhirl`"
 msgstr ""
 
 #: ../../BFZ.rst:171
@@ -403,7 +405,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:176
-msgid "Kor Castigator"
+msgid ":mtgtip:`Kor Castigator`"
 msgstr ""
 
 #: ../../BFZ.rst:175
@@ -411,7 +413,7 @@ msgid "Kor Castigator can't be blocked by Eldrazi Scions."
 msgstr ""
 
 #: ../../BFZ.rst:180
-msgid "Kor Entanglers"
+msgid ":mtgtip:`Kor Entanglers`"
 msgstr ""
 
 #: ../../BFZ.rst:179
@@ -421,7 +423,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:184
-msgid "Lantern Scout"
+msgid ":mtgtip:`Lantern Scout`"
 msgstr ""
 
 #: ../../BFZ.rst:183
@@ -431,7 +433,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:188
-msgid "Lithomancer's Focus"
+msgid ":mtgtip:`Lithomancer's Focus`"
 msgstr ""
 
 #: ../../BFZ.rst:187
@@ -441,7 +443,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:192
-msgid "Makindi Patrol"
+msgid ":mtgtip:`Makindi Patrol`"
 msgstr ""
 
 #: ../../BFZ.rst:191
@@ -451,7 +453,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:198
-msgid "Ondu Greathorn"
+msgid ":mtgtip:`Ondu Greathorn`"
 msgstr ""
 
 #: ../../BFZ.rst:195
@@ -465,7 +467,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:204
-msgid "Ondu Rising"
+msgid ":mtgtip:`Ondu Rising`"
 msgstr ""
 
 #: ../../BFZ.rst:201
@@ -481,7 +483,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:210
-msgid "Planar Outburst"
+msgid ":mtgtip:`Planar Outburst`"
 msgstr ""
 
 #: ../../BFZ.rst:207
@@ -497,7 +499,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:216
-msgid "Quarantine Field"
+msgid ":mtgtip:`Quarantine Field`"
 msgstr ""
 
 #: ../../BFZ.rst:213
@@ -513,11 +515,11 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:224
-msgid "Retreat to Emeria"
+msgid ":mtgtip:`Retreat to Emeria`"
 msgstr ""
 
 #: ../../BFZ.rst:219 ../../BFZ.rst:435 ../../BFZ.rst:667 ../../BFZ.rst:845
-#: ../../BFZ.rst:1009
+#: ../../BFZ.rst:1007
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, choose "
 "one —"
@@ -532,7 +534,7 @@ msgid "Creatures you control get +1/+1 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +1/+1 do końca tury."
 
 #: ../../BFZ.rst:228
-msgid "Roil's Retribution"
+msgid ":mtgtip:`Roil's Retribution`"
 msgstr ""
 
 #: ../../BFZ.rst:227
@@ -542,7 +544,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:232
-msgid "Serene Steward"
+msgid ":mtgtip:`Serene Steward`"
 msgstr ""
 
 #: ../../BFZ.rst:231
@@ -552,11 +554,11 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:236
-msgid "Shadow Glider"
+msgid ":mtgtip:`Shadow Glider`"
 msgstr ""
 
 #: ../../BFZ.rst:242
-msgid "Sheer Drop"
+msgid ":mtgtip:`Sheer Drop`"
 msgstr ""
 
 #: ../../BFZ.rst:239
@@ -571,7 +573,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:246
-msgid "Smite the Monstrous"
+msgid ":mtgtip:`Smite the Monstrous`"
 msgstr ""
 
 #: ../../BFZ.rst:245
@@ -579,7 +581,7 @@ msgid "Destroy target creature with power 4 or greater."
 msgstr "Zniszcz wskazanego stwora z siłą 4 lub większą."
 
 #: ../../BFZ.rst:252
-msgid "Stasis Snare"
+msgid ":mtgtip:`Stasis Snare`"
 msgstr ""
 
 #: ../../BFZ.rst:249
@@ -594,7 +596,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:256
-msgid "Stone Haven Medic"
+msgid ":mtgtip:`Stone Haven Medic`"
 msgstr ""
 
 #: ../../BFZ.rst:255
@@ -602,7 +604,7 @@ msgid "|mana_w|, |tap|: You gain 1 life."
 msgstr ""
 
 #: ../../BFZ.rst:260
-msgid "Tandem Tactics"
+msgid ":mtgtip:`Tandem Tactics`"
 msgstr ""
 
 #: ../../BFZ.rst:259
@@ -611,7 +613,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:264
-msgid "Unified Front"
+msgid ":mtgtip:`Unified Front`"
 msgstr ""
 
 #: ../../BFZ.rst:263
@@ -621,7 +623,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:270
-msgid "Adverse Conditions"
+msgid ":mtgtip:`Adverse Conditions`"
 msgstr ""
 
 #: ../../BFZ.rst:267 ../../BFZ.rst:273 ../../BFZ.rst:281 ../../BFZ.rst:287
@@ -635,9 +637,9 @@ msgstr ""
 #: ../../BFZ.rst:723 ../../BFZ.rst:731 ../../BFZ.rst:739 ../../BFZ.rst:745
 #: ../../BFZ.rst:751 ../../BFZ.rst:757 ../../BFZ.rst:763 ../../BFZ.rst:889
 #: ../../BFZ.rst:895 ../../BFZ.rst:901 ../../BFZ.rst:907 ../../BFZ.rst:913
-#: ../../BFZ.rst:921 ../../BFZ.rst:927 ../../BFZ.rst:1069 ../../BFZ.rst:1077
-#: ../../BFZ.rst:1087 ../../BFZ.rst:1095 ../../BFZ.rst:1103 ../../BFZ.rst:1113
-#: ../../BFZ.rst:1119 ../../BFZ.rst:1125 ../../BFZ.rst:1131
+#: ../../BFZ.rst:921 ../../BFZ.rst:927 ../../BFZ.rst:1067 ../../BFZ.rst:1075
+#: ../../BFZ.rst:1085 ../../BFZ.rst:1093 ../../BFZ.rst:1101 ../../BFZ.rst:1111
+#: ../../BFZ.rst:1117 ../../BFZ.rst:1123 ../../BFZ.rst:1129
 msgid "Devoid (This card has no color.)"
 msgstr ""
 
@@ -649,12 +651,12 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:278
-msgid "Benthic Infiltrator"
+msgid ":mtgtip:`Benthic Infiltrator`"
 msgstr ""
 
 #: ../../BFZ.rst:275 ../../BFZ.rst:319 ../../BFZ.rst:337 ../../BFZ.rst:345
 #: ../../BFZ.rst:491 ../../BFZ.rst:497 ../../BFZ.rst:541 ../../BFZ.rst:769
-#: ../../BFZ.rst:1107
+#: ../../BFZ.rst:1105
 msgid ""
 "Ingest (Whenever this creature deals combat damage to a player, that player "
 "exiles the top card of their library.)"
@@ -665,7 +667,7 @@ msgid "Benthic Infiltrator can't be blocked."
 msgstr ""
 
 #: ../../BFZ.rst:284
-msgid "Cryptic Cruiser"
+msgid ":mtgtip:`Cryptic Cruiser`"
 msgstr ""
 
 #: ../../BFZ.rst:283
@@ -675,7 +677,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:292
-msgid "Drowner of Hope"
+msgid ":mtgtip:`Drowner of Hope`"
 msgstr ""
 
 #: ../../BFZ.rst:289
@@ -690,7 +692,7 @@ msgid "Sacrifice an Eldrazi Scion: Tap target creature."
 msgstr ""
 
 #: ../../BFZ.rst:300
-msgid "Eldrazi Skyspawner"
+msgid ":mtgtip:`Eldrazi Skyspawner`"
 msgstr ""
 
 #: ../../BFZ.rst:299
@@ -701,7 +703,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:306
-msgid "Horribly Awry"
+msgid ":mtgtip:`Horribly Awry`"
 msgstr ""
 
 #: ../../BFZ.rst:305
@@ -712,7 +714,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:312
-msgid "Incubator Drone"
+msgid ":mtgtip:`Incubator Drone`"
 msgstr ""
 
 #: ../../BFZ.rst:311
@@ -722,11 +724,11 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:320
-msgid "Mist Intruder"
+msgid ":mtgtip:`Mist Intruder`"
 msgstr ""
 
 #: ../../BFZ.rst:326
-msgid "Murk Strider"
+msgid ":mtgtip:`Murk Strider`"
 msgstr ""
 
 #: ../../BFZ.rst:325
@@ -737,7 +739,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:332
-msgid "Oracle of Dust"
+msgid ":mtgtip:`Oracle of Dust`"
 msgstr ""
 
 #: ../../BFZ.rst:331
@@ -747,7 +749,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:340
-msgid "Ruination Guide"
+msgid ":mtgtip:`Ruination Guide`"
 msgstr ""
 
 #: ../../BFZ.rst:339
@@ -755,7 +757,7 @@ msgid "Other colorless creatures you control get +1/+0."
 msgstr ""
 
 #: ../../BFZ.rst:348
-msgid "Salvage Drone"
+msgid ":mtgtip:`Salvage Drone`"
 msgstr ""
 
 #: ../../BFZ.rst:347
@@ -764,7 +766,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:354
-msgid "Spell Shrivel"
+msgid ":mtgtip:`Spell Shrivel`"
 msgstr ""
 
 #: ../../BFZ.rst:353
@@ -775,7 +777,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:360
-msgid "Tide Drifter"
+msgid ":mtgtip:`Tide Drifter`"
 msgstr ""
 
 #: ../../BFZ.rst:359
@@ -783,7 +785,7 @@ msgid "Other colorless creatures you control get +0/+1."
 msgstr ""
 
 #: ../../BFZ.rst:366
-msgid "Ulamog's Reclaimer"
+msgid ":mtgtip:`Ulamog's Reclaimer`"
 msgstr ""
 
 #: ../../BFZ.rst:365
@@ -794,7 +796,8 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:370
-msgid "Anticipate"
+#, fuzzy
+msgid ":mtgtip:`Anticipate`"
 msgstr "Anticipate (Antycypuj)"
 
 #: ../../BFZ.rst:369
@@ -806,7 +809,7 @@ msgstr ""
 "twojej ręce, a pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../BFZ.rst:374
-msgid "Brilliant Spectrum"
+msgid ":mtgtip:`Brilliant Spectrum`"
 msgstr ""
 
 #: ../../BFZ.rst:373
@@ -816,11 +819,11 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:378
-msgid "Cloud Manta"
+msgid ":mtgtip:`Cloud Manta`"
 msgstr ""
 
 #: ../../BFZ.rst:384
-msgid "Clutch of Currents"
+msgid ":mtgtip:`Clutch of Currents`"
 msgstr ""
 
 #: ../../BFZ.rst:381
@@ -835,7 +838,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:390
-msgid "Coastal Discovery"
+msgid ":mtgtip:`Coastal Discovery`"
 msgstr ""
 
 #: ../../BFZ.rst:387 ../../BFZ.rst:577
@@ -850,7 +853,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:394
-msgid "Coralhelm Guide"
+msgid ":mtgtip:`Coralhelm Guide`"
 msgstr ""
 
 #: ../../BFZ.rst:393
@@ -858,7 +861,7 @@ msgid "|mana_4|\\ |mana_u|: Target creature can't be blocked this turn."
 msgstr ""
 
 #: ../../BFZ.rst:398
-msgid "Dampening Pulse"
+msgid ":mtgtip:`Dampening Pulse`"
 msgstr ""
 
 #: ../../BFZ.rst:397
@@ -866,16 +869,15 @@ msgid "Creatures your opponents control get -1/-0."
 msgstr ""
 
 #: ../../BFZ.rst:402
-#, fuzzy
-msgid "Dispel"
-msgstr "Dispel"
+msgid ":mtgtip:`Dispel`"
+msgstr ""
 
 #: ../../BFZ.rst:401
 msgid "Counter target instant spell."
 msgstr ""
 
 #: ../../BFZ.rst:406
-msgid "Exert Influence"
+msgid ":mtgtip:`Exert Influence`"
 msgstr ""
 
 #: ../../BFZ.rst:405
@@ -885,7 +887,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:412
-msgid "Guardian of Tazeem"
+msgid ":mtgtip:`Guardian of Tazeem`"
 msgstr ""
 
 #: ../../BFZ.rst:411
@@ -896,7 +898,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:418
-msgid "Halimar Tidecaller"
+msgid ":mtgtip:`Halimar Tidecaller`"
 msgstr ""
 
 #: ../../BFZ.rst:415
@@ -910,7 +912,7 @@ msgid "Land creatures you control have flying."
 msgstr ""
 
 #: ../../BFZ.rst:424
-msgid "Part the Waterveil"
+msgid ":mtgtip:`Part the Waterveil`"
 msgstr ""
 
 #: ../../BFZ.rst:421
@@ -926,7 +928,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:432
-msgid "Prism Array"
+msgid ":mtgtip:`Prism Array`"
 msgstr ""
 
 #: ../../BFZ.rst:427
@@ -950,7 +952,7 @@ msgstr ""
 "twojej ręce, a pozostałe na spodzie twojej biblioteki w dowolnej kolejności."
 
 #: ../../BFZ.rst:440
-msgid "Retreat to Coralhelm"
+msgid ":mtgtip:`Retreat to Coralhelm`"
 msgstr ""
 
 #: ../../BFZ.rst:437
@@ -966,7 +968,7 @@ msgstr ""
 "kartę na spodzie twojej biblioteki.)"
 
 #: ../../BFZ.rst:446
-msgid "Roilmage's Trick"
+msgid ":mtgtip:`Roilmage's Trick`"
 msgstr ""
 
 #: ../../BFZ.rst:443
@@ -980,7 +982,7 @@ msgid "Draw a card."
 msgstr "Dobierz kartę."
 
 #: ../../BFZ.rst:452
-msgid "Rush of Ice"
+msgid ":mtgtip:`Rush of Ice`"
 msgstr ""
 
 #: ../../BFZ.rst:449
@@ -992,7 +994,7 @@ msgstr ""
 "odkręcania swojego władcy."
 
 #: ../../BFZ.rst:458
-msgid "Scatter to the Winds"
+msgid ":mtgtip:`Scatter to the Winds`"
 msgstr ""
 
 #: ../../BFZ.rst:455
@@ -1008,7 +1010,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:464
-msgid "Tightening Coils"
+msgid ":mtgtip:`Tightening Coils`"
 msgstr ""
 
 #: ../../BFZ.rst:463
@@ -1016,7 +1018,7 @@ msgid "Enchanted creature gets -6/-0 and loses flying."
 msgstr ""
 
 #: ../../BFZ.rst:468
-msgid "Ugin's Insight"
+msgid ":mtgtip:`Ugin's Insight`"
 msgstr ""
 
 #: ../../BFZ.rst:467
@@ -1026,7 +1028,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:474
-msgid "Wave-Wing Elemental"
+msgid ":mtgtip:`Wave-Wing Elemental`"
 msgstr ""
 
 #: ../../BFZ.rst:473
@@ -1036,7 +1038,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:480
-msgid "Windrider Patrol"
+msgid ":mtgtip:`Windrider Patrol`"
 msgstr ""
 
 #: ../../BFZ.rst:479
@@ -1047,7 +1049,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:486
-msgid "Complete Disregard"
+msgid ":mtgtip:`Complete Disregard`"
 msgstr ""
 
 #: ../../BFZ.rst:485
@@ -1055,11 +1057,11 @@ msgid "Exile target creature with power 3 or less."
 msgstr "Wygnaj wskazanego stwora o sile 3 lub mniejszej."
 
 #: ../../BFZ.rst:492
-msgid "Culling Drone"
+msgid ":mtgtip:`Culling Drone`"
 msgstr ""
 
 #: ../../BFZ.rst:500
-msgid "Dominator Drone"
+msgid ":mtgtip:`Dominator Drone`"
 msgstr ""
 
 #: ../../BFZ.rst:499
@@ -1069,7 +1071,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:508
-msgid "Grave Birthing"
+msgid ":mtgtip:`Grave Birthing`"
 msgstr ""
 
 #: ../../BFZ.rst:505
@@ -1080,7 +1082,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:514
-msgid "Grip of Desolation"
+msgid ":mtgtip:`Grip of Desolation`"
 msgstr ""
 
 #: ../../BFZ.rst:513
@@ -1088,7 +1090,7 @@ msgid "Exile target creature and target land."
 msgstr ""
 
 #: ../../BFZ.rst:520
-msgid "Mind Raker"
+msgid ":mtgtip:`Mind Raker`"
 msgstr ""
 
 #: ../../BFZ.rst:519
@@ -1099,7 +1101,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:528
-msgid "Silent Skimmer"
+msgid ":mtgtip:`Silent Skimmer`"
 msgstr ""
 
 #: ../../BFZ.rst:527
@@ -1107,7 +1109,7 @@ msgid "Whenever Silent Skimmer attacks, defending player loses 2 life."
 msgstr ""
 
 #: ../../BFZ.rst:536
-msgid "Skitterskin"
+msgid ":mtgtip:`Skitterskin`"
 msgstr ""
 
 #: ../../BFZ.rst:533
@@ -1121,7 +1123,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:544
-msgid "Sludge Crawler"
+msgid ":mtgtip:`Sludge Crawler`"
 msgstr ""
 
 #: ../../BFZ.rst:543
@@ -1129,7 +1131,7 @@ msgid "|mana_2|: Sludge Crawler gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../BFZ.rst:554
-msgid "Smothering Abomination"
+msgid ":mtgtip:`Smothering Abomination`"
 msgstr ""
 
 #: ../../BFZ.rst:551
@@ -1141,7 +1143,7 @@ msgid "Whenever you sacrifice a creature, draw a card."
 msgstr ""
 
 #: ../../BFZ.rst:560
-msgid "Swarm Surge"
+msgid ":mtgtip:`Swarm Surge`"
 msgstr ""
 
 #: ../../BFZ.rst:559
@@ -1151,7 +1153,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:566
-msgid "Transgress the Mind"
+msgid ":mtgtip:`Transgress the Mind`"
 msgstr ""
 
 #: ../../BFZ.rst:565
@@ -1161,7 +1163,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:572
-msgid "Wasteland Strangler"
+msgid ":mtgtip:`Wasteland Strangler`"
 msgstr ""
 
 #: ../../BFZ.rst:571
@@ -1172,7 +1174,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:578
-msgid "Altar's Reap"
+msgid ":mtgtip:`Altar's Reap`"
 msgstr ""
 
 #: ../../BFZ.rst:575 ../../BFZ.rst:585
@@ -1180,7 +1182,7 @@ msgid "As an additional cost to cast this spell, sacrifice a creature."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 
 #: ../../BFZ.rst:582
-msgid "Bloodbond Vampire"
+msgid ":mtgtip:`Bloodbond Vampire`"
 msgstr ""
 
 #: ../../BFZ.rst:581
@@ -1188,7 +1190,7 @@ msgid "Whenever you gain life, put a +1/+1 counter on Bloodbond Vampire."
 msgstr ""
 
 #: ../../BFZ.rst:588
-msgid "Bone Splinters"
+msgid ":mtgtip:`Bone Splinters`"
 msgstr ""
 
 #: ../../BFZ.rst:587
@@ -1196,7 +1198,7 @@ msgid "Destroy target creature."
 msgstr "Zniszcz wskazanego stwora."
 
 #: ../../BFZ.rst:592
-msgid "Carrier Thrall"
+msgid ":mtgtip:`Carrier Thrall`"
 msgstr ""
 
 #: ../../BFZ.rst:591
@@ -1206,7 +1208,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:598
-msgid "Defiant Bloodlord"
+msgid ":mtgtip:`Defiant Bloodlord`"
 msgstr ""
 
 #: ../../BFZ.rst:597
@@ -1214,7 +1216,7 @@ msgid "Whenever you gain life, target opponent loses that much life."
 msgstr ""
 
 #: ../../BFZ.rst:602
-msgid "Demon's Grasp"
+msgid ":mtgtip:`Demon's Grasp`"
 msgstr ""
 
 #: ../../BFZ.rst:601
@@ -1222,7 +1224,7 @@ msgid "Target creature gets -5/-5 until end of turn."
 msgstr ""
 
 #: ../../BFZ.rst:608
-msgid "Drana, Liberator of Malakir"
+msgid ":mtgtip:`Drana, Liberator of Malakir`"
 msgstr ""
 
 #: ../../BFZ.rst:605
@@ -1236,7 +1238,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:612
-msgid "Dutiful Return"
+msgid ":mtgtip:`Dutiful Return`"
 msgstr ""
 
 #: ../../BFZ.rst:611
@@ -1247,7 +1249,7 @@ msgstr ""
 "twojej ręki."
 
 #: ../../BFZ.rst:618
-msgid "Geyserfield Stalker"
+msgid ":mtgtip:`Geyserfield Stalker`"
 msgstr ""
 
 #: ../../BFZ.rst:615 ../../BFZ.rst:857
@@ -1264,7 +1266,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:624
-msgid "Guul Draz Overseer"
+msgid ":mtgtip:`Guul Draz Overseer`"
 msgstr ""
 
 #: ../../BFZ.rst:623
@@ -1275,7 +1277,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:628
-msgid "Hagra Sharpshooter"
+msgid ":mtgtip:`Hagra Sharpshooter`"
 msgstr ""
 
 #: ../../BFZ.rst:627
@@ -1283,7 +1285,7 @@ msgid "|mana_4|\\ |mana_b|: Target creature gets -1/-1 until end of turn."
 msgstr ""
 
 #: ../../BFZ.rst:632
-msgid "Kalastria Healer"
+msgid ":mtgtip:`Kalastria Healer`"
 msgstr ""
 
 #: ../../BFZ.rst:631
@@ -1293,7 +1295,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:636
-msgid "Kalastria Nightwatch"
+msgid ":mtgtip:`Kalastria Nightwatch`"
 msgstr ""
 
 #: ../../BFZ.rst:635
@@ -1302,7 +1304,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:642
-msgid "Malakir Familiar"
+msgid ":mtgtip:`Malakir Familiar`"
 msgstr ""
 
 #: ../../BFZ.rst:639
@@ -1314,7 +1316,7 @@ msgid "Whenever you gain life, Malakir Familiar gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../BFZ.rst:648
-msgid "Mire's Malice"
+msgid ":mtgtip:`Mire's Malice`"
 msgstr ""
 
 #: ../../BFZ.rst:645
@@ -1329,7 +1331,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:652
-msgid "Nirkana Assassin"
+msgid ":mtgtip:`Nirkana Assassin`"
 msgstr ""
 
 #: ../../BFZ.rst:651
@@ -1339,7 +1341,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:660
-msgid "Ob Nixilis Reignited"
+msgid ":mtgtip:`Ob Nixilis Reignited`"
 msgstr ""
 
 #: ../../BFZ.rst:655
@@ -1357,7 +1359,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:664
-msgid "Painful Truths"
+msgid ":mtgtip:`Painful Truths`"
 msgstr ""
 
 #: ../../BFZ.rst:663
@@ -1367,7 +1369,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:672
-msgid "Retreat to Hagra"
+msgid ":mtgtip:`Retreat to Hagra`"
 msgstr ""
 
 #: ../../BFZ.rst:669
@@ -1379,7 +1381,7 @@ msgid "Each opponent loses 1 life and you gain 1 life."
 msgstr ""
 
 #: ../../BFZ.rst:678
-msgid "Rising Miasma"
+msgid ":mtgtip:`Rising Miasma`"
 msgstr ""
 
 #: ../../BFZ.rst:675
@@ -1395,7 +1397,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:684
-msgid "Ruinous Path"
+msgid ":mtgtip:`Ruinous Path`"
 msgstr ""
 
 #: ../../BFZ.rst:681
@@ -1411,7 +1413,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:688
-msgid "Vampiric Rites"
+msgid ":mtgtip:`Vampiric Rites`"
 msgstr ""
 
 #: ../../BFZ.rst:687
@@ -1420,7 +1422,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:692
-msgid "Voracious Null"
+msgid ":mtgtip:`Voracious Null`"
 msgstr ""
 
 #: ../../BFZ.rst:691
@@ -1430,7 +1432,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:696
-msgid "Zulaport Cutthroat"
+msgid ":mtgtip:`Zulaport Cutthroat`"
 msgstr ""
 
 #: ../../BFZ.rst:695
@@ -1440,7 +1442,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:702
-msgid "Barrage Tyrant"
+msgid ":mtgtip:`Barrage Tyrant`"
 msgstr ""
 
 #: ../../BFZ.rst:701
@@ -1450,7 +1452,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:708
-msgid "Crumble to Dust"
+msgid ":mtgtip:`Crumble to Dust`"
 msgstr ""
 
 #: ../../BFZ.rst:707
@@ -1461,7 +1463,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:714
-msgid "Kozilek's Sentinel"
+msgid ":mtgtip:`Kozilek's Sentinel`"
 msgstr ""
 
 #: ../../BFZ.rst:713
@@ -1471,7 +1473,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:720
-msgid "Molten Nursery"
+msgid ":mtgtip:`Molten Nursery`"
 msgstr ""
 
 #: ../../BFZ.rst:719
@@ -1481,7 +1483,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:728
-msgid "Nettle Drone"
+msgid ":mtgtip:`Nettle Drone`"
 msgstr ""
 
 #: ../../BFZ.rst:725
@@ -1493,7 +1495,7 @@ msgid "Whenever you cast a colorless spell, untap Nettle Drone."
 msgstr ""
 
 #: ../../BFZ.rst:736
-msgid "Processor Assault"
+msgid ":mtgtip:`Processor Assault`"
 msgstr ""
 
 #: ../../BFZ.rst:733
@@ -1507,7 +1509,7 @@ msgid "Processor Assault deals 5 damage to target creature."
 msgstr ""
 
 #: ../../BFZ.rst:742
-msgid "Serpentine Spike"
+msgid ":mtgtip:`Serpentine Spike`"
 msgstr ""
 
 #: ../../BFZ.rst:741
@@ -1518,7 +1520,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:748
-msgid "Touch of the Void"
+msgid ":mtgtip:`Touch of the Void`"
 msgstr ""
 
 #: ../../BFZ.rst:747
@@ -1528,7 +1530,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:754
-msgid "Turn Against"
+msgid ":mtgtip:`Turn Against`"
 msgstr ""
 
 #: ../../BFZ.rst:753
@@ -1538,11 +1540,11 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:760
-msgid "Vestige of Emrakul"
+msgid ":mtgtip:`Vestige of Emrakul`"
 msgstr ""
 
 #: ../../BFZ.rst:770
-msgid "Vile Aggregate"
+msgid ":mtgtip:`Vile Aggregate`"
 msgstr ""
 
 #: ../../BFZ.rst:765
@@ -1552,7 +1554,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:778
-msgid "Akoum Firebird"
+msgid ":mtgtip:`Akoum Firebird`"
 msgstr ""
 
 #: ../../BFZ.rst:773
@@ -1571,7 +1573,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:784
-msgid "Akoum Hellkite"
+msgid ":mtgtip:`Akoum Hellkite`"
 msgstr ""
 
 #: ../../BFZ.rst:783
@@ -1582,7 +1584,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:788
-msgid "Akoum Stonewaker"
+msgid ":mtgtip:`Akoum Stonewaker`"
 msgstr ""
 
 #: ../../BFZ.rst:787
@@ -1594,7 +1596,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:792
-msgid "Belligerent Whiptail"
+msgid ":mtgtip:`Belligerent Whiptail`"
 msgstr ""
 
 #: ../../BFZ.rst:791
@@ -1604,7 +1606,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:798
-msgid "Boiling Earth"
+msgid ":mtgtip:`Boiling Earth`"
 msgstr ""
 
 #: ../../BFZ.rst:795
@@ -1619,7 +1621,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:802
-msgid "Chasm Guide"
+msgid ":mtgtip:`Chasm Guide`"
 msgstr ""
 
 #: ../../BFZ.rst:801
@@ -1629,7 +1631,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:806
-msgid "Dragonmaster Outcast"
+msgid ":mtgtip:`Dragonmaster Outcast`"
 msgstr ""
 
 #: ../../BFZ.rst:805
@@ -1639,7 +1641,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:810
-msgid "Firemantle Mage"
+msgid ":mtgtip:`Firemantle Mage`"
 msgstr ""
 
 #: ../../BFZ.rst:809
@@ -1650,7 +1652,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:816
-msgid "Goblin War Paint"
+msgid ":mtgtip:`Goblin War Paint`"
 msgstr ""
 
 #: ../../BFZ.rst:815
@@ -1658,7 +1660,7 @@ msgid "Enchanted creature gets +2/+2 and has haste."
 msgstr "Zauroczony stwór dostaje +2/+2 i ma pośpiech."
 
 #: ../../BFZ.rst:820
-msgid "Lavastep Raider"
+msgid ":mtgtip:`Lavastep Raider`"
 msgstr ""
 
 #: ../../BFZ.rst:819
@@ -1666,7 +1668,7 @@ msgid "|mana_2|\\ |mana_r|: Lavastep Raider gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../BFZ.rst:826
-msgid "Makindi Sliderunner"
+msgid ":mtgtip:`Makindi Sliderunner`"
 msgstr ""
 
 #: ../../BFZ.rst:825
@@ -1676,7 +1678,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:830
-msgid "Ondu Champion"
+msgid ":mtgtip:`Ondu Champion`"
 msgstr ""
 
 #: ../../BFZ.rst:829
@@ -1686,7 +1688,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:834
-msgid "Outnumber"
+msgid ":mtgtip:`Outnumber`"
 msgstr ""
 
 #: ../../BFZ.rst:833
@@ -1696,7 +1698,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:838
-msgid "Radiant Flames"
+msgid ":mtgtip:`Radiant Flames`"
 msgstr ""
 
 #: ../../BFZ.rst:837
@@ -1706,7 +1708,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:842
-msgid "Reckless Cohort"
+msgid ":mtgtip:`Reckless Cohort`"
 msgstr ""
 
 #: ../../BFZ.rst:841
@@ -1715,7 +1717,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:850
-msgid "Retreat to Valakut"
+msgid ":mtgtip:`Retreat to Valakut`"
 msgstr ""
 
 #: ../../BFZ.rst:847
@@ -1727,7 +1729,7 @@ msgid "Target creature can't block this turn."
 msgstr ""
 
 #: ../../BFZ.rst:854
-msgid "Rolling Thunder"
+msgid ":mtgtip:`Rolling Thunder`"
 msgstr ""
 
 #: ../../BFZ.rst:853
@@ -1737,11 +1739,11 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:858
-msgid "Shatterskull Recruit"
+msgid ":mtgtip:`Shatterskull Recruit`"
 msgstr ""
 
 #: ../../BFZ.rst:862
-msgid "Stonefury"
+msgid ":mtgtip:`Stonefury`"
 msgstr ""
 
 #: ../../BFZ.rst:861
@@ -1751,19 +1753,19 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:866
-msgid "Sure Strike"
+#, fuzzy
+msgid ":mtgtip:`Sure Strike`"
 msgstr "Sure Strike (Pewny cios)"
 
 #: ../../BFZ.rst:865
-msgid ""
-"Target creature gets +3/+0 and gains first strike until end of turn. (It "
-"deals combat damage before creatures without first strike.)"
+#, fuzzy
+msgid "Target creature gets +3/+0 and gains first strike until end of turn."
 msgstr ""
 "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios. (Zadaje "
 "obrażenia bojowe przez stworami bez pierwszego ciosu.)"
 
 #: ../../BFZ.rst:870
-msgid "Tunneling Geopede"
+msgid ":mtgtip:`Tunneling Geopede`"
 msgstr ""
 
 #: ../../BFZ.rst:869
@@ -1773,7 +1775,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:874
-msgid "Valakut Invoker"
+msgid ":mtgtip:`Valakut Invoker`"
 msgstr ""
 
 #: ../../BFZ.rst:873
@@ -1781,7 +1783,7 @@ msgid "|mana_8|: Valakut Invoker deals 3 damage to any target."
 msgstr ""
 
 #: ../../BFZ.rst:878
-msgid "Valakut Predator"
+msgid ":mtgtip:`Valakut Predator`"
 msgstr ""
 
 #: ../../BFZ.rst:877
@@ -1791,7 +1793,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:882
-msgid "Volcanic Upheaval"
+msgid ":mtgtip:`Volcanic Upheaval`"
 msgstr ""
 
 #: ../../BFZ.rst:881
@@ -1799,7 +1801,7 @@ msgid "Destroy target land."
 msgstr ""
 
 #: ../../BFZ.rst:886
-msgid "Zada, Hedron Grinder"
+msgid ":mtgtip:`Zada, Hedron Grinder`"
 msgstr ""
 
 #: ../../BFZ.rst:885
@@ -1810,7 +1812,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:892
-msgid "Blisterpod"
+msgid ":mtgtip:`Blisterpod`"
 msgstr ""
 
 #: ../../BFZ.rst:891
@@ -1820,7 +1822,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:898
-msgid "Brood Monitor"
+msgid ":mtgtip:`Brood Monitor`"
 msgstr ""
 
 #: ../../BFZ.rst:897
@@ -1831,7 +1833,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:904
-msgid "Call the Scions"
+msgid ":mtgtip:`Call the Scions`"
 msgstr ""
 
 #: ../../BFZ.rst:903
@@ -1841,7 +1843,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:910
-msgid "Eyeless Watcher"
+msgid ":mtgtip:`Eyeless Watcher`"
 msgstr ""
 
 #: ../../BFZ.rst:909
@@ -1852,7 +1854,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:918
-msgid "From Beyond"
+msgid ":mtgtip:`From Beyond`"
 msgstr ""
 
 #: ../../BFZ.rst:915
@@ -1871,7 +1873,7 @@ msgstr ""
 "umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../BFZ.rst:924
-msgid "Unnatural Aggression"
+msgid ":mtgtip:`Unnatural Aggression`"
 msgstr ""
 
 #: ../../BFZ.rst:923
@@ -1881,7 +1883,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:930
-msgid "Void Attendant"
+msgid ":mtgtip:`Void Attendant`"
 msgstr ""
 
 #: ../../BFZ.rst:929
@@ -1892,10 +1894,10 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:936
-msgid "Beastcaller Savant"
+msgid ":mtgtip:`Beastcaller Savant`"
 msgstr ""
 
-#: ../../BFZ.rst:933 ../../BFZ.rst:1097 ../../BFZ.rst:1179
+#: ../../BFZ.rst:933 ../../BFZ.rst:1095 ../../BFZ.rst:1177
 msgid "Haste"
 msgstr "Pośpiech"
 
@@ -1906,11 +1908,11 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:938
-msgid "Broodhunter Wurm"
+msgid ":mtgtip:`Broodhunter Wurm`"
 msgstr ""
 
 #: ../../BFZ.rst:946
-msgid "Earthen Arms"
+msgid ":mtgtip:`Earthen Arms`"
 msgstr ""
 
 #: ../../BFZ.rst:943
@@ -1925,7 +1927,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:950
-msgid "Giant Mantis"
+msgid ":mtgtip:`Giant Mantis`"
 msgstr ""
 
 #: ../../BFZ.rst:949
@@ -1933,7 +1935,7 @@ msgid "Reach (This creature can block creatures with flying.)"
 msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../BFZ.rst:956
-msgid "Greenwarden of Murasa"
+msgid ":mtgtip:`Greenwarden of Murasa`"
 msgstr ""
 
 #: ../../BFZ.rst:953
@@ -1949,7 +1951,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:960
-msgid "Infuse with the Elements"
+msgid ":mtgtip:`Infuse with the Elements`"
 msgstr ""
 
 #: ../../BFZ.rst:959
@@ -1960,7 +1962,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:966
-msgid "Jaddi Offshoot"
+msgid ":mtgtip:`Jaddi Offshoot`"
 msgstr ""
 
 #: ../../BFZ.rst:965
@@ -1970,7 +1972,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:970
-msgid "Lifespring Druid"
+msgid ":mtgtip:`Lifespring Druid`"
 msgstr ""
 
 #: ../../BFZ.rst:969
@@ -1978,7 +1980,7 @@ msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../BFZ.rst:974
-msgid "Murasa Ranger"
+msgid ":mtgtip:`Murasa Ranger`"
 msgstr ""
 
 #: ../../BFZ.rst:973
@@ -1989,7 +1991,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:978
-msgid "Natural Connection"
+msgid ":mtgtip:`Natural Connection`"
 msgstr ""
 
 #: ../../BFZ.rst:977
@@ -2001,7 +2003,7 @@ msgstr ""
 "polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../BFZ.rst:982
-msgid "Nissa's Renewal"
+msgid ":mtgtip:`Nissa's Renewal`"
 msgstr ""
 
 #: ../../BFZ.rst:981
@@ -2011,7 +2013,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:988
-msgid "Oran-Rief Hydra"
+msgid ":mtgtip:`Oran-Rief Hydra`"
 msgstr ""
 
 #: ../../BFZ.rst:987
@@ -2022,7 +2024,7 @@ msgid ""
 msgstr ""
 
 #: ../../BFZ.rst:992
-msgid "Oran-Rief Invoker"
+msgid ":mtgtip:`Oran-Rief Invoker`"
 msgstr ""
 
 #: ../../BFZ.rst:991
@@ -2030,310 +2032,306 @@ msgid ""
 "|mana_8|: Oran-Rief Invoker gets +5/+5 and gains trample until end of turn."
 msgstr ""
 
-#: ../../BFZ.rst:998
-msgid "Plated Crusher"
+#: ../../BFZ.rst:996
+msgid ":mtgtip:`Plated Crusher`"
 msgstr ""
 
-#: ../../BFZ.rst:997
-msgid ""
-"Hexproof (This creature can't be the target of spells or abilities your "
-"opponents control.)"
+#: ../../BFZ.rst:995
+msgid "Trample, hexproof"
 msgstr ""
-"Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
-"władane przez twoich przeciwników.)"
 
-#: ../../BFZ.rst:1002
-msgid "Plummet"
-msgstr "Plummet"
+#: ../../BFZ.rst:1000
+msgid ":mtgtip:`Plummet`"
+msgstr ""
 
-#: ../../BFZ.rst:1001
+#: ../../BFZ.rst:999
 msgid "Destroy target creature with flying."
 msgstr "Zniszcz wskazanego stwora z lataniem."
 
-#: ../../BFZ.rst:1006
-msgid "Reclaiming Vines"
+#: ../../BFZ.rst:1004
+msgid ":mtgtip:`Reclaiming Vines`"
 msgstr ""
 
-#: ../../BFZ.rst:1005
+#: ../../BFZ.rst:1003
 msgid "Destroy target artifact, enchantment, or land."
 msgstr ""
 
-#: ../../BFZ.rst:1014
-msgid "Retreat to Kazandu"
+#: ../../BFZ.rst:1012
+msgid ":mtgtip:`Retreat to Kazandu`"
 msgstr ""
 
-#: ../../BFZ.rst:1011
+#: ../../BFZ.rst:1009
 #, fuzzy
 msgid "Put a +1/+1 counter on target creature."
 msgstr ""
 "{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
 
-#: ../../BFZ.rst:1013
+#: ../../BFZ.rst:1011
 msgid "You gain 2 life."
 msgstr ""
 
-#: ../../BFZ.rst:1018
-msgid "Rot Shambler"
+#: ../../BFZ.rst:1016
+msgid ":mtgtip:`Rot Shambler`"
 msgstr ""
 
-#: ../../BFZ.rst:1017
+#: ../../BFZ.rst:1015
 msgid ""
 "Whenever another creature you control dies, put a +1/+1 counter on Rot "
 "Shambler."
 msgstr ""
 
-#: ../../BFZ.rst:1022
-msgid "Scythe Leopard"
+#: ../../BFZ.rst:1020
+msgid ":mtgtip:`Scythe Leopard`"
 msgstr ""
 
-#: ../../BFZ.rst:1021
+#: ../../BFZ.rst:1019
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, Scythe "
 "Leopard gets +1/+1 until end of turn."
 msgstr ""
 
-#: ../../BFZ.rst:1026
-msgid "Seek the Wilds"
+#: ../../BFZ.rst:1024
+msgid ":mtgtip:`Seek the Wilds`"
 msgstr ""
 
-#: ../../BFZ.rst:1025
+#: ../../BFZ.rst:1023
 msgid ""
 "Look at the top four cards of your library. You may reveal a creature or "
 "land card from among them and put it into your hand. Put the rest on the "
 "bottom of your library in any order."
 msgstr ""
 
-#: ../../BFZ.rst:1030
-msgid "Snapping Gnarlid"
+#: ../../BFZ.rst:1028
+msgid ":mtgtip:`Snapping Gnarlid`"
 msgstr ""
 
-#: ../../BFZ.rst:1029
+#: ../../BFZ.rst:1027
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, "
 "Snapping Gnarlid gets +1/+1 until end of turn."
 msgstr ""
 
-#: ../../BFZ.rst:1034
-msgid "Swell of Growth"
+#: ../../BFZ.rst:1032
+msgid ":mtgtip:`Swell of Growth`"
 msgstr ""
 
-#: ../../BFZ.rst:1033
+#: ../../BFZ.rst:1031
 msgid ""
 "Target creature gets +2/+2 until end of turn. You may put a land card from "
 "your hand onto the battlefield."
 msgstr ""
 
-#: ../../BFZ.rst:1038
-msgid "Sylvan Scrying"
+#: ../../BFZ.rst:1036
+msgid ":mtgtip:`Sylvan Scrying`"
 msgstr ""
 
-#: ../../BFZ.rst:1037
+#: ../../BFZ.rst:1035
 msgid ""
 "Search your library for a land card, reveal it, and put it into your hand. "
 "Then shuffle your library."
 msgstr ""
 
-#: ../../BFZ.rst:1042
-msgid "Tajuru Beastmaster"
+#: ../../BFZ.rst:1040
+msgid ":mtgtip:`Tajuru Beastmaster`"
 msgstr ""
 
-#: ../../BFZ.rst:1041
+#: ../../BFZ.rst:1039
 msgid ""
 "Rally — Whenever Tajuru Beastmaster or another Ally enters the battlefield "
 "under your control, creatures you control get +1/+1 until end of turn."
 msgstr ""
 
-#: ../../BFZ.rst:1046
-msgid "Tajuru Stalwart"
+#: ../../BFZ.rst:1044
+msgid ":mtgtip:`Tajuru Stalwart`"
 msgstr ""
 
-#: ../../BFZ.rst:1045
+#: ../../BFZ.rst:1043
 msgid ""
 "Converge — Tajuru Stalwart enters the battlefield with a +1/+1 counter on it "
 "for each color of mana spent to cast it."
 msgstr ""
 
-#: ../../BFZ.rst:1050
-msgid "Tajuru Warcaller"
+#: ../../BFZ.rst:1048
+msgid ":mtgtip:`Tajuru Warcaller`"
 msgstr ""
 
-#: ../../BFZ.rst:1049
+#: ../../BFZ.rst:1047
 msgid ""
 "Rally — Whenever Tajuru Warcaller or another Ally enters the battlefield "
 "under your control, creatures you control get +2/+2 until end of turn."
 msgstr ""
 
-#: ../../BFZ.rst:1054
-msgid "Territorial Baloth"
+#: ../../BFZ.rst:1052
+msgid ":mtgtip:`Territorial Baloth`"
 msgstr ""
 
-#: ../../BFZ.rst:1053
+#: ../../BFZ.rst:1051
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, "
 "Territorial Baloth gets +2/+2 until end of turn."
 msgstr ""
 
-#: ../../BFZ.rst:1060
-msgid "Undergrowth Champion"
+#: ../../BFZ.rst:1058
+msgid ":mtgtip:`Undergrowth Champion`"
 msgstr ""
 
-#: ../../BFZ.rst:1057
+#: ../../BFZ.rst:1055
 msgid ""
 "If damage would be dealt to Undergrowth Champion while it has a +1/+1 "
 "counter on it, prevent that damage and remove a +1/+1 counter from "
 "Undergrowth Champion."
 msgstr ""
 
-#: ../../BFZ.rst:1059
+#: ../../BFZ.rst:1057
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, put a "
 "+1/+1 counter on Undergrowth Champion."
 msgstr ""
 
-#: ../../BFZ.rst:1066
-msgid "Woodland Wanderer"
+#: ../../BFZ.rst:1064
+msgid ":mtgtip:`Woodland Wanderer`"
 msgstr ""
 
-#: ../../BFZ.rst:1063
+#: ../../BFZ.rst:1061
 msgid "Vigilance, trample"
 msgstr "Czujność, tratowanie"
 
-#: ../../BFZ.rst:1065
+#: ../../BFZ.rst:1063
 msgid ""
 "Converge — Woodland Wanderer enters the battlefield with a +1/+1 counter on "
 "it for each color of mana spent to cast it."
 msgstr ""
 
-#: ../../BFZ.rst:1074
-msgid "Brood Butcher"
+#: ../../BFZ.rst:1072
+msgid ":mtgtip:`Brood Butcher`"
 msgstr ""
 
-#: ../../BFZ.rst:1071
+#: ../../BFZ.rst:1069
 msgid ""
 "When Brood Butcher enters the battlefield, create a 1/1 colorless Eldrazi "
 "Scion creature token. It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
 
-#: ../../BFZ.rst:1073
+#: ../../BFZ.rst:1071
 msgid ""
 "|mana_b|\\ |mana_g|, Sacrifice a creature: Target creature gets -2/-2 until "
 "end of turn."
 msgstr ""
 
-#: ../../BFZ.rst:1084
-msgid "Brutal Expulsion"
+#: ../../BFZ.rst:1082
+msgid ":mtgtip:`Brutal Expulsion`"
 msgstr ""
 
-#: ../../BFZ.rst:1079
+#: ../../BFZ.rst:1077
 msgid "Choose one or both —"
 msgstr "Wybierz jedno lub oba —"
 
-#: ../../BFZ.rst:1081
+#: ../../BFZ.rst:1079
 msgid "Return target spell or creature to its owner's hand."
 msgstr ""
 
-#: ../../BFZ.rst:1083
+#: ../../BFZ.rst:1081
 msgid ""
 "Brutal Expulsion deals 2 damage to target creature or planeswalker. If that "
 "permanent would be put into a graveyard this turn, exile it instead."
 msgstr ""
 
-#: ../../BFZ.rst:1092
-msgid "Catacomb Sifter"
+#: ../../BFZ.rst:1090
+msgid ":mtgtip:`Catacomb Sifter`"
 msgstr ""
 
-#: ../../BFZ.rst:1089
+#: ../../BFZ.rst:1087
 msgid ""
 "When Catacomb Sifter enters the battlefield, create a 1/1 colorless Eldrazi "
 "Scion creature token. It has \"Sacrifice this creature: Add |colorless|.\""
 msgstr ""
 
-#: ../../BFZ.rst:1091
+#: ../../BFZ.rst:1089
 msgid ""
 "Whenever another creature you control dies, scry 1. (Look at the top card of "
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-#: ../../BFZ.rst:1100
-msgid "Dust Stalker"
+#: ../../BFZ.rst:1098
+msgid ":mtgtip:`Dust Stalker`"
 msgstr ""
 
-#: ../../BFZ.rst:1099
+#: ../../BFZ.rst:1097
 msgid ""
 "At the beginning of each end step, if you control no other colorless "
 "creatures, return Dust Stalker to its owner's hand."
 msgstr ""
 
-#: ../../BFZ.rst:1110
-msgid "Fathom Feeder"
+#: ../../BFZ.rst:1108
+msgid ":mtgtip:`Fathom Feeder`"
 msgstr ""
 
-#: ../../BFZ.rst:1105
+#: ../../BFZ.rst:1103
 msgid "Deathtouch"
 msgstr "Dotyk śmierci"
 
-#: ../../BFZ.rst:1109
+#: ../../BFZ.rst:1107
 msgid ""
 "|mana_3|\\ |mana_u|\\ |mana_b|: Draw a card. Each opponent exiles the top "
 "card of their library."
 msgstr ""
 
-#: ../../BFZ.rst:1116
-msgid "Forerunner of Slaughter"
+#: ../../BFZ.rst:1114
+msgid ":mtgtip:`Forerunner of Slaughter`"
 msgstr ""
 
-#: ../../BFZ.rst:1115
+#: ../../BFZ.rst:1113
 msgid "|mana_1|: Target colorless creature gains haste until end of turn."
 msgstr ""
 
-#: ../../BFZ.rst:1122
-msgid "Herald of Kozilek"
+#: ../../BFZ.rst:1120
+msgid ":mtgtip:`Herald of Kozilek`"
 msgstr ""
 
-#: ../../BFZ.rst:1121
+#: ../../BFZ.rst:1119
 msgid "Colorless spells you cast cost |mana_1| less to cast."
 msgstr ""
 
-#: ../../BFZ.rst:1128
-msgid "Sire of Stagnation"
+#: ../../BFZ.rst:1126
+msgid ":mtgtip:`Sire of Stagnation`"
 msgstr ""
 
-#: ../../BFZ.rst:1127
+#: ../../BFZ.rst:1125
 msgid ""
 "Whenever a land enters the battlefield under an opponent's control, that "
 "player exiles the top two cards of their library and you draw two cards."
 msgstr ""
 
-#: ../../BFZ.rst:1138
-msgid "Ulamog's Nullifier"
+#: ../../BFZ.rst:1136
+msgid ":mtgtip:`Ulamog's Nullifier`"
 msgstr ""
 
-#: ../../BFZ.rst:1133
+#: ../../BFZ.rst:1131
 msgid "Flash"
 msgstr "Błysk"
 
-#: ../../BFZ.rst:1137
+#: ../../BFZ.rst:1135
 msgid ""
 "When Ulamog's Nullifier enters the battlefield, you may put two cards your "
 "opponents own from exile into their owners' graveyards. If you do, counter "
 "target spell."
 msgstr ""
 
-#: ../../BFZ.rst:1144
-msgid "Angelic Captain"
+#: ../../BFZ.rst:1142
+msgid ":mtgtip:`Angelic Captain`"
 msgstr ""
 
-#: ../../BFZ.rst:1143
+#: ../../BFZ.rst:1141
 msgid ""
 "Whenever Angelic Captain attacks, it gets +1/+1 until end of turn for each "
 "other attacking Ally."
 msgstr ""
 
-#: ../../BFZ.rst:1148
-msgid "Bring to Light"
+#: ../../BFZ.rst:1146
+msgid ":mtgtip:`Bring to Light`"
 msgstr ""
 
-#: ../../BFZ.rst:1147
+#: ../../BFZ.rst:1145
 msgid ""
 "Converge — Search your library for a creature, instant, or sorcery card with "
 "converted mana cost less than or equal to the number of colors of mana spent "
@@ -2341,74 +2339,74 @@ msgid ""
 "cast that card without paying its mana cost."
 msgstr ""
 
-#: ../../BFZ.rst:1154
-msgid "Drana's Emissary"
+#: ../../BFZ.rst:1152
+msgid ":mtgtip:`Drana's Emissary`"
 msgstr ""
 
-#: ../../BFZ.rst:1153
+#: ../../BFZ.rst:1151
 msgid ""
 "At the beginning of your upkeep, each opponent loses 1 life and you gain 1 "
 "life."
 msgstr ""
 
-#: ../../BFZ.rst:1160
-msgid "Grove Rumbler"
+#: ../../BFZ.rst:1158
+msgid ":mtgtip:`Grove Rumbler`"
 msgstr ""
 
-#: ../../BFZ.rst:1159
+#: ../../BFZ.rst:1157
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, Grove "
 "Rumbler gets +2/+2 until end of turn."
 msgstr ""
 
-#: ../../BFZ.rst:1164
-msgid "Grovetender Druids"
+#: ../../BFZ.rst:1162
+msgid ":mtgtip:`Grovetender Druids`"
 msgstr ""
 
-#: ../../BFZ.rst:1163
+#: ../../BFZ.rst:1161
 msgid ""
 "Rally — Whenever Grovetender Druids or another Ally enters the battlefield "
 "under your control, you may pay |mana_1|. If you do, create a 1/1 green "
 "Plant creature token."
 msgstr ""
 
-#: ../../BFZ.rst:1172
-msgid "Kiora, Master of the Depths"
+#: ../../BFZ.rst:1170
+msgid ":mtgtip:`Kiora, Master of the Depths`"
 msgstr ""
 
-#: ../../BFZ.rst:1167
+#: ../../BFZ.rst:1165
 msgid "+1: Untap up to one target creature and up to one target land."
 msgstr ""
 
-#: ../../BFZ.rst:1169
+#: ../../BFZ.rst:1167
 msgid ""
 "−2: Reveal the top four cards of your library. You may put a creature card "
 "and/or a land card from among them into your hand. Put the rest into your "
 "graveyard."
 msgstr ""
 
-#: ../../BFZ.rst:1171
+#: ../../BFZ.rst:1169
 msgid ""
 "−8: You get an emblem with \"Whenever a creature enters the battlefield "
 "under your control, you may have it fight target creature.\" Then create "
 "three 8/8 blue Octopus creature tokens."
 msgstr ""
 
-#: ../../BFZ.rst:1176
-msgid "March from the Tomb"
+#: ../../BFZ.rst:1174
+msgid ":mtgtip:`March from the Tomb`"
 msgstr ""
 
-#: ../../BFZ.rst:1175
+#: ../../BFZ.rst:1173
 msgid ""
 "Return any number of target Ally creature cards with total converted mana "
 "cost 8 or less from your graveyard to the battlefield."
 msgstr ""
 
-#: ../../BFZ.rst:1182
-msgid "Munda, Ambush Leader"
+#: ../../BFZ.rst:1180
+msgid ":mtgtip:`Munda, Ambush Leader`"
 msgstr ""
 
-#: ../../BFZ.rst:1181
+#: ../../BFZ.rst:1179
 msgid ""
 "Rally — Whenever Munda, Ambush Leader or another Ally enters the battlefield "
 "under your control, you may look at the top four cards of your library. If "
@@ -2417,53 +2415,53 @@ msgid ""
 "order."
 msgstr ""
 
-#: ../../BFZ.rst:1186
-msgid "Noyan Dar, Roil Shaper"
+#: ../../BFZ.rst:1184
+msgid ":mtgtip:`Noyan Dar, Roil Shaper`"
 msgstr ""
 
-#: ../../BFZ.rst:1185
+#: ../../BFZ.rst:1183
 msgid ""
 "Whenever you cast an instant or sorcery spell, you may put three +1/+1 "
 "counters on target land you control. If you do, that land becomes a 0/0 "
 "Elemental creature with haste that's still a land."
 msgstr ""
 
-#: ../../BFZ.rst:1192
-msgid "Omnath, Locus of Rage"
+#: ../../BFZ.rst:1190
+msgid ":mtgtip:`Omnath, Locus of Rage`"
 msgstr ""
 
-#: ../../BFZ.rst:1189
+#: ../../BFZ.rst:1187
 msgid ""
 "Landfall — Whenever a land enters the battlefield under your control, create "
 "a 5/5 red and green Elemental creature token."
 msgstr ""
 
-#: ../../BFZ.rst:1191
+#: ../../BFZ.rst:1189
 msgid ""
 "Whenever Omnath, Locus of Rage or another Elemental you control dies, Omnath "
 "deals 3 damage to any target."
 msgstr ""
 
-#: ../../BFZ.rst:1196
-msgid "Resolute Blademaster"
+#: ../../BFZ.rst:1194
+msgid ":mtgtip:`Resolute Blademaster`"
 msgstr ""
 
-#: ../../BFZ.rst:1195
+#: ../../BFZ.rst:1193
 msgid ""
 "Rally — Whenever Resolute Blademaster or another Ally enters the battlefield "
 "under your control, creatures you control gain double strike until end of "
 "turn."
 msgstr ""
 
-#: ../../BFZ.rst:1202
-msgid "Roil Spout"
+#: ../../BFZ.rst:1200
+msgid ":mtgtip:`Roil Spout`"
 msgstr ""
 
-#: ../../BFZ.rst:1199
+#: ../../BFZ.rst:1197
 msgid "Put target creature on top of its owner's library."
 msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
 
-#: ../../BFZ.rst:1201
+#: ../../BFZ.rst:1199
 msgid ""
 "Awaken 4—|mana_4|\\ |mana_w|\\ |mana_u| (If you cast this spell for |mana_4|"
 "\\ |mana_w|\\ |mana_u|, also put four +1/+1 counters on target land you "
@@ -2471,67 +2469,67 @@ msgid ""
 "land.)"
 msgstr ""
 
-#: ../../BFZ.rst:1208
-msgid "Skyrider Elf"
+#: ../../BFZ.rst:1206
+msgid ":mtgtip:`Skyrider Elf`"
 msgstr ""
 
-#: ../../BFZ.rst:1207
+#: ../../BFZ.rst:1205
 msgid ""
 "Converge — Skyrider Elf enters the battlefield with a +1/+1 counter on it "
 "for each color of mana spent to cast it."
 msgstr ""
 
-#: ../../BFZ.rst:1214
-msgid "Veteran Warleader"
+#: ../../BFZ.rst:1212
+msgid ":mtgtip:`Veteran Warleader`"
 msgstr ""
 
-#: ../../BFZ.rst:1211
+#: ../../BFZ.rst:1209
 msgid ""
 "Veteran Warleader's power and toughness are each equal to the number of "
 "creatures you control."
 msgstr ""
 
-#: ../../BFZ.rst:1213
+#: ../../BFZ.rst:1211
 msgid ""
 "Tap another untapped Ally you control: Veteran Warleader gains your choice "
 "of first strike, vigilance, or trample until end of turn."
 msgstr ""
 
-#: ../../BFZ.rst:1218
-msgid "Aligned Hedron Network"
+#: ../../BFZ.rst:1216
+msgid ":mtgtip:`Aligned Hedron Network`"
 msgstr ""
 
-#: ../../BFZ.rst:1217
+#: ../../BFZ.rst:1215
 msgid ""
 "When Aligned Hedron Network enters the battlefield, exile all creatures with "
 "power 5 or greater until Aligned Hedron Network leaves the battlefield. "
 "(Those creatures return under their owners' control.)"
 msgstr ""
 
-#: ../../BFZ.rst:1224
-msgid "Hedron Archive"
+#: ../../BFZ.rst:1222
+msgid ":mtgtip:`Hedron Archive`"
 msgstr ""
 
-#: ../../BFZ.rst:1223
+#: ../../BFZ.rst:1221
 msgid "|mana_2|, |tap|, Sacrifice Hedron Archive: Draw two cards."
 msgstr ""
 
-#: ../../BFZ.rst:1232
-msgid "Hedron Blade"
+#: ../../BFZ.rst:1230
+msgid ":mtgtip:`Hedron Blade`"
 msgstr ""
 
-#: ../../BFZ.rst:1227
+#: ../../BFZ.rst:1225
 msgid "Equipped creature gets +1/+1."
 msgstr "Wyposażony stwór dostaje +1/+1."
 
-#: ../../BFZ.rst:1229
+#: ../../BFZ.rst:1227
 msgid ""
 "Whenever equipped creature becomes blocked by one or more colorless "
 "creatures, it gains deathtouch until end of turn. (Any amount of damage it "
 "deals to a creature is enough to destroy it.)"
 msgstr ""
 
-#: ../../BFZ.rst:1231
+#: ../../BFZ.rst:1229
 msgid ""
 "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip only "
 "as a sorcery.)"
@@ -2539,105 +2537,105 @@ msgstr ""
 "Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Wyposaż wyłącznie jako obrzęd.)"
 
-#: ../../BFZ.rst:1238
-msgid "Pathway Arrows"
+#: ../../BFZ.rst:1236
+msgid ":mtgtip:`Pathway Arrows`"
 msgstr ""
 
-#: ../../BFZ.rst:1235
+#: ../../BFZ.rst:1233
 msgid ""
 "Equipped creature has \"|mana_2|, |tap|: This creature deals 1 damage to "
 "target creature. If a colorless creature is dealt damage this way, tap it.\""
 msgstr ""
 
-#: ../../BFZ.rst:1237 ../../BFZ.rst:1249
+#: ../../BFZ.rst:1235 ../../BFZ.rst:1247
 msgid "Equip |mana_2|"
 msgstr "Wyposaż |mana_2|"
 
-#: ../../BFZ.rst:1244
-msgid "Pilgrim's Eye"
+#: ../../BFZ.rst:1242
+msgid ":mtgtip:`Pilgrim's Eye`"
 msgstr ""
 
-#: ../../BFZ.rst:1243
+#: ../../BFZ.rst:1241
 msgid ""
 "When Pilgrim's Eye enters the battlefield, you may search your library for a "
 "basic land card, reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 
-#: ../../BFZ.rst:1250
-msgid "Slab Hammer"
+#: ../../BFZ.rst:1248
+msgid ":mtgtip:`Slab Hammer`"
 msgstr ""
 
-#: ../../BFZ.rst:1247
+#: ../../BFZ.rst:1245
 msgid ""
 "Whenever equipped creature attacks, you may return a land you control to its "
 "owner's hand. If you do, the creature gets +2/+2 until end of turn."
 msgstr ""
 
-#: ../../BFZ.rst:1258
-msgid "Ally Encampment"
+#: ../../BFZ.rst:1256
+msgid ":mtgtip:`Ally Encampment`"
 msgstr ""
 
-#: ../../BFZ.rst:1253 ../../BFZ.rst:1261 ../../BFZ.rst:1267 ../../BFZ.rst:1273
-#: ../../BFZ.rst:1279 ../../BFZ.rst:1285 ../../BFZ.rst:1345 ../../BFZ.rst:1367
-#: ../../BFZ.rst:1387
+#: ../../BFZ.rst:1251 ../../BFZ.rst:1259 ../../BFZ.rst:1265 ../../BFZ.rst:1271
+#: ../../BFZ.rst:1277 ../../BFZ.rst:1283 ../../BFZ.rst:1343 ../../BFZ.rst:1365
+#: ../../BFZ.rst:1385
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Dostajesz |colorless|."
 
-#: ../../BFZ.rst:1255
+#: ../../BFZ.rst:1253
 msgid ""
 "|tap|: Add one mana of any color. Spend this mana only to cast an Ally spell."
 msgstr ""
 
-#: ../../BFZ.rst:1257
+#: ../../BFZ.rst:1255
 msgid ""
 "|mana_1|, |tap|, Sacrifice Ally Encampment: Return target Ally you control "
 "to its owner's hand."
 msgstr ""
 
-#: ../../BFZ.rst:1264
-msgid "Blighted Cataract"
+#: ../../BFZ.rst:1262
+msgid ":mtgtip:`Blighted Cataract`"
 msgstr ""
 
-#: ../../BFZ.rst:1263
+#: ../../BFZ.rst:1261
 msgid ""
 "|mana_5|\\ |mana_u|, |tap|, Sacrifice Blighted Cataract: Draw two cards."
 msgstr ""
 
-#: ../../BFZ.rst:1270
-msgid "Blighted Fen"
+#: ../../BFZ.rst:1268
+msgid ":mtgtip:`Blighted Fen`"
 msgstr ""
 
-#: ../../BFZ.rst:1269
+#: ../../BFZ.rst:1267
 msgid ""
 "|mana_4|\\ |mana_b|, |tap|, Sacrifice Blighted Fen: Target opponent "
 "sacrifices a creature."
 msgstr ""
 
-#: ../../BFZ.rst:1276
-msgid "Blighted Gorge"
+#: ../../BFZ.rst:1274
+msgid ":mtgtip:`Blighted Gorge`"
 msgstr ""
 
-#: ../../BFZ.rst:1275
+#: ../../BFZ.rst:1273
 msgid ""
 "|mana_4|\\ |mana_r|, |tap|, Sacrifice Blighted Gorge: It deals 2 damage to "
 "any target."
 msgstr ""
 
-#: ../../BFZ.rst:1282
-msgid "Blighted Steppe"
+#: ../../BFZ.rst:1280
+msgid ":mtgtip:`Blighted Steppe`"
 msgstr ""
 
-#: ../../BFZ.rst:1281
+#: ../../BFZ.rst:1279
 msgid ""
 "|mana_3|\\ |mana_w|, |tap|, Sacrifice Blighted Steppe: You gain 2 life for "
 "each creature you control."
 msgstr ""
 
-#: ../../BFZ.rst:1288
-msgid "Blighted Woodland"
+#: ../../BFZ.rst:1286
+msgid ":mtgtip:`Blighted Woodland`"
 msgstr ""
 
-#: ../../BFZ.rst:1287
+#: ../../BFZ.rst:1285
 #, fuzzy
 msgid ""
 "|mana_3|\\ |mana_g|, |tap|, Sacrifice Blighted Woodland: Search your library "
@@ -2647,39 +2645,40 @@ msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
-#: ../../BFZ.rst:1294
-msgid "Canopy Vista"
+#: ../../BFZ.rst:1292
+msgid ":mtgtip:`Canopy Vista`"
 msgstr ""
 
-#: ../../BFZ.rst:1291
+#: ../../BFZ.rst:1289
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
 msgstr "(|tap|: Dostajesz |mana_g| lub |mana_w|.)"
 
-#: ../../BFZ.rst:1293
+#: ../../BFZ.rst:1291
 msgid ""
 "Canopy Vista enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
 
-#: ../../BFZ.rst:1300
-msgid "Cinder Glade"
+#: ../../BFZ.rst:1298
+msgid ":mtgtip:`Cinder Glade`"
 msgstr ""
 
-#: ../../BFZ.rst:1297
+#: ../../BFZ.rst:1295
 msgid "(|tap|: Add |mana_r| or |mana_g|.)"
 msgstr "(|tap|: Dostajesz |mana_r| lub |mana_g|.)"
 
-#: ../../BFZ.rst:1299
+#: ../../BFZ.rst:1297
 msgid ""
 "Cinder Glade enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
 
-#: ../../BFZ.rst:1304
-msgid "Evolving Wilds"
+#: ../../BFZ.rst:1302
+#, fuzzy
+msgid ":mtgtip:`Evolving Wilds`"
 msgstr "Evolving Wilds"
 
-#: ../../BFZ.rst:1303
+#: ../../BFZ.rst:1301
 msgid ""
 "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land card, "
 "put it onto the battlefield tapped, then shuffle your library."
@@ -2687,15 +2686,15 @@ msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
-#: ../../BFZ.rst:1312
-msgid "Fertile Thicket"
+#: ../../BFZ.rst:1310
+msgid ":mtgtip:`Fertile Thicket`"
 msgstr ""
 
-#: ../../BFZ.rst:1307
+#: ../../BFZ.rst:1305
 msgid "Fertile Thicket enters the battlefield tapped."
 msgstr ""
 
-#: ../../BFZ.rst:1309
+#: ../../BFZ.rst:1307
 msgid ""
 "When Fertile Thicket enters the battlefield, you may look at the top five "
 "cards of your library. If you do, reveal up to one basic land card from "
@@ -2703,83 +2702,83 @@ msgid ""
 "bottom in any order."
 msgstr ""
 
-#: ../../BFZ.rst:1311
+#: ../../BFZ.rst:1309
 msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Dostajesz |mana_g|."
 
-#: ../../BFZ.rst:1320
-msgid "Looming Spires"
+#: ../../BFZ.rst:1318
+msgid ":mtgtip:`Looming Spires`"
 msgstr ""
 
-#: ../../BFZ.rst:1315
+#: ../../BFZ.rst:1313
 msgid "Looming Spires enters the battlefield tapped."
 msgstr ""
 
-#: ../../BFZ.rst:1317
+#: ../../BFZ.rst:1315
 msgid ""
 "When Looming Spires enters the battlefield, target creature gets +1/+1 and "
 "gains first strike until end of turn."
 msgstr ""
 
-#: ../../BFZ.rst:1319
+#: ../../BFZ.rst:1317
 msgid "|tap|: Add |mana_r|."
 msgstr "|tap|: Dostajesz |mana_r|."
 
-#: ../../BFZ.rst:1328
-msgid "Lumbering Falls"
+#: ../../BFZ.rst:1326
+msgid ":mtgtip:`Lumbering Falls`"
 msgstr ""
 
-#: ../../BFZ.rst:1323
+#: ../../BFZ.rst:1321
 msgid "Lumbering Falls enters the battlefield tapped."
 msgstr ""
 
-#: ../../BFZ.rst:1325
+#: ../../BFZ.rst:1323
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
-#: ../../BFZ.rst:1327
+#: ../../BFZ.rst:1325
 msgid ""
 "|mana_2|\\ |mana_g|\\ |mana_u|: Lumbering Falls becomes a 3/3 green and blue "
 "Elemental creature with hexproof until end of turn. It's still a land."
 msgstr ""
 
-#: ../../BFZ.rst:1336
-msgid "Mortuary Mire"
+#: ../../BFZ.rst:1334
+msgid ":mtgtip:`Mortuary Mire`"
 msgstr ""
 
-#: ../../BFZ.rst:1331
+#: ../../BFZ.rst:1329
 msgid "Mortuary Mire enters the battlefield tapped."
 msgstr ""
 
-#: ../../BFZ.rst:1333
+#: ../../BFZ.rst:1331
 msgid ""
 "When Mortuary Mire enters the battlefield, you may put target creature card "
 "from your graveyard on top of your library."
 msgstr ""
 
-#: ../../BFZ.rst:1335
+#: ../../BFZ.rst:1333
 msgid "|tap|: Add |mana_b|."
 msgstr "|tap|: Dostajesz |mana_b|."
 
-#: ../../BFZ.rst:1342
-msgid "Prairie Stream"
+#: ../../BFZ.rst:1340
+msgid ":mtgtip:`Prairie Stream`"
 msgstr ""
 
-#: ../../BFZ.rst:1339
+#: ../../BFZ.rst:1337
 msgid "(|tap|: Add |mana_w| or |mana_u|.)"
 msgstr "(|tap|: Dostajesz |mana_w| lub |mana_u|.)"
 
-#: ../../BFZ.rst:1341
+#: ../../BFZ.rst:1339
 msgid ""
 "Prairie Stream enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
 
-#: ../../BFZ.rst:1348
-msgid "Sanctum of Ugin"
+#: ../../BFZ.rst:1346
+msgid ":mtgtip:`Sanctum of Ugin`"
 msgstr ""
 
-#: ../../BFZ.rst:1347
+#: ../../BFZ.rst:1345
 msgid ""
 "Whenever you cast a colorless spell with converted mana cost 7 or greater, "
 "you may sacrifice Sanctum of Ugin. If you do, search your library for a "
@@ -2787,135 +2786,177 @@ msgid ""
 "library."
 msgstr ""
 
-#: ../../BFZ.rst:1356
-msgid "Sandstone Bridge"
+#: ../../BFZ.rst:1354
+msgid ":mtgtip:`Sandstone Bridge`"
 msgstr ""
 
-#: ../../BFZ.rst:1351
+#: ../../BFZ.rst:1349
 msgid "Sandstone Bridge enters the battlefield tapped."
 msgstr ""
 
-#: ../../BFZ.rst:1353
+#: ../../BFZ.rst:1351
 msgid ""
 "When Sandstone Bridge enters the battlefield, target creature gets +1/+1 and "
 "gains vigilance until end of turn."
 msgstr ""
 
-#: ../../BFZ.rst:1355
+#: ../../BFZ.rst:1353
 msgid "|tap|: Add |mana_w|."
 msgstr "|tap|: Dostajesz |mana_w|."
 
-#: ../../BFZ.rst:1364
-msgid "Shambling Vent"
+#: ../../BFZ.rst:1362
+msgid ":mtgtip:`Shambling Vent`"
 msgstr ""
 
-#: ../../BFZ.rst:1359
+#: ../../BFZ.rst:1357
 msgid "Shambling Vent enters the battlefield tapped."
 msgstr ""
 
-#: ../../BFZ.rst:1361
+#: ../../BFZ.rst:1359
 msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
-#: ../../BFZ.rst:1363
+#: ../../BFZ.rst:1361
 msgid ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Shambling Vent becomes a 2/3 white and black "
 "Elemental creature with lifelink until end of turn. It's still a land."
 msgstr ""
 
-#: ../../BFZ.rst:1370
-msgid "Shrine of the Forsaken Gods"
+#: ../../BFZ.rst:1368
+msgid ":mtgtip:`Shrine of the Forsaken Gods`"
 msgstr ""
 
-#: ../../BFZ.rst:1369
+#: ../../BFZ.rst:1367
 msgid ""
 "|tap|: Add |colorless|\\ |colorless|. Spend this mana only to cast colorless "
 "spells. Activate this ability only if you control seven or more lands."
 msgstr ""
 
-#: ../../BFZ.rst:1378
-msgid "Skyline Cascade"
+#: ../../BFZ.rst:1376
+msgid ":mtgtip:`Skyline Cascade`"
 msgstr ""
 
-#: ../../BFZ.rst:1373
+#: ../../BFZ.rst:1371
 msgid "Skyline Cascade enters the battlefield tapped."
 msgstr ""
 
-#: ../../BFZ.rst:1375
+#: ../../BFZ.rst:1373
 msgid ""
 "When Skyline Cascade enters the battlefield, target creature an opponent "
 "controls doesn't untap during its controller's next untap step."
 msgstr ""
 
-#: ../../BFZ.rst:1377
+#: ../../BFZ.rst:1375
 msgid "|tap|: Add |mana_u|."
 msgstr "|tap|: Dostajesz |mana_u|."
 
-#: ../../BFZ.rst:1384
-msgid "Smoldering Marsh"
+#: ../../BFZ.rst:1382
+msgid ":mtgtip:`Smoldering Marsh`"
 msgstr ""
 
-#: ../../BFZ.rst:1381
+#: ../../BFZ.rst:1379
 msgid "(|tap|: Add |mana_b| or |mana_r|.)"
 msgstr "(|tap|: Dostajesz |mana_b| lub |mana_r|.)"
 
-#: ../../BFZ.rst:1383
+#: ../../BFZ.rst:1381
 msgid ""
 "Smoldering Marsh enters the battlefield tapped unless you control two or "
 "more basic lands."
 msgstr ""
 
-#: ../../BFZ.rst:1390
-msgid "Spawning Bed"
+#: ../../BFZ.rst:1388
+msgid ":mtgtip:`Spawning Bed`"
 msgstr ""
 
-#: ../../BFZ.rst:1389
+#: ../../BFZ.rst:1387
 msgid ""
 "|mana_6|, |tap|, Sacrifice Spawning Bed: Create three 1/1 colorless Eldrazi "
 "Scion creature tokens. They have \"Sacrifice this creature: Add |colorless|."
 "\""
 msgstr ""
 
-#: ../../BFZ.rst:1396
-msgid "Sunken Hollow"
+#: ../../BFZ.rst:1394
+msgid ":mtgtip:`Sunken Hollow`"
 msgstr ""
 
-#: ../../BFZ.rst:1393
+#: ../../BFZ.rst:1391
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
 msgstr "(|tap|: Dostajesz |mana_u| lub |mana_b|.)"
 
-#: ../../BFZ.rst:1395
+#: ../../BFZ.rst:1393
 msgid ""
 "Sunken Hollow enters the battlefield tapped unless you control two or more "
 "basic lands."
 msgstr ""
 
-#: ../../BFZ.rst:1398 ../../BFZ.rst:1402 ../../BFZ.rst:1406 ../../BFZ.rst:1410
-#: ../../BFZ.rst:1414 ../../BFZ.rst:1418 ../../BFZ.rst:1422 ../../BFZ.rst:1426
-#: ../../BFZ.rst:1430 ../../BFZ.rst:1434
-msgid "Plains"
-msgstr "Plains (Równina)"
+#: ../../BFZ.rst:1398
+msgid ":mtgtip:`Plains`"
+msgstr ""
 
-#: ../../BFZ.rst:1438 ../../BFZ.rst:1442 ../../BFZ.rst:1446 ../../BFZ.rst:1450
-#: ../../BFZ.rst:1454 ../../BFZ.rst:1458 ../../BFZ.rst:1462 ../../BFZ.rst:1466
-#: ../../BFZ.rst:1470 ../../BFZ.rst:1474
-msgid "Island"
-msgstr "Island (Wyspa)"
+#: ../../BFZ.rst:1397
+#, fuzzy
+msgid "(|tap|: Add |mana_w|.)"
+msgstr "|tap|: Dostajesz |mana_w|."
 
-#: ../../BFZ.rst:1478 ../../BFZ.rst:1482 ../../BFZ.rst:1486 ../../BFZ.rst:1490
-#: ../../BFZ.rst:1494 ../../BFZ.rst:1498 ../../BFZ.rst:1502 ../../BFZ.rst:1506
-#: ../../BFZ.rst:1510 ../../BFZ.rst:1514
-msgid "Swamp"
-msgstr "Swamp (Bagno)"
+#: ../../BFZ.rst:1402
+msgid ":mtgtip:`Island`"
+msgstr ""
 
-#: ../../BFZ.rst:1518 ../../BFZ.rst:1522 ../../BFZ.rst:1526 ../../BFZ.rst:1530
-#: ../../BFZ.rst:1534 ../../BFZ.rst:1538 ../../BFZ.rst:1542 ../../BFZ.rst:1546
-#: ../../BFZ.rst:1550 ../../BFZ.rst:1554
-msgid "Mountain"
+#: ../../BFZ.rst:1401
+#, fuzzy
+msgid "(|tap|: Add |mana_u|.)"
+msgstr "|tap|: Dostajesz |mana_u|."
+
+#: ../../BFZ.rst:1406
+msgid ":mtgtip:`Swamp`"
+msgstr ""
+
+#: ../../BFZ.rst:1405
+#, fuzzy
+msgid "(|tap|: Add |mana_b|.)"
+msgstr "|tap|: Dostajesz |mana_b|."
+
+#: ../../BFZ.rst:1410
+#, fuzzy
+msgid ":mtgtip:`Mountain`"
 msgstr "Mountain (Góra)"
 
-#: ../../BFZ.rst:1558 ../../BFZ.rst:1562 ../../BFZ.rst:1566 ../../BFZ.rst:1570
-#: ../../BFZ.rst:1574 ../../BFZ.rst:1578 ../../BFZ.rst:1582 ../../BFZ.rst:1586
-#: ../../BFZ.rst:1590 ../../BFZ.rst:1594
-msgid "Forest"
-msgstr "Forest (Las)"
+#: ../../BFZ.rst:1409
+#, fuzzy
+msgid "(|tap|: Add |mana_r|.)"
+msgstr "|tap|: Dostajesz |mana_r|."
+
+#: ../../BFZ.rst:1413
+msgid ":mtgtip:`Forest`"
+msgstr ""
+
+#: ../../BFZ.rst:1413
+#, fuzzy
+msgid "(|tap|: Add |mana_g|.)"
+msgstr "|tap|: Dostajesz |mana_g|."
+
+#, fuzzy
+#~ msgid "Dispel"
+#~ msgstr "Dispel"
+
+#~ msgid ""
+#~ "Hexproof (This creature can't be the target of spells or abilities your "
+#~ "opponents control.)"
+#~ msgstr ""
+#~ "Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
+#~ "władane przez twoich przeciwników.)"
+
+#~ msgid "Plummet"
+#~ msgstr "Plummet"
+
+#~ msgid "Plains"
+#~ msgstr "Plains (Równina)"
+
+#~ msgid "Island"
+#~ msgstr "Island (Wyspa)"
+
+#~ msgid "Swamp"
+#~ msgstr "Swamp (Bagno)"
+
+#~ msgid "Forest"
+#~ msgstr "Forest (Las)"
