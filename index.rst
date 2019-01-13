@@ -1,12 +1,12 @@
-.. MTG-pl documentation master file, created by
-   sphinx-quickstart2 on Mon Dec 17 03:56:41 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 **************************************
  Tłumaczenie gry Magic: The Gathering
 **************************************
 
+Ninieszy serwis ma na celu pomoc osobom, które chcą zacząć grać
+w Magic: the Gathering, ale nie znają angielskiego na tyle dobrze,
+by samodzielnie tłumaczyć karty i zasady gry.
+
+Jeśli uważasz, że projekt ten jest przydatny, możesz `wesprzeć autora na Patronite <https://patronite.pl/mtgpl>`_.
 
 Instrukcje
 ==========
@@ -117,6 +117,7 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 * Bartek Pękala - tłumacz
 * Zofia Wąchocka - tłumacz, filolog
 * Roman Cupek - nadzorca merytoryczny
+
 
 
 .. toctree::
