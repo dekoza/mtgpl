@@ -11,6 +11,7 @@ Spis zmian
     * Przywrócenie możliwości podglądu kart przy najechaniu myszą na nazwę.
     * Dodanie do :doc:`glosariusza<glossary>` linków do zasad w serwisie yawgatog.com
     * Drobna reorganizacja strony startowej.
+    * Dodanie opisu formatu :doc:`Handicap<handicap>`.
 
 2019-01-06
     * Dodane tłumaczenia przyszłych kart z Ravnica Allegiance (dzięki API Scryfall.com)

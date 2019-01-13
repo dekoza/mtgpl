@@ -95,6 +95,7 @@ Warto przeczytać
 
 * :doc:`Uzasadnienie tłumaczeń<rationale>`
 * :doc:`Nowe sposoby gry<game_variants>`
+* :doc:`Format Handicap<handicap>`
 * :doc:`Polskie lądy i żetony<polish_cards>`
 
 
