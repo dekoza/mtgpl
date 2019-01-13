@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: 2019-01-13 15:26+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/soi/pl/>\n"
@@ -21,12 +21,13 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../SOI.rst:5
-msgid "Shadows over Innistrad"
+#, fuzzy
+msgid ":mtgexp:`SOI` Shadows over Innistrad"
 msgstr "Shadows over Innistrad (Cienie nad Innistradem)"
 
 #: ../../SOI.rst:10
 #, fuzzy
-msgid "Always Watching"
+msgid ":mtgtip:`Always Watching`"
 msgstr "Always Watching"
 
 #: ../../SOI.rst:9
@@ -35,16 +36,16 @@ msgstr "Nie-żetonowe stwory pod twoim władaniem dostają +1/+1 i mają czujno�
 
 #: ../../SOI.rst:16
 #, fuzzy
-msgid "Angel of Deliverance"
+msgid ":mtgtip:`Angel of Deliverance`"
 msgstr "Angel of Deliverance"
 
-#: ../../SOI.rst:13 ../../SOI.rst:25 ../../SOI.rst:41 ../../SOI.rst:63
+#: ../../SOI.rst:13 ../../SOI.rst:25 ../../SOI.rst:31 ../../SOI.rst:63
 #: ../../SOI.rst:95 ../../SOI.rst:107 ../../SOI.rst:213 ../../SOI.rst:223
-#: ../../SOI.rst:257 ../../SOI.rst:283 ../../SOI.rst:289 ../../SOI.rst:345
+#: ../../SOI.rst:257 ../../SOI.rst:283 ../../SOI.rst:287 ../../SOI.rst:345
 #: ../../SOI.rst:371 ../../SOI.rst:435 ../../SOI.rst:443 ../../SOI.rst:471
 #: ../../SOI.rst:495 ../../SOI.rst:525 ../../SOI.rst:533 ../../SOI.rst:623
-#: ../../SOI.rst:691 ../../SOI.rst:721 ../../SOI.rst:753 ../../SOI.rst:913
-#: ../../SOI.rst:1477 ../../SOI.rst:1487 ../../SOI.rst:1609
+#: ../../SOI.rst:687 ../../SOI.rst:721 ../../SOI.rst:753 ../../SOI.rst:913
+#: ../../SOI.rst:1477 ../../SOI.rst:1487 ../../SOI.rst:1603
 msgid "Flying"
 msgstr "Latanie"
 
@@ -60,7 +61,7 @@ msgstr ""
 
 #: ../../SOI.rst:22
 #, fuzzy
-msgid "Angelic Purge"
+msgid ":mtgtip:`Angelic Purge`"
 msgstr "Angelic Purge"
 
 #: ../../SOI.rst:19
@@ -73,7 +74,7 @@ msgstr "Wygnaj wskazany artefakt, stwora lub urok."
 
 #: ../../SOI.rst:28
 #, fuzzy
-msgid "Apothecary Geist"
+msgid ":mtgtip:`Apothecary Geist`"
 msgstr "Apothecary Geist"
 
 #: ../../SOI.rst:27
@@ -84,20 +85,30 @@ msgstr ""
 "Kiedy ta karta wejdzie na pole walki, jeśli władasz innym Duchem, zyskujesz "
 "3 życia."
 
-#: ../../SOI.rst:38
+#: ../../SOI.rst:34
+msgid ":mtgtip:`Avacyn, the Purifier`"
+msgstr ""
+
+#: ../../SOI.rst:33
+msgid ""
+"When this creature transforms into Avacyn, the Purifier, it deals 3 damage "
+"to each other creature and each opponent."
+msgstr ""
+
+#: ../../SOI.rst:44
 #, fuzzy
-msgid "Archangel Avacyn"
+msgid ":mtgtip:`Archangel Avacyn`"
 msgstr "Archangel Avacyn"
 
-#: ../../SOI.rst:31 ../../SOI.rst:469
+#: ../../SOI.rst:37 ../../SOI.rst:469
 msgid "Flash"
 msgstr "Błysk"
 
-#: ../../SOI.rst:33
+#: ../../SOI.rst:39
 msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
-#: ../../SOI.rst:35
+#: ../../SOI.rst:41
 msgid ""
 "When Archangel Avacyn enters the battlefield, creatures you control gain "
 "indestructible until end of turn."
@@ -105,48 +116,38 @@ msgstr ""
 "Kiedy ta karta wchodzi na pole walki, stwory pod twoim władaniem zyskują "
 "niezniszczalność do końca tury."
 
-#: ../../SOI.rst:37
+#: ../../SOI.rst:43
 msgid ""
 "When a non-Angel creature you control dies, transform Archangel Avacyn at "
 "the beginning of the next upkeep."
 msgstr ""
 
-#: ../../SOI.rst:44
-msgid "Avacyn, the Purifier"
-msgstr ""
-
-#: ../../SOI.rst:43
-msgid ""
-"When this creature transforms into Avacyn, the Purifier, it deals 3 damage "
-"to each other creature and each opponent."
-msgstr ""
-
 #: ../../SOI.rst:48
-msgid "Avacynian Missionaries"
+msgid ":mtgtip:`Lunarch Inquisitors`"
 msgstr ""
 
 #: ../../SOI.rst:47
-msgid ""
-"At the beginning of your end step, if Avacynian Missionaries is equipped, "
-"transform it."
-msgstr ""
-
-#: ../../SOI.rst:52
-msgid "Lunarch Inquisitors"
-msgstr ""
-
-#: ../../SOI.rst:51
 msgid ""
 "When this creature transforms into Lunarch Inquisitors, you may exile "
 "another target creature until Lunarch Inquisitors leaves the battlefield."
 msgstr ""
 
+#: ../../SOI.rst:52
+msgid ":mtgtip:`Avacynian Missionaries`"
+msgstr ""
+
+#: ../../SOI.rst:51
+msgid ""
+"At the beginning of your end step, if Avacynian Missionaries is equipped, "
+"transform it."
+msgstr ""
+
 #: ../../SOI.rst:60
-msgid "Bound by Moonsilver"
+msgid ":mtgtip:`Bound by Moonsilver`"
 msgstr ""
 
 #: ../../SOI.rst:55 ../../SOI.rst:123 ../../SOI.rst:141 ../../SOI.rst:379
-#: ../../SOI.rst:499 ../../SOI.rst:629 ../../SOI.rst:1051 ../../SOI.rst:1065
+#: ../../SOI.rst:499 ../../SOI.rst:629 ../../SOI.rst:1051 ../../SOI.rst:1069
 #: ../../SOI.rst:1079 ../../SOI.rst:1203 ../../SOI.rst:1463
 msgid "Enchant creature"
 msgstr "Zaurocz stwora"
@@ -163,7 +164,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:66
-msgid "Bygone Bishop"
+msgid ":mtgtip:`Bygone Bishop`"
 msgstr ""
 
 #: ../../SOI.rst:65
@@ -174,7 +175,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:70
-msgid "Cathar's Companion"
+msgid ":mtgtip:`Cathar's Companion`"
 msgstr ""
 
 #: ../../SOI.rst:69
@@ -185,7 +186,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:74
-msgid "Chaplain's Blessing"
+msgid ":mtgtip:`Chaplain's Blessing`"
 msgstr ""
 
 #: ../../SOI.rst:73
@@ -193,7 +194,7 @@ msgid "You gain 5 life."
 msgstr ""
 
 #: ../../SOI.rst:78
-msgid "Dauntless Cathar"
+msgid ":mtgtip:`Dauntless Cathar`"
 msgstr ""
 
 #: ../../SOI.rst:77
@@ -204,7 +205,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:82
-msgid "Declaration in Stone"
+msgid ":mtgtip:`Declaration in Stone`"
 msgstr ""
 
 #: ../../SOI.rst:81
@@ -215,7 +216,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:88
-msgid "Descend upon the Sinful"
+msgid ":mtgtip:`Descend upon the Sinful`"
 msgstr ""
 
 #: ../../SOI.rst:85
@@ -229,11 +230,11 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:90
-msgid "Devilthorn Fox"
+msgid ":mtgtip:`Devilthorn Fox`"
 msgstr ""
 
 #: ../../SOI.rst:100
-msgid "Drogskol Cavalry"
+msgid ":mtgtip:`Drogskol Cavalry`"
 msgstr ""
 
 #: ../../SOI.rst:97
@@ -248,7 +249,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:104
-msgid "Eerie Interlude"
+msgid ":mtgtip:`Eerie Interlude`"
 msgstr ""
 
 #: ../../SOI.rst:103
@@ -259,7 +260,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:110
-msgid "Emissary of the Sleepless"
+msgid ":mtgtip:`Emissary of the Sleepless`"
 msgstr ""
 
 #: ../../SOI.rst:109
@@ -269,7 +270,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:114
-msgid "Ethereal Guidance"
+msgid ":mtgtip:`Ethereal Guidance`"
 msgstr ""
 
 #: ../../SOI.rst:113
@@ -277,7 +278,7 @@ msgid "Creatures you control get +2/+1 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../SOI.rst:120
-msgid "Expose Evil"
+msgid ":mtgtip:`Expose Evil`"
 msgstr ""
 
 #: ../../SOI.rst:117
@@ -292,7 +293,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:128
-msgid "Gryff's Boon"
+msgid ":mtgtip:`Gryff's Boon`"
 msgstr ""
 
 #: ../../SOI.rst:125
@@ -306,34 +307,34 @@ msgid ""
 "you could cast a sorcery."
 msgstr ""
 
-#: ../../SOI.rst:132
-msgid "Hanweir Militia Captain"
+#: ../../SOI.rst:134
+msgid ":mtgtip:`Westvale Cult Leader`"
 msgstr ""
 
 #: ../../SOI.rst:131
-msgid ""
-"At the beginning of your upkeep, if you control four or more creatures, "
-"transform Hanweir Militia Captain."
-msgstr ""
-
-#: ../../SOI.rst:138
-msgid "Westvale Cult Leader"
-msgstr ""
-
-#: ../../SOI.rst:135
 msgid ""
 "Westvale Cult Leader's power and toughness are each equal to the number of "
 "creatures you control."
 msgstr ""
 
-#: ../../SOI.rst:137
+#: ../../SOI.rst:133
 msgid ""
 "At the beginning of your end step, create a 1/1 white and black Human Cleric "
 "creature token."
 msgstr ""
 
+#: ../../SOI.rst:138
+msgid ":mtgtip:`Hanweir Militia Captain`"
+msgstr ""
+
+#: ../../SOI.rst:137
+msgid ""
+"At the beginning of your upkeep, if you control four or more creatures, "
+"transform Hanweir Militia Captain."
+msgstr ""
+
 #: ../../SOI.rst:146
-msgid "Hope Against Hope"
+msgid ":mtgtip:`Hope Against Hope`"
 msgstr ""
 
 #: ../../SOI.rst:143
@@ -345,7 +346,7 @@ msgid "As long as enchanted creature is a Human, it has first strike."
 msgstr ""
 
 #: ../../SOI.rst:152
-msgid "Humble the Brute"
+msgid ":mtgtip:`Humble the Brute`"
 msgstr ""
 
 #: ../../SOI.rst:149
@@ -353,7 +354,7 @@ msgid "Destroy target creature with power 4 or greater."
 msgstr ""
 
 #: ../../SOI.rst:156
-msgid "Inquisitor's Ox"
+msgid ":mtgtip:`Inquisitor's Ox`"
 msgstr ""
 
 #: ../../SOI.rst:155
@@ -363,7 +364,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:160
-msgid "Inspiring Captain"
+msgid ":mtgtip:`Inspiring Captain`"
 msgstr ""
 
 #: ../../SOI.rst:159
@@ -373,7 +374,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:164
-msgid "Militant Inquisitor"
+msgid ":mtgtip:`Militant Inquisitor`"
 msgstr ""
 
 #: ../../SOI.rst:163
@@ -381,7 +382,7 @@ msgid "Militant Inquisitor gets +1/+0 for each Equipment you control."
 msgstr ""
 
 #: ../../SOI.rst:168
-msgid "Moorland Drifter"
+msgid ":mtgtip:`Moorland Drifter`"
 msgstr ""
 
 #: ../../SOI.rst:167
@@ -391,7 +392,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:174
-msgid "Nahiri's Machinations"
+msgid ":mtgtip:`Nahiri's Machinations`"
 msgstr ""
 
 #: ../../SOI.rst:171
@@ -407,7 +408,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:180
-msgid "Nearheath Chaplain"
+msgid ":mtgtip:`Nearheath Chaplain`"
 msgstr ""
 
 #: ../../SOI.rst:177 ../../SOI.rst:699
@@ -422,7 +423,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:184
-msgid "Not Forgotten"
+msgid ":mtgtip:`Not Forgotten`"
 msgstr ""
 
 #: ../../SOI.rst:183
@@ -432,7 +433,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:188
-msgid "Odric, Lunarch Marshal"
+msgid ":mtgtip:`Odric, Lunarch Marshal`"
 msgstr ""
 
 #: ../../SOI.rst:187
@@ -444,7 +445,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:192
-msgid "Open the Armory"
+msgid ":mtgtip:`Open the Armory`"
 msgstr ""
 
 #: ../../SOI.rst:191
@@ -454,7 +455,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:196
-msgid "Paranoid Parish-Blade"
+msgid ":mtgtip:`Paranoid Parish-Blade`"
 msgstr ""
 
 #: ../../SOI.rst:195
@@ -463,32 +464,32 @@ msgid ""
 "there are four or more card types among cards in your graveyard."
 msgstr ""
 
-#: ../../SOI.rst:202
-msgid "Pious Evangel"
+#: ../../SOI.rst:200
+msgid ":mtgtip:`Wayward Disciple`"
 msgstr ""
 
 #: ../../SOI.rst:199
-msgid ""
-"Whenever Pious Evangel or another creature enters the battlefield under your "
-"control, you gain 1 life."
-msgstr ""
-
-#: ../../SOI.rst:201
-msgid "|mana_2|, |tap|, Sacrifice another permanent: Transform Pious Evangel."
-msgstr ""
-
-#: ../../SOI.rst:206
-msgid "Wayward Disciple"
-msgstr ""
-
-#: ../../SOI.rst:205
 msgid ""
 "Whenever Wayward Disciple or another creature you control dies, target "
 "opponent loses 1 life and you gain 1 life."
 msgstr ""
 
+#: ../../SOI.rst:206
+msgid ":mtgtip:`Pious Evangel`"
+msgstr ""
+
+#: ../../SOI.rst:203
+msgid ""
+"Whenever Pious Evangel or another creature enters the battlefield under your "
+"control, you gain 1 life."
+msgstr ""
+
+#: ../../SOI.rst:205
+msgid "|mana_2|, |tap|, Sacrifice another permanent: Transform Pious Evangel."
+msgstr ""
+
 #: ../../SOI.rst:210
-msgid "Puncturing Light"
+msgid ":mtgtip:`Puncturing Light`"
 msgstr ""
 
 #: ../../SOI.rst:209
@@ -496,7 +497,7 @@ msgid "Destroy target attacking or blocking creature with power 3 or less."
 msgstr ""
 
 #: ../../SOI.rst:216
-msgid "Reaper of Flight Moonsilver"
+msgid ":mtgtip:`Reaper of Flight Moonsilver`"
 msgstr ""
 
 #: ../../SOI.rst:215
@@ -507,7 +508,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:220
-msgid "Silverstrike"
+msgid ":mtgtip:`Silverstrike`"
 msgstr ""
 
 #: ../../SOI.rst:219
@@ -515,7 +516,7 @@ msgid "Destroy target attacking creature. You gain 3 life."
 msgstr ""
 
 #: ../../SOI.rst:226
-msgid "Spectral Shepherd"
+msgid ":mtgtip:`Spectral Shepherd`"
 msgstr ""
 
 #: ../../SOI.rst:225
@@ -527,7 +528,7 @@ msgstr ""
 "Wyposażaj wyłącznie jako obrzęd.)"
 
 #: ../../SOI.rst:230
-msgid "Stern Constable"
+msgid ":mtgtip:`Stern Constable`"
 msgstr ""
 
 #: ../../SOI.rst:229
@@ -535,7 +536,7 @@ msgid "|tap|, Discard a card: Tap target creature."
 msgstr ""
 
 #: ../../SOI.rst:234
-msgid "Strength of Arms"
+msgid ":mtgtip:`Strength of Arms`"
 msgstr ""
 
 #: ../../SOI.rst:233
@@ -545,7 +546,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:240
-msgid "Survive the Night"
+msgid ":mtgtip:`Survive the Night`"
 msgstr ""
 
 #: ../../SOI.rst:237
@@ -555,7 +556,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:244
-msgid "Tenacity"
+msgid ":mtgtip:`Tenacity`"
 msgstr ""
 
 #: ../../SOI.rst:243
@@ -565,7 +566,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:250
-msgid "Thalia's Lieutenant"
+msgid ":mtgtip:`Thalia's Lieutenant`"
 msgstr ""
 
 #: ../../SOI.rst:247
@@ -581,7 +582,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:254
-msgid "Thraben Inspector"
+msgid ":mtgtip:`Thraben Inspector`"
 msgstr ""
 
 #: ../../SOI.rst:253
@@ -592,7 +593,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:262
-msgid "Topplegeist"
+msgid ":mtgtip:`Topplegeist`"
 msgstr ""
 
 #: ../../SOI.rst:259
@@ -608,29 +609,29 @@ msgid ""
 "player controls."
 msgstr ""
 
-#: ../../SOI.rst:266
-msgid "Town Gossipmonger"
+#: ../../SOI.rst:268
+msgid ":mtgtip:`Incited Rabble`"
 msgstr ""
 
 #: ../../SOI.rst:265
+msgid "Incited Rabble attacks each combat if able."
+msgstr ""
+
+#: ../../SOI.rst:267
+msgid "|mana_2|: Incited Rabble gets +1/+0 until end of turn."
+msgstr ""
+
+#: ../../SOI.rst:272
+msgid ":mtgtip:`Town Gossipmonger`"
+msgstr ""
+
+#: ../../SOI.rst:271
 msgid ""
 "|tap|, Tap an untapped creature you control: Transform Town Gossipmonger."
 msgstr ""
 
-#: ../../SOI.rst:272
-msgid "Incited Rabble"
-msgstr ""
-
-#: ../../SOI.rst:269
-msgid "Incited Rabble attacks each combat if able."
-msgstr ""
-
-#: ../../SOI.rst:271
-msgid "|mana_2|: Incited Rabble gets +1/+0 until end of turn."
-msgstr ""
-
 #: ../../SOI.rst:276
-msgid "Unruly Mob"
+msgid ":mtgtip:`Unruly Mob`"
 msgstr ""
 
 #: ../../SOI.rst:275
@@ -640,7 +641,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:280
-msgid "Vessel of Ephemera"
+msgid ":mtgtip:`Vessel of Ephemera`"
 msgstr ""
 
 #: ../../SOI.rst:279
@@ -649,22 +650,22 @@ msgid ""
 "Spirit creature tokens with flying."
 msgstr ""
 
-#: ../../SOI.rst:286
-msgid "Aberrant Researcher"
+#: ../../SOI.rst:284
+msgid ":mtgtip:`Perfected Form`"
 msgstr ""
 
-#: ../../SOI.rst:285
+#: ../../SOI.rst:290
+msgid ":mtgtip:`Aberrant Researcher`"
+msgstr ""
+
+#: ../../SOI.rst:289
 msgid ""
 "At the beginning of your upkeep, put the top card of your library into your "
 "graveyard. If it's an instant or sorcery card, transform Aberrant Researcher."
 msgstr ""
 
-#: ../../SOI.rst:290
-msgid "Perfected Form"
-msgstr ""
-
 #: ../../SOI.rst:296
-msgid "Broken Concentration"
+msgid ":mtgtip:`Broken Concentration`"
 msgstr ""
 
 #: ../../SOI.rst:293 ../../SOI.rst:307
@@ -679,7 +680,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:300
-msgid "Catalog"
+msgid ":mtgtip:`Catalog`"
 msgstr ""
 
 #: ../../SOI.rst:299
@@ -687,7 +688,7 @@ msgid "Draw two cards, then discard a card."
 msgstr ""
 
 #: ../../SOI.rst:304
-msgid "Compelling Deterrence"
+msgid ":mtgtip:`Compelling Deterrence`"
 msgstr ""
 
 #: ../../SOI.rst:303
@@ -697,7 +698,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:310
-msgid "Confirm Suspicions"
+msgid ":mtgtip:`Confirm Suspicions`"
 msgstr ""
 
 #: ../../SOI.rst:309
@@ -706,19 +707,11 @@ msgid ""
 "token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
-#: ../../SOI.rst:314
-msgid "Daring Sleuth"
+#: ../../SOI.rst:316
+msgid ":mtgtip:`Bearer of Overwhelming Truths`"
 msgstr ""
 
-#: ../../SOI.rst:313
-msgid "When you sacrifice a Clue, transform Daring Sleuth."
-msgstr ""
-
-#: ../../SOI.rst:320
-msgid "Bearer of Overwhelming Truths"
-msgstr ""
-
-#: ../../SOI.rst:317 ../../SOI.rst:445 ../../SOI.rst:1041
+#: ../../SOI.rst:313 ../../SOI.rst:445 ../../SOI.rst:1041
 msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
@@ -726,15 +719,23 @@ msgstr ""
 "Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
 "do końca tury.)"
 
-#: ../../SOI.rst:319
+#: ../../SOI.rst:315
 msgid ""
 "Whenever Bearer of Overwhelming Truths deals combat damage to a player, "
 "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
+#: ../../SOI.rst:320
+msgid ":mtgtip:`Daring Sleuth`"
+msgstr ""
+
+#: ../../SOI.rst:319
+msgid "When you sacrifice a Clue, transform Daring Sleuth."
+msgstr ""
+
 #: ../../SOI.rst:324
-msgid "Deny Existence"
+msgid ":mtgtip:`Deny Existence`"
 msgstr ""
 
 #: ../../SOI.rst:323
@@ -744,7 +745,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:328
-msgid "Drownyard Explorers"
+msgid ":mtgtip:`Drownyard Explorers`"
 msgstr ""
 
 #: ../../SOI.rst:327
@@ -755,7 +756,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:334
-msgid "Drunau Corpse Trawler"
+msgid ":mtgtip:`Drunau Corpse Trawler`"
 msgstr ""
 
 #: ../../SOI.rst:331
@@ -769,7 +770,7 @@ msgid "|mana_2|\\ |mana_b|: Target Zombie gains deathtouch until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:338
-msgid "Engulf the Shore"
+msgid ":mtgtip:`Engulf the Shore`"
 msgstr ""
 
 #: ../../SOI.rst:337
@@ -779,7 +780,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:342
-msgid "Epiphany at the Drownyard"
+msgid ":mtgtip:`Epiphany at the Drownyard`"
 msgstr ""
 
 #: ../../SOI.rst:341
@@ -790,7 +791,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:348
-msgid "Erdwal Illuminator"
+msgid ":mtgtip:`Erdwal Illuminator`"
 msgstr ""
 
 #: ../../SOI.rst:347
@@ -800,7 +801,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:352
-msgid "Essence Flux"
+msgid ":mtgtip:`Essence Flux`"
 msgstr ""
 
 #: ../../SOI.rst:351
@@ -810,7 +811,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:358
-msgid "Fleeting Memories"
+msgid ":mtgtip:`Fleeting Memories`"
 msgstr ""
 
 #: ../../SOI.rst:355
@@ -827,10 +828,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:364
-msgid "Forgotten Creation"
+msgid ":mtgtip:`Forgotten Creation`"
 msgstr ""
 
-#: ../../SOI.rst:361 ../../SOI.rst:367 ../../SOI.rst:513 ../../SOI.rst:553
+#: ../../SOI.rst:361 ../../SOI.rst:367 ../../SOI.rst:507 ../../SOI.rst:557
 #: ../../SOI.rst:657 ../../SOI.rst:761 ../../SOI.rst:773
 msgid "Skulk (This creature can't be blocked by creatures with greater power.)"
 msgstr ""
@@ -842,11 +843,11 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:368
-msgid "Furtive Homunculus"
+msgid ":mtgtip:`Furtive Homunculus`"
 msgstr ""
 
 #: ../../SOI.rst:376
-msgid "Geralf's Masterpiece"
+msgid ":mtgtip:`Geralf's Masterpiece`"
 msgstr ""
 
 #: ../../SOI.rst:373
@@ -860,7 +861,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:384
-msgid "Ghostly Wings"
+msgid ":mtgtip:`Ghostly Wings`"
 msgstr ""
 
 #: ../../SOI.rst:381
@@ -872,7 +873,7 @@ msgid "Discard a card: Return enchanted creature to its owner's hand."
 msgstr ""
 
 #: ../../SOI.rst:390
-msgid "Gone Missing"
+msgid ":mtgtip:`Gone Missing`"
 msgstr ""
 
 #: ../../SOI.rst:387
@@ -880,7 +881,7 @@ msgid "Put target permanent on top of its owner's library."
 msgstr ""
 
 #: ../../SOI.rst:396
-msgid "Invasive Surgery"
+msgid ":mtgtip:`Invasive Surgery`"
 msgstr ""
 
 #: ../../SOI.rst:393
@@ -896,7 +897,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:404
-msgid "Jace, Unraveler of Secrets"
+msgid ":mtgtip:`Jace, Unraveler of Secrets`"
 msgstr ""
 
 #: ../../SOI.rst:399
@@ -914,7 +915,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:410
-msgid "Jace's Scrutiny"
+msgid ":mtgtip:`Jace's Scrutiny`"
 msgstr ""
 
 #: ../../SOI.rst:407
@@ -922,7 +923,7 @@ msgid "Target creature gets -4/-0 until end of turn."
 msgstr "Wskazany stwór dostaje -4/-0 do końca tury."
 
 #: ../../SOI.rst:416
-msgid "Just the Wind"
+msgid ":mtgtip:`Just the Wind`"
 msgstr ""
 
 #: ../../SOI.rst:413
@@ -936,7 +937,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:420
-msgid "Lamplighter of Selhoff"
+msgid ":mtgtip:`Lamplighter of Selhoff`"
 msgstr ""
 
 #: ../../SOI.rst:419
@@ -946,7 +947,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:426
-msgid "Manic Scribe"
+msgid ":mtgtip:`Manic Scribe`"
 msgstr ""
 
 #: ../../SOI.rst:423
@@ -963,7 +964,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:432
-msgid "Nagging Thoughts"
+msgid ":mtgtip:`Nagging Thoughts`"
 msgstr ""
 
 #: ../../SOI.rst:429
@@ -980,7 +981,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:440
-msgid "Nephalia Moondrakes"
+msgid ":mtgtip:`Nephalia Moondrakes`"
 msgstr ""
 
 #: ../../SOI.rst:437
@@ -996,11 +997,11 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:446
-msgid "Niblis of Dusk"
+msgid ":mtgtip:`Niblis of Dusk`"
 msgstr ""
 
 #: ../../SOI.rst:452
-msgid "Ongoing Investigation"
+msgid ":mtgtip:`Ongoing Investigation`"
 msgstr ""
 
 #: ../../SOI.rst:449
@@ -1017,7 +1018,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:456
-msgid "Pieces of the Puzzle"
+msgid ":mtgtip:`Pieces of the Puzzle`"
 msgstr ""
 
 #: ../../SOI.rst:455
@@ -1028,7 +1029,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:460
-msgid "Pore Over the Pages"
+msgid ":mtgtip:`Pore Over the Pages`"
 msgstr ""
 
 #: ../../SOI.rst:459
@@ -1036,7 +1037,7 @@ msgid "Draw three cards, untap up to two lands, then discard a card."
 msgstr ""
 
 #: ../../SOI.rst:466
-msgid "Press for Answers"
+msgid ":mtgtip:`Press for Answers`"
 msgstr ""
 
 #: ../../SOI.rst:463
@@ -1048,7 +1049,7 @@ msgstr ""
 "odkręcania swojego władcy."
 
 #: ../../SOI.rst:476
-msgid "Rattlechains"
+msgid ":mtgtip:`Rattlechains`"
 msgstr ""
 
 #: ../../SOI.rst:473
@@ -1062,7 +1063,7 @@ msgid "You may cast Spirit spells as though they had flash."
 msgstr ""
 
 #: ../../SOI.rst:480
-msgid "Reckless Scholar"
+msgid ":mtgtip:`Reckless Scholar`"
 msgstr ""
 
 #: ../../SOI.rst:479
@@ -1070,7 +1071,7 @@ msgid "|tap|: Target player draws a card, then discards a card."
 msgstr ""
 
 #: ../../SOI.rst:484
-msgid "Rise from the Tides"
+msgid ":mtgtip:`Rise from the Tides`"
 msgstr ""
 
 #: ../../SOI.rst:483
@@ -1080,11 +1081,11 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:486
-msgid "Seagraf Skaab"
+msgid ":mtgtip:`Seagraf Skaab`"
 msgstr ""
 
 #: ../../SOI.rst:492
-msgid "Silburlind Snapper"
+msgid ":mtgtip:`Silburlind Snapper`"
 msgstr ""
 
 #: ../../SOI.rst:491
@@ -1094,11 +1095,11 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:496
-msgid "Silent Observer"
+msgid ":mtgtip:`Silent Observer`"
 msgstr ""
 
 #: ../../SOI.rst:504
-msgid "Sleep Paralysis"
+msgid ":mtgtip:`Sleep Paralysis`"
 msgstr ""
 
 #: ../../SOI.rst:501
@@ -1110,34 +1111,34 @@ msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../SOI.rst:510
-msgid "Startled Awake"
+msgid ":mtgtip:`Persistent Nightmare`"
 msgstr ""
 
-#: ../../SOI.rst:507
+#: ../../SOI.rst:509
+msgid ""
+"When Persistent Nightmare deals combat damage to a player, return it to its "
+"owner's hand."
+msgstr ""
+
+#: ../../SOI.rst:516
+msgid ":mtgtip:`Startled Awake`"
+msgstr ""
+
+#: ../../SOI.rst:513
 msgid ""
 "Target opponent puts the top thirteen cards of their library into their "
 "graveyard."
 msgstr ""
 
-#: ../../SOI.rst:509
+#: ../../SOI.rst:515
 msgid ""
 "|mana_3|\\ |mana_u|\\ |mana_u|: Put Startled Awake from your graveyard onto "
 "the battlefield transformed. Activate this ability only any time you could "
 "cast a sorcery."
 msgstr ""
 
-#: ../../SOI.rst:516
-msgid "Persistent Nightmare"
-msgstr ""
-
-#: ../../SOI.rst:515
-msgid ""
-"When Persistent Nightmare deals combat damage to a player, return it to its "
-"owner's hand."
-msgstr ""
-
 #: ../../SOI.rst:522
-msgid "Stitched Mangler"
+msgid ":mtgtip:`Stitched Mangler`"
 msgstr ""
 
 #: ../../SOI.rst:519
@@ -1152,7 +1153,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:528
-msgid "Stitchwing Skaab"
+msgid ":mtgtip:`Stitchwing Skaab`"
 msgstr ""
 
 #: ../../SOI.rst:527
@@ -1162,43 +1163,43 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:534
-msgid "Stormrider Spirit"
+msgid ":mtgtip:`Stormrider Spirit`"
 msgstr ""
 
 #: ../../SOI.rst:531 ../../SOI.rst:1077 ../../SOI.rst:1251 ../../SOI.rst:1305
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
-#: ../../SOI.rst:542
-msgid "Thing in the Ice"
+#: ../../SOI.rst:538
+msgid ":mtgtip:`Awoken Horror`"
 msgstr ""
 
-#: ../../SOI.rst:537 ../../SOI.rst:1603 ../../SOI.rst:1625
-msgid "Defender"
-msgstr "Obronność"
-
-#: ../../SOI.rst:539
-msgid "Thing in the Ice enters the battlefield with four ice counters on it."
-msgstr ""
-
-#: ../../SOI.rst:541
-msgid ""
-"Whenever you cast an instant or sorcery spell, remove an ice counter from "
-"Thing in the Ice. Then if it has no ice counters on it, transform it."
-msgstr ""
-
-#: ../../SOI.rst:546
-msgid "Awoken Horror"
-msgstr ""
-
-#: ../../SOI.rst:545
+#: ../../SOI.rst:537
 msgid ""
 "When this creature transforms into Awoken Horror, return all non-Horror "
 "creatures to their owners' hands."
 msgstr ""
 
+#: ../../SOI.rst:546
+msgid ":mtgtip:`Thing in the Ice`"
+msgstr ""
+
+#: ../../SOI.rst:541 ../../SOI.rst:1607 ../../SOI.rst:1625
+msgid "Defender"
+msgstr "Obronność"
+
+#: ../../SOI.rst:543
+msgid "Thing in the Ice enters the battlefield with four ice counters on it."
+msgstr ""
+
+#: ../../SOI.rst:545
+msgid ""
+"Whenever you cast an instant or sorcery spell, remove an ice counter from "
+"Thing in the Ice. Then if it has no ice counters on it, transform it."
+msgstr ""
+
 #: ../../SOI.rst:550
-msgid "Trail of Evidence"
+msgid ":mtgtip:`Trail of Evidence`"
 msgstr ""
 
 #: ../../SOI.rst:549
@@ -1208,24 +1209,24 @@ msgid ""
 "a card.\")"
 msgstr ""
 
-#: ../../SOI.rst:556
-msgid "Uninvited Geist"
+#: ../../SOI.rst:554
+msgid ":mtgtip:`Unimpeded Trespasser`"
 msgstr ""
 
-#: ../../SOI.rst:555
-msgid "When Uninvited Geist deals combat damage to a player, transform it."
-msgstr ""
-
-#: ../../SOI.rst:560
-msgid "Unimpeded Trespasser"
-msgstr ""
-
-#: ../../SOI.rst:559
+#: ../../SOI.rst:553
 msgid "Unimpeded Trespasser can't be blocked."
 msgstr ""
 
+#: ../../SOI.rst:560
+msgid ":mtgtip:`Uninvited Geist`"
+msgstr ""
+
+#: ../../SOI.rst:559
+msgid "When Uninvited Geist deals combat damage to a player, transform it."
+msgstr ""
+
 #: ../../SOI.rst:564
-msgid "Vessel of Paramnesia"
+msgid ":mtgtip:`Vessel of Paramnesia`"
 msgstr ""
 
 #: ../../SOI.rst:563
@@ -1235,7 +1236,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:570
-msgid "Welcome to the Fold"
+msgid ":mtgtip:`Welcome to the Fold`"
 msgstr ""
 
 #: ../../SOI.rst:567
@@ -1252,43 +1253,43 @@ msgid ""
 "its toughness is X or less."
 msgstr ""
 
-#: ../../SOI.rst:576
-msgid "Accursed Witch"
+#: ../../SOI.rst:578
+msgid ":mtgtip:`Infectious Curse`"
 msgstr ""
 
 #: ../../SOI.rst:573
-msgid ""
-"Spells your opponents cast that target Accursed Witch cost |mana_1| less to "
-"cast."
-msgstr ""
-
-#: ../../SOI.rst:575
-msgid ""
-"When Accursed Witch dies, return it to the battlefield transformed under "
-"your control attached to target opponent."
-msgstr ""
-
-#: ../../SOI.rst:584
-msgid "Infectious Curse"
-msgstr ""
-
-#: ../../SOI.rst:579
 msgid "Enchant player"
 msgstr "Zaurocz gracza"
 
-#: ../../SOI.rst:581
+#: ../../SOI.rst:575
 msgid ""
 "Spells you cast that target enchanted player cost |mana_1| less to cast."
 msgstr ""
 
-#: ../../SOI.rst:583
+#: ../../SOI.rst:577
 msgid ""
 "At the beginning of enchanted player's upkeep, that player loses 1 life and "
 "you gain 1 life."
 msgstr ""
 
+#: ../../SOI.rst:584
+msgid ":mtgtip:`Accursed Witch`"
+msgstr ""
+
+#: ../../SOI.rst:581
+msgid ""
+"Spells your opponents cast that target Accursed Witch cost |mana_1| less to "
+"cast."
+msgstr ""
+
+#: ../../SOI.rst:583
+msgid ""
+"When Accursed Witch dies, return it to the battlefield transformed under "
+"your control attached to target opponent."
+msgstr ""
+
 #: ../../SOI.rst:590
-msgid "Alms of the Vein"
+msgid ":mtgtip:`Alms of the Vein`"
 msgstr ""
 
 #: ../../SOI.rst:587
@@ -1302,7 +1303,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:596
-msgid "Asylum Visitor"
+msgid ":mtgtip:`Asylum Visitor`"
 msgstr ""
 
 #: ../../SOI.rst:593
@@ -1319,7 +1320,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:602
-msgid "Behind the Scenes"
+msgid ":mtgtip:`Behind the Scenes`"
 msgstr ""
 
 #: ../../SOI.rst:599
@@ -1334,7 +1335,7 @@ msgid "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../SOI.rst:606
-msgid "Behold the Beyond"
+msgid ":mtgtip:`Behold the Beyond`"
 msgstr ""
 
 #: ../../SOI.rst:605
@@ -1344,7 +1345,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:612
-msgid "Biting Rain"
+msgid ":mtgtip:`Biting Rain`"
 msgstr ""
 
 #: ../../SOI.rst:609
@@ -1359,7 +1360,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:616
-msgid "Call the Bloodline"
+msgid ":mtgtip:`Call the Bloodline`"
 msgstr ""
 
 #: ../../SOI.rst:615
@@ -1369,7 +1370,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:620
-msgid "Creeping Dread"
+msgid ":mtgtip:`Creeping Dread`"
 msgstr ""
 
 #: ../../SOI.rst:619
@@ -1380,7 +1381,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:626
-msgid "Crow of Dark Tidings"
+msgid ":mtgtip:`Crow of Dark Tidings`"
 msgstr ""
 
 #: ../../SOI.rst:625
@@ -1390,7 +1391,8 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:632
-msgid "Dead Weight"
+#, fuzzy
+msgid ":mtgtip:`Dead Weight`"
 msgstr "Dead Weight"
 
 #: ../../SOI.rst:631
@@ -1398,7 +1400,7 @@ msgid "Enchanted creature gets -2/-2."
 msgstr "Zauroczony stwór dostaje -2/-2."
 
 #: ../../SOI.rst:638
-msgid "Diregraf Colossus"
+msgid ":mtgtip:`Diregraf Colossus`"
 msgstr ""
 
 #: ../../SOI.rst:635
@@ -1413,34 +1415,34 @@ msgid ""
 "token."
 msgstr ""
 
-#: ../../SOI.rst:642
-msgid "Elusive Tormentor"
+#: ../../SOI.rst:646
+msgid ":mtgtip:`Insidious Mist`"
 msgstr ""
 
 #: ../../SOI.rst:641
-msgid "|mana_1|, Discard a card: Transform Elusive Tormentor."
-msgstr ""
-
-#: ../../SOI.rst:650
-msgid "Insidious Mist"
-msgstr ""
-
-#: ../../SOI.rst:645
 msgid "Hexproof, indestructible"
 msgstr ""
 
-#: ../../SOI.rst:647
+#: ../../SOI.rst:643
 msgid "Insidious Mist can't block and can't be blocked."
 msgstr ""
 
-#: ../../SOI.rst:649
+#: ../../SOI.rst:645
 msgid ""
 "Whenever Insidious Mist attacks and isn't blocked, you may pay |mana_2|\\ |"
 "mana_b|. If you do, transform it."
 msgstr ""
 
+#: ../../SOI.rst:650
+msgid ":mtgtip:`Elusive Tormentor`"
+msgstr ""
+
+#: ../../SOI.rst:649
+msgid "|mana_1|, Discard a card: Transform Elusive Tormentor."
+msgstr ""
+
 #: ../../SOI.rst:654
-msgid "Ever After"
+msgid ":mtgtip:`Ever After`"
 msgstr ""
 
 #: ../../SOI.rst:653
@@ -1451,7 +1453,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:660
-msgid "Farbog Revenant"
+msgid ":mtgtip:`Farbog Revenant`"
 msgstr ""
 
 #: ../../SOI.rst:659
@@ -1461,7 +1463,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:666
-msgid "From Under the Floorboards"
+msgid ":mtgtip:`From Under the Floorboards`"
 msgstr ""
 
 #: ../../SOI.rst:663
@@ -1479,7 +1481,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:670
-msgid "Ghoulcaller's Accomplice"
+msgid ":mtgtip:`Ghoulcaller's Accomplice`"
 msgstr ""
 
 #: ../../SOI.rst:669
@@ -1490,7 +1492,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:674
-msgid "Ghoulsteed"
+msgid ":mtgtip:`Ghoulsteed`"
 msgstr ""
 
 #: ../../SOI.rst:673
@@ -1500,7 +1502,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:680
-msgid "Gisa's Bidding"
+msgid ":mtgtip:`Gisa's Bidding`"
 msgstr ""
 
 #: ../../SOI.rst:677
@@ -1511,7 +1513,7 @@ msgstr ""
 "2/2."
 
 #: ../../SOI.rst:684
-msgid "Grotesque Mutation"
+msgid ":mtgtip:`Grotesque Mutation`"
 msgstr ""
 
 #: ../../SOI.rst:683
@@ -1521,21 +1523,21 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:688
-msgid "Heir of Falkenrath"
+msgid ":mtgtip:`Heir to the Night`"
 msgstr ""
 
-#: ../../SOI.rst:687
+#: ../../SOI.rst:692
+msgid ":mtgtip:`Heir of Falkenrath`"
+msgstr ""
+
+#: ../../SOI.rst:691
 msgid ""
 "Discard a card: Transform Heir of Falkenrath. Activate this ability only "
 "once each turn."
 msgstr ""
 
-#: ../../SOI.rst:692
-msgid "Heir to the Night"
-msgstr ""
-
 #: ../../SOI.rst:696
-msgid "Hound of the Farbogs"
+msgid ":mtgtip:`Hound of the Farbogs`"
 msgstr ""
 
 #: ../../SOI.rst:695
@@ -1546,7 +1548,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:702
-msgid "Indulgent Aristocrat"
+msgid ":mtgtip:`Indulgent Aristocrat`"
 msgstr ""
 
 #: ../../SOI.rst:701
@@ -1556,10 +1558,20 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:706
-msgid "Kindly Stranger"
+msgid ":mtgtip:`Demon-Possessed Witch`"
 msgstr ""
 
 #: ../../SOI.rst:705
+msgid ""
+"When this creature transforms into Demon-Possessed Witch, you may destroy "
+"target creature."
+msgstr ""
+
+#: ../../SOI.rst:710
+msgid ":mtgtip:`Kindly Stranger`"
+msgstr ""
+
+#: ../../SOI.rst:709
 #, fuzzy
 msgid ""
 "Delirium — |mana_2|\\ |mana_b|: Transform Kindly Stranger. Activate this "
@@ -1570,18 +1582,8 @@ msgstr ""
 "karty należące do przynajmniej czterech typów kart, wygnaj wskazanego stwora "
 "spod władania przeciwnika."
 
-#: ../../SOI.rst:710
-msgid "Demon-Possessed Witch"
-msgstr ""
-
-#: ../../SOI.rst:709
-msgid ""
-"When this creature transforms into Demon-Possessed Witch, you may destroy "
-"target creature."
-msgstr ""
-
 #: ../../SOI.rst:714
-msgid "Liliana's Indignation"
+msgid ":mtgtip:`Liliana's Indignation`"
 msgstr ""
 
 #: ../../SOI.rst:713
@@ -1591,7 +1593,8 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:718
-msgid "Macabre Waltz"
+#, fuzzy
+msgid ":mtgtip:`Macabre Waltz`"
 msgstr "Macabre Waltz (Makabryczny Walc)"
 
 #: ../../SOI.rst:717
@@ -1603,7 +1606,7 @@ msgstr ""
 "twojej ręki, następnie odrzuć kartę."
 
 #: ../../SOI.rst:724
-msgid "Markov Dreadknight"
+msgid ":mtgtip:`Markov Dreadknight`"
 msgstr ""
 
 #: ../../SOI.rst:723
@@ -1613,7 +1616,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:730
-msgid "Merciless Resolve"
+msgid ":mtgtip:`Merciless Resolve`"
 msgstr ""
 
 #: ../../SOI.rst:727
@@ -1625,7 +1628,7 @@ msgid "Draw two cards."
 msgstr "Dobierz dwie karty."
 
 #: ../../SOI.rst:738
-msgid "Mindwrack Demon"
+msgid ":mtgtip:`Mindwrack Demon`"
 msgstr ""
 
 #: ../../SOI.rst:733
@@ -1645,11 +1648,11 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:744
-msgid "Morkrut Necropod"
+msgid ":mtgtip:`Morkrut Necropod`"
 msgstr ""
 
-#: ../../SOI.rst:741 ../../SOI.rst:779 ../../SOI.rst:923 ../../SOI.rst:983
-#: ../../SOI.rst:1123
+#: ../../SOI.rst:741 ../../SOI.rst:779 ../../SOI.rst:919 ../../SOI.rst:983
+#: ../../SOI.rst:1117
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
@@ -1663,7 +1666,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:750
-msgid "Murderous Compulsion"
+msgid ":mtgtip:`Murderous Compulsion`"
 msgstr ""
 
 #: ../../SOI.rst:747
@@ -1671,7 +1674,7 @@ msgid "Destroy target tapped creature."
 msgstr "Zniszcz wskazanego przekręconego stwora."
 
 #: ../../SOI.rst:758
-msgid "Olivia's Bloodsworn"
+msgid ":mtgtip:`Olivia's Bloodsworn`"
 msgstr ""
 
 #: ../../SOI.rst:755
@@ -1683,7 +1686,7 @@ msgid "|mana_r|: Target Vampire gains haste until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:764
-msgid "Pale Rider of Trostad"
+msgid ":mtgtip:`Pale Rider of Trostad`"
 msgstr ""
 
 #: ../../SOI.rst:763
@@ -1691,7 +1694,7 @@ msgid "When Pale Rider of Trostad enters the battlefield, discard a card."
 msgstr ""
 
 #: ../../SOI.rst:770
-msgid "Pick the Brain"
+msgid ":mtgtip:`Pick the Brain`"
 msgstr ""
 
 #: ../../SOI.rst:767
@@ -1709,7 +1712,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:776
-msgid "Rancid Rats"
+msgid ":mtgtip:`Rancid Rats`"
 msgstr ""
 
 #: ../../SOI.rst:775
@@ -1721,7 +1724,7 @@ msgstr ""
 "wystarcza, aby został zniszczony.)"
 
 #: ../../SOI.rst:784
-msgid "Relentless Dead"
+msgid ":mtgtip:`Relentless Dead`"
 msgstr ""
 
 #: ../../SOI.rst:781
@@ -1738,7 +1741,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:788
-msgid "Rottenheart Ghoul"
+msgid ":mtgtip:`Rottenheart Ghoul`"
 msgstr ""
 
 #: ../../SOI.rst:787
@@ -1746,7 +1749,7 @@ msgid "When Rottenheart Ghoul dies, target player discards a card."
 msgstr ""
 
 #: ../../SOI.rst:792
-msgid "Sanitarium Skeleton"
+msgid ":mtgtip:`Sanitarium Skeleton`"
 msgstr ""
 
 #: ../../SOI.rst:791
@@ -1756,7 +1759,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:796
-msgid "Shamble Back"
+msgid ":mtgtip:`Shamble Back`"
 msgstr ""
 
 #: ../../SOI.rst:795
@@ -1766,7 +1769,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:800
-msgid "Sinister Concoction"
+msgid ":mtgtip:`Sinister Concoction`"
 msgstr ""
 
 #: ../../SOI.rst:799
@@ -1776,7 +1779,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:804
-msgid "Stallion of Ashmouth"
+msgid ":mtgtip:`Stallion of Ashmouth`"
 msgstr ""
 
 #: ../../SOI.rst:803
@@ -1787,7 +1790,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:808
-msgid "Stromkirk Mentor"
+msgid ":mtgtip:`Stromkirk Mentor`"
 msgstr ""
 
 #: ../../SOI.rst:807
@@ -1797,7 +1800,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:812
-msgid "Throttle"
+msgid ":mtgtip:`Throttle`"
 msgstr ""
 
 #: ../../SOI.rst:811
@@ -1805,7 +1808,7 @@ msgid "Target creature gets -4/-4 until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:818
-msgid "To the Slaughter"
+msgid ":mtgtip:`To the Slaughter`"
 msgstr ""
 
 #: ../../SOI.rst:815
@@ -1819,7 +1822,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:824
-msgid "Tooth Collector"
+msgid ":mtgtip:`Tooth Collector`"
 msgstr ""
 
 #: ../../SOI.rst:821
@@ -1836,7 +1839,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:832
-msgid "Triskaidekaphobia"
+msgid ":mtgtip:`Triskaidekaphobia`"
 msgstr ""
 
 #: ../../SOI.rst:827
@@ -1856,15 +1859,15 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:836
-msgid "Twins of Maurer Estate"
+msgid ":mtgtip:`Twins of Maurer Estate`"
 msgstr ""
 
 #: ../../SOI.rst:838
-msgid "Vampire Noble"
+msgid ":mtgtip:`Vampire Noble`"
 msgstr ""
 
 #: ../../SOI.rst:844
-msgid "Vessel of Malignity"
+msgid ":mtgtip:`Vessel of Malignity`"
 msgstr ""
 
 #: ../../SOI.rst:843
@@ -1875,7 +1878,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:850
-msgid "Avacyn's Judgment"
+msgid ":mtgtip:`Avacyn's Judgment`"
 msgstr ""
 
 #: ../../SOI.rst:847
@@ -1893,7 +1896,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:856
-msgid "Bloodmad Vampire"
+msgid ":mtgtip:`Bloodmad Vampire`"
 msgstr ""
 
 #: ../../SOI.rst:853
@@ -1909,32 +1912,32 @@ msgid ""
 "graveyard.)"
 msgstr ""
 
-#: ../../SOI.rst:860
-msgid "Breakneck Rider"
+#: ../../SOI.rst:862
+msgid ":mtgtip:`Neck Breaker`"
 msgstr ""
 
 #: ../../SOI.rst:859
-msgid ""
-"At the beginning of each upkeep, if no spells were cast last turn, transform "
-"Breakneck Rider."
-msgstr ""
-
-#: ../../SOI.rst:866
-msgid "Neck Breaker"
-msgstr ""
-
-#: ../../SOI.rst:863
 msgid "Attacking creatures you control get +1/+0 and have trample."
 msgstr ""
 
-#: ../../SOI.rst:865
+#: ../../SOI.rst:861
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Neck Breaker."
 msgstr ""
 
+#: ../../SOI.rst:866
+msgid ":mtgtip:`Breakneck Rider`"
+msgstr ""
+
+#: ../../SOI.rst:865
+msgid ""
+"At the beginning of each upkeep, if no spells were cast last turn, transform "
+"Breakneck Rider."
+msgstr ""
+
 #: ../../SOI.rst:870
-msgid "Burn from Within"
+msgid ":mtgtip:`Burn from Within`"
 msgstr ""
 
 #: ../../SOI.rst:869
@@ -1945,27 +1948,27 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:874
-msgid "Convicted Killer"
+msgid ":mtgtip:`Branded Howler`"
 msgstr ""
 
 #: ../../SOI.rst:873
-msgid ""
-"At the beginning of each upkeep, if no spells were cast last turn, transform "
-"Convicted Killer."
-msgstr ""
-
-#: ../../SOI.rst:878
-msgid "Branded Howler"
-msgstr ""
-
-#: ../../SOI.rst:877
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Branded Howler."
 msgstr ""
 
+#: ../../SOI.rst:878
+msgid ":mtgtip:`Convicted Killer`"
+msgstr ""
+
+#: ../../SOI.rst:877
+msgid ""
+"At the beginning of each upkeep, if no spells were cast last turn, transform "
+"Convicted Killer."
+msgstr ""
+
 #: ../../SOI.rst:882
-msgid "Dance with Devils"
+msgid ":mtgtip:`Dance with Devils`"
 msgstr ""
 
 #: ../../SOI.rst:881
@@ -1975,7 +1978,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:886
-msgid "Devils' Playground"
+msgid ":mtgtip:`Devils' Playground`"
 msgstr ""
 
 #: ../../SOI.rst:885
@@ -1985,7 +1988,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:890
-msgid "Dissension in the Ranks"
+msgid ":mtgtip:`Dissension in the Ranks`"
 msgstr ""
 
 #: ../../SOI.rst:889
@@ -1993,7 +1996,8 @@ msgid "Target blocking creature fights another target blocking creature."
 msgstr ""
 
 #: ../../SOI.rst:894
-msgid "Dual Shot"
+#, fuzzy
+msgid ":mtgtip:`Dual Shot`"
 msgstr "Dual Shot (Podwójny Strzał)"
 
 #: ../../SOI.rst:893
@@ -2002,11 +2006,11 @@ msgstr ""
 "Ten czar zadaje 1 obrażenie każdemu z co najwyżej dwóch wskazanych stworów."
 
 #: ../../SOI.rst:900
-msgid "Ember-Eye Wolf"
+msgid ":mtgtip:`Ember-Eye Wolf`"
 msgstr ""
 
-#: ../../SOI.rst:897 ../../SOI.rst:929 ../../SOI.rst:973 ../../SOI.rst:1007
-#: ../../SOI.rst:1117 ../../SOI.rst:1129
+#: ../../SOI.rst:897 ../../SOI.rst:935 ../../SOI.rst:973 ../../SOI.rst:1007
+#: ../../SOI.rst:1123 ../../SOI.rst:1129
 msgid "Haste"
 msgstr "Pośpiech"
 
@@ -2016,7 +2020,7 @@ msgid "|mana_1|\\ |mana_r|: Ember-Eye Wolf gets +2/+0 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../SOI.rst:904
-msgid "Falkenrath Gorger"
+msgid ":mtgtip:`Falkenrath Gorger`"
 msgstr ""
 
 #: ../../SOI.rst:903
@@ -2028,7 +2032,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:910
-msgid "Fiery Temper"
+msgid ":mtgtip:`Fiery Temper`"
 msgstr ""
 
 #: ../../SOI.rst:907
@@ -2042,7 +2046,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:916
-msgid "Flameblade Angel"
+msgid ":mtgtip:`Flameblade Angel`"
 msgstr ""
 
 #: ../../SOI.rst:915
@@ -2052,54 +2056,54 @@ msgid ""
 "controller."
 msgstr ""
 
-#: ../../SOI.rst:920
-msgid "Gatstaf Arsonists"
+#: ../../SOI.rst:922
+msgid ":mtgtip:`Gatstaf Ravagers`"
 msgstr ""
 
-#: ../../SOI.rst:919
-msgid ""
-"At the beginning of each upkeep, if no spells were cast last turn, transform "
-"Gatstaf Arsonists."
-msgstr ""
-
-#: ../../SOI.rst:926
-msgid "Gatstaf Ravagers"
-msgstr ""
-
-#: ../../SOI.rst:925
+#: ../../SOI.rst:921
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Gatstaf Ravagers."
 msgstr ""
 
-#: ../../SOI.rst:932
-msgid "Geier Reach Bandit"
+#: ../../SOI.rst:926
+msgid ":mtgtip:`Gatstaf Arsonists`"
 msgstr ""
 
-#: ../../SOI.rst:931
+#: ../../SOI.rst:925
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
-"Geier Reach Bandit."
+"Gatstaf Arsonists."
 msgstr ""
 
-#: ../../SOI.rst:938
-msgid "Vildin-Pack Alpha"
+#: ../../SOI.rst:932
+msgid ":mtgtip:`Vildin-Pack Alpha`"
 msgstr ""
 
-#: ../../SOI.rst:935
+#: ../../SOI.rst:929
 msgid ""
 "Whenever a Werewolf enters the battlefield under your control, you may "
 "transform it."
 msgstr ""
 
-#: ../../SOI.rst:937
+#: ../../SOI.rst:931
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Vildin-Pack Alpha."
 msgstr ""
 
+#: ../../SOI.rst:938
+msgid ":mtgtip:`Geier Reach Bandit`"
+msgstr ""
+
+#: ../../SOI.rst:937
+msgid ""
+"At the beginning of each upkeep, if no spells were cast last turn, transform "
+"Geier Reach Bandit."
+msgstr ""
+
 #: ../../SOI.rst:944
-msgid "Geistblast"
+msgid ":mtgtip:`Geistblast`"
 msgstr ""
 
 #: ../../SOI.rst:941
@@ -2114,7 +2118,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:950
-msgid "Gibbering Fiend"
+msgid ":mtgtip:`Gibbering Fiend`"
 msgstr ""
 
 #: ../../SOI.rst:947
@@ -2131,7 +2135,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:958
-msgid "Goldnight Castigator"
+msgid ":mtgtip:`Goldnight Castigator`"
 msgstr ""
 
 #: ../../SOI.rst:953
@@ -2151,7 +2155,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:962
-msgid "Harness the Storm"
+msgid ":mtgtip:`Harness the Storm`"
 msgstr ""
 
 #: ../../SOI.rst:961
@@ -2162,7 +2166,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:966
-msgid "Howlpack Wolf"
+msgid ":mtgtip:`Howlpack Wolf`"
 msgstr ""
 
 #: ../../SOI.rst:965
@@ -2170,11 +2174,11 @@ msgid "Howlpack Wolf can't block unless you control another Wolf or Werewolf."
 msgstr ""
 
 #: ../../SOI.rst:968
-msgid "Hulking Devil"
+msgid ":mtgtip:`Hulking Devil`"
 msgstr ""
 
 #: ../../SOI.rst:976
-msgid "Incorrigible Youths"
+msgid ":mtgtip:`Incorrigible Youths`"
 msgstr ""
 
 #: ../../SOI.rst:975 ../../SOI.rst:1089
@@ -2185,7 +2189,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:980
-msgid "Inner Struggle"
+msgid ":mtgtip:`Inner Struggle`"
 msgstr ""
 
 #: ../../SOI.rst:979
@@ -2193,7 +2197,7 @@ msgid "Target creature deals damage to itself equal to its power."
 msgstr "Wskazany stwór zadaje sam sobie obrażenia równe swojej sile."
 
 #: ../../SOI.rst:986
-msgid "Insolent Neonate"
+msgid ":mtgtip:`Insolent Neonate`"
 msgstr ""
 
 #: ../../SOI.rst:985
@@ -2201,39 +2205,39 @@ msgid "Discard a card, Sacrifice Insolent Neonate: Draw a card."
 msgstr ""
 
 #: ../../SOI.rst:992
-msgid "Kessig Forgemaster"
+msgid ":mtgtip:`Flameheart Werewolf`"
 msgstr ""
 
 #: ../../SOI.rst:989
-msgid ""
-"Whenever Kessig Forgemaster blocks or becomes blocked by a creature, Kessig "
-"Forgemaster deals 1 damage to that creature."
-msgstr ""
-
-#: ../../SOI.rst:991
-msgid ""
-"At the beginning of each upkeep, if no spells were cast last turn, transform "
-"Kessig Forgemaster."
-msgstr ""
-
-#: ../../SOI.rst:998
-msgid "Flameheart Werewolf"
-msgstr ""
-
-#: ../../SOI.rst:995
 msgid ""
 "Whenever Flameheart Werewolf blocks or becomes blocked by a creature, "
 "Flameheart Werewolf deals 2 damage to that creature."
 msgstr ""
 
-#: ../../SOI.rst:997
+#: ../../SOI.rst:991
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Flameheart Werewolf."
 msgstr ""
 
+#: ../../SOI.rst:998
+msgid ":mtgtip:`Kessig Forgemaster`"
+msgstr ""
+
+#: ../../SOI.rst:995
+msgid ""
+"Whenever Kessig Forgemaster blocks or becomes blocked by a creature, Kessig "
+"Forgemaster deals 1 damage to that creature."
+msgstr ""
+
+#: ../../SOI.rst:997
+msgid ""
+"At the beginning of each upkeep, if no spells were cast last turn, transform "
+"Kessig Forgemaster."
+msgstr ""
+
 #: ../../SOI.rst:1004
-msgid "Lightning Axe"
+msgid ":mtgtip:`Lightning Axe`"
 msgstr ""
 
 #: ../../SOI.rst:1001
@@ -2246,7 +2250,7 @@ msgid "Lightning Axe deals 5 damage to target creature."
 msgstr ""
 
 #: ../../SOI.rst:1010
-msgid "Mad Prophet"
+msgid ":mtgtip:`Mad Prophet`"
 msgstr ""
 
 #: ../../SOI.rst:1009
@@ -2254,7 +2258,7 @@ msgid "|tap|, Discard a card: Draw a card."
 msgstr "|tap|, odrzuć kartę: Dobierz kartę."
 
 #: ../../SOI.rst:1014
-msgid "Magmatic Chasm"
+msgid ":mtgtip:`Magmatic Chasm`"
 msgstr ""
 
 #: ../../SOI.rst:1013
@@ -2262,7 +2266,7 @@ msgid "Creatures without flying can't block this turn."
 msgstr "Stwory bez latania nie mogą blokować w tej turze."
 
 #: ../../SOI.rst:1020
-msgid "Malevolent Whispers"
+msgid ":mtgtip:`Malevolent Whispers`"
 msgstr ""
 
 #: ../../SOI.rst:1017
@@ -2279,10 +2283,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1026
-msgid "Pyre Hound"
+msgid ":mtgtip:`Pyre Hound`"
 msgstr ""
 
-#: ../../SOI.rst:1023 ../../SOI.rst:1103 ../../SOI.rst:1245 ../../SOI.rst:1261
+#: ../../SOI.rst:1023 ../../SOI.rst:1103 ../../SOI.rst:1241 ../../SOI.rst:1261
 #: ../../SOI.rst:1349 ../../SOI.rst:1363 ../../SOI.rst:1567
 msgid "Trample"
 msgstr "Tratowanie"
@@ -2294,7 +2298,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1030
-msgid "Ravenous Bloodseeker"
+msgid ":mtgtip:`Ravenous Bloodseeker`"
 msgstr ""
 
 #: ../../SOI.rst:1029
@@ -2302,7 +2306,7 @@ msgid "Discard a card: Ravenous Bloodseeker gets +2/-2 until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:1034
-msgid "Reduce to Ashes"
+msgid ":mtgtip:`Reduce to Ashes`"
 msgstr ""
 
 #: ../../SOI.rst:1033
@@ -2312,7 +2316,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1038
-msgid "Rush of Adrenaline"
+msgid ":mtgtip:`Rush of Adrenaline`"
 msgstr ""
 
 #: ../../SOI.rst:1037
@@ -2320,11 +2324,11 @@ msgid "Target creature gets +2/+1 and gains trample until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:1042
-msgid "Sanguinary Mage"
+msgid ":mtgtip:`Sanguinary Mage`"
 msgstr ""
 
 #: ../../SOI.rst:1048
-msgid "Scourge Wolf"
+msgid ":mtgtip:`Scourge Wolf`"
 msgstr ""
 
 #: ../../SOI.rst:1045
@@ -2338,7 +2342,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1056
-msgid "Senseless Rage"
+msgid ":mtgtip:`Senseless Rage`"
 msgstr ""
 
 #: ../../SOI.rst:1053
@@ -2346,7 +2350,7 @@ msgid "Enchanted creature gets +2/+2."
 msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../SOI.rst:1062
-msgid "Sin Prodder"
+msgid ":mtgtip:`Sin Prodder`"
 msgstr ""
 
 #: ../../SOI.rst:1059
@@ -2361,26 +2365,26 @@ msgid ""
 "cost. Otherwise, put that card into your hand."
 msgstr ""
 
-#: ../../SOI.rst:1070
-msgid "Skin Invasion"
+#: ../../SOI.rst:1064
+msgid ":mtgtip:`Skin Shedder`"
 msgstr ""
 
-#: ../../SOI.rst:1067
+#: ../../SOI.rst:1074
+msgid ":mtgtip:`Skin Invasion`"
+msgstr ""
+
+#: ../../SOI.rst:1071
 msgid "Enchanted creature attacks each combat if able."
 msgstr ""
 
-#: ../../SOI.rst:1069
+#: ../../SOI.rst:1073
 msgid ""
 "When enchanted creature dies, return Skin Invasion to the battlefield "
 "transformed under your control."
 msgstr ""
 
-#: ../../SOI.rst:1072
-msgid "Skin Shedder"
-msgstr ""
-
 #: ../../SOI.rst:1082
-msgid "Spiteful Motives"
+msgid ":mtgtip:`Spiteful Motives`"
 msgstr ""
 
 #: ../../SOI.rst:1081
@@ -2388,7 +2392,7 @@ msgid "Enchanted creature gets +3/+0 and has first strike."
 msgstr ""
 
 #: ../../SOI.rst:1090
-msgid "Stensia Masquerade"
+msgid ":mtgtip:`Stensia Masquerade`"
 msgstr ""
 
 #: ../../SOI.rst:1085
@@ -2402,7 +2406,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1094
-msgid "Structural Distortion"
+msgid ":mtgtip:`Structural Distortion`"
 msgstr ""
 
 #: ../../SOI.rst:1093
@@ -2412,7 +2416,8 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1100
-msgid "Tormenting Voice"
+#, fuzzy
+msgid ":mtgtip:`Tormenting Voice`"
 msgstr "Tormenting Voice (Dręczący Głos)"
 
 #: ../../SOI.rst:1097
@@ -2420,7 +2425,7 @@ msgid "As an additional cost to cast this spell, discard a card."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru, odrzuć kartę."
 
 #: ../../SOI.rst:1106
-msgid "Ulrich's Kindred"
+msgid ":mtgtip:`Ulrich's Kindred`"
 msgstr ""
 
 #: ../../SOI.rst:1105
@@ -2433,7 +2438,7 @@ msgstr ""
 "niezniszczalność do końca tury."
 
 #: ../../SOI.rst:1110
-msgid "Uncaged Fury"
+msgid ":mtgtip:`Uncaged Fury`"
 msgstr ""
 
 #: ../../SOI.rst:1109
@@ -2443,7 +2448,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1114
-msgid "Vessel of Volatility"
+msgid ":mtgtip:`Vessel of Volatility`"
 msgstr ""
 
 #: ../../SOI.rst:1113
@@ -2453,27 +2458,27 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1120
-msgid "Village Messenger"
+msgid ":mtgtip:`Moonrise Intruder`"
 msgstr ""
 
 #: ../../SOI.rst:1119
-msgid ""
-"At the beginning of each upkeep, if no spells were cast last turn, transform "
-"Village Messenger."
-msgstr ""
-
-#: ../../SOI.rst:1126
-msgid "Moonrise Intruder"
-msgstr ""
-
-#: ../../SOI.rst:1125
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Moonrise Intruder."
 msgstr ""
 
+#: ../../SOI.rst:1126
+msgid ":mtgtip:`Village Messenger`"
+msgstr ""
+
+#: ../../SOI.rst:1125
+msgid ""
+"At the beginning of each upkeep, if no spells were cast last turn, transform "
+"Village Messenger."
+msgstr ""
+
 #: ../../SOI.rst:1132
-msgid "Voldaren Duelist"
+msgid ":mtgtip:`Voldaren Duelist`"
 msgstr ""
 
 #: ../../SOI.rst:1131
@@ -2483,7 +2488,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1136
-msgid "Wolf of Devil's Breach"
+msgid ":mtgtip:`Wolf of Devil's Breach`"
 msgstr ""
 
 #: ../../SOI.rst:1135
@@ -2494,7 +2499,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1140
-msgid "Aim High"
+msgid ":mtgtip:`Aim High`"
 msgstr ""
 
 #: ../../SOI.rst:1139
@@ -2503,30 +2508,30 @@ msgid ""
 "can block creatures with flying.)"
 msgstr ""
 
-#: ../../SOI.rst:1146
-msgid "Autumnal Gloom"
+#: ../../SOI.rst:1144
+msgid ":mtgtip:`Ancient of the Equinox`"
 msgstr ""
 
 #: ../../SOI.rst:1143
+msgid "Trample, hexproof"
+msgstr "Tratowanie, antyklątwa"
+
+#: ../../SOI.rst:1150
+msgid ":mtgtip:`Autumnal Gloom`"
+msgstr ""
+
+#: ../../SOI.rst:1147
 msgid "|mana_b|: Put the top card of your library into your graveyard."
 msgstr ""
 
-#: ../../SOI.rst:1145
+#: ../../SOI.rst:1149
 msgid ""
 "Delirium — At the beginning of your end step, if there are four or more card "
 "types among cards in your graveyard, transform Autumnal Gloom."
 msgstr ""
 
-#: ../../SOI.rst:1150
-msgid "Ancient of the Equinox"
-msgstr ""
-
-#: ../../SOI.rst:1149
-msgid "Trample, hexproof"
-msgstr "Tratowanie, antyklątwa"
-
 #: ../../SOI.rst:1156
-msgid "Briarbridge Patrol"
+msgid ":mtgtip:`Briarbridge Patrol`"
 msgstr ""
 
 #: ../../SOI.rst:1153
@@ -2543,7 +2548,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1160
-msgid "Byway Courier"
+msgid ":mtgtip:`Byway Courier`"
 msgstr ""
 
 #: ../../SOI.rst:1159
@@ -2553,7 +2558,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1164
-msgid "Clip Wings"
+msgid ":mtgtip:`Clip Wings`"
 msgstr ""
 
 #: ../../SOI.rst:1163
@@ -2561,7 +2566,7 @@ msgid "Each opponent sacrifices a creature with flying."
 msgstr ""
 
 #: ../../SOI.rst:1168
-msgid "Confront the Unknown"
+msgid ":mtgtip:`Confront the Unknown`"
 msgstr ""
 
 #: ../../SOI.rst:1167
@@ -2572,7 +2577,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1174
-msgid "Crawling Sensation"
+msgid ":mtgtip:`Crawling Sensation`"
 msgstr ""
 
 #: ../../SOI.rst:1171
@@ -2588,7 +2593,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1178
-msgid "Cryptolith Rite"
+msgid ":mtgtip:`Cryptolith Rite`"
 msgstr ""
 
 #: ../../SOI.rst:1177
@@ -2596,7 +2601,7 @@ msgid "Creatures you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
 
 #: ../../SOI.rst:1182
-msgid "Cult of the Waxing Moon"
+msgid ":mtgtip:`Cult of the Waxing Moon`"
 msgstr ""
 
 #: ../../SOI.rst:1181
@@ -2606,7 +2611,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1188
-msgid "Deathcap Cultivator"
+msgid ":mtgtip:`Deathcap Cultivator`"
 msgstr ""
 
 #: ../../SOI.rst:1185 ../../SOI.rst:1663
@@ -2620,38 +2625,38 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1194
-msgid "Duskwatch Recruiter"
+msgid ":mtgtip:`Krallenhorde Howler`"
 msgstr ""
 
 #: ../../SOI.rst:1191
+msgid "Creature spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../SOI.rst:1193
+msgid ""
+"At the beginning of each upkeep, if a player cast two or more spells last "
+"turn, transform Krallenhorde Howler."
+msgstr ""
+
+#: ../../SOI.rst:1200
+msgid ":mtgtip:`Duskwatch Recruiter`"
+msgstr ""
+
+#: ../../SOI.rst:1197
 msgid ""
 "|mana_2|\\ |mana_g|: Look at the top three cards of your library. You may "
 "reveal a creature card from among them and put it into your hand. Put the "
 "rest on the bottom of your library in any order."
 msgstr ""
 
-#: ../../SOI.rst:1193
+#: ../../SOI.rst:1199
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Duskwatch Recruiter."
 msgstr ""
 
-#: ../../SOI.rst:1200
-msgid "Krallenhorde Howler"
-msgstr ""
-
-#: ../../SOI.rst:1197
-msgid "Creature spells you cast cost |mana_1| less to cast."
-msgstr ""
-
-#: ../../SOI.rst:1199
-msgid ""
-"At the beginning of each upkeep, if a player cast two or more spells last "
-"turn, transform Krallenhorde Howler."
-msgstr ""
-
 #: ../../SOI.rst:1208
-msgid "Equestrian Skill"
+msgid ":mtgtip:`Equestrian Skill`"
 msgstr ""
 
 #: ../../SOI.rst:1205
@@ -2663,7 +2668,7 @@ msgid "As long as enchanted creature is a Human, it has trample."
 msgstr ""
 
 #: ../../SOI.rst:1212
-msgid "Fork in the Road"
+msgid ":mtgtip:`Fork in the Road`"
 msgstr ""
 
 #: ../../SOI.rst:1211
@@ -2673,7 +2678,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1218
-msgid "Gloomwidow"
+msgid ":mtgtip:`Gloomwidow`"
 msgstr ""
 
 #: ../../SOI.rst:1215 ../../SOI.rst:1389
@@ -2685,7 +2690,7 @@ msgid "Gloomwidow can block only creatures with flying."
 msgstr ""
 
 #: ../../SOI.rst:1222
-msgid "Graf Mole"
+msgid ":mtgtip:`Graf Mole`"
 msgstr ""
 
 #: ../../SOI.rst:1221
@@ -2693,7 +2698,7 @@ msgid "Whenever you sacrifice a Clue, you gain 3 life."
 msgstr ""
 
 #: ../../SOI.rst:1226
-msgid "Groundskeeper"
+msgid ":mtgtip:`Groundskeeper`"
 msgstr ""
 
 #: ../../SOI.rst:1225
@@ -2706,55 +2711,55 @@ msgstr ""
 "twojej ręki, następnie odrzuć kartę."
 
 #: ../../SOI.rst:1232
-msgid "Hermit of the Natterknolls"
+msgid ":mtgtip:`Lone Wolf of the Natterknolls`"
 msgstr ""
 
 #: ../../SOI.rst:1229
-msgid "Whenever an opponent casts a spell during your turn, draw a card."
-msgstr ""
-
-#: ../../SOI.rst:1231
-msgid ""
-"At the beginning of each upkeep, if no spells were cast last turn, transform "
-"Hermit of the Natterknolls."
-msgstr ""
-
-#: ../../SOI.rst:1238
-msgid "Lone Wolf of the Natterknolls"
-msgstr ""
-
-#: ../../SOI.rst:1235
 msgid "Whenever an opponent casts a spell during your turn, draw two cards."
 msgstr ""
 
-#: ../../SOI.rst:1237
+#: ../../SOI.rst:1231
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Lone Wolf of the Natterknolls."
 msgstr ""
 
-#: ../../SOI.rst:1242
-msgid "Hinterland Logger"
+#: ../../SOI.rst:1238
+msgid ":mtgtip:`Hermit of the Natterknolls`"
 msgstr ""
 
-#: ../../SOI.rst:1241
+#: ../../SOI.rst:1235
+msgid "Whenever an opponent casts a spell during your turn, draw a card."
+msgstr ""
+
+#: ../../SOI.rst:1237
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
-"Hinterland Logger."
+"Hermit of the Natterknolls."
 msgstr ""
 
-#: ../../SOI.rst:1248
-msgid "Timber Shredder"
+#: ../../SOI.rst:1244
+msgid ":mtgtip:`Timber Shredder`"
 msgstr ""
 
-#: ../../SOI.rst:1247
+#: ../../SOI.rst:1243
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Timber Shredder."
 msgstr ""
 
+#: ../../SOI.rst:1248
+msgid ":mtgtip:`Hinterland Logger`"
+msgstr ""
+
+#: ../../SOI.rst:1247
+msgid ""
+"At the beginning of each upkeep, if no spells were cast last turn, transform "
+"Hinterland Logger."
+msgstr ""
+
 #: ../../SOI.rst:1254
-msgid "Howlpack Resurgence"
+msgid ":mtgtip:`Howlpack Resurgence`"
 msgstr ""
 
 #: ../../SOI.rst:1253
@@ -2764,7 +2769,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1258
-msgid "Inexorable Blob"
+msgid ":mtgtip:`Inexorable Blob`"
 msgstr ""
 
 #: ../../SOI.rst:1257
@@ -2775,7 +2780,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1264
-msgid "Intrepid Provisioner"
+msgid ":mtgtip:`Intrepid Provisioner`"
 msgstr ""
 
 #: ../../SOI.rst:1263
@@ -2785,7 +2790,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1268
-msgid "Kessig Dire Swine"
+msgid ":mtgtip:`Kessig Dire Swine`"
 msgstr ""
 
 #: ../../SOI.rst:1267
@@ -2794,34 +2799,34 @@ msgid ""
 "card types among cards in your graveyard."
 msgstr ""
 
-#: ../../SOI.rst:1274
-msgid "Lambholt Pacifist"
+#: ../../SOI.rst:1272
+msgid ":mtgtip:`Lambholt Butcher`"
 msgstr ""
 
 #: ../../SOI.rst:1271
-msgid ""
-"Lambholt Pacifist can't attack unless you control a creature with power 4 or "
-"greater."
-msgstr ""
-
-#: ../../SOI.rst:1273
-msgid ""
-"At the beginning of each upkeep, if no spells were cast last turn, transform "
-"Lambholt Pacifist."
-msgstr ""
-
-#: ../../SOI.rst:1278
-msgid "Lambholt Butcher"
-msgstr ""
-
-#: ../../SOI.rst:1277
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Lambholt Butcher."
 msgstr ""
 
+#: ../../SOI.rst:1278
+msgid ":mtgtip:`Lambholt Pacifist`"
+msgstr ""
+
+#: ../../SOI.rst:1275
+msgid ""
+"Lambholt Pacifist can't attack unless you control a creature with power 4 or "
+"greater."
+msgstr ""
+
+#: ../../SOI.rst:1277
+msgid ""
+"At the beginning of each upkeep, if no spells were cast last turn, transform "
+"Lambholt Pacifist."
+msgstr ""
+
 #: ../../SOI.rst:1282
-msgid "Loam Dryad"
+msgid ":mtgtip:`Loam Dryad`"
 msgstr ""
 
 #: ../../SOI.rst:1281
@@ -2832,7 +2837,7 @@ msgstr ""
 "dowolnego koloru do twojej puli many."
 
 #: ../../SOI.rst:1288
-msgid "Might Beyond Reason"
+msgid ":mtgtip:`Might Beyond Reason`"
 msgstr ""
 
 #: ../../SOI.rst:1285
@@ -2846,7 +2851,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1292
-msgid "Moldgraf Scavenger"
+msgid ":mtgtip:`Moldgraf Scavenger`"
 msgstr ""
 
 #: ../../SOI.rst:1291
@@ -2856,7 +2861,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1296
-msgid "Moonlight Hunt"
+msgid ":mtgtip:`Moonlight Hunt`"
 msgstr ""
 
 #: ../../SOI.rst:1295
@@ -2866,7 +2871,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1302
-msgid "Obsessive Skinner"
+msgid ":mtgtip:`Obsessive Skinner`"
 msgstr ""
 
 #: ../../SOI.rst:1299
@@ -2883,7 +2888,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1308
-msgid "Pack Guardian"
+msgid ":mtgtip:`Pack Guardian`"
 msgstr ""
 
 #: ../../SOI.rst:1307
@@ -2893,7 +2898,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1312
-msgid "Quilled Wolf"
+msgid ":mtgtip:`Quilled Wolf`"
 msgstr ""
 
 #: ../../SOI.rst:1311
@@ -2901,7 +2906,8 @@ msgid "|mana_5|\\ |mana_g|: Quilled Wolf gets +4/+4 until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:1316
-msgid "Rabid Bite"
+#, fuzzy
+msgid ":mtgtip:`Rabid Bite`"
 msgstr "Rabid Bite"
 
 #: ../../SOI.rst:1315
@@ -2913,7 +2919,7 @@ msgstr ""
 "wskazanemu stworowi poza twoim władaniem."
 
 #: ../../SOI.rst:1322
-msgid "Root Out"
+msgid ":mtgtip:`Root Out`"
 msgstr ""
 
 #: ../../SOI.rst:1319
@@ -2921,47 +2927,47 @@ msgid "Destroy target artifact or enchantment."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../SOI.rst:1330
-msgid "Sage of Ancient Lore"
+msgid ":mtgtip:`Werewolf of Ancient Hunger`"
 msgstr ""
 
 #: ../../SOI.rst:1325
-msgid ""
-"Sage of Ancient Lore's power and toughness are each equal to the number of "
-"cards in your hand."
-msgstr ""
-
-#: ../../SOI.rst:1327
-msgid "When Sage of Ancient Lore enters the battlefield, draw a card."
-msgstr ""
-
-#: ../../SOI.rst:1329
-msgid ""
-"At the beginning of each upkeep, if no spells were cast last turn, transform "
-"Sage of Ancient Lore."
-msgstr ""
-
-#: ../../SOI.rst:1338
-msgid "Werewolf of Ancient Hunger"
-msgstr ""
-
-#: ../../SOI.rst:1333
 msgid "Vigilance, trample"
 msgstr "Czujność, tratowanie"
 
-#: ../../SOI.rst:1335
+#: ../../SOI.rst:1327
 msgid ""
 "Werewolf of Ancient Hunger's power and toughness are each equal to the total "
 "number of cards in all players' hands."
 msgstr ""
 
-#: ../../SOI.rst:1337
+#: ../../SOI.rst:1329
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Werewolf of Ancient Hunger."
 msgstr ""
 
+#: ../../SOI.rst:1338
+msgid ":mtgtip:`Sage of Ancient Lore`"
+msgstr ""
+
+#: ../../SOI.rst:1333
+msgid ""
+"Sage of Ancient Lore's power and toughness are each equal to the number of "
+"cards in your hand."
+msgstr ""
+
+#: ../../SOI.rst:1335
+msgid "When Sage of Ancient Lore enters the battlefield, draw a card."
+msgstr ""
+
+#: ../../SOI.rst:1337
+msgid ""
+"At the beginning of each upkeep, if no spells were cast last turn, transform "
+"Sage of Ancient Lore."
+msgstr ""
+
 #: ../../SOI.rst:1342
-msgid "Seasons Past"
+msgid ":mtgtip:`Seasons Past`"
 msgstr ""
 
 #: ../../SOI.rst:1341
@@ -2972,7 +2978,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1346
-msgid "Second Harvest"
+msgid ":mtgtip:`Second Harvest`"
 msgstr ""
 
 #: ../../SOI.rst:1345
@@ -2981,7 +2987,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1352
-msgid "Silverfur Partisan"
+msgid ":mtgtip:`Silverfur Partisan`"
 msgstr ""
 
 #: ../../SOI.rst:1351
@@ -2991,27 +2997,27 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1356
-msgid "Solitary Hunter"
+msgid ":mtgtip:`One of the Pack`"
 msgstr ""
 
 #: ../../SOI.rst:1355
-msgid ""
-"At the beginning of each upkeep, if no spells were cast last turn, transform "
-"Solitary Hunter."
-msgstr ""
-
-#: ../../SOI.rst:1360
-msgid "One of the Pack"
-msgstr ""
-
-#: ../../SOI.rst:1359
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform One of the Pack."
 msgstr ""
 
+#: ../../SOI.rst:1360
+msgid ":mtgtip:`Solitary Hunter`"
+msgstr ""
+
+#: ../../SOI.rst:1359
+msgid ""
+"At the beginning of each upkeep, if no spells were cast last turn, transform "
+"Solitary Hunter."
+msgstr ""
+
 #: ../../SOI.rst:1366
-msgid "Soul Swallower"
+msgid ":mtgtip:`Soul Swallower`"
 msgstr ""
 
 #: ../../SOI.rst:1365
@@ -3022,7 +3028,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1370
-msgid "Stoic Builder"
+msgid ":mtgtip:`Stoic Builder`"
 msgstr ""
 
 #: ../../SOI.rst:1369
@@ -3032,11 +3038,12 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1372
-msgid "Thornhide Wolves"
+#, fuzzy
+msgid ":mtgtip:`Thornhide Wolves`"
 msgstr "Thornhide Wolves"
 
 #: ../../SOI.rst:1380
-msgid "Tireless Tracker"
+msgid ":mtgtip:`Tireless Tracker`"
 msgstr ""
 
 #: ../../SOI.rst:1377
@@ -3051,7 +3058,7 @@ msgid "Whenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker."
 msgstr ""
 
 #: ../../SOI.rst:1386
-msgid "Traverse the Ulvenwald"
+msgid ":mtgtip:`Traverse the Ulvenwald`"
 msgstr ""
 
 #: ../../SOI.rst:1383
@@ -3068,7 +3075,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1394
-msgid "Ulvenwald Hydra"
+msgid ":mtgtip:`Ulvenwald Hydra`"
 msgstr ""
 
 #: ../../SOI.rst:1391
@@ -3084,7 +3091,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1400
-msgid "Ulvenwald Mysteries"
+msgid ":mtgtip:`Ulvenwald Mysteries`"
 msgstr ""
 
 #: ../../SOI.rst:1397
@@ -3101,7 +3108,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1404
-msgid "Vessel of Nascency"
+msgid ":mtgtip:`Vessel of Nascency`"
 msgstr ""
 
 #: ../../SOI.rst:1403
@@ -3113,7 +3120,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1408
-msgid "Veteran Cathar"
+msgid ":mtgtip:`Veteran Cathar`"
 msgstr ""
 
 #: ../../SOI.rst:1407
@@ -3122,7 +3129,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1414
-msgid "Watcher in the Web"
+msgid ":mtgtip:`Watcher in the Web`"
 msgstr ""
 
 #: ../../SOI.rst:1411
@@ -3134,7 +3141,7 @@ msgid "Watcher in the Web can block an additional seven creatures each combat."
 msgstr ""
 
 #: ../../SOI.rst:1422
-msgid "Weirding Wood"
+msgid ":mtgtip:`Weirding Wood`"
 msgstr ""
 
 #: ../../SOI.rst:1417
@@ -3154,7 +3161,7 @@ msgstr ""
 "kolorze.\""
 
 #: ../../SOI.rst:1428
-msgid "Altered Ego"
+msgid ":mtgtip:`Altered Ego`"
 msgstr ""
 
 #: ../../SOI.rst:1425
@@ -3168,49 +3175,49 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1432
-msgid "Anguished Unmaking"
+msgid ":mtgtip:`Anguished Unmaking`"
 msgstr ""
 
 #: ../../SOI.rst:1431
 msgid "Exile target nonland permanent. You lose 3 life."
 msgstr ""
 
-#: ../../SOI.rst:1438
-msgid "Arlinn Kord"
+#: ../../SOI.rst:1440
+msgid ":mtgtip:`Arlinn, Embraced by the Moon`"
 msgstr ""
 
 #: ../../SOI.rst:1435
-msgid ""
-"+1: Until end of turn, up to one target creature gets +2/+2 and gains "
-"vigilance and haste."
-msgstr ""
-
-#: ../../SOI.rst:1437
-msgid "0: Create a 2/2 green Wolf creature token. Transform Arlinn Kord."
-msgstr ""
-
-#: ../../SOI.rst:1446
-msgid "Arlinn, Embraced by the Moon"
-msgstr ""
-
-#: ../../SOI.rst:1441
 msgid "+1: Creatures you control get +1/+1 and gain trample until end of turn."
 msgstr ""
 
-#: ../../SOI.rst:1443
+#: ../../SOI.rst:1437
 msgid ""
 "−1: Arlinn, Embraced by the Moon deals 3 damage to any target. Transform "
 "Arlinn, Embraced by the Moon."
 msgstr ""
 
-#: ../../SOI.rst:1445
+#: ../../SOI.rst:1439
 msgid ""
 "−6: You get an emblem with \"Creatures you control have haste and '|tap|: "
 "This creature deals damage equal to its power to any target.'\""
 msgstr ""
 
+#: ../../SOI.rst:1446
+msgid ":mtgtip:`Arlinn Kord`"
+msgstr ""
+
+#: ../../SOI.rst:1443
+msgid ""
+"+1: Until end of turn, up to one target creature gets +2/+2 and gains "
+"vigilance and haste."
+msgstr ""
+
+#: ../../SOI.rst:1445
+msgid "0: Create a 2/2 green Wolf creature token. Transform Arlinn Kord."
+msgstr ""
+
 #: ../../SOI.rst:1450
-msgid "Fevered Visions"
+msgid ":mtgtip:`Fevered Visions`"
 msgstr ""
 
 #: ../../SOI.rst:1449
@@ -3221,7 +3228,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1460
-msgid "The Gitrog Monster"
+msgid ":mtgtip:`The Gitrog Monster`"
 msgstr ""
 
 #: ../../SOI.rst:1453
@@ -3245,7 +3252,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1466
-msgid "Invocation of Saint Traft"
+msgid ":mtgtip:`Invocation of Saint Traft`"
 msgstr ""
 
 #: ../../SOI.rst:1465
@@ -3256,7 +3263,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1474
-msgid "Nahiri, the Harbinger"
+msgid ":mtgtip:`Nahiri, the Harbinger`"
 msgstr ""
 
 #: ../../SOI.rst:1469
@@ -3275,7 +3282,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1480
-msgid "Olivia, Mobilized for War"
+msgid ":mtgtip:`Olivia, Mobilized for War`"
 msgstr ""
 
 #: ../../SOI.rst:1479
@@ -3287,7 +3294,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1484
-msgid "Prized Amalgam"
+msgid ":mtgtip:`Prized Amalgam`"
 msgstr ""
 
 #: ../../SOI.rst:1483
@@ -3299,7 +3306,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1492
-msgid "Sigarda, Heron's Grace"
+msgid ":mtgtip:`Sigarda, Heron's Grace`"
 msgstr ""
 
 #: ../../SOI.rst:1489
@@ -3313,7 +3320,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1500
-msgid "Sorin, Grim Nemesis"
+msgid ":mtgtip:`Sorin, Grim Nemesis`"
 msgstr ""
 
 #: ../../SOI.rst:1495
@@ -3335,7 +3342,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1506
-msgid "Brain in a Jar"
+msgid ":mtgtip:`Brain in a Jar`"
 msgstr ""
 
 #: ../../SOI.rst:1503
@@ -3351,7 +3358,7 @@ msgid "|mana_3|, |tap|, Remove X charge counters from Brain in a Jar: Scry X."
 msgstr ""
 
 #: ../../SOI.rst:1512
-msgid "Corrupted Grafstone"
+msgid ":mtgtip:`Corrupted Grafstone`"
 msgstr ""
 
 #: ../../SOI.rst:1509
@@ -3365,7 +3372,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1516
-msgid "Epitaph Golem"
+msgid ":mtgtip:`Epitaph Golem`"
 msgstr ""
 
 #: ../../SOI.rst:1515
@@ -3374,7 +3381,8 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1520
-msgid "Explosive Apparatus"
+#, fuzzy
+msgid ":mtgtip:`Explosive Apparatus`"
 msgstr "Explosive Apparatus (Wybuchowy Aparat)"
 
 #: ../../SOI.rst:1519
@@ -3384,51 +3392,51 @@ msgid ""
 msgstr ""
 "|mana_3|, |tap|, poświęć ten permanent: Zadaje on 2 obrażenia w dowolny cel."
 
-#: ../../SOI.rst:1524
-msgid "Harvest Hand"
+#: ../../SOI.rst:1528
+msgid ":mtgtip:`Scrounged Scythe`"
 msgstr ""
 
-#: ../../SOI.rst:1523
-msgid ""
-"When Harvest Hand dies, return it to the battlefield transformed under your "
-"control."
-msgstr ""
-
-#: ../../SOI.rst:1532
-msgid "Scrounged Scythe"
-msgstr ""
-
-#: ../../SOI.rst:1527 ../../SOI.rst:1553
+#: ../../SOI.rst:1523 ../../SOI.rst:1559
 msgid "Equipped creature gets +1/+1."
 msgstr "Wyposażony stwór dostaje +1/+1."
 
-#: ../../SOI.rst:1529
+#: ../../SOI.rst:1525
 msgid ""
 "As long as equipped creature is a Human, it has menace. (It can't be blocked "
 "except by two or more creatures.)"
 msgstr ""
 
-#: ../../SOI.rst:1531 ../../SOI.rst:1585
+#: ../../SOI.rst:1527 ../../SOI.rst:1585
 msgid "Equip |mana_2|"
 msgstr "Wyposaż |mana_2|"
 
+#: ../../SOI.rst:1532
+msgid ":mtgtip:`Harvest Hand`"
+msgstr ""
+
+#: ../../SOI.rst:1531
+msgid ""
+"When Harvest Hand dies, return it to the battlefield transformed under your "
+"control."
+msgstr ""
+
 #: ../../SOI.rst:1538
-msgid "Haunted Cloak"
+msgid ":mtgtip:`Haunted Cloak`"
 msgstr ""
 
 #: ../../SOI.rst:1535
 msgid "Equipped creature has vigilance, trample, and haste."
 msgstr ""
 
-#: ../../SOI.rst:1537 ../../SOI.rst:1557
+#: ../../SOI.rst:1537 ../../SOI.rst:1563
 msgid "Equip |mana_1|"
 msgstr "Wyposaż |mana_1|"
 
 #: ../../SOI.rst:1544
-msgid "Magnifying Glass"
+msgid ":mtgtip:`Magnifying Glass`"
 msgstr ""
 
-#: ../../SOI.rst:1541 ../../SOI.rst:1637 ../../SOI.rst:1691 ../../SOI.rst:1697
+#: ../../SOI.rst:1541 ../../SOI.rst:1637 ../../SOI.rst:1691 ../../SOI.rst:1701
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Dostajesz |colorless|."
 
@@ -3439,7 +3447,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1550
-msgid "Murderer's Axe"
+msgid ":mtgtip:`Murderer's Axe`"
 msgstr ""
 
 #: ../../SOI.rst:1547
@@ -3450,28 +3458,28 @@ msgstr ""
 msgid "Equip—Discard a card."
 msgstr ""
 
-#: ../../SOI.rst:1558
-msgid "Neglected Heirloom"
+#: ../../SOI.rst:1556
+msgid ":mtgtip:`Ashmouth Blade`"
 msgstr ""
 
-#: ../../SOI.rst:1555
-msgid "When equipped creature transforms, transform Neglected Heirloom."
-msgstr ""
-
-#: ../../SOI.rst:1564
-msgid "Ashmouth Blade"
-msgstr ""
-
-#: ../../SOI.rst:1561
+#: ../../SOI.rst:1553
 msgid "Equipped creature gets +3/+3 and has first strike."
 msgstr ""
 
-#: ../../SOI.rst:1563 ../../SOI.rst:1593
+#: ../../SOI.rst:1555 ../../SOI.rst:1593
 msgid "Equip |mana_3|"
 msgstr "Wyposaż |mana_3|"
 
+#: ../../SOI.rst:1564
+msgid ":mtgtip:`Neglected Heirloom`"
+msgstr ""
+
+#: ../../SOI.rst:1561
+msgid "When equipped creature transforms, transform Neglected Heirloom."
+msgstr ""
+
 #: ../../SOI.rst:1570
-msgid "Runaway Carriage"
+msgid ":mtgtip:`Runaway Carriage`"
 msgstr ""
 
 #: ../../SOI.rst:1569
@@ -3479,7 +3487,7 @@ msgid "When Runaway Carriage attacks or blocks, sacrifice it at end of combat."
 msgstr ""
 
 #: ../../SOI.rst:1578
-msgid "Shard of Broken Glass"
+msgid ":mtgtip:`Shard of Broken Glass`"
 msgstr ""
 
 #: ../../SOI.rst:1573
@@ -3501,7 +3509,7 @@ msgstr ""
 "Wyposażaj wyłącznie jako obrzęd.)"
 
 #: ../../SOI.rst:1586
-msgid "Skeleton Key"
+msgid ":mtgtip:`Skeleton Key`"
 msgstr ""
 
 #: ../../SOI.rst:1581
@@ -3517,7 +3525,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1594
-msgid "Slayer's Plate"
+msgid ":mtgtip:`Slayer's Plate`"
 msgstr ""
 
 #: ../../SOI.rst:1589
@@ -3531,7 +3539,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1600
-msgid "Tamiyo's Journal"
+msgid ":mtgtip:`Tamiyo's Journal`"
 msgstr ""
 
 #: ../../SOI.rst:1597
@@ -3546,20 +3554,20 @@ msgid ""
 "card into your hand. Then shuffle your library."
 msgstr ""
 
-#: ../../SOI.rst:1606
-msgid "Thraben Gargoyle"
-msgstr ""
-
-#: ../../SOI.rst:1605
-msgid "|mana_6|: Transform Thraben Gargoyle."
+#: ../../SOI.rst:1604
+msgid ":mtgtip:`Stonewing Antagonizer`"
 msgstr ""
 
 #: ../../SOI.rst:1610
-msgid "Stonewing Antagonizer"
+msgid ":mtgtip:`Thraben Gargoyle`"
+msgstr ""
+
+#: ../../SOI.rst:1609
+msgid "|mana_6|: Transform Thraben Gargoyle."
 msgstr ""
 
 #: ../../SOI.rst:1618
-msgid "True-Faith Censer"
+msgid ":mtgtip:`True-Faith Censer`"
 msgstr ""
 
 #: ../../SOI.rst:1613
@@ -3579,11 +3587,11 @@ msgstr ""
 "Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../SOI.rst:1620
-msgid "Wicker Witch"
+msgid ":mtgtip:`Wicker Witch`"
 msgstr ""
 
 #: ../../SOI.rst:1628
-msgid "Wild-Field Scarecrow"
+msgid ":mtgtip:`Wild-Field Scarecrow`"
 msgstr ""
 
 #: ../../SOI.rst:1627
@@ -3594,7 +3602,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1634
-msgid "Choked Estuary"
+msgid ":mtgtip:`Choked Estuary`"
 msgstr ""
 
 #: ../../SOI.rst:1631
@@ -3609,7 +3617,7 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../SOI.rst:1640
-msgid "Drownyard Temple"
+msgid ":mtgtip:`Drownyard Temple`"
 msgstr ""
 
 #: ../../SOI.rst:1639
@@ -3619,7 +3627,7 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1646
-msgid "Foreboding Ruins"
+msgid ":mtgtip:`Foreboding Ruins`"
 msgstr ""
 
 #: ../../SOI.rst:1643
@@ -3634,7 +3642,8 @@ msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../SOI.rst:1652
-msgid "Forsaken Sanctuary"
+#, fuzzy
+msgid ":mtgtip:`Forsaken Sanctuary`"
 msgstr "Forsaken Sanctuary"
 
 #: ../../SOI.rst:1649
@@ -3646,7 +3655,7 @@ msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../SOI.rst:1658
-msgid "Fortified Village"
+msgid ":mtgtip:`Fortified Village`"
 msgstr ""
 
 #: ../../SOI.rst:1655
@@ -3661,7 +3670,8 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../SOI.rst:1664
-msgid "Foul Orchard"
+#, fuzzy
+msgid ":mtgtip:`Foul Orchard`"
 msgstr "Foul Orchard"
 
 #: ../../SOI.rst:1661
@@ -3669,7 +3679,7 @@ msgid "Foul Orchard enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../SOI.rst:1670
-msgid "Game Trail"
+msgid ":mtgtip:`Game Trail`"
 msgstr ""
 
 #: ../../SOI.rst:1667
@@ -3683,7 +3693,8 @@ msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../SOI.rst:1676
-msgid "Highland Lake"
+#, fuzzy
+msgid ":mtgtip:`Highland Lake`"
 msgstr "Highland Lake (Górskie Jezioro)"
 
 #: ../../SOI.rst:1673
@@ -3695,7 +3706,7 @@ msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../SOI.rst:1682
-msgid "Port Town"
+msgid ":mtgtip:`Port Town`"
 msgstr ""
 
 #: ../../SOI.rst:1679
@@ -3709,7 +3720,8 @@ msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../SOI.rst:1688
-msgid "Stone Quarry"
+#, fuzzy
+msgid ":mtgtip:`Stone Quarry`"
 msgstr "Stone Quarry (Kamieniołom)"
 
 #: ../../SOI.rst:1685
@@ -3721,7 +3733,7 @@ msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../SOI.rst:1694
-msgid "Warped Landscape"
+msgid ":mtgtip:`Warped Landscape`"
 msgstr ""
 
 #: ../../SOI.rst:1693
@@ -3730,32 +3742,33 @@ msgid ""
 "land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
-#: ../../SOI.rst:1702
-msgid "Westvale Abbey"
+#: ../../SOI.rst:1698
+msgid ":mtgtip:`Ormendahl, Profane Prince`"
 msgstr ""
 
-#: ../../SOI.rst:1699
+#: ../../SOI.rst:1697
+msgid "Flying, lifelink, indestructible, haste"
+msgstr ""
+
+#: ../../SOI.rst:1706
+msgid ":mtgtip:`Westvale Abbey`"
+msgstr ""
+
+#: ../../SOI.rst:1703
 msgid ""
 "|mana_5|, |tap|, Pay 1 life: Create a 1/1 white and black Human Cleric "
 "creature token."
 msgstr ""
 
-#: ../../SOI.rst:1701
+#: ../../SOI.rst:1705
 msgid ""
 "|mana_5|, |tap|, Sacrifice five creatures: Transform Westvale Abbey, then "
 "untap it."
 msgstr ""
 
-#: ../../SOI.rst:1706
-msgid "Ormendahl, Profane Prince"
-msgstr ""
-
-#: ../../SOI.rst:1705
-msgid "Flying, lifelink, indestructible, haste"
-msgstr ""
-
 #: ../../SOI.rst:1712
-msgid "Woodland Stream"
+#, fuzzy
+msgid ":mtgtip:`Woodland Stream`"
 msgstr "Woodland Stream (Leśny Strumień)"
 
 #: ../../SOI.rst:1709
@@ -3766,22 +3779,60 @@ msgstr "Ta karta wchodzi na pole walki przekręcona."
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
-#: ../../SOI.rst:1714 ../../SOI.rst:1718 ../../SOI.rst:1722
-msgid "Plains"
-msgstr "Plains (Równina)"
+#: ../../SOI.rst:1716
+msgid ":mtgtip:`Plains`"
+msgstr ""
 
-#: ../../SOI.rst:1726 ../../SOI.rst:1730 ../../SOI.rst:1734
-msgid "Island"
-msgstr "Island (Wyspa)"
+#: ../../SOI.rst:1715
+#, fuzzy
+msgid "(|tap|: Add |mana_w|.)"
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
-#: ../../SOI.rst:1738 ../../SOI.rst:1742 ../../SOI.rst:1746
-msgid "Swamp"
-msgstr "Swamp (Bagno)"
+#: ../../SOI.rst:1720
+msgid ":mtgtip:`Island`"
+msgstr ""
 
-#: ../../SOI.rst:1750 ../../SOI.rst:1754 ../../SOI.rst:1758
-msgid "Mountain"
+#: ../../SOI.rst:1719
+#, fuzzy
+msgid "(|tap|: Add |mana_u|.)"
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
+
+#: ../../SOI.rst:1724
+msgid ":mtgtip:`Swamp`"
+msgstr ""
+
+#: ../../SOI.rst:1723
+#, fuzzy
+msgid "(|tap|: Add |mana_b|.)"
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
+
+#: ../../SOI.rst:1728
+#, fuzzy
+msgid ":mtgtip:`Mountain`"
 msgstr "Mountain (Góra)"
 
-#: ../../SOI.rst:1762 ../../SOI.rst:1766 ../../SOI.rst:1770
-msgid "Forest"
-msgstr "Forest (Las)"
+#: ../../SOI.rst:1727
+#, fuzzy
+msgid "(|tap|: Add |mana_r|.)"
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+
+#: ../../SOI.rst:1731
+msgid ":mtgtip:`Forest`"
+msgstr ""
+
+#: ../../SOI.rst:1731
+#, fuzzy
+msgid "(|tap|: Add |mana_g|.)"
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+
+#~ msgid "Plains"
+#~ msgstr "Plains (Równina)"
+
+#~ msgid "Island"
+#~ msgstr "Island (Wyspa)"
+
+#~ msgid "Swamp"
+#~ msgstr "Swamp (Bagno)"
+
+#~ msgid "Forest"
+#~ msgstr "Forest (Las)"
