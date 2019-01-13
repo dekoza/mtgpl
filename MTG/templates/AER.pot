@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2013-2018, Dominik Kozaczko & Strefa Gry
+# Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../AER.rst:5
-msgid "Aether Revolt"
+msgid ":mtgexp:`AER` Aether Revolt"
 msgstr ""
 
 #: ../../AER.rst:14
-msgid "Aerial Modification"
+msgid ":mtgtip:`Aerial Modification`"
 msgstr ""
 
 #: ../../AER.rst:9
@@ -39,7 +39,7 @@ msgid "Enchanted creature gets +2/+2 and has flying."
 msgstr ""
 
 #: ../../AER.rst:20
-msgid "Aeronaut Admiral"
+msgid ":mtgtip:`Aeronaut Admiral`"
 msgstr ""
 
 #: ../../AER.rst:17
@@ -68,7 +68,7 @@ msgid "Vehicles you control have flying."
 msgstr ""
 
 #: ../../AER.rst:28
-msgid "Aether Inspector"
+msgid ":mtgtip:`Aether Inspector`"
 msgstr ""
 
 #: ../../AER.rst:23
@@ -84,7 +84,7 @@ msgid "Whenever Aether Inspector attacks, you may pay {E}{E}. If you do, create 
 msgstr ""
 
 #: ../../AER.rst:34
-msgid "Aethergeode Miner"
+msgid ":mtgtip:`Aethergeode Miner`"
 msgstr ""
 
 #: ../../AER.rst:31
@@ -96,7 +96,7 @@ msgid "Pay {E}{E}: Exile Aethergeode Miner, then return it to the battlefield un
 msgstr ""
 
 #: ../../AER.rst:40
-msgid "Airdrop Aeronauts"
+msgid ":mtgtip:`Airdrop Aeronauts`"
 msgstr ""
 
 #: ../../AER.rst:39
@@ -104,7 +104,7 @@ msgid "Revolt — When Airdrop Aeronauts enters the battlefield, if a permanent 
 msgstr ""
 
 #: ../../AER.rst:48
-msgid "Alley Evasion"
+msgid ":mtgtip:`Alley Evasion`"
 msgstr ""
 
 #: ../../AER.rst:43
@@ -122,7 +122,7 @@ msgid "Return target creature you control to its owner's hand."
 msgstr ""
 
 #: ../../AER.rst:52
-msgid "Audacious Infiltrator"
+msgid ":mtgtip:`Audacious Infiltrator`"
 msgstr ""
 
 #: ../../AER.rst:51
@@ -130,11 +130,11 @@ msgid "Audacious Infiltrator can't be blocked by artifact creatures."
 msgstr ""
 
 #: ../../AER.rst:54
-msgid "Bastion Enforcer"
+msgid ":mtgtip:`Bastion Enforcer`"
 msgstr ""
 
 #: ../../AER.rst:62
-msgid "Call for Unity"
+msgid ":mtgtip:`Call for Unity`"
 msgstr ""
 
 #: ../../AER.rst:59
@@ -146,7 +146,7 @@ msgid "Creatures you control get +1/+1 for each unity counter on Call for Unity.
 msgstr ""
 
 #: ../../AER.rst:70
-msgid "Caught in the Brights"
+msgid ":mtgtip:`Caught in the Brights`"
 msgstr ""
 
 #: ../../AER.rst:65
@@ -163,7 +163,7 @@ msgid "When a Vehicle you control attacks, exile enchanted creature."
 msgstr ""
 
 #: ../../AER.rst:74
-msgid "Consulate Crackdown"
+msgid ":mtgtip:`Consulate Crackdown`"
 msgstr ""
 
 #: ../../AER.rst:73
@@ -171,7 +171,7 @@ msgid "When Consulate Crackdown enters the battlefield, exile all artifacts your
 msgstr ""
 
 #: ../../AER.rst:82
-msgid "Conviction"
+msgid ":mtgtip:`Conviction`"
 msgstr ""
 
 #: ../../AER.rst:79
@@ -183,7 +183,7 @@ msgid "|mana_w|: Return Conviction to its owner's hand."
 msgstr ""
 
 #: ../../AER.rst:86
-msgid "Countless Gears Renegade"
+msgid ":mtgtip:`Countless Gears Renegade`"
 msgstr ""
 
 #: ../../AER.rst:85
@@ -191,7 +191,7 @@ msgid "Revolt — When Countless Gears Renegade enters the battlefield, if a per
 msgstr ""
 
 #: ../../AER.rst:92
-msgid "Dawnfeather Eagle"
+msgid ":mtgtip:`Dawnfeather Eagle`"
 msgstr ""
 
 #: ../../AER.rst:91
@@ -199,7 +199,7 @@ msgid "When Dawnfeather Eagle enters the battlefield, creatures you control get 
 msgstr ""
 
 #: ../../AER.rst:96
-msgid "Deadeye Harpooner"
+msgid ":mtgtip:`Deadeye Harpooner`"
 msgstr ""
 
 #: ../../AER.rst:95
@@ -207,7 +207,7 @@ msgid "Revolt — When Deadeye Harpooner enters the battlefield, if a permanent 
 msgstr ""
 
 #: ../../AER.rst:102
-msgid "Decommission"
+msgid ":mtgtip:`Decommission`"
 msgstr ""
 
 #: ../../AER.rst:99
@@ -219,7 +219,7 @@ msgid "Revolt — If a permanent you controlled left the battlefield this turn, 
 msgstr ""
 
 #: ../../AER.rst:106
-msgid "Deft Dismissal"
+msgid ":mtgtip:`Deft Dismissal`"
 msgstr ""
 
 #: ../../AER.rst:105
@@ -227,7 +227,7 @@ msgid "Deft Dismissal deals 3 damage divided as you choose among one, two, or th
 msgstr ""
 
 #: ../../AER.rst:112
-msgid "Exquisite Archangel"
+msgid ":mtgtip:`Exquisite Archangel`"
 msgstr ""
 
 #: ../../AER.rst:111
@@ -235,7 +235,7 @@ msgid "If you would lose the game, instead exile Exquisite Archangel and your li
 msgstr ""
 
 #: ../../AER.rst:116
-msgid "Felidar Guardian"
+msgid ":mtgtip:`Felidar Guardian`"
 msgstr ""
 
 #: ../../AER.rst:115
@@ -243,11 +243,11 @@ msgid "When Felidar Guardian enters the battlefield, you may exile another targe
 msgstr ""
 
 #: ../../AER.rst:120
-msgid "Ghirapur Osprey"
+msgid ":mtgtip:`Ghirapur Osprey`"
 msgstr ""
 
 #: ../../AER.rst:124
-msgid "Restoration Specialist"
+msgid ":mtgtip:`Restoration Specialist`"
 msgstr ""
 
 #: ../../AER.rst:123
@@ -255,7 +255,7 @@ msgid "|mana_w|, Sacrifice Restoration Specialist: Return up to one target artif
 msgstr ""
 
 #: ../../AER.rst:130
-msgid "Solemn Recruit"
+msgid ":mtgtip:`Solemn Recruit`"
 msgstr ""
 
 #: ../../AER.rst:127
@@ -267,7 +267,7 @@ msgid "Revolt — At the beginning of your end step, if a permanent you controll
 msgstr ""
 
 #: ../../AER.rst:134
-msgid "Sram, Senior Edificer"
+msgid ":mtgtip:`Sram, Senior Edificer`"
 msgstr ""
 
 #: ../../AER.rst:133
@@ -275,7 +275,7 @@ msgid "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card."
 msgstr ""
 
 #: ../../AER.rst:140
-msgid "Sram's Expertise"
+msgid ":mtgtip:`Sram's Expertise`"
 msgstr ""
 
 #: ../../AER.rst:137
@@ -288,7 +288,7 @@ msgid "You may cast a card with converted mana cost 3 or less from your hand wit
 msgstr ""
 
 #: ../../AER.rst:144
-msgid "Thopter Arrest"
+msgid ":mtgtip:`Thopter Arrest`"
 msgstr ""
 
 #: ../../AER.rst:143
@@ -296,7 +296,7 @@ msgid "When Thopter Arrest enters the battlefield, exile target artifact or crea
 msgstr ""
 
 #: ../../AER.rst:152
-msgid "Aether Swooper"
+msgid ":mtgtip:`Aether Swooper`"
 msgstr ""
 
 #: ../../AER.rst:149
@@ -308,7 +308,7 @@ msgid "Whenever Aether Swooper attacks, you may pay {E}{E}. If you do, create a 
 msgstr ""
 
 #: ../../AER.rst:160
-msgid "Aethertide Whale"
+msgid ":mtgtip:`Aethertide Whale`"
 msgstr ""
 
 #: ../../AER.rst:157
@@ -320,7 +320,7 @@ msgid "Pay {E}{E}{E}{E}: Return Aethertide Whale to its owner's hand."
 msgstr ""
 
 #: ../../AER.rst:166
-msgid "Baral, Chief of Compliance"
+msgid ":mtgtip:`Baral, Chief of Compliance`"
 msgstr ""
 
 #: ../../AER.rst:163
@@ -332,7 +332,7 @@ msgid "Whenever a spell or ability you control counters a spell, you may draw a 
 msgstr ""
 
 #: ../../AER.rst:172
-msgid "Baral's Expertise"
+msgid ":mtgtip:`Baral's Expertise`"
 msgstr ""
 
 #: ../../AER.rst:169
@@ -344,7 +344,7 @@ msgid "You may cast a card with converted mana cost 4 or less from your hand wit
 msgstr ""
 
 #: ../../AER.rst:178
-msgid "Bastion Inventor"
+msgid ":mtgtip:`Bastion Inventor`"
 msgstr ""
 
 #: ../../AER.rst:175
@@ -370,7 +370,7 @@ msgid "Hexproof (This creature can't be the target of spells or abilities your o
 msgstr ""
 
 #: ../../AER.rst:182
-msgid "Disallow"
+msgid ":mtgtip:`Disallow`"
 msgstr ""
 
 #: ../../AER.rst:181
@@ -378,7 +378,7 @@ msgid "Counter target spell, activated ability, or triggered ability. (Mana abil
 msgstr ""
 
 #: ../../AER.rst:186
-msgid "Dispersal Technician"
+msgid ":mtgtip:`Dispersal Technician`"
 msgstr ""
 
 #: ../../AER.rst:185
@@ -386,7 +386,7 @@ msgid "When Dispersal Technician enters the battlefield, you may return target a
 msgstr ""
 
 #: ../../AER.rst:190
-msgid "Efficient Construction"
+msgid ":mtgtip:`Efficient Construction`"
 msgstr ""
 
 #: ../../AER.rst:189
@@ -394,7 +394,7 @@ msgid "Whenever you cast an artifact spell, create a 1/1 colorless Thopter artif
 msgstr ""
 
 #: ../../AER.rst:196
-msgid "Hinterland Drake"
+msgid ":mtgtip:`Hinterland Drake`"
 msgstr ""
 
 #: ../../AER.rst:195
@@ -402,7 +402,7 @@ msgid "Hinterland Drake can't block artifact creatures."
 msgstr ""
 
 #: ../../AER.rst:202
-msgid "Ice Over"
+msgid ":mtgtip:`Ice Over`"
 msgstr ""
 
 #: ../../AER.rst:199
@@ -414,7 +414,7 @@ msgid "Enchanted permanent doesn't untap during its controller's untap step."
 msgstr ""
 
 #: ../../AER.rst:208
-msgid "Illusionist's Stratagem"
+msgid ":mtgtip:`Illusionist's Stratagem`"
 msgstr ""
 
 #: ../../AER.rst:205
@@ -427,7 +427,7 @@ msgid "Draw a card."
 msgstr ""
 
 #: ../../AER.rst:214
-msgid "Leave in the Dust"
+msgid ":mtgtip:`Leave in the Dust`"
 msgstr ""
 
 #: ../../AER.rst:211
@@ -435,7 +435,7 @@ msgid "Return target nonland permanent to its owner's hand."
 msgstr ""
 
 #: ../../AER.rst:220
-msgid "Mechanized Production"
+msgid ":mtgtip:`Mechanized Production`"
 msgstr ""
 
 #: ../../AER.rst:217
@@ -447,7 +447,7 @@ msgid "At the beginning of your upkeep, create a token that's a copy of enchante
 msgstr ""
 
 #: ../../AER.rst:226
-msgid "Metallic Rebuke"
+msgid ":mtgtip:`Metallic Rebuke`"
 msgstr ""
 
 #: ../../AER.rst:225
@@ -455,7 +455,7 @@ msgid "Counter target spell unless its controller pays |mana_3|."
 msgstr ""
 
 #: ../../AER.rst:230
-msgid "Negate"
+msgid ":mtgtip:`Negate`"
 msgstr ""
 
 #: ../../AER.rst:229
@@ -463,7 +463,7 @@ msgid "Counter target noncreature spell."
 msgstr ""
 
 #: ../../AER.rst:234
-msgid "Quicksmith Spy"
+msgid ":mtgtip:`Quicksmith Spy`"
 msgstr ""
 
 #: ../../AER.rst:233
@@ -471,7 +471,7 @@ msgid "When Quicksmith Spy enters the battlefield, target artifact you control g
 msgstr ""
 
 #: ../../AER.rst:240
-msgid "Reverse Engineer"
+msgid ":mtgtip:`Reverse Engineer`"
 msgstr ""
 
 #: ../../AER.rst:239
@@ -479,7 +479,7 @@ msgid "Draw three cards."
 msgstr ""
 
 #: ../../AER.rst:244
-msgid "Salvage Scuttler"
+msgid ":mtgtip:`Salvage Scuttler`"
 msgstr ""
 
 #: ../../AER.rst:243
@@ -487,7 +487,7 @@ msgid "Whenever Salvage Scuttler attacks, return an artifact you control to its 
 msgstr ""
 
 #: ../../AER.rst:252
-msgid "Shielded Aether Thief"
+msgid ":mtgtip:`Shielded Aether Thief`"
 msgstr ""
 
 #: ../../AER.rst:247
@@ -503,7 +503,7 @@ msgid "|tap|, Pay {E}{E}{E}: Draw a card."
 msgstr ""
 
 #: ../../AER.rst:258
-msgid "Shipwreck Moray"
+msgid ":mtgtip:`Shipwreck Moray`"
 msgstr ""
 
 #: ../../AER.rst:255
@@ -515,7 +515,7 @@ msgid "Pay {E}: Shipwreck Moray gets +2/-2 until end of turn."
 msgstr ""
 
 #: ../../AER.rst:264
-msgid "Skyship Plunderer"
+msgid ":mtgtip:`Skyship Plunderer`"
 msgstr ""
 
 #: ../../AER.rst:263
@@ -523,7 +523,7 @@ msgid "Whenever Skyship Plunderer deals combat damage to a player, for each kind
 msgstr ""
 
 #: ../../AER.rst:268
-msgid "Take into Custody"
+msgid ":mtgtip:`Take into Custody`"
 msgstr ""
 
 #: ../../AER.rst:267
@@ -531,7 +531,7 @@ msgid "Tap target creature. It doesn't untap during its controller's next untap 
 msgstr ""
 
 #: ../../AER.rst:272
-msgid "Trophy Mage"
+msgid ":mtgtip:`Trophy Mage`"
 msgstr ""
 
 #: ../../AER.rst:271
@@ -539,7 +539,7 @@ msgid "When Trophy Mage enters the battlefield, you may search your library for 
 msgstr ""
 
 #: ../../AER.rst:278
-msgid "Whir of Invention"
+msgid ":mtgtip:`Whir of Invention`"
 msgstr ""
 
 #: ../../AER.rst:277
@@ -547,11 +547,11 @@ msgid "Search your library for an artifact card with converted mana cost X or le
 msgstr ""
 
 #: ../../AER.rst:284
-msgid "Wind-Kin Raiders"
+msgid ":mtgtip:`Wind-Kin Raiders`"
 msgstr ""
 
 #: ../../AER.rst:292
-msgid "Aether Poisoner"
+msgid ":mtgtip:`Aether Poisoner`"
 msgstr ""
 
 #: ../../AER.rst:287
@@ -567,7 +567,7 @@ msgid "Whenever Aether Poisoner attacks, you may pay {E}{E}. If you do, create a
 msgstr ""
 
 #: ../../AER.rst:296
-msgid "Alley Strangler"
+msgid ":mtgtip:`Alley Strangler`"
 msgstr ""
 
 #: ../../AER.rst:295
@@ -577,7 +577,7 @@ msgid "Menace"
 msgstr ""
 
 #: ../../AER.rst:302
-msgid "Battle at the Bridge"
+msgid ":mtgtip:`Battle at the Bridge`"
 msgstr ""
 
 #: ../../AER.rst:301
@@ -585,7 +585,7 @@ msgid "Target creature gets -X/-X until end of turn. You gain X life."
 msgstr ""
 
 #: ../../AER.rst:306
-msgid "Cruel Finality"
+msgid ":mtgtip:`Cruel Finality`"
 msgstr ""
 
 #: ../../AER.rst:305
@@ -593,7 +593,7 @@ msgid "Target creature gets -2/-2 until end of turn. Scry 1. (Look at the top ca
 msgstr ""
 
 #: ../../AER.rst:310
-msgid "Daring Demolition"
+msgid ":mtgtip:`Daring Demolition`"
 msgstr ""
 
 #: ../../AER.rst:309
@@ -601,7 +601,7 @@ msgid "Destroy target creature or Vehicle."
 msgstr ""
 
 #: ../../AER.rst:314
-msgid "Defiant Salvager"
+msgid ":mtgtip:`Defiant Salvager`"
 msgstr ""
 
 #: ../../AER.rst:313
@@ -609,7 +609,7 @@ msgid "Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvage
 msgstr ""
 
 #: ../../AER.rst:320
-msgid "Fatal Push"
+msgid ":mtgtip:`Fatal Push`"
 msgstr ""
 
 #: ../../AER.rst:317
@@ -621,7 +621,7 @@ msgid "Revolt — Destroy that creature if it has converted mana cost 4 or less 
 msgstr ""
 
 #: ../../AER.rst:326
-msgid "Fen Hauler"
+msgid ":mtgtip:`Fen Hauler`"
 msgstr ""
 
 #: ../../AER.rst:325
@@ -629,7 +629,7 @@ msgid "Fen Hauler can't be blocked by artifact creatures."
 msgstr ""
 
 #: ../../AER.rst:332
-msgid "Foundry Hornet"
+msgid ":mtgtip:`Foundry Hornet`"
 msgstr ""
 
 #: ../../AER.rst:331
@@ -637,7 +637,7 @@ msgid "When Foundry Hornet enters the battlefield, if you control a creature wit
 msgstr ""
 
 #: ../../AER.rst:336
-msgid "Fourth Bridge Prowler"
+msgid ":mtgtip:`Fourth Bridge Prowler`"
 msgstr ""
 
 #: ../../AER.rst:335
@@ -645,7 +645,7 @@ msgid "When Fourth Bridge Prowler enters the battlefield, you may have target cr
 msgstr ""
 
 #: ../../AER.rst:340
-msgid "Gifted Aetherborn"
+msgid ":mtgtip:`Gifted Aetherborn`"
 msgstr ""
 
 #: ../../AER.rst:339
@@ -653,7 +653,7 @@ msgid "Deathtouch, lifelink"
 msgstr ""
 
 #: ../../AER.rst:348
-msgid "Glint-Sleeve Siphoner"
+msgid ":mtgtip:`Glint-Sleeve Siphoner`"
 msgstr ""
 
 #: ../../AER.rst:345
@@ -665,7 +665,7 @@ msgid "At the beginning of your upkeep, you may pay {E}{E}. If you do, you draw 
 msgstr ""
 
 #: ../../AER.rst:354
-msgid "Gonti's Machinations"
+msgid ":mtgtip:`Gonti's Machinations`"
 msgstr ""
 
 #: ../../AER.rst:351
@@ -677,7 +677,7 @@ msgid "Pay {E}{E}, Sacrifice Gonti's Machinations: Each opponent loses 3 life. Y
 msgstr ""
 
 #: ../../AER.rst:364
-msgid "Herald of Anguish"
+msgid ":mtgtip:`Herald of Anguish`"
 msgstr ""
 
 #: ../../AER.rst:361
@@ -689,7 +689,7 @@ msgid "|mana_1|\\ |mana_b|, Sacrifice an artifact: Target creature gets -2/-2 un
 msgstr ""
 
 #: ../../AER.rst:368
-msgid "Ironclad Revolutionary"
+msgid ":mtgtip:`Ironclad Revolutionary`"
 msgstr ""
 
 #: ../../AER.rst:367
@@ -697,7 +697,7 @@ msgid "When Ironclad Revolutionary enters the battlefield, you may sacrifice an 
 msgstr ""
 
 #: ../../AER.rst:374
-msgid "Midnight Entourage"
+msgid ":mtgtip:`Midnight Entourage`"
 msgstr ""
 
 #: ../../AER.rst:371
@@ -709,7 +709,7 @@ msgid "Whenever Midnight Entourage or another Aetherborn you control dies, you d
 msgstr ""
 
 #: ../../AER.rst:380
-msgid "Night Market Aeronaut"
+msgid ":mtgtip:`Night Market Aeronaut`"
 msgstr ""
 
 #: ../../AER.rst:379
@@ -717,7 +717,7 @@ msgid "Revolt — Night Market Aeronaut enters the battlefield with a +1/+1 coun
 msgstr ""
 
 #: ../../AER.rst:384
-msgid "Perilous Predicament"
+msgid ":mtgtip:`Perilous Predicament`"
 msgstr ""
 
 #: ../../AER.rst:383
@@ -725,7 +725,7 @@ msgid "Each opponent sacrifices an artifact creature and a nonartifact creature.
 msgstr ""
 
 #: ../../AER.rst:388
-msgid "Renegade's Getaway"
+msgid ":mtgtip:`Renegade's Getaway`"
 msgstr ""
 
 #: ../../AER.rst:387
@@ -733,7 +733,7 @@ msgid "Target permanent gains indestructible until end of turn. Create a 1/1 col
 msgstr ""
 
 #: ../../AER.rst:392
-msgid "Resourceful Return"
+msgid ":mtgtip:`Resourceful Return`"
 msgstr ""
 
 #: ../../AER.rst:391
@@ -741,7 +741,7 @@ msgid "Return target creature card from your graveyard to your hand. If you cont
 msgstr ""
 
 #: ../../AER.rst:396
-msgid "Secret Salvage"
+msgid ":mtgtip:`Secret Salvage`"
 msgstr ""
 
 #: ../../AER.rst:395
@@ -749,7 +749,7 @@ msgid "Exile target nonland card from your graveyard. Search your library for an
 msgstr ""
 
 #: ../../AER.rst:402
-msgid "Sly Requisitioner"
+msgid ":mtgtip:`Sly Requisitioner`"
 msgstr ""
 
 #: ../../AER.rst:401
@@ -757,7 +757,7 @@ msgid "Whenever a nontoken artifact you control is put into a graveyard from the
 msgstr ""
 
 #: ../../AER.rst:406
-msgid "Vengeful Rebel"
+msgid ":mtgtip:`Vengeful Rebel`"
 msgstr ""
 
 #: ../../AER.rst:405
@@ -765,7 +765,7 @@ msgid "Revolt — When Vengeful Rebel enters the battlefield, if a permanent you
 msgstr ""
 
 #: ../../AER.rst:414
-msgid "Yahenni, Undying Partisan"
+msgid ":mtgtip:`Yahenni, Undying Partisan`"
 msgstr ""
 
 #: ../../AER.rst:409
@@ -781,7 +781,7 @@ msgid "Sacrifice another creature: Yahenni gains indestructible until end of tur
 msgstr ""
 
 #: ../../AER.rst:420
-msgid "Yahenni's Expertise"
+msgid ":mtgtip:`Yahenni's Expertise`"
 msgstr ""
 
 #: ../../AER.rst:417
@@ -789,7 +789,7 @@ msgid "All creatures get -3/-3 until end of turn."
 msgstr ""
 
 #: ../../AER.rst:428
-msgid "Aether Chaser"
+msgid ":mtgtip:`Aether Chaser`"
 msgstr ""
 
 #: ../../AER.rst:423
@@ -806,7 +806,7 @@ msgid "Whenever Aether Chaser attacks, you may pay {E}{E}. If you do, create a 1
 msgstr ""
 
 #: ../../AER.rst:432
-msgid "Chandra's Revolution"
+msgid ":mtgtip:`Chandra's Revolution`"
 msgstr ""
 
 #: ../../AER.rst:431
@@ -814,7 +814,7 @@ msgid "Chandra's Revolution deals 4 damage to target creature. Tap target land. 
 msgstr ""
 
 #: ../../AER.rst:440
-msgid "Destructive Tampering"
+msgid ":mtgtip:`Destructive Tampering`"
 msgstr ""
 
 #: ../../AER.rst:437
@@ -826,7 +826,7 @@ msgid "Creatures without flying can't block this turn."
 msgstr ""
 
 #: ../../AER.rst:444
-msgid "Embraal Gear-Smasher"
+msgid ":mtgtip:`Embraal Gear-Smasher`"
 msgstr ""
 
 #: ../../AER.rst:443
@@ -834,7 +834,7 @@ msgid "|tap|, Sacrifice an artifact: Embraal Gear-Smasher deals 2 damage to each
 msgstr ""
 
 #: ../../AER.rst:450
-msgid "Enraged Giant"
+msgid ":mtgtip:`Enraged Giant`"
 msgstr ""
 
 #: ../../AER.rst:449
@@ -842,7 +842,7 @@ msgid "Trample, haste"
 msgstr ""
 
 #: ../../AER.rst:458
-msgid "Freejam Regent"
+msgid ":mtgtip:`Freejam Regent`"
 msgstr ""
 
 #: ../../AER.rst:457
@@ -850,7 +850,7 @@ msgid "|mana_1|\\ |mana_r|: Freejam Regent gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../AER.rst:462
-msgid "Frontline Rebel"
+msgid ":mtgtip:`Frontline Rebel`"
 msgstr ""
 
 #: ../../AER.rst:461
@@ -858,7 +858,7 @@ msgid "Frontline Rebel attacks each combat if able."
 msgstr ""
 
 #: ../../AER.rst:470
-msgid "Gremlin Infestation"
+msgid ":mtgtip:`Gremlin Infestation`"
 msgstr ""
 
 #: ../../AER.rst:465
@@ -875,7 +875,7 @@ msgid "When enchanted artifact is put into a graveyard, create a 2/2 red Gremlin
 msgstr ""
 
 #: ../../AER.rst:474
-msgid "Hungry Flames"
+msgid ":mtgtip:`Hungry Flames`"
 msgstr ""
 
 #: ../../AER.rst:473
@@ -883,7 +883,7 @@ msgid "Hungry Flames deals 3 damage to target creature and 2 damage to target pl
 msgstr ""
 
 #: ../../AER.rst:478
-msgid "Indomitable Creativity"
+msgid ":mtgtip:`Indomitable Creativity`"
 msgstr ""
 
 #: ../../AER.rst:477
@@ -891,7 +891,7 @@ msgid "Destroy X target artifacts and/or creatures. For each permanent destroyed
 msgstr ""
 
 #: ../../AER.rst:486
-msgid "Invigorated Rampage"
+msgid ":mtgtip:`Invigorated Rampage`"
 msgstr ""
 
 #: ../../AER.rst:483
@@ -903,7 +903,7 @@ msgid "Two target creatures each get +2/+0 and gain trample until end of turn."
 msgstr ""
 
 #: ../../AER.rst:492
-msgid "Kari Zev, Skyship Raider"
+msgid ":mtgtip:`Kari Zev, Skyship Raider`"
 msgstr ""
 
 #: ../../AER.rst:489
@@ -915,7 +915,7 @@ msgid "Whenever Kari Zev, Skyship Raider attacks, create a legendary 2/1 red Mon
 msgstr ""
 
 #: ../../AER.rst:498
-msgid "Kari Zev's Expertise"
+msgid ":mtgtip:`Kari Zev's Expertise`"
 msgstr ""
 
 #: ../../AER.rst:495
@@ -927,11 +927,11 @@ msgid "You may cast a card with converted mana cost 2 or less from your hand wit
 msgstr ""
 
 #: ../../AER.rst:500
-msgid "Lathnu Sailback"
+msgid ":mtgtip:`Lathnu Sailback`"
 msgstr ""
 
 #: ../../AER.rst:508
-msgid "Lightning Runner"
+msgid ":mtgtip:`Lightning Runner`"
 msgstr ""
 
 #: ../../AER.rst:505
@@ -943,7 +943,7 @@ msgid "Whenever Lightning Runner attacks, you get {E}{E} (two energy counters), 
 msgstr ""
 
 #: ../../AER.rst:512
-msgid "Pia's Revolution"
+msgid ":mtgtip:`Pia's Revolution`"
 msgstr ""
 
 #: ../../AER.rst:511
@@ -951,7 +951,7 @@ msgid "Whenever a nontoken artifact is put into your graveyard from the battlefi
 msgstr ""
 
 #: ../../AER.rst:516
-msgid "Precise Strike"
+msgid ":mtgtip:`Precise Strike`"
 msgstr ""
 
 #: ../../AER.rst:515
@@ -959,7 +959,7 @@ msgid "Target creature gets +1/+0 and gains first strike until end of turn."
 msgstr ""
 
 #: ../../AER.rst:520
-msgid "Quicksmith Rebel"
+msgid ":mtgtip:`Quicksmith Rebel`"
 msgstr ""
 
 #: ../../AER.rst:519
@@ -967,7 +967,7 @@ msgid "When Quicksmith Rebel enters the battlefield, target artifact you control
 msgstr ""
 
 #: ../../AER.rst:524
-msgid "Ravenous Intruder"
+msgid ":mtgtip:`Ravenous Intruder`"
 msgstr ""
 
 #: ../../AER.rst:523
@@ -975,7 +975,7 @@ msgid "Sacrifice an artifact: Ravenous Intruder gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../AER.rst:530
-msgid "Reckless Racer"
+msgid ":mtgtip:`Reckless Racer`"
 msgstr ""
 
 #: ../../AER.rst:529
@@ -983,7 +983,7 @@ msgid "Whenever Reckless Racer becomes tapped, you may discard a card. If you do
 msgstr ""
 
 #: ../../AER.rst:534
-msgid "Release the Gremlins"
+msgid ":mtgtip:`Release the Gremlins`"
 msgstr ""
 
 #: ../../AER.rst:533
@@ -991,7 +991,7 @@ msgid "Destroy X target artifacts. Create X 2/2 red Gremlin creature tokens."
 msgstr ""
 
 #: ../../AER.rst:542
-msgid "Scrapper Champion"
+msgid ":mtgtip:`Scrapper Champion`"
 msgstr ""
 
 #: ../../AER.rst:537
@@ -1007,7 +1007,7 @@ msgid "Whenever Scrapper Champion attacks, you may pay {E}{E}. If you do, put a 
 msgstr ""
 
 #: ../../AER.rst:546
-msgid "Shock"
+msgid ":mtgtip:`Shock`"
 msgstr ""
 
 #: ../../AER.rst:545
@@ -1015,7 +1015,7 @@ msgid "Shock deals 2 damage to any target."
 msgstr ""
 
 #: ../../AER.rst:554
-msgid "Siege Modification"
+msgid ":mtgtip:`Siege Modification`"
 msgstr ""
 
 #: ../../AER.rst:553
@@ -1023,11 +1023,11 @@ msgid "Enchanted creature gets +3/+0 and has first strike."
 msgstr ""
 
 #: ../../AER.rst:560
-msgid "Sweatworks Brawler"
+msgid ":mtgtip:`Sweatworks Brawler`"
 msgstr ""
 
 #: ../../AER.rst:564
-msgid "Wrangle"
+msgid ":mtgtip:`Wrangle`"
 msgstr ""
 
 #: ../../AER.rst:563
@@ -1035,7 +1035,7 @@ msgid "Gain control of target creature with power 4 or less until end of turn. U
 msgstr ""
 
 #: ../../AER.rst:570
-msgid "Aether Herder"
+msgid ":mtgtip:`Aether Herder`"
 msgstr ""
 
 #: ../../AER.rst:567
@@ -1047,7 +1047,7 @@ msgid "Whenever Aether Herder attacks, you may pay {E}{E}. If you do, create a 1
 msgstr ""
 
 #: ../../AER.rst:578
-msgid "Aetherstream Leopard"
+msgid ":mtgtip:`Aetherstream Leopard`"
 msgstr ""
 
 #: ../../AER.rst:573
@@ -1068,7 +1068,7 @@ msgid "Whenever Aetherstream Leopard attacks, you may pay {E}. If you do, it get
 msgstr ""
 
 #: ../../AER.rst:586
-msgid "Aetherwind Basker"
+msgid ":mtgtip:`Aetherwind Basker`"
 msgstr ""
 
 #: ../../AER.rst:583
@@ -1080,7 +1080,7 @@ msgid "Pay {E}: Aetherwind Basker gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../AER.rst:590
-msgid "Aid from the Cowl"
+msgid ":mtgtip:`Aid from the Cowl`"
 msgstr ""
 
 #: ../../AER.rst:589
@@ -1088,7 +1088,7 @@ msgid "Revolt — At the beginning of your end step, if a permanent you controll
 msgstr ""
 
 #: ../../AER.rst:594
-msgid "Druid of the Cowl"
+msgid ":mtgtip:`Druid of the Cowl`"
 msgstr ""
 
 #: ../../AER.rst:593
@@ -1096,7 +1096,7 @@ msgid "|tap|: Add |mana_g|."
 msgstr ""
 
 #: ../../AER.rst:598
-msgid "Greenbelt Rampager"
+msgid ":mtgtip:`Greenbelt Rampager`"
 msgstr ""
 
 #: ../../AER.rst:597
@@ -1104,7 +1104,7 @@ msgid "When Greenbelt Rampager enters the battlefield, pay {E}{E} (two energy co
 msgstr ""
 
 #: ../../AER.rst:602
-msgid "Greenwheel Liberator"
+msgid ":mtgtip:`Greenwheel Liberator`"
 msgstr ""
 
 #: ../../AER.rst:601
@@ -1112,7 +1112,7 @@ msgid "Revolt — Greenwheel Liberator enters the battlefield with two +1/+1 cou
 msgstr ""
 
 #: ../../AER.rst:606
-msgid "Heroic Intervention"
+msgid ":mtgtip:`Heroic Intervention`"
 msgstr ""
 
 #: ../../AER.rst:605
@@ -1120,7 +1120,7 @@ msgid "Permanents you control gain hexproof and indestructible until end of turn
 msgstr ""
 
 #: ../../AER.rst:610
-msgid "Hidden Herbalists"
+msgid ":mtgtip:`Hidden Herbalists`"
 msgstr ""
 
 #: ../../AER.rst:609
@@ -1128,7 +1128,7 @@ msgid "Revolt — When Hidden Herbalists enters the battlefield, if a permanent 
 msgstr ""
 
 #: ../../AER.rst:614
-msgid "Highspire Infusion"
+msgid ":mtgtip:`Highspire Infusion`"
 msgstr ""
 
 #: ../../AER.rst:613
@@ -1136,7 +1136,7 @@ msgid "Target creature gets +3/+3 until end of turn. You get {E}{E} (two energy 
 msgstr ""
 
 #: ../../AER.rst:618
-msgid "Lifecraft Awakening"
+msgid ":mtgtip:`Lifecraft Awakening`"
 msgstr ""
 
 #: ../../AER.rst:617
@@ -1144,7 +1144,7 @@ msgid "Put X +1/+1 counters on target artifact you control. If it isn't a creatu
 msgstr ""
 
 #: ../../AER.rst:624
-msgid "Lifecraft Cavalry"
+msgid ":mtgtip:`Lifecraft Cavalry`"
 msgstr ""
 
 #: ../../AER.rst:623
@@ -1152,7 +1152,7 @@ msgid "Revolt — Lifecraft Cavalry enters the battlefield with two +1/+1 counte
 msgstr ""
 
 #: ../../AER.rst:628
-msgid "Lifecrafter's Gift"
+msgid ":mtgtip:`Lifecrafter's Gift`"
 msgstr ""
 
 #: ../../AER.rst:627
@@ -1160,7 +1160,7 @@ msgid "Put a +1/+1 counter on target creature, then put a +1/+1 counter on each 
 msgstr ""
 
 #: ../../AER.rst:634
-msgid "Maulfist Revolutionary"
+msgid ":mtgtip:`Maulfist Revolutionary`"
 msgstr ""
 
 #: ../../AER.rst:633
@@ -1168,7 +1168,7 @@ msgid "When Maulfist Revolutionary enters the battlefield or dies, for each kind
 msgstr ""
 
 #: ../../AER.rst:638
-msgid "Monstrous Onslaught"
+msgid ":mtgtip:`Monstrous Onslaught`"
 msgstr ""
 
 #: ../../AER.rst:637
@@ -1176,7 +1176,7 @@ msgid "Monstrous Onslaught deals X damage divided as you choose among any number
 msgstr ""
 
 #: ../../AER.rst:644
-msgid "Narnam Renegade"
+msgid ":mtgtip:`Narnam Renegade`"
 msgstr ""
 
 #: ../../AER.rst:641
@@ -1188,7 +1188,7 @@ msgid "Revolt — Narnam Renegade enters the battlefield with a +1/+1 counter on
 msgstr ""
 
 #: ../../AER.rst:648
-msgid "Natural Obsolescence"
+msgid ":mtgtip:`Natural Obsolescence`"
 msgstr ""
 
 #: ../../AER.rst:647
@@ -1196,7 +1196,7 @@ msgid "Put target artifact on the bottom of its owner's library."
 msgstr ""
 
 #: ../../AER.rst:654
-msgid "Peema Aether-Seer"
+msgid ":mtgtip:`Peema Aether-Seer`"
 msgstr ""
 
 #: ../../AER.rst:651
@@ -1208,7 +1208,7 @@ msgid "Pay {E}{E}{E}: Target creature blocks this turn if able."
 msgstr ""
 
 #: ../../AER.rst:658
-msgid "Prey Upon"
+msgid ":mtgtip:`Prey Upon`"
 msgstr ""
 
 #: ../../AER.rst:657
@@ -1216,7 +1216,7 @@ msgid "Target creature you control fights target creature you don't control. (Ea
 msgstr ""
 
 #: ../../AER.rst:662
-msgid "Ridgescale Tusker"
+msgid ":mtgtip:`Ridgescale Tusker`"
 msgstr ""
 
 #: ../../AER.rst:661
@@ -1224,7 +1224,7 @@ msgid "When Ridgescale Tusker enters the battlefield, put a +1/+1 counter on eac
 msgstr ""
 
 #: ../../AER.rst:668
-msgid "Rishkar, Peema Renegade"
+msgid ":mtgtip:`Rishkar, Peema Renegade`"
 msgstr ""
 
 #: ../../AER.rst:665
@@ -1236,7 +1236,7 @@ msgid "Each creature you control with a counter on it has \"|tap|: Add |mana_g|.
 msgstr ""
 
 #: ../../AER.rst:674
-msgid "Rishkar's Expertise"
+msgid ":mtgtip:`Rishkar's Expertise`"
 msgstr ""
 
 #: ../../AER.rst:671
@@ -1248,7 +1248,7 @@ msgid "You may cast a card with converted mana cost 5 or less from your hand wit
 msgstr ""
 
 #: ../../AER.rst:680
-msgid "Scrounging Bandar"
+msgid ":mtgtip:`Scrounging Bandar`"
 msgstr ""
 
 #: ../../AER.rst:677
@@ -1260,7 +1260,7 @@ msgid "At the beginning of your upkeep, you may move any number of +1/+1 counter
 msgstr ""
 
 #: ../../AER.rst:686
-msgid "Silkweaver Elite"
+msgid ":mtgtip:`Silkweaver Elite`"
 msgstr ""
 
 #: ../../AER.rst:683
@@ -1272,7 +1272,7 @@ msgid "Revolt — When Silkweaver Elite enters the battlefield, if a permanent y
 msgstr ""
 
 #: ../../AER.rst:694
-msgid "Unbridled Growth"
+msgid ":mtgtip:`Unbridled Growth`"
 msgstr ""
 
 #: ../../AER.rst:689
@@ -1288,7 +1288,7 @@ msgid "Sacrifice Unbridled Growth: Draw a card."
 msgstr ""
 
 #: ../../AER.rst:702
-msgid "Ajani Unyielding"
+msgid ":mtgtip:`Ajani Unyielding`"
 msgstr ""
 
 #: ../../AER.rst:697
@@ -1304,7 +1304,7 @@ msgid "−9: Put five +1/+1 counters on each creature you control and five loyal
 msgstr ""
 
 #: ../../AER.rst:708
-msgid "Dark Intimations"
+msgid ":mtgtip:`Dark Intimations`"
 msgstr ""
 
 #: ../../AER.rst:705
@@ -1316,7 +1316,7 @@ msgid "When you cast a Bolas planeswalker spell, exile Dark Intimations from you
 msgstr ""
 
 #: ../../AER.rst:714
-msgid "Hidden Stockpile"
+msgid ":mtgtip:`Hidden Stockpile`"
 msgstr ""
 
 #: ../../AER.rst:711
@@ -1328,7 +1328,7 @@ msgid "|mana_1|, Sacrifice a creature: Scry 1."
 msgstr ""
 
 #: ../../AER.rst:720
-msgid "Maverick Thopterist"
+msgid ":mtgtip:`Maverick Thopterist`"
 msgstr ""
 
 #: ../../AER.rst:719
@@ -1336,7 +1336,7 @@ msgid "When Maverick Thopterist enters the battlefield, create two 1/1 colorless
 msgstr ""
 
 #: ../../AER.rst:726
-msgid "Oath of Ajani"
+msgid ":mtgtip:`Oath of Ajani`"
 msgstr ""
 
 #: ../../AER.rst:723
@@ -1348,7 +1348,7 @@ msgid "Planeswalker spells you cast cost |mana_1| less to cast."
 msgstr ""
 
 #: ../../AER.rst:730
-msgid "Outland Boar"
+msgid ":mtgtip:`Outland Boar`"
 msgstr ""
 
 #: ../../AER.rst:729
@@ -1356,7 +1356,7 @@ msgid "Outland Boar can't be blocked by creatures with power 2 or less."
 msgstr ""
 
 #: ../../AER.rst:734
-msgid "Renegade Rallier"
+msgid ":mtgtip:`Renegade Rallier`"
 msgstr ""
 
 #: ../../AER.rst:733
@@ -1364,7 +1364,7 @@ msgid "Revolt — When Renegade Rallier enters the battlefield, if a permanent y
 msgstr ""
 
 #: ../../AER.rst:738
-msgid "Renegade Wheelsmith"
+msgid ":mtgtip:`Renegade Wheelsmith`"
 msgstr ""
 
 #: ../../AER.rst:737
@@ -1372,7 +1372,7 @@ msgid "Whenever Renegade Wheelsmith becomes tapped, target creature can't block 
 msgstr ""
 
 #: ../../AER.rst:742
-msgid "Rogue Refiner"
+msgid ":mtgtip:`Rogue Refiner`"
 msgstr ""
 
 #: ../../AER.rst:741
@@ -1380,7 +1380,7 @@ msgid "When Rogue Refiner enters the battlefield, draw a card and you get {E}{E}
 msgstr ""
 
 #: ../../AER.rst:748
-msgid "Spire Patrol"
+msgid ":mtgtip:`Spire Patrol`"
 msgstr ""
 
 #: ../../AER.rst:747
@@ -1388,7 +1388,7 @@ msgid "When Spire Patrol enters the battlefield, tap target creature an opponent
 msgstr ""
 
 #: ../../AER.rst:756
-msgid "Tezzeret the Schemer"
+msgid ":mtgtip:`Tezzeret the Schemer`"
 msgstr ""
 
 #: ../../AER.rst:751
@@ -1404,7 +1404,7 @@ msgid "−7: You get an emblem with \"At the beginning of combat on your turn, t
 msgstr ""
 
 #: ../../AER.rst:764
-msgid "Tezzeret's Touch"
+msgid ":mtgtip:`Tezzeret's Touch`"
 msgstr ""
 
 #: ../../AER.rst:761
@@ -1416,7 +1416,7 @@ msgid "When enchanted artifact is put into a graveyard, return that card to its 
 msgstr ""
 
 #: ../../AER.rst:768
-msgid "Weldfast Engineer"
+msgid ":mtgtip:`Weldfast Engineer`"
 msgstr ""
 
 #: ../../AER.rst:767
@@ -1424,7 +1424,7 @@ msgid "At the beginning of combat on your turn, target artifact creature you con
 msgstr ""
 
 #: ../../AER.rst:774
-msgid "Winding Constrictor"
+msgid ":mtgtip:`Winding Constrictor`"
 msgstr ""
 
 #: ../../AER.rst:771
@@ -1436,7 +1436,7 @@ msgid "If you would get one or more counters, you get that many plus one of each
 msgstr ""
 
 #: ../../AER.rst:778
-msgid "Aegis Automaton"
+msgid ":mtgtip:`Aegis Automaton`"
 msgstr ""
 
 #: ../../AER.rst:777
@@ -1444,7 +1444,7 @@ msgid "|mana_4|\\ |mana_w|: Return another target creature you control to its ow
 msgstr ""
 
 #: ../../AER.rst:788
-msgid "Aethersphere Harvester"
+msgid ":mtgtip:`Aethersphere Harvester`"
 msgstr ""
 
 #: ../../AER.rst:783
@@ -1461,7 +1461,7 @@ msgid "Crew 1 (Tap any number of creatures you control with total power 1 or mor
 msgstr ""
 
 #: ../../AER.rst:792
-msgid "Augmenting Automaton"
+msgid ":mtgtip:`Augmenting Automaton`"
 msgstr ""
 
 #: ../../AER.rst:791
@@ -1469,7 +1469,7 @@ msgid "|mana_1|\\ |mana_b|: Augmenting Automaton gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../AER.rst:798
-msgid "Barricade Breaker"
+msgid ":mtgtip:`Barricade Breaker`"
 msgstr ""
 
 #: ../../AER.rst:797
@@ -1477,7 +1477,7 @@ msgid "Barricade Breaker attacks each combat if able."
 msgstr ""
 
 #: ../../AER.rst:802
-msgid "Cogwork Assembler"
+msgid ":mtgtip:`Cogwork Assembler`"
 msgstr ""
 
 #: ../../AER.rst:801
@@ -1485,7 +1485,7 @@ msgid "|mana_7|: Create a token that's a copy of target artifact. That token gai
 msgstr ""
 
 #: ../../AER.rst:806
-msgid "Consulate Dreadnought"
+msgid ":mtgtip:`Consulate Dreadnought`"
 msgstr ""
 
 #: ../../AER.rst:805
@@ -1493,7 +1493,7 @@ msgid "Crew 6 (Tap any number of creatures you control with total power 6 or mor
 msgstr ""
 
 #: ../../AER.rst:812
-msgid "Consulate Turret"
+msgid ":mtgtip:`Consulate Turret`"
 msgstr ""
 
 #: ../../AER.rst:809
@@ -1505,7 +1505,7 @@ msgid "|tap|, Pay {E}{E}{E}: Consulate Turret deals 2 damage to target player or
 msgstr ""
 
 #: ../../AER.rst:816
-msgid "Crackdown Construct"
+msgid ":mtgtip:`Crackdown Construct`"
 msgstr ""
 
 #: ../../AER.rst:815
@@ -1513,7 +1513,7 @@ msgid "Whenever you activate an ability of an artifact or creature that isn't a 
 msgstr ""
 
 #: ../../AER.rst:822
-msgid "Daredevil Dragster"
+msgid ":mtgtip:`Daredevil Dragster`"
 msgstr ""
 
 #: ../../AER.rst:819
@@ -1526,7 +1526,7 @@ msgid "Crew 2 (Tap any number of creatures you control with total power 2 or mor
 msgstr ""
 
 #: ../../AER.rst:826
-msgid "Filigree Crawler"
+msgid ":mtgtip:`Filigree Crawler`"
 msgstr ""
 
 #: ../../AER.rst:825
@@ -1534,11 +1534,11 @@ msgid "When Filigree Crawler dies, create a 1/1 colorless Thopter artifact creat
 msgstr ""
 
 #: ../../AER.rst:830
-msgid "Foundry Assembler"
+msgid ":mtgtip:`Foundry Assembler`"
 msgstr ""
 
 #: ../../AER.rst:836
-msgid "Gonti's Aether Heart"
+msgid ":mtgtip:`Gonti's Aether Heart`"
 msgstr ""
 
 #: ../../AER.rst:833
@@ -1550,7 +1550,7 @@ msgid "Pay {E}{E}{E}{E}{E}{E}{E}{E}, Exile Gonti's Aether Heart: Take an extra t
 msgstr ""
 
 #: ../../AER.rst:844
-msgid "Heart of Kiran"
+msgid ":mtgtip:`Heart of Kiran`"
 msgstr ""
 
 #: ../../AER.rst:839
@@ -1567,7 +1567,7 @@ msgid "You may remove a loyalty counter from a planeswalker you control rather t
 msgstr ""
 
 #: ../../AER.rst:850
-msgid "Hope of Ghirapur"
+msgid ":mtgtip:`Hope of Ghirapur`"
 msgstr ""
 
 #: ../../AER.rst:849
@@ -1575,7 +1575,7 @@ msgid "Sacrifice Hope of Ghirapur: Until your next turn, target player who was d
 msgstr ""
 
 #: ../../AER.rst:856
-msgid "Implement of Combustion"
+msgid ":mtgtip:`Implement of Combustion`"
 msgstr ""
 
 #: ../../AER.rst:853
@@ -1587,7 +1587,7 @@ msgid "When Implement of Combustion is put into a graveyard from the battlefield
 msgstr ""
 
 #: ../../AER.rst:862
-msgid "Implement of Examination"
+msgid ":mtgtip:`Implement of Examination`"
 msgstr ""
 
 #: ../../AER.rst:859
@@ -1599,7 +1599,7 @@ msgid "When Implement of Examination is put into a graveyard from the battlefiel
 msgstr ""
 
 #: ../../AER.rst:868
-msgid "Implement of Ferocity"
+msgid ":mtgtip:`Implement of Ferocity`"
 msgstr ""
 
 #: ../../AER.rst:865
@@ -1611,7 +1611,7 @@ msgid "When Implement of Ferocity is put into a graveyard from the battlefield, 
 msgstr ""
 
 #: ../../AER.rst:874
-msgid "Implement of Improvement"
+msgid ":mtgtip:`Implement of Improvement`"
 msgstr ""
 
 #: ../../AER.rst:871
@@ -1623,7 +1623,7 @@ msgid "When Implement of Improvement is put into a graveyard from the battlefiel
 msgstr ""
 
 #: ../../AER.rst:880
-msgid "Implement of Malice"
+msgid ":mtgtip:`Implement of Malice`"
 msgstr ""
 
 #: ../../AER.rst:877
@@ -1635,7 +1635,7 @@ msgid "When Implement of Malice is put into a graveyard from the battlefield, dr
 msgstr ""
 
 #: ../../AER.rst:884
-msgid "Inspiring Statuary"
+msgid ":mtgtip:`Inspiring Statuary`"
 msgstr ""
 
 #: ../../AER.rst:883
@@ -1643,11 +1643,11 @@ msgid "Nonartifact spells you cast have improvise. (Your artifacts can help cast
 msgstr ""
 
 #: ../../AER.rst:888
-msgid "Irontread Crusher"
+msgid ":mtgtip:`Irontread Crusher`"
 msgstr ""
 
 #: ../../AER.rst:894
-msgid "Lifecrafter's Bestiary"
+msgid ":mtgtip:`Lifecrafter's Bestiary`"
 msgstr ""
 
 #: ../../AER.rst:891
@@ -1659,7 +1659,7 @@ msgid "Whenever you cast a creature spell, you may pay |mana_g|. If you do, draw
 msgstr ""
 
 #: ../../AER.rst:898
-msgid "Merchant's Dockhand"
+msgid ":mtgtip:`Merchant's Dockhand`"
 msgstr ""
 
 #: ../../AER.rst:897
@@ -1667,7 +1667,7 @@ msgid "|mana_3|\\ |mana_u|, |tap|, Tap X untapped artifacts you control: Look at
 msgstr ""
 
 #: ../../AER.rst:906
-msgid "Metallic Mimic"
+msgid ":mtgtip:`Metallic Mimic`"
 msgstr ""
 
 #: ../../AER.rst:901
@@ -1683,7 +1683,7 @@ msgid "Each other creature you control of the chosen type enters the battlefield
 msgstr ""
 
 #: ../../AER.rst:912
-msgid "Mobile Garrison"
+msgid ":mtgtip:`Mobile Garrison`"
 msgstr ""
 
 #: ../../AER.rst:909
@@ -1691,7 +1691,7 @@ msgid "Whenever Mobile Garrison attacks, untap another target artifact or creatu
 msgstr ""
 
 #: ../../AER.rst:916
-msgid "Night Market Guard"
+msgid ":mtgtip:`Night Market Guard`"
 msgstr ""
 
 #: ../../AER.rst:915
@@ -1699,11 +1699,11 @@ msgid "Night Market Guard can block an additional creature each combat."
 msgstr ""
 
 #: ../../AER.rst:920
-msgid "Ornithopter"
+msgid ":mtgtip:`Ornithopter`"
 msgstr ""
 
 #: ../../AER.rst:924
-msgid "Pacification Array"
+msgid ":mtgtip:`Pacification Array`"
 msgstr ""
 
 #: ../../AER.rst:923
@@ -1711,7 +1711,7 @@ msgid "|mana_2|, |tap|: Tap target artifact or creature."
 msgstr ""
 
 #: ../../AER.rst:928
-msgid "Paradox Engine"
+msgid ":mtgtip:`Paradox Engine`"
 msgstr ""
 
 #: ../../AER.rst:927
@@ -1719,7 +1719,7 @@ msgid "Whenever you cast a spell, untap all nonland permanents you control."
 msgstr ""
 
 #: ../../AER.rst:934
-msgid "Peacewalker Colossus"
+msgid ":mtgtip:`Peacewalker Colossus`"
 msgstr ""
 
 #: ../../AER.rst:931
@@ -1731,7 +1731,7 @@ msgid "Crew 4 (Tap any number of creatures you control with total power 4 or mor
 msgstr ""
 
 #: ../../AER.rst:938
-msgid "Planar Bridge"
+msgid ":mtgtip:`Planar Bridge`"
 msgstr ""
 
 #: ../../AER.rst:937
@@ -1739,11 +1739,11 @@ msgid "|mana_8|, |tap|: Search your library for a permanent card, put it onto th
 msgstr ""
 
 #: ../../AER.rst:940
-msgid "Prizefighter Construct"
+msgid ":mtgtip:`Prizefighter Construct`"
 msgstr ""
 
 #: ../../AER.rst:948
-msgid "Renegade Map"
+msgid ":mtgtip:`Renegade Map`"
 msgstr ""
 
 #: ../../AER.rst:945
@@ -1755,7 +1755,7 @@ msgid "|tap|, Sacrifice Renegade Map: Search your library for a basic land card,
 msgstr ""
 
 #: ../../AER.rst:952
-msgid "Reservoir Walker"
+msgid ":mtgtip:`Reservoir Walker`"
 msgstr ""
 
 #: ../../AER.rst:951
@@ -1763,7 +1763,7 @@ msgid "When Reservoir Walker enters the battlefield, you gain 3 life and get {E}
 msgstr ""
 
 #: ../../AER.rst:956
-msgid "Scrap Trawler"
+msgid ":mtgtip:`Scrap Trawler`"
 msgstr ""
 
 #: ../../AER.rst:955
@@ -1771,7 +1771,7 @@ msgid "Whenever Scrap Trawler or another artifact you control is put into a grav
 msgstr ""
 
 #: ../../AER.rst:960
-msgid "Servo Schematic"
+msgid ":mtgtip:`Servo Schematic`"
 msgstr ""
 
 #: ../../AER.rst:959
@@ -1779,7 +1779,7 @@ msgid "When Servo Schematic enters the battlefield or is put into a graveyard fr
 msgstr ""
 
 #: ../../AER.rst:964
-msgid "Treasure Keeper"
+msgid ":mtgtip:`Treasure Keeper`"
 msgstr ""
 
 #: ../../AER.rst:963
@@ -1787,7 +1787,7 @@ msgid "When Treasure Keeper dies, reveal cards from the top of your library unti
 msgstr ""
 
 #: ../../AER.rst:968
-msgid "Universal Solvent"
+msgid ":mtgtip:`Universal Solvent`"
 msgstr ""
 
 #: ../../AER.rst:967
@@ -1795,7 +1795,7 @@ msgid "|mana_7|, |tap|, Sacrifice Universal Solvent: Destroy target permanent."
 msgstr ""
 
 #: ../../AER.rst:976
-msgid "Untethered Express"
+msgid ":mtgtip:`Untethered Express`"
 msgstr ""
 
 #: ../../AER.rst:973
@@ -1803,7 +1803,7 @@ msgid "Whenever Untethered Express attacks, put a +1/+1 counter on it."
 msgstr ""
 
 #: ../../AER.rst:980
-msgid "Verdant Automaton"
+msgid ":mtgtip:`Verdant Automaton`"
 msgstr ""
 
 #: ../../AER.rst:979
@@ -1811,7 +1811,7 @@ msgid "|mana_3|\\ |mana_g|: Put a +1/+1 counter on Verdant Automaton."
 msgstr ""
 
 #: ../../AER.rst:988
-msgid "Walking Ballista"
+msgid ":mtgtip:`Walking Ballista`"
 msgstr ""
 
 #: ../../AER.rst:983
@@ -1827,7 +1827,7 @@ msgid "Remove a +1/+1 counter from Walking Ballista: It deals 1 damage to any ta
 msgstr ""
 
 #: ../../AER.rst:992
-msgid "Watchful Automaton"
+msgid ":mtgtip:`Watchful Automaton`"
 msgstr ""
 
 #: ../../AER.rst:991
@@ -1835,7 +1835,7 @@ msgid "|mana_2|\\ |mana_u|: Scry 1. (Look at the top card of your library. You m
 msgstr ""
 
 #: ../../AER.rst:996
-msgid "Welder Automaton"
+msgid ":mtgtip:`Welder Automaton`"
 msgstr ""
 
 #: ../../AER.rst:995
@@ -1843,7 +1843,7 @@ msgid "|mana_3|\\ |mana_r|: Welder Automaton deals 1 damage to each opponent."
 msgstr ""
 
 #: ../../AER.rst:1002
-msgid "Spire of Industry"
+msgid ":mtgtip:`Spire of Industry`"
 msgstr ""
 
 #: ../../AER.rst:999
@@ -1855,7 +1855,7 @@ msgid "|tap|, Pay 1 life: Add one mana of any color. Activate this ability only 
 msgstr ""
 
 #: ../../AER.rst:1010
-msgid "Ajani, Valiant Protector"
+msgid ":mtgtip:`Ajani, Valiant Protector`"
 msgstr ""
 
 #: ../../AER.rst:1005
@@ -1871,7 +1871,7 @@ msgid "−11: Put X +1/+1 counters on target creature, where X is your life tota
 msgstr ""
 
 #: ../../AER.rst:1014
-msgid "Inspiring Roar"
+msgid ":mtgtip:`Inspiring Roar`"
 msgstr ""
 
 #: ../../AER.rst:1013
@@ -1879,7 +1879,7 @@ msgid "Put a +1/+1 counter on each creature you control."
 msgstr ""
 
 #: ../../AER.rst:1020
-msgid "Ajani's Comrade"
+msgid ":mtgtip:`Ajani's Comrade`"
 msgstr ""
 
 #: ../../AER.rst:1019
@@ -1887,7 +1887,7 @@ msgid "At the beginning of combat on your turn, if you control an Ajani planeswa
 msgstr ""
 
 #: ../../AER.rst:1026
-msgid "Ajani's Aid"
+msgid ":mtgtip:`Ajani's Aid`"
 msgstr ""
 
 #: ../../AER.rst:1023
@@ -1899,7 +1899,7 @@ msgid "Sacrifice Ajani's Aid: Prevent all combat damage a creature of your choic
 msgstr ""
 
 #: ../../AER.rst:1032
-msgid "Tranquil Expanse"
+msgid ":mtgtip:`Tranquil Expanse`"
 msgstr ""
 
 #: ../../AER.rst:1029
@@ -1911,7 +1911,7 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
 #: ../../AER.rst:1040
-msgid "Tezzeret, Master of Metal"
+msgid ":mtgtip:`Tezzeret, Master of Metal`"
 msgstr ""
 
 #: ../../AER.rst:1035
@@ -1927,7 +1927,7 @@ msgid "−8: Gain control of all artifacts and creatures target opponent control
 msgstr ""
 
 #: ../../AER.rst:1044
-msgid "Tezzeret's Betrayal"
+msgid ":mtgtip:`Tezzeret's Betrayal`"
 msgstr ""
 
 #: ../../AER.rst:1043
@@ -1935,7 +1935,7 @@ msgid "Destroy target creature. You may search your library and/or graveyard for
 msgstr ""
 
 #: ../../AER.rst:1050
-msgid "Pendulum of Patterns"
+msgid ":mtgtip:`Pendulum of Patterns`"
 msgstr ""
 
 #: ../../AER.rst:1047
@@ -1947,7 +1947,7 @@ msgid "|mana_5|, |tap|, Sacrifice Pendulum of Patterns: Draw a card."
 msgstr ""
 
 #: ../../AER.rst:1054
-msgid "Tezzeret's Simulacrum"
+msgid ":mtgtip:`Tezzeret's Simulacrum`"
 msgstr ""
 
 #: ../../AER.rst:1053
@@ -1955,7 +1955,7 @@ msgid "|tap|: Target opponent loses 1 life. If you control a Tezzeret planeswalk
 msgstr ""
 
 #: ../../AER.rst:1059
-msgid "Submerged Boneyard"
+msgid ":mtgtip:`Submerged Boneyard`"
 msgstr ""
 
 #: ../../AER.rst:1057

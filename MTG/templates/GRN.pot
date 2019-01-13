@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2013-2018, Dominik Kozaczko & Strefa Gry
+# Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../GRN.rst:5
-msgid "Guilds of Ravnica"
+msgid ":mtgexp:`GRN` Guilds of Ravnica"
 msgstr ""
 
 #: ../../GRN.rst:10
-msgid "Blade Instructor"
+msgid ":mtgtip:`Blade Instructor`"
 msgstr ""
 
 #: ../../GRN.rst:9
@@ -41,7 +41,7 @@ msgid "Mentor (Whenever this creature attacks, put a +1/+1 counter on target att
 msgstr ""
 
 #: ../../GRN.rst:16
-msgid "Bounty Agent"
+msgid ":mtgtip:`Bounty Agent`"
 msgstr ""
 
 #: ../../GRN.rst:13
@@ -59,7 +59,7 @@ msgid "|tap|, Sacrifice Bounty Agent: Destroy target legendary permanent that's 
 msgstr ""
 
 #: ../../GRN.rst:22
-msgid "Candlelight Vigil"
+msgid ":mtgtip:`Candlelight Vigil`"
 msgstr ""
 
 #: ../../GRN.rst:19
@@ -76,7 +76,7 @@ msgid "Enchanted creature gets +3/+2 and has vigilance."
 msgstr ""
 
 #: ../../GRN.rst:26
-msgid "Citywide Bust"
+msgid ":mtgtip:`Citywide Bust`"
 msgstr ""
 
 #: ../../GRN.rst:25
@@ -84,7 +84,7 @@ msgid "Destroy all creatures with toughness 4 or greater."
 msgstr ""
 
 #: ../../GRN.rst:30
-msgid "Collar the Culprit"
+msgid ":mtgtip:`Collar the Culprit`"
 msgstr ""
 
 #: ../../GRN.rst:29
@@ -92,23 +92,19 @@ msgid "Destroy target creature with toughness 4 or greater."
 msgstr ""
 
 #: ../../GRN.rst:36
-msgid "Conclave Tribunal"
+msgid ":mtgtip:`Conclave Tribunal`"
 msgstr ""
 
 #: ../../GRN.rst:33
 #: ../../GRN.rst:63
-#: ../../GRN.rst:95
 #: ../../GRN.rst:107
-#: ../../GRN.rst:157
-#: ../../GRN.rst:641
 #: ../../GRN.rst:733
 #: ../../GRN.rst:739
 #: ../../GRN.rst:761
 #: ../../GRN.rst:767
-#: ../../GRN.rst:1009
 #: ../../GRN.rst:1065
 #: ../../GRN.rst:1169
-#: ../../GRN.rst:1519
+#: ../../GRN.rst:1489
 msgid "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for |mana_1| or one mana of that creature's color.)"
 msgstr ""
 
@@ -117,7 +113,7 @@ msgid "When Conclave Tribunal enters the battlefield, exile target nonland perma
 msgstr ""
 
 #: ../../GRN.rst:44
-msgid "Crush Contraband"
+msgid ":mtgtip:`Crush Contraband`"
 msgstr ""
 
 #: ../../GRN.rst:39
@@ -135,7 +131,7 @@ msgid "Exile target enchantment."
 msgstr ""
 
 #: ../../GRN.rst:50
-msgid "Dawn of Hope"
+msgid ":mtgtip:`Dawn of Hope`"
 msgstr ""
 
 #: ../../GRN.rst:47
@@ -147,7 +143,7 @@ msgid "|mana_3|\\ |mana_w|: Create a 1/1 white Soldier creature token with lifel
 msgstr ""
 
 #: ../../GRN.rst:56
-msgid "Demotion"
+msgid ":mtgtip:`Demotion`"
 msgstr ""
 
 #: ../../GRN.rst:55
@@ -155,7 +151,7 @@ msgid "Enchanted creature can't block, and its activated abilities can't be acti
 msgstr ""
 
 #: ../../GRN.rst:60
-msgid "Divine Visitation"
+msgid ":mtgtip:`Divine Visitation`"
 msgstr ""
 
 #: ../../GRN.rst:59
@@ -163,7 +159,7 @@ msgid "If one or more creature tokens would be created under your control, that 
 msgstr ""
 
 #: ../../GRN.rst:66
-msgid "Flight of Equenauts"
+msgid ":mtgtip:`Flight of Equenauts`"
 msgstr ""
 
 #: ../../GRN.rst:65
@@ -190,7 +186,7 @@ msgid "Flying"
 msgstr ""
 
 #: ../../GRN.rst:70
-msgid "Gird for Battle"
+msgid ":mtgtip:`Gird for Battle`"
 msgstr ""
 
 #: ../../GRN.rst:69
@@ -198,7 +194,7 @@ msgid "Put a +1/+1 counter on each of up to two target creatures."
 msgstr ""
 
 #: ../../GRN.rst:74
-msgid "Haazda Marshal"
+msgid ":mtgtip:`Haazda Marshal`"
 msgstr ""
 
 #: ../../GRN.rst:73
@@ -206,7 +202,7 @@ msgid "Whenever Haazda Marshal and at least two other creatures attack, create a
 msgstr ""
 
 #: ../../GRN.rst:78
-msgid "Healer's Hawk"
+msgid ":mtgtip:`Healer's Hawk`"
 msgstr ""
 
 #: ../../GRN.rst:77
@@ -214,7 +210,7 @@ msgid "Flying, lifelink"
 msgstr ""
 
 #: ../../GRN.rst:82
-msgid "Hunted Witness"
+msgid ":mtgtip:`Hunted Witness`"
 msgstr ""
 
 #: ../../GRN.rst:81
@@ -222,7 +218,7 @@ msgid "When Hunted Witness dies, create a 1/1 white Soldier creature token with 
 msgstr ""
 
 #: ../../GRN.rst:86
-msgid "Inspiring Unicorn"
+msgid ":mtgtip:`Inspiring Unicorn`"
 msgstr ""
 
 #: ../../GRN.rst:85
@@ -230,7 +226,7 @@ msgid "Whenever Inspiring Unicorn attacks, creatures you control get +1/+1 until
 msgstr ""
 
 #: ../../GRN.rst:92
-msgid "Intrusive Packbeast"
+msgid ":mtgtip:`Intrusive Packbeast`"
 msgstr ""
 
 #: ../../GRN.rst:91
@@ -238,11 +234,18 @@ msgid "When Intrusive Packbeast enters the battlefield, tap up to two target cre
 msgstr ""
 
 #: ../../GRN.rst:96
-msgid "Ledev Guardian"
+msgid ":mtgtip:`Ledev Guardian`"
+msgstr ""
+
+#: ../../GRN.rst:95
+#: ../../GRN.rst:157
+#: ../../GRN.rst:641
+#: ../../GRN.rst:1009
+msgid "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for |mana_1| or one mana of the creature's color.)"
 msgstr ""
 
 #: ../../GRN.rst:104
-msgid "Light of the Legion"
+msgid ":mtgtip:`Light of the Legion`"
 msgstr ""
 
 #: ../../GRN.rst:103
@@ -250,7 +253,7 @@ msgid "When Light of the Legion dies, put a +1/+1 counter on each white creature
 msgstr ""
 
 #: ../../GRN.rst:110
-msgid "Loxodon Restorer"
+msgid ":mtgtip:`Loxodon Restorer`"
 msgstr ""
 
 #: ../../GRN.rst:109
@@ -258,7 +261,7 @@ msgid "When Loxodon Restorer enters the battlefield, you gain 4 life."
 msgstr ""
 
 #: ../../GRN.rst:116
-msgid "Luminous Bonds"
+msgid ":mtgtip:`Luminous Bonds`"
 msgstr ""
 
 #: ../../GRN.rst:115
@@ -266,7 +269,7 @@ msgid "Enchanted creature can't attack or block."
 msgstr ""
 
 #: ../../GRN.rst:122
-msgid "Parhelion Patrol"
+msgid ":mtgtip:`Parhelion Patrol`"
 msgstr ""
 
 #: ../../GRN.rst:119
@@ -274,7 +277,7 @@ msgid "Flying, vigilance"
 msgstr ""
 
 #: ../../GRN.rst:126
-msgid "Righteous Blow"
+msgid ":mtgtip:`Righteous Blow`"
 msgstr ""
 
 #: ../../GRN.rst:125
@@ -282,7 +285,7 @@ msgid "Righteous Blow deals 2 damage to target attacking or blocking creature."
 msgstr ""
 
 #: ../../GRN.rst:132
-msgid "Roc Charger"
+msgid ":mtgtip:`Roc Charger`"
 msgstr ""
 
 #: ../../GRN.rst:131
@@ -290,7 +293,7 @@ msgid "Whenever Roc Charger attacks, target attacking creature without flying ga
 msgstr ""
 
 #: ../../GRN.rst:136
-msgid "Skyline Scout"
+msgid ":mtgtip:`Skyline Scout`"
 msgstr ""
 
 #: ../../GRN.rst:135
@@ -298,7 +301,7 @@ msgid "Whenever Skyline Scout attacks, you may pay |mana_1|\\ |mana_w|. If you d
 msgstr ""
 
 #: ../../GRN.rst:142
-msgid "Sunhome Stalwart"
+msgid ":mtgtip:`Sunhome Stalwart`"
 msgstr ""
 
 #: ../../GRN.rst:139
@@ -306,7 +309,7 @@ msgid "First strike"
 msgstr ""
 
 #: ../../GRN.rst:146
-msgid "Sworn Companions"
+msgid ":mtgtip:`Sworn Companions`"
 msgstr ""
 
 #: ../../GRN.rst:145
@@ -314,7 +317,7 @@ msgid "Create two 1/1 white Soldier creature tokens with lifelink."
 msgstr ""
 
 #: ../../GRN.rst:150
-msgid "Take Heart"
+msgid ":mtgtip:`Take Heart`"
 msgstr ""
 
 #: ../../GRN.rst:149
@@ -322,7 +325,7 @@ msgid "Target creature gets +2/+2 until end of turn. You gain 1 life for each at
 msgstr ""
 
 #: ../../GRN.rst:154
-msgid "Tenth District Guard"
+msgid ":mtgtip:`Tenth District Guard`"
 msgstr ""
 
 #: ../../GRN.rst:153
@@ -330,7 +333,7 @@ msgid "When Tenth District Guard enters the battlefield, target creature gets +0
 msgstr ""
 
 #: ../../GRN.rst:160
-msgid "Venerated Loxodon"
+msgid ":mtgtip:`Venerated Loxodon`"
 msgstr ""
 
 #: ../../GRN.rst:159
@@ -338,7 +341,7 @@ msgid "When Venerated Loxodon enters the battlefield, put a +1/+1 counter on eac
 msgstr ""
 
 #: ../../GRN.rst:170
-msgid "Capture Sphere"
+msgid ":mtgtip:`Capture Sphere`"
 msgstr ""
 
 #: ../../GRN.rst:163
@@ -356,7 +359,7 @@ msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
 
 #: ../../GRN.rst:176
-msgid "Chemister's Insight"
+msgid ":mtgtip:`Chemister's Insight`"
 msgstr ""
 
 #: ../../GRN.rst:173
@@ -377,15 +380,15 @@ msgid "Jump-start (You may cast this card from your graveyard by discarding a ca
 msgstr ""
 
 #: ../../GRN.rst:182
-msgid "Citywatch Sphinx"
+msgid ":mtgtip:`Citywatch Sphinx`"
 msgstr ""
 
 #: ../../GRN.rst:181
-msgid "When Citywatch Sphinx dies, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+msgid "When Citywatch Sphinx dies, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)"
 msgstr ""
 
 #: ../../GRN.rst:188
-msgid "Dazzling Lights"
+msgid ":mtgtip:`Dazzling Lights`"
 msgstr ""
 
 #: ../../GRN.rst:185
@@ -393,14 +396,12 @@ msgid "Target creature gets -3/-0 until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:187
-#: ../../GRN.rst:365
 #: ../../GRN.rst:403
-#: ../../GRN.rst:437
-msgid "Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+msgid "Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)"
 msgstr ""
 
 #: ../../GRN.rst:192
-msgid "Devious Cover-Up"
+msgid ":mtgtip:`Devious Cover-Up`"
 msgstr ""
 
 #: ../../GRN.rst:191
@@ -408,15 +409,15 @@ msgid "Counter target spell. If that spell is countered this way, exile it inste
 msgstr ""
 
 #: ../../GRN.rst:196
-msgid "Dimir Informant"
+msgid ":mtgtip:`Dimir Informant`"
 msgstr ""
 
 #: ../../GRN.rst:195
-msgid "When Dimir Informant enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+msgid "When Dimir Informant enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)"
 msgstr ""
 
 #: ../../GRN.rst:200
-msgid "Disdainful Stroke"
+msgid ":mtgtip:`Disdainful Stroke`"
 msgstr ""
 
 #: ../../GRN.rst:199
@@ -424,7 +425,7 @@ msgid "Counter target spell with converted mana cost 4 or greater."
 msgstr ""
 
 #: ../../GRN.rst:208
-msgid "Dream Eater"
+msgid ":mtgtip:`Dream Eater`"
 msgstr ""
 
 #: ../../GRN.rst:207
@@ -432,7 +433,7 @@ msgid "When Dream Eater enters the battlefield, surveil 4. When you do, you may 
 msgstr ""
 
 #: ../../GRN.rst:212
-msgid "Drowned Secrets"
+msgid ":mtgtip:`Drowned Secrets`"
 msgstr ""
 
 #: ../../GRN.rst:211
@@ -440,7 +441,7 @@ msgid "Whenever you cast a blue spell, target player puts the top two cards of t
 msgstr ""
 
 #: ../../GRN.rst:218
-msgid "Enhanced Surveillance"
+msgid ":mtgtip:`Enhanced Surveillance`"
 msgstr ""
 
 #: ../../GRN.rst:215
@@ -452,7 +453,7 @@ msgid "Exile Enhanced Surveillance: Shuffle your graveyard into your library."
 msgstr ""
 
 #: ../../GRN.rst:224
-msgid "Guild Summit"
+msgid ":mtgtip:`Guild Summit`"
 msgstr ""
 
 #: ../../GRN.rst:221
@@ -464,7 +465,7 @@ msgid "Whenever a Gate enters the battlefield under your control, draw a card."
 msgstr ""
 
 #: ../../GRN.rst:228
-msgid "Leapfrog"
+msgid ":mtgtip:`Leapfrog`"
 msgstr ""
 
 #: ../../GRN.rst:227
@@ -472,7 +473,7 @@ msgid "Leapfrog has flying as long as you've cast an instant or sorcery spell th
 msgstr ""
 
 #: ../../GRN.rst:234
-msgid "Maximize Altitude"
+msgid ":mtgtip:`Maximize Altitude`"
 msgstr ""
 
 #: ../../GRN.rst:231
@@ -480,15 +481,15 @@ msgid "Target creature gets +1/+1 and gains flying until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:238
-msgid "Mission Briefing"
+msgid ":mtgtip:`Mission Briefing`"
 msgstr ""
 
 #: ../../GRN.rst:237
-msgid "Surveil 2, then choose an instant or sorcery card in your graveyard. You may cast that card this turn. If that card would be put into your graveyard this turn, exile it instead.(To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+msgid "Surveil 2, then choose an instant or sorcery card in your graveyard. You may cast that card this turn. If that card would be put into your graveyard this turn, exile it instead. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
 msgstr ""
 
 #: ../../GRN.rst:242
-msgid "Murmuring Mystic"
+msgid ":mtgtip:`Murmuring Mystic`"
 msgstr ""
 
 #: ../../GRN.rst:241
@@ -496,7 +497,7 @@ msgid "Whenever you cast an instant or sorcery spell, create a 1/1 blue Bird Ill
 msgstr ""
 
 #: ../../GRN.rst:248
-msgid "Muse Drake"
+msgid ":mtgtip:`Muse Drake`"
 msgstr ""
 
 #: ../../GRN.rst:247
@@ -504,7 +505,7 @@ msgid "When Muse Drake enters the battlefield, draw a card."
 msgstr ""
 
 #: ../../GRN.rst:254
-msgid "Narcomoeba"
+msgid ":mtgtip:`Narcomoeba`"
 msgstr ""
 
 #: ../../GRN.rst:253
@@ -512,7 +513,7 @@ msgid "When Narcomoeba is put into your graveyard from your library, you may put
 msgstr ""
 
 #: ../../GRN.rst:260
-msgid "Nightveil Sprite"
+msgid ":mtgtip:`Nightveil Sprite`"
 msgstr ""
 
 #: ../../GRN.rst:259
@@ -520,7 +521,7 @@ msgid "Whenever Nightveil Sprite attacks, surveil 1. (Look at the top card of yo
 msgstr ""
 
 #: ../../GRN.rst:264
-msgid "Omnispell Adept"
+msgid ":mtgtip:`Omnispell Adept`"
 msgstr ""
 
 #: ../../GRN.rst:263
@@ -528,7 +529,7 @@ msgid "|mana_2|\\ |mana_u|, |tap|: You may cast an instant or sorcery card from 
 msgstr ""
 
 #: ../../GRN.rst:268
-msgid "Passwall Adept"
+msgid ":mtgtip:`Passwall Adept`"
 msgstr ""
 
 #: ../../GRN.rst:267
@@ -536,7 +537,7 @@ msgid "|mana_2|\\ |mana_u|: Target creature can't be blocked this turn."
 msgstr ""
 
 #: ../../GRN.rst:274
-msgid "Quasiduplicate"
+msgid ":mtgtip:`Quasiduplicate`"
 msgstr ""
 
 #: ../../GRN.rst:271
@@ -544,7 +545,7 @@ msgid "Create a token that's a copy of target creature you control."
 msgstr ""
 
 #: ../../GRN.rst:280
-msgid "Radical Idea"
+msgid ":mtgtip:`Radical Idea`"
 msgstr ""
 
 #: ../../GRN.rst:277
@@ -552,7 +553,7 @@ msgid "Draw a card."
 msgstr ""
 
 #: ../../GRN.rst:284
-msgid "Selective Snare"
+msgid ":mtgtip:`Selective Snare`"
 msgstr ""
 
 #: ../../GRN.rst:283
@@ -560,7 +561,7 @@ msgid "Return X target creatures of the creature type of your choice to their ow
 msgstr ""
 
 #: ../../GRN.rst:290
-msgid "Sinister Sabotage"
+msgid ":mtgtip:`Sinister Sabotage`"
 msgstr ""
 
 #: ../../GRN.rst:287
@@ -573,7 +574,7 @@ msgid "Surveil 1. (Look at the top card of your library. You may put that card i
 msgstr ""
 
 #: ../../GRN.rst:298
-msgid "Thoughtbound Phantasm"
+msgid ":mtgtip:`Thoughtbound Phantasm`"
 msgstr ""
 
 #: ../../GRN.rst:293
@@ -594,7 +595,7 @@ msgid "As long as Thoughtbound Phantasm has three or more +1/+1 counters on it, 
 msgstr ""
 
 #: ../../GRN.rst:304
-msgid "Unexplained Disappearance"
+msgid ":mtgtip:`Unexplained Disappearance`"
 msgstr ""
 
 #: ../../GRN.rst:301
@@ -602,7 +603,7 @@ msgid "Return target creature to its owner's hand."
 msgstr ""
 
 #: ../../GRN.rst:308
-msgid "Vedalken Mesmerist"
+msgid ":mtgtip:`Vedalken Mesmerist`"
 msgstr ""
 
 #: ../../GRN.rst:307
@@ -610,23 +611,23 @@ msgid "Whenever Vedalken Mesmerist attacks, target creature an opponent controls
 msgstr ""
 
 #: ../../GRN.rst:312
-msgid "Wall of Mist"
+msgid ":mtgtip:`Wall of Mist`"
 msgstr ""
 
 #: ../../GRN.rst:318
-msgid "Watcher in the Mist"
+msgid ":mtgtip:`Watcher in the Mist`"
 msgstr ""
 
 #: ../../GRN.rst:317
-msgid "When Watcher in the Mist enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+msgid "When Watcher in the Mist enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)"
 msgstr ""
 
 #: ../../GRN.rst:320
-msgid "Wishcoin Crab"
+msgid ":mtgtip:`Wishcoin Crab`"
 msgstr ""
 
 #: ../../GRN.rst:328
-msgid "Barrier of Bones"
+msgid ":mtgtip:`Barrier of Bones`"
 msgstr ""
 
 #: ../../GRN.rst:327
@@ -634,11 +635,11 @@ msgid "When Barrier of Bones enters the battlefield, surveil 1. (Look at the top
 msgstr ""
 
 #: ../../GRN.rst:332
-msgid "Bartizan Bats"
+msgid ":mtgtip:`Bartizan Bats`"
 msgstr ""
 
 #: ../../GRN.rst:340
-msgid "Blood Operative"
+msgid ":mtgtip:`Blood Operative`"
 msgstr ""
 
 #: ../../GRN.rst:335
@@ -655,7 +656,7 @@ msgid "Whenever you surveil, if Blood Operative is in your graveyard, you may pa
 msgstr ""
 
 #: ../../GRN.rst:344
-msgid "Burglar Rat"
+msgid ":mtgtip:`Burglar Rat`"
 msgstr ""
 
 #: ../../GRN.rst:343
@@ -663,11 +664,11 @@ msgid "When Burglar Rat enters the battlefield, each opponent discards a card."
 msgstr ""
 
 #: ../../GRN.rst:348
-msgid "Child of Night"
+msgid ":mtgtip:`Child of Night`"
 msgstr ""
 
 #: ../../GRN.rst:354
-msgid "Creeping Chill"
+msgid ":mtgtip:`Creeping Chill`"
 msgstr ""
 
 #: ../../GRN.rst:351
@@ -679,7 +680,7 @@ msgid "When Creeping Chill is put into your graveyard from your library, you may
 msgstr ""
 
 #: ../../GRN.rst:360
-msgid "Dead Weight"
+msgid ":mtgtip:`Dead Weight`"
 msgstr ""
 
 #: ../../GRN.rst:359
@@ -687,7 +688,7 @@ msgid "Enchanted creature gets -2/-2."
 msgstr ""
 
 #: ../../GRN.rst:366
-msgid "Deadly Visit"
+msgid ":mtgtip:`Deadly Visit`"
 msgstr ""
 
 #: ../../GRN.rst:363
@@ -695,8 +696,13 @@ msgstr ""
 msgid "Destroy target creature."
 msgstr ""
 
+#: ../../GRN.rst:365
+#: ../../GRN.rst:437
+msgid "Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+msgstr ""
+
 #: ../../GRN.rst:372
-msgid "Doom Whisperer"
+msgid ":mtgtip:`Doom Whisperer`"
 msgstr ""
 
 #: ../../GRN.rst:369
@@ -704,15 +710,15 @@ msgid "Flying, trample"
 msgstr ""
 
 #: ../../GRN.rst:371
-msgid "Pay 2 life: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+msgid "Pay 2 life: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on the top of your library in any order.)"
 msgstr ""
 
 #: ../../GRN.rst:374
-msgid "Douser of Lights"
+msgid ":mtgtip:`Douser of Lights`"
 msgstr ""
 
 #: ../../GRN.rst:380
-msgid "Gruesome Menagerie"
+msgid ":mtgtip:`Gruesome Menagerie`"
 msgstr ""
 
 #: ../../GRN.rst:379
@@ -720,7 +726,7 @@ msgid "Choose a creature card with converted mana cost 1 in your graveyard, then
 msgstr ""
 
 #: ../../GRN.rst:384
-msgid "Hired Poisoner"
+msgid ":mtgtip:`Hired Poisoner`"
 msgstr ""
 
 #: ../../GRN.rst:383
@@ -730,7 +736,7 @@ msgid "Deathtouch"
 msgstr ""
 
 #: ../../GRN.rst:390
-msgid "Kraul Swarm"
+msgid ":mtgtip:`Kraul Swarm`"
 msgstr ""
 
 #: ../../GRN.rst:389
@@ -738,7 +744,7 @@ msgid "|mana_2|\\ |mana_b|, Discard a creature card: Return Kraul Swarm from you
 msgstr ""
 
 #: ../../GRN.rst:394
-msgid "Lotleth Giant"
+msgid ":mtgtip:`Lotleth Giant`"
 msgstr ""
 
 #: ../../GRN.rst:393
@@ -746,7 +752,7 @@ msgid "Undergrowth — When Lotleth Giant enters the battlefield, it deals 1 dam
 msgstr ""
 
 #: ../../GRN.rst:398
-msgid "Mausoleum Secrets"
+msgid ":mtgtip:`Mausoleum Secrets`"
 msgstr ""
 
 #: ../../GRN.rst:397
@@ -754,7 +760,7 @@ msgid "Undergrowth — Search your library for a black card with converted mana 
 msgstr ""
 
 #: ../../GRN.rst:404
-msgid "Mephitic Vapors"
+msgid ":mtgtip:`Mephitic Vapors`"
 msgstr ""
 
 #: ../../GRN.rst:401
@@ -762,7 +768,7 @@ msgid "All creatures get -1/-1 until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:408
-msgid "Midnight Reaper"
+msgid ":mtgtip:`Midnight Reaper`"
 msgstr ""
 
 #: ../../GRN.rst:407
@@ -770,15 +776,15 @@ msgid "Whenever a nontoken creature you control dies, Midnight Reaper deals 1 da
 msgstr ""
 
 #: ../../GRN.rst:412
-msgid "Moodmark Painter"
+msgid ":mtgtip:`Moodmark Painter`"
 msgstr ""
 
 #: ../../GRN.rst:411
-msgid "Undergrowth — When Moodmark Painter enters the battlefield, target creature gains menace and gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard. (It can't be blocked except by two or more creatures.)"
+msgid "Undergrowth — When Moodmark Painter enters the battlefield, target creature gains menace and gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard. (It can't blocked except by two or more creatures.)"
 msgstr ""
 
 #: ../../GRN.rst:416
-msgid "Necrotic Wound"
+msgid ":mtgtip:`Necrotic Wound`"
 msgstr ""
 
 #: ../../GRN.rst:415
@@ -786,7 +792,7 @@ msgid "Undergrowth — Target creature gets -X/-X until end of turn, where X is 
 msgstr ""
 
 #: ../../GRN.rst:420
-msgid "Never Happened"
+msgid ":mtgtip:`Never Happened`"
 msgstr ""
 
 #: ../../GRN.rst:419
@@ -794,7 +800,7 @@ msgid "Target opponent reveals their hand. You choose a nonland card from that p
 msgstr ""
 
 #: ../../GRN.rst:426
-msgid "Pilfering Imp"
+msgid ":mtgtip:`Pilfering Imp`"
 msgstr ""
 
 #: ../../GRN.rst:425
@@ -802,7 +808,7 @@ msgid "|mana_1|\\ |mana_b|, |tap|, Sacrifice Pilfering Imp: Target opponent reve
 msgstr ""
 
 #: ../../GRN.rst:430
-msgid "Plaguecrafter"
+msgid ":mtgtip:`Plaguecrafter`"
 msgstr ""
 
 #: ../../GRN.rst:429
@@ -810,7 +816,7 @@ msgid "When Plaguecrafter enters the battlefield, each player sacrifices a creat
 msgstr ""
 
 #: ../../GRN.rst:438
-msgid "Price of Fame"
+msgid ":mtgtip:`Price of Fame`"
 msgstr ""
 
 #: ../../GRN.rst:433
@@ -818,7 +824,7 @@ msgid "This spell costs |mana_2| less to cast if it targets a legendary creature
 msgstr ""
 
 #: ../../GRN.rst:442
-msgid "Ritual of Soot"
+msgid ":mtgtip:`Ritual of Soot`"
 msgstr ""
 
 #: ../../GRN.rst:441
@@ -826,7 +832,7 @@ msgid "Destroy all creatures with converted mana cost 3 or less."
 msgstr ""
 
 #: ../../GRN.rst:448
-msgid "Severed Strands"
+msgid ":mtgtip:`Severed Strands`"
 msgstr ""
 
 #: ../../GRN.rst:445
@@ -838,7 +844,7 @@ msgid "You gain life equal to the sacrificed creature's toughness. Destroy targe
 msgstr ""
 
 #: ../../GRN.rst:452
-msgid "Spinal Centipede"
+msgid ":mtgtip:`Spinal Centipede`"
 msgstr ""
 
 #: ../../GRN.rst:451
@@ -846,7 +852,7 @@ msgid "When Spinal Centipede dies, put a +1/+1 counter on target creature you co
 msgstr ""
 
 #: ../../GRN.rst:456
-msgid "Undercity Necrolisk"
+msgid ":mtgtip:`Undercity Necrolisk`"
 msgstr ""
 
 #: ../../GRN.rst:455
@@ -854,7 +860,7 @@ msgid "|mana_1|, Sacrifice another creature: Put a +1/+1 counter on Undercity Ne
 msgstr ""
 
 #: ../../GRN.rst:460
-msgid "Veiled Shade"
+msgid ":mtgtip:`Veiled Shade`"
 msgstr ""
 
 #: ../../GRN.rst:459
@@ -862,7 +868,7 @@ msgid "|mana_1|\\ |mana_b|: Veiled Shade gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:464
-msgid "Vicious Rumors"
+msgid ":mtgtip:`Vicious Rumors`"
 msgstr ""
 
 #: ../../GRN.rst:463
@@ -870,7 +876,7 @@ msgid "Vicious Rumors deals 1 damage to each opponent. Each opponent discards a 
 msgstr ""
 
 #: ../../GRN.rst:468
-msgid "Whispering Snitch"
+msgid ":mtgtip:`Whispering Snitch`"
 msgstr ""
 
 #: ../../GRN.rst:467
@@ -878,7 +884,7 @@ msgid "Whenever you surveil for the first time each turn, Whispering Snitch deal
 msgstr ""
 
 #: ../../GRN.rst:474
-msgid "Arclight Phoenix"
+msgid ":mtgtip:`Arclight Phoenix`"
 msgstr ""
 
 #: ../../GRN.rst:471
@@ -891,7 +897,7 @@ msgid "At the beginning of combat on your turn, if you've cast three or more ins
 msgstr ""
 
 #: ../../GRN.rst:480
-msgid "Barging Sergeant"
+msgid ":mtgtip:`Barging Sergeant`"
 msgstr ""
 
 #: ../../GRN.rst:477
@@ -902,13 +908,12 @@ msgid "Haste"
 msgstr ""
 
 #: ../../GRN.rst:486
-msgid "Book Devourer"
+msgid ":mtgtip:`Book Devourer`"
 msgstr ""
 
 #: ../../GRN.rst:483
 #: ../../GRN.rst:509
 #: ../../GRN.rst:529
-#: ../../GRN.rst:763
 #: ../../GRN.rst:851
 #: ../../GRN.rst:1329
 msgid "Trample"
@@ -919,7 +924,7 @@ msgid "Whenever Book Devourer deals combat damage to a player, you may discard a
 msgstr ""
 
 #: ../../GRN.rst:490
-msgid "Command the Storm"
+msgid ":mtgtip:`Command the Storm`"
 msgstr ""
 
 #: ../../GRN.rst:489
@@ -927,7 +932,7 @@ msgid "Command the Storm deals 5 damage to target creature."
 msgstr ""
 
 #: ../../GRN.rst:494
-msgid "Cosmotronic Wave"
+msgid ":mtgtip:`Cosmotronic Wave`"
 msgstr ""
 
 #: ../../GRN.rst:493
@@ -935,7 +940,7 @@ msgid "Cosmotronic Wave deals 1 damage to each creature your opponents control. 
 msgstr ""
 
 #: ../../GRN.rst:500
-msgid "Direct Current"
+msgid ":mtgtip:`Direct Current`"
 msgstr ""
 
 #: ../../GRN.rst:497
@@ -943,7 +948,7 @@ msgid "Direct Current deals 2 damage to any target."
 msgstr ""
 
 #: ../../GRN.rst:506
-msgid "Electrostatic Field"
+msgid ":mtgtip:`Electrostatic Field`"
 msgstr ""
 
 #: ../../GRN.rst:505
@@ -951,7 +956,7 @@ msgid "Whenever you cast an instant or sorcery spell, Electrostatic Field deals 
 msgstr ""
 
 #: ../../GRN.rst:512
-msgid "Erratic Cyclops"
+msgid ":mtgtip:`Erratic Cyclops`"
 msgstr ""
 
 #: ../../GRN.rst:511
@@ -959,7 +964,7 @@ msgid "Whenever you cast an instant or sorcery spell, Erratic Cyclops gets +X/+0
 msgstr ""
 
 #: ../../GRN.rst:522
-msgid "Experimental Frenzy"
+msgid ":mtgtip:`Experimental Frenzy`"
 msgstr ""
 
 #: ../../GRN.rst:515
@@ -979,11 +984,11 @@ msgid "|mana_3|\\ |mana_r|: Destroy Experimental Frenzy."
 msgstr ""
 
 #: ../../GRN.rst:524
-msgid "Fearless Halberdier"
+msgid ":mtgtip:`Fearless Halberdier`"
 msgstr ""
 
 #: ../../GRN.rst:532
-msgid "Fire Urchin"
+msgid ":mtgtip:`Fire Urchin`"
 msgstr ""
 
 #: ../../GRN.rst:531
@@ -991,7 +996,7 @@ msgid "Whenever you cast an instant or sorcery spell, Fire Urchin gets +1/+0 unt
 msgstr ""
 
 #: ../../GRN.rst:538
-msgid "Goblin Banneret"
+msgid ":mtgtip:`Goblin Banneret`"
 msgstr ""
 
 #: ../../GRN.rst:537
@@ -999,7 +1004,7 @@ msgid "|mana_1|\\ |mana_r|: Goblin Banneret gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:546
-msgid "Goblin Cratermaker"
+msgid ":mtgtip:`Goblin Cratermaker`"
 msgstr ""
 
 #: ../../GRN.rst:541
@@ -1015,7 +1020,7 @@ msgid "Destroy target colorless nonland permanent."
 msgstr ""
 
 #: ../../GRN.rst:550
-msgid "Goblin Locksmith"
+msgid ":mtgtip:`Goblin Locksmith`"
 msgstr ""
 
 #: ../../GRN.rst:549
@@ -1023,7 +1028,7 @@ msgid "Whenever Goblin Locksmith attacks, creatures with defender can't block th
 msgstr ""
 
 #: ../../GRN.rst:556
-msgid "Gravitic Punch"
+msgid ":mtgtip:`Gravitic Punch`"
 msgstr ""
 
 #: ../../GRN.rst:553
@@ -1031,7 +1036,7 @@ msgid "Target creature you control deals damage equal to its power to target pla
 msgstr ""
 
 #: ../../GRN.rst:562
-msgid "Hellkite Whelp"
+msgid ":mtgtip:`Hellkite Whelp`"
 msgstr ""
 
 #: ../../GRN.rst:561
@@ -1039,7 +1044,7 @@ msgid "Whenever Hellkite Whelp attacks, it deals 1 damage to target creature def
 msgstr ""
 
 #: ../../GRN.rst:568
-msgid "Inescapable Blaze"
+msgid ":mtgtip:`Inescapable Blaze`"
 msgstr ""
 
 #: ../../GRN.rst:565
@@ -1052,7 +1057,7 @@ msgid "Inescapable Blaze deals 6 damage to any target."
 msgstr ""
 
 #: ../../GRN.rst:572
-msgid "Lava Coil"
+msgid ":mtgtip:`Lava Coil`"
 msgstr ""
 
 #: ../../GRN.rst:571
@@ -1060,7 +1065,7 @@ msgid "Lava Coil deals 4 damage to target creature. If that creature would die t
 msgstr ""
 
 #: ../../GRN.rst:578
-msgid "Legion Warboss"
+msgid ":mtgtip:`Legion Warboss`"
 msgstr ""
 
 #: ../../GRN.rst:577
@@ -1068,7 +1073,7 @@ msgid "At the beginning of combat on your turn, create a 1/1 red Goblin creature
 msgstr ""
 
 #: ../../GRN.rst:584
-msgid "Maniacal Rage"
+msgid ":mtgtip:`Maniacal Rage`"
 msgstr ""
 
 #: ../../GRN.rst:583
@@ -1076,7 +1081,7 @@ msgid "Enchanted creature gets +2/+2 and can't block."
 msgstr ""
 
 #: ../../GRN.rst:590
-msgid "Maximize Velocity"
+msgid ":mtgtip:`Maximize Velocity`"
 msgstr ""
 
 #: ../../GRN.rst:587
@@ -1084,7 +1089,7 @@ msgid "Target creature gets +1/+1 and gains haste until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:594
-msgid "Ornery Goblin"
+msgid ":mtgtip:`Ornery Goblin`"
 msgstr ""
 
 #: ../../GRN.rst:593
@@ -1092,7 +1097,7 @@ msgid "Whenever Ornery Goblin blocks or becomes blocked by a creature, Ornery Go
 msgstr ""
 
 #: ../../GRN.rst:600
-msgid "Risk Factor"
+msgid ":mtgtip:`Risk Factor`"
 msgstr ""
 
 #: ../../GRN.rst:597
@@ -1100,7 +1105,7 @@ msgid "Target opponent may have Risk Factor deal 4 damage to them. If that playe
 msgstr ""
 
 #: ../../GRN.rst:604
-msgid "Rubblebelt Boar"
+msgid ":mtgtip:`Rubblebelt Boar`"
 msgstr ""
 
 #: ../../GRN.rst:603
@@ -1108,7 +1113,7 @@ msgid "When Rubblebelt Boar enters the battlefield, target creature gets +2/+0 u
 msgstr ""
 
 #: ../../GRN.rst:610
-msgid "Runaway Steam-Kin"
+msgid ":mtgtip:`Runaway Steam-Kin`"
 msgstr ""
 
 #: ../../GRN.rst:607
@@ -1120,7 +1125,7 @@ msgid "Remove three +1/+1 counters from Runaway Steam-Kin: Add |mana_r|\\ |mana_
 msgstr ""
 
 #: ../../GRN.rst:614
-msgid "Smelt-Ward Minotaur"
+msgid ":mtgtip:`Smelt-Ward Minotaur`"
 msgstr ""
 
 #: ../../GRN.rst:613
@@ -1128,7 +1133,7 @@ msgid "Whenever you cast an instant or sorcery spell, target creature an opponen
 msgstr ""
 
 #: ../../GRN.rst:618
-msgid "Street Riot"
+msgid ":mtgtip:`Street Riot`"
 msgstr ""
 
 #: ../../GRN.rst:617
@@ -1136,7 +1141,7 @@ msgid "As long as it's your turn, creatures you control get +1/+0 and have tramp
 msgstr ""
 
 #: ../../GRN.rst:622
-msgid "Sure Strike"
+msgid ":mtgtip:`Sure Strike`"
 msgstr ""
 
 #: ../../GRN.rst:621
@@ -1144,7 +1149,7 @@ msgid "Target creature gets +3/+0 and gains first strike until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:628
-msgid "Torch Courier"
+msgid ":mtgtip:`Torch Courier`"
 msgstr ""
 
 #: ../../GRN.rst:627
@@ -1152,7 +1157,7 @@ msgid "Sacrifice Torch Courier: Another target creature gains haste until end of
 msgstr ""
 
 #: ../../GRN.rst:634
-msgid "Wojek Bodyguard"
+msgid ":mtgtip:`Wojek Bodyguard`"
 msgstr ""
 
 #: ../../GRN.rst:633
@@ -1160,7 +1165,7 @@ msgid "Wojek Bodyguard can't attack or block alone."
 msgstr ""
 
 #: ../../GRN.rst:638
-msgid "Affectionate Indrik"
+msgid ":mtgtip:`Affectionate Indrik`"
 msgstr ""
 
 #: ../../GRN.rst:637
@@ -1168,7 +1173,7 @@ msgid "When Affectionate Indrik enters the battlefield, you may have it fight ta
 msgstr ""
 
 #: ../../GRN.rst:644
-msgid "Arboretum Elemental"
+msgid ":mtgtip:`Arboretum Elemental`"
 msgstr ""
 
 #: ../../GRN.rst:643
@@ -1177,7 +1182,7 @@ msgid "Hexproof (This creature can't be the target of spells or abilities your o
 msgstr ""
 
 #: ../../GRN.rst:648
-msgid "Beast Whisperer"
+msgid ":mtgtip:`Beast Whisperer`"
 msgstr ""
 
 #: ../../GRN.rst:647
@@ -1185,7 +1190,7 @@ msgid "Whenever you cast a creature spell, draw a card."
 msgstr ""
 
 #: ../../GRN.rst:656
-msgid "Bounty of Might"
+msgid ":mtgtip:`Bounty of Might`"
 msgstr ""
 
 #: ../../GRN.rst:651
@@ -1196,15 +1201,15 @@ msgid "Target creature gets +3/+3 until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:660
-msgid "Circuitous Route"
+msgid ":mtgtip:`Circuitous Route`"
 msgstr ""
 
 #: ../../GRN.rst:659
-msgid "Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle your library."
+msgid "Search your library for up to two basic land cards and/or Gate cards and put them onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
 #: ../../GRN.rst:668
-msgid "Crushing Canopy"
+msgid ":mtgtip:`Crushing Canopy`"
 msgstr ""
 
 #: ../../GRN.rst:663
@@ -1221,7 +1226,7 @@ msgid "Destroy target enchantment."
 msgstr ""
 
 #: ../../GRN.rst:672
-msgid "Devkarin Dissident"
+msgid ":mtgtip:`Devkarin Dissident`"
 msgstr ""
 
 #: ../../GRN.rst:671
@@ -1229,7 +1234,7 @@ msgid "|mana_4|\\ |mana_g|: Devkarin Dissident gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:676
-msgid "District Guide"
+msgid ":mtgtip:`District Guide`"
 msgstr ""
 
 #: ../../GRN.rst:675
@@ -1237,7 +1242,7 @@ msgid "When District Guide enters the battlefield, you may search your library f
 msgstr ""
 
 #: ../../GRN.rst:680
-msgid "Generous Stray"
+msgid ":mtgtip:`Generous Stray`"
 msgstr ""
 
 #: ../../GRN.rst:679
@@ -1245,7 +1250,7 @@ msgid "When Generous Stray enters the battlefield, draw a card."
 msgstr ""
 
 #: ../../GRN.rst:686
-msgid "Golgari Raiders"
+msgid ":mtgtip:`Golgari Raiders`"
 msgstr ""
 
 #: ../../GRN.rst:685
@@ -1253,7 +1258,7 @@ msgid "Undergrowth — Golgari Raiders enters the battlefield with a +1/+1 count
 msgstr ""
 
 #: ../../GRN.rst:692
-msgid "Grappling Sundew"
+msgid ":mtgtip:`Grappling Sundew`"
 msgstr ""
 
 #: ../../GRN.rst:689
@@ -1265,11 +1270,10 @@ msgid "|mana_4|\\ |mana_g|: Grappling Sundew gains indestructible until end of t
 msgstr ""
 
 #: ../../GRN.rst:698
-msgid "Hatchery Spider"
+msgid ":mtgtip:`Hatchery Spider`"
 msgstr ""
 
 #: ../../GRN.rst:695
-#: ../../GRN.rst:701
 #: ../../GRN.rst:713
 msgid "Reach"
 msgstr ""
@@ -1279,11 +1283,15 @@ msgid "Undergrowth — When you cast this spell, reveal the top X cards of your 
 msgstr ""
 
 #: ../../GRN.rst:702
-msgid "Hitchclaw Recluse"
+msgid ":mtgtip:`Hitchclaw Recluse`"
+msgstr ""
+
+#: ../../GRN.rst:701
+msgid "Reach (This creature can block creatures with flying.)"
 msgstr ""
 
 #: ../../GRN.rst:706
-msgid "Ironshell Beetle"
+msgid ":mtgtip:`Ironshell Beetle`"
 msgstr ""
 
 #: ../../GRN.rst:705
@@ -1291,7 +1299,7 @@ msgid "When Ironshell Beetle enters the battlefield, put a +1/+1 counter on targ
 msgstr ""
 
 #: ../../GRN.rst:710
-msgid "Kraul Foragers"
+msgid ":mtgtip:`Kraul Foragers`"
 msgstr ""
 
 #: ../../GRN.rst:709
@@ -1299,7 +1307,7 @@ msgid "Undergrowth — When Kraul Foragers enters the battlefield, you gain 1 li
 msgstr ""
 
 #: ../../GRN.rst:716
-msgid "Kraul Harpooner"
+msgid ":mtgtip:`Kraul Harpooner`"
 msgstr ""
 
 #: ../../GRN.rst:715
@@ -1307,7 +1315,7 @@ msgid "Undergrowth — When Kraul Harpooner enters the battlefield, choose up to
 msgstr ""
 
 #: ../../GRN.rst:720
-msgid "Might of the Masses"
+msgid ":mtgtip:`Might of the Masses`"
 msgstr ""
 
 #: ../../GRN.rst:719
@@ -1315,7 +1323,7 @@ msgid "Target creature gets +1/+1 until end of turn for each creature you contro
 msgstr ""
 
 #: ../../GRN.rst:730
-msgid "Nullhide Ferox"
+msgid ":mtgtip:`Nullhide Ferox`"
 msgstr ""
 
 #: ../../GRN.rst:723
@@ -1335,11 +1343,11 @@ msgid "If a spell or ability an opponent controls causes you to discard Nullhide
 msgstr ""
 
 #: ../../GRN.rst:736
-msgid "Pack's Favor"
+msgid ":mtgtip:`Pack's Favor`"
 msgstr ""
 
 #: ../../GRN.rst:742
-msgid "Pause for Reflection"
+msgid ":mtgtip:`Pause for Reflection`"
 msgstr ""
 
 #: ../../GRN.rst:741
@@ -1347,7 +1355,7 @@ msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
 
 #: ../../GRN.rst:748
-msgid "Pelt Collector"
+msgid ":mtgtip:`Pelt Collector`"
 msgstr ""
 
 #: ../../GRN.rst:745
@@ -1359,7 +1367,7 @@ msgid "As long as Pelt Collector has three or more +1/+1 counters on it, it has 
 msgstr ""
 
 #: ../../GRN.rst:754
-msgid "Portcullis Vine"
+msgid ":mtgtip:`Portcullis Vine`"
 msgstr ""
 
 #: ../../GRN.rst:753
@@ -1367,7 +1375,7 @@ msgid "|mana_2|, |tap|, Sacrifice a creature with defender: Draw a card."
 msgstr ""
 
 #: ../../GRN.rst:758
-msgid "Prey Upon"
+msgid ":mtgtip:`Prey Upon`"
 msgstr ""
 
 #: ../../GRN.rst:757
@@ -1375,11 +1383,16 @@ msgid "Target creature you control fights target creature you don't control. (Ea
 msgstr ""
 
 #: ../../GRN.rst:764
-msgid "Siege Wurm"
+msgid ":mtgtip:`Siege Wurm`"
+msgstr ""
+
+#: ../../GRN.rst:763
+#: ../../GRN.rst:1463
+msgid "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
 
 #: ../../GRN.rst:774
-msgid "Sprouting Renewal"
+msgid ":mtgtip:`Sprouting Renewal`"
 msgstr ""
 
 #: ../../GRN.rst:771
@@ -1392,7 +1405,7 @@ msgid "Destroy target artifact or enchantment."
 msgstr ""
 
 #: ../../GRN.rst:782
-msgid "Urban Utopia"
+msgid ":mtgtip:`Urban Utopia`"
 msgstr ""
 
 #: ../../GRN.rst:777
@@ -1408,7 +1421,7 @@ msgid "Enchanted land has \"|tap|: Add one mana of any color.\""
 msgstr ""
 
 #: ../../GRN.rst:788
-msgid "Vigorspore Wurm"
+msgid ":mtgtip:`Vigorspore Wurm`"
 msgstr ""
 
 #: ../../GRN.rst:785
@@ -1420,7 +1433,7 @@ msgid "Vigorspore Wurm can't be blocked by more than one creature."
 msgstr ""
 
 #: ../../GRN.rst:792
-msgid "Vivid Revival"
+msgid ":mtgtip:`Vivid Revival`"
 msgstr ""
 
 #: ../../GRN.rst:791
@@ -1428,15 +1441,15 @@ msgid "Return up to three target multicolored cards from your graveyard to your 
 msgstr ""
 
 #: ../../GRN.rst:796
-msgid "Wary Okapi"
+msgid ":mtgtip:`Wary Okapi`"
 msgstr ""
 
 #: ../../GRN.rst:798
-msgid "Wild Ceratok"
+msgid ":mtgtip:`Wild Ceratok`"
 msgstr ""
 
 #: ../../GRN.rst:808
-msgid "Artful Takedown"
+msgid ":mtgtip:`Artful Takedown`"
 msgstr ""
 
 #: ../../GRN.rst:805
@@ -1448,7 +1461,7 @@ msgid "Target creature gets -2/-4 until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:812
-msgid "Assassin's Trophy"
+msgid ":mtgtip:`Assassin's Trophy`"
 msgstr ""
 
 #: ../../GRN.rst:811
@@ -1456,7 +1469,7 @@ msgid "Destroy target permanent an opponent controls. Its controller may search 
 msgstr ""
 
 #: ../../GRN.rst:820
-msgid "Aurelia, Exemplar of Justice"
+msgid ":mtgtip:`Aurelia, Exemplar of Justice`"
 msgstr ""
 
 #: ../../GRN.rst:819
@@ -1464,7 +1477,7 @@ msgid "At the beginning of combat on your turn, choose up to one target creature
 msgstr ""
 
 #: ../../GRN.rst:826
-msgid "Beacon Bolt"
+msgid ":mtgtip:`Beacon Bolt`"
 msgstr ""
 
 #: ../../GRN.rst:823
@@ -1472,7 +1485,7 @@ msgid "Beacon Bolt deals damage to target creature equal to the total number of 
 msgstr ""
 
 #: ../../GRN.rst:830
-msgid "Beamsplitter Mage"
+msgid ":mtgtip:`Beamsplitter Mage`"
 msgstr ""
 
 #: ../../GRN.rst:829
@@ -1480,7 +1493,7 @@ msgid "Whenever you cast an instant or sorcery spell that targets only Beamsplit
 msgstr ""
 
 #: ../../GRN.rst:836
-msgid "Boros Challenger"
+msgid ":mtgtip:`Boros Challenger`"
 msgstr ""
 
 #: ../../GRN.rst:835
@@ -1488,7 +1501,7 @@ msgid "|mana_2|\\ |mana_r|\\ |mana_w|: Boros Challenger gets +1/+1 until end of 
 msgstr ""
 
 #: ../../GRN.rst:840
-msgid "Camaraderie"
+msgid ":mtgtip:`Camaraderie`"
 msgstr ""
 
 #: ../../GRN.rst:839
@@ -1496,7 +1509,7 @@ msgid "You gain X life and draw X cards, where X is the number of creatures you 
 msgstr ""
 
 #: ../../GRN.rst:844
-msgid "Centaur Peacemaker"
+msgid ":mtgtip:`Centaur Peacemaker`"
 msgstr ""
 
 #: ../../GRN.rst:843
@@ -1504,7 +1517,7 @@ msgid "When Centaur Peacemaker enters the battlefield, each player gains 4 life.
 msgstr ""
 
 #: ../../GRN.rst:848
-msgid "Chance for Glory"
+msgid ":mtgtip:`Chance for Glory`"
 msgstr ""
 
 #: ../../GRN.rst:847
@@ -1512,7 +1525,7 @@ msgid "Creatures you control gain indestructible. Take an extra turn after this 
 msgstr ""
 
 #: ../../GRN.rst:856
-msgid "Charnel Troll"
+msgid ":mtgtip:`Charnel Troll`"
 msgstr ""
 
 #: ../../GRN.rst:853
@@ -1524,7 +1537,7 @@ msgid "|mana_b|\\ |mana_g|, Discard a creature card: Put a +1/+1 counter on Char
 msgstr ""
 
 #: ../../GRN.rst:862
-msgid "Conclave Cavalier"
+msgid ":mtgtip:`Conclave Cavalier`"
 msgstr ""
 
 #: ../../GRN.rst:861
@@ -1532,7 +1545,7 @@ msgid "When Conclave Cavalier dies, create two 2/2 green and white Elf Knight cr
 msgstr ""
 
 #: ../../GRN.rst:868
-msgid "Conclave Guildmage"
+msgid ":mtgtip:`Conclave Guildmage`"
 msgstr ""
 
 #: ../../GRN.rst:865
@@ -1544,7 +1557,7 @@ msgid "|mana_5|\\ |mana_w|, |tap|: Create a 2/2 green and white Elf Knight creat
 msgstr ""
 
 #: ../../GRN.rst:876
-msgid "Crackling Drake"
+msgid ":mtgtip:`Crackling Drake`"
 msgstr ""
 
 #: ../../GRN.rst:873
@@ -1556,7 +1569,7 @@ msgid "When Crackling Drake enters the battlefield, draw a card."
 msgstr ""
 
 #: ../../GRN.rst:880
-msgid "Darkblade Agent"
+msgid ":mtgtip:`Darkblade Agent`"
 msgstr ""
 
 #: ../../GRN.rst:879
@@ -1564,7 +1577,7 @@ msgid "As long as you've surveilled this turn, Darkblade Agent has deathtouch an
 msgstr ""
 
 #: ../../GRN.rst:888
-msgid "Deafening Clarion"
+msgid ":mtgtip:`Deafening Clarion`"
 msgstr ""
 
 #: ../../GRN.rst:885
@@ -1576,11 +1589,11 @@ msgid "Creatures you control gain lifelink until end of turn."
 msgstr ""
 
 #: ../../GRN.rst:896
-msgid "Dimir Spybug"
+msgid ":mtgtip:`Dimir Spybug`"
 msgstr ""
 
 #: ../../GRN.rst:893
-#: ../../GRN.rst:1507
+#: ../../GRN.rst:1477
 msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
 
@@ -1589,7 +1602,7 @@ msgid "Whenever you surveil, put a +1/+1 counter on Dimir Spybug."
 msgstr ""
 
 #: ../../GRN.rst:902
-msgid "Disinformation Campaign"
+msgid ":mtgtip:`Disinformation Campaign`"
 msgstr ""
 
 #: ../../GRN.rst:899
@@ -1601,7 +1614,7 @@ msgid "Whenever you surveil, return Disinformation Campaign to its owner's hand.
 msgstr ""
 
 #: ../../GRN.rst:906
-msgid "Emmara, Soul of the Accord"
+msgid ":mtgtip:`Emmara, Soul of the Accord`"
 msgstr ""
 
 #: ../../GRN.rst:905
@@ -1609,7 +1622,7 @@ msgid "Whenever Emmara, Soul of the Accord becomes tapped, create a 1/1 white So
 msgstr ""
 
 #: ../../GRN.rst:910
-msgid "Erstwhile Trooper"
+msgid ":mtgtip:`Erstwhile Trooper`"
 msgstr ""
 
 #: ../../GRN.rst:909
@@ -1617,7 +1630,7 @@ msgid "Discard a creature card: Erstwhile Trooper gets +2/+2 and gains trample u
 msgstr ""
 
 #: ../../GRN.rst:916
-msgid "Etrata, the Silencer"
+msgid ":mtgtip:`Etrata, the Silencer`"
 msgstr ""
 
 #: ../../GRN.rst:913
@@ -1629,7 +1642,7 @@ msgid "Whenever Etrata deals combat damage to a player, exile target creature th
 msgstr ""
 
 #: ../../GRN.rst:924
-msgid "Firemind's Research"
+msgid ":mtgtip:`Firemind's Research`"
 msgstr ""
 
 #: ../../GRN.rst:919
@@ -1645,7 +1658,7 @@ msgid "|mana_1|\\ |mana_r|, Remove five charge counters from Firemind's Research
 msgstr ""
 
 #: ../../GRN.rst:928
-msgid "Garrison Sergeant"
+msgid ":mtgtip:`Garrison Sergeant`"
 msgstr ""
 
 #: ../../GRN.rst:927
@@ -1653,7 +1666,7 @@ msgid "Garrison Sergeant has double strike as long as you control a Gate."
 msgstr ""
 
 #: ../../GRN.rst:932
-msgid "Glowspore Shaman"
+msgid ":mtgtip:`Glowspore Shaman`"
 msgstr ""
 
 #: ../../GRN.rst:931
@@ -1661,7 +1674,7 @@ msgid "When Glowspore Shaman enters the battlefield, put the top three cards of 
 msgstr ""
 
 #: ../../GRN.rst:936
-msgid "Goblin Electromancer"
+msgid ":mtgtip:`Goblin Electromancer`"
 msgstr ""
 
 #: ../../GRN.rst:935
@@ -1669,7 +1682,7 @@ msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
 msgstr ""
 
 #: ../../GRN.rst:940
-msgid "Golgari Findbroker"
+msgid ":mtgtip:`Golgari Findbroker`"
 msgstr ""
 
 #: ../../GRN.rst:939
@@ -1677,11 +1690,11 @@ msgid "When Golgari Findbroker enters the battlefield, return target permanent c
 msgstr ""
 
 #: ../../GRN.rst:944
-msgid "Hammer Dropper"
+msgid ":mtgtip:`Hammer Dropper`"
 msgstr ""
 
 #: ../../GRN.rst:950
-msgid "House Guildmage"
+msgid ":mtgtip:`House Guildmage`"
 msgstr ""
 
 #: ../../GRN.rst:947
@@ -1693,7 +1706,7 @@ msgid "|mana_2|\\ |mana_b|, |tap|: Surveil 2. (Look at the top two cards of your
 msgstr ""
 
 #: ../../GRN.rst:954
-msgid "Hypothesizzle"
+msgid ":mtgtip:`Hypothesizzle`"
 msgstr ""
 
 #: ../../GRN.rst:953
@@ -1701,7 +1714,7 @@ msgid "Draw two cards. Then you may discard a nonland card. When you do, Hypothe
 msgstr ""
 
 #: ../../GRN.rst:958
-msgid "Ionize"
+msgid ":mtgtip:`Ionize`"
 msgstr ""
 
 #: ../../GRN.rst:957
@@ -1709,7 +1722,7 @@ msgid "Counter target spell. Ionize deals 2 damage to that spell's controller."
 msgstr ""
 
 #: ../../GRN.rst:964
-msgid "Izoni, Thousand-Eyed"
+msgid ":mtgtip:`Izoni, Thousand-Eyed`"
 msgstr ""
 
 #: ../../GRN.rst:961
@@ -1721,7 +1734,7 @@ msgid "|mana_b|\\ |mana_g|, Sacrifice another creature: You gain 1 life and draw
 msgstr ""
 
 #: ../../GRN.rst:968
-msgid "Join Shields"
+msgid ":mtgtip:`Join Shields`"
 msgstr ""
 
 #: ../../GRN.rst:967
@@ -1729,7 +1742,7 @@ msgid "Untap all creatures you control. They gain hexproof and indestructible un
 msgstr ""
 
 #: ../../GRN.rst:972
-msgid "Justice Strike"
+msgid ":mtgtip:`Justice Strike`"
 msgstr ""
 
 #: ../../GRN.rst:971
@@ -1737,7 +1750,7 @@ msgid "Target creature deals damage to itself equal to its power."
 msgstr ""
 
 #: ../../GRN.rst:982
-msgid "Knight of Autumn"
+msgid ":mtgtip:`Knight of Autumn`"
 msgstr ""
 
 #: ../../GRN.rst:975
@@ -1753,11 +1766,11 @@ msgid "You gain 4 life."
 msgstr ""
 
 #: ../../GRN.rst:988
-msgid "Lazav, the Multifarious"
+msgid ":mtgtip:`Lazav, the Multifarious`"
 msgstr ""
 
 #: ../../GRN.rst:985
-msgid "When Lazav, the Multifarious enters the battlefield, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)"
+msgid "When Lazav, the Multifarious enters the battlefield, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)"
 msgstr ""
 
 #: ../../GRN.rst:987
@@ -1765,7 +1778,7 @@ msgid "|mana_x|: Lazav, the Multifarious becomes a copy of target creature card 
 msgstr ""
 
 #: ../../GRN.rst:994
-msgid "League Guildmage"
+msgid ":mtgtip:`League Guildmage`"
 msgstr ""
 
 #: ../../GRN.rst:991
@@ -1777,7 +1790,7 @@ msgid "|mana_x|\\ |mana_r|, |tap|: Copy target instant or sorcery spell you cont
 msgstr ""
 
 #: ../../GRN.rst:1000
-msgid "Ledev Champion"
+msgid ":mtgtip:`Ledev Champion`"
 msgstr ""
 
 #: ../../GRN.rst:997
@@ -1789,7 +1802,7 @@ msgid "|mana_3|\\ |mana_g|\\ |mana_w|: Create a 1/1 white Soldier creature token
 msgstr ""
 
 #: ../../GRN.rst:1006
-msgid "Legion Guildmage"
+msgid ":mtgtip:`Legion Guildmage`"
 msgstr ""
 
 #: ../../GRN.rst:1003
@@ -1801,7 +1814,7 @@ msgid "|mana_2|\\ |mana_w|, |tap|: Tap another target creature."
 msgstr ""
 
 #: ../../GRN.rst:1012
-msgid "March of the Multitudes"
+msgid ":mtgtip:`March of the Multitudes`"
 msgstr ""
 
 #: ../../GRN.rst:1011
@@ -1809,7 +1822,7 @@ msgid "Create X 1/1 white Soldier creature tokens with lifelink."
 msgstr ""
 
 #: ../../GRN.rst:1018
-msgid "Mnemonic Betrayal"
+msgid ":mtgtip:`Mnemonic Betrayal`"
 msgstr ""
 
 #: ../../GRN.rst:1015
@@ -1821,7 +1834,7 @@ msgid "Exile Mnemonic Betrayal."
 msgstr ""
 
 #: ../../GRN.rst:1024
-msgid "Molderhulk"
+msgid ":mtgtip:`Molderhulk`"
 msgstr ""
 
 #: ../../GRN.rst:1021
@@ -1833,7 +1846,7 @@ msgid "When Molderhulk enters the battlefield, return target land card from your
 msgstr ""
 
 #: ../../GRN.rst:1030
-msgid "Nightveil Predator"
+msgid ":mtgtip:`Nightveil Predator`"
 msgstr ""
 
 #: ../../GRN.rst:1027
@@ -1841,7 +1854,7 @@ msgid "Flying, deathtouch"
 msgstr ""
 
 #: ../../GRN.rst:1040
-msgid "Niv-Mizzet, Parun"
+msgid ":mtgtip:`Niv-Mizzet, Parun`"
 msgstr ""
 
 #: ../../GRN.rst:1037
@@ -1853,7 +1866,7 @@ msgid "Whenever a player casts an instant or sorcery spell, you draw a card."
 msgstr ""
 
 #: ../../GRN.rst:1044
-msgid "Notion Rain"
+msgid ":mtgtip:`Notion Rain`"
 msgstr ""
 
 #: ../../GRN.rst:1043
@@ -1861,7 +1874,7 @@ msgid "Surveil 2, then draw two cards. Notion Rain deals 2 damage to you. (To su
 msgstr ""
 
 #: ../../GRN.rst:1050
-msgid "Ochran Assassin"
+msgid ":mtgtip:`Ochran Assassin`"
 msgstr ""
 
 #: ../../GRN.rst:1049
@@ -1869,7 +1882,7 @@ msgid "All creatures able to block Ochran Assassin do so."
 msgstr ""
 
 #: ../../GRN.rst:1058
-msgid "Ral, Izzet Viceroy"
+msgid ":mtgtip:`Ral, Izzet Viceroy`"
 msgstr ""
 
 #: ../../GRN.rst:1053
@@ -1877,15 +1890,15 @@ msgid "+1: Look at the top two cards of your library. Put one of them into your 
 msgstr ""
 
 #: ../../GRN.rst:1055
-msgid "−3: Ral, Izzet Viceroy deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard."
+msgid "-3: Ral, Izzet Viceroy deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard."
 msgstr ""
 
 #: ../../GRN.rst:1057
-msgid "−8: You get an emblem with \"Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards.\""
+msgid "-8: You get an emblem with \"Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards.\""
 msgstr ""
 
 #: ../../GRN.rst:1062
-msgid "Rhizome Lurcher"
+msgid ":mtgtip:`Rhizome Lurcher`"
 msgstr ""
 
 #: ../../GRN.rst:1061
@@ -1893,15 +1906,15 @@ msgid "Undergrowth — Rhizome Lurcher enters the battlefield with a number of +
 msgstr ""
 
 #: ../../GRN.rst:1068
-msgid "Rosemane Centaur"
+msgid ":mtgtip:`Rosemane Centaur`"
 msgstr ""
 
 #: ../../GRN.rst:1072
-msgid "Skyknight Legionnaire"
+msgid ":mtgtip:`Skyknight Legionnaire`"
 msgstr ""
 
 #: ../../GRN.rst:1078
-msgid "Sonic Assault"
+msgid ":mtgtip:`Sonic Assault`"
 msgstr ""
 
 #: ../../GRN.rst:1075
@@ -1909,7 +1922,7 @@ msgid "Tap target creature. Sonic Assault deals 2 damage to that creature's cont
 msgstr ""
 
 #: ../../GRN.rst:1082
-msgid "Sumala Woodshaper"
+msgid ":mtgtip:`Sumala Woodshaper`"
 msgstr ""
 
 #: ../../GRN.rst:1081
@@ -1917,7 +1930,7 @@ msgid "When Sumala Woodshaper enters the battlefield, look at the top four cards
 msgstr ""
 
 #: ../../GRN.rst:1088
-msgid "Swarm Guildmage"
+msgid ":mtgtip:`Swarm Guildmage`"
 msgstr ""
 
 #: ../../GRN.rst:1085
@@ -1929,7 +1942,7 @@ msgid "|mana_1|\\ |mana_g|, |tap|: You gain 2 life."
 msgstr ""
 
 #: ../../GRN.rst:1094
-msgid "Swathcutter Giant"
+msgid ":mtgtip:`Swathcutter Giant`"
 msgstr ""
 
 #: ../../GRN.rst:1093
@@ -1937,7 +1950,7 @@ msgid "Whenever Swathcutter Giant attacks, it deals 1 damage to each creature de
 msgstr ""
 
 #: ../../GRN.rst:1098
-msgid "Swiftblade Vindicator"
+msgid ":mtgtip:`Swiftblade Vindicator`"
 msgstr ""
 
 #: ../../GRN.rst:1097
@@ -1945,7 +1958,7 @@ msgid "Double strike, vigilance, trample"
 msgstr ""
 
 #: ../../GRN.rst:1108
-msgid "Tajic, Legion's Edge"
+msgid ":mtgtip:`Tajic, Legion's Edge`"
 msgstr ""
 
 #: ../../GRN.rst:1105
@@ -1957,7 +1970,7 @@ msgid "|mana_r|\\ |mana_w|: Tajic, Legion's Edge gains first strike until end of
 msgstr ""
 
 #: ../../GRN.rst:1114
-msgid "Thief of Sanity"
+msgid ":mtgtip:`Thief of Sanity`"
 msgstr ""
 
 #: ../../GRN.rst:1113
@@ -1965,7 +1978,7 @@ msgid "Whenever Thief of Sanity deals combat damage to a player, look at the top
 msgstr ""
 
 #: ../../GRN.rst:1120
-msgid "Thought Erasure"
+msgid ":mtgtip:`Thought Erasure`"
 msgstr ""
 
 #: ../../GRN.rst:1117
@@ -1977,7 +1990,7 @@ msgid "Surveil 1. (Look at the top card of your library. You may put it into you
 msgstr ""
 
 #: ../../GRN.rst:1124
-msgid "Thousand-Year Storm"
+msgid ":mtgtip:`Thousand-Year Storm`"
 msgstr ""
 
 #: ../../GRN.rst:1123
@@ -1985,7 +1998,7 @@ msgid "Whenever you cast an instant or sorcery spell, copy it for each other ins
 msgstr ""
 
 #: ../../GRN.rst:1132
-msgid "Trostani Discordant"
+msgid ":mtgtip:`Trostani Discordant`"
 msgstr ""
 
 #: ../../GRN.rst:1127
@@ -2001,7 +2014,7 @@ msgid "At the beginning of your end step, each player gains control of all creat
 msgstr ""
 
 #: ../../GRN.rst:1138
-msgid "Truefire Captain"
+msgid ":mtgtip:`Truefire Captain`"
 msgstr ""
 
 #: ../../GRN.rst:1137
@@ -2009,7 +2022,7 @@ msgid "Whenever Truefire Captain is dealt damage, it deals that much damage to t
 msgstr ""
 
 #: ../../GRN.rst:1142
-msgid "Undercity Uprising"
+msgid ":mtgtip:`Undercity Uprising`"
 msgstr ""
 
 #: ../../GRN.rst:1141
@@ -2017,7 +2030,7 @@ msgid "Creatures you control gain deathtouch until end of turn. Then target crea
 msgstr ""
 
 #: ../../GRN.rst:1148
-msgid "Underrealm Lich"
+msgid ":mtgtip:`Underrealm Lich`"
 msgstr ""
 
 #: ../../GRN.rst:1145
@@ -2029,7 +2042,7 @@ msgid "Pay 4 life: Underrealm Lich gains indestructible until end of turn. Tap i
 msgstr ""
 
 #: ../../GRN.rst:1152
-msgid "Unmoored Ego"
+msgid ":mtgtip:`Unmoored Ego`"
 msgstr ""
 
 #: ../../GRN.rst:1151
@@ -2037,7 +2050,7 @@ msgid "Choose a card name. Search target opponent's graveyard, hand, and library
 msgstr ""
 
 #: ../../GRN.rst:1160
-msgid "Vraska, Golgari Queen"
+msgid ":mtgtip:`Vraska, Golgari Queen`"
 msgstr ""
 
 #: ../../GRN.rst:1155
@@ -2045,15 +2058,15 @@ msgid "+2: You may sacrifice another permanent. If you do, you gain 1 life and d
 msgstr ""
 
 #: ../../GRN.rst:1157
-msgid "−3: Destroy target nonland permanent with converted mana cost 3 or less."
+msgid "-3: Destroy target nonland permanent with converted mana cost 3 or less."
 msgstr ""
 
 #: ../../GRN.rst:1159
-msgid "−9: You get an emblem with \"Whenever a creature you control deals combat damage to a player, that player loses the game.\""
+msgid "-9: You get an emblem with \"Whenever a creature you control deals combat damage to a player, that player loses the game.\""
 msgstr ""
 
 #: ../../GRN.rst:1166
-msgid "Wee Dragonauts"
+msgid ":mtgtip:`Wee Dragonauts`"
 msgstr ""
 
 #: ../../GRN.rst:1165
@@ -2061,7 +2074,7 @@ msgid "Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 
 msgstr ""
 
 #: ../../GRN.rst:1172
-msgid "Worldsoul Colossus"
+msgid ":mtgtip:`Worldsoul Colossus`"
 msgstr ""
 
 #: ../../GRN.rst:1171
@@ -2069,7 +2082,7 @@ msgid "Worldsoul Colossus enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
 #: ../../GRN.rst:1176
-msgid "Fresh-Faced Recruit"
+msgid ":mtgtip:`Fresh-Faced Recruit`"
 msgstr ""
 
 #: ../../GRN.rst:1175
@@ -2077,7 +2090,7 @@ msgid "As long as it's your turn, Fresh-Faced Recruit has first strike."
 msgstr ""
 
 #: ../../GRN.rst:1182
-msgid "Piston-Fist Cyclops"
+msgid ":mtgtip:`Piston-Fist Cyclops`"
 msgstr ""
 
 #: ../../GRN.rst:1181
@@ -2085,15 +2098,15 @@ msgid "As long as you've cast an instant or sorcery spell this turn, Piston-Fist
 msgstr ""
 
 #: ../../GRN.rst:1186
-msgid "Pitiless Gorgon"
+msgid ":mtgtip:`Pitiless Gorgon`"
 msgstr ""
 
 #: ../../GRN.rst:1190
-msgid "Vernadi Shieldmate"
+msgid ":mtgtip:`Vernadi Shieldmate`"
 msgstr ""
 
 #: ../../GRN.rst:1196
-msgid "Whisper Agent"
+msgid ":mtgtip:`Whisper Agent`"
 msgstr ""
 
 #: ../../GRN.rst:1195
@@ -2101,172 +2114,171 @@ msgid "When Whisper Agent enters the battlefield, surveil 1. (Look at the top ca
 msgstr ""
 
 #: ../../GRN.rst:1200
-msgid "Assure"
+msgid ":mtgtip:`Assemble`"
 msgstr ""
 
 #: ../../GRN.rst:1199
-msgid "Put a +1/+1 counter on target creature. That creature gains indestructible until end of turn."
-msgstr ""
-
-#: ../../GRN.rst:1204
-msgid "Assemble"
-msgstr ""
-
-#: ../../GRN.rst:1203
 msgid "Create three 2/2 green and white Elf Knight creature tokens with vigilance."
 msgstr ""
 
+#: ../../GRN.rst:1204
+msgid ":mtgtip:`Assure`"
+msgstr ""
+
+#: ../../GRN.rst:1203
+msgid "Put a +1/+1 counter on target creature. That creature gains indestructible until end of turn."
+msgstr ""
+
 #: ../../GRN.rst:1208
-msgid "Connive"
+msgid ":mtgtip:`Concoct`"
 msgstr ""
 
 #: ../../GRN.rst:1207
-msgid "Gain control of target creature with power 2 or less."
-msgstr ""
-
-#: ../../GRN.rst:1212
-msgid "Concoct"
-msgstr ""
-
-#: ../../GRN.rst:1211
 msgid "Surveil 3, then return a creature card from your graveyard to the battlefield."
 msgstr ""
 
+#: ../../GRN.rst:1212
+msgid ":mtgtip:`Connive`"
+msgstr ""
+
+#: ../../GRN.rst:1211
+msgid "Gain control of target creature with power 2 or less."
+msgstr ""
+
 #: ../../GRN.rst:1216
-msgid "Discovery"
+msgid ":mtgtip:`Dispersal`"
 msgstr ""
 
 #: ../../GRN.rst:1215
-msgid "Surveil 2, then draw a card. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
-msgstr ""
-
-#: ../../GRN.rst:1220
-msgid "Dispersal"
-msgstr ""
-
-#: ../../GRN.rst:1219
 msgid "Each opponent returns a nonland permanent they control with the highest converted mana cost among permanents they control to its owner's hand, then discards a card."
 msgstr ""
 
+#: ../../GRN.rst:1220
+msgid ":mtgtip:`Discovery`"
+msgstr ""
+
+#: ../../GRN.rst:1219
+msgid "Surveil 2, then draw a card. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+msgstr ""
+
 #: ../../GRN.rst:1224
-msgid "Expansion"
+msgid ":mtgtip:`Explosion`"
 msgstr ""
 
 #: ../../GRN.rst:1223
-msgid "Copy target instant or sorcery spell with converted mana cost 4 or less. You may choose new targets for the copy."
-msgstr ""
-
-#: ../../GRN.rst:1228
-msgid "Explosion"
-msgstr ""
-
-#: ../../GRN.rst:1227
 msgid "Explosion deals X damage to any target. Target player draws X cards."
 msgstr ""
 
+#: ../../GRN.rst:1228
+msgid ":mtgtip:`Expansion`"
+msgstr ""
+
+#: ../../GRN.rst:1227
+msgid "Copy target instant or sorcery spell with converted mana cost 4 or less. You may choose new targets for the copy."
+msgstr ""
+
 #: ../../GRN.rst:1232
-msgid "Find"
+msgid ":mtgtip:`Finality`"
 msgstr ""
 
 #: ../../GRN.rst:1231
-msgid "Return up to two target creature cards from your graveyard to your hand."
-msgstr ""
-
-#: ../../GRN.rst:1236
-msgid "Finality"
-msgstr ""
-
-#: ../../GRN.rst:1235
 msgid "You may put two +1/+1 counters on a creature you control. Then all creatures get -4/-4 until end of turn."
 msgstr ""
 
+#: ../../GRN.rst:1236
+msgid ":mtgtip:`Find`"
+msgstr ""
+
+#: ../../GRN.rst:1235
+msgid "Return up to two target creature cards from your graveyard to your hand."
+msgstr ""
+
 #: ../../GRN.rst:1240
-msgid "Flower"
+msgid ":mtgtip:`Flourish`"
 msgstr ""
 
 #: ../../GRN.rst:1239
-msgid "Search your library for a basic Forest or Plains card, reveal it, put it into your hand, then shuffle your library."
-msgstr ""
-
-#: ../../GRN.rst:1244
-msgid "Flourish"
-msgstr ""
-
-#: ../../GRN.rst:1243
 msgid "Creatures you control get +2/+2 until end of turn."
 msgstr ""
 
+#: ../../GRN.rst:1244
+msgid ":mtgtip:`Flower`"
+msgstr ""
+
+#: ../../GRN.rst:1243
+msgid "Search your library for a basic Forest or Plains card, reveal it, put it into your hand, then shuffle your library."
+msgstr ""
+
 #: ../../GRN.rst:1248
-msgid "Integrity"
+msgid ":mtgtip:`Intervention`"
 msgstr ""
 
 #: ../../GRN.rst:1247
-msgid "Target creature gets +2/+2 until end of turn."
-msgstr ""
-
-#: ../../GRN.rst:1252
-msgid "Intervention"
-msgstr ""
-
-#: ../../GRN.rst:1251
 msgid "Intervention deals 3 damage to any target and you gain 3 life."
 msgstr ""
 
+#: ../../GRN.rst:1252
+msgid ":mtgtip:`Integrity`"
+msgstr ""
+
+#: ../../GRN.rst:1251
+msgid "Target creature gets +2/+2 until end of turn."
+msgstr ""
+
 #: ../../GRN.rst:1256
-msgid "Invert"
+msgid ":mtgtip:`Invent`"
 msgstr ""
 
 #: ../../GRN.rst:1255
-msgid "Switch the power and toughness of each of up to two target creatures until end of turn."
-msgstr ""
-
-#: ../../GRN.rst:1260
-msgid "Invent"
-msgstr ""
-
-#: ../../GRN.rst:1259
 msgid "Search your library for an instant card and/or a sorcery card, reveal them, put them into your hand, then shuffle your library."
 msgstr ""
 
+#: ../../GRN.rst:1260
+msgid ":mtgtip:`Invert`"
+msgstr ""
+
+#: ../../GRN.rst:1259
+msgid "Switch the power and toughness of each of up to two target creatures until end of turn."
+msgstr ""
+
 #: ../../GRN.rst:1264
-msgid "Response"
+msgid ":mtgtip:`Resurgence`"
 msgstr ""
 
 #: ../../GRN.rst:1263
-msgid "Response deals 5 damage to target attacking or blocking creature."
-msgstr ""
-
-#: ../../GRN.rst:1268
-msgid "Resurgence"
-msgstr ""
-
-#: ../../GRN.rst:1267
 msgid "Creatures you control gain first strike and vigilance until end of turn. After this main phase, there is an additional combat phase followed by an additional main phase."
 msgstr ""
 
+#: ../../GRN.rst:1268
+msgid ":mtgtip:`Response`"
+msgstr ""
+
+#: ../../GRN.rst:1267
+msgid "Response deals 5 damage to target attacking or blocking creature."
+msgstr ""
+
 #: ../../GRN.rst:1272
-msgid "Status"
+msgid ":mtgtip:`Statue`"
 msgstr ""
 
 #: ../../GRN.rst:1271
-msgid "Target creature gets +1/+1 and gains deathtouch until end of turn."
-msgstr ""
-
-#: ../../GRN.rst:1276
-msgid "Statue"
-msgstr ""
-
-#: ../../GRN.rst:1275
 msgid "Destroy target artifact, creature, or enchantment."
 msgstr ""
 
+#: ../../GRN.rst:1276
+msgid ":mtgtip:`Status`"
+msgstr ""
+
+#: ../../GRN.rst:1275
+msgid "Target creature gets +1/+1 and gains deathtouch until end of turn."
+msgstr ""
+
 #: ../../GRN.rst:1282
-msgid "Boros Locket"
+msgid ":mtgtip:`Boros Locket`"
 msgstr ""
 
 #: ../../GRN.rst:1279
 #: ../../GRN.rst:1355
-#: ../../GRN.rst:1361
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
@@ -2275,7 +2287,7 @@ msgid "|mana_rw|\\ |mana_rw|\\ |mana_rw|\\ |mana_rw|, |tap|, Sacrifice Boros Loc
 msgstr ""
 
 #: ../../GRN.rst:1290
-msgid "Chamber Sentry"
+msgid ":mtgtip:`Chamber Sentry`"
 msgstr ""
 
 #: ../../GRN.rst:1285
@@ -2291,7 +2303,7 @@ msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Return Chamber Sent
 msgstr ""
 
 #: ../../GRN.rst:1296
-msgid "Chromatic Lantern"
+msgid ":mtgtip:`Chromatic Lantern`"
 msgstr ""
 
 #: ../../GRN.rst:1293
@@ -2299,17 +2311,16 @@ msgid "Lands you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
 
 #: ../../GRN.rst:1295
-#: ../../GRN.rst:1381
+#: ../../GRN.rst:1369
 msgid "|tap|: Add one mana of any color."
 msgstr ""
 
 #: ../../GRN.rst:1302
-msgid "Dimir Locket"
+msgid ":mtgtip:`Dimir Locket`"
 msgstr ""
 
 #: ../../GRN.rst:1299
-#: ../../GRN.rst:1367
-#: ../../GRN.rst:1373
+#: ../../GRN.rst:1361
 msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
@@ -2318,7 +2329,7 @@ msgid "|mana_ub|\\ |mana_ub|\\ |mana_ub|\\ |mana_ub|, |tap|, Sacrifice Dimir Loc
 msgstr ""
 
 #: ../../GRN.rst:1308
-msgid "Gatekeeper Gargoyle"
+msgid ":mtgtip:`Gatekeeper Gargoyle`"
 msgstr ""
 
 #: ../../GRN.rst:1307
@@ -2326,7 +2337,7 @@ msgid "Gatekeeper Gargoyle enters the battlefield with a +1/+1 counter on it for
 msgstr ""
 
 #: ../../GRN.rst:1314
-msgid "Glaive of the Guildpact"
+msgid ":mtgtip:`Glaive of the Guildpact`"
 msgstr ""
 
 #: ../../GRN.rst:1311
@@ -2338,12 +2349,11 @@ msgid "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip on
 msgstr ""
 
 #: ../../GRN.rst:1320
-msgid "Golgari Locket"
+msgid ":mtgtip:`Golgari Locket`"
 msgstr ""
 
 #: ../../GRN.rst:1317
-#: ../../GRN.rst:1387
-#: ../../GRN.rst:1393
+#: ../../GRN.rst:1375
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr ""
 
@@ -2352,12 +2362,11 @@ msgid "|mana_bg|\\ |mana_bg|\\ |mana_bg|\\ |mana_bg|, |tap|, Sacrifice Golgari L
 msgstr ""
 
 #: ../../GRN.rst:1326
-msgid "Izzet Locket"
+msgid ":mtgtip:`Izzet Locket`"
 msgstr ""
 
 #: ../../GRN.rst:1323
-#: ../../GRN.rst:1405
-#: ../../GRN.rst:1411
+#: ../../GRN.rst:1387
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
@@ -2366,7 +2375,7 @@ msgid "|mana_ur|\\ |mana_ur|\\ |mana_ur|\\ |mana_ur|, |tap|, Sacrifice Izzet Loc
 msgstr ""
 
 #: ../../GRN.rst:1334
-msgid "Rampaging Monument"
+msgid ":mtgtip:`Rampaging Monument`"
 msgstr ""
 
 #: ../../GRN.rst:1331
@@ -2378,12 +2387,11 @@ msgid "Whenever you cast a multicolored spell, put a +1/+1 counter on Rampaging 
 msgstr ""
 
 #: ../../GRN.rst:1340
-msgid "Selesnya Locket"
+msgid ":mtgtip:`Selesnya Locket`"
 msgstr ""
 
 #: ../../GRN.rst:1337
-#: ../../GRN.rst:1429
-#: ../../GRN.rst:1435
+#: ../../GRN.rst:1405
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
@@ -2392,7 +2400,7 @@ msgid "|mana_gw|\\ |mana_gw|\\ |mana_gw|\\ |mana_gw|, |tap|, Sacrifice Selesnya 
 msgstr ""
 
 #: ../../GRN.rst:1344
-msgid "Silent Dart"
+msgid ":mtgtip:`Silent Dart`"
 msgstr ""
 
 #: ../../GRN.rst:1343
@@ -2400,7 +2408,7 @@ msgid "|mana_4|, |tap|, Sacrifice Silent Dart: It deals 3 damage to target creat
 msgstr ""
 
 #: ../../GRN.rst:1350
-msgid "Wand of Vertebrae"
+msgid ":mtgtip:`Wand of Vertebrae`"
 msgstr ""
 
 #: ../../GRN.rst:1347
@@ -2412,259 +2420,250 @@ msgid "|mana_2|, |tap|, Exile Wand of Vertebrae: Shuffle up to five target cards
 msgstr ""
 
 #: ../../GRN.rst:1356
-msgid "Boros Guildgate (a)"
+msgid ":mtgtip:`Boros Guildgate`"
 msgstr ""
 
 #: ../../GRN.rst:1353
-#: ../../GRN.rst:1359
 msgid "Boros Guildgate enters the battlefield tapped."
 msgstr ""
 
 #: ../../GRN.rst:1362
-msgid "Boros Guildgate (b)"
+msgid ":mtgtip:`Dimir Guildgate`"
 msgstr ""
 
-#: ../../GRN.rst:1368
-msgid "Dimir Guildgate (a)"
-msgstr ""
-
-#: ../../GRN.rst:1365
-#: ../../GRN.rst:1371
+#: ../../GRN.rst:1359
 msgid "Dimir Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../GRN.rst:1374
-msgid "Dimir Guildgate (b)"
+#: ../../GRN.rst:1370
+msgid ":mtgtip:`Gateway Plaza`"
 msgstr ""
 
-#: ../../GRN.rst:1382
-msgid "Gateway Plaza"
-msgstr ""
-
-#: ../../GRN.rst:1377
+#: ../../GRN.rst:1365
 msgid "Gateway Plaza enters the battlefield tapped."
 msgstr ""
 
-#: ../../GRN.rst:1379
+#: ../../GRN.rst:1367
 msgid "When Gateway Plaza enters the battlefield, sacrifice it unless you pay |mana_1|."
 msgstr ""
 
-#: ../../GRN.rst:1388
-msgid "Golgari Guildgate (a)"
+#: ../../GRN.rst:1376
+msgid ":mtgtip:`Golgari Guildgate`"
 msgstr ""
 
-#: ../../GRN.rst:1385
-#: ../../GRN.rst:1391
+#: ../../GRN.rst:1373
 msgid "Golgari Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../GRN.rst:1394
-msgid "Golgari Guildgate (b)"
+#: ../../GRN.rst:1382
+msgid ":mtgtip:`Guildmages' Forum`"
 msgstr ""
 
-#: ../../GRN.rst:1400
-msgid "Guildmages' Forum"
-msgstr ""
-
-#: ../../GRN.rst:1397
+#: ../../GRN.rst:1379
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
-#: ../../GRN.rst:1399
+#: ../../GRN.rst:1381
 msgid "|mana_1|, |tap|: Add one mana of any color. If that mana is spent on a multicolored creature spell, that creature enters the battlefield with an additional +1/+1 counter on it."
 msgstr ""
 
-#: ../../GRN.rst:1406
-msgid "Izzet Guildgate (a)"
+#: ../../GRN.rst:1388
+msgid ":mtgtip:`Izzet Guildgate`"
 msgstr ""
 
-#: ../../GRN.rst:1403
-#: ../../GRN.rst:1409
+#: ../../GRN.rst:1385
 msgid "Izzet Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../GRN.rst:1412
-msgid "Izzet Guildgate (b)"
+#: ../../GRN.rst:1394
+msgid ":mtgtip:`Overgrown Tomb`"
 msgstr ""
 
-#: ../../GRN.rst:1418
-msgid "Overgrown Tomb"
-msgstr ""
-
-#: ../../GRN.rst:1415
+#: ../../GRN.rst:1391
 msgid "(|tap|: Add |mana_b| or |mana_g|.)"
 msgstr ""
 
-#: ../../GRN.rst:1417
+#: ../../GRN.rst:1393
 msgid "As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 msgstr ""
 
-#: ../../GRN.rst:1424
-msgid "Sacred Foundry"
+#: ../../GRN.rst:1400
+msgid ":mtgtip:`Sacred Foundry`"
 msgstr ""
 
-#: ../../GRN.rst:1421
+#: ../../GRN.rst:1397
 msgid "(|tap|: Add |mana_r| or |mana_w|.)"
 msgstr ""
 
-#: ../../GRN.rst:1423
+#: ../../GRN.rst:1399
 msgid "As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 msgstr ""
 
-#: ../../GRN.rst:1430
-msgid "Selesnya Guildgate (a)"
+#: ../../GRN.rst:1406
+msgid ":mtgtip:`Selesnya Guildgate`"
 msgstr ""
 
-#: ../../GRN.rst:1427
-#: ../../GRN.rst:1433
+#: ../../GRN.rst:1403
 msgid "Selesnya Guildgate enters the battlefield tapped."
 msgstr ""
 
-#: ../../GRN.rst:1436
-msgid "Selesnya Guildgate (b)"
+#: ../../GRN.rst:1412
+msgid ":mtgtip:`Steam Vents`"
 msgstr ""
 
-#: ../../GRN.rst:1442
-msgid "Steam Vents"
-msgstr ""
-
-#: ../../GRN.rst:1439
+#: ../../GRN.rst:1409
 msgid "(|tap|: Add |mana_u| or |mana_r|.)"
 msgstr ""
 
-#: ../../GRN.rst:1441
+#: ../../GRN.rst:1411
 msgid "As Steam Vents enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 msgstr ""
 
-#: ../../GRN.rst:1448
-msgid "Temple Garden"
+#: ../../GRN.rst:1418
+msgid ":mtgtip:`Temple Garden`"
 msgstr ""
 
-#: ../../GRN.rst:1445
+#: ../../GRN.rst:1415
 msgid "(|tap|: Add |mana_g| or |mana_w|.)"
 msgstr ""
 
-#: ../../GRN.rst:1447
+#: ../../GRN.rst:1417
 msgid "As Temple Garden enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 msgstr ""
 
-#: ../../GRN.rst:1454
-msgid "Watery Grave"
+#: ../../GRN.rst:1424
+msgid ":mtgtip:`Watery Grave`"
 msgstr ""
 
-#: ../../GRN.rst:1451
+#: ../../GRN.rst:1421
 msgid "(|tap|: Add |mana_u| or |mana_b|.)"
 msgstr ""
 
-#: ../../GRN.rst:1453
+#: ../../GRN.rst:1423
 msgid "As Watery Grave enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped."
 msgstr ""
 
-#: ../../GRN.rst:1456
-msgid "Plains"
+#: ../../GRN.rst:1428
+msgid ":mtgtip:`Plains`"
 msgstr ""
 
-#: ../../GRN.rst:1460
-msgid "Island"
+#: ../../GRN.rst:1427
+msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
-#: ../../GRN.rst:1464
-msgid "Swamp"
+#: ../../GRN.rst:1432
+msgid ":mtgtip:`Island`"
 msgstr ""
 
-#: ../../GRN.rst:1468
-msgid "Mountain"
+#: ../../GRN.rst:1431
+msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../GRN.rst:1472
-msgid "Forest"
+#: ../../GRN.rst:1436
+msgid ":mtgtip:`Swamp`"
 msgstr ""
 
-#: ../../GRN.rst:1482
-msgid "Ral, Caller of Storms"
+#: ../../GRN.rst:1435
+msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
-#: ../../GRN.rst:1477
+#: ../../GRN.rst:1440
+msgid ":mtgtip:`Mountain`"
+msgstr ""
+
+#: ../../GRN.rst:1439
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../GRN.rst:1444
+msgid ":mtgtip:`Forest`"
+msgstr ""
+
+#: ../../GRN.rst:1443
+msgid "(|tap|: Add |mana_g|.)"
+msgstr ""
+
+#: ../../GRN.rst:1452
+msgid ":mtgtip:`Ral, Caller of Storms`"
+msgstr ""
+
+#: ../../GRN.rst:1447
 msgid "+1: Draw a card."
 msgstr ""
 
-#: ../../GRN.rst:1479
+#: ../../GRN.rst:1449
 msgid "−2: Ral, Caller of Storms deals 3 damage divided as you choose among one, two, or three targets."
 msgstr ""
 
-#: ../../GRN.rst:1481
+#: ../../GRN.rst:1451
 msgid "−7: Draw seven cards. Ral, Caller of Storms deals 7 damage to each creature your opponents control."
 msgstr ""
 
-#: ../../GRN.rst:1486
-msgid "Ral's Dispersal"
+#: ../../GRN.rst:1456
+msgid ":mtgtip:`Ral's Dispersal`"
 msgstr ""
 
-#: ../../GRN.rst:1485
+#: ../../GRN.rst:1455
 msgid "Return target creature to its owner's hand. You may search your library and/or graveyard for a card named Ral, Caller of Storms, reveal it, and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
 
-#: ../../GRN.rst:1490
-msgid "Precision Bolt"
+#: ../../GRN.rst:1460
+msgid ":mtgtip:`Precision Bolt`"
 msgstr ""
 
-#: ../../GRN.rst:1489
+#: ../../GRN.rst:1459
 msgid "Precision Bolt deals 3 damage to any target."
 msgstr ""
 
-#: ../../GRN.rst:1496
-msgid "Ral's Staticaster"
+#: ../../GRN.rst:1466
+msgid ":mtgtip:`Ral's Staticaster`"
 msgstr ""
 
-#: ../../GRN.rst:1493
-msgid "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)"
-msgstr ""
-
-#: ../../GRN.rst:1495
+#: ../../GRN.rst:1465
 msgid "Whenever Ral's Staticaster attacks, if you control a Ral planeswalker, Ral's Staticaster gets +1/+0 for each card in your hand until end of turn."
 msgstr ""
 
-#: ../../GRN.rst:1504
-msgid "Vraska, Regal Gorgon"
+#: ../../GRN.rst:1474
+msgid ":mtgtip:`Vraska, Regal Gorgon`"
 msgstr ""
 
-#: ../../GRN.rst:1499
+#: ../../GRN.rst:1469
 msgid "+2: Put a +1/+1 counter on up to one target creature. That creature gains menace until end of turn."
 msgstr ""
 
-#: ../../GRN.rst:1501
+#: ../../GRN.rst:1471
 msgid "−3: Destroy target creature."
 msgstr ""
 
-#: ../../GRN.rst:1503
+#: ../../GRN.rst:1473
 msgid "−10: For each creature card in your graveyard, put a +1/+1 counter on each creature you control."
 msgstr ""
 
-#: ../../GRN.rst:1508
-msgid "Kraul Raider"
+#: ../../GRN.rst:1478
+msgid ":mtgtip:`Kraul Raider`"
 msgstr ""
 
-#: ../../GRN.rst:1512
-msgid "Attendant of Vraska"
+#: ../../GRN.rst:1482
+msgid ":mtgtip:`Attendant of Vraska`"
 msgstr ""
 
-#: ../../GRN.rst:1511
+#: ../../GRN.rst:1481
 msgid "When Attendant of Vraska dies, if you control a Vraska planeswalker, you gain life equal to Attendant of Vraska's power."
 msgstr ""
 
-#: ../../GRN.rst:1516
-msgid "Vraska's Stoneglare"
+#: ../../GRN.rst:1486
+msgid ":mtgtip:`Vraska's Stoneglare`"
 msgstr ""
 
-#: ../../GRN.rst:1515
+#: ../../GRN.rst:1485
 msgid "Destroy target creature. You gain life equal to its toughness. You may search your library and/or graveyard for a card named Vraska, Regal Gorgon, reveal it, and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
 
-#: ../../GRN.rst:1521
-msgid "Impervious Greatwurm"
+#: ../../GRN.rst:1491
+msgid ":mtgtip:`Impervious Greatwurm`"
 msgstr ""
 
-#: ../../GRN.rst:1521
+#: ../../GRN.rst:1491
 msgid "Indestructible"
 msgstr ""
 

@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2013-2018, Dominik Kozaczko & Strefa Gry
+# Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../FRF.rst:5
-msgid "Fate Reforged"
+msgid ":mtgexp:`FRF` Fate Reforged"
 msgstr ""
 
 #: ../../FRF.rst:14
-msgid "Ugin, the Spirit Dragon"
+msgid ":mtgtip:`Ugin, the Spirit Dragon`"
 msgstr ""
 
 #: ../../FRF.rst:9
@@ -37,7 +37,7 @@ msgid "−10: You gain 7 life, draw seven cards, then put up to seven permanent 
 msgstr ""
 
 #: ../../FRF.rst:18
-msgid "Abzan Advantage"
+msgid ":mtgtip:`Abzan Advantage`"
 msgstr ""
 
 #: ../../FRF.rst:17
@@ -45,7 +45,7 @@ msgid "Target player sacrifices an enchantment. Bolster 1. (Choose a creature wi
 msgstr ""
 
 #: ../../FRF.rst:26
-msgid "Abzan Runemark"
+msgid ":mtgtip:`Abzan Runemark`"
 msgstr ""
 
 #: ../../FRF.rst:21
@@ -72,7 +72,7 @@ msgid "Enchanted creature has vigilance as long as you control a black or green 
 msgstr ""
 
 #: ../../FRF.rst:32
-msgid "Abzan Skycaptain"
+msgid ":mtgtip:`Abzan Skycaptain`"
 msgstr ""
 
 #: ../../FRF.rst:29
@@ -96,7 +96,7 @@ msgid "When Abzan Skycaptain dies, bolster 2. (Choose a creature with the least 
 msgstr ""
 
 #: ../../FRF.rst:36
-msgid "Arashin Cleric"
+msgid ":mtgtip:`Arashin Cleric`"
 msgstr ""
 
 #: ../../FRF.rst:35
@@ -104,11 +104,11 @@ msgid "When Arashin Cleric enters the battlefield, you gain 3 life."
 msgstr ""
 
 #: ../../FRF.rst:40
-msgid "Aven Skirmisher"
+msgid ":mtgtip:`Aven Skirmisher`"
 msgstr ""
 
 #: ../../FRF.rst:44
-msgid "Channel Harm"
+msgid ":mtgtip:`Channel Harm`"
 msgstr ""
 
 #: ../../FRF.rst:43
@@ -116,7 +116,7 @@ msgid "Prevent all damage that would be dealt to you and permanents you control 
 msgstr ""
 
 #: ../../FRF.rst:52
-msgid "Citadel Siege"
+msgid ":mtgtip:`Citadel Siege`"
 msgstr ""
 
 #: ../../FRF.rst:47
@@ -132,7 +132,7 @@ msgid "Dragons — At the beginning of combat on each opponent's turn, tap targe
 msgstr ""
 
 #: ../../FRF.rst:60
-msgid "Daghatar the Adamant"
+msgid ":mtgtip:`Daghatar the Adamant`"
 msgstr ""
 
 #: ../../FRF.rst:55
@@ -149,7 +149,7 @@ msgid "|mana_1|\\ |mana_bg|\\ |mana_bg|: Move a +1/+1 counter from target creatu
 msgstr ""
 
 #: ../../FRF.rst:66
-msgid "Dragon Bell Monk"
+msgid ":mtgtip:`Dragon Bell Monk`"
 msgstr ""
 
 #: ../../FRF.rst:65
@@ -164,7 +164,7 @@ msgid "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 
 msgstr ""
 
 #: ../../FRF.rst:70
-msgid "Dragonscale General"
+msgid ":mtgtip:`Dragonscale General`"
 msgstr ""
 
 #: ../../FRF.rst:69
@@ -172,7 +172,7 @@ msgid "At the beginning of your end step, bolster X, where X is the number of ta
 msgstr ""
 
 #: ../../FRF.rst:76
-msgid "Elite Scaleguard"
+msgid ":mtgtip:`Elite Scaleguard`"
 msgstr ""
 
 #: ../../FRF.rst:73
@@ -184,11 +184,11 @@ msgid "Whenever a creature you control with a +1/+1 counter on it attacks, tap t
 msgstr ""
 
 #: ../../FRF.rst:78
-msgid "Great-Horn Krushok"
+msgid ":mtgtip:`Great-Horn Krushok`"
 msgstr ""
 
 #: ../../FRF.rst:84
-msgid "Honor's Reward"
+msgid ":mtgtip:`Honor's Reward`"
 msgstr ""
 
 #: ../../FRF.rst:83
@@ -196,7 +196,7 @@ msgid "You gain 4 life. Bolster 2. (Choose a creature with the least toughness a
 msgstr ""
 
 #: ../../FRF.rst:92
-msgid "Jeskai Barricade"
+msgid ":mtgtip:`Jeskai Barricade`"
 msgstr ""
 
 #: ../../FRF.rst:87
@@ -213,7 +213,7 @@ msgid "When Jeskai Barricade enters the battlefield, you may return another targ
 msgstr ""
 
 #: ../../FRF.rst:98
-msgid "Lightform"
+msgid ":mtgtip:`Lightform`"
 msgstr ""
 
 #: ../../FRF.rst:95
@@ -225,7 +225,7 @@ msgid "Enchanted creature has flying and lifelink."
 msgstr ""
 
 #: ../../FRF.rst:104
-msgid "Lotus-Eye Mystics"
+msgid ":mtgtip:`Lotus-Eye Mystics`"
 msgstr ""
 
 #: ../../FRF.rst:103
@@ -233,7 +233,7 @@ msgid "When Lotus-Eye Mystics enters the battlefield, return target enchantment 
 msgstr ""
 
 #: ../../FRF.rst:108
-msgid "Mardu Woe-Reaper"
+msgid ":mtgtip:`Mardu Woe-Reaper`"
 msgstr ""
 
 #: ../../FRF.rst:107
@@ -241,7 +241,7 @@ msgid "Whenever Mardu Woe-Reaper or another Warrior enters the battlefield under
 msgstr ""
 
 #: ../../FRF.rst:114
-msgid "Mastery of the Unseen"
+msgid ":mtgtip:`Mastery of the Unseen`"
 msgstr ""
 
 #: ../../FRF.rst:111
@@ -253,7 +253,7 @@ msgid "|mana_3|\\ |mana_w|: Manifest the top card of your library. (Put it onto 
 msgstr ""
 
 #: ../../FRF.rst:120
-msgid "Monastery Mentor"
+msgid ":mtgtip:`Monastery Mentor`"
 msgstr ""
 
 #: ../../FRF.rst:119
@@ -261,7 +261,7 @@ msgid "Whenever you cast a noncreature spell, create a 1/1 white Monk creature t
 msgstr ""
 
 #: ../../FRF.rst:126
-msgid "Pressure Point"
+msgid ":mtgtip:`Pressure Point`"
 msgstr ""
 
 #: ../../FRF.rst:123
@@ -275,7 +275,7 @@ msgid "Draw a card."
 msgstr ""
 
 #: ../../FRF.rst:130
-msgid "Rally the Ancestors"
+msgid ":mtgtip:`Rally the Ancestors`"
 msgstr ""
 
 #: ../../FRF.rst:129
@@ -283,7 +283,7 @@ msgid "Return each creature card with converted mana cost X or less from your gr
 msgstr ""
 
 #: ../../FRF.rst:138
-msgid "Sage's Reverie"
+msgid ":mtgtip:`Sage's Reverie`"
 msgstr ""
 
 #: ../../FRF.rst:135
@@ -295,7 +295,7 @@ msgid "Enchanted creature gets +1/+1 for each Aura you control that's attached t
 msgstr ""
 
 #: ../../FRF.rst:142
-msgid "Sandblast"
+msgid ":mtgtip:`Sandblast`"
 msgstr ""
 
 #: ../../FRF.rst:141
@@ -303,7 +303,7 @@ msgid "Sandblast deals 5 damage to target attacking or blocking creature."
 msgstr ""
 
 #: ../../FRF.rst:150
-msgid "Sandsteppe Outcast"
+msgid ":mtgtip:`Sandsteppe Outcast`"
 msgstr ""
 
 #: ../../FRF.rst:145
@@ -319,7 +319,7 @@ msgid "Create a 1/1 white Spirit creature token with flying."
 msgstr ""
 
 #: ../../FRF.rst:154
-msgid "Soul Summons"
+msgid ":mtgtip:`Soul Summons`"
 msgstr ""
 
 #: ../../FRF.rst:153
@@ -327,7 +327,7 @@ msgid "Manifest the top card of your library. (Put it onto the battlefield face 
 msgstr ""
 
 #: ../../FRF.rst:162
-msgid "Soulfire Grand Master"
+msgid ":mtgtip:`Soulfire Grand Master`"
 msgstr ""
 
 #: ../../FRF.rst:157
@@ -343,7 +343,7 @@ msgid "|mana_2|\\ |mana_ur|\\ |mana_ur|: The next time you cast an instant or so
 msgstr ""
 
 #: ../../FRF.rst:170
-msgid "Valorous Stance"
+msgid ":mtgtip:`Valorous Stance`"
 msgstr ""
 
 #: ../../FRF.rst:165
@@ -363,7 +363,7 @@ msgid "Destroy target creature with toughness 4 or greater."
 msgstr ""
 
 #: ../../FRF.rst:174
-msgid "Wandering Champion"
+msgid ":mtgtip:`Wandering Champion`"
 msgstr ""
 
 #: ../../FRF.rst:173
@@ -371,7 +371,7 @@ msgid "Whenever Wandering Champion deals combat damage to a player, if you contr
 msgstr ""
 
 #: ../../FRF.rst:180
-msgid "Wardscale Dragon"
+msgid ":mtgtip:`Wardscale Dragon`"
 msgstr ""
 
 #: ../../FRF.rst:179
@@ -379,7 +379,7 @@ msgid "As long as Wardscale Dragon is attacking, defending player can't cast spe
 msgstr ""
 
 #: ../../FRF.rst:190
-msgid "Aven Surveyor"
+msgid ":mtgtip:`Aven Surveyor`"
 msgstr ""
 
 #: ../../FRF.rst:185
@@ -395,7 +395,7 @@ msgid "Return target creature to its owner's hand."
 msgstr ""
 
 #: ../../FRF.rst:196
-msgid "Cloudform"
+msgid ":mtgtip:`Cloudform`"
 msgstr ""
 
 #: ../../FRF.rst:193
@@ -407,7 +407,7 @@ msgid "Enchanted creature has flying and hexproof."
 msgstr ""
 
 #: ../../FRF.rst:200
-msgid "Enhanced Awareness"
+msgid ":mtgtip:`Enhanced Awareness`"
 msgstr ""
 
 #: ../../FRF.rst:199
@@ -415,7 +415,7 @@ msgid "Draw three cards, then discard a card."
 msgstr ""
 
 #: ../../FRF.rst:208
-msgid "Fascination"
+msgid ":mtgtip:`Fascination`"
 msgstr ""
 
 #: ../../FRF.rst:205
@@ -427,7 +427,7 @@ msgid "Each player puts the top X cards of their library into their graveyard."
 msgstr ""
 
 #: ../../FRF.rst:212
-msgid "Frost Walker"
+msgid ":mtgtip:`Frost Walker`"
 msgstr ""
 
 #: ../../FRF.rst:211
@@ -435,7 +435,7 @@ msgid "When Frost Walker becomes the target of a spell or ability, sacrifice it.
 msgstr ""
 
 #: ../../FRF.rst:218
-msgid "Jeskai Infiltrator"
+msgid ":mtgtip:`Jeskai Infiltrator`"
 msgstr ""
 
 #: ../../FRF.rst:215
@@ -447,7 +447,7 @@ msgid "When Jeskai Infiltrator deals combat damage to a player, exile it and the
 msgstr ""
 
 #: ../../FRF.rst:226
-msgid "Jeskai Runemark"
+msgid ":mtgtip:`Jeskai Runemark`"
 msgstr ""
 
 #: ../../FRF.rst:225
@@ -455,7 +455,7 @@ msgid "Enchanted creature has flying as long as you control a red or white perma
 msgstr ""
 
 #: ../../FRF.rst:232
-msgid "Jeskai Sage"
+msgid ":mtgtip:`Jeskai Sage`"
 msgstr ""
 
 #: ../../FRF.rst:231
@@ -463,11 +463,11 @@ msgid "When Jeskai Sage dies, draw a card."
 msgstr ""
 
 #: ../../FRF.rst:238
-msgid "Lotus Path Djinn"
+msgid ":mtgtip:`Lotus Path Djinn`"
 msgstr ""
 
 #: ../../FRF.rst:244
-msgid "Marang River Prowler"
+msgid ":mtgtip:`Marang River Prowler`"
 msgstr ""
 
 #: ../../FRF.rst:241
@@ -479,7 +479,7 @@ msgid "You may cast Marang River Prowler from your graveyard as long as you cont
 msgstr ""
 
 #: ../../FRF.rst:250
-msgid "Mindscour Dragon"
+msgid ":mtgtip:`Mindscour Dragon`"
 msgstr ""
 
 #: ../../FRF.rst:249
@@ -487,7 +487,7 @@ msgid "Whenever Mindscour Dragon deals combat damage to an opponent, target play
 msgstr ""
 
 #: ../../FRF.rst:256
-msgid "Mistfire Adept"
+msgid ":mtgtip:`Mistfire Adept`"
 msgstr ""
 
 #: ../../FRF.rst:255
@@ -495,7 +495,7 @@ msgid "Whenever you cast a noncreature spell, target creature gains flying until
 msgstr ""
 
 #: ../../FRF.rst:264
-msgid "Monastery Siege"
+msgid ":mtgtip:`Monastery Siege`"
 msgstr ""
 
 #: ../../FRF.rst:259
@@ -511,7 +511,7 @@ msgid "Dragons — Spells your opponents cast that target you or a permanent you
 msgstr ""
 
 #: ../../FRF.rst:268
-msgid "Neutralizing Blast"
+msgid ":mtgtip:`Neutralizing Blast`"
 msgstr ""
 
 #: ../../FRF.rst:267
@@ -519,7 +519,7 @@ msgid "Counter target multicolored spell."
 msgstr ""
 
 #: ../../FRF.rst:272
-msgid "Rakshasa's Disdain"
+msgid ":mtgtip:`Rakshasa's Disdain`"
 msgstr ""
 
 #: ../../FRF.rst:271
@@ -527,7 +527,7 @@ msgid "Counter target spell unless its controller pays |mana_1| for each card in
 msgstr ""
 
 #: ../../FRF.rst:276
-msgid "Reality Shift"
+msgid ":mtgtip:`Reality Shift`"
 msgstr ""
 
 #: ../../FRF.rst:275
@@ -535,7 +535,7 @@ msgid "Exile target creature. Its controller manifests the top card of their lib
 msgstr ""
 
 #: ../../FRF.rst:282
-msgid "Refocus"
+msgid ":mtgtip:`Refocus`"
 msgstr ""
 
 #: ../../FRF.rst:279
@@ -543,7 +543,7 @@ msgid "Untap target creature."
 msgstr ""
 
 #: ../../FRF.rst:288
-msgid "Renowned Weaponsmith"
+msgid ":mtgtip:`Renowned Weaponsmith`"
 msgstr ""
 
 #: ../../FRF.rst:285
@@ -555,7 +555,7 @@ msgid "|mana_u|, |tap|: Search your library for a card named Heart-Piercer Bow o
 msgstr ""
 
 #: ../../FRF.rst:294
-msgid "Rite of Undoing"
+msgid ":mtgtip:`Rite of Undoing`"
 msgstr ""
 
 #: ../../FRF.rst:291
@@ -574,7 +574,7 @@ msgid "Return target nonland permanent you control and target nonland permanent 
 msgstr ""
 
 #: ../../FRF.rst:300
-msgid "Sage-Eye Avengers"
+msgid ":mtgtip:`Sage-Eye Avengers`"
 msgstr ""
 
 #: ../../FRF.rst:299
@@ -582,7 +582,7 @@ msgid "Whenever Sage-Eye Avengers attacks, you may return target creature to its
 msgstr ""
 
 #: ../../FRF.rst:304
-msgid "Shifting Loyalties"
+msgid ":mtgtip:`Shifting Loyalties`"
 msgstr ""
 
 #: ../../FRF.rst:303
@@ -590,7 +590,7 @@ msgid "Exchange control of two target permanents that share a card type. (Artifa
 msgstr ""
 
 #: ../../FRF.rst:310
-msgid "Shu Yun, the Silent Tempest"
+msgid ":mtgtip:`Shu Yun, the Silent Tempest`"
 msgstr ""
 
 #: ../../FRF.rst:309
@@ -598,7 +598,7 @@ msgid "Whenever you cast a noncreature spell, you may pay |mana_rw|\\ |mana_rw|.
 msgstr ""
 
 #: ../../FRF.rst:314
-msgid "Sultai Skullkeeper"
+msgid ":mtgtip:`Sultai Skullkeeper`"
 msgstr ""
 
 #: ../../FRF.rst:313
@@ -606,7 +606,7 @@ msgid "When Sultai Skullkeeper enters the battlefield, put the top two cards of 
 msgstr ""
 
 #: ../../FRF.rst:318
-msgid "Supplant Form"
+msgid ":mtgtip:`Supplant Form`"
 msgstr ""
 
 #: ../../FRF.rst:317
@@ -614,7 +614,7 @@ msgid "Return target creature to its owner's hand. You create a token that's a c
 msgstr ""
 
 #: ../../FRF.rst:324
-msgid "Temporal Trespass"
+msgid ":mtgtip:`Temporal Trespass`"
 msgstr ""
 
 #: ../../FRF.rst:323
@@ -622,7 +622,7 @@ msgid "Take an extra turn after this one. Exile Temporal Trespass."
 msgstr ""
 
 #: ../../FRF.rst:332
-msgid "Torrent Elemental"
+msgid ":mtgtip:`Torrent Elemental`"
 msgstr ""
 
 #: ../../FRF.rst:329
@@ -634,7 +634,7 @@ msgid "|mana_3|\\ |mana_bg|\\ |mana_bg|: Put Torrent Elemental from exile onto t
 msgstr ""
 
 #: ../../FRF.rst:336
-msgid "Whisk Away"
+msgid ":mtgtip:`Whisk Away`"
 msgstr ""
 
 #: ../../FRF.rst:335
@@ -642,7 +642,7 @@ msgid "Put target attacking or blocking creature on top of its owner's library."
 msgstr ""
 
 #: ../../FRF.rst:342
-msgid "Will of the Naga"
+msgid ":mtgtip:`Will of the Naga`"
 msgstr ""
 
 #: ../../FRF.rst:341
@@ -650,7 +650,7 @@ msgid "Tap up to two target creatures. Those creatures don't untap during their 
 msgstr ""
 
 #: ../../FRF.rst:346
-msgid "Write into Being"
+msgid ":mtgtip:`Write into Being`"
 msgstr ""
 
 #: ../../FRF.rst:345
@@ -658,7 +658,7 @@ msgid "Look at the top two cards of your library. Manifest one of those cards, t
 msgstr ""
 
 #: ../../FRF.rst:350
-msgid "Alesha's Vanguard"
+msgid ":mtgtip:`Alesha's Vanguard`"
 msgstr ""
 
 #: ../../FRF.rst:349
@@ -666,7 +666,7 @@ msgid "Dash |mana_2|\\ |mana_b| (You may cast this spell for its dash cost. If y
 msgstr ""
 
 #: ../../FRF.rst:358
-msgid "Ancestral Vengeance"
+msgid ":mtgtip:`Ancestral Vengeance`"
 msgstr ""
 
 #: ../../FRF.rst:355
@@ -678,7 +678,7 @@ msgid "Enchanted creature gets -1/-1."
 msgstr ""
 
 #: ../../FRF.rst:364
-msgid "Archfiend of Depravity"
+msgid ":mtgtip:`Archfiend of Depravity`"
 msgstr ""
 
 #: ../../FRF.rst:363
@@ -686,7 +686,7 @@ msgid "At the beginning of each opponent's end step, that player chooses up to t
 msgstr ""
 
 #: ../../FRF.rst:368
-msgid "Battle Brawler"
+msgid ":mtgtip:`Battle Brawler`"
 msgstr ""
 
 #: ../../FRF.rst:367
@@ -694,7 +694,7 @@ msgid "As long as you control a red or white permanent, Battle Brawler gets +1/+
 msgstr ""
 
 #: ../../FRF.rst:374
-msgid "Brutal Hordechief"
+msgid ":mtgtip:`Brutal Hordechief`"
 msgstr ""
 
 #: ../../FRF.rst:371
@@ -706,7 +706,7 @@ msgid "|mana_3|\\ |mana_rw|\\ |mana_rw|: Creatures your opponents control block 
 msgstr ""
 
 #: ../../FRF.rst:382
-msgid "Crux of Fate"
+msgid ":mtgtip:`Crux of Fate`"
 msgstr ""
 
 #: ../../FRF.rst:379
@@ -718,7 +718,7 @@ msgid "Destroy all non-Dragon creatures."
 msgstr ""
 
 #: ../../FRF.rst:386
-msgid "Dark Deal"
+msgid ":mtgtip:`Dark Deal`"
 msgstr ""
 
 #: ../../FRF.rst:385
@@ -726,7 +726,7 @@ msgid "Each player discards all the cards in their hand, then draws that many ca
 msgstr ""
 
 #: ../../FRF.rst:390
-msgid "Diplomacy of the Wastes"
+msgid ":mtgtip:`Diplomacy of the Wastes`"
 msgstr ""
 
 #: ../../FRF.rst:389
@@ -734,7 +734,7 @@ msgid "Target opponent reveals their hand. You choose a nonland card from it. Th
 msgstr ""
 
 #: ../../FRF.rst:394
-msgid "Douse in Gloom"
+msgid ":mtgtip:`Douse in Gloom`"
 msgstr ""
 
 #: ../../FRF.rst:393
@@ -742,7 +742,7 @@ msgid "Douse in Gloom deals 2 damage to target creature and you gain 2 life."
 msgstr ""
 
 #: ../../FRF.rst:398
-msgid "Fearsome Awakening"
+msgid ":mtgtip:`Fearsome Awakening`"
 msgstr ""
 
 #: ../../FRF.rst:397
@@ -750,7 +750,7 @@ msgid "Return target creature card from your graveyard to the battlefield. If it
 msgstr ""
 
 #: ../../FRF.rst:402
-msgid "Ghastly Conscription"
+msgid ":mtgtip:`Ghastly Conscription`"
 msgstr ""
 
 #: ../../FRF.rst:401
@@ -758,7 +758,7 @@ msgid "Exile all creature cards from target player's graveyard in a face-down pi
 msgstr ""
 
 #: ../../FRF.rst:406
-msgid "Grave Strength"
+msgid ":mtgtip:`Grave Strength`"
 msgstr ""
 
 #: ../../FRF.rst:405
@@ -766,11 +766,11 @@ msgid "Choose target creature. Put the top three cards of your library into your
 msgstr ""
 
 #: ../../FRF.rst:410
-msgid "Gurmag Angler"
+msgid ":mtgtip:`Gurmag Angler`"
 msgstr ""
 
 #: ../../FRF.rst:418
-msgid "Hooded Assassin"
+msgid ":mtgtip:`Hooded Assassin`"
 msgstr ""
 
 #: ../../FRF.rst:413
@@ -786,7 +786,7 @@ msgid "Destroy target creature that was dealt damage this turn."
 msgstr ""
 
 #: ../../FRF.rst:424
-msgid "Mardu Shadowspear"
+msgid ":mtgtip:`Mardu Shadowspear`"
 msgstr ""
 
 #: ../../FRF.rst:421
@@ -798,7 +798,7 @@ msgid "Dash |mana_1|\\ |mana_b| (You may cast this spell for its dash cost. If y
 msgstr ""
 
 #: ../../FRF.rst:430
-msgid "Mardu Strike Leader"
+msgid ":mtgtip:`Mardu Strike Leader`"
 msgstr ""
 
 #: ../../FRF.rst:427
@@ -810,7 +810,7 @@ msgid "Dash |mana_3|\\ |mana_b| (You may cast this spell for its dash cost. If y
 msgstr ""
 
 #: ../../FRF.rst:434
-msgid "Merciless Executioner"
+msgid ":mtgtip:`Merciless Executioner`"
 msgstr ""
 
 #: ../../FRF.rst:433
@@ -818,7 +818,7 @@ msgid "When Merciless Executioner enters the battlefield, each player sacrifices
 msgstr ""
 
 #: ../../FRF.rst:440
-msgid "Noxious Dragon"
+msgid ":mtgtip:`Noxious Dragon`"
 msgstr ""
 
 #: ../../FRF.rst:439
@@ -826,7 +826,7 @@ msgid "When Noxious Dragon dies, you may destroy target creature with converted 
 msgstr ""
 
 #: ../../FRF.rst:444
-msgid "Orc Sureshot"
+msgid ":mtgtip:`Orc Sureshot`"
 msgstr ""
 
 #: ../../FRF.rst:443
@@ -834,7 +834,7 @@ msgid "Whenever another creature enters the battlefield under your control, targ
 msgstr ""
 
 #: ../../FRF.rst:452
-msgid "Palace Siege"
+msgid ":mtgtip:`Palace Siege`"
 msgstr ""
 
 #: ../../FRF.rst:447
@@ -850,7 +850,7 @@ msgid "Dragons — At the beginning of your upkeep, each opponent loses 2 life a
 msgstr ""
 
 #: ../../FRF.rst:456
-msgid "Qarsi High Priest"
+msgid ":mtgtip:`Qarsi High Priest`"
 msgstr ""
 
 #: ../../FRF.rst:455
@@ -858,7 +858,7 @@ msgid "|mana_1|\\ |mana_b|, |tap|, Sacrifice another creature: Manifest the top 
 msgstr ""
 
 #: ../../FRF.rst:460
-msgid "Reach of Shadows"
+msgid ":mtgtip:`Reach of Shadows`"
 msgstr ""
 
 #: ../../FRF.rst:459
@@ -866,7 +866,7 @@ msgid "Destroy target creature that's one or more colors."
 msgstr ""
 
 #: ../../FRF.rst:464
-msgid "Sibsig Host"
+msgid ":mtgtip:`Sibsig Host`"
 msgstr ""
 
 #: ../../FRF.rst:463
@@ -874,7 +874,7 @@ msgid "When Sibsig Host enters the battlefield, each player puts the top three c
 msgstr ""
 
 #: ../../FRF.rst:470
-msgid "Sibsig Muckdraggers"
+msgid ":mtgtip:`Sibsig Muckdraggers`"
 msgstr ""
 
 #: ../../FRF.rst:469
@@ -882,7 +882,7 @@ msgid "When Sibsig Muckdraggers enters the battlefield, return target creature c
 msgstr ""
 
 #: ../../FRF.rst:476
-msgid "Soulflayer"
+msgid ":mtgtip:`Soulflayer`"
 msgstr ""
 
 #: ../../FRF.rst:475
@@ -890,7 +890,7 @@ msgid "If a creature card with flying was exiled with Soulflayer's delve ability
 msgstr ""
 
 #: ../../FRF.rst:480
-msgid "Sultai Emissary"
+msgid ":mtgtip:`Sultai Emissary`"
 msgstr ""
 
 #: ../../FRF.rst:479
@@ -898,7 +898,7 @@ msgid "When Sultai Emissary dies, manifest the top card of your library. (Put th
 msgstr ""
 
 #: ../../FRF.rst:488
-msgid "Sultai Runemark"
+msgid ":mtgtip:`Sultai Runemark`"
 msgstr ""
 
 #: ../../FRF.rst:487
@@ -906,7 +906,7 @@ msgid "Enchanted creature has deathtouch as long as you control a green or blue 
 msgstr ""
 
 #: ../../FRF.rst:494
-msgid "Tasigur, the Golden Fang"
+msgid ":mtgtip:`Tasigur, the Golden Fang`"
 msgstr ""
 
 #: ../../FRF.rst:493
@@ -914,7 +914,7 @@ msgid "|mana_2|\\ |mana_gu|\\ |mana_gu|: Put the top two cards of your library i
 msgstr ""
 
 #: ../../FRF.rst:500
-msgid "Tasigur's Cruelty"
+msgid ":mtgtip:`Tasigur's Cruelty`"
 msgstr ""
 
 #: ../../FRF.rst:499
@@ -922,7 +922,7 @@ msgid "Each opponent discards two cards."
 msgstr ""
 
 #: ../../FRF.rst:504
-msgid "Typhoid Rats"
+msgid ":mtgtip:`Typhoid Rats`"
 msgstr ""
 
 #: ../../FRF.rst:503
@@ -930,7 +930,7 @@ msgid "Deathtouch (Any amount of damage this deals to a creature is enough to de
 msgstr ""
 
 #: ../../FRF.rst:510
-msgid "Alesha, Who Smiles at Death"
+msgid ":mtgtip:`Alesha, Who Smiles at Death`"
 msgstr ""
 
 #: ../../FRF.rst:507
@@ -942,7 +942,7 @@ msgid "Whenever Alesha, Who Smiles at Death attacks, you may pay |mana_wb|\\ |ma
 msgstr ""
 
 #: ../../FRF.rst:514
-msgid "Arcbond"
+msgid ":mtgtip:`Arcbond`"
 msgstr ""
 
 #: ../../FRF.rst:513
@@ -950,7 +950,7 @@ msgid "Choose target creature. Whenever that creature is dealt damage this turn,
 msgstr ""
 
 #: ../../FRF.rst:518
-msgid "Bathe in Dragonfire"
+msgid ":mtgtip:`Bathe in Dragonfire`"
 msgstr ""
 
 #: ../../FRF.rst:517
@@ -958,7 +958,7 @@ msgid "Bathe in Dragonfire deals 4 damage to target creature."
 msgstr ""
 
 #: ../../FRF.rst:522
-msgid "Bloodfire Enforcers"
+msgid ":mtgtip:`Bloodfire Enforcers`"
 msgstr ""
 
 #: ../../FRF.rst:521
@@ -966,7 +966,7 @@ msgid "Bloodfire Enforcers has first strike and trample as long as an instant ca
 msgstr ""
 
 #: ../../FRF.rst:526
-msgid "Break Through the Line"
+msgid ":mtgtip:`Break Through the Line`"
 msgstr ""
 
 #: ../../FRF.rst:525
@@ -974,7 +974,7 @@ msgid "|mana_r|: Target creature with power 2 or less gains haste until end of t
 msgstr ""
 
 #: ../../FRF.rst:532
-msgid "Collateral Damage"
+msgid ":mtgtip:`Collateral Damage`"
 msgstr ""
 
 #: ../../FRF.rst:529
@@ -986,7 +986,7 @@ msgid "Collateral Damage deals 3 damage to any target."
 msgstr ""
 
 #: ../../FRF.rst:540
-msgid "Defiant Ogre"
+msgid ":mtgtip:`Defiant Ogre`"
 msgstr ""
 
 #: ../../FRF.rst:535
@@ -1002,7 +1002,7 @@ msgid "Destroy target artifact."
 msgstr ""
 
 #: ../../FRF.rst:544
-msgid "Dragonrage"
+msgid ":mtgtip:`Dragonrage`"
 msgstr ""
 
 #: ../../FRF.rst:543
@@ -1010,7 +1010,7 @@ msgid "Add |mana_r| for each attacking creature you control. Until end of turn, 
 msgstr ""
 
 #: ../../FRF.rst:548
-msgid "Fierce Invocation"
+msgid ":mtgtip:`Fierce Invocation`"
 msgstr ""
 
 #: ../../FRF.rst:547
@@ -1018,7 +1018,7 @@ msgid "Manifest the top card of your library, then put two +1/+1 counters on it.
 msgstr ""
 
 #: ../../FRF.rst:554
-msgid "Flamerush Rider"
+msgid ":mtgtip:`Flamerush Rider`"
 msgstr ""
 
 #: ../../FRF.rst:551
@@ -1030,7 +1030,7 @@ msgid "Dash |mana_2|\\ |mana_r|\\ |mana_r| (You may cast this spell for its dash
 msgstr ""
 
 #: ../../FRF.rst:562
-msgid "Flamewake Phoenix"
+msgid ":mtgtip:`Flamewake Phoenix`"
 msgstr ""
 
 #: ../../FRF.rst:557
@@ -1046,7 +1046,7 @@ msgid "Ferocious — At the beginning of combat on your turn, if you control a c
 msgstr ""
 
 #: ../../FRF.rst:566
-msgid "Friendly Fire"
+msgid ":mtgtip:`Friendly Fire`"
 msgstr ""
 
 #: ../../FRF.rst:565
@@ -1054,7 +1054,7 @@ msgid "Target creature's controller reveals a card at random from their hand. Fr
 msgstr ""
 
 #: ../../FRF.rst:572
-msgid "Goblin Heelcutter"
+msgid ":mtgtip:`Goblin Heelcutter`"
 msgstr ""
 
 #: ../../FRF.rst:569
@@ -1067,11 +1067,11 @@ msgid "Dash |mana_2|\\ |mana_r| (You may cast this spell for its dash cost. If y
 msgstr ""
 
 #: ../../FRF.rst:574
-msgid "Gore Swine"
+msgid ":mtgtip:`Gore Swine`"
 msgstr ""
 
 #: ../../FRF.rst:580
-msgid "Humble Defector"
+msgid ":mtgtip:`Humble Defector`"
 msgstr ""
 
 #: ../../FRF.rst:579
@@ -1079,7 +1079,7 @@ msgid "|tap|: Draw two cards. Target opponent gains control of Humble Defector. 
 msgstr ""
 
 #: ../../FRF.rst:584
-msgid "Hungering Yeti"
+msgid ":mtgtip:`Hungering Yeti`"
 msgstr ""
 
 #: ../../FRF.rst:583
@@ -1087,7 +1087,7 @@ msgid "As long as you control a green or blue permanent, you may cast Hungering 
 msgstr ""
 
 #: ../../FRF.rst:590
-msgid "Lightning Shrieker"
+msgid ":mtgtip:`Lightning Shrieker`"
 msgstr ""
 
 #: ../../FRF.rst:587
@@ -1099,7 +1099,7 @@ msgid "At the beginning of the end step, Lightning Shrieker's owner shuffles it 
 msgstr ""
 
 #: ../../FRF.rst:598
-msgid "Mardu Runemark"
+msgid ":mtgtip:`Mardu Runemark`"
 msgstr ""
 
 #: ../../FRF.rst:597
@@ -1107,7 +1107,7 @@ msgid "Enchanted creature has first strike as long as you control a white or bla
 msgstr ""
 
 #: ../../FRF.rst:602
-msgid "Mardu Scout"
+msgid ":mtgtip:`Mardu Scout`"
 msgstr ""
 
 #: ../../FRF.rst:601
@@ -1115,7 +1115,7 @@ msgid "Dash |mana_1|\\ |mana_r| (You may cast this spell for its dash cost. If y
 msgstr ""
 
 #: ../../FRF.rst:610
-msgid "Mob Rule"
+msgid ":mtgtip:`Mob Rule`"
 msgstr ""
 
 #: ../../FRF.rst:607
@@ -1127,7 +1127,7 @@ msgid "Gain control of all creatures with power 3 or less until end of turn. Unt
 msgstr ""
 
 #: ../../FRF.rst:618
-msgid "Outpost Siege"
+msgid ":mtgtip:`Outpost Siege`"
 msgstr ""
 
 #: ../../FRF.rst:613
@@ -1143,7 +1143,7 @@ msgid "Dragons — Whenever a creature you control leaves the battlefield, Outpo
 msgstr ""
 
 #: ../../FRF.rst:622
-msgid "Pyrotechnics"
+msgid ":mtgtip:`Pyrotechnics`"
 msgstr ""
 
 #: ../../FRF.rst:621
@@ -1151,7 +1151,7 @@ msgid "Pyrotechnics deals 4 damage divided as you choose among any number of tar
 msgstr ""
 
 #: ../../FRF.rst:628
-msgid "Rageform"
+msgid ":mtgtip:`Rageform`"
 msgstr ""
 
 #: ../../FRF.rst:625
@@ -1163,7 +1163,7 @@ msgid "Enchanted creature has double strike. (It deals both first-strike and reg
 msgstr ""
 
 #: ../../FRF.rst:636
-msgid "Shaman of the Great Hunt"
+msgid ":mtgtip:`Shaman of the Great Hunt`"
 msgstr ""
 
 #: ../../FRF.rst:631
@@ -1179,7 +1179,7 @@ msgid "Ferocious — |mana_2|\\ |mana_gu|\\ |mana_gu|: Draw a card for each crea
 msgstr ""
 
 #: ../../FRF.rst:642
-msgid "Shockmaw Dragon"
+msgid ":mtgtip:`Shockmaw Dragon`"
 msgstr ""
 
 #: ../../FRF.rst:641
@@ -1187,7 +1187,7 @@ msgid "Whenever Shockmaw Dragon deals combat damage to a player, it deals 1 dama
 msgstr ""
 
 #: ../../FRF.rst:646
-msgid "Smoldering Efreet"
+msgid ":mtgtip:`Smoldering Efreet`"
 msgstr ""
 
 #: ../../FRF.rst:645
@@ -1195,7 +1195,7 @@ msgid "When Smoldering Efreet dies, it deals 2 damage to you."
 msgstr ""
 
 #: ../../FRF.rst:652
-msgid "Temur Battle Rage"
+msgid ":mtgtip:`Temur Battle Rage`"
 msgstr ""
 
 #: ../../FRF.rst:649
@@ -1207,7 +1207,7 @@ msgid "Ferocious — That creature also gains trample until end of turn if you c
 msgstr ""
 
 #: ../../FRF.rst:658
-msgid "Vaultbreaker"
+msgid ":mtgtip:`Vaultbreaker`"
 msgstr ""
 
 #: ../../FRF.rst:655
@@ -1215,7 +1215,7 @@ msgid "Whenever Vaultbreaker attacks, you may discard a card. If you do, draw a 
 msgstr ""
 
 #: ../../FRF.rst:664
-msgid "Wild Slash"
+msgid ":mtgtip:`Wild Slash`"
 msgstr ""
 
 #: ../../FRF.rst:661
@@ -1227,7 +1227,7 @@ msgid "Wild Slash deals 2 damage to any target."
 msgstr ""
 
 #: ../../FRF.rst:668
-msgid "Abzan Beastmaster"
+msgid ":mtgtip:`Abzan Beastmaster`"
 msgstr ""
 
 #: ../../FRF.rst:667
@@ -1235,7 +1235,7 @@ msgid "At the beginning of your upkeep, draw a card if you control the creature 
 msgstr ""
 
 #: ../../FRF.rst:672
-msgid "Abzan Kin-Guard"
+msgid ":mtgtip:`Abzan Kin-Guard`"
 msgstr ""
 
 #: ../../FRF.rst:671
@@ -1243,7 +1243,7 @@ msgid "Abzan Kin-Guard has lifelink as long as you control a white or black perm
 msgstr ""
 
 #: ../../FRF.rst:680
-msgid "Ainok Guide"
+msgid ":mtgtip:`Ainok Guide`"
 msgstr ""
 
 #: ../../FRF.rst:675
@@ -1259,7 +1259,7 @@ msgid "Search your library for a basic land card, reveal it, then shuffle your l
 msgstr ""
 
 #: ../../FRF.rst:686
-msgid "Ambush Krotiq"
+msgid ":mtgtip:`Ambush Krotiq`"
 msgstr ""
 
 #: ../../FRF.rst:683
@@ -1272,7 +1272,7 @@ msgid "When Ambush Krotiq enters the battlefield, return another creature you co
 msgstr ""
 
 #: ../../FRF.rst:690
-msgid "Arashin War Beast"
+msgid ":mtgtip:`Arashin War Beast`"
 msgstr ""
 
 #: ../../FRF.rst:689
@@ -1280,7 +1280,7 @@ msgid "Whenever Arashin War Beast deals combat damage to one or more blocking cr
 msgstr ""
 
 #: ../../FRF.rst:696
-msgid "Archers of Qarsi"
+msgid ":mtgtip:`Archers of Qarsi`"
 msgstr ""
 
 #: ../../FRF.rst:695
@@ -1288,7 +1288,7 @@ msgid "Reach (This creature can block creatures with flying.)"
 msgstr ""
 
 #: ../../FRF.rst:702
-msgid "Battlefront Krushok"
+msgid ":mtgtip:`Battlefront Krushok`"
 msgstr ""
 
 #: ../../FRF.rst:699
@@ -1300,7 +1300,7 @@ msgid "Each creature you control with a +1/+1 counter on it can't be blocked by 
 msgstr ""
 
 #: ../../FRF.rst:706
-msgid "Cached Defenses"
+msgid ":mtgtip:`Cached Defenses`"
 msgstr ""
 
 #: ../../FRF.rst:705
@@ -1308,7 +1308,7 @@ msgid "Bolster 3. (Choose a creature with the least toughness among creatures yo
 msgstr ""
 
 #: ../../FRF.rst:712
-msgid "Destructor Dragon"
+msgid ":mtgtip:`Destructor Dragon`"
 msgstr ""
 
 #: ../../FRF.rst:711
@@ -1316,11 +1316,11 @@ msgid "When Destructor Dragon dies, destroy target noncreature permanent."
 msgstr ""
 
 #: ../../FRF.rst:714
-msgid "Feral Krushok"
+msgid ":mtgtip:`Feral Krushok`"
 msgstr ""
 
 #: ../../FRF.rst:720
-msgid "Formless Nurturing"
+msgid ":mtgtip:`Formless Nurturing`"
 msgstr ""
 
 #: ../../FRF.rst:719
@@ -1328,7 +1328,7 @@ msgid "Manifest the top card of your library, then put a +1/+1 counter on it. (T
 msgstr ""
 
 #: ../../FRF.rst:724
-msgid "Frontier Mastodon"
+msgid ":mtgtip:`Frontier Mastodon`"
 msgstr ""
 
 #: ../../FRF.rst:723
@@ -1336,7 +1336,7 @@ msgid "Ferocious — Frontier Mastodon enters the battlefield with a +1/+1 count
 msgstr ""
 
 #: ../../FRF.rst:732
-msgid "Frontier Siege"
+msgid ":mtgtip:`Frontier Siege`"
 msgstr ""
 
 #: ../../FRF.rst:727
@@ -1352,7 +1352,7 @@ msgid "Dragons — Whenever a creature with flying enters the battlefield under 
 msgstr ""
 
 #: ../../FRF.rst:738
-msgid "Fruit of the First Tree"
+msgid ":mtgtip:`Fruit of the First Tree`"
 msgstr ""
 
 #: ../../FRF.rst:737
@@ -1360,7 +1360,7 @@ msgid "When enchanted creature dies, you gain X life and draw X cards, where X i
 msgstr ""
 
 #: ../../FRF.rst:742
-msgid "Hunt the Weak"
+msgid ":mtgtip:`Hunt the Weak`"
 msgstr ""
 
 #: ../../FRF.rst:741
@@ -1368,7 +1368,7 @@ msgid "Put a +1/+1 counter on target creature you control. Then that creature fi
 msgstr ""
 
 #: ../../FRF.rst:746
-msgid "Map the Wastes"
+msgid ":mtgtip:`Map the Wastes`"
 msgstr ""
 
 #: ../../FRF.rst:745
@@ -1376,7 +1376,7 @@ msgid "Search your library for a basic land card, put it onto the battlefield ta
 msgstr ""
 
 #: ../../FRF.rst:750
-msgid "Return to the Earth"
+msgid ":mtgtip:`Return to the Earth`"
 msgstr ""
 
 #: ../../FRF.rst:749
@@ -1384,7 +1384,7 @@ msgid "Destroy target artifact, enchantment, or creature with flying."
 msgstr ""
 
 #: ../../FRF.rst:758
-msgid "Ruthless Instincts"
+msgid ":mtgtip:`Ruthless Instincts`"
 msgstr ""
 
 #: ../../FRF.rst:755
@@ -1396,7 +1396,7 @@ msgid "Target attacking creature gets +2/+2 and gains trample until end of turn.
 msgstr ""
 
 #: ../../FRF.rst:764
-msgid "Sandsteppe Mastodon"
+msgid ":mtgtip:`Sandsteppe Mastodon`"
 msgstr ""
 
 #: ../../FRF.rst:761
@@ -1408,7 +1408,7 @@ msgid "When Sandsteppe Mastodon enters the battlefield, bolster 5. (Choose a cre
 msgstr ""
 
 #: ../../FRF.rst:770
-msgid "Shamanic Revelation"
+msgid ":mtgtip:`Shamanic Revelation`"
 msgstr ""
 
 #: ../../FRF.rst:767
@@ -1420,7 +1420,7 @@ msgid "Ferocious — You gain 4 life for each creature you control with power 4 
 msgstr ""
 
 #: ../../FRF.rst:774
-msgid "Sudden Reclamation"
+msgid ":mtgtip:`Sudden Reclamation`"
 msgstr ""
 
 #: ../../FRF.rst:773
@@ -1428,7 +1428,7 @@ msgid "Put the top four cards of your library into your graveyard, then return a
 msgstr ""
 
 #: ../../FRF.rst:782
-msgid "Temur Runemark"
+msgid ":mtgtip:`Temur Runemark`"
 msgstr ""
 
 #: ../../FRF.rst:781
@@ -1436,7 +1436,7 @@ msgid "Enchanted creature has trample as long as you control a blue or red perma
 msgstr ""
 
 #: ../../FRF.rst:786
-msgid "Temur Sabertooth"
+msgid ":mtgtip:`Temur Sabertooth`"
 msgstr ""
 
 #: ../../FRF.rst:785
@@ -1444,7 +1444,7 @@ msgid "|mana_1|\\ |mana_g|: You may return another creature you control to its o
 msgstr ""
 
 #: ../../FRF.rst:792
-msgid "Temur War Shaman"
+msgid ":mtgtip:`Temur War Shaman`"
 msgstr ""
 
 #: ../../FRF.rst:789
@@ -1456,7 +1456,7 @@ msgid "Whenever a permanent you control is turned face up, if it's a creature, y
 msgstr ""
 
 #: ../../FRF.rst:800
-msgid "Warden of the First Tree"
+msgid ":mtgtip:`Warden of the First Tree`"
 msgstr ""
 
 #: ../../FRF.rst:795
@@ -1472,7 +1472,7 @@ msgid "|mana_3|\\ |mana_wb|\\ |mana_wb|\\ |mana_wb|: If Warden of the First Tree
 msgstr ""
 
 #: ../../FRF.rst:806
-msgid "Whisperer of the Wilds"
+msgid ":mtgtip:`Whisperer of the Wilds`"
 msgstr ""
 
 #: ../../FRF.rst:803
@@ -1484,7 +1484,7 @@ msgid "Ferocious — |tap|: Add |mana_g|\\ |mana_g|. Activate this ability only 
 msgstr ""
 
 #: ../../FRF.rst:812
-msgid "Whisperwood Elemental"
+msgid ":mtgtip:`Whisperwood Elemental`"
 msgstr ""
 
 #: ../../FRF.rst:809
@@ -1496,7 +1496,7 @@ msgid "Sacrifice Whisperwood Elemental: Until end of turn, face-up nontoken crea
 msgstr ""
 
 #: ../../FRF.rst:816
-msgid "Wildcall"
+msgid ":mtgtip:`Wildcall`"
 msgstr ""
 
 #: ../../FRF.rst:815
@@ -1504,7 +1504,7 @@ msgid "Manifest the top card of your library, then put X +1/+1 counters on it. (
 msgstr ""
 
 #: ../../FRF.rst:822
-msgid "Winds of Qal Sisma"
+msgid ":mtgtip:`Winds of Qal Sisma`"
 msgstr ""
 
 #: ../../FRF.rst:819
@@ -1516,7 +1516,7 @@ msgid "Ferocious — If you control a creature with power 4 or greater, instead 
 msgstr ""
 
 #: ../../FRF.rst:828
-msgid "Yasova Dragonclaw"
+msgid ":mtgtip:`Yasova Dragonclaw`"
 msgstr ""
 
 #: ../../FRF.rst:827
@@ -1524,7 +1524,7 @@ msgid "At the beginning of combat on your turn, you may pay |mana_1|\\ |mana_ur|
 msgstr ""
 
 #: ../../FRF.rst:834
-msgid "Atarka, World Render"
+msgid ":mtgtip:`Atarka, World Render`"
 msgstr ""
 
 #: ../../FRF.rst:831
@@ -1536,7 +1536,7 @@ msgid "Whenever a Dragon you control attacks, it gains double strike until end o
 msgstr ""
 
 #: ../../FRF.rst:840
-msgid "Cunning Strike"
+msgid ":mtgtip:`Cunning Strike`"
 msgstr ""
 
 #: ../../FRF.rst:837
@@ -1544,7 +1544,7 @@ msgid "Cunning Strike deals 2 damage to target creature and 2 damage to target p
 msgstr ""
 
 #: ../../FRF.rst:846
-msgid "Dromoka, the Eternal"
+msgid ":mtgtip:`Dromoka, the Eternal`"
 msgstr ""
 
 #: ../../FRF.rst:845
@@ -1552,7 +1552,7 @@ msgid "Whenever a Dragon you control attacks, bolster 2. (Choose a creature with
 msgstr ""
 
 #: ../../FRF.rst:850
-msgid "Ethereal Ambush"
+msgid ":mtgtip:`Ethereal Ambush`"
 msgstr ""
 
 #: ../../FRF.rst:849
@@ -1560,7 +1560,7 @@ msgid "Manifest the top two cards of your library. (To manifest a card, put it o
 msgstr ""
 
 #: ../../FRF.rst:854
-msgid "Grim Contest"
+msgid ":mtgtip:`Grim Contest`"
 msgstr ""
 
 #: ../../FRF.rst:853
@@ -1568,7 +1568,7 @@ msgid "Choose target creature you control and target creature an opponent contro
 msgstr ""
 
 #: ../../FRF.rst:858
-msgid "Harsh Sustenance"
+msgid ":mtgtip:`Harsh Sustenance`"
 msgstr ""
 
 #: ../../FRF.rst:857
@@ -1576,7 +1576,7 @@ msgid "Harsh Sustenance deals X damage to any target and you gain X life, where 
 msgstr ""
 
 #: ../../FRF.rst:866
-msgid "Kolaghan, the Storm's Fury"
+msgid ":mtgtip:`Kolaghan, the Storm's Fury`"
 msgstr ""
 
 #: ../../FRF.rst:863
@@ -1588,7 +1588,7 @@ msgid "Dash |mana_3|\\ |mana_b|\\ |mana_r| (You may cast this spell for its dash
 msgstr ""
 
 #: ../../FRF.rst:872
-msgid "Ojutai, Soul of Winter"
+msgid ":mtgtip:`Ojutai, Soul of Winter`"
 msgstr ""
 
 #: ../../FRF.rst:869
@@ -1600,7 +1600,7 @@ msgid "Whenever a Dragon you control attacks, tap target nonland permanent an op
 msgstr ""
 
 #: ../../FRF.rst:878
-msgid "Silumgar, the Drifting Death"
+msgid ":mtgtip:`Silumgar, the Drifting Death`"
 msgstr ""
 
 #: ../../FRF.rst:875
@@ -1612,7 +1612,7 @@ msgid "Whenever a Dragon you control attacks, creatures defending player control
 msgstr ""
 
 #: ../../FRF.rst:882
-msgid "War Flare"
+msgid ":mtgtip:`War Flare`"
 msgstr ""
 
 #: ../../FRF.rst:881
@@ -1620,7 +1620,7 @@ msgid "Creatures you control get +2/+1 until end of turn. Untap those creatures.
 msgstr ""
 
 #: ../../FRF.rst:888
-msgid "Goblin Boom Keg"
+msgid ":mtgtip:`Goblin Boom Keg`"
 msgstr ""
 
 #: ../../FRF.rst:885
@@ -1632,7 +1632,7 @@ msgid "When Goblin Boom Keg is put into a graveyard from the battlefield, it dea
 msgstr ""
 
 #: ../../FRF.rst:896
-msgid "Hero's Blade"
+msgid ":mtgtip:`Hero's Blade`"
 msgstr ""
 
 #: ../../FRF.rst:891
@@ -1648,7 +1648,7 @@ msgid "Equip |mana_4|"
 msgstr ""
 
 #: ../../FRF.rst:900
-msgid "Hewed Stone Retainers"
+msgid ":mtgtip:`Hewed Stone Retainers`"
 msgstr ""
 
 #: ../../FRF.rst:899
@@ -1656,7 +1656,7 @@ msgid "Cast this spell only if you've cast another spell this turn."
 msgstr ""
 
 #: ../../FRF.rst:904
-msgid "Pilgrim of the Fires"
+msgid ":mtgtip:`Pilgrim of the Fires`"
 msgstr ""
 
 #: ../../FRF.rst:903
@@ -1664,7 +1664,7 @@ msgid "First strike, trample"
 msgstr ""
 
 #: ../../FRF.rst:910
-msgid "Scroll of the Masters"
+msgid ":mtgtip:`Scroll of the Masters`"
 msgstr ""
 
 #: ../../FRF.rst:907
@@ -1676,7 +1676,7 @@ msgid "|mana_3|, |tap|: Target creature you control gets +1/+1 until end of turn
 msgstr ""
 
 #: ../../FRF.rst:914
-msgid "Ugin's Construct"
+msgid ":mtgtip:`Ugin's Construct`"
 msgstr ""
 
 #: ../../FRF.rst:913
@@ -1684,7 +1684,7 @@ msgid "When Ugin's Construct enters the battlefield, sacrifice a permanent that'
 msgstr ""
 
 #: ../../FRF.rst:922
-msgid "Bloodfell Caves"
+msgid ":mtgtip:`Bloodfell Caves`"
 msgstr ""
 
 #: ../../FRF.rst:917
@@ -1700,7 +1700,7 @@ msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
 #: ../../FRF.rst:930
-msgid "Blossoming Sands"
+msgid ":mtgtip:`Blossoming Sands`"
 msgstr ""
 
 #: ../../FRF.rst:925
@@ -1716,7 +1716,7 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
 #: ../../FRF.rst:938
-msgid "Crucible of the Spirit Dragon"
+msgid ":mtgtip:`Crucible of the Spirit Dragon`"
 msgstr ""
 
 #: ../../FRF.rst:933
@@ -1732,7 +1732,7 @@ msgid "|tap|, Remove X storage counters from Crucible of the Spirit Dragon: Add 
 msgstr ""
 
 #: ../../FRF.rst:946
-msgid "Dismal Backwater"
+msgid ":mtgtip:`Dismal Backwater`"
 msgstr ""
 
 #: ../../FRF.rst:941
@@ -1748,7 +1748,7 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
 #: ../../FRF.rst:954
-msgid "Jungle Hollow"
+msgid ":mtgtip:`Jungle Hollow`"
 msgstr ""
 
 #: ../../FRF.rst:949
@@ -1764,7 +1764,7 @@ msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr ""
 
 #: ../../FRF.rst:962
-msgid "Rugged Highlands"
+msgid ":mtgtip:`Rugged Highlands`"
 msgstr ""
 
 #: ../../FRF.rst:957
@@ -1780,7 +1780,7 @@ msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
 #: ../../FRF.rst:970
-msgid "Scoured Barrens"
+msgid ":mtgtip:`Scoured Barrens`"
 msgstr ""
 
 #: ../../FRF.rst:965
@@ -1796,7 +1796,7 @@ msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr ""
 
 #: ../../FRF.rst:978
-msgid "Swiftwater Cliffs"
+msgid ":mtgtip:`Swiftwater Cliffs`"
 msgstr ""
 
 #: ../../FRF.rst:973
@@ -1812,7 +1812,7 @@ msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
 #: ../../FRF.rst:986
-msgid "Thornwood Falls"
+msgid ":mtgtip:`Thornwood Falls`"
 msgstr ""
 
 #: ../../FRF.rst:981
@@ -1828,7 +1828,7 @@ msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
 
 #: ../../FRF.rst:994
-msgid "Tranquil Cove"
+msgid ":mtgtip:`Tranquil Cove`"
 msgstr ""
 
 #: ../../FRF.rst:989
@@ -1844,7 +1844,7 @@ msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
 #: ../../FRF.rst:1002
-msgid "Wind-Scarred Crag"
+msgid ":mtgtip:`Wind-Scarred Crag`"
 msgstr ""
 
 #: ../../FRF.rst:997
@@ -1859,28 +1859,43 @@ msgstr ""
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
-#: ../../FRF.rst:1004
-#: ../../FRF.rst:1008
-msgid "Plains"
+#: ../../FRF.rst:1006
+msgid ":mtgtip:`Plains`"
 msgstr ""
 
-#: ../../FRF.rst:1012
-#: ../../FRF.rst:1016
-msgid "Island"
+#: ../../FRF.rst:1005
+msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
-#: ../../FRF.rst:1020
-#: ../../FRF.rst:1024
-msgid "Swamp"
+#: ../../FRF.rst:1010
+msgid ":mtgtip:`Island`"
 msgstr ""
 
-#: ../../FRF.rst:1028
-#: ../../FRF.rst:1032
-msgid "Mountain"
+#: ../../FRF.rst:1009
+msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../FRF.rst:1036
-#: ../../FRF.rst:1040
-msgid "Forest"
+#: ../../FRF.rst:1014
+msgid ":mtgtip:`Swamp`"
+msgstr ""
+
+#: ../../FRF.rst:1013
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../FRF.rst:1018
+msgid ":mtgtip:`Mountain`"
+msgstr ""
+
+#: ../../FRF.rst:1017
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../FRF.rst:1021
+msgid ":mtgtip:`Forest`"
+msgstr ""
+
+#: ../../FRF.rst:1021
+msgid "(|tap|: Add |mana_g|.)"
 msgstr ""
 

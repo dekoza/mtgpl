@@ -94,3 +94,9 @@
    :alt: {(g/u)}
 .. |mana_snow| image:: images/mana_snow.png
    :alt: {S}
+.. |energy| image:: images/energy.png
+   :alt: {E}
+.. |chaos| image:: images/chaos.png
+   :alt: {CHAOS}
+.. |pw| image:: images/pw.png
+   :alt: {PW}

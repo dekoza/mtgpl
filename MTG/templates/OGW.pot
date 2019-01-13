@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2013-2018, Dominik Kozaczko & Strefa Gry
+# Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../OGW.rst:5
-msgid "Oath of the Gatewatch"
+msgid ":mtgexp:`OGW` Oath of the Gatewatch"
 msgstr ""
 
 #: ../../OGW.rst:12
-msgid "Deceiver of Form"
+msgid ":mtgtip:`Deceiver of Form`"
 msgstr ""
 
 #: ../../OGW.rst:9
@@ -39,7 +39,7 @@ msgid "At the beginning of combat on your turn, reveal the top card of your libr
 msgstr ""
 
 #: ../../OGW.rst:16
-msgid "Eldrazi Mimic"
+msgid ":mtgtip:`Eldrazi Mimic`"
 msgstr ""
 
 #: ../../OGW.rst:15
@@ -47,7 +47,7 @@ msgid "Whenever another colorless creature enters the battlefield under your con
 msgstr ""
 
 #: ../../OGW.rst:26
-msgid "Endbringer"
+msgid ":mtgtip:`Endbringer`"
 msgstr ""
 
 #: ../../OGW.rst:19
@@ -67,7 +67,7 @@ msgid "|colorless|\\ |colorless|, |tap|: Draw a card."
 msgstr ""
 
 #: ../../OGW.rst:34
-msgid "Kozilek, the Great Distortion"
+msgid ":mtgtip:`Kozilek, the Great Distortion`"
 msgstr ""
 
 #: ../../OGW.rst:29
@@ -84,7 +84,7 @@ msgid "Discard a card with converted mana cost X: Counter target spell with conv
 msgstr ""
 
 #: ../../OGW.rst:38
-msgid "Kozilek's Pathfinder"
+msgid ":mtgtip:`Kozilek's Pathfinder`"
 msgstr ""
 
 #: ../../OGW.rst:37
@@ -92,7 +92,7 @@ msgid "|colorless|: Target creature can't block Kozilek's Pathfinder this turn. 
 msgstr ""
 
 #: ../../OGW.rst:44
-msgid "Matter Reshaper"
+msgid ":mtgtip:`Matter Reshaper`"
 msgstr ""
 
 #: ../../OGW.rst:43
@@ -100,7 +100,7 @@ msgid "When Matter Reshaper dies, reveal the top card of your library. You may p
 msgstr ""
 
 #: ../../OGW.rst:52
-msgid "Reality Smasher"
+msgid ":mtgtip:`Reality Smasher`"
 msgstr ""
 
 #: ../../OGW.rst:49
@@ -112,7 +112,7 @@ msgid "Whenever Reality Smasher becomes the target of a spell an opponent contro
 msgstr ""
 
 #: ../../OGW.rst:58
-msgid "Spatial Contortion"
+msgid ":mtgtip:`Spatial Contortion`"
 msgstr ""
 
 #: ../../OGW.rst:57
@@ -120,7 +120,7 @@ msgid "Target creature gets +3/-3 until end of turn."
 msgstr ""
 
 #: ../../OGW.rst:66
-msgid "Thought-Knot Seer"
+msgid ":mtgtip:`Thought-Knot Seer`"
 msgstr ""
 
 #: ../../OGW.rst:63
@@ -132,7 +132,7 @@ msgid "When Thought-Knot Seer leaves the battlefield, target opponent draws a ca
 msgstr ""
 
 #: ../../OGW.rst:74
-msgid "Walker of the Wastes"
+msgid ":mtgtip:`Walker of the Wastes`"
 msgstr ""
 
 #: ../../OGW.rst:71
@@ -146,7 +146,7 @@ msgid "Walker of the Wastes gets +1/+1 for each land you control named Wastes."
 msgstr ""
 
 #: ../../OGW.rst:80
-msgid "Warden of Geometries"
+msgid ":mtgtip:`Warden of Geometries`"
 msgstr ""
 
 #: ../../OGW.rst:77
@@ -168,7 +168,7 @@ msgid "|tap|: Add |colorless|. (|colorless| represents colorless mana.)"
 msgstr ""
 
 #: ../../OGW.rst:92
-msgid "Warping Wail"
+msgid ":mtgtip:`Warping Wail`"
 msgstr ""
 
 #: ../../OGW.rst:85
@@ -189,7 +189,7 @@ msgid "Create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice t
 msgstr ""
 
 #: ../../OGW.rst:98
-msgid "Eldrazi Displacer"
+msgid ":mtgtip:`Eldrazi Displacer`"
 msgstr ""
 
 #: ../../OGW.rst:95
@@ -243,11 +243,11 @@ msgid "|mana_2|\\ |colorless|: Exile another target creature, then return it to 
 msgstr ""
 
 #: ../../OGW.rst:102
-msgid "Affa Protector"
+msgid ":mtgtip:`Affa Protector`"
 msgstr ""
 
 #: ../../OGW.rst:106
-msgid "Allied Reinforcements"
+msgid ":mtgtip:`Allied Reinforcements`"
 msgstr ""
 
 #: ../../OGW.rst:105
@@ -255,7 +255,7 @@ msgid "Create two 2/2 white Knight Ally creature tokens."
 msgstr ""
 
 #: ../../OGW.rst:110
-msgid "Call the Gatewatch"
+msgid ":mtgtip:`Call the Gatewatch`"
 msgstr ""
 
 #: ../../OGW.rst:109
@@ -263,7 +263,7 @@ msgid "Search your library for a planeswalker card, reveal it, and put it into y
 msgstr ""
 
 #: ../../OGW.rst:114
-msgid "Dazzling Reflection"
+msgid ":mtgtip:`Dazzling Reflection`"
 msgstr ""
 
 #: ../../OGW.rst:113
@@ -271,7 +271,7 @@ msgid "You gain life equal to target creature's power. The next time that creatu
 msgstr ""
 
 #: ../../OGW.rst:120
-msgid "Expedition Raptor"
+msgid ":mtgtip:`Expedition Raptor`"
 msgstr ""
 
 #: ../../OGW.rst:117
@@ -296,7 +296,7 @@ msgid "When Expedition Raptor enters the battlefield, support 2. (Put a +1/+1 co
 msgstr ""
 
 #: ../../OGW.rst:126
-msgid "General Tazri"
+msgid ":mtgtip:`General Tazri`"
 msgstr ""
 
 #: ../../OGW.rst:123
@@ -308,7 +308,7 @@ msgid "|mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g|: Ally creatures you 
 msgstr ""
 
 #: ../../OGW.rst:130
-msgid "Immolating Glare"
+msgid ":mtgtip:`Immolating Glare`"
 msgstr ""
 
 #: ../../OGW.rst:129
@@ -316,7 +316,7 @@ msgid "Destroy target attacking creature."
 msgstr ""
 
 #: ../../OGW.rst:136
-msgid "Iona's Blessing"
+msgid ":mtgtip:`Iona's Blessing`"
 msgstr ""
 
 #: ../../OGW.rst:133
@@ -331,7 +331,7 @@ msgid "Enchanted creature gets +2/+2, has vigilance, and can block an additional
 msgstr ""
 
 #: ../../OGW.rst:140
-msgid "Isolation Zone"
+msgid ":mtgtip:`Isolation Zone`"
 msgstr ""
 
 #: ../../OGW.rst:139
@@ -339,7 +339,7 @@ msgid "When Isolation Zone enters the battlefield, exile target creature or ench
 msgstr ""
 
 #: ../../OGW.rst:144
-msgid "Kor Scythemaster"
+msgid ":mtgtip:`Kor Scythemaster`"
 msgstr ""
 
 #: ../../OGW.rst:143
@@ -347,7 +347,7 @@ msgid "Kor Scythemaster has first strike as long as it's attacking."
 msgstr ""
 
 #: ../../OGW.rst:148
-msgid "Kor Sky Climber"
+msgid ":mtgtip:`Kor Sky Climber`"
 msgstr ""
 
 #: ../../OGW.rst:147
@@ -355,7 +355,7 @@ msgid "|mana_1|\\ |mana_w|: Kor Sky Climber gains flying until end of turn."
 msgstr ""
 
 #: ../../OGW.rst:156
-msgid "Linvala, the Preserver"
+msgid ":mtgtip:`Linvala, the Preserver`"
 msgstr ""
 
 #: ../../OGW.rst:153
@@ -367,7 +367,7 @@ msgid "When Linvala enters the battlefield, if an opponent controls more creatur
 msgstr ""
 
 #: ../../OGW.rst:160
-msgid "Make a Stand"
+msgid ":mtgtip:`Make a Stand`"
 msgstr ""
 
 #: ../../OGW.rst:159
@@ -375,11 +375,11 @@ msgid "Creatures you control get +1/+0 and gain indestructible until end of turn
 msgstr ""
 
 #: ../../OGW.rst:164
-msgid "Makindi Aeronaut"
+msgid ":mtgtip:`Makindi Aeronaut`"
 msgstr ""
 
 #: ../../OGW.rst:168
-msgid "Mighty Leap"
+msgid ":mtgtip:`Mighty Leap`"
 msgstr ""
 
 #: ../../OGW.rst:167
@@ -387,7 +387,7 @@ msgid "Target creature gets +2/+2 and gains flying until end of turn."
 msgstr ""
 
 #: ../../OGW.rst:172
-msgid "Munda's Vanguard"
+msgid ":mtgtip:`Munda's Vanguard`"
 msgstr ""
 
 #: ../../OGW.rst:171
@@ -395,7 +395,7 @@ msgid "Cohort — |tap|, Tap an untapped Ally you control: Put a +1/+1 counter o
 msgstr ""
 
 #: ../../OGW.rst:178
-msgid "Oath of Gideon"
+msgid ":mtgtip:`Oath of Gideon`"
 msgstr ""
 
 #: ../../OGW.rst:175
@@ -407,7 +407,7 @@ msgid "Each planeswalker you control enters the battlefield with an additional l
 msgstr ""
 
 #: ../../OGW.rst:182
-msgid "Ondu War Cleric"
+msgid ":mtgtip:`Ondu War Cleric`"
 msgstr ""
 
 #: ../../OGW.rst:181
@@ -415,7 +415,7 @@ msgid "Cohort — |tap|, Tap an untapped Ally you control: You gain 2 life."
 msgstr ""
 
 #: ../../OGW.rst:186
-msgid "Relief Captain"
+msgid ":mtgtip:`Relief Captain`"
 msgstr ""
 
 #: ../../OGW.rst:185
@@ -423,7 +423,7 @@ msgid "When Relief Captain enters the battlefield, support 3. (Put a +1/+1 count
 msgstr ""
 
 #: ../../OGW.rst:190
-msgid "Searing Light"
+msgid ":mtgtip:`Searing Light`"
 msgstr ""
 
 #: ../../OGW.rst:189
@@ -431,7 +431,7 @@ msgid "Destroy target attacking or blocking creature with power 2 or less."
 msgstr ""
 
 #: ../../OGW.rst:196
-msgid "Shoulder to Shoulder"
+msgid ":mtgtip:`Shoulder to Shoulder`"
 msgstr ""
 
 #: ../../OGW.rst:193
@@ -450,7 +450,7 @@ msgid "Draw a card."
 msgstr ""
 
 #: ../../OGW.rst:200
-msgid "Spawnbinder Mage"
+msgid ":mtgtip:`Spawnbinder Mage`"
 msgstr ""
 
 #: ../../OGW.rst:199
@@ -458,7 +458,7 @@ msgid "Cohort — |tap|, Tap an untapped Ally you control: Tap target creature."
 msgstr ""
 
 #: ../../OGW.rst:206
-msgid "Steppe Glider"
+msgid ":mtgtip:`Steppe Glider`"
 msgstr ""
 
 #: ../../OGW.rst:203
@@ -470,7 +470,7 @@ msgid "|mana_1|\\ |mana_w|: Target creature with a +1/+1 counter on it gains fly
 msgstr ""
 
 #: ../../OGW.rst:212
-msgid "Stone Haven Outfitter"
+msgid ":mtgtip:`Stone Haven Outfitter`"
 msgstr ""
 
 #: ../../OGW.rst:209
@@ -482,7 +482,7 @@ msgid "Whenever an equipped creature you control dies, draw a card."
 msgstr ""
 
 #: ../../OGW.rst:216
-msgid "Stoneforge Acolyte"
+msgid ":mtgtip:`Stoneforge Acolyte`"
 msgstr ""
 
 #: ../../OGW.rst:215
@@ -490,7 +490,7 @@ msgid "Cohort — |tap|, Tap an untapped Ally you control: Look at the top four 
 msgstr ""
 
 #: ../../OGW.rst:222
-msgid "Wall of Resurgence"
+msgid ":mtgtip:`Wall of Resurgence`"
 msgstr ""
 
 #: ../../OGW.rst:219
@@ -502,7 +502,7 @@ msgid "When Wall of Resurgence enters the battlefield, you may put three +1/+1 c
 msgstr ""
 
 #: ../../OGW.rst:228
-msgid "Abstruse Interference"
+msgid ":mtgtip:`Abstruse Interference`"
 msgstr ""
 
 #: ../../OGW.rst:227
@@ -510,7 +510,7 @@ msgid "Counter target spell unless its controller pays |mana_1|. You create a 1/
 msgstr ""
 
 #: ../../OGW.rst:234
-msgid "Blinding Drone"
+msgid ":mtgtip:`Blinding Drone`"
 msgstr ""
 
 #: ../../OGW.rst:233
@@ -518,7 +518,7 @@ msgid "|colorless|, |tap|: Tap target creature. (|colorless| represents colorles
 msgstr ""
 
 #: ../../OGW.rst:240
-msgid "Cultivator Drone"
+msgid ":mtgtip:`Cultivator Drone`"
 msgstr ""
 
 #: ../../OGW.rst:239
@@ -526,7 +526,7 @@ msgid "|tap|: Add |colorless|. Spend this mana only to cast a colorless spell, a
 msgstr ""
 
 #: ../../OGW.rst:248
-msgid "Deepfathom Skulker"
+msgid ":mtgtip:`Deepfathom Skulker`"
 msgstr ""
 
 #: ../../OGW.rst:245
@@ -538,7 +538,7 @@ msgid "|mana_3|\\ |colorless|: Target creature can't be blocked this turn. (|col
 msgstr ""
 
 #: ../../OGW.rst:258
-msgid "Dimensional Infiltrator"
+msgid ":mtgtip:`Dimensional Infiltrator`"
 msgstr ""
 
 #: ../../OGW.rst:253
@@ -551,7 +551,7 @@ msgid "|mana_1|\\ |colorless|: Target opponent exiles the top card of their libr
 msgstr ""
 
 #: ../../OGW.rst:266
-msgid "Gravity Negator"
+msgid ":mtgtip:`Gravity Negator`"
 msgstr ""
 
 #: ../../OGW.rst:265
@@ -559,7 +559,7 @@ msgid "Whenever Gravity Negator attacks, you may pay |colorless|. If you do, ano
 msgstr ""
 
 #: ../../OGW.rst:272
-msgid "Prophet of Distortion"
+msgid ":mtgtip:`Prophet of Distortion`"
 msgstr ""
 
 #: ../../OGW.rst:271
@@ -567,7 +567,7 @@ msgid "|mana_3|\\ |colorless|: Draw a card. (|colorless| represents colorless ma
 msgstr ""
 
 #: ../../OGW.rst:280
-msgid "Slip Through Space"
+msgid ":mtgtip:`Slip Through Space`"
 msgstr ""
 
 #: ../../OGW.rst:277
@@ -575,7 +575,7 @@ msgid "Target creature can't be blocked this turn."
 msgstr ""
 
 #: ../../OGW.rst:288
-msgid "Thought Harvester"
+msgid ":mtgtip:`Thought Harvester`"
 msgstr ""
 
 #: ../../OGW.rst:287
@@ -583,7 +583,7 @@ msgid "Whenever you cast a colorless spell, target opponent exiles the top card 
 msgstr ""
 
 #: ../../OGW.rst:294
-msgid "Void Shatter"
+msgid ":mtgtip:`Void Shatter`"
 msgstr ""
 
 #: ../../OGW.rst:293
@@ -591,11 +591,11 @@ msgid "Counter target spell. If that spell is countered this way, exile it inste
 msgstr ""
 
 #: ../../OGW.rst:296
-msgid "Ancient Crab"
+msgid ":mtgtip:`Ancient Crab`"
 msgstr ""
 
 #: ../../OGW.rst:304
-msgid "Comparative Analysis"
+msgid ":mtgtip:`Comparative Analysis`"
 msgstr ""
 
 #: ../../OGW.rst:301
@@ -608,7 +608,7 @@ msgid "Target player draws two cards."
 msgstr ""
 
 #: ../../OGW.rst:312
-msgid "Containment Membrane"
+msgid ":mtgtip:`Containment Membrane`"
 msgstr ""
 
 #: ../../OGW.rst:307
@@ -620,7 +620,7 @@ msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
 
 #: ../../OGW.rst:318
-msgid "Crush of Tentacles"
+msgid ":mtgtip:`Crush of Tentacles`"
 msgstr ""
 
 #: ../../OGW.rst:315
@@ -632,7 +632,7 @@ msgid "Return all nonland permanents to their owners' hands. If Crush of Tentacl
 msgstr ""
 
 #: ../../OGW.rst:324
-msgid "Cyclone Sire"
+msgid ":mtgtip:`Cyclone Sire`"
 msgstr ""
 
 #: ../../OGW.rst:323
@@ -640,7 +640,7 @@ msgid "When Cyclone Sire dies, you may put three +1/+1 counters on target land y
 msgstr ""
 
 #: ../../OGW.rst:328
-msgid "Gift of Tusks"
+msgid ":mtgtip:`Gift of Tusks`"
 msgstr ""
 
 #: ../../OGW.rst:327
@@ -648,7 +648,7 @@ msgid "Until end of turn, target creature loses all abilities and becomes a gree
 msgstr ""
 
 #: ../../OGW.rst:336
-msgid "Grip of the Roil"
+msgid ":mtgtip:`Grip of the Roil`"
 msgstr ""
 
 #: ../../OGW.rst:331
@@ -660,7 +660,7 @@ msgid "Tap target creature. It doesn't untap during its controller's next untap 
 msgstr ""
 
 #: ../../OGW.rst:344
-msgid "Hedron Alignment"
+msgid ":mtgtip:`Hedron Alignment`"
 msgstr ""
 
 #: ../../OGW.rst:339
@@ -676,11 +676,11 @@ msgid "|mana_1|\\ |mana_u|: Scry 1."
 msgstr ""
 
 #: ../../OGW.rst:350
-msgid "Jwar Isle Avenger"
+msgid ":mtgtip:`Jwar Isle Avenger`"
 msgstr ""
 
 #: ../../OGW.rst:354
-msgid "Negate"
+msgid ":mtgtip:`Negate`"
 msgstr ""
 
 #: ../../OGW.rst:353
@@ -688,7 +688,7 @@ msgid "Counter target noncreature spell."
 msgstr ""
 
 #: ../../OGW.rst:360
-msgid "Oath of Jace"
+msgid ":mtgtip:`Oath of Jace`"
 msgstr ""
 
 #: ../../OGW.rst:357
@@ -700,7 +700,7 @@ msgid "At the beginning of your upkeep, scry X, where X is the number of planesw
 msgstr ""
 
 #: ../../OGW.rst:368
-msgid "Overwhelming Denial"
+msgid ":mtgtip:`Overwhelming Denial`"
 msgstr ""
 
 #: ../../OGW.rst:363
@@ -718,7 +718,7 @@ msgid "Counter target spell."
 msgstr ""
 
 #: ../../OGW.rst:372
-msgid "Roiling Waters"
+msgid ":mtgtip:`Roiling Waters`"
 msgstr ""
 
 #: ../../OGW.rst:371
@@ -726,7 +726,7 @@ msgid "Return up to two target creatures your opponents control to their owners'
 msgstr ""
 
 #: ../../OGW.rst:380
-msgid "Sphinx of the Final Word"
+msgid ":mtgtip:`Sphinx of the Final Word`"
 msgstr ""
 
 #: ../../OGW.rst:377
@@ -738,7 +738,7 @@ msgid "Instant and sorcery spells you control can't be countered."
 msgstr ""
 
 #: ../../OGW.rst:384
-msgid "Sweep Away"
+msgid ":mtgtip:`Sweep Away`"
 msgstr ""
 
 #: ../../OGW.rst:383
@@ -746,7 +746,7 @@ msgid "Return target creature to its owner's hand. If that creature is attacking
 msgstr ""
 
 #: ../../OGW.rst:388
-msgid "Umara Entangler"
+msgid ":mtgtip:`Umara Entangler`"
 msgstr ""
 
 #: ../../OGW.rst:387
@@ -755,7 +755,7 @@ msgid "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 
 msgstr ""
 
 #: ../../OGW.rst:394
-msgid "Unity of Purpose"
+msgid ":mtgtip:`Unity of Purpose`"
 msgstr ""
 
 #: ../../OGW.rst:393
@@ -763,7 +763,7 @@ msgid "Untap each creature you control with a +1/+1 counter on it."
 msgstr ""
 
 #: ../../OGW.rst:404
-msgid "Bearer of Silence"
+msgid ":mtgtip:`Bearer of Silence`"
 msgstr ""
 
 #: ../../OGW.rst:399
@@ -775,7 +775,7 @@ msgid "Bearer of Silence can't block."
 msgstr ""
 
 #: ../../OGW.rst:410
-msgid "Dread Defiler"
+msgid ":mtgtip:`Dread Defiler`"
 msgstr ""
 
 #: ../../OGW.rst:409
@@ -783,7 +783,7 @@ msgid "|mana_3|\\ |colorless|, Exile a creature card from your graveyard: Target
 msgstr ""
 
 #: ../../OGW.rst:416
-msgid "Essence Depleter"
+msgid ":mtgtip:`Essence Depleter`"
 msgstr ""
 
 #: ../../OGW.rst:415
@@ -791,7 +791,7 @@ msgid "|mana_1|\\ |colorless|: Target opponent loses 1 life and you gain 1 life.
 msgstr ""
 
 #: ../../OGW.rst:422
-msgid "Flaying Tendrils"
+msgid ":mtgtip:`Flaying Tendrils`"
 msgstr ""
 
 #: ../../OGW.rst:421
@@ -799,7 +799,7 @@ msgid "All creatures get -2/-2 until end of turn. If a creature would die this t
 msgstr ""
 
 #: ../../OGW.rst:428
-msgid "Havoc Sower"
+msgid ":mtgtip:`Havoc Sower`"
 msgstr ""
 
 #: ../../OGW.rst:427
@@ -807,7 +807,7 @@ msgid "|mana_1|\\ |colorless|: Havoc Sower gets +2/+1 until end of turn. (|color
 msgstr ""
 
 #: ../../OGW.rst:436
-msgid "Inverter of Truth"
+msgid ":mtgtip:`Inverter of Truth`"
 msgstr ""
 
 #: ../../OGW.rst:435
@@ -815,7 +815,7 @@ msgid "When Inverter of Truth enters the battlefield, exile all cards from your 
 msgstr ""
 
 #: ../../OGW.rst:442
-msgid "Kozilek's Shrieker"
+msgid ":mtgtip:`Kozilek's Shrieker`"
 msgstr ""
 
 #: ../../OGW.rst:441
@@ -823,7 +823,7 @@ msgid "|colorless|: Kozilek's Shrieker gets +1/+0 and gains menace until end of 
 msgstr ""
 
 #: ../../OGW.rst:448
-msgid "Kozilek's Translator"
+msgid ":mtgtip:`Kozilek's Translator`"
 msgstr ""
 
 #: ../../OGW.rst:447
@@ -831,7 +831,7 @@ msgid "Pay 1 life: Add |colorless|. Activate this ability only once each turn. (
 msgstr ""
 
 #: ../../OGW.rst:454
-msgid "Oblivion Strike"
+msgid ":mtgtip:`Oblivion Strike`"
 msgstr ""
 
 #: ../../OGW.rst:453
@@ -839,7 +839,7 @@ msgid "Exile target creature."
 msgstr ""
 
 #: ../../OGW.rst:460
-msgid "Reaver Drone"
+msgid ":mtgtip:`Reaver Drone`"
 msgstr ""
 
 #: ../../OGW.rst:459
@@ -847,7 +847,7 @@ msgid "At the beginning of your upkeep, you lose 1 life unless you control anoth
 msgstr ""
 
 #: ../../OGW.rst:466
-msgid "Sifter of Skulls"
+msgid ":mtgtip:`Sifter of Skulls`"
 msgstr ""
 
 #: ../../OGW.rst:465
@@ -855,7 +855,7 @@ msgid "Whenever another nontoken creature you control dies, create a 1/1 colorle
 msgstr ""
 
 #: ../../OGW.rst:474
-msgid "Sky Scourer"
+msgid ":mtgtip:`Sky Scourer`"
 msgstr ""
 
 #: ../../OGW.rst:473
@@ -863,7 +863,7 @@ msgid "Whenever you cast a colorless spell, Sky Scourer gets +1/+0 until end of 
 msgstr ""
 
 #: ../../OGW.rst:480
-msgid "Slaughter Drone"
+msgid ":mtgtip:`Slaughter Drone`"
 msgstr ""
 
 #: ../../OGW.rst:479
@@ -871,7 +871,7 @@ msgid "|colorless|: Slaughter Drone gains deathtouch until end of turn. (Any amo
 msgstr ""
 
 #: ../../OGW.rst:486
-msgid "Unnatural Endurance"
+msgid ":mtgtip:`Unnatural Endurance`"
 msgstr ""
 
 #: ../../OGW.rst:485
@@ -879,7 +879,7 @@ msgid "Target creature gets +2/+0 until end of turn. Regenerate it."
 msgstr ""
 
 #: ../../OGW.rst:496
-msgid "Visions of Brutality"
+msgid ":mtgtip:`Visions of Brutality`"
 msgstr ""
 
 #: ../../OGW.rst:493
@@ -891,7 +891,7 @@ msgid "Whenever enchanted creature deals damage, its controller loses that much 
 msgstr ""
 
 #: ../../OGW.rst:502
-msgid "Witness the End"
+msgid ":mtgtip:`Witness the End`"
 msgstr ""
 
 #: ../../OGW.rst:501
@@ -899,7 +899,7 @@ msgid "Target opponent exiles two cards from their hand and loses 2 life."
 msgstr ""
 
 #: ../../OGW.rst:506
-msgid "Corpse Churn"
+msgid ":mtgtip:`Corpse Churn`"
 msgstr ""
 
 #: ../../OGW.rst:505
@@ -907,7 +907,7 @@ msgid "Put the top three cards of your library into your graveyard, then you may
 msgstr ""
 
 #: ../../OGW.rst:510
-msgid "Drana's Chosen"
+msgid ":mtgtip:`Drana's Chosen`"
 msgstr ""
 
 #: ../../OGW.rst:509
@@ -915,7 +915,7 @@ msgid "Cohort — |tap|, Tap an untapped Ally you control: Create a tapped 2/2 b
 msgstr ""
 
 #: ../../OGW.rst:514
-msgid "Grasp of Darkness"
+msgid ":mtgtip:`Grasp of Darkness`"
 msgstr ""
 
 #: ../../OGW.rst:513
@@ -923,7 +923,7 @@ msgid "Target creature gets -4/-4 until end of turn."
 msgstr ""
 
 #: ../../OGW.rst:522
-msgid "Kalitas, Traitor of Ghet"
+msgid ":mtgtip:`Kalitas, Traitor of Ghet`"
 msgstr ""
 
 #: ../../OGW.rst:517
@@ -939,7 +939,7 @@ msgid "|mana_2|\\ |mana_b|, Sacrifice another Vampire or Zombie: Put two +1/+1 c
 msgstr ""
 
 #: ../../OGW.rst:526
-msgid "Malakir Soothsayer"
+msgid ":mtgtip:`Malakir Soothsayer`"
 msgstr ""
 
 #: ../../OGW.rst:525
@@ -947,7 +947,7 @@ msgid "Cohort — |tap|, Tap an untapped Ally you control: You draw a card and y
 msgstr ""
 
 #: ../../OGW.rst:530
-msgid "Null Caller"
+msgid ":mtgtip:`Null Caller`"
 msgstr ""
 
 #: ../../OGW.rst:529
@@ -955,7 +955,7 @@ msgid "|mana_3|\\ |mana_b|, Exile a creature card from your graveyard: Create a 
 msgstr ""
 
 #: ../../OGW.rst:534
-msgid "Remorseless Punishment"
+msgid ":mtgtip:`Remorseless Punishment`"
 msgstr ""
 
 #: ../../OGW.rst:533
@@ -963,7 +963,7 @@ msgid "Target opponent loses 5 life unless that player discards two cards or sac
 msgstr ""
 
 #: ../../OGW.rst:538
-msgid "Tar Snare"
+msgid ":mtgtip:`Tar Snare`"
 msgstr ""
 
 #: ../../OGW.rst:537
@@ -971,7 +971,7 @@ msgid "Target creature gets -3/-2 until end of turn."
 msgstr ""
 
 #: ../../OGW.rst:544
-msgid "Untamed Hunger"
+msgid ":mtgtip:`Untamed Hunger`"
 msgstr ""
 
 #: ../../OGW.rst:543
@@ -979,7 +979,7 @@ msgid "Enchanted creature gets +2/+1 and has menace. (It can't be blocked except
 msgstr ""
 
 #: ../../OGW.rst:550
-msgid "Vampire Envoy"
+msgid ":mtgtip:`Vampire Envoy`"
 msgstr ""
 
 #: ../../OGW.rst:549
@@ -987,7 +987,7 @@ msgid "Whenever Vampire Envoy becomes tapped, you gain 1 life."
 msgstr ""
 
 #: ../../OGW.rst:554
-msgid "Zulaport Chainmage"
+msgid ":mtgtip:`Zulaport Chainmage`"
 msgstr ""
 
 #: ../../OGW.rst:553
@@ -995,7 +995,7 @@ msgid "Cohort — |tap|, Tap an untapped Ally you control: Target opponent loses
 msgstr ""
 
 #: ../../OGW.rst:564
-msgid "Consuming Sinkhole"
+msgid ":mtgtip:`Consuming Sinkhole`"
 msgstr ""
 
 #: ../../OGW.rst:561
@@ -1007,7 +1007,7 @@ msgid "Consuming Sinkhole deals 4 damage to target player or planeswalker."
 msgstr ""
 
 #: ../../OGW.rst:570
-msgid "Eldrazi Aggressor"
+msgid ":mtgtip:`Eldrazi Aggressor`"
 msgstr ""
 
 #: ../../OGW.rst:569
@@ -1015,7 +1015,7 @@ msgid "Eldrazi Aggressor has haste as long as you control another colorless crea
 msgstr ""
 
 #: ../../OGW.rst:578
-msgid "Eldrazi Obligator"
+msgid ":mtgtip:`Eldrazi Obligator`"
 msgstr ""
 
 #: ../../OGW.rst:575
@@ -1028,7 +1028,7 @@ msgid "Haste"
 msgstr ""
 
 #: ../../OGW.rst:584
-msgid "Immobilizer Eldrazi"
+msgid ":mtgtip:`Immobilizer Eldrazi`"
 msgstr ""
 
 #: ../../OGW.rst:583
@@ -1036,7 +1036,7 @@ msgid "|mana_2|\\ |colorless|: Each creature with toughness greater than its pow
 msgstr ""
 
 #: ../../OGW.rst:592
-msgid "Kozilek's Return"
+msgid ":mtgtip:`Kozilek's Return`"
 msgstr ""
 
 #: ../../OGW.rst:589
@@ -1048,7 +1048,7 @@ msgid "Whenever you cast an Eldrazi creature spell with converted mana cost 7 or
 msgstr ""
 
 #: ../../OGW.rst:598
-msgid "Maw of Kozilek"
+msgid ":mtgtip:`Maw of Kozilek`"
 msgstr ""
 
 #: ../../OGW.rst:597
@@ -1056,7 +1056,7 @@ msgid "|colorless|: Maw of Kozilek gets +2/-2 until end of turn. (|colorless| re
 msgstr ""
 
 #: ../../OGW.rst:604
-msgid "Reality Hemorrhage"
+msgid ":mtgtip:`Reality Hemorrhage`"
 msgstr ""
 
 #: ../../OGW.rst:603
@@ -1064,7 +1064,7 @@ msgid "Reality Hemorrhage deals 2 damage to any target."
 msgstr ""
 
 #: ../../OGW.rst:608
-msgid "Akoum Flameseeker"
+msgid ":mtgtip:`Akoum Flameseeker`"
 msgstr ""
 
 #: ../../OGW.rst:607
@@ -1072,7 +1072,7 @@ msgid "Cohort — |tap|, Tap an untapped Ally you control: Discard a card. If yo
 msgstr ""
 
 #: ../../OGW.rst:614
-msgid "Boulder Salvo"
+msgid ":mtgtip:`Boulder Salvo`"
 msgstr ""
 
 #: ../../OGW.rst:611
@@ -1086,7 +1086,7 @@ msgid "Boulder Salvo deals 4 damage to target creature."
 msgstr ""
 
 #: ../../OGW.rst:618
-msgid "Brute Strength"
+msgid ":mtgtip:`Brute Strength`"
 msgstr ""
 
 #: ../../OGW.rst:617
@@ -1094,7 +1094,7 @@ msgid "Target creature gets +3/+1 and gains trample until end of turn."
 msgstr ""
 
 #: ../../OGW.rst:626
-msgid "Chandra, Flamecaller"
+msgid ":mtgtip:`Chandra, Flamecaller`"
 msgstr ""
 
 #: ../../OGW.rst:621
@@ -1110,7 +1110,7 @@ msgid "−X: Chandra, Flamecaller deals X damage to each creature."
 msgstr ""
 
 #: ../../OGW.rst:632
-msgid "Cinder Hellion"
+msgid ":mtgtip:`Cinder Hellion`"
 msgstr ""
 
 #: ../../OGW.rst:631
@@ -1118,7 +1118,7 @@ msgid "When Cinder Hellion enters the battlefield, it deals 2 damage to target o
 msgstr ""
 
 #: ../../OGW.rst:638
-msgid "Devour in Flames"
+msgid ":mtgtip:`Devour in Flames`"
 msgstr ""
 
 #: ../../OGW.rst:635
@@ -1130,7 +1130,7 @@ msgid "Devour in Flames deals 5 damage to target creature or planeswalker."
 msgstr ""
 
 #: ../../OGW.rst:646
-msgid "Embodiment of Fury"
+msgid ":mtgtip:`Embodiment of Fury`"
 msgstr ""
 
 #: ../../OGW.rst:643
@@ -1143,7 +1143,7 @@ msgid "Landfall — Whenever a land enters the battlefield under your control, y
 msgstr ""
 
 #: ../../OGW.rst:652
-msgid "Expedite"
+msgid ":mtgtip:`Expedite`"
 msgstr ""
 
 #: ../../OGW.rst:649
@@ -1151,7 +1151,7 @@ msgid "Target creature gains haste until end of turn."
 msgstr ""
 
 #: ../../OGW.rst:658
-msgid "Fall of the Titans"
+msgid ":mtgtip:`Fall of the Titans`"
 msgstr ""
 
 #: ../../OGW.rst:655
@@ -1163,7 +1163,7 @@ msgid "Fall of the Titans deals X damage to each of up to two targets."
 msgstr ""
 
 #: ../../OGW.rst:664
-msgid "Goblin Dark-Dwellers"
+msgid ":mtgtip:`Goblin Dark-Dwellers`"
 msgstr ""
 
 #: ../../OGW.rst:663
@@ -1171,7 +1171,7 @@ msgid "When Goblin Dark-Dwellers enters the battlefield, you may cast target ins
 msgstr ""
 
 #: ../../OGW.rst:670
-msgid "Goblin Freerunner"
+msgid ":mtgtip:`Goblin Freerunner`"
 msgstr ""
 
 #: ../../OGW.rst:669
@@ -1179,7 +1179,7 @@ msgid "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
 
 #: ../../OGW.rst:674
-msgid "Kazuul's Toll Collector"
+msgid ":mtgtip:`Kazuul's Toll Collector`"
 msgstr ""
 
 #: ../../OGW.rst:673
@@ -1187,7 +1187,7 @@ msgid "|mana_0|: Attach target Equipment you control to Kazuul's Toll Collector.
 msgstr ""
 
 #: ../../OGW.rst:680
-msgid "Oath of Chandra"
+msgid ":mtgtip:`Oath of Chandra`"
 msgstr ""
 
 #: ../../OGW.rst:677
@@ -1199,7 +1199,7 @@ msgid "At the beginning of each end step, if a planeswalker entered the battlefi
 msgstr ""
 
 #: ../../OGW.rst:686
-msgid "Press into Service"
+msgid ":mtgtip:`Press into Service`"
 msgstr ""
 
 #: ../../OGW.rst:685
@@ -1207,7 +1207,7 @@ msgid "Gain control of target creature until end of turn. Untap that creature. I
 msgstr ""
 
 #: ../../OGW.rst:690
-msgid "Pyromancer's Assault"
+msgid ":mtgtip:`Pyromancer's Assault`"
 msgstr ""
 
 #: ../../OGW.rst:689
@@ -1215,7 +1215,7 @@ msgid "Whenever you cast your second spell each turn, Pyromancer's Assault deals
 msgstr ""
 
 #: ../../OGW.rst:698
-msgid "Reckless Bushwhacker"
+msgid ":mtgtip:`Reckless Bushwhacker`"
 msgstr ""
 
 #: ../../OGW.rst:697
@@ -1223,7 +1223,7 @@ msgid "When Reckless Bushwhacker enters the battlefield, if its surge cost was p
 msgstr ""
 
 #: ../../OGW.rst:702
-msgid "Sparkmage's Gambit"
+msgid ":mtgtip:`Sparkmage's Gambit`"
 msgstr ""
 
 #: ../../OGW.rst:701
@@ -1231,7 +1231,7 @@ msgid "Sparkmage's Gambit deals 1 damage to each of up to two target creatures. 
 msgstr ""
 
 #: ../../OGW.rst:708
-msgid "Tears of Valakut"
+msgid ":mtgtip:`Tears of Valakut`"
 msgstr ""
 
 #: ../../OGW.rst:707
@@ -1239,7 +1239,7 @@ msgid "Tears of Valakut deals 5 damage to target creature with flying."
 msgstr ""
 
 #: ../../OGW.rst:716
-msgid "Tyrant of Valakut"
+msgid ":mtgtip:`Tyrant of Valakut`"
 msgstr ""
 
 #: ../../OGW.rst:711
@@ -1251,7 +1251,7 @@ msgid "When Tyrant of Valakut enters the battlefield, if its surge cost was paid
 msgstr ""
 
 #: ../../OGW.rst:722
-msgid "Zada's Commando"
+msgid ":mtgtip:`Zada's Commando`"
 msgstr ""
 
 #: ../../OGW.rst:719
@@ -1264,7 +1264,7 @@ msgid "Cohort — |tap|, Tap an untapped Ally you control: Zada's Commando deals
 msgstr ""
 
 #: ../../OGW.rst:730
-msgid "Birthing Hulk"
+msgid ":mtgtip:`Birthing Hulk`"
 msgstr ""
 
 #: ../../OGW.rst:727
@@ -1276,7 +1276,7 @@ msgid "|mana_1|\\ |colorless|: Regenerate Birthing Hulk."
 msgstr ""
 
 #: ../../OGW.rst:736
-msgid "Ruin in Their Wake"
+msgid ":mtgtip:`Ruin in Their Wake`"
 msgstr ""
 
 #: ../../OGW.rst:735
@@ -1284,7 +1284,7 @@ msgid "Search your library for a basic land card and reveal it. You may put that
 msgstr ""
 
 #: ../../OGW.rst:742
-msgid "Scion Summoner"
+msgid ":mtgtip:`Scion Summoner`"
 msgstr ""
 
 #: ../../OGW.rst:741
@@ -1292,7 +1292,7 @@ msgid "When Scion Summoner enters the battlefield, create a 1/1 colorless Eldraz
 msgstr ""
 
 #: ../../OGW.rst:748
-msgid "Stalking Drone"
+msgid ":mtgtip:`Stalking Drone`"
 msgstr ""
 
 #: ../../OGW.rst:747
@@ -1300,7 +1300,7 @@ msgid "|colorless|: Stalking Drone gets +1/+2 until end of turn. Activate this a
 msgstr ""
 
 #: ../../OGW.rst:756
-msgid "Vile Redeemer"
+msgid ":mtgtip:`Vile Redeemer`"
 msgstr ""
 
 #: ../../OGW.rst:755
@@ -1308,7 +1308,7 @@ msgid "When you cast this spell, you may pay |colorless|. If you do, create a 1/
 msgstr ""
 
 #: ../../OGW.rst:766
-msgid "World Breaker"
+msgid ":mtgtip:`World Breaker`"
 msgstr ""
 
 #: ../../OGW.rst:761
@@ -1325,7 +1325,7 @@ msgid "|mana_2|\\ |colorless|, Sacrifice a land: Return World Breaker from your 
 msgstr ""
 
 #: ../../OGW.rst:770
-msgid "Baloth Pup"
+msgid ":mtgtip:`Baloth Pup`"
 msgstr ""
 
 #: ../../OGW.rst:769
@@ -1333,7 +1333,7 @@ msgid "Baloth Pup has trample as long as it has a +1/+1 counter on it."
 msgstr ""
 
 #: ../../OGW.rst:776
-msgid "Bonds of Mortality"
+msgid ":mtgtip:`Bonds of Mortality`"
 msgstr ""
 
 #: ../../OGW.rst:773
@@ -1345,11 +1345,11 @@ msgid "|mana_g|: Creatures your opponents control lose hexproof and indestructib
 msgstr ""
 
 #: ../../OGW.rst:778
-msgid "Canopy Gorger"
+msgid ":mtgtip:`Canopy Gorger`"
 msgstr ""
 
 #: ../../OGW.rst:784
-msgid "Elemental Uprising"
+msgid ":mtgtip:`Elemental Uprising`"
 msgstr ""
 
 #: ../../OGW.rst:783
@@ -1357,7 +1357,7 @@ msgid "Target land you control becomes a 4/4 Elemental creature with haste until
 msgstr ""
 
 #: ../../OGW.rst:792
-msgid "Embodiment of Insight"
+msgid ":mtgtip:`Embodiment of Insight`"
 msgstr ""
 
 #: ../../OGW.rst:789
@@ -1365,7 +1365,7 @@ msgid "Land creatures you control have vigilance."
 msgstr ""
 
 #: ../../OGW.rst:798
-msgid "Gladehart Cavalry"
+msgid ":mtgtip:`Gladehart Cavalry`"
 msgstr ""
 
 #: ../../OGW.rst:795
@@ -1377,7 +1377,7 @@ msgid "Whenever a creature you control with a +1/+1 counter on it dies, you gain
 msgstr ""
 
 #: ../../OGW.rst:802
-msgid "Harvester Troll"
+msgid ":mtgtip:`Harvester Troll`"
 msgstr ""
 
 #: ../../OGW.rst:801
@@ -1385,11 +1385,11 @@ msgid "When Harvester Troll enters the battlefield, you may sacrifice a creature
 msgstr ""
 
 #: ../../OGW.rst:806
-msgid "Lead by Example"
+msgid ":mtgtip:`Lead by Example`"
 msgstr ""
 
 #: ../../OGW.rst:810
-msgid "Loam Larva"
+msgid ":mtgtip:`Loam Larva`"
 msgstr ""
 
 #: ../../OGW.rst:809
@@ -1397,7 +1397,7 @@ msgid "When Loam Larva enters the battlefield, you may search your library for a
 msgstr ""
 
 #: ../../OGW.rst:814
-msgid "Natural State"
+msgid ":mtgtip:`Natural State`"
 msgstr ""
 
 #: ../../OGW.rst:813
@@ -1405,7 +1405,7 @@ msgid "Destroy target artifact or enchantment with converted mana cost 3 or less
 msgstr ""
 
 #: ../../OGW.rst:820
-msgid "Netcaster Spider"
+msgid ":mtgtip:`Netcaster Spider`"
 msgstr ""
 
 #: ../../OGW.rst:817
@@ -1417,7 +1417,7 @@ msgid "Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider
 msgstr ""
 
 #: ../../OGW.rst:828
-msgid "Nissa, Voice of Zendikar"
+msgid ":mtgtip:`Nissa, Voice of Zendikar`"
 msgstr ""
 
 #: ../../OGW.rst:823
@@ -1433,7 +1433,7 @@ msgid "−7: You gain X life and draw X cards, where X is the number of lands yo
 msgstr ""
 
 #: ../../OGW.rst:834
-msgid "Nissa's Judgment"
+msgid ":mtgtip:`Nissa's Judgment`"
 msgstr ""
 
 #: ../../OGW.rst:833
@@ -1441,7 +1441,7 @@ msgid "Choose up to one target creature an opponent controls. Each creature you 
 msgstr ""
 
 #: ../../OGW.rst:840
-msgid "Oath of Nissa"
+msgid ":mtgtip:`Oath of Nissa`"
 msgstr ""
 
 #: ../../OGW.rst:837
@@ -1453,7 +1453,7 @@ msgid "You may spend mana as though it were mana of any color to cast planeswalk
 msgstr ""
 
 #: ../../OGW.rst:844
-msgid "Pulse of Murasa"
+msgid ":mtgtip:`Pulse of Murasa`"
 msgstr ""
 
 #: ../../OGW.rst:843
@@ -1461,7 +1461,7 @@ msgid "Return target creature or land card from a graveyard to its owner's hand.
 msgstr ""
 
 #: ../../OGW.rst:848
-msgid "Saddleback Lagac"
+msgid ":mtgtip:`Saddleback Lagac`"
 msgstr ""
 
 #: ../../OGW.rst:847
@@ -1469,7 +1469,7 @@ msgid "When Saddleback Lagac enters the battlefield, support 2. (Put a +1/+1 cou
 msgstr ""
 
 #: ../../OGW.rst:854
-msgid "Seed Guardian"
+msgid ":mtgtip:`Seed Guardian`"
 msgstr ""
 
 #: ../../OGW.rst:853
@@ -1477,7 +1477,7 @@ msgid "When Seed Guardian dies, create an X/X green Elemental creature token, wh
 msgstr ""
 
 #: ../../OGW.rst:860
-msgid "Sylvan Advocate"
+msgid ":mtgtip:`Sylvan Advocate`"
 msgstr ""
 
 #: ../../OGW.rst:859
@@ -1485,7 +1485,7 @@ msgid "As long as you control six or more lands, Sylvan Advocate and land creatu
 msgstr ""
 
 #: ../../OGW.rst:864
-msgid "Tajuru Pathwarden"
+msgid ":mtgtip:`Tajuru Pathwarden`"
 msgstr ""
 
 #: ../../OGW.rst:863
@@ -1493,7 +1493,7 @@ msgid "Vigilance, trample"
 msgstr ""
 
 #: ../../OGW.rst:868
-msgid "Vines of the Recluse"
+msgid ":mtgtip:`Vines of the Recluse`"
 msgstr ""
 
 #: ../../OGW.rst:867
@@ -1501,7 +1501,7 @@ msgid "Target creature gets +1/+2 and gains reach until end of turn. Untap it. (
 msgstr ""
 
 #: ../../OGW.rst:874
-msgid "Zendikar Resurgent"
+msgid ":mtgtip:`Zendikar Resurgent`"
 msgstr ""
 
 #: ../../OGW.rst:871
@@ -1513,7 +1513,7 @@ msgid "Whenever you cast a creature spell, draw a card."
 msgstr ""
 
 #: ../../OGW.rst:882
-msgid "Flayer Drone"
+msgid ":mtgtip:`Flayer Drone`"
 msgstr ""
 
 #: ../../OGW.rst:881
@@ -1521,7 +1521,7 @@ msgid "Whenever another colorless creature enters the battlefield under your con
 msgstr ""
 
 #: ../../OGW.rst:890
-msgid "Mindmelter"
+msgid ":mtgtip:`Mindmelter`"
 msgstr ""
 
 #: ../../OGW.rst:887
@@ -1533,7 +1533,7 @@ msgid "|mana_3|\\ |colorless|: Target opponent exiles a card from their hand. Ac
 msgstr ""
 
 #: ../../OGW.rst:898
-msgid "Void Grafter"
+msgid ":mtgtip:`Void Grafter`"
 msgstr ""
 
 #: ../../OGW.rst:895
@@ -1545,7 +1545,7 @@ msgid "When Void Grafter enters the battlefield, another target creature you con
 msgstr ""
 
 #: ../../OGW.rst:906
-msgid "Ayli, Eternal Pilgrim"
+msgid ":mtgtip:`Ayli, Eternal Pilgrim`"
 msgstr ""
 
 #: ../../OGW.rst:901
@@ -1561,7 +1561,7 @@ msgid "|mana_1|\\ |mana_w|\\ |mana_b|, Sacrifice another creature: Exile target 
 msgstr ""
 
 #: ../../OGW.rst:910
-msgid "Baloth Null"
+msgid ":mtgtip:`Baloth Null`"
 msgstr ""
 
 #: ../../OGW.rst:909
@@ -1569,7 +1569,7 @@ msgid "When Baloth Null enters the battlefield, return up to two target creature
 msgstr ""
 
 #: ../../OGW.rst:916
-msgid "Cliffhaven Vampire"
+msgid ":mtgtip:`Cliffhaven Vampire`"
 msgstr ""
 
 #: ../../OGW.rst:915
@@ -1577,7 +1577,7 @@ msgid "Whenever you gain life, each opponent loses 1 life."
 msgstr ""
 
 #: ../../OGW.rst:920
-msgid "Joraga Auxiliary"
+msgid ":mtgtip:`Joraga Auxiliary`"
 msgstr ""
 
 #: ../../OGW.rst:919
@@ -1585,7 +1585,7 @@ msgid "|mana_4|\\ |mana_g|\\ |mana_w|: Support 2. (Put a +1/+1 counter on each o
 msgstr ""
 
 #: ../../OGW.rst:924
-msgid "Jori En, Ruin Diver"
+msgid ":mtgtip:`Jori En, Ruin Diver`"
 msgstr ""
 
 #: ../../OGW.rst:923
@@ -1593,7 +1593,7 @@ msgid "Whenever you cast your second spell each turn, draw a card."
 msgstr ""
 
 #: ../../OGW.rst:930
-msgid "Mina and Denn, Wildborn"
+msgid ":mtgtip:`Mina and Denn, Wildborn`"
 msgstr ""
 
 #: ../../OGW.rst:927
@@ -1605,7 +1605,7 @@ msgid "|mana_r|\\ |mana_g|, Return a land you control to its owner's hand: Targe
 msgstr ""
 
 #: ../../OGW.rst:934
-msgid "Reflector Mage"
+msgid ":mtgtip:`Reflector Mage`"
 msgstr ""
 
 #: ../../OGW.rst:933
@@ -1613,7 +1613,7 @@ msgid "When Reflector Mage enters the battlefield, return target creature an opp
 msgstr ""
 
 #: ../../OGW.rst:938
-msgid "Relentless Hunter"
+msgid ":mtgtip:`Relentless Hunter`"
 msgstr ""
 
 #: ../../OGW.rst:937
@@ -1621,7 +1621,7 @@ msgid "|mana_1|\\ |mana_r|\\ |mana_g|: Relentless Hunter gets +1/+1 and gains tr
 msgstr ""
 
 #: ../../OGW.rst:944
-msgid "Stormchaser Mage"
+msgid ":mtgtip:`Stormchaser Mage`"
 msgstr ""
 
 #: ../../OGW.rst:941
@@ -1629,7 +1629,7 @@ msgid "Flying, haste"
 msgstr ""
 
 #: ../../OGW.rst:948
-msgid "Weapons Trainer"
+msgid ":mtgtip:`Weapons Trainer`"
 msgstr ""
 
 #: ../../OGW.rst:947
@@ -1637,7 +1637,7 @@ msgid "Other creatures you control get +1/+0 as long as you control an Equipment
 msgstr ""
 
 #: ../../OGW.rst:954
-msgid "Bone Saw"
+msgid ":mtgtip:`Bone Saw`"
 msgstr ""
 
 #: ../../OGW.rst:951
@@ -1651,7 +1651,7 @@ msgid "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip on
 msgstr ""
 
 #: ../../OGW.rst:962
-msgid "Captain's Claws"
+msgid ":mtgtip:`Captain's Claws`"
 msgstr ""
 
 #: ../../OGW.rst:959
@@ -1663,7 +1663,7 @@ msgid "Equip |mana_1|"
 msgstr ""
 
 #: ../../OGW.rst:968
-msgid "Chitinous Cloak"
+msgid ":mtgtip:`Chitinous Cloak`"
 msgstr ""
 
 #: ../../OGW.rst:965
@@ -1675,11 +1675,11 @@ msgid "Equip |mana_3|"
 msgstr ""
 
 #: ../../OGW.rst:972
-msgid "Hedron Crawler"
+msgid ":mtgtip:`Hedron Crawler`"
 msgstr ""
 
 #: ../../OGW.rst:978
-msgid "Seer's Lantern"
+msgid ":mtgtip:`Seer's Lantern`"
 msgstr ""
 
 #: ../../OGW.rst:977
@@ -1687,7 +1687,7 @@ msgid "|mana_2|, |tap|: Scry 1. (Look at the top card of your library. You may p
 msgstr ""
 
 #: ../../OGW.rst:984
-msgid "Stoneforge Masterwork"
+msgid ":mtgtip:`Stoneforge Masterwork`"
 msgstr ""
 
 #: ../../OGW.rst:981
@@ -1699,7 +1699,7 @@ msgid "Equip |mana_2|"
 msgstr ""
 
 #: ../../OGW.rst:990
-msgid "Strider Harness"
+msgid ":mtgtip:`Strider Harness`"
 msgstr ""
 
 #: ../../OGW.rst:987
@@ -1707,7 +1707,7 @@ msgid "Equipped creature gets +1/+1 and has haste."
 msgstr ""
 
 #: ../../OGW.rst:996
-msgid "Cinder Barrens"
+msgid ":mtgtip:`Cinder Barrens`"
 msgstr ""
 
 #: ../../OGW.rst:993
@@ -1719,7 +1719,7 @@ msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
 #: ../../OGW.rst:1002
-msgid "Corrupted Crossroads"
+msgid ":mtgtip:`Corrupted Crossroads`"
 msgstr ""
 
 #: ../../OGW.rst:1001
@@ -1727,7 +1727,7 @@ msgid "|tap|, Pay 1 life: Add one mana of any color. Spend this mana only to cas
 msgstr ""
 
 #: ../../OGW.rst:1010
-msgid "Crumbling Vestige"
+msgid ":mtgtip:`Crumbling Vestige`"
 msgstr ""
 
 #: ../../OGW.rst:1005
@@ -1739,7 +1739,7 @@ msgid "When Crumbling Vestige enters the battlefield, add one mana of any color.
 msgstr ""
 
 #: ../../OGW.rst:1018
-msgid "Hissing Quagmire"
+msgid ":mtgtip:`Hissing Quagmire`"
 msgstr ""
 
 #: ../../OGW.rst:1013
@@ -1755,7 +1755,7 @@ msgid "|mana_1|\\ |mana_b|\\ |mana_g|: Hissing Quagmire becomes a 2/2 black and 
 msgstr ""
 
 #: ../../OGW.rst:1024
-msgid "Holdout Settlement"
+msgid ":mtgtip:`Holdout Settlement`"
 msgstr ""
 
 #: ../../OGW.rst:1023
@@ -1763,7 +1763,7 @@ msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
 
 #: ../../OGW.rst:1030
-msgid "Meandering River"
+msgid ":mtgtip:`Meandering River`"
 msgstr ""
 
 #: ../../OGW.rst:1027
@@ -1775,7 +1775,7 @@ msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
 #: ../../OGW.rst:1040
-msgid "Mirrorpool"
+msgid ":mtgtip:`Mirrorpool`"
 msgstr ""
 
 #: ../../OGW.rst:1033
@@ -1785,9 +1785,6 @@ msgstr ""
 #: ../../OGW.rst:1035
 #: ../../OGW.rst:1083
 #: ../../OGW.rst:1097
-#: ../../OGW.rst:1101
-#: ../../OGW.rst:1105
-#: ../../OGW.rst:1109
 msgid "|tap|: Add |colorless|."
 msgstr ""
 
@@ -1800,7 +1797,7 @@ msgid "|mana_4|\\ |colorless|, |tap|, Sacrifice Mirrorpool: Create a token that'
 msgstr ""
 
 #: ../../OGW.rst:1048
-msgid "Needle Spires"
+msgid ":mtgtip:`Needle Spires`"
 msgstr ""
 
 #: ../../OGW.rst:1043
@@ -1816,7 +1813,7 @@ msgid "|mana_2|\\ |mana_r|\\ |mana_w|: Needle Spires becomes a 2/1 red and white
 msgstr ""
 
 #: ../../OGW.rst:1056
-msgid "Ruins of Oran-Rief"
+msgid ":mtgtip:`Ruins of Oran-Rief`"
 msgstr ""
 
 #: ../../OGW.rst:1051
@@ -1828,7 +1825,7 @@ msgid "|tap|: Put a +1/+1 counter on target colorless creature that entered the 
 msgstr ""
 
 #: ../../OGW.rst:1062
-msgid "Sea Gate Wreckage"
+msgid ":mtgtip:`Sea Gate Wreckage`"
 msgstr ""
 
 #: ../../OGW.rst:1061
@@ -1836,7 +1833,7 @@ msgid "|mana_2|\\ |colorless|, |tap|: Draw a card. Activate this ability only if
 msgstr ""
 
 #: ../../OGW.rst:1068
-msgid "Submerged Boneyard"
+msgid ":mtgtip:`Submerged Boneyard`"
 msgstr ""
 
 #: ../../OGW.rst:1065
@@ -1848,7 +1845,7 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
 #: ../../OGW.rst:1074
-msgid "Timber Gorge"
+msgid ":mtgtip:`Timber Gorge`"
 msgstr ""
 
 #: ../../OGW.rst:1071
@@ -1860,7 +1857,7 @@ msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
 #: ../../OGW.rst:1080
-msgid "Tranquil Expanse"
+msgid ":mtgtip:`Tranquil Expanse`"
 msgstr ""
 
 #: ../../OGW.rst:1077
@@ -1872,7 +1869,7 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
 #: ../../OGW.rst:1086
-msgid "Unknown Shores"
+msgid ":mtgtip:`Unknown Shores`"
 msgstr ""
 
 #: ../../OGW.rst:1085
@@ -1880,7 +1877,7 @@ msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr ""
 
 #: ../../OGW.rst:1094
-msgid "Wandering Fumarole"
+msgid ":mtgtip:`Wandering Fumarole`"
 msgstr ""
 
 #: ../../OGW.rst:1089
@@ -1895,10 +1892,7 @@ msgstr ""
 msgid "|mana_2|\\ |mana_u|\\ |mana_r|: Until end of turn, Wandering Fumarole becomes a 1/4 blue and red Elemental creature with \"|mana_0|: Switch this creature's power and toughness until end of turn.\" It's still a land."
 msgstr ""
 
-#: ../../OGW.rst:1098
-#: ../../OGW.rst:1102
-#: ../../OGW.rst:1106
-#: ../../OGW.rst:1109
-msgid "Wastes"
+#: ../../OGW.rst:1097
+msgid ":mtgtip:`Wastes`"
 msgstr ""
 

@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2013-2018, Dominik Kozaczko & Strefa Gry
+# Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../KTK.rst:5
-msgid "Khans of Tarkir"
+msgid ":mtgexp:`KTK` Khans of Tarkir"
 msgstr ""
 
 #: ../../KTK.rst:12
-msgid "Abzan Battle Priest"
+msgid ":mtgtip:`Abzan Battle Priest`"
 msgstr ""
 
 #: ../../KTK.rst:9
@@ -34,7 +34,7 @@ msgid "Each creature you control with a +1/+1 counter on it has lifelink."
 msgstr ""
 
 #: ../../KTK.rst:18
-msgid "Abzan Falconer"
+msgid ":mtgtip:`Abzan Falconer`"
 msgstr ""
 
 #: ../../KTK.rst:17
@@ -42,7 +42,7 @@ msgid "Each creature you control with a +1/+1 counter on it has flying."
 msgstr ""
 
 #: ../../KTK.rst:24
-msgid "Ainok Bond-Kin"
+msgid ":mtgtip:`Ainok Bond-Kin`"
 msgstr ""
 
 #: ../../KTK.rst:21
@@ -55,7 +55,7 @@ msgid "Each creature you control with a +1/+1 counter on it has first strike."
 msgstr ""
 
 #: ../../KTK.rst:28
-msgid "Alabaster Kirin"
+msgid ":mtgtip:`Alabaster Kirin`"
 msgstr ""
 
 #: ../../KTK.rst:27
@@ -63,7 +63,7 @@ msgid "Flying, vigilance"
 msgstr ""
 
 #: ../../KTK.rst:34
-msgid "Brave the Sands"
+msgid ":mtgtip:`Brave the Sands`"
 msgstr ""
 
 #: ../../KTK.rst:31
@@ -75,7 +75,7 @@ msgid "Each creature you control can block an additional creature each combat."
 msgstr ""
 
 #: ../../KTK.rst:40
-msgid "Dazzling Ramparts"
+msgid ":mtgtip:`Dazzling Ramparts`"
 msgstr ""
 
 #: ../../KTK.rst:37
@@ -89,7 +89,7 @@ msgid "|mana_1|\\ |mana_w|, |tap|: Tap target creature."
 msgstr ""
 
 #: ../../KTK.rst:46
-msgid "Defiant Strike"
+msgid ":mtgtip:`Defiant Strike`"
 msgstr ""
 
 #: ../../KTK.rst:43
@@ -103,7 +103,7 @@ msgid "Draw a card."
 msgstr ""
 
 #: ../../KTK.rst:50
-msgid "End Hostilities"
+msgid ":mtgtip:`End Hostilities`"
 msgstr ""
 
 #: ../../KTK.rst:49
@@ -111,7 +111,7 @@ msgid "Destroy all creatures and all permanents attached to creatures."
 msgstr ""
 
 #: ../../KTK.rst:54
-msgid "Erase"
+msgid ":mtgtip:`Erase`"
 msgstr ""
 
 #: ../../KTK.rst:53
@@ -119,7 +119,7 @@ msgid "Exile target enchantment."
 msgstr ""
 
 #: ../../KTK.rst:58
-msgid "Feat of Resistance"
+msgid ":mtgtip:`Feat of Resistance`"
 msgstr ""
 
 #: ../../KTK.rst:57
@@ -127,7 +127,7 @@ msgid "Put a +1/+1 counter on target creature you control. It gains protection f
 msgstr ""
 
 #: ../../KTK.rst:62
-msgid "Firehoof Cavalry"
+msgid ":mtgtip:`Firehoof Cavalry`"
 msgstr ""
 
 #: ../../KTK.rst:61
@@ -135,7 +135,7 @@ msgid "|mana_3|\\ |mana_r|: Firehoof Cavalry gets +2/+0 and gains trample until 
 msgstr ""
 
 #: ../../KTK.rst:68
-msgid "Herald of Anafenza"
+msgid ":mtgtip:`Herald of Anafenza`"
 msgstr ""
 
 #: ../../KTK.rst:65
@@ -147,7 +147,7 @@ msgid "Whenever you activate Herald of Anafenza's outlast ability, create a 1/1 
 msgstr ""
 
 #: ../../KTK.rst:76
-msgid "High Sentinels of Arashin"
+msgid ":mtgtip:`High Sentinels of Arashin`"
 msgstr ""
 
 #: ../../KTK.rst:71
@@ -180,7 +180,7 @@ msgid "|mana_3|\\ |mana_w|: Put a +1/+1 counter on target creature."
 msgstr ""
 
 #: ../../KTK.rst:80
-msgid "Jeskai Student"
+msgid ":mtgtip:`Jeskai Student`"
 msgstr ""
 
 #: ../../KTK.rst:79
@@ -197,7 +197,7 @@ msgid "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 
 msgstr ""
 
 #: ../../KTK.rst:84
-msgid "Kill Shot"
+msgid ":mtgtip:`Kill Shot`"
 msgstr ""
 
 #: ../../KTK.rst:83
@@ -205,7 +205,7 @@ msgid "Destroy target attacking creature."
 msgstr ""
 
 #: ../../KTK.rst:88
-msgid "Mardu Hateblade"
+msgid ":mtgtip:`Mardu Hateblade`"
 msgstr ""
 
 #: ../../KTK.rst:87
@@ -213,7 +213,7 @@ msgid "|mana_b|: Mardu Hateblade gains deathtouch until end of turn. (Any amount
 msgstr ""
 
 #: ../../KTK.rst:92
-msgid "Mardu Hordechief"
+msgid ":mtgtip:`Mardu Hordechief`"
 msgstr ""
 
 #: ../../KTK.rst:91
@@ -221,7 +221,7 @@ msgid "Raid — When Mardu Hordechief enters the battlefield, if you attacked wi
 msgstr ""
 
 #: ../../KTK.rst:98
-msgid "Master of Pearls"
+msgid ":mtgtip:`Master of Pearls`"
 msgstr ""
 
 #: ../../KTK.rst:95
@@ -233,7 +233,7 @@ msgid "When Master of Pearls is turned face up, creatures you control get +2/+2 
 msgstr ""
 
 #: ../../KTK.rst:102
-msgid "Rush of Battle"
+msgid ":mtgtip:`Rush of Battle`"
 msgstr ""
 
 #: ../../KTK.rst:101
@@ -241,7 +241,7 @@ msgid "Creatures you control get +2/+1 until end of turn. Warrior creatures you 
 msgstr ""
 
 #: ../../KTK.rst:108
-msgid "Sage-Eye Harrier"
+msgid ":mtgtip:`Sage-Eye Harrier`"
 msgstr ""
 
 #: ../../KTK.rst:107
@@ -249,11 +249,11 @@ msgid "Morph |mana_3|\\ |mana_w| (You may cast this card face down as a 2/2 crea
 msgstr ""
 
 #: ../../KTK.rst:112
-msgid "Salt Road Patrol"
+msgid ":mtgtip:`Salt Road Patrol`"
 msgstr ""
 
 #: ../../KTK.rst:118
-msgid "Seeker of the Way"
+msgid ":mtgtip:`Seeker of the Way`"
 msgstr ""
 
 #: ../../KTK.rst:117
@@ -261,7 +261,7 @@ msgid "Whenever you cast a noncreature spell, Seeker of the Way gains lifelink u
 msgstr ""
 
 #: ../../KTK.rst:124
-msgid "Siegecraft"
+msgid ":mtgtip:`Siegecraft`"
 msgstr ""
 
 #: ../../KTK.rst:121
@@ -277,7 +277,7 @@ msgid "Enchanted creature gets +2/+4."
 msgstr ""
 
 #: ../../KTK.rst:128
-msgid "Smite the Monstrous"
+msgid ":mtgtip:`Smite the Monstrous`"
 msgstr ""
 
 #: ../../KTK.rst:127
@@ -285,7 +285,7 @@ msgid "Destroy target creature with power 4 or greater."
 msgstr ""
 
 #: ../../KTK.rst:132
-msgid "Suspension Field"
+msgid ":mtgtip:`Suspension Field`"
 msgstr ""
 
 #: ../../KTK.rst:131
@@ -293,7 +293,7 @@ msgid "When Suspension Field enters the battlefield, you may exile target creatu
 msgstr ""
 
 #: ../../KTK.rst:136
-msgid "Take Up Arms"
+msgid ":mtgtip:`Take Up Arms`"
 msgstr ""
 
 #: ../../KTK.rst:135
@@ -301,7 +301,7 @@ msgid "Create three 1/1 white Warrior creature tokens."
 msgstr ""
 
 #: ../../KTK.rst:140
-msgid "Timely Hordemate"
+msgid ":mtgtip:`Timely Hordemate`"
 msgstr ""
 
 #: ../../KTK.rst:139
@@ -309,11 +309,11 @@ msgid "Raid — When Timely Hordemate enters the battlefield, if you attacked wi
 msgstr ""
 
 #: ../../KTK.rst:144
-msgid "Venerable Lammasu"
+msgid ":mtgtip:`Venerable Lammasu`"
 msgstr ""
 
 #: ../../KTK.rst:148
-msgid "War Behemoth"
+msgid ":mtgtip:`War Behemoth`"
 msgstr ""
 
 #: ../../KTK.rst:147
@@ -321,7 +321,7 @@ msgid "Morph |mana_4|\\ |mana_w| (You may cast this card face down as a 2/2 crea
 msgstr ""
 
 #: ../../KTK.rst:156
-msgid "Watcher of the Roost"
+msgid ":mtgtip:`Watcher of the Roost`"
 msgstr ""
 
 #: ../../KTK.rst:153
@@ -333,7 +333,7 @@ msgid "When Watcher of the Roost is turned face up, you gain 2 life."
 msgstr ""
 
 #: ../../KTK.rst:164
-msgid "Wingmate Roc"
+msgid ":mtgtip:`Wingmate Roc`"
 msgstr ""
 
 #: ../../KTK.rst:161
@@ -345,7 +345,7 @@ msgid "Whenever Wingmate Roc attacks, you gain 1 life for each attacking creatur
 msgstr ""
 
 #: ../../KTK.rst:170
-msgid "Blinding Spray"
+msgid ":mtgtip:`Blinding Spray`"
 msgstr ""
 
 #: ../../KTK.rst:167
@@ -353,7 +353,7 @@ msgid "Creatures your opponents control get -4/-0 until end of turn."
 msgstr ""
 
 #: ../../KTK.rst:174
-msgid "Cancel"
+msgid ":mtgtip:`Cancel`"
 msgstr ""
 
 #: ../../KTK.rst:173
@@ -361,7 +361,7 @@ msgid "Counter target spell."
 msgstr ""
 
 #: ../../KTK.rst:178
-msgid "Clever Impersonator"
+msgid ":mtgtip:`Clever Impersonator`"
 msgstr ""
 
 #: ../../KTK.rst:177
@@ -369,7 +369,7 @@ msgid "You may have Clever Impersonator enter the battlefield as a copy of any n
 msgstr ""
 
 #: ../../KTK.rst:184
-msgid "Crippling Chill"
+msgid ":mtgtip:`Crippling Chill`"
 msgstr ""
 
 #: ../../KTK.rst:181
@@ -377,7 +377,7 @@ msgid "Tap target creature. It doesn't untap during its controller's next untap 
 msgstr ""
 
 #: ../../KTK.rst:190
-msgid "Dig Through Time"
+msgid ":mtgtip:`Dig Through Time`"
 msgstr ""
 
 #: ../../KTK.rst:187
@@ -399,7 +399,7 @@ msgid "Look at the top seven cards of your library. Put two of them into your ha
 msgstr ""
 
 #: ../../KTK.rst:194
-msgid "Disdainful Stroke"
+msgid ":mtgtip:`Disdainful Stroke`"
 msgstr ""
 
 #: ../../KTK.rst:193
@@ -407,7 +407,7 @@ msgid "Counter target spell with converted mana cost 4 or greater."
 msgstr ""
 
 #: ../../KTK.rst:200
-msgid "Dragon's Eye Savants"
+msgid ":mtgtip:`Dragon's Eye Savants`"
 msgstr ""
 
 #: ../../KTK.rst:197
@@ -419,7 +419,7 @@ msgid "When Dragon's Eye Savants is turned face up, look at target opponent's ha
 msgstr ""
 
 #: ../../KTK.rst:204
-msgid "Embodiment of Spring"
+msgid ":mtgtip:`Embodiment of Spring`"
 msgstr ""
 
 #: ../../KTK.rst:203
@@ -427,7 +427,7 @@ msgid "|mana_1|\\ |mana_g|, |tap|, Sacrifice Embodiment of Spring: Search your l
 msgstr ""
 
 #: ../../KTK.rst:210
-msgid "Force Away"
+msgid ":mtgtip:`Force Away`"
 msgstr ""
 
 #: ../../KTK.rst:207
@@ -439,7 +439,7 @@ msgid "Ferocious — If you control a creature with power 4 or greater, you may 
 msgstr ""
 
 #: ../../KTK.rst:214
-msgid "Glacial Stalker"
+msgid ":mtgtip:`Glacial Stalker`"
 msgstr ""
 
 #: ../../KTK.rst:213
@@ -447,7 +447,7 @@ msgid "Morph |mana_4|\\ |mana_u| (You may cast this card face down as a 2/2 crea
 msgstr ""
 
 #: ../../KTK.rst:220
-msgid "Icy Blast"
+msgid ":mtgtip:`Icy Blast`"
 msgstr ""
 
 #: ../../KTK.rst:217
@@ -459,7 +459,7 @@ msgid "Ferocious — If you control a creature with power 4 or greater, those cr
 msgstr ""
 
 #: ../../KTK.rst:226
-msgid "Jeskai Elder"
+msgid ":mtgtip:`Jeskai Elder`"
 msgstr ""
 
 #: ../../KTK.rst:225
@@ -467,11 +467,11 @@ msgid "Whenever Jeskai Elder deals combat damage to a player, you may draw a car
 msgstr ""
 
 #: ../../KTK.rst:232
-msgid "Jeskai Windscout"
+msgid ":mtgtip:`Jeskai Windscout`"
 msgstr ""
 
 #: ../../KTK.rst:238
-msgid "Kheru Spellsnatcher"
+msgid ":mtgtip:`Kheru Spellsnatcher`"
 msgstr ""
 
 #: ../../KTK.rst:235
@@ -483,7 +483,7 @@ msgid "When Kheru Spellsnatcher is turned face up, counter target spell. If that
 msgstr ""
 
 #: ../../KTK.rst:246
-msgid "Mistfire Weaver"
+msgid ":mtgtip:`Mistfire Weaver`"
 msgstr ""
 
 #: ../../KTK.rst:243
@@ -496,7 +496,7 @@ msgid "When Mistfire Weaver is turned face up, target creature you control gains
 msgstr ""
 
 #: ../../KTK.rst:252
-msgid "Monastery Flock"
+msgid ":mtgtip:`Monastery Flock`"
 msgstr ""
 
 #: ../../KTK.rst:249
@@ -508,7 +508,7 @@ msgid "Morph |mana_u| (You may cast this card face down as a 2/2 creature for |m
 msgstr ""
 
 #: ../../KTK.rst:258
-msgid "Mystic of the Hidden Way"
+msgid ":mtgtip:`Mystic of the Hidden Way`"
 msgstr ""
 
 #: ../../KTK.rst:255
@@ -516,7 +516,7 @@ msgid "Mystic of the Hidden Way can't be blocked."
 msgstr ""
 
 #: ../../KTK.rst:268
-msgid "Pearl Lake Ancient"
+msgid ":mtgtip:`Pearl Lake Ancient`"
 msgstr ""
 
 #: ../../KTK.rst:261
@@ -534,7 +534,7 @@ msgid "Return three lands you control to their owner's hand: Return Pearl Lake A
 msgstr ""
 
 #: ../../KTK.rst:272
-msgid "Quiet Contemplation"
+msgid ":mtgtip:`Quiet Contemplation`"
 msgstr ""
 
 #: ../../KTK.rst:271
@@ -542,11 +542,11 @@ msgid "Whenever you cast a noncreature spell, you may pay |mana_1|. If you do, t
 msgstr ""
 
 #: ../../KTK.rst:278
-msgid "Riverwheel Aerialists"
+msgid ":mtgtip:`Riverwheel Aerialists`"
 msgstr ""
 
 #: ../../KTK.rst:284
-msgid "Scaldkin"
+msgid ":mtgtip:`Scaldkin`"
 msgstr ""
 
 #: ../../KTK.rst:283
@@ -554,7 +554,7 @@ msgid "|mana_2|\\ |mana_r|, Sacrifice Scaldkin: Scaldkin deals 2 damage to any t
 msgstr ""
 
 #: ../../KTK.rst:288
-msgid "Scion of Glaciers"
+msgid ":mtgtip:`Scion of Glaciers`"
 msgstr ""
 
 #: ../../KTK.rst:287
@@ -562,7 +562,7 @@ msgid "|mana_u|: Scion of Glaciers gets +1/-1 until end of turn."
 msgstr ""
 
 #: ../../KTK.rst:294
-msgid "Set Adrift"
+msgid ":mtgtip:`Set Adrift`"
 msgstr ""
 
 #: ../../KTK.rst:293
@@ -570,7 +570,7 @@ msgid "Put target nonland permanent on top of its owner's library."
 msgstr ""
 
 #: ../../KTK.rst:304
-msgid "Singing Bell Strike"
+msgid ":mtgtip:`Singing Bell Strike`"
 msgstr ""
 
 #: ../../KTK.rst:299
@@ -586,7 +586,7 @@ msgid "Enchanted creature has \"|mana_6|: Untap this creature.\""
 msgstr ""
 
 #: ../../KTK.rst:310
-msgid "Stubborn Denial"
+msgid ":mtgtip:`Stubborn Denial`"
 msgstr ""
 
 #: ../../KTK.rst:307
@@ -598,7 +598,7 @@ msgid "Ferocious — If you control a creature with power 4 or greater, counter 
 msgstr ""
 
 #: ../../KTK.rst:314
-msgid "Taigam's Scheming"
+msgid ":mtgtip:`Taigam's Scheming`"
 msgstr ""
 
 #: ../../KTK.rst:313
@@ -606,7 +606,7 @@ msgid "Look at the top five cards of your library. Put any number of them into y
 msgstr ""
 
 #: ../../KTK.rst:322
-msgid "Thousand Winds"
+msgid ":mtgtip:`Thousand Winds`"
 msgstr ""
 
 #: ../../KTK.rst:319
@@ -618,7 +618,7 @@ msgid "When Thousand Winds is turned face up, return all other tapped creatures 
 msgstr ""
 
 #: ../../KTK.rst:328
-msgid "Treasure Cruise"
+msgid ":mtgtip:`Treasure Cruise`"
 msgstr ""
 
 #: ../../KTK.rst:327
@@ -626,7 +626,7 @@ msgid "Draw three cards."
 msgstr ""
 
 #: ../../KTK.rst:332
-msgid "Waterwhirl"
+msgid ":mtgtip:`Waterwhirl`"
 msgstr ""
 
 #: ../../KTK.rst:331
@@ -634,7 +634,7 @@ msgid "Return up to two target creatures to their owners' hands."
 msgstr ""
 
 #: ../../KTK.rst:336
-msgid "Weave Fate"
+msgid ":mtgtip:`Weave Fate`"
 msgstr ""
 
 #: ../../KTK.rst:335
@@ -643,11 +643,11 @@ msgid "Draw two cards."
 msgstr ""
 
 #: ../../KTK.rst:338
-msgid "Wetland Sambar"
+msgid ":mtgtip:`Wetland Sambar`"
 msgstr ""
 
 #: ../../KTK.rst:346
-msgid "Whirlwind Adept"
+msgid ":mtgtip:`Whirlwind Adept`"
 msgstr ""
 
 #: ../../KTK.rst:343
@@ -655,7 +655,7 @@ msgid "Hexproof (This creature can't be the target of spells or abilities your o
 msgstr ""
 
 #: ../../KTK.rst:350
-msgid "Bellowing Saddlebrute"
+msgid ":mtgtip:`Bellowing Saddlebrute`"
 msgstr ""
 
 #: ../../KTK.rst:349
@@ -663,7 +663,7 @@ msgid "Raid — When Bellowing Saddlebrute enters the battlefield, you lose 4 li
 msgstr ""
 
 #: ../../KTK.rst:354
-msgid "Bitter Revelation"
+msgid ":mtgtip:`Bitter Revelation`"
 msgstr ""
 
 #: ../../KTK.rst:353
@@ -671,7 +671,7 @@ msgid "Look at the top four cards of your library. Put two of them into your han
 msgstr ""
 
 #: ../../KTK.rst:360
-msgid "Bloodsoaked Champion"
+msgid ":mtgtip:`Bloodsoaked Champion`"
 msgstr ""
 
 #: ../../KTK.rst:357
@@ -683,7 +683,7 @@ msgid "Raid — |mana_1|\\ |mana_b|: Return Bloodsoaked Champion from your grave
 msgstr ""
 
 #: ../../KTK.rst:366
-msgid "Dead Drop"
+msgid ":mtgtip:`Dead Drop`"
 msgstr ""
 
 #: ../../KTK.rst:365
@@ -691,7 +691,7 @@ msgid "Target player sacrifices two creatures."
 msgstr ""
 
 #: ../../KTK.rst:372
-msgid "Debilitating Injury"
+msgid ":mtgtip:`Debilitating Injury`"
 msgstr ""
 
 #: ../../KTK.rst:371
@@ -699,7 +699,7 @@ msgid "Enchanted creature gets -2/-2."
 msgstr ""
 
 #: ../../KTK.rst:376
-msgid "Despise"
+msgid ":mtgtip:`Despise`"
 msgstr ""
 
 #: ../../KTK.rst:375
@@ -707,7 +707,7 @@ msgid "Target opponent reveals their hand. You choose a creature or planeswalker
 msgstr ""
 
 #: ../../KTK.rst:380
-msgid "Disowned Ancestor"
+msgid ":mtgtip:`Disowned Ancestor`"
 msgstr ""
 
 #: ../../KTK.rst:379
@@ -715,7 +715,7 @@ msgid "Outlast |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, |tap|: Put a +1/+1 coun
 msgstr ""
 
 #: ../../KTK.rst:384
-msgid "Dutiful Return"
+msgid ":mtgtip:`Dutiful Return`"
 msgstr ""
 
 #: ../../KTK.rst:383
@@ -723,7 +723,7 @@ msgid "Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
 
 #: ../../KTK.rst:390
-msgid "Empty the Pits"
+msgid ":mtgtip:`Empty the Pits`"
 msgstr ""
 
 #: ../../KTK.rst:389
@@ -731,7 +731,7 @@ msgid "Create X tapped 2/2 black Zombie creature tokens."
 msgstr ""
 
 #: ../../KTK.rst:396
-msgid "Grim Haruspex"
+msgid ":mtgtip:`Grim Haruspex`"
 msgstr ""
 
 #: ../../KTK.rst:393
@@ -743,7 +743,7 @@ msgid "Whenever another nontoken creature you control dies, draw a card."
 msgstr ""
 
 #: ../../KTK.rst:400
-msgid "Gurmag Swiftwing"
+msgid ":mtgtip:`Gurmag Swiftwing`"
 msgstr ""
 
 #: ../../KTK.rst:399
@@ -751,7 +751,7 @@ msgid "Flying, first strike, haste"
 msgstr ""
 
 #: ../../KTK.rst:406
-msgid "Kheru Bloodsucker"
+msgid ":mtgtip:`Kheru Bloodsucker`"
 msgstr ""
 
 #: ../../KTK.rst:403
@@ -763,7 +763,7 @@ msgid "|mana_2|\\ |mana_b|, Sacrifice another creature: Put a +1/+1 counter on K
 msgstr ""
 
 #: ../../KTK.rst:412
-msgid "Kheru Dreadmaw"
+msgid ":mtgtip:`Kheru Dreadmaw`"
 msgstr ""
 
 #: ../../KTK.rst:411
@@ -771,7 +771,7 @@ msgid "|mana_1|\\ |mana_g|, Sacrifice another creature: You gain life equal to t
 msgstr ""
 
 #: ../../KTK.rst:416
-msgid "Krumar Bond-Kin"
+msgid ":mtgtip:`Krumar Bond-Kin`"
 msgstr ""
 
 #: ../../KTK.rst:415
@@ -779,7 +779,7 @@ msgid "Morph |mana_4|\\ |mana_b| (You may cast this card face down as a 2/2 crea
 msgstr ""
 
 #: ../../KTK.rst:422
-msgid "Mardu Skullhunter"
+msgid ":mtgtip:`Mardu Skullhunter`"
 msgstr ""
 
 #: ../../KTK.rst:419
@@ -791,7 +791,7 @@ msgid "Raid — When Mardu Skullhunter enters the battlefield, if you attacked w
 msgstr ""
 
 #: ../../KTK.rst:428
-msgid "Mer-Ek Nightblade"
+msgid ":mtgtip:`Mer-Ek Nightblade`"
 msgstr ""
 
 #: ../../KTK.rst:425
@@ -803,7 +803,7 @@ msgid "Each creature you control with a +1/+1 counter on it has deathtouch."
 msgstr ""
 
 #: ../../KTK.rst:434
-msgid "Molting Snakeskin"
+msgid ":mtgtip:`Molting Snakeskin`"
 msgstr ""
 
 #: ../../KTK.rst:433
@@ -811,7 +811,7 @@ msgid "Enchanted creature gets +2/+0 and has \"|mana_2|\\ |mana_b|: Regenerate t
 msgstr ""
 
 #: ../../KTK.rst:440
-msgid "Murderous Cut"
+msgid ":mtgtip:`Murderous Cut`"
 msgstr ""
 
 #: ../../KTK.rst:439
@@ -819,7 +819,7 @@ msgid "Destroy target creature."
 msgstr ""
 
 #: ../../KTK.rst:448
-msgid "Necropolis Fiend"
+msgid ":mtgtip:`Necropolis Fiend`"
 msgstr ""
 
 #: ../../KTK.rst:447
@@ -827,7 +827,7 @@ msgid "|mana_x|, |tap|, Exile X cards from your graveyard: Target creature gets 
 msgstr ""
 
 #: ../../KTK.rst:454
-msgid "Raiders' Spoils"
+msgid ":mtgtip:`Raiders' Spoils`"
 msgstr ""
 
 #: ../../KTK.rst:451
@@ -839,7 +839,7 @@ msgid "Whenever a Warrior you control deals combat damage to a player, you may p
 msgstr ""
 
 #: ../../KTK.rst:458
-msgid "Rakshasa's Secret"
+msgid ":mtgtip:`Rakshasa's Secret`"
 msgstr ""
 
 #: ../../KTK.rst:457
@@ -847,7 +847,7 @@ msgid "Target opponent discards two cards. Put the top two cards of your library
 msgstr ""
 
 #: ../../KTK.rst:462
-msgid "Retribution of the Ancients"
+msgid ":mtgtip:`Retribution of the Ancients`"
 msgstr ""
 
 #: ../../KTK.rst:461
@@ -855,7 +855,7 @@ msgid "|mana_b|, Remove X +1/+1 counters from among creatures you control: Targe
 msgstr ""
 
 #: ../../KTK.rst:466
-msgid "Rite of the Serpent"
+msgid ":mtgtip:`Rite of the Serpent`"
 msgstr ""
 
 #: ../../KTK.rst:465
@@ -863,11 +863,11 @@ msgid "Destroy target creature. If that creature had a +1/+1 counter on it, crea
 msgstr ""
 
 #: ../../KTK.rst:468
-msgid "Rotting Mastodon"
+msgid ":mtgtip:`Rotting Mastodon`"
 msgstr ""
 
 #: ../../KTK.rst:478
-msgid "Ruthless Ripper"
+msgid ":mtgtip:`Ruthless Ripper`"
 msgstr ""
 
 #: ../../KTK.rst:473
@@ -884,7 +884,7 @@ msgid "When Ruthless Ripper is turned face up, target player loses 2 life."
 msgstr ""
 
 #: ../../KTK.rst:484
-msgid "Shambling Attendants"
+msgid ":mtgtip:`Shambling Attendants`"
 msgstr ""
 
 #: ../../KTK.rst:483
@@ -892,7 +892,7 @@ msgid "Deathtouch (Any amount of damage this deals to a creature is enough to de
 msgstr ""
 
 #: ../../KTK.rst:490
-msgid "Sidisi's Pet"
+msgid ":mtgtip:`Sidisi's Pet`"
 msgstr ""
 
 #: ../../KTK.rst:487
@@ -905,11 +905,11 @@ msgid "Morph |mana_1|\\ |mana_b| (You may cast this card face down as a 2/2 crea
 msgstr ""
 
 #: ../../KTK.rst:496
-msgid "Sultai Scavenger"
+msgid ":mtgtip:`Sultai Scavenger`"
 msgstr ""
 
 #: ../../KTK.rst:504
-msgid "Swarm of Bloodflies"
+msgid ":mtgtip:`Swarm of Bloodflies`"
 msgstr ""
 
 #: ../../KTK.rst:501
@@ -921,7 +921,7 @@ msgid "Whenever another creature dies, put a +1/+1 counter on Swarm of Bloodflie
 msgstr ""
 
 #: ../../KTK.rst:508
-msgid "Throttle"
+msgid ":mtgtip:`Throttle`"
 msgstr ""
 
 #: ../../KTK.rst:507
@@ -929,7 +929,7 @@ msgid "Target creature gets -4/-4 until end of turn."
 msgstr ""
 
 #: ../../KTK.rst:512
-msgid "Unyielding Krumar"
+msgid ":mtgtip:`Unyielding Krumar`"
 msgstr ""
 
 #: ../../KTK.rst:511
@@ -937,7 +937,7 @@ msgid "|mana_1|\\ |mana_w|: Unyielding Krumar gains first strike until end of tu
 msgstr ""
 
 #: ../../KTK.rst:516
-msgid "Act of Treason"
+msgid ":mtgtip:`Act of Treason`"
 msgstr ""
 
 #: ../../KTK.rst:515
@@ -945,7 +945,7 @@ msgid "Gain control of target creature until end of turn. Untap that creature. I
 msgstr ""
 
 #: ../../KTK.rst:522
-msgid "Ainok Tracker"
+msgid ":mtgtip:`Ainok Tracker`"
 msgstr ""
 
 #: ../../KTK.rst:519
@@ -958,7 +958,7 @@ msgid "Morph |mana_4|\\ |mana_r| (You may cast this card face down as a 2/2 crea
 msgstr ""
 
 #: ../../KTK.rst:526
-msgid "Arc Lightning"
+msgid ":mtgtip:`Arc Lightning`"
 msgstr ""
 
 #: ../../KTK.rst:525
@@ -966,7 +966,7 @@ msgid "Arc Lightning deals 3 damage divided as you choose among one, two, or thr
 msgstr ""
 
 #: ../../KTK.rst:532
-msgid "Arrow Storm"
+msgid ":mtgtip:`Arrow Storm`"
 msgstr ""
 
 #: ../../KTK.rst:529
@@ -978,7 +978,7 @@ msgid "Raid — If you attacked with a creature this turn, instead Arrow Storm d
 msgstr ""
 
 #: ../../KTK.rst:542
-msgid "Ashcloud Phoenix"
+msgid ":mtgtip:`Ashcloud Phoenix`"
 msgstr ""
 
 #: ../../KTK.rst:537
@@ -994,7 +994,7 @@ msgid "When Ashcloud Phoenix is turned face up, it deals 2 damage to each player
 msgstr ""
 
 #: ../../KTK.rst:548
-msgid "Barrage of Boulders"
+msgid ":mtgtip:`Barrage of Boulders`"
 msgstr ""
 
 #: ../../KTK.rst:545
@@ -1006,11 +1006,11 @@ msgid "Ferocious — If you control a creature with power 4 or greater, creature
 msgstr ""
 
 #: ../../KTK.rst:552
-msgid "Bloodfire Expert"
+msgid ":mtgtip:`Bloodfire Expert`"
 msgstr ""
 
 #: ../../KTK.rst:556
-msgid "Bloodfire Mentor"
+msgid ":mtgtip:`Bloodfire Mentor`"
 msgstr ""
 
 #: ../../KTK.rst:555
@@ -1018,7 +1018,7 @@ msgid "|mana_2|\\ |mana_u|, |tap|: Draw a card, then discard a card."
 msgstr ""
 
 #: ../../KTK.rst:560
-msgid "Bring Low"
+msgid ":mtgtip:`Bring Low`"
 msgstr ""
 
 #: ../../KTK.rst:559
@@ -1026,7 +1026,7 @@ msgid "Bring Low deals 3 damage to target creature. If that creature has a +1/+1
 msgstr ""
 
 #: ../../KTK.rst:564
-msgid "Burn Away"
+msgid ":mtgtip:`Burn Away`"
 msgstr ""
 
 #: ../../KTK.rst:563
@@ -1034,7 +1034,7 @@ msgid "Burn Away deals 6 damage to target creature. When that creature dies this
 msgstr ""
 
 #: ../../KTK.rst:568
-msgid "Canyon Lurkers"
+msgid ":mtgtip:`Canyon Lurkers`"
 msgstr ""
 
 #: ../../KTK.rst:567
@@ -1042,7 +1042,7 @@ msgid "Morph |mana_3|\\ |mana_r| (You may cast this card face down as a 2/2 crea
 msgstr ""
 
 #: ../../KTK.rst:574
-msgid "Crater's Claws"
+msgid ":mtgtip:`Crater's Claws`"
 msgstr ""
 
 #: ../../KTK.rst:571
@@ -1054,7 +1054,7 @@ msgid "Ferocious — Crater's Claws deals X plus 2 damage to that permanent or p
 msgstr ""
 
 #: ../../KTK.rst:582
-msgid "Dragon Grip"
+msgid ":mtgtip:`Dragon Grip`"
 msgstr ""
 
 #: ../../KTK.rst:577
@@ -1066,7 +1066,7 @@ msgid "Enchanted creature gets +2/+0 and has first strike."
 msgstr ""
 
 #: ../../KTK.rst:588
-msgid "Dragon-Style Twins"
+msgid ":mtgtip:`Dragon-Style Twins`"
 msgstr ""
 
 #: ../../KTK.rst:585
@@ -1074,7 +1074,7 @@ msgid "Double strike"
 msgstr ""
 
 #: ../../KTK.rst:592
-msgid "Goblinslide"
+msgid ":mtgtip:`Goblinslide`"
 msgstr ""
 
 #: ../../KTK.rst:591
@@ -1082,7 +1082,7 @@ msgid "Whenever you cast a noncreature spell, you may pay |mana_1|. If you do, c
 msgstr ""
 
 #: ../../KTK.rst:600
-msgid "Horde Ambusher"
+msgid ":mtgtip:`Horde Ambusher`"
 msgstr ""
 
 #: ../../KTK.rst:595
@@ -1098,7 +1098,7 @@ msgid "When Horde Ambusher is turned face up, target creature can't block this t
 msgstr ""
 
 #: ../../KTK.rst:604
-msgid "Hordeling Outburst"
+msgid ":mtgtip:`Hordeling Outburst`"
 msgstr ""
 
 #: ../../KTK.rst:603
@@ -1106,7 +1106,7 @@ msgid "Create three 1/1 red Goblin creature tokens."
 msgstr ""
 
 #: ../../KTK.rst:610
-msgid "Howl of the Horde"
+msgid ":mtgtip:`Howl of the Horde`"
 msgstr ""
 
 #: ../../KTK.rst:607
@@ -1118,7 +1118,7 @@ msgid "Raid — If you attacked with a creature this turn, when you cast your ne
 msgstr ""
 
 #: ../../KTK.rst:616
-msgid "Jeering Instigator"
+msgid ":mtgtip:`Jeering Instigator`"
 msgstr ""
 
 #: ../../KTK.rst:613
@@ -1130,7 +1130,7 @@ msgid "When Jeering Instigator is turned face up, if it's your turn, gain contro
 msgstr ""
 
 #: ../../KTK.rst:620
-msgid "Leaping Master"
+msgid ":mtgtip:`Leaping Master`"
 msgstr ""
 
 #: ../../KTK.rst:619
@@ -1138,7 +1138,7 @@ msgid "|mana_2|\\ |mana_w|: Leaping Master gains flying until end of turn."
 msgstr ""
 
 #: ../../KTK.rst:624
-msgid "Mardu Blazebringer"
+msgid ":mtgtip:`Mardu Blazebringer`"
 msgstr ""
 
 #: ../../KTK.rst:623
@@ -1146,7 +1146,7 @@ msgid "When Mardu Blazebringer attacks or blocks, sacrifice it at end of combat.
 msgstr ""
 
 #: ../../KTK.rst:628
-msgid "Mardu Heart-Piercer"
+msgid ":mtgtip:`Mardu Heart-Piercer`"
 msgstr ""
 
 #: ../../KTK.rst:627
@@ -1154,7 +1154,7 @@ msgid "Raid — When Mardu Heart-Piercer enters the battlefield, if you attacked
 msgstr ""
 
 #: ../../KTK.rst:632
-msgid "Mardu Warshrieker"
+msgid ":mtgtip:`Mardu Warshrieker`"
 msgstr ""
 
 #: ../../KTK.rst:631
@@ -1162,7 +1162,7 @@ msgid "Raid — When Mardu Warshrieker enters the battlefield, if you attacked w
 msgstr ""
 
 #: ../../KTK.rst:638
-msgid "Monastery Swiftspear"
+msgid ":mtgtip:`Monastery Swiftspear`"
 msgstr ""
 
 #: ../../KTK.rst:635
@@ -1173,7 +1173,7 @@ msgid "Haste"
 msgstr ""
 
 #: ../../KTK.rst:646
-msgid "Sarkhan, the Dragonspeaker"
+msgid ":mtgtip:`Sarkhan, the Dragonspeaker`"
 msgstr ""
 
 #: ../../KTK.rst:641
@@ -1189,7 +1189,7 @@ msgid "−6: You get an emblem with \"At the beginning of your draw step, draw t
 msgstr ""
 
 #: ../../KTK.rst:650
-msgid "Shatter"
+msgid ":mtgtip:`Shatter`"
 msgstr ""
 
 #: ../../KTK.rst:649
@@ -1197,11 +1197,11 @@ msgid "Destroy target artifact."
 msgstr ""
 
 #: ../../KTK.rst:652
-msgid "Summit Prowler"
+msgid ":mtgtip:`Summit Prowler`"
 msgstr ""
 
 #: ../../KTK.rst:658
-msgid "Swift Kick"
+msgid ":mtgtip:`Swift Kick`"
 msgstr ""
 
 #: ../../KTK.rst:657
@@ -1209,7 +1209,7 @@ msgid "Target creature you control gets +1/+0 until end of turn. It fights targe
 msgstr ""
 
 #: ../../KTK.rst:664
-msgid "Tormenting Voice"
+msgid ":mtgtip:`Tormenting Voice`"
 msgstr ""
 
 #: ../../KTK.rst:661
@@ -1217,7 +1217,7 @@ msgid "As an additional cost to cast this spell, discard a card."
 msgstr ""
 
 #: ../../KTK.rst:668
-msgid "Trumpet Blast"
+msgid ":mtgtip:`Trumpet Blast`"
 msgstr ""
 
 #: ../../KTK.rst:667
@@ -1225,7 +1225,7 @@ msgid "Attacking creatures get +2/+0 until end of turn."
 msgstr ""
 
 #: ../../KTK.rst:674
-msgid "Valley Dasher"
+msgid ":mtgtip:`Valley Dasher`"
 msgstr ""
 
 #: ../../KTK.rst:673
@@ -1233,7 +1233,7 @@ msgid "Valley Dasher attacks each combat if able."
 msgstr ""
 
 #: ../../KTK.rst:680
-msgid "War-Name Aspirant"
+msgid ":mtgtip:`War-Name Aspirant`"
 msgstr ""
 
 #: ../../KTK.rst:677
@@ -1245,11 +1245,11 @@ msgid "War-Name Aspirant can't be blocked by creatures with power 1 or less."
 msgstr ""
 
 #: ../../KTK.rst:682
-msgid "Alpine Grizzly"
+msgid ":mtgtip:`Alpine Grizzly`"
 msgstr ""
 
 #: ../../KTK.rst:690
-msgid "Archers' Parapet"
+msgid ":mtgtip:`Archers' Parapet`"
 msgstr ""
 
 #: ../../KTK.rst:689
@@ -1257,7 +1257,7 @@ msgid "|mana_1|\\ |mana_b|, |tap|: Each opponent loses 1 life."
 msgstr ""
 
 #: ../../KTK.rst:694
-msgid "Awaken the Bear"
+msgid ":mtgtip:`Awaken the Bear`"
 msgstr ""
 
 #: ../../KTK.rst:693
@@ -1265,7 +1265,7 @@ msgid "Target creature gets +3/+3 and gains trample until end of turn."
 msgstr ""
 
 #: ../../KTK.rst:700
-msgid "Become Immense"
+msgid ":mtgtip:`Become Immense`"
 msgstr ""
 
 #: ../../KTK.rst:699
@@ -1273,7 +1273,7 @@ msgid "Target creature gets +6/+6 until end of turn."
 msgstr ""
 
 #: ../../KTK.rst:704
-msgid "Dragonscale Boon"
+msgid ":mtgtip:`Dragonscale Boon`"
 msgstr ""
 
 #: ../../KTK.rst:703
@@ -1281,7 +1281,7 @@ msgid "Put two +1/+1 counters on target creature and untap it."
 msgstr ""
 
 #: ../../KTK.rst:710
-msgid "Feed the Clan"
+msgid ":mtgtip:`Feed the Clan`"
 msgstr ""
 
 #: ../../KTK.rst:707
@@ -1293,7 +1293,7 @@ msgid "Ferocious — You gain 10 life instead if you control a creature with pow
 msgstr ""
 
 #: ../../KTK.rst:714
-msgid "Hardened Scales"
+msgid ":mtgtip:`Hardened Scales`"
 msgstr ""
 
 #: ../../KTK.rst:713
@@ -1301,7 +1301,7 @@ msgid "If one or more +1/+1 counters would be put on a creature you control, tha
 msgstr ""
 
 #: ../../KTK.rst:720
-msgid "Heir of the Wilds"
+msgid ":mtgtip:`Heir of the Wilds`"
 msgstr ""
 
 #: ../../KTK.rst:719
@@ -1309,7 +1309,7 @@ msgid "Ferocious — Whenever Heir of the Wilds attacks, if you control a creatu
 msgstr ""
 
 #: ../../KTK.rst:724
-msgid "Highland Game"
+msgid ":mtgtip:`Highland Game`"
 msgstr ""
 
 #: ../../KTK.rst:723
@@ -1317,7 +1317,7 @@ msgid "When Highland Game dies, you gain 2 life."
 msgstr ""
 
 #: ../../KTK.rst:734
-msgid "Hooded Hydra"
+msgid ":mtgtip:`Hooded Hydra`"
 msgstr ""
 
 #: ../../KTK.rst:727
@@ -1337,7 +1337,7 @@ msgid "As Hooded Hydra is turned face up, put five +1/+1 counters on it."
 msgstr ""
 
 #: ../../KTK.rst:740
-msgid "Hooting Mandrills"
+msgid ":mtgtip:`Hooting Mandrills`"
 msgstr ""
 
 #: ../../KTK.rst:739
@@ -1347,7 +1347,7 @@ msgid "Trample"
 msgstr ""
 
 #: ../../KTK.rst:744
-msgid "Incremental Growth"
+msgid ":mtgtip:`Incremental Growth`"
 msgstr ""
 
 #: ../../KTK.rst:743
@@ -1355,7 +1355,7 @@ msgid "Put a +1/+1 counter on target creature, two +1/+1 counters on another tar
 msgstr ""
 
 #: ../../KTK.rst:750
-msgid "Kin-Tree Warden"
+msgid ":mtgtip:`Kin-Tree Warden`"
 msgstr ""
 
 #: ../../KTK.rst:747
@@ -1367,7 +1367,7 @@ msgid "Morph |mana_g| (You may cast this card face down as a 2/2 creature for |m
 msgstr ""
 
 #: ../../KTK.rst:756
-msgid "Longshot Squad"
+msgid ":mtgtip:`Longshot Squad`"
 msgstr ""
 
 #: ../../KTK.rst:753
@@ -1379,7 +1379,7 @@ msgid "Each creature you control with a +1/+1 counter on it has reach. (A creatu
 msgstr ""
 
 #: ../../KTK.rst:762
-msgid "Meandering Towershell"
+msgid ":mtgtip:`Meandering Towershell`"
 msgstr ""
 
 #: ../../KTK.rst:759
@@ -1391,7 +1391,7 @@ msgid "Whenever Meandering Towershell attacks, exile it. Return it to the battle
 msgstr ""
 
 #: ../../KTK.rst:766
-msgid "Naturalize"
+msgid ":mtgtip:`Naturalize`"
 msgstr ""
 
 #: ../../KTK.rst:765
@@ -1400,7 +1400,7 @@ msgid "Destroy target artifact or enchantment."
 msgstr ""
 
 #: ../../KTK.rst:772
-msgid "Pine Walker"
+msgid ":mtgtip:`Pine Walker`"
 msgstr ""
 
 #: ../../KTK.rst:769
@@ -1413,7 +1413,7 @@ msgid "Whenever Pine Walker or another creature you control is turned face up, u
 msgstr ""
 
 #: ../../KTK.rst:780
-msgid "Rattleclaw Mystic"
+msgid ":mtgtip:`Rattleclaw Mystic`"
 msgstr ""
 
 #: ../../KTK.rst:775
@@ -1431,7 +1431,7 @@ msgid "When Rattleclaw Mystic is turned face up, add |mana_g|\\ |mana_u|\\ |mana
 msgstr ""
 
 #: ../../KTK.rst:786
-msgid "Roar of Challenge"
+msgid ":mtgtip:`Roar of Challenge`"
 msgstr ""
 
 #: ../../KTK.rst:783
@@ -1443,7 +1443,7 @@ msgid "Ferocious — That creature gains indestructible until end of turn if you
 msgstr ""
 
 #: ../../KTK.rst:792
-msgid "Sagu Archer"
+msgid ":mtgtip:`Sagu Archer`"
 msgstr ""
 
 #: ../../KTK.rst:789
@@ -1451,7 +1451,7 @@ msgid "Reach (This creature can block creatures with flying.)"
 msgstr ""
 
 #: ../../KTK.rst:798
-msgid "Savage Punch"
+msgid ":mtgtip:`Savage Punch`"
 msgstr ""
 
 #: ../../KTK.rst:795
@@ -1463,7 +1463,7 @@ msgid "Ferocious — The creature you control gets +2/+2 until end of turn befor
 msgstr ""
 
 #: ../../KTK.rst:802
-msgid "Scout the Borders"
+msgid ":mtgtip:`Scout the Borders`"
 msgstr ""
 
 #: ../../KTK.rst:801
@@ -1471,7 +1471,7 @@ msgid "Reveal the top five cards of your library. You may put a creature or land
 msgstr ""
 
 #: ../../KTK.rst:808
-msgid "See the Unwritten"
+msgid ":mtgtip:`See the Unwritten`"
 msgstr ""
 
 #: ../../KTK.rst:805
@@ -1483,7 +1483,7 @@ msgid "Ferocious — If you control a creature with power 4 or greater, you may 
 msgstr ""
 
 #: ../../KTK.rst:812
-msgid "Seek the Horizon"
+msgid ":mtgtip:`Seek the Horizon`"
 msgstr ""
 
 #: ../../KTK.rst:811
@@ -1491,7 +1491,7 @@ msgid "Search your library for up to three basic land cards, reveal them, and pu
 msgstr ""
 
 #: ../../KTK.rst:816
-msgid "Smoke Teller"
+msgid ":mtgtip:`Smoke Teller`"
 msgstr ""
 
 #: ../../KTK.rst:815
@@ -1499,7 +1499,7 @@ msgid "|mana_1|\\ |mana_u|: Look at target face-down creature."
 msgstr ""
 
 #: ../../KTK.rst:820
-msgid "Sultai Flayer"
+msgid ":mtgtip:`Sultai Flayer`"
 msgstr ""
 
 #: ../../KTK.rst:819
@@ -1507,7 +1507,7 @@ msgid "Whenever a creature you control with toughness 4 or greater dies, you gai
 msgstr ""
 
 #: ../../KTK.rst:826
-msgid "Temur Charger"
+msgid ":mtgtip:`Temur Charger`"
 msgstr ""
 
 #: ../../KTK.rst:823
@@ -1519,7 +1519,7 @@ msgid "When Temur Charger is turned face up, target creature gains trample until
 msgstr ""
 
 #: ../../KTK.rst:832
-msgid "Trail of Mystery"
+msgid ":mtgtip:`Trail of Mystery`"
 msgstr ""
 
 #: ../../KTK.rst:829
@@ -1531,11 +1531,11 @@ msgid "Whenever a permanent you control is turned face up, if it's a creature, i
 msgstr ""
 
 #: ../../KTK.rst:834
-msgid "Tusked Colossodon"
+msgid ":mtgtip:`Tusked Colossodon`"
 msgstr ""
 
 #: ../../KTK.rst:842
-msgid "Tuskguard Captain"
+msgid ":mtgtip:`Tuskguard Captain`"
 msgstr ""
 
 #: ../../KTK.rst:839
@@ -1547,7 +1547,7 @@ msgid "Each creature you control with a +1/+1 counter on it has trample."
 msgstr ""
 
 #: ../../KTK.rst:846
-msgid "Windstorm"
+msgid ":mtgtip:`Windstorm`"
 msgstr ""
 
 #: ../../KTK.rst:845
@@ -1555,7 +1555,7 @@ msgid "Windstorm deals X damage to each creature with flying."
 msgstr ""
 
 #: ../../KTK.rst:850
-msgid "Woolly Loxodon"
+msgid ":mtgtip:`Woolly Loxodon`"
 msgstr ""
 
 #: ../../KTK.rst:849
@@ -1563,7 +1563,7 @@ msgid "Morph |mana_5|\\ |mana_g| (You may cast this card face down as a 2/2 crea
 msgstr ""
 
 #: ../../KTK.rst:858
-msgid "Abomination of Gudul"
+msgid ":mtgtip:`Abomination of Gudul`"
 msgstr ""
 
 #: ../../KTK.rst:855
@@ -1575,7 +1575,7 @@ msgid "Morph |mana_2|\\ |mana_b|\\ |mana_g|\\ |mana_u| (You may cast this card f
 msgstr ""
 
 #: ../../KTK.rst:864
-msgid "Abzan Ascendancy"
+msgid ":mtgtip:`Abzan Ascendancy`"
 msgstr ""
 
 #: ../../KTK.rst:861
@@ -1587,7 +1587,7 @@ msgid "Whenever a nontoken creature you control dies, create a 1/1 white Spirit 
 msgstr ""
 
 #: ../../KTK.rst:874
-msgid "Abzan Charm"
+msgid ":mtgtip:`Abzan Charm`"
 msgstr ""
 
 #: ../../KTK.rst:867
@@ -1611,7 +1611,7 @@ msgid "Distribute two +1/+1 counters among one or two target creatures."
 msgstr ""
 
 #: ../../KTK.rst:880
-msgid "Abzan Guide"
+msgid ":mtgtip:`Abzan Guide`"
 msgstr ""
 
 #: ../../KTK.rst:879
@@ -1619,7 +1619,7 @@ msgid "Morph |mana_2|\\ |mana_w|\\ |mana_b|\\ |mana_g| (You may cast this card f
 msgstr ""
 
 #: ../../KTK.rst:886
-msgid "Anafenza, the Foremost"
+msgid ":mtgtip:`Anafenza, the Foremost`"
 msgstr ""
 
 #: ../../KTK.rst:883
@@ -1631,7 +1631,7 @@ msgid "If a nontoken creature an opponent owns would die or a creature card not 
 msgstr ""
 
 #: ../../KTK.rst:892
-msgid "Ankle Shanker"
+msgid ":mtgtip:`Ankle Shanker`"
 msgstr ""
 
 #: ../../KTK.rst:891
@@ -1639,7 +1639,7 @@ msgid "Whenever Ankle Shanker attacks, creatures you control gain first strike a
 msgstr ""
 
 #: ../../KTK.rst:896
-msgid "Armament Corps"
+msgid ":mtgtip:`Armament Corps`"
 msgstr ""
 
 #: ../../KTK.rst:895
@@ -1647,7 +1647,7 @@ msgid "When Armament Corps enters the battlefield, distribute two +1/+1 counters
 msgstr ""
 
 #: ../../KTK.rst:900
-msgid "Avalanche Tusker"
+msgid ":mtgtip:`Avalanche Tusker`"
 msgstr ""
 
 #: ../../KTK.rst:899
@@ -1655,7 +1655,7 @@ msgid "Whenever Avalanche Tusker attacks, target creature defending player contr
 msgstr ""
 
 #: ../../KTK.rst:904
-msgid "Bear's Companion"
+msgid ":mtgtip:`Bear's Companion`"
 msgstr ""
 
 #: ../../KTK.rst:903
@@ -1663,7 +1663,7 @@ msgid "When Bear's Companion enters the battlefield, create a 4/4 green Bear cre
 msgstr ""
 
 #: ../../KTK.rst:910
-msgid "Butcher of the Horde"
+msgid ":mtgtip:`Butcher of the Horde`"
 msgstr ""
 
 #: ../../KTK.rst:909
@@ -1671,7 +1671,7 @@ msgid "Sacrifice another creature: Butcher of the Horde gains your choice of vig
 msgstr ""
 
 #: ../../KTK.rst:914
-msgid "Chief of the Edge"
+msgid ":mtgtip:`Chief of the Edge`"
 msgstr ""
 
 #: ../../KTK.rst:913
@@ -1679,7 +1679,7 @@ msgid "Other Warrior creatures you control get +1/+0."
 msgstr ""
 
 #: ../../KTK.rst:918
-msgid "Chief of the Scale"
+msgid ":mtgtip:`Chief of the Scale`"
 msgstr ""
 
 #: ../../KTK.rst:917
@@ -1687,7 +1687,7 @@ msgid "Other Warrior creatures you control get +0/+1."
 msgstr ""
 
 #: ../../KTK.rst:922
-msgid "Crackling Doom"
+msgid ":mtgtip:`Crackling Doom`"
 msgstr ""
 
 #: ../../KTK.rst:921
@@ -1695,7 +1695,7 @@ msgid "Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices 
 msgstr ""
 
 #: ../../KTK.rst:926
-msgid "Death Frenzy"
+msgid ":mtgtip:`Death Frenzy`"
 msgstr ""
 
 #: ../../KTK.rst:925
@@ -1703,7 +1703,7 @@ msgid "All creatures get -2/-2 until end of turn. Whenever a creature dies this 
 msgstr ""
 
 #: ../../KTK.rst:930
-msgid "Deflecting Palm"
+msgid ":mtgtip:`Deflecting Palm`"
 msgstr ""
 
 #: ../../KTK.rst:929
@@ -1711,7 +1711,7 @@ msgid "The next time a source of your choice would deal damage to you this turn,
 msgstr ""
 
 #: ../../KTK.rst:934
-msgid "Duneblast"
+msgid ":mtgtip:`Duneblast`"
 msgstr ""
 
 #: ../../KTK.rst:933
@@ -1719,7 +1719,7 @@ msgid "Choose up to one creature. Destroy the rest."
 msgstr ""
 
 #: ../../KTK.rst:942
-msgid "Efreet Weaponmaster"
+msgid ":mtgtip:`Efreet Weaponmaster`"
 msgstr ""
 
 #: ../../KTK.rst:939
@@ -1731,7 +1731,7 @@ msgid "Morph |mana_2|\\ |mana_u|\\ |mana_r|\\ |mana_w| (You may cast this card f
 msgstr ""
 
 #: ../../KTK.rst:946
-msgid "Flying Crane Technique"
+msgid ":mtgtip:`Flying Crane Technique`"
 msgstr ""
 
 #: ../../KTK.rst:945
@@ -1739,7 +1739,7 @@ msgid "Untap all creatures you control. They gain flying and double strike until
 msgstr ""
 
 #: ../../KTK.rst:950
-msgid "Highspire Mantis"
+msgid ":mtgtip:`Highspire Mantis`"
 msgstr ""
 
 #: ../../KTK.rst:949
@@ -1747,7 +1747,7 @@ msgid "Flying, trample"
 msgstr ""
 
 #: ../../KTK.rst:958
-msgid "Icefeather Aven"
+msgid ":mtgtip:`Icefeather Aven`"
 msgstr ""
 
 #: ../../KTK.rst:955
@@ -1759,7 +1759,7 @@ msgid "When Icefeather Aven is turned face up, you may return another target cre
 msgstr ""
 
 #: ../../KTK.rst:962
-msgid "Ivorytusk Fortress"
+msgid ":mtgtip:`Ivorytusk Fortress`"
 msgstr ""
 
 #: ../../KTK.rst:961
@@ -1767,7 +1767,7 @@ msgid "Untap each creature you control with a +1/+1 counter on it during each ot
 msgstr ""
 
 #: ../../KTK.rst:968
-msgid "Jeskai Ascendancy"
+msgid ":mtgtip:`Jeskai Ascendancy`"
 msgstr ""
 
 #: ../../KTK.rst:965
@@ -1779,7 +1779,7 @@ msgid "Whenever you cast a noncreature spell, you may draw a card. If you do, di
 msgstr ""
 
 #: ../../KTK.rst:978
-msgid "Jeskai Charm"
+msgid ":mtgtip:`Jeskai Charm`"
 msgstr ""
 
 #: ../../KTK.rst:973
@@ -1795,7 +1795,7 @@ msgid "Creatures you control get +1/+1 and gain lifelink until end of turn."
 msgstr ""
 
 #: ../../KTK.rst:982
-msgid "Kheru Lich Lord"
+msgid ":mtgtip:`Kheru Lich Lord`"
 msgstr ""
 
 #: ../../KTK.rst:981
@@ -1803,7 +1803,7 @@ msgid "At the beginning of your upkeep, you may pay |mana_2|\\ |mana_b|. If you 
 msgstr ""
 
 #: ../../KTK.rst:986
-msgid "Kin-Tree Invocation"
+msgid ":mtgtip:`Kin-Tree Invocation`"
 msgstr ""
 
 #: ../../KTK.rst:985
@@ -1811,7 +1811,7 @@ msgid "Create an X/X black and green Spirit Warrior creature token, where X is t
 msgstr ""
 
 #: ../../KTK.rst:990
-msgid "Mantis Rider"
+msgid ":mtgtip:`Mantis Rider`"
 msgstr ""
 
 #: ../../KTK.rst:989
@@ -1819,7 +1819,7 @@ msgid "Flying, vigilance, haste"
 msgstr ""
 
 #: ../../KTK.rst:996
-msgid "Mardu Ascendancy"
+msgid ":mtgtip:`Mardu Ascendancy`"
 msgstr ""
 
 #: ../../KTK.rst:993
@@ -1831,7 +1831,7 @@ msgid "Sacrifice Mardu Ascendancy: Creatures you control get +0/+3 until end of 
 msgstr ""
 
 #: ../../KTK.rst:1006
-msgid "Mardu Charm"
+msgid ":mtgtip:`Mardu Charm`"
 msgstr ""
 
 #: ../../KTK.rst:1001
@@ -1847,7 +1847,7 @@ msgid "Target opponent reveals their hand. You choose a noncreature, nonland car
 msgstr ""
 
 #: ../../KTK.rst:1010
-msgid "Mardu Roughrider"
+msgid ":mtgtip:`Mardu Roughrider`"
 msgstr ""
 
 #: ../../KTK.rst:1009
@@ -1855,7 +1855,7 @@ msgid "Whenever Mardu Roughrider attacks, target creature can't block this turn.
 msgstr ""
 
 #: ../../KTK.rst:1014
-msgid "Master the Way"
+msgid ":mtgtip:`Master the Way`"
 msgstr ""
 
 #: ../../KTK.rst:1013
@@ -1863,7 +1863,7 @@ msgid "Draw a card. Master the Way deals damage to any target equal to the numbe
 msgstr ""
 
 #: ../../KTK.rst:1018
-msgid "Mindswipe"
+msgid ":mtgtip:`Mindswipe`"
 msgstr ""
 
 #: ../../KTK.rst:1017
@@ -1871,7 +1871,7 @@ msgid "Counter target spell unless its controller pays |mana_x|. Mindswipe deals
 msgstr ""
 
 #: ../../KTK.rst:1024
-msgid "Narset, Enlightened Master"
+msgid ":mtgtip:`Narset, Enlightened Master`"
 msgstr ""
 
 #: ../../KTK.rst:1021
@@ -1883,7 +1883,7 @@ msgid "Whenever Narset, Enlightened Master attacks, exile the top four cards of 
 msgstr ""
 
 #: ../../KTK.rst:1030
-msgid "Ponyback Brigade"
+msgid ":mtgtip:`Ponyback Brigade`"
 msgstr ""
 
 #: ../../KTK.rst:1027
@@ -1895,7 +1895,7 @@ msgid "Morph |mana_2|\\ |mana_r|\\ |mana_w|\\ |mana_b| (You may cast this card f
 msgstr ""
 
 #: ../../KTK.rst:1036
-msgid "Rakshasa Deathdealer"
+msgid ":mtgtip:`Rakshasa Deathdealer`"
 msgstr ""
 
 #: ../../KTK.rst:1033
@@ -1907,7 +1907,7 @@ msgid "|mana_b|\\ |mana_g|: Regenerate Rakshasa Deathdealer."
 msgstr ""
 
 #: ../../KTK.rst:1040
-msgid "Rakshasa Vizier"
+msgid ":mtgtip:`Rakshasa Vizier`"
 msgstr ""
 
 #: ../../KTK.rst:1039
@@ -1915,7 +1915,7 @@ msgid "Whenever one or more cards are put into exile from your graveyard, put th
 msgstr ""
 
 #: ../../KTK.rst:1044
-msgid "Ride Down"
+msgid ":mtgtip:`Ride Down`"
 msgstr ""
 
 #: ../../KTK.rst:1043
@@ -1923,7 +1923,7 @@ msgid "Destroy target blocking creature. Creatures that were blocked by that cre
 msgstr ""
 
 #: ../../KTK.rst:1050
-msgid "Sage of the Inward Eye"
+msgid ":mtgtip:`Sage of the Inward Eye`"
 msgstr ""
 
 #: ../../KTK.rst:1049
@@ -1931,7 +1931,7 @@ msgid "Whenever you cast a noncreature spell, creatures you control gain lifelin
 msgstr ""
 
 #: ../../KTK.rst:1056
-msgid "Sagu Mauler"
+msgid ":mtgtip:`Sagu Mauler`"
 msgstr ""
 
 #: ../../KTK.rst:1053
@@ -1943,7 +1943,7 @@ msgid "Morph |mana_3|\\ |mana_g|\\ |mana_u| (You may cast this card face down as
 msgstr ""
 
 #: ../../KTK.rst:1064
-msgid "Savage Knuckleblade"
+msgid ":mtgtip:`Savage Knuckleblade`"
 msgstr ""
 
 #: ../../KTK.rst:1059
@@ -1959,7 +1959,7 @@ msgid "|mana_r|: Savage Knuckleblade gains haste until end of turn."
 msgstr ""
 
 #: ../../KTK.rst:1070
-msgid "Secret Plans"
+msgid ":mtgtip:`Secret Plans`"
 msgstr ""
 
 #: ../../KTK.rst:1067
@@ -1971,7 +1971,7 @@ msgid "Whenever a permanent you control is turned face up, draw a card."
 msgstr ""
 
 #: ../../KTK.rst:1076
-msgid "Sidisi, Brood Tyrant"
+msgid ":mtgtip:`Sidisi, Brood Tyrant`"
 msgstr ""
 
 #: ../../KTK.rst:1073
@@ -1983,7 +1983,7 @@ msgid "Whenever one or more creature cards are put into your graveyard from your
 msgstr ""
 
 #: ../../KTK.rst:1082
-msgid "Siege Rhino"
+msgid ":mtgtip:`Siege Rhino`"
 msgstr ""
 
 #: ../../KTK.rst:1081
@@ -1991,7 +1991,7 @@ msgid "When Siege Rhino enters the battlefield, each opponent loses 3 life and y
 msgstr ""
 
 #: ../../KTK.rst:1088
-msgid "Snowhorn Rider"
+msgid ":mtgtip:`Snowhorn Rider`"
 msgstr ""
 
 #: ../../KTK.rst:1087
@@ -1999,7 +1999,7 @@ msgid "Morph |mana_2|\\ |mana_g|\\ |mana_u|\\ |mana_r| (You may cast this card f
 msgstr ""
 
 #: ../../KTK.rst:1096
-msgid "Sorin, Solemn Visitor"
+msgid ":mtgtip:`Sorin, Solemn Visitor`"
 msgstr ""
 
 #: ../../KTK.rst:1091
@@ -2015,7 +2015,7 @@ msgid "−6: You get an emblem with \"At the beginning of each opponent's upkeep
 msgstr ""
 
 #: ../../KTK.rst:1100
-msgid "Sultai Ascendancy"
+msgid ":mtgtip:`Sultai Ascendancy`"
 msgstr ""
 
 #: ../../KTK.rst:1099
@@ -2023,7 +2023,7 @@ msgid "At the beginning of your upkeep, look at the top two cards of your librar
 msgstr ""
 
 #: ../../KTK.rst:1110
-msgid "Sultai Charm"
+msgid ":mtgtip:`Sultai Charm`"
 msgstr ""
 
 #: ../../KTK.rst:1105
@@ -2035,7 +2035,7 @@ msgid "Draw two cards, then discard a card."
 msgstr ""
 
 #: ../../KTK.rst:1114
-msgid "Sultai Soothsayer"
+msgid ":mtgtip:`Sultai Soothsayer`"
 msgstr ""
 
 #: ../../KTK.rst:1113
@@ -2043,7 +2043,7 @@ msgid "When Sultai Soothsayer enters the battlefield, look at the top four cards
 msgstr ""
 
 #: ../../KTK.rst:1124
-msgid "Surrak Dragonclaw"
+msgid ":mtgtip:`Surrak Dragonclaw`"
 msgstr ""
 
 #: ../../KTK.rst:1121
@@ -2055,7 +2055,7 @@ msgid "Other creatures you control have trample."
 msgstr ""
 
 #: ../../KTK.rst:1130
-msgid "Temur Ascendancy"
+msgid ":mtgtip:`Temur Ascendancy`"
 msgstr ""
 
 #: ../../KTK.rst:1127
@@ -2067,7 +2067,7 @@ msgid "Whenever a creature with power 4 or greater enters the battlefield under 
 msgstr ""
 
 #: ../../KTK.rst:1140
-msgid "Temur Charm"
+msgid ":mtgtip:`Temur Charm`"
 msgstr ""
 
 #: ../../KTK.rst:1135
@@ -2083,7 +2083,7 @@ msgid "Creatures with power 3 or less can't block this turn."
 msgstr ""
 
 #: ../../KTK.rst:1144
-msgid "Trap Essence"
+msgid ":mtgtip:`Trap Essence`"
 msgstr ""
 
 #: ../../KTK.rst:1143
@@ -2091,7 +2091,7 @@ msgid "Counter target creature spell. Put two +1/+1 counters on up to one target
 msgstr ""
 
 #: ../../KTK.rst:1148
-msgid "Utter End"
+msgid ":mtgtip:`Utter End`"
 msgstr ""
 
 #: ../../KTK.rst:1147
@@ -2099,7 +2099,7 @@ msgid "Exile target nonland permanent."
 msgstr ""
 
 #: ../../KTK.rst:1152
-msgid "Villainous Wealth"
+msgid ":mtgtip:`Villainous Wealth`"
 msgstr ""
 
 #: ../../KTK.rst:1151
@@ -2107,7 +2107,7 @@ msgid "Target opponent exiles the top X cards of their library. You may cast any
 msgstr ""
 
 #: ../../KTK.rst:1156
-msgid "Warden of the Eye"
+msgid ":mtgtip:`Warden of the Eye`"
 msgstr ""
 
 #: ../../KTK.rst:1155
@@ -2115,7 +2115,7 @@ msgid "When Warden of the Eye enters the battlefield, return target noncreature,
 msgstr ""
 
 #: ../../KTK.rst:1164
-msgid "Winterflame"
+msgid ":mtgtip:`Winterflame`"
 msgstr ""
 
 #: ../../KTK.rst:1159
@@ -2131,7 +2131,7 @@ msgid "Winterflame deals 2 damage to target creature."
 msgstr ""
 
 #: ../../KTK.rst:1174
-msgid "Zurgo Helmsmasher"
+msgid ":mtgtip:`Zurgo Helmsmasher`"
 msgstr ""
 
 #: ../../KTK.rst:1169
@@ -2147,7 +2147,7 @@ msgid "Whenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put
 msgstr ""
 
 #: ../../KTK.rst:1180
-msgid "Abzan Banner"
+msgid ":mtgtip:`Abzan Banner`"
 msgstr ""
 
 #: ../../KTK.rst:1177
@@ -2160,7 +2160,7 @@ msgid "|mana_w|\\ |mana_b|\\ |mana_g|, |tap|, Sacrifice Abzan Banner: Draw a car
 msgstr ""
 
 #: ../../KTK.rst:1184
-msgid "Altar of the Brood"
+msgid ":mtgtip:`Altar of the Brood`"
 msgstr ""
 
 #: ../../KTK.rst:1183
@@ -2168,7 +2168,7 @@ msgid "Whenever another permanent enters the battlefield under your control, eac
 msgstr ""
 
 #: ../../KTK.rst:1190
-msgid "Briber's Purse"
+msgid ":mtgtip:`Briber's Purse`"
 msgstr ""
 
 #: ../../KTK.rst:1187
@@ -2180,7 +2180,7 @@ msgid "|mana_1|, |tap|, Remove a gem counter from Briber's Purse: Target creatur
 msgstr ""
 
 #: ../../KTK.rst:1194
-msgid "Cranial Archive"
+msgid ":mtgtip:`Cranial Archive`"
 msgstr ""
 
 #: ../../KTK.rst:1193
@@ -2188,7 +2188,7 @@ msgid "|mana_2|, Exile Cranial Archive: Target player shuffles their graveyard i
 msgstr ""
 
 #: ../../KTK.rst:1200
-msgid "Dragon Throne of Tarkir"
+msgid ":mtgtip:`Dragon Throne of Tarkir`"
 msgstr ""
 
 #: ../../KTK.rst:1197
@@ -2201,7 +2201,7 @@ msgid "Equip |mana_3|"
 msgstr ""
 
 #: ../../KTK.rst:1208
-msgid "Ghostfire Blade"
+msgid ":mtgtip:`Ghostfire Blade`"
 msgstr ""
 
 #: ../../KTK.rst:1203
@@ -2213,7 +2213,7 @@ msgid "Ghostfire Blade's equip ability costs |mana_2| less to activate if it tar
 msgstr ""
 
 #: ../../KTK.rst:1214
-msgid "Heart-Piercer Bow"
+msgid ":mtgtip:`Heart-Piercer Bow`"
 msgstr ""
 
 #: ../../KTK.rst:1211
@@ -2225,7 +2225,7 @@ msgid "Equip |mana_1|"
 msgstr ""
 
 #: ../../KTK.rst:1220
-msgid "Jeskai Banner"
+msgid ":mtgtip:`Jeskai Banner`"
 msgstr ""
 
 #: ../../KTK.rst:1217
@@ -2238,15 +2238,15 @@ msgid "|mana_u|\\ |mana_r|\\ |mana_w|, |tap|, Sacrifice Jeskai Banner: Draw a ca
 msgstr ""
 
 #: ../../KTK.rst:1224
-msgid "Lens of Clarity"
+msgid ":mtgtip:`Lens of Clarity`"
 msgstr ""
 
 #: ../../KTK.rst:1223
-msgid "You may look at the top card of your library and at face-down creatures you don't control. (You may do this at any time.)"
+msgid "You may look at the top card of your library and at face-down creatures you don't control any time."
 msgstr ""
 
 #: ../../KTK.rst:1230
-msgid "Mardu Banner"
+msgid ":mtgtip:`Mardu Banner`"
 msgstr ""
 
 #: ../../KTK.rst:1227
@@ -2259,7 +2259,7 @@ msgid "|mana_r|\\ |mana_w|\\ |mana_b|, |tap|, Sacrifice Mardu Banner: Draw a car
 msgstr ""
 
 #: ../../KTK.rst:1236
-msgid "Sultai Banner"
+msgid ":mtgtip:`Sultai Banner`"
 msgstr ""
 
 #: ../../KTK.rst:1233
@@ -2272,7 +2272,7 @@ msgid "|mana_b|\\ |mana_g|\\ |mana_u|, |tap|, Sacrifice Sultai Banner: Draw a ca
 msgstr ""
 
 #: ../../KTK.rst:1242
-msgid "Temur Banner"
+msgid ":mtgtip:`Temur Banner`"
 msgstr ""
 
 #: ../../KTK.rst:1241
@@ -2280,7 +2280,7 @@ msgid "|mana_g|\\ |mana_u|\\ |mana_r|, |tap|, Sacrifice Temur Banner: Draw a car
 msgstr ""
 
 #: ../../KTK.rst:1248
-msgid "Ugin's Nexus"
+msgid ":mtgtip:`Ugin's Nexus`"
 msgstr ""
 
 #: ../../KTK.rst:1245
@@ -2292,7 +2292,7 @@ msgid "If Ugin's Nexus would be put into a graveyard from the battlefield, inste
 msgstr ""
 
 #: ../../KTK.rst:1252
-msgid "Witness of the Ages"
+msgid ":mtgtip:`Witness of the Ages`"
 msgstr ""
 
 #: ../../KTK.rst:1251
@@ -2300,7 +2300,7 @@ msgid "Morph |mana_5| (You may cast this card face down as a 2/2 creature for |m
 msgstr ""
 
 #: ../../KTK.rst:1260
-msgid "Bloodfell Caves"
+msgid ":mtgtip:`Bloodfell Caves`"
 msgstr ""
 
 #: ../../KTK.rst:1255
@@ -2316,7 +2316,7 @@ msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
 #: ../../KTK.rst:1264
-msgid "Bloodstained Mire"
+msgid ":mtgtip:`Bloodstained Mire`"
 msgstr ""
 
 #: ../../KTK.rst:1263
@@ -2324,7 +2324,7 @@ msgid "|tap|, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a
 msgstr ""
 
 #: ../../KTK.rst:1272
-msgid "Blossoming Sands"
+msgid ":mtgtip:`Blossoming Sands`"
 msgstr ""
 
 #: ../../KTK.rst:1267
@@ -2340,7 +2340,7 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr ""
 
 #: ../../KTK.rst:1280
-msgid "Dismal Backwater"
+msgid ":mtgtip:`Dismal Backwater`"
 msgstr ""
 
 #: ../../KTK.rst:1275
@@ -2356,7 +2356,7 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr ""
 
 #: ../../KTK.rst:1284
-msgid "Flooded Strand"
+msgid ":mtgtip:`Flooded Strand`"
 msgstr ""
 
 #: ../../KTK.rst:1283
@@ -2364,7 +2364,7 @@ msgid "|tap|, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Pl
 msgstr ""
 
 #: ../../KTK.rst:1290
-msgid "Frontier Bivouac"
+msgid ":mtgtip:`Frontier Bivouac`"
 msgstr ""
 
 #: ../../KTK.rst:1287
@@ -2372,7 +2372,7 @@ msgid "Frontier Bivouac enters the battlefield tapped."
 msgstr ""
 
 #: ../../KTK.rst:1298
-msgid "Jungle Hollow"
+msgid ":mtgtip:`Jungle Hollow`"
 msgstr ""
 
 #: ../../KTK.rst:1293
@@ -2388,7 +2388,7 @@ msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr ""
 
 #: ../../KTK.rst:1304
-msgid "Mystic Monastery"
+msgid ":mtgtip:`Mystic Monastery`"
 msgstr ""
 
 #: ../../KTK.rst:1301
@@ -2396,7 +2396,7 @@ msgid "Mystic Monastery enters the battlefield tapped."
 msgstr ""
 
 #: ../../KTK.rst:1310
-msgid "Nomad Outpost"
+msgid ":mtgtip:`Nomad Outpost`"
 msgstr ""
 
 #: ../../KTK.rst:1307
@@ -2404,7 +2404,7 @@ msgid "Nomad Outpost enters the battlefield tapped."
 msgstr ""
 
 #: ../../KTK.rst:1316
-msgid "Opulent Palace"
+msgid ":mtgtip:`Opulent Palace`"
 msgstr ""
 
 #: ../../KTK.rst:1313
@@ -2412,7 +2412,7 @@ msgid "Opulent Palace enters the battlefield tapped."
 msgstr ""
 
 #: ../../KTK.rst:1320
-msgid "Polluted Delta"
+msgid ":mtgtip:`Polluted Delta`"
 msgstr ""
 
 #: ../../KTK.rst:1319
@@ -2420,7 +2420,7 @@ msgid "|tap|, Pay 1 life, Sacrifice Polluted Delta: Search your library for an I
 msgstr ""
 
 #: ../../KTK.rst:1328
-msgid "Rugged Highlands"
+msgid ":mtgtip:`Rugged Highlands`"
 msgstr ""
 
 #: ../../KTK.rst:1323
@@ -2436,7 +2436,7 @@ msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr ""
 
 #: ../../KTK.rst:1334
-msgid "Sandsteppe Citadel"
+msgid ":mtgtip:`Sandsteppe Citadel`"
 msgstr ""
 
 #: ../../KTK.rst:1331
@@ -2444,7 +2444,7 @@ msgid "Sandsteppe Citadel enters the battlefield tapped."
 msgstr ""
 
 #: ../../KTK.rst:1342
-msgid "Scoured Barrens"
+msgid ":mtgtip:`Scoured Barrens`"
 msgstr ""
 
 #: ../../KTK.rst:1337
@@ -2460,7 +2460,7 @@ msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr ""
 
 #: ../../KTK.rst:1350
-msgid "Swiftwater Cliffs"
+msgid ":mtgtip:`Swiftwater Cliffs`"
 msgstr ""
 
 #: ../../KTK.rst:1345
@@ -2476,7 +2476,7 @@ msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
 #: ../../KTK.rst:1358
-msgid "Thornwood Falls"
+msgid ":mtgtip:`Thornwood Falls`"
 msgstr ""
 
 #: ../../KTK.rst:1353
@@ -2492,7 +2492,7 @@ msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
 
 #: ../../KTK.rst:1364
-msgid "Tomb of the Spirit Dragon"
+msgid ":mtgtip:`Tomb of the Spirit Dragon`"
 msgstr ""
 
 #: ../../KTK.rst:1361
@@ -2504,7 +2504,7 @@ msgid "|mana_2|, |tap|: You gain 1 life for each colorless creature you control.
 msgstr ""
 
 #: ../../KTK.rst:1372
-msgid "Tranquil Cove"
+msgid ":mtgtip:`Tranquil Cove`"
 msgstr ""
 
 #: ../../KTK.rst:1367
@@ -2520,7 +2520,7 @@ msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
 #: ../../KTK.rst:1380
-msgid "Wind-Scarred Crag"
+msgid ":mtgtip:`Wind-Scarred Crag`"
 msgstr ""
 
 #: ../../KTK.rst:1375
@@ -2536,7 +2536,7 @@ msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
 #: ../../KTK.rst:1384
-msgid "Windswept Heath"
+msgid ":mtgtip:`Windswept Heath`"
 msgstr ""
 
 #: ../../KTK.rst:1383
@@ -2544,45 +2544,50 @@ msgid "|tap|, Pay 1 life, Sacrifice Windswept Heath: Search your library for a F
 msgstr ""
 
 #: ../../KTK.rst:1388
-msgid "Wooded Foothills"
+msgid ":mtgtip:`Wooded Foothills`"
 msgstr ""
 
 #: ../../KTK.rst:1387
 msgid "|tap|, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle your library."
 msgstr ""
 
-#: ../../KTK.rst:1390
-#: ../../KTK.rst:1394
-#: ../../KTK.rst:1398
-#: ../../KTK.rst:1402
-msgid "Plains"
+#: ../../KTK.rst:1392
+msgid ":mtgtip:`Plains`"
 msgstr ""
 
-#: ../../KTK.rst:1406
-#: ../../KTK.rst:1410
-#: ../../KTK.rst:1414
-#: ../../KTK.rst:1418
-msgid "Island"
+#: ../../KTK.rst:1391
+msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
-#: ../../KTK.rst:1422
-#: ../../KTK.rst:1426
-#: ../../KTK.rst:1430
-#: ../../KTK.rst:1434
-msgid "Swamp"
+#: ../../KTK.rst:1396
+msgid ":mtgtip:`Island`"
 msgstr ""
 
-#: ../../KTK.rst:1438
-#: ../../KTK.rst:1442
-#: ../../KTK.rst:1446
-#: ../../KTK.rst:1450
-msgid "Mountain"
+#: ../../KTK.rst:1395
+msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
-#: ../../KTK.rst:1454
-#: ../../KTK.rst:1458
-#: ../../KTK.rst:1462
-#: ../../KTK.rst:1466
-msgid "Forest"
+#: ../../KTK.rst:1400
+msgid ":mtgtip:`Swamp`"
+msgstr ""
+
+#: ../../KTK.rst:1399
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../KTK.rst:1404
+msgid ":mtgtip:`Mountain`"
+msgstr ""
+
+#: ../../KTK.rst:1403
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../KTK.rst:1407
+msgid ":mtgtip:`Forest`"
+msgstr ""
+
+#: ../../KTK.rst:1407
+msgid "(|tap|: Add |mana_g|.)"
 msgstr ""
 

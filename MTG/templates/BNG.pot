@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2013-2018, Dominik Kozaczko & Strefa Gry
+# Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../BNG.rst:5
-msgid "Born of the Gods"
+msgid ":mtgexp:`BNG` Born of the Gods"
 msgstr ""
 
 #: ../../BNG.rst:10
-msgid "Acolyte's Reward"
+msgid ":mtgtip:`Acolyte's Reward`"
 msgstr ""
 
 #: ../../BNG.rst:9
@@ -29,7 +29,7 @@ msgid "Prevent the next X damage that would be dealt to target creature this tur
 msgstr ""
 
 #: ../../BNG.rst:16
-msgid "Akroan Phalanx"
+msgid ":mtgtip:`Akroan Phalanx`"
 msgstr ""
 
 #: ../../BNG.rst:13
@@ -43,7 +43,7 @@ msgid "|mana_2|\\ |mana_r|: Creatures you control get +1/+0 until end of turn."
 msgstr ""
 
 #: ../../BNG.rst:22
-msgid "Akroan Skyguard"
+msgid ":mtgtip:`Akroan Skyguard`"
 msgstr ""
 
 #: ../../BNG.rst:19
@@ -69,7 +69,7 @@ msgid "Heroic — Whenever you cast a spell that targets Akroan Skyguard, put a 
 msgstr ""
 
 #: ../../BNG.rst:28
-msgid "Archetype of Courage"
+msgid ":mtgtip:`Archetype of Courage`"
 msgstr ""
 
 #: ../../BNG.rst:25
@@ -81,7 +81,7 @@ msgid "Creatures your opponents control lose first strike and can't have or gain
 msgstr ""
 
 #: ../../BNG.rst:36
-msgid "Brimaz, King of Oreskos"
+msgid ":mtgtip:`Brimaz, King of Oreskos`"
 msgstr ""
 
 #: ../../BNG.rst:33
@@ -93,7 +93,7 @@ msgid "Whenever Brimaz blocks a creature, create a 1/1 white Cat Soldier creatur
 msgstr ""
 
 #: ../../BNG.rst:44
-msgid "Dawn to Dusk"
+msgid ":mtgtip:`Dawn to Dusk`"
 msgstr ""
 
 #: ../../BNG.rst:39
@@ -109,7 +109,7 @@ msgid "Destroy target enchantment."
 msgstr ""
 
 #: ../../BNG.rst:50
-msgid "Eidolon of Countless Battles"
+msgid ":mtgtip:`Eidolon of Countless Battles`"
 msgstr ""
 
 #: ../../BNG.rst:47
@@ -121,7 +121,7 @@ msgid "Eidolon of Countless Battles and enchanted creature each get +1/+1 for ea
 msgstr ""
 
 #: ../../BNG.rst:54
-msgid "Elite Skirmisher"
+msgid ":mtgtip:`Elite Skirmisher`"
 msgstr ""
 
 #: ../../BNG.rst:53
@@ -129,7 +129,7 @@ msgid "Heroic — Whenever you cast a spell that targets Elite Skirmisher, you m
 msgstr ""
 
 #: ../../BNG.rst:60
-msgid "Ephara's Radiance"
+msgid ":mtgtip:`Ephara's Radiance`"
 msgstr ""
 
 #: ../../BNG.rst:57
@@ -155,7 +155,7 @@ msgid "Enchanted creature has \"|mana_1|\\ |mana_w|, |tap|: You gain 3 life.\""
 msgstr ""
 
 #: ../../BNG.rst:64
-msgid "Excoriate"
+msgid ":mtgtip:`Excoriate`"
 msgstr ""
 
 #: ../../BNG.rst:63
@@ -163,7 +163,7 @@ msgid "Exile target tapped creature."
 msgstr ""
 
 #: ../../BNG.rst:68
-msgid "Fated Retribution"
+msgid ":mtgtip:`Fated Retribution`"
 msgstr ""
 
 #: ../../BNG.rst:67
@@ -171,7 +171,7 @@ msgid "Destroy all creatures and planeswalkers. If it's your turn, scry 2. (Look
 msgstr ""
 
 #: ../../BNG.rst:76
-msgid "Ghostblade Eidolon"
+msgid ":mtgtip:`Ghostblade Eidolon`"
 msgstr ""
 
 #: ../../BNG.rst:71
@@ -187,7 +187,7 @@ msgid "Enchanted creature gets +1/+1 and has double strike."
 msgstr ""
 
 #: ../../BNG.rst:80
-msgid "Glimpse the Sun God"
+msgid ":mtgtip:`Glimpse the Sun God`"
 msgstr ""
 
 #: ../../BNG.rst:79
@@ -195,7 +195,7 @@ msgid "Tap X target creatures. Scry 1. (Look at the top card of your library. Yo
 msgstr ""
 
 #: ../../BNG.rst:84
-msgid "God-Favored General"
+msgid ":mtgtip:`God-Favored General`"
 msgstr ""
 
 #: ../../BNG.rst:83
@@ -203,11 +203,11 @@ msgid "Inspired — Whenever God-Favored General becomes untapped, you may pay |
 msgstr ""
 
 #: ../../BNG.rst:86
-msgid "Great Hart"
+msgid ":mtgtip:`Great Hart`"
 msgstr ""
 
 #: ../../BNG.rst:94
-msgid "Griffin Dreamfinder"
+msgid ":mtgtip:`Griffin Dreamfinder`"
 msgstr ""
 
 #: ../../BNG.rst:93
@@ -215,7 +215,7 @@ msgid "When Griffin Dreamfinder enters the battlefield, return target enchantmen
 msgstr ""
 
 #: ../../BNG.rst:100
-msgid "Hero of Iroas"
+msgid ":mtgtip:`Hero of Iroas`"
 msgstr ""
 
 #: ../../BNG.rst:97
@@ -227,7 +227,7 @@ msgid "Heroic — Whenever you cast a spell that targets Hero of Iroas, put a +1
 msgstr ""
 
 #: ../../BNG.rst:104
-msgid "Hold at Bay"
+msgid ":mtgtip:`Hold at Bay`"
 msgstr ""
 
 #: ../../BNG.rst:103
@@ -235,7 +235,7 @@ msgid "Prevent the next 7 damage that would be dealt to any target this turn."
 msgstr ""
 
 #: ../../BNG.rst:110
-msgid "Loyal Pegasus"
+msgid ":mtgtip:`Loyal Pegasus`"
 msgstr ""
 
 #: ../../BNG.rst:109
@@ -243,7 +243,7 @@ msgid "Loyal Pegasus can't attack or block alone."
 msgstr ""
 
 #: ../../BNG.rst:114
-msgid "Mortal's Ardor"
+msgid ":mtgtip:`Mortal's Ardor`"
 msgstr ""
 
 #: ../../BNG.rst:113
@@ -251,7 +251,7 @@ msgid "Target creature gets +1/+1 and gains lifelink until end of turn. (Damage 
 msgstr ""
 
 #: ../../BNG.rst:120
-msgid "Nyxborn Shieldmate"
+msgid ":mtgtip:`Nyxborn Shieldmate`"
 msgstr ""
 
 #: ../../BNG.rst:117
@@ -263,7 +263,7 @@ msgid "Enchanted creature gets +1/+2."
 msgstr ""
 
 #: ../../BNG.rst:124
-msgid "Oreskos Sun Guide"
+msgid ":mtgtip:`Oreskos Sun Guide`"
 msgstr ""
 
 #: ../../BNG.rst:123
@@ -271,7 +271,7 @@ msgid "Inspired — Whenever Oreskos Sun Guide becomes untapped, you gain 2 life
 msgstr ""
 
 #: ../../BNG.rst:132
-msgid "Ornitharch"
+msgid ":mtgtip:`Ornitharch`"
 msgstr ""
 
 #: ../../BNG.rst:129
@@ -287,7 +287,7 @@ msgid "When Ornitharch enters the battlefield, if tribute wasn't paid, create tw
 msgstr ""
 
 #: ../../BNG.rst:136
-msgid "Plea for Guidance"
+msgid ":mtgtip:`Plea for Guidance`"
 msgstr ""
 
 #: ../../BNG.rst:135
@@ -295,7 +295,7 @@ msgid "Search your library for up to two enchantment cards, reveal them, and put
 msgstr ""
 
 #: ../../BNG.rst:140
-msgid "Revoke Existence"
+msgid ":mtgtip:`Revoke Existence`"
 msgstr ""
 
 #: ../../BNG.rst:139
@@ -303,7 +303,7 @@ msgid "Exile target artifact or enchantment."
 msgstr ""
 
 #: ../../BNG.rst:146
-msgid "Silent Sentinel"
+msgid ":mtgtip:`Silent Sentinel`"
 msgstr ""
 
 #: ../../BNG.rst:145
@@ -311,7 +311,7 @@ msgid "Whenever Silent Sentinel attacks, you may return target enchantment card 
 msgstr ""
 
 #: ../../BNG.rst:150
-msgid "Spirit of the Labyrinth"
+msgid ":mtgtip:`Spirit of the Labyrinth`"
 msgstr ""
 
 #: ../../BNG.rst:149
@@ -319,7 +319,7 @@ msgid "Each player can't draw more than one card each turn."
 msgstr ""
 
 #: ../../BNG.rst:156
-msgid "Sunbond"
+msgid ":mtgtip:`Sunbond`"
 msgstr ""
 
 #: ../../BNG.rst:155
@@ -327,7 +327,7 @@ msgid "Enchanted creature has \"Whenever you gain life, put that many +1/+1 coun
 msgstr ""
 
 #: ../../BNG.rst:162
-msgid "Vanguard of Brimaz"
+msgid ":mtgtip:`Vanguard of Brimaz`"
 msgstr ""
 
 #: ../../BNG.rst:161
@@ -335,7 +335,7 @@ msgid "Heroic — Whenever you cast a spell that targets Vanguard of Brimaz, cre
 msgstr ""
 
 #: ../../BNG.rst:166
-msgid "Aerie Worshippers"
+msgid ":mtgtip:`Aerie Worshippers`"
 msgstr ""
 
 #: ../../BNG.rst:165
@@ -343,7 +343,7 @@ msgid "Inspired — Whenever Aerie Worshippers becomes untapped, you may pay |ma
 msgstr ""
 
 #: ../../BNG.rst:172
-msgid "Arbiter of the Ideal"
+msgid ":mtgtip:`Arbiter of the Ideal`"
 msgstr ""
 
 #: ../../BNG.rst:171
@@ -351,7 +351,7 @@ msgid "Inspired — Whenever Arbiter of the Ideal becomes untapped, reveal the t
 msgstr ""
 
 #: ../../BNG.rst:178
-msgid "Archetype of Imagination"
+msgid ":mtgtip:`Archetype of Imagination`"
 msgstr ""
 
 #: ../../BNG.rst:175
@@ -363,7 +363,7 @@ msgid "Creatures your opponents control lose flying and can't have or gain flyin
 msgstr ""
 
 #: ../../BNG.rst:184
-msgid "Chorus of the Tides"
+msgid ":mtgtip:`Chorus of the Tides`"
 msgstr ""
 
 #: ../../BNG.rst:183
@@ -371,7 +371,7 @@ msgid "Heroic — Whenever you cast a spell that targets Chorus of the Tides, sc
 msgstr ""
 
 #: ../../BNG.rst:188
-msgid "Crypsis"
+msgid ":mtgtip:`Crypsis`"
 msgstr ""
 
 #: ../../BNG.rst:187
@@ -379,7 +379,7 @@ msgid "Target creature you control gains protection from creatures your opponent
 msgstr ""
 
 #: ../../BNG.rst:192
-msgid "Deepwater Hypnotist"
+msgid ":mtgtip:`Deepwater Hypnotist`"
 msgstr ""
 
 #: ../../BNG.rst:191
@@ -387,7 +387,7 @@ msgid "Inspired — Whenever Deepwater Hypnotist becomes untapped, target creatu
 msgstr ""
 
 #: ../../BNG.rst:196
-msgid "Divination"
+msgid ":mtgtip:`Divination`"
 msgstr ""
 
 #: ../../BNG.rst:195
@@ -395,7 +395,7 @@ msgid "Draw two cards."
 msgstr ""
 
 #: ../../BNG.rst:204
-msgid "Eternity Snare"
+msgid ":mtgtip:`Eternity Snare`"
 msgstr ""
 
 #: ../../BNG.rst:201
@@ -407,7 +407,7 @@ msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
 
 #: ../../BNG.rst:210
-msgid "Evanescent Intellect"
+msgid ":mtgtip:`Evanescent Intellect`"
 msgstr ""
 
 #: ../../BNG.rst:209
@@ -415,7 +415,7 @@ msgid "Enchanted creature has \"|mana_1|\\ |mana_u|, |tap|: Target player puts t
 msgstr ""
 
 #: ../../BNG.rst:214
-msgid "Fated Infatuation"
+msgid ":mtgtip:`Fated Infatuation`"
 msgstr ""
 
 #: ../../BNG.rst:213
@@ -423,7 +423,7 @@ msgid "Create a token that's a copy of target creature you control. If it's your
 msgstr ""
 
 #: ../../BNG.rst:222
-msgid "Flitterstep Eidolon"
+msgid ":mtgtip:`Flitterstep Eidolon`"
 msgstr ""
 
 #: ../../BNG.rst:217
@@ -439,7 +439,7 @@ msgid "Enchanted creature gets +1/+1 and can't be blocked."
 msgstr ""
 
 #: ../../BNG.rst:226
-msgid "Floodtide Serpent"
+msgid ":mtgtip:`Floodtide Serpent`"
 msgstr ""
 
 #: ../../BNG.rst:225
@@ -447,7 +447,7 @@ msgid "Floodtide Serpent can't attack unless you return an enchantment you contr
 msgstr ""
 
 #: ../../BNG.rst:230
-msgid "Kraken of the Straits"
+msgid ":mtgtip:`Kraken of the Straits`"
 msgstr ""
 
 #: ../../BNG.rst:229
@@ -455,7 +455,7 @@ msgid "Creatures with power less than the number of Islands you control can't bl
 msgstr ""
 
 #: ../../BNG.rst:234
-msgid "Meletis Astronomer"
+msgid ":mtgtip:`Meletis Astronomer`"
 msgstr ""
 
 #: ../../BNG.rst:233
@@ -463,7 +463,7 @@ msgid "Heroic — Whenever you cast a spell that targets Meletis Astronomer, loo
 msgstr ""
 
 #: ../../BNG.rst:240
-msgid "Mindreaver"
+msgid ":mtgtip:`Mindreaver`"
 msgstr ""
 
 #: ../../BNG.rst:237
@@ -475,7 +475,7 @@ msgid "|mana_u|\\ |mana_u|, Sacrifice Mindreaver: Counter target spell with the 
 msgstr ""
 
 #: ../../BNG.rst:244
-msgid "Nullify"
+msgid ":mtgtip:`Nullify`"
 msgstr ""
 
 #: ../../BNG.rst:243
@@ -483,7 +483,7 @@ msgid "Counter target creature or Aura spell."
 msgstr ""
 
 #: ../../BNG.rst:250
-msgid "Nyxborn Triton"
+msgid ":mtgtip:`Nyxborn Triton`"
 msgstr ""
 
 #: ../../BNG.rst:247
@@ -495,7 +495,7 @@ msgid "Enchanted creature gets +2/+3."
 msgstr ""
 
 #: ../../BNG.rst:256
-msgid "Oracle's Insight"
+msgid ":mtgtip:`Oracle's Insight`"
 msgstr ""
 
 #: ../../BNG.rst:255
@@ -503,7 +503,7 @@ msgid "Enchanted creature has \"|tap|: Scry 1, then draw a card.\" (To scry 1, l
 msgstr ""
 
 #: ../../BNG.rst:260
-msgid "Perplexing Chimera"
+msgid ":mtgtip:`Perplexing Chimera`"
 msgstr ""
 
 #: ../../BNG.rst:259
@@ -511,7 +511,7 @@ msgid "Whenever an opponent casts a spell, you may exchange control of Perplexin
 msgstr ""
 
 #: ../../BNG.rst:264
-msgid "Retraction Helix"
+msgid ":mtgtip:`Retraction Helix`"
 msgstr ""
 
 #: ../../BNG.rst:263
@@ -519,7 +519,7 @@ msgid "Until end of turn, target creature gains \"|tap|: Return target nonland p
 msgstr ""
 
 #: ../../BNG.rst:272
-msgid "Siren of the Fanged Coast"
+msgid ":mtgtip:`Siren of the Fanged Coast`"
 msgstr ""
 
 #: ../../BNG.rst:269
@@ -534,7 +534,7 @@ msgid "When Siren of the Fanged Coast enters the battlefield, if tribute wasn't 
 msgstr ""
 
 #: ../../BNG.rst:278
-msgid "Sphinx's Disciple"
+msgid ":mtgtip:`Sphinx's Disciple`"
 msgstr ""
 
 #: ../../BNG.rst:277
@@ -542,7 +542,7 @@ msgid "Inspired — Whenever Sphinx's Disciple becomes untapped, draw a card."
 msgstr ""
 
 #: ../../BNG.rst:288
-msgid "Stratus Walk"
+msgid ":mtgtip:`Stratus Walk`"
 msgstr ""
 
 #: ../../BNG.rst:283
@@ -558,7 +558,7 @@ msgid "Enchanted creature can block only creatures with flying."
 msgstr ""
 
 #: ../../BNG.rst:292
-msgid "Sudden Storm"
+msgid ":mtgtip:`Sudden Storm`"
 msgstr ""
 
 #: ../../BNG.rst:291
@@ -566,7 +566,7 @@ msgid "Tap up to two target creatures. Those creatures don't untap during their 
 msgstr ""
 
 #: ../../BNG.rst:296
-msgid "Thassa's Rebuff"
+msgid ":mtgtip:`Thassa's Rebuff`"
 msgstr ""
 
 #: ../../BNG.rst:295
@@ -574,7 +574,7 @@ msgid "Counter target spell unless its controller pays |mana_x|, where X is your
 msgstr ""
 
 #: ../../BNG.rst:302
-msgid "Tromokratis"
+msgid ":mtgtip:`Tromokratis`"
 msgstr ""
 
 #: ../../BNG.rst:299
@@ -586,7 +586,7 @@ msgid "Tromokratis can't be blocked unless all creatures defending player contro
 msgstr ""
 
 #: ../../BNG.rst:308
-msgid "Vortex Elemental"
+msgid ":mtgtip:`Vortex Elemental`"
 msgstr ""
 
 #: ../../BNG.rst:305
@@ -598,7 +598,7 @@ msgid "|mana_3|\\ |mana_u|\\ |mana_u|: Target creature blocks Vortex Elemental t
 msgstr ""
 
 #: ../../BNG.rst:312
-msgid "Whelming Wave"
+msgid ":mtgtip:`Whelming Wave`"
 msgstr ""
 
 #: ../../BNG.rst:311
@@ -606,7 +606,7 @@ msgid "Return all creatures to their owners' hands except for Krakens, Leviathan
 msgstr ""
 
 #: ../../BNG.rst:318
-msgid "Archetype of Finality"
+msgid ":mtgtip:`Archetype of Finality`"
 msgstr ""
 
 #: ../../BNG.rst:315
@@ -618,7 +618,7 @@ msgid "Creatures your opponents control lose deathtouch and can't have or gain d
 msgstr ""
 
 #: ../../BNG.rst:322
-msgid "Ashiok's Adept"
+msgid ":mtgtip:`Ashiok's Adept`"
 msgstr ""
 
 #: ../../BNG.rst:321
@@ -626,7 +626,7 @@ msgid "Heroic — Whenever you cast a spell that targets Ashiok's Adept, each op
 msgstr ""
 
 #: ../../BNG.rst:326
-msgid "Asphyxiate"
+msgid ":mtgtip:`Asphyxiate`"
 msgstr ""
 
 #: ../../BNG.rst:325
@@ -634,7 +634,7 @@ msgid "Destroy target untapped creature."
 msgstr ""
 
 #: ../../BNG.rst:330
-msgid "Bile Blight"
+msgid ":mtgtip:`Bile Blight`"
 msgstr ""
 
 #: ../../BNG.rst:329
@@ -642,7 +642,7 @@ msgid "Target creature and all other creatures with the same name as that creatu
 msgstr ""
 
 #: ../../BNG.rst:336
-msgid "Black Oak of Odunos"
+msgid ":mtgtip:`Black Oak of Odunos`"
 msgstr ""
 
 #: ../../BNG.rst:333
@@ -655,7 +655,7 @@ msgid "|mana_b|, Tap another untapped creature you control: Black Oak of Odunos 
 msgstr ""
 
 #: ../../BNG.rst:342
-msgid "Champion of Stray Souls"
+msgid ":mtgtip:`Champion of Stray Souls`"
 msgstr ""
 
 #: ../../BNG.rst:339
@@ -667,7 +667,7 @@ msgid "|mana_5|\\ |mana_b|\\ |mana_b|: Put Champion of Stray Souls on top of you
 msgstr ""
 
 #: ../../BNG.rst:348
-msgid "Claim of Erebos"
+msgid ":mtgtip:`Claim of Erebos`"
 msgstr ""
 
 #: ../../BNG.rst:347
@@ -675,7 +675,7 @@ msgid "Enchanted creature has \"|mana_1|\\ |mana_b|, |tap|: Target player loses 
 msgstr ""
 
 #: ../../BNG.rst:352
-msgid "Drown in Sorrow"
+msgid ":mtgtip:`Drown in Sorrow`"
 msgstr ""
 
 #: ../../BNG.rst:351
@@ -683,7 +683,7 @@ msgid "All creatures get -2/-2 until end of turn. Scry 1. (Look at the top card 
 msgstr ""
 
 #: ../../BNG.rst:360
-msgid "Eater of Hope"
+msgid ":mtgtip:`Eater of Hope`"
 msgstr ""
 
 #: ../../BNG.rst:357
@@ -695,7 +695,7 @@ msgid "|mana_2|\\ |mana_b|, Sacrifice two other creatures: Destroy target creatu
 msgstr ""
 
 #: ../../BNG.rst:364
-msgid "Eye Gouge"
+msgid ":mtgtip:`Eye Gouge`"
 msgstr ""
 
 #: ../../BNG.rst:363
@@ -703,7 +703,7 @@ msgid "Target creature gets -1/-1 until end of turn. If it's a Cyclops, destroy 
 msgstr ""
 
 #: ../../BNG.rst:368
-msgid "Fate Unraveler"
+msgid ":mtgtip:`Fate Unraveler`"
 msgstr ""
 
 #: ../../BNG.rst:367
@@ -711,7 +711,7 @@ msgid "Whenever an opponent draws a card, Fate Unraveler deals 1 damage to that 
 msgstr ""
 
 #: ../../BNG.rst:372
-msgid "Fated Return"
+msgid ":mtgtip:`Fated Return`"
 msgstr ""
 
 #: ../../BNG.rst:371
@@ -719,7 +719,7 @@ msgid "Put target creature card from a graveyard onto the battlefield under your
 msgstr ""
 
 #: ../../BNG.rst:376
-msgid "Felhide Brawler"
+msgid ":mtgtip:`Felhide Brawler`"
 msgstr ""
 
 #: ../../BNG.rst:375
@@ -727,7 +727,7 @@ msgid "Felhide Brawler can't block unless you control another Minotaur."
 msgstr ""
 
 #: ../../BNG.rst:382
-msgid "Forlorn Pseudamma"
+msgid ":mtgtip:`Forlorn Pseudamma`"
 msgstr ""
 
 #: ../../BNG.rst:379
@@ -739,7 +739,7 @@ msgid "Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |ma
 msgstr ""
 
 #: ../../BNG.rst:386
-msgid "Forsaken Drifters"
+msgid ":mtgtip:`Forsaken Drifters`"
 msgstr ""
 
 #: ../../BNG.rst:385
@@ -747,7 +747,7 @@ msgid "When Forsaken Drifters dies, put the top four cards of your library into 
 msgstr ""
 
 #: ../../BNG.rst:390
-msgid "Gild"
+msgid ":mtgtip:`Gild`"
 msgstr ""
 
 #: ../../BNG.rst:389
@@ -755,7 +755,7 @@ msgid "Exile target creature. Create a colorless artifact token named Gold. It h
 msgstr ""
 
 #: ../../BNG.rst:398
-msgid "Grisly Transformation"
+msgid ":mtgtip:`Grisly Transformation`"
 msgstr ""
 
 #: ../../BNG.rst:395
@@ -767,7 +767,7 @@ msgid "Enchanted creature has intimidate. (It can't be blocked except by artifac
 msgstr ""
 
 #: ../../BNG.rst:408
-msgid "Herald of Torment"
+msgid ":mtgtip:`Herald of Torment`"
 msgstr ""
 
 #: ../../BNG.rst:401
@@ -783,7 +783,7 @@ msgid "Enchanted creature gets +3/+3 and has flying."
 msgstr ""
 
 #: ../../BNG.rst:412
-msgid "Marshmist Titan"
+msgid ":mtgtip:`Marshmist Titan`"
 msgstr ""
 
 #: ../../BNG.rst:411
@@ -791,7 +791,7 @@ msgid "This spell costs |mana_x| less to cast, where X is your devotion to black
 msgstr ""
 
 #: ../../BNG.rst:416
-msgid "Necrobite"
+msgid ":mtgtip:`Necrobite`"
 msgstr ""
 
 #: ../../BNG.rst:415
@@ -799,7 +799,7 @@ msgid "Target creature gains deathtouch until end of turn. Regenerate it. (The n
 msgstr ""
 
 #: ../../BNG.rst:422
-msgid "Nyxborn Eidolon"
+msgid ":mtgtip:`Nyxborn Eidolon`"
 msgstr ""
 
 #: ../../BNG.rst:419
@@ -811,7 +811,7 @@ msgid "Enchanted creature gets +2/+1."
 msgstr ""
 
 #: ../../BNG.rst:428
-msgid "Odunos River Trawler"
+msgid ":mtgtip:`Odunos River Trawler`"
 msgstr ""
 
 #: ../../BNG.rst:425
@@ -823,7 +823,7 @@ msgid "|mana_w|, Sacrifice Odunos River Trawler: Return target enchantment creat
 msgstr ""
 
 #: ../../BNG.rst:432
-msgid "Pain Seer"
+msgid ":mtgtip:`Pain Seer`"
 msgstr ""
 
 #: ../../BNG.rst:431
@@ -831,7 +831,7 @@ msgid "Inspired — Whenever Pain Seer becomes untapped, reveal the top card of 
 msgstr ""
 
 #: ../../BNG.rst:436
-msgid "Sanguimancy"
+msgid ":mtgtip:`Sanguimancy`"
 msgstr ""
 
 #: ../../BNG.rst:435
@@ -839,7 +839,7 @@ msgid "You draw X cards and you lose X life, where X is your devotion to black. 
 msgstr ""
 
 #: ../../BNG.rst:442
-msgid "Servant of Tymaret"
+msgid ":mtgtip:`Servant of Tymaret`"
 msgstr ""
 
 #: ../../BNG.rst:439
@@ -851,7 +851,7 @@ msgid "|mana_2|\\ |mana_b|: Regenerate Servant of Tymaret."
 msgstr ""
 
 #: ../../BNG.rst:450
-msgid "Shrike Harpy"
+msgid ":mtgtip:`Shrike Harpy`"
 msgstr ""
 
 #: ../../BNG.rst:449
@@ -859,7 +859,7 @@ msgid "When Shrike Harpy enters the battlefield, if tribute wasn't paid, target 
 msgstr ""
 
 #: ../../BNG.rst:458
-msgid "Spiteful Returned"
+msgid ":mtgtip:`Spiteful Returned`"
 msgstr ""
 
 #: ../../BNG.rst:453
@@ -878,7 +878,7 @@ msgid "Enchanted creature gets +1/+1."
 msgstr ""
 
 #: ../../BNG.rst:462
-msgid "Warchanter of Mogis"
+msgid ":mtgtip:`Warchanter of Mogis`"
 msgstr ""
 
 #: ../../BNG.rst:461
@@ -886,7 +886,7 @@ msgid "Inspired — Whenever Warchanter of Mogis becomes untapped, target creatu
 msgstr ""
 
 #: ../../BNG.rst:468
-msgid "Weight of the Underworld"
+msgid ":mtgtip:`Weight of the Underworld`"
 msgstr ""
 
 #: ../../BNG.rst:467
@@ -894,7 +894,7 @@ msgid "Enchanted creature gets -3/-2."
 msgstr ""
 
 #: ../../BNG.rst:472
-msgid "Akroan Conscriptor"
+msgid ":mtgtip:`Akroan Conscriptor`"
 msgstr ""
 
 #: ../../BNG.rst:471
@@ -902,7 +902,7 @@ msgid "Heroic — Whenever you cast a spell that targets Akroan Conscriptor, gai
 msgstr ""
 
 #: ../../BNG.rst:478
-msgid "Archetype of Aggression"
+msgid ":mtgtip:`Archetype of Aggression`"
 msgstr ""
 
 #: ../../BNG.rst:475
@@ -914,7 +914,7 @@ msgid "Creatures your opponents control lose trample and can't have or gain tram
 msgstr ""
 
 #: ../../BNG.rst:482
-msgid "Bolt of Keranos"
+msgid ":mtgtip:`Bolt of Keranos`"
 msgstr ""
 
 #: ../../BNG.rst:481
@@ -922,11 +922,11 @@ msgid "Bolt of Keranos deals 3 damage to any target. Scry 1. (Look at the top ca
 msgstr ""
 
 #: ../../BNG.rst:484
-msgid "Cyclops of One-Eyed Pass"
+msgid ":mtgtip:`Cyclops of One-Eyed Pass`"
 msgstr ""
 
 #: ../../BNG.rst:492
-msgid "Epiphany Storm"
+msgid ":mtgtip:`Epiphany Storm`"
 msgstr ""
 
 #: ../../BNG.rst:491
@@ -934,7 +934,7 @@ msgid "Enchanted creature has \"|mana_r|, |tap|, Discard a card: Draw a card.\""
 msgstr ""
 
 #: ../../BNG.rst:500
-msgid "Everflame Eidolon"
+msgid ":mtgtip:`Everflame Eidolon`"
 msgstr ""
 
 #: ../../BNG.rst:495
@@ -946,7 +946,7 @@ msgid "|mana_r|: Everflame Eidolon gets +1/+0 until end of turn. If it's an Aura
 msgstr ""
 
 #: ../../BNG.rst:504
-msgid "Fall of the Hammer"
+msgid ":mtgtip:`Fall of the Hammer`"
 msgstr ""
 
 #: ../../BNG.rst:503
@@ -954,7 +954,7 @@ msgid "Target creature you control deals damage equal to its power to another ta
 msgstr ""
 
 #: ../../BNG.rst:508
-msgid "Fated Conflagration"
+msgid ":mtgtip:`Fated Conflagration`"
 msgstr ""
 
 #: ../../BNG.rst:507
@@ -962,7 +962,7 @@ msgid "Fated Conflagration deals 5 damage to target creature or planeswalker. If
 msgstr ""
 
 #: ../../BNG.rst:514
-msgid "Fearsome Temper"
+msgid ":mtgtip:`Fearsome Temper`"
 msgstr ""
 
 #: ../../BNG.rst:513
@@ -970,7 +970,7 @@ msgid "Enchanted creature gets +2/+2 and has \"|mana_2|\\ |mana_r|: Target creat
 msgstr ""
 
 #: ../../BNG.rst:518
-msgid "Felhide Spiritbinder"
+msgid ":mtgtip:`Felhide Spiritbinder`"
 msgstr ""
 
 #: ../../BNG.rst:517
@@ -978,7 +978,7 @@ msgid "Inspired — Whenever Felhide Spiritbinder becomes untapped, you may pay 
 msgstr ""
 
 #: ../../BNG.rst:526
-msgid "Flame-Wreathed Phoenix"
+msgid ":mtgtip:`Flame-Wreathed Phoenix`"
 msgstr ""
 
 #: ../../BNG.rst:525
@@ -986,7 +986,7 @@ msgid "When Flame-Wreathed Phoenix enters the battlefield, if tribute wasn't pai
 msgstr ""
 
 #: ../../BNG.rst:532
-msgid "Forgestoker Dragon"
+msgid ":mtgtip:`Forgestoker Dragon`"
 msgstr ""
 
 #: ../../BNG.rst:531
@@ -994,7 +994,7 @@ msgid "|mana_1|\\ |mana_r|: Forgestoker Dragon deals 1 damage to target creature
 msgstr ""
 
 #: ../../BNG.rst:538
-msgid "Impetuous Sunchaser"
+msgid ":mtgtip:`Impetuous Sunchaser`"
 msgstr ""
 
 #: ../../BNG.rst:535
@@ -1006,7 +1006,7 @@ msgid "Impetuous Sunchaser attacks each combat if able."
 msgstr ""
 
 #: ../../BNG.rst:542
-msgid "Kragma Butcher"
+msgid ":mtgtip:`Kragma Butcher`"
 msgstr ""
 
 #: ../../BNG.rst:541
@@ -1014,7 +1014,7 @@ msgid "Inspired — Whenever Kragma Butcher becomes untapped, it gets +2/+0 unti
 msgstr ""
 
 #: ../../BNG.rst:546
-msgid "Lightning Volley"
+msgid ":mtgtip:`Lightning Volley`"
 msgstr ""
 
 #: ../../BNG.rst:545
@@ -1022,7 +1022,7 @@ msgid "Until end of turn, creatures you control gain \"|tap|: This creature deal
 msgstr ""
 
 #: ../../BNG.rst:552
-msgid "Nyxborn Rollicker"
+msgid ":mtgtip:`Nyxborn Rollicker`"
 msgstr ""
 
 #: ../../BNG.rst:549
@@ -1030,7 +1030,7 @@ msgid "Bestow |mana_1|\\ |mana_r| (If you cast this card for its bestow cost, it
 msgstr ""
 
 #: ../../BNG.rst:560
-msgid "Oracle of Bones"
+msgid ":mtgtip:`Oracle of Bones`"
 msgstr ""
 
 #: ../../BNG.rst:555
@@ -1044,7 +1044,7 @@ msgid "When Oracle of Bones enters the battlefield, if tribute wasn't paid, you 
 msgstr ""
 
 #: ../../BNG.rst:566
-msgid "Pharagax Giant"
+msgid ":mtgtip:`Pharagax Giant`"
 msgstr ""
 
 #: ../../BNG.rst:565
@@ -1052,7 +1052,7 @@ msgid "When Pharagax Giant enters the battlefield, if tribute wasn't paid, Phara
 msgstr ""
 
 #: ../../BNG.rst:570
-msgid "Pinnacle of Rage"
+msgid ":mtgtip:`Pinnacle of Rage`"
 msgstr ""
 
 #: ../../BNG.rst:569
@@ -1060,7 +1060,7 @@ msgid "Pinnacle of Rage deals 3 damage to each of two targets."
 msgstr ""
 
 #: ../../BNG.rst:574
-msgid "Reckless Reveler"
+msgid ":mtgtip:`Reckless Reveler`"
 msgstr ""
 
 #: ../../BNG.rst:573
@@ -1068,7 +1068,7 @@ msgid "|mana_r|, Sacrifice Reckless Reveler: Destroy target artifact."
 msgstr ""
 
 #: ../../BNG.rst:578
-msgid "Rise to the Challenge"
+msgid ":mtgtip:`Rise to the Challenge`"
 msgstr ""
 
 #: ../../BNG.rst:577
@@ -1076,7 +1076,7 @@ msgid "Target creature gets +2/+0 and gains first strike until end of turn."
 msgstr ""
 
 #: ../../BNG.rst:582
-msgid "Satyr Firedancer"
+msgid ":mtgtip:`Satyr Firedancer`"
 msgstr ""
 
 #: ../../BNG.rst:581
@@ -1084,7 +1084,7 @@ msgid "Whenever an instant or sorcery spell you control deals damage to an oppon
 msgstr ""
 
 #: ../../BNG.rst:588
-msgid "Satyr Nyx-Smith"
+msgid ":mtgtip:`Satyr Nyx-Smith`"
 msgstr ""
 
 #: ../../BNG.rst:587
@@ -1092,7 +1092,7 @@ msgid "Inspired — Whenever Satyr Nyx-Smith becomes untapped, you may pay |mana
 msgstr ""
 
 #: ../../BNG.rst:592
-msgid "Scouring Sands"
+msgid ":mtgtip:`Scouring Sands`"
 msgstr ""
 
 #: ../../BNG.rst:591
@@ -1100,7 +1100,7 @@ msgid "Scouring Sands deals 1 damage to each creature your opponents control. Sc
 msgstr ""
 
 #: ../../BNG.rst:596
-msgid "Searing Blood"
+msgid ":mtgtip:`Searing Blood`"
 msgstr ""
 
 #: ../../BNG.rst:595
@@ -1108,7 +1108,7 @@ msgid "Searing Blood deals 2 damage to target creature. When that creature dies 
 msgstr ""
 
 #: ../../BNG.rst:602
-msgid "Stormcaller of Keranos"
+msgid ":mtgtip:`Stormcaller of Keranos`"
 msgstr ""
 
 #: ../../BNG.rst:601
@@ -1116,7 +1116,7 @@ msgid "|mana_1|\\ |mana_u|: Scry 1. (Look at the top card of your library. You m
 msgstr ""
 
 #: ../../BNG.rst:610
-msgid "Thunder Brute"
+msgid ":mtgtip:`Thunder Brute`"
 msgstr ""
 
 #: ../../BNG.rst:605
@@ -1131,7 +1131,7 @@ msgid "When Thunder Brute enters the battlefield, if tribute wasn't paid, it gai
 msgstr ""
 
 #: ../../BNG.rst:616
-msgid "Thunderous Might"
+msgid ":mtgtip:`Thunderous Might`"
 msgstr ""
 
 #: ../../BNG.rst:615
@@ -1139,7 +1139,7 @@ msgid "Whenever enchanted creature attacks, it gets +X/+0 until end of turn, whe
 msgstr ""
 
 #: ../../BNG.rst:620
-msgid "Whims of the Fates"
+msgid ":mtgtip:`Whims of the Fates`"
 msgstr ""
 
 #: ../../BNG.rst:619
@@ -1147,7 +1147,7 @@ msgid "Starting with you, each player separates all permanents they control into
 msgstr ""
 
 #: ../../BNG.rst:626
-msgid "Archetype of Endurance"
+msgid ":mtgtip:`Archetype of Endurance`"
 msgstr ""
 
 #: ../../BNG.rst:623
@@ -1159,7 +1159,7 @@ msgid "Creatures your opponents control lose hexproof and can't have or gain hex
 msgstr ""
 
 #: ../../BNG.rst:630
-msgid "Aspect of Hydra"
+msgid ":mtgtip:`Aspect of Hydra`"
 msgstr ""
 
 #: ../../BNG.rst:629
@@ -1167,11 +1167,11 @@ msgid "Target creature gets +X/+X until end of turn, where X is your devotion to
 msgstr ""
 
 #: ../../BNG.rst:634
-msgid "Charging Badger"
+msgid ":mtgtip:`Charging Badger`"
 msgstr ""
 
 #: ../../BNG.rst:642
-msgid "Courser of Kruphix"
+msgid ":mtgtip:`Courser of Kruphix`"
 msgstr ""
 
 #: ../../BNG.rst:637
@@ -1187,7 +1187,7 @@ msgid "Whenever a land enters the battlefield under your control, you gain 1 lif
 msgstr ""
 
 #: ../../BNG.rst:646
-msgid "Culling Mark"
+msgid ":mtgtip:`Culling Mark`"
 msgstr ""
 
 #: ../../BNG.rst:645
@@ -1195,7 +1195,7 @@ msgid "Target creature blocks this turn if able."
 msgstr ""
 
 #: ../../BNG.rst:650
-msgid "Fated Intervention"
+msgid ":mtgtip:`Fated Intervention`"
 msgstr ""
 
 #: ../../BNG.rst:649
@@ -1203,7 +1203,7 @@ msgid "Create two 3/3 green Centaur enchantment creature tokens. If it's your tu
 msgstr ""
 
 #: ../../BNG.rst:656
-msgid "Graverobber Spider"
+msgid ":mtgtip:`Graverobber Spider`"
 msgstr ""
 
 #: ../../BNG.rst:653
@@ -1215,7 +1215,7 @@ msgid "|mana_3|\\ |mana_b|: Graverobber Spider gets +X/+X until end of turn, whe
 msgstr ""
 
 #: ../../BNG.rst:660
-msgid "Hero of Leina Tower"
+msgid ":mtgtip:`Hero of Leina Tower`"
 msgstr ""
 
 #: ../../BNG.rst:659
@@ -1223,7 +1223,7 @@ msgid "Heroic — Whenever you cast a spell that targets Hero of Leina Tower, yo
 msgstr ""
 
 #: ../../BNG.rst:664
-msgid "Hunter's Prowess"
+msgid ":mtgtip:`Hunter's Prowess`"
 msgstr ""
 
 #: ../../BNG.rst:663
@@ -1231,7 +1231,7 @@ msgid "Until end of turn, target creature gets +3/+3 and gains trample and \"Whe
 msgstr ""
 
 #: ../../BNG.rst:672
-msgid "Karametra's Favor"
+msgid ":mtgtip:`Karametra's Favor`"
 msgstr ""
 
 #: ../../BNG.rst:669
@@ -1243,7 +1243,7 @@ msgid "Enchanted creature has \"|tap|: Add one mana of any color.\""
 msgstr ""
 
 #: ../../BNG.rst:676
-msgid "Mischief and Mayhem"
+msgid ":mtgtip:`Mischief and Mayhem`"
 msgstr ""
 
 #: ../../BNG.rst:675
@@ -1251,7 +1251,7 @@ msgid "Up to two target creatures each get +4/+4 until end of turn."
 msgstr ""
 
 #: ../../BNG.rst:680
-msgid "Mortal's Resolve"
+msgid ":mtgtip:`Mortal's Resolve`"
 msgstr ""
 
 #: ../../BNG.rst:679
@@ -1259,7 +1259,7 @@ msgid "Target creature gets +1/+1 and gains indestructible until end of turn. (D
 msgstr ""
 
 #: ../../BNG.rst:686
-msgid "Nessian Demolok"
+msgid ":mtgtip:`Nessian Demolok`"
 msgstr ""
 
 #: ../../BNG.rst:685
@@ -1267,7 +1267,7 @@ msgid "When Nessian Demolok enters the battlefield, if tribute wasn't paid, dest
 msgstr ""
 
 #: ../../BNG.rst:692
-msgid "Nessian Wilds Ravager"
+msgid ":mtgtip:`Nessian Wilds Ravager`"
 msgstr ""
 
 #: ../../BNG.rst:689
@@ -1279,7 +1279,7 @@ msgid "When Nessian Wilds Ravager enters the battlefield, if tribute wasn't paid
 msgstr ""
 
 #: ../../BNG.rst:700
-msgid "Noble Quarry"
+msgid ":mtgtip:`Noble Quarry`"
 msgstr ""
 
 #: ../../BNG.rst:695
@@ -1291,7 +1291,7 @@ msgid "All creatures able to block Noble Quarry or enchanted creature do so."
 msgstr ""
 
 #: ../../BNG.rst:706
-msgid "Nyxborn Wolf"
+msgid ":mtgtip:`Nyxborn Wolf`"
 msgstr ""
 
 #: ../../BNG.rst:703
@@ -1303,7 +1303,7 @@ msgid "Enchanted creature gets +3/+1."
 msgstr ""
 
 #: ../../BNG.rst:710
-msgid "Peregrination"
+msgid ":mtgtip:`Peregrination`"
 msgstr ""
 
 #: ../../BNG.rst:709
@@ -1311,7 +1311,7 @@ msgid "Search your library for up to two basic land cards, reveal those cards, a
 msgstr ""
 
 #: ../../BNG.rst:714
-msgid "Pheres-Band Raiders"
+msgid ":mtgtip:`Pheres-Band Raiders`"
 msgstr ""
 
 #: ../../BNG.rst:713
@@ -1319,7 +1319,7 @@ msgid "Inspired — Whenever Pheres-Band Raiders becomes untapped, you may pay |
 msgstr ""
 
 #: ../../BNG.rst:718
-msgid "Pheres-Band Tromper"
+msgid ":mtgtip:`Pheres-Band Tromper`"
 msgstr ""
 
 #: ../../BNG.rst:717
@@ -1327,7 +1327,7 @@ msgid "Inspired — Whenever Pheres-Band Tromper becomes untapped, put a +1/+1 c
 msgstr ""
 
 #: ../../BNG.rst:726
-msgid "Raised by Wolves"
+msgid ":mtgtip:`Raised by Wolves`"
 msgstr ""
 
 #: ../../BNG.rst:723
@@ -1339,7 +1339,7 @@ msgid "Enchanted creature gets +1/+1 for each Wolf you control."
 msgstr ""
 
 #: ../../BNG.rst:730
-msgid "Satyr Wayfinder"
+msgid ":mtgtip:`Satyr Wayfinder`"
 msgstr ""
 
 #: ../../BNG.rst:729
@@ -1347,7 +1347,7 @@ msgid "When Satyr Wayfinder enters the battlefield, reveal the top four cards of
 msgstr ""
 
 #: ../../BNG.rst:738
-msgid "Scourge of Skola Vale"
+msgid ":mtgtip:`Scourge of Skola Vale`"
 msgstr ""
 
 #: ../../BNG.rst:735
@@ -1359,7 +1359,7 @@ msgid "|tap|, Sacrifice another creature: Put a number of +1/+1 counters on Scou
 msgstr ""
 
 #: ../../BNG.rst:742
-msgid "Setessan Oathsworn"
+msgid ":mtgtip:`Setessan Oathsworn`"
 msgstr ""
 
 #: ../../BNG.rst:741
@@ -1367,7 +1367,7 @@ msgid "Heroic — Whenever you cast a spell that targets Setessan Oathsworn, put
 msgstr ""
 
 #: ../../BNG.rst:746
-msgid "Setessan Starbreaker"
+msgid ":mtgtip:`Setessan Starbreaker`"
 msgstr ""
 
 #: ../../BNG.rst:745
@@ -1375,7 +1375,7 @@ msgid "When Setessan Starbreaker enters the battlefield, you may destroy target 
 msgstr ""
 
 #: ../../BNG.rst:750
-msgid "Skyreaping"
+msgid ":mtgtip:`Skyreaping`"
 msgstr ""
 
 #: ../../BNG.rst:749
@@ -1383,7 +1383,7 @@ msgid "Skyreaping deals damage to each creature with flying equal to your devoti
 msgstr ""
 
 #: ../../BNG.rst:756
-msgid "Snake of the Golden Grove"
+msgid ":mtgtip:`Snake of the Golden Grove`"
 msgstr ""
 
 #: ../../BNG.rst:755
@@ -1391,11 +1391,11 @@ msgid "When Snake of the Golden Grove enters the battlefield, if tribute wasn't 
 msgstr ""
 
 #: ../../BNG.rst:758
-msgid "Swordwise Centaur"
+msgid ":mtgtip:`Swordwise Centaur`"
 msgstr ""
 
 #: ../../BNG.rst:764
-msgid "Unravel the Aether"
+msgid ":mtgtip:`Unravel the Aether`"
 msgstr ""
 
 #: ../../BNG.rst:763
@@ -1403,7 +1403,7 @@ msgid "Choose target artifact or enchantment. Its owner shuffles it into their l
 msgstr ""
 
 #: ../../BNG.rst:772
-msgid "Chromanticore"
+msgid ":mtgtip:`Chromanticore`"
 msgstr ""
 
 #: ../../BNG.rst:767
@@ -1419,7 +1419,7 @@ msgid "Enchanted creature gets +4/+4 and has flying, first strike, vigilance, tr
 msgstr ""
 
 #: ../../BNG.rst:780
-msgid "Ephara, God of the Polis"
+msgid ":mtgtip:`Ephara, God of the Polis`"
 msgstr ""
 
 #: ../../BNG.rst:775
@@ -1439,7 +1439,7 @@ msgid "At the beginning of each upkeep, if you had another creature enter the ba
 msgstr ""
 
 #: ../../BNG.rst:790
-msgid "Ephara's Enlightenment"
+msgid ":mtgtip:`Ephara's Enlightenment`"
 msgstr ""
 
 #: ../../BNG.rst:785
@@ -1455,7 +1455,7 @@ msgid "Whenever a creature enters the battlefield under your control, you may re
 msgstr ""
 
 #: ../../BNG.rst:798
-msgid "Fanatic of Xenagos"
+msgid ":mtgtip:`Fanatic of Xenagos`"
 msgstr ""
 
 #: ../../BNG.rst:795
@@ -1467,7 +1467,7 @@ msgid "When Fanatic of Xenagos enters the battlefield, if tribute wasn't paid, i
 msgstr ""
 
 #: ../../BNG.rst:806
-msgid "Karametra, God of Harvests"
+msgid ":mtgtip:`Karametra, God of Harvests`"
 msgstr ""
 
 #: ../../BNG.rst:803
@@ -1479,7 +1479,7 @@ msgid "Whenever you cast a creature spell, you may search your library for a For
 msgstr ""
 
 #: ../../BNG.rst:814
-msgid "Kiora, the Crashing Wave"
+msgid ":mtgtip:`Kiora, the Crashing Wave`"
 msgstr ""
 
 #: ../../BNG.rst:809
@@ -1495,7 +1495,7 @@ msgid "−5: You get an emblem with \"At the beginning of your end step, create 
 msgstr ""
 
 #: ../../BNG.rst:818
-msgid "Kiora's Follower"
+msgid ":mtgtip:`Kiora's Follower`"
 msgstr ""
 
 #: ../../BNG.rst:817
@@ -1503,7 +1503,7 @@ msgid "|tap|: Untap another target permanent."
 msgstr ""
 
 #: ../../BNG.rst:826
-msgid "Mogis, God of Slaughter"
+msgid ":mtgtip:`Mogis, God of Slaughter`"
 msgstr ""
 
 #: ../../BNG.rst:823
@@ -1515,7 +1515,7 @@ msgid "At the beginning of each opponent's upkeep, Mogis deals 2 damage to that 
 msgstr ""
 
 #: ../../BNG.rst:834
-msgid "Phenax, God of Deception"
+msgid ":mtgtip:`Phenax, God of Deception`"
 msgstr ""
 
 #: ../../BNG.rst:831
@@ -1527,7 +1527,7 @@ msgid "Creatures you control have \"|tap|: Target player puts the top X cards of
 msgstr ""
 
 #: ../../BNG.rst:838
-msgid "Ragemonger"
+msgid ":mtgtip:`Ragemonger`"
 msgstr ""
 
 #: ../../BNG.rst:837
@@ -1535,7 +1535,7 @@ msgid "Minotaur spells you cast cost |mana_b|\\ |mana_r| less to cast. This effe
 msgstr ""
 
 #: ../../BNG.rst:842
-msgid "Reap What Is Sown"
+msgid ":mtgtip:`Reap What Is Sown`"
 msgstr ""
 
 #: ../../BNG.rst:841
@@ -1543,7 +1543,7 @@ msgid "Put a +1/+1 counter on each of up to three target creatures."
 msgstr ""
 
 #: ../../BNG.rst:848
-msgid "Siren of the Silent Song"
+msgid ":mtgtip:`Siren of the Silent Song`"
 msgstr ""
 
 #: ../../BNG.rst:847
@@ -1551,7 +1551,7 @@ msgid "Inspired — Whenever Siren of the Silent Song becomes untapped, each opp
 msgstr ""
 
 #: ../../BNG.rst:856
-msgid "Xenagos, God of Revels"
+msgid ":mtgtip:`Xenagos, God of Revels`"
 msgstr ""
 
 #: ../../BNG.rst:853
@@ -1563,7 +1563,7 @@ msgid "At the beginning of combat on your turn, another target creature you cont
 msgstr ""
 
 #: ../../BNG.rst:862
-msgid "Astral Cornucopia"
+msgid ":mtgtip:`Astral Cornucopia`"
 msgstr ""
 
 #: ../../BNG.rst:859
@@ -1575,7 +1575,7 @@ msgid "|tap|: Choose a color. Add one mana of that color for each charge counter
 msgstr ""
 
 #: ../../BNG.rst:868
-msgid "Gorgon's Head"
+msgid ":mtgtip:`Gorgon's Head`"
 msgstr ""
 
 #: ../../BNG.rst:865
@@ -1588,7 +1588,7 @@ msgid "Equip |mana_2|"
 msgstr ""
 
 #: ../../BNG.rst:874
-msgid "Heroes' Podium"
+msgid ":mtgtip:`Heroes' Podium`"
 msgstr ""
 
 #: ../../BNG.rst:871
@@ -1600,7 +1600,7 @@ msgid "|mana_x|, |tap|: Look at the top X cards of your library. You may reveal 
 msgstr ""
 
 #: ../../BNG.rst:880
-msgid "Pillar of War"
+msgid ":mtgtip:`Pillar of War`"
 msgstr ""
 
 #: ../../BNG.rst:879
@@ -1608,7 +1608,7 @@ msgid "As long as Pillar of War is enchanted, it can attack as though it didn't 
 msgstr ""
 
 #: ../../BNG.rst:886
-msgid "Siren Song Lyre"
+msgid ":mtgtip:`Siren Song Lyre`"
 msgstr ""
 
 #: ../../BNG.rst:883
@@ -1616,7 +1616,7 @@ msgid "Equipped creature has \"|mana_2|, |tap|: Tap target creature.\""
 msgstr ""
 
 #: ../../BNG.rst:890
-msgid "Springleaf Drum"
+msgid ":mtgtip:`Springleaf Drum`"
 msgstr ""
 
 #: ../../BNG.rst:889
@@ -1624,7 +1624,7 @@ msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
 
 #: ../../BNG.rst:898
-msgid "Temple of Enlightenment"
+msgid ":mtgtip:`Temple of Enlightenment`"
 msgstr ""
 
 #: ../../BNG.rst:893
@@ -1640,7 +1640,7 @@ msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr ""
 
 #: ../../BNG.rst:906
-msgid "Temple of Malice"
+msgid ":mtgtip:`Temple of Malice`"
 msgstr ""
 
 #: ../../BNG.rst:901
@@ -1656,7 +1656,7 @@ msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr ""
 
 #: ../../BNG.rst:913
-msgid "Temple of Plenty"
+msgid ":mtgtip:`Temple of Plenty`"
 msgstr ""
 
 #: ../../BNG.rst:909

@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2013-2018, Dominik Kozaczko & Strefa Gry
+# Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../M15.rst:5
-msgid "Magic 2015 Core Set"
+msgid ":mtgexp:`M15` Magic 2015"
 msgstr ""
 
 #: ../../M15.rst:14
-msgid "Ajani Steadfast"
+msgid ":mtgtip:`Ajani Steadfast`"
 msgstr ""
 
 #: ../../M15.rst:9
@@ -37,7 +37,7 @@ msgid "−7: You get an emblem with \"If a source would deal damage to you or a 
 msgstr ""
 
 #: ../../M15.rst:18
-msgid "Ajani's Pridemate"
+msgid ":mtgtip:`Ajani's Pridemate`"
 msgstr ""
 
 #: ../../M15.rst:17
@@ -45,11 +45,11 @@ msgid "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate.
 msgstr ""
 
 #: ../../M15.rst:26
-msgid "Avacyn, Guardian Angel"
+msgid ":mtgtip:`Avacyn, Guardian Angel`"
 msgstr ""
 
 #: ../../M15.rst:21
-#: ../../M15.rst:1413
+#: ../../M15.rst:1353
 msgid "Flying, vigilance"
 msgstr ""
 
@@ -62,7 +62,7 @@ msgid "|mana_5|\\ |mana_w|\\ |mana_w|: Prevent all damage that would be dealt to
 msgstr ""
 
 #: ../../M15.rst:32
-msgid "Battle Mastery"
+msgid ":mtgtip:`Battle Mastery`"
 msgstr ""
 
 #: ../../M15.rst:29
@@ -85,7 +85,7 @@ msgid "Enchanted creature has double strike. (It deals both first-strike and reg
 msgstr ""
 
 #: ../../M15.rst:36
-msgid "Boonweaver Giant"
+msgid ":mtgtip:`Boonweaver Giant`"
 msgstr ""
 
 #: ../../M15.rst:35
@@ -93,7 +93,7 @@ msgid "When Boonweaver Giant enters the battlefield, you may search your graveya
 msgstr ""
 
 #: ../../M15.rst:40
-msgid "Congregate"
+msgid ":mtgtip:`Congregate`"
 msgstr ""
 
 #: ../../M15.rst:39
@@ -101,7 +101,7 @@ msgid "Target player gains 2 life for each creature on the battlefield."
 msgstr ""
 
 #: ../../M15.rst:44
-msgid "Constricting Sliver"
+msgid ":mtgtip:`Constricting Sliver`"
 msgstr ""
 
 #: ../../M15.rst:43
@@ -109,7 +109,7 @@ msgid "Sliver creatures you control have \"When this creature enters the battlef
 msgstr ""
 
 #: ../../M15.rst:50
-msgid "Dauntless River Marshal"
+msgid ":mtgtip:`Dauntless River Marshal`"
 msgstr ""
 
 #: ../../M15.rst:47
@@ -121,7 +121,7 @@ msgid "|mana_3|\\ |mana_u|: Tap target creature."
 msgstr ""
 
 #: ../../M15.rst:56
-msgid "Devouring Light"
+msgid ":mtgtip:`Devouring Light`"
 msgstr ""
 
 #: ../../M15.rst:53
@@ -153,7 +153,7 @@ msgid "Exile target attacking or blocking creature."
 msgstr ""
 
 #: ../../M15.rst:64
-msgid "Divine Favor"
+msgid ":mtgtip:`Divine Favor`"
 msgstr ""
 
 #: ../../M15.rst:61
@@ -165,7 +165,7 @@ msgid "Enchanted creature gets +1/+3."
 msgstr ""
 
 #: ../../M15.rst:70
-msgid "Ephemeral Shields"
+msgid ":mtgtip:`Ephemeral Shields`"
 msgstr ""
 
 #: ../../M15.rst:69
@@ -173,7 +173,7 @@ msgid "Target creature gains indestructible until end of turn. (Damage and effec
 msgstr ""
 
 #: ../../M15.rst:74
-msgid "First Response"
+msgid ":mtgtip:`First Response`"
 msgstr ""
 
 #: ../../M15.rst:73
@@ -181,7 +181,7 @@ msgid "At the beginning of each upkeep, if you lost life last turn, create a 1/1
 msgstr ""
 
 #: ../../M15.rst:78
-msgid "Geist of the Moors"
+msgid ":mtgtip:`Geist of the Moors`"
 msgstr ""
 
 #: ../../M15.rst:77
@@ -203,7 +203,7 @@ msgid "Flying"
 msgstr ""
 
 #: ../../M15.rst:82
-msgid "Heliod's Pilgrim"
+msgid ":mtgtip:`Heliod's Pilgrim`"
 msgstr ""
 
 #: ../../M15.rst:81
@@ -211,7 +211,7 @@ msgid "When Heliod's Pilgrim enters the battlefield, you may search your library
 msgstr ""
 
 #: ../../M15.rst:90
-msgid "Hushwing Gryff"
+msgid ":mtgtip:`Hushwing Gryff`"
 msgstr ""
 
 #: ../../M15.rst:85
@@ -223,7 +223,7 @@ msgid "Creatures entering the battlefield don't cause abilities to trigger."
 msgstr ""
 
 #: ../../M15.rst:94
-msgid "Kinsbaile Skirmisher"
+msgid ":mtgtip:`Kinsbaile Skirmisher`"
 msgstr ""
 
 #: ../../M15.rst:93
@@ -231,7 +231,7 @@ msgid "When Kinsbaile Skirmisher enters the battlefield, target creature gets +1
 msgstr ""
 
 #: ../../M15.rst:100
-msgid "Marked by Honor"
+msgid ":mtgtip:`Marked by Honor`"
 msgstr ""
 
 #: ../../M15.rst:99
@@ -239,7 +239,7 @@ msgid "Enchanted creature gets +2/+2 and has vigilance. (Attacking doesn't cause
 msgstr ""
 
 #: ../../M15.rst:104
-msgid "Mass Calcify"
+msgid ":mtgtip:`Mass Calcify`"
 msgstr ""
 
 #: ../../M15.rst:103
@@ -247,7 +247,7 @@ msgid "Destroy all nonwhite creatures."
 msgstr ""
 
 #: ../../M15.rst:110
-msgid "Meditation Puzzle"
+msgid ":mtgtip:`Meditation Puzzle`"
 msgstr ""
 
 #: ../../M15.rst:109
@@ -255,7 +255,7 @@ msgid "You gain 8 life."
 msgstr ""
 
 #: ../../M15.rst:114
-msgid "Midnight Guard"
+msgid ":mtgtip:`Midnight Guard`"
 msgstr ""
 
 #: ../../M15.rst:113
@@ -263,7 +263,7 @@ msgid "Whenever another creature enters the battlefield, untap Midnight Guard."
 msgstr ""
 
 #: ../../M15.rst:122
-msgid "Oppressive Rays"
+msgid ":mtgtip:`Oppressive Rays`"
 msgstr ""
 
 #: ../../M15.rst:119
@@ -275,11 +275,11 @@ msgid "Activated abilities of enchanted creature cost |mana_3| more to activate.
 msgstr ""
 
 #: ../../M15.rst:124
-msgid "Oreskos Swiftclaw"
+msgid ":mtgtip:`Oreskos Swiftclaw`"
 msgstr ""
 
 #: ../../M15.rst:132
-msgid "Paragon of New Dawns"
+msgid ":mtgtip:`Paragon of New Dawns`"
 msgstr ""
 
 #: ../../M15.rst:129
@@ -291,7 +291,7 @@ msgid "|mana_w|, |tap|: Another target white creature you control gains vigilanc
 msgstr ""
 
 #: ../../M15.rst:136
-msgid "Pillar of Light"
+msgid ":mtgtip:`Pillar of Light`"
 msgstr ""
 
 #: ../../M15.rst:135
@@ -299,7 +299,7 @@ msgid "Exile target creature with toughness 4 or greater."
 msgstr ""
 
 #: ../../M15.rst:142
-msgid "Preeminent Captain"
+msgid ":mtgtip:`Preeminent Captain`"
 msgstr ""
 
 #: ../../M15.rst:139
@@ -312,7 +312,7 @@ msgid "Whenever Preeminent Captain attacks, you may put a Soldier creature card 
 msgstr ""
 
 #: ../../M15.rst:146
-msgid "Raise the Alarm"
+msgid ":mtgtip:`Raise the Alarm`"
 msgstr ""
 
 #: ../../M15.rst:145
@@ -320,7 +320,7 @@ msgid "Create two 1/1 white Soldier creature tokens."
 msgstr ""
 
 #: ../../M15.rst:152
-msgid "Razorfoot Griffin"
+msgid ":mtgtip:`Razorfoot Griffin`"
 msgstr ""
 
 #: ../../M15.rst:149
@@ -328,17 +328,17 @@ msgstr ""
 #: ../../M15.rst:379
 #: ../../M15.rst:443
 #: ../../M15.rst:461
-#: ../../M15.rst:1399
-#: ../../M15.rst:1421
-#: ../../M15.rst:1425
-#: ../../M15.rst:1431
-#: ../../M15.rst:1441
-#: ../../M15.rst:1451
+#: ../../M15.rst:1339
+#: ../../M15.rst:1361
+#: ../../M15.rst:1365
+#: ../../M15.rst:1371
+#: ../../M15.rst:1381
+#: ../../M15.rst:1391
 msgid "Flying (This creature can't be blocked except by creatures with flying or reach.)"
 msgstr ""
 
 #: ../../M15.rst:158
-msgid "Resolute Archangel"
+msgid ":mtgtip:`Resolute Archangel`"
 msgstr ""
 
 #: ../../M15.rst:157
@@ -346,7 +346,7 @@ msgid "When Resolute Archangel enters the battlefield, if your life total is les
 msgstr ""
 
 #: ../../M15.rst:164
-msgid "Return to the Ranks"
+msgid ":mtgtip:`Return to the Ranks`"
 msgstr ""
 
 #: ../../M15.rst:163
@@ -354,7 +354,7 @@ msgid "Return X target creature cards with converted mana cost 2 or less from yo
 msgstr ""
 
 #: ../../M15.rst:168
-msgid "Sanctified Charge"
+msgid ":mtgtip:`Sanctified Charge`"
 msgstr ""
 
 #: ../../M15.rst:167
@@ -362,7 +362,7 @@ msgid "Creatures you control get +2/+1 until end of turn. White creatures you co
 msgstr ""
 
 #: ../../M15.rst:172
-msgid "Selfless Cathar"
+msgid ":mtgtip:`Selfless Cathar`"
 msgstr ""
 
 #: ../../M15.rst:171
@@ -370,7 +370,7 @@ msgid "|mana_1|\\ |mana_w|, Sacrifice Selfless Cathar: Creatures you control get
 msgstr ""
 
 #: ../../M15.rst:180
-msgid "Seraph of the Masses"
+msgid ":mtgtip:`Seraph of the Masses`"
 msgstr ""
 
 #: ../../M15.rst:179
@@ -378,7 +378,7 @@ msgid "Seraph of the Masses's power and toughness are each equal to the number o
 msgstr ""
 
 #: ../../M15.rst:184
-msgid "Solemn Offering"
+msgid ":mtgtip:`Solemn Offering`"
 msgstr ""
 
 #: ../../M15.rst:183
@@ -386,7 +386,7 @@ msgid "Destroy target artifact or enchantment. You gain 4 life."
 msgstr ""
 
 #: ../../M15.rst:192
-msgid "Soul of Theros"
+msgid ":mtgtip:`Soul of Theros`"
 msgstr ""
 
 #: ../../M15.rst:187
@@ -402,7 +402,7 @@ msgid "|mana_4|\\ |mana_w|\\ |mana_w|, Exile Soul of Theros from your graveyard:
 msgstr ""
 
 #: ../../M15.rst:196
-msgid "Soulmender"
+msgid ":mtgtip:`Soulmender`"
 msgstr ""
 
 #: ../../M15.rst:195
@@ -410,7 +410,7 @@ msgid "|tap|: You gain 1 life."
 msgstr ""
 
 #: ../../M15.rst:202
-msgid "Spectra Ward"
+msgid ":mtgtip:`Spectra Ward`"
 msgstr ""
 
 #: ../../M15.rst:201
@@ -418,7 +418,7 @@ msgid "Enchanted creature gets +2/+2 and has protection from all colors. This ef
 msgstr ""
 
 #: ../../M15.rst:208
-msgid "Spirit Bonds"
+msgid ":mtgtip:`Spirit Bonds`"
 msgstr ""
 
 #: ../../M15.rst:205
@@ -430,16 +430,15 @@ msgid "|mana_1|\\ |mana_w|, Sacrifice a Spirit: Target non-Spirit creature gains
 msgstr ""
 
 #: ../../M15.rst:214
-msgid "Sungrace Pegasus"
+msgid ":mtgtip:`Sungrace Pegasus`"
 msgstr ""
 
 #: ../../M15.rst:213
-#: ../../M15.rst:473
 msgid "Lifelink (Damage dealt by this creature also causes you to gain that much life.)"
 msgstr ""
 
 #: ../../M15.rst:218
-msgid "Tireless Missionaries"
+msgid ":mtgtip:`Tireless Missionaries`"
 msgstr ""
 
 #: ../../M15.rst:217
@@ -447,7 +446,7 @@ msgid "When Tireless Missionaries enters the battlefield, you gain 3 life."
 msgstr ""
 
 #: ../../M15.rst:224
-msgid "Triplicate Spirits"
+msgid ":mtgtip:`Triplicate Spirits`"
 msgstr ""
 
 #: ../../M15.rst:223
@@ -455,7 +454,7 @@ msgid "Create three 1/1 white Spirit creature tokens with flying. (They can't be
 msgstr ""
 
 #: ../../M15.rst:230
-msgid "Wall of Essence"
+msgid ":mtgtip:`Wall of Essence`"
 msgstr ""
 
 #: ../../M15.rst:227
@@ -473,7 +472,7 @@ msgid "Whenever Wall of Essence is dealt combat damage, you gain that much life.
 msgstr ""
 
 #: ../../M15.rst:236
-msgid "Warden of the Beyond"
+msgid ":mtgtip:`Warden of the Beyond`"
 msgstr ""
 
 #: ../../M15.rst:233
@@ -485,7 +484,7 @@ msgid "Warden of the Beyond gets +2/+2 as long as an opponent owns a card in exi
 msgstr ""
 
 #: ../../M15.rst:240
-msgid "Aeronaut Tinkerer"
+msgid ":mtgtip:`Aeronaut Tinkerer`"
 msgstr ""
 
 #: ../../M15.rst:239
@@ -493,7 +492,7 @@ msgid "Aeronaut Tinkerer has flying as long as you control an artifact. (It can'
 msgstr ""
 
 #: ../../M15.rst:244
-msgid "Aetherspouts"
+msgid ":mtgtip:`Aetherspouts`"
 msgstr ""
 
 #: ../../M15.rst:243
@@ -501,7 +500,7 @@ msgid "For each attacking creature, its owner puts it on the top or bottom of th
 msgstr ""
 
 #: ../../M15.rst:248
-msgid "Amphin Pathmage"
+msgid ":mtgtip:`Amphin Pathmage`"
 msgstr ""
 
 #: ../../M15.rst:247
@@ -509,7 +508,7 @@ msgid "|mana_2|\\ |mana_u|: Target creature can't be blocked this turn."
 msgstr ""
 
 #: ../../M15.rst:254
-msgid "Chasm Skulker"
+msgid ":mtgtip:`Chasm Skulker`"
 msgstr ""
 
 #: ../../M15.rst:251
@@ -521,7 +520,7 @@ msgid "When Chasm Skulker dies, create X 1/1 blue Squid creature tokens with isl
 msgstr ""
 
 #: ../../M15.rst:258
-msgid "Chief Engineer"
+msgid ":mtgtip:`Chief Engineer`"
 msgstr ""
 
 #: ../../M15.rst:257
@@ -529,7 +528,7 @@ msgid "Artifact spells you cast have convoke. (Your creatures can help cast thos
 msgstr ""
 
 #: ../../M15.rst:262
-msgid "Chronostutter"
+msgid ":mtgtip:`Chronostutter`"
 msgstr ""
 
 #: ../../M15.rst:261
@@ -537,7 +536,7 @@ msgid "Put target creature into its owner's library second from the top."
 msgstr ""
 
 #: ../../M15.rst:268
-msgid "Coral Barrier"
+msgid ":mtgtip:`Coral Barrier`"
 msgstr ""
 
 #: ../../M15.rst:267
@@ -545,7 +544,7 @@ msgid "When Coral Barrier enters the battlefield, create a 1/1 blue Squid creatu
 msgstr ""
 
 #: ../../M15.rst:272
-msgid "Diffusion Sliver"
+msgid ":mtgtip:`Diffusion Sliver`"
 msgstr ""
 
 #: ../../M15.rst:271
@@ -553,7 +552,7 @@ msgid "Whenever a Sliver creature you control becomes the target of a spell or a
 msgstr ""
 
 #: ../../M15.rst:276
-msgid "Dissipate"
+msgid ":mtgtip:`Dissipate`"
 msgstr ""
 
 #: ../../M15.rst:275
@@ -561,7 +560,7 @@ msgid "Counter target spell. If that spell is countered this way, exile it inste
 msgstr ""
 
 #: ../../M15.rst:280
-msgid "Divination"
+msgid ":mtgtip:`Divination`"
 msgstr ""
 
 #: ../../M15.rst:279
@@ -569,7 +568,7 @@ msgid "Draw two cards."
 msgstr ""
 
 #: ../../M15.rst:286
-msgid "Encrust"
+msgid ":mtgtip:`Encrust`"
 msgstr ""
 
 #: ../../M15.rst:283
@@ -581,7 +580,7 @@ msgid "Enchanted permanent doesn't untap during its controller's untap step and 
 msgstr ""
 
 #: ../../M15.rst:292
-msgid "Ensoul Artifact"
+msgid ":mtgtip:`Ensoul Artifact`"
 msgstr ""
 
 #: ../../M15.rst:289
@@ -593,7 +592,7 @@ msgid "Enchanted artifact is a creature with base power and toughness 5/5 in add
 msgstr ""
 
 #: ../../M15.rst:296
-msgid "Frost Lynx"
+msgid ":mtgtip:`Frost Lynx`"
 msgstr ""
 
 #: ../../M15.rst:295
@@ -601,15 +600,16 @@ msgid "When Frost Lynx enters the battlefield, tap target creature an opponent c
 msgstr ""
 
 #: ../../M15.rst:298
-msgid "Fugitive Wizard"
+msgid ":mtgtip:`Fugitive Wizard`"
 msgstr ""
 
 #: ../../M15.rst:306
-msgid "Glacial Crasher"
+msgid ":mtgtip:`Glacial Crasher`"
 msgstr ""
 
 #: ../../M15.rst:303
 #: ../../M15.rst:1039
+#: ../../M15.rst:1407
 msgid "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
 
@@ -618,7 +618,7 @@ msgid "Glacial Crasher can't attack unless there is a Mountain on the battlefiel
 msgstr ""
 
 #: ../../M15.rst:310
-msgid "Hydrosurge"
+msgid ":mtgtip:`Hydrosurge`"
 msgstr ""
 
 #: ../../M15.rst:309
@@ -626,7 +626,7 @@ msgid "Target creature gets -5/-0 until end of turn."
 msgstr ""
 
 #: ../../M15.rst:316
-msgid "Illusory Angel"
+msgid ":mtgtip:`Illusory Angel`"
 msgstr ""
 
 #: ../../M15.rst:313
@@ -634,7 +634,7 @@ msgid "Cast this spell only if you've cast another spell this turn."
 msgstr ""
 
 #: ../../M15.rst:320
-msgid "Into the Void"
+msgid ":mtgtip:`Into the Void`"
 msgstr ""
 
 #: ../../M15.rst:319
@@ -642,7 +642,7 @@ msgid "Return up to two target creatures to their owners' hands."
 msgstr ""
 
 #: ../../M15.rst:326
-msgid "Invisibility"
+msgid ":mtgtip:`Invisibility`"
 msgstr ""
 
 #: ../../M15.rst:325
@@ -650,7 +650,7 @@ msgid "Enchanted creature can't be blocked except by Walls."
 msgstr ""
 
 #: ../../M15.rst:334
-msgid "Jace, the Living Guildpact"
+msgid ":mtgtip:`Jace, the Living Guildpact`"
 msgstr ""
 
 #: ../../M15.rst:329
@@ -666,7 +666,7 @@ msgid "−8: Each player shuffles their hand and graveyard into their library. Y
 msgstr ""
 
 #: ../../M15.rst:338
-msgid "Jace's Ingenuity"
+msgid ":mtgtip:`Jace's Ingenuity`"
 msgstr ""
 
 #: ../../M15.rst:337
@@ -674,7 +674,7 @@ msgid "Draw three cards."
 msgstr ""
 
 #: ../../M15.rst:342
-msgid "Jalira, Master Polymorphist"
+msgid ":mtgtip:`Jalira, Master Polymorphist`"
 msgstr ""
 
 #: ../../M15.rst:341
@@ -682,7 +682,7 @@ msgid "|mana_2|\\ |mana_u|, |tap|, Sacrifice another creature: Reveal cards from
 msgstr ""
 
 #: ../../M15.rst:348
-msgid "Jorubai Murk Lurker"
+msgid ":mtgtip:`Jorubai Murk Lurker`"
 msgstr ""
 
 #: ../../M15.rst:345
@@ -694,7 +694,7 @@ msgid "|mana_1|\\ |mana_b|: Target creature gains lifelink until end of turn. (D
 msgstr ""
 
 #: ../../M15.rst:354
-msgid "Kapsho Kitefins"
+msgid ":mtgtip:`Kapsho Kitefins`"
 msgstr ""
 
 #: ../../M15.rst:353
@@ -702,7 +702,7 @@ msgid "Whenever Kapsho Kitefins or another creature enters the battlefield under
 msgstr ""
 
 #: ../../M15.rst:360
-msgid "Master of Predicaments"
+msgid ":mtgtip:`Master of Predicaments`"
 msgstr ""
 
 #: ../../M15.rst:359
@@ -710,7 +710,7 @@ msgid "Whenever Master of Predicaments deals combat damage to a player, choose a
 msgstr ""
 
 #: ../../M15.rst:364
-msgid "Mercurial Pretender"
+msgid ":mtgtip:`Mercurial Pretender`"
 msgstr ""
 
 #: ../../M15.rst:363
@@ -718,7 +718,7 @@ msgid "You may have Mercurial Pretender enter the battlefield as a copy of any c
 msgstr ""
 
 #: ../../M15.rst:368
-msgid "Military Intelligence"
+msgid ":mtgtip:`Military Intelligence`"
 msgstr ""
 
 #: ../../M15.rst:367
@@ -726,7 +726,7 @@ msgid "Whenever you attack with two or more creatures, draw a card."
 msgstr ""
 
 #: ../../M15.rst:372
-msgid "Mind Sculpt"
+msgid ":mtgtip:`Mind Sculpt`"
 msgstr ""
 
 #: ../../M15.rst:371
@@ -734,7 +734,7 @@ msgid "Target opponent puts the top seven cards of their library into their grav
 msgstr ""
 
 #: ../../M15.rst:376
-msgid "Negate"
+msgid ":mtgtip:`Negate`"
 msgstr ""
 
 #: ../../M15.rst:375
@@ -742,11 +742,11 @@ msgid "Counter target noncreature spell."
 msgstr ""
 
 #: ../../M15.rst:380
-msgid "Nimbus of the Isles"
+msgid ":mtgtip:`Nimbus of the Isles`"
 msgstr ""
 
 #: ../../M15.rst:386
-msgid "Paragon of Gathering Mists"
+msgid ":mtgtip:`Paragon of Gathering Mists`"
 msgstr ""
 
 #: ../../M15.rst:383
@@ -758,7 +758,7 @@ msgid "|mana_u|, |tap|: Another target blue creature you control gains flying un
 msgstr ""
 
 #: ../../M15.rst:390
-msgid "Peel from Reality"
+msgid ":mtgtip:`Peel from Reality`"
 msgstr ""
 
 #: ../../M15.rst:389
@@ -766,7 +766,7 @@ msgid "Return target creature you control and target creature you don't control 
 msgstr ""
 
 #: ../../M15.rst:394
-msgid "Polymorphist's Jest"
+msgid ":mtgtip:`Polymorphist's Jest`"
 msgstr ""
 
 #: ../../M15.rst:393
@@ -774,7 +774,7 @@ msgid "Until end of turn, each creature target player controls loses all abiliti
 msgstr ""
 
 #: ../../M15.rst:402
-msgid "Quickling"
+msgid ":mtgtip:`Quickling`"
 msgstr ""
 
 #: ../../M15.rst:397
@@ -786,7 +786,7 @@ msgid "When Quickling enters the battlefield, sacrifice it unless you return ano
 msgstr ""
 
 #: ../../M15.rst:406
-msgid "Research Assistant"
+msgid ":mtgtip:`Research Assistant`"
 msgstr ""
 
 #: ../../M15.rst:405
@@ -794,7 +794,7 @@ msgid "|mana_3|\\ |mana_u|, |tap|: Draw a card, then discard a card."
 msgstr ""
 
 #: ../../M15.rst:414
-msgid "Soul of Ravnica"
+msgid ":mtgtip:`Soul of Ravnica`"
 msgstr ""
 
 #: ../../M15.rst:411
@@ -806,7 +806,7 @@ msgid "|mana_5|\\ |mana_u|\\ |mana_u|, Exile Soul of Ravnica from your graveyard
 msgstr ""
 
 #: ../../M15.rst:418
-msgid "Statute of Denial"
+msgid ":mtgtip:`Statute of Denial`"
 msgstr ""
 
 #: ../../M15.rst:417
@@ -814,7 +814,7 @@ msgid "Counter target spell. If you control a blue creature, draw a card, then d
 msgstr ""
 
 #: ../../M15.rst:426
-msgid "Stormtide Leviathan"
+msgid ":mtgtip:`Stormtide Leviathan`"
 msgstr ""
 
 #: ../../M15.rst:421
@@ -830,7 +830,7 @@ msgid "Creatures without flying or islandwalk can't attack."
 msgstr ""
 
 #: ../../M15.rst:430
-msgid "Turn to Frog"
+msgid ":mtgtip:`Turn to Frog`"
 msgstr ""
 
 #: ../../M15.rst:429
@@ -838,7 +838,7 @@ msgid "Until end of turn, target creature loses all abilities and becomes a blue
 msgstr ""
 
 #: ../../M15.rst:434
-msgid "Void Snare"
+msgid ":mtgtip:`Void Snare`"
 msgstr ""
 
 #: ../../M15.rst:433
@@ -846,7 +846,7 @@ msgid "Return target nonland permanent to its owner's hand."
 msgstr ""
 
 #: ../../M15.rst:440
-msgid "Wall of Frost"
+msgid ":mtgtip:`Wall of Frost`"
 msgstr ""
 
 #: ../../M15.rst:437
@@ -858,7 +858,7 @@ msgid "Whenever Wall of Frost blocks a creature, that creature doesn't untap dur
 msgstr ""
 
 #: ../../M15.rst:446
-msgid "Welkin Tern"
+msgid ":mtgtip:`Welkin Tern`"
 msgstr ""
 
 #: ../../M15.rst:445
@@ -866,7 +866,7 @@ msgid "Welkin Tern can block only creatures with flying."
 msgstr ""
 
 #: ../../M15.rst:450
-msgid "Accursed Spirit"
+msgid ":mtgtip:`Accursed Spirit`"
 msgstr ""
 
 #: ../../M15.rst:449
@@ -875,7 +875,7 @@ msgid "Intimidate (This creature can't be blocked except by artifact creatures a
 msgstr ""
 
 #: ../../M15.rst:454
-msgid "Black Cat"
+msgid ":mtgtip:`Black Cat`"
 msgstr ""
 
 #: ../../M15.rst:453
@@ -883,7 +883,7 @@ msgid "When Black Cat dies, target opponent discards a card at random."
 msgstr ""
 
 #: ../../M15.rst:458
-msgid "Blood Host"
+msgid ":mtgtip:`Blood Host`"
 msgstr ""
 
 #: ../../M15.rst:457
@@ -891,7 +891,7 @@ msgid "|mana_1|\\ |mana_b|, Sacrifice another creature: Put a +1/+1 counter on B
 msgstr ""
 
 #: ../../M15.rst:464
-msgid "Carrion Crow"
+msgid ":mtgtip:`Carrion Crow`"
 msgstr ""
 
 #: ../../M15.rst:463
@@ -899,7 +899,7 @@ msgid "Carrion Crow enters the battlefield tapped."
 msgstr ""
 
 #: ../../M15.rst:470
-msgid "Caustic Tar"
+msgid ":mtgtip:`Caustic Tar`"
 msgstr ""
 
 #: ../../M15.rst:467
@@ -912,11 +912,15 @@ msgid "Enchanted land has \"|tap|: Target player loses 3 life.\""
 msgstr ""
 
 #: ../../M15.rst:474
-msgid "Child of Night"
+msgid ":mtgtip:`Child of Night`"
+msgstr ""
+
+#: ../../M15.rst:473
+msgid "Lifelink"
 msgstr ""
 
 #: ../../M15.rst:480
-msgid "Covenant of Blood"
+msgid ":mtgtip:`Covenant of Blood`"
 msgstr ""
 
 #: ../../M15.rst:479
@@ -924,7 +928,7 @@ msgid "Covenant of Blood deals 4 damage to any target and you gain 4 life."
 msgstr ""
 
 #: ../../M15.rst:486
-msgid "Crippling Blight"
+msgid ":mtgtip:`Crippling Blight`"
 msgstr ""
 
 #: ../../M15.rst:485
@@ -932,7 +936,7 @@ msgid "Enchanted creature gets -1/-1 and can't block."
 msgstr ""
 
 #: ../../M15.rst:492
-msgid "Cruel Sadist"
+msgid ":mtgtip:`Cruel Sadist`"
 msgstr ""
 
 #: ../../M15.rst:489
@@ -944,7 +948,7 @@ msgid "|mana_2|\\ |mana_b|, |tap|, Remove X +1/+1 counters from Cruel Sadist: Cr
 msgstr ""
 
 #: ../../M15.rst:498
-msgid "Endless Obedience"
+msgid ":mtgtip:`Endless Obedience`"
 msgstr ""
 
 #: ../../M15.rst:497
@@ -952,7 +956,7 @@ msgid "Put target creature card from a graveyard onto the battlefield under your
 msgstr ""
 
 #: ../../M15.rst:504
-msgid "Eternal Thirst"
+msgid ":mtgtip:`Eternal Thirst`"
 msgstr ""
 
 #: ../../M15.rst:503
@@ -960,7 +964,7 @@ msgid "Enchanted creature has lifelink and \"Whenever a creature an opponent con
 msgstr ""
 
 #: ../../M15.rst:508
-msgid "Feast on the Fallen"
+msgid ":mtgtip:`Feast on the Fallen`"
 msgstr ""
 
 #: ../../M15.rst:507
@@ -968,7 +972,7 @@ msgid "At the beginning of each upkeep, if an opponent lost life last turn, put 
 msgstr ""
 
 #: ../../M15.rst:512
-msgid "Festergloom"
+msgid ":mtgtip:`Festergloom`"
 msgstr ""
 
 #: ../../M15.rst:511
@@ -976,7 +980,7 @@ msgid "Nonblack creatures get -1/-1 until end of turn."
 msgstr ""
 
 #: ../../M15.rst:516
-msgid "Flesh to Dust"
+msgid ":mtgtip:`Flesh to Dust`"
 msgstr ""
 
 #: ../../M15.rst:515
@@ -984,7 +988,7 @@ msgid "Destroy target creature. It can't be regenerated."
 msgstr ""
 
 #: ../../M15.rst:520
-msgid "Gravedigger"
+msgid ":mtgtip:`Gravedigger`"
 msgstr ""
 
 #: ../../M15.rst:519
@@ -992,7 +996,7 @@ msgid "When Gravedigger enters the battlefield, you may return target creature c
 msgstr ""
 
 #: ../../M15.rst:524
-msgid "In Garruk's Wake"
+msgid ":mtgtip:`In Garruk's Wake`"
 msgstr ""
 
 #: ../../M15.rst:523
@@ -1000,7 +1004,7 @@ msgid "Destroy all creatures you don't control and all planeswalkers you don't c
 msgstr ""
 
 #: ../../M15.rst:530
-msgid "Indulgent Tormentor"
+msgid ":mtgtip:`Indulgent Tormentor`"
 msgstr ""
 
 #: ../../M15.rst:529
@@ -1008,7 +1012,7 @@ msgid "At the beginning of your upkeep, draw a card unless target opponent sacri
 msgstr ""
 
 #: ../../M15.rst:534
-msgid "Leeching Sliver"
+msgid ":mtgtip:`Leeching Sliver`"
 msgstr ""
 
 #: ../../M15.rst:533
@@ -1016,7 +1020,7 @@ msgid "Whenever a Sliver you control attacks, defending player loses 1 life."
 msgstr ""
 
 #: ../../M15.rst:542
-msgid "Liliana Vess"
+msgid ":mtgtip:`Liliana Vess`"
 msgstr ""
 
 #: ../../M15.rst:537
@@ -1032,7 +1036,7 @@ msgid "−8: Put all creature cards from all graveyards onto the battlefield und
 msgstr ""
 
 #: ../../M15.rst:546
-msgid "Mind Rot"
+msgid ":mtgtip:`Mind Rot`"
 msgstr ""
 
 #: ../../M15.rst:545
@@ -1040,7 +1044,7 @@ msgid "Target player discards two cards."
 msgstr ""
 
 #: ../../M15.rst:550
-msgid "Necrobite"
+msgid ":mtgtip:`Necrobite`"
 msgstr ""
 
 #: ../../M15.rst:549
@@ -1048,7 +1052,7 @@ msgid "Target creature gains deathtouch until end of turn. Regenerate it. (The n
 msgstr ""
 
 #: ../../M15.rst:556
-msgid "Necrogen Scudder"
+msgid ":mtgtip:`Necrogen Scudder`"
 msgstr ""
 
 #: ../../M15.rst:555
@@ -1056,7 +1060,7 @@ msgid "When Necrogen Scudder enters the battlefield, you lose 3 life."
 msgstr ""
 
 #: ../../M15.rst:560
-msgid "Necromancer's Assistant"
+msgid ":mtgtip:`Necromancer's Assistant`"
 msgstr ""
 
 #: ../../M15.rst:559
@@ -1064,7 +1068,7 @@ msgid "When Necromancer's Assistant enters the battlefield, put the top three ca
 msgstr ""
 
 #: ../../M15.rst:564
-msgid "Necromancer's Stockpile"
+msgid ":mtgtip:`Necromancer's Stockpile`"
 msgstr ""
 
 #: ../../M15.rst:563
@@ -1072,7 +1076,7 @@ msgid "|mana_1|\\ |mana_b|, Discard a creature card: Draw a card. If the discard
 msgstr ""
 
 #: ../../M15.rst:570
-msgid "Nightfire Giant"
+msgid ":mtgtip:`Nightfire Giant`"
 msgstr ""
 
 #: ../../M15.rst:567
@@ -1084,7 +1088,7 @@ msgid "|mana_4|\\ |mana_r|: Nightfire Giant deals 2 damage to any target."
 msgstr ""
 
 #: ../../M15.rst:578
-msgid "Ob Nixilis, Unshackled"
+msgid ":mtgtip:`Ob Nixilis, Unshackled`"
 msgstr ""
 
 #: ../../M15.rst:573
@@ -1100,7 +1104,7 @@ msgid "Whenever another creature dies, put a +1/+1 counter on Ob Nixilis, Unshac
 msgstr ""
 
 #: ../../M15.rst:584
-msgid "Paragon of Open Graves"
+msgid ":mtgtip:`Paragon of Open Graves`"
 msgstr ""
 
 #: ../../M15.rst:581
@@ -1112,7 +1116,7 @@ msgid "|mana_2|\\ |mana_b|, |tap|: Another target black creature you control gai
 msgstr ""
 
 #: ../../M15.rst:588
-msgid "Rotfeaster Maggot"
+msgid ":mtgtip:`Rotfeaster Maggot`"
 msgstr ""
 
 #: ../../M15.rst:587
@@ -1120,7 +1124,7 @@ msgid "When Rotfeaster Maggot enters the battlefield, exile target creature card
 msgstr ""
 
 #: ../../M15.rst:592
-msgid "Shadowcloak Vampire"
+msgid ":mtgtip:`Shadowcloak Vampire`"
 msgstr ""
 
 #: ../../M15.rst:591
@@ -1128,7 +1132,7 @@ msgid "Pay 2 life: Shadowcloak Vampire gains flying until end of turn. (It can't
 msgstr ""
 
 #: ../../M15.rst:596
-msgid "Sign in Blood"
+msgid ":mtgtip:`Sign in Blood`"
 msgstr ""
 
 #: ../../M15.rst:595
@@ -1136,7 +1140,7 @@ msgid "Target player draws two cards and loses 2 life."
 msgstr ""
 
 #: ../../M15.rst:604
-msgid "Soul of Innistrad"
+msgid ":mtgtip:`Soul of Innistrad`"
 msgstr ""
 
 #: ../../M15.rst:599
@@ -1152,7 +1156,7 @@ msgid "|mana_3|\\ |mana_b|\\ |mana_b|, Exile Soul of Innistrad from your graveya
 msgstr ""
 
 #: ../../M15.rst:612
-msgid "Stab Wound"
+msgid ":mtgtip:`Stab Wound`"
 msgstr ""
 
 #: ../../M15.rst:609
@@ -1164,7 +1168,7 @@ msgid "At the beginning of the upkeep of enchanted creature's controller, that p
 msgstr ""
 
 #: ../../M15.rst:618
-msgid "Stain the Mind"
+msgid ":mtgtip:`Stain the Mind`"
 msgstr ""
 
 #: ../../M15.rst:617
@@ -1172,7 +1176,7 @@ msgid "Choose a nonland card name. Search target player's graveyard, hand, and l
 msgstr ""
 
 #: ../../M15.rst:622
-msgid "Typhoid Rats"
+msgid ":mtgtip:`Typhoid Rats`"
 msgstr ""
 
 #: ../../M15.rst:621
@@ -1181,7 +1185,7 @@ msgid "Deathtouch (Any amount of damage this deals to a creature is enough to de
 msgstr ""
 
 #: ../../M15.rst:626
-msgid "Ulcerate"
+msgid ":mtgtip:`Ulcerate`"
 msgstr ""
 
 #: ../../M15.rst:625
@@ -1189,7 +1193,7 @@ msgid "Target creature gets -3/-3 until end of turn. You lose 3 life."
 msgstr ""
 
 #: ../../M15.rst:632
-msgid "Unmake the Graves"
+msgid ":mtgtip:`Unmake the Graves`"
 msgstr ""
 
 #: ../../M15.rst:631
@@ -1197,7 +1201,7 @@ msgid "Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
 
 #: ../../M15.rst:640
-msgid "Wall of Limbs"
+msgid ":mtgtip:`Wall of Limbs`"
 msgstr ""
 
 #: ../../M15.rst:637
@@ -1209,7 +1213,7 @@ msgid "|mana_5|\\ |mana_b|\\ |mana_b|, Sacrifice Wall of Limbs: Target player lo
 msgstr ""
 
 #: ../../M15.rst:648
-msgid "Waste Not"
+msgid ":mtgtip:`Waste Not`"
 msgstr ""
 
 #: ../../M15.rst:643
@@ -1225,11 +1229,11 @@ msgid "Whenever an opponent discards a noncreature, nonland card, draw a card."
 msgstr ""
 
 #: ../../M15.rst:650
-msgid "Witch's Familiar"
+msgid ":mtgtip:`Witch's Familiar`"
 msgstr ""
 
 #: ../../M15.rst:658
-msgid "Xathrid Slyblade"
+msgid ":mtgtip:`Xathrid Slyblade`"
 msgstr ""
 
 #: ../../M15.rst:655
@@ -1241,7 +1245,7 @@ msgid "|mana_3|\\ |mana_b|: Until end of turn, Xathrid Slyblade loses hexproof a
 msgstr ""
 
 #: ../../M15.rst:662
-msgid "Zof Shade"
+msgid ":mtgtip:`Zof Shade`"
 msgstr ""
 
 #: ../../M15.rst:661
@@ -1249,7 +1253,7 @@ msgid "|mana_2|\\ |mana_b|: Zof Shade gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../M15.rst:666
-msgid "Act on Impulse"
+msgid ":mtgtip:`Act on Impulse`"
 msgstr ""
 
 #: ../../M15.rst:665
@@ -1257,7 +1261,7 @@ msgid "Exile the top three cards of your library. Until end of turn, you may pla
 msgstr ""
 
 #: ../../M15.rst:672
-msgid "Aggressive Mining"
+msgid ":mtgtip:`Aggressive Mining`"
 msgstr ""
 
 #: ../../M15.rst:669
@@ -1269,7 +1273,7 @@ msgid "Sacrifice a land: Draw two cards. Activate this ability only once each tu
 msgstr ""
 
 #: ../../M15.rst:676
-msgid "Altac Bloodseeker"
+msgid ":mtgtip:`Altac Bloodseeker`"
 msgstr ""
 
 #: ../../M15.rst:675
@@ -1277,7 +1281,7 @@ msgid "Whenever a creature an opponent controls dies, Altac Bloodseeker gets +2/
 msgstr ""
 
 #: ../../M15.rst:680
-msgid "Belligerent Sliver"
+msgid ":mtgtip:`Belligerent Sliver`"
 msgstr ""
 
 #: ../../M15.rst:679
@@ -1285,7 +1289,7 @@ msgid "Sliver creatures you control have menace. (They can't be blocked except b
 msgstr ""
 
 #: ../../M15.rst:684
-msgid "Blastfire Bolt"
+msgid ":mtgtip:`Blastfire Bolt`"
 msgstr ""
 
 #: ../../M15.rst:683
@@ -1293,7 +1297,7 @@ msgid "Blastfire Bolt deals 5 damage to target creature. Destroy all Equipment a
 msgstr ""
 
 #: ../../M15.rst:688
-msgid "Borderland Marauder"
+msgid ":mtgtip:`Borderland Marauder`"
 msgstr ""
 
 #: ../../M15.rst:687
@@ -1301,7 +1305,7 @@ msgid "Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../M15.rst:692
-msgid "Brood Keeper"
+msgid ":mtgtip:`Brood Keeper`"
 msgstr ""
 
 #: ../../M15.rst:691
@@ -1309,7 +1313,7 @@ msgid "Whenever an Aura becomes attached to Brood Keeper, create a 2/2 red Drago
 msgstr ""
 
 #: ../../M15.rst:698
-msgid "Burning Anger"
+msgid ":mtgtip:`Burning Anger`"
 msgstr ""
 
 #: ../../M15.rst:697
@@ -1317,7 +1321,7 @@ msgid "Enchanted creature has \"|tap|: This creature deals damage equal to its p
 msgstr ""
 
 #: ../../M15.rst:706
-msgid "Chandra, Pyromaster"
+msgid ":mtgtip:`Chandra, Pyromaster`"
 msgstr ""
 
 #: ../../M15.rst:701
@@ -1333,7 +1337,7 @@ msgid "−7: Exile the top ten cards of your library. Choose an instant or sorce
 msgstr ""
 
 #: ../../M15.rst:710
-msgid "Circle of Flame"
+msgid ":mtgtip:`Circle of Flame`"
 msgstr ""
 
 #: ../../M15.rst:709
@@ -1341,7 +1345,7 @@ msgid "Whenever a creature without flying attacks you or a planeswalker you cont
 msgstr ""
 
 #: ../../M15.rst:714
-msgid "Clear a Path"
+msgid ":mtgtip:`Clear a Path`"
 msgstr ""
 
 #: ../../M15.rst:713
@@ -1349,7 +1353,7 @@ msgid "Destroy target creature with defender."
 msgstr ""
 
 #: ../../M15.rst:718
-msgid "Cone of Flame"
+msgid ":mtgtip:`Cone of Flame`"
 msgstr ""
 
 #: ../../M15.rst:717
@@ -1357,7 +1361,7 @@ msgid "Cone of Flame deals 1 damage to any target, 2 damage to another target, a
 msgstr ""
 
 #: ../../M15.rst:724
-msgid "Crowd's Favor"
+msgid ":mtgtip:`Crowd's Favor`"
 msgstr ""
 
 #: ../../M15.rst:723
@@ -1365,7 +1369,7 @@ msgid "Target creature gets +1/+0 and gains first strike until end of turn. (It 
 msgstr ""
 
 #: ../../M15.rst:728
-msgid "Crucible of Fire"
+msgid ":mtgtip:`Crucible of Fire`"
 msgstr ""
 
 #: ../../M15.rst:727
@@ -1373,7 +1377,7 @@ msgid "Dragon creatures you control get +3/+3."
 msgstr ""
 
 #: ../../M15.rst:732
-msgid "Forge Devil"
+msgid ":mtgtip:`Forge Devil`"
 msgstr ""
 
 #: ../../M15.rst:731
@@ -1381,7 +1385,7 @@ msgid "When Forge Devil enters the battlefield, it deals 1 damage to target crea
 msgstr ""
 
 #: ../../M15.rst:736
-msgid "Foundry Street Denizen"
+msgid ":mtgtip:`Foundry Street Denizen`"
 msgstr ""
 
 #: ../../M15.rst:735
@@ -1389,7 +1393,7 @@ msgid "Whenever another red creature enters the battlefield under your control, 
 msgstr ""
 
 #: ../../M15.rst:740
-msgid "Frenzied Goblin"
+msgid ":mtgtip:`Frenzied Goblin`"
 msgstr ""
 
 #: ../../M15.rst:739
@@ -1397,7 +1401,7 @@ msgid "Whenever Frenzied Goblin attacks, you may pay |mana_r|. If you do, target
 msgstr ""
 
 #: ../../M15.rst:744
-msgid "Generator Servant"
+msgid ":mtgtip:`Generator Servant`"
 msgstr ""
 
 #: ../../M15.rst:743
@@ -1405,7 +1409,7 @@ msgid "|tap|, Sacrifice Generator Servant: Add |colorless|\\ |colorless|. If tha
 msgstr ""
 
 #: ../../M15.rst:748
-msgid "Goblin Kaboomist"
+msgid ":mtgtip:`Goblin Kaboomist`"
 msgstr ""
 
 #: ../../M15.rst:747
@@ -1413,7 +1417,7 @@ msgid "At the beginning of your upkeep, create a colorless artifact token named 
 msgstr ""
 
 #: ../../M15.rst:756
-msgid "Goblin Rabblemaster"
+msgid ":mtgtip:`Goblin Rabblemaster`"
 msgstr ""
 
 #: ../../M15.rst:751
@@ -1429,11 +1433,11 @@ msgid "Whenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for
 msgstr ""
 
 #: ../../M15.rst:758
-msgid "Goblin Roughrider"
+msgid ":mtgtip:`Goblin Roughrider`"
 msgstr ""
 
 #: ../../M15.rst:768
-msgid "Hammerhand"
+msgid ":mtgtip:`Hammerhand`"
 msgstr ""
 
 #: ../../M15.rst:765
@@ -1445,7 +1449,7 @@ msgid "Enchanted creature gets +1/+1 and has haste. (It can attack and |tap| no 
 msgstr ""
 
 #: ../../M15.rst:772
-msgid "Heat Ray"
+msgid ":mtgtip:`Heat Ray`"
 msgstr ""
 
 #: ../../M15.rst:771
@@ -1453,7 +1457,7 @@ msgid "Heat Ray deals X damage to target creature."
 msgstr ""
 
 #: ../../M15.rst:780
-msgid "Hoarding Dragon"
+msgid ":mtgtip:`Hoarding Dragon`"
 msgstr ""
 
 #: ../../M15.rst:777
@@ -1465,7 +1469,7 @@ msgid "When Hoarding Dragon dies, you may put the exiled card into its owner's h
 msgstr ""
 
 #: ../../M15.rst:788
-msgid "Inferno Fist"
+msgid ":mtgtip:`Inferno Fist`"
 msgstr ""
 
 #: ../../M15.rst:783
@@ -1481,7 +1485,7 @@ msgid "|mana_r|, Sacrifice Inferno Fist: Inferno Fist deals 2 damage to any targ
 msgstr ""
 
 #: ../../M15.rst:794
-msgid "Kird Chieftain"
+msgid ":mtgtip:`Kird Chieftain`"
 msgstr ""
 
 #: ../../M15.rst:791
@@ -1489,15 +1493,15 @@ msgid "Kird Chieftain gets +1/+1 as long as you control a Forest."
 msgstr ""
 
 #: ../../M15.rst:793
-msgid "|mana_4|\\ |mana_g|: Target creature gets +2/+2 and gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)"
+msgid "|mana_4|\\ |mana_g|: Target creature gets +2/+2 and gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
 
 #: ../../M15.rst:798
-msgid "Krenko's Enforcer"
+msgid ":mtgtip:`Krenko's Enforcer`"
 msgstr ""
 
 #: ../../M15.rst:802
-msgid "Kurkesh, Onakke Ancient"
+msgid ":mtgtip:`Kurkesh, Onakke Ancient`"
 msgstr ""
 
 #: ../../M15.rst:801
@@ -1505,7 +1509,7 @@ msgid "Whenever you activate an ability of an artifact, if it isn't a mana abili
 msgstr ""
 
 #: ../../M15.rst:806
-msgid "Lava Axe"
+msgid ":mtgtip:`Lava Axe`"
 msgstr ""
 
 #: ../../M15.rst:805
@@ -1513,7 +1517,7 @@ msgid "Lava Axe deals 5 damage to target player or planeswalker."
 msgstr ""
 
 #: ../../M15.rst:810
-msgid "Lightning Strike"
+msgid ":mtgtip:`Lightning Strike`"
 msgstr ""
 
 #: ../../M15.rst:809
@@ -1521,7 +1525,7 @@ msgid "Lightning Strike deals 3 damage to any target."
 msgstr ""
 
 #: ../../M15.rst:814
-msgid "Might Makes Right"
+msgid ":mtgtip:`Might Makes Right`"
 msgstr ""
 
 #: ../../M15.rst:813
@@ -1529,15 +1533,15 @@ msgid "At the beginning of combat on your turn, if you control each creature on 
 msgstr ""
 
 #: ../../M15.rst:818
-msgid "Miner's Bane"
+msgid ":mtgtip:`Miner's Bane`"
 msgstr ""
 
 #: ../../M15.rst:817
-msgid "|mana_2|\\ |mana_r|: Miner's Bane gets +1/+0 and gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)"
+msgid "|mana_2|\\ |mana_r|: Miner's Bane gets +1/+0 and gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
 
 #: ../../M15.rst:824
-msgid "Paragon of Fierce Defiance"
+msgid ":mtgtip:`Paragon of Fierce Defiance`"
 msgstr ""
 
 #: ../../M15.rst:821
@@ -1549,7 +1553,7 @@ msgid "|mana_r|, |tap|: Another target red creature you control gains haste unti
 msgstr ""
 
 #: ../../M15.rst:828
-msgid "Rummaging Goblin"
+msgid ":mtgtip:`Rummaging Goblin`"
 msgstr ""
 
 #: ../../M15.rst:827
@@ -1557,15 +1561,15 @@ msgid "|tap|, Discard a card: Draw a card."
 msgstr ""
 
 #: ../../M15.rst:832
-msgid "Scrapyard Mongrel"
+msgid ":mtgtip:`Scrapyard Mongrel`"
 msgstr ""
 
 #: ../../M15.rst:831
-msgid "As long as you control an artifact, Scrapyard Mongrel gets +2/+0 and has trample. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)"
+msgid "As long as you control an artifact, Scrapyard Mongrel gets +2/+0 and has trample. (It can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
 
 #: ../../M15.rst:838
-msgid "Shrapnel Blast"
+msgid ":mtgtip:`Shrapnel Blast`"
 msgstr ""
 
 #: ../../M15.rst:835
@@ -1577,7 +1581,7 @@ msgid "Shrapnel Blast deals 5 damage to any target."
 msgstr ""
 
 #: ../../M15.rst:846
-msgid "Siege Dragon"
+msgid ":mtgtip:`Siege Dragon`"
 msgstr ""
 
 #: ../../M15.rst:843
@@ -1589,7 +1593,7 @@ msgid "Whenever Siege Dragon attacks, if defending player controls no Walls, it 
 msgstr ""
 
 #: ../../M15.rst:854
-msgid "Soul of Shandalar"
+msgid ":mtgtip:`Soul of Shandalar`"
 msgstr ""
 
 #: ../../M15.rst:849
@@ -1605,7 +1609,7 @@ msgid "|mana_3|\\ |mana_r|\\ |mana_r|, Exile Soul of Shandalar from your graveya
 msgstr ""
 
 #: ../../M15.rst:860
-msgid "Stoke the Flames"
+msgid ":mtgtip:`Stoke the Flames`"
 msgstr ""
 
 #: ../../M15.rst:859
@@ -1613,7 +1617,7 @@ msgid "Stoke the Flames deals 4 damage to any target."
 msgstr ""
 
 #: ../../M15.rst:864
-msgid "Thundering Giant"
+msgid ":mtgtip:`Thundering Giant`"
 msgstr ""
 
 #: ../../M15.rst:863
@@ -1621,7 +1625,7 @@ msgid "Haste (This creature can attack and |tap| as soon as it comes under your 
 msgstr ""
 
 #: ../../M15.rst:868
-msgid "Torch Fiend"
+msgid ":mtgtip:`Torch Fiend`"
 msgstr ""
 
 #: ../../M15.rst:867
@@ -1629,7 +1633,7 @@ msgid "|mana_r|, Sacrifice Torch Fiend: Destroy target artifact."
 msgstr ""
 
 #: ../../M15.rst:874
-msgid "Wall of Fire"
+msgid ":mtgtip:`Wall of Fire`"
 msgstr ""
 
 #: ../../M15.rst:873
@@ -1637,7 +1641,7 @@ msgid "|mana_r|: Wall of Fire gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../M15.rst:878
-msgid "Ancient Silverback"
+msgid ":mtgtip:`Ancient Silverback`"
 msgstr ""
 
 #: ../../M15.rst:877
@@ -1645,7 +1649,7 @@ msgid "|mana_g|: Regenerate Ancient Silverback. (The next time this creature wou
 msgstr ""
 
 #: ../../M15.rst:882
-msgid "Back to Nature"
+msgid ":mtgtip:`Back to Nature`"
 msgstr ""
 
 #: ../../M15.rst:881
@@ -1653,7 +1657,7 @@ msgid "Destroy all enchantments."
 msgstr ""
 
 #: ../../M15.rst:886
-msgid "Carnivorous Moss-Beast"
+msgid ":mtgtip:`Carnivorous Moss-Beast`"
 msgstr ""
 
 #: ../../M15.rst:885
@@ -1661,7 +1665,7 @@ msgid "|mana_5|\\ |mana_g|\\ |mana_g|: Put a +1/+1 counter on Carnivorous Moss-B
 msgstr ""
 
 #: ../../M15.rst:890
-msgid "Charging Rhino"
+msgid ":mtgtip:`Charging Rhino`"
 msgstr ""
 
 #: ../../M15.rst:889
@@ -1669,7 +1673,7 @@ msgid "Charging Rhino can't be blocked by more than one creature."
 msgstr ""
 
 #: ../../M15.rst:896
-msgid "Chord of Calling"
+msgid ":mtgtip:`Chord of Calling`"
 msgstr ""
 
 #: ../../M15.rst:895
@@ -1677,7 +1681,7 @@ msgid "Search your library for a creature card with converted mana cost X or les
 msgstr ""
 
 #: ../../M15.rst:900
-msgid "Elvish Mystic"
+msgid ":mtgtip:`Elvish Mystic`"
 msgstr ""
 
 #: ../../M15.rst:899
@@ -1685,7 +1689,7 @@ msgid "|tap|: Add |mana_g|."
 msgstr ""
 
 #: ../../M15.rst:906
-msgid "Feral Incarnation"
+msgid ":mtgtip:`Feral Incarnation`"
 msgstr ""
 
 #: ../../M15.rst:905
@@ -1693,7 +1697,7 @@ msgid "Create three 3/3 green Beast creature tokens."
 msgstr ""
 
 #: ../../M15.rst:912
-msgid "Gather Courage"
+msgid ":mtgtip:`Gather Courage`"
 msgstr ""
 
 #: ../../M15.rst:911
@@ -1701,7 +1705,7 @@ msgid "Target creature gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../M15.rst:918
-msgid "Genesis Hydra"
+msgid ":mtgtip:`Genesis Hydra`"
 msgstr ""
 
 #: ../../M15.rst:915
@@ -1713,7 +1717,7 @@ msgid "Genesis Hydra enters the battlefield with X +1/+1 counters on it."
 msgstr ""
 
 #: ../../M15.rst:924
-msgid "Hornet Nest"
+msgid ":mtgtip:`Hornet Nest`"
 msgstr ""
 
 #: ../../M15.rst:923
@@ -1721,7 +1725,7 @@ msgid "Whenever Hornet Nest is dealt damage, create that many 1/1 green Insect c
 msgstr ""
 
 #: ../../M15.rst:932
-msgid "Hornet Queen"
+msgid ":mtgtip:`Hornet Queen`"
 msgstr ""
 
 #: ../../M15.rst:931
@@ -1729,7 +1733,7 @@ msgid "When Hornet Queen enters the battlefield, create four 1/1 green Insect cr
 msgstr ""
 
 #: ../../M15.rst:936
-msgid "Hunt the Weak"
+msgid ":mtgtip:`Hunt the Weak`"
 msgstr ""
 
 #: ../../M15.rst:935
@@ -1737,7 +1741,7 @@ msgid "Put a +1/+1 counter on target creature you control. Then that creature fi
 msgstr ""
 
 #: ../../M15.rst:940
-msgid "Hunter's Ambush"
+msgid ":mtgtip:`Hunter's Ambush`"
 msgstr ""
 
 #: ../../M15.rst:939
@@ -1745,7 +1749,7 @@ msgid "Prevent all combat damage that would be dealt by nongreen creatures this 
 msgstr ""
 
 #: ../../M15.rst:944
-msgid "Invasive Species"
+msgid ":mtgtip:`Invasive Species`"
 msgstr ""
 
 #: ../../M15.rst:943
@@ -1753,7 +1757,7 @@ msgid "When Invasive Species enters the battlefield, return another permanent yo
 msgstr ""
 
 #: ../../M15.rst:950
-msgid "Kalonian Twingrove"
+msgid ":mtgtip:`Kalonian Twingrove`"
 msgstr ""
 
 #: ../../M15.rst:947
@@ -1765,7 +1769,7 @@ msgid "When Kalonian Twingrove enters the battlefield, create a green Treefolk W
 msgstr ""
 
 #: ../../M15.rst:956
-msgid "Life's Legacy"
+msgid ":mtgtip:`Life's Legacy`"
 msgstr ""
 
 #: ../../M15.rst:953
@@ -1777,7 +1781,7 @@ msgid "Draw cards equal to the sacrificed creature's power."
 msgstr ""
 
 #: ../../M15.rst:962
-msgid "Living Totem"
+msgid ":mtgtip:`Living Totem`"
 msgstr ""
 
 #: ../../M15.rst:961
@@ -1785,7 +1789,7 @@ msgid "When Living Totem enters the battlefield, you may put a +1/+1 counter on 
 msgstr ""
 
 #: ../../M15.rst:966
-msgid "Naturalize"
+msgid ":mtgtip:`Naturalize`"
 msgstr ""
 
 #: ../../M15.rst:965
@@ -1793,7 +1797,7 @@ msgid "Destroy target artifact or enchantment."
 msgstr ""
 
 #: ../../M15.rst:972
-msgid "Netcaster Spider"
+msgid ":mtgtip:`Netcaster Spider`"
 msgstr ""
 
 #: ../../M15.rst:969
@@ -1805,7 +1809,7 @@ msgid "Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider
 msgstr ""
 
 #: ../../M15.rst:980
-msgid "Nissa, Worldwaker"
+msgid ":mtgtip:`Nissa, Worldwaker`"
 msgstr ""
 
 #: ../../M15.rst:975
@@ -1821,7 +1825,7 @@ msgid "−7: Search your library for any number of basic land cards, put them on
 msgstr ""
 
 #: ../../M15.rst:986
-msgid "Nissa's Expedition"
+msgid ":mtgtip:`Nissa's Expedition`"
 msgstr ""
 
 #: ../../M15.rst:985
@@ -1829,7 +1833,7 @@ msgid "Search your library for up to two basic land cards, put them onto the bat
 msgstr ""
 
 #: ../../M15.rst:992
-msgid "Overwhelm"
+msgid ":mtgtip:`Overwhelm`"
 msgstr ""
 
 #: ../../M15.rst:991
@@ -1837,7 +1841,7 @@ msgid "Creatures you control get +3/+3 until end of turn."
 msgstr ""
 
 #: ../../M15.rst:998
-msgid "Paragon of Eternal Wilds"
+msgid ":mtgtip:`Paragon of Eternal Wilds`"
 msgstr ""
 
 #: ../../M15.rst:995
@@ -1845,11 +1849,11 @@ msgid "Other green creatures you control get +1/+1."
 msgstr ""
 
 #: ../../M15.rst:997
-msgid "|mana_g|, |tap|: Another target green creature you control gains trample until end of turn. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)"
+msgid "|mana_g|, |tap|: Another target green creature you control gains trample until end of turn. (It can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
 
 #: ../../M15.rst:1002
-msgid "Phytotitan"
+msgid ":mtgtip:`Phytotitan`"
 msgstr ""
 
 #: ../../M15.rst:1001
@@ -1857,7 +1861,7 @@ msgid "When Phytotitan dies, return it to the battlefield tapped under its owner
 msgstr ""
 
 #: ../../M15.rst:1006
-msgid "Plummet"
+msgid ":mtgtip:`Plummet`"
 msgstr ""
 
 #: ../../M15.rst:1005
@@ -1865,7 +1869,7 @@ msgid "Destroy target creature with flying."
 msgstr ""
 
 #: ../../M15.rst:1010
-msgid "Ranger's Guile"
+msgid ":mtgtip:`Ranger's Guile`"
 msgstr ""
 
 #: ../../M15.rst:1009
@@ -1873,7 +1877,7 @@ msgid "Target creature you control gets +1/+1 and gains hexproof until end of tu
 msgstr ""
 
 #: ../../M15.rst:1014
-msgid "Reclamation Sage"
+msgid ":mtgtip:`Reclamation Sage`"
 msgstr ""
 
 #: ../../M15.rst:1013
@@ -1881,7 +1885,7 @@ msgid "When Reclamation Sage enters the battlefield, you may destroy target arti
 msgstr ""
 
 #: ../../M15.rst:1018
-msgid "Restock"
+msgid ":mtgtip:`Restock`"
 msgstr ""
 
 #: ../../M15.rst:1017
@@ -1889,7 +1893,7 @@ msgid "Return two target cards from your graveyard to your hand. Exile Restock."
 msgstr ""
 
 #: ../../M15.rst:1022
-msgid "Roaring Primadox"
+msgid ":mtgtip:`Roaring Primadox`"
 msgstr ""
 
 #: ../../M15.rst:1021
@@ -1897,11 +1901,11 @@ msgid "At the beginning of your upkeep, return a creature you control to its own
 msgstr ""
 
 #: ../../M15.rst:1024
-msgid "Runeclaw Bear"
+msgid ":mtgtip:`Runeclaw Bear`"
 msgstr ""
 
 #: ../../M15.rst:1030
-msgid "Satyr Wayfinder"
+msgid ":mtgtip:`Satyr Wayfinder`"
 msgstr ""
 
 #: ../../M15.rst:1029
@@ -1909,7 +1913,7 @@ msgid "When Satyr Wayfinder enters the battlefield, reveal the top four cards of
 msgstr ""
 
 #: ../../M15.rst:1034
-msgid "Shaman of Spring"
+msgid ":mtgtip:`Shaman of Spring`"
 msgstr ""
 
 #: ../../M15.rst:1033
@@ -1917,11 +1921,11 @@ msgid "When Shaman of Spring enters the battlefield, draw a card."
 msgstr ""
 
 #: ../../M15.rst:1040
-msgid "Siege Wurm"
+msgid ":mtgtip:`Siege Wurm`"
 msgstr ""
 
 #: ../../M15.rst:1048
-msgid "Soul of Zendikar"
+msgid ":mtgtip:`Soul of Zendikar`"
 msgstr ""
 
 #: ../../M15.rst:1043
@@ -1937,7 +1941,7 @@ msgid "|mana_3|\\ |mana_g|\\ |mana_g|, Exile Soul of Zendikar from your graveyar
 msgstr ""
 
 #: ../../M15.rst:1054
-msgid "Sunblade Elf"
+msgid ":mtgtip:`Sunblade Elf`"
 msgstr ""
 
 #: ../../M15.rst:1051
@@ -1949,7 +1953,7 @@ msgid "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgstr ""
 
 #: ../../M15.rst:1058
-msgid "Titanic Growth"
+msgid ":mtgtip:`Titanic Growth`"
 msgstr ""
 
 #: ../../M15.rst:1057
@@ -1957,7 +1961,7 @@ msgid "Target creature gets +4/+4 until end of turn."
 msgstr ""
 
 #: ../../M15.rst:1062
-msgid "Undergrowth Scavenger"
+msgid ":mtgtip:`Undergrowth Scavenger`"
 msgstr ""
 
 #: ../../M15.rst:1061
@@ -1965,7 +1969,7 @@ msgid "Undergrowth Scavenger enters the battlefield with a number of +1/+1 count
 msgstr ""
 
 #: ../../M15.rst:1066
-msgid "Venom Sliver"
+msgid ":mtgtip:`Venom Sliver`"
 msgstr ""
 
 #: ../../M15.rst:1065
@@ -1973,7 +1977,7 @@ msgid "Sliver creatures you control have deathtouch. (Any amount of damage a cre
 msgstr ""
 
 #: ../../M15.rst:1074
-msgid "Verdant Haven"
+msgid ":mtgtip:`Verdant Haven`"
 msgstr ""
 
 #: ../../M15.rst:1071
@@ -1985,7 +1989,7 @@ msgid "Whenever enchanted land is tapped for mana, its controller adds an additi
 msgstr ""
 
 #: ../../M15.rst:1082
-msgid "Vineweft"
+msgid ":mtgtip:`Vineweft`"
 msgstr ""
 
 #: ../../M15.rst:1079
@@ -1997,7 +2001,7 @@ msgid "|mana_4|\\ |mana_g|: Return Vineweft from your graveyard to your hand."
 msgstr ""
 
 #: ../../M15.rst:1088
-msgid "Wall of Mulch"
+msgid ":mtgtip:`Wall of Mulch`"
 msgstr ""
 
 #: ../../M15.rst:1087
@@ -2005,7 +2009,7 @@ msgid "|mana_g|, Sacrifice a Wall: Draw a card."
 msgstr ""
 
 #: ../../M15.rst:1092
-msgid "Yisan, the Wanderer Bard"
+msgid ":mtgtip:`Yisan, the Wanderer Bard`"
 msgstr ""
 
 #: ../../M15.rst:1091
@@ -2013,7 +2017,7 @@ msgid "|mana_2|\\ |mana_g|, |tap|, Put a verse counter on Yisan, the Wanderer Ba
 msgstr ""
 
 #: ../../M15.rst:1102
-msgid "Garruk, Apex Predator"
+msgid ":mtgtip:`Garruk, Apex Predator`"
 msgstr ""
 
 #: ../../M15.rst:1095
@@ -2033,7 +2037,7 @@ msgid "−8: Target opponent gets an emblem with \"Whenever a creature attacks y
 msgstr ""
 
 #: ../../M15.rst:1106
-msgid "Sliver Hivelord"
+msgid ":mtgtip:`Sliver Hivelord`"
 msgstr ""
 
 #: ../../M15.rst:1105
@@ -2041,7 +2045,7 @@ msgid "Sliver creatures you control have indestructible. (Damage and effects tha
 msgstr ""
 
 #: ../../M15.rst:1114
-msgid "Avarice Amulet"
+msgid ":mtgtip:`Avarice Amulet`"
 msgstr ""
 
 #: ../../M15.rst:1109
@@ -2059,7 +2063,7 @@ msgid "Equip |mana_2| (|mana_2|: Attach to target creature you control. Equip on
 msgstr ""
 
 #: ../../M15.rst:1120
-msgid "Brawler's Plate"
+msgid ":mtgtip:`Brawler's Plate`"
 msgstr ""
 
 #: ../../M15.rst:1117
@@ -2072,11 +2076,11 @@ msgid "Equip |mana_4| (|mana_4|: Attach to target creature you control. Equip on
 msgstr ""
 
 #: ../../M15.rst:1122
-msgid "Bronze Sable"
+msgid ":mtgtip:`Bronze Sable`"
 msgstr ""
 
 #: ../../M15.rst:1130
-msgid "The Chain Veil"
+msgid ":mtgtip:`The Chain Veil`"
 msgstr ""
 
 #: ../../M15.rst:1127
@@ -2088,7 +2092,7 @@ msgid "|mana_4|, |tap|: For each planeswalker you control, you may activate one 
 msgstr ""
 
 #: ../../M15.rst:1136
-msgid "Gargoyle Sentinel"
+msgid ":mtgtip:`Gargoyle Sentinel`"
 msgstr ""
 
 #: ../../M15.rst:1135
@@ -2096,7 +2100,7 @@ msgid "|mana_3|: Until end of turn, Gargoyle Sentinel loses defender and gains f
 msgstr ""
 
 #: ../../M15.rst:1142
-msgid "Grindclock"
+msgid ":mtgtip:`Grindclock`"
 msgstr ""
 
 #: ../../M15.rst:1139
@@ -2108,7 +2112,7 @@ msgid "|tap|: Target player puts the top X cards of their library into their gra
 msgstr ""
 
 #: ../../M15.rst:1150
-msgid "Haunted Plate Mail"
+msgid ":mtgtip:`Haunted Plate Mail`"
 msgstr ""
 
 #: ../../M15.rst:1145
@@ -2120,7 +2124,7 @@ msgid "|mana_0|: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit arti
 msgstr ""
 
 #: ../../M15.rst:1158
-msgid "Hot Soup"
+msgid ":mtgtip:`Hot Soup`"
 msgstr ""
 
 #: ../../M15.rst:1153
@@ -2136,7 +2140,7 @@ msgid "Equip |mana_3| (|mana_3|: Attach to target creature you control. Equip on
 msgstr ""
 
 #: ../../M15.rst:1164
-msgid "Juggernaut"
+msgid ":mtgtip:`Juggernaut`"
 msgstr ""
 
 #: ../../M15.rst:1161
@@ -2148,7 +2152,7 @@ msgid "Juggernaut can't be blocked by Walls."
 msgstr ""
 
 #: ../../M15.rst:1170
-msgid "Meteorite"
+msgid ":mtgtip:`Meteorite`"
 msgstr ""
 
 #: ../../M15.rst:1167
@@ -2160,7 +2164,7 @@ msgid "|tap|: Add one mana of any color."
 msgstr ""
 
 #: ../../M15.rst:1178
-msgid "Obelisk of Urd"
+msgid ":mtgtip:`Obelisk of Urd`"
 msgstr ""
 
 #: ../../M15.rst:1175
@@ -2172,11 +2176,11 @@ msgid "Creatures you control of the chosen type get +2/+2."
 msgstr ""
 
 #: ../../M15.rst:1182
-msgid "Ornithopter"
+msgid ":mtgtip:`Ornithopter`"
 msgstr ""
 
 #: ../../M15.rst:1186
-msgid "Perilous Vault"
+msgid ":mtgtip:`Perilous Vault`"
 msgstr ""
 
 #: ../../M15.rst:1185
@@ -2184,7 +2188,7 @@ msgid "|mana_5|, |tap|, Exile Perilous Vault: Exile all nonland permanents."
 msgstr ""
 
 #: ../../M15.rst:1192
-msgid "Phyrexian Revoker"
+msgid ":mtgtip:`Phyrexian Revoker`"
 msgstr ""
 
 #: ../../M15.rst:1189
@@ -2196,7 +2200,7 @@ msgid "Activated abilities of sources with the chosen name can't be activated."
 msgstr ""
 
 #: ../../M15.rst:1196
-msgid "Profane Memento"
+msgid ":mtgtip:`Profane Memento`"
 msgstr ""
 
 #: ../../M15.rst:1195
@@ -2204,7 +2208,7 @@ msgid "Whenever a creature card is put into an opponent's graveyard from anywher
 msgstr ""
 
 #: ../../M15.rst:1202
-msgid "Rogue's Gloves"
+msgid ":mtgtip:`Rogue's Gloves`"
 msgstr ""
 
 #: ../../M15.rst:1199
@@ -2212,7 +2216,7 @@ msgid "Whenever equipped creature deals combat damage to a player, you may draw 
 msgstr ""
 
 #: ../../M15.rst:1206
-msgid "Sacred Armory"
+msgid ":mtgtip:`Sacred Armory`"
 msgstr ""
 
 #: ../../M15.rst:1205
@@ -2220,7 +2224,7 @@ msgid "|mana_2|: Target creature gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../M15.rst:1212
-msgid "Scuttling Doom Engine"
+msgid ":mtgtip:`Scuttling Doom Engine`"
 msgstr ""
 
 #: ../../M15.rst:1209
@@ -2232,7 +2236,7 @@ msgid "When Scuttling Doom Engine dies, it deals 6 damage to target opponent or 
 msgstr ""
 
 #: ../../M15.rst:1218
-msgid "Shield of the Avatar"
+msgid ":mtgtip:`Shield of the Avatar`"
 msgstr ""
 
 #: ../../M15.rst:1215
@@ -2240,7 +2244,7 @@ msgid "If a source would deal damage to equipped creature, prevent X of that dam
 msgstr ""
 
 #: ../../M15.rst:1226
-msgid "Soul of New Phyrexia"
+msgid ":mtgtip:`Soul of New Phyrexia`"
 msgstr ""
 
 #: ../../M15.rst:1221
@@ -2256,7 +2260,7 @@ msgid "|mana_5|, Exile Soul of New Phyrexia from your graveyard: Permanents you 
 msgstr ""
 
 #: ../../M15.rst:1230
-msgid "Staff of the Death Magus"
+msgid ":mtgtip:`Staff of the Death Magus`"
 msgstr ""
 
 #: ../../M15.rst:1229
@@ -2264,7 +2268,7 @@ msgid "Whenever you cast a black spell or a Swamp enters the battlefield under y
 msgstr ""
 
 #: ../../M15.rst:1234
-msgid "Staff of the Flame Magus"
+msgid ":mtgtip:`Staff of the Flame Magus`"
 msgstr ""
 
 #: ../../M15.rst:1233
@@ -2272,7 +2276,7 @@ msgid "Whenever you cast a red spell or a Mountain enters the battlefield under 
 msgstr ""
 
 #: ../../M15.rst:1238
-msgid "Staff of the Mind Magus"
+msgid ":mtgtip:`Staff of the Mind Magus`"
 msgstr ""
 
 #: ../../M15.rst:1237
@@ -2280,7 +2284,7 @@ msgid "Whenever you cast a blue spell or an Island enters the battlefield under 
 msgstr ""
 
 #: ../../M15.rst:1242
-msgid "Staff of the Sun Magus"
+msgid ":mtgtip:`Staff of the Sun Magus`"
 msgstr ""
 
 #: ../../M15.rst:1241
@@ -2288,7 +2292,7 @@ msgid "Whenever you cast a white spell or a Plains enters the battlefield under 
 msgstr ""
 
 #: ../../M15.rst:1246
-msgid "Staff of the Wild Magus"
+msgid ":mtgtip:`Staff of the Wild Magus`"
 msgstr ""
 
 #: ../../M15.rst:1245
@@ -2296,7 +2300,7 @@ msgid "Whenever you cast a green spell or a Forest enters the battlefield under 
 msgstr ""
 
 #: ../../M15.rst:1250
-msgid "Tormod's Crypt"
+msgid ":mtgtip:`Tormod's Crypt`"
 msgstr ""
 
 #: ../../M15.rst:1249
@@ -2304,7 +2308,7 @@ msgid "|tap|, Sacrifice Tormod's Crypt: Exile all cards from target player's gra
 msgstr ""
 
 #: ../../M15.rst:1254
-msgid "Tyrant's Machine"
+msgid ":mtgtip:`Tyrant's Machine`"
 msgstr ""
 
 #: ../../M15.rst:1253
@@ -2312,11 +2316,11 @@ msgid "|mana_4|, |tap|: Tap target creature."
 msgstr ""
 
 #: ../../M15.rst:1258
-msgid "Will-Forged Golem"
+msgid ":mtgtip:`Will-Forged Golem`"
 msgstr ""
 
 #: ../../M15.rst:1264
-msgid "Battlefield Forge"
+msgid ":mtgtip:`Battlefield Forge`"
 msgstr ""
 
 #: ../../M15.rst:1261
@@ -2335,7 +2339,7 @@ msgid "|tap|: Add |mana_r| or |mana_w|. Battlefield Forge deals 1 damage to you.
 msgstr ""
 
 #: ../../M15.rst:1270
-msgid "Caves of Koilos"
+msgid ":mtgtip:`Caves of Koilos`"
 msgstr ""
 
 #: ../../M15.rst:1269
@@ -2343,7 +2347,7 @@ msgid "|tap|: Add |mana_w| or |mana_b|. Caves of Koilos deals 1 damage to you."
 msgstr ""
 
 #: ../../M15.rst:1276
-msgid "Darksteel Citadel"
+msgid ":mtgtip:`Darksteel Citadel`"
 msgstr ""
 
 #: ../../M15.rst:1273
@@ -2351,7 +2355,7 @@ msgid "Indestructible"
 msgstr ""
 
 #: ../../M15.rst:1280
-msgid "Evolving Wilds"
+msgid ":mtgtip:`Evolving Wilds`"
 msgstr ""
 
 #: ../../M15.rst:1279
@@ -2359,7 +2363,7 @@ msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land car
 msgstr ""
 
 #: ../../M15.rst:1286
-msgid "Llanowar Wastes"
+msgid ":mtgtip:`Llanowar Wastes`"
 msgstr ""
 
 #: ../../M15.rst:1285
@@ -2367,7 +2371,7 @@ msgid "|tap|: Add |mana_b| or |mana_g|. Llanowar Wastes deals 1 damage to you."
 msgstr ""
 
 #: ../../M15.rst:1292
-msgid "Radiant Fountain"
+msgid ":mtgtip:`Radiant Fountain`"
 msgstr ""
 
 #: ../../M15.rst:1289
@@ -2375,7 +2379,7 @@ msgid "When Radiant Fountain enters the battlefield, you gain 2 life."
 msgstr ""
 
 #: ../../M15.rst:1298
-msgid "Shivan Reef"
+msgid ":mtgtip:`Shivan Reef`"
 msgstr ""
 
 #: ../../M15.rst:1297
@@ -2383,7 +2387,7 @@ msgid "|tap|: Add |mana_u| or |mana_r|. Shivan Reef deals 1 damage to you."
 msgstr ""
 
 #: ../../M15.rst:1306
-msgid "Sliver Hive"
+msgid ":mtgtip:`Sliver Hive`"
 msgstr ""
 
 #: ../../M15.rst:1303
@@ -2395,7 +2399,7 @@ msgid "|mana_5|, |tap|: Create a 1/1 colorless Sliver creature token. Activate t
 msgstr ""
 
 #: ../../M15.rst:1310
-msgid "Urborg, Tomb of Yawgmoth"
+msgid ":mtgtip:`Urborg, Tomb of Yawgmoth`"
 msgstr ""
 
 #: ../../M15.rst:1309
@@ -2403,153 +2407,154 @@ msgid "Each land is a Swamp in addition to its other land types."
 msgstr ""
 
 #: ../../M15.rst:1316
-msgid "Yavimaya Coast"
+msgid ":mtgtip:`Yavimaya Coast`"
 msgstr ""
 
 #: ../../M15.rst:1315
 msgid "|tap|: Add |mana_g| or |mana_u|. Yavimaya Coast deals 1 damage to you."
 msgstr ""
 
-#: ../../M15.rst:1318
-#: ../../M15.rst:1322
-#: ../../M15.rst:1326
-#: ../../M15.rst:1330
-msgid "Plains"
+#: ../../M15.rst:1320
+msgid ":mtgtip:`Plains`"
 msgstr ""
 
-#: ../../M15.rst:1334
-#: ../../M15.rst:1338
+#: ../../M15.rst:1319
+msgid "(|tap|: Add |mana_w|.)"
+msgstr ""
+
+#: ../../M15.rst:1324
+msgid ":mtgtip:`Island`"
+msgstr ""
+
+#: ../../M15.rst:1323
+msgid "(|tap|: Add |mana_u|.)"
+msgstr ""
+
+#: ../../M15.rst:1328
+msgid ":mtgtip:`Swamp`"
+msgstr ""
+
+#: ../../M15.rst:1327
+msgid "(|tap|: Add |mana_b|.)"
+msgstr ""
+
+#: ../../M15.rst:1332
+msgid ":mtgtip:`Mountain`"
+msgstr ""
+
+#: ../../M15.rst:1331
+msgid "(|tap|: Add |mana_r|.)"
+msgstr ""
+
+#: ../../M15.rst:1336
+msgid ":mtgtip:`Forest`"
+msgstr ""
+
+#: ../../M15.rst:1335
+msgid "(|tap|: Add |mana_g|.)"
+msgstr ""
+
 #: ../../M15.rst:1342
-#: ../../M15.rst:1346
-msgid "Island"
+msgid ":mtgtip:`Aegis Angel`"
 msgstr ""
 
-#: ../../M15.rst:1350
-#: ../../M15.rst:1354
-#: ../../M15.rst:1358
-#: ../../M15.rst:1362
-msgid "Swamp"
-msgstr ""
-
-#: ../../M15.rst:1366
-#: ../../M15.rst:1370
-#: ../../M15.rst:1374
-#: ../../M15.rst:1378
-msgid "Mountain"
-msgstr ""
-
-#: ../../M15.rst:1382
-#: ../../M15.rst:1386
-#: ../../M15.rst:1390
-#: ../../M15.rst:1394
-msgid "Forest"
-msgstr ""
-
-#: ../../M15.rst:1402
-msgid "Aegis Angel"
-msgstr ""
-
-#: ../../M15.rst:1401
+#: ../../M15.rst:1341
 msgid "When Aegis Angel enters the battlefield, another target permanent gains indestructible for as long as you control Aegis Angel. (Effects that say \"destroy\" don't destroy it. A creature with indestructible can't be destroyed by damage.)"
 msgstr ""
 
-#: ../../M15.rst:1406
-msgid "Divine Verdict"
+#: ../../M15.rst:1346
+msgid ":mtgtip:`Divine Verdict`"
 msgstr ""
 
-#: ../../M15.rst:1405
+#: ../../M15.rst:1345
 msgid "Destroy target attacking or blocking creature."
 msgstr ""
 
-#: ../../M15.rst:1410
-msgid "Inspired Charge"
+#: ../../M15.rst:1350
+msgid ":mtgtip:`Inspired Charge`"
 msgstr ""
 
-#: ../../M15.rst:1409
+#: ../../M15.rst:1349
 msgid "Creatures you control get +2/+1 until end of turn."
 msgstr ""
 
-#: ../../M15.rst:1414
-msgid "Serra Angel"
+#: ../../M15.rst:1354
+msgid ":mtgtip:`Serra Angel`"
 msgstr ""
 
-#: ../../M15.rst:1418
-msgid "Cancel"
+#: ../../M15.rst:1358
+msgid ":mtgtip:`Cancel`"
 msgstr ""
 
-#: ../../M15.rst:1417
+#: ../../M15.rst:1357
 msgid "Counter target spell."
 msgstr ""
 
-#: ../../M15.rst:1422
-msgid "Mahamoti Djinn"
+#: ../../M15.rst:1362
+msgid ":mtgtip:`Mahamoti Djinn`"
 msgstr ""
 
-#: ../../M15.rst:1428
-msgid "Nightmare"
+#: ../../M15.rst:1368
+msgid ":mtgtip:`Nightmare`"
 msgstr ""
 
-#: ../../M15.rst:1427
+#: ../../M15.rst:1367
 msgid "Nightmare's power and toughness are each equal to the number of Swamps you control."
 msgstr ""
 
-#: ../../M15.rst:1434
-msgid "Sengir Vampire"
+#: ../../M15.rst:1374
+msgid ":mtgtip:`Sengir Vampire`"
 msgstr ""
 
-#: ../../M15.rst:1433
+#: ../../M15.rst:1373
 msgid "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."
 msgstr ""
 
-#: ../../M15.rst:1436
-msgid "Walking Corpse"
+#: ../../M15.rst:1376
+msgid ":mtgtip:`Walking Corpse`"
 msgstr ""
 
-#: ../../M15.rst:1444
-msgid "Furnace Whelp"
+#: ../../M15.rst:1384
+msgid ":mtgtip:`Furnace Whelp`"
 msgstr ""
 
-#: ../../M15.rst:1443
+#: ../../M15.rst:1383
 msgid "|mana_r|: Furnace Whelp gets +1/+0 until end of turn."
 msgstr ""
 
-#: ../../M15.rst:1448
-msgid "Seismic Strike"
+#: ../../M15.rst:1388
+msgid ":mtgtip:`Seismic Strike`"
 msgstr ""
 
-#: ../../M15.rst:1447
+#: ../../M15.rst:1387
 msgid "Seismic Strike deals damage to target creature equal to the number of Mountains you control."
 msgstr ""
 
-#: ../../M15.rst:1454
-msgid "Shivan Dragon"
+#: ../../M15.rst:1394
+msgid ":mtgtip:`Shivan Dragon`"
 msgstr ""
 
-#: ../../M15.rst:1453
+#: ../../M15.rst:1393
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
 msgstr ""
 
-#: ../../M15.rst:1456
-msgid "Centaur Courser"
+#: ../../M15.rst:1396
+msgid ":mtgtip:`Centaur Courser`"
 msgstr ""
 
-#: ../../M15.rst:1462
-msgid "Garruk's Packleader"
+#: ../../M15.rst:1402
+msgid ":mtgtip:`Garruk's Packleader`"
 msgstr ""
 
-#: ../../M15.rst:1461
+#: ../../M15.rst:1401
 msgid "Whenever another creature with power 3 or greater enters the battlefield under your control, you may draw a card."
 msgstr ""
 
-#: ../../M15.rst:1467
-msgid "Terra Stomper"
+#: ../../M15.rst:1407
+msgid ":mtgtip:`Terra Stomper`"
 msgstr ""
 
-#: ../../M15.rst:1465
+#: ../../M15.rst:1405
 msgid "This spell can't be countered."
-msgstr ""
-
-#: ../../M15.rst:1467
-msgid "Trample  (This creature can deal excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
 

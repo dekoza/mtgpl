@@ -13,8 +13,6 @@ Instrukcje
 
 :doc:`Podstawowy podręcznik zasad<rulebook>` (100%)
 
-:doc:`Zasady formatu Commander (Dowódca)<commander>` (18%)
-
 .. :doc:`Kompletne Zasady<comprules>` (0%)
 
 Tłumaczenie dodatków
@@ -62,16 +60,30 @@ Modern
 * :mtgexp:`ISD` :doc:`Innistrad<ISD>` (13%)
 * :mtgexp:`NPH` :doc:`New Phyrexia<NPH>` (9%)
 
-Pozostałe
----------
+Pozostałe produkty
+------------------
 
 * :mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` (0%)
 * :mtgexp:`BBD` :doc:`Battlebond<BBD>` (0%)
+
+Commander i podobne
+===================
+
+:doc:`Zasady formatu Commander (Dowódca)<commander>` (18%)
+
+Dodatki
+-------
+
+* :mtgexp:`C17` :doc:`Commander 2017<C17>` (9%)
+* :mtgexp:`C16` :doc:`Commander 2016<C16>` (9%)
+* :mtgexp:`C15` :doc:`Commander 2015<C15>` (9%)
 * :mtgexp:`C14` :doc:`Commander 2014<C14>` (9%)
 * :mtgexp:`C13` :doc:`Commander 2013<C13>` (13%)
 
-Specjalne karty
----------------
+Produkty pokrewne
+=================
+
+Poniższe produkty nie zawierają kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek.
 
 * :doc:`Bohaterowie<THS_heroes>` (100%) - uwzględnia karty z Journey into Nyx
 * :doc:`Pokonaj Bóstwo<JOU_god>` (0%)
@@ -143,6 +155,9 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 
    E02
    BBD
+   C17
+   C16
+   C15
    C14
    C13
 

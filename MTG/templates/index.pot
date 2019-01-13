@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2013-2018, Dominik Kozaczko & Strefa Gry
+# Copyright (C) 2013-2018, Dominik Kozaczko
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-07 13:57+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,239 +28,263 @@ msgstr ""
 msgid ":doc:`Podstawowy podręcznik zasad<rulebook>` (100%)"
 msgstr ""
 
-#: ../../index.rst:16
-msgid ":doc:`Zasady formatu Commander (Dowódca)<commander>` (18%)"
-msgstr ""
-
-#: ../../index.rst:21
+#: ../../index.rst:19
 msgid "Tłumaczenie dodatków"
 msgstr ""
 
-#: ../../index.rst:24
+#: ../../index.rst:22
 msgid "Nadochodzące"
 msgstr ""
 
-#: ../../index.rst:26
-msgid ":doc:`Ravnica Allegiance spoiler (90 kart)<RNA>` (?%)"
+#: ../../index.rst:24
+msgid ":mtgexp:`RNA` :doc:`Ravnica Allegiance spoiler (pełny)<RNA>` (5%)"
 msgstr ""
 
-#: ../../index.rst:29
+#: ../../index.rst:27
 msgid "Standard"
 msgstr ""
 
+#: ../../index.rst:29
+msgid ":mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` (100%)"
+msgstr ""
+
+#: ../../index.rst:30
+msgid ":mtgexp:`M19` :doc:`Magic 2019 Core Set<M19>` (100%)"
+msgstr ""
+
 #: ../../index.rst:31
-msgid ":doc:`Guilds of Ravnica<GRN>` (100%)"
+msgid ":mtgexp:`DOM` :doc:`Dominaria<DOM>` (100%)"
 msgstr ""
 
 #: ../../index.rst:32
-msgid ":doc:`Magic 2019 Core Set<M19>` (100%)"
+msgid ":mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` (100%)"
 msgstr ""
 
 #: ../../index.rst:33
-msgid ":doc:`Dominaria<DOM>` (100%)"
+msgid ":mtgexp:`XLN` :doc:`Ixalan<XLN>` (100%)"
 msgstr ""
 
-#: ../../index.rst:34
-msgid ":doc:`Rivals of Ixalan<RIX>` (100%)"
-msgstr ""
-
-#: ../../index.rst:35
-msgid ":doc:`Ixalan<XLN>` (100%)"
-msgstr ""
-
-#: ../../index.rst:38
+#: ../../index.rst:36
 msgid "Modern"
 msgstr ""
 
+#: ../../index.rst:38
+msgid ":mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` (11%)"
+msgstr ""
+
+#: ../../index.rst:39
+msgid ":mtgexp:`AKH` :doc:`Amonkhet<AKH>` (18%)"
+msgstr ""
+
 #: ../../index.rst:40
-msgid ":doc:`Hour of Devastation<HOU>` (11%)"
+msgid ":mtgexp:`AER` :doc:`Aether Revolt<AER>` (12%)"
 msgstr ""
 
 #: ../../index.rst:41
-msgid ":doc:`Amonkhet<AKH>` (18%)"
+msgid ":mtgexp:`KLD` :doc:`Kaladesh<KLD>` (9%)"
 msgstr ""
 
 #: ../../index.rst:42
-msgid ":doc:`Aether Revolt<AER>` (12%)"
+msgid ":mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` (7%)"
 msgstr ""
 
 #: ../../index.rst:43
-msgid ":doc:`Kaladesh<KLD>` (9%)"
+msgid ":mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` (11%)"
 msgstr ""
 
 #: ../../index.rst:44
-msgid ":doc:`Eldritch Moon<EMN>` (7%)"
+msgid ":mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` (9%)"
 msgstr ""
 
 #: ../../index.rst:45
-msgid ":doc:`Shadows over Innistrad<SOI>` (11%)"
+msgid ":mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` (11%)"
 msgstr ""
 
 #: ../../index.rst:46
-msgid ":doc:`Oath of the Gatewatch<OGW>` (9%)"
+msgid ":mtgexp:`ORI` :doc:`Origins<ORI>` (18%)"
 msgstr ""
 
 #: ../../index.rst:47
-msgid ":doc:`Battle for Zendikar<BFZ>` (11%)"
+msgid ":mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` (13%)"
 msgstr ""
 
 #: ../../index.rst:48
-msgid ":doc:`Origins<ORI>` (18%)"
+msgid ":mtgexp:`FRF` :doc:`Fate Reforged<FRF>` (100%)"
 msgstr ""
 
 #: ../../index.rst:49
-msgid ":doc:`Dragons of Tarkir<DTK>` (13%)"
+msgid ":mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` (85%)"
 msgstr ""
 
 #: ../../index.rst:50
-msgid ":doc:`Fate Reforged<FRF>` (100%)"
+msgid ":mtgexp:`M15` :doc:`Magic 2015 Core Set<M15>` (20%)"
 msgstr ""
 
 #: ../../index.rst:51
-msgid ":doc:`Khans of Tarkir<KTK>` (85%)"
+msgid ":mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` (38%)"
 msgstr ""
 
 #: ../../index.rst:52
-msgid ":doc:`Magic 2015 Core Set<M15>` (20%)"
+msgid ":mtgexp:`BNG` :doc:`Born of the Gods<BNG>` (100%)"
 msgstr ""
 
 #: ../../index.rst:53
-msgid ":doc:`Journey into Nyx<JOU>` (38%)"
+msgid ":mtgexp:`THS` :doc:`Theros<THS>` (100%)"
 msgstr ""
 
 #: ../../index.rst:54
-msgid ":doc:`Born of the Gods<BNG>` (100%)"
+msgid ":mtgexp:`M14` :doc:`Magic 2014 Core Set<M14>` (100%)"
 msgstr ""
 
 #: ../../index.rst:55
-msgid ":doc:`Theros<THS>` (100%)"
+msgid ":mtgexp:`DGM` :doc:`Dragons' Maze<DGM>` (100%)"
 msgstr ""
 
 #: ../../index.rst:56
-msgid ":doc:`Magic 2014 Core Set<M14>` (100%)"
+msgid ":mtgexp:`GTC` :doc:`Gatecrash<GTC>` (100%)"
 msgstr ""
 
 #: ../../index.rst:57
-msgid ":doc:`Dragons' Maze<DGM>` (100%)"
+msgid ":mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` (100%)"
 msgstr ""
 
 #: ../../index.rst:58
-msgid ":doc:`Gatecrash<GTC>` (100%)"
+msgid ":mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` (17%)"
 msgstr ""
 
 #: ../../index.rst:59
-msgid ":doc:`Return to Ravnica<RTR>` (100%)"
+msgid ":mtgexp:`DKA` :doc:`Dark Ascension<DKA>` (10%)"
 msgstr ""
 
 #: ../../index.rst:60
-msgid ":doc:`Avacyn Restored<AVR>` (17%)"
+msgid ":mtgexp:`ISD` :doc:`Innistrad<ISD>` (13%)"
 msgstr ""
 
 #: ../../index.rst:61
-msgid ":doc:`Dark Ascension<DKA>` (10%)"
+msgid ":mtgexp:`NPH` :doc:`New Phyrexia<NPH>` (9%)"
 msgstr ""
 
-#: ../../index.rst:62
-msgid ":doc:`Innistrad<ISD>` (13%)"
-msgstr ""
-
-#: ../../index.rst:63
-msgid ":doc:`New Phyrexia<NPH>` (9%)"
+#: ../../index.rst:64
+msgid "Pozostałe produkty"
 msgstr ""
 
 #: ../../index.rst:66
-msgid "Pozostałe"
+msgid ":mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` (0%)"
 msgstr ""
 
-#: ../../index.rst:68
-msgid ":doc:`Explorers of Ixalan<E02>` (0%)"
-msgstr ""
-
-#: ../../index.rst:69
-msgid ":doc:`Battlebond<BBD>` (0%)"
+#: ../../index.rst:67
+msgid ":mtgexp:`BBD` :doc:`Battlebond<BBD>` (0%)"
 msgstr ""
 
 #: ../../index.rst:70
-msgid ":doc:`Commander 2014<C14>` (9%)"
+msgid "Commander i podobne"
 msgstr ""
 
-#: ../../index.rst:71
-msgid ":doc:`Commander 2013<C13>` (13%)"
+#: ../../index.rst:72
+msgid ":doc:`Zasady formatu Commander (Dowódca)<commander>` (18%)"
 msgstr ""
 
-#: ../../index.rst:74
-msgid "Specjalne karty"
-msgstr ""
-
-#: ../../index.rst:76
-msgid ":doc:`Bohaterowie<THS_heroes>` (100%) - uwzględnia karty z Journey into Nyx"
+#: ../../index.rst:75
+msgid "Dodatki"
 msgstr ""
 
 #: ../../index.rst:77
-msgid ":doc:`Pokonaj Bóstwo<JOU_god>` (0%)"
+msgid ":mtgexp:`C17` :doc:`Commander 2017<C17>` (9%)"
 msgstr ""
 
 #: ../../index.rst:78
-msgid ":doc:`Walka z Hordą<BNG_horde>` (100%)"
+msgid ":mtgexp:`C16` :doc:`Commander 2016<C16>` (9%)"
 msgstr ""
 
 #: ../../index.rst:79
-msgid ":doc:`Staw czoła Hydrze<THS_hydra>` (100%)"
+msgid ":mtgexp:`C15` :doc:`Commander 2015<C15>` (9%)"
 msgstr ""
 
-#: ../../index.rst:82
-msgid "Warto przeczytać"
+#: ../../index.rst:80
+msgid ":mtgexp:`C14` :doc:`Commander 2014<C14>` (9%)"
+msgstr ""
+
+#: ../../index.rst:81
+msgid ":mtgexp:`C13` :doc:`Commander 2013<C13>` (13%)"
 msgstr ""
 
 #: ../../index.rst:84
-msgid ":doc:`Uzasadnienie tłumaczeń<rationale>`"
-msgstr ""
-
-#: ../../index.rst:85
-msgid ":doc:`Nowe sposoby gry<game_variants>`"
+msgid "Produkty pokrewne"
 msgstr ""
 
 #: ../../index.rst:86
-msgid ":doc:`Polskie lądy i żetony<polish_cards>`"
+msgid "Poniższe produkty nie zawierają kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek."
+msgstr ""
+
+#: ../../index.rst:88
+msgid ":doc:`Bohaterowie<THS_heroes>` (100%) - uwzględnia karty z Journey into Nyx"
+msgstr ""
+
+#: ../../index.rst:89
+msgid ":doc:`Pokonaj Bóstwo<JOU_god>` (0%)"
 msgstr ""
 
 #: ../../index.rst:90
-msgid "Glosariusz"
+msgid ":doc:`Walka z Hordą<BNG_horde>` (100%)"
 msgstr ""
 
-#: ../../index.rst:92
-msgid ":doc:`Słowniczek podstawowych pojęć oraz slangu<glossary>`"
+#: ../../index.rst:91
+msgid ":doc:`Staw czoła Hydrze<THS_hydra>` (100%)"
 msgstr ""
 
-#: ../../index.rst:95
-msgid "Ostatnie zmiany"
+#: ../../index.rst:94
+msgid "Warto przeczytać"
 msgstr ""
 
 #: ../../index.rst:96
-msgid "Proszę zajrzeć do pliku :doc:`Ostatnie zmiany<changelog>`"
+msgid ":doc:`Uzasadnienie tłumaczeń<rationale>`"
 msgstr ""
 
-#: ../../index.rst:99
-msgid "Ekipa"
+#: ../../index.rst:97
+msgid ":doc:`Nowe sposoby gry<game_variants>`"
 msgstr ""
 
-#: ../../index.rst:101
-msgid "Niniejsze tłumaczenie powstało dzięki pracy następujących osób:"
+#: ../../index.rst:98
+msgid ":doc:`Polskie lądy i żetony<polish_cards>`"
 msgstr ""
 
-#: ../../index.rst:103
-msgid "Dominik Kozaczko - pomysłodawca, główny tłumacz"
+#: ../../index.rst:102
+msgid "Glosariusz"
 msgstr ""
 
 #: ../../index.rst:104
+msgid ":doc:`Słowniczek podstawowych pojęć oraz slangu<glossary>`"
+msgstr ""
+
+#: ../../index.rst:107
+msgid "Ostatnie zmiany"
+msgstr ""
+
+#: ../../index.rst:108
+msgid "Proszę zajrzeć do pliku :doc:`Ostatnie zmiany<changelog>`"
+msgstr ""
+
+#: ../../index.rst:111
+msgid "Ekipa"
+msgstr ""
+
+#: ../../index.rst:113
+msgid "Niniejsze tłumaczenie powstało dzięki pracy następujących osób:"
+msgstr ""
+
+#: ../../index.rst:115
+msgid "Dominik Kozaczko - pomysłodawca, główny tłumacz"
+msgstr ""
+
+#: ../../index.rst:116
 msgid "Bartek Pękala - tłumacz"
 msgstr ""
 
-#: ../../index.rst:105
+#: ../../index.rst:117
 msgid "Zofia Wąchocka - tłumacz, filolog"
 msgstr ""
 
-#: ../../index.rst:106
+#: ../../index.rst:118
 msgid "Roman Cupek - nadzorca merytoryczny"
 msgstr ""
 

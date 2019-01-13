@@ -25,7 +25,6 @@ def mtgtip_role(typ, rawtext, text, lineno, inliner, options={}, content=[]):
 def mtgexp_role(typ, rawtext, text, lineno, inliner, options={}, content=[]):
     """
     Role to show expansion symbol.
-
     """
 
     wrapped = """<span class="ss ss-{text}"></span>""".format(text=text.lower())
@@ -33,6 +32,18 @@ def mtgexp_role(typ, rawtext, text, lineno, inliner, options={}, content=[]):
     return [node], []
 
 
+def mtgrule_role(typ, rawtext, text, lineno, inliner, options={}, content=[]):
+    """
+    Role to link to Yawgatog's hyperlinked comprehensive rules guide.
+    """
+
+    anchor = text.split(',')[0].split(' ')[-1].replace('.', '')
+    wrapped = "<a href='https://yawgatog.com/resources/magic-rules/#R{anchor}'>{text}</a>".format(text=text, anchor=anchor)
+    node = nodes.raw('', wrapped, format='html')
+    return [node], []
+
+
 def setup(app):
     app.add_role('mtgtip', mtgtip_role)
     app.add_role('mtgexp', mtgexp_role)
+    app.add_role('mtgrule', mtgrule_role)
