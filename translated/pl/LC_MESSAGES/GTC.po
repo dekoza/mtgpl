@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-13 13:23+0100\n"
+"POT-Creation-Date: 2019-01-13 21:34+0100\n"
 "PO-Revision-Date: 2019-01-13 17:36+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gtc/pl/>\n"
@@ -21,10 +21,11 @@ msgstr ""
 msgid ":mtgexp:`GTC` Gatecrash"
 msgstr ""
 
-# 5b8b26b454b849c692e4f5040d9c8c42
 #: ../../GTC.rst:10
-#, fuzzy
-msgid ":mtgtip:`Aerial Maneuver`"
+msgid ""
+":mtgtip:`Aerial Maneuver<https://img.scryfall.com/cards/border_crop/en/gtc/1."
+"jpg?1517813031|https://scryfall.com/card/gtc/1/aerial-maneuver?"
+"utm_source=api>`"
 msgstr ""
 
 # 8cd01040acf94e21a158adfce8eecbfd
@@ -35,10 +36,10 @@ msgid ""
 msgstr ""
 "Wskazany stwór dostaje +1/+1 oraz latanie i pierwszy cios do końca tury."
 
-# 1d39b646e35645a892d8f22c159da39e
 #: ../../GTC.rst:14
-#, fuzzy
-msgid ":mtgtip:`Angelic Edict`"
+msgid ""
+":mtgtip:`Angelic Edict<https://img.scryfall.com/cards/border_crop/en/gtc/2."
+"jpg?1517813031|https://scryfall.com/card/gtc/2/angelic-edict?utm_source=api>`"
 msgstr ""
 
 # 80e9834cf17240b29b78f938beeb6192
@@ -46,10 +47,11 @@ msgstr ""
 msgid "Exile target creature or enchantment."
 msgstr "Wygnaj wskazanego stwora lub urok."
 
-# fafee313e11140c0abc5d0ae3dadb280
 #: ../../GTC.rst:20
-#, fuzzy
-msgid ":mtgtip:`Angelic Skirmisher`"
+msgid ""
+":mtgtip:`Angelic Skirmisher<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/3.jpg?1517813031|https://scryfall.com/card/gtc/3/angelic-skirmisher?"
+"utm_source=api>`"
 msgstr ""
 
 # 407bccbd57bd4960b7bc652b699d76c1
@@ -88,16 +90,18 @@ msgstr ""
 "Na początku każdej walki wybierz pierwszy cios, czujność lub więź życia. "
 "Stwory, którymi władasz dostają ową zdolność do końca tury."
 
-# ffa8e0fb3039482c9ddf0300a6eb0cfd
 #: ../../GTC.rst:24
-#, fuzzy
-msgid ":mtgtip:`Assault Griffin`"
+msgid ""
+":mtgtip:`Assault Griffin<https://img.scryfall.com/cards/border_crop/en/gtc/4."
+"jpg?1517813031|https://scryfall.com/card/gtc/4/assault-griffin?"
+"utm_source=api>`"
 msgstr ""
 
-# 4389f1d0895e4fbfbadee17b47dee9b7
 #: ../../GTC.rst:30
-#, fuzzy
-msgid ":mtgtip:`Basilica Guards`"
+msgid ""
+":mtgtip:`Basilica Guards<https://img.scryfall.com/cards/border_crop/en/gtc/5."
+"jpg?1517813031|https://scryfall.com/card/gtc/5/basilica-guards?"
+"utm_source=api>`"
 msgstr ""
 
 # 7e518f9544e14e0fb690f98b439a05a7
@@ -128,10 +132,11 @@ msgstr ""
 "Wymuszenie (Ilekroć rzucasz czar, możesz zapłacić |mana_wb|. Jeśli tak "
 "zrobisz, każdy z przeciwników traci 1 życie, a ty zyskujesz tyle samo życia.)"
 
-# c74a44bf10634dabb4e727631841a286
 #: ../../GTC.rst:36
-#, fuzzy
-msgid ":mtgtip:`Blind Obedience`"
+msgid ""
+":mtgtip:`Blind Obedience<https://img.scryfall.com/cards/border_crop/en/gtc/6."
+"jpg?1517813031|https://scryfall.com/card/gtc/6/blind-obedience?"
+"utm_source=api>`"
 msgstr ""
 
 # 808b48091b5748368a104982d20fdf5b
@@ -142,10 +147,10 @@ msgstr ""
 "Artefakty i stwory, którymi władają twoi przeciwnicy wchodzą na pole walki "
 "przekręcone."
 
-# 7bb2144a24994a6daf3305f7b2755e8a
 #: ../../GTC.rst:40
-#, fuzzy
-msgid ":mtgtip:`Boros Elite`"
+msgid ""
+":mtgtip:`Boros Elite<https://img.scryfall.com/cards/border_crop/en/gtc/7.jpg?"
+"1517813031|https://scryfall.com/card/gtc/7/boros-elite?utm_source=api>`"
 msgstr ""
 
 # 1e2c2f85b3214883abe28ac992d39af3
@@ -157,10 +162,11 @@ msgstr ""
 "Batalion — Ilekroć Boros Elite i co najmniej dwa inne stwory atakują, Boros "
 "Elite zyskuje +2/+2 do końca tury."
 
-# 1eff1b6f8998483182359cae249da885
 #: ../../GTC.rst:44
-#, fuzzy
-msgid ":mtgtip:`Court Street Denizen`"
+msgid ""
+":mtgtip:`Court Street Denizen<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/8.jpg?1517813031|https://scryfall.com/card/gtc/8/court-street-denizen?"
+"utm_source=api>`"
 msgstr ""
 
 # 740c54c69ad740c28a80b541ca105b86
@@ -172,10 +178,10 @@ msgstr ""
 "Ilekroć inny biały stwór wchodzi na pole walki pod twoim władaniem, przekręć "
 "wskazanego stwora władanego przez przeciwnika."
 
-# bf5ca91129864257835658c25d9ef869
 #: ../../GTC.rst:48
-#, fuzzy
-msgid ":mtgtip:`Daring Skyjek`"
+msgid ""
+":mtgtip:`Daring Skyjek<https://img.scryfall.com/cards/border_crop/en/gtc/9."
+"jpg?1517813031|https://scryfall.com/card/gtc/9/daring-skyjek?utm_source=api>`"
 msgstr ""
 
 # e3d57ad0f9e54231a4f5727ba76946a4
@@ -187,10 +193,11 @@ msgstr ""
 "Batalion — Ilekroć Daring Skyjek i co najmniej dwa inne stwory atakują, "
 "Daring Skyjek dostaje latanie do końca tury."
 
-# b3166fdc24c64841a9d89307d1b14d7b
 #: ../../GTC.rst:54
-#, fuzzy
-msgid ":mtgtip:`Debtor's Pulpit`"
+msgid ""
+":mtgtip:`Debtor's Pulpit<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/10.jpg?1517813031|https://scryfall.com/card/gtc/10/debtors-pulpit?"
+"utm_source=api>`"
 msgstr ""
 
 # 2d113ed997c44260acef1833c26c0962
@@ -207,10 +214,11 @@ msgstr "Zaurocz ląd"
 msgid "Enchanted land has \"|tap|: Tap target creature.\""
 msgstr "Zauroczony ląd ma \"|tap|: Zaznacz wskazanego stwora.\""
 
-# d70703ce79eb44f49b909e2c836d9763
 #: ../../GTC.rst:58
-#, fuzzy
-msgid ":mtgtip:`Dutiful Thrull`"
+msgid ""
+":mtgtip:`Dutiful Thrull<https://img.scryfall.com/cards/border_crop/en/gtc/11."
+"jpg?1517813031|https://scryfall.com/card/gtc/11/dutiful-thrull?"
+"utm_source=api>`"
 msgstr ""
 
 # 3e963c71fa6c49d0af226be68437e893
@@ -218,10 +226,11 @@ msgstr ""
 msgid "|mana_b|: Regenerate Dutiful Thrull."
 msgstr "|mana_b|: Zregeneruj Dutiful Thrull."
 
-# 4170ffe28b7840a792c6bc872d0d3bff
 #: ../../GTC.rst:64
-#, fuzzy
-msgid ":mtgtip:`Frontline Medic`"
+msgid ""
+":mtgtip:`Frontline Medic<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/12.jpg?1517813031|https://scryfall.com/card/gtc/12/frontline-medic?"
+"utm_source=api>`"
 msgstr ""
 
 # f2193410082c4c46aba817b805a8ec81
@@ -242,10 +251,11 @@ msgstr ""
 "Poświęć Frontline Medic: Skontruj wskazany czar posiadający |mana_x| w swoim "
 "koszcie dopóki jego władca nie zapłaci |mana_3|."
 
-# 70bb5840d0b84e008ac133870584dcf5
 #: ../../GTC.rst:72
-#, fuzzy
-msgid ":mtgtip:`Gideon, Champion of Justice`"
+msgid ""
+":mtgtip:`Gideon, Champion of Justice<https://img.scryfall.com/cards/"
+"border_crop/en/gtc/13.jpg?1517813031|https://scryfall.com/card/gtc/13/gideon-"
+"champion-of-justice?utm_source=api>`"
 msgstr ""
 
 # 75013604d300476e9dc6de323feff5b3
@@ -276,10 +286,11 @@ msgstr ""
 msgid "−15: Exile all other permanents."
 msgstr "-15: Wygnaj wszystkie inne permanenty."
 
-# 711d657768a14f6f96415576bfb158b1
 #: ../../GTC.rst:80
-#, fuzzy
-msgid ":mtgtip:`Guardian of the Gateless`"
+msgid ""
+":mtgtip:`Guardian of the Gateless<https://img.scryfall.com/cards/border_crop/"
+"en/gtc/14.jpg?1517813031|https://scryfall.com/card/gtc/14/guardian-of-the-"
+"gateless?utm_source=api>`"
 msgstr ""
 
 # 19a68af242ae4f9e9245a341b5769161
@@ -296,10 +307,11 @@ msgstr ""
 "Ilekroć Guardian of the Gateless blokuje, dostaje +1/+1 do końca tury za "
 "każdego stwora, którego blokuje."
 
-# c72f6a54fd8c4b9b99850670506544cc
 #: ../../GTC.rst:86
-#, fuzzy
-msgid ":mtgtip:`Guildscorn Ward`"
+msgid ""
+":mtgtip:`Guildscorn Ward<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/15.jpg?1517813031|https://scryfall.com/card/gtc/15/guildscorn-ward?"
+"utm_source=api>`"
 msgstr ""
 
 # 7bae545ff4c9402c9813490153cd1a3d
@@ -325,10 +337,11 @@ msgstr "Zaurocz stwora"
 msgid "Enchanted creature has protection from multicolored."
 msgstr "Zauroczony stwór ma ochronę przed wielokolorowym."
 
-# a0287c7760f54f1a96b264c4240822ab
 #: ../../GTC.rst:90
-#, fuzzy
-msgid ":mtgtip:`Hold the Gates`"
+msgid ""
+":mtgtip:`Hold the Gates<https://img.scryfall.com/cards/border_crop/en/gtc/16."
+"jpg?1517813031|https://scryfall.com/card/gtc/16/hold-the-gates?"
+"utm_source=api>`"
 msgstr ""
 
 # fa94aaa19c394519b58eb33149781169
@@ -339,10 +352,10 @@ msgstr ""
 "Stwory pod twoim władaniem zyskują +0/+1 za każdą Bramę, którą władasz i "
 "mają czujność."
 
-# de56137ee9104a91819cd69ef58019f5
 #: ../../GTC.rst:96
-#, fuzzy
-msgid ":mtgtip:`Holy Mantle`"
+msgid ""
+":mtgtip:`Holy Mantle<https://img.scryfall.com/cards/border_crop/en/gtc/17."
+"jpg?1517813031|https://scryfall.com/card/gtc/17/holy-mantle?utm_source=api>`"
 msgstr ""
 
 # e301522dfa0348fbbc1b2104287de85c
@@ -350,10 +363,11 @@ msgstr ""
 msgid "Enchanted creature gets +2/+2 and has protection from creatures."
 msgstr "Zauroczony stwór dostaje +2/+2 i ma ochronę przed stworami."
 
-# 4e72a12434204714880ae2649ea67904
 #: ../../GTC.rst:102
-#, fuzzy
-msgid ":mtgtip:`Knight of Obligation`"
+msgid ""
+":mtgtip:`Knight of Obligation<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/18.jpg?1517813031|https://scryfall.com/card/gtc/18/knight-of-obligation?"
+"utm_source=api>`"
 msgstr ""
 
 # bd57936fe39040259cb352cf17cdc743
@@ -363,10 +377,10 @@ msgstr ""
 msgid "Vigilance"
 msgstr "Czujność"
 
-# a3c0732a823447979c70ebe0a027582c
 #: ../../GTC.rst:106
-#, fuzzy
-msgid ":mtgtip:`Knight Watch`"
+msgid ""
+":mtgtip:`Knight Watch<https://img.scryfall.com/cards/border_crop/en/gtc/19."
+"jpg?1517813031|https://scryfall.com/card/gtc/19/knight-watch?utm_source=api>`"
 msgstr ""
 
 # 1fe83262be7b4fa4a04cad7176bbbd23
@@ -374,10 +388,11 @@ msgstr ""
 msgid "Create two 2/2 white Knight creature tokens with vigilance."
 msgstr "Stwórz dwa żetony białego stwora Rycerz 2/2 z czujnością."
 
-# 1ae1639126b44b3ea42c58f1d255e4f6
 #: ../../GTC.rst:112
-#, fuzzy
-msgid ":mtgtip:`Luminate Primordial`"
+msgid ""
+":mtgtip:`Luminate Primordial<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/20.jpg?1517813031|https://scryfall.com/card/gtc/20/luminate-primordial?"
+"utm_source=api>`"
 msgstr ""
 
 # 6e7051be8fac4f98b9c884e84cf4da5b
@@ -391,10 +406,11 @@ msgstr ""
 "wypędź co najwyżej jednego stwora władanego przez owego gracza i ów gracz "
 "zyskuje tyle punktów życia, ile siły miał wypędzony stwór."
 
-# 353a4436eb264d0ca86b221483927456
 #: ../../GTC.rst:118
-#, fuzzy
-msgid ":mtgtip:`Murder Investigation`"
+msgid ""
+":mtgtip:`Murder Investigation<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/21.jpg?1517813031|https://scryfall.com/card/gtc/21/murder-investigation?"
+"utm_source=api>`"
 msgstr ""
 
 # e1192a17228c46918dd07523ce06be9a
@@ -413,10 +429,11 @@ msgstr ""
 "Kiedy zauroczony stwór umiera, stwórz tyle żetonów białego stwora Piechur "
 "1/1, ile wynosi siła owego stwora."
 
-# e12c7ee390ce457f9b59616a9d7faece
 #: ../../GTC.rst:122
-#, fuzzy
-msgid ":mtgtip:`Nav Squad Commandos`"
+msgid ""
+":mtgtip:`Nav Squad Commandos<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/22.jpg?1517813031|https://scryfall.com/card/gtc/22/nav-squad-commandos?"
+"utm_source=api>`"
 msgstr ""
 
 # 0629402bfff34d12b91d39d3ee70334f
@@ -428,10 +445,11 @@ msgstr ""
 "Batalion — Ilekroć Nav Squad Commandos i co najmniej dwa inne stwory "
 "atakują, Nav Squad Commandos dostaje +1/+1 do końca tury. Odkręć go."
 
-# 5c94ed7e09ab498499e8b945664c2f61
 #: ../../GTC.rst:126
-#, fuzzy
-msgid ":mtgtip:`Righteous Charge`"
+msgid ""
+":mtgtip:`Righteous Charge<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/23.jpg?1517813031|https://scryfall.com/card/gtc/23/righteous-charge?"
+"utm_source=api>`"
 msgstr ""
 
 # 440e26246d164cd2bbd735e1e50eff41
@@ -439,10 +457,11 @@ msgstr ""
 msgid "Creatures you control get +2/+2 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +2/+2 do końca tury."
 
-# 2d7363e5156c466191a48d72ec4877de
 #: ../../GTC.rst:130
-#, fuzzy
-msgid ":mtgtip:`Shielded Passage`"
+msgid ""
+":mtgtip:`Shielded Passage<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/24.jpg?1517813031|https://scryfall.com/card/gtc/24/shielded-passage?"
+"utm_source=api>`"
 msgstr ""
 
 # 35d0bc48dc39424e86cd627436d55972
@@ -453,7 +472,9 @@ msgstr ""
 "wskazanemu stworowi."
 
 #: ../../GTC.rst:134
-msgid ":mtgtip:`Smite`"
+msgid ""
+":mtgtip:`Smite<https://img.scryfall.com/cards/border_crop/en/gtc/25.jpg?"
+"1517813031|https://scryfall.com/card/gtc/25/smite?utm_source=api>`"
 msgstr ""
 
 # 264307503b5849c4a4156f14eb27c12c
@@ -461,16 +482,18 @@ msgstr ""
 msgid "Destroy target blocked creature."
 msgstr "Zniszcz wskazanego zablokowanego stwora."
 
-# 6e34a525a3bf40f78649a4f6ef829c96
 #: ../../GTC.rst:138
-#, fuzzy
-msgid ":mtgtip:`Syndic of Tithes`"
+msgid ""
+":mtgtip:`Syndic of Tithes<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/26.jpg?1517813031|https://scryfall.com/card/gtc/26/syndic-of-tithes?"
+"utm_source=api>`"
 msgstr ""
 
-# 79056db97d9842a2954da746787df3d3
 #: ../../GTC.rst:142
-#, fuzzy
-msgid ":mtgtip:`Urbis Protector`"
+msgid ""
+":mtgtip:`Urbis Protector<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/27.jpg?1517813031|https://scryfall.com/card/gtc/27/urbis-protector?"
+"utm_source=api>`"
 msgstr ""
 
 # 7af3cba1856040ac9b0fe3070dafc322
@@ -483,10 +506,11 @@ msgstr ""
 "Kiedy Urbis Protector wchodzi na pole walki, stwórz żeton białego stwora "
 "Anioł 4/4 z lataniem."
 
-# e5a39c70ba1d4d32b7fff9d3c575cbbf
 #: ../../GTC.rst:146
-#, fuzzy
-msgid ":mtgtip:`Zarichi Tiger`"
+msgid ""
+":mtgtip:`Zarichi Tiger<https://img.scryfall.com/cards/border_crop/en/gtc/28."
+"jpg?1517813031|https://scryfall.com/card/gtc/28/zarichi-tiger?"
+"utm_source=api>`"
 msgstr ""
 
 # 731010388cdb48f48ef4337c9614eb05
@@ -496,8 +520,9 @@ msgid "|mana_1|\\ |mana_w|, |tap|: You gain 2 life."
 msgstr "|mana_1|\\ |mana_w|, |tap|: Zyskujesz 2 życia."
 
 #: ../../GTC.rst:150
-#, fuzzy
-msgid ":mtgtip:`Aetherize`"
+msgid ""
+":mtgtip:`Aetherize<https://img.scryfall.com/cards/border_crop/en/gtc/29.jpg?"
+"1517813031|https://scryfall.com/card/gtc/29/aetherize?utm_source=api>`"
 msgstr ""
 
 # 68620a65d8c5400094575d043d6050f7
@@ -505,10 +530,10 @@ msgstr ""
 msgid "Return all attacking creatures to their owner's hand."
 msgstr "Zwróć wszystkie atakujące stwory na rękę ich właściciela."
 
-# 55b929e57f7f4a2d98cff49442a5aeac
 #: ../../GTC.rst:158
-#, fuzzy
-msgid ":mtgtip:`Agoraphobia`"
+msgid ""
+":mtgtip:`Agoraphobia<https://img.scryfall.com/cards/border_crop/en/gtc/30."
+"jpg?1517813031|https://scryfall.com/card/gtc/30/agoraphobia?utm_source=api>`"
 msgstr ""
 
 # cb9c61ca315a4d99ae97f2956bd29bf5
@@ -522,10 +547,11 @@ msgstr "Zauroczony stwór dostaje -5/-0."
 msgid "|mana_2|\\ |mana_u|: Return Agoraphobia to its owner's hand."
 msgstr "|mana_2|\\ |mana_u|: Zwróć Agoraphobia do ręki właściciela."
 
-# 93dc7a3a56b9426aaf430307951f2b00
 #: ../../GTC.rst:164
-#, fuzzy
-msgid ":mtgtip:`Clinging Anemones`"
+msgid ""
+":mtgtip:`Clinging Anemones<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/31.jpg?1517813031|https://scryfall.com/card/gtc/31/clinging-anemones?"
+"utm_source=api>`"
 msgstr ""
 
 # 4e3fcca7c20d4053b24a19230b7582f5
@@ -551,16 +577,18 @@ msgstr ""
 "jego siła lub wytrzymałość jest większa niż tego stwora, umieść znacznik +1/"
 "+1 na tym stworze.)"
 
-# 34d6865c855f42ce98eaa4a3138eee36
 #: ../../GTC.rst:170
-#, fuzzy
-msgid ":mtgtip:`Cloudfin Raptor`"
+msgid ""
+":mtgtip:`Cloudfin Raptor<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/32.jpg?1517813031|https://scryfall.com/card/gtc/32/cloudfin-raptor?"
+"utm_source=api>`"
 msgstr ""
 
-# 09ae2f657b30451886c274075283f127
 #: ../../GTC.rst:176
-#, fuzzy
-msgid ":mtgtip:`Diluvian Primordial`"
+msgid ""
+":mtgtip:`Diluvian Primordial<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/33.jpg?1517813031|https://scryfall.com/card/gtc/33/diluvian-primordial?"
+"utm_source=api>`"
 msgstr ""
 
 # 46da0f0c1dc546229c6dcbfe6f04e3e7
@@ -576,10 +604,11 @@ msgstr ""
 "gracza bez płacenia jej kosztu many. Jeśli karta rzucona w ten sposób miałby "
 "zostać umieszczona w cmentarzu w tej turze, wypędź ją w zamian."
 
-# df4083189cc247eeb0c36f726ac39219
 #: ../../GTC.rst:180
-#, fuzzy
-msgid ":mtgtip:`Enter the Infinite`"
+msgid ""
+":mtgtip:`Enter the Infinite<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/34.jpg?1517813031|https://scryfall.com/card/gtc/34/enter-the-infinite?"
+"utm_source=api>`"
 msgstr ""
 
 # c7a0ede9c6924ad8a2e803a5ecff45e3
@@ -593,10 +622,11 @@ msgstr ""
 "na wierzchu twojej biblioteki. Do twojej następnej tury nie masz limitu kart "
 "w ręce."
 
-# cc4da7f7ebe74d40bdd7a8c922bcf6cc
 #: ../../GTC.rst:184
-#, fuzzy
-msgid ":mtgtip:`Frilled Oculus`"
+msgid ""
+":mtgtip:`Frilled Oculus<https://img.scryfall.com/cards/border_crop/en/gtc/35."
+"jpg?1517813031|https://scryfall.com/card/gtc/35/frilled-oculus?"
+"utm_source=api>`"
 msgstr ""
 
 # e5df77dd3dea4b339a04d6faab6f5a9a
@@ -609,10 +639,10 @@ msgstr ""
 "|mana_1|\\ |mana_g|: Frilled Oculus dostaje +2/+2 do końca tury. Możesz "
 "aktywować tę zdolność tylko raz na turę."
 
-# 62a2007486bb498eb4ab271619e6b50e
 #: ../../GTC.rst:188
-#, fuzzy
-msgid ":mtgtip:`Gridlock`"
+msgid ""
+":mtgtip:`Gridlock<https://img.scryfall.com/cards/border_crop/en/gtc/36.jpg?"
+"1517813031|https://scryfall.com/card/gtc/36/gridlock?utm_source=api>`"
 msgstr ""
 
 # 52cb7d6cf6e34900b1e03734063266c9
@@ -620,10 +650,11 @@ msgstr ""
 msgid "Tap X target nonland permanents."
 msgstr "Zaznacz X wskazanych nielądowych permanentów."
 
-# 75be134d11b44e3696d227ee3e2ea3c4
 #: ../../GTC.rst:194
-#, fuzzy
-msgid ":mtgtip:`Hands of Binding`"
+msgid ""
+":mtgtip:`Hands of Binding<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/37.jpg?1517813031|https://scryfall.com/card/gtc/37/hands-of-binding?"
+"utm_source=api>`"
 msgstr ""
 
 # 01405212cf3244d5afc17124a9c59355
@@ -658,10 +689,11 @@ msgstr ""
 "władaniem. Ilekroć ów stwór zada graczowi obrażenia bitewne, jego władca "
 "może rzucić kopię zakodowanej karty bez płacenia kosztu many.)"
 
-# 913ada805d014cb1bac66f624ff837be
 #: ../../GTC.rst:198
-#, fuzzy
-msgid ":mtgtip:`Incursion Specialist`"
+msgid ""
+":mtgtip:`Incursion Specialist<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/38.jpg?1517813031|https://scryfall.com/card/gtc/38/incursion-specialist?"
+"utm_source=api>`"
 msgstr ""
 
 # 00b04c56a0784a769bfe24a9d021cd65
@@ -673,10 +705,11 @@ msgstr ""
 "Ilekroć rzucasz swój drugi czar w turze, Incursion Specialist otrzymuje +2/"
 "+0 do końca tury i nie może być blokowany w tej turze."
 
-# e804fb28fd4c49f7b7ba8f94700e4f14
 #: ../../GTC.rst:204
-#, fuzzy
-msgid ":mtgtip:`Keymaster Rogue`"
+msgid ""
+":mtgtip:`Keymaster Rogue<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/39.jpg?1517813031|https://scryfall.com/card/gtc/39/keymaster-rogue?"
+"utm_source=api>`"
 msgstr ""
 
 # ad8a2a2f06bd4f919d38a4a28389edc8
@@ -693,10 +726,11 @@ msgstr ""
 "Kiedy Keymaster Rogue wchodzi na pole walki, zwróć stwora pod twoim "
 "władaniem do ręki jego właściciela."
 
-# dd75f3e349da41d88e7511c8f337210b
 #: ../../GTC.rst:210
-#, fuzzy
-msgid ":mtgtip:`Last Thoughts`"
+msgid ""
+":mtgtip:`Last Thoughts<https://img.scryfall.com/cards/border_crop/en/gtc/40."
+"jpg?1517813031|https://scryfall.com/card/gtc/40/last-thoughts?"
+"utm_source=api>`"
 msgstr ""
 
 # d7b25f89d77b4382b8a43d2691fb069f
@@ -705,10 +739,11 @@ msgstr ""
 msgid "Draw a card."
 msgstr "Dobierz kartę."
 
-# bd34dd10dad84b8284243f8fb17e27c6
 #: ../../GTC.rst:214
-#, fuzzy
-msgid ":mtgtip:`Leyline Phantom`"
+msgid ""
+":mtgtip:`Leyline Phantom<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/41.jpg?1517813031|https://scryfall.com/card/gtc/41/leyline-phantom?"
+"utm_source=api>`"
 msgstr ""
 
 # a9afec89384646ee99a67d92ecafdf5d
@@ -720,10 +755,11 @@ msgstr ""
 "Kiedy Leyline Phantom zadaje obrażenia bitewne, zwróć go do ręki jego "
 "właściciela. (Zwróć go tylko jeśli przeżył bitwę.)"
 
-# 276e63299dd745089ba301763ba2b7f1
 #: ../../GTC.rst:220
-#, fuzzy
-msgid ":mtgtip:`Metropolis Sprite`"
+msgid ""
+":mtgtip:`Metropolis Sprite<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/42.jpg?1517813031|https://scryfall.com/card/gtc/42/metropolis-sprite?"
+"utm_source=api>`"
 msgstr ""
 
 # 37fdf62da8ac4d8b98034589794c96a9
@@ -731,10 +767,11 @@ msgstr ""
 msgid "|mana_u|: Metropolis Sprite gets +1/-1 until end of turn."
 msgstr "|mana_u|: Metropolis Sprite dostaje +1/-1 do końca tury."
 
-# 2d440578b9ad4c94b1470271a4f6ccd5
 #: ../../GTC.rst:226
-#, fuzzy
-msgid ":mtgtip:`Mindeye Drake`"
+msgid ""
+":mtgtip:`Mindeye Drake<https://img.scryfall.com/cards/border_crop/en/gtc/43."
+"jpg?1517813031|https://scryfall.com/card/gtc/43/mindeye-drake?"
+"utm_source=api>`"
 msgstr ""
 
 # fb71120068ba42e1ba9211bf1f008c45
@@ -747,10 +784,11 @@ msgstr ""
 "Kiedy Mindeye Drake umiera, wskazany gracz wkłada pięć wierzchnich kart ze "
 "swojej biblioteki do swojego cmentarza."
 
-# 6c0df34a38954446ab4b96bce9302762
 #: ../../GTC.rst:230
-#, fuzzy
-msgid ":mtgtip:`Rapid Hybridization`"
+msgid ""
+":mtgtip:`Rapid Hybridization<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/44.jpg?1517813031|https://scryfall.com/card/gtc/44/rapid-hybridization?"
+"utm_source=api>`"
 msgstr ""
 
 # e3a5ed6933664d6ea0a59f2477c0b924
@@ -763,10 +801,10 @@ msgstr ""
 "Zniszcz wskazanego stwora. Nie można go zregenerować. Władca owego stwora "
 "kładzie na polu walki żeton zielonego stwora Frog Lizard 3/3."
 
-# e71af715c25046b3939074549982fdc8
 #: ../../GTC.rst:236
-#, fuzzy
-msgid ":mtgtip:`Realmwright`"
+msgid ""
+":mtgtip:`Realmwright<https://img.scryfall.com/cards/border_crop/en/gtc/45."
+"jpg?1517813031|https://scryfall.com/card/gtc/45/realmwright?utm_source=api>`"
 msgstr ""
 
 # c10ab51da48c42bfbe695e48aa211a57
@@ -780,10 +818,11 @@ msgstr "Kładąc Realmwright na polu walki wybierz typ zwykłego lądu."
 msgid "Lands you control are the chosen type in addition to their other types."
 msgstr "Lądy którymi władasz mają dodatkowo wybrany typ."
 
-# a76c3d83a5784db5a3e416843dac937a
 #: ../../GTC.rst:240
-#, fuzzy
-msgid ":mtgtip:`Sage's Row Denizen`"
+msgid ""
+":mtgtip:`Sage's Row Denizen<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/46.jpg?1517813031|https://scryfall.com/card/gtc/46/sages-row-denizen?"
+"utm_source=api>`"
 msgstr ""
 
 # b5091ae1dfd04bc5b06911dea7d4a325
@@ -797,10 +836,11 @@ msgstr ""
 "wskazany gracz wkłada dwie wierzchnie karty swojej biblioteki do swojego "
 "cmentarza."
 
-# 06d9651d9d214d1c974d013ce4b03f07
 #: ../../GTC.rst:246
-#, fuzzy
-msgid ":mtgtip:`Sapphire Drake`"
+msgid ""
+":mtgtip:`Sapphire Drake<https://img.scryfall.com/cards/border_crop/en/gtc/47."
+"jpg?1517813031|https://scryfall.com/card/gtc/47/sapphire-drake?"
+"utm_source=api>`"
 msgstr ""
 
 # 37a984216cbc494689daeb064573ae2f
@@ -808,10 +848,10 @@ msgstr ""
 msgid "Each creature you control with a +1/+1 counter on it has flying."
 msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma latanie."
 
-# ea95e56e1d3740e4864b29f868a76fbd
 #: ../../GTC.rst:252
-#, fuzzy
-msgid ":mtgtip:`Scatter Arc`"
+msgid ""
+":mtgtip:`Scatter Arc<https://img.scryfall.com/cards/border_crop/en/gtc/48."
+"jpg?1517813031|https://scryfall.com/card/gtc/48/scatter-arc?utm_source=api>`"
 msgstr ""
 
 # 6f165425bac24a9a920fc57fd3157cf6
@@ -819,10 +859,11 @@ msgstr ""
 msgid "Counter target noncreature spell."
 msgstr "Skontruj wskazany czar nie będący stworem."
 
-# e468d832e24146f8b58a507f40c14473
 #: ../../GTC.rst:258
-#, fuzzy
-msgid ":mtgtip:`Simic Fluxmage`"
+msgid ""
+":mtgtip:`Simic Fluxmage<https://img.scryfall.com/cards/border_crop/en/gtc/49."
+"jpg?1517813031|https://scryfall.com/card/gtc/49/simic-fluxmage?"
+"utm_source=api>`"
 msgstr ""
 
 # e73e0ce7484442bb9c1ad26af9ef78a5
@@ -835,10 +876,11 @@ msgstr ""
 "|mana_1|\\ |mana_u|, |tap|: Przenieś znacznik +1/+1 z Simic Fluxmage na "
 "wskazanego stwora."
 
-# 42670897055a4dfaa41feab7d8c41c5f
 #: ../../GTC.rst:264
-#, fuzzy
-msgid ":mtgtip:`Simic Manipulator`"
+msgid ""
+":mtgtip:`Simic Manipulator<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/50.jpg?1517813031|https://scryfall.com/card/gtc/50/simic-manipulator?"
+"utm_source=api>`"
 msgstr ""
 
 # 7265ebd4adb34307b397c46d8e8f35f8
@@ -852,10 +894,10 @@ msgstr ""
 "władanie nad wskazanym stworem o sile nie większej niż liczba znaczników +1/"
 "+1 usuniętych w ten sposób."
 
-# 8c0f49e05a964761a9d3470144d03501
 #: ../../GTC.rst:270
-#, fuzzy
-msgid ":mtgtip:`Skygames`"
+msgid ""
+":mtgtip:`Skygames<https://img.scryfall.com/cards/border_crop/en/gtc/51.jpg?"
+"1517813031|https://scryfall.com/card/gtc/51/skygames?utm_source=api>`"
 msgstr ""
 
 # 7ab37e9affc44cd4a66637c3c3ddeea2
@@ -868,10 +910,11 @@ msgstr ""
 "Zauroczony ląd ma \\'|tap|: Wskazany stwór zyskuje latanie do końca tury. "
 "Aktywuj tę zdolność tylko wtedy, gdy możesz rzucić obrzęd.\""
 
-# e6ac1761775a403196ead39d4895e3b1
 #: ../../GTC.rst:274
-#, fuzzy
-msgid ":mtgtip:`Spell Rupture`"
+msgid ""
+":mtgtip:`Spell Rupture<https://img.scryfall.com/cards/border_crop/en/gtc/52."
+"jpg?1517813031|https://scryfall.com/card/gtc/52/spell-rupture?"
+"utm_source=api>`"
 msgstr ""
 
 # 5704d3f6e0424de9a5f165ba86025b6f
@@ -883,10 +926,11 @@ msgstr ""
 "Skontruj wskazany czas dopóki jego władca nie zapłaci |mana_x|, gdzie X jest "
 "największą siłą spośród stworów, którymi władasz."
 
-# fafee4a29b7841b6b68d131213279405
 #: ../../GTC.rst:280
-#, fuzzy
-msgid ":mtgtip:`Stolen Identity`"
+msgid ""
+":mtgtip:`Stolen Identity<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/53.jpg?1517813031|https://scryfall.com/card/gtc/53/stolen-identity?"
+"utm_source=api>`"
 msgstr ""
 
 # 40d9498605e8462b97b1ac7df615490f
@@ -896,10 +940,10 @@ msgid "Create a token that's a copy of target artifact or creature."
 msgstr ""
 "Umieść na polu walki żeton będący kopią wskazanego artefaktu lub stwora."
 
-# fcba6d03dcbd43228c50365daefcf4bc
 #: ../../GTC.rst:284
-#, fuzzy
-msgid ":mtgtip:`Totally Lost`"
+msgid ""
+":mtgtip:`Totally Lost<https://img.scryfall.com/cards/border_crop/en/gtc/54."
+"jpg?1517813031|https://scryfall.com/card/gtc/54/totally-lost?utm_source=api>`"
 msgstr ""
 
 # b9e1ee8a730c4d4087789b39a782d508
@@ -908,10 +952,10 @@ msgid "Put target nonland permanent on top of its owner's library."
 msgstr ""
 "Umieść wskazany nielądowy permanent na wierzchu biblioteki jego właściciela."
 
-# 50565916d2e046889e3d89d8be9f6c98
 #: ../../GTC.rst:290
-#, fuzzy
-msgid ":mtgtip:`Voidwalk`"
+msgid ""
+":mtgtip:`Voidwalk<https://img.scryfall.com/cards/border_crop/en/gtc/55.jpg?"
+"1517813031|https://scryfall.com/card/gtc/55/voidwalk?utm_source=api>`"
 msgstr ""
 
 # abba343dc2854d62bac662ed173c6a07
@@ -923,10 +967,11 @@ msgstr ""
 "Wygnaj wskazanego stwora. Z początkiem najbliższego kroku końcowego przywróć "
 "go na pole walki pod władaniem jego właściciela."
 
-# 68b874d8672c4284931d1e80eea28bd3
 #: ../../GTC.rst:298
-#, fuzzy
-msgid ":mtgtip:`Way of the Thief`"
+msgid ""
+":mtgtip:`Way of the Thief<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/56.jpg?1517813031|https://scryfall.com/card/gtc/56/way-of-the-thief?"
+"utm_source=api>`"
 msgstr ""
 
 # 90cd546e3422476bab73009eca062226
@@ -939,10 +984,11 @@ msgstr "Zauroczony stwór dostaje +2/+2."
 msgid "Enchanted creature can't be blocked as long as you control a Gate."
 msgstr "Zauroczony stwór nie może być blokowany dopóki władasz Bramą."
 
-# 0a7757105c6c4035b24ddcbe41a6584f
 #: ../../GTC.rst:304
-#, fuzzy
-msgid ":mtgtip:`Balustrade Spy`"
+msgid ""
+":mtgtip:`Balustrade Spy<https://img.scryfall.com/cards/border_crop/en/gtc/57."
+"jpg?1517813031|https://scryfall.com/card/gtc/57/balustrade-spy?"
+"utm_source=api>`"
 msgstr ""
 
 # c69257a0c5fb425caacd69665233c3fa
@@ -957,16 +1003,18 @@ msgstr ""
 "wierzchu swojej biblioteki, aż ujawni kartę lądu, a następnie przekłada owe "
 "karty do swojego cmentarza."
 
-# c0274b260c474c9aa5caa1f6a8d17806
 #: ../../GTC.rst:310
-#, fuzzy
-msgid ":mtgtip:`Basilica Screecher`"
+msgid ""
+":mtgtip:`Basilica Screecher<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/58.jpg?1517813031|https://scryfall.com/card/gtc/58/basilica-screecher?"
+"utm_source=api>`"
 msgstr ""
 
-# 4419e77dc1854f408de2721e4b21d19e
 #: ../../GTC.rst:318
-#, fuzzy
-msgid ":mtgtip:`Contaminated Ground`"
+msgid ""
+":mtgtip:`Contaminated Ground<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/59.jpg?1517813031|https://scryfall.com/card/gtc/59/contaminated-ground?"
+"utm_source=api>`"
 msgstr ""
 
 # 97b84f23927a4ba9a3650658cf769041
@@ -979,10 +1027,11 @@ msgstr "Zauroczony ląd jest Bagnem."
 msgid "Whenever enchanted land becomes tapped, its controller loses 2 life."
 msgstr "Ilekroć zauroczony ląd zostaje przekręcony, jego władca traci 2 życia."
 
-# 9fddcfcbf315485eabc602bfc858a695
 #: ../../GTC.rst:324
-#, fuzzy
-msgid ":mtgtip:`Corpse Blockade`"
+msgid ""
+":mtgtip:`Corpse Blockade<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/60.jpg?1517813031|https://scryfall.com/card/gtc/60/corpse-blockade?"
+"utm_source=api>`"
 msgstr ""
 
 # d7660e627f574d4ebbf773a2ef519cf5
@@ -993,10 +1042,10 @@ msgid ""
 msgstr ""
 "Poświęć innego stwora: Corpse Blockade dostaje Dotyk Śmierci do końca tury."
 
-# 1967d533b87e467296efb57451c387e8
 #: ../../GTC.rst:330
-#, fuzzy
-msgid ":mtgtip:`Crypt Ghast`"
+msgid ""
+":mtgtip:`Crypt Ghast<https://img.scryfall.com/cards/border_crop/en/gtc/61."
+"jpg?1517813031|https://scryfall.com/card/gtc/61/crypt-ghast?utm_source=api>`"
 msgstr ""
 
 # 7d3ddbdb92f74e4fb02fc6c0d9b4624d
@@ -1007,10 +1056,11 @@ msgstr ""
 "Ilekroć tapujesz Bagno pobierając manę, dodaj |mana_b| do twojej puli many "
 "(jako dodatkową do tej, którą produkuje ląd)."
 
-# a976bdd81c29425c8c9fa86dff5d529e
 #: ../../GTC.rst:336
-#, fuzzy
-msgid ":mtgtip:`Death's Approach`"
+msgid ""
+":mtgtip:`Death's Approach<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/62.jpg?1517813031|https://scryfall.com/card/gtc/62/deaths-approach?"
+"utm_source=api>`"
 msgstr ""
 
 # d51b3b267ad040c8929f5dd276865d21
@@ -1022,10 +1072,10 @@ msgstr ""
 "Zauroczony stwór dostaje -X/-X, gdzie X to liczba kart stworów w cmentarzu "
 "jego władcy."
 
-# ea61b91b864e44e89961e3ad58ad35cc
 #: ../../GTC.rst:340
-#, fuzzy
-msgid ":mtgtip:`Devour Flesh`"
+msgid ""
+":mtgtip:`Devour Flesh<https://img.scryfall.com/cards/border_crop/en/gtc/63."
+"jpg?1517813031|https://scryfall.com/card/gtc/63/devour-flesh?utm_source=api>`"
 msgstr ""
 
 # d5cae447be4d4e7394ab890d7468b618
@@ -1037,10 +1087,10 @@ msgstr ""
 "Wskazany gracz poświęca stwora, po czym zyskuje liczbę punktów życia równą "
 "wytrzymałości owego stwora."
 
-# be09b442a5654695adc749ddf040aa66
 #: ../../GTC.rst:346
-#, fuzzy
-msgid ":mtgtip:`Dying Wish`"
+msgid ""
+":mtgtip:`Dying Wish<https://img.scryfall.com/cards/border_crop/en/gtc/64.jpg?"
+"1517813031|https://scryfall.com/card/gtc/64/dying-wish?utm_source=api>`"
 msgstr ""
 
 # 4dd85cb9202c4caca25bc206110f1be9
@@ -1052,10 +1102,11 @@ msgstr ""
 "Kiedy zauroczony stwór umiera, wskazany gracz traci X punktów życia, a ty "
 "zyskujesz X punktów życia, gdzie X to siła owego stwora."
 
-# 90d8e0a93e584e8cb82c92718b4638dc
 #: ../../GTC.rst:352
-#, fuzzy
-msgid ":mtgtip:`Gateway Shade`"
+msgid ""
+":mtgtip:`Gateway Shade<https://img.scryfall.com/cards/border_crop/en/gtc/65."
+"jpg?1517813031|https://scryfall.com/card/gtc/65/gateway-shade?"
+"utm_source=api>`"
 msgstr ""
 
 # 6c02cb1405074d7795eb4764362d0647
@@ -1071,10 +1122,11 @@ msgstr ""
 "Zaznacz odznaczoną bramę, którą władasz: Gateway Shade dostaje +2/+2 do "
 "końca tury."
 
-# 007de288c142472884129991d94e0c81
 #: ../../GTC.rst:356
-#, fuzzy
-msgid ":mtgtip:`Grisly Spectacle`"
+msgid ""
+":mtgtip:`Grisly Spectacle<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/66.jpg?1517813031|https://scryfall.com/card/gtc/66/grisly-spectacle?"
+"utm_source=api>`"
 msgstr ""
 
 # db1b57634aef4337bf1f7734b5b51ab8
@@ -1088,16 +1140,17 @@ msgstr ""
 "Zniszcz wskazanego nieartefaktowego stwora. Jego władca wkłada liczbę kart "
 "równą sile owego stwora z wierzchu swojej biblioteki do swojego cmentarza."
 
-# 2c4ff72b28a74e6398a3de1549c3043d
 #: ../../GTC.rst:358
-#, fuzzy
-msgid ":mtgtip:`Gutter Skulk`"
+msgid ""
+":mtgtip:`Gutter Skulk<https://img.scryfall.com/cards/border_crop/en/gtc/67."
+"jpg?1517813031|https://scryfall.com/card/gtc/67/gutter-skulk?utm_source=api>`"
 msgstr ""
 
-# d85b77c9b09f4b89955f79d83a46f163
 #: ../../GTC.rst:364
-#, fuzzy
-msgid ":mtgtip:`Horror of the Dim`"
+msgid ""
+":mtgtip:`Horror of the Dim<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/68.jpg?1517813031|https://scryfall.com/card/gtc/68/horror-of-the-dim?"
+"utm_source=api>`"
 msgstr ""
 
 # 5db0134e6e6745a9a56ab234e2822912
@@ -1109,10 +1162,11 @@ msgstr ""
 "|mana_u|: Horror of the Dim zyskuje antyklątwę do końca tury. (Nie może "
 "zostać wskazany przez czary i zdolności władane przez twoich przeciwników.)"
 
-# cdfbf8cce20949b8b73fe4f1ef921b71
 #: ../../GTC.rst:368
-#, fuzzy
-msgid ":mtgtip:`Illness in the Ranks`"
+msgid ""
+":mtgtip:`Illness in the Ranks<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/69.jpg?1517813031|https://scryfall.com/card/gtc/69/illness-in-the-ranks?"
+"utm_source=api>`"
 msgstr ""
 
 # c7032c2cada34bd4ba545c2b57624f7e
@@ -1120,10 +1174,11 @@ msgstr ""
 msgid "Creature tokens get -1/-1."
 msgstr "Żetony stworów dostają -1/-1."
 
-# 82ce688ad5ec4a048a77003e6ad61751
 #: ../../GTC.rst:372
-#, fuzzy
-msgid ":mtgtip:`Killing Glare`"
+msgid ""
+":mtgtip:`Killing Glare<https://img.scryfall.com/cards/border_crop/en/gtc/70."
+"jpg?1517813031|https://scryfall.com/card/gtc/70/killing-glare?"
+"utm_source=api>`"
 msgstr ""
 
 # 6127e832b03a4b5db6266ba39c9c4342
@@ -1131,10 +1186,11 @@ msgstr ""
 msgid "Destroy target creature with power X or less."
 msgstr "Zniszcz wskazanego stwora o sile X lub mniejszej."
 
-# 31f147e4f3c748fda7b35da52f2e8a49
 #: ../../GTC.rst:378
-#, fuzzy
-msgid ":mtgtip:`Lord of the Void`"
+msgid ""
+":mtgtip:`Lord of the Void<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/71.jpg?1517813031|https://scryfall.com/card/gtc/71/lord-of-the-void?"
+"utm_source=api>`"
 msgstr ""
 
 # b9c84e1dc86c47aba0c4227bd4408410
@@ -1148,10 +1204,11 @@ msgstr ""
 "wierzchnich kart z biblioteki owego gracza, a następnie wybierz kartę stwora "
 "spośród nich i umieść ją na polu walki pod swoim władaniem."
 
-# 2d98d13170ce4a6dabd8c57dc26b5211
 #: ../../GTC.rst:384
-#, fuzzy
-msgid ":mtgtip:`Mental Vapors`"
+msgid ""
+":mtgtip:`Mental Vapors<https://img.scryfall.com/cards/border_crop/en/gtc/72."
+"jpg?1517813031|https://scryfall.com/card/gtc/72/mental-vapors?"
+"utm_source=api>`"
 msgstr ""
 
 # 6c02b75188d94bf5846dd92d875af22c
@@ -1159,10 +1216,11 @@ msgstr ""
 msgid "Target player discards a card."
 msgstr "Wskazany gracz odrzuca kartę."
 
-# 4e113a4a01d045f58f63968aa823b7b8
 #: ../../GTC.rst:390
-#, fuzzy
-msgid ":mtgtip:`Midnight Recovery`"
+msgid ""
+":mtgtip:`Midnight Recovery<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/73.jpg?1517813031|https://scryfall.com/card/gtc/73/midnight-recovery?"
+"utm_source=api>`"
 msgstr ""
 
 # 10be1dd7b13b4420943907d691cefca9
@@ -1173,10 +1231,11 @@ msgstr ""
 "|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
 "twojego cmentarza do twojej ręki."
 
-# f0aa79c4aa3f4d98aaf22853d9f071f0
 #: ../../GTC.rst:396
-#, fuzzy
-msgid ":mtgtip:`Ogre Slumlord`"
+msgid ""
+":mtgtip:`Ogre Slumlord<https://img.scryfall.com/cards/border_crop/en/gtc/74."
+"jpg?1517813031|https://scryfall.com/card/gtc/74/ogre-slumlord?"
+"utm_source=api>`"
 msgstr ""
 
 # 7f3c335439a145e6b6fba2ce705db869
@@ -1194,10 +1253,11 @@ msgstr ""
 msgid "Rats you control have deathtouch."
 msgstr "Szczury, którymi władasz mają dotyk śmierci."
 
-# fbb9e9810c0d4c09b8d0b51e537a35ed
 #: ../../GTC.rst:402
-#, fuzzy
-msgid ":mtgtip:`Sepulchral Primordial`"
+msgid ""
+":mtgtip:`Sepulchral Primordial<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/75.jpg?1517813031|https://scryfall.com/card/gtc/75/sepulchral-primordial?"
+"utm_source=api>`"
 msgstr ""
 
 # 2458684d535a42028ec1b11d3574aca6
@@ -1220,10 +1280,11 @@ msgstr ""
 "przeciwników możesz położyć najwyżej jedną wskazaną kartę stwora z cmentarza "
 "owego gracza na polu walki pod twoim władaniem."
 
-# fa46fc84864b4f6f9e7283aafb93c4a1
 #: ../../GTC.rst:406
-#, fuzzy
-msgid ":mtgtip:`Shadow Alley Denizen`"
+msgid ""
+":mtgtip:`Shadow Alley Denizen<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/76.jpg?1517813031|https://scryfall.com/card/gtc/76/shadow-alley-denizen?"
+"utm_source=api>`"
 msgstr ""
 
 # 2458684d535a42028ec1b11d3574aca6
@@ -1237,10 +1298,10 @@ msgstr ""
 "wskazany stwór zyskuje zastraszenie do końca tury. (Może być blokowany tylko "
 "przez stwory artefaktowe lub te, które współdzielą z nim kolor.)"
 
-# fc154a168c174a4d9989ee07036a8cea
 #: ../../GTC.rst:412
-#, fuzzy
-msgid ":mtgtip:`Shadow Slice`"
+msgid ""
+":mtgtip:`Shadow Slice<https://img.scryfall.com/cards/border_crop/en/gtc/77."
+"jpg?1517813031|https://scryfall.com/card/gtc/77/shadow-slice?utm_source=api>`"
 msgstr ""
 
 # d38fd109f4344c3aaf33a23a910df20e
@@ -1248,10 +1309,11 @@ msgstr ""
 msgid "Target opponent loses 3 life."
 msgstr "Wskazany przeciwnik traci 3 życia."
 
-# 9022ee50993f4f01a7faa6c2f4268d50
 #: ../../GTC.rst:416
-#, fuzzy
-msgid ":mtgtip:`Slate Street Ruffian`"
+msgid ""
+":mtgtip:`Slate Street Ruffian<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/78.jpg?1517813031|https://scryfall.com/card/gtc/78/slate-street-ruffian?"
+"utm_source=api>`"
 msgstr ""
 
 # 757d175a32cc4884a9607cca86277473
@@ -1263,10 +1325,11 @@ msgstr ""
 "Ilekroć Slate Street Ruffian jest blokowany, broniący się gracz odrzuca "
 "kartę."
 
-# a2734646c3534378a9f2f435c2516cca
 #: ../../GTC.rst:422
-#, fuzzy
-msgid ":mtgtip:`Smog Elemental`"
+msgid ""
+":mtgtip:`Smog Elemental<https://img.scryfall.com/cards/border_crop/en/gtc/79."
+"jpg?1517813031|https://scryfall.com/card/gtc/79/smog-elemental?"
+"utm_source=api>`"
 msgstr ""
 
 # 77356e9e2c6e4a008e8fe64cdf15f87a
@@ -1274,16 +1337,18 @@ msgstr ""
 msgid "Creatures with flying your opponents control get -1/-1."
 msgstr "Stwory z lataniem władane przez przeciwników dostają -1/-1."
 
-# ec3326b52f934600a19628bdbbfa8c52
 #: ../../GTC.rst:426
-#, fuzzy
-msgid ":mtgtip:`Syndicate Enforcer`"
+msgid ""
+":mtgtip:`Syndicate Enforcer<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/80.jpg?1517813031|https://scryfall.com/card/gtc/80/syndicate-enforcer?"
+"utm_source=api>`"
 msgstr ""
 
-# 04f9ae361a584cc89d7e292c1263f307
 #: ../../GTC.rst:432
-#, fuzzy
-msgid ":mtgtip:`Thrull Parasite`"
+msgid ""
+":mtgtip:`Thrull Parasite<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/81.jpg?1517813031|https://scryfall.com/card/gtc/81/thrull-parasite?"
+"utm_source=api>`"
 msgstr ""
 
 # 568d175922844485ab7e85a2f161a7d4
@@ -1292,10 +1357,11 @@ msgid "|tap|, Pay 2 life: Remove a counter from target nonland permanent."
 msgstr ""
 "|tap|, zapłać 2 życia: Zdejmij znacznik ze wskazanego nielądowego permanentu."
 
-# d69a9e94cd1e49ee81eb73725273d7ce
 #: ../../GTC.rst:436
-#, fuzzy
-msgid ":mtgtip:`Undercity Informer`"
+msgid ""
+":mtgtip:`Undercity Informer<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/82.jpg?1517813031|https://scryfall.com/card/gtc/82/undercity-informer?"
+"utm_source=api>`"
 msgstr ""
 
 # 399f34d6c7c844b19e2e6c5589d3969e
@@ -1310,10 +1376,11 @@ msgstr ""
 "biblioteki dopóki nie ujawni karty lądu, a następnie wkłada owe karty do "
 "swojego cmentarza."
 
-# cd2c70d9997d46c792a8b066c6cfc6a6
 #: ../../GTC.rst:442
-#, fuzzy
-msgid ":mtgtip:`Undercity Plague`"
+msgid ""
+":mtgtip:`Undercity Plague<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/83.jpg?1517813031|https://scryfall.com/card/gtc/83/undercity-plague?"
+"utm_source=api>`"
 msgstr ""
 
 # d010a925c4fb4b0f804c879776701edc
@@ -1323,10 +1390,11 @@ msgid ""
 msgstr ""
 "Wskazany gracz traci 1 życie, odrzuca kartę, następnie poświęca permanent."
 
-# 6f79dcb7c4f5431c81fcd5ee7a04ccc7
 #: ../../GTC.rst:446
-#, fuzzy
-msgid ":mtgtip:`Wight of Precinct Six`"
+msgid ""
+":mtgtip:`Wight of Precinct Six<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/84.jpg?1517813031|https://scryfall.com/card/gtc/84/wight-of-precinct-six?"
+"utm_source=api>`"
 msgstr ""
 
 # 70cc856d176d41edb00e13ed6e2efa50
@@ -1338,10 +1406,11 @@ msgstr ""
 "Wight of Precinct Six dostaje +1/+1 za każdą kartę stwora w cmentarzach "
 "twoich przeciwników."
 
-# e9138da7a8424903a5a91e97f06faa9a
 #: ../../GTC.rst:450
-#, fuzzy
-msgid ":mtgtip:`Act of Treason`"
+msgid ""
+":mtgtip:`Act of Treason<https://img.scryfall.com/cards/border_crop/en/gtc/85."
+"jpg?1517813031|https://scryfall.com/card/gtc/85/act-of-treason?"
+"utm_source=api>`"
 msgstr ""
 
 # fa9f95cecbf94edd937e7b05f930f33c
@@ -1353,10 +1422,10 @@ msgstr ""
 "Zyskujesz władanie nad wskazanym stworem do końca tury. Odkręć owego stwora. "
 "Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej turze.)"
 
-# e077dfe104cf4029b7f803000f73b24b
 #: ../../GTC.rst:454
-#, fuzzy
-msgid ":mtgtip:`Bomber Corps`"
+msgid ""
+":mtgtip:`Bomber Corps<https://img.scryfall.com/cards/border_crop/en/gtc/86."
+"jpg?1517813031|https://scryfall.com/card/gtc/86/bomber-corps?utm_source=api>`"
 msgstr ""
 
 # a854d85e801e4f4893e5aa32a85c6214
@@ -1369,10 +1438,11 @@ msgstr ""
 "Batalion — Ilekroć Bomber Corps i co najmniej dwa inne stwory atakują, "
 "Bomber Corps zadaje 1 obrażenie wskazanemu stworowi lub graczowi."
 
-# 6ae1e134b71e4027820186fd3a130cc7
 #: ../../GTC.rst:458
-#, fuzzy
-msgid ":mtgtip:`Cinder Elemental`"
+msgid ""
+":mtgtip:`Cinder Elemental<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/87.jpg?1517813031|https://scryfall.com/card/gtc/87/cinder-elemental?"
+"utm_source=api>`"
 msgstr ""
 
 # c3d2fdb0664342208372949e608daeda
@@ -1385,10 +1455,11 @@ msgstr ""
 "|mana_x|\\ |mana_r|, |tap|, Poświęć Cinder Elemental: Cinder Elemental "
 "zadaje X obrażeń wskazanemu stworowi lub graczowi."
 
-# 05f43c80a29047bfa99a01eb9b539af2
 #: ../../GTC.rst:462
-#, fuzzy
-msgid ":mtgtip:`Crackling Perimeter`"
+msgid ""
+":mtgtip:`Crackling Perimeter<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/88.jpg?1517813031|https://scryfall.com/card/gtc/88/crackling-perimeter?"
+"utm_source=api>`"
 msgstr ""
 
 # 2ebebb697be4412ab2e1abb6fcfd97e8
@@ -1400,10 +1471,10 @@ msgstr ""
 "Zaznacz odznaczoną Bramę, którą władasz: Crackling Perimeter zadaje 1 "
 "obrażenie każdemu przeciwnikowi."
 
-# 116ce4854a354ed68db7677a6e95babf
 #: ../../GTC.rst:466
-#, fuzzy
-msgid ":mtgtip:`Ember Beast`"
+msgid ""
+":mtgtip:`Ember Beast<https://img.scryfall.com/cards/border_crop/en/gtc/89."
+"jpg?1517813031|https://scryfall.com/card/gtc/89/ember-beast?utm_source=api>`"
 msgstr ""
 
 # 11b0d3196674490da2d0409c0ea206da
@@ -1411,10 +1482,11 @@ msgstr ""
 msgid "Ember Beast can't attack or block alone."
 msgstr "Ember Beast nie może atakować ani blokować sam."
 
-# 5ef1ea3ba8ad443997ec6b83825f7819
 #: ../../GTC.rst:470
-#, fuzzy
-msgid ":mtgtip:`Firefist Striker`"
+msgid ""
+":mtgtip:`Firefist Striker<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/90.jpg?1517813031|https://scryfall.com/card/gtc/90/firefist-striker?"
+"utm_source=api>`"
 msgstr ""
 
 # d8fab694e23b4c1bb9720385fa649b7a
@@ -1426,10 +1498,11 @@ msgstr ""
 "Batalion — Ilekroć Firefist Striker i co najmniej dwa inne stwory atakują, "
 "wskazany stwór nie może blokować w tej turze."
 
-# 82aeeeab1b2b4ff3b0093a9c5326c530
 #: ../../GTC.rst:476
-#, fuzzy
-msgid ":mtgtip:`Five-Alarm Fire`"
+msgid ""
+":mtgtip:`Five-Alarm Fire<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/91.jpg?1517813031|https://scryfall.com/card/gtc/91/five-alarm-fire?"
+"utm_source=api>`"
 msgstr ""
 
 # f8b30bfd19404158b3fbefa5e15eeaea
@@ -1451,10 +1524,11 @@ msgstr ""
 "Usuń pięć znaczników płomienia z Five-Alarm Fire: Five-Alarm Fire zadaje 5 "
 "obrażeń wskazanemu stworowi lub graczowi."
 
-# 81ca030dd9dc4741939eeb45b6188ad4
 #: ../../GTC.rst:480
-#, fuzzy
-msgid ":mtgtip:`Foundry Street Denizen`"
+msgid ""
+":mtgtip:`Foundry Street Denizen<https://img.scryfall.com/cards/border_crop/"
+"en/gtc/92.jpg?1517813031|https://scryfall.com/card/gtc/92/foundry-street-"
+"denizen?utm_source=api>`"
 msgstr ""
 
 # 6f59588784784d1ab9d80e4755c37126
@@ -1466,10 +1540,11 @@ msgstr ""
 "Ilekroć inny czerwony stwór wchodzi na pole walki pod twoim władaniem, "
 "Foundry Street Denizen dostaje +1/+0 do końca tury."
 
-# f839c8c0987b431c90941eadce942a3f
 #: ../../GTC.rst:484
-#, fuzzy
-msgid ":mtgtip:`Furious Resistance`"
+msgid ""
+":mtgtip:`Furious Resistance<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/93.jpg?1517813031|https://scryfall.com/card/gtc/93/furious-resistance?"
+"utm_source=api>`"
 msgstr ""
 
 # 189516364bb64f0c8c55eab903e2678b
@@ -1480,10 +1555,11 @@ msgstr ""
 "Wskazany blokujący stwór otrzymuje +3/+0 i zyskuje pierwszy cios do końca "
 "tury."
 
-# dd41b18c017c4c78a72bac9ce72ead23
 #: ../../GTC.rst:492
-#, fuzzy
-msgid ":mtgtip:`Hellkite Tyrant`"
+msgid ""
+":mtgtip:`Hellkite Tyrant<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/94.jpg?1517813031|https://scryfall.com/card/gtc/94/hellkite-tyrant?"
+"utm_source=api>`"
 msgstr ""
 
 # 88d2a46558ff420481386cdbb0f51423
@@ -1510,10 +1586,11 @@ msgstr ""
 "Na początku twojego utrzymania, jeśli władasz dwudziestoma lub więcej "
 "artefaktami, wygrywasz grę."
 
-# 3c48db8ee221429a9d3b0d082006de97
 #: ../../GTC.rst:496
-#, fuzzy
-msgid ":mtgtip:`Hellraiser Goblin`"
+msgid ""
+":mtgtip:`Hellraiser Goblin<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/95.jpg?1517813031|https://scryfall.com/card/gtc/95/hellraiser-goblin?"
+"utm_source=api>`"
 msgstr ""
 
 # c23d58378f334350af2dddc46b3c7482
@@ -1522,10 +1599,11 @@ msgid "Creatures you control have haste and attack each combat if able."
 msgstr ""
 "Stwory, którymi władasz mają pośpiech i atakują w każdej walce jeśli mogą."
 
-# 2951083c50a44b0f84dcd2581add45b4
 #: ../../GTC.rst:500
-#, fuzzy
-msgid ":mtgtip:`Homing Lightning`"
+msgid ""
+":mtgtip:`Homing Lightning<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/96.jpg?1517813031|https://scryfall.com/card/gtc/96/homing-lightning?"
+"utm_source=api>`"
 msgstr ""
 
 # 9b48ad245c074b26a1a62ef07102fe88
@@ -1537,10 +1615,11 @@ msgstr ""
 "Homing Lightning zadaje 4 obrażenia wskazanemu stworowi i każdemu innemu "
 "stworowi o tej samej nazwie, co ów stwór."
 
-# ced6440f8bb14faba807820cabe81691
 #: ../../GTC.rst:506
-#, fuzzy
-msgid ":mtgtip:`Legion Loyalist`"
+msgid ""
+":mtgtip:`Legion Loyalist<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/97.jpg?1517813031|https://scryfall.com/card/gtc/97/legion-loyalist?"
+"utm_source=api>`"
 msgstr ""
 
 # dc47929ab5fb4db78dc3575ad78562cb
@@ -1560,10 +1639,11 @@ msgstr ""
 "stwory, którymi władasz zyskują pierwszy cios i tratowanie do końca tury "
 "oraz nie mogą być w tej turze blokowane przez żetony stworów."
 
-# e93b0443316942b6b745a666635ad101
 #: ../../GTC.rst:512
-#, fuzzy
-msgid ":mtgtip:`Madcap Skills`"
+msgid ""
+":mtgtip:`Madcap Skills<https://img.scryfall.com/cards/border_crop/en/gtc/98."
+"jpg?1517813031|https://scryfall.com/card/gtc/98/madcap-skills?"
+"utm_source=api>`"
 msgstr ""
 
 # 350b79fe6130451fb877368f8d07b34d
@@ -1572,10 +1652,11 @@ msgstr ""
 msgid "Enchanted creature gets +3/+0 and has menace."
 msgstr "Zauroczony stwór dostaje +3/+3 i ma pośpiech."
 
-# d3370847278c43e1a95d94cc66fe050e
 #: ../../GTC.rst:516
-#, fuzzy
-msgid ":mtgtip:`Mark for Death`"
+msgid ""
+":mtgtip:`Mark for Death<https://img.scryfall.com/cards/border_crop/en/gtc/99."
+"jpg?1517813031|https://scryfall.com/card/gtc/99/mark-for-death?"
+"utm_source=api>`"
 msgstr ""
 
 # 7d11502e7c77418c8cd47e9e47e246a2
@@ -1588,10 +1669,11 @@ msgstr ""
 "Odkręć owego stwora. Pozostałe stwory władane przez owego gracza nie mogą "
 "blokować w tej turze."
 
-# 0fe9e9f8906d4485960a61ffa07cc54c
 #: ../../GTC.rst:520
-#, fuzzy
-msgid ":mtgtip:`Massive Raid`"
+msgid ""
+":mtgtip:`Massive Raid<https://img.scryfall.com/cards/border_crop/en/gtc/100."
+"jpg?1517813031|https://scryfall.com/card/gtc/100/massive-raid?"
+"utm_source=api>`"
 msgstr ""
 
 # 5c3e8190faf64b7f89d5472a805dea07
@@ -1604,10 +1686,11 @@ msgstr ""
 "Massive Raid zadaje tyle obrażeń wskazanemu stworowi lub graczowi, iloma "
 "stworami władasz."
 
-# 02cab80c94a448b2856b6f4457829a54
 #: ../../GTC.rst:526
-#, fuzzy
-msgid ":mtgtip:`Molten Primordial`"
+msgid ""
+":mtgtip:`Molten Primordial<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/101.jpg?1517813031|https://scryfall.com/card/gtc/101/molten-primordial?"
+"utm_source=api>`"
 msgstr ""
 
 # d0963a28d93642a6aae1415b51ea3346
@@ -1623,7 +1706,9 @@ msgstr ""
 "tury."
 
 #: ../../GTC.rst:530
-msgid ":mtgtip:`Mugging`"
+msgid ""
+":mtgtip:`Mugging<https://img.scryfall.com/cards/border_crop/en/gtc/102.jpg?"
+"1517813031|https://scryfall.com/card/gtc/102/mugging?utm_source=api>`"
 msgstr ""
 
 # e857f3a01cb5411281eb8b7ba73fac33
@@ -1635,10 +1720,11 @@ msgstr ""
 "Mugging zadaje 2 obrażenia wskazanemu stworowi. Ów stwór nie może blokować w "
 "tej turze."
 
-# 7f22e1edfb2a46f48a2f3ce829f6161f
 #: ../../GTC.rst:534
-#, fuzzy
-msgid ":mtgtip:`Ripscale Predator`"
+msgid ""
+":mtgtip:`Ripscale Predator<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/103.jpg?1517813031|https://scryfall.com/card/gtc/103/ripscale-predator?"
+"utm_source=api>`"
 msgstr ""
 
 # d0a5aa8ce0e54ee09400a3ccf8391db3
@@ -1649,10 +1735,11 @@ msgstr ""
 "Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
 "dwa stwory.)"
 
-# 01c0787c1c2044d4bdd1d776d1977983
 #: ../../GTC.rst:538
-#, fuzzy
-msgid ":mtgtip:`Scorchwalker`"
+msgid ""
+":mtgtip:`Scorchwalker<https://img.scryfall.com/cards/border_crop/en/gtc/104."
+"jpg?1517813031|https://scryfall.com/card/gtc/104/scorchwalker?"
+"utm_source=api>`"
 msgstr ""
 
 # f6f11510008f4e25af040934380acf62
@@ -1665,10 +1752,11 @@ msgstr ""
 "Zew krwi — |mana_1|\\ |mana_r|\\ |mana_r|, odrzuć Scorchwalker: Wskazany "
 "atakujący stwór dostaje +5/+1 do końca tury."
 
-# bfc5bf2e70bf4de8b56249b06b1691e5
 #: ../../GTC.rst:542
-#, fuzzy
-msgid ":mtgtip:`Skinbrand Goblin`"
+msgid ""
+":mtgtip:`Skinbrand Goblin<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/105.jpg?1517813031|https://scryfall.com/card/gtc/105/skinbrand-goblin?"
+"utm_source=api>`"
 msgstr ""
 
 # f1f47de46e1e4005942e9d0a5852a899
@@ -1680,10 +1768,10 @@ msgstr ""
 "Zew krwi — |mana_r|, odrzuć Skinbrand Goblin: Wskazany atakujący stwór "
 "dostaje +2/+1 do końca tury."
 
-# 6fdefcf4e76d4377b6e5cea8d771b3d7
 #: ../../GTC.rst:546
-#, fuzzy
-msgid ":mtgtip:`Skullcrack`"
+msgid ""
+":mtgtip:`Skullcrack<https://img.scryfall.com/cards/border_crop/en/gtc/106."
+"jpg?1517813031|https://scryfall.com/card/gtc/106/skullcrack?utm_source=api>`"
 msgstr ""
 
 # 29f0d09f00e245f9899558f212f32baf
@@ -1696,10 +1784,11 @@ msgstr ""
 "Gracze nie mogą zyskiwać życia w tej turze. Obrażenia nie mogą być zażegnane "
 "w tej turze. Skullcrack zadaje wskazanemu graczowi 3 obrażenia."
 
-# af0625f5674f46789934d49263435127
 #: ../../GTC.rst:550
-#, fuzzy
-msgid ":mtgtip:`Structural Collapse`"
+msgid ""
+":mtgtip:`Structural Collapse<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/107.jpg?1517813031|https://scryfall.com/card/gtc/107/structural-collapse?"
+"utm_source=api>`"
 msgstr ""
 
 # 14daf961364949bd84c8e6791115cf94
@@ -1711,10 +1800,11 @@ msgstr ""
 "Wskazany gracz poświęca artefakt i ląd. Structural Collapse zadaje owemu "
 "graczowi 2 obrażenia."
 
-# 52a8b5157aea4e9d95d0d8b0c34ebe56
 #: ../../GTC.rst:556
-#, fuzzy
-msgid ":mtgtip:`Tin Street Market`"
+msgid ""
+":mtgtip:`Tin Street Market<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/108.jpg?1517813031|https://scryfall.com/card/gtc/108/tin-street-market?"
+"utm_source=api>`"
 msgstr ""
 
 # 4b0b6ce31a274a9db204c472f6725faa
@@ -1723,10 +1813,11 @@ msgstr ""
 msgid "Enchanted land has \"|tap|, Discard a card: Draw a card.\""
 msgstr "Zauroczony ląd ma \"|tap|, odrzuć kartę: Dobierz kartę.\""
 
-# 6e630fe2fb924385bcb7e994695d96e8
 #: ../../GTC.rst:560
-#, fuzzy
-msgid ":mtgtip:`Towering Thunderfist`"
+msgid ""
+":mtgtip:`Towering Thunderfist<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/109.jpg?1517813031|https://scryfall.com/card/gtc/109/towering-"
+"thunderfist?utm_source=api>`"
 msgstr ""
 
 # c00e40f9be634019858373ade777f68d
@@ -1734,10 +1825,11 @@ msgstr ""
 msgid "|mana_w|: Towering Thunderfist gains vigilance until end of turn."
 msgstr "|mana_w|: Towering Thunderfist zyskuje czujność do końca tury."
 
-# 7103daf008854f3fb43257bad9a1fceb
 #: ../../GTC.rst:566
-#, fuzzy
-msgid ":mtgtip:`Viashino Shanktail`"
+msgid ""
+":mtgtip:`Viashino Shanktail<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/110.jpg?1517813031|https://scryfall.com/card/gtc/110/viashino-shanktail?"
+"utm_source=api>`"
 msgstr ""
 
 # 54aafdfa929449c18eb3e3bef4055abc
@@ -1755,10 +1847,11 @@ msgstr ""
 "Zew krwi — |mana_2|\\ |mana_r|, odrzuć Viashino Shanktail: Wskazany "
 "atakujący stwór dostaje do końca tury +3/+1 oraz pierwszy cios."
 
-# 8bafa3db8bb64e09b00b93f702c5629c
 #: ../../GTC.rst:570
-#, fuzzy
-msgid ":mtgtip:`Warmind Infantry`"
+msgid ""
+":mtgtip:`Warmind Infantry<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/111.jpg?1517813031|https://scryfall.com/card/gtc/111/warmind-infantry?"
+"utm_source=api>`"
 msgstr ""
 
 # e5ee1086a3a7438f91c2ab13ff26d4be
@@ -1770,10 +1863,11 @@ msgstr ""
 "Batalion — Ilekroć Warmind Infantry i co najmniej dwa inne stwory atakują, "
 "Warmind Infantry dostaje +2/+0 do końca tury."
 
-# 61d16f46a6a1492dba1e1521c7989cd2
 #: ../../GTC.rst:576
-#, fuzzy
-msgid ":mtgtip:`Wrecking Ogre`"
+msgid ""
+":mtgtip:`Wrecking Ogre<https://img.scryfall.com/cards/border_crop/en/gtc/112."
+"jpg?1517813031|https://scryfall.com/card/gtc/112/wrecking-ogre?"
+"utm_source=api>`"
 msgstr ""
 
 # 6a9c8fe704e143578bcfad6e9eb786d6
@@ -1791,16 +1885,18 @@ msgstr ""
 "Zew krwi — |mana_3|\\ |mana_r|\\ |mana_r|, odrzuć Wrecking Ogre: Wskazany "
 "atakujący stwór dostaje do końca tury +3/+3 oraz podwójny cios."
 
-# eb5cc8de19f544678191890babce1ee1
 #: ../../GTC.rst:580
-#, fuzzy
-msgid ":mtgtip:`Adaptive Snapjaw`"
+msgid ""
+":mtgtip:`Adaptive Snapjaw<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/113.jpg?1517813031|https://scryfall.com/card/gtc/113/adaptive-snapjaw?"
+"utm_source=api>`"
 msgstr ""
 
-# 2fa4147c73d9476882cdfa536b675680
 #: ../../GTC.rst:586
-#, fuzzy
-msgid ":mtgtip:`Alpha Authority`"
+msgid ""
+":mtgtip:`Alpha Authority<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/114.jpg?1517813031|https://scryfall.com/card/gtc/114/alpha-authority?"
+"utm_source=api>`"
 msgstr ""
 
 # 5604d29c63a94885bc1b44dce868c4bd
@@ -1812,10 +1908,11 @@ msgstr ""
 "Zauroczony stwór ma antyklątwę i nie może być blokowany przez więcej niż "
 "jednego stwora."
 
-# 92b82b95d44c407fbe69a879942cd7f3
 #: ../../GTC.rst:590
-#, fuzzy
-msgid ":mtgtip:`Burst of Strength`"
+msgid ""
+":mtgtip:`Burst of Strength<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/115.jpg?1517813031|https://scryfall.com/card/gtc/115/burst-of-strength?"
+"utm_source=api>`"
 msgstr ""
 
 # fd829cdb957e469d91731e2fef37de61
@@ -1823,10 +1920,10 @@ msgstr ""
 msgid "Put a +1/+1 counter on target creature and untap it."
 msgstr "Umieść znacznik +1/+1 na wskazanym stworze i odznacz go."
 
-# e6f9544cfd8a45fe8bb6969f48356ae9
 #: ../../GTC.rst:596
-#, fuzzy
-msgid ":mtgtip:`Crocanura`"
+msgid ""
+":mtgtip:`Crocanura<https://img.scryfall.com/cards/border_crop/en/gtc/116.jpg?"
+"1517813031|https://scryfall.com/card/gtc/116/crocanura?utm_source=api>`"
 msgstr ""
 
 # 1bb65728578945f79d9421b4e201a3ee
@@ -1834,10 +1931,11 @@ msgstr ""
 msgid "Reach (This creature can block creatures with flying.)"
 msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
-# 799cc1b1f1aa4542b21f51f8df50bfc8
 #: ../../GTC.rst:602
-#, fuzzy
-msgid ":mtgtip:`Crowned Ceratok`"
+msgid ""
+":mtgtip:`Crowned Ceratok<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/117.jpg?1517813031|https://scryfall.com/card/gtc/117/crowned-ceratok?"
+"utm_source=api>`"
 msgstr ""
 
 # df0e85e593444a96837f8d5f6e3d0b05
@@ -1855,10 +1953,11 @@ msgstr "Tratowanie"
 msgid "Each creature you control with a +1/+1 counter on it has trample."
 msgstr "Każdy stwór pod twoim władaniem mający znacznik +1/+1, ma tratowanie."
 
-# f42a37c8a88f4e4f9c0b53c88bfe2f7e
 #: ../../GTC.rst:606
-#, fuzzy
-msgid ":mtgtip:`Disciple of the Old Ways`"
+msgid ""
+":mtgtip:`Disciple of the Old Ways<https://img.scryfall.com/cards/border_crop/"
+"en/gtc/118.jpg?1517813031|https://scryfall.com/card/gtc/118/disciple-of-the-"
+"old-ways?utm_source=api>`"
 msgstr ""
 
 # e296445dce1a49c0b0d3b017dce5ed43
@@ -1868,10 +1967,11 @@ msgid ""
 msgstr ""
 "|mana_r|: Disciple of the Old Ways zyskuje pierwszy cios do końca tury."
 
-# b6cdd25d4dc74f83a1e1c95c3ec5f897
 #: ../../GTC.rst:612
-#, fuzzy
-msgid ":mtgtip:`Experiment One`"
+msgid ""
+":mtgtip:`Experiment One<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/119.jpg?1517813031|https://scryfall.com/card/gtc/119/experiment-one?"
+"utm_source=api>`"
 msgstr ""
 
 # 114e087d9d5a40498d48da94182d1697
@@ -1880,10 +1980,11 @@ msgid ""
 "Remove two +1/+1 counters from Experiment One: Regenerate Experiment One."
 msgstr "Usuń dwa znaczniki +1/+1 z Experiment One: Zregeneruj Experiment One."
 
-# 89e9a13d17c94e169ebe5a57ee93c347
 #: ../../GTC.rst:618
-#, fuzzy
-msgid ":mtgtip:`Forced Adaptation`"
+msgid ""
+":mtgtip:`Forced Adaptation<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/120.jpg?1517813031|https://scryfall.com/card/gtc/120/forced-adaptation?"
+"utm_source=api>`"
 msgstr ""
 
 # 6d9f567cd1f64451838ecd5c2fd34462
@@ -1893,10 +1994,11 @@ msgid ""
 msgstr ""
 "Na początku twojego utrzymania umieść znacznik +1/+1 na zauroczonym stworze."
 
-# ea3b89d285e84db39f0984c40bb03305
 #: ../../GTC.rst:624
-#, fuzzy
-msgid ":mtgtip:`Giant Adephage`"
+msgid ""
+":mtgtip:`Giant Adephage<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/121.jpg?1517813031|https://scryfall.com/card/gtc/121/giant-adephage?"
+"utm_source=api>`"
 msgstr ""
 
 # 9796f32114454e0590fc9c80b4e32941
@@ -1909,10 +2011,11 @@ msgstr ""
 "Ilekroć Giant Adephage zadaje graczowi obrażenia bitewne, stwórz żeton "
 "będący kopią Giant Adephage."
 
-# 7116ecd6ebe6433399d9307a18f2c781
 #: ../../GTC.rst:628
-#, fuzzy
-msgid ":mtgtip:`Greenside Watcher`"
+msgid ""
+":mtgtip:`Greenside Watcher<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/122.jpg?1517813031|https://scryfall.com/card/gtc/122/greenside-watcher?"
+"utm_source=api>`"
 msgstr ""
 
 # 427ab44206c64760ab3c00101f72bf60
@@ -1920,10 +2023,10 @@ msgstr ""
 msgid "|tap|: Untap target Gate."
 msgstr "|tap|: Odkręć wskazaną Bramę."
 
-# 162b617458e6482782437faa6bae42eb
 #: ../../GTC.rst:634
-#, fuzzy
-msgid ":mtgtip:`Gyre Sage`"
+msgid ""
+":mtgtip:`Gyre Sage<https://img.scryfall.com/cards/border_crop/en/gtc/123.jpg?"
+"1517813031|https://scryfall.com/card/gtc/123/gyre-sage?utm_source=api>`"
 msgstr ""
 
 # 2ab9c72629f24ba0bfdcd2cfd3bbd92a
@@ -1934,10 +2037,10 @@ msgstr ""
 "|tap|: Dodaj |mana_g| do twojej puli many za każdy znacznik +1/+1na Gyre "
 "Sage."
 
-# 873e86f1cbac4ea6b2c5fab60dcf01c1
 #: ../../GTC.rst:638
-#, fuzzy
-msgid ":mtgtip:`Hindervines`"
+msgid ""
+":mtgtip:`Hindervines<https://img.scryfall.com/cards/border_crop/en/gtc/124."
+"jpg?1517813031|https://scryfall.com/card/gtc/124/hindervines?utm_source=api>`"
 msgstr ""
 
 # 7a4b10abbb7547869de88c6d18392775
@@ -1949,10 +2052,11 @@ msgstr ""
 "Zażegnaj wszystkie obrażenia bitewne, które miałyby zostać zadane w tej "
 "turze przez stwory bez znaczników +1/+1."
 
-# 48135168f4a64f5e99c418e37a524086
 #: ../../GTC.rst:642
-#, fuzzy
-msgid ":mtgtip:`Ivy Lane Denizen`"
+msgid ""
+":mtgtip:`Ivy Lane Denizen<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/125.jpg?1517813031|https://scryfall.com/card/gtc/125/ivy-lane-denizen?"
+"utm_source=api>`"
 msgstr ""
 
 # f46c0c0232cb4a64a537bd414c427b38
@@ -1964,10 +2068,11 @@ msgstr ""
 "Ilekroć inny zielony stwór wchodzi na pole walki pod twoim władaniem, umieść "
 "znacznik +1/+1 na wskazanym stworze."
 
-# bddfdce1937e4b8c9d5c9ea677ac58f4
 #: ../../GTC.rst:646
-#, fuzzy
-msgid ":mtgtip:`Miming Slime`"
+msgid ""
+":mtgtip:`Miming Slime<https://img.scryfall.com/cards/border_crop/en/gtc/126."
+"jpg?1517813031|https://scryfall.com/card/gtc/126/miming-slime?"
+"utm_source=api>`"
 msgstr ""
 
 # fc2e1aaa4fc646cf9ad38db90eb7ffe3
@@ -1980,10 +2085,10 @@ msgstr ""
 "Umieść na polu walki żeton zielonego stwora Szlam X/X, gdzie X jest "
 "największą siłą spośród stworów, którymi władasz."
 
-# dd4ae05ae6fa4a5782193b1fadbd6b20
 #: ../../GTC.rst:650
-#, fuzzy
-msgid ":mtgtip:`Naturalize`"
+msgid ""
+":mtgtip:`Naturalize<https://img.scryfall.com/cards/border_crop/en/gtc/127."
+"jpg?1517813031|https://scryfall.com/card/gtc/127/naturalize?utm_source=api>`"
 msgstr ""
 
 # e164bc1cf5aa49f28545c3dea99f9946
@@ -1991,10 +2096,10 @@ msgstr ""
 msgid "Destroy target artifact or enchantment."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
-# ea4e8e0dbdb440c48b5aa3847fd81302
 #: ../../GTC.rst:654
-#, fuzzy
-msgid ":mtgtip:`Ooze Flux`"
+msgid ""
+":mtgtip:`Ooze Flux<https://img.scryfall.com/cards/border_crop/en/gtc/128.jpg?"
+"1517813031|https://scryfall.com/card/gtc/128/ooze-flux?utm_source=api>`"
 msgstr ""
 
 # a9cb69a514104f12a7156bfcb05b35a6
@@ -2009,10 +2114,11 @@ msgstr ""
 "którymi władasz: Umieść na polu walki żeton zielonego stwora Szlam X/X, "
 "gdzie X jest liczbą usuniętych w ten sposób znaczników +1/+1."
 
-# 45fb221b1b53442cbd60376ea8cb6428
 #: ../../GTC.rst:658
-#, fuzzy
-msgid ":mtgtip:`Predator's Rapport`"
+msgid ""
+":mtgtip:`Predator's Rapport<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/129.jpg?1517813031|https://scryfall.com/card/gtc/129/predators-rapport?"
+"utm_source=api>`"
 msgstr ""
 
 # 81f0a062e9b347f38dd143928d6503f5
@@ -2024,10 +2130,10 @@ msgstr ""
 "Wskaż stwora pod twoim władaniem. Zyskujesz tyle życia, ile wynosi suma siły "
 "i wytrzymałości owego stwora."
 
-# f3b604f9f29e4e88a12846d8bd660a87
 #: ../../GTC.rst:662
-#, fuzzy
-msgid ":mtgtip:`Rust Scarab`"
+msgid ""
+":mtgtip:`Rust Scarab<https://img.scryfall.com/cards/border_crop/en/gtc/130."
+"jpg?1517813031|https://scryfall.com/card/gtc/130/rust-scarab?utm_source=api>`"
 msgstr ""
 
 # 9debac2b4b114eea829a66867037f680
@@ -2039,10 +2145,11 @@ msgstr ""
 "Ilekroć Rust Scarab jest blokowany możesz zniszczyć wskazany artefakt lub "
 "urok władany przez broniącego się gracza."
 
-# 50795272605e41f493c4012c267fafbd
 #: ../../GTC.rst:666
-#, fuzzy
-msgid ":mtgtip:`Scab-Clan Charger`"
+msgid ""
+":mtgtip:`Scab-Clan Charger<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/131.jpg?1517813031|https://scryfall.com/card/gtc/131/scab-clan-charger?"
+"utm_source=api>`"
 msgstr ""
 
 # feb540a1c8a24551a3cbe8a7910c7c4b
@@ -2055,10 +2162,11 @@ msgstr ""
 "Zew krwi — |mana_1|\\ |mana_g|, odrzuć Scab-Clan Charger: Wskazany atakujący "
 "stwór dostaje +2/+4 do końca tury."
 
-# 62bdca2e9db54d7ca244167ef66ce723
 #: ../../GTC.rst:670
-#, fuzzy
-msgid ":mtgtip:`Serene Remembrance`"
+msgid ""
+":mtgtip:`Serene Remembrance<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/132.jpg?1517813031|https://scryfall.com/card/gtc/132/serene-remembrance?"
+"utm_source=api>`"
 msgstr ""
 
 # 4c3b96ebf5354ce08dd909fe724d5309
@@ -2070,10 +2178,11 @@ msgstr ""
 "Wtasuj Serene Remembrance oraz do trzech wskazanych kart z jednego cmentarza "
 "do bibliotek ich właścicieli."
 
-# 39286ee1d3bb476a8dd46d097a18b6b5
 #: ../../GTC.rst:676
-#, fuzzy
-msgid ":mtgtip:`Skarrg Goliath`"
+msgid ""
+":mtgtip:`Skarrg Goliath<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/133.jpg?1517813031|https://scryfall.com/card/gtc/133/skarrg-goliath?"
+"utm_source=api>`"
 msgstr ""
 
 # 708e96111c7247c780854ea1dcf12ec2
@@ -2086,10 +2195,11 @@ msgstr ""
 "Zew krwi — |mana_5|\\ |mana_g|\\ |mana_g|, odrzuć Skarrg Goliath: Wskazany "
 "atakujący stwór dostaje do końca tury +9/+9 oraz tratowanie."
 
-# ac12610b556d4028897107f53dbfb79e
 #: ../../GTC.rst:680
-#, fuzzy
-msgid ":mtgtip:`Slaughterhorn`"
+msgid ""
+":mtgtip:`Slaughterhorn<https://img.scryfall.com/cards/border_crop/en/gtc/134."
+"jpg?1517813031|https://scryfall.com/card/gtc/134/slaughterhorn?"
+"utm_source=api>`"
 msgstr ""
 
 # 1bb519b13a7d401ca56dc08b7e3ace8c
@@ -2101,10 +2211,11 @@ msgstr ""
 "Zew krwi — |mana_g|, odrzuć Slaughterhorn: Wskazany atakujący stwór dostaje "
 "+3/+2 do końca tury."
 
-# fd354ad43c274c75a9fec0fa1e67e44d
 #: ../../GTC.rst:684
-#, fuzzy
-msgid ":mtgtip:`Spire Tracer`"
+msgid ""
+":mtgtip:`Spire Tracer<https://img.scryfall.com/cards/border_crop/en/gtc/135."
+"jpg?1517813031|https://scryfall.com/card/gtc/135/spire-tracer?"
+"utm_source=api>`"
 msgstr ""
 
 # d2a3479dd40d4143b28531cda1640fa5
@@ -2113,10 +2224,11 @@ msgid "Spire Tracer can't be blocked except by creatures with flying or reach."
 msgstr ""
 "Spire Tracer może być blokowany tylko przez stwory z lataniem lub zasięgiem."
 
-# 9a8abc21434e403b862446b09d76141b
 #: ../../GTC.rst:690
-#, fuzzy
-msgid ":mtgtip:`Sylvan Primordial`"
+msgid ""
+":mtgtip:`Sylvan Primordial<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/136.jpg?1517813031|https://scryfall.com/card/gtc/136/sylvan-primordial?"
+"utm_source=api>`"
 msgstr ""
 
 # c87b5a9db0fb4ce1bf058e1f8a1c4cd0
@@ -2138,10 +2250,11 @@ msgstr ""
 "twojej bibliotece karty Lasu i umieść ją przekręconą na polu walki. "
 "Następnie przetasuj twoją bibliotekę."
 
-# 0331e4ac032940f9b186ea20c58023d5
 #: ../../GTC.rst:694
-#, fuzzy
-msgid ":mtgtip:`Tower Defense`"
+msgid ""
+":mtgtip:`Tower Defense<https://img.scryfall.com/cards/border_crop/en/gtc/137."
+"jpg?1517813031|https://scryfall.com/card/gtc/137/tower-defense?"
+"utm_source=api>`"
 msgstr ""
 
 # 472b897b3b5a4765b4d354498b45f161
@@ -2149,10 +2262,11 @@ msgstr ""
 msgid "Creatures you control get +0/+5 and gain reach until end of turn."
 msgstr "Stwory pod twoim władaniem dostają do końca tury +0/+5 oraz zasięg."
 
-# 3e0b9bc4d7954676a8ff06988d305ca2
 #: ../../GTC.rst:702
-#, fuzzy
-msgid ":mtgtip:`Verdant Haven`"
+msgid ""
+":mtgtip:`Verdant Haven<https://img.scryfall.com/cards/border_crop/en/gtc/138."
+"jpg?1517813031|https://scryfall.com/card/gtc/138/verdant-haven?"
+"utm_source=api>`"
 msgstr ""
 
 # fcc6ddb6342e4e25bb97ae8cb14f2751
@@ -2171,10 +2285,11 @@ msgstr ""
 "gracz dodaje jedną manę dowolnego koloru do swojej puli many (oprócz many, "
 "którą ten ląd produkuje)."
 
-# 43ef0510a8044aa69e0365e29bc6da01
 #: ../../GTC.rst:708
-#, fuzzy
-msgid ":mtgtip:`Wasteland Viper`"
+msgid ""
+":mtgtip:`Wasteland Viper<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/139.jpg?1517813031|https://scryfall.com/card/gtc/139/wasteland-viper?"
+"utm_source=api>`"
 msgstr ""
 
 # 7b8c057b07d64daa8c7769c93e9f9e27
@@ -2191,16 +2306,17 @@ msgstr ""
 "Zew krwi — |mana_g|, odrzuć Wasteland Viper: Wskazany atakujący stwór "
 "dostaje do końca tury +1/+2 oraz dotyk śmierci."
 
-# 4dd1b202b4f242b98dc9ef6695c9a4a1
 #: ../../GTC.rst:712
-#, fuzzy
-msgid ":mtgtip:`Wildwood Rebirth`"
+msgid ""
+":mtgtip:`Wildwood Rebirth<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/140.jpg?1517813031|https://scryfall.com/card/gtc/140/wildwood-rebirth?"
+"utm_source=api>`"
 msgstr ""
 
-# 0c2773ce9b08493a929f3607f5aa8ec7
 #: ../../GTC.rst:716
-#, fuzzy
-msgid ":mtgtip:`Alms Beast`"
+msgid ""
+":mtgtip:`Alms Beast<https://img.scryfall.com/cards/border_crop/en/gtc/141."
+"jpg?1517813031|https://scryfall.com/card/gtc/141/alms-beast?utm_source=api>`"
 msgstr ""
 
 # 39dc7422db064fd289faf3f13d15df29
@@ -2208,10 +2324,11 @@ msgstr ""
 msgid "Creatures blocking or blocked by Alms Beast have lifelink."
 msgstr "Stwory blokujące lub blokowane przez Alms Beast mają Więź Życia."
 
-# 1ab889a6ab39496c8f37aa64850de3c7
 #: ../../GTC.rst:720
-#, fuzzy
-msgid ":mtgtip:`Assemble the Legion`"
+msgid ""
+":mtgtip:`Assemble the Legion<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/142.jpg?1517813031|https://scryfall.com/card/gtc/142/assemble-the-legion?"
+"utm_source=api>`"
 msgstr ""
 
 # a5200aedd0f548a98f35edbd66d63632
@@ -2226,10 +2343,11 @@ msgstr ""
 "Legion. Następnie stwórz czerwono-biały żeton stwora Soldier 1/1 z "
 "pośpiechem za każdy znacznik musztry na Assemble the Legion."
 
-# e71845c23d664a3f91f28cfbec9a1183
 #: ../../GTC.rst:726
-#, fuzzy
-msgid ":mtgtip:`Aurelia, the Warleader`"
+msgid ""
+":mtgtip:`Aurelia, the Warleader<https://img.scryfall.com/cards/border_crop/"
+"en/gtc/143.jpg?1517813031|https://scryfall.com/card/gtc/143/aurelia-the-"
+"warleader?utm_source=api>`"
 msgstr ""
 
 # 95cbdabc01a44903a65fe2339e63a087
@@ -2248,10 +2366,11 @@ msgstr ""
 "odznacz wszystkie stwory, którymi władasz. Po tej fazie następuje dodatkowa "
 "faza walki."
 
-# c2a543bce45549808321b83ec912a259
 #: ../../GTC.rst:730
-#, fuzzy
-msgid ":mtgtip:`Aurelia's Fury`"
+msgid ""
+":mtgtip:`Aurelia's Fury<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/144.jpg?1517813031|https://scryfall.com/card/gtc/144/aurelias-fury?"
+"utm_source=api>`"
 msgstr ""
 
 # 4564b0d071104b459919ee854c121fcd
@@ -2267,10 +2386,11 @@ msgstr ""
 "którym zadano w ten sposób obrażenia. Gracze, którym zadano w ten sposób "
 "obrażenia nie mogą w tej turze rzucać czarów nie będących stworami."
 
-# 2ab06b6e5aaf47989163e7d8e2bb0869
 #: ../../GTC.rst:738
-#, fuzzy
-msgid ":mtgtip:`Bane Alley Broker`"
+msgid ""
+":mtgtip:`Bane Alley Broker<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/145.jpg?1517813031|https://scryfall.com/card/gtc/145/bane-alley-broker?"
+"utm_source=api>`"
 msgstr ""
 
 # 7b80808796744f0582d1bf4dc5a33a42
@@ -2294,10 +2414,11 @@ msgstr ""
 "|mana_u|\\ |mana_b|, |tap|: Przywróć kartę wypędzoną przez Bane Alley "
 "Brokera do ręki właściciela."
 
-# 31f719d1c29a4c8d83197e30f80419bb
 #: ../../GTC.rst:742
-#, fuzzy
-msgid ":mtgtip:`Biovisionary`"
+msgid ""
+":mtgtip:`Biovisionary<https://img.scryfall.com/cards/border_crop/en/gtc/146."
+"jpg?1517813031|https://scryfall.com/card/gtc/146/biovisionary?"
+"utm_source=api>`"
 msgstr ""
 
 # ac0272a8b123413cb816c9de01dc6656
@@ -2309,10 +2430,11 @@ msgstr ""
 "Na początku kroku końcowego, jeśli władasz co najmniej czterema stworami o "
 "nazwie Biovisionary, wygrywasz grę."
 
-# c527f1f8a81449818d0d76c4b0033bc9
 #: ../../GTC.rst:750
-#, fuzzy
-msgid ":mtgtip:`Borborygmos Enraged`"
+msgid ""
+":mtgtip:`Borborygmos Enraged<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/147.jpg?1517813031|https://scryfall.com/card/gtc/147/borborygmos-enraged?"
+"utm_source=api>`"
 msgstr ""
 
 # 72e66d85014f417baba610b6f4eedef4
@@ -2334,10 +2456,10 @@ msgstr ""
 "Odrzuć kartę lądu: Borborygmos Enraged zadaje 3 obrażenia wskazanemu "
 "stworowi lub graczowi."
 
-# 452ec2305ad346bd8c3bcd73d1b9e3b4
 #: ../../GTC.rst:760
-#, fuzzy
-msgid ":mtgtip:`Boros Charm`"
+msgid ""
+":mtgtip:`Boros Charm<https://img.scryfall.com/cards/border_crop/en/gtc/148."
+"jpg?1517813031|https://scryfall.com/card/gtc/148/boros-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../GTC.rst:753 ../../GTC.rst:795 ../../GTC.rst:883 ../../GTC.rst:927
@@ -2362,10 +2484,11 @@ msgstr ""
 msgid "Target creature gains double strike until end of turn."
 msgstr " albo wskazany stwór dostaje podwójny cios do końca tury."
 
-# 2b2f527f98394adb9c384d9f7399e09b
 #: ../../GTC.rst:766
-#, fuzzy
-msgid ":mtgtip:`Call of the Nightwing`"
+msgid ""
+":mtgtip:`Call of the Nightwing<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/149.jpg?1517813031|https://scryfall.com/card/gtc/149/call-of-the-"
+"nightwing?utm_source=api>`"
 msgstr ""
 
 # 084bb521e5e84a3c9cbb02d02c696a90
@@ -2375,10 +2498,11 @@ msgid "Create a 1/1 blue and black Horror creature token with flying."
 msgstr ""
 "Umieść na polu walki żeton niebiesko-czarnego stwora Horror 1/1 z lataniem."
 
-# acfd46836c544769b47f9f5feaa1569a
 #: ../../GTC.rst:770
-#, fuzzy
-msgid ":mtgtip:`Cartel Aristocrat`"
+msgid ""
+":mtgtip:`Cartel Aristocrat<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/150.jpg?1517813031|https://scryfall.com/card/gtc/150/cartel-aristocrat?"
+"utm_source=api>`"
 msgstr ""
 
 # 4149c2f3963b467dadddeddb6510693b
@@ -2390,10 +2514,11 @@ msgstr ""
 "Poświęć innego stwora: Cartel Aristocrat zyskuje ochronę przed wybranym "
 "przez ciebie kolorem do końca tury."
 
-# 730f2df780ff49d79163bc19b36392f5
 #: ../../GTC.rst:780
-#, fuzzy
-msgid ":mtgtip:`Clan Defiance`"
+msgid ""
+":mtgtip:`Clan Defiance<https://img.scryfall.com/cards/border_crop/en/gtc/151."
+"jpg?1517813031|https://scryfall.com/card/gtc/151/clan-defiance?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../GTC.rst:773
@@ -2415,10 +2540,11 @@ msgstr " Clan Defiance zadaje X obrażeń wskazanemu stworowi z lataniem"
 msgid "Clan Defiance deals X damage to target player or planeswalker."
 msgstr " i/lub Cland Defiance zadaje X obrażeń wskazanemu graczowi."
 
-# 7afada6bb3d74ec5b4079230bc893a26
 #: ../../GTC.rst:786
-#, fuzzy
-msgid ":mtgtip:`Consuming Aberration`"
+msgid ""
+":mtgtip:`Consuming Aberration<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/152.jpg?1517813031|https://scryfall.com/card/gtc/152/consuming-"
+"aberration?utm_source=api>`"
 msgstr ""
 
 # 11a52a6efae2407eaf11a9c47b7dd6cd
@@ -2442,10 +2568,11 @@ msgstr ""
 "biblioteki aż ujawni kartę lądu, po czym przekłada wszystkie ujawnione w ten "
 "sposób karty na swój cmentarz."
 
-# 7993c5e9c62e41ac8891a63fb8a68e24
 #: ../../GTC.rst:792
-#, fuzzy
-msgid ":mtgtip:`Deathpact Angel`"
+msgid ""
+":mtgtip:`Deathpact Angel<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/153.jpg?1517813031|https://scryfall.com/card/gtc/153/deathpact-angel?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../GTC.rst:791
@@ -2461,10 +2588,10 @@ msgstr ""
 "tego stwora: Zwróć kartę o nazwie Deathpact Angel z twojego cmentarza na "
 "pole walki.\""
 
-# 3d3758353ef34c7e924b1bb40734efef
 #: ../../GTC.rst:802
-#, fuzzy
-msgid ":mtgtip:`Dimir Charm`"
+msgid ""
+":mtgtip:`Dimir Charm<https://img.scryfall.com/cards/border_crop/en/gtc/154."
+"jpg?1517813031|https://scryfall.com/card/gtc/154/dimir-charm?utm_source=api>`"
 msgstr ""
 
 # 6f165425bac24a9a920fc57fd3157cf6
@@ -2489,10 +2616,11 @@ msgstr ""
 "następnie umieść jedną z powrotem, a pozostałe umieść w cmentarzu owego "
 "gracza."
 
-# f85f8acfaf75475da5e2f9cd876d23e0
 #: ../../GTC.rst:806
-#, fuzzy
-msgid ":mtgtip:`Dinrova Horror`"
+msgid ""
+":mtgtip:`Dinrova Horror<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/155.jpg?1517813031|https://scryfall.com/card/gtc/155/dinrova-horror?"
+"utm_source=api>`"
 msgstr ""
 
 # c7279dafe21145da8b535d3399ac86b0
@@ -2504,10 +2632,10 @@ msgstr ""
 "Kiedy Dinrova Horror wchodzi na pole walki, przywróć wskazany permanent do "
 "ręki jego właściciela, następnie ów gracz odrzuca kartę."
 
-# 9cb771f9042f4abba5b75f70656212b7
 #: ../../GTC.rst:814
-#, fuzzy
-msgid ":mtgtip:`Domri Rade`"
+msgid ""
+":mtgtip:`Domri Rade<https://img.scryfall.com/cards/border_crop/en/gtc/156."
+"jpg?1517813031|https://scryfall.com/card/gtc/156/domri-rade?utm_source=api>`"
 msgstr ""
 
 # 1b2d26802a2349c4a535a470f92953be
@@ -2535,16 +2663,18 @@ msgstr ""
 "-7: Dostajesz emblemat o treści: \"Stwory, którymi władasz mają podwójny "
 "cios, tratowanie, antyklątwę i pośpiech.\""
 
-# 5c8eba1cafc64451a5a6094e33721e2b
 #: ../../GTC.rst:818
-#, fuzzy
-msgid ":mtgtip:`Drakewing Krasis`"
+msgid ""
+":mtgtip:`Drakewing Krasis<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/157.jpg?1517813031|https://scryfall.com/card/gtc/157/drakewing-krasis?"
+"utm_source=api>`"
 msgstr ""
 
-# faf96e05d0794d24892f4db6fbde6072
 #: ../../GTC.rst:824
-#, fuzzy
-msgid ":mtgtip:`Duskmantle Guildmage`"
+msgid ""
+":mtgtip:`Duskmantle Guildmage<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/158.jpg?1517813031|https://scryfall.com/card/gtc/158/duskmantle-"
+"guildmage?utm_source=api>`"
 msgstr ""
 
 # 6425ef5095294a6a9dfc6594bb5e35c1
@@ -2567,10 +2697,11 @@ msgstr ""
 "|mana_2|\\ |mana_u|\\ |mana_b|: Wskazany gracz wkłada dwie wierzchnie karty "
 "ze swojej biblioteki do swojego cmentarza."
 
-# 18b3ebd7b3284b4b8adcae7ab1fb30ce
 #: ../../GTC.rst:830
-#, fuzzy
-msgid ":mtgtip:`Duskmantle Seer`"
+msgid ""
+":mtgtip:`Duskmantle Seer<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/159.jpg?1517813031|https://scryfall.com/card/gtc/159/duskmantle-seer?"
+"utm_source=api>`"
 msgstr ""
 
 # efb046e1ec1a4ebb937f03a59cbb5a89
@@ -2585,10 +2716,11 @@ msgstr ""
 "biblioteki, traci liczbę punktów życia równą łącznemu kosztowi many owej "
 "karty, po czym dokłada ją do swojej ręki."
 
-# 08bf6a8bc3e247bfbedfb089a8b8e9c7
 #: ../../GTC.rst:836
-#, fuzzy
-msgid ":mtgtip:`Elusive Krasis`"
+msgid ""
+":mtgtip:`Elusive Krasis<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/160.jpg?1517813031|https://scryfall.com/card/gtc/160/elusive-krasis?"
+"utm_source=api>`"
 msgstr ""
 
 # 6308f2c0dd344c17a5f02de219ceebbe
@@ -2596,10 +2728,11 @@ msgstr ""
 msgid "Elusive Krasis can't be blocked."
 msgstr "Elusive Krasis nie może być blokowany."
 
-# bc7a6a1e139041f0bdc47bbcfc551497
 #: ../../GTC.rst:840
-#, fuzzy
-msgid ":mtgtip:`Executioner's Swing`"
+msgid ""
+":mtgtip:`Executioner's Swing<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/161.jpg?1517813031|https://scryfall.com/card/gtc/161/executioners-swing?"
+"utm_source=api>`"
 msgstr ""
 
 # 3c07820ca35e4c6aaf95255c5f1bdd23
@@ -2610,10 +2743,10 @@ msgstr ""
 "Wskazany stwór, który zadał w tej turze obrażenia otrzymuje -5/-5 do końca "
 "tury."
 
-# b7d08f76c4f9435086c4ab8cef209bb4
 #: ../../GTC.rst:846
-#, fuzzy
-msgid ":mtgtip:`Fathom Mage`"
+msgid ""
+":mtgtip:`Fathom Mage<https://img.scryfall.com/cards/border_crop/en/gtc/162."
+"jpg?1517813031|https://scryfall.com/card/gtc/162/fathom-mage?utm_source=api>`"
 msgstr ""
 
 # 896c85e3c8514adb9d3c72f4c43b1bee
@@ -2623,10 +2756,11 @@ msgid "Whenever a +1/+1 counter is put on Fathom Mage, you may draw a card."
 msgstr ""
 "Ilekroć znacznik +1/+1 zostaje położony na Fathom Mage, możesz dobrać kartę."
 
-# c163b4a7c6ce4d6a8133d07c25b7f843
 #: ../../GTC.rst:852
-#, fuzzy
-msgid ":mtgtip:`Firemane Avenger`"
+msgid ""
+":mtgtip:`Firemane Avenger<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/163.jpg?1517813031|https://scryfall.com/card/gtc/163/firemane-avenger?"
+"utm_source=api>`"
 msgstr ""
 
 # 81a60a5798c6486bb6c6bfa97194d588
@@ -2640,10 +2774,11 @@ msgstr ""
 "Firemane Avenger zadaje 3 obrażenia wskazanemu stworowi lub graczowi, a ty "
 "zyskujesz 3 życia."
 
-# 1bc78fc2c41744b38217c249776a535a
 #: ../../GTC.rst:858
-#, fuzzy
-msgid ":mtgtip:`Fortress Cyclops`"
+msgid ""
+":mtgtip:`Fortress Cyclops<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/164.jpg?1517813031|https://scryfall.com/card/gtc/164/fortress-cyclops?"
+"utm_source=api>`"
 msgstr ""
 
 # 86d2bce83d154833832e57f88e5513ac
@@ -2656,10 +2791,11 @@ msgstr "Ilekroć Fortress Cyclops atakuje, otrzymuje +3/+0 do końca tury."
 msgid "Whenever Fortress Cyclops blocks, it gets +0/+3 until end of turn."
 msgstr "Ilekroć Fortress Cyclops blokuje, otrzymuje +0/+3 do końca tury."
 
-# 0aa7a4e36aa54359bb337a8e8219d8b5
 #: ../../GTC.rst:866
-#, fuzzy
-msgid ":mtgtip:`Foundry Champion`"
+msgid ""
+":mtgtip:`Foundry Champion<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/165.jpg?1517813031|https://scryfall.com/card/gtc/165/foundry-champion?"
+"utm_source=api>`"
 msgstr ""
 
 # 4f848616551446dcabf739735e6427a1
@@ -2682,10 +2818,11 @@ msgstr "|mana_r|: Foundry Champion dostaje +1/+0 do końca tury."
 msgid "|mana_w|: Foundry Champion gets +0/+1 until end of turn."
 msgstr "|mana_w|: Foundry Champion dostaje +0/+1 do końca tury."
 
-# 6e7cb96c0ddd43e68e5c88b198d3f021
 #: ../../GTC.rst:870
-#, fuzzy
-msgid ":mtgtip:`Frenzied Tilling`"
+msgid ""
+":mtgtip:`Frenzied Tilling<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/166.jpg?1517813031|https://scryfall.com/card/gtc/166/frenzied-tilling?"
+"utm_source=api>`"
 msgstr ""
 
 # b77d804970cc49d5b443ca246cc544fd
@@ -2697,10 +2834,11 @@ msgstr ""
 "Zniszcz wskazany ląd. Poszukaj w twojej bibliotece karty zwykłego lądu i "
 "umieść ją przekręconą na polu walki. Następnie przetasuj twoją bibliotekę."
 
-# c58f04a595fd47eb9a97f75585501922
 #: ../../GTC.rst:876
-#, fuzzy
-msgid ":mtgtip:`Ghor-Clan Rampager`"
+msgid ""
+":mtgtip:`Ghor-Clan Rampager<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/167.jpg?1517813031|https://scryfall.com/card/gtc/167/ghor-clan-rampager?"
+"utm_source=api>`"
 msgstr ""
 
 # 74c843b3b6a94fe28690b4162ace96b9
@@ -2713,10 +2851,11 @@ msgstr ""
 "Zew krwi — |mana_r|\\ |mana_g|, odrzuć Ghor-Clan Rampager: Wskazany "
 "atakujący stwór dostaje +4/+4 i tratowanie do końca tury."
 
-# 55c756388a62429b83a206ae3d4310f1
 #: ../../GTC.rst:880
-#, fuzzy
-msgid ":mtgtip:`Ground Assault`"
+msgid ""
+":mtgtip:`Ground Assault<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/168.jpg?1517813031|https://scryfall.com/card/gtc/168/ground-assault?"
+"utm_source=api>`"
 msgstr ""
 
 # ed28b448ca1747c396c9c315bf5af1e3
@@ -2727,10 +2866,10 @@ msgid ""
 msgstr ""
 "Ground Assault zadaje wskazanemu stworowi tyle obrażeń, iloma lądami władasz."
 
-# 4a08426d4868465b8293eb06f66316cd
 #: ../../GTC.rst:890
-#, fuzzy
-msgid ":mtgtip:`Gruul Charm`"
+msgid ""
+":mtgtip:`Gruul Charm<https://img.scryfall.com/cards/border_crop/en/gtc/169."
+"jpg?1517813031|https://scryfall.com/card/gtc/169/gruul-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../GTC.rst:885
@@ -2747,10 +2886,11 @@ msgstr " albo przejmij kontrolę nad wszystkimi własnymi stałkami"
 msgid "Gruul Charm deals 3 damage to each creature with flying."
 msgstr " Clan Defiance zadaje X obrażeń wskazanemu stworowi z lataniem"
 
-# 2ac94fc6f1f742df87ef574fd377f0cb
 #: ../../GTC.rst:894
-#, fuzzy
-msgid ":mtgtip:`Gruul Ragebeast`"
+msgid ""
+":mtgtip:`Gruul Ragebeast<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/170.jpg?1517813031|https://scryfall.com/card/gtc/170/gruul-ragebeast?"
+"utm_source=api>`"
 msgstr ""
 
 # 416be747a41043b88fbdc1200cb16f0b
@@ -2762,10 +2902,11 @@ msgstr ""
 "Ilekroć Gruul Ragebeast lub inny stwór wchodzi na pole walki pod twoim "
 "władaniem, ów stwór bije się ze wskazanym stworem władanym przez przeciwnika."
 
-# ead802869a88489abbfc1e3bf33b7f66
 #: ../../GTC.rst:898
-#, fuzzy
-msgid ":mtgtip:`High Priest of Penance`"
+msgid ""
+":mtgtip:`High Priest of Penance<https://img.scryfall.com/cards/border_crop/"
+"en/gtc/171.jpg?1517813031|https://scryfall.com/card/gtc/171/high-priest-of-"
+"penance?utm_source=api>`"
 msgstr ""
 
 # 43aa9dab7d944d3db4c78c60b094e3d6
@@ -2777,10 +2918,10 @@ msgstr ""
 "Ilekroć High Priest of Penance otrzymuje obrażenia, możesz zniszczyć "
 "wskazany nielądowy permanent."
 
-# f5e8c02bb22346089d88fe2628a6ac80
 #: ../../GTC.rst:902
-#, fuzzy
-msgid ":mtgtip:`Hydroform`"
+msgid ""
+":mtgtip:`Hydroform<https://img.scryfall.com/cards/border_crop/en/gtc/172.jpg?"
+"1517813031|https://scryfall.com/card/gtc/172/hydroform?utm_source=api>`"
 msgstr ""
 
 # a90c59d944f546d6aed66fabda1f9bf3
@@ -2792,16 +2933,18 @@ msgstr ""
 "Wskazany ląd do końca tury staje się stworem Elemental 3/3 z lataniem. Nadal "
 "jest lądem."
 
-# a8242033cb1940f28f250ddbf792891c
 #: ../../GTC.rst:908
-#, fuzzy
-msgid ":mtgtip:`Kingpin's Pet`"
+msgid ""
+":mtgtip:`Kingpin's Pet<https://img.scryfall.com/cards/border_crop/en/gtc/173."
+"jpg?1517813031|https://scryfall.com/card/gtc/173/kingpins-pet?"
+"utm_source=api>`"
 msgstr ""
 
-# 2355c756d3d64a8abc3f58594a3f58c3
 #: ../../GTC.rst:914
-#, fuzzy
-msgid ":mtgtip:`Lazav, Dimir Mastermind`"
+msgid ""
+":mtgtip:`Lazav, Dimir Mastermind<https://img.scryfall.com/cards/border_crop/"
+"en/gtc/174.jpg?1517813031|https://scryfall.com/card/gtc/174/lazav-dimir-"
+"mastermind?utm_source=api>`"
 msgstr ""
 
 # afc5139de40747bab5d45c4d7c02a628
@@ -2823,10 +2966,11 @@ msgstr ""
 "to wciąż Lazav, Dimir Mastermind, jego typ jest dodatkowo legendarny, "
 "zyskuje antyklątwę oraz niniejszą zdolność."
 
-# ba5737c090054fe496b60ee435fbfde6
 #: ../../GTC.rst:920
-#, fuzzy
-msgid ":mtgtip:`Martial Glory`"
+msgid ""
+":mtgtip:`Martial Glory<https://img.scryfall.com/cards/border_crop/en/gtc/175."
+"jpg?1517813031|https://scryfall.com/card/gtc/175/martial-glory?"
+"utm_source=api>`"
 msgstr ""
 
 # 2c356ed98c4a4e928d526fa304c5fd59
@@ -2839,10 +2983,11 @@ msgstr "Wskazany stwór dostaje +3/+0 do końca tury."
 msgid "Target creature gets +0/+3 until end of turn."
 msgstr "Wskazany stwór dostaje +0/+3 do końca tury."
 
-# 059992550caa43ca94366e5e7e34654c
 #: ../../GTC.rst:924
-#, fuzzy
-msgid ":mtgtip:`Master Biomancer`"
+msgid ""
+":mtgtip:`Master Biomancer<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/176.jpg?1517813031|https://scryfall.com/card/gtc/176/master-biomancer?"
+"utm_source=api>`"
 msgstr ""
 
 # cbb0cbd237f04036ad3076815ba872ef
@@ -2856,10 +3001,11 @@ msgstr ""
 "dodatkowymi znacznikami +1/+1, ile wynosi siła Master Biomancera oraz jest "
 "dodatkowo typu Mutant."
 
-# e5f4c1be2460430496cef50e198f1a30
 #: ../../GTC.rst:936
-#, fuzzy
-msgid ":mtgtip:`Merciless Eviction`"
+msgid ""
+":mtgtip:`Merciless Eviction<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/177.jpg?1517813031|https://scryfall.com/card/gtc/177/merciless-eviction?"
+"utm_source=api>`"
 msgstr ""
 
 # dcc321da18ca433190b4ad957e8ce6d8
@@ -2883,10 +3029,10 @@ msgstr " albo wypędź wszystkie uroki"
 msgid "Exile all planeswalkers."
 msgstr " albo wypędź wszystkich wędrowców."
 
-# f438d2f509fa4bcd9a351e4b840c0a52
 #: ../../GTC.rst:940
-#, fuzzy
-msgid ":mtgtip:`Mind Grind`"
+msgid ""
+":mtgtip:`Mind Grind<https://img.scryfall.com/cards/border_crop/en/gtc/178."
+"jpg?1517813031|https://scryfall.com/card/gtc/178/mind-grind?utm_source=api>`"
 msgstr ""
 
 # bc437b5b361146c78400194ad145e581
@@ -2901,10 +3047,11 @@ msgstr ""
 "ujawni X kart lądów, następnie wkłada wszystkie ujawnione w ten sposób karty "
 "do swojego cmentarza. X nie może być równe 0."
 
-# b64f13d2229a4a0b8ef96363ec1cd24a
 #: ../../GTC.rst:944
-#, fuzzy
-msgid ":mtgtip:`Mortus Strider`"
+msgid ""
+":mtgtip:`Mortus Strider<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/179.jpg?1517813031|https://scryfall.com/card/gtc/179/mortus-strider?"
+"utm_source=api>`"
 msgstr ""
 
 # c6d2b13ba4444180ad509bdc0bfbd5f0
@@ -2912,10 +3059,11 @@ msgstr ""
 msgid "When Mortus Strider dies, return it to its owner's hand."
 msgstr "Kiedy Mortus Strider umiera, zwróć go do ręki jego właściciela."
 
-# 698177f01033485c870e48a197a6c185
 #: ../../GTC.rst:948
-#, fuzzy
-msgid ":mtgtip:`Mystic Genesis`"
+msgid ""
+":mtgtip:`Mystic Genesis<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/180.jpg?1517813031|https://scryfall.com/card/gtc/180/mystic-genesis?"
+"utm_source=api>`"
 msgstr ""
 
 # 66a250580b824690b7f537b39c392d7b
@@ -2928,10 +3076,11 @@ msgstr ""
 "Skontruj wskazany czar. Umieść na polu walki żeton zielonego stwora Ooze X/"
 "X, gdzie X jest łącznym kosztem many owego czaru."
 
-# 6392be278703401aad52950bed5e5bba
 #: ../../GTC.rst:954
-#, fuzzy
-msgid ":mtgtip:`Nimbus Swimmer`"
+msgid ""
+":mtgtip:`Nimbus Swimmer<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/181.jpg?1517813031|https://scryfall.com/card/gtc/181/nimbus-swimmer?"
+"utm_source=api>`"
 msgstr ""
 
 # f6d2a486eb2a4784985a2210b46e78f5
@@ -2939,10 +3088,11 @@ msgstr ""
 msgid "Nimbus Swimmer enters the battlefield with X +1/+1 counters on it."
 msgstr "Nimbus Swimmer wchodzi na pole walki z X znacznikami +1/+1."
 
-# 6070e3a3ff8a454d8307b3125c4dddae
 #: ../../GTC.rst:960
-#, fuzzy
-msgid ":mtgtip:`Obzedat, Ghost Council`"
+msgid ""
+":mtgtip:`Obzedat, Ghost Council<https://img.scryfall.com/cards/border_crop/"
+"en/gtc/182.jpg?1517813031|https://scryfall.com/card/gtc/182/obzedat-ghost-"
+"council?utm_source=api>`"
 msgstr ""
 
 # 2bc7e9eb2fd943e68a10662b0939f683
@@ -2965,10 +3115,11 @@ msgstr ""
 "zrobisz, z początkiem twojego rozliczania przywróć go na pole walki pod "
 "władaniem jego właściciela. Zyskuje on pośpiech."
 
-# 2de4ccd77adb454ca8e35cf722edf5e5
 #: ../../GTC.rst:968
-#, fuzzy
-msgid ":mtgtip:`One Thousand Lashes`"
+msgid ""
+":mtgtip:`One Thousand Lashes<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/183.jpg?1517813031|https://scryfall.com/card/gtc/183/one-thousand-lashes?"
+"utm_source=api>`"
 msgstr ""
 
 # e0b3dab0c98a4611b59bcd753911f8f5
@@ -2988,10 +3139,11 @@ msgid ""
 msgstr ""
 "Na początku utrzymania władcy zauroczonego stwora, ów gracz traci 1 życie."
 
-# dca322519181451ca163435b1c4a4044
 #: ../../GTC.rst:972
-#, fuzzy
-msgid ":mtgtip:`Ordruun Veteran`"
+msgid ""
+":mtgtip:`Ordruun Veteran<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/184.jpg?1517813031|https://scryfall.com/card/gtc/184/ordruun-veteran?"
+"utm_source=api>`"
 msgstr ""
 
 # 9620e1c9f44a4e279108989bc34ec59a
@@ -3005,10 +3157,11 @@ msgstr ""
 "Orduun Veteran zyskuje podwójny cios do końca tury. (Zadaje obrażenia "
 "zarówno jako pierwszy cios i normalnie.)"
 
-# 232eb864cca74d69a6d2998f479e146c
 #: ../../GTC.rst:982
-#, fuzzy
-msgid ":mtgtip:`Orzhov Charm`"
+msgid ""
+":mtgtip:`Orzhov Charm<https://img.scryfall.com/cards/border_crop/en/gtc/185."
+"jpg?1517813031|https://scryfall.com/card/gtc/185/orzhov-charm?"
+"utm_source=api>`"
 msgstr ""
 
 # 10be1dd7b13b4420943907d691cefca9
@@ -3038,10 +3191,11 @@ msgstr ""
 "Zwróć wszystkie karty stworów o łącznym koszcie many X z twojego cmentarza "
 "na pole walki."
 
-# 18f8201a7475459aa4e517694ef48c93
 #: ../../GTC.rst:988
-#, fuzzy
-msgid ":mtgtip:`Paranoid Delusions`"
+msgid ""
+":mtgtip:`Paranoid Delusions<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/186.jpg?1517813031|https://scryfall.com/card/gtc/186/paranoid-delusions?"
+"utm_source=api>`"
 msgstr ""
 
 # 5e0f5f7170814400b875b1498e3dc959
@@ -3053,10 +3207,11 @@ msgstr ""
 "Wskazany gracz wkłada trzy wierzchnie karty swojej biblioteki do swojego "
 "cmentarza."
 
-# d351093a9bb64d9f85abf434f05161f8
 #: ../../GTC.rst:994
-#, fuzzy
-msgid ":mtgtip:`Primal Visitation`"
+msgid ""
+":mtgtip:`Primal Visitation<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/187.jpg?1517813031|https://scryfall.com/card/gtc/187/primal-visitation?"
+"utm_source=api>`"
 msgstr ""
 
 # 350b79fe6130451fb877368f8d07b34d
@@ -3064,10 +3219,11 @@ msgstr ""
 msgid "Enchanted creature gets +3/+3 and has haste."
 msgstr "Zauroczony stwór dostaje +3/+3 i ma pośpiech."
 
-# a42d055164a44bcdaa60331160e15d0a
 #: ../../GTC.rst:1000
-#, fuzzy
-msgid ":mtgtip:`Prime Speaker Zegana`"
+msgid ""
+":mtgtip:`Prime Speaker Zegana<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/188.jpg?1517813031|https://scryfall.com/card/gtc/188/prime-speaker-"
+"zegana?utm_source=api>`"
 msgstr ""
 
 # 9d628256015148a199f3f40aec7736a5
@@ -3088,10 +3244,11 @@ msgstr ""
 "Kiedy Zegana, Główna Mówczyni wchodzi na pole walki, dobierz tyle kart, ile "
 "wynosi jej siła."
 
-# b62b3a705082457db0c2b33698045127
 #: ../../GTC.rst:1004
-#, fuzzy
-msgid ":mtgtip:`Psychic Strike`"
+msgid ""
+":mtgtip:`Psychic Strike<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/189.jpg?1517813031|https://scryfall.com/card/gtc/189/psychic-strike?"
+"utm_source=api>`"
 msgstr ""
 
 # f25260b4425d42a18a577f33f11bb332
@@ -3104,10 +3261,11 @@ msgstr ""
 "Skontruj wskazany czar. Jego władca wkłada dwie wierzchnie karty ze swojej "
 "biblioteki do swojego cmentarza."
 
-# 9c1233a2ab724184957b2e9cc7067fd9
 #: ../../GTC.rst:1008
-#, fuzzy
-msgid ":mtgtip:`Purge the Profane`"
+msgid ""
+":mtgtip:`Purge the Profane<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/190.jpg?1517813031|https://scryfall.com/card/gtc/190/purge-the-profane?"
+"utm_source=api>`"
 msgstr ""
 
 # b6c0808aee24451fbef3efd58cdb1533
@@ -3115,10 +3273,10 @@ msgstr ""
 msgid "Target opponent discards two cards and you gain 2 life."
 msgstr "Wskazany przeciwnik odrzuca dwie karty, a ty zyskujesz 2 życia."
 
-# ecec096ef6fc45d2934a02cfa55a6199
 #: ../../GTC.rst:1014
-#, fuzzy
-msgid ":mtgtip:`Rubblehulk`"
+msgid ""
+":mtgtip:`Rubblehulk<https://img.scryfall.com/cards/border_crop/en/gtc/191."
+"jpg?1517813031|https://scryfall.com/card/gtc/191/rubblehulk?utm_source=api>`"
 msgstr ""
 
 # ee8e8f34430e4a66b3a9be3cb3614a96
@@ -3141,16 +3299,18 @@ msgstr ""
 "atakujący stwór dostaje +X/+X do końca tury, gdzie X to liczba lądów, "
 "którymi władasz."
 
-# 5e814b0dd9914a2c842daf8f1dfcd0ce
 #: ../../GTC.rst:1016
-#, fuzzy
-msgid ":mtgtip:`Ruination Wurm`"
+msgid ""
+":mtgtip:`Ruination Wurm<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/192.jpg?1517813031|https://scryfall.com/card/gtc/192/ruination-wurm?"
+"utm_source=api>`"
 msgstr ""
 
-# 91d70b2dfe6d47519b8f785e568a22d9
 #: ../../GTC.rst:1024
-#, fuzzy
-msgid ":mtgtip:`Shambleshark`"
+msgid ""
+":mtgtip:`Shambleshark<https://img.scryfall.com/cards/border_crop/en/gtc/193."
+"jpg?1517813031|https://scryfall.com/card/gtc/193/shambleshark?"
+"utm_source=api>`"
 msgstr ""
 
 # 73cde187ccd9434098179a15aeadcf1a
@@ -3159,10 +3319,11 @@ msgstr ""
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
-# 8d83a5364fab42768de6c0778724a8a2
 #: ../../GTC.rst:1028
-#, fuzzy
-msgid ":mtgtip:`Signal the Clans`"
+msgid ""
+":mtgtip:`Signal the Clans<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/194.jpg?1517813031|https://scryfall.com/card/gtc/194/signal-the-clans?"
+"utm_source=api>`"
 msgstr ""
 
 # 6eb1649eca6f465fa1faaaa8921136ba
@@ -3176,10 +3337,10 @@ msgstr ""
 "ujawnisz trzy karty o różnych nazwach, wybierz losowo jedną z nich i dołóż "
 "ją do twojej ręki. Wtasuj pozostałe do twojej biblioteki."
 
-# 9d5ab22112754481b7577a3d61fb5315
 #: ../../GTC.rst:1038
-#, fuzzy
-msgid ":mtgtip:`Simic Charm`"
+msgid ""
+":mtgtip:`Simic Charm<https://img.scryfall.com/cards/border_crop/en/gtc/195."
+"jpg?1517813031|https://scryfall.com/card/gtc/195/simic-charm?utm_source=api>`"
 msgstr ""
 
 # 2c356ed98c4a4e928d526fa304c5fd59
@@ -3197,10 +3358,11 @@ msgstr " albo stałki, które kontrolujesz zyskują Antyklątwę do końca tury"
 msgid "Return target creature to its owner's hand."
 msgstr "Zwróć wskazanego stwora do ręki jego właściciela."
 
-# cdfc5c3518b5423f9cd97b7a351350b3
 #: ../../GTC.rst:1044
-#, fuzzy
-msgid ":mtgtip:`Skarrg Guildmage`"
+msgid ""
+":mtgtip:`Skarrg Guildmage<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/196.jpg?1517813031|https://scryfall.com/card/gtc/196/skarrg-guildmage?"
+"utm_source=api>`"
 msgstr ""
 
 # 6b4fce503020451e9f6321609779eb15
@@ -3222,10 +3384,11 @@ msgstr ""
 "|mana_1|\\ |mana_r|\\ |mana_g|: Wskazany ląd pod twoim władaniem staje się "
 "stworem Żywiołak 4/4 do końca tury. Nadal jest lądem."
 
-# 9cbd60d14b2a43dc923b0cb12c612f5d
 #: ../../GTC.rst:1048
-#, fuzzy
-msgid ":mtgtip:`Skyknight Legionnaire`"
+msgid ""
+":mtgtip:`Skyknight Legionnaire<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/197.jpg?1517813031|https://scryfall.com/card/gtc/197/skyknight-"
+"legionnaire?utm_source=api>`"
 msgstr ""
 
 # 5d518b0dd9034486be617cbabe0b0eed
@@ -3233,10 +3396,10 @@ msgstr ""
 msgid "Flying, haste"
 msgstr "Latanie, pośpiech"
 
-# cce2dcfdfffe4f3f942ca7ebb44e4623
 #: ../../GTC.rst:1056
-#, fuzzy
-msgid ":mtgtip:`Soul Ransom`"
+msgid ""
+":mtgtip:`Soul Ransom<https://img.scryfall.com/cards/border_crop/en/gtc/198."
+"jpg?1517813031|https://scryfall.com/card/gtc/198/soul-ransom?utm_source=api>`"
 msgstr ""
 
 # 2d4545246bff43648c185757ad5508c8
@@ -3253,10 +3416,11 @@ msgstr ""
 "Odrzuć dwie karty: Władca Soul Ransom poświęca go, następnie dobiera dwie "
 "karty. Tylko przeciwnik może aktywować tę zdolność."
 
-# 4ba8e4a28fa94af3bb5267eecad59e74
 #: ../../GTC.rst:1062
-#, fuzzy
-msgid ":mtgtip:`Spark Trooper`"
+msgid ""
+":mtgtip:`Spark Trooper<https://img.scryfall.com/cards/border_crop/en/gtc/199."
+"jpg?1517813031|https://scryfall.com/card/gtc/199/spark-trooper?"
+"utm_source=api>`"
 msgstr ""
 
 # e507018665184ed2af133e54c7b84e22
@@ -3269,10 +3433,11 @@ msgstr "Tratowanie, Więź Życia, Pośpiech"
 msgid "At the beginning of the end step, sacrifice Spark Trooper."
 msgstr "Na początku kroku końcowego, poświęć Spark Trooper."
 
-# bfa19a248eb74fbc963968cb39aee8b5
 #: ../../GTC.rst:1068
-#, fuzzy
-msgid ":mtgtip:`Sunhome Guildmage`"
+msgid ""
+":mtgtip:`Sunhome Guildmage<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/200.jpg?1517813031|https://scryfall.com/card/gtc/200/sunhome-guildmage?"
+"utm_source=api>`"
 msgstr ""
 
 # d583b9170dd545feab897216ea575cd0
@@ -3295,10 +3460,11 @@ msgstr ""
 "|mana_2|\\ |mana_r|\\ |mana_w|: Umieść na polu walki żeton czerwono-białego "
 "stwora Piechur 1/1 z pośpiechem."
 
-# 224f7a64ea3242589007937d0e3ce023
 #: ../../GTC.rst:1074
-#, fuzzy
-msgid ":mtgtip:`Treasury Thrull`"
+msgid ""
+":mtgtip:`Treasury Thrull<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/201.jpg?1517813031|https://scryfall.com/card/gtc/201/treasury-thrull?"
+"utm_source=api>`"
 msgstr ""
 
 # bffdd28bcf074d1aa2068c2f57dd5299
@@ -3310,10 +3476,11 @@ msgstr ""
 "Ilekroć Treasury Thrull atakuje, możesz zwrócić wskazaną kartę artefaktu, "
 "stwora lub uroku z twojego cmentarza do twojej ręki."
 
-# 10d5dbd72c75448e8914b2325ac1f3b6
 #: ../../GTC.rst:1082
-#, fuzzy
-msgid ":mtgtip:`Truefire Paladin`"
+msgid ""
+":mtgtip:`Truefire Paladin<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/202.jpg?1517813031|https://scryfall.com/card/gtc/202/truefire-paladin?"
+"utm_source=api>`"
 msgstr ""
 
 # 660ac982f16d4a3ca97c0090cbc18f47
@@ -3330,10 +3497,11 @@ msgid ""
 msgstr ""
 "|mana_r|\\ |mana_w|: Truefire Paladin zyskuje pierwszy cios do końca tury."
 
-# 405444016c6e4465855400e4034fea5f
 #: ../../GTC.rst:1086
-#, fuzzy
-msgid ":mtgtip:`Unexpected Results`"
+msgid ""
+":mtgtip:`Unexpected Results<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/203.jpg?1517813031|https://scryfall.com/card/gtc/203/unexpected-results?"
+"utm_source=api>`"
 msgstr ""
 
 # 167312c995424fa1a8a850b9b3b90179
@@ -3348,10 +3516,11 @@ msgstr ""
 "lądu, możesz położyć ją na polu walki i zwrócić Unexpected Results do ręki "
 "jego właściciela."
 
-# ca4c39582b0442978544905eb7ca5a4e
 #: ../../GTC.rst:1090
-#, fuzzy
-msgid ":mtgtip:`Urban Evolution`"
+msgid ""
+":mtgtip:`Urban Evolution<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/204.jpg?1517813031|https://scryfall.com/card/gtc/204/urban-evolution?"
+"utm_source=api>`"
 msgstr ""
 
 # 3bb9d7efc5ed43e0afe1f0112abad26b
@@ -3359,10 +3528,11 @@ msgstr ""
 msgid "Draw three cards. You may play an additional land this turn."
 msgstr "Dobierz trzy karty. W tej turze możesz zagrać dodatkowy ląd."
 
-# a4620deb792f4a7eba592560d0c381d4
 #: ../../GTC.rst:1096
-#, fuzzy
-msgid ":mtgtip:`Vizkopa Confessor`"
+msgid ""
+":mtgtip:`Vizkopa Confessor<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/205.jpg?1517813031|https://scryfall.com/card/gtc/205/vizkopa-confessor?"
+"utm_source=api>`"
 msgstr ""
 
 # cd60f88b08b742e4b12e83b02e761594
@@ -3377,10 +3547,11 @@ msgstr ""
 "Wskazany gracz ujawnia tyle samo kart ze swojej ręki. Wybierasz jedną z nich "
 "i wypędzasz ją."
 
-# 3ae7fbdfab1b4265891c7fc49ee61ef6
 #: ../../GTC.rst:1102
-#, fuzzy
-msgid ":mtgtip:`Vizkopa Guildmage`"
+msgid ""
+":mtgtip:`Vizkopa Guildmage<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/206.jpg?1517813031|https://scryfall.com/card/gtc/206/vizkopa-guildmage?"
+"utm_source=api>`"
 msgstr ""
 
 # 89e6cd675c87428b8bf28ce57a5a1f10
@@ -3403,10 +3574,11 @@ msgstr ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Ilekroć zyskasz życie w tej turze, każdy z "
 "przeciwników traci tyle samo życia."
 
-# 0105ecef05044621947e6741a191a058
 #: ../../GTC.rst:1108
-#, fuzzy
-msgid ":mtgtip:`Whispering Madness`"
+msgid ""
+":mtgtip:`Whispering Madness<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/207.jpg?1517813031|https://scryfall.com/card/gtc/207/whispering-madness?"
+"utm_source=api>`"
 msgstr ""
 
 # e4dba6d9405d4bbab23d83334c6c1763
@@ -3419,10 +3591,11 @@ msgstr ""
 "Każdy gracz odrzuca swoją rękę, następnie dobiera tyle kart, ile najwięcej "
 "zostało odrzuconych w ten sposób."
 
-# cad8317759ef44268239eb718f4e049d
 #: ../../GTC.rst:1112
-#, fuzzy
-msgid ":mtgtip:`Wojek Halberdiers`"
+msgid ""
+":mtgtip:`Wojek Halberdiers<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/208.jpg?1517813031|https://scryfall.com/card/gtc/208/wojek-halberdiers?"
+"utm_source=api>`"
 msgstr ""
 
 # e5e9f70218974d668e318a5bc9c4a337
@@ -3434,10 +3607,11 @@ msgstr ""
 "Batalion — Ilekroć Wojek Halberdiers i co najmniej dwa inne stwory atakują, "
 "Wojek Halberdiers dostaje pierwszy cios do końca tury."
 
-# 708fa06bf99a4c6f85e1966c6fa1e42d
 #: ../../GTC.rst:1118
-#, fuzzy
-msgid ":mtgtip:`Zameck Guildmage`"
+msgid ""
+":mtgtip:`Zameck Guildmage<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/209.jpg?1517813031|https://scryfall.com/card/gtc/209/zameck-guildmage?"
+"utm_source=api>`"
 msgstr ""
 
 # 15de6c2040eb4791a75323af15b18dba
@@ -3460,10 +3634,11 @@ msgstr ""
 "|mana_g|\\ |mana_u|, usuń znacznik +1/+1 ze stwora pod twoim władaniem: "
 "Dobierz kartę."
 
-# 2100d8b78a8b43cc93c3ef55a74971d1
 #: ../../GTC.rst:1122
-#, fuzzy
-msgid ":mtgtip:`Zhur-Taa Swine`"
+msgid ""
+":mtgtip:`Zhur-Taa Swine<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/210.jpg?1517813031|https://scryfall.com/card/gtc/210/zhur-taa-swine?"
+"utm_source=api>`"
 msgstr ""
 
 # 3f07b1d29a5449498fd4ba30206231d7
@@ -3476,10 +3651,11 @@ msgstr ""
 "Zew krwi — |mana_1|\\ |mana_r|\\ |mana_g|, odrzuć Zhur-Taa Swine: Wskazany "
 "atakujący stwór dostaje do końca tury +5/+4."
 
-# 235af54e2b1348b4b12222f40cf21d6b
 #: ../../GTC.rst:1126
-#, fuzzy
-msgid ":mtgtip:`Arrows of Justice`"
+msgid ""
+":mtgtip:`Arrows of Justice<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/211.jpg?1517813031|https://scryfall.com/card/gtc/211/arrows-of-justice?"
+"utm_source=api>`"
 msgstr ""
 
 # 3c5de10308d5400d94db74224bc5a213
@@ -3490,10 +3666,11 @@ msgstr ""
 "Arrows of Justice zadaje 4 obrażenia wskazanemu atakującemu lub blokującemu "
 "stworowi."
 
-# 136bf278989448fea9be079250aae75f
 #: ../../GTC.rst:1130
-#, fuzzy
-msgid ":mtgtip:`Beckon Apparition`"
+msgid ""
+":mtgtip:`Beckon Apparition<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/212.jpg?1517813031|https://scryfall.com/card/gtc/212/beckon-apparition?"
+"utm_source=api>`"
 msgstr ""
 
 # 710ff2ea84f642ba97a4b66aedd57f86
@@ -3506,10 +3683,11 @@ msgstr ""
 "Wygnaj wskazaną kartę z cmentarza. Umieść na polu walki żeton czarno-białego "
 "stwora Spirit 1/1 z lataniem."
 
-# 08e46b5acd844ac8b8408e1322778db1
 #: ../../GTC.rst:1134
-#, fuzzy
-msgid ":mtgtip:`Biomass Mutation`"
+msgid ""
+":mtgtip:`Biomass Mutation<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/213.jpg?1517813031|https://scryfall.com/card/gtc/213/biomass-mutation?"
+"utm_source=api>`"
 msgstr ""
 
 # 815f5319d74e43738e17f01dee8fe854
@@ -3519,10 +3697,10 @@ msgid ""
 "Creatures you control have base power and toughness X/X until end of turn."
 msgstr "Stwory, którymi władasz stają się X/X do końca tury."
 
-# 31594c12a09f45e8a34264dd97b01527
 #: ../../GTC.rst:1138
-#, fuzzy
-msgid ":mtgtip:`Bioshift`"
+msgid ""
+":mtgtip:`Bioshift<https://img.scryfall.com/cards/border_crop/en/gtc/214.jpg?"
+"1517813031|https://scryfall.com/card/gtc/214/bioshift?utm_source=api>`"
 msgstr ""
 
 # 351f51bbe9214026ae28f3e40d135590
@@ -3534,10 +3712,11 @@ msgstr ""
 "Przenieś dowolną liczbę znaczników +1/+1 ze wskazanego stwora na innego "
 "wskazanego stwora o tym samym władcy."
 
-# 9080ef74d42543549a1a9fa136352273
 #: ../../GTC.rst:1144
-#, fuzzy
-msgid ":mtgtip:`Boros Reckoner`"
+msgid ""
+":mtgtip:`Boros Reckoner<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/215.jpg?1517813031|https://scryfall.com/card/gtc/215/boros-reckoner?"
+"utm_source=api>`"
 msgstr ""
 
 # 89e77fa5e9724a7fb3243b3bbad36dd1
@@ -3556,10 +3735,11 @@ msgstr ""
 msgid "|mana_rw|: Boros Reckoner gains first strike until end of turn."
 msgstr "|mana_rw|: Boros Reckoner zyskuje pierwszy cios do końca tury."
 
-# 24db97c031bc42baa92cfdc3e4ccc1a8
 #: ../../GTC.rst:1148
-#, fuzzy
-msgid ":mtgtip:`Burning-Tree Emissary`"
+msgid ""
+":mtgtip:`Burning-Tree Emissary<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/216.jpg?1517813031|https://scryfall.com/card/gtc/216/burning-tree-"
+"emissary?utm_source=api>`"
 msgstr ""
 
 # 82338fa43b594f3cbdaf291965f8e2aa
@@ -3571,10 +3751,11 @@ msgstr ""
 "Kiedy Burning-Tree Emissary wchodzi na pole walki, dodaj |mana_r|\\ |mana_g| "
 "do twojej puli many."
 
-# f12d33ade5324959b443795a2e631b1c
 #: ../../GTC.rst:1152
-#, fuzzy
-msgid ":mtgtip:`Coerced Confession`"
+msgid ""
+":mtgtip:`Coerced Confession<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/217.jpg?1517813031|https://scryfall.com/card/gtc/217/coerced-confession?"
+"utm_source=api>`"
 msgstr ""
 
 # e6ede86487c14c81a7663ac2a40bc14a
@@ -3588,10 +3769,11 @@ msgstr ""
 "swojego cmentarza. Dobierz kartę za każdą kartę stwora położoną w ten sposób "
 "na cmentarzu."
 
-# 655e900ec31648f09de142ae79041f5f
 #: ../../GTC.rst:1156
-#, fuzzy
-msgid ":mtgtip:`Deathcult Rogue`"
+msgid ""
+":mtgtip:`Deathcult Rogue<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/218.jpg?1517813031|https://scryfall.com/card/gtc/218/deathcult-rogue?"
+"utm_source=api>`"
 msgstr ""
 
 # cd7a0127fdd544d6b405a32b0be815d9
@@ -3599,10 +3781,11 @@ msgstr ""
 msgid "Deathcult Rogue can't be blocked except by Rogues."
 msgstr "Deathcult Rogue może być blokowany tylko przez stwory Rogue."
 
-# 1470c557d08d47dc882fa8f1864c851d
 #: ../../GTC.rst:1162
-#, fuzzy
-msgid ":mtgtip:`Gift of Orzhova`"
+msgid ""
+":mtgtip:`Gift of Orzhova<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/219.jpg?1517813031|https://scryfall.com/card/gtc/219/gift-of-orzhova?"
+"utm_source=api>`"
 msgstr ""
 
 # 8af01e2c5c1646a990c9f3b4780f22f3
@@ -3610,10 +3793,11 @@ msgstr ""
 msgid "Enchanted creature gets +1/+1 and has flying and lifelink."
 msgstr "Zauroczony stwór dostaje +1/+1 i ma Latanie oraz Więź Życia."
 
-# 15bb2f2979094908a0aa7a86248ab945
 #: ../../GTC.rst:1166
-#, fuzzy
-msgid ":mtgtip:`Immortal Servitude`"
+msgid ""
+":mtgtip:`Immortal Servitude<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/220.jpg?1517813031|https://scryfall.com/card/gtc/220/immortal-servitude?"
+"utm_source=api>`"
 msgstr ""
 
 # 9f2de1aa2146403fbc81353afb1b116a
@@ -3625,16 +3809,18 @@ msgstr ""
 "Zwróć wszystkie karty stworów o łącznym koszcie many X z twojego cmentarza "
 "na pole walki."
 
-# 2585ef29b7fe4824b5bbd24b56f83f83
 #: ../../GTC.rst:1170
-#, fuzzy
-msgid ":mtgtip:`Merfolk of the Depths`"
+msgid ""
+":mtgtip:`Merfolk of the Depths<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/221.jpg?1517813031|https://scryfall.com/card/gtc/221/merfolk-of-the-"
+"depths?utm_source=api>`"
 msgstr ""
 
-# 0db924cd9b4f4314bcafbff9dc34571f
 #: ../../GTC.rst:1178
-#, fuzzy
-msgid ":mtgtip:`Nightveil Specter`"
+msgid ""
+":mtgtip:`Nightveil Specter<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/222.jpg?1517813031|https://scryfall.com/card/gtc/222/nightveil-specter?"
+"utm_source=api>`"
 msgstr ""
 
 # 2c2d160d1a9146aeb234e226dfb8ffb0
@@ -3652,10 +3838,10 @@ msgstr ""
 msgid "You may play cards exiled with Nightveil Specter."
 msgstr "Możesz zagrywać karty wypędzone przez Nightveil Spectera."
 
-# f1a02ecfd0bf481185020ac3ef8739e7
 #: ../../GTC.rst:1182
-#, fuzzy
-msgid ":mtgtip:`Pit Fight`"
+msgid ""
+":mtgtip:`Pit Fight<https://img.scryfall.com/cards/border_crop/en/gtc/223.jpg?"
+"1517813031|https://scryfall.com/card/gtc/223/pit-fight?utm_source=api>`"
 msgstr ""
 
 # 345e721b1f98407c90030c9076e0a2b2
@@ -3667,10 +3853,11 @@ msgstr ""
 "Wskazany stwór pod twoim władaniem bije się z innym wskazanym stworem.  "
 "(Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
-# 6ef26980e2254322be92ee77638aa37e
 #: ../../GTC.rst:1186
-#, fuzzy
-msgid ":mtgtip:`Rubblebelt Raiders`"
+msgid ""
+":mtgtip:`Rubblebelt Raiders<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/224.jpg?1546811019|https://scryfall.com/card/gtc/224/rubblebelt-raiders?"
+"utm_source=api>`"
 msgstr ""
 
 # 16751b1fe68d407cb1dda96982791596
@@ -3682,10 +3869,11 @@ msgstr ""
 "Ilekroć Rubblebelt Raiders atakuje, umieść na nim znacznik +1/+1 za każdego "
 "atakującego stwora pod twoim władaniem."
 
-# 40c151f1e3a14b709c5ce282d2b3e331
 #: ../../GTC.rst:1190
-#, fuzzy
-msgid ":mtgtip:`Shattering Blow`"
+msgid ""
+":mtgtip:`Shattering Blow<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/225.jpg?1517813031|https://scryfall.com/card/gtc/225/shattering-blow?"
+"utm_source=api>`"
 msgstr ""
 
 # dcc321da18ca433190b4ad957e8ce6d8
@@ -3693,10 +3881,11 @@ msgstr ""
 msgid "Exile target artifact."
 msgstr "Wygnaj wskazany artefakt."
 
-# e21aa8afc18c44a698cfd86a8ca6685b
 #: ../../GTC.rst:1194
-#, fuzzy
-msgid ":mtgtip:`Armored Transport`"
+msgid ""
+":mtgtip:`Armored Transport<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/226.jpg?1517813031|https://scryfall.com/card/gtc/226/armored-transport?"
+"utm_source=api>`"
 msgstr ""
 
 # d5ca6966e712460083756a70223b41f2
@@ -3708,10 +3897,11 @@ msgstr ""
 "Zażegnaj wszystkie obrażenia bitewne, które mogłyby być zadane w Armored "
 "Transport przez stwory go blokujące."
 
-# 525344e276984a51a527d0ed2d55d3de
 #: ../../GTC.rst:1200
-#, fuzzy
-msgid ":mtgtip:`Boros Keyrune`"
+msgid ""
+":mtgtip:`Boros Keyrune<https://img.scryfall.com/cards/border_crop/en/gtc/227."
+"jpg?1517813031|https://scryfall.com/card/gtc/227/boros-keyrune?"
+"utm_source=api>`"
 msgstr ""
 
 # bff66d62cb8c4261beabef069ab620f7
@@ -3732,10 +3922,11 @@ msgstr ""
 "artefaktycznym stworem Soldier 1/1 z podwójnym ciosem. (Zadaje obrażenia "
 "bitewne jako pierwszy cios oraz normalnie.)"
 
-# c94d6c84dc8a44ddb855c878ceaa212a
 #: ../../GTC.rst:1206
-#, fuzzy
-msgid ":mtgtip:`Dimir Keyrune`"
+msgid ""
+":mtgtip:`Dimir Keyrune<https://img.scryfall.com/cards/border_crop/en/gtc/228."
+"jpg?1517813031|https://scryfall.com/card/gtc/228/dimir-keyrune?"
+"utm_source=api>`"
 msgstr ""
 
 # e7c599ebd26846a68b519e23a5c268cb
@@ -3754,10 +3945,11 @@ msgstr ""
 "|mana_u|\\ |mana_b|: Do końca tury Dimir Keyrune staje się niebiesko-czarnym "
 "artefaktycznym stworem Horror 2/2 i nie może być blokowany w tej turze."
 
-# 0342ae591eeb47fcb68b3768b152c77b
 #: ../../GTC.rst:1212
-#, fuzzy
-msgid ":mtgtip:`Glaring Spotlight`"
+msgid ""
+":mtgtip:`Glaring Spotlight<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/229.jpg?1517813031|https://scryfall.com/card/gtc/229/glaring-spotlight?"
+"utm_source=api>`"
 msgstr ""
 
 # c825e1fa6a8f48019da7fcee7cff1f07
@@ -3779,10 +3971,11 @@ msgstr ""
 "|mana_3|, Poświęć Glaring Spotlight: Stwory, którymi władasz zyskują "
 "antyklątwę do końca tury i nie mogą być blokowane w tej turze."
 
-# c5eac6bf4b2b42af9b5cb3cfe9248df9
 #: ../../GTC.rst:1218
-#, fuzzy
-msgid ":mtgtip:`Gruul Keyrune`"
+msgid ""
+":mtgtip:`Gruul Keyrune<https://img.scryfall.com/cards/border_crop/en/gtc/230."
+"jpg?1517813031|https://scryfall.com/card/gtc/230/gruul-keyrune?"
+"utm_source=api>`"
 msgstr ""
 
 # a433da4f8b3d4931ad660d1094e3be83
@@ -3801,10 +3994,11 @@ msgstr ""
 "|mana_r|\\ |mana_g|: Do końca tury Gruul Keyrune staje się czerwono-zielonym "
 "artefaktycznym stworem Beast 3/2 z Tratowaniem."
 
-# 893e684288654d1fac9f9b8ac4db41f3
 #: ../../GTC.rst:1224
-#, fuzzy
-msgid ":mtgtip:`Illusionist's Bracers`"
+msgid ""
+":mtgtip:`Illusionist's Bracers<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/231.jpg?1517813031|https://scryfall.com/card/gtc/231/illusionists-"
+"bracers?utm_source=api>`"
 msgstr ""
 
 # 846a43207c7d4b67b9e14ff2e5a7a40f
@@ -3823,16 +4017,18 @@ msgstr ""
 msgid "Equip |mana_3|"
 msgstr "Wyposaż |mana_3|"
 
-# 76ed43e3dffb45e3b9904601e041cde8
 #: ../../GTC.rst:1228
-#, fuzzy
-msgid ":mtgtip:`Millennial Gargoyle`"
+msgid ""
+":mtgtip:`Millennial Gargoyle<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/232.jpg?1517813031|https://scryfall.com/card/gtc/232/millennial-gargoyle?"
+"utm_source=api>`"
 msgstr ""
 
-# 8f7ed02c1fa147d8841506982c240e8b
 #: ../../GTC.rst:1234
-#, fuzzy
-msgid ":mtgtip:`Orzhov Keyrune`"
+msgid ""
+":mtgtip:`Orzhov Keyrune<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/233.jpg?1517813031|https://scryfall.com/card/gtc/233/orzhov-keyrune?"
+"utm_source=api>`"
 msgstr ""
 
 # 07de1a040b464dddad5c708d74770152
@@ -3851,10 +4047,11 @@ msgstr ""
 "|mana_w|\\ |mana_b|: Do końca tury Orzhov Keyrune staje się biało-czarnym "
 "artefaktycznym stworem Thrull 1/4 z Więzią Życia."
 
-# 25e3b6e5ea104fa495ecd172b46d7167
 #: ../../GTC.rst:1240
-#, fuzzy
-msgid ":mtgtip:`Prophetic Prism`"
+msgid ""
+":mtgtip:`Prophetic Prism<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/234.jpg?1517813031|https://scryfall.com/card/gtc/234/prophetic-prism?"
+"utm_source=api>`"
 msgstr ""
 
 # 178504c1a45242178270a1f52daf207e
@@ -3867,10 +4064,11 @@ msgstr "Kiedy Prophetic Prism wchodzi na pole walki, dobierz kartę."
 msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
-# 91f186cbbb344e9684cfc735f59e7bd9
 #: ../../GTC.rst:1244
-#, fuzzy
-msgid ":mtgtip:`Razortip Whip`"
+msgid ""
+":mtgtip:`Razortip Whip<https://img.scryfall.com/cards/border_crop/en/gtc/235."
+"jpg?1517813031|https://scryfall.com/card/gtc/235/razortip-whip?"
+"utm_source=api>`"
 msgstr ""
 
 # e37ca06b70c2488fa947aaac0d9ef5e8
@@ -3882,10 +4080,10 @@ msgid ""
 msgstr ""
 "|mana_1|, |tap|: Razortip Whip zadaje 1 obrażenie wskazanemu przeciwnikowi."
 
-# cc531d0dd4be442dadc71f893f1f1a43
 #: ../../GTC.rst:1250
-#, fuzzy
-msgid ":mtgtip:`Riot Gear`"
+msgid ""
+":mtgtip:`Riot Gear<https://img.scryfall.com/cards/border_crop/en/gtc/236.jpg?"
+"1517813031|https://scryfall.com/card/gtc/236/riot-gear?utm_source=api>`"
 msgstr ""
 
 # 723bdf3fffba4c17a613b264e3415a0c
@@ -3902,10 +4100,11 @@ msgstr ""
 "Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Wyposaż wyłącznie jako obrzęd.)"
 
-# 843204fd03c64e4b921f8254d0a7a730
 #: ../../GTC.rst:1256
-#, fuzzy
-msgid ":mtgtip:`Simic Keyrune`"
+msgid ""
+":mtgtip:`Simic Keyrune<https://img.scryfall.com/cards/border_crop/en/gtc/237."
+"jpg?1517813031|https://scryfall.com/card/gtc/237/simic-keyrune?"
+"utm_source=api>`"
 msgstr ""
 
 # eb02b48e44824655baa7f5c8aa97b0d4
@@ -3926,10 +4125,11 @@ msgstr ""
 "niebieskim artefaktycznym stworem Krab 2/3 z antyklątwą. (Nie może być "
 "wskazywany przez czary i zdolności władane przez twoich przeciwników.)"
 
-# 9770a03be97a40c6a1d73205e39aae9c
 #: ../../GTC.rst:1262
-#, fuzzy
-msgid ":mtgtip:`Skyblinder Staff`"
+msgid ""
+":mtgtip:`Skyblinder Staff<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/238.jpg?1517813031|https://scryfall.com/card/gtc/238/skyblinder-staff?"
+"utm_source=api>`"
 msgstr ""
 
 # f1fe1b47e8a7474ebbf3d4b79f21bb43
@@ -3949,10 +4149,11 @@ msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Wyposaż wyłącznie jako obrzęd.)"
 
-# 0abfd1d1fde44adfa5bd575fa2e718c1
 #: ../../GTC.rst:1268
-#, fuzzy
-msgid ":mtgtip:`Boros Guildgate`"
+msgid ""
+":mtgtip:`Boros Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/239.jpg?1517813031|https://scryfall.com/card/gtc/239/boros-guildgate?"
+"utm_source=api>`"
 msgstr ""
 
 # a303781413a341c487e1f8d439eb00a4
@@ -3960,10 +4161,11 @@ msgstr ""
 msgid "Boros Guildgate enters the battlefield tapped."
 msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
-# d242917238044f3faffb800675d4a107
 #: ../../GTC.rst:1274
-#, fuzzy
-msgid ":mtgtip:`Breeding Pool`"
+msgid ""
+":mtgtip:`Breeding Pool<https://img.scryfall.com/cards/border_crop/en/gtc/240."
+"jpg?1535415825|https://scryfall.com/card/gtc/240/breeding-pool?"
+"utm_source=api>`"
 msgstr ""
 
 # 911f6277850f4d29a090a08d14d48a5d
@@ -3980,10 +4182,11 @@ msgstr ""
 "Umieszczając tę kartę na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
 "zrobisz, wejdzie przekręcona na pole walki."
 
-# 3029c5f56974428e841e8f8c020e6f0e
 #: ../../GTC.rst:1280
-#, fuzzy
-msgid ":mtgtip:`Dimir Guildgate`"
+msgid ""
+":mtgtip:`Dimir Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/241.jpg?1517813031|https://scryfall.com/card/gtc/241/dimir-guildgate?"
+"utm_source=api>`"
 msgstr ""
 
 # 6ea92957886b4a7ca5445808e11fee79
@@ -3991,10 +4194,11 @@ msgstr ""
 msgid "Dimir Guildgate enters the battlefield tapped."
 msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
-# 5caaa0abcf434d7588c68e7a046862c0
 #: ../../GTC.rst:1286
-#, fuzzy
-msgid ":mtgtip:`Godless Shrine`"
+msgid ""
+":mtgtip:`Godless Shrine<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/242.jpg?1535415828|https://scryfall.com/card/gtc/242/godless-shrine?"
+"utm_source=api>`"
 msgstr ""
 
 # 16accc0a34814dea89f73329b1727669
@@ -4011,10 +4215,11 @@ msgstr ""
 "Umieszczając tę kartę na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
 "zrobisz, wejdzie przekręcona na pole walki."
 
-# 2dd15ec39b0e4f62b114e65270c26c5b
 #: ../../GTC.rst:1292
-#, fuzzy
-msgid ":mtgtip:`Gruul Guildgate`"
+msgid ""
+":mtgtip:`Gruul Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/243.jpg?1517813031|https://scryfall.com/card/gtc/243/gruul-guildgate?"
+"utm_source=api>`"
 msgstr ""
 
 # 88cffb06b8304954940c9c632c3255ae
@@ -4022,9 +4227,11 @@ msgstr ""
 msgid "Gruul Guildgate enters the battlefield tapped."
 msgstr "Ta karta wchodzi przekręcona na pole walki."
 
-# 3fd2872c08bd4ce6840e8b11c69349cc
 #: ../../GTC.rst:1298
-msgid ":mtgtip:`Orzhov Guildgate`"
+msgid ""
+":mtgtip:`Orzhov Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/244.jpg?1517813031|https://scryfall.com/card/gtc/244/orzhov-guildgate?"
+"utm_source=api>`"
 msgstr ""
 
 # 3f6fecbfa1b4498593f72dbda57c3f62
@@ -4032,10 +4239,11 @@ msgstr ""
 msgid "Orzhov Guildgate enters the battlefield tapped."
 msgstr "Ta karta wchodzi przekręcona na pole walki."
 
-# b2855b057ada4f448301abc9f7db9f1e
 #: ../../GTC.rst:1304
-#, fuzzy
-msgid ":mtgtip:`Sacred Foundry`"
+msgid ""
+":mtgtip:`Sacred Foundry<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/245.jpg?1535415830|https://scryfall.com/card/gtc/245/sacred-foundry?"
+"utm_source=api>`"
 msgstr ""
 
 # 229c63430fcb4c87a73179a1d09088a4
@@ -4053,9 +4261,11 @@ msgstr ""
 "Kładąc Sacred Foundry na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
 "zrobisz, Sacred Foundry wchodzi na pole walki przekręcony."
 
-# bf4c0f9890ba41b5b68573d822857a8d
 #: ../../GTC.rst:1310
-msgid ":mtgtip:`Simic Guildgate`"
+msgid ""
+":mtgtip:`Simic Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/246.jpg?1517813031|https://scryfall.com/card/gtc/246/simic-guildgate?"
+"utm_source=api>`"
 msgstr ""
 
 # d16c0d2b846b4f19a211e019b386d356
@@ -4063,10 +4273,11 @@ msgstr ""
 msgid "Simic Guildgate enters the battlefield tapped."
 msgstr "Ta karta wchodzi przekręcona na pole walki."
 
-# 6075bf4bbff542aa9d3524b76af74199
 #: ../../GTC.rst:1316
-#, fuzzy
-msgid ":mtgtip:`Stomping Ground`"
+msgid ""
+":mtgtip:`Stomping Ground<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/247.jpg?1535415836|https://scryfall.com/card/gtc/247/stomping-ground?"
+"utm_source=api>`"
 msgstr ""
 
 # 038d396e9a494a40aa049c08cac8de98
@@ -4083,10 +4294,11 @@ msgstr ""
 "Umieszczając tę kartę na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
 "zrobisz, wejdzie przekręcona na pole walki."
 
-# 69171bbce7764beb896a293d37b75809
 #: ../../GTC.rst:1322
-#, fuzzy
-msgid ":mtgtip:`Thespian's Stage`"
+msgid ""
+":mtgtip:`Thespian's Stage<https://img.scryfall.com/cards/border_crop/en/"
+"gtc/248.jpg?1533538890|https://scryfall.com/card/gtc/248/thespians-stage?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../GTC.rst:1319
@@ -4103,10 +4315,11 @@ msgstr ""
 "|mana_2|, |tap|: Thespian's Stage staje się kopią wskazanego lądu i zyskuje "
 "niniejszą zdolność."
 
-# b3fb039a177945dca0a681f2c2e1854f
 #: ../../GTC.rst:1327
-#, fuzzy
-msgid ":mtgtip:`Watery Grave`"
+msgid ""
+":mtgtip:`Watery Grave<https://img.scryfall.com/cards/border_crop/en/gtc/249."
+"jpg?1535415836|https://scryfall.com/card/gtc/249/watery-grave?"
+"utm_source=api>`"
 msgstr ""
 
 # cdf762e140a04a50ab34a79f958e5903
