@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/nph/pl/>\n"
@@ -19,14 +19,12 @@ msgstr ""
 "X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1391082081.559340\n"
 
-# d0f3a9d48318481798b3d1d601f23bd7
 #: ../../NPH.rst:5
-msgid "New Phyrexia"
+msgid ":mtgexp:`NPH` New Phyrexia"
 msgstr ""
 
-# e41bccb010ea41aab38f363e6aa363ac
 #: ../../NPH.rst:14
-msgid "Karn Liberated"
+msgid ":mtgtip:`Karn Liberated`"
 msgstr ""
 
 #: ../../NPH.rst:9
@@ -44,9 +42,8 @@ msgid ""
 "control."
 msgstr ""
 
-# 724d92a3919e4d66b0bd72c07e43d59b
 #: ../../NPH.rst:20
-msgid "Apostle's Blessing"
+msgid ":mtgtip:`Apostle's Blessing`"
 msgstr ""
 
 # 14121d4ecbba4a83bb1c74012a92bbc4
@@ -68,9 +65,8 @@ msgstr ""
 "Wskazany artefakt lub stwór pod twoim władaniem zyskuje do końca tury "
 "ochronę od artefaktów lub wybranego przez ciebie koloru."
 
-# b1c86b280e874522aef58989c62ce173
 #: ../../NPH.rst:24
-msgid "Auriok Survivors"
+msgid ":mtgtip:`Auriok Survivors`"
 msgstr ""
 
 # 8e42f6e4e45045da8dfa594ef9233ce0
@@ -81,9 +77,8 @@ msgid ""
 "attach it to Auriok Survivors."
 msgstr ""
 
-# 4473c3d24ac04c15bdf40f79e8202a8c
 #: ../../NPH.rst:30
-msgid "Blade Splicer"
+msgid ":mtgtip:`Blade Splicer`"
 msgstr ""
 
 #: ../../NPH.rst:27
@@ -97,9 +92,8 @@ msgstr ""
 msgid "Golem creatures you control have first strike."
 msgstr ""
 
-# ab02129134c4432c9b44f6acdf9b91f2
 #: ../../NPH.rst:38
-msgid "Cathedral Membrane"
+msgid ":mtgtip:`Cathedral Membrane`"
 msgstr ""
 
 # afa5c523792c49e0ac8f8bd7c5180637
@@ -114,9 +108,8 @@ msgid ""
 "creature it blocked this combat."
 msgstr ""
 
-# c55a90498b9342f98b774665e2f30d3f
 #: ../../NPH.rst:46
-msgid "Chancellor of the Annex"
+msgid ":mtgtip:`Chancellor of the Annex`"
 msgstr ""
 
 #: ../../NPH.rst:41
@@ -151,9 +144,8 @@ msgid ""
 "mana_1|."
 msgstr ""
 
-# 53f7471f590d4fc28cfce830851d94aa
 #: ../../NPH.rst:52
-msgid "Dispatch"
+msgid ":mtgtip:`Dispatch`"
 msgstr ""
 
 # adaf5668962f49d189a5c3bd7af1e263
@@ -167,9 +159,8 @@ msgid ""
 "Metalcraft — If you control three or more artifacts, exile that creature."
 msgstr ""
 
-# bdddedc33827463ab4a5a007858e6f6b
 #: ../../NPH.rst:58
-msgid "Due Respect"
+msgid ":mtgtip:`Due Respect`"
 msgstr ""
 
 # 7026f0838a074e42a5656c2797ff5a85
@@ -184,9 +175,8 @@ msgstr ""
 msgid "Draw a card."
 msgstr "Dobierz kartę."
 
-# bdc2a010c5cb48269ea406f10b802606
 #: ../../NPH.rst:66
-msgid "Elesh Norn, Grand Cenobite"
+msgid ":mtgtip:`Elesh Norn, Grand Cenobite`"
 msgstr ""
 
 # 90bb20f0c4bb4a5291a0c5fed369abd7
@@ -204,9 +194,8 @@ msgstr ""
 msgid "Creatures your opponents control get -2/-2."
 msgstr ""
 
-# 14d00191e10f4b908392016d17615bd2
 #: ../../NPH.rst:72
-msgid "Exclusion Ritual"
+msgid ":mtgtip:`Exclusion Ritual`"
 msgstr ""
 
 # f735b437dc024942a09afaf007ef4f9d
@@ -221,9 +210,8 @@ msgstr ""
 msgid "Players can't cast spells with the same name as the exiled card."
 msgstr ""
 
-# d1efe780b7f04c54840a03b6d6cb7fb4
 #: ../../NPH.rst:80
-msgid "Forced Worship"
+msgid ":mtgtip:`Forced Worship`"
 msgstr ""
 
 # 13222174bb38410e9af3683dcb73aae2
@@ -245,9 +233,8 @@ msgstr ""
 msgid "|mana_2|\\ |mana_w|: Return Forced Worship to its owner's hand."
 msgstr ""
 
-# df50645cc0364b2fb1db3da93cb2d647
 #: ../../NPH.rst:88
-msgid "Inquisitor Exarch"
+msgid ":mtgtip:`Inquisitor Exarch`"
 msgstr ""
 
 #: ../../NPH.rst:83
@@ -262,9 +249,8 @@ msgstr ""
 msgid "Target opponent loses 2 life."
 msgstr ""
 
-# 72e9478398ce4ebb92c873ceff4a5a3f
 #: ../../NPH.rst:92
-msgid "Lost Leonin"
+msgid ":mtgtip:`Lost Leonin`"
 msgstr ""
 
 # 8c0d6b7ef4564907a07e7ba098ee772a
@@ -292,14 +278,12 @@ msgstr ""
 "Zatruwanie (Ten stwór zadaje obrażenia stworom w postaci znaczników -1/-1, a "
 "graczom w postaci znaczników zatrucia.)"
 
-# aab9c04fc52a45a1ae2d37474ba63169
 #: ../../NPH.rst:94
-msgid "Loxodon Convert"
+msgid ":mtgtip:`Loxodon Convert`"
 msgstr ""
 
-# b3cb4150f4c54d84a6ee125147b2cf8a
 #: ../../NPH.rst:102
-msgid "Marrow Shards"
+msgid ":mtgtip:`Marrow Shards`"
 msgstr ""
 
 # 4aa4df857a46427d997fe3ae9f3c31e3
@@ -307,9 +291,8 @@ msgstr ""
 msgid "Marrow Shards deals 1 damage to each attacking creature."
 msgstr ""
 
-# 5f4ae0bd558d420aac2029471d08bd32
 #: ../../NPH.rst:108
-msgid "Master Splicer"
+msgid ":mtgtip:`Master Splicer`"
 msgstr ""
 
 #: ../../NPH.rst:105
@@ -323,9 +306,8 @@ msgstr ""
 msgid "Golem creatures you control get +1/+1."
 msgstr ""
 
-# 86032b55757d414682403663269a1b37
 #: ../../NPH.rst:114
-msgid "Norn's Annex"
+msgid ":mtgtip:`Norn's Annex`"
 msgstr ""
 
 # 08aeed5a6cf74756ad84bfbc50a7d483
@@ -335,9 +317,8 @@ msgid ""
 "controller pays |mana_wp| for each of those creatures."
 msgstr ""
 
-# 923be5c6b8d14cff9293964beb6c46a2
 #: ../../NPH.rst:120
-msgid "Phyrexian Unlife"
+msgid ":mtgtip:`Phyrexian Unlife`"
 msgstr ""
 
 # c3470937ba004fdb9d1fb8c06515ee4b
@@ -355,9 +336,8 @@ msgstr ""
 "traktowane jakby ich źródło miało zatruwanie (Otrzymujesz obrażenia w "
 "postaci znaczników zatrucia.)"
 
-# f6b637a9afc94a4589cc30562c40e094
 #: ../../NPH.rst:126
-msgid "Porcelain Legionnaire"
+msgid ":mtgtip:`Porcelain Legionnaire`"
 msgstr ""
 
 # d2ef912c48ef466f942e405ad9aa25c0
@@ -367,9 +347,8 @@ msgstr ""
 msgid "First strike"
 msgstr "Pierwszy cios"
 
-# 04c0c25d4c754de594b074bcde9db9d9
 #: ../../NPH.rst:132
-msgid "Puresteel Paladin"
+msgid ":mtgtip:`Puresteel Paladin`"
 msgstr ""
 
 # dd333c33f95e450190b1783b53377fe8
@@ -386,9 +365,8 @@ msgid ""
 "control three or more artifacts."
 msgstr ""
 
-# a6a36f433d5d412d9b0bdb251bdd2abb
 #: ../../NPH.rst:140
-msgid "Remember the Fallen"
+msgid ":mtgtip:`Remember the Fallen`"
 msgstr ""
 
 #: ../../NPH.rst:135
@@ -405,9 +383,8 @@ msgstr ""
 msgid "Return target artifact card from your graveyard to your hand."
 msgstr ""
 
-# ee2804bd3fc747b1994c8be4bc617b50
 #: ../../NPH.rst:146
-msgid "Sensor Splicer"
+msgid ":mtgtip:`Sensor Splicer`"
 msgstr ""
 
 #: ../../NPH.rst:143
@@ -421,9 +398,8 @@ msgstr ""
 msgid "Golem creatures you control have vigilance."
 msgstr ""
 
-# e4dd48bba2814d55bcddded618e91b6d
 #: ../../NPH.rst:152
-msgid "Shattered Angel"
+msgid ":mtgtip:`Shattered Angel`"
 msgstr ""
 
 # 46fc503b2d2449bc87c596921e0b2293
@@ -433,14 +409,12 @@ msgid ""
 "gain 3 life."
 msgstr ""
 
-# 2d021e93c8024ab39fcd6cf2312a135a
 #: ../../NPH.rst:158
-msgid "Shriek Raptor"
+msgid ":mtgtip:`Shriek Raptor`"
 msgstr ""
 
-# d16baf3d40e74e66819f661205153c8e
 #: ../../NPH.rst:164
-msgid "Suture Priest"
+msgid ":mtgtip:`Suture Priest`"
 msgstr ""
 
 # efcd2f2ebe394c8ab43877e39b9f99f1
@@ -457,9 +431,8 @@ msgid ""
 "may have that player lose 1 life."
 msgstr ""
 
-# 5fa0c4e10e324a95b139a239822b027d
 #: ../../NPH.rst:168
-msgid "War Report"
+msgid ":mtgtip:`War Report`"
 msgstr ""
 
 # 9a167e1d5b8c4c35a24afda7f0690888
@@ -469,9 +442,8 @@ msgid ""
 "number of artifacts on the battlefield."
 msgstr ""
 
-# 43fcbe65c9964dc9b35e3780cdd62444
 #: ../../NPH.rst:174
-msgid "Argent Mutation"
+msgid ":mtgtip:`Argent Mutation`"
 msgstr ""
 
 # b888af14ddb8421f947d545e445850d1
@@ -482,7 +454,7 @@ msgid ""
 msgstr ""
 
 #: ../../NPH.rst:178
-msgid "Arm with Aether"
+msgid ":mtgtip:`Arm with Aether`"
 msgstr ""
 
 #: ../../NPH.rst:177
@@ -492,9 +464,8 @@ msgid ""
 "to its owner's hand.\""
 msgstr ""
 
-# 171e7ac52731496ea45ea076cb1e409e
 #: ../../NPH.rst:184
-msgid "Blighted Agent"
+msgid ":mtgtip:`Blighted Agent`"
 msgstr ""
 
 # feacf3dd90fb415883452514fe155966
@@ -502,9 +473,8 @@ msgstr ""
 msgid "Blighted Agent can't be blocked."
 msgstr ""
 
-# 96f057435d1d462ea511374c211bfe54
 #: ../../NPH.rst:190
-msgid "Chained Throatseeker"
+msgid ":mtgtip:`Chained Throatseeker`"
 msgstr ""
 
 # 530e37848dd9473aac0eea763ee04074
@@ -512,9 +482,8 @@ msgstr ""
 msgid "Chained Throatseeker can't attack unless defending player is poisoned."
 msgstr ""
 
-# 549863252fb947c9b6c302a7cfe0beb1
 #: ../../NPH.rst:198
-msgid "Chancellor of the Spires"
+msgid ":mtgtip:`Chancellor of the Spires`"
 msgstr ""
 
 #: ../../NPH.rst:193
@@ -532,9 +501,8 @@ msgid ""
 "cost."
 msgstr ""
 
-# 2130572444044e3499b2fee7fbf2e1aa
 #: ../../NPH.rst:202
-msgid "Corrupted Resolve"
+msgid ":mtgtip:`Corrupted Resolve`"
 msgstr ""
 
 # 90fcc910caaf4013bbc874df06e74006
@@ -542,9 +510,8 @@ msgstr ""
 msgid "Counter target spell if its controller is poisoned."
 msgstr ""
 
-# 648f28bbfefb4acb85c492e77a9d9700
 #: ../../NPH.rst:212
-msgid "Deceiver Exarch"
+msgid ":mtgtip:`Deceiver Exarch`"
 msgstr ""
 
 # 256296dd8b934b9bb26c376860281f11
@@ -565,9 +532,8 @@ msgstr ""
 msgid "Tap target permanent an opponent controls."
 msgstr ""
 
-# 06171604adcb48f98e42cdf1c899e67f
 #: ../../NPH.rst:218
-msgid "Defensive Stance"
+msgid ":mtgtip:`Defensive Stance`"
 msgstr ""
 
 # 3e3c8e3cd1594eba9735037e18b5ed6e
@@ -575,9 +541,8 @@ msgstr ""
 msgid "Enchanted creature gets -1/+1."
 msgstr ""
 
-# 4be8a6c8fdb7432aad361c4e9ae95cd7
 #: ../../NPH.rst:226
-msgid "Gitaxian Probe"
+msgid ":mtgtip:`Gitaxian Probe`"
 msgstr ""
 
 # 6d51b22e2e3d4cc8a1b3515d7360cde2
@@ -595,9 +560,8 @@ msgstr ""
 msgid "Look at target player's hand."
 msgstr ""
 
-# 10dac1fabec74e02aadc5f349459a118
 #: ../../NPH.rst:232
-msgid "Impaler Shrike"
+msgid ":mtgtip:`Impaler Shrike`"
 msgstr ""
 
 # 840b6b9715b749b9a6ceb92011e9f062
@@ -607,9 +571,8 @@ msgid ""
 "it. If you do, draw three cards."
 msgstr ""
 
-# 65ab6ccc0279414484368327dc00845e
 #: ../../NPH.rst:240
-msgid "Jin-Gitaxias, Core Augur"
+msgid ":mtgtip:`Jin-Gitaxias, Core Augur`"
 msgstr ""
 
 # 0326f91c2f834922a54856b5fd5d5606
@@ -627,9 +590,8 @@ msgstr ""
 msgid "Each opponent's maximum hand size is reduced by seven."
 msgstr ""
 
-# 27cdb51d6f6d421fa4dabf7e1bf06836
 #: ../../NPH.rst:246
-msgid "Mental Misstep"
+msgid ":mtgtip:`Mental Misstep`"
 msgstr ""
 
 # 9ff0f7a6acc54e6db5a259f4030e5059
@@ -637,9 +599,8 @@ msgstr ""
 msgid "Counter target spell with converted mana cost 1."
 msgstr ""
 
-# a6521462df4042858922f3f58f0a5bb2
 #: ../../NPH.rst:250
-msgid "Mindculling"
+msgid ":mtgtip:`Mindculling`"
 msgstr ""
 
 # ac76d87b87f44904b82ea708618b2959
@@ -647,9 +608,8 @@ msgstr ""
 msgid "You draw two cards and target opponent discards two cards."
 msgstr ""
 
-# f4cfe02d65144ff9b2bde885e90adbe7
 #: ../../NPH.rst:258
-msgid "Numbing Dose"
+msgid ":mtgtip:`Numbing Dose`"
 msgstr ""
 
 # 2ed9e942fb914490b4558895d1d550d4
@@ -669,9 +629,8 @@ msgid ""
 "player loses 1 life."
 msgstr ""
 
-# 8a0918ae231644e1bc1f4b76182ebd45
 #: ../../NPH.rst:264
-msgid "Phyrexian Ingester"
+msgid ":mtgtip:`Phyrexian Ingester`"
 msgstr ""
 
 # db5a26825a75460ebe4d7e89c412196c
@@ -688,9 +647,8 @@ msgid ""
 "and Y is its toughness."
 msgstr ""
 
-# 0f78df6cb65e4cd5b12bca36eea22e4d
 #: ../../NPH.rst:270
-msgid "Phyrexian Metamorph"
+msgid ":mtgtip:`Phyrexian Metamorph`"
 msgstr ""
 
 # b1a840b4afeb445988ecfd38136095f9
@@ -701,9 +659,8 @@ msgid ""
 "to its other types."
 msgstr ""
 
-# 2b66899cd36b49e18a43b2cbd802b66e
 #: ../../NPH.rst:274
-msgid "Psychic Barrier"
+msgid ":mtgtip:`Psychic Barrier`"
 msgstr ""
 
 # 9410c13e53b041abac38d6dd5caffcd1
@@ -711,9 +668,8 @@ msgstr ""
 msgid "Counter target creature spell. Its controller loses 1 life."
 msgstr ""
 
-# 4a4dcf5c07ab403abf0454e68cc1a8d1
 #: ../../NPH.rst:278
-msgid "Psychic Surgery"
+msgid ":mtgtip:`Psychic Surgery`"
 msgstr ""
 
 #: ../../NPH.rst:277
@@ -723,19 +679,16 @@ msgid ""
 "on top of that library in any order."
 msgstr ""
 
-# 83296dbdd5e949bc9166f1e50c951c07
 #: ../../NPH.rst:284
-msgid "Spined Thopter"
+msgid ":mtgtip:`Spined Thopter`"
 msgstr ""
 
-# b39d890045854b269039e62b909b9177
 #: ../../NPH.rst:290
-msgid "Spire Monitor"
+msgid ":mtgtip:`Spire Monitor`"
 msgstr ""
 
-# c8f678b5ae3f44ffac9c830f87468294
 #: ../../NPH.rst:296
-msgid "Tezzeret's Gambit"
+msgid ":mtgtip:`Tezzeret's Gambit`"
 msgstr ""
 
 # 3a3a5c86023b416f984f2d0bd6bef1ba
@@ -746,9 +699,8 @@ msgid ""
 "already there.)"
 msgstr ""
 
-# 5a564f62c60549d4a5c3421bd596f0f4
 #: ../../NPH.rst:300
-msgid "Vapor Snag"
+msgid ":mtgtip:`Vapor Snag`"
 msgstr ""
 
 # 5636454b47da4c73968d09eee9607d86
@@ -757,9 +709,8 @@ msgid ""
 "Return target creature to its owner's hand. Its controller loses 1 life."
 msgstr ""
 
-# dd9a0077e7814d93b32fcce9029e2faa
 #: ../../NPH.rst:308
-msgid "Viral Drake"
+msgid ":mtgtip:`Viral Drake`"
 msgstr ""
 
 #: ../../NPH.rst:307
@@ -769,9 +720,8 @@ msgid ""
 "already there.)"
 msgstr ""
 
-# d73b0830da5e4cad800dea7f07cbc88e
 #: ../../NPH.rst:314
-msgid "Wing Splicer"
+msgid ":mtgtip:`Wing Splicer`"
 msgstr ""
 
 #: ../../NPH.rst:311
@@ -785,9 +735,8 @@ msgstr ""
 msgid "Golem creatures you control have flying."
 msgstr ""
 
-# c7190af62aa348759a13450b06aec78a
 #: ../../NPH.rst:320
-msgid "Xenograft"
+msgid ":mtgtip:`Xenograft`"
 msgstr ""
 
 # 17e914b8e7a04404a6f666469805f510
@@ -801,9 +750,8 @@ msgid ""
 "Each creature you control is the chosen type in addition to its other types."
 msgstr ""
 
-# 7c2a01fc50ad4cb58fc01107a2cfd6a1
 #: ../../NPH.rst:326
-msgid "Blind Zealot"
+msgid ":mtgtip:`Blind Zealot`"
 msgstr ""
 
 # cc81e02623124edb842e7a2d8de930c7
@@ -822,9 +770,8 @@ msgid ""
 "If you do, destroy target creature that player controls."
 msgstr ""
 
-# 2aad147d09604ae2839620d25a4a4b23
 #: ../../NPH.rst:330
-msgid "Caress of Phyrexia"
+msgid ":mtgtip:`Caress of Phyrexia`"
 msgstr ""
 
 # a387796f552146a984dd3692874574b5
@@ -834,9 +781,8 @@ msgid ""
 "counters."
 msgstr ""
 
-# 0eb2799df71e4021ab86911bfbffc584
 #: ../../NPH.rst:336
-msgid "Chancellor of the Dross"
+msgid ":mtgtip:`Chancellor of the Dross`"
 msgstr ""
 
 # 3c24430fac9c47878b374f68c98f16a6
@@ -852,9 +798,8 @@ msgstr ""
 msgid "Flying, lifelink"
 msgstr "Latanie, więź życia"
 
-# ec8e45b41c464bc4b74827f1f0e6ce2b
 #: ../../NPH.rst:342
-msgid "Dementia Bat"
+msgid ":mtgtip:`Dementia Bat`"
 msgstr ""
 
 #: ../../NPH.rst:341
@@ -863,9 +808,8 @@ msgid ""
 "cards."
 msgstr ""
 
-# 9070f4f5740d4a8e91a4ed90bee23d95
 #: ../../NPH.rst:346
-msgid "Despise"
+msgid ":mtgtip:`Despise`"
 msgstr ""
 
 #: ../../NPH.rst:345
@@ -874,9 +818,8 @@ msgid ""
 "card from it. That player discards that card."
 msgstr ""
 
-# 22ff4ebed93e460bb3ecf3c6ec8b5065
 #: ../../NPH.rst:352
-msgid "Dismember"
+msgid ":mtgtip:`Dismember`"
 msgstr ""
 
 # 8367486c8955494b9598bdafc6d00b4f
@@ -894,9 +837,8 @@ msgstr ""
 msgid "Target creature gets -5/-5 until end of turn."
 msgstr ""
 
-# d0e61d71aae649f390bf99d95181c4ed
 #: ../../NPH.rst:360
-msgid "Enslave"
+msgid ":mtgtip:`Enslave`"
 msgstr ""
 
 # 9d04762c583b4e0ba9f4a07f84557b15
@@ -911,9 +853,8 @@ msgid ""
 "owner."
 msgstr ""
 
-# b6f22192ad524dc8a76d70f8d9685086
 #: ../../NPH.rst:368
-msgid "Entomber Exarch"
+msgid ":mtgtip:`Entomber Exarch`"
 msgstr ""
 
 #: ../../NPH.rst:363
@@ -926,9 +867,8 @@ msgid ""
 "That player discards that card."
 msgstr ""
 
-# 4c621856c6b449148fdc7842fda2b1af
 #: ../../NPH.rst:374
-msgid "Evil Presence"
+msgid ":mtgtip:`Evil Presence`"
 msgstr ""
 
 # 7a2fdb6ff01c406fa9a307b455d5c36c
@@ -941,9 +881,8 @@ msgstr "Zaurocz ląd"
 msgid "Enchanted land is a Swamp."
 msgstr ""
 
-# e8e8df45436f4c40bec50d5446eb5184
 #: ../../NPH.rst:378
-msgid "Geth's Verdict"
+msgid ":mtgtip:`Geth's Verdict`"
 msgstr ""
 
 # 375b923537804177ad2006a7b8eb4509
@@ -951,9 +890,8 @@ msgstr ""
 msgid "Target player sacrifices a creature and loses 1 life."
 msgstr ""
 
-# d3c2b4f93cd04e2ba72f322220f99980
 #: ../../NPH.rst:388
-msgid "Glistening Oil"
+msgid ":mtgtip:`Glistening Oil`"
 msgstr ""
 
 # a489d12e66f54ac2821da001a5d7f126
@@ -974,9 +912,8 @@ msgid ""
 "Glistening Oil to its owner's hand."
 msgstr ""
 
-# e4f84047ad34469f83c980e9846d73ef
 #: ../../NPH.rst:392
-msgid "Grim Affliction"
+msgid ":mtgtip:`Grim Affliction`"
 msgstr ""
 
 # dda15b5406eb4148a5ca2b3916692d3c
@@ -987,9 +924,8 @@ msgid ""
 "another counter of a kind already there.)"
 msgstr ""
 
-# 1b33052c713147e1a170ce34b11766ab
 #: ../../NPH.rst:398
-msgid "Ichor Explosion"
+msgid ":mtgtip:`Ichor Explosion`"
 msgstr ""
 
 #: ../../NPH.rst:395
@@ -1003,9 +939,8 @@ msgid ""
 "creature's power."
 msgstr ""
 
-# fe7f113b57e34fb39f680c3151a56992
 #: ../../NPH.rst:402
-msgid "Life's Finale"
+msgid ":mtgtip:`Life's Finale`"
 msgstr ""
 
 #: ../../NPH.rst:401
@@ -1015,9 +950,8 @@ msgid ""
 "their library."
 msgstr ""
 
-# 9dc8d07a93834f42a64793ba7cca30fc
 #: ../../NPH.rst:408
-msgid "Mortis Dogs"
+msgid ":mtgtip:`Mortis Dogs`"
 msgstr ""
 
 # 0e5cd4d9b2dc4a908dab06f04075a0da
@@ -1030,9 +964,8 @@ msgstr ""
 msgid "When Mortis Dogs dies, target player loses life equal to its power."
 msgstr ""
 
-# e72d56310c714fb28a79b962fe239db4
 #: ../../NPH.rst:414
-msgid "Parasitic Implant"
+msgid ":mtgtip:`Parasitic Implant`"
 msgstr ""
 
 #: ../../NPH.rst:413
@@ -1041,9 +974,8 @@ msgid ""
 "it and you create a 1/1 colorless Myr artifact creature token."
 msgstr ""
 
-# 81489746676343dab3e828c82c85fd54
 #: ../../NPH.rst:420
-msgid "Phyrexian Obliterator"
+msgid ":mtgtip:`Phyrexian Obliterator`"
 msgstr ""
 
 # fb7a5f2fc7d54d0f965e723b1e8a35f2
@@ -1060,9 +992,8 @@ msgid ""
 "controller sacrifices that many permanents."
 msgstr ""
 
-# 8550d52f93044309a53dad649829efb8
 #: ../../NPH.rst:426
-msgid "Pith Driller"
+msgid ":mtgtip:`Pith Driller`"
 msgstr ""
 
 # 628d13ba88554ae7be3a0bb2dfe8c8c6
@@ -1072,9 +1003,8 @@ msgid ""
 "creature."
 msgstr ""
 
-# c19c20d6ba244db2af10f3ba2c8521fe
 #: ../../NPH.rst:432
-msgid "Postmortem Lunge"
+msgid ":mtgtip:`Postmortem Lunge`"
 msgstr ""
 
 # f7d8fc32e5254ebf951a8179750b628f
@@ -1085,9 +1015,8 @@ msgid ""
 "end step."
 msgstr ""
 
-# cf39b416a35d473ab42684b233f6ce5b
 #: ../../NPH.rst:436
-msgid "Praetor's Grasp"
+msgid ":mtgtip:`Praetor's Grasp`"
 msgstr ""
 
 #: ../../NPH.rst:435
@@ -1097,9 +1026,8 @@ msgid ""
 "as long as it remains exiled."
 msgstr ""
 
-# 876eca304bf44ee588ffac1ed8ad1872
 #: ../../NPH.rst:442
-msgid "Reaper of Sheoldred"
+msgid ":mtgtip:`Reaper of Sheoldred`"
 msgstr ""
 
 # 0d571e6f06b047da9296de1c73157c0c
@@ -1109,9 +1037,8 @@ msgid ""
 "controller gets a poison counter."
 msgstr ""
 
-# 9533ba6d4ad1484ebae6470912d87f3b
 #: ../../NPH.rst:450
-msgid "Sheoldred, Whispering One"
+msgid ":mtgtip:`Sheoldred, Whispering One`"
 msgstr ""
 
 #: ../../NPH.rst:445
@@ -1134,9 +1061,8 @@ msgid ""
 "creature."
 msgstr ""
 
-# 3742d11ec30c4cba8cd9fb20e8ab843e
 #: ../../NPH.rst:456
-msgid "Surgical Extraction"
+msgid ":mtgtip:`Surgical Extraction`"
 msgstr ""
 
 #: ../../NPH.rst:455
@@ -1146,9 +1072,8 @@ msgid ""
 "name as that card and exile them. Then that player shuffles their library."
 msgstr ""
 
-# dd2c1d9c8307412fb4840d9cd447e21f
 #: ../../NPH.rst:462
-msgid "Toxic Nim"
+msgid ":mtgtip:`Toxic Nim`"
 msgstr ""
 
 # f2ba1773efb041b4a05fa83355170db0
@@ -1156,9 +1081,8 @@ msgstr ""
 msgid "|mana_b|: Regenerate Toxic Nim."
 msgstr ""
 
-# ad8023fbdd0843e588bebb4cd39f573e
 #: ../../NPH.rst:470
-msgid "Vault Skirge"
+msgid ":mtgtip:`Vault Skirge`"
 msgstr ""
 
 # 1d73a426981247268f6b0931e2716836
@@ -1170,9 +1094,8 @@ msgstr ""
 "Więź życia (Obrażanie zadane przez tego stwora powodują, że zyskujesz tyle "
 "samo życia.)"
 
-# a5d7b966523c4dcab47f0f9adfc9dbab
 #: ../../NPH.rst:478
-msgid "Whispering Specter"
+msgid ":mtgtip:`Whispering Specter`"
 msgstr ""
 
 #: ../../NPH.rst:477
@@ -1182,9 +1105,8 @@ msgid ""
 "they have."
 msgstr ""
 
-# eb6f3d449c95443b9bde550deb730a03
 #: ../../NPH.rst:484
-msgid "Act of Aggression"
+msgid ":mtgtip:`Act of Aggression`"
 msgstr ""
 
 # c44e83dd648c4d3a85f6cfb51af292e9
@@ -1205,9 +1127,8 @@ msgid ""
 "Untap that creature. It gains haste until end of turn."
 msgstr ""
 
-# efdcb4a64c4548c3be5e3c4e0eebce9a
 #: ../../NPH.rst:490
-msgid "Artillerize"
+msgid ":mtgtip:`Artillerize`"
 msgstr ""
 
 #: ../../NPH.rst:487
@@ -1219,9 +1140,8 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru poświęć artefakt lub stwora.
 msgid "Artillerize deals 5 damage to any target."
 msgstr ""
 
-# 718742c200fa41b582ebcecbb142d97b
 #: ../../NPH.rst:494
-msgid "Bludgeon Brawl"
+msgid ":mtgtip:`Bludgeon Brawl`"
 msgstr ""
 
 #: ../../NPH.rst:493
@@ -1231,9 +1151,8 @@ msgid ""
 "mana cost."
 msgstr ""
 
-# 1e4ed18e2e41401e884a91c3ae94b19c
 #: ../../NPH.rst:500
-msgid "Chancellor of the Forge"
+msgid ":mtgtip:`Chancellor of the Forge`"
 msgstr ""
 
 #: ../../NPH.rst:497
@@ -1248,9 +1167,8 @@ msgid ""
 "creature tokens with haste, where X is the number of creatures you control."
 msgstr ""
 
-# ca80bb517ae047df87f501e60b9984cd
 #: ../../NPH.rst:506
-msgid "Fallen Ferromancer"
+msgid ":mtgtip:`Fallen Ferromancer`"
 msgstr ""
 
 #: ../../NPH.rst:505
@@ -1258,14 +1176,12 @@ msgid ""
 "|mana_1|\\ |mana_r|, |tap|: Fallen Ferromancer deals 1 damage to any target."
 msgstr ""
 
-# 5332fb6eff874d87ae0ade24b9a1889a
 #: ../../NPH.rst:508
-msgid "Flameborn Viron"
+msgid ":mtgtip:`Flameborn Viron`"
 msgstr ""
 
-# 6a0a578b9b0c4cedbadef2655d0c92c6
 #: ../../NPH.rst:514
-msgid "Furnace Scamp"
+msgid ":mtgtip:`Furnace Scamp`"
 msgstr ""
 
 # 126a78ff14e24f79bbe53293bb468f4c
@@ -1275,9 +1191,8 @@ msgid ""
 "it. If you do, Furnace Scamp deals 3 damage to that player."
 msgstr ""
 
-# 3011b9ba741c4d0db8a960aa877ae3b7
 #: ../../NPH.rst:518
-msgid "Geosurge"
+msgid ":mtgtip:`Geosurge`"
 msgstr ""
 
 #: ../../NPH.rst:517
@@ -1286,18 +1201,16 @@ msgid ""
 "mana_r|. Spend this mana only to cast artifact or creature spells."
 msgstr ""
 
-# 5c7cb6d4e3fd4e3bb589665d2418b76f
 #: ../../NPH.rst:524
-msgid "Gut Shot"
+msgid ":mtgtip:`Gut Shot`"
 msgstr ""
 
 #: ../../NPH.rst:523
 msgid "Gut Shot deals 1 damage to any target."
 msgstr ""
 
-# c77330234faf4ceab5bd80b64a3e42bd
 #: ../../NPH.rst:530
-msgid "Invader Parasite"
+msgid ":mtgtip:`Invader Parasite`"
 msgstr ""
 
 # 73f3c929b469440784662e1b7f9ce16f
@@ -1313,9 +1226,8 @@ msgid ""
 "under an opponent's control, Invader Parasite deals 2 damage to that player."
 msgstr ""
 
-# 555c52f57a764ab49a12d4a46260cddf
 #: ../../NPH.rst:538
-msgid "Moltensteel Dragon"
+msgid ":mtgtip:`Moltensteel Dragon`"
 msgstr ""
 
 # 068bf837f3ea4cafaea8071bac50bee6
@@ -1323,9 +1235,8 @@ msgstr ""
 msgid "|mana_rp|: Moltensteel Dragon gets +1/+0 until end of turn."
 msgstr ""
 
-# 2878644c202c4042b39a0c4036011adf
 #: ../../NPH.rst:544
-msgid "Ogre Menial"
+msgid ":mtgtip:`Ogre Menial`"
 msgstr ""
 
 # 3ff9c6b2295f42e8a6bae1904afae8df
@@ -1333,9 +1244,8 @@ msgstr ""
 msgid "|mana_r|: Ogre Menial gets +1/+0 until end of turn."
 msgstr ""
 
-# 136e5e889da0492f9fc5366fdb05945c
 #: ../../NPH.rst:548
-msgid "Priest of Urabrask"
+msgid ":mtgtip:`Priest of Urabrask`"
 msgstr ""
 
 #: ../../NPH.rst:547
@@ -1344,9 +1254,8 @@ msgid ""
 "mana_r|."
 msgstr ""
 
-# a22c5caa942d4a169e1bb13c688eb8a5
 #: ../../NPH.rst:554
-msgid "Rage Extractor"
+msgid ":mtgtip:`Rage Extractor`"
 msgstr ""
 
 #: ../../NPH.rst:553
@@ -1355,14 +1264,12 @@ msgid ""
 "deals damage equal to that spell's converted mana cost to any target."
 msgstr ""
 
-# 9a0f836e9b5143c89f16534f82a107bb
 #: ../../NPH.rst:560
-msgid "Razor Swine"
+msgid ":mtgtip:`Razor Swine`"
 msgstr ""
 
-# 9d6e4397863c4fdab4f1af0a02b49982
 #: ../../NPH.rst:566
-msgid "Ruthless Invasion"
+msgid ":mtgtip:`Ruthless Invasion`"
 msgstr ""
 
 # 68c0b58ac1994822827b611f77ff6db9
@@ -1370,9 +1277,8 @@ msgstr ""
 msgid "Nonartifact creatures can't block this turn."
 msgstr ""
 
-# fcc212ca8663449b85845748e3f95aac
 #: ../../NPH.rst:570
-msgid "Scrapyard Salvo"
+msgid ":mtgtip:`Scrapyard Salvo`"
 msgstr ""
 
 #: ../../NPH.rst:569
@@ -1381,9 +1287,8 @@ msgid ""
 "number of artifact cards in your graveyard."
 msgstr ""
 
-# cd8d662b638649f188dbb056ce710f56
 #: ../../NPH.rst:574
-msgid "Slag Fiend"
+msgid ":mtgtip:`Slag Fiend`"
 msgstr ""
 
 # d75aed2dbe3347bcb7b846d91492071d
@@ -1393,9 +1298,8 @@ msgid ""
 "cards in all graveyards."
 msgstr ""
 
-# f40ef7b9b7384e139eeb7327ee71f5b8
 #: ../../NPH.rst:580
-msgid "Slash Panther"
+msgid ":mtgtip:`Slash Panther`"
 msgstr ""
 
 # 4dc5114b15514f91871bca66436bddf9
@@ -1403,9 +1307,8 @@ msgstr ""
 msgid "Haste"
 msgstr "Pośpiech"
 
-# 9fbd7619e2554b3f98f29846e4921bd0
 #: ../../NPH.rst:588
-msgid "Tormentor Exarch"
+msgid ":mtgtip:`Tormentor Exarch`"
 msgstr ""
 
 #: ../../NPH.rst:583
@@ -1420,9 +1323,8 @@ msgstr ""
 msgid "Target creature gets -0/-2 until end of turn."
 msgstr ""
 
-# d179c8522fac40bdb58047d710d36371
 #: ../../NPH.rst:594
-msgid "Urabrask the Hidden"
+msgid ":mtgtip:`Urabrask the Hidden`"
 msgstr ""
 
 # 0bc774a338be411ebc04fa01bceb8109
@@ -1436,9 +1338,8 @@ msgid "Creatures your opponents control enter the battlefield tapped."
 msgstr ""
 "Stwory władane przez twoich przeciwników wchodzą na pole walki przekręcone."
 
-# a11a82f6cac845dfaf171dca8c094fb0
 #: ../../NPH.rst:598
-msgid "Victorious Destruction"
+msgid ":mtgtip:`Victorious Destruction`"
 msgstr ""
 
 # 0d395ddeba63471f8e78f468c3d9ff12
@@ -1446,9 +1347,8 @@ msgstr ""
 msgid "Destroy target artifact or land. Its controller loses 1 life."
 msgstr ""
 
-# d9243dba70e34b00a31f942a70ba5704
 #: ../../NPH.rst:602
-msgid "Volt Charge"
+msgid ":mtgtip:`Volt Charge`"
 msgstr ""
 
 #: ../../NPH.rst:601
@@ -1458,9 +1358,8 @@ msgid ""
 "another counter of a kind already there.)"
 msgstr ""
 
-# 3f9a2397692f4ccc9d63d56e51f2e3f1
 #: ../../NPH.rst:606
-msgid "Vulshok Refugee"
+msgid ":mtgtip:`Vulshok Refugee`"
 msgstr ""
 
 # 946a9ebc9b594cf3b5875ffd9dddfddd
@@ -1468,9 +1367,8 @@ msgstr ""
 msgid "Protection from red"
 msgstr ""
 
-# 06112bab05fe4ccf9f01267df4a35445
 #: ../../NPH.rst:610
-msgid "Whipflare"
+msgid ":mtgtip:`Whipflare`"
 msgstr ""
 
 # 68b439a194e64ae69456ea45ab8dbb4a
@@ -1478,9 +1376,8 @@ msgstr ""
 msgid "Whipflare deals 2 damage to each nonartifact creature."
 msgstr ""
 
-# 20ea4651e22142e5aa7458b2ebe6d4a8
 #: ../../NPH.rst:614
-msgid "Beast Within"
+msgid ":mtgtip:`Beast Within`"
 msgstr ""
 
 # 7f0e0e9d73b14d1a94efcd160e963d83
@@ -1493,9 +1390,8 @@ msgstr ""
 "Zniszcz wskazany permanent. Jego władca kładzie na polu walki żeton "
 "zielonego stwora Bestia 3/3."
 
-# bcb74093ab71479ca9dd9e9cf24b8635
 #: ../../NPH.rst:620
-msgid "Birthing Pod"
+msgid ":mtgtip:`Birthing Pod`"
 msgstr ""
 
 # 386ee5411c264d5ca6c2c4bcd7caa8c9
@@ -1517,9 +1413,8 @@ msgid ""
 "sorcery."
 msgstr ""
 
-# 74d34e60bc6b4943bbf6006104af0b95
 #: ../../NPH.rst:628
-msgid "Brutalizer Exarch"
+msgid ":mtgtip:`Brutalizer Exarch`"
 msgstr ""
 
 #: ../../NPH.rst:623
@@ -1536,9 +1431,8 @@ msgstr ""
 msgid "Put target noncreature permanent on the bottom of its owner's library."
 msgstr ""
 
-# 28f8fc0d48c64fc3af34ee398d61160e
 #: ../../NPH.rst:634
-msgid "Chancellor of the Tangle"
+msgid ":mtgtip:`Chancellor of the Tangle`"
 msgstr ""
 
 #: ../../NPH.rst:631
@@ -1552,9 +1446,8 @@ msgstr ""
 msgid "Vigilance, reach"
 msgstr ""
 
-# 015a2d2623a64c5fb615bed5ad2ccae9
 #: ../../NPH.rst:640
-msgid "Corrosive Gale"
+msgid ":mtgtip:`Corrosive Gale`"
 msgstr ""
 
 # 1f7aff64221140969295b5874c58a209
@@ -1562,9 +1455,8 @@ msgstr ""
 msgid "Corrosive Gale deals X damage to each creature with flying."
 msgstr ""
 
-# 8bf1fe4ca0f64f748b377fa857ee9b63
 #: ../../NPH.rst:646
-msgid "Death-Hood Cobra"
+msgid ":mtgtip:`Death-Hood Cobra`"
 msgstr ""
 
 #: ../../NPH.rst:643
@@ -1576,9 +1468,8 @@ msgid ""
 "|mana_1|\\ |mana_g|: Death-Hood Cobra gains deathtouch until end of turn."
 msgstr ""
 
-# eafbe12da6ee41ce80f489f32918a994
 #: ../../NPH.rst:650
-msgid "Fresh Meat"
+msgid ":mtgtip:`Fresh Meat`"
 msgstr ""
 
 #: ../../NPH.rst:649
@@ -1587,9 +1478,8 @@ msgid ""
 "graveyard from the battlefield this turn."
 msgstr ""
 
-# fd245524d1514a5d93a86a7dc3c66ac6
 #: ../../NPH.rst:654
-msgid "Glissa's Scorn"
+msgid ":mtgtip:`Glissa's Scorn`"
 msgstr ""
 
 # 0d17861141c04b30bf75c75b41e44bbb
@@ -1597,14 +1487,12 @@ msgstr ""
 msgid "Destroy target artifact. Its controller loses 1 life."
 msgstr ""
 
-# 454d35487bee43d78129dcdbf2a0f535
 #: ../../NPH.rst:658
-msgid "Glistener Elf"
+msgid ":mtgtip:`Glistener Elf`"
 msgstr ""
 
-# 83112a580aa6422fbabd76db551e8771
 #: ../../NPH.rst:662
-msgid "Greenhilt Trainee"
+msgid ":mtgtip:`Greenhilt Trainee`"
 msgstr ""
 
 # 87213c97c01b4d0a8fe5eef5a30ed808
@@ -1614,9 +1502,8 @@ msgid ""
 "only if Greenhilt Trainee's power is 4 or greater."
 msgstr ""
 
-# 49d6466f1d7b4ef190e31a3af713f767
 #: ../../NPH.rst:666
-msgid "Leeching Bite"
+msgid ":mtgtip:`Leeching Bite`"
 msgstr ""
 
 # bcb6f362b75e479a860e99ffeeeb0738
@@ -1626,9 +1513,8 @@ msgid ""
 "-1/-1 until end of turn."
 msgstr ""
 
-# 44582a83d3694ec6a8d77298414cc007
 #: ../../NPH.rst:672
-msgid "Maul Splicer"
+msgid ":mtgtip:`Maul Splicer`"
 msgstr ""
 
 #: ../../NPH.rst:669
@@ -1642,9 +1528,8 @@ msgstr ""
 msgid "Golem creatures you control have trample."
 msgstr ""
 
-# 42c191281de041b19d5fe363bab0c19d
 #: ../../NPH.rst:680
-msgid "Melira, Sylvok Outcast"
+msgid ":mtgtip:`Melira, Sylvok Outcast`"
 msgstr ""
 
 # 48b9651e84d64727a666b3dce53f812f
@@ -1661,9 +1546,8 @@ msgstr ""
 msgid "Creatures your opponents control lose infect."
 msgstr "Stwory władane przez twoich przeciwników tracą zatruwanie."
 
-# 6b752844b79a4b86a185fc32b37d5d73
 #: ../../NPH.rst:686
-msgid "Mutagenic Growth"
+msgid ":mtgtip:`Mutagenic Growth`"
 msgstr ""
 
 # 30d3e5dea6414347ad353bbc7ef3e862
@@ -1671,9 +1555,8 @@ msgstr ""
 msgid "Target creature gets +2/+2 until end of turn."
 msgstr "Wskazany stwór dostaje +2/+2 do końca tury."
 
-# 814285f1d8fd4a83ae0b96d9d85a24a6
 #: ../../NPH.rst:690
-msgid "Mycosynth Fiend"
+msgid ":mtgtip:`Mycosynth Fiend`"
 msgstr ""
 
 # ef0b1665bf6242e78e874278ee6d81aa
@@ -1681,9 +1564,8 @@ msgstr ""
 msgid "Mycosynth Fiend gets +1/+1 for each poison counter your opponents have."
 msgstr ""
 
-# fd4ea36b3c78418f87b8095588323246
 #: ../../NPH.rst:696
-msgid "Noxious Revival"
+msgid ":mtgtip:`Noxious Revival`"
 msgstr ""
 
 # dd2afd893065475b9c7369cec13ac503
@@ -1691,9 +1573,8 @@ msgstr ""
 msgid "Put target card from a graveyard on top of its owner's library."
 msgstr ""
 
-# dba3c5a32da84ff6bd19746f320e719c
 #: ../../NPH.rst:702
-msgid "Phyrexian Swarmlord"
+msgid ":mtgtip:`Phyrexian Swarmlord`"
 msgstr ""
 
 # edf43fe566aa469a82eba224224b7077
@@ -1706,14 +1587,12 @@ msgstr ""
 "Na początku twojego utrzymania za każdy znacznik zatrucia posiadany przez "
 "twoich przeciwników stwórz żeton zielonego stwora Owad 1/1 z zatruwaniem."
 
-# a6a87ab62806448184858e3996c5b6e1
 #: ../../NPH.rst:704
-msgid "Rotted Hystrix"
+msgid ":mtgtip:`Rotted Hystrix`"
 msgstr ""
 
-# 4c83377cc68e4504b8cc0526ec376727
 #: ../../NPH.rst:712
-msgid "Spinebiter"
+msgid ":mtgtip:`Spinebiter`"
 msgstr ""
 
 # 6bc821daff0c410ba9c9abaa6115ae01
@@ -1723,14 +1602,12 @@ msgid ""
 "blocked."
 msgstr ""
 
-# 4a7c6a35145c4dd0bc2acccfd27e9866
 #: ../../NPH.rst:718
-msgid "Thundering Tanadon"
+msgid ":mtgtip:`Thundering Tanadon`"
 msgstr ""
 
-# 68bca2b9a9534b2fbd657437f46d340b
 #: ../../NPH.rst:722
-msgid "Triumph of the Hordes"
+msgid ":mtgtip:`Triumph of the Hordes`"
 msgstr ""
 
 # 0e2aa62c4e934a449d28d1cb0a923889
@@ -1741,9 +1618,8 @@ msgid ""
 "counters and to players in the form of poison counters.)"
 msgstr ""
 
-# 34a3b17dd44743f394131b63dbcee0e0
 #: ../../NPH.rst:726
-msgid "Viridian Betrayers"
+msgid ":mtgtip:`Viridian Betrayers`"
 msgstr ""
 
 # 2875dcb1f8f94e6c85e1d0b8d8ac2ae0
@@ -1758,9 +1634,8 @@ msgstr ""
 "obrażenia stworom w postaci znaczników -1/-1, a graczom w postaci znaczników "
 "zatrucia.)"
 
-# 7d45e81f067e4208b5ca25990ef43395
 #: ../../NPH.rst:732
-msgid "Viridian Harvest"
+msgid ":mtgtip:`Viridian Harvest`"
 msgstr ""
 
 # f563f8f8ffc04851ba3a464d9c0c90c3
@@ -1773,9 +1648,8 @@ msgstr ""
 msgid "When enchanted artifact is put into a graveyard, you gain 6 life."
 msgstr ""
 
-# 503a17d7310d4a6bacbc530d8b159290
 #: ../../NPH.rst:738
-msgid "Vital Splicer"
+msgid ":mtgtip:`Vital Splicer`"
 msgstr ""
 
 #: ../../NPH.rst:735
@@ -1789,9 +1663,8 @@ msgstr ""
 msgid "|mana_1|: Regenerate target Golem you control."
 msgstr ""
 
-# b8c9066ba5fe4550a8e09bae2ecc451c
 #: ../../NPH.rst:746
-msgid "Vorinclex, Voice of Hunger"
+msgid ":mtgtip:`Vorinclex, Voice of Hunger`"
 msgstr ""
 
 #: ../../NPH.rst:743
@@ -1807,9 +1680,8 @@ msgid ""
 "its controller's next untap step."
 msgstr ""
 
-# 78ae0e37da584d139d5d76a5ccaf6f4a
 #: ../../NPH.rst:752
-msgid "Jor Kadeen, the Prevailer"
+msgid ":mtgtip:`Jor Kadeen, the Prevailer`"
 msgstr ""
 
 # 66503ef567eb4927bf8b9979e71012c5
@@ -1819,9 +1691,8 @@ msgid ""
 "more artifacts."
 msgstr ""
 
-# 7300218fd8e04e088a869586eff240ed
 #: ../../NPH.rst:756
-msgid "Alloy Myr"
+msgid ":mtgtip:`Alloy Myr`"
 msgstr ""
 
 # a05875f4f8134852b3e4ce80aa0b6662
@@ -1829,9 +1700,8 @@ msgstr ""
 msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
-# 2aa41b21d10b40bc8352232111d67a6a
 #: ../../NPH.rst:766
-msgid "Batterskull"
+msgid ":mtgtip:`Batterskull`"
 msgstr ""
 
 #: ../../NPH.rst:759 ../../NPH.rst:827 ../../NPH.rst:847 ../../NPH.rst:903
@@ -1855,9 +1725,8 @@ msgstr ""
 msgid "Equip |mana_5|"
 msgstr "Wyposaż |mana_5|"
 
-# ad0e3a1e28ef4765990107037530ca53
 #: ../../NPH.rst:770
-msgid "Blinding Souleater"
+msgid ":mtgtip:`Blinding Souleater`"
 msgstr ""
 
 # e00beced451c482b9b9a87bcd1078502
@@ -1867,9 +1736,8 @@ msgid ""
 "mana_w| or 2 life.)"
 msgstr ""
 
-# 7eaef67ea1e146aba183f21c235e38ee
 #: ../../NPH.rst:778
-msgid "Caged Sun"
+msgid ":mtgtip:`Caged Sun`"
 msgstr ""
 
 # ce62c379dd1f4b7fbc6f6e42616fe703
@@ -1888,9 +1756,8 @@ msgid ""
 "color, add one additional mana of that color."
 msgstr ""
 
-# 646aebeb3a5f4df38b0d3e532217337e
 #: ../../NPH.rst:784
-msgid "Conversion Chamber"
+msgid ":mtgtip:`Conversion Chamber`"
 msgstr ""
 
 # 64d911b29ae74f9aaf16724f04b934e6
@@ -1906,9 +1773,8 @@ msgid ""
 "3/3 colorless Golem artifact creature token."
 msgstr ""
 
-# ec2449457265423bbb8eb0420b9fce74
 #: ../../NPH.rst:788
-msgid "Darksteel Relic"
+msgid ":mtgtip:`Darksteel Relic`"
 msgstr ""
 
 #: ../../NPH.rst:787
@@ -1916,9 +1782,8 @@ msgid ""
 "Indestructible (Effects that say \"destroy\" don't destroy this artifact.)"
 msgstr ""
 
-# 661ad6f2f353412ca05184a38c279724
 #: ../../NPH.rst:794
-msgid "Etched Monstrosity"
+msgid ":mtgtip:`Etched Monstrosity`"
 msgstr ""
 
 # c16f094164f74c8a8756243c1531a69c
@@ -1933,9 +1798,8 @@ msgid ""
 "counters from Etched Monstrosity: Target player draws three cards."
 msgstr ""
 
-# 7d2fcd7a4c4f4c888824a85827e5fc02
 #: ../../NPH.rst:800
-msgid "Gremlin Mine"
+msgid ":mtgtip:`Gremlin Mine`"
 msgstr ""
 
 #: ../../NPH.rst:797
@@ -1951,9 +1815,8 @@ msgid ""
 "from target noncreature artifact."
 msgstr ""
 
-# 0445d6d714eb4cbebbe1ed385cd70aa0
 #: ../../NPH.rst:804
-msgid "Hex Parasite"
+msgid ":mtgtip:`Hex Parasite`"
 msgstr ""
 
 #: ../../NPH.rst:803
@@ -1963,9 +1826,8 @@ msgid ""
 "mana_bp| can be paid with either |mana_b| or 2 life.)"
 msgstr ""
 
-# 0e76aa117c114befb62481f6687699de
 #: ../../NPH.rst:808
-msgid "Hovermyr"
+msgid ":mtgtip:`Hovermyr`"
 msgstr ""
 
 # 0472a5ddc14a4a8cb1e45f0b29d855e0
@@ -1973,9 +1835,8 @@ msgstr ""
 msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
-# 9aa0d3711b764701a35f3e9c50c7f072
 #: ../../NPH.rst:812
-msgid "Immolating Souleater"
+msgid ":mtgtip:`Immolating Souleater`"
 msgstr ""
 
 # 94ab1bd1d26048819c5a2a5683af047a
@@ -1985,9 +1846,8 @@ msgid ""
 "be paid with either |mana_r| or 2 life.)"
 msgstr ""
 
-# fdbc95ead779474987c21c6a767dbd0d
 #: ../../NPH.rst:816
-msgid "Insatiable Souleater"
+msgid ":mtgtip:`Insatiable Souleater`"
 msgstr ""
 
 # 60e933cbb0e44f8ea16b4462c5b7f06f
@@ -1997,9 +1857,8 @@ msgid ""
 "can be paid with either |mana_g| or 2 life.)"
 msgstr ""
 
-# f535cfa03ad34a2cb87fbee0e9a83726
 #: ../../NPH.rst:820
-msgid "Isolation Cell"
+msgid ":mtgtip:`Isolation Cell`"
 msgstr ""
 
 #: ../../NPH.rst:819
@@ -2008,9 +1867,8 @@ msgid ""
 "they pay |mana_2|."
 msgstr ""
 
-# 93a756b798b4454097251ca92f2b153d
 #: ../../NPH.rst:824
-msgid "Kiln Walker"
+msgid ":mtgtip:`Kiln Walker`"
 msgstr ""
 
 # b61d4ce6f14a4720ac541d993368fcf9
@@ -2018,9 +1876,8 @@ msgstr ""
 msgid "Whenever Kiln Walker attacks, it gets +3/+0 until end of turn."
 msgstr ""
 
-# 133bdf2773194d6aa5e223f85ac48148
 #: ../../NPH.rst:832
-msgid "Lashwrithe"
+msgid ":mtgtip:`Lashwrithe`"
 msgstr ""
 
 # e70a0717458b4626993d537827990385
@@ -2034,9 +1891,8 @@ msgid ""
 "life.)"
 msgstr ""
 
-# 7909c524016b45d1bdd7ddc55862787f
 #: ../../NPH.rst:836
-msgid "Mindcrank"
+msgid ":mtgtip:`Mindcrank`"
 msgstr ""
 
 # c71ffe9e713b4fbbb6155c4d79fdead1
@@ -2051,9 +1907,8 @@ msgstr ""
 "swojej biblioteki do swojego cmentarza. (Obrażenia zadane przez źródła bez "
 "zatruwania powodują utratę życia.)"
 
-# f51229fd70d44b308610f3574679a7f5
 #: ../../NPH.rst:840
-msgid "Mycosynth Wellspring"
+msgid ":mtgtip:`Mycosynth Wellspring`"
 msgstr ""
 
 # 0f41268cb5854e729d8852ba59b551a8
@@ -2064,9 +1919,8 @@ msgid ""
 "reveal it, put it into your hand, then shuffle your library."
 msgstr ""
 
-# 5e71740cc42a4f91b7bde901f49c4206
 #: ../../NPH.rst:844
-msgid "Myr Superion"
+msgid ":mtgtip:`Myr Superion`"
 msgstr ""
 
 # d8dfaa19abdd479eab160977dcca5171
@@ -2074,9 +1928,8 @@ msgstr ""
 msgid "Spend only mana produced by creatures to cast Myr Superion."
 msgstr ""
 
-# e8b47cf9005b4394b32f3903dbc3e740
 #: ../../NPH.rst:852
-msgid "Necropouncer"
+msgid ":mtgtip:`Necropouncer`"
 msgstr ""
 
 # a6ff7b769677433c809eb42883479e55
@@ -2090,9 +1943,8 @@ msgstr ""
 msgid "Equip |mana_2|"
 msgstr "Wyposaż |mana_2|"
 
-# 3a2234dc1a8c4fcc858173ab3f20fd7a
 #: ../../NPH.rst:858
-msgid "Omen Machine"
+msgid ":mtgtip:`Omen Machine`"
 msgstr ""
 
 # dfe1e14bca3647468335e5693aeef517
@@ -2108,9 +1960,8 @@ msgid ""
 "able."
 msgstr ""
 
-# 496888ca331044348530873dc7ecdfef
 #: ../../NPH.rst:862
-msgid "Pestilent Souleater"
+msgid ":mtgtip:`Pestilent Souleater`"
 msgstr ""
 
 # 012830466f12465b8807d8c43a05e931
@@ -2122,23 +1973,20 @@ msgid ""
 "of poison counters.)"
 msgstr ""
 
-# b90d719bbd5e4fb5999466131d6e32ff
 #: ../../NPH.rst:864
-msgid "Phyrexian Hulk"
+msgid ":mtgtip:`Phyrexian Hulk`"
 msgstr ""
 
-# e7856daa8df444b9bf5a2239444491db
 #: ../../NPH.rst:870
-msgid "Pristine Talisman"
+msgid ":mtgtip:`Pristine Talisman`"
 msgstr ""
 
 #: ../../NPH.rst:869
 msgid "|tap|: Add |colorless|. You gain 1 life."
 msgstr ""
 
-# 6e9f14f4456f491182171586169ebbdc
 #: ../../NPH.rst:876
-msgid "Shrine of Boundless Growth"
+msgid ":mtgtip:`Shrine of Boundless Growth`"
 msgstr ""
 
 # da185daf9faf4fb7a7ab931e940d17f0
@@ -2154,9 +2002,8 @@ msgid ""
 "counter on Shrine of Boundless Growth."
 msgstr ""
 
-# bd6720bbcdbc4a91a2cecb893bad275e
 #: ../../NPH.rst:882
-msgid "Shrine of Burning Rage"
+msgid ":mtgtip:`Shrine of Burning Rage`"
 msgstr ""
 
 # 21af6a353904401099eec5ed1c8de9a3
@@ -2172,9 +2019,8 @@ msgid ""
 "the number of charge counters on it to any target."
 msgstr ""
 
-# 65a55d9d1e8a4410b268f215c11b0022
 #: ../../NPH.rst:888
-msgid "Shrine of Limitless Power"
+msgid ":mtgtip:`Shrine of Limitless Power`"
 msgstr ""
 
 # afadc3704d504d9d8dbb005e68d0fed7
@@ -2191,9 +2037,8 @@ msgid ""
 "a card for each charge counter on Shrine of Limitless Power."
 msgstr ""
 
-# e14f2558e785400eacbf8b09f52926fe
 #: ../../NPH.rst:894
-msgid "Shrine of Loyal Legions"
+msgid ":mtgtip:`Shrine of Loyal Legions`"
 msgstr ""
 
 # 3e4f5a2b5fdc4072baf143faf7b40882
@@ -2210,9 +2055,8 @@ msgid ""
 "Legions."
 msgstr ""
 
-# 01ea46a66d5846498f0ba5b409abab84
 #: ../../NPH.rst:900
-msgid "Shrine of Piercing Vision"
+msgid ":mtgtip:`Shrine of Piercing Vision`"
 msgstr ""
 
 # 8f729333714c480081aa82c2c731768d
@@ -2231,9 +2075,8 @@ msgid ""
 "your library in any order."
 msgstr ""
 
-# 16c8d265e49b4faab1181b983553c7e2
 #: ../../NPH.rst:908
-msgid "Sickleslicer"
+msgid ":mtgtip:`Sickleslicer`"
 msgstr ""
 
 # 1158556e2ad740a8822833940a3b8ec9
@@ -2246,9 +2089,8 @@ msgstr ""
 msgid "Equip |mana_4|"
 msgstr ""
 
-# aa4061cf23364adeb74c92c8d7af0ec6
 #: ../../NPH.rst:912
-msgid "Soul Conduit"
+msgid ":mtgtip:`Soul Conduit`"
 msgstr ""
 
 # 093790002d0b474aba6001ae5ed3ca6d
@@ -2256,9 +2098,8 @@ msgstr ""
 msgid "|mana_6|, |tap|: Two target players exchange life totals."
 msgstr ""
 
-# 7a48e66bc8e04ec786b211f67fd36140
 #: ../../NPH.rst:916
-msgid "Spellskite"
+msgid ":mtgtip:`Spellskite`"
 msgstr ""
 
 # bcf5266403544107bf68112b3f6d82de
@@ -2268,9 +2109,8 @@ msgid ""
 "mana_up| can be paid with either |mana_u| or 2 life.)"
 msgstr ""
 
-# a3ebebe46e1a4835b31db7005b05773f
 #: ../../NPH.rst:922
-msgid "Surge Node"
+msgid ":mtgtip:`Surge Node`"
 msgstr ""
 
 # 4c1e94f2d6a147b281eeda44a2455f03
@@ -2285,9 +2125,8 @@ msgid ""
 "counter on target artifact."
 msgstr ""
 
-# 958a4f0beee54e0d956194e78a979c92
 #: ../../NPH.rst:930
-msgid "Sword of War and Peace"
+msgid ":mtgtip:`Sword of War and Peace`"
 msgstr ""
 
 # 40c7e5121cc64f7ea2ed16d72ec8a595
@@ -2303,9 +2142,8 @@ msgid ""
 "and you gain 1 life for each card in your hand."
 msgstr ""
 
-# f0648e36c8194566a8888e79c5b295c9
 #: ../../NPH.rst:934
-msgid "Torpor Orb"
+msgid ":mtgtip:`Torpor Orb`"
 msgstr ""
 
 # e3e1a14e527d48918290c43abb78aa78
@@ -2313,9 +2151,8 @@ msgstr ""
 msgid "Creatures entering the battlefield don't cause abilities to trigger."
 msgstr "Stwory wchodzące na pole walki nie powodują wyzwalania zdolności."
 
-# 30fbb3d380904b609470e51a8762b0ff
 #: ../../NPH.rst:938
-msgid "Trespassing Souleater"
+msgid ":mtgtip:`Trespassing Souleater`"
 msgstr ""
 
 # 63045560a4c3409e89497f3a367be1c4
@@ -2325,9 +2162,8 @@ msgid ""
 "be paid with either |mana_u| or 2 life.)"
 msgstr ""
 
-# 86012d6978ec487c955441c1e1166b12
 #: ../../NPH.rst:942
-msgid "Unwinding Clock"
+msgid ":mtgtip:`Unwinding Clock`"
 msgstr ""
 
 # 8093eba2ab9a4df4bbc651e400b44efa
@@ -2335,9 +2171,8 @@ msgstr ""
 msgid "Untap all artifacts you control during each other player's untap step."
 msgstr ""
 
-# 548ada0ec5ce40a59abac280f5f155a6
 #: ../../NPH.rst:948
-msgid "Phyrexia's Core"
+msgid ":mtgtip:`Phyrexia's Core`"
 msgstr ""
 
 #: ../../NPH.rst:945
@@ -2349,27 +2184,65 @@ msgstr "|tap|: Dostajesz |colorless|."
 msgid "|mana_1|, |tap|, Sacrifice an artifact: You gain 1 life."
 msgstr ""
 
-# da7799863223487d8e0e4d890ef95989
-#: ../../NPH.rst:950 ../../NPH.rst:954
-msgid "Plains"
-msgstr "Plains (Równina)"
+#: ../../NPH.rst:952
+msgid ":mtgtip:`Plains`"
+msgstr ""
 
-# 477ce7418b16473797db3cfcdb48b97f
-#: ../../NPH.rst:958 ../../NPH.rst:962
-msgid "Island"
-msgstr "Island (Wyspa)"
+#: ../../NPH.rst:951
+#, fuzzy
+msgid "(|tap|: Add |mana_w|.)"
+msgstr "|tap|: Dostajesz |colorless|."
 
-# dd917f7bb7514edc834a6ba8c0ef4dc2
-#: ../../NPH.rst:966 ../../NPH.rst:970
-msgid "Swamp"
-msgstr "Swamp (Bagno)"
+#: ../../NPH.rst:956
+msgid ":mtgtip:`Island`"
+msgstr ""
+
+#: ../../NPH.rst:955
+#, fuzzy
+msgid "(|tap|: Add |mana_u|.)"
+msgstr "|tap|: Dostajesz |colorless|."
+
+#: ../../NPH.rst:960
+msgid ":mtgtip:`Swamp`"
+msgstr ""
+
+#: ../../NPH.rst:959
+#, fuzzy
+msgid "(|tap|: Add |mana_b|.)"
+msgstr "|tap|: Dostajesz |colorless|."
 
 # fe927e1f1edb426e9141e323116784cf
-#: ../../NPH.rst:974 ../../NPH.rst:978
-msgid "Mountain"
+#: ../../NPH.rst:964
+#, fuzzy
+msgid ":mtgtip:`Mountain`"
 msgstr "Mountain (Góra)"
 
+#: ../../NPH.rst:963
+#, fuzzy
+msgid "(|tap|: Add |mana_r|.)"
+msgstr "|tap|: Dostajesz |colorless|."
+
+#: ../../NPH.rst:967
+msgid ":mtgtip:`Forest`"
+msgstr ""
+
+#: ../../NPH.rst:967
+#, fuzzy
+msgid "(|tap|: Add |mana_g|.)"
+msgstr "|tap|: Dostajesz |colorless|."
+
+# da7799863223487d8e0e4d890ef95989
+#~ msgid "Plains"
+#~ msgstr "Plains (Równina)"
+
+# 477ce7418b16473797db3cfcdb48b97f
+#~ msgid "Island"
+#~ msgstr "Island (Wyspa)"
+
+# dd917f7bb7514edc834a6ba8c0ef4dc2
+#~ msgid "Swamp"
+#~ msgstr "Swamp (Bagno)"
+
 # a2ae8ec2f57a4de98db85379e63b6237
-#: ../../NPH.rst:982 ../../NPH.rst:986
-msgid "Forest"
-msgstr "Forest (Las)"
+#~ msgid "Forest"
+#~ msgstr "Forest (Las)"

@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-13 00:09+0000\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
+"PO-Revision-Date: 2019-01-13 15:26+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
@@ -21,17 +21,17 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../AKH.rst:5
-msgid "Amonkhet"
+msgid ":mtgexp:`AKH` Amonkhet"
 msgstr ""
 
 #: ../../AKH.rst:14
-msgid "Angel of Sanctions"
+msgid ":mtgtip:`Angel of Sanctions`"
 msgstr ""
 
 #: ../../AKH.rst:9 ../../AKH.rst:33 ../../AKH.rst:131 ../../AKH.rst:167
 #: ../../AKH.rst:181 ../../AKH.rst:233 ../../AKH.rst:245 ../../AKH.rst:279
 #: ../../AKH.rst:311 ../../AKH.rst:393 ../../AKH.rst:431 ../../AKH.rst:437
-#: ../../AKH.rst:451 ../../AKH.rst:1071 ../../AKH.rst:1125 ../../AKH.rst:1541
+#: ../../AKH.rst:451 ../../AKH.rst:1071 ../../AKH.rst:1125 ../../AKH.rst:1481
 msgid "Flying"
 msgstr "Latanie"
 
@@ -50,7 +50,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:18
-msgid "Anointed Procession"
+msgid ":mtgtip:`Anointed Procession`"
 msgstr ""
 
 #: ../../AKH.rst:17
@@ -60,7 +60,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:24
-msgid "Anointer Priest"
+msgid ":mtgtip:`Anointer Priest`"
 msgstr ""
 
 #: ../../AKH.rst:21
@@ -77,7 +77,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:28
-msgid "Approach of the Second Sun"
+msgid ":mtgtip:`Approach of the Second Sun`"
 msgstr ""
 
 #: ../../AKH.rst:27
@@ -89,7 +89,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:36
-msgid "Aven Mindcensor"
+msgid ":mtgtip:`Aven Mindcensor`"
 msgstr ""
 
 #: ../../AKH.rst:31 ../../AKH.rst:51 ../../AKH.rst:213 ../../AKH.rst:969
@@ -104,7 +104,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:40
-msgid "Binding Mummy"
+msgid ":mtgtip:`Binding Mummy`"
 msgstr ""
 
 #: ../../AKH.rst:39
@@ -114,7 +114,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:48
-msgid "Cartouche of Solidarity"
+msgid ":mtgtip:`Cartouche of Solidarity`"
 msgstr ""
 
 #: ../../AKH.rst:43 ../../AKH.rst:255 ../../AKH.rst:471 ../../AKH.rst:679
@@ -133,7 +133,7 @@ msgid "Enchanted creature gets +1/+1 and has first strike."
 msgstr ""
 
 #: ../../AKH.rst:56
-msgid "Cast Out"
+msgid ":mtgtip:`Cast Out`"
 msgstr ""
 
 #: ../../AKH.rst:53
@@ -147,7 +147,7 @@ msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:64
-msgid "Compulsory Rest"
+msgid ":mtgtip:`Compulsory Rest`"
 msgstr ""
 
 #: ../../AKH.rst:59 ../../AKH.rst:329 ../../AKH.rst:691 ../../AKH.rst:1011
@@ -165,7 +165,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:68
-msgid "Devoted Crop-Mate"
+msgid ":mtgtip:`Devoted Crop-Mate`"
 msgstr ""
 
 #: ../../AKH.rst:67
@@ -176,7 +176,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:74
-msgid "Djeru's Resolve"
+msgid ":mtgtip:`Djeru's Resolve`"
 msgstr ""
 
 #: ../../AKH.rst:71
@@ -194,7 +194,7 @@ msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:78
-msgid "Fan Bearer"
+msgid ":mtgtip:`Fan Bearer`"
 msgstr ""
 
 #: ../../AKH.rst:77
@@ -202,7 +202,7 @@ msgid "|mana_2|, |tap|: Tap target creature."
 msgstr ""
 
 #: ../../AKH.rst:84
-msgid "Forsake the Worldly"
+msgid ":mtgtip:`Forsake the Worldly`"
 msgstr ""
 
 #: ../../AKH.rst:81
@@ -210,7 +210,7 @@ msgid "Exile target artifact or enchantment."
 msgstr "Wygnaj wskazany artefakt lub urok."
 
 #: ../../AKH.rst:92
-msgid "Gideon of the Trials"
+msgid ":mtgtip:`Gideon of the Trials`"
 msgstr ""
 
 #: ../../AKH.rst:87
@@ -232,7 +232,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:100
-msgid "Gideon's Intervention"
+msgid ":mtgtip:`Gideon's Intervention`"
 msgstr ""
 
 #: ../../AKH.rst:95
@@ -250,7 +250,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:104
-msgid "Glory-Bound Initiate"
+msgid ":mtgtip:`Glory-Bound Initiate`"
 msgstr ""
 
 #: ../../AKH.rst:103
@@ -261,7 +261,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:108
-msgid "Gust Walker"
+msgid ":mtgtip:`Gust Walker`"
 msgstr ""
 
 #: ../../AKH.rst:107
@@ -272,7 +272,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:112
-msgid "Impeccable Timing"
+msgid ":mtgtip:`Impeccable Timing`"
 msgstr ""
 
 #: ../../AKH.rst:111
@@ -281,7 +281,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:116
-msgid "In Oketra's Name"
+msgid ":mtgtip:`In Oketra's Name`"
 msgstr ""
 
 #: ../../AKH.rst:115
@@ -291,7 +291,8 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:120
-msgid "Mighty Leap"
+#, fuzzy
+msgid ":mtgtip:`Mighty Leap`"
 msgstr "Mighty Leap"
 
 #: ../../AKH.rst:119
@@ -299,7 +300,7 @@ msgid "Target creature gets +2/+2 and gains flying until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
 
 #: ../../AKH.rst:128
-msgid "Oketra the True"
+msgid ":mtgtip:`Oketra the True`"
 msgstr ""
 
 #: ../../AKH.rst:123
@@ -319,7 +320,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:136
-msgid "Oketra's Attendant"
+msgid ":mtgtip:`Oketra's Attendant`"
 msgstr ""
 
 #: ../../AKH.rst:135
@@ -331,7 +332,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:140
-msgid "Protection of the Hekma"
+msgid ":mtgtip:`Protection of the Hekma`"
 msgstr ""
 
 #: ../../AKH.rst:139
@@ -341,7 +342,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:146
-msgid "Regal Caracal"
+msgid ":mtgtip:`Regal Caracal`"
 msgstr ""
 
 #: ../../AKH.rst:143
@@ -355,7 +356,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:154
-msgid "Renewed Faith"
+msgid ":mtgtip:`Renewed Faith`"
 msgstr ""
 
 #: ../../AKH.rst:149
@@ -376,7 +377,7 @@ msgid "When you cycle Renewed Faith, you may gain 2 life."
 msgstr ""
 
 #: ../../AKH.rst:158
-msgid "Rhet-Crop Spearmaster"
+msgid ":mtgtip:`Rhet-Crop Spearmaster`"
 msgstr ""
 
 #: ../../AKH.rst:157
@@ -387,7 +388,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:164
-msgid "Sacred Cat"
+msgid ":mtgtip:`Sacred Cat`"
 msgstr ""
 
 #: ../../AKH.rst:161 ../../AKH.rst:445
@@ -402,7 +403,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:170
-msgid "Seraph of the Suns"
+msgid ":mtgtip:`Seraph of the Suns`"
 msgstr ""
 
 #: ../../AKH.rst:169
@@ -413,7 +414,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:174
-msgid "Sparring Mummy"
+msgid ":mtgtip:`Sparring Mummy`"
 msgstr ""
 
 #: ../../AKH.rst:173
@@ -421,7 +422,7 @@ msgid "When Sparring Mummy enters the battlefield, untap target creature."
 msgstr ""
 
 #: ../../AKH.rst:178
-msgid "Supply Caravan"
+msgid ":mtgtip:`Supply Caravan`"
 msgstr ""
 
 #: ../../AKH.rst:177
@@ -431,7 +432,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:184
-msgid "Tah-Crop Elite"
+msgid ":mtgtip:`Tah-Crop Elite`"
 msgstr ""
 
 #: ../../AKH.rst:183
@@ -442,11 +443,11 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:186
-msgid "Those Who Serve"
+msgid ":mtgtip:`Those Who Serve`"
 msgstr ""
 
 #: ../../AKH.rst:192
-msgid "Time to Reflect"
+msgid ":mtgtip:`Time to Reflect`"
 msgstr ""
 
 #: ../../AKH.rst:191
@@ -455,7 +456,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:198
-msgid "Trial of Solidarity"
+msgid ":mtgtip:`Trial of Solidarity`"
 msgstr ""
 
 #: ../../AKH.rst:195
@@ -471,7 +472,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:204
-msgid "Trueheart Duelist"
+msgid ":mtgtip:`Trueheart Duelist`"
 msgstr ""
 
 #: ../../AKH.rst:201
@@ -486,7 +487,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:210
-msgid "Unwavering Initiate"
+msgid ":mtgtip:`Unwavering Initiate`"
 msgstr ""
 
 #: ../../AKH.rst:207
@@ -501,7 +502,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:216
-msgid "Vizier of Deferment"
+msgid ":mtgtip:`Vizier of Deferment`"
 msgstr ""
 
 #: ../../AKH.rst:215
@@ -512,7 +513,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:220
-msgid "Vizier of Remedies"
+msgid ":mtgtip:`Vizier of Remedies`"
 msgstr ""
 
 #: ../../AKH.rst:219
@@ -522,7 +523,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:226
-msgid "Winged Shepherd"
+msgid ":mtgtip:`Winged Shepherd`"
 msgstr ""
 
 #: ../../AKH.rst:223 ../../AKH.rst:1053
@@ -530,11 +531,11 @@ msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
 #: ../../AKH.rst:228
-msgid "Ancient Crab"
+msgid ":mtgtip:`Ancient Crab`"
 msgstr ""
 
 #: ../../AKH.rst:236
-msgid "Angler Drake"
+msgid ":mtgtip:`Angler Drake`"
 msgstr ""
 
 #: ../../AKH.rst:235
@@ -544,7 +545,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:242
-msgid "As Foretold"
+msgid ":mtgtip:`As Foretold`"
 msgstr ""
 
 #: ../../AKH.rst:239
@@ -559,7 +560,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:248
-msgid "Aven Initiate"
+msgid ":mtgtip:`Aven Initiate`"
 msgstr ""
 
 #: ../../AKH.rst:247
@@ -570,15 +571,15 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:252
-msgid "Cancel"
-msgstr "Cancel"
+msgid ":mtgtip:`Cancel`"
+msgstr ""
 
 #: ../../AKH.rst:251
 msgid "Counter target spell."
 msgstr "Skontruj wskazany czar."
 
 #: ../../AKH.rst:260
-msgid "Cartouche of Knowledge"
+msgid ":mtgtip:`Cartouche of Knowledge`"
 msgstr ""
 
 #: ../../AKH.rst:257
@@ -590,7 +591,7 @@ msgid "Enchanted creature gets +1/+1 and has flying."
 msgstr "Zauroczony stwór dostaje +1/+1 i ma latanie."
 
 #: ../../AKH.rst:266
-msgid "Censor"
+msgid ":mtgtip:`Censor`"
 msgstr ""
 
 #: ../../AKH.rst:263
@@ -603,7 +604,7 @@ msgid "Cycling |mana_u| (|mana_u|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_u| (|mana_u|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:272
-msgid "Compelling Argument"
+msgid ":mtgtip:`Compelling Argument`"
 msgstr ""
 
 #: ../../AKH.rst:269
@@ -612,7 +613,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:276
-msgid "Cryptic Serpent"
+msgid ":mtgtip:`Cryptic Serpent`"
 msgstr ""
 
 #: ../../AKH.rst:275
@@ -622,7 +623,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:284
-msgid "Curator of Mysteries"
+msgid ":mtgtip:`Curator of Mysteries`"
 msgstr ""
 
 #: ../../AKH.rst:281
@@ -630,7 +631,7 @@ msgid "Whenever you cycle or discard another card, scry 1."
 msgstr ""
 
 #: ../../AKH.rst:288
-msgid "Decision Paralysis"
+msgid ":mtgtip:`Decision Paralysis`"
 msgstr ""
 
 #: ../../AKH.rst:287
@@ -642,7 +643,7 @@ msgstr ""
 "najbliższym kroku odkręcania swojego władcy."
 
 #: ../../AKH.rst:292
-msgid "Drake Haven"
+msgid ":mtgtip:`Drake Haven`"
 msgstr ""
 
 #: ../../AKH.rst:291
@@ -652,7 +653,8 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:296
-msgid "Essence Scatter"
+#, fuzzy
+msgid ":mtgtip:`Essence Scatter`"
 msgstr "Essence Scatter (Rozproszenie Esencji)"
 
 #: ../../AKH.rst:295
@@ -660,7 +662,7 @@ msgid "Counter target creature spell."
 msgstr "Skontruj wskazany czar stwora."
 
 #: ../../AKH.rst:302
-msgid "Floodwaters"
+msgid ":mtgtip:`Floodwaters`"
 msgstr ""
 
 #: ../../AKH.rst:299
@@ -668,7 +670,7 @@ msgid "Return up to two target creatures to their owners' hands."
 msgstr ""
 
 #: ../../AKH.rst:308
-msgid "Galestrike"
+msgid ":mtgtip:`Galestrike`"
 msgstr ""
 
 #: ../../AKH.rst:305
@@ -680,7 +682,7 @@ msgid "Draw a card."
 msgstr "Dobierz kartę."
 
 #: ../../AKH.rst:316
-msgid "Glyph Keeper"
+msgid ":mtgtip:`Glyph Keeper`"
 msgstr ""
 
 #: ../../AKH.rst:313
@@ -697,7 +699,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:320
-msgid "Hekma Sentinels"
+msgid ":mtgtip:`Hekma Sentinels`"
 msgstr ""
 
 #: ../../AKH.rst:319
@@ -707,15 +709,15 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:326
-msgid "Hieroglyphic Illumination"
+msgid ":mtgtip:`Hieroglyphic Illumination`"
 msgstr ""
 
-#: ../../AKH.rst:323 ../../AKH.rst:825 ../../AKH.rst:1243
+#: ../../AKH.rst:323 ../../AKH.rst:825 ../../AKH.rst:1239
 msgid "Draw two cards."
 msgstr "Dobierz dwie karty."
 
 #: ../../AKH.rst:332
-msgid "Illusory Wrappings"
+msgid ":mtgtip:`Illusory Wrappings`"
 msgstr ""
 
 #: ../../AKH.rst:331
@@ -723,7 +725,7 @@ msgid "Enchanted creature has base power and toughness 0/2."
 msgstr ""
 
 #: ../../AKH.rst:340
-msgid "Kefnet the Mindful"
+msgid ":mtgtip:`Kefnet the Mindful`"
 msgstr ""
 
 #: ../../AKH.rst:335
@@ -743,7 +745,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:346
-msgid "Labyrinth Guardian"
+msgid ":mtgtip:`Labyrinth Guardian`"
 msgstr ""
 
 #: ../../AKH.rst:343
@@ -758,7 +760,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:354
-msgid "Lay Claim"
+msgid ":mtgtip:`Lay Claim`"
 msgstr ""
 
 #: ../../AKH.rst:349
@@ -770,7 +772,7 @@ msgid "You control enchanted permanent."
 msgstr "Masz władanie nad zauroczonym permanentem."
 
 #: ../../AKH.rst:358
-msgid "Naga Oracle"
+msgid ":mtgtip:`Naga Oracle`"
 msgstr ""
 
 #: ../../AKH.rst:357
@@ -781,7 +783,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:364
-msgid "New Perspectives"
+msgid ":mtgtip:`New Perspectives`"
 msgstr ""
 
 #: ../../AKH.rst:361
@@ -797,7 +799,7 @@ msgstr ""
 "płacić koszty recyklingu."
 
 #: ../../AKH.rst:368
-msgid "Open into Wonder"
+msgid ":mtgtip:`Open into Wonder`"
 msgstr ""
 
 #: ../../AKH.rst:367
@@ -808,7 +810,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:372
-msgid "Pull from Tomorrow"
+msgid ":mtgtip:`Pull from Tomorrow`"
 msgstr ""
 
 #: ../../AKH.rst:371
@@ -816,7 +818,7 @@ msgid "Draw X cards, then discard a card."
 msgstr ""
 
 #: ../../AKH.rst:378
-msgid "River Serpent"
+msgid ":mtgtip:`River Serpent`"
 msgstr ""
 
 #: ../../AKH.rst:375
@@ -826,7 +828,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:382
-msgid "Sacred Excavation"
+msgid ":mtgtip:`Sacred Excavation`"
 msgstr ""
 
 #: ../../AKH.rst:381
@@ -837,7 +839,7 @@ msgstr ""
 "do twojej ręki."
 
 #: ../../AKH.rst:386
-msgid "Scribe of the Mindful"
+msgid ":mtgtip:`Scribe of the Mindful`"
 msgstr ""
 
 #: ../../AKH.rst:385
@@ -847,7 +849,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:390
-msgid "Seeker of Insight"
+msgid ":mtgtip:`Seeker of Insight`"
 msgstr ""
 
 #: ../../AKH.rst:389
@@ -857,11 +859,11 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:396
-msgid "Shimmerscale Drake"
+msgid ":mtgtip:`Shimmerscale Drake`"
 msgstr ""
 
 #: ../../AKH.rst:400
-msgid "Slither Blade"
+msgid ":mtgtip:`Slither Blade`"
 msgstr ""
 
 #: ../../AKH.rst:399
@@ -869,7 +871,7 @@ msgid "Slither Blade can't be blocked."
 msgstr ""
 
 #: ../../AKH.rst:404
-msgid "Tah-Crop Skirmisher"
+msgid ":mtgtip:`Tah-Crop Skirmisher`"
 msgstr ""
 
 #: ../../AKH.rst:403
@@ -880,7 +882,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:410
-msgid "Trial of Knowledge"
+msgid ":mtgtip:`Trial of Knowledge`"
 msgstr ""
 
 #: ../../AKH.rst:407
@@ -896,7 +898,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:416
-msgid "Vizier of Many Faces"
+msgid ":mtgtip:`Vizier of Many Faces`"
 msgstr ""
 
 #: ../../AKH.rst:413
@@ -912,7 +914,7 @@ msgid "Embalm |mana_3|\\ |mana_u|\\ |mana_u|"
 msgstr ""
 
 #: ../../AKH.rst:424
-msgid "Vizier of Tumbling Sands"
+msgid ":mtgtip:`Vizier of Tumbling Sands`"
 msgstr ""
 
 #: ../../AKH.rst:419
@@ -933,7 +935,7 @@ msgid "When you cycle Vizier of Tumbling Sands, untap target permanent."
 msgstr ""
 
 #: ../../AKH.rst:428
-msgid "Winds of Rebuke"
+msgid ":mtgtip:`Winds of Rebuke`"
 msgstr ""
 
 #: ../../AKH.rst:427
@@ -943,7 +945,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:434
-msgid "Zenith Seeker"
+msgid ":mtgtip:`Zenith Seeker`"
 msgstr ""
 
 #: ../../AKH.rst:433
@@ -953,7 +955,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:442
-msgid "Archfiend of Ifnir"
+msgid ":mtgtip:`Archfiend of Ifnir`"
 msgstr ""
 
 #: ../../AKH.rst:439
@@ -963,7 +965,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:448
-msgid "Baleful Ammit"
+msgid ":mtgtip:`Baleful Ammit`"
 msgstr ""
 
 #: ../../AKH.rst:447
@@ -973,7 +975,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:454
-msgid "Blighted Bat"
+msgid ":mtgtip:`Blighted Bat`"
 msgstr ""
 
 #: ../../AKH.rst:453
@@ -981,7 +983,7 @@ msgid "|mana_1|: Blighted Bat gains haste until end of turn."
 msgstr ""
 
 #: ../../AKH.rst:460
-msgid "Bone Picker"
+msgid ":mtgtip:`Bone Picker`"
 msgstr ""
 
 #: ../../AKH.rst:457
@@ -993,7 +995,7 @@ msgid "Flying, deathtouch"
 msgstr "Latanie, dotyk śmierci"
 
 #: ../../AKH.rst:468
-msgid "Bontu the Glorified"
+msgid ":mtgtip:`Bontu the Glorified`"
 msgstr ""
 
 #: ../../AKH.rst:463
@@ -1013,7 +1015,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:476
-msgid "Cartouche of Ambition"
+msgid ":mtgtip:`Cartouche of Ambition`"
 msgstr ""
 
 #: ../../AKH.rst:473
@@ -1027,7 +1029,7 @@ msgid "Enchanted creature gets +1/+1 and has lifelink."
 msgstr "Zauroczony stwór dostaje +1/+1 i ma więź życia."
 
 #: ../../AKH.rst:482
-msgid "Cruel Reality"
+msgid ":mtgtip:`Cruel Reality`"
 msgstr ""
 
 #: ../../AKH.rst:479 ../../AKH.rst:617
@@ -1041,7 +1043,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:486
-msgid "Cursed Minotaur"
+msgid ":mtgtip:`Cursed Minotaur`"
 msgstr ""
 
 #: ../../AKH.rst:485
@@ -1052,7 +1054,7 @@ msgstr ""
 "dwa stwory.)"
 
 #: ../../AKH.rst:490
-msgid "Dispossess"
+msgid ":mtgtip:`Dispossess`"
 msgstr ""
 
 #: ../../AKH.rst:489
@@ -1063,7 +1065,8 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:494
-msgid "Doomed Dissenter"
+#, fuzzy
+msgid ":mtgtip:`Doomed Dissenter`"
 msgstr "Doomed Dissenter"
 
 #: ../../AKH.rst:493
@@ -1071,7 +1074,7 @@ msgid "When Doomed Dissenter dies, create a 2/2 black Zombie creature token."
 msgstr "Kiedy ten stwór umrze, stwórz żeton czarnego stwora Zombi 2/2."
 
 #: ../../AKH.rst:500
-msgid "Dread Wanderer"
+msgid ":mtgtip:`Dread Wanderer`"
 msgstr ""
 
 #: ../../AKH.rst:497
@@ -1086,11 +1089,11 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:502
-msgid "Dune Beetle"
+msgid ":mtgtip:`Dune Beetle`"
 msgstr ""
 
 #: ../../AKH.rst:508
-msgid "Faith of the Devoted"
+msgid ":mtgtip:`Faith of the Devoted`"
 msgstr ""
 
 #: ../../AKH.rst:507
@@ -1100,7 +1103,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:512
-msgid "Festering Mummy"
+msgid ":mtgtip:`Festering Mummy`"
 msgstr ""
 
 #: ../../AKH.rst:511
@@ -1109,7 +1112,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:516
-msgid "Final Reward"
+msgid ":mtgtip:`Final Reward`"
 msgstr ""
 
 #: ../../AKH.rst:515
@@ -1117,7 +1120,8 @@ msgid "Exile target creature."
 msgstr ""
 
 #: ../../AKH.rst:520
-msgid "Gravedigger"
+#, fuzzy
+msgid ":mtgtip:`Gravedigger`"
 msgstr "Gravedigger (Grabarz)"
 
 #: ../../AKH.rst:519
@@ -1129,7 +1133,7 @@ msgstr ""
 "stwora z twojego cmentarza do twojej ręki."
 
 #: ../../AKH.rst:524
-msgid "Grim Strider"
+msgid ":mtgtip:`Grim Strider`"
 msgstr ""
 
 #: ../../AKH.rst:523
@@ -1137,7 +1141,7 @@ msgid "Grim Strider gets -1/-1 for each card in your hand."
 msgstr ""
 
 #: ../../AKH.rst:530
-msgid "Horror of the Broken Lands"
+msgid ":mtgtip:`Horror of the Broken Lands`"
 msgstr ""
 
 #: ../../AKH.rst:527
@@ -1151,7 +1155,7 @@ msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_b| (|mana_b|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:534
-msgid "Lay Bare the Heart"
+msgid ":mtgtip:`Lay Bare the Heart`"
 msgstr ""
 
 #: ../../AKH.rst:533
@@ -1161,7 +1165,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:542
-msgid "Liliana, Death's Majesty"
+msgid ":mtgtip:`Liliana, Death's Majesty`"
 msgstr ""
 
 #: ../../AKH.rst:537
@@ -1181,7 +1185,7 @@ msgid "−7: Destroy all non-Zombie creatures."
 msgstr ""
 
 #: ../../AKH.rst:548
-msgid "Liliana's Mastery"
+msgid ":mtgtip:`Liliana's Mastery`"
 msgstr ""
 
 #: ../../AKH.rst:545
@@ -1195,7 +1199,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:554
-msgid "Lord of the Accursed"
+msgid ":mtgtip:`Lord of the Accursed`"
 msgstr ""
 
 #: ../../AKH.rst:551
@@ -1207,7 +1211,7 @@ msgid "|mana_1|\\ |mana_b|, |tap|: All Zombies gain menace until end of turn."
 msgstr ""
 
 #: ../../AKH.rst:558
-msgid "Miasmic Mummy"
+msgid ":mtgtip:`Miasmic Mummy`"
 msgstr ""
 
 #: ../../AKH.rst:557
@@ -1215,7 +1219,7 @@ msgid "When Miasmic Mummy enters the battlefield, each player discards a card."
 msgstr ""
 
 #: ../../AKH.rst:562
-msgid "Nest of Scarabs"
+msgid ":mtgtip:`Nest of Scarabs`"
 msgstr ""
 
 #: ../../AKH.rst:561
@@ -1225,7 +1229,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:566
-msgid "Painful Lesson"
+msgid ":mtgtip:`Painful Lesson`"
 msgstr ""
 
 #: ../../AKH.rst:565
@@ -1233,7 +1237,7 @@ msgid "Target player draws two cards and loses 2 life."
 msgstr "Wskazany gracz dobiera dwie karty i traci 2 życia."
 
 #: ../../AKH.rst:570
-msgid "Pitiless Vizier"
+msgid ":mtgtip:`Pitiless Vizier`"
 msgstr ""
 
 #: ../../AKH.rst:569
@@ -1245,7 +1249,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:578
-msgid "Plague Belcher"
+msgid ":mtgtip:`Plague Belcher`"
 msgstr ""
 
 #: ../../AKH.rst:573 ../../AKH.rst:717
@@ -1263,7 +1267,7 @@ msgid "Whenever another Zombie you control dies, each opponent loses 1 life."
 msgstr ""
 
 #: ../../AKH.rst:582
-msgid "Ruthless Sniper"
+msgid ":mtgtip:`Ruthless Sniper`"
 msgstr ""
 
 #: ../../AKH.rst:581
@@ -1273,7 +1277,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:588
-msgid "Scarab Feast"
+msgid ":mtgtip:`Scarab Feast`"
 msgstr ""
 
 #: ../../AKH.rst:585
@@ -1281,7 +1285,7 @@ msgid "Exile up to three target cards from a single graveyard."
 msgstr ""
 
 #: ../../AKH.rst:592
-msgid "Shadow of the Grave"
+msgid ":mtgtip:`Shadow of the Grave`"
 msgstr ""
 
 #: ../../AKH.rst:591
@@ -1291,7 +1295,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:598
-msgid "Soulstinger"
+msgid ":mtgtip:`Soulstinger`"
 msgstr ""
 
 #: ../../AKH.rst:595
@@ -1307,7 +1311,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:602
-msgid "Splendid Agony"
+msgid ":mtgtip:`Splendid Agony`"
 msgstr ""
 
 #: ../../AKH.rst:601
@@ -1315,7 +1319,7 @@ msgid "Distribute two -1/-1 counters among one or two target creatures."
 msgstr ""
 
 #: ../../AKH.rst:610
-msgid "Stir the Sands"
+msgid ":mtgtip:`Stir the Sands`"
 msgstr ""
 
 #: ../../AKH.rst:605
@@ -1337,7 +1341,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:614
-msgid "Supernatural Stamina"
+msgid ":mtgtip:`Supernatural Stamina`"
 msgstr ""
 
 #: ../../AKH.rst:613
@@ -1350,7 +1354,7 @@ msgstr ""
 "\""
 
 #: ../../AKH.rst:620
-msgid "Trespasser's Curse"
+msgid ":mtgtip:`Trespasser's Curse`"
 msgstr ""
 
 #: ../../AKH.rst:619
@@ -1360,7 +1364,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:626
-msgid "Trial of Ambition"
+msgid ":mtgtip:`Trial of Ambition`"
 msgstr ""
 
 #: ../../AKH.rst:623
@@ -1376,7 +1380,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:632
-msgid "Unburden"
+msgid ":mtgtip:`Unburden`"
 msgstr ""
 
 #: ../../AKH.rst:629
@@ -1384,18 +1388,18 @@ msgid "Target player discards two cards."
 msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../AKH.rst:638
-msgid "Wander in Death"
+msgid ":mtgtip:`Wander in Death`"
 msgstr ""
 
 #: ../../AKH.rst:635
 msgid ""
 "Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
-"Zwróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do twojej "
-"ręki."
+"Przywróć co najwyżej dwie wskazany karty stworów z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../AKH.rst:644
-msgid "Wasteland Scorpion"
+msgid ":mtgtip:`Wasteland Scorpion`"
 msgstr ""
 
 #: ../../AKH.rst:641
@@ -1403,7 +1407,7 @@ msgid "Deathtouch"
 msgstr "Dotyk śmierci"
 
 #: ../../AKH.rst:650
-msgid "Ahn-Crop Crasher"
+msgid ":mtgtip:`Ahn-Crop Crasher`"
 msgstr ""
 
 #: ../../AKH.rst:647 ../../AKH.rst:881
@@ -1418,7 +1422,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:656
-msgid "Battlefield Scavenger"
+msgid ":mtgtip:`Battlefield Scavenger`"
 msgstr ""
 
 #: ../../AKH.rst:653
@@ -1434,7 +1438,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:660
-msgid "Blazing Volley"
+msgid ":mtgtip:`Blazing Volley`"
 msgstr ""
 
 #: ../../AKH.rst:659
@@ -1442,7 +1446,7 @@ msgid "Blazing Volley deals 1 damage to each creature your opponents control."
 msgstr ""
 
 #: ../../AKH.rst:664
-msgid "Bloodlust Inciter"
+msgid ":mtgtip:`Bloodlust Inciter`"
 msgstr ""
 
 #: ../../AKH.rst:663
@@ -1450,7 +1454,7 @@ msgid "|tap|: Target creature gains haste until end of turn."
 msgstr ""
 
 #: ../../AKH.rst:668
-msgid "Bloodrage Brawler"
+msgid ":mtgtip:`Bloodrage Brawler`"
 msgstr ""
 
 #: ../../AKH.rst:667
@@ -1458,7 +1462,7 @@ msgid "When Bloodrage Brawler enters the battlefield, discard a card."
 msgstr ""
 
 #: ../../AKH.rst:672
-msgid "Brute Strength"
+msgid ":mtgtip:`Brute Strength`"
 msgstr ""
 
 #: ../../AKH.rst:671
@@ -1466,7 +1470,7 @@ msgid "Target creature gets +3/+1 and gains trample until end of turn."
 msgstr ""
 
 #: ../../AKH.rst:676
-msgid "By Force"
+msgid ":mtgtip:`By Force`"
 msgstr ""
 
 #: ../../AKH.rst:675
@@ -1474,7 +1478,7 @@ msgid "Destroy X target artifacts."
 msgstr ""
 
 #: ../../AKH.rst:684
-msgid "Cartouche of Zeal"
+msgid ":mtgtip:`Cartouche of Zeal`"
 msgstr ""
 
 #: ../../AKH.rst:681
@@ -1488,7 +1492,7 @@ msgid "Enchanted creature gets +1/+1 and has haste."
 msgstr ""
 
 #: ../../AKH.rst:688
-msgid "Combat Celebrant"
+msgid ":mtgtip:`Combat Celebrant`"
 msgstr ""
 
 #: ../../AKH.rst:687
@@ -1500,7 +1504,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:694
-msgid "Consuming Fervor"
+msgid ":mtgtip:`Consuming Fervor`"
 msgstr ""
 
 #: ../../AKH.rst:693
@@ -1510,7 +1514,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:702
-msgid "Deem Worthy"
+msgid ":mtgtip:`Deem Worthy`"
 msgstr ""
 
 #: ../../AKH.rst:697
@@ -1532,7 +1536,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:706
-msgid "Desert Cerodon"
+msgid ":mtgtip:`Desert Cerodon`"
 msgstr ""
 
 #: ../../AKH.rst:705
@@ -1540,7 +1544,8 @@ msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_r| (|mana_r|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:710
-msgid "Electrify"
+#, fuzzy
+msgid ":mtgtip:`Electrify`"
 msgstr "Electrify"
 
 #: ../../AKH.rst:709
@@ -1548,7 +1553,7 @@ msgid "Electrify deals 4 damage to target creature."
 msgstr "Ten czar zadaje 4 obrażenia wskazanemu stworowi."
 
 #: ../../AKH.rst:714
-msgid "Emberhorn Minotaur"
+msgid ":mtgtip:`Emberhorn Minotaur`"
 msgstr ""
 
 #: ../../AKH.rst:713
@@ -1559,7 +1564,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:720
-msgid "Flameblade Adept"
+msgid ":mtgtip:`Flameblade Adept`"
 msgstr ""
 
 #: ../../AKH.rst:719
@@ -1569,7 +1574,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:726
-msgid "Fling"
+msgid ":mtgtip:`Fling`"
 msgstr ""
 
 #: ../../AKH.rst:723
@@ -1582,7 +1587,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:732
-msgid "Glorious End"
+msgid ":mtgtip:`Glorious End`"
 msgstr ""
 
 #: ../../AKH.rst:729
@@ -1597,7 +1602,7 @@ msgid "At the beginning of your next end step, you lose the game."
 msgstr ""
 
 #: ../../AKH.rst:738
-msgid "Glorybringer"
+msgid ":mtgtip:`Glorybringer`"
 msgstr ""
 
 #: ../../AKH.rst:735
@@ -1612,7 +1617,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:742
-msgid "Harsh Mentor"
+msgid ":mtgtip:`Harsh Mentor`"
 msgstr ""
 
 #: ../../AKH.rst:741
@@ -1623,7 +1628,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:750
-msgid "Hazoret the Fervent"
+msgid ":mtgtip:`Hazoret the Fervent`"
 msgstr ""
 
 #: ../../AKH.rst:745
@@ -1642,7 +1647,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:754
-msgid "Hazoret's Favor"
+msgid ":mtgtip:`Hazoret's Favor`"
 msgstr ""
 
 #: ../../AKH.rst:753
@@ -1653,7 +1658,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:760
-msgid "Heart-Piercer Manticore"
+msgid ":mtgtip:`Heart-Piercer Manticore`"
 msgstr ""
 
 #: ../../AKH.rst:757
@@ -1671,11 +1676,11 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:762
-msgid "Hyena Pack"
+msgid ":mtgtip:`Hyena Pack`"
 msgstr ""
 
 #: ../../AKH.rst:770
-msgid "Limits of Solidarity"
+msgid ":mtgtip:`Limits of Solidarity`"
 msgstr ""
 
 #: ../../AKH.rst:767
@@ -1685,7 +1690,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:774
-msgid "Magma Spray"
+msgid ":mtgtip:`Magma Spray`"
 msgstr ""
 
 #: ../../AKH.rst:773
@@ -1695,7 +1700,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:778
-msgid "Manticore of the Gauntlet"
+msgid ":mtgtip:`Manticore of the Gauntlet`"
 msgstr ""
 
 #: ../../AKH.rst:777
@@ -1706,7 +1711,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:784
-msgid "Minotaur Sureshot"
+msgid ":mtgtip:`Minotaur Sureshot`"
 msgstr ""
 
 #: ../../AKH.rst:781 ../../AKH.rst:905
@@ -1719,7 +1724,7 @@ msgid "|mana_1|\\ |mana_r|: Minotaur Sureshot gets +1/+0 until end of turn."
 msgstr "Atakujące stwory dostają +2/+0 do końca tury."
 
 #: ../../AKH.rst:790
-msgid "Nef-Crop Entangler"
+msgid ":mtgtip:`Nef-Crop Entangler`"
 msgstr ""
 
 #: ../../AKH.rst:787 ../../AKH.rst:937 ../../AKH.rst:1087
@@ -1734,7 +1739,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:794
-msgid "Nimble-Blade Khenra"
+msgid ":mtgtip:`Nimble-Blade Khenra`"
 msgstr ""
 
 #: ../../AKH.rst:793
@@ -1746,7 +1751,7 @@ msgstr ""
 "do końca tury.)"
 
 #: ../../AKH.rst:798
-msgid "Pathmaker Initiate"
+msgid ":mtgtip:`Pathmaker Initiate`"
 msgstr ""
 
 #: ../../AKH.rst:797
@@ -1754,7 +1759,7 @@ msgid "|tap|: Target creature with power 2 or less can't be blocked this turn."
 msgstr ""
 
 #: ../../AKH.rst:804
-msgid "Pursue Glory"
+msgid ":mtgtip:`Pursue Glory`"
 msgstr ""
 
 #: ../../AKH.rst:801
@@ -1762,7 +1767,7 @@ msgid "Attacking creatures get +2/+0 until end of turn."
 msgstr "Atakujące stwory dostają +2/+0 do końca tury."
 
 #: ../../AKH.rst:810
-msgid "Soul-Scar Mage"
+msgid ":mtgtip:`Soul-Scar Mage`"
 msgstr ""
 
 #: ../../AKH.rst:807
@@ -1776,7 +1781,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:816
-msgid "Sweltering Suns"
+msgid ":mtgtip:`Sweltering Suns`"
 msgstr ""
 
 #: ../../AKH.rst:813
@@ -1788,7 +1793,7 @@ msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_3| (|mana_3|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:820
-msgid "Thresher Lizard"
+msgid ":mtgtip:`Thresher Lizard`"
 msgstr ""
 
 #: ../../AKH.rst:819
@@ -1797,7 +1802,8 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:826
-msgid "Tormenting Voice"
+#, fuzzy
+msgid ":mtgtip:`Tormenting Voice`"
 msgstr "Tormenting Voice (Dręczący Głos)"
 
 #: ../../AKH.rst:823
@@ -1805,7 +1811,7 @@ msgid "As an additional cost to cast this spell, discard a card."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru, odrzuć kartę."
 
 #: ../../AKH.rst:832
-msgid "Trial of Zeal"
+msgid ":mtgtip:`Trial of Zeal`"
 msgstr ""
 
 #: ../../AKH.rst:829
@@ -1820,7 +1826,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:838
-msgid "Trueheart Twins"
+msgid ":mtgtip:`Trueheart Twins`"
 msgstr ""
 
 #: ../../AKH.rst:835
@@ -1836,7 +1842,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:844
-msgid "Violent Impact"
+msgid ":mtgtip:`Violent Impact`"
 msgstr ""
 
 #: ../../AKH.rst:841
@@ -1844,7 +1850,7 @@ msgid "Destroy target artifact or land."
 msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../AKH.rst:848
-msgid "Warfire Javelineer"
+msgid ":mtgtip:`Warfire Javelineer`"
 msgstr ""
 
 #: ../../AKH.rst:847
@@ -1855,7 +1861,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:852
-msgid "Benefaction of Rhonas"
+msgid ":mtgtip:`Benefaction of Rhonas`"
 msgstr ""
 
 #: ../../AKH.rst:851
@@ -1866,7 +1872,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:856
-msgid "Bitterblade Warrior"
+msgid ":mtgtip:`Bitterblade Warrior`"
 msgstr ""
 
 #: ../../AKH.rst:855
@@ -1877,7 +1883,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:864
-msgid "Cartouche of Strength"
+msgid ":mtgtip:`Cartouche of Strength`"
 msgstr ""
 
 #: ../../AKH.rst:861
@@ -1892,7 +1898,7 @@ msgid "Enchanted creature gets +1/+1 and has trample."
 msgstr ""
 
 #: ../../AKH.rst:868
-msgid "Champion of Rhonas"
+msgid ":mtgtip:`Champion of Rhonas`"
 msgstr ""
 
 #: ../../AKH.rst:867
@@ -1903,7 +1909,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:874
-msgid "Channeler Initiate"
+msgid ":mtgtip:`Channeler Initiate`"
 msgstr ""
 
 #: ../../AKH.rst:871
@@ -1919,11 +1925,11 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:876
-msgid "Colossapede"
+msgid ":mtgtip:`Colossapede`"
 msgstr ""
 
 #: ../../AKH.rst:884
-msgid "Crocodile of the Crossing"
+msgid ":mtgtip:`Crocodile of the Crossing`"
 msgstr ""
 
 #: ../../AKH.rst:883
@@ -1933,7 +1939,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:890
-msgid "Defiant Greatmaw"
+msgid ":mtgtip:`Defiant Greatmaw`"
 msgstr ""
 
 #: ../../AKH.rst:887
@@ -1949,7 +1955,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:896
-msgid "Dissenter's Deliverance"
+msgid ":mtgtip:`Dissenter's Deliverance`"
 msgstr ""
 
 #: ../../AKH.rst:893
@@ -1961,7 +1967,7 @@ msgid "Cycling |mana_g| (|mana_g|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_g| (|mana_g|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../AKH.rst:902
-msgid "Exemplar of Strength"
+msgid ":mtgtip:`Exemplar of Strength`"
 msgstr ""
 
 #: ../../AKH.rst:899
@@ -1977,11 +1983,13 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:906
-msgid "Giant Spider"
+#, fuzzy
+msgid ":mtgtip:`Giant Spider`"
 msgstr "Giant Spider (Gigantyczny Pająk)"
 
 #: ../../AKH.rst:914
-msgid "Gift of Paradise"
+#, fuzzy
+msgid ":mtgtip:`Gift of Paradise`"
 msgstr "Gift of Paradise (Dar Raju)"
 
 #: ../../AKH.rst:909
@@ -1999,7 +2007,7 @@ msgstr ""
 "kolorze.\""
 
 #: ../../AKH.rst:920
-msgid "Greater Sandwurm"
+msgid ":mtgtip:`Greater Sandwurm`"
 msgstr ""
 
 #: ../../AKH.rst:917
@@ -2007,7 +2015,7 @@ msgid "Greater Sandwurm can't be blocked by creatures with power 2 or less."
 msgstr ""
 
 #: ../../AKH.rst:924
-msgid "Hapatra's Mark"
+msgid ":mtgtip:`Hapatra's Mark`"
 msgstr ""
 
 #: ../../AKH.rst:923
@@ -2018,7 +2026,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:928
-msgid "Harvest Season"
+msgid ":mtgtip:`Harvest Season`"
 msgstr ""
 
 #: ../../AKH.rst:927
@@ -2029,7 +2037,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:934
-msgid "Haze of Pollen"
+msgid ":mtgtip:`Haze of Pollen`"
 msgstr ""
 
 #: ../../AKH.rst:931
@@ -2039,7 +2047,7 @@ msgstr ""
 "turze."
 
 #: ../../AKH.rst:940
-msgid "Honored Hydra"
+msgid ":mtgtip:`Honored Hydra`"
 msgstr ""
 
 #: ../../AKH.rst:939
@@ -2050,7 +2058,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:944
-msgid "Hooded Brawler"
+msgid ":mtgtip:`Hooded Brawler`"
 msgstr ""
 
 #: ../../AKH.rst:943
@@ -2060,7 +2068,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:948
-msgid "Initiate's Companion"
+msgid ":mtgtip:`Initiate's Companion`"
 msgstr ""
 
 #: ../../AKH.rst:947
@@ -2070,7 +2078,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:954
-msgid "Manglehorn"
+msgid ":mtgtip:`Manglehorn`"
 msgstr ""
 
 #: ../../AKH.rst:951
@@ -2083,7 +2091,7 @@ msgid "Artifacts your opponents control enter the battlefield tapped."
 msgstr ""
 
 #: ../../AKH.rst:958
-msgid "Naga Vitalist"
+msgid ":mtgtip:`Naga Vitalist`"
 msgstr ""
 
 #: ../../AKH.rst:957
@@ -2091,7 +2099,7 @@ msgid "|tap|: Add one mana of any type that a land you control could produce."
 msgstr ""
 
 #: ../../AKH.rst:962
-msgid "Oashra Cultivator"
+msgid ":mtgtip:`Oashra Cultivator`"
 msgstr ""
 
 #: ../../AKH.rst:961
@@ -2105,7 +2113,7 @@ msgstr ""
 "umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:966
-msgid "Ornery Kudu"
+msgid ":mtgtip:`Ornery Kudu`"
 msgstr ""
 
 #: ../../AKH.rst:965
@@ -2115,11 +2123,11 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:970
-msgid "Pouncing Cheetah"
+msgid ":mtgtip:`Pouncing Cheetah`"
 msgstr ""
 
 #: ../../AKH.rst:976
-msgid "Prowling Serpopard"
+msgid ":mtgtip:`Prowling Serpopard`"
 msgstr ""
 
 #: ../../AKH.rst:973
@@ -2131,7 +2139,7 @@ msgid "Creature spells you control can't be countered."
 msgstr "Władane przez ciebie czary stworów nie mogą być skontrowane."
 
 #: ../../AKH.rst:980
-msgid "Quarry Hauler"
+msgid ":mtgtip:`Quarry Hauler`"
 msgstr ""
 
 #: ../../AKH.rst:979
@@ -2142,7 +2150,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:988
-msgid "Rhonas the Indomitable"
+msgid ":mtgtip:`Rhonas the Indomitable`"
 msgstr ""
 
 #: ../../AKH.rst:983
@@ -2163,7 +2171,7 @@ msgid ""
 msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
 
 #: ../../AKH.rst:994
-msgid "Sandwurm Convergence"
+msgid ":mtgtip:`Sandwurm Convergence`"
 msgstr ""
 
 #: ../../AKH.rst:991
@@ -2176,7 +2184,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:998
-msgid "Scaled Behemoth"
+msgid ":mtgtip:`Scaled Behemoth`"
 msgstr ""
 
 #: ../../AKH.rst:997
@@ -2188,7 +2196,7 @@ msgstr ""
 "władane przez twoich przeciwników.)"
 
 #: ../../AKH.rst:1002
-msgid "Shed Weakness"
+msgid ":mtgtip:`Shed Weakness`"
 msgstr ""
 
 #: ../../AKH.rst:1001
@@ -2198,7 +2206,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1008
-msgid "Shefet Monitor"
+msgid ":mtgtip:`Shefet Monitor`"
 msgstr ""
 
 #: ../../AKH.rst:1005
@@ -2218,7 +2226,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1014
-msgid "Sixth Sense"
+msgid ":mtgtip:`Sixth Sense`"
 msgstr ""
 
 #: ../../AKH.rst:1013
@@ -2228,7 +2236,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1018
-msgid "Spidery Grasp"
+msgid ":mtgtip:`Spidery Grasp`"
 msgstr ""
 
 #: ../../AKH.rst:1017
@@ -2238,7 +2246,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1024
-msgid "Stinging Shot"
+msgid ":mtgtip:`Stinging Shot`"
 msgstr ""
 
 #: ../../AKH.rst:1021
@@ -2246,7 +2254,7 @@ msgid "Put three -1/-1 counters on target creature with flying."
 msgstr ""
 
 #: ../../AKH.rst:1028
-msgid "Synchronized Strike"
+msgid ":mtgtip:`Synchronized Strike`"
 msgstr ""
 
 #: ../../AKH.rst:1027
@@ -2255,7 +2263,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1034
-msgid "Trial of Strength"
+msgid ":mtgtip:`Trial of Strength`"
 msgstr ""
 
 #: ../../AKH.rst:1031
@@ -2271,12 +2279,12 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1042
-msgid "Vizier of the Menagerie"
+msgid ":mtgtip:`Vizier of the Menagerie`"
 msgstr ""
 
 #: ../../AKH.rst:1037
-msgid ""
-"You may look at the top card of your library. (You may do this at any time.)"
+#, fuzzy
+msgid "You may look at the top card of your library any time."
 msgstr ""
 "Możesz patrzeć na wierzchnią kartę twojej biblioteki. (Możesz to robić w "
 "dowolnym momencie.)"
@@ -2292,7 +2300,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1046
-msgid "Watchful Naga"
+msgid ":mtgtip:`Watchful Naga`"
 msgstr ""
 
 #: ../../AKH.rst:1045
@@ -2302,7 +2310,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1050
-msgid "Ahn-Crop Champion"
+msgid ":mtgtip:`Ahn-Crop Champion`"
 msgstr ""
 
 #: ../../AKH.rst:1049
@@ -2313,7 +2321,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1058
-msgid "Aven Wind Guide"
+msgid ":mtgtip:`Aven Wind Guide`"
 msgstr ""
 
 #: ../../AKH.rst:1055
@@ -2329,7 +2337,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1062
-msgid "Bounty of the Luxa"
+msgid ":mtgtip:`Bounty of the Luxa`"
 msgstr ""
 
 #: ../../AKH.rst:1061
@@ -2341,7 +2349,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1068
-msgid "Decimator Beetle"
+msgid ":mtgtip:`Decimator Beetle`"
 msgstr ""
 
 #: ../../AKH.rst:1065
@@ -2358,7 +2366,8 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1074
-msgid "Enigma Drake"
+#, fuzzy
+msgid ":mtgtip:`Enigma Drake`"
 msgstr "Enigma Drake"
 
 #: ../../AKH.rst:1073
@@ -2370,7 +2379,7 @@ msgstr ""
 "cmentarzu."
 
 #: ../../AKH.rst:1080
-msgid "Hapatra, Vizier of Poisons"
+msgid ":mtgtip:`Hapatra, Vizier of Poisons`"
 msgstr ""
 
 #: ../../AKH.rst:1077
@@ -2386,7 +2395,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1084
-msgid "Honored Crop-Captain"
+msgid ":mtgtip:`Honored Crop-Captain`"
 msgstr ""
 
 #: ../../AKH.rst:1083
@@ -2396,7 +2405,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1090
-msgid "Khenra Charioteer"
+msgid ":mtgtip:`Khenra Charioteer`"
 msgstr ""
 
 #: ../../AKH.rst:1089
@@ -2404,7 +2413,7 @@ msgid "Other creatures you control have trample."
 msgstr "Inne stwory pod twoim władaniem mają tratowanie."
 
 #: ../../AKH.rst:1094
-msgid "Merciless Javelineer"
+msgid ":mtgtip:`Merciless Javelineer`"
 msgstr ""
 
 #: ../../AKH.rst:1093
@@ -2414,7 +2423,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1104
-msgid "Neheb, the Worthy"
+msgid ":mtgtip:`Neheb, the Worthy`"
 msgstr ""
 
 #: ../../AKH.rst:1097
@@ -2438,7 +2447,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1112
-msgid "Nissa, Steward of Elements"
+msgid ":mtgtip:`Nissa, Steward of Elements`"
 msgstr ""
 
 #: ../../AKH.rst:1107
@@ -2460,7 +2469,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1122
-msgid "Samut, Voice of Dissent"
+msgid ":mtgtip:`Samut, Voice of Dissent`"
 msgstr ""
 
 #: ../../AKH.rst:1117
@@ -2476,7 +2485,7 @@ msgid "|mana_w|, |tap|: Untap another target creature."
 msgstr ""
 
 #: ../../AKH.rst:1128
-msgid "Shadowstorm Vizier"
+msgid ":mtgtip:`Shadowstorm Vizier`"
 msgstr ""
 
 #: ../../AKH.rst:1127
@@ -2486,7 +2495,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1134
-msgid "Temmet, Vizier of Naktamun"
+msgid ":mtgtip:`Temmet, Vizier of Naktamun`"
 msgstr ""
 
 #: ../../AKH.rst:1131
@@ -2504,7 +2513,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1138
-msgid "Wayward Servant"
+msgid ":mtgtip:`Wayward Servant`"
 msgstr ""
 
 #: ../../AKH.rst:1137
@@ -2514,7 +2523,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1142
-msgid "Weaver of Currents"
+msgid ":mtgtip:`Weaver of Currents`"
 msgstr ""
 
 #: ../../AKH.rst:1141
@@ -2522,180 +2531,184 @@ msgstr ""
 msgid "|tap|: Add |colorless|\\ |colorless|."
 msgstr "|tap|: Dostajesz |colorless|."
 
-#: ../../AKH.rst:1146
-msgid "Dusk"
+#: ../../AKH.rst:1148
+msgid ":mtgtip:`Dawn`"
 msgstr ""
 
-#: ../../AKH.rst:1145
-msgid "Destroy all creatures with power 3 or greater."
-msgstr ""
-
-#: ../../AKH.rst:1152
-msgid "Dawn"
-msgstr ""
-
-#: ../../AKH.rst:1149 ../../AKH.rst:1159 ../../AKH.rst:1169 ../../AKH.rst:1179
-#: ../../AKH.rst:1189 ../../AKH.rst:1199 ../../AKH.rst:1211 ../../AKH.rst:1221
-#: ../../AKH.rst:1231 ../../AKH.rst:1241 ../../AKH.rst:1251 ../../AKH.rst:1261
-#: ../../AKH.rst:1271 ../../AKH.rst:1281 ../../AKH.rst:1291
+#: ../../AKH.rst:1145 ../../AKH.rst:1155 ../../AKH.rst:1165 ../../AKH.rst:1175
+#: ../../AKH.rst:1185 ../../AKH.rst:1195 ../../AKH.rst:1207 ../../AKH.rst:1217
+#: ../../AKH.rst:1227 ../../AKH.rst:1237 ../../AKH.rst:1247 ../../AKH.rst:1257
+#: ../../AKH.rst:1267 ../../AKH.rst:1277 ../../AKH.rst:1287
 msgid "Aftermath (Cast this spell only from your graveyard. Then exile it.)"
 msgstr ""
 
-#: ../../AKH.rst:1151
+#: ../../AKH.rst:1147
 msgid ""
 "Return all creature cards with power 2 or less from your graveyard to your "
 "hand."
 msgstr ""
 
-#: ../../AKH.rst:1156
-msgid "Commit"
+#: ../../AKH.rst:1152
+msgid ":mtgtip:`Dusk`"
 msgstr ""
 
-#: ../../AKH.rst:1155
-msgid ""
-"Put target spell or nonland permanent into its owner's library second from "
-"the top."
+#: ../../AKH.rst:1151
+msgid "Destroy all creatures with power 3 or greater."
 msgstr ""
 
-#: ../../AKH.rst:1162
-msgid "Memory"
+#: ../../AKH.rst:1158
+msgid ":mtgtip:`Memory`"
 msgstr ""
 
-#: ../../AKH.rst:1161
+#: ../../AKH.rst:1157
 msgid ""
 "Each player shuffles their hand and graveyard into their library, then draws "
 "seven cards."
 msgstr ""
 
-#: ../../AKH.rst:1166
-msgid "Never"
+#: ../../AKH.rst:1162
+msgid ":mtgtip:`Commit`"
 msgstr ""
 
-#: ../../AKH.rst:1165
-msgid "Destroy target creature or planeswalker."
-msgstr "Zniszcz wskazanego stwora lub wędrowca."
-
-#: ../../AKH.rst:1172
-msgid "Return"
+#: ../../AKH.rst:1161
+msgid ""
+"Put target spell or nonland permanent into its owner's library second from "
+"the top."
 msgstr ""
 
-#: ../../AKH.rst:1171
+#: ../../AKH.rst:1168
+msgid ":mtgtip:`Return`"
+msgstr ""
+
+#: ../../AKH.rst:1167
 msgid ""
 "Exile target card from a graveyard. Create a 2/2 black Zombie creature token."
 msgstr ""
 
-#: ../../AKH.rst:1176
-msgid "Insult"
+#: ../../AKH.rst:1172
+msgid ":mtgtip:`Never`"
 msgstr ""
 
-#: ../../AKH.rst:1175
-msgid ""
-"Damage can't be prevented this turn. If a source you control would deal "
-"damage this turn, it deals double that damage instead."
+#: ../../AKH.rst:1171
+msgid "Destroy target creature or planeswalker."
+msgstr "Zniszcz wskazanego stwora lub wędrowca."
+
+#: ../../AKH.rst:1178
+msgid ":mtgtip:`Injury`"
 msgstr ""
 
-#: ../../AKH.rst:1182
-msgid "Injury"
-msgstr ""
-
-#: ../../AKH.rst:1181
+#: ../../AKH.rst:1177
 msgid ""
 "Injury deals 2 damage to target creature and 2 damage to target player or "
 "planeswalker."
 msgstr ""
 
-#: ../../AKH.rst:1186
-msgid "Mouth"
+#: ../../AKH.rst:1182
+msgid ":mtgtip:`Insult`"
 msgstr ""
 
-#: ../../AKH.rst:1185
-msgid "Create a 3/3 green Hippo creature token."
+#: ../../AKH.rst:1181
+msgid ""
+"Damage can't be prevented this turn. If a source you control would deal "
+"damage this turn, it deals double that damage instead."
 msgstr ""
 
-#: ../../AKH.rst:1192
-msgid "Feed"
+#: ../../AKH.rst:1188
+msgid ":mtgtip:`Feed`"
 msgstr ""
 
-#: ../../AKH.rst:1191
+#: ../../AKH.rst:1187
 msgid "Draw a card for each creature you control with power 3 or greater."
 msgstr ""
 
-#: ../../AKH.rst:1196
-msgid "Start"
+#: ../../AKH.rst:1192
+msgid ":mtgtip:`Mouth`"
 msgstr ""
 
-#: ../../AKH.rst:1195
-msgid "Create two 1/1 white Warrior creature tokens with vigilance."
+#: ../../AKH.rst:1191
+msgid "Create a 3/3 green Hippo creature token."
 msgstr ""
 
-#: ../../AKH.rst:1204
-msgid "Finish"
+#: ../../AKH.rst:1200
+msgid ":mtgtip:`Finish`"
 msgstr ""
 
-#: ../../AKH.rst:1201
+#: ../../AKH.rst:1197
 msgid "As an additional cost to cast Finish, sacrifice a creature."
 msgstr ""
 
-#: ../../AKH.rst:1203
+#: ../../AKH.rst:1199
 msgid "Destroy target creature."
 msgstr "Zniszcz wskazanego stwora."
 
-#: ../../AKH.rst:1208
-msgid "Reduce"
+#: ../../AKH.rst:1204
+msgid ":mtgtip:`Start`"
 msgstr ""
 
-#: ../../AKH.rst:1207
-msgid "Counter target spell unless its controller pays |mana_3|."
+#: ../../AKH.rst:1203
+msgid "Create two 1/1 white Warrior creature tokens with vigilance."
 msgstr ""
 
-#: ../../AKH.rst:1214
-msgid "Rubble"
+#: ../../AKH.rst:1210
+msgid ":mtgtip:`Rubble`"
 msgstr ""
 
-#: ../../AKH.rst:1213
+#: ../../AKH.rst:1209
 msgid ""
 "Up to three target lands don't untap during their controller's next untap "
 "step."
 msgstr ""
 
-#: ../../AKH.rst:1218
-msgid "Destined"
+#: ../../AKH.rst:1214
+msgid ":mtgtip:`Reduce`"
 msgstr ""
 
-#: ../../AKH.rst:1217
-msgid "Target creature gets +1/+0 and gains indestructible until end of turn."
+#: ../../AKH.rst:1213
+msgid "Counter target spell unless its controller pays |mana_3|."
 msgstr ""
 
-#: ../../AKH.rst:1224
-msgid "Lead"
+#: ../../AKH.rst:1220
+msgid ":mtgtip:`Lead`"
 msgstr ""
 
-#: ../../AKH.rst:1223
+#: ../../AKH.rst:1219
 msgid "All creatures able to block target creature this turn do so."
 msgstr ""
 "Wszystkie stwory mogące zablokować wskazanego stwora w tej turze, robią to."
 
-#: ../../AKH.rst:1228
-msgid "Onward"
+#: ../../AKH.rst:1224
+msgid ":mtgtip:`Destined`"
 msgstr ""
 
-#: ../../AKH.rst:1227
-msgid "Target creature gets +X/+0 until end of turn, where X is its power."
+#: ../../AKH.rst:1223
+msgid "Target creature gets +1/+0 and gains indestructible until end of turn."
 msgstr ""
 
-#: ../../AKH.rst:1234
-msgid "Victory"
+#: ../../AKH.rst:1230
+msgid ":mtgtip:`Victory`"
 msgstr ""
 
-#: ../../AKH.rst:1233
+#: ../../AKH.rst:1229
 msgid "Target creature gains double strike until end of turn."
 msgstr ""
 
-#: ../../AKH.rst:1238
-msgid "Spring"
+#: ../../AKH.rst:1234
+msgid ":mtgtip:`Onward`"
 msgstr ""
 
-#: ../../AKH.rst:1237
+#: ../../AKH.rst:1233
+msgid "Target creature gets +X/+0 until end of turn, where X is its power."
+msgstr ""
+
+#: ../../AKH.rst:1240
+msgid ":mtgtip:`Mind`"
+msgstr ""
+
+#: ../../AKH.rst:1244
+msgid ":mtgtip:`Spring`"
+msgstr ""
+
+#: ../../AKH.rst:1243
 msgid ""
 "Search your library for a basic land card, put it onto the battlefield "
 "tapped, then shuffle your library."
@@ -2703,98 +2716,94 @@ msgstr ""
 "Poszukaj w twojej bibliotece karty bazowego lądu, umieść ją przekręconą na "
 "polu walki, następnie przetasuj twoją bibliotekę."
 
-#: ../../AKH.rst:1244
-msgid "Mind"
+#: ../../AKH.rst:1250
+msgid ":mtgtip:`Fight`"
 msgstr ""
 
-#: ../../AKH.rst:1248
-msgid "Prepare"
-msgstr ""
-
-#: ../../AKH.rst:1247
-msgid ""
-"Untap target creature. It gets +2/+2 and gains lifelink until end of turn."
-msgstr ""
-
-#: ../../AKH.rst:1254
-msgid "Fight"
-msgstr ""
-
-#: ../../AKH.rst:1253
+#: ../../AKH.rst:1249
 msgid ""
 "Target creature you control fights target creature an opponent controls."
 msgstr ""
 
-#: ../../AKH.rst:1258
-msgid "Failure"
+#: ../../AKH.rst:1254
+msgid ":mtgtip:`Prepare`"
 msgstr ""
 
-#: ../../AKH.rst:1257
-msgid "Return target spell to its owner's hand."
+#: ../../AKH.rst:1253
+msgid ""
+"Untap target creature. It gets +2/+2 and gains lifelink until end of turn."
 msgstr ""
 
-#: ../../AKH.rst:1264
-msgid "Comply"
+#: ../../AKH.rst:1260
+msgid ":mtgtip:`Comply`"
 msgstr ""
 
-#: ../../AKH.rst:1263
+#: ../../AKH.rst:1259
 msgid ""
 "Choose a card name. Until your next turn, your opponents can't cast spells "
 "with the chosen name."
 msgstr ""
 
-#: ../../AKH.rst:1268
-msgid "Rags"
+#: ../../AKH.rst:1264
+msgid ":mtgtip:`Failure`"
 msgstr ""
 
-#: ../../AKH.rst:1267
-msgid "All creatures get -2/-2 until end of turn."
+#: ../../AKH.rst:1263
+msgid "Return target spell to its owner's hand."
 msgstr ""
 
-#: ../../AKH.rst:1274
-msgid "Riches"
+#: ../../AKH.rst:1270
+msgid ":mtgtip:`Riches`"
 msgstr ""
 
-#: ../../AKH.rst:1273
+#: ../../AKH.rst:1269
 msgid ""
 "Each opponent chooses a creature they control. You gain control of those "
 "creatures."
 msgstr ""
 
-#: ../../AKH.rst:1278
-msgid "Cut"
+#: ../../AKH.rst:1274
+msgid ":mtgtip:`Rags`"
 msgstr ""
 
-#: ../../AKH.rst:1277
-msgid "Cut deals 4 damage to target creature."
+#: ../../AKH.rst:1273
+msgid "All creatures get -2/-2 until end of turn."
 msgstr ""
 
-#: ../../AKH.rst:1284
-msgid "Ribbons"
+#: ../../AKH.rst:1280
+msgid ":mtgtip:`Ribbons`"
 msgstr ""
 
-#: ../../AKH.rst:1283
+#: ../../AKH.rst:1279
 msgid "Each opponent loses X life."
 msgstr ""
 
-#: ../../AKH.rst:1288
-msgid "Heaven"
+#: ../../AKH.rst:1284
+msgid ":mtgtip:`Cut`"
 msgstr ""
 
-#: ../../AKH.rst:1287
-msgid "Heaven deals X damage to each creature with flying."
+#: ../../AKH.rst:1283
+msgid "Cut deals 4 damage to target creature."
 msgstr ""
 
-#: ../../AKH.rst:1294
-msgid "Earth"
+#: ../../AKH.rst:1290
+msgid ":mtgtip:`Earth`"
 msgstr ""
 
-#: ../../AKH.rst:1293
+#: ../../AKH.rst:1289
 msgid "Earth deals X damage to each creature without flying."
 msgstr ""
 
+#: ../../AKH.rst:1294
+msgid ":mtgtip:`Heaven`"
+msgstr ""
+
+#: ../../AKH.rst:1293
+msgid "Heaven deals X damage to each creature with flying."
+msgstr ""
+
 #: ../../AKH.rst:1300
-msgid "Bontu's Monument"
+msgid ":mtgtip:`Bontu's Monument`"
 msgstr ""
 
 #: ../../AKH.rst:1297
@@ -2808,7 +2817,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1306
-msgid "Edifice of Authority"
+msgid ":mtgtip:`Edifice of Authority`"
 msgstr ""
 
 #: ../../AKH.rst:1303
@@ -2825,7 +2834,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1312
-msgid "Embalmer's Tools"
+msgid ":mtgtip:`Embalmer's Tools`"
 msgstr ""
 
 #: ../../AKH.rst:1309
@@ -2841,7 +2850,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1318
-msgid "Gate to the Afterlife"
+msgid ":mtgtip:`Gate to the Afterlife`"
 msgstr ""
 
 #: ../../AKH.rst:1315
@@ -2859,7 +2868,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1324
-msgid "Hazoret's Monument"
+msgid ":mtgtip:`Hazoret's Monument`"
 msgstr ""
 
 #: ../../AKH.rst:1321
@@ -2873,7 +2882,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1330
-msgid "Honed Khopesh"
+msgid ":mtgtip:`Honed Khopesh`"
 msgstr ""
 
 #: ../../AKH.rst:1327
@@ -2889,7 +2898,7 @@ msgstr ""
 "Wyposażaj wyłącznie jako obrzęd.)"
 
 #: ../../AKH.rst:1336
-msgid "Kefnet's Monument"
+msgid ":mtgtip:`Kefnet's Monument`"
 msgstr ""
 
 #: ../../AKH.rst:1333
@@ -2903,7 +2912,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1342
-msgid "Luxa River Shrine"
+msgid ":mtgtip:`Luxa River Shrine`"
 msgstr ""
 
 #: ../../AKH.rst:1339
@@ -2918,7 +2927,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1348
-msgid "Oketra's Monument"
+msgid ":mtgtip:`Oketra's Monument`"
 msgstr ""
 
 #: ../../AKH.rst:1345
@@ -2932,7 +2941,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1354
-msgid "Oracle's Vault"
+msgid ":mtgtip:`Oracle's Vault`"
 msgstr ""
 
 #: ../../AKH.rst:1351
@@ -2949,7 +2958,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1360
-msgid "Pyramid of the Pantheon"
+msgid ":mtgtip:`Pyramid of the Pantheon`"
 msgstr ""
 
 #: ../../AKH.rst:1357
@@ -2965,7 +2974,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1366
-msgid "Rhonas's Monument"
+msgid ":mtgtip:`Rhonas's Monument`"
 msgstr ""
 
 #: ../../AKH.rst:1363
@@ -2979,7 +2988,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1370
-msgid "Throne of the God-Pharaoh"
+msgid ":mtgtip:`Throne of the God-Pharaoh`"
 msgstr ""
 
 #: ../../AKH.rst:1369
@@ -2989,7 +2998,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1374
-msgid "Watchers of the Dead"
+msgid ":mtgtip:`Watchers of the Dead`"
 msgstr ""
 
 #: ../../AKH.rst:1373
@@ -2999,7 +3008,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1382
-msgid "Canyon Slough"
+msgid ":mtgtip:`Canyon Slough`"
 msgstr ""
 
 #: ../../AKH.rst:1377
@@ -3011,7 +3020,7 @@ msgid "Canyon Slough enters the battlefield tapped."
 msgstr ""
 
 #: ../../AKH.rst:1390
-msgid "Cascading Cataracts"
+msgid ":mtgtip:`Cascading Cataracts`"
 msgstr ""
 
 #: ../../AKH.rst:1385
@@ -3028,7 +3037,7 @@ msgid "|mana_5|, |tap|: Add five mana in any combination of colors."
 msgstr ""
 
 #: ../../AKH.rst:1396
-msgid "Cradle of the Accursed"
+msgid ":mtgtip:`Cradle of the Accursed`"
 msgstr ""
 
 #: ../../AKH.rst:1395
@@ -3038,7 +3047,8 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1400
-msgid "Evolving Wilds"
+#, fuzzy
+msgid ":mtgtip:`Evolving Wilds`"
 msgstr "Evolving Wilds"
 
 #: ../../AKH.rst:1399
@@ -3050,7 +3060,7 @@ msgstr ""
 "umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../AKH.rst:1408
-msgid "Fetid Pools"
+msgid ":mtgtip:`Fetid Pools`"
 msgstr ""
 
 #: ../../AKH.rst:1403
@@ -3062,7 +3072,7 @@ msgid "Fetid Pools enters the battlefield tapped."
 msgstr ""
 
 #: ../../AKH.rst:1414
-msgid "Grasping Dunes"
+msgid ":mtgtip:`Grasping Dunes`"
 msgstr ""
 
 #: ../../AKH.rst:1413
@@ -3072,7 +3082,7 @@ msgid ""
 msgstr ""
 
 #: ../../AKH.rst:1422
-msgid "Irrigated Farmland"
+msgid ":mtgtip:`Irrigated Farmland`"
 msgstr ""
 
 #: ../../AKH.rst:1417
@@ -3084,7 +3094,7 @@ msgid "Irrigated Farmland enters the battlefield tapped."
 msgstr ""
 
 #: ../../AKH.rst:1428
-msgid "Painted Bluffs"
+msgid ":mtgtip:`Painted Bluffs`"
 msgstr ""
 
 #: ../../AKH.rst:1427
@@ -3092,7 +3102,7 @@ msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../AKH.rst:1436
-msgid "Scattered Groves"
+msgid ":mtgtip:`Scattered Groves`"
 msgstr ""
 
 #: ../../AKH.rst:1431
@@ -3104,7 +3114,7 @@ msgid "Scattered Groves enters the battlefield tapped."
 msgstr ""
 
 #: ../../AKH.rst:1444
-msgid "Sheltered Thicket"
+msgid ":mtgtip:`Sheltered Thicket`"
 msgstr ""
 
 #: ../../AKH.rst:1439
@@ -3116,7 +3126,7 @@ msgid "Sheltered Thicket enters the battlefield tapped."
 msgstr ""
 
 #: ../../AKH.rst:1450
-msgid "Sunscorched Desert"
+msgid ":mtgtip:`Sunscorched Desert`"
 msgstr ""
 
 #: ../../AKH.rst:1447
@@ -3125,243 +3135,295 @@ msgid ""
 "player or planeswalker."
 msgstr ""
 
-#: ../../AKH.rst:1452 ../../AKH.rst:1472 ../../AKH.rst:1476 ../../AKH.rst:1480
-msgid "Plains"
-msgstr "Plains (Równina)"
-
-#: ../../AKH.rst:1456 ../../AKH.rst:1484 ../../AKH.rst:1488 ../../AKH.rst:1492
-msgid "Island"
-msgstr "Island (Wyspa)"
-
-#: ../../AKH.rst:1460 ../../AKH.rst:1496 ../../AKH.rst:1500 ../../AKH.rst:1504
-msgid "Swamp"
-msgstr "Swamp (Bagno)"
-
-#: ../../AKH.rst:1464 ../../AKH.rst:1508 ../../AKH.rst:1512 ../../AKH.rst:1516
-msgid "Mountain"
-msgstr "Mountain (Góra)"
-
-#: ../../AKH.rst:1468 ../../AKH.rst:1520 ../../AKH.rst:1524 ../../AKH.rst:1528
-msgid "Forest"
-msgstr "Forest (Las)"
-
-#: ../../AKH.rst:1538
-msgid "Gideon, Martial Paragon"
+#: ../../AKH.rst:1454
+msgid ":mtgtip:`Plains`"
 msgstr ""
 
-#: ../../AKH.rst:1533
+#: ../../AKH.rst:1453
+#, fuzzy
+msgid "(|tap|: Add |mana_w|.)"
+msgstr "(|tap|: Dostajesz |mana_g| lub |mana_w|.)"
+
+#: ../../AKH.rst:1458
+msgid ":mtgtip:`Island`"
+msgstr ""
+
+#: ../../AKH.rst:1457
+#, fuzzy
+msgid "(|tap|: Add |mana_u|.)"
+msgstr "(|tap|: Dostajesz |mana_w| lub |mana_u|.)"
+
+#: ../../AKH.rst:1462
+msgid ":mtgtip:`Swamp`"
+msgstr ""
+
+#: ../../AKH.rst:1461
+#, fuzzy
+msgid "(|tap|: Add |mana_b|.)"
+msgstr "(|tap|: Dostajesz |mana_u| lub |mana_b|.)"
+
+#: ../../AKH.rst:1466
+#, fuzzy
+msgid ":mtgtip:`Mountain`"
+msgstr "Mountain (Góra)"
+
+#: ../../AKH.rst:1465
+#, fuzzy
+msgid "(|tap|: Add |mana_r|.)"
+msgstr "(|tap|: Dostajesz |mana_b| lub |mana_r|.)"
+
+#: ../../AKH.rst:1470
+msgid ":mtgtip:`Forest`"
+msgstr ""
+
+#: ../../AKH.rst:1469
+#, fuzzy
+msgid "(|tap|: Add |mana_g|.)"
+msgstr "(|tap|: Dostajesz |mana_r| lub |mana_g|.)"
+
+#: ../../AKH.rst:1478
+msgid ":mtgtip:`Gideon, Martial Paragon`"
+msgstr ""
+
+#: ../../AKH.rst:1473
 msgid ""
 "+2: Untap all creatures you control. Those creatures get +1/+1 until end of "
 "turn."
 msgstr ""
 
-#: ../../AKH.rst:1535
+#: ../../AKH.rst:1475
 msgid ""
 "0: Until end of turn, Gideon, Martial Paragon becomes a 5/5 Human Soldier "
 "creature with indestructible that's still a planeswalker. Prevent all damage "
 "that would be dealt to him this turn."
 msgstr ""
 
-#: ../../AKH.rst:1537
+#: ../../AKH.rst:1477
 msgid ""
 "−10: Creatures you control get +2/+2 until end of turn. Tap all creatures "
 "your opponents control."
 msgstr ""
 
-#: ../../AKH.rst:1544
-msgid "Companion of the Trials"
+#: ../../AKH.rst:1484
+msgid ":mtgtip:`Companion of the Trials`"
 msgstr ""
 
-#: ../../AKH.rst:1543
+#: ../../AKH.rst:1483
 msgid ""
 "|mana_1|\\ |mana_w|: Untap target creature. Activate this ability only if "
 "you control a Gideon planeswalker."
 msgstr ""
 
-#: ../../AKH.rst:1550
-msgid "Gideon's Resolve"
+#: ../../AKH.rst:1490
+msgid ":mtgtip:`Gideon's Resolve`"
 msgstr ""
 
-#: ../../AKH.rst:1547
+#: ../../AKH.rst:1487
 msgid ""
 "When Gideon's Resolve enters the battlefield, you may search your library "
 "and/or graveyard for a card named Gideon, Martial Paragon, reveal it, and "
 "put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
 
-#: ../../AKH.rst:1549
+#: ../../AKH.rst:1489
 msgid "Creatures you control get +1/+1."
 msgstr "Stwory pod twoim władaniem dostają +1/+1."
 
-#: ../../AKH.rst:1554
-msgid "Graceful Cat"
+#: ../../AKH.rst:1494
+msgid ":mtgtip:`Graceful Cat`"
 msgstr ""
 
-#: ../../AKH.rst:1553
+#: ../../AKH.rst:1493
 msgid "Whenever Graceful Cat attacks, it gets +1/+1 until end of turn."
 msgstr ""
 
-#: ../../AKH.rst:1560
-msgid "Stone Quarry"
+#: ../../AKH.rst:1500
+#, fuzzy
+msgid ":mtgtip:`Stone Quarry`"
 msgstr "Stone Quarry (Kamieniołom)"
 
-#: ../../AKH.rst:1557
+#: ../../AKH.rst:1497
 msgid "Stone Quarry enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
-#: ../../AKH.rst:1559
+#: ../../AKH.rst:1499
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
-#: ../../AKH.rst:1568
-msgid "Liliana, Death Wielder"
+#: ../../AKH.rst:1508
+msgid ":mtgtip:`Liliana, Death Wielder`"
 msgstr ""
 
-#: ../../AKH.rst:1563
+#: ../../AKH.rst:1503
 msgid "+2: Put a -1/-1 counter on up to one target creature."
 msgstr ""
 
-#: ../../AKH.rst:1565
+#: ../../AKH.rst:1505
 msgid "−3: Destroy target creature with a -1/-1 counter on it."
 msgstr ""
 
-#: ../../AKH.rst:1567
+#: ../../AKH.rst:1507
 msgid "−10: Return all creature cards from your graveyard to the battlefield."
 msgstr ""
 
-#: ../../AKH.rst:1572
-msgid "Desiccated Naga"
+#: ../../AKH.rst:1512
+msgid ":mtgtip:`Desiccated Naga`"
 msgstr ""
 
-#: ../../AKH.rst:1571
+#: ../../AKH.rst:1511
 msgid ""
 "|mana_3|\\ |mana_b|: Target opponent loses 2 life and you gain 2 life. "
 "Activate this ability only if you control a Liliana planeswalker."
 msgstr ""
 
-#: ../../AKH.rst:1576
-msgid "Liliana's Influence"
+#: ../../AKH.rst:1516
+msgid ":mtgtip:`Liliana's Influence`"
 msgstr ""
 
-#: ../../AKH.rst:1575
+#: ../../AKH.rst:1515
 msgid ""
 "Put a -1/-1 counter on each creature you don't control. You may search your "
 "library and/or graveyard for a card named Liliana, Death Wielder, reveal it, "
 "and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
 
-#: ../../AKH.rst:1580
-msgid "Tattered Mummy"
+#: ../../AKH.rst:1520
+#, fuzzy
+msgid ":mtgtip:`Tattered Mummy`"
 msgstr "Tattered Mummy"
 
-#: ../../AKH.rst:1579
+#: ../../AKH.rst:1519
 msgid "When Tattered Mummy dies, each opponent loses 2 life."
 msgstr "Kiedy ten stwór umrze, każdy przeciwnik traci 2 życia."
 
-#: ../../AKH.rst:1586
-msgid "Foul Orchard"
+#: ../../AKH.rst:1526
+#, fuzzy
+msgid ":mtgtip:`Foul Orchard`"
 msgstr "Foul Orchard"
 
-#: ../../AKH.rst:1583
+#: ../../AKH.rst:1523
 msgid "Foul Orchard enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
-#: ../../AKH.rst:1585
+#: ../../AKH.rst:1525
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
-#: ../../AKH.rst:1592
-msgid "Cinder Barrens"
+#: ../../AKH.rst:1532
+#, fuzzy
+msgid ":mtgtip:`Cinder Barrens`"
 msgstr "Cinder Barrens"
 
-#: ../../AKH.rst:1589
+#: ../../AKH.rst:1529
 msgid "Cinder Barrens enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
-#: ../../AKH.rst:1591
+#: ../../AKH.rst:1531
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
-#: ../../AKH.rst:1598
-msgid "Forsaken Sanctuary"
+#: ../../AKH.rst:1538
+#, fuzzy
+msgid ":mtgtip:`Forsaken Sanctuary`"
 msgstr "Forsaken Sanctuary"
 
-#: ../../AKH.rst:1595
+#: ../../AKH.rst:1535
 msgid "Forsaken Sanctuary enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
-#: ../../AKH.rst:1597
+#: ../../AKH.rst:1537
 msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
-#: ../../AKH.rst:1604
-msgid "Highland Lake"
+#: ../../AKH.rst:1544
+#, fuzzy
+msgid ":mtgtip:`Highland Lake`"
 msgstr "Highland Lake (Górskie Jezioro)"
 
-#: ../../AKH.rst:1601
+#: ../../AKH.rst:1541
 msgid "Highland Lake enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
-#: ../../AKH.rst:1603
+#: ../../AKH.rst:1543
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
-#: ../../AKH.rst:1610
-msgid "Meandering River"
+#: ../../AKH.rst:1550
+#, fuzzy
+msgid ":mtgtip:`Meandering River`"
 msgstr "Meandering River (Meandrująca Rzeka)"
 
-#: ../../AKH.rst:1607
+#: ../../AKH.rst:1547
 msgid "Meandering River enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
-#: ../../AKH.rst:1609
+#: ../../AKH.rst:1549
 msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
-#: ../../AKH.rst:1616
-msgid "Submerged Boneyard"
+#: ../../AKH.rst:1556
+#, fuzzy
+msgid ":mtgtip:`Submerged Boneyard`"
 msgstr "Submerged Boneyard (Zatopiony Cmentarz)"
 
-#: ../../AKH.rst:1613
+#: ../../AKH.rst:1553
 msgid "Submerged Boneyard enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
-#: ../../AKH.rst:1615
+#: ../../AKH.rst:1555
 msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
-#: ../../AKH.rst:1622
-msgid "Timber Gorge"
+#: ../../AKH.rst:1562
+#, fuzzy
+msgid ":mtgtip:`Timber Gorge`"
 msgstr "Timber Gorge"
 
-#: ../../AKH.rst:1619
+#: ../../AKH.rst:1559
 msgid "Timber Gorge enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
-#: ../../AKH.rst:1621
+#: ../../AKH.rst:1561
 msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
-#: ../../AKH.rst:1628
-msgid "Tranquil Expanse"
+#: ../../AKH.rst:1568
+#, fuzzy
+msgid ":mtgtip:`Tranquil Expanse`"
 msgstr "Tranquil Expanse (Spokojna Przestrzeń)"
 
-#: ../../AKH.rst:1625
+#: ../../AKH.rst:1565
 msgid "Tranquil Expanse enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
-#: ../../AKH.rst:1627
+#: ../../AKH.rst:1567
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
-#: ../../AKH.rst:1633
-msgid "Woodland Stream"
+#: ../../AKH.rst:1573
+#, fuzzy
+msgid ":mtgtip:`Woodland Stream`"
 msgstr "Woodland Stream (Leśny Strumień)"
 
-#: ../../AKH.rst:1631
+#: ../../AKH.rst:1571
 msgid "Woodland Stream enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
-#: ../../AKH.rst:1633
+#: ../../AKH.rst:1573
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+
+#~ msgid "Cancel"
+#~ msgstr "Cancel"
+
+#~ msgid "Plains"
+#~ msgstr "Plains (Równina)"
+
+#~ msgid "Island"
+#~ msgstr "Island (Wyspa)"
+
+#~ msgid "Swamp"
+#~ msgstr "Swamp (Bagno)"
+
+#~ msgid "Forest"
+#~ msgstr "Forest (Las)"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/bng/pl/>\n"
@@ -22,14 +22,15 @@ msgstr ""
 # 002c0f8b22fd47fca10fa6654a5b2208
 # 5aa88d8ba2cd46a19fbee225ea34c30e
 #: ../../BNG.rst:5
-msgid "Born of the Gods"
+#, fuzzy
+msgid ":mtgexp:`BNG` Born of the Gods"
 msgstr "Born of the Gods (Zrodzeni z Bogów)"
 
 # d3d37aade004407c8f0502f6ba86ecb8
 # e2fc06792b824f018890328f57882d92
 #: ../../BNG.rst:10
 #, fuzzy
-msgid "Acolyte's Reward"
+msgid ":mtgtip:`Acolyte's Reward`"
 msgstr "Acolyte's Reward"
 
 # 838c6f860ab4459a97cb8ca719babf14
@@ -51,7 +52,8 @@ msgstr ""
 # 87a5c029b387496b8902e2af53b75a74
 # 313d2b345aa94f19bc4a2e91681b4b22
 #: ../../BNG.rst:16
-msgid "Akroan Phalanx"
+#, fuzzy
+msgid ":mtgtip:`Akroan Phalanx`"
 msgstr "Akroan Phalanx (Akroańska Falanga)"
 
 # 3cf22ee9e00c48299434955916f2e716
@@ -75,7 +77,8 @@ msgstr ""
 # 436a53ba4e744b80b2d5b3c0a9a4560c
 # 6ad3f8547485441aa45d6137f974d68a
 #: ../../BNG.rst:22
-msgid "Akroan Skyguard"
+#, fuzzy
+msgid ":mtgtip:`Akroan Skyguard`"
 msgstr "Akroan Skyguard (Akroański Strażnik Nieba)"
 
 # 02c098133d4649ec86abf9a049135b42
@@ -128,7 +131,8 @@ msgstr ""
 # 0e29efe6152c4a5eac73461259682d4c
 # ec7cb7fc2cea451a97a27676b63ea2e3
 #: ../../BNG.rst:28
-msgid "Archetype of Courage"
+#, fuzzy
+msgid ":mtgtip:`Archetype of Courage`"
 msgstr "Archetype of Courage (Archetyp Odwagi)"
 
 # 229107ddc16b4c14a4c9f7a688bd5035
@@ -150,7 +154,8 @@ msgstr ""
 # bdb21a7b0d564d59850ed5e538e03a43
 # bea055d72da54bc0930ca15036ae3d31
 #: ../../BNG.rst:36
-msgid "Brimaz, King of Oreskos"
+#, fuzzy
+msgid ":mtgtip:`Brimaz, King of Oreskos`"
 msgstr "Brimaz, King of Oreskos (Brimaz, Król Oreskos)"
 
 # 46af6836834346ed8ea83db40a35f5d8
@@ -179,7 +184,7 @@ msgstr ""
 # 3c690aecff0f44cea304781243b3a529
 #: ../../BNG.rst:44
 #, fuzzy
-msgid "Dawn to Dusk"
+msgid ":mtgtip:`Dawn to Dusk`"
 msgstr "Dawn to Dusk"
 
 #: ../../BNG.rst:39
@@ -204,7 +209,8 @@ msgstr "Zniszcz wskazany urok."
 # 8c8eb2e92b46423885166791903a1a2f
 # c4b4c1007ceb440baaa3dc1eb8d1c2ec
 #: ../../BNG.rst:50
-msgid "Eidolon of Countless Battles"
+#, fuzzy
+msgid ":mtgtip:`Eidolon of Countless Battles`"
 msgstr "Eidolon of Countless Battles (Eidolon Niezliczonych Bitew)"
 
 # 9eb188a7dd654b6c90839fa371f7c4b3
@@ -234,7 +240,7 @@ msgstr ""
 # 2e289eb37f3d49da959afb5941b34bc5
 #: ../../BNG.rst:54
 #, fuzzy
-msgid "Elite Skirmisher"
+msgid ":mtgtip:`Elite Skirmisher`"
 msgstr "Elite Skirmisher"
 
 # aa4fb2a830764a3baf9aeebfd293415b
@@ -252,7 +258,7 @@ msgstr ""
 # f12055b3ec1846a1a03eff3f85e6e41f
 #: ../../BNG.rst:60
 #, fuzzy
-msgid "Ephara's Radiance"
+msgid ":mtgtip:`Ephara's Radiance`"
 msgstr "Ephara's Radiance"
 
 # 5d93e58f54504d37976fad3a74a32056
@@ -303,7 +309,7 @@ msgstr "Zauroczony stwór ma \"|mana_1|\\ |mana_w|, |tap|: Zyskujesz 3 życia.\"
 # fe9ac7053fca46c3bfee9bf531c09215
 #: ../../BNG.rst:64
 #, fuzzy
-msgid "Excoriate"
+msgid ":mtgtip:`Excoriate`"
 msgstr "Excoriate"
 
 # a4ff4b5339a34d28a5c787dc51dbf0da
@@ -316,7 +322,7 @@ msgstr "Wygnaj wskazanego przekręconego stwora."
 # f5c3d58d78714cc88cc25be411f286eb
 #: ../../BNG.rst:68
 #, fuzzy
-msgid "Fated Retribution"
+msgid ":mtgtip:`Fated Retribution`"
 msgstr "Fated Retribution"
 
 # 6b1a8d7a72e5471bb65b5f0b9e7c10e5
@@ -335,7 +341,8 @@ msgstr ""
 # 34ceee37aae547068efd2402a0bc7add
 # 41c9872c05cc460caff6e5de018d6bb1
 #: ../../BNG.rst:76
-msgid "Ghostblade Eidolon"
+#, fuzzy
+msgid ":mtgtip:`Ghostblade Eidolon`"
 msgstr "Ghostblade Eidolon (Eidolon Duchowego Ostrza)"
 
 # 12a22382e7b34eea9a54e4a4d6d8af8e
@@ -369,7 +376,7 @@ msgstr "Zauroczony stwór dostaje +1/+1 i ma podwójny cios."
 # 1864ea5bdf0a4370bb2571bcd8724d3f
 #: ../../BNG.rst:80
 #, fuzzy
-msgid "Glimpse the Sun God"
+msgid ":mtgtip:`Glimpse the Sun God`"
 msgstr "Glimpse the Sun God"
 
 # d63ac892f7ec46f6b8dbd2113084bb4b
@@ -386,7 +393,7 @@ msgstr ""
 # bbe1867f72b548639f069043e369dcbb
 #: ../../BNG.rst:84
 #, fuzzy
-msgid "God-Favored General"
+msgid ":mtgtip:`God-Favored General`"
 msgstr "God-Favored General"
 
 # de97fbd6a5b544afbff332dd6726087a
@@ -406,14 +413,14 @@ msgstr ""
 # 6a5be75d38164cb29c1932ef626b0034
 #: ../../BNG.rst:86
 #, fuzzy
-msgid "Great Hart"
+msgid ":mtgtip:`Great Hart`"
 msgstr "Great Hart"
 
 # ff04560972e2448592abf04d37a69787
 # 22e4bde23bf74058b7c6961df115a9c9
 #: ../../BNG.rst:94
 #, fuzzy
-msgid "Griffin Dreamfinder"
+msgid ":mtgtip:`Griffin Dreamfinder`"
 msgstr "Griffin Dreamfinder"
 
 # b8cc41fe8c424482af74a7998cc6b386
@@ -431,7 +438,7 @@ msgstr ""
 # 0b543a36d63d48c7bb4cafa7d3aba27d
 #: ../../BNG.rst:100
 #, fuzzy
-msgid "Hero of Iroas"
+msgid ":mtgtip:`Hero of Iroas`"
 msgstr "Hero of Iroas (Bohater Iroasa)"
 
 # 9c5be46121f84c768f9d8933ae93bf00
@@ -455,7 +462,7 @@ msgstr ""
 # 606d1ce369e14555b519bbe20171a015
 #: ../../BNG.rst:104
 #, fuzzy
-msgid "Hold at Bay"
+msgid ":mtgtip:`Hold at Bay`"
 msgstr "Hold at Bay"
 
 # ecc640b89b50457f8a68819208a37de6
@@ -470,7 +477,8 @@ msgstr ""
 # 7c13332677a64399894a5d9fd86b45c2
 # 6cbbd9f1299140b6ad1b8f01f695764b
 #: ../../BNG.rst:110
-msgid "Loyal Pegasus"
+#, fuzzy
+msgid ":mtgtip:`Loyal Pegasus`"
 msgstr "Loyal Pegasus (Lojalny Pegaz)"
 
 # 1714354328d74a63a38974b44bf5428b
@@ -483,7 +491,7 @@ msgstr "Lojalny Pegaz nie może samotnie atakować lub blokować."
 # a0b4308cb49b4a8a9d816c9306d5040b
 #: ../../BNG.rst:114
 #, fuzzy
-msgid "Mortal's Ardor"
+msgid ":mtgtip:`Mortal's Ardor`"
 msgstr "Mortal's Ardor"
 
 # 17124d3366574c3f90b233493d164ad2
@@ -500,7 +508,7 @@ msgstr ""
 # 9b29916784954f0d88eb7df0932e6ce9
 #: ../../BNG.rst:120
 #, fuzzy
-msgid "Nyxborn Shieldmate"
+msgid ":mtgtip:`Nyxborn Shieldmate`"
 msgstr "Nyxborn Shieldmate"
 
 # 3ac24f23ee1746c5961caf1d275cf456
@@ -525,7 +533,7 @@ msgstr "Zauroczony stwór dostaje +1/+2."
 # 6c297ade602e45abbbc4162461ccd7b2
 #: ../../BNG.rst:124
 #, fuzzy
-msgid "Oreskos Sun Guide"
+msgid ":mtgtip:`Oreskos Sun Guide`"
 msgstr "Oreskos Sun Guide"
 
 # fbc54704291c451f8e98e8118effa464
@@ -538,7 +546,7 @@ msgstr ""
 # 66eee54a2283466a84017a0b4a8e2af4
 #: ../../BNG.rst:132
 #, fuzzy
-msgid "Ornitharch"
+msgid ":mtgtip:`Ornitharch`"
 msgstr "Ornitharch"
 
 # e5bc89eef5f14a2294695ea94e7bba68
@@ -576,7 +584,7 @@ msgstr ""
 # 8c73c3974b86422bbf927def4558e4ae
 #: ../../BNG.rst:136
 #, fuzzy
-msgid "Plea for Guidance"
+msgid ":mtgtip:`Plea for Guidance`"
 msgstr "Plea for Guidance"
 
 # 51ee768d4b5f4ec08b9483f88c4a236e
@@ -593,7 +601,7 @@ msgstr ""
 # 252461bb940540378c26fd1d01f22d3d
 #: ../../BNG.rst:140
 #, fuzzy
-msgid "Revoke Existence"
+msgid ":mtgtip:`Revoke Existence`"
 msgstr "Revoke Existence"
 
 # 9e21738ac1704299bbdb81dcc4a0edf0
@@ -606,7 +614,7 @@ msgstr "Wygnaj wskazany artefakt lub urok."
 # 82661c9abd8d4f5b890a55246656d869
 #: ../../BNG.rst:146
 #, fuzzy
-msgid "Silent Sentinel"
+msgid ":mtgtip:`Silent Sentinel`"
 msgstr "Silent Sentinel"
 
 # 39f6376abdbe45adac1803de4bcbb091
@@ -621,7 +629,8 @@ msgstr ""
 # 59f792eb602340cdadab6e12b96fdff7
 # 6e3f2e98270f4c2c8a1aba44b26e9c75
 #: ../../BNG.rst:150
-msgid "Spirit of the Labyrinth"
+#, fuzzy
+msgid ":mtgtip:`Spirit of the Labyrinth`"
 msgstr "Spirit of the Labyrinth (Duch Labiryntu)"
 
 # 8a6c95765d0e47e4b9f4079d04fedb3c
@@ -630,12 +639,9 @@ msgstr "Spirit of the Labyrinth (Duch Labiryntu)"
 msgid "Each player can't draw more than one card each turn."
 msgstr "Żaden gracz nie może dobrać więcej niż jedną kartę w każdej turze."
 
-# 261e540d6e8e4158b82f8ebf87026831
-# 58eebcb26dc64a529b7292086719208b
 #: ../../BNG.rst:156
-#, fuzzy
-msgid "Sunbond"
-msgstr "Sunbond"
+msgid ":mtgtip:`Sunbond`"
+msgstr ""
 
 # 790f3bbb8d374deeaf39623cec7a759b
 # 6de7a7c6f5a94d8297cbe773b1fcedd2
@@ -645,14 +651,14 @@ msgid ""
 "Enchanted creature has \"Whenever you gain life, put that many +1/+1 "
 "counters on this creature.\""
 msgstr ""
-"Zauroczony stwór ma \"Ilekroć zyskujesz życie, umieść tyle samo znaczników +"
-"1/+1 na tym stworze.\""
+"Zauroczony stwór ma \"Ilekroć zyskujesz życie, umieść tyle samo znaczników "
+"+1/+1 na tym stworze.\""
 
 # 9f6e88b1056e4fcd98fdb00266f29706
 # b931ac24deb74da08cf0d0a1a73082ae
 #: ../../BNG.rst:162
 #, fuzzy
-msgid "Vanguard of Brimaz"
+msgid ":mtgtip:`Vanguard of Brimaz`"
 msgstr "Vanguard of Brimaz"
 
 # 5852d693c6c04f13acd53ad5d66e4743
@@ -670,7 +676,7 @@ msgstr ""
 # 691f6215ed9f4929896c12aebf4bf08e
 #: ../../BNG.rst:166
 #, fuzzy
-msgid "Aerie Worshippers"
+msgid ":mtgtip:`Aerie Worshippers`"
 msgstr "Aerie Worshippers"
 
 # 46000910c41446aa99ba6f8a0852ab8e
@@ -682,14 +688,15 @@ msgid ""
 "\\ |mana_u|. If you do, create a 2/2 blue Bird enchantment creature token "
 "with flying."
 msgstr ""
-"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić "
-"|mana_2|\\ |mana_u|. Jeśli tak zrobisz, stwórz żeton niebieskiego uroku "
+"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić |"
+"mana_2|\\ |mana_u|. Jeśli tak zrobisz, stwórz żeton niebieskiego uroku "
 "stwora Ptak 2/2 z lataniem."
 
 # 2db638134b6844cf918912d5c79e3f11
 # 44e60f6e8f7b4aabbb8e4960b23e8fd0
 #: ../../BNG.rst:172
-msgid "Arbiter of the Ideal"
+#, fuzzy
+msgid ":mtgtip:`Arbiter of the Ideal`"
 msgstr "Arbiter of the Ideal (Arbiter Ideału)"
 
 # 8f7edcc2cf0149dd9603a7e8e1cb5a4c
@@ -709,7 +716,8 @@ msgstr ""
 # 3ecd7197972d4a03bcf9b8cacba71e37
 # 5164be44b9664dbcb650271bff9054a1
 #: ../../BNG.rst:178
-msgid "Archetype of Imagination"
+#, fuzzy
+msgid ":mtgtip:`Archetype of Imagination`"
 msgstr "Archetype of Imagination (Archetyp Wyobraźni)"
 
 # 4a5733a6b9cc4c4d81b90b9df330bfcf
@@ -730,7 +738,8 @@ msgstr ""
 # d9234820d0274433928c56661bb2a475
 # 4dc1b9a58dee47308826990cb8b3fc0d
 #: ../../BNG.rst:184
-msgid "Chorus of the Tides"
+#, fuzzy
+msgid ":mtgtip:`Chorus of the Tides`"
 msgstr "Chorus of the Tides (Chór Fal)"
 
 # b3441de1e4ca460cbdee8ddd08e51d16
@@ -745,12 +754,9 @@ msgstr ""
 "spójrz na wierzchnią kartę twojej biblioteki, następnie możesz położyć ową "
 "kartę na spodzie twojej biblioteki.)"
 
-# 6c0c862f157747009c3f3407aceacef5
-# 14dd80854f0741ff982295781f95c372
 #: ../../BNG.rst:188
-#, fuzzy
-msgid "Crypsis"
-msgstr "Crypsis"
+msgid ":mtgtip:`Crypsis`"
+msgstr ""
 
 # c6d8943ff1184b9281b51ce4ddc93709
 # 54b6bb91ecb142fcae1636e12f6e17cf
@@ -765,7 +771,8 @@ msgstr ""
 # 36afac4cff1b49e09ae05bbedb67bb3d
 # 2607f3e8b8294512af842f40905c7a05
 #: ../../BNG.rst:192
-msgid "Deepwater Hypnotist"
+#, fuzzy
+msgid ":mtgtip:`Deepwater Hypnotist`"
 msgstr "Deepwater Hypnotist (Głębinowy Hipnotyzer)"
 
 # 8a9eefe9dee64a1195bfcdcc38e78d5d
@@ -781,7 +788,8 @@ msgstr ""
 # 7a35553ab01a41709f62ddaf8033bf5e
 # 409a480a6297414dad4e01de16e32cc5
 #: ../../BNG.rst:196
-msgid "Divination"
+#, fuzzy
+msgid ":mtgtip:`Divination`"
 msgstr "Divination (Wróżbiarstwo)"
 
 # 1e59290200c84f3a99fca8ea5370e6b9
@@ -793,7 +801,8 @@ msgstr "Dobierz dwie karty."
 # 7948db77be5345b9bee68dbef34b69a8
 # e7192a2f3f79408894d55eb7304285ed
 #: ../../BNG.rst:204
-msgid "Eternity Snare"
+#, fuzzy
+msgid ":mtgtip:`Eternity Snare`"
 msgstr "Eternity Snare (Sidła Wieczności)"
 
 # da21646cd1e648a2b3a684118d175a71
@@ -812,7 +821,7 @@ msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 # ffc5926a45284b2384db073a1c9718e3
 #: ../../BNG.rst:210
 #, fuzzy
-msgid "Evanescent Intellect"
+msgid ":mtgtip:`Evanescent Intellect`"
 msgstr "Evanescent Intellect"
 
 # 93606a958e7547adad9228af876360bf
@@ -830,7 +839,7 @@ msgstr ""
 # f5252d1f302647b885da090ee2f8d308
 #: ../../BNG.rst:214
 #, fuzzy
-msgid "Fated Infatuation"
+msgid ":mtgtip:`Fated Infatuation`"
 msgstr "Fated Infatuation"
 
 # 94f19cf7f2104b478ada96504e33ddd3
@@ -851,7 +860,8 @@ msgstr ""
 # 69568b2073d94b1ab657ca83cbddb32f
 # a15d29e6ca30427e9f2787738e8b6f2d
 #: ../../BNG.rst:222
-msgid "Flitterstep Eidolon"
+#, fuzzy
+msgid ":mtgtip:`Flitterstep Eidolon`"
 msgstr "Flitterstep Eidolon (Cichostępy Eidolon)"
 
 # f808c65fab55459280b5e549a6fa17b6
@@ -882,7 +892,8 @@ msgstr "Zauroczony stwór dostaje +1/+1 i nie może być blokowany."
 # e47bf0c4e77b4b9aa95e6c15e7d86958
 # d050b1f7dd264411b79fdde0ea9ee44e
 #: ../../BNG.rst:226
-msgid "Floodtide Serpent"
+#, fuzzy
+msgid ":mtgtip:`Floodtide Serpent`"
 msgstr "Floodtide Serpent (Wężownik Zatopienia)"
 
 # 3f4a0c6c6bdb4d068f56c3ec5b446407
@@ -900,7 +911,7 @@ msgstr ""
 # 637eb59295d74253895a453e8436afdd
 #: ../../BNG.rst:230
 #, fuzzy
-msgid "Kraken of the Straits"
+msgid ":mtgtip:`Kraken of the Straits`"
 msgstr "Kraken of the Straits"
 
 # 2514ba45395941b79fc1835db8f989be
@@ -917,7 +928,8 @@ msgstr ""
 # 5107c0173fea421f9a7cff8cf3182c8b
 # 9fb23184611848ab9da5f54f477999ae
 #: ../../BNG.rst:234
-msgid "Meletis Astronomer"
+#, fuzzy
+msgid ":mtgtip:`Meletis Astronomer`"
 msgstr "Meletis Astronomer (Astronom z Meletis)"
 
 # 99b1f2f827ba488ba71012a2fa5d8139
@@ -938,7 +950,7 @@ msgstr ""
 # 4c6817752ddb445ebe5edb20acc3de09
 #: ../../BNG.rst:240
 #, fuzzy
-msgid "Mindreaver"
+msgid ":mtgtip:`Mindreaver`"
 msgstr "Mindreaver"
 
 # ab792205cdce4e988fe8c9152eadb4e8
@@ -962,11 +974,9 @@ msgstr ""
 "|mana_u|\\ |mana_u|, poświęć Mindreaver: Skontruj wskazany czar o tej samej "
 "nazwie co karta wypędzona Mindreaverem."
 
-# b9f8616117fc4086ab3f3025379911df
 #: ../../BNG.rst:244
-#, fuzzy
-msgid "Nullify"
-msgstr "Nullify"
+msgid ":mtgtip:`Nullify`"
+msgstr ""
 
 # e241fe112e0d4f38ad013d3ee166ca7c
 # e9d90d33a3bc45fc8f14ae2f9f2b21e5
@@ -977,7 +987,7 @@ msgstr "Skontruj wskazany czar stwora lub Aury."
 # a3116d290f4a4a98a661558531fbede7
 #: ../../BNG.rst:250
 #, fuzzy
-msgid "Nyxborn Triton"
+msgid ":mtgtip:`Nyxborn Triton`"
 msgstr "Nyxborn Triton"
 
 # f7909822acc64113b24c14ffab03fd96
@@ -1003,7 +1013,7 @@ msgstr "Zauroczony stwór dostaje +2/+3."
 # 2eb099fd549b486c8e7d95af5c4a1913
 #: ../../BNG.rst:256
 #, fuzzy
-msgid "Oracle's Insight"
+msgid ":mtgtip:`Oracle's Insight`"
 msgstr "Oracle's Insight"
 
 # 150d700c25ea46308c30e69f6665a54b
@@ -1023,7 +1033,7 @@ msgstr ""
 # 4271116765d64975a9b6b827da7e6541
 #: ../../BNG.rst:260
 #, fuzzy
-msgid "Perplexing Chimera"
+msgid ":mtgtip:`Perplexing Chimera`"
 msgstr "Perplexing Chimera"
 
 # dfd4a931ff8c46bc9b52745390393987
@@ -1042,7 +1052,7 @@ msgstr ""
 # 0551141492024c2a849ea66b0a30be0e
 #: ../../BNG.rst:264
 #, fuzzy
-msgid "Retraction Helix"
+msgid ":mtgtip:`Retraction Helix`"
 msgstr "Retraction Helix"
 
 # e854fed1765e46af9b7c2292b0700ad3
@@ -1059,7 +1069,8 @@ msgstr ""
 # 51aadac9a882402ebb646f5aec1eef06
 # 74bbabc8a88345dfb709658bfcea6311
 #: ../../BNG.rst:272
-msgid "Siren of the Fanged Coast"
+#, fuzzy
+msgid ":mtgtip:`Siren of the Fanged Coast`"
 msgstr "Siren of the Fanged Coast (Syrena z Wybrzeża Kłów)"
 
 # 8a065884926e4348b2e4025b93ce9c71
@@ -1093,7 +1104,7 @@ msgstr ""
 # 047ea1433f554461a842f1041a559898
 #: ../../BNG.rst:278
 #, fuzzy
-msgid "Sphinx's Disciple"
+msgid ":mtgtip:`Sphinx's Disciple`"
 msgstr "Sphinx's Disciple"
 
 # 73324ff01a824fc1bd3438d4dbcbe2b1
@@ -1106,7 +1117,8 @@ msgstr ""
 # d480890ba0ce4db0983c7b5043044ea2
 # eb5cb4f47ba14e3cbde04e9d95930899
 #: ../../BNG.rst:288
-msgid "Stratus Walk"
+#, fuzzy
+msgid ":mtgtip:`Stratus Walk`"
 msgstr "Stratus Walk (Spacer w Chmurach)"
 
 # 955772ca7ac24373ab7bdb89d74f65ab
@@ -1133,7 +1145,8 @@ msgstr "Zauroczony stwór może blokować tylko stwory z lataniem."
 # 129fbef048d2436aa2ad15fc8648ae66
 # 644d7f121e5b403f8922ee44f5ef51e5
 #: ../../BNG.rst:292
-msgid "Sudden Storm"
+#, fuzzy
+msgid ":mtgtip:`Sudden Storm`"
 msgstr "Sudden Storm (Nagła Burza)"
 
 # b01244872a9745b1873bd2f4e5ae070b
@@ -1153,7 +1166,7 @@ msgstr ""
 # 48d3efc64f5549e28aa871fc30b9198b
 #: ../../BNG.rst:296
 #, fuzzy
-msgid "Thassa's Rebuff"
+msgid ":mtgtip:`Thassa's Rebuff`"
 msgstr "Thassa's Rebuff"
 
 # fe0a40180baf409b9af4b89794eff42c
@@ -1171,7 +1184,8 @@ msgstr ""
 # 69b36f1063084c1097e16c2d996cfe86
 # b051115aa4cb4ad095ad046d40e8e233
 #: ../../BNG.rst:302
-msgid "Tromokratis"
+#, fuzzy
+msgid ":mtgtip:`Tromokratis`"
 msgstr "Tromokratis"
 
 # f3a30d8f71b8481092a44f874e6a64a1
@@ -1196,7 +1210,8 @@ msgstr ""
 # c880dd2213a441a694f00df35314a1ad
 # 02b157a1d5254f068af3b7630f2a2421
 #: ../../BNG.rst:308
-msgid "Vortex Elemental"
+#, fuzzy
+msgid ":mtgtip:`Vortex Elemental`"
 msgstr "Vortex Elemental (Wirołak)"
 
 # bffcf57164ae41c08c3d6bbbe2e7ec30
@@ -1226,7 +1241,7 @@ msgstr ""
 # e927c62d78be437ca56a0ffbeacded59
 #: ../../BNG.rst:312
 #, fuzzy
-msgid "Whelming Wave"
+msgid ":mtgtip:`Whelming Wave`"
 msgstr "Whelming Wave"
 
 # 35ea9f3031ca4b8eb8e244637f85f9fa
@@ -1242,7 +1257,8 @@ msgstr ""
 # 1a5f9537bb014d80a1c1e559c6364309
 # f5c1507503ad485e8244b4d683c7666c
 #: ../../BNG.rst:318
-msgid "Archetype of Finality"
+#, fuzzy
+msgid ":mtgtip:`Archetype of Finality`"
 msgstr "Archetype of Finality (Archetyp Ostateczności)"
 
 # 0814f78934df4b6e8df911a6988d70c3
@@ -1264,7 +1280,8 @@ msgstr ""
 # 41cb796ccf7c4190893f1ecba288ec24
 # 21e6c7a58deb4527894ac4d8304765e5
 #: ../../BNG.rst:322
-msgid "Ashiok's Adept"
+#, fuzzy
+msgid ":mtgtip:`Ashiok's Adept`"
 msgstr "Ashiok's Adept (Adept Ashioka)"
 
 # 3f76430c1ec3412c96a98623d14417f6
@@ -1280,7 +1297,8 @@ msgstr ""
 # 9920dc89a57a4f32b14f3de2c234855f
 # cb9a110a8c324691bcf45d021fd369a9
 #: ../../BNG.rst:326
-msgid "Asphyxiate"
+#, fuzzy
+msgid ":mtgtip:`Asphyxiate`"
 msgstr "Asphyxiate (Uduszenie)"
 
 # ae36482d85ee4460805c93b1068959bf
@@ -1293,7 +1311,7 @@ msgstr "Zniszcz wskazanego odznaczonego stwora."
 # d5ba6a021ec640cb9d6a5c755454408a
 #: ../../BNG.rst:330
 #, fuzzy
-msgid "Bile Blight"
+msgid ":mtgtip:`Bile Blight`"
 msgstr "Bile Blight"
 
 # ba959e8eb40a4fea8bbe86ab4815a49d
@@ -1309,7 +1327,8 @@ msgstr ""
 # 9570fc71c7974b41a1c6ac9ca13f8077
 # ab244610d347406b826cac3e337cbc2b
 #: ../../BNG.rst:336
-msgid "Black Oak of Odunos"
+#, fuzzy
+msgid ":mtgtip:`Black Oak of Odunos`"
 msgstr "Black Oak of Odunos (Czarny Dąb z Odunos)"
 
 # 66592a4664ab49eea4a9758c2fd3bd91
@@ -1334,7 +1353,7 @@ msgstr ""
 # a39bb43c9e894911a1220f6fa6a572f6
 #: ../../BNG.rst:342
 #, fuzzy
-msgid "Champion of Stray Souls"
+msgid ":mtgtip:`Champion of Stray Souls`"
 msgstr "Champion of Stray Souls"
 
 # 5ccde7d7c55e4716ac36572666318bf9
@@ -1362,7 +1381,8 @@ msgstr ""
 # 41b95aa93c2244a381e790e440d8dafe
 # 2f88a97254474a1580e848d9b3459ec1
 #: ../../BNG.rst:348
-msgid "Claim of Erebos"
+#, fuzzy
+msgid ":mtgtip:`Claim of Erebos`"
 msgstr "Claim of Erebos (Roszczenie Erebosa)"
 
 # e028507fec8a446d8440174b3b3eba11
@@ -1379,7 +1399,8 @@ msgstr ""
 # df5cc4f07d9c4a4d8ff64c18d75951c5
 # b8a74be17b49480dbb362817f58b665d
 #: ../../BNG.rst:352
-msgid "Drown in Sorrow"
+#, fuzzy
+msgid ":mtgtip:`Drown in Sorrow`"
 msgstr "Drown in Sorrow (Tonąć w Smutku)"
 
 # 7fc15ec8edee4e538a5ae80f0382822f
@@ -1396,7 +1417,8 @@ msgstr ""
 # 42d26593680343b48c0ebf89e532a1e2
 # 876683b2a37a4ccbad0bb6195f457d3c
 #: ../../BNG.rst:360
-msgid "Eater of Hope"
+#, fuzzy
+msgid ":mtgtip:`Eater of Hope`"
 msgstr "Eater of Hope (Pożeracz Nadziei)"
 
 # cf1cb1cee8cf469a902b180cd136d1d1
@@ -1418,7 +1440,7 @@ msgstr ""
 # 31b9cdf20899470399901cc63f37d52b
 #: ../../BNG.rst:364
 #, fuzzy
-msgid "Eye Gouge"
+msgid ":mtgtip:`Eye Gouge`"
 msgstr "Eye Gouge"
 
 # 4eba08312cc74b99bea5cf17695c0643
@@ -1433,7 +1455,7 @@ msgstr ""
 # a57ef1477691480cb657240ca9e49ad1
 #: ../../BNG.rst:368
 #, fuzzy
-msgid "Fate Unraveler"
+msgid ":mtgtip:`Fate Unraveler`"
 msgstr "Fate Unraveler"
 
 # 82064959845b4a19ab636aa026deac3e
@@ -1450,7 +1472,7 @@ msgstr ""
 # 4ee507f5c6004f5280f9070487f0422e
 #: ../../BNG.rst:372
 #, fuzzy
-msgid "Fated Return"
+msgid ":mtgtip:`Fated Return`"
 msgstr "Fated Return"
 
 # 00011bd13b5f4e68bb1cbde2324628f9
@@ -1472,7 +1494,7 @@ msgstr ""
 # dbf826ef3f6245d695c72d80f0f38126
 #: ../../BNG.rst:376
 #, fuzzy
-msgid "Felhide Brawler"
+msgid ":mtgtip:`Felhide Brawler`"
 msgstr "Felhide Brawler"
 
 # cd34013f54f247bcbc0f6affaeccbf68
@@ -1486,7 +1508,7 @@ msgstr "Felhide Brawler nie może blokować dopóki nie władasz innym Minotaure
 # f46ef3b9c8564552bda355ab548fcf08
 #: ../../BNG.rst:382
 #, fuzzy
-msgid "Forlorn Pseudamma"
+msgid ":mtgtip:`Forlorn Pseudamma`"
 msgstr "Forlorn Pseudamma"
 
 # 1b1c553b1f8344059f69953763669255
@@ -1507,14 +1529,15 @@ msgid ""
 "Inspired — Whenever Forlorn Pseudamma becomes untapped, you may pay |mana_2|"
 "\\ |mana_b|. If you do, create a 2/2 black Zombie enchantment creature token."
 msgstr ""
-"Natchniony — Ilekroć Forlorn Pseudamma zostaje odznaczony, możesz zapłacić "
-"|mana_2|\\ |mana_b|. Jeśli tak zrobisz, stwórz żeton czarnego uroku stwora "
+"Natchniony — Ilekroć Forlorn Pseudamma zostaje odznaczony, możesz zapłacić |"
+"mana_2|\\ |mana_b|. Jeśli tak zrobisz, stwórz żeton czarnego uroku stwora "
 "Zombi 2/2."
 
 # 3f6aa0f81fde4acdb18a28ada7257762
 # a8a1b91ea5164290b0dba425a68711aa
 #: ../../BNG.rst:386
-msgid "Forsaken Drifters"
+#, fuzzy
+msgid ":mtgtip:`Forsaken Drifters`"
 msgstr "Forsaken Drifters (Porzuceni Rybacy)"
 
 # 2bc7f8bd56994b438986839433f936ce
@@ -1527,11 +1550,9 @@ msgstr ""
 "Kiedy Porzuceni Rybacy umierają, umieść cztery wierzchnie karty twojej "
 "biblioteki do twojego cmentarza."
 
-# d403d474926f4edc910545cddad6083e
-# 6f34c1266a524d3888ea5af2666492b3
 #: ../../BNG.rst:390
-msgid "Gild"
-msgstr "Gild (Ozłocenie)"
+msgid ":mtgtip:`Gild`"
+msgstr ""
 
 # 841ce6f7148844c48c763dd8ae23bf35
 # 51ac3818a346418eb9db6059fd952832
@@ -1549,7 +1570,7 @@ msgstr ""
 # c8c799b00d914d1596a97471cec0f4b3
 #: ../../BNG.rst:398
 #, fuzzy
-msgid "Grisly Transformation"
+msgid ":mtgtip:`Grisly Transformation`"
 msgstr "Grisly Transformation"
 
 # c94c67deb16a4904bf6b629230cb5b6e
@@ -1572,7 +1593,8 @@ msgstr ""
 # 02800467f59844a1a2188d63c4d0bb84
 # f7b42ebca88746ab9c697f4c04bed7ca
 #: ../../BNG.rst:408
-msgid "Herald of Torment"
+#, fuzzy
+msgid ":mtgtip:`Herald of Torment`"
 msgstr "Herald of Torment (Herold Udręki)"
 
 # f9c2ea62654044cb869017e5264478cf
@@ -1604,7 +1626,7 @@ msgstr "Zauroczony stwór dostaje +3/+3 i ma latanie."
 # f32ca71ad7cc4824a5bf1f9c8aeb835c
 #: ../../BNG.rst:412
 #, fuzzy
-msgid "Marshmist Titan"
+msgid ":mtgtip:`Marshmist Titan`"
 msgstr "Marshmist Titan"
 
 # 5c307f95e9d54143a1e47d52b858d013
@@ -1624,7 +1646,7 @@ msgstr ""
 # 7fd39ecbfccb44d199e04212b0f0f8ab
 #: ../../BNG.rst:416
 #, fuzzy
-msgid "Necrobite"
+msgid ":mtgtip:`Necrobite`"
 msgstr "Necrobite"
 
 #: ../../BNG.rst:415
@@ -1638,7 +1660,7 @@ msgstr ""
 # 84f6535a6ccb4e489381876d4923d2b0
 #: ../../BNG.rst:422
 #, fuzzy
-msgid "Nyxborn Eidolon"
+msgid ":mtgtip:`Nyxborn Eidolon`"
 msgstr "Nyxborn Eidolon"
 
 # c1850725cc3c4169ad83dadab1e104c6
@@ -1664,7 +1686,7 @@ msgstr "Zauroczony stwór dostaje +2/+1."
 # d683a15559944ab79b51879be15dc7e4
 #: ../../BNG.rst:428
 #, fuzzy
-msgid "Odunos River Trawler"
+msgid ":mtgtip:`Odunos River Trawler`"
 msgstr "Odunos River Trawler"
 
 # 7ccc1a6babf04d6bb7ab341ab9d224e8
@@ -1690,7 +1712,8 @@ msgstr ""
 
 # 9d664d171336432abf8d8b999a7ea96c
 #: ../../BNG.rst:432
-msgid "Pain Seer"
+#, fuzzy
+msgid ":mtgtip:`Pain Seer`"
 msgstr "Pain Seer (Wróżbita Bólu)"
 
 # 82f9c9ee372f4c24a80f57c52039931e
@@ -1708,7 +1731,7 @@ msgstr ""
 # cf772670a9014679821017b296b86750
 #: ../../BNG.rst:436
 #, fuzzy
-msgid "Sanguimancy"
+msgid ":mtgtip:`Sanguimancy`"
 msgstr "Sanguimancy"
 
 # aeef7f94116447ee855936085a0cc112
@@ -1719,14 +1742,15 @@ msgid ""
 "(Each |mana_b| in the mana costs of permanents you control counts toward "
 "your devotion to black.)"
 msgstr ""
-"Dobierasz X kart i tracisz X życia, gdzie X jest twoim kultem czarnego. ("
-"Każdy symbol |mana_b| w kosztach many permanentów pod twoim władaniem wlicza "
-"się do twojego kultu czarnego.)"
+"Dobierasz X kart i tracisz X życia, gdzie X jest twoim kultem czarnego. "
+"(Każdy symbol |mana_b| w kosztach many permanentów pod twoim władaniem "
+"wlicza się do twojego kultu czarnego.)"
 
 # 92900fbc99664e52b0890ff50841d795
 # deb11e4ff537492eaf156a0757561713
 #: ../../BNG.rst:442
-msgid "Servant of Tymaret"
+#, fuzzy
+msgid ":mtgtip:`Servant of Tymaret`"
 msgstr "Servant of Tymaret (Sługa Tymareta)"
 
 # 86d5bfe26f274091bfd2f98778f76668
@@ -1749,7 +1773,8 @@ msgstr "|mana_2|\\ |mana_b|: Zregeneruj Sługę Tymareta."
 # bc009165ee38406fa89a7c6a53aed86b
 # c8d711c27ad244a28c20730b783b4a4b
 #: ../../BNG.rst:450
-msgid "Shrike Harpy"
+#, fuzzy
+msgid ":mtgtip:`Shrike Harpy`"
 msgstr "Shrike Harpy (Harpia Dzierzbowa)"
 
 # 3569a7f136414ea18fc326cff29f5234
@@ -1766,7 +1791,7 @@ msgstr ""
 # c895fa6984f44cd7a50bfc2189acd68b
 #: ../../BNG.rst:458
 #, fuzzy
-msgid "Spiteful Returned"
+msgid ":mtgtip:`Spiteful Returned`"
 msgstr "Spiteful Returned"
 
 # 78d5f22defd74171bcf5b7133835a527
@@ -1809,7 +1834,7 @@ msgstr "Zauroczony stwór dostaje +1/+1."
 # 5e5b7e995a1d4a01adfeacf61b6ced35
 #: ../../BNG.rst:462
 #, fuzzy
-msgid "Warchanter of Mogis"
+msgid ":mtgtip:`Warchanter of Mogis`"
 msgstr "Warchanter of Mogis"
 
 # 19b5f0d41ffd44909be88ed1cb1102bf
@@ -1831,7 +1856,7 @@ msgstr ""
 # 74f0ad02b51243bba5c7717f90869324
 #: ../../BNG.rst:468
 #, fuzzy
-msgid "Weight of the Underworld"
+msgid ":mtgtip:`Weight of the Underworld`"
 msgstr "Weight of the Underworld"
 
 # abdb46de08524894b5ec24a7912f02b8
@@ -1844,7 +1869,7 @@ msgstr "Zauroczony stwór dostaje -3/-2."
 # 6e6c8df2b34349d4b8526a1708f981b8
 #: ../../BNG.rst:472
 #, fuzzy
-msgid "Akroan Conscriptor"
+msgid ":mtgtip:`Akroan Conscriptor`"
 msgstr "Akroan Conscriptor"
 
 # ba127d4fc76f42dbb2468a5ecf33a410
@@ -1862,7 +1887,8 @@ msgstr ""
 # 42dc9fde61924bf78c713ea257fcc89f
 # 3c9663f563754744ae7e8ec02945b311
 #: ../../BNG.rst:478
-msgid "Archetype of Aggression"
+#, fuzzy
+msgid ":mtgtip:`Archetype of Aggression`"
 msgstr "Archetype of Aggression (Archetyp Agresji)"
 
 # 615dddc7bb29430c9e46aea2b2be4d55
@@ -1883,7 +1909,8 @@ msgstr ""
 # 626a3bbe6e4e431da8ae60f1f3dd9d66
 # 1d049cf1c0b7468e9b5a1b37b4a8cb4d
 #: ../../BNG.rst:482
-msgid "Bolt of Keranos"
+#, fuzzy
+msgid ":mtgtip:`Bolt of Keranos`"
 msgstr "Bolt of Keranos (Grom Keranosa)"
 
 # 9f7d658bbff3486580ff95c8703aab29
@@ -1902,14 +1929,14 @@ msgstr ""
 # 4030aa7195674174bd3f2af0171a8545
 #: ../../BNG.rst:484
 #, fuzzy
-msgid "Cyclops of One-Eyed Pass"
+msgid ":mtgtip:`Cyclops of One-Eyed Pass`"
 msgstr "Cyclops of One-Eyed Pass (Cyklop Jednookiego Przejścia)"
 
 # d2f149b56da843089e9fe822777f99a9
 # 5e80e4508fcd4b89a1376e9e07704851
 #: ../../BNG.rst:492
 #, fuzzy
-msgid "Epiphany Storm"
+msgid ":mtgtip:`Epiphany Storm`"
 msgstr "Epiphany Storm"
 
 # 10e355893f7a4214a6eeece0666a6bdc
@@ -1923,7 +1950,8 @@ msgstr "Zauroczony stwór ma \"|mana_r|, |tap|, odrzuć kartę: dobierz kartę.\
 # 0f5d966e19df432eac4a273c0237320e
 # af5abfe707514a34a619e5536b0ebe56
 #: ../../BNG.rst:500
-msgid "Everflame Eidolon"
+#, fuzzy
+msgid ":mtgtip:`Everflame Eidolon`"
 msgstr "Everflame Eidolon (Eidolon Wiecznego Ognia)"
 
 # 3c4c072935c44cd89bc40f11689e0dfa
@@ -1953,7 +1981,7 @@ msgstr ""
 # 670652adf2e649d8b7b9216f496f3dea
 #: ../../BNG.rst:504
 #, fuzzy
-msgid "Fall of the Hammer"
+msgid ":mtgtip:`Fall of the Hammer`"
 msgstr "Fall of the Hammer"
 
 # dca0974b56c34ae5bb83bdf6b0e0e4c5
@@ -1970,7 +1998,7 @@ msgstr ""
 # 0027f87c95644a11b53950d10843702a
 #: ../../BNG.rst:508
 #, fuzzy
-msgid "Fated Conflagration"
+msgid ":mtgtip:`Fated Conflagration`"
 msgstr "Fated Conflagration"
 
 # d8fab30925464800b238bf249dff87b4
@@ -1991,7 +2019,8 @@ msgstr ""
 # 3abf5438442d4ae69548af1d0a45f91b
 # e06de608a7434414bf80c22750cb14f4
 #: ../../BNG.rst:514
-msgid "Fearsome Temper"
+#, fuzzy
+msgid ":mtgtip:`Fearsome Temper`"
 msgstr "Fearsome Temper (Straszliwy Temperament)"
 
 # 9d213494e95f415ba61a7df92b6c6865
@@ -2009,7 +2038,7 @@ msgstr ""
 # bae6c925ff59482fa5c72c11b1e52d8d
 #: ../../BNG.rst:518
 #, fuzzy
-msgid "Felhide Spiritbinder"
+msgid ":mtgtip:`Felhide Spiritbinder`"
 msgstr "Felhide Spiritbinder"
 
 # 2cbd5d0418724ff5888d847065a8fa2b
@@ -2031,7 +2060,8 @@ msgstr ""
 # 2829afd931c74b1fa0494a244655fca6
 # 778db5eb551b4a40b7d69921990c464d
 #: ../../BNG.rst:526
-msgid "Flame-Wreathed Phoenix"
+#, fuzzy
+msgid ":mtgtip:`Flame-Wreathed Phoenix`"
 msgstr "Flame-Wreathed Phoenix (Fenik Opleciony Ogniem)"
 
 # 09bd5bc8977541bc91bc1a612e63427d
@@ -2051,7 +2081,7 @@ msgstr ""
 # 3cf16f26f04142ddb440ccdf70519d23
 #: ../../BNG.rst:532
 #, fuzzy
-msgid "Forgestoker Dragon"
+msgid ":mtgtip:`Forgestoker Dragon`"
 msgstr "Forgestoker Dragon"
 
 # 36d39ce18a1a47e88697ed3c2122f71c
@@ -2071,7 +2101,7 @@ msgstr ""
 # 46a9a0856825459ca1243e3fd20f7260
 #: ../../BNG.rst:538
 #, fuzzy
-msgid "Impetuous Sunchaser"
+msgid ":mtgtip:`Impetuous Sunchaser`"
 msgstr "Impetuous Sunchaser"
 
 # 52b042d9719b4dc482c6e480516cc72b
@@ -2091,7 +2121,7 @@ msgstr "Impetuous Sunchaser atakuje w każdej turze jeśli może."
 # d488f5515f454781b8b7e0362cfffd74
 #: ../../BNG.rst:542
 #, fuzzy
-msgid "Kragma Butcher"
+msgid ":mtgtip:`Kragma Butcher`"
 msgstr "Kragma Butcher"
 
 # 9db12edf6f854d258166309d038dce58
@@ -2109,7 +2139,7 @@ msgstr ""
 # f78b0dc5c5134d2b84818efe1ce861dc
 #: ../../BNG.rst:546
 #, fuzzy
-msgid "Lightning Volley"
+msgid ":mtgtip:`Lightning Volley`"
 msgstr "Lightning Volley"
 
 # 0f7aa3dc91634c45bab8bf0cc4c8f4fa
@@ -2126,7 +2156,7 @@ msgstr ""
 # 2f62e06563f848c3a0e494230e3a54e0
 #: ../../BNG.rst:552
 #, fuzzy
-msgid "Nyxborn Rollicker"
+msgid ":mtgtip:`Nyxborn Rollicker`"
 msgstr "Nyxborn Rollicker"
 
 # d4517b945aaa44bdae7eb848df18c5d0
@@ -2145,7 +2175,8 @@ msgstr ""
 # ae372d47e98e43d7b1589edf40907303
 # bfee212ae37d4a669811c6387f4b7294
 #: ../../BNG.rst:560
-msgid "Oracle of Bones"
+#, fuzzy
+msgid ":mtgtip:`Oracle of Bones`"
 msgstr "Oracle of Bones (Wyrocznia Kości)"
 
 # ae8e3d7c5aaa471c9875ab39f52642d8
@@ -2173,7 +2204,7 @@ msgstr ""
 # 92edb10456014939ad9572ef7189cbe6
 #: ../../BNG.rst:566
 #, fuzzy
-msgid "Pharagax Giant"
+msgid ":mtgtip:`Pharagax Giant`"
 msgstr "Pharagax Giant"
 
 # 8298691439bf49e298360f8182580213
@@ -2189,7 +2220,8 @@ msgstr ""
 # 18255914a4514219bad74646f3df996c
 # 7fae62dd22be4ce98897736c04cf25e6
 #: ../../BNG.rst:570
-msgid "Pinnacle of Rage"
+#, fuzzy
+msgid ":mtgtip:`Pinnacle of Rage`"
 msgstr "Pinnacle of Rage (Szczyt Szału)"
 
 # da4fb3b6182a4c3c9883e1eccf379ac2
@@ -2203,7 +2235,8 @@ msgstr ""
 # 6aba880f5b6c4510a530dd0334ecdb86
 # 3d146ca453c04bdeb4f0011ca77648ef
 #: ../../BNG.rst:574
-msgid "Reckless Reveler"
+#, fuzzy
+msgid ":mtgtip:`Reckless Reveler`"
 msgstr "Reckless Reveler (Lekkomyślny Hulaka)"
 
 # a37fe02af1b54ea38357ba1c133ac3a6
@@ -2216,7 +2249,7 @@ msgstr "|mana_r|, poświęć Lekkomyślnego Hulakę: Zniszcz wskazany artefakt."
 # a9bb845bbaf1475baeaf45a0e00a8d8d
 #: ../../BNG.rst:578
 #, fuzzy
-msgid "Rise to the Challenge"
+msgid ":mtgtip:`Rise to the Challenge`"
 msgstr "Rise to the Challenge"
 
 # f27e186b749b4103b8ad7a2f3c3dbfab
@@ -2228,7 +2261,8 @@ msgstr "Wskazany stwór dostaje do końca tury +2/+0 oraz pierwszy cios."
 # 129e30eb9bdb4d33aade8b3c8263dbb3
 # 8ca8fc0a0c6945b292afa43170c29a7c
 #: ../../BNG.rst:582
-msgid "Satyr Firedancer"
+#, fuzzy
+msgid ":mtgtip:`Satyr Firedancer`"
 msgstr "Satyr Firedancer (Satyr Tancerz Ognia)"
 
 # ed7001bc42e140a5965b2e6d942a6788
@@ -2247,7 +2281,7 @@ msgstr ""
 # 58c56280ceca4b61a0e8b3d782560c46
 #: ../../BNG.rst:588
 #, fuzzy
-msgid "Satyr Nyx-Smith"
+msgid ":mtgtip:`Satyr Nyx-Smith`"
 msgstr "Satyr Nyx-Smith"
 
 # bc2b7cc75af245889ecb4b5a3da538cf
@@ -2259,14 +2293,14 @@ msgid ""
 "|mana_r|. If you do, create a 3/1 red Elemental enchantment creature token "
 "with haste."
 msgstr ""
-"Natchniony — Ilekroć Satyr Nyx-Smith zostaje odznaczony, możesz zapłacić "
-"|mana_2|\\ |mana_r|. Jeśli tak zrobisz, stwórz żeton czerwonego uroku-stwora "
+"Natchniony — Ilekroć Satyr Nyx-Smith zostaje odznaczony, możesz zapłacić |"
+"mana_2|\\ |mana_r|. Jeśli tak zrobisz, stwórz żeton czerwonego uroku-stwora "
 "Żywiołak z pośpiechem."
 
 # 69e08f0dc38a432abeef2a0b0e12a5c4
 #: ../../BNG.rst:592
 #, fuzzy
-msgid "Scouring Sands"
+msgid ":mtgtip:`Scouring Sands`"
 msgstr "Scouring Sands"
 
 # 0427cb22f93c44329950802c64fa0ee3
@@ -2283,7 +2317,8 @@ msgstr ""
 
 # 427bdfc59b4241b3a691781a15eb3e27
 #: ../../BNG.rst:596
-msgid "Searing Blood"
+#, fuzzy
+msgid ":mtgtip:`Searing Blood`"
 msgstr "Searing Blood (Paląca Krew)"
 
 # f07f79a2a71a4ef5802b25a66721228b
@@ -2299,7 +2334,7 @@ msgstr ""
 # 42b05fb4fcea45b6a9bf1ab1aee8d7ce
 #: ../../BNG.rst:602
 #, fuzzy
-msgid "Stormcaller of Keranos"
+msgid ":mtgtip:`Stormcaller of Keranos`"
 msgstr "Stormcaller of Keranos"
 
 # 9ee0e11b1ee24451b02c9566c81e55a7
@@ -2316,7 +2351,8 @@ msgstr ""
 # 67aefc6e3a574f0bb2d826fc9ec371c8
 # 87959b7cd6ff42e988d5545c03fd710e
 #: ../../BNG.rst:610
-msgid "Thunder Brute"
+#, fuzzy
+msgid ":mtgtip:`Thunder Brute`"
 msgstr "Thunder Brute (Grzmotodrab)"
 
 # a4edf01966934dcf93b4e3795df5c241
@@ -2345,7 +2381,7 @@ msgstr ""
 # 6b0c7ec5455546b49984fef208ec457f
 #: ../../BNG.rst:616
 #, fuzzy
-msgid "Thunderous Might"
+msgid ":mtgtip:`Thunderous Might`"
 msgstr "Thunderous Might"
 
 # 2ba6f66a735841c5ba766a0e0006ffda
@@ -2364,7 +2400,7 @@ msgstr ""
 # 9dc028373a544d718c5380f5c36ccd73
 #: ../../BNG.rst:620
 #, fuzzy
-msgid "Whims of the Fates"
+msgid ":mtgtip:`Whims of the Fates`"
 msgstr "Whims of the Fates"
 
 # fdefc9d8798442b2b54ea5f948f17bef
@@ -2383,7 +2419,8 @@ msgstr ""
 # 579c9a8c8c704fc1af5f150b2f13737a
 # 09df1cf138dd410d9fb905228be2bc7a
 #: ../../BNG.rst:626
-msgid "Archetype of Endurance"
+#, fuzzy
+msgid ":mtgtip:`Archetype of Endurance`"
 msgstr "Archetype of Endurance (Archetyp Odporności)"
 
 # e2e20cb3cb4e42a9ba930891cba7e11c
@@ -2405,7 +2442,8 @@ msgstr ""
 # 94657b3a867344f588d00a5d673563ea
 # ba1c5556d05a42d484be7dc32865bdae
 #: ../../BNG.rst:630
-msgid "Aspect of Hydra"
+#, fuzzy
+msgid ":mtgtip:`Aspect of Hydra`"
 msgstr "Aspect of Hydra (Aspekt Hydry)"
 
 # b2c12b5aff0b4dc7b87608178c21e137
@@ -2423,14 +2461,15 @@ msgstr ""
 # 49094192bcda4f93bf20a318cf28bce7
 # f57d02c6bfb8402d9429b89bf5ec1f80
 #: ../../BNG.rst:634
-msgid "Charging Badger"
+#, fuzzy
+msgid ":mtgtip:`Charging Badger`"
 msgstr "Charging Badger (Szarżujący Borsuk)"
 
 # 8fffeb6a71be47838388b22c0ce3a7bc
 # 5aa6fbc0677c449884feae4a9f9de60e
 #: ../../BNG.rst:642
 #, fuzzy
-msgid "Courser of Kruphix"
+msgid ":mtgtip:`Courser of Kruphix`"
 msgstr "Courser of Kruphix"
 
 # d75a38ed2719431998868ec22a11dd08
@@ -2458,7 +2497,7 @@ msgstr ""
 # 0b03bcb1f4764f0cb12a81e6333d7a4f
 #: ../../BNG.rst:646
 #, fuzzy
-msgid "Culling Mark"
+msgid ":mtgtip:`Culling Mark`"
 msgstr "Culling Mark"
 
 # 037c352926e247999cabd016a2c1d329
@@ -2471,7 +2510,7 @@ msgstr "Wskazany stwór blokuje w tej turze jeśli może."
 # 140c9464c7b548b49efc8c210b0d5346
 #: ../../BNG.rst:650
 #, fuzzy
-msgid "Fated Intervention"
+msgid ":mtgtip:`Fated Intervention`"
 msgstr "Fated Intervention"
 
 # 9e6b31813c5440e8b1b1f9e02960ccb1
@@ -2491,7 +2530,8 @@ msgstr ""
 # 37f77e6d39d146718f17e05ca1547aa9
 # ea5663049ba7421795424c1acbb46445
 #: ../../BNG.rst:656
-msgid "Graverobber Spider"
+#, fuzzy
+msgid ":mtgtip:`Graverobber Spider`"
 msgstr "Graverobber Spider (Pająk Cmentarny)"
 
 # 088ba5b85fe544c7aad68bc81b7935c8
@@ -2516,7 +2556,8 @@ msgstr ""
 # 14f08a5a32ca4c4cb4268e5be7e4b9c8
 # f1fa8b293661499194f4c26c503d730e
 #: ../../BNG.rst:660
-msgid "Hero of Leina Tower"
+#, fuzzy
+msgid ":mtgtip:`Hero of Leina Tower`"
 msgstr "Hero of Leina Tower (Bohater z Wieży z Leina)"
 
 # 707c63129721419887a6671185d142b9
@@ -2534,7 +2575,7 @@ msgstr ""
 # 0cfdfc7f214a406780c4182507854201
 #: ../../BNG.rst:664
 #, fuzzy
-msgid "Hunter's Prowess"
+msgid ":mtgtip:`Hunter's Prowess`"
 msgstr "Hunter's Prowess"
 
 # 13dc62f79141470f97f0ceefa709cd13
@@ -2552,7 +2593,8 @@ msgstr ""
 # 2dbe13410f44488ebfa1df63b7d164c5
 # 2213bcf904cd4aa6978c5bc950660c7a
 #: ../../BNG.rst:672
-msgid "Karametra's Favor"
+#, fuzzy
+msgid ":mtgtip:`Karametra's Favor`"
 msgstr "Karametra's Favor (Łaska Karametry)"
 
 # d2862045747f45468619e960cbe6b03a
@@ -2573,7 +2615,8 @@ msgstr ""
 # 0df291f5ede44209ad4986a21a1ad323
 # abaa095d51f241ea8c49f15b4b3b4147
 #: ../../BNG.rst:676
-msgid "Mischief and Mayhem"
+#, fuzzy
+msgid ":mtgtip:`Mischief and Mayhem`"
 msgstr "Mischief and Mayhem (Psota i Zamęt)"
 
 # 3e492720e82b4239bb2f8e6d4adc5b87
@@ -2586,7 +2629,7 @@ msgstr "Każdy z najwyżej dwóch wskazanych stworów dostaje +4/+4 do końca tu
 # 79bfd085ec9f40feb750dbd8e4d5bacd
 #: ../../BNG.rst:680
 #, fuzzy
-msgid "Mortal's Resolve"
+msgid ":mtgtip:`Mortal's Resolve`"
 msgstr "Mortal's Resolve"
 
 # 386c2a524b1145a59400e403ee950088
@@ -2603,7 +2646,8 @@ msgstr ""
 # bcf08c2a1a334f3ba84bb4d1507c2b5a
 # 087bad2395ee47fb8ac216fce9f307c0
 #: ../../BNG.rst:686
-msgid "Nessian Demolok"
+#, fuzzy
+msgid ":mtgtip:`Nessian Demolok`"
 msgstr "Nessian Demolok (Nessiański Demolok)"
 
 # 54f37dcd85aa4087ad12947128ba0091
@@ -2620,7 +2664,7 @@ msgstr ""
 # 8017b226bc324a5cbdf0ae55081a03e2
 #: ../../BNG.rst:692
 #, fuzzy
-msgid "Nessian Wilds Ravager"
+msgid ":mtgtip:`Nessian Wilds Ravager`"
 msgstr "Nessian Wilds Ravager"
 
 # 475d1a55c98142d19dbf36e3bfff79c3
@@ -2650,7 +2694,7 @@ msgstr ""
 # 2a4db1d8912c498ca4a9b84f8b5db34f
 #: ../../BNG.rst:700
 #, fuzzy
-msgid "Noble Quarry"
+msgid ":mtgtip:`Noble Quarry`"
 msgstr "Noble Quarry"
 
 # 4b40125dac2a4ecf91e91a2cabd27175
@@ -2679,7 +2723,7 @@ msgstr ""
 # 08b8a640241e4d88a7f9336a0297b011
 #: ../../BNG.rst:706
 #, fuzzy
-msgid "Nyxborn Wolf"
+msgid ":mtgtip:`Nyxborn Wolf`"
 msgstr "Nyxborn Wolf"
 
 # f6dc17bbbfea4a6684bf4b24ed196712
@@ -2705,7 +2749,7 @@ msgstr "Zauroczony stwór dostaje +3/+1."
 # 704f15e401174c39bb74561d26763e53
 #: ../../BNG.rst:710
 #, fuzzy
-msgid "Peregrination"
+msgid ":mtgtip:`Peregrination`"
 msgstr "Peregrination"
 
 # 2fbc6c1ba82a402eb13453d22fa5b65a
@@ -2727,7 +2771,7 @@ msgstr ""
 # 6069b194eab24370be181fcbf18799ba
 #: ../../BNG.rst:714
 #, fuzzy
-msgid "Pheres-Band Raiders"
+msgid ":mtgtip:`Pheres-Band Raiders`"
 msgstr "Pheres-Band Raiders"
 
 # 1ce64ae2a7e74c218bbdd199dd986104
@@ -2738,15 +2782,15 @@ msgid ""
 "mana_2|\\ |mana_g|. If you do, create a 3/3 green Centaur enchantment "
 "creature token."
 msgstr ""
-"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić "
-"|mana_2|\\ |mana_u|. Jeśli tak zrobisz, stwórz żeton niebieskiego uroku-"
+"Natchniony — Ilekroć Aerie Worshippers zostaje odznaczony, możesz zapłacić |"
+"mana_2|\\ |mana_u|. Jeśli tak zrobisz, stwórz żeton niebieskiego uroku-"
 "stwora Ptak 2/2 z lataniem."
 
 # 02392bf92d254168bdf9ae0ba9f3b6e7
 # 133e7f61a897439394465ce673af7e2a
 #: ../../BNG.rst:718
 #, fuzzy
-msgid "Pheres-Band Tromper"
+msgid ":mtgtip:`Pheres-Band Tromper`"
 msgstr "Pheres-Band Tromper"
 
 # 0cc5d8cb46fb4739b57154d8bc0fbcf3
@@ -2763,7 +2807,8 @@ msgstr ""
 # 7babffd992f24da389bf8072617af7fb
 # 1ef182757dee4180af4a07c0524c8127
 #: ../../BNG.rst:726
-msgid "Raised by Wolves"
+#, fuzzy
+msgid ":mtgtip:`Raised by Wolves`"
 msgstr "Raised by Wolves (Wychowany Przez Wilki)"
 
 # d58dc98f64644f4ca946cdd7a8aecf7b
@@ -2787,7 +2832,7 @@ msgstr "Zauroczony stwór dostaje +1/+1 za każdego Wilka pod twoim władaniem."
 # b41ced31cfaf4943ba65af3fc941e285
 #: ../../BNG.rst:730
 #, fuzzy
-msgid "Satyr Wayfinder"
+msgid ":mtgtip:`Satyr Wayfinder`"
 msgstr "Satyr Wayfinder"
 
 # 8e5c9d19a12c43a99c6eb022521da155
@@ -2807,7 +2852,7 @@ msgstr ""
 # e566259201c8494e95235f6337b68984
 #: ../../BNG.rst:738
 #, fuzzy
-msgid "Scourge of Skola Vale"
+msgid ":mtgtip:`Scourge of Skola Vale`"
 msgstr "Scourge of Skola Vale"
 
 # ef1fb768fc284606bf3be03688d232af
@@ -2828,7 +2873,7 @@ msgstr ""
 # ef27975ef72343d29bf950509d0e49e0
 #: ../../BNG.rst:742
 #, fuzzy
-msgid "Setessan Oathsworn"
+msgid ":mtgtip:`Setessan Oathsworn`"
 msgstr "Setessan Oathsworn"
 
 # 439d92338aeb40b68be9a9cbc299e2af
@@ -2844,7 +2889,7 @@ msgstr ""
 # 54a9c3cf68bc44cd92562cd584bd3e81
 #: ../../BNG.rst:746
 #, fuzzy
-msgid "Setessan Starbreaker"
+msgid ":mtgtip:`Setessan Starbreaker`"
 msgstr "Setessan Starbreaker"
 
 # 634ae678e34a4388a60a450dac6d01c4
@@ -2861,7 +2906,7 @@ msgstr ""
 # 181b38b9eca2467f83e780b7ae738ec7
 #: ../../BNG.rst:750
 #, fuzzy
-msgid "Skyreaping"
+msgid ":mtgtip:`Skyreaping`"
 msgstr "Skyreaping"
 
 # 2ec2d81644db443982eacce63e482495
@@ -2880,7 +2925,8 @@ msgstr ""
 # 788aabab254440e0a237444259e89b8f
 # cb144ea59f8c4c2887097427b4a57e31
 #: ../../BNG.rst:756
-msgid "Snake of the Golden Grove"
+#, fuzzy
+msgid ":mtgtip:`Snake of the Golden Grove`"
 msgstr "Snake of the Golden Grove (Wąż ze Złotego Zagajnika)"
 
 # b856f47f7126442c88c4a65525611762
@@ -2897,14 +2943,14 @@ msgstr ""
 # cbfe5d986b1141d4a65fb7e09bf3a770
 #: ../../BNG.rst:758
 #, fuzzy
-msgid "Swordwise Centaur"
+msgid ":mtgtip:`Swordwise Centaur`"
 msgstr "Swordwise Centaur"
 
 # 3fd8d7c9a01e489fb959a750afceaf78
 # afbee8820f364dbe92d141d31711ceec
 #: ../../BNG.rst:764
 #, fuzzy
-msgid "Unravel the Aether"
+msgid ":mtgtip:`Unravel the Aether`"
 msgstr "Unravel the Æther"
 
 # 5f4df1bf08c24313979f9815c739cb54
@@ -2921,7 +2967,8 @@ msgstr ""
 # 098e8b131f104c1e9b7b56e606b600fb
 # 56d5382113974e0587dd504402d65058
 #: ../../BNG.rst:772
-msgid "Chromanticore"
+#, fuzzy
+msgid ":mtgtip:`Chromanticore`"
 msgstr "Chromanticore (Chromantykora)"
 
 # 75498f00322d47ff9a68a325fc668da0
@@ -2933,8 +2980,8 @@ msgid ""
 "you cast this card for its bestow cost, it's an Aura spell with enchant "
 "creature. It becomes a creature again if it's not attached to a creature.)"
 msgstr ""
-"Obdarowanie |mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| ("
-"Jeśli zagrasz tę kartę za koszt obdarowania, jest ona czarem Aury "
+"Obdarowanie |mana_2|\\ |mana_w|\\ |mana_u|\\ |mana_b|\\ |mana_r|\\ |mana_g| "
+"(Jeśli zagrasz tę kartę za koszt obdarowania, jest ona czarem Aury "
 "zauroczenia stwora. Ponownie staje się stworem, jeśli nie jest dołączona do "
 "stwora.)"
 
@@ -2957,7 +3004,8 @@ msgstr ""
 # b8e922ed368d4b63aeb87e51b090a006
 # 6deead863dc54dcda7dff6e6661bb17d
 #: ../../BNG.rst:780
-msgid "Ephara, God of the Polis"
+#, fuzzy
+msgid ":mtgtip:`Ephara, God of the Polis`"
 msgstr "Ephara, God of the Polis (Ephara, Bogini Polis)"
 
 # 22552178a96046c1b815bd32450eeedb
@@ -2998,7 +3046,8 @@ msgstr ""
 # dd006a2bb57144feb8b8b7f3875e09dc
 # b960efdbd1304e7ea62238272abef8fb
 #: ../../BNG.rst:790
-msgid "Ephara's Enlightenment"
+#, fuzzy
+msgid ":mtgtip:`Ephara's Enlightenment`"
 msgstr "Ephara's Enlightenment (Oświecenie Ephary)"
 
 # 210ea3f26c924ff88e25d305577bb072
@@ -3032,7 +3081,8 @@ msgstr ""
 # b30df1d96cc64ab48eeb202c5be074a2
 # 53fa2a98e4c24021a6295e8cca13444d
 #: ../../BNG.rst:798
-msgid "Fanatic of Xenagos"
+#, fuzzy
+msgid ":mtgtip:`Fanatic of Xenagos`"
 msgstr "Fanatic of Xenagos (Fanatyk Xenagosa)"
 
 # 5574074ad7ee4956a47d75d179b1a059
@@ -3059,7 +3109,8 @@ msgstr ""
 # e0dadbc4d3c347319ff2d3c3d467bf6a
 # 6bd269bb93464be2ac72adfe49f83a26
 #: ../../BNG.rst:806
-msgid "Karametra, God of Harvests"
+#, fuzzy
+msgid ":mtgtip:`Karametra, God of Harvests`"
 msgstr "Karametra, God of Harvests (Karametra, Bogini Żniw)"
 
 # f967edae68774bf0a3cd1dd1e5c4b684
@@ -3088,7 +3139,7 @@ msgstr ""
 # ed1b5f59785b4170871cdd0cfa121d0b
 #: ../../BNG.rst:814
 #, fuzzy
-msgid "Kiora, the Crashing Wave"
+msgid ":mtgtip:`Kiora, the Crashing Wave`"
 msgstr "Kiora, the Crashing Wave"
 
 # 6d0d9911186f4c5893089fe616613e27
@@ -3124,7 +3175,7 @@ msgstr ""
 # 63322bf471e3462a9b86f055d19f3627
 #: ../../BNG.rst:818
 #, fuzzy
-msgid "Kiora's Follower"
+msgid ":mtgtip:`Kiora's Follower`"
 msgstr "Kiora's Follower"
 
 # 5c540528a6564784a598df97d9b5a5c0
@@ -3136,7 +3187,8 @@ msgstr "|tap|: Odkręć inny wskazany permanent."
 # 70f5538265bc4bf39ba9114ec1bacd03
 # 36adde1cd0714273bc972a2748bb9780
 #: ../../BNG.rst:826
-msgid "Mogis, God of Slaughter"
+#, fuzzy
+msgid ":mtgtip:`Mogis, God of Slaughter`"
 msgstr "Mogis, God of Slaughter (Mogis, Bóg Rzezi)"
 
 # 54cfdbbe33194539a3d210c5dade9201
@@ -3163,7 +3215,8 @@ msgstr ""
 # 452dd4dfe10c45398eb16d7a31e87008
 # 85b34c94279b492bb6b9a6481f51e11f
 #: ../../BNG.rst:834
-msgid "Phenax, God of Deception"
+#, fuzzy
+msgid ":mtgtip:`Phenax, God of Deception`"
 msgstr "Phenax, God of Deception (Phenax, Bóg Oszustwa)"
 
 # 0030c64b0f194a8f8bfbe450d8193349
@@ -3190,7 +3243,7 @@ msgstr ""
 # 0136df3f62874b889402da252d76c588
 #: ../../BNG.rst:838
 #, fuzzy
-msgid "Ragemonger"
+msgid ":mtgtip:`Ragemonger`"
 msgstr "Ragemonger"
 
 # a4febf9efb204fbd9b24d6abf8ad83ab
@@ -3210,7 +3263,8 @@ msgstr ""
 # 4bcd7eeb0424465488214d45b90ed293
 # 275953a0e92d4b109ae2603740f2c960
 #: ../../BNG.rst:842
-msgid "Reap What Is Sown"
+#, fuzzy
+msgid ":mtgtip:`Reap What Is Sown`"
 msgstr "Reap What Is Sown (Zbierz, Co Zasiane)"
 
 # 3a8724b78d024d338353f04e60cd297e
@@ -3222,7 +3276,8 @@ msgstr "Umieść znacznik +1/+1 na każdym z najwyżej trzech wskazanych stworó
 # 78dc893a276a4072a8080f22895526c1
 # e49e4f51bb304a598673d08e5d95af51
 #: ../../BNG.rst:848
-msgid "Siren of the Silent Song"
+#, fuzzy
+msgid ":mtgtip:`Siren of the Silent Song`"
 msgstr "Siren of the Silent Song (Syrena Milczącej Pieśni)"
 
 # 6ca1fcf6befd44709cb57db55d2ab8de
@@ -3241,7 +3296,8 @@ msgstr ""
 # 4dd381e3a4d9413bb313b9203904960f
 # ec6800cde6c74bcd91198323c66bdf2c
 #: ../../BNG.rst:856
-msgid "Xenagos, God of Revels"
+#, fuzzy
+msgid ":mtgtip:`Xenagos, God of Revels`"
 msgstr "Xenagos, God of Revels (Xenagos, Bóg Hulanki)"
 
 # d7b54790ae4044b38a8c3eef06437223
@@ -3268,7 +3324,8 @@ msgstr ""
 # d0ba0190e48149c4b0d7bc963438f233
 # 218a115ab7984286809532f1a2545101
 #: ../../BNG.rst:862
-msgid "Astral Cornucopia"
+#, fuzzy
+msgid ":mtgtip:`Astral Cornucopia`"
 msgstr "Astral Cornucopia (Astralny Róg Obfitości)"
 
 # 6de0e478cfc14a688e6970cb4ee8b202
@@ -3292,7 +3349,8 @@ msgstr ""
 # c27f72bd54ce47719cab7f6d33e558b5
 # fcabddbe17cd49f489e2946f46fd938b
 #: ../../BNG.rst:868
-msgid "Gorgon's Head"
+#, fuzzy
+msgid ":mtgtip:`Gorgon's Head`"
 msgstr "Gorgon's Head (Głowa Gorgony)"
 
 # 999d06557df04045b1f4e982261cf0b1
@@ -3309,7 +3367,8 @@ msgstr "Wyposaż |mana_2|"
 # 47a6eb8575f54a55b0a1cd56a0ba43d8
 # 73b987870fec411f8a78a7936c429ac3
 #: ../../BNG.rst:874
-msgid "Heroes' Podium"
+#, fuzzy
+msgid ":mtgtip:`Heroes' Podium`"
 msgstr "Heroes' Podium (Podium Bohaterów)"
 
 # f311a36074814fb3b997429e99a18b43
@@ -3337,7 +3396,8 @@ msgstr ""
 # 8c4cafbdd78440f690f150a21589a51b
 # fcca1551e0d449f7852f9e56f51488e0
 #: ../../BNG.rst:880
-msgid "Pillar of War"
+#, fuzzy
+msgid ":mtgtip:`Pillar of War`"
 msgstr "Pillar of War (Filar Wojny)"
 
 # 20f195d87fb240d48f38a7bfca2c45f9
@@ -3353,7 +3413,7 @@ msgstr ""
 # bcf7fc2f8afe43908755cb6a4aba0a30
 #: ../../BNG.rst:886
 #, fuzzy
-msgid "Siren Song Lyre"
+msgid ":mtgtip:`Siren Song Lyre`"
 msgstr "Siren Song Lyre"
 
 # 317251bb01a34770a2ad257eb35aaf60
@@ -3366,7 +3426,7 @@ msgstr "Wyposażony stwór ma \"|mana_2|, |tap|: Zaznacz wskazanego stwora.\""
 # 5d3d7380a40d4e44a7a827e221cbbcb8
 #: ../../BNG.rst:890
 #, fuzzy
-msgid "Springleaf Drum"
+msgid ":mtgtip:`Springleaf Drum`"
 msgstr "Springleaf Drum (Bęben Wiosennych Liści)"
 
 # bf5a1b7ec2cb482a8221b1823ad3739f
@@ -3381,7 +3441,8 @@ msgstr ""
 # 7c09abff09ab4b06bbcca8ae92dfebe2
 # 301958970b04469ba7073cc562583dc8
 #: ../../BNG.rst:898
-msgid "Temple of Enlightenment"
+#, fuzzy
+msgid ":mtgtip:`Temple of Enlightenment`"
 msgstr "Temple of Enlightenment (Świątynia Oświecenia)"
 
 # 68f34423508e4a3fad0f471facb8a351
@@ -3411,7 +3472,8 @@ msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 # 3bc746df3ad742238d193a3675a20100
 # 0714d35b16b34b20bc27dde8f11a5078
 #: ../../BNG.rst:906
-msgid "Temple of Malice"
+#, fuzzy
+msgid ":mtgtip:`Temple of Malice`"
 msgstr "Temple of Malice (Świątynia Złośliwości)"
 
 # 3a41f649b28a4ddc9a793addabea0c0e
@@ -3440,7 +3502,8 @@ msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 # 04a443619bca4b689c838187bc98a731
 # 8f015b9e9e80467280cdf3cb06722dac
 #: ../../BNG.rst:913
-msgid "Temple of Plenty"
+#, fuzzy
+msgid ":mtgtip:`Temple of Plenty`"
 msgstr "Temple of Plenty (Świątynia Dostatku)"
 
 # 9d307e1e0148493bbbcf5188a6ae297a
@@ -3465,6 +3528,28 @@ msgstr ""
 #: ../../BNG.rst:913
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
+
+# 261e540d6e8e4158b82f8ebf87026831
+# 58eebcb26dc64a529b7292086719208b
+#, fuzzy
+#~ msgid "Sunbond"
+#~ msgstr "Sunbond"
+
+# 6c0c862f157747009c3f3407aceacef5
+# 14dd80854f0741ff982295781f95c372
+#, fuzzy
+#~ msgid "Crypsis"
+#~ msgstr "Crypsis"
+
+# b9f8616117fc4086ab3f3025379911df
+#, fuzzy
+#~ msgid "Nullify"
+#~ msgstr "Nullify"
+
+# d403d474926f4edc910545cddad6083e
+# 6f34c1266a524d3888ea5af2666492b3
+#~ msgid "Gild"
+#~ msgstr "Gild (Ozłocenie)"
 
 # 926cb93898a74c88a80d7f90cebf54fc
 #~ msgid ""

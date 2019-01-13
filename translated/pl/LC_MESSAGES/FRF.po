@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-13 00:10+0000\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
+"PO-Revision-Date: 2019-01-13 15:26+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/frf/pl/>\n"
 "Language: pl\n"
@@ -22,13 +22,14 @@ msgstr ""
 
 # 7345517278b443309b0fc8a176170ddf
 #: ../../FRF.rst:5
-msgid "Fate Reforged"
+#, fuzzy
+msgid ":mtgexp:`FRF` Fate Reforged"
 msgstr "Fate Reforged (Los Odmieniony)"
 
 # a16f6f40cc174f678e6c39ef6375cf0c
 #: ../../FRF.rst:14
 #, fuzzy
-msgid "Ugin, the Spirit Dragon"
+msgid ":mtgtip:`Ugin, the Spirit Dragon`"
 msgstr "Ugin, the Spirit Dragon"
 
 # 39073fab04fe47a686e03a5d8cb2bc2f
@@ -58,7 +59,7 @@ msgstr ""
 # da92892300654292b0fb31235987f357
 #: ../../FRF.rst:18
 #, fuzzy
-msgid "Abzan Advantage"
+msgid ":mtgtip:`Abzan Advantage`"
 msgstr "Abzan Advantage"
 
 # 43169d86a29c446c93782bd340340f0a
@@ -75,7 +76,7 @@ msgstr ""
 # e9105403868d42d8a33ac01df43fbb11
 #: ../../FRF.rst:26
 #, fuzzy
-msgid "Abzan Runemark"
+msgid ":mtgtip:`Abzan Runemark`"
 msgstr "Abzan Runemark"
 
 # 21df4fe792514d9abdc7cc98abe6e1fa
@@ -112,7 +113,7 @@ msgstr ""
 # bb38198427a14cc0b5e0df190c74a72a
 #: ../../FRF.rst:32
 #, fuzzy
-msgid "Abzan Skycaptain"
+msgid ":mtgtip:`Abzan Skycaptain`"
 msgstr "Abzan Skycaptain"
 
 # 8798452ab16945b3a0e97ce9621c141a
@@ -148,7 +149,7 @@ msgstr ""
 # 2da1364fc1714d7daa485286d4468bcd
 #: ../../FRF.rst:36
 #, fuzzy
-msgid "Arashin Cleric"
+msgid ":mtgtip:`Arashin Cleric`"
 msgstr "Arashin Cleric"
 
 # d9b3abc9e3934f9b9ffbbcae1b4dc963
@@ -159,13 +160,13 @@ msgstr "Kiedy Arashin Cleric wchodzi na pole walki, zyskujesz 3 życia."
 # cacfb6ec7a6a449c8635a256eb454864
 #: ../../FRF.rst:40
 #, fuzzy
-msgid "Aven Skirmisher"
+msgid ":mtgtip:`Aven Skirmisher`"
 msgstr "Aven Skirmisher"
 
 # 541a67d3acc44020a4554f715b7eaf1c
 #: ../../FRF.rst:44
 #, fuzzy
-msgid "Channel Harm"
+msgid ":mtgtip:`Channel Harm`"
 msgstr "Channel Harm"
 
 # dd73017b2a0b42ffacf4ebcac9e84bd5
@@ -183,7 +184,7 @@ msgstr ""
 # e444c359e5204c0bb265da9a1b85fe3d
 #: ../../FRF.rst:52
 #, fuzzy
-msgid "Citadel Siege"
+msgid ":mtgtip:`Citadel Siege`"
 msgstr "Citadel Siege"
 
 # a145017aa1bd4b7ab4379cc5ce5bc08d
@@ -212,7 +213,7 @@ msgstr ""
 # f4dd56ca58e84f1e9bd101dbb0789737
 #: ../../FRF.rst:60
 #, fuzzy
-msgid "Daghatar the Adamant"
+msgid ":mtgtip:`Daghatar the Adamant`"
 msgstr "Daghatar the Adamant"
 
 # 17c7ce59fc6b42dfa62a686bf7948c69
@@ -241,7 +242,7 @@ msgstr ""
 # fd8e62ae7b9b4fa2a1883747cf0479f2
 #: ../../FRF.rst:66
 #, fuzzy
-msgid "Dragon Bell Monk"
+msgid ":mtgtip:`Dragon Bell Monk`"
 msgstr "Dragon Bell Monk"
 
 # 29f940ab81a4461ba48173bd89e5f34c
@@ -264,7 +265,7 @@ msgstr ""
 # 152a8c939f034832b53dde20845bcc7a
 #: ../../FRF.rst:70
 #, fuzzy
-msgid "Dragonscale General"
+msgid ":mtgtip:`Dragonscale General`"
 msgstr "Dragonscale General"
 
 # c28ebd7c13484d728030f512e7351e0e
@@ -282,7 +283,7 @@ msgstr ""
 # dfaed490c224404d9c9c66c0ff458d30
 #: ../../FRF.rst:76
 #, fuzzy
-msgid "Elite Scaleguard"
+msgid ":mtgtip:`Elite Scaleguard`"
 msgstr "Elite Scaleguard"
 
 # b88359346b964d378bd2de0d77de29e4
@@ -308,13 +309,13 @@ msgstr ""
 # 0e6e9c4d5d26404fadaa3c62159e5d2a
 #: ../../FRF.rst:78
 #, fuzzy
-msgid "Great-Horn Krushok"
+msgid ":mtgtip:`Great-Horn Krushok`"
 msgstr "Great-Horn Krushok"
 
 # 1cb7a5ff925e439487d0174058cdbc2d
 #: ../../FRF.rst:84
 #, fuzzy
-msgid "Honor's Reward"
+msgid ":mtgtip:`Honor's Reward`"
 msgstr "Honor's Reward"
 
 # 8ea770dd7e2843d4aeaa91cebdc372f6
@@ -329,7 +330,7 @@ msgstr ""
 # d1e79afcbd584f53b8627a6c766d8f99
 #: ../../FRF.rst:92
 #, fuzzy
-msgid "Jeskai Barricade"
+msgid ":mtgtip:`Jeskai Barricade`"
 msgstr "Jeskai Barricade"
 
 # 053629695d6a45a68d9cf3eeb8c397aa
@@ -355,7 +356,7 @@ msgstr ""
 # 42d6b4ae981b4deaa3744b93cf455660
 #: ../../FRF.rst:98
 #, fuzzy
-msgid "Lightform"
+msgid ":mtgtip:`Lightform`"
 msgstr "Lightform"
 
 # 71d1685e307c46b7be1be5eaff089047
@@ -381,7 +382,7 @@ msgstr "Zauroczony stwór ma Latanie i Więź Życia."
 # 1932ee648257455996ebd4efb4e24251
 #: ../../FRF.rst:104
 #, fuzzy
-msgid "Lotus-Eye Mystics"
+msgid ":mtgtip:`Lotus-Eye Mystics`"
 msgstr "Lotus-Eye Mystics"
 
 # 563082f172cc41439c05924a980747bd
@@ -396,7 +397,7 @@ msgstr ""
 # 24b39297aed84c0d93b54709f3511dae
 #: ../../FRF.rst:108
 #, fuzzy
-msgid "Mardu Woe-Reaper"
+msgid ":mtgtip:`Mardu Woe-Reaper`"
 msgstr "Mardu Woe-Reaper"
 
 # ab2c1a3bb82c4429811ae5ec7ca1e3ad
@@ -413,7 +414,7 @@ msgstr ""
 # c89d7e26d65c4d70bf0bcd7275e2d06b
 #: ../../FRF.rst:114
 #, fuzzy
-msgid "Mastery of the Unseen"
+msgid ":mtgtip:`Mastery of the Unseen`"
 msgstr "Mastery of the Unseen"
 
 # afecb9bdebe1452188ef2ec00f4f0846
@@ -440,7 +441,7 @@ msgstr ""
 # 1eee018fb92742f6bca4ae822dc3e497
 #: ../../FRF.rst:120
 #, fuzzy
-msgid "Monastery Mentor"
+msgid ":mtgtip:`Monastery Mentor`"
 msgstr "Monastery Mentor"
 
 # 382f8a724796455ab24c69c18a2d5b4d
@@ -456,7 +457,7 @@ msgstr ""
 # d0c1e72443e24308921a9afc1cceadba
 #: ../../FRF.rst:126
 #, fuzzy
-msgid "Pressure Point"
+msgid ":mtgtip:`Pressure Point`"
 msgstr "Pressure Point"
 
 # 799238b63db1489c93808f2f8d500654
@@ -474,7 +475,7 @@ msgstr "Dobierz kartę."
 # 77d7812ecec84037afb687bb5c5c25d4
 #: ../../FRF.rst:130
 #, fuzzy
-msgid "Rally the Ancestors"
+msgid ":mtgtip:`Rally the Ancestors`"
 msgstr "Rally the Ancestors"
 
 # 369f4b738b6943a4a515682cf3332059
@@ -491,7 +492,7 @@ msgstr ""
 # 225fca38ed20412a833961e463135618
 #: ../../FRF.rst:138
 #, fuzzy
-msgid "Sage's Reverie"
+msgid ":mtgtip:`Sage's Reverie`"
 msgstr "Sage's Reverie"
 
 # b590153699984d1dbba10611cb71cf5b
@@ -515,7 +516,7 @@ msgstr ""
 # 58d21ea5cc634e5e9b287f57fb514699
 #: ../../FRF.rst:142
 #, fuzzy
-msgid "Sandblast"
+msgid ":mtgtip:`Sandblast`"
 msgstr "Sandblast"
 
 # 60f0c01e25c9425e85f2a3d700e1b34f
@@ -527,7 +528,7 @@ msgstr ""
 # 24db489073ac48b8bdc2b429694fb520
 #: ../../FRF.rst:150
 #, fuzzy
-msgid "Sandsteppe Outcast"
+msgid ":mtgtip:`Sandsteppe Outcast`"
 msgstr "Sandsteppe Outcast"
 
 # 1235b885a48c46889f3fb34526949631
@@ -549,7 +550,7 @@ msgstr "Umieść na polu walki żeton białego stwora Duch 1/1 z Lataniem."
 # 57fd9ca93d4d4384a44263c40a622645
 #: ../../FRF.rst:154
 #, fuzzy
-msgid "Soul Summons"
+msgid ":mtgtip:`Soul Summons`"
 msgstr "Soul Summons"
 
 # 656fd60eeda24102b88e831b743e3b19
@@ -566,7 +567,7 @@ msgstr ""
 # 77ff48a73433484bbd8e27cf09075cc4
 #: ../../FRF.rst:162
 #, fuzzy
-msgid "Soulfire Grand Master"
+msgid ":mtgtip:`Soulfire Grand Master`"
 msgstr "Soulfire Grand Master"
 
 # 42d4055cacf9492d9dde6a425a193b54
@@ -594,7 +595,7 @@ msgstr ""
 # cfe3f67f877149b7bed4b25c27e416d1
 #: ../../FRF.rst:170
 #, fuzzy
-msgid "Valorous Stance"
+msgid ":mtgtip:`Valorous Stance`"
 msgstr "Valorous Stance"
 
 # 351686e2084f4fed965dbf8aab8b7a8b
@@ -620,7 +621,7 @@ msgstr "Zniszcz wskazanego stwora z wytrzymałością 4 lub większą."
 # e5a77a688c4d41b08ecd2cb58fda1ced
 #: ../../FRF.rst:174
 #, fuzzy
-msgid "Wandering Champion"
+msgid ":mtgtip:`Wandering Champion`"
 msgstr "Wandering Champion"
 
 # a127ec446e5c4f99a473a1a73382418f
@@ -636,7 +637,7 @@ msgstr ""
 # f806149a5d4c43979bff0222886dc6cd
 #: ../../FRF.rst:180
 #, fuzzy
-msgid "Wardscale Dragon"
+msgid ":mtgtip:`Wardscale Dragon`"
 msgstr "Wardscale Dragon"
 
 # f833ee0f98fc430382cf3e70f59deac2
@@ -648,7 +649,7 @@ msgstr "O ile ten stwór atakuje, zaatakowany gracz nie może rzucać czarów."
 # 11f446960d2140a5b6cb965d3b01a0a9
 #: ../../FRF.rst:190
 #, fuzzy
-msgid "Aven Surveyor"
+msgid ":mtgtip:`Aven Surveyor`"
 msgstr "Aven Surveyor"
 
 # 9042d8e50a3d449db768a6b5b04d8263
@@ -664,12 +665,12 @@ msgstr "Umieść znacznik +1/+1 na Aven Surveyor."
 # f09aeef18f0d444a8f6f356bea48b545
 #: ../../FRF.rst:189
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki jego władcy."
+msgstr "Zwróć wskazanego stwora do ręki jego właściciela."
 
 # d4fa2caa52e147a2bc1a36f485227699
 #: ../../FRF.rst:196
 #, fuzzy
-msgid "Cloudform"
+msgid ":mtgtip:`Cloudform`"
 msgstr "Cloudform"
 
 # 791ce5f8f5bb414686a38458dee8bb15
@@ -695,7 +696,7 @@ msgstr "Zauroczony stwór ma Latanie i Antyklątwę."
 # b5985dc37e094ba08836d6f79c8968b6
 #: ../../FRF.rst:200
 #, fuzzy
-msgid "Enhanced Awareness"
+msgid ":mtgtip:`Enhanced Awareness`"
 msgstr "Enhanced Awareness"
 
 # b0ffa7cfa12b4e6f8dc63ce4dee748fa
@@ -706,7 +707,7 @@ msgstr "Dobierz trzy karty, następnie odrzuć kartę."
 # 64781e21e3014cfb94c6638d1a5e9b99
 #: ../../FRF.rst:208
 #, fuzzy
-msgid "Fascination"
+msgid ":mtgtip:`Fascination`"
 msgstr "Fascination (Fascynacja)"
 
 # d74deb32d3c74746b1a32af022093c33
@@ -725,7 +726,7 @@ msgstr ""
 # b6f003142b3940599d093009aff91d1e
 #: ../../FRF.rst:212
 #, fuzzy
-msgid "Frost Walker"
+msgid ":mtgtip:`Frost Walker`"
 msgstr "Frost Walker"
 
 # f548d3eb1b0b44278871a7c8449f39bb
@@ -737,7 +738,7 @@ msgstr "Kiedy Frost Walker zostaje celem czaru lub zdolności, poświęć go."
 # 151e0ed0724c44bf9a2eaf267297d72b
 #: ../../FRF.rst:218
 #, fuzzy
-msgid "Jeskai Infiltrator"
+msgid ":mtgtip:`Jeskai Infiltrator`"
 msgstr "Jeskai Infiltrator"
 
 # a4419cea93e94c078d207c643a811439
@@ -767,7 +768,7 @@ msgstr ""
 # cbe66c29b0f04e299f134f39c5932542
 #: ../../FRF.rst:226
 #, fuzzy
-msgid "Jeskai Runemark"
+msgid ":mtgtip:`Jeskai Runemark`"
 msgstr "Jeskai Runemark"
 
 # 89b30849b93044b08f8dbb6abcb68dc9
@@ -781,7 +782,7 @@ msgstr ""
 # 1ddef6ef91f7497ead1043a4082796fe
 #: ../../FRF.rst:232
 #, fuzzy
-msgid "Jeskai Sage"
+msgid ":mtgtip:`Jeskai Sage`"
 msgstr "Jeskai Sage"
 
 # e61994b159e54a35bd26cfa0b2a03cc4
@@ -792,13 +793,13 @@ msgstr "Kiedy Jeskai Sage umiera, dobierz kartę."
 # f200e17fec354285a79561d3ca39c43f
 #: ../../FRF.rst:238
 #, fuzzy
-msgid "Lotus Path Djinn"
+msgid ":mtgtip:`Lotus Path Djinn`"
 msgstr "Lotus Path Djinn"
 
 # bb6d93c412744055b3db51ed2c5f25f9
 #: ../../FRF.rst:244
 #, fuzzy
-msgid "Marang River Prowler"
+msgid ":mtgtip:`Marang River Prowler`"
 msgstr "Marang River Prowler"
 
 # ab8ca0e637d847918fafd96a7f9b1343
@@ -818,7 +819,7 @@ msgstr ""
 # 15081e5c08ec4df69360057449e395ec
 #: ../../FRF.rst:250
 #, fuzzy
-msgid "Mindscour Dragon"
+msgid ":mtgtip:`Mindscour Dragon`"
 msgstr "Mindscour Dragon"
 
 # c277f59f202d48f1aafc051ea89c5cc5
@@ -834,7 +835,7 @@ msgstr ""
 # affddca1b53a46d58406aaeb9f94abad
 #: ../../FRF.rst:256
 #, fuzzy
-msgid "Mistfire Adept"
+msgid ":mtgtip:`Mistfire Adept`"
 msgstr "Mistfire Adept"
 
 # 5e9f796793c2478d820b639cd0d876e9
@@ -849,7 +850,7 @@ msgstr ""
 # 04bdcb00704c447b888c2a5090018c50
 #: ../../FRF.rst:264
 #, fuzzy
-msgid "Monastery Siege"
+msgid ":mtgtip:`Monastery Siege`"
 msgstr "Monastery Siege"
 
 # a297ff5f447a4c3cb5c7bd57c14193a2
@@ -878,7 +879,7 @@ msgstr ""
 # 830a8b214d714d758b106260cc9b9bd2
 #: ../../FRF.rst:268
 #, fuzzy
-msgid "Neutralizing Blast"
+msgid ":mtgtip:`Neutralizing Blast`"
 msgstr "Neutralizing Blast"
 
 # b25e19886d9a4a5b86c08052fc16eb93
@@ -889,7 +890,7 @@ msgstr "Skontruj wskazany wielokolorowy czar."
 # edc7c0f5cdfb41d4940c08b532214010
 #: ../../FRF.rst:272
 #, fuzzy
-msgid "Rakshasa's Disdain"
+msgid ":mtgtip:`Rakshasa's Disdain`"
 msgstr "Rakshasa's Disdain"
 
 # 5cf2232a19304bf1b972f28b87720ba0
@@ -904,7 +905,7 @@ msgstr ""
 # c4a1048e578f421e9a98649d5e1450d0
 #: ../../FRF.rst:276
 #, fuzzy
-msgid "Reality Shift"
+msgid ":mtgtip:`Reality Shift`"
 msgstr "Reality Shift"
 
 # daf79e89918d4fb691f4f2044cc31888
@@ -921,11 +922,9 @@ msgstr ""
 "walki frontem w dół jako stwora 2/2. Jeśli jest to karta stwora, może być "
 "odwrócona frontem do góry w dowolnym momencie za jej koszt many.)"
 
-# 9930e613ed444861b24e15a042061661
 #: ../../FRF.rst:282
-#, fuzzy
-msgid "Refocus"
-msgstr "Refocus"
+msgid ":mtgtip:`Refocus`"
+msgstr ""
 
 # cff6f3822403400481e39927991e4596
 #: ../../FRF.rst:279
@@ -935,7 +934,7 @@ msgstr "Odkręć wskazanego stwora."
 # 4c1235f1a1ab4b9c86b9655bb11242be
 #: ../../FRF.rst:288
 #, fuzzy
-msgid "Renowned Weaponsmith"
+msgid ":mtgtip:`Renowned Weaponsmith`"
 msgstr "Renowned Weaponsmith"
 
 # 8405cf98cd2e466b92581a7cbe385eb2
@@ -962,7 +961,7 @@ msgstr ""
 # 4cc02c3a801d4a60a0d5ab2a26b17e70
 #: ../../FRF.rst:294
 #, fuzzy
-msgid "Rite of Undoing"
+msgid ":mtgtip:`Rite of Undoing`"
 msgstr "Rite of Undoing"
 
 # 0fe3e7ca53cf4a84ba854392e98e7d47
@@ -994,7 +993,7 @@ msgstr ""
 # e978caafa0954cfcbccd63bf1cd82b33
 #: ../../FRF.rst:300
 #, fuzzy
-msgid "Sage-Eye Avengers"
+msgid ":mtgtip:`Sage-Eye Avengers`"
 msgstr "Sage-Eye Avengers"
 
 # f1a245eafe314b98b42c40ef8d7b9c8c
@@ -1009,7 +1008,7 @@ msgstr ""
 # 8f6d149dabd74108aa7a8af8830c3d02
 #: ../../FRF.rst:304
 #, fuzzy
-msgid "Shifting Loyalties"
+msgid ":mtgtip:`Shifting Loyalties`"
 msgstr "Shifting Loyalties"
 
 # d6b0a1807c7e409bad508db1bc7b1b88
@@ -1024,7 +1023,7 @@ msgstr ""
 # e181d64c76d6447593e5712318b7afdc
 #: ../../FRF.rst:310
 #, fuzzy
-msgid "Shu Yun, the Silent Tempest"
+msgid ":mtgtip:`Shu Yun, the Silent Tempest`"
 msgstr "Shu Yun, the Silent Tempest"
 
 # 5c6803f5ca3249f2b3755329ebd2b006
@@ -1034,13 +1033,14 @@ msgid ""
 "Whenever you cast a noncreature spell, you may pay |mana_rw|\\ |mana_rw|. If "
 "you do, target creature gains double strike until end of turn."
 msgstr ""
-"Ilekroć rzucasz czar nie będący stworem możesz zapłacić |mana_rw|\\ |mana_rw|"
-". Jeśli tak zrobisz, wskazany stwór zyskuje do końca tury Podwójny Cios."
+"Ilekroć rzucasz czar nie będący stworem możesz zapłacić |mana_rw|\\ |"
+"mana_rw|. Jeśli tak zrobisz, wskazany stwór zyskuje do końca tury Podwójny "
+"Cios."
 
 # dd1a19723f374d5b9ec135bea9ddd919
 #: ../../FRF.rst:314
 #, fuzzy
-msgid "Sultai Skullkeeper"
+msgid ":mtgtip:`Sultai Skullkeeper`"
 msgstr "Sultai Skullkeeper"
 
 # 60144ba00fc44a06bcd116a4aafc920c
@@ -1055,7 +1055,7 @@ msgstr ""
 # a7777eb368cb465ba1d6a874f49bb0cc
 #: ../../FRF.rst:318
 #, fuzzy
-msgid "Supplant Form"
+msgid ":mtgtip:`Supplant Form`"
 msgstr "Supplant Form"
 
 # f6382e2f44ca44fea9b5bc3f1b2d69b9
@@ -1071,7 +1071,7 @@ msgstr ""
 # 737e90126d6548ad94fa2c7d1e61e8e0
 #: ../../FRF.rst:324
 #, fuzzy
-msgid "Temporal Trespass"
+msgid ":mtgtip:`Temporal Trespass`"
 msgstr "Temporal Trespass"
 
 # 113619dd294449da8e5b301aab8e7f21
@@ -1082,7 +1082,7 @@ msgstr "Weź dodatkową turę po obecnej. Wygnaj Temporal Trespass."
 # e2676cd4f611495a8aac7640852eb8c1
 #: ../../FRF.rst:332
 #, fuzzy
-msgid "Torrent Elemental"
+msgid ":mtgtip:`Torrent Elemental`"
 msgstr "Torrent Elemental"
 
 # 885a763b6281418eb637fa4436789c9a
@@ -1107,7 +1107,7 @@ msgstr ""
 # b4ba7a8c5d584ebb8475de411f0aef30
 #: ../../FRF.rst:336
 #, fuzzy
-msgid "Whisk Away"
+msgid ":mtgtip:`Whisk Away`"
 msgstr "Whisk Away"
 
 # 0ddf36d9c49c427b8258570ee8aa6a65
@@ -1121,7 +1121,7 @@ msgstr ""
 # 7b73f657246847698b6ce9394c18dcbd
 #: ../../FRF.rst:342
 #, fuzzy
-msgid "Will of the Naga"
+msgid ":mtgtip:`Will of the Naga`"
 msgstr "Will of the Naga"
 
 # 66c4c69049364476b106d126ea1db2ea
@@ -1136,7 +1136,7 @@ msgstr ""
 # 44f37367e6dc43d1afa0a4e859357e12
 #: ../../FRF.rst:346
 #, fuzzy
-msgid "Write into Being"
+msgid ":mtgtip:`Write into Being`"
 msgstr "Write into Being"
 
 # 8a0bfc5375ba4f33979b82dd84c04f97
@@ -1156,7 +1156,7 @@ msgstr ""
 # 7c47cb8fe29c4c70a35837aab0e425b3
 #: ../../FRF.rst:350
 #, fuzzy
-msgid "Alesha's Vanguard"
+msgid ":mtgtip:`Alesha's Vanguard`"
 msgstr "Alesha's Vanguard"
 
 # 2a341a86d1944cc386b704541f10f717
@@ -1174,7 +1174,7 @@ msgstr ""
 # 41f83b47723147e5b9dde82d4ec1f969
 #: ../../FRF.rst:358
 #, fuzzy
-msgid "Ancestral Vengeance"
+msgid ":mtgtip:`Ancestral Vengeance`"
 msgstr "Ancestral Vengeance"
 
 # f0784e5250a04b9c856f635e515ec62f
@@ -1193,7 +1193,8 @@ msgstr "Zauroczony stwór dostaje -1/-1."
 
 # 008e64483ded46aa92624b47fb0a06a3
 #: ../../FRF.rst:364
-msgid "Archfiend of Depravity"
+#, fuzzy
+msgid ":mtgtip:`Archfiend of Depravity`"
 msgstr "Archfiend of Depravity (Arcydiabelstwo Deprawacji)"
 
 # c739eb9dc76b4c9097caf45dc6d0e30e
@@ -1209,7 +1210,7 @@ msgstr ""
 # eb9cd83a830f4c839fd872ce61edecb2
 #: ../../FRF.rst:368
 #, fuzzy
-msgid "Battle Brawler"
+msgid ":mtgtip:`Battle Brawler`"
 msgstr "Battle Brawler"
 
 # 29eccba5ab65436aa6ed08f05b8e6eca
@@ -1224,7 +1225,7 @@ msgstr ""
 # c40f25bd17a64118a4cde2c3e89bfd5c
 #: ../../FRF.rst:374
 #, fuzzy
-msgid "Brutal Hordechief"
+msgid ":mtgtip:`Brutal Hordechief`"
 msgstr "Brutal Hordechief"
 
 # f2da462d6cb5484cbe296d41b7a18bf9
@@ -1249,7 +1250,7 @@ msgstr ""
 # f7fb505f4dd943fc9e82cb9fdd35e83c
 #: ../../FRF.rst:382
 #, fuzzy
-msgid "Crux of Fate"
+msgid ":mtgtip:`Crux of Fate`"
 msgstr "Crux of Fate"
 
 # e50e7d118ec84ecc90360dffe8cbc079
@@ -1265,7 +1266,7 @@ msgstr "Zniszcz wszystkie stwory nie będące Smokami."
 # 6269f11277cd41afbcb2daf2ef9df291
 #: ../../FRF.rst:386
 #, fuzzy
-msgid "Dark Deal"
+msgid ":mtgtip:`Dark Deal`"
 msgstr "Dark Deal"
 
 # df83c8195f4c419bb66c1c48146ff56f
@@ -1281,7 +1282,7 @@ msgstr ""
 # d01020e7a3f84ca9bffcd9c1ba40920e
 #: ../../FRF.rst:390
 #, fuzzy
-msgid "Diplomacy of the Wastes"
+msgid ":mtgtip:`Diplomacy of the Wastes`"
 msgstr "Diplomacy of the Wastes"
 
 # 4c612a4d3deb4248a1a20e46ac9e841d
@@ -1299,7 +1300,7 @@ msgstr ""
 # 38f8e3d66c114c5a874b86230c6fcff6
 #: ../../FRF.rst:394
 #, fuzzy
-msgid "Douse in Gloom"
+msgid ":mtgtip:`Douse in Gloom`"
 msgstr "Douse in Gloom"
 
 # 7c5f99ed56b845fda54b8f8399b2d35c
@@ -1312,7 +1313,7 @@ msgstr ""
 # c071319d07f9401aa83a4937c8349669
 #: ../../FRF.rst:398
 #, fuzzy
-msgid "Fearsome Awakening"
+msgid ":mtgtip:`Fearsome Awakening`"
 msgstr "Fearsome Awakening"
 
 # 7d2741c406b64040aa331e81e2e60f2e
@@ -1327,7 +1328,7 @@ msgstr ""
 # c2478d5f368b406d9558d1e796b5f04c
 #: ../../FRF.rst:402
 #, fuzzy
-msgid "Ghastly Conscription"
+msgid ":mtgtip:`Ghastly Conscription`"
 msgstr "Ghastly Conscription"
 
 # 36e6ce80fd284cf6b6a9a1454d2f44f7
@@ -1347,7 +1348,7 @@ msgstr ""
 # 63c146618b9e4768b5d25e8e9dbc82b5
 #: ../../FRF.rst:406
 #, fuzzy
-msgid "Grave Strength"
+msgid ":mtgtip:`Grave Strength`"
 msgstr "Grave Strength"
 
 # 3150e7a356c24330b0aa7ab04ab832d7
@@ -1364,13 +1365,13 @@ msgstr ""
 # 6488b28576a849b8877a4a36018b1191
 #: ../../FRF.rst:410
 #, fuzzy
-msgid "Gurmag Angler"
+msgid ":mtgtip:`Gurmag Angler`"
 msgstr "Gurmag Angler"
 
 # 8509ab7162ca4e10bffa72099d90bf06
 #: ../../FRF.rst:418
 #, fuzzy
-msgid "Hooded Assassin"
+msgid ":mtgtip:`Hooded Assassin`"
 msgstr "Hooded Assassin"
 
 # 4ebe764196104a0baabfb42af3c0cc21
@@ -1391,7 +1392,7 @@ msgstr "Zniszcz wskazanego stwora, który otrzymał obrażenia w tej turze."
 # 7c1fe33bf75545cead4e6cad7d591bc5
 #: ../../FRF.rst:424
 #, fuzzy
-msgid "Mardu Shadowspear"
+msgid ":mtgtip:`Mardu Shadowspear`"
 msgstr "Mardu Shadowspear"
 
 # eee6880b6fcd4bb28bab58101c35f2aa
@@ -1414,7 +1415,7 @@ msgstr ""
 # 5d07a588c88f4fb1b38476cbd6486b3e
 #: ../../FRF.rst:430
 #, fuzzy
-msgid "Mardu Strike Leader"
+msgid ":mtgtip:`Mardu Strike Leader`"
 msgstr "Mardu Strike Leader"
 
 # 50f320634a4042e0bb6f3fe8ef45641c
@@ -1442,7 +1443,7 @@ msgstr ""
 # 025b1a717167425aafdf0c3316fbc0fc
 #: ../../FRF.rst:434
 #, fuzzy
-msgid "Merciless Executioner"
+msgid ":mtgtip:`Merciless Executioner`"
 msgstr "Merciless Executioner"
 
 # 5080e9b2a76944bfb5015b9f3114f526
@@ -1457,7 +1458,7 @@ msgstr ""
 # ddc4496e7da5419c80d72a9e2c1c68a9
 #: ../../FRF.rst:440
 #, fuzzy
-msgid "Noxious Dragon"
+msgid ":mtgtip:`Noxious Dragon`"
 msgstr "Noxious Dragon"
 
 # be76145208b74a748b5218a5610f69f4
@@ -1472,7 +1473,7 @@ msgstr ""
 # 95f56c05fff94f96815f4ed379d47401
 #: ../../FRF.rst:444
 #, fuzzy
-msgid "Orc Sureshot"
+msgid ":mtgtip:`Orc Sureshot`"
 msgstr "Orc Sureshot"
 
 # 07ef9d38e4fc4b269b27208c35c630ca
@@ -1487,7 +1488,7 @@ msgstr ""
 # b08ad7f1e8c042118b00f18b9cea7862
 #: ../../FRF.rst:452
 #, fuzzy
-msgid "Palace Siege"
+msgid ":mtgtip:`Palace Siege`"
 msgstr "Palace Siege"
 
 # 9a63874e1a4a4e69a7b1efd7c34e616a
@@ -1516,7 +1517,7 @@ msgstr ""
 # 8c45137152a0489483b8efde9f09eed9
 #: ../../FRF.rst:456
 #, fuzzy
-msgid "Qarsi High Priest"
+msgid ":mtgtip:`Qarsi High Priest`"
 msgstr "Qarsi High Priest"
 
 # 3db92265264a44f3bbbd686a809bf37b
@@ -1536,7 +1537,7 @@ msgstr ""
 # 7f94012206ce460297ab214ef4cdf12c
 #: ../../FRF.rst:460
 #, fuzzy
-msgid "Reach of Shadows"
+msgid ":mtgtip:`Reach of Shadows`"
 msgstr "Reach of Shadows"
 
 # ecacb173f8aa450a9adb8a5b18a6ad03
@@ -1547,7 +1548,7 @@ msgstr "Zniszcz wskazanego stwora mającego jeden lub więcej kolorów."
 # 00cb7e0b4cf54587a576f83420aa73ad
 #: ../../FRF.rst:464
 #, fuzzy
-msgid "Sibsig Host"
+msgid ":mtgtip:`Sibsig Host`"
 msgstr "Sibsig Host"
 
 # 87009acf8686417ea0f685245f18cfa4
@@ -1563,7 +1564,7 @@ msgstr ""
 # f655a603841a4016956e88287dbf3375
 #: ../../FRF.rst:470
 #, fuzzy
-msgid "Sibsig Muckdraggers"
+msgid ":mtgtip:`Sibsig Muckdraggers`"
 msgstr "Sibsig Muckdraggers"
 
 # 1111c878ada8498a89f16fdc93dcd6f1
@@ -1578,7 +1579,7 @@ msgstr ""
 # 3146bd4b51264160b4bde0dc6ed7caa9
 #: ../../FRF.rst:476
 #, fuzzy
-msgid "Soulflayer"
+msgid ":mtgtip:`Soulflayer`"
 msgstr "Soulflayer"
 
 # 68b7ffcc4d744a07b03576041a381e9a
@@ -1597,7 +1598,7 @@ msgstr ""
 # fdc0df5e52a74df693392e729977a2d7
 #: ../../FRF.rst:480
 #, fuzzy
-msgid "Sultai Emissary"
+msgid ":mtgtip:`Sultai Emissary`"
 msgstr "Sultai Emissary"
 
 # 0b84f0bd751e45fdaed4e4dd71ff97df
@@ -1615,7 +1616,7 @@ msgstr ""
 # 5b7e76489488469a996c918a70b4738a
 #: ../../FRF.rst:488
 #, fuzzy
-msgid "Sultai Runemark"
+msgid ":mtgtip:`Sultai Runemark`"
 msgstr "Sultai Runemark"
 
 # 20379bc6a2de4227b4fb3888bc8c55ae
@@ -1632,7 +1633,7 @@ msgstr ""
 # 0d811fc18a7f4e92840d4f0e52160e31
 #: ../../FRF.rst:494
 #, fuzzy
-msgid "Tasigur, the Golden Fang"
+msgid ":mtgtip:`Tasigur, the Golden Fang`"
 msgstr "Tasigur, the Golden Fang"
 
 # 8129809f391e45f0bd837803402d856e
@@ -1650,7 +1651,7 @@ msgstr ""
 # 1271e3d8ce0c44f1b1c6d8836cda79fb
 #: ../../FRF.rst:500
 #, fuzzy
-msgid "Tasigur's Cruelty"
+msgid ":mtgtip:`Tasigur's Cruelty`"
 msgstr "Tasigur's Cruelty"
 
 # 7f8f828ae7a54904892b3f4a797d6a94
@@ -1661,7 +1662,7 @@ msgstr "Każdy przeciwnik odrzuca dwie karty."
 # ac8f026c72814149a17d4017b546ebce
 #: ../../FRF.rst:504
 #, fuzzy
-msgid "Typhoid Rats"
+msgid ":mtgtip:`Typhoid Rats`"
 msgstr "Typhoid Rats"
 
 # f1fe26bbaeb9432f901378d7e4e63315
@@ -1675,7 +1676,8 @@ msgstr ""
 
 # b69af29634ce4127b22db2e2161a9c6d
 #: ../../FRF.rst:510
-msgid "Alesha, Who Smiles at Death"
+#, fuzzy
+msgid ":mtgtip:`Alesha, Who Smiles at Death`"
 msgstr "Alesha, Who Smiles at Death"
 
 # f84a2ed013d145f58fe64e54b04a34b4
@@ -1691,15 +1693,13 @@ msgid ""
 "mana_wb|. If you do, return target creature card with power 2 or less from "
 "your graveyard to the battlefield tapped and attacking."
 msgstr ""
-"Ilekroć Alesha, Who Smiles at Death atakuje możesz zapłacić |mana_wb|\\ "
-"|mana_wb|. Jeśli to zrobisz, zwróć wskazaną kartę stwora o sile 2 lub "
+"Ilekroć Alesha, Who Smiles at Death atakuje możesz zapłacić |mana_wb|\\ |"
+"mana_wb|. Jeśli to zrobisz, zwróć wskazaną kartę stwora o sile 2 lub "
 "mniejszej z twojego cmentarza na pole walki przekręconą i atakującą."
 
-# b752b50401464f6d81f0b312bd5e871c
 #: ../../FRF.rst:514
-#, fuzzy
-msgid "Arcbond"
-msgstr "Arcbond"
+msgid ":mtgtip:`Arcbond`"
+msgstr ""
 
 # feacb8f47d824ee7aa9998dcc9b49e2c
 #: ../../FRF.rst:513
@@ -1714,7 +1714,7 @@ msgstr ""
 # c754d6451c264cedb6e354b270b7aa72
 #: ../../FRF.rst:518
 #, fuzzy
-msgid "Bathe in Dragonfire"
+msgid ":mtgtip:`Bathe in Dragonfire`"
 msgstr "Bathe in Dragonfire"
 
 # 39073fab04fe47a686e03a5d8cb2bc2f
@@ -1725,7 +1725,7 @@ msgstr "Bathe in Dragonfire zadaje wskazanemu stworowi 4 obrażenia."
 # 32411eb9f6354a48a2db5d0758c7a21a
 #: ../../FRF.rst:522
 #, fuzzy
-msgid "Bloodfire Enforcers"
+msgid ":mtgtip:`Bloodfire Enforcers`"
 msgstr "Bloodfire Enforcers"
 
 # f71c7a0ab36348b1ae25c61c72e4ba28
@@ -1740,7 +1740,7 @@ msgstr ""
 # b927d198b0b84858be6d8d8a2014122d
 #: ../../FRF.rst:526
 #, fuzzy
-msgid "Break Through the Line"
+msgid ":mtgtip:`Break Through the Line`"
 msgstr "Break Through the Line"
 
 # ea4bd5b60a9d4a17af31d5ae1772bced
@@ -1755,7 +1755,7 @@ msgstr ""
 # dabee7195cc348d6b53306d87d503164
 #: ../../FRF.rst:532
 #, fuzzy
-msgid "Collateral Damage"
+msgid ":mtgtip:`Collateral Damage`"
 msgstr "Collateral Damage"
 
 # 34b70c41a9df4c8e86b5eb879e5f7240
@@ -1772,7 +1772,7 @@ msgstr "Collateral Damage zadaje 3 obrażenia wskazanemu stworowi lub graczowi."
 # d4088123f2d04b2a9ca5063b1f135516
 #: ../../FRF.rst:540
 #, fuzzy
-msgid "Defiant Ogre"
+msgid ":mtgtip:`Defiant Ogre`"
 msgstr "Defiant Ogre"
 
 # ddb2e717307b40589f431c1034f8debc
@@ -1793,7 +1793,7 @@ msgstr "Zniszcz wskazany artefakt."
 # cc538100ef5d462bb65bad3d5a31e07a
 #: ../../FRF.rst:544
 #, fuzzy
-msgid "Dragonrage"
+msgid ":mtgtip:`Dragonrage`"
 msgstr "Dragonrage"
 
 # fbba70dcba4c45298f002596b13d63b0
@@ -1805,13 +1805,13 @@ msgid ""
 "until end of turn.\""
 msgstr ""
 "Dodaj |mana_r| do twojej puli many za każdego atakującego stwora pod twoim "
-"władaniem. Do końca tury ataukujące stwory, którymi władasz dostają \""
-"|mana_r|: Ten stwór dostaje +1/+0 do końca tury.\""
+"władaniem. Do końca tury ataukujące stwory, którymi władasz dostają \"|"
+"mana_r|: Ten stwór dostaje +1/+0 do końca tury.\""
 
 # a86981e155a1417b84bd4c8a0b1654b3
 #: ../../FRF.rst:548
 #, fuzzy
-msgid "Fierce Invocation"
+msgid ":mtgtip:`Fierce Invocation`"
 msgstr "Fierce Invocation"
 
 # 6819e34b72db49f8b6c47ad9ca694bee
@@ -1830,7 +1830,7 @@ msgstr ""
 # a998b39b60674fd6a442ad27a950a8b1
 #: ../../FRF.rst:554
 #, fuzzy
-msgid "Flamerush Rider"
+msgid ":mtgtip:`Flamerush Rider`"
 msgstr "Flamerush Rider"
 
 # 821f92b656e94757adc70458fdaadb15
@@ -1860,7 +1860,7 @@ msgstr ""
 # 26c3041fe6b14d9a90f622f3cc810e34
 #: ../../FRF.rst:562
 #, fuzzy
-msgid "Flamewake Phoenix"
+msgid ":mtgtip:`Flamewake Phoenix`"
 msgstr "Flamewake Phoenix"
 
 # 651a951868614966845640a836e606f4
@@ -1888,7 +1888,7 @@ msgstr ""
 # 4c48d148513b41c3b960c54e0fb3fb0b
 #: ../../FRF.rst:566
 #, fuzzy
-msgid "Friendly Fire"
+msgid ":mtgtip:`Friendly Fire`"
 msgstr "Friendly Fire"
 
 # 33eb4a2d2ab9417b87a574396c5d0467
@@ -1906,7 +1906,7 @@ msgstr ""
 # 4548104c629542ab98f805fe1860d858
 #: ../../FRF.rst:572
 #, fuzzy
-msgid "Goblin Heelcutter"
+msgid ":mtgtip:`Goblin Heelcutter`"
 msgstr "Goblin Heelcutter"
 
 # bb468dce44c84c2e8a4cea8799510927
@@ -1933,13 +1933,13 @@ msgstr ""
 # cbb120c4268b41b9b453839f57739ed2
 #: ../../FRF.rst:574
 #, fuzzy
-msgid "Gore Swine"
+msgid ":mtgtip:`Gore Swine`"
 msgstr "Gore Swine"
 
 # 20c78149c6be49c190258738dc35bb23
 #: ../../FRF.rst:580
 #, fuzzy
-msgid "Humble Defector"
+msgid ":mtgtip:`Humble Defector`"
 msgstr "Humble Defector"
 
 # 743ad2eccdc64ddaa52bce90cdfd2711
@@ -1954,7 +1954,7 @@ msgstr ""
 # f7154209d7d74967b0573e9ba47991ce
 #: ../../FRF.rst:584
 #, fuzzy
-msgid "Hungering Yeti"
+msgid ":mtgtip:`Hungering Yeti`"
 msgstr "Hungering Yeti"
 
 # 7f839e50622e456d9f7fd35d2db07f81
@@ -1971,7 +1971,7 @@ msgstr ""
 # d17152b07ce64c2680851fbedca4e4d9
 #: ../../FRF.rst:590
 #, fuzzy
-msgid "Lightning Shrieker"
+msgid ":mtgtip:`Lightning Shrieker`"
 msgstr "Lightning Shrieker"
 
 # 9c55c8cc82c24e3dbeefe3532a68ea6b
@@ -1992,7 +1992,7 @@ msgstr ""
 # 93094cca7869422a98c4f850fbf5d0d6
 #: ../../FRF.rst:598
 #, fuzzy
-msgid "Mardu Runemark"
+msgid ":mtgtip:`Mardu Runemark`"
 msgstr "Mardu Runemark"
 
 # d137fb8305c342638f31297610c85e2f
@@ -2007,7 +2007,7 @@ msgstr ""
 # 18a1ccc655d04e949fc136742536da70
 #: ../../FRF.rst:602
 #, fuzzy
-msgid "Mardu Scout"
+msgid ":mtgtip:`Mardu Scout`"
 msgstr "Mardu Scout"
 
 # e6083f4d52004f43a87f1b60b8801957
@@ -2025,7 +2025,7 @@ msgstr ""
 # f4d64f83b6204779a76dc3871eefdf99
 #: ../../FRF.rst:610
 #, fuzzy
-msgid "Mob Rule"
+msgid ":mtgtip:`Mob Rule`"
 msgstr "Mob Rule"
 
 # ab10d413bdb34947a4e1f0d57d736f05
@@ -2049,7 +2049,7 @@ msgstr ""
 # e9992ce1fb754dccad566bb83ae3e835
 #: ../../FRF.rst:618
 #, fuzzy
-msgid "Outpost Siege"
+msgid ":mtgtip:`Outpost Siege`"
 msgstr "Outpost Siege"
 
 # 79fb0502f5ab43589a91ac6d990d8d88
@@ -2078,7 +2078,8 @@ msgstr ""
 
 # 58a14153b4034dbc9335aeed23db34b9
 #: ../../FRF.rst:622
-msgid "Pyrotechnics"
+#, fuzzy
+msgid ":mtgtip:`Pyrotechnics`"
 msgstr "Pyrotechnics (Pirotechnika)"
 
 # 352dd4cce4394c6287eed4aca751b477
@@ -2094,7 +2095,7 @@ msgstr ""
 # 647112eb14c34a76a649fe93f8f0d7be
 #: ../../FRF.rst:628
 #, fuzzy
-msgid "Rageform"
+msgid ":mtgtip:`Rageform`"
 msgstr "Rageform"
 
 # 1e0c287cb31b4857bf023537a606eb88
@@ -2124,7 +2125,7 @@ msgstr ""
 # f49f35b5599645c28cdf6f40c00e06d3
 #: ../../FRF.rst:636
 #, fuzzy
-msgid "Shaman of the Great Hunt"
+msgid ":mtgtip:`Shaman of the Great Hunt`"
 msgstr "Shaman of the Great Hunt"
 
 # 3eb73fc7359343729b85587c3f509a3c
@@ -2154,7 +2155,7 @@ msgstr ""
 # 224363d732824c35a62ef1fe1b5cb0b1
 #: ../../FRF.rst:642
 #, fuzzy
-msgid "Shockmaw Dragon"
+msgid ":mtgtip:`Shockmaw Dragon`"
 msgstr "Shockmaw Dragon"
 
 # 98d4ee2003c34a15a6bbe5d130641374
@@ -2169,7 +2170,7 @@ msgstr ""
 # 11c9387cc99c4ea5a70bd51661548dd7
 #: ../../FRF.rst:646
 #, fuzzy
-msgid "Smoldering Efreet"
+msgid ":mtgtip:`Smoldering Efreet`"
 msgstr "Smoldering Efreet"
 
 # 99ab47ec47cf48d5ac89ea3a8fc878ca
@@ -2180,7 +2181,7 @@ msgstr "Kiedy Smoldering Efreet umiera, zadaje tobie 2 obrażenia."
 # ac5237b87d994d42b6fcd055414a1848
 #: ../../FRF.rst:652
 #, fuzzy
-msgid "Temur Battle Rage"
+msgid ":mtgtip:`Temur Battle Rage`"
 msgstr "Temur Battle Rage"
 
 # ff76e2935bbb4aefb8caf5413c793e24
@@ -2204,7 +2205,7 @@ msgstr ""
 # 2cab3bbaef61441f8826c5b4b6cd17f6
 #: ../../FRF.rst:658
 #, fuzzy
-msgid "Vaultbreaker"
+msgid ":mtgtip:`Vaultbreaker`"
 msgstr "Vaultbreaker"
 
 # 6c1434db53c1451a98bf445ef43115a8
@@ -2219,7 +2220,7 @@ msgstr ""
 # efe9ddac16354c4d834df6926adf8a8c
 #: ../../FRF.rst:664
 #, fuzzy
-msgid "Wild Slash"
+msgid ":mtgtip:`Wild Slash`"
 msgstr "Wild Slash"
 
 # 5d28dfac8a8f41588bf600a3aaba3875
@@ -2238,7 +2239,7 @@ msgstr "Ten czar zadaje 2 obrażenia w dowolny cel."
 # 97dc930d4bc145afaa97a477453ddc07
 #: ../../FRF.rst:668
 #, fuzzy
-msgid "Abzan Beastmaster"
+msgid ":mtgtip:`Abzan Beastmaster`"
 msgstr "Abzan Beastmaster"
 
 # 57660b5ecb974ef981bf3452d2c48b3a
@@ -2253,7 +2254,7 @@ msgstr ""
 # 20547b1ab0f54f09aaeee9e8a553ec19
 #: ../../FRF.rst:672
 #, fuzzy
-msgid "Abzan Kin-Guard"
+msgid ":mtgtip:`Abzan Kin-Guard`"
 msgstr "Abzan Kin-Guard"
 
 # 5585cf5cc3164e7da3deedbc8f79adde
@@ -2267,7 +2268,7 @@ msgstr ""
 # d8f7a339e69d4c3cbdb05c93f95c7711
 #: ../../FRF.rst:680
 #, fuzzy
-msgid "Ainok Guide"
+msgid ":mtgtip:`Ainok Guide`"
 msgstr "Ainok Guide"
 
 # 3390c6233c044b5682ca536cbf2196a8
@@ -2292,7 +2293,7 @@ msgstr ""
 # f171a69d39f14bffb2c0736a89bc68a7
 #: ../../FRF.rst:686
 #, fuzzy
-msgid "Ambush Krotiq"
+msgid ":mtgtip:`Ambush Krotiq`"
 msgstr "Ambush Krotiq"
 
 # cab0e930bf8e42a5875c37dbcd7d6896
@@ -2313,7 +2314,7 @@ msgstr ""
 # 6d7674c64c0d4250800a1e2321d3e142
 #: ../../FRF.rst:690
 #, fuzzy
-msgid "Arashin War Beast"
+msgid ":mtgtip:`Arashin War Beast`"
 msgstr "Arashin War Beast"
 
 # 51d0a0e4cd764eafa0c6fad92175c2d9
@@ -2332,7 +2333,7 @@ msgstr ""
 # 7c4c3544dc544e11912d72fb0362f1f5
 #: ../../FRF.rst:696
 #, fuzzy
-msgid "Archers of Qarsi"
+msgid ":mtgtip:`Archers of Qarsi`"
 msgstr "Archers of Qarsi"
 
 # cf07030fec7945dd99ac2811598c4450
@@ -2343,7 +2344,7 @@ msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 # a1ec57ec9d1446ed847a995a21d468fd
 #: ../../FRF.rst:702
 #, fuzzy
-msgid "Battlefront Krushok"
+msgid ":mtgtip:`Battlefront Krushok`"
 msgstr "Battlefront Krushok"
 
 # ef96e56841844106846dfd87760369bf
@@ -2364,7 +2365,7 @@ msgstr ""
 # f4e3f8f6ff124d86becf888c31992dfd
 #: ../../FRF.rst:706
 #, fuzzy
-msgid "Cached Defenses"
+msgid ":mtgtip:`Cached Defenses`"
 msgstr "Cached Defenses"
 
 # 9f142395cf4d485cb801f641b7762242
@@ -2378,7 +2379,8 @@ msgstr ""
 
 # d6e8174090634e04a6c953618cf0d0b2
 #: ../../FRF.rst:712
-msgid "Destructor Dragon"
+#, fuzzy
+msgid ":mtgtip:`Destructor Dragon`"
 msgstr "Destructor Dragon (Smok Niszczyciel)"
 
 # 9b3eee59039c47f981aa4021223278a7
@@ -2390,13 +2392,13 @@ msgstr ""
 # 751e5ab30c6c44e2ad340c1f6139950a
 #: ../../FRF.rst:714
 #, fuzzy
-msgid "Feral Krushok"
+msgid ":mtgtip:`Feral Krushok`"
 msgstr "Feral Krushok"
 
 # 543787714a674de2a7aaa3831dd2edab
 #: ../../FRF.rst:720
 #, fuzzy
-msgid "Formless Nurturing"
+msgid ":mtgtip:`Formless Nurturing`"
 msgstr "Formless Nurturing"
 
 # 26d3ae4327a748f6a421810fb49c3634
@@ -2414,7 +2416,7 @@ msgstr ""
 # 5b477d86bf9c4e1d99fb7de909e8043a
 #: ../../FRF.rst:724
 #, fuzzy
-msgid "Frontier Mastodon"
+msgid ":mtgtip:`Frontier Mastodon`"
 msgstr "Frontier Mastodon"
 
 # 62aad698c39a439e8637d3015d403b30
@@ -2429,7 +2431,7 @@ msgstr ""
 # d8efa346fac34c28bac63bfea00ba669
 #: ../../FRF.rst:732
 #, fuzzy
-msgid "Frontier Siege"
+msgid ":mtgtip:`Frontier Siege`"
 msgstr "Frontier Siege"
 
 # a2e334aa96fe4080aa8cc87abb758d45
@@ -2458,7 +2460,8 @@ msgstr ""
 
 # a84583a3fc104e278b4e72a81f640871
 #: ../../FRF.rst:738
-msgid "Fruit of the First Tree"
+#, fuzzy
+msgid ":mtgtip:`Fruit of the First Tree`"
 msgstr "Fruit of the First Tree (Owoc Pierwszego Drzewa)"
 
 # 1d2cfc4446b849ff84e1c46298dd67eb
@@ -2472,7 +2475,8 @@ msgstr ""
 
 # 4f6ff150f81343c8bebdd18a546e5ea4
 #: ../../FRF.rst:742
-msgid "Hunt the Weak"
+#, fuzzy
+msgid ":mtgtip:`Hunt the Weak`"
 msgstr "Hunt the Weak"
 
 # 3ac2330668114eabab52f929a252deeb
@@ -2489,7 +2493,7 @@ msgstr ""
 # ba731f7a0aa44cc7b34bc31973e1e35f
 #: ../../FRF.rst:746
 #, fuzzy
-msgid "Map the Wastes"
+msgid ":mtgtip:`Map the Wastes`"
 msgstr "Map the Wastes"
 
 # ffa1a0360be14bdba8f4737ef57eeb60
@@ -2507,7 +2511,7 @@ msgstr ""
 # da08e42a5dcc48fb96526f8b786a4427
 #: ../../FRF.rst:750
 #, fuzzy
-msgid "Return to the Earth"
+msgid ":mtgtip:`Return to the Earth`"
 msgstr "Return to the Earth"
 
 # a1ea4a76873c44dea1ce0c4b9e990046
@@ -2518,7 +2522,7 @@ msgstr "Zniszcz wskazany artefakt, urok lub stwora z Lataniem."
 # 31dd3986077a42498391e44fffc1e32d
 #: ../../FRF.rst:758
 #, fuzzy
-msgid "Ruthless Instincts"
+msgid ":mtgtip:`Ruthless Instincts`"
 msgstr "Ruthless Instincts"
 
 # a5bbb2ed6a9942d49f5697cc69c5132b
@@ -2539,7 +2543,7 @@ msgstr "Wskazany atakujący stwór dostaje do końca tury +2/+2 oraz Tratowanie.
 # ad166950d42d4e389eff7d88b87dcf33
 #: ../../FRF.rst:764
 #, fuzzy
-msgid "Sandsteppe Mastodon"
+msgid ":mtgtip:`Sandsteppe Mastodon`"
 msgstr "Sandsteppe Mastodon"
 
 # 58c9ff8a92b2486f8c8a9eebf9f9b5a4
@@ -2561,7 +2565,7 @@ msgstr ""
 # 62341d95032e4c8e8f2a58038f8f8ba7
 #: ../../FRF.rst:770
 #, fuzzy
-msgid "Shamanic Revelation"
+msgid ":mtgtip:`Shamanic Revelation`"
 msgstr "Shamanic Revelation"
 
 # f6b03e244b044530ab5d68e680195fb6
@@ -2581,7 +2585,7 @@ msgstr ""
 # 5c3f0b73b8824b8f81a5daedac4564b2
 #: ../../FRF.rst:774
 #, fuzzy
-msgid "Sudden Reclamation"
+msgid ":mtgtip:`Sudden Reclamation`"
 msgstr "Sudden Reclamation"
 
 # 8129809f391e45f0bd837803402d856e
@@ -2597,7 +2601,7 @@ msgstr ""
 # 3dadf5a201a34d87bc7b6511b1d078ed
 #: ../../FRF.rst:782
 #, fuzzy
-msgid "Temur Runemark"
+msgid ":mtgtip:`Temur Runemark`"
 msgstr "Temur Runemark"
 
 # 397d69999e7f417cad4e70a9b7eb04f4
@@ -2612,7 +2616,7 @@ msgstr ""
 # 775b9aea645b4240bfc78a22793623d7
 #: ../../FRF.rst:786
 #, fuzzy
-msgid "Temur Sabertooth"
+msgid ":mtgtip:`Temur Sabertooth`"
 msgstr "Temur Sabertooth"
 
 # 885b53b7b7514f38936dac5f94ec396f
@@ -2630,7 +2634,7 @@ msgstr ""
 # 98fe106ac6cd4d7f8eea8719c1a8afdb
 #: ../../FRF.rst:792
 #, fuzzy
-msgid "Temur War Shaman"
+msgid ":mtgtip:`Temur War Shaman`"
 msgstr "Temur War Shaman"
 
 # 42c3e2ca8b68453d9d9342cdae601973
@@ -2657,7 +2661,8 @@ msgstr ""
 
 # 4780f44ad6ae4ad3ad065bd037f9a88f
 #: ../../FRF.rst:800
-msgid "Warden of the First Tree"
+#, fuzzy
+msgid ":mtgtip:`Warden of the First Tree`"
 msgstr "Warden of the First Tree (Strażnik Pierwszego Drzewa)"
 
 #: ../../FRF.rst:795
@@ -2690,7 +2695,7 @@ msgstr ""
 # 0814de5c57944b47970a58ff4e8fc1dc
 #: ../../FRF.rst:806
 #, fuzzy
-msgid "Whisperer of the Wilds"
+msgid ":mtgtip:`Whisperer of the Wilds`"
 msgstr "Whisperer of the Wilds"
 
 # 3a2b642d25e14622b7c96aa96a4fda67
@@ -2711,7 +2716,7 @@ msgstr ""
 # 55e461deba584b1a98e4e305c11f1ee5
 #: ../../FRF.rst:812
 #, fuzzy
-msgid "Whisperwood Elemental"
+msgid ":mtgtip:`Whisperwood Elemental`"
 msgstr "Whisperwood Elemental"
 
 # 38304afc1bbd42369f9aa227991b157c
@@ -2741,7 +2746,7 @@ msgstr ""
 # 2264e292ef414142a579bda16ac1fe33
 #: ../../FRF.rst:816
 #, fuzzy
-msgid "Wildcall"
+msgid ":mtgtip:`Wildcall`"
 msgstr "Wildcall"
 
 # 374ce014ca1e46e396897b0c49086e3d
@@ -2759,7 +2764,7 @@ msgstr ""
 # 998efec700db408ea915827d9ff68ede
 #: ../../FRF.rst:822
 #, fuzzy
-msgid "Winds of Qal Sisma"
+msgid ":mtgtip:`Winds of Qal Sisma`"
 msgstr "Winds of Qal Sisma"
 
 # 6357714825ce4bb7b63f13ed38e568e9
@@ -2783,7 +2788,7 @@ msgstr ""
 # cc057580cc134564a8aac90b4b14be8e
 #: ../../FRF.rst:828
 #, fuzzy
-msgid "Yasova Dragonclaw"
+msgid ":mtgtip:`Yasova Dragonclaw`"
 msgstr "Yasova Dragonclaw"
 
 #: ../../FRF.rst:827
@@ -2794,15 +2799,15 @@ msgid ""
 "with power less than Yasova Dragonclaw's power until end of turn, untap that "
 "creature, and it gains haste until end of turn."
 msgstr ""
-"Na początku walki w twojej turze, możesz zapłacić |mana_1|\\ |mana_ur|\\ "
-"|mana_ur|. Jeśli tak zrobisz, zyskujesz do końca tury władanie nad wskazanym "
+"Na początku walki w twojej turze, możesz zapłacić |mana_1|\\ |mana_ur|\\ |"
+"mana_ur|. Jeśli tak zrobisz, zyskujesz do końca tury władanie nad wskazanym "
 "stworem pod władaniem przeciwnika o sile mniejszej niż siła tego stwora, "
 "odkręć owego stwora, zyskuje on pośpiech do końca tury."
 
 # 690580dc2c754363a3101e741e29b34b
 #: ../../FRF.rst:834
 #, fuzzy
-msgid "Atarka, World Render"
+msgid ":mtgtip:`Atarka, World Render`"
 msgstr "Atarka, World Render"
 
 # 65d099b46ef3418ca8a56c3f4d7e0b23
@@ -2822,7 +2827,7 @@ msgstr ""
 # 2f111abeb53e48f398e4d33f7602b29c
 #: ../../FRF.rst:840
 #, fuzzy
-msgid "Cunning Strike"
+msgid ":mtgtip:`Cunning Strike`"
 msgstr "Cunning Strike"
 
 # 577399f19fcb4ddd9168d66c4e16db66
@@ -2838,7 +2843,7 @@ msgstr ""
 # 2cb3a349e6784806adab76ad7e64ff6f
 #: ../../FRF.rst:846
 #, fuzzy
-msgid "Dromoka, the Eternal"
+msgid ":mtgtip:`Dromoka, the Eternal`"
 msgstr "Dromoka, the Eternal"
 
 # ad9f978bbc95464195cce57019ad4cee
@@ -2855,7 +2860,7 @@ msgstr ""
 # 6d623a817bcc4862828423a2ccd5efae
 #: ../../FRF.rst:850
 #, fuzzy
-msgid "Ethereal Ambush"
+msgid ":mtgtip:`Ethereal Ambush`"
 msgstr "Ethereal Ambush"
 
 # 590eb09bf27d4a6baef12f29040b7257
@@ -2872,7 +2877,7 @@ msgstr ""
 # 2e50ab7e54404ecbaf66adde7d39a064
 #: ../../FRF.rst:854
 #, fuzzy
-msgid "Grim Contest"
+msgid ":mtgtip:`Grim Contest`"
 msgstr "Grim Contest"
 
 # ab80938a68c84247bb0152248d16541a
@@ -2888,7 +2893,7 @@ msgstr ""
 # c24ecb0fcc5e4767ab0aba606b5e1c04
 #: ../../FRF.rst:858
 #, fuzzy
-msgid "Harsh Sustenance"
+msgid ":mtgtip:`Harsh Sustenance`"
 msgstr "Harsh Sustenance"
 
 # 2d77d5606f0344baa483110f6424d155
@@ -2904,7 +2909,7 @@ msgstr ""
 # 4fb879f9759c4f328718b7875f03fb34
 #: ../../FRF.rst:866
 #, fuzzy
-msgid "Kolaghan, the Storm's Fury"
+msgid ":mtgtip:`Kolaghan, the Storm's Fury`"
 msgstr "Kolaghan, the Storm's Fury"
 
 # 836dc4fb66a94a92967aff4031d80807
@@ -2931,7 +2936,7 @@ msgstr ""
 # 1e7f3c69324d4b3c8a19867bf2fb26ae
 #: ../../FRF.rst:872
 #, fuzzy
-msgid "Ojutai, Soul of Winter"
+msgid ":mtgtip:`Ojutai, Soul of Winter`"
 msgstr "Ojutai, Soul of Winter"
 
 # c89ca8c622f44262a0178c82bf6d77a2
@@ -2953,7 +2958,7 @@ msgstr ""
 # d6017d43b77040009fd4579cd1ddfdb1
 #: ../../FRF.rst:878
 #, fuzzy
-msgid "Silumgar, the Drifting Death"
+msgid ":mtgtip:`Silumgar, the Drifting Death`"
 msgstr "Silumgar, the Drifting Death"
 
 # 209f084a9ed7426383375685d2f1f50b
@@ -2973,7 +2978,7 @@ msgstr ""
 # ed0d89b3e4784997b7d87fe6e523c4cc
 #: ../../FRF.rst:882
 #, fuzzy
-msgid "War Flare"
+msgid ":mtgtip:`War Flare`"
 msgstr "War Flare"
 
 # 37af3a4b2c494e568b42c8d9f43fe37a
@@ -2986,7 +2991,7 @@ msgstr ""
 # c25e71fccfb84facad8572bf7277f36e
 #: ../../FRF.rst:888
 #, fuzzy
-msgid "Goblin Boom Keg"
+msgid ":mtgtip:`Goblin Boom Keg`"
 msgstr "Goblin Boom Keg"
 
 # 9605d105382746b082db6539191743d7
@@ -3007,7 +3012,7 @@ msgstr ""
 # ef83b3f24da74ade85156974045d1991
 #: ../../FRF.rst:896
 #, fuzzy
-msgid "Hero's Blade"
+msgid ":mtgtip:`Hero's Blade`"
 msgstr "Hero's Blade"
 
 # e0c582a91c43405883342f28a2c47e71
@@ -3032,7 +3037,7 @@ msgstr "Wyposaż |mana_4|"
 # 79f7174c71dc4ebc889f96adbe127cdb
 #: ../../FRF.rst:900
 #, fuzzy
-msgid "Hewed Stone Retainers"
+msgid ":mtgtip:`Hewed Stone Retainers`"
 msgstr "Hewed Stone Retainers"
 
 # 4f6025fdfee54a3ab1ef4b77f962ab13
@@ -3045,7 +3050,7 @@ msgstr ""
 # 92b63d3034a9411bb1a267449e3c67a9
 #: ../../FRF.rst:904
 #, fuzzy
-msgid "Pilgrim of the Fires"
+msgid ":mtgtip:`Pilgrim of the Fires`"
 msgstr "Pilgrim of the Fires"
 
 # d8b132fc23374d47957494560cd6b7fe
@@ -3056,7 +3061,7 @@ msgstr "Pierwszy Cios, Ttratowanie"
 # 4feeb84880cd48bca6b428e9eb04b6bb
 #: ../../FRF.rst:910
 #, fuzzy
-msgid "Scroll of the Masters"
+msgid ":mtgtip:`Scroll of the Masters`"
 msgstr "Scroll of the Masters"
 
 # 74d55d0decb9422abf72c8dfd091b862
@@ -3080,7 +3085,7 @@ msgstr ""
 # 23bc484dc6aa4701b8cff92d707adbe8
 #: ../../FRF.rst:914
 #, fuzzy
-msgid "Ugin's Construct"
+msgid ":mtgtip:`Ugin's Construct`"
 msgstr "Ugin's Construct"
 
 # 0661dc87513346d18fcdba9489a1818b
@@ -3095,7 +3100,7 @@ msgstr ""
 # cf4d1d085a4b4c779bd6e3110a9250bb
 #: ../../FRF.rst:922
 #, fuzzy
-msgid "Bloodfell Caves"
+msgid ":mtgtip:`Bloodfell Caves`"
 msgstr "Bloodfell Caves"
 
 # aa2436488451450cb2473b755ee13dc4
@@ -3115,7 +3120,8 @@ msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 # b1c13444fc9d4d049a8ac59ed3a15559
 #: ../../FRF.rst:930
-msgid "Blossoming Sands"
+#, fuzzy
+msgid ":mtgtip:`Blossoming Sands`"
 msgstr "Blossoming Sands (Kwitnące Piaski)"
 
 # a759aa48a5f646d980f71dde46eb8ef5
@@ -3136,7 +3142,7 @@ msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 # dfe8ed606aed4ca1a16fdaccafe5ffc7
 #: ../../FRF.rst:938
 #, fuzzy
-msgid "Crucible of the Spirit Dragon"
+msgid ":mtgtip:`Crucible of the Spirit Dragon`"
 msgstr "Crucible of the Spirit Dragon"
 
 #: ../../FRF.rst:933
@@ -3165,7 +3171,7 @@ msgstr ""
 # 6a1214c112f74c45a7d2180ecbf4e96d
 #: ../../FRF.rst:946
 #, fuzzy
-msgid "Dismal Backwater"
+msgid ":mtgtip:`Dismal Backwater`"
 msgstr "Dismal Backwater"
 
 # f121f42d4c204cd9a5997b382073e958
@@ -3186,7 +3192,7 @@ msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 # 213536ccdddf46a9b862bab4a076a7c9
 #: ../../FRF.rst:954
 #, fuzzy
-msgid "Jungle Hollow"
+msgid ":mtgtip:`Jungle Hollow`"
 msgstr "Jungle Hollow"
 
 # 63ab3785d9e34dffb1e258eda492b95b
@@ -3207,7 +3213,7 @@ msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 # 5ce8c636d48144abab12a6d96b1912d8
 #: ../../FRF.rst:962
 #, fuzzy
-msgid "Rugged Highlands"
+msgid ":mtgtip:`Rugged Highlands`"
 msgstr "Rugged Highlands"
 
 # 588a23b51cca469fbe766ac552134795
@@ -3228,7 +3234,7 @@ msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 # 30fcad58603449698f31769ce9b4a651
 #: ../../FRF.rst:970
 #, fuzzy
-msgid "Scoured Barrens"
+msgid ":mtgtip:`Scoured Barrens`"
 msgstr "Scoured Barrens"
 
 # ea4db5af406f4b779f9d1803b6cb88cc
@@ -3249,7 +3255,7 @@ msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 # 56416f34219340a0b52056cc27dd69c4
 #: ../../FRF.rst:978
 #, fuzzy
-msgid "Swiftwater Cliffs"
+msgid ":mtgtip:`Swiftwater Cliffs`"
 msgstr "Swiftwater Cliffs"
 
 # 0436a7d4993a48d8b46d22cfe38f503b
@@ -3270,7 +3276,7 @@ msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 # b8996e2faa3942a18cef52ec8a314ac6
 #: ../../FRF.rst:986
 #, fuzzy
-msgid "Thornwood Falls"
+msgid ":mtgtip:`Thornwood Falls`"
 msgstr "Thornwood Falls"
 
 # 16c4194aff5e40b5a07fa776064c5921
@@ -3291,7 +3297,7 @@ msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 # e25c7d8bc51d4b49a8ed7bbbc86824a7
 #: ../../FRF.rst:994
 #, fuzzy
-msgid "Tranquil Cove"
+msgid ":mtgtip:`Tranquil Cove`"
 msgstr "Tranquil Cove"
 
 # 8c8ec4d55a0343e199660c57ee40f2f6
@@ -3312,7 +3318,7 @@ msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 # d6da5bd6ff444c07997e73e28dfac091
 #: ../../FRF.rst:1002
 #, fuzzy
-msgid "Wind-Scarred Crag"
+msgid ":mtgtip:`Wind-Scarred Crag`"
 msgstr "Wind-Scarred Crag"
 
 # 4be05d8ff8984f3d84e9f3f890007afb
@@ -3330,30 +3336,83 @@ msgstr "Kiedy Wind-Scarred Crag wchodzi na pole walki, zyskujesz 1 życie."
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
-# c493433ce60d47ea936a5f9032496f71
-#: ../../FRF.rst:1004 ../../FRF.rst:1008
-msgid "Plains"
-msgstr "Plains (Równina)"
+#: ../../FRF.rst:1006
+msgid ":mtgtip:`Plains`"
+msgstr ""
 
-# 01d49c8844bc4b6886ec5c5563275944
-#: ../../FRF.rst:1012 ../../FRF.rst:1016
-msgid "Island"
-msgstr "Island (Wyspa)"
+# 3a2b642d25e14622b7c96aa96a4fda67
+#: ../../FRF.rst:1005
+#, fuzzy
+msgid "(|tap|: Add |mana_w|.)"
+msgstr "|tap|: Dostajesz |mana_g|."
 
-# 299d3ad5974344d185f171fafa6834ab
-#: ../../FRF.rst:1020 ../../FRF.rst:1024
-msgid "Swamp"
-msgstr "Swamp (Bagno)"
+#: ../../FRF.rst:1010
+msgid ":mtgtip:`Island`"
+msgstr ""
+
+# 3a2b642d25e14622b7c96aa96a4fda67
+#: ../../FRF.rst:1009
+#, fuzzy
+msgid "(|tap|: Add |mana_u|.)"
+msgstr "|tap|: Dostajesz |mana_g|."
+
+#: ../../FRF.rst:1014
+msgid ":mtgtip:`Swamp`"
+msgstr ""
+
+# 3a2b642d25e14622b7c96aa96a4fda67
+#: ../../FRF.rst:1013
+#, fuzzy
+msgid "(|tap|: Add |mana_b|.)"
+msgstr "|tap|: Dostajesz |mana_g|."
 
 # 1adb011caa054b52a9cf255e623baff2
-#: ../../FRF.rst:1028 ../../FRF.rst:1032
-msgid "Mountain"
+#: ../../FRF.rst:1018
+#, fuzzy
+msgid ":mtgtip:`Mountain`"
 msgstr "Mountain (Góra)"
 
+# 3a2b642d25e14622b7c96aa96a4fda67
+#: ../../FRF.rst:1017
+#, fuzzy
+msgid "(|tap|: Add |mana_r|.)"
+msgstr "|tap|: Dostajesz |mana_g|."
+
+#: ../../FRF.rst:1021
+msgid ":mtgtip:`Forest`"
+msgstr ""
+
+# 3a2b642d25e14622b7c96aa96a4fda67
+#: ../../FRF.rst:1021
+#, fuzzy
+msgid "(|tap|: Add |mana_g|.)"
+msgstr "|tap|: Dostajesz |mana_g|."
+
+# 9930e613ed444861b24e15a042061661
+#, fuzzy
+#~ msgid "Refocus"
+#~ msgstr "Refocus"
+
+# b752b50401464f6d81f0b312bd5e871c
+#, fuzzy
+#~ msgid "Arcbond"
+#~ msgstr "Arcbond"
+
+# c493433ce60d47ea936a5f9032496f71
+#~ msgid "Plains"
+#~ msgstr "Plains (Równina)"
+
+# 01d49c8844bc4b6886ec5c5563275944
+#~ msgid "Island"
+#~ msgstr "Island (Wyspa)"
+
+# 299d3ad5974344d185f171fafa6834ab
+#~ msgid "Swamp"
+#~ msgstr "Swamp (Bagno)"
+
 # db54d8fb5c2b4faf915ddb68f8d1a5cf
-#: ../../FRF.rst:1036 ../../FRF.rst:1040
-msgid "Forest"
-msgstr "Forest (Las)"
+#~ msgid "Forest"
+#~ msgstr "Forest (Las)"
 
 # 715d651b175340fdb3ad4ce06f2422e5
 #~ msgid "|tap|: Add |mana_g| or |mana_w| to your mana pool."

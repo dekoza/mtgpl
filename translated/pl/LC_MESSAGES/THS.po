@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-13 00:10+0000\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
+"PO-Revision-Date: 2019-01-13 15:26+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -18,17 +18,15 @@ msgstr ""
 "X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1419174967.506886\n"
 
-# cf7ee521875a459c9352819ad80d2edc
-# 887ff143b14348b2b7b52aec3a556c81
 #: ../../THS.rst:5
-msgid "Theros"
-msgstr "Theros"
+msgid ":mtgexp:`THS` Theros"
+msgstr ""
 
 # af5a002f8af740e6aa2990e90f9b1b0a
 # e583facda0724d9bb281039dc23c6018
 #: ../../THS.rst:10
 #, fuzzy
-msgid "Battlewise Valor"
+msgid ":mtgtip:`Battlewise Valor`"
 msgstr "Battlewise Valor"
 
 # 22ae2af02244488b803607309dbf8aeb
@@ -46,7 +44,7 @@ msgstr ""
 # 8a9aff2f5e65401fb64404574c86f112
 #: ../../THS.rst:16
 #, fuzzy
-msgid "Cavalry Pegasus"
+msgid ":mtgtip:`Cavalry Pegasus`"
 msgstr "Cavalry Pegasus"
 
 # 4ff8389e33ce4af0bba75d475af3819e
@@ -100,7 +98,7 @@ msgstr ""
 # 4b3bb3cc4c2942dab1b8622c62caf438
 #: ../../THS.rst:24
 #, fuzzy
-msgid "Celestial Archon"
+msgid ":mtgtip:`Celestial Archon`"
 msgstr "Celestial Archon"
 
 # c14b3d0dbdfb406899cbdec720b0855e
@@ -133,7 +131,8 @@ msgstr "Zauroczony stwór dostaje +4/+4 oraz ma latanie i pierwszy cios."
 # d53b3b91e96d429a97caa6144fa75960
 # 015da7e72db642009c1b281419588c75
 #: ../../THS.rst:30
-msgid "Chained to the Rocks"
+#, fuzzy
+msgid ":mtgtip:`Chained to the Rocks`"
 msgstr "Chained to the Rocks (Przykuty do skał)"
 
 # e410969a1a884748b018774f642cc4d7
@@ -158,7 +157,7 @@ msgstr ""
 # 47c5d7a05bf74ae5b88899dcfb9b6065
 #: ../../THS.rst:38
 #, fuzzy
-msgid "Chosen by Heliod"
+msgid ":mtgtip:`Chosen by Heliod`"
 msgstr "Chosen by Heliod"
 
 # d70d479bb84642aab51b093ad06cc5c1
@@ -212,7 +211,7 @@ msgstr "Zauroczony stwór dostaje +0/+2."
 # 05619e71ac9a4c62a1f6a22bb8490eb0
 #: ../../THS.rst:42
 #, fuzzy
-msgid "Dauntless Onslaught"
+msgid ":mtgtip:`Dauntless Onslaught`"
 msgstr "Dauntless Onslaught"
 
 # d334e752694f48aaabc788d6a2c5d5cc
@@ -225,7 +224,7 @@ msgstr "Każdy z najwyżej dwóch wskazanych stworów dostaje +2/+2 do końca tu
 # 98cdf92606f24fb2b97763c990e0653d
 #: ../../THS.rst:48
 #, fuzzy
-msgid "Decorated Griffin"
+msgid ":mtgtip:`Decorated Griffin`"
 msgstr "Decorated Griffin"
 
 # a1fe5157998944adadd4032d3fba39c3
@@ -242,7 +241,8 @@ msgstr ""
 # 7a34e8002bc24e8f88ceaeb2182dbb12
 # 2981a527206b4932acb697cab5f48004
 #: ../../THS.rst:52
-msgid "Divine Verdict"
+#, fuzzy
+msgid ":mtgtip:`Divine Verdict`"
 msgstr "Divine Verdict"
 
 # fd7e1a16802f4ae5a354d3d205387ae1
@@ -255,7 +255,7 @@ msgstr "Zniszcz wskazanego atakującego lub blokującego stwora."
 # 8f9b83a6da5e4be08ee1b038696977ed
 #: ../../THS.rst:60
 #, fuzzy
-msgid "Elspeth, Sun's Champion"
+msgid ":mtgtip:`Elspeth, Sun's Champion`"
 msgstr "Elspeth, Sun's Champion"
 
 # bda6eb7936914878b5b8eb6e246bbf08
@@ -285,7 +285,7 @@ msgstr ""
 # fe6040b8a6d24dfbb686f228d4651e37
 #: ../../THS.rst:64
 #, fuzzy
-msgid "Ephara's Warden"
+msgid ":mtgtip:`Ephara's Warden`"
 msgstr "Ephara's Warden"
 
 # 053adc13d7944220827664861c815d4f
@@ -298,7 +298,7 @@ msgstr "|tap|: Zaznacz wskazanego stwora o sile 3 lub mniejszej."
 # 9260e489b2df4c828cf4f2416b6d9dd9
 #: ../../THS.rst:68
 #, fuzzy
-msgid "Evangel of Heliod"
+msgid ":mtgtip:`Evangel of Heliod`"
 msgstr "Evangel of Heliod"
 
 # 672f10e7db7642afa17bf9578756e036
@@ -319,7 +319,7 @@ msgstr ""
 # 68a8170847354f90a23edc619ed7f9d3
 #: ../../THS.rst:74
 #, fuzzy
-msgid "Fabled Hero"
+msgid ":mtgtip:`Fabled Hero`"
 msgstr "Fabled Hero"
 
 # 2aef60cb539b4286901545a1d0e9837d
@@ -342,7 +342,7 @@ msgstr ""
 # c1b2837f52bf45a69e14434bdc90f3d0
 #: ../../THS.rst:78
 #, fuzzy
-msgid "Favored Hoplite"
+msgid ":mtgtip:`Favored Hoplite`"
 msgstr "Favored Hoplite"
 
 # 981c4edd965048ce9ee0ca859686b6b0
@@ -360,7 +360,8 @@ msgstr ""
 # 69b3f9d5f63049b8a207560e8bf187b5
 # dea591b079304b02b0aa0ff4e0edf493
 #: ../../THS.rst:84
-msgid "Gift of Immortality"
+#, fuzzy
+msgid ":mtgtip:`Gift of Immortality`"
 msgstr "Gift of Immortality (Dar nieśmiertelności)"
 
 # f49618e5541b481ab0500e6fdf95ddf5
@@ -379,7 +380,7 @@ msgstr ""
 # 0e928783b100407297ee136c8e3a2d15
 #: ../../THS.rst:88
 #, fuzzy
-msgid "Glare of Heresy"
+msgid ":mtgtip:`Glare of Heresy`"
 msgstr "Glare of Heresy"
 
 # 089117d3f6c747d4b5708f87c89d01bb
@@ -392,7 +393,7 @@ msgstr "Wygnaj wskazany biały permanent."
 # 8c91fbc8eb69473bbd7a70c70c7477d2
 #: ../../THS.rst:92
 #, fuzzy
-msgid "Gods Willing"
+msgid ":mtgtip:`Gods Willing`"
 msgstr "Gods Willing"
 
 # 971d8501b00449f0bd205e8f7e4e641f
@@ -410,7 +411,8 @@ msgstr ""
 # 3b5891cd0fb64c1b9e996be1aa70f977
 # 5c238d7fdd164869b226c0d77d6d2d71
 #: ../../THS.rst:102
-msgid "Heliod, God of the Sun"
+#, fuzzy
+msgid ":mtgtip:`Heliod, God of the Sun`"
 msgstr "Heliod, God of the Sun (Heliod, bóg słońca)"
 
 # 25f4e32fe4964f61ac6f403c8eb60c12
@@ -436,9 +438,9 @@ msgid ""
 "creature. (Each |mana_w| in the mana costs of permanents you control counts "
 "toward your devotion to white.)"
 msgstr ""
-"Dopóki twój kult białego jest mniejszy niż pięć, Heliod nie jest stworem ("
-"Każda |mana_w| w kosztach many permanentów pod twoim władaniem wlicza się do "
-"twojego kultu białego.)"
+"Dopóki twój kult białego jest mniejszy niż pięć, Heliod nie jest stworem "
+"(Każda |mana_w| w kosztach many permanentów pod twoim władaniem wlicza się "
+"do twojego kultu białego.)"
 
 # 2d76ba454cd840c293d1e9c33ec2dd40
 # 2af1a23ba7c04359b3f50c22ccdf47aa
@@ -460,7 +462,8 @@ msgstr ""
 # f5b33e7f3baa4a2d8e9b4725379f5f08
 # 30a23d8b6d394a28b560c98096c57fed
 #: ../../THS.rst:110
-msgid "Heliod's Emissary"
+#, fuzzy
+msgid ":mtgtip:`Heliod's Emissary`"
 msgstr "Heliod's Emissary (Emisariusz Helioda)"
 
 # 0d437aa4b66d4a1da6e6ddbf10a7e108
@@ -500,7 +503,7 @@ msgstr "Zauroczony stwór dostaje +3/+3."
 # b5f4e7e465e544b6a826c2d5e0798d7b
 #: ../../THS.rst:118
 #, fuzzy
-msgid "Hopeful Eidolon"
+msgid ":mtgtip:`Hopeful Eidolon`"
 msgstr "Hopeful Eidolon"
 
 # 131971df74344983812c2fbefcbef345
@@ -535,7 +538,8 @@ msgstr "Zauroczony stwór dostaje +1/+1 i ma więź życia."
 # 0a11c4dc4522442b91cecc50cbc0a9cd
 # f187ee39917b4d0187858c43e397d0ca
 #: ../../THS.rst:126
-msgid "Hundred-Handed One"
+#, fuzzy
+msgid ":mtgtip:`Hundred-Handed One`"
 msgstr "Hundred-Handed One (Sturęki)"
 
 # 39813df68f9e44a6a2f2bbda5152cc5b
@@ -572,7 +576,7 @@ msgstr ""
 # 60a3e2e44f674daa873a71680f22af71
 #: ../../THS.rst:130
 #, fuzzy
-msgid "Lagonna-Band Elder"
+msgid ":mtgtip:`Lagonna-Band Elder`"
 msgstr "Lagonna-Band Elder"
 
 # 5142984294334213a1587a2bd0d82673
@@ -588,7 +592,8 @@ msgstr ""
 # ac92664b590f473ca2030bfc874f60c8
 # 402606d50da24fdd97fb6cd9a68250df
 #: ../../THS.rst:134
-msgid "Last Breath"
+#, fuzzy
+msgid ":mtgtip:`Last Breath`"
 msgstr "Last Breath (Ostatnie Tchnienie)"
 
 # 96bc7241a6c34e68b969a329a74b6a29
@@ -603,7 +608,7 @@ msgstr ""
 # 4d926b6915dc4632a7699d0f618def74
 #: ../../THS.rst:138
 #, fuzzy
-msgid "Leonin Snarecaster"
+msgid ":mtgtip:`Leonin Snarecaster`"
 msgstr "Leonin Snarecaster"
 
 # 3b75d93ea2294572be1c571891542d89
@@ -619,7 +624,7 @@ msgstr ""
 # 38f2377efed54e5d9a4a9695b4dd7539
 #: ../../THS.rst:146
 #, fuzzy
-msgid "Observant Alseid"
+msgid ":mtgtip:`Observant Alseid`"
 msgstr "Observant Alseid"
 
 # 9a959020a11d4b76ac8e512d03041066
@@ -645,7 +650,7 @@ msgstr "Zauroczony stwór dostaje +2/+2 i ma czujność."
 # 4dbe898c158d458796dbeee5b723c963
 #: ../../THS.rst:154
 #, fuzzy
-msgid "Ordeal of Heliod"
+msgid ":mtgtip:`Ordeal of Heliod`"
 msgstr "Ordeal of Heliod"
 
 # e4d7e6c401cf4bc987b884417e94e682
@@ -667,7 +672,8 @@ msgstr "Kiedy poświęcisz Ordeal of Heliod, zyskujesz 10 życia."
 # 9ac5d6cadc0342ed834a61e5f3a3742f
 # 809eee36443d423eb50e598bfee28016
 #: ../../THS.rst:158
-msgid "Phalanx Leader"
+#, fuzzy
+msgid ":mtgtip:`Phalanx Leader`"
 msgstr "Phalanx Leader (Dowódca falangi)"
 
 # af88f2ad1381469293e1f6ada00abae9
@@ -684,7 +690,7 @@ msgstr ""
 # 1ecf63e9603a4b369ba8abf682acfa25
 #: ../../THS.rst:162
 #, fuzzy
-msgid "Ray of Dissolution"
+msgid ":mtgtip:`Ray of Dissolution`"
 msgstr "Ray of Dissolution"
 
 # 8cca973865c249a3b5f7d4f1c24fca59
@@ -696,7 +702,8 @@ msgstr "Zniszcz wskazany urok. Zyskujesz 3 życia."
 # c9beca36f1524acb9eb86cc0a10a00d2
 # bef89e6854dd4ff8ac50efd137c9f12f
 #: ../../THS.rst:166
-msgid "Scholar of Athreos"
+#, fuzzy
+msgid ":mtgtip:`Scholar of Athreos`"
 msgstr "Scholar of Athreos (Mędrzec Aterosa)"
 
 # 587e95948cb1464a99e00991c7006d90
@@ -714,7 +721,7 @@ msgstr ""
 # 30677cd86a6145e98392713826b8ee2e
 #: ../../THS.rst:170
 #, fuzzy
-msgid "Setessan Battle Priest"
+msgid ":mtgtip:`Setessan Battle Priest`"
 msgstr "Setessan Battle Priest"
 
 # ffd56c847205460a9a03c34c5357186f
@@ -730,7 +737,8 @@ msgstr ""
 # b324086fc353487bb8230a05b67ad48a
 # 79ec79f4b19b4717b2357120b29e974f
 #: ../../THS.rst:176
-msgid "Setessan Griffin"
+#, fuzzy
+msgid ":mtgtip:`Setessan Griffin`"
 msgstr "Setessan Griffin (Setessiański gryf)"
 
 # 510dad5e59f44d21a73dc2c04006c7d7
@@ -746,14 +754,15 @@ msgstr ""
 
 # 8b5bc73065e842849ed2695d5c3ebf93
 #: ../../THS.rst:178
-msgid "Silent Artisan"
+#, fuzzy
+msgid ":mtgtip:`Silent Artisan`"
 msgstr "Silent Artisan (Cichy rzemieślnik)"
 
 # 140e22b36bb14a6d8cae2672dcfb0d1d
 # 6533cdb6c69d40708adcb1b295f46b9b
 #: ../../THS.rst:186
 #, fuzzy
-msgid "Soldier of the Pantheon"
+msgid ":mtgtip:`Soldier of the Pantheon`"
 msgstr "Soldier of the Pantheon"
 
 # 657c0a3225fc4edc98f23f1dc6259059
@@ -772,7 +781,7 @@ msgstr "Ilekroć przeciwnik rzuca wielokolorowy czar, dostajesz 1 życie."
 # f58518cc18b64a16823d4297cbb72ec1
 #: ../../THS.rst:192
 #, fuzzy
-msgid "Spear of Heliod"
+msgid ":mtgtip:`Spear of Heliod`"
 msgstr "Spear of Heliod"
 
 # 9b1135028f334df2952a079a97d2e8b6
@@ -794,14 +803,15 @@ msgstr ""
 
 # 04f74fb91c55497ca29753622b01d017
 #: ../../THS.rst:194
-msgid "Traveling Philosopher"
+#, fuzzy
+msgid ":mtgtip:`Traveling Philosopher`"
 msgstr "Traveling Philosopher (Podróżujący filozof)"
 
 # f690f627026c41cf880d7df396e04a97
 # e492a5305aa74cdc99576c034872941a
 #: ../../THS.rst:200
 #, fuzzy
-msgid "Vanquish the Foul"
+msgid ":mtgtip:`Vanquish the Foul`"
 msgstr "Vanquish the Foul"
 
 # 1e6a9ea9b8264f22965ddf8363c6b4e3
@@ -818,7 +828,7 @@ msgstr ""
 # 61bdc94ec4d348a69287531388e186bb
 #: ../../THS.rst:206
 #, fuzzy
-msgid "Wingsteed Rider"
+msgid ":mtgtip:`Wingsteed Rider`"
 msgstr "Wingsteed Rider"
 
 # 5705cee5059342b08730d917f08aad0d
@@ -835,15 +845,12 @@ msgstr ""
 # 4ec75892c3ac4ac18903d369771f2142
 #: ../../THS.rst:208
 #, fuzzy
-msgid "Yoked Ox"
+msgid ":mtgtip:`Yoked Ox`"
 msgstr "Yoked Ox"
 
-# cfb833bd71d44ca49d327497505d409b
-# cb4ce2884b6b4874a7fbeaa290557f21
 #: ../../THS.rst:214
-#, fuzzy
-msgid "Annul"
-msgstr "Annul"
+msgid ":mtgtip:`Annul`"
+msgstr ""
 
 # f9ddcd8ccb5a47d08da34e7aab7f1a20
 # 94109eb463e64973a4b2bd5507014f60
@@ -855,7 +862,7 @@ msgstr "Skontruj wskazany czar artefaktu lub uroku."
 # 4e95bd68f61c4faf9b837238e340ab25
 #: ../../THS.rst:222
 #, fuzzy
-msgid "Aqueous Form"
+msgid ":mtgtip:`Aqueous Form`"
 msgstr "Aqueous Form"
 
 # 4e75fac7c03b4f85aefc9f5ec5532a91
@@ -878,7 +885,7 @@ msgstr ""
 # 83475f6993b6474cade2dc1e96d7ceb4
 #: ../../THS.rst:226
 #, fuzzy
-msgid "Artisan of Forms"
+msgid ":mtgtip:`Artisan of Forms`"
 msgstr "Artisan of Forms"
 
 # 3f3f8946b502474b838bfd4c678e0aa5
@@ -898,7 +905,7 @@ msgstr ""
 # 80bc1362c8a54ad2b364feb17ed544dc
 #: ../../THS.rst:230
 #, fuzzy
-msgid "Benthic Giant"
+msgid ":mtgtip:`Benthic Giant`"
 msgstr "Benthic Giant"
 
 # fdac772a602c4290b77bb4e33119108a
@@ -914,7 +921,8 @@ msgstr ""
 # a65499f2bbfc4d38ac72e8fd47cf8bbe
 # a48fea4e7bdf47c192ccd08e928d4f2a
 #: ../../THS.rst:236
-msgid "Bident of Thassa"
+#, fuzzy
+msgid ":mtgtip:`Bident of Thassa`"
 msgstr "Bident of Thassa (Dwójząb Thassy)"
 
 # 8d2b88b35d014fa6b6a5933c1e070122
@@ -942,7 +950,7 @@ msgstr ""
 # d597a70a836c4813a537148a6f704449
 #: ../../THS.rst:242
 #, fuzzy
-msgid "Breaching Hippocamp"
+msgid ":mtgtip:`Breaching Hippocamp`"
 msgstr "Breaching Hippocamp"
 
 # bfc22f91489f4373a5821fdff125bf1b
@@ -969,7 +977,7 @@ msgstr ""
 # 5c6795d32d0b457b8cf309212cab1ac0
 #: ../../THS.rst:248
 #, fuzzy
-msgid "Coastline Chimera"
+msgid ":mtgtip:`Coastline Chimera`"
 msgstr "Coastline Chimera"
 
 # dd880c8749c347ca924397c879d6b9fe
@@ -987,7 +995,7 @@ msgstr ""
 # 9538261fc06c4065a579aac41985e24d
 #: ../../THS.rst:252
 #, fuzzy
-msgid "Crackling Triton"
+msgid ":mtgtip:`Crackling Triton`"
 msgstr "Crackling Triton"
 
 # 27280911081641b691882f2e275a8f90
@@ -1004,7 +1012,8 @@ msgstr ""
 # 122f5732103e4fbea4039f9b755b93c0
 # eb2c7e4a084e4223bad1cc6547c26188
 #: ../../THS.rst:256
-msgid "Curse of the Swine"
+#, fuzzy
+msgid ":mtgtip:`Curse of the Swine`"
 msgstr "Curse of the Swine (Klątwa świni)"
 
 # ea4ff623756645a99d44799e1a8564e8
@@ -1021,7 +1030,7 @@ msgstr ""
 # f1311703a5a449479e6777dfc4cdccf3
 #: ../../THS.rst:260
 #, fuzzy
-msgid "Dissolve"
+msgid ":mtgtip:`Dissolve`"
 msgstr "Dissolve"
 
 # f2d7018a1a0246b491692ecf9b03bae1
@@ -1038,7 +1047,7 @@ msgstr ""
 # 432b8159f4c14856900345d73937c57e
 #: ../../THS.rst:268
 #, fuzzy
-msgid "Fate Foretold"
+msgid ":mtgtip:`Fate Foretold`"
 msgstr "Fate Foretold"
 
 # 2d5aff5e64cd49c8b69c31b8cea9bc54
@@ -1053,12 +1062,9 @@ msgstr "Kiedy Fate Foretold wchodzi na pole walki, dobierz kartę."
 msgid "When enchanted creature dies, its controller draws a card."
 msgstr "Kiedy zauroczony stwór umiera, jego władca dobiera kartę."
 
-# aa92155b6afb48699f474a48db8e2223
-# cf42d2af99c040c08c5a5f642a6e1377
 #: ../../THS.rst:272
-#, fuzzy
-msgid "Gainsay"
-msgstr "Gainsay"
+msgid ":mtgtip:`Gainsay`"
+msgstr ""
 
 # 5e2415df272b4a4bb70715b302e18076
 # 11bfbc7dae8f4b08b41d1cfe0c001a49
@@ -1070,7 +1076,7 @@ msgstr "Skontruj wskazany niebieski czar."
 # 8b47d34f23c343d3b5157f28ede1e1db
 #: ../../THS.rst:276
 #, fuzzy
-msgid "Griptide"
+msgid ":mtgtip:`Griptide`"
 msgstr "Griptide"
 
 # 6df5c14228534aa7b26af0d522b80528
@@ -1082,7 +1088,8 @@ msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
 # 4056c8a3c7434a18a65b6a46b10821d9
 # 5a9857567fff4f9db172ccb841e61665
 #: ../../THS.rst:282
-msgid "Horizon Scholar"
+#, fuzzy
+msgid ":mtgtip:`Horizon Scholar`"
 msgstr "Horizon Scholar"
 
 # 142c1e63919e41d6a4cf065610475a35
@@ -1100,7 +1107,7 @@ msgstr ""
 # a3923358e00e404892134d839b0f6a31
 #: ../../THS.rst:286
 #, fuzzy
-msgid "Lost in a Labyrinth"
+msgid ":mtgtip:`Lost in a Labyrinth`"
 msgstr "Lost in a Labyrinth"
 
 # 0a085118e6994de3888058f1b9dc029b
@@ -1117,7 +1124,8 @@ msgstr ""
 # a5cb8a46f7a4407d86e184a7f1b69fa8
 # 0feae93b146f4896891a3b85a2da75fb
 #: ../../THS.rst:294
-msgid "Master of Waves"
+#, fuzzy
+msgid ":mtgtip:`Master of Waves`"
 msgstr "Master of Waves (Władca Fal)"
 
 # 5fd59778030046c2aa34ecb4eaf6389f
@@ -1151,7 +1159,7 @@ msgstr ""
 # 3fcc67ba1d1348a7a49ae2b657c0bca8
 #: ../../THS.rst:298
 #, fuzzy
-msgid "Meletis Charlatan"
+msgid ":mtgtip:`Meletis Charlatan`"
 msgstr "Meletis Charlatan"
 
 # 1ce4bb551088425bb41b666d3be860ad
@@ -1169,7 +1177,7 @@ msgstr ""
 # 8a76f85670fc4c91b4855942dd74f361
 #: ../../THS.rst:304
 #, fuzzy
-msgid "Mnemonic Wall"
+msgid ":mtgtip:`Mnemonic Wall`"
 msgstr "Mnemonic Wall"
 
 # 79cf2da3876e4e1698fa7954ea27f3ea
@@ -1198,7 +1206,7 @@ msgstr ""
 # 4e9b5c0f492d4809b719a1aa579889df
 #: ../../THS.rst:312
 #, fuzzy
-msgid "Nimbus Naiad"
+msgid ":mtgtip:`Nimbus Naiad`"
 msgstr "Nimbus Naiad"
 
 # c609e0b17fe24e57a8c7a756ccd5d7e6
@@ -1222,7 +1230,8 @@ msgstr "Zauroczony stwór dostaje +2/+2 i ma latanie."
 
 # 77a67e8c68ac4e2da16cb25b4b01f993
 #: ../../THS.rst:316
-msgid "Omenspeaker"
+#, fuzzy
+msgid ":mtgtip:`Omenspeaker`"
 msgstr "Omenspeaker"
 
 # dffc25db752743c5885fa52661bbe2d7
@@ -1241,7 +1250,7 @@ msgstr ""
 # 0739e49280eb4733856375fa26cbe058
 #: ../../THS.rst:324
 #, fuzzy
-msgid "Ordeal of Thassa"
+msgid ":mtgtip:`Ordeal of Thassa`"
 msgstr "Ordeal of Thassa"
 
 # 4b1c915508e34c9b8a5d946607b21c80
@@ -1264,7 +1273,7 @@ msgstr "Kiedy poświęcisz Ordeal of Thassa, dobierz dwie karty."
 # 3a858b0b8da64fd39d8466a960c39fed
 #: ../../THS.rst:330
 #, fuzzy
-msgid "Prescient Chimera"
+msgid ":mtgtip:`Prescient Chimera`"
 msgstr "Prescient Chimera"
 
 # 2ce18db7c7184a7da1fd57985cdf7366
@@ -1282,7 +1291,7 @@ msgstr ""
 # 939231693100423b82133719bdef2b08
 #: ../../THS.rst:338
 #, fuzzy
-msgid "Prognostic Sphinx"
+msgid ":mtgtip:`Prognostic Sphinx`"
 msgstr "Prognostic Sphinx"
 
 # 9388766fabea42a2a2981366b3ea895e
@@ -1308,7 +1317,8 @@ msgstr ""
 # 8398a664982c4336842180c346331a16
 # c4355ea468904d21a24225484d487705
 #: ../../THS.rst:342
-msgid "Sea God's Revenge"
+#, fuzzy
+msgid ":mtgtip:`Sea God's Revenge`"
 msgstr "Sea God's Revenge (Zemsta Bóstwa Mórz)"
 
 # d6ed3a9e6726473b847530c57ce5fa45
@@ -1327,7 +1337,7 @@ msgstr ""
 # 7a744d70fe1145579e0fdb31ff0dc3b6
 #: ../../THS.rst:350
 #, fuzzy
-msgid "Sealock Monster"
+msgid ":mtgtip:`Sealock Monster`"
 msgstr "Sealock Monster"
 
 # 52d707c528a7495b9894015fde52c58b
@@ -1363,7 +1373,7 @@ msgstr ""
 # fb16b4e1142340309a00eca5b2354ba4
 #: ../../THS.rst:356
 #, fuzzy
-msgid "Shipbreaker Kraken"
+msgid ":mtgtip:`Shipbreaker Kraken`"
 msgstr "Shipbreaker Kraken"
 
 # 0d644be7bf7d4a0382c69b5bce6fd27c
@@ -1394,7 +1404,7 @@ msgstr ""
 # c2353506575c439c95db9ef825557331
 #: ../../THS.rst:360
 #, fuzzy
-msgid "Stymied Hopes"
+msgid ":mtgtip:`Stymied Hopes`"
 msgstr "Stymied Hopes"
 
 # a72f782fb7334cda83512c74bf162aef
@@ -1412,7 +1422,8 @@ msgstr ""
 # 5a70554758724f3cbf73dadea0b9882a
 # 97e2ad18b4704436976e477571065a6a
 #: ../../THS.rst:364
-msgid "Swan Song"
+#, fuzzy
+msgid ":mtgtip:`Swan Song`"
 msgstr "Swan Song (Łabędzi Śpiew)"
 
 # ca788e57ada841afbcdc28ecec193c42
@@ -1430,7 +1441,7 @@ msgstr ""
 # e783f86cceb44d4fb527a8612dc4e09b
 #: ../../THS.rst:374
 #, fuzzy
-msgid "Thassa, God of the Sea"
+msgid ":mtgtip:`Thassa, God of the Sea`"
 msgstr "Thassa, God of the Sea"
 
 # 56265fcd07fe4a1ab8e44aaee6ef99f0
@@ -1465,7 +1476,7 @@ msgstr ""
 # 36ee6d91f4bb4b38bdca306e94f8e515
 #: ../../THS.rst:378
 #, fuzzy
-msgid "Thassa's Bounty"
+msgid ":mtgtip:`Thassa's Bounty`"
 msgstr "Thassa's Bounty"
 
 # 19af9bf769b44790b2c1f6d020ff3bdd
@@ -1482,7 +1493,7 @@ msgstr ""
 # 810f8f0021ca48d0a8e806ffeb706881
 #: ../../THS.rst:386
 #, fuzzy
-msgid "Thassa's Emissary"
+msgid ":mtgtip:`Thassa's Emissary`"
 msgstr "Thassa's Emissary"
 
 # 8ae3377fa7e84f1c9563506c31c9a79e
@@ -1512,7 +1523,7 @@ msgstr ""
 # 8ab121b7ff624281945c4041d592d346
 #: ../../THS.rst:390
 #, fuzzy
-msgid "Triton Fortune Hunter"
+msgid ":mtgtip:`Triton Fortune Hunter`"
 msgstr "Triton Fortune Hunter"
 
 # 74818cfbd1914b549c1dc3523eba58c9
@@ -1529,14 +1540,14 @@ msgstr ""
 # 0f0947af323848c7ac7f7774b4e39c61
 #: ../../THS.rst:392
 #, fuzzy
-msgid "Triton Shorethief"
+msgid ":mtgtip:`Triton Shorethief`"
 msgstr "Triton Shorethief"
 
 # e52ae87170a845d68ca59a99c0b46d17
 # 7dabbde4e6c7417892ee66200241054a
 #: ../../THS.rst:398
 #, fuzzy
-msgid "Triton Tactics"
+msgid ":mtgtip:`Triton Tactics`"
 msgstr "Triton Tactics"
 
 # 89b67a60b7124c04a31644e06727dc66
@@ -1557,7 +1568,7 @@ msgstr ""
 # e1b06de43fbe4341913036310dc182e7
 #: ../../THS.rst:404
 #, fuzzy
-msgid "Vaporkin"
+msgid ":mtgtip:`Vaporkin`"
 msgstr "Vaporkin"
 
 # b541294ae5004b7a8cd322cb3e21fecb
@@ -1569,7 +1580,8 @@ msgstr "Vaporkin może blokować tylko stwory z lataniem."
 # e85b16e7ad374b2c9b63e45943e26709
 # 6b9f3da0b9d844828c38b5676d8e1fd3
 #: ../../THS.rst:408
-msgid "Voyage's End"
+#, fuzzy
+msgid ":mtgtip:`Voyage's End`"
 msgstr "Voyage's End (Kres Podróży)"
 
 # 0cfb13c9d488475b8fca41b8c019e050
@@ -1587,7 +1599,7 @@ msgstr ""
 # 46f1bb3f72d94fa5910c0252f4621e9b
 #: ../../THS.rst:412
 #, fuzzy
-msgid "Wavecrash Triton"
+msgid ":mtgtip:`Wavecrash Triton`"
 msgstr "Wavecrash Triton"
 
 # b2cc351a30e449d3967e95687baeca5f
@@ -1606,7 +1618,7 @@ msgstr ""
 # 43f6cd0c14cf43228e2108e489b74714
 #: ../../THS.rst:420
 #, fuzzy
-msgid "Abhorrent Overlord"
+msgid ":mtgtip:`Abhorrent Overlord`"
 msgstr "Abhorrent Overlord"
 
 # 3cf590c8dea14a86b519e9ff014aee73
@@ -1634,7 +1646,7 @@ msgstr "Na początku twojego kroku utrzymania, poświęć stwora."
 # 8bc5a05dbb184e6389483f82b2d408f2
 #: ../../THS.rst:426
 #, fuzzy
-msgid "Agent of the Fates"
+msgid ":mtgtip:`Agent of the Fates`"
 msgstr "Agent of the Fates"
 
 # 366f14fe1f7e42279e6afe68392b6c41
@@ -1661,7 +1673,7 @@ msgstr ""
 # 0f996c45c8664693b55e38c8cb4c1d3d
 #: ../../THS.rst:430
 #, fuzzy
-msgid "Asphodel Wanderer"
+msgid ":mtgtip:`Asphodel Wanderer`"
 msgstr "Asphodel Wanderer"
 
 # 67465f30a38d464b875c940fe276e4ac
@@ -1675,7 +1687,7 @@ msgstr "|mana_2|\\ |mana_b|: Zregeneruj Asphodel Wanderer."
 # 10f4370ba7f641d5bed8e67ff1d07014
 #: ../../THS.rst:438
 #, fuzzy
-msgid "Baleful Eidolon"
+msgid ":mtgtip:`Baleful Eidolon`"
 msgstr "Baleful Eidolon"
 
 # ab2fb0325c004d40ba705ca56993d507
@@ -1713,7 +1725,7 @@ msgstr "Zauroczony stwór dostaje +1/+1 i ma dotyk śmierci."
 # 598f08f5b7e04d85aa9799bd16c6f14f
 #: ../../THS.rst:444
 #, fuzzy
-msgid "Blood-Toll Harpy"
+msgid ":mtgtip:`Blood-Toll Harpy`"
 msgstr "Blood-Toll Harpy"
 
 # 7e52e3add90d4499991a2a87599f7aa7
@@ -1727,7 +1739,7 @@ msgstr ""
 # 1ffe443f9d604c39a0a065d85638a639
 #: ../../THS.rst:448
 #, fuzzy
-msgid "Boon of Erebos"
+msgid ":mtgtip:`Boon of Erebos`"
 msgstr "Boon of Erebos"
 
 # 01b4b0ce79f74fa3981444895c204b3b
@@ -1742,7 +1754,7 @@ msgstr ""
 # cf9c57beb1b64287a05acbc7a42e280a
 #: ../../THS.rst:456
 #, fuzzy
-msgid "Cavern Lampad"
+msgid ":mtgtip:`Cavern Lampad`"
 msgstr "Cavern Lampad"
 
 # a77e0569ea72423c967005ad8fea4d77
@@ -1778,7 +1790,7 @@ msgstr "Zauroczony stwór dostaje +2/+2 i ma zastraszanie."
 # 58e4eac45ee2497db235550f29ae4e35
 #: ../../THS.rst:460
 #, fuzzy
-msgid "Cutthroat Maneuver"
+msgid ":mtgtip:`Cutthroat Maneuver`"
 msgstr "Cutthroat Maneuver"
 
 # 6c4c120e2be64763a22aa722dbef2be1
@@ -1795,7 +1807,7 @@ msgstr ""
 # 84d4752100524228a3c0a6248443b111
 #: ../../THS.rst:464
 #, fuzzy
-msgid "Dark Betrayal"
+msgid ":mtgtip:`Dark Betrayal`"
 msgstr "Dark Betrayal"
 
 # 0526bea88f56482daff67f6632608b64
@@ -1808,7 +1820,7 @@ msgstr "Zniszcz wskazanego czarnego stwora."
 # ad5ba187f88042ea8db526b8017d5394
 #: ../../THS.rst:468
 #, fuzzy
-msgid "Disciple of Phenax"
+msgid ":mtgtip:`Disciple of Phenax`"
 msgstr "Disciple of Phenax"
 
 # 14c663575c7d4afd9911999a81f28d82
@@ -1830,7 +1842,7 @@ msgstr ""
 # 7ddbce4fd4a74fd787765410c976854b
 #: ../../THS.rst:478
 #, fuzzy
-msgid "Erebos, God of the Dead"
+msgid ":mtgtip:`Erebos, God of the Dead`"
 msgstr "Erebos, God of the Dead"
 
 # db4e8c60c558494b9867f4b72f77573b
@@ -1841,9 +1853,9 @@ msgid ""
 "creature. (Each |mana_b| in the mana costs of permanents you control counts "
 "toward your devotion to black.)"
 msgstr ""
-"Dopóki twój kult czarnego jest mniejszy niż pięć, Erebos nie jest stworem ("
-"Każda |mana_b| w kosztach many permanentów pod twoim władaniem wlicza się do "
-"twojego kultu czarnego.)"
+"Dopóki twój kult czarnego jest mniejszy niż pięć, Erebos nie jest stworem "
+"(Każda |mana_b| w kosztach many permanentów pod twoim władaniem wlicza się "
+"do twojego kultu czarnego.)"
 
 # 9f87f00ae09f4b0ebc78f44779e31ba5
 # 4f94fdc8b9134a5f85f00e46bb4828db
@@ -1861,7 +1873,7 @@ msgstr "|mana_1|\\ |mana_b|, zapłać 2 życia: Dobierz kartę."
 # 842c5be4fc8944d6b0ff26aadc27de58
 #: ../../THS.rst:486
 #, fuzzy
-msgid "Erebos's Emissary"
+msgid ":mtgtip:`Erebos's Emissary`"
 msgstr "Erebos's Emissary"
 
 # 21155e975bd94399b457a61643b09d2b
@@ -1880,14 +1892,14 @@ msgstr ""
 # 079403271de249ab94305def167063df
 #: ../../THS.rst:488
 #, fuzzy
-msgid "Felhide Minotaur"
+msgid ":mtgtip:`Felhide Minotaur`"
 msgstr "Felhide Minotaur"
 
 # 8d8a48aa1fd74fae8869c67edfaa3677
 # 82f2a89eaa4841ecb06c1da615dd66ff
 #: ../../THS.rst:494
 #, fuzzy
-msgid "Fleshmad Steed"
+msgid ":mtgtip:`Fleshmad Steed`"
 msgstr "Fleshmad Steed"
 
 # abd6179dab8243f0bb75714f02f31d46
@@ -1900,7 +1912,7 @@ msgstr "Ilekroć umiera inny stwór, przekręć Fleshmad Steed."
 # 1e91efe09edf4f489db5fccd2cc0f33f
 #: ../../THS.rst:498
 #, fuzzy
-msgid "Gray Merchant of Asphodel"
+msgid ":mtgtip:`Gray Merchant of Asphodel`"
 msgstr "Gray Merchant of Asphodel"
 
 # ca11c1963b96452dad917adb1ca86eb6
@@ -1920,7 +1932,8 @@ msgstr ""
 # c5551ea3a5694550a71514894dd37ea4
 # 38fa4308e4b042ad9f402105c244b2f1
 #: ../../THS.rst:502
-msgid "Hero's Downfall"
+#, fuzzy
+msgid ":mtgtip:`Hero's Downfall`"
 msgstr "Hero's Downfall (Upadek bohatera)"
 
 # 829c499dfb0f4d30bfc28ffad3748294
@@ -1932,7 +1945,8 @@ msgstr "Zniszcz wskazanego stwora lub wędrowca."
 # d377a88b233645bca507175328f5179b
 # dbbb1c45ad5e413b8588c832a21f51e6
 #: ../../THS.rst:510
-msgid "Hythonia the Cruel"
+#, fuzzy
+msgid ":mtgtip:`Hythonia the Cruel`"
 msgstr "Hythonia the Cruel (Hythonia Okrutna)"
 
 # 91ad812d4acb4fe6acd2daedc5c237f1
@@ -1958,7 +1972,8 @@ msgstr ""
 # 084594ab30a5403285d0c5063df982f0
 # 4539dca5ccc44071aac06c1c86c6d640
 #: ../../THS.rst:514
-msgid "Insatiable Harpy"
+#, fuzzy
+msgid ":mtgtip:`Insatiable Harpy`"
 msgstr "Insatiable Harpy (Nienasycona Harpia)"
 
 # 19236f6fe91f4f509c1962f1f910e916
@@ -1971,7 +1986,7 @@ msgstr "Latanie, więź życia"
 # bdcdc8b6b68a453d98757e42c9dc3f13
 #: ../../THS.rst:522
 #, fuzzy
-msgid "Keepsake Gorgon"
+msgid ":mtgtip:`Keepsake Gorgon`"
 msgstr "Keepsake Gorgon"
 
 # 1084e54b1b3741baa9e1a7c63609cb5d
@@ -1999,7 +2014,7 @@ msgstr ""
 # c2d6f7633a0a4ce489b99dfdcb89bf17
 #: ../../THS.rst:526
 #, fuzzy
-msgid "Lash of the Whip"
+msgid ":mtgtip:`Lash of the Whip`"
 msgstr "Lash of the Whip"
 
 # c5660cda611348e4851b2e3bab86a534
@@ -2011,7 +2026,7 @@ msgstr "Wskazany stwór dostaje -4/-4 do końca tury."
 # 977847dcbf284ce38b0e0a835299352f
 #: ../../THS.rst:532
 #, fuzzy
-msgid "Loathsome Catoblepas"
+msgid ":mtgtip:`Loathsome Catoblepas`"
 msgstr "Loathsome Catoblepas"
 
 # 52776aefeec8402c8a8e49b0fea103ae
@@ -2036,7 +2051,8 @@ msgstr ""
 
 # 4fcca0eb078b42798b00cb4029634cd9
 #: ../../THS.rst:536
-msgid "March of the Returned"
+#, fuzzy
+msgid ":mtgtip:`March of the Returned`"
 msgstr "March of the Returned (Pochód Przywróconych)"
 
 # 4008fa3a1da24b52aa6c635674343711
@@ -2045,14 +2061,14 @@ msgstr "March of the Returned (Pochód Przywróconych)"
 msgid ""
 "Return up to two target creature cards from your graveyard to your hand."
 msgstr ""
-"Zwróć co najwyżej dwie wskazane karty stworów z twojego cmentarza do twojej "
-"ręki."
+"Przywróć co najwyżej dwie wskazany karty stworów z twojego cmentarza do "
+"twojej ręki."
 
 # da4f29fc60624c1db533ea70c78b9cf8
 # 23258df95e1e4889812cccede5ba611b
 #: ../../THS.rst:540
 #, fuzzy
-msgid "Mogis's Marauder"
+msgid ":mtgtip:`Mogis's Marauder`"
 msgstr "Mogis's Marauder"
 
 # 485be7d39f294375b81e9147abf2166c
@@ -2075,7 +2091,7 @@ msgstr ""
 # 55124aec39594aed82ca2b412297a477
 #: ../../THS.rst:546
 #, fuzzy
-msgid "Nighthowler"
+msgid ":mtgtip:`Nighthowler`"
 msgstr "Nighthowler"
 
 # dffafc6393c240ab9b61b9f79beb1743
@@ -2105,7 +2121,7 @@ msgstr ""
 # 89415ed549ed4a81b10c763e0383f02e
 #: ../../THS.rst:554
 #, fuzzy
-msgid "Ordeal of Erebos"
+msgid ":mtgtip:`Ordeal of Erebos`"
 msgstr "Ordeal of Erebos"
 
 # 31c7cb2a193b4781b078d014fcbb4d08
@@ -2127,7 +2143,8 @@ msgstr "Kiedy poświęcasz Ordeal of Erebos, wskazany gracz odrzuca dwie karty."
 # b6e288b7060d4e5d8c377100e03a9615
 # e8748fbd05b74b068cc0ac02078f2a7d
 #: ../../THS.rst:558
-msgid "Pharika's Cure"
+#, fuzzy
+msgid ":mtgtip:`Pharika's Cure`"
 msgstr "Pharika's Cure (Lek Fariki)"
 
 # 093bf1bc760f44478829d3ff1920eac2
@@ -2142,7 +2159,7 @@ msgstr ""
 # 7daaa8da19b446ef8f13e0cb1c3ac68f
 #: ../../THS.rst:562
 #, fuzzy
-msgid "Read the Bones"
+msgid ":mtgtip:`Read the Bones`"
 msgstr "Read the Bones"
 
 # 878620d010ac4e158b9a63f8e3c7c0ae
@@ -2161,7 +2178,7 @@ msgstr ""
 # 78e904aa798949dda6b7ffa2160bf065
 #: ../../THS.rst:568
 #, fuzzy
-msgid "Rescue from the Underworld"
+msgid ":mtgtip:`Rescue from the Underworld`"
 msgstr "Rescue from the Underworld"
 
 # 0bd246ea5f094938a09d5207880da696
@@ -2186,7 +2203,7 @@ msgstr ""
 # be134b3c90bd4d36a1289e88073fb1b3
 #: ../../THS.rst:572
 #, fuzzy
-msgid "Returned Centaur"
+msgid ":mtgtip:`Returned Centaur`"
 msgstr "Returned Centaur"
 
 # 1e81393884af4b57a86280508e5680d8
@@ -2204,7 +2221,7 @@ msgstr ""
 # 015fee00f5fc46d6a0f5e4128aedbf4d
 #: ../../THS.rst:578
 #, fuzzy
-msgid "Returned Phalanx"
+msgid ":mtgtip:`Returned Phalanx`"
 msgstr "Returned Phalanx"
 
 # 4747e1d7bea14aed81159713d62d19ac
@@ -2222,7 +2239,7 @@ msgstr ""
 # 5c598163895145438d14556bbfecf0b5
 #: ../../THS.rst:586
 #, fuzzy
-msgid "Scourgemark"
+msgid ":mtgtip:`Scourgemark`"
 msgstr "Scourgemark"
 
 # 7cccdeab27c14a5ab1af77f45cb49a95
@@ -2240,7 +2257,8 @@ msgstr "Zauroczony stwór dostaje +1/+0."
 # 7b32691b99cd4c80876bec1893c418b4
 # 4272116c8c7747a49e4f97c23edb0286
 #: ../../THS.rst:590
-msgid "Sip of Hemlock"
+#, fuzzy
+msgid ":mtgtip:`Sip of Hemlock`"
 msgstr "Sip of Hemlock (Łyk cykuty)"
 
 # f1398f36bbbf48eeb202e3ddc8fa5196
@@ -2253,7 +2271,7 @@ msgstr "Zniszcz wskazanego stwora. Jego władca traci 2 życia."
 # f1dedb0a33e044cdbaa1ca93e7fe1bee
 #: ../../THS.rst:594
 #, fuzzy
-msgid "Thoughtseize"
+msgid ":mtgtip:`Thoughtseize`"
 msgstr "Thoughtseize"
 
 # 7c9b7d3461c4426694a695d2b66aca13
@@ -2270,7 +2288,8 @@ msgstr ""
 # a24f9e23edf44a0d82a20ecb6536b917
 # b86894a502e345ab91951bf552abc4ff
 #: ../../THS.rst:600
-msgid "Tormented Hero"
+#, fuzzy
+msgid ":mtgtip:`Tormented Hero`"
 msgstr "Tormented Hero (Udręczony bohater)"
 
 # adbfd5b928fa43b9a38d7a67451a85b3
@@ -2292,7 +2311,8 @@ msgstr ""
 # dbfbb5bc7f134dd5977daf4645624f4d
 # b22ccea0badc48f2bc8fb44dad81e197
 #: ../../THS.rst:606
-msgid "Viper's Kiss"
+#, fuzzy
+msgid ":mtgtip:`Viper's Kiss`"
 msgstr "Viper's Kiss (Pocałunek Żmii)"
 
 # ad7931907f594f7fb6b96873b5e32ecd
@@ -2308,7 +2328,8 @@ msgstr ""
 # ca92c33a9fd9414fbaea60f0c8a354b3
 # 2da6f359db9345e3827748aa44f8fbaf
 #: ../../THS.rst:612
-msgid "Whip of Erebos"
+#, fuzzy
+msgid ":mtgtip:`Whip of Erebos`"
 msgstr "Whip of Erebos (Bat Erebosa)"
 
 # 7dacdaad2d5147f4ab153fe771a61bd3
@@ -2338,7 +2359,7 @@ msgstr ""
 # f24e533482e54aaa870a95586fd67bb3
 #: ../../THS.rst:616
 #, fuzzy
-msgid "Akroan Crusader"
+msgid ":mtgtip:`Akroan Crusader`"
 msgstr "Akroan Crusader"
 
 # 55c6c828d0e74a02bf282a0cb1b8eec6
@@ -2355,7 +2376,8 @@ msgstr ""
 # f9573616301740f6a85a74e76327f6f6
 # 4c28fa27f5cd43f28819514d1c4515f6
 #: ../../THS.rst:620
-msgid "Anger of the Gods"
+#, fuzzy
+msgid ":mtgtip:`Anger of the Gods`"
 msgstr "Anger of the Gods (Gniew bogów)"
 
 # 3493153fdeaf47bcae0501961c5b462b
@@ -2373,7 +2395,7 @@ msgstr ""
 # 07873dfecf054f3cbb6224d7a745fcc6
 #: ../../THS.rst:624
 #, fuzzy
-msgid "Arena Athlete"
+msgid ":mtgtip:`Arena Athlete`"
 msgstr "Arena Athlete"
 
 # fc9a60bfbd95498e8a99f1a6f37a897a
@@ -2389,14 +2411,15 @@ msgstr ""
 # d3c70f47ca074bb4bd217e933dd49f10
 # a44615b1b3714ac58ba0367ab8038d5b
 #: ../../THS.rst:626
-msgid "Borderland Minotaur"
+#, fuzzy
+msgid ":mtgtip:`Borderland Minotaur`"
 msgstr "Borderland Minotaur (Minotaur z pogranicza)"
 
 # 5553c62d4a15499aa309da245d95d2ad
 # 978aac730e474ac8b849e9416da296c1
 #: ../../THS.rst:632
 #, fuzzy
-msgid "Boulderfall"
+msgid ":mtgtip:`Boulderfall`"
 msgstr "Boulderfall"
 
 # 6e79e35b5d2e4f078cb4e3c6bd8162e4
@@ -2413,7 +2436,7 @@ msgstr ""
 # a1f50a89082a404ba303b86fa64b779b
 #: ../../THS.rst:636
 #, fuzzy
-msgid "Coordinated Assault"
+msgid ":mtgtip:`Coordinated Assault`"
 msgstr "Coordinated Assault"
 
 # f96894d095324ead8b51b4029980880e
@@ -2430,7 +2453,7 @@ msgstr ""
 # 19ab854918034c549ef25947ef6d4a27
 #: ../../THS.rst:642
 #, fuzzy
-msgid "Deathbellow Raider"
+msgid ":mtgtip:`Deathbellow Raider`"
 msgstr "Deathbellow Raider"
 
 # 568408b40cae4181b3ffaf0445bb301e
@@ -2450,7 +2473,8 @@ msgstr "|mana_2|\\ |mana_b|: Zregeneruj Deathbellow Raider."
 # bbd999d886474763892037febebda8b9
 # f0ed0ad4b86f4a86ad58e6d27fc53fcd
 #: ../../THS.rst:646
-msgid "Demolish"
+#, fuzzy
+msgid ":mtgtip:`Demolish`"
 msgstr "Demolish (Wyburzenie)"
 
 # 3dfa63d348fb4f65bf8e379c7906a632
@@ -2462,7 +2486,8 @@ msgstr "Zniszcz wskazany artefakt lub ląd."
 # f6dddb75e7704a8298e3d0f73c70ee52
 # 7475ff2ccbeb419a8393cf0e8767d7c4
 #: ../../THS.rst:654
-msgid "Dragon Mantle"
+#, fuzzy
+msgid ":mtgtip:`Dragon Mantle`"
 msgstr "Dragon Mantle (Smoczy płaszcz)"
 
 # 06a8155d3de64147b23fff5fd2b3cbf0
@@ -2485,7 +2510,7 @@ msgstr ""
 # 1032f1a029994c7f9a3964880733d811
 #: ../../THS.rst:660
 #, fuzzy
-msgid "Ember Swallower"
+msgid ":mtgtip:`Ember Swallower`"
 msgstr "Ember Swallower"
 
 # a76e8597f2ad487290964654a2ebde83
@@ -2512,7 +2537,8 @@ msgstr ""
 # 36eeed2304fd4a6a8d9db6121554dea8
 # fa38731644de49e1b6c7495785f55287
 #: ../../THS.rst:664
-msgid "Fanatic of Mogis"
+#, fuzzy
+msgid ":mtgtip:`Fanatic of Mogis`"
 msgstr "Fanatic of Mogis (Fanatyk Mogisa)"
 
 # 8768313c5aa44b399778f2aa7ac18774
@@ -2531,7 +2557,7 @@ msgstr ""
 # bf3dcec122c34d50a01b33e1c190dd7a
 #: ../../THS.rst:670
 #, fuzzy
-msgid "Firedrinker Satyr"
+msgid ":mtgtip:`Firedrinker Satyr`"
 msgstr "Firedrinker Satyr"
 
 # 57beb404c77243e1948791c2181708a6
@@ -2558,7 +2584,7 @@ msgstr ""
 # 06dc19ebd94142c5aefc642510374ef7
 #: ../../THS.rst:674
 #, fuzzy
-msgid "Flamespeaker Adept"
+msgid ":mtgtip:`Flamespeaker Adept`"
 msgstr "Flamespeaker Adept"
 
 # 269c7e6b18244ee3b5ed6e3782da2dab
@@ -2574,7 +2600,8 @@ msgstr ""
 # b6bc9b042efe44e4ad5817fb10d2b4d5
 # 01fe83b6704548a5893f2caca1710b93
 #: ../../THS.rst:680
-msgid "Hammer of Purphoros"
+#, fuzzy
+msgid ":mtgtip:`Hammer of Purphoros`"
 msgstr "Hammer of Purphoros (Młot Purforosa)"
 
 # e849d899278a4474a022dadd7f1944a0
@@ -2598,7 +2625,7 @@ msgstr ""
 # 4fc062ebbc364fe1a7dd1e54b977960d
 #: ../../THS.rst:686
 #, fuzzy
-msgid "Ill-Tempered Cyclops"
+msgid ":mtgtip:`Ill-Tempered Cyclops`"
 msgstr "Ill-Tempered Cyclops"
 
 # c64751d646bd45439a4823ce2ea38392
@@ -2631,7 +2658,7 @@ msgstr ""
 # 5631b4260e384ac998be69230d9bf1e1
 #: ../../THS.rst:690
 #, fuzzy
-msgid "Labyrinth Champion"
+msgid ":mtgtip:`Labyrinth Champion`"
 msgstr "Labyrinth Champion"
 
 # 502d56cccad94be78d921347028823a0
@@ -2648,7 +2675,8 @@ msgstr ""
 # 052d33ac4a254646816977b005081d38
 # 15be80b5fb09401bafe944df424a423a
 #: ../../THS.rst:694
-msgid "Lightning Strike"
+#, fuzzy
+msgid ":mtgtip:`Lightning Strike`"
 msgstr "Lightning Strike"
 
 # 2d4d07872ce5445e987507de47c2343b
@@ -2660,7 +2688,7 @@ msgstr "Ten czar zadaje 3 obrażenia dowolnemu celowi."
 # b6736a5569b841458de7f90b70fe78be
 #: ../../THS.rst:698
 #, fuzzy
-msgid "Magma Jet"
+msgid ":mtgtip:`Magma Jet`"
 msgstr "Magma Jet"
 
 #: ../../THS.rst:697
@@ -2671,7 +2699,8 @@ msgstr "Magma Jet zadaje wskazanemu stworowi lub graczowi 2 obrażenia."
 # 5ad8ed2e88cf46fa8468c2ae76dd5ebe
 # 762f0258efc1458b8321144c43c6c0f5
 #: ../../THS.rst:704
-msgid "Messenger's Speed"
+#, fuzzy
+msgid ":mtgtip:`Messenger's Speed`"
 msgstr "Messenger's Speed (Szybkość posłańca)"
 
 # 35463af1fc4b4cea904bac8b3ecb3288
@@ -2684,7 +2713,7 @@ msgstr "Zauroczony stwór ma tratowanie i pośpiech."
 # 7280b2cf73b24a009840ca7b9469d918
 #: ../../THS.rst:710
 #, fuzzy
-msgid "Minotaur Skullcleaver"
+msgid ":mtgtip:`Minotaur Skullcleaver`"
 msgstr "Minotaur Skullcleaver"
 
 # 048b78148006402e829f475ef1efe9df
@@ -2707,7 +2736,7 @@ msgstr ""
 # 6cce77e36ba7408f9524240939490ab4
 #: ../../THS.rst:718
 #, fuzzy
-msgid "Ordeal of Purphoros"
+msgid ":mtgtip:`Ordeal of Purphoros`"
 msgstr "Ordeal of Purphoros"
 
 # 22e50707fddb43b39bcfeef1751f1282
@@ -2734,7 +2763,7 @@ msgstr ""
 # f03f9e48de224353b4fadbdcc1a6af44
 #: ../../THS.rst:722
 #, fuzzy
-msgid "Peak Eruption"
+msgid ":mtgtip:`Peak Eruption`"
 msgstr "Peak Eruption"
 
 # 1fa57ea4e1e84856893f8811b0ede563
@@ -2750,7 +2779,7 @@ msgstr ""
 # cb7b0fab571f429cb14e43c2d9f290aa
 #: ../../THS.rst:726
 #, fuzzy
-msgid "Portent of Betrayal"
+msgid ":mtgtip:`Portent of Betrayal`"
 msgstr "Portent of Betrayal"
 
 # 750ea2eda01141db9c7bfb270a5f1bb7
@@ -2768,7 +2797,8 @@ msgstr ""
 # e5526badc9134798933a134165a2ec1a
 # 759083b5316e43ca8faf4c1d6f1e717a
 #: ../../THS.rst:730
-msgid "Priest of Iroas"
+#, fuzzy
+msgid ":mtgtip:`Priest of Iroas`"
 msgstr "Priest of Iroas (Kapłan Iroasa)"
 
 # a99929ff432b4b50827e24ba33de690a
@@ -2782,7 +2812,8 @@ msgstr "|mana_3|\\ |mana_w|, poświęć Priest of Iroas: Zniszcz wskazany urok."
 # 59c461659aed49719d0a3b8752aeebe4
 # 7b15e5c291d8421fb9d20706b0a0c05c
 #: ../../THS.rst:740
-msgid "Purphoros, God of the Forge"
+#, fuzzy
+msgid ":mtgtip:`Purphoros, God of the Forge`"
 msgstr "Purphoros, God of the Forge (Purforos, bóg kuźni)"
 
 # 51fd5939ff094ce9b2e55b10e7028d3d
@@ -2816,7 +2847,8 @@ msgstr ""
 # ca500d6b9ecf4629a97aa9e049529362
 # 66022d0ce8d84bf7a33f6c2c00e8e318
 #: ../../THS.rst:748
-msgid "Purphoros's Emissary"
+#, fuzzy
+msgid ":mtgtip:`Purphoros's Emissary`"
 msgstr "Purphoros's Emissary (Emisariusz Purforosa)"
 
 # 4b60adafbb1341b78a9cb7c39bc05b54
@@ -2852,7 +2884,7 @@ msgstr "Zauroczony stwór dostaje +3/+3 i ma tratowanie."
 # 2afd3b3dca41409092e8f1005ab4b116
 #: ../../THS.rst:752
 #, fuzzy
-msgid "Rage of Purphoros"
+msgid ":mtgtip:`Rage of Purphoros`"
 msgstr "Rage of Purphoros"
 
 # a13c15d2653a4561955fb6e78678e5f9
@@ -2871,7 +2903,7 @@ msgstr ""
 # 826dfcc0f0a846f194376d00f5af9d11
 #: ../../THS.rst:758
 #, fuzzy
-msgid "Rageblood Shaman"
+msgid ":mtgtip:`Rageblood Shaman`"
 msgstr "Rageblood Shaman"
 
 # f7b57f8a029b48eeba71f18240bcf84b
@@ -2884,14 +2916,15 @@ msgstr ""
 # 27dbda649eaa4bcbbdde53bf89734447
 # 63e78b70a56f4fd995243884f1ec20f2
 #: ../../THS.rst:762
-msgid "Satyr Rambler"
+#, fuzzy
+msgid ":mtgtip:`Satyr Rambler`"
 msgstr "Satyr Rambler (Satyr Włóczęga)"
 
 # 3e594d71a3f4402dbc32a90c3dd1de51
 # b624f7c3b0c74f2c8591dbcd4988a76f
 #: ../../THS.rst:766
 #, fuzzy
-msgid "Spark Jolt"
+msgid ":mtgtip:`Spark Jolt`"
 msgstr "Spark Jolt"
 
 # ecd962d2e0a943bc8c45fffc927336d9
@@ -2910,7 +2943,7 @@ msgstr ""
 # de8609e37b2c489f922e055b0dc91073
 #: ../../THS.rst:774
 #, fuzzy
-msgid "Spearpoint Oread"
+msgid ":mtgtip:`Spearpoint Oread`"
 msgstr "Spearpoint Oread"
 
 # f68e94bb80ce4f73bada40246154b160
@@ -2942,7 +2975,7 @@ msgstr "Zauroczony stwór dostaje +2/+2 i ma pierwszy cios."
 # 3a3345b0eefa4ca8a5fb95f30b5ac1a4
 #: ../../THS.rst:780
 #, fuzzy
-msgid "Stoneshock Giant"
+msgid ":mtgtip:`Stoneshock Giant`"
 msgstr "Stoneshock Giant"
 
 # 242b4fafc4444526acacf703622450fb
@@ -2969,7 +3002,8 @@ msgstr ""
 # cdb8b7ea87ff4cd4a128883c0f8b5293
 # 86bc40eacece43e38e56242190b9c9b7
 #: ../../THS.rst:788
-msgid "Stormbreath Dragon"
+#, fuzzy
+msgid ":mtgtip:`Stormbreath Dragon`"
 msgstr "Stormbreath Dragon (Smok zionący burzą)"
 
 # 8cd238dc06a2400a8ce4e6549206acdc
@@ -2991,7 +3025,8 @@ msgstr ""
 # e4d4047289834b43a1934ceb13c0fc95
 # d6ddf66f17cb4b299345b604ea131ef8
 #: ../../THS.rst:792
-msgid "Titan of Eternal Fire"
+#, fuzzy
+msgid ":mtgtip:`Titan of Eternal Fire`"
 msgstr "Titan of Eternal Fire (Tytan wiecznego ognia)"
 
 # 489385aca692424a97f90b8d380af1e3
@@ -3008,7 +3043,8 @@ msgstr ""
 # 9dc8c3e90d4b4acfb0958ae5aedd5afb
 # 3b023c8ea3a5458fbc364ad45e6abb55
 #: ../../THS.rst:796
-msgid "Titan's Strength"
+#, fuzzy
+msgid ":mtgtip:`Titan's Strength`"
 msgstr "Titan's Strength (Siła tytana)"
 
 # 1010c792e464424082e1c01314106126
@@ -3026,7 +3062,7 @@ msgstr ""
 # 5e33c9410aab4e5d9d9ba8099bd5c114
 #: ../../THS.rst:800
 #, fuzzy
-msgid "Two-Headed Cerberus"
+msgid ":mtgtip:`Two-Headed Cerberus`"
 msgstr "Two-Headed Cerberus"
 
 # 14ed2e263e484e35b0f896458b26475f
@@ -3042,7 +3078,7 @@ msgstr ""
 # 72f4b98da4c747e39aa9c9b806c9b435
 #: ../../THS.rst:804
 #, fuzzy
-msgid "Wild Celebrants"
+msgid ":mtgtip:`Wild Celebrants`"
 msgstr "Wild Celebrants"
 
 # 8ecf755c5b9c42d9bdf265866cc2b743
@@ -3058,7 +3094,7 @@ msgstr ""
 # 9c02b52b548a41e1a2660f43e4ce634d
 #: ../../THS.rst:808
 #, fuzzy
-msgid "Agent of Horizons"
+msgid ":mtgtip:`Agent of Horizons`"
 msgstr "Agent of Horizons"
 
 # 930690ace72d4722958119a10d6a3e53
@@ -3073,7 +3109,7 @@ msgstr ""
 # d4f68ad0225f45cba19f061102280f08
 #: ../../THS.rst:812
 #, fuzzy
-msgid "Anthousa, Setessan Hero"
+msgid ":mtgtip:`Anthousa, Setessan Hero`"
 msgstr "Anthousa, Setessan Hero"
 
 # 102f90305f764f74875194c5e3c55cf6
@@ -3092,7 +3128,7 @@ msgstr ""
 # de81ffa1181241f3b250b74e06cbd48d
 #: ../../THS.rst:820
 #, fuzzy
-msgid "Arbor Colossus"
+msgid ":mtgtip:`Arbor Colossus`"
 msgstr "Arbor Colossus"
 
 # ddcfe9f8d11b444384af0ca2ba9e8adf
@@ -3131,7 +3167,7 @@ msgstr ""
 # 9cc125f4747243d582370320e4fe69c4
 #: ../../THS.rst:824
 #, fuzzy
-msgid "Artisan's Sorrow"
+msgid ":mtgtip:`Artisan's Sorrow`"
 msgstr "Artisan's Sorrow"
 
 # 368b00941fd3414a9c376fc6cce8013f
@@ -3150,7 +3186,7 @@ msgstr ""
 # 5b5dece2a7f34531ba7a6597705d2b75
 #: ../../THS.rst:832
 #, fuzzy
-msgid "Boon Satyr"
+msgid ":mtgtip:`Boon Satyr`"
 msgstr "Boon Satyr"
 
 # d833db955a6f4993bdf00ed8fd8802f5
@@ -3181,7 +3217,8 @@ msgstr "Zauroczony stwór dostaje +4/+2."
 # 633a4617e7774b46b6e5e8bda701439c
 # 12bdc9fa9f6b40d0831f3f67495483eb
 #: ../../THS.rst:846
-msgid "Bow of Nylea"
+#, fuzzy
+msgid ":mtgtip:`Bow of Nylea`"
 msgstr "Bow of Nylea (Łuk Nylei)"
 
 # d05dbd2004c34a9e8bbeacd24fd0402b
@@ -3225,7 +3262,7 @@ msgstr ""
 # 2a122b3ef26f4a5fb65fa7e93468fcee
 #: ../../THS.rst:850
 #, fuzzy
-msgid "Centaur Battlemaster"
+msgid ":mtgtip:`Centaur Battlemaster`"
 msgstr "Centaur Battlemaster"
 
 # 1705555648d94c6c83b6f3cab2829efc
@@ -3242,7 +3279,7 @@ msgstr ""
 # 8255653661f24e56b6ee4b1decd8654e
 #: ../../THS.rst:854
 #, fuzzy
-msgid "Commune with the Gods"
+msgid ":mtgtip:`Commune with the Gods`"
 msgstr "Commune with the Gods"
 
 # 2a17df364a0f464191c01fe740734207
@@ -3261,7 +3298,7 @@ msgstr ""
 # 8e68c25b4ac54fe2a58b59c2bb80fb3f
 #: ../../THS.rst:858
 #, fuzzy
-msgid "Defend the Hearth"
+msgid ":mtgtip:`Defend the Hearth`"
 msgstr "Defend the Hearth"
 
 # b33e629cf5584a84bae8f9b7915146c9
@@ -3276,7 +3313,7 @@ msgstr ""
 # dd12b60b8dc448feb494e40419bedbc7
 #: ../../THS.rst:862
 #, fuzzy
-msgid "Fade into Antiquity"
+msgid ":mtgtip:`Fade into Antiquity`"
 msgstr "Fade into Antiquity"
 
 # a1ebda80682d43ffbf15b21a3fa327a4
@@ -3289,7 +3326,7 @@ msgstr "Wygnaj wskazany artefakt lub urok."
 # b5eb01eeda5843608f98229c7a13cb40
 #: ../../THS.rst:870
 #, fuzzy
-msgid "Feral Invocation"
+msgid ":mtgtip:`Feral Invocation`"
 msgstr "Feral Invocation"
 
 # caf255bbaeba4424851cf690dc2c5de7
@@ -3302,7 +3339,7 @@ msgstr "Zauroczony stwór dostaje +2/+2."
 # 38f8671e0312439bb6bfcef3de4c457c
 #: ../../THS.rst:874
 #, fuzzy
-msgid "Hunt the Hunter"
+msgid ":mtgtip:`Hunt the Hunter`"
 msgstr "Hunt the Hunter"
 
 # db8a65e866794525956282ac55b1d260
@@ -3319,7 +3356,7 @@ msgstr ""
 # 8729ddb5329b4c64b439ae289896e910
 #: ../../THS.rst:878
 #, fuzzy
-msgid "Karametra's Acolyte"
+msgid ":mtgtip:`Karametra's Acolyte`"
 msgstr "Karametra's Acolyte"
 
 # 15fb32c830784718b5b2d6500a4dd898
@@ -3339,7 +3376,7 @@ msgstr ""
 # 3d6d9ea5ecd44f78afaf4e5130e0a834
 #: ../../THS.rst:886
 #, fuzzy
-msgid "Leafcrown Dryad"
+msgid ":mtgtip:`Leafcrown Dryad`"
 msgstr "Leafcrown Dryad"
 
 # e5994a8d7e80466fbb6fa43ef26fcec7
@@ -3365,7 +3402,7 @@ msgstr "Zauroczony stwór dostaje +2/+2 i ma zasięg."
 # 03f84593c09849dab799089d7f861408
 #: ../../THS.rst:894
 #, fuzzy
-msgid "Mistcutter Hydra"
+msgid ":mtgtip:`Mistcutter Hydra`"
 msgstr "Mistcutter Hydra"
 
 # 8b5cc002a9dd47b989c76b2a2c59daeb
@@ -3389,7 +3426,7 @@ msgstr "Mistcutter Hydra wchodzi na pole walki z X znacznikami +1/+1."
 # a026b89a2fc348f5a0551a2d35e5103a
 #: ../../THS.rst:900
 #, fuzzy
-msgid "Nemesis of Mortals"
+msgid ":mtgtip:`Nemesis of Mortals`"
 msgstr "Nemesis of Mortals"
 
 # 2824bc9225ce4907869a05a83ed12970
@@ -3420,7 +3457,7 @@ msgstr ""
 # 20feefa75af84bbab4c63ab80918d338
 #: ../../THS.rst:906
 #, fuzzy
-msgid "Nessian Asp"
+msgid ":mtgtip:`Nessian Asp`"
 msgstr "Nessian Asp"
 
 # fdaaaba1c87c43c8a46cf90acc8249a7
@@ -3438,14 +3475,14 @@ msgstr ""
 # bdbdea86b7f5481db0f79f380a096c7a
 #: ../../THS.rst:908
 #, fuzzy
-msgid "Nessian Courser"
+msgid ":mtgtip:`Nessian Courser`"
 msgstr "Nessian Courser"
 
 # ac82963a84794791975ac434ff28bb26
 # 45adf4ebe4014d2ca47bab34344b9e63
 #: ../../THS.rst:920
 #, fuzzy
-msgid "Nylea, God of the Hunt"
+msgid ":mtgtip:`Nylea, God of the Hunt`"
 msgstr "Nylea, God of the Hunt"
 
 # 3963f7145bd949fdaa6f7d26501fad89
@@ -3456,9 +3493,9 @@ msgid ""
 "(Each |mana_g| in the mana costs of permanents you control counts toward "
 "your devotion to green.)"
 msgstr ""
-"Dopóki twój kult zielonego jest mniejszy niż pięć, Nylea nie jest stworem ("
-"Każda |mana_g| w kosztach many permanentów pod twoim władaniem wlicza się do "
-"twojego kultu zielonego.)"
+"Dopóki twój kult zielonego jest mniejszy niż pięć, Nylea nie jest stworem "
+"(Każda |mana_g| w kosztach many permanentów pod twoim władaniem wlicza się "
+"do twojego kultu zielonego.)"
 
 # 4d5861638c5f4028a2a62a850c1994a7
 # d5b0c9f521644fa1a38af5c054fabfa9
@@ -3477,7 +3514,7 @@ msgstr "|mana_3|\\ |mana_g|: Wskazany stwór dostaje +2/+2 do końca tury."
 # e4a5ca2b02fe48fb8184e6eeb6d49947
 #: ../../THS.rst:924
 #, fuzzy
-msgid "Nylea's Disciple"
+msgid ":mtgtip:`Nylea's Disciple`"
 msgstr "Nylea's Disciple"
 
 # 5b0ab62dc8c0496fb4c5ac12a37215d7
@@ -3495,7 +3532,8 @@ msgstr ""
 # 0f7dc3dd0f004434ac9a8f638d6a7334
 # f5ab2f4709364c41aa41c6dca4eee223
 #: ../../THS.rst:932
-msgid "Nylea's Emissary"
+#, fuzzy
+msgid ":mtgtip:`Nylea's Emissary`"
 msgstr "Nylea's Emissary (Emisariusz Nylei)"
 
 # bcadbdd380744d239e3fd27991dd0a5a
@@ -3520,7 +3558,8 @@ msgstr "Zauroczony stwór dostaje +3/+3 i ma tratowanie."
 # 6d2f3d2bf3c1468aa278b1ea22c0e765
 # cc25db5e8d074176a808b11b2b17fcdf
 #: ../../THS.rst:940
-msgid "Nylea's Presence"
+#, fuzzy
+msgid ":mtgtip:`Nylea's Presence`"
 msgstr "Nylea's Presence (Obecność Nylei)"
 
 # 35ad1ab1a05f4337aae93edae4255f09
@@ -3545,7 +3584,7 @@ msgstr "Zauroczony ląd ma dodatkowo typ każdego zwykłego lądu."
 # 36da724e725f4a0b93d754a5ceae9e57
 #: ../../THS.rst:948
 #, fuzzy
-msgid "Ordeal of Nylea"
+msgid ":mtgtip:`Ordeal of Nylea`"
 msgstr "Ordeal of Nylea"
 
 # 1780f1bc4ddd4eadb1bcd060144bf2a5
@@ -3573,13 +3612,14 @@ msgstr ""
 # 484521b9975f4a26bed49cef89924e82
 #: ../../THS.rst:950
 #, fuzzy
-msgid "Pheres-Band Centaurs"
+msgid ":mtgtip:`Pheres-Band Centaurs`"
 msgstr "Pheres-Band Centaurs"
 
 # 47498be269d94918bb56f93745799a85
 # 8f47734c687a40eb8cd827f3bcbd0d3c
 #: ../../THS.rst:958
-msgid "Polukranos, World Eater"
+#, fuzzy
+msgid ":mtgtip:`Polukranos, World Eater`"
 msgstr "Polukranos, World Eater (Polukranos, Pożeracz Świata)"
 
 # 16b47721c2ca48f19eb525d4c41bab43
@@ -3610,7 +3650,7 @@ msgstr ""
 # e6162ef13511467ea5299b59bab520fe
 #: ../../THS.rst:962
 #, fuzzy
-msgid "Reverent Hunter"
+msgid ":mtgtip:`Reverent Hunter`"
 msgstr "Reverent Hunter"
 
 # 243a847aeaa748a68882c0138bc6e016
@@ -3628,7 +3668,8 @@ msgstr ""
 # d03ef3b806f94593acb4e5e799374022
 # ef5cfc72b9b540b7a34106cfde35bf96
 #: ../../THS.rst:966
-msgid "Satyr Hedonist"
+#, fuzzy
+msgid ":mtgtip:`Satyr Hedonist`"
 msgstr "Satyr Hedonist (Satyr Hedonista)"
 
 # c562a35b653b4af7ac7eec6d3d7a1551
@@ -3643,7 +3684,8 @@ msgstr ""
 # 2ad31d27420146969e1fca96d537f725
 # b346c0e805de4d3ea32d45b5a5a1805d
 #: ../../THS.rst:970
-msgid "Satyr Piper"
+#, fuzzy
+msgid ":mtgtip:`Satyr Piper`"
 msgstr "Satyr Piper (Satyr Flecista)"
 
 # aa1d1cb3aa5c4c288d6b6b1aa3dca6c4
@@ -3659,7 +3701,7 @@ msgstr ""
 # c48ce0036f8d4c5ebbcdb85818755bb6
 #: ../../THS.rst:974
 #, fuzzy
-msgid "Savage Surge"
+msgid ":mtgtip:`Savage Surge`"
 msgstr "Savage Surge"
 
 # 17ebfb13406f4768aa40fc3a47b213f4
@@ -3672,14 +3714,14 @@ msgstr "Wskazany stwór dostaje +2/+2 do końca tury. Odkręć owego stwora."
 # 1fc4127b99ae4b82a806e9272dfbe507
 #: ../../THS.rst:978
 #, fuzzy
-msgid "Sedge Scorpion"
+msgid ":mtgtip:`Sedge Scorpion`"
 msgstr "Sedge Scorpion"
 
 # 76667faad8d545008835808d3d94b0d1
 # 82d78c07cd7548df8f4a972647dca4d4
 #: ../../THS.rst:982
 #, fuzzy
-msgid "Shredding Winds"
+msgid ":mtgtip:`Shredding Winds`"
 msgstr "Shredding Winds"
 
 # ae56ab83c43d47829ff597672488afcd
@@ -3692,7 +3734,7 @@ msgstr "Shredding Winds zadaje 7 obrażeń wskazanemu stworowi z lataniem."
 # bcdbf33fc12041509115e5e38b141594
 #: ../../THS.rst:986
 #, fuzzy
-msgid "Staunch-Hearted Warrior"
+msgid ":mtgtip:`Staunch-Hearted Warrior`"
 msgstr "Staunch-Hearted Warrior"
 
 # 058e505d8dcc432094c4aab364e7598c
@@ -3709,7 +3751,7 @@ msgstr ""
 # 363955b51db8499d8556506f13f5159e
 #: ../../THS.rst:992
 #, fuzzy
-msgid "Sylvan Caryatid"
+msgid ":mtgtip:`Sylvan Caryatid`"
 msgstr "Sylvan Caryatid"
 
 # 80e370cc9d1a42cb9df124f631bb4174
@@ -3729,7 +3771,8 @@ msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 # 297098552d9245d8aa54d93015e5e587
 # 0f354fc9a2bc438fa27b4bfa32012ba0
 #: ../../THS.rst:996
-msgid "Time to Feed"
+#, fuzzy
+msgid ":mtgtip:`Time to Feed`"
 msgstr "Time to Feed (Czas karmienia)"
 
 #: ../../THS.rst:995
@@ -3745,7 +3788,8 @@ msgstr ""
 # acf159cb8be446a68c2ddf0f7028dd50
 # 9bc611b51749443399f3bbe796aef516
 #: ../../THS.rst:1000
-msgid "Voyaging Satyr"
+#, fuzzy
+msgid ":mtgtip:`Voyaging Satyr`"
 msgstr "Voyaging Satyr (Wędrujący Satyr)"
 
 # ba5709cee526442295fdbbf06cfe8fc8
@@ -3758,14 +3802,14 @@ msgstr "|tap|: Odkręć wskazany ląd."
 # 14698a1463bc49b2bcc3379df4bc064d
 #: ../../THS.rst:1004
 #, fuzzy
-msgid "Vulpine Goliath"
+msgid ":mtgtip:`Vulpine Goliath`"
 msgstr "Vulpine Goliath"
 
 # 3875842407c34937a689fc4abd7070d9
 # fb3d1c12175c4a5ea5e4f751eac32eec
 #: ../../THS.rst:1008
 #, fuzzy
-msgid "Warriors' Lesson"
+msgid ":mtgtip:`Warriors' Lesson`"
 msgstr "Warriors' Lesson"
 
 #: ../../THS.rst:1007
@@ -3773,14 +3817,14 @@ msgid ""
 "Until end of turn, up to two target creatures you control each gain "
 "\"Whenever this creature deals combat damage to a player, draw a card.\""
 msgstr ""
-"Do końca tury najwyżej dwa wskazane stwory pod twoim władaniem dostają \""
-"Ilekroć ten stwór zadaje graczowi obrażenia bitewne, dobierz kartę.\""
+"Do końca tury najwyżej dwa wskazane stwory pod twoim władaniem dostają "
+"\"Ilekroć ten stwór zadaje graczowi obrażenia bitewne, dobierz kartę.\""
 
 # ed4881f03ca940b79ab8bff276cc0940
 # 13074b861ea74113ae2acf5503b4e8a0
 #: ../../THS.rst:1012
 #, fuzzy
-msgid "Akroan Hoplite"
+msgid ":mtgtip:`Akroan Hoplite`"
 msgstr "Akroan Hoplite"
 
 # 55fe7f878d8f43a0bf498ed3823f6d21
@@ -3797,7 +3841,7 @@ msgstr ""
 # 3069322ae4f74fd388f378dcda9c57c7
 #: ../../THS.rst:1018
 #, fuzzy
-msgid "Anax and Cymede"
+msgid ":mtgtip:`Anax and Cymede`"
 msgstr "Anax and Cymede"
 
 # 692423d2dc1842d78b8ba7f530081ca1
@@ -3820,7 +3864,7 @@ msgstr ""
 # 6befca49fea34feaa7c4d8c353d1fbca
 #: ../../THS.rst:1024
 #, fuzzy
-msgid "Ashen Rider"
+msgid ":mtgtip:`Ashen Rider`"
 msgstr "Ashen Rider"
 
 # 70b459086166493eab559f5192594dc2
@@ -3834,7 +3878,8 @@ msgstr ""
 
 # dd0c1f96fe074fb2b211d61bca1e4bf8
 #: ../../THS.rst:1032
-msgid "Ashiok, Nightmare Weaver"
+#, fuzzy
+msgid ":mtgtip:`Ashiok, Nightmare Weaver`"
 msgstr "Ashiok, Nightmare Weaver (Ashiok, Tkacz Koszmarów)"
 
 # 6badebc2119a45fb9c55cedfbfad38e7
@@ -3867,7 +3912,7 @@ msgstr "-10: Wygnaj wszystkie karty z rąk i cmentarzy wszystkich przeciwników.
 # 4d743e09f170458d99e0e7737b329f0a
 #: ../../THS.rst:1036
 #, fuzzy
-msgid "Battlewise Hoplite"
+msgid ":mtgtip:`Battlewise Hoplite`"
 msgstr "Battlewise Hoplite"
 
 # 2f815d25389448e0bc34466ec8873fc2
@@ -3888,7 +3933,7 @@ msgstr ""
 # 90c9017fff3f4748989dce1444d17374
 #: ../../THS.rst:1040
 #, fuzzy
-msgid "Chronicler of Heroes"
+msgid ":mtgtip:`Chronicler of Heroes`"
 msgstr "Chronicler of Heroes"
 
 # 0012d792dc684ed0bb99a245880f22f5
@@ -3905,7 +3950,7 @@ msgstr ""
 # f9b3b58b80b44c0eaf770fcc35c04765
 #: ../../THS.rst:1046
 #, fuzzy
-msgid "Daxos of Meletis"
+msgid ":mtgtip:`Daxos of Meletis`"
 msgstr "Daxos of Meletis (Daxos z Meletis)"
 
 # b299822f3160464e8ae674ecda7c1c63
@@ -3934,7 +3979,8 @@ msgstr ""
 # d9966de26cc64385bf621fa3dbc99999
 # 752a07d051334dd2a858c13b1c8df934
 #: ../../THS.rst:1050
-msgid "Destructive Revelry"
+#, fuzzy
+msgid ":mtgtip:`Destructive Revelry`"
 msgstr "Destructive Revelry (Niszczycielska Hulanka)"
 
 # 05ae836c21d9481d84e2d7e61b9ce36e
@@ -3951,7 +3997,7 @@ msgstr ""
 # ab6d4d9066d547b9bc9c76094af7c3c5
 #: ../../THS.rst:1056
 #, fuzzy
-msgid "Fleecemane Lion"
+msgid ":mtgtip:`Fleecemane Lion`"
 msgstr "Fleecemane Lion"
 
 # c1ecea8007a143c391667f10432f408a
@@ -3977,7 +4023,7 @@ msgstr ""
 # 8b4231e105c94f5e828d15f575a18890
 #: ../../THS.rst:1064
 #, fuzzy
-msgid "Horizon Chimera"
+msgid ":mtgtip:`Horizon Chimera`"
 msgstr "Horizon Chimera"
 
 # 2fffe4f9f326489ca8d7e587456ca6ee
@@ -3998,7 +4044,7 @@ msgstr "Ilekroć dobierasz kartę, zyskujesz 1 życie."
 # e48d5c3f4a7e41af8a92131ca02d524a
 #: ../../THS.rst:1070
 #, fuzzy
-msgid "Kragma Warcaller"
+msgid ":mtgtip:`Kragma Warcaller`"
 msgstr "Kragma Warcaller"
 
 # e7d400bee5e046e8be00ba52ccabdfbd
@@ -4018,7 +4064,8 @@ msgstr ""
 # aa766709de7f40a9bde4e6249649fd21
 # 7981da33ed9a45cfbb1b4c22002fd685
 #: ../../THS.rst:1078
-msgid "Medomai the Ageless"
+#, fuzzy
+msgid ":mtgtip:`Medomai the Ageless`"
 msgstr "Medomai the Ageless (Medomai Wiekuisty)"
 
 # 0aa23b7dcd4f4fa3949a8ec3535b42a6
@@ -4041,7 +4088,7 @@ msgstr "Medomai the Ageless nie może atakować podczas dodatkowych tur."
 # fb4ea931a90b4249b97769ac977f03af
 #: ../../THS.rst:1082
 #, fuzzy
-msgid "Pharika's Mender"
+msgid ":mtgtip:`Pharika's Mender`"
 msgstr "Pharika's Mender"
 
 # 97226365547d4b59bb81c4e434d6e64b
@@ -4058,7 +4105,7 @@ msgstr ""
 # b2753704ec01484da259270414a23384
 #: ../../THS.rst:1090
 #, fuzzy
-msgid "Polis Crusher"
+msgid ":mtgtip:`Polis Crusher`"
 msgstr "Polis Crusher"
 
 # bd2eb843ae764703b4ad162a4b2a31c8
@@ -4091,7 +4138,8 @@ msgstr ""
 # d5fba2b469874f06a6ac26d0b4bc3db1
 # fb15ffd4e2204c41870d5496ceb4f5ad
 #: ../../THS.rst:1096
-msgid "Prophet of Kruphix"
+#, fuzzy
+msgid ":mtgtip:`Prophet of Kruphix`"
 msgstr "Prophet of Kruphix (Prorok Krufiksa)"
 
 # 62d66b45ef794c218ded3811affc5aca
@@ -4115,7 +4163,7 @@ msgstr "Możesz rzucać czary stworów tak jakby miały błysk."
 # 5075dee799714e0fbe2137c7bdb65434
 #: ../../THS.rst:1100
 #, fuzzy
-msgid "Psychic Intrusion"
+msgid ":mtgtip:`Psychic Intrusion`"
 msgstr "Psychic Intrusion"
 
 # 6d2d4822c14545d09485689388f56b4c
@@ -4136,7 +4184,7 @@ msgstr ""
 # d9779816fb094f868d40b1e25d14f9a0
 #: ../../THS.rst:1108
 #, fuzzy
-msgid "Reaper of the Wilds"
+msgid ":mtgtip:`Reaper of the Wilds`"
 msgstr "Reaper of the Wilds"
 
 # d01bf81a58434f7e8d2d4c7b0fb4c62b
@@ -4168,7 +4216,7 @@ msgstr ""
 # a3b52d5e76c94352bbc38c751ed66e01
 #: ../../THS.rst:1114
 #, fuzzy
-msgid "Sentry of the Underworld"
+msgid ":mtgtip:`Sentry of the Underworld`"
 msgstr "Sentry of the Underworld"
 
 # 928b303f606a40babe68efcbaaac6858
@@ -4189,7 +4237,7 @@ msgstr ""
 # 80025204a9e847d68d03bb66cd9aa628
 #: ../../THS.rst:1122
 #, fuzzy
-msgid "Shipwreck Singer"
+msgid ":mtgtip:`Shipwreck Singer`"
 msgstr "Shipwreck Singer"
 
 # 4e59029c17d34579aaba4be206fe7aed
@@ -4216,7 +4264,7 @@ msgstr ""
 # 84361e07c63448ad9b11037c654c7579
 #: ../../THS.rst:1128
 #, fuzzy
-msgid "Spellheart Chimera"
+msgid ":mtgtip:`Spellheart Chimera`"
 msgstr "Spellheart Chimera"
 
 # 579a3445e6ad4d2bad4ce9baef8899fa
@@ -4233,7 +4281,7 @@ msgstr ""
 # 57a9ac30fa4f4cb9a82edd88b7f0916e
 #: ../../THS.rst:1132
 #, fuzzy
-msgid "Steam Augury"
+msgid ":mtgtip:`Steam Augury`"
 msgstr "Steam Augury"
 
 # aaa1771afa7d4f64b2588cad1093c181
@@ -4252,7 +4300,7 @@ msgstr ""
 # be54d772c7e047c8aa5eba2c0ac43ad2
 #: ../../THS.rst:1140
 #, fuzzy
-msgid "Triad of Fates"
+msgid ":mtgtip:`Triad of Fates`"
 msgstr "Triad of Fates"
 
 # 26f986f60b6c4d86afcc8fbeb2e43197
@@ -4285,7 +4333,8 @@ msgstr ""
 # 39d9acf26ec849f794ef6519eba716ba
 # 9e384ed82f3d4bf7b179d76e019ac066
 #: ../../THS.rst:1146
-msgid "Tymaret, the Murder King"
+#, fuzzy
+msgid ":mtgtip:`Tymaret, the Murder King`"
 msgstr "Tymaret, the Murder King (Tymaret, Król Mordu)"
 
 # 6a5ec4f188c34956919f382e3a86292a
@@ -4314,7 +4363,7 @@ msgstr ""
 # 9eef70bd53914f0992bf0609f08c5f0d
 #: ../../THS.rst:1154
 #, fuzzy
-msgid "Underworld Cerberus"
+msgid ":mtgtip:`Underworld Cerberus`"
 msgstr "Underworld Cerberus"
 
 # deac7b2375b741dca55fe5f132b15a4d
@@ -4344,7 +4393,8 @@ msgstr ""
 # 13fd506b539347dca91e604f8241a2f9
 # 6dc199210fad409ba411eccd14a671ab
 #: ../../THS.rst:1162
-msgid "Xenagos, the Reveler"
+#, fuzzy
+msgid ":mtgtip:`Xenagos, the Reveler`"
 msgstr "Xenagos, the Reveler (Xenagos Hulaka)"
 
 # 46690b7b1f2d43a3853baac3531cf2fd
@@ -4382,7 +4432,7 @@ msgstr ""
 # 77c1a889249541ea82c2e53dd5c84722
 #: ../../THS.rst:1170
 #, fuzzy
-msgid "Akroan Horse"
+msgid ":mtgtip:`Akroan Horse`"
 msgstr "Akroan Horse"
 
 # 2f35a08db2154d08863abfd829406174
@@ -4408,21 +4458,21 @@ msgstr ""
 # 56dcaaa31445414ea8aeb2cbb12f01b2
 #: ../../THS.rst:1174
 #, fuzzy
-msgid "Anvilwrought Raptor"
+msgid ":mtgtip:`Anvilwrought Raptor`"
 msgstr "Anvilwrought Raptor"
 
 # a4775c04142b4ecb933175fc449376d0
 # a3d39eb69fed47949b2059d7ac487a17
 #: ../../THS.rst:1176
 #, fuzzy
-msgid "Bronze Sable"
+msgid ":mtgtip:`Bronze Sable`"
 msgstr "Bronze Sable"
 
 # 11c2bd8213944d3f99af697e58993654
 # c604ccac660d4160bc79a066b5f1c5d4
 #: ../../THS.rst:1182
 #, fuzzy
-msgid "Burnished Hart"
+msgid ":mtgtip:`Burnished Hart`"
 msgstr "Burnished Hart"
 
 # 89e93366db6e4dab8245b387f2112280
@@ -4439,7 +4489,8 @@ msgstr ""
 # 00a90a607b9d499d976522559118d5a2
 # 1a2d7ce4b25b48ba8a7e69520bcdece1
 #: ../../THS.rst:1190
-msgid "Colossus of Akros"
+#, fuzzy
+msgid ":mtgtip:`Colossus of Akros`"
 msgstr "Colossus of Akros (Kolos z Akros)"
 
 # c2a1a9d2986f443daed8fdfff9f41b42
@@ -4470,7 +4521,7 @@ msgstr ""
 # b1399ab7a6594e77a07b5fb106103d43
 #: ../../THS.rst:1194
 #, fuzzy
-msgid "Flamecast Wheel"
+msgid ":mtgtip:`Flamecast Wheel`"
 msgstr "Flamecast Wheel"
 
 # 6a3da9a65e03402fb054fc0e574f5621
@@ -4488,7 +4539,7 @@ msgstr ""
 # fdcbede3ab4848da8a220f27680988b8
 #: ../../THS.rst:1200
 #, fuzzy
-msgid "Fleetfeather Sandals"
+msgid ":mtgtip:`Fleetfeather Sandals`"
 msgstr "Fleetfeather Sandals"
 
 # 8a6555cffcb44733a4f4c85b718a0d75
@@ -4510,7 +4561,8 @@ msgstr ""
 # 35047336119447ae8f481a54a2af9e20
 # a9b9f71cca754851a55be121b210d836
 #: ../../THS.rst:1204
-msgid "Guardians of Meletis"
+#, fuzzy
+msgid ":mtgtip:`Guardians of Meletis`"
 msgstr "Guardians of Meletis (Strażnicy z Meletis)"
 
 #: ../../THS.rst:1203
@@ -4520,14 +4572,14 @@ msgstr "Obronność (Ten stwór nie może atakować.)"
 # 4ee4065b9843493eb32c196d7a2f7c12
 #: ../../THS.rst:1208
 #, fuzzy
-msgid "Opaline Unicorn"
+msgid ":mtgtip:`Opaline Unicorn`"
 msgstr "Opaline Unicorn"
 
 # 11da2a5a5fd14841bf129f80ef1f6633
 # bde0f6a0e2004aea94b2b5280621655d
 #: ../../THS.rst:1214
 #, fuzzy
-msgid "Prowler's Helm"
+msgid ":mtgtip:`Prowler's Helm`"
 msgstr "Prowler's Helm"
 
 # fbb577ef0cdc4ffb827876df8bb92a84
@@ -4546,7 +4598,7 @@ msgstr "Wyposaż |mana_2|"
 # 81606a4a6a524162b0514fd18f879a56
 #: ../../THS.rst:1220
 #, fuzzy
-msgid "Pyxis of Pandemonium"
+msgid ":mtgtip:`Pyxis of Pandemonium`"
 msgstr "Pyxis of Pandemonium"
 
 # d687f973075e4dec8143f0c9f9e85481
@@ -4573,7 +4625,8 @@ msgstr ""
 
 # 6ee03a9c1bcc4accaa1d9c69102650c3
 #: ../../THS.rst:1224
-msgid "Traveler's Amulet"
+#, fuzzy
+msgid ":mtgtip:`Traveler's Amulet`"
 msgstr "Traveler's Amulet (Amulet podróżnika)"
 
 # 773b5518fd184e418b16dafcb15fb8fc
@@ -4590,7 +4643,8 @@ msgstr ""
 # 7a4cea5dcb964ed09a8e7fe82c84c2b5
 # d94dbbce70424dcebf1fdda43cfd3f13
 #: ../../THS.rst:1230
-msgid "Witches' Eye"
+#, fuzzy
+msgid ":mtgtip:`Witches' Eye`"
 msgstr "Witches' Eye (Oko wiedźmy)"
 
 # 8c093d182b6644789dbe2c7dfc2a6a82
@@ -4616,7 +4670,7 @@ msgstr "Wyposaż |mana_1|"
 # 52e7837b9be84ab690c8c983abe4ea9d
 #: ../../THS.rst:1236
 #, fuzzy
-msgid "Nykthos, Shrine to Nyx"
+msgid ":mtgtip:`Nykthos, Shrine to Nyx`"
 msgstr "Nykthos, Shrine to Nyx"
 
 #: ../../THS.rst:1233 ../../THS.rst:1279
@@ -4640,7 +4694,8 @@ msgstr ""
 # 2f2923b3048b44cdb9da994caba3f71c
 # b8d4c600b6a44e7ea5c00075ef325e2b
 #: ../../THS.rst:1244
-msgid "Temple of Abandon"
+#, fuzzy
+msgid ":mtgtip:`Temple of Abandon`"
 msgstr "Temple of Abandon (Świątynia Porzucenia)"
 
 # 1ae6f7e4913e4011b271d7db6f61662c
@@ -4669,7 +4724,8 @@ msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 # 19b5fe11bbec4327a6e95a5ebe7532d7
 # 68566000259442d18fb5854058f7779a
 #: ../../THS.rst:1252
-msgid "Temple of Deceit"
+#, fuzzy
+msgid ":mtgtip:`Temple of Deceit`"
 msgstr "Temple of Deceit (Świątynia Podstępu)"
 
 # 587799b458224fbd903906eb7a3901d3
@@ -4698,7 +4754,8 @@ msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 # 4900501ad0f64726aec1fc0c15c06ff9
 # bc05eab7f2da40dda00b7abc362c5dff
 #: ../../THS.rst:1260
-msgid "Temple of Mystery"
+#, fuzzy
+msgid ":mtgtip:`Temple of Mystery`"
 msgstr "Temple of Mystery (Świątynia Tajemnic)"
 
 # aff3acb56d0d4aabaaee747ae1ab7dd4
@@ -4727,7 +4784,8 @@ msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 # 64e94f06e5df45feb96eb3e1ccc937f8
 # 269e4896648c4e768bb9e4df38f8ea08
 #: ../../THS.rst:1268
-msgid "Temple of Silence"
+#, fuzzy
+msgid ":mtgtip:`Temple of Silence`"
 msgstr "Temple of Silence (Świątynia Ciszy)"
 
 # fbcc6345c49a45b18a18d63a4f19e0d1
@@ -4756,7 +4814,8 @@ msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 # e14b08ff9bfd4a41ac5ca2b0f5862374
 # 4931d6e19fde4b5fa4a31ded4ae4c9bf
 #: ../../THS.rst:1276
-msgid "Temple of Triumph"
+#, fuzzy
+msgid ":mtgtip:`Temple of Triumph`"
 msgstr "Temple of Triumph (Świątynia Zwycięstwa)"
 
 # 827c06954bf14c15b6cc13ce8f962cfb
@@ -4785,7 +4844,8 @@ msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 # cb4bd7e4e9c14a0c8e007f4b1f76f3ef
 # 4dd417bc8b164844911e9b81879193eb
 #: ../../THS.rst:1282
-msgid "Unknown Shores"
+#, fuzzy
+msgid ":mtgtip:`Unknown Shores`"
 msgstr "Unknown Shores (Nieznane brzegi)"
 
 # 47d0678337da4492a878cfb3731e9802
@@ -4794,35 +4854,100 @@ msgstr "Unknown Shores (Nieznane brzegi)"
 msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
-# 5120ed8308b14c92af2e8b2be18d28e0
-# 18c21cd3014a4a12b89d7f43df12e16c
-#: ../../THS.rst:1284 ../../THS.rst:1288 ../../THS.rst:1292 ../../THS.rst:1296
-msgid "Plains"
-msgstr "Plains (Równina)"
+#: ../../THS.rst:1286
+msgid ":mtgtip:`Plains`"
+msgstr ""
 
-# f589cd5854184ca895a2fb1adbd00977
-# b8d7abda7071462f83147a1e66bc82e1
-#: ../../THS.rst:1300 ../../THS.rst:1304 ../../THS.rst:1308 ../../THS.rst:1312
-msgid "Island"
-msgstr "Island (Wyspa)"
+# a7cb8981229b4072b35262b19517af3c
+# d63db26bd91346d5babc001fbe168910
+#: ../../THS.rst:1285
+#, fuzzy
+msgid "(|tap|: Add |mana_w|.)"
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
-# d9e219efb96a4c0dbe6b1c8176bbe3cb
-# 0aeb388d793c4641897098d021601161
-#: ../../THS.rst:1316 ../../THS.rst:1320 ../../THS.rst:1324 ../../THS.rst:1328
-msgid "Swamp"
-msgstr "Swamp (Bagno)"
+#: ../../THS.rst:1290
+msgid ":mtgtip:`Island`"
+msgstr ""
+
+# a7c1c3c46b6d4579b3f87817ef23e8bd
+# bae965a474ec41f4bc9cda0bfd41180a
+#: ../../THS.rst:1289
+#, fuzzy
+msgid "(|tap|: Add |mana_u|.)"
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+
+#: ../../THS.rst:1294
+msgid ":mtgtip:`Swamp`"
+msgstr ""
+
+# 76bd4645501f4b8b8e98800903d443c3
+# fb834ee568ba41d396836e0f88e4edda
+#: ../../THS.rst:1293
+#, fuzzy
+msgid "(|tap|: Add |mana_b|.)"
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 # 7aee82c4b7fd4f08af42e58ab6cadc1c
 # 8477396dfece4426aefe36dd9a43ccf9
-#: ../../THS.rst:1332 ../../THS.rst:1336 ../../THS.rst:1340 ../../THS.rst:1344
-msgid "Mountain"
+#: ../../THS.rst:1298
+#, fuzzy
+msgid ":mtgtip:`Mountain`"
 msgstr "Mountain (Góra)"
+
+# e46764f3aff84f7fa505dca28f961cb6
+# 74f28075af4642879170deb2ad5a7839
+#: ../../THS.rst:1297
+#, fuzzy
+msgid "(|tap|: Add |mana_r|.)"
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+
+#: ../../THS.rst:1301
+msgid ":mtgtip:`Forest`"
+msgstr ""
+
+# e46764f3aff84f7fa505dca28f961cb6
+# 74f28075af4642879170deb2ad5a7839
+#: ../../THS.rst:1301
+#, fuzzy
+msgid "(|tap|: Add |mana_g|.)"
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
+
+# cf7ee521875a459c9352819ad80d2edc
+# 887ff143b14348b2b7b52aec3a556c81
+#~ msgid "Theros"
+#~ msgstr "Theros"
+
+# cfb833bd71d44ca49d327497505d409b
+# cb4ce2884b6b4874a7fbeaa290557f21
+#, fuzzy
+#~ msgid "Annul"
+#~ msgstr "Annul"
+
+# aa92155b6afb48699f474a48db8e2223
+# cf42d2af99c040c08c5a5f642a6e1377
+#, fuzzy
+#~ msgid "Gainsay"
+#~ msgstr "Gainsay"
+
+# 5120ed8308b14c92af2e8b2be18d28e0
+# 18c21cd3014a4a12b89d7f43df12e16c
+#~ msgid "Plains"
+#~ msgstr "Plains (Równina)"
+
+# f589cd5854184ca895a2fb1adbd00977
+# b8d7abda7071462f83147a1e66bc82e1
+#~ msgid "Island"
+#~ msgstr "Island (Wyspa)"
+
+# d9e219efb96a4c0dbe6b1c8176bbe3cb
+# 0aeb388d793c4641897098d021601161
+#~ msgid "Swamp"
+#~ msgstr "Swamp (Bagno)"
 
 # 4326f21c72364c55b32e2b301aa01d0c
 # f563b7c7ad2d4fcaa39c37cbe7b4ce61
-#: ../../THS.rst:1348 ../../THS.rst:1352 ../../THS.rst:1356 ../../THS.rst:1360
-msgid "Forest"
-msgstr "Forest (Las)"
+#~ msgid "Forest"
+#~ msgstr "Forest (Las)"
 
 # f3ce0e0e71c94de5afa027d7fea1fb44
 #~ msgid ""

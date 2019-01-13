@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/kld/pl/>\n"
@@ -21,11 +21,11 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../KLD.rst:5
-msgid "Kaladesh"
+msgid ":mtgexp:`KLD` Kaladesh"
 msgstr ""
 
 #: ../../KLD.rst:12
-msgid "Acrobatic Maneuver"
+msgid ":mtgtip:`Acrobatic Maneuver`"
 msgstr ""
 
 #: ../../KLD.rst:9
@@ -39,7 +39,7 @@ msgid "Draw a card."
 msgstr "Dobierz kartę."
 
 #: ../../KLD.rst:16
-msgid "Aerial Responder"
+msgid ":mtgtip:`Aerial Responder`"
 msgstr ""
 
 #: ../../KLD.rst:15 ../../KLD.rst:27
@@ -47,7 +47,7 @@ msgid "Flying, vigilance, lifelink"
 msgstr ""
 
 #: ../../KLD.rst:24
-msgid "Aetherstorm Roc"
+msgid ":mtgtip:`Aetherstorm Roc`"
 msgstr ""
 
 #: ../../KLD.rst:19 ../../KLD.rst:75 ../../KLD.rst:133 ../../KLD.rst:153
@@ -71,7 +71,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:32
-msgid "Angel of Invention"
+msgid ":mtgtip:`Angel of Invention`"
 msgstr ""
 
 #: ../../KLD.rst:29 ../../KLD.rst:181 ../../KLD.rst:565 ../../KLD.rst:799
@@ -86,7 +86,7 @@ msgid "Other creatures you control get +1/+1."
 msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
 #: ../../KLD.rst:38
-msgid "Authority of the Consuls"
+msgid ":mtgtip:`Authority of the Consuls`"
 msgstr ""
 
 #: ../../KLD.rst:35
@@ -101,7 +101,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:42
-msgid "Aviary Mechanic"
+msgid ":mtgtip:`Aviary Mechanic`"
 msgstr ""
 
 #: ../../KLD.rst:41
@@ -111,7 +111,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:46
-msgid "Built to Last"
+msgid ":mtgtip:`Built to Last`"
 msgstr ""
 
 #: ../../KLD.rst:45
@@ -122,7 +122,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:54
-msgid "Captured by the Consulate"
+msgid ":mtgtip:`Captured by the Consulate`"
 msgstr ""
 
 #: ../../KLD.rst:49
@@ -140,7 +140,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:60
-msgid "Cataclysmic Gearhulk"
+msgid ":mtgtip:`Cataclysmic Gearhulk`"
 msgstr ""
 
 #: ../../KLD.rst:57 ../../KLD.rst:175
@@ -155,7 +155,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:66
-msgid "Consulate Surveillance"
+msgid ":mtgtip:`Consulate Surveillance`"
 msgstr ""
 
 #: ../../KLD.rst:63
@@ -174,7 +174,7 @@ msgstr ""
 "tej turze."
 
 #: ../../KLD.rst:72
-msgid "Consul's Shieldguard"
+msgid ":mtgtip:`Consul's Shieldguard`"
 msgstr ""
 
 #: ../../KLD.rst:69
@@ -190,7 +190,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:80
-msgid "Eddytrail Hawk"
+msgid ":mtgtip:`Eddytrail Hawk`"
 msgstr ""
 
 #: ../../KLD.rst:77
@@ -206,7 +206,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:84
-msgid "Fairgrounds Warden"
+msgid ":mtgtip:`Fairgrounds Warden`"
 msgstr ""
 
 #: ../../KLD.rst:83
@@ -216,7 +216,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:88
-msgid "Fragmentize"
+msgid ":mtgtip:`Fragmentize`"
 msgstr ""
 
 #: ../../KLD.rst:87
@@ -225,7 +225,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:92
-msgid "Fumigate"
+msgid ":mtgtip:`Fumigate`"
 msgstr ""
 
 #: ../../KLD.rst:91
@@ -234,7 +234,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:98
-msgid "Gearshift Ace"
+msgid ":mtgtip:`Gearshift Ace`"
 msgstr ""
 
 #: ../../KLD.rst:95 ../../KLD.rst:605
@@ -248,7 +248,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:102
-msgid "Glint-Sleeve Artisan"
+msgid ":mtgtip:`Glint-Sleeve Artisan`"
 msgstr ""
 
 #: ../../KLD.rst:101 ../../KLD.rst:135 ../../KLD.rst:391 ../../KLD.rst:491
@@ -259,7 +259,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:106
-msgid "Herald of the Fair"
+msgid ":mtgtip:`Herald of the Fair`"
 msgstr ""
 
 #: ../../KLD.rst:105
@@ -269,7 +269,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:110
-msgid "Impeccable Timing"
+msgid ":mtgtip:`Impeccable Timing`"
 msgstr ""
 
 #: ../../KLD.rst:109
@@ -278,7 +278,8 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:114
-msgid "Inspired Charge"
+#, fuzzy
+msgid ":mtgtip:`Inspired Charge`"
 msgstr "Inspired Charge"
 
 #: ../../KLD.rst:113
@@ -286,7 +287,7 @@ msgid "Creatures you control get +2/+1 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../KLD.rst:120
-msgid "Master Trinketeer"
+msgid ":mtgtip:`Master Trinketeer`"
 msgstr ""
 
 #: ../../KLD.rst:117
@@ -299,7 +300,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:124
-msgid "Ninth Bridge Patrol"
+msgid ":mtgtip:`Ninth Bridge Patrol`"
 msgstr ""
 
 #: ../../KLD.rst:123
@@ -309,7 +310,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:130
-msgid "Pressure Point"
+msgid ":mtgtip:`Pressure Point`"
 msgstr ""
 
 #: ../../KLD.rst:127
@@ -317,11 +318,11 @@ msgid "Tap target creature."
 msgstr "Zaznacz wskazanego stwora."
 
 #: ../../KLD.rst:136
-msgid "Propeller Pioneer"
+msgid ":mtgtip:`Propeller Pioneer`"
 msgstr ""
 
 #: ../../KLD.rst:140
-msgid "Refurbish"
+msgid ":mtgtip:`Refurbish`"
 msgstr ""
 
 #: ../../KLD.rst:139
@@ -329,7 +330,7 @@ msgid "Return target artifact card from your graveyard to the battlefield."
 msgstr ""
 
 #: ../../KLD.rst:146
-msgid "Revoke Privileges"
+msgid ":mtgtip:`Revoke Privileges`"
 msgstr ""
 
 #: ../../KLD.rst:143 ../../KLD.rst:623
@@ -341,7 +342,7 @@ msgid "Enchanted creature can't attack, block, or crew Vehicles."
 msgstr ""
 
 #: ../../KLD.rst:150
-msgid "Servo Exhibition"
+msgid ":mtgtip:`Servo Exhibition`"
 msgstr ""
 
 #: ../../KLD.rst:149
@@ -349,11 +350,11 @@ msgid "Create two 1/1 colorless Servo artifact creature tokens."
 msgstr ""
 
 #: ../../KLD.rst:154
-msgid "Skyswirl Harrier"
+msgid ":mtgtip:`Skyswirl Harrier`"
 msgstr ""
 
 #: ../../KLD.rst:158
-msgid "Skywhaler's Shot"
+msgid ":mtgtip:`Skywhaler's Shot`"
 msgstr ""
 
 #: ../../KLD.rst:157
@@ -361,11 +362,11 @@ msgid "Destroy target creature with power 3 or greater. Scry 1."
 msgstr ""
 
 #: ../../KLD.rst:160
-msgid "Tasseled Dromedary"
+msgid ":mtgtip:`Tasseled Dromedary`"
 msgstr ""
 
 #: ../../KLD.rst:168
-msgid "Thriving Ibex"
+msgid ":mtgtip:`Thriving Ibex`"
 msgstr ""
 
 #: ../../KLD.rst:165
@@ -381,7 +382,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:172
-msgid "Toolcraft Exemplar"
+msgid ":mtgtip:`Toolcraft Exemplar`"
 msgstr ""
 
 #: ../../KLD.rst:171
@@ -392,7 +393,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:178
-msgid "Trusty Companion"
+msgid ":mtgtip:`Trusty Companion`"
 msgstr ""
 
 #: ../../KLD.rst:177
@@ -400,11 +401,11 @@ msgid "Trusty Companion can't attack alone."
 msgstr ""
 
 #: ../../KLD.rst:182
-msgid "Visionary Augmenter"
+msgid ":mtgtip:`Visionary Augmenter`"
 msgstr ""
 
 #: ../../KLD.rst:188
-msgid "Wispweaver Angel"
+msgid ":mtgtip:`Wispweaver Angel`"
 msgstr ""
 
 #: ../../KLD.rst:187
@@ -415,7 +416,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:198
-msgid "Aether Meltdown"
+msgid ":mtgtip:`Aether Meltdown`"
 msgstr ""
 
 #: ../../KLD.rst:191
@@ -437,7 +438,7 @@ msgid "Enchanted permanent gets -4/-0."
 msgstr ""
 
 #: ../../KLD.rst:204
-msgid "Aether Theorist"
+msgid ":mtgtip:`Aether Theorist`"
 msgstr ""
 
 #: ../../KLD.rst:201
@@ -453,7 +454,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:208
-msgid "Aether Tradewinds"
+msgid ":mtgtip:`Aether Tradewinds`"
 msgstr ""
 
 #: ../../KLD.rst:207
@@ -463,7 +464,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:216
-msgid "Aethersquall Ancient"
+msgid ":mtgtip:`Aethersquall Ancient`"
 msgstr ""
 
 #: ../../KLD.rst:213
@@ -478,7 +479,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:220
-msgid "Ceremonious Rejection"
+msgid ":mtgtip:`Ceremonious Rejection`"
 msgstr ""
 
 #: ../../KLD.rst:219
@@ -486,7 +487,7 @@ msgid "Counter target colorless spell."
 msgstr ""
 
 #: ../../KLD.rst:224
-msgid "Confiscation Coup"
+msgid ":mtgtip:`Confiscation Coup`"
 msgstr ""
 
 #: ../../KLD.rst:223
@@ -497,11 +498,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:226
-msgid "Curio Vendor"
+msgid ":mtgtip:`Curio Vendor`"
 msgstr ""
 
 #: ../../KLD.rst:234
-msgid "Disappearing Act"
+msgid ":mtgtip:`Disappearing Act`"
 msgstr ""
 
 #: ../../KLD.rst:231
@@ -515,7 +516,7 @@ msgid "Counter target spell."
 msgstr "Skontruj wskazany czar."
 
 #: ../../KLD.rst:238
-msgid "Dramatic Reversal"
+msgid ":mtgtip:`Dramatic Reversal`"
 msgstr ""
 
 #: ../../KLD.rst:237
@@ -523,7 +524,7 @@ msgid "Untap all nonland permanents you control."
 msgstr ""
 
 #: ../../KLD.rst:244
-msgid "Era of Innovation"
+msgid ":mtgtip:`Era of Innovation`"
 msgstr ""
 
 #: ../../KLD.rst:241
@@ -537,7 +538,7 @@ msgid "Pay {E}{E}{E}{E}{E}{E}, Sacrifice Era of Innovation: Draw three cards."
 msgstr ""
 
 #: ../../KLD.rst:250
-msgid "Experimental Aviator"
+msgid ":mtgtip:`Experimental Aviator`"
 msgstr ""
 
 #: ../../KLD.rst:249
@@ -547,7 +548,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:254
-msgid "Failed Inspection"
+msgid ":mtgtip:`Failed Inspection`"
 msgstr ""
 
 #: ../../KLD.rst:253
@@ -555,7 +556,7 @@ msgid "Counter target spell. Draw a card, then discard a card."
 msgstr ""
 
 #: ../../KLD.rst:260
-msgid "Gearseeker Serpent"
+msgid ":mtgtip:`Gearseeker Serpent`"
 msgstr ""
 
 #: ../../KLD.rst:257
@@ -570,7 +571,7 @@ msgstr ""
 "turze blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../KLD.rst:264
-msgid "Glimmer of Genius"
+msgid ":mtgtip:`Glimmer of Genius`"
 msgstr ""
 
 #: ../../KLD.rst:263
@@ -578,7 +579,7 @@ msgid "Scry 2, then draw two cards. You get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:270
-msgid "Glint-Nest Crane"
+msgid ":mtgtip:`Glint-Nest Crane`"
 msgstr ""
 
 #: ../../KLD.rst:269
@@ -589,7 +590,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:278
-msgid "Hightide Hermit"
+msgid ":mtgtip:`Hightide Hermit`"
 msgstr ""
 
 #: ../../KLD.rst:273 ../../KLD.rst:1081
@@ -609,7 +610,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:288
-msgid "Insidious Will"
+msgid ":mtgtip:`Insidious Will`"
 msgstr ""
 
 #: ../../KLD.rst:281 ../../KLD.rst:899 ../../KLD.rst:965
@@ -627,7 +628,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:294
-msgid "Janjeet Sentry"
+msgid ":mtgtip:`Janjeet Sentry`"
 msgstr ""
 
 #: ../../KLD.rst:291
@@ -641,7 +642,7 @@ msgid "|tap|, Pay {E}{E}: You may tap or untap target artifact or creature."
 msgstr ""
 
 #: ../../KLD.rst:300
-msgid "Long-Finned Skywhale"
+msgid ":mtgtip:`Long-Finned Skywhale`"
 msgstr ""
 
 #: ../../KLD.rst:299
@@ -649,7 +650,7 @@ msgid "Long-Finned Skywhale can block only creatures with flying."
 msgstr ""
 
 #: ../../KLD.rst:308
-msgid "Malfunction"
+msgid ":mtgtip:`Malfunction`"
 msgstr ""
 
 #: ../../KLD.rst:303
@@ -665,7 +666,7 @@ msgid "Enchanted permanent doesn't untap during its controller's untap step."
 msgstr ""
 
 #: ../../KLD.rst:314
-msgid "Metallurgic Summonings"
+msgid ":mtgtip:`Metallurgic Summonings`"
 msgstr ""
 
 #: ../../KLD.rst:311
@@ -683,7 +684,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:320
-msgid "Minister of Inquiries"
+msgid ":mtgtip:`Minister of Inquiries`"
 msgstr ""
 
 #: ../../KLD.rst:317
@@ -699,7 +700,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:324
-msgid "Nimble Innovator"
+msgid ":mtgtip:`Nimble Innovator`"
 msgstr ""
 
 #: ../../KLD.rst:323
@@ -707,7 +708,7 @@ msgid "When Nimble Innovator enters the battlefield, draw a card."
 msgstr ""
 
 #: ../../KLD.rst:330
-msgid "Padeem, Consul of Innovation"
+msgid ":mtgtip:`Padeem, Consul of Innovation`"
 msgstr ""
 
 #: ../../KLD.rst:327
@@ -722,7 +723,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:334
-msgid "Paradoxical Outcome"
+msgid ":mtgtip:`Paradoxical Outcome`"
 msgstr ""
 
 #: ../../KLD.rst:333
@@ -733,7 +734,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:338
-msgid "Revolutionary Rebuff"
+msgid ":mtgtip:`Revolutionary Rebuff`"
 msgstr ""
 
 #: ../../KLD.rst:337
@@ -741,7 +742,7 @@ msgid "Counter target nonartifact spell unless its controller pays |mana_2|."
 msgstr ""
 
 #: ../../KLD.rst:346
-msgid "Saheeli's Artistry"
+msgid ":mtgtip:`Saheeli's Artistry`"
 msgstr ""
 
 #: ../../KLD.rst:341 ../../KLD.rst:437 ../../KLD.rst:537
@@ -759,7 +760,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:350
-msgid "Select for Inspection"
+msgid ":mtgtip:`Select for Inspection`"
 msgstr ""
 
 #: ../../KLD.rst:349
@@ -769,7 +770,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:354
-msgid "Shrewd Negotiation"
+msgid ":mtgtip:`Shrewd Negotiation`"
 msgstr ""
 
 #: ../../KLD.rst:353
@@ -779,7 +780,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:358
-msgid "Tezzeret's Ambition"
+msgid ":mtgtip:`Tezzeret's Ambition`"
 msgstr ""
 
 #: ../../KLD.rst:357
@@ -787,7 +788,7 @@ msgid "Draw three cards. If you control no artifacts, discard a card."
 msgstr ""
 
 #: ../../KLD.rst:364
-msgid "Thriving Turtle"
+msgid ":mtgtip:`Thriving Turtle`"
 msgstr ""
 
 #: ../../KLD.rst:361
@@ -803,7 +804,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:370
-msgid "Torrential Gearhulk"
+msgid ":mtgtip:`Torrential Gearhulk`"
 msgstr ""
 
 #: ../../KLD.rst:367
@@ -818,7 +819,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:374
-msgid "Vedalken Blademaster"
+msgid ":mtgtip:`Vedalken Blademaster`"
 msgstr ""
 
 #: ../../KLD.rst:373
@@ -830,7 +831,7 @@ msgstr ""
 "do końca tury.)"
 
 #: ../../KLD.rst:378
-msgid "Weldfast Wingsmith"
+msgid ":mtgtip:`Weldfast Wingsmith`"
 msgstr ""
 
 #: ../../KLD.rst:377
@@ -840,11 +841,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:382
-msgid "Wind Drake"
+msgid ":mtgtip:`Wind Drake`"
 msgstr ""
 
 #: ../../KLD.rst:388
-msgid "Aetherborn Marauder"
+msgid ":mtgtip:`Aetherborn Marauder`"
 msgstr ""
 
 #: ../../KLD.rst:385
@@ -858,11 +859,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:392
-msgid "Ambitious Aetherborn"
+msgid ":mtgtip:`Ambitious Aetherborn`"
 msgstr ""
 
 #: ../../KLD.rst:402
-msgid "Demon of Dark Schemes"
+msgid ":mtgtip:`Demon of Dark Schemes`"
 msgstr ""
 
 #: ../../KLD.rst:397
@@ -882,7 +883,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:406
-msgid "Dhund Operative"
+msgid ":mtgtip:`Dhund Operative`"
 msgstr ""
 
 #: ../../KLD.rst:405
@@ -893,7 +894,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:410
-msgid "Diabolic Tutor"
+msgid ":mtgtip:`Diabolic Tutor`"
 msgstr ""
 
 #: ../../KLD.rst:409
@@ -903,7 +904,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:414
-msgid "Die Young"
+msgid ":mtgtip:`Die Young`"
 msgstr ""
 
 #: ../../KLD.rst:413
@@ -914,7 +915,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:418
-msgid "Dukhara Scavenger"
+msgid ":mtgtip:`Dukhara Scavenger`"
 msgstr ""
 
 #: ../../KLD.rst:417
@@ -924,7 +925,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:424
-msgid "Eliminate the Competition"
+msgid ":mtgtip:`Eliminate the Competition`"
 msgstr ""
 
 #: ../../KLD.rst:421
@@ -936,7 +937,7 @@ msgid "Destroy X target creatures."
 msgstr ""
 
 #: ../../KLD.rst:430
-msgid "Embraal Bruiser"
+msgid ":mtgtip:`Embraal Bruiser`"
 msgstr ""
 
 #: ../../KLD.rst:427
@@ -948,7 +949,7 @@ msgid "Embraal Bruiser has menace as long as you control an artifact."
 msgstr ""
 
 #: ../../KLD.rst:434
-msgid "Essence Extraction"
+msgid ":mtgtip:`Essence Extraction`"
 msgstr ""
 
 #: ../../KLD.rst:433
@@ -957,7 +958,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:442
-msgid "Fortuitous Find"
+msgid ":mtgtip:`Fortuitous Find`"
 msgstr ""
 
 #: ../../KLD.rst:439
@@ -971,7 +972,7 @@ msgstr ""
 "twojego cmentarza do twojej ręki."
 
 #: ../../KLD.rst:448
-msgid "Foundry Screecher"
+msgid ":mtgtip:`Foundry Screecher`"
 msgstr ""
 
 #: ../../KLD.rst:447
@@ -979,7 +980,7 @@ msgid "Foundry Screecher gets +1/+0 as long as you control an artifact."
 msgstr ""
 
 #: ../../KLD.rst:454
-msgid "Fretwork Colony"
+msgid ":mtgtip:`Fretwork Colony`"
 msgstr ""
 
 #: ../../KLD.rst:451
@@ -993,7 +994,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:460
-msgid "Gonti, Lord of Luxury"
+msgid ":mtgtip:`Gonti, Lord of Luxury`"
 msgstr ""
 
 #: ../../KLD.rst:457
@@ -1010,7 +1011,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:464
-msgid "Harsh Scrutiny"
+msgid ":mtgtip:`Harsh Scrutiny`"
 msgstr ""
 
 #: ../../KLD.rst:463
@@ -1020,7 +1021,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:468
-msgid "Lawless Broker"
+msgid ":mtgtip:`Lawless Broker`"
 msgstr ""
 
 #: ../../KLD.rst:467
@@ -1029,7 +1030,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:472
-msgid "Live Fast"
+msgid ":mtgtip:`Live Fast`"
 msgstr ""
 
 #: ../../KLD.rst:471
@@ -1037,7 +1038,7 @@ msgid "You draw two cards, lose 2 life, and get {E}{E} (two energy counters)."
 msgstr ""
 
 #: ../../KLD.rst:476
-msgid "Lost Legacy"
+msgid ":mtgtip:`Lost Legacy`"
 msgstr ""
 
 #: ../../KLD.rst:475
@@ -1049,7 +1050,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:480
-msgid "Make Obsolete"
+msgid ":mtgtip:`Make Obsolete`"
 msgstr ""
 
 #: ../../KLD.rst:479
@@ -1057,7 +1058,7 @@ msgid "Creatures your opponents control get -1/-1 until end of turn."
 msgstr ""
 
 #: ../../KLD.rst:486
-msgid "Marionette Master"
+msgid ":mtgtip:`Marionette Master`"
 msgstr ""
 
 #: ../../KLD.rst:483
@@ -1073,7 +1074,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:492
-msgid "Maulfist Squad"
+msgid ":mtgtip:`Maulfist Squad`"
 msgstr ""
 
 #: ../../KLD.rst:489 ../../KLD.rst:519 ../../KLD.rst:745 ../../KLD.rst:1041
@@ -1081,7 +1082,7 @@ msgid "Menace"
 msgstr "Złowrogość"
 
 #: ../../KLD.rst:502
-msgid "Midnight Oil"
+msgid ":mtgtip:`Midnight Oil`"
 msgstr ""
 
 #: ../../KLD.rst:495
@@ -1105,7 +1106,8 @@ msgid "Whenever you discard a card, you lose 1 life."
 msgstr ""
 
 #: ../../KLD.rst:506
-msgid "Mind Rot"
+#, fuzzy
+msgid ":mtgtip:`Mind Rot`"
 msgstr "Mind Rot"
 
 #: ../../KLD.rst:505
@@ -1113,7 +1115,7 @@ msgid "Target player discards two cards."
 msgstr "Wskazany gracz odrzuca dwie karty."
 
 #: ../../KLD.rst:512
-msgid "Morbid Curiosity"
+msgid ":mtgtip:`Morbid Curiosity`"
 msgstr ""
 
 #: ../../KLD.rst:509
@@ -1127,7 +1129,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:516
-msgid "Night Market Lookout"
+msgid ":mtgtip:`Night Market Lookout`"
 msgstr ""
 
 #: ../../KLD.rst:515
@@ -1137,7 +1139,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:522
-msgid "Noxious Gearhulk"
+msgid ":mtgtip:`Noxious Gearhulk`"
 msgstr ""
 
 #: ../../KLD.rst:521
@@ -1148,7 +1150,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:526
-msgid "Ovalchase Daredevil"
+msgid ":mtgtip:`Ovalchase Daredevil`"
 msgstr ""
 
 #: ../../KLD.rst:525
@@ -1158,11 +1160,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:528
-msgid "Prakhata Club Security"
+msgid ":mtgtip:`Prakhata Club Security`"
 msgstr ""
 
 #: ../../KLD.rst:534
-msgid "Rush of Vitality"
+msgid ":mtgtip:`Rush of Vitality`"
 msgstr ""
 
 #: ../../KLD.rst:533
@@ -1174,7 +1176,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:542
-msgid "Subtle Strike"
+msgid ":mtgtip:`Subtle Strike`"
 msgstr ""
 
 #: ../../KLD.rst:539
@@ -1188,7 +1190,7 @@ msgstr ""
 "{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
 
 #: ../../KLD.rst:546
-msgid "Syndicate Trafficker"
+msgid ":mtgtip:`Syndicate Trafficker`"
 msgstr ""
 
 #: ../../KLD.rst:545
@@ -1198,7 +1200,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:552
-msgid "Thriving Rats"
+msgid ":mtgtip:`Thriving Rats`"
 msgstr ""
 
 #: ../../KLD.rst:549
@@ -1214,7 +1216,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:556
-msgid "Tidy Conclusion"
+msgid ":mtgtip:`Tidy Conclusion`"
 msgstr ""
 
 #: ../../KLD.rst:555
@@ -1222,7 +1224,7 @@ msgid "Destroy target creature. You gain 1 life for each artifact you control."
 msgstr ""
 
 #: ../../KLD.rst:562
-msgid "Underhanded Designs"
+msgid ":mtgtip:`Underhanded Designs`"
 msgstr ""
 
 #: ../../KLD.rst:559
@@ -1238,11 +1240,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:566
-msgid "Weaponcraft Enthusiast"
+msgid ":mtgtip:`Weaponcraft Enthusiast`"
 msgstr ""
 
 #: ../../KLD.rst:574
-msgid "Aethertorch Renegade"
+msgid ":mtgtip:`Aethertorch Renegade`"
 msgstr ""
 
 #: ../../KLD.rst:569
@@ -1263,7 +1265,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:578
-msgid "Brazen Scourge"
+msgid ":mtgtip:`Brazen Scourge`"
 msgstr ""
 
 #: ../../KLD.rst:577 ../../KLD.rst:647 ../../KLD.rst:709 ../../KLD.rst:1063
@@ -1272,7 +1274,7 @@ msgid "Haste"
 msgstr "Pośpiech"
 
 #: ../../KLD.rst:582
-msgid "Built to Smash"
+msgid ":mtgtip:`Built to Smash`"
 msgstr ""
 
 #: ../../KLD.rst:581
@@ -1282,7 +1284,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:588
-msgid "Cathartic Reunion"
+msgid ":mtgtip:`Cathartic Reunion`"
 msgstr ""
 
 #: ../../KLD.rst:585
@@ -1294,7 +1296,7 @@ msgid "Draw three cards."
 msgstr "Dobierz trzy karty."
 
 #: ../../KLD.rst:598
-msgid "Chandra, Torch of Defiance"
+msgid ":mtgtip:`Chandra, Torch of Defiance`"
 msgstr ""
 
 #: ../../KLD.rst:591
@@ -1319,7 +1321,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:602
-msgid "Chandra's Pyrohelix"
+msgid ":mtgtip:`Chandra's Pyrohelix`"
 msgstr ""
 
 #: ../../KLD.rst:601
@@ -1329,7 +1331,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:608
-msgid "Combustible Gearhulk"
+msgid ":mtgtip:`Combustible Gearhulk`"
 msgstr ""
 
 #: ../../KLD.rst:607
@@ -1341,7 +1343,8 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:612
-msgid "Demolish"
+#, fuzzy
+msgid ":mtgtip:`Demolish`"
 msgstr "Demolish (Wyburzenie)"
 
 #: ../../KLD.rst:611
@@ -1349,7 +1352,7 @@ msgid "Destroy target artifact or land."
 msgstr "Zniszcz wskazany artefakt lub ląd."
 
 #: ../../KLD.rst:616
-msgid "Fateful Showdown"
+msgid ":mtgtip:`Fateful Showdown`"
 msgstr ""
 
 #: ../../KLD.rst:615
@@ -1359,7 +1362,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:620
-msgid "Furious Reprisal"
+msgid ":mtgtip:`Furious Reprisal`"
 msgstr ""
 
 #: ../../KLD.rst:619
@@ -1367,7 +1370,7 @@ msgid "Furious Reprisal deals 2 damage to each of two targets."
 msgstr ""
 
 #: ../../KLD.rst:626
-msgid "Giant Spectacle"
+msgid ":mtgtip:`Giant Spectacle`"
 msgstr ""
 
 #: ../../KLD.rst:625
@@ -1375,7 +1378,7 @@ msgid "Enchanted creature gets +2/+1 and has menace."
 msgstr ""
 
 #: ../../KLD.rst:630
-msgid "Harnessed Lightning"
+msgid ":mtgtip:`Harnessed Lightning`"
 msgstr ""
 
 #: ../../KLD.rst:629
@@ -1386,8 +1389,8 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:634
-msgid "Hijack"
-msgstr "Hijack"
+msgid ":mtgtip:`Hijack`"
+msgstr ""
 
 #: ../../KLD.rst:633
 msgid ""
@@ -1398,7 +1401,7 @@ msgstr ""
 "Odkręć go. Zyskuje on pośpiech do końca tury."
 
 #: ../../KLD.rst:640
-msgid "Incendiary Sabotage"
+msgid ":mtgtip:`Incendiary Sabotage`"
 msgstr ""
 
 #: ../../KLD.rst:637
@@ -1410,7 +1413,7 @@ msgid "Incendiary Sabotage deals 3 damage to each creature."
 msgstr ""
 
 #: ../../KLD.rst:644
-msgid "Inventor's Apprentice"
+msgid ":mtgtip:`Inventor's Apprentice`"
 msgstr ""
 
 #: ../../KLD.rst:643
@@ -1418,7 +1421,7 @@ msgid "Inventor's Apprentice gets +1/+1 as long as you control an artifact."
 msgstr ""
 
 #: ../../KLD.rst:652
-msgid "Lathnu Hellion"
+msgid ":mtgtip:`Lathnu Hellion`"
 msgstr ""
 
 #: ../../KLD.rst:649
@@ -1434,7 +1437,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:656
-msgid "Madcap Experiment"
+msgid ":mtgtip:`Madcap Experiment`"
 msgstr ""
 
 #: ../../KLD.rst:655
@@ -1446,7 +1449,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:662
-msgid "Maulfist Doorbuster"
+msgid ":mtgtip:`Maulfist Doorbuster`"
 msgstr ""
 
 #: ../../KLD.rst:659
@@ -1462,7 +1465,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:670
-msgid "Pia Nalaar"
+msgid ":mtgtip:`Pia Nalaar`"
 msgstr ""
 
 #: ../../KLD.rst:665
@@ -1484,7 +1487,7 @@ msgid "|mana_1|, Sacrifice an artifact: Target creature can't block this turn."
 msgstr ""
 
 #: ../../KLD.rst:674
-msgid "Quicksmith Genius"
+msgid ":mtgtip:`Quicksmith Genius`"
 msgstr ""
 
 #: ../../KLD.rst:673
@@ -1494,7 +1497,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:678
-msgid "Reckless Fireweaver"
+msgid ":mtgtip:`Reckless Fireweaver`"
 msgstr ""
 
 #: ../../KLD.rst:677
@@ -1504,7 +1507,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:684
-msgid "Renegade Tactics"
+msgid ":mtgtip:`Renegade Tactics`"
 msgstr ""
 
 #: ../../KLD.rst:681
@@ -1512,7 +1515,7 @@ msgid "Target creature can't block this turn."
 msgstr ""
 
 #: ../../KLD.rst:688
-msgid "Ruinous Gremlin"
+msgid ":mtgtip:`Ruinous Gremlin`"
 msgstr ""
 
 #: ../../KLD.rst:687
@@ -1521,7 +1524,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:692
-msgid "Salivating Gremlins"
+msgid ":mtgtip:`Salivating Gremlins`"
 msgstr ""
 
 #: ../../KLD.rst:691
@@ -1531,7 +1534,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:702
-msgid "Skyship Stalker"
+msgid ":mtgtip:`Skyship Stalker`"
 msgstr ""
 
 #: ../../KLD.rst:697
@@ -1547,7 +1550,7 @@ msgid "|mana_r|: Skyship Stalker gains haste until end of turn."
 msgstr ""
 
 #: ../../KLD.rst:706
-msgid "Spark of Creativity"
+msgid ":mtgtip:`Spark of Creativity`"
 msgstr ""
 
 #: ../../KLD.rst:705
@@ -1558,7 +1561,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:712
-msgid "Speedway Fanatic"
+msgid ":mtgtip:`Speedway Fanatic`"
 msgstr ""
 
 #: ../../KLD.rst:711
@@ -1568,7 +1571,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:716
-msgid "Spireside Infiltrator"
+msgid ":mtgtip:`Spireside Infiltrator`"
 msgstr ""
 
 #: ../../KLD.rst:715
@@ -1578,7 +1581,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:722
-msgid "Spontaneous Artist"
+msgid ":mtgtip:`Spontaneous Artist`"
 msgstr ""
 
 #: ../../KLD.rst:719
@@ -1592,7 +1595,7 @@ msgid "Pay {E}: Target creature gains haste until end of turn."
 msgstr ""
 
 #: ../../KLD.rst:726
-msgid "Start Your Engines"
+msgid ":mtgtip:`Start Your Engines`"
 msgstr ""
 
 #: ../../KLD.rst:725
@@ -1602,7 +1605,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:732
-msgid "Territorial Gorger"
+msgid ":mtgtip:`Territorial Gorger`"
 msgstr ""
 
 #: ../../KLD.rst:729 ../../KLD.rst:757 ../../KLD.rst:875 ../../KLD.rst:881
@@ -1617,11 +1620,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:734
-msgid "Terror of the Fairgrounds"
+msgid ":mtgtip:`Terror of the Fairgrounds`"
 msgstr ""
 
 #: ../../KLD.rst:742
-msgid "Thriving Grubs"
+msgid ":mtgtip:`Thriving Grubs`"
 msgstr ""
 
 #: ../../KLD.rst:739
@@ -1637,11 +1640,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:746
-msgid "Wayward Giant"
+msgid ":mtgtip:`Wayward Giant`"
 msgstr ""
 
 #: ../../KLD.rst:750
-msgid "Welding Sparks"
+msgid ":mtgtip:`Welding Sparks`"
 msgstr ""
 
 #: ../../KLD.rst:749
@@ -1651,7 +1654,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:754
-msgid "Appetite for the Unnatural"
+msgid ":mtgtip:`Appetite for the Unnatural`"
 msgstr ""
 
 #: ../../KLD.rst:753
@@ -1659,7 +1662,7 @@ msgid "Destroy target artifact or enchantment. You gain 2 life."
 msgstr ""
 
 #: ../../KLD.rst:760
-msgid "Arborback Stomper"
+msgid ":mtgtip:`Arborback Stomper`"
 msgstr ""
 
 #: ../../KLD.rst:759
@@ -1667,7 +1670,7 @@ msgid "When Arborback Stomper enters the battlefield, you gain 5 life."
 msgstr ""
 
 #: ../../KLD.rst:766
-msgid "Architect of the Untamed"
+msgid ":mtgtip:`Architect of the Untamed`"
 msgstr ""
 
 #: ../../KLD.rst:763
@@ -1683,7 +1686,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:770
-msgid "Armorcraft Judge"
+msgid ":mtgtip:`Armorcraft Judge`"
 msgstr ""
 
 #: ../../KLD.rst:769
@@ -1693,7 +1696,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:774
-msgid "Attune with Aether"
+msgid ":mtgtip:`Attune with Aether`"
 msgstr ""
 
 #: ../../KLD.rst:773
@@ -1703,7 +1706,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:778
-msgid "Blossoming Defense"
+msgid ":mtgtip:`Blossoming Defense`"
 msgstr ""
 
 #: ../../KLD.rst:777
@@ -1712,7 +1715,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:784
-msgid "Bristling Hydra"
+msgid ":mtgtip:`Bristling Hydra`"
 msgstr ""
 
 #: ../../KLD.rst:781
@@ -1728,7 +1731,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:788
-msgid "Commencement of Festivities"
+msgid ":mtgtip:`Commencement of Festivities`"
 msgstr ""
 
 #: ../../KLD.rst:787
@@ -1738,11 +1741,11 @@ msgstr ""
 "tej turze."
 
 #: ../../KLD.rst:790
-msgid "Cowl Prowler"
+msgid ":mtgtip:`Cowl Prowler`"
 msgstr ""
 
 #: ../../KLD.rst:796
-msgid "Creeping Mold"
+msgid ":mtgtip:`Creeping Mold`"
 msgstr ""
 
 #: ../../KLD.rst:795
@@ -1750,7 +1753,7 @@ msgid "Destroy target artifact, enchantment, or land."
 msgstr ""
 
 #: ../../KLD.rst:802
-msgid "Cultivator of Blades"
+msgid ":mtgtip:`Cultivator of Blades`"
 msgstr ""
 
 #: ../../KLD.rst:801
@@ -1761,7 +1764,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:806
-msgid "Dubious Challenge"
+msgid ":mtgtip:`Dubious Challenge`"
 msgstr ""
 
 #: ../../KLD.rst:805
@@ -1773,7 +1776,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:812
-msgid "Durable Handicraft"
+msgid ":mtgtip:`Durable Handicraft`"
 msgstr ""
 
 #: ../../KLD.rst:809
@@ -1789,7 +1792,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:818
-msgid "Elegant Edgecrafters"
+msgid ":mtgtip:`Elegant Edgecrafters`"
 msgstr ""
 
 #: ../../KLD.rst:815
@@ -1798,7 +1801,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:822
-msgid "Fairgrounds Trumpeter"
+msgid ":mtgtip:`Fairgrounds Trumpeter`"
 msgstr ""
 
 #: ../../KLD.rst:821
@@ -1808,7 +1811,8 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:826
-msgid "Ghirapur Guide"
+#, fuzzy
+msgid ":mtgtip:`Ghirapur Guide`"
 msgstr "Ghirapur Guide"
 
 #: ../../KLD.rst:825
@@ -1820,15 +1824,16 @@ msgstr ""
 "turze blokowany przez stwory o sile 2 lub mniejszej."
 
 #: ../../KLD.rst:832
-msgid "Highspire Artisan"
+msgid ":mtgtip:`Highspire Artisan`"
 msgstr ""
 
-#: ../../KLD.rst:829 ../../KLD.rst:1083 ../../KLD.rst:1457
+#: ../../KLD.rst:829 ../../KLD.rst:1083 ../../KLD.rst:1417
 msgid "Reach (This creature can block creatures with flying.)"
 msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../KLD.rst:836
-msgid "Hunt the Weak"
+#, fuzzy
+msgid ":mtgtip:`Hunt the Weak`"
 msgstr "Hunt the Weak"
 
 #: ../../KLD.rst:835
@@ -1842,7 +1847,7 @@ msgstr ""
 "nawzajem obrażenia równe ich sile.)"
 
 #: ../../KLD.rst:840
-msgid "Kujar Seedsculptor"
+msgid ":mtgtip:`Kujar Seedsculptor`"
 msgstr ""
 
 #: ../../KLD.rst:839
@@ -1852,7 +1857,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:844
-msgid "Larger Than Life"
+msgid ":mtgtip:`Larger Than Life`"
 msgstr ""
 
 #: ../../KLD.rst:843
@@ -1860,7 +1865,7 @@ msgid "Target creature gets +4/+4 and gains trample until end of turn."
 msgstr ""
 
 #: ../../KLD.rst:850
-msgid "Longtusk Cub"
+msgid ":mtgtip:`Longtusk Cub`"
 msgstr ""
 
 #: ../../KLD.rst:847
@@ -1876,7 +1881,7 @@ msgstr ""
 "{1}{G}, {T}: Wybierz jedno — Umieść znacznik +1/+1 na wskazanym stworze"
 
 #: ../../KLD.rst:854
-msgid "Nature's Way"
+msgid ":mtgtip:`Nature's Way`"
 msgstr ""
 
 #: ../../KLD.rst:853
@@ -1886,7 +1891,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:862
-msgid "Nissa, Vital Force"
+msgid ":mtgtip:`Nissa, Vital Force`"
 msgstr ""
 
 #: ../../KLD.rst:857
@@ -1906,7 +1911,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:866
-msgid "Ornamental Courage"
+msgid ":mtgtip:`Ornamental Courage`"
 msgstr ""
 
 #: ../../KLD.rst:865
@@ -1914,7 +1919,7 @@ msgid "Untap target creature. It gets +1/+3 until end of turn."
 msgstr ""
 
 #: ../../KLD.rst:872
-msgid "Oviya Pashiri, Sage Lifecrafter"
+msgid ":mtgtip:`Oviya Pashiri, Sage Lifecrafter`"
 msgstr ""
 
 #: ../../KLD.rst:869
@@ -1930,11 +1935,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:878
-msgid "Peema Outrider"
+msgid ":mtgtip:`Peema Outrider`"
 msgstr ""
 
 #: ../../KLD.rst:886
-msgid "Riparian Tiger"
+msgid ":mtgtip:`Riparian Tiger`"
 msgstr ""
 
 #: ../../KLD.rst:883
@@ -1950,7 +1955,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:890
-msgid "Sage of Shaila's Claim"
+msgid ":mtgtip:`Sage of Shaila's Claim`"
 msgstr ""
 
 #: ../../KLD.rst:889
@@ -1960,7 +1965,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:896
-msgid "Servant of the Conduit"
+msgid ":mtgtip:`Servant of the Conduit`"
 msgstr ""
 
 #: ../../KLD.rst:893
@@ -1974,7 +1979,7 @@ msgid "|tap|, Pay {E}: Add one mana of any color."
 msgstr ""
 
 #: ../../KLD.rst:904
-msgid "Take Down"
+msgid ":mtgtip:`Take Down`"
 msgstr ""
 
 #: ../../KLD.rst:901
@@ -1986,7 +1991,7 @@ msgid "Take Down deals 1 damage to each creature with flying."
 msgstr ""
 
 #: ../../KLD.rst:910
-msgid "Thriving Rhino"
+msgid ":mtgtip:`Thriving Rhino`"
 msgstr ""
 
 #: ../../KLD.rst:907
@@ -2002,7 +2007,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:916
-msgid "Verdurous Gearhulk"
+msgid ":mtgtip:`Verdurous Gearhulk`"
 msgstr ""
 
 #: ../../KLD.rst:915
@@ -2012,7 +2017,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:920
-msgid "Wild Wanderer"
+msgid ":mtgtip:`Wild Wanderer`"
 msgstr ""
 
 #: ../../KLD.rst:919
@@ -2023,7 +2028,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:924
-msgid "Wildest Dreams"
+msgid ":mtgtip:`Wildest Dreams`"
 msgstr ""
 
 #: ../../KLD.rst:923
@@ -2032,7 +2037,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:928
-msgid "Wily Bandar"
+msgid ":mtgtip:`Wily Bandar`"
 msgstr ""
 
 #: ../../KLD.rst:927
@@ -2042,7 +2047,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:934
-msgid "Cloudblazer"
+msgid ":mtgtip:`Cloudblazer`"
 msgstr ""
 
 #: ../../KLD.rst:933
@@ -2051,7 +2056,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:940
-msgid "Contraband Kingpin"
+msgid ":mtgtip:`Contraband Kingpin`"
 msgstr ""
 
 #: ../../KLD.rst:937
@@ -2063,7 +2068,7 @@ msgid "Whenever an artifact enters the battlefield under your control, scry 1."
 msgstr ""
 
 #: ../../KLD.rst:948
-msgid "Depala, Pilot Exemplar"
+msgid ":mtgtip:`Depala, Pilot Exemplar`"
 msgstr ""
 
 #: ../../KLD.rst:943
@@ -2083,7 +2088,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:956
-msgid "Dovin Baan"
+msgid ":mtgtip:`Dovin Baan`"
 msgstr ""
 
 #: ../../KLD.rst:951
@@ -2103,7 +2108,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:962
-msgid "Empyreal Voyager"
+msgid ":mtgtip:`Empyreal Voyager`"
 msgstr ""
 
 #: ../../KLD.rst:959
@@ -2117,7 +2122,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:970
-msgid "Engineered Might"
+msgid ":mtgtip:`Engineered Might`"
 msgstr ""
 
 #: ../../KLD.rst:967
@@ -2129,7 +2134,7 @@ msgid "Creatures you control get +2/+2 and gain vigilance until end of turn."
 msgstr ""
 
 #: ../../KLD.rst:974
-msgid "Hazardous Conditions"
+msgid ":mtgtip:`Hazardous Conditions`"
 msgstr ""
 
 #: ../../KLD.rst:973
@@ -2137,7 +2142,7 @@ msgid "Creatures with no counters on them get -2/-2 until end of turn."
 msgstr ""
 
 #: ../../KLD.rst:978
-msgid "Kambal, Consul of Allocation"
+msgid ":mtgtip:`Kambal, Consul of Allocation`"
 msgstr ""
 
 #: ../../KLD.rst:977
@@ -2147,7 +2152,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:982
-msgid "Rashmi, Eternities Crafter"
+msgid ":mtgtip:`Rashmi, Eternities Crafter`"
 msgstr ""
 
 #: ../../KLD.rst:981
@@ -2159,7 +2164,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:986
-msgid "Restoration Gearsmith"
+msgid ":mtgtip:`Restoration Gearsmith`"
 msgstr ""
 
 #: ../../KLD.rst:985
@@ -2169,7 +2174,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:994
-msgid "Saheeli Rai"
+msgid ":mtgtip:`Saheeli Rai`"
 msgstr ""
 
 #: ../../KLD.rst:989
@@ -2190,7 +2195,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:998
-msgid "Unlicensed Disintegration"
+msgid ":mtgtip:`Unlicensed Disintegration`"
 msgstr ""
 
 #: ../../KLD.rst:997
@@ -2200,7 +2205,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1004
-msgid "Veteran Motorist"
+msgid ":mtgtip:`Veteran Motorist`"
 msgstr ""
 
 #: ../../KLD.rst:1001
@@ -2214,7 +2219,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1010
-msgid "Voltaic Brawler"
+msgid ":mtgtip:`Voltaic Brawler`"
 msgstr ""
 
 #: ../../KLD.rst:1007
@@ -2230,7 +2235,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1016
-msgid "Whirler Virtuoso"
+msgid ":mtgtip:`Whirler Virtuoso`"
 msgstr ""
 
 #: ../../KLD.rst:1013
@@ -2246,11 +2251,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1020
-msgid "Accomplished Automaton"
+msgid ":mtgtip:`Accomplished Automaton`"
 msgstr ""
 
 #: ../../KLD.rst:1026
-msgid "Aetherflux Reservoir"
+msgid ":mtgtip:`Aetherflux Reservoir`"
 msgstr ""
 
 #: ../../KLD.rst:1023
@@ -2264,7 +2269,7 @@ msgid "Pay 50 life: Aetherflux Reservoir deals 50 damage to any target."
 msgstr ""
 
 #: ../../KLD.rst:1032
-msgid "Aetherworks Marvel"
+msgid ":mtgtip:`Aetherworks Marvel`"
 msgstr ""
 
 #: ../../KLD.rst:1029
@@ -2281,7 +2286,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1038
-msgid "Animation Module"
+msgid ":mtgtip:`Animation Module`"
 msgstr ""
 
 #: ../../KLD.rst:1035
@@ -2298,7 +2303,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1044
-msgid "Aradara Express"
+msgid ":mtgtip:`Aradara Express`"
 msgstr ""
 
 #: ../../KLD.rst:1043
@@ -2310,7 +2315,7 @@ msgstr ""
 "co najmniej 4: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1050
-msgid "Ballista Charger"
+msgid ":mtgtip:`Ballista Charger`"
 msgstr ""
 
 #: ../../KLD.rst:1047
@@ -2326,7 +2331,7 @@ msgstr ""
 "co najmniej 3: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1054
-msgid "Bastion Mastodon"
+msgid ":mtgtip:`Bastion Mastodon`"
 msgstr ""
 
 #: ../../KLD.rst:1053
@@ -2334,7 +2339,7 @@ msgid "|mana_w|: Bastion Mastodon gains vigilance until end of turn."
 msgstr ""
 
 #: ../../KLD.rst:1060
-msgid "Bomat Bazaar Barge"
+msgid ":mtgtip:`Bomat Bazaar Barge`"
 msgstr ""
 
 #: ../../KLD.rst:1057
@@ -2342,7 +2347,7 @@ msgid "When Bomat Bazaar Barge enters the battlefield, draw a card."
 msgstr ""
 
 #: ../../KLD.rst:1068
-msgid "Bomat Courier"
+msgid ":mtgtip:`Bomat Courier`"
 msgstr ""
 
 #: ../../KLD.rst:1065
@@ -2358,7 +2363,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1072
-msgid "Chief of the Foundry"
+msgid ":mtgtip:`Chief of the Foundry`"
 msgstr ""
 
 #: ../../KLD.rst:1071
@@ -2366,7 +2371,7 @@ msgid "Other artifact creatures you control get +1/+1."
 msgstr ""
 
 #: ../../KLD.rst:1078
-msgid "Cogworker's Puzzleknot"
+msgid ":mtgtip:`Cogworker's Puzzleknot`"
 msgstr ""
 
 #: ../../KLD.rst:1075
@@ -2382,11 +2387,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1084
-msgid "Consulate Skygate"
+msgid ":mtgtip:`Consulate Skygate`"
 msgstr ""
 
 #: ../../KLD.rst:1090
-msgid "Cultivator's Caravan"
+msgid ":mtgtip:`Cultivator's Caravan`"
 msgstr ""
 
 #: ../../KLD.rst:1087
@@ -2394,7 +2399,7 @@ msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../KLD.rst:1098
-msgid "Deadlock Trap"
+msgid ":mtgtip:`Deadlock Trap`"
 msgstr ""
 
 #: ../../KLD.rst:1093
@@ -2414,7 +2419,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1104
-msgid "Decoction Module"
+msgid ":mtgtip:`Decoction Module`"
 msgstr ""
 
 #: ../../KLD.rst:1101
@@ -2429,7 +2434,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1110
-msgid "Demolition Stomper"
+msgid ":mtgtip:`Demolition Stomper`"
 msgstr ""
 
 #: ../../KLD.rst:1107
@@ -2445,7 +2450,7 @@ msgstr ""
 "co najmniej 5: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1114
-msgid "Dukhara Peafowl"
+msgid ":mtgtip:`Dukhara Peafowl`"
 msgstr ""
 
 #: ../../KLD.rst:1113
@@ -2453,7 +2458,7 @@ msgid "|mana_u|: Dukhara Peafowl gains flying until end of turn."
 msgstr ""
 
 #: ../../KLD.rst:1120
-msgid "Dynavolt Tower"
+msgid ":mtgtip:`Dynavolt Tower`"
 msgstr ""
 
 #: ../../KLD.rst:1117
@@ -2468,7 +2473,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1124
-msgid "Eager Construct"
+msgid ":mtgtip:`Eager Construct`"
 msgstr ""
 
 #: ../../KLD.rst:1123
@@ -2479,7 +2484,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1130
-msgid "Electrostatic Pummeler"
+msgid ":mtgtip:`Electrostatic Pummeler`"
 msgstr ""
 
 #: ../../KLD.rst:1127
@@ -2495,7 +2500,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1136
-msgid "Fabrication Module"
+msgid ":mtgtip:`Fabrication Module`"
 msgstr ""
 
 #: ../../KLD.rst:1133
@@ -2509,7 +2514,7 @@ msgid "|mana_4|, |tap|: You get {E}."
 msgstr ""
 
 #: ../../KLD.rst:1142
-msgid "Filigree Familiar"
+msgid ":mtgtip:`Filigree Familiar`"
 msgstr ""
 
 #: ../../KLD.rst:1139
@@ -2521,7 +2526,7 @@ msgid "When Filigree Familiar dies, draw a card."
 msgstr ""
 
 #: ../../KLD.rst:1148
-msgid "Fireforger's Puzzleknot"
+msgid ":mtgtip:`Fireforger's Puzzleknot`"
 msgstr ""
 
 #: ../../KLD.rst:1145
@@ -2537,7 +2542,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1156
-msgid "Fleetwheel Cruiser"
+msgid ":mtgtip:`Fleetwheel Cruiser`"
 msgstr ""
 
 #: ../../KLD.rst:1151 ../../KLD.rst:1219
@@ -2559,7 +2564,7 @@ msgstr ""
 "co najmniej 2: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1160
-msgid "Foundry Inspector"
+msgid ":mtgtip:`Foundry Inspector`"
 msgstr ""
 
 #: ../../KLD.rst:1159
@@ -2567,7 +2572,7 @@ msgid "Artifact spells you cast cost |mana_1| less to cast."
 msgstr ""
 
 #: ../../KLD.rst:1166
-msgid "Ghirapur Orrery"
+msgid ":mtgtip:`Ghirapur Orrery`"
 msgstr ""
 
 #: ../../KLD.rst:1163
@@ -2581,7 +2586,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1172
-msgid "Glassblower's Puzzleknot"
+msgid ":mtgtip:`Glassblower's Puzzleknot`"
 msgstr ""
 
 #: ../../KLD.rst:1169
@@ -2599,7 +2604,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1180
-msgid "Inventor's Goggles"
+msgid ":mtgtip:`Inventor's Goggles`"
 msgstr ""
 
 #: ../../KLD.rst:1175
@@ -2621,11 +2626,11 @@ msgstr ""
 "Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../KLD.rst:1186
-msgid "Iron League Steed"
+msgid ":mtgtip:`Iron League Steed`"
 msgstr ""
 
 #: ../../KLD.rst:1192
-msgid "Key to the City"
+msgid ":mtgtip:`Key to the City`"
 msgstr ""
 
 #: ../../KLD.rst:1189
@@ -2640,7 +2645,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1198
-msgid "Metalspinner's Puzzleknot"
+msgid ":mtgtip:`Metalspinner's Puzzleknot`"
 msgstr ""
 
 #: ../../KLD.rst:1195
@@ -2656,7 +2661,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1204
-msgid "Metalwork Colossus"
+msgid ":mtgtip:`Metalwork Colossus`"
 msgstr ""
 
 #: ../../KLD.rst:1201
@@ -2672,7 +2677,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1212
-msgid "Multiform Wonder"
+msgid ":mtgtip:`Multiform Wonder`"
 msgstr ""
 
 #: ../../KLD.rst:1207
@@ -2692,7 +2697,7 @@ msgid "Pay {E}: Multiform Wonder gets +2/-2 or -2/+2 until end of turn."
 msgstr ""
 
 #: ../../KLD.rst:1216
-msgid "Narnam Cobra"
+msgid ":mtgtip:`Narnam Cobra`"
 msgstr ""
 
 #: ../../KLD.rst:1215
@@ -2702,7 +2707,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1222
-msgid "Ovalchase Dragster"
+msgid ":mtgtip:`Ovalchase Dragster`"
 msgstr ""
 
 #: ../../KLD.rst:1221 ../../KLD.rst:1263 ../../KLD.rst:1279
@@ -2714,7 +2719,7 @@ msgstr ""
 "co najmniej 1: Ten Pojazd staje się artefaktycznym stworem do końca tury.)"
 
 #: ../../KLD.rst:1226
-msgid "Panharmonicon"
+msgid ":mtgtip:`Panharmonicon`"
 msgstr ""
 
 #: ../../KLD.rst:1225
@@ -2725,7 +2730,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1232
-msgid "Perpetual Timepiece"
+msgid ":mtgtip:`Perpetual Timepiece`"
 msgstr ""
 
 #: ../../KLD.rst:1229
@@ -2739,7 +2744,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1236
-msgid "Prakhata Pillar-Bug"
+msgid ":mtgtip:`Prakhata Pillar-Bug`"
 msgstr ""
 
 #: ../../KLD.rst:1235
@@ -2750,7 +2755,7 @@ msgstr ""
 
 #: ../../KLD.rst:1242
 #, fuzzy
-msgid "Prophetic Prism"
+msgid ":mtgtip:`Prophetic Prism`"
 msgstr "Prophetic Prism"
 
 #: ../../KLD.rst:1239
@@ -2762,7 +2767,7 @@ msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
 #: ../../KLD.rst:1248
-msgid "Renegade Freighter"
+msgid ":mtgtip:`Renegade Freighter`"
 msgstr ""
 
 #: ../../KLD.rst:1245
@@ -2772,7 +2777,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1254
-msgid "Scrapheap Scrounger"
+msgid ":mtgtip:`Scrapheap Scrounger`"
 msgstr ""
 
 #: ../../KLD.rst:1251
@@ -2786,7 +2791,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1258
-msgid "Self-Assembler"
+msgid ":mtgtip:`Self-Assembler`"
 msgstr ""
 
 #: ../../KLD.rst:1257
@@ -2797,11 +2802,11 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1264
-msgid "Sky Skiff"
+msgid ":mtgtip:`Sky Skiff`"
 msgstr ""
 
 #: ../../KLD.rst:1272
-msgid "Skysovereign, Consul Flagship"
+msgid ":mtgtip:`Skysovereign, Consul Flagship`"
 msgstr ""
 
 #: ../../KLD.rst:1269
@@ -2811,7 +2816,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1280
-msgid "Smuggler's Copter"
+msgid ":mtgtip:`Smuggler's Copter`"
 msgstr ""
 
 #: ../../KLD.rst:1277
@@ -2821,7 +2826,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1284
-msgid "Snare Thopter"
+msgid ":mtgtip:`Snare Thopter`"
 msgstr ""
 
 #: ../../KLD.rst:1283
@@ -2829,7 +2834,7 @@ msgid "Flying, haste"
 msgstr "Latanie, pośpiech"
 
 #: ../../KLD.rst:1290
-msgid "Torch Gauntlet"
+msgid ":mtgtip:`Torch Gauntlet`"
 msgstr ""
 
 #: ../../KLD.rst:1287
@@ -2837,7 +2842,7 @@ msgid "Equipped creature gets +2/+0."
 msgstr "Wyposażony stwór dostaje +2/+0."
 
 #: ../../KLD.rst:1294
-msgid "Weldfast Monitor"
+msgid ":mtgtip:`Weldfast Monitor`"
 msgstr ""
 
 #: ../../KLD.rst:1293
@@ -2845,7 +2850,7 @@ msgid "|mana_r|: Weldfast Monitor gains menace until end of turn."
 msgstr ""
 
 #: ../../KLD.rst:1298
-msgid "Whirlermaker"
+msgid ":mtgtip:`Whirlermaker`"
 msgstr ""
 
 #: ../../KLD.rst:1297
@@ -2855,7 +2860,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1304
-msgid "Woodweaver's Puzzleknot"
+msgid ":mtgtip:`Woodweaver's Puzzleknot`"
 msgstr ""
 
 #: ../../KLD.rst:1301
@@ -2871,7 +2876,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1308
-msgid "Workshop Assistant"
+msgid ":mtgtip:`Workshop Assistant`"
 msgstr ""
 
 #: ../../KLD.rst:1307
@@ -2881,7 +2886,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1316
-msgid "Aether Hub"
+msgid ":mtgtip:`Aether Hub`"
 msgstr ""
 
 #: ../../KLD.rst:1311
@@ -2894,7 +2899,7 @@ msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../KLD.rst:1322
-msgid "Blooming Marsh"
+msgid ":mtgtip:`Blooming Marsh`"
 msgstr ""
 
 #: ../../KLD.rst:1319
@@ -2908,7 +2913,7 @@ msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
 #: ../../KLD.rst:1328
-msgid "Botanical Sanctum"
+msgid ":mtgtip:`Botanical Sanctum`"
 msgstr ""
 
 #: ../../KLD.rst:1325
@@ -2917,12 +2922,12 @@ msgid ""
 "fewer other lands."
 msgstr ""
 
-#: ../../KLD.rst:1327 ../../KLD.rst:1473
+#: ../../KLD.rst:1327 ../../KLD.rst:1433
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../KLD.rst:1334
-msgid "Concealed Courtyard"
+msgid ":mtgtip:`Concealed Courtyard`"
 msgstr ""
 
 #: ../../KLD.rst:1331
@@ -2936,7 +2941,7 @@ msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../KLD.rst:1340
-msgid "Inspiring Vantage"
+msgid ":mtgtip:`Inspiring Vantage`"
 msgstr ""
 
 #: ../../KLD.rst:1337
@@ -2945,12 +2950,12 @@ msgid ""
 "fewer other lands."
 msgstr ""
 
-#: ../../KLD.rst:1339 ../../KLD.rst:1445
+#: ../../KLD.rst:1339 ../../KLD.rst:1405
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../KLD.rst:1348
-msgid "Inventors' Fair"
+msgid ":mtgtip:`Inventors' Fair`"
 msgstr ""
 
 #: ../../KLD.rst:1343
@@ -2967,7 +2972,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1354
-msgid "Sequestered Stash"
+msgid ":mtgtip:`Sequestered Stash`"
 msgstr ""
 
 #: ../../KLD.rst:1353
@@ -2978,7 +2983,7 @@ msgid ""
 msgstr ""
 
 #: ../../KLD.rst:1360
-msgid "Spirebluff Canal"
+msgid ":mtgtip:`Spirebluff Canal`"
 msgstr ""
 
 #: ../../KLD.rst:1357
@@ -2991,130 +2996,173 @@ msgstr ""
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
-#: ../../KLD.rst:1362 ../../KLD.rst:1366 ../../KLD.rst:1370
-msgid "Plains"
-msgstr "Plains (Równina)"
-
-#: ../../KLD.rst:1374 ../../KLD.rst:1378 ../../KLD.rst:1382
-msgid "Island"
-msgstr "Island (Wyspa)"
-
-#: ../../KLD.rst:1386 ../../KLD.rst:1390 ../../KLD.rst:1394
-msgid "Swamp"
-msgstr "Swamp (Bagno)"
-
-#: ../../KLD.rst:1398 ../../KLD.rst:1402 ../../KLD.rst:1406
-msgid "Mountain"
-msgstr "Mountain (Góra)"
-
-#: ../../KLD.rst:1410 ../../KLD.rst:1414 ../../KLD.rst:1418
-msgid "Forest"
-msgstr "Forest (Las)"
-
-#: ../../KLD.rst:1428
-msgid "Chandra, Pyrogenius"
+#: ../../KLD.rst:1364
+msgid ":mtgtip:`Plains`"
 msgstr ""
 
-#: ../../KLD.rst:1423
+#: ../../KLD.rst:1363
+#, fuzzy
+msgid "(|tap|: Add |mana_w|.)"
+msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+
+#: ../../KLD.rst:1368
+msgid ":mtgtip:`Island`"
+msgstr ""
+
+#: ../../KLD.rst:1367
+#, fuzzy
+msgid "(|tap|: Add |mana_u|.)"
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+
+#: ../../KLD.rst:1372
+msgid ":mtgtip:`Swamp`"
+msgstr ""
+
+#: ../../KLD.rst:1371
+#, fuzzy
+msgid "(|tap|: Add |mana_b|.)"
+msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+
+#: ../../KLD.rst:1376
+#, fuzzy
+msgid ":mtgtip:`Mountain`"
+msgstr "Mountain (Góra)"
+
+#: ../../KLD.rst:1375
+#, fuzzy
+msgid "(|tap|: Add |mana_r|.)"
+msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+
+#: ../../KLD.rst:1380
+msgid ":mtgtip:`Forest`"
+msgstr ""
+
+#: ../../KLD.rst:1379
+#, fuzzy
+msgid "(|tap|: Add |mana_g|.)"
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+
+#: ../../KLD.rst:1388
+msgid ":mtgtip:`Chandra, Pyrogenius`"
+msgstr ""
+
+#: ../../KLD.rst:1383
 msgid "+2: Chandra, Pyrogenius deals 2 damage to each opponent."
 msgstr ""
 
-#: ../../KLD.rst:1425
+#: ../../KLD.rst:1385
 msgid "−3: Chandra, Pyrogenius deals 4 damage to target creature."
 msgstr ""
 
-#: ../../KLD.rst:1427
+#: ../../KLD.rst:1387
 msgid ""
 "−10: Chandra, Pyrogenius deals 6 damage to target player or planeswalker and "
 "each creature that player or that planeswalker's controller controls."
 msgstr ""
 
-#: ../../KLD.rst:1432
-msgid "Flame Lash"
+#: ../../KLD.rst:1392
+msgid ":mtgtip:`Flame Lash`"
 msgstr ""
 
-#: ../../KLD.rst:1431
+#: ../../KLD.rst:1391
 msgid "Flame Lash deals 4 damage to any target."
 msgstr ""
 
-#: ../../KLD.rst:1436
-msgid "Liberating Combustion"
+#: ../../KLD.rst:1396
+msgid ":mtgtip:`Liberating Combustion`"
 msgstr ""
 
-#: ../../KLD.rst:1435
+#: ../../KLD.rst:1395
 msgid ""
 "Liberating Combustion deals 6 damage to target creature. You may search your "
 "library and/or graveyard for a card named Chandra, Pyrogenius, reveal it, "
 "and put it into your hand. If you search your library this way, shuffle it."
 msgstr ""
 
-#: ../../KLD.rst:1440
-msgid "Renegade Firebrand"
+#: ../../KLD.rst:1400
+msgid ":mtgtip:`Renegade Firebrand`"
 msgstr ""
 
-#: ../../KLD.rst:1439
+#: ../../KLD.rst:1399
 msgid ""
 "As long as you control a Chandra planeswalker, Renegade Firebrand gets +1/+0 "
 "and has first strike. (It deals combat damage before creatures without first "
 "strike.)"
 msgstr ""
 
-#: ../../KLD.rst:1446
-msgid "Stone Quarry"
+#: ../../KLD.rst:1406
+#, fuzzy
+msgid ":mtgtip:`Stone Quarry`"
 msgstr "Stone Quarry (Kamieniołom)"
 
-#: ../../KLD.rst:1443
+#: ../../KLD.rst:1403
 msgid "Stone Quarry enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
-#: ../../KLD.rst:1454
-msgid "Nissa, Nature's Artisan"
+#: ../../KLD.rst:1414
+msgid ":mtgtip:`Nissa, Nature's Artisan`"
 msgstr ""
 
-#: ../../KLD.rst:1449
+#: ../../KLD.rst:1409
 msgid "+3: You gain 3 life."
 msgstr ""
 
-#: ../../KLD.rst:1451
+#: ../../KLD.rst:1411
 msgid ""
 "−4: Reveal the top two cards of your library. Put all land cards from among "
 "them onto the battlefield and the rest into your hand."
 msgstr ""
 
-#: ../../KLD.rst:1453
+#: ../../KLD.rst:1413
 msgid ""
 "−12: Creatures you control get +5/+5 and gain trample until end of turn."
 msgstr ""
 
-#: ../../KLD.rst:1460
-msgid "Guardian of the Great Conduit"
+#: ../../KLD.rst:1420
+msgid ":mtgtip:`Guardian of the Great Conduit`"
 msgstr ""
 
-#: ../../KLD.rst:1459
+#: ../../KLD.rst:1419
 msgid ""
 "As long as you control a Nissa planeswalker, Guardian of the Great Conduit "
 "gets +2/+0 and has vigilance. (Attacking doesn't cause it to tap.)"
 msgstr ""
 
-#: ../../KLD.rst:1462
-msgid "Terrain Elemental"
+#: ../../KLD.rst:1422
+msgid ":mtgtip:`Terrain Elemental`"
 msgstr ""
 
-#: ../../KLD.rst:1468
-msgid "Verdant Crescendo"
+#: ../../KLD.rst:1428
+msgid ":mtgtip:`Verdant Crescendo`"
 msgstr ""
 
-#: ../../KLD.rst:1467
+#: ../../KLD.rst:1427
 msgid ""
 "Search your library for a basic land card and put it onto the battlefield "
 "tapped. Search your library and graveyard for a card named Nissa, Nature's "
 "Artisan, reveal it, and put it into your hand. Then shuffle your library."
 msgstr ""
 
-#: ../../KLD.rst:1473
-msgid "Woodland Stream"
+#: ../../KLD.rst:1433
+#, fuzzy
+msgid ":mtgtip:`Woodland Stream`"
 msgstr "Woodland Stream (Leśny Strumień)"
 
-#: ../../KLD.rst:1471
+#: ../../KLD.rst:1431
 msgid "Woodland Stream enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
+
+#~ msgid "Hijack"
+#~ msgstr "Hijack"
+
+#~ msgid "Plains"
+#~ msgstr "Plains (Równina)"
+
+#~ msgid "Island"
+#~ msgstr "Island (Wyspa)"
+
+#~ msgid "Swamp"
+#~ msgstr "Swamp (Bagno)"
+
+#~ msgid "Forest"
+#~ msgstr "Forest (Las)"
