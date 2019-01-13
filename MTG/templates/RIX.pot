@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-13 13:23+0100\n"
+"POT-Creation-Date: 2019-01-13 21:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid ":mtgexp:`RIX` Rivals of Ixalan"
 msgstr ""
 
 #: ../../RIX.rst:12
-msgid ":mtgtip:`Baffling End`"
+msgid ":mtgtip:`Baffling End<https://img.scryfall.com/cards/border_crop/en/rix/1.jpg?1524750014|https://scryfall.com/card/rix/1/baffling-end?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:9
@@ -33,7 +33,7 @@ msgid "When Baffling End leaves the battlefield, target opponent creates a 3/3 g
 msgstr ""
 
 #: ../../RIX.rst:18
-msgid ":mtgtip:`Bishop of Binding`"
+msgid ":mtgtip:`Bishop of Binding<https://img.scryfall.com/cards/border_crop/en/rix/2.jpg?1524750026|https://scryfall.com/card/rix/2/bishop-of-binding?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:15
@@ -45,7 +45,7 @@ msgid "Whenever Bishop of Binding attacks, target Vampire gets +X/+X until end o
 msgstr ""
 
 #: ../../RIX.rst:22
-msgid ":mtgtip:`Blazing Hope`"
+msgid ":mtgtip:`Blazing Hope<https://img.scryfall.com/cards/border_crop/en/rix/3.jpg?1524750045|https://scryfall.com/card/rix/3/blazing-hope?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:21
@@ -53,7 +53,7 @@ msgid "Exile target creature with power greater than or equal to your life total
 msgstr ""
 
 #: ../../RIX.rst:30
-msgid ":mtgtip:`Cleansing Ray`"
+msgid ":mtgtip:`Cleansing Ray<https://img.scryfall.com/cards/border_crop/en/rix/4.jpg?1524750064|https://scryfall.com/card/rix/4/cleansing-ray?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:25
@@ -71,7 +71,7 @@ msgid "Destroy target enchantment."
 msgstr ""
 
 #: ../../RIX.rst:34
-msgid ":mtgtip:`Divine Verdict`"
+msgid ":mtgtip:`Divine Verdict<https://img.scryfall.com/cards/border_crop/en/rix/5.jpg?1524750079|https://scryfall.com/card/rix/5/divine-verdict?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:33
@@ -79,7 +79,7 @@ msgid "Destroy target attacking or blocking creature."
 msgstr ""
 
 #: ../../RIX.rst:38
-msgid ":mtgtip:`Everdawn Champion`"
+msgid ":mtgtip:`Everdawn Champion<https://img.scryfall.com/cards/border_crop/en/rix/6.jpg?1524750089|https://scryfall.com/card/rix/6/everdawn-champion?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:37
@@ -87,7 +87,7 @@ msgid "Prevent all combat damage that would be dealt to Everdawn Champion."
 msgstr ""
 
 #: ../../RIX.rst:42
-msgid ":mtgtip:`Exultant Skymarcher`"
+msgid ":mtgtip:`Exultant Skymarcher<https://img.scryfall.com/cards/border_crop/en/rix/7.jpg?1524750098|https://scryfall.com/card/rix/7/exultant-skymarcher?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:41
@@ -107,7 +107,7 @@ msgid "Flying"
 msgstr ""
 
 #: ../../RIX.rst:48
-msgid ":mtgtip:`Famished Paladin`"
+msgid ":mtgtip:`Famished Paladin<https://img.scryfall.com/cards/border_crop/en/rix/8.jpg?1524750108|https://scryfall.com/card/rix/8/famished-paladin?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:45
@@ -119,7 +119,7 @@ msgid "Whenever you gain life, untap Famished Paladin."
 msgstr ""
 
 #: ../../RIX.rst:54
-msgid ":mtgtip:`Forerunner of the Legion`"
+msgid ":mtgtip:`Forerunner of the Legion<https://img.scryfall.com/cards/border_crop/en/rix/9.jpg?1524750124|https://scryfall.com/card/rix/9/forerunner-of-the-legion?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:51
@@ -131,7 +131,7 @@ msgid "Whenever another Vampire enters the battlefield under your control, targe
 msgstr ""
 
 #: ../../RIX.rst:58
-msgid ":mtgtip:`Imperial Ceratops`"
+msgid ":mtgtip:`Imperial Ceratops<https://img.scryfall.com/cards/border_crop/en/rix/10.jpg?1524750138|https://scryfall.com/card/rix/10/imperial-ceratops?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:57
@@ -139,7 +139,7 @@ msgid "Enrage — Whenever Imperial Ceratops is dealt damage, you gain 2 life."
 msgstr ""
 
 #: ../../RIX.rst:62
-msgid ":mtgtip:`Legion Conquistador`"
+msgid ":mtgtip:`Legion Conquistador<https://img.scryfall.com/cards/border_crop/en/rix/11.jpg?1524750149|https://scryfall.com/card/rix/11/legion-conquistador?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:61
@@ -147,7 +147,7 @@ msgid "When Legion Conquistador enters the battlefield, you may search your libr
 msgstr ""
 
 #: ../../RIX.rst:68
-msgid ":mtgtip:`Luminous Bonds`"
+msgid ":mtgtip:`Luminous Bonds<https://img.scryfall.com/cards/border_crop/en/rix/12.jpg?1524750165|https://scryfall.com/card/rix/12/luminous-bonds?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:65
@@ -165,7 +165,7 @@ msgid "Enchanted creature can't attack or block."
 msgstr ""
 
 #: ../../RIX.rst:74
-msgid ":mtgtip:`Majestic Heliopterus`"
+msgid ":mtgtip:`Majestic Heliopterus<https://img.scryfall.com/cards/border_crop/en/rix/13.jpg?1524750180|https://scryfall.com/card/rix/13/majestic-heliopterus?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:73
@@ -173,7 +173,7 @@ msgid "Whenever Majestic Heliopterus attacks, another target Dinosaur you contro
 msgstr ""
 
 #: ../../RIX.rst:78
-msgid ":mtgtip:`Martyr of Dusk`"
+msgid ":mtgtip:`Martyr of Dusk<https://img.scryfall.com/cards/border_crop/en/rix/14.jpg?1524750195|https://scryfall.com/card/rix/14/martyr-of-dusk?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:77
@@ -181,7 +181,7 @@ msgid "When Martyr of Dusk dies, create a 1/1 white Vampire creature token with 
 msgstr ""
 
 #: ../../RIX.rst:82
-msgid ":mtgtip:`Moment of Triumph`"
+msgid ":mtgtip:`Moment of Triumph<https://img.scryfall.com/cards/border_crop/en/rix/15.jpg?1524750207|https://scryfall.com/card/rix/15/moment-of-triumph?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:81
@@ -189,7 +189,7 @@ msgid "Target creature gets +2/+2 until end of turn. You gain 2 life."
 msgstr ""
 
 #: ../../RIX.rst:88
-msgid ":mtgtip:`Paladin of Atonement`"
+msgid ":mtgtip:`Paladin of Atonement<https://img.scryfall.com/cards/border_crop/en/rix/16.jpg?1524750226|https://scryfall.com/card/rix/16/paladin-of-atonement?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:85
@@ -201,7 +201,7 @@ msgid "When Paladin of Atonement dies, you gain life equal to its toughness."
 msgstr ""
 
 #: ../../RIX.rst:94
-msgid ":mtgtip:`Pride of Conquerors`"
+msgid ":mtgtip:`Pride of Conquerors<https://img.scryfall.com/cards/border_crop/en/rix/17.jpg?1524750237|https://scryfall.com/card/rix/17/pride-of-conquerors?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:91
@@ -235,7 +235,7 @@ msgid "Creatures you control get +1/+1 until end of turn. If you have the city's
 msgstr ""
 
 #: ../../RIX.rst:102
-msgid ":mtgtip:`Radiant Destiny`"
+msgid ":mtgtip:`Radiant Destiny<https://img.scryfall.com/cards/border_crop/en/rix/18.jpg?1524750252|https://scryfall.com/card/rix/18/radiant-destiny?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:99
@@ -247,11 +247,11 @@ msgid "Creatures you control of the chosen type get +1/+1. As long as you have t
 msgstr ""
 
 #: ../../RIX.rst:104
-msgid ":mtgtip:`Raptor Companion`"
+msgid ":mtgtip:`Raptor Companion<https://img.scryfall.com/cards/border_crop/en/rix/19.jpg?1524750263|https://scryfall.com/card/rix/19/raptor-companion?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:110
-msgid ":mtgtip:`Sanguine Glorifier`"
+msgid ":mtgtip:`Sanguine Glorifier<https://img.scryfall.com/cards/border_crop/en/rix/20.jpg?1524750275|https://scryfall.com/card/rix/20/sanguine-glorifier?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:109
@@ -259,7 +259,7 @@ msgid "When Sanguine Glorifier enters the battlefield, put a +1/+1 counter on an
 msgstr ""
 
 #: ../../RIX.rst:116
-msgid ":mtgtip:`Skymarcher Aspirant`"
+msgid ":mtgtip:`Skymarcher Aspirant<https://img.scryfall.com/cards/border_crop/en/rix/21.jpg?1524750287|https://scryfall.com/card/rix/21/skymarcher-aspirant?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:115
@@ -267,7 +267,7 @@ msgid "Skymarcher Aspirant has flying as long as you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:120
-msgid ":mtgtip:`Slaughter the Strong`"
+msgid ":mtgtip:`Slaughter the Strong<https://img.scryfall.com/cards/border_crop/en/rix/22.jpg?1524750303|https://scryfall.com/card/rix/22/slaughter-the-strong?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:119
@@ -275,7 +275,7 @@ msgid "Each player chooses any number of creatures they control with total power
 msgstr ""
 
 #: ../../RIX.rst:126
-msgid ":mtgtip:`Snubhorn Sentry`"
+msgid ":mtgtip:`Snubhorn Sentry<https://img.scryfall.com/cards/border_crop/en/rix/23.jpg?1524750315|https://scryfall.com/card/rix/23/snubhorn-sentry?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:125
@@ -283,7 +283,7 @@ msgid "Snubhorn Sentry gets +3/+0 as long as you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:130
-msgid ":mtgtip:`Sphinx's Decree`"
+msgid ":mtgtip:`Sphinx's Decree<https://img.scryfall.com/cards/border_crop/en/rix/24.jpg?1524750327|https://scryfall.com/card/rix/24/sphinxs-decree?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:129
@@ -291,7 +291,7 @@ msgid "Each opponent can't cast instant or sorcery spells during that player's n
 msgstr ""
 
 #: ../../RIX.rst:138
-msgid ":mtgtip:`Squire's Devotion`"
+msgid ":mtgtip:`Squire's Devotion<https://img.scryfall.com/cards/border_crop/en/rix/25.jpg?1524750343|https://scryfall.com/card/rix/25/squires-devotion?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:135
@@ -303,7 +303,7 @@ msgid "When Squire's Devotion enters the battlefield, create a 1/1 white Vampire
 msgstr ""
 
 #: ../../RIX.rst:142
-msgid ":mtgtip:`Sun Sentinel`"
+msgid ":mtgtip:`Sun Sentinel<https://img.scryfall.com/cards/border_crop/en/rix/26.jpg?1524750358|https://scryfall.com/card/rix/26/sun-sentinel?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:141
@@ -311,7 +311,7 @@ msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
 msgstr ""
 
 #: ../../RIX.rst:148
-msgid ":mtgtip:`Sun-Crested Pterodon`"
+msgid ":mtgtip:`Sun-Crested Pterodon<https://img.scryfall.com/cards/border_crop/en/rix/27.jpg?1524750372|https://scryfall.com/card/rix/27/sun-crested-pterodon?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:147
@@ -319,7 +319,7 @@ msgid "Sun-Crested Pterodon has vigilance as long as you control another Dinosau
 msgstr ""
 
 #: ../../RIX.rst:152
-msgid ":mtgtip:`Temple Altisaur`"
+msgid ":mtgtip:`Temple Altisaur<https://img.scryfall.com/cards/border_crop/en/rix/28.jpg?1524750389|https://scryfall.com/card/rix/28/temple-altisaur?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:151
@@ -327,7 +327,7 @@ msgid "If a source would deal damage to another Dinosaur you control, prevent al
 msgstr ""
 
 #: ../../RIX.rst:156
-msgid ":mtgtip:`Trapjaw Tyrant`"
+msgid ":mtgtip:`Trapjaw Tyrant<https://img.scryfall.com/cards/border_crop/en/rix/29.jpg?1524750403|https://scryfall.com/card/rix/29/trapjaw-tyrant?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:155
@@ -335,7 +335,7 @@ msgid "Enrage — Whenever Trapjaw Tyrant is dealt damage, exile target creature
 msgstr ""
 
 #: ../../RIX.rst:160
-msgid ":mtgtip:`Zetalpa, Primal Dawn`"
+msgid ":mtgtip:`Zetalpa, Primal Dawn<https://img.scryfall.com/cards/border_crop/en/rix/30.jpg?1524750417|https://scryfall.com/card/rix/30/zetalpa-primal-dawn?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:159
@@ -343,7 +343,7 @@ msgid "Flying, double strike, vigilance, trample, indestructible"
 msgstr ""
 
 #: ../../RIX.rst:166
-msgid ":mtgtip:`Admiral's Order`"
+msgid ":mtgtip:`Admiral's Order<https://img.scryfall.com/cards/border_crop/en/rix/31.jpg?1524750430|https://scryfall.com/card/rix/31/admirals-order?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:163
@@ -355,7 +355,7 @@ msgid "Counter target spell."
 msgstr ""
 
 #: ../../RIX.rst:172
-msgid ":mtgtip:`Aquatic Incursion`"
+msgid ":mtgtip:`Aquatic Incursion<https://img.scryfall.com/cards/border_crop/en/rix/32.jpg?1524750439|https://scryfall.com/card/rix/32/aquatic-incursion?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:169
@@ -367,7 +367,7 @@ msgid "|mana_3|\\ |mana_u|: Target Merfolk can't be blocked this turn."
 msgstr ""
 
 #: ../../RIX.rst:178
-msgid ":mtgtip:`Crafty Cutpurse`"
+msgid ":mtgtip:`Crafty Cutpurse<https://img.scryfall.com/cards/border_crop/en/rix/33.jpg?1524750454|https://scryfall.com/card/rix/33/crafty-cutpurse?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:175
@@ -382,7 +382,7 @@ msgid "When Crafty Cutpurse enters the battlefield, each token that would be cre
 msgstr ""
 
 #: ../../RIX.rst:186
-msgid ":mtgtip:`Crashing Tide`"
+msgid ":mtgtip:`Crashing Tide<https://img.scryfall.com/cards/border_crop/en/rix/34.jpg?1524750464|https://scryfall.com/card/rix/34/crashing-tide?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:181
@@ -401,7 +401,7 @@ msgid "Draw a card."
 msgstr ""
 
 #: ../../RIX.rst:194
-msgid ":mtgtip:`Curious Obsession`"
+msgid ":mtgtip:`Curious Obsession<https://img.scryfall.com/cards/border_crop/en/rix/35.jpg?1524750476|https://scryfall.com/card/rix/35/curious-obsession?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:191
@@ -413,7 +413,7 @@ msgid "At the beginning of your end step, if you didn't attack with a creature t
 msgstr ""
 
 #: ../../RIX.rst:198
-msgid ":mtgtip:`Deadeye Rig-Hauler`"
+msgid ":mtgtip:`Deadeye Rig-Hauler<https://img.scryfall.com/cards/border_crop/en/rix/36.jpg?1524750488|https://scryfall.com/card/rix/36/deadeye-rig-hauler?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:197
@@ -421,7 +421,7 @@ msgid "Raid — When Deadeye Rig-Hauler enters the battlefield, if you attacked 
 msgstr ""
 
 #: ../../RIX.rst:204
-msgid ":mtgtip:`Expel from Orazca`"
+msgid ":mtgtip:`Expel from Orazca<https://img.scryfall.com/cards/border_crop/en/rix/37.jpg?1524750500|https://scryfall.com/card/rix/37/expel-from-orazca?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:203
@@ -429,7 +429,7 @@ msgid "Return target nonland permanent to its owner's hand. If you have the city
 msgstr ""
 
 #: ../../RIX.rst:208
-msgid ":mtgtip:`Flood of Recollection`"
+msgid ":mtgtip:`Flood of Recollection<https://img.scryfall.com/cards/border_crop/en/rix/38.jpg?1524750512|https://scryfall.com/card/rix/38/flood-of-recollection?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:207
@@ -437,7 +437,7 @@ msgid "Return target instant or sorcery card from your graveyard to your hand. E
 msgstr ""
 
 #: ../../RIX.rst:212
-msgid ":mtgtip:`Hornswoggle`"
+msgid ":mtgtip:`Hornswoggle<https://img.scryfall.com/cards/border_crop/en/rix/39.jpg?1524750525|https://scryfall.com/card/rix/39/hornswoggle?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:211
@@ -445,7 +445,7 @@ msgid "Counter target creature spell. You create a colorless Treasure artifact t
 msgstr ""
 
 #: ../../RIX.rst:218
-msgid ":mtgtip:`Induced Amnesia`"
+msgid ":mtgtip:`Induced Amnesia<https://img.scryfall.com/cards/border_crop/en/rix/40.jpg?1524750539|https://scryfall.com/card/rix/40/induced-amnesia?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:215
@@ -457,7 +457,7 @@ msgid "When Induced Amnesia is put into a graveyard from the battlefield, return
 msgstr ""
 
 #: ../../RIX.rst:222
-msgid ":mtgtip:`Kitesail Corsair`"
+msgid ":mtgtip:`Kitesail Corsair<https://img.scryfall.com/cards/border_crop/en/rix/41.jpg?1524750551|https://scryfall.com/card/rix/41/kitesail-corsair?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:221
@@ -465,7 +465,7 @@ msgid "Kitesail Corsair has flying as long as it's attacking."
 msgstr ""
 
 #: ../../RIX.rst:228
-msgid ":mtgtip:`Kumena's Awakening`"
+msgid ":mtgtip:`Kumena's Awakening<https://img.scryfall.com/cards/border_crop/en/rix/42.jpg?1524750562|https://scryfall.com/card/rix/42/kumenas-awakening?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:227
@@ -473,7 +473,7 @@ msgid "At the beginning of your upkeep, each player draws a card. If you have th
 msgstr ""
 
 #: ../../RIX.rst:232
-msgid ":mtgtip:`Mist-Cloaked Herald`"
+msgid ":mtgtip:`Mist-Cloaked Herald<https://img.scryfall.com/cards/border_crop/en/rix/43.jpg?1524750572|https://scryfall.com/card/rix/43/mist-cloaked-herald?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:231
@@ -481,7 +481,7 @@ msgid "Mist-Cloaked Herald can't be blocked."
 msgstr ""
 
 #: ../../RIX.rst:236
-msgid ":mtgtip:`Negate`"
+msgid ":mtgtip:`Negate<https://img.scryfall.com/cards/border_crop/en/rix/44.jpg?1524750585|https://scryfall.com/card/rix/44/negate?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:235
@@ -489,7 +489,7 @@ msgid "Counter target noncreature spell."
 msgstr ""
 
 #: ../../RIX.rst:246
-msgid ":mtgtip:`Nezahal, Primal Tide`"
+msgid ":mtgtip:`Nezahal, Primal Tide<https://img.scryfall.com/cards/border_crop/en/rix/45.jpg?1524750598|https://scryfall.com/card/rix/45/nezahal-primal-tide?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:239
@@ -509,7 +509,7 @@ msgid "Discard three cards: Exile Nezahal. Return it to the battlefield tapped u
 msgstr ""
 
 #: ../../RIX.rst:250
-msgid ":mtgtip:`Release to the Wind`"
+msgid ":mtgtip:`Release to the Wind<https://img.scryfall.com/cards/border_crop/en/rix/46.jpg?1524750611|https://scryfall.com/card/rix/46/release-to-the-wind?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:249
@@ -517,7 +517,7 @@ msgid "Exile target nonland permanent. For as long as that card remains exiled, 
 msgstr ""
 
 #: ../../RIX.rst:254
-msgid ":mtgtip:`River Darter`"
+msgid ":mtgtip:`River Darter<https://img.scryfall.com/cards/border_crop/en/rix/47.jpg?1524750626|https://scryfall.com/card/rix/47/river-darter?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:253
@@ -525,7 +525,7 @@ msgid "River Darter can't be blocked by Dinosaurs."
 msgstr ""
 
 #: ../../RIX.rst:258
-msgid ":mtgtip:`Riverwise Augur`"
+msgid ":mtgtip:`Riverwise Augur<https://img.scryfall.com/cards/border_crop/en/rix/48.jpg?1524750636|https://scryfall.com/card/rix/48/riverwise-augur?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:257
@@ -533,7 +533,7 @@ msgid "When Riverwise Augur enters the battlefield, draw three cards, then put t
 msgstr ""
 
 #: ../../RIX.rst:262
-msgid ":mtgtip:`Sailor of Means`"
+msgid ":mtgtip:`Sailor of Means<https://img.scryfall.com/cards/border_crop/en/rix/49.jpg?1524750646|https://scryfall.com/card/rix/49/sailor-of-means?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:261
@@ -541,7 +541,7 @@ msgid "When Sailor of Means enters the battlefield, create a colorless Treasure 
 msgstr ""
 
 #: ../../RIX.rst:270
-msgid ":mtgtip:`Sea Legs`"
+msgid ":mtgtip:`Sea Legs<https://img.scryfall.com/cards/border_crop/en/rix/50.jpg?1524750656|https://scryfall.com/card/rix/50/sea-legs?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:269
@@ -549,7 +549,7 @@ msgid "Enchanted creature gets +0/+2 as long as it's a Pirate. Otherwise, it get
 msgstr ""
 
 #: ../../RIX.rst:274
-msgid ":mtgtip:`Seafloor Oracle`"
+msgid ":mtgtip:`Seafloor Oracle<https://img.scryfall.com/cards/border_crop/en/rix/51.jpg?1524750673|https://scryfall.com/card/rix/51/seafloor-oracle?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:273
@@ -557,7 +557,7 @@ msgid "Whenever a Merfolk you control deals combat damage to a player, draw a ca
 msgstr ""
 
 #: ../../RIX.rst:280
-msgid ":mtgtip:`Secrets of the Golden City`"
+msgid ":mtgtip:`Secrets of the Golden City<https://img.scryfall.com/cards/border_crop/en/rix/52.jpg?1524750687|https://scryfall.com/card/rix/52/secrets-of-the-golden-city?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:279
@@ -565,7 +565,7 @@ msgid "Draw two cards. If you have the city's blessing, draw three cards instead
 msgstr ""
 
 #: ../../RIX.rst:286
-msgid ":mtgtip:`Silvergill Adept`"
+msgid ":mtgtip:`Silvergill Adept<https://img.scryfall.com/cards/border_crop/en/rix/53.jpg?1524750702|https://scryfall.com/card/rix/53/silvergill-adept?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:283
@@ -577,7 +577,7 @@ msgid "When Silvergill Adept enters the battlefield, draw a card."
 msgstr ""
 
 #: ../../RIX.rst:292
-msgid ":mtgtip:`Siren Reaver`"
+msgid ":mtgtip:`Siren Reaver<https://img.scryfall.com/cards/border_crop/en/rix/54.jpg?1524750716|https://scryfall.com/card/rix/54/siren-reaver?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:289
@@ -585,7 +585,7 @@ msgid "Raid — This spell costs |mana_1| less to cast if you attacked with a cr
 msgstr ""
 
 #: ../../RIX.rst:298
-msgid ":mtgtip:`Slippery Scoundrel`"
+msgid ":mtgtip:`Slippery Scoundrel<https://img.scryfall.com/cards/border_crop/en/rix/55.jpg?1524750727|https://scryfall.com/card/rix/55/slippery-scoundrel?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:297
@@ -593,7 +593,7 @@ msgid "As long as you have the city's blessing, Slippery Scoundrel has hexproof 
 msgstr ""
 
 #: ../../RIX.rst:304
-msgid ":mtgtip:`Soul of the Rapids`"
+msgid ":mtgtip:`Soul of the Rapids<https://img.scryfall.com/cards/border_crop/en/rix/56.jpg?1524750742|https://scryfall.com/card/rix/56/soul-of-the-rapids?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:303
@@ -601,7 +601,7 @@ msgid "Hexproof (This creature can't be the target of spells or abilities your o
 msgstr ""
 
 #: ../../RIX.rst:312
-msgid ":mtgtip:`Spire Winder`"
+msgid ":mtgtip:`Spire Winder<https://img.scryfall.com/cards/border_crop/en/rix/57.jpg?1524750752|https://scryfall.com/card/rix/57/spire-winder?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:311
@@ -609,11 +609,11 @@ msgid "Spire Winder gets +1/+1 as long as you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:314
-msgid ":mtgtip:`Sworn Guardian`"
+msgid ":mtgtip:`Sworn Guardian<https://img.scryfall.com/cards/border_crop/en/rix/58.jpg?1524750762|https://scryfall.com/card/rix/58/sworn-guardian?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:322
-msgid ":mtgtip:`Timestream Navigator`"
+msgid ":mtgtip:`Timestream Navigator<https://img.scryfall.com/cards/border_crop/en/rix/59.jpg?1524750779|https://scryfall.com/card/rix/59/timestream-navigator?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:321
@@ -621,7 +621,7 @@ msgid "|mana_2|\\ |mana_u|\\ |mana_u|, |tap|, Put Timestream Navigator on the bo
 msgstr ""
 
 #: ../../RIX.rst:328
-msgid ":mtgtip:`Warkite Marauder`"
+msgid ":mtgtip:`Warkite Marauder<https://img.scryfall.com/cards/border_crop/en/rix/60.jpg?1524750795|https://scryfall.com/card/rix/60/warkite-marauder?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:327
@@ -629,7 +629,7 @@ msgid "Whenever Warkite Marauder attacks, target creature defending player contr
 msgstr ""
 
 #: ../../RIX.rst:336
-msgid ":mtgtip:`Waterknot`"
+msgid ":mtgtip:`Waterknot<https://img.scryfall.com/cards/border_crop/en/rix/61.jpg?1524750815|https://scryfall.com/card/rix/61/waterknot?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:333
@@ -641,7 +641,7 @@ msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr ""
 
 #: ../../RIX.rst:340
-msgid ":mtgtip:`Arterial Flow`"
+msgid ":mtgtip:`Arterial Flow<https://img.scryfall.com/cards/border_crop/en/rix/62.jpg?1524750826|https://scryfall.com/card/rix/62/arterial-flow?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:339
@@ -649,11 +649,11 @@ msgid "Each opponent discards two cards. If you control a Vampire, each opponent
 msgstr ""
 
 #: ../../RIX.rst:342
-msgid ":mtgtip:`Canal Monitor`"
+msgid ":mtgtip:`Canal Monitor<https://img.scryfall.com/cards/border_crop/en/rix/63.jpg?1524750841|https://scryfall.com/card/rix/63/canal-monitor?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:348
-msgid ":mtgtip:`Champion of Dusk`"
+msgid ":mtgtip:`Champion of Dusk<https://img.scryfall.com/cards/border_crop/en/rix/64.jpg?1524750851|https://scryfall.com/card/rix/64/champion-of-dusk?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:347
@@ -661,7 +661,7 @@ msgid "When Champion of Dusk enters the battlefield, you draw X cards and you lo
 msgstr ""
 
 #: ../../RIX.rst:352
-msgid ":mtgtip:`Dark Inquiry`"
+msgid ":mtgtip:`Dark Inquiry<https://img.scryfall.com/cards/border_crop/en/rix/65.jpg?1524750863|https://scryfall.com/card/rix/65/dark-inquiry?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:351
@@ -669,7 +669,7 @@ msgid "Target opponent reveals their hand. You choose a nonland card from it. Th
 msgstr ""
 
 #: ../../RIX.rst:358
-msgid ":mtgtip:`Dead Man's Chest`"
+msgid ":mtgtip:`Dead Man's Chest<https://img.scryfall.com/cards/border_crop/en/rix/66.jpg?1524750878|https://scryfall.com/card/rix/66/dead-mans-chest?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:355
@@ -681,7 +681,7 @@ msgid "When enchanted creature dies, exile cards equal to its power from the top
 msgstr ""
 
 #: ../../RIX.rst:362
-msgid ":mtgtip:`Dinosaur Hunter`"
+msgid ":mtgtip:`Dinosaur Hunter<https://img.scryfall.com/cards/border_crop/en/rix/67.jpg?1524750889|https://scryfall.com/card/rix/67/dinosaur-hunter?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:361
@@ -689,7 +689,7 @@ msgid "Whenever Dinosaur Hunter deals damage to a Dinosaur, destroy that creatur
 msgstr ""
 
 #: ../../RIX.rst:370
-msgid ":mtgtip:`Dire Fleet Poisoner`"
+msgid ":mtgtip:`Dire Fleet Poisoner<https://img.scryfall.com/cards/border_crop/en/rix/68.jpg?1524750903|https://scryfall.com/card/rix/68/dire-fleet-poisoner?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:367
@@ -703,7 +703,7 @@ msgid "When Dire Fleet Poisoner enters the battlefield, target attacking Pirate 
 msgstr ""
 
 #: ../../RIX.rst:376
-msgid ":mtgtip:`Dusk Charger`"
+msgid ":mtgtip:`Dusk Charger<https://img.scryfall.com/cards/border_crop/en/rix/69.jpg?1524750913|https://scryfall.com/card/rix/69/dusk-charger?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:375
@@ -711,7 +711,7 @@ msgid "Dusk Charger gets +2/+2 as long as you have the city's blessing."
 msgstr ""
 
 #: ../../RIX.rst:380
-msgid ":mtgtip:`Dusk Legion Zealot`"
+msgid ":mtgtip:`Dusk Legion Zealot<https://img.scryfall.com/cards/border_crop/en/rix/70.jpg?1524750925|https://scryfall.com/card/rix/70/dusk-legion-zealot?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:379
@@ -719,7 +719,7 @@ msgid "When Dusk Legion Zealot enters the battlefield, you draw a card and you l
 msgstr ""
 
 #: ../../RIX.rst:384
-msgid ":mtgtip:`Fathom Fleet Boarder`"
+msgid ":mtgtip:`Fathom Fleet Boarder<https://img.scryfall.com/cards/border_crop/en/rix/71.jpg?1524750940|https://scryfall.com/card/rix/71/fathom-fleet-boarder?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:383
@@ -727,7 +727,7 @@ msgid "When Fathom Fleet Boarder enters the battlefield, you lose 2 life unless 
 msgstr ""
 
 #: ../../RIX.rst:390
-msgid ":mtgtip:`Forerunner of the Coalition`"
+msgid ":mtgtip:`Forerunner of the Coalition<https://img.scryfall.com/cards/border_crop/en/rix/72.jpg?1524750953|https://scryfall.com/card/rix/72/forerunner-of-the-coalition?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:387
@@ -739,7 +739,7 @@ msgid "Whenever another Pirate enters the battlefield under your control, each o
 msgstr ""
 
 #: ../../RIX.rst:396
-msgid ":mtgtip:`Golden Demise`"
+msgid ":mtgtip:`Golden Demise<https://img.scryfall.com/cards/border_crop/en/rix/73.jpg?1524750962|https://scryfall.com/card/rix/73/golden-demise?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:395
@@ -747,7 +747,7 @@ msgid "All creatures get -2/-2 until end of turn. If you have the city's blessin
 msgstr ""
 
 #: ../../RIX.rst:400
-msgid ":mtgtip:`Grasping Scoundrel`"
+msgid ":mtgtip:`Grasping Scoundrel<https://img.scryfall.com/cards/border_crop/en/rix/74.jpg?1524750981|https://scryfall.com/card/rix/74/grasping-scoundrel?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:399
@@ -755,7 +755,7 @@ msgid "Grasping Scoundrel gets +1/+0 as long as it's attacking."
 msgstr ""
 
 #: ../../RIX.rst:404
-msgid ":mtgtip:`Gruesome Fate`"
+msgid ":mtgtip:`Gruesome Fate<https://img.scryfall.com/cards/border_crop/en/rix/75.jpg?1524750999|https://scryfall.com/card/rix/75/gruesome-fate?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:403
@@ -763,7 +763,7 @@ msgid "Each opponent loses 1 life for each creature you control."
 msgstr ""
 
 #: ../../RIX.rst:408
-msgid ":mtgtip:`Impale`"
+msgid ":mtgtip:`Impale<https://img.scryfall.com/cards/border_crop/en/rix/76.jpg?1524751009|https://scryfall.com/card/rix/76/impale?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:407
@@ -771,7 +771,7 @@ msgid "Destroy target creature."
 msgstr ""
 
 #: ../../RIX.rst:416
-msgid ":mtgtip:`Mastermind's Acquisition`"
+msgid ":mtgtip:`Mastermind's Acquisition<https://img.scryfall.com/cards/border_crop/en/rix/77.jpg?1524751018|https://scryfall.com/card/rix/77/masterminds-acquisition?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:413
@@ -783,7 +783,7 @@ msgid "Choose a card you own from outside the game and put it into your hand."
 msgstr ""
 
 #: ../../RIX.rst:424
-msgid ":mtgtip:`Mausoleum Harpy`"
+msgid ":mtgtip:`Mausoleum Harpy<https://img.scryfall.com/cards/border_crop/en/rix/78.jpg?1524751031|https://scryfall.com/card/rix/78/mausoleum-harpy?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:423
@@ -791,7 +791,7 @@ msgid "Whenever another creature you control dies, if you have the city's blessi
 msgstr ""
 
 #: ../../RIX.rst:428
-msgid ":mtgtip:`Moment of Craving`"
+msgid ":mtgtip:`Moment of Craving<https://img.scryfall.com/cards/border_crop/en/rix/79.jpg?1524751048|https://scryfall.com/card/rix/79/moment-of-craving?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:427
@@ -799,7 +799,7 @@ msgid "Target creature gets -2/-2 until end of turn. You gain 2 life."
 msgstr ""
 
 #: ../../RIX.rst:434
-msgid ":mtgtip:`Oathsworn Vampire`"
+msgid ":mtgtip:`Oathsworn Vampire<https://img.scryfall.com/cards/border_crop/en/rix/80.jpg?1524751077|https://scryfall.com/card/rix/80/oathsworn-vampire?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:431
@@ -811,7 +811,7 @@ msgid "You may cast Oathsworn Vampire from your graveyard if you gained life thi
 msgstr ""
 
 #: ../../RIX.rst:438
-msgid ":mtgtip:`Pitiless Plunderer`"
+msgid ":mtgtip:`Pitiless Plunderer<https://img.scryfall.com/cards/border_crop/en/rix/81.jpg?1524751092|https://scryfall.com/card/rix/81/pitiless-plunderer?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:437
@@ -819,7 +819,7 @@ msgid "Whenever another creature you control dies, create a colorless Treasure a
 msgstr ""
 
 #: ../../RIX.rst:442
-msgid ":mtgtip:`Ravenous Chupacabra`"
+msgid ":mtgtip:`Ravenous Chupacabra<https://img.scryfall.com/cards/border_crop/en/rix/82.jpg?1524751108|https://scryfall.com/card/rix/82/ravenous-chupacabra?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:441
@@ -827,7 +827,7 @@ msgid "When Ravenous Chupacabra enters the battlefield, destroy target creature 
 msgstr ""
 
 #: ../../RIX.rst:446
-msgid ":mtgtip:`Reaver Ambush`"
+msgid ":mtgtip:`Reaver Ambush<https://img.scryfall.com/cards/border_crop/en/rix/83.jpg?1524751119|https://scryfall.com/card/rix/83/reaver-ambush?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:445
@@ -835,7 +835,7 @@ msgid "Exile target creature with power 3 or less."
 msgstr ""
 
 #: ../../RIX.rst:452
-msgid ":mtgtip:`Recover`"
+msgid ":mtgtip:`Recover<https://img.scryfall.com/cards/border_crop/en/rix/84.jpg?1524751129|https://scryfall.com/card/rix/84/recover?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:449
@@ -843,7 +843,7 @@ msgid "Return target creature card from your graveyard to your hand."
 msgstr ""
 
 #: ../../RIX.rst:458
-msgid ":mtgtip:`Sadistic Skymarcher`"
+msgid ":mtgtip:`Sadistic Skymarcher<https://img.scryfall.com/cards/border_crop/en/rix/85.jpg?1524751138|https://scryfall.com/card/rix/85/sadistic-skymarcher?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:455
@@ -855,7 +855,7 @@ msgid "Flying, lifelink"
 msgstr ""
 
 #: ../../RIX.rst:466
-msgid ":mtgtip:`Tetzimoc, Primal Death`"
+msgid ":mtgtip:`Tetzimoc, Primal Death<https://img.scryfall.com/cards/border_crop/en/rix/86.jpg?1524751148|https://scryfall.com/card/rix/86/tetzimoc-primal-death?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:463
@@ -867,7 +867,7 @@ msgid "When Tetzimoc enters the battlefield, destroy each creature your opponent
 msgstr ""
 
 #: ../../RIX.rst:472
-msgid ":mtgtip:`Tomb Robber`"
+msgid ":mtgtip:`Tomb Robber<https://img.scryfall.com/cards/border_crop/en/rix/87.jpg?1524751167|https://scryfall.com/card/rix/87/tomb-robber?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:469
@@ -881,7 +881,7 @@ msgid "|mana_1|, Discard a card: Tomb Robber explores. (Reveal the top card of y
 msgstr ""
 
 #: ../../RIX.rst:480
-msgid ":mtgtip:`Twilight Prophet`"
+msgid ":mtgtip:`Twilight Prophet<https://img.scryfall.com/cards/border_crop/en/rix/88.jpg?1524751176|https://scryfall.com/card/rix/88/twilight-prophet?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:479
@@ -889,11 +889,11 @@ msgid "At the beginning of your upkeep, if you have the city's blessing, reveal 
 msgstr ""
 
 #: ../../RIX.rst:484
-msgid ":mtgtip:`Vampire Revenant`"
+msgid ":mtgtip:`Vampire Revenant<https://img.scryfall.com/cards/border_crop/en/rix/89.jpg?1524751188|https://scryfall.com/card/rix/89/vampire-revenant?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:490
-msgid ":mtgtip:`Vona's Hunger`"
+msgid ":mtgtip:`Vona's Hunger<https://img.scryfall.com/cards/border_crop/en/rix/90.jpg?1524751208|https://scryfall.com/card/rix/90/vonas-hunger?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:489
@@ -901,7 +901,7 @@ msgid "Each opponent sacrifices a creature. If you have the city's blessing, ins
 msgstr ""
 
 #: ../../RIX.rst:496
-msgid ":mtgtip:`Voracious Vampire`"
+msgid ":mtgtip:`Voracious Vampire<https://img.scryfall.com/cards/border_crop/en/rix/91.jpg?1524751217|https://scryfall.com/card/rix/91/voracious-vampire?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:495
@@ -909,7 +909,7 @@ msgid "When Voracious Vampire enters the battlefield, target Vampire you control
 msgstr ""
 
 #: ../../RIX.rst:502
-msgid ":mtgtip:`Blood Sun`"
+msgid ":mtgtip:`Blood Sun<https://img.scryfall.com/cards/border_crop/en/rix/92.jpg?1524751230|https://scryfall.com/card/rix/92/blood-sun?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:499
@@ -921,7 +921,7 @@ msgid "All lands lose all abilities except mana abilities."
 msgstr ""
 
 #: ../../RIX.rst:506
-msgid ":mtgtip:`Bombard`"
+msgid ":mtgtip:`Bombard<https://img.scryfall.com/cards/border_crop/en/rix/93.jpg?1524751243|https://scryfall.com/card/rix/93/bombard?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:505
@@ -929,7 +929,7 @@ msgid "Bombard deals 4 damage to target creature."
 msgstr ""
 
 #: ../../RIX.rst:510
-msgid ":mtgtip:`Brass's Bounty`"
+msgid ":mtgtip:`Brass's Bounty<https://img.scryfall.com/cards/border_crop/en/rix/94.jpg?1524751258|https://scryfall.com/card/rix/94/brasss-bounty?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:509
@@ -937,7 +937,7 @@ msgid "For each land you control, create a colorless Treasure artifact token wit
 msgstr ""
 
 #: ../../RIX.rst:514
-msgid ":mtgtip:`Brazen Freebooter`"
+msgid ":mtgtip:`Brazen Freebooter<https://img.scryfall.com/cards/border_crop/en/rix/95.jpg?1524751283|https://scryfall.com/card/rix/95/brazen-freebooter?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:513
@@ -945,7 +945,7 @@ msgid "When Brazen Freebooter enters the battlefield, create a colorless Treasur
 msgstr ""
 
 #: ../../RIX.rst:522
-msgid ":mtgtip:`Buccaneer's Bravado`"
+msgid ":mtgtip:`Buccaneer's Bravado<https://img.scryfall.com/cards/border_crop/en/rix/96.jpg?1524751294|https://scryfall.com/card/rix/96/buccaneers-bravado?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:519
@@ -957,7 +957,7 @@ msgid "Target Pirate gets +1/+1 and gains double strike until end of turn."
 msgstr ""
 
 #: ../../RIX.rst:528
-msgid ":mtgtip:`Charging Tuskodon`"
+msgid ":mtgtip:`Charging Tuskodon<https://img.scryfall.com/cards/border_crop/en/rix/97.jpg?1524751304|https://scryfall.com/card/rix/97/charging-tuskodon?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:525
@@ -972,7 +972,7 @@ msgid "If Charging Tuskodon would deal combat damage to a player, it deals doubl
 msgstr ""
 
 #: ../../RIX.rst:532
-msgid ":mtgtip:`Daring Buccaneer`"
+msgid ":mtgtip:`Daring Buccaneer<https://img.scryfall.com/cards/border_crop/en/rix/98.jpg?1524751323|https://scryfall.com/card/rix/98/daring-buccaneer?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:531
@@ -980,7 +980,7 @@ msgid "As an additional cost to cast this spell, reveal a Pirate card from your 
 msgstr ""
 
 #: ../../RIX.rst:538
-msgid ":mtgtip:`Dire Fleet Daredevil`"
+msgid ":mtgtip:`Dire Fleet Daredevil<https://img.scryfall.com/cards/border_crop/en/rix/99.jpg?1524751344|https://scryfall.com/card/rix/99/dire-fleet-daredevil?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:535
@@ -992,7 +992,7 @@ msgid "When Dire Fleet Daredevil enters the battlefield, exile target instant or
 msgstr ""
 
 #: ../../RIX.rst:542
-msgid ":mtgtip:`Etali, Primal Storm`"
+msgid ":mtgtip:`Etali, Primal Storm<https://img.scryfall.com/cards/border_crop/en/rix/100.jpg?1524751359|https://scryfall.com/card/rix/100/etali-primal-storm?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:541
@@ -1000,7 +1000,7 @@ msgid "Whenever Etali, Primal Storm attacks, exile the top card of each player's
 msgstr ""
 
 #: ../../RIX.rst:548
-msgid ":mtgtip:`Fanatical Firebrand`"
+msgid ":mtgtip:`Fanatical Firebrand<https://img.scryfall.com/cards/border_crop/en/rix/101.jpg?1524751379|https://scryfall.com/card/rix/101/fanatical-firebrand?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:545
@@ -1013,7 +1013,7 @@ msgid "|tap|, Sacrifice Fanatical Firebrand: It deals 1 damage to any target."
 msgstr ""
 
 #: ../../RIX.rst:554
-msgid ":mtgtip:`Forerunner of the Empire`"
+msgid ":mtgtip:`Forerunner of the Empire<https://img.scryfall.com/cards/border_crop/en/rix/102.jpg?1524751395|https://scryfall.com/card/rix/102/forerunner-of-the-empire?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:551
@@ -1025,7 +1025,7 @@ msgid "Whenever a Dinosaur enters the battlefield under your control, you may ha
 msgstr ""
 
 #: ../../RIX.rst:560
-msgid ":mtgtip:`Form of the Dinosaur`"
+msgid ":mtgtip:`Form of the Dinosaur<https://img.scryfall.com/cards/border_crop/en/rix/103.jpg?1524751407|https://scryfall.com/card/rix/103/form-of-the-dinosaur?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:557
@@ -1037,7 +1037,7 @@ msgid "At the beginning of your upkeep, Form of the Dinosaur deals 15 damage to 
 msgstr ""
 
 #: ../../RIX.rst:564
-msgid ":mtgtip:`Frilled Deathspitter`"
+msgid ":mtgtip:`Frilled Deathspitter<https://img.scryfall.com/cards/border_crop/en/rix/104.jpg?1524751419|https://scryfall.com/card/rix/104/frilled-deathspitter?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:563
@@ -1045,11 +1045,11 @@ msgid "Enrage — Whenever Frilled Deathspitter is dealt damage, it deals 2 dama
 msgstr ""
 
 #: ../../RIX.rst:568
-msgid ":mtgtip:`Goblin Trailblazer`"
+msgid ":mtgtip:`Goblin Trailblazer<https://img.scryfall.com/cards/border_crop/en/rix/105.jpg?1524751429|https://scryfall.com/card/rix/105/goblin-trailblazer?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:572
-msgid ":mtgtip:`Mutiny`"
+msgid ":mtgtip:`Mutiny<https://img.scryfall.com/cards/border_crop/en/rix/106.jpg?1524751441|https://scryfall.com/card/rix/106/mutiny?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:571
@@ -1057,7 +1057,7 @@ msgid "Target creature an opponent controls deals damage equal to its power to a
 msgstr ""
 
 #: ../../RIX.rst:576
-msgid ":mtgtip:`Needletooth Raptor`"
+msgid ":mtgtip:`Needletooth Raptor<https://img.scryfall.com/cards/border_crop/en/rix/107.jpg?1524751467|https://scryfall.com/card/rix/107/needletooth-raptor?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:575
@@ -1065,11 +1065,11 @@ msgid "Enrage — Whenever Needletooth Raptor is dealt damage, it deals 5 damage
 msgstr ""
 
 #: ../../RIX.rst:578
-msgid ":mtgtip:`Orazca Raptor`"
+msgid ":mtgtip:`Orazca Raptor<https://img.scryfall.com/cards/border_crop/en/rix/108.jpg?1524751479|https://scryfall.com/card/rix/108/orazca-raptor?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:586
-msgid ":mtgtip:`Pirate's Pillage`"
+msgid ":mtgtip:`Pirate's Pillage<https://img.scryfall.com/cards/border_crop/en/rix/109.jpg?1524751494|https://scryfall.com/card/rix/109/pirates-pillage?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:583
@@ -1081,7 +1081,7 @@ msgid "Draw two cards and create two colorless Treasure artifact tokens with \"|
 msgstr ""
 
 #: ../../RIX.rst:590
-msgid ":mtgtip:`Reckless Rage`"
+msgid ":mtgtip:`Reckless Rage<https://img.scryfall.com/cards/border_crop/en/rix/110.jpg?1524751504|https://scryfall.com/card/rix/110/reckless-rage?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:589
@@ -1089,7 +1089,7 @@ msgid "Reckless Rage deals 4 damage to target creature you don't control and 2 d
 msgstr ""
 
 #: ../../RIX.rst:596
-msgid ":mtgtip:`Rekindling Phoenix`"
+msgid ":mtgtip:`Rekindling Phoenix<https://img.scryfall.com/cards/border_crop/en/rix/111.jpg?1524751516|https://scryfall.com/card/rix/111/rekindling-phoenix?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:595
@@ -1097,7 +1097,7 @@ msgid "When Rekindling Phoenix dies, create a 0/1 red Elemental creature token w
 msgstr ""
 
 #: ../../RIX.rst:604
-msgid ":mtgtip:`See Red`"
+msgid ":mtgtip:`See Red<https://img.scryfall.com/cards/border_crop/en/rix/112.jpg?1524751531|https://scryfall.com/card/rix/112/see-red?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:601
@@ -1109,7 +1109,7 @@ msgid "At the beginning of your end step, if you didn't attack with a creature t
 msgstr ""
 
 #: ../../RIX.rst:610
-msgid ":mtgtip:`Shake the Foundations`"
+msgid ":mtgtip:`Shake the Foundations<https://img.scryfall.com/cards/border_crop/en/rix/113.jpg?1524751550|https://scryfall.com/card/rix/113/shake-the-foundations?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:607
@@ -1117,7 +1117,7 @@ msgid "Shake the Foundations deals 1 damage to each creature without flying."
 msgstr ""
 
 #: ../../RIX.rst:614
-msgid ":mtgtip:`Shatter`"
+msgid ":mtgtip:`Shatter<https://img.scryfall.com/cards/border_crop/en/rix/114.jpg?1524751568|https://scryfall.com/card/rix/114/shatter?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:613
@@ -1125,7 +1125,7 @@ msgid "Destroy target artifact."
 msgstr ""
 
 #: ../../RIX.rst:618
-msgid ":mtgtip:`Silverclad Ferocidons`"
+msgid ":mtgtip:`Silverclad Ferocidons<https://img.scryfall.com/cards/border_crop/en/rix/115.jpg?1524751587|https://scryfall.com/card/rix/115/silverclad-ferocidons?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:617
@@ -1133,7 +1133,7 @@ msgid "Enrage — Whenever Silverclad Ferocidons is dealt damage, each opponent 
 msgstr ""
 
 #: ../../RIX.rst:622
-msgid ":mtgtip:`Stampeding Horncrest`"
+msgid ":mtgtip:`Stampeding Horncrest<https://img.scryfall.com/cards/border_crop/en/rix/116.jpg?1524751606|https://scryfall.com/card/rix/116/stampeding-horncrest?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:621
@@ -1141,7 +1141,7 @@ msgid "Stampeding Horncrest has haste as long as you control another Dinosaur."
 msgstr ""
 
 #: ../../RIX.rst:628
-msgid ":mtgtip:`Storm Fleet Swashbuckler`"
+msgid ":mtgtip:`Storm Fleet Swashbuckler<https://img.scryfall.com/cards/border_crop/en/rix/117.jpg?1524751619|https://scryfall.com/card/rix/117/storm-fleet-swashbuckler?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:627
@@ -1149,7 +1149,7 @@ msgid "Storm Fleet Swashbuckler has double strike as long as you have the city's
 msgstr ""
 
 #: ../../RIX.rst:634
-msgid ":mtgtip:`Sun-Collared Raptor`"
+msgid ":mtgtip:`Sun-Collared Raptor<https://img.scryfall.com/cards/border_crop/en/rix/118.jpg?1524751635|https://scryfall.com/card/rix/118/sun-collared-raptor?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:633
@@ -1157,7 +1157,7 @@ msgid "|mana_2|\\ |mana_r|: Sun-Collared Raptor gets +3/+0 until end of turn."
 msgstr ""
 
 #: ../../RIX.rst:638
-msgid ":mtgtip:`Swaggering Corsair`"
+msgid ":mtgtip:`Swaggering Corsair<https://img.scryfall.com/cards/border_crop/en/rix/119.jpg?1524751652|https://scryfall.com/card/rix/119/swaggering-corsair?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:637
@@ -1165,7 +1165,7 @@ msgid "Raid — Swaggering Corsair enters the battlefield with a +1/+1 counter o
 msgstr ""
 
 #: ../../RIX.rst:646
-msgid ":mtgtip:`Tilonalli's Crown`"
+msgid ":mtgtip:`Tilonalli's Crown<https://img.scryfall.com/cards/border_crop/en/rix/120.jpg?1524751669|https://scryfall.com/card/rix/120/tilonallis-crown?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:643
@@ -1177,7 +1177,7 @@ msgid "Enchanted creature gets +3/+0 and has trample."
 msgstr ""
 
 #: ../../RIX.rst:652
-msgid ":mtgtip:`Tilonalli's Summoner`"
+msgid ":mtgtip:`Tilonalli's Summoner<https://img.scryfall.com/cards/border_crop/en/rix/121.jpg?1524751680|https://scryfall.com/card/rix/121/tilonallis-summoner?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:651
@@ -1185,7 +1185,7 @@ msgid "Whenever Tilonalli's Summoner attacks, you may pay |mana_x|\\ |mana_r|. I
 msgstr ""
 
 #: ../../RIX.rst:658
-msgid ":mtgtip:`Aggressive Urge`"
+msgid ":mtgtip:`Aggressive Urge<https://img.scryfall.com/cards/border_crop/en/rix/122.jpg?1524751691|https://scryfall.com/card/rix/122/aggressive-urge?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:655
@@ -1193,7 +1193,7 @@ msgid "Target creature gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../RIX.rst:662
-msgid ":mtgtip:`Cacophodon`"
+msgid ":mtgtip:`Cacophodon<https://img.scryfall.com/cards/border_crop/en/rix/123.jpg?1524751702|https://scryfall.com/card/rix/123/cacophodon?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:661
@@ -1201,7 +1201,7 @@ msgid "Enrage — Whenever Cacophodon is dealt damage, untap target permanent."
 msgstr ""
 
 #: ../../RIX.rst:666
-msgid ":mtgtip:`Cherished Hatchling`"
+msgid ":mtgtip:`Cherished Hatchling<https://img.scryfall.com/cards/border_crop/en/rix/124.jpg?1524751720|https://scryfall.com/card/rix/124/cherished-hatchling?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:665
@@ -1209,7 +1209,7 @@ msgid "When Cherished Hatchling dies, you may cast Dinosaur spells this turn as 
 msgstr ""
 
 #: ../../RIX.rst:670
-msgid ":mtgtip:`Colossal Dreadmaw`"
+msgid ":mtgtip:`Colossal Dreadmaw<https://img.scryfall.com/cards/border_crop/en/rix/125.jpg?1524751731|https://scryfall.com/card/rix/125/colossal-dreadmaw?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:669
@@ -1217,7 +1217,7 @@ msgid "Trample (This creature can deal excess combat damage to the player or pla
 msgstr ""
 
 #: ../../RIX.rst:676
-msgid ":mtgtip:`Crested Herdcaller`"
+msgid ":mtgtip:`Crested Herdcaller<https://img.scryfall.com/cards/border_crop/en/rix/126.jpg?1524751741|https://scryfall.com/card/rix/126/crested-herdcaller?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:675
@@ -1225,7 +1225,7 @@ msgid "When Crested Herdcaller enters the battlefield, create a 3/3 green Dinosa
 msgstr ""
 
 #: ../../RIX.rst:680
-msgid ":mtgtip:`Deeproot Elite`"
+msgid ":mtgtip:`Deeproot Elite<https://img.scryfall.com/cards/border_crop/en/rix/127.jpg?1524751751|https://scryfall.com/card/rix/127/deeproot-elite?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:679
@@ -1233,7 +1233,7 @@ msgid "Whenever another Merfolk enters the battlefield under your control, put a
 msgstr ""
 
 #: ../../RIX.rst:686
-msgid ":mtgtip:`Enter the Unknown`"
+msgid ":mtgtip:`Enter the Unknown<https://img.scryfall.com/cards/border_crop/en/rix/128.jpg?1524751762|https://scryfall.com/card/rix/128/enter-the-unknown?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:683
@@ -1245,7 +1245,7 @@ msgid "You may play an additional land this turn."
 msgstr ""
 
 #: ../../RIX.rst:692
-msgid ":mtgtip:`Forerunner of the Heralds`"
+msgid ":mtgtip:`Forerunner of the Heralds<https://img.scryfall.com/cards/border_crop/en/rix/129.jpg?1524751774|https://scryfall.com/card/rix/129/forerunner-of-the-heralds?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:689
@@ -1257,7 +1257,7 @@ msgid "Whenever another Merfolk enters the battlefield under your control, put a
 msgstr ""
 
 #: ../../RIX.rst:698
-msgid ":mtgtip:`Ghalta, Primal Hunger`"
+msgid ":mtgtip:`Ghalta, Primal Hunger<https://img.scryfall.com/cards/border_crop/en/rix/130.jpg?1524751787|https://scryfall.com/card/rix/130/ghalta-primal-hunger?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:695
@@ -1265,7 +1265,7 @@ msgid "Ghalta, Primal Hunger costs |mana_x| less to cast, where X is the total p
 msgstr ""
 
 #: ../../RIX.rst:702
-msgid ":mtgtip:`Giltgrove Stalker`"
+msgid ":mtgtip:`Giltgrove Stalker<https://img.scryfall.com/cards/border_crop/en/rix/131.jpg?1524751799|https://scryfall.com/card/rix/131/giltgrove-stalker?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:701
@@ -1273,7 +1273,7 @@ msgid "Giltgrove Stalker can't be blocked by creatures with power 2 or less."
 msgstr ""
 
 #: ../../RIX.rst:706
-msgid ":mtgtip:`Hardy Veteran`"
+msgid ":mtgtip:`Hardy Veteran<https://img.scryfall.com/cards/border_crop/en/rix/132.jpg?1524751810|https://scryfall.com/card/rix/132/hardy-veteran?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:705
@@ -1281,7 +1281,7 @@ msgid "As long as it's your turn, Hardy Veteran gets +0/+2."
 msgstr ""
 
 #: ../../RIX.rst:710
-msgid ":mtgtip:`Hunt the Weak`"
+msgid ":mtgtip:`Hunt the Weak<https://img.scryfall.com/cards/border_crop/en/rix/133.jpg?1524751820|https://scryfall.com/card/rix/133/hunt-the-weak?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:709
@@ -1289,7 +1289,7 @@ msgid "Put a +1/+1 counter on target creature you control. Then that creature fi
 msgstr ""
 
 #: ../../RIX.rst:714
-msgid ":mtgtip:`Jade Bearer`"
+msgid ":mtgtip:`Jade Bearer<https://img.scryfall.com/cards/border_crop/en/rix/134.jpg?1524751831|https://scryfall.com/card/rix/134/jade-bearer?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:713
@@ -1297,7 +1297,7 @@ msgid "When Jade Bearer enters the battlefield, put a +1/+1 counter on another t
 msgstr ""
 
 #: ../../RIX.rst:718
-msgid ":mtgtip:`Jadecraft Artisan`"
+msgid ":mtgtip:`Jadecraft Artisan<https://img.scryfall.com/cards/border_crop/en/rix/135.jpg?1524751843|https://scryfall.com/card/rix/135/jadecraft-artisan?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:717
@@ -1305,7 +1305,7 @@ msgid "When Jadecraft Artisan enters the battlefield, target creature gets +2/+2
 msgstr ""
 
 #: ../../RIX.rst:722
-msgid ":mtgtip:`Jadelight Ranger`"
+msgid ":mtgtip:`Jadelight Ranger<https://img.scryfall.com/cards/border_crop/en/rix/136.jpg?1524751854|https://scryfall.com/card/rix/136/jadelight-ranger?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:721
@@ -1313,7 +1313,7 @@ msgid "When Jadelight Ranger enters the battlefield, it explores, then it explor
 msgstr ""
 
 #: ../../RIX.rst:726
-msgid ":mtgtip:`Jungleborn Pioneer`"
+msgid ":mtgtip:`Jungleborn Pioneer<https://img.scryfall.com/cards/border_crop/en/rix/137.jpg?1524751871|https://scryfall.com/card/rix/137/jungleborn-pioneer?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:725
@@ -1321,7 +1321,7 @@ msgid "When Jungleborn Pioneer enters the battlefield, create a 1/1 blue Merfolk
 msgstr ""
 
 #: ../../RIX.rst:730
-msgid ":mtgtip:`Knight of the Stampede`"
+msgid ":mtgtip:`Knight of the Stampede<https://img.scryfall.com/cards/border_crop/en/rix/138.jpg?1524751882|https://scryfall.com/card/rix/138/knight-of-the-stampede?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:729
@@ -1329,7 +1329,7 @@ msgid "Dinosaur spells you cast cost |mana_2| less to cast."
 msgstr ""
 
 #: ../../RIX.rst:734
-msgid ":mtgtip:`Naturalize`"
+msgid ":mtgtip:`Naturalize<https://img.scryfall.com/cards/border_crop/en/rix/139.jpg?1524751893|https://scryfall.com/card/rix/139/naturalize?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:733
@@ -1337,11 +1337,11 @@ msgid "Destroy target artifact or enchantment."
 msgstr ""
 
 #: ../../RIX.rst:736
-msgid ":mtgtip:`Orazca Frillback`"
+msgid ":mtgtip:`Orazca Frillback<https://img.scryfall.com/cards/border_crop/en/rix/140.jpg?1524751921|https://scryfall.com/card/rix/140/orazca-frillback?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:742
-msgid ":mtgtip:`Overgrown Armasaur`"
+msgid ":mtgtip:`Overgrown Armasaur<https://img.scryfall.com/cards/border_crop/en/rix/141.jpg?1524751938|https://scryfall.com/card/rix/141/overgrown-armasaur?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:741
@@ -1349,7 +1349,7 @@ msgid "Enrage — Whenever Overgrown Armasaur is dealt damage, create a 1/1 gree
 msgstr ""
 
 #: ../../RIX.rst:746
-msgid ":mtgtip:`Path of Discovery`"
+msgid ":mtgtip:`Path of Discovery<https://img.scryfall.com/cards/border_crop/en/rix/142.jpg?1524751952|https://scryfall.com/card/rix/142/path-of-discovery?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:745
@@ -1357,7 +1357,7 @@ msgid "Whenever a creature enters the battlefield under your control, it explore
 msgstr ""
 
 #: ../../RIX.rst:750
-msgid ":mtgtip:`Plummet`"
+msgid ":mtgtip:`Plummet<https://img.scryfall.com/cards/border_crop/en/rix/143.jpg?1524751966|https://scryfall.com/card/rix/143/plummet?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:749
@@ -1365,7 +1365,7 @@ msgid "Destroy target creature with flying."
 msgstr ""
 
 #: ../../RIX.rst:754
-msgid ":mtgtip:`Polyraptor`"
+msgid ":mtgtip:`Polyraptor<https://img.scryfall.com/cards/border_crop/en/rix/144.jpg?1524751983|https://scryfall.com/card/rix/144/polyraptor?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:753
@@ -1373,7 +1373,7 @@ msgid "Enrage — Whenever Polyraptor is dealt damage, create a token that's a c
 msgstr ""
 
 #: ../../RIX.rst:758
-msgid ":mtgtip:`Strength of the Pack`"
+msgid ":mtgtip:`Strength of the Pack<https://img.scryfall.com/cards/border_crop/en/rix/145.jpg?1524751999|https://scryfall.com/card/rix/145/strength-of-the-pack?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:757
@@ -1381,7 +1381,7 @@ msgid "Put two +1/+1 counters on each creature you control."
 msgstr ""
 
 #: ../../RIX.rst:764
-msgid ":mtgtip:`Swift Warden`"
+msgid ":mtgtip:`Swift Warden<https://img.scryfall.com/cards/border_crop/en/rix/146.jpg?1524752015|https://scryfall.com/card/rix/146/swift-warden?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:763
@@ -1389,7 +1389,7 @@ msgid "When Swift Warden enters the battlefield, target Merfolk you control gain
 msgstr ""
 
 #: ../../RIX.rst:772
-msgid ":mtgtip:`Tendershoot Dryad`"
+msgid ":mtgtip:`Tendershoot Dryad<https://img.scryfall.com/cards/border_crop/en/rix/147.jpg?1524752024|https://scryfall.com/card/rix/147/tendershoot-dryad?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:769
@@ -1401,7 +1401,7 @@ msgid "Saprolings you control get +2/+2 as long as you have the city's blessing.
 msgstr ""
 
 #: ../../RIX.rst:776
-msgid ":mtgtip:`Thrashing Brontodon`"
+msgid ":mtgtip:`Thrashing Brontodon<https://img.scryfall.com/cards/border_crop/en/rix/148.jpg?1524752035|https://scryfall.com/card/rix/148/thrashing-brontodon?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:775
@@ -1409,7 +1409,7 @@ msgid "|mana_1|, Sacrifice Thrashing Brontodon: Destroy target artifact or encha
 msgstr ""
 
 #: ../../RIX.rst:782
-msgid ":mtgtip:`Thunderherd Migration`"
+msgid ":mtgtip:`Thunderherd Migration<https://img.scryfall.com/cards/border_crop/en/rix/149.jpg?1524752045|https://scryfall.com/card/rix/149/thunderherd-migration?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:779
@@ -1421,7 +1421,7 @@ msgid "Search your library for a basic land card, put it onto the battlefield ta
 msgstr ""
 
 #: ../../RIX.rst:790
-msgid ":mtgtip:`Wayward Swordtooth`"
+msgid ":mtgtip:`Wayward Swordtooth<https://img.scryfall.com/cards/border_crop/en/rix/150.jpg?1524752061|https://scryfall.com/card/rix/150/wayward-swordtooth?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:787
@@ -1433,7 +1433,7 @@ msgid "Wayward Swordtooth can't attack or block unless you have the city's bless
 msgstr ""
 
 #: ../../RIX.rst:796
-msgid ":mtgtip:`World Shaper`"
+msgid ":mtgtip:`World Shaper<https://img.scryfall.com/cards/border_crop/en/rix/151.jpg?1524752071|https://scryfall.com/card/rix/151/world-shaper?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:793
@@ -1445,7 +1445,7 @@ msgid "When World Shaper dies, put all land cards from your graveyard onto the b
 msgstr ""
 
 #: ../../RIX.rst:804
-msgid ":mtgtip:`Angrath, the Flame-Chained`"
+msgid ":mtgtip:`Angrath, the Flame-Chained<https://img.scryfall.com/cards/border_crop/en/rix/152.jpg?1524752087|https://scryfall.com/card/rix/152/angrath-the-flame-chained?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:799
@@ -1461,15 +1461,15 @@ msgid "−8: Each opponent loses life equal to the number of cards in their grav
 msgstr ""
 
 #: ../../RIX.rst:810
-msgid ":mtgtip:`Atzocan Seer`"
+msgid ":mtgtip:`Atzocan Seer<https://img.scryfall.com/cards/border_crop/en/rix/153.jpg?1524752103|https://scryfall.com/card/rix/153/atzocan-seer?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:807
-#: ../../RIX.rst:843
-#: ../../RIX.rst:863
-#: ../../RIX.rst:897
-#: ../../RIX.rst:913
-#: ../../RIX.rst:957
+#: ../../RIX.rst:847
+#: ../../RIX.rst:869
+#: ../../RIX.rst:903
+#: ../../RIX.rst:917
+#: ../../RIX.rst:963
 msgid "|tap|: Add one mana of any color."
 msgstr ""
 
@@ -1478,7 +1478,7 @@ msgid "Sacrifice Atzocan Seer: Return target Dinosaur card from your graveyard t
 msgstr ""
 
 #: ../../RIX.rst:818
-msgid ":mtgtip:`Azor, the Lawbringer`"
+msgid ":mtgtip:`Azor, the Lawbringer<https://img.scryfall.com/cards/border_crop/en/rix/154.jpg?1524752117|https://scryfall.com/card/rix/154/azor-the-lawbringer?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:815
@@ -1490,7 +1490,7 @@ msgid "Whenever Azor attacks, you may pay |mana_x|\\ |mana_w|\\ |mana_u|\\ |mana
 msgstr ""
 
 #: ../../RIX.rst:826
-msgid ":mtgtip:`Deadeye Brawler`"
+msgid ":mtgtip:`Deadeye Brawler<https://img.scryfall.com/cards/border_crop/en/rix/155.jpg?1524752132|https://scryfall.com/card/rix/155/deadeye-brawler?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:825
@@ -1498,7 +1498,7 @@ msgid "Whenever Deadeye Brawler deals combat damage to a player, if you have the
 msgstr ""
 
 #: ../../RIX.rst:830
-msgid ":mtgtip:`Dire Fleet Neckbreaker`"
+msgid ":mtgtip:`Dire Fleet Neckbreaker<https://img.scryfall.com/cards/border_crop/en/rix/156.jpg?1524752143|https://scryfall.com/card/rix/156/dire-fleet-neckbreaker?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:829
@@ -1506,7 +1506,7 @@ msgid "Attacking Pirates you control get +2/+0."
 msgstr ""
 
 #: ../../RIX.rst:838
-msgid ":mtgtip:`Elenda, the Dusk Rose`"
+msgid ":mtgtip:`Elenda, the Dusk Rose<https://img.scryfall.com/cards/border_crop/en/rix/157.jpg?1524752154|https://scryfall.com/card/rix/157/elenda-the-dusk-rose?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:833
@@ -1521,28 +1521,28 @@ msgstr ""
 msgid "When Elenda dies, create X 1/1 white Vampire creature tokens with lifelink, where X is Elenda's power."
 msgstr ""
 
-#: ../../RIX.rst:846
-msgid ":mtgtip:`Winged Temple of Orazca`"
+#: ../../RIX.rst:842
+msgid ":mtgtip:`Hadana's Climb<https://img.scryfall.com/cards/border_crop/en/rix/158a.jpg?1524752183|https://scryfall.com/card/rix/158/hadanas-climb-winged-temple-of-orazca?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:841
-msgid "(Transforms from Hadana's Climb.)"
-msgstr ""
-
-#: ../../RIX.rst:845
-msgid "|mana_1|\\ |mana_g|\\ |mana_u|, |tap|: Target creature you control gains flying and gets +X/+X until end of turn, where X is its power."
-msgstr ""
-
-#: ../../RIX.rst:850
-msgid ":mtgtip:`Hadana's Climb`"
-msgstr ""
-
-#: ../../RIX.rst:849
 msgid "At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. Then if that creature has three or more +1/+1 counters on it, transform Hadana's Climb."
 msgstr ""
 
+#: ../../RIX.rst:850
+msgid ":mtgtip:`Winged Temple of Orazca<https://img.scryfall.com/cards/border_crop/en/rix/158b.jpg?1524752183|https://scryfall.com/card/rix/158/hadanas-climb-winged-temple-of-orazca?utm_source=api>`"
+msgstr ""
+
+#: ../../RIX.rst:845
+msgid "(Transforms from Hadana's Climb.)"
+msgstr ""
+
+#: ../../RIX.rst:849
+msgid "|mana_1|\\ |mana_g|\\ |mana_u|, |tap|: Target creature you control gains flying and gets +X/+X until end of turn, where X is its power."
+msgstr ""
+
 #: ../../RIX.rst:858
-msgid ":mtgtip:`Huatli, Radiant Champion`"
+msgid ":mtgtip:`Huatli, Radiant Champion<https://img.scryfall.com/cards/border_crop/en/rix/159.jpg?1524752200|https://scryfall.com/card/rix/159/huatli-radiant-champion?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:853
@@ -1557,32 +1557,32 @@ msgstr ""
 msgid "−8: You get an emblem with \"Whenever a creature enters the battlefield under your control, you may draw a card.\""
 msgstr ""
 
-#: ../../RIX.rst:866
-msgid ":mtgtip:`Atzal, Cave of Eternity`"
+#: ../../RIX.rst:864
+msgid ":mtgtip:`Journey to Eternity<https://img.scryfall.com/cards/border_crop/en/rix/160a.jpg?1524752234|https://scryfall.com/card/rix/160/journey-to-eternity-atzal-cave-of-eternity?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:861
-msgid "(Transforms from Journey to Eternity.)"
-msgstr ""
-
-#: ../../RIX.rst:865
-msgid "|mana_3|\\ |mana_b|\\ |mana_g|, |tap|: Return target creature card from your graveyard to the battlefield."
-msgstr ""
-
-#: ../../RIX.rst:872
-msgid ":mtgtip:`Journey to Eternity`"
-msgstr ""
-
-#: ../../RIX.rst:869
 msgid "Enchant creature you control"
 msgstr ""
 
-#: ../../RIX.rst:871
+#: ../../RIX.rst:863
 msgid "When enchanted creature dies, return it to the battlefield under your control, then return Journey to Eternity to the battlefield transformed under your control."
 msgstr ""
 
+#: ../../RIX.rst:872
+msgid ":mtgtip:`Atzal, Cave of Eternity<https://img.scryfall.com/cards/border_crop/en/rix/160b.jpg?1524752234|https://scryfall.com/card/rix/160/journey-to-eternity-atzal-cave-of-eternity?utm_source=api>`"
+msgstr ""
+
+#: ../../RIX.rst:867
+msgid "(Transforms from Journey to Eternity.)"
+msgstr ""
+
+#: ../../RIX.rst:871
+msgid "|mana_3|\\ |mana_b|\\ |mana_g|, |tap|: Return target creature card from your graveyard to the battlefield."
+msgstr ""
+
 #: ../../RIX.rst:876
-msgid ":mtgtip:`Jungle Creeper`"
+msgid ":mtgtip:`Jungle Creeper<https://img.scryfall.com/cards/border_crop/en/rix/161.jpg?1524752245|https://scryfall.com/card/rix/161/jungle-creeper?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:875
@@ -1590,7 +1590,7 @@ msgid "|mana_3|\\ |mana_b|\\ |mana_g|: Return Jungle Creeper from your graveyard
 msgstr ""
 
 #: ../../RIX.rst:884
-msgid ":mtgtip:`Kumena, Tyrant of Orazca`"
+msgid ":mtgtip:`Kumena, Tyrant of Orazca<https://img.scryfall.com/cards/border_crop/en/rix/162.jpg?1524752265|https://scryfall.com/card/rix/162/kumena-tyrant-of-orazca?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:879
@@ -1606,7 +1606,7 @@ msgid "Tap five untapped Merfolk you control: Put a +1/+1 counter on each Merfol
 msgstr ""
 
 #: ../../RIX.rst:888
-msgid ":mtgtip:`Legion Lieutenant`"
+msgid ":mtgtip:`Legion Lieutenant<https://img.scryfall.com/cards/border_crop/en/rix/163.jpg?1524752284|https://scryfall.com/card/rix/163/legion-lieutenant?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:887
@@ -1614,63 +1614,63 @@ msgid "Other Vampires you control get +1/+1."
 msgstr ""
 
 #: ../../RIX.rst:892
-msgid ":mtgtip:`Merfolk Mistbinder`"
+msgid ":mtgtip:`Merfolk Mistbinder<https://img.scryfall.com/cards/border_crop/en/rix/164.jpg?1524752294|https://scryfall.com/card/rix/164/merfolk-mistbinder?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:891
 msgid "Other Merfolk you control get +1/+1."
 msgstr ""
 
-#: ../../RIX.rst:902
-msgid ":mtgtip:`Metzali, Tower of Triumph`"
+#: ../../RIX.rst:898
+msgid ":mtgtip:`Path of Mettle<https://img.scryfall.com/cards/border_crop/en/rix/165a.jpg?1524752326|https://scryfall.com/card/rix/165/path-of-mettle-metzali-tower-of-triumph?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:895
-msgid "(Transforms from Path of Mettle.)"
-msgstr ""
-
-#: ../../RIX.rst:899
-msgid "|mana_1|\\ |mana_r|, |tap|: Metzali, Tower of Triumph deals 2 damage to each opponent."
-msgstr ""
-
-#: ../../RIX.rst:901
-msgid "|mana_2|\\ |mana_w|, |tap|: Choose a creature at random that attacked this turn. Destroy that creature."
-msgstr ""
-
-#: ../../RIX.rst:908
-msgid ":mtgtip:`Path of Mettle`"
-msgstr ""
-
-#: ../../RIX.rst:905
 msgid "When Path of Mettle enters the battlefield, it deals 1 damage to each creature that doesn't have first strike, double strike, vigilance, or haste."
 msgstr ""
 
-#: ../../RIX.rst:907
+#: ../../RIX.rst:897
 msgid "Whenever you attack with at least two creatures that have first strike, double strike, vigilance, and/or haste, transform Path of Mettle."
 msgstr ""
 
-#: ../../RIX.rst:916
-msgid ":mtgtip:`Tomb of the Dusk Rose`"
+#: ../../RIX.rst:908
+msgid ":mtgtip:`Metzali, Tower of Triumph<https://img.scryfall.com/cards/border_crop/en/rix/165b.jpg?1524752326|https://scryfall.com/card/rix/165/path-of-mettle-metzali-tower-of-triumph?utm_source=api>`"
+msgstr ""
+
+#: ../../RIX.rst:901
+msgid "(Transforms from Path of Mettle.)"
+msgstr ""
+
+#: ../../RIX.rst:905
+msgid "|mana_1|\\ |mana_r|, |tap|: Metzali, Tower of Triumph deals 2 damage to each opponent."
+msgstr ""
+
+#: ../../RIX.rst:907
+msgid "|mana_2|\\ |mana_w|, |tap|: Choose a creature at random that attacked this turn. Destroy that creature."
+msgstr ""
+
+#: ../../RIX.rst:912
+msgid ":mtgtip:`Profane Procession<https://img.scryfall.com/cards/border_crop/en/rix/166a.jpg?1524752356|https://scryfall.com/card/rix/166/profane-procession-tomb-of-the-dusk-rose?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:911
-msgid "(Transforms from Profane Procession.)"
-msgstr ""
-
-#: ../../RIX.rst:915
-msgid "|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Put a creature card exiled with this permanent onto the battlefield under your control."
-msgstr ""
-
-#: ../../RIX.rst:920
-msgid ":mtgtip:`Profane Procession`"
-msgstr ""
-
-#: ../../RIX.rst:919
 msgid "|mana_3|\\ |mana_w|\\ |mana_b|: Exile target creature. Then if there are three or more cards exiled with Profane Procession, transform it."
 msgstr ""
 
+#: ../../RIX.rst:920
+msgid ":mtgtip:`Tomb of the Dusk Rose<https://img.scryfall.com/cards/border_crop/en/rix/166b.jpg?1524752356|https://scryfall.com/card/rix/166/profane-procession-tomb-of-the-dusk-rose?utm_source=api>`"
+msgstr ""
+
+#: ../../RIX.rst:915
+msgid "(Transforms from Profane Procession.)"
+msgstr ""
+
+#: ../../RIX.rst:919
+msgid "|mana_2|\\ |mana_w|\\ |mana_b|, |tap|: Put a creature card exiled with this permanent onto the battlefield under your control."
+msgstr ""
+
 #: ../../RIX.rst:924
-msgid ":mtgtip:`Protean Raider`"
+msgid ":mtgtip:`Protean Raider<https://img.scryfall.com/cards/border_crop/en/rix/167.jpg?1524752372|https://scryfall.com/card/rix/167/protean-raider?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:923
@@ -1678,7 +1678,7 @@ msgid "Raid — If you attacked with a creature this turn, you may have Protean 
 msgstr ""
 
 #: ../../RIX.rst:928
-msgid ":mtgtip:`Raging Regisaur`"
+msgid ":mtgtip:`Raging Regisaur<https://img.scryfall.com/cards/border_crop/en/rix/168.jpg?1524752382|https://scryfall.com/card/rix/168/raging-regisaur?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:927
@@ -1686,7 +1686,7 @@ msgid "Whenever Raging Regisaur attacks, it deals 1 damage to any target."
 msgstr ""
 
 #: ../../RIX.rst:934
-msgid ":mtgtip:`Relentless Raptor`"
+msgid ":mtgtip:`Relentless Raptor<https://img.scryfall.com/cards/border_crop/en/rix/169.jpg?1524752395|https://scryfall.com/card/rix/169/relentless-raptor?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:931
@@ -1698,7 +1698,7 @@ msgid "Relentless Raptor attacks or blocks each combat if able."
 msgstr ""
 
 #: ../../RIX.rst:942
-msgid ":mtgtip:`Resplendent Griffin`"
+msgid ":mtgtip:`Resplendent Griffin<https://img.scryfall.com/cards/border_crop/en/rix/170.jpg?1524752416|https://scryfall.com/card/rix/170/resplendent-griffin?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:941
@@ -1706,7 +1706,7 @@ msgid "Whenever Resplendent Griffin attacks, if you have the city's blessing, pu
 msgstr ""
 
 #: ../../RIX.rst:946
-msgid ":mtgtip:`Siegehorn Ceratops`"
+msgid ":mtgtip:`Siegehorn Ceratops<https://img.scryfall.com/cards/border_crop/en/rix/171.jpg?1524752429|https://scryfall.com/card/rix/171/siegehorn-ceratops?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:945
@@ -1714,39 +1714,39 @@ msgid "Enrage — Whenever Siegehorn Ceratops is dealt damage, put two +1/+1 cou
 msgstr ""
 
 #: ../../RIX.rst:952
-msgid ":mtgtip:`Storm Fleet Sprinter`"
+msgid ":mtgtip:`Storm Fleet Sprinter<https://img.scryfall.com/cards/border_crop/en/rix/172.jpg?1524752439|https://scryfall.com/card/rix/172/storm-fleet-sprinter?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:951
 msgid "Storm Fleet Sprinter can't be blocked."
 msgstr ""
 
-#: ../../RIX.rst:960
-msgid ":mtgtip:`Vault of Catlacan`"
+#: ../../RIX.rst:958
+msgid ":mtgtip:`Storm the Vault<https://img.scryfall.com/cards/border_crop/en/rix/173a.jpg?1524752467|https://scryfall.com/card/rix/173/storm-the-vault-vault-of-catlacan?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:955
-msgid "(Transforms from Storm the Vault.)"
-msgstr ""
-
-#: ../../RIX.rst:959
-msgid "|tap|: Add |mana_u| for each artifact you control."
-msgstr ""
-
-#: ../../RIX.rst:966
-msgid ":mtgtip:`Storm the Vault`"
-msgstr ""
-
-#: ../../RIX.rst:963
 msgid "Whenever one or more creatures you control deal combat damage to a player, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 
-#: ../../RIX.rst:965
+#: ../../RIX.rst:957
 msgid "At the beginning of your end step, if you control five or more artifacts, transform Storm the Vault."
 msgstr ""
 
+#: ../../RIX.rst:966
+msgid ":mtgtip:`Vault of Catlacan<https://img.scryfall.com/cards/border_crop/en/rix/173b.jpg?1524752467|https://scryfall.com/card/rix/173/storm-the-vault-vault-of-catlacan?utm_source=api>`"
+msgstr ""
+
+#: ../../RIX.rst:961
+msgid "(Transforms from Storm the Vault.)"
+msgstr ""
+
+#: ../../RIX.rst:965
+msgid "|tap|: Add |mana_u| for each artifact you control."
+msgstr ""
+
 #: ../../RIX.rst:978
-msgid ":mtgtip:`Zacama, Primal Calamity`"
+msgid ":mtgtip:`Zacama, Primal Calamity<https://img.scryfall.com/cards/border_crop/en/rix/174.jpg?1524752477|https://scryfall.com/card/rix/174/zacama-primal-calamity?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:969
@@ -1770,35 +1770,35 @@ msgid "|mana_2|\\ |mana_w|: You gain 3 life."
 msgstr ""
 
 #: ../../RIX.rst:982
-msgid ":mtgtip:`Awakened Amalgam`"
+msgid ":mtgtip:`Awakened Amalgam<https://img.scryfall.com/cards/border_crop/en/rix/175.jpg?1524752489|https://scryfall.com/card/rix/175/awakened-amalgam?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:981
 msgid "Awakened Amalgam's power and toughness are each equal to the number of differently named lands you control."
 msgstr ""
 
-#: ../../RIX.rst:988
-msgid ":mtgtip:`Sanctum of the Sun`"
+#: ../../RIX.rst:986
+msgid ":mtgtip:`Azor's Gateway<https://img.scryfall.com/cards/border_crop/en/rix/176a.jpg?1524752522|https://scryfall.com/card/rix/176/azors-gateway-sanctum-of-the-sun?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:985
-msgid "(Transforms from Azor's Gateway.)"
-msgstr ""
-
-#: ../../RIX.rst:987
-msgid "|tap|: Add X mana of any one color, where X is your life total."
-msgstr ""
-
-#: ../../RIX.rst:992
-msgid ":mtgtip:`Azor's Gateway`"
-msgstr ""
-
-#: ../../RIX.rst:991
 msgid "|mana_1|, |tap|: Draw a card, then exile a card from your hand. If cards with five or more different converted mana costs are exiled with Azor's Gateway, you gain 5 life, untap Azor's Gateway, and transform it."
 msgstr ""
 
+#: ../../RIX.rst:992
+msgid ":mtgtip:`Sanctum of the Sun<https://img.scryfall.com/cards/border_crop/en/rix/176b.jpg?1524752522|https://scryfall.com/card/rix/176/azors-gateway-sanctum-of-the-sun?utm_source=api>`"
+msgstr ""
+
+#: ../../RIX.rst:989
+msgid "(Transforms from Azor's Gateway.)"
+msgstr ""
+
+#: ../../RIX.rst:991
+msgid "|tap|: Add X mana of any one color, where X is your life total."
+msgstr ""
+
 #: ../../RIX.rst:1000
-msgid ":mtgtip:`Captain's Hook`"
+msgid ":mtgtip:`Captain's Hook<https://img.scryfall.com/cards/border_crop/en/rix/177.jpg?1524752535|https://scryfall.com/card/rix/177/captains-hook?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:995
@@ -1814,11 +1814,11 @@ msgid "Equip |mana_1|"
 msgstr ""
 
 #: ../../RIX.rst:1006
-msgid ":mtgtip:`Gleaming Barrier`"
+msgid ":mtgtip:`Gleaming Barrier<https://img.scryfall.com/cards/border_crop/en/rix/178.jpg?1524752548|https://scryfall.com/card/rix/178/gleaming-barrier?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1003
-#: ../../RIX.rst:1017
+#: ../../RIX.rst:1009
 msgid "Defender"
 msgstr ""
 
@@ -1826,32 +1826,32 @@ msgstr ""
 msgid "When Gleaming Barrier dies, create a colorless Treasure artifact token with \"|tap|, Sacrifice this artifact: Add one mana of any color.\""
 msgstr ""
 
-#: ../../RIX.rst:1014
-msgid ":mtgtip:`Gold-Forge Garrison`"
-msgstr ""
-
-#: ../../RIX.rst:1009
-msgid "(Transforms from Golden Guardian.)"
+#: ../../RIX.rst:1012
+msgid ":mtgtip:`Golden Guardian<https://img.scryfall.com/cards/border_crop/en/rix/179a.jpg?1524752577|https://scryfall.com/card/rix/179/golden-guardian-gold-forge-garrison?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1011
-msgid "|tap|: Add two mana of any one color."
-msgstr ""
-
-#: ../../RIX.rst:1013
-msgid "|mana_4|, |tap|: Create a 4/4 colorless Golem artifact creature token."
-msgstr ""
-
-#: ../../RIX.rst:1020
-msgid ":mtgtip:`Golden Guardian`"
-msgstr ""
-
-#: ../../RIX.rst:1019
 msgid "|mana_2|: Golden Guardian fights another target creature you control. When Golden Guardian dies this turn, return it to the battlefield transformed under your control."
 msgstr ""
 
+#: ../../RIX.rst:1020
+msgid ":mtgtip:`Gold-Forge Garrison<https://img.scryfall.com/cards/border_crop/en/rix/179b.jpg?1524752577|https://scryfall.com/card/rix/179/golden-guardian-gold-forge-garrison?utm_source=api>`"
+msgstr ""
+
+#: ../../RIX.rst:1015
+msgid "(Transforms from Golden Guardian.)"
+msgstr ""
+
+#: ../../RIX.rst:1017
+msgid "|tap|: Add two mana of any one color."
+msgstr ""
+
+#: ../../RIX.rst:1019
+msgid "|mana_4|, |tap|: Create a 4/4 colorless Golem artifact creature token."
+msgstr ""
+
 #: ../../RIX.rst:1030
-msgid ":mtgtip:`The Immortal Sun`"
+msgid ":mtgtip:`The Immortal Sun<https://img.scryfall.com/cards/border_crop/en/rix/180.jpg?1524752591|https://scryfall.com/card/rix/180/the-immortal-sun?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1023
@@ -1871,7 +1871,7 @@ msgid "Creatures you control get +1/+1."
 msgstr ""
 
 #: ../../RIX.rst:1038
-msgid ":mtgtip:`Orazca Relic`"
+msgid ":mtgtip:`Orazca Relic<https://img.scryfall.com/cards/border_crop/en/rix/181.jpg?1524752606|https://scryfall.com/card/rix/181/orazca-relic?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1035
@@ -1884,7 +1884,7 @@ msgid "|tap|, Sacrifice Orazca Relic: You gain 3 life and draw a card. Activate 
 msgstr ""
 
 #: ../../RIX.rst:1044
-msgid ":mtgtip:`Silent Gravestone`"
+msgid ":mtgtip:`Silent Gravestone<https://img.scryfall.com/cards/border_crop/en/rix/182.jpg?1524752624|https://scryfall.com/card/rix/182/silent-gravestone?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1041
@@ -1896,7 +1896,7 @@ msgid "|mana_4|, |tap|: Exile Silent Gravestone and all cards from all graveyard
 msgstr ""
 
 #: ../../RIX.rst:1050
-msgid ":mtgtip:`Strider Harness`"
+msgid ":mtgtip:`Strider Harness<https://img.scryfall.com/cards/border_crop/en/rix/183.jpg?1524752641|https://scryfall.com/card/rix/183/strider-harness?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1047
@@ -1908,7 +1908,7 @@ msgid "Equip |mana_1| (|mana_1|: Attach to target creature you control. Equip on
 msgstr ""
 
 #: ../../RIX.rst:1054
-msgid ":mtgtip:`Traveler's Amulet`"
+msgid ":mtgtip:`Traveler's Amulet<https://img.scryfall.com/cards/border_crop/en/rix/184.jpg?1524752658|https://scryfall.com/card/rix/184/travelers-amulet?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1053
@@ -1916,7 +1916,7 @@ msgid "|mana_1|, Sacrifice Traveler's Amulet: Search your library for a basic la
 msgstr ""
 
 #: ../../RIX.rst:1062
-msgid ":mtgtip:`Arch of Orazca`"
+msgid ":mtgtip:`Arch of Orazca<https://img.scryfall.com/cards/border_crop/en/rix/185.jpg?1524752669|https://scryfall.com/card/rix/185/arch-of-orazca?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1061
@@ -1924,7 +1924,7 @@ msgid "|mana_5|, |tap|: Draw a card. Activate this ability only if you have the 
 msgstr ""
 
 #: ../../RIX.rst:1066
-msgid ":mtgtip:`Evolving Wilds`"
+msgid ":mtgtip:`Evolving Wilds<https://img.scryfall.com/cards/border_crop/en/rix/186.jpg?1524752681|https://scryfall.com/card/rix/186/evolving-wilds?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1065
@@ -1932,7 +1932,7 @@ msgid "|tap|, Sacrifice Evolving Wilds: Search your library for a basic land car
 msgstr ""
 
 #: ../../RIX.rst:1072
-msgid ":mtgtip:`Forsaken Sanctuary`"
+msgid ":mtgtip:`Forsaken Sanctuary<https://img.scryfall.com/cards/border_crop/en/rix/187.jpg?1524752693|https://scryfall.com/card/rix/187/forsaken-sanctuary?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1069
@@ -1944,7 +1944,7 @@ msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr ""
 
 #: ../../RIX.rst:1078
-msgid ":mtgtip:`Foul Orchard`"
+msgid ":mtgtip:`Foul Orchard<https://img.scryfall.com/cards/border_crop/en/rix/188.jpg?1524752711|https://scryfall.com/card/rix/188/foul-orchard?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1075
@@ -1956,7 +1956,7 @@ msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr ""
 
 #: ../../RIX.rst:1084
-msgid ":mtgtip:`Highland Lake`"
+msgid ":mtgtip:`Highland Lake<https://img.scryfall.com/cards/border_crop/en/rix/189.jpg?1524752722|https://scryfall.com/card/rix/189/highland-lake?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1081
@@ -1968,7 +1968,7 @@ msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr ""
 
 #: ../../RIX.rst:1090
-msgid ":mtgtip:`Stone Quarry`"
+msgid ":mtgtip:`Stone Quarry<https://img.scryfall.com/cards/border_crop/en/rix/190.jpg?1524752745|https://scryfall.com/card/rix/190/stone-quarry?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1087
@@ -1980,7 +1980,7 @@ msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr ""
 
 #: ../../RIX.rst:1096
-msgid ":mtgtip:`Woodland Stream`"
+msgid ":mtgtip:`Woodland Stream<https://img.scryfall.com/cards/border_crop/en/rix/191.jpg?1524752758|https://scryfall.com/card/rix/191/woodland-stream?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1093
@@ -1992,7 +1992,7 @@ msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr ""
 
 #: ../../RIX.rst:1100
-msgid ":mtgtip:`Plains`"
+msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/rix/192.jpg?1524752775|https://scryfall.com/card/rix/192/plains?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1099
@@ -2000,7 +2000,7 @@ msgid "(|tap|: Add |mana_w|.)"
 msgstr ""
 
 #: ../../RIX.rst:1104
-msgid ":mtgtip:`Island`"
+msgid ":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/rix/193.jpg?1524752791|https://scryfall.com/card/rix/193/island?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1103
@@ -2008,7 +2008,7 @@ msgid "(|tap|: Add |mana_u|.)"
 msgstr ""
 
 #: ../../RIX.rst:1108
-msgid ":mtgtip:`Swamp`"
+msgid ":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/rix/194.jpg?1524752803|https://scryfall.com/card/rix/194/swamp?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1107
@@ -2016,7 +2016,7 @@ msgid "(|tap|: Add |mana_b|.)"
 msgstr ""
 
 #: ../../RIX.rst:1112
-msgid ":mtgtip:`Mountain`"
+msgid ":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/rix/195.jpg?1524752819|https://scryfall.com/card/rix/195/mountain?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1111
@@ -2024,7 +2024,7 @@ msgid "(|tap|: Add |mana_r|.)"
 msgstr ""
 
 #: ../../RIX.rst:1116
-msgid ":mtgtip:`Forest`"
+msgid ":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/rix/196.jpg?1524752831|https://scryfall.com/card/rix/196/forest?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1115
@@ -2032,7 +2032,7 @@ msgid "(|tap|: Add |mana_g|.)"
 msgstr ""
 
 #: ../../RIX.rst:1124
-msgid ":mtgtip:`Vraska, Scheming Gorgon`"
+msgid ":mtgtip:`Vraska, Scheming Gorgon<https://img.scryfall.com/cards/border_crop/en/rix/197.jpg?1524752846|https://scryfall.com/card/rix/197/vraska-scheming-gorgon?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1119
@@ -2048,7 +2048,7 @@ msgid "−10: Until end of turn, creatures you control gain deathtouch and \"Whe
 msgstr ""
 
 #: ../../RIX.rst:1128
-msgid ":mtgtip:`Vampire Champion`"
+msgid ":mtgtip:`Vampire Champion<https://img.scryfall.com/cards/border_crop/en/rix/198.jpg?1524752867|https://scryfall.com/card/rix/198/vampire-champion?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1127
@@ -2056,7 +2056,7 @@ msgid "Deathtouch (Any amount of damage this deals to a creature is enough to de
 msgstr ""
 
 #: ../../RIX.rst:1132
-msgid ":mtgtip:`Vraska's Conquistador`"
+msgid ":mtgtip:`Vraska's Conquistador<https://img.scryfall.com/cards/border_crop/en/rix/199.jpg?1524752878|https://scryfall.com/card/rix/199/vraskas-conquistador?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1131
@@ -2064,7 +2064,7 @@ msgid "Whenever Vraska's Conquistador attacks or blocks, if you control a Vraska
 msgstr ""
 
 #: ../../RIX.rst:1136
-msgid ":mtgtip:`Vraska's Scorn`"
+msgid ":mtgtip:`Vraska's Scorn<https://img.scryfall.com/cards/border_crop/en/rix/200.jpg?1524752892|https://scryfall.com/card/rix/200/vraskas-scorn?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1135
@@ -2072,7 +2072,7 @@ msgid "Target opponent loses 4 life. You may search your library and/or graveyar
 msgstr ""
 
 #: ../../RIX.rst:1144
-msgid ":mtgtip:`Angrath, Minotaur Pirate`"
+msgid ":mtgtip:`Angrath, Minotaur Pirate<https://img.scryfall.com/cards/border_crop/en/rix/201.jpg?1524752920|https://scryfall.com/card/rix/201/angrath-minotaur-pirate?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1139
@@ -2088,7 +2088,7 @@ msgid "−11: Destroy all creatures target opponent controls. Angrath, Minotaur 
 msgstr ""
 
 #: ../../RIX.rst:1148
-msgid ":mtgtip:`Angrath's Ambusher`"
+msgid ":mtgtip:`Angrath's Ambusher<https://img.scryfall.com/cards/border_crop/en/rix/202.jpg?1524752930|https://scryfall.com/card/rix/202/angraths-ambusher?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1147
@@ -2096,11 +2096,11 @@ msgid "Angrath's Ambusher gets +2/+0 as long as you control an Angrath planeswal
 msgstr ""
 
 #: ../../RIX.rst:1150
-msgid ":mtgtip:`Swab Goblin`"
+msgid ":mtgtip:`Swab Goblin<https://img.scryfall.com/cards/border_crop/en/rix/203.jpg?1524752947|https://scryfall.com/card/rix/203/swab-goblin?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1156
-msgid ":mtgtip:`Angrath's Fury`"
+msgid ":mtgtip:`Angrath's Fury<https://img.scryfall.com/cards/border_crop/en/rix/204.jpg?1524752960|https://scryfall.com/card/rix/204/angraths-fury?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1155
@@ -2108,7 +2108,7 @@ msgid "Destroy target creature. Angrath's Fury deals 3 damage to target player o
 msgstr ""
 
 #: ../../RIX.rst:1161
-msgid ":mtgtip:`Cinder Barrens`"
+msgid ":mtgtip:`Cinder Barrens<https://img.scryfall.com/cards/border_crop/en/rix/205.jpg?1524752975|https://scryfall.com/card/rix/205/cinder-barrens?utm_source=api>`"
 msgstr ""
 
 #: ../../RIX.rst:1159

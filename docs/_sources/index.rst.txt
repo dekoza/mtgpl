@@ -172,6 +172,7 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
    commander_banned
 
    game_variants
+   handicap
    rationale
    polish_cards
    symbols

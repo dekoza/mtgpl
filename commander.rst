@@ -47,28 +47,28 @@ Deck Construction Rules
 
    An Example of what cards are/aren't allowed in a three colour deck.
 
-      A deck with :mtgtip:`Phelddagrif` (casting cost |mana_1| |mana_w| |mana_u| |mana_g|) as the Commander may not contain any cards whose colour identity includes red or black.
+      A deck with *Phelddagrif* (casting cost |mana_1| |mana_w| |mana_u| |mana_g|) as the Commander may not contain any cards whose colour identity includes red or black.
 
       * These cards would all be illegal in a Phelddagrif deck:
       
-        * :mtgtip:`Goblin Piker` (Its mana cost contains a red mana symbol)
-        * :mtgtip:`Elves of Deep Shadow` (Its ability contains a black mana symbol)
-        * :mtgtip:`Talisman of Dominance` (All sorts of verbotten mana symbols)
-        * :mtgtip:`Life // Death` (Three shall be the number of the colours)
-        * :mtgtip:`Degavolver` (... right out)
+        * *Goblin Piker* (Its mana cost contains a red mana symbol)
+        * *Elves of Deep Shadow* (Its ability contains a black mana symbol)
+        * *Talisman of Dominance* (All sorts of verbotten mana symbols)
+        * *Life // Death* (Three shall be the number of the colours)
+        * *Degavolver* (... right out)
 
       * Our Phelddagrif couldn't use any of these lands:
        
-        * :mtgtip:`Underground River` (obvious, see above)
-        * :mtgtip:`Godless Shrine`
-        * :mtgtip:`Badlands`
-        * :mtgtip:`Leechridden Swamp`, etc.
+        * *Underground River* (obvious, see above)
+        * *Godless Shrine*
+        * *Badlands*
+        * *Leechridden Swamp*, etc.
 
-      * Phelddagrif may not call upon :mtgtip:`Boros Guildmage` for help
+      * Phelddagrif may not call upon *Boros Guildmage* for help
       * Phelddagrif IS allowed to use:
       
-        * :mtgtip:`Esper Panorama`
-        * :mtgtip:`Shard Convergence`
+        * *Esper Panorama*
+        * *Shard Convergence*
 
 #. A deck may not generate mana outside its colours. If an effect would generate mana of an illegal colour, it generates colourless mana instead.
 #. A Commander deck must contain exactly 100 cards, including the Commander.
@@ -91,17 +91,17 @@ Play Rules
    #. Each player draws a hand of seven cards.
    #. Players may mulligan, using the modified :ref:`Partial Paris<partial-paris-mulligan>` method.
 
-#. Being a Commander is not a characteristic [:ref:`MTG CR 109.3 <mtgcr-109-3>`], it is a property of the card. As such, "Commander-ness" cannot be copied or overwritten by continuous effects, and does not change with control of the card.
+#. Being a Commander is not a characteristic [:mtgrule:`Rule 109.3`], it is a property of the card. As such, "Commander-ness" cannot be copied or overwritten by continuous effects, and does not change with control of the card.
 
-   Examples: A :mtgtip:`Body Double` copying a Commander in a graveyard is not a Commander. A Commander which is affected by :mtgtip:`Cytoshape`, or is face down, is still a Commander.
+   Examples: A *Body Double* copying a Commander in a graveyard is not a Commander. A Commander which is affected by *Cytoshape*, or is face down, is still a Commander.
 
 #. If a player has been dealt 21 points of combat damage by a particular Commander during the game, that player loses a game. 
 
    * This is an additional state based effect.
    * Commander Damage is cumulative throughout the game; nothing can reduce the amount of damage a Commander has previously done to a player.
    * Because it is a property of the card and not a characteristic of the game object, a card is still the same Commander even if it leaves the field and returns.
-   * While effects can raise a player's life total, it doesn't reduce the amount of damage previously taken from a Commander. (eg: :mtgtip:`Beacon of Immortality`)
-   * Conversely, combat damage can be reduced, prevented, or replaced as it is taken, in which case it was never dealt and doesn't count towards the total taken from that Commander. (eg: :mtgtip:`Fog` or :mtgtip:`Captain's Maneuver`)
+   * While effects can raise a player's life total, it doesn't reduce the amount of damage previously taken from a Commander. (eg: *Beacon of Immortality*)
+   * Conversely, combat damage can be reduced, prevented, or replaced as it is taken, in which case it was never dealt and doesn't count towards the total taken from that Commander. (eg: *Fog* or *Captain's Maneuver*)
    * Commander Damage is specific to each Commander/Player pairing, not combined across all Commander.
    * A player can lose if he or she is dealt 21 points of combat damage by his or her own Commander (ie: under someone else's control).
 
@@ -118,7 +118,7 @@ Play Rules
 
 #. Players begin the game with 40 life.
 #. Commanders are subject to the Legend rule; a player cannot control more than one legend with the same name.
-#. Abilities which refer to other cards owned outside the game (:mtgtip:`W<Burning Wish>`:mtgtip:`i<Cunning Wish>`:mtgtip:`s<Death Wish>`:mtgtip:`h<Glittering Wish>`:mtgtip:`e<Golden Wish>`:mtgtip:`s<Living Wish>`, :mtgtip:`Spawnsire`, :mtgtip:`Research<Research // Development>`, :mtgtip:`Ring of Ma'ruf`) do not function in Commander unless the optional sideboard rule is in use. If sideboards are used, wishes and similar cards may retrieve sideboard cards.
+#. Abilities which refer to other cards owned outside the game (Wishes, *Spawnsire*, *Research* (part of *Research // Development*, *Ring of Ma'ruf*) do not function in Commander unless the optional sideboard rule is in use. If sideboards are used, wishes and similar cards may retrieve sideboard cards.
 
 .. _partial-paris-mulligan:
 
@@ -200,7 +200,7 @@ License
 #. "Magic:The Gathering - Commander" is copyright Wizards of the Coast, 2010. Used with permission.
 #.  All content not previously copyright by Wizards of the Coast were
 
-    * created and copyright (2005-2013) by :email:`Gavin Duggan<edhforum@gmail.com>`
+    * created and copyright (2005-2013) by Gavin Duggan<edhforum@gmail.com>
     * released under the terms of the `Academic Free License`_ (AFL) as of April 24th, 2007.
     * available for public reuse only with attribution, as per the terms of that license.
 

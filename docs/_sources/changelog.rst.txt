@@ -13,6 +13,7 @@ Spis zmian
     * Drobna reorganizacja strony startowej.
     * Dodanie opisu formatu :doc:`Handicap<handicap>`.
     * Pełne tłumaczenie :doc:`Ravnica Allegiance<RNA>`.
+    * Zmiana źródła danych na Scryfall, lepsze obrazki w tooltipach.
 
 2019-01-06
     * Dodane tłumaczenia przyszłych kart z Ravnica Allegiance (dzięki API Scryfall.com)
