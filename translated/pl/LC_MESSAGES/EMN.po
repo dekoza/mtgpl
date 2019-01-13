@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: 2019-01-13 15:26+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/emn/pl/>\n"
@@ -22,12 +22,12 @@ msgstr ""
 
 #: ../../EMN.rst:5
 #, fuzzy
-msgid "Eldritch Moon"
+msgid ":mtgexp:`EMN` Eldritch Moon"
 msgstr "Eldritch Moon"
 
 #: ../../EMN.rst:12
 #, fuzzy
-msgid "Abundant Maw"
+msgid ":mtgtip:`Abundant Maw`"
 msgstr "Abundant Maw"
 
 #: ../../EMN.rst:9
@@ -43,7 +43,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:20
-msgid "Decimator of the Provinces"
+msgid ":mtgtip:`Decimator of the Provinces`"
 msgstr ""
 
 #: ../../EMN.rst:15
@@ -64,7 +64,7 @@ msgid "Trample, haste"
 msgstr "Tratowanie, pośpiech"
 
 #: ../../EMN.rst:26
-msgid "Distended Mindbender"
+msgid ":mtgtip:`Distended Mindbender`"
 msgstr ""
 
 #: ../../EMN.rst:23
@@ -82,7 +82,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:34
-msgid "Drownyard Behemoth"
+msgid ":mtgtip:`Drownyard Behemoth`"
 msgstr ""
 
 #: ../../EMN.rst:29 ../../EMN.rst:165 ../../EMN.rst:441 ../../EMN.rst:463
@@ -104,7 +104,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:42
-msgid "Elder Deep-Fiend"
+msgid ":mtgtip:`Elder Deep-Fiend`"
 msgstr ""
 
 #: ../../EMN.rst:37 ../../EMN.rst:1037 ../../EMN.rst:1131 ../../EMN.rst:1155
@@ -123,7 +123,7 @@ msgid "When you cast this spell, tap up to four target permanents."
 msgstr ""
 
 #: ../../EMN.rst:50
-msgid "Emrakul, the Promised End"
+msgid ":mtgtip:`Emrakul, the Promised End`"
 msgstr ""
 
 #: ../../EMN.rst:45
@@ -143,7 +143,7 @@ msgid "Flying, trample, protection from instants"
 msgstr ""
 
 #: ../../EMN.rst:56
-msgid "Eternal Scourge"
+msgid ":mtgtip:`Eternal Scourge`"
 msgstr ""
 
 #: ../../EMN.rst:53
@@ -157,7 +157,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:62
-msgid "It of the Horrid Swarm"
+msgid ":mtgtip:`It of the Horrid Swarm`"
 msgstr ""
 
 #: ../../EMN.rst:59
@@ -172,7 +172,7 @@ msgid "When you cast this spell, create two 1/1 green Insect creature tokens."
 msgstr ""
 
 #: ../../EMN.rst:68
-msgid "Lashweed Lurker"
+msgid ":mtgtip:`Lashweed Lurker`"
 msgstr ""
 
 #: ../../EMN.rst:65
@@ -189,7 +189,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:74
-msgid "Mockery of Nature"
+msgid ":mtgtip:`Mockery of Nature`"
 msgstr ""
 
 #: ../../EMN.rst:71
@@ -205,7 +205,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:80
-msgid "Vexing Scuttler"
+msgid ":mtgtip:`Vexing Scuttler`"
 msgstr ""
 
 #: ../../EMN.rst:77
@@ -222,7 +222,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:88
-msgid "Wretched Gryff"
+msgid ":mtgtip:`Wretched Gryff`"
 msgstr ""
 
 #: ../../EMN.rst:83
@@ -237,15 +237,15 @@ msgid "When you cast this spell, draw a card."
 msgstr ""
 
 #: ../../EMN.rst:87 ../../EMN.rst:151 ../../EMN.rst:267 ../../EMN.rst:291
-#: ../../EMN.rst:313 ../../EMN.rst:353 ../../EMN.rst:359 ../../EMN.rst:429
+#: ../../EMN.rst:313 ../../EMN.rst:353 ../../EMN.rst:361 ../../EMN.rst:429
 #: ../../EMN.rst:443 ../../EMN.rst:449 ../../EMN.rst:479 ../../EMN.rst:549
-#: ../../EMN.rst:675 ../../EMN.rst:683 ../../EMN.rst:833 ../../EMN.rst:1139
+#: ../../EMN.rst:675 ../../EMN.rst:681 ../../EMN.rst:833 ../../EMN.rst:1139
 #: ../../EMN.rst:1157
 msgid "Flying"
 msgstr "Latanie"
 
 #: ../../EMN.rst:100
-msgid "Blessed Alliance"
+msgid ":mtgtip:`Blessed Alliance`"
 msgstr ""
 
 #: ../../EMN.rst:91 ../../EMN.rst:507
@@ -271,7 +271,7 @@ msgid "Target opponent sacrifices an attacking creature."
 msgstr ""
 
 #: ../../EMN.rst:110
-msgid "Borrowed Grace"
+msgid ":mtgtip:`Borrowed Grace`"
 msgstr ""
 
 #: ../../EMN.rst:103
@@ -294,7 +294,7 @@ msgid "Creatures you control get +0/+2 until end of turn."
 msgstr "lub stwory pod twoim władaniem dostają +0/+2 do końca tury."
 
 #: ../../EMN.rst:118
-msgid "Bruna, the Fading Light"
+msgid ":mtgtip:`Bruna, the Fading Light`"
 msgstr ""
 
 #: ../../EMN.rst:113
@@ -312,7 +312,7 @@ msgid "(Melds with Gisela, the Broken Blade.)"
 msgstr ""
 
 #: ../../EMN.rst:124
-msgid "Brisela, Voice of Nightmares"
+msgid ":mtgtip:`Brisela, Voice of Nightmares`"
 msgstr ""
 
 #: ../../EMN.rst:121
@@ -324,7 +324,7 @@ msgid "Your opponents can't cast spells with converted mana cost 3 or less."
 msgstr ""
 
 #: ../../EMN.rst:132
-msgid "Choking Restraints"
+msgid ":mtgtip:`Choking Restraints`"
 msgstr ""
 
 #: ../../EMN.rst:127 ../../EMN.rst:241 ../../EMN.rst:465 ../../EMN.rst:501
@@ -343,7 +343,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:144
-msgid "Collective Effort"
+msgid ":mtgtip:`Collective Effort`"
 msgstr ""
 
 #: ../../EMN.rst:135
@@ -365,7 +365,7 @@ msgid "Put a +1/+1 counter on each creature target player controls."
 msgstr ""
 
 #: ../../EMN.rst:148
-msgid "Courageous Outrider"
+msgid ":mtgtip:`Courageous Outrider`"
 msgstr ""
 
 #: ../../EMN.rst:147
@@ -376,11 +376,11 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:152
-msgid "Dawn Gryff"
+msgid ":mtgtip:`Dawn Gryff`"
 msgstr ""
 
 #: ../../EMN.rst:156
-msgid "Deploy the Gatewatch"
+msgid ":mtgtip:`Deploy the Gatewatch`"
 msgstr ""
 
 #: ../../EMN.rst:155
@@ -391,7 +391,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:162
-msgid "Desperate Sentry"
+msgid ":mtgtip:`Desperate Sentry`"
 msgstr ""
 
 #: ../../EMN.rst:159
@@ -407,7 +407,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:168
-msgid "Drogskol Shieldmate"
+msgid ":mtgtip:`Drogskol Shieldmate`"
 msgstr ""
 
 #: ../../EMN.rst:167
@@ -417,37 +417,37 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:174
-msgid "Extricator of Sin"
+msgid ":mtgtip:`Extricator of Flesh`"
 msgstr ""
 
 #: ../../EMN.rst:171
-msgid ""
-"When Extricator of Sin enters the battlefield, you may sacrifice another "
-"permanent. If you do, create a 3/2 colorless Eldrazi Horror creature token."
-msgstr ""
-
-#: ../../EMN.rst:173
-msgid ""
-"Delirium — At the beginning of your upkeep, if there are four or more card "
-"types among cards in your graveyard, transform Extricator of Sin."
-msgstr ""
-
-#: ../../EMN.rst:180
-msgid "Extricator of Flesh"
-msgstr ""
-
-#: ../../EMN.rst:177
 msgid "Eldrazi you control have vigilance."
 msgstr ""
 
-#: ../../EMN.rst:179
+#: ../../EMN.rst:173
 msgid ""
 "|mana_2|, |tap|, Sacrifice a non-Eldrazi creature: Create a 3/2 colorless "
 "Eldrazi Horror creature token."
 msgstr ""
 
+#: ../../EMN.rst:180
+msgid ":mtgtip:`Extricator of Sin`"
+msgstr ""
+
+#: ../../EMN.rst:177
+msgid ""
+"When Extricator of Sin enters the battlefield, you may sacrifice another "
+"permanent. If you do, create a 3/2 colorless Eldrazi Horror creature token."
+msgstr ""
+
+#: ../../EMN.rst:179
+msgid ""
+"Delirium — At the beginning of your upkeep, if there are four or more card "
+"types among cards in your graveyard, transform Extricator of Sin."
+msgstr ""
+
 #: ../../EMN.rst:188
-msgid "Faith Unbroken"
+msgid ":mtgtip:`Faith Unbroken`"
 msgstr ""
 
 #: ../../EMN.rst:183
@@ -465,7 +465,7 @@ msgid "Enchanted creature gets +2/+2."
 msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../EMN.rst:192
-msgid "Faithbearer Paladin"
+msgid ":mtgtip:`Faithbearer Paladin`"
 msgstr ""
 
 #: ../../EMN.rst:191 ../../EMN.rst:671
@@ -475,7 +475,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:196
-msgid "Fiend Binder"
+msgid ":mtgtip:`Fiend Binder`"
 msgstr ""
 
 #: ../../EMN.rst:195
@@ -484,7 +484,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:202
-msgid "Geist of the Lonely Vigil"
+msgid ":mtgtip:`Geist of the Lonely Vigil`"
 msgstr ""
 
 #: ../../EMN.rst:199
@@ -499,7 +499,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:208
-msgid "Gisela, the Broken Blade"
+msgid ":mtgtip:`Gisela, the Broken Blade`"
 msgstr ""
 
 #: ../../EMN.rst:205
@@ -514,7 +514,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:212
-msgid "Give No Ground"
+msgid ":mtgtip:`Give No Ground`"
 msgstr ""
 
 #: ../../EMN.rst:211
@@ -524,7 +524,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:216
-msgid "Guardian of Pilgrims"
+msgid ":mtgtip:`Guardian of Pilgrims`"
 msgstr ""
 
 #: ../../EMN.rst:215
@@ -534,7 +534,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:220
-msgid "Ironclad Slayer"
+msgid ":mtgtip:`Ironclad Slayer`"
 msgstr ""
 
 #: ../../EMN.rst:219
@@ -544,37 +544,37 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:224
-msgid "Ironwright's Cleansing"
+msgid ":mtgtip:`Ironwright's Cleansing`"
 msgstr ""
 
 #: ../../EMN.rst:223
 msgid "Exile target artifact or enchantment."
 msgstr "Wygnaj wskazany artefakt lub urok."
 
-#: ../../EMN.rst:230
-msgid "Lone Rider"
+#: ../../EMN.rst:228
+msgid ":mtgtip:`It That Rides as One`"
 msgstr ""
 
 #: ../../EMN.rst:227
+msgid "First strike, trample, lifelink"
+msgstr ""
+
+#: ../../EMN.rst:234
+msgid ":mtgtip:`Lone Rider`"
+msgstr ""
+
+#: ../../EMN.rst:231
 msgid "First strike, lifelink"
 msgstr ""
 
-#: ../../EMN.rst:229
+#: ../../EMN.rst:233
 msgid ""
 "At the beginning of the end step, if you gained 3 or more life this turn, "
 "transform Lone Rider."
 msgstr ""
 
-#: ../../EMN.rst:234
-msgid "It That Rides as One"
-msgstr ""
-
-#: ../../EMN.rst:233
-msgid "First strike, trample, lifelink"
-msgstr ""
-
 #: ../../EMN.rst:238
-msgid "Long Road Home"
+msgid ":mtgtip:`Long Road Home`"
 msgstr ""
 
 #: ../../EMN.rst:237
@@ -584,7 +584,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:244
-msgid "Lunarch Mantle"
+msgid ":mtgtip:`Lunarch Mantle`"
 msgstr ""
 
 #: ../../EMN.rst:243
@@ -594,7 +594,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:248
-msgid "Peace of Mind"
+msgid ":mtgtip:`Peace of Mind`"
 msgstr ""
 
 #: ../../EMN.rst:247
@@ -602,7 +602,7 @@ msgid "|mana_w|, Discard a card: You gain 3 life."
 msgstr ""
 
 #: ../../EMN.rst:254
-msgid "Providence"
+msgid ":mtgtip:`Providence`"
 msgstr ""
 
 #: ../../EMN.rst:251
@@ -616,7 +616,7 @@ msgid "Your life total becomes 26."
 msgstr ""
 
 #: ../../EMN.rst:258
-msgid "Repel the Abominable"
+msgid ":mtgtip:`Repel the Abominable`"
 msgstr ""
 
 #: ../../EMN.rst:257
@@ -624,7 +624,7 @@ msgid "Prevent all damage that would be dealt this turn by non-Human sources."
 msgstr ""
 
 #: ../../EMN.rst:264
-msgid "Sanctifier of Souls"
+msgid ":mtgtip:`Sanctifier of Souls`"
 msgstr ""
 
 #: ../../EMN.rst:261
@@ -640,7 +640,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:270
-msgid "Selfless Spirit"
+msgid ":mtgtip:`Selfless Spirit`"
 msgstr ""
 
 #: ../../EMN.rst:269
@@ -650,7 +650,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:276
-msgid "Sigarda's Aid"
+msgid ":mtgtip:`Sigarda's Aid`"
 msgstr ""
 
 #: ../../EMN.rst:273
@@ -664,7 +664,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:280
-msgid "Sigardian Priest"
+msgid ":mtgtip:`Sigardian Priest`"
 msgstr ""
 
 #: ../../EMN.rst:279
@@ -672,7 +672,7 @@ msgid "|mana_1|, |tap|: Tap target non-Human creature."
 msgstr ""
 
 #: ../../EMN.rst:284
-msgid "Spectral Reserves"
+msgid ":mtgtip:`Spectral Reserves`"
 msgstr ""
 
 #: ../../EMN.rst:283
@@ -681,7 +681,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:288
-msgid "Steadfast Cathar"
+msgid ":mtgtip:`Steadfast Cathar`"
 msgstr ""
 
 #: ../../EMN.rst:287
@@ -689,7 +689,7 @@ msgid "Whenever Steadfast Cathar attacks, it gets +0/+2 until end of turn."
 msgstr ""
 
 #: ../../EMN.rst:294
-msgid "Subjugator Angel"
+msgid ":mtgtip:`Subjugator Angel`"
 msgstr ""
 
 #: ../../EMN.rst:293
@@ -699,7 +699,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:300
-msgid "Thalia, Heretic Cathar"
+msgid ":mtgtip:`Thalia, Heretic Cathar`"
 msgstr ""
 
 #: ../../EMN.rst:297 ../../EMN.rst:303
@@ -713,7 +713,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:306
-msgid "Thalia's Lancers"
+msgid ":mtgtip:`Thalia's Lancers`"
 msgstr ""
 
 #: ../../EMN.rst:305
@@ -724,7 +724,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:310
-msgid "Thraben Standard Bearer"
+msgid ":mtgtip:`Thraben Standard Bearer`"
 msgstr ""
 
 #: ../../EMN.rst:309
@@ -734,7 +734,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:316
-msgid "Advanced Stitchwing"
+msgid ":mtgtip:`Advanced Stitchwing`"
 msgstr ""
 
 #: ../../EMN.rst:315
@@ -744,7 +744,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:322
-msgid "Chilling Grasp"
+msgid ":mtgtip:`Chilling Grasp`"
 msgstr ""
 
 #: ../../EMN.rst:319
@@ -763,7 +763,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:326
-msgid "Coax from the Blind Eternities"
+msgid ":mtgtip:`Coax from the Blind Eternities`"
 msgstr ""
 
 #: ../../EMN.rst:325
@@ -773,7 +773,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:330
-msgid "Contingency Plan"
+msgid ":mtgtip:`Contingency Plan`"
 msgstr ""
 
 #: ../../EMN.rst:329
@@ -783,7 +783,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:334
-msgid "Convolute"
+msgid ":mtgtip:`Convolute`"
 msgstr ""
 
 #: ../../EMN.rst:333
@@ -791,28 +791,10 @@ msgid "Counter target spell unless its controller pays |mana_4|."
 msgstr "Skontruj wskazany czar o ile jego władca nie dopłaci |mana_4|."
 
 #: ../../EMN.rst:340
-msgid "Curious Homunculus"
+msgid ":mtgtip:`Voracious Reader`"
 msgstr ""
 
-#: ../../EMN.rst:337
-msgid ""
-"|tap|: Add |colorless|. Spend this mana only to cast an instant or sorcery "
-"spell."
-msgstr ""
-"|tap|: Dostajesz |colorless|. Wydaj tę manę tylko na rzucenie sztuczki lub "
-"obrzędu."
-
-#: ../../EMN.rst:339
-msgid ""
-"At the beginning of your upkeep, if there are three or more instant and/or "
-"sorcery cards in your graveyard, transform Curious Homunculus."
-msgstr ""
-
-#: ../../EMN.rst:346
-msgid "Voracious Reader"
-msgstr ""
-
-#: ../../EMN.rst:343 ../../EMN.rst:415 ../../EMN.rst:451 ../../EMN.rst:721
+#: ../../EMN.rst:337 ../../EMN.rst:415 ../../EMN.rst:451 ../../EMN.rst:721
 msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
@@ -820,12 +802,30 @@ msgstr ""
 "Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
 "do końca tury.)"
 
-#: ../../EMN.rst:345
+#: ../../EMN.rst:339
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
 msgstr "Rzucanie sztuczek i obrzędów kosztuje cię |mana_1| mniej."
 
+#: ../../EMN.rst:346
+msgid ":mtgtip:`Curious Homunculus`"
+msgstr ""
+
+#: ../../EMN.rst:343
+msgid ""
+"|tap|: Add |colorless|. Spend this mana only to cast an instant or sorcery "
+"spell."
+msgstr ""
+"|tap|: Dostajesz |colorless|. Wydaj tę manę tylko na rzucenie sztuczki lub "
+"obrzędu."
+
+#: ../../EMN.rst:345
+msgid ""
+"At the beginning of your upkeep, if there are three or more instant and/or "
+"sorcery cards in your graveyard, transform Curious Homunculus."
+msgstr ""
+
 #: ../../EMN.rst:350
-msgid "Displace"
+msgid ":mtgtip:`Displace`"
 msgstr ""
 
 #: ../../EMN.rst:349
@@ -834,33 +834,33 @@ msgid ""
 "battlefield under their owner's control."
 msgstr ""
 
-#: ../../EMN.rst:356
-msgid "Docent of Perfection"
+#: ../../EMN.rst:358
+msgid ":mtgtip:`Final Iteration`"
 msgstr ""
 
 #: ../../EMN.rst:355
+msgid "Wizards you control get +2/+1 and have flying."
+msgstr ""
+
+#: ../../EMN.rst:357
+msgid ""
+"Whenever you cast an instant or sorcery spell, create a 1/1 blue Human "
+"Wizard creature token."
+msgstr ""
+
+#: ../../EMN.rst:364
+msgid ":mtgtip:`Docent of Perfection`"
+msgstr ""
+
+#: ../../EMN.rst:363
 msgid ""
 "Whenever you cast an instant or sorcery spell, create a 1/1 blue Human "
 "Wizard creature token. Then if you control three or more Wizards, transform "
 "Docent of Perfection."
 msgstr ""
 
-#: ../../EMN.rst:364
-msgid "Final Iteration"
-msgstr ""
-
-#: ../../EMN.rst:361
-msgid "Wizards you control get +2/+1 and have flying."
-msgstr ""
-
-#: ../../EMN.rst:363
-msgid ""
-"Whenever you cast an instant or sorcery spell, create a 1/1 blue Human "
-"Wizard creature token."
-msgstr ""
-
 #: ../../EMN.rst:370
-msgid "Drag Under"
+msgid ":mtgtip:`Drag Under`"
 msgstr ""
 
 #: ../../EMN.rst:367
@@ -872,7 +872,7 @@ msgid "Draw a card."
 msgstr "Dobierz kartę."
 
 #: ../../EMN.rst:374
-msgid "Enlightened Maniac"
+msgid ":mtgtip:`Enlightened Maniac`"
 msgstr ""
 
 #: ../../EMN.rst:373
@@ -882,7 +882,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:378
-msgid "Exultant Cultist"
+msgid ":mtgtip:`Exultant Cultist`"
 msgstr ""
 
 #: ../../EMN.rst:377
@@ -890,7 +890,7 @@ msgid "When Exultant Cultist dies, draw a card."
 msgstr ""
 
 #: ../../EMN.rst:384
-msgid "Fogwalker"
+msgid ":mtgtip:`Fogwalker`"
 msgstr ""
 
 #: ../../EMN.rst:381 ../../EMN.rst:493 ../../EMN.rst:669
@@ -904,7 +904,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:388
-msgid "Fortune's Favor"
+msgid ":mtgtip:`Fortune's Favor`"
 msgstr ""
 
 #: ../../EMN.rst:387
@@ -915,10 +915,10 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:394
-msgid "Geist of the Archives"
+msgid ":mtgtip:`Geist of the Archives`"
 msgstr ""
 
-#: ../../EMN.rst:391 ../../EMN.rst:663 ../../EMN.rst:903 ../../EMN.rst:1071
+#: ../../EMN.rst:391 ../../EMN.rst:663 ../../EMN.rst:903 ../../EMN.rst:1075
 msgid "Defender"
 msgstr "Obronność"
 
@@ -929,26 +929,26 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:398
-msgid "Grizzled Angler"
+msgid ":mtgtip:`Grisly Anglerfish`"
 msgstr ""
 
 #: ../../EMN.rst:397
+msgid "|mana_6|: Creatures your opponents control attack this turn if able."
+msgstr ""
+
+#: ../../EMN.rst:402
+msgid ":mtgtip:`Grizzled Angler`"
+msgstr ""
+
+#: ../../EMN.rst:401
 msgid ""
 "|tap|: Put the top two cards of your library into your graveyard. Then if "
 "there is a colorless creature card in your graveyard, transform Grizzled "
 "Angler."
 msgstr ""
 
-#: ../../EMN.rst:402
-msgid "Grisly Anglerfish"
-msgstr ""
-
-#: ../../EMN.rst:401
-msgid "|mana_6|: Creatures your opponents control attack this turn if able."
-msgstr ""
-
 #: ../../EMN.rst:406
-msgid "Identity Thief"
+msgid ":mtgtip:`Identity Thief`"
 msgstr ""
 
 #: ../../EMN.rst:405
@@ -960,7 +960,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:412
-msgid "Imprisoned in the Moon"
+msgid ":mtgtip:`Imprisoned in the Moon`"
 msgstr ""
 
 #: ../../EMN.rst:409
@@ -974,7 +974,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:418
-msgid "Ingenious Skaab"
+msgid ":mtgtip:`Ingenious Skaab`"
 msgstr ""
 
 #: ../../EMN.rst:417
@@ -982,7 +982,7 @@ msgid "|mana_u|: Ingenious Skaab gets +1/-1 until end of turn."
 msgstr ""
 
 #: ../../EMN.rst:422
-msgid "Laboratory Brute"
+msgid ":mtgtip:`Laboratory Brute`"
 msgstr ""
 
 #: ../../EMN.rst:421
@@ -992,7 +992,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:426
-msgid "Lunar Force"
+msgid ":mtgtip:`Lunar Force`"
 msgstr ""
 
 #: ../../EMN.rst:425
@@ -1001,7 +1001,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:434
-msgid "Mausoleum Wanderer"
+msgid ":mtgtip:`Mausoleum Wanderer`"
 msgstr ""
 
 #: ../../EMN.rst:431
@@ -1017,7 +1017,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:438
-msgid "Mind's Dilation"
+msgid ":mtgtip:`Mind's Dilation`"
 msgstr ""
 
 #: ../../EMN.rst:437
@@ -1028,7 +1028,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:446
-msgid "Nebelgast Herald"
+msgid ":mtgtip:`Nebelgast Herald`"
 msgstr ""
 
 #: ../../EMN.rst:445
@@ -1038,7 +1038,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:454
-msgid "Niblis of Frost"
+msgid ":mtgtip:`Niblis of Frost`"
 msgstr ""
 
 #: ../../EMN.rst:453
@@ -1049,7 +1049,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:460
-msgid "Scour the Laboratory"
+msgid ":mtgtip:`Scour the Laboratory`"
 msgstr ""
 
 #: ../../EMN.rst:457 ../../EMN.rst:547
@@ -1063,7 +1063,7 @@ msgid "Draw three cards."
 msgstr "Dobierz trzy karty."
 
 #: ../../EMN.rst:468
-msgid "Spontaneous Mutation"
+msgid ":mtgtip:`Spontaneous Mutation`"
 msgstr ""
 
 #: ../../EMN.rst:467
@@ -1073,7 +1073,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:472
-msgid "Summary Dismissal"
+msgid ":mtgtip:`Summary Dismissal`"
 msgstr ""
 
 #: ../../EMN.rst:471
@@ -1081,7 +1081,7 @@ msgid "Exile all other spells and counter all abilities."
 msgstr ""
 
 #: ../../EMN.rst:476
-msgid "Take Inventory"
+msgid ":mtgtip:`Take Inventory`"
 msgstr ""
 
 #: ../../EMN.rst:475
@@ -1091,7 +1091,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:482
-msgid "Tattered Haunter"
+msgid ":mtgtip:`Tattered Haunter`"
 msgstr ""
 
 #: ../../EMN.rst:481
@@ -1099,7 +1099,7 @@ msgid "Tattered Haunter can block only creatures with flying."
 msgstr ""
 
 #: ../../EMN.rst:486
-msgid "Turn Aside"
+msgid ":mtgtip:`Turn Aside`"
 msgstr ""
 
 #: ../../EMN.rst:485
@@ -1107,7 +1107,7 @@ msgid "Counter target spell that targets a permanent you control."
 msgstr ""
 
 #: ../../EMN.rst:490
-msgid "Unsubstantiate"
+msgid ":mtgtip:`Unsubstantiate`"
 msgstr ""
 
 #: ../../EMN.rst:489
@@ -1115,7 +1115,7 @@ msgid "Return target spell or creature to its owner's hand."
 msgstr ""
 
 #: ../../EMN.rst:498
-msgid "Wharf Infiltrator"
+msgid ":mtgtip:`Wharf Infiltrator`"
 msgstr ""
 
 #: ../../EMN.rst:495
@@ -1131,7 +1131,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:504
-msgid "Boon of Emrakul"
+msgid ":mtgtip:`Boon of Emrakul`"
 msgstr ""
 
 #: ../../EMN.rst:503
@@ -1139,7 +1139,7 @@ msgid "Enchanted creature gets +3/-3."
 msgstr ""
 
 #: ../../EMN.rst:514
-msgid "Borrowed Malevolence"
+msgid ":mtgtip:`Borrowed Malevolence`"
 msgstr ""
 
 #: ../../EMN.rst:511
@@ -1151,7 +1151,7 @@ msgid "Target creature gets -1/-1 until end of turn."
 msgstr ""
 
 #: ../../EMN.rst:518
-msgid "Cemetery Recruitment"
+msgid ":mtgtip:`Cemetery Recruitment`"
 msgstr ""
 
 #: ../../EMN.rst:517
@@ -1161,7 +1161,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:522
-msgid "Certain Death"
+msgid ":mtgtip:`Certain Death`"
 msgstr ""
 
 #: ../../EMN.rst:521
@@ -1170,7 +1170,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:534
-msgid "Collective Brutality"
+msgid ":mtgtip:`Collective Brutality`"
 msgstr ""
 
 #: ../../EMN.rst:525
@@ -1194,7 +1194,7 @@ msgid "Target opponent loses 2 life and you gain 2 life."
 msgstr ""
 
 #: ../../EMN.rst:540
-msgid "Cryptbreaker"
+msgid ":mtgtip:`Cryptbreaker`"
 msgstr ""
 
 #: ../../EMN.rst:537
@@ -1209,7 +1209,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:544
-msgid "Dark Salvation"
+msgid ":mtgtip:`Dark Salvation`"
 msgstr ""
 
 #: ../../EMN.rst:543
@@ -1220,11 +1220,11 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:550
-msgid "Dusk Feaster"
+msgid ":mtgtip:`Dusk Feaster`"
 msgstr ""
 
 #: ../../EMN.rst:554
-msgid "Gavony Unhallowed"
+msgid ":mtgtip:`Gavony Unhallowed`"
 msgstr ""
 
 #: ../../EMN.rst:553
@@ -1234,7 +1234,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:560
-msgid "Graf Harvest"
+msgid ":mtgtip:`Graf Harvest`"
 msgstr ""
 
 #: ../../EMN.rst:557
@@ -1250,7 +1250,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:564
-msgid "Graf Rats"
+msgid ":mtgtip:`Graf Rats`"
 msgstr ""
 
 #: ../../EMN.rst:563
@@ -1260,109 +1260,109 @@ msgid ""
 "into Chittering Host."
 msgstr ""
 
-#: ../../EMN.rst:572
-msgid "Chittering Host"
+#: ../../EMN.rst:570
+msgid ":mtgtip:`Haunted Dead`"
 msgstr ""
 
-#: ../../EMN.rst:567 ../../EMN.rst:1145
-msgid "Haste"
-msgstr "Pośpiech"
-
-#: ../../EMN.rst:569 ../../EMN.rst:771
-msgid ""
-"Menace (This creature can't be blocked except by two or more creatures.)"
-msgstr ""
-"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
-"dwa stwory.)"
-
-#: ../../EMN.rst:571
-msgid ""
-"When Chittering Host enters the battlefield, other creatures you control get "
-"+1/+0 and gain menace until end of turn."
-msgstr ""
-
-#: ../../EMN.rst:578
-msgid "Haunted Dead"
-msgstr ""
-
-#: ../../EMN.rst:575
+#: ../../EMN.rst:567
 msgid ""
 "When Haunted Dead enters the battlefield, create a 1/1 white Spirit creature "
 "token with flying."
 msgstr ""
 
-#: ../../EMN.rst:577
+#: ../../EMN.rst:569
 msgid ""
 "|mana_1|\\ |mana_b|, Discard two cards: Return Haunted Dead from your "
 "graveyard to the battlefield tapped."
 msgstr ""
 
-#: ../../EMN.rst:586
-msgid "Liliana, the Last Hope"
+#: ../../EMN.rst:578
+msgid ":mtgtip:`Liliana, the Last Hope`"
 msgstr ""
 
-#: ../../EMN.rst:581
+#: ../../EMN.rst:573
 msgid "+1: Up to one target creature gets -2/-1 until your next turn."
 msgstr ""
 
-#: ../../EMN.rst:583
+#: ../../EMN.rst:575
 msgid ""
 "−2: Put the top two cards of your library into your graveyard, then you may "
 "return a creature card from your graveyard to your hand."
 msgstr ""
 
-#: ../../EMN.rst:585
+#: ../../EMN.rst:577
 msgid ""
 "−7: You get an emblem with \"At the beginning of your end step, create X 2/2 "
 "black Zombie creature tokens, where X is two plus the number of Zombies you "
 "control.\""
 msgstr ""
 
-#: ../../EMN.rst:590
-msgid "Liliana's Elite"
+#: ../../EMN.rst:582
+msgid ":mtgtip:`Liliana's Elite`"
 msgstr ""
 
-#: ../../EMN.rst:589
+#: ../../EMN.rst:581
 msgid "Liliana's Elite gets +1/+1 for each creature card in your graveyard."
 msgstr ""
 
-#: ../../EMN.rst:596
-msgid "Markov Crusader"
+#: ../../EMN.rst:588
+msgid ":mtgtip:`Markov Crusader`"
 msgstr ""
 
-#: ../../EMN.rst:593 ../../EMN.rst:1133
+#: ../../EMN.rst:585 ../../EMN.rst:1133
 msgid "Lifelink"
 msgstr "Więź życia"
 
-#: ../../EMN.rst:595
+#: ../../EMN.rst:587
 msgid "Markov Crusader has haste as long as you control another Vampire."
 msgstr ""
 
-#: ../../EMN.rst:602
-msgid "Midnight Scavengers"
+#: ../../EMN.rst:594
+msgid ":mtgtip:`Midnight Scavengers`"
 msgstr ""
 
-#: ../../EMN.rst:599
+#: ../../EMN.rst:591
 msgid ""
 "When Midnight Scavengers enters the battlefield, you may return target "
 "creature card with converted mana cost 3 or less from your graveyard to your "
 "hand."
 msgstr ""
 
-#: ../../EMN.rst:601
+#: ../../EMN.rst:593
 msgid "(Melds with Graf Rats.)"
 msgstr ""
 
+#: ../../EMN.rst:602
+msgid ":mtgtip:`Chittering Host`"
+msgstr ""
+
+#: ../../EMN.rst:597 ../../EMN.rst:1145
+msgid "Haste"
+msgstr "Pośpiech"
+
+#: ../../EMN.rst:599 ../../EMN.rst:771
+msgid ""
+"Menace (This creature can't be blocked except by two or more creatures.)"
+msgstr ""
+"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
+"dwa stwory.)"
+
+#: ../../EMN.rst:601
+msgid ""
+"When Chittering Host enters the battlefield, other creatures you control get "
+"+1/+0 and gain menace until end of turn."
+msgstr ""
+
 #: ../../EMN.rst:606
-msgid "Murder"
-msgstr "Murder (Morderstwo)"
+msgid ":mtgtip:`Murder`"
+msgstr ""
 
 #: ../../EMN.rst:605
 msgid "Destroy target creature."
 msgstr "Zniszcz wskazanego stwora."
 
 #: ../../EMN.rst:612
-msgid "Noosegraf Mob"
+msgid ":mtgtip:`Noosegraf Mob`"
 msgstr ""
 
 #: ../../EMN.rst:609
@@ -1376,7 +1376,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:618
-msgid "Oath of Liliana"
+msgid ":mtgtip:`Oath of Liliana`"
 msgstr ""
 
 #: ../../EMN.rst:615
@@ -1392,7 +1392,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:622
-msgid "Olivia's Dragoon"
+msgid ":mtgtip:`Olivia's Dragoon`"
 msgstr ""
 
 #: ../../EMN.rst:621
@@ -1400,7 +1400,7 @@ msgid "Discard a card: Olivia's Dragoon gains flying until end of turn."
 msgstr ""
 
 #: ../../EMN.rst:626
-msgid "Prying Questions"
+msgid ":mtgtip:`Prying Questions`"
 msgstr ""
 
 #: ../../EMN.rst:625
@@ -1410,7 +1410,8 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:630
-msgid "Rise from the Grave"
+#, fuzzy
+msgid ":mtgtip:`Rise from the Grave`"
 msgstr "Rise from the Grave"
 
 #: ../../EMN.rst:629
@@ -1424,7 +1425,7 @@ msgstr ""
 "kolorów i typów."
 
 #: ../../EMN.rst:636
-msgid "Ruthless Disposal"
+msgid ":mtgtip:`Ruthless Disposal`"
 msgstr ""
 
 #: ../../EMN.rst:633
@@ -1438,7 +1439,7 @@ msgid "Two target creatures each get -13/-13 until end of turn."
 msgstr ""
 
 #: ../../EMN.rst:640
-msgid "Skirsdag Supplicant"
+msgid ":mtgtip:`Skirsdag Supplicant`"
 msgstr ""
 
 #: ../../EMN.rst:639
@@ -1446,7 +1447,7 @@ msgid "|mana_b|, |tap|, Discard a card: Each player loses 2 life."
 msgstr ""
 
 #: ../../EMN.rst:648
-msgid "Strange Augmentation"
+msgid ":mtgtip:`Strange Augmentation`"
 msgstr ""
 
 #: ../../EMN.rst:645
@@ -1460,7 +1461,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:652
-msgid "Stromkirk Condemned"
+msgid ":mtgtip:`Stromkirk Condemned`"
 msgstr ""
 
 #: ../../EMN.rst:651
@@ -1470,7 +1471,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:656
-msgid "Succumb to Temptation"
+msgid ":mtgtip:`Succumb to Temptation`"
 msgstr ""
 
 #: ../../EMN.rst:655
@@ -1478,7 +1479,7 @@ msgid "You draw two cards and you lose 2 life."
 msgstr ""
 
 #: ../../EMN.rst:660
-msgid "Thraben Foulbloods"
+msgid ":mtgtip:`Thraben Foulbloods`"
 msgstr ""
 
 #: ../../EMN.rst:659
@@ -1489,7 +1490,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:666
-msgid "Tree of Perdition"
+msgid ":mtgtip:`Tree of Perdition`"
 msgstr ""
 
 #: ../../EMN.rst:665
@@ -1499,36 +1500,36 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:672
-msgid "Vampire Cutthroat"
+msgid ":mtgtip:`Vampire Cutthroat`"
 msgstr ""
 
-#: ../../EMN.rst:680
-msgid "Voldaren Pariah"
+#: ../../EMN.rst:678
+msgid ":mtgtip:`Abolisher of Bloodlines`"
 msgstr ""
 
 #: ../../EMN.rst:677
+msgid ""
+"When this creature transforms into Abolisher of Bloodlines, target opponent "
+"sacrifices three creatures."
+msgstr ""
+
+#: ../../EMN.rst:686
+msgid ":mtgtip:`Voldaren Pariah`"
+msgstr ""
+
+#: ../../EMN.rst:683
 msgid "Sacrifice three other creatures: Transform Voldaren Pariah."
 msgstr ""
 
-#: ../../EMN.rst:679
+#: ../../EMN.rst:685
 msgid ""
 "Madness |mana_b|\\ |mana_b|\\ |mana_b| (If you discard this card, discard it "
 "into exile. When you do, cast it for its madness cost or put it into your "
 "graveyard.)"
 msgstr ""
 
-#: ../../EMN.rst:686
-msgid "Abolisher of Bloodlines"
-msgstr ""
-
-#: ../../EMN.rst:685
-msgid ""
-"When this creature transforms into Abolisher of Bloodlines, target opponent "
-"sacrifices three creatures."
-msgstr ""
-
 #: ../../EMN.rst:690
-msgid "Wailing Ghoul"
+msgid ":mtgtip:`Wailing Ghoul`"
 msgstr ""
 
 #: ../../EMN.rst:689
@@ -1538,7 +1539,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:694
-msgid "Weirded Vampire"
+msgid ":mtgtip:`Weirded Vampire`"
 msgstr ""
 
 #: ../../EMN.rst:693
@@ -1549,7 +1550,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:700
-msgid "Whispers of Emrakul"
+msgid ":mtgtip:`Whispers of Emrakul`"
 msgstr ""
 
 #: ../../EMN.rst:697
@@ -1563,7 +1564,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:706
-msgid "Abandon Reason"
+msgid ":mtgtip:`Abandon Reason`"
 msgstr ""
 
 #: ../../EMN.rst:703
@@ -1580,7 +1581,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:712
-msgid "Alchemist's Greeting"
+msgid ":mtgtip:`Alchemist's Greeting`"
 msgstr ""
 
 #: ../../EMN.rst:709
@@ -1588,7 +1589,7 @@ msgid "Alchemist's Greeting deals 4 damage to target creature."
 msgstr ""
 
 #: ../../EMN.rst:716
-msgid "Assembled Alphas"
+msgid ":mtgtip:`Assembled Alphas`"
 msgstr ""
 
 #: ../../EMN.rst:715
@@ -1599,7 +1600,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:724
-msgid "Bedlam Reveler"
+msgid ":mtgtip:`Bedlam Reveler`"
 msgstr ""
 
 #: ../../EMN.rst:719
@@ -1615,7 +1616,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:728
-msgid "Blood Mist"
+msgid ":mtgtip:`Blood Mist`"
 msgstr ""
 
 #: ../../EMN.rst:727
@@ -1625,7 +1626,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:732
-msgid "Bold Impaler"
+msgid ":mtgtip:`Bold Impaler`"
 msgstr ""
 
 #: ../../EMN.rst:731
@@ -1634,7 +1635,7 @@ msgid "|mana_2|\\ |mana_r|: Bold Impaler gets +2/+0 until end of turn."
 msgstr "Wskazany stwór dostaje +1/+1 do końca tury."
 
 #: ../../EMN.rst:742
-msgid "Borrowed Hostility"
+msgid ":mtgtip:`Borrowed Hostility`"
 msgstr ""
 
 #: ../../EMN.rst:735
@@ -1651,7 +1652,7 @@ msgid "Target creature gains first strike until end of turn."
 msgstr ""
 
 #: ../../EMN.rst:746
-msgid "Brazen Wolves"
+msgid ":mtgtip:`Brazen Wolves`"
 msgstr ""
 
 #: ../../EMN.rst:745
@@ -1659,7 +1660,7 @@ msgid "Whenever Brazen Wolves attacks, it gets +2/+0 until end of turn."
 msgstr ""
 
 #: ../../EMN.rst:758
-msgid "Collective Defiance"
+msgid ":mtgtip:`Collective Defiance`"
 msgstr ""
 
 #: ../../EMN.rst:749 ../../EMN.rst:855
@@ -1681,36 +1682,36 @@ msgstr ""
 msgid "Collective Defiance deals 3 damage to target opponent or planeswalker."
 msgstr ""
 
-#: ../../EMN.rst:764
-msgid "Conduit of Storms"
+#: ../../EMN.rst:762
+msgid ":mtgtip:`Conduit of Emrakul`"
 msgstr ""
 
 #: ../../EMN.rst:761
-msgid ""
-"Whenever Conduit of Storms attacks, add |mana_r| at the beginning of your "
-"next main phase this turn."
-msgstr ""
-
-#: ../../EMN.rst:763
-msgid "|mana_3|\\ |mana_r|\\ |mana_r|: Transform Conduit of Storms."
-msgstr ""
-
-#: ../../EMN.rst:768
-msgid "Conduit of Emrakul"
-msgstr ""
-
-#: ../../EMN.rst:767
 msgid ""
 "Whenever Conduit of Emrakul attacks, add |colorless|\\ |colorless| at the "
 "beginning of your next main phase this turn."
 msgstr ""
 
+#: ../../EMN.rst:768
+msgid ":mtgtip:`Conduit of Storms`"
+msgstr ""
+
+#: ../../EMN.rst:765
+msgid ""
+"Whenever Conduit of Storms attacks, add |mana_r| at the beginning of your "
+"next main phase this turn."
+msgstr ""
+
+#: ../../EMN.rst:767
+msgid "|mana_3|\\ |mana_r|\\ |mana_r|: Transform Conduit of Storms."
+msgstr ""
+
 #: ../../EMN.rst:772
-msgid "Deranged Whelp"
+msgid ":mtgtip:`Deranged Whelp`"
 msgstr ""
 
 #: ../../EMN.rst:778
-msgid "Distemper of the Blood"
+msgid ":mtgtip:`Distemper of the Blood`"
 msgstr ""
 
 #: ../../EMN.rst:775
@@ -1724,14 +1725,14 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:780
-msgid "Falkenrath Reaver"
+msgid ":mtgtip:`Falkenrath Reaver`"
 msgstr ""
 
 #: ../../EMN.rst:788
-msgid "Furyblade Vampire"
+msgid ":mtgtip:`Furyblade Vampire`"
 msgstr ""
 
-#: ../../EMN.rst:785 ../../EMN.rst:895 ../../EMN.rst:911 ../../EMN.rst:919
+#: ../../EMN.rst:785 ../../EMN.rst:895 ../../EMN.rst:911 ../../EMN.rst:917
 #: ../../EMN.rst:1123
 msgid "Trample"
 msgstr "Tratowanie"
@@ -1743,7 +1744,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:792
-msgid "Galvanic Bombardment"
+msgid ":mtgtip:`Galvanic Bombardment`"
 msgstr ""
 
 #: ../../EMN.rst:791
@@ -1753,7 +1754,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:798
-msgid "Hanweir Garrison"
+msgid ":mtgtip:`Hanweir Garrison`"
 msgstr ""
 
 #: ../../EMN.rst:795
@@ -1767,7 +1768,7 @@ msgid "(Melds with Hanweir Battlements.)"
 msgstr ""
 
 #: ../../EMN.rst:804
-msgid "Hanweir, the Writhing Township"
+msgid ":mtgtip:`Hanweir, the Writhing Township`"
 msgstr ""
 
 #: ../../EMN.rst:803
@@ -1777,7 +1778,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:808
-msgid "Harmless Offering"
+msgid ":mtgtip:`Harmless Offering`"
 msgstr ""
 
 #: ../../EMN.rst:807
@@ -1785,7 +1786,7 @@ msgid "Target opponent gains control of target permanent you control."
 msgstr ""
 
 #: ../../EMN.rst:816
-msgid "Impetuous Devils"
+msgid ":mtgtip:`Impetuous Devils`"
 msgstr ""
 
 #: ../../EMN.rst:813
@@ -1799,7 +1800,7 @@ msgid "At the beginning of the end step, sacrifice Impetuous Devils."
 msgstr ""
 
 #: ../../EMN.rst:820
-msgid "Incendiary Flow"
+msgid ":mtgtip:`Incendiary Flow`"
 msgstr ""
 
 #: ../../EMN.rst:819
@@ -1809,7 +1810,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:826
-msgid "Insatiable Gorgers"
+msgid ":mtgtip:`Insatiable Gorgers`"
 msgstr ""
 
 #: ../../EMN.rst:823
@@ -1824,7 +1825,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:830
-msgid "Make Mischief"
+msgid ":mtgtip:`Make Mischief`"
 msgstr ""
 
 #: ../../EMN.rst:829
@@ -1834,7 +1835,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:836
-msgid "Mirrorwing Dragon"
+msgid ":mtgtip:`Mirrorwing Dragon`"
 msgstr ""
 
 #: ../../EMN.rst:835
@@ -1846,7 +1847,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:842
-msgid "Nahiri's Wrath"
+msgid ":mtgtip:`Nahiri's Wrath`"
 msgstr ""
 
 #: ../../EMN.rst:839
@@ -1860,7 +1861,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:846
-msgid "Otherworldly Outburst"
+msgid ":mtgtip:`Otherworldly Outburst`"
 msgstr ""
 
 #: ../../EMN.rst:845
@@ -1870,7 +1871,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:852
-msgid "Prophetic Ravings"
+msgid ":mtgtip:`Prophetic Ravings`"
 msgstr ""
 
 #: ../../EMN.rst:851
@@ -1879,7 +1880,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:864
-msgid "Savage Alliance"
+msgid ":mtgtip:`Savage Alliance`"
 msgstr ""
 
 #: ../../EMN.rst:859
@@ -1896,7 +1897,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:868
-msgid "Shreds of Sanity"
+msgid ":mtgtip:`Shreds of Sanity`"
 msgstr ""
 
 #: ../../EMN.rst:867
@@ -1905,30 +1906,30 @@ msgid ""
 "your graveyard to your hand, then discard a card. Exile Shreds of Sanity."
 msgstr ""
 
-#: ../../EMN.rst:874
-msgid "Smoldering Werewolf"
+#: ../../EMN.rst:872
+msgid ":mtgtip:`Erupting Dreadwolf`"
 msgstr ""
 
 #: ../../EMN.rst:871
+msgid "Whenever Erupting Dreadwolf attacks, it deals 2 damage to any target."
+msgstr ""
+
+#: ../../EMN.rst:878
+msgid ":mtgtip:`Smoldering Werewolf`"
+msgstr ""
+
+#: ../../EMN.rst:875
 msgid ""
 "When Smoldering Werewolf enters the battlefield, it deals 1 damage to each "
 "of up to two target creatures."
 msgstr ""
 
-#: ../../EMN.rst:873
+#: ../../EMN.rst:877
 msgid "|mana_4|\\ |mana_r|\\ |mana_r|: Transform Smoldering Werewolf."
 msgstr ""
 
-#: ../../EMN.rst:878
-msgid "Erupting Dreadwolf"
-msgstr ""
-
-#: ../../EMN.rst:877
-msgid "Whenever Erupting Dreadwolf attacks, it deals 2 damage to any target."
-msgstr ""
-
 #: ../../EMN.rst:882
-msgid "Spreading Flames"
+msgid ":mtgtip:`Spreading Flames`"
 msgstr ""
 
 #: ../../EMN.rst:881
@@ -1938,7 +1939,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:888
-msgid "Stensia Banquet"
+msgid ":mtgtip:`Stensia Banquet`"
 msgstr ""
 
 #: ../../EMN.rst:885
@@ -1948,7 +1949,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:892
-msgid "Stensia Innkeeper"
+msgid ":mtgtip:`Stensia Innkeeper`"
 msgstr ""
 
 #: ../../EMN.rst:891
@@ -1958,7 +1959,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:900
-msgid "Stromkirk Occultist"
+msgid ":mtgtip:`Stromkirk Occultist`"
 msgstr ""
 
 #: ../../EMN.rst:897
@@ -1968,7 +1969,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:908
-msgid "Thermo-Alchemist"
+msgid ":mtgtip:`Thermo-Alchemist`"
 msgstr ""
 
 #: ../../EMN.rst:905
@@ -1979,28 +1980,28 @@ msgstr ""
 msgid "Whenever you cast an instant or sorcery spell, untap Thermo-Alchemist."
 msgstr ""
 
-#: ../../EMN.rst:916
-msgid "Vildin-Pack Outcast"
+#: ../../EMN.rst:914
+msgid ":mtgtip:`Dronepack Kindred`"
 msgstr ""
 
 #: ../../EMN.rst:913
-msgid "|mana_r|: Vildin-Pack Outcast gets +1/-1 until end of turn."
-msgstr ""
-
-#: ../../EMN.rst:915
-msgid "|mana_5|\\ |mana_r|\\ |mana_r|: Transform Vildin-Pack Outcast."
-msgstr ""
-
-#: ../../EMN.rst:922
-msgid "Dronepack Kindred"
-msgstr ""
-
-#: ../../EMN.rst:921
 msgid "|mana_1|: Dronepack Kindred gets +1/+0 until end of turn."
 msgstr ""
 
+#: ../../EMN.rst:922
+msgid ":mtgtip:`Vildin-Pack Outcast`"
+msgstr ""
+
+#: ../../EMN.rst:919
+msgid "|mana_r|: Vildin-Pack Outcast gets +1/-1 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:921
+msgid "|mana_5|\\ |mana_r|\\ |mana_r|: Transform Vildin-Pack Outcast."
+msgstr ""
+
 #: ../../EMN.rst:928
-msgid "Weaver of Lightning"
+msgid ":mtgtip:`Weaver of Lightning`"
 msgstr ""
 
 #: ../../EMN.rst:925 ../../EMN.rst:987 ../../EMN.rst:1003
@@ -2014,7 +2015,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:932
-msgid "Backwoods Survivalists"
+msgid ":mtgtip:`Backwoods Survivalists`"
 msgstr ""
 
 #: ../../EMN.rst:931
@@ -2024,7 +2025,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:936
-msgid "Bloodbriar"
+msgid ":mtgtip:`Bloodbriar`"
 msgstr ""
 
 #: ../../EMN.rst:935
@@ -2033,7 +2034,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:940
-msgid "Clear Shot"
+msgid ":mtgtip:`Clear Shot`"
 msgstr ""
 
 #: ../../EMN.rst:939
@@ -2043,7 +2044,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:946
-msgid "Crop Sigil"
+msgid ":mtgtip:`Crop Sigil`"
 msgstr ""
 
 #: ../../EMN.rst:943
@@ -2061,7 +2062,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:950
-msgid "Crossroads Consecrator"
+msgid ":mtgtip:`Crossroads Consecrator`"
 msgstr ""
 
 #: ../../EMN.rst:949
@@ -2069,7 +2070,7 @@ msgid "|mana_g|, |tap|: Target attacking Human gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../EMN.rst:956
-msgid "Eldritch Evolution"
+msgid ":mtgtip:`Eldritch Evolution`"
 msgstr ""
 
 #: ../../EMN.rst:953
@@ -2085,7 +2086,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:960
-msgid "Emrakul's Evangel"
+msgid ":mtgtip:`Emrakul's Evangel`"
 msgstr ""
 
 #: ../../EMN.rst:959
@@ -2096,7 +2097,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:964
-msgid "Emrakul's Influence"
+msgid ":mtgtip:`Emrakul's Influence`"
 msgstr ""
 
 #: ../../EMN.rst:963
@@ -2106,7 +2107,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:970
-msgid "Foul Emissary"
+msgid ":mtgtip:`Foul Emissary`"
 msgstr ""
 
 #: ../../EMN.rst:967
@@ -2123,7 +2124,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:976
-msgid "Gnarlwood Dryad"
+msgid ":mtgtip:`Gnarlwood Dryad`"
 msgstr ""
 
 #: ../../EMN.rst:973
@@ -2137,7 +2138,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:980
-msgid "Grapple with the Past"
+msgid ":mtgtip:`Grapple with the Past`"
 msgstr ""
 
 #: ../../EMN.rst:979
@@ -2147,7 +2148,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:984
-msgid "Hamlet Captain"
+msgid ":mtgtip:`Hamlet Captain`"
 msgstr ""
 
 #: ../../EMN.rst:983
@@ -2157,7 +2158,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:992
-msgid "Ishkanah, Grafwidow"
+msgid ":mtgtip:`Ishkanah, Grafwidow`"
 msgstr ""
 
 #: ../../EMN.rst:989
@@ -2174,23 +2175,23 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:996
-msgid "Kessig Prowler"
+msgid ":mtgtip:`Sinuous Predator`"
 msgstr ""
 
 #: ../../EMN.rst:995
-msgid "|mana_4|\\ |mana_g|: Transform Kessig Prowler."
-msgstr ""
-
-#: ../../EMN.rst:1000
-msgid "Sinuous Predator"
-msgstr ""
-
-#: ../../EMN.rst:999
 msgid "Sinuous Predator can't be blocked by more than one creature."
 msgstr ""
 
+#: ../../EMN.rst:1000
+msgid ":mtgtip:`Kessig Prowler`"
+msgstr ""
+
+#: ../../EMN.rst:999
+msgid "|mana_4|\\ |mana_g|: Transform Kessig Prowler."
+msgstr ""
+
 #: ../../EMN.rst:1006
-msgid "Noose Constrictor"
+msgid ":mtgtip:`Noose Constrictor`"
 msgstr ""
 
 #: ../../EMN.rst:1005
@@ -2198,7 +2199,7 @@ msgid "Discard a card: Noose Constrictor gets +1/+1 until end of turn."
 msgstr ""
 
 #: ../../EMN.rst:1010
-msgid "Permeating Mass"
+msgid ":mtgtip:`Permeating Mass`"
 msgstr ""
 
 #: ../../EMN.rst:1009
@@ -2208,7 +2209,8 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1014
-msgid "Prey Upon"
+#, fuzzy
+msgid ":mtgtip:`Prey Upon`"
 msgstr "Prey Upon"
 
 #: ../../EMN.rst:1013
@@ -2220,7 +2222,7 @@ msgstr ""
 "władasz. (Zadają sobie nawzajem obrażenia równe swojej sile.)"
 
 #: ../../EMN.rst:1018
-msgid "Primal Druid"
+msgid ":mtgtip:`Primal Druid`"
 msgstr ""
 
 #: ../../EMN.rst:1017
@@ -2230,33 +2232,33 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1024
-msgid "Shrill Howler"
+msgid ":mtgtip:`Howling Chorus`"
 msgstr ""
 
 #: ../../EMN.rst:1021
-msgid "Creatures with power less than Shrill Howler's power can't block it."
-msgstr ""
-
-#: ../../EMN.rst:1023
-msgid "|mana_5|\\ |mana_g|: Transform Shrill Howler."
-msgstr ""
-
-#: ../../EMN.rst:1030
-msgid "Howling Chorus"
-msgstr ""
-
-#: ../../EMN.rst:1027
 msgid "Creatures with power less than Howling Chorus's power can't block it."
 msgstr ""
 
-#: ../../EMN.rst:1029
+#: ../../EMN.rst:1023
 msgid ""
 "Whenever Howling Chorus deals combat damage to a player, create a 3/2 "
 "colorless Eldrazi Horror creature token."
 msgstr ""
 
+#: ../../EMN.rst:1030
+msgid ":mtgtip:`Shrill Howler`"
+msgstr ""
+
+#: ../../EMN.rst:1027
+msgid "Creatures with power less than Shrill Howler's power can't block it."
+msgstr ""
+
+#: ../../EMN.rst:1029
+msgid "|mana_5|\\ |mana_g|: Transform Shrill Howler."
+msgstr ""
+
 #: ../../EMN.rst:1034
-msgid "Somberwald Stag"
+msgid ":mtgtip:`Somberwald Stag`"
 msgstr ""
 
 #: ../../EMN.rst:1033
@@ -2266,7 +2268,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1040
-msgid "Spirit of the Hunt"
+msgid ":mtgtip:`Spirit of the Hunt`"
 msgstr ""
 
 #: ../../EMN.rst:1039
@@ -2276,7 +2278,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1044
-msgid "Splendid Reclamation"
+msgid ":mtgtip:`Splendid Reclamation`"
 msgstr ""
 
 #: ../../EMN.rst:1043
@@ -2284,7 +2286,7 @@ msgid "Return all land cards from your graveyard to the battlefield tapped."
 msgstr ""
 
 #: ../../EMN.rst:1048
-msgid "Springsage Ritual"
+msgid ":mtgtip:`Springsage Ritual`"
 msgstr ""
 
 #: ../../EMN.rst:1047
@@ -2292,64 +2294,64 @@ msgid "Destroy target artifact or enchantment. You gain 4 life."
 msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
 
 #: ../../EMN.rst:1054
-msgid "Swift Spinner"
+msgid ":mtgtip:`Swift Spinner`"
 msgstr ""
 
 #: ../../EMN.rst:1053
 msgid "Reach (This creature can block creatures with flying.)"
 msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
-#: ../../EMN.rst:1060
-msgid "Tangleclaw Werewolf"
+#: ../../EMN.rst:1062
+msgid ":mtgtip:`Fibrous Entangler`"
 msgstr ""
 
-#: ../../EMN.rst:1057
-msgid "Tangleclaw Werewolf can block an additional creature each combat."
-msgstr ""
-
-#: ../../EMN.rst:1059
-msgid "|mana_6|\\ |mana_g|: Transform Tangleclaw Werewolf."
-msgstr ""
-
-#: ../../EMN.rst:1068
-msgid "Fibrous Entangler"
-msgstr ""
-
-#: ../../EMN.rst:1063 ../../EMN.rst:1103
+#: ../../EMN.rst:1057 ../../EMN.rst:1103
 msgid "Vigilance"
 msgstr "Czujność"
 
-#: ../../EMN.rst:1065
+#: ../../EMN.rst:1059
 msgid "Fibrous Entangler must be blocked if able."
 msgstr ""
 
-#: ../../EMN.rst:1067
+#: ../../EMN.rst:1061
 msgid "Fibrous Entangler can block an additional creature each combat."
 msgstr ""
 
-#: ../../EMN.rst:1076
-msgid "Ulvenwald Captive"
+#: ../../EMN.rst:1068
+msgid ":mtgtip:`Tangleclaw Werewolf`"
 msgstr ""
 
-#: ../../EMN.rst:1073
-msgid "|tap|: Add |mana_g|."
-msgstr "|tap|: Dostajesz |mana_g|."
-
-#: ../../EMN.rst:1075
-msgid "|mana_5|\\ |mana_g|\\ |mana_g|: Transform Ulvenwald Captive."
+#: ../../EMN.rst:1065
+msgid "Tangleclaw Werewolf can block an additional creature each combat."
 msgstr ""
 
-#: ../../EMN.rst:1080
-msgid "Ulvenwald Abomination"
+#: ../../EMN.rst:1067
+msgid "|mana_6|\\ |mana_g|: Transform Tangleclaw Werewolf."
 msgstr ""
 
-#: ../../EMN.rst:1079
+#: ../../EMN.rst:1072
+msgid ":mtgtip:`Ulvenwald Abomination`"
+msgstr ""
+
+#: ../../EMN.rst:1071
 #, fuzzy
 msgid "|tap|: Add |colorless|\\ |colorless|."
 msgstr "|tap|: Dostajesz |colorless|."
 
+#: ../../EMN.rst:1080
+msgid ":mtgtip:`Ulvenwald Captive`"
+msgstr ""
+
+#: ../../EMN.rst:1077
+msgid "|tap|: Add |mana_g|."
+msgstr "|tap|: Dostajesz |mana_g|."
+
+#: ../../EMN.rst:1079
+msgid "|mana_5|\\ |mana_g|\\ |mana_g|: Transform Ulvenwald Captive."
+msgstr ""
+
 #: ../../EMN.rst:1084
-msgid "Ulvenwald Observer"
+msgid ":mtgtip:`Ulvenwald Observer`"
 msgstr ""
 
 #: ../../EMN.rst:1083
@@ -2359,7 +2361,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1088
-msgid "Waxing Moon"
+msgid ":mtgtip:`Waxing Moon`"
 msgstr ""
 
 #: ../../EMN.rst:1087
@@ -2369,7 +2371,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1096
-msgid "Wolfkin Bond"
+msgid ":mtgtip:`Wolfkin Bond`"
 msgstr ""
 
 #: ../../EMN.rst:1093
@@ -2379,7 +2381,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1100
-msgid "Woodcutter's Grit"
+msgid ":mtgtip:`Woodcutter's Grit`"
 msgstr ""
 
 #: ../../EMN.rst:1099
@@ -2389,11 +2391,11 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1104
-msgid "Woodland Patrol"
+msgid ":mtgtip:`Woodland Patrol`"
 msgstr ""
 
 #: ../../EMN.rst:1110
-msgid "Bloodhall Priest"
+msgid ":mtgtip:`Bloodhall Priest`"
 msgstr ""
 
 #: ../../EMN.rst:1107
@@ -2410,7 +2412,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1114
-msgid "Campaign of Vengeance"
+msgid ":mtgtip:`Campaign of Vengeance`"
 msgstr ""
 
 #: ../../EMN.rst:1113
@@ -2422,7 +2424,7 @@ msgstr ""
 "a ty zyskujesz 1 życie."
 
 #: ../../EMN.rst:1120
-msgid "Gisa and Geralf"
+msgid ":mtgtip:`Gisa and Geralf`"
 msgstr ""
 
 #: ../../EMN.rst:1117
@@ -2438,7 +2440,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1128
-msgid "Grim Flayer"
+msgid ":mtgtip:`Grim Flayer`"
 msgstr ""
 
 #: ../../EMN.rst:1125
@@ -2455,7 +2457,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1136
-msgid "Heron's Grace Champion"
+msgid ":mtgtip:`Heron's Grace Champion`"
 msgstr ""
 
 #: ../../EMN.rst:1135
@@ -2465,7 +2467,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1142
-msgid "Mercurial Geists"
+msgid ":mtgtip:`Mercurial Geists`"
 msgstr ""
 
 #: ../../EMN.rst:1141
@@ -2475,7 +2477,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1148
-msgid "Mournwillow"
+msgid ":mtgtip:`Mournwillow`"
 msgstr ""
 
 #: ../../EMN.rst:1147
@@ -2486,7 +2488,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1152
-msgid "Ride Down"
+msgid ":mtgtip:`Ride Down`"
 msgstr ""
 
 #: ../../EMN.rst:1151
@@ -2496,7 +2498,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1162
-msgid "Spell Queller"
+msgid ":mtgtip:`Spell Queller`"
 msgstr ""
 
 #: ../../EMN.rst:1159
@@ -2512,7 +2514,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1170
-msgid "Tamiyo, Field Researcher"
+msgid ":mtgtip:`Tamiyo, Field Researcher`"
 msgstr ""
 
 #: ../../EMN.rst:1165
@@ -2534,39 +2536,39 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1176
-msgid "Ulrich of the Krallenhorde"
+msgid ":mtgtip:`Ulrich, Uncontested Alpha`"
 msgstr ""
 
 #: ../../EMN.rst:1173
-msgid ""
-"Whenever this creature enters the battlefield or transforms into Ulrich of "
-"the Krallenhorde, target creature gets +4/+4 until end of turn."
-msgstr ""
-
-#: ../../EMN.rst:1175
-msgid ""
-"At the beginning of each upkeep, if no spells were cast last turn, transform "
-"Ulrich of the Krallenhorde."
-msgstr ""
-
-#: ../../EMN.rst:1182
-msgid "Ulrich, Uncontested Alpha"
-msgstr ""
-
-#: ../../EMN.rst:1179
 msgid ""
 "Whenever this creature transforms into Ulrich, Uncontested Alpha, you may "
 "have it fight target non-Werewolf creature you don't control."
 msgstr ""
 
-#: ../../EMN.rst:1181
+#: ../../EMN.rst:1175
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
 "turn, transform Ulrich, Uncontested Alpha."
 msgstr ""
 
+#: ../../EMN.rst:1182
+msgid ":mtgtip:`Ulrich of the Krallenhorde`"
+msgstr ""
+
+#: ../../EMN.rst:1179
+msgid ""
+"Whenever this creature enters the battlefield or transforms into Ulrich of "
+"the Krallenhorde, target creature gets +4/+4 until end of turn."
+msgstr ""
+
+#: ../../EMN.rst:1181
+msgid ""
+"At the beginning of each upkeep, if no spells were cast last turn, transform "
+"Ulrich of the Krallenhorde."
+msgstr ""
+
 #: ../../EMN.rst:1188
-msgid "Cathar's Shield"
+msgid ":mtgtip:`Cathar's Shield`"
 msgstr ""
 
 #: ../../EMN.rst:1185
@@ -2581,38 +2583,38 @@ msgstr ""
 "Wyposaż |mana_3| (|mana_3|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Wyposaż wyłącznie jako obrzęd.)"
 
-#: ../../EMN.rst:1196
-msgid "Cryptolith Fragment"
+#: ../../EMN.rst:1194
+msgid ":mtgtip:`Aurora of Emrakul`"
 msgstr ""
 
 #: ../../EMN.rst:1191
+msgid "Flying, deathtouch"
+msgstr "Latanie, dotyk śmierci"
+
+#: ../../EMN.rst:1193
+msgid "Whenever Aurora of Emrakul attacks, each opponent loses 3 life."
+msgstr ""
+
+#: ../../EMN.rst:1202
+msgid ":mtgtip:`Cryptolith Fragment`"
+msgstr ""
+
+#: ../../EMN.rst:1197
 msgid "Cryptolith Fragment enters the battlefield tapped."
 msgstr ""
 
-#: ../../EMN.rst:1193
+#: ../../EMN.rst:1199
 msgid "|tap|: Add one mana of any color. Each player loses 1 life."
 msgstr ""
 
-#: ../../EMN.rst:1195
+#: ../../EMN.rst:1201
 msgid ""
 "At the beginning of your upkeep, if each player has 10 or less life, "
 "transform Cryptolith Fragment."
 msgstr ""
 
-#: ../../EMN.rst:1202
-msgid "Aurora of Emrakul"
-msgstr ""
-
-#: ../../EMN.rst:1199
-msgid "Flying, deathtouch"
-msgstr "Latanie, dotyk śmierci"
-
-#: ../../EMN.rst:1201
-msgid "Whenever Aurora of Emrakul attacks, each opponent loses 3 life."
-msgstr ""
-
 #: ../../EMN.rst:1208
-msgid "Cultist's Staff"
+msgid ":mtgtip:`Cultist's Staff`"
 msgstr ""
 
 #: ../../EMN.rst:1205
@@ -2620,11 +2622,12 @@ msgid "Equipped creature gets +2/+2."
 msgstr ""
 
 #: ../../EMN.rst:1210
-msgid "Field Creeper"
+#, fuzzy
+msgid ":mtgtip:`Field Creeper`"
 msgstr "Field Creeper"
 
 #: ../../EMN.rst:1216
-msgid "Geist-Fueled Scarecrow"
+msgid ":mtgtip:`Geist-Fueled Scarecrow`"
 msgstr ""
 
 #: ../../EMN.rst:1215
@@ -2632,7 +2635,7 @@ msgid "Creature spells you cast cost |mana_1| more to cast."
 msgstr ""
 
 #: ../../EMN.rst:1220
-msgid "Lupine Prototype"
+msgid ":mtgtip:`Lupine Prototype`"
 msgstr ""
 
 #: ../../EMN.rst:1219
@@ -2641,7 +2644,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1226
-msgid "Slayer's Cleaver"
+msgid ":mtgtip:`Slayer's Cleaver`"
 msgstr ""
 
 #: ../../EMN.rst:1223
@@ -2653,7 +2656,7 @@ msgid "Equip |mana_4|"
 msgstr ""
 
 #: ../../EMN.rst:1230
-msgid "Soul Separator"
+msgid ":mtgtip:`Soul Separator`"
 msgstr ""
 
 #: ../../EMN.rst:1229
@@ -2666,7 +2669,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1240
-msgid "Stitcher's Graft"
+msgid ":mtgtip:`Stitcher's Graft`"
 msgstr ""
 
 #: ../../EMN.rst:1233
@@ -2690,7 +2693,7 @@ msgid "Equip |mana_2|"
 msgstr "Wyposaż |mana_2|"
 
 #: ../../EMN.rst:1248
-msgid "Terrarion"
+msgid ":mtgtip:`Terrarion`"
 msgstr ""
 
 #: ../../EMN.rst:1243
@@ -2709,7 +2712,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1256
-msgid "Thirsting Axe"
+msgid ":mtgtip:`Thirsting Axe`"
 msgstr ""
 
 #: ../../EMN.rst:1251
@@ -2723,7 +2726,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1262
-msgid "Geier Reach Sanitarium"
+msgid ":mtgtip:`Geier Reach Sanitarium`"
 msgstr ""
 
 #: ../../EMN.rst:1259 ../../EMN.rst:1265 ../../EMN.rst:1275
@@ -2735,7 +2738,7 @@ msgid "|mana_2|, |tap|: Each player draws a card, then discards a card."
 msgstr ""
 
 #: ../../EMN.rst:1270
-msgid "Hanweir Battlements"
+msgid ":mtgtip:`Hanweir Battlements`"
 msgstr ""
 
 #: ../../EMN.rst:1267
@@ -2750,7 +2753,7 @@ msgid ""
 msgstr ""
 
 #: ../../EMN.rst:1275
-msgid "Nephalia Academy"
+msgid ":mtgtip:`Nephalia Academy`"
 msgstr ""
 
 #: ../../EMN.rst:1273
@@ -2759,3 +2762,6 @@ msgid ""
 "may reveal that card and put it on top of your library instead of putting it "
 "anywhere else."
 msgstr ""
+
+#~ msgid "Murder"
+#~ msgstr "Murder (Morderstwo)"
