@@ -21,7 +21,7 @@ Tłumaczenie dodatków
 Nadochodzące
 ------------
 
-* :mtgexp:`RNA` :doc:`Ravnica Allegiance spoiler (pełny)<RNA>` (5%)
+* :mtgexp:`RNA` :doc:`Ravnica Allegiance spoiler (pełny)<RNA>` (100%)
 
 Standard
 --------
