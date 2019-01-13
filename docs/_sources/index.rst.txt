@@ -23,52 +23,52 @@ Tłumaczenie dodatków
 Nadochodzące
 ------------
 
-* :doc:`Ravnica Allegiance spoiler (90 kart)<RNA>` (?%)
+* :doc:`Ravnica Allegiance spoiler (90 kart)<RNA>` :mtgexp:`RNA` (?%)
 
 Standard
 --------
 
-* :doc:`Guilds of Ravnica<GRN>` (100%)
-* :doc:`Magic 2019 Core Set<M19>` (100%)
-* :doc:`Dominaria<DOM>` (100%)
-* :doc:`Rivals of Ixalan<RIX>` (100%)
-* :doc:`Ixalan<XLN>` (100%)
+* :doc:`Guilds of Ravnica<GRN>` :mtgexp:`GRN` (100%)
+* :doc:`Magic 2019 Core Set<M19>` :mtgexp:`M19` (100%)
+* :doc:`Dominaria<DOM>` :mtgexp:`DOM` (100%)
+* :doc:`Rivals of Ixalan<RIX>` :mtgexp:`RIX` (100%)
+* :doc:`Ixalan<XLN>` :mtgexp:`XLN` (100%)
 
 Modern
 ------
 
-* :doc:`Hour of Devastation<HOU>` (11%)
-* :doc:`Amonkhet<AKH>` (18%)
-* :doc:`Aether Revolt<AER>` (12%)
-* :doc:`Kaladesh<KLD>` (9%)
-* :doc:`Eldritch Moon<EMN>` (7%)
-* :doc:`Shadows over Innistrad<SOI>` (11%)
-* :doc:`Oath of the Gatewatch<OGW>` (9%)
-* :doc:`Battle for Zendikar<BFZ>` (11%)
-* :doc:`Origins<ORI>` (18%)
-* :doc:`Dragons of Tarkir<DTK>` (13%)
-* :doc:`Fate Reforged<FRF>` (100%)
-* :doc:`Khans of Tarkir<KTK>` (85%)
-* :doc:`Magic 2015 Core Set<M15>` (20%)
-* :doc:`Journey into Nyx<JOU>` (38%)
-* :doc:`Born of the Gods<BNG>` (100%)
-* :doc:`Theros<THS>` (100%)
-* :doc:`Magic 2014 Core Set<M14>` (100%)
-* :doc:`Dragons' Maze<DGM>` (100%)
-* :doc:`Gatecrash<GTC>` (100%)
-* :doc:`Return to Ravnica<RTR>` (100%)
-* :doc:`Avacyn Restored<AVR>` (17%)
-* :doc:`Dark Ascension<DKA>` (10%)
-* :doc:`Innistrad<ISD>` (13%)
-* :doc:`New Phyrexia<NPH>` (9%)
+* :doc:`Hour of Devastation<HOU>` :mtgexp:`HOU` (11%)
+* :doc:`Amonkhet<AKH>` :mtgexp:`AKH` (18%)
+* :doc:`Aether Revolt<AER>` :mtgexp:`AER` (12%)
+* :doc:`Kaladesh<KLD>` :mtgexp:`KLD` (9%)
+* :doc:`Eldritch Moon<EMN>` :mtgexp:`EMN` (7%)
+* :doc:`Shadows over Innistrad<SOI>` :mtgexp:`SOI` (11%)
+* :doc:`Oath of the Gatewatch<OGW>` :mtgexp:`OGW` (9%)
+* :doc:`Battle for Zendikar<BFZ>` :mtgexp:`BFZ` (11%)
+* :doc:`Origins<ORI>` :mtgexp:`ORI` (18%)
+* :doc:`Dragons of Tarkir<DTK>` :mtgexp:`DTK` (13%)
+* :doc:`Fate Reforged<FRF>` :mtgexp:`FRF` (100%)
+* :doc:`Khans of Tarkir<KTK>` :mtgexp:`KTK` (85%)
+* :doc:`Magic 2015 Core Set<M15>` :mtgexp:`M15` (20%)
+* :doc:`Journey into Nyx<JOU>` :mtgexp:`JOU` (38%)
+* :doc:`Born of the Gods<BNG>` :mtgexp:`BNG` (100%)
+* :doc:`Theros<THS>` :mtgexp:`THS` (100%)
+* :doc:`Magic 2014 Core Set<M14>` :mtgexp:`M14` (100%)
+* :doc:`Dragons' Maze<DGM>` :mtgexp:`DGM` (100%)
+* :doc:`Gatecrash<GTC>` :mtgexp:`GTC` (100%)
+* :doc:`Return to Ravnica<RTR>` :mtgexp:`RTR` (100%)
+* :doc:`Avacyn Restored<AVR>` :mtgexp:`AVR` (17%)
+* :doc:`Dark Ascension<DKA>` :mtgexp:`DKA` (10%)
+* :doc:`Innistrad<ISD>` :mtgexp:`ISD` (13%)
+* :doc:`New Phyrexia<NPH>` :mtgexp:`NPH` (9%)
 
 Pozostałe
 ---------
 
-* :doc:`Explorers of Ixalan<E02>` (0%)
-* :doc:`Battlebond<BBD>` (0%)
-* :doc:`Commander 2014<C14>` (9%)
-* :doc:`Commander 2013<C13>` (13%)
+* :doc:`Explorers of Ixalan<E02>` :mtgexp:`E02` (0%)
+* :doc:`Battlebond<BBD>` :mtgexp:`BBD` (0%)
+* :doc:`Commander 2014<C14>` :mtgexp:`C14` (9%)
+* :doc:`Commander 2013<C13>` :mtgexp:`C13` (13%)
 
 Specjalne karty
 ---------------
