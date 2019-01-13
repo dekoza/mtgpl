@@ -109,56 +109,54 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 .. toctree::
    :hidden:
 
-   AER
-   AKH
-   AVR
-   BFZ
-   BNG
-   C13
-   C14
-   C15
-   C16
-   C17
-   DGM
-   DKA
-   DOM
-   DTK
-   E02
-   EMN
-   FRF
-   GRN
-   GTC
-   HOU
-   ISD
-   JOU
-   KLD
-   KTK
-   M14
-   M15
-   M19
-   NPH
-   OGW
-   ORI
-   RIX
+   rulebook
    RNA
-   RTR
-   SOI
-   THS
+   GRN
+   M19
+   DOM
+   RIX
    XLN
+   HOU
+   AKH
+   AER
+   KLD
+   EMN
+   SOI
+   OGW
+   BFZ
+   ORI
+   DTK
+   FRF
+   KTK
+   M15
+   JOU
+   BNG
+   THS
+   M14
+   DGM
+   GTC
+   RTR
+   AVR
+   DKA
+   ISD
+   NPH
+
+   E02
    BBD
+   C14
+   C13
 
    JOU_god
-   rationale
    THS_heroes
    THS_hydra
    BNG_horde
 
-   
-   rulebook
-   game_variants
-   polish_cards
-   symbols
-   changelog
    commander
    commander_banned
+
+   game_variants
+   rationale
+   polish_cards
+   symbols
    glossary
+   changelog
