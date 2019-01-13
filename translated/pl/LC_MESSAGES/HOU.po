@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-13 22:24+0000\n"
-"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
+"PO-Revision-Date: 2019-01-14 06:26+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -21,9 +21,8 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../HOU.rst:5
-#, fuzzy
 msgid ":mtgexp:`HOU` Hour of Devastation"
-msgstr "Hour of Devastation"
+msgstr ":mtgexp:`HOU` Hour of Devastation (Godzina Zagłady)"
 
 #: ../../HOU.rst:10
 msgid ""
@@ -132,7 +131,7 @@ msgstr ""
 
 #: ../../HOU.rst:39
 msgid "Other Horses you control have indestructible."
-msgstr ""
+msgstr "Inne Konie pod twoim władaniem mają niezniszczalność."
 
 #: ../../HOU.rst:41
 msgid ""
