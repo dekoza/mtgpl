@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 15:26+0000\n"
+"PO-Revision-Date: 2019-01-13 17:36+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dom/pl/>\n"
 "Language: pl\n"
@@ -2543,9 +2543,8 @@ msgid "|tap|: You may put a land card from your hand onto the battlefield."
 msgstr "|tap|: Możesz umieścić kartę lądu z twojej ręki na polu walki."
 
 #: ../../DOM.rst:958
-#, fuzzy
 msgid ":mtgtip:`Mammoth Spider`"
-msgstr "Mammoth Spider (Pająk Mamuci)"
+msgstr ":mtgtip:`Mammoth Spider` (Pająk mamuci)"
 
 #: ../../DOM.rst:957
 msgid "Reach"
