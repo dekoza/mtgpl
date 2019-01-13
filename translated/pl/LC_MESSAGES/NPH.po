@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 00:10+0000\n"
+"PO-Revision-Date: 2019-01-13 17:36+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/nph/pl/>\n"
 "Language: pl\n"
@@ -151,7 +151,7 @@ msgstr ""
 # adaf5668962f49d189a5c3bd7af1e263
 #: ../../NPH.rst:49
 msgid "Tap target creature."
-msgstr "Zaznacz wskazanego stwora."
+msgstr "Przekręć wskazanego stwora."
 
 # f7d3e7fdb5024002956986953571c2d5
 #: ../../NPH.rst:51
@@ -1672,6 +1672,8 @@ msgid ""
 "Whenever you tap a land for mana, add one mana of any type that land "
 "produced."
 msgstr ""
+"Ilekroć przekręcisz ląd pobierając manę, dostajesz jedną manę w jednym z "
+"typów wydanych przez ów ląd."
 
 # 57c957363aa74e139f2b2d0f87d5975d
 #: ../../NPH.rst:745
