@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 15:26+0000\n"
+"PO-Revision-Date: 2019-01-13 17:36+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
@@ -153,6 +153,8 @@ msgid ""
 "Enchanted creature can't attack or block, and its activated abilities can't "
 "be activated."
 msgstr ""
+"Zauroczony stwór nie może atakować ani blokować, a jego aktywowane zdolności "
+"nie mogą być aktywowane."
 
 #: ../../HOU.rst:60
 msgid ":mtgtip:`Disposal Mummy`"
@@ -1409,12 +1411,13 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:636
+#, fuzzy
 msgid ":mtgtip:`Gift of Strength`"
-msgstr ""
+msgstr ":mtgtip:`Gift of Strength`"
 
 #: ../../HOU.rst:635
 msgid "Target creature gets +3/+3 and gains reach until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz zasięg."
 
 #: ../../HOU.rst:638
 msgid ":mtgtip:`Harrier Naga`"
@@ -2384,11 +2387,10 @@ msgid ":mtgtip:`Survivors' Encampment`"
 msgstr ""
 
 #: ../../HOU.rst:1089
-#, fuzzy
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
-"|tap|, przekręć odkręconego stwora pod twoim władaniem: Dodaj jedną manę "
-"dowolnego koloru do twojej puli many."
+"|tap|, przekręć odkręconego stwora pod twoim władaniem: Dostajesz jedną manę "
+"dowolnego koloru."
 
 #: ../../HOU.rst:1094
 msgid ":mtgtip:`Plains`"
