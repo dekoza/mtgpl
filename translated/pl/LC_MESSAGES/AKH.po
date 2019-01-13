@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 15:26+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-13 22:24+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -3142,7 +3142,7 @@ msgstr ""
 #: ../../AKH.rst:1453
 #, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_g| lub |mana_w|.)"
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../AKH.rst:1458
 msgid ":mtgtip:`Island`"
@@ -3151,7 +3151,7 @@ msgstr ""
 #: ../../AKH.rst:1457
 #, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_w| lub |mana_u|.)"
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../AKH.rst:1462
 msgid ":mtgtip:`Swamp`"
@@ -3160,7 +3160,7 @@ msgstr ""
 #: ../../AKH.rst:1461
 #, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_u| lub |mana_b|.)"
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../AKH.rst:1466
 #, fuzzy
@@ -3170,7 +3170,7 @@ msgstr ""
 #: ../../AKH.rst:1465
 #, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_b| lub |mana_r|.)"
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../AKH.rst:1470
 msgid ":mtgtip:`Forest`"
@@ -3179,7 +3179,7 @@ msgstr ""
 #: ../../AKH.rst:1469
 #, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_r| lub |mana_g|.)"
+msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 #: ../../AKH.rst:1478
 msgid ":mtgtip:`Gideon, Martial Paragon`"

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 00:05+0000\n"
+"PO-Revision-Date: 2019-01-13 22:52+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -66,7 +66,9 @@ msgstr ""
 msgid ""
 "At the beginning of your upkeep, you may have two target players exchange "
 "life totals."
-msgstr "Na początku twojego kroku"
+msgstr ""
+"Na początku twojego kroku utrzymania możesz sprawić, że dwaj wskazani gracze "
+"zamienią się punktami życia."
 
 #: ../../XLN.rst:26
 #, fuzzy
@@ -252,7 +254,7 @@ msgid ""
 "When Ixalan's Binding enters the battlefield, exile target nonland permanent "
 "an opponent controls until Ixalan's Binding leaves the battlefield."
 msgstr ""
-"Kiedy ten urok wejdzie na pole walki, wypędź wskazany nie-lądowy permanent "
+"Kiedy ten urok wejdzie na pole walki, wygnaj wskazany nie-lądowy permanent "
 "spod władania przeciwnika dopóki ten urok nie opuści pola walki."
 
 #: ../../XLN.rst:95
@@ -3813,7 +3815,7 @@ msgstr ""
 #: ../../XLN.rst:1387
 #, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../XLN.rst:1392
 msgid ":mtgtip:`Island`"
@@ -3822,7 +3824,7 @@ msgstr ""
 #: ../../XLN.rst:1391
 #, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../XLN.rst:1396
 msgid ":mtgtip:`Swamp`"
@@ -3831,7 +3833,7 @@ msgstr ""
 #: ../../XLN.rst:1395
 #, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../XLN.rst:1400
 #, fuzzy
@@ -3841,7 +3843,7 @@ msgstr ""
 #: ../../XLN.rst:1399
 #, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "|tap|: Dostajesz |mana_r|."
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../XLN.rst:1404
 msgid ":mtgtip:`Forest`"
@@ -3850,7 +3852,7 @@ msgstr ""
 #: ../../XLN.rst:1403
 #, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 #: ../../XLN.rst:1412
 #, fuzzy

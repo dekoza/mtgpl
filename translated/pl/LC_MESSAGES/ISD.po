@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 17:36+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-13 22:24+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -3497,7 +3497,7 @@ msgstr ""
 #: ../../ISD.rst:1441
 #, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../ISD.rst:1446
 msgid ":mtgtip:`Island`"
@@ -3507,7 +3507,7 @@ msgstr ""
 #: ../../ISD.rst:1445
 #, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../ISD.rst:1450
 msgid ":mtgtip:`Swamp`"
@@ -3517,7 +3517,7 @@ msgstr ""
 #: ../../ISD.rst:1449
 #, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 # a5d1e6aa501c49c3b7559600276a51ca
 #: ../../ISD.rst:1454
@@ -3529,7 +3529,7 @@ msgstr ""
 #: ../../ISD.rst:1453
 #, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../ISD.rst:1457
 msgid ":mtgtip:`Forest`"
@@ -3539,7 +3539,7 @@ msgstr ""
 #: ../../ISD.rst:1457
 #, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 # 356ea75fd01940caba3ff74f86388354
 #~ msgid "Innistrad"

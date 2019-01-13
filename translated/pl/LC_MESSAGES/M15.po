@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 15:26+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-13 22:24+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m15/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -1231,7 +1231,7 @@ msgstr ""
 
 #: ../../M15.rst:473
 msgid "Lifelink"
-msgstr ""
+msgstr "Więź życia"
 
 #: ../../M15.rst:480
 msgid ":mtgtip:`Covenant of Blood`"
@@ -3313,7 +3313,7 @@ msgstr ""
 #: ../../M15.rst:1319
 #, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../M15.rst:1324
 msgid ":mtgtip:`Island`"
@@ -3330,7 +3330,7 @@ msgstr ""
 #: ../../M15.rst:1323
 #, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../M15.rst:1328
 msgid ":mtgtip:`Swamp`"
@@ -3347,7 +3347,7 @@ msgstr ""
 #: ../../M15.rst:1327
 #, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 # b6066fbf1ab74dc8a73378a4f89aa01b
 #: ../../M15.rst:1332
@@ -3366,7 +3366,7 @@ msgstr ""
 #: ../../M15.rst:1331
 #, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../M15.rst:1336
 msgid ":mtgtip:`Forest`"
@@ -3383,7 +3383,7 @@ msgstr ""
 #: ../../M15.rst:1335
 #, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 # 9a22be02cf754e07a20492dde06748a1
 #: ../../M15.rst:1342

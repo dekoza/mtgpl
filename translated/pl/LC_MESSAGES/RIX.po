@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 15:26+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-13 22:24+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -2851,7 +2851,7 @@ msgstr ""
 #: ../../RIX.rst:1099
 #, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../RIX.rst:1104
 msgid ":mtgtip:`Island`"
@@ -2860,7 +2860,7 @@ msgstr ""
 #: ../../RIX.rst:1103
 #, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../RIX.rst:1108
 msgid ":mtgtip:`Swamp`"
@@ -2869,7 +2869,7 @@ msgstr ""
 #: ../../RIX.rst:1107
 #, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../RIX.rst:1112
 #, fuzzy
@@ -2879,7 +2879,7 @@ msgstr ""
 #: ../../RIX.rst:1111
 #, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../RIX.rst:1116
 msgid ":mtgtip:`Forest`"
@@ -2888,7 +2888,7 @@ msgstr ""
 #: ../../RIX.rst:1115
 #, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
+msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 #: ../../RIX.rst:1124
 #, fuzzy
