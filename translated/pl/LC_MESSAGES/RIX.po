@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 13:06+0100\n"
-"PO-Revision-Date: 2019-01-13 00:10+0000\n"
+"PO-Revision-Date: 2019-01-13 15:26+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rix/pl/>\n"
 "Language: pl\n"
@@ -460,7 +460,7 @@ msgstr "Ta karta ma błysk o ile władasz Wodnikiem."
 
 #: ../../RIX.rst:183
 msgid "Return target creature to its owner's hand."
-msgstr "Zwróć wskazanego stwora do ręki jego władcy."
+msgstr "Zwróć wskazanego stwora do ręki jego właściciela."
 
 #: ../../RIX.rst:185 ../../RIX.rst:451 ../../RIX.rst:609 ../../RIX.rst:657
 msgid "Draw a card."
@@ -1058,7 +1058,7 @@ msgstr "Reaver Ambush"
 
 #: ../../RIX.rst:445
 msgid "Exile target creature with power 3 or less."
-msgstr "Wygnaj wskazanego stwora z siłą 3 lub mniejszą."
+msgstr "Wygnaj wskazanego stwora o sile 3 lub mniejszej."
 
 #: ../../RIX.rst:452
 msgid "Recover"
