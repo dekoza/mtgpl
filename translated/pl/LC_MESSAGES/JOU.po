@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-13 13:23+0100\n"
+"POT-Creation-Date: 2019-01-13 21:34+0100\n"
 "PO-Revision-Date: 2019-01-13 00:10+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/jou/pl/>\n"
@@ -26,7 +26,10 @@ msgid ":mtgexp:`JOU` Journey into Nyx"
 msgstr "Journey into Nyx (Podróż do Nyx)"
 
 #: ../../JOU.rst:10
-msgid ":mtgtip:`Aegis of the Gods`"
+msgid ""
+":mtgtip:`Aegis of the Gods<https://img.scryfall.com/cards/border_crop/en/"
+"jou/1.jpg?1517813031|https://scryfall.com/card/jou/1/aegis-of-the-gods?"
+"utm_source=api>`"
 msgstr ""
 
 # 3acc6523c11a457689b94b90d19d37cf
@@ -39,7 +42,10 @@ msgstr ""
 "twoich przeciwników.)"
 
 #: ../../JOU.rst:16
-msgid ":mtgtip:`Ajani's Presence`"
+msgid ""
+":mtgtip:`Ajani's Presence<https://img.scryfall.com/cards/border_crop/en/"
+"jou/2.jpg?1517813031|https://scryfall.com/card/jou/2/ajanis-presence?"
+"utm_source=api>`"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
@@ -64,7 +70,10 @@ msgstr ""
 "niszczą ich.)"
 
 #: ../../JOU.rst:20
-msgid ":mtgtip:`Akroan Mastiff`"
+msgid ""
+":mtgtip:`Akroan Mastiff<https://img.scryfall.com/cards/border_crop/en/jou/3."
+"jpg?1517813031|https://scryfall.com/card/jou/3/akroan-mastiff?"
+"utm_source=api>`"
 msgstr ""
 
 # 1eeb4ee5ab9f456c888e8c7b312168f0
@@ -73,7 +82,10 @@ msgid "|mana_w|, |tap|: Tap target creature."
 msgstr "|mana_w|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../JOU.rst:26
-msgid ":mtgtip:`Armament of Nyx`"
+msgid ""
+":mtgtip:`Armament of Nyx<https://img.scryfall.com/cards/border_crop/en/jou/4."
+"jpg?1517813031|https://scryfall.com/card/jou/4/armament-of-nyx?"
+"utm_source=api>`"
 msgstr ""
 
 # 8c7de076f84446d1863888d926d47a43
@@ -102,7 +114,10 @@ msgstr ""
 "Cios oraz normalnie.)"
 
 #: ../../JOU.rst:30
-msgid ":mtgtip:`Banishing Light`"
+msgid ""
+":mtgtip:`Banishing Light<https://img.scryfall.com/cards/border_crop/en/jou/5."
+"jpg?1517813031|https://scryfall.com/card/jou/5/banishing-light?"
+"utm_source=api>`"
 msgstr ""
 
 # 50e36db6a63f47ba86f75412525414ae
@@ -114,7 +129,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:36
-msgid ":mtgtip:`Dawnbringer Charioteers`"
+msgid ""
+":mtgtip:`Dawnbringer Charioteers<https://img.scryfall.com/cards/border_crop/"
+"en/jou/6.jpg?1517813031|https://scryfall.com/card/jou/6/dawnbringer-"
+"charioteers?utm_source=api>`"
 msgstr ""
 
 # ea3a2a1d25c5473b827a541cb2c2d0e8
@@ -130,7 +148,9 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:40
-msgid ":mtgtip:`Deicide`"
+msgid ""
+":mtgtip:`Deicide<https://img.scryfall.com/cards/border_crop/en/jou/7.jpg?"
+"1517813031|https://scryfall.com/card/jou/7/deicide?utm_source=api>`"
 msgstr ""
 
 # ce400e4c896446c5993c616a53715d0b
@@ -147,7 +167,10 @@ msgstr ""
 "jej władcy i wypędź je. Następnie ów gracz tasuje swoją bibliotekę."
 
 #: ../../JOU.rst:46
-msgid ":mtgtip:`Dictate of Heliod`"
+msgid ""
+":mtgtip:`Dictate of Heliod<https://img.scryfall.com/cards/border_crop/en/"
+"jou/8.jpg?1517813031|https://scryfall.com/card/jou/8/dictate-of-heliod?"
+"utm_source=api>`"
 msgstr ""
 
 # 5a36ac1dd9774dca8ec781f7a3545feb
@@ -166,7 +189,10 @@ msgid "Creatures you control get +2/+2."
 msgstr "Stwory, którymi władasz dostają +2/+2."
 
 #: ../../JOU.rst:50
-msgid ":mtgtip:`Eagle of the Watch`"
+msgid ""
+":mtgtip:`Eagle of the Watch<https://img.scryfall.com/cards/border_crop/en/"
+"jou/9.jpg?1517813031|https://scryfall.com/card/jou/9/eagle-of-the-watch?"
+"utm_source=api>`"
 msgstr ""
 
 # 5bd88ebf79784a32aaf728fd5b43a469
@@ -175,7 +201,10 @@ msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
 #: ../../JOU.rst:54
-msgid ":mtgtip:`Eidolon of Rhetoric`"
+msgid ""
+":mtgtip:`Eidolon of Rhetoric<https://img.scryfall.com/cards/border_crop/en/"
+"jou/10.jpg?1517813031|https://scryfall.com/card/jou/10/eidolon-of-rhetoric?"
+"utm_source=api>`"
 msgstr ""
 
 # 1a052907f2b34302b2d775c45766acba
@@ -184,7 +213,10 @@ msgid "Each player can't cast more than one spell each turn."
 msgstr "Każdy z graczy nie może rzucać więcej niż jednego czaru na turę."
 
 #: ../../JOU.rst:58
-msgid ":mtgtip:`Font of Vigor`"
+msgid ""
+":mtgtip:`Font of Vigor<https://img.scryfall.com/cards/border_crop/en/jou/11."
+"jpg?1517813031|https://scryfall.com/card/jou/11/font-of-vigor?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:57
@@ -192,7 +224,9 @@ msgid "|mana_2|\\ |mana_w|, Sacrifice Font of Vigor: You gain 7 life."
 msgstr ""
 
 #: ../../JOU.rst:68
-msgid ":mtgtip:`Godsend`"
+msgid ""
+":mtgtip:`Godsend<https://img.scryfall.com/cards/border_crop/en/jou/12.jpg?"
+"1517813031|https://scryfall.com/card/jou/12/godsend?utm_source=api>`"
 msgstr ""
 
 # 27694790cf604a619c07f694259a9cc7
@@ -225,7 +259,10 @@ msgid "Equip |mana_3|"
 msgstr "Wyposaż |mana_3|"
 
 #: ../../JOU.rst:72
-msgid ":mtgtip:`Harvestguard Alseids`"
+msgid ""
+":mtgtip:`Harvestguard Alseids<https://img.scryfall.com/cards/border_crop/en/"
+"jou/13.jpg?1517813031|https://scryfall.com/card/jou/13/harvestguard-alseids?"
+"utm_source=api>`"
 msgstr ""
 
 # 4689494df6b9425d846f5a1db4ef78c9
@@ -240,7 +277,10 @@ msgstr ""
 "zadane w tej turze wskazanemu stworowi."
 
 #: ../../JOU.rst:76
-msgid ":mtgtip:`Lagonna-Band Trailblazer`"
+msgid ""
+":mtgtip:`Lagonna-Band Trailblazer<https://img.scryfall.com/cards/border_crop/"
+"en/jou/14.jpg?1517813031|https://scryfall.com/card/jou/14/lagonna-band-"
+"trailblazer?utm_source=api>`"
 msgstr ""
 
 # bdb5cc4d39584f2f9e544ed8432281bf
@@ -251,7 +291,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:82
-msgid ":mtgtip:`Launch the Fleet`"
+msgid ""
+":mtgtip:`Launch the Fleet<https://img.scryfall.com/cards/border_crop/en/"
+"jou/15.jpg?1517813031|https://scryfall.com/card/jou/15/launch-the-fleet?"
+"utm_source=api>`"
 msgstr ""
 
 # c14d085bf58547d79febcfeae3c20f52
@@ -272,7 +315,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:86
-msgid ":mtgtip:`Leonin Iconoclast`"
+msgid ""
+":mtgtip:`Leonin Iconoclast<https://img.scryfall.com/cards/border_crop/en/"
+"jou/16.jpg?1517813031|https://scryfall.com/card/jou/16/leonin-iconoclast?"
+"utm_source=api>`"
 msgstr ""
 
 # 48b3b98b05214fa997aa5cd2dac16724
@@ -283,7 +329,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:94
-msgid ":mtgtip:`Mortal Obstinacy`"
+msgid ""
+":mtgtip:`Mortal Obstinacy<https://img.scryfall.com/cards/border_crop/en/"
+"jou/17.jpg?1517813031|https://scryfall.com/card/jou/17/mortal-obstinacy?"
+"utm_source=api>`"
 msgstr ""
 
 # 8f7d9df9c71f492793c6027632c28dda
@@ -306,7 +355,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:98
-msgid ":mtgtip:`Nyx-Fleece Ram`"
+msgid ""
+":mtgtip:`Nyx-Fleece Ram<https://img.scryfall.com/cards/border_crop/en/jou/18."
+"jpg?1517813031|https://scryfall.com/card/jou/18/nyx-fleece-ram?"
+"utm_source=api>`"
 msgstr ""
 
 # 25eb5675924443b9bc93fc76bc4e7155
@@ -315,7 +367,10 @@ msgid "At the beginning of your upkeep, you gain 1 life."
 msgstr "Na początku twojego kroku utrzymania zyskujesz 1 życie."
 
 #: ../../JOU.rst:106
-msgid ":mtgtip:`Oppressive Rays`"
+msgid ""
+":mtgtip:`Oppressive Rays<https://img.scryfall.com/cards/border_crop/en/"
+"jou/19.jpg?1517813031|https://scryfall.com/card/jou/19/oppressive-rays?"
+"utm_source=api>`"
 msgstr ""
 
 # 6306075616ad4ef79f394d64a94f0946
@@ -332,14 +387,18 @@ msgid ""
 "Activated abilities of enchanted creature cost |mana_3| more to activate."
 msgstr ""
 
-# 93f702133ac14e4a8074128017fa4a3a
 #: ../../JOU.rst:108
-#, fuzzy
-msgid ":mtgtip:`Oreskos Swiftclaw`"
+msgid ""
+":mtgtip:`Oreskos Swiftclaw<https://img.scryfall.com/cards/border_crop/en/"
+"jou/20.jpg?1517813031|https://scryfall.com/card/jou/20/oreskos-swiftclaw?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:116
-msgid ":mtgtip:`Phalanx Formation`"
+msgid ""
+":mtgtip:`Phalanx Formation<https://img.scryfall.com/cards/border_crop/en/"
+"jou/21.jpg?1517813031|https://scryfall.com/card/jou/21/phalanx-formation?"
+"utm_source=api>`"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
@@ -360,7 +419,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:120
-msgid ":mtgtip:`Quarry Colossus`"
+msgid ""
+":mtgtip:`Quarry Colossus<https://img.scryfall.com/cards/border_crop/en/"
+"jou/22.jpg?1517813031|https://scryfall.com/card/jou/22/quarry-colossus?"
+"utm_source=api>`"
 msgstr ""
 
 # a10d3c8894c14e358265f3697e5632ff
@@ -372,7 +434,9 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:124
-msgid ":mtgtip:`Reprisal`"
+msgid ""
+":mtgtip:`Reprisal<https://img.scryfall.com/cards/border_crop/en/jou/23.jpg?"
+"1517813031|https://scryfall.com/card/jou/23/reprisal?utm_source=api>`"
 msgstr ""
 
 # 58ac611404f7415e872e1dd5e6a0eb26
@@ -382,7 +446,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:132
-msgid ":mtgtip:`Sightless Brawler`"
+msgid ""
+":mtgtip:`Sightless Brawler<https://img.scryfall.com/cards/border_crop/en/"
+"jou/24.jpg?1517813031|https://scryfall.com/card/jou/24/sightless-brawler?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:127
@@ -407,7 +474,9 @@ msgid "Enchanted creature gets +3/+2 and can't attack alone."
 msgstr ""
 
 #: ../../JOU.rst:136
-msgid ":mtgtip:`Skybind`"
+msgid ""
+":mtgtip:`Skybind<https://img.scryfall.com/cards/border_crop/en/jou/25.jpg?"
+"1517813031|https://scryfall.com/card/jou/25/skybind?utm_source=api>`"
 msgstr ""
 
 # 7d982117fe464a629306fe766f81e9e4
@@ -424,7 +493,10 @@ msgstr ""
 "końcowego."
 
 #: ../../JOU.rst:142
-msgid ":mtgtip:`Skyspear Cavalry`"
+msgid ""
+":mtgtip:`Skyspear Cavalry<https://img.scryfall.com/cards/border_crop/en/"
+"jou/26.jpg?1517813031|https://scryfall.com/card/jou/26/skyspear-cavalry?"
+"utm_source=api>`"
 msgstr ""
 
 # 3b0eb2beca6846dc90042c8dafbf3cd5
@@ -452,7 +524,10 @@ msgstr ""
 "Podwójny cios (Ten stwór zadaje obrażenia w pierwszym ciosie oraz normalnie.)"
 
 #: ../../JOU.rst:146
-msgid ":mtgtip:`Stonewise Fortifier`"
+msgid ""
+":mtgtip:`Stonewise Fortifier<https://img.scryfall.com/cards/border_crop/en/"
+"jou/27.jpg?1517813031|https://scryfall.com/card/jou/27/stonewise-fortifier?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:145
@@ -462,7 +537,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:152
-msgid ":mtgtip:`Supply-Line Cranes`"
+msgid ""
+":mtgtip:`Supply-Line Cranes<https://img.scryfall.com/cards/border_crop/en/"
+"jou/28.jpg?1517813031|https://scryfall.com/card/jou/28/supply-line-cranes?"
+"utm_source=api>`"
 msgstr ""
 
 # bdce58afe65043d18ca4b7b9abffd566
@@ -473,7 +551,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:156
-msgid ":mtgtip:`Tethmos High Priest`"
+msgid ""
+":mtgtip:`Tethmos High Priest<https://img.scryfall.com/cards/border_crop/en/"
+"jou/29.jpg?1517813031|https://scryfall.com/card/jou/29/tethmos-high-priest?"
+"utm_source=api>`"
 msgstr ""
 
 # b5a74aaab7744f9593b5578f6e5977a2
@@ -485,7 +566,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:162
-msgid ":mtgtip:`Aerial Formation`"
+msgid ""
+":mtgtip:`Aerial Formation<https://img.scryfall.com/cards/border_crop/en/"
+"jou/30.jpg?1517813031|https://scryfall.com/card/jou/30/aerial-formation?"
+"utm_source=api>`"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
@@ -508,7 +592,10 @@ msgstr ""
 "tury."
 
 #: ../../JOU.rst:168
-msgid ":mtgtip:`Battlefield Thaumaturge`"
+msgid ""
+":mtgtip:`Battlefield Thaumaturge<https://img.scryfall.com/cards/border_crop/"
+"en/jou/31.jpg?1517813031|https://scryfall.com/card/jou/31/battlefield-"
+"thaumaturge?utm_source=api>`"
 msgstr ""
 
 # 5e6dfa90abee4cc881866d1d1823a9a6
@@ -528,7 +615,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:174
-msgid ":mtgtip:`Cloaked Siren`"
+msgid ""
+":mtgtip:`Cloaked Siren<https://img.scryfall.com/cards/border_crop/en/jou/32."
+"jpg?1517813031|https://scryfall.com/card/jou/32/cloaked-siren?"
+"utm_source=api>`"
 msgstr ""
 
 # b30c6594f51c48118a0557535d438620
@@ -538,7 +628,9 @@ msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
 #: ../../JOU.rst:178
-msgid ":mtgtip:`Countermand`"
+msgid ""
+":mtgtip:`Countermand<https://img.scryfall.com/cards/border_crop/en/jou/33."
+"jpg?1517813031|https://scryfall.com/card/jou/33/countermand?utm_source=api>`"
 msgstr ""
 
 # 9fb3b315a6774524a37833d20ed9ef7e
@@ -552,7 +644,10 @@ msgstr ""
 "biblioteki do swojego cmentarza."
 
 #: ../../JOU.rst:186
-msgid ":mtgtip:`Crystalline Nautilus`"
+msgid ""
+":mtgtip:`Crystalline Nautilus<https://img.scryfall.com/cards/border_crop/en/"
+"jou/34.jpg?1517813031|https://scryfall.com/card/jou/34/crystalline-nautilus?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:181
@@ -582,7 +677,9 @@ msgstr ""
 "go."
 
 #: ../../JOU.rst:190
-msgid ":mtgtip:`Dakra Mystic`"
+msgid ""
+":mtgtip:`Dakra Mystic<https://img.scryfall.com/cards/border_crop/en/jou/35."
+"jpg?1517813031|https://scryfall.com/card/jou/35/dakra-mystic?utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:189
@@ -593,7 +690,9 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:194
-msgid ":mtgtip:`Daring Thief`"
+msgid ""
+":mtgtip:`Daring Thief<https://img.scryfall.com/cards/border_crop/en/jou/36."
+"jpg?1517813031|https://scryfall.com/card/jou/36/daring-thief?utm_source=api>`"
 msgstr ""
 
 # bc44eeddc21143cdadbb6478f8af3a8b
@@ -605,7 +704,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:200
-msgid ":mtgtip:`Dictate of Kruphix`"
+msgid ""
+":mtgtip:`Dictate of Kruphix<https://img.scryfall.com/cards/border_crop/en/"
+"jou/37.jpg?1517813031|https://scryfall.com/card/jou/37/dictate-of-kruphix?"
+"utm_source=api>`"
 msgstr ""
 
 # dcdc3b8ea8464733a85e98373658e40f
@@ -618,7 +720,10 @@ msgstr ""
 "kartę."
 
 #: ../../JOU.rst:204
-msgid ":mtgtip:`Font of Fortunes`"
+msgid ""
+":mtgtip:`Font of Fortunes<https://img.scryfall.com/cards/border_crop/en/"
+"jou/38.jpg?1517813031|https://scryfall.com/card/jou/38/font-of-fortunes?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:203
@@ -626,7 +731,10 @@ msgid "|mana_1|\\ |mana_u|, Sacrifice Font of Fortunes: Draw two cards."
 msgstr ""
 
 #: ../../JOU.rst:208
-msgid ":mtgtip:`Godhunter Octopus`"
+msgid ""
+":mtgtip:`Godhunter Octopus<https://img.scryfall.com/cards/border_crop/en/"
+"jou/39.jpg?1517813031|https://scryfall.com/card/jou/39/godhunter-octopus?"
+"utm_source=api>`"
 msgstr ""
 
 # 3aa1af6288d5494fbe7211e7ab0d8ec4
@@ -639,7 +747,9 @@ msgstr ""
 "urokiem lub zauroczonym permanentem."
 
 #: ../../JOU.rst:214
-msgid ":mtgtip:`Hour of Need`"
+msgid ""
+":mtgtip:`Hour of Need<https://img.scryfall.com/cards/border_crop/en/jou/40."
+"jpg?1517813031|https://scryfall.com/card/jou/40/hour-of-need?utm_source=api>`"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
@@ -659,7 +769,9 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:218
-msgid ":mtgtip:`Hubris`"
+msgid ""
+":mtgtip:`Hubris<https://img.scryfall.com/cards/border_crop/en/jou/41.jpg?"
+"1517813031|https://scryfall.com/card/jou/41/hubris?utm_source=api>`"
 msgstr ""
 
 # 225e405091364135a575487effd2e1ff
@@ -669,7 +781,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:228
-msgid ":mtgtip:`Hypnotic Siren`"
+msgid ""
+":mtgtip:`Hypnotic Siren<https://img.scryfall.com/cards/border_crop/en/jou/42."
+"jpg?1517813031|https://scryfall.com/card/jou/42/hypnotic-siren?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:221
@@ -690,7 +805,10 @@ msgid "Enchanted creature gets +1/+1 and has flying."
 msgstr "Zauroczony stwór dostaje +1/+1 i ma latanie."
 
 #: ../../JOU.rst:232
-msgid ":mtgtip:`Interpret the Signs`"
+msgid ""
+":mtgtip:`Interpret the Signs<https://img.scryfall.com/cards/border_crop/en/"
+"jou/43.jpg?1517813031|https://scryfall.com/card/jou/43/interpret-the-signs?"
+"utm_source=api>`"
 msgstr ""
 
 # dffe1f9b68b64dbc913d261c9d42a672
@@ -703,7 +821,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:238
-msgid ":mtgtip:`Kiora's Dismissal`"
+msgid ""
+":mtgtip:`Kiora's Dismissal<https://img.scryfall.com/cards/border_crop/en/"
+"jou/44.jpg?1517813031|https://scryfall.com/card/jou/44/kioras-dismissal?"
+"utm_source=api>`"
 msgstr ""
 
 # e24620f9b8b24c95a0fc33d7a543a98c
@@ -722,7 +843,10 @@ msgid "Return any number of target enchantments to their owners' hands."
 msgstr "Zwróć dowolną liczbę wskazanych uroków do rąk ich właścicieli."
 
 #: ../../JOU.rst:244
-msgid ":mtgtip:`Pin to the Earth`"
+msgid ""
+":mtgtip:`Pin to the Earth<https://img.scryfall.com/cards/border_crop/en/"
+"jou/45.jpg?1517813031|https://scryfall.com/card/jou/45/pin-to-the-earth?"
+"utm_source=api>`"
 msgstr ""
 
 # b06b559ba6654effab969c3a0064c432
@@ -731,7 +855,10 @@ msgid "Enchanted creature gets -6/-0."
 msgstr "Zauroczony stwór dostaje -6/-0."
 
 #: ../../JOU.rst:250
-msgid ":mtgtip:`Polymorphous Rush`"
+msgid ""
+":mtgtip:`Polymorphous Rush<https://img.scryfall.com/cards/border_crop/en/"
+"jou/46.jpg?1517813031|https://scryfall.com/card/jou/46/polymorphous-rush?"
+"utm_source=api>`"
 msgstr ""
 
 # adb34178717f48a3979ae01b82f2a431
@@ -742,7 +869,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:254
-msgid ":mtgtip:`Pull from the Deep`"
+msgid ""
+":mtgtip:`Pull from the Deep<https://img.scryfall.com/cards/border_crop/en/"
+"jou/47.jpg?1517813031|https://scryfall.com/card/jou/47/pull-from-the-deep?"
+"utm_source=api>`"
 msgstr ""
 
 # 4081693ad2be44b3a68e574e83d8799a
@@ -753,7 +883,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:260
-msgid ":mtgtip:`Riptide Chimera`"
+msgid ""
+":mtgtip:`Riptide Chimera<https://img.scryfall.com/cards/border_crop/en/"
+"jou/48.jpg?1517813031|https://scryfall.com/card/jou/48/riptide-chimera?"
+"utm_source=api>`"
 msgstr ""
 
 # 514c7a533f424829bec360367e1223f2
@@ -764,7 +897,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:264
-msgid ":mtgtip:`Rise of Eagles`"
+msgid ""
+":mtgtip:`Rise of Eagles<https://img.scryfall.com/cards/border_crop/en/jou/49."
+"jpg?1517813031|https://scryfall.com/card/jou/49/rise-of-eagles?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:263
@@ -775,7 +911,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:270
-msgid ":mtgtip:`Sage of Hours`"
+msgid ""
+":mtgtip:`Sage of Hours<https://img.scryfall.com/cards/border_crop/en/jou/50."
+"jpg?1517813031|https://scryfall.com/card/jou/50/sage-of-hours?"
+"utm_source=api>`"
 msgstr ""
 
 # b444cac885e548f09b3aea81a5e9e145
@@ -793,7 +932,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:274
-msgid ":mtgtip:`Scourge of Fleets`"
+msgid ""
+":mtgtip:`Scourge of Fleets<https://img.scryfall.com/cards/border_crop/en/"
+"jou/51.jpg?1517813031|https://scryfall.com/card/jou/51/scourge-of-fleets?"
+"utm_source=api>`"
 msgstr ""
 
 # 1cb2b373131641608c6705838cc71aa2
@@ -805,7 +947,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:278
-msgid ":mtgtip:`Sigiled Starfish`"
+msgid ""
+":mtgtip:`Sigiled Starfish<https://img.scryfall.com/cards/border_crop/en/"
+"jou/52.jpg?1517813031|https://scryfall.com/card/jou/52/sigiled-starfish?"
+"utm_source=api>`"
 msgstr ""
 
 # 5664ed3a67b148de8a00392bf7562bc4
@@ -816,7 +961,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:282
-msgid ":mtgtip:`Thassa's Devourer`"
+msgid ""
+":mtgtip:`Thassa's Devourer<https://img.scryfall.com/cards/border_crop/en/"
+"jou/53.jpg?1517813031|https://scryfall.com/card/jou/53/thassas-devourer?"
+"utm_source=api>`"
 msgstr ""
 
 # 84611e1a6a7c47b5be3cdafdf4fdbb92
@@ -832,7 +980,9 @@ msgstr ""
 "biblioteki do swojego cmentarza."
 
 #: ../../JOU.rst:286
-msgid ":mtgtip:`Thassa's Ire`"
+msgid ""
+":mtgtip:`Thassa's Ire<https://img.scryfall.com/cards/border_crop/en/jou/54."
+"jpg?1517813031|https://scryfall.com/card/jou/54/thassas-ire?utm_source=api>`"
 msgstr ""
 
 # 1eeb4ee5ab9f456c888e8c7b312168f0
@@ -842,7 +992,10 @@ msgid "|mana_3|\\ |mana_u|: You may tap or untap target creature."
 msgstr "|mana_w|, |tap|: Przekręć wskazanego stwora."
 
 #: ../../JOU.rst:290
-msgid ":mtgtip:`Triton Cavalry`"
+msgid ""
+":mtgtip:`Triton Cavalry<https://img.scryfall.com/cards/border_crop/en/jou/55."
+"jpg?1517813031|https://scryfall.com/card/jou/55/triton-cavalry?"
+"utm_source=api>`"
 msgstr ""
 
 # 1a4945f1ca284e5e83ab8fee5d99ad62
@@ -853,7 +1006,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:294
-msgid ":mtgtip:`Triton Shorestalker`"
+msgid ""
+":mtgtip:`Triton Shorestalker<https://img.scryfall.com/cards/border_crop/en/"
+"jou/56.jpg?1517813031|https://scryfall.com/card/jou/56/triton-shorestalker?"
+"utm_source=api>`"
 msgstr ""
 
 # e5a7335ea1f648d29be0a7189a6260d2
@@ -862,7 +1018,10 @@ msgid "Triton Shorestalker can't be blocked."
 msgstr ""
 
 #: ../../JOU.rst:300
-msgid ":mtgtip:`War-Wing Siren`"
+msgid ""
+":mtgtip:`War-Wing Siren<https://img.scryfall.com/cards/border_crop/en/jou/57."
+"jpg?1517813031|https://scryfall.com/card/jou/57/war-wing-siren?"
+"utm_source=api>`"
 msgstr ""
 
 # 98b9567b59884871a8d88781cd8f761d
@@ -873,7 +1032,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:304
-msgid ":mtgtip:`Whitewater Naiads`"
+msgid ""
+":mtgtip:`Whitewater Naiads<https://img.scryfall.com/cards/border_crop/en/"
+"jou/58.jpg?1517813031|https://scryfall.com/card/jou/58/whitewater-naiads?"
+"utm_source=api>`"
 msgstr ""
 
 # 8ef6af6a661e41f49662a0b0e0829867
@@ -885,10 +1047,11 @@ msgstr ""
 "Konstelacja — Ilekroć Whitewater Naiads lub inny urok wchodzi na pole walki "
 "pod twoim władaniem, wskazany stwór nie może być blokowany w tej turze."
 
-# b0fcffe74f2f4d15bef6a71b69b2a649
 #: ../../JOU.rst:308
-#, fuzzy
-msgid ":mtgtip:`Agent of Erebos`"
+msgid ""
+":mtgtip:`Agent of Erebos<https://img.scryfall.com/cards/border_crop/en/"
+"jou/59.jpg?1517813031|https://scryfall.com/card/jou/59/agent-of-erebos?"
+"utm_source=api>`"
 msgstr ""
 
 # 4e3be6d629c04b598edfaa7f57ae91af
@@ -902,7 +1065,10 @@ msgstr ""
 "pod twoim władaniem, wypędź wszystkie karty z cmentarza wskazanego gracza."
 
 #: ../../JOU.rst:314
-msgid ":mtgtip:`Aspect of Gorgon`"
+msgid ""
+":mtgtip:`Aspect of Gorgon<https://img.scryfall.com/cards/border_crop/en/"
+"jou/60.jpg?1517813031|https://scryfall.com/card/jou/60/aspect-of-gorgon?"
+"utm_source=api>`"
 msgstr ""
 
 # f5e325aab47f472b8f87600ba8104ce7
@@ -914,7 +1080,10 @@ msgid ""
 msgstr "Zauroczony stwór dostaje +1/+3 i ma Dotyk Śmierci."
 
 #: ../../JOU.rst:320
-msgid ":mtgtip:`Bloodcrazed Hoplite`"
+msgid ""
+":mtgtip:`Bloodcrazed Hoplite<https://img.scryfall.com/cards/border_crop/en/"
+"jou/61.jpg?1517813031|https://scryfall.com/card/jou/61/bloodcrazed-hoplite?"
+"utm_source=api>`"
 msgstr ""
 
 # b2164b77586644348841f5c0aa387aad
@@ -937,7 +1106,9 @@ msgstr ""
 "usuń znacznik +1/+1 ze wskazanego stwora władanego przez przeciwnika."
 
 #: ../../JOU.rst:324
-msgid ":mtgtip:`Brain Maggot`"
+msgid ""
+":mtgtip:`Brain Maggot<https://img.scryfall.com/cards/border_crop/en/jou/62."
+"jpg?1517813031|https://scryfall.com/card/jou/62/brain-maggot?utm_source=api>`"
 msgstr ""
 
 # db025c01731f4d8097138e167564cfe2
@@ -953,7 +1124,10 @@ msgstr ""
 "aż Brain Maggot opuści pole walki."
 
 #: ../../JOU.rst:330
-msgid ":mtgtip:`Cast into Darkness`"
+msgid ""
+":mtgtip:`Cast into Darkness<https://img.scryfall.com/cards/border_crop/en/"
+"jou/63.jpg?1517813031|https://scryfall.com/card/jou/63/cast-into-darkness?"
+"utm_source=api>`"
 msgstr ""
 
 # 957d454ca8424df2a3757b1bd4d34367
@@ -962,7 +1136,10 @@ msgid "Enchanted creature gets -2/-0 and can't block."
 msgstr "Zauroczony stwór dostaje -2/-0 i nie może blokować."
 
 #: ../../JOU.rst:336
-msgid ":mtgtip:`Cruel Feeding`"
+msgid ""
+":mtgtip:`Cruel Feeding<https://img.scryfall.com/cards/border_crop/en/jou/64."
+"jpg?1517813031|https://scryfall.com/card/jou/64/cruel-feeding?"
+"utm_source=api>`"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
@@ -984,7 +1161,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:342
-msgid ":mtgtip:`Dictate of Erebos`"
+msgid ""
+":mtgtip:`Dictate of Erebos<https://img.scryfall.com/cards/border_crop/en/"
+"jou/65.jpg?1517813031|https://scryfall.com/card/jou/65/dictate-of-erebos?"
+"utm_source=api>`"
 msgstr ""
 
 # 93d042485da14837a36aac04a99e347b
@@ -995,7 +1175,10 @@ msgstr ""
 "Ilekroć stwór pod twoim władaniem umiera, każdy przeciwnik poświęca stwora."
 
 #: ../../JOU.rst:346
-msgid ":mtgtip:`Doomwake Giant`"
+msgid ""
+":mtgtip:`Doomwake Giant<https://img.scryfall.com/cards/border_crop/en/jou/66."
+"jpg?1517813031|https://scryfall.com/card/jou/66/doomwake-giant?"
+"utm_source=api>`"
 msgstr ""
 
 # d0de54a6b04349ddad73c5e23f4ceb80
@@ -1010,7 +1193,10 @@ msgstr ""
 "końca tury."
 
 #: ../../JOU.rst:350
-msgid ":mtgtip:`Dreadbringer Lampads`"
+msgid ""
+":mtgtip:`Dreadbringer Lampads<https://img.scryfall.com/cards/border_crop/en/"
+"jou/67.jpg?1517813031|https://scryfall.com/card/jou/67/dreadbringer-lampads?"
+"utm_source=api>`"
 msgstr ""
 
 # 0d558d4850354e53b9f6eb75b9722645
@@ -1027,7 +1213,10 @@ msgstr ""
 "którymi współdzieli kolor.)"
 
 #: ../../JOU.rst:354
-msgid ":mtgtip:`Extinguish All Hope`"
+msgid ""
+":mtgtip:`Extinguish All Hope<https://img.scryfall.com/cards/border_crop/en/"
+"jou/68.jpg?1517813031|https://scryfall.com/card/jou/68/extinguish-all-hope?"
+"utm_source=api>`"
 msgstr ""
 
 # 77e9ef169df444749aadd25d39a86652
@@ -1036,7 +1225,10 @@ msgid "Destroy all nonenchantment creatures."
 msgstr "Zniszcz wszystkie stwory nie będące urokami."
 
 #: ../../JOU.rst:358
-msgid ":mtgtip:`Feast of Dreams`"
+msgid ""
+":mtgtip:`Feast of Dreams<https://img.scryfall.com/cards/border_crop/en/"
+"jou/69.jpg?1517813031|https://scryfall.com/card/jou/69/feast-of-dreams?"
+"utm_source=api>`"
 msgstr ""
 
 # 74691691f33d4ce2ac2f11ca0f2e66da
@@ -1045,7 +1237,10 @@ msgid "Destroy target enchanted creature or enchantment creature."
 msgstr "Zniszcza wskazanego zauroczonego stwora lub stwora będącego urokiem."
 
 #: ../../JOU.rst:364
-msgid ":mtgtip:`Felhide Petrifier`"
+msgid ""
+":mtgtip:`Felhide Petrifier<https://img.scryfall.com/cards/border_crop/en/"
+"jou/70.jpg?1517813031|https://scryfall.com/card/jou/70/felhide-petrifier?"
+"utm_source=api>`"
 msgstr ""
 
 # 1871b3574656464087e0ac67d2df8490
@@ -1059,7 +1254,10 @@ msgid "Other Minotaur creatures you control have deathtouch."
 msgstr "Inne stwory typu Minotaur, którymi władasz mają dotyk śmierci."
 
 #: ../../JOU.rst:368
-msgid ":mtgtip:`Font of Return`"
+msgid ""
+":mtgtip:`Font of Return<https://img.scryfall.com/cards/border_crop/en/jou/71."
+"jpg?1517813031|https://scryfall.com/card/jou/71/font-of-return?"
+"utm_source=api>`"
 msgstr ""
 
 # 51a4532c38494d3db7167f53c40a87b5
@@ -1071,7 +1269,10 @@ msgid ""
 msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../JOU.rst:376
-msgid ":mtgtip:`Gnarled Scarhide`"
+msgid ""
+":mtgtip:`Gnarled Scarhide<https://img.scryfall.com/cards/border_crop/en/"
+"jou/72.jpg?1517813031|https://scryfall.com/card/jou/72/gnarled-scarhide?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:371
@@ -1096,7 +1297,10 @@ msgid "Enchanted creature gets +2/+1 and can't block."
 msgstr "Zauroczony stwór dostaje +2/+1 i nie może blokować."
 
 #: ../../JOU.rst:380
-msgid ":mtgtip:`Grim Guardian`"
+msgid ""
+":mtgtip:`Grim Guardian<https://img.scryfall.com/cards/border_crop/en/jou/73."
+"jpg?1517813031|https://scryfall.com/card/jou/73/grim-guardian?"
+"utm_source=api>`"
 msgstr ""
 
 # 33b6448e5d2d4a538ab86ea7c5f9bf71
@@ -1109,7 +1313,10 @@ msgstr ""
 "twoim władaniem, każdy przeciwnik traci 1 życie."
 
 #: ../../JOU.rst:384
-msgid ":mtgtip:`King Macar, the Gold-Cursed`"
+msgid ""
+":mtgtip:`King Macar, the Gold-Cursed<https://img.scryfall.com/cards/"
+"border_crop/en/jou/74.jpg?1517813031|https://scryfall.com/card/jou/74/king-"
+"macar-the-gold-cursed?utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:383
@@ -1120,7 +1327,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:390
-msgid ":mtgtip:`Master of the Feast`"
+msgid ""
+":mtgtip:`Master of the Feast<https://img.scryfall.com/cards/border_crop/en/"
+"jou/75.jpg?1517813031|https://scryfall.com/card/jou/75/master-of-the-feast?"
+"utm_source=api>`"
 msgstr ""
 
 # 0748bab8489b4586a65e19ddd3745959
@@ -1129,7 +1339,10 @@ msgid "At the beginning of your upkeep, each opponent draws a card."
 msgstr "Na początku twojego utrzymania każdy z przeciwników dobiera kartę."
 
 #: ../../JOU.rst:394
-msgid ":mtgtip:`Nightmarish End`"
+msgid ""
+":mtgtip:`Nightmarish End<https://img.scryfall.com/cards/border_crop/en/"
+"jou/76.jpg?1517813031|https://scryfall.com/card/jou/76/nightmarish-end?"
+"utm_source=api>`"
 msgstr ""
 
 # 841fce745177452c9bf0285314956801
@@ -1140,7 +1353,9 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:400
-msgid ":mtgtip:`Nyx Infusion`"
+msgid ""
+":mtgtip:`Nyx Infusion<https://img.scryfall.com/cards/border_crop/en/jou/77."
+"jpg?1517813031|https://scryfall.com/card/jou/77/nyx-infusion?utm_source=api>`"
 msgstr ""
 
 # 88396a22b2d74de38d30611cdf14c413
@@ -1151,7 +1366,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:404
-msgid ":mtgtip:`Pharika's Chosen`"
+msgid ""
+":mtgtip:`Pharika's Chosen<https://img.scryfall.com/cards/border_crop/en/"
+"jou/78.jpg?1517813031|https://scryfall.com/card/jou/78/pharikas-chosen?"
+"utm_source=api>`"
 msgstr ""
 
 # 57b0c495959644faa13498dd499a4b9d
@@ -1164,7 +1382,10 @@ msgstr ""
 "wystarcza, aby został zniszczony.)"
 
 #: ../../JOU.rst:408
-msgid ":mtgtip:`Returned Reveler`"
+msgid ""
+":mtgtip:`Returned Reveler<https://img.scryfall.com/cards/border_crop/en/"
+"jou/79.jpg?1517813031|https://scryfall.com/card/jou/79/returned-reveler?"
+"utm_source=api>`"
 msgstr ""
 
 # 9fb3b315a6774524a37833d20ed9ef7e
@@ -1178,7 +1399,10 @@ msgstr ""
 "biblioteki do swojego cmentarza."
 
 #: ../../JOU.rst:412
-msgid ":mtgtip:`Ritual of the Returned`"
+msgid ""
+":mtgtip:`Ritual of the Returned<https://img.scryfall.com/cards/border_crop/"
+"en/jou/80.jpg?1517813031|https://scryfall.com/card/jou/80/ritual-of-the-"
+"returned?utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:411
@@ -1189,11 +1413,16 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:414
-msgid ":mtgtip:`Rotted Hulk`"
+msgid ""
+":mtgtip:`Rotted Hulk<https://img.scryfall.com/cards/border_crop/en/jou/81."
+"jpg?1517813031|https://scryfall.com/card/jou/81/rotted-hulk?utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:422
-msgid ":mtgtip:`Silence the Believers`"
+msgid ""
+":mtgtip:`Silence the Believers<https://img.scryfall.com/cards/border_crop/en/"
+"jou/82.jpg?1517813031|https://scryfall.com/card/jou/82/silence-the-believers?"
+"utm_source=api>`"
 msgstr ""
 
 # 5e2196c7720a43d7a13c306cc65ecd19
@@ -1202,7 +1431,10 @@ msgid "Exile any number of target creatures and all Auras attached to them."
 msgstr ""
 
 #: ../../JOU.rst:426
-msgid ":mtgtip:`Spiteful Blow`"
+msgid ""
+":mtgtip:`Spiteful Blow<https://img.scryfall.com/cards/border_crop/en/jou/83."
+"jpg?1517813031|https://scryfall.com/card/jou/83/spiteful-blow?"
+"utm_source=api>`"
 msgstr ""
 
 # 03303e4d03594c86822b3de63ddfe1e9
@@ -1211,7 +1443,10 @@ msgid "Destroy target creature and target land."
 msgstr ""
 
 #: ../../JOU.rst:430
-msgid ":mtgtip:`Squelching Leeches`"
+msgid ""
+":mtgtip:`Squelching Leeches<https://img.scryfall.com/cards/border_crop/en/"
+"jou/84.jpg?1517813031|https://scryfall.com/card/jou/84/squelching-leeches?"
+"utm_source=api>`"
 msgstr ""
 
 # c2e639db576e42c99b1163d7d57a1561
@@ -1222,7 +1457,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:434
-msgid ":mtgtip:`Thoughtrender Lamia`"
+msgid ""
+":mtgtip:`Thoughtrender Lamia<https://img.scryfall.com/cards/border_crop/en/"
+"jou/85.jpg?1517813031|https://scryfall.com/card/jou/85/thoughtrender-lamia?"
+"utm_source=api>`"
 msgstr ""
 
 # e35b5c8367024ff0b88e3610347ca691
@@ -1235,7 +1473,10 @@ msgstr ""
 "walki pod twoim władaniem, każdy przeciwnik odrzuca kartę."
 
 #: ../../JOU.rst:440
-msgid ":mtgtip:`Tormented Thoughts`"
+msgid ""
+":mtgtip:`Tormented Thoughts<https://img.scryfall.com/cards/border_crop/en/"
+"jou/86.jpg?1517813031|https://scryfall.com/card/jou/86/tormented-thoughts?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:437
@@ -1250,7 +1491,9 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:444
-msgid ":mtgtip:`Worst Fears`"
+msgid ""
+":mtgtip:`Worst Fears<https://img.scryfall.com/cards/border_crop/en/jou/87."
+"jpg?1517813031|https://scryfall.com/card/jou/87/worst-fears?utm_source=api>`"
 msgstr ""
 
 # db2669510c0946c6bba24f2a6117ac89
@@ -1262,7 +1505,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:448
-msgid ":mtgtip:`Akroan Line Breaker`"
+msgid ""
+":mtgtip:`Akroan Line Breaker<https://img.scryfall.com/cards/border_crop/en/"
+"jou/88.jpg?1517813031|https://scryfall.com/card/jou/88/akroan-line-breaker?"
+"utm_source=api>`"
 msgstr ""
 
 # 591c4e0b3e4744148b263fba0c7b8a28
@@ -1278,7 +1524,10 @@ msgstr ""
 "Breaker dostaje do końca tury +2/+0 oraz Zastraszanie."
 
 #: ../../JOU.rst:452
-msgid ":mtgtip:`Bearer of the Heavens`"
+msgid ""
+":mtgtip:`Bearer of the Heavens<https://img.scryfall.com/cards/border_crop/en/"
+"jou/89.jpg?1517813031|https://scryfall.com/card/jou/89/bearer-of-the-heavens?"
+"utm_source=api>`"
 msgstr ""
 
 # 79b794033d6e4cc9a882be40159ad014
@@ -1291,7 +1540,10 @@ msgstr ""
 "najbliższego kroku końcowego."
 
 #: ../../JOU.rst:456
-msgid ":mtgtip:`Bladetusk Boar`"
+msgid ""
+":mtgtip:`Bladetusk Boar<https://img.scryfall.com/cards/border_crop/en/jou/90."
+"jpg?1517813031|https://scryfall.com/card/jou/90/bladetusk-boar?"
+"utm_source=api>`"
 msgstr ""
 
 # 366a636d67a14a509193ee0af9b0c182
@@ -1304,7 +1556,10 @@ msgstr ""
 "artefaktyczne lub współdzielące z nim kolor.)"
 
 #: ../../JOU.rst:462
-msgid ":mtgtip:`Blinding Flare`"
+msgid ""
+":mtgtip:`Blinding Flare<https://img.scryfall.com/cards/border_crop/en/jou/91."
+"jpg?1517813031|https://scryfall.com/card/jou/91/blinding-flare?"
+"utm_source=api>`"
 msgstr ""
 
 # 5248d4eb20c84258912494e8526bd03b
@@ -1323,7 +1578,10 @@ msgid "Any number of target creatures can't block this turn."
 msgstr "Dowolna liczba wskazanych stworów nie może blokować w tej turze."
 
 #: ../../JOU.rst:466
-msgid ":mtgtip:`Cyclops of Eternal Fury`"
+msgid ""
+":mtgtip:`Cyclops of Eternal Fury<https://img.scryfall.com/cards/border_crop/"
+"en/jou/92.jpg?1517813031|https://scryfall.com/card/jou/92/cyclops-of-eternal-"
+"fury?utm_source=api>`"
 msgstr ""
 
 # b5cefaaf51834337bb0680d3852e7a06
@@ -1331,10 +1589,11 @@ msgstr ""
 msgid "Creatures you control have haste."
 msgstr "Stwory pod twoim władaniem mają pośpiech."
 
-# a710785d2f244eb995365a8ac957db9e
 #: ../../JOU.rst:472
-#, fuzzy
-msgid ":mtgtip:`Dictate of the Twin Gods`"
+msgid ""
+":mtgtip:`Dictate of the Twin Gods<https://img.scryfall.com/cards/border_crop/"
+"en/jou/93.jpg?1517813031|https://scryfall.com/card/jou/93/dictate-of-the-"
+"twin-gods?utm_source=api>`"
 msgstr ""
 
 # c2066f23230b46b68f00451755fe324d
@@ -1345,7 +1604,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:476
-msgid ":mtgtip:`Eidolon of the Great Revel`"
+msgid ""
+":mtgtip:`Eidolon of the Great Revel<https://img.scryfall.com/cards/"
+"border_crop/en/jou/94.jpg?1517813031|https://scryfall.com/card/jou/94/"
+"eidolon-of-the-great-revel?utm_source=api>`"
 msgstr ""
 
 # 71ad9532b7ef4026b9c396e2c91688ce
@@ -1358,7 +1620,10 @@ msgstr ""
 "the Great Revel zadaje owemu graczowi 2 obrażenia."
 
 #: ../../JOU.rst:484
-msgid ":mtgtip:`Flamespeaker's Will`"
+msgid ""
+":mtgtip:`Flamespeaker's Will<https://img.scryfall.com/cards/border_crop/en/"
+"jou/95.jpg?1517813031|https://scryfall.com/card/jou/95/flamespeakers-will?"
+"utm_source=api>`"
 msgstr ""
 
 # 620f058bd4f94e52a8c63dae6bfc65b9
@@ -1371,7 +1636,10 @@ msgstr ""
 "Flamespeaker's Will. Jeśli tak zrobisz, zniszcz wskazany artefakt."
 
 #: ../../JOU.rst:488
-msgid ":mtgtip:`Flurry of Horns`"
+msgid ""
+":mtgtip:`Flurry of Horns<https://img.scryfall.com/cards/border_crop/en/"
+"jou/96.jpg?1517813031|https://scryfall.com/card/jou/96/flurry-of-horns?"
+"utm_source=api>`"
 msgstr ""
 
 # 41029c68314f43089b9dd1b4d7f5beab
@@ -1381,7 +1649,9 @@ msgid "Create two 2/3 red Minotaur creature tokens with haste."
 msgstr "Umieść na polu walki dwa żetony czerwonego stwora Minotaur 2/2."
 
 #: ../../JOU.rst:492
-msgid ":mtgtip:`Font of Ire`"
+msgid ""
+":mtgtip:`Font of Ire<https://img.scryfall.com/cards/border_crop/en/jou/97."
+"jpg?1517813031|https://scryfall.com/card/jou/97/font-of-ire?utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:491
@@ -1391,7 +1661,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:496
-msgid ":mtgtip:`Forgeborn Oreads`"
+msgid ""
+":mtgtip:`Forgeborn Oreads<https://img.scryfall.com/cards/border_crop/en/"
+"jou/98.jpg?1517813031|https://scryfall.com/card/jou/98/forgeborn-oreads?"
+"utm_source=api>`"
 msgstr ""
 
 # f7aea86f1c6c4ea8afbee2c048d2f48b
@@ -1407,7 +1680,10 @@ msgstr ""
 "lub graczowi."
 
 #: ../../JOU.rst:500
-msgid ":mtgtip:`Gluttonous Cyclops`"
+msgid ""
+":mtgtip:`Gluttonous Cyclops<https://img.scryfall.com/cards/border_crop/en/"
+"jou/99.jpg?1517813031|https://scryfall.com/card/jou/99/gluttonous-cyclops?"
+"utm_source=api>`"
 msgstr ""
 
 # 38323db59c3b465c932e1729310f4fa5
@@ -1421,7 +1697,10 @@ msgstr ""
 "monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 #: ../../JOU.rst:506
-msgid ":mtgtip:`Harness by Force`"
+msgid ""
+":mtgtip:`Harness by Force<https://img.scryfall.com/cards/border_crop/en/"
+"jou/100.jpg?1517813031|https://scryfall.com/card/jou/100/harness-by-force?"
+"utm_source=api>`"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
@@ -1441,10 +1720,11 @@ msgid ""
 "those creatures. They gain haste until end of turn."
 msgstr ""
 
-# cd03ef5f560b4036af3d17d7fb947592
 #: ../../JOU.rst:510
-#, fuzzy
-msgid ":mtgtip:`Knowledge and Power`"
+msgid ""
+":mtgtip:`Knowledge and Power<https://img.scryfall.com/cards/border_crop/en/"
+"jou/101.jpg?1517813031|https://scryfall.com/card/jou/101/knowledge-and-power?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:509
@@ -1454,7 +1734,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:518
-msgid ":mtgtip:`Lightning Diadem`"
+msgid ""
+":mtgtip:`Lightning Diadem<https://img.scryfall.com/cards/border_crop/en/"
+"jou/102.jpg?1517813031|https://scryfall.com/card/jou/102/lightning-diadem?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:515
@@ -1469,7 +1752,9 @@ msgid "Enchanted creature gets +2/+2."
 msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../JOU.rst:522
-msgid ":mtgtip:`Magma Spray`"
+msgid ""
+":mtgtip:`Magma Spray<https://img.scryfall.com/cards/border_crop/en/jou/103."
+"jpg?1517813031|https://scryfall.com/card/jou/103/magma-spray?utm_source=api>`"
 msgstr ""
 
 # 9df7f2cd1f9b4c29a05f96cd03cbeedc
@@ -1480,7 +1765,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:530
-msgid ":mtgtip:`Mogis's Warhound`"
+msgid ""
+":mtgtip:`Mogis's Warhound<https://img.scryfall.com/cards/border_crop/en/"
+"jou/104.jpg?1517813031|https://scryfall.com/card/jou/104/mogiss-warhound?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:525
@@ -1507,11 +1795,17 @@ msgid "Enchanted creature gets +2/+2 and attacks each combat if able."
 msgstr "Zauroczony stwór dostaje +2/+2 i atakuje w każdej turze jeśli może."
 
 #: ../../JOU.rst:532
-msgid ":mtgtip:`Pensive Minotaur`"
+msgid ""
+":mtgtip:`Pensive Minotaur<https://img.scryfall.com/cards/border_crop/en/"
+"jou/105.jpg?1517813031|https://scryfall.com/card/jou/105/pensive-minotaur?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:540
-msgid ":mtgtip:`Prophetic Flamespeaker`"
+msgid ""
+":mtgtip:`Prophetic Flamespeaker<https://img.scryfall.com/cards/border_crop/"
+"en/jou/106.jpg?1517813031|https://scryfall.com/card/jou/106/prophetic-"
+"flamespeaker?utm_source=api>`"
 msgstr ""
 
 # dab2c39d17774e7985108baea521b97f
@@ -1527,7 +1821,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:544
-msgid ":mtgtip:`Riddle of Lightning`"
+msgid ""
+":mtgtip:`Riddle of Lightning<https://img.scryfall.com/cards/border_crop/en/"
+"jou/107.jpg?1517813031|https://scryfall.com/card/jou/107/riddle-of-lightning?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:543
@@ -1540,7 +1837,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:548
-msgid ":mtgtip:`Rollick of Abandon`"
+msgid ""
+":mtgtip:`Rollick of Abandon<https://img.scryfall.com/cards/border_crop/en/"
+"jou/108.jpg?1517813031|https://scryfall.com/card/jou/108/rollick-of-abandon?"
+"utm_source=api>`"
 msgstr ""
 
 # 631a1707fad24b6fa445d7d7c9c41511
@@ -1549,7 +1849,10 @@ msgid "All creatures get +2/-2 until end of turn."
 msgstr ""
 
 #: ../../JOU.rst:554
-msgid ":mtgtip:`Rouse the Mob`"
+msgid ""
+":mtgtip:`Rouse the Mob<https://img.scryfall.com/cards/border_crop/en/jou/109."
+"jpg?1517813031|https://scryfall.com/card/jou/109/rouse-the-mob?"
+"utm_source=api>`"
 msgstr ""
 
 # 0fc09889a2324b139b8a0818e754e2a0
@@ -1560,7 +1863,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:558
-msgid ":mtgtip:`Satyr Hoplite`"
+msgid ""
+":mtgtip:`Satyr Hoplite<https://img.scryfall.com/cards/border_crop/en/jou/110."
+"jpg?1517813031|https://scryfall.com/card/jou/110/satyr-hoplite?"
+"utm_source=api>`"
 msgstr ""
 
 # 763366c6f1c74071b3fe74ac5151002e
@@ -1571,7 +1877,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:562
-msgid ":mtgtip:`Sigiled Skink`"
+msgid ""
+":mtgtip:`Sigiled Skink<https://img.scryfall.com/cards/border_crop/en/jou/111."
+"jpg?1517813031|https://scryfall.com/card/jou/111/sigiled-skink?"
+"utm_source=api>`"
 msgstr ""
 
 # 0120ba3a8c7b4d4899a1b6cb4262a5c8
@@ -1582,7 +1891,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:568
-msgid ":mtgtip:`Spawn of Thraxes`"
+msgid ""
+":mtgtip:`Spawn of Thraxes<https://img.scryfall.com/cards/border_crop/en/"
+"jou/112.jpg?1517813031|https://scryfall.com/card/jou/112/spawn-of-thraxes?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:567
@@ -1592,7 +1904,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:572
-msgid ":mtgtip:`Spite of Mogis`"
+msgid ""
+":mtgtip:`Spite of Mogis<https://img.scryfall.com/cards/border_crop/en/"
+"jou/113.jpg?1517813031|https://scryfall.com/card/jou/113/spite-of-mogis?"
+"utm_source=api>`"
 msgstr ""
 
 # 2066ab3bd8c040ba9bfef6faacd6917e
@@ -1604,7 +1919,9 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:576
-msgid ":mtgtip:`Starfall`"
+msgid ""
+":mtgtip:`Starfall<https://img.scryfall.com/cards/border_crop/en/jou/114.jpg?"
+"1517813031|https://scryfall.com/card/jou/114/starfall?utm_source=api>`"
 msgstr ""
 
 # dad760d3c09d4a13bf3a508f7a73142a
@@ -1615,7 +1932,9 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:582
-msgid ":mtgtip:`Twinflame`"
+msgid ""
+":mtgtip:`Twinflame<https://img.scryfall.com/cards/border_crop/en/jou/115.jpg?"
+"1517813031|https://scryfall.com/card/jou/115/twinflame?utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:581
@@ -1626,7 +1945,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:588
-msgid ":mtgtip:`Wildfire Cerberus`"
+msgid ""
+":mtgtip:`Wildfire Cerberus<https://img.scryfall.com/cards/border_crop/en/"
+"jou/116.jpg?1517813031|https://scryfall.com/card/jou/116/wildfire-cerberus?"
+"utm_source=api>`"
 msgstr ""
 
 # 38323db59c3b465c932e1729310f4fa5
@@ -1647,7 +1969,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:592
-msgid ":mtgtip:`Bassara Tower Archer`"
+msgid ""
+":mtgtip:`Bassara Tower Archer<https://img.scryfall.com/cards/border_crop/en/"
+"jou/117.jpg?1517813031|https://scryfall.com/card/jou/117/bassara-tower-"
+"archer?utm_source=api>`"
 msgstr ""
 
 # 009b77dc16ad4c2b99f26a05867da8c8
@@ -1656,7 +1981,10 @@ msgid "Hexproof, reach"
 msgstr "Antyklątwa, zasięg"
 
 #: ../../JOU.rst:598
-msgid ":mtgtip:`Colossal Heroics`"
+msgid ""
+":mtgtip:`Colossal Heroics<https://img.scryfall.com/cards/border_crop/en/"
+"jou/118.jpg?1517813031|https://scryfall.com/card/jou/118/colossal-heroics?"
+"utm_source=api>`"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
@@ -1679,7 +2007,10 @@ msgstr ""
 "Odkręć owe stwory."
 
 #: ../../JOU.rst:604
-msgid ":mtgtip:`Consign to Dust`"
+msgid ""
+":mtgtip:`Consign to Dust<https://img.scryfall.com/cards/border_crop/en/"
+"jou/119.jpg?1517813031|https://scryfall.com/card/jou/119/consign-to-dust?"
+"utm_source=api>`"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
@@ -1698,7 +2029,10 @@ msgid "Destroy any number of target artifacts and/or enchantments."
 msgstr "Zniszcz dowolną liczbę wskazanych artefaktów i/lub uroków."
 
 #: ../../JOU.rst:608
-msgid ":mtgtip:`Desecration Plague`"
+msgid ""
+":mtgtip:`Desecration Plague<https://img.scryfall.com/cards/border_crop/en/"
+"jou/120.jpg?1517813031|https://scryfall.com/card/jou/120/desecration-plague?"
+"utm_source=api>`"
 msgstr ""
 
 # 65bc8f41f2d4436fa5f12eda4cb191e0
@@ -1707,7 +2041,10 @@ msgid "Destroy target enchantment or land."
 msgstr "Zniszcz wskazany urok lub ląd."
 
 #: ../../JOU.rst:614
-msgid ":mtgtip:`Dictate of Karametra`"
+msgid ""
+":mtgtip:`Dictate of Karametra<https://img.scryfall.com/cards/border_crop/en/"
+"jou/121.jpg?1517813031|https://scryfall.com/card/jou/121/dictate-of-"
+"karametra?utm_source=api>`"
 msgstr ""
 
 # 4d8279c5b0654369b9eeb5b9c6eed474
@@ -1721,7 +2058,10 @@ msgstr ""
 "many jedną manę w kolorze, który został przez ów ląd wyprodukowany."
 
 #: ../../JOU.rst:618
-msgid ":mtgtip:`Eidolon of Blossoms`"
+msgid ""
+":mtgtip:`Eidolon of Blossoms<https://img.scryfall.com/cards/border_crop/en/"
+"jou/122.jpg?1517813031|https://scryfall.com/card/jou/122/eidolon-of-blossoms?"
+"utm_source=api>`"
 msgstr ""
 
 # 4f82d3a5952642899f0e6b75506beb22
@@ -1734,7 +2074,10 @@ msgstr ""
 "walki pod twoim władaniem, dobierz kartę."
 
 #: ../../JOU.rst:622
-msgid ":mtgtip:`Font of Fertility`"
+msgid ""
+":mtgtip:`Font of Fertility<https://img.scryfall.com/cards/border_crop/en/"
+"jou/123.jpg?1517813031|https://scryfall.com/card/jou/123/font-of-fertility?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:621
@@ -1745,7 +2088,9 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:626
-msgid ":mtgtip:`Golden Hind`"
+msgid ""
+":mtgtip:`Golden Hind<https://img.scryfall.com/cards/border_crop/en/jou/124."
+"jpg?1517813031|https://scryfall.com/card/jou/124/golden-hind?utm_source=api>`"
 msgstr ""
 
 # 3316b2f43b754b7d84e2ab467e2e2325
@@ -1754,7 +2099,10 @@ msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Dostajesz |mana_g|."
 
 #: ../../JOU.rst:630
-msgid ":mtgtip:`Goldenhide Ox`"
+msgid ""
+":mtgtip:`Goldenhide Ox<https://img.scryfall.com/cards/border_crop/en/jou/125."
+"jpg?1517813031|https://scryfall.com/card/jou/125/goldenhide-ox?"
+"utm_source=api>`"
 msgstr ""
 
 # 7d22788330cf4d50a0241e892d35d251
@@ -1769,7 +2117,9 @@ msgstr ""
 "możliwe."
 
 #: ../../JOU.rst:636
-msgid ":mtgtip:`Heroes' Bane`"
+msgid ""
+":mtgtip:`Heroes' Bane<https://img.scryfall.com/cards/border_crop/en/jou/126."
+"jpg?1517813031|https://scryfall.com/card/jou/126/heroes-bane?utm_source=api>`"
 msgstr ""
 
 # cdfb7b828b5d424bbb09d28b6098f283
@@ -1788,7 +2138,10 @@ msgstr ""
 "gdzie X to jego siła."
 
 #: ../../JOU.rst:640
-msgid ":mtgtip:`Humbler of Mortals`"
+msgid ""
+":mtgtip:`Humbler of Mortals<https://img.scryfall.com/cards/border_crop/en/"
+"jou/127.jpg?1517813031|https://scryfall.com/card/jou/127/humbler-of-mortals?"
+"utm_source=api>`"
 msgstr ""
 
 # 23d22d33b0bb44bf9a36fc18e287660e
@@ -1803,7 +2156,10 @@ msgstr ""
 "tury."
 
 #: ../../JOU.rst:646
-msgid ":mtgtip:`Hydra Broodmaster`"
+msgid ""
+":mtgtip:`Hydra Broodmaster<https://img.scryfall.com/cards/border_crop/en/"
+"jou/128.jpg?1517813031|https://scryfall.com/card/jou/128/hydra-broodmaster?"
+"utm_source=api>`"
 msgstr ""
 
 # 009259ac9c834d2199284a619abe4bd7
@@ -1827,7 +2183,10 @@ msgstr ""
 "stwora Hydra X/X."
 
 #: ../../JOU.rst:650
-msgid ":mtgtip:`Kruphix's Insight`"
+msgid ""
+":mtgtip:`Kruphix's Insight<https://img.scryfall.com/cards/border_crop/en/"
+"jou/129.jpg?1517813031|https://scryfall.com/card/jou/129/kruphixs-insight?"
+"utm_source=api>`"
 msgstr ""
 
 # 9f99595c75694b7c83e3bbeffe02c9c2
@@ -1842,7 +2201,10 @@ msgstr ""
 "cmentarza."
 
 #: ../../JOU.rst:656
-msgid ":mtgtip:`Market Festival`"
+msgid ""
+":mtgtip:`Market Festival<https://img.scryfall.com/cards/border_crop/en/"
+"jou/130.jpg?1517813031|https://scryfall.com/card/jou/130/market-festival?"
+"utm_source=api>`"
 msgstr ""
 
 # 40516298411d45299a85c99702af2592
@@ -1857,7 +2219,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:662
-msgid ":mtgtip:`Nature's Panoply`"
+msgid ""
+":mtgtip:`Nature's Panoply<https://img.scryfall.com/cards/border_crop/en/"
+"jou/131.jpg?1517813031|https://scryfall.com/card/jou/131/natures-panoply?"
+"utm_source=api>`"
 msgstr ""
 
 # 0ae435397c3b454c9eeecd4b6702c4d3
@@ -1867,7 +2232,10 @@ msgid ""
 msgstr "Wskaż dowolną liczbę stworów. Umieść znacznik +1/+1 na każdej z nich."
 
 #: ../../JOU.rst:666
-msgid ":mtgtip:`Nessian Game Warden`"
+msgid ""
+":mtgtip:`Nessian Game Warden<https://img.scryfall.com/cards/border_crop/en/"
+"jou/132.jpg?1517813031|https://scryfall.com/card/jou/132/nessian-game-warden?"
+"utm_source=api>`"
 msgstr ""
 
 # 6937ef560954439fb3405690e3eb597e
@@ -1880,7 +2248,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:670
-msgid ":mtgtip:`Oakheart Dryads`"
+msgid ""
+":mtgtip:`Oakheart Dryads<https://img.scryfall.com/cards/border_crop/en/"
+"jou/133.jpg?1517813031|https://scryfall.com/card/jou/133/oakheart-dryads?"
+"utm_source=api>`"
 msgstr ""
 
 # 4aaaac969a2a4230bd71fdeba6eeb116
@@ -1893,7 +2264,10 @@ msgstr ""
 "pod twoim władaniem, wskazany stwór dostaje +1/+1 do końca tury."
 
 #: ../../JOU.rst:674
-msgid ":mtgtip:`Pheres-Band Thunderhoof`"
+msgid ""
+":mtgtip:`Pheres-Band Thunderhoof<https://img.scryfall.com/cards/border_crop/"
+"en/jou/134.jpg?1517813031|https://scryfall.com/card/jou/134/pheres-band-"
+"thunderhoof?utm_source=api>`"
 msgstr ""
 
 # a8a62e98bc874e52bfd79bfea19afcfb
@@ -1904,7 +2278,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:680
-msgid ":mtgtip:`Pheres-Band Warchief`"
+msgid ""
+":mtgtip:`Pheres-Band Warchief<https://img.scryfall.com/cards/border_crop/en/"
+"jou/135.jpg?1517813031|https://scryfall.com/card/jou/135/pheres-band-"
+"warchief?utm_source=api>`"
 msgstr ""
 
 # e459ede07dc744c58f66378924c5ac3d
@@ -1919,7 +2296,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:686
-msgid ":mtgtip:`Ravenous Leucrocota`"
+msgid ""
+":mtgtip:`Ravenous Leucrocota<https://img.scryfall.com/cards/border_crop/en/"
+"jou/136.jpg?1517813031|https://scryfall.com/card/jou/136/ravenous-leucrocota?"
+"utm_source=api>`"
 msgstr ""
 
 # e672e4a3bdca47418cc10e88002cebab
@@ -1938,7 +2318,10 @@ msgstr ""
 "monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
 #: ../../JOU.rst:690
-msgid ":mtgtip:`Renowned Weaver`"
+msgid ""
+":mtgtip:`Renowned Weaver<https://img.scryfall.com/cards/border_crop/en/"
+"jou/137.jpg?1517813031|https://scryfall.com/card/jou/137/renowned-weaver?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:689
@@ -1948,7 +2331,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:698
-msgid ":mtgtip:`Reviving Melody`"
+msgid ""
+":mtgtip:`Reviving Melody<https://img.scryfall.com/cards/border_crop/en/"
+"jou/138.jpg?1517813031|https://scryfall.com/card/jou/138/reviving-melody?"
+"utm_source=api>`"
 msgstr ""
 
 # f72b96b05d7f4142aa036d06ce55b493
@@ -1969,7 +2355,10 @@ msgid "Return target enchantment card from your graveyard to your hand."
 msgstr ""
 
 #: ../../JOU.rst:702
-msgid ":mtgtip:`Satyr Grovedancer`"
+msgid ""
+":mtgtip:`Satyr Grovedancer<https://img.scryfall.com/cards/border_crop/en/"
+"jou/139.jpg?1517813031|https://scryfall.com/card/jou/139/satyr-grovedancer?"
+"utm_source=api>`"
 msgstr ""
 
 # bb61994d30fc4802b73736e780a3dca6
@@ -1980,7 +2369,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:708
-msgid ":mtgtip:`Setessan Tactics`"
+msgid ""
+":mtgtip:`Setessan Tactics<https://img.scryfall.com/cards/border_crop/en/"
+"jou/140.jpg?1517813031|https://scryfall.com/card/jou/140/setessan-tactics?"
+"utm_source=api>`"
 msgstr ""
 
 # e24620f9b8b24c95a0fc33d7a543a98c
@@ -2004,7 +2396,10 @@ msgstr ""
 "tury."
 
 #: ../../JOU.rst:714
-msgid ":mtgtip:`Solidarity of Heroes`"
+msgid ""
+":mtgtip:`Solidarity of Heroes<https://img.scryfall.com/cards/border_crop/en/"
+"jou/141.jpg?1517813031|https://scryfall.com/card/jou/141/solidarity-of-"
+"heroes?utm_source=api>`"
 msgstr ""
 
 # 40031731496b44cb81a9c5cc81eaff09
@@ -2015,7 +2410,9 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:722
-msgid ":mtgtip:`Spirespine`"
+msgid ""
+":mtgtip:`Spirespine<https://img.scryfall.com/cards/border_crop/en/jou/142."
+"jpg?1517813031|https://scryfall.com/card/jou/142/spirespine?utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:717
@@ -2040,7 +2437,10 @@ msgid "Enchanted creature gets +4/+1 and blocks each combat if able."
 msgstr "Zauroczony stwór dostaje +2/+2 i atakuje w każdej turze jeśli może."
 
 #: ../../JOU.rst:726
-msgid ":mtgtip:`Strength from the Fallen`"
+msgid ""
+":mtgtip:`Strength from the Fallen<https://img.scryfall.com/cards/border_crop/"
+"en/jou/143.jpg?1517813031|https://scryfall.com/card/jou/143/strength-from-"
+"the-fallen?utm_source=api>`"
 msgstr ""
 
 # 8366b12d97614105936d6ba92a958055
@@ -2055,7 +2455,10 @@ msgstr ""
 "X jest liczbą kart stworów w twoim cmentarzu."
 
 #: ../../JOU.rst:734
-msgid ":mtgtip:`Swarmborn Giant`"
+msgid ""
+":mtgtip:`Swarmborn Giant<https://img.scryfall.com/cards/border_crop/en/"
+"jou/144.jpg?1517813031|https://scryfall.com/card/jou/144/swarmborn-giant?"
+"utm_source=api>`"
 msgstr ""
 
 # 4a1190c7906742aca475fb25c2348552
@@ -2078,10 +2481,11 @@ msgstr ""
 msgid "As long as Swarmborn Giant is monstrous, it has reach."
 msgstr ""
 
-# 43c8efce38634c1cb1d62d94858567ca
 #: ../../JOU.rst:742
-#, fuzzy
-msgid ":mtgtip:`Ajani, Mentor of Heroes`"
+msgid ""
+":mtgtip:`Ajani, Mentor of Heroes<https://img.scryfall.com/cards/border_crop/"
+"en/jou/145.jpg?1517813031|https://scryfall.com/card/jou/145/ajani-mentor-of-"
+"heroes?utm_source=api>`"
 msgstr ""
 
 # 0db4ee74281143ce93e85e7f53ad108b
@@ -2110,7 +2514,10 @@ msgid "−8: You gain 100 life."
 msgstr "−8: Zyskujesz 100 punktów życia."
 
 #: ../../JOU.rst:750
-msgid ":mtgtip:`Athreos, God of Passage`"
+msgid ""
+":mtgtip:`Athreos, God of Passage<https://img.scryfall.com/cards/border_crop/"
+"en/jou/146.jpg?1517813031|https://scryfall.com/card/jou/146/athreos-god-of-"
+"passage?utm_source=api>`"
 msgstr ""
 
 # 148fac7c14c64cc29662576a6f69e83f
@@ -2142,7 +2549,10 @@ msgstr ""
 "ręki, chyba że wskazany przeciwnik zapłaci 3 życia."
 
 #: ../../JOU.rst:756
-msgid ":mtgtip:`Desperate Stand`"
+msgid ""
+":mtgtip:`Desperate Stand<https://img.scryfall.com/cards/border_crop/en/"
+"jou/147.jpg?1517813031|https://scryfall.com/card/jou/147/desperate-stand?"
+"utm_source=api>`"
 msgstr ""
 
 # 5855ac49f65d40eba153abe38de3fc93
@@ -2163,7 +2573,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:760
-msgid ":mtgtip:`Disciple of Deceit`"
+msgid ""
+":mtgtip:`Disciple of Deceit<https://img.scryfall.com/cards/border_crop/en/"
+"jou/148.jpg?1517813031|https://scryfall.com/card/jou/148/disciple-of-deceit?"
+"utm_source=api>`"
 msgstr ""
 
 # 69e2ca158be04cb99e923c4767febf27
@@ -2176,7 +2589,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:768
-msgid ":mtgtip:`Fleetfeather Cockatrice`"
+msgid ""
+":mtgtip:`Fleetfeather Cockatrice<https://img.scryfall.com/cards/border_crop/"
+"en/jou/149.jpg?1517813031|https://scryfall.com/card/jou/149/fleetfeather-"
+"cockatrice?utm_source=api>`"
 msgstr ""
 
 # 5da00e357e59432481eadadc9afb2d5b
@@ -2194,10 +2610,11 @@ msgstr ""
 "|mana_5|\\ |mana_r|\\ |mana_r|: Monstrualność 3. (Jeśli ten stwór nie jest "
 "monstrualny, umieść na nim trzy znaczniki +1/+1 i staje się on monstrualny.)"
 
-# bed6007ebc61421d9c98742b2190c60d
 #: ../../JOU.rst:778
-#, fuzzy
-msgid ":mtgtip:`Iroas, God of Victory`"
+msgid ""
+":mtgtip:`Iroas, God of Victory<https://img.scryfall.com/cards/border_crop/en/"
+"jou/150.jpg?1517813031|https://scryfall.com/card/jou/150/iroas-god-of-"
+"victory?utm_source=api>`"
 msgstr ""
 
 # 65e20234644348ffb5c4ade15a56dd3e
@@ -2219,10 +2636,11 @@ msgid ""
 "Prevent all damage that would be dealt to attacking creatures you control."
 msgstr ""
 
-# 7ecaf5d47b024cc5be9d6afd8eb15f8d
 #: ../../JOU.rst:786
-#, fuzzy
-msgid ":mtgtip:`Keranos, God of Storms`"
+msgid ""
+":mtgtip:`Keranos, God of Storms<https://img.scryfall.com/cards/border_crop/"
+"en/jou/151.jpg?1517813031|https://scryfall.com/card/jou/151/keranos-god-of-"
+"storms?utm_source=api>`"
 msgstr ""
 
 # 3d2413ec7a7c4e46aa81c59b79359ec0
@@ -2240,7 +2658,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:796
-msgid ":mtgtip:`Kruphix, God of Horizons`"
+msgid ""
+":mtgtip:`Kruphix, God of Horizons<https://img.scryfall.com/cards/border_crop/"
+"en/jou/152.jpg?1517813031|https://scryfall.com/card/jou/152/kruphix-god-of-"
+"horizons?utm_source=api>`"
 msgstr ""
 
 # 87912c91ec8f4de5a5317ec44bb4e6f9
@@ -2264,7 +2685,9 @@ msgstr ""
 "tego owa mana staje się bezkolorowa."
 
 #: ../../JOU.rst:804
-msgid ":mtgtip:`Nyx Weaver`"
+msgid ""
+":mtgtip:`Nyx Weaver<https://img.scryfall.com/cards/border_crop/en/jou/153."
+"jpg?1517813031|https://scryfall.com/card/jou/153/nyx-weaver?utm_source=api>`"
 msgstr ""
 
 # ca8564f4528b4b40b819bb237c3ef14d
@@ -2290,7 +2713,10 @@ msgid ""
 msgstr "Zwróć wskazaną kartę stwora z twojego cmentarza do twojej ręki."
 
 #: ../../JOU.rst:812
-msgid ":mtgtip:`Pharika, God of Affliction`"
+msgid ""
+":mtgtip:`Pharika, God of Affliction<https://img.scryfall.com/cards/"
+"border_crop/en/jou/154.jpg?1517813031|https://scryfall.com/card/jou/154/"
+"pharika-god-of-affliction?utm_source=api>`"
 msgstr ""
 
 # 75ace5696304445c8ccfc6ef63ecf3b1
@@ -2308,7 +2734,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:816
-msgid ":mtgtip:`Revel of the Fallen God`"
+msgid ""
+":mtgtip:`Revel of the Fallen God<https://img.scryfall.com/cards/border_crop/"
+"en/jou/155.jpg?1517813031|https://scryfall.com/card/jou/155/revel-of-the-"
+"fallen-god?utm_source=api>`"
 msgstr ""
 
 # 41029c68314f43089b9dd1b4d7f5beab
@@ -2318,7 +2747,10 @@ msgid "Create four 2/2 red and green Satyr creature tokens with haste."
 msgstr "Umieść na polu walki dwa żetony czerwonego stwora Minotaur 2/2."
 
 #: ../../JOU.rst:822
-msgid ":mtgtip:`Stormchaser Chimera`"
+msgid ""
+":mtgtip:`Stormchaser Chimera<https://img.scryfall.com/cards/border_crop/en/"
+"jou/156.jpg?1517813031|https://scryfall.com/card/jou/156/stormchaser-chimera?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:821
@@ -2330,7 +2762,10 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:828
-msgid ":mtgtip:`Underworld Coinsmith`"
+msgid ""
+":mtgtip:`Underworld Coinsmith<https://img.scryfall.com/cards/border_crop/en/"
+"jou/157.jpg?1517813031|https://scryfall.com/card/jou/157/underworld-"
+"coinsmith?utm_source=api>`"
 msgstr ""
 
 # 96750c37ad284cd7bf4ccedc1232061d
@@ -2346,10 +2781,11 @@ msgstr ""
 msgid "|mana_w|\\ |mana_b|, Pay 1 life: Each opponent loses 1 life."
 msgstr ""
 
-# af2f0a3318884ff18ed5a59027677586
 #: ../../JOU.rst:834
-#, fuzzy
-msgid ":mtgtip:`Armory of Iroas`"
+msgid ""
+":mtgtip:`Armory of Iroas<https://img.scryfall.com/cards/border_crop/en/"
+"jou/158.jpg?1517813031|https://scryfall.com/card/jou/158/armory-of-iroas?"
+"utm_source=api>`"
 msgstr ""
 
 # a3a0ca139ef341c281008b0d7ee12654
@@ -2363,7 +2799,10 @@ msgid "Equip |mana_2|"
 msgstr "Wyposaż |mana_2|"
 
 #: ../../JOU.rst:840
-msgid ":mtgtip:`Chariot of Victory`"
+msgid ""
+":mtgtip:`Chariot of Victory<https://img.scryfall.com/cards/border_crop/en/"
+"jou/159.jpg?1517813031|https://scryfall.com/card/jou/159/chariot-of-victory?"
+"utm_source=api>`"
 msgstr ""
 
 # c9b15700dd3c4b508e17c444c5264630
@@ -2377,7 +2816,10 @@ msgid "Equip |mana_1|"
 msgstr "Wyposaż |mana_1|"
 
 #: ../../JOU.rst:846
-msgid ":mtgtip:`Deserter's Quarters`"
+msgid ""
+":mtgtip:`Deserter's Quarters<https://img.scryfall.com/cards/border_crop/en/"
+"jou/160.jpg?1517813031|https://scryfall.com/card/jou/160/deserters-quarters?"
+"utm_source=api>`"
 msgstr ""
 
 # 08a5b3709d624c689ff460672c974ad2
@@ -2393,11 +2835,17 @@ msgid ""
 msgstr ""
 
 #: ../../JOU.rst:850
-msgid ":mtgtip:`Gold-Forged Sentinel`"
+msgid ""
+":mtgtip:`Gold-Forged Sentinel<https://img.scryfall.com/cards/border_crop/en/"
+"jou/161.jpg?1517813031|https://scryfall.com/card/jou/161/gold-forged-"
+"sentinel?utm_source=api>`"
 msgstr ""
 
 #: ../../JOU.rst:856
-msgid ":mtgtip:`Hall of Triumph`"
+msgid ""
+":mtgtip:`Hall of Triumph<https://img.scryfall.com/cards/border_crop/en/"
+"jou/162.jpg?1517813031|https://scryfall.com/card/jou/162/hall-of-triumph?"
+"utm_source=api>`"
 msgstr ""
 
 # e862c97dbdbc4abeb3b657dadfe79805
@@ -2411,7 +2859,10 @@ msgid "Creatures you control of the chosen color get +1/+1."
 msgstr "Władane przez ciebie stwory wybranego koloru dostają +1/+1."
 
 #: ../../JOU.rst:860
-msgid ":mtgtip:`Mana Confluence`"
+msgid ""
+":mtgtip:`Mana Confluence<https://img.scryfall.com/cards/border_crop/en/"
+"jou/163.jpg?1517813031|https://scryfall.com/card/jou/163/mana-confluence?"
+"utm_source=api>`"
 msgstr ""
 
 # 1283291927f34d17b7bcda652ce06def
@@ -2422,7 +2873,10 @@ msgstr ""
 "|tap|, zapłać 1 życie: Dodaj jedną manę dowolnego koloru do twojej puli many."
 
 #: ../../JOU.rst:868
-msgid ":mtgtip:`Temple of Epiphany`"
+msgid ""
+":mtgtip:`Temple of Epiphany<https://img.scryfall.com/cards/border_crop/en/"
+"jou/164.jpg?1517813031|https://scryfall.com/card/jou/164/temple-of-epiphany?"
+"utm_source=api>`"
 msgstr ""
 
 # 51884cd91f7d42ab978e11bed8e4f0cb
@@ -2443,7 +2897,10 @@ msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../JOU.rst:875
-msgid ":mtgtip:`Temple of Malady`"
+msgid ""
+":mtgtip:`Temple of Malady<https://img.scryfall.com/cards/border_crop/en/"
+"jou/165.jpg?1517813031|https://scryfall.com/card/jou/165/temple-of-malady?"
+"utm_source=api>`"
 msgstr ""
 
 # 66e0cd425eea41b4b85d48585dfff6fc
