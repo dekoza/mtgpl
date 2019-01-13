@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 17:36+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-13 22:24+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -2399,7 +2399,7 @@ msgstr ""
 #: ../../HOU.rst:1093
 #, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "|tap|: Dostajesz |mana_w|."
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../HOU.rst:1098
 msgid ":mtgtip:`Island`"
@@ -2408,7 +2408,7 @@ msgstr ""
 #: ../../HOU.rst:1097
 #, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "|tap|: Dostajesz |mana_u|."
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../HOU.rst:1102
 msgid ":mtgtip:`Swamp`"
@@ -2417,7 +2417,7 @@ msgstr ""
 #: ../../HOU.rst:1101
 #, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "|tap|: Dostajesz |mana_b|."
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../HOU.rst:1106
 #, fuzzy
@@ -2427,7 +2427,7 @@ msgstr ""
 #: ../../HOU.rst:1105
 #, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "|tap|: Dostajesz |mana_r|."
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../HOU.rst:1110
 msgid ":mtgtip:`Forest`"
@@ -2436,7 +2436,7 @@ msgstr ""
 #: ../../HOU.rst:1109
 #, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "|tap|: Dostajesz |mana_g|."
+msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 #: ../../HOU.rst:1118
 msgid ":mtgtip:`Nissa, Genesis Mage`"
