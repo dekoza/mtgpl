@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: 2019-01-13 15:26+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
@@ -20,14 +20,14 @@ msgstr ""
 "X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
-#: ../../HOU.rst:5 ../../HOU.rst:538
+#: ../../HOU.rst:5
 #, fuzzy
-msgid "Hour of Devastation"
+msgid ":mtgexp:`HOU` Hour of Devastation"
 msgstr "Hour of Devastation"
 
 #: ../../HOU.rst:10
 #, fuzzy
-msgid "Act of Heroism"
+msgid ":mtgtip:`Act of Heroism`"
 msgstr "Act of Heroism"
 
 #: ../../HOU.rst:9
@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../../HOU.rst:16
 #, fuzzy
-msgid "Adorned Pouncer"
+msgid ":mtgtip:`Adorned Pouncer`"
 msgstr "Adorned Pouncer"
 
 #: ../../HOU.rst:13
@@ -57,7 +57,7 @@ msgstr ""
 
 #: ../../HOU.rst:24
 #, fuzzy
-msgid "Angel of Condemnation"
+msgid ":mtgtip:`Angel of Condemnation`"
 msgstr "Angel of Condemnation"
 
 #: ../../HOU.rst:19
@@ -88,13 +88,13 @@ msgstr ""
 
 #: ../../HOU.rst:30
 #, fuzzy
-msgid "Angel of the God-Pharaoh"
+msgid ":mtgtip:`Angel of the God-Pharaoh`"
 msgstr "Angel of the God-Pharaoh"
 
 #: ../../HOU.rst:27 ../../HOU.rst:33 ../../HOU.rst:45 ../../HOU.rst:167
 #: ../../HOU.rst:175 ../../HOU.rst:227 ../../HOU.rst:235 ../../HOU.rst:293
 #: ../../HOU.rst:331 ../../HOU.rst:349 ../../HOU.rst:737 ../../HOU.rst:745
-#: ../../HOU.rst:779 ../../HOU.rst:1187
+#: ../../HOU.rst:779 ../../HOU.rst:1147
 msgid "Flying"
 msgstr "Latanie"
 
@@ -105,7 +105,7 @@ msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../HOU.rst:36
-msgid "Aven of Enduring Hope"
+msgid ":mtgtip:`Aven of Enduring Hope`"
 msgstr ""
 
 #: ../../HOU.rst:35
@@ -113,7 +113,7 @@ msgid "When Aven of Enduring Hope enters the battlefield, you gain 3 life."
 msgstr ""
 
 #: ../../HOU.rst:42
-msgid "Crested Sunmare"
+msgid ":mtgtip:`Crested Sunmare`"
 msgstr ""
 
 #: ../../HOU.rst:39
@@ -127,7 +127,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:48
-msgid "Dauntless Aven"
+msgid ":mtgtip:`Dauntless Aven`"
 msgstr ""
 
 #: ../../HOU.rst:47
@@ -135,7 +135,7 @@ msgid "Whenever Dauntless Aven attacks, untap target creature you control."
 msgstr ""
 
 #: ../../HOU.rst:56
-msgid "Desert's Hold"
+msgid ":mtgtip:`Desert's Hold`"
 msgstr ""
 
 #: ../../HOU.rst:51 ../../HOU.rst:301
@@ -155,7 +155,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:60
-msgid "Disposal Mummy"
+msgid ":mtgtip:`Disposal Mummy`"
 msgstr ""
 
 #: ../../HOU.rst:59
@@ -165,7 +165,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:68
-msgid "Djeru, With Eyes Open"
+msgid ":mtgtip:`Djeru, With Eyes Open`"
 msgstr ""
 
 #: ../../HOU.rst:63 ../../HOU.rst:139
@@ -186,7 +186,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:74
-msgid "Djeru's Renunciation"
+msgid ":mtgtip:`Djeru's Renunciation`"
 msgstr ""
 
 #: ../../HOU.rst:71
@@ -198,11 +198,11 @@ msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../HOU.rst:76
-msgid "Dutiful Servants"
+msgid ":mtgtip:`Dutiful Servants`"
 msgstr ""
 
 #: ../../HOU.rst:82
-msgid "Gideon's Defeat"
+msgid ":mtgtip:`Gideon's Defeat`"
 msgstr ""
 
 #: ../../HOU.rst:81
@@ -212,7 +212,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:86
-msgid "God-Pharaoh's Faithful"
+msgid ":mtgtip:`God-Pharaoh's Faithful`"
 msgstr ""
 
 #: ../../HOU.rst:85
@@ -220,8 +220,9 @@ msgid "Whenever you cast a blue, black, or red spell, you gain 1 life."
 msgstr ""
 
 #: ../../HOU.rst:92
-msgid "Hour of Revelation"
-msgstr ""
+#, fuzzy
+msgid ":mtgtip:`Hour of Revelation`"
+msgstr "Hour of Devastation"
 
 #: ../../HOU.rst:89
 msgid ""
@@ -234,7 +235,7 @@ msgid "Destroy all nonland permanents."
 msgstr ""
 
 #: ../../HOU.rst:96
-msgid "Mummy Paramount"
+msgid ":mtgtip:`Mummy Paramount`"
 msgstr ""
 
 #: ../../HOU.rst:95
@@ -244,7 +245,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:100
-msgid "Oketra's Avenger"
+msgid ":mtgtip:`Oketra's Avenger`"
 msgstr ""
 
 #: ../../HOU.rst:99
@@ -255,7 +256,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:104
-msgid "Oketra's Last Mercy"
+msgid ":mtgtip:`Oketra's Last Mercy`"
 msgstr ""
 
 #: ../../HOU.rst:103
@@ -265,7 +266,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:112
-msgid "Overwhelming Splendor"
+msgid ":mtgtip:`Overwhelming Splendor`"
 msgstr ""
 
 #: ../../HOU.rst:107 ../../HOU.rst:201 ../../HOU.rst:437
@@ -285,7 +286,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:116
-msgid "Sandblast"
+msgid ":mtgtip:`Sandblast`"
 msgstr ""
 
 #: ../../HOU.rst:115
@@ -293,7 +294,7 @@ msgid "Sandblast deals 5 damage to target attacking or blocking creature."
 msgstr ""
 
 #: ../../HOU.rst:126
-msgid "Saving Grace"
+msgid ":mtgtip:`Saving Grace`"
 msgstr ""
 
 #: ../../HOU.rst:119 ../../HOU.rst:173 ../../HOU.rst:225
@@ -316,7 +317,7 @@ msgid "Enchanted creature gets +0/+3."
 msgstr ""
 
 #: ../../HOU.rst:132
-msgid "Solemnity"
+msgid ":mtgtip:`Solemnity`"
 msgstr ""
 
 #: ../../HOU.rst:129
@@ -328,7 +329,7 @@ msgid "Counters can't be put on artifacts, creatures, enchantments, or lands."
 msgstr ""
 
 #: ../../HOU.rst:136
-msgid "Solitary Camel"
+msgid ":mtgtip:`Solitary Camel`"
 msgstr ""
 
 #: ../../HOU.rst:135
@@ -339,7 +340,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:142
-msgid "Steadfast Sentinel"
+msgid ":mtgtip:`Steadfast Sentinel`"
 msgstr ""
 
 #: ../../HOU.rst:141
@@ -351,7 +352,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:146
-msgid "Steward of Solidarity"
+msgid ":mtgtip:`Steward of Solidarity`"
 msgstr ""
 
 #: ../../HOU.rst:145
@@ -362,7 +363,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:152
-msgid "Sunscourge Champion"
+msgid ":mtgtip:`Sunscourge Champion`"
 msgstr ""
 
 #: ../../HOU.rst:149
@@ -380,7 +381,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:158
-msgid "Unconventional Tactics"
+msgid ":mtgtip:`Unconventional Tactics`"
 msgstr ""
 
 #: ../../HOU.rst:155
@@ -395,7 +396,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:164
-msgid "Vizier of the True"
+msgid ":mtgtip:`Vizier of the True`"
 msgstr ""
 
 #: ../../HOU.rst:161
@@ -410,7 +411,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:170
-msgid "Aerial Guide"
+msgid ":mtgtip:`Aerial Guide`"
 msgstr ""
 
 #: ../../HOU.rst:169
@@ -420,11 +421,11 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:176
-msgid "Aven Reedstalker"
+msgid ":mtgtip:`Aven Reedstalker`"
 msgstr ""
 
 #: ../../HOU.rst:182
-msgid "Champion of Wits"
+msgid ":mtgtip:`Champion of Wits`"
 msgstr ""
 
 #: ../../HOU.rst:179
@@ -442,7 +443,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:188
-msgid "Countervailing Winds"
+msgid ":mtgtip:`Countervailing Winds`"
 msgstr ""
 
 #: ../../HOU.rst:185
@@ -452,7 +453,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:192
-msgid "Cunning Survivor"
+msgid ":mtgtip:`Cunning Survivor`"
 msgstr ""
 
 #: ../../HOU.rst:191
@@ -462,7 +463,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:198
-msgid "Eternal of Harsh Truths"
+msgid ":mtgtip:`Eternal of Harsh Truths`"
 msgstr ""
 
 #: ../../HOU.rst:195 ../../HOU.rst:263 ../../HOU.rst:399 ../../HOU.rst:517
@@ -477,7 +478,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:204
-msgid "Fraying Sanity"
+msgid ":mtgtip:`Fraying Sanity`"
 msgstr ""
 
 #: ../../HOU.rst:203
@@ -488,7 +489,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:208
-msgid "Hour of Eternity"
+msgid ":mtgtip:`Hour of Eternity`"
 msgstr ""
 
 #: ../../HOU.rst:207
@@ -499,7 +500,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:214
-msgid "Imaginary Threats"
+msgid ":mtgtip:`Imaginary Threats`"
 msgstr ""
 
 #: ../../HOU.rst:211
@@ -509,7 +510,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:218
-msgid "Jace's Defeat"
+msgid ":mtgtip:`Jace's Defeat`"
 msgstr ""
 
 #: ../../HOU.rst:217
@@ -517,7 +518,7 @@ msgid "Counter target blue spell. If it was a Jace planeswalker spell, scry 2."
 msgstr ""
 
 #: ../../HOU.rst:222
-msgid "Kefnet's Last Word"
+msgid ":mtgtip:`Kefnet's Last Word`"
 msgstr ""
 
 #: ../../HOU.rst:221
@@ -527,7 +528,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:232
-msgid "Nimble Obstructionist"
+msgid ":mtgtip:`Nimble Obstructionist`"
 msgstr ""
 
 #: ../../HOU.rst:229
@@ -546,7 +547,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:238
-msgid "Ominous Sphinx"
+msgid ":mtgtip:`Ominous Sphinx`"
 msgstr ""
 
 #: ../../HOU.rst:237
@@ -556,7 +557,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:242
-msgid "Proven Combatant"
+msgid ":mtgtip:`Proven Combatant`"
 msgstr ""
 
 #: ../../HOU.rst:241
@@ -568,7 +569,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:248
-msgid "Riddleform"
+msgid ":mtgtip:`Riddleform`"
 msgstr ""
 
 #: ../../HOU.rst:245
@@ -582,7 +583,7 @@ msgid "|mana_2|\\ |mana_u|: Scry 1."
 msgstr ""
 
 #: ../../HOU.rst:252
-msgid "Seer of the Last Tomorrow"
+msgid ":mtgtip:`Seer of the Last Tomorrow`"
 msgstr ""
 
 #: ../../HOU.rst:251
@@ -592,7 +593,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:258
-msgid "Sinuous Striker"
+msgid ":mtgtip:`Sinuous Striker`"
 msgstr ""
 
 #: ../../HOU.rst:255
@@ -608,7 +609,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:264
-msgid "Spellweaver Eternal"
+msgid ":mtgtip:`Spellweaver Eternal`"
 msgstr ""
 
 #: ../../HOU.rst:261 ../../HOU.rst:593 ../../HOU.rst:739
@@ -618,7 +619,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:268
-msgid "Strategic Planning"
+msgid ":mtgtip:`Strategic Planning`"
 msgstr ""
 
 #: ../../HOU.rst:267
@@ -630,7 +631,7 @@ msgstr ""
 "twojej ręki, a pozostałe do twojego cmentarza."
 
 #: ../../HOU.rst:274
-msgid "Striped Riverwinder"
+msgid ":mtgtip:`Striped Riverwinder`"
 msgstr ""
 
 #: ../../HOU.rst:271
@@ -646,7 +647,7 @@ msgid "Cycling |mana_u| (|mana_u|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_u| (|mana_u|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../HOU.rst:282
-msgid "Supreme Will"
+msgid ":mtgtip:`Supreme Will`"
 msgstr ""
 
 #: ../../HOU.rst:277 ../../HOU.rst:353 ../../HOU.rst:463
@@ -664,7 +665,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:286
-msgid "Swarm Intelligence"
+msgid ":mtgtip:`Swarm Intelligence`"
 msgstr ""
 
 #: ../../HOU.rst:285
@@ -674,7 +675,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:290
-msgid "Tragic Lesson"
+msgid ":mtgtip:`Tragic Lesson`"
 msgstr ""
 
 #: ../../HOU.rst:289
@@ -684,7 +685,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:298
-msgid "Unesh, Criosphinx Sovereign"
+msgid ":mtgtip:`Unesh, Criosphinx Sovereign`"
 msgstr ""
 
 #: ../../HOU.rst:295
@@ -700,7 +701,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:306
-msgid "Unquenchable Thirst"
+msgid ":mtgtip:`Unquenchable Thirst`"
 msgstr ""
 
 #: ../../HOU.rst:303
@@ -714,7 +715,7 @@ msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../HOU.rst:310
-msgid "Unsummon"
+msgid ":mtgtip:`Unsummon`"
 msgstr ""
 
 #: ../../HOU.rst:309
@@ -722,7 +723,7 @@ msgid "Return target creature to its owner's hand."
 msgstr "Zwróć wskazanego stwora do ręki jego właściciela."
 
 #: ../../HOU.rst:316
-msgid "Vizier of the Anointed"
+msgid ":mtgtip:`Vizier of the Anointed`"
 msgstr ""
 
 #: ../../HOU.rst:313
@@ -737,7 +738,7 @@ msgid "Whenever you activate an eternalize or embalm ability, draw a card."
 msgstr ""
 
 #: ../../HOU.rst:320
-msgid "Accursed Horde"
+msgid ":mtgtip:`Accursed Horde`"
 msgstr ""
 
 #: ../../HOU.rst:319
@@ -748,7 +749,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:328
-msgid "Ammit Eternal"
+msgid ":mtgtip:`Ammit Eternal`"
 msgstr ""
 
 #: ../../HOU.rst:323 ../../HOU.rst:569 ../../HOU.rst:575
@@ -769,7 +770,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:336
-msgid "Apocalypse Demon"
+msgid ":mtgtip:`Apocalypse Demon`"
 msgstr ""
 
 #: ../../HOU.rst:333
@@ -785,7 +786,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:342
-msgid "Banewhip Punisher"
+msgid ":mtgtip:`Banewhip Punisher`"
 msgstr ""
 
 #: ../../HOU.rst:339
@@ -801,7 +802,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:346
-msgid "Bontu's Last Reckoning"
+msgid ":mtgtip:`Bontu's Last Reckoning`"
 msgstr ""
 
 #: ../../HOU.rst:345
@@ -811,11 +812,11 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:350
-msgid "Carrion Screecher"
+msgid ":mtgtip:`Carrion Screecher`"
 msgstr ""
 
 #: ../../HOU.rst:358
-msgid "Doomfall"
+msgid ":mtgtip:`Doomfall`"
 msgstr ""
 
 #: ../../HOU.rst:355
@@ -829,7 +830,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:366
-msgid "Dreamstealer"
+msgid ":mtgtip:`Dreamstealer`"
 msgstr ""
 
 #: ../../HOU.rst:361 ../../HOU.rst:527 ../../HOU.rst:553
@@ -851,7 +852,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:370
-msgid "Grisly Survivor"
+msgid ":mtgtip:`Grisly Survivor`"
 msgstr ""
 
 #: ../../HOU.rst:369
@@ -861,7 +862,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:374
-msgid "Hour of Glory"
+msgid ":mtgtip:`Hour of Glory`"
 msgstr ""
 
 #: ../../HOU.rst:373
@@ -871,7 +872,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:378
-msgid "Khenra Eternal"
+msgid ":mtgtip:`Khenra Eternal`"
 msgstr ""
 
 #: ../../HOU.rst:377
@@ -881,7 +882,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:384
-msgid "Lethal Sting"
+msgid ":mtgtip:`Lethal Sting`"
 msgstr ""
 
 #: ../../HOU.rst:381
@@ -895,7 +896,7 @@ msgid "Destroy target creature."
 msgstr "Zniszcz wskazanego stwora."
 
 #: ../../HOU.rst:388
-msgid "Liliana's Defeat"
+msgid ":mtgtip:`Liliana's Defeat`"
 msgstr ""
 
 #: ../../HOU.rst:387
@@ -905,7 +906,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:392
-msgid "Lurching Rotbeast"
+msgid ":mtgtip:`Lurching Rotbeast`"
 msgstr ""
 
 #: ../../HOU.rst:391 ../../HOU.rst:419
@@ -913,7 +914,7 @@ msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_b| (|mana_b|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../HOU.rst:396
-msgid "Marauding Boneslasher"
+msgid ":mtgtip:`Marauding Boneslasher`"
 msgstr ""
 
 #: ../../HOU.rst:395
@@ -921,7 +922,7 @@ msgid "Marauding Boneslasher can't block unless you control another Zombie."
 msgstr ""
 
 #: ../../HOU.rst:402
-msgid "Merciless Eternal"
+msgid ":mtgtip:`Merciless Eternal`"
 msgstr ""
 
 #: ../../HOU.rst:401
@@ -931,7 +932,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:408
-msgid "Moaning Wall"
+msgid ":mtgtip:`Moaning Wall`"
 msgstr ""
 
 #: ../../HOU.rst:405 ../../HOU.rst:967
@@ -939,7 +940,7 @@ msgid "Defender"
 msgstr "Obronność"
 
 #: ../../HOU.rst:414
-msgid "Razaketh, the Foulblooded"
+msgid ":mtgtip:`Razaketh, the Foulblooded`"
 msgstr ""
 
 #: ../../HOU.rst:411
@@ -953,7 +954,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:420
-msgid "Razaketh's Rite"
+msgid ":mtgtip:`Razaketh's Rite`"
 msgstr ""
 
 #: ../../HOU.rst:417
@@ -963,7 +964,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:426
-msgid "Ruin Rat"
+msgid ":mtgtip:`Ruin Rat`"
 msgstr ""
 
 #: ../../HOU.rst:423
@@ -975,7 +976,7 @@ msgid "When Ruin Rat dies, exile target card from an opponent's graveyard."
 msgstr ""
 
 #: ../../HOU.rst:430
-msgid "Scrounger of Souls"
+msgid ":mtgtip:`Scrounger of Souls`"
 msgstr ""
 
 #: ../../HOU.rst:429
@@ -985,7 +986,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:434
-msgid "Torment of Hailfire"
+msgid ":mtgtip:`Torment of Hailfire`"
 msgstr ""
 
 #: ../../HOU.rst:433
@@ -995,7 +996,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:440
-msgid "Torment of Scarabs"
+msgid ":mtgtip:`Torment of Scarabs`"
 msgstr ""
 
 #: ../../HOU.rst:439
@@ -1005,7 +1006,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:444
-msgid "Torment of Venom"
+msgid ":mtgtip:`Torment of Venom`"
 msgstr ""
 
 #: ../../HOU.rst:443
@@ -1015,7 +1016,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:450
-msgid "Vile Manifestation"
+msgid ":mtgtip:`Vile Manifestation`"
 msgstr ""
 
 #: ../../HOU.rst:447
@@ -1025,7 +1026,7 @@ msgstr ""
 "Ten stwór dostaje +1/+0 za każdą kartę z recyklingiem w twoim cmentarzu."
 
 #: ../../HOU.rst:456
-msgid "Without Weakness"
+msgid ":mtgtip:`Without Weakness`"
 msgstr ""
 
 #: ../../HOU.rst:453
@@ -1036,7 +1037,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:460
-msgid "Wretched Camel"
+msgid ":mtgtip:`Wretched Camel`"
 msgstr ""
 
 #: ../../HOU.rst:459
@@ -1046,7 +1047,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:468
-msgid "Abrade"
+msgid ":mtgtip:`Abrade`"
 msgstr ""
 
 #: ../../HOU.rst:465
@@ -1058,7 +1059,7 @@ msgid "Destroy target artifact."
 msgstr "Zniszcz wskazany artefakt."
 
 #: ../../HOU.rst:472
-msgid "Blur of Blades"
+msgid ":mtgtip:`Blur of Blades`"
 msgstr ""
 
 #: ../../HOU.rst:471
@@ -1068,7 +1069,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:478
-msgid "Burning-Fist Minotaur"
+msgid ":mtgtip:`Burning-Fist Minotaur`"
 msgstr ""
 
 #: ../../HOU.rst:475
@@ -1082,7 +1083,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:482
-msgid "Chandra's Defeat"
+msgid ":mtgtip:`Chandra's Defeat`"
 msgstr ""
 
 #: ../../HOU.rst:481
@@ -1093,7 +1094,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:486
-msgid "Chaos Maw"
+msgid ":mtgtip:`Chaos Maw`"
 msgstr ""
 
 #: ../../HOU.rst:485
@@ -1103,7 +1104,8 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:492
-msgid "Crash Through"
+#, fuzzy
+msgid ":mtgtip:`Crash Through`"
 msgstr "Crash Through"
 
 #: ../../HOU.rst:489
@@ -1121,11 +1123,11 @@ msgid "Draw a card."
 msgstr "Dobierz kartę."
 
 #: ../../HOU.rst:494
-msgid "Defiant Khenra"
+msgid ":mtgtip:`Defiant Khenra`"
 msgstr ""
 
 #: ../../HOU.rst:504
-msgid "Earthshaker Khenra"
+msgid ":mtgtip:`Earthshaker Khenra`"
 msgstr ""
 
 #: ../../HOU.rst:499
@@ -1147,7 +1149,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:510
-msgid "Fervent Paincaster"
+msgid ":mtgtip:`Fervent Paincaster`"
 msgstr ""
 
 #: ../../HOU.rst:507
@@ -1162,7 +1164,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:514
-msgid "Firebrand Archer"
+msgid ":mtgtip:`Firebrand Archer`"
 msgstr ""
 
 #: ../../HOU.rst:513
@@ -1172,7 +1174,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:520
-msgid "Frontline Devastator"
+msgid ":mtgtip:`Frontline Devastator`"
 msgstr ""
 
 #: ../../HOU.rst:519
@@ -1180,7 +1182,7 @@ msgid "|mana_1|\\ |mana_r|: Frontline Devastator gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../HOU.rst:524
-msgid "Gilded Cerodon"
+msgid ":mtgtip:`Gilded Cerodon`"
 msgstr ""
 
 #: ../../HOU.rst:523
@@ -1190,11 +1192,11 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:530
-msgid "Granitic Titan"
+msgid ":mtgtip:`Granitic Titan`"
 msgstr ""
 
 #: ../../HOU.rst:534
-msgid "Hazoret's Undying Fury"
+msgid ":mtgtip:`Hazoret's Undying Fury`"
 msgstr ""
 
 #: ../../HOU.rst:533
@@ -1205,6 +1207,11 @@ msgid ""
 "untap step."
 msgstr ""
 
+#: ../../HOU.rst:538
+#, fuzzy
+msgid ":mtgtip:`Hour of Devastation`"
+msgstr "Hour of Devastation"
+
 #: ../../HOU.rst:537
 msgid ""
 "All creatures lose indestructible until end of turn. Hour of Devastation "
@@ -1212,7 +1219,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:544
-msgid "Imminent Doom"
+msgid ":mtgtip:`Imminent Doom`"
 msgstr ""
 
 #: ../../HOU.rst:541
@@ -1227,7 +1234,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:550
-msgid "Inferno Jet"
+msgid ":mtgtip:`Inferno Jet`"
 msgstr ""
 
 #: ../../HOU.rst:547
@@ -1235,7 +1242,7 @@ msgid "Inferno Jet deals 6 damage to target opponent or planeswalker."
 msgstr ""
 
 #: ../../HOU.rst:556
-msgid "Khenra Scrapper"
+msgid ":mtgtip:`Khenra Scrapper`"
 msgstr ""
 
 #: ../../HOU.rst:555
@@ -1246,7 +1253,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:560
-msgid "Kindled Fury"
+msgid ":mtgtip:`Kindled Fury`"
 msgstr ""
 
 #: ../../HOU.rst:559
@@ -1254,7 +1261,7 @@ msgid "Target creature gets +1/+0 and gains first strike until end of turn."
 msgstr ""
 
 #: ../../HOU.rst:566
-msgid "Magmaroth"
+msgid ":mtgtip:`Magmaroth`"
 msgstr ""
 
 #: ../../HOU.rst:563
@@ -1267,7 +1274,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:572
-msgid "Manticore Eternal"
+msgid ":mtgtip:`Manticore Eternal`"
 msgstr ""
 
 #: ../../HOU.rst:571
@@ -1275,7 +1282,7 @@ msgid "Manticore Eternal attacks each combat if able."
 msgstr ""
 
 #: ../../HOU.rst:578
-msgid "Neheb, the Eternal"
+msgid ":mtgtip:`Neheb, the Eternal`"
 msgstr ""
 
 #: ../../HOU.rst:577
@@ -1285,7 +1292,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:582
-msgid "Open Fire"
+msgid ":mtgtip:`Open Fire`"
 msgstr ""
 
 #: ../../HOU.rst:581
@@ -1293,7 +1300,7 @@ msgid "Open Fire deals 3 damage to any target."
 msgstr ""
 
 #: ../../HOU.rst:586
-msgid "Puncturing Blow"
+msgid ":mtgtip:`Puncturing Blow`"
 msgstr ""
 
 #: ../../HOU.rst:585
@@ -1303,7 +1310,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:590
-msgid "Sand Strangler"
+msgid ":mtgtip:`Sand Strangler`"
 msgstr ""
 
 #: ../../HOU.rst:589
@@ -1314,7 +1321,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:596
-msgid "Thorned Moloch"
+msgid ":mtgtip:`Thorned Moloch`"
 msgstr ""
 
 #: ../../HOU.rst:595
@@ -1322,7 +1329,7 @@ msgid "Thorned Moloch has first strike as long as it's attacking."
 msgstr ""
 
 #: ../../HOU.rst:602
-msgid "Wildfire Eternal"
+msgid ":mtgtip:`Wildfire Eternal`"
 msgstr ""
 
 #: ../../HOU.rst:599
@@ -1338,7 +1345,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:606
-msgid "Ambuscade"
+msgid ":mtgtip:`Ambuscade`"
 msgstr ""
 
 #: ../../HOU.rst:605
@@ -1348,7 +1355,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:612
-msgid "Beneath the Sands"
+msgid ":mtgtip:`Beneath the Sands`"
 msgstr ""
 
 #: ../../HOU.rst:609
@@ -1360,7 +1367,7 @@ msgstr ""
 "polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../HOU.rst:616
-msgid "Bitterbow Sharpshooters"
+msgid ":mtgtip:`Bitterbow Sharpshooters`"
 msgstr ""
 
 #: ../../HOU.rst:615
@@ -1368,7 +1375,7 @@ msgid "Vigilance, reach"
 msgstr ""
 
 #: ../../HOU.rst:620
-msgid "Devotee of Strength"
+msgid ":mtgtip:`Devotee of Strength`"
 msgstr ""
 
 #: ../../HOU.rst:619
@@ -1376,7 +1383,7 @@ msgid "|mana_4|\\ |mana_g|: Target creature gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../HOU.rst:624
-msgid "Dune Diviner"
+msgid ":mtgtip:`Dune Diviner`"
 msgstr ""
 
 #: ../../HOU.rst:623
@@ -1384,7 +1391,7 @@ msgid "|mana_1|, Tap an untapped Desert you control: You gain 1 life."
 msgstr ""
 
 #: ../../HOU.rst:628
-msgid "Feral Prowler"
+msgid ":mtgtip:`Feral Prowler`"
 msgstr ""
 
 #: ../../HOU.rst:627
@@ -1392,7 +1399,7 @@ msgid "When Feral Prowler dies, draw a card."
 msgstr ""
 
 #: ../../HOU.rst:632
-msgid "Frilled Sandwalla"
+msgid ":mtgtip:`Frilled Sandwalla`"
 msgstr ""
 
 #: ../../HOU.rst:631
@@ -1402,7 +1409,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:636
-msgid "Gift of Strength"
+msgid ":mtgtip:`Gift of Strength`"
 msgstr ""
 
 #: ../../HOU.rst:635
@@ -1410,11 +1417,11 @@ msgid "Target creature gets +3/+3 and gains reach until end of turn."
 msgstr ""
 
 #: ../../HOU.rst:638
-msgid "Harrier Naga"
+msgid ":mtgtip:`Harrier Naga`"
 msgstr ""
 
 #: ../../HOU.rst:646
-msgid "Hope Tender"
+msgid ":mtgtip:`Hope Tender`"
 msgstr ""
 
 #: ../../HOU.rst:643
@@ -1428,7 +1435,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:650
-msgid "Hour of Promise"
+msgid ":mtgtip:`Hour of Promise`"
 msgstr ""
 
 #: ../../HOU.rst:649
@@ -1439,7 +1446,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:654
-msgid "Life Goes On"
+msgid ":mtgtip:`Life Goes On`"
 msgstr ""
 
 #: ../../HOU.rst:653
@@ -1447,7 +1454,7 @@ msgid "You gain 4 life. If a creature died this turn, you gain 8 life instead."
 msgstr ""
 
 #: ../../HOU.rst:660
-msgid "Majestic Myriarch"
+msgid ":mtgtip:`Majestic Myriarch`"
 msgstr ""
 
 #: ../../HOU.rst:657
@@ -1465,7 +1472,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:664
-msgid "Nissa's Defeat"
+msgid ":mtgtip:`Nissa's Defeat`"
 msgstr ""
 
 #: ../../HOU.rst:663
@@ -1475,7 +1482,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:670
-msgid "Oasis Ritualist"
+msgid ":mtgtip:`Oasis Ritualist`"
 msgstr ""
 
 #: ../../HOU.rst:667 ../../HOU.rst:947
@@ -1489,7 +1496,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:674
-msgid "Overcome"
+msgid ":mtgtip:`Overcome`"
 msgstr ""
 
 #: ../../HOU.rst:673
@@ -1497,7 +1504,7 @@ msgid "Creatures you control get +2/+2 and gain trample until end of turn."
 msgstr ""
 
 #: ../../HOU.rst:680
-msgid "Pride Sovereign"
+msgid ":mtgtip:`Pride Sovereign`"
 msgstr ""
 
 #: ../../HOU.rst:677
@@ -1512,7 +1519,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:684
-msgid "Quarry Beetle"
+msgid ":mtgtip:`Quarry Beetle`"
 msgstr ""
 
 #: ../../HOU.rst:683
@@ -1522,7 +1529,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:690
-msgid "Rampaging Hippo"
+msgid ":mtgtip:`Rampaging Hippo`"
 msgstr ""
 
 #: ../../HOU.rst:687 ../../HOU.rst:723
@@ -1530,7 +1537,7 @@ msgid "Trample"
 msgstr "Tratowanie"
 
 #: ../../HOU.rst:694
-msgid "Ramunap Excavator"
+msgid ":mtgtip:`Ramunap Excavator`"
 msgstr ""
 
 #: ../../HOU.rst:693
@@ -1538,7 +1545,7 @@ msgid "You may play land cards from your graveyard."
 msgstr "Możesz zagrywać karty lądów z twojego cmentarza."
 
 #: ../../HOU.rst:702
-msgid "Ramunap Hydra"
+msgid ":mtgtip:`Ramunap Hydra`"
 msgstr ""
 
 #: ../../HOU.rst:697
@@ -1555,7 +1562,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:708
-msgid "Resilient Khenra"
+msgid ":mtgtip:`Resilient Khenra`"
 msgstr ""
 
 #: ../../HOU.rst:705
@@ -1573,7 +1580,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:712
-msgid "Rhonas's Last Stand"
+msgid ":mtgtip:`Rhonas's Last Stand`"
 msgstr ""
 
 #: ../../HOU.rst:711
@@ -1583,7 +1590,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:716
-msgid "Rhonas's Stalwart"
+msgid ":mtgtip:`Rhonas's Stalwart`"
 msgstr ""
 
 #: ../../HOU.rst:715
@@ -1594,7 +1601,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:720
-msgid "Sidewinder Naga"
+msgid ":mtgtip:`Sidewinder Naga`"
 msgstr ""
 
 #: ../../HOU.rst:719
@@ -1604,7 +1611,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:726
-msgid "Sifter Wurm"
+msgid ":mtgtip:`Sifter Wurm`"
 msgstr ""
 
 #: ../../HOU.rst:725
@@ -1614,7 +1621,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:730
-msgid "Tenacious Hunter"
+msgid ":mtgtip:`Tenacious Hunter`"
 msgstr ""
 
 #: ../../HOU.rst:729
@@ -1624,7 +1631,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:734
-msgid "Uncage the Menagerie"
+msgid ":mtgtip:`Uncage the Menagerie`"
 msgstr ""
 
 #: ../../HOU.rst:733
@@ -1635,7 +1642,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:742
-msgid "Bloodwater Entity"
+msgid ":mtgtip:`Bloodwater Entity`"
 msgstr ""
 
 #: ../../HOU.rst:741
@@ -1645,7 +1652,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:752
-msgid "The Locust God"
+msgid ":mtgtip:`The Locust God`"
 msgstr ""
 
 #: ../../HOU.rst:747
@@ -1668,7 +1675,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:762
-msgid "Nicol Bolas, God-Pharaoh"
+msgid ":mtgtip:`Nicol Bolas, God-Pharaoh`"
 msgstr ""
 
 #: ../../HOU.rst:755
@@ -1693,7 +1700,7 @@ msgid "−12: Exile each nonland permanent your opponents control."
 msgstr ""
 
 #: ../../HOU.rst:770
-msgid "Obelisk Spider"
+msgid ":mtgtip:`Obelisk Spider`"
 msgstr ""
 
 #: ../../HOU.rst:765
@@ -1713,7 +1720,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:776
-msgid "Resolute Survivors"
+msgid ":mtgtip:`Resolute Survivors`"
 msgstr ""
 
 #: ../../HOU.rst:773
@@ -1729,7 +1736,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:782
-msgid "River Hoopoe"
+msgid ":mtgtip:`River Hoopoe`"
 msgstr ""
 
 #: ../../HOU.rst:781
@@ -1740,7 +1747,7 @@ msgstr ""
 "kartę.)"
 
 #: ../../HOU.rst:790
-msgid "Samut, the Tested"
+msgid ":mtgtip:`Samut, the Tested`"
 msgstr ""
 
 #: ../../HOU.rst:785
@@ -1760,7 +1767,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:798
-msgid "The Scarab God"
+msgid ":mtgtip:`The Scarab God`"
 msgstr ""
 
 #: ../../HOU.rst:793
@@ -1782,7 +1789,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:806
-msgid "The Scorpion God"
+msgid ":mtgtip:`The Scorpion God`"
 msgstr ""
 
 #: ../../HOU.rst:801
@@ -1802,7 +1809,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:812
-msgid "Unraveling Mummy"
+msgid ":mtgtip:`Unraveling Mummy`"
 msgstr ""
 
 #: ../../HOU.rst:809
@@ -1817,192 +1824,192 @@ msgid ""
 "turn."
 msgstr ""
 
-#: ../../HOU.rst:816
-msgid "Farm"
+#: ../../HOU.rst:818
+msgid ":mtgtip:`Market`"
 msgstr ""
 
-#: ../../HOU.rst:815
-msgid "Destroy target attacking or blocking creature."
-msgstr ""
-
-#: ../../HOU.rst:822
-msgid "Market"
-msgstr ""
-
-#: ../../HOU.rst:819 ../../HOU.rst:829 ../../HOU.rst:839 ../../HOU.rst:849
-#: ../../HOU.rst:859 ../../HOU.rst:869 ../../HOU.rst:879 ../../HOU.rst:889
-#: ../../HOU.rst:899 ../../HOU.rst:909
+#: ../../HOU.rst:815 ../../HOU.rst:825 ../../HOU.rst:835 ../../HOU.rst:845
+#: ../../HOU.rst:855 ../../HOU.rst:865 ../../HOU.rst:875 ../../HOU.rst:885
+#: ../../HOU.rst:895 ../../HOU.rst:905
 msgid "Aftermath (Cast this spell only from your graveyard. Then exile it.)"
 msgstr ""
 
-#: ../../HOU.rst:821
+#: ../../HOU.rst:817
 msgid "Draw two cards, then discard two cards."
 msgstr ""
 
-#: ../../HOU.rst:826
-msgid "Consign"
+#: ../../HOU.rst:822
+msgid ":mtgtip:`Farm`"
 msgstr ""
 
-#: ../../HOU.rst:825
-msgid "Return target nonland permanent to its owner's hand."
+#: ../../HOU.rst:821
+msgid "Destroy target attacking or blocking creature."
 msgstr ""
 
-#: ../../HOU.rst:832
-msgid "Oblivion"
+#: ../../HOU.rst:828
+msgid ":mtgtip:`Oblivion`"
 msgstr ""
 
-#: ../../HOU.rst:831
+#: ../../HOU.rst:827
 msgid "Target opponent discards two cards."
 msgstr ""
 
-#: ../../HOU.rst:836
-msgid "Claim"
+#: ../../HOU.rst:832
+msgid ":mtgtip:`Consign`"
 msgstr ""
 
-#: ../../HOU.rst:835
+#: ../../HOU.rst:831
+msgid "Return target nonland permanent to its owner's hand."
+msgstr ""
+
+#: ../../HOU.rst:838
+msgid ":mtgtip:`Fame`"
+msgstr ""
+
+#: ../../HOU.rst:837
+msgid "Target creature gets +2/+0 and gains haste until end of turn."
+msgstr ""
+
+#: ../../HOU.rst:842
+msgid ":mtgtip:`Claim`"
+msgstr ""
+
+#: ../../HOU.rst:841
 msgid ""
 "Return target creature card with converted mana cost 2 or less from your "
 "graveyard to the battlefield."
 msgstr ""
 
-#: ../../HOU.rst:842
-msgid "Fame"
+#: ../../HOU.rst:848
+msgid ":mtgtip:`Survive`"
 msgstr ""
 
-#: ../../HOU.rst:841
-msgid "Target creature gets +2/+0 and gains haste until end of turn."
+#: ../../HOU.rst:847
+msgid "Each player shuffles their graveyard into their library."
 msgstr ""
 
-#: ../../HOU.rst:846
-msgid "Struggle"
+#: ../../HOU.rst:852
+msgid ":mtgtip:`Struggle`"
 msgstr ""
 
-#: ../../HOU.rst:845
+#: ../../HOU.rst:851
 msgid ""
 "Struggle deals damage to target creature equal to the number of lands you "
 "control."
 msgstr ""
 
-#: ../../HOU.rst:852
-msgid "Survive"
+#: ../../HOU.rst:858
+msgid ":mtgtip:`Authority`"
 msgstr ""
 
-#: ../../HOU.rst:851
-msgid "Each player shuffles their graveyard into their library."
-msgstr ""
-
-#: ../../HOU.rst:856
-msgid "Appeal"
-msgstr ""
-
-#: ../../HOU.rst:855
-msgid ""
-"Until end of turn, target creature gains trample and gets +X/+X, where X is "
-"the number of creatures you control."
-msgstr ""
-
-#: ../../HOU.rst:862
-msgid "Authority"
-msgstr ""
-
-#: ../../HOU.rst:861
+#: ../../HOU.rst:857
 msgid ""
 "Tap up to two target creatures your opponents control. Creatures you control "
 "gain vigilance until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:866
-msgid "Leave"
+#: ../../HOU.rst:862
+msgid ":mtgtip:`Appeal`"
 msgstr ""
 
-#: ../../HOU.rst:865
-msgid "Return any number of target permanents you own to your hand."
+#: ../../HOU.rst:861
+msgid ""
+"Until end of turn, target creature gains trample and gets +X/+X, where X is "
+"the number of creatures you control."
 msgstr ""
 
-#: ../../HOU.rst:872
-msgid "Chance"
+#: ../../HOU.rst:868
+msgid ":mtgtip:`Chance`"
 msgstr ""
 
-#: ../../HOU.rst:871
+#: ../../HOU.rst:867
 msgid "Discard any number of cards, then draw that many cards."
 msgstr ""
 
-#: ../../HOU.rst:876
-msgid "Reason"
+#: ../../HOU.rst:872
+msgid ":mtgtip:`Leave`"
 msgstr ""
 
-#: ../../HOU.rst:875
-msgid "Scry 3."
+#: ../../HOU.rst:871
+msgid "Return any number of target permanents you own to your hand."
 msgstr ""
 
-#: ../../HOU.rst:882
-msgid "Believe"
+#: ../../HOU.rst:878
+msgid ":mtgtip:`Believe`"
 msgstr ""
 
-#: ../../HOU.rst:881
+#: ../../HOU.rst:877
 msgid ""
 "Look at the top card of your library. You may put it onto the battlefield if "
 "it's a creature card. If you don't, put it into your hand."
 msgstr ""
 
-#: ../../HOU.rst:886
-msgid "Grind"
+#: ../../HOU.rst:882
+msgid ":mtgtip:`Reason`"
 msgstr ""
 
-#: ../../HOU.rst:885
-msgid "Put a -1/-1 counter on each of up to two target creatures."
+#: ../../HOU.rst:881
+msgid "Scry 3."
 msgstr ""
 
-#: ../../HOU.rst:892
-msgid "Dust"
+#: ../../HOU.rst:888
+msgid ":mtgtip:`Dust`"
 msgstr ""
 
-#: ../../HOU.rst:891
+#: ../../HOU.rst:887
 msgid "Exile any number of target creatures that have -1/-1 counters on them."
 msgstr ""
 
-#: ../../HOU.rst:896
-msgid "Refuse"
+#: ../../HOU.rst:892
+msgid ":mtgtip:`Grind`"
 msgstr ""
 
-#: ../../HOU.rst:895
-msgid ""
-"Refuse deals damage to target spell's controller equal to that spell's "
-"converted mana cost."
+#: ../../HOU.rst:891
+msgid "Put a -1/-1 counter on each of up to two target creatures."
 msgstr ""
 
-#: ../../HOU.rst:902
-msgid "Cooperate"
+#: ../../HOU.rst:898
+msgid ":mtgtip:`Cooperate`"
 msgstr ""
 
-#: ../../HOU.rst:901
+#: ../../HOU.rst:897
 msgid ""
 "Copy target instant or sorcery spell. You may choose new targets for the "
 "copy."
 msgstr ""
 
-#: ../../HOU.rst:906
-msgid "Driven"
+#: ../../HOU.rst:902
+msgid ":mtgtip:`Refuse`"
 msgstr ""
 
-#: ../../HOU.rst:905
+#: ../../HOU.rst:901
 msgid ""
-"Until end of turn, creatures you control gain trample and \"Whenever this "
-"creature deals combat damage to a player, draw a card.\""
+"Refuse deals damage to target spell's controller equal to that spell's "
+"converted mana cost."
 msgstr ""
 
-#: ../../HOU.rst:912
-msgid "Despair"
+#: ../../HOU.rst:908
+msgid ":mtgtip:`Despair`"
 msgstr ""
 
-#: ../../HOU.rst:911
+#: ../../HOU.rst:907
 msgid ""
 "Until end of turn, creatures you control gain menace and \"Whenever this "
 "creature deals combat damage to a player, that player discards a card.\""
 msgstr ""
 
+#: ../../HOU.rst:912
+msgid ":mtgtip:`Driven`"
+msgstr ""
+
+#: ../../HOU.rst:911
+msgid ""
+"Until end of turn, creatures you control gain trample and \"Whenever this "
+"creature deals combat damage to a player, draw a card.\""
+msgstr ""
+
 #: ../../HOU.rst:918
-msgid "Abandoned Sarcophagus"
+msgid ":mtgtip:`Abandoned Sarcophagus`"
 msgstr ""
 
 #: ../../HOU.rst:915
@@ -2018,8 +2025,9 @@ msgstr ""
 "cmentarzu, a nie została recyklowana, zamiast tego wygnaj ją."
 
 #: ../../HOU.rst:924
-msgid "Crook of Condemnation"
-msgstr ""
+#, fuzzy
+msgid ":mtgtip:`Crook of Condemnation`"
+msgstr "Angel of Condemnation"
 
 #: ../../HOU.rst:921
 msgid "|mana_1|, |tap|: Exile target card from a graveyard."
@@ -2031,7 +2039,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:930
-msgid "Dagger of the Worthy"
+msgid ":mtgtip:`Dagger of the Worthy`"
 msgstr ""
 
 #: ../../HOU.rst:927
@@ -2049,7 +2057,7 @@ msgstr ""
 "Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../HOU.rst:934
-msgid "God-Pharaoh's Gift"
+msgid ":mtgtip:`God-Pharaoh's Gift`"
 msgstr ""
 
 #: ../../HOU.rst:933
@@ -2060,7 +2068,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:938
-msgid "Graven Abomination"
+msgid ":mtgtip:`Graven Abomination`"
 msgstr ""
 
 #: ../../HOU.rst:937
@@ -2070,7 +2078,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:944
-msgid "Hollow One"
+msgid ":mtgtip:`Hollow One`"
 msgstr ""
 
 #: ../../HOU.rst:941
@@ -2080,11 +2088,12 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:948
-msgid "Manalith"
+#, fuzzy
+msgid ":mtgtip:`Manalith`"
 msgstr "Manalith"
 
 #: ../../HOU.rst:952
-msgid "Mirage Mirror"
+msgid ":mtgtip:`Mirage Mirror`"
 msgstr ""
 
 #: ../../HOU.rst:951
@@ -2094,7 +2103,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:960
-msgid "Sunset Pyramid"
+msgid ":mtgtip:`Sunset Pyramid`"
 msgstr ""
 
 #: ../../HOU.rst:955
@@ -2111,7 +2120,7 @@ msgid "|mana_2|, |tap|: Scry 1."
 msgstr ""
 
 #: ../../HOU.rst:964
-msgid "Traveler's Amulet"
+msgid ":mtgtip:`Traveler's Amulet`"
 msgstr ""
 
 #: ../../HOU.rst:963
@@ -2121,7 +2130,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:970
-msgid "Wall of Forgotten Pharaohs"
+msgid ":mtgtip:`Wall of Forgotten Pharaohs`"
 msgstr ""
 
 #: ../../HOU.rst:969
@@ -2132,7 +2141,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:978
-msgid "Crypt of the Eternals"
+msgid ":mtgtip:`Crypt of the Eternals`"
 msgstr ""
 
 #: ../../HOU.rst:973
@@ -2150,7 +2159,7 @@ msgid "|mana_1|, |tap|: Add |mana_u|, |mana_b|, or |mana_r|."
 msgstr ""
 
 #: ../../HOU.rst:986
-msgid "Desert of the Fervent"
+msgid ":mtgtip:`Desert of the Fervent`"
 msgstr ""
 
 #: ../../HOU.rst:981
@@ -2171,7 +2180,7 @@ msgstr ""
 "kartę.)"
 
 #: ../../HOU.rst:994
-msgid "Desert of the Glorified"
+msgid ":mtgtip:`Desert of the Glorified`"
 msgstr ""
 
 #: ../../HOU.rst:989
@@ -2192,7 +2201,7 @@ msgstr ""
 "kartę.)"
 
 #: ../../HOU.rst:1002
-msgid "Desert of the Indomitable"
+msgid ":mtgtip:`Desert of the Indomitable`"
 msgstr ""
 
 #: ../../HOU.rst:997
@@ -2213,7 +2222,7 @@ msgstr ""
 "kartę.)"
 
 #: ../../HOU.rst:1010
-msgid "Desert of the Mindful"
+msgid ":mtgtip:`Desert of the Mindful`"
 msgstr ""
 
 #: ../../HOU.rst:1005
@@ -2234,7 +2243,7 @@ msgstr ""
 "kartę.)"
 
 #: ../../HOU.rst:1018
-msgid "Desert of the True"
+msgid ":mtgtip:`Desert of the True`"
 msgstr ""
 
 #: ../../HOU.rst:1013
@@ -2255,7 +2264,7 @@ msgstr ""
 "kartę.)"
 
 #: ../../HOU.rst:1024
-msgid "Dunes of the Dead"
+msgid ":mtgtip:`Dunes of the Dead`"
 msgstr ""
 
 #: ../../HOU.rst:1023
@@ -2265,7 +2274,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1032
-msgid "Endless Sands"
+msgid ":mtgtip:`Endless Sands`"
 msgstr ""
 
 #: ../../HOU.rst:1029
@@ -2279,7 +2288,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1040
-msgid "Hashep Oasis"
+msgid ":mtgtip:`Hashep Oasis`"
 msgstr ""
 
 #: ../../HOU.rst:1037
@@ -2294,7 +2303,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1046
-msgid "Hostile Desert"
+msgid ":mtgtip:`Hostile Desert`"
 msgstr ""
 
 #: ../../HOU.rst:1045
@@ -2304,7 +2313,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1054
-msgid "Ifnir Deadlands"
+msgid ":mtgtip:`Ifnir Deadlands`"
 msgstr ""
 
 #: ../../HOU.rst:1051
@@ -2319,7 +2328,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1062
-msgid "Ipnu Rivulet"
+msgid ":mtgtip:`Ipnu Rivulet`"
 msgstr ""
 
 #: ../../HOU.rst:1059
@@ -2333,7 +2342,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1070
-msgid "Ramunap Ruins"
+msgid ":mtgtip:`Ramunap Ruins`"
 msgstr ""
 
 #: ../../HOU.rst:1067
@@ -2347,7 +2356,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1076
-msgid "Scavenger Grounds"
+msgid ":mtgtip:`Scavenger Grounds`"
 msgstr ""
 
 #: ../../HOU.rst:1075
@@ -2356,7 +2365,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1084
-msgid "Shefet Dunes"
+msgid ":mtgtip:`Shefet Dunes`"
 msgstr ""
 
 #: ../../HOU.rst:1081
@@ -2371,7 +2380,7 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1090
-msgid "Survivors' Encampment"
+msgid ":mtgtip:`Survivors' Encampment`"
 msgstr ""
 
 #: ../../HOU.rst:1089
@@ -2381,60 +2390,86 @@ msgstr ""
 "|tap|, przekręć odkręconego stwora pod twoim władaniem: Dodaj jedną manę "
 "dowolnego koloru do twojej puli many."
 
-#: ../../HOU.rst:1092 ../../HOU.rst:1112 ../../HOU.rst:1116
-msgid "Plains"
-msgstr "Plains (Równina)"
-
-#: ../../HOU.rst:1096 ../../HOU.rst:1120 ../../HOU.rst:1124
-msgid "Island"
-msgstr "Island (Wyspa)"
-
-#: ../../HOU.rst:1100 ../../HOU.rst:1128 ../../HOU.rst:1132
-msgid "Swamp"
-msgstr "Swamp (Bagno)"
-
-#: ../../HOU.rst:1104 ../../HOU.rst:1136 ../../HOU.rst:1140
-msgid "Mountain"
-msgstr "Mountain (Góra)"
-
-#: ../../HOU.rst:1108 ../../HOU.rst:1144 ../../HOU.rst:1148
-msgid "Forest"
-msgstr "Forest (Las)"
-
-#: ../../HOU.rst:1158
-msgid "Nissa, Genesis Mage"
+#: ../../HOU.rst:1094
+msgid ":mtgtip:`Plains`"
 msgstr ""
 
-#: ../../HOU.rst:1153
+#: ../../HOU.rst:1093
+#, fuzzy
+msgid "(|tap|: Add |mana_w|.)"
+msgstr "|tap|: Dostajesz |mana_w|."
+
+#: ../../HOU.rst:1098
+msgid ":mtgtip:`Island`"
+msgstr ""
+
+#: ../../HOU.rst:1097
+#, fuzzy
+msgid "(|tap|: Add |mana_u|.)"
+msgstr "|tap|: Dostajesz |mana_u|."
+
+#: ../../HOU.rst:1102
+msgid ":mtgtip:`Swamp`"
+msgstr ""
+
+#: ../../HOU.rst:1101
+#, fuzzy
+msgid "(|tap|: Add |mana_b|.)"
+msgstr "|tap|: Dostajesz |mana_b|."
+
+#: ../../HOU.rst:1106
+#, fuzzy
+msgid ":mtgtip:`Mountain`"
+msgstr "Mountain (Góra)"
+
+#: ../../HOU.rst:1105
+#, fuzzy
+msgid "(|tap|: Add |mana_r|.)"
+msgstr "|tap|: Dostajesz |mana_r|."
+
+#: ../../HOU.rst:1110
+msgid ":mtgtip:`Forest`"
+msgstr ""
+
+#: ../../HOU.rst:1109
+#, fuzzy
+msgid "(|tap|: Add |mana_g|.)"
+msgstr "|tap|: Dostajesz |mana_g|."
+
+#: ../../HOU.rst:1118
+msgid ":mtgtip:`Nissa, Genesis Mage`"
+msgstr ""
+
+#: ../../HOU.rst:1113
 msgid "+2: Untap up to two target creatures and up to two target lands."
 msgstr ""
 
-#: ../../HOU.rst:1155
+#: ../../HOU.rst:1115
 msgid "−3: Target creature gets +5/+5 until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:1157
+#: ../../HOU.rst:1117
 msgid ""
 "−10: Look at the top ten cards of your library. You may put any number of "
 "creature and/or land cards from among them onto the battlefield. Put the "
 "rest on the bottom of your library in a random order."
 msgstr ""
 
-#: ../../HOU.rst:1162
-msgid "Avid Reclaimer"
+#: ../../HOU.rst:1122
+msgid ":mtgtip:`Avid Reclaimer`"
 msgstr ""
 
-#: ../../HOU.rst:1161
+#: ../../HOU.rst:1121
 msgid ""
 "|tap|: Add |mana_g| or |mana_u|. If you control a Nissa planeswalker, you "
 "gain 2 life."
 msgstr ""
 
-#: ../../HOU.rst:1166
-msgid "Brambleweft Behemoth"
+#: ../../HOU.rst:1126
+msgid ":mtgtip:`Brambleweft Behemoth`"
 msgstr ""
 
-#: ../../HOU.rst:1165
+#: ../../HOU.rst:1125
 msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
@@ -2442,92 +2477,107 @@ msgstr ""
 "Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bitewne w gracza lub "
 "wędrowca, którego atakuje.)"
 
-#: ../../HOU.rst:1170
-msgid "Nissa's Encouragement"
+#: ../../HOU.rst:1130
+msgid ":mtgtip:`Nissa's Encouragement`"
 msgstr ""
 
-#: ../../HOU.rst:1169
+#: ../../HOU.rst:1129
 msgid ""
 "Search your library and graveyard for a card named Forest, a card named "
 "Brambleweft Behemoth, and a card named Nissa, Genesis Mage. Reveal those "
 "cards, put them into your hand, then shuffle your library."
 msgstr ""
 
-#: ../../HOU.rst:1176
-msgid "Woodland Stream"
+#: ../../HOU.rst:1136
+#, fuzzy
+msgid ":mtgtip:`Woodland Stream`"
 msgstr "Woodland Stream (Leśny Strumień)"
 
-#: ../../HOU.rst:1173
+#: ../../HOU.rst:1133
 msgid "Woodland Stream enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
-#: ../../HOU.rst:1175
+#: ../../HOU.rst:1135
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
-#: ../../HOU.rst:1184
-msgid "Nicol Bolas, the Deceiver"
+#: ../../HOU.rst:1144
+msgid ":mtgtip:`Nicol Bolas, the Deceiver`"
 msgstr ""
 
-#: ../../HOU.rst:1179
+#: ../../HOU.rst:1139
 msgid ""
 "+3: Each opponent loses 3 life unless that player sacrifices a nonland "
 "permanent or discards a card."
 msgstr ""
 
-#: ../../HOU.rst:1181
+#: ../../HOU.rst:1141
 msgid "−3: Destroy target creature. Draw a card."
 msgstr ""
 
-#: ../../HOU.rst:1183
+#: ../../HOU.rst:1143
 msgid ""
 "−11: Nicol Bolas, the Deceiver deals 7 damage to each opponent. You draw "
 "seven cards."
 msgstr ""
 
-#: ../../HOU.rst:1190
-msgid "Wasp of the Bitter End"
+#: ../../HOU.rst:1150
+msgid ":mtgtip:`Wasp of the Bitter End`"
 msgstr ""
 
-#: ../../HOU.rst:1189
+#: ../../HOU.rst:1149
 msgid ""
 "Whenever you cast a Bolas planeswalker spell, you may sacrifice Wasp of the "
 "Bitter End. If you do, destroy target creature."
 msgstr ""
 
-#: ../../HOU.rst:1194
-msgid "Zealot of the God-Pharaoh"
-msgstr ""
+#: ../../HOU.rst:1154
+#, fuzzy
+msgid ":mtgtip:`Zealot of the God-Pharaoh`"
+msgstr "Angel of the God-Pharaoh"
 
-#: ../../HOU.rst:1193
+#: ../../HOU.rst:1153
 msgid ""
 "|mana_4|\\ |mana_r|: Zealot of the God-Pharaoh deals 2 damage to target "
 "opponent or planeswalker."
 msgstr ""
 
-#: ../../HOU.rst:1200
-msgid "Visage of Bolas"
+#: ../../HOU.rst:1160
+msgid ":mtgtip:`Visage of Bolas`"
 msgstr ""
 
-#: ../../HOU.rst:1197
+#: ../../HOU.rst:1157
 msgid ""
 "When Visage of Bolas enters the battlefield, you may search your library and/"
 "or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put "
 "it into your hand. If you search your library this way, shuffle it."
 msgstr ""
 
-#: ../../HOU.rst:1199
+#: ../../HOU.rst:1159
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
 msgstr ""
 
-#: ../../HOU.rst:1205
-msgid "Cinder Barrens"
+#: ../../HOU.rst:1165
+#, fuzzy
+msgid ":mtgtip:`Cinder Barrens`"
 msgstr "Cinder Barrens"
 
-#: ../../HOU.rst:1203
+#: ../../HOU.rst:1163
 msgid "Cinder Barrens enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
-#: ../../HOU.rst:1205
+#: ../../HOU.rst:1165
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
+
+#~ msgid "Plains"
+#~ msgstr "Plains (Równina)"
+
+#~ msgid "Island"
+#~ msgstr "Island (Wyspa)"
+
+#~ msgid "Swamp"
+#~ msgstr "Swamp (Bagno)"
+
+#~ msgid "Forest"
+#~ msgstr "Forest (Las)"
