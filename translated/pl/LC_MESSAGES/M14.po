@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 13:23+0100\n"
 "PO-Revision-Date: 2019-01-13 15:26+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m14/pl/>\n"
@@ -17,16 +17,15 @@ msgstr ""
 "X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1385404032.966664\n"
 
-# 34446830b7c949d8b59852b41945ee2c
-# 13a5a223cf9d45d19a919b30f1fc001d
 #: ../../M14.rst:5
-msgid "Magic 2014 Core Set"
-msgstr "Magic 2014 - Edycja Podstawowa"
+msgid ":mtgexp:`M14` Magic 2014"
+msgstr ""
 
 # 9cc326c292194f3d9429b37c20b0c2d9
 # a232f3c677b442819113303a629f488a
 #: ../../M14.rst:14
-msgid "Ajani, Caller of the Pride"
+#, fuzzy
+msgid ":mtgtip:`Ajani, Caller of the Pride`"
 msgstr "Ajani, Caller of the Pride (Ajani Dumochwalny)"
 
 # 69cb0f32e3054efe8a6972a3279572a8
@@ -52,7 +51,8 @@ msgstr ""
 # 2eb4e711212f43d48a9da55e7479d4eb
 # f31cb2eea1bf4a66bef94b8d26daeebe
 #: ../../M14.rst:18
-msgid "Ajani's Chosen"
+#, fuzzy
+msgid ":mtgtip:`Ajani's Chosen`"
 msgstr "Ajani's Chosen (Wybraniec Ajaniego)"
 
 # 5541e756b55145ba97e9e22e0244b544
@@ -70,7 +70,8 @@ msgstr ""
 # be95f768cc9640118d8f486c5ed18d10
 # ecf8b4eaf8df4c858e30e46bd736bf4d
 #: ../../M14.rst:22
-msgid "Angelic Accord"
+#, fuzzy
+msgid ":mtgtip:`Angelic Accord`"
 msgstr "Angelic Accord (Anielskie Przyzwolenie)"
 
 # 0f4e27bf8406429d874be884145b5c81
@@ -87,7 +88,8 @@ msgstr ""
 # 2ac8f70c687345bb94f7765321291675
 # d0ec5550df8146a08fea58230787e1db
 #: ../../M14.rst:28
-msgid "Angelic Wall"
+#, fuzzy
+msgid ":mtgtip:`Angelic Wall`"
 msgstr "Angelic Wall (Anielska Ściana)"
 
 # 64d612e1cb5d4c1d974af5d0f00af6e2
@@ -165,7 +167,8 @@ msgstr "Latanie"
 # b7bf18456f0449d6a02fcfd5d5500060
 # 6d8cfaffdc4c4a0c912940775f4473e9
 #: ../../M14.rst:36
-msgid "Archangel of Thune"
+#, fuzzy
+msgid ":mtgtip:`Archangel of Thune`"
 msgstr "Archangel of Thune (Archanioł z Thune)"
 
 # ba20cd8a14d0499c81a4bc84cf4e5eef
@@ -176,7 +179,7 @@ msgstr "Archangel of Thune (Archanioł z Thune)"
 # 8ff709a215bd4f15927685be8ea39da6
 # 454eaec16cad46d688a94edc746a3ff9
 # 92297c0d82954a17b49f264f22d5562b
-#: ../../M14.rst:33 ../../M14.rst:83 ../../M14.rst:101 ../../M14.rst:451
+#: ../../M14.rst:33 ../../M14.rst:83 ../../M14.rst:101
 msgid ""
 "Lifelink (Damage dealt by this creature also causes you to gain that much "
 "life.)"
@@ -196,7 +199,8 @@ msgstr ""
 # c60ee3c9f563493faaa3ac5346de42aa
 # 0387efbd84044451b346eb1f6a9b9254
 #: ../../M14.rst:40
-msgid "Auramancer"
+#, fuzzy
+msgid ":mtgtip:`Auramancer`"
 msgstr "Auramancer (Auromanta)"
 
 # 96df8ea9dc204d03bd9c2448f06ab598
@@ -212,7 +216,8 @@ msgstr ""
 # 61b6712784484590a4d6f738f4bb20e5
 # 36cbe76eb5e64bd0ad388b042badd329
 #: ../../M14.rst:44
-msgid "Banisher Priest"
+#, fuzzy
+msgid ":mtgtip:`Banisher Priest`"
 msgstr "Banisher Priest (Kapłan Banicji)"
 
 # 38da37888d8f409aa248e3f7564b5e34
@@ -230,7 +235,8 @@ msgstr ""
 # f20a15e0a8f846eca1e50a767b14d598
 # fedceaa4213e46c588d1e214636b5c12
 #: ../../M14.rst:50
-msgid "Blessing"
+#, fuzzy
+msgid ":mtgtip:`Blessing`"
 msgstr "Blessing (Błogosławieństwo)"
 
 # a9bfd74b15464dc5b1efcb53dee047a9
@@ -275,7 +281,8 @@ msgstr "|mana_w|: Zauroczony stwór dostaje +1/+1 do końca tury."
 # 1a7d8fbeba124445aec0a6746d3cd905
 # f0030207c22e493b95ed1f1738627c5b
 #: ../../M14.rst:54
-msgid "Bonescythe Sliver"
+#, fuzzy
+msgid ":mtgtip:`Bonescythe Sliver`"
 msgstr "Bonescythe Sliver (Drzazgul Kościokos)"
 
 # 359b0cc815d647dcb90d49d14b57857d
@@ -288,9 +295,8 @@ msgstr ""
 "Drzazgule, którymi władasz mają podwójny cios. (Zadają obrażenia bitewne "
 "zarówno jako pierwszy cios oraz normalnie.)"
 
-# 45ea6ecac3414c6699f9b4d12c271458
 #: ../../M14.rst:58
-msgid "Brave the Elements"
+msgid ":mtgtip:`Brave the Elements`"
 msgstr ""
 
 # f109612e17ee48189da9ac66c622cd71
@@ -308,7 +314,8 @@ msgstr ""
 # 9d8d7ca07bfd470e8f105496d210f0b6
 # 367756a64f30431fb2292436b2c3e648
 #: ../../M14.rst:64
-msgid "Capashen Knight"
+#, fuzzy
+msgid ":mtgtip:`Capashen Knight`"
 msgstr "Capashen Knight (Rycerz z Capashen)"
 
 # c32401bc401f424cb6791fa0a999c1de
@@ -335,7 +342,8 @@ msgstr "|mana_1|\\ |mana_w|: Rycerz z Capashen dostaje +1/+0 do końca tury."
 # 0aa4b4bf7f744ceda457712d80023557
 # 5cc3b39c4e7345a888ce48d2d922fabc
 #: ../../M14.rst:68
-msgid "Celestial Flare"
+#, fuzzy
+msgid ":mtgtip:`Celestial Flare`"
 msgstr "Celestial Flare (Niebiański Rozbłysk)"
 
 # 5b2f4c7c580e43d89e11d10204269889
@@ -347,7 +355,8 @@ msgstr "Wskazany gracz poświęca atakującego lub blokującego stwora."
 # 3064477983784dcfb5d24821e2a8f9e3
 # d9116525d99b41b78b02d7419be5544a
 #: ../../M14.rst:74
-msgid "Charging Griffin"
+#, fuzzy
+msgid ":mtgtip:`Charging Griffin`"
 msgstr "Charging Griffin (Szarżujący Gryf)"
 
 # d47e6b323aa94c259cf9af003f662289
@@ -371,7 +380,8 @@ msgstr "Ilekroć Charging Griffin atakuje, dostaje +1/+1 do końca tury."
 # 4bc20fe2c3f2422ab628a0781b19629e
 # c7e778c049ed4fdbbadbe11307869ba3
 #: ../../M14.rst:78
-msgid "Congregate"
+#, fuzzy
+msgid ":mtgtip:`Congregate`"
 msgstr "Congregate (Zgromadzenie)"
 
 # 126f93649f6c486fa88be1162fc42ae8
@@ -380,9 +390,8 @@ msgstr "Congregate (Zgromadzenie)"
 msgid "Target player gains 2 life for each creature on the battlefield."
 msgstr "Wskazany gracz zyskuje 2 życia za każdego stwora na polu walki."
 
-# 0eb2ba2e159b4f50a3a19f331ecf75ac
 #: ../../M14.rst:84
-msgid "Dawnstrike Paladin"
+msgid ":mtgtip:`Dawnstrike Paladin`"
 msgstr ""
 
 # 48cd15dfac02408c8696c99c99b93792
@@ -395,9 +404,8 @@ msgstr ""
 msgid "Vigilance (Attacking doesn't cause this creature to tap.)"
 msgstr "Czujność (Atakowanie nie powoduje przekręcenia tego stwora.)"
 
-# 0e07707493094fc78f2d2f5e5bf2228e
 #: ../../M14.rst:88
-msgid "Devout Invocation"
+msgid ":mtgtip:`Devout Invocation`"
 msgstr ""
 
 # 87df8424c6184848acc6076a0266ce53
@@ -415,7 +423,8 @@ msgstr ""
 # baa83b309dfa4cdf9c8b28ba690dec85
 # e909a62609bc4d39bd5ccbea1c683f46
 #: ../../M14.rst:96
-msgid "Divine Favor"
+#, fuzzy
+msgid ":mtgtip:`Divine Favor`"
 msgstr "Divine Favor (Boska Łaska)"
 
 # a1d3620ed8a34819825f7cdf3efd0c25
@@ -430,9 +439,8 @@ msgstr "Kiedy Divine Favor wchodzi na pole walki, dostajesz 3 życia."
 msgid "Enchanted creature gets +1/+3."
 msgstr "Zauroczony stwór dostaje +1/+3."
 
-# 5425d07000fc4913aa931317687e6b17
 #: ../../M14.rst:104
-msgid "Fiendslayer Paladin"
+msgid ":mtgtip:`Fiendslayer Paladin`"
 msgstr ""
 
 # d8e66ce173624f59ae191b73e03f8be0
@@ -445,11 +453,9 @@ msgstr ""
 "Fiendslayer Paladin nie może być wskazywany przez czarne lub czerwone czary "
 "władane przez twoich przeciwników."
 
-# a9717e5547c7488e99f832f067fa8200
-# 72d30485750d4882a162c12fae2d6712
 #: ../../M14.rst:112
-msgid "Fortify"
-msgstr "Fortify (Umocnienie)"
+msgid ":mtgtip:`Fortify`"
+msgstr ""
 
 #: ../../M14.rst:107
 msgid "Choose one —"
@@ -466,14 +472,12 @@ msgstr "Stwory pod twoim władaniem dostają +2/+0 do końca tury."
 msgid "Creatures you control get +0/+2 until end of turn."
 msgstr "lub stwory pod twoim władaniem dostają +0/+2 do końca tury."
 
-# 5a5d509280e8494eb3bde9270f479263
 #: ../../M14.rst:118
-msgid "Griffin Sentinel"
+msgid ":mtgtip:`Griffin Sentinel`"
 msgstr ""
 
-# ace87710ec834e5bb0da3491b3b284dc
 #: ../../M14.rst:122
-msgid "Hive Stirrings"
+msgid ":mtgtip:`Hive Stirrings`"
 msgstr ""
 
 # 878f75a6d9bc410db1bb87e4fbdc3f84
@@ -483,9 +487,8 @@ msgstr ""
 msgid "Create two 1/1 colorless Sliver creature tokens."
 msgstr "Umieść na polu walki dwa żetony bezkolorowego stwora Drzazgul 1/1."
 
-# f12f85ac973e476081215df5641910c7
 #: ../../M14.rst:126
-msgid "Imposing Sovereign"
+msgid ":mtgtip:`Imposing Sovereign`"
 msgstr ""
 
 # bc0a8362550b449fa8527715cfcf9d63
@@ -498,7 +501,8 @@ msgstr ""
 # e7beabdc96bf4ff1ae8478474f58c816
 # 3ae960dec578492aa913fda276cf538f
 #: ../../M14.rst:132
-msgid "Indestructibility"
+#, fuzzy
+msgid ":mtgtip:`Indestructibility`"
 msgstr "Indestructibility (Niezniszczalność)"
 
 # 0a13d8f5ec964ebcaaf0d46c0d4080a2
@@ -517,9 +521,8 @@ msgstr ""
 "niszczą tej stałki. Stwór z Niezniszczalnością nie może być zniszczony przez "
 "obrażenia.)"
 
-# f87b7a5673c840e2a6d1d4aaa1fec60d
 #: ../../M14.rst:136
-msgid "Master of Diversion"
+msgid ":mtgtip:`Master of Diversion`"
 msgstr ""
 
 # c18413c1485d46fc8fb7060c2e522469
@@ -532,9 +535,8 @@ msgstr ""
 "Ilekroć Master of Diversion atakuje, przekręć wskazanego stwora władanego "
 "przez broniącego się gracza."
 
-# 5266d7d936b7426babca5a41ffbd3349
 #: ../../M14.rst:142
-msgid "Pacifism"
+msgid ":mtgtip:`Pacifism`"
 msgstr ""
 
 # 6454518e3ce1446e873bf532876be478
@@ -543,9 +545,8 @@ msgstr ""
 msgid "Enchanted creature can't attack or block."
 msgstr "Zauroczony stwór nie może atakować ani blokować."
 
-# 47f4dd958b7e4970a5eeee5f4dbbee98
 #: ../../M14.rst:148
-msgid "Path of Bravery"
+msgid ":mtgtip:`Path of Bravery`"
 msgstr ""
 
 # 5cbb42692a9148619770e8b49acf6bb7
@@ -568,9 +569,8 @@ msgstr ""
 "Ilekroć co najmniej jeden stwór pod twoim władaniem atakuje, zyskujesz "
 "punkty życia równe liczbie atakujących stworów."
 
-# e8e7959c4d7e41f4a7bda7992e023f89
 #: ../../M14.rst:152
-msgid "Pay No Heed"
+msgid ":mtgtip:`Pay No Heed`"
 msgstr ""
 
 # 7f5c0dd0c55c4e99bb13285955bd4c81
@@ -581,14 +581,12 @@ msgstr ""
 "Zażegnaj wszystkie obrażenia, które byłyby zadane przez wybrane przez ciebie "
 "źródło."
 
-# f6936d70913f4fe8a6179f0d80935b62
 #: ../../M14.rst:154
-msgid "Pillarfield Ox"
+msgid ":mtgtip:`Pillarfield Ox`"
 msgstr ""
 
-# d896569c145346ea84a1dc8bc4f735a9
 #: ../../M14.rst:160
-msgid "Planar Cleansing"
+msgid ":mtgtip:`Planar Cleansing`"
 msgstr ""
 
 # ade6c144adf54b679ab55e907a55ce74
@@ -600,7 +598,8 @@ msgstr "Zniszcz wszystkie nielądowe permanenty."
 # 59095d9f1f7a467e87c36788ae5e814a
 # 387b48d3012d4beabccd09364efaaf43
 #: ../../M14.rst:164
-msgid "Sentinel Sliver"
+#, fuzzy
+msgid ":mtgtip:`Sentinel Sliver`"
 msgstr "Sentinel Sliver (Drzazgul Wartownik)"
 
 # 5f16865d6161497282c3a41d994871e3
@@ -613,9 +612,8 @@ msgstr ""
 "Drzazgule pod twoim władaniem mają czujność. (Atakowanie nie powoduje ich "
 "przekręcenia.)"
 
-# 25d754ae63634564b7775da871c87c6c
 #: ../../M14.rst:170
-msgid "Seraph of the Sword"
+msgid ":mtgtip:`Seraph of the Sword`"
 msgstr ""
 
 # 7b77d025515341a7aad9c3f2074f31e2
@@ -628,16 +626,16 @@ msgstr ""
 
 # 6d93d1f8b43f4ede921e3d1b103d00e6
 #: ../../M14.rst:174
-msgid "Serra Angel"
+#, fuzzy
+msgid ":mtgtip:`Serra Angel`"
 msgstr "Serra Angel"
 
 #: ../../M14.rst:173
 msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
-# 95fab6c3c3f64338aa02aeda9cff11f0
 #: ../../M14.rst:178
-msgid "Show of Valor"
+msgid ":mtgtip:`Show of Valor`"
 msgstr ""
 
 # 960a423a0c16414ba3a8d2ea2dcbe35e
@@ -646,14 +644,12 @@ msgstr ""
 msgid "Target creature gets +2/+4 until end of turn."
 msgstr "Wskazany stwór dostaje +2/+4 do końca tury."
 
-# ecf27bb78e9f4831a4307a6ed896bae2
 #: ../../M14.rst:180
-msgid "Siege Mastodon"
+msgid ":mtgtip:`Siege Mastodon`"
 msgstr ""
 
-# 2b1cd86b0cfa4d54a758fabbe8d65d64
 #: ../../M14.rst:186
-msgid "Silence"
+msgid ":mtgtip:`Silence`"
 msgstr ""
 
 # 9d1a8e51244546f6a1eb0a238741ac1f
@@ -666,9 +662,8 @@ msgstr ""
 "Twoi przeciwnicy nie mogą rzucać czarów w tej turze. (Nie dotyczy to czarów "
 "rzuconych przed rozliczeniem tego czaru.)"
 
-# ce78dad8c8264bc7b7a1820b8773e834
 #: ../../M14.rst:190
-msgid "Solemn Offering"
+msgid ":mtgtip:`Solemn Offering`"
 msgstr ""
 
 # 480e3f0bb75c4e3190059bb0d5ebe405
@@ -677,9 +672,8 @@ msgstr ""
 msgid "Destroy target artifact or enchantment. You gain 4 life."
 msgstr "Zniszcz wskazany artefakt lub urok. Zyskujesz 4 życia."
 
-# be3f63479cff446ca90db99850e3a934
 #: ../../M14.rst:194
-msgid "Soulmender"
+msgid ":mtgtip:`Soulmender`"
 msgstr ""
 
 # febb04f5d58047c89645acd9343dfe80
@@ -691,7 +685,7 @@ msgstr "|tap|: Zyskujesz 1 życie."
 # c5aa7845e0904646adcbd0050872ba31
 #: ../../M14.rst:198
 #, fuzzy
-msgid "Steelform Sliver"
+msgid ":mtgtip:`Steelform Sliver`"
 msgstr "Steelform Sliver (Drzazgul Twardokształtny)"
 
 # 3e0d3c40dfb14a1d8062e005e6a9edbd
@@ -700,9 +694,8 @@ msgstr "Steelform Sliver (Drzazgul Twardokształtny)"
 msgid "Sliver creatures you control get +0/+1."
 msgstr "Drzazgule pod twoim władaniem dostają +0/+1."
 
-# 7a016d05bfb24855881a93ec6f701b8c
 #: ../../M14.rst:202
-msgid "Stonehorn Chanter"
+msgid ":mtgtip:`Stonehorn Chanter`"
 msgstr ""
 
 # ffd7832d4fa6403486d67bb84d872d21
@@ -718,20 +711,19 @@ msgstr ""
 "końca tury. (Atakowanie nie powoduje jego przekręcenia. Obrażenia przez "
 "niego zadane powodują, że dostajesz tyle samo życia.)"
 
-# 723aef121d9f4621881365f12ca0817a
 #: ../../M14.rst:206
-msgid "Suntail Hawk"
+msgid ":mtgtip:`Suntail Hawk`"
 msgstr ""
 
-# 04ce04b2622a4571a87f9721b6399e81
 #: ../../M14.rst:212
-msgid "Wall of Swords"
+msgid ":mtgtip:`Wall of Swords`"
 msgstr ""
 
 # d6cdac7805704d1599509762ef4d7c01
 # 7c3c8871163d4c4f82d4ffca2b2c1f5c
 #: ../../M14.rst:218
-msgid "Air Servant"
+#, fuzzy
+msgid ":mtgtip:`Air Servant`"
 msgstr "Air Servant (Powietrzny Sługa)"
 
 # aabf89bd9aaf4c55b26ba65796508a8b
@@ -744,7 +736,8 @@ msgstr "|mana_2|\\ |mana_u|: Zaznacz wskazanego stwora z Lataniem."
 # 12ff9b3fcb7e48b79b02431c23cbaa28
 # d78d0e177fb54f7f904a8fb26f3e641c
 #: ../../M14.rst:222
-msgid "Archaeomancer"
+#, fuzzy
+msgid ":mtgtip:`Archaeomancer`"
 msgstr "Archaeomancer (Archeomanta)"
 
 # 2ed422df0090454996c4646387100b7a
@@ -757,15 +750,13 @@ msgstr ""
 "Kiedy Archeomanta wchodzi na pole walki, przywróć wskazaną kartę sztuczki "
 "lub obrzędu z twojego cmentarza do twojej ręki."
 
-# 2e411a648cd74041a26b0036879856a3
 #: ../../M14.rst:224
-msgid "Armored Cancrix"
+msgid ":mtgtip:`Armored Cancrix`"
 msgstr ""
 
-# 0ff37fdd0dbb400aa81c8d469711c1f7
 #: ../../M14.rst:230
-msgid "Cancel"
-msgstr "Cancel"
+msgid ":mtgtip:`Cancel`"
+msgstr ""
 
 # 9e82ed593f574eeaa4097fd4160c6064
 # 39334447616d438c95dec17d303ffe43
@@ -776,7 +767,8 @@ msgstr "Skontruj wskazany czar."
 # 71c5bb45ffbc4ff6b19de40d7edf45b3
 # 4e7ee6adda1042169f24106f2c5f3511
 #: ../../M14.rst:238
-msgid "Claustrophobia"
+#, fuzzy
+msgid ":mtgtip:`Claustrophobia`"
 msgstr "Claustrophobia (Klaustrofobia)"
 
 # eb348f5cc5ab42399e2417aa8d2e4da9
@@ -792,11 +784,9 @@ msgstr ""
 msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
-# 85452e1194844afc80792baebe382888
-# f29db3587d33496c8584fec199ebfb3f
 #: ../../M14.rst:242
-msgid "Clone"
-msgstr "Clone (Klon)"
+msgid ":mtgtip:`Clone`"
+msgstr ""
 
 # 7b39f9c4a3ea4de59a379106222a795d
 # b7c42010e8e7445ba8af4a90a9c400ac
@@ -811,7 +801,8 @@ msgstr ""
 # 4d1b0d4f00eb4e81be59ccdf9db6dbbc
 # 175f69edf00d4c25ad2fec2b7296720c
 #: ../../M14.rst:248
-msgid "Colossal Whale"
+#, fuzzy
+msgid ":mtgtip:`Colossal Whale`"
 msgstr "Colossal Whale (Kolosalny Waleń)"
 
 # c382eb92fa3945e6acd598680558d969
@@ -838,14 +829,12 @@ msgstr ""
 "przez broniącego się gracza do czasu opuszczenia pola walki przez Colossal "
 "Whale. (Ów stwór wraca pod władanie swojego właściciela.)"
 
-# 45f995192f0f403cbd7d5d12419e8765
 #: ../../M14.rst:250
-msgid "Coral Merfolk"
+msgid ":mtgtip:`Coral Merfolk`"
 msgstr ""
 
-# 349b796671624cf3bc70c7f3539ca7ce
 #: ../../M14.rst:256
-msgid "Dismiss into Dream"
+msgid ":mtgtip:`Dismiss into Dream`"
 msgstr ""
 
 #: ../../M14.rst:255
@@ -860,7 +849,8 @@ msgstr ""
 # 17ba80d8bf1a490facae63e07f8cdbfa
 # 34fd833a8e864751990d4c6fe5636786
 #: ../../M14.rst:260
-msgid "Disperse"
+#, fuzzy
+msgid ":mtgtip:`Disperse`"
 msgstr "Disperse (Rozproszenie)"
 
 # c369aca3cc63423099290cf02ff1e984
@@ -872,7 +862,8 @@ msgstr "Zwróć wskazany nielądowy permanent do ręki jego właściciela."
 # bb2b00995e3a4a5abcdd7878e2bc12dd
 # d8012c71bf8645ceabc215fabd639b99
 #: ../../M14.rst:264
-msgid "Divination"
+#, fuzzy
+msgid ":mtgtip:`Divination`"
 msgstr "Divination (Wróżbiarstwo)"
 
 # d0e1271bb2da402ba4b3421fd3ba9048
@@ -888,7 +879,8 @@ msgstr "Dobierz dwie karty."
 # f88394c926f7490c9c684aeff141d7ff
 # 5eca03eb6a2d4ff4bfd566a1fac8d390
 #: ../../M14.rst:272
-msgid "Domestication"
+#, fuzzy
+msgid ":mtgtip:`Domestication`"
 msgstr "Domestication (Udomowienie)"
 
 # ff57edcd16004a5ab680d6a300be673d
@@ -907,9 +899,8 @@ msgstr ""
 "Na początku twojego kroku końcowego, jeśli siła zauroczonego stwora wynosi 4 "
 "lub więcej, poświęć Domestication."
 
-# 6d8aa6f7a6b94b949c681935205307ef
 #: ../../M14.rst:278
-msgid "Elite Arcanist"
+msgid ":mtgtip:`Elite Arcanist`"
 msgstr ""
 
 # 536e1daa0ba042c8a788c58cd8b967a3
@@ -935,7 +926,8 @@ msgstr ""
 # ed74845439f549c7a72f495c897207ed
 # eaf54f87a9c942cf89841e49566a78d4
 #: ../../M14.rst:282
-msgid "Essence Scatter"
+#, fuzzy
+msgid ":mtgtip:`Essence Scatter`"
 msgstr "Essence Scatter (Rozproszenie Esencji)"
 
 # 00cf54205d2540d4a3302debe2b678e2
@@ -947,7 +939,8 @@ msgstr "Skontruj wskazany czar stwora."
 # fe0c6ce40643486fb11b03012823a637
 # 4bc5108ec17d4a0caf50a57d43455cc0
 #: ../../M14.rst:286
-msgid "Frost Breath"
+#, fuzzy
+msgid ":mtgtip:`Frost Breath`"
 msgstr "Frost Breath (Oddech Mrozu)"
 
 # b308e112a05f4ce5bad92a54a6784ff7
@@ -963,7 +956,8 @@ msgstr ""
 # f0aba63229c1498ebbc247dc0ac9e7cf
 # 4eb0bc8ef41b4136ab7d65bae82b1723
 #: ../../M14.rst:290
-msgid "Galerider Sliver"
+#, fuzzy
+msgid ":mtgtip:`Galerider Sliver`"
 msgstr "Galerider Sliver (Drzazgul Latawiec)"
 
 # ce8a6d36fd6c494a86660d7fbffce99e
@@ -975,7 +969,8 @@ msgstr "Drzazgule pod twoim władaniem mają latanie."
 # d0b782073ef84132b8722f6d9c4dae91
 # 0b86768a844e40699191a10aa2694e2f
 #: ../../M14.rst:294
-msgid "Glimpse the Future"
+#, fuzzy
+msgid ":mtgtip:`Glimpse the Future`"
 msgstr "Glimpse the Future (Spojrzenie w Przyszłość)"
 
 # 9e40f54227e14ad08ac6dfef08dbebb6
@@ -988,9 +983,8 @@ msgstr ""
 "Obejrzyj trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich do "
 "twojej ręki, a pozostałe do twojego cmentarza."
 
-# 18c3f7a015ef4ade9c57f51695d680b4
 #: ../../M14.rst:302
-msgid "Illusionary Armor"
+msgid ":mtgtip:`Illusionary Armor`"
 msgstr ""
 
 # a8c8d7949312479f877ce16fd3a7554e
@@ -1012,7 +1006,8 @@ msgstr ""
 # 1922fc4101e64311871068415c741800
 # 08da78cb44164e6a8a6b2e5f4d26f908
 #: ../../M14.rst:310
-msgid "Jace, Memory Adept"
+#, fuzzy
+msgid ":mtgtip:`Jace, Memory Adept`"
 msgstr "Jace, Memory Adept (Jace, Adept Pamięci)"
 
 # 6bacb4fddfff440cb3391478026c9851
@@ -1043,9 +1038,8 @@ msgstr ""
 msgid "−7: Any number of target players each draw twenty cards."
 msgstr "-7: Każdy z dowolnych wskazanych graczy dobiera dwadzieścia kart."
 
-# c934f25da1d94cee9e31c01ac636fe01
 #: ../../M14.rst:316
-msgid "Jace's Mindseeker"
+msgid ":mtgtip:`Jace's Mindseeker`"
 msgstr ""
 
 # 29248d13e78344feb1d74ace039a8dd3
@@ -1062,9 +1056,8 @@ msgstr ""
 "rzucić kartę czaru sztuczki lub obrzędu spośród owych kart bez płacenia "
 "kosztu many."
 
-# 07f3df3bd0d742cfa0b50be94a9a40b6
 #: ../../M14.rst:322
-msgid "Merfolk Spy"
+msgid ":mtgtip:`Merfolk Spy`"
 msgstr ""
 
 # 5e906ad64b3f41f5b04c7d72846e48e3
@@ -1078,9 +1071,8 @@ msgstr ""
 "Ilekroć Merfolk Spy zadaje graczowi obrażenia bitewne, ów gracz ujawnia "
 "losową kartę ze swojej ręki."
 
-# cd7ffc94823241c49f5346f3c5960424
 #: ../../M14.rst:328
-msgid "Messenger Drake"
+msgid ":mtgtip:`Messenger Drake`"
 msgstr ""
 
 # e5b4515804b9431fbd484210364e74ee
@@ -1089,10 +1081,9 @@ msgstr ""
 msgid "When Messenger Drake dies, draw a card."
 msgstr "Kiedy Messenger Drake umiera, dobierz kartę."
 
-# 0956137b19bb41de9d460c30f1aeb39a
 #: ../../M14.rst:332
-msgid "Negate"
-msgstr "Negate"
+msgid ":mtgtip:`Negate`"
+msgstr ""
 
 # cb02768d0e23442686ba233cc1a407b9
 # 69d7e240b5234b588e8aea4ed7013854
@@ -1100,9 +1091,8 @@ msgstr "Negate"
 msgid "Counter target noncreature spell."
 msgstr "Skontruj wskazany czar nie będący stworem."
 
-# 3924df2d494c41aa940d5833dee3db53
 #: ../../M14.rst:338
-msgid "Nephalia Seakite"
+msgid ":mtgtip:`Nephalia Seakite`"
 msgstr ""
 
 # e6d6ecd1d7784a5b8099dd712de2437f
@@ -1113,9 +1103,8 @@ msgstr ""
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
-# b3348129dccc41f1968ca0d2097b1566
 #: ../../M14.rst:342
-msgid "Opportunity"
+msgid ":mtgtip:`Opportunity`"
 msgstr ""
 
 # 59954d074f73426bbfdc1b057de816b5
@@ -1124,9 +1113,8 @@ msgstr ""
 msgid "Target player draws four cards."
 msgstr "Wskazany gracz dobiera cztery karty."
 
-# f92abc6fe81e47599c48efcf4bc0ed23
 #: ../../M14.rst:346
-msgid "Phantom Warrior"
+msgid ":mtgtip:`Phantom Warrior`"
 msgstr ""
 
 # 9e6bd433747249f28c4c241d9e2498ad
@@ -1135,9 +1123,8 @@ msgstr ""
 msgid "Phantom Warrior can't be blocked."
 msgstr "Phantom Warrior nie może być blokowany."
 
-# 428f022c0cf6432886e3d2ce72ccda9b
 #: ../../M14.rst:352
-msgid "Quicken"
+msgid ":mtgtip:`Quicken`"
 msgstr ""
 
 # bf267641b1d3488899a3373354f26d00
@@ -1157,9 +1144,8 @@ msgstr ""
 msgid "Draw a card."
 msgstr "Dobierz kartę."
 
-# 24a76afbba2343a58cffcba4e65394a0
 #: ../../M14.rst:356
-msgid "Scroll Thief"
+msgid ":mtgtip:`Scroll Thief`"
 msgstr ""
 
 # cd3d1b4e857a4187b39a4cd29ab79555
@@ -1168,14 +1154,12 @@ msgstr ""
 msgid "Whenever Scroll Thief deals combat damage to a player, draw a card."
 msgstr "Ilekroć Scroll Thief zada graczowi obrażenia bitewne, dobierz kartę."
 
-# 649f714ac524467888eebc796f952789
 #: ../../M14.rst:360
-msgid "Seacoast Drake"
+msgid ":mtgtip:`Seacoast Drake`"
 msgstr ""
 
-# 6ebd126f80df4e0bb7c05f03f5a12dae
 #: ../../M14.rst:366
-msgid "Sensory Deprivation"
+msgid ":mtgtip:`Sensory Deprivation`"
 msgstr ""
 
 # ba9f3aa68b2b4faf8f8e833af62ae40d
@@ -1184,9 +1168,8 @@ msgstr ""
 msgid "Enchanted creature gets -3/-0."
 msgstr "Zauroczony stwór dostaje -3/-0."
 
-# e78838d5771247679b446ddf5bd20d90
 #: ../../M14.rst:370
-msgid "Spell Blast"
+msgid ":mtgtip:`Spell Blast`"
 msgstr ""
 
 # c486c6f08ee24ea9bf9b4fa8ef829846
@@ -1200,9 +1183,8 @@ msgstr ""
 "Skontruj wskazany czar o łącznym koszcie many równym X. (Np. jeśli koszt "
 "tego czaru to |mana_3|\\ |mana_u|\\ |mana_u|, X wynosi 5.)"
 
-# a0782106b6ca45a788f083d0291bc3c0
 #: ../../M14.rst:374
-msgid "Tidebinder Mage"
+msgid ":mtgtip:`Tidebinder Mage`"
 msgstr ""
 
 # 693b8ff30d9a4539b4dd248743edbc1d
@@ -1218,9 +1200,8 @@ msgstr ""
 "podczas kroku odkręcania władającego nim gracza tak długo, jak władasz "
 "Tidebinder Mage."
 
-# c50a1039e5764eb083d27610f3dc3d69
 #: ../../M14.rst:378
-msgid "Time Ebb"
+msgid ":mtgtip:`Time Ebb`"
 msgstr ""
 
 # 4c81466871e04a1d9cc315513beaf028
@@ -1229,9 +1210,8 @@ msgstr ""
 msgid "Put target creature on top of its owner's library."
 msgstr "Umieść wskazanego stwora na wierzchu biblioteki jego właściciela."
 
-# 6953cbc4a817432cb121c5ae0f5638bd
 #: ../../M14.rst:382
-msgid "Tome Scour"
+msgid ":mtgtip:`Tome Scour`"
 msgstr ""
 
 # 9a953336de764697a01e60aed68255a1
@@ -1244,9 +1224,8 @@ msgstr ""
 "Wskazany gracz przekłada pięć wierzchnich kart swojej biblioteki do swojego "
 "cmentarza."
 
-# 5a23d15f2e114ea283bd5b12737247a1
 #: ../../M14.rst:388
-msgid "Trained Condor"
+msgid ":mtgtip:`Trained Condor`"
 msgstr ""
 
 # 05b5f19b1546415daea526fd6b3b17b7
@@ -1259,9 +1238,8 @@ msgstr ""
 "Ilekroć Trained Condor atakuje, inny wskazany stwór pod twoim władaniem "
 "dostaje latanie do końca tury."
 
-# a3dba083d1e346dfa3888884928330cf
 #: ../../M14.rst:392
-msgid "Traumatize"
+msgid ":mtgtip:`Traumatize`"
 msgstr ""
 
 # 988031a9df00407caccef5b483b88c01
@@ -1275,9 +1253,8 @@ msgstr ""
 "Wskazany gracz przekłada wierzchnią połowę swojej biblioteki, zaokrągloną w "
 "dół, do swojego cmentarza."
 
-# ed4736b634164ca5a5c4c01c2c96a952
 #: ../../M14.rst:398
-msgid "Wall of Frost"
+msgid ":mtgtip:`Wall of Frost`"
 msgstr ""
 
 #: ../../M14.rst:395
@@ -1294,9 +1271,8 @@ msgstr ""
 "Ilekroć Wall of Frost blokuje stwora, ów stwór nie odznacza się w następnym "
 "kroku odkręcania władającego nim gracza."
 
-# d53ddeec039b4fce8b0c30511574813b
 #: ../../M14.rst:404
-msgid "Warden of Evos Isle"
+msgid ":mtgtip:`Warden of Evos Isle`"
 msgstr ""
 
 # 56a364cf82064b679c6fefb2258628a8
@@ -1305,9 +1281,8 @@ msgid "Creature spells with flying you cast cost |mana_1| less to cast."
 msgstr ""
 "Koszt rzucenia twoich czarów stworów z lataniem jest zmniejszony o |mana_1|."
 
-# 27ccfaa36aa345b3a2ea22add730df41
 #: ../../M14.rst:410
-msgid "Water Servant"
+msgid ":mtgtip:`Water Servant`"
 msgstr ""
 
 # 6a94e4ddb2734140806da36d5c2a5865
@@ -1324,7 +1299,8 @@ msgstr "|mana_u|: Water Servant dostaje -1/+1 do końca tury."
 
 # 47e7644985b14e2a973becc1ebd012d7
 #: ../../M14.rst:416
-msgid "Windreader Sphinx"
+#, fuzzy
+msgid ":mtgtip:`Windreader Sphinx`"
 msgstr "Windreader Sphinx"
 
 # 15b3c97ce465497db0d59097ec6d4ff8
@@ -1333,9 +1309,8 @@ msgstr "Windreader Sphinx"
 msgid "Whenever a creature with flying attacks, you may draw a card."
 msgstr "Ilekroć atakuje stwór z lataniem, możesz dobrać kartę."
 
-# 3e5fdc82637c4369a0fa71fa67041e4f
 #: ../../M14.rst:420
-msgid "Zephyr Charge"
+msgid ":mtgtip:`Zephyr Charge`"
 msgstr ""
 
 # b7b5201bd3f24bcb8f18c3fb9ccd0909
@@ -1348,7 +1323,8 @@ msgstr "|mana_1|\\ |mana_u|: Wskazany stwór dostaje Latanie do końca tury."
 # 2cee698f53804f91b5b4367d849b01fb
 # 88a18e185fbd49999a8e6a7e76e6a400
 #: ../../M14.rst:424
-msgid "Accursed Spirit"
+#, fuzzy
+msgid ":mtgtip:`Accursed Spirit`"
 msgstr "Accursed Spirit (Potępiony Duch)"
 
 # 4e080c59964c417c913bcf345f3a4e48
@@ -1367,9 +1343,8 @@ msgstr ""
 "Zastraszenie (Ten stwór nie może być blokowany chyba że przez stwory "
 "artefaktyczne lub współdzielące z nim kolor.)"
 
-# 0ba3a7c46be64bd38aeee71759c197d3
 #: ../../M14.rst:430
-msgid "Altar's Reap"
+msgid ":mtgtip:`Altar's Reap`"
 msgstr ""
 
 # 141fae74676f450a8846715c5d79766b
@@ -1381,7 +1356,8 @@ msgstr "Jako dodatkowy koszt rzucenia tego czaru, poświęć stwora."
 # 3e367e47f02e435bb805f0f15a6753a8
 # 5dbe73fdd4d444b3bbc2144a6cc74aca
 #: ../../M14.rst:436
-msgid "Artificer's Hex"
+#, fuzzy
+msgid ":mtgtip:`Artificer's Hex`"
 msgstr "Artificer's Hex (Klątwa Rzemieślnika)"
 
 # 8af01fe5c9d342259baf784dff128666
@@ -1403,7 +1379,8 @@ msgstr ""
 # 87b2bbd8e493430fbfc593615e57662f
 # 52cb43b8342c42c792903f8cbe55e43a
 #: ../../M14.rst:440
-msgid "Blightcaster"
+#, fuzzy
+msgid ":mtgtip:`Blightcaster`"
 msgstr "Blightcaster (Zarazodziej)"
 
 # ddd12b5ad034413aba298a7fa53462d6
@@ -1418,7 +1395,8 @@ msgstr ""
 # 880dbaf085c34a318f16df1d66d129bb
 # 6d92369a387c45cfb5d3ca11233c1cf5
 #: ../../M14.rst:444
-msgid "Blood Bairn"
+#, fuzzy
+msgid ":mtgtip:`Blood Bairn`"
 msgstr "Blood Bairn (Dziecię Krwi)"
 
 # 52dae935629a49a89fac5d0de555226e
@@ -1430,7 +1408,8 @@ msgstr "Poświęć innego stwora: Dziecię Krwi dostaje +2/+2 do końca tury."
 # f3bd156b0ec8450ba24a25f80a199f18
 # bddd755e2e254016887c0065444eae3b
 #: ../../M14.rst:448
-msgid "Bogbrew Witch"
+#, fuzzy
+msgid ":mtgtip:`Bogbrew Witch`"
 msgstr "Bogbrew Witch (Wiedźma Bagnowarka)"
 
 # f83558d82c704d05a061ac8e66e84a1b
@@ -1448,13 +1427,19 @@ msgstr ""
 # 6789dd42ff7e4b0fb7adfe22d376184b
 # b5edf0feeb0b47499addd5525184f464
 #: ../../M14.rst:452
-msgid "Child of Night"
+#, fuzzy
+msgid ":mtgtip:`Child of Night`"
 msgstr "Child of Night (Dziecię nocy)"
+
+#: ../../M14.rst:451
+msgid "Lifelink"
+msgstr ""
 
 # 6861d6c4b81d475c8ef685445910db69
 # ca7a40b3f6c442eaa1c15ff77796107a
 #: ../../M14.rst:456
-msgid "Corpse Hauler"
+#, fuzzy
+msgid ":mtgtip:`Corpse Hauler`"
 msgstr "Corpse Hauler (Wozak Zwłok)"
 
 # e30ef7ccecf14313a719b739fc62f89c
@@ -1468,11 +1453,9 @@ msgstr ""
 "|mana_2|\\ |mana_b|, poświęć Corpse Hauler: Zwróć inną wskazaną kartę stwora "
 "z twojego cmentarza do twojej ręki."
 
-# 3bad32cc6e23452fbefb1b79e05ca076
-# b803bc038c404647bbe66b1141e94a04
 #: ../../M14.rst:460
-msgid "Corrupt"
-msgstr "Corrupt (Zepsucie)"
+msgid ":mtgtip:`Corrupt`"
+msgstr ""
 
 # 44df47d13fd945c9812b289b428f2c12
 # 27a4d0b8ef114520834b2ed0735e2d39
@@ -1489,7 +1472,8 @@ msgstr ""
 # 0678bec437de46ffad789cc0eaa89de0
 # 8654d4bf8c994bda9fa343274a9f52ac
 #: ../../M14.rst:468
-msgid "Dark Favor"
+#, fuzzy
+msgid ":mtgtip:`Dark Favor`"
 msgstr "Dark Favor (Mroczna Łaska)"
 
 # 206aff52fd2f40c7b6b14e5fe074f42f
@@ -1507,7 +1491,8 @@ msgstr "Zauroczony stwór dostaje +3/+1."
 # e9865917b2d34fea8297576e8ca9d617
 # 21d7c52445794e2498078488e3218d73
 #: ../../M14.rst:472
-msgid "Dark Prophecy"
+#, fuzzy
+msgid ":mtgtip:`Dark Prophecy`"
 msgstr "Dark Prophecy (Mroczne Proroctwo)"
 
 # 93f5384af9164e01ae45cca2f59b0236
@@ -1522,7 +1507,8 @@ msgstr ""
 # 853af9a2d7ca4e848abfde899b4b3416
 # 12c2fc4feabe4bbb847a22df6a61078a
 #: ../../M14.rst:478
-msgid "Deathgaze Cockatrice"
+#, fuzzy
+msgid ":mtgtip:`Deathgaze Cockatrice`"
 msgstr "Deathgaze Cockatrice (Śmierciowzroczny Bazyliszek)"
 
 # 124ac734798b446aa7dca36de14593b0
@@ -1542,7 +1528,8 @@ msgstr ""
 # 74584a0db7f54b3a84f0acee1ce0a271
 # 364285a2df034014b587b71afe0f8982
 #: ../../M14.rst:482
-msgid "Diabolic Tutor"
+#, fuzzy
+msgid ":mtgtip:`Diabolic Tutor`"
 msgstr "Diabolic Tutor (Diaboliczny Nauczyciel)"
 
 # 08bbc5f55bcd4a8a894d90afb3a045e9
@@ -1558,7 +1545,8 @@ msgstr ""
 # eea882c8950f4585aa971d09eae4a44a
 # 6eb640d3f14f4a44808e177e88362c18
 #: ../../M14.rst:486
-msgid "Doom Blade"
+#, fuzzy
+msgid ":mtgtip:`Doom Blade`"
 msgstr "Doom Blade (Ostrze Zagłady)"
 
 # 272e2ce01c1442d0938d7918ba4e53ab
@@ -1567,11 +1555,9 @@ msgstr "Doom Blade (Ostrze Zagłady)"
 msgid "Destroy target nonblack creature."
 msgstr "Zniszcz wskazanego nieczarnego stwora."
 
-# 869e3c0cf0194b3c9722d758ac91c1ca
-# 5270ef7a0ee94870ae0d4c8154adcb78
 #: ../../M14.rst:490
-msgid "Duress"
-msgstr "Duress (Przymus)"
+msgid ":mtgtip:`Duress`"
+msgstr ""
 
 # 2647810d51524897a839eb1e357d29b7
 # 7410c63943b74fdcbb122ac5a7471419
@@ -1586,7 +1572,8 @@ msgstr ""
 # d2cffdbee01242d79bba66242d22c1c5
 # 3e783ea397c34978b48dbe6c77dbf7e6
 #: ../../M14.rst:494
-msgid "Festering Newt"
+#, fuzzy
+msgid ":mtgtip:`Festering Newt`"
 msgstr "Festering Newt (Ropiejąca Traszka)"
 
 # ace23fccb5d94972b953a9d3d0699b58
@@ -1601,9 +1588,8 @@ msgstr ""
 "-1/-1 do końca tury. Ów stwór dostaje zamiast tego -4/-4 jeśli władasz "
 "stworem o nazwie Bogbrew Witch."
 
-# 614721da80c94276900bcadeb117530b
 #: ../../M14.rst:498
-msgid "Gnawing Zombie"
+msgid ":mtgtip:`Gnawing Zombie`"
 msgstr ""
 
 # f821fc3542324d26a455e332d7fad0e6
@@ -1617,9 +1603,8 @@ msgstr ""
 "|mana_1|\\ |mana_b|, poświęć stwora: Wskazany gracz traci 1 życie, a ty "
 "otrzymujesz 1 życie."
 
-# d28cbc1276b449a9b61534a028e4ff27
 #: ../../M14.rst:502
-msgid "Grim Return"
+msgid ":mtgtip:`Grim Return`"
 msgstr ""
 
 # 2aae8c4b16af4f92bd9474a27921beee
@@ -1632,9 +1617,8 @@ msgstr ""
 "Wskaż kartę stwora w cmentarzu, która dostałą się tam z pola walki w tej "
 "turze. Umieść tę kartę na polu walki pod twoją władzą."
 
-# c4dc6b2d0e554938970a36242bf6d123
 #: ../../M14.rst:508
-msgid "Lifebane Zombie"
+msgid ":mtgtip:`Lifebane Zombie`"
 msgstr ""
 
 # b2f8ac4ad3954368bea8a5a23e0fcb7a
@@ -1648,9 +1632,8 @@ msgstr ""
 "Gdy Lifebane Zombie wchodzi na pole walki, wskazany przeciwnik ujawnia rękę. "
 "Wybierz z niej zieloną lub białą kartę stwora i wypędź ją."
 
-# 5d12ee80fe704292ad8b1759351107b2
 #: ../../M14.rst:516
-msgid "Liliana of the Dark Realms"
+msgid ":mtgtip:`Liliana of the Dark Realms`"
 msgstr ""
 
 # 519e857322bc4a5c8d8b0aacda9ce331
@@ -1683,9 +1666,8 @@ msgstr ""
 "-6: Dostajesz emblemat o treści \"Bagna pod twoim władaniem mają '|tap|: "
 "Dodaj |mana_b|\\ |mana_b|\\ |mana_b|\\ |mana_b| do swojego zasobnika many.'\""
 
-# c12a327112f94cb1a43b87521f126798
 #: ../../M14.rst:522
-msgid "Liliana's Reaver"
+msgid ":mtgtip:`Liliana's Reaver`"
 msgstr ""
 
 #: ../../M14.rst:519
@@ -1704,9 +1686,8 @@ msgstr ""
 "kartę, a ty kładziesz na polu walki przekręcony żeton czarnego stwora Zombie "
 "2/2."
 
-# 5d88ba43c3a2475297a39b93c344e752
 #: ../../M14.rst:526
-msgid "Liturgy of Blood"
+msgid ":mtgtip:`Liturgy of Blood`"
 msgstr ""
 
 # c089b2bff329430f86b43b0b3e019387
@@ -1720,7 +1701,8 @@ msgstr ""
 
 # 1e4872fdf5f24702802a4edada69d7ed
 #: ../../M14.rst:532
-msgid "Mark of the Vampire"
+#, fuzzy
+msgid ":mtgtip:`Mark of the Vampire`"
 msgstr "Mark of the Vampire (Znamię Wampira)"
 
 # 58fafb8841da49418ad60b1dea31f1f0
@@ -1731,7 +1713,8 @@ msgstr "Zauroczony stwór dostaje +2/+2 i ma więź życia."
 
 # ff32579f99444cf78b3f45dcdaa5060a
 #: ../../M14.rst:536
-msgid "Mind Rot"
+#, fuzzy
+msgid ":mtgtip:`Mind Rot`"
 msgstr "Mind Rot"
 
 # efb7e13149574af38499fe9160ca5084
@@ -1740,14 +1723,12 @@ msgstr "Mind Rot"
 msgid "Target player discards two cards."
 msgstr "Wskazany gracz odrzuca dwie karty."
 
-# facfdc10cd064447b5b70acad58dbaae
 #: ../../M14.rst:538
-msgid "Minotaur Abomination"
+msgid ":mtgtip:`Minotaur Abomination`"
 msgstr ""
 
-# 64f92c779ef24d37932dca2aa5977a43
 #: ../../M14.rst:546
-msgid "Nightmare"
+msgid ":mtgtip:`Nightmare`"
 msgstr ""
 
 # 17c7b392963e4fb4909ce499bdfc13c4
@@ -1760,9 +1741,8 @@ msgstr ""
 "Siła oraz wytrzymałość Nightmare są obie równe liczbie Bagien, którymi "
 "władasz."
 
-# bd080882d1ca42e4b010cdf2464bcd6e
 #: ../../M14.rst:552
-msgid "Nightwing Shade"
+msgid ":mtgtip:`Nightwing Shade`"
 msgstr ""
 
 # 92ef10afd3c845139d7d307e3a58daf5
@@ -1772,9 +1752,8 @@ msgstr ""
 msgid "|mana_1|\\ |mana_b|: Nightwing Shade gets +1/+1 until end of turn."
 msgstr "|mana_1|\\ |mana_b|: Nightwing Shade dostaje +1/+1 do końca tury."
 
-# d150b8449856443a9830f1b36dfdcb82
 #: ../../M14.rst:558
-msgid "Quag Sickness"
+msgid ":mtgtip:`Quag Sickness`"
 msgstr ""
 
 # abd12f8b208548beb841be0b670395e9
@@ -1783,9 +1762,8 @@ msgstr ""
 msgid "Enchanted creature gets -1/-1 for each Swamp you control."
 msgstr "Zauroczony stwór dostaje -1/-1 za każde Bagno pod twoim władaniem."
 
-# fdaff994585242c88cdcf6ce045c512d
 #: ../../M14.rst:562
-msgid "Rise of the Dark Realms"
+msgid ":mtgtip:`Rise of the Dark Realms`"
 msgstr ""
 
 # fc03a6b921d548558bb497f105455f86
@@ -1798,9 +1776,8 @@ msgstr ""
 "Umieść na polu walki pod swoim władaniem wszystkie karty stworów ze "
 "wszystkich cmentarzy."
 
-# cd58f41bbe63465dbe08d0223952f623
 #: ../../M14.rst:566
-msgid "Sanguine Bond"
+msgid ":mtgtip:`Sanguine Bond`"
 msgstr ""
 
 # 0d9d1948fe9747a180fb714d8f40e1f7
@@ -1809,9 +1786,8 @@ msgstr ""
 msgid "Whenever you gain life, target opponent loses that much life."
 msgstr "Ilekroć zyskujesz życie, wskazany przeciwnik traci tyle życia."
 
-# 4b42b382579a4063af3bf8b5700e7c7c
 #: ../../M14.rst:572
-msgid "Sengir Vampire"
+msgid ":mtgtip:`Sengir Vampire`"
 msgstr ""
 
 # 52612408deb648d9b1239b2093ac9aa3
@@ -1824,9 +1800,8 @@ msgstr ""
 "Ilekroć umiera stwór, któremu Sengir Vampire zadał obrażenia w tej turze, "
 "umieść znacznik +1/+1 na Sengir Vampire."
 
-# eb0a599128b7475994f234fb486352d0
 #: ../../M14.rst:578
-msgid "Shadowborn Apostle"
+msgid ":mtgtip:`Shadowborn Apostle`"
 msgstr ""
 
 # 494908832b9a43a0a0b70a6f347010ec
@@ -1847,9 +1822,8 @@ msgstr ""
 "swojej bibliotece karty stwora Demon i umieść ją na polu walki. Następnie "
 "przetasuj bibliotekę."
 
-# e33ac7e779f5402788910672143033ec
 #: ../../M14.rst:586
-msgid "Shadowborn Demon"
+msgid ":mtgtip:`Shadowborn Demon`"
 msgstr ""
 
 # 0ceb3a26f4994ff9baf52e9095067e30
@@ -1872,9 +1846,8 @@ msgstr ""
 "Na początku twojego utrzymania, jeśli w twoim cmentarzu jest mniej niż sześć "
 "kart stworów, poświęć stwora."
 
-# 8cc35b57bd114d728244a798c154a15b
 #: ../../M14.rst:590
-msgid "Shrivel"
+msgid ":mtgtip:`Shrivel`"
 msgstr ""
 
 # ac1a46df57554dae9f875be7c84c4c55
@@ -1886,7 +1859,8 @@ msgstr "Wszystkie stwory dostają -1/-1 do końca tury."
 # 72fcefdd8ffc4d1f9048e242bc2549e8
 # 51b17c685e5743aa8602eb63ee4286a3
 #: ../../M14.rst:594
-msgid "Syphon Sliver"
+#, fuzzy
+msgid ":mtgtip:`Syphon Sliver`"
 msgstr "Syphon Sliver (Drzazgul Wysysacz)"
 
 # 707547d779c84c2683994b34116f59bd
@@ -1899,9 +1873,8 @@ msgstr ""
 "Drzazgule, którymi władaszm mają więź życia. (Obrażenia zadane Drzazgula pod "
 "twoim władaniem powodują, że zyskujesz tyle samo życia.)"
 
-# 04556201732d4f05aace3e2598170302
 #: ../../M14.rst:598
-msgid "Tenacious Dead"
+msgid ":mtgtip:`Tenacious Dead`"
 msgstr ""
 
 # d09b7f2897d8444d96db77bce847e7a9
@@ -1916,14 +1889,12 @@ msgstr ""
 "zrobisz, przywróć go przekręconego na pole walki pod władaniem jego "
 "właściciela."
 
-# 218fa9d18e23456a819736209d10d45a
 #: ../../M14.rst:600
-msgid "Undead Minotaur"
+msgid ":mtgtip:`Undead Minotaur`"
 msgstr ""
 
-# e883f64abe094fb897046f7576f9ab6b
 #: ../../M14.rst:606
-msgid "Vampire Warlord"
+msgid ":mtgtip:`Vampire Warlord`"
 msgstr ""
 
 # aa2204c88a5f4d2a82dceec07c0553c7
@@ -1938,9 +1909,8 @@ msgstr ""
 "turze, kiedy ten stwór miałby zostać zniszczony, nie jest. Zamiast tego "
 "przekręć go, usuń z niego wszystkie obrażenia i usuń go z walki.)"
 
-# ac5a9f62bc694a0cbd8158e884b13ee2
 #: ../../M14.rst:610
-msgid "Vile Rebirth"
+msgid ":mtgtip:`Vile Rebirth`"
 msgstr ""
 
 # 79b1e5ddde5447e79dc1f1bf343655e5
@@ -1954,9 +1924,8 @@ msgstr ""
 "Wygnaj wskazaną kartę stwora z cmentarza. Umieść na polu walki żeton "
 "czarnego stwora Zombie 2/2."
 
-# 47977d71117b400f86592133a151d74b
 #: ../../M14.rst:614
-msgid "Wring Flesh"
+msgid ":mtgtip:`Wring Flesh`"
 msgstr ""
 
 # 01b6d471a5fe49418c430b73ecaa4d76
@@ -1965,9 +1934,8 @@ msgstr ""
 msgid "Target creature gets -3/-1 until end of turn."
 msgstr "Wskazany stwór dostaje -3/-1 do końca tury."
 
-# 40374643611a42fab781f43e963606dc
 #: ../../M14.rst:618
-msgid "Xathrid Necromancer"
+msgid ":mtgtip:`Xathrid Necromancer`"
 msgstr ""
 
 # d1f029be830a49c9afcd95d97e9067df
@@ -1983,7 +1951,8 @@ msgstr ""
 # 27daa62eff5a4d59b1f604c116cfc618
 # 2cb38fdeda52486caa6edd91bf35812d
 #: ../../M14.rst:624
-msgid "Academy Raider"
+#, fuzzy
+msgid ":mtgtip:`Academy Raider`"
 msgstr "Academy Raider (Grabieżca Akademii)"
 
 # f9a3eea2377841a8b41df426b80a728d
@@ -1999,7 +1968,8 @@ msgstr ""
 # cf7b4b54840c4ba29309384ac8fcf4cc
 # eaf851076e874914978b5a367a86b1f2
 #: ../../M14.rst:628
-msgid "Act of Treason"
+#, fuzzy
+msgid ":mtgtip:`Act of Treason`"
 msgstr "Act of Treason (Akt zdrady)"
 
 # 5451ee39c5344aef98529da3162c6704
@@ -2012,9 +1982,8 @@ msgstr ""
 "Zyskujesz władanie nad wskazanym stworem do końca tury. Odkręć owego stwora. "
 "Zyskuje on pośpiech do końca tury. (Może atakować i |tap| w tej turze.)"
 
-# 3c14af0e342d40db9aed6562ba1185bb
 #: ../../M14.rst:634
-msgid "Awaken the Ancient"
+msgid ":mtgtip:`Awaken the Ancient`"
 msgstr ""
 
 # f2ccb51456cc4efc96eafecd888b6f25
@@ -2035,7 +2004,8 @@ msgstr ""
 # ac04e12d0d824686a421752cc455f1e2
 # d1ea3eb3d9684f51a50b38b303bfec75
 #: ../../M14.rst:638
-msgid "Barrage of Expendables"
+#, fuzzy
+msgid ":mtgtip:`Barrage of Expendables`"
 msgstr "Barrage of Expendables (Kanonada Straceńców)"
 
 # fd811344280445e3a741246bab2a11ef
@@ -2052,7 +2022,8 @@ msgstr ""
 # 9795114f7e5f41ca96e384ea4a0cc830
 # e8394c2ef3894e84929fed5850e11934
 #: ../../M14.rst:642
-msgid "Battle Sliver"
+#, fuzzy
+msgid ":mtgtip:`Battle Sliver`"
 msgstr "Battle Sliver (Drzazgul Bitewny)"
 
 # cbc1c06a75af4b20b3fece492a101db7
@@ -2064,7 +2035,8 @@ msgstr "Drzazgule, którymi władasz dostają +2/+0."
 # 534a2e1c990e4ef0979a05b1ed899da7
 # 62f66c6d0a324d7f8dcb8f8780aa4a67
 #: ../../M14.rst:646
-msgid "Blur Sliver"
+#, fuzzy
+msgid ":mtgtip:`Blur Sliver`"
 msgstr "Blur Sliver (Drzazgul Rozmycia)"
 
 # 9da6921363414787922df5a1fa5299e9
@@ -2080,7 +2052,8 @@ msgstr ""
 # 58bb937b279c4d86b40f8eed7dc030bc
 # aac4e39b1aa0418a914e546fca81612f
 #: ../../M14.rst:650
-msgid "Burning Earth"
+#, fuzzy
+msgid ":mtgtip:`Burning Earth`"
 msgstr "Burning Earth (Płonąca Ziemia)"
 
 # 30f95ae2288f4c83a6b065fabc08c4aa
@@ -2096,13 +2069,15 @@ msgstr ""
 # 6d435ea50dd743ad8441fd9871e6eaf7
 # ebdcbc9352da4d929b77a19e93b5be2a
 #: ../../M14.rst:652
-msgid "Canyon Minotaur"
+#, fuzzy
+msgid ":mtgtip:`Canyon Minotaur`"
 msgstr "Canyon Minotaur (Minotaur z Kanionu)"
 
 # 94a77783b209480aaccbfe7300346d97
 # cec491e462314047b6ecdfc26ebf4531
 #: ../../M14.rst:662
-msgid "Chandra, Pyromaster"
+#, fuzzy
+msgid ":mtgtip:`Chandra, Pyromaster`"
 msgstr "Chandra, Pyromaster (Chandra, Piromistrz)"
 
 # 1070937d0d7947a3a581b067c086efec
@@ -2141,7 +2116,8 @@ msgstr ""
 # f51ccf1ed7f24598afebcd58e889cd39
 # e0bfa3c7672b4c4686cdca3a964adff4
 #: ../../M14.rst:666
-msgid "Chandra's Outrage"
+#, fuzzy
+msgid ":mtgtip:`Chandra's Outrage`"
 msgstr "Chandra's Outrage (Gniew Chandry)"
 
 # 5de983d1285e41bc8a00f3b1ba8ba175
@@ -2157,7 +2133,8 @@ msgstr ""
 # 351fccf73b1e47c9b21df2b9cd480576
 # e856d75fd2d547a18599a5716aee6a18
 #: ../../M14.rst:674
-msgid "Chandra's Phoenix"
+#, fuzzy
+msgid ":mtgtip:`Chandra's Phoenix`"
 msgstr "Chandra's Phoenix (Feniks Chandry)"
 
 # 63a729e146b747159cfd8128cf3256ff
@@ -2182,9 +2159,8 @@ msgstr ""
 "obrzędu pod twoim władaniem lub od czerwonego wędrowca pod twoim władaniem "
 "przywróć Chandra's Phoenix z twojego cmentarza do twojej ręki."
 
-# 97532f9961724227aa1507972ef0acbc
 #: ../../M14.rst:680
-msgid "Cyclops Tyrant"
+msgid ":mtgtip:`Cyclops Tyrant`"
 msgstr ""
 
 # e7c56701d944485882872611e5ec2c8c
@@ -2196,7 +2172,8 @@ msgstr "Cyclops Tyrant nie może blokować stworów o sile 2 lub mniej."
 # cf32d1aab62440ee9fe2b614c2215728
 # e0aba369e5084515b528871197bde891
 #: ../../M14.rst:684
-msgid "Demolish"
+#, fuzzy
+msgid ":mtgtip:`Demolish`"
 msgstr "Demolish (Wyburzenie)"
 
 # cadc156d0c1443c299b596dd35f89f0b
@@ -2208,7 +2185,8 @@ msgstr "Zniszcz wskazany artefakt lub ląd."
 # a6a04b826b1d4b98b4d9687efc315566
 # a473438ff87a482291b462a0147f2082
 #: ../../M14.rst:690
-msgid "Dragon Egg"
+#, fuzzy
+msgid ":mtgtip:`Dragon Egg`"
 msgstr "Dragon Egg (Smocze Jajo)"
 
 #: ../../M14.rst:689
@@ -2222,7 +2200,8 @@ msgstr ""
 # a76330a146c94f0ba1c8be9f6ac6fa44
 # acfad9b44dd34955b959a1827560b0c4
 #: ../../M14.rst:696
-msgid "Dragon Hatchling"
+#, fuzzy
+msgid ":mtgtip:`Dragon Hatchling`"
 msgstr "Dragon Hatchling (Pisklę Smoka)"
 
 # 6cb69e0532a6422cab788a094b5dfa32
@@ -2231,9 +2210,8 @@ msgstr "Dragon Hatchling (Pisklę Smoka)"
 msgid "|mana_r|: Dragon Hatchling gets +1/+0 until end of turn."
 msgstr "|mana_r|: Wykluty Smok dostaje +1/+0 do końca tury."
 
-# 2f39d9a8bba249568c0056150e17ffb2
 #: ../../M14.rst:700
-msgid "Flames of the Firebrand"
+msgid ":mtgtip:`Flames of the Firebrand`"
 msgstr ""
 
 # 5ac2b296b32b409096dcd53677d4c929
@@ -2251,7 +2229,8 @@ msgstr ""
 # 685756407ce14dddb7e1dec8c3522636
 # f357c8cee191413d91d731fafed598f4
 #: ../../M14.rst:704
-msgid "Fleshpulper Giant"
+#, fuzzy
+msgid ":mtgtip:`Fleshpulper Giant`"
 msgstr "Fleshpulper Giant (Gigant Mięsogniot)"
 
 # da29129ffa214fd78ef925b53ff442e3
@@ -2264,9 +2243,8 @@ msgstr ""
 "Kiedy Fleshpulper Giant wchodzi na pole walki, możesz zniszczyć wskazanego "
 "stwora z wytrzymałością 2 lub mniej."
 
-# f47a594c9b784f6681ab3080e9b5aa35
 #: ../../M14.rst:708
-msgid "Goblin Diplomats"
+msgid ":mtgtip:`Goblin Diplomats`"
 msgstr ""
 
 # cb4d490a78414c3cac6d26d5b58c9cbf
@@ -2275,9 +2253,8 @@ msgstr ""
 msgid "|tap|: Each creature attacks this turn if able."
 msgstr "|tap|: Każdy stwór atakuje w tej turze, jeśli może."
 
-# 926bbf43a70c4a9a868c4bddc23c45b2
 #: ../../M14.rst:712
-msgid "Goblin Shortcutter"
+msgid ":mtgtip:`Goblin Shortcutter`"
 msgstr ""
 
 # 61acb8961549461ab646357d8fc35b78
@@ -2292,7 +2269,8 @@ msgstr ""
 
 # 9725104f303e484b9c74f0ce15e931a3
 #: ../../M14.rst:716
-msgid "Lava Axe"
+#, fuzzy
+msgid ":mtgtip:`Lava Axe`"
 msgstr "Lava Axe"
 
 # 6bb5dbca764941ee9c755485364baa07
@@ -2301,9 +2279,8 @@ msgstr "Lava Axe"
 msgid "Lava Axe deals 5 damage to target player or planeswalker."
 msgstr "Ten czar zadaje 5 obrażeń wskazanemu graczowi lub wędrowcowi."
 
-# b8d8cf687be34f7c908b622c90362ef8
 #: ../../M14.rst:722
-msgid "Lightning Talons"
+msgid ":mtgtip:`Lightning Talons`"
 msgstr ""
 
 # 80d59a32320141eab47db7a331a582fb
@@ -2316,9 +2293,8 @@ msgstr ""
 "Zauroczony stwór dostaje +3/+0 i ma Pierwszy Cios. (Zadaje obrażenia bitewne "
 "przed stworami nie posiadającymi Pierwszego Ciosu.)"
 
-# 40fd7f338a9f4f9b916180ec2b63f29b
 #: ../../M14.rst:726
-msgid "Marauding Maulhorn"
+msgid ":mtgtip:`Marauding Maulhorn`"
 msgstr ""
 
 # d23d5a23d9524bd89b970fe54087f549
@@ -2331,9 +2307,8 @@ msgstr ""
 "Marauding Maulhorn atakuje w każdej walce jeśli może, chyba że władasz "
 "stworem o nazwie Advocate of the Beast."
 
-# 8c17ac68e86f4e9db8c6358f29e88a3e
 #: ../../M14.rst:732
-msgid "Mindsparker"
+msgid ":mtgtip:`Mindsparker`"
 msgstr ""
 
 # 8fd1790115a5495484f4fad1b0ca4b60
@@ -2346,9 +2321,8 @@ msgstr ""
 "Ilekroć przeciwniki rzuca biały lub niebieski czar sztuczki lub obrzędu, "
 "Mindsparker zadaje temu graczowi 2 obrażenia."
 
-# bf3050771bc4411484d29b3da27c450c
 #: ../../M14.rst:736
-msgid "Molten Birth"
+msgid ":mtgtip:`Molten Birth`"
 msgstr ""
 
 # 21750818831048f0a6c09cfe4009b162
@@ -2356,15 +2330,14 @@ msgstr ""
 #: ../../M14.rst:735
 #, fuzzy
 msgid ""
-"Create two 1/1 red Elemental creature tokens. Then flip a coin. If you win "
+"Create two 1/1 red Elemental creature tokens, then flip a coin. If you win "
 "the flip, return Molten Birth to its owner's hand."
 msgstr ""
 "Umieść na polu walki dwa żetony czerwonego stwora Elemental 1/1. Następnie "
 "rzuć monetą. Jeśli wygrasz rzut, zwróć Molten Birth do ręki jego właściciela."
 
-# da1a6538bc084763bc4f3fb6d6e72d57
 #: ../../M14.rst:740
-msgid "Ogre Battledriver"
+msgid ":mtgtip:`Ogre Battledriver`"
 msgstr ""
 
 # b02affe0a0fa4270b3ca49dc32711953
@@ -2379,9 +2352,8 @@ msgstr ""
 "dostaje +2/+0 oraz Pośpiech do końca tury. (Może atakować oraz |tap| w tej "
 "turze.)"
 
-# 0a447d210fa04cc7a6f888209267d79b
 #: ../../M14.rst:744
-msgid "Pitchburn Devils"
+msgid ":mtgtip:`Pitchburn Devils`"
 msgstr ""
 
 # 30be39676a0741b58d2b0d5b3d564714
@@ -2393,14 +2365,12 @@ msgstr ""
 "Kiedy Pitchburn Devils  umiera, zadaje 3 obrażenia we wskazanego stwora lub "
 "gracza."
 
-# b724da2589904dd39bb2293ff711bedc
 #: ../../M14.rst:746
-msgid "Regathan Firecat"
+msgid ":mtgtip:`Regathan Firecat`"
 msgstr ""
 
-# 7a8633e41d2c466d9fe6750370509545
 #: ../../M14.rst:756
-msgid "Scourge of Valkas"
+msgid ":mtgtip:`Scourge of Valkas`"
 msgstr ""
 
 # 6e88138d4f94492a9e09beeaead0ca8a
@@ -2422,9 +2392,8 @@ msgstr ""
 msgid "|mana_r|: Scourge of Valkas gets +1/+0 until end of turn."
 msgstr "|mana_r|: Scourge of Valkas dostaje +1/+0 do końca tury."
 
-# 7a5794f7cbff4a80879856c4ccf257fc
 #: ../../M14.rst:760
-msgid "Seismic Stomp"
+msgid ":mtgtip:`Seismic Stomp`"
 msgstr ""
 
 # f1af754e16c94277b45f7a402752d934
@@ -2433,9 +2402,8 @@ msgstr ""
 msgid "Creatures without flying can't block this turn."
 msgstr "Stwory bez latania nie mogą blokować w tej turze."
 
-# 24291bf3762a4417a75e262647b24053
 #: ../../M14.rst:768
-msgid "Shiv's Embrace"
+msgid ":mtgtip:`Shiv's Embrace`"
 msgstr ""
 
 # 58fafb8841da49418ad60b1dea31f1f0
@@ -2452,7 +2420,8 @@ msgstr "|mana_r|: Zauroczony stwór dostaje +1/+0 do końca tury."
 
 # c29768a5d40945efa1294b4be8141197
 #: ../../M14.rst:774
-msgid "Shivan Dragon"
+#, fuzzy
+msgid ":mtgtip:`Shivan Dragon`"
 msgstr "Shivan Dragon"
 
 # 1f20c0f4c53a4e36856b8d6c793a4c60
@@ -2461,10 +2430,9 @@ msgstr "Shivan Dragon"
 msgid "|mana_r|: Shivan Dragon gets +1/+0 until end of turn."
 msgstr "|mana_r|: Ten stwór dostaje +1/+0 do końca tury."
 
-# fe008698e22e48648728edb2264c0025
 #: ../../M14.rst:778
-msgid "Shock"
-msgstr "Shock (Wstrząs)"
+msgid ":mtgtip:`Shock`"
+msgstr ""
 
 # bf25960af9ce4dd5bac686ec4538ea88
 # 66aca507bcb944f08f6d03dc5d77b04f
@@ -2472,10 +2440,9 @@ msgstr "Shock (Wstrząs)"
 msgid "Shock deals 2 damage to any target."
 msgstr "Ten czar zadaje 2 obrażenia w dowolny cel."
 
-# a8244dd25f0b4de8bdd07bbec7d8b5b6
 #: ../../M14.rst:782
-msgid "Smelt"
-msgstr "Smelt"
+msgid ":mtgtip:`Smelt`"
+msgstr ""
 
 # 6bc1a5c775fa471291138abdafbeb440
 # a2e15a4987e34deda0fb32aed9a5d467
@@ -2486,7 +2453,8 @@ msgstr "Zniszcz wskazany artefakt."
 # f9574345a3134cb89bdedcbe88dae476
 # 8dfff97a816b43f6a6cfe15c08779cb7
 #: ../../M14.rst:786
-msgid "Striking Sliver"
+#, fuzzy
+msgid ":mtgtip:`Striking Sliver`"
 msgstr "Striking Sliver (Uderzający Drzazgul)"
 
 # d2ccae6f3a6b426fa486e89e5b5163ad
@@ -2502,7 +2470,8 @@ msgstr ""
 # 15446867461c45f882ec6a49ff1a67d1
 # d4e8d07c18d0454f909a570f998f7136
 #: ../../M14.rst:790
-msgid "Thorncaster Sliver"
+#, fuzzy
+msgid ":mtgtip:`Thorncaster Sliver`"
 msgstr "Thorncaster Sliver (Drzazgul Cierniomiot)"
 
 #: ../../M14.rst:789
@@ -2514,9 +2483,8 @@ msgstr ""
 "Slivery pod twoim władaniem mają \"Kiedy ten stwór atakuje, zadaje 1 "
 "obrażenie we wskazanego stwora lub gracza.\""
 
-# 24e859473d8b4fc692e7ab5a4ff36af1
 #: ../../M14.rst:794
-msgid "Thunder Strike"
+msgid ":mtgtip:`Thunder Strike`"
 msgstr ""
 
 # 3c3a752252fe418d8713fb7d93ef3f4e
@@ -2529,9 +2497,8 @@ msgstr ""
 "Wskazany stwór dostaje +2/+0 oraz Pierwszy Cios do końca tury. (Zadaje "
 "obrażenia bitewne przed stworami nie posiadającymi Pierwszego Ciosu.)"
 
-# ed6b456a0a074e61af7111b8aa62008e
 #: ../../M14.rst:798
-msgid "Volcanic Geyser"
+msgid ":mtgtip:`Volcanic Geyser`"
 msgstr ""
 
 # 87ffa0dba8dd48c5be8d4233bd899a11
@@ -2541,9 +2508,8 @@ msgstr ""
 msgid "Volcanic Geyser deals X damage to any target."
 msgstr "Volcanic Geyser zadaje X obrażeń we wskazanego stwora lub gracza."
 
-# eafd8311e58243008fbd3214a0da1121
 #: ../../M14.rst:804
-msgid "Wild Guess"
+msgid ":mtgtip:`Wild Guess`"
 msgstr ""
 
 # 841e719c46a544a0acd38d70f9ea7634
@@ -2552,9 +2518,8 @@ msgstr ""
 msgid "As an additional cost to cast this spell, discard a card."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru, odrzuć kartę."
 
-# 3d347563f92f44efb06ca07002bd16ab
 #: ../../M14.rst:808
-msgid "Wild Ricochet"
+msgid ":mtgtip:`Wild Ricochet`"
 msgstr ""
 
 # b0a0fd863f834bee8d73cf6225995b7e
@@ -2567,9 +2532,8 @@ msgstr ""
 "Możesz wskazać nowe cele wskazanego czaru sztuczki lub obrzędu. Następnie "
 "skopiuj ten czar. Możesz wskazać nowe cele dla owej kopii."
 
-# d2c73d37227646ceac621423e695d60c
 #: ../../M14.rst:812
-msgid "Young Pyromancer"
+msgid ":mtgtip:`Young Pyromancer`"
 msgstr ""
 
 # d22ef80729fa489bb3c33cfa265cbf47
@@ -2586,7 +2550,8 @@ msgstr ""
 # 3a31db08ab4b498cb14397e2f497bbde
 # f6322a71f52e4b8bbe8960e9e28d4a41
 #: ../../M14.rst:816
-msgid "Advocate of the Beast"
+#, fuzzy
+msgid ":mtgtip:`Advocate of the Beast`"
 msgstr "Advocate of the Beast (Poskromiciel Bestii)"
 
 # dcfae1295eb442ba8d8995166ae0d612
@@ -2603,7 +2568,7 @@ msgstr ""
 # 6cb0390e912947c8a988b1a7e1f51fbe
 #: ../../M14.rst:820
 #, fuzzy
-msgid "Bramblecrush"
+msgid ":mtgtip:`Bramblecrush`"
 msgstr "Bramblecrush (Miażdżące Ciernie)"
 
 # 2dbddf7727af470c8ef196d37fad500b
@@ -2615,7 +2580,8 @@ msgstr "Zniszcz wskazany permanent nie będący stworem."
 # 159107b495b548cf9354965d02f0a2eb
 # 56a3294921434967aaa8139c7231255e
 #: ../../M14.rst:826
-msgid "Briarpack Alpha"
+#, fuzzy
+msgid ":mtgtip:`Briarpack Alpha`"
 msgstr "Briarpack Alpha (Alfa Wrzoścowej Watahy)"
 
 # d022fdbb04dc4f838d2ba3a4b9abb70f
@@ -2630,7 +2596,8 @@ msgstr ""
 # 1bd13482021842eabe9b96ef1f9d0d14
 # d13e5ef124e149cb994de1085e0816d6
 #: ../../M14.rst:830
-msgid "Brindle Boar"
+#, fuzzy
+msgid ":mtgtip:`Brindle Boar`"
 msgstr "Brindle Boar (Pręgowany Dzik)"
 
 # 30792e456cdc4301bf19e9d2ff2fe5ea
@@ -2642,7 +2609,8 @@ msgstr "Poświęć Pręgowanego Dzika: Zyskujesz 4 życia."
 # 4a7f894937a6440d9cee1b8c563d3a08
 # 117e97f41b2b4adbade0044f48000c2b
 #: ../../M14.rst:836
-msgid "Deadly Recluse"
+#, fuzzy
+msgid ":mtgtip:`Deadly Recluse`"
 msgstr "Deadly Recluse (Śmiertelny Pustelnik)"
 
 # d47e6b323aa94c259cf9af003f662289
@@ -2656,7 +2624,8 @@ msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 # 2f655e4692b44f19a9b7ef8ff93efd7a
 # 4df4cc4222b947f482fb312a164d514f
 #: ../../M14.rst:840
-msgid "Elvish Mystic"
+#, fuzzy
+msgid ":mtgtip:`Elvish Mystic`"
 msgstr "Elvish Mystic (Elfi Mistyk)"
 
 # 50e317cae83a4874b3903451a7c677b4
@@ -2665,11 +2634,9 @@ msgstr "Elvish Mystic (Elfi Mistyk)"
 msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Dostajesz |mana_g|."
 
-# 6397f8a5b1d14dcda12ae61eaf80f15e
-# 13fceab03dc14305b5c51dfa7a1040fc
 #: ../../M14.rst:844
-msgid "Enlarge"
-msgstr "Enlarge (Powiększenie)"
+msgid ":mtgtip:`Enlarge`"
+msgstr ""
 
 # 00fb5b4c25e649f6aa601b377b7865ba
 # c248b9d80196498fac1543b3a47bc4b4
@@ -2677,20 +2644,17 @@ msgstr "Enlarge (Powiększenie)"
 #, fuzzy
 msgid ""
 "Target creature gets +7/+7 and gains trample until end of turn. It must be "
-"blocked this turn if able. (If a creature with trample would assign enough "
-"damage to its blockers to destroy them, you may have it assign the rest of "
-"its damage to the player or planeswalker it's attacking.)"
+"blocked this turn if able. (A creature with trample can deal excess combat "
+"damage to the player or planeswalker it's attacking.)"
 msgstr ""
 "Wskazany stwór dostaje +7/+7 oraz Tratowanie do końca tury. Musi być "
 "blokowany w tej turze jeśli to możliwe. (Jeśli stwór z tratowaniem miałby "
 "zadać dość obrażeń, by zniszczyć blokujących, możesz przypisać pozostałe "
 "obrażenia broniącemu się graczowi lub Wędrowcowi.)"
 
-# 0fcef3c24aa3485b93189b2102514ae8
-# 53a7c7f7c9de4bf0a405056500ed9a7e
 #: ../../M14.rst:848
-msgid "Fog"
-msgstr "Fog (Mgła)"
+msgid ":mtgtip:`Fog`"
+msgstr ""
 
 # 000810d09b224b51b4322eb95471d912
 # a5fe1295abcb4561b741d5098d6bb4e6
@@ -2703,7 +2667,8 @@ msgstr ""
 # e923f9ef6d4b419490c3c9245be244f1
 # 2551c454e0f6423a9495d858f92949bc
 #: ../../M14.rst:856
-msgid "Garruk, Caller of Beasts"
+#, fuzzy
+msgid ":mtgtip:`Garruk, Caller of Beasts`"
 msgstr "Garruk, Caller of Beasts (Garruk, Przywoływacz Bestii)"
 
 # 06909eea45394d8f9ede90f6749b8969
@@ -2740,7 +2705,8 @@ msgstr ""
 # 30247ce5ec824a98b307329d56db0bb5
 # 953a64c97b85473bbe5b9cec470b07f0
 #: ../../M14.rst:864
-msgid "Garruk's Horde"
+#, fuzzy
+msgid ":mtgtip:`Garruk's Horde`"
 msgstr "Garruk's Horde (Horda Garruka)"
 
 # 2067fb6845ef4f6ba32066eac0665fbf
@@ -2773,7 +2739,7 @@ msgstr ""
 # 83564c6c869047d1ac826965f9c7208f
 #: ../../M14.rst:868
 #, fuzzy
-msgid "Giant Growth"
+msgid ":mtgtip:`Giant Growth`"
 msgstr "Giant Growth"
 
 # 285671a89db64a5da13c4234c04087de
@@ -2785,12 +2751,12 @@ msgstr "Wskazany stwór dostaje +3/+3 do końca tury."
 # 91c6332df70c4e9d969975eefeb7b9ae
 # dedc24eb15244d42bbc58a1dc25f0437
 #: ../../M14.rst:872
-msgid "Giant Spider"
+#, fuzzy
+msgid ":mtgtip:`Giant Spider`"
 msgstr "Giant Spider (Gigantyczny Pająk)"
 
-# 119318972f1e4a24b75ac6dda071d7ca
 #: ../../M14.rst:876
-msgid "Gladecover Scout"
+msgid ":mtgtip:`Gladecover Scout`"
 msgstr ""
 
 # a033c4877f5a4aabab42d8e1824de027
@@ -2805,9 +2771,8 @@ msgstr ""
 "Antyklątwa (Ten stwór nie może być wskazywany przez czary lub zdolności "
 "władane przez twoich przeciwników.)"
 
-# cef397e21dcc4cff91bf4d69e6ce09d0
 #: ../../M14.rst:880
-msgid "Groundshaker Sliver"
+msgid ":mtgtip:`Groundshaker Sliver`"
 msgstr ""
 
 # 65dcb07f0c7c429aba81d5df9e72eae0
@@ -2815,17 +2780,15 @@ msgstr ""
 #: ../../M14.rst:879
 #, fuzzy
 msgid ""
-"Sliver creatures you control have trample. (If a Sliver you control would "
-"assign enough damage to its blockers to destroy them, you may have it assign "
-"the rest of its damage to the player or planeswalker it's attacking.)"
+"Sliver creatures you control have trample. (A creature with trample can deal "
+"excess combat damage to the player or planeswalker it's attacking.)"
 msgstr ""
 "Drzazgule pod twoim władaniem mają Tratowanie. (Jeśli Drzazgul pod twoim "
 "władaniem miałby zadać dość obrażeń, by zniszczyć blokujące go stwory, "
 "możesz przypisać pozostałe obrażenia w broniącego się gracza lub wędrowca.)"
 
-# 90b471ffd7954769a32c78ccc1e44c47
 #: ../../M14.rst:884
-msgid "Howl of the Night Pack"
+msgid ":mtgtip:`Howl of the Night Pack`"
 msgstr ""
 
 # 333d7d8a1a8f4857b8318cc811a27bde
@@ -2839,7 +2802,8 @@ msgstr ""
 
 # 41235e176b2a4031ad19e439c860d21f
 #: ../../M14.rst:888
-msgid "Hunt the Weak"
+#, fuzzy
+msgid ":mtgtip:`Hunt the Weak`"
 msgstr "Hunt the Weak"
 
 # d1f9912d4ffe40f092fde50e8bf50a5c
@@ -2854,9 +2818,8 @@ msgstr ""
 "stwór walczy ze wskazanym stworem poza twoim władaniem. (Zadają sobie "
 "nawzajem obrażenia równe ich sile.)"
 
-# 4c7e15d580da4b20889a6d13d6a98a58
 #: ../../M14.rst:892
-msgid "Into the Wilds"
+msgid ":mtgtip:`Into the Wilds`"
 msgstr ""
 
 # 0f4b6202c9654e558bf57227219edcc6
@@ -2872,7 +2835,8 @@ msgstr ""
 # 179d284a22324015a7078fc4d21e015d
 # 8d53b349c3304d398639fb8767fc8453
 #: ../../M14.rst:900
-msgid "Kalonian Hydra"
+#, fuzzy
+msgid ":mtgtip:`Kalonian Hydra`"
 msgstr "Kalonian Hydra (Kalońska Hydra)"
 
 # 5535faaa624d4d248ef90aa37c3af6c1
@@ -2892,14 +2856,12 @@ msgstr ""
 "Ilekroć Kalonian Hydra atakuje, podwój liczbę znaczników +1/+1 na każdym "
 "stworze pod twoim władaniem."
 
-# 79e7edc3c9e44483bdc56f934ca62034
 #: ../../M14.rst:902
-msgid "Kalonian Tusker"
+msgid ":mtgtip:`Kalonian Tusker`"
 msgstr ""
 
-# 044673d50cb24cc5b31b6e859e6b9c01
 #: ../../M14.rst:908
-msgid "Lay of the Land"
+msgid ":mtgtip:`Lay of the Land`"
 msgstr ""
 
 # aa9ecedafad2405787cf93e72ddfa419
@@ -2915,7 +2877,8 @@ msgstr ""
 # c3243b4e3b1547aaac76914e9a11ad03
 # cf04df4de8c047e090dedc6523fc5b07
 #: ../../M14.rst:912
-msgid "Manaweft Sliver"
+#, fuzzy
+msgid ":mtgtip:`Manaweft Sliver`"
 msgstr "Manaweft Sliver (Drzazgul Manoplot)"
 
 #: ../../M14.rst:911
@@ -2928,7 +2891,8 @@ msgstr ""
 # d851174b9328419fa1b797d580aa186d
 # bde423976f534bc2b9fa070edc289f84
 #: ../../M14.rst:916
-msgid "Megantic Sliver"
+#, fuzzy
+msgid ":mtgtip:`Megantic Sliver`"
 msgstr "Megantic Sliver (Megantyczny Drzazgul)"
 
 # 7d15c240bdb9415d810b5e82199efe3b
@@ -2939,7 +2903,8 @@ msgstr "Drzazgule pod twoim władaniem dostają +3/+3."
 
 # d1bf055c1c4740a082497eeb0b340cc1
 #: ../../M14.rst:920
-msgid "Naturalize"
+#, fuzzy
+msgid ":mtgtip:`Naturalize`"
 msgstr "Naturalize (Naturalizacja)"
 
 # 8b387417785e4147965a545302dadcff
@@ -2948,9 +2913,8 @@ msgstr "Naturalize (Naturalizacja)"
 msgid "Destroy target artifact or enchantment."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
-# f579ce1e6dbe4219ae3a8f2d40d17ce6
 #: ../../M14.rst:924
-msgid "Oath of the Ancient Wood"
+msgid ":mtgtip:`Oath of the Ancient Wood`"
 msgstr ""
 
 # fbd48576624140f8b20fb791fdd5fbd5
@@ -2964,10 +2928,9 @@ msgstr ""
 "Ilekroć Oath of the Ancient Wood lub inny urok wchodzi na pole walki pod "
 "twoim władaniem, możesz położyć znacznik +1/+1 na wskazanym stworze."
 
-# 690f540b7bab413bbb602cc88b85584f
 #: ../../M14.rst:928
-msgid "Plummet"
-msgstr "Plummet"
+msgid ":mtgtip:`Plummet`"
+msgstr ""
 
 # 8e09b90687c44a10a213526c545bbcf8
 # 215b5c05d5604ee0b4b832e10fb7e597
@@ -2978,7 +2941,8 @@ msgstr "Zniszcz wskazanego stwora z lataniem."
 # 13700e4730fd4421aec3e2c90916dfa9
 # e5b10a1cbfae421dbf442512ed0ec776
 #: ../../M14.rst:932
-msgid "Predatory Sliver"
+#, fuzzy
+msgid ":mtgtip:`Predatory Sliver`"
 msgstr "Predatory Sliver (Drapieżny Drzazgul)"
 
 # 4decfc4bc02d4362969213dc06ba6be3
@@ -2987,9 +2951,8 @@ msgstr "Predatory Sliver (Drapieżny Drzazgul)"
 msgid "Sliver creatures you control get +1/+1."
 msgstr "Drzazgule pod twoim władaniem dostają +1/+1."
 
-# 432311cbef6648b5a88dc0a5644ce0b2
 #: ../../M14.rst:940
-msgid "Primeval Bounty"
+msgid ":mtgtip:`Primeval Bounty`"
 msgstr ""
 
 # 5550482e5f554893a8fed7aca25e8e30
@@ -3018,9 +2981,8 @@ msgid ""
 msgstr ""
 "Ilekroć na pole walki wchodzi ląd pod twoim władaniem, zyskujesz 3 życia."
 
-# 0ed3c403fe53407b8b697c6de12ad3ee
 #: ../../M14.rst:944
-msgid "Ranger's Guile"
+msgid ":mtgtip:`Ranger's Guile`"
 msgstr ""
 
 # 83ef7a43b5c74c7eb39df56d03452b8a
@@ -3034,9 +2996,8 @@ msgstr ""
 "tury. (Nie może być wskazywany przez czary lub zdolności władane przez "
 "twoich przeciwników.)"
 
-# 47fc64d7617c4b9abebd2a5db0f56037
 #: ../../M14.rst:948
-msgid "Rootwalla"
+msgid ":mtgtip:`Rootwalla`"
 msgstr ""
 
 # d678d5d25d3d4a29a80c9ae24a04d700
@@ -3050,14 +3011,12 @@ msgstr ""
 "|mana_1|\\ |mana_g|: Rootwalla dostaje +2/+2 do końca tury. Aktywuj tę "
 "zdolność tylko raz na turę."
 
-# f768d3439fca41608b718ef7e9601022
 #: ../../M14.rst:950
-msgid "Rumbling Baloth"
+msgid ":mtgtip:`Rumbling Baloth`"
 msgstr ""
 
-# eb34f43bdef84454860dabeb78d4a8e5
 #: ../../M14.rst:958
-msgid "Savage Summoning"
+msgid ":mtgtip:`Savage Summoning`"
 msgstr ""
 
 # 9c6181ae78ec4e669c77cacc04d23517
@@ -3080,7 +3039,8 @@ msgstr ""
 
 # d9f997e03a9a4bf8b8e534b77146e50f
 #: ../../M14.rst:962
-msgid "Scavenging Ooze"
+#, fuzzy
+msgid ":mtgtip:`Scavenging Ooze`"
 msgstr "Scavenging Ooze (Szlam Czyściciel)"
 
 # cfe53af55bbc4fe7918dc9bfecfa1078
@@ -3093,9 +3053,8 @@ msgstr ""
 "|mana_g|: Wygnaj wskazaną kartę z cmentarza. Jeśli była to karta stwora, "
 "umieść znacznik +1/+1 na Scavenging Ooze i zyskaj 1 życie."
 
-# c661c4da31694ee18d9f669ce23899ff
 #: ../../M14.rst:966
-msgid "Sporemound"
+msgid ":mtgtip:`Sporemound`"
 msgstr ""
 
 # d313ccc62d7e4fc5941a6f2d2f1a34c1
@@ -3109,9 +3068,8 @@ msgstr ""
 "Ilekroć na pole walki pod twoim władaniem wchodzi ląd, stwórz żeton "
 "zielonego stwora Saproling 1/1."
 
-# 54d827d301d045f78e9a547bae1c5fbf
 #: ../../M14.rst:972
-msgid "Trollhide"
+msgid ":mtgtip:`Trollhide`"
 msgstr ""
 
 #: ../../M14.rst:971
@@ -3126,9 +3084,8 @@ msgstr ""
 "zniszczony, nie jest. Zamiast tego zużyj go, usuń z niego wszystkie "
 "obrażenia i usuń go z walki.)"
 
-# af0e06f8ebec4cb4a823fb8369e20767
 #: ../../M14.rst:978
-msgid "Vastwood Hydra"
+msgid ":mtgtip:`Vastwood Hydra`"
 msgstr ""
 
 # cd3bc2001bfd4e85886ee3eeb42e2451
@@ -3151,7 +3108,7 @@ msgstr ""
 # 18108f9ec7d9494299a7c63c686463a3
 #: ../../M14.rst:986
 #, fuzzy
-msgid "Verdant Haven"
+msgid ":mtgtip:`Verdant Haven`"
 msgstr "Verdant Haven"
 
 # d00154676a6a439caeef24f4ff8985e4
@@ -3178,9 +3135,8 @@ msgstr ""
 "gracz dodaje jedną manę dowolnego koloru do swojej puli many (oprócz many, "
 "którą ten ląd produkuje)."
 
-# 456714a9ac5345bea7b52206332a6cbe
 #: ../../M14.rst:990
-msgid "Voracious Wurm"
+msgid ":mtgtip:`Voracious Wurm`"
 msgstr ""
 
 # fc459ac8c5e040edaa7e05e49d37df6f
@@ -3193,9 +3149,8 @@ msgstr ""
 "Voracious Wurm wchodzi na pole walki z X znacznikami +1/+1, gdzie X jest "
 "liczbą punktów życia, jakie zyskałeś w tej turze."
 
-# f354b86be6ae49bcb21df73e7dbd4875
 #: ../../M14.rst:994
-msgid "Windstorm"
+msgid ":mtgtip:`Windstorm`"
 msgstr ""
 
 # e696f6d6ce3b4b69867fd5db5daf839b
@@ -3204,9 +3159,8 @@ msgstr ""
 msgid "Windstorm deals X damage to each creature with flying."
 msgstr "Windstorm zadaje X obrażeń każdemu stworowi z Lataniem."
 
-# 48fc92c2214846bfaaaa864c68180572
 #: ../../M14.rst:1000
-msgid "Witchstalker"
+msgid ":mtgtip:`Witchstalker`"
 msgstr ""
 
 # b3e90dda8ce1493194d302e611ba05c0
@@ -3219,9 +3173,8 @@ msgstr ""
 "Ilekroć przeciwnik rzuca niebieski lub czarny czar w twojej turze, umieść "
 "znacznik +1/+1 na Witchstalkerze."
 
-# 18e44e8f584b4010b99037f3d9c2e051
 #: ../../M14.rst:1004
-msgid "Woodborn Behemoth"
+msgid ":mtgtip:`Woodborn Behemoth`"
 msgstr ""
 
 # 7efe28d005e94269a8d039adfd6e3977
@@ -3230,9 +3183,8 @@ msgstr ""
 #, fuzzy
 msgid ""
 "As long as you control eight or more lands, Woodborn Behemoth gets +4/+4 and "
-"has trample. (If this creature would assign enough damage to its blockers to "
-"destroy them, you may have it assign the rest of its damage to the player or "
-"planeswalker it's attacking.)"
+"has trample. (It can deal excess combat damage to the player or planeswalker "
+"it's attacking.)"
 msgstr ""
 "Tak długo, jak masz we władaniu osiem lub więcej lądów, Woodborn Behemoth "
 "dostaje +4/+4 oraz ma Tratowanie. (Jeśli ten stwór miałby zadać dość "
@@ -3242,7 +3194,8 @@ msgstr ""
 # 0c091b47a1fb435984ba2e9e0bf17317
 # cbf670a66ae8425c804d330e677bf877
 #: ../../M14.rst:1010
-msgid "Accorder's Shield"
+#, fuzzy
+msgid ":mtgtip:`Accorder's Shield`"
 msgstr "Accorder's Shield (Tarcza Rozjemcy)"
 
 # a55b0d8b6fb5412eb4166431bfcb60d9
@@ -3268,7 +3221,8 @@ msgstr ""
 # 347893cb4c14410eb5c0490d86666b4d
 # 74f00b5e1791493c99246460509fd914
 #: ../../M14.rst:1016
-msgid "Bubbling Cauldron"
+#, fuzzy
+msgid ":mtgtip:`Bubbling Cauldron`"
 msgstr "Bubbling Cauldron (Bulgocący Kociołek)"
 
 # 6df889037cd64e84bad4d53dd3dfc1f0
@@ -3287,9 +3241,8 @@ msgstr ""
 "|mana_1|, |tap|, poświęć stwora o nazwie Zaropiała Traszka: Każdy przeciwnik "
 "traci 4 życia. Zyskujesz tyle życia, ile stracono w ten sposób."
 
-# 118aa6a4f30e4597962fef0d5f8d4b10
 #: ../../M14.rst:1020
-msgid "Darksteel Forge"
+msgid ":mtgtip:`Darksteel Forge`"
 msgstr ""
 
 #: ../../M14.rst:1019
@@ -3298,13 +3251,12 @@ msgid ""
 "don't destroy them. Artifact creatures with indestructible can't be "
 "destroyed by damage.)"
 msgstr ""
-"Artefakty pod twoim władaniem mają Niezniszczalność. (Efekty, które mówią \""
-"zniszcz\" nie niszczą ich. Artefaktowe stwory z Niezniszczalnością nie mogą "
-"zostać zniszczone przez obrażenia.)"
+"Artefakty pod twoim władaniem mają Niezniszczalność. (Efekty, które mówią "
+"\"zniszcz\" nie niszczą ich. Artefaktowe stwory z Niezniszczalnością nie "
+"mogą zostać zniszczone przez obrażenia.)"
 
-# 6ee5305731a743e4bcb2ec920ec5fcf3
 #: ../../M14.rst:1026
-msgid "Darksteel Ingot"
+msgid ":mtgtip:`Darksteel Ingot`"
 msgstr ""
 
 # e7beabdc96bf4ff1ae8478474f58c816
@@ -3322,7 +3274,8 @@ msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 # 04ff53c1a67d4a3ab74fa68e5ee3afcc
 # e656a45b60be477bb7e004e6d4980329
 #: ../../M14.rst:1034
-msgid "Door of Destinies"
+#, fuzzy
+msgid ":mtgtip:`Door of Destinies`"
 msgstr "Door of Destinies (Drzwi Przeznaczeń)"
 
 # c2c4065843b948279319d27ef8b13286
@@ -3354,7 +3307,8 @@ msgstr ""
 # 178ea7bde1d04086b95cee3b42e399b6
 # 5ec79365a88849acafa71a02e754b120
 #: ../../M14.rst:1038
-msgid "Elixir of Immortality"
+#, fuzzy
+msgid ":mtgtip:`Elixir of Immortality`"
 msgstr "Elixir of Immortality (Eliksir Nieśmiertelności)"
 
 # d40fbae4a7a54c95949514b6492426f7
@@ -3371,7 +3325,7 @@ msgstr ""
 # 0a0e302dbfbe43799f35b51be6d5e5a2
 #: ../../M14.rst:1044
 #, fuzzy
-msgid "Fireshrieker"
+msgid ":mtgtip:`Fireshrieker`"
 msgstr "Fireshrieker (Ogniowrzask)"
 
 # fffec6cd509e47ed98a220e6b4d063a4
@@ -3394,9 +3348,8 @@ msgstr ""
 "Wyposaż |mana_2| (|mana_2|: Dołącz do wskazanego stwora pod twoim władaniem. "
 "Wyposaż wyłącznie jako obrzęd.)"
 
-# bd2a620bcf2c49fd8ed75efd62527fb6
 #: ../../M14.rst:1050
-msgid "Guardian of the Ages"
+msgid ":mtgtip:`Guardian of the Ages`"
 msgstr ""
 
 # 46df87e257df4d30a20457f181e66731
@@ -3413,7 +3366,8 @@ msgstr ""
 # a6fb7dde5c08430596777aa766342e34
 # 19e6b311c0f64d2ebd8bc72bb0ec7b22
 #: ../../M14.rst:1058
-msgid "Haunted Plate Mail"
+#, fuzzy
+msgid ":mtgtip:`Haunted Plate Mail`"
 msgstr "Haunted Plate Mail (Nawiedzony Pancerz)"
 
 # 5c361ab107c9453cbef2b0e719bda447
@@ -3446,7 +3400,8 @@ msgstr ""
 
 # a3d665ddb823415cb964f61e28fd9f58
 #: ../../M14.rst:1062
-msgid "Millstone"
+#, fuzzy
+msgid ":mtgtip:`Millstone`"
 msgstr "Millstone"
 
 # fd78db2308c943ea856c88e442b1b406
@@ -3459,9 +3414,8 @@ msgstr ""
 "|mana_2|, |tap|: Wskazany gracz umieszcza dwie wierzchnie karty swojej "
 "biblioteki w swoim cmentarzu."
 
-# bcafbfd1d9df40678ddfceab6b6dcd14
 #: ../../M14.rst:1066
-msgid "Pyromancer's Gauntlet"
+msgid ":mtgtip:`Pyromancer's Gauntlet`"
 msgstr ""
 
 # 8cd345be31f845b298f8f952baeb3011
@@ -3476,9 +3430,8 @@ msgstr ""
 "pod twoim władaniem miałby zadać obrażenia permanentowi lub graczowi, zadaje "
 "owemu permanentowi lub graczowi o 2 obrażenia więcej."
 
-# 893821670bbd4783873f3cb994551a72
 #: ../../M14.rst:1072
-msgid "Ratchet Bomb"
+msgid ":mtgtip:`Ratchet Bomb`"
 msgstr ""
 
 # c4711ddb019d45ba9121fb8f3a304532
@@ -3497,9 +3450,8 @@ msgstr ""
 "|tap|, poświęć Ratchet Bomb: zniszcz każdy nielądowy permanent, którego "
 "łączny koszt many jest równy liczbie znaczników ładowania na Ratchet Bomb."
 
-# f349b5a84ca1478e8a570c7396eb4236
 #: ../../M14.rst:1078
-msgid "Ring of Three Wishes"
+msgid ":mtgtip:`Ring of Three Wishes`"
 msgstr ""
 
 # d91a8497413143819a5230caa064ae13
@@ -3521,9 +3473,8 @@ msgstr ""
 "|mana_5|, |tap|, usuń znacznik życzenia z Ring of Three Wishes: Poszukaj "
 "kartę w swojej bibliotece i dołóż ją do ręki. Następnie przetasuj bibliotekę."
 
-# 8033cf4c9a284ba7a48c16b917fcd4ee
 #: ../../M14.rst:1082
-msgid "Rod of Ruin"
+msgid ":mtgtip:`Rod of Ruin`"
 msgstr ""
 
 # f303865ba520433b94307118bdd39ce1
@@ -3538,12 +3489,12 @@ msgstr ""
 # 8dd3e797cc1b4b28915cfea5aae697f8
 # d15b983ccc8e48b38122cd6bb4c11bf6
 #: ../../M14.rst:1084
-msgid "Sliver Construct"
+#, fuzzy
+msgid ":mtgtip:`Sliver Construct`"
 msgstr "Sliver Construct (Drzazgul Konstrukt)"
 
-# 0c42eef7928d41e1ac1a280ae7c3e0e5
 #: ../../M14.rst:1090
-msgid "Staff of the Death Magus"
+msgid ":mtgtip:`Staff of the Death Magus`"
 msgstr ""
 
 # 3008c5b006ae4287abdb2c326d4c11f7
@@ -3556,9 +3507,8 @@ msgstr ""
 "Ilekroć rzucasz czarny czar albo Bagno wchodzi na pole walki pod twoim "
 "władaniem, zyskujesz 1 życie."
 
-# e33516c1382a417e9f6b9065456cf917
 #: ../../M14.rst:1094
-msgid "Staff of the Flame Magus"
+msgid ":mtgtip:`Staff of the Flame Magus`"
 msgstr ""
 
 # 615f5889776d4247b2e9813b1a324e20
@@ -3571,9 +3521,8 @@ msgstr ""
 "Ilekroć rzucasz czerwony czar albo Góra wchodzi na pole walki pod twoim "
 "władaniem, zyskujesz 1 życie."
 
-# 44516e7b03404d61a0836425a0b0cefb
 #: ../../M14.rst:1098
-msgid "Staff of the Mind Magus"
+msgid ":mtgtip:`Staff of the Mind Magus`"
 msgstr ""
 
 # 45361fd27ee244c48c6083b8da8ba296
@@ -3586,9 +3535,8 @@ msgstr ""
 "Ilekroć rzucasz niebieski czar albo Wyspa wchodzi na pole walki pod twoim "
 "władaniem, zyskujesz 1 życie."
 
-# 7f25c6c2849f43a9b23a3113b77ecd20
 #: ../../M14.rst:1102
-msgid "Staff of the Sun Magus"
+msgid ":mtgtip:`Staff of the Sun Magus`"
 msgstr ""
 
 # 727db433dcfe4724b4457b078b1f678c
@@ -3601,9 +3549,8 @@ msgstr ""
 "Ilekroć rzucasz biały czar albo Równina wchodzi na pole walki pod twoim "
 "władaniem, zyskujesz 1 życie."
 
-# da499319981b44acad393658756e7597
 #: ../../M14.rst:1106
-msgid "Staff of the Wild Magus"
+msgid ":mtgtip:`Staff of the Wild Magus`"
 msgstr ""
 
 # 0d1ab83726bf457c92a4be0aee8b0744
@@ -3616,9 +3563,8 @@ msgstr ""
 "Ilekroć rzucasz zielony czar albo Las wchodzi na pole walki pod twoim "
 "władaniem, zyskujesz 1 życie."
 
-# dd7e3825a26d4f72bc1fe4999d037126
 #: ../../M14.rst:1110
-msgid "Strionic Resonator"
+msgid ":mtgtip:`Strionic Resonator`"
 msgstr ""
 
 #: ../../M14.rst:1109
@@ -3632,9 +3578,8 @@ msgstr ""
 "wybrać nowe cele dla owej kopii. (Zdolność wyzwalana używa takich słów jak "
 "\"gdy\", \"kiedy\", \"na początku\", \"podczas\".)"
 
-# bde55c856e644ac4afd1aaa9ff4bdcfd
 #: ../../M14.rst:1120
-msgid "Trading Post"
+msgid ":mtgtip:`Trading Post`"
 msgstr ""
 
 # ad67a13962384557a402ec93d64606b1
@@ -3668,9 +3613,8 @@ msgstr ""
 msgid "|mana_1|, |tap|, Sacrifice an artifact: Draw a card."
 msgstr "|mana_1|, |tap|, poświęć artefakt: dobierz kartę."
 
-# e82dbe6a045c47cd93c29380cb0d51f9
 #: ../../M14.rst:1124
-msgid "Vial of Poison"
+msgid ":mtgtip:`Vial of Poison`"
 msgstr ""
 
 # ac319dd33c2d49c68886fbdabe9a138d
@@ -3685,9 +3629,8 @@ msgstr ""
 "końca tury. (Stwór otrzymujący od niego jakiekolwiek obrażenia zostaje "
 "zniszczony.)"
 
-# c6581463f18647b68efab34ab8893e0c
 #: ../../M14.rst:1130
-msgid "Encroaching Wastes"
+msgid ":mtgtip:`Encroaching Wastes`"
 msgstr ""
 
 #: ../../M14.rst:1127 ../../M14.rst:1133 ../../M14.rst:1139
@@ -3701,9 +3644,8 @@ msgid ""
 msgstr ""
 "|mana_4|, |tap|, poświęć Encroaching Wastes: Zniszcz wskazany niezwykły ląd."
 
-# 31d88f36499f4a6795f53b6e694d1ebf
 #: ../../M14.rst:1136
-msgid "Mutavault"
+msgid ":mtgtip:`Mutavault`"
 msgstr ""
 
 # faf8f89961f6419bbb2714f874462a60
@@ -3716,9 +3658,8 @@ msgstr ""
 "|mana_1|: Mutavault do końca tury staje się stworem 2/2 liczącym się jako "
 "każdy typ stwora i wciąż jest lądem."
 
-# 3b7ddb7a0a1b4f6995d89c6255223628
 #: ../../M14.rst:1142
-msgid "Shimmering Grotto"
+msgid ":mtgtip:`Shimmering Grotto`"
 msgstr ""
 
 # 21bf493544884971840c3c11bc13d3c6
@@ -3727,33 +3668,136 @@ msgstr ""
 msgid "|mana_1|, |tap|: Add one mana of any color."
 msgstr "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru."
 
+#: ../../M14.rst:1146
+msgid ":mtgtip:`Plains`"
+msgstr ""
+
+# 50e317cae83a4874b3903451a7c677b4
+# c8ce2b4830074f77b316482ba879dfa3
+#: ../../M14.rst:1145
+#, fuzzy
+msgid "(|tap|: Add |mana_w|.)"
+msgstr "|tap|: Dostajesz |mana_g|."
+
+#: ../../M14.rst:1150
+msgid ":mtgtip:`Island`"
+msgstr ""
+
+# 50e317cae83a4874b3903451a7c677b4
+# c8ce2b4830074f77b316482ba879dfa3
+#: ../../M14.rst:1149
+#, fuzzy
+msgid "(|tap|: Add |mana_u|.)"
+msgstr "|tap|: Dostajesz |mana_g|."
+
+#: ../../M14.rst:1154
+msgid ":mtgtip:`Swamp`"
+msgstr ""
+
+# 50e317cae83a4874b3903451a7c677b4
+# c8ce2b4830074f77b316482ba879dfa3
+#: ../../M14.rst:1153
+#, fuzzy
+msgid "(|tap|: Add |mana_b|.)"
+msgstr "|tap|: Dostajesz |mana_g|."
+
+# 57f4b806032642978736448e69c16801
+#: ../../M14.rst:1158
+#, fuzzy
+msgid ":mtgtip:`Mountain`"
+msgstr "Mountain (Góra)"
+
+# 50e317cae83a4874b3903451a7c677b4
+# c8ce2b4830074f77b316482ba879dfa3
+#: ../../M14.rst:1157
+#, fuzzy
+msgid "(|tap|: Add |mana_r|.)"
+msgstr "|tap|: Dostajesz |mana_g|."
+
+#: ../../M14.rst:1161
+msgid ":mtgtip:`Forest`"
+msgstr ""
+
+# 50e317cae83a4874b3903451a7c677b4
+# c8ce2b4830074f77b316482ba879dfa3
+#: ../../M14.rst:1161
+#, fuzzy
+msgid "(|tap|: Add |mana_g|.)"
+msgstr "|tap|: Dostajesz |mana_g|."
+
+# 34446830b7c949d8b59852b41945ee2c
+# 13a5a223cf9d45d19a919b30f1fc001d
+#~ msgid "Magic 2014 Core Set"
+#~ msgstr "Magic 2014 - Edycja Podstawowa"
+
+# a9717e5547c7488e99f832f067fa8200
+# 72d30485750d4882a162c12fae2d6712
+#~ msgid "Fortify"
+#~ msgstr "Fortify (Umocnienie)"
+
+# 0ff37fdd0dbb400aa81c8d469711c1f7
+#~ msgid "Cancel"
+#~ msgstr "Cancel"
+
+# 85452e1194844afc80792baebe382888
+# f29db3587d33496c8584fec199ebfb3f
+#~ msgid "Clone"
+#~ msgstr "Clone (Klon)"
+
+# 0956137b19bb41de9d460c30f1aeb39a
+#~ msgid "Negate"
+#~ msgstr "Negate"
+
+# 3bad32cc6e23452fbefb1b79e05ca076
+# b803bc038c404647bbe66b1141e94a04
+#~ msgid "Corrupt"
+#~ msgstr "Corrupt (Zepsucie)"
+
+# 869e3c0cf0194b3c9722d758ac91c1ca
+# 5270ef7a0ee94870ae0d4c8154adcb78
+#~ msgid "Duress"
+#~ msgstr "Duress (Przymus)"
+
+# fe008698e22e48648728edb2264c0025
+#~ msgid "Shock"
+#~ msgstr "Shock (Wstrząs)"
+
+# a8244dd25f0b4de8bdd07bbec7d8b5b6
+#~ msgid "Smelt"
+#~ msgstr "Smelt"
+
+# 6397f8a5b1d14dcda12ae61eaf80f15e
+# 13fceab03dc14305b5c51dfa7a1040fc
+#~ msgid "Enlarge"
+#~ msgstr "Enlarge (Powiększenie)"
+
+# 0fcef3c24aa3485b93189b2102514ae8
+# 53a7c7f7c9de4bf0a405056500ed9a7e
+#~ msgid "Fog"
+#~ msgstr "Fog (Mgła)"
+
+# 690f540b7bab413bbb602cc88b85584f
+#~ msgid "Plummet"
+#~ msgstr "Plummet"
+
 # 0987a6e552714f3a94f07b5fb81bed24
-#: ../../M14.rst:1144 ../../M14.rst:1148 ../../M14.rst:1152 ../../M14.rst:1156
-msgid "Plains"
-msgstr "Plains (Równina)"
+#~ msgid "Plains"
+#~ msgstr "Plains (Równina)"
 
 # b0ab5fca7d9f46519ad62f86d533e737
 # bb3c41635e9643b1b1073251df92247c
-#: ../../M14.rst:1160 ../../M14.rst:1164 ../../M14.rst:1168 ../../M14.rst:1172
-msgid "Island"
-msgstr "Island (Wyspa)"
+#~ msgid "Island"
+#~ msgstr "Island (Wyspa)"
 
 # c5911b00708c488db851374af07e1cfb
 # 6c587e66fcc340c9881d84a0caa71c9e
-#: ../../M14.rst:1176 ../../M14.rst:1180 ../../M14.rst:1184 ../../M14.rst:1188
-msgid "Swamp"
-msgstr "Swamp (Bagno)"
-
-# 57f4b806032642978736448e69c16801
-#: ../../M14.rst:1192 ../../M14.rst:1196 ../../M14.rst:1200 ../../M14.rst:1204
-msgid "Mountain"
-msgstr "Mountain (Góra)"
+#~ msgid "Swamp"
+#~ msgstr "Swamp (Bagno)"
 
 # d14e27ed80d745d8bd501f345693fef7
 # 7b8d8931700540fdbb150b145713867f
-#: ../../M14.rst:1208 ../../M14.rst:1212 ../../M14.rst:1216 ../../M14.rst:1220
-msgid "Forest"
-msgstr "Forest (Las)"
+#~ msgid "Forest"
+#~ msgstr "Forest (Las)"
 
 # a8e865d8f8b84bdaa165609f0ca080ea
 # 7c91a3a5c85d423ba8c274ae90223f7f
