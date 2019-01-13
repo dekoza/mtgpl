@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 17:36+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-13 22:24+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -113,7 +113,7 @@ msgid ""
 "permanent an opponent controls until Conclave Tribunal leaves the "
 "battlefield."
 msgstr ""
-"Kiedy ten urok wchodzi na pole walki, wypędź wskazany nie-lądowy permanent "
+"Kiedy ten urok wchodzi na pole walki, wygnaj wskazany nie-lądowy permanent "
 "dopóki ten urok nie opuści pola walki."
 
 #: ../../GRN.rst:44
@@ -493,8 +493,8 @@ msgid ""
 "of putting it into its owner's graveyard. You may shuffle up to four target "
 "cards from your graveyard into your library."
 msgstr ""
-"Skontruj wskazany czar. Jeśli ów czar zostanie w ten sposób skontrowany , "
-"wypędź go zamiast umieszczać go w cmentarzu jego władcy. Możesz wtasować co "
+"Skontruj wskazany czar. Jeśli ów czar zostanie w ten sposób skontrowany, "
+"wygnaj go zamiast umieszczać go w cmentarzu jego władcy. Możesz wtasować co "
 "najwyżej cztery wskazane karty z twojego cmentarza do twojej biblioteki."
 
 #: ../../GRN.rst:196
@@ -849,7 +849,7 @@ msgid ""
 "When Blood Operative enters the battlefield, you may exile target card from "
 "a graveyard."
 msgstr ""
-"Kiedy ten stwór wchodzi na pole walki, możesz wypędzić wskazaną kartę z "
+"Kiedy ten stwór wchodzi na pole walki, możesz wygnać wskazaną kartę z "
 "dowolnego cmentarza."
 
 #: ../../GRN.rst:339
@@ -1759,11 +1759,8 @@ msgid ":mtgtip:`Hitchclaw Recluse`"
 msgstr ""
 
 #: ../../GRN.rst:701
-#, fuzzy
 msgid "Reach (This creature can block creatures with flying.)"
-msgstr ""
-"Złowrogość (Ten stwór nie może być zablokowany, chyba że przez co najmniej "
-"dwa stwory.)"
+msgstr "Zasięg (Ten stwór może blokować stwory z lataniem.)"
 
 #: ../../GRN.rst:706
 #, fuzzy
@@ -2020,8 +2017,8 @@ msgid ""
 "shuffle their library."
 msgstr ""
 "Zniszcz wskazany permanent władany przez przeciwnika. Jego władca może "
-"poszukać w swojej bibliotece kartę bazowego lądu, położyć ją przekręconą na "
-"polu walki, a następnie przetasować swoją bibliotekę."
+"poszukać w swojej bibliotece kartę bazowego lądu, położyć ją na polu walki, "
+"a następnie przetasować swoją bibliotekę."
 
 #: ../../GRN.rst:820
 #, fuzzy
@@ -2035,8 +2032,8 @@ msgid ""
 "it's red, and gains vigilance if it's white."
 msgstr ""
 "Na początku walki w twojej turze wskaż co najwyżej jednego stwora pod twoim "
-"władaniem. Do końca tury ów stwór dostaje +2/+0 i tratowanie jeśli jest "
-"czerwony oraz zyskuje czujność jeśli jest biały."
+"władaniem. Do końca tury ów stwór dostaje +2/+0, zyskuje tratowanie jeśli "
+"jest czerwony, oraz zyskuje czujność jeśli jest biały."
 
 #: ../../GRN.rst:826
 #, fuzzy
@@ -2405,7 +2402,7 @@ msgid ""
 "Draw two cards. Then you may discard a nonland card. When you do, "
 "Hypothesizzle deals 4 damage to target creature."
 msgstr ""
-"Dobierz dwie karty. Następnie możesz odrzucić kartę nie będącą lądem. Jeśli "
+"Dobierz dwie karty. Następnie możesz odrzucić kartę nie będącą lądem. Kiedy "
 "tak zrobisz, ten czar zadaje 4 obrażenia wskazanemu stworowi."
 
 #: ../../GRN.rst:958
@@ -2729,7 +2726,7 @@ msgid ""
 "Tap target creature. Sonic Assault deals 2 damage to that creature's "
 "controller."
 msgstr ""
-"Zaznacz wskazanego stwora. Ta karta zadaje 2 obrażenia władcy owego stwora."
+"Przekręć wskazanego stwora. Ta karta zadaje 2 obrażenia władcy owego stwora."
 
 #: ../../GRN.rst:1082
 #, fuzzy
@@ -2859,8 +2856,8 @@ msgid ""
 "new targets for the copies."
 msgstr ""
 "Ilekroć rzucasz sztuczkę lub obrzęd, skopiuj ów czar tyle razy, ile "
-"wcześniej rzuciłeś sztuczek lub guseł w tej turze. Możesz wskazać nowe cele "
-"dla owych kopii."
+"wcześniej rzuciłeś sztuczek lub obrzędów w tej turze. Możesz wskazać nowe "
+"cele dla owych kopii."
 
 #: ../../GRN.rst:1132
 #, fuzzy
@@ -2933,7 +2930,8 @@ msgstr ""
 msgid ""
 "Pay 4 life: Underrealm Lich gains indestructible until end of turn. Tap it."
 msgstr ""
-"Zapłać 4 życia: Ten stwór zyskuje niezniszczalność do końca tury. Zaznacz go."
+"Zapłać 4 życia: Ten stwór zyskuje niezniszczalność do końca tury. Przekręć "
+"go."
 
 #: ../../GRN.rst:1152
 #, fuzzy
@@ -3023,7 +3021,7 @@ msgid ""
 "Cyclops can attack as though it didn't have defender."
 msgstr ""
 "O ile rzuciłeś w tej turze sztuczkę lub obrzęd, ten stwór może atakować, "
-"jakby nie był obrońcą."
+"jakby nie miał obronności."
 
 #: ../../GRN.rst:1186
 #, fuzzy
@@ -3655,7 +3653,7 @@ msgstr ""
 #: ../../GRN.rst:1427
 #, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
-msgstr "(|tap|: Dostajesz |mana_r| lub |mana_w|.)"
+msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../GRN.rst:1432
 msgid ":mtgtip:`Island`"
@@ -3664,7 +3662,7 @@ msgstr ""
 #: ../../GRN.rst:1431
 #, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
-msgstr "(|tap|: Dostajesz |mana_u| lub |mana_r|.)"
+msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../GRN.rst:1436
 msgid ":mtgtip:`Swamp`"
@@ -3673,7 +3671,7 @@ msgstr ""
 #: ../../GRN.rst:1435
 #, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
-msgstr "(|tap|: Dostajesz |mana_u| lub |mana_b|.)"
+msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../GRN.rst:1440
 #, fuzzy
@@ -3683,7 +3681,7 @@ msgstr ""
 #: ../../GRN.rst:1439
 #, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
-msgstr "(|tap|: Dostajesz |mana_u| lub |mana_r|.)"
+msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../GRN.rst:1444
 msgid ":mtgtip:`Forest`"
@@ -3692,7 +3690,7 @@ msgstr ""
 #: ../../GRN.rst:1443
 #, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
-msgstr "(|tap|: Dostajesz |mana_b| lub |mana_g|.)"
+msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 #: ../../GRN.rst:1452
 #, fuzzy
