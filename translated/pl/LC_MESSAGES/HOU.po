@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-13 13:23+0100\n"
+"POT-Creation-Date: 2019-01-13 21:34+0100\n"
 "PO-Revision-Date: 2019-01-13 22:24+0000\n"
 "Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
@@ -26,8 +26,10 @@ msgid ":mtgexp:`HOU` Hour of Devastation"
 msgstr "Hour of Devastation"
 
 #: ../../HOU.rst:10
-#, fuzzy
-msgid ":mtgtip:`Act of Heroism`"
+msgid ""
+":mtgtip:`Act of Heroism<https://img.scryfall.com/cards/border_crop/en/hou/1."
+"jpg?1517813031|https://scryfall.com/card/hou/1/act-of-heroism?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:9
@@ -39,8 +41,10 @@ msgstr ""
 "dodatkowego stwora w tej turze."
 
 #: ../../HOU.rst:16
-#, fuzzy
-msgid ":mtgtip:`Adorned Pouncer`"
+msgid ""
+":mtgtip:`Adorned Pouncer<https://img.scryfall.com/cards/border_crop/en/hou/2."
+"jpg?1517813031|https://scryfall.com/card/hou/2/adorned-pouncer?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:13
@@ -56,8 +60,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:24
-#, fuzzy
-msgid ":mtgtip:`Angel of Condemnation`"
+msgid ""
+":mtgtip:`Angel of Condemnation<https://img.scryfall.com/cards/border_crop/en/"
+"hou/3.jpg?1517813031|https://scryfall.com/card/hou/3/angel-of-condemnation?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:19
@@ -87,8 +93,10 @@ msgstr ""
 "się w twoim najbliższym kroku odkręcania.)"
 
 #: ../../HOU.rst:30
-#, fuzzy
-msgid ":mtgtip:`Angel of the God-Pharaoh`"
+msgid ""
+":mtgtip:`Angel of the God-Pharaoh<https://img.scryfall.com/cards/border_crop/"
+"en/hou/4.jpg?1517813031|https://scryfall.com/card/hou/4/angel-of-the-god-"
+"pharaoh?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:27 ../../HOU.rst:33 ../../HOU.rst:45 ../../HOU.rst:167
@@ -105,7 +113,10 @@ msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../HOU.rst:36
-msgid ":mtgtip:`Aven of Enduring Hope`"
+msgid ""
+":mtgtip:`Aven of Enduring Hope<https://img.scryfall.com/cards/border_crop/en/"
+"hou/5.jpg?1517813031|https://scryfall.com/card/hou/5/aven-of-enduring-hope?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:35
@@ -113,7 +124,10 @@ msgid "When Aven of Enduring Hope enters the battlefield, you gain 3 life."
 msgstr ""
 
 #: ../../HOU.rst:42
-msgid ":mtgtip:`Crested Sunmare`"
+msgid ""
+":mtgtip:`Crested Sunmare<https://img.scryfall.com/cards/border_crop/en/hou/6."
+"jpg?1517813031|https://scryfall.com/card/hou/6/crested-sunmare?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:39
@@ -127,7 +141,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:48
-msgid ":mtgtip:`Dauntless Aven`"
+msgid ""
+":mtgtip:`Dauntless Aven<https://img.scryfall.com/cards/border_crop/en/hou/7."
+"jpg?1517813031|https://scryfall.com/card/hou/7/dauntless-aven?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:47
@@ -135,7 +152,9 @@ msgid "Whenever Dauntless Aven attacks, untap target creature you control."
 msgstr ""
 
 #: ../../HOU.rst:56
-msgid ":mtgtip:`Desert's Hold`"
+msgid ""
+":mtgtip:`Desert's Hold<https://img.scryfall.com/cards/border_crop/en/hou/8."
+"jpg?1517813031|https://scryfall.com/card/hou/8/deserts-hold?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:51 ../../HOU.rst:301
@@ -157,7 +176,10 @@ msgstr ""
 "nie mogą być aktywowane."
 
 #: ../../HOU.rst:60
-msgid ":mtgtip:`Disposal Mummy`"
+msgid ""
+":mtgtip:`Disposal Mummy<https://img.scryfall.com/cards/border_crop/en/hou/9."
+"jpg?1517813031|https://scryfall.com/card/hou/9/disposal-mummy?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:59
@@ -167,7 +189,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:68
-msgid ":mtgtip:`Djeru, With Eyes Open`"
+msgid ""
+":mtgtip:`Djeru, With Eyes Open<https://img.scryfall.com/cards/border_crop/en/"
+"hou/10.jpg?1517813031|https://scryfall.com/card/hou/10/djeru-with-eyes-open?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:63 ../../HOU.rst:139
@@ -188,7 +213,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:74
-msgid ":mtgtip:`Djeru's Renunciation`"
+msgid ""
+":mtgtip:`Djeru's Renunciation<https://img.scryfall.com/cards/border_crop/en/"
+"hou/11.jpg?1517813031|https://scryfall.com/card/hou/11/djerus-renunciation?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:71
@@ -200,11 +228,17 @@ msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../HOU.rst:76
-msgid ":mtgtip:`Dutiful Servants`"
+msgid ""
+":mtgtip:`Dutiful Servants<https://img.scryfall.com/cards/border_crop/en/"
+"hou/12.jpg?1517813031|https://scryfall.com/card/hou/12/dutiful-servants?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:82
-msgid ":mtgtip:`Gideon's Defeat`"
+msgid ""
+":mtgtip:`Gideon's Defeat<https://img.scryfall.com/cards/border_crop/en/"
+"hou/13.jpg?1517813031|https://scryfall.com/card/hou/13/gideons-defeat?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:81
@@ -214,7 +248,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:86
-msgid ":mtgtip:`God-Pharaoh's Faithful`"
+msgid ""
+":mtgtip:`God-Pharaoh's Faithful<https://img.scryfall.com/cards/border_crop/"
+"en/hou/14.jpg?1517813031|https://scryfall.com/card/hou/14/god-pharaohs-"
+"faithful?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:85
@@ -222,8 +259,10 @@ msgid "Whenever you cast a blue, black, or red spell, you gain 1 life."
 msgstr ""
 
 #: ../../HOU.rst:92
-#, fuzzy
-msgid ":mtgtip:`Hour of Revelation`"
+msgid ""
+":mtgtip:`Hour of Revelation<https://img.scryfall.com/cards/border_crop/en/"
+"hou/15.jpg?1517813031|https://scryfall.com/card/hou/15/hour-of-revelation?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:89
@@ -237,7 +276,10 @@ msgid "Destroy all nonland permanents."
 msgstr ""
 
 #: ../../HOU.rst:96
-msgid ":mtgtip:`Mummy Paramount`"
+msgid ""
+":mtgtip:`Mummy Paramount<https://img.scryfall.com/cards/border_crop/en/"
+"hou/16.jpg?1517813031|https://scryfall.com/card/hou/16/mummy-paramount?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:95
@@ -247,7 +289,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:100
-msgid ":mtgtip:`Oketra's Avenger`"
+msgid ""
+":mtgtip:`Oketra's Avenger<https://img.scryfall.com/cards/border_crop/en/"
+"hou/17.jpg?1517813031|https://scryfall.com/card/hou/17/oketras-avenger?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:99
@@ -258,7 +303,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:104
-msgid ":mtgtip:`Oketra's Last Mercy`"
+msgid ""
+":mtgtip:`Oketra's Last Mercy<https://img.scryfall.com/cards/border_crop/en/"
+"hou/18.jpg?1517813031|https://scryfall.com/card/hou/18/oketras-last-mercy?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:103
@@ -268,7 +316,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:112
-msgid ":mtgtip:`Overwhelming Splendor`"
+msgid ""
+":mtgtip:`Overwhelming Splendor<https://img.scryfall.com/cards/border_crop/en/"
+"hou/19.jpg?1517813031|https://scryfall.com/card/hou/19/overwhelming-splendor?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:107 ../../HOU.rst:201 ../../HOU.rst:437
@@ -288,7 +339,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:116
-msgid ":mtgtip:`Sandblast`"
+msgid ""
+":mtgtip:`Sandblast<https://img.scryfall.com/cards/border_crop/en/hou/20.jpg?"
+"1517813031|https://scryfall.com/card/hou/20/sandblast?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:115
@@ -296,7 +349,9 @@ msgid "Sandblast deals 5 damage to target attacking or blocking creature."
 msgstr ""
 
 #: ../../HOU.rst:126
-msgid ":mtgtip:`Saving Grace`"
+msgid ""
+":mtgtip:`Saving Grace<https://img.scryfall.com/cards/border_crop/en/hou/21."
+"jpg?1517813031|https://scryfall.com/card/hou/21/saving-grace?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:119 ../../HOU.rst:173 ../../HOU.rst:225
@@ -319,7 +374,9 @@ msgid "Enchanted creature gets +0/+3."
 msgstr ""
 
 #: ../../HOU.rst:132
-msgid ":mtgtip:`Solemnity`"
+msgid ""
+":mtgtip:`Solemnity<https://img.scryfall.com/cards/border_crop/en/hou/22.jpg?"
+"1517813031|https://scryfall.com/card/hou/22/solemnity?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:129
@@ -331,7 +388,10 @@ msgid "Counters can't be put on artifacts, creatures, enchantments, or lands."
 msgstr ""
 
 #: ../../HOU.rst:136
-msgid ":mtgtip:`Solitary Camel`"
+msgid ""
+":mtgtip:`Solitary Camel<https://img.scryfall.com/cards/border_crop/en/hou/23."
+"jpg?1517813031|https://scryfall.com/card/hou/23/solitary-camel?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:135
@@ -342,7 +402,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:142
-msgid ":mtgtip:`Steadfast Sentinel`"
+msgid ""
+":mtgtip:`Steadfast Sentinel<https://img.scryfall.com/cards/border_crop/en/"
+"hou/24.jpg?1517813031|https://scryfall.com/card/hou/24/steadfast-sentinel?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:141
@@ -354,7 +417,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:146
-msgid ":mtgtip:`Steward of Solidarity`"
+msgid ""
+":mtgtip:`Steward of Solidarity<https://img.scryfall.com/cards/border_crop/en/"
+"hou/25.jpg?1517813031|https://scryfall.com/card/hou/25/steward-of-solidarity?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:145
@@ -365,7 +431,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:152
-msgid ":mtgtip:`Sunscourge Champion`"
+msgid ""
+":mtgtip:`Sunscourge Champion<https://img.scryfall.com/cards/border_crop/en/"
+"hou/26.jpg?1517813031|https://scryfall.com/card/hou/26/sunscourge-champion?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:149
@@ -383,7 +452,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:158
-msgid ":mtgtip:`Unconventional Tactics`"
+msgid ""
+":mtgtip:`Unconventional Tactics<https://img.scryfall.com/cards/border_crop/"
+"en/hou/27.jpg?1517813031|https://scryfall.com/card/hou/27/unconventional-"
+"tactics?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:155
@@ -398,7 +470,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:164
-msgid ":mtgtip:`Vizier of the True`"
+msgid ""
+":mtgtip:`Vizier of the True<https://img.scryfall.com/cards/border_crop/en/"
+"hou/28.jpg?1517813031|https://scryfall.com/card/hou/28/vizier-of-the-true?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:161
@@ -413,7 +488,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:170
-msgid ":mtgtip:`Aerial Guide`"
+msgid ""
+":mtgtip:`Aerial Guide<https://img.scryfall.com/cards/border_crop/en/hou/29."
+"jpg?1517813031|https://scryfall.com/card/hou/29/aerial-guide?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:169
@@ -423,11 +500,17 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:176
-msgid ":mtgtip:`Aven Reedstalker`"
+msgid ""
+":mtgtip:`Aven Reedstalker<https://img.scryfall.com/cards/border_crop/en/"
+"hou/30.jpg?1517813031|https://scryfall.com/card/hou/30/aven-reedstalker?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:182
-msgid ":mtgtip:`Champion of Wits`"
+msgid ""
+":mtgtip:`Champion of Wits<https://img.scryfall.com/cards/border_crop/en/"
+"hou/31.jpg?1517813031|https://scryfall.com/card/hou/31/champion-of-wits?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:179
@@ -445,7 +528,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:188
-msgid ":mtgtip:`Countervailing Winds`"
+msgid ""
+":mtgtip:`Countervailing Winds<https://img.scryfall.com/cards/border_crop/en/"
+"hou/32.jpg?1517813031|https://scryfall.com/card/hou/32/countervailing-winds?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:185
@@ -455,7 +541,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:192
-msgid ":mtgtip:`Cunning Survivor`"
+msgid ""
+":mtgtip:`Cunning Survivor<https://img.scryfall.com/cards/border_crop/en/"
+"hou/33.jpg?1517813031|https://scryfall.com/card/hou/33/cunning-survivor?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:191
@@ -465,7 +554,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:198
-msgid ":mtgtip:`Eternal of Harsh Truths`"
+msgid ""
+":mtgtip:`Eternal of Harsh Truths<https://img.scryfall.com/cards/border_crop/"
+"en/hou/34.jpg?1517813031|https://scryfall.com/card/hou/34/eternal-of-harsh-"
+"truths?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:195 ../../HOU.rst:263 ../../HOU.rst:399 ../../HOU.rst:517
@@ -480,7 +572,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:204
-msgid ":mtgtip:`Fraying Sanity`"
+msgid ""
+":mtgtip:`Fraying Sanity<https://img.scryfall.com/cards/border_crop/en/hou/35."
+"jpg?1517813031|https://scryfall.com/card/hou/35/fraying-sanity?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:203
@@ -491,7 +586,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:208
-msgid ":mtgtip:`Hour of Eternity`"
+msgid ""
+":mtgtip:`Hour of Eternity<https://img.scryfall.com/cards/border_crop/en/"
+"hou/36.jpg?1517813031|https://scryfall.com/card/hou/36/hour-of-eternity?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:207
@@ -502,7 +600,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:214
-msgid ":mtgtip:`Imaginary Threats`"
+msgid ""
+":mtgtip:`Imaginary Threats<https://img.scryfall.com/cards/border_crop/en/"
+"hou/37.jpg?1517813031|https://scryfall.com/card/hou/37/imaginary-threats?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:211
@@ -512,7 +613,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:218
-msgid ":mtgtip:`Jace's Defeat`"
+msgid ""
+":mtgtip:`Jace's Defeat<https://img.scryfall.com/cards/border_crop/en/hou/38."
+"jpg?1517813031|https://scryfall.com/card/hou/38/jaces-defeat?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:217
@@ -520,7 +623,10 @@ msgid "Counter target blue spell. If it was a Jace planeswalker spell, scry 2."
 msgstr ""
 
 #: ../../HOU.rst:222
-msgid ":mtgtip:`Kefnet's Last Word`"
+msgid ""
+":mtgtip:`Kefnet's Last Word<https://img.scryfall.com/cards/border_crop/en/"
+"hou/39.jpg?1517813031|https://scryfall.com/card/hou/39/kefnets-last-word?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:221
@@ -530,7 +636,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:232
-msgid ":mtgtip:`Nimble Obstructionist`"
+msgid ""
+":mtgtip:`Nimble Obstructionist<https://img.scryfall.com/cards/border_crop/en/"
+"hou/40.jpg?1517813031|https://scryfall.com/card/hou/40/nimble-obstructionist?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:229
@@ -549,7 +658,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:238
-msgid ":mtgtip:`Ominous Sphinx`"
+msgid ""
+":mtgtip:`Ominous Sphinx<https://img.scryfall.com/cards/border_crop/en/hou/41."
+"jpg?1517813031|https://scryfall.com/card/hou/41/ominous-sphinx?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:237
@@ -559,7 +671,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:242
-msgid ":mtgtip:`Proven Combatant`"
+msgid ""
+":mtgtip:`Proven Combatant<https://img.scryfall.com/cards/border_crop/en/"
+"hou/42.jpg?1517813031|https://scryfall.com/card/hou/42/proven-combatant?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:241
@@ -571,7 +686,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:248
-msgid ":mtgtip:`Riddleform`"
+msgid ""
+":mtgtip:`Riddleform<https://img.scryfall.com/cards/border_crop/en/hou/43.jpg?"
+"1517813031|https://scryfall.com/card/hou/43/riddleform?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:245
@@ -585,7 +702,10 @@ msgid "|mana_2|\\ |mana_u|: Scry 1."
 msgstr ""
 
 #: ../../HOU.rst:252
-msgid ":mtgtip:`Seer of the Last Tomorrow`"
+msgid ""
+":mtgtip:`Seer of the Last Tomorrow<https://img.scryfall.com/cards/"
+"border_crop/en/hou/44.jpg?1517813031|https://scryfall.com/card/hou/44/seer-"
+"of-the-last-tomorrow?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:251
@@ -595,7 +715,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:258
-msgid ":mtgtip:`Sinuous Striker`"
+msgid ""
+":mtgtip:`Sinuous Striker<https://img.scryfall.com/cards/border_crop/en/"
+"hou/45.jpg?1517813031|https://scryfall.com/card/hou/45/sinuous-striker?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:255
@@ -611,7 +734,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:264
-msgid ":mtgtip:`Spellweaver Eternal`"
+msgid ""
+":mtgtip:`Spellweaver Eternal<https://img.scryfall.com/cards/border_crop/en/"
+"hou/46.jpg?1517813031|https://scryfall.com/card/hou/46/spellweaver-eternal?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:261 ../../HOU.rst:593 ../../HOU.rst:739
@@ -621,7 +747,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:268
-msgid ":mtgtip:`Strategic Planning`"
+msgid ""
+":mtgtip:`Strategic Planning<https://img.scryfall.com/cards/border_crop/en/"
+"hou/47.jpg?1517813031|https://scryfall.com/card/hou/47/strategic-planning?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:267
@@ -633,7 +762,10 @@ msgstr ""
 "twojej ręki, a pozostałe do twojego cmentarza."
 
 #: ../../HOU.rst:274
-msgid ":mtgtip:`Striped Riverwinder`"
+msgid ""
+":mtgtip:`Striped Riverwinder<https://img.scryfall.com/cards/border_crop/en/"
+"hou/48.jpg?1517813031|https://scryfall.com/card/hou/48/striped-riverwinder?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:271
@@ -649,7 +781,9 @@ msgid "Cycling |mana_u| (|mana_u|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_u| (|mana_u|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../HOU.rst:282
-msgid ":mtgtip:`Supreme Will`"
+msgid ""
+":mtgtip:`Supreme Will<https://img.scryfall.com/cards/border_crop/en/hou/49."
+"jpg?1517813031|https://scryfall.com/card/hou/49/supreme-will?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:277 ../../HOU.rst:353 ../../HOU.rst:463
@@ -667,7 +801,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:286
-msgid ":mtgtip:`Swarm Intelligence`"
+msgid ""
+":mtgtip:`Swarm Intelligence<https://img.scryfall.com/cards/border_crop/en/"
+"hou/50.jpg?1517813031|https://scryfall.com/card/hou/50/swarm-intelligence?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:285
@@ -677,7 +814,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:290
-msgid ":mtgtip:`Tragic Lesson`"
+msgid ""
+":mtgtip:`Tragic Lesson<https://img.scryfall.com/cards/border_crop/en/hou/51."
+"jpg?1517813031|https://scryfall.com/card/hou/51/tragic-lesson?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:289
@@ -687,7 +827,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:298
-msgid ":mtgtip:`Unesh, Criosphinx Sovereign`"
+msgid ""
+":mtgtip:`Unesh, Criosphinx Sovereign<https://img.scryfall.com/cards/"
+"border_crop/en/hou/52.jpg?1517813031|https://scryfall.com/card/hou/52/unesh-"
+"criosphinx-sovereign?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:295
@@ -703,7 +846,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:306
-msgid ":mtgtip:`Unquenchable Thirst`"
+msgid ""
+":mtgtip:`Unquenchable Thirst<https://img.scryfall.com/cards/border_crop/en/"
+"hou/53.jpg?1517813031|https://scryfall.com/card/hou/53/unquenchable-thirst?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:303
@@ -717,7 +863,9 @@ msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../HOU.rst:310
-msgid ":mtgtip:`Unsummon`"
+msgid ""
+":mtgtip:`Unsummon<https://img.scryfall.com/cards/border_crop/en/hou/54.jpg?"
+"1517813031|https://scryfall.com/card/hou/54/unsummon?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:309
@@ -725,7 +873,10 @@ msgid "Return target creature to its owner's hand."
 msgstr "Zwróć wskazanego stwora do ręki jego właściciela."
 
 #: ../../HOU.rst:316
-msgid ":mtgtip:`Vizier of the Anointed`"
+msgid ""
+":mtgtip:`Vizier of the Anointed<https://img.scryfall.com/cards/border_crop/"
+"en/hou/55.jpg?1517813031|https://scryfall.com/card/hou/55/vizier-of-the-"
+"anointed?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:313
@@ -740,7 +891,10 @@ msgid "Whenever you activate an eternalize or embalm ability, draw a card."
 msgstr ""
 
 #: ../../HOU.rst:320
-msgid ":mtgtip:`Accursed Horde`"
+msgid ""
+":mtgtip:`Accursed Horde<https://img.scryfall.com/cards/border_crop/en/hou/56."
+"jpg?1517813031|https://scryfall.com/card/hou/56/accursed-horde?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:319
@@ -751,7 +905,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:328
-msgid ":mtgtip:`Ammit Eternal`"
+msgid ""
+":mtgtip:`Ammit Eternal<https://img.scryfall.com/cards/border_crop/en/hou/57."
+"jpg?1517813031|https://scryfall.com/card/hou/57/ammit-eternal?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:323 ../../HOU.rst:569 ../../HOU.rst:575
@@ -772,7 +929,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:336
-msgid ":mtgtip:`Apocalypse Demon`"
+msgid ""
+":mtgtip:`Apocalypse Demon<https://img.scryfall.com/cards/border_crop/en/"
+"hou/58.jpg?1517813031|https://scryfall.com/card/hou/58/apocalypse-demon?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:333
@@ -788,7 +948,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:342
-msgid ":mtgtip:`Banewhip Punisher`"
+msgid ""
+":mtgtip:`Banewhip Punisher<https://img.scryfall.com/cards/border_crop/en/"
+"hou/59.jpg?1517813031|https://scryfall.com/card/hou/59/banewhip-punisher?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:339
@@ -804,7 +967,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:346
-msgid ":mtgtip:`Bontu's Last Reckoning`"
+msgid ""
+":mtgtip:`Bontu's Last Reckoning<https://img.scryfall.com/cards/border_crop/"
+"en/hou/60.jpg?1517813031|https://scryfall.com/card/hou/60/bontus-last-"
+"reckoning?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:345
@@ -814,11 +980,16 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:350
-msgid ":mtgtip:`Carrion Screecher`"
+msgid ""
+":mtgtip:`Carrion Screecher<https://img.scryfall.com/cards/border_crop/en/"
+"hou/61.jpg?1517813031|https://scryfall.com/card/hou/61/carrion-screecher?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:358
-msgid ":mtgtip:`Doomfall`"
+msgid ""
+":mtgtip:`Doomfall<https://img.scryfall.com/cards/border_crop/en/hou/62.jpg?"
+"1517813031|https://scryfall.com/card/hou/62/doomfall?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:355
@@ -832,7 +1003,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:366
-msgid ":mtgtip:`Dreamstealer`"
+msgid ""
+":mtgtip:`Dreamstealer<https://img.scryfall.com/cards/border_crop/en/hou/63."
+"jpg?1517813031|https://scryfall.com/card/hou/63/dreamstealer?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:361 ../../HOU.rst:527 ../../HOU.rst:553
@@ -854,7 +1027,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:370
-msgid ":mtgtip:`Grisly Survivor`"
+msgid ""
+":mtgtip:`Grisly Survivor<https://img.scryfall.com/cards/border_crop/en/"
+"hou/64.jpg?1517813031|https://scryfall.com/card/hou/64/grisly-survivor?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:369
@@ -864,7 +1040,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:374
-msgid ":mtgtip:`Hour of Glory`"
+msgid ""
+":mtgtip:`Hour of Glory<https://img.scryfall.com/cards/border_crop/en/hou/65."
+"jpg?1517813031|https://scryfall.com/card/hou/65/hour-of-glory?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:373
@@ -874,7 +1053,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:378
-msgid ":mtgtip:`Khenra Eternal`"
+msgid ""
+":mtgtip:`Khenra Eternal<https://img.scryfall.com/cards/border_crop/en/hou/66."
+"jpg?1517813031|https://scryfall.com/card/hou/66/khenra-eternal?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:377
@@ -884,7 +1066,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:384
-msgid ":mtgtip:`Lethal Sting`"
+msgid ""
+":mtgtip:`Lethal Sting<https://img.scryfall.com/cards/border_crop/en/hou/67."
+"jpg?1517813031|https://scryfall.com/card/hou/67/lethal-sting?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:381
@@ -898,7 +1082,10 @@ msgid "Destroy target creature."
 msgstr "Zniszcz wskazanego stwora."
 
 #: ../../HOU.rst:388
-msgid ":mtgtip:`Liliana's Defeat`"
+msgid ""
+":mtgtip:`Liliana's Defeat<https://img.scryfall.com/cards/border_crop/en/"
+"hou/68.jpg?1517813031|https://scryfall.com/card/hou/68/lilianas-defeat?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:387
@@ -908,7 +1095,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:392
-msgid ":mtgtip:`Lurching Rotbeast`"
+msgid ""
+":mtgtip:`Lurching Rotbeast<https://img.scryfall.com/cards/border_crop/en/"
+"hou/69.jpg?1517813031|https://scryfall.com/card/hou/69/lurching-rotbeast?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:391 ../../HOU.rst:419
@@ -916,7 +1106,10 @@ msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_b| (|mana_b|, odrzuć tę kartę: Dobierz kartę.)"
 
 #: ../../HOU.rst:396
-msgid ":mtgtip:`Marauding Boneslasher`"
+msgid ""
+":mtgtip:`Marauding Boneslasher<https://img.scryfall.com/cards/border_crop/en/"
+"hou/70.jpg?1517813031|https://scryfall.com/card/hou/70/marauding-boneslasher?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:395
@@ -924,7 +1117,10 @@ msgid "Marauding Boneslasher can't block unless you control another Zombie."
 msgstr ""
 
 #: ../../HOU.rst:402
-msgid ":mtgtip:`Merciless Eternal`"
+msgid ""
+":mtgtip:`Merciless Eternal<https://img.scryfall.com/cards/border_crop/en/"
+"hou/71.jpg?1517813031|https://scryfall.com/card/hou/71/merciless-eternal?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:401
@@ -934,7 +1130,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:408
-msgid ":mtgtip:`Moaning Wall`"
+msgid ""
+":mtgtip:`Moaning Wall<https://img.scryfall.com/cards/border_crop/en/hou/72."
+"jpg?1517813031|https://scryfall.com/card/hou/72/moaning-wall?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:405 ../../HOU.rst:967
@@ -942,7 +1140,10 @@ msgid "Defender"
 msgstr "Obronność"
 
 #: ../../HOU.rst:414
-msgid ":mtgtip:`Razaketh, the Foulblooded`"
+msgid ""
+":mtgtip:`Razaketh, the Foulblooded<https://img.scryfall.com/cards/"
+"border_crop/en/hou/73.jpg?1517813031|https://scryfall.com/card/hou/73/"
+"razaketh-the-foulblooded?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:411
@@ -956,7 +1157,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:420
-msgid ":mtgtip:`Razaketh's Rite`"
+msgid ""
+":mtgtip:`Razaketh's Rite<https://img.scryfall.com/cards/border_crop/en/"
+"hou/74.jpg?1517813031|https://scryfall.com/card/hou/74/razakeths-rite?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:417
@@ -966,7 +1170,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:426
-msgid ":mtgtip:`Ruin Rat`"
+msgid ""
+":mtgtip:`Ruin Rat<https://img.scryfall.com/cards/border_crop/en/hou/75.jpg?"
+"1517813031|https://scryfall.com/card/hou/75/ruin-rat?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:423
@@ -978,7 +1184,10 @@ msgid "When Ruin Rat dies, exile target card from an opponent's graveyard."
 msgstr ""
 
 #: ../../HOU.rst:430
-msgid ":mtgtip:`Scrounger of Souls`"
+msgid ""
+":mtgtip:`Scrounger of Souls<https://img.scryfall.com/cards/border_crop/en/"
+"hou/76.jpg?1517813031|https://scryfall.com/card/hou/76/scrounger-of-souls?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:429
@@ -988,7 +1197,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:434
-msgid ":mtgtip:`Torment of Hailfire`"
+msgid ""
+":mtgtip:`Torment of Hailfire<https://img.scryfall.com/cards/border_crop/en/"
+"hou/77.jpg?1517813031|https://scryfall.com/card/hou/77/torment-of-hailfire?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:433
@@ -998,7 +1210,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:440
-msgid ":mtgtip:`Torment of Scarabs`"
+msgid ""
+":mtgtip:`Torment of Scarabs<https://img.scryfall.com/cards/border_crop/en/"
+"hou/78.jpg?1517813031|https://scryfall.com/card/hou/78/torment-of-scarabs?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:439
@@ -1008,7 +1223,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:444
-msgid ":mtgtip:`Torment of Venom`"
+msgid ""
+":mtgtip:`Torment of Venom<https://img.scryfall.com/cards/border_crop/en/"
+"hou/79.jpg?1517813031|https://scryfall.com/card/hou/79/torment-of-venom?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:443
@@ -1018,7 +1236,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:450
-msgid ":mtgtip:`Vile Manifestation`"
+msgid ""
+":mtgtip:`Vile Manifestation<https://img.scryfall.com/cards/border_crop/en/"
+"hou/80.jpg?1517813031|https://scryfall.com/card/hou/80/vile-manifestation?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:447
@@ -1028,7 +1249,10 @@ msgstr ""
 "Ten stwór dostaje +1/+0 za każdą kartę z recyklingiem w twoim cmentarzu."
 
 #: ../../HOU.rst:456
-msgid ":mtgtip:`Without Weakness`"
+msgid ""
+":mtgtip:`Without Weakness<https://img.scryfall.com/cards/border_crop/en/"
+"hou/81.jpg?1517813031|https://scryfall.com/card/hou/81/without-weakness?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:453
@@ -1039,7 +1263,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:460
-msgid ":mtgtip:`Wretched Camel`"
+msgid ""
+":mtgtip:`Wretched Camel<https://img.scryfall.com/cards/border_crop/en/hou/82."
+"jpg?1517813031|https://scryfall.com/card/hou/82/wretched-camel?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:459
@@ -1049,7 +1276,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:468
-msgid ":mtgtip:`Abrade`"
+msgid ""
+":mtgtip:`Abrade<https://img.scryfall.com/cards/border_crop/en/hou/83.jpg?"
+"1517813031|https://scryfall.com/card/hou/83/abrade?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:465
@@ -1061,7 +1290,10 @@ msgid "Destroy target artifact."
 msgstr "Zniszcz wskazany artefakt."
 
 #: ../../HOU.rst:472
-msgid ":mtgtip:`Blur of Blades`"
+msgid ""
+":mtgtip:`Blur of Blades<https://img.scryfall.com/cards/border_crop/en/hou/84."
+"jpg?1517813031|https://scryfall.com/card/hou/84/blur-of-blades?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:471
@@ -1071,7 +1303,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:478
-msgid ":mtgtip:`Burning-Fist Minotaur`"
+msgid ""
+":mtgtip:`Burning-Fist Minotaur<https://img.scryfall.com/cards/border_crop/en/"
+"hou/85.jpg?1517813031|https://scryfall.com/card/hou/85/burning-fist-minotaur?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:475
@@ -1085,7 +1320,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:482
-msgid ":mtgtip:`Chandra's Defeat`"
+msgid ""
+":mtgtip:`Chandra's Defeat<https://img.scryfall.com/cards/border_crop/en/"
+"hou/86.jpg?1517813031|https://scryfall.com/card/hou/86/chandras-defeat?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:481
@@ -1096,7 +1334,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:486
-msgid ":mtgtip:`Chaos Maw`"
+msgid ""
+":mtgtip:`Chaos Maw<https://img.scryfall.com/cards/border_crop/en/hou/87.jpg?"
+"1517813031|https://scryfall.com/card/hou/87/chaos-maw?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:485
@@ -1106,8 +1346,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:492
-#, fuzzy
-msgid ":mtgtip:`Crash Through`"
+msgid ""
+":mtgtip:`Crash Through<https://img.scryfall.com/cards/border_crop/en/hou/88."
+"jpg?1517813031|https://scryfall.com/card/hou/88/crash-through?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:489
@@ -1125,11 +1367,17 @@ msgid "Draw a card."
 msgstr "Dobierz kartę."
 
 #: ../../HOU.rst:494
-msgid ":mtgtip:`Defiant Khenra`"
+msgid ""
+":mtgtip:`Defiant Khenra<https://img.scryfall.com/cards/border_crop/en/hou/89."
+"jpg?1517813031|https://scryfall.com/card/hou/89/defiant-khenra?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:504
-msgid ":mtgtip:`Earthshaker Khenra`"
+msgid ""
+":mtgtip:`Earthshaker Khenra<https://img.scryfall.com/cards/border_crop/en/"
+"hou/90.jpg?1517813031|https://scryfall.com/card/hou/90/earthshaker-khenra?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:499
@@ -1151,7 +1399,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:510
-msgid ":mtgtip:`Fervent Paincaster`"
+msgid ""
+":mtgtip:`Fervent Paincaster<https://img.scryfall.com/cards/border_crop/en/"
+"hou/91.jpg?1517813031|https://scryfall.com/card/hou/91/fervent-paincaster?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:507
@@ -1166,7 +1417,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:514
-msgid ":mtgtip:`Firebrand Archer`"
+msgid ""
+":mtgtip:`Firebrand Archer<https://img.scryfall.com/cards/border_crop/en/"
+"hou/92.jpg?1517813031|https://scryfall.com/card/hou/92/firebrand-archer?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:513
@@ -1176,7 +1430,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:520
-msgid ":mtgtip:`Frontline Devastator`"
+msgid ""
+":mtgtip:`Frontline Devastator<https://img.scryfall.com/cards/border_crop/en/"
+"hou/93.jpg?1517813031|https://scryfall.com/card/hou/93/frontline-devastator?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:519
@@ -1184,7 +1441,10 @@ msgid "|mana_1|\\ |mana_r|: Frontline Devastator gets +1/+0 until end of turn."
 msgstr ""
 
 #: ../../HOU.rst:524
-msgid ":mtgtip:`Gilded Cerodon`"
+msgid ""
+":mtgtip:`Gilded Cerodon<https://img.scryfall.com/cards/border_crop/en/hou/94."
+"jpg?1517813031|https://scryfall.com/card/hou/94/gilded-cerodon?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:523
@@ -1194,11 +1454,17 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:530
-msgid ":mtgtip:`Granitic Titan`"
+msgid ""
+":mtgtip:`Granitic Titan<https://img.scryfall.com/cards/border_crop/en/hou/95."
+"jpg?1517813031|https://scryfall.com/card/hou/95/granitic-titan?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:534
-msgid ":mtgtip:`Hazoret's Undying Fury`"
+msgid ""
+":mtgtip:`Hazoret's Undying Fury<https://img.scryfall.com/cards/border_crop/"
+"en/hou/96.jpg?1517813031|https://scryfall.com/card/hou/96/hazorets-undying-"
+"fury?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:533
@@ -1210,8 +1476,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:538
-#, fuzzy
-msgid ":mtgtip:`Hour of Devastation`"
+msgid ""
+":mtgtip:`Hour of Devastation<https://img.scryfall.com/cards/border_crop/en/"
+"hou/97.jpg?1517813031|https://scryfall.com/card/hou/97/hour-of-devastation?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:537
@@ -1221,7 +1489,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:544
-msgid ":mtgtip:`Imminent Doom`"
+msgid ""
+":mtgtip:`Imminent Doom<https://img.scryfall.com/cards/border_crop/en/hou/98."
+"jpg?1517813031|https://scryfall.com/card/hou/98/imminent-doom?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:541
@@ -1236,7 +1507,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:550
-msgid ":mtgtip:`Inferno Jet`"
+msgid ""
+":mtgtip:`Inferno Jet<https://img.scryfall.com/cards/border_crop/en/hou/99."
+"jpg?1517813031|https://scryfall.com/card/hou/99/inferno-jet?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:547
@@ -1244,7 +1517,10 @@ msgid "Inferno Jet deals 6 damage to target opponent or planeswalker."
 msgstr ""
 
 #: ../../HOU.rst:556
-msgid ":mtgtip:`Khenra Scrapper`"
+msgid ""
+":mtgtip:`Khenra Scrapper<https://img.scryfall.com/cards/border_crop/en/"
+"hou/100.jpg?1517813031|https://scryfall.com/card/hou/100/khenra-scrapper?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:555
@@ -1255,7 +1531,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:560
-msgid ":mtgtip:`Kindled Fury`"
+msgid ""
+":mtgtip:`Kindled Fury<https://img.scryfall.com/cards/border_crop/en/hou/101."
+"jpg?1517813031|https://scryfall.com/card/hou/101/kindled-fury?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:559
@@ -1263,7 +1542,9 @@ msgid "Target creature gets +1/+0 and gains first strike until end of turn."
 msgstr ""
 
 #: ../../HOU.rst:566
-msgid ":mtgtip:`Magmaroth`"
+msgid ""
+":mtgtip:`Magmaroth<https://img.scryfall.com/cards/border_crop/en/hou/102.jpg?"
+"1517813031|https://scryfall.com/card/hou/102/magmaroth?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:563
@@ -1276,7 +1557,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:572
-msgid ":mtgtip:`Manticore Eternal`"
+msgid ""
+":mtgtip:`Manticore Eternal<https://img.scryfall.com/cards/border_crop/en/"
+"hou/103.jpg?1517813031|https://scryfall.com/card/hou/103/manticore-eternal?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:571
@@ -1284,7 +1568,10 @@ msgid "Manticore Eternal attacks each combat if able."
 msgstr ""
 
 #: ../../HOU.rst:578
-msgid ":mtgtip:`Neheb, the Eternal`"
+msgid ""
+":mtgtip:`Neheb, the Eternal<https://img.scryfall.com/cards/border_crop/en/"
+"hou/104.jpg?1517813031|https://scryfall.com/card/hou/104/neheb-the-eternal?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:577
@@ -1294,7 +1581,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:582
-msgid ":mtgtip:`Open Fire`"
+msgid ""
+":mtgtip:`Open Fire<https://img.scryfall.com/cards/border_crop/en/hou/105.jpg?"
+"1517813031|https://scryfall.com/card/hou/105/open-fire?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:581
@@ -1302,7 +1591,10 @@ msgid "Open Fire deals 3 damage to any target."
 msgstr ""
 
 #: ../../HOU.rst:586
-msgid ":mtgtip:`Puncturing Blow`"
+msgid ""
+":mtgtip:`Puncturing Blow<https://img.scryfall.com/cards/border_crop/en/"
+"hou/106.jpg?1517813031|https://scryfall.com/card/hou/106/puncturing-blow?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:585
@@ -1312,7 +1604,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:590
-msgid ":mtgtip:`Sand Strangler`"
+msgid ""
+":mtgtip:`Sand Strangler<https://img.scryfall.com/cards/border_crop/en/"
+"hou/107.jpg?1517813031|https://scryfall.com/card/hou/107/sand-strangler?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:589
@@ -1323,7 +1618,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:596
-msgid ":mtgtip:`Thorned Moloch`"
+msgid ""
+":mtgtip:`Thorned Moloch<https://img.scryfall.com/cards/border_crop/en/"
+"hou/108.jpg?1517813031|https://scryfall.com/card/hou/108/thorned-moloch?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:595
@@ -1331,7 +1629,10 @@ msgid "Thorned Moloch has first strike as long as it's attacking."
 msgstr ""
 
 #: ../../HOU.rst:602
-msgid ":mtgtip:`Wildfire Eternal`"
+msgid ""
+":mtgtip:`Wildfire Eternal<https://img.scryfall.com/cards/border_crop/en/"
+"hou/109.jpg?1517813031|https://scryfall.com/card/hou/109/wildfire-eternal?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:599
@@ -1347,7 +1648,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:606
-msgid ":mtgtip:`Ambuscade`"
+msgid ""
+":mtgtip:`Ambuscade<https://img.scryfall.com/cards/border_crop/en/hou/110.jpg?"
+"1517813031|https://scryfall.com/card/hou/110/ambuscade?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:605
@@ -1357,7 +1660,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:612
-msgid ":mtgtip:`Beneath the Sands`"
+msgid ""
+":mtgtip:`Beneath the Sands<https://img.scryfall.com/cards/border_crop/en/"
+"hou/111.jpg?1517813031|https://scryfall.com/card/hou/111/beneath-the-sands?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:609
@@ -1369,7 +1675,10 @@ msgstr ""
 "polu walki, następnie przetasuj twoją bibliotekę."
 
 #: ../../HOU.rst:616
-msgid ":mtgtip:`Bitterbow Sharpshooters`"
+msgid ""
+":mtgtip:`Bitterbow Sharpshooters<https://img.scryfall.com/cards/border_crop/"
+"en/hou/112.jpg?1517813031|https://scryfall.com/card/hou/112/bitterbow-"
+"sharpshooters?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:615
@@ -1377,7 +1686,10 @@ msgid "Vigilance, reach"
 msgstr ""
 
 #: ../../HOU.rst:620
-msgid ":mtgtip:`Devotee of Strength`"
+msgid ""
+":mtgtip:`Devotee of Strength<https://img.scryfall.com/cards/border_crop/en/"
+"hou/113.jpg?1517813031|https://scryfall.com/card/hou/113/devotee-of-strength?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:619
@@ -1385,7 +1697,10 @@ msgid "|mana_4|\\ |mana_g|: Target creature gets +2/+2 until end of turn."
 msgstr ""
 
 #: ../../HOU.rst:624
-msgid ":mtgtip:`Dune Diviner`"
+msgid ""
+":mtgtip:`Dune Diviner<https://img.scryfall.com/cards/border_crop/en/hou/114."
+"jpg?1517813031|https://scryfall.com/card/hou/114/dune-diviner?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:623
@@ -1393,7 +1708,10 @@ msgid "|mana_1|, Tap an untapped Desert you control: You gain 1 life."
 msgstr ""
 
 #: ../../HOU.rst:628
-msgid ":mtgtip:`Feral Prowler`"
+msgid ""
+":mtgtip:`Feral Prowler<https://img.scryfall.com/cards/border_crop/en/hou/115."
+"jpg?1517813031|https://scryfall.com/card/hou/115/feral-prowler?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:627
@@ -1401,7 +1719,10 @@ msgid "When Feral Prowler dies, draw a card."
 msgstr ""
 
 #: ../../HOU.rst:632
-msgid ":mtgtip:`Frilled Sandwalla`"
+msgid ""
+":mtgtip:`Frilled Sandwalla<https://img.scryfall.com/cards/border_crop/en/"
+"hou/116.jpg?1517813031|https://scryfall.com/card/hou/116/frilled-sandwalla?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:631
@@ -1411,8 +1732,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:636
-#, fuzzy
-msgid ":mtgtip:`Gift of Strength`"
+msgid ""
+":mtgtip:`Gift of Strength<https://img.scryfall.com/cards/border_crop/en/"
+"hou/117.jpg?1517813031|https://scryfall.com/card/hou/117/gift-of-strength?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:635
@@ -1420,11 +1743,16 @@ msgid "Target creature gets +3/+3 and gains reach until end of turn."
 msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz zasięg."
 
 #: ../../HOU.rst:638
-msgid ":mtgtip:`Harrier Naga`"
+msgid ""
+":mtgtip:`Harrier Naga<https://img.scryfall.com/cards/border_crop/en/hou/118."
+"jpg?1517813031|https://scryfall.com/card/hou/118/harrier-naga?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:646
-msgid ":mtgtip:`Hope Tender`"
+msgid ""
+":mtgtip:`Hope Tender<https://img.scryfall.com/cards/border_crop/en/hou/119."
+"jpg?1517813031|https://scryfall.com/card/hou/119/hope-tender?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:643
@@ -1438,7 +1766,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:650
-msgid ":mtgtip:`Hour of Promise`"
+msgid ""
+":mtgtip:`Hour of Promise<https://img.scryfall.com/cards/border_crop/en/"
+"hou/120.jpg?1517813031|https://scryfall.com/card/hou/120/hour-of-promise?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:649
@@ -1449,7 +1780,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:654
-msgid ":mtgtip:`Life Goes On`"
+msgid ""
+":mtgtip:`Life Goes On<https://img.scryfall.com/cards/border_crop/en/hou/121."
+"jpg?1517813031|https://scryfall.com/card/hou/121/life-goes-on?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:653
@@ -1457,7 +1791,10 @@ msgid "You gain 4 life. If a creature died this turn, you gain 8 life instead."
 msgstr ""
 
 #: ../../HOU.rst:660
-msgid ":mtgtip:`Majestic Myriarch`"
+msgid ""
+":mtgtip:`Majestic Myriarch<https://img.scryfall.com/cards/border_crop/en/"
+"hou/122.jpg?1517813031|https://scryfall.com/card/hou/122/majestic-myriarch?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:657
@@ -1475,7 +1812,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:664
-msgid ":mtgtip:`Nissa's Defeat`"
+msgid ""
+":mtgtip:`Nissa's Defeat<https://img.scryfall.com/cards/border_crop/en/"
+"hou/123.jpg?1517813031|https://scryfall.com/card/hou/123/nissas-defeat?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:663
@@ -1485,7 +1825,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:670
-msgid ":mtgtip:`Oasis Ritualist`"
+msgid ""
+":mtgtip:`Oasis Ritualist<https://img.scryfall.com/cards/border_crop/en/"
+"hou/124.jpg?1517813031|https://scryfall.com/card/hou/124/oasis-ritualist?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:667 ../../HOU.rst:947
@@ -1499,7 +1842,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:674
-msgid ":mtgtip:`Overcome`"
+msgid ""
+":mtgtip:`Overcome<https://img.scryfall.com/cards/border_crop/en/hou/125.jpg?"
+"1517813031|https://scryfall.com/card/hou/125/overcome?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:673
@@ -1507,7 +1852,10 @@ msgid "Creatures you control get +2/+2 and gain trample until end of turn."
 msgstr ""
 
 #: ../../HOU.rst:680
-msgid ":mtgtip:`Pride Sovereign`"
+msgid ""
+":mtgtip:`Pride Sovereign<https://img.scryfall.com/cards/border_crop/en/"
+"hou/126.jpg?1517813031|https://scryfall.com/card/hou/126/pride-sovereign?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:677
@@ -1522,7 +1870,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:684
-msgid ":mtgtip:`Quarry Beetle`"
+msgid ""
+":mtgtip:`Quarry Beetle<https://img.scryfall.com/cards/border_crop/en/hou/127."
+"jpg?1517813031|https://scryfall.com/card/hou/127/quarry-beetle?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:683
@@ -1532,7 +1883,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:690
-msgid ":mtgtip:`Rampaging Hippo`"
+msgid ""
+":mtgtip:`Rampaging Hippo<https://img.scryfall.com/cards/border_crop/en/"
+"hou/128.jpg?1517813031|https://scryfall.com/card/hou/128/rampaging-hippo?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:687 ../../HOU.rst:723
@@ -1540,7 +1894,10 @@ msgid "Trample"
 msgstr "Tratowanie"
 
 #: ../../HOU.rst:694
-msgid ":mtgtip:`Ramunap Excavator`"
+msgid ""
+":mtgtip:`Ramunap Excavator<https://img.scryfall.com/cards/border_crop/en/"
+"hou/129.jpg?1517813031|https://scryfall.com/card/hou/129/ramunap-excavator?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:693
@@ -1548,7 +1905,10 @@ msgid "You may play land cards from your graveyard."
 msgstr "Możesz zagrywać karty lądów z twojego cmentarza."
 
 #: ../../HOU.rst:702
-msgid ":mtgtip:`Ramunap Hydra`"
+msgid ""
+":mtgtip:`Ramunap Hydra<https://img.scryfall.com/cards/border_crop/en/hou/130."
+"jpg?1517813031|https://scryfall.com/card/hou/130/ramunap-hydra?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:697
@@ -1565,7 +1925,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:708
-msgid ":mtgtip:`Resilient Khenra`"
+msgid ""
+":mtgtip:`Resilient Khenra<https://img.scryfall.com/cards/border_crop/en/"
+"hou/131.jpg?1517813031|https://scryfall.com/card/hou/131/resilient-khenra?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:705
@@ -1583,7 +1946,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:712
-msgid ":mtgtip:`Rhonas's Last Stand`"
+msgid ""
+":mtgtip:`Rhonas's Last Stand<https://img.scryfall.com/cards/border_crop/en/"
+"hou/132.jpg?1517813031|https://scryfall.com/card/hou/132/rhonass-last-stand?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:711
@@ -1593,7 +1959,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:716
-msgid ":mtgtip:`Rhonas's Stalwart`"
+msgid ""
+":mtgtip:`Rhonas's Stalwart<https://img.scryfall.com/cards/border_crop/en/"
+"hou/133.jpg?1517813031|https://scryfall.com/card/hou/133/rhonass-stalwart?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:715
@@ -1604,7 +1973,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:720
-msgid ":mtgtip:`Sidewinder Naga`"
+msgid ""
+":mtgtip:`Sidewinder Naga<https://img.scryfall.com/cards/border_crop/en/"
+"hou/134.jpg?1517813031|https://scryfall.com/card/hou/134/sidewinder-naga?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:719
@@ -1614,7 +1986,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:726
-msgid ":mtgtip:`Sifter Wurm`"
+msgid ""
+":mtgtip:`Sifter Wurm<https://img.scryfall.com/cards/border_crop/en/hou/135."
+"jpg?1517813031|https://scryfall.com/card/hou/135/sifter-wurm?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:725
@@ -1624,7 +1998,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:730
-msgid ":mtgtip:`Tenacious Hunter`"
+msgid ""
+":mtgtip:`Tenacious Hunter<https://img.scryfall.com/cards/border_crop/en/"
+"hou/136.jpg?1517813031|https://scryfall.com/card/hou/136/tenacious-hunter?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:729
@@ -1634,7 +2011,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:734
-msgid ":mtgtip:`Uncage the Menagerie`"
+msgid ""
+":mtgtip:`Uncage the Menagerie<https://img.scryfall.com/cards/border_crop/en/"
+"hou/137.jpg?1517813031|https://scryfall.com/card/hou/137/uncage-the-"
+"menagerie?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:733
@@ -1645,7 +2025,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:742
-msgid ":mtgtip:`Bloodwater Entity`"
+msgid ""
+":mtgtip:`Bloodwater Entity<https://img.scryfall.com/cards/border_crop/en/"
+"hou/138.jpg?1517813031|https://scryfall.com/card/hou/138/bloodwater-entity?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:741
@@ -1655,7 +2038,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:752
-msgid ":mtgtip:`The Locust God`"
+msgid ""
+":mtgtip:`The Locust God<https://img.scryfall.com/cards/border_crop/en/"
+"hou/139.jpg?1517813031|https://scryfall.com/card/hou/139/the-locust-god?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:747
@@ -1678,7 +2064,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:762
-msgid ":mtgtip:`Nicol Bolas, God-Pharaoh`"
+msgid ""
+":mtgtip:`Nicol Bolas, God-Pharaoh<https://img.scryfall.com/cards/border_crop/"
+"en/hou/140.jpg?1517813031|https://scryfall.com/card/hou/140/nicol-bolas-god-"
+"pharaoh?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:755
@@ -1703,7 +2092,10 @@ msgid "−12: Exile each nonland permanent your opponents control."
 msgstr ""
 
 #: ../../HOU.rst:770
-msgid ":mtgtip:`Obelisk Spider`"
+msgid ""
+":mtgtip:`Obelisk Spider<https://img.scryfall.com/cards/border_crop/en/"
+"hou/141.jpg?1517813031|https://scryfall.com/card/hou/141/obelisk-spider?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:765
@@ -1723,7 +2115,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:776
-msgid ":mtgtip:`Resolute Survivors`"
+msgid ""
+":mtgtip:`Resolute Survivors<https://img.scryfall.com/cards/border_crop/en/"
+"hou/142.jpg?1517813031|https://scryfall.com/card/hou/142/resolute-survivors?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:773
@@ -1739,7 +2134,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:782
-msgid ":mtgtip:`River Hoopoe`"
+msgid ""
+":mtgtip:`River Hoopoe<https://img.scryfall.com/cards/border_crop/en/hou/143."
+"jpg?1517813031|https://scryfall.com/card/hou/143/river-hoopoe?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:781
@@ -1750,7 +2148,10 @@ msgstr ""
 "kartę.)"
 
 #: ../../HOU.rst:790
-msgid ":mtgtip:`Samut, the Tested`"
+msgid ""
+":mtgtip:`Samut, the Tested<https://img.scryfall.com/cards/border_crop/en/"
+"hou/144.jpg?1517813031|https://scryfall.com/card/hou/144/samut-the-tested?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:785
@@ -1770,7 +2171,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:798
-msgid ":mtgtip:`The Scarab God`"
+msgid ""
+":mtgtip:`The Scarab God<https://img.scryfall.com/cards/border_crop/en/"
+"hou/145.jpg?1517813031|https://scryfall.com/card/hou/145/the-scarab-god?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:793
@@ -1792,7 +2196,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:806
-msgid ":mtgtip:`The Scorpion God`"
+msgid ""
+":mtgtip:`The Scorpion God<https://img.scryfall.com/cards/border_crop/en/"
+"hou/146.jpg?1517813031|https://scryfall.com/card/hou/146/the-scorpion-god?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:801
@@ -1812,7 +2219,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:812
-msgid ":mtgtip:`Unraveling Mummy`"
+msgid ""
+":mtgtip:`Unraveling Mummy<https://img.scryfall.com/cards/border_crop/en/"
+"hou/147.jpg?1517813031|https://scryfall.com/card/hou/147/unraveling-mummy?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:809
@@ -1827,192 +2237,243 @@ msgid ""
 "turn."
 msgstr ""
 
-#: ../../HOU.rst:818
-msgid ":mtgtip:`Market`"
+#: ../../HOU.rst:816
+msgid ""
+":mtgtip:`Farm<https://img.scryfall.com/cards/border_crop/en/hou/148a.jpg?"
+"1517813031|https://scryfall.com/card/hou/148/farm-market?utm_source=api>`"
 msgstr ""
 
-#: ../../HOU.rst:815 ../../HOU.rst:825 ../../HOU.rst:835 ../../HOU.rst:845
-#: ../../HOU.rst:855 ../../HOU.rst:865 ../../HOU.rst:875 ../../HOU.rst:885
-#: ../../HOU.rst:895 ../../HOU.rst:905
-msgid "Aftermath (Cast this spell only from your graveyard. Then exile it.)"
-msgstr ""
-
-#: ../../HOU.rst:817
-msgid "Draw two cards, then discard two cards."
-msgstr ""
-
-#: ../../HOU.rst:822
-msgid ":mtgtip:`Farm`"
-msgstr ""
-
-#: ../../HOU.rst:821
+#: ../../HOU.rst:815
 msgid "Destroy target attacking or blocking creature."
 msgstr ""
 
-#: ../../HOU.rst:828
-msgid ":mtgtip:`Oblivion`"
+#: ../../HOU.rst:822
+msgid ""
+":mtgtip:`Market<https://img.scryfall.com/cards/border_crop/en/hou/148a.jpg?"
+"1517813031|https://scryfall.com/card/hou/148/farm-market?utm_source=api>`"
 msgstr ""
 
-#: ../../HOU.rst:827
-msgid "Target opponent discards two cards."
+#: ../../HOU.rst:819 ../../HOU.rst:829 ../../HOU.rst:839 ../../HOU.rst:849
+#: ../../HOU.rst:859 ../../HOU.rst:869 ../../HOU.rst:879 ../../HOU.rst:889
+#: ../../HOU.rst:899 ../../HOU.rst:909
+msgid "Aftermath (Cast this spell only from your graveyard. Then exile it.)"
 msgstr ""
 
-#: ../../HOU.rst:832
-msgid ":mtgtip:`Consign`"
+#: ../../HOU.rst:821
+msgid "Draw two cards, then discard two cards."
 msgstr ""
 
-#: ../../HOU.rst:831
+#: ../../HOU.rst:826
+msgid ""
+":mtgtip:`Consign<https://img.scryfall.com/cards/border_crop/en/hou/149a.jpg?"
+"1517813031|https://scryfall.com/card/hou/149/consign-oblivion?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../HOU.rst:825
 msgid "Return target nonland permanent to its owner's hand."
 msgstr ""
 
-#: ../../HOU.rst:838
-msgid ":mtgtip:`Fame`"
+#: ../../HOU.rst:832
+msgid ""
+":mtgtip:`Oblivion<https://img.scryfall.com/cards/border_crop/en/hou/149a.jpg?"
+"1517813031|https://scryfall.com/card/hou/149/consign-oblivion?"
+"utm_source=api>`"
 msgstr ""
 
-#: ../../HOU.rst:837
-msgid "Target creature gets +2/+0 and gains haste until end of turn."
+#: ../../HOU.rst:831
+msgid "Target opponent discards two cards."
 msgstr ""
 
-#: ../../HOU.rst:842
-msgid ":mtgtip:`Claim`"
+#: ../../HOU.rst:836
+msgid ""
+":mtgtip:`Claim<https://img.scryfall.com/cards/border_crop/en/hou/150a.jpg?"
+"1517813031|https://scryfall.com/card/hou/150/claim-fame?utm_source=api>`"
 msgstr ""
 
-#: ../../HOU.rst:841
+#: ../../HOU.rst:835
 msgid ""
 "Return target creature card with converted mana cost 2 or less from your "
 "graveyard to the battlefield."
 msgstr ""
 
-#: ../../HOU.rst:848
-msgid ":mtgtip:`Survive`"
+#: ../../HOU.rst:842
+msgid ""
+":mtgtip:`Fame<https://img.scryfall.com/cards/border_crop/en/hou/150a.jpg?"
+"1517813031|https://scryfall.com/card/hou/150/claim-fame?utm_source=api>`"
 msgstr ""
 
-#: ../../HOU.rst:847
-msgid "Each player shuffles their graveyard into their library."
+#: ../../HOU.rst:841
+msgid "Target creature gets +2/+0 and gains haste until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:852
-msgid ":mtgtip:`Struggle`"
+#: ../../HOU.rst:846
+msgid ""
+":mtgtip:`Struggle<https://img.scryfall.com/cards/border_crop/en/hou/151a.jpg?"
+"1517813031|https://scryfall.com/card/hou/151/struggle-survive?"
+"utm_source=api>`"
 msgstr ""
 
-#: ../../HOU.rst:851
+#: ../../HOU.rst:845
 msgid ""
 "Struggle deals damage to target creature equal to the number of lands you "
 "control."
 msgstr ""
 
-#: ../../HOU.rst:858
-msgid ":mtgtip:`Authority`"
-msgstr ""
-
-#: ../../HOU.rst:857
+#: ../../HOU.rst:852
 msgid ""
-"Tap up to two target creatures your opponents control. Creatures you control "
-"gain vigilance until end of turn."
+":mtgtip:`Survive<https://img.scryfall.com/cards/border_crop/en/hou/151a.jpg?"
+"1517813031|https://scryfall.com/card/hou/151/struggle-survive?"
+"utm_source=api>`"
 msgstr ""
 
-#: ../../HOU.rst:862
-msgid ":mtgtip:`Appeal`"
+#: ../../HOU.rst:851
+msgid "Each player shuffles their graveyard into their library."
 msgstr ""
 
-#: ../../HOU.rst:861
+#: ../../HOU.rst:856
+msgid ""
+":mtgtip:`Appeal<https://img.scryfall.com/cards/border_crop/en/hou/152a.jpg?"
+"1517813031|https://scryfall.com/card/hou/152/appeal-authority?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../HOU.rst:855
 msgid ""
 "Until end of turn, target creature gains trample and gets +X/+X, where X is "
 "the number of creatures you control."
 msgstr ""
 
-#: ../../HOU.rst:868
-msgid ":mtgtip:`Chance`"
+#: ../../HOU.rst:862
+msgid ""
+":mtgtip:`Authority<https://img.scryfall.com/cards/border_crop/en/hou/152a."
+"jpg?1517813031|https://scryfall.com/card/hou/152/appeal-authority?"
+"utm_source=api>`"
 msgstr ""
 
-#: ../../HOU.rst:867
-msgid "Discard any number of cards, then draw that many cards."
+#: ../../HOU.rst:861
+msgid ""
+"Tap up to two target creatures your opponents control. Creatures you control "
+"gain vigilance until end of turn."
 msgstr ""
 
-#: ../../HOU.rst:872
-msgid ":mtgtip:`Leave`"
+#: ../../HOU.rst:866
+msgid ""
+":mtgtip:`Leave<https://img.scryfall.com/cards/border_crop/en/hou/153a.jpg?"
+"1525704240|https://scryfall.com/card/hou/153/leave-chance?utm_source=api>`"
 msgstr ""
 
-#: ../../HOU.rst:871
+#: ../../HOU.rst:865
 msgid "Return any number of target permanents you own to your hand."
 msgstr ""
 
-#: ../../HOU.rst:878
-msgid ":mtgtip:`Believe`"
+#: ../../HOU.rst:872
+msgid ""
+":mtgtip:`Chance<https://img.scryfall.com/cards/border_crop/en/hou/153a.jpg?"
+"1525704240|https://scryfall.com/card/hou/153/leave-chance?utm_source=api>`"
 msgstr ""
 
-#: ../../HOU.rst:877
+#: ../../HOU.rst:871
+msgid "Discard any number of cards, then draw that many cards."
+msgstr ""
+
+#: ../../HOU.rst:876
+msgid ""
+":mtgtip:`Reason<https://img.scryfall.com/cards/border_crop/en/hou/154a.jpg?"
+"1517813031|https://scryfall.com/card/hou/154/reason-believe?utm_source=api>`"
+msgstr ""
+
+#: ../../HOU.rst:875
+msgid "Scry 3."
+msgstr ""
+
+#: ../../HOU.rst:882
+msgid ""
+":mtgtip:`Believe<https://img.scryfall.com/cards/border_crop/en/hou/154a.jpg?"
+"1517813031|https://scryfall.com/card/hou/154/reason-believe?utm_source=api>`"
+msgstr ""
+
+#: ../../HOU.rst:881
 msgid ""
 "Look at the top card of your library. You may put it onto the battlefield if "
 "it's a creature card. If you don't, put it into your hand."
 msgstr ""
 
-#: ../../HOU.rst:882
-msgid ":mtgtip:`Reason`"
+#: ../../HOU.rst:886
+msgid ""
+":mtgtip:`Grind<https://img.scryfall.com/cards/border_crop/en/hou/155a.jpg?"
+"1517813031|https://scryfall.com/card/hou/155/grind-dust?utm_source=api>`"
 msgstr ""
 
-#: ../../HOU.rst:881
-msgid "Scry 3."
-msgstr ""
-
-#: ../../HOU.rst:888
-msgid ":mtgtip:`Dust`"
-msgstr ""
-
-#: ../../HOU.rst:887
-msgid "Exile any number of target creatures that have -1/-1 counters on them."
-msgstr ""
-
-#: ../../HOU.rst:892
-msgid ":mtgtip:`Grind`"
-msgstr ""
-
-#: ../../HOU.rst:891
+#: ../../HOU.rst:885
 msgid "Put a -1/-1 counter on each of up to two target creatures."
 msgstr ""
 
-#: ../../HOU.rst:898
-msgid ":mtgtip:`Cooperate`"
-msgstr ""
-
-#: ../../HOU.rst:897
+#: ../../HOU.rst:892
 msgid ""
-"Copy target instant or sorcery spell. You may choose new targets for the "
-"copy."
+":mtgtip:`Dust<https://img.scryfall.com/cards/border_crop/en/hou/155a.jpg?"
+"1517813031|https://scryfall.com/card/hou/155/grind-dust?utm_source=api>`"
 msgstr ""
 
-#: ../../HOU.rst:902
-msgid ":mtgtip:`Refuse`"
+#: ../../HOU.rst:891
+msgid "Exile any number of target creatures that have -1/-1 counters on them."
 msgstr ""
 
-#: ../../HOU.rst:901
+#: ../../HOU.rst:896
+msgid ""
+":mtgtip:`Refuse<https://img.scryfall.com/cards/border_crop/en/hou/156a.jpg?"
+"1517813031|https://scryfall.com/card/hou/156/refuse-cooperate?"
+"utm_source=api>`"
+msgstr ""
+
+#: ../../HOU.rst:895
 msgid ""
 "Refuse deals damage to target spell's controller equal to that spell's "
 "converted mana cost."
 msgstr ""
 
-#: ../../HOU.rst:908
-msgid ":mtgtip:`Despair`"
-msgstr ""
-
-#: ../../HOU.rst:907
+#: ../../HOU.rst:902
 msgid ""
-"Until end of turn, creatures you control gain menace and \"Whenever this "
-"creature deals combat damage to a player, that player discards a card.\""
+":mtgtip:`Cooperate<https://img.scryfall.com/cards/border_crop/en/hou/156a."
+"jpg?1517813031|https://scryfall.com/card/hou/156/refuse-cooperate?"
+"utm_source=api>`"
 msgstr ""
 
-#: ../../HOU.rst:912
-msgid ":mtgtip:`Driven`"
+#: ../../HOU.rst:901
+msgid ""
+"Copy target instant or sorcery spell. You may choose new targets for the "
+"copy."
 msgstr ""
 
-#: ../../HOU.rst:911
+#: ../../HOU.rst:906
+msgid ""
+":mtgtip:`Driven<https://img.scryfall.com/cards/border_crop/en/hou/157a.jpg?"
+"1517813031|https://scryfall.com/card/hou/157/driven-despair?utm_source=api>`"
+msgstr ""
+
+#: ../../HOU.rst:905
 msgid ""
 "Until end of turn, creatures you control gain trample and \"Whenever this "
 "creature deals combat damage to a player, draw a card.\""
 msgstr ""
 
+#: ../../HOU.rst:912
+msgid ""
+":mtgtip:`Despair<https://img.scryfall.com/cards/border_crop/en/hou/157a.jpg?"
+"1517813031|https://scryfall.com/card/hou/157/driven-despair?utm_source=api>`"
+msgstr ""
+
+#: ../../HOU.rst:911
+msgid ""
+"Until end of turn, creatures you control gain menace and \"Whenever this "
+"creature deals combat damage to a player, that player discards a card.\""
+msgstr ""
+
 #: ../../HOU.rst:918
-msgid ":mtgtip:`Abandoned Sarcophagus`"
+msgid ""
+":mtgtip:`Abandoned Sarcophagus<https://img.scryfall.com/cards/border_crop/en/"
+"hou/158.jpg?1517813031|https://scryfall.com/card/hou/158/abandoned-"
+"sarcophagus?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:915
@@ -2028,8 +2489,10 @@ msgstr ""
 "cmentarzu, a nie została recyklowana, zamiast tego wygnaj ją."
 
 #: ../../HOU.rst:924
-#, fuzzy
-msgid ":mtgtip:`Crook of Condemnation`"
+msgid ""
+":mtgtip:`Crook of Condemnation<https://img.scryfall.com/cards/border_crop/en/"
+"hou/159.jpg?1517813031|https://scryfall.com/card/hou/159/crook-of-"
+"condemnation?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:921
@@ -2042,7 +2505,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:930
-msgid ":mtgtip:`Dagger of the Worthy`"
+msgid ""
+":mtgtip:`Dagger of the Worthy<https://img.scryfall.com/cards/border_crop/en/"
+"hou/160.jpg?1517813031|https://scryfall.com/card/hou/160/dagger-of-the-"
+"worthy?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:927
@@ -2060,7 +2526,10 @@ msgstr ""
 "Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../HOU.rst:934
-msgid ":mtgtip:`God-Pharaoh's Gift`"
+msgid ""
+":mtgtip:`God-Pharaoh's Gift<https://img.scryfall.com/cards/border_crop/en/"
+"hou/161.jpg?1517813031|https://scryfall.com/card/hou/161/god-pharaohs-gift?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:933
@@ -2071,7 +2540,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:938
-msgid ":mtgtip:`Graven Abomination`"
+msgid ""
+":mtgtip:`Graven Abomination<https://img.scryfall.com/cards/border_crop/en/"
+"hou/162.jpg?1517813031|https://scryfall.com/card/hou/162/graven-abomination?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:937
@@ -2081,7 +2553,9 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:944
-msgid ":mtgtip:`Hollow One`"
+msgid ""
+":mtgtip:`Hollow One<https://img.scryfall.com/cards/border_crop/en/hou/163."
+"jpg?1517813031|https://scryfall.com/card/hou/163/hollow-one?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:941
@@ -2091,12 +2565,16 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:948
-#, fuzzy
-msgid ":mtgtip:`Manalith`"
+msgid ""
+":mtgtip:`Manalith<https://img.scryfall.com/cards/border_crop/en/hou/164.jpg?"
+"1517813031|https://scryfall.com/card/hou/164/manalith?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:952
-msgid ":mtgtip:`Mirage Mirror`"
+msgid ""
+":mtgtip:`Mirage Mirror<https://img.scryfall.com/cards/border_crop/en/hou/165."
+"jpg?1517813031|https://scryfall.com/card/hou/165/mirage-mirror?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:951
@@ -2106,7 +2584,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:960
-msgid ":mtgtip:`Sunset Pyramid`"
+msgid ""
+":mtgtip:`Sunset Pyramid<https://img.scryfall.com/cards/border_crop/en/"
+"hou/166.jpg?1517813031|https://scryfall.com/card/hou/166/sunset-pyramid?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:955
@@ -2123,7 +2604,10 @@ msgid "|mana_2|, |tap|: Scry 1."
 msgstr ""
 
 #: ../../HOU.rst:964
-msgid ":mtgtip:`Traveler's Amulet`"
+msgid ""
+":mtgtip:`Traveler's Amulet<https://img.scryfall.com/cards/border_crop/en/"
+"hou/167.jpg?1517813031|https://scryfall.com/card/hou/167/travelers-amulet?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:963
@@ -2133,7 +2617,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:970
-msgid ":mtgtip:`Wall of Forgotten Pharaohs`"
+msgid ""
+":mtgtip:`Wall of Forgotten Pharaohs<https://img.scryfall.com/cards/"
+"border_crop/en/hou/168.jpg?1517813031|https://scryfall.com/card/hou/168/wall-"
+"of-forgotten-pharaohs?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:969
@@ -2144,7 +2631,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:978
-msgid ":mtgtip:`Crypt of the Eternals`"
+msgid ""
+":mtgtip:`Crypt of the Eternals<https://img.scryfall.com/cards/border_crop/en/"
+"hou/169.jpg?1517813031|https://scryfall.com/card/hou/169/crypt-of-the-"
+"eternals?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:973
@@ -2162,7 +2652,10 @@ msgid "|mana_1|, |tap|: Add |mana_u|, |mana_b|, or |mana_r|."
 msgstr ""
 
 #: ../../HOU.rst:986
-msgid ":mtgtip:`Desert of the Fervent`"
+msgid ""
+":mtgtip:`Desert of the Fervent<https://img.scryfall.com/cards/border_crop/en/"
+"hou/170.jpg?1517813031|https://scryfall.com/card/hou/170/desert-of-the-"
+"fervent?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:981
@@ -2183,7 +2676,10 @@ msgstr ""
 "kartę.)"
 
 #: ../../HOU.rst:994
-msgid ":mtgtip:`Desert of the Glorified`"
+msgid ""
+":mtgtip:`Desert of the Glorified<https://img.scryfall.com/cards/border_crop/"
+"en/hou/171.jpg?1517813031|https://scryfall.com/card/hou/171/desert-of-the-"
+"glorified?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:989
@@ -2204,7 +2700,10 @@ msgstr ""
 "kartę.)"
 
 #: ../../HOU.rst:1002
-msgid ":mtgtip:`Desert of the Indomitable`"
+msgid ""
+":mtgtip:`Desert of the Indomitable<https://img.scryfall.com/cards/"
+"border_crop/en/hou/172.jpg?1517813031|https://scryfall.com/card/hou/172/"
+"desert-of-the-indomitable?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:997
@@ -2225,7 +2724,10 @@ msgstr ""
 "kartę.)"
 
 #: ../../HOU.rst:1010
-msgid ":mtgtip:`Desert of the Mindful`"
+msgid ""
+":mtgtip:`Desert of the Mindful<https://img.scryfall.com/cards/border_crop/en/"
+"hou/173.jpg?1517813031|https://scryfall.com/card/hou/173/desert-of-the-"
+"mindful?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1005
@@ -2246,7 +2748,10 @@ msgstr ""
 "kartę.)"
 
 #: ../../HOU.rst:1018
-msgid ":mtgtip:`Desert of the True`"
+msgid ""
+":mtgtip:`Desert of the True<https://img.scryfall.com/cards/border_crop/en/"
+"hou/174.jpg?1517813031|https://scryfall.com/card/hou/174/desert-of-the-true?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1013
@@ -2267,7 +2772,10 @@ msgstr ""
 "kartę.)"
 
 #: ../../HOU.rst:1024
-msgid ":mtgtip:`Dunes of the Dead`"
+msgid ""
+":mtgtip:`Dunes of the Dead<https://img.scryfall.com/cards/border_crop/en/"
+"hou/175.jpg?1517813031|https://scryfall.com/card/hou/175/dunes-of-the-dead?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1023
@@ -2277,7 +2785,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1032
-msgid ":mtgtip:`Endless Sands`"
+msgid ""
+":mtgtip:`Endless Sands<https://img.scryfall.com/cards/border_crop/en/hou/176."
+"jpg?1517813031|https://scryfall.com/card/hou/176/endless-sands?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1029
@@ -2291,7 +2802,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1040
-msgid ":mtgtip:`Hashep Oasis`"
+msgid ""
+":mtgtip:`Hashep Oasis<https://img.scryfall.com/cards/border_crop/en/hou/177."
+"jpg?1517813031|https://scryfall.com/card/hou/177/hashep-oasis?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1037
@@ -2306,7 +2820,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1046
-msgid ":mtgtip:`Hostile Desert`"
+msgid ""
+":mtgtip:`Hostile Desert<https://img.scryfall.com/cards/border_crop/en/"
+"hou/178.jpg?1517813031|https://scryfall.com/card/hou/178/hostile-desert?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1045
@@ -2316,7 +2833,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1054
-msgid ":mtgtip:`Ifnir Deadlands`"
+msgid ""
+":mtgtip:`Ifnir Deadlands<https://img.scryfall.com/cards/border_crop/en/"
+"hou/179.jpg?1517813031|https://scryfall.com/card/hou/179/ifnir-deadlands?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1051
@@ -2331,7 +2851,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1062
-msgid ":mtgtip:`Ipnu Rivulet`"
+msgid ""
+":mtgtip:`Ipnu Rivulet<https://img.scryfall.com/cards/border_crop/en/hou/180."
+"jpg?1517813031|https://scryfall.com/card/hou/180/ipnu-rivulet?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1059
@@ -2345,7 +2868,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1070
-msgid ":mtgtip:`Ramunap Ruins`"
+msgid ""
+":mtgtip:`Ramunap Ruins<https://img.scryfall.com/cards/border_crop/en/hou/181."
+"jpg?1525952805|https://scryfall.com/card/hou/181/ramunap-ruins?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1067
@@ -2359,7 +2885,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1076
-msgid ":mtgtip:`Scavenger Grounds`"
+msgid ""
+":mtgtip:`Scavenger Grounds<https://img.scryfall.com/cards/border_crop/en/"
+"hou/182.jpg?1517813031|https://scryfall.com/card/hou/182/scavenger-grounds?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1075
@@ -2368,7 +2897,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1084
-msgid ":mtgtip:`Shefet Dunes`"
+msgid ""
+":mtgtip:`Shefet Dunes<https://img.scryfall.com/cards/border_crop/en/hou/183."
+"jpg?1517813031|https://scryfall.com/card/hou/183/shefet-dunes?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1081
@@ -2383,7 +2915,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1090
-msgid ":mtgtip:`Survivors' Encampment`"
+msgid ""
+":mtgtip:`Survivors' Encampment<https://img.scryfall.com/cards/border_crop/en/"
+"hou/184.jpg?1517813031|https://scryfall.com/card/hou/184/survivors-"
+"encampment?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1089
@@ -2393,7 +2928,9 @@ msgstr ""
 "dowolnego koloru."
 
 #: ../../HOU.rst:1094
-msgid ":mtgtip:`Plains`"
+msgid ""
+":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/hou/185.jpg?"
+"1517813031|https://scryfall.com/card/hou/185/plains?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1093
@@ -2402,7 +2939,9 @@ msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../HOU.rst:1098
-msgid ":mtgtip:`Island`"
+msgid ""
+":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/hou/186.jpg?"
+"1517813031|https://scryfall.com/card/hou/186/island?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1097
@@ -2411,7 +2950,9 @@ msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../HOU.rst:1102
-msgid ":mtgtip:`Swamp`"
+msgid ""
+":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/hou/187.jpg?"
+"1517813031|https://scryfall.com/card/hou/187/swamp?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1101
@@ -2420,8 +2961,9 @@ msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../HOU.rst:1106
-#, fuzzy
-msgid ":mtgtip:`Mountain`"
+msgid ""
+":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/hou/188.jpg?"
+"1517813031|https://scryfall.com/card/hou/188/mountain?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1105
@@ -2430,7 +2972,9 @@ msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../HOU.rst:1110
-msgid ":mtgtip:`Forest`"
+msgid ""
+":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/hou/189.jpg?"
+"1517813031|https://scryfall.com/card/hou/189/forest?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1109
@@ -2439,7 +2983,10 @@ msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Dostajesz |mana_g|.)"
 
 #: ../../HOU.rst:1118
-msgid ":mtgtip:`Nissa, Genesis Mage`"
+msgid ""
+":mtgtip:`Nissa, Genesis Mage<https://img.scryfall.com/cards/border_crop/en/"
+"hou/200.jpg?1517813031|https://scryfall.com/card/hou/200/nissa-genesis-mage?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1113
@@ -2458,7 +3005,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1122
-msgid ":mtgtip:`Avid Reclaimer`"
+msgid ""
+":mtgtip:`Avid Reclaimer<https://img.scryfall.com/cards/border_crop/en/"
+"hou/201.jpg?1517813031|https://scryfall.com/card/hou/201/avid-reclaimer?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1121
@@ -2468,7 +3018,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1126
-msgid ":mtgtip:`Brambleweft Behemoth`"
+msgid ""
+":mtgtip:`Brambleweft Behemoth<https://img.scryfall.com/cards/border_crop/en/"
+"hou/202.jpg?1517813031|https://scryfall.com/card/hou/202/brambleweft-"
+"behemoth?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1125
@@ -2480,7 +3033,10 @@ msgstr ""
 "wędrowca, którego atakuje.)"
 
 #: ../../HOU.rst:1130
-msgid ":mtgtip:`Nissa's Encouragement`"
+msgid ""
+":mtgtip:`Nissa's Encouragement<https://img.scryfall.com/cards/border_crop/en/"
+"hou/203.jpg?1517813031|https://scryfall.com/card/hou/203/nissas-"
+"encouragement?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1129
@@ -2491,8 +3047,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1136
-#, fuzzy
-msgid ":mtgtip:`Woodland Stream`"
+msgid ""
+":mtgtip:`Woodland Stream<https://img.scryfall.com/cards/border_crop/en/"
+"hou/204.jpg?1517813031|https://scryfall.com/card/hou/204/woodland-stream?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1133
@@ -2504,7 +3062,10 @@ msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../HOU.rst:1144
-msgid ":mtgtip:`Nicol Bolas, the Deceiver`"
+msgid ""
+":mtgtip:`Nicol Bolas, the Deceiver<https://img.scryfall.com/cards/"
+"border_crop/en/hou/205.jpg?1517813031|https://scryfall.com/card/hou/205/"
+"nicol-bolas-the-deceiver?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1139
@@ -2524,7 +3085,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1150
-msgid ":mtgtip:`Wasp of the Bitter End`"
+msgid ""
+":mtgtip:`Wasp of the Bitter End<https://img.scryfall.com/cards/border_crop/"
+"en/hou/206.jpg?1517813031|https://scryfall.com/card/hou/206/wasp-of-the-"
+"bitter-end?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1149
@@ -2534,8 +3098,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1154
-#, fuzzy
-msgid ":mtgtip:`Zealot of the God-Pharaoh`"
+msgid ""
+":mtgtip:`Zealot of the God-Pharaoh<https://img.scryfall.com/cards/"
+"border_crop/en/hou/207.jpg?1517813031|https://scryfall.com/card/hou/207/"
+"zealot-of-the-god-pharaoh?utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1153
@@ -2545,7 +3111,10 @@ msgid ""
 msgstr ""
 
 #: ../../HOU.rst:1160
-msgid ":mtgtip:`Visage of Bolas`"
+msgid ""
+":mtgtip:`Visage of Bolas<https://img.scryfall.com/cards/border_crop/en/"
+"hou/208.jpg?1517813031|https://scryfall.com/card/hou/208/visage-of-bolas?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1157
@@ -2560,8 +3129,10 @@ msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
 msgstr ""
 
 #: ../../HOU.rst:1165
-#, fuzzy
-msgid ":mtgtip:`Cinder Barrens`"
+msgid ""
+":mtgtip:`Cinder Barrens<https://img.scryfall.com/cards/border_crop/en/"
+"hou/209.jpg?1517813031|https://scryfall.com/card/hou/209/cinder-barrens?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../HOU.rst:1163
