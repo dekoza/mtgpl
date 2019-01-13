@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 00:10+0000\n"
+"PO-Revision-Date: 2019-01-13 17:36+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ogw/pl/>\n"
 "Language: pl\n"
@@ -133,7 +133,7 @@ msgstr ""
 
 #: ../../OGW.rst:57
 msgid "Target creature gets +3/-3 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór dostaje +3/-3 do końca tury."
 
 #: ../../OGW.rst:66
 msgid ":mtgtip:`Thought-Knot Seer`"
@@ -2020,11 +2020,10 @@ msgid ":mtgtip:`Holdout Settlement`"
 msgstr ""
 
 #: ../../OGW.rst:1023
-#, fuzzy
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
-"|tap|, przekręć odkręconego stwora pod twoim władaniem: Dodaj jedną manę "
-"dowolnego koloru do twojej puli many."
+"|tap|, przekręć odkręconego stwora pod twoim władaniem: Dostajesz jedną manę "
+"dowolnego koloru."
 
 #: ../../OGW.rst:1030
 #, fuzzy
