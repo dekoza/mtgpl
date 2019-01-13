@@ -23,52 +23,52 @@ Tłumaczenie dodatków
 Nadochodzące
 ------------
 
-* :doc:`Ravnica Allegiance spoiler (90 kart)<RNA>` :mtgexp:`RNA` (?%)
+* :mtgexp:`RNA` :doc:`Ravnica Allegiance spoiler (90 kart)<RNA>` (?%)
 
 Standard
 --------
 
-* :doc:`Guilds of Ravnica<GRN>` :mtgexp:`GRN` (100%)
-* :doc:`Magic 2019 Core Set<M19>` :mtgexp:`M19` (100%)
-* :doc:`Dominaria<DOM>` :mtgexp:`DOM` (100%)
-* :doc:`Rivals of Ixalan<RIX>` :mtgexp:`RIX` (100%)
-* :doc:`Ixalan<XLN>` :mtgexp:`XLN` (100%)
+* :mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` (100%)
+* :mtgexp:`M19` :doc:`Magic 2019 Core Set<M19>` (100%)
+* :mtgexp:`DOM` :doc:`Dominaria<DOM>` (100%)
+* :mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` (100%)
+* :mtgexp:`XLN` :doc:`Ixalan<XLN>` (100%)
 
 Modern
 ------
 
-* :doc:`Hour of Devastation<HOU>` :mtgexp:`HOU` (11%)
-* :doc:`Amonkhet<AKH>` :mtgexp:`AKH` (18%)
-* :doc:`Aether Revolt<AER>` :mtgexp:`AER` (12%)
-* :doc:`Kaladesh<KLD>` :mtgexp:`KLD` (9%)
-* :doc:`Eldritch Moon<EMN>` :mtgexp:`EMN` (7%)
-* :doc:`Shadows over Innistrad<SOI>` :mtgexp:`SOI` (11%)
-* :doc:`Oath of the Gatewatch<OGW>` :mtgexp:`OGW` (9%)
-* :doc:`Battle for Zendikar<BFZ>` :mtgexp:`BFZ` (11%)
-* :doc:`Origins<ORI>` :mtgexp:`ORI` (18%)
-* :doc:`Dragons of Tarkir<DTK>` :mtgexp:`DTK` (13%)
-* :doc:`Fate Reforged<FRF>` :mtgexp:`FRF` (100%)
-* :doc:`Khans of Tarkir<KTK>` :mtgexp:`KTK` (85%)
-* :doc:`Magic 2015 Core Set<M15>` :mtgexp:`M15` (20%)
-* :doc:`Journey into Nyx<JOU>` :mtgexp:`JOU` (38%)
-* :doc:`Born of the Gods<BNG>` :mtgexp:`BNG` (100%)
-* :doc:`Theros<THS>` :mtgexp:`THS` (100%)
-* :doc:`Magic 2014 Core Set<M14>` :mtgexp:`M14` (100%)
-* :doc:`Dragons' Maze<DGM>` :mtgexp:`DGM` (100%)
-* :doc:`Gatecrash<GTC>` :mtgexp:`GTC` (100%)
-* :doc:`Return to Ravnica<RTR>` :mtgexp:`RTR` (100%)
-* :doc:`Avacyn Restored<AVR>` :mtgexp:`AVR` (17%)
-* :doc:`Dark Ascension<DKA>` :mtgexp:`DKA` (10%)
-* :doc:`Innistrad<ISD>` :mtgexp:`ISD` (13%)
-* :doc:`New Phyrexia<NPH>` :mtgexp:`NPH` (9%)
+* :mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` (11%)
+* :mtgexp:`AKH` :doc:`Amonkhet<AKH>` (18%)
+* :mtgexp:`AER` :doc:`Aether Revolt<AER>` (12%)
+* :mtgexp:`KLD` :doc:`Kaladesh<KLD>` ( 9%)
+* :mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` ( 7%)
+* :mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` (11%)
+* :mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` ( 9%)
+* :mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` (11%)
+* :mtgexp:`ORI` :doc:`Origins<ORI>` (18%)
+* :mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` (13%)
+* :mtgexp:`FRF` :doc:`Fate Reforged<FRF>` (00%)
+* :mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` (85%)
+* :mtgexp:`M15` :doc:`Magic 2015 Core Set<M15>` (20%)
+* :mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` (38%)
+* :mtgexp:`BNG` :doc:`Born of the Gods<BNG>` (00%)
+* :mtgexp:`THS` :doc:`Theros<THS>` (00%)
+* :mtgexp:`M14` :doc:`Magic 2014 Core Set<M14>` (00%)
+* :mtgexp:`DGM` :doc:`Dragons' Maze<DGM>` (00%)
+* :mtgexp:`GTC` :doc:`Gatecrash<GTC>` (00%)
+* :mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` (00%)
+* :mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` (17%)
+* :mtgexp:`DKA` :doc:`Dark Ascension<DKA>` (10%)
+* :mtgexp:`ISD` :doc:`Innistrad<ISD>` (13%)
+* :mtgexp:`NPH` :doc:`New Phyrexia<NPH>` ( 9%)
 
 Pozostałe
 ---------
 
-* :doc:`Explorers of Ixalan<E02>` :mtgexp:`E02` (0%)
-* :doc:`Battlebond<BBD>` :mtgexp:`BBD` (0%)
-* :doc:`Commander 2014<C14>` :mtgexp:`C14` (9%)
-* :doc:`Commander 2013<C13>` :mtgexp:`C13` (13%)
+* :mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` (0%)
+* :mtgexp:`BBD` :doc:`Battlebond<BBD>` (0%)
+* :mtgexp:`C14` :doc:`Commander 2014<C14>` (9%)
+* :mtgexp:`C13` :doc:`Commander 2013<C13>` (13%)
 
 Specjalne karty
 ---------------
