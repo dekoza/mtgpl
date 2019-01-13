@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-06 13:06+0100\n"
+"POT-Creation-Date: 2019-01-13 21:34+0100\n"
 "PO-Revision-Date: 2019-01-13 17:36+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c13/pl/>\n"
@@ -19,17 +19,16 @@ msgstr ""
 "X-Generator: Weblate 3.4-dev\n"
 "X-POOTLE-MTIME: 1391098867.903162\n"
 
-# dd0d92f2f9ef4152b3b14e70292202a7
 #: ../../C13.rst:5
-#, fuzzy
-msgid "Commander 2013 Edition"
-msgstr "Commander 2013"
+msgid ":mtgexp:`C13` Commander 2013"
+msgstr ""
 
-# 0314c309ee764b7c8b6cbfbb84798f5d
 #: ../../C13.rst:12
-#, fuzzy
-msgid "Act of Authority"
-msgstr "Act of Authority"
+msgid ""
+":mtgtip:`Act of Authority<https://img.scryfall.com/cards/border_crop/en/"
+"c13/1.jpg?1517813031|https://scryfall.com/card/c13/1/act-of-authority?"
+"utm_source=api>`"
+msgstr ""
 
 # c2bca7b6bd1d4b2d93364c09a412f99a
 #: ../../C13.rst:9
@@ -47,9 +46,10 @@ msgid ""
 "enchantment. If you do, its controller gains control of Act of Authority."
 msgstr ""
 
-# b2d0bc23c44a462fa0e233f1255c9115
 #: ../../C13.rst:18
-msgid "Aerie Mystics"
+msgid ""
+":mtgtip:`Aerie Mystics<https://img.scryfall.com/cards/border_crop/en/c13/2."
+"jpg?1517813031|https://scryfall.com/card/c13/2/aerie-mystics?utm_source=api>`"
 msgstr ""
 
 # 8eb7710eb0e34ab790439418cdf0bc6a
@@ -95,19 +95,23 @@ msgstr ""
 "|mana_1|\\ |mana_g|\\ |mana_u|: Stwory pod twoim władaniem zyskują antymagię "
 "do końca tury. (Nie mogą być wskazywane przez czary lub zdolności.)"
 
-# aa2bd45771fb453f8a527b5600aa6133
 #: ../../C13.rst:22
-msgid "Ajani's Pridemate"
-msgstr "Ajani's Pridemate"
+msgid ""
+":mtgtip:`Ajani's Pridemate<https://img.scryfall.com/cards/border_crop/en/"
+"c13/3.jpg?1517813031|https://scryfall.com/card/c13/3/ajanis-pridemate?"
+"utm_source=api>`"
+msgstr ""
 
 #: ../../C13.rst:21
 msgid ""
 "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate."
 msgstr "Ilekroć zyskujesz życie, możesz położyć znacznik +1/+1 na tym stworze."
 
-# bed1b10e152e40108d9f1031f18e9f7e
 #: ../../C13.rst:28
-msgid "Angel of Finality"
+msgid ""
+":mtgtip:`Angel of Finality<https://img.scryfall.com/cards/border_crop/en/"
+"c13/4.jpg?1517813031|https://scryfall.com/card/c13/4/angel-of-finality?"
+"utm_source=api>`"
 msgstr ""
 
 # bf2ad8ba50bd4094bfdeb4b73a3a5802
@@ -117,19 +121,22 @@ msgid ""
 "player's graveyard."
 msgstr ""
 
-# 817e8c0afd9d4b0cbcf4ed6f54b08d3a
 #: ../../C13.rst:32
-msgid "Archangel"
-msgstr "Archangel (Archanioł)"
+msgid ""
+":mtgtip:`Archangel<https://img.scryfall.com/cards/border_crop/en/c13/5.jpg?"
+"1517813031|https://scryfall.com/card/c13/5/archangel?utm_source=api>`"
+msgstr ""
 
 # e6e98ae0ea894a80b9c8b94c50427dc7
 #: ../../C13.rst:31
 msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
-# 7a98bb3f81fa4969ae73a7c4b9a384f6
 #: ../../C13.rst:40
-msgid "Azorius Herald"
+msgid ""
+":mtgtip:`Azorius Herald<https://img.scryfall.com/cards/border_crop/en/c13/6."
+"jpg?1517813031|https://scryfall.com/card/c13/6/azorius-herald?"
+"utm_source=api>`"
 msgstr ""
 
 # 6b8a6efe961047a48876b725cc4340d8
@@ -149,9 +156,11 @@ msgid ""
 "spent to cast it."
 msgstr ""
 
-# 3a4e8c2f6b2444309a8c2d8c167210af
 #: ../../C13.rst:44
-msgid "Cradle of Vitality"
+msgid ""
+":mtgtip:`Cradle of Vitality<https://img.scryfall.com/cards/border_crop/en/"
+"c13/7.jpg?1517813031|https://scryfall.com/card/c13/7/cradle-of-vitality?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:43
@@ -161,9 +170,11 @@ msgid ""
 "+1 counter on target creature for each 1 life you gained."
 msgstr "Ilekroć zyskujesz życie, możesz położyć znacznik +1/+1 na tym stworze."
 
-# cfbc1310ca2c4fa4b206c3febf83d37a
 #: ../../C13.rst:50
-msgid "Curse of the Forsaken"
+msgid ""
+":mtgtip:`Curse of the Forsaken<https://img.scryfall.com/cards/border_crop/en/"
+"c13/8.jpg?1517813031|https://scryfall.com/card/c13/8/curse-of-the-forsaken?"
+"utm_source=api>`"
 msgstr ""
 
 # 586334a168fc4017a51bc1627e7f658b
@@ -182,9 +193,11 @@ msgid ""
 "Whenever a creature attacks enchanted player, its controller gains 1 life."
 msgstr ""
 
-# 85b70e3c52e64f52815c7eb147023695
 #: ../../C13.rst:56
-msgid "Darksteel Mutation"
+msgid ""
+":mtgtip:`Darksteel Mutation<https://img.scryfall.com/cards/border_crop/en/"
+"c13/9.jpg?1517813031|https://scryfall.com/card/c13/9/darksteel-mutation?"
+"utm_source=api>`"
 msgstr ""
 
 # 0168346b61084995bad0f8c82998ff2c
@@ -202,9 +215,11 @@ msgid ""
 "types, and creature types."
 msgstr ""
 
-# 5d28ff0c7ab540deb3bd6c887a6ec9d3
 #: ../../C13.rst:64
-msgid "Eternal Dragon"
+msgid ""
+":mtgtip:`Eternal Dragon<https://img.scryfall.com/cards/border_crop/en/c13/10."
+"jpg?1517813031|https://scryfall.com/card/c13/10/eternal-dragon?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:61
@@ -224,9 +239,10 @@ msgstr ""
 "bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
 "swojej ręki, a następnie przetasować twoją bibliotekę."
 
-# 5246fbb49bc84573b936cd56da293bde
 #: ../../C13.rst:70
-msgid "Fiend Hunter"
+msgid ""
+":mtgtip:`Fiend Hunter<https://img.scryfall.com/cards/border_crop/en/c13/11."
+"jpg?1517813031|https://scryfall.com/card/c13/11/fiend-hunter?utm_source=api>`"
 msgstr ""
 
 # fac0135726ab49ce852e32d7e333e186
@@ -243,9 +259,10 @@ msgid ""
 "battlefield under its owner's control."
 msgstr ""
 
-# c7f79f0c85a94e53b7baf9ce98fa9b3b
 #: ../../C13.rst:76
-msgid "Flickerform"
+msgid ""
+":mtgtip:`Flickerform<https://img.scryfall.com/cards/border_crop/en/c13/12."
+"jpg?1517813031|https://scryfall.com/card/c13/12/flickerform?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:75
@@ -257,9 +274,10 @@ msgid ""
 "that creature."
 msgstr ""
 
-# 2bc03b670df240daa8c69728a6667983
 #: ../../C13.rst:82
-msgid "Flickerwisp"
+msgid ""
+":mtgtip:`Flickerwisp<https://img.scryfall.com/cards/border_crop/en/c13/13."
+"jpg?1517813031|https://scryfall.com/card/c13/13/flickerwisp?utm_source=api>`"
 msgstr ""
 
 # 9224a512baca45ad858ee6ea564daaa0
@@ -270,9 +288,10 @@ msgid ""
 "beginning of the next end step."
 msgstr ""
 
-# 9f9404619fa44b4c91a23ebb3396ba0c
 #: ../../C13.rst:90
-msgid "Karmic Guide"
+msgid ""
+":mtgtip:`Karmic Guide<https://img.scryfall.com/cards/border_crop/en/c13/14."
+"jpg?1517813031|https://scryfall.com/card/c13/14/karmic-guide?utm_source=api>`"
 msgstr ""
 
 # 7ac3316f676a4688a392da346a6ee3a0
@@ -294,9 +313,11 @@ msgid ""
 "your graveyard to the battlefield."
 msgstr ""
 
-# 9301159ff5474908a2e0354feec53d17
 #: ../../C13.rst:96
-msgid "Kirtar's Wrath"
+msgid ""
+":mtgtip:`Kirtar's Wrath<https://img.scryfall.com/cards/border_crop/en/c13/15."
+"jpg?1517813031|https://scryfall.com/card/c13/15/kirtars-wrath?"
+"utm_source=api>`"
 msgstr ""
 
 # 92b146abd9a94bcaaf7fac670df7284b
@@ -312,9 +333,11 @@ msgid ""
 "Creatures destroyed this way can't be regenerated."
 msgstr ""
 
-# 83bca3d30df046879879f15a5fba5d68
 #: ../../C13.rst:100
-msgid "Kongming, \"Sleeping Dragon\""
+msgid ""
+":mtgtip:`Kongming, \"Sleeping Dragon\"<https://img.scryfall.com/cards/"
+"border_crop/en/c13/16.jpg?1517813031|https://scryfall.com/card/c13/16/"
+"kongming-sleeping-dragon?utm_source=api>`"
 msgstr ""
 
 # c14e0e501fb9403ab74ef577e02f7c51
@@ -322,9 +345,11 @@ msgstr ""
 msgid "Other creatures you control get +1/+1."
 msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
-# c8e7be88d2a4465499dff1249bdf0268
 #: ../../C13.rst:106
-msgid "Mirror Entity"
+msgid ""
+":mtgtip:`Mirror Entity<https://img.scryfall.com/cards/border_crop/en/c13/17."
+"jpg?1517813031|https://scryfall.com/card/c13/17/mirror-entity?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:103
@@ -337,9 +362,11 @@ msgid ""
 "toughness X/X and gain all creature types."
 msgstr ""
 
-# d276a75c9c214d229ec837f9073a07e9
 #: ../../C13.rst:112
-msgid "Mystic Barrier"
+msgid ""
+":mtgtip:`Mystic Barrier<https://img.scryfall.com/cards/border_crop/en/c13/18."
+"jpg?1517813031|https://scryfall.com/card/c13/18/mystic-barrier?"
+"utm_source=api>`"
 msgstr ""
 
 # 2e9df084d7004e04b70c6e180cb3f9ae
@@ -355,9 +382,11 @@ msgid ""
 "direction and planeswalkers controlled by that player."
 msgstr ""
 
-# feccc075034541f9b15c853ba103a341
 #: ../../C13.rst:118
-msgid "Razor Hippogriff"
+msgid ""
+":mtgtip:`Razor Hippogriff<https://img.scryfall.com/cards/border_crop/en/"
+"c13/19.jpg?1517813031|https://scryfall.com/card/c13/19/razor-hippogriff?"
+"utm_source=api>`"
 msgstr ""
 
 # fb1eb87f5054423f874df251b96f95f1
@@ -368,9 +397,11 @@ msgid ""
 "converted mana cost."
 msgstr ""
 
-# ec8e95c4ffb3443892aba13b87158222
 #: ../../C13.rst:122
-msgid "Serene Master"
+msgid ""
+":mtgtip:`Serene Master<https://img.scryfall.com/cards/border_crop/en/c13/20."
+"jpg?1517813031|https://scryfall.com/card/c13/20/serene-master?"
+"utm_source=api>`"
 msgstr ""
 
 # 97ef42d245de4f7e96b2e749818dfe12
@@ -380,9 +411,10 @@ msgid ""
 "creature it's blocking until end of combat."
 msgstr ""
 
-# 9f203f50fa8d43628588a95a96a955b0
 #: ../../C13.rst:128
-msgid "Serra Avatar"
+msgid ""
+":mtgtip:`Serra Avatar<https://img.scryfall.com/cards/border_crop/en/c13/21."
+"jpg?1517813031|https://scryfall.com/card/c13/21/serra-avatar?utm_source=api>`"
 msgstr ""
 
 # cb8b8124cd114420972e601edecf39bd
@@ -397,9 +429,10 @@ msgid ""
 "owner's library."
 msgstr ""
 
-# 6f8536ce5bd342869847ce4a95df3de4
 #: ../../C13.rst:138
-msgid "Stonecloaker"
+msgid ""
+":mtgtip:`Stonecloaker<https://img.scryfall.com/cards/border_crop/en/c13/22."
+"jpg?1517813031|https://scryfall.com/card/c13/22/stonecloaker?utm_source=api>`"
 msgstr ""
 
 # ccb81bfc382549ddbe5a0e51660434c8
@@ -423,9 +456,11 @@ msgid ""
 "When Stonecloaker enters the battlefield, exile target card from a graveyard."
 msgstr ""
 
-# 04d0efb19e1b49848b3ae5c4f163dcf6
 #: ../../C13.rst:144
-msgid "Survival Cache"
+msgid ""
+":mtgtip:`Survival Cache<https://img.scryfall.com/cards/border_crop/en/c13/23."
+"jpg?1517813031|https://scryfall.com/card/c13/23/survival-cache?"
+"utm_source=api>`"
 msgstr ""
 
 # 880db07274b9479d931d117089571b47
@@ -442,9 +477,11 @@ msgid ""
 "paying its mana cost.)"
 msgstr ""
 
-# 8477e109a93f426dbda9c4c1dec0fc6f
 #: ../../C13.rst:148
-msgid "Tempt with Glory"
+msgid ""
+":mtgtip:`Tempt with Glory<https://img.scryfall.com/cards/border_crop/en/"
+"c13/24.jpg?1517813031|https://scryfall.com/card/c13/24/tempt-with-glory?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:147
@@ -454,9 +491,11 @@ msgid ""
 "opponent who does, put a +1/+1 counter on each creature you control."
 msgstr ""
 
-# c466babae1d7471aa37dca07188b9bce
 #: ../../C13.rst:152
-msgid "Unexpectedly Absent"
+msgid ""
+":mtgtip:`Unexpectedly Absent<https://img.scryfall.com/cards/border_crop/en/"
+"c13/25.jpg?1517813031|https://scryfall.com/card/c13/25/unexpectedly-absent?"
+"utm_source=api>`"
 msgstr ""
 
 # 95b4424ad3a64845a8024bb459f474f2
@@ -466,9 +505,11 @@ msgid ""
 "cards of that library."
 msgstr ""
 
-# 3628aff64d214aefba20d377bb62c59d
 #: ../../C13.rst:158
-msgid "Wall of Reverence"
+msgid ""
+":mtgtip:`Wall of Reverence<https://img.scryfall.com/cards/border_crop/en/"
+"c13/26.jpg?1517813031|https://scryfall.com/card/c13/26/wall-of-reverence?"
+"utm_source=api>`"
 msgstr ""
 
 # c7d82715865846c2900a4a6287e0f810
@@ -485,14 +526,17 @@ msgid ""
 "target creature you control."
 msgstr ""
 
-# 5fa7c7eaaa0d4af28e56f42bb94f0bb7
 #: ../../C13.rst:162
-msgid "Wrath of God"
+msgid ""
+":mtgtip:`Wrath of God<https://img.scryfall.com/cards/border_crop/en/c13/27."
+"jpg?1517813031|https://scryfall.com/card/c13/27/wrath-of-god?utm_source=api>`"
 msgstr ""
 
-# 5d069d1092ec467b90834691ec3f1ce5
 #: ../../C13.rst:168
-msgid "Arcane Denial"
+msgid ""
+":mtgtip:`Arcane Denial<https://img.scryfall.com/cards/border_crop/en/c13/28."
+"jpg?1517813031|https://scryfall.com/card/c13/28/arcane-denial?"
+"utm_source=api>`"
 msgstr ""
 
 # 0e784deb8760490292ef062fd5a1753b
@@ -507,9 +551,10 @@ msgstr ""
 msgid "You draw a card at the beginning of the next turn's upkeep."
 msgstr "Dobierasz kartę na początku utrzymania następnej tury."
 
-# 0bc3f4db443947638d1b60d3194bea8c
 #: ../../C13.rst:172
-msgid "Arcane Melee"
+msgid ""
+":mtgtip:`Arcane Melee<https://img.scryfall.com/cards/border_crop/en/c13/29."
+"jpg?1517813031|https://scryfall.com/card/c13/29/arcane-melee?utm_source=api>`"
 msgstr ""
 
 # 8934a9eb809e44c2bca4b1f5a629d370
@@ -517,9 +562,11 @@ msgstr ""
 msgid "Instant and sorcery spells cost |mana_2| less to cast."
 msgstr "Rzucanie czarów sztuczek i obrzędów kosztuje o |mana_2| mniej."
 
-# 136d7c504adc403bb628c24969fcb592
 #: ../../C13.rst:176
-msgid "Augur of Bolas"
+msgid ""
+":mtgtip:`Augur of Bolas<https://img.scryfall.com/cards/border_crop/en/c13/30."
+"jpg?1517813031|https://scryfall.com/card/c13/30/augur-of-bolas?"
+"utm_source=api>`"
 msgstr ""
 
 # 0a14b119b99b4592a1774a6ff9ce068d
@@ -531,9 +578,11 @@ msgid ""
 "order."
 msgstr ""
 
-# 594742af261b49c2a2bce489ecea4133
 #: ../../C13.rst:180
-msgid "Azami, Lady of Scrolls"
+msgid ""
+":mtgtip:`Azami, Lady of Scrolls<https://img.scryfall.com/cards/border_crop/"
+"en/c13/31.jpg?1517813031|https://scryfall.com/card/c13/31/azami-lady-of-"
+"scrolls?utm_source=api>`"
 msgstr ""
 
 # 11f5655c47d14ce29577d1c253b85201
@@ -541,10 +590,12 @@ msgstr ""
 msgid "Tap an untapped Wizard you control: Draw a card."
 msgstr "Zaznacz odkręconego Maga pod twoim władaniem: Dobierz kartę."
 
-# 9dab0355f6244ec0b90fb5c68a891812
 #: ../../C13.rst:184
-msgid "Blue Sun's Zenith"
-msgstr "Blue Sun's Zenith (Zenit Niebieskiego Słońca)"
+msgid ""
+":mtgtip:`Blue Sun's Zenith<https://img.scryfall.com/cards/border_crop/en/"
+"c13/32.jpg?1517813031|https://scryfall.com/card/c13/32/blue-suns-zenith?"
+"utm_source=api>`"
+msgstr ""
 
 # 3e2209d261754dadb550fd0a3ffcff02
 #: ../../C13.rst:183
@@ -555,9 +606,11 @@ msgstr ""
 "Wskazany gracz dobiera X kart. Wtasuj Zenit Niebieskiego Słońca do "
 "biblioteki jego właściciela."
 
-# adb9f0c69c894b05adfcb1303a08b806
 #: ../../C13.rst:188
-msgid "Borrowing 100,000 Arrows"
+msgid ""
+":mtgtip:`Borrowing 100,000 Arrows<https://img.scryfall.com/cards/border_crop/"
+"en/c13/33.jpg?1517813031|https://scryfall.com/card/c13/33/borrowing-100000-"
+"arrows?utm_source=api>`"
 msgstr ""
 
 # d62cfe98c2e24bcfb69e2e2cd508ca43
@@ -565,9 +618,11 @@ msgstr ""
 msgid "Draw a card for each tapped creature target opponent controls."
 msgstr ""
 
-# 5f1bc8bbd8dd4139b55c649ecdd91256
 #: ../../C13.rst:192
-msgid "Brilliant Plan"
+msgid ""
+":mtgtip:`Brilliant Plan<https://img.scryfall.com/cards/border_crop/en/c13/34."
+"jpg?1517813031|https://scryfall.com/card/c13/34/brilliant-plan?"
+"utm_source=api>`"
 msgstr ""
 
 # 7ad0691838f64405a1af156b104de33b
@@ -576,9 +631,11 @@ msgstr ""
 msgid "Draw three cards."
 msgstr "Dobierz trzy karty."
 
-# e702844c31d145c09d95081908140a99
 #: ../../C13.rst:198
-msgid "Control Magic"
+msgid ""
+":mtgtip:`Control Magic<https://img.scryfall.com/cards/border_crop/en/c13/35."
+"jpg?1517813031|https://scryfall.com/card/c13/35/control-magic?"
+"utm_source=api>`"
 msgstr ""
 
 # ee27c15e36b34f0cbc523a07dc1fcce3
@@ -586,9 +643,11 @@ msgstr ""
 msgid "You control enchanted creature."
 msgstr "Władasz zauroczonym stworem."
 
-# fca2777d86f84110ae6218cf4744a789
 #: ../../C13.rst:204
-msgid "Curse of Inertia"
+msgid ""
+":mtgtip:`Curse of Inertia<https://img.scryfall.com/cards/border_crop/en/"
+"c13/36.jpg?1517813031|https://scryfall.com/card/c13/36/curse-of-inertia?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:203
@@ -597,9 +656,11 @@ msgid ""
 "attacking player may tap or untap target permanent of their choice."
 msgstr ""
 
-# 916b6859aa3548d8b5ba14f1f1ce1420
 #: ../../C13.rst:214
-msgid "Deceiver Exarch"
+msgid ""
+":mtgtip:`Deceiver Exarch<https://img.scryfall.com/cards/border_crop/en/"
+"c13/37.jpg?1517813031|https://scryfall.com/card/c13/37/deceiver-exarch?"
+"utm_source=api>`"
 msgstr ""
 
 # eb69607d046b4fbd9ed0f54424ab87f1
@@ -616,9 +677,11 @@ msgstr ""
 msgid "Tap target permanent an opponent controls."
 msgstr ""
 
-# cc32f520d6924abd9225777726680c34
 #: ../../C13.rst:220
-msgid "Deep Analysis"
+msgid ""
+":mtgtip:`Deep Analysis<https://img.scryfall.com/cards/border_crop/en/c13/38."
+"jpg?1517813031|https://scryfall.com/card/c13/38/deep-analysis?"
+"utm_source=api>`"
 msgstr ""
 
 # f57d543f9cc04cac99b73eae63a17a26
@@ -636,9 +699,10 @@ msgstr ""
 "Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b|  (Możesz rzucić tę "
 "kartę z cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
-# 4783e69f7ca949fa80b24a8435341dbe
 #: ../../C13.rst:226
-msgid "Dismiss"
+msgid ""
+":mtgtip:`Dismiss<https://img.scryfall.com/cards/border_crop/en/c13/39.jpg?"
+"1517813031|https://scryfall.com/card/c13/39/dismiss?utm_source=api>`"
 msgstr ""
 
 # cbaed5bb64354a5ca16ed7981aa9a0f2
@@ -653,9 +717,11 @@ msgstr "Skontruj wskazany czar."
 msgid "Draw a card."
 msgstr "Dobierz kartę."
 
-# 09674fd54b274ff69f02f14dbeef97c3
 #: ../../C13.rst:230
-msgid "Diviner Spirit"
+msgid ""
+":mtgtip:`Diviner Spirit<https://img.scryfall.com/cards/border_crop/en/c13/40."
+"jpg?1517813031|https://scryfall.com/card/c13/40/diviner-spirit?"
+"utm_source=api>`"
 msgstr ""
 
 # 65b573e8ac1d4d27a92db27cd31b7a3f
@@ -665,9 +731,11 @@ msgid ""
 "each draw that many cards."
 msgstr ""
 
-# 052e1ffef8ab4d09bca584dc0d99743f
 #: ../../C13.rst:236
-msgid "Djinn of Infinite Deceits"
+msgid ""
+":mtgtip:`Djinn of Infinite Deceits<https://img.scryfall.com/cards/"
+"border_crop/en/c13/41.jpg?1517813031|https://scryfall.com/card/c13/41/djinn-"
+"of-infinite-deceits?utm_source=api>`"
 msgstr ""
 
 # dbd723e60a344e569b97abf82a572540
@@ -677,9 +745,11 @@ msgid ""
 "activate this ability during combat."
 msgstr ""
 
-# 5a0fd3bc8935423c8da5f21805254e05
 #: ../../C13.rst:242
-msgid "Dungeon Geists"
+msgid ""
+":mtgtip:`Dungeon Geists<https://img.scryfall.com/cards/border_crop/en/c13/42."
+"jpg?1517813031|https://scryfall.com/card/c13/42/dungeon-geists?"
+"utm_source=api>`"
 msgstr ""
 
 # 79bdd80df6ee4e30bbcffa7e8c7e13c8
@@ -690,9 +760,10 @@ msgid ""
 "as long as you control Dungeon Geists."
 msgstr ""
 
-# cd431ebd99474707adb0cd343c9503e3
 #: ../../C13.rst:258
-msgid "Echo Mage"
+msgid ""
+":mtgtip:`Echo Mage<https://img.scryfall.com/cards/border_crop/en/c13/43.jpg?"
+"1517813031|https://scryfall.com/card/c13/43/echo-mage?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:245
@@ -733,9 +804,10 @@ msgid ""
 "may choose new targets for the copies."
 msgstr ""
 
-# f064fab5b75a477889186b841138e9dc
 #: ../../C13.rst:264
-msgid "Fog Bank"
+msgid ""
+":mtgtip:`Fog Bank<https://img.scryfall.com/cards/border_crop/en/c13/44.jpg?"
+"1517813031|https://scryfall.com/card/c13/44/fog-bank?utm_source=api>`"
 msgstr ""
 
 # ee357b588efb42faa2c79018d8dcaeb4
@@ -743,9 +815,11 @@ msgstr ""
 msgid "Prevent all combat damage that would be dealt to and dealt by Fog Bank."
 msgstr ""
 
-# e49cace8bdbd4df1b7a3e79a5ae27c5c
 #: ../../C13.rst:270
-msgid "Guard Gomazoa"
+msgid ""
+":mtgtip:`Guard Gomazoa<https://img.scryfall.com/cards/border_crop/en/c13/45."
+"jpg?1517813031|https://scryfall.com/card/c13/45/guard-gomazoa?"
+"utm_source=api>`"
 msgstr ""
 
 # 93e20353061b422d98c3146c393c38b4
@@ -753,9 +827,11 @@ msgstr ""
 msgid "Prevent all combat damage that would be dealt to Guard Gomazoa."
 msgstr ""
 
-# aa06a3a5b48749a2aa0ef373f7072413
 #: ../../C13.rst:288
-msgid "Hada Spy Patrol"
+msgid ""
+":mtgtip:`Hada Spy Patrol<https://img.scryfall.com/cards/border_crop/en/"
+"c13/46.jpg?1517813031|https://scryfall.com/card/c13/46/hada-spy-patrol?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:273
@@ -794,9 +870,11 @@ msgstr ""
 msgid "Shroud (This creature can't be the target of spells or abilities.)"
 msgstr ""
 
-# 753951d8a84b43a49e203717a3dca6aa
 #: ../../C13.rst:294
-msgid "Illusionist's Gambit"
+msgid ""
+":mtgtip:`Illusionist's Gambit<https://img.scryfall.com/cards/border_crop/en/"
+"c13/47.jpg?1517813031|https://scryfall.com/card/c13/47/illusionists-gambit?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:291
@@ -813,9 +891,11 @@ msgid ""
 "combat."
 msgstr ""
 
-# fb985303355d41e58bb62b95c61b14b4
 #: ../../C13.rst:298
-msgid "Jace's Archivist"
+msgid ""
+":mtgtip:`Jace's Archivist<https://img.scryfall.com/cards/border_crop/en/"
+"c13/48.jpg?1517813031|https://scryfall.com/card/c13/48/jaces-archivist?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:297
@@ -824,9 +904,11 @@ msgid ""
 "the greatest number of cards a player discarded this way."
 msgstr ""
 
-# 302ed821257c4791a30f7a569db7c0c4
 #: ../../C13.rst:304
-msgid "Lu Xun, Scholar General"
+msgid ""
+":mtgtip:`Lu Xun, Scholar General<https://img.scryfall.com/cards/border_crop/"
+"en/c13/49.jpg?1517813031|https://scryfall.com/card/c13/49/lu-xun-scholar-"
+"general?utm_source=api>`"
 msgstr ""
 
 # da48c08105ba437d89a617bad5d25ad4
@@ -843,9 +925,11 @@ msgid ""
 "card."
 msgstr ""
 
-# b58a0c26710948e188a88a1761a3cfab
 #: ../../C13.rst:310
-msgid "Mnemonic Wall"
+msgid ""
+":mtgtip:`Mnemonic Wall<https://img.scryfall.com/cards/border_crop/en/c13/50."
+"jpg?1517813031|https://scryfall.com/card/c13/50/mnemonic-wall?"
+"utm_source=api>`"
 msgstr ""
 
 # 1c071d74405a4809b3545cacd133c481
@@ -860,9 +944,10 @@ msgid ""
 "sorcery card from your graveyard to your hand."
 msgstr ""
 
-# 03f615944eeb4f94b771cae27851f9ad
 #: ../../C13.rst:314
-msgid "Opportunity"
+msgid ""
+":mtgtip:`Opportunity<https://img.scryfall.com/cards/border_crop/en/c13/51."
+"jpg?1517813031|https://scryfall.com/card/c13/51/opportunity?utm_source=api>`"
 msgstr ""
 
 # 542d6af3dd2d43cd9a8d098a4e0f076a
@@ -870,9 +955,11 @@ msgstr ""
 msgid "Target player draws four cards."
 msgstr ""
 
-# bb0b5845dae74fdca6c9a43b9ef08ca6
 #: ../../C13.rst:318
-msgid "Order of Succession"
+msgid ""
+":mtgtip:`Order of Succession<https://img.scryfall.com/cards/border_crop/en/"
+"c13/52.jpg?1517813031|https://scryfall.com/card/c13/52/order-of-succession?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:317
@@ -882,9 +969,10 @@ msgid ""
 "that direction. Each player gains control of the creature they chose."
 msgstr ""
 
-# 24f7092c8e474484b0c86fb3dfffc84e
 #: ../../C13.rst:322
-msgid "Propaganda"
+msgid ""
+":mtgtip:`Propaganda<https://img.scryfall.com/cards/border_crop/en/c13/53.jpg?"
+"1517813031|https://scryfall.com/card/c13/53/propaganda?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:321
@@ -893,9 +981,10 @@ msgid ""
 "creature they control that's attacking you."
 msgstr ""
 
-# 20180fede2ae4b0b8d35b34c74d3bb8f
 #: ../../C13.rst:326
-msgid "Prosperity"
+msgid ""
+":mtgtip:`Prosperity<https://img.scryfall.com/cards/border_crop/en/c13/54.jpg?"
+"1517813031|https://scryfall.com/card/c13/54/prosperity?utm_source=api>`"
 msgstr ""
 
 # 2842322706694418beb88fa7adc3fa9c
@@ -904,9 +993,11 @@ msgstr ""
 msgid "Each player draws X cards."
 msgstr "Każdy gracz dobiera X kart."
 
-# 3a2886ae8a714f4bb30d2b34850b52b1
 #: ../../C13.rst:334
-msgid "Raven Familiar"
+msgid ""
+":mtgtip:`Raven Familiar<https://img.scryfall.com/cards/border_crop/en/c13/55."
+"jpg?1517813031|https://scryfall.com/card/c13/55/raven-familiar?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:331
@@ -924,9 +1015,11 @@ msgid ""
 "your library in any order."
 msgstr ""
 
-# e3134df1c9414d3eb716d1a7aa42738d
 #: ../../C13.rst:340
-msgid "Sharding Sphinx"
+msgid ""
+":mtgtip:`Sharding Sphinx<https://img.scryfall.com/cards/border_crop/en/"
+"c13/56.jpg?1517813031|https://scryfall.com/card/c13/56/sharding-sphinx?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:339
@@ -935,9 +1028,10 @@ msgid ""
 "you may create a 1/1 blue Thopter artifact creature token with flying."
 msgstr ""
 
-# 72facb32d3a84fdba08dac03edfcecf5
 #: ../../C13.rst:346
-msgid "Skyscribing"
+msgid ""
+":mtgtip:`Skyscribing<https://img.scryfall.com/cards/border_crop/en/c13/57."
+"jpg?1517813031|https://scryfall.com/card/c13/57/skyscribing?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:345
@@ -947,9 +1041,11 @@ msgid ""
 "once each turn.)"
 msgstr ""
 
-# 22dfcd9314a249a3991009ea564c260d
 #: ../../C13.rst:354
-msgid "Stormscape Battlemage"
+msgid ""
+":mtgtip:`Stormscape Battlemage<https://img.scryfall.com/cards/border_crop/en/"
+"c13/58.jpg?1517813031|https://scryfall.com/card/c13/58/stormscape-battlemage?"
+"utm_source=api>`"
 msgstr ""
 
 # 0d7b8d76cf5a4d039279d93302d665c0
@@ -976,9 +1072,11 @@ msgid ""
 "can't be regenerated."
 msgstr ""
 
-# a9376e2c32e445728eb48ff696bc0273
 #: ../../C13.rst:358
-msgid "Strategic Planning"
+msgid ""
+":mtgtip:`Strategic Planning<https://img.scryfall.com/cards/border_crop/en/"
+"c13/59.jpg?1517813031|https://scryfall.com/card/c13/59/strategic-planning?"
+"utm_source=api>`"
 msgstr ""
 
 # 8d591bf384104ee89f3504f6593ad23c
@@ -990,9 +1088,11 @@ msgstr ""
 "Obejrzyj trzy wierzchnie karty twojej biblioteki. Umieść jedną z nich do "
 "twojej ręki, a pozostałe do twojego cmentarza."
 
-# 993b5d7c52354c37a5dbf13b34e49f72
 #: ../../C13.rst:362
-msgid "Tempt with Reflections"
+msgid ""
+":mtgtip:`Tempt with Reflections<https://img.scryfall.com/cards/border_crop/"
+"en/c13/60.jpg?1517813031|https://scryfall.com/card/c13/60/tempt-with-"
+"reflections?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:361
@@ -1003,18 +1103,21 @@ msgid ""
 "that creature."
 msgstr ""
 
-# 6d30e7f9ba4e4c18b17dbeaa6c1a01bc
 #: ../../C13.rst:368
-msgid "Thornwind Faeries"
+msgid ""
+":mtgtip:`Thornwind Faeries<https://img.scryfall.com/cards/border_crop/en/"
+"c13/61.jpg?1517813031|https://scryfall.com/card/c13/61/thornwind-faeries?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:367
 msgid "|tap|: Thornwind Faeries deals 1 damage to any target."
 msgstr ""
 
-# 0870db84fa9448cca649dc619941cc90
 #: ../../C13.rst:372
-msgid "Tidal Force"
+msgid ""
+":mtgtip:`Tidal Force<https://img.scryfall.com/cards/border_crop/en/c13/62."
+"jpg?1517813031|https://scryfall.com/card/c13/62/tidal-force?utm_source=api>`"
 msgstr ""
 
 # aade808d5af64480991bbe03ed2f9af7
@@ -1022,9 +1125,11 @@ msgstr ""
 msgid "At the beginning of each upkeep, you may tap or untap target permanent."
 msgstr ""
 
-# a6215c3d4ef14363a08ef9b8b6caa3ac
 #: ../../C13.rst:378
-msgid "True-Name Nemesis"
+msgid ""
+":mtgtip:`True-Name Nemesis<https://img.scryfall.com/cards/border_crop/en/"
+"c13/63.jpg?1517813031|https://scryfall.com/card/c13/63/true-name-nemesis?"
+"utm_source=api>`"
 msgstr ""
 
 # 304c492d60374bf0b09c7c25077867c1
@@ -1040,9 +1145,11 @@ msgid ""
 "controlled by that player.)"
 msgstr ""
 
-# eddf8a84c47c407699db090423bc5da3
 #: ../../C13.rst:384
-msgid "Uyo, Silent Prophet"
+msgid ""
+":mtgtip:`Uyo, Silent Prophet<https://img.scryfall.com/cards/border_crop/en/"
+"c13/64.jpg?1517813031|https://scryfall.com/card/c13/64/uyo-silent-prophet?"
+"utm_source=api>`"
 msgstr ""
 
 # 1fbbfa3134bb4958a44617099a3a7f90
@@ -1052,9 +1159,11 @@ msgid ""
 "instant or sorcery spell. You may choose new targets for the copy."
 msgstr ""
 
-# 6f667699254348049bc23f33974eb7c7
 #: ../../C13.rst:388
-msgid "Vision Skeins"
+msgid ""
+":mtgtip:`Vision Skeins<https://img.scryfall.com/cards/border_crop/en/c13/65."
+"jpg?1517813031|https://scryfall.com/card/c13/65/vision-skeins?"
+"utm_source=api>`"
 msgstr ""
 
 # 9a09bebc14ba4f6980089806f0fd7208
@@ -1062,9 +1171,10 @@ msgstr ""
 msgid "Each player draws two cards."
 msgstr ""
 
-# df4ca4facbe74330bcca9375c03767e7
 #: ../../C13.rst:392
-msgid "Wash Out"
+msgid ""
+":mtgtip:`Wash Out<https://img.scryfall.com/cards/border_crop/en/c13/66.jpg?"
+"1517813031|https://scryfall.com/card/c13/66/wash-out?utm_source=api>`"
 msgstr ""
 
 # 2ca866c24e5d487e848dae5eb2733613
@@ -1073,9 +1183,10 @@ msgid ""
 "Return all permanents of the color of your choice to their owners' hands."
 msgstr ""
 
-# a2f06706c35d41ec8e653c415d2133b6
 #: ../../C13.rst:398
-msgid "Wonder"
+msgid ""
+":mtgtip:`Wonder<https://img.scryfall.com/cards/border_crop/en/c13/67.jpg?"
+"1517813031|https://scryfall.com/card/c13/67/wonder?utm_source=api>`"
 msgstr ""
 
 # f026ce039eb940e99235b7ed3f5f2a1b
@@ -1085,9 +1196,10 @@ msgid ""
 "you control have flying."
 msgstr ""
 
-# 9b7ea19e5344406bb3983f7085a61a2a
 #: ../../C13.rst:404
-msgid "Annihilate"
+msgid ""
+":mtgtip:`Annihilate<https://img.scryfall.com/cards/border_crop/en/c13/68.jpg?"
+"1517813031|https://scryfall.com/card/c13/68/annihilate?utm_source=api>`"
 msgstr ""
 
 # 552c2dda2d944e6caf11e75d245a7045
@@ -1096,10 +1208,12 @@ msgid "Destroy target nonblack creature. It can't be regenerated."
 msgstr ""
 "Zniszcz wskazanego nieczarnego stwora. Nie może on zostać zregenerowany."
 
-# fdee919c27064505a86363b70e4f2f7b
 #: ../../C13.rst:410
-msgid "Army of the Damned"
-msgstr "Army of the Damned (Armia Potępionych)"
+msgid ""
+":mtgtip:`Army of the Damned<https://img.scryfall.com/cards/border_crop/en/"
+"c13/69.jpg?1517813031|https://scryfall.com/card/c13/69/army-of-the-damned?"
+"utm_source=api>`"
+msgstr ""
 
 # 7f01fea1299b499babee2fb8f84694f5
 #: ../../C13.rst:407
@@ -1119,9 +1233,11 @@ msgstr ""
 "Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
 "kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
 
-# de5e314904f54992b08375745144191e
 #: ../../C13.rst:414
-msgid "Baleful Force"
+msgid ""
+":mtgtip:`Baleful Force<https://img.scryfall.com/cards/border_crop/en/c13/70."
+"jpg?1517813031|https://scryfall.com/card/c13/70/baleful-force?"
+"utm_source=api>`"
 msgstr ""
 
 # c8ec67bec7ab427fb9850410a6fff5aa
@@ -1129,9 +1245,11 @@ msgstr ""
 msgid "At the beginning of each upkeep, you draw a card and you lose 1 life."
 msgstr ""
 
-# 95e15f2348244d3e8788d3b41c2b1f8e
 #: ../../C13.rst:420
-msgid "Curse of Shallow Graves"
+msgid ""
+":mtgtip:`Curse of Shallow Graves<https://img.scryfall.com/cards/border_crop/"
+"en/c13/71.jpg?1517813031|https://scryfall.com/card/c13/71/curse-of-shallow-"
+"graves?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:419
@@ -1140,9 +1258,11 @@ msgid ""
 "attacking player may create a tapped 2/2 black Zombie creature token."
 msgstr ""
 
-# 097cdfd0947f458d990e1f4df3066898
 #: ../../C13.rst:428
-msgid "Decree of Pain"
+msgid ""
+":mtgtip:`Decree of Pain<https://img.scryfall.com/cards/border_crop/en/c13/72."
+"jpg?1517813031|https://scryfall.com/card/c13/72/decree-of-pain?"
+"utm_source=api>`"
 msgstr ""
 
 # e478a49f757644d9855ce20b51b8fb93
@@ -1168,9 +1288,11 @@ msgid ""
 "When you cycle Decree of Pain, all creatures get -2/-2 until end of turn."
 msgstr ""
 
-# 5bab9b13e03742979f424d5af7d0b17d
 #: ../../C13.rst:436
-msgid "Dirge of Dread"
+msgid ""
+":mtgtip:`Dirge of Dread<https://img.scryfall.com/cards/border_crop/en/c13/73."
+"jpg?1517813031|https://scryfall.com/card/c13/73/dirge-of-dread?"
+"utm_source=api>`"
 msgstr ""
 
 # 997021c2570f48299b0efbf06cadb442
@@ -1197,9 +1319,11 @@ msgid ""
 "end of turn."
 msgstr ""
 
-# 8dfc9eeda3954eb09d407de751f921b6
 #: ../../C13.rst:440
-msgid "Disciple of Griselbrand"
+msgid ""
+":mtgtip:`Disciple of Griselbrand<https://img.scryfall.com/cards/border_crop/"
+"en/c13/74.jpg?1517813031|https://scryfall.com/card/c13/74/disciple-of-"
+"griselbrand?utm_source=api>`"
 msgstr ""
 
 # fd0b8d7ae58f494a96dc368c6e9f00b5
@@ -1209,9 +1333,11 @@ msgid ""
 "creature's toughness."
 msgstr ""
 
-# 64b59af1b0174ebd8eb37bc850535a75
 #: ../../C13.rst:444
-msgid "Endless Cockroaches"
+msgid ""
+":mtgtip:`Endless Cockroaches<https://img.scryfall.com/cards/border_crop/en/"
+"c13/75.jpg?1517813031|https://scryfall.com/card/c13/75/endless-cockroaches?"
+"utm_source=api>`"
 msgstr ""
 
 # b28c131cfc0c41648abbcc90c16fddd2
@@ -1219,9 +1345,11 @@ msgstr ""
 msgid "When Endless Cockroaches dies, return it to its owner's hand."
 msgstr ""
 
-# 141753aaba804829b31d4d343fec7127
 #: ../../C13.rst:450
-msgid "Endrek Sahr, Master Breeder"
+msgid ""
+":mtgtip:`Endrek Sahr, Master Breeder<https://img.scryfall.com/cards/"
+"border_crop/en/c13/76.jpg?1517813031|https://scryfall.com/card/c13/76/endrek-"
+"sahr-master-breeder?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:447
@@ -1237,19 +1365,22 @@ msgid ""
 "Breeder."
 msgstr ""
 
-# c6cbe2eedad24188957d7d97cdebaf7d
 #: ../../C13.rst:454
-msgid "Famine"
-msgstr "Famine (Klęska Głodu)"
+msgid ""
+":mtgtip:`Famine<https://img.scryfall.com/cards/border_crop/en/c13/77.jpg?"
+"1517813031|https://scryfall.com/card/c13/77/famine?utm_source=api>`"
+msgstr ""
 
 # 21e2b9ddc9a74de99faf47af8a203c7b
 #: ../../C13.rst:453
 msgid "Famine deals 3 damage to each creature and each player."
 msgstr "Klęska Głodu zadaje 3 obrażenia każdemu stworowi i każdemu graczowi."
 
-# 585534b63b344834822ddc2c6a1c3add
 #: ../../C13.rst:460
-msgid "Fell Shepherd"
+msgid ""
+":mtgtip:`Fell Shepherd<https://img.scryfall.com/cards/border_crop/en/c13/78."
+"jpg?1517813031|https://scryfall.com/card/c13/78/fell-shepherd?"
+"utm_source=api>`"
 msgstr ""
 
 # 1be9170349c7478190da8da1eba73353
@@ -1267,9 +1398,10 @@ msgid ""
 "of turn."
 msgstr ""
 
-# 5d71345ce7934df8b0ad61335c3d31a2
 #: ../../C13.rst:464
-msgid "Greed"
+msgid ""
+":mtgtip:`Greed<https://img.scryfall.com/cards/border_crop/en/c13/79.jpg?"
+"1517813031|https://scryfall.com/card/c13/79/greed?utm_source=api>`"
 msgstr ""
 
 # f7d43a29dce74b25880b18936eb830db
@@ -1277,9 +1409,11 @@ msgstr ""
 msgid "|mana_b|, Pay 2 life: Draw a card."
 msgstr ""
 
-# f451c046757e4ca5bfa04640a868e93e
 #: ../../C13.rst:468
-msgid "Hooded Horror"
+msgid ""
+":mtgtip:`Hooded Horror<https://img.scryfall.com/cards/border_crop/en/c13/80."
+"jpg?1517813031|https://scryfall.com/card/c13/80/hooded-horror?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:467
@@ -1288,9 +1422,10 @@ msgid ""
 "creatures or is tied for the most."
 msgstr ""
 
-# 8bc07c7eb8824f50965d48c339c16deb
 #: ../../C13.rst:472
-msgid "Infest"
+msgid ""
+":mtgtip:`Infest<https://img.scryfall.com/cards/border_crop/en/c13/81.jpg?"
+"1517813031|https://scryfall.com/card/c13/81/infest?utm_source=api>`"
 msgstr ""
 
 # 4ca5c67baa564dc78a17a66867f1cb6f
@@ -1298,9 +1433,10 @@ msgstr ""
 msgid "All creatures get -2/-2 until end of turn."
 msgstr ""
 
-# c6b1832d513d4e7fa446921a3d009c16
 #: ../../C13.rst:478
-msgid "Marrow Bats"
+msgid ""
+":mtgtip:`Marrow Bats<https://img.scryfall.com/cards/border_crop/en/c13/82."
+"jpg?1517813031|https://scryfall.com/card/c13/82/marrow-bats?utm_source=api>`"
 msgstr ""
 
 # 698ba8f4b29544f5ab849a3ebb882df9
@@ -1308,9 +1444,11 @@ msgstr ""
 msgid "Pay 4 life: Regenerate Marrow Bats."
 msgstr ""
 
-# 1d2a9859bfd249ce8eb320cc2224c0c5
 #: ../../C13.rst:484
-msgid "Nightscape Familiar"
+msgid ""
+":mtgtip:`Nightscape Familiar<https://img.scryfall.com/cards/border_crop/en/"
+"c13/83.jpg?1517813031|https://scryfall.com/card/c13/83/nightscape-familiar?"
+"utm_source=api>`"
 msgstr ""
 
 # b7ba758ed10147c6bd032c38e5257d1a
@@ -1322,9 +1460,10 @@ msgstr ""
 msgid "|mana_1|\\ |mana_b|: Regenerate Nightscape Familiar."
 msgstr ""
 
-# 2a6b6d0fefd246bc9b6c242392e0ef41
 #: ../../C13.rst:488
-msgid "Ophiomancer"
+msgid ""
+":mtgtip:`Ophiomancer<https://img.scryfall.com/cards/border_crop/en/c13/84."
+"jpg?1517813031|https://scryfall.com/card/c13/84/ophiomancer?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:487
@@ -1333,9 +1472,10 @@ msgid ""
 "black Snake creature token with deathtouch."
 msgstr ""
 
-# bb63703bd5304bf28d89d0f7fc888e85
 #: ../../C13.rst:494
-msgid "Phthisis"
+msgid ""
+":mtgtip:`Phthisis<https://img.scryfall.com/cards/border_crop/en/c13/85.jpg?"
+"1517813031|https://scryfall.com/card/c13/85/phthisis?utm_source=api>`"
 msgstr ""
 
 # bd3ee531e3cc421a9c6c7941f418231e
@@ -1361,9 +1501,11 @@ msgstr ""
 "początku twojego utrzymania, usuń znacznik czasu. Kiedy ostatni znacznik "
 "zostanie usunięty, rzuć go bez płacenia kosztu many.)"
 
-# e9e7de2fa493427f8d197b053392cb87
 #: ../../C13.rst:498
-msgid "Phyrexian Delver"
+msgid ""
+":mtgtip:`Phyrexian Delver<https://img.scryfall.com/cards/border_crop/en/"
+"c13/86.jpg?1517813031|https://scryfall.com/card/c13/86/phyrexian-delver?"
+"utm_source=api>`"
 msgstr ""
 
 # 1213b879985248d795a3a6c9c73f06d2
@@ -1374,9 +1516,11 @@ msgid ""
 "converted mana cost."
 msgstr ""
 
-# f0ab87b95ab74843b7a783727aec1b1e
 #: ../../C13.rst:502
-msgid "Phyrexian Gargantua"
+msgid ""
+":mtgtip:`Phyrexian Gargantua<https://img.scryfall.com/cards/border_crop/en/"
+"c13/87.jpg?1517813031|https://scryfall.com/card/c13/87/phyrexian-gargantua?"
+"utm_source=api>`"
 msgstr ""
 
 # 17e72e75576144b7b68f4dc24b987604
@@ -1386,9 +1530,11 @@ msgid ""
 "lose 2 life."
 msgstr ""
 
-# 6939ae9f322640779c4628d2ad8c06d1
 #: ../../C13.rst:506
-msgid "Phyrexian Reclamation"
+msgid ""
+":mtgtip:`Phyrexian Reclamation<https://img.scryfall.com/cards/border_crop/en/"
+"c13/88.jpg?1517813031|https://scryfall.com/card/c13/88/phyrexian-reclamation?"
+"utm_source=api>`"
 msgstr ""
 
 # d198f92a685445b8a36e9398093a758a
@@ -1401,9 +1547,11 @@ msgstr ""
 "|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
 "twojego cmentarza do twojej ręki."
 
-# 42b1804b82744015998345352620d74e
 #: ../../C13.rst:512
-msgid "Price of Knowledge"
+msgid ""
+":mtgtip:`Price of Knowledge<https://img.scryfall.com/cards/border_crop/en/"
+"c13/89.jpg?1517813031|https://scryfall.com/card/c13/89/price-of-knowledge?"
+"utm_source=api>`"
 msgstr ""
 
 # 1aaa6274145747ce9305e51e6b834d0b
@@ -1418,9 +1566,11 @@ msgid ""
 "to that player equal to the number of cards in that player's hand."
 msgstr ""
 
-# 6a65087b40c34c0681ddf91469b7cdb4
 #: ../../C13.rst:516
-msgid "Quagmire Druid"
+msgid ""
+":mtgtip:`Quagmire Druid<https://img.scryfall.com/cards/border_crop/en/c13/90."
+"jpg?1517813031|https://scryfall.com/card/c13/90/quagmire-druid?"
+"utm_source=api>`"
 msgstr ""
 
 # 83f7fb74663548ffb1d7a542d91675d8
@@ -1428,9 +1578,11 @@ msgstr ""
 msgid "|mana_g|, |tap|, Sacrifice a creature: Destroy target enchantment."
 msgstr ""
 
-# b3bd1a3d73734a6daaa232635fe99b29
 #: ../../C13.rst:520
-msgid "Reckless Spite"
+msgid ""
+":mtgtip:`Reckless Spite<https://img.scryfall.com/cards/border_crop/en/c13/91."
+"jpg?1517813031|https://scryfall.com/card/c13/91/reckless-spite?"
+"utm_source=api>`"
 msgstr ""
 
 # 4c6a898692be4da9bb098a082cb7c1f9
@@ -1438,9 +1590,11 @@ msgstr ""
 msgid "Destroy two target nonblack creatures. You lose 5 life."
 msgstr ""
 
-# d14af1017f2e4544a8a7ea8de831ad05
 #: ../../C13.rst:524
-msgid "Sanguine Bond"
+msgid ""
+":mtgtip:`Sanguine Bond<https://img.scryfall.com/cards/border_crop/en/c13/92."
+"jpg?1517813031|https://scryfall.com/card/c13/92/sanguine-bond?"
+"utm_source=api>`"
 msgstr ""
 
 # 14ba2a45571e47da82f563fb322ef10c
@@ -1448,9 +1602,11 @@ msgstr ""
 msgid "Whenever you gain life, target opponent loses that much life."
 msgstr ""
 
-# daba29de4ca54612bb9ba9e2449a5862
 #: ../../C13.rst:528
-msgid "Stronghold Assassin"
+msgid ""
+":mtgtip:`Stronghold Assassin<https://img.scryfall.com/cards/border_crop/en/"
+"c13/93.jpg?1517813031|https://scryfall.com/card/c13/93/stronghold-assassin?"
+"utm_source=api>`"
 msgstr ""
 
 # 3204d0fc289c40398cb7f2afb7c9183d
@@ -1458,9 +1614,11 @@ msgstr ""
 msgid "|tap|, Sacrifice a creature: Destroy target nonblack creature."
 msgstr ""
 
-# 39c6d621909548f0a7e7840f25bcb002
 #: ../../C13.rst:534
-msgid "Sudden Spoiling"
+msgid ""
+":mtgtip:`Sudden Spoiling<https://img.scryfall.com/cards/border_crop/en/"
+"c13/94.jpg?1517813031|https://scryfall.com/card/c13/94/sudden-spoiling?"
+"utm_source=api>`"
 msgstr ""
 
 # 1c46fd3a585c447e9ff78af868800262
@@ -1477,9 +1635,11 @@ msgid ""
 "have base power and toughness 0/2."
 msgstr ""
 
-# 653e6b913ba14728b4566e48b8a50067
 #: ../../C13.rst:538
-msgid "Tempt with Immortality"
+msgid ""
+":mtgtip:`Tempt with Immortality<https://img.scryfall.com/cards/border_crop/"
+"en/c13/95.jpg?1517813031|https://scryfall.com/card/c13/95/tempt-with-"
+"immortality?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:537
@@ -1490,9 +1650,10 @@ msgid ""
 "your graveyard to the battlefield."
 msgstr ""
 
-# bcc0c7372361463cbb18de8d5a58d19f
 #: ../../C13.rst:544
-msgid "Toxic Deluge"
+msgid ""
+":mtgtip:`Toxic Deluge<https://img.scryfall.com/cards/border_crop/en/c13/96."
+"jpg?1517813031|https://scryfall.com/card/c13/96/toxic-deluge?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:541
@@ -1504,9 +1665,11 @@ msgstr ""
 msgid "All creatures get -X/-X until end of turn."
 msgstr ""
 
-# 9e1bb2b3b9d44047b12a47e827cbe782
 #: ../../C13.rst:548
-msgid "Vampire Nighthawk"
+msgid ""
+":mtgtip:`Vampire Nighthawk<https://img.scryfall.com/cards/border_crop/en/"
+"c13/97.jpg?1517813031|https://scryfall.com/card/c13/97/vampire-nighthawk?"
+"utm_source=api>`"
 msgstr ""
 
 # 30da6bd97c794b1db2e0b944498444b6
@@ -1515,9 +1678,10 @@ msgstr ""
 msgid "Flying, deathtouch, lifelink"
 msgstr "Latanie, dotyk śmierci"
 
-# dbc5c7e71de7438b8d76d0ee61558e5d
 #: ../../C13.rst:554
-msgid "Vile Requiem"
+msgid ""
+":mtgtip:`Vile Requiem<https://img.scryfall.com/cards/border_crop/en/c13/98."
+"jpg?1517813031|https://scryfall.com/card/c13/98/vile-requiem?utm_source=api>`"
 msgstr ""
 
 # 13c982ebce0a4ea79d9bf7066ed547f3
@@ -1533,9 +1697,10 @@ msgid ""
 "can't be regenerated."
 msgstr ""
 
-# 55edd94536e045678d808b0768bf424e
 #: ../../C13.rst:558
-msgid "Viscera Seer"
+msgid ""
+":mtgtip:`Viscera Seer<https://img.scryfall.com/cards/border_crop/en/c13/99."
+"jpg?1517813031|https://scryfall.com/card/c13/99/viscera-seer?utm_source=api>`"
 msgstr ""
 
 # 092c05f763864cf4a59f69d036b5a400
@@ -1545,11 +1710,12 @@ msgid ""
 "put that card on the bottom of your library.)"
 msgstr ""
 
-# aacca06fb6a6405a8667962eff09c4ca
 #: ../../C13.rst:562
-#, fuzzy
-msgid "Wight of Precinct Six"
-msgstr "Wight of Precinct Six"
+msgid ""
+":mtgtip:`Wight of Precinct Six<https://img.scryfall.com/cards/border_crop/en/"
+"c13/100.jpg?1517813031|https://scryfall.com/card/c13/100/wight-of-precinct-"
+"six?utm_source=api>`"
+msgstr ""
 
 # 400d04c7913745b5b8a75445739fa0dc
 #: ../../C13.rst:561
@@ -1558,9 +1724,10 @@ msgid ""
 "graveyards."
 msgstr ""
 
-# b136b8db54c046c4a87fe3b7542afe17
 #: ../../C13.rst:566
-msgid "Blood Rites"
+msgid ""
+":mtgtip:`Blood Rites<https://img.scryfall.com/cards/border_crop/en/c13/101."
+"jpg?1517813031|https://scryfall.com/card/c13/101/blood-rites?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:565
@@ -1569,9 +1736,11 @@ msgid ""
 "target."
 msgstr ""
 
-# 0c22963ff01549fe8eb66bb115581ba1
 #: ../../C13.rst:570
-msgid "Capricious Efreet"
+msgid ""
+":mtgtip:`Capricious Efreet<https://img.scryfall.com/cards/border_crop/en/"
+"c13/102.jpg?1517813031|https://scryfall.com/card/c13/102/capricious-efreet?"
+"utm_source=api>`"
 msgstr ""
 
 # a0354dcbc3fb40708a60b91cbea61396
@@ -1582,9 +1751,11 @@ msgid ""
 "them at random."
 msgstr ""
 
-# a547c66438e24e9a95681cff2e4bbb5c
 #: ../../C13.rst:576
-msgid "Charmbreaker Devils"
+msgid ""
+":mtgtip:`Charmbreaker Devils<https://img.scryfall.com/cards/border_crop/en/"
+"c13/103.jpg?1517813031|https://scryfall.com/card/c13/103/charmbreaker-devils?"
+"utm_source=api>`"
 msgstr ""
 
 # e46fe764df2b4b5981997c3ca35035d4
@@ -1601,9 +1772,11 @@ msgid ""
 "+0 until end of turn."
 msgstr ""
 
-# f09a201d4eab4753841dffdbc2da5386
 #: ../../C13.rst:582
-msgid "Crater Hellion"
+msgid ""
+":mtgtip:`Crater Hellion<https://img.scryfall.com/cards/border_crop/en/"
+"c13/104.jpg?1517813031|https://scryfall.com/card/c13/104/crater-hellion?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:579
@@ -1620,9 +1793,11 @@ msgid ""
 "creature."
 msgstr ""
 
-# 8778293760af4ba1a2ce10b7ce684253
 #: ../../C13.rst:588
-msgid "Curse of Chaos"
+msgid ""
+":mtgtip:`Curse of Chaos<https://img.scryfall.com/cards/border_crop/en/"
+"c13/105.jpg?1517813031|https://scryfall.com/card/c13/105/curse-of-chaos?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:587
@@ -1631,9 +1806,10 @@ msgid ""
 "attacking player may discard a card. If the player does, they draw a card."
 msgstr ""
 
-# 08fbd4519416428383dcbc958c339f2c
 #: ../../C13.rst:594
-msgid "Fireball"
+msgid ""
+":mtgtip:`Fireball<https://img.scryfall.com/cards/border_crop/en/c13/106.jpg?"
+"1517813031|https://scryfall.com/card/c13/106/fireball?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:591
@@ -1647,9 +1823,11 @@ msgid ""
 "targets."
 msgstr ""
 
-# a7c921cee21d44fba75cc60323dedd29
 #: ../../C13.rst:602
-msgid "Fissure Vent"
+msgid ""
+":mtgtip:`Fissure Vent<https://img.scryfall.com/cards/border_crop/en/c13/107."
+"jpg?1517813031|https://scryfall.com/card/c13/107/fissure-vent?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:597 ../../C13.rst:1241
@@ -1669,9 +1847,11 @@ msgstr "Zniszcz wskazany artefakt."
 msgid "Destroy target nonbasic land."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
-# b6dc97bfbc7b4461a9b6e0003c176c85
 #: ../../C13.rst:606
-msgid "From the Ashes"
+msgid ""
+":mtgtip:`From the Ashes<https://img.scryfall.com/cards/border_crop/en/"
+"c13/108.jpg?1517813031|https://scryfall.com/card/c13/108/from-the-ashes?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:605
@@ -1682,9 +1862,11 @@ msgid ""
 "it."
 msgstr ""
 
-# 5951e8d7d9a049b99f92381c320ae6d1
 #: ../../C13.rst:610
-msgid "Furnace Celebration"
+msgid ""
+":mtgtip:`Furnace Celebration<https://img.scryfall.com/cards/border_crop/en/"
+"c13/109.jpg?1517813031|https://scryfall.com/card/c13/109/furnace-celebration?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:609
@@ -1693,18 +1875,22 @@ msgid ""
 "Furnace Celebration deals 2 damage to any target."
 msgstr ""
 
-# 19a335dc1c22465fac56fd19ee83e83a
 #: ../../C13.rst:614
-msgid "Goblin Bombardment"
+msgid ""
+":mtgtip:`Goblin Bombardment<https://img.scryfall.com/cards/border_crop/en/"
+"c13/110.jpg?1517813031|https://scryfall.com/card/c13/110/goblin-bombardment?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:613
 msgid "Sacrifice a creature: Goblin Bombardment deals 1 damage to any target."
 msgstr ""
 
-# d581f1f96abf488fa1950181d8f21594
 #: ../../C13.rst:622
-msgid "Goblin Sharpshooter"
+msgid ""
+":mtgtip:`Goblin Sharpshooter<https://img.scryfall.com/cards/border_crop/en/"
+"c13/111.jpg?1517813031|https://scryfall.com/card/c13/111/goblin-sharpshooter?"
+"utm_source=api>`"
 msgstr ""
 
 # d15a5d91914d4092860b6fff2d7b8d4b
@@ -1721,10 +1907,11 @@ msgstr ""
 msgid "|tap|: Goblin Sharpshooter deals 1 damage to any target."
 msgstr ""
 
-# 6b5c218e4d484451bab578236bda4d21
 #: ../../C13.rst:626
-msgid "Guttersnipe"
-msgstr "Guttersnipe"
+msgid ""
+":mtgtip:`Guttersnipe<https://img.scryfall.com/cards/border_crop/en/c13/112."
+"jpg?1517813031|https://scryfall.com/card/c13/112/guttersnipe?utm_source=api>`"
+msgstr ""
 
 # f36122fbdee842699948248e24a08f1b
 #: ../../C13.rst:625
@@ -1735,9 +1922,11 @@ msgstr ""
 "Ilekroć rzucasz czar sztuczki lub obrzędu, Guttersnipe zadaje każdemu "
 "przeciwnikowi po 2 obrażenia."
 
-# fe1c600be6164ecabb846832b6427d99
 #: ../../C13.rst:638
-msgid "Incendiary Command"
+msgid ""
+":mtgtip:`Incendiary Command<https://img.scryfall.com/cards/border_crop/en/"
+"c13/113.jpg?1517813031|https://scryfall.com/card/c13/113/incendiary-command?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:629
@@ -1759,9 +1948,11 @@ msgid ""
 "Each player discards all the cards in their hand, then draws that many cards."
 msgstr ""
 
-# 356e9c3dd36946c7b0886691f69bb440
 #: ../../C13.rst:644
-msgid "Inferno Titan"
+msgid ""
+":mtgtip:`Inferno Titan<https://img.scryfall.com/cards/border_crop/en/c13/114."
+"jpg?1517813031|https://scryfall.com/card/c13/114/inferno-titan?"
+"utm_source=api>`"
 msgstr ""
 
 # 8d241b80d6074bdeb2084f26d0f0bad9
@@ -1775,9 +1966,11 @@ msgid ""
 "divided as you choose among one, two, or three targets."
 msgstr ""
 
-# f4e743a075ef4c6d88f28169505cfc01
 #: ../../C13.rst:648
-msgid "Magus of the Arena"
+msgid ""
+":mtgtip:`Magus of the Arena<https://img.scryfall.com/cards/border_crop/en/"
+"c13/115.jpg?1517813031|https://scryfall.com/card/c13/115/magus-of-the-arena?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:647
@@ -1787,9 +1980,10 @@ msgid ""
 "deals damage equal to its power to the other.)"
 msgstr ""
 
-# c30dbc967d4646fc889dc1f501983175
 #: ../../C13.rst:652
-msgid "Mass Mutiny"
+msgid ""
+":mtgtip:`Mass Mutiny<https://img.scryfall.com/cards/border_crop/en/c13/116."
+"jpg?1517813031|https://scryfall.com/card/c13/116/mass-mutiny?utm_source=api>`"
 msgstr ""
 
 # 58c74bf2ca514f2eb10e56b0bfd4ffa1
@@ -1800,9 +1994,11 @@ msgid ""
 "of turn."
 msgstr ""
 
-# 9f2dbd2b79d44758a687bf239498d5af
 #: ../../C13.rst:660
-msgid "Molten Disaster"
+msgid ""
+":mtgtip:`Molten Disaster<https://img.scryfall.com/cards/border_crop/en/"
+"c13/117.jpg?1517813031|https://scryfall.com/card/c13/117/molten-disaster?"
+"utm_source=api>`"
 msgstr ""
 
 # 0d7b8d76cf5a4d039279d93302d665c0
@@ -1828,7 +2024,9 @@ msgid ""
 msgstr ""
 
 #: ../../C13.rst:664
-msgid "Rough"
+msgid ""
+":mtgtip:`Rough<https://img.scryfall.com/cards/border_crop/en/c13/118a.jpg?"
+"1517813031|https://scryfall.com/card/c13/118/rough-tumble?utm_source=api>`"
 msgstr ""
 
 # 9c26c9b409c84bafb30ed27165c723e2
@@ -1837,7 +2035,9 @@ msgid "Rough deals 2 damage to each creature without flying."
 msgstr ""
 
 #: ../../C13.rst:668
-msgid "Tumble"
+msgid ""
+":mtgtip:`Tumble<https://img.scryfall.com/cards/border_crop/en/c13/118a.jpg?"
+"1517813031|https://scryfall.com/card/c13/118/rough-tumble?utm_source=api>`"
 msgstr ""
 
 # d14cb906ea6b4ae2a8f39aca470f6e8a
@@ -1845,9 +2045,11 @@ msgstr ""
 msgid "Tumble deals 6 damage to each creature with flying."
 msgstr ""
 
-# 18565885ee704bf19270c5b8bd3f5f29
 #: ../../C13.rst:676
-msgid "Slice and Dice"
+msgid ""
+":mtgtip:`Slice and Dice<https://img.scryfall.com/cards/border_crop/en/"
+"c13/119.jpg?1517813031|https://scryfall.com/card/c13/119/slice-and-dice?"
+"utm_source=api>`"
 msgstr ""
 
 # 06a53860830f4496acff8f85686d0d7c
@@ -1872,9 +2074,11 @@ msgid ""
 "creature."
 msgstr ""
 
-# 805e902182ef436d9696ab9533d15bcb
 #: ../../C13.rst:682
-msgid "Spitebellows"
+msgid ""
+":mtgtip:`Spitebellows<https://img.scryfall.com/cards/border_crop/en/c13/120."
+"jpg?1517813031|https://scryfall.com/card/c13/120/spitebellows?"
+"utm_source=api>`"
 msgstr ""
 
 # 5211aa4239824cc4b851f62f6aeae1d9
@@ -1891,12 +2095,14 @@ msgid ""
 "cost. If you do, it's sacrificed when it enters the battlefield.)"
 msgstr ""
 "Przeciążenie |mana_6|\\ |mana_u| (Możesz rzucić czar po jego przeciążeniowym "
-"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa \""
-"wskazany\" na \"każdy.\")"
+"koszcie. Jeśli to zrobisz, zmień jego tekst zamieniając wszystkie słowa "
+"\"wskazany\" na \"każdy.\")"
 
-# 98f0ccfe6bcd4559a3656ce964adbf9e
 #: ../../C13.rst:688
-msgid "Stalking Vengeance"
+msgid ""
+":mtgtip:`Stalking Vengeance<https://img.scryfall.com/cards/border_crop/en/"
+"c13/121.jpg?1517813031|https://scryfall.com/card/c13/121/stalking-vengeance?"
+"utm_source=api>`"
 msgstr ""
 
 # 792fbbe554654a2ca80ddd14e0a36481
@@ -1911,9 +2117,10 @@ msgid ""
 "power to target player or planeswalker."
 msgstr ""
 
-# b3dec2d8c34b41b093da30047a5ca7a2
 #: ../../C13.rst:694
-msgid "Starstorm"
+msgid ""
+":mtgtip:`Starstorm<https://img.scryfall.com/cards/border_crop/en/c13/122.jpg?"
+"1517813031|https://scryfall.com/card/c13/122/starstorm?utm_source=api>`"
 msgstr ""
 
 # 617bd52b22194772b2fa55e21e649718
@@ -1926,11 +2133,12 @@ msgstr ""
 msgid "Cycling |mana_3| (|mana_3|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_3| (|mana_3|, odrzuć tę kartę: Dobierz kartę.)"
 
-# 0580180589e1466b96112491daaa7331
 #: ../../C13.rst:700
-#, fuzzy
-msgid "Street Spasm"
-msgstr "Street Spasm"
+msgid ""
+":mtgtip:`Street Spasm<https://img.scryfall.com/cards/border_crop/en/c13/123."
+"jpg?1517813031|https://scryfall.com/card/c13/123/street-spasm?"
+"utm_source=api>`"
+msgstr ""
 
 # 3fbcd451d98449c3bfe498e50b1d9afc
 #: ../../C13.rst:697
@@ -1946,9 +2154,11 @@ msgid ""
 "of \"target\" with \"each.\")"
 msgstr ""
 
-# 034b61c2ef2b46088c087b4f2463829f
 #: ../../C13.rst:704
-msgid "Sudden Demise"
+msgid ""
+":mtgtip:`Sudden Demise<https://img.scryfall.com/cards/border_crop/en/c13/124."
+"jpg?1517813031|https://scryfall.com/card/c13/124/sudden-demise?"
+"utm_source=api>`"
 msgstr ""
 
 # cbf52b5a3c4d42008d107c656f1a08e9
@@ -1958,9 +2168,11 @@ msgid ""
 "color."
 msgstr ""
 
-# e2d89e146fba4f729ed4fc041fa63016
 #: ../../C13.rst:708
-msgid "Tempt with Vengeance"
+msgid ""
+":mtgtip:`Tempt with Vengeance<https://img.scryfall.com/cards/border_crop/en/"
+"c13/125.jpg?1517813031|https://scryfall.com/card/c13/125/tempt-with-"
+"vengeance?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:707
@@ -1970,9 +2182,11 @@ msgid ""
 "opponent who does, create X 1/1 red Elemental creature tokens with haste."
 msgstr ""
 
-# 661cd62155ca4844b92b18ffe941f51d
 #: ../../C13.rst:712
-msgid "Terra Ravager"
+msgid ""
+":mtgtip:`Terra Ravager<https://img.scryfall.com/cards/border_crop/en/c13/126."
+"jpg?1517813031|https://scryfall.com/card/c13/126/terra-ravager?"
+"utm_source=api>`"
 msgstr ""
 
 # b5de6af5f4464f9ab19f6a441f66bca0
@@ -1982,9 +2196,11 @@ msgid ""
 "the number of lands defending player controls."
 msgstr ""
 
-# e3825b86446b439490d975a41e88c11a
 #: ../../C13.rst:716
-msgid "Tooth and Claw"
+msgid ""
+":mtgtip:`Tooth and Claw<https://img.scryfall.com/cards/border_crop/en/"
+"c13/127.jpg?1517813031|https://scryfall.com/card/c13/127/tooth-and-claw?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:715
@@ -1993,9 +2209,10 @@ msgid ""
 "Carnivore."
 msgstr ""
 
-# 7469174b53334771973ff84fc426640d
 #: ../../C13.rst:720
-msgid "War Cadence"
+msgid ""
+":mtgtip:`War Cadence<https://img.scryfall.com/cards/border_crop/en/c13/128."
+"jpg?1517813031|https://scryfall.com/card/c13/128/war-cadence?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:719
@@ -2004,9 +2221,11 @@ msgid ""
 "controller pays |mana_x| for each blocking creature they control."
 msgstr ""
 
-# b4d4cd7c67e74a1898bddfd4fefbb86a
 #: ../../C13.rst:724
-msgid "Warstorm Surge"
+msgid ""
+":mtgtip:`Warstorm Surge<https://img.scryfall.com/cards/border_crop/en/"
+"c13/129.jpg?1517813031|https://scryfall.com/card/c13/129/warstorm-surge?"
+"utm_source=api>`"
 msgstr ""
 
 # 9f1a23bcef4e448f9115e1e814f62242
@@ -2019,9 +2238,11 @@ msgstr ""
 "Lądowanie — Ilekroć ląd wchodzi na pole walki pod twoim władaniem, możesz "
 "zyskać 2 życia."
 
-# a3101f1a7bde4ac782fe19673b42debd
 #: ../../C13.rst:728
-msgid "Where Ancients Tread"
+msgid ""
+":mtgtip:`Where Ancients Tread<https://img.scryfall.com/cards/border_crop/en/"
+"c13/130.jpg?1517813031|https://scryfall.com/card/c13/130/where-ancients-"
+"tread?utm_source=api>`"
 msgstr ""
 
 # 32d70781d5c54b4eb7c1bf0af512b476
@@ -2034,9 +2255,11 @@ msgstr ""
 "Lądowanie — Ilekroć ląd wchodzi na pole walki pod twoim władaniem, możesz "
 "położyć na polu walki żeton zielonego stwora Bestia 4/4."
 
-# 1ea940679b9e470884bfec62802c2528
 #: ../../C13.rst:732
-msgid "Widespread Panic"
+msgid ""
+":mtgtip:`Widespread Panic<https://img.scryfall.com/cards/border_crop/en/"
+"c13/131.jpg?1517813031|https://scryfall.com/card/c13/131/widespread-panic?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:731
@@ -2045,9 +2268,11 @@ msgid ""
 "that player puts a card from their hand on top of their library."
 msgstr ""
 
-# cb4dfa21ab604f2d83f671490ca2ba2e
 #: ../../C13.rst:736
-msgid "Wild Ricochet"
+msgid ""
+":mtgtip:`Wild Ricochet<https://img.scryfall.com/cards/border_crop/en/c13/132."
+"jpg?1517813031|https://scryfall.com/card/c13/132/wild-ricochet?"
+"utm_source=api>`"
 msgstr ""
 
 # 38fdb28899674cddaa760f77aa8886be
@@ -2057,9 +2282,10 @@ msgid ""
 "that spell. You may choose new targets for the copy."
 msgstr ""
 
-# 0e558e8438ad41f28a2ec5953a3335cc
 #: ../../C13.rst:744
-msgid "Witch Hunt"
+msgid ""
+":mtgtip:`Witch Hunt<https://img.scryfall.com/cards/border_crop/en/c13/133."
+"jpg?1517813031|https://scryfall.com/card/c13/133/witch-hunt?utm_source=api>`"
 msgstr ""
 
 # afe0281b87a849fa9fac12e1a6ae8199
@@ -2079,10 +2305,12 @@ msgid ""
 "control of Witch Hunt."
 msgstr ""
 
-# a32197b6d5d84af0b913e1d3040b651c
 #: ../../C13.rst:750
-msgid "Acidic Slime"
-msgstr "Acidic Slime (Kwasowy Szlam)"
+msgid ""
+":mtgtip:`Acidic Slime<https://img.scryfall.com/cards/border_crop/en/c13/134."
+"jpg?1517813031|https://scryfall.com/card/c13/134/acidic-slime?"
+"utm_source=api>`"
+msgstr ""
 
 # 340d3a8ec894455894f7d551896820f9
 # 523ba9c9a3cc49efb497be61d219925f
@@ -2105,9 +2333,11 @@ msgstr ""
 "Kiedy Kwasowy Szlam wchodzi na pole walki, zniszcz wskazany artefakt, urok "
 "albo ląd."
 
-# b6ded219e27f41d2a4f930d1bce9f8d8
 #: ../../C13.rst:756
-msgid "Avenger of Zendikar"
+msgid ""
+":mtgtip:`Avenger of Zendikar<https://img.scryfall.com/cards/border_crop/en/"
+"c13/135.jpg?1517813031|https://scryfall.com/card/c13/135/avenger-of-zendikar?"
+"utm_source=api>`"
 msgstr ""
 
 # 32d70781d5c54b4eb7c1bf0af512b476
@@ -2129,9 +2359,11 @@ msgstr ""
 "Lądowanie — Ilekroć ląd wchodzi na pole walki pod twoje władanie, możesz "
 "położyć znacznik +1/+1 na każdej Roślinie, którą władasz."
 
-# dd8f687681b846e8a3da3985e4fe2fcf
 #: ../../C13.rst:760
-msgid "Baloth Woodcrasher"
+msgid ""
+":mtgtip:`Baloth Woodcrasher<https://img.scryfall.com/cards/border_crop/en/"
+"c13/136.jpg?1517813031|https://scryfall.com/card/c13/136/baloth-woodcrasher?"
+"utm_source=api>`"
 msgstr ""
 
 # 067459031baf43f4b457d7e1e88e069b
@@ -2143,9 +2375,11 @@ msgstr ""
 "Lądowanie — Ilekroć ląd wchodzi na pole walki pod twoim władaniem, Baloth "
 "Woodcrasher dostaje +4/+4 oraz tratowanie do końca tury."
 
-# b5513ea2c9ab465696e700616eaabf44
 #: ../../C13.rst:764
-msgid "Bane of Progress"
+msgid ""
+":mtgtip:`Bane of Progress<https://img.scryfall.com/cards/border_crop/en/"
+"c13/137.jpg?1517813031|https://scryfall.com/card/c13/137/bane-of-progress?"
+"utm_source=api>`"
 msgstr ""
 
 # 1ae27aeac6f94bc7977985920b7dfe3c
@@ -2156,9 +2390,11 @@ msgid ""
 "destroyed this way."
 msgstr ""
 
-# 8a9dd32dafc74a62af1af97d4e398ec8
 #: ../../C13.rst:768
-msgid "Brooding Saurian"
+msgid ""
+":mtgtip:`Brooding Saurian<https://img.scryfall.com/cards/border_crop/en/"
+"c13/138.jpg?1517813031|https://scryfall.com/card/c13/138/brooding-saurian?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:767
@@ -2167,9 +2403,10 @@ msgid ""
 "permanents they own."
 msgstr ""
 
-# 949425d4707e4cf792a8cca847e2d3ef
 #: ../../C13.rst:772
-msgid "Cultivate"
+msgid ""
+":mtgtip:`Cultivate<https://img.scryfall.com/cards/border_crop/en/c13/139.jpg?"
+"1517813031|https://scryfall.com/card/c13/139/cultivate?utm_source=api>`"
 msgstr ""
 
 # 01b70e4565ca4197ade1b8e9730ca3f6
@@ -2180,9 +2417,11 @@ msgid ""
 "shuffle your library."
 msgstr ""
 
-# 1e56bde7f3d54678881ee7dd491ed3b5
 #: ../../C13.rst:778
-msgid "Curse of Predation"
+msgid ""
+":mtgtip:`Curse of Predation<https://img.scryfall.com/cards/border_crop/en/"
+"c13/140.jpg?1517813031|https://scryfall.com/card/c13/140/curse-of-predation?"
+"utm_source=api>`"
 msgstr ""
 
 # 4ecceb89fa114753b23070a80b2c13bb
@@ -2191,9 +2430,11 @@ msgid ""
 "Whenever a creature attacks enchanted player, put a +1/+1 counter on it."
 msgstr ""
 
-# 891973015f164940874254d4cc64d6ec
 #: ../../C13.rst:784
-msgid "Deadwood Treefolk"
+msgid ""
+":mtgtip:`Deadwood Treefolk<https://img.scryfall.com/cards/border_crop/en/"
+"c13/141.jpg?1517813031|https://scryfall.com/card/c13/141/deadwood-treefolk?"
+"utm_source=api>`"
 msgstr ""
 
 # a6865b3ac2074e08b66f1c2ab1adb408
@@ -2216,9 +2457,10 @@ msgid ""
 "return another target creature card from your graveyard to your hand."
 msgstr ""
 
-# a8172b6352bc4a19a5855269e7ac31a0
 #: ../../C13.rst:790
-msgid "Drumhunter"
+msgid ""
+":mtgtip:`Drumhunter<https://img.scryfall.com/cards/border_crop/en/c13/142."
+"jpg?1517813031|https://scryfall.com/card/c13/142/drumhunter?utm_source=api>`"
 msgstr ""
 
 # 52c4a9cf7dc044cb99db26da4f6cfe9a
@@ -2235,9 +2477,11 @@ msgstr ""
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Dostajesz |colorless|."
 
-# f00abbdcf6b34a81ad1a65e789b9fe5e
 #: ../../C13.rst:794
-msgid "Elvish Skysweeper"
+msgid ""
+":mtgtip:`Elvish Skysweeper<https://img.scryfall.com/cards/border_crop/en/"
+"c13/143.jpg?1517813031|https://scryfall.com/card/c13/143/elvish-skysweeper?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:793
@@ -2246,9 +2490,11 @@ msgid ""
 "flying."
 msgstr ""
 
-# 8dcdc73a48b144d1a5396769f3e71d98
 #: ../../C13.rst:798
-msgid "Farhaven Elf"
+msgid ""
+":mtgtip:`Farhaven Elf<https://img.scryfall.com/cards/border_crop/en/c13/144."
+"jpg?1517813031|https://scryfall.com/card/c13/144/farhaven-elf?"
+"utm_source=api>`"
 msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
@@ -2263,9 +2509,10 @@ msgstr ""
 "bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
 "swojej ręki, a następnie przetasować twoją bibliotekę."
 
-# 074e8aea378e48c182d178cfc172de32
 #: ../../C13.rst:802
-msgid "Fecundity"
+msgid ""
+":mtgtip:`Fecundity<https://img.scryfall.com/cards/border_crop/en/c13/145.jpg?"
+"1517813031|https://scryfall.com/card/c13/145/fecundity?utm_source=api>`"
 msgstr ""
 
 # 1ecc9165d1a34f0185395b62c1f1b27a
@@ -2273,9 +2520,10 @@ msgstr ""
 msgid "Whenever a creature dies, that creature's controller may draw a card."
 msgstr ""
 
-# cf0a0d7a2f1244daacf33ecd2c1243bb
 #: ../../C13.rst:806
-msgid "Foster"
+msgid ""
+":mtgtip:`Foster<https://img.scryfall.com/cards/border_crop/en/c13/146.jpg?"
+"1517813031|https://scryfall.com/card/c13/146/foster?utm_source=api>`"
 msgstr ""
 
 # cc47664ab2b0469cb9934cf46d9a8957
@@ -2286,9 +2534,11 @@ msgid ""
 "Put that card into your hand and the rest into your graveyard."
 msgstr ""
 
-# e68755b52ec742b7ae11d0c73a0370d0
 #: ../../C13.rst:810
-msgid "Grazing Gladehart"
+msgid ""
+":mtgtip:`Grazing Gladehart<https://img.scryfall.com/cards/border_crop/en/"
+"c13/147.jpg?1517813031|https://scryfall.com/card/c13/147/grazing-gladehart?"
+"utm_source=api>`"
 msgstr ""
 
 # 9f1a23bcef4e448f9115e1e814f62242
@@ -2300,14 +2550,17 @@ msgstr ""
 "Lądowanie — Ilekroć ląd wchodzi na pole walki pod twoim władaniem, możesz "
 "zyskać 2 życia."
 
-# 7ba2b1ab2e2648b59fdb65d1aaab29dd
 #: ../../C13.rst:814
-msgid "Harmonize"
+msgid ""
+":mtgtip:`Harmonize<https://img.scryfall.com/cards/border_crop/en/c13/148.jpg?"
+"1517813031|https://scryfall.com/card/c13/148/harmonize?utm_source=api>`"
 msgstr ""
 
-# 81983a0d78c9486aabea1e12aee768c5
 #: ../../C13.rst:818
-msgid "Hua Tuo, Honored Physician"
+msgid ""
+":mtgtip:`Hua Tuo, Honored Physician<https://img.scryfall.com/cards/"
+"border_crop/en/c13/149.jpg?1517813031|https://scryfall.com/card/c13/149/hua-"
+"tuo-honored-physician?utm_source=api>`"
 msgstr ""
 
 # 95440fdbc5784cd79fa6647db6e6db2b
@@ -2317,9 +2570,11 @@ msgid ""
 "Activate this ability only during your turn, before attackers are declared."
 msgstr ""
 
-# 00fe45a2f8b149919b866c329550c7ac
 #: ../../C13.rst:824
-msgid "Hunted Troll"
+msgid ""
+":mtgtip:`Hunted Troll<https://img.scryfall.com/cards/border_crop/en/c13/150."
+"jpg?1517813031|https://scryfall.com/card/c13/150/hunted-troll?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:821
@@ -2333,18 +2588,21 @@ msgstr ""
 msgid "|mana_g|: Regenerate Hunted Troll."
 msgstr ""
 
-# 61f80c15963a43759f6aad2695331c02
 #: ../../C13.rst:828
-msgid "Jade Mage"
+msgid ""
+":mtgtip:`Jade Mage<https://img.scryfall.com/cards/border_crop/en/c13/151.jpg?"
+"1517813031|https://scryfall.com/card/c13/151/jade-mage?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:827
 msgid "|mana_2|\\ |mana_g|: Create a 1/1 green Saproling creature token."
 msgstr ""
 
-# 8040f130a02d47799ea8d04580640911
 #: ../../C13.rst:844
-msgid "Kazandu Tuskcaller"
+msgid ""
+":mtgtip:`Kazandu Tuskcaller<https://img.scryfall.com/cards/border_crop/en/"
+"c13/152.jpg?1517813031|https://scryfall.com/card/c13/152/kazandu-tuskcaller?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:831
@@ -2377,9 +2635,10 @@ msgstr ""
 msgid "|tap|: Create two 3/3 green Elephant creature tokens."
 msgstr ""
 
-# 0802668627614cf2a24c201ad54d8ba5
 #: ../../C13.rst:850
-msgid "Krosan Grip"
+msgid ""
+":mtgtip:`Krosan Grip<https://img.scryfall.com/cards/border_crop/en/c13/153."
+"jpg?1517813031|https://scryfall.com/card/c13/153/krosan-grip?utm_source=api>`"
 msgstr ""
 
 # 4fa0d2e113bd4a0d964fbae60dd83e0a
@@ -2388,9 +2647,11 @@ msgstr ""
 msgid "Destroy target artifact or enchantment."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
-# 2ed67070fb764a32a01fd2dfceb62591
 #: ../../C13.rst:856
-msgid "Krosan Tusker"
+msgid ""
+":mtgtip:`Krosan Tusker<https://img.scryfall.com/cards/border_crop/en/c13/154."
+"jpg?1517813031|https://scryfall.com/card/c13/154/krosan-tusker?"
+"utm_source=api>`"
 msgstr ""
 
 # 1c8628bff9574ccf825b011f0469122b
@@ -2415,9 +2676,11 @@ msgstr ""
 "bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
 "swojej ręki, a następnie przetasować twoją bibliotekę."
 
-# 685df334baf44c598940ac20020132a1
 #: ../../C13.rst:862
-msgid "Krosan Warchief"
+msgid ""
+":mtgtip:`Krosan Warchief<https://img.scryfall.com/cards/border_crop/en/"
+"c13/155.jpg?1517813031|https://scryfall.com/card/c13/155/krosan-warchief?"
+"utm_source=api>`"
 msgstr ""
 
 # 04677a42a05b4561b905bdcd326a90d1
@@ -2429,9 +2692,11 @@ msgstr ""
 msgid "|mana_1|\\ |mana_g|: Regenerate target Beast."
 msgstr ""
 
-# 8577498a19d6480398cae2ff3faedb2f
 #: ../../C13.rst:868
-msgid "Mold Shambler"
+msgid ""
+":mtgtip:`Mold Shambler<https://img.scryfall.com/cards/border_crop/en/c13/156."
+"jpg?1517813031|https://scryfall.com/card/c13/156/mold-shambler?"
+"utm_source=api>`"
 msgstr ""
 
 # 0d7b8d76cf5a4d039279d93302d665c0
@@ -2451,9 +2716,11 @@ msgid ""
 "noncreature permanent."
 msgstr ""
 
-# fbbe7b473da44c00a0010c2d874ae728
 #: ../../C13.rst:874
-msgid "Naya Soulbeast"
+msgid ""
+":mtgtip:`Naya Soulbeast<https://img.scryfall.com/cards/border_crop/en/"
+"c13/157.jpg?1517813031|https://scryfall.com/card/c13/157/naya-soulbeast?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:871
@@ -2471,9 +2738,10 @@ msgstr ""
 msgid "Trample"
 msgstr "Tratowanie"
 
-# d519e1a06a6b4f12864d260e5b015cfa
 #: ../../C13.rst:878
-msgid "Night Soil"
+msgid ""
+":mtgtip:`Night Soil<https://img.scryfall.com/cards/border_crop/en/c13/158."
+"jpg?1517813031|https://scryfall.com/card/c13/158/night-soil?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:877
@@ -2482,9 +2750,11 @@ msgid ""
 "green Saproling creature token."
 msgstr ""
 
-# f6ad10e8e7ef4e05a34ee893045b3740
 #: ../../C13.rst:888
-msgid "One Dozen Eyes"
+msgid ""
+":mtgtip:`One Dozen Eyes<https://img.scryfall.com/cards/border_crop/en/"
+"c13/159.jpg?1517813031|https://scryfall.com/card/c13/159/one-dozen-eyes?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:881 ../../C13.rst:999 ../../C13.rst:1015 ../../C13.rst:1051
@@ -2507,9 +2777,11 @@ msgid ""
 "cost.)"
 msgstr ""
 
-# dfa42a904201451a94b09a3616b23469
 #: ../../C13.rst:898
-msgid "Phantom Nantuko"
+msgid ""
+":mtgtip:`Phantom Nantuko<https://img.scryfall.com/cards/border_crop/en/"
+"c13/160.jpg?1517813031|https://scryfall.com/card/c13/160/phantom-nantuko?"
+"utm_source=api>`"
 msgstr ""
 
 # 5a5bebec206f48e6af1c2ac5e874492d
@@ -2529,9 +2801,11 @@ msgstr ""
 msgid "|tap|: Put a +1/+1 counter on Phantom Nantuko."
 msgstr ""
 
-# a0d24589b2e0455ab360fcab804b53bb
 #: ../../C13.rst:904
-msgid "Presence of Gond"
+msgid ""
+":mtgtip:`Presence of Gond<https://img.scryfall.com/cards/border_crop/en/"
+"c13/161.jpg?1517813031|https://scryfall.com/card/c13/161/presence-of-gond?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:903
@@ -2540,9 +2814,11 @@ msgid ""
 "token.\""
 msgstr ""
 
-# 577b47cf091c45dab6a20d0f4b52d6ef
 #: ../../C13.rst:910
-msgid "Primal Vigor"
+msgid ""
+":mtgtip:`Primal Vigor<https://img.scryfall.com/cards/border_crop/en/c13/162."
+"jpg?1517813031|https://scryfall.com/card/c13/162/primal-vigor?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:907
@@ -2557,10 +2833,12 @@ msgid ""
 "+1 counters are put on that creature instead."
 msgstr ""
 
-# c5988b0069bb409a93ef5e2769ca7d45
 #: ../../C13.rst:920
-msgid "Rain of Thorns"
-msgstr "Rain of Thorns (Deszcz Cierni)"
+msgid ""
+":mtgtip:`Rain of Thorns<https://img.scryfall.com/cards/border_crop/en/"
+"c13/163.jpg?1517813031|https://scryfall.com/card/c13/163/rain-of-thorns?"
+"utm_source=api>`"
+msgstr ""
 
 #: ../../C13.rst:913
 msgid "Choose one or more —"
@@ -2579,9 +2857,11 @@ msgstr "Zniszcz wskazany urok."
 msgid "Destroy target land."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
-# 011905f0d3524d7ba53db94322da2147
 #: ../../C13.rst:926
-msgid "Rampaging Baloths"
+msgid ""
+":mtgtip:`Rampaging Baloths<https://img.scryfall.com/cards/border_crop/en/"
+"c13/164.jpg?1517813031|https://scryfall.com/card/c13/164/rampaging-baloths?"
+"utm_source=api>`"
 msgstr ""
 
 # 32d70781d5c54b4eb7c1bf0af512b476
@@ -2594,9 +2874,11 @@ msgstr ""
 "Lądowanie — Ilekroć ląd wchodzi na pole walki pod twoim władaniem, możesz "
 "położyć na polu walki żeton zielonego stwora Bestia 4/4."
 
-# e8b92cfa2abc4fbc9ffb4f24e57be8d5
 #: ../../C13.rst:930
-msgid "Ravenous Baloth"
+msgid ""
+":mtgtip:`Ravenous Baloth<https://img.scryfall.com/cards/border_crop/en/"
+"c13/165.jpg?1517813031|https://scryfall.com/card/c13/165/ravenous-baloth?"
+"utm_source=api>`"
 msgstr ""
 
 # e921e23350f440a6862a52ecf16229d3
@@ -2604,9 +2886,11 @@ msgstr ""
 msgid "Sacrifice a Beast: You gain 4 life."
 msgstr ""
 
-# 3684785e064c448486380704a34c2f9b
 #: ../../C13.rst:934
-msgid "Reincarnation"
+msgid ""
+":mtgtip:`Reincarnation<https://img.scryfall.com/cards/border_crop/en/c13/166."
+"jpg?1517813031|https://scryfall.com/card/c13/166/reincarnation?"
+"utm_source=api>`"
 msgstr ""
 
 # b66291687eba42bfab47302165fa6ece
@@ -2617,9 +2901,10 @@ msgid ""
 "creature's owner."
 msgstr ""
 
-# 8fac7b328fab42eb8381c648a182e4e7
 #: ../../C13.rst:938
-msgid "Restore"
+msgid ""
+":mtgtip:`Restore<https://img.scryfall.com/cards/border_crop/en/c13/167.jpg?"
+"1517813031|https://scryfall.com/card/c13/167/restore?utm_source=api>`"
 msgstr ""
 
 # 5e6b2506de7549f1bd8a4cc3f8d736e8
@@ -2629,9 +2914,11 @@ msgid ""
 "control."
 msgstr ""
 
-# 5fee2cbcc4b24897b3bdef5234d028af
 #: ../../C13.rst:942
-msgid "Sakura-Tribe Elder"
+msgid ""
+":mtgtip:`Sakura-Tribe Elder<https://img.scryfall.com/cards/border_crop/en/"
+"c13/168.jpg?1517813031|https://scryfall.com/card/c13/168/sakura-tribe-elder?"
+"utm_source=api>`"
 msgstr ""
 
 # 27ae2f27cf874afa9b06c252325a2304
@@ -2641,9 +2928,11 @@ msgid ""
 "that card onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
-# d97bf2b4963e47a0b4ac1404bc67aed7
 #: ../../C13.rst:948
-msgid "Silklash Spider"
+msgid ""
+":mtgtip:`Silklash Spider<https://img.scryfall.com/cards/border_crop/en/"
+"c13/169.jpg?1517813031|https://scryfall.com/card/c13/169/silklash-spider?"
+"utm_source=api>`"
 msgstr ""
 
 # a3692375ad8447e2873e3ff4d10cd182
@@ -2657,14 +2946,18 @@ msgid ""
 "creature with flying."
 msgstr ""
 
-# c0f559ff642d434d9b12f871bcb36107
 #: ../../C13.rst:954
-msgid "Slice in Twain"
-msgstr "Slice in Twain"
+msgid ""
+":mtgtip:`Slice in Twain<https://img.scryfall.com/cards/border_crop/en/"
+"c13/170.jpg?1517813031|https://scryfall.com/card/c13/170/slice-in-twain?"
+"utm_source=api>`"
+msgstr ""
 
-# a0b8d6dd513f4281ba39050ee0c9c313
 #: ../../C13.rst:960
-msgid "Spawning Grounds"
+msgid ""
+":mtgtip:`Spawning Grounds<https://img.scryfall.com/cards/border_crop/en/"
+"c13/171.jpg?1517813031|https://scryfall.com/card/c13/171/spawning-grounds?"
+"utm_source=api>`"
 msgstr ""
 
 # 8ae005ab13744e06a5f045f9f085bf35
@@ -2679,9 +2972,11 @@ msgid ""
 "trample.\""
 msgstr ""
 
-# 66921ac352894c6d8a92d6d1f458d1a0
 #: ../../C13.rst:964
-msgid "Spoils of Victory"
+msgid ""
+":mtgtip:`Spoils of Victory<https://img.scryfall.com/cards/border_crop/en/"
+"c13/172.jpg?1517813031|https://scryfall.com/card/c13/172/spoils-of-victory?"
+"utm_source=api>`"
 msgstr ""
 
 # 1ff172dbfc8e44a89b4e03499560a378
@@ -2691,9 +2986,11 @@ msgid ""
 "and put that card onto the battlefield. Then shuffle your library."
 msgstr ""
 
-# 82c39f97022f49468c63ff94a91864e9
 #: ../../C13.rst:970
-msgid "Sprouting Vines"
+msgid ""
+":mtgtip:`Sprouting Vines<https://img.scryfall.com/cards/border_crop/en/"
+"c13/173.jpg?1517813031|https://scryfall.com/card/c13/173/sprouting-vines?"
+"utm_source=api>`"
 msgstr ""
 
 # b83d92045d754fe6a2824c8578330f23
@@ -2710,9 +3007,11 @@ msgid ""
 "turn.)"
 msgstr ""
 
-# 00b898a5fb1d470594e07fe9558d42a0
 #: ../../C13.rst:974
-msgid "Tempt with Discovery"
+msgid ""
+":mtgtip:`Tempt with Discovery<https://img.scryfall.com/cards/border_crop/en/"
+"c13/174.jpg?1517813031|https://scryfall.com/card/c13/174/tempt-with-"
+"discovery?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:973
@@ -2724,9 +3023,11 @@ msgid ""
 "each player who searched a library this way shuffles it."
 msgstr ""
 
-# e7b5543054de4e8481bd277bc977e44b
 #: ../../C13.rst:980
-msgid "Walker of the Grove"
+msgid ""
+":mtgtip:`Walker of the Grove<https://img.scryfall.com/cards/border_crop/en/"
+"c13/175.jpg?1517813031|https://scryfall.com/card/c13/175/walker-of-the-grove?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:977
@@ -2742,7 +3043,10 @@ msgid ""
 msgstr ""
 
 #: ../../C13.rst:984
-msgid "Aethermage's Touch"
+msgid ""
+":mtgtip:`Aethermage's Touch<https://img.scryfall.com/cards/border_crop/en/"
+"c13/176.jpg?1517813031|https://scryfall.com/card/c13/176/aethermages-touch?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:983
@@ -2753,9 +3057,11 @@ msgid ""
 "cards revealed this way on the bottom of your library in any order."
 msgstr ""
 
-# 2dd57f7de57746f891dc47f4503ca5a3
 #: ../../C13.rst:990
-msgid "Baleful Strix"
+msgid ""
+":mtgtip:`Baleful Strix<https://img.scryfall.com/cards/border_crop/en/c13/177."
+"jpg?1517813031|https://scryfall.com/card/c13/177/baleful-strix?"
+"utm_source=api>`"
 msgstr ""
 
 # 30da6bd97c794b1db2e0b944498444b6
@@ -2768,9 +3074,11 @@ msgstr "Latanie, dotyk śmierci"
 msgid "When Baleful Strix enters the battlefield, draw a card."
 msgstr "Kiedy Baleful Strix wchodzi na pole walki, dobierz kartę."
 
-# bb9066ae3b0d4cdb8518798a7d1b5095
 #: ../../C13.rst:996
-msgid "Behemoth Sledge"
+msgid ""
+":mtgtip:`Behemoth Sledge<https://img.scryfall.com/cards/border_crop/en/"
+"c13/178.jpg?1517813031|https://scryfall.com/card/c13/178/behemoth-sledge?"
+"utm_source=api>`"
 msgstr ""
 
 # 3791fe90945e4dcdaa67a3ebfeaf4c33
@@ -2785,9 +3093,10 @@ msgstr "Ekwipowany stwór dostaje +2/+2 oraz ma więź życia oraz tratowanie."
 msgid "Equip |mana_3|"
 msgstr "Wyposaż |mana_3|"
 
-# 0361f542d9314692a8ce25d12c92478f
 #: ../../C13.rst:1006
-msgid "Boros Charm"
+msgid ""
+":mtgtip:`Boros Charm<https://img.scryfall.com/cards/border_crop/en/c13/179."
+"jpg?1517813031|https://scryfall.com/card/c13/179/boros-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1001
@@ -2802,9 +3111,11 @@ msgstr ""
 msgid "Target creature gains double strike until end of turn."
 msgstr ""
 
-# a064f992166a4f5da2d8e2a89af0da65
 #: ../../C13.rst:1012
-msgid "Charnelhoard Wurm"
+msgid ""
+":mtgtip:`Charnelhoard Wurm<https://img.scryfall.com/cards/border_crop/en/"
+"c13/180.jpg?1517813031|https://scryfall.com/card/c13/180/charnelhoard-wurm?"
+"utm_source=api>`"
 msgstr ""
 
 # 7556ff7b477b407f975d9f6f40a4ad86
@@ -2814,18 +3125,22 @@ msgid ""
 "target card from your graveyard to your hand."
 msgstr ""
 
-# 51d4321d89c14c03819ebb37d603c5a5
 #: ../../C13.rst:1022
-msgid "Crosis's Charm"
+msgid ""
+":mtgtip:`Crosis's Charm<https://img.scryfall.com/cards/border_crop/en/"
+"c13/181.jpg?1517813031|https://scryfall.com/card/c13/181/crosiss-charm?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1017 ../../C13.rst:1083
 msgid "Return target permanent to its owner's hand."
 msgstr ""
 
-# a5649b3217814484b7840b18d658b62d
 #: ../../C13.rst:1026
-msgid "Cruel Ultimatum"
+msgid ""
+":mtgtip:`Cruel Ultimatum<https://img.scryfall.com/cards/border_crop/en/"
+"c13/182.jpg?1517813031|https://scryfall.com/card/c13/182/cruel-ultimatum?"
+"utm_source=api>`"
 msgstr ""
 
 # 58622c331a1346b0ad853f82eabb605a
@@ -2836,18 +3151,21 @@ msgid ""
 "three cards, then gain 5 life."
 msgstr ""
 
-# c69cc6e5cbc642f4b8c12fa9017e0e86
 #: ../../C13.rst:1030
-msgid "Death Grasp"
+msgid ""
+":mtgtip:`Death Grasp<https://img.scryfall.com/cards/border_crop/en/c13/183."
+"jpg?1517813031|https://scryfall.com/card/c13/183/death-grasp?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1029
 msgid "Death Grasp deals X damage to any target. You gain X life."
 msgstr ""
 
-# 5be2fb39fa784d76b202985590458ad3
 #: ../../C13.rst:1036
-msgid "Deathbringer Thoctar"
+msgid ""
+":mtgtip:`Deathbringer Thoctar<https://img.scryfall.com/cards/border_crop/en/"
+"c13/184.jpg?1517813031|https://scryfall.com/card/c13/184/deathbringer-"
+"thoctar?utm_source=api>`"
 msgstr ""
 
 # 90be3d1e946342ceb885caf255a0c5a1
@@ -2863,9 +3181,11 @@ msgid ""
 "1 damage to any target."
 msgstr ""
 
-# be89edb1d09b4a119794d9114af7e37b
 #: ../../C13.rst:1040
-msgid "Deepfire Elemental"
+msgid ""
+":mtgtip:`Deepfire Elemental<https://img.scryfall.com/cards/border_crop/en/"
+"c13/185.jpg?1517813031|https://scryfall.com/card/c13/185/deepfire-elemental?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1039
@@ -2874,9 +3194,11 @@ msgid ""
 "converted mana cost X."
 msgstr ""
 
-# bf3268e1efb8409d9096a1cadafd5876
 #: ../../C13.rst:1048
-msgid "Derevi, Empyrial Tactician"
+msgid ""
+":mtgtip:`Derevi, Empyrial Tactician<https://img.scryfall.com/cards/"
+"border_crop/en/c13/186.jpg?1517813031|https://scryfall.com/card/c13/186/"
+"derevi-empyrial-tactician?utm_source=api>`"
 msgstr ""
 
 # aa7fd9e5de774e13a5af081a544340e8
@@ -2893,9 +3215,11 @@ msgid ""
 "from the command zone."
 msgstr ""
 
-# c4d6b17122594002b3cba8cf696692d8
 #: ../../C13.rst:1058
-msgid "Dromar's Charm"
+msgid ""
+":mtgtip:`Dromar's Charm<https://img.scryfall.com/cards/border_crop/en/"
+"c13/187.jpg?1517813031|https://scryfall.com/card/c13/187/dromars-charm?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1053
@@ -2906,9 +3230,11 @@ msgstr ""
 msgid "Target creature gets -2/-2 until end of turn."
 msgstr ""
 
-# 454c36e06b7c4f8199c13958e4efb2fc
 #: ../../C13.rst:1062
-msgid "Fiery Justice"
+msgid ""
+":mtgtip:`Fiery Justice<https://img.scryfall.com/cards/border_crop/en/c13/188."
+"jpg?1517813031|https://scryfall.com/card/c13/188/fiery-justice?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1061
@@ -2917,9 +3243,11 @@ msgid ""
 "targets. Target opponent gains 5 life."
 msgstr ""
 
-# 0e42ceb3f6584f1e9dffaf3232de4854
 #: ../../C13.rst:1068
-msgid "Filigree Angel"
+msgid ""
+":mtgtip:`Filigree Angel<https://img.scryfall.com/cards/border_crop/en/"
+"c13/189.jpg?1517813031|https://scryfall.com/card/c13/189/filigree-angel?"
+"utm_source=api>`"
 msgstr ""
 
 # da7510ebc22e4c5caa4cf4c4e61041cc
@@ -2929,9 +3257,11 @@ msgid ""
 "artifact you control."
 msgstr ""
 
-# c5e7c60b3c7c408182c256e49ae783d6
 #: ../../C13.rst:1074
-msgid "Fires of Yavimaya"
+msgid ""
+":mtgtip:`Fires of Yavimaya<https://img.scryfall.com/cards/border_crop/en/"
+"c13/190.jpg?1517813031|https://scryfall.com/card/c13/190/fires-of-yavimaya?"
+"utm_source=api>`"
 msgstr ""
 
 # da4445e2b22e4a49a5fa60e9b757881c
@@ -2945,9 +3275,11 @@ msgid ""
 "Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn."
 msgstr ""
 
-# 4fef46791ca0455cb3d80981816d1877
 #: ../../C13.rst:1078
-msgid "Gahiji, Honored One"
+msgid ""
+":mtgtip:`Gahiji, Honored One<https://img.scryfall.com/cards/border_crop/en/"
+"c13/191.jpg?1517813031|https://scryfall.com/card/c13/191/gahiji-honored-one?"
+"utm_source=api>`"
 msgstr ""
 
 # c872825aa39a46f9b9ce48e800630682
@@ -2957,9 +3289,11 @@ msgid ""
 "opponent controls, that creature gets +2/+0 until end of turn."
 msgstr ""
 
-# 57e76fd7f4cf4406aa7f6a6a2bfd8d79
 #: ../../C13.rst:1088
-msgid "Grixis Charm"
+msgid ""
+":mtgtip:`Grixis Charm<https://img.scryfall.com/cards/border_crop/en/c13/192."
+"jpg?1517813031|https://scryfall.com/card/c13/192/grixis-charm?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1085
@@ -2971,9 +3305,10 @@ msgstr ""
 msgid "Creatures you control get +2/+0 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +2/+0 do końca tury."
 
-# 7279bb8779224d06866e5cf491013c9e
 #: ../../C13.rst:1098
-msgid "Hull Breach"
+msgid ""
+":mtgtip:`Hull Breach<https://img.scryfall.com/cards/border_crop/en/c13/193."
+"jpg?1517813031|https://scryfall.com/card/c13/193/hull-breach?utm_source=api>`"
 msgstr ""
 
 # 4fa0d2e113bd4a0d964fbae60dd83e0a
@@ -2983,9 +3318,11 @@ msgstr ""
 msgid "Destroy target artifact and target enchantment."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
-# 2cb74d568cb74bb0bc6ff3979dbb66aa
 #: ../../C13.rst:1106
-msgid "Jeleva, Nephalia's Scourge"
+msgid ""
+":mtgtip:`Jeleva, Nephalia's Scourge<https://img.scryfall.com/cards/"
+"border_crop/en/c13/194.jpg?1517813031|https://scryfall.com/card/c13/194/"
+"jeleva-nephalias-scourge?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1103
@@ -3002,9 +3339,10 @@ msgid ""
 "it without paying its mana cost."
 msgstr ""
 
-# 8a07572530f044c78fcc8056435c17b7
 #: ../../C13.rst:1116
-msgid "Jund Charm"
+msgid ""
+":mtgtip:`Jund Charm<https://img.scryfall.com/cards/border_crop/en/c13/195."
+"jpg?1517813031|https://scryfall.com/card/c13/195/jund-charm?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1111
@@ -3022,9 +3360,11 @@ msgstr "Klęska Głodu zadaje 3 obrażenia każdemu stworowi i każdemu graczowi
 msgid "Put two +1/+1 counters on target creature."
 msgstr "Umieść dwa znaczniki +1/+1 na wskazanym stworze."
 
-# 36d2a4669dff41d1b31e7f832c140fe3
 #: ../../C13.rst:1122
-msgid "Leafdrake Roost"
+msgid ""
+":mtgtip:`Leafdrake Roost<https://img.scryfall.com/cards/border_crop/en/"
+"c13/196.jpg?1517813031|https://scryfall.com/card/c13/196/leafdrake-roost?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1121
@@ -3033,9 +3373,11 @@ msgid ""
 "Drake creature token with flying.\""
 msgstr ""
 
-# a5a8ae24a0784d70b20fae6cf1f6f495
 #: ../../C13.rst:1126
-msgid "Lim-Dûl's Vault"
+msgid ""
+":mtgtip:`Lim-Dûl's Vault<https://img.scryfall.com/cards/border_crop/en/"
+"c13/197.jpg?1517813031|https://scryfall.com/card/c13/197/lim-d%C3%BBls-vault?"
+"utm_source=api>`"
 msgstr ""
 
 # 67ec9b3c93ff4707bfad15c75646c3e2
@@ -3047,9 +3389,11 @@ msgid ""
 "and put the last cards you looked at this way on top of it in any order."
 msgstr ""
 
-# b3fb2484cdc8407fb6c48688d667ee07
 #: ../../C13.rst:1138
-msgid "Marath, Will of the Wild"
+msgid ""
+":mtgtip:`Marath, Will of the Wild<https://img.scryfall.com/cards/border_crop/"
+"en/c13/198.jpg?1517813031|https://scryfall.com/card/c13/198/marath-will-of-"
+"the-wild?utm_source=api>`"
 msgstr ""
 
 # 08ab4d4024c44b5ca1a3285145af0b47
@@ -3075,9 +3419,11 @@ msgstr ""
 msgid "Create an X/X green Elemental creature token. X can't be 0."
 msgstr ""
 
-# b67e7951653a44f09114977782f4a5cf
 #: ../../C13.rst:1142
-msgid "Mayael the Anima"
+msgid ""
+":mtgtip:`Mayael the Anima<https://img.scryfall.com/cards/border_crop/en/"
+"c13/199.jpg?1517813031|https://scryfall.com/card/c13/199/mayael-the-anima?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1141
@@ -3088,9 +3434,10 @@ msgid ""
 "in any order."
 msgstr ""
 
-# f631ea78ca044ed5a98da63cafab7b41
 #: ../../C13.rst:1152
-msgid "Naya Charm"
+msgid ""
+":mtgtip:`Naya Charm<https://img.scryfall.com/cards/border_crop/en/c13/200."
+"jpg?1517813031|https://scryfall.com/card/c13/200/naya-charm?utm_source=api>`"
 msgstr ""
 
 # 21e2b9ddc9a74de99faf47af8a203c7b
@@ -3111,9 +3458,11 @@ msgstr ""
 msgid "Tap all creatures target player controls."
 msgstr ""
 
-# 7c95f8eccee942c3acfd197e81e3d2e9
 #: ../../C13.rst:1158
-msgid "Nekusar, the Mindrazer"
+msgid ""
+":mtgtip:`Nekusar, the Mindrazer<https://img.scryfall.com/cards/border_crop/"
+"en/c13/201.jpg?1517813031|https://scryfall.com/card/c13/201/nekusar-the-"
+"mindrazer?utm_source=api>`"
 msgstr ""
 
 # 08abfec162da4087baa7434820d60c2d
@@ -3131,11 +3480,12 @@ msgid ""
 "that player."
 msgstr ""
 
-# 53916f7fde01458088c04e48c8502d8b
 #: ../../C13.rst:1164
-#, fuzzy
-msgid "Nivix Guildmage"
-msgstr "Nivix Guildmage"
+msgid ""
+":mtgtip:`Nivix Guildmage<https://img.scryfall.com/cards/border_crop/en/"
+"c13/202.jpg?1517813031|https://scryfall.com/card/c13/202/nivix-guildmage?"
+"utm_source=api>`"
+msgstr ""
 
 # 1c8628bff9574ccf825b011f0469122b
 #: ../../C13.rst:1161
@@ -3151,9 +3501,11 @@ msgid ""
 "control. You may choose new targets for the copy."
 msgstr ""
 
-# 9dbf8f69f5484327bf88323729bd6a6f
 #: ../../C13.rst:1172
-msgid "Oloro, Ageless Ascetic"
+msgid ""
+":mtgtip:`Oloro, Ageless Ascetic<https://img.scryfall.com/cards/border_crop/"
+"en/c13/203.jpg?1517813031|https://scryfall.com/card/c13/203/oloro-ageless-"
+"ascetic?utm_source=api>`"
 msgstr ""
 
 # 6eed4becfc92410ba77e1c5e3bb162dd
@@ -3175,9 +3527,11 @@ msgid ""
 "zone, you gain 2 life."
 msgstr ""
 
-# cbf50ec68178403d8c771a29e35888b2
 #: ../../C13.rst:1180
-msgid "Prossh, Skyraider of Kher"
+msgid ""
+":mtgtip:`Prossh, Skyraider of Kher<https://img.scryfall.com/cards/"
+"border_crop/en/c13/204.jpg?1517813031|https://scryfall.com/card/c13/204/"
+"prossh-skyraider-of-kher?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1175
@@ -3192,9 +3546,11 @@ msgid ""
 "of turn."
 msgstr ""
 
-# fd00e94db3e148a295aee7dcae87bfe5
 #: ../../C13.rst:1184
-msgid "Rakeclaw Gargantuan"
+msgid ""
+":mtgtip:`Rakeclaw Gargantuan<https://img.scryfall.com/cards/border_crop/en/"
+"c13/205.jpg?1517813031|https://scryfall.com/card/c13/205/rakeclaw-gargantuan?"
+"utm_source=api>`"
 msgstr ""
 
 # 3752095fbe4a4a23ab6e62da2718e47d
@@ -3204,9 +3560,11 @@ msgid ""
 "end of turn."
 msgstr ""
 
-# 79e7d8e4542f488c97a7183e7c2fd4f9
 #: ../../C13.rst:1190
-msgid "Roon of the Hidden Realm"
+msgid ""
+":mtgtip:`Roon of the Hidden Realm<https://img.scryfall.com/cards/border_crop/"
+"en/c13/206.jpg?1517813031|https://scryfall.com/card/c13/206/roon-of-the-"
+"hidden-realm?utm_source=api>`"
 msgstr ""
 
 # 72eca7f228a4416eae3e42fb6953d20e
@@ -3221,9 +3579,11 @@ msgid ""
 "battlefield under its owner's control at the beginning of the next end step."
 msgstr ""
 
-# 2e00699d1d2c4831aa728d430eeb6b93
 #: ../../C13.rst:1196
-msgid "Rubinia Soulsinger"
+msgid ""
+":mtgtip:`Rubinia Soulsinger<https://img.scryfall.com/cards/border_crop/en/"
+"c13/207.jpg?1517813031|https://scryfall.com/card/c13/207/rubinia-soulsinger?"
+"utm_source=api>`"
 msgstr ""
 
 # f2aa04a332eb4254a00566a9f391cc4f
@@ -3238,9 +3598,11 @@ msgid ""
 "and Rubinia remains tapped."
 msgstr ""
 
-# 03d1b493e24d4dc3b5426c6d32b8d5a6
 #: ../../C13.rst:1200
-msgid "Savage Twister"
+msgid ""
+":mtgtip:`Savage Twister<https://img.scryfall.com/cards/border_crop/en/"
+"c13/208.jpg?1517813031|https://scryfall.com/card/c13/208/savage-twister?"
+"utm_source=api>`"
 msgstr ""
 
 # cf8d1fdc558944b8a32b33437ffdb31a
@@ -3248,9 +3610,11 @@ msgstr ""
 msgid "Savage Twister deals X damage to each creature."
 msgstr ""
 
-# b0024f858466495dbf1d6e615ddac0f0
 #: ../../C13.rst:1204
-msgid "Scarland Thrinax"
+msgid ""
+":mtgtip:`Scarland Thrinax<https://img.scryfall.com/cards/border_crop/en/"
+"c13/209.jpg?1517813031|https://scryfall.com/card/c13/209/scarland-thrinax?"
+"utm_source=api>`"
 msgstr ""
 
 # 0ce9a569281c4846907ae39684736b39
@@ -3258,9 +3622,11 @@ msgstr ""
 msgid "Sacrifice a creature: Put a +1/+1 counter on Scarland Thrinax."
 msgstr ""
 
-# 2a6c0dc43cc24c0db2e337b9bc5c97c9
 #: ../../C13.rst:1208
-msgid "Sek'Kuar, Deathkeeper"
+msgid ""
+":mtgtip:`Sek'Kuar, Deathkeeper<https://img.scryfall.com/cards/border_crop/en/"
+"c13/210.jpg?1517813031|https://scryfall.com/card/c13/210/sekkuar-deathkeeper?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1207
@@ -3269,11 +3635,12 @@ msgid ""
 "red Graveborn creature token with haste."
 msgstr ""
 
-# 7711a50a374940ceb5e8a89f76d6896f
 #: ../../C13.rst:1218
-#, fuzzy
-msgid "Selesnya Charm"
-msgstr "Selesnya Charm"
+msgid ""
+":mtgtip:`Selesnya Charm<https://img.scryfall.com/cards/border_crop/en/"
+"c13/211.jpg?1517813031|https://scryfall.com/card/c13/211/selesnya-charm?"
+"utm_source=api>`"
+msgstr ""
 
 # 3791fe90945e4dcdaa67a3ebfeaf4c33
 #: ../../C13.rst:1213
@@ -3293,9 +3660,11 @@ msgstr ""
 "Kiedy Knightly Valor wchodzi na pole walki, stwórz żeton białego stwora "
 "Rycerz 2/2 z czujnością."
 
-# c62141789031499bafb5ce0131d5ea12
 #: ../../C13.rst:1224
-msgid "Sharuum the Hegemon"
+msgid ""
+":mtgtip:`Sharuum the Hegemon<https://img.scryfall.com/cards/border_crop/en/"
+"c13/212.jpg?1517813031|https://scryfall.com/card/c13/212/sharuum-the-hegemon?"
+"utm_source=api>`"
 msgstr ""
 
 # e077b47ebaf547a382b49c7a3e664189
@@ -3305,9 +3674,11 @@ msgid ""
 "artifact card from your graveyard to the battlefield."
 msgstr ""
 
-# 50ce4ac57fe54fb7b8e7d954d16f53b9
 #: ../../C13.rst:1232
-msgid "Shattergang Brothers"
+msgid ""
+":mtgtip:`Shattergang Brothers<https://img.scryfall.com/cards/border_crop/en/"
+"c13/213.jpg?1517813031|https://scryfall.com/card/c13/213/shattergang-"
+"brothers?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1227
@@ -3328,9 +3699,11 @@ msgid ""
 "an enchantment."
 msgstr ""
 
-# 4017e76b16fb4f9ab65066fe41334c65
 #: ../../C13.rst:1238
-msgid "Skyward Eye Prophets"
+msgid ""
+":mtgtip:`Skyward Eye Prophets<https://img.scryfall.com/cards/border_crop/en/"
+"c13/214.jpg?1517813031|https://scryfall.com/card/c13/214/skyward-eye-"
+"prophets?utm_source=api>`"
 msgstr ""
 
 # db0114b892dd4b13a055829992cab0ec
@@ -3345,9 +3718,11 @@ msgid ""
 "the battlefield. Otherwise, put it into your hand."
 msgstr ""
 
-# 05d62ab6eed44e3abf5428159fd6842a
 #: ../../C13.rst:1246
-msgid "Soul Manipulation"
+msgid ""
+":mtgtip:`Soul Manipulation<https://img.scryfall.com/cards/border_crop/en/"
+"c13/215.jpg?1517813031|https://scryfall.com/card/c13/215/soul-manipulation?"
+"utm_source=api>`"
 msgstr ""
 
 # cbaed5bb64354a5ca16ed7981aa9a0f2
@@ -3363,9 +3738,11 @@ msgstr ""
 "|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
 "twojego cmentarza do twojej ręki."
 
-# 7e6c6dc5249640d881bef0f835746033
 #: ../../C13.rst:1252
-msgid "Spellbreaker Behemoth"
+msgid ""
+":mtgtip:`Spellbreaker Behemoth<https://img.scryfall.com/cards/border_crop/en/"
+"c13/216.jpg?1517813031|https://scryfall.com/card/c13/216/spellbreaker-"
+"behemoth?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1249
@@ -3377,9 +3754,11 @@ msgstr "Ten czar nie może być skontrowany."
 msgid "Creature spells you control with power 5 or greater can't be countered."
 msgstr ""
 
-# 79ddb12165c940e598ff257a068a5c88
 #: ../../C13.rst:1256
-msgid "Sphinx of the Steel Wind"
+msgid ""
+":mtgtip:`Sphinx of the Steel Wind<https://img.scryfall.com/cards/border_crop/"
+"en/c13/217.jpg?1517813031|https://scryfall.com/card/c13/217/sphinx-of-the-"
+"steel-wind?utm_source=api>`"
 msgstr ""
 
 # dfbb7c24b8fe4d52a6d8e522f460ea41
@@ -3390,9 +3769,11 @@ msgstr ""
 "Latanie, pierwszy cios, czujność, więź życia, ochrona przed czerwonym i "
 "zielonym"
 
-# e2e88050d80f45b6a2bad63b290b431d
 #: ../../C13.rst:1262
-msgid "Spinal Embrace"
+msgid ""
+":mtgtip:`Spinal Embrace<https://img.scryfall.com/cards/border_crop/en/"
+"c13/218.jpg?1517813031|https://scryfall.com/card/c13/218/spinal-embrace?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1259
@@ -3407,9 +3788,11 @@ msgid ""
 "it. If you do, you gain life equal to its toughness."
 msgstr ""
 
-# 440cae4a36e74b619dde466aaedc827a
 #: ../../C13.rst:1266
-msgid "Sprouting Thrinax"
+msgid ""
+":mtgtip:`Sprouting Thrinax<https://img.scryfall.com/cards/border_crop/en/"
+"c13/219.jpg?1517813031|https://scryfall.com/card/c13/219/sprouting-thrinax?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1265
@@ -3418,9 +3801,11 @@ msgid ""
 "tokens."
 msgstr ""
 
-# b27ce2095a524f3d82ccedc9f1b02c3d
 #: ../../C13.rst:1272
-msgid "Sydri, Galvanic Genius"
+msgid ""
+":mtgtip:`Sydri, Galvanic Genius<https://img.scryfall.com/cards/border_crop/"
+"en/c13/220.jpg?1517813031|https://scryfall.com/card/c13/220/sydri-galvanic-"
+"genius?utm_source=api>`"
 msgstr ""
 
 # d12bc18929d14176a6dc14d0282963f9
@@ -3436,9 +3821,11 @@ msgid ""
 "until end of turn."
 msgstr ""
 
-# b4b3749c853240e6af762f8c6ccfbd93
 #: ../../C13.rst:1280
-msgid "Thraximundar"
+msgid ""
+":mtgtip:`Thraximundar<https://img.scryfall.com/cards/border_crop/en/c13/221."
+"jpg?1517813031|https://scryfall.com/card/c13/221/thraximundar?"
+"utm_source=api>`"
 msgstr ""
 
 # ee273cedc34d46058beacd9b1bab2ee1
@@ -3453,19 +3840,25 @@ msgid ""
 "Thraximundar."
 msgstr ""
 
-# 83a5f59e08a74905ac5ae3ffd2d10914
 #: ../../C13.rst:1286
-msgid "Tidehollow Strix"
+msgid ""
+":mtgtip:`Tidehollow Strix<https://img.scryfall.com/cards/border_crop/en/"
+"c13/222.jpg?1517813031|https://scryfall.com/card/c13/222/tidehollow-strix?"
+"utm_source=api>`"
 msgstr ""
 
-# 567f1641cc4d4240aa003223a2bcc2fe
 #: ../../C13.rst:1290
-msgid "Tower Gargoyle"
+msgid ""
+":mtgtip:`Tower Gargoyle<https://img.scryfall.com/cards/border_crop/en/"
+"c13/223.jpg?1517813031|https://scryfall.com/card/c13/223/tower-gargoyle?"
+"utm_source=api>`"
 msgstr ""
 
-# 94f6f2598dd347259bc0113a9a22ae58
 #: ../../C13.rst:1294
-msgid "Valley Rannet"
+msgid ""
+":mtgtip:`Valley Rannet<https://img.scryfall.com/cards/border_crop/en/c13/224."
+"jpg?1517813031|https://scryfall.com/card/c13/224/valley-rannet?"
+"utm_source=api>`"
 msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
@@ -3480,11 +3873,12 @@ msgstr ""
 "bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
 "swojej ręki, a następnie przetasować twoją bibliotekę."
 
-# 1bbce600f83b4b908cb908c03d59909a
 #: ../../C13.rst:1300
-#, fuzzy
-msgid "Vizkopa Guildmage"
-msgstr "Vizkopa Guildmage"
+msgid ""
+":mtgtip:`Vizkopa Guildmage<https://img.scryfall.com/cards/border_crop/en/"
+"c13/225.jpg?1517813031|https://scryfall.com/card/c13/225/vizkopa-guildmage?"
+"utm_source=api>`"
+msgstr ""
 
 # 3791fe90945e4dcdaa67a3ebfeaf4c33
 #: ../../C13.rst:1297
@@ -3505,14 +3899,18 @@ msgstr ""
 "|mana_1|\\ |mana_w|\\ |mana_b|: Ilekroć zyskasz życie w tej turze, każdy z "
 "przeciwników traci tyle samo życia."
 
-# 9e6102e739474f6b8cac841b45564c1f
 #: ../../C13.rst:1308
-msgid "Winged Coatl"
+msgid ""
+":mtgtip:`Winged Coatl<https://img.scryfall.com/cards/border_crop/en/c13/226."
+"jpg?1517813031|https://scryfall.com/card/c13/226/winged-coatl?"
+"utm_source=api>`"
 msgstr ""
 
-# 0ce1ee7e40e64d268d1aa220f4db764e
 #: ../../C13.rst:1312
-msgid "Augury Adept"
+msgid ""
+":mtgtip:`Augury Adept<https://img.scryfall.com/cards/border_crop/en/c13/227."
+"jpg?1517813031|https://scryfall.com/card/c13/227/augury-adept?"
+"utm_source=api>`"
 msgstr ""
 
 # 2cf06148538a46928836eedde94c0a5e
@@ -3523,9 +3921,11 @@ msgid ""
 "converted mana cost."
 msgstr ""
 
-# 5ab70341a24049258699e819ebef563a
 #: ../../C13.rst:1318
-msgid "Divinity of Pride"
+msgid ""
+":mtgtip:`Divinity of Pride<https://img.scryfall.com/cards/border_crop/en/"
+"c13/228.jpg?1517813031|https://scryfall.com/card/c13/228/divinity-of-pride?"
+"utm_source=api>`"
 msgstr ""
 
 # 29f2cba5154b4d999620b2c58aa14106
@@ -3538,9 +3938,11 @@ msgstr "Latanie, więź życia"
 msgid "Divinity of Pride gets +4/+4 as long as you have 25 or more life."
 msgstr ""
 
-# b093b32081c84f85a5732479710f26f8
 #: ../../C13.rst:1324
-msgid "Golgari Guildmage"
+msgid ""
+":mtgtip:`Golgari Guildmage<https://img.scryfall.com/cards/border_crop/en/"
+"c13/229.jpg?1517813031|https://scryfall.com/card/c13/229/golgari-guildmage?"
+"utm_source=api>`"
 msgstr ""
 
 # d198f92a685445b8a36e9398093a758a
@@ -3558,9 +3960,11 @@ msgstr ""
 msgid "|mana_4|\\ |mana_g|: Put a +1/+1 counter on target creature."
 msgstr "Umieść dwa znaczniki +1/+1 na wskazanym stworze."
 
-# 5c7e288e15544836915a634bf6ec0f48
 #: ../../C13.rst:1328
-msgid "Mistmeadow Witch"
+msgid ""
+":mtgtip:`Mistmeadow Witch<https://img.scryfall.com/cards/border_crop/en/"
+"c13/230.jpg?1517813031|https://scryfall.com/card/c13/230/mistmeadow-witch?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1327
@@ -3570,9 +3974,11 @@ msgid ""
 "step."
 msgstr ""
 
-# 3cb013423be24d81bb08b32c90fd3983
 #: ../../C13.rst:1336
-msgid "Murkfiend Liege"
+msgid ""
+":mtgtip:`Murkfiend Liege<https://img.scryfall.com/cards/border_crop/en/"
+"c13/231.jpg?1517813031|https://scryfall.com/card/c13/231/murkfiend-liege?"
+"utm_source=api>`"
 msgstr ""
 
 # e20979f416444907bfccef66c209f6a5
@@ -3592,9 +3998,11 @@ msgid ""
 "untap step."
 msgstr ""
 
-# b51ba638c64e4e82b81897474f2a0c65
 #: ../../C13.rst:1342
-msgid "Selesnya Guildmage"
+msgid ""
+":mtgtip:`Selesnya Guildmage<https://img.scryfall.com/cards/border_crop/en/"
+"c13/232.jpg?1517813031|https://scryfall.com/card/c13/232/selesnya-guildmage?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1339
@@ -3607,9 +4015,11 @@ msgstr ""
 msgid "|mana_3|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgstr "Inne stwory pod twoim władaniem dostają +1/+1."
 
-# 3300540b6b774241ac4f43e53a94a360
 #: ../../C13.rst:1348
-msgid "Spiteful Visions"
+msgid ""
+":mtgtip:`Spiteful Visions<https://img.scryfall.com/cards/border_crop/en/"
+"c13/233.jpg?1517813031|https://scryfall.com/card/c13/233/spiteful-visions?"
+"utm_source=api>`"
 msgstr ""
 
 # bce35c45f8474454a543efe19ebbd5ab
@@ -3619,9 +4029,11 @@ msgid ""
 "player."
 msgstr ""
 
-# 3c001d36b9ba40c9affde44fe18067d6
 #: ../../C13.rst:1352
-msgid "Thopter Foundry"
+msgid ""
+":mtgtip:`Thopter Foundry<https://img.scryfall.com/cards/border_crop/en/"
+"c13/234.jpg?1517813031|https://scryfall.com/card/c13/234/thopter-foundry?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1351
@@ -3630,9 +4042,11 @@ msgid ""
 "creature token with flying. You gain 1 life."
 msgstr ""
 
-# 7c9e3757b13b4eed884eca34eaae7205
 #: ../../C13.rst:1356
-msgid "Armillary Sphere"
+msgid ""
+":mtgtip:`Armillary Sphere<https://img.scryfall.com/cards/border_crop/en/"
+"c13/235.jpg?1517813031|https://scryfall.com/card/c13/235/armillary-sphere?"
+"utm_source=api>`"
 msgstr ""
 
 # 5e053177865a4785aa42ad417a87a92e
@@ -3643,11 +4057,12 @@ msgid ""
 "your library."
 msgstr ""
 
-# 1c758625a5874f99bbf0d92078e6276d
 #: ../../C13.rst:1362
-#, fuzzy
-msgid "Azorius Keyrune"
-msgstr "Azorius Keyrune"
+msgid ""
+":mtgtip:`Azorius Keyrune<https://img.scryfall.com/cards/border_crop/en/"
+"c13/236.jpg?1517813031|https://scryfall.com/card/c13/236/azorius-keyrune?"
+"utm_source=api>`"
+msgstr ""
 
 # 69922367b7f44ae396d604ceb84198d5
 #: ../../C13.rst:1359 ../../C13.rst:1569 ../../C13.rst:1879
@@ -3660,9 +4075,11 @@ msgid ""
 "artifact creature with flying until end of turn."
 msgstr ""
 
-# d76c576768bc4a6992b973e4c8f5e7b8
 #: ../../C13.rst:1370
-msgid "Basalt Monolith"
+msgid ""
+":mtgtip:`Basalt Monolith<https://img.scryfall.com/cards/border_crop/en/"
+"c13/237.jpg?1517813031|https://scryfall.com/card/c13/237/basalt-monolith?"
+"utm_source=api>`"
 msgstr ""
 
 # 34089dee52e743e6a929f67ce82457ac
@@ -3680,9 +4097,11 @@ msgstr "|tap|: Dostajesz |colorless|."
 msgid "|mana_3|: Untap Basalt Monolith."
 msgstr ""
 
-# 9edce1f58f2546f8a498575f88b27a7a
 #: ../../C13.rst:1374
-msgid "Carnage Altar"
+msgid ""
+":mtgtip:`Carnage Altar<https://img.scryfall.com/cards/border_crop/en/c13/238."
+"jpg?1517813031|https://scryfall.com/card/c13/238/carnage-altar?"
+"utm_source=api>`"
 msgstr ""
 
 # 62bb7682f1e24f519ee1d4b5772f28aa
@@ -3690,9 +4109,11 @@ msgstr ""
 msgid "|mana_3|, Sacrifice a creature: Draw a card."
 msgstr ""
 
-# 025daeee6176409b8db637b9f0e8cfdc
 #: ../../C13.rst:1378
-msgid "Conjurer's Closet"
+msgid ""
+":mtgtip:`Conjurer's Closet<https://img.scryfall.com/cards/border_crop/en/"
+"c13/239.jpg?1517813031|https://scryfall.com/card/c13/239/conjurers-closet?"
+"utm_source=api>`"
 msgstr ""
 
 # 84a8658e077b4285866a4c97d65d078d
@@ -3702,9 +4123,10 @@ msgid ""
 "control, then return that card to the battlefield under your control."
 msgstr ""
 
-# 6beb35f2734148fd84260d08cc19efa0
 #: ../../C13.rst:1382
-msgid "Crawlspace"
+msgid ""
+":mtgtip:`Crawlspace<https://img.scryfall.com/cards/border_crop/en/c13/240."
+"jpg?1517813031|https://scryfall.com/card/c13/240/crawlspace?utm_source=api>`"
 msgstr ""
 
 # d388a0a3478f4a1e97b471cedaf91f23
@@ -3712,9 +4134,11 @@ msgstr ""
 msgid "No more than two creatures can attack you each combat."
 msgstr "Nie więcej niż dwa stwory mogą cię atakować w każdej walce."
 
-# ee1b0d0bffe646e08263e54565a3cf58
 #: ../../C13.rst:1388
-msgid "Darksteel Ingot"
+msgid ""
+":mtgtip:`Darksteel Ingot<https://img.scryfall.com/cards/border_crop/en/"
+"c13/241.jpg?1517813031|https://scryfall.com/card/c13/241/darksteel-ingot?"
+"utm_source=api>`"
 msgstr ""
 
 # aba9a7f02b744760b010a42069387474
@@ -3729,9 +4153,11 @@ msgstr "Niezniszczalność"
 msgid "|tap|: Add one mana of any color."
 msgstr "|tap|: Dostajesz jedną manę dowolnego koloru."
 
-# f631d86cab03428882841b40e118ce0f
 #: ../../C13.rst:1392
-msgid "Druidic Satchel"
+msgid ""
+":mtgtip:`Druidic Satchel<https://img.scryfall.com/cards/border_crop/en/"
+"c13/242.jpg?1517813031|https://scryfall.com/card/c13/242/druidic-satchel?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1391
@@ -3742,9 +4168,10 @@ msgid ""
 "nonland card, you gain 2 life."
 msgstr ""
 
-# 2787869a4b3b4959a333eeda16bc2b65
 #: ../../C13.rst:1398
-msgid "Eye of Doom"
+msgid ""
+":mtgtip:`Eye of Doom<https://img.scryfall.com/cards/border_crop/en/c13/243."
+"jpg?1517813031|https://scryfall.com/card/c13/243/eye-of-doom?utm_source=api>`"
 msgstr ""
 
 # a7f1955341fd484aae2696fd06784dfc
@@ -3761,9 +4188,11 @@ msgid ""
 "counter on it."
 msgstr ""
 
-# 877bf999358c48528a9875209cca390d
 #: ../../C13.rst:1404
-msgid "Jar of Eyeballs"
+msgid ""
+":mtgtip:`Jar of Eyeballs<https://img.scryfall.com/cards/border_crop/en/"
+"c13/244.jpg?1517813031|https://scryfall.com/card/c13/244/jar-of-eyeballs?"
+"utm_source=api>`"
 msgstr ""
 
 # bdd3d8bae61544bebac7bb1d9f58f343
@@ -3782,9 +4211,11 @@ msgid ""
 "of your library in any order."
 msgstr ""
 
-# 35b8089fd1f74ff6afd6fab0bb6e3dd9
 #: ../../C13.rst:1410
-msgid "Leonin Bladetrap"
+msgid ""
+":mtgtip:`Leonin Bladetrap<https://img.scryfall.com/cards/border_crop/en/"
+"c13/245.jpg?1517813031|https://scryfall.com/card/c13/245/leonin-bladetrap?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1409
@@ -3793,9 +4224,10 @@ msgid ""
 "creature without flying."
 msgstr ""
 
-# 851e3797ce6e45a8a9b1eb4c8918ca0d
 #: ../../C13.rst:1414
-msgid "Mirari"
+msgid ""
+":mtgtip:`Mirari<https://img.scryfall.com/cards/border_crop/en/c13/246.jpg?"
+"1517813031|https://scryfall.com/card/c13/246/mirari?utm_source=api>`"
 msgstr ""
 
 # c606ea9eb1ad409fadbee1c515dbc2a8
@@ -3805,9 +4237,11 @@ msgid ""
 "do, copy that spell. You may choose new targets for the copy."
 msgstr ""
 
-# f262214a96e74fb2bd41282a18d75788
 #: ../../C13.rst:1420
-msgid "Myr Battlesphere"
+msgid ""
+":mtgtip:`Myr Battlesphere<https://img.scryfall.com/cards/border_crop/en/"
+"c13/247.jpg?1517813031|https://scryfall.com/card/c13/247/myr-battlesphere?"
+"utm_source=api>`"
 msgstr ""
 
 # df512c6484d943edae58daa7445f10cd
@@ -3827,9 +4261,11 @@ msgid ""
 "to the player or planeswalker it's attacking."
 msgstr ""
 
-# 965a210a427c4b7bb1097afa056803fa
 #: ../../C13.rst:1426
-msgid "Nevinyrral's Disk"
+msgid ""
+":mtgtip:`Nevinyrral's Disk<https://img.scryfall.com/cards/border_crop/en/"
+"c13/248.jpg?1517813031|https://scryfall.com/card/c13/248/nevinyrrals-disk?"
+"utm_source=api>`"
 msgstr ""
 
 # 9b1a5258cf1e4b91948b02bbdbf14235
@@ -3842,9 +4278,11 @@ msgstr ""
 msgid "|mana_1|, |tap|: Destroy all artifacts, creatures, and enchantments."
 msgstr ""
 
-# 19a9c9a4796a4c07af3ca66f5f24d967
 #: ../../C13.rst:1432
-msgid "Nihil Spellbomb"
+msgid ""
+":mtgtip:`Nihil Spellbomb<https://img.scryfall.com/cards/border_crop/en/"
+"c13/249.jpg?1517813031|https://scryfall.com/card/c13/249/nihil-spellbomb?"
+"utm_source=api>`"
 msgstr ""
 
 # 19edbd4a13754ddcb01c42080973b980
@@ -3861,9 +4299,11 @@ msgid ""
 "pay |mana_b|. If you do, draw a card."
 msgstr ""
 
-# 81694138a73a4cec8f6c3d3b555b31ce
 #: ../../C13.rst:1436
-msgid "Obelisk of Esper"
+msgid ""
+":mtgtip:`Obelisk of Esper<https://img.scryfall.com/cards/border_crop/en/"
+"c13/250.jpg?1517813031|https://scryfall.com/card/c13/250/obelisk-of-esper?"
+"utm_source=api>`"
 msgstr ""
 
 # 39d6fd24a84e40228c9698f6190fa201
@@ -3873,9 +4313,11 @@ msgstr ""
 msgid "|tap|: Add |mana_w|, |mana_u|, or |mana_b|."
 msgstr "|tap|: Dodaj |mana_w|, |mana_u|, lub |mana_b| do twojej puli many."
 
-# b5ab0abe33544368b055be59804a3f84
 #: ../../C13.rst:1440
-msgid "Obelisk of Grixis"
+msgid ""
+":mtgtip:`Obelisk of Grixis<https://img.scryfall.com/cards/border_crop/en/"
+"c13/251.jpg?1517813031|https://scryfall.com/card/c13/251/obelisk-of-grixis?"
+"utm_source=api>`"
 msgstr ""
 
 # 39d6fd24a84e40228c9698f6190fa201
@@ -3885,9 +4327,11 @@ msgstr ""
 msgid "|tap|: Add |mana_u|, |mana_b|, or |mana_r|."
 msgstr "|tap|: Dodaj |mana_w|, |mana_u|, lub |mana_b| do twojej puli many."
 
-# 31ff10f0288a412b8802a0c9b05759f8
 #: ../../C13.rst:1444
-msgid "Obelisk of Jund"
+msgid ""
+":mtgtip:`Obelisk of Jund<https://img.scryfall.com/cards/border_crop/en/"
+"c13/252.jpg?1517813031|https://scryfall.com/card/c13/252/obelisk-of-jund?"
+"utm_source=api>`"
 msgstr ""
 
 # 00967a7f3f76434abfb63c0c69411356
@@ -3897,10 +4341,12 @@ msgstr ""
 msgid "|tap|: Add |mana_b|, |mana_r|, or |mana_g|."
 msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
 
-# 25d32835eae9486880f9a1fce420aa5e
 #: ../../C13.rst:1450
-msgid "Pilgrim's Eye"
-msgstr "Pilgrim's Eye (Oko Pielgrzyma)"
+msgid ""
+":mtgtip:`Pilgrim's Eye<https://img.scryfall.com/cards/border_crop/en/c13/253."
+"jpg?1517813031|https://scryfall.com/card/c13/253/pilgrims-eye?"
+"utm_source=api>`"
+msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1449
@@ -3912,9 +4358,11 @@ msgstr ""
 "bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
 "swojej ręki, a następnie przetasować twoją bibliotekę."
 
-# 581ced7d85a34039952497ecddc33f1c
 #: ../../C13.rst:1458
-msgid "Plague Boiler"
+msgid ""
+":mtgtip:`Plague Boiler<https://img.scryfall.com/cards/border_crop/en/c13/254."
+"jpg?1517813031|https://scryfall.com/card/c13/254/plague-boiler?"
+"utm_source=api>`"
 msgstr ""
 
 # 58c2d6fa899b49549510164215aa88ef
@@ -3935,18 +4383,22 @@ msgid ""
 "you do, destroy all nonland permanents."
 msgstr ""
 
-# 3b065edddf84421c9ac2fb30a203b767
 #: ../../C13.rst:1462
-msgid "Pristine Talisman"
+msgid ""
+":mtgtip:`Pristine Talisman<https://img.scryfall.com/cards/border_crop/en/"
+"c13/255.jpg?1517813031|https://scryfall.com/card/c13/255/pristine-talisman?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1461
 msgid "|tap|: Add |colorless|. You gain 1 life."
 msgstr ""
 
-# 9812372718ff490aa8f24ab34119612d
 #: ../../C13.rst:1466
-msgid "Seer's Sundial"
+msgid ""
+":mtgtip:`Seer's Sundial<https://img.scryfall.com/cards/border_crop/en/"
+"c13/256.jpg?1517813031|https://scryfall.com/card/c13/256/seers-sundial?"
+"utm_source=api>`"
 msgstr ""
 
 # 37c6f4180f5e432e99de8e26dc318bdc
@@ -3958,9 +4410,11 @@ msgstr ""
 "Lądowanie — Ilekroć ląd wchodzi na pole walki pod twoim władaniem, możesz "
 "zapłacić |mana_2|. Jeśli tak zrobisz, dobierz kartę."
 
-# 42e8928068444cbcb3c3f3015becfd9f
 #: ../../C13.rst:1470
-msgid "Selesnya Signet"
+msgid ""
+":mtgtip:`Selesnya Signet<https://img.scryfall.com/cards/border_crop/en/"
+"c13/257.jpg?1517813031|https://scryfall.com/card/c13/257/selesnya-signet?"
+"utm_source=api>`"
 msgstr ""
 
 # 69922367b7f44ae396d604ceb84198d5
@@ -3969,9 +4423,11 @@ msgstr ""
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_w|."
 msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
-# 16ac9a96a20c4d1497d6424238eec295
 #: ../../C13.rst:1474
-msgid "Simic Signet"
+msgid ""
+":mtgtip:`Simic Signet<https://img.scryfall.com/cards/border_crop/en/c13/258."
+"jpg?1517813031|https://scryfall.com/card/c13/258/simic-signet?"
+"utm_source=api>`"
 msgstr ""
 
 # 00967a7f3f76434abfb63c0c69411356
@@ -3981,9 +4437,10 @@ msgstr ""
 msgid "|mana_1|, |tap|: Add |mana_g|\\ |mana_u|."
 msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
 
-# 64209a8424364d36aef8b9a2245c6585
 #: ../../C13.rst:1478
-msgid "Sol Ring"
+msgid ""
+":mtgtip:`Sol Ring<https://img.scryfall.com/cards/border_crop/en/c13/259.jpg?"
+"1517813031|https://scryfall.com/card/c13/259/sol-ring?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1477
@@ -3991,9 +4448,11 @@ msgstr ""
 msgid "|tap|: Add |colorless|\\ |colorless|."
 msgstr "|tap|: Dostajesz |colorless|."
 
-# a85d0109b5c248fcb617bebbdc23ee78
 #: ../../C13.rst:1484
-msgid "Spine of Ish Sah"
+msgid ""
+":mtgtip:`Spine of Ish Sah<https://img.scryfall.com/cards/border_crop/en/"
+"c13/260.jpg?1517813031|https://scryfall.com/card/c13/260/spine-of-ish-sah?"
+"utm_source=api>`"
 msgstr ""
 
 # 766fd33be157409e9893ccf77a9ee50e
@@ -4008,9 +4467,10 @@ msgid ""
 "Spine of Ish Sah to its owner's hand."
 msgstr ""
 
-# 482dbb403f11482bbeb95a9137791339
 #: ../../C13.rst:1490
-msgid "Sun Droplet"
+msgid ""
+":mtgtip:`Sun Droplet<https://img.scryfall.com/cards/border_crop/en/c13/261."
+"jpg?1517813031|https://scryfall.com/card/c13/261/sun-droplet?utm_source=api>`"
 msgstr ""
 
 # af4e0f18b4634d38b5ab31bc2805817b
@@ -4026,9 +4486,11 @@ msgid ""
 "Droplet. If you do, you gain 1 life."
 msgstr ""
 
-# 97d5336d82ea417988c6e0768fc7ae40
 #: ../../C13.rst:1494
-msgid "Surveyor's Scope"
+msgid ""
+":mtgtip:`Surveyor's Scope<https://img.scryfall.com/cards/border_crop/en/"
+"c13/262.jpg?1517813031|https://scryfall.com/card/c13/262/surveyors-scope?"
+"utm_source=api>`"
 msgstr ""
 
 # 4e1e8ce49e8d46d59dc4401077a0d8a6
@@ -4039,9 +4501,11 @@ msgid ""
 "than you. Put those cards onto the battlefield, then shuffle your library."
 msgstr ""
 
-# ef184d68821c4496bb4303ef95877a6a
 #: ../../C13.rst:1500
-msgid "Swiftfoot Boots"
+msgid ""
+":mtgtip:`Swiftfoot Boots<https://img.scryfall.com/cards/border_crop/en/"
+"c13/263.jpg?1517813031|https://scryfall.com/card/c13/263/swiftfoot-boots?"
+"utm_source=api>`"
 msgstr ""
 
 # 13f08714f2db4b94a2ccc5708572417c
@@ -4054,9 +4518,11 @@ msgstr "Wyposażony stwór ma antyklątwę i pośpiech."
 msgid "Equip |mana_1|"
 msgstr "Wyposaż |mana_1|"
 
-# 901a84fe685b4314a1b8d483028c0235
 #: ../../C13.rst:1510
-msgid "Sword of the Paruns"
+msgid ""
+":mtgtip:`Sword of the Paruns<https://img.scryfall.com/cards/border_crop/en/"
+"c13/264.jpg?1517813031|https://scryfall.com/card/c13/264/sword-of-the-paruns?"
+"utm_source=api>`"
 msgstr ""
 
 # 368754c2a68d43838bc77c93f9ce0be6
@@ -4078,9 +4544,10 @@ msgstr ""
 msgid "|mana_3|: You may tap or untap equipped creature."
 msgstr ""
 
-# a0e19186bfa34840a8984b42c066010d
 #: ../../C13.rst:1514
-msgid "Temple Bell"
+msgid ""
+":mtgtip:`Temple Bell<https://img.scryfall.com/cards/border_crop/en/c13/265."
+"jpg?1517813031|https://scryfall.com/card/c13/265/temple-bell?utm_source=api>`"
 msgstr ""
 
 # 3da10629d50543d6ba965bc5adf22a21
@@ -4088,9 +4555,11 @@ msgstr ""
 msgid "|tap|: Each player draws a card."
 msgstr ""
 
-# 40bf8b5acff84f14972e002916d4f021
 #: ../../C13.rst:1520
-msgid "Thousand-Year Elixir"
+msgid ""
+":mtgtip:`Thousand-Year Elixir<https://img.scryfall.com/cards/border_crop/en/"
+"c13/266.jpg?1517813031|https://scryfall.com/card/c13/266/thousand-year-"
+"elixir?utm_source=api>`"
 msgstr ""
 
 # d4a807983b7e40519e3cf327216e9ba8
@@ -4105,9 +4574,11 @@ msgstr ""
 msgid "|mana_1|, |tap|: Untap target creature."
 msgstr ""
 
-# ceeffeb083ed4122a026bc1de24ce97b
 #: ../../C13.rst:1526
-msgid "Thunderstaff"
+msgid ""
+":mtgtip:`Thunderstaff<https://img.scryfall.com/cards/border_crop/en/c13/267."
+"jpg?1517813031|https://scryfall.com/card/c13/267/thunderstaff?"
+"utm_source=api>`"
 msgstr ""
 
 # 4957f08b68874c6fbac3a53ad837b973
@@ -4122,9 +4593,11 @@ msgstr ""
 msgid "|mana_2|, |tap|: Attacking creatures get +1/+0 until end of turn."
 msgstr ""
 
-# 414cdb9623aa437b84d07cd27b10e9f1
 #: ../../C13.rst:1530
-msgid "Tower of Fortunes"
+msgid ""
+":mtgtip:`Tower of Fortunes<https://img.scryfall.com/cards/border_crop/en/"
+"c13/268.jpg?1517813031|https://scryfall.com/card/c13/268/tower-of-fortunes?"
+"utm_source=api>`"
 msgstr ""
 
 # b14ad464d5aa4eaeb313c5f71e168a71
@@ -4132,9 +4605,10 @@ msgstr ""
 msgid "|mana_8|, |tap|: Draw four cards."
 msgstr ""
 
-# 4d56b65fbe8b41998a0252b08b27f7ab
 #: ../../C13.rst:1534
-msgid "Viseling"
+msgid ""
+":mtgtip:`Viseling<https://img.scryfall.com/cards/border_crop/en/c13/269.jpg?"
+"1517813031|https://scryfall.com/card/c13/269/viseling?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1533
@@ -4143,9 +4617,11 @@ msgid ""
 "player, where X is the number of cards in their hand minus 4."
 msgstr ""
 
-# a7a5aef5359c464a8b3b8514072955e0
 #: ../../C13.rst:1538
-msgid "Wayfarer's Bauble"
+msgid ""
+":mtgtip:`Wayfarer's Bauble<https://img.scryfall.com/cards/border_crop/en/"
+"c13/270.jpg?1517813031|https://scryfall.com/card/c13/270/wayfarers-bauble?"
+"utm_source=api>`"
 msgstr ""
 
 # 1923ab2dab1a4308b1779373b9cf6b62
@@ -4156,9 +4632,11 @@ msgid ""
 "your library."
 msgstr ""
 
-# e0c20cf64e524db7ad4e07a9870d82c3
 #: ../../C13.rst:1542
-msgid "Well of Lost Dreams"
+msgid ""
+":mtgtip:`Well of Lost Dreams<https://img.scryfall.com/cards/border_crop/en/"
+"c13/271.jpg?1517813031|https://scryfall.com/card/c13/271/well-of-lost-dreams?"
+"utm_source=api>`"
 msgstr ""
 
 # 10a2b475c66f4365b0e55a84453bc98b
@@ -4168,9 +4646,11 @@ msgid ""
 "to the amount of life you gained. If you do, draw X cards."
 msgstr ""
 
-# a12d1a467cab436dac134f3e654877fe
 #: ../../C13.rst:1550
-msgid "Akoum Refuge"
+msgid ""
+":mtgtip:`Akoum Refuge<https://img.scryfall.com/cards/border_crop/en/c13/272."
+"jpg?1517813031|https://scryfall.com/card/c13/272/akoum-refuge?"
+"utm_source=api>`"
 msgstr ""
 
 # f2a86f0c4dc44db08d0d67e400556ab5
@@ -4189,9 +4669,11 @@ msgstr ""
 msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
-# c7f45dba5e1a4bb28bb84e67f3e5e9b2
 #: ../../C13.rst:1556
-msgid "Arcane Sanctum"
+msgid ""
+":mtgtip:`Arcane Sanctum<https://img.scryfall.com/cards/border_crop/en/"
+"c13/273.jpg?1517813031|https://scryfall.com/card/c13/273/arcane-sanctum?"
+"utm_source=api>`"
 msgstr ""
 
 # 442ecc0f608b41228442e86913a78dc0
@@ -4199,9 +4681,11 @@ msgstr ""
 msgid "Arcane Sanctum enters the battlefield tapped."
 msgstr ""
 
-# af67fe23cc9f432ab5ba4102a479c3a2
 #: ../../C13.rst:1564
-msgid "Azorius Chancery"
+msgid ""
+":mtgtip:`Azorius Chancery<https://img.scryfall.com/cards/border_crop/en/"
+"c13/274.jpg?1517813031|https://scryfall.com/card/c13/274/azorius-chancery?"
+"utm_source=api>`"
 msgstr ""
 
 # ee1da16b2c484bb7bbefa07736c1ea8b
@@ -4222,19 +4706,23 @@ msgstr ""
 msgid "|tap|: Add |mana_w|\\ |mana_u|."
 msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
-# d73f68d18f454e189838b22fcdebd824
 #: ../../C13.rst:1570
-msgid "Azorius Guildgate"
-msgstr "Azorius Guildgate (Brama Gildii Azorius)"
+msgid ""
+":mtgtip:`Azorius Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"c13/275.jpg?1517813031|https://scryfall.com/card/c13/275/azorius-guildgate?"
+"utm_source=api>`"
+msgstr ""
 
 # 1b3f29ac770d4181881689a51500a862
 #: ../../C13.rst:1567
 msgid "Azorius Guildgate enters the battlefield tapped."
 msgstr "Ta karta wchodzi przekręcona na pole walki."
 
-# e0068948062f416eaa62bcc4d7db484b
 #: ../../C13.rst:1576
-msgid "Bant Panorama"
+msgid ""
+":mtgtip:`Bant Panorama<https://img.scryfall.com/cards/border_crop/en/c13/276."
+"jpg?1517813031|https://scryfall.com/card/c13/276/bant-panorama?"
+"utm_source=api>`"
 msgstr ""
 
 # 5187fb79105249058c2b77ba816db00a
@@ -4245,9 +4733,10 @@ msgid ""
 "shuffle your library."
 msgstr ""
 
-# d31ba773934444d08d0d4e736013daf6
 #: ../../C13.rst:1584
-msgid "Barren Moor"
+msgid ""
+":mtgtip:`Barren Moor<https://img.scryfall.com/cards/border_crop/en/c13/277."
+"jpg?1517813031|https://scryfall.com/card/c13/277/barren-moor?utm_source=api>`"
 msgstr ""
 
 # d2c37d1092c9484fb90ed3bff1e30f58
@@ -4264,9 +4753,10 @@ msgstr "|tap|: Dostajesz |mana_b|."
 msgid "Cycling |mana_b| (|mana_b|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_b| (|mana_b|, odrzuć tę kartę: Dobierz kartę.)"
 
-# f627ac01176e4f24b20f5ed22947ef79
 #: ../../C13.rst:1592
-msgid "Bojuka Bog"
+msgid ""
+":mtgtip:`Bojuka Bog<https://img.scryfall.com/cards/border_crop/en/c13/278."
+"jpg?1517813031|https://scryfall.com/card/c13/278/bojuka-bog?utm_source=api>`"
 msgstr ""
 
 # c8d0d61471f440809813fc1df3728890
@@ -4281,9 +4771,11 @@ msgid ""
 "graveyard."
 msgstr ""
 
-# fbf7dc0a386f4eedbd8d55c7e91cfb25
 #: ../../C13.rst:1600
-msgid "Boros Garrison"
+msgid ""
+":mtgtip:`Boros Garrison<https://img.scryfall.com/cards/border_crop/en/"
+"c13/279.jpg?1517813031|https://scryfall.com/card/c13/279/boros-garrison?"
+"utm_source=api>`"
 msgstr ""
 
 # 893f0eaf3b8d43058b4635fa325ac17f
@@ -4304,11 +4796,12 @@ msgstr ""
 msgid "|tap|: Add |mana_r|\\ |mana_w|."
 msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
-# 39235b816467421e845fa8ca0d52bd2f
 #: ../../C13.rst:1606
-#, fuzzy
-msgid "Boros Guildgate"
-msgstr "Boros Guildgate"
+msgid ""
+":mtgtip:`Boros Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"c13/280.jpg?1517813031|https://scryfall.com/card/c13/280/boros-guildgate?"
+"utm_source=api>`"
+msgstr ""
 
 # b99cb41aba1440609c1feeeefd8303b1
 #: ../../C13.rst:1603
@@ -4320,9 +4813,11 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
-# 2607ac98bdb34c0c8fcdff90d694e61c
 #: ../../C13.rst:1610
-msgid "Command Tower"
+msgid ""
+":mtgtip:`Command Tower<https://img.scryfall.com/cards/border_crop/en/c13/281."
+"jpg?1517813031|https://scryfall.com/card/c13/281/command-tower?"
+"utm_source=api>`"
 msgstr ""
 
 # 3502f8bef5264dc2914e23a0732fc0e4
@@ -4333,9 +4828,11 @@ msgstr ""
 msgid "|tap|: Add one mana of any color in your commander's color identity."
 msgstr "|tap|: Dodaj jedną manę dowolnego koloru do swojej puli many."
 
-# a2d6625f7de84982a3887de610731e0f
 #: ../../C13.rst:1616
-msgid "Contested Cliffs"
+msgid ""
+":mtgtip:`Contested Cliffs<https://img.scryfall.com/cards/border_crop/en/"
+"c13/282.jpg?1517813031|https://scryfall.com/card/c13/282/contested-cliffs?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1615
@@ -4345,9 +4842,11 @@ msgid ""
 "other.)"
 msgstr ""
 
-# 70a8ba315afa45d08f24b7cc3f7fca2c
 #: ../../C13.rst:1622
-msgid "Crumbling Necropolis"
+msgid ""
+":mtgtip:`Crumbling Necropolis<https://img.scryfall.com/cards/border_crop/en/"
+"c13/283.jpg?1517813031|https://scryfall.com/card/c13/283/crumbling-"
+"necropolis?utm_source=api>`"
 msgstr ""
 
 # 7c65264189dc4928b413e38f91b398f7
@@ -4355,11 +4854,12 @@ msgstr ""
 msgid "Crumbling Necropolis enters the battlefield tapped."
 msgstr ""
 
-# 0aa68b79472642bfa1fc01f5e28deda0
 #: ../../C13.rst:1628
-#, fuzzy
-msgid "Dimir Guildgate"
-msgstr "Dimir Guildgate"
+msgid ""
+":mtgtip:`Dimir Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"c13/284.jpg?1517813031|https://scryfall.com/card/c13/284/dimir-guildgate?"
+"utm_source=api>`"
+msgstr ""
 
 # 36015cf7028948e1b39ea723c4d7f56b
 #: ../../C13.rst:1625
@@ -4372,9 +4872,11 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
-# 5a325415dc914f488635b917d2db9218
 #: ../../C13.rst:1636
-msgid "Drifting Meadow"
+msgid ""
+":mtgtip:`Drifting Meadow<https://img.scryfall.com/cards/border_crop/en/"
+"c13/285.jpg?1517813031|https://scryfall.com/card/c13/285/drifting-meadow?"
+"utm_source=api>`"
 msgstr ""
 
 # d5ef0dcf86204a3c8c2a9a0d09d8b549
@@ -4393,9 +4895,11 @@ msgstr "|tap|: Dostajesz |mana_w|."
 msgid "Cycling |mana_2| (|mana_2|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_2| (|mana_2|, odrzuć tę kartę: Dobierz kartę.)"
 
-# e3760c182e23439bbcafa269f3865fcc
 #: ../../C13.rst:1642
-msgid "Esper Panorama"
+msgid ""
+":mtgtip:`Esper Panorama<https://img.scryfall.com/cards/border_crop/en/"
+"c13/286.jpg?1517813031|https://scryfall.com/card/c13/286/esper-panorama?"
+"utm_source=api>`"
 msgstr ""
 
 # f3dcf1a680d14a769792d70d4ea8668c
@@ -4406,10 +4910,12 @@ msgid ""
 "shuffle your library."
 msgstr ""
 
-# b5098f9644914502b7e9fee58e68aec7
 #: ../../C13.rst:1646
-msgid "Evolving Wilds"
-msgstr "Evolving Wilds"
+msgid ""
+":mtgtip:`Evolving Wilds<https://img.scryfall.com/cards/border_crop/en/"
+"c13/287.jpg?1517813031|https://scryfall.com/card/c13/287/evolving-wilds?"
+"utm_source=api>`"
+msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
 #: ../../C13.rst:1645
@@ -4420,9 +4926,11 @@ msgstr ""
 "|tap|, poświęć ten ląd: Poszukaj w twojej bibliotece kartę bazowego lądu, "
 "umieść ją przekręconą na polu walki, następnie przetasuj twoją bibliotekę."
 
-# 84fc79616850413ab61c30f756532bdc
 #: ../../C13.rst:1654
-msgid "Faerie Conclave"
+msgid ""
+":mtgtip:`Faerie Conclave<https://img.scryfall.com/cards/border_crop/en/"
+"c13/288.jpg?1517813031|https://scryfall.com/card/c13/288/faerie-conclave?"
+"utm_source=api>`"
 msgstr ""
 
 # 75544904da4d4ab4ac47177be7f858e0
@@ -4440,10 +4948,12 @@ msgid ""
 "flying until end of turn. It's still a land."
 msgstr ""
 
-# 45e6be73e2bb46c1aec8135bf464b52f
 #: ../../C13.rst:1662
-msgid "Forgotten Cave"
-msgstr "Forgotten Cave (Zapomniana Jaskinia)"
+msgid ""
+":mtgtip:`Forgotten Cave<https://img.scryfall.com/cards/border_crop/en/"
+"c13/289.jpg?1517813031|https://scryfall.com/card/c13/289/forgotten-cave?"
+"utm_source=api>`"
+msgstr ""
 
 # e8323cc68807405eabd65f2a773173ad
 #: ../../C13.rst:1657
@@ -4459,11 +4969,12 @@ msgstr "|tap|: Dostajesz |mana_r|."
 msgid "Cycling |mana_r| (|mana_r|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_r| (|mana_r|, odrzuć tę kartę: Dobierz kartę.)"
 
-# dd25c2161cc1459e9430edb3177c0f72
 #: ../../C13.rst:1668
-#, fuzzy
-msgid "Golgari Guildgate"
-msgstr "Golgari Guildgate"
+msgid ""
+":mtgtip:`Golgari Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"c13/290.jpg?1517813031|https://scryfall.com/card/c13/290/golgari-guildgate?"
+"utm_source=api>`"
+msgstr ""
 
 # 6677d2dd2cf84049876e0a193dd87f47
 #: ../../C13.rst:1665
@@ -4476,9 +4987,11 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 msgid "|tap|: Add |mana_b| or |mana_g|."
 msgstr "|tap|: Dostajesz |mana_b| lub |mana_g|."
 
-# 6638f2cb1762480caedad446ec4ea175
 #: ../../C13.rst:1676
-msgid "Golgari Rot Farm"
+msgid ""
+":mtgtip:`Golgari Rot Farm<https://img.scryfall.com/cards/border_crop/en/"
+"c13/291.jpg?1517813031|https://scryfall.com/card/c13/291/golgari-rot-farm?"
+"utm_source=api>`"
 msgstr ""
 
 # a896c1affb6f4256a9fb88f142c004ef
@@ -4500,9 +5013,11 @@ msgstr ""
 msgid "|tap|: Add |mana_b|\\ |mana_g|."
 msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
 
-# 6dc05e2afeba4d35b4983f9d51c66f5f
 #: ../../C13.rst:1682
-msgid "Grim Backwoods"
+msgid ""
+":mtgtip:`Grim Backwoods<https://img.scryfall.com/cards/border_crop/en/"
+"c13/292.jpg?1517813031|https://scryfall.com/card/c13/292/grim-backwoods?"
+"utm_source=api>`"
 msgstr ""
 
 # 1c8628bff9574ccf825b011f0469122b
@@ -4514,9 +5029,11 @@ msgstr ""
 "Recykling |mana_1|\\ |mana_b| (|mana_1|\\ |mana_b|, odrzuć tę kartę: Dobierz "
 "kartę.)"
 
-# 12e0576389d646d7ae50151c9f261b4c
 #: ../../C13.rst:1688
-msgid "Grixis Panorama"
+msgid ""
+":mtgtip:`Grixis Panorama<https://img.scryfall.com/cards/border_crop/en/"
+"c13/293.jpg?1517813031|https://scryfall.com/card/c13/293/grixis-panorama?"
+"utm_source=api>`"
 msgstr ""
 
 # ae254fa1345e4a68906b6dad9bf1e5cb
@@ -4527,11 +5044,12 @@ msgid ""
 "shuffle your library."
 msgstr ""
 
-# 308f3c2708674ed8bc20e3e8f860199a
 #: ../../C13.rst:1694
-#, fuzzy
-msgid "Gruul Guildgate"
-msgstr "Gruul Guildgate"
+msgid ""
+":mtgtip:`Gruul Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"c13/294.jpg?1517813031|https://scryfall.com/card/c13/294/gruul-guildgate?"
+"utm_source=api>`"
+msgstr ""
 
 # 26db26a2673d4a29993f66f6afcd903d
 #: ../../C13.rst:1691
@@ -4543,18 +5061,22 @@ msgstr "Ta karta wchodzi przekręcona na pole walki."
 msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
-# 9359d22cbd5647029429072bc1ba8a48
 #: ../../C13.rst:1700
-msgid "Homeward Path"
+msgid ""
+":mtgtip:`Homeward Path<https://img.scryfall.com/cards/border_crop/en/c13/295."
+"jpg?1517813031|https://scryfall.com/card/c13/295/homeward-path?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1699
 msgid "|tap|: Each player gains control of all creatures they own."
 msgstr ""
 
-# 5c762774b6d64572affab32dc3383aff
 #: ../../C13.rst:1708
-msgid "Izzet Boilerworks"
+msgid ""
+":mtgtip:`Izzet Boilerworks<https://img.scryfall.com/cards/border_crop/en/"
+"c13/296.jpg?1517813031|https://scryfall.com/card/c13/296/izzet-boilerworks?"
+"utm_source=api>`"
 msgstr ""
 
 # a37a87b03c1445b3839855e2c62b7798
@@ -4576,9 +5098,11 @@ msgstr ""
 msgid "|tap|: Add |mana_u|\\ |mana_r|."
 msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
 
-# bf40d8b20471454a9e06c079a991c375
 #: ../../C13.rst:1714
-msgid "Izzet Guildgate"
+msgid ""
+":mtgtip:`Izzet Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"c13/297.jpg?1517813031|https://scryfall.com/card/c13/297/izzet-guildgate?"
+"utm_source=api>`"
 msgstr ""
 
 # b566610079f8422c86b322e2b5697350
@@ -4592,9 +5116,11 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
-# 733d4bfdb83b46319c0626ee37fa0a94
 #: ../../C13.rst:1720
-msgid "Jund Panorama"
+msgid ""
+":mtgtip:`Jund Panorama<https://img.scryfall.com/cards/border_crop/en/c13/298."
+"jpg?1517813031|https://scryfall.com/card/c13/298/jund-panorama?"
+"utm_source=api>`"
 msgstr ""
 
 # 76e919ca64fc4148a45a0b4e9c1df01a
@@ -4605,9 +5131,11 @@ msgid ""
 "shuffle your library."
 msgstr ""
 
-# dd7b55bd671841c88c52e5093c6e8510
 #: ../../C13.rst:1726
-msgid "Jungle Shrine"
+msgid ""
+":mtgtip:`Jungle Shrine<https://img.scryfall.com/cards/border_crop/en/c13/299."
+"jpg?1517813031|https://scryfall.com/card/c13/299/jungle-shrine?"
+"utm_source=api>`"
 msgstr ""
 
 # b8eb7afbc5534f23857b7a981ef77f91
@@ -4621,9 +5149,11 @@ msgstr ""
 msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."
 msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
-# c2a60109f92f4e39929e4357e63bb6a8
 #: ../../C13.rst:1734
-msgid "Jwar Isle Refuge"
+msgid ""
+":mtgtip:`Jwar Isle Refuge<https://img.scryfall.com/cards/border_crop/en/"
+"c13/300.jpg?1517813031|https://scryfall.com/card/c13/300/jwar-isle-refuge?"
+"utm_source=api>`"
 msgstr ""
 
 # 2437074903f24a13a1cbbd30e13c6c9e
@@ -4636,9 +5166,11 @@ msgstr ""
 msgid "When Jwar Isle Refuge enters the battlefield, you gain 1 life."
 msgstr ""
 
-# 1c21558ffbfb423f8aa41ed777abda1b
 #: ../../C13.rst:1742
-msgid "Kazandu Refuge"
+msgid ""
+":mtgtip:`Kazandu Refuge<https://img.scryfall.com/cards/border_crop/en/"
+"c13/301.jpg?1517813031|https://scryfall.com/card/c13/301/kazandu-refuge?"
+"utm_source=api>`"
 msgstr ""
 
 # d48f4491667540e8975097e3bf1971fb
@@ -4651,9 +5183,11 @@ msgstr ""
 msgid "When Kazandu Refuge enters the battlefield, you gain 1 life."
 msgstr ""
 
-# 0b900d103ebd4756bfeba9d22fd9b84a
 #: ../../C13.rst:1750
-msgid "Khalni Garden"
+msgid ""
+":mtgtip:`Khalni Garden<https://img.scryfall.com/cards/border_crop/en/c13/302."
+"jpg?1517813031|https://scryfall.com/card/c13/302/khalni-garden?"
+"utm_source=api>`"
 msgstr ""
 
 # 984c6c6e3ca747c887dfd4a69fcd1873
@@ -4674,9 +5208,10 @@ msgstr "Kiedy Baleful Strix wchodzi na pole walki, dobierz kartę."
 msgid "|tap|: Add |mana_g|."
 msgstr "|tap|: Dostajesz |mana_g|."
 
-# 84b58590476245c3acf86c8075829e0e
 #: ../../C13.rst:1756
-msgid "Kher Keep"
+msgid ""
+":mtgtip:`Kher Keep<https://img.scryfall.com/cards/border_crop/en/c13/303.jpg?"
+"1517813031|https://scryfall.com/card/c13/303/kher-keep?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1755
@@ -4685,9 +5220,11 @@ msgid ""
 "Kobolds of Kher Keep."
 msgstr ""
 
-# 1c212afde9524ce294fb761504c74683
 #: ../../C13.rst:1764
-msgid "Llanowar Reborn"
+msgid ""
+":mtgtip:`Llanowar Reborn<https://img.scryfall.com/cards/border_crop/en/"
+"c13/304.jpg?1517813031|https://scryfall.com/card/c13/304/llanowar-reborn?"
+"utm_source=api>`"
 msgstr ""
 
 # 07ba1b52b3de489191fad7b494a7065f
@@ -4703,9 +5240,11 @@ msgid ""
 "from this land onto it.)"
 msgstr ""
 
-# 0f2e5f7832db49a4b42c87fa1d288a57
 #: ../../C13.rst:1772
-msgid "Lonely Sandbar"
+msgid ""
+":mtgtip:`Lonely Sandbar<https://img.scryfall.com/cards/border_crop/en/"
+"c13/305.jpg?1517813031|https://scryfall.com/card/c13/305/lonely-sandbar?"
+"utm_source=api>`"
 msgstr ""
 
 # 58c48a54527d4e869a5be67924011ba9
@@ -4718,9 +5257,11 @@ msgstr ""
 msgid "Cycling |mana_u| (|mana_u|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_u| (|mana_u|, odrzuć tę kartę: Dobierz kartę.)"
 
-# ed6f7aebc1a3499dbf1429e28a2408b0
 #: ../../C13.rst:1780
-msgid "Molten Slagheap"
+msgid ""
+":mtgtip:`Molten Slagheap<https://img.scryfall.com/cards/border_crop/en/"
+"c13/306.jpg?1517813031|https://scryfall.com/card/c13/306/molten-slagheap?"
+"utm_source=api>`"
 msgstr ""
 
 # d0d69916335c470c96efb59ce9d5816c
@@ -4734,9 +5275,11 @@ msgid ""
 "combination of |mana_b| and/or |mana_r|."
 msgstr ""
 
-# 41b0c08475794965919269e4f4442204
 #: ../../C13.rst:1788
-msgid "Mosswort Bridge"
+msgid ""
+":mtgtip:`Mosswort Bridge<https://img.scryfall.com/cards/border_crop/en/"
+"c13/307.jpg?1517813031|https://scryfall.com/card/c13/307/mosswort-bridge?"
+"utm_source=api>`"
 msgstr ""
 
 # a7039e623a5b4d77bd30b759b9a444bf
@@ -4754,9 +5297,11 @@ msgid ""
 "if creatures you control have total power 10 or greater."
 msgstr ""
 
-# cf7a7e4249e24e86a41a827da0acd220
 #: ../../C13.rst:1794
-msgid "Naya Panorama"
+msgid ""
+":mtgtip:`Naya Panorama<https://img.scryfall.com/cards/border_crop/en/c13/308."
+"jpg?1517813031|https://scryfall.com/card/c13/308/naya-panorama?"
+"utm_source=api>`"
 msgstr ""
 
 # 76830711c43f40699667f45a458ee634
@@ -4767,9 +5312,10 @@ msgid ""
 "Then shuffle your library."
 msgstr ""
 
-# 5a58343215db4004b85a659e7ba31762
 #: ../../C13.rst:1802
-msgid "New Benalia"
+msgid ""
+":mtgtip:`New Benalia<https://img.scryfall.com/cards/border_crop/en/c13/309."
+"jpg?1517813031|https://scryfall.com/card/c13/309/new-benalia?utm_source=api>`"
 msgstr ""
 
 # 40df377242f44812b7d6a186eabf18f3
@@ -4784,9 +5330,10 @@ msgid ""
 "your library. You may put that card on the bottom of your library.)"
 msgstr ""
 
-# 4854addffa8840888ff1e1a2d1bf68cd
 #: ../../C13.rst:1808
-msgid "Opal Palace"
+msgid ""
+":mtgtip:`Opal Palace<https://img.scryfall.com/cards/border_crop/en/c13/310."
+"jpg?1517813031|https://scryfall.com/card/c13/310/opal-palace?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1807
@@ -4797,9 +5344,11 @@ msgid ""
 "number of times it's been cast from the command zone this game."
 msgstr ""
 
-# 3ea621d14e9d447789c4d39ecea1dfc0
 #: ../../C13.rst:1816
-msgid "Orzhov Basilica"
+msgid ""
+":mtgtip:`Orzhov Basilica<https://img.scryfall.com/cards/border_crop/en/"
+"c13/311.jpg?1517813031|https://scryfall.com/card/c13/311/orzhov-basilica?"
+"utm_source=api>`"
 msgstr ""
 
 # ecba8d814d42487ea9675ec7ed62aab3
@@ -4820,10 +5369,12 @@ msgstr ""
 msgid "|tap|: Add |mana_w|\\ |mana_b|."
 msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
-# 4527055bf50f4a509af417696a9767ac
 #: ../../C13.rst:1822
-msgid "Orzhov Guildgate"
-msgstr "Orzhov Guildgate (Brama Gildii Orzhov)"
+msgid ""
+":mtgtip:`Orzhov Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"c13/312.jpg?1517813031|https://scryfall.com/card/c13/312/orzhov-guildgate?"
+"utm_source=api>`"
+msgstr ""
 
 # 165d048ab0d3401c8be1c8dce83a8a78
 #: ../../C13.rst:1819
@@ -4835,9 +5386,11 @@ msgstr "Ta karta wchodzi przekręcona na pole walki."
 msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
-# 464b9dc709ad45208711818447a51b7a
 #: ../../C13.rst:1830
-msgid "Rakdos Carnarium"
+msgid ""
+":mtgtip:`Rakdos Carnarium<https://img.scryfall.com/cards/border_crop/en/"
+"c13/313.jpg?1517813031|https://scryfall.com/card/c13/313/rakdos-carnarium?"
+"utm_source=api>`"
 msgstr ""
 
 # 622a72fefd2b41dc8c016e3409fbabca
@@ -4859,20 +5412,24 @@ msgstr ""
 msgid "|tap|: Add |mana_b|\\ |mana_r|."
 msgstr "|tap|: Dodaj |mana_b| lub |mana_r| do twojej puli many."
 
-# d6aa8fec3a2a468bb5c993ca77ec42eb
 #: ../../C13.rst:1836
-msgid "Rakdos Guildgate"
-msgstr "Rakdos Guildgate (Brama Gildii Rakdos)"
+msgid ""
+":mtgtip:`Rakdos Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"c13/314.jpg?1517813031|https://scryfall.com/card/c13/314/rakdos-guildgate?"
+"utm_source=api>`"
+msgstr ""
 
 # ce3ab7bdee0a466199624c88c5358d76
 #: ../../C13.rst:1833
 msgid "Rakdos Guildgate enters the battlefield tapped."
 msgstr "Ta karta wchodzi przekręcona na pole walki."
 
-# adfa4ee2e5de4517aa30bfc045618b99
 #: ../../C13.rst:1844
-msgid "Rupture Spire"
-msgstr "Rupture Spire"
+msgid ""
+":mtgtip:`Rupture Spire<https://img.scryfall.com/cards/border_crop/en/c13/315."
+"jpg?1517813031|https://scryfall.com/card/c13/315/rupture-spire?"
+"utm_source=api>`"
+msgstr ""
 
 # d0ff20c5eee54321a9edb80db1072bb9
 #: ../../C13.rst:1839
@@ -4888,9 +5445,11 @@ msgstr ""
 "Kiedy ta karta wejdzie na pole walki, poświęć ją, chyba że zapłacisz |"
 "mana_1|."
 
-# 6556be82ba354da1bce6c3d3cab04f16
 #: ../../C13.rst:1852
-msgid "Saltcrusted Steppe"
+msgid ""
+":mtgtip:`Saltcrusted Steppe<https://img.scryfall.com/cards/border_crop/en/"
+"c13/316.jpg?1517813031|https://scryfall.com/card/c13/316/saltcrusted-steppe?"
+"utm_source=api>`"
 msgstr ""
 
 # a2a78494eca1415bb9f89a9fbf47d73b
@@ -4904,9 +5463,11 @@ msgid ""
 "any combination of |mana_g| and/or |mana_w|."
 msgstr ""
 
-# 69f04266250e476d9c8876c06e0239fa
 #: ../../C13.rst:1858
-msgid "Savage Lands"
+msgid ""
+":mtgtip:`Savage Lands<https://img.scryfall.com/cards/border_crop/en/c13/317."
+"jpg?1517813031|https://scryfall.com/card/c13/317/savage-lands?"
+"utm_source=api>`"
 msgstr ""
 
 # 5c0c7765cb404fd6bf98ef454f5dcb3d
@@ -4914,9 +5475,11 @@ msgstr ""
 msgid "Savage Lands enters the battlefield tapped."
 msgstr ""
 
-# 527da378aad64e4a93b882f6bfb0d7cc
 #: ../../C13.rst:1864
-msgid "Seaside Citadel"
+msgid ""
+":mtgtip:`Seaside Citadel<https://img.scryfall.com/cards/border_crop/en/"
+"c13/318.jpg?1517813031|https://scryfall.com/card/c13/318/seaside-citadel?"
+"utm_source=api>`"
 msgstr ""
 
 # 5188fba277fd47c0af22dca0c90e2437
@@ -4930,9 +5493,11 @@ msgstr ""
 msgid "|tap|: Add |mana_g|, |mana_w|, or |mana_u|."
 msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
-# 8e18c3b8ae0149418d90b22d5e39419a
 #: ../../C13.rst:1872
-msgid "Secluded Steppe"
+msgid ""
+":mtgtip:`Secluded Steppe<https://img.scryfall.com/cards/border_crop/en/"
+"c13/319.jpg?1517813031|https://scryfall.com/card/c13/319/secluded-steppe?"
+"utm_source=api>`"
 msgstr ""
 
 # ce095eb17fdb4a7d9f3ba1f0a788645f
@@ -4945,9 +5510,11 @@ msgstr ""
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_w| (|mana_w|, odrzuć tę kartę: Dobierz kartę.)"
 
-# d6220f3e888d4e1ba2d61c30d802c3bb
 #: ../../C13.rst:1880
-msgid "Sejiri Refuge"
+msgid ""
+":mtgtip:`Sejiri Refuge<https://img.scryfall.com/cards/border_crop/en/c13/320."
+"jpg?1517813031|https://scryfall.com/card/c13/320/sejiri-refuge?"
+"utm_source=api>`"
 msgstr ""
 
 # 13b242c1a16641ef97a834e7d88ea94e
@@ -4960,9 +5527,11 @@ msgstr ""
 msgid "When Sejiri Refuge enters the battlefield, you gain 1 life."
 msgstr ""
 
-# a65bbafbcbf74663aa337b71ad7089f7
 #: ../../C13.rst:1886
-msgid "Selesnya Guildgate"
+msgid ""
+":mtgtip:`Selesnya Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"c13/321.jpg?1517813031|https://scryfall.com/card/c13/321/selesnya-guildgate?"
+"utm_source=api>`"
 msgstr ""
 
 # c3298500fb50411a9355b25047bcff54
@@ -4975,9 +5544,11 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
-# 2aa68967bbf64679a9237ae2b5e4ce3d
 #: ../../C13.rst:1894
-msgid "Selesnya Sanctuary"
+msgid ""
+":mtgtip:`Selesnya Sanctuary<https://img.scryfall.com/cards/border_crop/en/"
+"c13/322.jpg?1517813031|https://scryfall.com/card/c13/322/selesnya-sanctuary?"
+"utm_source=api>`"
 msgstr ""
 
 # bc0007215ab64e83bb167a093ec8d96e
@@ -4998,10 +5569,12 @@ msgstr ""
 msgid "|tap|: Add |mana_g|\\ |mana_w|."
 msgstr "|tap|: Dodaj |mana_r| albo |mana_w| do swojej puli many."
 
-# 79026daf44a2416592cbf39e69c033ab
 #: ../../C13.rst:1900
-msgid "Simic Guildgate"
-msgstr "Simic Guildgate (Brama Gildii Simic)"
+msgid ""
+":mtgtip:`Simic Guildgate<https://img.scryfall.com/cards/border_crop/en/"
+"c13/323.jpg?1517813031|https://scryfall.com/card/c13/323/simic-guildgate?"
+"utm_source=api>`"
+msgstr ""
 
 # ed49ac389c2b49ed82aa7697ee574f4c
 #: ../../C13.rst:1897
@@ -5014,9 +5587,11 @@ msgstr "Ta karta wchodzi przekręcona na pole walki."
 msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
-# 4e822b9c4f0b4208a51574a16b599156
 #: ../../C13.rst:1908
-msgid "Slippery Karst"
+msgid ""
+":mtgtip:`Slippery Karst<https://img.scryfall.com/cards/border_crop/en/"
+"c13/324.jpg?1517813031|https://scryfall.com/card/c13/324/slippery-karst?"
+"utm_source=api>`"
 msgstr ""
 
 # ee3e5835f0ac41f4be1f2e3b72ce0592
@@ -5024,9 +5599,11 @@ msgstr ""
 msgid "Slippery Karst enters the battlefield tapped."
 msgstr ""
 
-# a39496082aca4f1784af73bc7da11c9d
 #: ../../C13.rst:1916
-msgid "Smoldering Crater"
+msgid ""
+":mtgtip:`Smoldering Crater<https://img.scryfall.com/cards/border_crop/en/"
+"c13/325.jpg?1517813031|https://scryfall.com/card/c13/325/smoldering-crater?"
+"utm_source=api>`"
 msgstr ""
 
 # 0620464008594f58be876a4952f7b4f6
@@ -5034,9 +5611,11 @@ msgstr ""
 msgid "Smoldering Crater enters the battlefield tapped."
 msgstr ""
 
-# 4c8acd81d9f04ae793287f92716d30ac
 #: ../../C13.rst:1924
-msgid "Springjack Pasture"
+msgid ""
+":mtgtip:`Springjack Pasture<https://img.scryfall.com/cards/border_crop/en/"
+"c13/326.jpg?1517813031|https://scryfall.com/card/c13/326/springjack-pasture?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1921
@@ -5051,9 +5630,11 @@ msgstr ""
 msgid "|tap|, Sacrifice X Goats: Add X mana of any one color. You gain X life."
 msgstr "|tap|: Dodaj jedną manę dowolnego koloru do swojej puli many."
 
-# 2eaa598513c14402b53329537fa4cac1
 #: ../../C13.rst:1928
-msgid "Temple of the False God"
+msgid ""
+":mtgtip:`Temple of the False God<https://img.scryfall.com/cards/border_crop/"
+"en/c13/327.jpg?1517813031|https://scryfall.com/card/c13/327/temple-of-the-"
+"false-god?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1927
@@ -5062,9 +5643,11 @@ msgid ""
 "control five or more lands."
 msgstr ""
 
-# 3d7bdff5e02e4a429ae88afea5b9b1f4
 #: ../../C13.rst:1932
-msgid "Terramorphic Expanse"
+msgid ""
+":mtgtip:`Terramorphic Expanse<https://img.scryfall.com/cards/border_crop/en/"
+"c13/328.jpg?1517813031|https://scryfall.com/card/c13/328/terramorphic-"
+"expanse?utm_source=api>`"
 msgstr ""
 
 # 37c3a83d448b4ea69850b2cf0cbd81a4
@@ -5078,9 +5661,11 @@ msgstr ""
 "bibliotekę w poszukiwaniu karty zwykłego lądu, ujawnić ją i dołożyć do "
 "swojej ręki, a następnie przetasować twoją bibliotekę."
 
-# b07dc99f92d44f0099f5c0388dfb8800
 #: ../../C13.rst:1940
-msgid "Tranquil Thicket"
+msgid ""
+":mtgtip:`Tranquil Thicket<https://img.scryfall.com/cards/border_crop/en/"
+"c13/329.jpg?1517813031|https://scryfall.com/card/c13/329/tranquil-thicket?"
+"utm_source=api>`"
 msgstr ""
 
 # a31505a2ed3b4dac9c9e3b301b28ac39
@@ -5093,11 +5678,12 @@ msgstr ""
 msgid "Cycling |mana_g| (|mana_g|, Discard this card: Draw a card.)"
 msgstr "Recykling |mana_g| (|mana_g|, odrzuć tę kartę: Dobierz kartę.)"
 
-# 407df5abddb6483190822aff87206a09
 #: ../../C13.rst:1948
-#, fuzzy
-msgid "Transguild Promenade"
-msgstr "Transguild Promenade"
+msgid ""
+":mtgtip:`Transguild Promenade<https://img.scryfall.com/cards/border_crop/en/"
+"c13/330.jpg?1517813031|https://scryfall.com/card/c13/330/transguild-"
+"promenade?utm_source=api>`"
+msgstr ""
 
 # 9d5abd4a4a2f45ecaa681c02f40efc6f
 #: ../../C13.rst:1943
@@ -5111,9 +5697,11 @@ msgid ""
 "pay |mana_1|."
 msgstr ""
 
-# de928cf5703840269a492ee8b134c1c9
 #: ../../C13.rst:1954
-msgid "Urza's Factory"
+msgid ""
+":mtgtip:`Urza's Factory<https://img.scryfall.com/cards/border_crop/en/"
+"c13/331.jpg?1517813031|https://scryfall.com/card/c13/331/urzas-factory?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1953
@@ -5122,9 +5710,11 @@ msgid ""
 "token."
 msgstr ""
 
-# 44bed460609047eb8a87788662682a48
 #: ../../C13.rst:1960
-msgid "Vitu-Ghazi, the City-Tree"
+msgid ""
+":mtgtip:`Vitu-Ghazi, the City-Tree<https://img.scryfall.com/cards/"
+"border_crop/en/c13/332.jpg?1517813031|https://scryfall.com/card/c13/332/vitu-"
+"ghazi-the-city-tree?utm_source=api>`"
 msgstr ""
 
 #: ../../C13.rst:1959
@@ -5133,9 +5723,10 @@ msgid ""
 "token."
 msgstr ""
 
-# 77a70f4a197044cfb8040fc40d5131ec
 #: ../../C13.rst:1968
-msgid "Vivid Crag"
+msgid ""
+":mtgtip:`Vivid Crag<https://img.scryfall.com/cards/border_crop/en/c13/333."
+"jpg?1517813031|https://scryfall.com/card/c13/333/vivid-crag?utm_source=api>`"
 msgstr ""
 
 # 265653e115754a4b81d9126ac004f61f
@@ -5149,9 +5740,10 @@ msgid ""
 "|tap|, Remove a charge counter from Vivid Crag: Add one mana of any color."
 msgstr ""
 
-# 330a518f9b96458f94830adcc4af99cb
 #: ../../C13.rst:1976
-msgid "Vivid Creek"
+msgid ""
+":mtgtip:`Vivid Creek<https://img.scryfall.com/cards/border_crop/en/c13/334."
+"jpg?1517813031|https://scryfall.com/card/c13/334/vivid-creek?utm_source=api>`"
 msgstr ""
 
 # 578f90064b68462880f68265ca4e9f85
@@ -5165,9 +5757,10 @@ msgid ""
 "|tap|, Remove a charge counter from Vivid Creek: Add one mana of any color."
 msgstr ""
 
-# 7949c19219a948d9a038b12b8684b013
 #: ../../C13.rst:1984
-msgid "Vivid Grove"
+msgid ""
+":mtgtip:`Vivid Grove<https://img.scryfall.com/cards/border_crop/en/c13/335."
+"jpg?1517813031|https://scryfall.com/card/c13/335/vivid-grove?utm_source=api>`"
 msgstr ""
 
 # cb231b2a3b7b44c8890c70cce98d364c
@@ -5181,9 +5774,10 @@ msgid ""
 "|tap|, Remove a charge counter from Vivid Grove: Add one mana of any color."
 msgstr ""
 
-# e665e338a8eb4aaf80acc3050f2d6ed8
 #: ../../C13.rst:1992
-msgid "Vivid Marsh"
+msgid ""
+":mtgtip:`Vivid Marsh<https://img.scryfall.com/cards/border_crop/en/c13/336."
+"jpg?1517813031|https://scryfall.com/card/c13/336/vivid-marsh?utm_source=api>`"
 msgstr ""
 
 # 443830dcbebd44808292508d83a11232
@@ -5197,30 +5791,213 @@ msgid ""
 "|tap|, Remove a charge counter from Vivid Marsh: Add one mana of any color."
 msgstr ""
 
+#: ../../C13.rst:1996
+msgid ""
+":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/c13/337.jpg?"
+"1517813031|https://scryfall.com/card/c13/337/plains?utm_source=api>`"
+msgstr ""
+
+#: ../../C13.rst:1995
+#, fuzzy
+msgid "(|tap|: Add |mana_w|.)"
+msgstr "|tap|: Dostajesz |mana_w|."
+
+#: ../../C13.rst:2000
+msgid ""
+":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/c13/341.jpg?"
+"1517813031|https://scryfall.com/card/c13/341/island?utm_source=api>`"
+msgstr ""
+
+#: ../../C13.rst:1999
+#, fuzzy
+msgid "(|tap|: Add |mana_u|.)"
+msgstr "|tap|: Dostajesz |mana_u|."
+
+#: ../../C13.rst:2004
+msgid ""
+":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/c13/345.jpg?"
+"1517813031|https://scryfall.com/card/c13/345/swamp?utm_source=api>`"
+msgstr ""
+
+#: ../../C13.rst:2003
+#, fuzzy
+msgid "(|tap|: Add |mana_b|.)"
+msgstr "|tap|: Dostajesz |mana_b|."
+
+#: ../../C13.rst:2008
+msgid ""
+":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/c13/349.jpg?"
+"1517813031|https://scryfall.com/card/c13/349/mountain?utm_source=api>`"
+msgstr ""
+
+#: ../../C13.rst:2007
+#, fuzzy
+msgid "(|tap|: Add |mana_r|.)"
+msgstr "|tap|: Dostajesz |mana_r|."
+
+#: ../../C13.rst:2011
+msgid ""
+":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/c13/353.jpg?"
+"1517813031|https://scryfall.com/card/c13/353/forest?utm_source=api>`"
+msgstr ""
+
+#: ../../C13.rst:2011
+#, fuzzy
+msgid "(|tap|: Add |mana_g|.)"
+msgstr "|tap|: Dostajesz |mana_g|."
+
+# dd0d92f2f9ef4152b3b14e70292202a7
+#, fuzzy
+#~ msgid "Commander 2013 Edition"
+#~ msgstr "Commander 2013"
+
+# 0314c309ee764b7c8b6cbfbb84798f5d
+#, fuzzy
+#~ msgid "Act of Authority"
+#~ msgstr "Act of Authority"
+
+# aa2bd45771fb453f8a527b5600aa6133
+#~ msgid "Ajani's Pridemate"
+#~ msgstr "Ajani's Pridemate"
+
+# 817e8c0afd9d4b0cbcf4ed6f54b08d3a
+#~ msgid "Archangel"
+#~ msgstr "Archangel (Archanioł)"
+
+# 9dab0355f6244ec0b90fb5c68a891812
+#~ msgid "Blue Sun's Zenith"
+#~ msgstr "Blue Sun's Zenith (Zenit Niebieskiego Słońca)"
+
+# fdee919c27064505a86363b70e4f2f7b
+#~ msgid "Army of the Damned"
+#~ msgstr "Army of the Damned (Armia Potępionych)"
+
+# c6cbe2eedad24188957d7d97cdebaf7d
+#~ msgid "Famine"
+#~ msgstr "Famine (Klęska Głodu)"
+
+# aacca06fb6a6405a8667962eff09c4ca
+#, fuzzy
+#~ msgid "Wight of Precinct Six"
+#~ msgstr "Wight of Precinct Six"
+
+# 6b5c218e4d484451bab578236bda4d21
+#~ msgid "Guttersnipe"
+#~ msgstr "Guttersnipe"
+
+# 0580180589e1466b96112491daaa7331
+#, fuzzy
+#~ msgid "Street Spasm"
+#~ msgstr "Street Spasm"
+
+# a32197b6d5d84af0b913e1d3040b651c
+#~ msgid "Acidic Slime"
+#~ msgstr "Acidic Slime (Kwasowy Szlam)"
+
+# c5988b0069bb409a93ef5e2769ca7d45
+#~ msgid "Rain of Thorns"
+#~ msgstr "Rain of Thorns (Deszcz Cierni)"
+
+# c0f559ff642d434d9b12f871bcb36107
+#~ msgid "Slice in Twain"
+#~ msgstr "Slice in Twain"
+
+# 53916f7fde01458088c04e48c8502d8b
+#, fuzzy
+#~ msgid "Nivix Guildmage"
+#~ msgstr "Nivix Guildmage"
+
+# 7711a50a374940ceb5e8a89f76d6896f
+#, fuzzy
+#~ msgid "Selesnya Charm"
+#~ msgstr "Selesnya Charm"
+
+# 1bbce600f83b4b908cb908c03d59909a
+#, fuzzy
+#~ msgid "Vizkopa Guildmage"
+#~ msgstr "Vizkopa Guildmage"
+
+# 1c758625a5874f99bbf0d92078e6276d
+#, fuzzy
+#~ msgid "Azorius Keyrune"
+#~ msgstr "Azorius Keyrune"
+
+# 25d32835eae9486880f9a1fce420aa5e
+#~ msgid "Pilgrim's Eye"
+#~ msgstr "Pilgrim's Eye (Oko Pielgrzyma)"
+
+# d73f68d18f454e189838b22fcdebd824
+#~ msgid "Azorius Guildgate"
+#~ msgstr "Azorius Guildgate (Brama Gildii Azorius)"
+
+# 39235b816467421e845fa8ca0d52bd2f
+#, fuzzy
+#~ msgid "Boros Guildgate"
+#~ msgstr "Boros Guildgate"
+
+# 0aa68b79472642bfa1fc01f5e28deda0
+#, fuzzy
+#~ msgid "Dimir Guildgate"
+#~ msgstr "Dimir Guildgate"
+
+# b5098f9644914502b7e9fee58e68aec7
+#~ msgid "Evolving Wilds"
+#~ msgstr "Evolving Wilds"
+
+# 45e6be73e2bb46c1aec8135bf464b52f
+#~ msgid "Forgotten Cave"
+#~ msgstr "Forgotten Cave (Zapomniana Jaskinia)"
+
+# dd25c2161cc1459e9430edb3177c0f72
+#, fuzzy
+#~ msgid "Golgari Guildgate"
+#~ msgstr "Golgari Guildgate"
+
+# 308f3c2708674ed8bc20e3e8f860199a
+#, fuzzy
+#~ msgid "Gruul Guildgate"
+#~ msgstr "Gruul Guildgate"
+
+# 4527055bf50f4a509af417696a9767ac
+#~ msgid "Orzhov Guildgate"
+#~ msgstr "Orzhov Guildgate (Brama Gildii Orzhov)"
+
+# d6aa8fec3a2a468bb5c993ca77ec42eb
+#~ msgid "Rakdos Guildgate"
+#~ msgstr "Rakdos Guildgate (Brama Gildii Rakdos)"
+
+# adfa4ee2e5de4517aa30bfc045618b99
+#~ msgid "Rupture Spire"
+#~ msgstr "Rupture Spire"
+
+# 79026daf44a2416592cbf39e69c033ab
+#~ msgid "Simic Guildgate"
+#~ msgstr "Simic Guildgate (Brama Gildii Simic)"
+
+# 407df5abddb6483190822aff87206a09
+#, fuzzy
+#~ msgid "Transguild Promenade"
+#~ msgstr "Transguild Promenade"
+
 # 63071f89aec64b9281d48463e09e132e
-#: ../../C13.rst:1994 ../../C13.rst:1998 ../../C13.rst:2002 ../../C13.rst:2006
-msgid "Plains"
-msgstr "Plains (Równina)"
+#~ msgid "Plains"
+#~ msgstr "Plains (Równina)"
 
 # b46df4b33df84cc0863964e8f0cbd257
-#: ../../C13.rst:2010 ../../C13.rst:2014 ../../C13.rst:2018 ../../C13.rst:2022
-msgid "Island"
-msgstr "Island (Wyspa)"
+#~ msgid "Island"
+#~ msgstr "Island (Wyspa)"
 
 # bb23a7c740dd498a8b18e6d71b27a99d
-#: ../../C13.rst:2026 ../../C13.rst:2030 ../../C13.rst:2034 ../../C13.rst:2038
-msgid "Swamp"
-msgstr "Swamp (Bagno)"
+#~ msgid "Swamp"
+#~ msgstr "Swamp (Bagno)"
 
 # 15998310195e46848cfed23c53a58ac0
-#: ../../C13.rst:2042 ../../C13.rst:2046 ../../C13.rst:2050 ../../C13.rst:2054
-msgid "Mountain"
-msgstr "Mountain (Góra)"
+#~ msgid "Mountain"
+#~ msgstr "Mountain (Góra)"
 
 # 1c9d3996a4d946b5beefaeb9d4b7b70a
-#: ../../C13.rst:2058 ../../C13.rst:2062 ../../C13.rst:2066 ../../C13.rst:2070
-msgid "Forest"
-msgstr "Forest (Las)"
+#~ msgid "Forest"
+#~ msgstr "Forest (Las)"
 
 # 587f74b248f2410b9b28796242daef8f
 #~ msgid "G"
