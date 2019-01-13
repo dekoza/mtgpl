@@ -10,6 +10,10 @@ Spis zmian
 
     Ustalenie ostatecznej wersji tlumaczenia słów 'tap/untap'.
 
+    Dodanie symboli zestawów przy linkach i w nagłówkach stron.
+
+    Dodanie ilustracji kart przy najechaniu myszą na nazwę.
+
 2019-01-06
     Dodane tłumaczenia przyszłych kart z Ravnica Allegiance (dzięki API Scryfall.com)
 

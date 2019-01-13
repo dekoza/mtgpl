@@ -4,7 +4,15 @@ Spis zmian
 ***********
 
 2019-01-13
-    Wystawienie seriwsu dla tłumaczy: `https://weblate.mtgpopolsku.pl`
+    Wystawienie seriwsu dla tłumaczy: https://weblate.mtgpopolsku.pl
+
+    Aktywacja SSL w całym serwisie, wyłączenie możliwości przeglądania serwisu bez HTTPS.
+
+    Ustalenie ostatecznej wersji tlumaczenia słów 'tap/untap'.
+
+    Dodanie symboli zestawów przy linkach i w nagłówkach stron.
+
+    Dodanie ilustracji kart przy najechaniu myszą na nazwę.
 
 2019-01-06
     Dodane tłumaczenia przyszłych kart z Ravnica Allegiance (dzięki API Scryfall.com)
@@ -19,7 +27,7 @@ Spis zmian
     :doc:`Ixalan<XLN>` 100%, :doc:`Dominaria<DOM>` 66%.
 
 2018-12-28
-    Testowe uruchomienie strony mtgpopolsku.pl - w pełni przetłumaczone dodatki z aktualnego Standardu: :doc:`Guilds of Ravnica<GRN>`, :doc:`Rivals of Ixalan<RIX>` oraz częściowo pozostałe dodatki aż do `New Phyrexia<NPH>`.
+    Testowe uruchomienie strony mtgpopolsku.pl - w pełni przetłumaczone dodatki z aktualnego Standardu: :doc:`Guilds of Ravnica<GRN>`, :doc:`Rivals of Ixalan<RIX>` oraz częściowo pozostałe dodatki aż do :doc:`New Phyrexia<NPH>`.
 
     Zmiana tłumaczenia słowa "tap" - mimo że "zaznaczyć" (i analogicznie "odznaczyć" dla "untap") jest bardziej po polsku, to akurat to słowo jest mocno zakorzenione w slangu i występuje niezmienione w innych lokalizacjach gry.
 
