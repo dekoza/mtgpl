@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 00:10+0000\n"
+"PO-Revision-Date: 2019-01-13 17:36+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -706,7 +706,7 @@ msgstr ""
 
 #: ../../ORI.rst:303
 msgid "Tap target creature."
-msgstr "Zaznacz wskazanego stwora."
+msgstr "Przekręć wskazanego stwora."
 
 #: ../../ORI.rst:305
 msgid "Untap target creature."
@@ -1200,6 +1200,8 @@ msgstr ""
 #: ../../ORI.rst:519
 msgid "At the beginning of your upkeep, choose one that hasn't been chosen —"
 msgstr ""
+"Na początku twojego kroku utrzymania, wybierz to, co nie było jeszcze "
+"wybrane —"
 
 #: ../../ORI.rst:521
 msgid "Demonic Pact deals 4 damage to any target and you gain 4 life."

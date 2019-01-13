@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 15:26+0000\n"
+"PO-Revision-Date: 2019-01-13 17:36+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -2002,7 +2002,7 @@ msgstr "Artful Takedown"
 
 #: ../../GRN.rst:805
 msgid "Tap target creature."
-msgstr "Zaznacz wskazanego stwora."
+msgstr "Przekręć wskazanego stwora."
 
 #: ../../GRN.rst:807
 msgid "Target creature gets -2/-4 until end of turn."
@@ -3504,12 +3504,11 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 #: ../../GRN.rst:1370
 #, fuzzy
 msgid ":mtgtip:`Gateway Plaza`"
-msgstr "Gateway Plaza"
+msgstr ":mtgtip:`Gateway Plaza`"
 
 #: ../../GRN.rst:1365
-#, fuzzy
 msgid "Gateway Plaza enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki przekręcona."
+msgstr "Ta karta wchodzi przekręcona na pole walki."
 
 #: ../../GRN.rst:1367
 msgid ""

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 15:26+0000\n"
+"PO-Revision-Date: 2019-01-13 17:36+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/gtc/pl/>\n"
 "Language: pl\n"
@@ -2142,12 +2142,12 @@ msgstr ""
 #: ../../GTC.rst:694
 #, fuzzy
 msgid ":mtgtip:`Tower Defense`"
-msgstr "Tower Defense"
+msgstr ":mtgtip:`Tower Defense`"
 
 # 472b897b3b5a4765b4d354498b45f161
 #: ../../GTC.rst:693
 msgid "Creatures you control get +0/+5 and gain reach until end of turn."
-msgstr "Stwory, którymi władasz dostają do końca tury +0/+5 oraz zasięg."
+msgstr "Stwory pod twoim władaniem dostają do końca tury +0/+5 oraz zasięg."
 
 # 3e0b9bc4d7954676a8ff06988d305ca2
 #: ../../GTC.rst:702
@@ -3964,7 +3964,7 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 #: ../../GTC.rst:1274
 #, fuzzy
 msgid ":mtgtip:`Breeding Pool`"
-msgstr "Breeding Pool"
+msgstr ":mtgtip:`Breeding Pool`"
 
 # 911f6277850f4d29a090a08d14d48a5d
 #: ../../GTC.rst:1271
@@ -3973,13 +3973,12 @@ msgstr "(|tap|: Dostajesz |mana_g| lub |mana_u|.)"
 
 # 1005acd2a66f4bfea05158329b3a0af0
 #: ../../GTC.rst:1273
-#, fuzzy
 msgid ""
 "As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Kładąc Breeding Pool na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
-"zrobisz, Breeding Pool wchodzi na pole walki przekręcony."
+"Umieszczając tę kartę na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wejdzie przekręcona na pole walki."
 
 # 3029c5f56974428e841e8f8c020e6f0e
 #: ../../GTC.rst:1280
@@ -3996,7 +3995,7 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 #: ../../GTC.rst:1286
 #, fuzzy
 msgid ":mtgtip:`Godless Shrine`"
-msgstr "Godless Shrine"
+msgstr ":mtgtip:`Godless Shrine`"
 
 # 16accc0a34814dea89f73329b1727669
 #: ../../GTC.rst:1283
@@ -4005,35 +4004,33 @@ msgstr "(|tap|: Dostajesz |mana_w| lub |mana_b|.)"
 
 # 95cff7ee0262439e8862ecd670c7551e
 #: ../../GTC.rst:1285
-#, fuzzy
 msgid ""
 "As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Kładąc Bezbożną Kaplicę na polu walki, możesz zapłacić 2 życia. Jeśli tego "
-"nie zrobisz, Bezbożna Kaplica wchodzi na pole walki przekręcona."
+"Umieszczając tę kartę na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wejdzie przekręcona na pole walki."
 
 # 2dd15ec39b0e4f62b114e65270c26c5b
 #: ../../GTC.rst:1292
 #, fuzzy
 msgid ":mtgtip:`Gruul Guildgate`"
-msgstr "Gruul Guildgate"
+msgstr ":mtgtip:`Gruul Guildgate`"
 
 # 88cffb06b8304954940c9c632c3255ae
 #: ../../GTC.rst:1289
 msgid "Gruul Guildgate enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zaznaczona."
+msgstr "Ta karta wchodzi przekręcona na pole walki."
 
 # 3fd2872c08bd4ce6840e8b11c69349cc
 #: ../../GTC.rst:1298
-#, fuzzy
 msgid ":mtgtip:`Orzhov Guildgate`"
-msgstr "Orzhov Guildgate (Brama Gildii Orzhov)"
+msgstr ":mtgtip:`Orzhov Guildgate` (Brama Gildii Orzhov)"
 
 # 3f6fecbfa1b4498593f72dbda57c3f62
 #: ../../GTC.rst:1295
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zaznaczona."
+msgstr "Ta karta wchodzi przekręcona na pole walki."
 
 # b2855b057ada4f448301abc9f7db9f1e
 #: ../../GTC.rst:1304
@@ -4058,20 +4055,19 @@ msgstr ""
 
 # bf4c0f9890ba41b5b68573d822857a8d
 #: ../../GTC.rst:1310
-#, fuzzy
 msgid ":mtgtip:`Simic Guildgate`"
-msgstr "Simic Guildgate (Brama Gildii Simic)"
+msgstr ":mtgtip:`Simic Guildgate` (Brama Gildii Simic)"
 
 # d16c0d2b846b4f19a211e019b386d356
 #: ../../GTC.rst:1307
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zaznaczona."
+msgstr "Ta karta wchodzi przekręcona na pole walki."
 
 # 6075bf4bbff542aa9d3524b76af74199
 #: ../../GTC.rst:1316
 #, fuzzy
 msgid ":mtgtip:`Stomping Ground`"
-msgstr "Stomping Ground"
+msgstr ":mtgtip:`Stomping Ground`"
 
 # 038d396e9a494a40aa049c08cac8de98
 #: ../../GTC.rst:1313
@@ -4080,13 +4076,12 @@ msgstr "(|tap|: Dostajesz |mana_r| lub |mana_g|.)"
 
 # 9589fa564bef4f7387075b23dccd0b43
 #: ../../GTC.rst:1315
-#, fuzzy
 msgid ""
 "As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, "
 "it enters the battlefield tapped."
 msgstr ""
-"Kładąc Stomping Ground na polu walki, możesz zapłacić 2 życia. Jeśli tego "
-"nie zrobisz, Stomping Ground wchodzi na pole walki przekręcony."
+"Umieszczając tę kartę na polu walki możesz zapłacić 2 życia. Jeśli tego nie "
+"zrobisz, wejdzie przekręcona na pole walki."
 
 # 69171bbce7764beb896a293d37b75809
 #: ../../GTC.rst:1322

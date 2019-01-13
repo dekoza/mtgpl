@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 15:26+0000\n"
+"PO-Revision-Date: 2019-01-13 17:36+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dgm/pl/>\n"
 "Language: pl\n"
@@ -1221,7 +1221,7 @@ msgstr ""
 # 5e5f8396c0cd4f2b9a76e87e2a2a526b
 #: ../../DGM.rst:381
 msgid "Creatures your opponents control get -1/-0."
-msgstr "Stwory władane przez twoich przeciwników dostają -1/-0."
+msgstr "Stwory pod władaniem twoich przeciwników dostają -1/-0."
 
 #: ../../DGM.rst:388
 msgid ":mtgtip:`Jelenn Sphinx`"
@@ -2500,14 +2500,13 @@ msgstr "|mana_g|\\ |mana_u|, |tap|, poświęć Simic Cluestone: Dobierz kartę."
 
 # 497c827c69c844b1b3b7f2449f94fba6
 #: ../../DGM.rst:862
-#, fuzzy
 msgid ":mtgtip:`Azorius Guildgate`"
-msgstr "Azorius Guildgate (Brama Gildii Azorius)"
+msgstr ":mtgtip:`Azorius Guildgate` (Brama Gildii Azorius)"
 
 # 9ba7e3ddf5144effb9cf7effc5812f3d
 #: ../../DGM.rst:859
 msgid "Azorius Guildgate enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki jako zaznaczona."
+msgstr "Ta karta wchodzi przekręcona na pole walki."
 
 # a8f3f68c9e894e0297cc00a1f653663a
 #: ../../DGM.rst:868
@@ -2547,12 +2546,12 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 #: ../../DGM.rst:886
 #, fuzzy
 msgid ":mtgtip:`Gruul Guildgate`"
-msgstr "Gruul Guildgate"
+msgstr ":mtgtip:`Gruul Guildgate`"
 
 # 8a46b996b9dd4172993b88a2c9475053
 #: ../../DGM.rst:883
 msgid "Gruul Guildgate enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zaznaczona."
+msgstr "Ta karta wchodzi przekręcona na pole walki."
 
 # c101d66f67f1469b95f590021f50c52a
 #: ../../DGM.rst:892
@@ -2594,25 +2593,23 @@ msgstr ""
 
 # 839178e5529a45c9b9e60c921d5b870b
 #: ../../DGM.rst:906
-#, fuzzy
 msgid ":mtgtip:`Orzhov Guildgate`"
-msgstr "Orzhov Guildgate (Brama Gildii Orzhov)"
+msgstr ":mtgtip:`Orzhov Guildgate` (Brama Gildii Orzhov)"
 
 # 7a0e381ff1414d4ba23f8e20f228e939
 #: ../../DGM.rst:903
 msgid "Orzhov Guildgate enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zaznaczona."
+msgstr "Ta karta wchodzi przekręcona na pole walki."
 
 # 75ad288e7ac34746a144780ca63f4288
 #: ../../DGM.rst:912
-#, fuzzy
 msgid ":mtgtip:`Rakdos Guildgate`"
-msgstr "Rakdos Guildgate (Brama Gildii Rakdos)"
+msgstr ":mtgtip:`Rakdos Guildgate` (Brama Gildii Rakdos)"
 
 # e872c2cf89fd4507a523725390a30cfb
 #: ../../DGM.rst:909
 msgid "Rakdos Guildgate enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zaznaczona."
+msgstr "Ta karta wchodzi przekręcona na pole walki."
 
 #: ../../DGM.rst:918
 msgid ":mtgtip:`Selesnya Guildgate`"
@@ -2625,14 +2622,13 @@ msgstr "Ten ląd wchodzi na pole walki przekręcony."
 
 # 91ce735e0f064b3dbbd5d3181b3756d1
 #: ../../DGM.rst:923
-#, fuzzy
 msgid ":mtgtip:`Simic Guildgate`"
-msgstr "Simic Guildgate (Brama Gildii Simic)"
+msgstr ":mtgtip:`Simic Guildgate` (Brama Gildii Simic)"
 
 # 3223f92aa08c48df8b634855e6ba86cc
 #: ../../DGM.rst:921
 msgid "Simic Guildgate enters the battlefield tapped."
-msgstr "Ta karta wchodzi na pole walki zaznaczona."
+msgstr "Ta karta wchodzi przekręcona na pole walki."
 
 # ddc194a8ce10447783d299ae1e894f9b
 #~ msgid "Putrefy"

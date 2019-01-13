@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 13:23+0100\n"
-"PO-Revision-Date: 2019-01-13 15:26+0000\n"
+"PO-Revision-Date: 2019-01-13 17:36+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/soi/pl/>\n"
 "Language: pl\n"
@@ -2830,11 +2830,10 @@ msgid ":mtgtip:`Loam Dryad`"
 msgstr ""
 
 #: ../../SOI.rst:1281
-#, fuzzy
 msgid "|tap|, Tap an untapped creature you control: Add one mana of any color."
 msgstr ""
-"|tap|, przekręć odkręconego stwora pod twoim władaniem: Dodaj jedną manę "
-"dowolnego koloru do twojej puli many."
+"|tap|, przekręć odkręconego stwora pod twoim władaniem: Dostajesz jedną manę "
+"dowolnego koloru."
 
 #: ../../SOI.rst:1288
 msgid ":mtgtip:`Might Beyond Reason`"
