@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-13 13:23+0100\n"
+"POT-Creation-Date: 2019-01-13 21:34+0100\n"
 "PO-Revision-Date: 2019-01-13 22:24+0000\n"
 "Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/soi/pl/>\n"
@@ -26,8 +26,10 @@ msgid ":mtgexp:`SOI` Shadows over Innistrad"
 msgstr "Shadows over Innistrad (Cienie nad Innistradem)"
 
 #: ../../SOI.rst:10
-#, fuzzy
-msgid ":mtgtip:`Always Watching`"
+msgid ""
+":mtgtip:`Always Watching<https://img.scryfall.com/cards/border_crop/en/soi/1."
+"jpg?1517813031|https://scryfall.com/card/soi/1/always-watching?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:9
@@ -35,17 +37,19 @@ msgid "Nontoken creatures you control get +1/+1 and have vigilance."
 msgstr "Nie-żetonowe stwory pod twoim władaniem dostają +1/+1 i mają czujność."
 
 #: ../../SOI.rst:16
-#, fuzzy
-msgid ":mtgtip:`Angel of Deliverance`"
+msgid ""
+":mtgtip:`Angel of Deliverance<https://img.scryfall.com/cards/border_crop/en/"
+"soi/2.jpg?1517813031|https://scryfall.com/card/soi/2/angel-of-deliverance?"
+"utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:13 ../../SOI.rst:25 ../../SOI.rst:31 ../../SOI.rst:63
+#: ../../SOI.rst:13 ../../SOI.rst:25 ../../SOI.rst:41 ../../SOI.rst:63
 #: ../../SOI.rst:95 ../../SOI.rst:107 ../../SOI.rst:213 ../../SOI.rst:223
-#: ../../SOI.rst:257 ../../SOI.rst:283 ../../SOI.rst:287 ../../SOI.rst:345
+#: ../../SOI.rst:257 ../../SOI.rst:283 ../../SOI.rst:289 ../../SOI.rst:345
 #: ../../SOI.rst:371 ../../SOI.rst:435 ../../SOI.rst:443 ../../SOI.rst:471
 #: ../../SOI.rst:495 ../../SOI.rst:525 ../../SOI.rst:533 ../../SOI.rst:623
-#: ../../SOI.rst:687 ../../SOI.rst:721 ../../SOI.rst:753 ../../SOI.rst:913
-#: ../../SOI.rst:1477 ../../SOI.rst:1487 ../../SOI.rst:1603
+#: ../../SOI.rst:691 ../../SOI.rst:721 ../../SOI.rst:753 ../../SOI.rst:913
+#: ../../SOI.rst:1477 ../../SOI.rst:1487 ../../SOI.rst:1609
 msgid "Flying"
 msgstr "Latanie"
 
@@ -60,8 +64,9 @@ msgstr ""
 "spod władania przeciwnika."
 
 #: ../../SOI.rst:22
-#, fuzzy
-msgid ":mtgtip:`Angelic Purge`"
+msgid ""
+":mtgtip:`Angelic Purge<https://img.scryfall.com/cards/border_crop/en/soi/3."
+"jpg?1517813031|https://scryfall.com/card/soi/3/angelic-purge?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:19
@@ -73,8 +78,10 @@ msgid "Exile target artifact, creature, or enchantment."
 msgstr "Wygnaj wskazany artefakt, stwora lub urok."
 
 #: ../../SOI.rst:28
-#, fuzzy
-msgid ":mtgtip:`Apothecary Geist`"
+msgid ""
+":mtgtip:`Apothecary Geist<https://img.scryfall.com/cards/border_crop/en/"
+"soi/4.jpg?1517813031|https://scryfall.com/card/soi/4/apothecary-geist?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:27
@@ -85,30 +92,22 @@ msgstr ""
 "Kiedy ta karta wejdzie na pole walki, jeśli władasz innym Duchem, zyskujesz "
 "3 życia."
 
-#: ../../SOI.rst:34
-msgid ":mtgtip:`Avacyn, the Purifier`"
-msgstr ""
-
-#: ../../SOI.rst:33
+#: ../../SOI.rst:38
 msgid ""
-"When this creature transforms into Avacyn, the Purifier, it deals 3 damage "
-"to each other creature and each opponent."
+":mtgtip:`Archangel Avacyn<https://img.scryfall.com/cards/border_crop/en/"
+"soi/5a.jpg?1518204266|https://scryfall.com/card/soi/5/archangel-avacyn-"
+"avacyn-the-purifier?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:44
-#, fuzzy
-msgid ":mtgtip:`Archangel Avacyn`"
-msgstr ""
-
-#: ../../SOI.rst:37 ../../SOI.rst:469
+#: ../../SOI.rst:31 ../../SOI.rst:469
 msgid "Flash"
 msgstr "Błysk"
 
-#: ../../SOI.rst:39
+#: ../../SOI.rst:33
 msgid "Flying, vigilance"
 msgstr "Latanie, czujność"
 
-#: ../../SOI.rst:41
+#: ../../SOI.rst:35
 msgid ""
 "When Archangel Avacyn enters the battlefield, creatures you control gain "
 "indestructible until end of turn."
@@ -116,38 +115,60 @@ msgstr ""
 "Kiedy ta karta wchodzi na pole walki, stwory pod twoim władaniem zyskują "
 "niezniszczalność do końca tury."
 
-#: ../../SOI.rst:43
+#: ../../SOI.rst:37
 msgid ""
 "When a non-Angel creature you control dies, transform Archangel Avacyn at "
 "the beginning of the next upkeep."
 msgstr ""
 
+#: ../../SOI.rst:44
+msgid ""
+":mtgtip:`Avacyn, the Purifier<https://img.scryfall.com/cards/border_crop/en/"
+"soi/5b.jpg?1518204266|https://scryfall.com/card/soi/5/archangel-avacyn-"
+"avacyn-the-purifier?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:43
+msgid ""
+"When this creature transforms into Avacyn, the Purifier, it deals 3 damage "
+"to each other creature and each opponent."
+msgstr ""
+
 #: ../../SOI.rst:48
-msgid ":mtgtip:`Lunarch Inquisitors`"
+msgid ""
+":mtgtip:`Avacynian Missionaries<https://img.scryfall.com/cards/border_crop/"
+"en/soi/6a.jpg?1518204402|https://scryfall.com/card/soi/6/avacynian-"
+"missionaries-lunarch-inquisitors?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:47
-msgid ""
-"When this creature transforms into Lunarch Inquisitors, you may exile "
-"another target creature until Lunarch Inquisitors leaves the battlefield."
-msgstr ""
-
-#: ../../SOI.rst:52
-msgid ":mtgtip:`Avacynian Missionaries`"
-msgstr ""
-
-#: ../../SOI.rst:51
 msgid ""
 "At the beginning of your end step, if Avacynian Missionaries is equipped, "
 "transform it."
 msgstr ""
 
+#: ../../SOI.rst:52
+msgid ""
+":mtgtip:`Lunarch Inquisitors<https://img.scryfall.com/cards/border_crop/en/"
+"soi/6b.jpg?1518204402|https://scryfall.com/card/soi/6/avacynian-missionaries-"
+"lunarch-inquisitors?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:51
+msgid ""
+"When this creature transforms into Lunarch Inquisitors, you may exile "
+"another target creature until Lunarch Inquisitors leaves the battlefield."
+msgstr ""
+
 #: ../../SOI.rst:60
-msgid ":mtgtip:`Bound by Moonsilver`"
+msgid ""
+":mtgtip:`Bound by Moonsilver<https://img.scryfall.com/cards/border_crop/en/"
+"soi/7.jpg?1517813031|https://scryfall.com/card/soi/7/bound-by-moonsilver?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:55 ../../SOI.rst:123 ../../SOI.rst:141 ../../SOI.rst:379
-#: ../../SOI.rst:499 ../../SOI.rst:629 ../../SOI.rst:1051 ../../SOI.rst:1069
+#: ../../SOI.rst:499 ../../SOI.rst:629 ../../SOI.rst:1051 ../../SOI.rst:1065
 #: ../../SOI.rst:1079 ../../SOI.rst:1203 ../../SOI.rst:1463
 msgid "Enchant creature"
 msgstr "Zaurocz stwora"
@@ -164,7 +185,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:66
-msgid ":mtgtip:`Bygone Bishop`"
+msgid ""
+":mtgtip:`Bygone Bishop<https://img.scryfall.com/cards/border_crop/en/soi/8."
+"jpg?1517813031|https://scryfall.com/card/soi/8/bygone-bishop?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:65
@@ -175,7 +198,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:70
-msgid ":mtgtip:`Cathar's Companion`"
+msgid ""
+":mtgtip:`Cathar's Companion<https://img.scryfall.com/cards/border_crop/en/"
+"soi/9.jpg?1517813031|https://scryfall.com/card/soi/9/cathars-companion?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:69
@@ -186,7 +212,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:74
-msgid ":mtgtip:`Chaplain's Blessing`"
+msgid ""
+":mtgtip:`Chaplain's Blessing<https://img.scryfall.com/cards/border_crop/en/"
+"soi/10.jpg?1517813031|https://scryfall.com/card/soi/10/chaplains-blessing?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:73
@@ -194,7 +223,10 @@ msgid "You gain 5 life."
 msgstr ""
 
 #: ../../SOI.rst:78
-msgid ":mtgtip:`Dauntless Cathar`"
+msgid ""
+":mtgtip:`Dauntless Cathar<https://img.scryfall.com/cards/border_crop/en/"
+"soi/11.jpg?1517813031|https://scryfall.com/card/soi/11/dauntless-cathar?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:77
@@ -205,7 +237,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:82
-msgid ":mtgtip:`Declaration in Stone`"
+msgid ""
+":mtgtip:`Declaration in Stone<https://img.scryfall.com/cards/border_crop/en/"
+"soi/12.jpg?1517813031|https://scryfall.com/card/soi/12/declaration-in-stone?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:81
@@ -216,7 +251,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:88
-msgid ":mtgtip:`Descend upon the Sinful`"
+msgid ""
+":mtgtip:`Descend upon the Sinful<https://img.scryfall.com/cards/border_crop/"
+"en/soi/13.jpg?1517813031|https://scryfall.com/card/soi/13/descend-upon-the-"
+"sinful?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:85
@@ -230,11 +268,17 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:90
-msgid ":mtgtip:`Devilthorn Fox`"
+msgid ""
+":mtgtip:`Devilthorn Fox<https://img.scryfall.com/cards/border_crop/en/soi/14."
+"jpg?1517813031|https://scryfall.com/card/soi/14/devilthorn-fox?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:100
-msgid ":mtgtip:`Drogskol Cavalry`"
+msgid ""
+":mtgtip:`Drogskol Cavalry<https://img.scryfall.com/cards/border_crop/en/"
+"soi/15.jpg?1517813031|https://scryfall.com/card/soi/15/drogskol-cavalry?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:97
@@ -249,7 +293,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:104
-msgid ":mtgtip:`Eerie Interlude`"
+msgid ""
+":mtgtip:`Eerie Interlude<https://img.scryfall.com/cards/border_crop/en/"
+"soi/16.jpg?1517813031|https://scryfall.com/card/soi/16/eerie-interlude?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:103
@@ -260,7 +307,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:110
-msgid ":mtgtip:`Emissary of the Sleepless`"
+msgid ""
+":mtgtip:`Emissary of the Sleepless<https://img.scryfall.com/cards/"
+"border_crop/en/soi/17.jpg?1517813031|https://scryfall.com/card/soi/17/"
+"emissary-of-the-sleepless?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:109
@@ -270,7 +320,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:114
-msgid ":mtgtip:`Ethereal Guidance`"
+msgid ""
+":mtgtip:`Ethereal Guidance<https://img.scryfall.com/cards/border_crop/en/"
+"soi/18.jpg?1517813031|https://scryfall.com/card/soi/18/ethereal-guidance?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:113
@@ -278,7 +331,9 @@ msgid "Creatures you control get +2/+1 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../SOI.rst:120
-msgid ":mtgtip:`Expose Evil`"
+msgid ""
+":mtgtip:`Expose Evil<https://img.scryfall.com/cards/border_crop/en/soi/19."
+"jpg?1517813031|https://scryfall.com/card/soi/19/expose-evil?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:117
@@ -293,7 +348,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:128
-msgid ":mtgtip:`Gryff's Boon`"
+msgid ""
+":mtgtip:`Gryff's Boon<https://img.scryfall.com/cards/border_crop/en/soi/20."
+"jpg?1517813031|https://scryfall.com/card/soi/20/gryffs-boon?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:125
@@ -307,34 +364,43 @@ msgid ""
 "you could cast a sorcery."
 msgstr ""
 
-#: ../../SOI.rst:134
-msgid ":mtgtip:`Westvale Cult Leader`"
+#: ../../SOI.rst:132
+msgid ""
+":mtgtip:`Hanweir Militia Captain<https://img.scryfall.com/cards/border_crop/"
+"en/soi/21a.jpg?1518205118|https://scryfall.com/card/soi/21/hanweir-militia-"
+"captain-westvale-cult-leader?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:131
-msgid ""
-"Westvale Cult Leader's power and toughness are each equal to the number of "
-"creatures you control."
-msgstr ""
-
-#: ../../SOI.rst:133
-msgid ""
-"At the beginning of your end step, create a 1/1 white and black Human Cleric "
-"creature token."
-msgstr ""
-
-#: ../../SOI.rst:138
-msgid ":mtgtip:`Hanweir Militia Captain`"
-msgstr ""
-
-#: ../../SOI.rst:137
 msgid ""
 "At the beginning of your upkeep, if you control four or more creatures, "
 "transform Hanweir Militia Captain."
 msgstr ""
 
+#: ../../SOI.rst:138
+msgid ""
+":mtgtip:`Westvale Cult Leader<https://img.scryfall.com/cards/border_crop/en/"
+"soi/21b.jpg?1518205118|https://scryfall.com/card/soi/21/hanweir-militia-"
+"captain-westvale-cult-leader?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:135
+msgid ""
+"Westvale Cult Leader's power and toughness are each equal to the number of "
+"creatures you control."
+msgstr ""
+
+#: ../../SOI.rst:137
+msgid ""
+"At the beginning of your end step, create a 1/1 white and black Human Cleric "
+"creature token."
+msgstr ""
+
 #: ../../SOI.rst:146
-msgid ":mtgtip:`Hope Against Hope`"
+msgid ""
+":mtgtip:`Hope Against Hope<https://img.scryfall.com/cards/border_crop/en/"
+"soi/22.jpg?1517813031|https://scryfall.com/card/soi/22/hope-against-hope?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:143
@@ -346,7 +412,10 @@ msgid "As long as enchanted creature is a Human, it has first strike."
 msgstr ""
 
 #: ../../SOI.rst:152
-msgid ":mtgtip:`Humble the Brute`"
+msgid ""
+":mtgtip:`Humble the Brute<https://img.scryfall.com/cards/border_crop/en/"
+"soi/23.jpg?1517813031|https://scryfall.com/card/soi/23/humble-the-brute?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:149
@@ -354,7 +423,10 @@ msgid "Destroy target creature with power 4 or greater."
 msgstr ""
 
 #: ../../SOI.rst:156
-msgid ":mtgtip:`Inquisitor's Ox`"
+msgid ""
+":mtgtip:`Inquisitor's Ox<https://img.scryfall.com/cards/border_crop/en/"
+"soi/24.jpg?1517813031|https://scryfall.com/card/soi/24/inquisitors-ox?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:155
@@ -364,7 +436,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:160
-msgid ":mtgtip:`Inspiring Captain`"
+msgid ""
+":mtgtip:`Inspiring Captain<https://img.scryfall.com/cards/border_crop/en/"
+"soi/25.jpg?1517813031|https://scryfall.com/card/soi/25/inspiring-captain?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:159
@@ -374,7 +449,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:164
-msgid ":mtgtip:`Militant Inquisitor`"
+msgid ""
+":mtgtip:`Militant Inquisitor<https://img.scryfall.com/cards/border_crop/en/"
+"soi/26.jpg?1517813031|https://scryfall.com/card/soi/26/militant-inquisitor?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:163
@@ -382,7 +460,10 @@ msgid "Militant Inquisitor gets +1/+0 for each Equipment you control."
 msgstr ""
 
 #: ../../SOI.rst:168
-msgid ":mtgtip:`Moorland Drifter`"
+msgid ""
+":mtgtip:`Moorland Drifter<https://img.scryfall.com/cards/border_crop/en/"
+"soi/27.jpg?1517813031|https://scryfall.com/card/soi/27/moorland-drifter?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:167
@@ -392,7 +473,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:174
-msgid ":mtgtip:`Nahiri's Machinations`"
+msgid ""
+":mtgtip:`Nahiri's Machinations<https://img.scryfall.com/cards/border_crop/en/"
+"soi/28.jpg?1517813031|https://scryfall.com/card/soi/28/nahiris-machinations?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:171
@@ -408,7 +492,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:180
-msgid ":mtgtip:`Nearheath Chaplain`"
+msgid ""
+":mtgtip:`Nearheath Chaplain<https://img.scryfall.com/cards/border_crop/en/"
+"soi/29.jpg?1517813031|https://scryfall.com/card/soi/29/nearheath-chaplain?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:177 ../../SOI.rst:699
@@ -423,7 +510,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:184
-msgid ":mtgtip:`Not Forgotten`"
+msgid ""
+":mtgtip:`Not Forgotten<https://img.scryfall.com/cards/border_crop/en/soi/30."
+"jpg?1517813031|https://scryfall.com/card/soi/30/not-forgotten?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:183
@@ -433,7 +523,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:188
-msgid ":mtgtip:`Odric, Lunarch Marshal`"
+msgid ""
+":mtgtip:`Odric, Lunarch Marshal<https://img.scryfall.com/cards/border_crop/"
+"en/soi/31.jpg?1517813031|https://scryfall.com/card/soi/31/odric-lunarch-"
+"marshal?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:187
@@ -445,7 +538,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:192
-msgid ":mtgtip:`Open the Armory`"
+msgid ""
+":mtgtip:`Open the Armory<https://img.scryfall.com/cards/border_crop/en/"
+"soi/32.jpg?1517813031|https://scryfall.com/card/soi/32/open-the-armory?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:191
@@ -455,7 +551,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:196
-msgid ":mtgtip:`Paranoid Parish-Blade`"
+msgid ""
+":mtgtip:`Paranoid Parish-Blade<https://img.scryfall.com/cards/border_crop/en/"
+"soi/33.jpg?1517813031|https://scryfall.com/card/soi/33/paranoid-parish-blade?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:195
@@ -464,32 +563,41 @@ msgid ""
 "there are four or more card types among cards in your graveyard."
 msgstr ""
 
-#: ../../SOI.rst:200
-msgid ":mtgtip:`Wayward Disciple`"
+#: ../../SOI.rst:202
+msgid ""
+":mtgtip:`Pious Evangel<https://img.scryfall.com/cards/border_crop/en/soi/34a."
+"jpg?1518205663|https://scryfall.com/card/soi/34/pious-evangel-wayward-"
+"disciple?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:199
-msgid ""
-"Whenever Wayward Disciple or another creature you control dies, target "
-"opponent loses 1 life and you gain 1 life."
-msgstr ""
-
-#: ../../SOI.rst:206
-msgid ":mtgtip:`Pious Evangel`"
-msgstr ""
-
-#: ../../SOI.rst:203
 msgid ""
 "Whenever Pious Evangel or another creature enters the battlefield under your "
 "control, you gain 1 life."
 msgstr ""
 
-#: ../../SOI.rst:205
+#: ../../SOI.rst:201
 msgid "|mana_2|, |tap|, Sacrifice another permanent: Transform Pious Evangel."
 msgstr ""
 
+#: ../../SOI.rst:206
+msgid ""
+":mtgtip:`Wayward Disciple<https://img.scryfall.com/cards/border_crop/en/"
+"soi/34b.jpg?1518205663|https://scryfall.com/card/soi/34/pious-evangel-"
+"wayward-disciple?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:205
+msgid ""
+"Whenever Wayward Disciple or another creature you control dies, target "
+"opponent loses 1 life and you gain 1 life."
+msgstr ""
+
 #: ../../SOI.rst:210
-msgid ":mtgtip:`Puncturing Light`"
+msgid ""
+":mtgtip:`Puncturing Light<https://img.scryfall.com/cards/border_crop/en/"
+"soi/35.jpg?1517813031|https://scryfall.com/card/soi/35/puncturing-light?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:209
@@ -497,7 +605,10 @@ msgid "Destroy target attacking or blocking creature with power 3 or less."
 msgstr ""
 
 #: ../../SOI.rst:216
-msgid ":mtgtip:`Reaper of Flight Moonsilver`"
+msgid ""
+":mtgtip:`Reaper of Flight Moonsilver<https://img.scryfall.com/cards/"
+"border_crop/en/soi/36.jpg?1517813031|https://scryfall.com/card/soi/36/reaper-"
+"of-flight-moonsilver?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:215
@@ -508,7 +619,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:220
-msgid ":mtgtip:`Silverstrike`"
+msgid ""
+":mtgtip:`Silverstrike<https://img.scryfall.com/cards/border_crop/en/soi/37."
+"jpg?1517813031|https://scryfall.com/card/soi/37/silverstrike?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:219
@@ -516,7 +629,10 @@ msgid "Destroy target attacking creature. You gain 3 life."
 msgstr ""
 
 #: ../../SOI.rst:226
-msgid ":mtgtip:`Spectral Shepherd`"
+msgid ""
+":mtgtip:`Spectral Shepherd<https://img.scryfall.com/cards/border_crop/en/"
+"soi/38.jpg?1517813031|https://scryfall.com/card/soi/38/spectral-shepherd?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:225
@@ -528,7 +644,10 @@ msgstr ""
 "Wyposażaj wyłącznie jako obrzęd.)"
 
 #: ../../SOI.rst:230
-msgid ":mtgtip:`Stern Constable`"
+msgid ""
+":mtgtip:`Stern Constable<https://img.scryfall.com/cards/border_crop/en/"
+"soi/39.jpg?1517813031|https://scryfall.com/card/soi/39/stern-constable?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:229
@@ -536,7 +655,10 @@ msgid "|tap|, Discard a card: Tap target creature."
 msgstr ""
 
 #: ../../SOI.rst:234
-msgid ":mtgtip:`Strength of Arms`"
+msgid ""
+":mtgtip:`Strength of Arms<https://img.scryfall.com/cards/border_crop/en/"
+"soi/40.jpg?1517813031|https://scryfall.com/card/soi/40/strength-of-arms?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:233
@@ -546,7 +668,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:240
-msgid ":mtgtip:`Survive the Night`"
+msgid ""
+":mtgtip:`Survive the Night<https://img.scryfall.com/cards/border_crop/en/"
+"soi/41.jpg?1517813031|https://scryfall.com/card/soi/41/survive-the-night?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:237
@@ -556,7 +681,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:244
-msgid ":mtgtip:`Tenacity`"
+msgid ""
+":mtgtip:`Tenacity<https://img.scryfall.com/cards/border_crop/en/soi/42.jpg?"
+"1517813031|https://scryfall.com/card/soi/42/tenacity?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:243
@@ -566,7 +693,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:250
-msgid ":mtgtip:`Thalia's Lieutenant`"
+msgid ""
+":mtgtip:`Thalia's Lieutenant<https://img.scryfall.com/cards/border_crop/en/"
+"soi/43.jpg?1517813031|https://scryfall.com/card/soi/43/thalias-lieutenant?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:247
@@ -582,7 +712,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:254
-msgid ":mtgtip:`Thraben Inspector`"
+msgid ""
+":mtgtip:`Thraben Inspector<https://img.scryfall.com/cards/border_crop/en/"
+"soi/44.jpg?1517813031|https://scryfall.com/card/soi/44/thraben-inspector?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:253
@@ -593,7 +726,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:262
-msgid ":mtgtip:`Topplegeist`"
+msgid ""
+":mtgtip:`Topplegeist<https://img.scryfall.com/cards/border_crop/en/soi/45."
+"jpg?1517813031|https://scryfall.com/card/soi/45/topplegeist?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:259
@@ -609,29 +744,37 @@ msgid ""
 "player controls."
 msgstr ""
 
-#: ../../SOI.rst:268
-msgid ":mtgtip:`Incited Rabble`"
+#: ../../SOI.rst:266
+msgid ""
+":mtgtip:`Town Gossipmonger<https://img.scryfall.com/cards/border_crop/en/"
+"soi/46a.jpg?1518206110|https://scryfall.com/card/soi/46/town-gossipmonger-"
+"incited-rabble?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:265
-msgid "Incited Rabble attacks each combat if able."
-msgstr ""
-
-#: ../../SOI.rst:267
-msgid "|mana_2|: Incited Rabble gets +1/+0 until end of turn."
-msgstr ""
-
-#: ../../SOI.rst:272
-msgid ":mtgtip:`Town Gossipmonger`"
-msgstr ""
-
-#: ../../SOI.rst:271
 msgid ""
 "|tap|, Tap an untapped creature you control: Transform Town Gossipmonger."
 msgstr ""
 
+#: ../../SOI.rst:272
+msgid ""
+":mtgtip:`Incited Rabble<https://img.scryfall.com/cards/border_crop/en/"
+"soi/46b.jpg?1518206110|https://scryfall.com/card/soi/46/town-gossipmonger-"
+"incited-rabble?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:269
+msgid "Incited Rabble attacks each combat if able."
+msgstr ""
+
+#: ../../SOI.rst:271
+msgid "|mana_2|: Incited Rabble gets +1/+0 until end of turn."
+msgstr ""
+
 #: ../../SOI.rst:276
-msgid ":mtgtip:`Unruly Mob`"
+msgid ""
+":mtgtip:`Unruly Mob<https://img.scryfall.com/cards/border_crop/en/soi/47.jpg?"
+"1517813031|https://scryfall.com/card/soi/47/unruly-mob?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:275
@@ -641,7 +784,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:280
-msgid ":mtgtip:`Vessel of Ephemera`"
+msgid ""
+":mtgtip:`Vessel of Ephemera<https://img.scryfall.com/cards/border_crop/en/"
+"soi/48.jpg?1517813031|https://scryfall.com/card/soi/48/vessel-of-ephemera?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:279
@@ -650,22 +796,31 @@ msgid ""
 "Spirit creature tokens with flying."
 msgstr ""
 
-#: ../../SOI.rst:284
-msgid ":mtgtip:`Perfected Form`"
+#: ../../SOI.rst:286
+msgid ""
+":mtgtip:`Aberrant Researcher<https://img.scryfall.com/cards/border_crop/en/"
+"soi/49a.jpg?1518204227|https://scryfall.com/card/soi/49/aberrant-researcher-"
+"perfected-form?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:290
-msgid ":mtgtip:`Aberrant Researcher`"
-msgstr ""
-
-#: ../../SOI.rst:289
+#: ../../SOI.rst:285
 msgid ""
 "At the beginning of your upkeep, put the top card of your library into your "
 "graveyard. If it's an instant or sorcery card, transform Aberrant Researcher."
 msgstr ""
 
+#: ../../SOI.rst:290
+msgid ""
+":mtgtip:`Perfected Form<https://img.scryfall.com/cards/border_crop/en/"
+"soi/49b.jpg?1518204227|https://scryfall.com/card/soi/49/aberrant-researcher-"
+"perfected-form?utm_source=api>`"
+msgstr ""
+
 #: ../../SOI.rst:296
-msgid ":mtgtip:`Broken Concentration`"
+msgid ""
+":mtgtip:`Broken Concentration<https://img.scryfall.com/cards/border_crop/en/"
+"soi/50.jpg?1517813031|https://scryfall.com/card/soi/50/broken-concentration?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:293 ../../SOI.rst:307
@@ -680,7 +835,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:300
-msgid ":mtgtip:`Catalog`"
+msgid ""
+":mtgtip:`Catalog<https://img.scryfall.com/cards/border_crop/en/soi/51.jpg?"
+"1517813031|https://scryfall.com/card/soi/51/catalog?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:299
@@ -688,7 +845,10 @@ msgid "Draw two cards, then discard a card."
 msgstr ""
 
 #: ../../SOI.rst:304
-msgid ":mtgtip:`Compelling Deterrence`"
+msgid ""
+":mtgtip:`Compelling Deterrence<https://img.scryfall.com/cards/border_crop/en/"
+"soi/52.jpg?1517813031|https://scryfall.com/card/soi/52/compelling-deterrence?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:303
@@ -698,7 +858,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:310
-msgid ":mtgtip:`Confirm Suspicions`"
+msgid ""
+":mtgtip:`Confirm Suspicions<https://img.scryfall.com/cards/border_crop/en/"
+"soi/53.jpg?1517813031|https://scryfall.com/card/soi/53/confirm-suspicions?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:309
@@ -707,11 +870,25 @@ msgid ""
 "token with \"|mana_2|, Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
-#: ../../SOI.rst:316
-msgid ":mtgtip:`Bearer of Overwhelming Truths`"
+#: ../../SOI.rst:314
+msgid ""
+":mtgtip:`Daring Sleuth<https://img.scryfall.com/cards/border_crop/en/soi/54a."
+"jpg?1518204679|https://scryfall.com/card/soi/54/daring-sleuth-bearer-of-"
+"overwhelming-truths?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:313 ../../SOI.rst:445 ../../SOI.rst:1041
+#: ../../SOI.rst:313
+msgid "When you sacrifice a Clue, transform Daring Sleuth."
+msgstr ""
+
+#: ../../SOI.rst:320
+msgid ""
+":mtgtip:`Bearer of Overwhelming Truths<https://img.scryfall.com/cards/"
+"border_crop/en/soi/54b.jpg?1518204679|https://scryfall.com/card/soi/54/"
+"daring-sleuth-bearer-of-overwhelming-truths?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:317 ../../SOI.rst:445 ../../SOI.rst:1041
 msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
@@ -719,23 +896,18 @@ msgstr ""
 "Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
 "do końca tury.)"
 
-#: ../../SOI.rst:315
+#: ../../SOI.rst:319
 msgid ""
 "Whenever Bearer of Overwhelming Truths deals combat damage to a player, "
 "investigate. (Create a colorless Clue artifact token with \"|mana_2|, "
 "Sacrifice this artifact: Draw a card.\")"
 msgstr ""
 
-#: ../../SOI.rst:320
-msgid ":mtgtip:`Daring Sleuth`"
-msgstr ""
-
-#: ../../SOI.rst:319
-msgid "When you sacrifice a Clue, transform Daring Sleuth."
-msgstr ""
-
 #: ../../SOI.rst:324
-msgid ":mtgtip:`Deny Existence`"
+msgid ""
+":mtgtip:`Deny Existence<https://img.scryfall.com/cards/border_crop/en/soi/55."
+"jpg?1517813031|https://scryfall.com/card/soi/55/deny-existence?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:323
@@ -745,7 +917,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:328
-msgid ":mtgtip:`Drownyard Explorers`"
+msgid ""
+":mtgtip:`Drownyard Explorers<https://img.scryfall.com/cards/border_crop/en/"
+"soi/56.jpg?1517813031|https://scryfall.com/card/soi/56/drownyard-explorers?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:327
@@ -756,7 +931,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:334
-msgid ":mtgtip:`Drunau Corpse Trawler`"
+msgid ""
+":mtgtip:`Drunau Corpse Trawler<https://img.scryfall.com/cards/border_crop/en/"
+"soi/57.jpg?1517813031|https://scryfall.com/card/soi/57/drunau-corpse-trawler?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:331
@@ -770,7 +948,10 @@ msgid "|mana_2|\\ |mana_b|: Target Zombie gains deathtouch until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:338
-msgid ":mtgtip:`Engulf the Shore`"
+msgid ""
+":mtgtip:`Engulf the Shore<https://img.scryfall.com/cards/border_crop/en/"
+"soi/58.jpg?1517813031|https://scryfall.com/card/soi/58/engulf-the-shore?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:337
@@ -780,7 +961,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:342
-msgid ":mtgtip:`Epiphany at the Drownyard`"
+msgid ""
+":mtgtip:`Epiphany at the Drownyard<https://img.scryfall.com/cards/"
+"border_crop/en/soi/59.jpg?1517813031|https://scryfall.com/card/soi/59/"
+"epiphany-at-the-drownyard?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:341
@@ -791,7 +975,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:348
-msgid ":mtgtip:`Erdwal Illuminator`"
+msgid ""
+":mtgtip:`Erdwal Illuminator<https://img.scryfall.com/cards/border_crop/en/"
+"soi/60.jpg?1517813031|https://scryfall.com/card/soi/60/erdwal-illuminator?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:347
@@ -801,7 +988,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:352
-msgid ":mtgtip:`Essence Flux`"
+msgid ""
+":mtgtip:`Essence Flux<https://img.scryfall.com/cards/border_crop/en/soi/61."
+"jpg?1517813031|https://scryfall.com/card/soi/61/essence-flux?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:351
@@ -811,7 +1000,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:358
-msgid ":mtgtip:`Fleeting Memories`"
+msgid ""
+":mtgtip:`Fleeting Memories<https://img.scryfall.com/cards/border_crop/en/"
+"soi/62.jpg?1517813031|https://scryfall.com/card/soi/62/fleeting-memories?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:355
@@ -828,10 +1020,13 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:364
-msgid ":mtgtip:`Forgotten Creation`"
+msgid ""
+":mtgtip:`Forgotten Creation<https://img.scryfall.com/cards/border_crop/en/"
+"soi/63.jpg?1517813031|https://scryfall.com/card/soi/63/forgotten-creation?"
+"utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:361 ../../SOI.rst:367 ../../SOI.rst:507 ../../SOI.rst:557
+#: ../../SOI.rst:361 ../../SOI.rst:367 ../../SOI.rst:513 ../../SOI.rst:553
 #: ../../SOI.rst:657 ../../SOI.rst:761 ../../SOI.rst:773
 msgid "Skulk (This creature can't be blocked by creatures with greater power.)"
 msgstr ""
@@ -843,11 +1038,17 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:368
-msgid ":mtgtip:`Furtive Homunculus`"
+msgid ""
+":mtgtip:`Furtive Homunculus<https://img.scryfall.com/cards/border_crop/en/"
+"soi/64.jpg?1517813031|https://scryfall.com/card/soi/64/furtive-homunculus?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:376
-msgid ":mtgtip:`Geralf's Masterpiece`"
+msgid ""
+":mtgtip:`Geralf's Masterpiece<https://img.scryfall.com/cards/border_crop/en/"
+"soi/65.jpg?1517813031|https://scryfall.com/card/soi/65/geralfs-masterpiece?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:373
@@ -861,7 +1062,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:384
-msgid ":mtgtip:`Ghostly Wings`"
+msgid ""
+":mtgtip:`Ghostly Wings<https://img.scryfall.com/cards/border_crop/en/soi/66."
+"jpg?1517813031|https://scryfall.com/card/soi/66/ghostly-wings?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:381
@@ -873,7 +1077,9 @@ msgid "Discard a card: Return enchanted creature to its owner's hand."
 msgstr ""
 
 #: ../../SOI.rst:390
-msgid ":mtgtip:`Gone Missing`"
+msgid ""
+":mtgtip:`Gone Missing<https://img.scryfall.com/cards/border_crop/en/soi/67."
+"jpg?1517813031|https://scryfall.com/card/soi/67/gone-missing?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:387
@@ -881,7 +1087,10 @@ msgid "Put target permanent on top of its owner's library."
 msgstr ""
 
 #: ../../SOI.rst:396
-msgid ":mtgtip:`Invasive Surgery`"
+msgid ""
+":mtgtip:`Invasive Surgery<https://img.scryfall.com/cards/border_crop/en/"
+"soi/68.jpg?1517813031|https://scryfall.com/card/soi/68/invasive-surgery?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:393
@@ -897,7 +1106,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:404
-msgid ":mtgtip:`Jace, Unraveler of Secrets`"
+msgid ""
+":mtgtip:`Jace, Unraveler of Secrets<https://img.scryfall.com/cards/"
+"border_crop/en/soi/69.jpg?1517813031|https://scryfall.com/card/soi/69/jace-"
+"unraveler-of-secrets?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:399
@@ -915,7 +1127,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:410
-msgid ":mtgtip:`Jace's Scrutiny`"
+msgid ""
+":mtgtip:`Jace's Scrutiny<https://img.scryfall.com/cards/border_crop/en/"
+"soi/70.jpg?1517813031|https://scryfall.com/card/soi/70/jaces-scrutiny?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:407
@@ -923,7 +1138,10 @@ msgid "Target creature gets -4/-0 until end of turn."
 msgstr "Wskazany stwór dostaje -4/-0 do końca tury."
 
 #: ../../SOI.rst:416
-msgid ":mtgtip:`Just the Wind`"
+msgid ""
+":mtgtip:`Just the Wind<https://img.scryfall.com/cards/border_crop/en/soi/71."
+"jpg?1517813031|https://scryfall.com/card/soi/71/just-the-wind?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:413
@@ -937,7 +1155,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:420
-msgid ":mtgtip:`Lamplighter of Selhoff`"
+msgid ""
+":mtgtip:`Lamplighter of Selhoff<https://img.scryfall.com/cards/border_crop/"
+"en/soi/72.jpg?1517813031|https://scryfall.com/card/soi/72/lamplighter-of-"
+"selhoff?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:419
@@ -947,7 +1168,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:426
-msgid ":mtgtip:`Manic Scribe`"
+msgid ""
+":mtgtip:`Manic Scribe<https://img.scryfall.com/cards/border_crop/en/soi/73."
+"jpg?1517813031|https://scryfall.com/card/soi/73/manic-scribe?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:423
@@ -964,7 +1187,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:432
-msgid ":mtgtip:`Nagging Thoughts`"
+msgid ""
+":mtgtip:`Nagging Thoughts<https://img.scryfall.com/cards/border_crop/en/"
+"soi/74.jpg?1517813031|https://scryfall.com/card/soi/74/nagging-thoughts?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:429
@@ -981,7 +1207,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:440
-msgid ":mtgtip:`Nephalia Moondrakes`"
+msgid ""
+":mtgtip:`Nephalia Moondrakes<https://img.scryfall.com/cards/border_crop/en/"
+"soi/75.jpg?1517813031|https://scryfall.com/card/soi/75/nephalia-moondrakes?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:437
@@ -997,11 +1226,17 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:446
-msgid ":mtgtip:`Niblis of Dusk`"
+msgid ""
+":mtgtip:`Niblis of Dusk<https://img.scryfall.com/cards/border_crop/en/soi/76."
+"jpg?1517813031|https://scryfall.com/card/soi/76/niblis-of-dusk?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:452
-msgid ":mtgtip:`Ongoing Investigation`"
+msgid ""
+":mtgtip:`Ongoing Investigation<https://img.scryfall.com/cards/border_crop/en/"
+"soi/77.jpg?1517813031|https://scryfall.com/card/soi/77/ongoing-investigation?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:449
@@ -1018,7 +1253,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:456
-msgid ":mtgtip:`Pieces of the Puzzle`"
+msgid ""
+":mtgtip:`Pieces of the Puzzle<https://img.scryfall.com/cards/border_crop/en/"
+"soi/78.jpg?1517813031|https://scryfall.com/card/soi/78/pieces-of-the-puzzle?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:455
@@ -1029,7 +1267,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:460
-msgid ":mtgtip:`Pore Over the Pages`"
+msgid ""
+":mtgtip:`Pore Over the Pages<https://img.scryfall.com/cards/border_crop/en/"
+"soi/79.jpg?1517813031|https://scryfall.com/card/soi/79/pore-over-the-pages?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:459
@@ -1037,7 +1278,10 @@ msgid "Draw three cards, untap up to two lands, then discard a card."
 msgstr ""
 
 #: ../../SOI.rst:466
-msgid ":mtgtip:`Press for Answers`"
+msgid ""
+":mtgtip:`Press for Answers<https://img.scryfall.com/cards/border_crop/en/"
+"soi/80.jpg?1517813031|https://scryfall.com/card/soi/80/press-for-answers?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:463
@@ -1049,7 +1293,9 @@ msgstr ""
 "odkręcania swojego władcy."
 
 #: ../../SOI.rst:476
-msgid ":mtgtip:`Rattlechains`"
+msgid ""
+":mtgtip:`Rattlechains<https://img.scryfall.com/cards/border_crop/en/soi/81."
+"jpg?1517813031|https://scryfall.com/card/soi/81/rattlechains?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:473
@@ -1063,7 +1309,10 @@ msgid "You may cast Spirit spells as though they had flash."
 msgstr ""
 
 #: ../../SOI.rst:480
-msgid ":mtgtip:`Reckless Scholar`"
+msgid ""
+":mtgtip:`Reckless Scholar<https://img.scryfall.com/cards/border_crop/en/"
+"soi/82.jpg?1517813031|https://scryfall.com/card/soi/82/reckless-scholar?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:479
@@ -1071,7 +1320,10 @@ msgid "|tap|: Target player draws a card, then discards a card."
 msgstr ""
 
 #: ../../SOI.rst:484
-msgid ":mtgtip:`Rise from the Tides`"
+msgid ""
+":mtgtip:`Rise from the Tides<https://img.scryfall.com/cards/border_crop/en/"
+"soi/83.jpg?1517813031|https://scryfall.com/card/soi/83/rise-from-the-tides?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:483
@@ -1081,11 +1333,17 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:486
-msgid ":mtgtip:`Seagraf Skaab`"
+msgid ""
+":mtgtip:`Seagraf Skaab<https://img.scryfall.com/cards/border_crop/en/soi/84."
+"jpg?1517813031|https://scryfall.com/card/soi/84/seagraf-skaab?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:492
-msgid ":mtgtip:`Silburlind Snapper`"
+msgid ""
+":mtgtip:`Silburlind Snapper<https://img.scryfall.com/cards/border_crop/en/"
+"soi/85.jpg?1517813031|https://scryfall.com/card/soi/85/silburlind-snapper?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:491
@@ -1095,11 +1353,17 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:496
-msgid ":mtgtip:`Silent Observer`"
+msgid ""
+":mtgtip:`Silent Observer<https://img.scryfall.com/cards/border_crop/en/"
+"soi/86.jpg?1517813031|https://scryfall.com/card/soi/86/silent-observer?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:504
-msgid ":mtgtip:`Sleep Paralysis`"
+msgid ""
+":mtgtip:`Sleep Paralysis<https://img.scryfall.com/cards/border_crop/en/"
+"soi/87.jpg?1517813031|https://scryfall.com/card/soi/87/sleep-paralysis?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:501
@@ -1111,34 +1375,43 @@ msgid "Enchanted creature doesn't untap during its controller's untap step."
 msgstr "Zauroczony stwór nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../SOI.rst:510
-msgid ":mtgtip:`Persistent Nightmare`"
-msgstr ""
-
-#: ../../SOI.rst:509
 msgid ""
-"When Persistent Nightmare deals combat damage to a player, return it to its "
-"owner's hand."
+":mtgtip:`Startled Awake<https://img.scryfall.com/cards/border_crop/en/"
+"soi/88a.jpg?1518205918|https://scryfall.com/card/soi/88/startled-awake-"
+"persistent-nightmare?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:516
-msgid ":mtgtip:`Startled Awake`"
-msgstr ""
-
-#: ../../SOI.rst:513
+#: ../../SOI.rst:507
 msgid ""
 "Target opponent puts the top thirteen cards of their library into their "
 "graveyard."
 msgstr ""
 
-#: ../../SOI.rst:515
+#: ../../SOI.rst:509
 msgid ""
 "|mana_3|\\ |mana_u|\\ |mana_u|: Put Startled Awake from your graveyard onto "
 "the battlefield transformed. Activate this ability only any time you could "
 "cast a sorcery."
 msgstr ""
 
+#: ../../SOI.rst:516
+msgid ""
+":mtgtip:`Persistent Nightmare<https://img.scryfall.com/cards/border_crop/en/"
+"soi/88b.jpg?1518205918|https://scryfall.com/card/soi/88/startled-awake-"
+"persistent-nightmare?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:515
+msgid ""
+"When Persistent Nightmare deals combat damage to a player, return it to its "
+"owner's hand."
+msgstr ""
+
 #: ../../SOI.rst:522
-msgid ":mtgtip:`Stitched Mangler`"
+msgid ""
+":mtgtip:`Stitched Mangler<https://img.scryfall.com/cards/border_crop/en/"
+"soi/89.jpg?1517813031|https://scryfall.com/card/soi/89/stitched-mangler?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:519
@@ -1153,7 +1426,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:528
-msgid ":mtgtip:`Stitchwing Skaab`"
+msgid ""
+":mtgtip:`Stitchwing Skaab<https://img.scryfall.com/cards/border_crop/en/"
+"soi/90.jpg?1517813031|https://scryfall.com/card/soi/90/stitchwing-skaab?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:527
@@ -1163,43 +1439,55 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:534
-msgid ":mtgtip:`Stormrider Spirit`"
+msgid ""
+":mtgtip:`Stormrider Spirit<https://img.scryfall.com/cards/border_crop/en/"
+"soi/91.jpg?1517813031|https://scryfall.com/card/soi/91/stormrider-spirit?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:531 ../../SOI.rst:1077 ../../SOI.rst:1251 ../../SOI.rst:1305
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
 msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
 
-#: ../../SOI.rst:538
-msgid ":mtgtip:`Awoken Horror`"
-msgstr ""
-
-#: ../../SOI.rst:537
+#: ../../SOI.rst:542
 msgid ""
-"When this creature transforms into Awoken Horror, return all non-Horror "
-"creatures to their owners' hands."
+":mtgtip:`Thing in the Ice<https://img.scryfall.com/cards/border_crop/en/"
+"soi/92a.jpg?1518206053|https://scryfall.com/card/soi/92/thing-in-the-ice-"
+"awoken-horror?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:546
-msgid ":mtgtip:`Thing in the Ice`"
-msgstr ""
-
-#: ../../SOI.rst:541 ../../SOI.rst:1607 ../../SOI.rst:1625
+#: ../../SOI.rst:537 ../../SOI.rst:1603 ../../SOI.rst:1625
 msgid "Defender"
 msgstr "Obronność"
 
-#: ../../SOI.rst:543
+#: ../../SOI.rst:539
 msgid "Thing in the Ice enters the battlefield with four ice counters on it."
 msgstr ""
 
-#: ../../SOI.rst:545
+#: ../../SOI.rst:541
 msgid ""
 "Whenever you cast an instant or sorcery spell, remove an ice counter from "
 "Thing in the Ice. Then if it has no ice counters on it, transform it."
 msgstr ""
 
+#: ../../SOI.rst:546
+msgid ""
+":mtgtip:`Awoken Horror<https://img.scryfall.com/cards/border_crop/en/soi/92b."
+"jpg?1518206053|https://scryfall.com/card/soi/92/thing-in-the-ice-awoken-"
+"horror?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:545
+msgid ""
+"When this creature transforms into Awoken Horror, return all non-Horror "
+"creatures to their owners' hands."
+msgstr ""
+
 #: ../../SOI.rst:550
-msgid ":mtgtip:`Trail of Evidence`"
+msgid ""
+":mtgtip:`Trail of Evidence<https://img.scryfall.com/cards/border_crop/en/"
+"soi/93.jpg?1517813031|https://scryfall.com/card/soi/93/trail-of-evidence?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:549
@@ -1209,24 +1497,33 @@ msgid ""
 "a card.\")"
 msgstr ""
 
-#: ../../SOI.rst:554
-msgid ":mtgtip:`Unimpeded Trespasser`"
+#: ../../SOI.rst:556
+msgid ""
+":mtgtip:`Uninvited Geist<https://img.scryfall.com/cards/border_crop/en/"
+"soi/94a.jpg?1518206184|https://scryfall.com/card/soi/94/uninvited-geist-"
+"unimpeded-trespasser?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:553
-msgid "Unimpeded Trespasser can't be blocked."
-msgstr ""
-
-#: ../../SOI.rst:560
-msgid ":mtgtip:`Uninvited Geist`"
-msgstr ""
-
-#: ../../SOI.rst:559
+#: ../../SOI.rst:555
 msgid "When Uninvited Geist deals combat damage to a player, transform it."
 msgstr ""
 
+#: ../../SOI.rst:560
+msgid ""
+":mtgtip:`Unimpeded Trespasser<https://img.scryfall.com/cards/border_crop/en/"
+"soi/94b.jpg?1518206184|https://scryfall.com/card/soi/94/uninvited-geist-"
+"unimpeded-trespasser?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:559
+msgid "Unimpeded Trespasser can't be blocked."
+msgstr ""
+
 #: ../../SOI.rst:564
-msgid ":mtgtip:`Vessel of Paramnesia`"
+msgid ""
+":mtgtip:`Vessel of Paramnesia<https://img.scryfall.com/cards/border_crop/en/"
+"soi/95.jpg?1517813031|https://scryfall.com/card/soi/95/vessel-of-paramnesia?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:563
@@ -1236,7 +1533,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:570
-msgid ":mtgtip:`Welcome to the Fold`"
+msgid ""
+":mtgtip:`Welcome to the Fold<https://img.scryfall.com/cards/border_crop/en/"
+"soi/96.jpg?1517813031|https://scryfall.com/card/soi/96/welcome-to-the-fold?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:567
@@ -1253,43 +1553,52 @@ msgid ""
 "its toughness is X or less."
 msgstr ""
 
-#: ../../SOI.rst:578
-msgid ":mtgtip:`Infectious Curse`"
+#: ../../SOI.rst:576
+msgid ""
+":mtgtip:`Accursed Witch<https://img.scryfall.com/cards/border_crop/en/"
+"soi/97a.jpg?1518204233|https://scryfall.com/card/soi/97/accursed-witch-"
+"infectious-curse?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:573
-msgid "Enchant player"
-msgstr "Zaurocz gracza"
-
-#: ../../SOI.rst:575
-msgid ""
-"Spells you cast that target enchanted player cost |mana_1| less to cast."
-msgstr ""
-
-#: ../../SOI.rst:577
-msgid ""
-"At the beginning of enchanted player's upkeep, that player loses 1 life and "
-"you gain 1 life."
-msgstr ""
-
-#: ../../SOI.rst:584
-msgid ":mtgtip:`Accursed Witch`"
-msgstr ""
-
-#: ../../SOI.rst:581
 msgid ""
 "Spells your opponents cast that target Accursed Witch cost |mana_1| less to "
 "cast."
 msgstr ""
 
-#: ../../SOI.rst:583
+#: ../../SOI.rst:575
 msgid ""
 "When Accursed Witch dies, return it to the battlefield transformed under "
 "your control attached to target opponent."
 msgstr ""
 
+#: ../../SOI.rst:584
+msgid ""
+":mtgtip:`Infectious Curse<https://img.scryfall.com/cards/border_crop/en/"
+"soi/97b.jpg?1518204233|https://scryfall.com/card/soi/97/accursed-witch-"
+"infectious-curse?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:579
+msgid "Enchant player"
+msgstr "Zaurocz gracza"
+
+#: ../../SOI.rst:581
+msgid ""
+"Spells you cast that target enchanted player cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../SOI.rst:583
+msgid ""
+"At the beginning of enchanted player's upkeep, that player loses 1 life and "
+"you gain 1 life."
+msgstr ""
+
 #: ../../SOI.rst:590
-msgid ":mtgtip:`Alms of the Vein`"
+msgid ""
+":mtgtip:`Alms of the Vein<https://img.scryfall.com/cards/border_crop/en/"
+"soi/98.jpg?1517813031|https://scryfall.com/card/soi/98/alms-of-the-vein?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:587
@@ -1303,7 +1612,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:596
-msgid ":mtgtip:`Asylum Visitor`"
+msgid ""
+":mtgtip:`Asylum Visitor<https://img.scryfall.com/cards/border_crop/en/soi/99."
+"jpg?1517813031|https://scryfall.com/card/soi/99/asylum-visitor?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:593
@@ -1320,7 +1632,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:602
-msgid ":mtgtip:`Behind the Scenes`"
+msgid ""
+":mtgtip:`Behind the Scenes<https://img.scryfall.com/cards/border_crop/en/"
+"soi/100.jpg?1517813031|https://scryfall.com/card/soi/100/behind-the-scenes?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:599
@@ -1335,7 +1650,10 @@ msgid "|mana_4|\\ |mana_w|: Creatures you control get +1/+1 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../SOI.rst:606
-msgid ":mtgtip:`Behold the Beyond`"
+msgid ""
+":mtgtip:`Behold the Beyond<https://img.scryfall.com/cards/border_crop/en/"
+"soi/101.jpg?1517813031|https://scryfall.com/card/soi/101/behold-the-beyond?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:605
@@ -1345,7 +1663,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:612
-msgid ":mtgtip:`Biting Rain`"
+msgid ""
+":mtgtip:`Biting Rain<https://img.scryfall.com/cards/border_crop/en/soi/102."
+"jpg?1517813031|https://scryfall.com/card/soi/102/biting-rain?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:609
@@ -1360,7 +1680,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:616
-msgid ":mtgtip:`Call the Bloodline`"
+msgid ""
+":mtgtip:`Call the Bloodline<https://img.scryfall.com/cards/border_crop/en/"
+"soi/103.jpg?1517813031|https://scryfall.com/card/soi/103/call-the-bloodline?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:615
@@ -1370,7 +1693,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:620
-msgid ":mtgtip:`Creeping Dread`"
+msgid ""
+":mtgtip:`Creeping Dread<https://img.scryfall.com/cards/border_crop/en/"
+"soi/104.jpg?1517813031|https://scryfall.com/card/soi/104/creeping-dread?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:619
@@ -1381,7 +1707,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:626
-msgid ":mtgtip:`Crow of Dark Tidings`"
+msgid ""
+":mtgtip:`Crow of Dark Tidings<https://img.scryfall.com/cards/border_crop/en/"
+"soi/105.jpg?1517813031|https://scryfall.com/card/soi/105/crow-of-dark-"
+"tidings?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:625
@@ -1391,8 +1720,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:632
-#, fuzzy
-msgid ":mtgtip:`Dead Weight`"
+msgid ""
+":mtgtip:`Dead Weight<https://img.scryfall.com/cards/border_crop/en/soi/106."
+"jpg?1517813031|https://scryfall.com/card/soi/106/dead-weight?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:631
@@ -1400,7 +1730,10 @@ msgid "Enchanted creature gets -2/-2."
 msgstr "Zauroczony stwór dostaje -2/-2."
 
 #: ../../SOI.rst:638
-msgid ":mtgtip:`Diregraf Colossus`"
+msgid ""
+":mtgtip:`Diregraf Colossus<https://img.scryfall.com/cards/border_crop/en/"
+"soi/107.jpg?1517813031|https://scryfall.com/card/soi/107/diregraf-colossus?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:635
@@ -1415,34 +1748,42 @@ msgid ""
 "token."
 msgstr ""
 
-#: ../../SOI.rst:646
-msgid ":mtgtip:`Insidious Mist`"
+#: ../../SOI.rst:642
+msgid ""
+":mtgtip:`Elusive Tormentor<https://img.scryfall.com/cards/border_crop/en/"
+"soi/108a.jpg?1518204857|https://scryfall.com/card/soi/108/elusive-tormentor-"
+"insidious-mist?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:641
-msgid "Hexproof, indestructible"
+msgid "|mana_1|, Discard a card: Transform Elusive Tormentor."
 msgstr ""
 
-#: ../../SOI.rst:643
-msgid "Insidious Mist can't block and can't be blocked."
+#: ../../SOI.rst:650
+msgid ""
+":mtgtip:`Insidious Mist<https://img.scryfall.com/cards/border_crop/en/"
+"soi/108b.jpg?1518204857|https://scryfall.com/card/soi/108/elusive-tormentor-"
+"insidious-mist?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:645
+msgid "Hexproof, indestructible"
+msgstr ""
+
+#: ../../SOI.rst:647
+msgid "Insidious Mist can't block and can't be blocked."
+msgstr ""
+
+#: ../../SOI.rst:649
 msgid ""
 "Whenever Insidious Mist attacks and isn't blocked, you may pay |mana_2|\\ |"
 "mana_b|. If you do, transform it."
 msgstr ""
 
-#: ../../SOI.rst:650
-msgid ":mtgtip:`Elusive Tormentor`"
-msgstr ""
-
-#: ../../SOI.rst:649
-msgid "|mana_1|, Discard a card: Transform Elusive Tormentor."
-msgstr ""
-
 #: ../../SOI.rst:654
-msgid ":mtgtip:`Ever After`"
+msgid ""
+":mtgtip:`Ever After<https://img.scryfall.com/cards/border_crop/en/soi/109."
+"jpg?1517813031|https://scryfall.com/card/soi/109/ever-after?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:653
@@ -1453,7 +1794,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:660
-msgid ":mtgtip:`Farbog Revenant`"
+msgid ""
+":mtgtip:`Farbog Revenant<https://img.scryfall.com/cards/border_crop/en/"
+"soi/110.jpg?1517813031|https://scryfall.com/card/soi/110/farbog-revenant?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:659
@@ -1463,7 +1807,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:666
-msgid ":mtgtip:`From Under the Floorboards`"
+msgid ""
+":mtgtip:`From Under the Floorboards<https://img.scryfall.com/cards/"
+"border_crop/en/soi/111.jpg?1517813031|https://scryfall.com/card/soi/111/from-"
+"under-the-floorboards?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:663
@@ -1481,7 +1828,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:670
-msgid ":mtgtip:`Ghoulcaller's Accomplice`"
+msgid ""
+":mtgtip:`Ghoulcaller's Accomplice<https://img.scryfall.com/cards/border_crop/"
+"en/soi/112.jpg?1517813031|https://scryfall.com/card/soi/112/ghoulcallers-"
+"accomplice?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:669
@@ -1492,7 +1842,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:674
-msgid ":mtgtip:`Ghoulsteed`"
+msgid ""
+":mtgtip:`Ghoulsteed<https://img.scryfall.com/cards/border_crop/en/soi/113."
+"jpg?1517813031|https://scryfall.com/card/soi/113/ghoulsteed?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:673
@@ -1502,7 +1854,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:680
-msgid ":mtgtip:`Gisa's Bidding`"
+msgid ""
+":mtgtip:`Gisa's Bidding<https://img.scryfall.com/cards/border_crop/en/"
+"soi/114.jpg?1517813031|https://scryfall.com/card/soi/114/gisas-bidding?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:677
@@ -1513,7 +1868,10 @@ msgstr ""
 "2/2."
 
 #: ../../SOI.rst:684
-msgid ":mtgtip:`Grotesque Mutation`"
+msgid ""
+":mtgtip:`Grotesque Mutation<https://img.scryfall.com/cards/border_crop/en/"
+"soi/115.jpg?1517813031|https://scryfall.com/card/soi/115/grotesque-mutation?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:683
@@ -1523,21 +1881,30 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:688
-msgid ":mtgtip:`Heir to the Night`"
+msgid ""
+":mtgtip:`Heir of Falkenrath<https://img.scryfall.com/cards/border_crop/en/"
+"soi/116a.jpg?1518205157|https://scryfall.com/card/soi/116/heir-of-falkenrath-"
+"heir-to-the-night?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:692
-msgid ":mtgtip:`Heir of Falkenrath`"
-msgstr ""
-
-#: ../../SOI.rst:691
+#: ../../SOI.rst:687
 msgid ""
 "Discard a card: Transform Heir of Falkenrath. Activate this ability only "
 "once each turn."
 msgstr ""
 
+#: ../../SOI.rst:692
+msgid ""
+":mtgtip:`Heir to the Night<https://img.scryfall.com/cards/border_crop/en/"
+"soi/116b.jpg?1518205157|https://scryfall.com/card/soi/116/heir-of-falkenrath-"
+"heir-to-the-night?utm_source=api>`"
+msgstr ""
+
 #: ../../SOI.rst:696
-msgid ":mtgtip:`Hound of the Farbogs`"
+msgid ""
+":mtgtip:`Hound of the Farbogs<https://img.scryfall.com/cards/border_crop/en/"
+"soi/117.jpg?1517813031|https://scryfall.com/card/soi/117/hound-of-the-"
+"farbogs?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:695
@@ -1548,7 +1915,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:702
-msgid ":mtgtip:`Indulgent Aristocrat`"
+msgid ""
+":mtgtip:`Indulgent Aristocrat<https://img.scryfall.com/cards/border_crop/en/"
+"soi/118.jpg?1517813031|https://scryfall.com/card/soi/118/indulgent-"
+"aristocrat?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:701
@@ -1558,20 +1928,13 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:706
-msgid ":mtgtip:`Demon-Possessed Witch`"
+msgid ""
+":mtgtip:`Kindly Stranger<https://img.scryfall.com/cards/border_crop/en/"
+"soi/119a.jpg?1518205316|https://scryfall.com/card/soi/119/kindly-stranger-"
+"demon-possessed-witch?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:705
-msgid ""
-"When this creature transforms into Demon-Possessed Witch, you may destroy "
-"target creature."
-msgstr ""
-
-#: ../../SOI.rst:710
-msgid ":mtgtip:`Kindly Stranger`"
-msgstr ""
-
-#: ../../SOI.rst:709
 #, fuzzy
 msgid ""
 "Delirium — |mana_2|\\ |mana_b|: Transform Kindly Stranger. Activate this "
@@ -1582,8 +1945,24 @@ msgstr ""
 "karty należące do przynajmniej czterech typów kart, wygnaj wskazanego stwora "
 "spod władania przeciwnika."
 
+#: ../../SOI.rst:710
+msgid ""
+":mtgtip:`Demon-Possessed Witch<https://img.scryfall.com/cards/border_crop/en/"
+"soi/119b.jpg?1518205316|https://scryfall.com/card/soi/119/kindly-stranger-"
+"demon-possessed-witch?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:709
+msgid ""
+"When this creature transforms into Demon-Possessed Witch, you may destroy "
+"target creature."
+msgstr ""
+
 #: ../../SOI.rst:714
-msgid ":mtgtip:`Liliana's Indignation`"
+msgid ""
+":mtgtip:`Liliana's Indignation<https://img.scryfall.com/cards/border_crop/en/"
+"soi/120.jpg?1517813031|https://scryfall.com/card/soi/120/lilianas-"
+"indignation?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:713
@@ -1593,8 +1972,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:718
-#, fuzzy
-msgid ":mtgtip:`Macabre Waltz`"
+msgid ""
+":mtgtip:`Macabre Waltz<https://img.scryfall.com/cards/border_crop/en/soi/121."
+"jpg?1517813031|https://scryfall.com/card/soi/121/macabre-waltz?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:717
@@ -1606,7 +1987,10 @@ msgstr ""
 "twojej ręki, następnie odrzuć kartę."
 
 #: ../../SOI.rst:724
-msgid ":mtgtip:`Markov Dreadknight`"
+msgid ""
+":mtgtip:`Markov Dreadknight<https://img.scryfall.com/cards/border_crop/en/"
+"soi/122.jpg?1517813031|https://scryfall.com/card/soi/122/markov-dreadknight?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:723
@@ -1616,7 +2000,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:730
-msgid ":mtgtip:`Merciless Resolve`"
+msgid ""
+":mtgtip:`Merciless Resolve<https://img.scryfall.com/cards/border_crop/en/"
+"soi/123.jpg?1517813031|https://scryfall.com/card/soi/123/merciless-resolve?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:727
@@ -1628,7 +2015,10 @@ msgid "Draw two cards."
 msgstr "Dobierz dwie karty."
 
 #: ../../SOI.rst:738
-msgid ":mtgtip:`Mindwrack Demon`"
+msgid ""
+":mtgtip:`Mindwrack Demon<https://img.scryfall.com/cards/border_crop/en/"
+"soi/124.jpg?1517813031|https://scryfall.com/card/soi/124/mindwrack-demon?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:733
@@ -1648,11 +2038,14 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:744
-msgid ":mtgtip:`Morkrut Necropod`"
+msgid ""
+":mtgtip:`Morkrut Necropod<https://img.scryfall.com/cards/border_crop/en/"
+"soi/125.jpg?1517813031|https://scryfall.com/card/soi/125/morkrut-necropod?"
+"utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:741 ../../SOI.rst:779 ../../SOI.rst:919 ../../SOI.rst:983
-#: ../../SOI.rst:1117
+#: ../../SOI.rst:741 ../../SOI.rst:779 ../../SOI.rst:923 ../../SOI.rst:983
+#: ../../SOI.rst:1123
 msgid ""
 "Menace (This creature can't be blocked except by two or more creatures.)"
 msgstr ""
@@ -1666,7 +2059,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:750
-msgid ":mtgtip:`Murderous Compulsion`"
+msgid ""
+":mtgtip:`Murderous Compulsion<https://img.scryfall.com/cards/border_crop/en/"
+"soi/126.jpg?1517813031|https://scryfall.com/card/soi/126/murderous-"
+"compulsion?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:747
@@ -1674,7 +2070,10 @@ msgid "Destroy target tapped creature."
 msgstr "Zniszcz wskazanego przekręconego stwora."
 
 #: ../../SOI.rst:758
-msgid ":mtgtip:`Olivia's Bloodsworn`"
+msgid ""
+":mtgtip:`Olivia's Bloodsworn<https://img.scryfall.com/cards/border_crop/en/"
+"soi/127.jpg?1517813031|https://scryfall.com/card/soi/127/olivias-bloodsworn?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:755
@@ -1686,7 +2085,10 @@ msgid "|mana_r|: Target Vampire gains haste until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:764
-msgid ":mtgtip:`Pale Rider of Trostad`"
+msgid ""
+":mtgtip:`Pale Rider of Trostad<https://img.scryfall.com/cards/border_crop/en/"
+"soi/128.jpg?1517813031|https://scryfall.com/card/soi/128/pale-rider-of-"
+"trostad?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:763
@@ -1694,7 +2096,10 @@ msgid "When Pale Rider of Trostad enters the battlefield, discard a card."
 msgstr ""
 
 #: ../../SOI.rst:770
-msgid ":mtgtip:`Pick the Brain`"
+msgid ""
+":mtgtip:`Pick the Brain<https://img.scryfall.com/cards/border_crop/en/"
+"soi/129.jpg?1517813031|https://scryfall.com/card/soi/129/pick-the-brain?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:767
@@ -1712,7 +2117,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:776
-msgid ":mtgtip:`Rancid Rats`"
+msgid ""
+":mtgtip:`Rancid Rats<https://img.scryfall.com/cards/border_crop/en/soi/130."
+"jpg?1517813031|https://scryfall.com/card/soi/130/rancid-rats?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:775
@@ -1724,7 +2131,10 @@ msgstr ""
 "wystarcza, aby został zniszczony.)"
 
 #: ../../SOI.rst:784
-msgid ":mtgtip:`Relentless Dead`"
+msgid ""
+":mtgtip:`Relentless Dead<https://img.scryfall.com/cards/border_crop/en/"
+"soi/131.jpg?1517813031|https://scryfall.com/card/soi/131/relentless-dead?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:781
@@ -1741,7 +2151,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:788
-msgid ":mtgtip:`Rottenheart Ghoul`"
+msgid ""
+":mtgtip:`Rottenheart Ghoul<https://img.scryfall.com/cards/border_crop/en/"
+"soi/132.jpg?1517813031|https://scryfall.com/card/soi/132/rottenheart-ghoul?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:787
@@ -1749,7 +2162,10 @@ msgid "When Rottenheart Ghoul dies, target player discards a card."
 msgstr ""
 
 #: ../../SOI.rst:792
-msgid ":mtgtip:`Sanitarium Skeleton`"
+msgid ""
+":mtgtip:`Sanitarium Skeleton<https://img.scryfall.com/cards/border_crop/en/"
+"soi/133.jpg?1517813031|https://scryfall.com/card/soi/133/sanitarium-skeleton?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:791
@@ -1759,7 +2175,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:796
-msgid ":mtgtip:`Shamble Back`"
+msgid ""
+":mtgtip:`Shamble Back<https://img.scryfall.com/cards/border_crop/en/soi/134."
+"jpg?1517813031|https://scryfall.com/card/soi/134/shamble-back?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:795
@@ -1769,7 +2188,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:800
-msgid ":mtgtip:`Sinister Concoction`"
+msgid ""
+":mtgtip:`Sinister Concoction<https://img.scryfall.com/cards/border_crop/en/"
+"soi/135.jpg?1517813031|https://scryfall.com/card/soi/135/sinister-concoction?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:799
@@ -1779,7 +2201,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:804
-msgid ":mtgtip:`Stallion of Ashmouth`"
+msgid ""
+":mtgtip:`Stallion of Ashmouth<https://img.scryfall.com/cards/border_crop/en/"
+"soi/136.jpg?1517813031|https://scryfall.com/card/soi/136/stallion-of-"
+"ashmouth?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:803
@@ -1790,7 +2215,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:808
-msgid ":mtgtip:`Stromkirk Mentor`"
+msgid ""
+":mtgtip:`Stromkirk Mentor<https://img.scryfall.com/cards/border_crop/en/"
+"soi/137.jpg?1517813031|https://scryfall.com/card/soi/137/stromkirk-mentor?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:807
@@ -1800,7 +2228,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:812
-msgid ":mtgtip:`Throttle`"
+msgid ""
+":mtgtip:`Throttle<https://img.scryfall.com/cards/border_crop/en/soi/138.jpg?"
+"1517813031|https://scryfall.com/card/soi/138/throttle?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:811
@@ -1808,7 +2238,10 @@ msgid "Target creature gets -4/-4 until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:818
-msgid ":mtgtip:`To the Slaughter`"
+msgid ""
+":mtgtip:`To the Slaughter<https://img.scryfall.com/cards/border_crop/en/"
+"soi/139.jpg?1517813031|https://scryfall.com/card/soi/139/to-the-slaughter?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:815
@@ -1822,7 +2255,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:824
-msgid ":mtgtip:`Tooth Collector`"
+msgid ""
+":mtgtip:`Tooth Collector<https://img.scryfall.com/cards/border_crop/en/"
+"soi/140.jpg?1517813031|https://scryfall.com/card/soi/140/tooth-collector?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:821
@@ -1839,7 +2275,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:832
-msgid ":mtgtip:`Triskaidekaphobia`"
+msgid ""
+":mtgtip:`Triskaidekaphobia<https://img.scryfall.com/cards/border_crop/en/"
+"soi/141.jpg?1517813031|https://scryfall.com/card/soi/141/triskaidekaphobia?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:827
@@ -1859,15 +2298,24 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:836
-msgid ":mtgtip:`Twins of Maurer Estate`"
+msgid ""
+":mtgtip:`Twins of Maurer Estate<https://img.scryfall.com/cards/border_crop/"
+"en/soi/142.jpg?1517813031|https://scryfall.com/card/soi/142/twins-of-maurer-"
+"estate?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:838
-msgid ":mtgtip:`Vampire Noble`"
+msgid ""
+":mtgtip:`Vampire Noble<https://img.scryfall.com/cards/border_crop/en/soi/143."
+"jpg?1517813031|https://scryfall.com/card/soi/143/vampire-noble?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:844
-msgid ":mtgtip:`Vessel of Malignity`"
+msgid ""
+":mtgtip:`Vessel of Malignity<https://img.scryfall.com/cards/border_crop/en/"
+"soi/144.jpg?1517813031|https://scryfall.com/card/soi/144/vessel-of-malignity?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:843
@@ -1878,7 +2326,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:850
-msgid ":mtgtip:`Avacyn's Judgment`"
+msgid ""
+":mtgtip:`Avacyn's Judgment<https://img.scryfall.com/cards/border_crop/en/"
+"soi/145.jpg?1517813031|https://scryfall.com/card/soi/145/avacyns-judgment?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:847
@@ -1896,7 +2347,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:856
-msgid ":mtgtip:`Bloodmad Vampire`"
+msgid ""
+":mtgtip:`Bloodmad Vampire<https://img.scryfall.com/cards/border_crop/en/"
+"soi/146.jpg?1517813031|https://scryfall.com/card/soi/146/bloodmad-vampire?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:853
@@ -1912,32 +2366,41 @@ msgid ""
 "graveyard.)"
 msgstr ""
 
-#: ../../SOI.rst:862
-msgid ":mtgtip:`Neck Breaker`"
+#: ../../SOI.rst:860
+msgid ""
+":mtgtip:`Breakneck Rider<https://img.scryfall.com/cards/border_crop/en/"
+"soi/147a.jpg?1518204470|https://scryfall.com/card/soi/147/breakneck-rider-"
+"neck-breaker?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:859
-msgid "Attacking creatures you control get +1/+0 and have trample."
-msgstr ""
-
-#: ../../SOI.rst:861
-msgid ""
-"At the beginning of each upkeep, if a player cast two or more spells last "
-"turn, transform Neck Breaker."
-msgstr ""
-
-#: ../../SOI.rst:866
-msgid ":mtgtip:`Breakneck Rider`"
-msgstr ""
-
-#: ../../SOI.rst:865
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Breakneck Rider."
 msgstr ""
 
+#: ../../SOI.rst:866
+msgid ""
+":mtgtip:`Neck Breaker<https://img.scryfall.com/cards/border_crop/en/soi/147b."
+"jpg?1518204470|https://scryfall.com/card/soi/147/breakneck-rider-neck-"
+"breaker?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:863
+msgid "Attacking creatures you control get +1/+0 and have trample."
+msgstr ""
+
+#: ../../SOI.rst:865
+msgid ""
+"At the beginning of each upkeep, if a player cast two or more spells last "
+"turn, transform Neck Breaker."
+msgstr ""
+
 #: ../../SOI.rst:870
-msgid ":mtgtip:`Burn from Within`"
+msgid ""
+":mtgtip:`Burn from Within<https://img.scryfall.com/cards/border_crop/en/"
+"soi/148.jpg?1517813031|https://scryfall.com/card/soi/148/burn-from-within?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:869
@@ -1948,27 +2411,36 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:874
-msgid ":mtgtip:`Branded Howler`"
+msgid ""
+":mtgtip:`Convicted Killer<https://img.scryfall.com/cards/border_crop/en/"
+"soi/149a.jpg?1518204662|https://scryfall.com/card/soi/149/convicted-killer-"
+"branded-howler?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:873
-msgid ""
-"At the beginning of each upkeep, if a player cast two or more spells last "
-"turn, transform Branded Howler."
-msgstr ""
-
-#: ../../SOI.rst:878
-msgid ":mtgtip:`Convicted Killer`"
-msgstr ""
-
-#: ../../SOI.rst:877
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Convicted Killer."
 msgstr ""
 
+#: ../../SOI.rst:878
+msgid ""
+":mtgtip:`Branded Howler<https://img.scryfall.com/cards/border_crop/en/"
+"soi/149b.jpg?1518204662|https://scryfall.com/card/soi/149/convicted-killer-"
+"branded-howler?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:877
+msgid ""
+"At the beginning of each upkeep, if a player cast two or more spells last "
+"turn, transform Branded Howler."
+msgstr ""
+
 #: ../../SOI.rst:882
-msgid ":mtgtip:`Dance with Devils`"
+msgid ""
+":mtgtip:`Dance with Devils<https://img.scryfall.com/cards/border_crop/en/"
+"soi/150.jpg?1517813031|https://scryfall.com/card/soi/150/dance-with-devils?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:881
@@ -1978,7 +2450,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:886
-msgid ":mtgtip:`Devils' Playground`"
+msgid ""
+":mtgtip:`Devils' Playground<https://img.scryfall.com/cards/border_crop/en/"
+"soi/151.jpg?1517813031|https://scryfall.com/card/soi/151/devils-playground?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:885
@@ -1988,7 +2463,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:890
-msgid ":mtgtip:`Dissension in the Ranks`"
+msgid ""
+":mtgtip:`Dissension in the Ranks<https://img.scryfall.com/cards/border_crop/"
+"en/soi/152.jpg?1517813031|https://scryfall.com/card/soi/152/dissension-in-"
+"the-ranks?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:889
@@ -1996,8 +2474,9 @@ msgid "Target blocking creature fights another target blocking creature."
 msgstr ""
 
 #: ../../SOI.rst:894
-#, fuzzy
-msgid ":mtgtip:`Dual Shot`"
+msgid ""
+":mtgtip:`Dual Shot<https://img.scryfall.com/cards/border_crop/en/soi/153.jpg?"
+"1517813031|https://scryfall.com/card/soi/153/dual-shot?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:893
@@ -2006,11 +2485,14 @@ msgstr ""
 "Ten czar zadaje 1 obrażenie każdemu z co najwyżej dwóch wskazanych stworów."
 
 #: ../../SOI.rst:900
-msgid ":mtgtip:`Ember-Eye Wolf`"
+msgid ""
+":mtgtip:`Ember-Eye Wolf<https://img.scryfall.com/cards/border_crop/en/"
+"soi/154.jpg?1517813031|https://scryfall.com/card/soi/154/ember-eye-wolf?"
+"utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:897 ../../SOI.rst:935 ../../SOI.rst:973 ../../SOI.rst:1007
-#: ../../SOI.rst:1123 ../../SOI.rst:1129
+#: ../../SOI.rst:897 ../../SOI.rst:929 ../../SOI.rst:973 ../../SOI.rst:1007
+#: ../../SOI.rst:1117 ../../SOI.rst:1129
 msgid "Haste"
 msgstr "Pośpiech"
 
@@ -2020,7 +2502,10 @@ msgid "|mana_1|\\ |mana_r|: Ember-Eye Wolf gets +2/+0 until end of turn."
 msgstr "Stwory pod twoim władaniem dostają +2/+1 do końca tury."
 
 #: ../../SOI.rst:904
-msgid ":mtgtip:`Falkenrath Gorger`"
+msgid ""
+":mtgtip:`Falkenrath Gorger<https://img.scryfall.com/cards/border_crop/en/"
+"soi/155.jpg?1517813031|https://scryfall.com/card/soi/155/falkenrath-gorger?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:903
@@ -2032,7 +2517,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:910
-msgid ":mtgtip:`Fiery Temper`"
+msgid ""
+":mtgtip:`Fiery Temper<https://img.scryfall.com/cards/border_crop/en/soi/156."
+"jpg?1517813031|https://scryfall.com/card/soi/156/fiery-temper?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:907
@@ -2046,7 +2534,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:916
-msgid ":mtgtip:`Flameblade Angel`"
+msgid ""
+":mtgtip:`Flameblade Angel<https://img.scryfall.com/cards/border_crop/en/"
+"soi/157.jpg?1517813031|https://scryfall.com/card/soi/157/flameblade-angel?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:915
@@ -2056,54 +2547,68 @@ msgid ""
 "controller."
 msgstr ""
 
-#: ../../SOI.rst:922
-msgid ":mtgtip:`Gatstaf Ravagers`"
-msgstr ""
-
-#: ../../SOI.rst:921
+#: ../../SOI.rst:920
 msgid ""
-"At the beginning of each upkeep, if a player cast two or more spells last "
-"turn, transform Gatstaf Ravagers."
+":mtgtip:`Gatstaf Arsonists<https://img.scryfall.com/cards/border_crop/en/"
+"soi/158a.jpg?1518204925|https://scryfall.com/card/soi/158/gatstaf-arsonists-"
+"gatstaf-ravagers?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:926
-msgid ":mtgtip:`Gatstaf Arsonists`"
-msgstr ""
-
-#: ../../SOI.rst:925
+#: ../../SOI.rst:919
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Gatstaf Arsonists."
 msgstr ""
 
-#: ../../SOI.rst:932
-msgid ":mtgtip:`Vildin-Pack Alpha`"
+#: ../../SOI.rst:926
+msgid ""
+":mtgtip:`Gatstaf Ravagers<https://img.scryfall.com/cards/border_crop/en/"
+"soi/158b.jpg?1518204925|https://scryfall.com/card/soi/158/gatstaf-arsonists-"
+"gatstaf-ravagers?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:929
+#: ../../SOI.rst:925
 msgid ""
-"Whenever a Werewolf enters the battlefield under your control, you may "
-"transform it."
+"At the beginning of each upkeep, if a player cast two or more spells last "
+"turn, transform Gatstaf Ravagers."
+msgstr ""
+
+#: ../../SOI.rst:932
+msgid ""
+":mtgtip:`Geier Reach Bandit<https://img.scryfall.com/cards/border_crop/en/"
+"soi/159a.jpg?1518204935|https://scryfall.com/card/soi/159/geier-reach-bandit-"
+"vildin-pack-alpha?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:931
-msgid ""
-"At the beginning of each upkeep, if a player cast two or more spells last "
-"turn, transform Vildin-Pack Alpha."
-msgstr ""
-
-#: ../../SOI.rst:938
-msgid ":mtgtip:`Geier Reach Bandit`"
-msgstr ""
-
-#: ../../SOI.rst:937
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Geier Reach Bandit."
 msgstr ""
 
+#: ../../SOI.rst:938
+msgid ""
+":mtgtip:`Vildin-Pack Alpha<https://img.scryfall.com/cards/border_crop/en/"
+"soi/159b.jpg?1518204935|https://scryfall.com/card/soi/159/geier-reach-bandit-"
+"vildin-pack-alpha?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:935
+msgid ""
+"Whenever a Werewolf enters the battlefield under your control, you may "
+"transform it."
+msgstr ""
+
+#: ../../SOI.rst:937
+msgid ""
+"At the beginning of each upkeep, if a player cast two or more spells last "
+"turn, transform Vildin-Pack Alpha."
+msgstr ""
+
 #: ../../SOI.rst:944
-msgid ":mtgtip:`Geistblast`"
+msgid ""
+":mtgtip:`Geistblast<https://img.scryfall.com/cards/border_crop/en/soi/160."
+"jpg?1517813031|https://scryfall.com/card/soi/160/geistblast?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:941
@@ -2118,7 +2623,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:950
-msgid ":mtgtip:`Gibbering Fiend`"
+msgid ""
+":mtgtip:`Gibbering Fiend<https://img.scryfall.com/cards/border_crop/en/"
+"soi/161.jpg?1517813031|https://scryfall.com/card/soi/161/gibbering-fiend?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:947
@@ -2135,7 +2643,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:958
-msgid ":mtgtip:`Goldnight Castigator`"
+msgid ""
+":mtgtip:`Goldnight Castigator<https://img.scryfall.com/cards/border_crop/en/"
+"soi/162.jpg?1517813031|https://scryfall.com/card/soi/162/goldnight-"
+"castigator?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:953
@@ -2155,7 +2666,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:962
-msgid ":mtgtip:`Harness the Storm`"
+msgid ""
+":mtgtip:`Harness the Storm<https://img.scryfall.com/cards/border_crop/en/"
+"soi/163.jpg?1517813031|https://scryfall.com/card/soi/163/harness-the-storm?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:961
@@ -2166,7 +2680,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:966
-msgid ":mtgtip:`Howlpack Wolf`"
+msgid ""
+":mtgtip:`Howlpack Wolf<https://img.scryfall.com/cards/border_crop/en/soi/164."
+"jpg?1517813031|https://scryfall.com/card/soi/164/howlpack-wolf?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:965
@@ -2174,11 +2691,17 @@ msgid "Howlpack Wolf can't block unless you control another Wolf or Werewolf."
 msgstr ""
 
 #: ../../SOI.rst:968
-msgid ":mtgtip:`Hulking Devil`"
+msgid ""
+":mtgtip:`Hulking Devil<https://img.scryfall.com/cards/border_crop/en/soi/165."
+"jpg?1517813031|https://scryfall.com/card/soi/165/hulking-devil?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:976
-msgid ":mtgtip:`Incorrigible Youths`"
+msgid ""
+":mtgtip:`Incorrigible Youths<https://img.scryfall.com/cards/border_crop/en/"
+"soi/166.jpg?1517813031|https://scryfall.com/card/soi/166/incorrigible-youths?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:975 ../../SOI.rst:1089
@@ -2189,7 +2712,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:980
-msgid ":mtgtip:`Inner Struggle`"
+msgid ""
+":mtgtip:`Inner Struggle<https://img.scryfall.com/cards/border_crop/en/"
+"soi/167.jpg?1517813031|https://scryfall.com/card/soi/167/inner-struggle?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:979
@@ -2197,7 +2723,10 @@ msgid "Target creature deals damage to itself equal to its power."
 msgstr "Wskazany stwór zadaje sam sobie obrażenia równe swojej sile."
 
 #: ../../SOI.rst:986
-msgid ":mtgtip:`Insolent Neonate`"
+msgid ""
+":mtgtip:`Insolent Neonate<https://img.scryfall.com/cards/border_crop/en/"
+"soi/168.jpg?1517813031|https://scryfall.com/card/soi/168/insolent-neonate?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:985
@@ -2205,39 +2734,48 @@ msgid "Discard a card, Sacrifice Insolent Neonate: Draw a card."
 msgstr ""
 
 #: ../../SOI.rst:992
-msgid ":mtgtip:`Flameheart Werewolf`"
+msgid ""
+":mtgtip:`Kessig Forgemaster<https://img.scryfall.com/cards/border_crop/en/"
+"soi/169a.jpg?1518205306|https://scryfall.com/card/soi/169/kessig-forgemaster-"
+"flameheart-werewolf?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:989
-msgid ""
-"Whenever Flameheart Werewolf blocks or becomes blocked by a creature, "
-"Flameheart Werewolf deals 2 damage to that creature."
-msgstr ""
-
-#: ../../SOI.rst:991
-msgid ""
-"At the beginning of each upkeep, if a player cast two or more spells last "
-"turn, transform Flameheart Werewolf."
-msgstr ""
-
-#: ../../SOI.rst:998
-msgid ":mtgtip:`Kessig Forgemaster`"
-msgstr ""
-
-#: ../../SOI.rst:995
 msgid ""
 "Whenever Kessig Forgemaster blocks or becomes blocked by a creature, Kessig "
 "Forgemaster deals 1 damage to that creature."
 msgstr ""
 
-#: ../../SOI.rst:997
+#: ../../SOI.rst:991
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Kessig Forgemaster."
 msgstr ""
 
+#: ../../SOI.rst:998
+msgid ""
+":mtgtip:`Flameheart Werewolf<https://img.scryfall.com/cards/border_crop/en/"
+"soi/169b.jpg?1518205306|https://scryfall.com/card/soi/169/kessig-forgemaster-"
+"flameheart-werewolf?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:995
+msgid ""
+"Whenever Flameheart Werewolf blocks or becomes blocked by a creature, "
+"Flameheart Werewolf deals 2 damage to that creature."
+msgstr ""
+
+#: ../../SOI.rst:997
+msgid ""
+"At the beginning of each upkeep, if a player cast two or more spells last "
+"turn, transform Flameheart Werewolf."
+msgstr ""
+
 #: ../../SOI.rst:1004
-msgid ":mtgtip:`Lightning Axe`"
+msgid ""
+":mtgtip:`Lightning Axe<https://img.scryfall.com/cards/border_crop/en/soi/170."
+"jpg?1517813031|https://scryfall.com/card/soi/170/lightning-axe?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1001
@@ -2250,7 +2788,9 @@ msgid "Lightning Axe deals 5 damage to target creature."
 msgstr ""
 
 #: ../../SOI.rst:1010
-msgid ":mtgtip:`Mad Prophet`"
+msgid ""
+":mtgtip:`Mad Prophet<https://img.scryfall.com/cards/border_crop/en/soi/171."
+"jpg?1517813031|https://scryfall.com/card/soi/171/mad-prophet?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1009
@@ -2258,7 +2798,10 @@ msgid "|tap|, Discard a card: Draw a card."
 msgstr "|tap|, odrzuć kartę: Dobierz kartę."
 
 #: ../../SOI.rst:1014
-msgid ":mtgtip:`Magmatic Chasm`"
+msgid ""
+":mtgtip:`Magmatic Chasm<https://img.scryfall.com/cards/border_crop/en/"
+"soi/172.jpg?1517813031|https://scryfall.com/card/soi/172/magmatic-chasm?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1013
@@ -2266,7 +2809,10 @@ msgid "Creatures without flying can't block this turn."
 msgstr "Stwory bez latania nie mogą blokować w tej turze."
 
 #: ../../SOI.rst:1020
-msgid ":mtgtip:`Malevolent Whispers`"
+msgid ""
+":mtgtip:`Malevolent Whispers<https://img.scryfall.com/cards/border_crop/en/"
+"soi/173.jpg?1517813031|https://scryfall.com/card/soi/173/malevolent-whispers?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1017
@@ -2283,10 +2829,12 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1026
-msgid ":mtgtip:`Pyre Hound`"
+msgid ""
+":mtgtip:`Pyre Hound<https://img.scryfall.com/cards/border_crop/en/soi/174."
+"jpg?1517813031|https://scryfall.com/card/soi/174/pyre-hound?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:1023 ../../SOI.rst:1103 ../../SOI.rst:1241 ../../SOI.rst:1261
+#: ../../SOI.rst:1023 ../../SOI.rst:1103 ../../SOI.rst:1245 ../../SOI.rst:1261
 #: ../../SOI.rst:1349 ../../SOI.rst:1363 ../../SOI.rst:1567
 msgid "Trample"
 msgstr "Tratowanie"
@@ -2298,7 +2846,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1030
-msgid ":mtgtip:`Ravenous Bloodseeker`"
+msgid ""
+":mtgtip:`Ravenous Bloodseeker<https://img.scryfall.com/cards/border_crop/en/"
+"soi/175.jpg?1517813031|https://scryfall.com/card/soi/175/ravenous-"
+"bloodseeker?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1029
@@ -2306,7 +2857,10 @@ msgid "Discard a card: Ravenous Bloodseeker gets +2/-2 until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:1034
-msgid ":mtgtip:`Reduce to Ashes`"
+msgid ""
+":mtgtip:`Reduce to Ashes<https://img.scryfall.com/cards/border_crop/en/"
+"soi/176.jpg?1517813031|https://scryfall.com/card/soi/176/reduce-to-ashes?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1033
@@ -2316,7 +2870,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1038
-msgid ":mtgtip:`Rush of Adrenaline`"
+msgid ""
+":mtgtip:`Rush of Adrenaline<https://img.scryfall.com/cards/border_crop/en/"
+"soi/177.jpg?1517813031|https://scryfall.com/card/soi/177/rush-of-adrenaline?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1037
@@ -2324,11 +2881,17 @@ msgid "Target creature gets +2/+1 and gains trample until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:1042
-msgid ":mtgtip:`Sanguinary Mage`"
+msgid ""
+":mtgtip:`Sanguinary Mage<https://img.scryfall.com/cards/border_crop/en/"
+"soi/178.jpg?1517813031|https://scryfall.com/card/soi/178/sanguinary-mage?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1048
-msgid ":mtgtip:`Scourge Wolf`"
+msgid ""
+":mtgtip:`Scourge Wolf<https://img.scryfall.com/cards/border_crop/en/soi/179."
+"jpg?1517813031|https://scryfall.com/card/soi/179/scourge-wolf?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1045
@@ -2342,7 +2905,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1056
-msgid ":mtgtip:`Senseless Rage`"
+msgid ""
+":mtgtip:`Senseless Rage<https://img.scryfall.com/cards/border_crop/en/"
+"soi/180.jpg?1517813031|https://scryfall.com/card/soi/180/senseless-rage?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1053
@@ -2350,7 +2916,9 @@ msgid "Enchanted creature gets +2/+2."
 msgstr "Zauroczony stwór dostaje +2/+2."
 
 #: ../../SOI.rst:1062
-msgid ":mtgtip:`Sin Prodder`"
+msgid ""
+":mtgtip:`Sin Prodder<https://img.scryfall.com/cards/border_crop/en/soi/181."
+"jpg?1517813031|https://scryfall.com/card/soi/181/sin-prodder?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1059
@@ -2365,26 +2933,35 @@ msgid ""
 "cost. Otherwise, put that card into your hand."
 msgstr ""
 
-#: ../../SOI.rst:1064
-msgid ":mtgtip:`Skin Shedder`"
+#: ../../SOI.rst:1070
+msgid ""
+":mtgtip:`Skin Invasion<https://img.scryfall.com/cards/border_crop/en/"
+"soi/182a.jpg?1518205878|https://scryfall.com/card/soi/182/skin-invasion-skin-"
+"shedder?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:1074
-msgid ":mtgtip:`Skin Invasion`"
-msgstr ""
-
-#: ../../SOI.rst:1071
+#: ../../SOI.rst:1067
 msgid "Enchanted creature attacks each combat if able."
 msgstr ""
 
-#: ../../SOI.rst:1073
+#: ../../SOI.rst:1069
 msgid ""
 "When enchanted creature dies, return Skin Invasion to the battlefield "
 "transformed under your control."
 msgstr ""
 
+#: ../../SOI.rst:1072
+msgid ""
+":mtgtip:`Skin Shedder<https://img.scryfall.com/cards/border_crop/en/soi/182b."
+"jpg?1518205878|https://scryfall.com/card/soi/182/skin-invasion-skin-shedder?"
+"utm_source=api>`"
+msgstr ""
+
 #: ../../SOI.rst:1082
-msgid ":mtgtip:`Spiteful Motives`"
+msgid ""
+":mtgtip:`Spiteful Motives<https://img.scryfall.com/cards/border_crop/en/"
+"soi/183.jpg?1517813031|https://scryfall.com/card/soi/183/spiteful-motives?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1081
@@ -2392,7 +2969,10 @@ msgid "Enchanted creature gets +3/+0 and has first strike."
 msgstr ""
 
 #: ../../SOI.rst:1090
-msgid ":mtgtip:`Stensia Masquerade`"
+msgid ""
+":mtgtip:`Stensia Masquerade<https://img.scryfall.com/cards/border_crop/en/"
+"soi/184.jpg?1517813031|https://scryfall.com/card/soi/184/stensia-masquerade?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1085
@@ -2406,7 +2986,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1094
-msgid ":mtgtip:`Structural Distortion`"
+msgid ""
+":mtgtip:`Structural Distortion<https://img.scryfall.com/cards/border_crop/en/"
+"soi/185.jpg?1517813031|https://scryfall.com/card/soi/185/structural-"
+"distortion?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1093
@@ -2416,8 +2999,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1100
-#, fuzzy
-msgid ":mtgtip:`Tormenting Voice`"
+msgid ""
+":mtgtip:`Tormenting Voice<https://img.scryfall.com/cards/border_crop/en/"
+"soi/186.jpg?1517813031|https://scryfall.com/card/soi/186/tormenting-voice?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1097
@@ -2425,7 +3010,10 @@ msgid "As an additional cost to cast this spell, discard a card."
 msgstr "Jako dodatkowy koszt rzucenia tego czaru, odrzuć kartę."
 
 #: ../../SOI.rst:1106
-msgid ":mtgtip:`Ulrich's Kindred`"
+msgid ""
+":mtgtip:`Ulrich's Kindred<https://img.scryfall.com/cards/border_crop/en/"
+"soi/187.jpg?1517813031|https://scryfall.com/card/soi/187/ulrichs-kindred?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1105
@@ -2438,7 +3026,10 @@ msgstr ""
 "niezniszczalność do końca tury."
 
 #: ../../SOI.rst:1110
-msgid ":mtgtip:`Uncaged Fury`"
+msgid ""
+":mtgtip:`Uncaged Fury<https://img.scryfall.com/cards/border_crop/en/soi/188."
+"jpg?1517813031|https://scryfall.com/card/soi/188/uncaged-fury?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1109
@@ -2448,7 +3039,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1114
-msgid ":mtgtip:`Vessel of Volatility`"
+msgid ""
+":mtgtip:`Vessel of Volatility<https://img.scryfall.com/cards/border_crop/en/"
+"soi/189.jpg?1517813031|https://scryfall.com/card/soi/189/vessel-of-"
+"volatility?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1113
@@ -2458,27 +3052,36 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1120
-msgid ":mtgtip:`Moonrise Intruder`"
+msgid ""
+":mtgtip:`Village Messenger<https://img.scryfall.com/cards/border_crop/en/"
+"soi/190a.jpg?1518206302|https://scryfall.com/card/soi/190/village-messenger-"
+"moonrise-intruder?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1119
-msgid ""
-"At the beginning of each upkeep, if a player cast two or more spells last "
-"turn, transform Moonrise Intruder."
-msgstr ""
-
-#: ../../SOI.rst:1126
-msgid ":mtgtip:`Village Messenger`"
-msgstr ""
-
-#: ../../SOI.rst:1125
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Village Messenger."
 msgstr ""
 
+#: ../../SOI.rst:1126
+msgid ""
+":mtgtip:`Moonrise Intruder<https://img.scryfall.com/cards/border_crop/en/"
+"soi/190b.jpg?1518206302|https://scryfall.com/card/soi/190/village-messenger-"
+"moonrise-intruder?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:1125
+msgid ""
+"At the beginning of each upkeep, if a player cast two or more spells last "
+"turn, transform Moonrise Intruder."
+msgstr ""
+
 #: ../../SOI.rst:1132
-msgid ":mtgtip:`Voldaren Duelist`"
+msgid ""
+":mtgtip:`Voldaren Duelist<https://img.scryfall.com/cards/border_crop/en/"
+"soi/191.jpg?1517813031|https://scryfall.com/card/soi/191/voldaren-duelist?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1131
@@ -2488,7 +3091,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1136
-msgid ":mtgtip:`Wolf of Devil's Breach`"
+msgid ""
+":mtgtip:`Wolf of Devil's Breach<https://img.scryfall.com/cards/border_crop/"
+"en/soi/192.jpg?1517813031|https://scryfall.com/card/soi/192/wolf-of-devils-"
+"breach?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1135
@@ -2499,7 +3105,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1140
-msgid ":mtgtip:`Aim High`"
+msgid ""
+":mtgtip:`Aim High<https://img.scryfall.com/cards/border_crop/en/soi/193.jpg?"
+"1517813031|https://scryfall.com/card/soi/193/aim-high?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1139
@@ -2508,30 +3116,39 @@ msgid ""
 "can block creatures with flying.)"
 msgstr ""
 
-#: ../../SOI.rst:1144
-msgid ":mtgtip:`Ancient of the Equinox`"
+#: ../../SOI.rst:1146
+msgid ""
+":mtgtip:`Autumnal Gloom<https://img.scryfall.com/cards/border_crop/en/"
+"soi/194a.jpg?1518204397|https://scryfall.com/card/soi/194/autumnal-gloom-"
+"ancient-of-the-equinox?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1143
-msgid "Trample, hexproof"
-msgstr "Tratowanie, antyklątwa"
-
-#: ../../SOI.rst:1150
-msgid ":mtgtip:`Autumnal Gloom`"
-msgstr ""
-
-#: ../../SOI.rst:1147
 msgid "|mana_b|: Put the top card of your library into your graveyard."
 msgstr ""
 
-#: ../../SOI.rst:1149
+#: ../../SOI.rst:1145
 msgid ""
 "Delirium — At the beginning of your end step, if there are four or more card "
 "types among cards in your graveyard, transform Autumnal Gloom."
 msgstr ""
 
+#: ../../SOI.rst:1150
+msgid ""
+":mtgtip:`Ancient of the Equinox<https://img.scryfall.com/cards/border_crop/"
+"en/soi/194b.jpg?1518204397|https://scryfall.com/card/soi/194/autumnal-gloom-"
+"ancient-of-the-equinox?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:1149
+msgid "Trample, hexproof"
+msgstr "Tratowanie, antyklątwa"
+
 #: ../../SOI.rst:1156
-msgid ":mtgtip:`Briarbridge Patrol`"
+msgid ""
+":mtgtip:`Briarbridge Patrol<https://img.scryfall.com/cards/border_crop/en/"
+"soi/195.jpg?1517813031|https://scryfall.com/card/soi/195/briarbridge-patrol?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1153
@@ -2548,7 +3165,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1160
-msgid ":mtgtip:`Byway Courier`"
+msgid ""
+":mtgtip:`Byway Courier<https://img.scryfall.com/cards/border_crop/en/soi/196."
+"jpg?1517813031|https://scryfall.com/card/soi/196/byway-courier?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1159
@@ -2558,7 +3178,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1164
-msgid ":mtgtip:`Clip Wings`"
+msgid ""
+":mtgtip:`Clip Wings<https://img.scryfall.com/cards/border_crop/en/soi/197."
+"jpg?1517813031|https://scryfall.com/card/soi/197/clip-wings?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1163
@@ -2566,7 +3188,10 @@ msgid "Each opponent sacrifices a creature with flying."
 msgstr ""
 
 #: ../../SOI.rst:1168
-msgid ":mtgtip:`Confront the Unknown`"
+msgid ""
+":mtgtip:`Confront the Unknown<https://img.scryfall.com/cards/border_crop/en/"
+"soi/198.jpg?1517813031|https://scryfall.com/card/soi/198/confront-the-"
+"unknown?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1167
@@ -2577,7 +3202,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1174
-msgid ":mtgtip:`Crawling Sensation`"
+msgid ""
+":mtgtip:`Crawling Sensation<https://img.scryfall.com/cards/border_crop/en/"
+"soi/199.jpg?1517813031|https://scryfall.com/card/soi/199/crawling-sensation?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1171
@@ -2593,7 +3221,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1178
-msgid ":mtgtip:`Cryptolith Rite`"
+msgid ""
+":mtgtip:`Cryptolith Rite<https://img.scryfall.com/cards/border_crop/en/"
+"soi/200.jpg?1517813031|https://scryfall.com/card/soi/200/cryptolith-rite?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1177
@@ -2601,7 +3232,10 @@ msgid "Creatures you control have \"|tap|: Add one mana of any color.\""
 msgstr ""
 
 #: ../../SOI.rst:1182
-msgid ":mtgtip:`Cult of the Waxing Moon`"
+msgid ""
+":mtgtip:`Cult of the Waxing Moon<https://img.scryfall.com/cards/border_crop/"
+"en/soi/201.jpg?1517813031|https://scryfall.com/card/soi/201/cult-of-the-"
+"waxing-moon?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1181
@@ -2611,7 +3245,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1188
-msgid ":mtgtip:`Deathcap Cultivator`"
+msgid ""
+":mtgtip:`Deathcap Cultivator<https://img.scryfall.com/cards/border_crop/en/"
+"soi/202.jpg?1517813031|https://scryfall.com/card/soi/202/deathcap-cultivator?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1185 ../../SOI.rst:1663
@@ -2625,38 +3262,47 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1194
-msgid ":mtgtip:`Krallenhorde Howler`"
+msgid ""
+":mtgtip:`Duskwatch Recruiter<https://img.scryfall.com/cards/border_crop/en/"
+"soi/203a.jpg?1518204802|https://scryfall.com/card/soi/203/duskwatch-"
+"recruiter-krallenhorde-howler?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1191
-msgid "Creature spells you cast cost |mana_1| less to cast."
-msgstr ""
-
-#: ../../SOI.rst:1193
-msgid ""
-"At the beginning of each upkeep, if a player cast two or more spells last "
-"turn, transform Krallenhorde Howler."
-msgstr ""
-
-#: ../../SOI.rst:1200
-msgid ":mtgtip:`Duskwatch Recruiter`"
-msgstr ""
-
-#: ../../SOI.rst:1197
 msgid ""
 "|mana_2|\\ |mana_g|: Look at the top three cards of your library. You may "
 "reveal a creature card from among them and put it into your hand. Put the "
 "rest on the bottom of your library in any order."
 msgstr ""
 
-#: ../../SOI.rst:1199
+#: ../../SOI.rst:1193
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Duskwatch Recruiter."
 msgstr ""
 
+#: ../../SOI.rst:1200
+msgid ""
+":mtgtip:`Krallenhorde Howler<https://img.scryfall.com/cards/border_crop/en/"
+"soi/203b.jpg?1518204802|https://scryfall.com/card/soi/203/duskwatch-"
+"recruiter-krallenhorde-howler?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:1197
+msgid "Creature spells you cast cost |mana_1| less to cast."
+msgstr ""
+
+#: ../../SOI.rst:1199
+msgid ""
+"At the beginning of each upkeep, if a player cast two or more spells last "
+"turn, transform Krallenhorde Howler."
+msgstr ""
+
 #: ../../SOI.rst:1208
-msgid ":mtgtip:`Equestrian Skill`"
+msgid ""
+":mtgtip:`Equestrian Skill<https://img.scryfall.com/cards/border_crop/en/"
+"soi/204.jpg?1517813031|https://scryfall.com/card/soi/204/equestrian-skill?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1205
@@ -2668,7 +3314,10 @@ msgid "As long as enchanted creature is a Human, it has trample."
 msgstr ""
 
 #: ../../SOI.rst:1212
-msgid ":mtgtip:`Fork in the Road`"
+msgid ""
+":mtgtip:`Fork in the Road<https://img.scryfall.com/cards/border_crop/en/"
+"soi/205.jpg?1517813031|https://scryfall.com/card/soi/205/fork-in-the-road?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1211
@@ -2678,7 +3327,9 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1218
-msgid ":mtgtip:`Gloomwidow`"
+msgid ""
+":mtgtip:`Gloomwidow<https://img.scryfall.com/cards/border_crop/en/soi/206."
+"jpg?1517813031|https://scryfall.com/card/soi/206/gloomwidow?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1215 ../../SOI.rst:1389
@@ -2690,7 +3341,9 @@ msgid "Gloomwidow can block only creatures with flying."
 msgstr ""
 
 #: ../../SOI.rst:1222
-msgid ":mtgtip:`Graf Mole`"
+msgid ""
+":mtgtip:`Graf Mole<https://img.scryfall.com/cards/border_crop/en/soi/207.jpg?"
+"1517813031|https://scryfall.com/card/soi/207/graf-mole?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1221
@@ -2698,7 +3351,10 @@ msgid "Whenever you sacrifice a Clue, you gain 3 life."
 msgstr ""
 
 #: ../../SOI.rst:1226
-msgid ":mtgtip:`Groundskeeper`"
+msgid ""
+":mtgtip:`Groundskeeper<https://img.scryfall.com/cards/border_crop/en/soi/208."
+"jpg?1517813031|https://scryfall.com/card/soi/208/groundskeeper?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1225
@@ -2711,55 +3367,70 @@ msgstr ""
 "twojej ręki, następnie odrzuć kartę."
 
 #: ../../SOI.rst:1232
-msgid ":mtgtip:`Lone Wolf of the Natterknolls`"
+msgid ""
+":mtgtip:`Hermit of the Natterknolls<https://img.scryfall.com/cards/"
+"border_crop/en/soi/209a.jpg?1518205162|https://scryfall.com/card/soi/209/"
+"hermit-of-the-natterknolls-lone-wolf-of-the-natterknolls?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1229
-msgid "Whenever an opponent casts a spell during your turn, draw two cards."
-msgstr ""
-
-#: ../../SOI.rst:1231
-msgid ""
-"At the beginning of each upkeep, if a player cast two or more spells last "
-"turn, transform Lone Wolf of the Natterknolls."
-msgstr ""
-
-#: ../../SOI.rst:1238
-msgid ":mtgtip:`Hermit of the Natterknolls`"
-msgstr ""
-
-#: ../../SOI.rst:1235
 msgid "Whenever an opponent casts a spell during your turn, draw a card."
 msgstr ""
 
-#: ../../SOI.rst:1237
+#: ../../SOI.rst:1231
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Hermit of the Natterknolls."
 msgstr ""
 
-#: ../../SOI.rst:1244
-msgid ":mtgtip:`Timber Shredder`"
+#: ../../SOI.rst:1238
+msgid ""
+":mtgtip:`Lone Wolf of the Natterknolls<https://img.scryfall.com/cards/"
+"border_crop/en/soi/209b.jpg?1518205162|https://scryfall.com/card/soi/209/"
+"hermit-of-the-natterknolls-lone-wolf-of-the-natterknolls?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:1243
+#: ../../SOI.rst:1235
+msgid "Whenever an opponent casts a spell during your turn, draw two cards."
+msgstr ""
+
+#: ../../SOI.rst:1237
 msgid ""
 "At the beginning of each upkeep, if a player cast two or more spells last "
-"turn, transform Timber Shredder."
+"turn, transform Lone Wolf of the Natterknolls."
 msgstr ""
 
-#: ../../SOI.rst:1248
-msgid ":mtgtip:`Hinterland Logger`"
+#: ../../SOI.rst:1242
+msgid ""
+":mtgtip:`Hinterland Logger<https://img.scryfall.com/cards/border_crop/en/"
+"soi/210a.jpg?1518205175|https://scryfall.com/card/soi/210/hinterland-logger-"
+"timber-shredder?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:1247
+#: ../../SOI.rst:1241
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Hinterland Logger."
 msgstr ""
 
+#: ../../SOI.rst:1248
+msgid ""
+":mtgtip:`Timber Shredder<https://img.scryfall.com/cards/border_crop/en/"
+"soi/210b.jpg?1518205175|https://scryfall.com/card/soi/210/hinterland-logger-"
+"timber-shredder?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:1247
+msgid ""
+"At the beginning of each upkeep, if a player cast two or more spells last "
+"turn, transform Timber Shredder."
+msgstr ""
+
 #: ../../SOI.rst:1254
-msgid ":mtgtip:`Howlpack Resurgence`"
+msgid ""
+":mtgtip:`Howlpack Resurgence<https://img.scryfall.com/cards/border_crop/en/"
+"soi/211.jpg?1517813031|https://scryfall.com/card/soi/211/howlpack-resurgence?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1253
@@ -2769,7 +3440,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1258
-msgid ":mtgtip:`Inexorable Blob`"
+msgid ""
+":mtgtip:`Inexorable Blob<https://img.scryfall.com/cards/border_crop/en/"
+"soi/212.jpg?1517813031|https://scryfall.com/card/soi/212/inexorable-blob?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1257
@@ -2780,7 +3454,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1264
-msgid ":mtgtip:`Intrepid Provisioner`"
+msgid ""
+":mtgtip:`Intrepid Provisioner<https://img.scryfall.com/cards/border_crop/en/"
+"soi/213.jpg?1517813031|https://scryfall.com/card/soi/213/intrepid-"
+"provisioner?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1263
@@ -2790,7 +3467,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1268
-msgid ":mtgtip:`Kessig Dire Swine`"
+msgid ""
+":mtgtip:`Kessig Dire Swine<https://img.scryfall.com/cards/border_crop/en/"
+"soi/214.jpg?1517813031|https://scryfall.com/card/soi/214/kessig-dire-swine?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1267
@@ -2799,34 +3479,42 @@ msgid ""
 "card types among cards in your graveyard."
 msgstr ""
 
-#: ../../SOI.rst:1272
-msgid ":mtgtip:`Lambholt Butcher`"
+#: ../../SOI.rst:1274
+msgid ""
+":mtgtip:`Lambholt Pacifist<https://img.scryfall.com/cards/border_crop/en/"
+"soi/215a.jpg?1518205411|https://scryfall.com/card/soi/215/lambholt-pacifist-"
+"lambholt-butcher?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1271
-msgid ""
-"At the beginning of each upkeep, if a player cast two or more spells last "
-"turn, transform Lambholt Butcher."
-msgstr ""
-
-#: ../../SOI.rst:1278
-msgid ":mtgtip:`Lambholt Pacifist`"
-msgstr ""
-
-#: ../../SOI.rst:1275
 msgid ""
 "Lambholt Pacifist can't attack unless you control a creature with power 4 or "
 "greater."
 msgstr ""
 
-#: ../../SOI.rst:1277
+#: ../../SOI.rst:1273
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Lambholt Pacifist."
 msgstr ""
 
+#: ../../SOI.rst:1278
+msgid ""
+":mtgtip:`Lambholt Butcher<https://img.scryfall.com/cards/border_crop/en/"
+"soi/215b.jpg?1518205411|https://scryfall.com/card/soi/215/lambholt-pacifist-"
+"lambholt-butcher?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:1277
+msgid ""
+"At the beginning of each upkeep, if a player cast two or more spells last "
+"turn, transform Lambholt Butcher."
+msgstr ""
+
 #: ../../SOI.rst:1282
-msgid ":mtgtip:`Loam Dryad`"
+msgid ""
+":mtgtip:`Loam Dryad<https://img.scryfall.com/cards/border_crop/en/soi/216."
+"jpg?1517813031|https://scryfall.com/card/soi/216/loam-dryad?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1281
@@ -2836,7 +3524,10 @@ msgstr ""
 "dowolnego koloru."
 
 #: ../../SOI.rst:1288
-msgid ":mtgtip:`Might Beyond Reason`"
+msgid ""
+":mtgtip:`Might Beyond Reason<https://img.scryfall.com/cards/border_crop/en/"
+"soi/217.jpg?1517813031|https://scryfall.com/card/soi/217/might-beyond-reason?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1285
@@ -2850,7 +3541,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1292
-msgid ":mtgtip:`Moldgraf Scavenger`"
+msgid ""
+":mtgtip:`Moldgraf Scavenger<https://img.scryfall.com/cards/border_crop/en/"
+"soi/218.jpg?1517813031|https://scryfall.com/card/soi/218/moldgraf-scavenger?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1291
@@ -2860,7 +3554,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1296
-msgid ":mtgtip:`Moonlight Hunt`"
+msgid ""
+":mtgtip:`Moonlight Hunt<https://img.scryfall.com/cards/border_crop/en/"
+"soi/219.jpg?1517813031|https://scryfall.com/card/soi/219/moonlight-hunt?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1295
@@ -2870,7 +3567,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1302
-msgid ":mtgtip:`Obsessive Skinner`"
+msgid ""
+":mtgtip:`Obsessive Skinner<https://img.scryfall.com/cards/border_crop/en/"
+"soi/220.jpg?1517813031|https://scryfall.com/card/soi/220/obsessive-skinner?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1299
@@ -2887,7 +3587,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1308
-msgid ":mtgtip:`Pack Guardian`"
+msgid ""
+":mtgtip:`Pack Guardian<https://img.scryfall.com/cards/border_crop/en/soi/221."
+"jpg?1517813031|https://scryfall.com/card/soi/221/pack-guardian?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1307
@@ -2897,7 +3600,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1312
-msgid ":mtgtip:`Quilled Wolf`"
+msgid ""
+":mtgtip:`Quilled Wolf<https://img.scryfall.com/cards/border_crop/en/soi/222."
+"jpg?1517813031|https://scryfall.com/card/soi/222/quilled-wolf?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1311
@@ -2905,8 +3611,9 @@ msgid "|mana_5|\\ |mana_g|: Quilled Wolf gets +4/+4 until end of turn."
 msgstr ""
 
 #: ../../SOI.rst:1316
-#, fuzzy
-msgid ":mtgtip:`Rabid Bite`"
+msgid ""
+":mtgtip:`Rabid Bite<https://img.scryfall.com/cards/border_crop/en/soi/223."
+"jpg?1517813031|https://scryfall.com/card/soi/223/rabid-bite?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1315
@@ -2918,7 +3625,9 @@ msgstr ""
 "wskazanemu stworowi poza twoim władaniem."
 
 #: ../../SOI.rst:1322
-msgid ":mtgtip:`Root Out`"
+msgid ""
+":mtgtip:`Root Out<https://img.scryfall.com/cards/border_crop/en/soi/224.jpg?"
+"1517813031|https://scryfall.com/card/soi/224/root-out?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1319
@@ -2926,47 +3635,56 @@ msgid "Destroy target artifact or enchantment."
 msgstr "Zniszcz wskazany artefakt lub urok."
 
 #: ../../SOI.rst:1330
-msgid ":mtgtip:`Werewolf of Ancient Hunger`"
+msgid ""
+":mtgtip:`Sage of Ancient Lore<https://img.scryfall.com/cards/border_crop/en/"
+"soi/225a.jpg?1518205779|https://scryfall.com/card/soi/225/sage-of-ancient-"
+"lore-werewolf-of-ancient-hunger?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1325
-msgid "Vigilance, trample"
-msgstr "Czujność, tratowanie"
-
-#: ../../SOI.rst:1327
-msgid ""
-"Werewolf of Ancient Hunger's power and toughness are each equal to the total "
-"number of cards in all players' hands."
-msgstr ""
-
-#: ../../SOI.rst:1329
-msgid ""
-"At the beginning of each upkeep, if a player cast two or more spells last "
-"turn, transform Werewolf of Ancient Hunger."
-msgstr ""
-
-#: ../../SOI.rst:1338
-msgid ":mtgtip:`Sage of Ancient Lore`"
-msgstr ""
-
-#: ../../SOI.rst:1333
 msgid ""
 "Sage of Ancient Lore's power and toughness are each equal to the number of "
 "cards in your hand."
 msgstr ""
 
-#: ../../SOI.rst:1335
+#: ../../SOI.rst:1327
 msgid "When Sage of Ancient Lore enters the battlefield, draw a card."
 msgstr ""
 
-#: ../../SOI.rst:1337
+#: ../../SOI.rst:1329
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Sage of Ancient Lore."
 msgstr ""
 
+#: ../../SOI.rst:1338
+msgid ""
+":mtgtip:`Werewolf of Ancient Hunger<https://img.scryfall.com/cards/"
+"border_crop/en/soi/225b.jpg?1518205779|https://scryfall.com/card/soi/225/"
+"sage-of-ancient-lore-werewolf-of-ancient-hunger?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:1333
+msgid "Vigilance, trample"
+msgstr "Czujność, tratowanie"
+
+#: ../../SOI.rst:1335
+msgid ""
+"Werewolf of Ancient Hunger's power and toughness are each equal to the total "
+"number of cards in all players' hands."
+msgstr ""
+
+#: ../../SOI.rst:1337
+msgid ""
+"At the beginning of each upkeep, if a player cast two or more spells last "
+"turn, transform Werewolf of Ancient Hunger."
+msgstr ""
+
 #: ../../SOI.rst:1342
-msgid ":mtgtip:`Seasons Past`"
+msgid ""
+":mtgtip:`Seasons Past<https://img.scryfall.com/cards/border_crop/en/soi/226."
+"jpg?1517813031|https://scryfall.com/card/soi/226/seasons-past?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1341
@@ -2977,7 +3695,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1346
-msgid ":mtgtip:`Second Harvest`"
+msgid ""
+":mtgtip:`Second Harvest<https://img.scryfall.com/cards/border_crop/en/"
+"soi/227.jpg?1517813031|https://scryfall.com/card/soi/227/second-harvest?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1345
@@ -2986,7 +3707,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1352
-msgid ":mtgtip:`Silverfur Partisan`"
+msgid ""
+":mtgtip:`Silverfur Partisan<https://img.scryfall.com/cards/border_crop/en/"
+"soi/228.jpg?1517813031|https://scryfall.com/card/soi/228/silverfur-partisan?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1351
@@ -2996,27 +3720,36 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1356
-msgid ":mtgtip:`One of the Pack`"
+msgid ""
+":mtgtip:`Solitary Hunter<https://img.scryfall.com/cards/border_crop/en/"
+"soi/229a.jpg?1518205890|https://scryfall.com/card/soi/229/solitary-hunter-"
+"one-of-the-pack?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1355
-msgid ""
-"At the beginning of each upkeep, if a player cast two or more spells last "
-"turn, transform One of the Pack."
-msgstr ""
-
-#: ../../SOI.rst:1360
-msgid ":mtgtip:`Solitary Hunter`"
-msgstr ""
-
-#: ../../SOI.rst:1359
 msgid ""
 "At the beginning of each upkeep, if no spells were cast last turn, transform "
 "Solitary Hunter."
 msgstr ""
 
+#: ../../SOI.rst:1360
+msgid ""
+":mtgtip:`One of the Pack<https://img.scryfall.com/cards/border_crop/en/"
+"soi/229b.jpg?1518205890|https://scryfall.com/card/soi/229/solitary-hunter-"
+"one-of-the-pack?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:1359
+msgid ""
+"At the beginning of each upkeep, if a player cast two or more spells last "
+"turn, transform One of the Pack."
+msgstr ""
+
 #: ../../SOI.rst:1366
-msgid ":mtgtip:`Soul Swallower`"
+msgid ""
+":mtgtip:`Soul Swallower<https://img.scryfall.com/cards/border_crop/en/"
+"soi/230.jpg?1517813031|https://scryfall.com/card/soi/230/soul-swallower?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1365
@@ -3027,7 +3760,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1370
-msgid ":mtgtip:`Stoic Builder`"
+msgid ""
+":mtgtip:`Stoic Builder<https://img.scryfall.com/cards/border_crop/en/soi/231."
+"jpg?1517813031|https://scryfall.com/card/soi/231/stoic-builder?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1369
@@ -3037,12 +3773,17 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1372
-#, fuzzy
-msgid ":mtgtip:`Thornhide Wolves`"
+msgid ""
+":mtgtip:`Thornhide Wolves<https://img.scryfall.com/cards/border_crop/en/"
+"soi/232.jpg?1517813031|https://scryfall.com/card/soi/232/thornhide-wolves?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1380
-msgid ":mtgtip:`Tireless Tracker`"
+msgid ""
+":mtgtip:`Tireless Tracker<https://img.scryfall.com/cards/border_crop/en/"
+"soi/233.jpg?1517813031|https://scryfall.com/card/soi/233/tireless-tracker?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1377
@@ -3057,7 +3798,10 @@ msgid "Whenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker."
 msgstr ""
 
 #: ../../SOI.rst:1386
-msgid ":mtgtip:`Traverse the Ulvenwald`"
+msgid ""
+":mtgtip:`Traverse the Ulvenwald<https://img.scryfall.com/cards/border_crop/"
+"en/soi/234.jpg?1517813031|https://scryfall.com/card/soi/234/traverse-the-"
+"ulvenwald?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1383
@@ -3074,7 +3818,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1394
-msgid ":mtgtip:`Ulvenwald Hydra`"
+msgid ""
+":mtgtip:`Ulvenwald Hydra<https://img.scryfall.com/cards/border_crop/en/"
+"soi/235.jpg?1517813031|https://scryfall.com/card/soi/235/ulvenwald-hydra?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1391
@@ -3090,7 +3837,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1400
-msgid ":mtgtip:`Ulvenwald Mysteries`"
+msgid ""
+":mtgtip:`Ulvenwald Mysteries<https://img.scryfall.com/cards/border_crop/en/"
+"soi/236.jpg?1517813031|https://scryfall.com/card/soi/236/ulvenwald-mysteries?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1397
@@ -3107,7 +3857,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1404
-msgid ":mtgtip:`Vessel of Nascency`"
+msgid ""
+":mtgtip:`Vessel of Nascency<https://img.scryfall.com/cards/border_crop/en/"
+"soi/237.jpg?1517813031|https://scryfall.com/card/soi/237/vessel-of-nascency?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1403
@@ -3119,7 +3872,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1408
-msgid ":mtgtip:`Veteran Cathar`"
+msgid ""
+":mtgtip:`Veteran Cathar<https://img.scryfall.com/cards/border_crop/en/"
+"soi/238.jpg?1517813031|https://scryfall.com/card/soi/238/veteran-cathar?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1407
@@ -3128,7 +3884,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1414
-msgid ":mtgtip:`Watcher in the Web`"
+msgid ""
+":mtgtip:`Watcher in the Web<https://img.scryfall.com/cards/border_crop/en/"
+"soi/239.jpg?1517813031|https://scryfall.com/card/soi/239/watcher-in-the-web?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1411
@@ -3140,7 +3899,10 @@ msgid "Watcher in the Web can block an additional seven creatures each combat."
 msgstr ""
 
 #: ../../SOI.rst:1422
-msgid ":mtgtip:`Weirding Wood`"
+msgid ""
+":mtgtip:`Weirding Wood<https://img.scryfall.com/cards/border_crop/en/soi/240."
+"jpg?1517813031|https://scryfall.com/card/soi/240/weirding-wood?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1417
@@ -3160,7 +3922,9 @@ msgstr ""
 "kolorze.\""
 
 #: ../../SOI.rst:1428
-msgid ":mtgtip:`Altered Ego`"
+msgid ""
+":mtgtip:`Altered Ego<https://img.scryfall.com/cards/border_crop/en/soi/241."
+"jpg?1517813031|https://scryfall.com/card/soi/241/altered-ego?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1425
@@ -3174,49 +3938,61 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1432
-msgid ":mtgtip:`Anguished Unmaking`"
+msgid ""
+":mtgtip:`Anguished Unmaking<https://img.scryfall.com/cards/border_crop/en/"
+"soi/242.jpg?1517813031|https://scryfall.com/card/soi/242/anguished-unmaking?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1431
 msgid "Exile target nonland permanent. You lose 3 life."
 msgstr ""
 
-#: ../../SOI.rst:1440
-msgid ":mtgtip:`Arlinn, Embraced by the Moon`"
+#: ../../SOI.rst:1438
+msgid ""
+":mtgtip:`Arlinn Kord<https://img.scryfall.com/cards/border_crop/en/soi/243a."
+"jpg?1518204361|https://scryfall.com/card/soi/243/arlinn-kord-arlinn-embraced-"
+"by-the-moon?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1435
-msgid "+1: Creatures you control get +1/+1 and gain trample until end of turn."
-msgstr ""
-
-#: ../../SOI.rst:1437
-msgid ""
-"−1: Arlinn, Embraced by the Moon deals 3 damage to any target. Transform "
-"Arlinn, Embraced by the Moon."
-msgstr ""
-
-#: ../../SOI.rst:1439
-msgid ""
-"−6: You get an emblem with \"Creatures you control have haste and '|tap|: "
-"This creature deals damage equal to its power to any target.'\""
-msgstr ""
-
-#: ../../SOI.rst:1446
-msgid ":mtgtip:`Arlinn Kord`"
-msgstr ""
-
-#: ../../SOI.rst:1443
 msgid ""
 "+1: Until end of turn, up to one target creature gets +2/+2 and gains "
 "vigilance and haste."
 msgstr ""
 
-#: ../../SOI.rst:1445
+#: ../../SOI.rst:1437
 msgid "0: Create a 2/2 green Wolf creature token. Transform Arlinn Kord."
 msgstr ""
 
+#: ../../SOI.rst:1446
+msgid ""
+":mtgtip:`Arlinn, Embraced by the Moon<https://img.scryfall.com/cards/"
+"border_crop/en/soi/243b.jpg?1518204361|https://scryfall.com/card/soi/243/"
+"arlinn-kord-arlinn-embraced-by-the-moon?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:1441
+msgid "+1: Creatures you control get +1/+1 and gain trample until end of turn."
+msgstr ""
+
+#: ../../SOI.rst:1443
+msgid ""
+"−1: Arlinn, Embraced by the Moon deals 3 damage to any target. Transform "
+"Arlinn, Embraced by the Moon."
+msgstr ""
+
+#: ../../SOI.rst:1445
+msgid ""
+"−6: You get an emblem with \"Creatures you control have haste and '|tap|: "
+"This creature deals damage equal to its power to any target.'\""
+msgstr ""
+
 #: ../../SOI.rst:1450
-msgid ":mtgtip:`Fevered Visions`"
+msgid ""
+":mtgtip:`Fevered Visions<https://img.scryfall.com/cards/border_crop/en/"
+"soi/244.jpg?1517813031|https://scryfall.com/card/soi/244/fevered-visions?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1449
@@ -3227,7 +4003,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1460
-msgid ":mtgtip:`The Gitrog Monster`"
+msgid ""
+":mtgtip:`The Gitrog Monster<https://img.scryfall.com/cards/border_crop/en/"
+"soi/245.jpg?1517813031|https://scryfall.com/card/soi/245/the-gitrog-monster?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1453
@@ -3251,7 +4030,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1466
-msgid ":mtgtip:`Invocation of Saint Traft`"
+msgid ""
+":mtgtip:`Invocation of Saint Traft<https://img.scryfall.com/cards/"
+"border_crop/en/soi/246.jpg?1517813031|https://scryfall.com/card/soi/246/"
+"invocation-of-saint-traft?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1465
@@ -3262,7 +4044,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1474
-msgid ":mtgtip:`Nahiri, the Harbinger`"
+msgid ""
+":mtgtip:`Nahiri, the Harbinger<https://img.scryfall.com/cards/border_crop/en/"
+"soi/247.jpg?1517813031|https://scryfall.com/card/soi/247/nahiri-the-"
+"harbinger?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1469
@@ -3281,7 +4066,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1480
-msgid ":mtgtip:`Olivia, Mobilized for War`"
+msgid ""
+":mtgtip:`Olivia, Mobilized for War<https://img.scryfall.com/cards/"
+"border_crop/en/soi/248.jpg?1517813031|https://scryfall.com/card/soi/248/"
+"olivia-mobilized-for-war?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1479
@@ -3293,7 +4081,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1484
-msgid ":mtgtip:`Prized Amalgam`"
+msgid ""
+":mtgtip:`Prized Amalgam<https://img.scryfall.com/cards/border_crop/en/"
+"soi/249.jpg?1517813031|https://scryfall.com/card/soi/249/prized-amalgam?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1483
@@ -3305,7 +4096,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1492
-msgid ":mtgtip:`Sigarda, Heron's Grace`"
+msgid ""
+":mtgtip:`Sigarda, Heron's Grace<https://img.scryfall.com/cards/border_crop/"
+"en/soi/250.jpg?1517813031|https://scryfall.com/card/soi/250/sigarda-herons-"
+"grace?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1489
@@ -3319,7 +4113,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1500
-msgid ":mtgtip:`Sorin, Grim Nemesis`"
+msgid ""
+":mtgtip:`Sorin, Grim Nemesis<https://img.scryfall.com/cards/border_crop/en/"
+"soi/251.jpg?1517813031|https://scryfall.com/card/soi/251/sorin-grim-nemesis?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1495
@@ -3341,7 +4138,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1506
-msgid ":mtgtip:`Brain in a Jar`"
+msgid ""
+":mtgtip:`Brain in a Jar<https://img.scryfall.com/cards/border_crop/en/"
+"soi/252.jpg?1517813031|https://scryfall.com/card/soi/252/brain-in-a-jar?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1503
@@ -3357,7 +4157,10 @@ msgid "|mana_3|, |tap|, Remove X charge counters from Brain in a Jar: Scry X."
 msgstr ""
 
 #: ../../SOI.rst:1512
-msgid ":mtgtip:`Corrupted Grafstone`"
+msgid ""
+":mtgtip:`Corrupted Grafstone<https://img.scryfall.com/cards/border_crop/en/"
+"soi/253.jpg?1517813031|https://scryfall.com/card/soi/253/corrupted-grafstone?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1509
@@ -3371,7 +4174,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1516
-msgid ":mtgtip:`Epitaph Golem`"
+msgid ""
+":mtgtip:`Epitaph Golem<https://img.scryfall.com/cards/border_crop/en/soi/254."
+"jpg?1517813031|https://scryfall.com/card/soi/254/epitaph-golem?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1515
@@ -3380,8 +4186,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1520
-#, fuzzy
-msgid ":mtgtip:`Explosive Apparatus`"
+msgid ""
+":mtgtip:`Explosive Apparatus<https://img.scryfall.com/cards/border_crop/en/"
+"soi/255.jpg?1517813031|https://scryfall.com/card/soi/255/explosive-apparatus?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1519
@@ -3391,51 +4199,63 @@ msgid ""
 msgstr ""
 "|mana_3|, |tap|, poświęć ten permanent: Zadaje on 2 obrażenia w dowolny cel."
 
-#: ../../SOI.rst:1528
-msgid ":mtgtip:`Scrounged Scythe`"
-msgstr ""
-
-#: ../../SOI.rst:1523 ../../SOI.rst:1559
-msgid "Equipped creature gets +1/+1."
-msgstr "Wyposażony stwór dostaje +1/+1."
-
-#: ../../SOI.rst:1525
+#: ../../SOI.rst:1524
 msgid ""
-"As long as equipped creature is a Human, it has menace. (It can't be blocked "
-"except by two or more creatures.)"
+":mtgtip:`Harvest Hand<https://img.scryfall.com/cards/border_crop/en/soi/256a."
+"jpg?1518205151|https://scryfall.com/card/soi/256/harvest-hand-scrounged-"
+"scythe?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:1527 ../../SOI.rst:1585
-msgid "Equip |mana_2|"
-msgstr "Wyposaż |mana_2|"
-
-#: ../../SOI.rst:1532
-msgid ":mtgtip:`Harvest Hand`"
-msgstr ""
-
-#: ../../SOI.rst:1531
+#: ../../SOI.rst:1523
 msgid ""
 "When Harvest Hand dies, return it to the battlefield transformed under your "
 "control."
 msgstr ""
 
+#: ../../SOI.rst:1532
+msgid ""
+":mtgtip:`Scrounged Scythe<https://img.scryfall.com/cards/border_crop/en/"
+"soi/256b.jpg?1518205151|https://scryfall.com/card/soi/256/harvest-hand-"
+"scrounged-scythe?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:1527 ../../SOI.rst:1553
+msgid "Equipped creature gets +1/+1."
+msgstr "Wyposażony stwór dostaje +1/+1."
+
+#: ../../SOI.rst:1529
+msgid ""
+"As long as equipped creature is a Human, it has menace. (It can't be blocked "
+"except by two or more creatures.)"
+msgstr ""
+
+#: ../../SOI.rst:1531 ../../SOI.rst:1585
+msgid "Equip |mana_2|"
+msgstr "Wyposaż |mana_2|"
+
 #: ../../SOI.rst:1538
-msgid ":mtgtip:`Haunted Cloak`"
+msgid ""
+":mtgtip:`Haunted Cloak<https://img.scryfall.com/cards/border_crop/en/soi/257."
+"jpg?1517813031|https://scryfall.com/card/soi/257/haunted-cloak?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1535
 msgid "Equipped creature has vigilance, trample, and haste."
 msgstr ""
 
-#: ../../SOI.rst:1537 ../../SOI.rst:1563
+#: ../../SOI.rst:1537 ../../SOI.rst:1557
 msgid "Equip |mana_1|"
 msgstr "Wyposaż |mana_1|"
 
 #: ../../SOI.rst:1544
-msgid ":mtgtip:`Magnifying Glass`"
+msgid ""
+":mtgtip:`Magnifying Glass<https://img.scryfall.com/cards/border_crop/en/"
+"soi/258.jpg?1517813031|https://scryfall.com/card/soi/258/magnifying-glass?"
+"utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:1541 ../../SOI.rst:1637 ../../SOI.rst:1691 ../../SOI.rst:1701
+#: ../../SOI.rst:1541 ../../SOI.rst:1637 ../../SOI.rst:1691 ../../SOI.rst:1697
 msgid "|tap|: Add |colorless|."
 msgstr "|tap|: Dostajesz |colorless|."
 
@@ -3446,7 +4266,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1550
-msgid ":mtgtip:`Murderer's Axe`"
+msgid ""
+":mtgtip:`Murderer's Axe<https://img.scryfall.com/cards/border_crop/en/"
+"soi/259.jpg?1517813031|https://scryfall.com/card/soi/259/murderers-axe?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1547
@@ -3457,28 +4280,37 @@ msgstr ""
 msgid "Equip—Discard a card."
 msgstr ""
 
-#: ../../SOI.rst:1556
-msgid ":mtgtip:`Ashmouth Blade`"
+#: ../../SOI.rst:1558
+msgid ""
+":mtgtip:`Neglected Heirloom<https://img.scryfall.com/cards/border_crop/en/"
+"soi/260a.jpg?1518205593|https://scryfall.com/card/soi/260/neglected-heirloom-"
+"ashmouth-blade?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:1553
-msgid "Equipped creature gets +3/+3 and has first strike."
-msgstr ""
-
-#: ../../SOI.rst:1555 ../../SOI.rst:1593
-msgid "Equip |mana_3|"
-msgstr "Wyposaż |mana_3|"
-
-#: ../../SOI.rst:1564
-msgid ":mtgtip:`Neglected Heirloom`"
-msgstr ""
-
-#: ../../SOI.rst:1561
+#: ../../SOI.rst:1555
 msgid "When equipped creature transforms, transform Neglected Heirloom."
 msgstr ""
 
+#: ../../SOI.rst:1564
+msgid ""
+":mtgtip:`Ashmouth Blade<https://img.scryfall.com/cards/border_crop/en/"
+"soi/260b.jpg?1518205593|https://scryfall.com/card/soi/260/neglected-heirloom-"
+"ashmouth-blade?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:1561
+msgid "Equipped creature gets +3/+3 and has first strike."
+msgstr ""
+
+#: ../../SOI.rst:1563 ../../SOI.rst:1593
+msgid "Equip |mana_3|"
+msgstr "Wyposaż |mana_3|"
+
 #: ../../SOI.rst:1570
-msgid ":mtgtip:`Runaway Carriage`"
+msgid ""
+":mtgtip:`Runaway Carriage<https://img.scryfall.com/cards/border_crop/en/"
+"soi/261.jpg?1517813031|https://scryfall.com/card/soi/261/runaway-carriage?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1569
@@ -3486,7 +4318,10 @@ msgid "When Runaway Carriage attacks or blocks, sacrifice it at end of combat."
 msgstr ""
 
 #: ../../SOI.rst:1578
-msgid ":mtgtip:`Shard of Broken Glass`"
+msgid ""
+":mtgtip:`Shard of Broken Glass<https://img.scryfall.com/cards/border_crop/en/"
+"soi/262.jpg?1517813031|https://scryfall.com/card/soi/262/shard-of-broken-"
+"glass?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1573
@@ -3508,7 +4343,10 @@ msgstr ""
 "Wyposażaj wyłącznie jako obrzęd.)"
 
 #: ../../SOI.rst:1586
-msgid ":mtgtip:`Skeleton Key`"
+msgid ""
+":mtgtip:`Skeleton Key<https://img.scryfall.com/cards/border_crop/en/soi/263."
+"jpg?1517813031|https://scryfall.com/card/soi/263/skeleton-key?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1581
@@ -3524,7 +4362,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1594
-msgid ":mtgtip:`Slayer's Plate`"
+msgid ""
+":mtgtip:`Slayer's Plate<https://img.scryfall.com/cards/border_crop/en/"
+"soi/264.jpg?1517813031|https://scryfall.com/card/soi/264/slayers-plate?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1589
@@ -3538,7 +4379,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1600
-msgid ":mtgtip:`Tamiyo's Journal`"
+msgid ""
+":mtgtip:`Tamiyo's Journal<https://img.scryfall.com/cards/border_crop/en/"
+"soi/265.jpg?1546665597|https://scryfall.com/card/soi/265/tamiyos-journal?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1597
@@ -3553,20 +4397,29 @@ msgid ""
 "card into your hand. Then shuffle your library."
 msgstr ""
 
-#: ../../SOI.rst:1604
-msgid ":mtgtip:`Stonewing Antagonizer`"
+#: ../../SOI.rst:1606
+msgid ""
+":mtgtip:`Thraben Gargoyle<https://img.scryfall.com/cards/border_crop/en/"
+"soi/266a.jpg?1518206096|https://scryfall.com/card/soi/266/thraben-gargoyle-"
+"stonewing-antagonizer?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:1610
-msgid ":mtgtip:`Thraben Gargoyle`"
-msgstr ""
-
-#: ../../SOI.rst:1609
+#: ../../SOI.rst:1605
 msgid "|mana_6|: Transform Thraben Gargoyle."
 msgstr ""
 
+#: ../../SOI.rst:1610
+msgid ""
+":mtgtip:`Stonewing Antagonizer<https://img.scryfall.com/cards/border_crop/en/"
+"soi/266b.jpg?1518206096|https://scryfall.com/card/soi/266/thraben-gargoyle-"
+"stonewing-antagonizer?utm_source=api>`"
+msgstr ""
+
 #: ../../SOI.rst:1618
-msgid ":mtgtip:`True-Faith Censer`"
+msgid ""
+":mtgtip:`True-Faith Censer<https://img.scryfall.com/cards/border_crop/en/"
+"soi/267.jpg?1517813031|https://scryfall.com/card/soi/267/true-faith-censer?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1613
@@ -3586,11 +4439,17 @@ msgstr ""
 "Wyposaż wyłącznie jako obrzęd.)"
 
 #: ../../SOI.rst:1620
-msgid ":mtgtip:`Wicker Witch`"
+msgid ""
+":mtgtip:`Wicker Witch<https://img.scryfall.com/cards/border_crop/en/soi/268."
+"jpg?1517813031|https://scryfall.com/card/soi/268/wicker-witch?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1628
-msgid ":mtgtip:`Wild-Field Scarecrow`"
+msgid ""
+":mtgtip:`Wild-Field Scarecrow<https://img.scryfall.com/cards/border_crop/en/"
+"soi/269.jpg?1517813031|https://scryfall.com/card/soi/269/wild-field-"
+"scarecrow?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1627
@@ -3601,7 +4460,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1634
-msgid ":mtgtip:`Choked Estuary`"
+msgid ""
+":mtgtip:`Choked Estuary<https://img.scryfall.com/cards/border_crop/en/"
+"soi/270.jpg?1517813031|https://scryfall.com/card/soi/270/choked-estuary?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1631
@@ -3616,7 +4478,10 @@ msgid "|tap|: Add |mana_u| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_b|."
 
 #: ../../SOI.rst:1640
-msgid ":mtgtip:`Drownyard Temple`"
+msgid ""
+":mtgtip:`Drownyard Temple<https://img.scryfall.com/cards/border_crop/en/"
+"soi/271.jpg?1517813031|https://scryfall.com/card/soi/271/drownyard-temple?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1639
@@ -3626,7 +4491,10 @@ msgid ""
 msgstr ""
 
 #: ../../SOI.rst:1646
-msgid ":mtgtip:`Foreboding Ruins`"
+msgid ""
+":mtgtip:`Foreboding Ruins<https://img.scryfall.com/cards/border_crop/en/"
+"soi/272.jpg?1517813031|https://scryfall.com/card/soi/272/foreboding-ruins?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1643
@@ -3641,8 +4509,10 @@ msgid "|tap|: Add |mana_b| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../SOI.rst:1652
-#, fuzzy
-msgid ":mtgtip:`Forsaken Sanctuary`"
+msgid ""
+":mtgtip:`Forsaken Sanctuary<https://img.scryfall.com/cards/border_crop/en/"
+"soi/273.jpg?1517813031|https://scryfall.com/card/soi/273/forsaken-sanctuary?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1649
@@ -3654,7 +4524,10 @@ msgid "|tap|: Add |mana_w| or |mana_b|."
 msgstr "|tap|: Dostajesz |mana_w| lub |mana_b|."
 
 #: ../../SOI.rst:1658
-msgid ":mtgtip:`Fortified Village`"
+msgid ""
+":mtgtip:`Fortified Village<https://img.scryfall.com/cards/border_crop/en/"
+"soi/274.jpg?1517813031|https://scryfall.com/card/soi/274/fortified-village?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1655
@@ -3669,8 +4542,10 @@ msgid "|tap|: Add |mana_g| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_w|."
 
 #: ../../SOI.rst:1664
-#, fuzzy
-msgid ":mtgtip:`Foul Orchard`"
+msgid ""
+":mtgtip:`Foul Orchard<https://img.scryfall.com/cards/border_crop/en/soi/275."
+"jpg?1517813031|https://scryfall.com/card/soi/275/foul-orchard?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1661
@@ -3678,7 +4553,9 @@ msgid "Foul Orchard enters the battlefield tapped."
 msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../SOI.rst:1670
-msgid ":mtgtip:`Game Trail`"
+msgid ""
+":mtgtip:`Game Trail<https://img.scryfall.com/cards/border_crop/en/soi/276."
+"jpg?1517813031|https://scryfall.com/card/soi/276/game-trail?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1667
@@ -3692,8 +4569,10 @@ msgid "|tap|: Add |mana_r| or |mana_g|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_g|."
 
 #: ../../SOI.rst:1676
-#, fuzzy
-msgid ":mtgtip:`Highland Lake`"
+msgid ""
+":mtgtip:`Highland Lake<https://img.scryfall.com/cards/border_crop/en/soi/277."
+"jpg?1517813031|https://scryfall.com/card/soi/277/highland-lake?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1673
@@ -3705,7 +4584,9 @@ msgid "|tap|: Add |mana_u| or |mana_r|."
 msgstr "|tap|: Dostajesz |mana_u| lub |mana_r|."
 
 #: ../../SOI.rst:1682
-msgid ":mtgtip:`Port Town`"
+msgid ""
+":mtgtip:`Port Town<https://img.scryfall.com/cards/border_crop/en/soi/278.jpg?"
+"1517813031|https://scryfall.com/card/soi/278/port-town?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1679
@@ -3719,8 +4600,10 @@ msgid "|tap|: Add |mana_w| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_w| lub |mana_u|."
 
 #: ../../SOI.rst:1688
-#, fuzzy
-msgid ":mtgtip:`Stone Quarry`"
+msgid ""
+":mtgtip:`Stone Quarry<https://img.scryfall.com/cards/border_crop/en/soi/279."
+"jpg?1517813031|https://scryfall.com/card/soi/279/stone-quarry?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1685
@@ -3732,7 +4615,10 @@ msgid "|tap|: Add |mana_r| or |mana_w|."
 msgstr "|tap|: Dostajesz |mana_r| lub |mana_w|."
 
 #: ../../SOI.rst:1694
-msgid ":mtgtip:`Warped Landscape`"
+msgid ""
+":mtgtip:`Warped Landscape<https://img.scryfall.com/cards/border_crop/en/"
+"soi/280.jpg?1517813031|https://scryfall.com/card/soi/280/warped-landscape?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1693
@@ -3741,33 +4627,41 @@ msgid ""
 "land card, put it onto the battlefield tapped, then shuffle your library."
 msgstr ""
 
-#: ../../SOI.rst:1698
-msgid ":mtgtip:`Ormendahl, Profane Prince`"
+#: ../../SOI.rst:1702
+msgid ""
+":mtgtip:`Westvale Abbey<https://img.scryfall.com/cards/border_crop/en/"
+"soi/281a.jpg?1518206333|https://scryfall.com/card/soi/281/westvale-abbey-"
+"ormendahl-profane-prince?utm_source=api>`"
 msgstr ""
 
-#: ../../SOI.rst:1697
-msgid "Flying, lifelink, indestructible, haste"
-msgstr ""
-
-#: ../../SOI.rst:1706
-msgid ":mtgtip:`Westvale Abbey`"
-msgstr ""
-
-#: ../../SOI.rst:1703
+#: ../../SOI.rst:1699
 msgid ""
 "|mana_5|, |tap|, Pay 1 life: Create a 1/1 white and black Human Cleric "
 "creature token."
 msgstr ""
 
-#: ../../SOI.rst:1705
+#: ../../SOI.rst:1701
 msgid ""
 "|mana_5|, |tap|, Sacrifice five creatures: Transform Westvale Abbey, then "
 "untap it."
 msgstr ""
 
+#: ../../SOI.rst:1706
+msgid ""
+":mtgtip:`Ormendahl, Profane Prince<https://img.scryfall.com/cards/"
+"border_crop/en/soi/281b.jpg?1518206333|https://scryfall.com/card/soi/281/"
+"westvale-abbey-ormendahl-profane-prince?utm_source=api>`"
+msgstr ""
+
+#: ../../SOI.rst:1705
+msgid "Flying, lifelink, indestructible, haste"
+msgstr ""
+
 #: ../../SOI.rst:1712
-#, fuzzy
-msgid ":mtgtip:`Woodland Stream`"
+msgid ""
+":mtgtip:`Woodland Stream<https://img.scryfall.com/cards/border_crop/en/"
+"soi/282.jpg?1517813031|https://scryfall.com/card/soi/282/woodland-stream?"
+"utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1709
@@ -3779,7 +4673,9 @@ msgid "|tap|: Add |mana_g| or |mana_u|."
 msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../SOI.rst:1716
-msgid ":mtgtip:`Plains`"
+msgid ""
+":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/soi/283.jpg?"
+"1517813031|https://scryfall.com/card/soi/283/plains?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1715
@@ -3788,7 +4684,9 @@ msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Dostajesz |mana_w|.)"
 
 #: ../../SOI.rst:1720
-msgid ":mtgtip:`Island`"
+msgid ""
+":mtgtip:`Island<https://img.scryfall.com/cards/border_crop/en/soi/286.jpg?"
+"1517813031|https://scryfall.com/card/soi/286/island?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1719
@@ -3797,7 +4695,9 @@ msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Dostajesz |mana_u|.)"
 
 #: ../../SOI.rst:1724
-msgid ":mtgtip:`Swamp`"
+msgid ""
+":mtgtip:`Swamp<https://img.scryfall.com/cards/border_crop/en/soi/289.jpg?"
+"1517813031|https://scryfall.com/card/soi/289/swamp?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1723
@@ -3806,8 +4706,9 @@ msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Dostajesz |mana_b|.)"
 
 #: ../../SOI.rst:1728
-#, fuzzy
-msgid ":mtgtip:`Mountain`"
+msgid ""
+":mtgtip:`Mountain<https://img.scryfall.com/cards/border_crop/en/soi/292.jpg?"
+"1517813031|https://scryfall.com/card/soi/292/mountain?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1727
@@ -3816,7 +4717,9 @@ msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Dostajesz |mana_r|.)"
 
 #: ../../SOI.rst:1731
-msgid ":mtgtip:`Forest`"
+msgid ""
+":mtgtip:`Forest<https://img.scryfall.com/cards/border_crop/en/soi/295.jpg?"
+"1517813031|https://scryfall.com/card/soi/295/forest?utm_source=api>`"
 msgstr ""
 
 #: ../../SOI.rst:1731
