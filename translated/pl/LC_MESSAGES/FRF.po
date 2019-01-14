@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-14 06:26+0000\n"
+"PO-Revision-Date: 2019-01-14 22:31+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/frf/pl/>\n"
 "Language: pl\n"
@@ -2893,8 +2893,7 @@ msgstr ""
 #: ../../FRF.rst:819
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bitewne, które mogłyby zostać zadane w tej "
-"turze."
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane w tej turze."
 
 # eaae8143cf8d47698dc2218f5c747bf5
 #: ../../FRF.rst:821
@@ -3492,7 +3491,6 @@ msgstr ""
 
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:1005
-#, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Dostajesz |mana_w|.)"
 
@@ -3504,7 +3502,6 @@ msgstr ""
 
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:1009
-#, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Dostajesz |mana_u|.)"
 
@@ -3516,7 +3513,6 @@ msgstr ""
 
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:1013
-#, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Dostajesz |mana_b|.)"
 
@@ -3528,7 +3524,6 @@ msgstr ""
 
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:1017
-#, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Dostajesz |mana_r|.)"
 
@@ -3540,7 +3535,6 @@ msgstr ""
 
 # 3a2b642d25e14622b7c96aa96a4fda67
 #: ../../FRF.rst:1021
-#, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Dostajesz |mana_g|.)"
 

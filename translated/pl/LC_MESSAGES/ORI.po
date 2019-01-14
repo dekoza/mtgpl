@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-14 06:26+0000\n"
+"PO-Revision-Date: 2019-01-14 22:31+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -1175,8 +1175,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
-"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bitewne w gracza lub "
-"wędrowca, którego atakuje.)"
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"graczowi lub wędrowcowi.)"
 
 #: ../../ORI.rst:430
 msgid ""
@@ -3781,7 +3781,6 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:1383
-#, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Dostajesz |mana_w|.)"
 
@@ -3792,7 +3791,6 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:1387
-#, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Dostajesz |mana_u|.)"
 
@@ -3803,7 +3801,6 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:1391
-#, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Dostajesz |mana_b|.)"
 
@@ -3814,7 +3811,6 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:1395
-#, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Dostajesz |mana_r|.)"
 
@@ -3825,7 +3821,6 @@ msgid ""
 msgstr ""
 
 #: ../../ORI.rst:1399
-#, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Dostajesz |mana_g|.)"
 

@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-13 22:24+0000\n"
-"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
+"PO-Revision-Date: 2019-01-14 22:31+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m14/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -2918,8 +2918,7 @@ msgstr ""
 #: ../../M14.rst:847
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bitewne, które mogłyby zostać zadane w tej "
-"turze."
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane w tej turze."
 
 #: ../../M14.rst:856
 msgid ""
@@ -4044,7 +4043,6 @@ msgstr ""
 # 50e317cae83a4874b3903451a7c677b4
 # c8ce2b4830074f77b316482ba879dfa3
 #: ../../M14.rst:1145
-#, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Dostajesz |mana_w|.)"
 
@@ -4057,7 +4055,6 @@ msgstr ""
 # 50e317cae83a4874b3903451a7c677b4
 # c8ce2b4830074f77b316482ba879dfa3
 #: ../../M14.rst:1149
-#, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Dostajesz |mana_u|.)"
 
@@ -4070,7 +4067,6 @@ msgstr ""
 # 50e317cae83a4874b3903451a7c677b4
 # c8ce2b4830074f77b316482ba879dfa3
 #: ../../M14.rst:1153
-#, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Dostajesz |mana_b|.)"
 
@@ -4083,7 +4079,6 @@ msgstr ""
 # 50e317cae83a4874b3903451a7c677b4
 # c8ce2b4830074f77b316482ba879dfa3
 #: ../../M14.rst:1157
-#, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Dostajesz |mana_r|.)"
 
@@ -4096,7 +4091,6 @@ msgstr ""
 # 50e317cae83a4874b3903451a7c677b4
 # c8ce2b4830074f77b316482ba879dfa3
 #: ../../M14.rst:1161
-#, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Dostajesz |mana_g|.)"
 

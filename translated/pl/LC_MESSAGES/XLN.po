@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-13 22:52+0000\n"
+"PO-Revision-Date: 2019-01-14 22:31+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/xln/pl/>\n"
 "Language: pl\n"
@@ -2591,9 +2591,8 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:829
-#, fuzzy
 msgid "Target creature gets +3/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +3/+3 oraz tratowanie."
+msgstr "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios."
 
 #: ../../XLN.rst:836
 msgid ""
@@ -2827,8 +2826,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
-"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bitewne w gracza lub "
-"wędrowca, którego atakuje.)"
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"graczowi lub wędrowcowi.)"
 
 #: ../../XLN.rst:910
 msgid ""
@@ -4336,7 +4335,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1387
-#, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Dostajesz |mana_w|.)"
 
@@ -4347,7 +4345,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1391
-#, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Dostajesz |mana_u|.)"
 
@@ -4358,7 +4355,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1395
-#, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Dostajesz |mana_b|.)"
 
@@ -4369,7 +4365,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1399
-#, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Dostajesz |mana_r|.)"
 
@@ -4380,7 +4375,6 @@ msgid ""
 msgstr ""
 
 #: ../../XLN.rst:1403
-#, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Dostajesz |mana_g|.)"
 
