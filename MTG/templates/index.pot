@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-13 21:34+0100\n"
+"POT-Creation-Date: 2019-01-14 19:52+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -173,130 +173,175 @@ msgid ":mtgexp:`NPH` :doc:`New Phyrexia<NPH>` (9%)"
 msgstr ""
 
 #: ../../index.rst:64
+#: ../../index.rst:98
 msgid "Pozostałe produkty"
 msgstr ""
 
-#: ../../index.rst:66
-msgid ":mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` (0%)"
+#: ../../index.rst:67
+msgid "Zestawy gildyjne"
 msgstr ""
 
-#: ../../index.rst:67
-msgid ":mtgexp:`BBD` :doc:`Battlebond<BBD>` (0%)"
+#: ../../index.rst:69
+msgid ":mtgexp:`azorius` :mtgexp:`gruul` :mtgexp:`rakdos` :mtgexp:`simic` :mtgexp:`orzhov` :doc:`Ravnica Allegiance Kits<GK2>` (0%)"
 msgstr ""
 
 #: ../../index.rst:70
-msgid "Commander i podobne"
+msgid ":mtgexp:`dimir` :mtgexp:`selesnya` :mtgexp:`izzet` :mtgexp:`boros` :mtgexp:`golgari` :doc:`Guilds of Ravnica Kits<GK1>` (0%)"
 msgstr ""
 
-#: ../../index.rst:72
-msgid ":doc:`Zasady formatu Commander (Dowódca)<commander>` (18%)"
+#: ../../index.rst:74
+msgid "Seria 'Masters'"
 msgstr ""
 
-#: ../../index.rst:75
-msgid "Dodatki"
+#: ../../index.rst:76
+msgid ":mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` 2018 (0%)"
 msgstr ""
 
 #: ../../index.rst:77
-msgid ":mtgexp:`C17` :doc:`Commander 2017<C17>` (9%)"
+msgid ":mtgexp:`A25` :doc:`Masters 25<A25>` 2018 (0%)"
 msgstr ""
 
 #: ../../index.rst:78
-msgid ":mtgexp:`C16` :doc:`Commander 2016<C16>` (9%)"
+msgid ":mtgexp:`IMA` :doc:`Iconic Masters<IMA>` 2017 (0%)"
 msgstr ""
 
 #: ../../index.rst:79
-msgid ":mtgexp:`C15` :doc:`Commander 2015<C15>` (9%)"
+msgid ":mtgexp:`MM3` :doc:`Modern Masters 2017<MM3>` (0%)"
 msgstr ""
 
 #: ../../index.rst:80
-msgid ":mtgexp:`C14` :doc:`Commander 2014<C14>` (9%)"
+msgid ":mtgexp:`EMA` :doc:`Eternal Masters<EMA>` 2016 (0%)"
 msgstr ""
 
 #: ../../index.rst:81
-msgid ":mtgexp:`C13` :doc:`Commander 2013<C13>` (13%)"
+msgid ":mtgexp:`MM2` :doc:`Modern Masters 2015<MM2>` (0%)"
 msgstr ""
 
-#: ../../index.rst:84
-msgid "Produkty pokrewne"
+#: ../../index.rst:82
+msgid ":mtgexp:`MMA` :doc:`Modern Masters<MMA>` 2013 (0%)"
 msgstr ""
 
-#: ../../index.rst:86
-msgid "Poniższe produkty nie zawierają kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek."
+#: ../../index.rst:85
+msgid "Commander i pokrewne"
 msgstr ""
 
-#: ../../index.rst:88
-msgid ":doc:`Bohaterowie<THS_heroes>` (100%) - uwzględnia karty z Journey into Nyx"
+#: ../../index.rst:87
+msgid ":doc:`Zasady formatu Commander (Dowódca)<commander>` (18%)"
 msgstr ""
 
 #: ../../index.rst:89
-msgid ":doc:`Pokonaj Bóstwo<JOU_god>` (0%)"
+msgid ":mtgexp:`C18` :doc:`Commander 2018<C18>` (9%)"
 msgstr ""
 
 #: ../../index.rst:90
-msgid ":doc:`Walka z Hordą<BNG_horde>` (100%)"
+msgid ":mtgexp:`BBD` :doc:`Battlebond<BBD>` (0%)"
 msgstr ""
 
 #: ../../index.rst:91
-msgid ":doc:`Staw czoła Hydrze<THS_hydra>` (100%)"
+msgid ":mtgexp:`C17` :doc:`Commander 2017<C17>` (9%)"
+msgstr ""
+
+#: ../../index.rst:92
+msgid ":mtgexp:`C16` :doc:`Commander 2016<C16>` (9%)"
+msgstr ""
+
+#: ../../index.rst:93
+msgid ":mtgexp:`C15` :doc:`Commander 2015<C15>` (9%)"
 msgstr ""
 
 #: ../../index.rst:94
-msgid "Warto przeczytać"
+msgid ":mtgexp:`C14` :doc:`Commander 2014<C14>` (9%)"
 msgstr ""
 
-#: ../../index.rst:96
-msgid ":doc:`Uzasadnienie tłumaczeń<rationale>`"
+#: ../../index.rst:95
+msgid ":mtgexp:`C13` :doc:`Commander 2013<C13>` (13%)"
 msgstr ""
 
-#: ../../index.rst:97
-msgid ":doc:`Nowe sposoby gry<game_variants>`"
+#: ../../index.rst:100
+msgid ":mtgexp:`GNT` :doc:`Game Night<GNT>` (0%)"
 msgstr ""
 
-#: ../../index.rst:98
-msgid ":doc:`Format Handicap<handicap>`"
-msgstr ""
-
-#: ../../index.rst:99
-msgid ":doc:`Polskie lądy i żetony<polish_cards>`"
+#: ../../index.rst:101
+msgid ":mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` (0%)"
 msgstr ""
 
 #: ../../index.rst:103
-msgid "Glosariusz"
+msgid "Poniższe produkty nie zawierają zwykłych kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek."
 msgstr ""
 
 #: ../../index.rst:105
-msgid ":doc:`Słowniczek podstawowych pojęć oraz slangu<glossary>`"
+msgid ":doc:`Bohaterowie<THS_heroes>` (100%) - uwzględnia karty z Journey into Nyx"
+msgstr ""
+
+#: ../../index.rst:106
+msgid ":doc:`Pokonaj Bóstwo<JOU_god>` (0%)"
+msgstr ""
+
+#: ../../index.rst:107
+msgid ":doc:`Walka z Hordą<BNG_horde>` (100%)"
 msgstr ""
 
 #: ../../index.rst:108
-msgid "Ostatnie zmiany"
+msgid ":doc:`Staw czoła Hydrze<THS_hydra>` (100%)"
 msgstr ""
 
-#: ../../index.rst:109
-msgid "Proszę zajrzeć do pliku :doc:`Ostatnie zmiany<changelog>`"
+#: ../../index.rst:111
+msgid "Warto przeczytać"
 msgstr ""
 
-#: ../../index.rst:112
-msgid "Ekipa"
+#: ../../index.rst:113
+msgid ":doc:`Uzasadnienie tłumaczeń<rationale>`"
 msgstr ""
 
 #: ../../index.rst:114
-msgid "Niniejsze tłumaczenie powstało dzięki pracy następujących osób:"
+msgid ":doc:`Nowe sposoby gry<game_variants>`"
+msgstr ""
+
+#: ../../index.rst:115
+msgid ":doc:`Format Handicap<handicap>`"
 msgstr ""
 
 #: ../../index.rst:116
+msgid ":doc:`Polskie lądy i żetony<polish_cards>`"
+msgstr ""
+
+#: ../../index.rst:120
+msgid "Glosariusz"
+msgstr ""
+
+#: ../../index.rst:122
+msgid ":doc:`Słowniczek podstawowych pojęć oraz slangu<glossary>`"
+msgstr ""
+
+#: ../../index.rst:125
+msgid "Ostatnie zmiany"
+msgstr ""
+
+#: ../../index.rst:126
+msgid "Proszę zajrzeć do pliku :doc:`Ostatnie zmiany<changelog>`"
+msgstr ""
+
+#: ../../index.rst:129
+msgid "Ekipa"
+msgstr ""
+
+#: ../../index.rst:131
+msgid "Niniejsze tłumaczenie powstało dzięki pracy następujących osób:"
+msgstr ""
+
+#: ../../index.rst:133
 msgid "Dominik Kozaczko - pomysłodawca, główny tłumacz"
 msgstr ""
 
-#: ../../index.rst:117
+#: ../../index.rst:134
 msgid "Bartek Pękala - tłumacz"
 msgstr ""
 
-#: ../../index.rst:118
+#: ../../index.rst:135
 msgid "Zofia Wąchocka - tłumacz, filolog"
 msgstr ""
 
-#: ../../index.rst:119
+#: ../../index.rst:136
 msgid "Roman Cupek - nadzorca merytoryczny"
 msgstr ""
 
