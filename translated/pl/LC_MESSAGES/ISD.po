@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-13 22:24+0000\n"
-"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
+"PO-Revision-Date: 2019-01-14 22:31+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/isd/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -537,7 +537,7 @@ msgstr ""
 # 47b07b34a8f64bfc8bf2f7086a410566
 #: ../../ISD.rst:161
 msgid "Destroy target attacking creature."
-msgstr ""
+msgstr "Zniszcz wskazanego atakującego stwora."
 
 #: ../../ISD.rst:166
 msgid ""
@@ -1290,8 +1290,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
-"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bitewne w gracza lub "
-"wędrowca, którego atakuje.)"
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"graczowi lub wędrowcowi.)"
 
 #: ../../ISD.rst:416
 msgid ""
@@ -4281,7 +4281,6 @@ msgstr ""
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1441
-#, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Dostajesz |mana_w|.)"
 
@@ -4294,7 +4293,6 @@ msgstr ""
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1445
-#, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Dostajesz |mana_u|.)"
 
@@ -4307,7 +4305,6 @@ msgstr ""
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1449
-#, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Dostajesz |mana_b|.)"
 
@@ -4320,7 +4317,6 @@ msgstr ""
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1453
-#, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Dostajesz |mana_r|.)"
 
@@ -4333,7 +4329,6 @@ msgstr ""
 
 # 30fbc92ebeb64bd38b48f93d027da05b
 #: ../../ISD.rst:1457
-#, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Dostajesz |mana_g|.)"
 
