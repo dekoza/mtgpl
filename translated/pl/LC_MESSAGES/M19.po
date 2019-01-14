@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-14 06:26+0000\n"
+"PO-Revision-Date: 2019-01-14 22:31+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/m19/pl/>\n"
 "Language: pl\n"
@@ -2143,8 +2143,8 @@ msgid ""
 "Trample (This creature can deal excess combat damage to the player or "
 "planeswalker it's attacking.)"
 msgstr ""
-"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bitewne w gracza lub "
-"wędrowca, którego atakuje.)"
+"Tratowanie (Ten stwór może zadać nadwyżkowe obrażenia bojowe atakowanemu "
+"graczowi lub wędrowcowi.)"
 
 #: ../../M19.rst:730
 msgid ""
@@ -2362,9 +2362,8 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:807
-#, fuzzy
 msgid "Target creature gets +3/+0 and gains first strike until end of turn."
-msgstr "Wskazany stwór dostaje do końca tury +2/+2 oraz latanie."
+msgstr "Wskazany stwór dostaje do końca tury +3/+0 oraz pierwszy cios."
 
 #: ../../M19.rst:812
 msgid ""
@@ -2855,8 +2854,7 @@ msgstr ""
 #: ../../M19.rst:989
 msgid "Prevent all combat damage that would be dealt this turn."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bitewne, które mogłyby zostać zadane w tej "
-"turze."
+"Zażegnaj wszystkie obrażenia bojowe, które mogłyby zostać zadane w tej turze."
 
 #: ../../M19.rst:994
 msgid ""
@@ -3847,7 +3845,6 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:1351
-#, fuzzy
 msgid "(|tap|: Add |mana_w|.)"
 msgstr "(|tap|: Dostajesz |mana_w|.)"
 
@@ -3858,7 +3855,6 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:1355
-#, fuzzy
 msgid "(|tap|: Add |mana_u|.)"
 msgstr "(|tap|: Dostajesz |mana_u|.)"
 
@@ -3869,7 +3865,6 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:1359
-#, fuzzy
 msgid "(|tap|: Add |mana_b|.)"
 msgstr "(|tap|: Dostajesz |mana_b|.)"
 
@@ -3880,7 +3875,6 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:1363
-#, fuzzy
 msgid "(|tap|: Add |mana_r|.)"
 msgstr "(|tap|: Dostajesz |mana_r|.)"
 
@@ -3891,7 +3885,6 @@ msgid ""
 msgstr ""
 
 #: ../../M19.rst:1367
-#, fuzzy
 msgid "(|tap|: Add |mana_g|.)"
 msgstr "(|tap|: Dostajesz |mana_g|.)"
 
