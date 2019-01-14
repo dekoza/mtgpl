@@ -61,29 +61,46 @@ Modern
 * :mtgexp:`NPH` :doc:`New Phyrexia<NPH>` (9%)
 
 Pozostałe produkty
-------------------
+==================
 
-* :mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` (0%)
-* :mtgexp:`BBD` :doc:`Battlebond<BBD>` (0%)
+Zestawy gildyjne
+----------------
 
-Commander i podobne
-===================
+* :mtgexp:`azorius` :mtgexp:`gruul` :mtgexp:`rakdos` :mtgexp:`simic` :mtgexp:`orzhov` :doc:`Ravnica Allegiance Kits<GK2>` (0%)
+* :mtgexp:`dimir` :mtgexp:`selesnya` :mtgexp:`izzet` :mtgexp:`boros` :mtgexp:`golgari` :doc:`Guilds of Ravnica Kits<GK1>` (0%)
+
+
+Seria 'Masters'
+---------------
+
+* :mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` 2018 (0%)
+* :mtgexp:`A25` :doc:`Masters 25<A25>` 2018 (0%)
+* :mtgexp:`IMA` :doc:`Iconic Masters<IMA>` 2017 (0%)
+* :mtgexp:`MM3` :doc:`Modern Masters 2017<MM3>` (0%)
+* :mtgexp:`EMA` :doc:`Eternal Masters<EMA>` 2016 (0%)
+* :mtgexp:`MM2` :doc:`Modern Masters 2015<MM2>` (0%)
+* :mtgexp:`MMA` :doc:`Modern Masters<MMA>` 2013 (0%)
+
+Commander i pokrewne
+--------------------
 
 :doc:`Zasady formatu Commander (Dowódca)<commander>` (18%)
 
-Dodatki
--------
-
+* :mtgexp:`C18` :doc:`Commander 2018<C18>` (9%)
+* :mtgexp:`BBD` :doc:`Battlebond<BBD>` (0%)
 * :mtgexp:`C17` :doc:`Commander 2017<C17>` (9%)
 * :mtgexp:`C16` :doc:`Commander 2016<C16>` (9%)
 * :mtgexp:`C15` :doc:`Commander 2015<C15>` (9%)
 * :mtgexp:`C14` :doc:`Commander 2014<C14>` (9%)
 * :mtgexp:`C13` :doc:`Commander 2013<C13>` (13%)
 
-Produkty pokrewne
-=================
+Pozostałe produkty
+==================
 
-Poniższe produkty nie zawierają kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek.
+* :mtgexp:`GNT` :doc:`Game Night<GNT>` (0%)
+* :mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` (0%)
+
+Poniższe produkty nie zawierają zwykłych kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek.
 
 * :doc:`Bohaterowie<THS_heroes>` (100%) - uwzględnia karty z Journey into Nyx
 * :doc:`Pokonaj Bóstwo<JOU_god>` (0%)
@@ -157,11 +174,22 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 
    E02
    BBD
+   C18
    C17
    C16
    C15
    C14
    C13
+
+   EMA
+   GK1
+   GNT
+   IMA
+   MM2
+   MM3
+   MMA
+   UMA
+   A25
 
    JOU_god
    THS_heroes
