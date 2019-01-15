@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-14 06:26+0000\n"
+"PO-Revision-Date: 2019-01-15 17:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/emn/pl/>\n"
 "Language: pl\n"
@@ -949,7 +949,7 @@ msgstr ""
 
 #: ../../EMN.rst:333
 msgid "Counter target spell unless its controller pays |mana_4|."
-msgstr "Skontruj wskazany czar o ile jego władca nie dopłaci |mana_4|."
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_4|."
 
 #: ../../EMN.rst:340
 msgid ""
@@ -989,7 +989,7 @@ msgstr ""
 
 #: ../../EMN.rst:345
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie sztuczek i obrzędów kosztuje cię |mana_1| mniej."
+msgstr "Rzucanie sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
 #: ../../EMN.rst:350
 msgid ""
@@ -1002,6 +1002,8 @@ msgid ""
 "Exile up to two target creatures you control, then return those cards to the "
 "battlefield under their owner's control."
 msgstr ""
+"Wygnaj co najwyżej dwa wskazane stwory pod twoim władaniem, następnie "
+"przywróć owe karty na pole walki pod władaniem ich właścicieli."
 
 #: ../../EMN.rst:356
 msgid ""
