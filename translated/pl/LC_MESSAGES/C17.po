@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the MTG-pl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-01-15 17:22+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.4-dev\n"
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../C17.rst:5
@@ -27,7 +30,7 @@ msgstr ""
 
 #: ../../C17.rst:12 ../../C17.rst:118
 msgid "Flash"
-msgstr ""
+msgstr "Błysk"
 
 #: ../../C17.rst:14
 msgid ""
@@ -113,7 +116,7 @@ msgstr ""
 #: ../../C17.rst:1622 ../../C17.rst:1686 ../../C17.rst:1695 ../../C17.rst:1737
 #: ../../C17.rst:1755 ../../C17.rst:1996
 msgid "Flying"
-msgstr ""
+msgstr "Latanie"
 
 #: ../../C17.rst:61
 msgid ""
@@ -341,7 +344,7 @@ msgstr ""
 
 #: ../../C17.rst:214 ../../C17.rst:1651
 msgid "Trample"
-msgstr ""
+msgstr "Tratowanie"
 
 #: ../../C17.rst:216
 msgid ""
@@ -406,7 +409,7 @@ msgstr ""
 
 #: ../../C17.rst:257
 msgid "Enchant creature"
-msgstr ""
+msgstr "Zaurocz stwora"
 
 #: ../../C17.rst:259
 msgid ""
@@ -1017,7 +1020,7 @@ msgstr ""
 
 #: ../../C17.rst:632
 msgid "Vigilance"
-msgstr ""
+msgstr "Czujność"
 
 #: ../../C17.rst:634
 msgid ""
@@ -2971,7 +2974,7 @@ msgstr ""
 
 #: ../../C17.rst:2016
 msgid "Equipped creature gets +1/+1."
-msgstr ""
+msgstr "Wyposażony stwór dostaje +1/+1."
 
 #: ../../C17.rst:2018
 msgid ""
@@ -2998,7 +3001,7 @@ msgstr ""
 #: ../../C17.rst:2278 ../../C17.rst:2333 ../../C17.rst:2355 ../../C17.rst:2373
 #: ../../C17.rst:2391 ../../C17.rst:2449 ../../C17.rst:2458
 msgid "|tap|: Add |colorless|."
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|."
 
 #: ../../C17.rst:2038
 msgid "|mana_7|, |tap|, Sacrifice Unstable Obelisk: Destroy target permanent."
@@ -3844,4 +3847,3 @@ msgstr ""
 #: ../../C17.rst:2761 ../../C17.rst:2768 ../../C17.rst:2775
 msgid "Forest"
 msgstr ""
-
