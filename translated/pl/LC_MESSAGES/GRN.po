@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-14 22:30+0000\n"
+"PO-Revision-Date: 2019-01-15 17:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/grn/pl/>\n"
 "Language: pl\n"
@@ -1616,7 +1616,7 @@ msgid ""
 "defending player controls."
 msgstr ""
 "Ilekroć ten stwór atakuje, zadaje 1 obrażenie we wskazanego stwora pod "
-"władaniem zaatakowanego gracza."
+"władaniem broniącego się gracza."
 
 #: ../../GRN.rst:568
 msgid ""
@@ -2520,7 +2520,7 @@ msgstr ""
 
 #: ../../GRN.rst:885
 msgid "Deafening Clarion deals 3 damage to each creature."
-msgstr "Ta karta zadaje 3 obrażenia każdemu stworowi."
+msgstr "Ten czar zadaje 3 obrażenia każdemu stworowi."
 
 #: ../../GRN.rst:887
 msgid "Creatures you control gain lifelink until end of turn."
@@ -2562,7 +2562,7 @@ msgstr ""
 #: ../../GRN.rst:901
 msgid ""
 "Whenever you surveil, return Disinformation Campaign to its owner's hand."
-msgstr "Ilekroć szpiegujesz, zwróć ten urok do ręki jego właściciela."
+msgstr "Ilekroć szpiegujesz, przywróć ten urok do ręki jego właściciela."
 
 #: ../../GRN.rst:906
 msgid ""
@@ -2673,8 +2673,8 @@ msgid ""
 "graveyard on top of your library."
 msgstr ""
 "Kiedy ta karta wejdzie na pole walki, umieść trzy wierzchnie karty twojej "
-"biblioteki do twojego cmentarza. Możesz położyć kartę lądu z twojego "
-"cmentarza na wierzch twojej biblioteki."
+"biblioteki w twoim cmentarzu. Możesz umieścić kartę lądu z twojego cmentarza "
+"na wierzchu twojej biblioteki."
 
 #: ../../GRN.rst:936
 msgid ""
@@ -2685,7 +2685,7 @@ msgstr ""
 
 #: ../../GRN.rst:935
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie sztuczek i obrzędów kosztuje cię |mana_1| mniej."
+msgstr "Rzucanie sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
 #: ../../GRN.rst:940
 msgid ""
@@ -2798,8 +2798,8 @@ msgid ""
 "opponents control. Damage and effects that say \"destroy\" don't destroy "
 "them.)"
 msgstr ""
-"Odkręć wszystkie stwory pod twoim władaniem. Zyskują one antyklątwę i "
-"niezniszczalność do końca tury. (Nie mogą być celem czarów i zdolności "
+"Odkręć wszystkie stwory pod twoim władaniem. Do końca tury zyskują one "
+"antyklątwę i niezniszczalność. (Nie mogą być celem czarów i zdolności "
 "władanych przez twoich przeciwników. Obrażenia i efekty mówiące \"zniszcz\", "
 "nie niszczą ich.)"
 
@@ -2970,8 +2970,8 @@ msgid ""
 "Undergrowth — This spell costs |mana_1| less to cast for each creature card "
 "in your graveyard."
 msgstr ""
-"Ściółka — Rzucenie tego czaru kosztuje |mana_1| mniej za każdą kartę stwora "
-"w twoim cmentarzu."
+"Ściółka — Rzucenie tego czaru kosztuje o |mana_1| mniej za każdą kartę "
+"stwora w twoim cmentarzu."
 
 #: ../../GRN.rst:1023
 msgid ""
@@ -3021,7 +3021,7 @@ msgid ""
 "surveil 2, look at the top two cards of your library, then put any number of "
 "them into your graveyard and the rest on top of your library in any order.)"
 msgstr ""
-"Szpieguj 2, następnie dobierz dwie karty. Ta karta zadaje tobie 2 obrażenia. "
+"Szpieguj 2, następnie dobierz dwie karty. Ten czar zadaje tobie 2 obrażenia. "
 "(Aby szpiegować 2, spójrz na dwie wierzchnie karty twojej biblioteki, "
 "następnie dowolne z nich umieść w twoim cmentarzu, a pozostałe w dowolnej "
 "kolejności na wierzchu twojej biblioteki.)"
@@ -3165,7 +3165,7 @@ msgid ""
 "defending player controls."
 msgstr ""
 "Ilekroć ten stwór atakuje, zadaje on 1 obrażenie każdemu stworowi pod "
-"władaniem atakowanego gracza."
+"władaniem broniącego się gracza."
 
 #: ../../GRN.rst:1098
 msgid ""
@@ -4047,7 +4047,7 @@ msgid ""
 "additional +1/+1 counter on it."
 msgstr ""
 "|mana_1|, |tap|: Dostajesz jedną manę dowolnego koloru. Jeśli ta mana "
-"zostanie zużyta na rzucenie wielokolorowego czaru stwora, ów stwór wchodzi "
+"zostanie zużyta na rzucenie czaru wielokolorowego stwora, ów stwór wchodzi "
 "na pole walki z dodatkowym znacznikiem +1/+1."
 
 #: ../../GRN.rst:1388
