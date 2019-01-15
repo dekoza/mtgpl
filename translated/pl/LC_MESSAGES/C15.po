@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2019-01-15 17:22+0000\n"
+"PO-Revision-Date: 2019-01-16 08:38+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -192,7 +192,7 @@ msgstr ""
 
 #: ../../C15.rst:109 ../../C15.rst:328
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../C15.rst:111
 msgid "Whenever Illusory Ambusher is dealt damage, draw that many cards."
@@ -219,7 +219,7 @@ msgstr ""
 
 #: ../../C15.rst:129
 msgid "Counter target spell unless its controller pays |mana_3|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../C15.rst:131
 msgid "Return target creature to its owner's hand."
@@ -227,7 +227,7 @@ msgstr ""
 
 #: ../../C15.rst:133 ../../C15.rst:923 ../../C15.rst:2079
 msgid "Draw a card."
-msgstr ""
+msgstr "Dobierz kartę."
 
 #: ../../C15.rst:141
 msgid "Synthetic Destiny"
@@ -2814,7 +2814,7 @@ msgstr ""
 
 #: ../../C15.rst:1883
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr ""
+msgstr "Rzucanie sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
 #: ../../C15.rst:1897
 msgid "Golgari Charm"
@@ -4032,6 +4032,8 @@ msgid ""
 "Morph |mana_2| (You may cast this card face down as a 2/2 creature for "
 "|mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_2| (Możesz rzucić tę kartę zakrytą za |mana_3| jako stwora 2/"
+"2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../C15.rst:2835 ../../C15.rst:2842 ../../C15.rst:2849 ../../C15.rst:2856
 msgid "Plains"
