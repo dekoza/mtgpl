@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-14 22:31+0000\n"
+"PO-Revision-Date: 2019-01-15 17:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
@@ -57,6 +57,10 @@ msgid ""
 "except it's a 4/4 black Zombie Cat with no mana cost. Eternalize only as a "
 "sorcery.)"
 msgstr ""
+"Uwiecznienie |mana_3|\\ |mana_w|\\ |mana_w| (|mana_3|\\ |mana_w|\\ |mana_w|, "
+"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
+"wyjątkiem tego, że jest to czarny Zombi Kot 4/4 bez kosztu many. Uwieczniaj "
+"tylko jako obrzęd.)"
 
 #: ../../HOU.rst:24
 msgid ""
@@ -414,6 +418,10 @@ msgid ""
 "except it's a 4/4 black Zombie Human Cleric with no mana cost. Eternalize "
 "only as a sorcery.)"
 msgstr ""
+"Uwiecznienie |mana_4|\\ |mana_w|\\ |mana_w| (|mana_4|\\ |mana_w|\\ |mana_w|, "
+"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
+"wyjątkiem tego, że jest to czarny Zombi Człowiek Kleryk 4/4 bez kosztu many. "
+"Uwieczniaj tylko jako obrzęd.)"
 
 #: ../../HOU.rst:146
 msgid ""
@@ -449,6 +457,10 @@ msgid ""
 "Create a token that's a copy of it, except it's a 4/4 black Zombie Human "
 "Wizard with no mana cost. Eternalize only as a sorcery.)"
 msgstr ""
+"Uwiecznij — |mana_2|\\ |mana_w|\\ |mana_w|, odrzuć kartę. (|mana_2|\\ "
+"|mana_w|\\ |mana_w|, odrzuć kartę, wygnaj tę kartę z twojego cmentarza: "
+"Stwórz żeton będący jej kopią z wyjątkiem tego, że jest to czarny Zombi "
+"Człowiek Czarodziej 4/4 bez kosztu many. Uwieczniaj tylko jako obrzęd.)"
 
 #: ../../HOU.rst:158
 msgid ""
@@ -525,6 +537,10 @@ msgid ""
 "except it's a 4/4 black Zombie Naga Wizard with no mana cost. Eternalize "
 "only as a sorcery.)"
 msgstr ""
+"Uwiecznienie |mana_5|\\ |mana_u|\\ |mana_u| (|mana_5|\\ |mana_u|\\ |mana_u|, "
+"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
+"wyjątkiem tego, że jest to czarny Zombi Naga Czarodziej 4/4 bez kosztu many. "
+"Uwieczniaj tylko jako obrzęd.)"
 
 #: ../../HOU.rst:188
 msgid ""
@@ -683,6 +699,10 @@ msgid ""
 "except it's a 4/4 black Zombie Human Warrior with no mana cost. Eternalize "
 "only as a sorcery.)"
 msgstr ""
+"Uwiecznienie |mana_4|\\ |mana_u|\\ |mana_u| (|mana_4|\\ |mana_u|\\ |mana_u|, "
+"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
+"wyjątkiem tego, że jest to czarny Zombi Człowiek Wojownik 4/4 bez kosztu "
+"many. Uwieczniaj tylko jako obrzęd.)"
 
 #: ../../HOU.rst:248
 msgid ""
@@ -731,6 +751,10 @@ msgid ""
 "Create a token that's a copy of it, except it's a 4/4 black Zombie Naga "
 "Warrior with no mana cost. Eternalize only as a sorcery.)"
 msgstr ""
+"Uwiecznienie — |mana_3|\\ |mana_u|\\ |mana_u|, odrzuć kartę. (|mana_3|\\ "
+"|mana_u|\\ |mana_u|, odrzuć kartę, wygnaj tę kartę z twojego cmentarza: "
+"Stwórz żeton będący jej kopią z wyjątkiem tego, że jest to czarny Zombi Naga "
+"Wojownik 4/4 bez kosztu many. Uwieczniaj tylko jako obrzęd.)"
 
 #: ../../HOU.rst:264
 msgid ""
@@ -744,6 +768,8 @@ msgid ""
 "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 "
 "until end of turn.)"
 msgstr ""
+"Waleczność (Ilekroć rzucasz czar nie będący stworem, ten stwór dostaje +1/+1 "
+"do końca tury.)"
 
 #: ../../HOU.rst:268
 msgid ""
@@ -791,7 +817,7 @@ msgstr "Wybierz jedno —"
 
 #: ../../HOU.rst:279
 msgid "Counter target spell unless its controller pays |mana_3|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../HOU.rst:281
 msgid ""
@@ -884,10 +910,14 @@ msgid ""
 "library for a creature card with eternalize or embalm, put that card into "
 "your graveyard, then shuffle your library."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę stwora z uwiecznieniem lub balsamowaniem, umieścić ową kartę w twoim "
+"cmentarzu, następnie przetasuj twoją bibliotekę."
 
 #: ../../HOU.rst:315
 msgid "Whenever you activate an eternalize or embalm ability, draw a card."
 msgstr ""
+"Ilekroć aktywujesz zdolność uwiecznienia lub balsamowania, dobierz kartę."
 
 #: ../../HOU.rst:320
 msgid ""
@@ -1024,6 +1054,10 @@ msgid ""
 "except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize "
 "only as a sorcery.)"
 msgstr ""
+"Uwiecznienie |mana_4|\\ |mana_b|\\ |mana_b| (|mana_4|\\ |mana_b|\\ |mana_b|, "
+"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
+"wyjątkiem tego, że jest to czarny Zombi Człowiek Czarodziej 4/4 bez kosztu "
+"many. Uwieczniaj tylko jako obrzęd.)"
 
 #: ../../HOU.rst:370
 msgid ""
@@ -1396,6 +1430,10 @@ msgid ""
 "except it's a 4/4 black Zombie Jackal Warrior with no mana cost. Eternalize "
 "only as a sorcery.)"
 msgstr ""
+"Uwiecznienie |mana_4|\\ |mana_r|\\ |mana_r| (|mana_4|\\ |mana_r|\\ |mana_r|, "
+"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
+"wyjątkiem tego, że jest to czarny Zombi Szakal Wojownik 4/4 bez kosztu many. "
+"Uwieczniaj tylko jako obrzęd.)"
 
 #: ../../HOU.rst:510
 msgid ""
@@ -1943,6 +1981,10 @@ msgid ""
 "except it's a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize "
 "only as a sorcery.)"
 msgstr ""
+"Uwiecznienie |mana_4|\\ |mana_g|\\ |mana_g| (|mana_4|\\ |mana_g|\\ |mana_g|, "
+"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
+"wyjątkiem tego, że jest to czarny Zombi Szakal Czarodziej 4/4 bez kosztu "
+"many. Uwieczniaj tylko jako obrzęd.)"
 
 #: ../../HOU.rst:712
 msgid ""
