@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-15 17:22+0000\n"
+"PO-Revision-Date: 2019-01-16 08:38+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/nph/pl/>\n"
 "Language: pl\n"
@@ -257,7 +257,7 @@ msgstr "Zaurocz stwora"
 # 09d2d0b78e74444da2632f10d40b0be6
 #: ../../NPH.rst:77
 msgid "Enchanted creature can't attack."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować."
 
 #: ../../NPH.rst:79
 msgid "|mana_2|\\ |mana_w|: Return Forced Worship to its owner's hand."
@@ -611,7 +611,7 @@ msgstr ""
 # 111c429c332742288059e6f07a278442
 #: ../../NPH.rst:205 ../../NPH.rst:287
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../NPH.rst:207
 msgid "When Deceiver Exarch enters the battlefield, choose one —"
