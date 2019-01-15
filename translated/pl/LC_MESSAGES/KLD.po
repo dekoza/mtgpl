@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-15 17:22+0000\n"
+"PO-Revision-Date: 2019-01-16 08:38+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/kld/pl/>\n"
 "Language: pl\n"
@@ -36,6 +36,8 @@ msgid ""
 "Exile target creature you control, then return that card to the battlefield "
 "under its owner's control."
 msgstr ""
+"Wygnaj wskazanego stwora pod twoim władaniem, następnie zwróć ową kartę na "
+"pole walki po władaniem jej właściciela."
 
 #: ../../KLD.rst:11 ../../KLD.rst:129 ../../KLD.rst:683
 msgid "Draw a card."
@@ -50,7 +52,7 @@ msgstr ""
 
 #: ../../KLD.rst:15 ../../KLD.rst:27
 msgid "Flying, vigilance, lifelink"
-msgstr ""
+msgstr "Latanie, czujność, więź życia"
 
 #: ../../KLD.rst:24
 msgid ""
@@ -72,12 +74,17 @@ msgid ""
 "Whenever Aetherstorm Roc or another creature enters the battlefield under "
 "your control, you get {E} (an energy counter)."
 msgstr ""
+"Ilekroć ta karta lub inny stwór wejdzie na pole walki pod twoim władaniem, "
+"dostajesz |energy| (znacznik energii)."
 
 #: ../../KLD.rst:23
 msgid ""
 "Whenever Aetherstorm Roc attacks, you may pay {E}{E}. If you do, put a +1/+1 "
 "counter on it and tap up to one target creature defending player controls."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz zapłacić |energy|\\ |energy|. Jeśli to "
+"zrobisz, umieść na nim znacznik +1/+1 i przekręć co najwyżej jednego "
+"wskazanego stwora pod władaniem broniącego się gracza."
 
 #: ../../KLD.rst:32
 msgid ""
@@ -92,6 +99,9 @@ msgid ""
 "Fabricate 2 (When this creature enters the battlefield, put two +1/+1 "
 "counters on it or create two 1/1 colorless Servo artifact creature tokens.)"
 msgstr ""
+"Produkcja 2 (Kiedy ten stwór wejdzie na pole walki, umieść na nim dwa "
+"znaczniki +1/+1 albo stwórz dwa żetony bezkolorowego artefaktycznego stwora "
+"Serwo 1/1.)"
 
 #: ../../KLD.rst:31
 msgid "Other creatures you control get +1/+1."
@@ -114,6 +124,8 @@ msgid ""
 "Whenever a creature enters the battlefield under an opponent's control, you "
 "gain 1 life."
 msgstr ""
+"Ilekroć stwór wejdzie na pole walki pod władaniem przeciwnika, zyskujesz 1 "
+"życie."
 
 #: ../../KLD.rst:42
 msgid ""
@@ -127,6 +139,8 @@ msgid ""
 "When Aviary Mechanic enters the battlefield, you may return another "
 "permanent you control to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić inny permanent pod "
+"twoim władaniem do ręki jego właściciela."
 
 #: ../../KLD.rst:46
 msgid ""
@@ -141,6 +155,9 @@ msgid ""
 "it gains indestructible until end of turn. (Damage and effects that say "
 "\"destroy\" don't destroy it.)"
 msgstr ""
+"Wskazany stwór dostaje +2/+2 do końca tury. Jeśli jest artefaktycznym "
+"stworem, zyskuje niezniszczalność do końca tury. (Obrażenia i efekty mówiące "
+"\"zniszcz\" nie niszczą go.)"
 
 #: ../../KLD.rst:54
 msgid ""
@@ -151,17 +168,19 @@ msgstr ""
 
 #: ../../KLD.rst:49
 msgid "Enchant creature you don't control"
-msgstr ""
+msgstr "Zaurocz stwora poza twoim władaniem"
 
 #: ../../KLD.rst:51
 msgid "Enchanted creature can't attack."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować."
 
 #: ../../KLD.rst:53
 msgid ""
 "Whenever an opponent casts a spell, if it has a single target, change the "
 "target to enchanted creature if able."
 msgstr ""
+"Ilekroć przeciwnik rzuca czar, jeśli wskazuje on pojedynczy cel, zmień ów "
+"cel na zauroczonego stwora jeśli to możliwe."
 
 #: ../../KLD.rst:60
 msgid ""
@@ -180,6 +199,9 @@ msgid ""
 "artifact, a creature, an enchantment, and a planeswalker from among the "
 "nonland permanents they control, then sacrifices the rest."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, każdy gracz wybiera spośród "
+"nielądowych permanentów pod swoim władaniem artefakt, stwora, urok i "
+"wędrowca , następnie poświęca pozostałe."
 
 #: ../../KLD.rst:66
 msgid ""
@@ -193,15 +215,16 @@ msgid ""
 "When Consulate Surveillance enters the battlefield, you get {E}{E}{E}{E} "
 "(four energy counters)."
 msgstr ""
+"Kiedy ten urok wchodzi na pole walki, dostajesz |energy|\\ |energy|\\ "
+"|energy|\\ |energy| (cztery znaczniki energii)."
 
 #: ../../KLD.rst:65
-#, fuzzy
 msgid ""
 "Pay {E}{E}: Prevent all damage that would be dealt to you this turn by a "
 "source of your choice."
 msgstr ""
-"Zażegnaj wszystkie obrażenia bitewne, które mogłyby zostać zadane graczom w "
-"tej turze."
+"Zapłać |energy|\\ |energy|: Zażegnaj wszystkie obrażenia, które mogłyby "
+"zostać zadane w tej turze przez wybrane przez ciebie źródło."
 
 #: ../../KLD.rst:72
 msgid ""
@@ -215,12 +238,16 @@ msgid ""
 "When Consul's Shieldguard enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"znaczniki energii)."
 
 #: ../../KLD.rst:71
 msgid ""
 "Whenever Consul's Shieldguard attacks, you may pay {E}. If you do, another "
 "target attacking creature gains indestructible until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz zapłacić |energy|. Jeśli to zrobisz, inny "
+"wskazany atakujący stwór zyskuje niezniszczalność do końca tury."
 
 #: ../../KLD.rst:80
 msgid ""
@@ -234,12 +261,16 @@ msgid ""
 "When Eddytrail Hawk enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\|energy| (dwa "
+"znaczniki energii)."
 
 #: ../../KLD.rst:79
 msgid ""
 "Whenever Eddytrail Hawk attacks, you may pay {E}. If you do, another target "
 "attacking creature gains flying until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz zapłacić |energy|. Jeśli to zrobisz, inny "
+"wskazany atakujący stwór zyskuje latanie do końca tury."
 
 #: ../../KLD.rst:84
 msgid ""
@@ -253,6 +284,8 @@ msgid ""
 "When Fairgrounds Warden enters the battlefield, exile target creature an "
 "opponent controls until Fairgrounds Warden leaves the battlefield."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wygnaj wskazanego stwora pod "
+"władaniem przeciwnika dopóki ten stwór nie opuści pola walki."
 
 #: ../../KLD.rst:88
 msgid ""
@@ -265,6 +298,7 @@ msgstr ""
 msgid ""
 "Destroy target artifact or enchantment with converted mana cost 4 or less."
 msgstr ""
+"Zniszcz wskazany artefakt lub urok o skróconym koszcie many 4 lub mniejszym."
 
 #: ../../KLD.rst:92
 msgid ""
@@ -277,6 +311,8 @@ msgstr ""
 msgid ""
 "Destroy all creatures. You gain 1 life for each creature destroyed this way."
 msgstr ""
+"Zniszcz wszystkie stwory. Zyskujesz 1 życie za każdego stwora zniszczonego w "
+"ten sposób."
 
 #: ../../KLD.rst:98
 msgid ""
@@ -294,6 +330,8 @@ msgid ""
 "Whenever Gearshift Ace crews a Vehicle, that Vehicle gains first strike "
 "until end of turn."
 msgstr ""
+"Ilekroć ten stwór załoguje Pojazd, ów Pojazd zyskuje pierwszy cios do końca "
+"tury."
 
 #: ../../KLD.rst:102
 msgid ""
@@ -308,6 +346,8 @@ msgid ""
 "Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter "
 "on it or create a 1/1 colorless Servo artifact creature token.)"
 msgstr ""
+"Produkcja 1 (Kiedy ten stwór wejdzie na pole walki, umieść na nim znacznik +"
+"1/+1 albo stwórz żeton bezkolorowego artefaktycznego stwora Serwo 1/1.)"
 
 #: ../../KLD.rst:106
 msgid ""
@@ -321,6 +361,8 @@ msgid ""
 "When Herald of the Fair enters the battlefield, target creature you control "
 "gets +1/+1 until end of turn."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany stwór pod twoim władaniem "
+"dostaje +1/+1 do końca tury."
 
 #: ../../KLD.rst:110
 msgid ""
@@ -333,6 +375,7 @@ msgstr ""
 msgid ""
 "Impeccable Timing deals 3 damage to target attacking or blocking creature."
 msgstr ""
+"Ten czar zadaje 3 obrażenia wskazanemu atakującemu lub blokującemu stworowi."
 
 #: ../../KLD.rst:114
 msgid ""
@@ -354,12 +397,14 @@ msgstr ""
 
 #: ../../KLD.rst:117
 msgid "Servos and Thopters you control get +1/+1."
-msgstr ""
+msgstr "Serwa i Toptery pod twoim władaniem dostają +1/+1."
 
 #: ../../KLD.rst:119
 msgid ""
 "|mana_3|\\ |mana_w|: Create a 1/1 colorless Servo artifact creature token."
 msgstr ""
+"|mana_3|\\ |mana_w|: Stwórz żeton bezkolorwego artefaktycznego stwora Serwo "
+"1/1."
 
 #: ../../KLD.rst:124
 msgid ""
@@ -373,6 +418,8 @@ msgid ""
 "Whenever another creature you control leaves the battlefield, put a +1/+1 "
 "counter on Ninth Bridge Patrol."
 msgstr ""
+"Ilekroć inny stwór pod twoim władaniem opuszcza pole walki, umieść znacznik +"
+"1/+1 na tym stworze."
 
 #: ../../KLD.rst:130
 msgid ""
@@ -401,7 +448,7 @@ msgstr ""
 
 #: ../../KLD.rst:139
 msgid "Return target artifact card from your graveyard to the battlefield."
-msgstr ""
+msgstr "Przywróć wskazaną kartę artefaktu z twojego cmentarza na pole walki."
 
 #: ../../KLD.rst:146
 msgid ""
@@ -416,7 +463,7 @@ msgstr "Zaurocz stwora"
 
 #: ../../KLD.rst:145
 msgid "Enchanted creature can't attack, block, or crew Vehicles."
-msgstr ""
+msgstr "Zauroczony stwór nie może atakować, blokować ani załogować Pojazdów."
 
 #: ../../KLD.rst:150
 msgid ""
@@ -427,7 +474,7 @@ msgstr ""
 
 #: ../../KLD.rst:149
 msgid "Create two 1/1 colorless Servo artifact creature tokens."
-msgstr ""
+msgstr "Stwórz dwa żetony bezkolorowego artefaktycznego stwora Serwo 1/1."
 
 #: ../../KLD.rst:154
 msgid ""
@@ -445,7 +492,7 @@ msgstr ""
 
 #: ../../KLD.rst:157
 msgid "Destroy target creature with power 3 or greater. Scry 1."
-msgstr ""
+msgstr "Zniszcz wskazanego stwora o sile 3 lub większej. Wróż 1."
 
 #: ../../KLD.rst:160
 msgid ""
@@ -466,12 +513,16 @@ msgid ""
 "When Thriving Ibex enters the battlefield, you get {E}{E} (two energy "
 "counters)."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"znaczniki energii)."
 
 #: ../../KLD.rst:167
 msgid ""
 "Whenever Thriving Ibex attacks, you may pay {E}{E}. If you do, put a +1/+1 "
 "counter on it."
 msgstr ""
+"Ilekroć ten stwór atakuje, możesz zapłacić |energy|\\ |energy|. Jeśli to "
+"zrobisz, umieść na nim znacznik +1/+1."
 
 #: ../../KLD.rst:172
 msgid ""
@@ -486,6 +537,9 @@ msgid ""
 "Toolcraft Exemplar gets +2/+1 until end of turn. If you control three or "
 "more artifacts, it also gains first strike until end of turn."
 msgstr ""
+"Na początku walki w twojej turze, jeśli władasz artefaktem, ten stwór "
+"dostaje +2/+1 do końca tury. Jeśli władasz co najmniej trzema artefaktami, "
+"zyskuje także pierwszy cios do końca tury."
 
 #: ../../KLD.rst:178
 msgid ""
@@ -496,7 +550,7 @@ msgstr ""
 
 #: ../../KLD.rst:177
 msgid "Trusty Companion can't attack alone."
-msgstr ""
+msgstr "Ten stwór nie może atakować samotnie."
 
 #: ../../KLD.rst:182
 msgid ""
@@ -518,6 +572,9 @@ msgid ""
 "creature you control, then return that card to the battlefield under its "
 "owner's control."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz wygnać innego wskazanego "
+"stwora pod twoim władaniem, następnie przywrócić ową kartę na pole walki pod "
+"władaniem jej właściciela."
 
 #: ../../KLD.rst:198
 msgid ""
@@ -528,7 +585,7 @@ msgstr ""
 
 #: ../../KLD.rst:191
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../KLD.rst:193
 msgid "Enchant creature or Vehicle"
@@ -1335,6 +1392,9 @@ msgid ""
 "Fabricate 3 (When this creature enters the battlefield, put three +1/+1 "
 "counters on it or create three 1/1 colorless Servo artifact creature tokens.)"
 msgstr ""
+"Produkcja 3 (Kiedy ten stwór wejdzie na pole walki, umieść na nim trzy "
+"znaczniki +1/+1 albo stwórz trzy żetony bezkolorowego artefaktycznego stwora "
+"Serwo 1/1.)"
 
 #: ../../KLD.rst:485
 msgid ""
