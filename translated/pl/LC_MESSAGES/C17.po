@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2019-01-15 17:22+0000\n"
+"PO-Revision-Date: 2019-01-16 08:38+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c17/pl/>\n"
 "Language: pl\n"
@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../C17.rst:21 ../../C17.rst:392 ../../C17.rst:575 ../../C17.rst:1746
 msgid "First strike"
-msgstr ""
+msgstr "Pierwszy cios"
 
 #: ../../C17.rst:23
 msgid ""
@@ -1047,10 +1047,12 @@ msgid ""
 "You may cast Rout as though it had flash if you pay |mana_2| more to cast"
 " it. (You may cast it any time you could cast an instant.)"
 msgstr ""
+"Możesz rzucić ten czar jakby miał błysk, jeśli rzucając go zapłacisz o "
+"|mana_2| więcej. (Możesz rzucić go jako sztuczkę.)"
 
 #: ../../C17.rst:650
 msgid "Destroy all creatures. They can't be regenerated."
-msgstr ""
+msgstr "Zniszcz wszystkie stwory. Nie mogą być zregenerowane."
 
 #: ../../C17.rst:660
 msgid "Seht's Tiger"
@@ -1058,7 +1060,7 @@ msgstr ""
 
 #: ../../C17.rst:657
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr ""
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../C17.rst:659
 msgid ""
@@ -1201,12 +1203,16 @@ msgid ""
 "|mana_2| more to cast it. (You may cast it any time you could cast an "
 "instant.)"
 msgstr ""
+"Możesz rzucić tego stwora jakby miał błysk, jeśli rzucając go zapłacisz o "
+"|mana_2| więcej. (Możesz rzucić go jak sztuczkę.)"
 
 #: ../../C17.rst:760
 msgid ""
 "When Harbinger of the Tides enters the battlefield, you may return target"
 " tapped creature an opponent controls to its owner's hand."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz przywrócić wskazanego "
+"przekręconego stwora pod władaniem przeciwnika do ręki jego właściciela."
 
 #: ../../C17.rst:770
 msgid "Into the Roil"
