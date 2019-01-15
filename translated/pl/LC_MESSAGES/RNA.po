@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-14 22:31+0000\n"
+"PO-Revision-Date: 2019-01-15 17:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rna/pl/>\n"
 "Language: pl\n"
@@ -792,7 +792,7 @@ msgstr ""
 
 #: ../../RNA.rst:265
 msgid "Counter target spell unless its controller pays |mana_2|."
-msgstr "Skontruj wskazany czar o ile jego władca nie dopłaci |mana_2|."
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_2|."
 
 #: ../../RNA.rst:270
 msgid ""
