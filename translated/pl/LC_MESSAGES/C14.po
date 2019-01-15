@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-14 22:31+0000\n"
+"PO-Revision-Date: 2019-01-16 08:38+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -262,6 +262,8 @@ msgid ""
 "Morph |mana_u| (You may cast this card face down as a 2/2 creature for |"
 "mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| jako stwora 2/"
+"2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../C14.rst:90
 msgid ""
@@ -1174,7 +1176,7 @@ msgstr ""
 
 #: ../../C14.rst:403 ../../C14.rst:557
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../C14.rst:405 ../../C14.rst:937 ../../C14.rst:1047
 msgid ""
@@ -1647,14 +1649,12 @@ msgid ""
 msgstr ""
 
 #: ../../C14.rst:573
-#, fuzzy
 msgid ""
 "Morph |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card face down as a "
 "2/2 creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
-"Przemiana |mana_5|\\ |mana_u|\\ |mana_u| (Możesz rzucić tę kartę za |mana_3| "
-"frontem w dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie "
-"za jej koszt przemiany.)"
+"Przemiana |mana_5|\\ |mana_u|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za "
+"|mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../C14.rst:575
 msgid ""
@@ -2081,14 +2081,12 @@ msgid ""
 msgstr ""
 
 #: ../../C14.rst:721
-#, fuzzy
 msgid ""
 "Morph |mana_2|\\ |mana_u| (You may cast this card face down as a 2/2 "
 "creature for |mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
-"Przemiana |mana_2|\\ |mana_u| (Możesz rzucić tę kartę za |mana_3| frontem w "
-"dół jako stwora 2/2. Odwróć ją frontem do góry w dowolnym momencie za jej "
-"koszt przemiany.)"
+"Przemiana |mana_2|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../C14.rst:723
 msgid ""
@@ -4850,6 +4848,8 @@ msgid ""
 "Morph |mana_2| (You may cast this card face down as a 2/2 creature for |"
 "mana_3|. Turn it face up any time for its morph cost.)"
 msgstr ""
+"Przemiana |mana_2| (Możesz rzucić tę kartę zakrytą za |mana_3| jako stwora 2/"
+"2. Odkryj ją w dowolnym momencie za koszt przemiany.)"
 
 #: ../../C14.rst:1810
 msgid ""
