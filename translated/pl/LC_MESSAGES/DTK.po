@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-14 22:31+0000\n"
+"PO-Revision-Date: 2019-01-16 08:38+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dtk/pl/>\n"
 "Language: pl\n"
@@ -110,6 +110,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_4|\\ |mana_w| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:40
 msgid ""
@@ -362,6 +365,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_2|\\ |mana_w| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:131
 msgid ""
@@ -396,6 +402,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_1|\\ |mana_w| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:150
 msgid ""
@@ -579,6 +588,9 @@ msgid ""
 "as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
 "cost and put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_5|\\ |mana_w|\\ |mana_w| (Możesz rzucić tę kartę zakrytą "
+"za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"nadprzemiany i umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:213
 msgid ""
@@ -693,6 +705,9 @@ msgid ""
 "as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
 "cost and put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_5|\\ |mana_u|\\ |mana_u| (Możesz rzucić tę kartę zakrytą "
+"za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"nadprzemiany i umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:255
 msgid ""
@@ -767,6 +782,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_6|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:290
 msgid ""
@@ -807,7 +825,7 @@ msgstr ""
 
 #: ../../DTK.rst:297 ../../DTK.rst:433
 msgid "Flash (You may cast this spell any time you could cast an instant.)"
-msgstr "Błysk (Możesz rzucić ten czar zawsze, gdy można rzucić sztuczkę.)"
+msgstr "Błysk (Możesz rzucić ten czar jako sztuczkę.)"
 
 #: ../../DTK.rst:299
 msgid "Enchant red or green creature"
@@ -852,6 +870,9 @@ msgid ""
 "mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 "
 "counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| jako "
+"stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i umieść na "
+"niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:320
 msgid ""
@@ -972,6 +993,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_5|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:361
 msgid ""
@@ -1014,6 +1038,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_3|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:382
 msgid ""
@@ -1079,6 +1106,9 @@ msgid ""
 "spell, pay a mana cost to turn a manifested creature face up, or pay a morph "
 "cost. (A megamorph cost is a morph cost.)"
 msgstr ""
+"|tap|: Dostajesz |colorless|. Wydaj tę manę tylko na rzucanie zakrytych "
+"czarów stworów, opłacenie kosztu many odkrycia objawionej karty lub zapłacić "
+"koszt przemiany. (Koszt nadprzemiany jest kosztem przemiany.)"
 
 #: ../../DTK.rst:410
 msgid ""
@@ -1114,6 +1144,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_4|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:424
 msgid ""
@@ -1206,6 +1239,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_1|\\ |mana_u| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:463
 msgid ""
@@ -1285,6 +1321,9 @@ msgid ""
 "as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
 "cost and put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_5|\\ |mana_b|\\ |mana_b| (Możesz rzucić tę kartę zakrytą "
+"za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"nadprzemiany i umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:497
 msgid ""
@@ -1602,6 +1641,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_3|\\ |mana_b| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:604
 msgid ""
@@ -1615,6 +1657,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_6|\\ |mana_b| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:608
 msgid ""
@@ -1799,6 +1844,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_2|\\ |mana_b| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:675
 msgid ""
@@ -1880,6 +1928,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_2|\\ |mana_r| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:711
 msgid "When Atarka Efreet is turned face up, it deals 1 damage to any target."
@@ -2080,6 +2131,9 @@ msgid ""
 "mana_3|. Turn it face up any time for its megamorph cost and put a +1/+1 "
 "counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_r| (Możesz rzucić tę kartę zakrytą za |mana_3| jako "
+"stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i umieść na "
+"niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:777
 msgid ""
@@ -2333,6 +2387,9 @@ msgid ""
 "as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
 "cost and put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_4|\\ |mana_r|\\ |mana_r| (Możesz rzucić tę kartę zakrytą "
+"za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"nadprzemiany i umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:872
 msgid ""
@@ -2351,6 +2408,9 @@ msgid ""
 "as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
 "cost and put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana ||mana_5|\\ |mana_r|\\ |mana_r| (Możesz rzucić tę kartę zakrytą "
+"za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"nadprzemiany i umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:871
 msgid ""
@@ -2501,6 +2561,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_5|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:934
 msgid ""
@@ -2528,6 +2591,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_1|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:939
 msgid ""
@@ -2660,6 +2726,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_4|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:992
 msgid ""
@@ -2798,6 +2867,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_3|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:1035
 msgid ""
@@ -2822,6 +2894,9 @@ msgid ""
 "as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
 "cost and put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_5|\\ |mana_g|\\ |mana_g| (Możesz rzucić tę kartę zakrytą "
+"za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"nadprzemiany i umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:1043
 msgid ""
@@ -2941,6 +3016,9 @@ msgid ""
 "as a 2/2 creature for |mana_3|. Turn it face up any time for its megamorph "
 "cost and put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_3|\\ |mana_g|\\ |mana_g| (Możesz rzucić tę kartę zakrytą "
+"za |mana_3| jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt "
+"nadprzemiany i umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:1086
 msgid ""
@@ -3001,6 +3079,9 @@ msgid ""
 "creature for |mana_3|. Turn it face up any time for its megamorph cost and "
 "put a +1/+1 counter on it.)"
 msgstr ""
+"Nadprzemiana |mana_6|\\ |mana_g| (Możesz rzucić tę kartę zakrytą za |mana_3| "
+"jako stwora 2/2. Odkryj ją w dowolnym momencie za koszt nadprzemiany i "
+"umieść na niej znacznik +1/+1.)"
 
 #: ../../DTK.rst:1106
 msgid ""
