@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-14 22:31+0000\n"
+"PO-Revision-Date: 2019-01-15 17:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/akh/pl/>\n"
 "Language: pl\n"
@@ -51,6 +51,9 @@ msgid ""
 "graveyard: Create a token that's a copy of it, except it's a white Zombie "
 "Angel with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
+"Balsamowanie |mana_5|\\ |mana_w| (|mana_5|\\ |mana_w|, wygnaj tę kartę z "
+"twojego cmentarza: Stwórz żeton będący jej kopią z wyjątkiem tego, że jest "
+"to biały Zombi Anioł bez kosztu many. Balsamuj tylko jako obrzęd.)"
 
 #: ../../AKH.rst:18
 msgid ""
@@ -84,6 +87,9 @@ msgid ""
 "graveyard: Create a token that's a copy of it, except it's a white Zombie "
 "Human Cleric with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
+"Balsamowanie |mana_3|\\ |mana_w| (|mana_3|\\ |mana_w|, wygnaj tę kartę z "
+"twojego cmentarza: Stwórz żeton będący jej kopią z wyjątkiem tego, że jest "
+"to biały Zombi Człowiek Kleryk bez kosztu many. Balsamuj tylko jako obrzęd.)"
 
 #: ../../AKH.rst:28
 msgid ""
@@ -395,6 +401,10 @@ msgid ""
 "it's a white Zombie Bird Soldier with no mana cost. Embalm only as a "
 "sorcery.)"
 msgstr ""
+"Balsamowanie |mana_3|\\ |mana_w|\\ |mana_w| (|mana_3|\\ |mana_w|\\ |mana_w|, "
+"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
+"wyjątkiem tego, że jest to biały Zombi Ptak Piechur bez kosztu many. "
+"Balsamuj tylko jako obrzęd.)"
 
 #: ../../AKH.rst:140
 msgid ""
@@ -481,6 +491,9 @@ msgid ""
 "token that's a copy of it, except it's a white Zombie Cat with no mana cost. "
 "Embalm only as a sorcery.)"
 msgstr ""
+"Balsamowanie |mana_w| (|mana_w|, wygnaj tę kartę z twojego cmentarza: Stwórz "
+"żeton będący jej kopią z wyjątkiem tego, że jest to biały Zombi Kot bez "
+"kosztu many. Balsamuj tylko jako obrzęd.)"
 
 #: ../../AKH.rst:170
 msgid ""
@@ -589,6 +602,10 @@ msgid ""
 "graveyard: Create a token that's a copy of it, except it's a white Zombie "
 "Human Warrior with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
+"Balsamowanie  |mana_2|\\ |mana_w| (|mana_2|\\ |mana_w|, wygnaj tę kartę z "
+"twojego cmentarza: Stwórz żeton będący jej kopią z wyjątkiem tego, że jest "
+"to biały Zombi Człowiek Wojownik bez kosztu many. Balsamuj tylko jako "
+"obrzęd.)"
 
 #: ../../AKH.rst:210
 msgid ""
@@ -607,6 +624,10 @@ msgid ""
 "graveyard: Create a token that's a copy of it, except it's a white Zombie "
 "Human Warrior with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
+"Balsamowanie |mana_4|\\ |mana_w| (|mana_4|\\ |mana_w|, wygnaj tę kartę z "
+"twojego cmentarza: Stwórz żeton będący jej kopią z wyjątkiem tego, że jest "
+"to biały Zombi Człowiek Wojownik bez kosztu many. Balsamuj tylko jako "
+"obrzęd.)"
 
 #: ../../AKH.rst:216
 msgid ""
@@ -697,6 +718,9 @@ msgid ""
 "graveyard: Create a token that's a copy of it, except it's a white Zombie "
 "Bird Warrior with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
+"Balsamowanie |mana_6|\\ |mana_u| (|mana_6|\\ |mana_u|, wygnaj tę kartę z "
+"twojego cmentarza: Stwórz żeton będący jej kopią z wyjątkiem tego, że jest "
+"to biały Zombi Ptak Wojownik bez kosztu many. Balsamuj tylko jako obrzęd.)"
 
 #: ../../AKH.rst:252
 msgid ""
@@ -860,6 +884,10 @@ msgid ""
 "this card from your graveyard: Create a token that's a copy of it, except "
 "it's a white Zombie Sphinx with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
+"Balsamowanie |mana_5|\\ |mana_u|\\ |mana_u| (|mana_5|\\ |mana_u|\\ |mana_u|, "
+"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
+"wyjątkiem tego, że jest to biały Zombi Sfinks bez kosztu many. Balsamuj "
+"tylko jako obrzęd.)"
 
 #: ../../AKH.rst:320
 msgid ""
@@ -936,6 +964,9 @@ msgid ""
 "graveyard: Create a token that's a copy of it, except it's a white Zombie "
 "Illusion Warrior with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
+"Balsamowanie |mana_3|\\ |mana_u| (|mana_3|\\ |mana_u|, wygnaj tę kartę z "
+"twojego cmentarza: Stwórz żeton będący jej kopią z wyjątkiem tego, że jest "
+"to biały Zombi Iluzja Wojownik bez kosztu many. Balsamuj tylko jako obrzęd.)"
 
 #: ../../AKH.rst:354
 msgid ""
@@ -1094,6 +1125,9 @@ msgid ""
 "graveyard: Create a token that's a copy of it, except it's a white Zombie "
 "Naga Warrior with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
+"Balsamowanie |mana_3|\\ |mana_u| (|mana_3|\\ |mana_u|, wygnaj tę kartę z "
+"twojego cmentarza: Stwórz żeton będący jej kopią z wyjątkiem tego, że jest "
+"to biały Zombi Naga Wojownik bez kosztu many. Balsamuj tylko jako obrzęd.)"
 
 #: ../../AKH.rst:410
 msgid ""
@@ -1131,7 +1165,7 @@ msgstr ""
 
 #: ../../AKH.rst:415
 msgid "Embalm |mana_3|\\ |mana_u|\\ |mana_u|"
-msgstr ""
+msgstr "Balsamowanie |mana_3|\\ |mana_u|\\ |mana_u|"
 
 #: ../../AKH.rst:424
 msgid ""
@@ -2083,6 +2117,9 @@ msgid ""
 "graveyard: Create a token that's a copy of it, except it's a white Zombie "
 "Manticore with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
+"Balsamowanie |mana_5|\\ |mana_r| (|mana_5|\\ |mana_r|, wygnaj tę kartę z "
+"twojego cmentarza: Stwórz żeton będący jej kopią z wyjątkiem tego, że jest "
+"to biały Zombi Mantikora bez kosztu many. Balsamuj tylko jako obrzęd.)"
 
 #: ../../AKH.rst:762
 msgid ""
@@ -2563,6 +2600,9 @@ msgid ""
 "graveyard: Create a token that's a copy of it, except it's a white Zombie "
 "Snake Hydra with no mana cost. Embalm only as a sorcery.)"
 msgstr ""
+"Balsamowanie |mana_3|\\ |mana_g| (|mana_3|\\ |mana_g|, wygnaj tę kartę z "
+"twojego cmentarza: Stwórz żeton będący jej kopią z wyjątkiem tego, że jest "
+"to biały Zombi Wąż Hydra bez kosztu many. Balsamuj tylko jako obrzęd.)"
 
 #: ../../AKH.rst:944
 msgid ""
@@ -2911,6 +2951,10 @@ msgid ""
 "it's a white Zombie Bird Warrior with no mana cost. Embalm only as a "
 "sorcery.)"
 msgstr ""
+"Balsamowanie |mana_4|\\ |mana_w|\\ |mana_u| (|mana_4|\\ |mana_w|\\ |mana_u|, "
+"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
+"wyjątkiem tego, że jest to biały Zombi Ptak Wojownik bez kosztu many. "
+"Balsamuj tylko jako obrzęd.)"
 
 #: ../../AKH.rst:1062
 msgid ""
@@ -3122,6 +3166,10 @@ msgid ""
 "it's a white Zombie Human Cleric with no mana cost. Embalm only as a "
 "sorcery.)"
 msgstr ""
+"Balsamowanie |mana_3|\\ |mana_w|\\ |mana_u| (|mana_3|\\ |mana_w|\\ |mana_u|, "
+"wygnaj tę kartę z twojego cmentarza: Stwórz żeton będący jej kopią z "
+"wyjątkiem tego, że jest to biały Zombi Człowiek Kleryk bez kosztu many. "
+"Balsamuj tylko jako obrzęd.)"
 
 #: ../../AKH.rst:1138
 msgid ""
@@ -3311,7 +3359,7 @@ msgstr ""
 
 #: ../../AKH.rst:1207
 msgid "Counter target spell unless its controller pays |mana_3|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../AKH.rst:1214
 msgid ""
