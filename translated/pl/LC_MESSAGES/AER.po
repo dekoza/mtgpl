@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-13 22:24+0000\n"
+"PO-Revision-Date: 2019-01-15 17:22+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/aer/pl/>\n"
 "Language: pl\n"
@@ -40,6 +40,8 @@ msgid ""
 "As long as enchanted permanent is a Vehicle, it's a creature in addition to "
 "its other types."
 msgstr ""
+"O ile zauroczony permanent jest Pojazdem, jest dodatkowo stworem oprócz "
+"swoich innych typów."
 
 #: ../../AER.rst:13
 msgid "Enchanted creature gets +2/+2 and has flying."
@@ -76,20 +78,20 @@ msgid "Vigilance"
 msgstr "Czujność"
 
 #: ../../AER.rst:25
-#, fuzzy
 msgid ""
 "When Aether Inspector enters the battlefield, you get {E}{E} (two energy "
 "counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr ""
+"Kiedy ta karta wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"znaczniki energii)."
 
 #: ../../AER.rst:27
-#, fuzzy
 msgid ""
 "Whenever Aether Inspector attacks, you may pay {E}{E}. If you do, create a "
 "1/1 colorless Servo artifact creature token."
 msgstr ""
-"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
-"stwora Thopter 1/1 z lataniem."
+"Ilekroć ten stwór atakuje, możesz zapłacić |energy|\\ |energy|. Jeśli to "
+"zrobisz, stwórz żeton bezkolorowego artefaktycznego stwora Serwo 1/1."
 
 #: ../../AER.rst:34
 msgid ""
@@ -99,16 +101,19 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:31
-#, fuzzy
 msgid ""
 "Whenever Aethergeode Miner attacks, you get {E}{E} (two energy counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr ""
+"Ilekroć ten stwór atakuje, dostajesz |energy|\\ |energy| (dwa znaczniki "
+"energii)."
 
 #: ../../AER.rst:33
 msgid ""
 "Pay {E}{E}: Exile Aethergeode Miner, then return it to the battlefield under "
 "its owner's control."
 msgstr ""
+"Zapłać |energy|\\ |energy|: Wygnaj tego stwora, następnie przywróć go na "
+"pole walki pod władaniem jego właściciela."
 
 #: ../../AER.rst:40
 msgid ""
@@ -122,6 +127,8 @@ msgid ""
 "Revolt — When Airdrop Aeronauts enters the battlefield, if a permanent you "
 "controlled left the battlefield this turn, you gain 5 life."
 msgstr ""
+"Rewolta — Kiedy ta karta wejdzie na pole walki, jeśli permanent pod twoim "
+"władaniem opuścił pole walki w tej turze, zyskujesz 5 życia."
 
 #: ../../AER.rst:48
 msgid ""
@@ -136,11 +143,12 @@ msgstr "Wybierz jedno —"
 
 #: ../../AER.rst:45
 msgid "Target creature you control gets +1/+2 until end of turn."
-msgstr ""
+msgstr "Wskazany stwór pod twoim władaniem dostaje +1/+2 do końca tury."
 
 #: ../../AER.rst:47
 msgid "Return target creature you control to its owner's hand."
 msgstr ""
+"Przywróć wskazanego stwora pod twoim władaniem do ręki jego właściciela."
 
 #: ../../AER.rst:52
 msgid ""
@@ -151,7 +159,7 @@ msgstr ""
 
 #: ../../AER.rst:51
 msgid "Audacious Infiltrator can't be blocked by artifact creatures."
-msgstr ""
+msgstr "Ten stwór nie może być blokowany przez artefaktyczne stwory."
 
 #: ../../AER.rst:54
 msgid ""
@@ -172,11 +180,16 @@ msgid ""
 "Revolt — At the beginning of your end step, if a permanent you controlled "
 "left the battlefield this turn, put a unity counter on Call for Unity."
 msgstr ""
+"Rewolta — Na początku twojego kroku końcowego, jeśli permanent pod twoim "
+"władaniem opuścił pole walki w tej turze, umieść znacznik jedności na tym "
+"permanencie."
 
 #: ../../AER.rst:61
 msgid ""
 "Creatures you control get +1/+1 for each unity counter on Call for Unity."
 msgstr ""
+"Stwory pod twoim władaniem dostają +1/+1 za każdy znacznik jedności na tym "
+"permanencie."
 
 #: ../../AER.rst:70
 msgid ""
@@ -195,7 +208,7 @@ msgstr "Zauroczony stwór nie może atakować ani blokować."
 
 #: ../../AER.rst:69
 msgid "When a Vehicle you control attacks, exile enchanted creature."
-msgstr ""
+msgstr "Kiedy Pojazd pod twoim władaniem atakuje, wygnaj zauroczonego stwora."
 
 #: ../../AER.rst:74
 msgid ""
@@ -209,6 +222,8 @@ msgid ""
 "When Consulate Crackdown enters the battlefield, exile all artifacts your "
 "opponents control until Consulate Crackdown leaves the battlefield."
 msgstr ""
+"Kiedy ta kart wejdzie na pole walki, wygnaj wszystkie artefakty pod "
+"władaniem przeciwników dopóki nie opuści ona pola walki."
 
 #: ../../AER.rst:82
 msgid ""
@@ -223,7 +238,7 @@ msgstr "Zauroczony stwór dostaje +1/+3."
 
 #: ../../AER.rst:81
 msgid "|mana_w|: Return Conviction to its owner's hand."
-msgstr ""
+msgstr "|mana_w|: Przywróć ten permanent do ręki jego właściciela."
 
 #: ../../AER.rst:86
 msgid ""
@@ -238,6 +253,9 @@ msgid ""
 "permanent you controlled left the battlefield this turn, create a 1/1 "
 "colorless Servo artifact creature token."
 msgstr ""
+"Rewolta — Kiedy ta karta wejdzie na pole walki, jeśli permanent pod twoim "
+"władaniem opuścił pole walki w tej turze, stwórz żeton bezkolorwego "
+"artefaktycznego stwora Serwo 1/1."
 
 #: ../../AER.rst:92
 msgid ""
@@ -251,6 +269,8 @@ msgid ""
 "When Dawnfeather Eagle enters the battlefield, creatures you control get +1/"
 "+1 and gain vigilance until end of turn."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, stwory pod twoim władaniem dostają do "
+"końca tury +1/+1 oraz czujność."
 
 #: ../../AER.rst:96
 msgid ""
@@ -265,6 +285,9 @@ msgid ""
 "controlled left the battlefield this turn, destroy target tapped creature an "
 "opponent controls."
 msgstr ""
+"Rewolta — Kiedy ta karta wejdzie na pole walki, jeśli permanent pod twoim "
+"władaniem opuścił pole walki w tej turze, zniszcz wskazanego przekręconego "
+"stwora pod władaniem przeciwnika."
 
 #: ../../AER.rst:102
 msgid ""
@@ -282,6 +305,8 @@ msgid ""
 "Revolt — If a permanent you controlled left the battlefield this turn, you "
 "gain 3 life."
 msgstr ""
+"Rewolta — Jeśli permanent pod twoim władaniem opuścił pole walki w tej "
+"turze, zyskujesz 3 życia."
 
 #: ../../AER.rst:106
 msgid ""
@@ -295,6 +320,8 @@ msgid ""
 "Deft Dismissal deals 3 damage divided as you choose among one, two, or three "
 "target attacking or blocking creatures."
 msgstr ""
+"Ta karta zadaje 3 obrażenia rozdzielone według twojego uznania pomiędzy "
+"jednym, dwoma lub trzema wskazanymi atakującymi lub blokującymi stworami."
 
 #: ../../AER.rst:112
 msgid ""
@@ -308,6 +335,8 @@ msgid ""
 "If you would lose the game, instead exile Exquisite Archangel and your life "
 "total becomes equal to your starting life total."
 msgstr ""
+"Jeśli miałbyś przegrać grę, zamiast tego wygnaj tego stwora, a liczba twoich "
+"punktów życia otrzymuje swoją wartość początkową."
 
 #: ../../AER.rst:116
 msgid ""
@@ -322,6 +351,9 @@ msgid ""
 "permanent you control, then return that card to the battlefield under its "
 "owner's control."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki możesz wygnać inny wskazany permanent "
+"pod twoim władaniem, następnie przywrócić ową kartę na pole walki pod "
+"władaniem jej właściciela."
 
 #: ../../AER.rst:120
 msgid ""
@@ -342,6 +374,9 @@ msgid ""
 "|mana_w|, Sacrifice Restoration Specialist: Return up to one target artifact "
 "card and up to one target enchantment card from your graveyard to your hand."
 msgstr ""
+"|mana_w|, poświęć tego stwora: Przywróć co najwyżej jedną wskazaną kartę "
+"artefaktu oraz co najwyżej jedną wskazaną kartę uroku z twojego cmentarza do "
+"twojej ręki."
 
 #: ../../AER.rst:130
 msgid ""
@@ -359,6 +394,9 @@ msgid ""
 "Revolt — At the beginning of your end step, if a permanent you controlled "
 "left the battlefield this turn, put a +1/+1 counter on Solemn Recruit."
 msgstr ""
+"Rewolta — Na początku twojego kroku końcowego, jeśli permanent pod twoim "
+"władaniem opuścił pole walki w tej turze, umieść dwa znaczniki +1/+1 na tym "
+"stworze."
 
 #: ../../AER.rst:134
 msgid ""
@@ -369,7 +407,7 @@ msgstr ""
 
 #: ../../AER.rst:133
 msgid "Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card."
-msgstr ""
+msgstr "Ilekroć rzucasz czar Aury, Wyposażenia lub Pojazdu, dobierz kartę."
 
 #: ../../AER.rst:140
 msgid ""
@@ -380,13 +418,15 @@ msgstr ""
 
 #: ../../AER.rst:137
 msgid "Create three 1/1 colorless Servo artifact creature tokens."
-msgstr ""
+msgstr "Stwórz trzy żetony bezkolorowego artefaktycznego stwora Serwo 1/1."
 
 #: ../../AER.rst:139 ../../AER.rst:419
 msgid ""
 "You may cast a card with converted mana cost 3 or less from your hand "
 "without paying its mana cost."
 msgstr ""
+"Możesz rzucić kartę o skróconym koszcie many 3 lub mniejszym z twojej ręki "
+"bez płacenia jej kosztu many."
 
 #: ../../AER.rst:144
 msgid ""
@@ -400,6 +440,8 @@ msgid ""
 "When Thopter Arrest enters the battlefield, exile target artifact or "
 "creature an opponent controls until Thopter Arrest leaves the battlefield."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, wygnaj wskazany artefakt lub stwora "
+"pod władaniem przeciwnika dopóki niniejsza karta nie opuści pola walki."
 
 #: ../../AER.rst:152
 msgid ""
@@ -409,20 +451,20 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:149
-#, fuzzy
 msgid ""
 "When Aether Swooper enters the battlefield, you get {E}{E} (two energy "
 "counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr ""
+"Kiedy ta karta wejdzie na pole walki, dostajesz |energy|\\ |energy| (dwa "
+"znaczniki energii)."
 
 #: ../../AER.rst:151
-#, fuzzy
 msgid ""
 "Whenever Aether Swooper attacks, you may pay {E}{E}. If you do, create a 1/1 "
 "colorless Servo artifact creature token."
 msgstr ""
-"Ilekroć rzucasz czar artefaktu, stwórz żeton bezkolorowego artefaktycznego "
-"stwora Thopter 1/1 z lataniem."
+"Ilekroć ten stwór atakuje, możesz zapłacić |energy|\\ |energy|. Jeśli to "
+"zrobisz, stwórz żeton bezkolorowego artefaktycznego stwora Serwo 1/1."
 
 #: ../../AER.rst:160
 msgid ""
@@ -432,16 +474,18 @@ msgid ""
 msgstr ""
 
 #: ../../AER.rst:157
-#, fuzzy
 msgid ""
 "When Aethertide Whale enters the battlefield, you get {E}{E}{E}{E}{E}{E} "
 "(six energy counters)."
-msgstr "Kiedy ta karta wejdzie na pole walki, zyskujesz 3 życia."
+msgstr ""
+"Kiedy ta karta wejdzie na pole walki, dostajesz |energy|\\ |energy|\\ "
+"|energy|\\ |energy|\\ |energy|\\ |energy| (sześć znaczników energii)."
 
 #: ../../AER.rst:159
-#, fuzzy
 msgid "Pay {E}{E}{E}{E}: Return Aethertide Whale to its owner's hand."
-msgstr "Zwróć wskazany nielądowy permanent do ręki jego właściciela."
+msgstr ""
+"Zapłać |energy|\\ |energy|\\ |energy|\\ |energy|: Przywróć tego stwora do "
+"ręki właściciela."
 
 #: ../../AER.rst:166
 msgid ""
@@ -452,13 +496,15 @@ msgstr ""
 
 #: ../../AER.rst:163
 msgid "Instant and sorcery spells you cast cost |mana_1| less to cast."
-msgstr "Rzucanie sztuczek i obrzędów kosztuje cię |mana_1| mniej."
+msgstr "Rzucanie sztuczek i obrzędów kosztuje cię o |mana_1| mniej."
 
 #: ../../AER.rst:165
 msgid ""
 "Whenever a spell or ability you control counters a spell, you may draw a "
 "card. If you do, discard a card."
 msgstr ""
+"Ilekroć czar lub zdolność pod twoim włdaniem skontruje czar, możesz dobrać "
+"kartę. Jeśli to zrobisz, odrzuć kartę."
 
 #: ../../AER.rst:172
 msgid ""
@@ -471,12 +517,16 @@ msgstr ""
 msgid ""
 "Return up to three target artifacts and/or creatures to their owners' hands."
 msgstr ""
+"Przywróć co najwyżej trzy wskazane artefakty i/lub stwory do rąk ich "
+"właścicieli."
 
 #: ../../AER.rst:171
 msgid ""
 "You may cast a card with converted mana cost 4 or less from your hand "
 "without paying its mana cost."
 msgstr ""
+"Możesz rzucić kartę o skróconym koszcie many 4 lub mniejszym z twojej ręki "
+"bez płacenia jej kosztu many."
 
 #: ../../AER.rst:178
 msgid ""
@@ -493,6 +543,9 @@ msgid ""
 "Improvise (Your artifacts can help cast this spell. Each artifact you tap "
 "after you're done activating mana abilities pays for |mana_1|.)"
 msgstr ""
+"Improwizacja (Twoje artefakty mogą pomóc w rzucaniu tego czaru. Każdy "
+"artefakt, który przekręcisz po aktywacji zdolności dających manę, opłaca "
+"|mana_1|.)"
 
 #: ../../AER.rst:177
 msgid ""
@@ -514,6 +567,8 @@ msgid ""
 "Counter target spell, activated ability, or triggered ability. (Mana "
 "abilities can't be targeted.)"
 msgstr ""
+"Skontruj wskazany czar,  zdolność aktywowaną lub wyzwalaną. (Zdolności "
+"dające manę nie mogą być wskazywane.)"
 
 #: ../../AER.rst:186
 msgid ""
@@ -527,6 +582,8 @@ msgid ""
 "When Dispersal Technician enters the battlefield, you may return target "
 "artifact to its owner's hand."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki, możesz przywrócić wskazany artefakt do "
+"ręki jego właściciela."
 
 #: ../../AER.rst:190
 msgid ""
@@ -552,7 +609,7 @@ msgstr ""
 
 #: ../../AER.rst:195
 msgid "Hinterland Drake can't block artifact creatures."
-msgstr ""
+msgstr "Ten stwór nie może blokować artefaktycznych stworów."
 
 #: ../../AER.rst:202
 msgid ""
@@ -563,11 +620,11 @@ msgstr ""
 
 #: ../../AER.rst:199
 msgid "Enchant artifact or creature"
-msgstr ""
+msgstr "Zaurocz artefakt lub stwora"
 
 #: ../../AER.rst:201
 msgid "Enchanted permanent doesn't untap during its controller's untap step."
-msgstr ""
+msgstr "Zauroczony permanent nie odkręca się w kroku odkręcania jego władcy."
 
 #: ../../AER.rst:208
 msgid ""
@@ -581,6 +638,8 @@ msgid ""
 "Exile up to two target creatures you control, then return those cards to the "
 "battlefield under their owner's control."
 msgstr ""
+"Wygnaj co najwyżej dwa wskazane stwory pod twoim władaniem, następnie "
+"przywróć owe karty na pole walki pod władaniem ich właścicieli."
 
 #: ../../AER.rst:207 ../../AER.rst:213
 msgid "Draw a card."
@@ -606,7 +665,7 @@ msgstr ""
 
 #: ../../AER.rst:217
 msgid "Enchant artifact you control"
-msgstr ""
+msgstr "Zaurocz artefakt pod twoim władaniem"
 
 #: ../../AER.rst:219
 msgid ""
@@ -614,6 +673,9 @@ msgid ""
 "artifact. Then if you control eight or more artifacts with the same name as "
 "one another, you win the game."
 msgstr ""
+"Na początku twojego kroku utrzymania, stwórz żeton będący kopią zauroczonego "
+"artefaktu. Następnie jeśli władasz co najmniej ośmioma artefaktami mającymi "
+"tę samą nazwę, wygrywasz grę."
 
 #: ../../AER.rst:226
 msgid ""
@@ -624,7 +686,7 @@ msgstr ""
 
 #: ../../AER.rst:225
 msgid "Counter target spell unless its controller pays |mana_3|."
-msgstr ""
+msgstr "Skontruj wskazany czar, chyba że jego władca zapłaci |mana_3|."
 
 #: ../../AER.rst:230
 msgid ""
