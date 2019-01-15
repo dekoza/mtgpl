@@ -14,6 +14,7 @@ card_template = """
 
 symbols_map = {
     #    '}{': '} {',
+    '{E}': '|energy|',
     '{C}': '|colorless|',
     '{T}': '|tap|',
     '{Q}': '|untap|',
