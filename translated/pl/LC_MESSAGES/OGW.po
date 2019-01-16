@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-16 08:38+0000\n"
+"PO-Revision-Date: 2019-01-16 20:43+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ogw/pl/>\n"
 "Language: pl\n"
@@ -69,15 +69,17 @@ msgstr ""
 
 #: ../../OGW.rst:21
 msgid "|tap|: Endbringer deals 1 damage to any target."
-msgstr ""
+msgstr "|tap|: Ten stwór zadaje 1 obrażenie w dowolnie wskazany cel."
 
 #: ../../OGW.rst:23
 msgid "|colorless|, |tap|: Target creature can't attack or block this turn."
 msgstr ""
+"|colorless|, |tap|: Wskazany stwór nie może atakować lub blokować w tej "
+"turze."
 
 #: ../../OGW.rst:25
 msgid "|colorless|\\ |colorless|, |tap|: Draw a card."
-msgstr ""
+msgstr "|colorless|\\ |colorless|, |tap|: Dobierz kartę."
 
 #: ../../OGW.rst:34
 msgid ""
@@ -91,16 +93,20 @@ msgid ""
 "When you cast this spell, if you have fewer than seven cards in hand, draw "
 "cards equal to the difference."
 msgstr ""
+"Kiedy rzucasz ten czar, jeśli masz mniej niż siedem kart w ręce, dobierz "
+"tyle kart, by mieć ich na ręce siedem."
 
 #: ../../OGW.rst:31 ../../OGW.rst:661
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../OGW.rst:33
 msgid ""
 "Discard a card with converted mana cost X: Counter target spell with "
 "converted mana cost X."
 msgstr ""
+"Odrzuć kartę o skróconym koszcie many X: Skontruj wskazany czar o skróconym "
+"koszcie many X."
 
 #: ../../OGW.rst:38
 msgid ""
@@ -114,6 +120,8 @@ msgid ""
 "|colorless|: Target creature can't block Kozilek's Pathfinder this turn. (|"
 "colorless| represents colorless mana.)"
 msgstr ""
+"|colorless|: Wskazany stwór nie może blokować tej stwora w tej turze. "
+"(|colorless| oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:44
 msgid ""
@@ -128,6 +136,10 @@ msgid ""
 "that card onto the battlefield if it's a permanent card with converted mana "
 "cost 3 or less. Otherwise, put that card into your hand."
 msgstr ""
+"Kiedy ten stwór umrze, ujawnij wierzchnią kartę twojej biblioteki. Możesz "
+"umieścić ową kartę na polu walki jeśli jest kartą permanentu o skróconym "
+"koszcie many nie większym niż 3. W przeciwnym razie umieść ową kartę w "
+"twojej ręce."
 
 #: ../../OGW.rst:52
 msgid ""
@@ -138,13 +150,15 @@ msgstr ""
 
 #: ../../OGW.rst:49
 msgid "Trample, haste"
-msgstr ""
+msgstr "Tratowanie, pośpiech"
 
 #: ../../OGW.rst:51
 msgid ""
 "Whenever Reality Smasher becomes the target of a spell an opponent controls, "
 "counter that spell unless its controller discards a card."
 msgstr ""
+"Ilekroć ten stwór zostaje wskazany przez czar pod władaniem przeciwnika, "
+"skontruj ów czar, chyba że jego władca odrzuci kartę."
 
 #: ../../OGW.rst:58
 msgid ""
@@ -169,11 +183,13 @@ msgid ""
 "When Thought-Knot Seer enters the battlefield, target opponent reveals their "
 "hand. You choose a nonland card from it and exile that card."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, wskazany przeciwnik ujawnia swoją "
+"rękę. Wybierz z niej nie-lądową kartę i wygnaj ją."
 
 #: ../../OGW.rst:65
 msgid ""
 "When Thought-Knot Seer leaves the battlefield, target opponent draws a card."
-msgstr ""
+msgstr "Kiedy ten stwór opuści pole walki, wskazany przeciwnik dobiera kartę."
 
 #: ../../OGW.rst:74
 msgid ""
@@ -189,6 +205,7 @@ msgstr "Tratowanie"
 #: ../../OGW.rst:73
 msgid "Walker of the Wastes gets +1/+1 for each land you control named Wastes."
 msgstr ""
+"Ten stwór dostaje +1/+1 za każdy ląd o nazwie Pustkowie pod twoim władaniem."
 
 #: ../../OGW.rst:80
 msgid ""
@@ -204,7 +221,7 @@ msgstr "Czujność"
 #: ../../OGW.rst:79 ../../OGW.rst:971 ../../OGW.rst:975 ../../OGW.rst:999
 #: ../../OGW.rst:1009 ../../OGW.rst:1021 ../../OGW.rst:1053 ../../OGW.rst:1059
 msgid "|tap|: Add |colorless|. (|colorless| represents colorless mana.)"
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|. (|colorless| oznacza bezkolorową manę.)"
 
 #: ../../OGW.rst:92
 msgid ""
@@ -218,17 +235,19 @@ msgstr "Wybierz jedno —"
 
 #: ../../OGW.rst:87
 msgid "Exile target creature with power or toughness 1 or less."
-msgstr ""
+msgstr "Wygnaj wskazanego stwora o sile lub wytrzymałości 1 lub mniejszej."
 
 #: ../../OGW.rst:89
 msgid "Counter target sorcery spell."
-msgstr ""
+msgstr "Skontruj wskazany czar obrzędu."
 
 #: ../../OGW.rst:91
 msgid ""
 "Create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this "
 "creature: Add |colorless|.\""
 msgstr ""
+"Stwórz żeton bezkolorowego stwora Potomek Eldrazi 1/1 ze zdolnością \""
+"Poświęć tego stwora: Dostajesz |colorless|.\""
 
 #: ../../OGW.rst:98
 msgid ""
@@ -249,7 +268,7 @@ msgstr ""
 #: ../../OGW.rst:739 ../../OGW.rst:745 ../../OGW.rst:751 ../../OGW.rst:759
 #: ../../OGW.rst:877 ../../OGW.rst:885 ../../OGW.rst:893
 msgid "Devoid (This card has no color.)"
-msgstr ""
+msgstr "Pustość (Ta karta nie ma koloru.)"
 
 #: ../../OGW.rst:97
 msgid ""
@@ -2464,6 +2483,8 @@ msgid ""
 "|tap|, Pay 1 life: Add one mana of any color. Spend this mana only to cast a "
 "spell with devoid."
 msgstr ""
+"|tap|, zapłać 1 życie: Dostajesz jedną manę dowolnego koloru. Wydaj tę manę "
+"wyłącznie na rzucenie czaru z pustością."
 
 #: ../../OGW.rst:1010
 msgid ""
