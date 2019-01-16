@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-15 17:22+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-16 20:43+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -124,7 +124,7 @@ msgstr ""
 
 #: ../../HOU.rst:35
 msgid "When Aven of Enduring Hope enters the battlefield, you gain 3 life."
-msgstr ""
+msgstr "Kiedy ten stwór wchodzi na pole walki, zyskujesz 3 życia."
 
 #: ../../HOU.rst:42
 msgid ""
@@ -142,6 +142,8 @@ msgid ""
 "At the beginning of each end step, if you gained life this turn, create a "
 "5/5 white Horse creature token."
 msgstr ""
+"Na początku każdego kroku końcowego, jeśli w tej turze zyskałeś życie, "
+"stwórz żeton białego stwora Koń 5/5."
 
 #: ../../HOU.rst:48
 msgid ""
@@ -153,6 +155,7 @@ msgstr ""
 #: ../../HOU.rst:47
 msgid "Whenever Dauntless Aven attacks, untap target creature you control."
 msgstr ""
+"Ilekroć ten stwór atakuje, odkręć wskazanego stwora pod twoim władaniem."
 
 #: ../../HOU.rst:56
 msgid ""
@@ -169,6 +172,8 @@ msgid ""
 "When Desert's Hold enters the battlefield, if you control a Desert or there "
 "is a Desert card in your graveyard, you gain 3 life."
 msgstr ""
+"Kiedy ten urok wchodzi na pole walki, o ile władasz Pustynią lub w twoim "
+"cmentarzu znajduje się karta Pustyni, zyskujesz 3 życia."
 
 #: ../../HOU.rst:55
 msgid ""
@@ -190,6 +195,8 @@ msgid ""
 "When Disposal Mummy enters the battlefield, exile target card from an "
 "opponent's graveyard."
 msgstr ""
+"Kiedy ten stwór wchodzi na pole walki, wygnaj wskazaną kartę z cmentarza "
+"przeciwnika."
 
 #: ../../HOU.rst:68
 msgid ""
@@ -208,12 +215,17 @@ msgid ""
 "library for a planeswalker card, reveal it, put it into your hand, then "
 "shuffle your library."
 msgstr ""
+"Kiedy ten stwór wchodzi na pole walki, możesz wyszukać w twojej bibliotece "
+"kartę wędrowca, ujawnić ją, dołożyć do twojej ręki, a następnie przetasować "
+"bibliotekę."
 
 #: ../../HOU.rst:67
 msgid ""
 "If a source would deal damage to a planeswalker you control, prevent 1 of "
 "that damage."
 msgstr ""
+"Jeśli jakieś źródło miałoby zadać obrażenia wędrowcowi pod twoim władaniem, "
+"zażegnaj 1 z owych obrażeń."
 
 #: ../../HOU.rst:74
 msgid ""
@@ -224,7 +236,7 @@ msgstr ""
 
 #: ../../HOU.rst:71
 msgid "Tap up to two target creatures."
-msgstr ""
+msgstr "Przekręć co najwyżej dwa wskazane stwory."
 
 #: ../../HOU.rst:73
 msgid "Cycling |mana_w| (|mana_w|, Discard this card: Draw a card.)"
@@ -249,6 +261,8 @@ msgid ""
 "Exile target white creature that's attacking or blocking. If it was a Gideon "
 "planeswalker, you gain 5 life."
 msgstr ""
+"Wygnaj wskazanego białego stwora, który atakuje lub blokuje. Jeśli ów stwór "
+"był wędrowcem Gideonem, zyskujesz 5 żyć."
 
 #: ../../HOU.rst:86
 msgid ""
@@ -260,6 +274,7 @@ msgstr ""
 #: ../../HOU.rst:85
 msgid "Whenever you cast a blue, black, or red spell, you gain 1 life."
 msgstr ""
+"Ilekroć rzucasz niebieski, czarny, lub czerwony czar, zyskujesz 1 życie."
 
 #: ../../HOU.rst:92
 msgid ""
@@ -273,10 +288,12 @@ msgid ""
 "This spell costs |mana_3| less to cast if there are ten or more nonland "
 "permanents on the battlefield."
 msgstr ""
+"Rzucenie tego czaru kosztuje o |mana_3| mniej, jeśli na polu walki znajduje "
+"się dziesięć lub więcej nie-lądowych permanentów."
 
 #: ../../HOU.rst:91
 msgid "Destroy all nonland permanents."
-msgstr ""
+msgstr "Zniszcz wszystkie nielądowe permanenty."
 
 #: ../../HOU.rst:96
 msgid ""
@@ -290,6 +307,8 @@ msgid ""
 "Whenever another Zombie enters the battlefield under your control, Mummy "
 "Paramount gets +1/+1 until end of turn."
 msgstr ""
+"Ilekroć inny Zombi wchodzi na pole walki pod twoim władaniem, ten stwór "
+"dostaje +1/+1 do końca tury."
 
 #: ../../HOU.rst:100
 msgid ""
@@ -304,6 +323,9 @@ msgid ""
 "combat damage that would be dealt to it this turn. (An exerted creature "
 "won't untap during your next untap step.)"
 msgstr ""
+"Atakując tym stworem, możesz go wytężyć. Kiedy to robisz, zażegnaj wszystkie "
+"obrażenia bojowe, jakie miałby otrzymać w tej turze. (Wytężony stwór nie "
+"odkręci się w twoim najbliższym kroku odkręcania.)"
 
 #: ../../HOU.rst:104
 msgid ""
@@ -317,6 +339,8 @@ msgid ""
 "Your life total becomes equal to your starting life total. Lands you control "
 "don't untap during your next untap step."
 msgstr ""
+"Twoje życie staje się równe twojemu startowemu życiu. Lądy, którymi władasz, "
+"nie odkręcą się w twoim najbliższym kroku odkręcania."
 
 #: ../../HOU.rst:112
 msgid ""
@@ -327,19 +351,23 @@ msgstr ""
 
 #: ../../HOU.rst:107 ../../HOU.rst:201 ../../HOU.rst:437
 msgid "Enchant player"
-msgstr ""
+msgstr "Zaurocz gracza"
 
 #: ../../HOU.rst:109
 msgid ""
 "Creatures enchanted player controls lose all abilities and have base power "
 "and toughness 1/1."
 msgstr ""
+"Stwory, którymi włada zauroczony gracz, tracą wszystkie zdolności i mają "
+"bazową siłę i wytrzymałość 1/1."
 
 #: ../../HOU.rst:111
 msgid ""
 "Enchanted player can't activate abilities that aren't mana abilities or "
 "loyalty abilities."
 msgstr ""
+"Zauroczony gracz nie może aktywować zdolności innych niż zdolności dające "
+"manę lub zdolności lojalnościowe."
 
 #: ../../HOU.rst:116
 msgid ""
@@ -350,6 +378,7 @@ msgstr ""
 #: ../../HOU.rst:115
 msgid "Sandblast deals 5 damage to target attacking or blocking creature."
 msgstr ""
+"Ten czar zadaje 5 obrażeń wskazanemu atakującemu lub blokującemu stworowi."
 
 #: ../../HOU.rst:126
 msgid ""
@@ -371,10 +400,13 @@ msgid ""
 "this turn to you and permanents you control is dealt to enchanted creature "
 "instead."
 msgstr ""
+"Kiedy ten urok wchodzi na pole walki, wszystkie obrażenia, jakie miałyby być "
+"zadane w tej turze tobie i permanentom, którymi władasz, zamiast tego "
+"zostają zadane zauroczonemu stworowi."
 
 #: ../../HOU.rst:125
 msgid "Enchanted creature gets +0/+3."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +0/+3."
 
 #: ../../HOU.rst:132
 msgid ""
@@ -384,11 +416,13 @@ msgstr ""
 
 #: ../../HOU.rst:129
 msgid "Players can't get counters."
-msgstr ""
+msgstr "Gracze nie mogą otrzymywać znaczników."
 
 #: ../../HOU.rst:131
 msgid "Counters can't be put on artifacts, creatures, enchantments, or lands."
 msgstr ""
+"Znaczniki nie mogą być umieszczane na artefaktach, stworach, urokach lub "
+"lądach."
 
 #: ../../HOU.rst:136
 msgid ""
@@ -403,6 +437,9 @@ msgid ""
 "Desert card in your graveyard. (Damage dealt by this creature also causes "
 "you to gain that much life.)"
 msgstr ""
+"O ile władasz Pustynią lub w twoim cmentarzu znajduje się karta Pustyni, ten "
+"stwór ma więź życia. (Obrażania zadane przez tego stwora powodują, że "
+"zyskujesz tyle samo życia.)"
 
 #: ../../HOU.rst:142
 msgid ""
@@ -436,6 +473,9 @@ msgid ""
 "token with vigilance. (An exerted creature won't untap during your next "
 "untap step.)"
 msgstr ""
+"|tap|, wytęż tego stwora: Stwórz żeton białego stwora Wojownik 1/1 z "
+"czujnością. (Wytężony stwór nie odkręci się w twoim najbliższym kroku "
+"odkręcania.)"
 
 #: ../../HOU.rst:152
 msgid ""
@@ -449,6 +489,8 @@ msgid ""
 "When Sunscourge Champion enters the battlefield, you gain life equal to its "
 "power."
 msgstr ""
+"Kiedy ten stwórz wchodzi na pole walki, zyskujesz tyle żyć, ile wynosi jego "
+"siła."
 
 #: ../../HOU.rst:151
 msgid ""
@@ -479,6 +521,9 @@ msgid ""
 "mana_w|. If you do, return Unconventional Tactics from your graveyard to "
 "your hand."
 msgstr ""
+"Ilekroć Zombi wchodzi na pole walki pod twoim władaniem, możesz zapłacić "
+"|mana_w|. Jeśli to zrobisz, przywróć tą kartę z twojego cmentarza do twojej "
+"ręki."
 
 #: ../../HOU.rst:164
 msgid ""
@@ -492,11 +537,15 @@ msgid ""
 "You may exert Vizier of the True as it attacks. (It won't untap during your "
 "next untap step.)"
 msgstr ""
+"Atakując tym stworem, możesz go wytężyć. (Wytężony stwór nie odkręci się w "
+"twoim najbliższym kroku odkręcania.)"
 
 #: ../../HOU.rst:163
 msgid ""
 "Whenever you exert a creature, tap target creature an opponent controls."
 msgstr ""
+"Ilekroć wytężasz stwora, przekręć wskazanego stwora pod władaniem "
+"przeciwnika."
 
 #: ../../HOU.rst:170
 msgid ""
@@ -509,6 +558,8 @@ msgid ""
 "Whenever Aerial Guide attacks, another target attacking creature gains "
 "flying until end of turn."
 msgstr ""
+"Ilekroć ten stwór atakuje, inny wskazany atakujący stwór zyskuje latanie do "
+"końca tury."
 
 #: ../../HOU.rst:176
 msgid ""
@@ -529,6 +580,8 @@ msgid ""
 "When Champion of Wits enters the battlefield, you may draw cards equal to "
 "its power. If you do, discard two cards."
 msgstr ""
+"Kiedy ten stwór wchodzi na pole walki, możesz dobrać tyle kart, ile wynosi "
+"jego siła. Jeśli to zrobisz, odrzuć dwie karty."
 
 #: ../../HOU.rst:181
 msgid ""
@@ -554,6 +607,8 @@ msgid ""
 "Counter target spell unless its controller pays |mana_1| for each card in "
 "your graveyard."
 msgstr ""
+"Skontruj wskazany czar dopóki jego władca nie zapłaci |mana_1| za każdą "
+"kartę w twoim cmentarzu."
 
 #: ../../HOU.rst:192
 msgid ""
@@ -567,6 +622,8 @@ msgid ""
 "Whenever you cycle or discard a card, Cunning Survivor gets +1/+0 until end "
 "of turn and can't be blocked this turn."
 msgstr ""
+"Ilekroć recyklujesz lub odrzucasz kartę, ten stwór otrzymuje +1/+0 do końca "
+"tury i nie może być blokowany w tej turze."
 
 #: ../../HOU.rst:198
 msgid ""
@@ -584,7 +641,7 @@ msgstr ""
 #: ../../HOU.rst:197
 msgid ""
 "Whenever Eternal of Harsh Truths attacks and isn't blocked, draw a card."
-msgstr ""
+msgstr "Ilekroć ten stwór atakuje i nie zostaje zablokowany, dobierz kartę."
 
 #: ../../HOU.rst:204
 msgid ""
@@ -613,6 +670,9 @@ msgid ""
 "way, create a token that's a copy of that card, except it's a 4/4 black "
 "Zombie."
 msgstr ""
+"Wygnaj X wskazanych kart stworów z twojego cmentarza. Za każdą kartę wygnaną "
+"w ten sposób, stwórz żeton będący jej kopią z wyjątkiem tego, że jest to "
+"czarny Zombi 4/4."
 
 #: ../../HOU.rst:214
 msgid ""
@@ -626,6 +686,9 @@ msgid ""
 "Creatures target opponent controls attack this turn if able. During that "
 "player's next untap step, creatures they control don't untap."
 msgstr ""
+"Stwory pod władaniem wskazanego przeciwnika atakują w tej turze, jeśli mogą. "
+"W następnym kroku odkręcania owego gracza, stwory pod jego władaniem nie "
+"odkręcają się."
 
 #: ../../HOU.rst:218
 msgid ""
