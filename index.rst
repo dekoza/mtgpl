@@ -136,7 +136,19 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 * Zofia Wąchocka - tłumacz, filolog
 * Roman Cupek - nadzorca merytoryczny
 
+Kwestie prawne
+==============
 
+* Niniejszy serwis działa zgodnie z zasadami zawartymi w dokumencie
+`Wizards of the Coast's Fan Content Policy<https://company.wizards.com/fancontentpolicy>` (lub przynajmniej mocno się stara).
+* Zawartość niniejszego serwisu NIE JEST zatwierdzona lub sponsorowana przez Wizards of the Coast LLC.
+* Tłumaczenia zawarte w tym serwisie (CC) copyleft Dominik Kozaczko. Some rights reversed.
+* Licencja tłumaczeń: `CC BY-NC-SA 4.0<https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pl>` (licencja ta nie dotyczy Wizards of the Coast LLC.)
+
+Legal notice
+------------
+
+* MTGpoPolsku.pl is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
 
 .. toctree::
    :hidden:
