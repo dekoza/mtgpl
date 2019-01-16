@@ -132,6 +132,7 @@ Niniejsze tłumaczenie powstało dzięki pracy następujących osób:
 
 * Dominik Kozaczko - pomysłodawca, główny tłumacz
 * Bartek Pękala - tłumacz
+* Krzysztof Buniewicz - tłumacz
 * Zofia Wąchocka - tłumacz, filolog
 * Roman Cupek - nadzorca merytoryczny
 
