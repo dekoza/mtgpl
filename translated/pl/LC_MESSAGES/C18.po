@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-01-16 08:38+0000\n"
+"PO-Revision-Date: 2019-01-16 20:43+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
 "Language: pl\n"
@@ -227,7 +227,7 @@ msgstr ""
 
 #: ../../C18.rst:95
 msgid "Menace"
-msgstr ""
+msgstr "Złowrogość"
 
 #: ../../C18.rst:97
 msgid "Lieutenant — At the beginning of combat on your turn, if you control your commander, each opponent loses 3 life."
@@ -1231,6 +1231,9 @@ msgstr ""
 #: ../../C18.rst:1105
 msgid "Improvise (Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for |mana_1|.)"
 msgstr ""
+"Improwizacja (Twoje artefakty mogą pomóc w rzucaniu tego czaru. Każdy "
+"artefakt, który przekręcisz po aktywacji zdolności dających manę, opłaca "
+"|mana_1|.)"
 
 #: ../../C18.rst:621
 msgid "Draw three cards."
@@ -1915,7 +1918,7 @@ msgstr ""
 #: ../../C18.rst:1009
 #: ../../C18.rst:1073
 msgid "Choose one —"
-msgstr ""
+msgstr "Wybierz jedno —"
 
 #: ../../C18.rst:1011
 msgid "Destroy target artifact."
@@ -2427,7 +2430,7 @@ msgstr ""
 
 #: ../../C18.rst:1293
 msgid "|tap|: Add |colorless|. (|colorless| represents colorless mana.)"
-msgstr ""
+msgstr "|tap|: Dostajesz |colorless|. (|colorless| oznacza bezkolorową manę.)"
 
 #: ../../C18.rst:1295
 msgid "|mana_2|, |tap|: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
