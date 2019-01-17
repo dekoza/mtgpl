@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-16 20:43+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2019-01-17 12:19+0000\n"
+"Last-Translator: Krzysztof Buniewicz <krzysztof.buniewicz@gmail.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/hou/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -262,7 +262,7 @@ msgid ""
 "planeswalker, you gain 5 life."
 msgstr ""
 "Wygnaj wskazanego białego stwora, który atakuje lub blokuje. Jeśli ów stwór "
-"był wędrowcem Gideonem, zyskujesz 5 żyć."
+"był wędrowcem o typie Gideon, zyskujesz 5 żyć."
 
 #: ../../HOU.rst:86
 msgid ""
@@ -699,6 +699,8 @@ msgstr ""
 #: ../../HOU.rst:217
 msgid "Counter target blue spell. If it was a Jace planeswalker spell, scry 2."
 msgstr ""
+"Skontruj wskazany niebieski czar. Jeśli ów czar był wędrowcem o typie Jace, "
+"wróż 2."
 
 #: ../../HOU.rst:222
 msgid ""
@@ -712,6 +714,8 @@ msgid ""
 "Gain control of target artifact, creature, or enchantment. Lands you control "
 "don't untap during your next untap step."
 msgstr ""
+"Zyskujesz władanie nad wskazanym artefaktem, stworem, lub urokiem. Lądy, "
+"którymi władasz, nie odkręcą się w twoim najbliższym kroku odkręcania."
 
 #: ../../HOU.rst:232
 msgid ""
@@ -734,6 +738,8 @@ msgid ""
 "When you cycle Nimble Obstructionist, counter target activated or triggered "
 "ability you don't control."
 msgstr ""
+"Kiedy recyklujesz tą kartę, skontruj wskazaną aktywowaną lub wyzwalaną "
+"zdolność, którą nie władasz."
 
 #: ../../HOU.rst:238
 msgid ""
@@ -747,6 +753,8 @@ msgid ""
 "Whenever you cycle or discard a card, target creature an opponent controls "
 "gets -2/-0 until end of turn."
 msgstr ""
+"Ilekroć recyklujesz lub odrzucasz kartę, wskazany stwór pod władaniem "
+"przeciwnika otrzymuje -2/-0 do końca tury."
 
 #: ../../HOU.rst:242
 msgid ""
@@ -1070,6 +1078,8 @@ msgid ""
 "Destroy all creatures. Lands you control don't untap during your next untap "
 "step."
 msgstr ""
+"Zniszcz wszystkie stwory. Lądy, którymi władasz, nie odkręcą się w twoim "
+"najbliższym kroku odkręcania."
 
 #: ../../HOU.rst:350
 msgid ""
@@ -1086,13 +1096,15 @@ msgstr ""
 
 #: ../../HOU.rst:355
 msgid "Target opponent exiles a creature they control."
-msgstr ""
+msgstr "Wskazany przeciwnik wygania stwora pod swoim władaniem."
 
 #: ../../HOU.rst:357
 msgid ""
 "Target opponent reveals their hand. You choose a nonland card from it. Exile "
 "that card."
 msgstr ""
+"Wskazany przeciwnik ujawnia swoją rękę. Wybierz z niej kartę nie będącą "
+"lądem i wygnaj ją."
 
 #: ../../HOU.rst:366
 msgid ""
