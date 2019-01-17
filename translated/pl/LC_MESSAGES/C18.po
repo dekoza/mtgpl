@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 2019.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-14 07:10+0100\n"
-"PO-Revision-Date: 2019-01-16 20:43+0000\n"
+"PO-Revision-Date: 2019-01-17 23:27+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c18/pl/>\n"
 "Language: pl\n"
@@ -61,10 +61,12 @@ msgstr ""
 #: ../../C18.rst:183
 msgid "When you cast this spell, copy it for each time you've cast your commander from the command zone this game."
 msgstr ""
+"Kiedy rzucasz ten czar, skopiuj go tyle samo razy, ile w tej grze rzuciłeś "
+"swojego dowódcę ze strefy dowodzenia."
 
 #: ../../C18.rst:17
 msgid "Create a 4/4 white Angel creature token with flying."
-msgstr ""
+msgstr "Stwórz żeton białego stwora Anioł 4/4 z lataniem."
 
 #: ../../C18.rst:26
 msgid ":mtgtip:`Heavenly Blademaster<https://img.scryfall.com/cards/border_crop/en/c18/3.jpg?1535501885|https://scryfall.com/card/c18/3/heavenly-blademaster?utm_source=api>`"
@@ -72,15 +74,19 @@ msgstr ""
 
 #: ../../C18.rst:21
 msgid "Flying, double strike"
-msgstr ""
+msgstr "Latanie, podwójny cios"
 
 #: ../../C18.rst:23
 msgid "When Heavenly Blademaster enters the battlefield, you may attach any number of Auras and Equipment you control to it."
 msgstr ""
+"Kiedy ten stwór wejdzie na pole walki, możesz dołączyć do niego dowolną "
+"liczbę Aur i Ekwipunków pod twoim władaniem."
 
 #: ../../C18.rst:25
 msgid "Other creatures you control get +1/+1 for each Aura and Equipment attached to Heavenly Blademaster."
 msgstr ""
+"Inne stwory pod twoim władaniem dostają +1/+1 za każdą Aurę i Ekwipunek "
+"dołączone do tego stwora."
 
 #: ../../C18.rst:32
 msgid ":mtgtip:`Loyal Unicorn<https://img.scryfall.com/cards/border_crop/en/c18/4.jpg?1535501901|https://scryfall.com/card/c18/4/loyal-unicorn?utm_source=api>`"
@@ -93,6 +99,10 @@ msgstr "Czujność"
 #: ../../C18.rst:31
 msgid "Lieutenant — At the beginning of combat on your turn, if you control your commander, prevent all combat damage that would be dealt to creatures you control this turn. Other creatures you control gain vigilance until end of turn."
 msgstr ""
+"Porucznik — Na początku walki w twojej turze, jeśli władasz swoim dowódcą, "
+"zażegnaj wszystkie obrażenia bojowa, który mogłyby zostać zadane stworom pod "
+"twoim władaniem w tej turze. Inne stwory pod twoim władaniem zyskują "
+"czujność do końca tury."
 
 #: ../../C18.rst:36
 msgid ":mtgtip:`Magus of the Balance<https://img.scryfall.com/cards/border_crop/en/c18/5.jpg?1535501920|https://scryfall.com/card/c18/5/magus-of-the-balance?utm_source=api>`"
@@ -1366,6 +1376,8 @@ msgstr ""
 #: ../../C18.rst:697
 msgid "Flashback |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
+"kartę z twojego cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C18.rst:702
 msgid ":mtgtip:`Moonlight Bargain<https://img.scryfall.com/cards/border_crop/en/c18/114.jpg?1535503527|https://scryfall.com/card/c18/114/moonlight-bargain?utm_source=api>`"
@@ -1622,6 +1634,8 @@ msgstr ""
 #: ../../C18.rst:839
 msgid "Flashback |mana_5|\\ |mana_g|\\ |mana_g| (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_5|\\ |mana_g|\\ |mana_g| (Możesz zagrać tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C18.rst:844
 msgid ":mtgtip:`Cultivate<https://img.scryfall.com/cards/border_crop/en/c18/138.jpg?1535503852|https://scryfall.com/card/c18/138/cultivate?utm_source=api>`"
@@ -2542,7 +2556,7 @@ msgstr ""
 
 #: ../../C18.rst:1361
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../C18.rst:1368
 msgid ":mtgtip:`Arcane Sanctum<https://img.scryfall.com/cards/border_crop/en/c18/232.jpg?1535505162|https://scryfall.com/card/c18/232/arcane-sanctum?utm_source=api>`"
@@ -3222,7 +3236,7 @@ msgstr ""
 #: ../../C18.rst:1747
 #: ../../C18.rst:1781
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../C18.rst:1756
 msgid ":mtgtip:`Tranquil Cove<https://img.scryfall.com/cards/border_crop/en/c18/288.jpg?1535505958|https://scryfall.com/card/c18/288/tranquil-cove?utm_source=api>`"
@@ -3270,7 +3284,7 @@ msgstr ""
 
 #: ../../C18.rst:1779
 msgid "Woodland Stream enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../C18.rst:1786
 msgid ":mtgtip:`Plains<https://img.scryfall.com/cards/border_crop/en/c18/293.jpg?1535506031|https://scryfall.com/card/c18/293/plains?utm_source=api>`"
