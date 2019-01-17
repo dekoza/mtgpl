@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2019-01-16 20:42+0000\n"
+"PO-Revision-Date: 2019-01-17 23:27+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
@@ -1705,6 +1705,8 @@ msgid ""
 "Each instant and sorcery card in your graveyard gains flashback until end"
 " of turn. The flashback cost is equal to its mana cost."
 msgstr ""
+"Każda karta sztuczki i obrzędu w twoim cmentarzu zyskuje wspomnienie do "
+"końca tury. Koszt wspomnienia jest równy jej kosztowi many."
 
 #: ../../C16.rst:1154
 msgid ""
@@ -3662,7 +3664,7 @@ msgstr ""
 
 #: ../../C16.rst:2555
 msgid "|tap|: Add |mana_b| or |mana_r|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_b| lub |mana_r|."
 
 #: ../../C16.rst:2567
 msgid "Dreadship Reef"
@@ -4192,7 +4194,7 @@ msgstr ""
 
 #: ../../C16.rst:2950
 msgid "|tap|: Add |mana_g| or |mana_u|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_g| lub |mana_u|."
 
 #: ../../C16.rst:2962
 msgid "Transguild Promenade"
