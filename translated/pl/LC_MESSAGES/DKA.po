@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-16 08:38+0000\n"
+"PO-Revision-Date: 2019-01-17 23:27+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/dka/pl/>\n"
 "Language: pl\n"
@@ -356,6 +356,8 @@ msgid ""
 "Flashback |mana_g| (You may cast this card from your graveyard for its "
 "flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_g| (Możesz zagrać tę kartę z twojego cmentarza za koszt "
+"wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:112
 msgid ""
@@ -572,13 +574,12 @@ msgid ""
 msgstr ""
 
 #: ../../DKA.rst:181
-#, fuzzy
 msgid ""
 "Flashback |mana_7|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
-"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
+"Wspomnienie |mana_7|\\ |mana_u| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:186
 msgid ""
@@ -745,13 +746,12 @@ msgid "Return target instant or sorcery card from your graveyard to your hand."
 msgstr ""
 
 #: ../../DKA.rst:233 ../../DKA.rst:499
-#, fuzzy
 msgid ""
 "Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
-"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
+"Wspomnienie |mana_2|\\ |mana_r| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:240
 msgid ""
@@ -797,6 +797,8 @@ msgid ""
 "Flashback |mana_w| (You may cast this card from your graveyard for its "
 "flashback cost. Then exile it.)"
 msgstr ""
+"Wspomnienie |mana_w| (Możesz zagrać tę kartę z twojego cmentarza za koszt "
+"wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:262
 msgid ""
@@ -1225,13 +1227,12 @@ msgid "Create a 2/2 black Zombie creature token."
 msgstr ""
 
 #: ../../DKA.rst:417
-#, fuzzy
 msgid ""
 "Flashback |mana_4|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
-"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
+"Wspomnienie |mana_4|\\ |mana_u| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:424
 msgid ""
@@ -1416,13 +1417,12 @@ msgid "Burning Oil deals 3 damage to target attacking or blocking creature."
 msgstr ""
 
 #: ../../DKA.rst:481
-#, fuzzy
 msgid ""
 "Flashback |mana_3|\\ |mana_w| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
-"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
+"Wspomnienie |mana_3|\\ |mana_w| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:488
 msgid ""
@@ -1744,13 +1744,12 @@ msgid "Discard all the cards in your hand, then draw that many cards."
 msgstr ""
 
 #: ../../DKA.rst:599
-#, fuzzy
 msgid ""
 "Flashback |mana_5|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
-"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
+"Wspomnienie |mana_5|\\ |mana_r| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:608
 msgid ""
@@ -1985,13 +1984,12 @@ msgid ""
 msgstr ""
 
 #: ../../DKA.rst:683
-#, fuzzy
 msgid ""
 "Flashback |mana_5|\\ |mana_g|\\ |mana_g| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
-"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
+"Wspomnienie |mana_5|\\ |mana_g|\\ |mana_g| (Możesz zagrać tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:690
 msgid ""
@@ -2161,13 +2159,12 @@ msgid ""
 msgstr ""
 
 #: ../../DKA.rst:741
-#, fuzzy
 msgid ""
 "Flashback |mana_2|\\ |mana_u| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
-"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
+"Wspomnienie |mana_2|\\ |mana_u| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:746
 msgid ""
@@ -2222,13 +2219,12 @@ msgid "Target creature gets +3/+1 and gains trample until end of turn."
 msgstr ""
 
 #: ../../DKA.rst:763
-#, fuzzy
 msgid ""
 "Flashback |mana_3|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
-"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
+"Wspomnienie |mana_3|\\ |mana_r| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../DKA.rst:770
 msgid ""
