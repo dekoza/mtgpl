@@ -1,3 +1,5 @@
+.. include:: progress.rst
+
 **************************************
  Tłumaczenie gry Magic: The Gathering
 **************************************
@@ -11,7 +13,7 @@ Jeśli uważasz, że projekt ten jest przydatny, możesz `wesprzeć autora na Pa
 Instrukcje
 ==========
 
-:doc:`Podstawowy podręcznik zasad<rulebook>` (100%)
+:doc:`Podstawowy podręcznik zasad<rulebook>` |p100|
 
 .. :doc:`Kompletne Zasady<comprules>` (0%)
 
@@ -21,44 +23,44 @@ Tłumaczenie dodatków
 Nadochodzące
 ------------
 
-* :mtgexp:`RNA` :doc:`Ravnica Allegiance spoiler (pełny)<RNA>` (100%)
+* :mtgexp:`RNA` :doc:`Ravnica Allegiance spoiler (pełny)<RNA>` |p100|
 
 Standard
 --------
 
-* :mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` (100%)
-* :mtgexp:`M19` :doc:`Magic 2019 Core Set<M19>` (100%)
-* :mtgexp:`DOM` :doc:`Dominaria<DOM>` (100%)
-* :mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` (100%)
-* :mtgexp:`XLN` :doc:`Ixalan<XLN>` (100%)
+* :mtgexp:`GRN` :doc:`Guilds of Ravnica<GRN>` |p100|
+* :mtgexp:`M19` :doc:`Magic 2019 Core Set<M19>` |p100|
+* :mtgexp:`DOM` :doc:`Dominaria<DOM>` |p100|
+* :mtgexp:`RIX` :doc:`Rivals of Ixalan<RIX>` |p100|
+* :mtgexp:`XLN` :doc:`Ixalan<XLN>` |p100|
 
 Modern
 ------
 
-* :mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` (11%)
-* :mtgexp:`AKH` :doc:`Amonkhet<AKH>` (18%)
-* :mtgexp:`AER` :doc:`Aether Revolt<AER>` (12%)
-* :mtgexp:`KLD` :doc:`Kaladesh<KLD>` (9%)
-* :mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` (7%)
-* :mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` (11%)
-* :mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` (9%)
-* :mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` (11%)
-* :mtgexp:`ORI` :doc:`Origins<ORI>` (18%)
-* :mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` (13%)
-* :mtgexp:`FRF` :doc:`Fate Reforged<FRF>` (100%)
-* :mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` (85%)
-* :mtgexp:`M15` :doc:`Magic 2015 Core Set<M15>` (20%)
-* :mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` (38%)
-* :mtgexp:`BNG` :doc:`Born of the Gods<BNG>` (100%)
-* :mtgexp:`THS` :doc:`Theros<THS>` (100%)
-* :mtgexp:`M14` :doc:`Magic 2014 Core Set<M14>` (100%)
-* :mtgexp:`DGM` :doc:`Dragons' Maze<DGM>` (100%)
-* :mtgexp:`GTC` :doc:`Gatecrash<GTC>` (100%)
-* :mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` (100%)
-* :mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` (17%)
-* :mtgexp:`DKA` :doc:`Dark Ascension<DKA>` (10%)
-* :mtgexp:`ISD` :doc:`Innistrad<ISD>` (13%)
-* :mtgexp:`NPH` :doc:`New Phyrexia<NPH>` (9%)
+* :mtgexp:`HOU` :doc:`Hour of Devastation<HOU>` |p25|
+* :mtgexp:`AKH` :doc:`Amonkhet<AKH>` |p25|
+* :mtgexp:`AER` :doc:`Aether Revolt<AER>` |p25|
+* :mtgexp:`KLD` :doc:`Kaladesh<KLD>` |p25|
+* :mtgexp:`EMN` :doc:`Eldritch Moon<EMN>` |p25|
+* :mtgexp:`SOI` :doc:`Shadows over Innistrad<SOI>` |p25|
+* :mtgexp:`OGW` :doc:`Oath of the Gatewatch<OGW>` |p25|
+* :mtgexp:`BFZ` :doc:`Battle for Zendikar<BFZ>` |p25|
+* :mtgexp:`ORI` :doc:`Origins<ORI>` |p25|
+* :mtgexp:`DTK` :doc:`Dragons of Tarkir<DTK>` |p25|
+* :mtgexp:`FRF` :doc:`Fate Reforged<FRF>` |p100|
+* :mtgexp:`KTK` :doc:`Khans of Tarkir<KTK>` |p75|
+* :mtgexp:`M15` :doc:`Magic 2015 Core Set<M15>` |p25|
+* :mtgexp:`JOU` :doc:`Journey into Nyx<JOU>` |p50|
+* :mtgexp:`BNG` :doc:`Born of the Gods<BNG>` |p100|
+* :mtgexp:`THS` :doc:`Theros<THS>` |p100|
+* :mtgexp:`M14` :doc:`Magic 2014 Core Set<M14>` |p100|
+* :mtgexp:`DGM` :doc:`Dragons' Maze<DGM>` |p100|
+* :mtgexp:`GTC` :doc:`Gatecrash<GTC>` |p100|
+* :mtgexp:`RTR` :doc:`Return to Ravnica<RTR>` |p100|
+* :mtgexp:`AVR` :doc:`Avacyn Restored<AVR>` |p25|
+* :mtgexp:`DKA` :doc:`Dark Ascension<DKA>` |p25|
+* :mtgexp:`ISD` :doc:`Innistrad<ISD>` |p25|
+* :mtgexp:`NPH` :doc:`New Phyrexia<NPH>` |p25|
 
 Pozostałe produkty
 ==================
@@ -66,46 +68,46 @@ Pozostałe produkty
 Zestawy gildyjne
 ----------------
 
-* :mtgexp:`azorius` :mtgexp:`gruul` :mtgexp:`rakdos` :mtgexp:`simic` :mtgexp:`orzhov` :doc:`Ravnica Allegiance Kits<GK2>` (0%)
-* :mtgexp:`dimir` :mtgexp:`selesnya` :mtgexp:`izzet` :mtgexp:`boros` :mtgexp:`golgari` :doc:`Guilds of Ravnica Kits<GK1>` (0%)
+* :mtgexp:`azorius` :mtgexp:`gruul` :mtgexp:`rakdos` :mtgexp:`simic` :mtgexp:`orzhov` :doc:`Ravnica Allegiance Kits<GK2>` |p25|
+* :mtgexp:`dimir` :mtgexp:`selesnya` :mtgexp:`izzet` :mtgexp:`boros` :mtgexp:`golgari` :doc:`Guilds of Ravnica Kits<GK1>` |p25|
 
 
 Seria 'Masters'
 ---------------
 
-* :mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` 2018 (0%)
-* :mtgexp:`A25` :doc:`Masters 25<A25>` 2018 (0%)
-* :mtgexp:`IMA` :doc:`Iconic Masters<IMA>` 2017 (0%)
-* :mtgexp:`MM3` :doc:`Modern Masters 2017<MM3>` (0%)
-* :mtgexp:`EMA` :doc:`Eternal Masters<EMA>` 2016 (0%)
-* :mtgexp:`MM2` :doc:`Modern Masters 2015<MM2>` (0%)
-* :mtgexp:`MMA` :doc:`Modern Masters<MMA>` 2013 (0%)
+* :mtgexp:`UMA` :doc:`Ultimate Masters<UMA>` 2018 |p25|
+* :mtgexp:`A25` :doc:`Masters 25<A25>` 2018 |p25|
+* :mtgexp:`IMA` :doc:`Iconic Masters<IMA>` 2017 |p25|
+* :mtgexp:`MM3` :doc:`Modern Masters 2017<MM3>` |p25|
+* :mtgexp:`EMA` :doc:`Eternal Masters<EMA>` 2016 |p25|
+* :mtgexp:`MM2` :doc:`Modern Masters 2015<MM2>` |p25|
+* :mtgexp:`MMA` :doc:`Modern Masters<MMA>` 2013 |p25|
 
 Commander i pokrewne
 --------------------
 
-:doc:`Zasady formatu Commander (Dowódca)<commander>` (18%)
+:doc:`Zasady formatu Commander (Dowódca)<commander>` |p25|
 
-* :mtgexp:`C18` :doc:`Commander 2018<C18>` (9%)
-* :mtgexp:`BBD` :doc:`Battlebond<BBD>` (0%)
-* :mtgexp:`C17` :doc:`Commander 2017<C17>` (9%)
-* :mtgexp:`C16` :doc:`Commander 2016<C16>` (9%)
-* :mtgexp:`C15` :doc:`Commander 2015<C15>` (9%)
-* :mtgexp:`C14` :doc:`Commander 2014<C14>` (9%)
-* :mtgexp:`C13` :doc:`Commander 2013<C13>` (13%)
+* :mtgexp:`C18` :doc:`Commander 2018<C18>` |p25|
+* :mtgexp:`BBD` :doc:`Battlebond<BBD>` |p25|
+* :mtgexp:`C17` :doc:`Commander 2017<C17>` |p25|
+* :mtgexp:`C16` :doc:`Commander 2016<C16>` |p25|
+* :mtgexp:`C15` :doc:`Commander 2015<C15>` |p25|
+* :mtgexp:`C14` :doc:`Commander 2014<C14>` |p25|
+* :mtgexp:`C13` :doc:`Commander 2013<C13>` |p25|
 
 Pozostałe produkty
 ==================
 
-* :mtgexp:`GNT` :doc:`Game Night<GNT>` (0%)
-* :mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` (0%)
+* :mtgexp:`GNT` :doc:`Game Night<GNT>` |p25|
+* :mtgexp:`E02` :doc:`Explorers of Ixalan<E02>` |p25|
 
 Poniższe produkty nie zawierają zwykłych kart do Magica, ale umożliwiają specjalne rodzaje rozgrywek.
 
-* :doc:`Bohaterowie<THS_heroes>` (100%) - uwzględnia karty z Journey into Nyx
-* :doc:`Pokonaj Bóstwo<JOU_god>` (0%)
-* :doc:`Walka z Hordą<BNG_horde>` (100%)
-* :doc:`Staw czoła Hydrze<THS_hydra>` (100%)
+* :doc:`Bohaterowie<THS_heroes>` |p100|
+* :doc:`Pokonaj Bóstwo<JOU_god>` |p25|
+* :doc:`Walka z Hordą<BNG_horde>` |p100|
+* :doc:`Staw czoła Hydrze<THS_hydra>` |p100|
 
 Warto przeczytać
 ================
