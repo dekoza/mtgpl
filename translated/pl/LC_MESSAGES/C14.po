@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-16 08:38+0000\n"
+"PO-Revision-Date: 2019-01-17 23:27+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c14/pl/>\n"
 "Language: pl\n"
@@ -1520,7 +1520,7 @@ msgstr ""
 
 #: ../../C14.rst:521
 msgid "Flying, double strike"
-msgstr ""
+msgstr "Latanie, podwójny cios"
 
 #: ../../C14.rst:526
 msgid ""
@@ -1675,13 +1675,12 @@ msgstr ""
 "Stwórz żeton stwora będącego kopią wskazanego stwora pod twoim władaniem."
 
 #: ../../C14.rst:581
-#, fuzzy
 msgid ""
 "Flashback |mana_5|\\ |mana_u|\\ |mana_u| (You may cast this card from your "
 "graveyard for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
-"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
+"Wspomnienie |mana_5|\\ |mana_u|\\ |mana_u| (Możesz zagrać tę kartę z twojego "
+"cmentarza za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C14.rst:586
 msgid ""
@@ -2810,13 +2809,12 @@ msgid "Draw two cards, then discard two cards."
 msgstr ""
 
 #: ../../C14.rst:997
-#, fuzzy
 msgid ""
 "Flashback |mana_2|\\ |mana_r| (You may cast this card from your graveyard "
 "for its flashback cost. Then exile it.)"
 msgstr ""
-"Wspomnienie |mana_7|\\ |mana_b|\\ |mana_b|\\ |mana_b| (Możesz zagrać tę "
-"kartę z twojego cmentarza za koszt wspomnienia. Następnie wypędź ją.)"
+"Wspomnienie |mana_2|\\ |mana_r| (Możesz zagrać tę kartę z twojego cmentarza "
+"za koszt wspomnienia. Następnie wygnaj ją.)"
 
 #: ../../C14.rst:1002
 msgid ""
