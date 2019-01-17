@@ -169,7 +169,7 @@
    Enchanted creature doesn't untap during its controller's untap step.
 
 
-:mtgtip:`Chemister's Insight<https://img.scryfall.com/cards/border_crop/front/0/e/0e13a295-0d51-4b56-8c58-0896eb41c567.jpg?1538878595|https://scryfall.com/card/grn/32/chemisters-insight?utm_source=api>`
+:mtgtip:`Chemister's Insight<https://img.scryfall.com/cards/border_crop/front/0/e/0e13a295-0d51-4b56-8c58-0896eb41c567.jpg?1547413218|https://scryfall.com/card/grn/32/chemisters-insight?utm_source=api>`
    Draw two cards.
 
    Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)
