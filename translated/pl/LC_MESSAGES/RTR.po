@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-15 23:59+0100\n"
-"PO-Revision-Date: 2019-01-16 20:43+0000\n"
+"PO-Revision-Date: 2019-01-18 08:46+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/rtr/pl/>\n"
 "Language: pl\n"
@@ -3474,21 +3474,19 @@ msgstr ""
 "zrobisz Temple Garden wchodzi na pole walki przekręcony."
 
 #: ../../RTR.rst:2079
-#, fuzzy
 msgid "Transguild Promenade"
-msgstr "Transguild Promenade"
+msgstr ""
 
 #: ../../RTR.rst:2074
 msgid "Transguild Promenade enters the battlefield tapped."
-msgstr "Transguild Promenade wchodzi na pole walki przekręcony."
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../RTR.rst:2076
 msgid ""
 "When Transguild Promenade enters the battlefield, sacrifice it unless you"
 " pay |mana_1|."
 msgstr ""
-"Kiedy Transguild Promenade wchodzi na pole walki, poświęć go dopóki nie "
-"zapłacisz |mana_1|."
+"Kiedy ta karta wejdzie na pole walki poświęć ją, chyba że zapłacisz |mana_1|."
 
 #: ../../RTR.rst:2084 ../../RTR.rst:2091 ../../RTR.rst:2098 ../../RTR.rst:2105
 #: ../../RTR.rst:2112
