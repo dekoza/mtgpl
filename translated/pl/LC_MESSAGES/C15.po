@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2019-01-17 23:27+0000\n"
+"PO-Revision-Date: 2019-01-18 08:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c15/pl/>\n"
 "Language: pl\n"
@@ -331,6 +331,8 @@ msgstr ""
 #: ../../C15.rst:208
 msgid "Return target creature card from your graveyard to your hand."
 msgstr ""
+"|mana_1|\\ |mana_b|, zapłać 2 życia: Przywróć wskazaną kartę stwora z "
+"twojego cmentarza do twojej ręki."
 
 #: ../../C15.rst:216
 msgid "Awaken the Sky Tyrant"
@@ -891,11 +893,11 @@ msgstr ""
 
 #: ../../C15.rst:583 ../../C15.rst:1872
 msgid "Flying, first strike"
-msgstr ""
+msgstr "Latanie, pierwszy cios"
 
 #: ../../C15.rst:585
 msgid "Enchanted creature gets +4/+4 and has flying and first strike."
-msgstr ""
+msgstr "Zauroczony stwór dostaje +4/+4 oraz ma latanie i pierwszy cios."
 
 #: ../../C15.rst:595
 msgid "Crib Swap"
@@ -2180,7 +2182,7 @@ msgstr ""
 
 #: ../../C15.rst:1458 ../../C15.rst:1831
 msgid "This spell can't be countered."
-msgstr ""
+msgstr "Ten czar nie może być skontrowany."
 
 #: ../../C15.rst:1460
 msgid ""
@@ -3141,7 +3143,7 @@ msgstr ""
 
 #: ../../C15.rst:2108
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../C15.rst:2118
 msgid "Boros Cluestone"
@@ -3206,7 +3208,7 @@ msgstr ""
 
 #: ../../C15.rst:2156
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../C15.rst:2158
 msgid "|tap|: Add one mana of any color."
