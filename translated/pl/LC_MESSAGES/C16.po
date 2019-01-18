@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-16 00:38+0100\n"
-"PO-Revision-Date: 2019-01-17 23:27+0000\n"
+"PO-Revision-Date: 2019-01-18 08:45+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/c16/pl/>\n"
 "Language: pl\n"
@@ -713,7 +713,7 @@ msgstr ""
 
 #: ../../C16.rst:492 ../../C16.rst:2142 ../../C16.rst:2196 ../../C16.rst:2443
 msgid "Equip |mana_2|"
-msgstr ""
+msgstr "Wyposaż |mana_2|"
 
 #: ../../C16.rst:504
 msgid "Crystalline Crawler"
@@ -2132,6 +2132,8 @@ msgid ""
 "|mana_g|: Exile target card from a graveyard. If it was a creature card, "
 "put a +1/+1 counter on Scavenging Ooze and you gain 1 life."
 msgstr ""
+"|mana_g|: Wygnaj wskazaną kartę z cmentarza. Jeśli była to karta stwora, "
+"umieść znacznik +1/+1 na tym stworze i zyskaj 1 życie."
 
 #: ../../C16.rst:1443
 msgid "Shamanic Revelation"
@@ -2315,7 +2317,7 @@ msgstr "Latanie, dotyk śmierci"
 
 #: ../../C16.rst:1562
 msgid "When Baleful Strix enters the battlefield, draw a card."
-msgstr ""
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 #: ../../C16.rst:1572
 msgid "Bituminous Blast"
@@ -2600,7 +2602,7 @@ msgstr ""
 
 #: ../../C16.rst:1772 ../../C16.rst:2185 ../../C16.rst:2515
 msgid "Indestructible"
-msgstr ""
+msgstr "Niezniszczalność"
 
 #: ../../C16.rst:1774
 msgid ""
@@ -3816,7 +3818,7 @@ msgstr ""
 
 #: ../../C16.rst:2671
 msgid "|tap|: Add |mana_r|, |mana_g|, or |mana_w|."
-msgstr ""
+msgstr "|tap|: Dostajesz |mana_r|, |mana_g|, albo |mana_w|."
 
 #: ../../C16.rst:2681
 msgid "Karplusan Forest"
@@ -4202,13 +4204,14 @@ msgstr ""
 
 #: ../../C16.rst:2957
 msgid "Transguild Promenade enters the battlefield tapped."
-msgstr ""
+msgstr "Ta karta wchodzi na pole walki przekręcona."
 
 #: ../../C16.rst:2959
 msgid ""
 "When Transguild Promenade enters the battlefield, sacrifice it unless you"
 " pay |mana_1|."
 msgstr ""
+"Kiedy ta karta wejdzie na pole walki poświęć ją, chyba że zapłacisz |mana_1|."
 
 #: ../../C16.rst:2971
 msgid "Underground River"
