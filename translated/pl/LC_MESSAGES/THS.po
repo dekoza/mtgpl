@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-16 08:38+0000\n"
+"PO-Revision-Date: 2019-01-18 08:46+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ths/pl/>\n"
 "Language: pl\n"
@@ -104,7 +104,6 @@ msgstr ""
 # c14b3d0dbdfb406899cbdec720b0855e
 # 340f1b0f656341c58ecc62be0aa9dee6
 #: ../../THS.rst:19
-#, fuzzy
 msgid ""
 "Bestow |mana_5|\\ |mana_w|\\ |mana_w| (If you cast this card for its bestow "
 "cost, it's an Aura spell with enchant creature. It becomes a creature again "
@@ -199,7 +198,7 @@ msgstr "Zaurocz stwora"
 # 4ec7b63c24b948f28b9a7208d9279816
 #: ../../THS.rst:35
 msgid "When Chosen by Heliod enters the battlefield, draw a card."
-msgstr "Kiedy Chosen by Heliod wchodzi na pole walki, dobierz kartę."
+msgstr "Kiedy ten stwór wejdzie na pole walki, dobierz kartę."
 
 # 836790c508bb4f7cbedaf570990fb7f2
 # 7fd0e2d0d42e41af94dd21521c2f8e55
@@ -218,7 +217,8 @@ msgstr ""
 # 793ab3a6447f46cfa746cc4a6986bcbc
 #: ../../THS.rst:41
 msgid "Up to two target creatures each get +2/+2 until end of turn."
-msgstr "Każdy z najwyżej dwóch wskazanych stworów dostaje +2/+2 do końca tury."
+msgstr ""
+"Każdy z co najwyżej dwóch wskazanych stworów dostaje +2/+2 do końca tury."
 
 #: ../../THS.rst:48
 msgid ""
@@ -268,17 +268,15 @@ msgstr "+1: Umieść na polu walki trzy żetony białego stwora Soldier 1/1."
 # 396ca324092c47dd9674086cacd5bd1b
 # dc7610172a904810a55059dd4ec1af83
 #: ../../THS.rst:57
-#, fuzzy
 msgid "−3: Destroy all creatures with power 4 or greater."
-msgstr "-3: Zniszcz wszystkie stwory o sile 4 lub większej."
+msgstr "–3: Zniszcz wszystkie stwory o sile 4 lub większej."
 
 #: ../../THS.rst:59
-#, fuzzy
 msgid ""
 "−7: You get an emblem with \"Creatures you control get +2/+2 and have flying."
 "\""
 msgstr ""
-"-7: Dostajesz emblemat o treści \"Stwory, którymi władasz dostają +2/+2 i "
+"–7: Dostajesz emblemat o treści \"Stwory pod twoim władaniem dostają +2/+2 i "
 "mają latanie.\""
 
 #: ../../THS.rst:64
@@ -292,7 +290,7 @@ msgstr ""
 # 80d04988e9a74d698fba886d6de21586
 #: ../../THS.rst:63
 msgid "|tap|: Tap target creature with power 3 or less."
-msgstr "|tap|: Zaznacz wskazanego stwora o sile 3 lub mniejszej."
+msgstr "|tap|: Przekręć wskazanego stwora o sile 3 lub mniejszej."
 
 #: ../../THS.rst:68
 msgid ""
@@ -304,16 +302,15 @@ msgstr ""
 # 672f10e7db7642afa17bf9578756e036
 # e7f42e70931543f2837a2bae8937e697
 #: ../../THS.rst:67
-#, fuzzy
 msgid ""
 "When Evangel of Heliod enters the battlefield, create a number of 1/1 white "
 "Soldier creature tokens equal to your devotion to white. (Each |mana_w| in "
 "the mana costs of permanents you control counts toward your devotion to "
 "white.)"
 msgstr ""
-"Kiedy Evangel of Heliod wchodzi na pole walki, stwórz tyle żetonów białego "
-"stwora Soldier 1/1, ile wynosi twój kult białego. (Każda |mana_w| w kosztach "
-"many permanentów, którymi władasz wlicza się do twojego kultu białego.)"
+"Kiedy ta karta wejdzie na pole walki, stwórz tyle żetonów białego stwora "
+"Soldier 1/1, ile wynosi twój kult białego. (Każda |mana_w| w kosztach many "
+"permanentów pod twoim władaniem wlicza się do twojego kultu białego.)"
 
 #: ../../THS.rst:74
 msgid ""
@@ -334,8 +331,8 @@ msgid ""
 "Heroic — Whenever you cast a spell that targets Fabled Hero, put a +1/+1 "
 "counter on Fabled Hero."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący Fabled Hero, umieść znacznik +1/+1 "
-"na Fabled Hero."
+"Heroizm — Ilekroć rzucasz czar wskazujący tego stwora, umieść na nim "
+"znacznik +1/+1."
 
 #: ../../THS.rst:78
 msgid ""
@@ -352,9 +349,9 @@ msgid ""
 "counter on Favored Hoplite and prevent all damage that would be dealt to it "
 "this turn."
 msgstr ""
-"Heroizm — Ilekroć rzucasz czar wskazujący Favored Hoplite, umieść znacznik "
-"+1/+1 na Favored Hoplite i zapobiegnij wszystkim obrażeniom, które mogłyby "
-"mu być zadane w tej turze."
+"Heroizm — Ilekroć rzucasz czar wskazujący tego stwora, umieść na nim "
+"znacznik +1/+1 i zażegnaj wszystkie obrażenia, jakie mogłyby zostać mu "
+"zadane w tej turze."
 
 #: ../../THS.rst:84
 msgid ""
@@ -371,9 +368,9 @@ msgid ""
 "owner's control. Return Gift of Immortality to the battlefield attached to "
 "that creature at the beginning of the next end step."
 msgstr ""
-"Gdy zauroczony stwór umiera, przywróć ową kartę na pole walki pod władaniem "
-"jej właściciela. Przywróć Gift of Immortality na pole walki dołączone do "
-"owego stwora na początku następnego kroku końcowego."
+"Gdy zauroczony stwór umrze, przywróć go na pole walki pod władaniem jego "
+"właściciela. Przywróć tę kartę na pole walki dołączoną do owego stwora na "
+"początku najbliższego kroku końcowego."
 
 #: ../../THS.rst:88
 msgid ""
@@ -403,7 +400,7 @@ msgid ""
 "put that card on the bottom of your library.)"
 msgstr ""
 "Wskazany stwór dostaje +2/+2 do końca tury. Wróż 1. (Spójrz na wierzchnią "
-"kartę twojej biblioteki. Możesz położyć ową kartę na spodzie twojej "
+"kartę twojej biblioteki. Możesz umieścić ową kartę na spodzie twojej "
 "biblioteki.)"
 
 #: ../../THS.rst:102
@@ -436,9 +433,9 @@ msgid ""
 "creature. (Each |mana_w| in the mana costs of permanents you control counts "
 "toward your devotion to white.)"
 msgstr ""
-"Dopóki twój kult białego jest mniejszy niż pięć, Heliod nie jest stworem "
-"(Każda |mana_w| w kosztach many permanentów pod twoim władaniem wlicza się "
-"do twojego kultu białego.)"
+"O ile twój kult białego jest mniejszy niż pięć, Heliod nie jest stworem ("
+"Każda |mana_w| w kosztach many permanentów pod twoim władaniem wlicza się do "
+"twojego kultu białego.)"
 
 # 2d76ba454cd840c293d1e9c33ec2dd40
 # 2af1a23ba7c04359b3f50c22ccdf47aa
@@ -449,13 +446,12 @@ msgstr "Inne stwory pod twoim władaniem mają czujność."
 # 0e8293d8f93a40ccae4d17140fe68799
 # 61b7c81fc6fb4d1690195fd3b4a09c80
 #: ../../THS.rst:101
-#, fuzzy
 msgid ""
 "|mana_2|\\ |mana_w|\\ |mana_w|: Create a 2/1 white Cleric enchantment "
 "creature token."
 msgstr ""
 "|mana_2|\\ |mana_w|\\ |mana_w|: Umieść na polu walki żeton białego stwora-"
-"uroku Cleric 2/1."
+"uroku Kleryk 2/1."
 
 #: ../../THS.rst:110
 msgid ""
@@ -467,13 +463,12 @@ msgstr ""
 # 0d437aa4b66d4a1da6e6ddbf10a7e108
 # 7e35076bf2ab4f3b9e9f199a69f40073
 #: ../../THS.rst:105
-#, fuzzy
 msgid ""
 "Bestow |mana_6|\\ |mana_w| (If you cast this card for its bestow cost, it's "
 "an Aura spell with enchant creature. It becomes a creature again if it's not "
 "attached to a creature.)"
 msgstr ""
-"Obdaruj |mana_6|\\ |mana_w| (Jeśli zagrasz tę kartę za koszt obdarowania, "
+"Obdaruj |mana_6|\\ |mana_w| (Jeśli rzucisz tę kartę za koszt obdarowania, "
 "jest ona czarem Aury zauroczenia stwora. Ponownie staje się stworem, jeśli "
 "nie jest dołączona do stwora.)"
 
