@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MTG-pl 0.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-13 21:34+0100\n"
-"PO-Revision-Date: 2019-01-19 15:34+0000\n"
+"PO-Revision-Date: 2019-01-19 20:05+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <https://example.com/projects/mtg_pl/ori/pl/>\n"
 "Language: pl\n"
@@ -787,8 +787,7 @@ msgstr ""
 
 #: ../../ORI.rst:283
 msgid "When Claustrophobia enters the battlefield, tap enchanted creature."
-msgstr ""
-"Kiedy Klaustrofobia wchodzi na pole walki, przekręć zauroczonego stwora."
+msgstr "Kiedy ten urok wejdzie na pole walki, przekręć zauroczonego stwora."
 
 #: ../../ORI.rst:285
 msgid "Enchanted creature doesn't untap during its controller's untap step."
@@ -934,7 +933,7 @@ msgstr ""
 
 #: ../../ORI.rst:333
 msgid "Attacking creatures get -2/-0 until end of turn."
-msgstr ""
+msgstr "Atakujące stwory dostają -2/-0 do końca tury."
 
 #: ../../ORI.rst:340
 msgid ""
@@ -1192,6 +1191,8 @@ msgid ""
 "Whenever you cast a noncreature spell, creatures you control get +1/+1 until "
 "end of turn."
 msgstr ""
+"Ilekroć rzucisz czar nie będący stworem, stwory pod twoim władaniem dostają +"
+"1/+1 do końca tury."
 
 #: ../../ORI.rst:436
 msgid ""
@@ -1321,7 +1322,7 @@ msgid ""
 "When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter "
 "artifact creature tokens with flying."
 msgstr ""
-"Kiedy ta karta wejdzie na pole walki,  stwórz dwa żeton bezkolorowego "
+"Kiedy ten stwór wejdzie na pole walki, stwórz dwa żetony bezkolorowego "
 "artefaktycznego stwora Thopter 1/1 z lataniem."
 
 #: ../../ORI.rst:477
@@ -1329,6 +1330,8 @@ msgid ""
 "Tap two untapped artifacts you control: Target creature can't be blocked "
 "this turn."
 msgstr ""
+"Przekręć dwa odkręcone artefakty pod twoim władaniem: Wskazany stwór nie "
+"może być blokowany w tej turze."
 
 #: ../../ORI.rst:482
 msgid ""
